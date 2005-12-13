@@ -144,28 +144,43 @@ nustatyti, ar asmuo tinkamas tarnauti tarnybos pareigūnu.
  
 5
 straipsnis. Tarnybos pareigūno priesaika
-1. Asmuo,
-paskirtas į Specialiųjų tyrimų tarnybą, prieš pradėdamas eiti pareigas,
-prisiekia Lietuvos valstybei šiais žodžiais:
-„Aš, (vardas,
-pavardė), Specialiųjų tyrimų tarnybos pareigūnas (-ė), 
+1.
+Asmuo, paskirtas į Specialiųjų tyrimų tarnybą, prieš pradėdamas eiti pareigas,
+prisiekia Lietuvos valstybei. Prisiekiantis
+asmuo turi teisę pasirinkti vieną iš šiame straipsnyje nustatytų
+priesaikos tekstų. Nustatomi šie priesaikos
+tekstai:
+1)
+„Aš, (vardas, pavardė), Specialiųjų tyrimų tarnybos pareigūnas (-ė), 
 prisiekiu
 ištikimai tarnauti Lietuvos Respublikai, laikytis jos Konstitucijos ir kitų
-įstatymų, kovoti su korupcija ir nusikalstamumu, saugoti valstybės ir
-tarnybos paslaptis; 
-pasižadu būti
-teisingu ir sąžiningu pareigūnu, tinkamai atlikti man pavestas pareigas.
-Tepadeda man
-Dievas.“
-2. Prisiekti
-galima ir be paskutinio sakinio.
-3. Specialiųjų tyrimų tarnybos direktoriaus ir jo pavaduotojų
-priesaiką priima Respublikos Prezidentas, o kitų tarnybos pareigūnų –
-Specialiųjų tyrimų tarnybos direktorius. 
+įstatymų, kovoti su korupcija ir nusikalstamumu, saugoti valstybės ir tarnybos
+paslaptis; 
+pasižadu būti teisingas ir sąžiningas pareigūnas, tinkamai
+atlikti man pavestas pareigas.
+Tepadeda
+man Dievas.“;
+2)
+„Aš, (vardas, pavardė), Specialiųjų tyrimų tarnybos pareigūnas (-ė), 
+prisiekiu
+ištikimai tarnauti Lietuvos Respublikai, laikytis jos Konstitucijos ir kitų
+įstatymų, kovoti su korupcija ir nusikalstamumu, saugoti valstybės ir tarnybos
+paslaptis; 
+pasižadu
+būti teisingas ir sąžiningas pareigūnas, tinkamai atlikti man pavestas
+pareigas.“
+2. (Neteko
+galios nuo 2005 m. gruodžio 22 d.)
+3. Specialiųjų tyrimų tarnybos direktoriaus ir jo
+pavaduotojų priesaiką priima Respublikos Prezidentas, o kitų tarnybos pareigūnų
+– Specialiųjų tyrimų tarnybos direktorius. 
 4. Pasirašyti lapai su priesaikos tekstu saugomi
 pareigūnų asmens bylose. 
 5. Neprisiekęs
 asmuo negali dirbti Specialiųjų tyrimų tarnyboje pareigūnu.
+Straipsnio pakeitimai:
+Nr. X-441, 2005-12-13,
+Žin., 2005, Nr. 149-5418 (2005-12-22)
  
 6
 straipsnis. Tarnybos pareigūnas 
@@ -185,8 +200,8 @@ prieštaraujantį įstatymui ar viršijantį aukštesniojo pagal pavaldumą pare
 tarnybinius įgaliojimus, jis turi nedelsdamas pranešti Specialiųjų tyrimų
 tarnybos direktoriui. Apie Specialiųjų tyrimų tarnybos direktoriaus duotą
 įsakymą ar nurodymą, aiškiai prieštaraujantį įstatymui, nedelsiant pranešama
-generaliniam prokurorui ar jo pavaduotojui. Įstatymui prieštaraujančio įsakymo
-ar nurodymo vykdymas neatleidžia nuo atsakomybės.
+generaliniam prokurorui ar jo pavaduotojui. Įstatymui prieštaraujančio
+įsakymo ar nurodymo vykdymas neatleidžia nuo atsakomybės.
  
 7 straipsnis. Bandomasis laikotarpis
 Skiriamam į Specialiųjų tyrimų tarnybą asmeniui gali
@@ -203,8 +218,8 @@ direktoriaus įsakymu gali būti perkeltas į aukštesnes, lygiareikšmes ar
 žemesnes tarnybos pareigūno pareigas.
 2. Tarnybos pareigūnas į aukštesnes pareigas gali
 būti perkeltas:
-1) esant tarnybiniam
-būtinumui – ne ilgiau kaip 3 mėnesiams;
+1) esant
+tarnybiniam būtinumui – ne ilgiau kaip 3 mėnesiams;
 2) atestacijos
 komisijai įvertinus tarnybos pareigūną labai gerai.
 3. Tarnybos pareigūnas į lygiareikšmes pareigas gali
@@ -286,13 +301,13 @@ pareigūną nepatenkinamai, Specialiųjų tyrimų tarnybos direktoriui siūlo:
 kvalifikacinę kategoriją;
 3) perkelti tarnybos pareigūną į žemesnes pareigas;
 4) atleisti tarnybos pareigūną iš pareigų.
-7. Specialiųjų tyrimų tarnybos direktoriaus
-sprendimai, priimti pagal atestacijos komisijos pasiūlymus, gali būti
-skundžiami Administracinių bylų teisenos įstatymo nustatyta tvarka.
+7. Specialiųjų tyrimų tarnybos direktoriaus sprendimai,
+priimti pagal atestacijos komisijos pasiūlymus, gali būti skundžiami
+Administracinių bylų teisenos įstatymo nustatyta tvarka.
 8. Tarnybos pareigūnų vertinimo kriterijus,
-periodiškumą ir tvarką, atestacijos komisijos veiklą reglamentuoja Specialiųjų
-tyrimų tarnybos direktoriaus įsakymu patvirtinti Specialiųjų tyrimų tarnybos
-pareigūnų atestacijos nuostatai.
+periodiškumą ir tvarką, atestacijos komisijos veiklą reglamentuoja Specialiųjų tyrimų
+tarnybos direktoriaus įsakymu patvirtinti Specialiųjų tyrimų tarnybos pareigūnų
+atestacijos nuostatai.
  
 11
 straipsnis. Tarnybos pareigūnų atleidimas iš tarnybos
@@ -303,8 +318,8 @@ straipsnis. Tarnybos pareigūnų atleidimas iš tarnybos
 kuriuo pareigūnas nuteisiamas už padarytą tyčinę nusikalstamą veiką ar
 nusikalstamą veiką valstybės tarnybai, arba jam paskiriama bausmė, dėl kurios
 jis negali eiti savo pareigų; 
-3) netekęs
-Lietuvos Respublikos pilietybės;
+3) netekęs Lietuvos
+Respublikos pilietybės;
 4) atestacijos
 komisijos sprendimu pripažintas netinkamu tęsti tarnybą;
 5) sulaužęs
@@ -313,9 +328,9 @@ priesaiką;
 būklės, esant atitinkamai medicinos ekspertizės komisijos išvadai;
 7) jeigu jo
 tarnyba bandomuoju laikotarpiu įvertinama nepatenkinamai;
-8) paaiškėjus Specialiųjų
-tyrimų tarnybos įstatymo 15 straipsnyje ar Valstybės tarnybos įstatymo 9
-straipsnio 3 dalyje nurodytai aplinkybei;
+8) paaiškėjus
+Specialiųjų tyrimų tarnybos įstatymo 15 straipsnyje ar Valstybės tarnybos
+įstatymo 9 straipsnio 3 dalyje nurodytai aplinkybei;
 9) paskyrus jam
 tarnybinę nuobaudą – atleidimą iš tarnybos;
 10) kai jam sukanka 62 metai ir 6
@@ -379,8 +394,8 @@ atvejus, kai likviduojama Specialiųjų tyrimų tarnyba ar jos įstaiga).
 3. Atleisti
 tarnybos pareigūną iš tarnybos pagal šio Statuto 11 straipsnio 2 dalies 4
 punktą galima tik įspėjus jį raštu prieš 2 mėnesius. Nėščiai tarnybos
-pareigūnei (kai likviduojama Specialiųjų tyrimų tarnyba ar jos įstaiga),
-tarnybos pareigūnui, auginančiam vaiką (vaikus) iki 14 metų, taip pat tarnybos
+pareigūnei (kai likviduojama Specialiųjų tyrimų tarnyba ar jos įstaiga), tarnybos
+pareigūnui, auginančiam vaiką (vaikus) iki 14 metų, taip pat tarnybos
 pareigūnui, kuriam iki teisės gauti pareigūnų ir karių valstybinę pensiją liko
 ne daugiau kaip 5 metai, apie numatomą atleidimą iš tarnybos turi būti pranešta
 raštu prieš 4 mėnesius. Jei tarnybos pareigūnas atleidžiamas iš tarnybos
@@ -671,10 +686,11 @@ pareiškus ieškinį teisme.
 4. Priėmus sprendimą dėl žalos atlyginimo, iš
 tarnybos pareigūno darbo užmokesčio kas mėnesį išskaitoma ne daugiau kaip 20
 procentų jo mėnesinio darbo užmokesčio.
-5. Jeigu tarnybos
-pareigūnas nesutinka su Specialiųjų tyrimų tarnybos direktoriaus sprendimu dėl
-Specialiųjų tyrimų tarnybai padarytos žalos atlyginimo, jis turi teisę kreiptis
-į teismą. Kreipimasis į teismą sustabdo žalos atlyginimo išieškojimą.
+5. Jeigu
+tarnybos pareigūnas nesutinka su Specialiųjų tyrimų tarnybos direktoriaus
+sprendimu dėl Specialiųjų tyrimų tarnybai padarytos žalos atlyginimo, jis turi
+teisę kreiptis į teismą. Kreipimasis į teismą sustabdo žalos atlyginimo
+išieškojimą.
  
 PENKTASIS
 SKIRSNIS
@@ -760,8 +776,8 @@ straipsnis. Šaunamojo ginklo naudojimas
 1. Tarnybos
 pareigūnas kaip išimtinę priemonę turi teisę panaudoti šaunamąjį ginklą, kai
 kitos prievartos priemonės yra neveiksmingos.
-2. Tarnybos pareigūnas turi teisę panaudoti šaunamąjį
-ginklą prieš asmenį tokiais atvejais:
+2. Tarnybos pareigūnas turi teisę panaudoti
+šaunamąjį ginklą prieš asmenį tokiais atvejais:
 1) gindamas save, kitą asmenį nuo pradėto ar tiesiogiai
 gresiančio gyvybei ar sveikatai kėsinimosi;
 2) sulaikydamas įtariamą padariusį nusikalstamą veiką
@@ -769,8 +785,8 @@ asmenį, kuris aktyviais veiksmais vengia sulaikymo, jeigu kitaip jo neįmanoma
 sulaikyti, taip pat tais atvejais, kai asmuo atsisako įvykdyti teisėtą
 reikalavimą padėti ginklą ar kitą daiktą, kuriuo galima sužaloti žmogų, jeigu
 kitaip jo neįmanoma nuginkluoti; 
-3) gindamas saugomą objektą nuo kėsinimosi, jeigu jis
-yra susijęs su pavojumi asmenų gyvybei ar sveikatai;
+3) gindamas saugomą objektą nuo kėsinimosi, jeigu
+jis yra susijęs su pavojumi asmenų gyvybei ar sveikatai;
 4) siekdamas sulaikyti suimtus (sulaikytus) asmenis,
 bandančius bėgti ar pabėgusius konvojavimo metu.
 3. Tarnybos
@@ -778,12 +794,12 @@ pareigūnas taip pat turi teisę panaudoti šaunamąjį ginklą prieš transport
 priemones bei gyvūnus būtinojo reikalingumo, būtinosios ginties atvejais ir
 (ar) sulaikant asmenį, įtariamą padariusį nusikalstamą veiką. 
 4. Draudžiama
-panaudoti šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali
-nukentėti pašaliniai asmenys, prieš moteris, jei akivaizdu, kad jos nėščios,
-taip pat prieš asmenis, jei akivaizdu, kad jie invalidai, prieš nepilnamečius,
-jeigu jų amžius pareigūnui žinomas arba išvaizda atitinka amžių,
-išskyrus atvejus, kai tokie asmenys užpuola arba priešinasi pavojingu gyvybei
-ar sveikatai būdu.
+panaudoti šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali nukentėti
+pašaliniai asmenys, prieš moteris, jei akivaizdu, kad jos nėščios, taip pat
+prieš asmenis, jei akivaizdu, kad jie invalidai, prieš nepilnamečius, jeigu jų
+amžius pareigūnui žinomas arba išvaizda atitinka amžių, išskyrus
+atvejus, kai tokie asmenys užpuola arba priešinasi pavojingu gyvybei ar
+sveikatai būdu.
 5. Tarnybos
 pareigūnas turi teisę išimti šaunamąjį ginklą iš dėklo ir parengti jį
 naudojimui, jeigu jis mano, kad konkrečioje situacijoje gali tekti jį
@@ -811,9 +827,9 @@ kalendorinės dienos;
 3) nuo 15 iki 20 metų – 40
 kalendorinių dienų;
 4) daugiau kaip 20 metų – 45 kalendorinės dienos.
-2. Tarnybos pareigūnui kasmetinės atostogos gali būti
-suteikiamos dalimis. Viena iš kasmetinių atostogų dalių negali būti trumpesnė
-kaip 14 kalendorinių dienų. 
+2. Tarnybos pareigūnui kasmetinės atostogos gali
+būti suteikiamos dalimis. Viena iš kasmetinių atostogų dalių negali būti
+trumpesnė kaip 14 kalendorinių dienų. 
 3. Tarnybos pareigūnams gali būti suteikiamos šios
 tikslinės atostogos:
 1) nėštumo ir gimdymo;
@@ -877,27 +893,16 @@ algos.
 viršijant nustatytą darbo trukmę, atlikimą, taip pat darbą naktį, poilsio ir
 švenčių dienomis, kenksmingomis, labai kenksmingomis ir pavojingomis darbo
 sąlygomis mokamos Valstybės tarnybos įstatymo nustatyta tvarka. 
- 
-6 dalies
-redakcija iki 2005 m. kovo 1 d.:
-6. Laikinojo
-nedarbingumo laikotarpiu, nėštumo ir gimdymo atostogų metu tarnybos pareigūnui
-iš darbo užmokesčio fondo mokamas jam nustatytas darbo užmokestis. Tarnybos
-pareigūnui, išėjusiam atostogų vaikui prižiūrėti, kol jam sueis vieni metai, iš
-tam skirtų lėšų mokama 60 procentų nėštumo ir gimdymo atostogų suteikimo mėnesį
-jam nustatyto darbo užmokesčio.
-6 dalies
-redakcija nuo 2005 m. kovo 1 d.:
 6.
 Laikinojo nedarbingumo laikotarpiu bei nėštumo ir gimdymo atostogų laikotarpiu
 tarnybos pareigūnams mokamas Vyriausybės nustatyta tvarka apskaičiuotas
 vidutinis jų darbo užmokestis, o vaiko priežiūros, kol jam sueis vieni metai,
 atostogų laikotarpiu – 70 procentų šia tvarka apskaičiuoto vidutinio jų darbo
 užmokesčio.
-Pastaba. Jeigu pareigūnams,
-esantiems vaiko priežiūros, kol jam sueis vieni metai, atostogose, pagal šio
-įstatymo nuostatas apskaičiuota 70 procentų vidutinio jų darbo užmokesčio suma
-yra mažesnė nei mokėta iki įstatymo Nr. X-121
+Pastaba. Jeigu pareigūnams, esantiems
+vaiko priežiūros, kol jam sueis vieni metai, atostogose, pagal šio įstatymo
+nuostatas apskaičiuota 70 procentų vidutinio jų darbo užmokesčio suma yra
+mažesnė nei mokėta iki įstatymo Nr. X-121
 įsigaliojimo, toliau mokama anksčiau nustatyto dydžio suma.
 Straipsnio pakeitimai:
 Nr. X-121, 2005-02-15,
@@ -1044,9 +1049,20 @@ esantiems vaiko priežiūros, kol jam sueis vieni metai, atostogose, pagal šio
 yra mažesnė nei mokėta iki šio įstatymo įsigaliojimo, toliau mokama anksčiau
 nustatyto dydžio suma.
  
-*** Pabaiga ***
+2.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. X-441, 2005-12-13,
+Žin., 2005, Nr. 149-5418 (2005-12-22)
+SPECIALIŲJŲ TYRIMŲ TARNYBOS
+STATUTO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
-Redagavo: Aušrinė Trapinskienė
-(2005-03-01)
-                  autrap@lrs.lt
+***
+Pabaiga ***
+ 
+ 
+Redagavo:
+Aušrinė Trapinskienė (2005-12-22)
+                 
+autrap@lrs.lt
 
