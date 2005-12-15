@@ -332,9 +332,9 @@ iš regeneruoto tabako arba yra įvynioti į regeneruoto tabako išorinį apvalk
 
 33. Produktai,
 kurie visiškai ar iš dalies pagaminti iš tabako pakaitalų, bet pagal kitus
-kriterijus atitinka šio straipsnio 9 ar 25 dalyje nurodytus požymius, laikomi
-atitinkamai cigaretėmis arba rūkomuoju tabaku. Šios nuostatos netaikomos
-produktams, kuriuose nėra tabako, jeigu jie skirti medicinos reikmėms.
+kriterijus atitinka šio straipsnio 9 ar 25 dalyje nurodytus požymius, laikomi atitinkamai
+cigaretėmis arba rūkomuoju tabaku. Šios nuostatos netaikomos produktams,
+kuriuose nėra tabako, jeigu jie skirti medicinos reikmėms.
 34. Kitos šiame
 Įstatyme vartojamos sąvokos suprantamos, kaip jos apibrėžtos Mokesčių
 administravimo įstatyme ir Europos Bendrijų muitinės kodekse (toliau – Muitinės
@@ -560,10 +560,11 @@ prekybininko gautas iš kitos valstybės narės);
 apmokestinamas prekes, prarastas Lietuvos Respublikos akcizais apmokestinamų
 prekių sandėlyje, taip pat už prarastas prekes, kurios buvo gabentos Lietuvos
 Respublikoje taikant akcizų mokėjimo laikino atidėjimo režimą. Akcizai
-neskaičiuojami už prarastą prekių kiekį, neviršijantį Vyriausybės arba jos įgaliotos
-institucijos nustatytų natūralios netekties normų, taip pat  už prekes,
-prarastas dėl nenugalimos jėgos (force majeure) aplinkybių, jei
-tai įrodyta Vyriausybės ar jos įgaliotos institucijos  nustatyta tvarka;
+neskaičiuojami už prarastą prekių kiekį, neviršijantį Vyriausybės arba jos
+įgaliotos institucijos nustatytų natūralios netekties normų, taip pat  už
+prekes, prarastas dėl nenugalimos jėgos (force majeure)
+aplinkybių, jei tai įrodyta Vyriausybės ar jos įgaliotos institucijos 
+nustatyta tvarka;
 3)
 akcizais apmokestinamas prekes, sunaudotas Lietuvos Respublikos akcizais
 apmokestinamų prekių sandėlyje, išskyrus atvejus, kai šios prekės panaudotos
@@ -576,16 +577,16 @@ gamintojo reikmėms kaip degalai (variklių kuras) ar kaip šildymui skirtas
 kuras, akcizai taikomi bendra tvarka);
 4) akcizais
 apmokestinamas prekes, kurios buvo įsigytos ar importuotos be akcizų šio
-Įstatymo 17, 25 ar 41 straipsnyje nustatytiems tikslams, tačiau Lietuvos
-Respublikoje panaudotos kitiems tikslams;
+Įstatymo 17, 25 ar 41 straipsnyje nustatytiems tikslams, tačiau Lietuvos Respublikoje
+panaudotos kitiems tikslams;
 5) šio Įstatymo
 2 straipsnio 2 dalyje nurodytus energetinius produktus, kai jie Lietuvos
 Respublikoje parduodami arba panaudojami kaip variklių degalai, jų priedai arba
 kaip šildymui skirtas kuras, šio Įstatymo 2 straipsnio 3 dalyje nurodytus
 produktus, kai jie Lietuvos Respublikoje parduodami arba panaudojami kaip
 variklių degalai arba jų priedai, taip pat šio Įstatymo 2 straipsnio 4 dalyje
-nurodytus angliavandenilius, kai jie Lietuvos Respublikoje parduodami arba
-panaudojami kaip šildymui skirtas kuras;
+nurodytus angliavandenilius, kai jie Lietuvos Respublikoje parduodami arba panaudojami
+kaip šildymui skirtas kuras;
 6) akcizais
 apmokestinamas prekes, pagamintas Lietuvos Respublikoje ne akcizais
 apmokestinamų prekių sandėlyje, išskyrus atvejus, kai pagal šį Įstatymą
@@ -772,8 +773,8 @@ teritorijoje asmuo registruotas mokesčių mokėtoju.
 mokėti akcizus atsiranda remiantis šio Įstatymo 8 straipsnio 1 dalies 4 ir (ar)
 5, ir (ar) 8 punktais, privalo ne vėliau kaip kitą darbo dieną po prievolės
 atsiradimo pateikti akcizų deklaraciją ir joje deklaruoti mokėtiną akcizų sumą.
-Akcizų deklaracija pateikiama vietos mokesčio administratoriui, kurio veiklos teritorijoje
-asmuo registruotas mokesčių mokėtoju.
+Akcizų deklaracija pateikiama vietos mokesčio administratoriui, kurio veiklos
+teritorijoje asmuo registruotas mokesčių mokėtoju.
 9. Šio
 straipsnio nuostatos netaikomos importuojamoms akcizais apmokestinamoms
 prekėms. 
@@ -870,20 +871,20 @@ nurodyti, koks kiekis yra faktiškai gautas.
 4. Jeigu per 30
 kalendorinių dienų nuo akcizais apmokestinamų prekių, kurioms taikomas akcizų
 mokėjimo laikino atidėjimo režimas, išgabenimo siuntėjo savininkas negauna
-patvirtinto šio straipsnio 2 dalyje nurodyto dokumento egzemplioriaus, negali Vyriausybės
-ar jos įgaliotos institucijos nustatyta tvarka įrodyti, kad išgabentos akcizais
-apmokestinamos prekės gabenimo metu prarastos dėl nenugalimos jėgos (force
-majeure) aplinkybių, taip pat šios prekės nėra grąžintos, akcizų
-deklaracijoje, pateikiamoje už mokestinį laikotarpį, einantį po to laikotarpio,
-kurį šios prekės buvo išgabentos, privaloma deklaruoti šias prekes kaip
-akcizais apmokestinamas prekes, kurioms buvo panaikintas akcizų mokėjimo
-laikino atidėjimo režimas, ir apskaičiuoti už jas akcizus taikant akcizų
-tarifus, galiojusius prekių išgabenimo dieną. Jeigu nurodytasis dokumento
-egzempliorius gaunamas vėliau, Vyriausybės ar jos įgaliotos institucijos
-nustatyta tvarka įrodoma, kad prekės gabenimo metu prarastos dėl nenugalimos
-jėgos (force majeure) aplinkybių, arba prekės grąžinamos,
-permokėta akcizų suma įskaitoma arba grąžinama Mokesčių administravimo įstatymo
-nustatyta tvarka. 
+patvirtinto šio straipsnio 2 dalyje nurodyto dokumento egzemplioriaus, negali
+Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka įrodyti, kad
+išgabentos akcizais apmokestinamos prekės gabenimo metu prarastos dėl
+nenugalimos jėgos (force majeure) aplinkybių, taip pat šios
+prekės nėra grąžintos, akcizų deklaracijoje, pateikiamoje už mokestinį
+laikotarpį, einantį po to laikotarpio, kurį šios prekės buvo išgabentos,
+privaloma deklaruoti šias prekes kaip akcizais apmokestinamas prekes, kurioms
+buvo panaikintas akcizų mokėjimo laikino atidėjimo režimas, ir apskaičiuoti už
+jas akcizus taikant akcizų tarifus, galiojusius prekių išgabenimo dieną. Jeigu
+nurodytasis dokumento egzempliorius gaunamas vėliau, Vyriausybės ar jos
+įgaliotos institucijos nustatyta tvarka įrodoma, kad prekės gabenimo metu
+prarastos dėl nenugalimos jėgos (force majeure) aplinkybių, arba
+prekės grąžinamos, permokėta akcizų suma įskaitoma arba grąžinama Mokesčių
+administravimo įstatymo nustatyta tvarka. 
  
 14
 straipsnis. Akcizais apmokestinamų prekių gabenimas į kitą valstybę narę
@@ -918,11 +919,12 @@ administravimą atsakingos institucijos įgalioti asmenys. Tuo atveju, kai
 akcizais apmokestinamos prekės eksportuojamos per vieną ar per kelias kitas
 valstybes nares, šį akcizais apmokestinamų prekių gabenimo dokumento
 egzempliorių tvirtina tos valstybės narės, iš kurios akcizais apmokestinamos
-prekės išgabenamos iš Europos Bendrijų teritorijos, muitinės įstaigos įgalioti asmenys.
-Šis egzempliorius turi būti grąžintas sandėlio-siuntėjo savininkui. Tuo atveju,
-kai pagal kitos valstybės narės teisės aktus akcizais apmokestinamų prekių
-dokumento egzemplioriaus kompetentingos institucijos neprivalo patvirtinti,
-pakanka sandėlio-gavėjo savininko ar prekybininko įgaliotų asmenų patvirtinimo.
+prekės išgabenamos iš Europos Bendrijų teritorijos, muitinės įstaigos įgalioti
+asmenys. Šis egzempliorius turi būti grąžintas sandėlio-siuntėjo savininkui.
+Tuo atveju, kai pagal kitos valstybės narės teisės aktus akcizais apmokestinamų
+prekių dokumento egzemplioriaus kompetentingos institucijos neprivalo
+patvirtinti, pakanka sandėlio-gavėjo savininko ar prekybininko įgaliotų asmenų
+patvirtinimo.
 4. Į kitą
 valstybę narę išgabenant akcizais apmokestinamas prekes, kurioms taikomas
 akcizų mokėjimo laikino atidėjimo režimas, prekių pakuotės centrinio mokesčio
@@ -1211,10 +1213,10 @@ Lietuvos Respublika, asmeniniam naudojimui. Šios nuostatos taikomos pariteto
 pagrindais. Jeigu Lietuvos Respublikos diplomatinei atstovybei ar konsulinei
 įstaigai užsienio valstybėje taikoma akcizų grąžinimo tvarka yra nepalankesnė
 arba palankesnė už tvarką, taikomą tos valstybės diplomatinei atstovybei ar
-konsulinei įstaigai Lietuvos Respublikoje, Lietuvos Respublikos Vyriausybė ar jos
-įgaliota institucija turi teisę nustatyti tos valstybės diplomatinei atstovybei
-ar konsulinei įstaigai Lietuvos Respublikoje taikomą atitinkamai nepalankesnę
-arba palankesnę akcizų grąžinimo tvarką;
+konsulinei įstaigai Lietuvos Respublikoje, Lietuvos Respublikos Vyriausybė ar
+jos įgaliota institucija turi teisę nustatyti tos valstybės diplomatinei
+atstovybei ar konsulinei įstaigai Lietuvos Respublikoje taikomą atitinkamai
+nepalankesnę arba palankesnę akcizų grąžinimo tvarką;
 3)
 skirtos kitose valstybėse narėse įsikūrusioms užsienio valstybių diplomatinėms
 atstovybėms ir konsulinėms įstaigoms, šių atstovybių ir įstaigų nariams. Šiuo
@@ -1320,10 +1322,10 @@ ministerijos (toliau – Muitinės departamentas) nustatyta tvarka.
 19 straipsnis.
 Akcizų sumokėjimo kontrolė
 1.
-Akcizų sumokėjimą, išskyrus šio straipsnio 2 dalyje nurodytą atvejį,
-kontroliuoja Valstybinė mokesčių inspekcija. Valstybinė mokesčių inspekcija
-kontroliuoja akcizų sumokėjimą ir už importuotas prekes, jeigu jos šio Įstatymo
-nustatyta tvarka nugabenamos į akcizais apmokestinamų prekių sandėlį.
+Akcizų sumokėjimą, išskyrus šio straipsnio 2 dalyje nurodytą atvejį, kontroliuoja
+Valstybinė mokesčių inspekcija. Valstybinė mokesčių inspekcija kontroliuoja
+akcizų sumokėjimą ir už importuotas prekes, jeigu jos šio Įstatymo nustatyta
+tvarka nugabenamos į akcizais apmokestinamų prekių sandėlį.
 2.
 Akcizų už importuojamas prekes, nenurodytas šio straipsnio 1 dalyje, sumokėjimą
 kontroliuoja teritorinės muitinės.
@@ -1339,18 +1341,18 @@ galinčia atsirasti importo skola muitinei.
 Bendrijos prekių įvežimui iš trečiųjų teritorijų į Europos Bendrijų teritoriją
 taikomi tokie patys muitinės formalumai, kokie yra taikomi į Europos Bendrijų
 muitų teritoriją įvežamoms ne Bendrijos prekėms. Tuo atveju, kai į Europos
-Bendrijų teritoriją iš trečiųjų teritorijų įvežamos prekės, kurios skirtos nugabenti
-į kitą valstybę narę negu ta, į kurią jos buvo įvežtos iš trečiųjų teritorijų,
-šios prekės gali būti pateiktos vidinio tranzito procedūrai, numatytai Muitinės
-kodekse, įforminti. Kai į Europos Bendrijų teritoriją iš trečiųjų teritorijų
-įvežamos prekės, kurios, jeigu jos būtų įvežtos iš trečiųjų valstybių, galėtų
-būti pateiktos laikinajam saugojimui muitinės prižiūrimose laikino prekių
-saugojimo vietose, įvežtos į laisvąją zoną ar padėtos į laisvąjį sandėlį, joms
-galėtų būti įforminta muitinio sandėliavimo, laikinojo įvežimo perdirbti
-neapmokestinant importo muitais, muitinės prižiūrimo perdirbimo, laikinojo
-įvežimo visiškai neapmokestinant importo muitais procedūra, tai joms taikomos
-tos pačios sąlygos, kurios būtų taikomos atlikus minėtus muitinės sankcionuotus
-veiksmus ar įforminus atitinkamas procedūras.
+Bendrijų teritoriją iš trečiųjų teritorijų įvežamos prekės, kurios skirtos
+nugabenti į kitą valstybę narę negu ta, į kurią jos buvo įvežtos iš trečiųjų
+teritorijų, šios prekės gali būti pateiktos vidinio tranzito procedūrai,
+numatytai Muitinės kodekse, įforminti. Kai į Europos Bendrijų teritoriją iš
+trečiųjų teritorijų įvežamos prekės, kurios, jeigu jos būtų įvežtos iš trečiųjų
+valstybių, galėtų būti pateiktos laikinajam saugojimui muitinės prižiūrimose
+laikino prekių saugojimo vietose, įvežtos į laisvąją zoną ar padėtos į laisvąjį
+sandėlį, joms galėtų būti įforminta muitinio sandėliavimo, laikinojo įvežimo
+perdirbti neapmokestinant importo muitais, muitinės prižiūrimo perdirbimo,
+laikinojo įvežimo visiškai neapmokestinant importo muitais procedūra, tai joms
+taikomos tos pačios sąlygos, kurios būtų taikomos atlikus minėtus muitinės
+sankcionuotus veiksmus ar įforminus atitinkamas procedūras.
 6.
 Prekių išvežimui iš Europos Bendrijų teritorijos į trečiąsias teritorijas
 taikomi tokie patys muitinės formalumai, kokie yra taikomi eksportuojant prekes
@@ -1358,8 +1360,9 @@ iš Europos Bendrijų muitų teritorijos. Tuo atveju, kai prekės laikinai
 išvežamos iš Europos Bendrijų teritorijos į trečiąsias teritorijas, jas
 grąžinus, joms taikomos tos pačios nuostatos, kurios būtų taikomos, jei šios
 prekės būtų laikinai išvežtos iš Europos Bendrijų muitų teritorijos.
-7. Šio straipsnio
-4–6 dalių nuostatų įgyvendinimo tvarką nustato Muitinės departamentas.
+7. Šio
+straipsnio 4–6 dalių nuostatų įgyvendinimo tvarką nustato Muitinės
+departamentas.
 8. Tais
 atvejais, kai prekės išgabenamos į trečiąją valstybę ar trečiąją teritoriją
 arba prekės atgabenamos iš jų ir joms taikomos Muitinės kodekso 84 straipsnio 1
@@ -1368,10 +1371,10 @@ prižiūrimose prekių laikinojo saugojimo vietose, įvežamos į laisvąją zon
 padedamos į laisvąjį sandėlį, taip pat tais atvejais, kai prekės gabenamos tarp
 valstybių narių per valstybės, kuri nėra valstybė narė, tačiau yra Europos
 laisvosios prekybos asociacijos (toliau – ELPA) narė, teritoriją arba tarp
-valstybės narės ir ELPA narės, taikant vidinio tranzito procedūrą, arba per
-vieną ar kelias trečiąsias valstybes ne ELPA nares su TIR ar ATA knygele,
-laikoma, kad akcizo mokėjimas už šias prekes atidėtas. Šioje dalyje nurodytais
-atvejais naudojamas bendrasis administracinis dokumentas.
+valstybės narės ir ELPA narės, taikant vidinio tranzito procedūrą, arba per vieną
+ar kelias trečiąsias valstybes ne ELPA nares su TIR ar ATA knygele, laikoma,
+kad akcizo mokėjimas už šias prekes atidėtas. Šioje dalyje nurodytais atvejais
+naudojamas bendrasis administracinis dokumentas.
 Straipsnio
 pakeitimai:
 Nr.
@@ -1421,16 +1424,16 @@ pagamintam alui. Šioje dalyje alaus gamyba nelaikomas kitoje alų gaminančioje
 įmonėje pagaminto alaus maišymas ir (arba) pilstymas. Šios lengvatos taikymo
 tvarką nustato Vyriausybė ar jos įgaliota institucija. 
 3.
-Akcizo už alų apskaičiavimo pagal faktinę alkoholio koncentraciją taisykles nustato
-Vyriausybė ar jos įgaliota institucija.
+Akcizo už alų apskaičiavimo pagal faktinę alkoholio koncentraciją taisykles
+nustato Vyriausybė ar jos įgaliota institucija.
  
 22
 straipsnis. Vynui iš šviežių vynuogių ir kitiems fermentuotiems gėrimams
 taikomi akcizo tarifai 
 Vynui iš šviežių
 vynuogių ir kitiems fermentuotiems gėrimams taikomi tokie akcizų tarifai:
-1) vynui ir kitiems
-fermentuotiems gėrimams, kurių faktinė alkoholio koncentracija (kitų
+1) vynui ir
+kitiems fermentuotiems gėrimams, kurių faktinė alkoholio koncentracija (kitų
 fermentuotų gėrimų atveju – gauta tik fermentacijos būdu), išreikšta tūrio
 procentais, yra ne didesnė kaip 8,5 procento tūrio ir kuriuose fermentuotas
 gėrimas sudaro 100 procentų tūrio, – 40 litų už produkto hektolitrą;
@@ -1456,11 +1459,11 @@ Etilo alkoholiui taikomi akcizo tarifai
 1. Etilo
 alkoholiui taikomas 3200 litų už gryno etilo alkoholio hektolitrą akcizo
 tarifas.
-2. Apskaičiuojant
-mokėtiną akcizų sumą už šiame straipsnyje nurodytus produktus, gryno etilo
-alkoholio hektolitru laikoma 100 litrų etilo alkoholio, kurio faktinė alkoholio
-koncentracija, išreikšta tūrio procentais, yra 100 procentų tūrio, o
-temperatūra – 20 °C. Visas gryno etilo alkoholio kiekis hektolitrais
+2.
+Apskaičiuojant mokėtiną akcizų sumą už šiame straipsnyje nurodytus produktus,
+gryno etilo alkoholio hektolitru laikoma 100 litrų etilo alkoholio, kurio
+faktinė alkoholio koncentracija, išreikšta tūrio procentais, yra 100 procentų
+tūrio, o temperatūra – 20 °C. Visas gryno etilo alkoholio kiekis hektolitrais
 apvalinamas iki sveikojo skaičiaus tūkstantosios dalies.
  
 25
@@ -1491,12 +1494,20 @@ sunaudojama ne daugiau kaip 5 litrai gryno etilo alkoholio;
 alkoholis ir alkoholiniai gėrimai, skirti maisto ir (arba) nealkoholinių
 gėrimų, kurių faktinė alkoholio koncentracija, išreikšta tūrio procentais,
 neviršija 1,2 procento tūrio, gamybai naudojamų kvapiųjų medžiagų ar jų mišinių
-gamybai.
+gamybai;
+8) dehidratuotas
+etilo alkoholis, skirtas bioetiltretbutileterio gamybai Lietuvos Respublikos
+biokuro, biodegalų ir bioalyvų įstatymo nustatyta tvarka.
 2. Panaikinus
 akcizų mokėjimo laikino atidėjimo režimą arba importuojant etilo alkoholį,
-nurodytą šio straipsnio 1 dalies 1, 3 ir 4 punktuose, akcizai neskaičiuojami.
+nurodytą šio straipsnio 1 dalies 1, 3, 4 ir 8 punktuose, akcizai neskaičiuojami.
 Konkrečią šio straipsnio 1 dalyje nurodytų lengvatų taikymo tvarką nustato
 Vyriausybė ar jos įgaliota institucija.
+Straipsnio
+paketimai:
+Nr.
+X-451,
+2005-12-15, Žin., 2005, Nr. 153-5633 (2005-12-31)
  
 26 straipsnis.
 Denatūruotas etilo alkoholis, kuriam netaikomas akcizas
@@ -1659,8 +1670,8 @@ klasifikuojami KN 1507–1518 pozicijose;
 klasifikuojami KN 3824 90 55, 3824 90 80–3824 90 99 subpozicijose (šios
 nuostatos taikomos tik tai daliai,  kuri pagaminta iš biomasės);
 3) 
-klasifikuojami KN 2207 20 00 ir 2905 11 00 subpozicijose, jeigu jie nėra sintetinės
-kilmės;
+klasifikuojami KN 2207 20 00 ir 2905 11 00 subpozicijose, jeigu jie nėra
+sintetinės kilmės;
 4)
 pagaminti iš biomasės (kaip ji apibrėžta Biokuro, biodegalų ir bioalyvų
 įstatyme), įskaitant produktus, klasifikuojamus KN 4401 ir 4402 pozicijose.
@@ -1687,8 +1698,8 @@ nustatytas, kai produkto temperatūra yra 15 °C. Akcizų perskaičiavimo metodi
 tais atvejais, kai produktas yra kitokios temperatūros, nustato centrinis
 mokesčio administratorius.
  
-40 straipsnis. Kitiems energetiniams
-produktams taikomi akcizų tarifai
+40 straipsnis. Kitiems
+energetiniams produktams taikomi akcizų tarifai
 Šio Įstatymo 33–37 straipsniuose
 nenurodytiems energetiniams produktams taikomi akcizų tarifai, šiuose
 straipsniuose nustatyti atitinkamiems ekvivalentiškiems produktams, vietoj
@@ -1704,8 +1715,8 @@ atleidžiami:
 orlaivių degalai, kurie tiekiami oro navigacijos tikslais (įskaitant orlaivių
 degalus, naudojamus orlaivių gamybai, remontui, bandymams, eksploatacijai bei
 aptarnavimui), išskyrus orlaivių degalus, tiekiamus į asmeniniams poreikiams
-naudojamus orlaivius. Orlaivis laikomas naudojamu asmeniniams poreikiams, kai juo
-naudojasi orlaivio savininkas ar kitas asmuo (nuomos ar kitais teisiniais
+naudojamus orlaivius. Orlaivis laikomas naudojamu asmeniniams poreikiams, kai
+juo naudojasi orlaivio savininkas ar kitas asmuo (nuomos ar kitais teisiniais
 pagrindais) kitiems negu komerciniams tikslams. Energetinių produktų, kuriems
 taikoma ši lengvata, kodus pagal KN nustato Vyriausybė; 
 2)
@@ -1730,9 +1741,9 @@ arba importuojami centrinio mokesčio administratoriaus nustatyta tvarka
 registruotų vartotojų, tiekiančių (naudojančių) jas (juos) buitinėms reikmėms
 (šildymui, maisto ruošimui ir pan.), įskaitant asmenis, kurie išpilsto naftos
 dujas į buitinius dujų balionus;
-7) neišpilstytos naftos dujos ir dujiniai angliavandeniliai, registruotų
-vartotojų tiekiami į grupinius įrenginius, per kuriuos jie gali būti tiekiami
-tik buitinėms reikmėms;
+7) neišpilstytos naftos dujos ir dujiniai angliavandeniliai,
+registruotų vartotojų tiekiami į grupinius įrenginius, per kuriuos jie gali
+būti tiekiami tik buitinėms reikmėms;
 8) energetiniai produktai, į Lietuvos
 Respubliką įvežami transporto priemonių stacionariose gamintojo techniniuose
 dokumentuose numatytose variklių degalų ir tepalų talpyklose, iš kurių variklių
@@ -1784,8 +1795,8 @@ valstybės narės asmens, kuris nėra nepriklausomas arba visuomeninis tiekėjas
 arba
 3) importuojama
 asmens, kuris nėra nepriklausomas arba visuomeninis tiekėjas, arba
-4) suvartojama nepriklausomo
-arba visuomeninio tiekėjo savoms reikmėms.
+4) suvartojama
+nepriklausomo arba visuomeninio tiekėjo savoms reikmėms.
  
 44 straipsnis.
 Akcizų už elektros energiją mokėtojai
@@ -1796,13 +1807,13 @@ jeigu jie gavo elektros energiją iš kitos valstybės narės. Nepriklausomi arb
 visuomeniniai tiekėjai akcizų už elektros energiją mokėtojais registruojami
 centrinio mokesčio administratoriaus nustatyta tvarka.
  
-45 straipsnis. Elektros
-energijai taikomi akcizų tarifai
+45 straipsnis.
+Elektros energijai taikomi akcizų tarifai
 1. Elektros
 energijai, išskyrus elektros energiją, nurodytą šio straipsnio 2 dalyje,
 taikomas 3,5 lito už elektros energijos megavatvalandę akcizo tarifas.
-2. Elektros
-energijai, naudojamai verslo reikmėms, taikomas 1,8 lito už elektros energijos
+2. Elektros energijai,
+naudojamai verslo reikmėms, taikomas 1,8 lito už elektros energijos
 megavatvalandę akcizo tarifas. Šioje dalyje nurodytas akcizo tarifas taikomas
 tik elektros energijai, parduodamai ar kitaip perduodamai asmeniui, turinčiam
 centrinio mokesčio administratoriaus nustatyta tvarka išduotą atitinkamą
@@ -1812,8 +1823,8 @@ suprantama Pridėtinės vertės mokesčio įstatyme.
  
 46 straipsnis.
 Atleidimas nuo akcizų
-1. Nuo akcizų už elektros
-energiją atleidžiama:
+1. Nuo akcizų už
+elektros energiją atleidžiama:
 1) elektros energija,
 naudojama visų rūšių elektros energijos gamybos procesams ir gamybos procesui
 palaikyti;
@@ -1864,11 +1875,12 @@ mokestinį laikotarpį. Akcizai privalo būti sumokėti iki šioje dalyje nustat
 deklaracijos pateikimo termino pabaigos.
 2. Jeigu asmuo
 netenka nepriklausomo arba visuomeninio tiekėjo statuso, jis privalo šio
-straipsnio 1 dalyje nustatytais terminais pateikti vietos mokesčio administratoriui,
-kurio veiklos teritorijoje jis registruotas, akcizų už elektros energiją
-deklaraciją. Joje turi būti deklaruoti akcizai už visą įsigytą elektros
-energijos kiekį, už kurį dar nesumokėti akcizai, ir juos sumokėti iki šio
-straipsnio 1 dalyje nustatyto deklaracijos pateikimo termino pabaigos.
+straipsnio 1 dalyje nustatytais terminais pateikti vietos mokesčio
+administratoriui, kurio veiklos teritorijoje jis registruotas, akcizų už
+elektros energiją deklaraciją. Joje turi būti deklaruoti akcizai už visą
+įsigytą elektros energijos kiekį, už kurį dar nesumokėti akcizai, ir juos
+sumokėti iki šio straipsnio 1 dalyje nustatyto deklaracijos pateikimo termino
+pabaigos.
 3. Už asmens, kuris
 nėra nepriklausomas arba visuomeninis tiekėjas, importuotą elektros energiją
 akcizai sumokami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
@@ -1887,8 +1899,9 @@ arba
 2) gaunami iš kitos
 valstybės narės asmens, kuris nėra registruotas akmens anglių, kokso ir (arba)
 lignito tiekėjas, arba
-3) importuojami asmens, 
-kuris nėra registruotas akmens anglių, kokso ir (arba) lignito tiekėjas, arba
+3) importuojami
+asmens,  kuris nėra registruotas akmens anglių, kokso ir (arba) lignito
+tiekėjas, arba
 4) suvartojami
 registruoto akmens anglių, kokso ir (arba) lignito tiekėjo savoms reikmėms.
 2. Akmens anglių,
@@ -1947,9 +1960,9 @@ administratoriui, kurio veiklos teritorijoje jis registruotas, pateikti akcizų
 už akmens anglis, koksą, lignitą deklaraciją. Deklaracijos formą ir užpildymo
 taisykles nustato centrinis mokesčio administratorius. Joje privalo būti
 deklaruota akcizų suma, apskaičiuota už akmens anglis, koksą ir (arba) lignitą,
-už kuriuos šio Įstatymo 49 straipsnio 1 dalyje nustatyta tvarka prievolė
-sumokėti akcizus atsirado tą mokestinį laikotarpį. Akcizai sumokami iki šioje
-dalyje nustatyto deklaracijos pateikimo termino pabaigos.
+už kuriuos šio Įstatymo 49 straipsnio 1 dalyje nustatyta tvarka prievolė sumokėti
+akcizus atsirado tą mokestinį laikotarpį. Akcizai sumokami iki šioje dalyje
+nustatyto deklaracijos pateikimo termino pabaigos.
 2. Jeigu asmuo
 netenka registruoto akmens anglių, kokso ir (arba) lignito tiekėjo statuso, jis
 privalo šio straipsnio 1 dalyje nustatytais terminais pateikti vietos mokesčio
@@ -2098,8 +2111,9 @@ gabenant akcizais apmokestinamus produktus, kai jiems taikomas akcizų mokėjimo
 laikino atidėjimo režimas.
 7. 1992 m.
 gruodžio 17 d. Europos Komisijos reglamentas 3649/92/EEB dėl supaprastinto
-lydimojo dokumento, skirto Bendrijos viduje judantiems akcizo mokesčiu apmokestinamiems
-produktams ir kuriuos leista vartoti siunčiančioje valstybėje narėje.
+lydimojo dokumento, skirto Bendrijos viduje judantiems akcizo mokesčiu
+apmokestinamiems produktams ir kuriuos leista vartoti siunčiančioje valstybėje
+narėje.
 8. 1993 m.
 lapkričio 22 d. Europos Komisijos reglamentas 3199/93/EEB dėl visiško etilo
 alkoholio denatūravimo procedūrų tarpusavio pripažinimo atleidimo nuo akcizų
@@ -2241,9 +2255,19 @@ Nr. X-410, 2005-11-17,
 AKCIZŲ
 ĮSTATYMO 17 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+10.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. X-451, 2005-12-15,
+Žin., 2005, Nr. 153-5633 (2005-12-31)
+AKCIZŲ
+ĮSTATYMO 25 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
+ 
+ 
 Redagavo:
-Aušrinė Trapinskienė (2005-12-05)
+Aušra Bodin (2006-01-03)
                  
-autrap@lrs.lt
+ausra.bodin@lrs.lt
