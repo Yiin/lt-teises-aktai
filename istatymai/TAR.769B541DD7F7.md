@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.769B541DD7F7"
 
 # Lietuvos Respublikos ūkininko ūkio įstatymas
 
-Suvestinė redakcija nuo 2005-01-01 iki 2005-12-19
+Suvestinė redakcija nuo 2005-12-20 iki 2008-02-29
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 43-1358, i. k. 0991010ISTAIII-1159
  
@@ -351,7 +351,10 @@ TREČIASIS SKIRSNIS
 
 
 
-2) ūkininkui mirus;
+2) ūkininkui mirus, jeigu nėra ūkio paveldėtojų ir ūkio veikla toliau netęsiama;
+Straipsnio punkto pakeitimai:
+Nr. X-427, 2005-12-06, Žin., 2005, Nr. 148-5390 (2005-12-20), i. k. 1051010ISTA000X-427
+ 
 
 
 
@@ -434,3 +437,8 @@ Lietuvos Respublikos ūkininko ūkio įstatymo pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2538, 2004-11-04, Žin., 2004, Nr. 171-6298 (2004-11-26), i. k. 1041010ISTA0IX-2538
 Lietuvos Respublikos garantinio fondo įstatymo, Įmonių bankroto įstatymo, Laisvųjų ekonominių zonų pagrindų įstatymo, Žemės ūkio bendrovių įstatymo, Ūkininko ūkio įstatymo pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-427, 2005-12-06, Žin., 2005, Nr. 148-5390 (2005-12-20), i. k. 1051010ISTA000X-427
+Lietuvos Respublikos ūkininko ūkio įstatymo 9 straipsnio pakeitimo įstatymas
