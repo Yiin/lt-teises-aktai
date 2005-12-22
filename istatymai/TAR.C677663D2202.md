@@ -173,8 +173,8 @@ vienetais arba gyventojais, išskyrus reprezentaciją organizuojančio vieneto
 darbuotojus, šio vieneto dalyvius bei kontroliuojamus ar kontroliuojančius
 vienetus ar kontroliuojančius gyventojus; 
  
-[7
-ir 8 punktų redakcija nuo 2006-01-01]
+7
+ir 8 punktų redakcija nuo 2006 m. sausio 1 d.:
 7)
 tarp Lietuvos Respublikos pelno mokesčio įstatymo (toliau – Pelno mokesčio
 įstatymas) 41 straipsnio 1 dalies 2 punkte nustatytų vienetų Pelno mokesčio
@@ -245,14 +245,15 @@ valdymo organų narys, ir tas vienetas, arba
 gyventojas ir jo sutuoktinis, sužadėtinis, sugyventinis, taip pat gyventojas ir
 su juo giminystės ryšiais (tiesiąja giminystės linija iki antrojo laipsnio,
 šonine giminystės linija iki ketvirtojo laipsnio) arba svainystės santykiais
-(gyventojas ir jo sutuoktinio giminaičiai (tiesiąja giminystės linija iki antrojo
-laipsnio, šonine giminystės linija iki antrojo laipsnio) susiję gyventojai,
-taip pat gyventojas ir jo sugyventinio giminaičiai (tiesiąja giminystės linija
-iki antrojo laipsnio, šonine giminystės linija iki antrojo laipsnio),
-gyventojas ir jo giminaičių (tiesiąja giminystės linija iki pirmojo laipsnio,
-šonine giminystės linija iki antrojo laipsnio) sutuoktiniai ar sugyventiniai ir
-šių sutuoktinių ar sugyventinių giminaičiai (tiesiąja giminystės linija iki
-pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio), arba
+(gyventojas ir jo sutuoktinio giminaičiai (tiesiąja giminystės linija iki
+antrojo laipsnio, šonine giminystės linija iki antrojo laipsnio) susiję
+gyventojai, taip pat gyventojas ir jo sugyventinio giminaičiai (tiesiąja
+giminystės linija iki antrojo laipsnio, šonine giminystės linija iki antrojo
+laipsnio), gyventojas ir jo giminaičių (tiesiąja giminystės linija iki pirmojo
+laipsnio, šonine giminystės linija iki antrojo laipsnio) sutuoktiniai ar
+sugyventiniai ir šių sutuoktinių ar sugyventinių giminaičiai (tiesiąja
+giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo
+laipsnio), arba
 5)
 du gyventojai, kurie yra to paties vieneto dalyviai ir kiekvienas iš jų
 tiesiogiai ar netiesiogiai valdo daugiau kaip 25 procentus akcijų (dalių, pajų)
@@ -261,16 +262,16 @@ tame vienete, arba
 du gyventojai, kurie yra to paties vieneto dalyviai ir kiekvienas jų tiesiogiai
 ar netiesiogiai valdo daugiau kaip 25 procentus to vieneto akcijų (dalių, pajų)
 kartu su kitais gyventojais (sutuoktiniu, sužadėtiniu, sugyventiniu ar šio
-sugyventinio giminaičiais (tiesiąja giminystės linija iki antrojo laipsnio, šonine
-giminystės linija iki antrojo laipsnio), gyventojais, susijusiais giminystės
-ryšiais (tiesiąja giminystės linija iki antrojo laipsnio, šonine giminystės
-linija iki ketvirtojo laipsnio) arba svainystės santykiais (gyventojas ir jo
-sutuoktinio giminaičiai (tiesiąja giminystės linija iki antrojo laipsnio,
-šonine giminystės linija iki antrojo laipsnio), taip pat giminaičių (tiesiąja
-giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo
-laipsnio) sutuoktiniais ar sugyventiniais ir šių sutuoktinių ar sugyventinių
-giminaičiais (tiesiąja giminystės linija iki pirmojo laipsnio, šonine
-giminystės linija iki antrojo laipsnio), arba
+sugyventinio giminaičiais (tiesiąja giminystės linija iki antrojo laipsnio,
+šonine giminystės linija iki antrojo laipsnio), gyventojais, susijusiais
+giminystės ryšiais (tiesiąja giminystės linija iki antrojo laipsnio, šonine
+giminystės linija iki ketvirtojo laipsnio) arba svainystės santykiais
+(gyventojas ir jo sutuoktinio giminaičiai (tiesiąja giminystės linija iki
+antrojo laipsnio, šonine giminystės linija iki antrojo laipsnio), taip pat
+giminaičių (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės
+linija iki antrojo laipsnio) sutuoktiniais ar sugyventiniais ir šių sutuoktinių
+ar sugyventinių giminaičiais (tiesiąja giminystės linija iki pirmojo laipsnio,
+šonine giminystės linija iki antrojo laipsnio), arba
 7)
 gyventojas ir jo nuolatinė bazė.
 20.
@@ -302,11 +303,11 @@ administratoriumi dėl mokesčio tarifo ar mokesčio bazės;
 aiškios pelno arba jam analogiško mokesčio administravimo taisyklės ir šių
 taisyklių taikymo tvarka nėra pateikiama kitų valstybių mokesčių
 administratoriams. 
-22. Verslo
-liudijimas – šio Įstatymo ir jį įgyvendinančių teisės aktų nustatyta tvarka
-išduotas dokumentas, patvirtinantis nustatyto fiksuoto dydžio pajamų mokesčio
-sumokėjimą verčiantis individualia veikla, įtraukta į Lietuvos Respublikos
-Vyriausybės nustatytą veiklos rūšių sąrašą.
+22.
+Verslo liudijimas – šio Įstatymo ir jį įgyvendinančių teisės aktų nustatyta
+tvarka išduotas dokumentas, patvirtinantis nustatyto fiksuoto dydžio pajamų
+mokesčio sumokėjimą verčiantis individualia veikla, įtraukta į Lietuvos
+Respublikos Vyriausybės nustatytą veiklos rūšių sąrašą.
 23.
 Vienetas – Lietuvos vienetas ir užsienio vienetas.
 24.
@@ -356,8 +357,8 @@ teisinių santykių, kurie iš esmės (susitarimu dėl darbo apmokėjimo sąlyg�
 darbo vietos ir funkcijų, darbo drausmės ir kt.) atitinka darbo sutarties
 sukuriamus darbdavio ir darbuotojo santykius, pagrindu. 
 32. Asocijuoti
-asmenys – asmenys (vienetai arba fiziniai asmenys), kai jie atitinka bent vieną
-iš šių kriterijų:
+asmenys – asmenys (vienetai arba fiziniai asmenys), kai jie atitinka bent
+vieną iš šių kriterijų:
 1) yra susiję
 asmenys;
 2) gali vienas
@@ -427,8 +428,9 @@ nuostatas, nelaikomas nuolatiniu Lietuvos gyventoju, jei jis yra:
 užsienio valstybės diplomatas, diplomatinės atstovybės, konsulinės įstaigos ar
 tarptautinės organizacijos atstovybės administracinio-techninio arba
 aptarnaujančiojo personalo narys – ne Lietuvos Respublikos pilietis (išskyrus
-asmenis be pilietybės, kurių nuolatinė gyvenamoji vieta arba asmeninių, socialinių
-ar ekonominių interesų buvimo vieta mokestiniu laikotarpiu yra Lietuvoje), arba
+asmenis be pilietybės, kurių nuolatinė gyvenamoji vieta arba asmeninių,
+socialinių ar ekonominių interesų buvimo vieta mokestiniu laikotarpiu yra
+Lietuvoje), arba
 2)
 ne Lietuvos Respublikos pilietis, kuris gauna tik su darbo santykiais arba jų
 esmę atitinkančiais santykiais susijusias pajamas už darbą Lietuvoje iš
@@ -443,17 +445,17 @@ vienas paskui kitą einančiais mokestiniais laikotarpiais, iš karto po jų
 einančiu mokestiniu laikotarpiu galutinai išvyksta iš Lietuvos ir išvykimo
 mokestiniu laikotarpiu išbūna Lietuvoje mažiau kaip 183 dienas, jis yra
 laikomas nuolatiniu Lietuvos gyventoju iki išvykimo dienos. Galutinio išvykimo
-iš Lietuvos kriterijus nustato Lietuvos Respublikos Vyriausybė arba jos
-įgaliota institucija.
+iš Lietuvos kriterijus nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota
+institucija.
 4.
 Jei fizinis asmuo, laikomas nuolatiniu Lietuvos gyventoju ne mažiau kaip trimis
 vienas paskui kitą einančiais mokestiniais laikotarpiais, iš karto po jų
-einančiu mokestiniu laikotarpiu galutinai išvyksta iš Lietuvos į tikslinę
-teritoriją, tai jam netaikomos šio straipsnio 3 dalies nuostatos tais atvejais,
-kai šį fizinį asmenį su Lietuva sieja reikšmingi komerciniai interesai. Toks
-fizinis asmuo laikomas nuolatiniu Lietuvos gyventoju visą išvykimo mokestinį
-laikotarpį bei du po jo einančius mokestinius laikotarpius. Reikšmingi
-komerciniai interesai yra, kai:
+einančiu mokestiniu laikotarpiu galutinai išvyksta iš Lietuvos į tikslinę teritoriją,
+tai jam netaikomos šio straipsnio 3 dalies nuostatos tais atvejais, kai šį
+fizinį asmenį su Lietuva sieja reikšmingi komerciniai interesai. Toks fizinis
+asmuo laikomas nuolatiniu Lietuvos gyventoju visą išvykimo mokestinį laikotarpį
+bei du po jo einančius mokestinius laikotarpius. Reikšmingi komerciniai
+interesai yra, kai:
 1)
 fizinis asmuo yra individualios (personalinės) įmonės Lietuvoje savininkas ir
 (arba) valdo daugiau kaip 25 procentus Lietuvos vieneto akcijų (dalių, pajų)
@@ -539,9 +541,14 @@ programą.
  
 6
 straipsnis. Pajamų mokesčio tarifai
+1 dalies redakcija iki 2006 m. liepos 1 d.:
+1. Pajamų mokesčio tarifai yra 15 ir 33
+procentai, jeigu šiame straipsnyje nenustatyta kitaip. 
+1 dalies redakcija nuo 2006 m. liepos 1 d.:
 1. Nuo 2006 m. liepos 1 d. iki 2007 m. gruodžio 31 d. pajamų mokesčio tarifai yra 15 ir 27 procentai, nuo 2008 m. sausio 1 d. pajamų mokesčio tarifai – 15 ir 24 procentai, jeigu šiame straipsnyje nenustatyta kitaip.
-2. Pajamų mokesčio 15 procentų tarifas taikomas
-šioms pajamoms:
+ 
+2. Pajamų mokesčio 15 procentų tarifas
+taikomas šioms pajamoms:
 1) pajamoms iš paskirstytojo pelno, jei jos
 gaunamos iš Lietuvos vieneto arba iš vienetų, įregistruotų ar kitaip
 organizuotų užsienio valstybėse arba zonose, įtrauktose į finansų ministro
@@ -574,10 +581,10 @@ ne individualios veiklos turto pardavimo ar kitokio perleidimo nuosavybėn
 pajamoms;
 10) pensijų išmokų, gautų bet kuriuo Lietuvos Respublikos papildomo
 savanoriško pensijų kaupimo įstatyme (toliau – Papildomo savanoriško pensijų
-kaupimo įstatymas) numatytu būdu arba kitų užsienio valstybių įstatymuose, reglamentuojančiuose analogiškas pensijų kaupimo
-nuostatas, numatytu būdu, daliai,
-lygiai sumokėtoms pensijų įmokoms, įskaitant ir kitų asmenų lėšomis sumokėtas
-įmokas į pensijų fondą, jei pensijų fondo dalyvis pagal Papildomo savanoriško
+kaupimo įstatymas) numatytu būdu arba kitų užsienio valstybių įstatymuose, reglamentuojančiuose analogiškas pensijų
+kaupimo nuostatas, numatytu būdu,
+daliai, lygiai sumokėtoms pensijų įmokoms, įskaitant ir kitų asmenų lėšomis
+sumokėtas įmokas į pensijų fondą, jei pensijų fondo dalyvis pagal Papildomo savanoriško
 pensijų kaupimo įstatymą yra įgijęs teisę į pensijų išmokas. Šio punkto
 nuostatos netaikomos pensijų išmokoms, gautoms iš tikslinių teritorijų;
 *11) išmokų,
@@ -592,8 +599,11 @@ yra sulaukęs pensinio amžiaus pagal Papildomo savanoriško pensijų kaupimo
 procentų darbingumo lygis (iki 2007 m. birželio 30 d. – ir I grupės invalidai)
 ar 30–40 procentų darbingumo lygis (iki 2007 m. birželio 30 d. – ir II grupės
 invalidai), arba išmoką gaunančiam neįgaliam vaikui yra nustatytas specialusis
-nuolatinės slaugos poreikis (ir iki 18 metų vaikams, kuriems iki 2005 m. birželio
-30 d. buvo nustatyta visiška negalia);
+nuolatinės slaugos poreikis (ir iki 18 metų vaikams, kuriems iki 2005 m.
+birželio 30 d. buvo nustatyta visiška negalia);
+*Pastaba: Nuostatos taikomos
+apskaičiuojant ir deklaruojant 2005 m. ir vėlesnių metų pajamas.
+ 
 *12)
 grąžinamoms gyvybės draudimo įmokoms pagal nutrauktą gyvybės draudimo sutartį,
 sudarytą iki 2004 m. balandžio 30 d., kurioje numatyta, kad draudimo išmoka
@@ -604,6 +614,9 @@ kuris yra sulaukęs pensinio amžiaus pagal Papildomo savanoriško pensijų kaup
 įstatymo nuostatas, arba gyventojui, kuriam nustatytas 0–25 procentų darbingumo
 lygis (iki 2007 m. birželio 30 d. – ir I grupės invalidai) ar 30–40 procentų
 darbingumo lygis (iki 2007 m. birželio 30 d. – ir II grupės invalidai);
+*Pastaba: Nuostatos taikomos
+apskaičiuojant ir deklaruojant 2005 m. ir vėlesnių metų pajamas.
+ 
 13) grąžinamoms gyventojo sumokėtoms pensijų
 įmokoms į pensijų fondą, įsteigtą pagal Papildomo savanoriško pensijų kaupimo
 įstatymą arba kitų užsienio
@@ -622,12 +635,15 @@ draudimo sutarties galiojimo terminui, daliai, lygiai sumokėtoms pagal šią
 sutartį įmokoms, įskaitant ir kitų asmenų lėšomis sumokėtas įmokas, jeigu
 sutarties terminas yra ne trumpesnis kaip 10 metų arba jeigu išmoką gaunantis
 gyventojas yra sulaukęs pensinio amžiaus pagal Papildomo savanoriško pensijų
-kaupimo įstatymo nuostatas, arba išmoką gaunančiam gyventojui yra nustatytas 0–25
-procentų darbingumo lygis (iki 2007 m. birželio 30 d. – ir I grupės invalidai)
-ar 30–40 procentų darbingumo lygis (iki 2007 m. birželio 30 d. – ir II grupės
-invalidai), arba išmoką gaunančiam neįgaliam vaikui yra nustatytas specialusis
-nuolatinės slaugos poreikis (ir iki 18 metų vaikams, kuriems iki 2005 m.
-birželio 30 d. buvo nustatyta visiška negalia);
+kaupimo įstatymo nuostatas, arba išmoką gaunančiam gyventojui yra nustatytas
+0–25 procentų darbingumo lygis (iki 2007 m. birželio 30 d. – ir I grupės
+invalidai) ar 30–40 procentų darbingumo lygis (iki 2007 m. birželio 30 d. – ir
+II grupės invalidai), arba išmoką gaunančiam neįgaliam vaikui yra nustatytas
+specialusis nuolatinės slaugos poreikis (ir iki 18 metų vaikams, kuriems iki
+2005 m. birželio 30 d. buvo nustatyta visiška negalia);
+*Pastaba: Nuostatos taikomos
+apskaičiuojant ir deklaruojant 2005 m. ir vėlesnių metų pajamas.
+ 
 *15)
 grąžinamoms gyvybės draudimo įmokoms pagal nutrauktą gyvybės draudimo sutartį,
 sudarytą nuo 2004 m. gegužės 1 d. su Europos ekonominės erdvės valstybės narės
@@ -639,21 +655,27 @@ pensinio amžiaus pagal Papildomo savanoriško pensijų kaupimo įstatymo
 nuostatas, arba gyventojui, kuriam nustatytas 0–25 procentų darbingumo lygis
 (iki 2007 m. birželio 30 d. – ir I grupės invalidai) ar 30–40 procentų
 darbingumo lygis (iki 2007 m. birželio 30 d. – ir II grupės invalidai);
+*Pastaba: Nuostatos taikomos
+apskaičiuojant ir deklaruojant 2005 m. ir vėlesnių metų pajamas.
+ 
 16)
 vieneto mokamoms draudimo įmokoms darbuotojų naudai už papildomą (savanorišką)
 sveikatos draudimą, kai draudimo objektas yra apdraustojo sveikatos priežiūros
 paslaugų apmokėjimas.
+ 
+3 dalies redakcija iki 2006 m. liepos 1 d.:
+3.
+Šio straipsnio 2 dalyje nenurodytoms pajamoms taikomas 33 procentų pajamų
+mokesčio tarifas.
+3 dalies redakcija nuo 2006 m. liepos 1 d.:
 3. Šio straipsnio 2 dalyje nenurodytoms
 pajamoms nuo 2006 m. liepos 1 d. iki 2007 m. gruodžio 31 d. taikomas 27
 procentų pajamų mokesčio tarifas, nuo
 2008 m. sausio 1 d. – 24 procentų pajamų mokesčio tarifas.
+ 
 4. Už pajamas, gautas iš veiklos, kuria
 verčiamasi turint verslo liudijimą, mokamas savivaldybių tarybų nustatytas
 fiksuoto dydžio pajamų mokestis. 
- 
-*Pastaba: Nuostatos taikomos
-apskaičiuojant ir deklaruojant 2005 m. ir vėlesnių metų pajamas.
- 
 Straipsnio
 pakeitimai:
 Nr. IX-1708,
@@ -783,10 +805,9 @@ Europos ekonominių interesų grupės pelnas jam išmokėtas, ar ne, ir apmokest
 3. Jeigu
 gyventojo sprendimu iš individualios veiklos pajamų atimami šio Įstatymo 18
 straipsnyje nustatyti leidžiami atskaitymai, leidžiamiems atskaitymams,
-susijusiems su individualios veiklos pajamų gavimu, priskiriamos Europos
-ekonominių interesų grupės sąnaudos, kurios pagal šio Įstatymo nuostatas
-priskiriamos leidžiamiems atskaitymams, susijusiems su individualios veiklos
-pajamų gavimu.
+susijusiems su individualios veiklos pajamų gavimu, priskiriamos Europos ekonominių
+interesų grupės sąnaudos, kurios pagal šio Įstatymo nuostatas priskiriamos
+leidžiamiems atskaitymams, susijusiems su individualios veiklos pajamų gavimu.
 4. Priskiriamos
 Europos ekonominių interesų grupės pajamos ir sąnaudos išreiškiamos litais
 pagal Lietuvos banko skelbiamą oficialų lito ir užsienio valiutos santykį,
@@ -855,10 +876,10 @@ nustatyta tvarka;
 5)
 neapmokestinamasis pajamų dydis ir papildomas neapmokestinamasis pajamų dydis,
 apskaičiuojant mokestinio laikotarpio vieno mėnesio apmokestinamąsias pajamas,
-arba metinis neapmokestinamasis pajamų dydis ir metinis papildomas neapmokestinamasis
-pajamų dydis, apskaičiuojant mokestinio laikotarpio apmokestinamąsias pajamas,
-arba jo dalis (šio Įstatymo 29 straipsnyje nustatytais atvejais) – šio Įstatymo
-20 straipsnyje nustatyta tvarka;
+arba metinis neapmokestinamasis pajamų dydis ir metinis papildomas
+neapmokestinamasis pajamų dydis, apskaičiuojant mokestinio laikotarpio
+apmokestinamąsias pajamas, arba jo dalis (šio Įstatymo 29 straipsnyje
+nustatytais atvejais) – šio Įstatymo 20 straipsnyje nustatyta tvarka;
 6)
 nuolatinio Lietuvos gyventojo patirtos išlaidos (apskaičiuojant mokestinio
 laikotarpio apmokestinamąsias pajamas) – šio Įstatymo 21 straipsnyje nustatyta
@@ -889,7 +910,8 @@ pašalpos, kurias, gyventojui mirus, asmuo, su kuriuo gyventojas buvo susijęs
 darbo santykiais ar jų esmę atitinkančiais santykiais, išmoka jo sutuoktiniui
 arba vaikams (įvaikiams), arba tėvams (įtėviams), taip pat pašalpos, kurias
 išmoka asmuo, susijęs su gyventoju darbo santykiais ar jų esmę atitinkančiais
-santykiais, mirus šio gyventojo sutuoktiniui, vaikams (įvaikiams), tėvams (įtėviams);
+santykiais, mirus šio gyventojo sutuoktiniui, vaikams (įvaikiams), tėvams
+(įtėviams);
 2)
 pašalpos, mokamos iš valstybės, savivaldybių biudžetų ir Valstybinio socialinio
 draudimo fondo biudžeto, išskyrus ligos, motinystės ir motinystės
@@ -897,8 +919,8 @@ draudimo fondo biudžeto, išskyrus ligos, motinystės ir motinystės
 3)
 pelno nesiekiančių vienetų pašalpos savo nariams, išmokėtos iš lėšų, sukauptų
 iš nario mokesčio, išskyrus pašalpas, kurias gauna gyventojai, susiję su šiais
-vienetais darbo arba jų esmę atitinkančiais santykiais, ir kurios nėra
-nurodytos kituose šios dalies punktuose;
+vienetais darbo arba jų esmę atitinkančiais santykiais, ir kurios nėra nurodytos
+kituose šios dalies punktuose;
 4)
 pašalpos stichinių nelaimių atvejais, jeigu jos išmokamos remiantis valstybės
 arba savivaldybių institucijų sprendimais;
@@ -1145,11 +1167,11 @@ kaupimo nuostatas;
 44) iš Europos
 Bendrijų lėšų gautos su darbo santykiais ar jų esmę atitinkančiais santykiais
 susijusios pajamos, kurios buvo apmokestintos mokesčiu Europos Bendrijų naudai.
-*45) pasibaigus
-draudimo sutarties galiojimo terminui gauta gyvybės draudimo išmokų dalis,
-viršijanti gyvybės draudimo įmokas, sumokėtas pagal gyvybės draudimo sutartis,
-sudarytas nuo 2004 m. gegužės 1 d. ir vėliau su Europos ekonominės erdvės
-valstybių narių draudimo įmonėmis, kuriose numatyta, kad draudimo išmoka
+*45)
+pasibaigus draudimo sutarties galiojimo terminui gauta gyvybės draudimo išmokų
+dalis, viršijanti gyvybės draudimo įmokas, sumokėtas pagal gyvybės draudimo
+sutartis, sudarytas nuo 2004 m. gegužės 1 d. ir vėliau su Europos ekonominės
+erdvės valstybių narių draudimo įmonėmis, kuriose numatyta, kad draudimo išmoka
 išmokama ne tik įvykus draudiminiam įvykiui, bet ir pasibaigus draudimo
 sutarties galiojimo terminui, jei gyvybės draudimo sutarties terminas yra ne
 trumpesnis kaip 10 metų arba išmokos gavimo momentu išmokos gavėjas yra
@@ -1182,10 +1204,10 @@ valstybių narių draudimo įmonėmis;
 Respublikos valstybės institucijų sprendimu komandiruotų, perkeltų ar kitaip
 išsiųstų į tarptautines tarpvyriausybines organizacijas, Europos Sąjungos
 institucijas arba užsienio valstybines institucijas, taip pat į šių
-organizacijų ar institucijų rengiamas civilines tarptautines operacijas ir
-misijas (toliau šiame punkte – organizacijos), gaunamos išmokos, kurios skirtos
-šių asmenų išlaidoms, susijusioms su jų veikla šiose organizacijose, padengti
-ir kurių mokėjimą reglamentuoja šiose organizacijose galiojantys teisės aktai;
+organizacijų ar institucijų rengiamas civilines tarptautines operacijas ir misijas
+(toliau šiame punkte – organizacijos), gaunamos išmokos, kurios skirtos šių
+asmenų išlaidoms, susijusioms su jų veikla šiose organizacijose, padengti ir
+kurių mokėjimą reglamentuoja šiose organizacijose galiojantys teisės aktai;
 *Pastaba.
 17 straipsnio 1 dalies 48 punkto nuostatos taikomos apskaičiuojant ir
 deklaruojant 2004 m. ir vėlesnių metų pajamas.
@@ -1207,10 +1229,10 @@ apskaičiuojant ir deklaruojant 2005 m. ir vėlesnių metų pajamas.
 straipsnio 1 dalies 7, 8, 9, 10, 11, 12, 13, 14, 20, 21, 22, 23, 24, 27, 29,
 31, 34, 35, 37, 39 ir 43 punktų nustatytos lengvatos, taip pat 19 punkte
 nustatyta lengvata dovanojimo būdu iš kitų nei sutuoktinis, vaikai (įvaikiai)
-ir tėvai (įtėviai) gautoms pajamoms netaikomos, jei gyventojo atitinkamos
-pajamos gautos iš užsienio vienetų, įregistruotų ar kitaip organizuotų
-tikslinėse teritorijose, ar gyventojų, kurių nuolatinė gyvenamoji vieta yra
-tikslinėje teritorijoje.
+ir tėvai (įtėviai) gautoms pajamoms netaikomos, jei gyventojo atitinkamos pajamos
+gautos iš užsienio vienetų, įregistruotų ar kitaip organizuotų tikslinėse
+teritorijose, ar gyventojų, kurių nuolatinė gyvenamoji vieta yra tikslinėje
+teritorijoje.
 Straipsnio
 pakeitimai:
 Nr. IX-1252,
@@ -1229,12 +1251,12 @@ IX-1913,
 Nr. IX-1973,
 2004-01-22, Žin., 2004, Nr. 25-749 (2004-02-14)
 Nr.
-IX-2103,
-2004-04-08, Žin., 2004, Nr. 60-2118 (2004-04-24)
+IX-2103, 2004-04-08,
+Žin., 2004, Nr. 60-2118 (2004-04-24)
 Nr. IX-2202,
 2004-04-29, Žin., 2004, Nr. 73-2535 (2004-04-30)
-Nr. IX-2491,
-2004-10-12, Žin., 2004, Nr. 158-5757 (2004-10-30)
+Nr. IX-2491, 2004-10-12,
+Žin., 2004, Nr. 158-5757 (2004-10-30)
 Nr. IX-2529,
 2004-11-02, Žin., 2004, Nr. 167-6108 (2004-11-17)
 Nr. X-237, 2005-06-09,
@@ -1263,8 +1285,8 @@ laikomos su per mokestinį laikotarpį faktiškai gautomis individualios veiklos
 pajamomis susijusios nenuolatinio Lietuvos gyventojo patirtos įprastinės šiai
 veiklai išlaidos, jei šiame straipsnyje nenustatyta kitaip. Nenuolatinio
 Lietuvos gyventojo su individualios veiklos per nuolatinę bazę pajamų gavimu
-susijusius leidžiamus atskaitymus bei jų apskaičiavimo tvarką nustato Lietuvos Respublikos
-Vyriausybė arba jos įgaliota institucija.
+susijusius leidžiamus atskaitymus bei jų apskaičiavimo tvarką nustato Lietuvos
+Respublikos Vyriausybė arba jos įgaliota institucija.
 3. Jeigu gyventojas vykdo kelių aiškiai
 skirtingų rūšių individualią veiklą, su tokios veiklos pajamų gavimu susiję
 leidžiami atskaitymai šio Įstatymo nustatyta tvarka atimami atskirai pagal
@@ -1275,9 +1297,9 @@ per tą mokestinį laikotarpį faktiškai gautų individualios veiklos pajamų.
 turinčiais visus Lietuvos Respublikos buhalterinės apskaitos įstatyme bei
 kituose Lietuvos Respublikos teisės aktuose numatytus privalomus apskaitos
 dokumentų rekvizitus ir, jei dokumentų blankams Lietuvos Respublikos Vyriausybė
-yra nustačiusi atitinkamus reikalavimus, – atitinkančiais keliamus reikalavimus.
-Be šių rekvizitų, išlaidas pagrindžiančiuose dokumentuose privalo būti
-nurodyta:
+yra nustačiusi atitinkamus reikalavimus, – atitinkančiais keliamus
+reikalavimus. Be šių rekvizitų, išlaidas pagrindžiančiuose dokumentuose privalo
+būti nurodyta:
 1) prekių tiekėjo ar paslaugų teikėjo (tuo
 atveju, kai prekių tiekėjas ar paslaugų teikėjas yra fizinis asmuo) vardas,
 pavardė ir asmens kodas;
@@ -1290,8 +1312,8 @@ gali būti pagrindžiamos užsienio vienetų bei gyventojų surašytais dokument
 jei iš šių dokumentų galima nustatyti ūkinės operacijos turinį.
 7.
 Išlaidos, susijusios su individualia veikla, kuria verčiamasi turint verslo
-liudijimą, sporto bei atlikėjų veikla, nėra laikomos leidžiamais atskaitymais ir
-apskaičiuojant apmokestinamąsias pajamas negali būti atskaitomos iš pajamų.
+liudijimą, sporto bei atlikėjų veikla, nėra laikomos leidžiamais atskaitymais
+ir apskaičiuojant apmokestinamąsias pajamas negali būti atskaitomos iš pajamų.
  
 19
 straipsnis. Parduoto ar kitaip perleisto nuosavybėn ne individualios veiklos
@@ -1332,20 +1354,20 @@ atitinkamais dokumentais.
 įsigijimo kaina yra lygi:
 1)
 visų gyventojo į vieneto kapitalą įneštų už šio Įstatymo 11 straipsnio
-nustatytu atveju parduodamas akcijas (dalis, pajus) įnašų vertei. Įnašų vertė
-yra lygi jų vertei įnešimo metu, įskaitant turto (jei įnašas buvo įneštas
-turtu) vertės padidėjimą dėl turto indeksavimo arba perkainojimo, jeigu jį
-atlikti vienetą įpareigojo Lietuvos Respublikos teisės aktai, ir (arba)
+nustatytu atveju parduodamas akcijas (dalis, pajus) įnašų vertei. Įnašų vertė yra
+lygi jų vertei įnešimo metu, įskaitant turto (jei įnašas buvo įneštas turtu)
+vertės padidėjimą dėl turto indeksavimo arba perkainojimo, jeigu jį atlikti
+vienetą įpareigojo Lietuvos Respublikos teisės aktai, ir (arba)
 2)
 akcijų (dalių, pajų) įsigijimo antrinėje rinkoje kainai, kai akcijos (dalys,
 pajai) buvo įsigytos antrinėje rinkoje.
 5. Kai gyventojas parduoda
 ar kitaip perleidžia nuosavybėn akcijas (dalis, pajus), šio Įstatymo 2
-straipsnio 14 dalies 7 ir 8 punktų nurodytais atvejais gautas mainais į
-įsigyjamojo vieneto akcijas (dalis, pajus), parduodamų ar kitaip perleidžiamų
-nuosavybėn akcijų (dalių, pajų) įsigijimo kaina yra lygi turėtų įsigyjamojo
-vieneto akcijų (dalių, pajų) įsigijimo kainai, buvusiai prieš pat perduodant
-mainais šias akcijas (dalis, pajus).
+straipsnio 14 dalies 7 ir 8 punktų nurodytais atvejais gautas mainais į įsigyjamojo
+vieneto akcijas (dalis, pajus), parduodamų ar kitaip perleidžiamų nuosavybėn
+akcijų (dalių, pajų) įsigijimo kaina yra lygi turėtų įsigyjamojo vieneto akcijų
+(dalių, pajų) įsigijimo kainai, buvusiai prieš pat perduodant mainais šias
+akcijas (dalis, pajus).
 6.
 Lietuvos Respublikos Vyriausybė turi teisę nustatyti ne individualios veiklos
 turto įsigijimo kainos nustatymo tam tikrais atvejais taisykles.
@@ -1359,8 +1381,8 @@ neapmokestinamasis pajamų dydis (toliau – pagrindinis NPD) – 290 litų
 per mėnesį. 
 2. Šiems
 nuolatiniams Lietuvos gyventojams taikomi individualūs neapmokestinamieji
-pajamų dydžiai (jeigu gyventojas atitinka ne vieną iš 1–5 punktuose nustatytų
-kriterijų, taikomas didžiausias individualus NPD):
+pajamų dydžiai (jeigu gyventojas atitinka ne vieną iš 1–5 punktuose nustatytų kriterijų,
+taikomas didžiausias individualus NPD):
 1) asmenims,
 kuriems nustatytas 0–25 procentų darbingumo lygis, ar senatvės pensijos amžių
 sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas
@@ -1424,6 +1446,32 @@ laikotarpio mėnesį galiojantį NPD ir pagal jį apskaičiuotą PNPD.
 Atsiradus arba pasibaigus teisei į individualų NPD, PNPD ar didesnį PNPD, šie
 dydžiai pradedami arba nustojami taikyti nuo kitą, negu atsirado arba pasibaigė
 teisė į juos, mėnesį gautų pajamų.
+ 
+10 ir 11 dalių redakcija iki 2006 m. liepos 1 d.:
+10. Metinis
+neapmokestinamasis pajamų dydis (toliau – MNPD) nustatomas sudedant tam gyventojui
+pagal šio straipsnio nuostatas taikytinus mokestinio laikotarpio atitinkamų
+mėnesių NPD dydžius ir, apskaičiuojant mokestinio laikotarpio apmokestinamąsias
+pajamas, atimamas pirmiausia iš su darbo santykiais arba jų esmę atitinkančiais
+santykiais susijusių mokestinio laikotarpio pajamų, kurios apmokestinamos
+taikant 33 procentų pajamų mokesčio tarifą, o jeigu taikytinas MNPD yra
+didesnis už šias pajamas arba gyventojas tokių pajamų negavo, netaikytas MNPD
+arba jo dalis atimami iš kitų pajamų. Šio Įstatymo 29 straipsnyje nustatytais
+atvejais iš pajamų atimama MNPD dalis, apskaičiuota tame straipsnyje nustatyta
+tvarka.
+11.
+Metinis papildomas neapmokestinamasis pajamų dydis (toliau – MPNPD) nustatomas
+sudedant tėvams (įtėviams) taikytinus pagal šio straipsnio nuostatas mokestinio
+laikotarpio atitinkamų mėnesių PNPD ir, apskaičiuojant mokestinio laikotarpio
+apmokestinamąsias pajamas, atimamas pirmiausia iš su darbo santykiais arba jų
+esmę atitinkančiais santykiais susijusių mokestinio laikotarpio tėvų (įtėvių)
+pajamų, kurios apmokestinamos taikant 33 procentų pajamų mokesčio tarifą, o
+jeigu taikytinas MPNPD yra didesnis už šias pajamas arba gyventojas tokių
+pajamų negavo, netaikytas MPNPD arba jo dalis atimami iš kitų pajamų. MPNPD
+tėvams (įtėviams) taikomi jų pasirinktu santykiu. Šio Įstatymo 29 straipsnyje
+nustatytais atvejais iš pajamų atimama MPNPD dalis, apskaičiuota tame
+straipsnyje nustatyta tvarka.
+10 ir 11 dalių redakcija nuo 2006 m. liepos 1 d.:
 10. Metinis
 neapmokestinamasis pajamų dydis (toliau –
 MNPD) nustatomas sudedant tam gyventojui pagal šio straipsnio nuostatas
@@ -1433,8 +1481,8 @@ mokestinio laikotarpio pajamų, apmokestinamų taikant 33 procentų pajamų
 mokesčio tarifą, atimama MNPD dalis, atitinkanti ne daugiau kaip to mokestinio
 laikotarpio pirmais šešiais mėnesiais pagal šio straipsnio nuostatas taikytinų
 NPD sumą, o likusi MNPD dalis arba, jei gyventojas tokių pajamų negavo, MNPD
-atimami iš pajamų, apmokestinamų taikant 27 procentų pajamų mokesčio tarifą.
-Jei pajamų, apmokestinamų taikant 27 procentų pajamų mokesčio tarifą, neužtenka
+atimami iš pajamų, apmokestinamų taikant 27 procentų pajamų mokesčio tarifą. Jei
+pajamų, apmokestinamų taikant 27 procentų pajamų mokesčio tarifą, neužtenka
 arba gyventojas tokių pajamų negavo, tai neatskaityta MNPD dalis pirmiausia
 atimama iš pajamų, kurios apmokestinamos taikant 33 procentų pajamų mokesčio
 tarifą, o jei tokių pajamų neužtenka arba gyventojas tokių pajamų negavo, MNPD
@@ -1489,6 +1537,7 @@ mokesčio tarifą. MPNPD
 tėvams (įtėviams) taikomi jų pasirinktu santykiu. Šio Įstatymo 29 straipsnyje
 nustatytais atvejais iš pajamų atimama MPNPD
 dalis, apskaičiuota tame straipsnyje nustatyta tvarka.
+ 
 12.
 Neigiamas skirtumas, susidaręs iš pajamų atėmus NPD ir PNPD (ar MNPD ir MPNPD),
 negrąžinamas ir į kitus mokestinius laikotarpius neperkeliamas.
@@ -1515,8 +1564,8 @@ sutuoktinio arba savo nepilnamečių vaikų (įvaikių) bei iki 18 metų ir vyre
 vaikų (įvaikių), kuriems nustatytas specialusis nuolatinės slaugos poreikis
 (iki 18 metų ir vyresnių vaikų (įvaikių), kuriems iki 2005 m. birželio 30 d.
 buvo nustatyta visiška negalia), naudai sumokėtos gyvybės draudimo įmokos pagal
-gyvybės draudimo sutartis, kuriose numatyta, kad draudimo išmoka išmokama ne tik
-įvykus draudiminiam įvykiui, bet ir pasibaigus draudimo sutarties galiojimo
+gyvybės draudimo sutartis, kuriose numatyta, kad draudimo išmoka išmokama ne
+tik įvykus draudiminiam įvykiui, bet ir pasibaigus draudimo sutarties galiojimo
 terminui;
 2) savo,
 sutuoktinio bei iki 18 metų ir vyresnių neįgaliųjų vaikų (įvaikių), kuriems
@@ -1531,19 +1580,19 @@ institucijoms, kurių daugiau kaip 50 procentų akcijų (dalių, pajų) paketo
 turėtojai yra užsienio valstybių vyriausybės, taip pat palūkanos, sumokėtos
 finansų įmonei už gyvenamojo būsto finansinę nuomą (lizingą);
 4) už studijas (kurias baigus įgyjamas
-aukštasis išsilavinimas ir (ar) suteikiama kvalifikacija, taip pat
-doktorantūros bei meno aspirantūros studijos) studijuojančių nuolatinių
-Lietuvos gyventojų sumokėtos sumos. Jei už studijas sumokėta skolintomis
-lėšomis (tam tikslui paimta iš kredito įstaigos paskola), tai iš pajamų gali
-būti atimta per mokestinį laikotarpį grąžinta šios paskolos dalis.
-*5) už vieną per trejus metus įsigytą asmeninio kompiuterio vienetą su programine
-įranga ir (arba) interneto prieigos įrengimą kartu su šiai prieigai reikalingos
-įrangos įsigijimo išlaidomis, neviršijančios 4000 Lt. Jeigu kompiuterio
-vienetas su programine įranga įsigyjamas pagal sutartį, kurioje nustatyta, kad
-nuosavybės teisė į daiktą pereina pirkėjui apmokėjus visą sutartyje nustatytą
-kainą, tai iš pajamų gali būti atimama faktiškai apmokėta kainos dalis
-(išskyrus palūkanas), tačiau visa atimama suma negali viršyti 4000 Lt
-(įskaitant interneto prieigos įrengimo ir šiai prieigai reikalingos įrangos
+aukštasis išsilavinimas ir (ar) suteikiama kvalifikacija, taip pat doktorantūros
+bei meno aspirantūros studijos) studijuojančių nuolatinių Lietuvos gyventojų
+sumokėtos sumos. Jei už studijas sumokėta skolintomis lėšomis (tam tikslui
+paimta iš kredito įstaigos paskola), tai iš pajamų gali būti atimta per
+mokestinį laikotarpį grąžinta šios paskolos dalis.
+*5) už vieną per trejus metus įsigytą asmeninio kompiuterio vienetą su
+programine įranga ir (arba) interneto prieigos įrengimą kartu su šiai prieigai
+reikalingos įrangos įsigijimo išlaidomis, neviršijančios 4000 Lt. Jeigu
+kompiuterio vienetas su programine įranga įsigyjamas pagal sutartį, kurioje
+nustatyta, kad nuosavybės teisė į daiktą pereina pirkėjui apmokėjus visą
+sutartyje nustatytą kainą, tai iš pajamų gali būti atimama faktiškai apmokėta
+kainos dalis (išskyrus palūkanas), tačiau visa atimama suma negali viršyti 4000
+Lt (įskaitant interneto prieigos įrengimo ir šiai prieigai reikalingos įrangos
 įsigijimo išlaidas) per sutarties galiojimo laikotarpį. Asmeninio kompiuterio
 vienetą sudarančių elementų sąrašą tvirtina Lietuvos Respublikos Vyriausybė
 arba jos įgaliota institucija.
@@ -1585,12 +1634,12 @@ Europos ekonominės erdvės valstybėje narėje įregistruotas ar kitaip
 organizuotas užsienio vienetas.
 Straipsnio
 pakeitimai:
-Nr. IX-1708,
-2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30)
+Nr. IX-1708, 2003-07-04,
+Žin., 2003, Nr. 75-3474 (2003-07-30)
 Nr. IX-2070,
 2004-03-23, Žin., 2004, Nr. 50-1633 (2004-04-06)
-Nr. IX-2202,
-2004-04-29, Žin., 2004, Nr. 73-2535 (2004-04-30)
+Nr. IX-2202, 2004-04-29,
+Žin., 2004, Nr. 73-2535 (2004-04-30)
 Nr.
 IX-2272,
 2004-06-15, Žin., 2004, Nr. 98-3628 (2004-06-24)
@@ -1645,9 +1694,9 @@ Nr.
 IX-1848,
 2003-11-25, Žin., 2003, Nr. 116-5254 (2003-12-12)
  
-23
-straipsnis. Pajamų mokesčio iš A klasės pajamų apskaičiavimo, išskaičiavimo ir
-sumokėjimo tvarka
+23 straipsnis.
+Pajamų mokesčio iš A klasės pajamų apskaičiavimo, išskaičiavimo ir sumokėjimo
+tvarka
 1.
 Nuolatinis Lietuvos gyventojas, Lietuvos vienetas, nuolatinė buveinė
 arba nenuolatinis Lietuvos gyventojas, vykdantis individualią veiklą per
@@ -1681,27 +1730,27 @@ sumokėti į biudžetą iki to paties mėnesio 15 dienos, o nuo išmokų, išmok
 atitinkamo mokestinio laikotarpio mėnesio 15 dienos, išskaičiuotas pajamų
 mokestis turi būti sumokėtas iki to paties mėnesio paskutinės dienos.
 4.
-Jei mokestį išskaičiuojantis asmuo su darbo santykiais arba jų esmę
-atitinkančiais santykiais susijusias išmokas už atitinkamą mokestinio
-laikotarpio mėnesį moka dalimis ir per tą atitinkamo mokestinio laikotarpio
-mėnesį išmoka visą išmoką, tai šio straipsnio 1 dalyje nustatyta tvarka
-išskaičiuotą pajamų mokestį mokestį išskaičiuojantis asmuo privalo sumokėti į
-biudžetą iki to mėnesio 15 dienos (jeigu paskutinė išmokos dalis išmokėta iki
-to mėnesio 15 dienos) arba iki to mėnesio paskutinės dienos (jeigu paskutinė
-išmokos dalis išmokėta po to mėnesio 15 dienos). 
+Jei mokestį išskaičiuojantis asmuo su darbo santykiais arba jų esmę atitinkančiais
+santykiais susijusias išmokas už atitinkamą mokestinio laikotarpio mėnesį moka
+dalimis ir per tą atitinkamo mokestinio laikotarpio mėnesį išmoka visą išmoką,
+tai šio straipsnio 1 dalyje nustatyta tvarka išskaičiuotą pajamų mokestį
+mokestį išskaičiuojantis asmuo privalo sumokėti į biudžetą iki to mėnesio 15
+dienos (jeigu paskutinė išmokos dalis išmokėta iki to mėnesio 15 dienos) arba
+iki to mėnesio paskutinės dienos (jeigu paskutinė išmokos dalis išmokėta po to
+mėnesio 15 dienos). 
 5. Jei mokestį išskaičiuojantis asmuo su darbo santykiais arba jų esmę
 atitinkančiais santykiais susijusias išmokas už atitinkamą mokestinio
 laikotarpio mėnesį moka dalimis ir paskutinė išmokos dalis išmokėta per
 mėnesio, einančio po mėnesio, už kurį mokamos su darbo santykiais arba jų esmę
-atitinkančiais santykiais susijusios pajamos, 10 darbo dienų, tai šio straipsnio
-1 dalyje nustatyta tvarka išskaičiuotą pajamų mokestį mokestį išskaičiuojantis
-asmuo privalo sumokėti į biudžetą iki mėnesio, kurį išmokėta paskutinė išmokos
-dalis, 15 dienos, išskyrus su darbo santykiais arba jų esmę atitinkančiais
-santykiais susijusias išmokas, išmokamas už atitinkamo mokestinio laikotarpio
-gruodžio mėnesį, kai pajamų mokestis nuo per tą mėnesį išmokėtų dalių sumos
-turi būti sumokėtas į biudžetą iki atitinkamo mokestinio laikotarpio gruodžio
-mėnesio paskutinės dienos, jeigu paskutinė išmokos dalis išmokėta vėliau negu
-to mėnesio paskutinę dieną.
+atitinkančiais santykiais susijusios pajamos, 10 darbo dienų, tai šio
+straipsnio 1 dalyje nustatyta tvarka išskaičiuotą pajamų mokestį mokestį
+išskaičiuojantis asmuo privalo sumokėti į biudžetą iki mėnesio, kurį išmokėta
+paskutinė išmokos dalis, 15 dienos, išskyrus su darbo santykiais arba jų esmę
+atitinkančiais santykiais susijusias išmokas, išmokamas už atitinkamo
+mokestinio laikotarpio gruodžio mėnesį, kai pajamų mokestis nuo per tą mėnesį
+išmokėtų dalių sumos turi būti sumokėtas į biudžetą iki atitinkamo mokestinio
+laikotarpio gruodžio mėnesio paskutinės dienos, jeigu paskutinė išmokos dalis
+išmokėta vėliau negu to mėnesio paskutinę dieną.
 6.
 Jei mokestį išskaičiuojantis asmuo su darbo santykiais arba jų esmę
 atitinkančiais santykiais susijusias išmokas už atitinkamą mokestinio
@@ -1734,13 +1783,13 @@ metinės. Mėnesinė deklaracija, kurioje deklaruojama bendra ir centrinio
 mokesčio administratoriaus nustatytais atvejais kiekvienam gyventojui per tą
 mėnesį išmokėtų išmokų, priskirtų apmokestinamosioms pajamoms, išskaičiuoto
 pajamų mokesčio suma, pateikiama už kiekvieną mokestinio laikotarpio mėnesį iki
-mokestinio laikotarpio kito mėnesio 15 dienos. Metinė deklaracija, kurioje deklaruojama
-bendra per mokestinį laikotarpį išmokėtų išmokų, priskirtų apmokestinamosioms
-ir neapmokestinamosioms pajamoms, išskaičiuoto ir sumokėto pajamų mokesčio suma
-ir kiekvienam gyventojui per tą mokestinį laikotarpį išmokėtų išmokų, priskirtų
+mokestinio laikotarpio kito mėnesio 15 dienos. Metinė deklaracija, kurioje
+deklaruojama bendra per mokestinį laikotarpį išmokėtų išmokų, priskirtų
 apmokestinamosioms ir neapmokestinamosioms pajamoms, išskaičiuoto ir sumokėto
-pajamų mokesčio suma, pateikiama už mokestinį laikotarpį iki kito mokestinio
-laikotarpio antrojo mėnesio 15 dienos.
+pajamų mokesčio suma ir kiekvienam gyventojui per tą mokestinį laikotarpį
+išmokėtų išmokų, priskirtų apmokestinamosioms ir neapmokestinamosioms pajamoms,
+išskaičiuoto ir sumokėto pajamų mokesčio suma, pateikiama už mokestinį
+laikotarpį iki kito mokestinio laikotarpio antrojo mėnesio 15 dienos.
 *Pastaba.
 2 dalies
 nuostatos taikomos
@@ -1831,9 +1880,9 @@ d.:
 3) 2006 metų mokestiniu laikotarpiu 27 procentų
 tarifas taikomas šios dalies 1 ir 2 punktuose nenurodytai apmokestinamųjų pajamų daliai. 2007
 metų mokestiniu laikotarpiu 27 procentų tarifas taikomas šios dalies 1 punkte
-nenurodytai apmokestinamųjų pajamų daliai. Nuo 2008
-metų mokestinio laikotarpio 24 procentų tarifas taikomas šios dalies 1 punkte
-nenurodytai apmokestinamųjų pajamų daliai.
+nenurodytai apmokestinamųjų pajamų daliai. Nuo
+2008 metų mokestinio laikotarpio 24 procentų tarifas taikomas šios dalies 1
+punkte nenurodytai apmokestinamųjų pajamų daliai.
  
 3.
 Jeigu šiame straipsnyje nenustatyta kitaip, metinės pajamų mokesčio
@@ -1845,11 +1894,11 @@ nepageidauja pasinaudoti teise iš pajamų atimti MNPD ar MPNPD ir (arba) šio
 per atitinkamą mokestinį laikotarpį gavo tik A klasės pajamų. 
 4.
 Ūkininkas ir jo partneriai, per mokestinį laikotarpį gavę pajamų už ūkininko
-ūkyje, įregistruotame Ūkininko ūkio įstatymo nustatyta tvarka, vykdomą žemės ūkio
-veiklą bei pajamų už realizuotą kitą žemės ūkio paskirties žemėje pačių
-išaugintą ar išaugintą ir perdirbtą produkciją, taip pat gyventojas, kuriam
-atsiranda prievolė deklaruoti turimą turtą Gyventojų turto deklaravimo įstatymo
-nustatyta tvarka, išskyrus gyventoją, pageidaujantį gauti valstybės
+ūkyje, įregistruotame Ūkininko ūkio įstatymo nustatyta tvarka, vykdomą žemės
+ūkio veiklą bei pajamų už realizuotą kitą žemės ūkio paskirties žemėje
+pačių išaugintą ar išaugintą ir perdirbtą produkciją, taip pat gyventojas,
+kuriam atsiranda prievolė deklaruoti turimą turtą Gyventojų turto deklaravimo
+įstatymo nustatyta tvarka, išskyrus gyventoją, pageidaujantį gauti valstybės
 garantuojamą teisinę pagalbą arba piniginę socialinę paramą, privalo pateikti
 metinę pajamų mokesčio deklaraciją nepaisant šio straipsnio 3 dalyje nustatytų
 išimčių. Gyventojas, kuriam atsiranda prievolė deklaruoti turimą turtą
@@ -1867,8 +1916,8 @@ Metinės pajamų mokesčio deklaracijos formą, jos užpildymo ir pateikimo tvar
 nustato centrinis mokesčio administratorius, suderinęs su finansų ministru.
 Centrinis mokesčio administratorius turi teisę nustatyti metinėje pajamų
 mokesčio deklaracijoje nedeklaruojamų neapmokestinamųjų pajamų sąrašą, taip pat
-tam tikrų neapmokestinamųjų pajamų dydį, kurio neviršijus gautos pajamos
-nedeklaruojamos metinėje pajamų mokesčio deklaracijoje.
+tam tikrų neapmokestinamųjų pajamų dydį, kurio neviršijus gautos pajamos nedeklaruojamos
+metinėje pajamų mokesčio deklaracijoje.
 7.
 Nuolatinis Lietuvos gyventojas, kuriam pagal šį straipsnį nustatyta prievolė
 teikti metinę pajamų mokesčio deklaraciją, pajamų mokesčio skirtumą tarp
@@ -1884,8 +1933,8 @@ informacija apie tiesiogiai ar netiesiogiai valdomas kontroliuojamųjų vienetų
 akcijas (dalis, pajus) ar kitas teises į paskirstytinojo pelno dalį arba
 išimtines teises jas įsigyti, taip pat kontroliuojamojo vieneto pavadinimas ir
 buveinės adresas, kontroliuojamojo vieneto valdytojų sąrašas. Nuolatinis
-Lietuvos gyventojas kontroliuojamojo vieneto balansą bei pelno ir nuostolių ataskaitą
-privalo saugoti ne mažiau kaip 10 metų.
+Lietuvos gyventojas kontroliuojamojo vieneto balansą bei pelno ir nuostolių
+ataskaitą privalo saugoti ne mažiau kaip 10 metų.
 9.
 Jeigu nuolatinio Lietuvos gyventojo pateiktoje metinėje pajamų mokesčio
 deklaracijoje apskaičiuojama pajamų mokesčio permoka, ji gali būti įskaityta
@@ -1960,19 +2009,19 @@ nuo
 individualios veiklos per nuolatinę bazę pajamų deklaracija
 1.
 Nenuolatinis Lietuvos gyventojas, per mokestinį laikotarpį gavęs pajamų iš
-individualios veiklos per nuolatinę bazę, mokestiniam laikotarpiui pasibaigus, iki
-kitų po to mokestinio laikotarpio kalendorinių metų gegužės 1 dienos privalo
-pateikti metinę pajamų mokesčio nuo individualios veiklos per nuolatinę bazę
-pajamų deklaraciją ir joje deklaruoti visas per tą mokestinį laikotarpį gautas
-pajamas iš individualios veiklos per nuolatinę bazę ir už jas šio Įstatymo
-nustatyta tvarka apskaičiuotą pajamų mokestį.
+individualios veiklos per nuolatinę bazę, mokestiniam laikotarpiui pasibaigus,
+iki kitų po to mokestinio laikotarpio kalendorinių metų gegužės 1 dienos
+privalo pateikti metinę pajamų mokesčio nuo individualios veiklos per nuolatinę
+bazę pajamų deklaraciją ir joje deklaruoti visas per tą mokestinį laikotarpį
+gautas pajamas iš individualios veiklos per nuolatinę bazę ir už jas šio
+Įstatymo nustatyta tvarka apskaičiuotą pajamų mokestį.
 2.
 Metinėje pajamų mokesčio nuo individualios veiklos per nuolatinę bazę pajamų
 deklaracijoje apskaičiuotas pajamų mokestis nuo nenuolatinio gyventojo per
 mokestinį laikotarpį gautų individualios veiklos per nuolatinę bazę pajamų turi
-būti sumokėtas į biudžetą iki šiame straipsnyje nustatyto metinės pajamų
-mokesčio nuo individualios veiklos per nuolatinę bazę pajamų deklaracijos
-pateikimo termino pabaigos.
+būti sumokėtas į biudžetą iki šiame straipsnyje nustatyto metinės pajamų mokesčio
+nuo individualios veiklos per nuolatinę bazę pajamų deklaracijos pateikimo
+termino pabaigos.
 3.
 Tuo atveju, jei nenuolatinis Lietuvos gyventojas per nuolatinę bazę gauna
 pajamų, susijusių su šia veikla ir pagal šį Įstatymą priskiriamų A klasės
@@ -2003,9 +2052,9 @@ Nenuolatinis Lietuvos gyventojas, per mokestinį laikotarpį gavęs šio Įstaty
 pajamų apskaičiuoti pajamų mokestį ir sumokėti jį į biudžetą, taip pat pateikti
 šio pajamų mokesčio deklaraciją ne vėliau kaip per 25 dienas nuo pajamų gavimo.
 2.
-Nenuolatinio Lietuvos gyventojo pajamų mokesčio nuo B klasės pajamų
-deklaracijos formą, jos užpildymo ir pateikimo tvarką nustato centrinis
-mokesčio administratorius, suderinęs su finansų ministru.
+Nenuolatinio Lietuvos gyventojo pajamų mokesčio nuo B klasės pajamų deklaracijos
+formą, jos užpildymo ir pateikimo tvarką nustato centrinis mokesčio
+administratorius, suderinęs su finansų ministru.
  
 32
 straipsnis. Pajamų mokesčio nuo kai kurių turto pardavimo pajamų 
@@ -2057,9 +2106,9 @@ sumokėta pajamų mokesčio suma. Jei gyventojui išmokas išmoka užsienio vien
 per nuolatinę buveinę, tai šias pažymas nuolatiniam gyventojui išduoda užsienio
 vieneto įgaliotas asmuo. Jei gyventojui išmokas išmoka nenuolatinis Lietuvos
 gyventojas per nuolatinę bazę, tai šias pažymas nuolatiniam gyventojui gali
-išduoti tas nenuolatinis Lietuvos gyventojas ar jo įgaliotas asmuo. Pažymos
-parengiamos ir išduodamos nemokamai per 10 darbo dienų nuo
-prašymo gavimo dienos.
+išduoti tas nenuolatinis Lietuvos gyventojas ar jo įgaliotas asmuo. Pažymos parengiamos
+ir išduodamos nemokamai per 10 darbo dienų nuo prašymo gavimo
+dienos.
 2.
 Per mokestinį laikotarpį gyventojams išmokas, kurios pagal mokesčio mokėjimo
 tvarką priskirtos B klasėms pajamoms, išmokėję Lietuvos vienetas, užsienio
@@ -2153,8 +2202,8 @@ laikotarpio paskutinę dieną, jeigu turėjo gyvenamąją vietą Lietuvoje. Jeig
 nenuolatinis Lietuvos gyventojas neturėjo gyvenamosios vietos Lietuvoje,
 mokestį išskaičiuojančiam asmeniui privalo nurodyti savivaldybę, kurioje jis
 turėjo gyvenamąją vietą praėjusio mokestinio laikotarpio paskutinę buvimo
-Lietuvoje dieną. Tuo atveju, jeigu nenuolatinis Lietuvos gyventojas
-praėjusiu mokestiniu laikotarpiu Lietuvoje neturėjo
+Lietuvoje dieną. Tuo atveju, jeigu nenuolatinis Lietuvos gyventojas praėjusiu
+mokestiniu laikotarpiu Lietuvoje neturėjo
 gyvenamosios vietos, jis privalo nurodyti mokestį išskaičiuojančiam
 asmeniui savivaldybę, kurioje jis turi gyvenamąją vietą mokestiniu laikotarpiu,
 jeigu jis turi gyvenamąją vietą Lietuvoje.
@@ -2180,77 +2229,73 @@ SKYRIUS
 PAJAMŲ
 MOKESČIO, SUMOKĖTO UŽSIENIO VALSTYBĖSE, ATSKAITYMAS
  
-37
-straipsnis. Pajamų mokesčio, sumokėto užsienio valstybėse, atskaitymas 
- 
-1 dalies redakcija iki 2006 m. liepos 1 d.:
-1.
-Nuolatinis Lietuvos gyventojas iš šio Įstatymo nustatyta tvarka apskaičiuoto
-pajamų mokesčio sumos gali atskaityti pajamų mokesčio arba jam tapataus
-mokesčio sumą, sumokėtą užsienio valstybėje nuo toje valstybėje per tą
-mokestinį laikotarpį gautų pajamų, jeigu su šia valstybe yra sudaryta ir
-taikoma dvigubo apmokestinimo išvengimo sutartis arba ši valstybė įtraukta į
-finansų ministro tvirtinamą sąrašą. 
-1 dalies redakcija nuo 2006 m. liepos 1 d.:
-*1.
-Nuolatinis Lietuvos gyventojas iš šio Įstatymo nustatyta tvarka apskaičiuoto pajamų mokesčio sumos gali atskaityti pajamų mokesčio arba jam tapataus mokesčio
-sumą, sumokėtą užsienio valstybėje nuo toje valstybėje per tą mokestinį
-laikotarpį gautų pajamų, jeigu ši valstybė nėra įtraukta į
-finansų ministro nustatytą Tikslinių teritorijų sąrašą.
-*Pastaba. 1 dalies nuostatos taikomos apmokestinant ir
-deklaruojant 2005 metų ir vėlesnių metų pajamas.
- 
-2.
+*37
+straipsnis. Pajamų, gautų užsienio valstybėse,
+dvigubo apmokestinimo panaikinimas
+1. Užsienio valstybėje,
+kuri yra Europos Sąjungos valstybė narė arba su kuria Lietuvos Respublika yra
+sudariusi ir taiko dvigubo apmokestinimo išvengimo sutartį, gautos nuolatinio
+Lietuvos gyventojo pajamos, išskyrus minėtoje valstybėje gautas palūkanas,
+dividendus ir honorarus, šio Įstatymo nustatyta tvarka yra neapmokestinamos
+pajamų mokesčiu Lietuvos Respublikoje, jeigu pajamų mokestis arba jam tapatus
+mokestis nuo šių pajamų nustatyta tvarka sumokėtas toje
+užsienio valstybėje. Užsienio valstybėje, kuri yra Europos Sąjungos valstybė
+narė arba su kuria yra sudaryta ir taikoma dvigubo apmokestinimo išvengimo
+sutartis, sumokėtą pajamų mokesčio arba jam tapataus mokesčio sumą nuo toje
+valstybėje gautų palūkanų, dividendų ir honorarų nuolatinis Lietuvos gyventojas
+gali atskaityti iš šio Įstatymo nustatyta tvarka apskaičiuoto pajamų mokesčio
+sumos. Šios dalies nuostatos taikomos tik tuo atveju, jeigu yra pateikti
+įrodymai apie užsienio valstybėje per tą mokestinį laikotarpį gautas pajamas ir
+nuo jų sumokėtą pajamų mokesčio arba jam tapataus mokesčio sumą. 
+2. Nuolatinis
+Lietuvos gyventojas iš šio Įstatymo nustatyta tvarka apskaičiuoto pajamų
+mokesčio sumos gali atskaityti pajamų mokesčio arba jam tapataus mokesčio sumą,
+sumokėtą šio straipsnio 1 dalyje nenurodytoje užsienio valstybėje nuo toje
+valstybėje per tą mokestinį laikotarpį gautų pajamų. Šios
+dalies nuostatos taikomos tik tuo atveju, jeigu yra pateikti užsienio valstybės
+mokesčio administratoriaus patvirtinti dokumentai apie toje valstybėje per tą
+mokestinį laikotarpį gautas pajamas ir nuo jų sumokėtą pajamų mokesčio arba jam
+tapataus mokesčio sumą. Šios dalies nuostata netaikoma apskaičiuojant pajamų
+mokestį nuo pajamų, gautų užsienio valstybėje, įtrauktoje į finansų ministro
+nustatytą Tikslinių teritorijų sąrašą.
+3.
 Nuolatinis Lietuvos gyventojas turi teisę nuo kontroliuojamojo užsienio vieneto
 pozityviųjų pajamų, įskaitytų į nuolatinio Lietuvos gyventojo pajamas,
-mokesčio, sumokėto užsienio valstybėje, su kuria Lietuvos Respublika yra
-sudariusi dvigubo apmokestinimo išvengimo sutartį ir pagal kurios atitinkamą
-įstatymą kontroliuojamojo užsienio vieneto pozityviosios pajamos yra įtrauktos
-į tos valstybės vieneto pajamas ir apmokestintos pagal analogiškas Pelno
-mokesčio įstatyme nustatytas taisykles, dydžiu sumažinti į biudžetą mokėtiną
-pagal šį Įstatymą apskaičiuotą pajamų mokestį nuo pozityviųjų pajamų.
-*3. Jeigu
-nuo užsienio valstybėje gautų pajamų šio Įstatymo nustatyta tvarka apskaičiuota
-pajamų mokesčio suma yra mažesnė negu pajamų mokesčio arba jam tapataus
-mokesčio suma, sumokėta nuo tų pajamų užsienio valstybėje, tai atskaitoma tik
-šio Įstatymo nustatyta tvarka apskaičiuota pajamų mokesčio suma, išskyrus šio
-straipsnio 6 dalyje nustatytus atvejus.
-*Pastaba. Šio Įstatymo 37 straipsnio 3 dalies nuostatos taikomos nuo 2005 m.
-sausio 1 d., jei Europos Sąjungos Tarybos sprendimu nebus nustatyta vėlesnė
-2003 m. birželio 3 d. Tarybos direktyvą 2003/48/EB dėl palūkanų, gautų iš
-taupymo pajamų, apmokestinimo įgyvendinančių Europos Sąjungos valstybių narių
-teisės aktų įsigaliojimo data. 
- 
+mokesčio, sumokėto užsienio valstybėje, kuri yra Europos Sąjungos valstybė narė
+arba su kuria Lietuvos Respublika yra sudariusi ir taiko dvigubo apmokestinimo
+išvengimo sutartį ir pagal kurios atitinkamą įstatymą kontroliuojamojo užsienio
+vieneto pozityviosios pajamos yra įtrauktos į tos valstybės vieneto pajamas ir
+apmokestintos pagal analogiškas Pelno mokesčio įstatyme nustatytas taisykles,
+dydžiu sumažinti į biudžetą mokėtiną pagal šį Įstatymą apskaičiuotą pajamų
+mokestį nuo pozityviųjų pajamų.
 4.
+Jeigu nuo užsienio valstybėje gautų pajamų šio Įstatymo nustatyta tvarka
+apskaičiuota pajamų mokesčio suma yra mažesnė negu pajamų mokesčio arba jam
+tapataus mokesčio suma, sumokėta nuo tų pajamų užsienio valstybėje, tai
+atskaitoma tik šio Įstatymo nustatyta tvarka apskaičiuota pajamų mokesčio suma,
+išskyrus šio straipsnio 6 dalyje nustatytus atvejus.
+5.
 Jeigu nuolatinis Lietuvos gyventojas per mokestinį laikotarpį gauna pajamų
 keliose užsienio valstybėse, tai atskaitoma pajamų mokesčio suma apskaičiuojama
-atskirai pagal kiekvieną valstybę, kurioje gautos pajamos.
-5.
-Atskaityti iš apskaičiuotos pajamų mokesčio sumos šiame straipsnyje nustatyta
-tvarka leidžiama tik tuo atveju, jeigu yra pateikti užsienio valstybės mokesčio
-administratoriaus patvirtinti dokumentai apie toje valstybėje per tą mokestinį
-laikotarpį gautas pajamas bei nuo jų apskaičiuotą ir sumokėtą pajamų mokesčio
-arba jam tapataus mokesčio sumą.
-*6. Jeigu
-nuo palūkanų buvo išskaičiuotas pajamų mokestis, nustatytas 2003 m. birželio 3
-d. Tarybos direktyvos 2003/48/EB dėl palūkanų, gautų iš taupymo pajamų,
-apmokestinimo 11 straipsnio 1 dalyje arba su šios Direktyvos 17 straipsnio 2
-dalyje nurodytomis valstybėmis ar teritorijomis sudarytose ir taikomose
-sutartyse, tai visa išskaičiuoto pajamų mokesčio suma grąžinama (įskaitoma)
-Mokesčių administravimo įstatymo nustatyta mokesčio permokos grąžinimo
-(įskaitymo) tvarka, nuolatiniam Lietuvos gyventojui pateikus metinę pajamų
-mokesčio deklaraciją.
-*Pastaba. Šio Įstatymo 37 straipsnio 6 dalies nuostatos taikomos nuo 2005 m.
-sausio 1 d., jei Europos Sąjungos Tarybos sprendimu nebus nustatyta vėlesnė
-2003 m. birželio 3 d. Tarybos direktyvą 2003/48/EB dėl palūkanų, gautų iš
-taupymo pajamų, apmokestinimo įgyvendinančių Europos Sąjungos valstybių narių
-teisės aktų įsigaliojimo data. 
+atskirai nuo kiekvienoje valstybėje  gautų pajamų.
+6. Jeigu nuo palūkanų buvo išskaičiuotas pajamų
+mokestis, nustatytas 2003 m. birželio 3 d. Tarybos direktyvos 2003/48/EB dėl
+palūkanų, gautų iš taupymo pajamų, apmokestinimo 11 straipsnio 1 dalyje arba su
+šios Direktyvos 17 straipsnio 2 dalyje nurodytomis valstybėmis ar teritorijomis
+sudarytose ir taikomose sutartyse, tai visa išskaičiuoto pajamų mokesčio suma
+grąžinama (įskaitoma) Mokesčių administravimo įstatymo nustatyta mokesčio
+permokos grąžinimo (įskaitymo) tvarka,  kai nuolatinis Lietuvos gyventojas
+pateikia metinę pajamų mokesčio deklaraciją.
+*Pastaba. 37 straipsnio nuostatos taikomos
+apmokestinant ir deklaruojant 2005 metų ir vėlesnių metų pajamas.
 Straipsnio
 pakeitimai:
 Nr. IX-2202,
 2004-04-29, Žin., 2004, Nr. 73-2535 (2004-04-30)
 Nr. X-235, 2005-06-07,
 Žin., 2005, Nr. 76-2743 (2005-06-18)
+Nr. X-467, 2005-12-22,
+Žin., 2006, Nr. 4-100 (2006-01-12)
  
 VIII SKYRIUS
 MOKESČIO
@@ -2278,10 +2323,10 @@ mokestį išskaičiuojantis asmuo, biudžetą;
 jeigu Lietuvos vienetas turi padalinių kitų savivaldybių teritorijose, tai iš
 šiuose padaliniuose dirbančių nuolatinių Lietuvos gyventojų gautų su darbo
 santykiais susijusių arba joms prilygintų pajamų išskaičiuotą ir sumokėtą
-pajamų mokestį, taip pat sumokėtą (išieškotą) nuo šių pajamų apskaičiuotą
-mokestinę nepriemoką pagal mokestį išskaičiuojančio asmens deklaracijoje
-pateiktus duomenis mokesčio administratorius perveda į
-tos savivaldybės, kurios teritorijoje yra minėti padaliniai, biudžetą.
+pajamų mokestį, taip pat sumokėtą (išieškotą) nuo šių pajamų apskaičiuotą mokestinę
+nepriemoką pagal mokestį išskaičiuojančio asmens deklaracijoje pateiktus
+duomenis mokesčio administratorius perveda į tos
+savivaldybės, kurios teritorijoje yra minėti padaliniai, biudžetą.
 2.
 Nuo 2004 m. sausio 1 d. (imtinai) nuolatinio Lietuvos gyventojo sumokėtas
 pajamų mokestis ir sumokėta (išieškota) mokestinė nepriemoka, taip pat pagal šį
@@ -2365,8 +2410,8 @@ mokesčio įskaitymo į savivaldybių biudžetus patikslinimai, numatyti šios d
 Straipsnio
 pakeitimai:
 Nr.
-IX-1848,
-2003-11-25, Žin., 2003, Nr. 116-5254 (2003-12-12)
+IX-1848, 2003-11-25,
+Žin., 2003, Nr. 116-5254 (2003-12-12)
  
 IX SKYRIUS
 BAIGIAMOSIOS
@@ -2376,13 +2421,13 @@ NUOSTATOS
 straipsnis. Įstatymo taikymas ir pasiūlymai Vyriausybei
 1.
 Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d. 
-2. Šio Įstatymo 2 straipsnio
-14 dalies 7 punkto nuostatos dėl akcijų kainų skirtumo, apmokėto pinigais, ir
-15 straipsnio nuostatos taikomos nuo 2004 m. sausio 1 d.
+2. Šio Įstatymo 2
+straipsnio 14 dalies 7 punkto nuostatos dėl akcijų kainų skirtumo, apmokėto
+pinigais, ir 15 straipsnio nuostatos taikomos nuo 2004 m. sausio 1 d.
 3.
 Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija ir centrinis
-mokesčio administratorius visus šiam Įstatymui įgyvendinti reikalingus teisės
-aktus parengia ir patvirtina ne vėliau kaip likus 3 mėnesiams iki šio Įstatymo
+mokesčio administratorius visus šiam Įstatymui įgyvendinti reikalingus teisės aktus
+parengia ir patvirtina ne vėliau kaip likus 3 mėnesiams iki šio Įstatymo
 įsigaliojimo.
 4.
 Nuo 2003 m. sausio 1 d. pripažįstami netekusiais galios:
@@ -2404,12 +2449,12 @@ mokesčio laikinojo įstatymo galiojimo pratęsimo“ (Žin., 1993, Nr. 2-27);
 Lietuvos Respublikos įstatymas „Dėl Lietuvos Respublikos fizinių asmenų pajamų
 mokesčio laikinojo įstatymo galiojimo pratęsimo“ (Žin., 1993, Nr. 70-1305);
 4)
-Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos mokesčių įstatymų
-papildymo“ (Žin., 1996, Nr. 1-3) 2 straipsnis;
+Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos mokesčių įstatymų papildymo“
+(Žin., 1996, Nr. 1-3) 2 straipsnis;
 5)
-Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas „Dėl Lietuvos Respublikos
-fizinių asmenų pajamų mokesčio laikinojo įstatymo įsigaliojimo“ (Žin., 1990,
-Nr. 31-743);
+Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas „Dėl Lietuvos
+Respublikos fizinių asmenų pajamų mokesčio laikinojo įstatymo įsigaliojimo“
+(Žin., 1990, Nr. 31-743);
 6)
 Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas „Dėl Lietuvos
 Respublikos Aukščiausios Tarybos nutarimo „Dėl Lietuvos Respublikos fizinių
@@ -2441,8 +2486,7 @@ laikinojo įstatymo pakeitimo ir papildymo“ įsigaliojimo“ (Žin., 1992, Nr.
 12)
 Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas „Dėl Lietuvos
 Respublikos įstatymo „Dėl Lietuvos Respublikos fizinių asmenų pajamų mokesčio
-laikinojo įstatymo pakeitimo ir papildymo“ įsigaliojimo“ (Žin., 1992, Nr.
-14-389);
+laikinojo įstatymo pakeitimo ir papildymo“ įsigaliojimo“ (Žin., 1992, Nr. 14-389);
 13)
 Lietuvos Respublikos Seimo nutarimas „Dėl Lietuvos Respublikos įstatymo „Dėl
 Lietuvos Respublikos fizinių asmenų pajamų mokesčio laikinojo įstatymo
@@ -2492,8 +2536,8 @@ Pakeitimai:
 1.
 Lietuvos Respublikos
 Seimas, Įstatymas
-Nr. IX-1252,
-2002-12-10, Žin., 2002, Nr. 123-5539 (2002-12-24)
+Nr. IX-1252, 2002-12-10,
+Žin., 2002, Nr. 123-5539 (2002-12-24)
 GYVENTOJŲ PAJAMŲ MOKESČIO
 ĮSTATYMO 17 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis Įstatymas įsigalioja
@@ -2615,9 +2659,9 @@ Lietuvos Respublikos Seimas,
 Įstatymas
 Nr. IX-2103,
 2004-04-08, Žin., 2004, Nr. 60-2118 (2004-04-24)
-GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO
-1, 2, 8, 17 STRAIPSNIŲ PAKEITIMO BEI PAPILDYMO IR ĮSTATYMO PAPILDYMO 13(1)
-STRAIPSNIU IR PRIEDU ĮSTATYMAS
+GYVENTOJŲ PAJAMŲ MOKESČIO
+ĮSTATYMO 1, 2, 8, 17 STRAIPSNIŲ PAKEITIMO BEI PAPILDYMO IR ĮSTATYMO PAPILDYMO
+13(1) STRAIPSNIU IR PRIEDU ĮSTATYMAS
 Šis Įstatymas, išskyrus 5
 straipsnį, įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą
 dienos.
@@ -2647,8 +2691,8 @@ direktyvą 2003/48/EB dėl palūkanų, gautų iš taupymo pajamų, apmokestinimo
 14.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. IX-2272, 2004-06-15,
-Žin., 2004, Nr. 98-3628 (2004-06-24)
+Nr. IX-2272,
+2004-06-15, Žin., 2004, Nr. 98-3628 (2004-06-24)
 GYVENTOJŲ PAJAMŲ MOKESČIO
 ĮSTATYMO 21 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 Gyventojų pajamų mokesčio
@@ -2695,15 +2739,25 @@ straipsnio nuostatos taikomos apmokestinant ir deklaruojant 2005 metų ir
 vėlesnių metų pajamas.
 Jeigu su darbo santykiais ar jų
 esmę atitinkančiais santykiais susijusių išmokų už 2006 m. birželio mėnesį
-paskutinė dalis bus išmokėta vėliau negu to mėnesio paskutinę dieną, pajamų
-mokestis nuo per 2006 m. birželio mėnesį išmokėtų dalių sumos turi būti
-išskaičiuotas ir sumokėtas į biudžetą iki 2006 m. birželio 15 dienos (jeigu
-paskutinė išmoka išmokėta iki 2006 m. birželio 15 d.) arba iki 2006 m. birželio
-30 d. (jeigu paskutinė išmoka išmokėta iki 2006 m. birželio 30 d.).
+paskutinė dalis bus išmokėta vėliau negu to mėnesio paskutinę dieną, pajamų mokestis
+nuo per 2006 m. birželio mėnesį išmokėtų dalių sumos turi būti išskaičiuotas ir
+sumokėtas į biudžetą iki 2006 m. birželio 15 dienos (jeigu paskutinė išmoka
+išmokėta iki 2006 m. birželio 15 d.) arba iki 2006 m. birželio 30 d. (jeigu
+paskutinė išmoka išmokėta iki 2006 m. birželio 30 d.).
+Pakeitimas:
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. X-467, 2005-12-22,
+Žin., 2006, Nr. 4-100 (2006-01-12)
+GYVENTOJŲ PAJAMŲ MOKESČIO
+ĮSTATYMO IR GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 6, 20, 27, 37 STRAIPSNIŲ
+PAKEITIMO IR PAPILDYMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+Šio įstatymo pirmojo
+skirsnio nuostatos taikomos apmokestinant ir deklaruojant 2005 metų ir vėlesnių
+metų pajamas.
  
 19.
-Lietuvos Respublikos Seimas,
-Įstatymas
+Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-237, 2005-06-09,
 Žin., 2005, Nr. 76-2744 (2005-06-18)
 GYVENTOJŲ PAJAMŲ MOKESČIO
@@ -2757,11 +2811,23 @@ PAJAMŲ MOKESČIO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja nuo 2006 m. sausio 1 d.
  
+25.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. X-467, 2005-12-22,
+Žin., 2006, Nr. 4-100 (2006-01-12)
+GYVENTOJŲ PAJAMŲ MOKESČIO
+ĮSTATYMO IR GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 6, 20, 27, 37 STRAIPSNIŲ
+PAKEITIMO IR PAPILDYMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+Šio
+įstatymo pirmojo skirsnio nuostatos taikomos apmokestinant ir deklaruojant 2005
+metų ir vėlesnių metų pajamas.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušra Bodin (2006-01-03)
+Aušrinė Trapinskienė (2006-01-12)
                  
-ausra.bodin@lrs.lt
+autrap@lrs.lt
