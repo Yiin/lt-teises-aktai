@@ -37,7 +37,8 @@ KONTROLĖS ĮSTATYMO 52 STRAIPSNIO PAKEITIMAS
 (Žin., 1995, Nr.
 51-1243)
  
-1 straipsnis. 52 straipsnio pakeitimas
+1 straipsnis. 52
+straipsnio pakeitimas
 Pakeisti 52 straipsnį ir jį išdėstyti
 taip:
 „52
@@ -55,10 +56,10 @@ TEISMŲ ĮSTATYMO
 55 STRAIPSNIO PAKEITIMAS
  
 (Žin., 1994, Nr.
-46-851; 1998, Nr. 38-1001)
+46-851; 1998, Nr.
+38-1001)
  
-1
-straipsnis. 22(2 )straipsnio papildymas
+1 straipsnis. 22(2 )straipsnio papildymas
 1.
 22(2) straipsnio pavadinime po žodžio „stipendija“ įrašyti žodžius
 „valstybinis socialinis draudimas“ ir straipsnio pavadinimą išdėstyti taip:
@@ -93,8 +94,8 @@ socialinės garantijos“.
 2.
 Papildyti 55 straipsnį nauja 2 dalimi:
 „Teisėjai
-draudžiami valstybiniu socialiniu draudimu Lietuvos Respublikos valstybinio
-socialinio draudimo įstatyme nustatyta tvarka.“
+draudžiami valstybiniu socialiniu draudimu Lietuvos Respublikos valstybinio socialinio
+draudimo įstatyme nustatyta tvarka.“
 3.
 55 straipsnio buvusią 2 dalį laikyti 3 dalimi.
  
@@ -107,8 +108,8 @@ PAKEITIMAS
 (Žin., 1993, Nr.
 6-120; 2001, Nr. 39-1335)
  
-1
-straipsnis. 16 straipsnio 1 dalies papildymas ir 3 dalies pakeitimas
+1 straipsnis. 16 straipsnio 1 dalies papildymas ir 3
+dalies pakeitimas
 1.
 Papildyti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 „Konstitucinio
@@ -131,10 +132,11 @@ SEIMO KONTROLIERIŲ ĮSTATYMO 30 STRAIPSNIO
 PAKEITIMAS
  
 (Žin., 1998, Nr.
-110-3024; 2000, Nr. 111-3582; 2001, Nr. 39-1342)
+110-3024; 2000,
+Nr. 111-3582;
+2001, Nr. 39-1342)
  
-1
-straipsnis. 30 straipsnio pakeitimas
+1 straipsnis. 30 straipsnio pakeitimas
 1.
 Papildyti 30 straipsnį nauja 2 dalimi:
 „2.
@@ -146,19 +148,14 @@ socialinio draudimo įstatyme nustatyta tvarka.“
 PENKTASIS SKIRSNIS
 SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO 4
 STRAIPSNIO PAKEITIMAS
+(Neteko galios
+nuo 2006 m. sausio 1 d.)
+Skirsnio
+pakeitimai:
+Nr.
+X-480,
+2005-12-23, Žin., 2005, Nr. 153-5646 (2005-12-31)
  
-(Žin., 1996, Nr.
-71-1710)
- 
-1
-straipsnis. 4 straipsnio 2 dalies pakeitimas
-4
-straipsnio 2 dalyje žodį „valstybės“ išbraukti, po žodžio „draudimu“ įrašyti
-žodžius „Valstybinio socialinio draudimo įstatyme nustatyta tvarka“ ir šią dalį
-išdėstyti taip:
-„2.
-Seimo nariai draudžiami valstybiniu socialiniu draudimu Valstybinio socialinio
-draudimo įstatyme nustatyta tvarka.“
  
 ŠEŠTASIS SKIRSNIS
 PROKURATŪROS ĮSTATYMO 39 STRAIPSNIO
@@ -167,8 +164,7 @@ PAKEITIMAS
 (Žin., 1994, Nr.
 81-1514)
  
-1
-straipsnis. 39 straipsnio pakeitimas
+1 straipsnis. 39 straipsnio pakeitimas
 Pakeisti
 39 straipsnį ir jį išdėstyti taip:
 „39
@@ -200,10 +196,10 @@ LYGIŲ GALIMYBIŲ ĮSTATYMO
 PAPILDYMAS
  
 (Žin., 1998, Nr.
-112-3100; 2001, Nr. 39-1343)
+112-3100; 2001,
+Nr. 39-1343)
  
-1
-straipsnis. 26 straipsnio papildymas
+1 straipsnis. 26 straipsnio papildymas
 1.
 26 straipsnio pavadinime po žodžio „atlyginimas“ įrašyti žodžius „ir socialinės
 garantijos“ ir straipsnio pavadinimą išdėstyti taip:
@@ -216,16 +212,19 @@ Moterų ir vyrų lygių galimybių kontrolierius valstybiniu socialiniu draudimu
 draudžiamas Valstybinio socialinio draudimo įstatymo nustatyta tvarka.“
  
  
-DEVINTASIS SKIRSNIS
+DEVINTASIS
+SKIRSNIS
 VAIKO TEISIŲ
 APSAUGOS KONTROLIERIAUS ĮSTATYMO 
 10 STRAIPSNIO PAKEITIMAS
  
 (Žin.,
-2000, Nr. 50-1432, Nr. 111-3581; 2001, Nr. 39-1344)
+2000, Nr. 50-1432,
+Nr. 111-3581;
+2001, Nr. 39-1344)
  
-1 straipsnis. 10
-straipsnio pakeitimas
+1
+straipsnis. 10 straipsnio pakeitimas
 1.
 10 straipsnio pavadinime po žodžių „darbo apmokėjimas“ įrašyti žodžius
 „socialinės garantijos“ ir straipsnio pavadinimą išdėstyti taip:
@@ -266,11 +265,21 @@ IX-1521,
 KEITUSIŲ ĮSTATYMŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 Šis Įstatymas įsigalioja nuo 2003 m. gegužės 1 d.
  
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. X-480, 2005-12-23,
+Žin., 2005, Nr. 153-5646 (2005-12-31)
+SEIMO
+NARIŲ DARBO SĄLYGŲ ĮSTATYMO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+Šis Įstatymas įsigalioja nuo 2006-01-01.
+ 
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-05-05)
+Aušra Bodin (2006-01-03)
                  
-autrap@lrs.lt
+ausra.bodin@lrs.lt
