@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C"
 
 # Lietuvos Respublikos kelių transporto kodeksas
 
-Suvestinė redakcija nuo 2005-04-12 iki 2005-12-30
+Suvestinė redakcija nuo 2005-12-31 iki 2005-12-31
  
 Kodeksas paskelbtas: Žin. 1996, Nr. 119-2772, i. k. 0961010KODE00I-1628
  
@@ -450,7 +450,10 @@ Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA
 
 
 
-2. Valstybinės kelių transporto inspekcijos pareigūnai turi teisę sustabdyti krovinines ir keleivines kelių transporto priemones, jas pasverti, tikrinti jų matmenis, apipavidalinimą, techninę būklę, valstybinės techninės apžiūros atlikimo periodiškumą, ekipažo, taip pat keleiviams, bagažui ir kroviniams vežti privalomus dokumentus, tarp jų – keleivių ir bagažo bilietus, važtaraščius. Šie pareigūnai taip pat turi teisę tikrinti, ar laikomasi ekipažo darbo ir poilsio režimo.
+2. Valstybinės kelių transporto inspekcijos pareigūnai turi teisę sustabdyti krovinines ir keleivines kelių transporto priemones, jas pasverti, tikrinti jų matmenis, apipavidalinimą, techninę būklę, valstybinės techninės apžiūros atlikimo periodiškumą, ekipažo, taip pat keleiviams, bagažui ir kroviniams vežti privalomus dokumentus, tarp jų – keleivių ir bagažo bilietus, važtaraščius. Šie pareigūnai taip pat turi teisę tikrinti, ar laikomasi ekipažo darbo ir poilsio režimo. Kontrolės teisę turintys pareigūnai, nustatę pažeidimus, turi teisę uždrausti transporto priemonei toliau važiuoti ir laikinai paimti transporto priemonės registracijos liudijimą arba transporto priemonės naudotojo pažymėjimą, kol bus pašalinti pažeidimai, taip pat keleivių sutikimu gauti iš jų paaiškinimus raštu ir (ar) žodžiu. 
+Straipsnio dalies pakeitimai:
+Nr. X-476, 2005-12-23, Žin., 2005, Nr. 153-5643 (2005-12-31), i. k. 1051010ISTA000X-476
+ 
 
 
 
@@ -460,7 +463,10 @@ Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA
 
 
 
-4. Savivaldybių institucijų arba jų įgaliotų įstaigų kelių transporto veiklos kontrolės tarnybų pareigūnai turi teisę savo bei gretimų savivaldybių teritorijose sustabdyti ir tikrinti lengvuosius automobilius taksi ir keleivines kelių transporto priemones, dirbančias vietinio ir tolimojo susisiekimo maršrutais, bei šių priemonių ekipažų, taip pat keleiviams ir bagažui vežti privalomus dokumentus, tarp jų – keleivių ir bagažo bilietus bei ekipažų darbo ir poilsio režimo laikymąsi.
+4. Savivaldybių institucijų arba jų įgaliotų įstaigų kelių transporto veiklos kontrolės tarnybų pareigūnai turi teisę savo bei gretimų savivaldybių teritorijose sustabdyti ir tikrinti lengvuosius automobilius taksi ir keleivines kelių transporto priemones, dirbančias vietinio ir tolimojo susisiekimo maršrutais, bei šių priemonių ekipažų, taip pat keleiviams ir bagažui vežti privalomus dokumentus, tarp jų – keleivių ir bagažo bilietus bei ekipažų darbo ir poilsio režimo laikymąsi. Kontrolės teisę turintys pareigūnai, nustatę pažeidimus, turi teisę uždrausti transporto priemonei toliau važiuoti ir laikinai paimti transporto priemonės registracijos liudijimą arba transporto priemonės naudotojo pažymėjimą, kol bus pašalinti pažeidimai, taip pat keleivių sutikimu gauti iš jų paaiškinimus raštu ir (ar) žodžiu. 
+Straipsnio dalies pakeitimai:
+Nr. X-476, 2005-12-23, Žin., 2005, Nr. 153-5643 (2005-12-31), i. k. 1051010ISTA000X-476
+ 
 
 
 
@@ -648,7 +654,10 @@ Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA
 
 
 
-4. Užsakomieji reisai – reisai, kai iš anksto sudarytos keleivių grupės yra nuvežamos į tam tikrą vietą ir parvežamos į išvykimo vietą arba anksčiau nuvežta keleivių grupė grąžinama atgal į išvykimo vietą vėlesniu reisu, arba keleivių grupė nuvežama, o transporto priemonė grįžta tuščia. Iš anksto sudarytos keleivių grupės vežamos turint keleivių vežimo sutartis ir keleivių vežimo lapus. Keleivių vežimo lapai nebūtini, jei keleivių grupės vežiojamos tame pačiame mieste, kuriame vyksta šio kodekso 2 straipsnio 8 dalyje paminėti renginiai. Keleivių vežimo lapų formą, jų apskaitos, užsakymo, gamybos, technologinės apsaugos, platinimo, įsigijimo, naudojimo ir sunaikinimo tvarką nustato Susisiekimo ministerija. 
+4. Užsakomieji reisai – reisai, kai iš anksto sudarytos bendrą kelionės tikslą turinčios keleivių grupės yra nuvežamos į tam tikrą vietą ir parvežamos į išvykimo vietą arba anksčiau nuvežta keleivių grupė grąžinama atgal į išvykimo vietą vėlesniu reisu, arba keleivių grupė nuvežama, o transporto priemonė grįžta tuščia. Iš anksto sudarytos keleivių grupės vežamos turint keleivių vežimo sutartis ir keleivių vežimo lapus. Keleivių vežimo lapai nebūtini, jei keleivių grupės vežiojamos tame pačiame mieste, kuriame vyksta šio kodekso 2 straipsnio 8 dalyje paminėti renginiai. Keleivių vežimo lapų formą, jų apskaitos, užsakymo, gamybos, technologinės apsaugos, platinimo, įsigijimo, naudojimo ir sunaikinimo tvarką nustato Susisiekimo ministerija. Draudžiama rinkti ir vežti keleivių grupes iš gatvių ir aikštelių teritorijų, kurios ribojasi su autobusų stotimis. Šių gatvių ir aikštelių teritorijų ribas nustato savivaldybių institucijos. 
+Straipsnio dalies pakeitimai:
+Nr. X-476, 2005-12-23, Žin., 2005, Nr. 153-5643 (2005-12-31), i. k. 1051010ISTA000X-476
+ 
 
 
 
@@ -1784,3 +1793,8 @@ Lietuvos Respublikos kelių transporto kodekso 15 straipsnio pakeitimo įstatyma
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-151, 2005-03-31, Žin., 2005, Nr. 47-1559 (2005-04-12), i. k. 1051010ISTA000X-151
 Lietuvos Respublikos kelių transporto kodekso 29 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-476, 2005-12-23, Žin., 2005, Nr. 153-5643 (2005-12-31), i. k. 1051010ISTA000X-476
+Lietuvos Respublikos kelių transporto kodekso 14, 16 ir 18 straipsnių pakeitimo įstatymas
