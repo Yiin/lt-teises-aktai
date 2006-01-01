@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.92E111F705DD"
 
 # Lietuvos Respublikos jaunimo politikos pagrindų įstatymas
 
+Suvestinė redakcija nuo 2006-01-01 iki 2016-11-17
+ 
+Įstatymas paskelbtas: Žin. 2003, Nr. 119-5406, i. k. 1031010ISTA0IX-1871
+ 
 LIETUVOS RESPUBLIKOS JAUNIMO POLITIKOS PAGRINDŲ ĮSTATYMAS
  
 2003 m. gruodžio 4 d. Nr. IX-1871
@@ -49,7 +53,20 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Jaunimo organizacija – įstatymų ir kitų teisės aktų nustatyta tvarka įregistruota visuomeninė organizacija ar asociacija, kurioje ne mažiau kaip 2/3 narių sudaro jauni žmonės ar visuomeninės jaunimo organizacijos ar asociacijos.
+3. Jaunimo organizacija – įstatymų ir kitų teisės aktų nustatyta tvarka įregistruota asociacija:
+
+
+1) kurioje ne mažiau kaip 2/3 narių yra jauni žmonės ir (ar)
+
+
+
+
+2) į kurią įeina ne mažiau kaip 2/3 asociacijų, kurių kiekvienos ne mažiau kaip 2/3 narių yra jauni žmonės. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. X-413, 2005-11-22, Žin., 2005, Nr. 144-5238 (2005-12-10), i. k. 1051010ISTA000X-413
+ 
 
 
 
@@ -64,7 +81,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-6. Nacionalinė jaunimo organizacijų taryba – jaunimo organizacija, kurios pagrindinis tikslas – vienyti Lietuvos jaunimo organizacijas ir joms atstovauti.
+6. Lietuvos jaunimo organizacijų taryba – jaunimo organizacija, kurios pagrindinis tikslas – vienyti Lietuvos jaunimo organizacijas ir joms atstovauti.
+Straipsnio dalies pakeitimai:
+Nr. X-413, 2005-11-22, Žin., 2005, Nr. 144-5238 (2005-12-10), i. k. 1051010ISTA000X-413
+ 
 
 
 
@@ -184,7 +204,10 @@ Jaunimo politika įgyvendinama Lietuvos Respublikos tarptautinėse sutartyse, į
 
 
 
-9) narkomanijos ir kitų priklausomybės formų;
+9) narkomanijos ir kitų priklausomybės formų prevencijos;
+Straipsnio punkto pakeitimai:
+Nr. X-413, 2005-11-22, Žin., 2005, Nr. 144-5238 (2005-12-10), i. k. 1051010ISTA000X-413
+ 
 
 
 
@@ -207,7 +230,7 @@ Jaunimo politika įgyvendinama Lietuvos Respublikos tarptautinėse sutartyse, į
 5 straipsnis. Bendrosios jaunimo teisių nuostatos
 
 
-Lietuvos Respublikos Konstitucijoje, Lietuvos Respublikos tarptautinėse sutartyse, įstatymuose ir kituose teisės aktuose nustatytomis sąlygomis jauno žmogaus tėvai ar kiti jo atstovai pagal įstatymą, valstybės ir savivaldybių institucijos ir įstaigos, visuomeninės organizacijos, kiti fiziniai ir juridiniai asmenys turi laikytis šių nuostatų: 
+Lietuvos Respublikos Konstitucijoje, Lietuvos Respublikos tarptautinėse sutartyse, įstatymuose ir kituose teisės aktuose nustatytomis sąlygomis jauno žmogaus tėvai ar kiti jo atstovai pagal įstatymą, valstybės ir savivaldybių institucijos ir įstaigos, asociacijos, kiti fiziniai ir juridiniai asmenys turi laikytis šių nuostatų:
 
 
 1) sudaryti sąlygas jaunam žmogui naudotis visomis Lietuvos Respublikos Konstitucijoje, Lietuvos Respublikos tarptautinėse sutartyse, įstatymuose ir kituose teisės aktuose nustatytomis jaunimo teisėmis bei laisvėmis;
@@ -225,12 +248,14 @@ Lietuvos Respublikos Konstitucijoje, Lietuvos Respublikos tarptautinėse sutarty
 
 
 
-4) sudaryti sąlygas kiekvienam jaunam žmogui visapusiškai ugdytis ir realizuoti save, taip pat pasirinkti jam priimtiniausią dalyvavimo visuomenėje formą. 
+4) sudaryti sąlygas kiekvienam jaunam žmogui visapusiškai ugdytis ir realizuoti save, taip pat pasirinkti priimtiniausią dalyvavimo visuomenėje formą.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. X-413, 2005-11-22, Žin., 2005, Nr. 144-5238 (2005-12-10), i. k. 1051010ISTA000X-413
  
-
-
-
-
 
 
 
@@ -242,69 +267,51 @@ JAUNIMO POLITIKOS ORGANIZAVIMAS IR VALDYMAS
  
 
 
-6 straipsnis. Jaunimo politiką įgyvendinančios valstybės ir savivaldybės institucijos ir įstaigos 
+6 straipsnis. Jaunimo politiką įgyvendinančios institucijos ir įstaigos
 
 
-Jaunimo politiką įgyvendina šios valstybės ir savivaldybės institucijos ir įstaigos: 
+Jaunimo politiką pagal kompetenciją įgyvendina Vyriausybė, ministerijos, Jaunimo reikalų departamentas prie Socialinės apsaugos ir darbo ministerijos (toliau – Jaunimo reikalų departamentas), kitos valstybės ir savivaldybių institucijos ir įstaigos.
 
 
-1) Vyriausybė, ministerijos, Vyriausybės įstaigos ir institucijos;
-
-
-
-
-2) Valstybinė jaunimo reikalų taryba prie Lietuvos Respublikos Vyriausybės;
-
-
-
-
-3) savivaldybių institucijos. 
+Straipsnio pakeitimai:
+Nr. X-413, 2005-11-22, Žin., 2005, Nr. 144-5238 (2005-12-10), i. k. 1051010ISTA000X-413
  
 
 
 
 
+7 straipsnis. Jaunimo reikalų departamentas
+
+
+1. Jaunimo reikalų departamentas rengia ir įgyvendina valstybės jaunimo politikos programas ir priemones, analizuoja jaunimo ir jaunimo organizacijų būklę Lietuvoje, koordinuoja valstybės ir savivaldybių institucijų bei įstaigų veiklą jaunimo politikos srityje, vykdo kitą veiklą, susijusią su jaunimu ir jaunimo organizacijomis. 
 
 
 
 
-7 straipsnis. Valstybinė jaunimo reikalų taryba prie Lietuvos Respublikos Vyriausybės
+2. Jaunimo reikalų departamentas yra viešasis juridinis asmuo, turintis sąskaitą banke ir antspaudą su Lietuvos valstybės herbu ir savo pavadinimu.
 
 
-1. Valstybinė jaunimo reikalų taryba prie Lietuvos Respublikos Vyriausybės yra Vyriausybei atskaitinga institucija, atliekanti įstatymų ir kitų teisės aktų jai pavestas funkcijas.
-
-
-
-
-2. Valstybinė jaunimo reikalų taryba savo veikoje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, įstatymais, Valstybinės jaunimo reikalų tarybos nuostatais ir kitais teisės aktais.
-
-
-
-
-3. Valstybinė jaunimo reikalų taryba sudaroma pariteto principu iš valstybės institucijų atstovų ir jaunimo organizacijų atstovų. Jaunimo organizacijų atstovus į Valstybinę jaunimo reikalų tarybą deleguoja Nacionalinė jaunimo organizacijų taryba. 
-
-
-
-
-4. Valstybinės jaunimo reikalų tarybos nuostatus ir sudėtį tvirtina Vyriausybė. 
-
-
-
-
-5. Valstybinė jaunimo reikalų taryba yra juridinis asmuo. Ji turi sąskaitą banke ir antspaudą su valstybės herbu bei savo pavadinimu.
-
-
-
-
-6. Už savo veiklą Valstybinė jaunimo reikalų taryba atsiskaito Vyriausybei Valstybinės jaunimo reikalų tarybos nuostatuose nustatyta tvarka.
-
-
-
-
-7. Valstybinės jaunimo reikalų tarybos sprendimus vykdo sekretoriatas. Sekretoriatą sudaro valstybės tarnautojai ir dirbantys pagal darbo sutartis darbuotojai. 
+Straipsnio pakeitimai:
+Nr. X-413, 2005-11-22, Žin., 2005, Nr. 144-5238 (2005-12-10), i. k. 1051010ISTA000X-413
  
 
 
+
+
+7(1) straipsnis. Jaunimo reikalų taryba
+
+
+1. Prie Jaunimo reikalų departamento iš valstybės institucijų, įstaigų ir Lietuvos jaunimo organizacijų tarybos deleguotų atstovų lygiateisės partnerystės pagrindu sudaroma visuomeniniais pagrindais veikianti Jaunimo reikalų taryba. Jaunimo reikalų tarybos sudėtį ir jos nuostatus socialinės apsaugos ir darbo ministro teikimu tvirtina Vyriausybė. 
+
+
+
+
+2. Jaunimo reikalų taryba nagrinėja svarbiausius jaunimo politikos klausimus ir teikia pasiūlymus Jaunimo reikalų departamentui dėl jaunimo ir jaunimo organizacijų reikmes atitinkančios jaunimo politikos įgyvendinimo.
+
+
+Papildyta straipsniu:
+Nr. X-413, 2005-11-22, Žin., 2005, Nr. 144-5238 (2005-12-10), i. k. 1051010ISTA000X-413
+ 
 
 
 
@@ -383,15 +390,15 @@ Jaunimo organizacijos atlieka šias funkcijas:
 
 
 
-10 straipsnis. Nacionalinė ir regioninės jaunimo organizacijų tarybos
+10 straipsnis. Lietuvos ir regioninės jaunimo organizacijų tarybos
 
 
-1. Nacionalinė ir regioninės jaunimo organizacijų tarybos koordinuoja jaunimo organizacijų vienijimąsi bendradarbiavimo, keitimosi informacija, organizacijų galimybių stiprinimo, pozityvaus požiūrio į visuomeninę veiklą formavimo srityse. 
+1. Lietuvos ir regioninės jaunimo organizacijų tarybos koordinuoja jaunimo organizacijų vienijimąsi bendradarbiavimo, keitimosi informacija, organizacijų galimybių stiprinimo, pozityvaus požiūrio į visuomeninę veiklą formavimo srityse. 
 
 
 
 
-2. Nacionalinės ir regioninių jaunimo organizacijų tarybų veiklos tikslai:
+2. Lietuvos ir regioninių jaunimo organizacijų tarybų veiklos tikslai:
 
 
 1) skatinti pozityvias jaunimo iniciatyvas;
@@ -414,12 +421,19 @@ Jaunimo organizacijos atlieka šias funkcijas:
 
 
 
-5) atstovauti jaunimo interesams valstybės ir savivaldybių institucijose ir įstaigose, santykiuose su kitais fiziniais ir juridiniais asmenimis.
+5) atstovauti jaunimo interesams valstybės ir savivaldybių institucijose ir įstaigose, santykiuose su kitais fiziniais ir juridiniais asmenimis;
+
+
+
+
+6) skatinti jaunimo organizacijų plėtrą regionuose.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. X-413, 2005-11-22, Žin., 2005, Nr. 144-5238 (2005-12-10), i. k. 1051010ISTA000X-413
  
-
-
-
-
 
 
 
@@ -473,10 +487,12 @@ BAIGIAMOSIOS NUOSTATOS
 13 straipsnis. Įstatymo vykdymo kontrolė ir priežiūra
 
 
-Šio Įstatymo kontrolę ir priežiūrą atlieka Vyriausybės įgaliota institucija.
+Šio Įstatymo vykdymo kontrolę ir priežiūrą atlieka Socialinės apsaugos ir darbo ministerija.
+
+
+Straipsnio pakeitimai:
+Nr. X-413, 2005-11-22, Žin., 2005, Nr. 144-5238 (2005-12-10), i. k. 1051010ISTA000X-413
  
-
-
 
 
 
@@ -521,3 +537,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                 ROLANDAS PAKSAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-413, 2005-11-22, Žin., 2005, Nr. 144-5238 (2005-12-10), i. k. 1051010ISTA000X-413
+Lietuvos Respublikos jaunimo politikos pagrindų įstatymo 2, 4, 5, 6, 7, 10, 13 straipsnių pakeitimo ir įstatymo papildymo 7(1) straipsniu įstatymas
