@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5B99A78DA6C7"
 
 # Lietuvos Respublikos maisto įstatymas
 
-Suvestinė redakcija nuo 2004-06-12 iki 2005-12-31
+Suvestinė redakcija nuo 2006-01-01 iki 2013-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 32-893, i. k. 1001010ISTAIII-1608
  
@@ -339,9 +339,11 @@ Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA
 
 
 
-4) tvarkyti maistą galima tik Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka patvirtintose įmonėse, turinčiose nustatyta tvarka išduotus leidimus – higienos pasus verstis ūkine komercine veikla.
+4) tvarkyti maistą galima tik Valstybinės maisto ir veterinarijos tarnybos nustatyta ir su Sveikatos apsaugos ministerija suderinta tvarka patvirtintose maisto tvarkymo vietose, turinčiose nustatyta tvarka išduotus maisto tvarkymo subjekto patvirtinimo pažymėjimus.
 Papildyta straipsnio punktu:
 Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. 1021010ISTA00IX-937
+Straipsnio punkto pakeitimai:
+Nr. X-405, 2005-11-17, Žin., 2005, Nr. 142-5107 (2005-12-03), i. k. 1051010ISTA000X-405
  
 
 
@@ -808,3 +810,8 @@ Lietuvos Respublikos maisto įstatymo 2, 3, 5, 9, 10, 11 ir 12 straipsnių pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2256, 2004-06-01, Žin., 2004, Nr. 93-3397 (2004-06-12), i. k. 1041010ISTA0IX-2256
 Lietuvos Respublikos maisto įstatymo 1 ir 2 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-405, 2005-11-17, Žin., 2005, Nr. 142-5107 (2005-12-03), i. k. 1051010ISTA000X-405
+Lietuvos Respublikos maisto įstatymo 4 straipsnio pakeitimo įstatymas
