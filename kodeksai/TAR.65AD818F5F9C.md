@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C"
 
 # Lietuvos Respublikos kelių transporto kodeksas
 
-Suvestinė redakcija nuo 2005-12-31 iki 2005-12-31
+Suvestinė redakcija nuo 2006-01-01 iki 2009-12-27
  
 Kodeksas paskelbtas: Žin. 1996, Nr. 119-2772, i. k. 0961010KODE00I-1628
  
@@ -515,9 +515,10 @@ Nr. VIII-924, 1998-11-17, Žin., 1998, Nr. 105-2895 (1998-12-02), i. k. 0981010I
 
 
 
-2. Keleivių vežimo reguliariais reisais vietinio susisiekimo maršrutais tarifus nustato savivaldybių tarybos. 
+2. Keleivių vežimo reguliariais reisais vietinio susisiekimo maršrutais konkrečius tarifų dydžius nustato savivaldybių tarybos, atsižvelgdamos į kiekvieną konkretų maršrutą, keleivių srautus bei aptarnavimo intensyvumą. 
 Straipsnio dalies pakeitimai:
 Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
+Nr. X-476, 2005-12-23, Žin., 2005, Nr. 153-5643 (2005-12-31), i. k. 1051010ISTA000X-476
  
 
 
