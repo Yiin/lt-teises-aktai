@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F0E2E67B1F2F"
 
 # Lietuvos Respublikos turizmo įstatymas
 
-Suvestinė redakcija nuo 2004-10-26 iki 2005-12-31
+Suvestinė redakcija nuo 2006-01-01 iki 2011-08-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 32-852, i. k. 0981010ISTAVIII-667
  
@@ -92,45 +92,75 @@ Nr. IX-2476, 2004-10-12, Žin., 2004, Nr. 156-5689 (2004-10-26), i. k. 1041010IS
 
 
 
-9. Kurortas – įstatymo suteiktas statusas gyvenamajai vietovei, kurioje yra gamtinių gydomųjų veiksnių (mineralinių vandenų, gydomojo purvo, sveikatai palankus klimatas, rekreacinių želdinių, vandens telkinių) bei speciali infrastruktūra šiems veiksniams naudoti gydymui, profilaktikai ir poilsiui bei turizmui. 
-
-
-
-
-10. Organizuota turistinė kelionė – iš anksto už bendrą kainą parengtas arba siūlomas įsigyti turizmo paslaugų rinkinys, kurį sudaro ne mažiau kaip dvi turizmo paslaugos (apgyvendinimo, vežimo, kita esminę kelionės dalį sudaranti turizmo paslauga, nesusijusi su vežimu ar apgyvendinimu), ir jeigu ši turistinė kelionė tęsiasi ilgiau kaip 24 valandas arba į ją yra įtraukta nakvynė.
+9. Kurortas – įstatymo suteiktas statusas gyvenamajai vietovei, kurioje yra moksliškai ištirtų ir pripažintų gydomaisiais gamtinių gydomųjų veiksnių (mineralinių vandenų, gydomojo purvo, sveikatai palankus mikroklimatas, rekreacinių želdinių, vandens telkinių) bei išplėtota speciali infrastruktūra naudoti šiuos veiksnius gydymo, sveikatinimo, turizmo ir poilsio reikmėms.
 Straipsnio dalies pakeitimai:
-Nr. IX-2476, 2004-10-12, Žin., 2004, Nr. 156-5689 (2004-10-26), i. k. 1041010ISTA0IX-2476
+Nr. X-308, 2005-07-05, Žin., 2005, Nr. 88-3285 (2005-07-21), i. k. 1051010ISTA000X-308
  
 
 
 
 
-11. Rekreacinė teritorija – vietovė, turinti gamtines ar kultūrines aplinkos savybes ir sąlygas žmonių visaverčiam fiziniam bei dvasiniam poilsiui organizuoti.
+10. Kurortinė teritorija – Lietuvos Respublikos Vyriausybės suteiktas statusas gyvenamajai vietovei arba jos daliai (gyvenamosioms vietovėms arba jų dalims), kurioje yra gamtinių išteklių, galinčių turėti gydomųjų savybių, ir speciali infrastruktūra naudoti šiuos išteklius sveikatinimo, turizmo ir poilsio reikmėms. 
+Papildyta straipsnio dalimi:
+Nr. X-308, 2005-07-05, Žin., 2005, Nr. 88-3285 (2005-07-21), i. k. 1051010ISTA000X-308
+ 
 
 
 
 
-12. Rekreaciniai ištekliai – gamtinės ar kultūrinės aplinkos savybės, tinkamos žmonių visaverčiam fiziniam bei dvasiniam poilsiui organizuoti.
+11. Organizuota turistinė kelionė – iš anksto už bendrą kainą parengtas arba siūlomas įsigyti turizmo paslaugų rinkinys, kurį sudaro ne mažiau kaip dvi turizmo paslaugos (apgyvendinimo, vežimo, kita esminę kelionės dalį sudaranti turizmo paslauga, nesusijusi su vežimu ar apgyvendinimu), ir jeigu ši turistinė kelionė tęsiasi ilgiau kaip 24 valandas arba į ją yra įtraukta nakvynė.
+Straipsnio dalies pakeitimai:
+Nr. IX-2476, 2004-10-12, Žin., 2004, Nr. 156-5689 (2004-10-26), i. k. 1041010ISTA0IX-2476
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-308, 2005-07-05, Žin., 2005, Nr. 88-3285 (2005-07-21), i. k. 1051010ISTA000X-308
+ 
 
 
 
 
-13. Turistas – fizinis asmuo, kuris pažintiniais, profesiniais-dalykiniais, etniniais, kultūriniais, rekreaciniais, sveikatingumo, religiniais ar specialiais tikslais keliauja po šalį ar į kitas šalis ir apsistoja bent vienai nakvynei, tačiau ne ilgiau kaip vienerius metus už savo nuolatinės gyvenamosios vietos ribų, jei ši veikla nėra mokymasis ar apmokamas darbas lankomoje vietovėje.
+12. Rekreacinė teritorija – vietovė, turinti gamtines ar kultūrines aplinkos savybes ir sąlygas žmonių visaverčiam fiziniam bei dvasiniam poilsiui organizuoti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-308, 2005-07-05, Žin., 2005, Nr. 88-3285 (2005-07-21), i. k. 1051010ISTA000X-308
+ 
 
 
 
 
-14. Turizmo ištekliai – turistinį interesą turintys objektai ar vietovės.
+13. Rekreaciniai ištekliai – gamtinės ar kultūrinės aplinkos savybės, tinkamos žmonių visaverčiam fiziniam bei dvasiniam poilsiui organizuoti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-308, 2005-07-05, Žin., 2005, Nr. 88-3285 (2005-07-21), i. k. 1051010ISTA000X-308
+ 
 
 
 
 
-15. Turizmo paslauga – fizinių ir juridinių asmenų veikla, kuria tenkinami turistų kelionės organizavimo, apgyvendinimo, maitinimo, vežimo, informacijos, pramogų ir kiti poreikiai.
+14. Turistas – fizinis asmuo, kuris pažintiniais, profesiniais-dalykiniais, etniniais, kultūriniais, rekreaciniais, sveikatingumo, religiniais ar specialiais tikslais keliauja po šalį ar į kitas šalis ir apsistoja bent vienai nakvynei, tačiau ne ilgiau kaip vienerius metus už savo nuolatinės gyvenamosios vietos ribų, jei ši veikla nėra mokymasis ar apmokamas darbas lankomoje vietovėje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-308, 2005-07-05, Žin., 2005, Nr. 88-3285 (2005-07-21), i. k. 1051010ISTA000X-308
+ 
 
 
 
 
-16. Turizmo paslaugų teikimo sutartis – raštu sudarytas susitarimas, kuriuo viena šalis – turistinės kelionės organizatorius – įsipareigoja už atlyginimą kitai šaliai – turistui – užtikrinti organizuotą turistinę kelionę, o turistas įsipareigoja sumokėti už suteiktas paslaugas.
+15. Turizmo ištekliai – turistinį interesą turintys objektai ar vietovės.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-308, 2005-07-05, Žin., 2005, Nr. 88-3285 (2005-07-21), i. k. 1051010ISTA000X-308
+ 
+
+
+
+
+16. Turizmo paslauga – fizinių ir juridinių asmenų veikla, kuria tenkinami turistų kelionės organizavimo, apgyvendinimo, maitinimo, vežimo, informacijos, pramogų ir kiti poreikiai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-308, 2005-07-05, Žin., 2005, Nr. 88-3285 (2005-07-21), i. k. 1051010ISTA000X-308
+ 
+
+
+
+
+17. Turizmo paslaugų teikimo sutartis – raštu sudarytas susitarimas, kuriuo viena šalis – turistinės kelionės organizatorius – įsipareigoja už atlyginimą kitai šaliai – turistui – užtikrinti organizuotą turistinę kelionę, o turistas įsipareigoja sumokėti už suteiktas paslaugas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-308, 2005-07-05, Žin., 2005, Nr. 88-3285 (2005-07-21), i. k. 1051010ISTA000X-308
  
 
 
@@ -1034,17 +1064,26 @@ Valstybinis turizmo departamentas:
 
 
 
-4) pagal savo kompetenciją turizmo ir rekreacijos srityje derina teritorinių turizmo plėtros programų, kurortų plėtros programų, turizmo ir rekreacijos plėtros schemų bei specialiojo teritorijų planavimo dokumentų projektus;
+4) pagal savo kompetenciją turizmo ir rekreacijos srityje derina teritorinių turizmo plėtros programų, kurortų ir kurortinių teritorijų plėtros programų, turizmo ir rekreacijos plėtros schemų bei specialiojo teritorijų planavimo dokumentų projektus;
+Straipsnio punkto pakeitimai:
+Nr. X-308, 2005-07-05, Žin., 2005, Nr. 88-3285 (2005-07-21), i. k. 1051010ISTA000X-308
+ 
 
 
 
 
-5) atlieka turizmo rinkų ir Lietuvos turizmo paslaugų tyrimus, rengia Lietuvos turizmo rinkodaros planus ir koordinuoja jų įgyvendinimą, rengia bei platina informaciją apie Lietuvą ir jos turizmo bei kurortų galimybes užsienio bei vidaus turizmo rinkose;
+5) atlieka turizmo rinkų ir Lietuvos turizmo paslaugų tyrimus, rengia Lietuvos turizmo rinkodaros planus ir koordinuoja jų įgyvendinimą, rengia bei platina informaciją apie Lietuvą ir jos turizmo bei kurortų ir kurortinių teritorijų galimybes užsienio bei vidaus turizmo rinkose;
+Straipsnio punkto pakeitimai:
+Nr. X-308, 2005-07-05, Žin., 2005, Nr. 88-3285 (2005-07-21), i. k. 1051010ISTA000X-308
+ 
 
 
 
 
-6) pagal savo kompetenciją koordinuoja valstybės turizmo politikos įgyvendinimą turizmo ir kurortų veiklos planavimo, turizmo išteklių naudojimo ir informacijos srityje bei įgyvendinant Nacionalinę turizmo plėtros programą;
+6) pagal savo kompetenciją koordinuoja valstybės turizmo politikos įgyvendinimą turizmo, kurortų ir kurortinių teritorijų veiklos planavimo, turizmo išteklių naudojimo ir informacijos srityje bei įgyvendinant Nacionalinę turizmo plėtros programą;
+Straipsnio punkto pakeitimai:
+Nr. X-308, 2005-07-05, Žin., 2005, Nr. 88-3285 (2005-07-21), i. k. 1051010ISTA000X-308
+ 
 
 
 
@@ -1225,7 +1264,10 @@ TURIZMO IŠTEKLIAI IR INFORMACIJOS SISTEMA
 
 
 
-3) turizmo paslaugų ir poilsio infrastruktūros pastatai bei objektai, esantys kurortuose, rekreacinėse ir saugomose teritorijose, taip pat turistinės trasos, apžvalgos aikštelės, kitos rekreacijai skirtos teritorijos.
+3) turizmo paslaugų ir poilsio infrastruktūros pastatai bei objektai, esantys kurortuose ir kurortinėse teritorijose, rekreacinėse ir saugomose teritorijose, taip pat turistinės trasos, apžvalgos aikštelės, kitos rekreacijai skirtos teritorijos.
+Straipsnio punkto pakeitimai:
+Nr. X-308, 2005-07-05, Žin., 2005, Nr. 88-3285 (2005-07-21), i. k. 1051010ISTA000X-308
+ 
 
 
 
@@ -1334,3 +1376,8 @@ Lietuvos Respublikos turizmo įstatymo 14 ir 15 straipsnių pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2476, 2004-10-12, Žin., 2004, Nr. 156-5689 (2004-10-26), i. k. 1041010ISTA0IX-2476
 Lietuvos Respublikos turizmo įstatymo 2 ir 6 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-308, 2005-07-05, Žin., 2005, Nr. 88-3285 (2005-07-21), i. k. 1051010ISTA000X-308
+Lietuvos Respublikos turizmo įstatymo 2, 19, 23 straipsnių pakeitimo ir papildymo įstatymas
