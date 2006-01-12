@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 2004-05-01 iki 2006-01-11
+Suvestinė redakcija nuo 2006-01-12 iki 2010-11-22
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
  
@@ -121,9 +121,10 @@ Nr. IX-854, 2002-04-18, Žin., 2002, Nr. 45-1707 (2002-05-04), i. k. 1021010ISTA
 5 straipsnis. Labdaros ir paramos teikėjai
 
 
-1. Labdara pagal šį įstatymą pripažįstama, kai ją teikia tik Lietuvos Respublikoje registruoti labdaros ir paramos fondai, asociacijos, viešosios įstaigos, visuomeninės organizacijos, religinės bendruomenės, bendrijos ir centrai, tarptautinių visuomeninių organizacijų skyriai (padaliniai), jeigu labdaros teikimas numatytas jų įstatuose arba religinių bendruomenių, bendrijų ir centrų kanonuose, statutuose ir kitose normose bei veiklą reglamentuojančiuose teisės aktuose ir jeigu jie pagal šio įstatymo nuostatas turi teisę gauti paramą. Asociacijų, visuomeninių organizacijų ar kitų narystės pagrindais veikiančių organizacijų savo nariams perduotos piniginės lėšos, turtas (įskaitant pagamintas ar įsigytas prekes) bei suteiktos paslaugos pagal šį įstatymą nepripažįstamos labdara.
+1. Labdara pagal šį įstatymą pripažįstama, kai ją teikia tik Lietuvos Respublikoje registruoti labdaros ir paramos fondai, asociacijos, viešosios įstaigos, religinės bendruomenės, bendrijos ir centrai, tarptautinių visuomeninių organizacijų skyriai (padaliniai), jeigu labdaros teikimas numatytas jų įstatuose arba religinių bendruomenių, bendrijų ir centrų kanonuose, statutuose ir kitose normose bei veiklą reglamentuojančiuose teisės aktuose ir jeigu jie pagal šio įstatymo nuostatas turi teisę gauti paramą. Asociacijų, ar kitų narystės pagrindais veikiančių organizacijų savo nariams perduotos piniginės lėšos, turtas (įskaitant pagamintas ar įsigytas prekes) bei suteiktos paslaugos pagal šį įstatymą nepripažįstamos labdara.
 Straipsnio dalies pakeitimai:
 Nr. IX-854, 2002-04-18, Žin., 2002, Nr. 45-1707 (2002-05-04), i. k. 1021010ISTA00IX-854
+Nr. X-461, 2005-12-20, Žin., 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
  
 
 
@@ -227,7 +228,10 @@ Nr. IX-1519, 2003-04-22, Žin., 2003, Nr. 40-1812 (2003-04-30), i. k. 1031010IST
 
 
 
-4) visuomeninės organizacijos;
+4) Neteko galios nuo 2006-01-12
+Straipsnio punkto naikinimas:
+Nr. X-461, 2005-12-20, Žin. 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
+ 
 
 
 
@@ -247,7 +251,10 @@ Nr. IX-1519, 2003-04-22, Žin., 2003, Nr. 40-1812 (2003-04-30), i. k. 1031010IST
 
 
 
-8) kiti juridiniai asmenys, kurių veiklą reglamentuoja specialūs įstatymai ir kurių veiklos tikslas nėra pelno siekimas, o gautas pelnas negali būti skiriamas jų steigėjams ir (arba) dalininkams, ir (arba) nariams.
+8) kiti juridiniai asmenys, kurių veiklą reglamentuoja specialūs įstatymai ir kurių veiklos tikslas nėra pelno siekimas, o gautas pelnas negali būti skiriamas jų dalyviams.
+Straipsnio punkto pakeitimai:
+Nr. X-461, 2005-12-20, Žin., 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
+ 
 
 
 
@@ -325,15 +332,25 @@ Nr. IX-854, 2002-04-18, Žin., 2002, Nr. 45-1707 (2002-05-04), i. k. 1021010ISTA
 2. Pagal šį įstatymą kaip parama gautos lėšos ir kitas turtas negali būti:
 
 
-1) naudojami politinių partijų ir politinių organizacijų veiklai ar politinėms kampanijoms remti;
+1) naudojami politinėms partijoms ar politinėms kampanijoms finansuoti bei politinių kampanijų dalyvių politinių kampanijų laikotarpiu atsiradusiems ar su politinėmis kampanijomis susijusiems skolos įsipareigojimams padengti;
 
 
 
 
-2) perduodami kaip įnašas įmonei, įstaigai ar organizacijai, kurios steigėjas, akcininkas, dalininkas ar narys yra paramos gavėjas.
+2) perduodami kaip įnašas juridiniam asmeniui, kurio dalyvis yra paramos gavėjas.
+
+
+
+
+3. Lėšų perdavimas labdaros ir paramos fondui neliečiamajam kapitalui formuoti, neliečiamojo kapitalo valdymas ir iš neliečiamojo kapitalo investavimo gautų pajamų panaudojimas Labdaros ir paramos fondų įstatymo nustatyta tvarka labdaros ir paramos fondo įstatuose numatytiems šio įstatymo 3 straipsnio 3 dalyje nurodytiems visuomenei naudingiems tikslams laikomas paramos panaudojimu pagal šiame įstatyme nustatytą paramos paskirtį.
+Papildyta straipsnio dalimi:
+Nr. X-461, 2005-12-20, Žin., 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
  
 
 
+Straipsnio dalies pakeitimai:
+Nr. X-461, 2005-12-20, Žin., 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
+ 
 
 
 
@@ -356,12 +373,18 @@ Nr. IX-2190, 2004-04-27, Žin., 2004, Nr. 73-2524 (2004-04-30), i. k. 1041010IST
 12 straipsnis. Labdaros ir paramos apskaita
 
 
-1. Paramos teikėjai, išskyrus fizinius asmenis bei asmenis, nurodytus šio straipsnio 2 dalyje, privalo tvarkyti pagal šį įstatymą teikiamos paramos apskaitą: joje nurodyti duomenis apie konkrečius paramos gavėjus, paramos dalyką ir jo vertę. Paramos teikėjai Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais privalo pateikti Valstybinei mokesčių inspekcijai metinę ataskaitą apie suteiktą paramą.
+1. Paramos teikėjai, išskyrus fizinius asmenis bei asmenis, nurodytus šio straipsnio 2 dalyje, privalo tvarkyti pagal šį įstatymą teikiamos paramos apskaitą: joje nurodyti duomenis apie konkrečius paramos gavėjus, paramos dalyką ir jo vertę. Paramos teikėjai Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais privalo pateikti Valstybinei mokesčių inspekcijai mėnesio ir metinę ataskaitas apie suteiktą paramą. Mėnesio ataskaita teikiama tais atvejais, kai nuo kalendorinių metų pradžios vienam paramos gavėjui suteiktos paramos suma viršija 50 000 Lt. 
+Straipsnio dalies pakeitimai:
+Nr. X-461, 2005-12-20, Žin., 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
+ 
 
 
 
 
-2. Juridiniai asmenys, kurie pagal šio įstatymo nuostatas turi teisę gauti paramą, privalo atskirai tvarkyti pagal šį įstatymą gaunamos paramos apskaitą (joje nurodyti gautos paramos teikėjus, kai parama nebuvo gauta anonimiškai, bei vertę ir jos panaudojimą, t. y. įvardyti konkrečius gavėjus, jeigu kaip parama gautos lėšos ar turtas perduoti kitam asmeniui) bei pačių teikiamos paramos ir (arba) labdaros apskaitą (joje nurodyti duomenis apie konkrečius paramos ir (arba) labdaros gavėjus, paramos ir (arba) labdaros dalyką ir jo vertę) ir Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais privalo pateikti Valstybinei mokesčių inspekcijai metinę ataskaitą apie gautą paramą ir jos panaudojimą, apie pačių suteiktą paramą ir (arba) labdarą, taip pat apie savo veiklą, susijusią su šio įstatymo 3 straipsnio 3 dalyje nurodytų visuomenei naudingų tikslų įgyvendinimu. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija taip pat nustato anonimiškai gautos paramos apskaitos tvarką.
+2. Juridiniai asmenys, kurie pagal šio įstatymo nuostatas turi teisę gauti paramą, privalo atskirai tvarkyti pagal šį įstatymą gaunamos paramos apskaitą (joje nurodyti gautos paramos teikėjus, jei parama nebuvo gauta anonimiškai, taip pat paramos vertę ir kaip ši parama buvo panaudota, t. y. įvardyti konkrečius gavėjus, jeigu lėšos ar turtas, gauti kaip parama, perduoti kitam asmeniui) bei pačių teikiamos paramos ir (arba) labdaros apskaitą (joje nurodyti duomenis apie konkrečius paramos ir (arba) labdaros gavėjus, paramos ir (arba) labdaros dalyką ir jo vertę) ir Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais privalo pateikti Valstybinei mokesčių inspekcijai mėnesio ir metinę ataskaitas apie gautą paramą ir jos panaudojimą, apie pačių suteiktą paramą ir (arba) labdarą, taip pat apie savo veiklą, susijusią su šio įstatymo 3 straipsnio 3 dalyje nurodytų visuomenei naudingų tikslų įgyvendinimu. Juridiniai asmenys mėnesio ataskaitą teikia tais atvejais, kai nuo kalendorinių metų pradžios iš vieno paramos teikėjo gautos paramos arba šių juridinių asmenų vienam paramos ir (arba) labdaros gavėjui suteiktos paramos ir (arba) labdaros suma viršija 50 000 Lt. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija taip pat nustato anonimiškai gautos paramos apskaitos tvarką.
+Straipsnio dalies pakeitimai:
+Nr. X-461, 2005-12-20, Žin., 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
+ 
 
 
 
@@ -432,7 +455,10 @@ Nr. IX-680, 2001-12-21, Žin., 2002, Nr. 2-50 (2002-01-09), i. k. 1011010ISTA00I
 
 
 
-2) paramos gavimas.
+2) Neteko galios nuo 2006-01-12
+Straipsnio punkto naikinimas:
+Nr. X-461, 2005-12-20, Žin. 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
+ 
 
 
 
@@ -444,36 +470,52 @@ Nr. IX-680, 2001-12-21, Žin., 2002, Nr. 2-50 (2002-01-09), i. k. 1011010ISTA00I
 
 
 
-3. Juridinių asmenų registro tvarkytojas paramos gavėjo statusą panaikina kontrolės institucijos teikimu arba paties paramos gavėjo prašymu. Į juridinių asmenų registro tvarkytoją dėl juridiniam asmeniui suteikto paramos gavėjo statuso panaikinimo kreipiasi institucija, pagal savo kompetenciją nustačiusi, kad tas asmuo:
+3. Juridinių asmenų registro tvarkytojas paramos gavėjo statusą panaikina kontrolės institucijos teikimu arba paties paramos gavėjo prašymu. Į juridinių asmenų registro tvarkytoją dėl juridiniam asmeniui suteikto paramos gavėjo statuso panaikinimo kreipiasi institucija, pagal savo kompetenciją nustačiusi, kad:
 
 
-1) padarė piktybinį mokesčių įstatymų pažeidimą, nurodytą Mokesčių administravimo įstatyme;
-
-
-
-
-2) padarė Pinigų plovimo prevencijos įstatymo pažeidimą; 
+1) asmeniui yra įsiteisėjęs teismo nuosprendis už Lietuvos Respublikos baudžiamajame kodekse numatytą nusikaltimą ar baudžiamąjį nusižengimą ekonomikai ir verslo tvarkai ar finansų sistemai;
 
 
 
 
-3) Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka neparengė šio įstatymo 12 straipsnio 2 dalyje nurodytos ataskaitos per 2 mėnesius po to, kai buvo apie šį pažeidimą įspėtas;
-Straipsnio punkto pakeitimai:
-Nr. IX-680, 2001-12-21, Žin., 2002, Nr. 2-50 (2002-01-09), i. k. 1011010ISTA00IX-680
+2) asmuo pažeidė Pinigų plovimo prevencijos įstatymą;
+
+
+
+
+3) asmuo Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka neparengė šio įstatymo 12 straipsnio 2 dalyje nurodytos ataskaitos per 2 mėnesius po to, kai buvo apie šį pažeidimą įspėtas;
+
+
+
+
+4) asmuo, pažeisdamas šio įstatymo reikalavimus, suteikė, gavo ar panaudojo didesnę kaip 250 minimalių gyvenimo lygių (toliau – MGL) dydžio per vienus kalendorinius metus arba didesnę kaip 500 MGL dydžio per trejus kalendorinius metus iš eilės labdaros ar paramos lėšų sumą;
+TAR pastaba. Šio punkto nuostatos taikomos pažeidimams, padarytiems po įstatymo X-461 įsigaliojimo 2006-01-12. 
  
 
 
 
 
-4) nuolat pažeidinėja labdaros ir paramos teikimo, gavimo bei panaudojimo reikalavimus ir dėl to kontrolės institucijos jau panaikino jiems mokesčių lengvatas.
+5) asmuo nesumokėjo mokestinės nepriemokos ir mokesčių administratorius Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka įgijo teisę priverstinai ją išieškoti. Ši nuostata netaikoma tais atvejais, kai Mokesčių administravimo įstatymo 110 straipsnio nustatyta tvarka mokestinės nepriemokos priverstinis išieškojimas yra sustabdytas arba nepradėtas. 
 
 
 
 
+6) asmuo per 3 metus nuo šio įstatymo nustatyta tvarka gautos paramos gavimo paramos nepanaudoja arba ją netinkamai panaudoja pagal šiame įstatyme nustatytą paramos paskirtį.
+Papildyta straipsnio punktu:
+Nr. X-461, 2005-12-20, Žin., 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
+ 
 
 
-4. Juridinis asmuo, kuriam už šio straipsnio 3 dalyje nurodytą bent vieną pažeidimą buvo panaikintas paramos gavėjo statusas, pakartotinai dėl šio statuso suteikimo gali kreiptis į juridinių asmenų registro tvarkytoją ne anksčiau kaip po metų, kurie pradedami skaičiuoti nuo statuso panaikinimo dienos. Paramos gavėjo statusas pakartotinai suteikiamas, jeigu juridinis asmuo yra sumokėjęs visus mokėtinus mokesčius, baudas bei delspinigius, o per metų laikotarpį nebuvo nustatyta mokesčių įstatymų piktybinių pažeidimų arba Pinigų plovimo prevencijos įstatymo pažeidimų.
-TAR pastaba. Straipsnis įsigalioja nuo juridinių asmenų registro, nurodyto Lietuvos Respublikos civilinio kodekso antrojoje knygoje, veiklos pradžios 2004-01-01.
+Straipsnio dalies pakeitimai:
+Nr. X-461, 2005-12-20, Žin., 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
+ 
+
+
+
+
+4. Juridinis asmuo, kuriam už šio straipsnio 3 dalyje nurodytą bent vieną pažeidimą buvo panaikintas paramos gavėjo statusas, pakartotinai dėl šio statuso suteikimo gali kreiptis į juridinių asmenų registro tvarkytoją ne anksčiau kaip po metų, kurie pradedami skaičiuoti nuo statuso panaikinimo dienos. Paramos gavėjo statusas pakartotinai suteikiamas, jeigu juridinis asmuo yra sumokėjęs visus mokėtinus mokesčius, baudas ir delspinigius, neturi teistumo už šio straipsnio 3 dalies 1 punkte nurodytus nusikaltimus, per paskutinius vienus metus nėra padaręs šio straipsnio 3 dalies 1 punkte nurodytų baudžiamųjų nusižengimų ir per metų laikotarpį nebuvo nustatyta Pinigų plovimo prevencijos įstatymo pažeidimų.
+Straipsnio dalies pakeitimai:
+Nr. X-461, 2005-12-20, Žin., 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
  
 
 
@@ -561,3 +603,18 @@ Lietuvos Respublikos labdaros ir paramos įstatymo 5 straipsnio pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2190, 2004-04-27, Žin., 2004, Nr. 73-2524 (2004-04-30), i. k. 1041010ISTA0IX-2190
 Lietuvos Respublikos labdaros ir paramos įstatymo 11 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-461, 2005-12-20, Žin., 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X-461
+Lietuvos Respublikos labdaros ir paramos įstatymo 5, 7, 10, 12 ir 15 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1093, 2010-11-04, Žin., 2010, Nr. 137-6994 (2010-11-23), i. k. 1101010ISTA0XI-1093
+Lietuvos Respublikos labdaros ir paramos įstatymo 12 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2077, 2012-06-19, Žin., 2012, Nr. 76-3926 (2012-06-30), i. k. 1121010ISTA0XI-2077
+Lietuvos Respublikos labdaros ir paramos įstatymo 3, 4, 8, 10, 12, 13, 15 straipsnių pakeitimo ir papildymo bei 14 straipsnio pripažinimo netekusiu galios įstatymas
