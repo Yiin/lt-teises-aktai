@@ -654,11 +654,9 @@ projektus;
 4) užtikrina
 Vyriausybės ir Ministro Pirmininko pavedimų vykdymą;
 5) leidžia
-įsakymus ir įsakymais patvirtintus kitus teisės aktus, tikrina, kaip jie
-vykdomi. Ministro leidžiami įsakymai ir kiti teisės aktai registruojami
-Vyriausybės darbo reglamento nustatyta tvarka. Įsakymus ir kitus teisės aktus
-pasirašo ministras. Prireikus keli ministrai gali leisti bendrus įsakymus arba
-įsakymu patvirtintus kitus teisės aktus;
+įsakymus, tikrina, kaip jie vykdomi. Ministro leidžiami įsakymai registruojami
+Vyriausybės darbo reglamento nustatyta tvarka. Įsakymus pasirašo ministras.
+Prireikus keli ministrai gali leisti bendrus įsakymus;
 6) teikia
 Vyriausybei ministerijos metines veiklos ataskaitas, kaip vykdoma Vyriausybės
 programa, jos įgyvendinimo priemonės bei ministerijos strateginiai veiklos
@@ -692,8 +690,11 @@ Nr. VIII-1980,
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 Nr. IX-842,
 2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
-Nr. IX-1293,
-2003-01-14, Žin., 2003, Nr. 10-342 (2003-01-29)
+Nr. IX-1293, 2003-01-14,
+Žin., 2003, Nr. 10-342 (2003-01-29)
+Nr.
+X-500,
+2006-01-19, Žin., 2006, Nr. 17-596 (2006-02-11)
  
 27 straipsnis.
 Vyriausybės komisijos
@@ -722,8 +723,7 @@ grupės veiklai skyrimo klausimą prireikus sprendžia Vyriausybė.
 Aštuntasis skirsnis
 MINISTERIJOS,
 VYRIAUSYBĖS ĮSTAIGOS IR APSKRIČIŲ 
-VIRŠININKŲ
-ADMINISTRACIJOS
+VIRŠININKŲ ADMINISTRACIJOS
  
 29 straipsnis.
 Ministerijos
@@ -739,8 +739,7 @@ apsaugos ministerija;
 ministerija;
 5) Socialinės
 apsaugos ir darbo ministerija;
-6) Susisiekimo
-ministerija;
+6) Susisiekimo ministerija;
 7) Sveikatos
 apsaugos ministerija;
 8) Švietimo ir
@@ -751,8 +750,8 @@ ministerija;
 ministerija;
 11) Užsienio
 reikalų ministerija;
-12) Vidaus reikalų
-ministerija;
+12) Vidaus
+reikalų ministerija;
 13) Žemės ūkio
 ministerija.
 2. Ministerijas
@@ -762,9 +761,9 @@ vykdo įstatymų ir kitų teisės aktų jai pavestos srities valstybės valdymo
 funkcijas ir įgyvendina šioje srityje valstybės politiką.
 4. Ministerijai
 vadovauja ministras.
-5. Ministerija
-yra juridinis asmuo, turintis sąskaitą banke ir antspaudą su valstybės herbu
-bei savo pavadinimu.
+5. Ministerija yra
+juridinis asmuo, turintis sąskaitą banke ir antspaudą su valstybės herbu bei
+savo pavadinimu.
 6. Ministerija
 savo veiklą grindžia Lietuvos Respublikos Konstitucija, įstatymais, Lietuvos
 Respublikos tarptautinėmis sutartimis, Vyriausybės nutarimais, kitais teisės
@@ -858,9 +857,8 @@ ir koordinuoja ministerijos strateginių veiklos planų rengimą ir jų
 įgyvendinimą;
 4) koordinuoja
 Ministro Pirmininko ir Vyriausybės pavedimų vykdymą, vadovaudamasis
-ministerijos strateginiais veiklos planais ir Vyriausybės programos
-įgyvendinimo priemonėmis, užtikrina ministerijos rengiamų sprendimų
-suderinamumą;
+ministerijos strateginiais veiklos planais ir Vyriausybės programos įgyvendinimo
+priemonėmis, užtikrina ministerijos rengiamų sprendimų suderinamumą;
 5) koordinuoja
 ir kontroliuoja teisės aktų bei programų projektų rengimą ir derinimą;
 6) organizuoja
@@ -900,8 +898,8 @@ papildytas straipsniu:
 Nr. IX-842,
 2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
 Nr.
-IX-2521,
-2004-11-02, Žin., 2004, Nr. 167-6100 (2004-11-17)
+IX-2521, 2004-11-02,
+Žin., 2004, Nr. 167-6100 (2004-11-17)
  
 32 straipsnis.
 Ministerijų kolegijos
@@ -931,12 +929,12 @@ agentūras, inspekcijas ir kitas įstaigas).
 Vyriausybės įstaigos vadovas yra pavaldus Ministrui Pirmininkui.
 4. Vyriausybės
 įstaigos vadovas sprendžia įstaigos kompetencijai priskirtus klausimus, taip
-pat vykdo kitas įstatymų ir Vyriausybės nutarimų nustatytas funkcijas. Vyriausybės
-įstaigos vadovas yra asmeniškai atsakingas, kad įstaiga spręstų jai pavestus
-uždavinius.
-5. Vyriausybės
-įstaigos vadovas gali turėti pavaduotoją (pavaduotojų), kurį (kuriuos) jis
-skiria ir atleidžia iš pareigų.
+pat vykdo kitas įstatymų ir Vyriausybės nutarimų nustatytas funkcijas.
+Vyriausybės įstaigos vadovas yra asmeniškai atsakingas, kad įstaiga spręstų jai
+pavestus uždavinius.
+5. Vyriausybės įstaigos
+vadovas gali turėti pavaduotoją (pavaduotojų), kurį (kuriuos) jis skiria ir
+atleidžia iš pareigų.
 6. Vyriausybės
 įstaigos vadovas leidžia įsakymus ir įsakymu patvirtintus kitus teisės aktus,
 tikrina, kaip jie vykdomi.
@@ -1128,10 +1126,17 @@ pasirašo Ministras Pirmininkas Vyriausybės darbo reglamento nustatyta tvarka.
 svarstydama Lietuvos Respublikos pozicijas dėl pasiūlymų priimti Europos
 Sąjungos teisės aktus, gali priimti sprendimus, o dėl kitų Europos
 Sąjungos dokumentų – rezoliucijas.
+4. Vyriausybės
+sprendimai ir Vyriausybės rezoliucijos įsigalioja jų pasirašymo dieną ir turi
+būti tą pačią dieną paskelbti Vyriausybės interneto tinklalapyje (www.lrv.lt).
 Įstatymas
 papildytas straipsniu:
 Nr. IX-2576,
 2004-11-11, Žin., 2004, Nr. 171-6322 (2004-11-26)
+Straipsnio pakeitimai:
+Nr.
+X-500,
+2006-01-19, Žin., 2006, Nr. 17-596 (2006-02-11)
  
 42 straipsnis.
 Vyriausybės posėdžių protokolai
@@ -1149,7 +1154,13 @@ klausimais leidžia potvarkius arba priima operatyvius sprendimus - pavedimus,
 įforminamus rezoliucijomis.
 2. Ministro
 Pirmininko potvarkiai įsigalioja jų pasirašymo dieną, jeigu pačiuose
-potvarkiuose nenustatyta vėlesnė jų įsigaliojimo data.
+potvarkiuose nenustatyta vėlesnė jų įsigaliojimo data. Ministro Pirmininko potvarkiai,
+paskelbti „Valstybės žiniose“, įsigalioja kitą dieną po jų paskelbimo, jeigu
+pačiuose potvarkiuose nenustatyta vėlesnė jų įsigaliojimo data.
+Straipsnio pakeitimai:
+Nr.
+X-500,
+2006-01-19, Žin., 2006, Nr. 17-596 (2006-02-11)
  
 DEŠIMTASIS
 SKIRSNIS
@@ -1212,16 +1223,17 @@ Pirmininkui.
 kancleris:
 1) organizuoja
 valstybės institucijų ir įstaigų, savivaldybių tarybų pateiktų Vyriausybei bei
-Ministrui Pirmininkui teisės aktų projektų bei programų analizę, prireikus
-Vyriausybės darbo reglamento nustatyta tvarka organizuoja Vyriausybei bei
-Ministrui Pirmininkui teikiamų teisės aktų projektų bei programų, kurių
-rengėjams nepavyko suderinti su suinteresuotomis institucijomis, derinimą;
+Ministrui Pirmininkui teisės aktų projektų bei programų analizę, prireikus Vyriausybės
+darbo reglamento nustatyta tvarka organizuoja Vyriausybei bei Ministrui
+Pirmininkui teikiamų teisės aktų projektų bei programų, kurių rengėjams
+nepavyko suderinti su suinteresuotomis institucijomis, derinimą;
 2) dalyvauja koordinuojant Vyriausybės
 programos įgyvendinimo priemonių ir strateginių veiklos planų vykdymą;
 3) organizuoja
 Vyriausybės posėdžių rengimą, dalyvauja juose ir užtikrina, kad būtų rašomi
-posėdžių protokolai, išleidžiami ir įstatymų nustatyta tvarka „Valstybės
-žiniose“ skelbiami Vyriausybės nutarimai ir Ministro Pirmininko potvarkiai;
+posėdžių protokolai, išleidžiami ir įstatymų nustatyta tvarka skelbiami
+Vyriausybės nutarimai, Ministro Pirmininko potvarkiai, Vyriausybės sprendimai
+ir Vyriausybės rezoliucijos;
 4) skiria į
 pareigas ir atleidžia iš jų Vyriausybės kanceliarijos valstybės tarnautojus;
 5) saugo
@@ -1240,6 +1252,9 @@ Nr. IX-331, 2001 05 17, Žin., 2001, Nr.
 48-1656 (2001 06 06)
 Nr. IX-842,
 2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
+Nr.
+X-500,
+2006-01-19, Žin., 2006, Nr. 17-596 (2006-02-11)
  
 46 straipsnis.
 Vyriausybės dokumentų saugojimo tvarka 
@@ -1277,9 +1292,9 @@ suinteresuotoms valstybės institucijoms, viešosioms įstaigoms bei
 nevyriausybinėms organizacijoms.
 3. Vyriausybė arba jos įgaliota
 institucija, rengdama Lietuvos Respublikos poziciją dėl pasiūlymo priimti
-Europos Sąjungos teisės aktą užsienio politikos, nacionalinio saugumo
-klausimais, taip pat Europos Vadovų Taryboje svarstomais klausimais, rengiamą
-poziciją derina su Respublikos Prezidentu.
+Europos Sąjungos teisės aktą užsienio politikos, nacionalinio saugumo klausimais,
+taip pat Europos Vadovų Taryboje svarstomais klausimais, rengiamą poziciją
+derina su Respublikos Prezidentu.
 4. Lietuvos Respublikos pozicija dėl
 pasiūlymo priimti Europos Sąjungos teisės aktą ar dėl kito Europos Sąjungos
 dokumento rengiama, nagrinėjama ir pristatoma įstatymų ir kitų teisės aktų
@@ -1291,8 +1306,8 @@ kitus Europos Sąjungos dokumentus
 1. Vyriausybė Seimo statuto ir įstatymų
 nustatyta tvarka nedelsdama informuoja Seimą apie gautus pasiūlymus priimti
 Europos Sąjungos teisės aktus ar kitus Europos Sąjungos dokumentus tų sričių,
-kurios pagal Lietuvos Respublikos Konstituciją susijusios su Seimo ar
-Respublikos Prezidento kompetencija.
+kurios pagal Lietuvos Respublikos Konstituciją susijusios su Seimo ar Respublikos
+Prezidento kompetencija.
 2. Nusprendusi
 rengti Lietuvos Respublikos poziciją dėl pasiūlymo priimti Europos
 Sąjungos teisės aktą ar dėl kito Europos Sąjungos dokumento tų sričių, kurios
@@ -1349,8 +1364,8 @@ siūlydama kandidatus į Europos Komisijos narius ir Audito Rūmų narius
 Seimo statuto nustatyta tvarka konsultuojasi su Seimu. 
 3. Vyriausybė, Respublikos Prezidentui
 pritarus, siūlydama kandidatus į Europos Bendrijų Teisingumo Teismo ir
-Pirmosios instancijos teismo teisėjus Seimo statuto nustatyta tvarka
-konsultuojasi su Seimu.
+Pirmosios instancijos teismo teisėjus Seimo statuto nustatyta tvarka konsultuojasi
+su Seimu.
 4. Vyriausybė, siūlydama kandidatus į Europos Sąjungos Regionų
 komitetą, teisės aktų nustatyta tvarka konsultuojasi su Lietuvos savivaldybių
 asociacija.
@@ -1416,7 +1431,7 @@ Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
 VIII-148,
-97.03.25,  Žin., 1997, Nr.30-704 (97.04.09)
+97.03.25,  Žin., 1997, Nr.30-704 (97.04.09)
 LIETUVOS
 RESPUBLIKOS VYRIAUSYBĖS ĮSTATYMO 25 IR 31 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
@@ -1464,8 +1479,8 @@ VYRIAUSYBĖS ĮSTATYMO 45 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-461, 2001-07-12, Žin., 2001, Nr.
 66-2407 (2001-08-01)
-VYRIAUSYBĖS ĮSTATYMO 13, 20, 39 IR 40 STRAIPSNIŲ PAKEITIMO
-ĮSTATYMAS
+VYRIAUSYBĖS ĮSTATYMO 13, 20, 39 IR 40 STRAIPSNIŲ
+PAKEITIMO ĮSTATYMAS
  
 12.
 Lietuvos
@@ -1546,9 +1561,15 @@ Nr. X-198, 2005-05-12,
 VYRIAUSYBĖS
 ĮSTATYMO 22 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+21.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. X-500, 2006-01-19,
+Žin., 2006, Nr. 17-596 (2006-02-11)
+VYRIAUSYBĖS
+ĮSTATYMO 26, 41(1), 43, 45 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 ***
 Pabaiga ***
- 
  
 Konstitucinio
 Teismo nutarimai:
@@ -1561,11 +1582,10 @@ STRAIPSNIO 2 IR 4 DALIŲ, 9 STRAIPSNIO 1 DALIES 4 PUNKTO IR 4 DALIES, 22
 STRAIPSNIO 1 PUNKTO, 24 STRAIPSNIO 2 DALIES 5 BEI 11 PUNKTŲ, 26 STRAIPSNIO 3
 DALIES 7 PUNKTO, 31 STRAIPSNIO 2, 4 DALIŲ IR 6 DALIES 2 PUNKTO, 37 STRAIPSNIO 4
 DALIES, 45 STRAIPSNIO 4 DALIES ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI
- 
 ***
 Pabaiga ***
  
 Redagavo:
-Aušrinė Trapinskienė (2005-05-30)
+Aušrinė Trapinskienė (2006-02-11)
                  
 autrap@lrs.lt
