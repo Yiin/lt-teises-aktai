@@ -6201,20 +6201,39 @@ NUSIKALTIMAI
 IR BAUDŽIAMIEJI NUSIŽENGIMAI VALDYMO TVARKAI, SUSIJĘ SU DOKUMENTŲ AR MATAVIMO
 PRIEMONIŲ KLASTOJIMU
  
-300 straipsnis. Dokumento suklastojimas
-ar suklastoto dokumento panaudojimas arba realizavimas
+300 straipsnis. Dokumento
+suklastojimas ar disponavimas suklastotu dokumentu 
 1.
-Tas, kas pagamino netikrą dokumentą, suklastojo tikrą dokumentą arba netikrą ar
-suklastotą dokumentą panaudojo ar realizavo,
+Tas, kas pagamino netikrą dokumentą, suklastojo tikrą dokumentą arba žinomai netikrą ar žinomai suklastotą tikrą dokumentą laikė, gabeno, siuntė,
+panaudojo ar realizavo,
 baudžiamas
 bauda arba areštu, arba laisvės atėmimu iki trejų metų.
-2.
-Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, jeigu dėl to buvo
-padaryta didelės žalos,
+2. Tas, kas pagamino netikrą asmens tapatybės kortelę,
+pasą, vairuotojo pažymėjimą ar valstybinio socialinio draudimo pažymėjimą arba
+suklastojo tikrą asmens tapatybės kortelę, pasą, vairuotojo pažymėjimą ar
+valstybinio socialinio draudimo pažymėjimą, arba žinomai netikrą ar žinomai
+suklastotą tikrą asmens tapatybės kortelę, pasą, vairuotojo pažymėjimą ar
+valstybinio socialinio draudimo pažymėjimą laikė,
+gabeno, siuntė, panaudojo ar realizavo,
 baudžiamas
-laisvės atėmimu iki penkerių metų.
+areštu arba laisvės atėmimu iki ketverių metų.
 3.
+Tas, kas padarė šio straipsnio 1 ar 2 dalyje numatytas  veikas,
+jeigu dėl to buvo padaryta didelės žalos, arba pagamino didelį
+kiekį netikrų
+asmens tapatybės kortelių, pasų, vairuotojo pažymėjimų ar valstybinio
+socialinio draudimo pažymėjimų, arba suklastojo didelį
+kiekį tikrų asmens tapatybės kortelių, pasų, vairuotojo pažymėjimų ar
+valstybinio socialinio draudimo pažymėjimų, arba žinomai netikrų ar žinomai
+suklastotų tikrų didelį kiekį asmens tapatybės
+kortelių, pasų, vairuotojo pažymėjimų ar valstybinio socialinio draudimo pažymėjimų laikė, gabeno, siuntė, panaudojo ar realizavo,
+baudžiamas
+laisvės atėmimu iki šešerių metų.
+4.
 Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+Straipsnio pakeitimai:
+Nr. X-511, 2006-01-20,
+Žin., 2006, Nr. 17-605 (2006-02-11)
  
 301 straipsnis. Antspaudo, spaudo ar blanko suklastojimas
 1.
@@ -6235,21 +6254,49 @@ areštu arba laisvės atėmimu iki penkerių metų.
 Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
  
 302 straipsnis. Antspaudo, spaudo ar
-dokumento pagrobimas arba pagrobtojo panaudojimas
+dokumento pagrobimas arba pagrobtojo panaudojimas 
 1.
-Tas, kas pagrobė fizinio ar juridinio asmens antspaudą, spaudą, dokumentą ar
-griežtos atskaitomybės blanką arba pasinaudojo pagrobtu antspaudu, spaudu,
-dokumentu ar griežtos atskaitomybės blanku,
+Tas, kas pagrobė
+ar
+neturėdamas teisėto pagrindo įgijo, laikė, gabeno, siuntė, panaudojo ar
+realizavo fizinio ar juridinio asmens antspaudą, spaudą, dokumentą ar
+griežtos atskaitomybės blanką,
 baudžiamas
-bauda arba areštu, arba laisvės atėmimu iki trejų metų.
-2.
-Tas, kas šio straipsnio 1 dalyje numatytus veiksmus darė versliškai arba jeigu
-dėl šių veiksmų buvo sutrikdyta fizinio ar juridinio asmens veikla, arba
+bauda arba areštu, arba laisvės atėmimu iki šešerių metų.
+2. Tas,
+kas šio straipsnio 1 dalyje numatytas veikas darė versliškai arba pagrobė ar neturėdamas
+teisėto pagrindo įgijo, laikė, gabeno, siuntė, panaudojo ar realizavo didelį kiekį fizinio ar juridinio asmens
+antspaudų, spaudų, dokumentų ar griežtos atskaitomybės blankų, arba jeigu buvo
 padaryta didelės žalos valstybei arba fiziniam ar juridiniam asmeniui, 
 baudžiamas
-bauda arba areštu, arba laisvės atėmimu iki penkerių metų.
+laisvės atėmimu iki  šešerių  metų.
 3.
 Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+Straipsnio pakeitimai:
+Nr. X-511, 2006-01-20,
+Žin., 2006, Nr. 17-605 (2006-02-11)
+ 
+302(1) straipsnis. Įrangos
+antspaudams, spaudams, dokumentams ar griežtos atskaitomybės blankams klastoti
+gaminimas, laikymas, gabenimas, siuntimas ar realizavimas
+1. Tas, kas
+gamino, laikė, gabeno, siuntė ar realizavo įrangą, programinę įrangą ar
+kitokias priemones, tiesiogiai skirtas ar pritaikytas netikriems antspaudams,
+spaudams, dokumentams ar griežtos atskaitomybės blankams gaminti arba tikriems
+antspaudams, spaudams, dokumentams ar griežtos atskaitomybės blankams klastoti,
+baudžiamas
+areštu arba laisvės atėmimu iki penkerių metų.
+2. Tas, kas šio
+straipsnio 1 dalyje numatytas veikas darė versliškai arba jeigu buvo padaryta
+didelės žalos valstybei arba fiziniam ar juridiniam asmeniui,
+baudžiamas
+laisvės atėmimu iki šešerių metų.
+3. Už šiame
+straipsnyje numatytas veikas atsako ir juridinis asmuo.
+Kodeksas papildytas
+straipsniu:
+Nr. X-511, 2006-01-20,
+Žin., 2006, Nr. 17-605 (2006-02-11)
  
 303 straipsnis. Antspaudo, spaudo ar
 dokumento sunaikinimas arba paslėpimas
@@ -6293,9 +6340,8 @@ valstybės kontrolinio prabavimo ženklo įspaudo pagrobimas, suklastojimas,
 realizavimas ar netikro įspaudo panaudojimas 
 1.
 Tas, kas pagrobė, neteisėtai perdirbo, pagamino, panaudojo arba realizavo
-valstybinio kontrolinio prabavimo ženklo arba Lietuvos Respublikos
-tarptautinėje sutartyje numatyto ar užsienio valstybės kontrolinio prabavimo
-ženklo įspaudą,
+valstybinio kontrolinio prabavimo ženklo arba Lietuvos Respublikos tarptautinėje
+sutartyje numatyto ar užsienio valstybės kontrolinio prabavimo ženklo įspaudą,
 baudžiamas bauda
 arba areštu, arba laisvės atėmimu iki dvejų metų.
 2. Už šiame
@@ -6335,10 +6381,10 @@ asmenį šio sutikimu prostitucijai į Lietuvos Respubliką ar iš Lietuvos
 Respublikos,
 baudžiamas
 laisvės atėmimu iki šešerių metų.
-3. Tas,
-kas pelnėsi iš nepilnamečio asmens prostitucijos arba organizavo ar vadovavo
-nepilnamečio asmens prostitucijai, arba gabeno nepilnametį asmenį jo sutikimu
-prostitucijai į Lietuvos Respubliką ar iš Lietuvos Respublikos, 
+3.
+Tas, kas pelnėsi iš nepilnamečio asmens prostitucijos arba organizavo ar
+vadovavo nepilnamečio asmens prostitucijai, arba gabeno nepilnametį asmenį jo
+sutikimu prostitucijai į Lietuvos Respubliką ar iš Lietuvos Respublikos, 
 baudžiamas
 laisvės atėmimu nuo dvejų iki aštuonerių metų.
  
@@ -6407,9 +6453,9 @@ NUSIKALTIMAI
 IR BAUDŽIAMIEJI NUSIŽENGIMAI MIRUSIOJO  ATMINIMUI
  
 311 straipsnis. Mirusiojo palaikų išniekinimas
-1. Tas,
-kas neteisėtai paėmė mirusiojo palaikus ar jų dalį arba tyčiojosi iš mirusiojo
-palaikų, arba juos išniekino,
+1.
+Tas, kas neteisėtai paėmė mirusiojo palaikus ar jų dalį arba tyčiojosi iš
+mirusiojo palaikų, arba juos išniekino,
 baudžiamas
 viešaisiais darbais arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 iki dvejų metų.
@@ -6637,7 +6683,7 @@ alternatyviosios tarnybos ir nuo jos neatleistas.
  
  
 Lietuvos Respublikos 
-                                                                                    baudžiamojo
+                                                                                    baudžiamojo
 kodekso 
                                                                                     priedas
  
@@ -6651,8 +6697,8 @@ euro įvedimu.
 gruodžio 6 d. Tarybos pagrindų sprendimas 2001/888/TVR, iš dalies keičiantis
 Tarybos pagrindų sprendimą 2000/383/TVR dėl apsaugos nuo padirbinėjimo
 griežtinimo baudžiamosiomis ir kitokiomis sankcijomis ryšium su euro įvedimu. 
-3. 2001 m.
-gegužės 28 d. Tarybos pagrindų sprendimas 2001/413/TVR dėl kovos su sukčiavimu
+3. 2001 m. gegužės
+28 d. Tarybos pagrindų sprendimas 2001/413/TVR dėl kovos su sukčiavimu
 negrynosiomis mokėjimo priemonėmis ir jų klastojimu.
 4. 2001 m.
 birželio 26 d. Tarybos pagrindų sprendimas 2001/500/TVR dėl pinigų plovimo,
@@ -6662,8 +6708,8 @@ nusikaltimo priemonių ir nusikalstamu būdu įgytų pajamų nustatymo, paieško
 birželio 13 d. Tarybos pagrindų sprendimas 2002/475/TVR dėl kovos su terorizmu.
 
 6. 2002 m.
-birželio 13 d. Tarybos pagrindų sprendimas 2002/584/TVR dėl Europos arešto
-orderio ir valstybių narių tarpusavio perdavimo procedūrų. 
+birželio 13 d. Tarybos pagrindų sprendimas 2002/584/TVR dėl Europos arešto orderio
+ir valstybių narių tarpusavio perdavimo procedūrų. 
 7. 2002 m.
 liepos 19 d. Tarybos pagrindų sprendimas 2002/629/TVR dėl kovos su prekyba
 žmonėmis. 
@@ -6677,8 +6723,8 @@ ir apsigyventi.
 10. 2003 m.
 sausio 27 d. Tarybos pagrindų sprendimas 2003/80/TVR dėl aplinkos apsaugos
 pagal baudžiamąją teisę.
-11. 2003 m. liepos
-22 d. Tarybos pagrindų sprendimas 2003/568/TVR dėl kovos su korupcija
+11. 2003 m.
+liepos 22 d. Tarybos pagrindų sprendimas 2003/568/TVR dėl kovos su korupcija
 privačiame sektoriuje.
 Kodeksas papildytas priedu:
 Nr. IX-2169,
@@ -6789,8 +6835,8 @@ straipsniais.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-2512,
-2004-10-28, Žin., 2004, Nr. 166-6061 (2004-11-16)
+IX-2512, 2004-10-28,
+Žin., 2004, Nr. 166-6061 (2004-11-16)
 BAUDŽIAMOJO
 KODEKSO XXXVI SKYRIAUS PAVADINIMO PAKEITIMO IR KODEKSO PAPILDYMO 253(1)
 STRAIPSNIU ĮSTATYMAS
@@ -6823,11 +6869,21 @@ KODEKSO 48, 60, 145, 147, 157, 212, 213, 214, 215, 226, 249, 251, 252, 256,
 267, 270, 272, 274, 280 STRAIPSNIŲ IR PRIEDO PAKEITIMO BEI PAPILDYMO IR KODEKSO
 PAPILDYMO 147(1), 199(1), 199(2), 267(1), 270(1), 308(1) STRAIPSNIAIS ĮSTATYMAS
  
+12.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-511,
+2006-01-20, Žin., 2006, Nr. 17-605 (2006-02-11)
+BAUDŽIAMOJO
+KODEKSO 300, 302 STRAIPSNIŲ PAKEITIMO IR KODEKSO PAPILDYMO 302(1) STRAIPSNIU
+ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušra Bodin (2005-07-05)
+Aušrinė Trapinskienė (2006-02-11)
                  
-ausra.bodin@lrs.lt
+autrap@lrs.lt
