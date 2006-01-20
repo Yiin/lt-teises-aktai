@@ -1553,10 +1553,10 @@ elementas – 47,5 lito ir
 elementas – 15 procentų. 
 3.
 Šio Įstatymo 3 straipsnio 9 dalyje nurodytus požymius atitinkantis tabako
-ritinėlis, kuris (be filtro ar kandiklio) yra ilgesnis kaip 9 cm, bet ne
-ilgesnis kaip 18 cm, šiame Įstatyme laikomas dviem cigaretėmis; ritinėlis,
-kuris ilgesnis kaip 18 cm, bet ne ilgesnis kaip 27 cm, atitinkamai laikomas
-trimis cigaretėmis ir taip toliau.
+ritinėlis, kuris (be filtro ar kandiklio) yra ilgesnis kaip 9 cm, bet ne ilgesnis
+kaip 18 cm, šiame Įstatyme laikomas dviem cigaretėmis; ritinėlis, kuris
+ilgesnis kaip 18 cm, bet ne ilgesnis kaip 27 cm, atitinkamai laikomas trimis
+cigaretėmis ir taip toliau.
 4.
 Populiariausių cigarečių kainų kategorijos, kuri naudojama nustatant Lietuvos
 Respublikoje cigaretėms taikomo akcizų tarifo ir 1992 m. spalio 19 d. Tarybos
@@ -1582,12 +1582,12 @@ straipsnis. Specialūs atvejai, kai apdorotas tabakas atleidžiamas nuo akcizų
 1. Be šio
 Įstatymo 17 straipsnyje nurodytų atvejų, nuo akcizų atleidžiamas apdorotas
 tabakas, jeigu jis sunaikintas prižiūrint kompetentingai institucijai. Šios
-nuostatos įgyvendinamos Valstybinės mokesčių inspekcijos prie Finansų
-ministerijos (dėl Valstybinės mokesčių inspekcijos kontroliuojamų prekių) bei
-Europos Sąjungos reglamentų (dėl muitinės kontroliuojamų prekių) nustatyta
-tvarka. Jeigu už šioje dalyje nustatyta tvarka sunaikintą apdorotą tabaką
-akcizai jau buvo sumokėti, akcizų suma įskaitoma arba  grąžinama Mokesčių
-administravimo įstatymo nustatyta tvarka.
+nuostatos įgyvendinamos Valstybinės mokesčių inspekcijos prie Finansų ministerijos
+(dėl Valstybinės mokesčių inspekcijos kontroliuojamų prekių) bei Europos
+Sąjungos reglamentų (dėl muitinės kontroliuojamų prekių) nustatyta tvarka.
+Jeigu už šioje dalyje nustatyta tvarka sunaikintą apdorotą tabaką akcizai jau
+buvo sumokėti, akcizų suma įskaitoma arba  grąžinama Mokesčių administravimo
+įstatymo nustatyta tvarka.
 2.
 Nuo akcizų taip pat atleidžiamas apdorotas tabakas, jeigu jis panaudotas
 būtiniems bandymams gamybos metu atlikti, teisės aktų nustatytiems privalomiems
@@ -1630,13 +1630,22 @@ skirtiems gazoliams (buitiniam krosnių kurui), pažymėtiems šio Įstatymo 42
 straipsnyje nustatyta tvarka, taikomas 86 litų už toną produkto akcizo tarifas.
 3. Akcizais
 neapmokestinami dyzeliniai degalai, skirti naudoti Vyriausybės nustatyta tvarka
-registruotiems žemės ūkio veiklos subjektams žemės ūkyje, taip pat tvenkinių ir
-kitų vidaus vandenų žuvininkystėje, per vienerius kalendorinius metus
-neviršijant 120 litrų vienam Vyriausybės ar jos įgaliotos institucijos
-nustatyta tvarka deklaruotam žemės ūkio naudmenų hektarui bei 275 litrų vienai
-tonai sugautų ir realizuotų žuvų. Šioje dalyje nurodytų produktų kiekis
-nurodytas esant jų 15 °C temperatūrai. Šioje dalyje nustatytos lengvatos
-taikymo taisykles nustato Vyriausybė ar jos įgaliota institucija. 
+registruotiems žemės ūkio veiklos subjektams žemės ūkyje, taip pat žemės ūkio
+mokslo, studijų ir mokymo įstaigoms, turinčioms mokomuosius (bandymų) ūkius, 
+per vienerius ūkinius metus (nuo einamųjų metų liepos 1 d. iki kitų metų
+birželio 30 d.) neviršijant Vyriausybės nustatytų akcizais neapmokestinamų
+dyzelinių degalų kiekių vienam Vyriausybės ar jos įgaliotos institucijos
+nustatyta tvarka deklaruotam žemės ūkio naudmenų hektarui pagal žemės ūkio
+augalų rūšis. Akcizais taip pat neapmokestinami dyzeliniai degalai, skirti
+naudoti Vyriausybės nustatyta tvarka registruotiems žemės ūkio veiklos
+subjektams tvenkinių ir kitų vidaus vandenų žuvininkystėje, per vienerius
+kalendorinius metus neviršijant 275 litrų vienai tonai sugautų ir realizuotų
+žuvų. Šioje dalyje dyzelinių degalų kiekis nurodytas esant jų 15 °C
+temperatūrai. Šioje dalyje nustatytos lengvatos taikymo tvarką nustato
+Vyriausybė ar jos įgaliota institucija.
+Straipsnio pakeitimai:
+Nr. X-503, 2006-01-20,
+Žin., 2006, Nr. 17-599 (2006-02-11)
  
 36 straipsnis.
 Skystajam kurui (mazutams), orimulsijai taikomi akcizo tarifai
@@ -1778,8 +1787,8 @@ pat tais atvejais, kai žymėti energetiniai produktai panaudojami kaip degalai
 tikslui, kuriam šiuos energetinius produktus naudojant yra nustatyta akcizų
 lengvata, įstatymų nustatyta tvarka taikomos sankcijos.
  
-KETVIRTASIS
-SKIRSNIS 
+KETVIRTASIS SKIRSNIS
+
 ELEKTROS ENERGIJOS APMOKESTINIMAS
  
 43 straipsnis.
@@ -1812,8 +1821,8 @@ Elektros energijai taikomi akcizų tarifai
 1. Elektros
 energijai, išskyrus elektros energiją, nurodytą šio straipsnio 2 dalyje,
 taikomas 3,5 lito už elektros energijos megavatvalandę akcizo tarifas.
-2. Elektros energijai,
-naudojamai verslo reikmėms, taikomas 1,8 lito už elektros energijos
+2. Elektros
+energijai, naudojamai verslo reikmėms, taikomas 1,8 lito už elektros energijos
 megavatvalandę akcizo tarifas. Šioje dalyje nurodytas akcizo tarifas taikomas
 tik elektros energijai, parduodamai ar kitaip perduodamai asmeniui, turinčiam
 centrinio mokesčio administratoriaus nustatyta tvarka išduotą atitinkamą
@@ -1838,9 +1847,9 @@ jie registruoti, leidimą;
 4) elektros energija,
 parduodama ar kitaip perduodama asmenims, gavusiems vietos mokesčio
 administratoriaus leidimą įsigyti elektros energijos be akcizų.
-2. Šio straipsnio 1
-dalies 4 punkte nurodytas vietos mokesčio administratoriaus leidimas įsigyti
-elektros energijos be akcizų išduodamas asmenims:
+2. Šio straipsnio 1 dalies
+4 punkte nurodytas vietos mokesčio administratoriaus leidimas įsigyti elektros
+energijos be akcizų išduodamas asmenims:
 1) naudojantiems
 elektros energiją cheminės redukcijos tikslu;
 2) naudojantiems
@@ -1960,17 +1969,16 @@ administratoriui, kurio veiklos teritorijoje jis registruotas, pateikti akcizų
 už akmens anglis, koksą, lignitą deklaraciją. Deklaracijos formą ir užpildymo
 taisykles nustato centrinis mokesčio administratorius. Joje privalo būti
 deklaruota akcizų suma, apskaičiuota už akmens anglis, koksą ir (arba) lignitą,
-už kuriuos šio Įstatymo 49 straipsnio 1 dalyje nustatyta tvarka prievolė sumokėti
-akcizus atsirado tą mokestinį laikotarpį. Akcizai sumokami iki šioje dalyje
-nustatyto deklaracijos pateikimo termino pabaigos.
+už kuriuos šio Įstatymo 49 straipsnio 1 dalyje nustatyta tvarka prievolė
+sumokėti akcizus atsirado tą mokestinį laikotarpį. Akcizai sumokami iki šioje
+dalyje nustatyto deklaracijos pateikimo termino pabaigos.
 2. Jeigu asmuo
 netenka registruoto akmens anglių, kokso ir (arba) lignito tiekėjo statuso, jis
 privalo šio straipsnio 1 dalyje nustatytais terminais pateikti vietos mokesčio
 administratoriui, kurio veiklos teritorijoje jis registruotas, akcizų už akmens
-anglis, koksą, lignitą deklaraciją. Joje turi būti deklaruoti akcizai už visą
-įsigytą akmens anglių, kokso, lignito kiekį, už kurį dar nesumokėti akcizai, ir
-juos sumokėti iki šioje dalyje nustatyto deklaracijos pateikimo termino
-pabaigos.
+anglis, koksą, lignitą deklaraciją. Joje turi būti deklaruoti akcizai už visą įsigytą
+akmens anglių, kokso, lignito kiekį, už kurį dar nesumokėti akcizai, ir juos
+sumokėti iki šioje dalyje nustatyto deklaracijos pateikimo termino pabaigos.
 3. Už asmens, kuris
 nėra registruotas akmens anglių, kokso ir (arba) lignito tiekėjas, importuotus
 akmens anglis, koksą ir (arba) lignitą akcizai sumokami Vyriausybės ar jos
@@ -2005,14 +2013,13 @@ priedas
 Energetiniais
 produktais laikomi:
  
-1) KN 2701, 2702, 2704–2715 pozicijose
-klasifikuojami produktai, išskyrus KN 2711 11 ir 2711 21 pozicijose
-klasifikuojamus produktus;
+1) KN 2701, 2702, 2704–2715 pozicijose klasifikuojami
+produktai, išskyrus KN 2711 11 ir 2711 21 pozicijose klasifikuojamus produktus;
 2) KN 2901 ir 2902 pozicijose
 klasifikuojami produktai;
 3) KN 2905 11 00 pozicijoje
-klasifikuojami produktai, jeigu jie yra nesintetinės kilmės ir yra skirti
-naudoti kaip variklių degalai arba kaip šildymui skirtas kuras;
+klasifikuojami produktai, jeigu jie yra nesintetinės kilmės ir yra skirti naudoti
+kaip variklių degalai arba kaip šildymui skirtas kuras;
 4) KN 3403 pozicijoje klasifikuojami
 produktai;
 5) KN 3811 pozicijoje klasifikuojami
@@ -2105,10 +2112,10 @@ alkoholiniams gėrimams struktūrų suderinimo.
 5. 1992 m.
 spalio 19 d. Tarybos direktyva 92/84/EEB dėl alkoholiui ir alkoholiniams
 gėrimams taikomų akcizo tarifų suvienodinimo.
-6. 1992 m.
-rugsėjo 11 d. Europos Komisijos reglamentas 2719/92/EEB dėl gabenimo dokumento
-gabenant akcizais apmokestinamus produktus, kai jiems taikomas akcizų mokėjimo
-laikino atidėjimo režimas.
+6. 1992 m. rugsėjo
+11 d. Europos Komisijos reglamentas 2719/92/EEB dėl gabenimo dokumento gabenant
+akcizais apmokestinamus produktus, kai jiems taikomas akcizų mokėjimo laikino
+atidėjimo režimas.
 7. 1992 m.
 gruodžio 17 d. Europos Komisijos reglamentas 3649/92/EEB dėl supaprastinto
 lydimojo dokumento, skirto Bendrijos viduje judantiems akcizo mokesčiu
@@ -2214,9 +2221,8 @@ Asmenys,
 iki šio Įstatymo įsigaliojimo įsteigę akcizais apmokestinamų prekių sandėlį,
 kuriame buvo vykdoma didmeninė prekyba naftos dujomis ir dujiniais
 angliavandeniliais, ir pageidaujantys panaikinti leidimą steigti akcizais
-apmokestinamų prekių sandėlį, privalo raštu kreiptis į vietos mokesčio
-administratorių dėl leidimo steigti akcizais apmokestinamų prekių sandėlį
-panaikinimo.
+apmokestinamų prekių sandėlį, privalo raštu kreiptis į vietos mokesčio administratorių
+dėl leidimo steigti akcizais apmokestinamų prekių sandėlį panaikinimo.
  
 7.
 Lietuvos
@@ -2263,11 +2269,31 @@ Nr. X-451, 2005-12-15,
 AKCIZŲ
 ĮSTATYMO 25 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
  
+11.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-503,
+2006-01-20, Žin., 2006, Nr. 17-599 (2006-02-11)
+AKCIZŲ
+ĮSTATYMO 35 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Iki 2006 m. birželio 30 d. akcizais neapmokestinami dyzeliniai degalai, skirti naudoti Vyriausybės nustatyta tvarka registruotiems žemės ūkio veiklos subjektams žemės ūkyje, taip pat žemės ūkio mokslo, studijų ir mokymo įstaigoms, turinčioms mokomuosius (bandymų) ūkius (išskyrus tvenkinių ir kitų vidaus vandenų žuvininkystę), neviršijant 60 litrų vienam Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka deklaruotam žemės ūkio naudmenų hektarui, o iki šio įstatymo įsigaliojimo žemės ūkio subjektams išduoti leidimai įsigyti akcizais neapmokestinamų degalų, kurių kiekis apskaičiuotas taikant 120 litrų vienam hektarui normatyvą, laikomi išduotais pusei juose nurodyto kiekio. 
+Jeigu
+Vyriausybės nustatyta tvarka registruotas žemės ūkio veiklos subjektas nuo 2006
+m. sausio 1 d. iki šio įstatymo įsigaliojimo įsigijo daugiau negu 60 litrų
+vienam Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka deklaruotam
+žemės ūkio naudmenų hektarui akcizais neapmokestinamų dyzelinių degalų,
+akcizais neapmokestinamų dyzelinių degalų kiekis, kurį šis žemės ūkio veiklos
+subjektas turi teisę įsigyti ūkiniais metais, prasidedančiais nuo 2006 m.
+liepos 1 d., mažinamas kiekiu, viršijančiu 60 litrų vienam Vyriausybės ar jos
+įgaliotos institucijos nustatyta tvarka deklaruotam žemės ūkio naudmenų
+hektarui.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušra Bodin (2006-01-03)
+Aušrinė Trapinskienė (2006-02-11)
                  
-ausra.bodin@lrs.lt
+autrap@lrs.lt
