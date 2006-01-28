@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AE58B14CE98F"
 
 # Lietuvos Respublikos peticijų įstatymas
 
-Suvestinė redakcija nuo 2003-12-18 iki 2006-01-27
+Suvestinė redakcija nuo 2006-01-28 iki 2008-03-26
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2128; Žin. 1999, Nr.104-0, i. k. 0991010ISTAIII-1313
  
@@ -211,6 +211,10 @@ Nr. IX-1869, 2003-12-04, Žin., 2003, Nr. 119-5405 (2003-12-18), i. k. 1031010IS
 1) Seimui dėl Seimo Peticijų komisijos sprendimo;
 
 2) Vyriausybės kancleriui dėl Vyriausybės Peticijų komisijos sprendimo;
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos peticijų įstatymo 10 straipsnio 1 dalies 2 punktas prieštarauja Lietuvos Respublikos Konstitucijos 95 straipsnio 1 daliai, konstituciniam teisinės valstybės principui.
+Straipsnio punkto pakeitimai:
+2006-01-26, Žin., 2006, Nr. 11-410 (2006-01-28), i. k. 1061000NUTARG060499            
+ 
 
 3) savivaldybės tarybai dėl savivaldybės peticijų komisijos sprendimo.
 
@@ -219,6 +223,9 @@ Nr. IX-1869, 2003-12-04, Žin., 2003, Nr. 119-5405 (2003-12-18), i. k. 1031010IS
 3. Gautas skundas išnagrinėjamas ne vėliau kaip per 30 dienų nuo jo gavimo dienos ir apie priimtą sprendimą pranešama pareiškėjui ar jo atstovui. 
 
 4. Nusprendus patenkinti skundą ir priėmus sprendimą pripažinti kreipimąsi peticija, peticija perduodama peticijų komisijai spręsti peticijos priėmimo nagrinėti klausimą. Nusprendus patenkinti skundą ir priėmus sprendimą priimti peticiją nagrinėti, peticija perduodama peticijų komisijai nagrinėti. Sprendimas atsisakyti tenkinti skundą yra galutinis ir neskundžiamas.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos peticijų įstatymo 10 straipsnio 4 dalies nuostata „sprendimas atsisakyti tenkinti skundą yra galutinis ir neskundžiamas“ ta apimtimi, kuria įtvirtinta, jog asmuo, manantis, kad Seimo, savivaldybės tarybos sprendimas atsisakyti tenkinti skundą dėl peticijų komisijos sprendimo nepripažinti kreipimosi peticija ar peticijos nepriimti nagrinėti nėra grindžiamas Lietuvos Respublikos peticijų įstatyme ar kituose įstatymuose nustatytais pagrindais arba yra grindžiamas tokiais pagrindais, kurie nėra nustatyti Lietuvos Respublikos peticijų įstatyme ar kituose įstatymuose, negali tokio sprendimo apskųsti teismui, prieštarauja Lietuvos Respublikos Konstitucijos 30 straipsnio 1 daliai, 33 straipsnio 2 ir 3 dalims.
+Straipsnio dalies pakeitimai:
+2006-01-26, Žin., 2006, Nr. 11-410 (2006-01-28), i. k. 1061000NUTARG060499            
  
 
 Trečiasis skirsnis
@@ -319,4 +326,9 @@ Lietuvos Respublikos peticijų įstatymo 2 ir 9 straipsnių pakeitimo ir papildy
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1869, 2003-12-04, Žin., 2003, Nr. 119-5405 (2003-12-18), i. k. 1031010ISTA0IX-1869
 Lietuvos Respublikos peticijų įstatymo 2, 3, 6, 7, 9, 11 ir 14 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+2006-01-26, Žin., 2006, Nr. 11-410 (2006-01-28), i. k. 1061000NUTARG060499                
+Dėl Lietuvos Respublikos peticijų įstatymo 10 straipsnio 1 dalies 2 punkto, 10 straipsnio 4 dalies ir 16 straipsnio atitikties Lietuvos Respublikos Konstitucijai
 
