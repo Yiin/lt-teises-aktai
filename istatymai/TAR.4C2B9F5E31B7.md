@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4C2B9F5E31B7"
 
 # Lietuvos Respublikos kompensacijų nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, bei jų šeimoms įstatymas
 
-Suvestinė redakcija nuo 2005-07-14 iki 2006-01-31
+Suvestinė redakcija nuo 2006-02-01 iki 2014-11-26
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 12-0; Žin. 1991, Nr.3-78, i. k. 0911010ISTA000I-954
  
@@ -29,7 +29,10 @@ KOMPENSACIJŲ NEPRIKLAUSOMYBĖS GYNĖJAMS, NUKENTĖJUSIEMS NUO 1991 M. SAUSIO 11
 1 straipsnis. Įstatymo paskirtis ir taikymas
 
 
-1. Šio įstatymo paskirtis – nustatyti nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, bei jų šeimoms (toliau – kompensacijų gavėjai) kompensacijas už būsto šildymą, karštą vandenį, šaltą vandenį ir nuotekas, dujas, kietą ir skystą kurą, elektros energiją, laidinio telefono abonentinį mokestį ir kitas paslaugas, jų dydį, teikimo tvarką bei finansavimo šaltinius.
+1. Šio įstatymo paskirtis – nustatyti nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, bei jų šeimoms (toliau – kompensacijų gavėjai) kompensacijas už vieno būsto, kuriame deklaruota gyvenamoji vieta, šildymą, karštą vandenį, šaltą vandenį ir nuotekas, dujas, kietą ir skystą kurą, elektros energiją, laidinio telefono abonentinį mokestį ir kitas paslaugas, jų dydį, teikimo tvarką bei finansavimo šaltinius. 
+Straipsnio dalies pakeitimai:
+Nr. X-488, 2006-01-12, Žin., 2006, Nr. 6-194 (2006-01-17), i. k. 1061010ISTA000X-488
+ 
 
 
 
@@ -105,7 +108,17 @@ KOMPENSACIJŲ NEPRIKLAUSOMYBĖS GYNĖJAMS, NUKENTĖJUSIEMS NUO 1991 M. SAUSIO 11
 
 
 
-2. Šio straipsnio 1 dalyje nurodytoms kompensacijoms apskaičiuoti taikomi Lietuvos Respublikos piniginės socialinės paramos mažas pajamas gaunančioms šeimoms (vieniems gyvenantiems asmenims) įstatymo 7 straipsnyje nustatyti normatyvai kompensacijoms apskaičiuoti. 
+2. Jeigu viename būste gyvena kompensacijų gavėjai ir kiti asmenys (šeimos), neturintys teisės į šio įstatymo nustatytas kompensacijas, tačiau už išlaidas atsiskaito pagal vieną sąskaitą (atsiskaitomąją knygelę), išlaidos, tenkančios kompensacijų gavėjams, apskaičiuojamos lygiomis dalimis, atsižvelgiant į tame būste gyvenamąją vietą deklaravusių asmenų skaičių. 
+Straipsnio dalies pakeitimai:
+Nr. X-488, 2006-01-12, Žin., 2006, Nr. 6-194 (2006-01-17), i. k. 1061010ISTA000X-488
+ 
+
+
+
+
+3. Šio straipsnio 1 dalyje nurodytos išlaidos, jeigu jos padarytos vykdant ūkinę ar komercinę veiklą, nekompensuojamos.
+Papildyta straipsnio dalimi:
+Nr. X-488, 2006-01-12, Žin., 2006, Nr. 6-194 (2006-01-17), i. k. 1061010ISTA000X-488
  
 
 
@@ -113,13 +126,15 @@ KOMPENSACIJŲ NEPRIKLAUSOMYBĖS GYNĖJAMS, NUKENTĖJUSIEMS NUO 1991 M. SAUSIO 11
 
 
 
-3 straipsnis. Kompensacijų teikimo tvarka 
+3 straipsnis. Kompensacijų teikimo tvarka
 
 
-Kompensacijos teikiamos savivaldybių nustatyta tvarka. Apskaičiuotų kompensacijų sumos pervedamos į energetines, komunalines, ryšio ir kitas paslaugas teikiančių įmonių atsiskaitomąsias sąskaitas bankuose. 
+Kompensacijos teikiamos savivaldybės administracijos direktoriaus nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. X-488, 2006-01-12, Žin., 2006, Nr. 6-194 (2006-01-17), i. k. 1061010ISTA000X-488
  
-
-
 
 
 
@@ -185,3 +200,8 @@ Dėl Lietuvos Respublikos įstatymo "Dėl papildomų socialinių garantijų šei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. 1051010ISTA000X-295
 Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos) dalyviams įstatymo, Įstatymo "Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 - 1991 12 31)", Nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11-13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimo įstatymo, Įstatymo "Dėl papildomų socialinių garantijų šeimoms asmenų, nukentėjusių, kovojant už Lietuvos Respublikos laisvę, nuo 1991 m. sausio 11-13 d. vykdytos agresijos ir po to buvusių įvykių" pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-488, 2006-01-12, Žin., 2006, Nr. 6-194 (2006-01-17), i. k. 1061010ISTA000X-488
+Lietuvos Respublikos kompensacijų nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, bei jų šeimoms įstatymo 1, 2 ir 3 straipsnių pakeitimo įstatymas
