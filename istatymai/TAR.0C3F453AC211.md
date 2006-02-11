@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C3F453AC211"
 
 # Lietuvos Respublikos gamybos mokesčio cukraus sektoriuje įstatymas
 
+Suvestinė redakcija nuo 2006-02-11 iki 2007-04-25
+ 
+Įstatymas paskelbtas: Žin. 2003, Nr. 104-4634, i. k. 1031010ISTA0IX-1762
+ 
 LIETUVOS RESPUBLIKOS
 KVOTINIO CUKRAUS GAMYBOS MOKESČIO IR 
 PAPILDOMO CUKRAUS GAMYBOS MOKESČIO 
@@ -40,7 +44,9 @@ Vilnius
 
 4. Mokestinis laikotarpis – Europos Sąjungos cukraus režimui taikomi prekybiniai metai, kurie prasideda liepos 1 dieną ir baigiasi kitų metų birželio 30 dieną.
 
-5. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos cukraus įstatyme ir kituose įstatymuose.
+5. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos 2001 m. birželio 19 d. Tarybos reglamente (EB) Nr. 1260/2001 dėl bendro cukraus sektoriaus rinkų organizavimo (su paskutiniais pakeitimais, padarytais 2004 m. sausio 9 d. Komisijos reglamentu (EB) Nr. 39/2004).
+Straipsnio dalies pakeitimai:
+Nr. X-502, 2006-01-20, Žin., 2006, Nr. 17-598 (2006-02-11), i. k. 1061010ISTA000X-502
  
 
 3 straipsnis. Mokesčių objektas
@@ -150,4 +156,14 @@ Lietuvos Respublikos kvotinio cukraus gamybos ir papildomo cukraus gamybos mokes
 4) 2002 m. vasario 20 d. Komisijos reglamentu (EB) Nr. 314/ 2002, nustatančiu išsamias kvotų sistemos taikymo cukraus sektoriuje taisykles, su paskutiniais pakeitimais, padarytais 2003 m. birželio 27 d. Komisijos reglamentu (EB) Nr. 1140/2003.
 
 ______________
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-502, 2006-01-20, Žin., 2006, Nr. 17-598 (2006-02-11), i. k. 1061010ISTA000X-502
+Lietuvos Respublikos kvotinio cukraus gamybos mokesčio ir papildomo cukraus gamybos mokesčio įstatymo 2 straipsnio pakeitimo įstatymas
 
