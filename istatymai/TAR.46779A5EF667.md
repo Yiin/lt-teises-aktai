@@ -45,9 +45,10 @@ Konvencijos 5 straipsnio 3 dalies:
 Respublikos baudžiamojo proceso kodekso 104 straipsnį teisę sankcionuoti
 asmenų, įtariamų padarius nusikaltimą, suėmimą turi ir prokuroras. Ši išlyga galioja
 vienerius metus po minėtos Konvencijos įsigaliojimo Lietuvos Respublikoje;
-2) Lietuvos Respublika daro išlygą, pagal kurią minėtos
-Konvencijos 5 straipsnio reikalavimai nebus taikomi drausminės nuobaudos - arešto
-- skyrimo krašto apsaugos kariams pagal Drausmės statutą atveju.
+2) (neteko galios nuo 2006-02-11).
+Straipsnio pakeitimai:
+Nr. X-499, 2006-01-19,
+Žin., 2006, Nr. 17-595 (2006-02-11)
  
 3. Vadovaujantis Europos žmogaus teisių ir pagrindinių
 laisvių apsaugos konvencijos 25 ir 46 straipsniais, padaryti šie pareiškimai:
@@ -88,9 +89,19 @@ LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL EUROPOS ŽMOGAUS TEISIŲ IR PAGRINDINIŲ
 LAISVIŲ APSAUGOS KONVENCIJOS, JOS KETVIRTOJO, SEPTINTOJO IR VIENUOLIKTOJO
 PROTOKOLŲ RATIFIKAVIMO" PAPILDYMO
  
+2.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. X-499, 2006-01-19,
+Žin., 2006, Nr. 17-595 (2006-02-11)
+ĮSTATYMO „DĖL EUROPOS ŽMOGAUS
+TEISIŲ IR PAGRINDINIŲ LAISVIŲ APSAUGOS KONVENCIJOS, JOS KETVIRTOJO, SEPTINTOJO
+IR VIENUOLIKTOJO PROTOKOLŲ RATIFIKAVIMO“ PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
 (2011-12-22)
-   ausrine.trapinskiene@lrs.lt
+                 
+ausrine.trapinskiene@lrs.lt
