@@ -44,18 +44,9 @@ straipsnis. Pagrindinės Įstatymo sąvokos
 1.
 Apmokestinamieji gaminiai – pagal šį Įstatymą apmokestinami gaminiai,
 nurodyti Įstatymo 3 priedėlyje.
- 
-2 dalies
-redakcija iki 2006 m. sausio 1 d.:
-2.
-Apmokestinamoji pakuotė – pagal šį Įstatymą apmokestinama pripildyta
-pirminė gaminių pakuotė, nurodyta Įstatymo 4 priedėlyje.
-2 dalies
-redakcija nuo 2006 m. sausio 1 d.:
 2.
 Apmokestinamoji pakuotė – pagal šį Įstatymą apmokestinama pripildyta
 gaminių pakuotė, nurodyta Įstatymo 4 priedėlyje.
- 
 3.
 Didžiausios leistinos taršos normatyvas – tam tikro teršalo didžiausio
 kiekio, leidžiamo išmesti į aplinką per laiko vienetą, rodiklis.
@@ -70,7 +61,8 @@ apmokestinamųjų gaminių ar pakuotės naudojimo laikui.
 Gaminių ar pakuotės atliekų perdirbimas – apmokestinamųjų gaminių ar
 pakuotės atliekose esančių medžiagų perdirbimas gamybos proceso metu, įskaitant
 organinį perdirbimą, bet išskyrus naudojimą energijai gauti, norint gaminių ar
-pakuotės atliekose esančias medžiagas panaudoti pagal pirminę ar kitokią paskirtį.
+pakuotės atliekose esančias medžiagas panaudoti pagal pirminę ar kitokią
+paskirtį.
 7.
 Gaminių ar pakuotės atliekų tvarkymas – apmokestinamųjų gaminių ar pakuotės
 atliekų surinkimas, rūšiavimas ir perdirbimas arba naudojimas energijai gauti.
@@ -128,21 +120,12 @@ minimalų pervežimų skaičių) yra vėl pripildoma naudojant papildomus rinkoj
 esančius gaminius arba be jų ar panaudojama tam pačiam tikslui, kuriam ji buvo
 pagaminta. Jei tokia pakartotinio naudojimo pakuotė daugiau neužpildoma, ji
 tampa pakuočių atlieka.
- 
-18 dalies
-redakcija iki 2006 m. sausio 1 d.:
-18.
-Pirminė pakuotė – pakuotė, kuri vartotojui pateikta kartu su gaminiu sudaro
-prekinį vienetą.
-18 dalies
-redakcija nuo 2006 m. sausio 1 d.:
 18.
 Gaminių ir pakuotės atliekų naudojimo ir (ar) perdirbimo užduotys –
 Vyriausybės ir (ar) jos įgaliotos institucijos nustatytas atitinkamų gaminių ir
 pakuotės atliekų naudojimo ir (ar) perdirbimo kiekis, išreikštas procentais nuo
 mokesčio mokėtojo per mokestinį laikotarpį pagaminto ir (ar) įvežto bei
 išleisto į vidaus rinką visos pakuotės ir (ar) apmokestinamųjų gaminių kiekio.
- 
 19.
 Stacionarus taršos šaltinis – taršos objektas, kuris negali būti perkeltas
 iš vienos vietos į kitą, nepakeitus jo paskirties ir iš esmės nesumažinus jo
@@ -150,8 +133,7 @@ vertės.
 20.
 Teršalai – į aplinką išmetamos teršiančios medžiagos, kurios kenksmingai
 veikia žmogaus sveikatą ir aplinką.
-Straipsnio
-pakeitimai:
+Straipsnio pakeitimai:
 Nr. IX-1970,
 2004-01-22, Žin., 2004, Nr. 25-746 (2004-02-14)
 Nr. X-152, 2005-03-31,
@@ -185,17 +167,6 @@ gamintojai ir importuotojai.
  
 5
 straipsnis. Mokesčio lengvatos
-1 dalies
-redakcija iki 2006 m. sausio 1 d.:
-1. Fiziniai ir juridiniai asmenys, įgyvendinantys
-priemones, mažinančias teršalų išmetimą į aplinką iš stacionarių taršos
-šaltinių ne mažiau kaip 10 procentų skaičiuojant nuo nustatyto didžiausios
-leistinos taršos normatyvo, Vyriausybės ar jos įgaliotos institucijos nustatyta
-tvarka atleidžiami nuo mokesčio už tuos teršalus, kurių kiekis sumažinamas 10
-procentų. Atleidimas nuo priemonės įgyvendinimo pradžios galioja ne ilgiau kaip
-3 metus.
-1 dalies
-redakcija nuo 2006 m. sausio 1 d.:
 1. Fiziniai ir juridiniai asmenys,
 įgyvendinantys aplinkosaugos priemones, mažinančias teršalų išmetimą į aplinką
 iš stacionarių taršos šaltinių ne mažiau kaip 5 procentais skaičiuojant nuo
@@ -205,12 +176,11 @@ kiekis sumažinamas 5 procentais, išskyrus atvejus, kai priemonei įgyvendinti
 yra naudojamos valstybės biudžeto lėšos, taip pat kai įgyvendinamos
 aplinkosaugos priemonės yra skirtos biokurui naudoti. Atleidimas nuo mokesčio
 galioja ne ilgiau kaip 3 metus nuo priemonės įgyvendinimo pradžios.
- 
 2.
 Jei teršalų išmetimo iš stacionarių taršos šaltinių sumažinimo priemonė
-nustatytu laiku neįgyvendinama arba negaunamas planuotas efektas, mokestis už aplinkos
-teršimą už visą laikotarpį sumokamas šio Įstatymo nustatyta tvarka arba
-išieškomas Mokesčių administravimo įstatymo nustatyta tvarka.
+nustatytu laiku neįgyvendinama arba negaunamas planuotas efektas, mokestis už
+aplinkos teršimą už visą laikotarpį sumokamas šio Įstatymo nustatyta tvarka
+arba išieškomas Mokesčių administravimo įstatymo nustatyta tvarka.
 3.
 Nuo mokesčio už aplinkos teršimą iš mobilių taršos šaltinių atleidžiami:
 1) fiziniai ir juridiniai
@@ -226,14 +196,10 @@ verčiasi individualia veikla, kaip ji apibrėžta Gyventojų pajamų mokesčio
 asmenys, teršiantys iš transporto priemonių, naudojančių nustatytus standartus
 atitinkančius biodegalus, ir pateikę biodegalų sunaudojimą patvirtinančius
 dokumentus.
- 
-5 straipsnis
-papildomas nauja 4 dalimi  nuo 2006 m. sausio 1 d.:
-4. Fiziniai ir juridiniai asmenys,
-pateikę biokuro sunaudojimą patvirtinančius dokumentus, už išmetamus į
-atmosferą teršalus, susidarančius naudojant biokurą, nuo mokesčio už aplinkos
-teršimą iš stacionarių taršos šaltinių yra atleidžiami.
- 
+4. Fiziniai ir juridiniai asmenys, pateikę
+biokuro sunaudojimą patvirtinančius dokumentus, už išmetamus į atmosferą
+teršalus, susidarančius naudojant biokurą, nuo mokesčio už aplinkos teršimą iš
+stacionarių taršos šaltinių yra atleidžiami.
 5. Fiziniai ir juridiniai
 asmenys, kurie patys arba per trečiuosius asmenis išveža iš Lietuvos
 Respublikos teritorijos pagal šį Įstatymą apmokestinamus gaminius ir (ar) į
@@ -256,14 +222,13 @@ nuo mokesčio už tris ketvirtadalius apmokestinamųjų gaminių ir (ar)
 apmokestinamosios pakuotės kiekio. Jei mokesčio mokėtojas įvykdė pusę
 Vyriausybės nustatytos gaminių bei pakuotės atliekų naudojimo ir (ar)
 perdirbimo užduoties, jis atleidžiamas nuo mokesčio už pusę apmokestinamųjų
-gaminių ir (ar) apmokestinamosios pakuotės kiekio. Jei mokesčio mokėtojas
-įvykdė ketvirtadalį Vyriausybės nustatytos gaminių bei pakuotės atliekų
-naudojimo ir (ar) perdirbimo užduoties, jis atleidžiamas nuo mokesčio už
-ketvirtadalį apmokestinamųjų gaminių ir (ar) apmokestinamosios pakuotės kiekio.
-Mokesčio mokėtojas, vykdęs užduotis, Vyriausybės ar jos įgaliotos institucijos
-nustatyta tvarka pateikia dokumentus, patvirtinančius šių gaminių ar pakuotės
-atliekų pakartotinai panaudotą arba perdirbtą ar panaudotą energijai gauti
-kiekį.
+gaminių ir (ar) apmokestinamosios pakuotės kiekio. Jei mokesčio mokėtojas įvykdė
+ketvirtadalį Vyriausybės nustatytos gaminių bei pakuotės atliekų naudojimo ir
+(ar) perdirbimo užduoties, jis atleidžiamas nuo mokesčio už ketvirtadalį
+apmokestinamųjų gaminių ir (ar) apmokestinamosios pakuotės kiekio. Mokesčio
+mokėtojas, vykdęs užduotis, Vyriausybės ar jos įgaliotos institucijos nustatyta
+tvarka pateikia dokumentus, patvirtinančius šių gaminių ar pakuotės atliekų
+pakartotinai panaudotą arba perdirbtą ar panaudotą energijai gauti kiekį.
 7. Nuo mokesčio
 už aplinkos teršimą atleidžiamas Lietuvos bankas.
 Straipsnio pakeitimai:
@@ -280,8 +245,9 @@ X-152,
 2005-03-31, Žin., 2005, Nr. 47-1560 (2005-04-12), atitaisymas skelbtas:
 Žin., 2005, Nr. 49
  
-6 straipsnis.
-Teršalų ir gaminių bei pakuotės apmokestinimo ir tarifų nustatymo tvarka
+6
+straipsnis. Teršalų ir gaminių bei pakuotės apmokestinimo ir tarifų nustatymo
+tvarka
 1.
 Mokesčio už aplinkos teršimą tarifai ir tarifų koeficientai nustatomi teršalams
 ir teršalų grupėms pagal jų kenksmingumą aplinkai.
@@ -307,8 +273,8 @@ grupes nustato ir tvirtina Vyriausybė ar jos įgaliotos institucijos.
 Apmokestinamųjų gaminių sąrašas ir mokesčio už aplinkos teršimą šių gaminių
 atliekomis tarifai pateikti šio Įstatymo 3 priedėlyje.
 8.
-Apmokestinamosios pakuotės rūšys ir mokesčio už aplinkos teršimą pakuotės atliekomis
-tarifai pateikti šio Įstatymo 4 priedėlyje.
+Apmokestinamosios pakuotės rūšys ir mokesčio už aplinkos teršimą pakuotės
+atliekomis tarifai pateikti šio Įstatymo 4 priedėlyje.
 9.
 Mokesčio už aplinkos teršimą tarifai, išskyrus tuos, kurie nustatomi kaip tam
 tikras kainos procentas, indeksuojami Vyriausybės ar jos įgaliotų institucijų
@@ -379,8 +345,8 @@ aplinką apskaitos, teršalų kiekis nustatomas pagal Vyriausybės ar jos įgali
 institucijų patvirtintas metodikas.
 3.
 Už išmestą iš stacionarių taršos šaltinių normatyvus viršijantį teršalų kiekį
-ar nuslėptą teršalų ir (ar) apmokestinamųjų gaminių bei apmokestinamosios pakuotės
-kiekį mokestis už aplinkos teršimą mokamas taikant didesnį tarifą. 
+ar nuslėptą teršalų ir (ar) apmokestinamųjų gaminių bei apmokestinamosios
+pakuotės kiekį mokestis už aplinkos teršimą mokamas taikant didesnį tarifą. 
 4.
 Mokestis už aplinkos teršimą taikant didesnį tarifą apskaičiuojamas:
 1)
@@ -405,8 +371,8 @@ Mokestis už aplinkos teršimą, išskyrus mokestį už aplinkos teršimą gamin
 pakuotės atliekomis, paskirstomas taip:
 1)
 30 procentų mokama į valstybės biudžetą. Šios lėšos naudojamos pagal tikslinę
-paskirtį Lietuvos aplinkos apsaugos investicijų fondo programoje numatytiems aplinkos
-apsaugos investiciniams projektams finansuoti; 
+paskirtį Lietuvos aplinkos apsaugos investicijų fondo programoje numatytiems
+aplinkos apsaugos investiciniams projektams finansuoti; 
 2) 70 procentų mokama į savivaldybės, kurios
 teritorijoje yra taršos objektas, biudžetą. Šios lėšos naudojamos pagal
 tikslinę paskirtį Savivaldybių aplinkos apsaugos rėmimo specialiojoje
@@ -423,8 +389,8 @@ valstybės biudžetą. Šios lėšos naudojamos Aplinkos apsaugos rėmimo progra
 įstatyme numatytiems tikslams įgyvendinti.
 4.
 Nesumokėtas mokestis už aplinkos teršimą sumokamas arba išieškomas,
-delspinigiai skaičiuojami, permokėta mokesčio suma grąžinama Mokesčių
-administravimo įstatymo nustatyta tvarka. 
+delspinigiai skaičiuojami, permokėta mokesčio suma grąžinama Mokesčių administravimo
+įstatymo nustatyta tvarka. 
 Straipsnio
 pakeitimai:
 Nr.
@@ -440,11 +406,23 @@ gaminių ir (ar) pakuotės atliekomis tarifus, galioja iki 2005 m. sausio 1 d.
 Kiekvienam kitam 5 metų periodui mokesčio už aplinkos teršimą tarifai, išskyrus
 mokesčio už aplinkos teršimą gaminių ir (ar) pakuotės atliekomis tarifus,
 nustatomi atskiru įstatymu prieš 2 metus iki jų įsigaliojimo.
+ 
+3 dalies redakcija iki 2007 m. sausio 1
+d.:
 3.
 Mokesčio už aplinkos teršimą gaminių ir (ar) pakuotės atliekomis tarifų
 maksimalus galiojimo terminas neribojamas, bet yra ne trumpesnis kaip vieneri
 metai. Tarifai gali būti keičiami ar papildomi ne vėliau kaip prieš vienerius
 metus iki jų įsigaliojimo.
+3 dalies redakcija nuo 2007 m. sausio 1
+d.:
+3. Mokesčio už
+aplinkos teršimą gaminių ir (ar) pakuotės atliekomis tarifų maksimalus
+galiojimo terminas neribojamas, bet yra ne trumpesnis kaip vieneri metai.
+Straipsnio
+pakeitimai:
+Nr. X-516, 2006-03-16,
+Žin., 2006, Nr. 32-1111 (2006-03-23)
  
 12
 straipsnis. Pasiūlymai Vyriausybei
@@ -985,7 +963,7 @@ V
                                                                                                 Lietuvos
 Respublikos                                                                                                              2002
 m. sausio 22 d. 
-                                                                                                įstatymo
+                                                                                                įstatymo
 Nr. IX-720
                                                                                                 2
 priedėlis                                
@@ -1196,6 +1174,8 @@ V
  
 
 
+3
+priedėlio redakcija iki 2007 m. sausio 1 d.:
 Lietuvos Respublikos
                                                                                                 2002
 m. sausio 22 d.
@@ -1296,7 +1276,9 @@ ex85.07
 
 
 
-3.      Gyvsidabrio lempos
+3.     
+  Gyvsidabrio
+  lempos
 
 
 8539.32.10
@@ -1308,8 +1290,9 @@ ex85.07
 
 
 
-4.      Galvaniniai elementai ir
-  akumuliatoriai, išskyrus nurodytus 2 punkte
+4.     
+  Galvaniniai
+  elementai ir akumuliatoriai, išskyrus nurodytus 2 punkte
 
 
 8506.30;
@@ -1322,8 +1305,9 @@ ex85.07
 
 
 
-5.      Vidaus degimo variklių degalų
-  arba tepalų filtrai
+5.     
+  Vidaus
+  degimo variklių degalų arba tepalų filtrai
 
 
 8421.23
@@ -1335,8 +1319,9 @@ ex85.07
 
 
 
-6.      Vidaus degimo variklių
-  įsiurbimo oro filtrai
+6.     
+  Vidaus
+  degimo variklių įsiurbimo oro filtrai
 
 
 8421.31
@@ -1348,8 +1333,9 @@ ex85.07
 
 
 
-7.      Automobilių hidrauliniai
-  (tepaliniai) amortizatoriai
+7.     
+  Automobilių
+  hidrauliniai (tepaliniai) amortizatoriai
 
 
 8708.80
@@ -1361,111 +1347,182 @@ ex85.07
 
 
  
-¹ Prekių kodai pateikti pagal Europos
-Bendrijos kombinuotosios nomenklatūros versiją, patvirtintą 2003 m. rugsėjo 11
-d. Komisijos reglamentu (EB) Nr. 1789/2003, iš dalies keičiančiu Tarybos
-reglamento (EEB) Nr. 2658/87 dėl tarifų ir statistinės prekių nomenklatūros bei
-dėl bendrojo muitų tarifo I priedą.
+¹ Prekių kodai pateikti pagal
+Europos Bendrijos kombinuotosios nomenklatūros versiją, patvirtintą 2003 m.
+rugsėjo 11 d. Komisijos reglamentu (EB) Nr. 1789/2003, iš dalies keičiančiu
+Tarybos reglamento (EEB) Nr. 2658/87 dėl tarifų ir statistinės prekių
+nomenklatūros bei dėl bendrojo muitų tarifo I priedą.
+ 
+3
+priedėlio redakcija nuo 2007 m. sausio 1 d.:
+                                                                                                Lietuvos
+Respublikos
+                                                                                                1999
+m. gegužės 13 d.
+                                                                                                įstatymo
+Nr. VIII-1183
+                                                                                                3
+priedėlis
+                                                                                                (Lietuvos
+Respublikos
+                                                                                                2006
+m. kovo 16 d.
+                                                                                                įstatymo
+Nr. X-516 redakcija)
+ 
+APMOKESTINAMŲJŲ GAMINIŲ
+SĄRAŠAS IR MOKESČIO TARIFAI
+ 
+
+
+
+
+Gaminys
+
+
+Kodas(1)
+
+
+Tarifas
+
+
+
+
+
+1.
+  Padangos, sveriančios daugiau kaip 3 kg:
+
+
+ 
+
+
+ 
+
+
+
+
+1.1.
+  naujos
+
+
+ex40.11
+
+
+0,30
+  Lt už 1 kg
+
+
+
+
+1.2.
+  restauruotos
+
+
+ex40.12
+
+
+0,30
+  Lt už 1 kg
+
+
+
+
+1.3.
+  naudotos
+
+
+ex40.12
+
+
+0,36
+  Lt už 1 kg
+
+
+
+
+2.
+  Akumuliatoriai
+
+
+85.07
+
+
+0,50
+  Lt už 1 kg
+
+
+
+
+3.
+  Galvaniniai elementai
+
+
+85.06
+
+
+0,50
+  Lt už 1 kg
+
+
+
+
+4.
+  Vidaus degimo variklių degalų arba tepalų filtrai
+
+
+8421.23
+
+
+1
+  Lt už vienetą
+
+
+
+
+5.
+  Vidaus degimo variklių įsiurbimo oro filtrai
+
+
+8421.31
+
+
+1
+  Lt už vienetą
+
+
+
+
+6.
+  Automobilių hidrauliniai (tepaliniai) amortizatoriai
+
+
+8708.80
+
+
+3
+  Lt už vienetą
+
+
+
+ 
+¹ Prekių kodai
+pateikti pagal Europos Bendrijos kombinuotosios nomenklatūros versiją,
+patvirtintą 2003 m. rugsėjo 11 d. Komisijos reglamentu (EB) Nr. 1789/2003, iš
+dalies keičiančiu Tarybos reglamento (EEB) Nr. 2658/87 dėl tarifų ir statistinės
+prekių nomenklatūros bei dėl bendrojo muitų tarifo I priedą.
 Priedėlio pakeitimai:
 Nr. IX-1547,
 2003-04-29, Žin., 2003, Nr. 48-2108 (2003-05-15)
 Nr. X-152, 2005-03-31,
 Žin., 2005, Nr. 47-1560 (2005-04-12)
+Nr. X-516, 2006-03-16,
+Žin., 2006, Nr. 32-1111 (2006-03-23)
  
 
 
- 
-4
-priedėlio redakcija iki 2006 m. sausio 1 d.:
-                                                                                                Lietuvos
-Respublikos                                                                                                              2002
-m. sausio 22 d. 
-                                                                                                įstatymo
-Nr. IX-720
-                                                                                                4
-priedėlis
- 
-APMOKESTINAMOSIOS PAKUOTĖS RŪŠYS IR MOKESČIO
-TARIFAI
- 
-
-
-
-Pakuotės
-  rūšys
-
-
-Tarifai
-
-
-
-
-1.      Stiklinė pirminė pakuotė
-
-
-0,05
-  Lt/l pripildytos pakuotės tūrio arba
-0,09
-  Lt/kg pakuotės svorio(1)
-
-
-
-
-2.      Plastmasinė pirminė pakuotė
-
-
-0,07
-  Lt/l pripildytos pakuotės tūrio arba 
-1,8
-  Lt/kg pakuotės svorio(1)
-
-
-
-
-3.      Kombinuota pirminė pakuotė 
-
-
-0,07
-  Lt/l pripildytos pakuotės tūrio arba
-2
-  Lt/kg pakuotės svorio(1)
-
-
-
-
-4.      Metalinė pirminė pakuotė
-
-
-0,09
-  Lt/l pripildytos pakuotės tūrio arba
-2,60
-  Lt/kg pakuotės svorio(1)
-
-
-
-
-5.      Popierinė ir kartoninė pirminė
-  pakuotė
-
-
-0,1
-  Lt/kg pakuotės svorio
-
-
-
-
-6.      Kita pirminė pakuotė
-
-
-0,2
-  Lt/kg pakuotės svorio
-
-
-
- 
-4
-priedėlio redakcija nuo 2006 m. sausio 1 d.:
-                                                                                                Lietuvos
+4 priedėlio redakcija iki 2007 m.
+sausio 1 d.:
+                                                                                                Lietuvos
 Respublikos
                                                                                                 2002
 m. sausio 22 d.
@@ -1495,7 +1552,9 @@ Tarifai
 
 
 
-1.      Stiklinė pakuotė
+1.     
+  Stiklinė
+  pakuotė
 
 
 0,09
@@ -1504,7 +1563,9 @@ Tarifai
 
 
 
-2.      Plastmasinė pakuotė
+2.     
+  Plastmasinė
+  pakuotė
 
 
 1,8
@@ -1513,7 +1574,9 @@ Tarifai
 
 
 
-3.      Kombinuota pakuotė
+3.     
+  Kombinuota
+  pakuotė
 
 
 2
@@ -1522,7 +1585,9 @@ Tarifai
 
 
 
-4.      Metalinė pakuotė
+4.     
+  Metalinė
+  pakuotė
 
 
 2,60
@@ -1531,7 +1596,9 @@ Tarifai
 
 
 
-5.      Popierinė ir kartoninė  pakuotė
+5.     
+  Popierinė
+  ir kartoninė  pakuotė
 
 
 0,1
@@ -1540,7 +1607,9 @@ Tarifai
 
 
 
-6.      Kita pakuotė
+6.     
+  Kita
+  pakuotė
 
 
 0,2
@@ -1548,9 +1617,137 @@ Tarifai
 
 
 
+ 
+4
+priedėlio redakcija nuo 2007 m. sausio 1 d.:
+                                                                                                Lietuvos
+Respublikos
+                                                                                                1999
+m. gegužės 13 d.
+                                                                                                įstatymo
+Nr. VIII-1183
+                                                                                                4
+priedėlis
+                                                                                                (Lietuvos
+Respublikos
+                                                                                                2006
+m. kovo 16 d.
+                                                                                                įstatymo
+Nr. X-516 redakcija)
+ 
+APMOKESTINAMOSIOS PAKUOTĖS
+RŪŠYS IR MOKESČIO TARIFAI
+ 
+
+
+
+Pakuotės rūšys
+
+
+Tarifai
+
+
+ 
+
+
+
+
+Stiklinė
+  pakuotė
+
+
+0,2
+  Lt/kg pakuotės svorio
+
+
+ 
+
+
+
+
+Plastikinė
+  pakuotė
+
+
+1,8
+  Lt/kg pakuotės svorio
+
+
+ 
+
+
+
+
+PET
+  (polietileno tereftalatas) pakuotė
+
+
+2,0
+  Lt/kg pakuotės svorio
+
+
+ 
+
+
+
+
+Kombinuota
+  pakuotė
+
+
+2
+  Lt/kg pakuotės svorio
+
+
+ 
+
+
+
+
+Metalinė
+  pakuotė
+
+
+2,60
+  Lt/kg pakuotės svorio
+
+
+ 
+
+
+
+
+Popierinė
+  ir kartoninė pakuotė
+
+
+0,1
+  Lt/kg pakuotės svorio
+
+
+ 
+
+
+
+
+Kita
+  pakuotė
+
+
+0,2
+  Lt/kg pakuotės svorio
+
+
+ 
+
+
+
+ 
 Priedėlio pakeitimai:
 Nr. X-152, 2005-03-31,
 Žin., 2005, Nr. 47-1560 (2005-04-12)
+Nr. X-516, 2006-03-16,
+Žin., 2006, Nr. 32-1111 (2006-03-23)
  
 
 
@@ -2063,9 +2260,9 @@ Lietuvos Respublikos Seimas,
 Įstatymas
 Nr. IX-1265,
 2002-12-10, Žin., 2002, Nr. 123-5550 (2002-12-24)
-MOKESČIO UŽ APLINKOS TERŠIMĄ
-PAKEITIMO ĮSTATYMO 1 STRAIPSNIU PAKEISTO MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO
-5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+MOKESČIO UŽ APLINKOS TERŠIMĄ PAKEITIMO
+ĮSTATYMO 1 STRAIPSNIU PAKEISTO MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO 5
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis Įstatymas įsigalioja nuo 2003
 m. sausio 1 d.
  
@@ -2134,13 +2331,25 @@ PAKEITIMO ĮSTATYMAS
 Įstatymo
 atitaisymas skelbtas: Žin., 2005, Nr. 49 (2005-04-16)
  
+9.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-516,
+2006-03-16, Žin., 2006, Nr. 32-1111 (2006-03-23)
+MOKESČIO
+UŽ APLINKOS TERŠIMĄ ĮSTATYMO 11 STRAIPSNIO, 3 IR 4 PRIEDĖLIŲ PAKEITIMO
+ĮSTATYMAS
+Šis įstatymas
+įsigalioja nuo 2007 m.sausio 1 d.
+ 
 ***
 Pabaiga ***
  
 Redagavo:
-Aušrinė Trapinskienė (2005-04-18)
-       
-          autrap@lrs.lt
+Aušrinė Trapinskienė (2006-03-23)
+                 
+autrap@lrs.lt
  
 
 
@@ -2158,8 +2367,3 @@ kietąsias
 daleles, susidarančias deginant kietąjį, skystąjį arba dujinį kurą;
 asbesto
 turinčias kietąsias daleles.
-
-
-1 Tarifas tūrio ar svorio vienetui
-pasirenkamas atsižvelgiant į mokesčio mokėtojų tvarkomą apmokestinamųjų gaminių
-bei jų pakuočių apskaitą.
