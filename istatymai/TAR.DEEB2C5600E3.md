@@ -1333,13 +1333,19 @@ nutarimas gali būti peržiūrėtas jo paties iniciatyva, jeigu:
             1) paaiškėjo naujų esminių
 aplinkybių, kurios buvo nežinomos Konstituciniam Teismui nutarimo priėmimo
 metu;
-            2) pasikeitė Konstitucijos
-norma, kurios pagrindu nutarimas buvo priimtas.
+            *2) pasikeitė
+Konstitucijos norma, kurios pagrindu nutarimas buvo priimtas.
             Tokiu atveju Konstitucinis
 Teismas priima sprendimą ir pradeda bylą nagrinėti iš naujo.
             Konstitucinio Teismo
 sprendimas dėl savo nutarimo aiškinimo gali būti peržiūrėtas ir tuo atveju, kai
 nutarimas buvo išaiškintas ne pagal tikrąjį jo turinį.
+*Pastaba. Pripažinti, kad Lietuvos Respublikos Konstitucinio
+Teismo įstatymo 62 straipsnio 1 dalies 2 punktas (Žin., 1993, Nr. 6-120) prieštarauja
+Lietuvos Respublikos Konstitucijos 5 straipsnio 2 daliai, 107 straipsnio 1, 2
+dalims, konstituciniam teisinės valstybės principui.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+2006-03-28, Žin., 2006, Nr. 36-1292 (2006-03-31)
  
 IV SKYRIUS.
 PRAŠYMŲ IŠTIRTI TEISĖS AKTŲ ATITIKIMĄ
@@ -1347,8 +1353,8 @@ KONSTITUCIJAI
 TEISENA
  
             63
-straipsnis. Bylų dėl teisės aktų atitikimo Konstitucijai žinybingumas
-Konstituciniam 
+straipsnis. Bylų dėl teisės aktų atitikimo Konstitucijai žinybingumas Konstituciniam
+
 Teismui 
             Konstitucinis Teismas
 nagrinėja bylas dėl:
@@ -1390,8 +1396,8 @@ Prezidento akto - ne mažesnė kaip 1/5 visų Seimo narių grupė ir teismai;
             3) dėl Vyriausybės akto - ne
 mažesnė kaip 1/5 visų Seimo narių grupė, teismai ir Respublikos Prezidentas. 
  
-            66
-straipsnis. Prašymo ištirti teisės akto atitikimą Konstitucijai turinys 
+            66 straipsnis.
+Prašymo ištirti teisės akto atitikimą Konstitucijai turinys 
             Prašyme ištirti teisės akto
 atitikimą Konstitucijai turi būti nurodyta:
             1) adresatas - Konstitucinis
@@ -1426,8 +1432,8 @@ jų parašai turi būti patvirtinti Seimo Pirmininko ar jo pavaduotojo parašu.
             1) ginčijamo teisės akto
 viso teksto nuorašas;
             2) įgaliojimas ar kitas
-dokumentas, patvirtinantis atstovo įgaliojimus, išskyrus atvejus, kai atstovaujama
-pagal pareigas;
+dokumentas, patvirtinantis atstovo įgaliojimus, išskyrus atvejus, kai
+atstovaujama pagal pareigas;
             3) visų dokumentų ir kitos
 medžiagos, surašytų ne lietuvių kalba, notaro patvirtinti vertimai į lietuvių
 kalbą.
@@ -1442,8 +1448,8 @@ nuorašais po 30 egzempliorių. Konstitucinio Teismo pirmininkas prireikus gali
 kiekvieno iš jų. 
  
             67
-straipsnis. Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo,
-apygardų ir
+straipsnis. Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų
+ir
 apylinkių teismų
 prašymų Konstituciniam Teismui turinys 
             Jei yra pagrindo manyti, kad įstatymas ar
@@ -1452,8 +1458,8 @@ Konstitucijai, teismas (teisėjas) sustabdo šios bylos nagrinėjimą ir,
 atsižvelgdamas į Konstitucinio Teismo kompetenciją, kreipiasi į jį su prašymu
 spręsti, ar šis įstatymas ar kitas teisės aktas atitinka Konstituciją.
             Lietuvos Aukščiausiasis
-Teismas, Lietuvos apeliacinis teismas, apygardų ir apylinkių teismai kreipiasi
-į Konstitucinį Teismą nutartimi. Nutartyje turi būti nurodyta:
+Teismas, Lietuvos apeliacinis teismas, apygardų ir apylinkių teismai kreipiasi į
+Konstitucinį Teismą nutartimi. Nutartyje turi būti nurodyta:
             1) nutarties priėmimo laikas
 ir vieta;
             2) nutartį priėmusio teismo
@@ -1507,10 +1513,9 @@ tebegalioja tuo klausimu priimtas Konstitucinio Teismo nutarimas;
 pradėjęs nagrinėti bylą dėl to paties dalyko;
             5) prašymas grindžiamas ne
 teisiniais motyvais.
-            Konstitucinis Teismas,
-atsisakydamas nagrinėti prašymą ištirti teisės akto atitikimą Konstitucijai,
-priima motyvuotą sprendimą, kurio nuorašas įteikiamas arba išsiunčiamas
-pareiškėjui.
+            Konstitucinis Teismas, atsisakydamas
+nagrinėti prašymą ištirti teisės akto atitikimą Konstitucijai, priima motyvuotą
+sprendimą, kurio nuorašas įteikiamas arba išsiunčiamas pareiškėjui.
             Jeigu atsisakymo nagrinėti
 prašymą pagrindai buvo nustatyti pradėjus nagrinėti bylą Konstitucinio Teismo
 posėdyje, priimamas sprendimas nutraukti bylą.
@@ -1555,13 +1560,14 @@ nurodoma Konstitucinio Teismo nutarime.
  
             72
 straipsnis. Teisės akto pripažinimo prieštaraujančiu Konstitucijai pasekmės 
-            Lietuvos Respublikos įstatymas
-(ar jo dalis) arba kitas Seimo aktas (ar jo dalis), Respublikos Prezidento
-aktas, Vyriausybės aktas (ar jo dalis) negali būti taikomi nuo tos dienos, kai
-oficialiai paskelbiamas Konstitucinio Teismo nutarimas, kad atitinkamas aktas
-(ar jo dalis) prieštarauja Lietuvos Respublikos Konstitucijai. Tos pačios
-pasekmės atsiranda, kai Konstitucinis Teismas priima nutarimą, kad Respublikos
-Prezidento aktas ar Vyriausybės aktas (ar jo dalis) prieštarauja įstatymams.
+            Lietuvos Respublikos
+įstatymas (ar jo dalis) arba kitas Seimo aktas (ar jo dalis), Respublikos
+Prezidento aktas, Vyriausybės aktas (ar jo dalis) negali būti taikomi nuo tos
+dienos, kai oficialiai paskelbiamas Konstitucinio Teismo nutarimas, kad
+atitinkamas aktas (ar jo dalis) prieštarauja Lietuvos Respublikos
+Konstitucijai. Tos pačios pasekmės atsiranda, kai Konstitucinis Teismas priima
+nutarimą, kad Respublikos Prezidento aktas ar Vyriausybės aktas (ar jo dalis)
+prieštarauja įstatymams.
             Konstitucinio Teismo priimti
 nutarimai turi įstatymo galią ir yra privalomi visoms valdžios institucijoms,
 teismams, visoms įmonėms, įstaigoms bei organizacijoms, pareigūnams ir
@@ -1593,8 +1599,8 @@ sveikatos būklė leidžia jam ir toliau eiti pareigas;
 tarptautinės sutartys neprieštarauja Konstitucijai. Prašyti išvados dėl
 tarptautinės sutarties galima ir iki jos ratifikavimo Seime;
             4) ar Seimo narių ir
-valstybės pareigūnų, kuriems pradėta apkaltos byla, konkretūs veiksmai prieštarauja
-Konstitucijai. 
+valstybės pareigūnų, kuriems pradėta apkaltos byla, konkretūs veiksmai
+prieštarauja Konstitucijai. 
  
             74
 straipsnis. Paklausimo padavimas Konstituciniam Teismui 
@@ -1607,8 +1613,8 @@ tarptautinių sutarčių.
             75
 straipsnis. Vada Konstitucinio Teismo išvadai rengti 
             Vada Konstitucinio Teismo
-išvadai rengti yra šio įstatymo nustatyta tvarka ir nustatytos formos
-paklausimo padavimas Konstituciniam Teismui. 
+išvadai rengti yra šio įstatymo nustatyta tvarka ir nustatytos formos paklausimo
+padavimas Konstituciniam Teismui. 
  
             76
 straipsnis. Paklausimo turinys 
@@ -1656,16 +1662,16 @@ nuorašų - iki 30 egzempliorių kiekvieno iš jų.
  
             77
 straipsnis. Paklausimas dėl rinkimų įstatymų pažeidimo 
-            Su paklausimu, ar nebuvo
-pažeisti rinkimų įstatymai per Respublikos Prezidento ar Seimo narių rinkimus,
-šio įstatymo 74 straipsnyje nurodytos institucijos kreipiasi į Konstitucinį
-Teismą ne vėliau kaip per 3 dienas po to, kai paskelbiami oficialūs rinkimų
+            Su paklausimu, ar nebuvo pažeisti
+rinkimų įstatymai per Respublikos Prezidento ar Seimo narių rinkimus, šio
+įstatymo 74 straipsnyje nurodytos institucijos kreipiasi į Konstitucinį Teismą
+ne vėliau kaip per 3 dienas po to, kai paskelbiami oficialūs rinkimų
 rezultatai.
-Konstitucinis
-Teismas tiria ir vertina tik Vyriausiosios rinkimų komisijos sprendimus arba
-jos atsisakymą nagrinėti skundus dėl rinkimų įstatymų pažeidimų tais atvejais,
-kai sprendimai buvo priimti ar kita šios komisijos veika buvo padaryta
-pasibaigus balsavimui renkant Seimo narius ar Respublikos Prezidentą.
+Konstitucinis Teismas
+tiria ir vertina tik Vyriausiosios rinkimų komisijos sprendimus arba jos
+atsisakymą nagrinėti skundus dėl rinkimų įstatymų pažeidimų tais atvejais, kai
+sprendimai buvo priimti ar kita šios komisijos veika buvo padaryta pasibaigus
+balsavimui renkant Seimo narius ar Respublikos Prezidentą.
             Paklausimas turi būti
 išnagrinėtas ne vėliau kaip per 72 valandas nuo jo įteikimo Konstituciniam
 Teismui. Į šiame straipsnyje nurodytus terminus įskaitomos ir nedarbo dienos. 
@@ -1681,9 +1687,8 @@ Konstituciniam Teismui, ar Respublikos Prezidento sveikatos būklė leidžia jam
 ir toliau eiti pareigas, turi teisę pateikti tik Seimas. Paklausimas turi būti
 patvirtintas nutarimu, priimtu Seimo statuto nustatyta tvarka.
             Prie paklausimo ir
-atitinkamo Seimo nutarimo turi būti pridėta Seimo patvirtintos gydytojų
-komisijos išvada. Esant reikalui, pridedami kiti sveikatos būklę apibūdinantys
-įrodymai. 
+atitinkamo Seimo nutarimo turi būti pridėta Seimo patvirtintos gydytojų komisijos
+išvada. Esant reikalui, pridedami kiti sveikatos būklę apibūdinantys įrodymai. 
 Straipsnio
 pakeitimai:
 Nr. IX-1797,
@@ -1800,8 +1805,8 @@ Teismas turi aparatą. Jo struktūrą ir nuostatus tvirtina Konstitucinis Teisma
 Konstitucinio Teismo aparatui vadovauja Konstitucinio Teismo kancleris. Jis
 pavaldus Konstitucinio Teismo pirmininkui.
 Konstitucinio
-Teismo kancleris, Konstitucinio Teismo aparato valstybės tarnautojai ir kiti darbuotojai
-į pareigas priimami įstatymų nustatyta tvarka.
+Teismo kancleris, Konstitucinio Teismo aparato valstybės tarnautojai ir kiti
+darbuotojai į pareigas priimami įstatymų nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr. IX-1797,
@@ -1839,11 +1844,10 @@ atvaizdu ir pavadinimu "Lietuvos Respublikos Konstitucinis Teismas".
  
             90
 straipsnis. Konstitucinio Teismo buveinė 
-            Nuolatinė Konstitucinio Teismo
-buveinė yra Vilniaus miestas.
+            Nuolatinė Konstitucinio
+Teismo buveinė yra Vilniaus miestas.
             Konstitucinio Teismo
 posėdžiai vyksta jo nuolatinėje būstinėje.
- 
  
  
 LAIKINAI EINANTIS RESPUBLIKOS 
@@ -1914,8 +1918,25 @@ TEISMO ĮSTATYMO 7, 13, 17, 18, 19, 26, 77, 78, 84 IR 86 STRAIPSNIŲ PAKEITIMO
 ***
 Pabaiga ***
  
+Konstitucinio
+Teismo nutarimai:
+ 
+1.
+Lietuvos
+Respublikos Konstitucinis Teismas, Nutarimas
+2006-03-28,
+Žin., 2006, Nr. 36-1292 (2006-03-31)
+DĖL
+LIETUVOS RESPUBLIKOS KONSTITUCINIO TEISMO ĮSTATYMO 62 STRAIPSNIO 1 DALIES 2
+PUNKTO, 69 STRAIPSNIO 4 DALIES (1996 M. LIEPOS 11 D. REDAKCIJA), LIETUVOS
+RESPUBLIKOS TEISMŲ ĮSTATYMO 11 STRAIPSNIO 3 DALIES (2002 M. SAUSIO 24 D.
+REDAKCIJA), 96 STRAIPSNIO 2 DALIES (2002 M. SAUSIO 24 D. REDAKCIJA) ATITIKTIES
+LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+ 
+***
+Pabaiga ***
  
 Redagavo:
-Aušrinė Trapinskienė (2003-11-19)
+Aušrinė Trapinskienė (2006-04-04)
                  
 autrap@lrs.lt
