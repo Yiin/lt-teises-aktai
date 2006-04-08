@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FAA1DD73CF"
 
 # Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas
 
+Suvestinė redakcija nuo 2006-04-08 iki 2006-06-09
+ 
+Įstatymas paskelbtas: Žin. 2005, Nr. 76-2741, i. k. 1051010ISTA000X-233
+ 
 LIETUVOS RESPUBLIKOS
 NEKILNOJAMOJO TURTO MOKESČIO
 ĮSTATYMAS
@@ -406,7 +410,10 @@ NEKILNOJAMOJO TURTO MOKESTINĖ VERTĖ
 10 straipsnis. Skundai ir prašymai dėl nustatytos nekilnojamojo turto mokestinės vertės
 
 
-1. Mokesčio mokėtojų skundai dėl nustatytos nekilnojamojo turto mokestinės vertės (toliau – skundas) ir prašymai dėl individualiu vertinimo būdu nustatytos nekilnojamojo turto vertės naudojimo apskaičiuojant mokestinę vertę (toliau – prašymas) pateikiami turto vertintojui per vieną mėnesį nuo nekilnojamojo turto mokestinės vertės nustatymo. Šiuos skundus ir prašymus turto vertintojas išnagrinėja per vieną mėnesį nuo skundo arba prašymo gavimo dienos ir priima sprendimą. Sprendimas gali būti skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+1. Mokesčio mokėtojų skundai dėl nustatytos nekilnojamojo turto mokestinės vertės (toliau – skundas) ir prašymai dėl individualiu vertinimo būdu nustatytos nekilnojamojo turto vertės naudojimo apskaičiuojant mokestinę vertę (toliau -prašymas) pateikiami turto vertintojui per tris mėnesius nuo nekilnojamojo turto mokestinės vertės nustatymo (išskyrus 2006 metų mokestinį laikotarpį, kai skundai ir prašymai turto vertintojui pateikiami per šešis mėnesius nuo nekilnojamojo turto mokestinės vertės nustatymo). Šiuos skundus ir prašymus turto vertintojas išnagrinėja per du mėnesius nuo skundo ar prašymo gavimo dienos ir priima sprendimą. Sprendimas gali būti skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. X-532, 2006-03-30, Žin., 2006, Nr. 39-1380 (2006-04-08), i. k. 1061010ISTA000X-532
+ 
 
 
 
@@ -416,7 +423,9 @@ NEKILNOJAMOJO TURTO MOKESTINĖ VERTĖ
 
 
 
-3. Mokesčio mokėtojo skundo ar prašymo pateikimas turto vertintojui mokesčio ir su juo susijusių sumų išieškojimą sustabdo iki turto vertintojo sprendimo dėl skundo ar prašymo priėmimo arba teismo sprendimo (nutarties) įsiteisėjimo dienos, jeigu mokesčio mokėtojas turto vertintojo sprendimą apskundė Lietuvos Respublikos administracinių bylų teisenos nustatyta tvarka, tačiau tai nėra kliūtis taikyti mokestinės prievolės užtikrinimo priemones, nurodytas Lietuvos Respublikos mokesčių administravimo įstatymo 95 straipsnyje, arba pagrindas jas naikinti.
+3. Mokesčio mokėtojo skundo ar prašymo pateikimas turto vertintojui mokesčio ir su juo susijusių sumų (išskyrus avansinį mokestį ir su juo susijusias sumas) išieškojimą sustabdo iki turto vertintojo sprendimo dėl skundo ar prašymo priėmimo arba teismo sprendimo (nutarties) įsiteisėjimo dienos, jeigu mokesčio mokėtojas turto vertintojo sprendimą apskundė Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka, tačiau tai nėra kliūtis taikyti mokestinės prievolės užtikrinimo priemones, nurodytas Lietuvos Respublikos mokesčių administravimo įstatymo 95 straipsnyje, arba pagrindas jas naikinti. 
+Straipsnio dalies pakeitimai:
+Nr. X-532, 2006-03-30, Žin., 2006, Nr. 39-1380 (2006-04-08), i. k. 1061010ISTA000X-532
  
 
 
@@ -465,7 +474,10 @@ MOKESČIO MOKĖJIMAS
 
 
 
-3. Juridiniai asmenys moka avansinį mokestį. Kiekvienas avansinis mokestis sudaro 1/4 sumos, apskaičiuotos taikant juridiniam asmeniui einamųjų kalendorinių metų sausio 1 dieną nuosavybės teise priklausančio nekilnojamojo turto mokestinei vertei šio įstatymo 6 straipsnyje nustatytą mokesčio tarifą. Avansiniai mokesčiai sumokami atitinkamai iki einamųjų kalendorinių metų kovo 31 dienos, birželio 30 dienos ir rugsėjo 30 dienos. Jeigu suma, apskaičiuota taikant juridiniam asmeniui einamųjų kalendorinių metų sausio 1 dieną nuosavybės teise priklausančio nekilnojamojo turto mokestinei vertei šio įstatymo 6 straipsnyje nustatytą mokesčio tarifą, neviršija 1500 litų, juridinis asmuo avansinio mokesčio mokėti neprivalo.
+3. Juridiniai asmenys moka avansinį mokestį. Kiekvienas avansinis mokestis sudaro 1/4 sumos, apskaičiuotos taikant juridiniam asmeniui einamųjų kalendorinių metų sausio 1 dieną nuosavybės teise priklausančio nekilnojamojo turto mokestinei vertei šio įstatymo 6 straipsnyje nustatytą mokesčio tarifą. Avansiniai mokesčiai sumokami atitinkamai iki einamųjų kalendorinių metų kovo 31 dienos (išskyrus 2006 metų mokestinį laikotarpį, kai pirmasis avansinis mokestis sumokamas iki 2006 m. balandžio 30 d.), birželio 30 dienos ir rugsėjo 30 dienos. Jeigu suma, apskaičiuota taikant juridiniam asmeniui einamųjų kalendorinių metų sausio 1 dieną nuosavybės teise priklausančio nekilnojamojo turto mokestinei vertei šio įstatymo 6 straipsnyje nustatytą mokesčio tarifą, neviršija 1500 litų, juridinis asmuo avansinio mokesčio mokėti neprivalo. Jeigu einamaisiais kalendoriniais metais nekilnojamojo turto mokestinė vertė yra didesnė už praėjusiais kalendoriniais metais buvusią vertę, avansinis mokestis už tą nekilnojamąjį turtą gali būti skaičiuojamas nuo praėjusiais kalendoriniais metais buvusios nekilnojamojo turto mokestinės vertės. 
+Straipsnio dalies pakeitimai:
+Nr. X-532, 2006-03-30, Žin., 2006, Nr. 39-1380 (2006-04-08), i. k. 1061010ISTA000X-532
+ 
 
 
 
@@ -656,3 +668,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-532, 2006-03-30, Žin., 2006, Nr. 39-1380 (2006-04-08), i. k. 1061010ISTA000X-532
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 10 ir 12 straipsnių pakeitimo įstatymas
