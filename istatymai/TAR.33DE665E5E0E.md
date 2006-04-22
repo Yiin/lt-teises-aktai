@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.33DE665E5E0E"
 
 # Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymas
 
-Suvestinė redakcija nuo 2004-06-24 iki 2006-04-21
+Suvestinė redakcija nuo 2006-04-22 iki 2006-06-27
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 51-1392; Žin. 2004, Nr.98-3626, i. k. 0981010ISTAVIII-730
  
@@ -76,6 +76,9 @@ Vilnius
 
 
 4. Vyriausybės atstovas negali dalyvauti politinių partijų veikloje.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymo 3 straipsnio 4 dalis (2004 m. birželio 8 d. redakcija; Žin., 2004, Nr. 98-3626) prieštarauja Lietuvos Respublikos Konstitucijos 35 straipsnio 1 daliai, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+2006-04-14, Žin., 2006, Nr. 44-1608 (2006-04-22), i. k. 1061000NUTARG062499            
  
 
 
@@ -364,3 +367,8 @@ Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymo 4, 5,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2264, 2004-06-08, Žin., 2004, Nr. 98-3626 (2004-06-24), i. k. 1041010ISTA0IX-2264
 Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymo pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+2006-04-14, Žin., 2006, Nr. 44-1608 (2006-04-22), i. k. 1061000NUTARG062499                
+Dėl Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymo 3 straipsnio 4 dalies (2002 m. gruodžio 10 d., 2004 m. birželio 8 d. redakcijos), 5 straipsnio 4 dalies (2002 m. gruodžio 10 d. redakcija), 7 straipsnio (2002 m. gruodžio 10 d. redakcija), 8 straipsnio (2002 m. gruodžio 10 d. redakcija), 9 straipsnio (2002 m. gruodžio 10 d. redakcija), 11 straipsnio (2002 m. gruodžio 10 d. redakcija), Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymo pakeitimo įstatymo (2002 m. gruodžio 10 d. redakcija) 2 straipsnio 2 dalies, Lietuvos Respublikos valstybės tarnybos įstatymo 44 straipsnio 1 dalies (2002 m. gruodžio 10 d. redakcija), 62 straipsnio 12 dalies (2000 m. lapkričio 21 d. redakcija), Lietuvos Respublikos Vyriausybės 2003 m. gruodžio 3 d. nutarimo Nr. 1525 "Dėl Vyriausybės atstovo Marijampolės apskričiai atleidimo", Lietuvos Respublikos Vyriausybės 2003 m. gruodžio 3 d. nutarimo Nr. 1526 "Dėl Vyriausybės atstovo Panevėžio apskričiai atleidimo", Lietuvos Respublikos Vyriausybės 2003 m. gruodžio 3 d. nutarimo Nr. 1527 "Dėl Vyriausybės atstovo Šiaulių apskričiai atleidimo", Lietuvos Respublikos Vyriausybės 2003 m. gruodžio 3 d. nutarimo Nr. 1528 "Dėl Vyriausybės atstovo Telšių apskričiai atleidimo" 1 punkto, Lietuvos Respublikos Vyriausybės 2003 m. gruodžio 3 d. nutarimo Nr. 1529 "Dėl Vyriausybės atstovo Vilniaus apskričiai atleidimo", Lietuvos Respublikos Vyriausybės 2003 m. gruodžio 10 d. nutarimo Nr. 1578 "Dėl Vyriausybės atstovo Šiaulių apskričiai" 1 punkto atitikties Lietuvos Respublikos Konstitucijai
