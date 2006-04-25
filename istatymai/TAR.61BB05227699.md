@@ -551,18 +551,46 @@ pasirašytas priesaikos tekstas saugomas pareigūno asmens byloje.
 išlyga reiškia, kad Valstybės kontrolės pareigūnas neprisiekė ir todėl negali
 eiti pareigų.
  
-30 straipsnis. Valstybės
-kontrolieriaus, jo pavaduotojų ir Valstybės kontrolės 
-pareigūnų priesaikos tekstas
-1. Valstybės kontrolierius, jo pavaduotojai ir
-Valstybės kontrolės pareigūnai prisiekia Lietuvos Respublikai šiais žodžiais:
-„Aš, (vardas,
-pavardė), prisiekiu būti ištikimas Lietuvos Respublikai; gerbti ir vykdyti jos
-Konstituciją bei įstatymus; visomis išgalėmis stiprinti Lietuvos
-nepriklausomybę, saugoti valstybės turtą, sąžiningai tarnauti Tėvynei,
-demokratijai, Lietuvos žmonių gerovei.
-Tepadeda man Dievas“.
-2. Prisiekti galima ir be paskutiniojo sakinio. 
+ 
+30 straipsnis.
+Valstybės kontrolieriaus, jo pavaduotojų ir Valstybės kontrolės pareigūnų
+priesaikos tekstas
+1.
+Valstybės kontrolierius, jo pavaduotojai ir Valstybės kontrolės pareigūnai
+prisiekia Lietuvos Respublikai. Prisiekiantis asmuo turi teisę pasirinkti vieną
+iš šių priesaikos tekstų: 
+1) „Aš,
+(vardas, pavardė),
+prisiekiu būti ištikimas
+Lietuvos Respublikai;
+gerbti ir
+vykdyti jos Konstituciją bei įstatymus; 
+visomis
+išgalėmis stiprinti Lietuvos nepriklausomybę, 
+saugoti
+valstybės turtą,
+sąžiningai
+tarnauti Tėvynei, demokratijai, Lietuvos žmonių gerovei. 
+Tepadeda
+man Dievas.“;
+2) „Aš,
+(vardas, pavardė),
+prisiekiu būti
+ištikimas Lietuvos Respublikai;
+gerbti ir
+vykdyti jos Konstituciją bei įstatymus; 
+visomis
+išgalėmis stiprinti Lietuvos nepriklausomybę, 
+saugoti
+valstybės turtą,
+sąžiningai tarnauti Tėvynei,
+demokratijai, Lietuvos žmonių gerovei.“
+2. Prisiekęs asmuo po
+priesaikos tekstu pasirašo.
+Straipsnio
+pakeitimai:
+Nr. X-581, 2006-04-25,
+Žin., 2006, Nr. 53-1930 (2006-05-13)
  
 31 straipsnis. Turto ir pajamų deklaravimas
 Valstybės kontrolierius, jo pavaduotojai bei Valstybės
@@ -620,9 +648,9 @@ straipsnio 1 dalies 4 ir 6 punktus (išdirbus Valstybės kontrolėje ne mažiau
 kaip penkerius metus), jam išmokama šešių mėnesių vidutinio darbo užmokesčio
 dydžio kompensacija. 
 7. Pasibaigus
-valstybės kontrolieriaus įgaliojimų laikui, valstybės kontrolierius turi teisę įstatymų
-nustatyta tvarka grįžti į ankstesnį darbą. Tuo atveju jam išmokama trijų
-mėnesių vidutinio darbo užmokesčio dydžio kompensacija.
+valstybės kontrolieriaus įgaliojimų laikui, valstybės kontrolierius turi teisę
+įstatymų nustatyta tvarka grįžti į ankstesnį darbą. Tuo atveju jam išmokama
+trijų mėnesių vidutinio darbo užmokesčio dydžio kompensacija.
 8. Atsiradus šio straipsnio 1 dalies 3, 4, 5, 7
 punktuose nurodytiems valstybės kontrolieriaus atleidimo pagrindams, Seimo
 nutarimu Valstybės kontrolės darbą organizuoja valstybės kontrolieriaus
@@ -703,8 +731,7 @@ X SKYRIUS
 VALSTYBĖS KONTROLĖS PAREIGŪNŲ MOKYMAS IR
 KVALIFIKACIJOS KĖLIMAS 
  
-39 straipsnis. Mokymo ir kvalifikacijos kėlimo
-procesas
+39 straipsnis. Mokymo ir kvalifikacijos kėlimo procesas
 1. Valstybės
 kontrolė nustato pareigūnų mokymo ir kvalifikacijos kėlimo strategiją bei
 kvalifikacijos kėlimo prioritetus valstybinio audito srityje.
@@ -720,8 +747,8 @@ kitais būdais ir formomis.
 kontrolės pareigūnų sisteminio, profesinio mokymo ir kvalifikacijos kėlimo
 tvarką valstybinio audito srityje nustato valstybės kontrolierius. 
  
-40 straipsnis. Mokymo ir kvalifikacijos kėlimo
-finansavimas 
+40 straipsnis. Mokymo ir kvalifikacijos kėlimo finansavimas
+
 1. Valstybės kontrolės pareigūnų mokymas ir
 kvalifikacijos kėlimas finansuojami iš Valstybės kontrolei skirtų biudžeto
 asignavimų. 
@@ -741,8 +768,8 @@ DARBO UŽMOKESTIS IR SOCIALINĖS GARANTIJOS
 straipsnis. Darbo užmokestis
 1. Valstybės kontrolėje dirbančių pareigūnų darbo
 užmokestį, apmokėjimo tvarką ir sąlygas nustato šis ir kiti įstatymai.
-2. Valstybės kontrolėje dirbantiems pareigūnams už
-didelio masto sudėtingus ir reikšmingus valstybei ir visuomenei valstybinius
+2. Valstybės kontrolėje dirbantiems pareigūnams
+už didelio masto sudėtingus ir reikšmingus valstybei ir visuomenei valstybinius
 auditus gali būti išmokama vienkartinė piniginė išmoka. Vienkartinė piniginė
 išmoka negali viršyti pareigūno pareiginės algos dydžio ir ji mokama
 neviršijant darbo užmokesčiui skirtų lėšų valstybės kontrolieriaus nustatyta
@@ -787,7 +814,6 @@ RESPUBLIKOS
 PREZIDENTAS                                 ALGIRDAS BRAZAUSKAS 
 
 ________________
- 
 Pakeitimai:
  
 1.
@@ -899,15 +925,23 @@ Nr.
 X-468,
 2005-12-22, Žin., 2006, Nr. 4-101 (2006-01-12)
 VALSTYBĖS
-KONTROLĖS ĮSTATYMO 2, 4, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 21, 23, 41
-STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, V SKYRIAUS PAVADINIMO PAKEITIMO IR 42
-STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+KONTROLĖS ĮSTATYMO 2, 4, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 21, 23, 41 STRAIPSNIŲ
+PAKEITIMO IR PAPILDYMO, V SKYRIAUS PAVADINIMO PAKEITIMO IR 42 STRAIPSNIO
+PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+ 
+13.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-581,
+2006-04-25, Žin., 2006, Nr. 53-1930 (2006-05-13)
+VALSTYBĖS
+KONTROLĖS ĮSTATYMO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 ***
 Pabaiga ***
  
- 
 Redagavo:
-Aušrinė Trapinskienė (2006-01-17)
+Aušrinė Trapinskienė (2006-05-15)
                  
 autrap@lrs.lt
