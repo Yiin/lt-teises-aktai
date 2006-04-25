@@ -26,8 +26,8 @@ SKIRSNIS
 BENDROSIOS
 NUOSTATOS
  
-1 straipsnis. Įstatymo
-paskirtis
+1
+straipsnis. Įstatymo paskirtis
 1. Šis įstatymas nustato asmenų, kuriems teikiamos
 važiavimo keleiviniu transportu lengvatos, kategorijas, lengvatų rūšis, išlaidų
 keleiviniam transportui kompensavimą ir vežėjų išlaidų (negautų pajamų),
@@ -38,8 +38,8 @@ Straipsnio pakeitimai:
 Nr. IX-1192,
 2002-11-12, Žin., 2002, Nr. 116-5190 (2002-12-06)
  
-2 straipsnis. Pagrindinės
-šio įstatymo sąvokos
+2
+straipsnis. Pagrindinės šio įstatymo sąvokos
 1. Vežėjas - įmonė,
 įregistruota įstatymų nustatyta tvarka ir turinti teisę vežti keleivius bei
 bagažą.
@@ -110,8 +110,8 @@ SKIRSNIS
 LENGVATŲ
 RŪŠYS IR ASMENŲ, KURIEMS JOS TEIKIAMOS, KATEGORIJOS
  
-3 straipsnis. Lengvatų rūšys
-ir jų taikymo sritys
+3
+straipsnis. Lengvatų rūšys ir jų taikymo sritys
 1. Lietuvos Respublikoje
 teikiamos šios transporto lengvatos:
 1) teisė važiuoti nemokamai;
@@ -128,8 +128,8 @@ ir galinė stotys yra Lietuvos Respublikos teritorijoje) bei reguliaraus
 susisiekimo laivais ir keltais. Šios lengvatos netaikomos važiuojant
 lengvaisiais automobiliais taksi ir maršrutiniais taksi. 
  
-4 straipsnis. Teisė važiuoti
-nemokamai
+4
+straipsnis. Teisė važiuoti nemokamai
 1. Kiekvienam keleiviui
 suteikiama teisė nemokamai vežtis vietinio (miesto ir priemiestinio)
 reguliaraus susisiekimo autobusais ir troleibusais, tolimojo reguliaraus susisiekimo
@@ -139,78 +139,71 @@ keltais du vaikus iki 7 metų neužimant atskiros sėdimos ar miegamos vietos.
 transportu nemokamai suteikiama keleivinį transportą kontroliuojantiems
 pareigūnams Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
  
-5 straipsnis. Teisė įsigyti
-važiavimo bilietą su nuolaida
-1 dalies redakcija iki 2005 m.
-liepos 1 d.:
-1. Teisę įsigyti vienkartinį važiavimo
-tolimojo reguliaraus susisiekimo autobusais, keleiviniais traukiniais bei
-vienkartinį arba terminuotą vardinį važiavimo vietinio (miesto ir
-priemiestinio) reguliaraus susisiekimo autobusais ir troleibusais, reguliaraus
-susisiekimo laivais ir keltais bilietą su 80 procentų nuolaida turi vaikai invalidai,
-I grupės invalidai, į Sveikatos apsaugos ministerijos nustatytą sąrašą
-įrašytomis ligomis sergantys asmenys, kuriems gydyti nuolat reikalinga
-hemodializė, bei juos lydintys asmenys (vienam asmeniui – vienas lydintysis);
-taip pat sukakę 85 metus ir vyresni asmenys; Lietuvos Respublikos
-nepriklausomybės gynėjai, tapę II ar III grupės invalidais dėl 1991 m. sausio
-11 13 d. ir po to vykdytos SSRS agresijos; pasipriešinimo 1940–1990 metų
-okupacijoms dalyviai – kariai savanoriai, sukakę 70 metų ir vyresni.
-1 dalies redakcija nuo 2005 m.
-liepos 1 d.:
+5
+straipsnis. Teisė įsigyti važiavimo bilietą su nuolaida
+1 dalies redakcija iki 2007 m.
+sausio 1 d.:
 1.
-Teisę įsigyti vienkartinį važiavimo tolimojo reguliaraus susisiekimo
-autobusais, keleiviniais traukiniais bei vienkartinį arba terminuotą vardinį
-važiavimo vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais
-ir troleibusais, reguliaraus susisiekimo laivais ir keltais bilietą su 80
-procentų nuolaida turi asmenys, kuriems nustatytas neįgalumo lygis, ar asmenys,
+Teisę įsigyti vienkartinį važiavimo tolimojo reguliaraus susisiekimo autobusais,
+keleiviniais traukiniais bei vienkartinį arba terminuotą vardinį važiavimo
+vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir
+troleibusais, reguliaraus susisiekimo laivais ir keltais bilietą su 80 procentų
+nuolaida turi asmenys, kuriems nustatytas neįgalumo lygis, ar asmenys,
 pripažinti nedarbingais, ar asmenys, sukakę senatvės pensijos amžių, kuriems
 teisės aktų nustatyta tvarka yra nustatytas didelių specialiųjų poreikių lygis,
 į Sveikatos apsaugos ministerijos nustatytą sąrašą įrašytomis ligomis sergantys
 asmenys, kuriems gydyti nuolat reikalinga hemodializė, bei juos lydintys
 asmenys (vienam asmeniui – vienas lydintysis); taip pat sukakę 85 metus ir
+vyresni asmenys; Lietuvos Respublikos nepriklausomybės gynėjai, pripažinti iš dalies
+darbingais ar sukakę senatvės pensijos amžių, kuriems teisės aktų nustatyta
+tvarka yra nustatytas vidutinių specialiųjų poreikių lygis dėl 1991 m. sausio
+11–13 d. ir po to vykdytos SSRS agresijos; žuvusių Lietuvos Respublikos
+nepriklausomybės gynėjų šeimų nariai, nukentėję nuo 1991 m. sausio 11–13
+d. ir po to vykdytos SSRS agresijos; pasipriešinimo 1940–1990 metų
+okupacijoms dalyviai – kariai savanoriai, sukakę 70 metų ir vyresni.
+1 dalies redakcija nuo 2007 m.
+sausio 1 d.:
+1. Teisę įsigyti
+vienkartinį važiavimo tolimojo reguliaraus susisiekimo autobusais, keleiviniais
+traukiniais bei vienkartinį arba terminuotą vardinį važiavimo vietinio (miesto
+ir priemiestinio) reguliaraus susisiekimo autobusais ir troleibusais,
+reguliaraus susisiekimo laivais ir keltais bilietą su 80 procentų nuolaida turi
+asmenys, kuriems nustatytas neįgalumo lygis, ar asmenys, pripažinti
+nedarbingais, ar asmenys, sukakę senatvės pensijos amžių, kuriems teisės aktų
+nustatyta tvarka yra nustatytas didelių specialiųjų poreikių lygis, ar asmenys,
+iki 2005 m. liepos 1 d. pripažinti vaikais invalidais ar I grupės invalidais, į
+Sveikatos apsaugos ministerijos nustatytą sąrašą įrašytomis ligomis sergantys
+asmenys, kuriems gydyti nuolat reikalinga hemodializė, bei juos lydintys
+asmenys (vienam asmeniui – vienas lydintysis); taip pat sukakę 80 metų ir
 vyresni asmenys; Lietuvos Respublikos nepriklausomybės gynėjai, pripažinti iš
 dalies darbingais ar sukakę senatvės pensijos amžių, kuriems teisės aktų
 nustatyta tvarka yra nustatytas vidutinių specialiųjų poreikių lygis dėl 1991
-m. sausio 11–13 d. ir po to vykdytos SSRS agresijos; žuvusių Lietuvos
-Respublikos nepriklausomybės gynėjų šeimų nariai, nukentėję nuo 1991 m. sausio
-11–13 d. ir po to vykdytos SSRS agresijos; pasipriešinimo 1940–1990
-metų okupacijoms dalyviai – kariai savanoriai, sukakę 70 metų ir vyresni.
+m. sausio 11–13 d. ir po to
+vykdytos SSRS agresijos; žuvusių Lietuvos Respublikos nepriklausomybės gynėjų
+šeimų nariai, nukentėję nuo 1991 m. sausio 11–13 d. ir po to
+vykdytos SSRS agresijos; pasipriešinimo 1940–1990 metų okupacijoms
+dalyviai – kariai savanoriai, sukakę 70 metų ir vyresni.
  
-2 dalies redakcija iki 2005 m.
-liepos 1 d.:
 2.
 Teisę įsigyti vienkartinį važiavimo tolimojo reguliaraus susisiekimo
 autobusais, keleiviniais traukiniais bei vienkartinį arba terminuotą vardinį
 važiavimo vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais
 ir troleibusais, reguliaraus susisiekimo laivais ir keltais bilietą su 50
 procentų nuolaida turi:
-1) II grupės invalidai;
-2)
-pasipriešinimo 1940-1990 metų okupacijoms dalyviai – kariai savanoriai,
-jaunesni nei 70 metų, ir laisvės kovų dalyviai;
-3)
-nuo 1939-1990 metų okupacijų nukentėję asmenys – politiniai kaliniai
-ir tremtiniai bei buvę getų, koncentracijos ar kitokio tipo prievartinių
-stovyklų kaliniai;
-4) Lietuvos Respublikos nepriklausomybės
-gynėjai, nukentėję nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSSR
-agresijos;
-5) žuvusių
-Lietuvos Respublikos nepriklausomybės gynėjų šeimų nariai, nukentėję nuo 1991
-m. sausio 11-13 d. ir po to
-vykdytos SSRS agresijos;
-6) asmenys nuo 70 iki 85 metų.
-2 dalies redakcija nuo 2005 m.
-liepos 1 d.:
-2.
-Teisę įsigyti vienkartinį važiavimo tolimojo reguliaraus susisiekimo
-autobusais, keleiviniais traukiniais bei vienkartinį arba terminuotą vardinį
-važiavimo vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais
-ir troleibusais, reguliaraus susisiekimo laivais ir keltais bilietą su 50
-procentų nuolaida turi:
+ 
+2 dalies 1 punkto redakcija iki
+2007 m. sausio 1 d.:
 1) asmenys, pripažinti iš dalies
 darbingais, ar asmenys, sukakę senatvės pensijos amžių, kuriems teisės aktų
 nustatyta tvarka yra nustatytas vidutinių specialiųjų poreikių lygis;
+2 dalies 1 punkto redakcija nuo
+2007 m. sausio 1 d.:
+1)
+asmenys, pripažinti iš dalies darbingais, ar asmenys, sukakę senatvės pensijos
+amžių, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinių
+specialiųjų poreikių lygis, ar asmenys, iki 2005 m. liepos 1 d. pripažinti II
+grupės invalidais;
+ 
 2)
 pasipriešinimo 1940-1990 metų okupacijoms dalyviai – kariai savanoriai,
 jaunesni nei 70 metų, ir laisvės kovų dalyviai;
@@ -221,7 +214,14 @@ stovyklų kaliniai;
 4) Lietuvos Respublikos nepriklausomybės
 gynėjai, nukentėję nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSSR
 agresijos;
+ 
+2 dalies 5 punkto redakcija iki
+2007 m. sausio 1 d.:
 5) asmenys nuo 70 iki 85 metų.
+2 dalies 5 punkto redakcija nuo
+2007 m. sausio 1 d.:
+5)
+asmenys nuo 70 iki 80 metų.
  
 3.
 Teisę įsigyti vienkartinį važiavimo tolimojo reguliaraus susisiekimo autobusais
@@ -272,6 +272,8 @@ IX-2581,
 Nr.
 X-189,
 2005-05-12, Žin., 2005, Nr. 67-2401 (2005-05-28)
+Nr. X-576, 2006-04-25,
+Žin., 2006, Nr. 53-1929 (2006-05-13)
  
 6
 straipsnis. Važiavimo išlaidų kompensavimas moksleiviams, vaikų globos įstaigų 
@@ -302,20 +304,8 @@ Nr.
 IX-2581,
 2004-11-11, Žin., 2004, Nr. 171-6324 (2004-11-26)
  
-7 straipsnis. Teisė į
-transporto išlaidų kompensaciją
-1 dalies redakcija iki 2005 m.
-liepos 1 d.:
-1. Invalidai, turintys
-sutrikusią judėjimo funkciją, turi teisę:
-1) kiekvieną mėnesį gauti 0,25 minimalaus gyvenimo lygio
-(MGL) dydžio transporto išlaidų kompensaciją;
-2)
-vieną kartą per 6 metus gauti iki 32 MGL dydžio specialių lengvųjų automobilių
-įsigijimo ir jų techninio pritaikymo išlaidų kompensaciją, jeigu šie asmenys
-gali patys vairuoti šiuos lengvuosius automobilius.
-1 dalies redakcija nuo 2005 m.
-liepos 1 d.:
+7
+straipsnis. Teisė į transporto išlaidų kompensaciją
 1. Neįgalieji,
 turintys sutrikusią judėjimo funkciją, turi teisę:
 1) kiekvieną mėnesį gauti 0,25 minimalaus gyvenimo lygio
@@ -324,22 +314,11 @@ turintys sutrikusią judėjimo funkciją, turi teisę:
 vieną kartą per 6 metus gauti iki 32 MGL dydžio specialių lengvųjų automobilių
 įsigijimo ir jų techninio pritaikymo išlaidų kompensaciją, jeigu šie asmenys
 gali patys vairuoti šiuos lengvuosius automobilius.
- 
-2 dalies redakcija iki 2005 m.
-liepos 1 d.:
-2.
-Laikotarpiu, kai invalidas, turintis teisę gauti transporto išlaidų
-kompensaciją, atlieka bausmę laisvės atėmimo vietoje, ši kompensacija nemokama.
-Šis laikotarpis taip pat neįskaitomas specialių lengvųjų automobilių įsigijimo
-ir jų techninio pritaikymo išlaidų kompensacijai gauti.
-2 dalies redakcija nuo 2005 m.
-liepos 1 d.:
 2.
 Laikotarpiu, kai neįgalusis, turintis teisę gauti transporto išlaidų
 kompensaciją, atlieka bausmę laisvės atėmimo vietoje, ši kompensacija nemokama.
 Šis laikotarpis taip pat neįskaitomas specialiųjų lengvųjų automobilių
 įsigijimo ir jų techninio pritaikymo išlaidų kompensacijai gauti.
- 
 3.
 Kompensacijos, nustatytos šio straipsnio 1 dalyje, mokamos iš valstybės
 biudžeto.
@@ -362,8 +341,8 @@ Skirsnio pavadinimas keistas:
 Nr. IX-1192,
 2002-11-12, Žin., 2002, Nr. 116-5190 (2002-12-06)
  
-8 straipsnis.
-Vežėjų išlaidų kompensavimo (negautų pajamų atlyginimo) tvarka ir 
+8
+straipsnis. Vežėjų išlaidų kompensavimo (negautų pajamų atlyginimo) tvarka ir 
 šaltiniai
 Vežėjų
 išlaidos (negautos pajamos), susijusios su lengvatų taikymu, kompensuojamos
@@ -406,29 +385,32 @@ SKIRSNIS
 BAIGIAMOSIOS
 NUOSTATOS
  
-9 straipsnis. Įstatymo
-įsigaliojimas
+9
+straipsnis. Įstatymo įsigaliojimas
 Šis įstatymas įsigalioja nuo 2000
 m. gegužės 1 d., išskyrus 7 straipsnio 1 dalį, kuri įsigalioja nuo 2001 m.
 sausio 1 d.
  
-10 straipsnis. Įstatymo
-įgyvendinimo tvarka
+10
+straipsnis. Įstatymo įgyvendinimo tvarka
 Vyriausybė iki 2000 m. balandžio
 30 d. nustato šio įstatymo įgyvendinimo tvarką.
  
-11 straipsnis. Atsakomybė už
-šio įstatymo pažeidimus
+11
+straipsnis. Atsakomybė už šio įstatymo pažeidimus
 Asmenys, pažeidę šio įstatymo
 reikalavimus, atsako įstatymų nustatyta tvarka.
  
-12 straipsnis. Teisės akto
-pripažinimas netekusiu galios
+12
+straipsnis. Teisės akto pripažinimas netekusiu galios
 Įsigaliojus šiam įstatymui,
 netenka galios Lietuvos Respublikos įstatymas „Dėl važiavimo keleiviniu
 transportu lengvatų ir kai kurių kategorijų pareigūnų, tarnautojų bei kitų
 asmenų važiavimo keleiviniu transportu išlaidų kompensavimo tvarkos“ (Žin.,
-1995, Nr. 87-1954, Nr.107-2399; 1997, Nr.117-3014; 1999, Nr.60-1958).
+1995, Nr. 87-1954,
+Nr.107-2399;
+1997, Nr.117-3014;
+1999, Nr.60-1958).
  
 Skelbiu šį Lietuvos
 Respublikos Seimo priimtą įstatymą. 
@@ -436,7 +418,6 @@ Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS
 PREZIDENTAS                                                         VALDAS
 ADAMKUS
- 
 _______________
 Pakeitimai:
 1.
@@ -499,11 +480,21 @@ LENGVATŲ ĮSTATYMO 5 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja nuo 2005 m. liepos 1 d.
  
+7.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-576,
+2006-04-25, Žin., 2006, Nr. 53-1929 (2006-05-13)
+TRANSPORTO
+LENGVATŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja nuo 2007 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
  
- 
 Redagavo:
-Aušrinė Trapinskienė (2005-06-01)
+Aušrinė Trapinskienė (2006-05-16)
                  
 autrap@lrs.lt
