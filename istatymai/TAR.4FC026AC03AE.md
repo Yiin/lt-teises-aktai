@@ -198,6 +198,22 @@ pareigūnams gali nustatyti ir kitų pareigų.
 straipsnis. Vidaus reikalų įstaigos
 Vidaus reikalų
 įstaigos yra:
+1 punkto
+redakcija iki 2006 m. liepos 1 d.:
+1)
+vidaus reikalų centrinės įstaigos (Policijos departamentas prie Vidaus reikalų
+ministerijos (toliau – Policijos departamentas); Valstybės sienos apsaugos
+tarnyba prie Vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos
+tarnyba); Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus
+reikalų ministerijos (toliau – Priešgaisrinės apsaugos ir gelbėjimo
+departamentas); Finansinių nusikaltimų tyrimo tarnyba prie Vidaus reikalų
+ministerijos (toliau – Finansinių nusikaltimų tyrimo tarnyba); Vadovybės apsaugos
+departamentas prie Vidaus reikalų ministerijos (toliau – Vadovybės apsaugos
+departamentas);
+Bendrasis pagalbos centras prie Vidaus reikalų ministerijos (toliau – Bendrasis
+pagalbos centras);
+1 punkto
+redakcija nuo 2006 m. liepos 1 d.:
 1)
 vidaus reikalų centrinės įstaigos (Policijos departamentas prie Vidaus reikalų
 ministerijos (toliau – Policijos departamentas); Valstybės sienos apsaugos
@@ -208,8 +224,7 @@ departamentas); Finansinių nusikaltimų tyrimo tarnyba prie Vidaus reikalų
 ministerijos (toliau – Finansinių nusikaltimų tyrimo tarnyba); Vadovybės
 apsaugos departamentas prie Vidaus reikalų ministerijos (toliau – Vadovybės
 apsaugos departamentas);
-Bendrasis pagalbos centras prie Vidaus reikalų ministerijos (toliau – Bendrasis
-pagalbos centras);
+ 
 2)
 Policijos viešojo saugumo dalinys (tarnyba) ir kitos vidaus reikalų įstaigos
 (vidaus reikalų centrinėms įstaigoms pavaldžios teritorinės, specializuotos ir
@@ -225,6 +240,9 @@ IX-2263,
 Nr.
 IX-2504,
 2004-10-26, Žin., 2004, Nr. 163-5942 (2004-11-09)
+Nr.
+X-590,
+2006-05-02, Žin., 2006, Nr. 57-2022 (2006-05-20)
  
 5
 straipsnis. Statuto taikymas
@@ -281,21 +299,21 @@ siejami su asmens intelektiniais, fiziniais ir praktiniais gebėjimais,
 sveikatos būkle, moraliniu ir psichologiniu tinkamumu eiti tam tikras pareigas
 atitinkamuose padaliniuose.
 3.
-Vidaus reikalų įstaigos vadovas, atsižvelgdamas į vidaus reikalų įstaigų
-poreikius ir gavęs vidaus reikalų ministro sutikimą, turi teisę priimti į
-vidaus tarnybą asmenis, kurių amžius viršija šio straipsnio 1 dalies 2 punkte
-nustatytą maksimalią amžiaus ribą.
+Vidaus reikalų įstaigos vadovas, atsižvelgdamas į vidaus reikalų įstaigų poreikius
+ir gavęs vidaus reikalų ministro sutikimą, turi teisę priimti į vidaus tarnybą
+asmenis, kurių amžius viršija šio straipsnio 1 dalies 2 punkte nustatytą
+maksimalią amžiaus ribą.
  
 7
 straipsnis. Asmens tikrinimas ir siuntimo į vidaus reikalų profesinio mokymo
 įstaigą ar kitą mokymo įstaigą išdavimas
-1. Asmuo, pageidaujantis
-mokytis vidaus reikalų profesinio mokymo įstaigoje ar vidaus reikalų profesinio
-mokymo įstaigos įvadinio mokymo kursuose, turi kreiptis į vidaus reikalų
-įstaigą (išskyrus vidaus reikalų profesinio mokymo įstaigą), o pageidaujantis
-mokytis kitoje mokymo įstaigoje – kreiptis į Vidaus reikalų ministeriją ir
-gauti siuntimą į vidaus reikalų profesinio mokymo įstaigą ar kitą mokymo
-įstaigą.
+1. Asmuo,
+pageidaujantis mokytis vidaus reikalų profesinio mokymo įstaigoje ar vidaus
+reikalų profesinio mokymo įstaigos įvadinio mokymo kursuose, turi kreiptis į
+vidaus reikalų įstaigą (išskyrus vidaus reikalų profesinio mokymo įstaigą), o
+pageidaujantis mokytis kitoje mokymo įstaigoje – kreiptis į Vidaus reikalų
+ministeriją ir gauti siuntimą į vidaus reikalų profesinio mokymo įstaigą ar
+kitą mokymo įstaigą.
 2. Asmuo privalo
 pateikti vidaus reikalų įstaigos ar Vidaus reikalų ministerijos, į kurią jis
 kreipiasi dėl siuntimo, personalo tarnybai ar valstybės tarnautojui
@@ -394,18 +412,18 @@ straipsnis. Stojimo į vidaus tarnybą sutartis
 1. Stojimo į
 vidaus tarnybą sutartis yra trišalis Lietuvos Respublikos piliečio, vidaus
 reikalų profesinio mokymo įstaigos ar kitos mokymo įstaigos bei vidaus reikalų
-centrinės įstaigos rašytinis susitarimas, kuriuo asmuo įsipareigoja laikytis šio
-Statuto ir kitų teisės aktų vidaus reikalų profesinio mokymo įstaigų kursantams
-nustatytų reikalavimų, vykdyti jam pavestas pareigas, vidaus reikalų profesinio
-mokymo įstaiga ar kita mokymo įstaiga įsipareigoja sudaryti asmeniui tinkamas
-profesinio ar įvadinio mokymo sąlygas, o vidaus reikalų centrinė įstaiga
-įsipareigoja užtikrinti, kad baigęs vidaus reikalų profesinio mokymo įstaigą
-kursantas ar kitą mokymo įstaigą baigęs asmuo bus paskirtas į jo išsilavinimą
-ir profesiją atitinkančias pareigas atitinkamoje vidaus reikalų įstaigoje,
-sudaryti jam tinkamas tarnybai sąlygas, užtikrinti pareigūno teises, socialines
-garantijas, nustatytas šiame Statute ir kituose įstatymuose.
-2. Privaloma
-stojimo į vidaus tarnybą sutarties sąlyga yra:
+centrinės įstaigos rašytinis susitarimas, kuriuo asmuo įsipareigoja laikytis
+šio Statuto ir kitų teisės aktų vidaus reikalų profesinio mokymo įstaigų
+kursantams nustatytų reikalavimų, vykdyti jam pavestas pareigas, vidaus reikalų
+profesinio mokymo įstaiga ar kita mokymo įstaiga įsipareigoja sudaryti asmeniui
+tinkamas profesinio ar įvadinio mokymo sąlygas, o vidaus reikalų centrinė
+įstaiga įsipareigoja užtikrinti, kad baigęs vidaus reikalų profesinio mokymo
+įstaigą kursantas ar kitą mokymo įstaigą baigęs asmuo bus paskirtas į jo
+išsilavinimą ir profesiją atitinkančias pareigas atitinkamoje vidaus reikalų
+įstaigoje, sudaryti jam tinkamas tarnybai sąlygas, užtikrinti pareigūno teises,
+socialines garantijas, nustatytas šiame Statute ir kituose įstatymuose.
+2. Privaloma stojimo
+į vidaus tarnybą sutarties sąlyga yra:
 1) sudarant
 stojimo į vidaus tarnybą sutartį su asmeniu, laimėjusiu atranką į vidaus
 reikalų profesinio mokymo įstaigą – šio asmens įsipareigojimas mokytis, baigus
@@ -458,10 +476,10 @@ nusižengimą ir teistumas neišnykęs arba nepanaikintas;
 3) jeigu asmuo
 anksčiau dirbo statutiniu valstybės tarnautoju, teisėju, notaru, prokuroru,
 advokatu ar krašto apsaugos sistemoje ir buvo atleistas atitinkamai už
-pareigūno vardo pažeminimą, teisėjo vardą žeminantį poelgį, notarų profesinės etikos
-ir tarnybinius nusižengimus, prokuroro vardo pažeminimą, advokato profesinės
-etikos bei profesinės veiklos pažeidimus ar kario vardą arba krašto apsaugos
-sistemos institucijas žeminančius teisės pažeidimus;
+pareigūno vardo pažeminimą, teisėjo vardą žeminantį poelgį, notarų profesinės
+etikos ir tarnybinius nusižengimus, prokuroro vardo pažeminimą, advokato
+profesinės etikos bei profesinės veiklos pažeidimus ar kario vardą arba krašto
+apsaugos sistemos institucijas žeminančius teisės pažeidimus;
 4) jeigu asmuo
 buvo atleistas iš valstybės tarnybos už tarnybinį nusižengimą ir jei nuo šio
 atleidimo iš valstybės tarnybos dienos nepraėjo 5 metai;
@@ -516,11 +534,22 @@ turi pareigūnai, einantys statutines pareigas vidaus reikalų įstaigose, taip
 pat pareigūnai, įtraukti į Vidaus reikalų ministerijos kadrų rezervą.
 3. Laipsniai
 skirstomi į vidaus tarnybos ir policijos laipsnius.
+ 
+4 dalies
+redakcija iki 2006 m. liepos 1 d.:
 4.
 Vidaus tarnybos laipsniai suteikiami Valstybės sienos apsaugos tarnybos,
 Finansinių nusikaltimų tyrimo tarnybos, Priešgaisrinės apsaugos ir gelbėjimo
 departamento, Vadovybės apsaugos departamento, Bendrojo pagalbos centro bei jiems
 pavaldžių padalinių ir vidaus reikalų profesinio mokymo įstaigų pareigūnams.
+4 dalies
+redakcija nuo 2006 m. liepos 1 d.:
+4.
+Vidaus tarnybos laipsniai suteikiami Valstybės sienos apsaugos tarnybos, Finansinių
+nusikaltimų tyrimo tarnybos, Priešgaisrinės apsaugos ir gelbėjimo departamento,
+Vadovybės apsaugos departamento bei jiems pavaldžių įstaigų, padalinių ir
+vidaus reikalų profesinio mokymo įstaigų pareigūnams.
+ 
 5. Vidaus
 tarnybos laipsniai yra:
 1) pirminės
@@ -557,8 +586,9 @@ tarnybos majoras;
 tarnybos pulkininkas leitenantas;
 3) vidaus
 tarnybos pulkininkas.
-9. Aukščiausiosios
-grandies pareigūnų vidaus tarnybos laipsnis yra vidaus tarnybos generolas.
+9.
+Aukščiausiosios grandies pareigūnų vidaus tarnybos laipsnis yra vidaus tarnybos
+generolas.
 10. Policijos
 laipsniai suteikiami policijos pareigūnams.
 11. Policijos
@@ -584,8 +614,7 @@ grandies pareigūnų policijos laipsniai yra:
 1) inspektorius;
 2) vyresnysis
 inspektorius;
-3) komisaras
-inspektorius.
+3) komisaras inspektorius.
 14.
 Aukštesniosios grandies pareigūnų policijos laipsniai yra:
 1) komisaras;
@@ -605,11 +634,14 @@ Straipsnio pakeitimai:
 Nr. IX-2002,
 2004-02-05, Žin., 2004, Nr. 28-873 (2004-02-21)
 Nr.
-IX-2263, 2004-06-08,
-Žin., 2004, Nr. 98-3625 (2004-06-24)
+IX-2263,
+2004-06-08, Žin., 2004, Nr. 98-3625 (2004-06-24)
 Nr.
 IX-2504,
 2004-10-26, Žin., 2004, Nr. 163-5942 (2004-11-09)
+Nr.
+X-590,
+2006-05-02, Žin., 2006, Nr. 57-2022 (2006-05-20)
  
 14
 straipsnis. Laipsnių suteikimas
@@ -618,8 +650,8 @@ tarnybos majoro ir vidaus tarnybos pulkininko leitenanto bei komisaro ir
 vyresniojo komisaro laipsnius suteikia vidaus reikalų ministras vidaus reikalų
 centrinės ar profesinio mokymo įstaigos vadovo teikimu.
 2. Vidaus
-tarnybos grandinio ar jaunesniojo policininko laipsnis suteikiamas įgijus bazinį
-profesinį parengimą arba po įvadinio mokymo kursų baigimo vidaus reikalų
+tarnybos grandinio ar jaunesniojo policininko laipsnis suteikiamas įgijus
+bazinį profesinį parengimą arba po įvadinio mokymo kursų baigimo vidaus reikalų
 profesinio mokymo įstaigoje vidaus reikalų centrinės įstaigos vadovo ar jo
 įgalioto atitinkamos vidaus reikalų įstaigos vadovo įsakymu, paskyrus pareigūną
 į atitinkamas pareigas.
@@ -723,8 +755,8 @@ pareigoms, vidaus tarnybos trukmę einant konkrečias pareigas, turimą
 kvalifikaciją, būtiną naujoms pareigoms eiti.
 3. Pareigūnus iš vienų pareigų į kitas
 savo įsakymu perkelia vadovai, turintys teisę skirti į pareigas. Vidaus reikalų
-centrinių įstaigų vadovus ir jų pavaduotojus į pareigas skiria ir iš jų
-atleidžia vidaus reikalų ministras, jei kiti įstatymai nenustato kitaip.
+centrinių įstaigų vadovus ir jų pavaduotojus į pareigas skiria ir iš jų atleidžia
+vidaus reikalų ministras, jei kiti įstatymai nenustato kitaip.
 4. Draudžiama pareigūną perkelti į
 pareigas vidaus reikalų įstaigoje, kurioje eina pareigas asmens sutuoktinis,
 sugyventinis (partneris), asmens artimasis giminaitis ar asmuo, su juo susijęs
@@ -766,8 +798,8 @@ atitinkamoje vidaus reikalų įstaigoje.
 aukštesnes pareigas toje pačioje vidaus reikalų įstaigoje.
 6. Esant tarnybiniam būtinumui ir vidaus reikalų įstaigų vadovams
 suderinus, pareigūnas gali būti laikinai perkeltas į kitas lygiavertes ar
-aukštesnes pareigas kitoje atitinkamoje vidaus reikalų įstaigoje, esančioje
-toje pačioje ar kitoje gyvenamojoje vietovėje.
+aukštesnes pareigas kitoje atitinkamoje vidaus reikalų įstaigoje, esančioje toje
+pačioje ar kitoje gyvenamojoje vietovėje.
 7. Šio straipsnio 5
 ir 6 dalyse nustatytais atvejais pareigūną laikinai perkelti į kitas pareigas
 galima tik turint jo raštišką sutikimą, išskyrus karo padėties, nepaprastosios
@@ -798,13 +830,13 @@ reikalavimai netaikomi karo padėties, nepaprastosios
 padėties ar kitų ekstremalių situacijų atvejais.
 12. Pareigūnas
 jo raštišku sutikimu gali būti perkeltas eiti pareigas Lietuvos diplomatinėse
-atstovybėse bei konsulinėse įstaigose užsienyje. Paskyrimo laikotarpiui pasibaigus,
-Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) ar jos įgaliotos
-institucijos nustatyta tvarka pareigūnas grąžinamas į savo buvusias arba, jeigu
-nėra galimybės, kitas lygiavertes pareigas. Šių pareigūnų skyrimo į pareigas
-Lietuvos diplomatinėse atstovybėse bei konsulinėse įstaigose ir atleidimo iš
-pareigų tvarką, darbo užmokesčio ir socialinių garantijų tarnybos užsienyje
-metu ypatumus nustato įstatymai ir kiti teisės aktai.
+atstovybėse bei konsulinėse įstaigose užsienyje. Paskyrimo laikotarpiui
+pasibaigus, Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) ar jos
+įgaliotos institucijos nustatyta tvarka pareigūnas grąžinamas į savo buvusias
+arba, jeigu nėra galimybės, kitas lygiavertes pareigas. Šių pareigūnų skyrimo į
+pareigas Lietuvos diplomatinėse atstovybėse bei konsulinėse įstaigose ir
+atleidimo iš pareigų tvarką, darbo užmokesčio ir socialinių garantijų tarnybos
+užsienyje metu ypatumus nustato įstatymai ir kiti teisės aktai.
 13. Draudžiama pareigūną perkelti į
 pareigas vidaus reikalų įstaigoje, kurioje eina pareigas asmens sutuoktinis,
 sugyventinis (partneris), asmens artimasis giminaitis ar asmuo, su juo susijęs
@@ -867,16 +899,16 @@ kitų tarptautinių organizacijų misijose gali būti siunčiamas ne anksčiau k
 po dvejų metų nuo dalyvavimo organizacijoje ar misijoje pabaigos.
 4. Vidaus
 reikalų centrinės įstaigos vadovo nustatyta ir su užsienio reikalų ministru
-suderinta tvarka pareigūnas jo
-sutikimu vienų metų laikotarpiui gali būti siunčiamas saugoti Lietuvos Respublikos diplomatinių atstovybių,
-konsulinių įstaigų ir atstovybių prie tarptautinių organizacijų. Pareigūno,
-nusiųsto saugoti Lietuvos Respublikos
-diplomatinių atstovybių, konsulinių įstaigų ir atstovybių prie tarptautinių
-organizacijų, tarnybos užsienyje laikotarpis gali būti pratęstas teisės
-aktų nustatyta tvarka. Bendras pareigūno, nusiųsto saugoti Lietuvos Respublikos diplomatinių atstovybių,
+suderinta tvarka pareigūnas jo sutikimu
+vienų metų laikotarpiui gali būti siunčiamas saugoti Lietuvos Respublikos diplomatinių atstovybių, konsulinių įstaigų ir
+atstovybių prie tarptautinių organizacijų. Pareigūno, nusiųsto saugoti Lietuvos Respublikos diplomatinių atstovybių,
 konsulinių įstaigų ir atstovybių prie tarptautinių organizacijų, tarnybos
-užsienyje laikotarpis negali viršyti vienų metų ir šešių mėnesių. Tokia
-pareigūno tarnyba užsienyje nelaikoma tarnybine komandiruote.
+užsienyje laikotarpis gali būti pratęstas teisės aktų nustatyta tvarka.
+Bendras pareigūno, nusiųsto saugoti Lietuvos
+Respublikos diplomatinių atstovybių, konsulinių įstaigų ir atstovybių prie
+tarptautinių organizacijų, tarnybos užsienyje laikotarpis negali viršyti
+vienų metų ir šešių mėnesių. Tokia pareigūno tarnyba užsienyje nelaikoma
+tarnybine komandiruote.
 Straipsnio pakeitimai:
 Nr.
 X-68,
@@ -998,9 +1030,9 @@ ATSAKOMYBĖ IR JIEMS TAIKOMI PASKATINIMAI BEI APRIBOJIMAI
  
 23
 straipsnis. Paskatinimai ir apdovanojimai
-1. Už
-nepriekaištingą ir pavyzdingą tarnybinių pareigų atlikimą pareigūnai gali būti
-skatinami ir apdovanojami:
+1. Už nepriekaištingą
+ir pavyzdingą tarnybinių pareigų atlikimą pareigūnai gali būti skatinami ir
+apdovanojami:
 1) padėka;
 2) vienkartine
 (iki 5 minimaliųjų gyvenimo lygių dydžio) pinigine išmoka;
@@ -1046,8 +1078,9 @@ bendrijomis, kurių savininkas, tikrasis narys ar komanditorius yra jis pats
 arba jo sutuoktinis, artimasis giminaitis ar asmuo, su pareigūnu susijęs
 svainystės (partnerystės) ryšiais, taip pat sudaryti sandorius su akcinėmis
 bendrovėmis, kuriose jis pats arba jo sutuoktinis, artimasis giminaitis ar
-asmuo, susijęs su pareigūnu svainystės (partnerystės) ryšiais, turi ar valdo pagal
-kito asmens įgaliojimą daugiau negu 10 procentų įstatinio kapitalo arba akcijų;
+asmuo, susijęs su pareigūnu svainystės (partnerystės) ryšiais, turi ar valdo
+pagal kito asmens įgaliojimą daugiau negu 10 procentų įstatinio kapitalo arba
+akcijų;
 3) dirbti samdomu darbuotoju, patarėju, ekspertu ar
 konsultantu privačiuose juridiniuose asmenyse, valstybės ar savivaldybės
 įmonėse, viešosiose įstaigose, taip pat gauti kitą negu valstybės tarnautojams
@@ -1082,8 +1115,8 @@ pareigūnai įstatymų nustatyta tvarka traukiami materialinėn atsakomybėn.
 straipsnis. Tarnybinės nuobaudos ir jų skyrimas
 1. Už
 tarnybinius nusižengimus, atsižvelgiant į jų pobūdį, padarymo priežastis,
-nusižengusiojo kaltės laipsnį, asmenybę, sukeltus padarinius ir kitas aplinkybes,
-pareigūnui gali būti skiriama viena iš šių tarnybinių nuobaudų:
+nusižengusiojo kaltės laipsnį, asmenybę, sukeltus padarinius ir kitas
+aplinkybes, pareigūnui gali būti skiriama viena iš šių tarnybinių nuobaudų:
 1) pastaba;
 2) papeikimas;
 3) griežtas
@@ -1147,9 +1180,9 @@ aktų nustatyta tvarka.
  
 27
 straipsnis. Tarnybinės nuobaudos išnykimas
-1. Pareigūnas
-laikomas nebaustu tarnybine nuobauda po tarnybinės nuobaudos paskyrimo dienos
-praėjus vieniems metams.
+1. Pareigūnas laikomas
+nebaustu tarnybine nuobauda po tarnybinės nuobaudos paskyrimo dienos praėjus
+vieniems metams.
 2. Tarnybinė
 nuobauda gali būti panaikinta ją paskyrusio vadovo motyvuotu sprendimu
 anksčiau, nei sueis šio straipsnio 1 dalyje nustatytas terminas.
@@ -1216,8 +1249,8 @@ darbo laiko norma.
 negalima pavesti dirbti daugiau kaip 8 valandas viršvalandžių per vieną dieną.
 Pamainos trukmė kartu su viršvalandžiais negali būti ilgesnė kaip 24 valandos.
 Į pamainos trukmę įskaičiuojamas laikas, skirtas pareigūnams instruktuoti,
-apsiginkluoti ir atsiskaityti už tarnybos rezultatus. Vieno pareigūno viršvalandžiai
-per metus negali viršyti 250 valandų.
+apsiginkluoti ir atsiskaityti už tarnybos rezultatus. Vieno pareigūno
+viršvalandžiai per metus negali viršyti 250 valandų.
 3. Nustatytas
 funkcijas nepertraukiamai vykdančiose vidaus reikalų įstaigose tam tikras
 pareigas einantiems pareigūnams, dirbantiems pamainomis, vidaus reikalų
@@ -1229,11 +1262,11 @@ darbas, kiekvieną savaitę (7 dienų laikotarpį) neviršijantis 48 valandų da
 laiko normos, nelaikomas viršvalandiniu. Šioje dalyje nurodytų pareigūnų
 pareigybių sąrašą bei šių pareigūnų darbo ir poilsio laiko apskaitos ypatumus
 nustato Vyriausybė. 
-4. Šio straipsnio
-3 dalyje nurodytiems pareigūnams dirbti viršvalandžius galima pavesti tik šio
-Statuto 30 straipsnyje nustatytais atvejais. Tokiais atvejais pamainos trukmė
-kartu su viršvalandžiais negali būti ilgesnė kaip 26 valandos, o vieno
-pareigūno viršvalandžiai per metus negali viršyti 164 valandų. 
+4. Šio
+straipsnio 3 dalyje nurodytiems pareigūnams dirbti viršvalandžius galima
+pavesti tik šio Statuto 30 straipsnyje nustatytais atvejais. Tokiais atvejais
+pamainos trukmė kartu su viršvalandžiais negali būti ilgesnė kaip 26 valandos,
+o vieno pareigūno viršvalandžiai per metus negali viršyti 164 valandų. 
 5. Šio
 straipsnio 3 dalyje nurodytiems pareigūnams, į kurių pareigas įeina nuolat
 pasikartojantis darbas nakties metu, poilsio ir švenčių dienomis, priemokos
@@ -1374,8 +1407,8 @@ kvalifikacinės kategorijos. 3-ioji kvalifikacinė kategorija gali būti suteikt
 pareigūnui, turinčiam ne mažesnį kaip dvejų metų vidaus tarnybos stažą. 2-oji
 kvalifikacinė kategorija gali būti suteikta pareigūnui, turinčiam ne mažesnį
 kaip penkerių metų vidaus tarnybos stažą. 1-oji kvalifikacinė kategorija gali
-būti suteikta pareigūnui, turinčiam ne mažesnį kaip dešimties metų vidaus
-tarnybos stažą.
+būti suteikta pareigūnui, turinčiam ne mažesnį kaip dešimties metų vidaus tarnybos
+stažą.
 2. Pareigūnui
 suteikta kvalifikacinė kategorija iš naujo tvirtinama kas penkeri metai.
 3. Duomenys apie
@@ -1411,8 +1444,8 @@ dienos;
 2) darbo
 įstaigose bei organizacijose laiką, jeigu pareigūnas buvo nusiųstas dirbti į
 jas būdamas įtrauktas į Vidaus reikalų ministerijos, Valstybės saugumo
-departamento ar Krašto apsaugos ministerijos kadrų rezervą bei Specialiųjų
-tyrimų tarnybos personalo rezervą;
+departamento ar Krašto apsaugos ministerijos kadrų rezervą bei Specialiųjų tyrimų
+tarnybos personalo rezervą;
 3) nuteisto
 pareigūno ar kario bausmės atlikimo laiką, jeigu vėliau šis asmuo
 reabilituotas;
@@ -1423,7 +1456,8 @@ batalionuose) laiką – Vyriausybės nustatyta tvarka;
 5) darbo
 policijoje (milicijoje), Valstybės sienos apsaugos tarnyboje, vidaus tarnybos,
 valstybės saugumo, krašto apsaugos ir prokuratūros sistemose laiką Darbo
-sutarties įstatymo pagrindais, jeigu vėliau tos pareigos priskirtos pareigūno pareigoms;
+sutarties įstatymo pagrindais, jeigu vėliau tos pareigos priskirtos pareigūno
+pareigoms;
 6) darbo laiką,
 išdirbtą profesionaliosios priešgaisrinės apsaugos padalinių vadovais,
 gaisrininkais, gaisrininkais vairuotojais Darbo sutarties įstatymo pagrindais,
@@ -1431,9 +1465,8 @@ jeigu vėliau šie darbuotojai buvo paskirti statutiniais priešgaisrinės apsau
 pareigūnais;
 7) vieną
 tarnybos ar darbo dieną Lietuvos Respublikos krašto apsaugos departamento
-struktūriniuose padaliniuose nuo 1990 m. balandžio 25 d. iki 1991 m. rugpjūčio 23 d., Valstybės saugumo departamento prie Lietuvos Respublikos Vyriausybės sistemoje
-nuo 1990 m. kovo 26 d. iki 1991 m. rugpjūčio 23 d. ir Lietuvos Respublikos
-Aukščiausiosios Tarybos Apsaugos skyriuje nuo 1990 m. birželio 8 d. iki 1991 m. rugpjūčio 23 d. įskaitant kaip tris tarnybos dienas;
+struktūriniuose padaliniuose nuo 1990 m. balandžio 25 d. iki 1991 m. rugpjūčio 23 d., Valstybės saugumo departamento prie Lietuvos Respublikos Vyriausybės
+sistemoje nuo 1990 m. kovo 26 d. iki 1991 m. rugpjūčio 23 d. ir Lietuvos Respublikos Aukščiausiosios Tarybos Apsaugos skyriuje nuo 1990 m. birželio 8 d. iki 1991 m. rugpjūčio 23 d. įskaitant kaip tris tarnybos dienas;
 8) pareigūnams,
 pradėjusiems tarnauti ar dirbti Lietuvos Respublikos krašto apsaugos sistemoje,
 ir asmenims, pradėjusiems tarnauti ar dirbti Lietuvos Respublikos
@@ -1507,16 +1540,16 @@ pirminio ir antrinio lygio sveikatos priežiūrą atlieka Lietuvos nacionalinės
 sveikatos sistemos asmens sveikatos priežiūros įstaigos, kurių steigėja yra
 Vidaus reikalų ministerija (toliau – sveikatos priežiūros įstaigos, kurių
 steigėja yra Vidaus reikalų ministerija), o ten, kur jų nėra – kitos Lietuvos
-nacionalinės sveikatos sistemos asmens sveikatos priežiūros įstaigos pagal
-pareigūno gyvenamąją vietą. 
+nacionalinės sveikatos sistemos asmens sveikatos priežiūros įstaigos pagal pareigūno
+gyvenamąją vietą. 
 3. Tretinio
 lygio sveikatos priežiūrą atlieka Lietuvos nacionalinės sveikatos sistemos
 tretinio lygio asmens sveikatos priežiūros įstaigos.
 4. Sveikatos
-priežiūros įstaigos, kurių steigėja yra Vidaus reikalų ministerija, atlieka
-privalomus pareigūnų sveikatos periodinius profilaktinius patikrinimus. Šių
-patikrinimų atlikimo tvarką nustato vidaus reikalų ministras, suderinęs su
-sveikatos apsaugos ministru.
+priežiūros įstaigos, kurių steigėja yra Vidaus reikalų ministerija, atlieka privalomus
+pareigūnų sveikatos periodinius profilaktinius patikrinimus. Šių patikrinimų
+atlikimo tvarką nustato vidaus reikalų ministras, suderinęs su sveikatos
+apsaugos ministru.
 5. Pareigūnų
 profilaktiniai patikrinimai, skiepijimai bei sveikatinimo paslaugos
 finansuojami teisės aktų nustatyta tvarka.
@@ -1526,19 +1559,19 @@ sveikatos kontrolė vykdoma įstatymų ir kitų teisės aktų nustatyta tvarka.
  
 40 straipsnis. Kompensacijos pareigūno ar kursanto
 mirties arba sveikatos sutrikimo atvejais
-1. Žuvus tarnybines
-pareigas vykdžiusiam pareigūnui, taip pat tais atvejais, kai jo mirtis yra
-susijusi su tarnyba, jo šeimai – vaikams (įvaikiams, taip pat vaikams,
-gimusiems po jo mirties), kol jiems sukaks 18 metų, taip pat vaikams
+1. Žuvus
+tarnybines pareigas vykdžiusiam pareigūnui, taip pat tais atvejais, kai jo
+mirtis yra susijusi su tarnyba, jo šeimai – vaikams (įvaikiams, taip pat
+vaikams, gimusiems po jo mirties), kol jiems sukaks 18 metų, taip pat vaikams
 (įvaikiams), kurie mokosi nustatyta tvarka įregistruotų mokymo įstaigų
 dieniniuose skyriuose, kol jiems sukaks 24 metai, sutuoktiniui, tėvui ar
-motinai – bei nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi arba jo
-mirties dieną turėjo teisę gauti jo išlaikymą, per vienus metus nuo pareigūno
-mirties lygiomis dalimis išmokama 120 mėnesių darbo užmokesčio dydžio
-vienkartinė kompensacija.
+motinai – bei nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi arba jo mirties
+dieną turėjo teisę gauti jo išlaikymą, per vienus metus nuo pareigūno mirties
+lygiomis dalimis išmokama 120 mėnesių darbo užmokesčio dydžio vienkartinė
+kompensacija.
 2. Žuvęs
-pareigūnas ar kursantas laidojamas valstybės lėšomis arba jo artimiesiems
-išmokama 40 MGL dydžio piniginė kompensacija laidotuvių išlaidoms padengti. Pareigūno ar kursanto, kuris žuvo užsienyje
+pareigūnas ar kursantas laidojamas valstybės lėšomis arba jo artimiesiems išmokama
+40 MGL dydžio piniginė kompensacija laidotuvių išlaidoms padengti. Pareigūno ar kursanto, kuris žuvo užsienyje
 atlikdamas tarnybines pareigas ar profesinio mokymo metu, palaikų pervežimo į
 Lietuvą išlaidas teisės aktų nustatyta tvarka apmoka valstybė. Valstybės
 apmokamų laidojimo išlaidų aprašą nustato Vyriausybė ar jos įgaliota
@@ -1604,9 +1637,9 @@ straipsnis. Pareigūnų laikinasis nedarbingumas ir jo apmokėjimo tvarka
 1. Pareigūnams
 ligos, nelaimingo atsitikimo ar slaugos atveju išduodamas nedarbingumo
 pažymėjimas, o nėščioms ir gimdyvėms pareigūnėms išduodamas nėštumo ir gimdymo
-atostogų pažymėjimas. Jų išdavimo tvarką nustato Vyriausybė ar jos įgaliotos institucijos.
-Apie nedarbingumo pažymėjimo išdavimą pareigūnas turi raštu ar žodžiu pranešti
-savo tiesioginiam vadovui. 
+atostogų pažymėjimas. Jų išdavimo tvarką nustato Vyriausybė ar jos įgaliotos
+institucijos. Apie nedarbingumo pažymėjimo išdavimą pareigūnas turi raštu ar
+žodžiu pranešti savo tiesioginiam vadovui. 
 2. Pareigūnų
 laikinojo nedarbingumo dėl ligos, nelaimingo atsitikimo ar slaugos trukmę,
 pareigūnių nėštumo ir gimdymo atostogų trukmę, apmokėjimo sąlygas (išskyrus
@@ -1625,22 +1658,22 @@ medicinos ekspertizės komisijoje.
 Straipsnio pakeitimai:
 Nr. IX-2526,
 2004-11-02, Žin., 2004, Nr. 167-6105 (2004-11-17)
-Nr. IX-2536,
-2004-11-04, Žin., 2004, Nr. 171-6296 (2004-11-26)
+Nr. IX-2536, 2004-11-04,
+Žin., 2004, Nr. 171-6296 (2004-11-26)
  
 42 straipsnis. Pareigūnų medicininės reabilitacijos,
 sveikatos grąžinamojo ir antirecidyvinio gydymo išlaidų apmokėjimas
 1. Iš valstybės
-biudžeto Vidaus reikalų ministerijai ar atitinkamų vidaus reikalų centrinėms
-įstaigoms skirtų lėšų apmokama:
+biudžeto Vidaus reikalų ministerijai ar atitinkamų vidaus reikalų centrinėms įstaigoms
+skirtų lėšų apmokama:
 1) pareigūnų
 medicininė reabilitacija, sveikatos grąžinamasis ir antirecidyvinis gydymas po
 sužalojimo vykdant tarnybines pareigas, kai šis gydymas neapmokamas iš
 Privalomojo sveikatos draudimo fondo biudžeto;
-2) pareigūnų
-medicininė reabilitacija, sveikatos grąžinamasis ir antirecidyvinis gydymas,
-prevencinė medicininė ir psichologinė reabilitacija, vykdoma asmenims sveikatos
-priežiūros įstaigose, kurių steigėja yra Vidaus reikalų ministerija.
+2) pareigūnų medicininė
+reabilitacija, sveikatos grąžinamasis ir antirecidyvinis gydymas, prevencinė
+medicininė ir psichologinė reabilitacija, vykdoma asmenims sveikatos priežiūros
+įstaigose, kurių steigėja yra Vidaus reikalų ministerija.
 2. Pareigūnų
 medicininės reabilitacijos, prevencinės medicininės ir psichologinės
 reabilitacijos, sveikatos grąžinamojo, antirecidyvinio gydymo, kai jis
@@ -1673,8 +1706,8 @@ profesinėse sąjungose. Skiriant drausmines nuobaudas, išskyrus drausminę
 nuobaudą – atleidimą iš darbo, taip pat reikalingas išankstinis profesinės
 sąjungos renkamojo organo sutikimas.
 5. Pareigūnas, išrinktas į renkamuosius vidaus reikalų įstaigos
-profesinės sąjungos organus, atleidžiamas iš vidaus tarnybos, jei su juo ši profesinė
-sąjunga sudaro darbo sutartį.
+profesinės sąjungos organus, atleidžiamas iš vidaus tarnybos, jei su juo ši
+profesinė sąjunga sudaro darbo sutartį.
 6. Profesinių
 sąjungų nariai, atleisti iš vidaus tarnybos dėl išrinkimo į renkamąsias
 pareigas profesinių sąjungų organizacijose, pasibaigus renkamųjų pareigų
@@ -1938,8 +1971,8 @@ dalies 1 ir 12 punktai). Prašymas pateikiamas vadovui, turinčiam teisę skirti
 pareigas, ne vėliau kaip prieš 14 kalendorinių dienų.
 2. Pareigūnas
 turi būti atleistas kitą darbo dieną po šio straipsnio 1 dalyje nurodyto
-termino pasibaigimo, o vadovo, turinčio teisę skirti į pareigas, sutikimu – ir nepasibaigus
-šiam terminui.
+termino pasibaigimo, o vadovo, turinčio teisę skirti į pareigas, sutikimu – ir
+nepasibaigus šiam terminui.
 3. Pareigūnas
 turi teisę atšaukti savo prašymą ne vėliau kaip per 3 kalendorines dienas nuo
 prašymo padavimo dienos. Po to jis gali atšaukti prašymą tik vidaus reikalų
@@ -1959,10 +1992,9 @@ atleidžiamas iš vidaus tarnybos, apie galimą jo atleidimą jį įspėjus raš
 iki atleidimo dienos. Nėščia moteris (kai vidaus reikalų įstaiga likviduojama),
 moteris ar vyras, vieni auginantys vaikus (vaiką) iki 14 metų, asmuo,
 kuriam iki teisės gauti visą senatvės pensiją liko ne daugiau kaip 5 metai, apie galimą jų atleidimą turi būti įspėti raštu ne
-vėliau kaip prieš 4 mėnesius iki atleidimo dienos. Įspėjimas apie galimą
-atleidimą netenka galios, jei nuo jo termino pabaigos praeina daugiau
-kaip vienas mėnuo, neįskaitant pareigūno laikinojo nedarbingumo ir atostogų
-laiko.
+vėliau kaip prieš 4 mėnesius iki atleidimo dienos. Įspėjimas apie galimą atleidimą
+netenka galios, jei nuo jo termino pabaigos praeina daugiau kaip vienas
+mėnuo, neįskaitant pareigūno laikinojo nedarbingumo ir atostogų laiko.
 3. Pareigūnas
 šio Statuto 53 straipsnio 1 dalies 15 punkte nurodytu pagrindu atleidžiamas iš
 vidaus tarnybos kitą darbo dieną, kai sueina šiame punkte nurodyti terminai, ir
@@ -2008,10 +2040,11 @@ grąžinus neteisėtai atleistą pareigūną į ankstesnes pareigas, atlyginama 
 visą priverstinės pravaikštos laiką.
 2. Teismui
 grąžinus neteisėtai atleistą pareigūną į ankstesnes pareigas, pareigūno
-grąžinimas į eitas pareigas įforminamas vadovo, turinčio teisę skirti į pareigas, įsakymu. Jei tokios pareigos
-panaikintos, pareigūnas grąžinamas į lygiavertes pareigas. Jeigu tokių pareigų
-nėra arba pareigūnas atsisako eiti pasiūlytas pareigas, jis atleidžiamas iš
-vidaus tarnybos pagal šio Statuto 53 straipsnio 1 dalies 11 punktą.
+grąžinimas į eitas pareigas įforminamas vadovo, turinčio teisę skirti į pareigas, įsakymu. Jei tokios
+pareigos panaikintos, pareigūnas grąžinamas į lygiavertes pareigas. Jeigu tokių
+pareigų nėra arba pareigūnas atsisako eiti pasiūlytas pareigas, jis
+atleidžiamas iš vidaus tarnybos pagal šio Statuto 53 straipsnio 1 dalies 11
+punktą.
  
 III SKYRIUS
 VIDAUS TARNYBOS
@@ -2039,8 +2072,8 @@ Pakeitimai:
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-2002, 2004-02-05,
-Žin., 2004, Nr. 28-873 (2004-02-21)
+IX-2002,
+2004-02-05, Žin., 2004, Nr. 28-873 (2004-02-21)
 VIDAUS
 TARNYBOS STATUTO 4 IR 13 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
@@ -2111,10 +2144,20 @@ KODEKSO, ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO, BAUSMIŲ VYKDYMO KODEKSO,
 SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO, VIDAUS TARNYBOS STATUTO, SVEIKATOS DRAUDIMO
 ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+8.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. X-590, 2006-05-02,
+Žin., 2006, Nr. 57-2022 (2006-05-20)
+VIDAUS
+TARNYBOS STATUTO 4 IR 13 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja nuo 2006 m. liepos 1 d.
+ 
 ***
 Pabaiga ***
  
 Redagavo:
-Aušrinė Trapinskienė (2005-05-09)
+Aušrinė Trapinskienė (2006-05-23)
                  
 autrap@lrs.lt
