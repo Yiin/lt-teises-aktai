@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA"
 
 # Lietuvos Respublikos Konstitucija
 
-Suvestinė redakcija nuo 2004-08-14 iki 2006-05-25
+Suvestinė redakcija nuo 2006-05-26 iki 2013-11-15
  
 Konstitucija paskelbtas: Lietuvos aidas 1992, Nr. 220-0; Žin. 1992, Nr.33-1014, i. k. 0921010KONSRG922324
  
@@ -2926,12 +2926,9 @@ Lietuvos Respublikoje centrinis bankas yra Lietuvos bankas, kuris nuosavybės te
 
 
 
-Pinigų emisijos teisę turi tik Lietuvos bankas.
-
-
-
-
-Lietuvos banko organizavimo ir veiklos tvarką, taip pat įgaliojimus nustato įstatymas.
+Lietuvos banko organizavimo ir veiklos tvarką, taip pat įgaliojimus ir Lietuvos banko valdybos pirmininko teisinį statusą bei jo atleidimo pagrindus nustato įstatymas.
+Straipsnio dalies pakeitimai:
+Nr. X-572, 2006-04-25, Žin., 2006, Nr. 48-1701 (2006-04-29), i. k. 1061010ISTA000X-572
  
 
 
@@ -3521,3 +3518,8 @@ Lietuvos Respublikos Konstitucijos papildymo Konstituciniu aktu "Dėl Lietuvos R
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2344, 2004-07-13, Žin., 2004, Nr. 111-4124 (2004-07-17), i. k. 1041010ISTA0IX-2344
 Lietuvos Respublikos Konstitucijos 57 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-572, 2006-04-25, Žin., 2006, Nr. 48-1701 (2006-04-29), i. k. 1061010ISTA000X-572
+Lietuvos Respublikos Konstitucijos 125 straipsnio pakeitimo įstatymas
