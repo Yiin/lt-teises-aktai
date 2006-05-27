@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.07CAE5E6C2B3"
 
 # Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymas
 
-Suvestinė redakcija nuo 2005-05-28 iki 2006-05-26
+Suvestinė redakcija nuo 2006-05-27 iki 2006-10-23
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 132-0; Žin. 1991, Nr.20-517, i. k. 0911010ISTA00I-1497
  
@@ -310,7 +310,10 @@ LIETUVOS VALSTYBĖS VĖLIAVA
 
 
 
-2. Valstybės švenčių dienomis Lietuvos valstybės vėliava keliama prie, virš ar ant šių pastatų: prie kitų valstybės ir savivaldybių institucijų bei įstaigų, kitų įstaigų, įmonių ir organizacijų, nesvarbu, kokia jų nuosavybės forma, taip pat gyvenamųjų namų. 
+2. Švenčių dienomis: vasario 16-ąją – Lietuvos valstybės atkūrimo dieną, kovo 11-ąją – Lietuvos nepriklausomybės atkūrimo dieną, liepos 6-ąją – Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) dieną, Lietuvos valstybės vėliava keliama prie, virš ar ant šių pastatų: prie kitų valstybės ir savivaldybių institucijų bei įstaigų, kitų įstaigų, įmonių ir organizacijų, nesvarbu, kokia jų nuosavybės forma, taip pat gyvenamųjų namų. 
+Straipsnio dalies pakeitimai:
+Nr. X-604, 2006-05-11, Žin., 2006, Nr. 60-2119 (2006-05-27), i. k. 1061010ISTA000X-604
+ 
 
 
 
@@ -956,3 +959,8 @@ Lietuvos Respublikos įstatymo "Dėl Lietuvos valstybės vėliavos" pakeitimo į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-197, 2005-05-12, Žin., 2005, Nr. 67-2404 (2005-05-28), i. k. 1051010ISTA000X-197
 Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo 10 straipsnio papildymo ir pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-604, 2006-05-11, Žin., 2006, Nr. 60-2119 (2006-05-27), i. k. 1061010ISTA000X-604
+Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo 5 straipsnio pakeitimo įstatymas
