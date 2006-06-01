@@ -3596,6 +3596,9 @@ terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes
 atliekantys nuteistieji gauna maistą pagal fiziologines mitybos normas, o
 ligoniai, gydomi pataisos įstaigų gydymo įstaigose, – pagal dietinio maitinimo
 normas. Maistu šie nuteistieji aprūpinami nemokamai.
+ 
+5
+dalies redakcija iki 2006 m. liepos 1 d.:
 5. Nėščioms
 moterims, krūtimi maitinančioms motinoms, nepilnamečiams, neįgaliesiems, taip
 pat ligoniams sudaromos geresnės gyvenamųjų patalpų ir buities sąlygos ir
@@ -3603,6 +3606,17 @@ nustatomos didesnės mitybos normos. Nėščioms moterims ir krūtimi maitinanč
 motinoms pagal gydytojų komisijos išvadą leidžiama gauti pašto ar perduodamų maisto
 produktų siuntinių. Jų svorį ir periodiškumą nustato Kalėjimų departamento
 direktorius.
+5
+dalies redakcija nuo 2006 m. liepos 1 d.:
+5. Nėščioms moterims,
+krūtimi maitinančioms motinoms, nepilnamečiams, neįgaliesiems, taip pat
+ligoniams sudaromos geresnės gyvenamųjų patalpų ir buities sąlygos ir
+nustatomos didesnės mitybos normos. Nėščioms moterims ir krūtimi maitinančioms
+motinoms pagal gydytojų komisijos išvadą leidžiama gauti pašto ar perduodamų
+maisto produktų siuntinių. Jų svorį ir periodiškumą nustato Kalėjimų
+departamento direktorius. Nepilnamečio nemokamam maitinimui užtikrinti per
+mėnesį skiriama ne mažesnė kaip 1,5 MGL dydžio pinigų suma.
+ 
 6. Laisvės
 atėmimo bausmę atliekantys atvirose kolonijose nuteistieji maistu, drabužiais,
 baltiniais ir avalyne apsirūpina patys. Šiems nuteistiesiems kiekvieną mėnesį
@@ -3621,10 +3635,13 @@ terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes
 atliekančių nuteistųjų mitybos ir materialinio buitinio aprūpinimo normas
 nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
 Straipsnio pakeitimai:
-Nr. IX-2338, 2004-07-08,
-Žin., 2004, Nr. 115-4278 (2004-07-24)
+Nr. IX-2338,
+2004-07-08, Žin., 2004, Nr. 115-4278 (2004-07-24)
 Nr. X-164, 2005-04-21,
 Žin., 2005, Nr. 58-2002 (2005-05-07)
+Nr.
+X-637,
+2006-06-01, Žin., 2006, Nr. 68-2495 (2006-06-17)
  
 174 straipsnis. Arešto, terminuoto laisvės atėmimo
 ir laisvės atėmimo iki gyvos galvos bausmes atliekančių nuteistųjų sveikatos
@@ -3701,8 +3718,8 @@ sunkia nepagydoma liga nuteistasis gali būti apylinkės teismo atleistas nuo
 tolesnio bausmės atlikimo.
 2. Teikimą
 atleisti nuteistąjį nuo bausmės atlikimo dėl ligos teismui paduoda bausmės
-vykdymo institucijos vadovas. Kartu su teikimu teismui nusiunčiama gydytojų komisijos
-išvada ir nuteistojo asmens byla.
+vykdymo institucijos vadovas. Kartu su teikimu teismui nusiunčiama gydytojų
+komisijos išvada ir nuteistojo asmens byla.
  
 178 straipsnis. Atleidimas nuo bausmės atlikimo dėl
 invalidumo, pensinio amžiaus ir nėštumo
@@ -3789,10 +3806,10 @@ Nr. X-636, 2006-06-01,
 straipsnis. Ligonių paleidimo iš pataisos įstaigų ypatumai
 1. Laisvės
 atėmimo vietos gydymo įstaigoje laikomas sergantis asmuo, kuriam reikalinga
-stacionarinė medicinos pagalba, paleidimo dieną jo rašytiniu sutikimu už
-valstybės lėšas pervežamas į valstybės ar savivaldybės asmens sveikatos
-priežiūros viešąją įstaigą. Apie pervežimą nedelsiant pranešama paleidžiamo
-ligonio sutuoktiniui, sugyventiniui arba artimiesiems giminaičiams.
+stacionarinė medicinos pagalba, paleidimo dieną jo rašytiniu sutikimu už valstybės
+lėšas pervežamas į valstybės ar savivaldybės asmens sveikatos priežiūros
+viešąją įstaigą. Apie pervežimą nedelsiant pranešama paleidžiamo ligonio
+sutuoktiniui, sugyventiniui arba artimiesiems giminaičiams.
 2.
 Laisvės atėmimo vietos gydymo įstaigoje laikomas sunkiai sergantis asmuo, kurio
 paleidimo dieną pagal gydytojų išvadą negalima pervežti į valstybės ar
@@ -3806,8 +3823,7 @@ sutuoktinio, sugyventinio ar artimųjų giminaičių rašytiniu sutikimu pervež
 į valstybės ar savivaldybės asmens sveikatos priežiūros viešąją įstaigą ar kitą
 sveikatos priežiūros įstaigą.
  
-Antrasis
-skirsnis
+Antrasis skirsnis
 pagalba atleistiems nuo bausmės atlikimo asmenims
  
 182 straipsnis. Pagalbos suteikimas iš pataisos
@@ -3855,12 +3871,12 @@ turi išnagrinėti ne vėliau kaip per keturiolika dienų nuo jo gavimo dienos, 
 jei dėl skundo atliekamas patikrinimas, – per keturiolika dienų nuo patikrinimo
 baigimo dienos.
 3. Kalėjimų
-departamento direktoriaus veiksmai ir sprendimai per dvidešimt dienų nuo jų
-įteikimo gali būti skundžiami apygardos administraciniam teismui.
+departamento direktoriaus veiksmai ir sprendimai per dvidešimt dienų nuo jų įteikimo
+gali būti skundžiami apygardos administraciniam teismui.
 4. Baudos,
 juridinio asmens veiklos apribojimo ir juridinio asmens likvidavimo bausmes
-vykdančių antstolių veiksmai ir sprendimai skundžiami antstolio veiklos teritorijos
-apylinkės teismui Civilinio proceso kodekso nustatyta tvarka.
+vykdančių antstolių veiksmai ir sprendimai skundžiami antstolio veiklos
+teritorijos apylinkės teismui Civilinio proceso kodekso nustatyta tvarka.
 5. Lietuvos
 Respublikos įstatymų nustatytais atvejais ir tvarka bausmių vykdymo institucijų
 ir įstaigų, jų pareigūnų, taip pat antstolių veiksmai ir sprendimai gali būti
@@ -4048,11 +4064,20 @@ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 įstatymas, išskyrus šio skirsnio 2 straipsnį, įsigalioja nuo 2006 m. liepos 1
 d.
  
+6.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. X-637, 2006-06-01,
+Žin., 2006, Nr. 68-2495 (2006-06-17)
+BAUSMIŲ
+VYKDYMO KODEKSO 173 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja nuo 2006 m. liepos 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
 Aušrinė Trapinskienė (2006-06-20)
-                 
-autrap@lrs.lt
+                  autrap@lrs.lt
