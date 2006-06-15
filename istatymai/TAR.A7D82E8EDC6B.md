@@ -75,11 +75,9 @@ keliais vežti.
 11.
 Transporto priemonės savininkas – asmuo, kuriam transporto priemonė
 priklauso nuosavybės teise.
-12.
-Transporto priemonės valdytojas – asmuo, patikėjimo, nuomos, panaudos ar
-kitokiu teisėtu pagrindu valdantis ir naudojantis transporto priemonę.
-Transporto priemonės valdytoju nelaikomas fizinis asmuo, kuris vairuoja
-valdytojo transporto priemonę.
+12. Transporto
+priemonės valdytojas – asmuo, patikėjimo, nuomos, panaudos ar kitokiu
+teisėtu pagrindu valdantis, naudojantis ar vairuojantis transporto priemonę.
 13. Veikla –
 bet kokio pobūdžio komercinė arba gamybinė veikla, kuria siekiama gauti ir
 (arba) uždirbti pajamų ar kokios kitos ekonominės naudos.
@@ -89,13 +87,18 @@ nustatyta tvarka ir užsiimantis žemės ūkio veikla.
 15. Kitos šiame
 įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Kelių
 įstatyme.
+Straipsnio
+pakeitimai:
+Nr.
+X-693,
+2006-06-15, Žin., 2006, Nr. 73-2761 (2006-06-30)
  
 3 straipsnis. Programos finansavimo
 šaltiniai
 Programos
 finansavimo šaltiniai:
-1) atskaitymai nuo
-pajamų;
+1) atskaitymai
+nuo pajamų;
 2) dalis
 akcizo pajamų, gautų už realizuotą benziną ir dyzelinius degalus bei energetinius
 produktus, kurie pagaminti iš biologinės kilmės medžiagų ar su jų priedais ir
@@ -150,16 +153,16 @@ lizingo (finansinės nuomos) veiklos pajamas, atskaitymai į Programos
 finansavimo sąskaitą mokami nuo palūkanų pajamų;
 6) gaunant
 azartinių lošimų, organizuotų pagal Azartinių lošimų įstatymą, veiklos pajamas,
-atskaitymai į Programos finansavimo sąskaitą mokami nuo įplaukų, gautų iš azartinių
-lošimų.
+atskaitymai į Programos finansavimo sąskaitą mokami nuo įplaukų, gautų iš
+azartinių lošimų.
 2. Šio įstatymo
 1 priedėlio 2 ir 3 punktuose nurodytų dydžių atskaitymus į Programos
 finansavimo sąskaitą moka juridiniai asmenys, kurių pajamos iš šiuose punktuose
-nurodytos veiklos (iš jos – ir viešojo maitinimo) sudaro daugiau kaip 50 procentų
-(įskaitytinai) pajamų. Juridiniai asmenys, kurių pajamos iš šio įstatymo 1
-priedėlio 2 ir 3 punktuose nurodytos veiklos (iš jos – ir viešojo maitinimo)
-sudaro mažiau kaip 50 procentų visų pajamų, ir visi kiti juridiniai asmenys
-moka šio įstatymo 1 priedėlio 1 punkte nurodyto dydžio atskaitymus.
+nurodytos veiklos (iš jos – ir viešojo maitinimo) sudaro daugiau kaip 50
+procentų (įskaitytinai) pajamų. Juridiniai asmenys, kurių pajamos iš šio
+įstatymo 1 priedėlio 2 ir 3 punktuose nurodytos veiklos (iš jos – ir viešojo
+maitinimo) sudaro mažiau kaip 50 procentų visų pajamų, ir visi kiti juridiniai
+asmenys moka šio įstatymo 1 priedėlio 1 punkte nurodyto dydžio atskaitymus.
 3. Mokėtojai
 atskaitymus nuo kiekvieno mėnesio pajamų apskaičiuoja patys ir moka į Programos
 finansavimo sąskaitą „Kelių programa – atskaitymai nuo pajamų“ iki kito mėnesio
@@ -179,10 +182,11 @@ atskaitymų mokėjimo į Programos finansavimo sąskaitą atleidžiami:
 veiklos subjektai, kurių apmokestinamasis pelnas pagal Pelno mokesčio įstatymo
 nuostatas apmokestinamas taikant 0 procentų pelno mokesčio tarifą;
 2) kūrybinės
-sąjungos (architektų, mokslininkų, dailininkų, dizainerių, fotomenininkų, kompozitorių,
-kinematografininkų, rašytojų, tautodailininkų, teatro, žurnalistų), jų įmonės
-ir organizacijos, kurios ne mažiau kaip 50 procentų pelno sunaudoja kūrybinių
-sąjungų poreikiams, nustatytiems šių sąjungų įstatuose;
+sąjungos (architektų, mokslininkų, dailininkų, dizainerių, fotomenininkų,
+kompozitorių, kinematografininkų, rašytojų, tautodailininkų, teatro,
+žurnalistų), jų įmonės ir organizacijos, kurios ne mažiau kaip 50 procentų
+pelno sunaudoja kūrybinių sąjungų poreikiams, nustatytiems šių sąjungų
+įstatuose;
 3) įmonės,
 kuriose dirba ne mažiau kaip 50 procentų riboto darbingumo darbuotojų ir kurių
 pajamos gaunamos tik už jų pačių pagamintą produkciją;
@@ -213,16 +217,15 @@ už 2005 m. sausio–birželio mėnesius privalo pateikti apskrities valstybinei
 mokesčių inspekcijai iki 2005 m. rugsėjo 1 d.
  
 5 straipsnis. Dalis akcizo
-pajamų, gautų už realizuotą benziną, dyzelinius degalus bei energetinius produktus, kurie pagaminti iš biologinės kilmės
-medžiagų ar su jų priedais ir skirti naudoti kaip variklių degalai, ir akcizo pajamos, gautos už realizuotas
+pajamų, gautų už realizuotą benziną, dyzelinius degalus bei energetinius produktus, kurie pagaminti iš biologinės
+kilmės medžiagų ar su jų priedais ir skirti naudoti kaip variklių degalai, ir akcizo pajamos, gautos už realizuotas
 suskystintas dujas, skirtas automobiliams
 1. Nuo 2005 m.
-sausio 1 d. į Programos finansavimo sąskaitą pervedama 40 procentų, nuo 2005 m. gegužės
-1 d. – 50 procentų, o
-nuo 2006 m. sausio 1 d. – 60 procentų akcizo pajamų, gautų už realizuotą
-benziną, dyzelinius degalus bei energetinius produktus, kurie pagaminti
-iš biologinės kilmės medžiagų ar su jų priedais ir skirti naudoti kaip variklių
-degalai. 
+sausio 1 d. į Programos finansavimo sąskaitą pervedama 40 procentų, nuo 2005 m.
+gegužės 1 d. – 50 procentų, o nuo 2006 m. sausio 1 d. – 60 procentų akcizo pajamų,
+gautų už realizuotą benziną, dyzelinius degalus bei energetinius
+produktus, kurie pagaminti iš biologinės kilmės medžiagų ar su jų priedais ir
+skirti naudoti kaip variklių degalai. 
 2. Į Programos
 finansavimo sąskaitą pervedama 100 procentų akcizo pajamų, gautų už realizuotas
 suskystintas dujas, skirtas automobiliams. 
@@ -273,9 +276,9 @@ reikalų ministerijai bei įstaigoms prie šios ministerijos priklausančiomis
 transporto priemonėmis, priskirtomis kovinei, kovos-mokomajai, mokomajai,
 rikiuotės ir transportavimo grupėms, ir savivaldybių priešgaisrinės tarnybos
 transporto priemonėmis; 
-2) specialiai neįgaliesiems
-pritaikytomis transporto priemonėmis, priklausančiomis savivaldybių
-institucijoms ir nevalstybinėms neįgaliųjų organizacijoms;
+2) specialiai
+neįgaliesiems pritaikytomis transporto priemonėmis, priklausančiomis
+savivaldybių institucijoms ir nevalstybinėms neįgaliųjų organizacijoms;
 3) sveikatos priežiūros įstaigų
 greitosios medicinos pagalbos ir reanimacijos automobiliais;
 4) specialiai
@@ -299,21 +302,21 @@ Respublikoje ir užsienio šalyse, tarp jų ir Europos Sąjungos valstybėse nar
 kroviniu ar be jo viršija leidžiamus, ir (ar) kai viršijama leidžiama ašies
 (ašių) apkrova ir (ar) transporto priemonės (jų junginio) leidžiama bendroji
 masė 
-1. Važiuoti
-valstybinės ir vietinės reikšmės keliais transporto priemonėmis (jų
-junginiais), kurių matmenys su kroviniu ar be jo ir (ar) ašies (ašių) apkrova
-ir (ar) bendroji masė viršija maksimalius leidžiamus dydžius, galima tik
-suderinus su kelio savininku ir gavus jo leidimą. Leidimai važiuoti valstybinės
-reikšmės keliais išduodami Susisiekimo ministerijos nustatyta tvarka, o
-vietinės reikšmės keliais – savivaldybių nustatyta tvarka, sumokėjus nustatyto
-dydžio mokestį už važiavimą keliais didžiagabaritėmis ir (ar) sunkiasvorėmis
-transporto priemonėmis. Mokesčio dydį važiuojant tokiomis transporto
-priemonėmis valstybinės reikšmės keliais, neviršydama šio įstatymo 4 priedėlyje
-nustatytų ribinių tarifų, nustato Vyriausybė, o mokesčio mokėjimo,
-administravimo ir kontrolės tvarką nustato Susisiekimo ministerija. Dėl
-mokesčio, jo dydžio už naudojimąsi vietinės reikšmės vidaus keliais gali būti
-sprendžiama šalių tarpusavio susitarimu, vadovaujantis Civiliniame kodekse
-įtvirtintais principais.
+1. Važiuoti valstybinės
+ir vietinės reikšmės keliais transporto priemonėmis (jų junginiais), kurių
+matmenys su kroviniu ar be jo ir (ar) ašies (ašių) apkrova ir (ar) bendroji
+masė viršija maksimalius leidžiamus dydžius, galima tik suderinus su kelio
+savininku ir gavus jo leidimą. Leidimai važiuoti valstybinės reikšmės keliais
+išduodami Susisiekimo ministerijos nustatyta tvarka, o vietinės reikšmės
+keliais – savivaldybių nustatyta tvarka, sumokėjus nustatyto dydžio mokestį už
+važiavimą keliais didžiagabaritėmis ir (ar) sunkiasvorėmis transporto
+priemonėmis. Mokesčio dydį važiuojant tokiomis transporto priemonėmis
+valstybinės reikšmės keliais, neviršydama šio įstatymo 4 priedėlyje nustatytų
+ribinių tarifų, nustato Vyriausybė, o mokesčio mokėjimo, administravimo ir
+kontrolės tvarką nustato Susisiekimo ministerija. Dėl mokesčio, jo dydžio už
+naudojimąsi vietinės reikšmės vidaus keliais gali būti sprendžiama šalių
+tarpusavio susitarimu, vadovaujantis Civiliniame kodekse įtvirtintais
+principais.
 2. Mokestis
 nemokamas už Vidaus reikalų ministerijai bei įstaigoms prie šios ministerijos
 priklausančias transporto priemones, priskirtas kovinei, kovos-mokomajai,
@@ -353,9 +356,9 @@ apmokėti, kelių informacinėms sistemoms kurti, kelių infrastruktūros plėtr
 bendradarbiavimui su užsienio valstybėmis, teisės aktams ir norminiams
 dokumentams rengti, institucijų, atsakingų už valstybinės reikšmės kelius,
 išlaikymo išlaidoms apmokėti bei kontrolės įrangai įsigyti, paskoloms grąžinti
-bei palūkanoms mokėti, mokesčių administravimui bei jų surinkimo kontrolei,
-istorinėms kelių vertybėms išsaugoti, saugaus eismo programoms keliuose ir jų
-priemonėms įgyvendinti bei kitoms kelių srities reikmėms finansuoti.
+bei palūkanoms mokėti, mokesčių administravimui bei jų surinkimo kontrolei, istorinėms
+kelių vertybėms išsaugoti, saugaus eismo programoms keliuose ir jų priemonėms
+įgyvendinti bei kitoms kelių srities reikmėms finansuoti.
 2. Vyriausybė
 nustato Programos finansavimo lėšų naudojimo tvarką ir paskiria institucijas
 šiam įstatymui įgyvendinti. Šio įstatymo įgyvendinimą kontroliuoja nuolatinė
@@ -1016,8 +1019,7 @@ asenizaciniai automobiliai;
 automobiliai;
 12)
 šiukšliavežės ir šiukšlių rinkimo automobiliai;
-13) automobiliai, naudojami tik
-karjeruose;
+13) automobiliai, naudojami tik karjeruose;
 14)
 automobiliai, naudojami tik oro uostuose;
 15) mokomieji
@@ -2017,10 +2019,20 @@ pajamų mokėtojai atskaitymus nuo 2005 m. birželio mėnesio pajamų turi sumok
 už 2005 m. sausio–birželio mėnesius privalo pateikti apskrities valstybinei
 mokesčių inspekcijai iki 2005 m. rugsėjo 1 d.
  
+10.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. X-693, 2006-06-15,
+Žin., 2006, Nr. 73-2761 (2006-06-30)
+KELIŲ
+PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
+ 
 Redagavo:
-Aušrinė Trapinskienė (2004-12-13)
+Aušra Bodin (2006-07-03)
                  
-autrap@lrs.lt
+ausra.bodin@lrs.lt
