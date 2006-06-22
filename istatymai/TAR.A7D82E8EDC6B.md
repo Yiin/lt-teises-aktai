@@ -93,8 +93,7 @@ Nr.
 X-693,
 2006-06-15, Žin., 2006, Nr. 73-2761 (2006-06-30)
  
-3 straipsnis. Programos finansavimo
-šaltiniai
+3 straipsnis. Programos finansavimo šaltiniai
 Programos
 finansavimo šaltiniai:
 1) atskaitymai
@@ -117,121 +116,32 @@ junginiais), kurių matmenys su kroviniu ar be jo viršija leidžiamus, arba kai
 viršijama leidžiama ašies (ašių) apkrova ar transporto priemonės (jų junginio)
 leidžiama bendroji masė; 
 7) mokestis už eismo ribojimą;
-8) juridinių, fizinių asmenų bei
-užsienio valstybių tikslinės lėšos. 
+8) juridinių, fizinių asmenų bei užsienio
+valstybių tikslinės lėšos. 
  
-*4 straipsnis.
-Atskaitymai nuo pajamų 
-1. Atskaitymų
-nuo pajamų mokėtojai – juridiniai asmenys, išskyrus pelno nesiekiančius
-juridinius asmenis, šio įstatymo 1 priedėlyje nurodytų dydžių atskaitymus į
-Programos finansavimo sąskaitą moka nuo pajamų už parduotas prekes ir suteiktas
-paslaugas, taip pat už parduotą ilgalaikį materialųjį ir nematerialųjį turtą,
-vertybinius popierius, išvestines finansines priemones ir nuo palūkanų pajamų.
-Šios pajamos pripažįstamos vadovaujantis tais pačiais pajamų pripažinimo
-apskaitoje principais kaip ir apskaičiuojant pelno mokestį pagal Pelno mokesčio
-įstatymo nuostatas. Apskaičiuojant atskaitymus nuo pajamų į Programos
-finansavimo sąskaitą, atsižvelgiama į šias ypatybes:
-1) gaunant statybų
-veiklos pajamas, atskaitymai į Programos finansavimo sąskaitą mokami nuo
-pajamų, gautų už pačių juridinių asmenų atliktus statybos ir montavimo darbus;
-2) gaunant
-tarpininkavimo veiklos pajamas, atskaitymai į Programos finansavimo sąskaitą
-mokami nuo atlyginimo, apskaičiuoto pagal sutartį ir (arba) nustatyto apskaitos
-dokumente;
-3) gaunant pajamas
-iš komisinės prekybos, atskaitymai į Programos finansavimo sąskaitą mokami nuo
-komisinio atlyginimo dydžio, apskaičiuoto pagal sutartį ir (arba) nustatyto
-dokumente;
-4) parduodant
-ilgalaikį materialųjį ir nematerialųjį turtą, vertybinius popierius, išvestines
-finansines priemones, atskaitymai į Programos finansavimo sąskaitą mokami nuo
-šio turto vertės padidėjimo pajamų, apskaičiuotų Pelno mokesčio įstatymo
-nustatyta tvarka; 
-5) gaunant
-lizingo (finansinės nuomos) veiklos pajamas, atskaitymai į Programos
-finansavimo sąskaitą mokami nuo palūkanų pajamų;
-6) gaunant
-azartinių lošimų, organizuotų pagal Azartinių lošimų įstatymą, veiklos pajamas,
-atskaitymai į Programos finansavimo sąskaitą mokami nuo įplaukų, gautų iš
-azartinių lošimų.
-2. Šio įstatymo
-1 priedėlio 2 ir 3 punktuose nurodytų dydžių atskaitymus į Programos
-finansavimo sąskaitą moka juridiniai asmenys, kurių pajamos iš šiuose punktuose
-nurodytos veiklos (iš jos – ir viešojo maitinimo) sudaro daugiau kaip 50
-procentų (įskaitytinai) pajamų. Juridiniai asmenys, kurių pajamos iš šio
-įstatymo 1 priedėlio 2 ir 3 punktuose nurodytos veiklos (iš jos – ir viešojo
-maitinimo) sudaro mažiau kaip 50 procentų visų pajamų, ir visi kiti juridiniai
-asmenys moka šio įstatymo 1 priedėlio 1 punkte nurodyto dydžio atskaitymus.
-3. Mokėtojai
-atskaitymus nuo kiekvieno mėnesio pajamų apskaičiuoja patys ir moka į Programos
-finansavimo sąskaitą „Kelių programa – atskaitymai nuo pajamų“ iki kito mėnesio
-25 dienos.
-4. Mokėtojams,
-pažeidusiems atskaitymų nuo pajamų apskaičiavimo ir mokėjimo į Programos
-finansavimo sąskaitą tvarką, baudos skiriamos ir delspinigiai apskaičiuojami
-Mokesčių administravimo įstatymo nustatyta tvarka.
-5. Mokėtojai
-apskrities valstybinei mokesčių inspekcijai iki kovo 1 dienos privalo pateikti
-praėjusių metų atskaitymų į Programos finansavimo sąskaitą deklaraciją. Šios
-deklaracijos formą ir pildymo tvarką nustato centrinis mokesčių
-administratorius. 
-6. Nuo pajamų
-atskaitymų mokėjimo į Programos finansavimo sąskaitą atleidžiami:
-1) žemės ūkio
-veiklos subjektai, kurių apmokestinamasis pelnas pagal Pelno mokesčio įstatymo
-nuostatas apmokestinamas taikant 0 procentų pelno mokesčio tarifą;
-2) kūrybinės
-sąjungos (architektų, mokslininkų, dailininkų, dizainerių, fotomenininkų,
-kompozitorių, kinematografininkų, rašytojų, tautodailininkų, teatro,
-žurnalistų), jų įmonės ir organizacijos, kurios ne mažiau kaip 50 procentų
-pelno sunaudoja kūrybinių sąjungų poreikiams, nustatytiems šių sąjungų
-įstatuose;
-3) įmonės,
-kuriose dirba ne mažiau kaip 50 procentų riboto darbingumo darbuotojų ir kurių
-pajamos gaunamos tik už jų pačių pagamintą produkciją;
-4) biudžetinės
-įstaigos, valstybės ir savivaldybių institucijos, įstaigos, tarnybos ar
-organizacijos;
-5) daugiabučių
-namų savininkų bendrijos;
-6) laisvosiose
-ekonominėse zonose įregistruotos ir veikiančios įmonės;
-7) valstybės
-ir savivaldybių sveikatos priežiūros viešosios įstaigos;
-8) socialinės
-globos viešosios įstaigos;
-9) ikimokyklinio
-ugdymo įstaigos;
-10) Lietuvos
-bankas.
-7. Atskaitymų
-nuo pajamų apskaičiavimo, mokėjimo ir kontrolės tvarką bei dydžius, neviršydama
-šio įstatymo 1 priedėlyje nurodytų maksimalių dydžių, nustato Vyriausybė.
-*Pastaba. Šio įstatymo 4 straipsnis ir įstatymo 1
-priedėlis netenka galios nuo 2005 m. liepos 1 d. Atskaitymų nuo pajamų
-mokėtojai atskaitymus nuo 2005 m. birželio mėnesio pajamų turi sumokėti į
-Programos finansavimo sąskaitą ,,Kelių programa – atskaitymai nuo pajamų“ iki
-2005 m. liepos 25 d., o atskaitymų į Programos finansavimo sąskaitą deklaraciją
-už 2005 m. sausio–birželio mėnesius privalo pateikti apskrities valstybinei
-mokesčių inspekcijai iki 2005 m. rugsėjo 1 d.
+4 straipsnis. Neteko galios nuo 2005 m. liepos 1 d.
  
 5 straipsnis. Dalis akcizo
 pajamų, gautų už realizuotą benziną, dyzelinius degalus bei energetinius produktus, kurie pagaminti iš biologinės
 kilmės medžiagų ar su jų priedais ir skirti naudoti kaip variklių degalai, ir akcizo pajamos, gautos už realizuotas
 suskystintas dujas, skirtas automobiliams
-1. Nuo 2005 m.
-sausio 1 d. į Programos finansavimo sąskaitą pervedama 40 procentų, nuo 2005 m.
-gegužės 1 d. – 50 procentų, o nuo 2006 m. sausio 1 d. – 60 procentų akcizo pajamų,
-gautų už realizuotą benziną, dyzelinius degalus bei energetinius
+1.
+Nuo 2005 m. sausio 1 d. į Programos finansavimo sąskaitą pervedama 40 procentų,
+nuo 2005 m. gegužės 1 d. – 50 procentų, nuo 2006 m. sausio 1 d. – 60 procentų,  nuo
+2006 m. liepos 1 d. – 70 procentų, o nuo 2008 m. sausio 1 d. – 80 procentų  akcizo
+pajamų, gautų už realizuotą benziną, dyzelinius degalus bei energetinius
 produktus, kurie pagaminti iš biologinės kilmės medžiagų ar su jų priedais ir
-skirti naudoti kaip variklių degalai. 
+skirti naudoti kaip variklių degalai.
 2. Į Programos
 finansavimo sąskaitą pervedama 100 procentų akcizo pajamų, gautų už realizuotas
 suskystintas dujas, skirtas automobiliams. 
 3. Akcizo pajamų
 atskaitymus kiekvieną mėnesį iki kito mėnesio 25 dienos į Programos finansavimo
 sąskaitą perveda Finansų ministerija.
+Straipsnio
+pakeitimai:
+Nr. X-725, 2006-06-22,
+Žin., 2006, Nr. 77-2969 (2006-07-14)
  
 6 straipsnis. Mokestis už Lietuvos
 Respublikoje įregistruotas krovinines transporto priemones 
@@ -258,11 +168,11 @@ nevalstybinėms neįgaliųjų organizacijoms.
 straipsnis. Lietuvos Respublikoje, užsienio šalyse, tarp jų ir Europos Sąjungos
 valstybėse narėse, įregistruotų transporto priemonių savininkų ar valdytojų
 naudotojo mokestis 
-1. Lietuvos
-Respublikoje, užsienio šalyse, tarp jų ir Europos Sąjungos valstybėse narėse,
-įregistruotų transporto priemonių savininkai ar valdytojai naudotojo mokestį
-moka už važiavimą aukščiausios kategorijos keliais (magistraliniais ir krašto).
-Už važiavimą valstybinės reikšmės rajoniniais ar vietinės reikšmės keliais
+1. Lietuvos Respublikoje,
+užsienio šalyse, tarp jų ir Europos Sąjungos valstybėse narėse, įregistruotų
+transporto priemonių savininkai ar valdytojai naudotojo mokestį moka už
+važiavimą aukščiausios kategorijos keliais (magistraliniais ir krašto). Už
+važiavimą valstybinės reikšmės rajoniniais ar vietinės reikšmės keliais
 naudotojo mokestis nemokamas.
 2. Transporto
 priemonių savininkų ar valdytojų naudotojo mokesčio (toliau – naudotojo
@@ -302,21 +212,21 @@ Respublikoje ir užsienio šalyse, tarp jų ir Europos Sąjungos valstybėse nar
 kroviniu ar be jo viršija leidžiamus, ir (ar) kai viršijama leidžiama ašies
 (ašių) apkrova ir (ar) transporto priemonės (jų junginio) leidžiama bendroji
 masė 
-1. Važiuoti valstybinės
-ir vietinės reikšmės keliais transporto priemonėmis (jų junginiais), kurių
-matmenys su kroviniu ar be jo ir (ar) ašies (ašių) apkrova ir (ar) bendroji
-masė viršija maksimalius leidžiamus dydžius, galima tik suderinus su kelio
-savininku ir gavus jo leidimą. Leidimai važiuoti valstybinės reikšmės keliais
-išduodami Susisiekimo ministerijos nustatyta tvarka, o vietinės reikšmės
-keliais – savivaldybių nustatyta tvarka, sumokėjus nustatyto dydžio mokestį už
-važiavimą keliais didžiagabaritėmis ir (ar) sunkiasvorėmis transporto
-priemonėmis. Mokesčio dydį važiuojant tokiomis transporto priemonėmis
-valstybinės reikšmės keliais, neviršydama šio įstatymo 4 priedėlyje nustatytų
-ribinių tarifų, nustato Vyriausybė, o mokesčio mokėjimo, administravimo ir
-kontrolės tvarką nustato Susisiekimo ministerija. Dėl mokesčio, jo dydžio už
-naudojimąsi vietinės reikšmės vidaus keliais gali būti sprendžiama šalių
-tarpusavio susitarimu, vadovaujantis Civiliniame kodekse įtvirtintais
-principais.
+1. Važiuoti
+valstybinės ir vietinės reikšmės keliais transporto priemonėmis (jų
+junginiais), kurių matmenys su kroviniu ar be jo ir (ar) ašies (ašių) apkrova
+ir (ar) bendroji masė viršija maksimalius leidžiamus dydžius, galima tik
+suderinus su kelio savininku ir gavus jo leidimą. Leidimai važiuoti valstybinės
+reikšmės keliais išduodami Susisiekimo ministerijos nustatyta tvarka, o
+vietinės reikšmės keliais – savivaldybių nustatyta tvarka, sumokėjus nustatyto
+dydžio mokestį už važiavimą keliais didžiagabaritėmis ir (ar) sunkiasvorėmis
+transporto priemonėmis. Mokesčio dydį važiuojant tokiomis transporto
+priemonėmis valstybinės reikšmės keliais, neviršydama šio įstatymo 4 priedėlyje
+nustatytų ribinių tarifų, nustato Vyriausybė, o mokesčio mokėjimo,
+administravimo ir kontrolės tvarką nustato Susisiekimo ministerija. Dėl
+mokesčio, jo dydžio už naudojimąsi vietinės reikšmės vidaus keliais gali būti
+sprendžiama šalių tarpusavio susitarimu, vadovaujantis Civiliniame kodekse
+įtvirtintais principais.
 2. Mokestis
 nemokamas už Vidaus reikalų ministerijai bei įstaigoms prie šios ministerijos
 priklausančias transporto priemones, priskirtas kovinei, kovos-mokomajai,
@@ -336,8 +246,8 @@ ribojamas ar uždaromas eismas, dydžiai nurodyti šio įstatymo 5 priedėlyje. 
 mokesčio mokėjimo, administravimo ir kontrolės tvarką nustato Susisiekimo
 ministerija. Mokestis už eismo ribojimą valstybinės reikšmės keliuose
 nemokamas, kai darbai atliekami iš Programos finansavimo lėšų bei įrengiant,
-rekonstruojant ar taisant (remontuojant) melioracijos sistemas kelių apsaugos
-zonoje, kai nepažeidžiama kelio sankasa ir (ar) kiti kelio statiniai.
+rekonstruojant ar taisant (remontuojant) melioracijos sistemas kelių apsaugos zonoje,
+kai nepažeidžiama kelio sankasa ir (ar) kiti kelio statiniai.
 2. Į
 Programos finansavimo sąskaitą gali būti pervedamos fizinių, juridinių asmenų
 bei užsienio valstybių perduodamos tikslinės lėšos.
@@ -356,9 +266,9 @@ apmokėti, kelių informacinėms sistemoms kurti, kelių infrastruktūros plėtr
 bendradarbiavimui su užsienio valstybėmis, teisės aktams ir norminiams
 dokumentams rengti, institucijų, atsakingų už valstybinės reikšmės kelius,
 išlaikymo išlaidoms apmokėti bei kontrolės įrangai įsigyti, paskoloms grąžinti
-bei palūkanoms mokėti, mokesčių administravimui bei jų surinkimo kontrolei, istorinėms
-kelių vertybėms išsaugoti, saugaus eismo programoms keliuose ir jų priemonėms
-įgyvendinti bei kitoms kelių srities reikmėms finansuoti.
+bei palūkanoms mokėti, mokesčių administravimui bei jų surinkimo kontrolei,
+istorinėms kelių vertybėms išsaugoti, saugaus eismo programoms keliuose ir jų
+priemonėms įgyvendinti bei kitoms kelių srities reikmėms finansuoti.
 2. Vyriausybė
 nustato Programos finansavimo lėšų naudojimo tvarką ir paskiria institucijas
 šiam įstatymui įgyvendinti. Šio įstatymo įgyvendinimą kontroliuoja nuolatinė
@@ -373,26 +283,26 @@ finansuoti.
 sąmatose turi būti numatoma 20 procentų Programos finansavimo lėšų valstybei,
 savivaldybėms panaudoti vietinės reikšmės keliams (gatvėms) tiesti, taisyti,
 prižiūrėti bei saugaus eismo sąlygoms užtikrinti.
-5.
-Vyriausybės nustatyta tvarka Programos finansavimo lėšos taip pat naudojamos
-neįgaliesiems ir jų vairuojamiems specialiems lengviesiems automobiliams,
-tarnybos reikalais vykstantiems greitosios medicinos pagalbos ir reanimacijos,
-priešgaisrinių gelbėjimo tarnybų, policijos, valstybės sienos apsaugos,
-civilinės saugos, kelių priežiūros, uosto saugos tarnybų, prokuratūros,
-muitinės, inspekcijų pareigūnams, Klaipėdos miesto savivaldybės valstybės
-tarnautojams ir darbuotojams, atliekantiems tarnybines funkcijas Klaipėdos
-miesto dalyje Smiltynėje, taip pat kitiems valstybės pareigūnams, nurodytiems
-Vyriausybės nustatytos tvarkos nuostatuose, ir šių tarnybų transporto priemonėms, tolimojo, vietinio (miesto) reguliaraus
-susisiekimo autobusams, dviračiams, autocisternoms, vežančioms kurą į Kuršių
-neriją, juridinių asmenų, turinčių Kuršių nerijoje registruotą buveinę,
-transporto priemonėms ir darbuotojams, Klaipėdos miesto savivaldybės įmonių
-transporto priemonėms ir darbuotojams, dirbantiems darbus Klaipėdos miesto
-dalyje Smiltynėje, Neringos mieste ir Klaipėdos miesto dalyje Smiltynėje
-gyvenamąją vietą deklaravusiems asmenims ir jų lengvosioms transporto priemonėms
-neatlygintinai perkelti keltais per Klaipėdos valstybinio jūrų uosto akvatoriją
-į (iš) Kuršių neriją (-os) bei Šilutės rajono gyventojų ir jų lengvųjų
-transporto priemonių neatlygintino perkėlimo užlietu krašto kelio Šilutė–Rusnė
-ruožu sąnaudoms kompensuoti.
+5. Vyriausybės
+nustatyta tvarka Programos finansavimo lėšos taip pat naudojamos neįgaliesiems
+ir jų vairuojamiems specialiems lengviesiems automobiliams, tarnybos reikalais
+vykstantiems greitosios medicinos pagalbos ir reanimacijos, priešgaisrinių
+gelbėjimo tarnybų, policijos, valstybės sienos apsaugos, civilinės
+saugos, kelių priežiūros, uosto saugos tarnybų, prokuratūros, muitinės,
+inspekcijų pareigūnams, Klaipėdos miesto savivaldybės valstybės tarnautojams ir
+darbuotojams, atliekantiems tarnybines funkcijas Klaipėdos miesto dalyje
+Smiltynėje, taip pat kitiems valstybės pareigūnams, nurodytiems Vyriausybės
+nustatytos tvarkos nuostatuose, ir šių tarnybų transporto
+priemonėms, tolimojo, vietinio (miesto) reguliaraus susisiekimo autobusams,
+dviračiams, autocisternoms, vežančioms kurą į Kuršių neriją, juridinių asmenų,
+turinčių Kuršių nerijoje registruotą buveinę, transporto priemonėms ir
+darbuotojams, Klaipėdos miesto savivaldybės įmonių transporto priemonėms ir
+darbuotojams, dirbantiems darbus Klaipėdos miesto dalyje Smiltynėje, Neringos
+mieste ir Klaipėdos miesto dalyje Smiltynėje gyvenamąją vietą deklaravusiems
+asmenims ir jų lengvosioms transporto priemonėms neatlygintinai perkelti
+keltais per Klaipėdos valstybinio jūrų uosto akvatoriją į (iš) Kuršių neriją
+(-os) bei Šilutės rajono gyventojų ir jų lengvųjų transporto priemonių
+neatlygintino perkėlimo užlietu krašto kelio Šilutė–Rusnė ruožu sąnaudoms kompensuoti.
  
 11 straipsnis. Programos
 finansavimo garantijos
@@ -421,30 +331,8 @@ finansavimo
                                                                                                 įstatymo
                                                                         
                        1 priedėlis
- 
-ATSKAITYMŲ NUO PAJAMŲ Į PROGRAMOS FINANSAVIMO SĄSKAITĄ
-MAKSIMALŪS DYDŽIAI
- 
-Maksimalaus
-dydžio atskaitymus nuo pajamų į Programos finansavimo sąskaitą moka:
-1) juridiniai
-asmenys, išskyrus kredito įstaigas ir tuos, kurie verčiasi prekybos veikla,
-automobiliams skirtų suskystintų dujų realizavimu, – iki 0,5 procento pajamų;
-2) juridiniai
-asmenys, kurie verčiasi prekybos veikla, – iki 0,3 procento pajamų; 
-3) juridiniai
-asmenys, kurie verčiasi automobiliams skirtų suskystintų dujų realizavimu, –
-iki 0,1 procento pajamų;
-4) kredito
-įstaigos, išskyrus Lietuvos banką, – iki 1 procento pajamų, gautų iš maržos ir
-už kitas paslaugas.
-*Pastaba. Šio įstatymo 4
-straipsnis ir įstatymo 1 priedėlis netenka galios nuo 2005 m. liepos 1 d.
-Atskaitymų nuo pajamų mokėtojai atskaitymus nuo 2005 m. birželio mėnesio pajamų
-turi sumokėti į Programos finansavimo sąskaitą ,,Kelių programa – atskaitymai
-nuo pajamų“ iki 2005 m. liepos 25 d., o atskaitymų į Programos finansavimo
-sąskaitą deklaraciją už 2005 m. sausio–birželio mėnesius privalo pateikti
-apskrities valstybinei mokesčių inspekcijai iki 2005 m. rugsėjo 1 d.
+1 priedėlis neteko galios nuo 2005 m.
+liepos 1 d.
  
  
                                                                                                 Lietuvos
@@ -1007,8 +895,8 @@ su laboratorijų įranga;
 automobiliai-techninės pagalbos dirbtuvės;
 6)
 automobiliai-parduotuvės;
-7) automobiliai-televizijos
-stotys;
+7)
+automobiliai-televizijos stotys;
 8)
 automobiliai-radijo stotys;
 9)
@@ -1019,7 +907,8 @@ asenizaciniai automobiliai;
 automobiliai;
 12)
 šiukšliavežės ir šiukšlių rinkimo automobiliai;
-13) automobiliai, naudojami tik karjeruose;
+13) automobiliai, naudojami tik
+karjeruose;
 14)
 automobiliai, naudojami tik oro uostuose;
 15) mokomieji
@@ -1667,8 +1556,8 @@ Rajoniniai
 
 Įvairiems darbams kelio važiuojamojoje
   dalyje dirbti iki trijų parų imtinai, pažeidžiant žvyro dangą, ir kai kelias
-  visai uždaromas, o transporto priemonių eismas nukreipiamas kitais keliais
-  arba įrengiama uždarytos vietos apylanka 
+  visai uždaromas, o transporto priemonių eismas nukreipiamas kitais keliais arba
+  įrengiama uždarytos vietos apylanka 
 
 
  
@@ -1869,8 +1758,9 @@ kelių su keturiomis ir daugiau eismo juostų važiuojamojoje dalyje;
 4.2.
 gyvenamosiose vietovėse valstybinės reikšmės kelio važiuojamojoje dalyje, kai
 tie darbai susiję su kelio dangos ardymu, nuo lapkričio 1 d. iki gegužės 1d.;
-4.3. važiuojamojoje
-kelio dalyje, kai asfaltbetonio danga paklota mažiau kaip prieš 5 metus.
+4.3.
+važiuojamojoje kelio dalyje, kai asfaltbetonio danga paklota mažiau kaip prieš
+5 metus.
  
  
                                                                                                 Lietuvos
@@ -1888,8 +1778,7 @@ priedėlis
 1. 1996 m.
 liepos 25 d. Tarybos direktyva 96/53/EB, nustatanti tam tikrų Bendrijoje
 naudojamų kelių transporto priemonių maksimalius leistinus matmenis vidaus ir
-tarptautinio vežimo sąlygomis bei maksimalią leistiną masę tarptautinio vežimo
-sąlygomis.
+tarptautinio vežimo sąlygomis bei maksimalią leistiną masę tarptautinio vežimo sąlygomis.
 2. 1999 m.
 birželio 17 d. Europos Parlamento ir Tarybos direktyva 1999/62/EB dėl
 sunkiasvorių krovininių transporto priemonių apmokestinimo už naudojimąsi tam
@@ -1971,9 +1860,9 @@ IX-2139,
 ĮMONIŲ
 IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR
 PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ
-ĮSTATYMO, MOKESČIŲ UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO,
-MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS
-BANKO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ĮSTATYMO, MOKESČIŲ UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO, MOKESČIO
+UŽ APLINKOS TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS BANKO
+ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis
 Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
  
@@ -2028,11 +1917,21 @@ KELIŲ
 PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
  
+11.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-725,
+2006-06-22, Žin., 2006, Nr. 77-2969 (2006-07-14)
+KELIŲ
+PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušra Bodin (2006-07-03)
+Aušrinė Trapinskienė (2006-07-17)
                  
-ausra.bodin@lrs.lt
+autrap@lrs.lt
