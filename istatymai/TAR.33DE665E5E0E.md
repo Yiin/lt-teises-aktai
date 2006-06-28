@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.33DE665E5E0E"
 
 # Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymas
 
-Suvestinė redakcija nuo 2006-04-22 iki 2006-06-27
+Suvestinė redakcija nuo 2006-06-28 iki 2009-05-25
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 51-1392; Žin. 2004, Nr.98-3626, i. k. 0981010ISTAVIII-730
  
@@ -82,6 +82,46 @@ Straipsnio dalies pakeitimai:
  
 
 
+
+
+
+
+31 straipsnis. Vyriausybės atstovo priesaika
+
+
+1. Asmuo, paskirtas Vyriausybės atstovu, prieš pradėdamas eiti pareigas, prisiekia Lietuvos Respublikos Ministrui Pirmininkui. Prisiekiantis asmuo turi teisę pasirinkti vieną iš šiame straipsnyje nustatytų priesaikos tekstų. Nustatomi šie priesaikos tekstai:
+„1) „Aš, Vyriausybės atstovas (vardas, pavardė),
+prisiekiu būti ištikimas Lietuvos Respublikai,
+prisiekiu gerbti ir vykdyti jos Konstituciją ir įstatymus,
+saugoti jos žemių vientisumą,
+prisiekiu visomis išgalėmis stiprinti Lietuvos nepriklausomybę,
+sąžiningai tarnauti Tėvynei, demokratijai, Lietuvos žmonių gerovei,
+prisiekiu ginti žmogaus teises, laisves ir teisėtus interesus,
+prisiekiu sąžiningai ir garbingai atlikti savo pareigas.
+Tepadeda man Dievas.“ arba
+2) „Aš, Vyriausybės atstovas (vardas, pavardė),
+prisiekiu būti ištikimas Lietuvos Respublikai,
+prisiekiu gerbti ir vykdyti jos Konstituciją ir įstatymus,
+saugoti jos žemių vientisumą,
+prisiekiu visomis išgalėmis stiprinti Lietuvos nepriklausomybę,
+sąžiningai tarnauti Tėvynei, demokratijai, Lietuvos žmonių gerovei,
+prisiekiu ginti žmogaus teises, laisves ir teisėtus interesus,
+prisiekiu sąžiningai ir garbingai atlikti savo pareigas.“
+
+
+
+
+2. Vyriausybės atstovas priesaikos tekstą pasirašo. Priesaikos tekstas saugomas Vyriausybės atstovo asmens byloje.
+
+
+
+
+3. Asmuo, paskirtas Vyriausybės atstovu, bet neprisiekęs, negali eiti Vyriausybės atstovo pareigų. 
+
+
+Papildyta straipsniu:
+Nr. X-684, 2006-06-13, Žin., 2006, Nr. 72-2696 (2006-06-28), i. k. 1061010ISTA000X-684
+ 
 
 
 
@@ -372,3 +412,8 @@ Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymo pakei
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2006-04-14, Žin., 2006, Nr. 44-1608 (2006-04-22), i. k. 1061000NUTARG062499                
 Dėl Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymo 3 straipsnio 4 dalies (2002 m. gruodžio 10 d., 2004 m. birželio 8 d. redakcijos), 5 straipsnio 4 dalies (2002 m. gruodžio 10 d. redakcija), 7 straipsnio (2002 m. gruodžio 10 d. redakcija), 8 straipsnio (2002 m. gruodžio 10 d. redakcija), 9 straipsnio (2002 m. gruodžio 10 d. redakcija), 11 straipsnio (2002 m. gruodžio 10 d. redakcija), Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymo pakeitimo įstatymo (2002 m. gruodžio 10 d. redakcija) 2 straipsnio 2 dalies, Lietuvos Respublikos valstybės tarnybos įstatymo 44 straipsnio 1 dalies (2002 m. gruodžio 10 d. redakcija), 62 straipsnio 12 dalies (2000 m. lapkričio 21 d. redakcija), Lietuvos Respublikos Vyriausybės 2003 m. gruodžio 3 d. nutarimo Nr. 1525 "Dėl Vyriausybės atstovo Marijampolės apskričiai atleidimo", Lietuvos Respublikos Vyriausybės 2003 m. gruodžio 3 d. nutarimo Nr. 1526 "Dėl Vyriausybės atstovo Panevėžio apskričiai atleidimo", Lietuvos Respublikos Vyriausybės 2003 m. gruodžio 3 d. nutarimo Nr. 1527 "Dėl Vyriausybės atstovo Šiaulių apskričiai atleidimo", Lietuvos Respublikos Vyriausybės 2003 m. gruodžio 3 d. nutarimo Nr. 1528 "Dėl Vyriausybės atstovo Telšių apskričiai atleidimo" 1 punkto, Lietuvos Respublikos Vyriausybės 2003 m. gruodžio 3 d. nutarimo Nr. 1529 "Dėl Vyriausybės atstovo Vilniaus apskričiai atleidimo", Lietuvos Respublikos Vyriausybės 2003 m. gruodžio 10 d. nutarimo Nr. 1578 "Dėl Vyriausybės atstovo Šiaulių apskričiai" 1 punkto atitikties Lietuvos Respublikos Konstitucijai
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-684, 2006-06-13, Žin., 2006, Nr. 72-2696 (2006-06-28), i. k. 1061010ISTA000X-684
+Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymo papildymo 3-1 straipsniu įstatymas
