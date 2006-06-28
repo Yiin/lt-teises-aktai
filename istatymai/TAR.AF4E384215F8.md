@@ -13,6 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AF4E384215F8"
 
 # Lietuvos Respublikos vadovybės apsaugos įstatymas
 
+Suvestinė redakcija nuo 2006-06-28 iki 2012-12-31
+ 
+Įstatymas paskelbtas: Žin. 2002, Nr. 112-4982; Žin. 2002, Nr.113-0, i. k. 1021010ISTA0IX-1183
+ 
+ 
+ 
 LIETUVOS RESPUBLIKOS VADOVYBĖS APSAUGOS ĮSTATYMAS
  
 2002 m. lapkričio 7 d. Nr. IX-1183
@@ -189,7 +195,14 @@ SAUGOMŲ ASMENŲ STATUSAS, SAUGOMŲ ASMENŲ IR SAUGOMŲ OBJEKTŲ APSAUGOS UŽTIK
 
 
 
-8) bendradarbiauti su užsienio šalių, Lietuvos Respublikos oficialių svečių, saugomų asmenų apsaugos tarnybų darbuotojais.
+8) bendradarbiauti su užsienio šalių, Lietuvos Respublikos oficialių svečių, saugomų asmenų apsaugos tarnybų darbuotojais;
+
+
+
+
+9) įstatymų nustatyta tvarka pasitelkti karinius vienetus užtikrinant saugomų asmenų apsaugą, kai tam nepakanka ar nėra tinkamų Vadovybės apsaugos departamento ir kitų vidaus reikalų statutinių įstaigų pajėgų. 
+Papildyta straipsnio punktu:
+Nr. X-678, 2006-06-08, Žin., 2006, Nr. 72-2693 (2006-06-28), i. k. 1061010ISTA000X-678
  
 
 
@@ -1093,3 +1106,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-678, 2006-06-08, Žin., 2006, Nr. 72-2693 (2006-06-28), i. k. 1061010ISTA000X-678
+Lietuvos Respublikos vadovybės apsaugos įstatymo 6 straipsnio papildymo įstatymas
