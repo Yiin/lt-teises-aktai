@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.845C6618A647"
 
 # Lietuvos Respublikos nepaprastosios padėties įstatymas
 
-Suvestinė redakcija nuo 2005-05-28 iki 2006-06-27
+Suvestinė redakcija nuo 2006-06-28 iki 2010-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2575, i. k. 1021010ISTA00IX-938
  
@@ -210,7 +210,10 @@ NEPAPRASTOSIOS PADĖTIES ĮVEDIMO IR ATŠAUKIMO TVARKA
 
 
 
-5) ar įvedamas tiesioginis valdymas, ar steigiamos viešosios tvarkos apsaugos komendantūros, ar nepaprastosios padėties metu bus naudojama Lietuvos kariuomenė, mobilizacinis rezervas ir kitos pagal aplinkybes būtinos priemonės;
+5) ar įvedamas tiesioginis valdymas, ar steigiamos viešosios tvarkos apsaugos komendantūros, ar nepaprastosios padėties metu bus pasitelkiama Lietuvos kariuomenė, mobilizacinis rezervas ir kitos pagal aplinkybes būtinos priemonės. Jeigu nusprendžiama pasitelkti kariuomenę, nutarime ar Respublikos Prezidento dekrete turi būti nurodytos konkrečios taikomos nepaprastosios priemonės, kurioms taikyti pasitelkiami kariniai vienetai;
+Straipsnio punkto pakeitimai:
+Nr. X-677, 2006-06-08, Žin., 2006, Nr. 72-2692 (2006-06-28), i. k. 1061010ISTA000X-677
+ 
 
 
 
@@ -475,7 +478,9 @@ Nepaprastosios padėties įstatymo vykdymą tiesiogiai užtikrina ir kontroliuoj
 
 
 
-2. Karinių vienetų veiksmus nepaprastosios padėties metu Respublikos Prezidento leidimu koordinuoja institucijos, atsakingos už ekstremalių situacijų valdymą, vadovas.
+2. Neteko galios nuo 2006-06-28
+Straipsnio dalies naikinimas:
+Nr. X-677, 2006-06-08, Žin. 2006, Nr. 72-2692 (2006-06-28), i. k. 1061010ISTA000X-677
  
 
 
@@ -883,3 +888,8 @@ Lietuvos Respublikos nepaprastosios padėties įstatymo 19 straipsnio pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-187, 2005-05-12, Žin., 2005, Nr. 67-2399 (2005-05-28), i. k. 1051010ISTA000X-187
 Lietuvos Respublikos nepaprastosios padėties įstatymo 28 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-677, 2006-06-08, Žin., 2006, Nr. 72-2692 (2006-06-28), i. k. 1061010ISTA000X-677
+Lietuvos Respublikos nepaprastosios padėties įstatymo 7 ir 17 straipsnių pakeitimo įstatymas
