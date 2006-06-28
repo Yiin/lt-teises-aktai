@@ -1,0 +1,1716 @@
+---
+tar_id: TAR.6EA8AC8A483B
+dok_nr: IX-2152
+pavadinimas: "Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas"
+rusis: istatymas
+leidziantis_organas: Lietuvos Respublikos Seimas
+priemimo_data: 2004-04-22
+isigaliojimo_data: 2004-04-30
+paskelbimo_data: 2004-04-22
+statusas: galioja
+etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
+---
+
+# Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
+
+Neoficialus įstatymo tekstas
+Įstatymas skelbtas: Žin.,
+2004, Nr. 72-2487
+ 
+LIETUVOS RESPUBLIKOS
+GELEŽINKELIŲ TRANSPORTO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR TAIKYMO
+ĮSTATYMAS
+2004 m. balandžio 22 d. Nr. IX-2152
+Vilnius
+1 straipsnis. Lietuvos Respublikos geležinkelių transporto
+kodekso patvirtinimas
+Šiuo Įstatymu Seimas patvirtina Lietuvos
+Respublikos geležinkelių transporto kodeksą.
+ 
+2 straipsnis.
+Geležinkelių transporto kodekso įsigaliojimas
+Geležinkelių transporto kodeksas
+įsigalioja nuo 2004 m. gegužės 1 d., išskyrus Kodekso 23 straipsnio 1 ir 3
+dalis bei 24 straipsnio 2 dalį, kurios įsigalioja nuo valstybės įmonės viešajai
+geležinkelių infrastruktūrai valdyti įsteigimo dienos.
+ 
+3 straipsnis.
+Kitų įstatymų ir teisės aktų galiojimas
+1. Geležinkelių transporto veiklą
+reglamentuojantys kiti įstatymai ir teisės aktai, galioję Lietuvos Respublikoje
+iki Geležinkelių transporto kodekso įsigaliojimo, galioja tiek, kiek
+neprieštarauja Geležinkelių transporto kodeksui, išskyrus atvejus, kai Kodeksas
+pirmenybę suteikia kitų įstatymų normoms.
+2. Šis straipsnis netaikomas Lietuvos
+Respublikos dvišaliams ir daugiašaliams susitarimams dėl tarptautinio
+susisiekimo geležinkeliais.
+ 
+4 straipsnis.
+Geležinkelių transporto kodekso taikymas
+1.
+Geležinkelių transporto kodeksas taikomas santykiams, atsirandantiems iš
+keleivių, bagažo ir krovinių vežimo Lietuvos Respublikos geležinkelių
+transportu, išskyrus šiame straipsnyje nustatytas išimtis.
+2. Geležinkelių transporto kodekso 24
+straipsnyje ir kituose šio Kodekso straipsniuose nustatytas viešosios
+geležinkelių infrastruktūros valdytojo funkcijas, kol bus įsteigta valstybės
+įmonė viešajai geležinkelių infrastruktūrai valdyti, atlieka akcinė bendrovė
+„Lietuvos geležinkeliai.
+3. Geležinkelių transporto kodeksas netaikomas
+siauriesiems geležinkeliams (600 mm ir 750 mm pločio vėžė).
+Straipsnio
+pakeitimai:
+Nr.
+X-653, 2006-06-08, Žin., 2006, Nr.
+72-2672 (2006-06-28)
+ 
+5 straipsnis.
+Teisės aktų pripažinimas netekusiais galios
+Įsigaliojus Lietuvos Respublikos
+geležinkelių transporto kodeksui, netenka galios Lietuvos Respublikos
+geležinkelio transporto kodeksas (Žin., 1996, Nr. 59-1402; 1998,
+Nr. 105-2896; 2002, Nr. 74-3143).
+ 
+6 straipsnis.
+Pasiūlymas Vyriausybei
+Lietuvos Respublikos Vyriausybė arba jos įgaliota
+institucija, įsigaliojus šiam Įstatymui, peržiūri geležinkelių transporto
+veiklą reglamentuojančius galiojančius teisės aktus, nustato, ar tikslinga juos
+pripažinti netekusiais galios, ar keisti, ir, jei reikia, parengia atitinkamų
+teisės aktų projektus ar juos patvirtina.
+ 
+Skelbiu šį Lietuvos Respublikos Seimo priimtą
+įstatymą. 
+ 
+LAIKINAI EINANTIS 
+RESPUBLIKOS PREZIDENTO
+PAREIGAS                                 
+ARTŪRAS PAULAUSKAS 
+                                                                                           PATVIRTINTA                                                                                         2004 m. balandžio 22 d.                                                                                         įstatymu Nr. IX-2152 
+ 
+LIETUVOS
+RESPUBLIKOS GELEŽINKELIŲ TRANSPORTO 
+K O D
+E K S A S
+ 
+PIRMASIS SKIRSNIS
+BENDROSIOS
+NUOSTATOS
+ 
+1 straipsnis. Kodekso paskirtis
+1. Lietuvos Respublikos geležinkelių
+transporto kodeksas nustato geležinkelių transporto veiklos sąlygas,
+reikalavimus geležinkelių transporto darbuotojams ir reglamentuoja santykius,
+atsirandančius iš keleivių, bagažo ir (ar) krovinių vežimo Lietuvos Respublikos
+geležinkelių transportu.
+2. Šio Kodekso nuostatos atitinka Kodekso
+priede pateiktus Europos Sąjungos teisės aktus.
+ 
+2
+straipsnis. Geležinkelių transporto veiklą reglamentuojantys teisės aktai 
+1. Geležinkelių transporto veiklą
+reglamentuoja šis Kodeksas, Lietuvos Respublikos tarptautinės sutartys,
+Lietuvos Respublikos įstatymai, Lietuvos Respublikos Vyriausybės nutarimai ir
+kiti teisės aktai.
+2. Tarptautiniams keleivių ir
+bagažo, krovinių vežimams šis Kodeksas taikomas tiek, kiek to nereglamentuoja
+Lietuvos Respublikos dvišaliai ar daugiašaliai susitarimai dėl tarptautinio
+susisiekimo geležinkeliais.            
+ 
+3 straipsnis.
+Pagrindinės šio Kodekso sąvokos
+1. Eismo saugos valdymo sistema – viešosios
+geležinkelių infrastruktūros valdytojo arba geležinkelio įmonės (vežėjo)
+nustatytos priemonės, kuriomis siekiama užtikrinti geležinkelių transporto
+eismo saugą šioms įmonėms vykdant savo veiklą.
+2. Esminiai reikalavimai – visi reikalavimai,
+kuriuos turi atitikti transeuropinių paprastųjų ir greitųjų geležinkelių
+sistemos, jų posistemiai ir sąveikos sudedamosios dalys bei sąsajos, nurodyti
+Lietuvos Respublikos susisiekimo ministro patvirtintose Transeuropinės
+geležinkelių sistemos sąveikos reikalavimų nustatymo ir taikymo taisyklėse.
+3. Europos
+Sąjungos techninės sąveikos specifikacijos (toliau – TSS) –
+kiekvienam posistemiui ar jo daliai taikomi detalūs reikalavimai, reikalingi
+esminiams reikalavimams įvykdyti ir nustatantys reikiamas naudojamų skirtingų
+posistemių tarpusavio sąsajas bei užtikrinantys geležinkelių transporto,
+veikiančio Europos Sąjungos transeuropinio transporto tinkle (TEN-T), sąveiką.
+4. Geležinkelio įmonė (vežėjas) –
+licencijuota įmonė, keleiviams, bagažui ir (ar) kroviniams vežti naudojanti
+viešąją geležinkelių infrastruktūrą ir užtikrinanti trauką teisėtai
+valdomomis traukos priemonėmis, taip pat įmonė, kuri tik teikia traukos
+priemones.
+5. Geležinkelio kelias – inžinerinis statinys, kurį
+sudaro žemės sankasa, viršutinė kelio konstrukcija (balasto sluoksnis,
+pabėgiai, bėgiai) ir kiti inžineriniai įrenginiai.
+6. Geležinkelių infrastruktūra – geležinkelio
+keliai, statiniai, žemė, pastatai, pagrindinė įranga ir įrenginiai, būtini
+eismui organizuoti ir valdyti bei geležinkelių transporto eismo saugai
+užtikrinti.
+7. Geležinkelių linija – geležinkelio kelio dalis su
+įrenginiais, statiniais bei eismo valdymo sistemomis.
+8. Geležinkelių riedmenys (toliau – riedmenys)
+– traukos priemonės (lokomotyvai), vagonai, dyzeliniai ir elektriniai
+traukiniai, automotrisos ir specialieji riedmenys.
+9. Geležinkelių tinklas – geležinkelių linijų
+visuma.
+10. Geležinkelių transportas – Lietuvos Respublikos
+ūkio ir socialinės infrastruktūros dalis, skirta visuomenės ir ūkio subjektų
+poreikiams tenkinti – keleiviams, bagažui ir (ar) kroviniams geležinkeliais
+vežti.
+11. Geležinkelių transporto eismo įvykis
+(toliau – eismo įvykis) – įvykis, kai geležinkelių transporto eismo metu
+dėl gaivalinių nelaimių, techninių priežasčių ar nustatytų geležinkelių
+transporto eismo saugos reikalavimų nesilaikymo ar netinkamo laikymosi
+atsiranda žalingų pasekmių.
+12. Geležinkelių transporto objektas – geležinkelių
+infrastruktūros elementas, keleivių ir krovinių terminalai, su jais susiję
+pastatai ir įrenginiai, kurie gali būti atskirti nuo geležinkelių transporto
+infrastruktūros kitų elementų ir savarankiškai funkcionuoti; geležinkelių
+riedmenys.
+13. Geležinkelių transporto veikla – keleivių,
+bagažo ir (ar) krovinių vežimas geležinkeliais, geležinkelių infrastruktūros
+valdymas, plėtra ir priežiūra, taip pat kita veikla, tiesiogiai susijusi su
+geležinkelių infrastruktūra, keleivių, bagažo ir (ar) krovinių vežimu.
+14. Konteineriai – daugiakartės standartinės
+priemonės kroviniams saugiai gabenti, pritaikytos mechanizuotai pakrauti ir
+iškrauti.
+15. Krovinių vežimo geležinkelių transportu tarptautiniais
+maršrutais paslauga (toliau –
+krovinių vežimas tarptautiniais maršrutais) – krovinių vežimo geležinkelių
+transportu paslauga, kai traukinys ar visi traukinio vagonai kerta mažiausiai
+vienos Europos Sąjungos valstybės narės sieną, net jeigu traukinys buvo
+performuotas, jo dalys yra skirtingos kilmės ar paskirties.
+16. Licencija – Lietuvos Respublikos Vyriausybės
+nustatyta tvarka geležinkelio įmonei (vežėjui) išduotas leidimas, suteikiantis
+teisę verstis keleivių, bagažo ir (ar) krovinių vežimu geležinkelių transportu
+Lietuvos Respublikoje ir (ar) tarptautiniais maršrutais.
+17. Nacionalinės eismo saugos taisyklės – visi Lietuvos Respublikos teisės aktai
+ir viešosios geležinkelių infrastruktūros valdytojo dokumentai, nustatantys
+geležinkelių transporto eismo saugos reikalavimus ir taikomi geležinkelių
+infrastruktūros valdytojui ir daugiau nei vienai geležinkelio įmonei (vežėjui).
+18. Posistemis – vieno ar kelių geležinkelių
+transporto objektų, kaip visumos, struktūrinė ar eksploatavimo sudedamoji
+dalis. Ir transeuropinę paprastųjų geležinkelių sistemą, ir transeuropinę
+greitųjų geležinkelių sistemą sudaro struktūriniai ir naudojimo sričių
+posistemiai, kuriems turi būti nustatyti esminiai reikalavimai.
+19. Privažiuojamieji geležinkelio keliai – krovinių
+siuntėjui (gavėjui), geležinkelių riedmenų remonto ir kitoms įmonėms aptarnauti
+skirti geležinkelio keliai, tiesiogiai ar per kitus privažiuojamuosius
+geležinkelio kelius sujungti su viešąja geležinkelių infrastruktūra.
+20.
+Saugos sertifikatas – nustatyta tvarka geležinkelio įmonei (vežėjui)
+išduotas liudijimas, patvirtinantis, kad, siekdama užtikrinti eismo įvykio
+atsiradimo kontrolę (geležinkelių transporto eismo saugą) ir saugiai
+verstis geležinkelių transporto ūkine komercine veikla geležinkelių tinkle,
+geležinkelio įmonė (vežėjas) turi savo eismo saugos valdymo sistemą ir laikosi
+TSS, kituose atitinkamuose Europos Sąjungos teisės aktuose ir nacionalinėse
+eismo saugos taisyklėse nustatytų reikalavimų.
+21.
+Sąveika – Europos Sąjungos transeuropinio transporto tinklo (TEN-T) ir jam skirtų riedmenų sistemos, kurią sudaro skirtingi
+geležinkelių transporto infrastruktūros, riedmenų ir eksploatacinių sistemų
+kompleksai, gebėjimas sudaryti sąlygas saugiam ir nenutrūkstamam traukinių
+eismui.
+22. Sąveikos
+sudedamosios dalys – bet kuri nedaloma sudedamoji dalis, sudedamųjų dalių
+grupė, mazgas, sukomplektuotas blokas, įtraukti arba ketinami įtraukti į
+posistemį, nuo kurių tiesiogiai ar netiesiogiai priklauso transeuropinių
+paprastųjų ir greitųjų geležinkelių sistemų sąveika. Ši sąvoka apima ir
+materialiuosius, ir nematerialiuosius objektus.
+23. Tarptautinė
+geležinkelio įmonių (vežėjų) grupė – bent dviejų skirtingose Europos
+Sąjungos valstybėse narėse įsikūrusių geležinkelio įmonių (vežėjų)
+susivienijimas keleiviams ir bagažui ir (ar) kroviniams geležinkelių transportu
+tarptautiniais maršrutais vežti.
+24. Transeuropinė greitųjų geležinkelių sistema –
+sistema, apimanti Europos Sąjungos transeuropinio transporto tinklo (TEN-T)
+geležinkelių infrastruktūros objektus, pastatytus ar modernizuotus, kad būtų
+galima vežti didelių greičių traukiniais, vadovaujantis 1996 m. liepos 23 d. Europos Parlamento ir Tarybos sprendimo 1692/96/EB, pateikiančio Bendrijos
+gaires dėl transeuropinio transporto tinklo plėtros, 10 straipsnio 3 dalimi (su
+visais galiojančiais pakeitimais, atliktais pagal šio sprendimo 21 straipsnį),
+taip pat apimanti geležinkelių riedmenis, skirtus važiuoti dideliais greičiais
+šios geležinkelių infrastruktūros geležinkelių linijomis.
+25. Transeuropinė paprastųjų geležinkelių sistema –
+sistema, apimanti Europos Sąjungos transeuropinio transporto tinklo (TEN-T)
+geležinkelių infrastruktūros objektus, pastatytus ar modernizuotus, kad būtų
+galima vežti paprastais ir kombinuoto transporto traukiniais, vadovaujantis 1996 m. liepos 23 d. Europos Parlamento ir Tarybos sprendimo 1692/96/EB, pateikiančio Bendrijos
+gaires dėl transeuropinio transporto tinklo plėtros, 10 straipsnio 3 dalimi (su
+visais galiojančiais pakeitimais, atliktais pagal šio sprendimo 21 straipsnį),
+taip pat apimanti geležinkelių riedmenis, skirtus važiuoti šios geležinkelių
+infrastruktūros geležinkelių linijomis.
+26.
+Tranzitas – krovinių, kurie neiškraunami ir nepakraunami Lietuvos
+Respublikos ar kitos Europos Sąjungos valstybės narės teritorijoje, ar
+keleivių, kurie neįlaipinami ir neišlaipinami Lietuvos Respublikos ar kitos
+Europos Sąjungos valstybės narės teritorijoje, vežimas per Lietuvos Respublikos
+teritoriją.
+27. Traukinio linija – traukinių eismo
+grafike numatytas traukinio važiavimo maršrutas.
+28. Traukinys – suformuotas ir sukabintas vagonų
+sąstatas su vienu ar keliais veikiančiais lokomotyvais, taip pat važiuojantys
+lokomotyvai ar kiti savaeigiai riedmenys, turintys reikiamus signalus ir
+numerį.
+29. Viešoji geležinkelių infrastruktūra – Lietuvos
+valstybei nuosavybės teise priklausanti geležinkelių infrastruktūra, skirta
+visuomenės ir ūkio subjektų poreikiams tenkinti – keleiviams, bagažui ir (ar)
+kroviniams vežti.
+30.
+Viešosios geležinkelių infrastruktūros pajėgumai – traukinių eismo grafike
+nustatytos traukinio linijos, kurios gali būti skirtos geležinkelio įmonei
+(vežėjui) tam tikroje viešosios geležinkelių infrastruktūros dalyje naudotis
+tam tikrą laikotarpį.
+31. Viešosios geležinkelių infrastruktūros tinklo
+nuostatai (toliau – Tinklo nuostatai) – viešosios geležinkelių
+infrastruktūros valdytojo parengtas ir išleistas informacinis leidinys, kuriame
+aprašyta viešoji geležinkelių infrastruktūra, naudojimosi viešąja geležinkelių
+infrastruktūra sąlygos ir procedūros. Šie nuostatai nuolat atnaujinami ir, jei
+reikia, keičiami.
+32. Viešosios geležinkelių infrastruktūros valdytojas
+– Lietuvos Respublikos įmonė, teisėtai valdanti ir prižiūrinti viešąją
+geležinkelių infrastruktūrą bei teikianti su tuo susijusias paslaugas
+geležinkelio įmonėms (vežėjams).
+33. Kitos šiame Kodekse vartojamos sąvokos paaiškintos
+Transporto veiklos pagrindų įstatyme ir Geležinkelių transporto eismo saugos
+įstatyme.
+Straipsnio
+pakeitimai:
+Nr.
+X-653,
+2006-06-08, Žin., 2006, Nr. 72-2672 (2006-06-28)
+ 
+4 straipsnis.
+Geležinkelių transporto veiklos principai
+Geležinkelių transporto veiklos principai
+yra šie:
+1) viešosios
+geležinkelių infrastruktūros prieinamumas lygiomis teisėmis ir
+nediskriminacinėmis sąlygomis Europos Sąjungos valstybėse narėse įsteigtoms ir
+teisės aktų nustatyta tvarka sertifikuotoms geležinkelio įmonėms (vežėjams);
+2) sąžininga konkurencija su kitomis
+transporto šakomis;
+3) geležinkelio įmonių (vežėjų)
+savarankiškumas tvarkant administracinius, ekonominius, buhalterinius ir vidaus
+kontrolės reikalus;
+4) atskirai tvarkyti su geležinkelių transporto
+paslaugomis susijusias veiklos ir su viešosios geležinkelio infrastruktūros
+valdymu susijusias veiklos vidaus pelno (nuostolio) ataskaitas ir balansus.
+Valstybės biudžeto lėšos, skirtos vienai iš šių veiklos sričių, negali būti
+panaudotos finansuojant kitą veiklos sritį;
+5)
+su krovinių vežimo geležinkelių transportu paslaugų teikimu susijusią finansinę
+atskaitomybę tvarko geležinkelio įmonės (vežėjai). Lėšos, skiriamos
+verstis keleivių vežimo geležinkelių transportu ūkine komercine veikla, turi
+būti laikomos atskirose sąskaitose atskirai ir negali būti perkeliamos prie
+lėšų, kurios skiriamos verstis kita geležinkelių transporto ūkine komercine
+veikla.
+Straipsnio
+pakeitimai:
+Nr.
+X-653, 2006-06-08,
+Žin., 2006, Nr. 72-2672 (2006-06-28)
+ 
+5
+straipsnis. Geležinkelių transporto objektų nuosavybė 
+1. Viešoji geležinkelių infrastruktūra yra
+Lietuvos valstybės nuosavybė. Viešoji geležinkelių infrastruktūra
+neprivatizuojama.
+2. Kiti geležinkelių transporto objektai
+nuosavybės teise gali priklausyti Lietuvos valstybei, savivaldybėms, Lietuvos
+Respublikos ir kitų valstybių fiziniams ir juridiniams asmenims.
+ 
+6 straipsnis. Geležinkelių transporto eismo sauga
+Lietuvos
+Respublikos geležinkelių infrastruktūros ir geležinkelių riedmenų priežiūros,
+eismo organizavimo, valdymo, kontrolės ir priežiūros, saugos sertifikavimo,
+geležinkelių transporto eismo įvykių tyrimo bendruosius principus, reikalavimus
+darbuotojams, kurių darbas susijęs su traukinių eismu, bendruosius geležinkelių
+transporto eismo saugos tikslus ir būdus, eismo saugos valdymo sistemų
+steigimo, nacionalinių eismo saugos taisyklių sąrašo sudarymo, atnaujinimo ir
+skelbimo tvarką, eismo saugos valdymo sistemų reikalavimus bei eismo saugos
+institucijos kompetenciją nustato Geležinkelių transporto eismo saugos
+įstatymas.
+Straipsnio
+pakeitimai:
+Nr.
+X-653,
+2006-06-08, Žin., 2006, Nr. 72-2672 (2006-06-28)
+ 
+ANTRASIS SKIRSNIS
+GELEŽINKELIŲ TRANSPORTO VIEŠASIS
+ADMINISTRAVIMAS
+ 
+7 straipsnis. Geležinkelių transporto viešojo
+administravimo subjektai
+1. Geležinkelių transporto
+viešąjį administravimą vykdo Vyriausybė, Susisiekimo ministerija, Valstybinė
+geležinkelių inspekcija prie Susisiekimo ministerijos.
+2. Lietuvos Respublikos
+Vyriausybė formuoja geležinkelių transporto strategiją, koordinuoja jos
+įgyvendinimą ar atlieka kitas šiame Kodekse bei kituose teisės aktuose
+nustatytas funkcijas.
+3. Susisiekimo ministerija:
+1) įgyvendina geležinkelių transporto
+politiką;
+2) organizuoja geležinkelių transporto
+strateginių objektų kūrimo, modernizavimo ir plėtros, eismo saugos ir
+aplinkosaugos programų rengimą ir įgyvendinimą;
+3) koordinuoja tarptautinius ryšius
+geležinkelių transporto srityje, pagal savo kompetenciją atstovauja Lietuvos
+Respublikai tarptautinėse organizacijose;
+4) pagal savo kompetenciją leidžia teisės
+aktus geležinkelių transporto klausimais ir tiesiogiai ar per įgaliotas
+institucijas kontroliuoja, kaip šie teisės aktai vykdomi;
+5) atlieka kitas šiame Kodekse ir kituose teisės
+aktuose nustatytas funkcijas.
+4. Valstybinė geležinkelių inspekcija prie Susisiekimo
+ministerijos:
+1) kontroliuoja, kaip juridiniai ir fiziniai asmenys
+laikosi Lietuvos Respublikos įstatymų, Lietuvos Respublikos tarptautinių
+sutarčių, kitų teisės aktų, reglamentuojančių geležinkelių transporto eismo
+saugos klausimus, reikalavimų;
+2) išduoda licencijas verstis vežimais geležinkelių
+transportu, prižiūri, kaip laikomasi licencijuojamos veiklos sąlygų, prireikus
+sustabdo ir panaikina šių licencijų galiojimą;
+3) išduoda saugos sertifikatus, suteikia įgaliojimus
+geležinkelių transporto eismo saugos srityje;
+4) atlieka eismo saugos institucijos ir kitas šiame
+Kodekse bei kituose teisės aktuose nustatytas funkcijas.
+5.
+Viešosios geležinkelių infrastruktūros valdytojo ir geležinkelio įmonių
+(vežėjų) santykius reguliuoja Vyriausybės paskirta institucija – rinkos
+reguliuotojas. Vyriausybės sprendimu rinkos reguliuotoju skiriama institucija
+savo organizacine forma, teisine forma ir priimdama sprendimus turi būti
+nepriklausoma nuo viešosios geležinkelių infrastruktūros valdytojo,
+organizacijų, kurios atitinkamai tvirtina rinkliavos už naudojimąsi viešąja
+geležinkelių infrastruktūra taisykles, konkretų rinkliavos dydį, renka šią
+rinkliavą, skiria viešosios geležinkelių infrastruktūros pajėgumus, ir nuo
+geležinkelio įmonės (vežėjo). Rinkos reguliuotojas turi teisę nedelsiant gauti
+jam pagal kompetenciją reikalingą informaciją iš viešosios geležinkelių
+infrastruktūros valdytojo, geležinkelio įmonės (vežėjo).
+6.
+Rinkos reguliuotojas nagrinėja geležinkelio įmonių (vežėjų) skundus, susijusius
+su viešosios geležinkelių infrastruktūros valdytojo priimtais sprendimais dėl
+Tinklo nuostatų, viešosios geležinkelių infrastruktūros pajėgumų skyrimo, rinkliavos
+už naudojimąsi viešąja geležinkelių infrastruktūra ėmimo sistemos, šios
+rinkliavos dydžio ar struktūros. Šie skundai, kaip ikiteisminiai ginčai,
+nagrinėjami vadovaujantis Lietuvos Respublikos susisiekimo ministro patvirtinta
+tvarka. Sprendimą rinkos reguliuotojas privalo priimti per 2 mėnesius nuo
+dienos, kurią buvo gauta visa atitinkamam skundui nagrinėti reikalinga
+medžiaga. Jeigu pateikiamas skundas dėl atsisakymo skirti viešosios
+geležinkelio infrastruktūros pajėgumus arba dėl sąlygų, kuriomis buvo pasiūlyta
+skirti viešosios geležinkelių infrastruktūros pajėgumus, reguliavimo
+institucija arba patvirtina, kad viešosios geležinkelių infrastruktūros
+valdytojo sprendimas turi likti nepakeistas, arba pareikalauja, kad tas
+sprendimas būtų pakeistas pagal jos nurodymus.
+7. Rinkos reguliuotojo sprendimai gali būti skundžiamai
+Lietuvos Respublikos teisės aktų nustatyta tvarka.
+8. Rinkos reguliuotojas privalo užtikrinti, kad tvirtinant
+rinkliavos už naudojimąsi viešąja geležinkelių infrastruktūra konkretų dydį
+būtų laikomasi teisės aktų nustatytų reikalavimų, prižiūri geležinkelio įmonių
+(vežėjų) ar tarptautinių geležinkelio įmonių (vežėjų) grupės ir viešosios
+geležinkelių infrastruktūros valdytojo derybas dėl rinkliavos už naudojimąsi
+viešąja geležinkelių infrastruktūra dydžio, keičiasi informacija apie savo
+darbą, sprendimų priėmimo principus ir praktiką su kitais Europos Sąjungos
+valstybių narių rinkos reguliuotojais.
+Straipsnio
+pakeitimai:
+Nr.
+X-653, 2006-06-08, Žin., 2006, Nr.
+72-2672 (2006-06-28)
+ 
+8 straipsnis. Viešosios
+geležinkelių infrastruktūros modernizavimo ir plėtros finansavimas
+Vyriausybės
+patvirtintos viešosios geležinkelių infrastruktūros kūrimo, modernizavimo ir
+plėtros programos finansuojamos iš valstybės biudžeto, rinkliavos už
+naudojimąsi viešąja geležinkelių infrastruktūra, valstybės vardu arba su
+valstybės garantija gautų paskolų, lėšų, gautų taikant valstybės ir (ar)
+savivaldybių kapitalo partnerystės finansinius mechanizmus iš tarptautinių finansinių institucijų, Europos
+Sąjungos fondų, taip pat lėšų, gaunamų kaip parama.
+ 
+9
+straipsnis. Viešosios geležinkelių infrastruktūros objektų statyba ir uždarymas
+(likvidavimas), jų konservavimas
+1. Sprendimą dėl viešosios geležinkelių infrastruktūros
+objektų uždarymo (likvidavimo), jų užkonservavimo ir naujų objektų statybos
+priima Vyriausybė.
+2. Pasiūlymus dėl viešosios geležinkelių infrastruktūros
+objektų uždarymo (likvidavimo), jų konservavimo ir naujų objektų statybos
+teikia susisiekimo ministras, viešosios geležinkelių infrastruktūros valdytojas
+ar (ir) savivaldybė, kurios teritorijoje yra atitinkamas viešosios geležinkelių
+infrastruktūros objektas. Teikime turi būti nurodytos objektų statybos ar (ir)
+uždarymo (likvidavimo), jų konservavimo priežastys, teikiamų pasiūlymų
+ekonominis, socialinis bei aplinkosauginis pagrindimas.
+3. Žemė naujų viešosios geležinkelių infrastruktūros
+objektų statybai suteikiama Žemės įstatymo nustatyta tvarka.
+ 
+10 straipsnis. Licencija verstis geležinkelių transporto
+ūkine komercine veikla
+1. Geležinkelių transporto ūkinė komercinė veikla yra
+licencijuojama. Lietuvos Respublikoje galioja bet kurioje Europos
+Sąjungos valstybėje narėje išduotos licencijos vežti krovinius ir (ar)
+keleivius ir bagažą geležinkelių transportu tarptautiniais maršrutais.
+2. Licencijos, suteikiančios teisę verstis geležinkelių
+transporto ūkine komercine veikla, yra šios:
+1) vežti keleivius ir bagažą geležinkelių transportu
+Lietuvos Respublikos teritorijoje;
+2) vežti keleivius ir bagažą geležinkelių transportu
+tarptautiniais maršrutais;
+3) vežti krovinius geležinkelių transportu Lietuvos
+Respublikos teritorijoje;
+4) vežti krovinius geležinkelių transportu tarptautiniais
+maršrutais.
+3.
+Lietuvos Respublikoje registruota įmonė, kuri pageidauja verstis geležinkelių
+transporto ūkine komercine veikla ar kuri verčiasi geležinkelių transporto
+ūkine komercine veikla, privalo:
+1) atitikti finansinio pajėgumo, geros reputacijos,
+profesinės kompetencijos reikalavimus;
+2) pateikti dokumentus, įrodančius, kad ji atitinka jai
+keliamus civilinės atsakomybės reikalavimus. Šiuos reikalavimus nustato
+Vyriausybė arba jos įgaliota institucija.
+4. Licencijų verstis geležinkelių transporto ūkine
+komercine veikla išdavimo, jų galiojimo panaikinimo, galiojimo sustabdymo,
+galiojimo sustabdymo panaikinimo tvarką, šio straipsnio 3 dalies 1 punkte
+nurodytus reikalavimus ir licencijuojamos veiklos sąlygas nustato Keleivių,
+bagažo ir krovinių vežimo geležinkelių transportu licencijavimo taisyklės. Šias
+taisykles tvirtina Vyriausybė.
+5. Sprendimus dėl licencijų verstis geležinkelių transporto
+ūkine komercine veikla išdavimo, galiojimo panaikinimo, galiojimo sustabdymo,
+galiojimo sustabdymo panaikinimo priima Valstybinė geležinkelių inspekcija prie
+Susisiekimo ministerijos.
+Straipsnio
+pakeitimai:
+Nr.
+X-653, 2006-06-08, Žin., 2006, Nr.
+72-2672 (2006-06-28)
+ 
+11
+straipsnis. Saugos sertifikatas ir įgaliojimai geležinkelių transporto eismo
+saugos srityje
+1. Geležinkelio įmonės (vežėjai),
+pageidaujančios naudotis geležinkelių infrastruktūra, turi turėti saugos
+sertifikatą. Geležinkelių infrastruktūros valdytojai, prieš pradėdami naudoti
+ir valdyti geležinkelių infrastruktūrą, privalo gauti įgaliojimus geležinkelių
+transporto eismo saugos srityje.
+2. Saugos sertifikatai išduodami: 
+1) geležinkelio įmonėms (vežėjams), vežančioms
+keleivius ir bagažą vietiniais ir (ar) tarptautiniais maršrutais;
+2) geležinkelio įmonėms (vežėjams), vežančioms
+krovinius vietiniais ir (ar) tarptautiniais maršrutais.
+3.
+Saugos sertifikatą sudaro:
+1) liudijimas,
+patvirtinantis, kad geležinkelio įmonė (vežėjas) turi eismo saugos valdymo
+sistemą, atitinkančią Europos Sąjungos reikalavimus, nurodytus Geležinkelių
+transporto eismo saugos įstatyme. Ši saugos sertifikato dalis, išduota Lietuvos
+Respublikoje ar kitoje Europos Sąjungos valstybėje narėje, galioja Lietuvos
+Respublikoje bei kitose Europos Sąjungos valstybėse narėse tai geležinkelių
+transporto ūkinei komercinei veiklai, kuriai išduotas liudijimas, vykdyti;
+2) liudijimas, patvirtinantis,
+kad geležinkelio įmonė (vežėjas), naudodamasi geležinkelių tinklu, atitinka
+nustatytus geležinkelių transporto eismo saugos reikalavimus. Laikoma, kad
+geležinkelio įmonė (vežėjas) atitinka šiame punkte nurodytus reikalavimus,
+jeigu ji laikosi Transeuropinės geležinkelių sistemos sąveikos reikalavimų
+nustatymo ir taikymo taisyklių, kurias tvirtina Lietuvos Respublikos
+susisiekimo ministras, nacionalinių eismo saugos taisyklių ir geležinkelio
+įmonės (vežėjo) darbuotojų kvalifikacija atitinka teisės aktų reikalavimus, o
+geležinkelių riedmenys atitinka techninius, eksploatacinius ir geležinkelių
+transporto eismo saugos reikalavimus. Ši saugos sertifikato dalis išduodama ir galioja tik Lietuvos
+Respublikoje. 
+4. Įgaliojimus geležinkelių transporto eismo saugos
+srityje sudaro:
+1) įgaliojimai, patvirtinantys, kad geležinkelių
+infrastruktūros valdytojas turi eismo saugos valdymo sistemą, atitinkančią
+Geležinkelių transporto eismo saugos įstatyme nurodytus reikalavimus;
+2) įgaliojimai, patvirtinantys, kad geležinkelių
+infrastruktūros valdytojas atitinka nustatytus geležinkelių transporto eismo
+saugos reikalavimus. Geležinkelių infrastruktūros valdytojas laikosi šiame
+punkte nurodytų reikalavimų, jeigu jis privalo užtikrinti saugų geležinkelių
+infrastruktūros valdymą, priežiūrą ir naudojimą bei traukinių eismo valdymą ir
+organizavimą.
+5. Geležinkelio įmonė (vežėjas), pageidaujanti teikti
+papildomas paslaugas, nurodytas Lietuvos Respublikos Vyriausybės patvirtintose
+Viešosios geležinkelių infrastruktūros pajėgumų skyrimo taisyklėse, privalo
+gauti saugos sertifikatą, atitinkantį šio straipsnio 3 dalies 2 punkto
+reikalavimus.
+6. Valstybinė
+geležinkelių inspekcija prie Susisiekimo ministerijos priima sprendimus:
+1) dėl saugos sertifikatų, nurodytų šio straipsnio 3
+dalyje, išdavimo Lietuvos Respublikoje registruotoms geležinkelio įmonėms
+(vežėjams), šių sertifikatų galiojimo sustabdymo, galiojimo sustabdymo
+panaikinimo ir jų galiojimo atšaukimo;
+2) dėl saugos sertifikatų liudijimų, nurodytų šio
+straipsnio 3 dalies 2 punkte, išdavimo kitų valstybių narių geležinkelio
+įmonėms (vežėjams), šių liudijimų galiojimo sustabdymo, galiojimo sustabdymo
+panaikinimo ir jų galiojimo atšaukimo;
+3) dėl įgaliojimų
+geležinkelių transporto eismo saugos srityje suteikimo, jų galiojimo
+sustabdymo, galiojimo sustabdymo panaikinimo ir jų galiojimo atšaukimo.
+7. Saugos sertifikatų bei įgaliojimų geležinkelių
+transporto eismo saugos srityje išdavimo, atšaukimo, galiojimo sustabdymo,
+galiojimo sustabdymo panaikinimo tvarką nustato susisiekimo ministras.
+Straipsnio
+pakeitimai:
+Nr.
+X-653, 2006-06-08, Žin., 2006, Nr.
+72-2672 (2006-06-28)
+ 
+12 straipsnis. Visuomenės aptarnavimo įsipareigojimų
+vykdymas 
+1. Jeigu geležinkelio įmonė (vežėjas) Transporto veiklos
+pagrindų įstatymo nustatyta tvarka prisiima vykdyti visuomenės aptarnavimo
+įsipareigojimus vežti keleivius geležinkelių transportu Vyriausybės ar jos
+įgaliotos institucijos nustatytais maršrutais bei teikti kitas paslaugas
+geležinkelio įmonei (vežėjui) komerciškai nenaudingomis sąlygomis, geležinkelio
+įmonės (vežėjo) patirti nuostoliai kompensuojami Vyriausybės nustatyta tvarka.
+2. Su geležinkelio įmone (vežėju) Transporto veiklos
+pagrindų įstatymo nustatyta tvarka Vyriausybė ar jos įgaliota institucija
+sudaro visuomenės aptarnavimo sutartis, kuriose nurodomi galimi investicinių
+programų finansavimo šaltiniai.
+3.
+Geležinkelio įmonė (vežėjas), vykdanti visuomenės aptarnavimo įsipareigojimus,
+geležinkelių transporto veiklą ir (ar) eksploatuojanti geležinkelių
+infrastruktūrą, privalo tvarkyti atskirą apskaitą pagal nurodytas veiklos
+sritis. Lėšos, skirtos visuomenės aptarnavimo įsipareigojimams vykdyti, negali
+būti perkeliamos prie lėšų, skirtų kitai geležinkelio įmonės (vežėjo) ūkinei
+komercinei veiklai.
+Straipsnio
+pakeitimai:
+Nr.
+X-653,
+2006-06-08, Žin., 2006, Nr. 72-2672 (2006-06-28)
+ 
+13 straipsnis. Lietuvos Respublikos geležinkelių riedmenų ir
+konteinerių registras
+1. Geležinkelių riedmenys ir konteineriai
+registruojami bei duomenys apie geležinkelių
+riedmenis ir konteinerius, jų savininkus ir valdytojus tvarkomi Lietuvos Respublikos geležinkelių riedmenų ir konteinerių
+registre įstatymų, patvirtintų Lietuvos Respublikos Vyriausybės Lietuvos
+Respublikos geležinkelių riedmenų ir konteinerių registro nuostatų ir kitų
+teisės aktų nustatyta tvarka.
+2. Lietuvos Respublikos geležinkelių riedmenų ir
+konteinerių registro tvarkymo įstaigai duomenis apie geležinkelių riedmenis ir
+konteinerius teikia Lietuvos Respublikos asmenys Lietuvos Respublikos
+geležinkelių riedmenų ir konteinerių registro nuostatų nustatyta tvarka.
+3. Vadovaujančioji Lietuvos Respublikos geležinkelių
+riedmenų ir konteinerių registro įstaiga yra Susisiekimo ministerija, o
+registro tvarkymo įstaigos funkcijas atlieka Valstybinė geležinkelių inspekcija
+prie Susisiekimo ministerijos.
+Straipsnio
+pakeitimai:
+Nr.
+X-653, 2006-06-08,
+Žin., 2006, Nr. 72-2672 (2006-06-28)
+ 
+TREČIASIS SKIRSNIS
+GELEŽINKELIŲ INFRASTRUKTŪRA
+ 
+14 straipsnis. Viešosios
+geležinkelių infrastruktūros objektai
+Viešosios geležinkelių infrastruktūros objektai yra šie:
+1) geležinkelio kelias;
+2) inžineriniai įrenginiai ir statiniai, taip pat tuneliai,
+tiltai, viadukukai, pralaidos, pridengtos ir požeminės perėjos, pervažos,
+perėjos punktai;
+3) geležinkelio stotyse, tarpstočiuose, eismo valdymo
+centruose esanti saugos, signalinė ir telekomunikacijų įranga ir šiems tikslams
+naudojami tarpstočių, geležinkelio stočių įrenginiai bei pastatai ar statiniai;
+4) traukinių eismui reikalingas kontaktinis tinklas su
+atitinkama įranga ir pastatai bei statiniai;
+5) traukinių eismui valdyti reikalingi elektros energijos
+gamybos, transformavimo ir paskirstymo įrenginiai bei įranga, tarp jų
+dyzeliniai generatoriai, pastotės;
+6) apšvietimo įrenginiai, skirti traukinių eismui ir darbo
+saugai užtikrinti;
+7) geležinkelio stotys,
+pastatai, statiniai ir įrenginiai, reikalingi keleiviams, bagažui ar krovinių
+siuntėjams (gavėjams) aptarnauti;
+8) kiti objektai, būtini viešosios
+geležinkelių infrastruktūros valdytojo veiklai užtikrinti.
+ 
+15 straipsnis. Geležinkelių linijų skirstymas pagal reikšmę
+1. Geležinkelių linijos, atsižvelgiant į
+traukinių eismo intensyvumą, geopolitinę, socialinę ir ekonominę jų reikšmę,
+skirstomos į valstybinės reikšmės magistralines geležinkelių linijas ir
+regioninės reikšmės geležinkelių linijas.
+2. Valstybinės reikšmės magistralinės geležinkelių
+linijos yra į tarptautinių geležinkelių linijų tinklą įtrauktos geležinkelių
+linijos ir kitos reikšmingos šalies ūkiui linijos, kurių sąrašą tvirtina
+Vyriausybė.
+3. Regioninės reikšmės geležinkelių linijos yra
+geležinkelių linijos, skirtos susisiekimui tarp atskirų miestų (gyvenviečių),
+kurių sąrašą tvirtina susisiekimo ministras.
+ 
+16 straipsnis. Lietuvos
+Respublikos geležinkelių infrastruktūros registras
+1. Geležinkelių infrastruktūra registruojama bei duomenys
+apie geležinkelių infrastruktūrą ir registro duomenų teikėjus tvarkomi Lietuvos
+Respublikos geležinkelių infrastruktūros registre įstatymų, Lietuvos
+Respublikos susisiekimo ministro patvirtintų Lietuvos
+Respublikos geležinkelių infrastruktūros registro nuostatų ir kitų teisės aktų
+nustatyta tvarka.
+2. Lietuvos Respublikos geležinkelių infrastruktūros
+registro duomenų teikėjai nurodyti Lietuvos Respublikos geležinkelių
+infrastruktūros registro nuostatuose.
+3. Vadovaujančioji Lietuvos Respublikos geležinkelių
+infrastruktūros registro įstaiga yra Susisiekimo ministerija, o registro
+tvarkymo įstaigos funkcijas atlieka Valstybinė geležinkelių inspekcija prie
+Susisiekimo ministerijos.
+Straipsnio
+pakeitimai:
+Nr.
+X-653, 2006-06-08, Žin., 2006, Nr.
+72-2672 (2006-06-28)
+ 
+17
+straipsnis. Geležinkelio stotis 
+1. Geležinkelio stotį sudaro geležinkelio
+kelių, pastatų, statinių ir įrenginių kompleksas, užimantis tam tikrą žemės
+sklypą ir skirtas traukiniams priimti, skirstyti, formuoti, praleisti ir
+išleisti, keleiviams, bagažo ar krovinių siuntėjams (gavėjams) aptarnauti.
+2. Kiekviena geležinkelio stotis turi
+Vyriausybės suteiktą pavadinimą.
+3. Reikalavimai geležinkelio stotims
+nustatomi Techninio geležinkelių naudojimo nuostatuose. Šiuos nuostatus
+tvirtina susisiekimo ministras.
+ 
+18 straipsnis. Susisiekimas su
+geležinkelio stotimi 
+1. Geležinkelio stotis turi turėti
+susisiekimą su miestu (gyvenviete).
+2. Statiniai ir įrenginiai geležinkelio stotyje turi
+būti išdėstyti taip, kad būtų saugu ir patogu juos pasiekti keleiviams bei privažiuoti
+automobilių transportui.
+ 
+19 straipsnis. Geležinkelio kelių
+ir jų įrenginių apsaugos zonos 
+1. Geležinkelio keliams ir jų įrenginiams
+yra nustatomos apsaugos zonos, kurios skirstomos į viešosios geležinkelių
+infrastruktūros kelių ir jų įrenginių apsaugos, privažiuojamųjų geležinkelio
+kelių ir jų įrenginių apsaugos bei geležinkelio želdinių apsaugos zonas.
+2.
+Geležinkelio kelius ir įrenginius aptarnaujančios įmonės techniniai darbuotojai
+ir jų įgalioti asmenys turi teisę laisvai vaikščioti šių kelių ir jų įrenginių
+apsaugos zonoje, atlikti remonto, statybos ar kitus darbus, susijusius su
+geležinkelių transporto objektų naudojimu, važinėti, kasti žemę, tiesti
+vamzdynus, kabelius, oro elektros ir ryšių linijas. Apie tai ši įmonė turi
+informuoti žemės savininkus ar naudotojus ir įstatymų nustatyta tvarka
+atlyginti jiems padarytus nuostolius. Likviduojant avarijas ir jų padarinius
+arba siekiant išvengti avarijų, leidžiama privažiuoti prie geležinkelių
+transporto objektų taip, kaip reikia pagal situaciją, o žemės savininkui ar
+naudotojui padaryti nuostoliai atlyginami įstatymų nustatyta tvarka. Jeigu
+geležinkelio apsaugos zonoje ne miško paskirties žemėje augantys medžiai, jų
+grupės, krūmai kelia pavojų eismo saugumui, žmonėms ar statiniams, jie
+nukertami ar kitaip pertvarkomi be atskiro savivaldybės institucijų leidimo ir
+želdinių vertė neatlyginama. Geležinkelio kelių ir jų įrenginių apsaugos zonoje
+augantys medžiai ar krūmai negali būti aukštesni už atstumą nuo medžio ar krūmo
+iki pirmojo bėgio.
+ 
+[Papildyta nuo
+2006-06-28]
+3. Geležinkelio
+želdinių apsaugos techniniai darbuotojai turi teisę laisvai vaikščioti
+geležinkelio želdinių apsaugos zonoje, sodinti apsaugines želdinių juostas ir
+kirsti želdinius, keliančius pavojų geležinkelių transporto eismo saugai,
+įrengti apsaugos nuo sniego, smėlio, vėjo, vandens užtvaras ir sutvirtinti
+dirvą. Apie tai turi būti informuoti žemės savininkai ar naudotojai. Padarius
+nuostolių, jie atlyginami įstatymų nustatyta tvarka.
+ 
+[Papildyta nuo
+2006-06-28]
+4. Kirsti medžius miško
+paskirties žemėje leidžiama tik suderinus su miško valdytoju ar savininku ir
+nustatyta tvarka įforminus medžių kirtimo dokumentus. Geležinkelio želdinių
+apsaugos zonose, ne miško paskirties žemėje augantys medžiai, jų grupės, krūmai
+kertami, genimi ar pertvarkomi Aplinkos ministerijos nustatyta tvarka, išskyrus
+šio straipsnio 2 dalyje nurodytus atvejus.
+ 
+5. Geležinkelio kelių
+ir jų įrenginių apsaugos zonoje be viešosios geležinkelių infrastruktūros
+valdytojo ar savininko, o geležinkelio želdinių apsaugos zonoje – be
+geležinkelio želdinius eksploatuojančios įmonės rašytinio sutikimo draudžiama:
+1) kasti žemę giliau
+kaip 0,3 metro, mechanizuotai lyginti gruntą, atlikti sprogdinimo ir
+melioravimo darbus;
+2) tiesti kelius,
+vamzdynus, kabelius, oro elektros ir ryšių linijas;
+3) sodinti ar kirsti
+medžius ir krūmus;
+4) įrengti pervažas;
+5) statyti naujus ir
+rekonstruoti esamus pastatus bei statinius, skirtus geležinkelių transporto
+reikmėms.
+6. Geležinkelio kelių ir jų įrenginių apsaugos zonoje
+be viešosios geležinkelių infrastruktūros valdytojo ar savininko rašytinio
+sutikimo draudžiama:
+1) kasti žemę giliau kaip 0,3 metro, mechanizuotai lyginti gruntą, atlikti sprogdinimo ir melioravimo darbus;
+2) tiesti kelius, vamzdynus, kabelius, oro elektros ir
+ryšių linijas;
+3) sodinti ar kirsti medžius ir krūmus;
+4) įrengti pervažas;
+5)
+statyti naujus ir rekonstruoti esamus pastatus bei statinius, skirtus
+geležinkelių transporto reikmėms.
+7. Geležinkelio kelių ir įrenginių apsaugos zonų ribas nustato Vyriausybė.
+Straipsnio
+pakeitimai:
+Nr.
+X-653, 2006-06-08, Žin., 2006, Nr.
+72-2672 (2006-06-28)
+ 
+20 straipsnis. Pervažos ir perėjos 
+1.
+Pervaža – geležinkelio kelio susikirtimo su automobilių keliu viename lygyje vieta.
+2. Vietose, kuriose
+valstybinės reikšmės automobilių keliai susikerta su geležinkelio keliais, turi
+būti įrengiamos reguliuojamos ar nereguliuojamos pervažos arba viadukai.
+3. Vietose, kuriose pėsčiųjų
+srautai kerta geležinkelio kelius, įrengiamos perėjos.
+     
+21 straipsnis. Pervažų ir perėjų
+įrengimas ir priežiūra 
+1. Pervažos ar perėjos įrengiamos:
+1) kai tiesiamas naujas geležinkelio
+kelias – jo sankirtoje su esamais valstybinės reikšmės automobilių keliais iš
+viešosios geležinkelių infrastruktūros valdytojo lėšų;
+2) kai tiesiami nauji valstybinės reikšmės automobilių
+keliai – jų sankirtoje su esamu geležinkelio keliu iš tuos kelius tiesiančių
+subjektų lėšų.
+2. Vietinės reikšmės automobilių kelių
+sankirtoje su geležinkelio keliu pervažas ar perėjas, suderinę su viešosios
+geležinkelių infrastruktūros valdytoju, įrengia ir prižiūri suinteresuoti
+fiziniai ar juridiniai asmenys iš savo lėšų.
+3. Leidimą įrengti pervažą ar perėją
+išduoda viešosios geležinkelių infrastruktūros valdytojas, atsižvelgdamas į technines
+galimybes ir eismo saugos reikalavimus.
+4. Pervažos ir perėjos turi būti įrengtos
+pagal Techninio geležinkelių naudojimo nuostatų bei susisiekimo ministro
+patvirtintų Pervažų įrengimo ir naudojimo taisyklių reikalavimus.
+5. Valstybinės reikšmės automobilių kelių
+sankirtoje su geležinkelio keliu pervažas ir perėjas prižiūri viešosios
+geležinkelių infrastruktūros valdytojas.
+6. Suinteresuotų fizinių ar juridinių
+asmenų ir viešosios geležinkelių infrastruktūros valdytojo susitarimu esamos
+pervažos ar perėjos gali būti perkeltos į kitą vietą, uždarytos arba
+panaikintos. Pervažos ir perėjos perkeliamos suinteresuoto asmens lėšomis.
+     
+22 straipsnis. Privažiuojamieji
+geležinkelio keliai 
+1. Privažiuojamieji geležinkelio keliai
+gali priklausyti viešosios geležinkelių infrastruktūros valdytojui ir kitiems
+fiziniams ar juridiniams asmenims.
+2. Privažiuojamųjų geležinkelio kelių
+tiesimas, rekonstravimas, jų prijungimas prie viešosios geležinkelių
+infrastruktūros ir su tuo susiję geležinkelio stočių plėtimo, modernizavimo ir
+statybos darbai atliekami iš užsakovo lėšų.
+3. Privažiuojamųjų geležinkelio kelių
+tiesimo, rekonstravimo, jų jungimo prie viešosios geležinkelių infrastruktūros
+ir jų priėmimo eksploatuoti tvarką nustato susisiekimo ministras.
+4. Privažiuojamųjų geležinkelio kelių
+būklei, eksploatacijai, riedmenims ir juos aptarnaujančiam personalui taikomi
+atitinkami viešosios geležinkelių infrastruktūros reikalavimai. Kaip jų
+laikomasi, kontroliuoja Valstybinė geležinkelių inspekcija prie Susisiekimo
+ministerijos.
+5. Privažiuojamieji geležinkelio keliai,
+jiems priskirti krovimo barai, teritorija turi atitikti Techninio geležinkelių
+naudojimo nuostatų bei kitų teisės aktų reikalavimus. Jų priežiūrą, remontą
+savo lėšomis atlieka savininkas arba naudotojas. Už eismo saugą minėtose
+vietose atsako atitinkamai savininkas arba naudotojas. 
+6. Viešosios geležinkelių
+infrastruktūros valdytojo ir privažiuojamojo geležinkelio kelio savininko arba
+naudotojo santykiai reguliuojami sutartimi.
+ 
+KETVIRTASIS SKIRSNIS
+VIEŠOSIOS GELEŽINKELIŲ
+INFRASTRUKTŪROS VALDYMAS, NAUDOJIMAS IR
+PRIEŽIŪRA
+ 
+23 straipsnis. Viešosios geležinkelių infrastruktūros
+valdymas
+1.
+Lietuvos Respublikos įstatymų nustatyta tvarka viešąją geležinkelių
+infrastruktūrą ir jos objektų užimamą žemę patikėjimo teise valdo, naudoja, ja
+disponuoja ir geležinkelio įmonėms (vežėjams) teikia su viešosios geležinkelių
+infrastruktūros valdymu ir priežiūra susijusias paslaugas viešosios
+geležinkelių infrastruktūros valdytojas – valstybės įmonė viešajai geležinkelių
+infrastruktūrai valdyti.
+2.
+Įmonei, kuri įstatymų ar kitų teisės aktų nustatyta tvarka yra paskirta
+viešosios geležinkelio infrastruktūros valdytoja ir patikėjimo teise valdo,
+naudoja viešąją geležinkelių infrastruktūrą ir jos objektų užimamą žemę ir
+jomis disponuoja, teikia su viešosios geležinkelių infrastruktūros valdymu ir
+priežiūra susijusias paslaugas geležinkelio įmonėms (vežėjams), netaikomi
+kituose įstatymuose nustatyti apribojimai dėl valstybei nuosavybės teise
+priklausančios viešosios geležinkelių infrastruktūros objektų nuomos.
+3. Viešosios
+geležinkelių infrastruktūros valdytojo išlaikymo išlaidos apmokamos iš
+rinkliavų už naudojimąsi viešąja geležinkelių infrastruktūra. 
+ 
+24
+straipsnis. Viešosios geležinkelių infrastruktūros valdytojo pagrindinės
+funkcijos
+1. Viešosios geležinkelių infrastruktūros valdytojo
+pagrindinės funkcijos:
+1) užtikrinti tinkamą ir saugią viešosios geležinkelių
+infrastruktūros priežiūrą;
+2) valdyti ir organizuoti traukinių eismą;
+3) užtikrinti saugų traukinių eismą;
+4) teikti pasiūlymus dėl viešosios geležinkelių
+infrastruktūros modernizavimo ir plėtros programų projektų;
+5) įgyvendinti viešosios geležinkelių infrastruktūros
+modernizavimo ir plėtros programas bei projektus;
+6) užtikrinti tinkamą lėšų, skirtų viešajai geležinkelių
+infrastruktūrai modernizuoti ir plėsti, naudojimą;
+7) viešosios geležinkelių infrastruktūros pajėgumus
+naudotis geležinkelio įmonėms (vežėjams) suteikti vienodomis sąlygomis;
+8) rengti ir tvirtinti traukinių eismo grafikus;
+9) parengti ir išleisti Tinklo nuostatus;
+10) rinkti rinkliavą už naudojimąsi viešąja geležinkelių
+infrastruktūra.
+2. Viešosios geležinkelių infrastruktūros valdytojas
+sutartimi ne konkurso tvarka gali pavesti valstybės kontroliuojamai akcinei
+bendrovei „Lietuvos geležinkeliai“ šias funkcijas:
+1) organizuoti tinkamą ir saugią viešosios geležinkelių
+infrastruktūros priežiūrą;
+2) organizuoti saugaus traukinių eismo valdymą.
+ 
+25 straipsnis. Rinkliava už naudojimąsi viešąja
+geležinkelių infrastruktūra
+1. Visos geležinkelio įmonės (vežėjai) viešosios geležinkelių infrastruktūros valdytojui
+privalo mokėti rinkliavą už naudojimąsi viešąja geležinkelių infrastruktūra.
+2. Rinkliavos už naudojimąsi viešąja geležinkelių
+infrastruktūra nustatymo taisykles tvirtina Vyriausybė.
+3. Rinkliavos už naudojimąsi viešąja geležinkelių
+infrastruktūra konkretų dydį nustato viešosios
+geležinkelių infrastruktūros valdytojas.
+ 
+ 26 straipsnis.
+Viešosios geležinkelių infrastruktūros priežiūra ir traukinių eismas
+1. Viešosios geležinkelių infrastruktūros
+priežiūrą organizuoja viešosios geležinkelių infrastruktūros valdytojas
+Techninio geležinkelių naudojimo nuostatų ir kitų teisės aktų nustatyta tvarka.
+2. Traukinių eismo organizavimo ir valdymo
+tvarką nustato Geležinkelių transporto eismo saugos įstatymas, susisiekimo ministro
+patvirtintos Geležinkelių eismo taisyklės ir kiti teisės aktai.
+     
+27 straipsnis. Viešosios
+geležinkelių infrastruktūros priežiūros finansavimas
+1. Viešosios geležinkelių infrastruktūros
+priežiūra finansuojama iš rinkliavų, gautų už naudojimąsi viešąja geležinkelių
+infrastruktūra.
+2. Geležinkelių linijų, kurios
+užkonservuotos Vyriausybės sprendimu dėl jų socialinės ir (ar) ekonominės
+reikšmės, priežiūra finansuojama iš valstybės lėšų.
+     
+28 straipsnis. Teisė naudotis viešąja geležinkelių
+infrastruktūra 
+1.
+Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje įregistruota
+geležinkelio įmonė (vežėjas), teisės aktų nustatyta tvarka įgijusi licenciją ir
+saugos sertifikatą ir su viešosios geležinkelių infrastruktūros valdytoju
+sudariusi naudojimosi viešąja geležinkelių infrastruktūra sutartį, turi teisę
+naudotis viešąja geležinkelių infrastruktūra, išskyrus šio straipsnio 2 dalyje
+numatytas išimtis.
+2.
+Išimtinė teisė naudotis viešąja geležinkelių infrastruktūra teikiant tranzito
+geležinkelių transportu paslaugas priklauso geležinkelio įmonėms (vežėjams),
+kurios arba kurių visos akcijos nuosavybės teise priklauso Lietuvos valstybei.
+Straipsnio
+pakeitimai:
+Nr.
+X-653, 2006-06-08, Žin., 2006, Nr.
+72-2672 (2006-06-28)
+ 
+29 straipsnis. Viešosios geležinkelių infrastruktūros
+pajėgumų skyrimas
+1. Viešosios geležinkelių infrastruktūros
+valdytojas skiria viešosios geležinkelių infrastruktūros pajėgumus naudotis
+geležinkelio įmonėms (vežėjams). Paskirtus pajėgumus draudžiama perduoti kitai
+įmonei ar kitai vežimo geležinkelių transportu paslaugai teikti ar šiuos
+pajėgumus parduoti.
+2. Viešosios geležinkelių infrastruktūros
+pajėgumai geležinkelio įmonėms (vežėjams)
+skiriami ne ilgesniam kaip vieno tarnybinio traukinių tvarkaraščio galiojimo
+laikotarpiui.
+3. Kiekviena
+geležinkelio įmonė (vežėjas) gali prašyti tiek traukinio linijų, kiek ji
+pageidauja.
+4. Viešosios geležinkelių infrastruktūros valdytojas ir geležinkelio įmonė
+(vežėjas) sudaro naudojimosi viešąja geležinkelio infrastruktūra sutartį vieno
+tarnybinio traukinių tvarkaraščio galiojimo laikotarpiui ir nustato
+geležinkelio įmonės (vežėjo) ir viešosios
+geležinkelių infrastruktūros valdytojo teises ir pareigas dėl pajėgumų
+paskirstymo per vieno tarnybinio traukinių tvarkaraščio galiojimo laikotarpį.
+5. Viešosios geležinkelių infrastruktūros valdytojas ir geležinkelio įmonė
+(vežėjas) gali sudaryti ir bendrąjį susitarimą, nustatantį geležinkelio įmonės
+(vežėjo) ir viešosios geležinkelių infrastruktūros
+valdytojo teises ir pareigas, kai pajėgumus reikia skirsti ilgesniam nei vieno
+tarnybinio traukinių tvarkaraščio galiojimo laikotarpiui, tačiau atnaujinti šio
+straipsnio 4 dalyje nurodytą sutartį privaloma kasmet.
+6. Viešosios geležinkelių infrastruktūros pajėgumų
+skyrimo principai, paraiškų skirti šiuos pajėgumus (atsisakyti skirti)
+pateikimo, viešosios geležinkelių infrastruktūros dalies paskelbimo perpildyta
+bei naudojimosi viešąja geležinkelių infrastruktūra sutarties ir bendrojo
+susitarimo sudarymo tvarka nustatoma Viešosios geležinkelių infrastruktūros
+pajėgumų skyrimo taisyklėse. Šias taisykles tvirtina Vyriausybė.
+ 
+30 straipsnis. Sąveika su kitų
+valstybių geležinkelių transporto objektais
+1. Transeuropinės greitųjų geležinkelių sistemos ir
+transeuropinės paprastųjų geležinkelių sistemos posistemiai, sąveikos
+sudedamosios dalys ir jų tarpusavio sąsajos turi atitikti esminius reikalavimus
+ir kitus optimaliai sąveikai reikšmę turinčius reikalavimus. Optimaliai
+sąveikai reikšmę turinčių reikalavimų nustatymo ir taikymo taisykles tvirtina
+Lietuvos Respublikos susisiekimo ministras. Geležinkelių infrastruktūros,
+riedmenų ir jų eksploatacinių sistemų parametrai bei juos nustatantys
+norminiai, techniniai ir eksploataciniai reikalavimai turi būti derinami su esminiais
+reikalavimais ir atitinkamai sričiai privalomomis TSS, kartu išlaikant esamų
+Lietuvos geležinkelių transporto objektų tarpusavio suderinamumą.
+2. Šio straipsnio 1 dalies reikalavimai taikomi
+posistemių, sąveikos sudedamųjų dalių ir jų tarpusavio sąsajų projektavimui,
+konstravimui, įdiegimui, modernizavimui, rekonstravimui, naudojimui ir
+techninei priežiūrai, taip pat darbuotojų, kurie eksploatuoja Lietuvos
+Respublikos teritorijoje transeuropines paprastųjų ir greitųjų geležinkelių
+sistemas, kvalifikacijai, sveikatai ir saugos darbe sąlygoms.
+3. Šio straipsnio 1 dalyje nurodytų reikalavimų
+taikymo sritis palaipsniui išplečiama, nuo galiojančių TSS pakeitimų ar naujų
+TSS įsigaliojimo dienos į ją įtraukiant papildomus posistemius (arba jų dalis),
+kol TSS reikalavimai bus taikomi visai paprastųjų geležinkelių sistemai, taip
+pat privažiuojamiesiems keliams, vedantiems prie terminalų ir pagrindinės uostų
+infrastruktūros ir skirtiems aptarnauti arba galintiems aptarnauti daugiau negu
+vieną naudotoją. 
+4. Siekdama užtikrinti esminių reikalavimų ir kitų
+optimaliai sąveikai reikšmę turinčių reikalavimų vykdymą,Valstybinė
+geležinkelių inspekcija prie Susisiekimo ministerijos atlieka šias funkcijas: 
+1) prižiūri sąveikos sudedamųjų dalių tiekimą Lietuvos
+rinkai. Valstybinės geležinkelių inspekcijos prie Susisiekimo ministerijos
+teises ir pareigas atliekant sąveikos sudedamųjų dalių tiekimo Lietuvos rinkai
+priežiūrą, jos atlikimo tvarką, sąveikos sudedamųjų dalių tiekimo Lietuvos
+rinkai ribojimo priemones nustato Geležinkelių transporto eismo saugos
+įstatymas;
+2) kontroliuoja sąveikos sudedamųjų dalių naudojimą
+pagal paskirtį, įrengimą ir priežiūrą Geležinkelių transporto eismo saugos
+įstatymo nustatyta tvarka.
+Straipsnio
+pakeitimai:
+Nr.
+X-653,
+2006-06-08, Žin., 2006, Nr. 72-2672 (2006-06-28)
+ 
+30(1) straipsnis. Tarptautinių, Europos organizacijų ir
+užsienio valstybių geležinkelių transporto normatyvinių techninių dokumentų
+taikymas
+1. Tarptautinių ir Europos organizacijų, užsienio
+valstybių (nacionaliniai), užsienio valstybių organizacijų geležinkelių
+transporto normatyviniai techniniai dokumentai, nustatantys statinių
+reikalavimus, taikomi Statybos įstatymo ir kitų teisės aktų nustatyta tvarka.
+2. Tarptautinių ir Europos organizacijų, užsienio
+valstybių (nacionaliniai), užsienio valstybių organizacijų geležinkelių
+transporto normatyviniai techniniai dokumentai, nustatantys kitų geležinkelių
+infrastruktūros objektų ir geležinkelių riedmenų reikalavimus, Lietuvos
+Respublikoje gali būti taikomi integravus juos į nacionalinę teisę teisės aktų
+nustatyta tvarka ir suderinus su esminiais reikalavimais. 
+3. Europos Bendrijų oficialiajame leidinyje skelbiamos
+TSS yra taikomos tiesiogiai. Priėmus bet kurią TSS, Susisiekimo ministerija
+išnagrinėja, kokios priemonės yra reikalingos TSS taikymui Lietuvos
+Respublikoje užtikrinti ir, jeigu reikia, parengia atitinkamų Lietuvos
+Respublikos teisės aktų projektus ir (ar) inicijuoja kitas reikiamas priemones.
+4. Susisiekimo ministerija turi teisę nustatyti šio
+straipsnio 2 dalyje nurodytų dokumentų, atitinkančių esminius reikalavimus,
+tiesioginio taikymo Lietuvos Respublikoje tvarką šiais atvejais:
+1) kai reikia nustatyti Lietuvos Respublikoje retai
+pasitaikančių geležinkelių transporto objektų techninius reikalavimus ir todėl
+netikslinga rengti geležinkelių transporto normatyvinius techninius dokumentus;
+2) kai dėl investicijų į geležinkelių transportą
+panaudojimo trumpų terminų nėra galimybės perimti šio straipsnio 2 dalyje nurodytų
+geležinkelių transporto normatyvinių techninių dokumentų;
+3) kai
+Lietuvos Respublikoje nėra kai kurių geležinkelių transporto objektų techninius
+reikalavimus nustatančių geležinkelių transporto normatyvinių techninių
+dokumentų, – iki tų dokumentų arba atitinkamos srities TSS parengimo ir
+patvirtinimo.
+Papildyta
+straipsniu:
+Nr.
+X-653, 2006-06-08, Žin., 2006, Nr.
+72-2672 (2006-06-28)
+ 
+PENKTASIS SKIRSNIS
+REIKALAVIMAI GELEŽINKELIŲ TRANSPORTO DARBUOTOJAMS
+ 
+31 straipsnis. Reikalavimai
+geležinkelių transporto darbuotojams
+1. Specialius profesijų ir pareigybių kvalifikacinius
+reikalavimus geležinkelių transporto darbuotojams, suderinę su Valstybine
+geležinkelių inspekcija prie Susisiekimo ministerijos, nustato atitinkamai viešosios geležinkelių infrastruktūros valdytojas ir
+geležinkelio įmonė (vežėjas).
+2. Reikalavimus darbuotojams, kurių darbas susijęs su
+traukinių eismu, nustato Geležinkelių transporto eismo saugos įstatymas.
+3. Geležinkelių transporto
+darbuotojų darbo drausmę reglamentuoja šis Kodeksas, Darbo kodeksas ir
+Vyriausybės patvirtintas Geležinkelių transporto darbuotojų drausmės statutas.
+ 
+32 straipsnis. Geležinkelių
+transporto darbuotojų nušalinimas nuo darbo
+
+1. Geležinkelių transporto darbuotojas
+nušalinamas nuo darbo, jei:
+1) nustatytu
+laiku nebuvo galima patikrinti, ar jis atitinka suteiktą kvalifikaciją, nes
+darbuotojas be pateisinamų priežasčių patikrinime nedalyvavo;            
+2) pakartotinai neišlaiko privalomo
+periodinio kvalifikacinių reikalavimų patikrinimo egzamino;
+3) dėl sveikatos būklės negali vykdyti
+savo pareigų, susijusių su geležinkelių transporto eismo saugos užtikrinimu
+arba geležinkelių infrastruktūros objektų priežiūra ar sauga;
+4) padarė drausmės pažeidimą, keliantį
+grėsmę eismo saugai, žmonių gyvybei ir sveikatai;
+5) padarė šiurkštų darbo pareigų
+pažeidimą, numatytą Darbo kodekse, ar kitokį darbo pareigų pažeidimą, numatytą
+Geležinkelių transporto darbuotojų drausmės statute;
+6) kitais Lietuvos Respublikos įstatymų
+nustatytais atvejais.
+2. Geležinkelių transporto darbuotojas
+nušalinamas nuo darbo Darbo kodekso ir Geležinkelių transporto darbuotojų
+drausmės statuto nustatyta tvarka. 
+ 
+ŠEŠTASIS SKIRSNIS
+KELEIVIŲ,
+BAGAŽO IR KROVINIŲ VEŽIMAS
+ 
+33 straipsnis. Keleivių ir bagažo
+vežimas
+1. Keleivių, bagažo vežimo sąlygas ir
+tvarką, taip pat geležinkelio įmonės (vežėjo), keleivio, bagažo siuntėjo
+(gavėjo) teises nustato šis Kodeksas, Civilinis kodeksas, Lietuvos Respublikos
+tarptautinės sutartys, susisiekimo ministro patvirtintos Keleivių ir bagažo
+vežimo geležinkelių transportu taisyklės ir kiti teisės aktai.
+2. Keleivių ir bagažo vežimo geležinkelių transportu
+sutarčių standartinės sąlygos nustatomos Keleivių ir bagažo vežimo geležinkelių
+transportu taisyklėse.
+3. Geležinkelių transporto objektai, skirti keleiviams
+aptarnauti, turi būti pritaikyti neįgaliesiems, kad šie galėtų patogiai ir
+saugiai jais naudotis.
+ 
+34 straipsnis. Keleivių ir bagažo vežimo užmokestis
+1.
+Keleivių vežimo vietinio susisiekimo maršrutais tarifus nustato geležinkelio
+įmonė (vežėjas). Didžiausi tarifai turi būti suderinti su Valstybine kainų ir
+energetikos kontrolės komisija. Bagažo vežimo vietinio susisiekimo maršrutais
+tarifus nustato geležinkelio įmonė (vežėjas).
+2.
+Keleivių ir bagažo vežimo tarptautinio susisiekimo maršrutais užmokestį nustato
+geležinkelio įmonė (vežėjas) Lietuvos Respublikos tarptautinių sutarčių dėl
+tarptautinio susisiekimo nustatyta tvarka.
+3.
+Keleivių vežimo vietinio susisiekimo maršrutais lengvatas ir dėl šių lengvatų
+taikymo geležinkelio įmonių (vežėjų) patirtų išlaidų kompensavimo (negautų
+pajamų atlyginimo) tvarką nustato Lietuvos Respublikos įstatymai.
+ 
+35
+straipsnis. Krovinių vežimas ir vežimų organizavimas
+1. Krovinių vežimo sąlygas ir tvarką, taip
+pat geležinkelio įmonės (vežėjo), krovinio siuntėjo (gavėjo) teises nustato šis
+Kodeksas, Civilinis kodeksas, Lietuvos Respublikos tarptautinės sutartys,
+susisiekimo ministro patvirtintos Krovinių vežimo geležinkelių transportu
+taisyklės ir kiti teisės aktai.
+2. Geležinkelio įmonė (vežėjas) ir krovinių siuntėjas
+(gavėjas) sudaro krovinių vežimo ir (ar) vežimų organizavimo sutartis.
+ 
+36 straipsnis. Atsiskaitymų su
+geležinkelio įmone (vežėju) užtikrinimas 
+1.
+Atsiskaitymas su geležinkelio įmone (vežėju) už krovinių vežimą užtikrinamas
+vežamu kroviniu.
+2. Jeigu siuntėjas (gavėjas)
+neatsiskaito su geležinkelio įmone (vežėju), geležinkelio įmonė (vežėjas) turi
+teisę realizuoti krovinį šio Kodekso 55 straipsnyje nustatyta tvarka.
+     
+37 straipsnis. Važtaraštis 
+1. Su kiekviena krovinių siunta siuntėjas
+privalo pateikti tinkamai užpildytą važtaraštį ir kitus dokumentus, nurodytus
+Krovinių vežimo geležinkelių transportu taisyklėse.
+2. Važtaraščio formą ir jo užpildymo
+tvarką nustato Krovinių vežimo geležinkelių transportu taisyklės.
+3. Važtaraštis tampa krovinių vežimo
+sutarties sudarymo ir jos turinio įrodymu uždėjus kalendorinį pradinės
+geležinkelio stoties antspaudą.
+ 
+38 straipsnis. Važtaraščio
+turinys 
+1. Važtaraštyje turi būti nurodyta:
+1) pradinės geležinkelio stoties
+pavadinimas;
+2) krovinio siuntėjas, adresas, telefono ir fakso
+numeriai, krovinio siuntėjo ar jo atstovo pavardė ir parašas;
+3) krovinio pavadinimas, kodas;
+4) krovinio svoris;
+5) krovinio vienetų skaičius, įpakavimo
+pobūdis ir krovinio būklė;
+6) vagono numeris;
+7) Krovinių vežimo geležinkelių transportu
+taisyklėse nurodytų dokumentų, kurie turi būti pridedami prie važtaraščio,
+sąrašas;
+8) ypatingos krovinio savybės ir vežimo
+sąlygos;
+9) galinės geležinkelio stoties
+pavadinimas;
+10) krovinio gavėjas, adresas, telefono ir
+fakso numeriai;
+11) uždėtų plombų skaičius ir jų ženklai.
+2. Važtaraštyje gali būti nurodyti ir kiti
+duomenys.
+ 
+39 straipsnis. Krovinio
+pateikimas vežti
+1. Krovinys vežamas vagone pagal vieną
+važtaraštį. Pagal vieną važtaraštį taip pat galima pateikti vežti:
+1) nedalomus daiktus bei ypatingo dydžio
+daiktus, kuriems pakrauti reikia daugiau nei vieno vagono;
+2) į kelis vagonus pakrautą krovinių
+siuntą, jeigu Krovinių vežimo geležinkelių transportu taisyklės leidžia tai
+daryti visame vežimo kelyje.
+2. Į kelis vagonus pagal vieną važtaraštį
+pakrauta krovinių siunta negali būti išskaidyta, išskyrus atvejus, kai tai
+būtina dėl vagono (vagonų) techninio gedimo.
+3. Pagal vieną važtaraštį negalima
+pateikti vežti:
+1) krovinių, kurių dalį krauna
+geležinkelio įmonė (vežėjas), o dalį – siuntėjas;
+2) krovinių, kuriuos vežti kartu su kitais
+kroviniais draudžiama pagal Krovinių vežimo geležinkelių transportu taisykles.
+4. Krovinio pateikimo vežti tvarką nustato
+Krovinių vežimo geležinkelių transportu taisyklės.
+     
+40 straipsnis. Kai kurių krovinių
+vežimo ypatingos sąlygos 
+1. Krovinių vežimo geležinkelių transportu taisyklės gali
+nustatyti kai kurių krovinių vežimo ypatingas sąlygas.
+2. Pavojingų krovinių vežimo tvarką nustato Pavojingų
+krovinių vežimo automobilių, geležinkelių ir vidaus vandenų transportu
+įstatymas ir kiti teisės aktai.
+ 
+41 straipsnis. Krovinių būklė,
+įpakavimas ir žymėjimas 
+1. Krovinį, kurį dėl jo savybių įpakuoti
+yra būtina, siuntėjas turi įpakuoti taip, kad krovinys vežimo metu būtų
+apsaugotas nuo praradimo, trūkumo ar sužalojimo, taip pat kad būtų apsaugoti
+nuo galimo sužalojimo žmonės, riedmenys ir kiti kroviniai. Siuntėjo pakrauti
+kroviniai, kuriuos vežimo metu reikės perkrauti, turi būti supakuoti taip, kad
+juos perkraunant mechanizmais nebūtų pažeista jų pakuotė.
+2. Geležinkelio įmonė (vežėjas) gali
+reikalauti, kad to paties tipo smulkios siuntos, kurioms priimti vežti ir
+pakrauti reikia daug laiko, būtų surištos ar supakuotos į didesnes siuntas.
+3. Geležinkelio įmonė (vežėjas) turi teisę
+atsisakyti vežti krovinį, jei siuntėjas atsisako krovinį įpakuoti pagal
+Krovinių vežimo geležinkelių transportu taisyklių reikalavimus arba įpakavimas
+neatitinka šių taisyklių nustatytų reikalavimų.
+ 
+42 straipsnis. Krovinių pakrovimas 
+1. Krovinius, atsižvelgiant į vežimų
+organizavimo sutarties sąlygas, krauna geležinkelio įmonė (vežėjas) arba
+siuntėjas. Kroviniai turi būti kraunami pagal susisiekimo ministro patvirtintas
+Krovinių krovimo ir tvirtinimo taisykles.
+2. Pakrautas krovinys neturi viršyti
+vagono krovos normų. Vagonas turi būti uždarytas ir užplombuotas Krovinių
+vežimo geležinkelių transportu taisyklių nustatyta tvarka.
+     
+43 straipsnis. Krovinio
+tikrinimas 
+1. Geležinkelio įmonė (vežėjas) turi teisę
+tikrinti, ar krovinys atitinka važtaraštyje pateiktus duomenis, taip pat ar
+laikomasi Krovinių vežimo geležinkelių transportu ir Krovinių krovimo ir
+tvirtinimo taisyklių reikalavimų, jei krovinį krovė siuntėjas.
+2. Apie numatomą krovinio tikrinimą turi būti pranešta
+siuntėjui arba gavėjui, vadovaujantis Krovinių vežimo geležinkelių transportu
+taisyklėmis arba krovinių vežimo ar vežimų organizavimo sutartimi. Jei
+siuntėjas ar gavėjas nustatytu laiku neatvyksta, krovinys tikrinamas jiems
+nedalyvaujant. Tikrinimo rezultatai įrašomi į važtaraštį.
+3. Jei krovinys neatitinka važtaraštyje
+pateiktų duomenų arba nesilaikoma Krovinių vežimo geležinkelių transportu ir
+Krovinių krovimo ir tvirtinimo taisyklių reikalavimų, tikrinimo ir su tuo
+susijusios išlaidos tenka krovinio siuntėjui, o geležinkelio įmonė (vežėjas)
+turi teisę atsisakyti tokį krovinį vežti.
+     
+44 straipsnis. Krovinio svorio ar
+siuntos vienetų skaičiaus nustatymas 
+1. Krovinio svoris ar siuntos vienetų
+skaičius pradinėje ir galinėje geležinkelio stotyje turi būti tikrinamas tuo
+pačiu metodu ir būdu. Krovinio svorio ar siuntos vienetų skaičiaus nustatymo
+tvarką reglamentuoja Krovinių vežimo geležinkelių transportu taisyklės.
+2. Krovinio svoris laikomas tinkamu, jeigu
+skirtumas tarp pradinėje geležinkelio stotyje nustatyto svorio ir svorio
+galinėje geležinkelio stotyje neviršija Vyriausybės patvirtintų nuostolio
+(natūralaus sumažėjimo) normų, taip pat svarstyklių arba krovinio svėrimo
+tikslumo normų. Šios nuostolių, svarstyklių arba krovinio svėrimo tikslumo
+normos netaikomos šio Kodekso 54 straipsnio 3 dalies 1–3 punktuose nustatytais
+atvejais.
+3. Matavimo priemonės turi būti tikrinamos
+ir tikrinimo rezultatai įforminami Vyriausybės nustatyta tvarka.
+Nepatikrintomis matavimo priemonėmis naudotis draudžiama.
+     
+45 straipsnis. Vagono krovos
+normų viršijimas 
+1. Jei geležinkelio įmonė (vežėjas)
+pradinėje geležinkelio stotyje nustato, kad siuntėjo pakrauto vagono krovos
+normos viršytos, ji nepriima krovinio vežti tol, kol nebus pašalintas
+viršsvoris. Jeigu tai nustatoma tarpinėje geležinkelio stotyje, geležinkelio
+įmonė (vežėjas) nedelsdama praneša apie tai krovinio siuntėjui, o šis privalo
+pašalinti viršsvorį ir padengti nuostolius, jeigu dėl to geležinkelio įmonė
+(vežėjas) jų patiria. 
+2. Siuntėjas (gavėjas) ne vėliau kaip per 3 darbo
+dienas nuo pranešimo gavimo dienos turi pateikti nurodymus viršsvorį atsiimti
+ar išsiųsti arba sudaryti sutartį su įmone, kad jį saugotų.
+3. Už krovinio viršsvorio iškrovimą ir
+saugojimą imamas geležinkelio įmonės (vežėjo) nustatytas atlyginimas.
+4. Jeigu nurodymai nepateikiami arba nesudaroma
+saugojimo sutartis, geležinkelio įmonė (vežėjas) informuoja siuntėją, iškrauna
+viršsvorį sudarantį krovinį, jo nesaugo ir už jo praradimą, trūkumą ar
+sužalojimą neatsako.
+     
+46 straipsnis. Vagonų ir
+konteinerių naudojimas 
+1. Siuntėjas (gavėjas) už geležinkelio
+įmonės pateiktų vagonų ar konteinerių naudojimą moka geležinkelio įmonės
+(vežėjo) nustatytą atlyginimą.
+2. Jeigu ne dėl geležinkelio įmonės
+(vežėjo) kaltės vagonai ar konteineriai negali būti pateikti siuntėjui
+(gavėjui), siuntėjas (gavėjas) privalo mokėti geležinkelio įmonės (vežėjo)
+nustatytą atlyginimą už vagonų ar konteinerių naudojimą ir krovinių saugojimą
+(laikymą).
+ 
+47 straipsnis. Krovinio pristatymo terminai 
+1. Krovinio pristatymo terminus nustato
+Krovinių vežimo geležinkelių transportu taisyklės, jeigu siuntėjas ir
+geležinkelio įmonė (vežėjas) nesusitaria kitaip.
+2. Krovinio pristatymo terminas pradedamas
+skaičiuoti nuo kitos dienos, einančios po krovinio priėmimo vežti, 00:00 val.
+     
+48 straipsnis. Užmokestis už
+krovinių vežimą ir kitas paslaugas
+1.
+Už krovinių vežimą ir geležinkelio įmonės (vežėjo) suteiktas kitas paslaugas
+imamas krovinių vežimo arba vežimų organizavimo sutartyje nustatytas
+užmokestis. Krovinių vežimo tarifus ir kitų paslaugų įkainius nustato
+geležinkelio įmonė (vežėjas).
+2.
+Neteko galios nuo 2006-06-28.
+3.
+Už krovinio vežimą moka siuntėjas ar jo įgaliotas asmuo, pateikdamas krovinį
+pradinėje geležinkelio stotyje.
+4.
+Jeigu geležinkelio įmonė (vežėjas) sutinka, už krovinio vežimą gali sumokėti ir
+gavėjas arba jo įgaliotas asmuo. Apie tai pažymima važtaraštyje.
+5.
+Už krovinio pakrovimą, iškrovimą, papildomų pavedimų vykdymą, ekspedicijos ir
+kitas geležinkelio įmonės (vežėjo) suteiktas paslaugas sumoka siuntėjas
+(gavėjas) ar jo įgaliotas asmuo.
+6.
+Atsiskaitymų tvarką nustato Krovinių vežimo geležinkelių transportu taisyklės.
+Straipsnio
+pakeitimai:
+Nr.
+X-653,
+2006-06-08, Žin., 2006, Nr. 72-2672 (2006-06-28)
+     
+49 straipsnis. Krovinio siuntėjo
+ir gavėjo papildomi pavedimai 
+1. Krovinio siuntėjas (gavėjas), jeigu tai
+neprieštarauja Lietuvos Respublikos įstatymams, gali papildomai pavesti
+geležinkelio įmonei (vežėjui):
+1) sulaikyti krovinį kelyje;
+2) sulaikyti krovinio išdavimą;
+3) galinėje geležinkelio stotyje išduoti
+krovinį kitam, negu važtaraštyje nurodytas gavėjas, asmeniui;
+4) išduoti krovinį kitoje, negu numatyta
+važtaraštyje, geležinkelio stotyje;
+5) grąžinti krovinį į pradinę geležinkelio
+stotį, jei krovinys nesulaikytas ar neareštuotas.
+2. Siuntėjas turi teisę atsiimti krovinį
+pradinėje geležinkelio stotyje, kol krovinys nėra išsiųstas, apmokėjęs su tuo
+susijusias geležinkelio įmonės (vežėjo) išlaidas.
+3. Krovinio siuntėjas praranda teisę duoti
+papildomus pavedimus geležinkelio įmonei (vežėjui), jeigu gavėjas priėmė
+važtaraštį ir krovinį.
+4. Krovinio gavėjas gali duoti papildomus
+pavedimus, jei pagal vežimo sutartį jis privalo sumokėti vežimo išlaidas, taip
+pat jei važtaraštyje nurodyta, kad gavėjas turi teisę duoti papildomus
+pavedimus.
+5. Jeigu gavėjas pavedė išduoti krovinį
+kitam asmeniui, tas asmuo neturi teisės pavesti atsiimti krovinį tretiesiems
+asmenims.
+6. Krovinio siuntėjo ir gavėjo papildomi
+pavedimai negali sudaryti sąlygų krovinių siuntai padalyti.
+ 
+50 straipsnis. Papildomų pavedimų pateikimo forma 
+Papildomi krovinio siuntėjo ar gavėjo
+pavedimai geležinkelio įmonei (vežėjui) turi būti pateikiami raštu Krovinių
+vežimo geležinkelių transportu taisyklių nustatyta tvarka. Papildomi pavedimai,
+pateikti kita forma, negalioja.
+ 
+51 straipsnis. Atsisakymas
+atlikti papildomus pavedimus 
+1. Geležinkelio įmonė (vežėjas) gali
+atsisakyti atlikti papildomus pavedimus, jei:
+1) pavedimas pavėluotai pasiekia
+geležinkelio stotį, privalančią jį atlikti;
+2) pavedimas prieštarauja geležinkelių
+transporto teisės aktams arba jį atliekant sutriktų normali geležinkelių
+transporto veikla;
+3) pavedimas prieštarauja Lietuvos
+Respublikos įstatymams;
+4) krovinio vertė mažesnė už visas
+krovinio vežimo iki naujos galinės geležinkelio stoties išlaidas, išskyrus
+atvejus, kai krovinio siuntėjas arba gavėjas apmoka šias išlaidas ar garantuoja
+jų apmokėjimą;
+5) dar neįvykdytas ir neatšauktas anksčiau
+gautas siuntėjo (gavėjo) papildomas pavedimas.
+2. Jeigu geležinkelio įmonė (vežėjas)
+negali įvykdyti papildomų siuntėjo ar gavėjo pavedimų, ji apie tai praneša pavedimą
+davusiam asmeniui.
+     
+52 straipsnis. Kliūtys vežimo
+metu 
+1. Geležinkelio įmonė (vežėjas) apie
+kliūtis vežimo metu praneša krovinio siuntėjui arba gavėjui ir pareikalauja iš
+jų papildomų nurodymų.
+2. Siuntėjas (gavėjas), gavęs pranešimą
+apie kliūtis vežimo metu ir jų priežastis, savo nurodymus dėl gavėjo ar galinės
+geležinkelio stoties keitimo privalo įrašyti į važtaraštį kartu su geležinkelio
+įmone (vežėju) arba įgalioti tai padaryti geležinkelio įmonę (vežėją).
+3. Jeigu siuntėjas (gavėjas), gavęs pranešimą
+apie kliūtis vežimo metu, per geležinkelio įmonės (vežėjo) nurodytą terminą
+krovinį sulaikiusiai geležinkelio stočiai nepateikia nurodymų, kuriuos galima
+atlikti, geležinkelio įmonė (vežėjas) krovinį veža tinkamiausiu maršrutu. Šiuo
+atveju geležinkelio įmonė (vežėjas) laikosi pristatymo terminų, atitinkančių
+faktišką vežimo kelią, ir turi teisę imti atlyginimą už faktišką vežimo kelią
+bei vagonų naudojimą.
+4. Jeigu kliūtys atsirado dėl geležinkelio
+įmonės (vežėjo) kaltės, papildomos išlaidos, susijusios su krovinio pristatymu,
+tenka įmonei (vežėjui). Šiuo atveju geležinkelio įmonė (vežėjas) už vežimo
+termino praleidimą neatleidžiama nuo atsakomybės, numatytos šio Kodekso 59
+straipsnyje.
+5. Jei vežimo metu atsiradusi kliūtis
+pašalinama, kol negauti siuntėjo nurodymai, krovinys siunčiamas į galinę
+geležinkelio stotį ir apie tai pranešama krovinio siuntėjui.
+ 
+53 straipsnis. Pranešimas apie
+krovinio pristatymą 
+Geležinkelio įmonė (vežėjas) Krovinių
+vežimo geležinkelių transportu taisyklių arba geležinkelio įmonės (vežėjo) ir
+siuntėjo (gavėjo) sutartyje nustatyta tvarka privalo pranešti gavėjui apie jo
+vardu gautą krovinį. Krovinys laikomas pristatytu nuo pranešimo gavimo momento.
+ 
+54 straipsnis. Krovinio išdavimas 
+1.
+Galinėje geležinkelio stotyje (paskirties punkte) geležinkelio įmonė (vežėjas)
+privalo gavėjui išduoti važtaraštį ir krovinį. Siuntėjas (gavėjas) sumoka nustatytą krovinio vežimo užmokestį bei
+užmokestį už geležinkelio įmonės (vežėjo) suteiktas kitas paslaugas prieš gaudamas važtaraštį
+ir krovinį, jeigu krovinio vežimo sutartis nenustato kitaip.
+2. Gavėjas yra
+atsakingas už tai, kad geležinkelio įmonės (vežėjo) galinėje geležinkelio
+stotyje išduoti kroviniai įstatymų nustatytais atvejais būtų pristatyti
+tikrinti į tam įgaliotos valstybės institucijos nurodytą vietą per nustatytą
+laiką su nepažeistomis transporto priemonių plombomis ir išoriniais paviršiais,
+taip pat tvarkingomis krovimo vienetų plombomis ir (arba) identifikavimo
+ženklais.
+3. Geležinkelio įmonė
+(vežėjas), galinėje geležinkelio stotyje (paskirties punkte) išduodama krovinį,
+privalo patikrinti krovinio svorį, kiekį (vienetų skaičių) ir būklę, jeigu:
+1) krovinys atvežtas netvarkingu vagonu,
+taip pat vagonu su pažeistomis ar ne pradinės geležinkelio stoties plombomis;
+2) krovinys atvežtas neplombuotais vagonais su matomais trūkumo, gedimo ar sužalojimo požymiais;
+3) nesilaikyta greitai gendančių krovinių
+pristatymo terminų ar temperatūros režimo vagonuose refrižeratoriuose;
+4) krovinį iškrovė geležinkelio įmonė
+(vežėjas).
+4. Krovinio gavėjas šio straipsnio 3
+dalyje nurodytais atvejais gali atsisakyti priimti krovinį, kol nebus
+patenkintas jo reikalavimas krovinį patikrinti.
+5. Gavėjas krovinio gavimą patvirtina
+parašu važtaraštyje.
+6. Kroviniai išduodami Krovinių vežimo
+geležinkelių transportu taisyklių nustatyta tvarka.
+     
+55 straipsnis. Padariniai, jeigu
+laiku neatsiimamas krovinys 
+1. Jeigu krovinio gavėjas, gavęs pranešimą
+apie krovinio pristatymą, laiku neatsiima krovinio, jis moka geležinkelio
+įmonės (vežėjo) nustatytą atlyginimą už krovinio saugojimą (laikymą) ir vagonų
+naudojimą Krovinių vežimo geležinkelių transportu taisyklėse nustatyta tvarka.
+2. Jeigu krovinio gavėjas per 10 darbo
+dienų nuo pranešimo apie jo vardu gautą krovinį jo neatsiima ir neduoda
+pavedimų geležinkelio įmonei (vežėjui) ar nesudaro sutarties dėl krovinio
+saugojimo, geležinkelio įmonė (vežėjas) turi teisę gavėjo sąskaita iškrauti
+krovinį ir jį saugoti.
+3. Jeigu krovinio gavėjo nerandama,
+geležinkelio įmonė (vežėjas) apie tai praneša siuntėjui. Per 10 darbo dienų negavusi atsakymo iš siuntėjo,
+geležinkelio įmonė (vežėjas) krovinį saugo Krovinių vežimo geležinkelių
+transportu taisyklių nustatyta tvarka. 
+4. Krovinių iškrovimo tvarką ir saugojimo
+laiką nustato Krovinių vežimo geležinkelių transportu taisyklės.
+5. Jeigu per krovinio saugojimo laiką krovinys
+neatsiimamas, geležinkelio įmonė (vežėjas) turi teisę jį realizuoti Vyriausybės
+nustatyta tvarka. Gautas lėšas, atskaičius geležinkelio įmonei (vežėjui)
+priklausantį užmokestį, geležinkelio įmonė (vežėjas), krovinio siuntėjui
+(gavėjui) pareiškus pretenziją, perveda krovinio siuntėjui (gavėjui). Jeigu
+krovinio siuntėjas (gavėjas) pretenzijos nepareiškia, gautos lėšos, atskaičius
+geležinkelio įmonei (vežėjui) priklausantį užmokestį, pervedamos į valstybės
+biudžetą.
+ 
+SEPTINTASIS SKIRSNIS
+GELEŽINKELIO ĮMONĖS (VEŽĖJO),
+KELEIVIŲ, KROVINIŲ SIUNTĖJŲ IR GAVĖJŲ ATSAKOMYBĖ
+ 
+56 straipsnis. Geležinkelio įmonės
+(vežėjo), keleivių, krovinių siuntėjų ir gavėjų atsakomybės atsiradimo
+pagrindai 
+1. Geležinkelio įmonė (vežėjas), keleiviai,
+krovinių siuntėjai ir gavėjai atsako už keleivių ir bagažo, krovinių vežimo ir
+(ar) vežimų organizavimo sutarčių pažeidimą.
+2. Geležinkelio įmonės (vežėjo), keleivių,
+krovinių siuntėjų ir gavėjų susitarimai dėl šiame Kodekse nustatytos
+atsakomybės tvarkos ir dydžio pakeitimo negalioja.
+     
+57
+straipsnis. Geležinkelio įmonės (vežėjo) atsakomybė už krovinio ar bagažo
+praradimą, trūkumą ar sužalojimą 
+Geležinkelio įmonė (vežėjas) visiškai
+atsako už priimto vežti krovinio ir bagažo praradimą, trūkumą ir sužalojimą nuo
+jų priėmimo vežti iki atidavimo gavėjui arba perdavimo nustatyta tvarka kitam
+jo įgaliotam asmeniui, jeigu neįrodo, kad krovinio ar bagažo praradimas,
+trūkumas ar sužalojimas kilo ne dėl jos kaltės.
+ 
+58 straipsnis. Atvejai, kai
+geležinkelio įmonė (vežėjas) neatsako už krovinio ir bagažo praradimą, trūkumą
+ar sužalojimą 
+Geležinkelio įmonė (vežėjas) neatsako už
+krovinio praradimą, trūkumą ar sužalojimą, jeigu:
+1) tai įvyko dėl krovinio siuntėjo
+(gavėjo) kaltės;
+2) tai įvyko dėl natūralių vežamo krovinio
+ar bagažo savybių;
+3) tai įvyko dėl taros ar įpakavimo
+trūkumų, kurių nebuvo galima pastebėti priimant krovinį ar bagažą vežti, jei
+nėra taros ar įpakavimo sužalojimo požymių;
+4) krovinio ar bagažo
+trūkumas neviršija šio Kodekso 44 straipsnio 2 dalyje numatytų nuostolio
+(natūralaus sumažėjimo), svarstyklių arba krovinio svėrimo tikslumo normų ir
+krovinys ar bagažas atvežtas techniškai tvarkingu vagonu (konteineriu) su
+nepažeistomis siuntėjo plombomis;
+5) krovinys pateiktas gavėjui su nepažeistomis siuntėjo
+plombomis;
+6) krovinys atvežtas tvarkingais atviraisiais
+vagonais, jis nebuvo pakeliui perkrautas, nepažeistas
+apsauginis ženklinimas, krovinys yra tvarkingai sutvirtintas;
+7) krovinys atvežtas lydimas siuntėjo ar
+gavėjo palydovo;
+8) tai įvyko dėl nenugalimos jėgos.
+     
+59
+straipsnis. Geležinkelio įmonės (vežėjo) atsakomybės už krovinio ar bagažo
+praradimą, trūkumą ar sužalojimą dydis 
+1. Už žalą, padarytą vežant krovinį ar
+bagažą, geležinkelio įmonė (vežėjas) atsako:
+1) krovinį ar bagažą praradus arba esant jo trūkumui –
+prarasto arba trūkstamo krovinio ar bagažo vertės dydžiu;
+2) krovinį ar
+bagažą sužalojus – sumos, kuria sumažėjo jo vertė, dydžiu;
+3) praradus krovinį ar bagažą, kurio vertė nurodyta
+perduodant vežti, – nurodytosios krovinio ar bagažo vertės dydžiu. Jeigu
+geležinkelio įmonė (vežėjas) įrodo, kad tikroji krovinio ar bagažo vertė yra
+mažesnė už nurodytąją, – tikrosios jo vertės dydžiu.
+2. Jeigu dėl sužalojimo, už kurį geležinkelio įmonė
+(vežėjas) atsako, krovinio ar bagažo kokybė pasikeitė tiek, kad jo nebegalima
+naudoti pagal tiesioginę paskirtį, krovinio ar bagažo gavėjas turi teisę jo
+atsisakyti ir pareikalauti atlyginti už krovinį ar bagažą kaip už prarastą.
+3. Jeigu
+krovinys ar bagažas, už kurio praradimą ar trūkumą geležinkelio įmonė (vežėjas)
+sumokėjo atitinkamą atlyginimą, vėliau surandamas, geležinkelio įmonės (vežėjo)
+apie tokį suradimą informuotas gavėjas (siuntėjas) per vienus metus turi teisę
+pareikalauti, kad tas krovinys ar bagažas būtų jam išduotas. Šiuo atveju jis
+turi grąžinti geležinkelio įmonei (vežėjui) atlyginimą, gautą už prarastą ar
+trūkstamą krovinį, tačiau turi teisę išreikalauti iš geležinkelio įmonės
+(vežėjo) prarasto ar trūkstamo krovinio vertės dydžio nuostolius, padarytus jam
+dėl pavėluoto krovinio ar bagažo pristatymo.
+ 
+60
+straipsnis. Geležinkelio įmonės (vežėjo) atsakomybė už vežimo termino
+praleidimą 
+1. Geležinkelio įmonė (vežėjas) atsako už
+krovinio ar bagažo vežimo termino, nustatyto vežimo sutartyje, praleidimą,
+jeigu neįrodo, kad terminas praleistas ne dėl jos kaltės.
+2. Geležinkelio įmonė (vežėjas), pavėluotai
+pristačiusi krovinį ar bagažą, atlygina padarytus nuostolius.
+     
+61
+straipsnis. Geležinkelio įmonės (vežėjo) atsakomybė už prarastus ar sužalotus
+krovinio siuntėjo (gavėjo) riedmenis, konteinerius ar specialiąją krovinių tvirtinimo įrangą
+1.
+Geležinkelio įmonė (vežėjas), praradusi krovinio siuntėjo (gavėjo) riedmenis,
+konteinerius ar specialiąją krovinių tvirtinimo įrangą, šio siuntėjo (gavėjo)
+reikalavimu privalo perduoti jo nuosavybėn savo riedmenis, konteinerius ar
+specialiąją krovinių tvirtinimo įrangą. Jeigu tokių riedmenų, konteinerių ar
+specialiosios krovinių tvirtinimo įrangos geležinkelio įmonė (vežėjas) neturi,
+ji krovinio siuntėjui (gavėjui) atlygina prarastų riedmenų, konteinerių ar specialiosios
+krovinių tvirtinimo įrangos vertės dydžio nuostolius, jei šalys nesusitaria
+kitaip.
+2.
+Geležinkelio įmonė (vežėjas), sugadinusi krovinio siuntėjo (gavėjo) riedmenis,
+konteinerius ar specialiąją krovinių tvirtinimo įrangą, turi juos suremontuoti.
+3.
+Geležinkelio įmonės (vežėjo) sugadintus riedmenis, konteinerius ar specialiąją
+krovinių tvirtinimo įrangą gali susiremontuoti krovinio siuntėjas (gavėjas).
+Šiuo atveju geležinkelio įmonė (vežėjas) krovinio siuntėjui (gavėjui) atlygina
+remonto išlaidas.
+ 
+62
+straipsnis. Geležinkelio įmonės (vežėjo) atsakomybė už riedmenų, konteinerių ir
+specialiosios įrangos kroviniams tvirtinti nepateikimą
+Geležinkelio
+įmonė (vežėjas), dėl savo kaltės krovinio vežimo arba vežimo organizavimo
+sutartyje nustatytu laiku krovinio siuntėjui nepateikusi riedmenų, konteinerių
+ir specialiosios įrangos kroviniams tvirtinti, atsako krovinio vežimo arba
+vežimo organizavimo sutartyje nustatyta tvarka. Tai neatleidžia geležinkelio
+įmonės (vežėjo) nuo pareigos pateikti riedmenis, konteinerius ir specialiąją
+įrangą kroviniams tvirtinti, jei šalys nesusitaria kitaip.
+     
+63 straipsnis. Keleivių, krovinių
+siuntėjų ir gavėjų atsakomybė 
+Keleiviai, krovinių siuntėjai ir gavėjai
+Lietuvos Respublikos įstatymų nustatyta tvarka privalo atlyginti žalą, padarytą
+dėl jų kaltės geležinkelio įmonei (vežėjui) arba kitiems fiziniams ar
+juridiniams asmenims.
+     
+64
+straipsnis. Keleivių, krovinių siuntėjų (gavėjų) atsakomybė už netikslių,
+klaidingų, taip pat ne visų reikalingų duomenų pateikimą vežimo dokumentuose 
+Keleiviai, krovinių siuntėjai (gavėjai),
+vežimo dokumentuose pateikę netikslius, klaidingus, taip pat ne visus
+reikalingus duomenis, atlygina geležinkelio įmonei (vežėjui) dėl to
+atsiradusius nuostolius.
+ 
+65 straipsnis. Krovinių siuntėjų
+(gavėjų) atsakomybė už prarastus ar sugadintus geležinkelio įmonės (vežėjo)
+riedmenis, konteinerius ar specialiąją
+krovinių tvirtinimo įrangą
+1. Krovinių siuntėjai (gavėjai), praradę
+geležinkelio įmonės (vežėjo) riedmenis, konteinerius ar specialiąją krovinių
+tvirtinimo įrangą, atlygina geležinkelio įmonei (vežėjui) prarastų riedmenų,
+konteinerių ar specialiosios krovinių tvirtinimo įrangos vertės dydžio
+nuostolius, jeigu šalys nesusitaria kitaip.
+2. Krovinių siuntėjai (gavėjai), sugadinę
+geležinkelio įmonės (vežėjo) riedmenis, konteinerius ar specialiąją krovinių
+tvirtinimo įrangą, turi juos suremontuoti.
+3. Krovinių siuntėjų (gavėjų) sužalotus riedmenis,
+konteinerius ar specialiąją krovinių tvirtinimo įrangą gali susiremontuoti ir
+geležinkelio įmonė (vežėjas). Šiuo atveju siuntėjas (gavėjas) geležinkelio
+įmonei (vežėjui) atlygina remonto išlaidas. 
+ 
+66 straipsnis. Krovinių siuntėjų
+(gavėjų) atsakomybė, jeigu už vežimą, naudojimąsi geležinkelio įmonės (vežėjo)
+riedmenimis, konteineriais ar specialiąja
+įranga atsiskaito ne laiku
+Krovinių siuntėjai (gavėjai), per nustatytą laiką
+neatsiskaitę už vežimą ir su tuo susijusias paslaugas, naudojimąsi geležinkelių
+riedmenimis, konteineriais ar specialiąja įranga, moka geležinkelio įmonei
+(vežėjui) krovinių vežimo ir (ar) vežimų organizavimo sutartyje nustatyto dydžio delspinigius. Delspinigiai skaičiuojami
+nuo laiku nesumokėtos sumos už kiekvieną uždelstą dieną.
+ 
+67 straipsnis. Pretenzijos ir
+ieškiniai dėl vežimo 
+1. Ieškiniai dėl reikalavimų, kylančių iš
+vežimo sutarties, pareiškiami teismui, jeigu šalių sutartys nenustato kitaip.
+Ieškovas iki ieškinio pareiškimo gali pateikti pretenziją geležinkelio įmonei
+(vežėjui). Pretenzija turi būti išnagrinėta per 3 mėnesius nuo jos pateikimo
+geležinkelio įmonei (vežėjui) dienos.
+2. Ieškiniai dėl reikalavimų,
+atsirandančių iš vežimo sutarties, gali būti pareiškiami per vienus metus nuo
+dienos, kurią ieškovas sužinojo ar turėjo sužinoti apie savo teisių pažeidimą.
+Pretenzijos pareiškimas pratęsia ieškinio senaties terminą 3 mėnesiams.
+
+
+Lietuvos
+Respublikos 
+geležinkelių
+transporto kodekso
+priedas
+ 
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+ 
+1. 1969 m. birželio 26 d. Tarybos reglamentas (EEB)
+Nr. 1191/69 dėl valstybių narių veiksmų, susijusių su visuomenės aptarnavimo
+įsipareigojimų, vykdomų geležinkelio, kelių ir vidaus vandenų transporto
+srityje, samprata.
+2. 1991 m. liepos 20 d. Tarybos reglamentas (EEB) Nr.
+1893/91, pakeičiantis Reglamentą (EEB) Nr. 1191/69 dėl valstybių narių veiksmų,
+susijusių su visuomenės aptarnavimo įsipareigojimų, vykdomų geležinkelio, kelių
+ir vidaus vandenų transporto srityje, samprata.
+3. 1991 m. liepos 29 d. Tarybos direktyva 91/440/EEB
+dėl Bendrijos geležinkelių plėtros.
+4. 1992 m. gruodžio 7 d. Tarybos reglamentas (EEB) Nr. 3578/92, iš dalies pakeičiantis Reglamentą (EEB) Nr. 1107/70 dėl
+pagalbos teikimo geležinkelio, kelių ir vidaus vandenų transportui.
+5. 1995 m. birželio 19 d. Tarybos direktyva 95/18/EB
+dėl geležinkelio įmonių licencijavimo.
+6. 1996 m. liepos 23 d. Tarybos direktyva 96/48/EB dėl
+transeuropinės greitųjų traukinių geležinkelių sistemos sąveikos.
+7. 1996 m. lapkričio 19 d.
+Tarybos reglamentas (EB) Nr. 2255/96, iš dalies pakeičiantis Reglamentą (EEB)
+Nr. 1107/70 dėl pagalbos teikimo geležinkelio, kelių ir vidaus vandenų
+transportui.
+8. 2001 m. vasario 26 d. Europos Parlamento ir Tarybos
+direktyva 2001/12/EB, iš dalies pakeičianti Tarybos direktyvą 91/440/EEB dėl
+Bendrijos geležinkelių plėtros.
+9. 2001 m. vasario 26 d. Europos Parlamento ir Tarybos
+direktyva 2001/13/EB, iš dalies pakeičianti Tarybos direktyvą 95/18/EB dėl
+geležinkelio įmonių licencijavimo.
+10. 2001 m. vasario 26 d. Europos Parlamento ir
+Tarybos direktyva 2001/14/EB dėl geležinkelių infrastruktūros pajėgumų
+paskirstymo, mokesčių už naudojimąsi geležinkelių infrastruktūra ėmimo ir
+saugos sertifikavimo.
+11. 2001 m. kovo 19 d. Europos Parlamento ir Tarybos
+direktyva 2001/16/EB dėl transeuropinės paprastųjų geležinkelių sistemos
+sąveikos.
+12. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/49/EB dėl saugos Bendrijos geležinkeliuose
+ir iš dalies pakeičianti Tarybos direktyvą 95/18/EB dėl geležinkelio įmonių
+licencijavimo bei Direktyvą 2001/14/EB dėl geležinkelio infrastruktūros
+pajėgumų paskirstymo, mokesčių už naudojimąsi geležinkelių infrastruktūra ėmimo
+ir saugos sertifikavimo (Saugos geležinkeliuose direktyva).
+13. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/50/EB, iš dalies keičianti
+Tarybos direktyvą 96/48/EB dėl transeuropinės greitųjų geležinkelių sistemos
+sąveikos ir Europos Parlamento ir Tarybos direktyvą 2001/16/EB dėl
+transeuropinės paprastųjų geležinkelių sistemos sąveikos.
+14. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/51/EB, iš dalies pakeičianti
+Tarybos direktyvą 91/440/EEB dėl Bendrijos geležinkelių plėtros.
+Priedo
+papildymas:
+Nr.
+X-653,
+2006-06-08, Žin., 2006, Nr. 72-2672 (2006-06-28)
+ 
+_______________________
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. X-653, 2006-06-08,
+Žin., 2006, Nr. 72-2672 (2006-06-28)
+GELEŽINKELIŲ
+TRANSPORTO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR TAIKYMO ĮSTATYMO 4 STRAIPSNIO
+PAKEITIMO IR PAPILDYMO, GELEŽINKELIŲ TRANSPORTO KODEKSO 3, 4, 6, 7, 10, 11, 12,
+13, 16, 19, 28, 30, 48 STRAIPSNIŲ IR PRIEDO PAKEITIMO IR PAPILDYMO BEI KODEKSO
+PAPILDYMO 30(1) STRAIPSNIU ĮSTATYMAS
+ 
+***
+Pabaiga ***
+ 
+ 
+Redagavo:
+Aušra Bodin (2006-06-29)
+                 
+ausra.bodin@lrs.lt
