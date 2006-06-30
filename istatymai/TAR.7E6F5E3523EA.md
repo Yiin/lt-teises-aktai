@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7E6F5E3523EA"
 
 # Lietuvos Respublikos triukšmo valdymo įstatymas
 
+Suvestinė redakcija nuo 2006-06-30 iki 2010-06-30
+ 
+Įstatymas paskelbtas: Žin. 2004, Nr. 164-5971, i. k. 1041010ISTA0IX-2499
+ 
 LIETUVOS RESPUBLIKOS TRIUKŠMO VALDYMO ĮSTATYMAS
  
 2004 m. spalio 26 d. Nr. IX-2499
@@ -396,32 +400,29 @@ Valstybinį triukšmo valdymą pagal savo kompetenciją įgyvendina:
 Vidaus reikalų ministerija:
 
 
-1) atlieka triukšmo kontrolę vakaro, nakties metu, taip pat poilsio ir švenčių dienomis;
+1) įgalioja pavaldžias viešojo administravimo institucijas teisės aktų nustatyta tvarka visą parą atlikti triukšmo kontrolę gyvenamuosiuose pastatuose, privačiose valdose ir viešosiose vietose, t. y. miestų, gyvenviečių gatvėse, aikštėse, parkuose, skveruose bei kitose viešose vietose ir bendro naudojimo pastatuose, baruose, diskotekose, kavinėse, pramoginiuose renginiuose;
 
 
 
 
-2) atlieka garsinės informacijos ir signalizacijos keliamo triukšmo kontrolę; 
+2) nustato pavaldžių viešojo administravimo institucijų kompetenciją triukšmo valdymo srityje ir prižiūri, kaip ji įgyvendinama;
 
 
 
 
-3) atlieka triukšmo kontrolę kino teatruose, baruose, diskotekose, muzikiniuose renginiuose ir kitose viešosiose vietose; 
+3) suderinusi su Sveikatos apsaugos ministerija ir Susisiekimo ministerija, tvirtina garsinės informacijos ir signalizacijos naudojimo ir priežiūros taisykles;
 
 
 
 
-4) nustato pavaldžių viešojo administravimo institucijų kompetenciją triukšmo valdymo srityje ir prižiūri, kaip ji įgyvendinama;
+4) atlieka kitas triukšmo valdymo funkcijas, numatytas šiame įstatyme ir kituose teisės aktuose. 
 
 
 
 
-5) atlieka kitas triukšmo valdymo funkcijas, numatytas šiame įstatyme ir kituose teisės aktuose.
+Straipsnio pakeitimai:
+Nr. X-692, 2006-06-15, Žin., 2006, Nr. 73-2760 (2006-06-30), i. k. 1061010ISTA000X-692
  
-
-
-
-
 
 
 
@@ -1511,3 +1512,14 @@ priedas
 
 
 ______________
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-692, 2006-06-15, Žin., 2006, Nr. 73-2760 (2006-06-30), i. k. 1061010ISTA000X-692
+Lietuvos Respublikos triukšmo valdymo įstatymo 6 straipsnio pakeitimo įstatymas
