@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C8205E261830"
 
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2003-05-01 iki 2006-06-30
+Suvestinė redakcija nuo 2006-07-01 iki 2015-10-27
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 33-807, i. k. 0961010ISTA00I-1234
  
@@ -471,7 +471,7 @@ Vaiko teises šeimoje nustato Lietuvos Respublikos Konstitucija, šis įstatymas
 
 
 
-21 straipsnis.       Tėvų ar kitų teisėtų vaiko atstovų pareiga auklėti, prižiūrėti ir išlaikyti vaiką
+21 straipsnis. Tėvų ar kitų teisėtų vaiko atstovų pareiga auklėti, prižiūrėti ir išlaikyti vaiką
 
 
 1. Tėvai ar kiti teisėti vaiko atstovai privalo sudaryti sąlygas vaikui augti, vystytis ir tobulėti, turi auklėti savo vaikus humaniškai, dorais žmonėmis.
@@ -495,10 +495,12 @@ Vaiko teises šeimoje nustato Lietuvos Respublikos Konstitucija, šis įstatymas
 22 straipsnis. Valstybės parama šeimoms, auginančioms ir auklėjančioms vaikus
 
 
-Valstybė remia šeimas (ypač gausias), auginančias ir auklėjančias vaikus, įstatymų nustatyta tvarka skirdama motinystės (tėvystės), vaiko gimimo bei šeimos pašalpas, suteikdama tėvams tikslines atostogas, teikdama kitokią pagalbą ir lengvatas.
+Valstybė remia šeimas (ypač gausias), auginančias ir auklėjančias vaikus, įstatymų nustatyta tvarka skirdama išmokas vaikams ir pašalpas, suteikdama tėvams tikslines atostogas, teikdama kitokią pagalbą ir lengvatas.
+
+
+Straipsnio pakeitimai:
+Nr. X-672, 2006-06-08, Žin., 2006, Nr. 72-2688 (2006-06-28), i. k. 1061010ISTA000X-672
  
-
-
 
 
 
@@ -1527,3 +1529,8 @@ Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 59, 61 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1440, 2003-04-03, Žin., 2003, Nr. 38-1685 (2003-04-24), i. k. 1031010ISTA0IX-1440
 Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 43, 49, 50, 52, 53 ir 54 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-672, 2006-06-08, Žin., 2006, Nr. 72-2688 (2006-06-28), i. k. 1061010ISTA000X-672
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 22 straipsnio pakeitimo įstatymas
