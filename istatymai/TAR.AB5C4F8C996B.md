@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AB5C4F8C996B"
 
 # Lietuvos Respublikos strateginių prekių kontrolės įstatymas
 
-Suvestinė redakcija nuo 2004-05-01 iki 2006-06-30
+Suvestinė redakcija nuo 2006-07-01 iki 2010-06-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 61-1533, i. k. 0951010ISTA00I-1022
  
@@ -45,7 +45,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Šis Įstatymas užtikrina Europos Tarybos reglamento, nustatančio Bendrijos dvejopo naudojimo prekių ir technologijų eksporto kontrolės režimą (toliau – Reglamentas), nurodyto šio Įstatymo priede, nuostatų įgyvendinimą.
+2. Šis Įstatymas užtikrina Europos Sąjungos teisės aktų, nurodytų šio Įstatymo priede, nuostatų įgyvendinimą.
+Straipsnio dalies pakeitimai:
+Nr. X-545, 2006-04-06, Žin., 2006, Nr. 44-1586 (2006-04-22), i. k. 1061010ISTA000X-545
+ 
 
 
 
@@ -107,7 +110,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-8. Tarpininkavimas – Lietuvos Respublikoje gyvenančių arba registruotų fizinių ir juridinių asmenų bei užsienio juridinių asmenų ir kitų organizacijų filialų vedamos derybos arba sandorių parengimas, kurių metu į Bendrąjį karinės įrangos sąrašą įtrauktos prekės gali būti perduotos iš Lietuvos Respublikos teritorijos, kitos Europos Sąjungos valstybės teritorijos arba ne Europos Sąjungos valstybės į bet kurią kitą ne Europos Sąjungos valstybę. 
+8. Tarpininkavimas – Lietuvos Respublikoje gyvenančių arba registruotų fizinių ir juridinių asmenų bei užsienio juridinių asmenų ir kitų organizacijų filialų vedamos derybos, parengimas arba vykdymas sandorių, pagal kuriuos į Bendrąjį karinės įrangos sąrašą įtrauktos prekės gali būti perduotos iš Lietuvos Respublikos teritorijos, kitos Europos Sąjungos valstybės teritorijos arba ne Europos Sąjungos valstybės į bet kurią kitą ne Europos Sąjungos valstybę.
+Straipsnio dalies pakeitimai:
+Nr. X-545, 2006-04-06, Žin., 2006, Nr. 44-1586 (2006-04-22), i. k. 1061010ISTA000X-545
+ 
 
 
 
@@ -217,7 +223,9 @@ Vyriausybė ar jos įgaliota institucija, vadovaudamasi Europos Sąjungos bendru
 
 
 
-10. Eksporto, importo, tranzito ir tarpininkavimo licencijų rūšis, jų išdavimo tvarką ir sąlygas bei galutinį panaudojimą patvirtinančių dokumentų išdavimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+10. Eksporto, importo, tranzito ir tarpininkavimo licencijų rūšis, jų išdavimo, galiojimo sustabdymo ir panaikinimo tvarką, sąlygas ir galutinį panaudojimą patvirtinančių dokumentų išdavimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+Straipsnio dalies pakeitimai:
+Nr. X-545, 2006-04-06, Žin., 2006, Nr. 44-1586 (2006-04-22), i. k. 1061010ISTA000X-545
  
 
 
@@ -225,18 +233,95 @@ Vyriausybė ar jos įgaliota institucija, vadovaudamasi Europos Sąjungos bendru
 
 
 
-7 straipsnis. Apribojimai išduodant į Bendrąjį karinės įrangos sąrašą įtrauktų prekių eksporto, importo, tranzito ir tarpininkavimo licencijas
+7 straipsnis. Apribojimai išduodant licencijas karinės įrangos eksportui, importui, tranzitui ir tarpininkavimui, licencijų galiojimo sustabdymas ir panaikinimas
 
 
-1. Licencija neišduodama, jei tai prieštarauja Lietuvos Respublikos tarptautinėms sutartims, tarptautinėms sankcijoms, įgyvendinamoms pagal Lietuvos Respublikos ekonominių ir kitų tarptautinių sankcijų įgyvendinimo įstatymą, Europos Sąjungos elgesio kodekso dėl ginklų eksporto kriterijams, tarptautiniams neplatinimo režimams, Lietuvos Respublikos užsienio politikos ir valstybės saugumo interesams.
+1. Licencija neišduodama, jeigu:
+
+
+1) jos išdavimas prieštarauja Lietuvos Respublikos tarptautinėms sutartims, sankcijoms, įgyvendinamoms pagal Lietuvos Respublikos ekonominių ir kitų tarptautinių sankcijų įgyvendinimo įstatymą, Europos Sąjungos elgesio kodekso dėl ginklų eksporto kriterijams, tarptautinių neplatinimo režimų nuostatoms, Lietuvos Respublikos užsienio politikos ir valstybės saugumo interesams;
 
 
 
 
-2. Sprendžiant, ar išduoti eksporto, tranzito ar tarpininkavimo licenciją, privaloma atsižvelgti į aplinkybes, susijusias su numatomo jų panaudojimo ar galimybių panaudoti masinio naikinimo ginklų gamybai rizika.
+2) yra įsiteisėjęs apkaltinamasis teismo nuosprendis, teismo nutarimas, sprendimas ir neišnykęs ar nepanaikintas teistumas dėl eksportuotojo, importuotojo, vežėjo ar tarpininko padarytų karo nusikaltimų, nusikalstamų veikų žmogiškumui, Lietuvos valstybės nepriklausomybei, teritorijos vientisumui ir konstitucinei santvarkai;
+
+
+
+
+3) paaiškėja aplinkybės, susijusios su karinės įrangos galutinio panaudojimo ar galimybių panaudoti ją masinio naikinimo ginklų gamybai rizika.
+
+
+
+
+
+
+2. Licencija gali būti neišduodama, jeigu:
+
+
+1) yra įsiteisėjęs apkaltinamasis teismo nuosprendis, teismo nutarimas, sprendimas ir neišnykęs ar nepanaikintas teistumas dėl eksportuotojo, importuotojo, vežėjo ar tarpininko nusikalstamų veikų visuomenės saugumui, nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valdymo tvarkai;
+
+
+
+
+2) vyksta ikiteisminis tyrimas dėl eksportuotojo, importuotojo, vežėjo ar tarpininko, įtariamų karo nusikaltimais, nusikalstamomis veikomis žmogiškumui, Lietuvos valstybės nepriklausomybei, teritorijos vientisumui ir konstitucinei santvarkai, visuomenės saugumui, nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valdymo tvarkai, arba byla dėl šių nusikalstamų veikų perduota teismui;
+
+
+
+
+3) eksportuotojas, importuotojas, vežėjas ar tarpininkas licencijai gauti yra pateikęs klaidinančią informaciją, klaidingus duomenis.
+
+
+
+
+
+
+3. Licencijos galiojimas sustabdomas ir gali būti panaikinamas, jeigu:
+
+
+1) gauta informacija, kad eksportuotojas, importuotojas, vežėjas ar tarpininkas nevykdo licencijoje nustatytų sąlygų arba nesilaiko strateginių prekių kontrolę reglamentuojančių teisės aktų reikalavimų;
+
+
+
+
+2) paaiškėja, kad eksportuotojas, importuotojas, vežėjas ar tarpininkas yra pateikęs klaidinančią informaciją, klaidingus duomenis;
+
+
+
+
+3) gauta kitokios, negu deklaruota, informacijos, susijusios su galutiniu karinės įrangos panaudojimu;
+
+
+
+
+4) gali būti pažeisti Lietuvos Respublikos užsienio politikos, nacionalinės ekonomikos, valstybės saugumo interesai;
+
+
+
+
+5) importuojančioje valstybėje kilo politinis ir karinis konfliktas;
+
+
+
+
+6) valstybei, į kurią numatyta eksportuoti karinę įrangą, pradėtos taikyti tarptautinės sankcijos, įgyvendinamos pagal Lietuvos Respublikos ekonominių ir kitų tarptautinių sankcijų įgyvendinimo įstatymą, kai licencija jau išduota;
+
+
+
+
+7) atliekamas ikiteisminis tyrimas dėl eksportuotojo, importuotojo, vežėjo ar tarpininko, įtariamų karo nusikaltimais, nusikalstamomis veikomis žmogiškumui, Lietuvos valstybės nepriklausomybei, teritorijos vientisumui ir konstitucinei santvarkai, visuomenės saugumui, nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valdymo tvarkai, arba byla dėl šių nusikalstamų veikų perduota teismui, arba įsiteisėjęs apkaltinamasis teismo nuosprendis, teismo nutarimas, sprendimas, arba teismo sprendimu šie asmenys patraukti administracinėn atsakomybėn;
+
+
+
+
+8) gauta kita, nei nurodyta šio straipsnio 3 dalies 1 ir 3 punktuose, svarbi informacija, kuri nebuvo žinoma išduodant licenciją.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. X-545, 2006-04-06, Žin., 2006, Nr. 44-1586 (2006-04-22), i. k. 1061010ISTA000X-545
  
-
-
 
 
 
@@ -368,16 +453,26 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 Lietuvos Respublikos
-strateginių prekių kontrolės
-įstatymo
+strateginių prekių kontrolės įstatymo
 priedas
  
-ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS AKTAS
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
-2000 m. birželio 22 d. Tarybos reglamentas (EB) Nr. 1334/2000, nustatantis Bendrijos dvejopo naudojimo objektų ir technologijų eksporto kontrolės režimą (su paskutiniais pakeitimais, padarytais 2003 m. sausio 27 d. Tarybos reglamentu (EB) Nr. 149/2003).
+
+
+1. 2000 m. birželio 22 d. Tarybos reglamentas (EB) Nr. 1334/2000, nustatantis Bendrijos dvejopo naudojimo objektų ir technologijų eksporto kontrolės režimą, su paskutiniais pakeitimais, padarytais 2006 m. vasario 27 d. Tarybos reglamentu (EB) Nr. 394/2006, iš dalies pakeičiančiu ir atnaujinančiu Reglamentą (EB) Nr. 1334/2000, nustatantį Bendrijos dvejopo naudojimo objektų ir technologijų eksporto kontrolės režimą.
+
+
+
+
+2. 2003 m. birželio 23 d. Tarybos bendroji pozicija 2003/468/BUSP dėl tarpininkavimo ginklų prekyboje kontrolės.
  
+
+
 Papildyta priedu:
 Nr. IX-2198, 2004-04-29, Žin., 2004, Nr. 73-2532 (2004-04-30), i. k. 1041010ISTA0IX-2198
+Priedo pakeitimai:
+Nr. X-545, 2006-04-06, Žin., 2006, Nr. 44-1586 (2006-04-22), i. k. 1061010ISTA000X-545
  
  
  
@@ -402,3 +497,8 @@ Lietuvos Respublikos strateginių prekių ir technologijų importo, tranzito ir 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2198, 2004-04-29, Žin., 2004, Nr. 73-2532 (2004-04-30), i. k. 1041010ISTA0IX-2198
 Lietuvos Respublikos strateginių prekių eksporto, importo ir tranzito kontrolės įstatymo pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-545, 2006-04-06, Žin., 2006, Nr. 44-1586 (2006-04-22), i. k. 1061010ISTA000X-545
+Lietuvos Respublikos strateginių prekių kontrolės įstatymo 1, 3, 6, 7 straipsnių ir įstatymo priedo pakeitimo įstatymas
