@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.95C4D287AAA9"
 
 # Lietuvos Respublikos Bendrojo pagalbos centro įstatymas
 
+Suvestinė redakcija nuo 2006-07-01 iki 2010-12-31
+ 
+Įstatymas paskelbtas: Žin. 2004, Nr. 90-3306, i. k. 1041010ISTA0IX-2246
+ 
+ 
 LIETUVOS RESPUBLIKOS
 BENDROJO PAGALBOS CENTRO
 ĮSTATYMAS
@@ -33,7 +38,10 @@ BENDROSIOS NUOSTATOS
 1. Šis įstatymas nustato:
 
 
-1) Bendrojo pagalbos centro prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Centras) teisinę formą, veiklos teisinius pagrindus ir principus, uždavinius, funkcijas, struktūrą, finansavimą, veiklos kontrolę, bendradarbiavimo su valstybės ar savivaldybių institucijomis, įstaigomis ar įmonėmis, kitais juridiniais ar fiziniais asmenimis pagrindus bei kitus Centro veiklos ypatumus;
+1) Bendrojo pagalbos centro (toliau – Centras) teisinę formą, veiklos teisinius pagrindus ir principus, uždavinius, funkcijas, bendradarbiavimo su valstybės ar savivaldybių institucijomis, įstaigomis ar įmonėmis, kitais juridiniais ar fiziniais asmenimis pagrindus bei kitus Centro veiklos ypatumus; 
+Straipsnio punkto pakeitimai:
+Nr. X-589, 2006-05-02, Žin., 2006, Nr. 57-2021 (2006-05-20), i. k. 1061010ISTA000X-589
+ 
 
 
 
@@ -104,18 +112,25 @@ BENDROSIOS NUOSTATOS
 
 
 
-3 straipsnis. Centro teisinė forma ir veiklos teisiniai pagrindai
+3 straipsnis. Centro teisinė forma, steigimo ir veiklos teisiniai pagrindai
 
 
-1. Centras yra vidaus reikalų statutinė įstaiga.
+1. Centras yra Priešgaisrinės apsaugos ir gelbėjimo departamentui prie Vidaus reikalų ministerijos pavaldi biudžetinė įstaiga.
 
 
 
 
-2. Centras savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, šiuo įstatymu, Vidaus tarnybos statutu, kitais Lietuvos Respublikos įstatymais bei kitais teisės aktais.
+2. Centras savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, šiuo įstatymu, Vidaus tarnybos statutu, kitais Lietuvos Respublikos įstatymais bei kitais teisės aktais.
+
+
+
+
+3. Centrą steigia Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos įstatymų ir kitų teisės aktų nustatyta tvarka. Centro nuostatus tvirtina Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktorius. 
+
+
+Straipsnio pakeitimai:
+Nr. X-589, 2006-05-02, Žin., 2006, Nr. 57-2021 (2006-05-20), i. k. 1061010ISTA000X-589
  
-
-
 
 
 
@@ -359,97 +374,10 @@ CENTRO KOMPETENCIJA REAGUOJANT Į PAGALBOS PRAŠYMUS
 
 
 
-KETVIRTASIS SKIRSNIS
-CENTRO STEIGIMAS, REORGANIZAVIMAS IR LIKVIDAVIMAS, STRUKTŪRA, CENTRO VADOVYBĖ IR PERSONALAS
+4 skirsnis. Neteko galios nuo 2006-07-01
+Skirsnio naikinimas:
+Nr. X-589, 2006-05-02, Žin. 2006, Nr. 57-2021 (2006-05-20), i. k. 1061010ISTA000X-589
  
-
-
-12 straipsnis. Centro steigimas, reorganizavimas ir likvidavimas, Centro struktūra
-
-
-Centrą steigia, reorganizuoja ir likviduoja Vyriausybė įstatymų ir kitų teisės aktų nustatyta tvarka. Centro struktūrą ir nuostatus tvirtina Vyriausybė arba jos įgaliota institucija.
- 
-
-
-
-
-
-
-13 straipsnis. Centro vadovybė
-
-
-1. Centrui vadovauja direktorius. Direktorių į pareigas skiria ir iš jų atleidžia vidaus reikalų ministras.
-
-
-
-
-2. Centro direktorius:
-
-
-1) vadovauja Centrui ir tiesiogiai atsako už tai, kad būtų įgyvendinami Centrui pavesti uždaviniai ir atliekamos nustatytos funkcijos;
-
-
-
-
-2) atstovauja ar įgalioja Centro pareigūnus ar kitus valstybės tarnautojus atstovauti Centrui Lietuvos Respublikoje ir užsienyje;
-
-
-
-
-3) tvirtina Centro padalinių struktūras, jų nuostatus, Centro vidaus tvarkos taisykles, veiklos planus bei kitus vidaus dokumentus, taip pat Centro pareigūnų, kitų valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių sąrašus, pareigybių aprašymus bei pareigines instrukcijas;
-
-
-
-
-4) įstatymų ir kitų teisės aktų nustatyta tvarka skatina Centro pareigūnus, kitus valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis, bei skiria jiems tarnybines ir drausmines nuobaudas;
-
-
-
-
-5) atsiskaito už Centro veiklą vidaus reikalų ministrui;
-
-
-
-
-6) atlieka kitas įstatymų ir kitų teisės aktų jam nustatytas funkcijas.
-
-
-
-
-
-
-3. Centro direktoriaus pavaduotojus į pareigas skiria ir iš jų atleidžia vidaus reikalų ministras Centro direktoriaus teikimu.
- 
-
-
-
-
-
-
-14 straipsnis. Centro personalas
-
-
-1. Centro personalą sudaro pareigūnai, kiti valstybės tarnautojai bei darbuotojai, dirbantys pagal darbo sutartis.
-
-
-
-
-2. Pareigūnų tarnybos santykius reglamentuoja Vidaus tarnybos statutas, vidaus reikalų įstaigų veiklą reglamentuojantys įstatymai ir kiti teisės aktai. 
-
-
-
-
-3. Kitų valstybės tarnautojų, tarnaujančių Centre, tarnybą reglamentuoja Valstybės tarnybos įstatymas ir kiti teisės aktai. Šiems valstybės tarnautojams taip pat taikomos Vidaus tarnybos statuto 7 straipsnio 3 dalies 2 punkto ir 11 straipsnio 2 dalies nuostatos.
-
-
-
-
-4. Darbuotojų, dirbančių pagal darbo sutartis, darbą reglamentuoja darbo santykius reglamentuojantys teisės aktai.
- 
-
-
-
-
 
 
 
@@ -554,66 +482,18 @@ Centro PAREIGŪNO TEISĖS IR PAREIGOS
 
 
 
-ŠEŠTASIS SKIRSNIS
-CENTRO FINANSAVIMAS IR VEIKLOS KONTROLĖ
- 
-
-
-18 straipsnis. Centro finansavimas
-
-
-1. Centras finansuojamas iš Lietuvos Respublikos valstybės biudžeto.
-
-
-
-
-2. Centrui finansuoti gali būti naudojamos ir kitos teisės aktų nustatyta tvarka gautos lėšos.
+6 skirsnis. Neteko galios nuo 2006-07-01
+Skirsnio naikinimas:
+Nr. X-589, 2006-05-02, Žin. 2006, Nr. 57-2021 (2006-05-20), i. k. 1061010ISTA000X-589
  
 
 
 
 
-
-
-19 straipsnis. Centro veiklos kontrolė
-
-
-Centro veiklą įstatymų ir kitų teisės aktų nustatyta tvarka kontroliuoja bei prižiūri vidaus reikalų ministras ir kitos įgaliotos valstybės institucijos.
+7 skirsnis. Neteko galios nuo 2006-07-01
+Skirsnio naikinimas:
+Nr. X-589, 2006-05-02, Žin. 2006, Nr. 57-2021 (2006-05-20), i. k. 1061010ISTA000X-589
  
-
-
-
-
-
-
-
-
-SEPTINTASIS SKIRSNIS
-BAIGIAMOSIOS NUOSTATOS
- 
-
-
-20 straipsnis. Pasiūlymas Vyriausybei
-
-
-Vyriausybė iki šio įstatymo įsigaliojimo parengia ir patvirtina pagalbos tarnybų trumpųjų telefono numerių naudojimo tvarką jų keitimo į numerį 112 laikotarpiu ir kitus su šio įstatymo įgyvendinimu susijusius teisės aktus.
- 
-
-
-
-
-
-
-21 straipsnis. Įstatymo įsigaliojimas
-
-
-Šis įstatymas, išskyrus  20 straipsnį, įsigalioja nuo 2004 m. rugsėjo 1 d.
- 
- 
-
-
-
-
 
 
 
@@ -658,3 +538,14 @@ priedas
 
 
 ______________
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-589, 2006-05-02, Žin., 2006, Nr. 57-2021 (2006-05-20), i. k. 1061010ISTA000X-589
+Lietuvos Respublikos bendrojo pagalbos centro įstatymo 1, 3 straipsnių pakeitimo ir ketvirtojo, šeštojo bei septintojo skirsnių pripažinimo netekusiais galios įstatymas
