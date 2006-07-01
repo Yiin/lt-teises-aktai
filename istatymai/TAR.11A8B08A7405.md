@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.11A8B08A7405"
 
 # Lietuvos Respublikos suėmimo vykdymo įstatymas
 
-Suvestinė redakcija nuo 2004-03-30 iki 2006-06-30
+Suvestinė redakcija nuo 2006-07-01 iki 2009-03-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 12-313, i. k. 0961010ISTA00I-1175
  
@@ -40,6 +40,13 @@ PAGRINDINĖS NUOSTATOS
 
 
 2. Kardomojo kalinimo įstatymo nustatyta kardomojo kalinimo (suėmimo) tvarka yra vienoda ir privaloma visoms valstybės institucijoms, pareigūnams ir asmenims.
+
+
+
+
+3. Kardomojo kalinimo įstatymo nuostatos suderintos su Europos Sąjungos teisės aktų, nurodytų šio įstatymo 3 priedėlyje, nuostatomis.
+Papildyta straipsnio dalimi:
+Nr. X-636, 2006-06-01, Žin., 2006, Nr. 68-2494 (2006-06-17), i. k. 1061010ISTA000X-636
  
 
 
@@ -1244,6 +1251,13 @@ Nr. I-1348, 1996-05-28, Žin., 1996, Nr. 53-1249 (1996-06-05), i. k. 0961010ISTA
 
 
 4. Paleidžiamiems iš kardomojo kalinimo vietų asmenims pasirašytinai grąžinami pinigai ir daiktai. Jų prašymu apie tai, kiek laiko jie išbuvo kardomojo kalinimo vietoje, išduodama pažyma.
+
+
+
+
+5. Jeigu kardomojo kalinimo vietoje yra gauta pažyma, kad nukentėjusysis pageidauja, jog jam būtų pranešta apie būsimą kalinamojo paleidimą į laisvę, kardomojo kalinimo vietos direktorius privalo pranešti nukentėjusiajam apie kalinamojo paleidimą. Nukentėjusiajam apie kalinamojo paleidimą į laisvę pranešama ne vėliau kaip likus vienai dienai iki kalinamojo paleidimo dienos. Tais atvejais, kai kalinamasis iš kardomojo kalinimo vietos turi būti paleidžiamas tuoj po to, kai gaunamas nuosprendis, nutartis ar nutarimas dėl kalinamojo paleidimo, nukentėjusiajam pranešama iš karto po kalinamojo paleidimo.
+Papildyta straipsnio dalimi:
+Nr. X-636, 2006-06-01, Žin., 2006, Nr. 68-2494 (2006-06-17), i. k. 1061010ISTA000X-636
  
 
 
@@ -1450,6 +1464,22 @@ Kalinamiesiems draudžiama dirbti:
 9) eiti materialiai atsakingojo pareigas.
 
 
+
+
+
+
+ 
+ 
+Lietuvos Respublikos
+1996 m. sausio 18 d. įstatymo Nr. I-1175
+3 priedėlis
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+2001 m. kovo 15 d. Tarybos pagrindų sprendimas 2001/220/TVR dėl nukentėjusiųjų padėties baudžiamosiose bylose.
+Papildyta priedu:
+Nr. X-636, 2006-06-01, Žin., 2006, Nr. 68-2494 (2006-06-17), i. k. 1061010ISTA000X-636
+ 
  
  
 Pakeitimai:
@@ -1483,3 +1513,8 @@ Lietuvos Respublikos kardomojo kalinimo įstatymo 10, 15, 18 straipsnių bei 1 p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2058, 2004-03-16, Žin., 2004, Nr. 47-1549 (2004-03-30), i. k. 1041010ISTA0IX-2058
 Lietuvos Respublikos kardomojo kalinimo įstatymo 18 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-636, 2006-06-01, Žin., 2006, Nr. 68-2494 (2006-06-17), i. k. 1061010ISTA000X-636
+Lietuvos Respublikos baudžiamojo proceso kodekso, Bausmių vykdymo kodekso ir Kardomojo kalinimo įstatymo pakeitimo ir papildymo įstatymas
