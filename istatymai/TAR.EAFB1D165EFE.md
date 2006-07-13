@@ -23,16 +23,12 @@ PAKEITIMO
 ĮSTATYMAS
 2004 m. liepos 15 d. Nr. IX-2406
 Vilnius
-
-
-
-
- 
- (Žin., 2003, Nr.
+(Žin., 2003, Nr.
 15-600, Nr. 52-2315)
  
-1 straipsnis. Lietuvos Respublikos žemės ūkio
-paskirties žemės įsigijimo laikinojo įstatymo nauja redakcija
+1 straipsnis. Lietuvos
+Respublikos žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo nauja
+redakcija
 Pakeisti
 Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo laikinąjį   įstatymą
 ir jį išdėstyti taip:
@@ -42,11 +38,11 @@ ir jį išdėstyti taip:
 ŽEMĖS ĮSIGIJIMO LAIKINASIS
 Į S T A T Y M A S
  
-1 straipsnis.
-Įstatymo paskirtis
+1
+straipsnis. Įstatymo paskirtis
 1. Šio įstatymo
-tikslas – užtikrinti, kad Lietuvos nacionalinis turtas – žemės   ūkio paskirties
-žemė – būtų naudojamas racionaliai, būtų skatinama žemės rinka ir
+tikslas – užtikrinti, kad Lietuvos nacionalinis turtas – žemės   ūkio
+paskirties žemė – būtų naudojamas racionaliai, būtų skatinama žemės rinka ir
 konkurencingas žemės ūkis, sudarytos sąlygos racionalių ūkių žemėvaldų suformavimui
 bei
 žemės konsolidacijai.
@@ -60,15 +56,15 @@ valstybės paramą įsigyjant žemės ūkio paskirties žemę turi:
 1) fizinis
 asmuo, įregistravęs ūkininko ūkį Ūkininko ūkio įstatymo nustatyta   tvarka,
 arba norintis ūkininkauti fizinis asmuo, turintis žemės ūkio išsimokslinimo
-diplomą arba dokumentą, patvirtinantį profesinį pasirengimą ūkininkauti, ar
-praktinio ūkininkavimo patirties;
+diplomą arba dokumentą, patvirtinantį profesinį pasirengimą ūkininkauti, ar praktinio
+ūkininkavimo patirties;
 2) juridinis
-asmuo – žemės ūkio produkcijos gamintojas, kurio metinės   įplaukos už realizuotą
-prekinę žemės ūkio produkciją sudaro daugiau kaip 50 procentų visų gautų
-pajamų.
+asmuo – žemės ūkio produkcijos gamintojas, kurio metinės   įplaukos už
+realizuotą prekinę žemės ūkio produkciją sudaro daugiau kaip 50 procentų visų
+gautų pajamų.
  
-3 straipsnis.
-Valstybės parama įsigyjant žemės ūkio paskirties žemę
+3
+straipsnis. Valstybės parama įsigyjant žemės ūkio paskirties žemę
 1. Asmenims,
 nurodytiems šio įstatymo 2 straipsnyje, valstybės parama įsigyjant žemės ūkio
 paskirties žemę teikiama šiomis sąlygomis:
@@ -153,13 +149,11 @@ didesnis kaip 2000 ha, prieštarauja Lietuvos Respublikos Konstitucijos
 29 straipsnio 1 daliai, 46 straipsnio 4 dalies nuostatai „įstatymas <...>
 saugo sąžiningos konkurencijos laisvę“, 48 straipsnio 1 dalies nuostatai
 „kiekvienas žmogus gali laisvai pasirinkti <...> verslą“.
-Lietuvos
-Respublikos Konstitucinis Teismas, Nutarimas
-2006-03-30,
-Žin., 2006, Nr. 37-1319 (2006-04-04)
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+2006-03-30, Žin., 2006, Nr. 37-1319 (2006-04-04)
  
-5 straipsnis.
-Pirmumo teisė įsigyti valstybinę žemės ūkio paskirties žemę
+5
+straipsnis. Pirmumo teisė įsigyti valstybinę žemės ūkio paskirties žemę
 1. Valstybinė
 žemė, dėl kurios pagal įstatymus, reglamentuojančius piliečių   nuosavybės
 teisių į išlikusį nekilnojamąjį turtą atkūrimą, nepateikti prašymai atkurti
@@ -199,20 +193,20 @@ paskirties žemės sklypų formavimo eiliškumas asmenims, nurodytiems šio
 straipsnio 2 dalyje, nustatomas Žemės reformos įstatyme. Žemės ūkio paskirties
 žemės sklypus, nurodytus šio straipsnio 2 dalies 1 ir 2 punktuose, pagal šį
 įstatymą pirkti gali tik šiuos žemės sklypus naudojantys asmenys. 
-4. Asmenims,
-kuriems pirmumo teisė įsigyti parduodamą valstybinę žemės   ūkio paskirties
-žemę nustatyta kitų įstatymų, valstybinė žemės ūkio paskirties žemė parduodama
+4. Asmenims, kuriems
+pirmumo teisė įsigyti parduodamą valstybinę žemės   ūkio paskirties žemę
+nustatyta kitų įstatymų, valstybinė žemės ūkio paskirties žemė parduodama
 vadovaujantis šiais įstatymais, nesilaikant eiliškumo, nustatyto šio straipsnio
 2 dalyje nurodytiems asmenims Žemės reformos įstatyme. 
 5.
 Kai tą patį žemės ūkio paskirties žemės sklypą, išskyrus žemės sklypus,
 nurodytus šio straipsnio 2 dalies 1 ir 2 punktuose, pageidauja pirkti keli
-vienodą pirmumo teisę turintys asmenys, žemės sklypas šiems asmenims
-parduodamas uždaro aukciono būdu. Kai nėra asmenų, turinčių pirmumo teisę
-pirkti valstybinę žemės ūkio paskirties žemę, prašymų pirkti žemės ūkio
-paskirties žemės sklypus, išskyrus žemės sklypus, nurodytus šio straipsnio 2
-dalies 1 ir 2 punktuose, šie žemės sklypai parduodami atviro aukciono būdu.
-Uždaro ir atviro aukcionų organizavimo tvarką nustato Vyriausybė.
+vienodą pirmumo teisę turintys asmenys, žemės sklypas šiems asmenims parduodamas
+uždaro aukciono būdu. Kai nėra asmenų, turinčių pirmumo teisę pirkti valstybinę
+žemės ūkio paskirties žemę, prašymų pirkti žemės ūkio paskirties žemės sklypus,
+išskyrus žemės sklypus, nurodytus šio straipsnio 2 dalies 1 ir 2 punktuose, šie
+žemės sklypai parduodami atviro aukciono būdu. Uždaro ir atviro aukcionų
+organizavimo tvarką nustato Vyriausybė.
 6. Asmenys,
 pagal šį įstatymą pasinaudoję pirmumo teise įsigyti valstybinę   žemės ūkio
 paskirties žemę, teisę ją perleisti kitiems fiziniams ar juridiniams asmenims
@@ -221,15 +215,15 @@ kaip praėjus 5 metams nuo šios žemės įsigijimo dienos. Valstybinės
 žemės ūkio paskirties žemės pirkimo–pardavimo sutartyje įrašoma sąlyga, kad
 pagal šį įstatymą pasinaudojusio pirmumo teise įsigyti valstybinę žemės ūkio
 paskirties žemę asmens prašymu arba nustačius, kad tokiu būdu įsigyta
-valstybinė žemės ūkio paskirties žemė naudojama ne pagal paskirtį, valstybė įgyja
-teisę atpirkti šią žemę. 
+valstybinė žemės ūkio paskirties žemė naudojama ne pagal paskirtį, valstybė
+įgyja teisę atpirkti šią žemę. 
  
-6 straipsnis.
-Pirmumo teisė įsigyti privačią žemės ūkio paskirties žemę
+6
+straipsnis. Pirmumo teisė įsigyti privačią žemės ūkio paskirties žemę
 1. Pirmumo teisę
 įsigyti privačią žemės ūkio paskirties žemę ta kaina, kuria ji  
-parduodama, ir kitomis tomis pačiomis sąlygomis, išskyrus atvejus, kai parduodama
-iš viešųjų varžytynių, turi šia eilės tvarka:
+parduodama, ir kitomis tomis pačiomis sąlygomis, išskyrus atvejus, kai
+parduodama iš viešųjų varžytynių, turi šia eilės tvarka:
 1) žemės sklypo
 bendraturčiai, – Civilinio kodekso 4.79 straipsnio nustatyta   tvarka; 
 2) parduodamo
@@ -255,15 +249,15 @@ nuo momento, kai akivaizdžiai galėjo sužinoti apie žemės ūkio paskirties �
 pardavimą, turi teisę teismo tvarka reikalauti, kad jam būtų perkeltos pirkėjo
 teisės ir pareigos.“
  
-2 straipsnis.
-Įstatymo įsigaliojimas
+2
+straipsnis. Įstatymo įsigaliojimas
 1. Įsigaliojus
 šiam įstatymui, netenka galios Lietuvos Respublikos valstybės paramos įsigyjant
 žemės ūkio paskirties žemę laikinasis įstatymas (Žin., 2002, Nr. 74-3140).
-2. Iki šio įstatymo įsigaliojimo pradėtos žemės ūkio
-paskirties žemės įsigijimo procedūros užbaigiamos pagal tuo metu galiojusio
-Žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo bei jį įgyvendinančių
-teisės aktų normas. 
+2. Neteko galios nuo 2006 m. liepos 27 d. 
+Straipsnio pakeitimai:
+Nr. X-762, 2006-07-13, Žin., 2006, Nr.
+82-3259 (2006-07-27)
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą
 įstatymą. 
@@ -274,11 +268,22 @@ RESPUBLIKOS
 PREZIDENTAS                                                           VALDAS
 ADAMKUS 
  
-
-
-
-
 __________________
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-762, 2006-07-13, Žin., 2006, Nr.
+82-3259 (2006-07-27)
+ŽEMĖS
+ŪKIO PASKIRTIES ŽEMĖS ĮSIGIJIMO LAIKINOJO ĮSTATYMO IR ŽEMĖS ŪKIO PASKIRTIES
+ŽEMĖS ĮSIGIJIMO LAIKINOJO ĮSTATYMO PAKEITIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+ 
+***
+Pabaiga ***
  
 Konstitucinio Teismo nutarimai:
  
