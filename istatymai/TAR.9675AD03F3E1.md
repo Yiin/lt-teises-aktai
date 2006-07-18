@@ -239,17 +239,17 @@ straipsnyje asmenims nustatyti gyvenimo bendrai su sutuoktiniu, kuris yra
 Lietuvos Respublikos pilietis, Lietuvos Respublikos teritorijoje terminai
 netaikomi asmenims, sudariusiems santuoką su Lietuvos Respublikos piliečiais
 iki šio straipsnio įsigaliojimo. Šiems asmenims yra taikomi 2002 m. rugsėjo 17
-d. priimto Lietuvos Respublikos pilietybės įstatymo 14 straipsnyje nustatyti gyvenimo
-Lietuvos Respublikos teritorijoje terminai.
+d. priimto Lietuvos Respublikos pilietybės įstatymo 14 straipsnyje nustatyti
+gyvenimo Lietuvos Respublikos teritorijoje terminai.
 Straipsnio pakeitimai:
 Nr. X-33, 2004-12-09,
 Žin., 2004, Nr. 180-6659 (2004-12-16)
  
 15 straipsnis.
 Priesaika Lietuvos Respublikai
-1. Asmenys, kuriems
-suteikiama Lietuvos Respublikos pilietybė natūralizacijos ar optavimo būdu,
-taip pat pagal šio Įstatymo 16 straipsnį, prisiekia tokiais žodžiais:
+1. Asmenys,
+kuriems suteikiama Lietuvos Respublikos pilietybė natūralizacijos ar optavimo
+būdu, taip pat pagal šio Įstatymo 16 straipsnį, prisiekia tokiais žodžiais:
 „Aš, (vardas,
 pavardė), tapdamas Lietuvos Respublikos piliečiu, prisiekiu būti ištikimas
 Lietuvos Respublikai, laikytis Lietuvos Respublikos Konstitucijos bei įstatymų,
@@ -279,7 +279,11 @@ tvarka netaikant jiems šio Įstatymo 12 straipsnyje numatytų pilietybės
 suteikimo sąlygų. Nuopelnais Lietuvos Respublikai laikytina užsienio valstybės
 piliečio ar asmens be pilietybės veikla, kuria asmuo ypač reikšmingai prisideda
 prie Lietuvos Respublikos valstybingumo stiprinimo, Lietuvos Respublikos galios
-ir jos autoriteto tarptautinėje bendruomenėje didinimo.
+ir jos autoriteto tarptautinėje bendruomenėje didinimo. Lietuvos Respublikos
+pilietybė išimties tvarka netaikant šio Įstatymo 12 straipsnyje numatytų
+pilietybės suteikimo sąlygų taip pat gali būti suteikta, kai tai sietina su
+viešuoju interesu ar Lietuvos Respublikos vardo garsinimu atstovaujant
+Lietuvai.
 2. Šio
 straipsnio 1 dalis netaikoma šio Įstatymo 20 straipsnyje nurodytiems asmenims.
 3. Lietuvos
@@ -292,6 +296,8 @@ ir 23 straipsnių reikalavimus.
 Straipsnio pakeitimai:
 Nr. X-33, 2004-12-09,
 Žin., 2004, Nr. 180-6659 (2004-12-16)
+Nr. X-768, 2006-07-18,
+Žin., 2006, Nr. 81-3186 (2006-07-25)
  
 III SKYRIUS
 TEISĖS Į
@@ -309,8 +315,8 @@ provaikaičiams (jeigu šie asmenys, jų vaikai, vaikaičiai ar provaikaičiai
 nerepatrijavo), gyvenantiems kitose valstybėse;
 2) lietuvių kilmės
 asmenims, gyvenantiems kitose valstybėse.
-2. Asmenims, kuriems išsaugoma
-teisė į Lietuvos Respublikos pilietybę, jų prašymu Lietuvos Respublikos
+2. Asmenims, kuriems
+išsaugoma teisė į Lietuvos Respublikos pilietybę, jų prašymu Lietuvos Respublikos
 Vyriausybės nustatyta tvarka išduodami šią teisę patvirtinantys dokumentai.
 3. Asmenys,
 nurodyti šio straipsnio 1 dalies 1 ir 2 punktuose, teisę į Lietuvos Respublikos
@@ -325,8 +331,8 @@ Respublikos pilietybės netenkama:
 Lietuvos Respublikos pilietybės;
 2) įgijus kitos
 valstybės pilietybę;
-3) Lietuvos
-Respublikos tarptautinių sutarčių numatytais pagrindais.
+3) Lietuvos Respublikos
+tarptautinių sutarčių numatytais pagrindais.
 2. Šio straipsnio 1
 dalies 2 punktas netaikomas Lietuvos Respublikos piliečiui, įgijusiam kitos
 valstybės pilietybę po 2003 m. sausio 1 d., jeigu jis yra:
@@ -394,8 +400,7 @@ Nr. X-546, 2006-04-06,
 Žin., 2006, Nr. 46-1645 (2006-04-27)
  
 21
-straipsnis. Lietuvos Respublikos pilietybės suteikimo akto pripažinimas
-negaliojančiu
+straipsnis. Lietuvos Respublikos pilietybės suteikimo akto pripažinimas negaliojančiu
 1. Lietuvos
 Respublikos pilietybės suteikimo aktą teismas pripažįsta negaliojančiu, jeigu
 nustato, kad asmuo, įgijęs Lietuvos Respublikos pilietybę natūralizacijos ar
@@ -567,23 +572,23 @@ Lietuvos Respublikos pilietybę pateikia dokumentus apie turėtos Lietuvos
 Respublikos pilietybės netekimo pagrindus.
 8. Prie prašymo suteikti Lietuvos
 Respublikos pilietybę išimties tvarka pridedama: Lietuvos Respublikos valstybės
-politikų, Lietuvos Respublikos piliečių, nusipelniusių Lietuvos valstybei, rekomendacijos,
-kuriose nurodoma asmens veikla, ypač reikšminga Lietuvos Respublikai,
-dokumentai apie valstybinius apdovanojimus, publikacijų sąrašai, dokumentai,
-patvirtinantys asmens integravimąsi į Lietuvos visuomenę, taip pat dokumentai,
-patvirtinantys asmens tapatybę (užsienio valstybės paso ar jį atitinkančio
-dokumento nuorašas).
+politikų, Lietuvos Respublikos piliečių, nusipelniusių Lietuvos valstybei,
+rekomendacijos, kuriose nurodoma asmens veikla, ypač reikšminga Lietuvos
+Respublikai, dokumentai apie valstybinius apdovanojimus, publikacijų sąrašai,
+dokumentai, patvirtinantys asmens integravimąsi į Lietuvos visuomenę, taip pat
+dokumentai, patvirtinantys asmens tapatybę (užsienio valstybės paso ar jį
+atitinkančio dokumento nuorašas).
 9. 18 metų
 neturinčių asmenų prašymus suteikti Lietuvos Respublikos pilietybę, įgyvendinti
 teisę į Lietuvos Respublikos pilietybę, atsisakyti Lietuvos Respublikos
 pilietybės ar ją grąžinti paduoda jų teisėti atstovai. 
 10. Dėl asmens
 pripažinimo netekusiu Lietuvos Respublikos pilietybės pagal šio Įstatymo 18
-straipsnio 3 dalį, dėl Lietuvos Respublikos pilietybės suteikimo akto
-pripažinimo negaliojančiu pagal šio Įstatymo 21 straipsnio 1 ir 2 dalis
-sprendimą priima Vilniaus apygardos administracinis teismas. Kreiptis į teismą
-šiame straipsnyje nurodytais atvejais turi teisę vidaus reikalų ministras ar jo
-įgaliota institucija, taip pat užsienio reikalų ministras ar jo įgaliota institucija.
+straipsnio 3 dalį, dėl Lietuvos Respublikos pilietybės suteikimo akto pripažinimo
+negaliojančiu pagal šio Įstatymo 21 straipsnio 1 ir 2 dalis sprendimą priima
+Vilniaus apygardos administracinis teismas. Kreiptis į teismą šiame straipsnyje
+nurodytais atvejais turi teisę vidaus reikalų ministras ar jo įgaliota
+institucija, taip pat užsienio reikalų ministras ar jo įgaliota institucija.
 Teismas, priėmęs sprendimą pripažinti asmenį netekusiu Lietuvos Respublikos
 pilietybės ar Lietuvos Respublikos pilietybės suteikimo aktą pripažinti
 negaliojančiu, privalo paskelbti informaciją „Valstybės žinių“ priede
@@ -615,10 +620,10 @@ Nr. X-546, 2006-04-06,
  
 27 straipsnis.
 Pilietybės reikalų komisija
-1. Lietuvos
-Respublikos pilietybės klausimams preliminariai svarstyti Respublikos
-Prezidentas sudaro Pilietybės reikalų komisiją (toliau – Komisija) ir tvirtina
-Pilietybės klausimų nagrinėjimo šioje Komisijoje taisykles.
+1. Lietuvos Respublikos
+pilietybės klausimams preliminariai svarstyti Respublikos Prezidentas sudaro
+Pilietybės reikalų komisiją (toliau – Komisija) ir tvirtina Pilietybės klausimų
+nagrinėjimo šioje Komisijoje taisykles.
 2. Komisija turi
 teisę pakviesti į savo posėdį asmenį, kurio pilietybės klausimas sprendžiamas,
 pavesti valstybės institucijoms, kad jos per Komisijos nurodytą laiką pareikštų
@@ -690,15 +695,15 @@ dėl asmenų, nuolat gyvenančių Lietuvos Respublikoje, Lietuvos Respublikos
 pilietybės pagal šio Įstatymo 1 straipsnio 1, 2 ar 3 punktus, taip pat
 sprendimus dėl išsaugojusių teisę į Lietuvos Respublikos pilietybę pagal šio
 Įstatymo 17 straipsnio 1 dalies 1 punktą asmenų, nuolat gyvenančių Lietuvos
-Respublikoje, teisės į Lietuvos Respublikos pilietybę įgyvendinimo pagal šio
-Įstatymo 17 straipsnio 3 dalį priima vidaus reikalų ministras ar jo įgaliota
-institucija arba migracijos tarnybos, o dėl asmenų, nuolat gyvenančių
-užsienyje, Lietuvos Respublikos pilietybės pagal šio Įstatymo 1 straipsnio 1 ar
-3 punktus, taip pat dėl išsaugojusių teisę į Lietuvos Respublikos pilietybę
-pagal šio Įstatymo 17 straipsnio 1 dalies 1 ar 2 punktus asmenų, nuolat
-gyvenančių užsienio valstybėse, teisės į Lietuvos Respublikos pilietybę
-įgyvendinimo pagal šio Įstatymo 17 straipsnio 3 dalį – vidaus reikalų ministras
-ar jo įgaliota institucija.
+Respublikoje, teisės į Lietuvos Respublikos pilietybę įgyvendinimo pagal šio Įstatymo
+17 straipsnio 3 dalį priima vidaus reikalų ministras ar jo įgaliota institucija
+arba migracijos tarnybos, o dėl asmenų, nuolat gyvenančių užsienyje, Lietuvos
+Respublikos pilietybės pagal šio Įstatymo 1 straipsnio 1 ar 3 punktus, taip pat
+dėl išsaugojusių teisę į Lietuvos Respublikos pilietybę pagal šio Įstatymo 17
+straipsnio 1 dalies 1 ar 2 punktus asmenų, nuolat gyvenančių užsienio
+valstybėse, teisės į Lietuvos Respublikos pilietybę įgyvendinimo pagal šio
+Įstatymo 17 straipsnio 3 dalį – vidaus reikalų ministras ar jo įgaliota
+institucija.
 8. Lietuvos
 Respublikos pilietybės atsisakymo ir grąžinimo pagal šio Įstatymo 20 straipsnio
 2 dalį klausimus sprendžia vidaus reikalų ministras ar jo įgaliota
@@ -860,11 +865,20 @@ X-546,
 PILIETYBĖS
 ĮSTATYMO 12, 18, 20, 26, 28, 30 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-768,
+2006-07-18, Žin., 2006, Nr. 81-3186 (2006-07-25)
+PILIETYBĖS
+ĮSTATYMO 16 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
 Redagavo:
-Aušrinė Trapinskienė (2006-04-28)
+Aušrinė Trapinskienė (2006-07-25)
                  
 autrap@lrs.lt
 
