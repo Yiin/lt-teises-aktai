@@ -169,12 +169,25 @@ institucija nustato, kad tam yra būtina materialinė bazė ir yra įvykdyti kit
 steigiamoms įstaigoms keliami reikalavimai, yra Vyriausybės įgaliotų institucijų
 išvados, patvirtinančios, kad steigiamos įstaigos materialinė bazė atitinka
 darbuotojų saugos ir sveikatos reikalavimus.
+ 
+[Dalies redakcija iki 2007-01-01]
 2. Reikalavimus
 steigiamoms mokslinių tyrimų įstaigoms, šių įstaigų veiklos kvalifikacinius
 reikalavimus ir jų veiklos priežiūros tvarką nustato Vyriausybė, atsižvelgdama
 į Lietuvos mokslo tarybos ir Lietuvos mokslų akademijos siūlymus. 
+[Dalies redakcija nuo 2007-01-01]
+2. Reikalavimus steigiamoms mokslinių tyrimų
+įstaigoms, šių įstaigų veiklos kvalifikacinius reikalavimus ir jų veiklos
+priežiūros tvarką nustato Vyriausybė, išklausiusi Lietuvos mokslo tarybos ir
+Lietuvos mokslų akademijos siūlymus.
+ 
 3. Mokslinių tyrimų įstaigos registruojamos juridinių
 asmenų registre Juridinių asmenų registro nuostatų nustatyta tvarka.
+Straipsnio
+pakeitimai:
+Nr.
+X-769,
+2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08)
  
 8 straipsnis. Mokslinių tyrimų
 įstaigų steigimas
@@ -183,16 +196,30 @@ asmenų registre Juridinių asmenų registro nuostatų nustatyta tvarka.
 2. Universiteto mokslo institutą
 bendru universiteto bei Švietimo ir mokslo ministerijos teikimu steigia
 Vyriausybė, išnagrinėjusi Lietuvos mokslo tarybos išvadas ir rekomendacijas.
+ 
+[Dalies redakcija iki 2007-01-01]
 3. Valstybės mokslo įstaigą
 Švietimo ir mokslo ministerijos teikimu steigia Vyriausybė, atsižvelgdama į
 suinteresuotų valstybės institucijų siūlymus. Vyriausybė gali pavesti valstybės
 mokslo įstaigos steigėjo funkcijas, nesusijusias su jos steigimu, pabaiga ir
 pertvarkymu, atlikti su įstaigos veikla susijusiai valstybės institucijai ar
 įstaigai.
+[Dalies redakcija nuo 2007-01-01]
+3. Valstybės mokslo įstaigą Švietimo ir mokslo
+ministerijos teikimu steigia Vyriausybė, išklausiusi suinteresuotų valstybės
+institucijų siūlymus. Vyriausybė gali pavesti valstybės mokslo įstaigos
+steigėjo funkcijas, nesusijusias su jos steigimu, pabaiga ir pertvarkymu,
+atlikti su įstaigos veikla susijusiai valstybės institucijai ar įstaigai.
+ 
 4. Privačias mokslinių tyrimų įstaigas gali steigti
 Lietuvos Respublikos bei užsienio fiziniai ir juridiniai asmenys. 
 5. Mokslinių tyrimų įstaiga laikoma
 įsteigta nuo jos įregistravimo juridinių asmenų registre.
+Straipsnio
+pakeitimai:
+Nr.
+X-769,
+2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08)
  
 9 straipsnis. Mokslinių tyrimų
 įstaigų pabaiga ir pertvarkymas
@@ -205,8 +232,8 @@ funkcijas atliekanti institucija pakartotinai nustato, kad valstybės mokslinių
 tyrimų įstaigos veikla neatitinka Vyriausybės nustatytų šios įstaigos veiklos
 kvalifikacinių reikalavimų, Vyriausybė Švietimo ir mokslo ministerijos ar
 įstaigos steigėjo funkcijas atliekančios institucijos teikimu (valstybės
-universiteto mokslo instituto atveju – bendru Švietimo ir mokslo ministerijos bei
-universiteto teikimu), parengtu įvertinus Lietuvos mokslo tarybos ir
+universiteto mokslo instituto atveju – bendru Švietimo ir mokslo ministerijos
+bei universiteto teikimu), parengtu įvertinus Lietuvos mokslo tarybos ir
 suinteresuotų valstybės institucijų išvadas, sprendžia dėl mokslinių tyrimų
 įstaigos pabaigos ar pertvarkymo.
 3. Jei Vyriausybės įgaliota mokslinių tyrimų įstaigų
@@ -233,11 +260,10 @@ mokslininkų, ūkio bei verslo interesams atstovaujančių organizacijų ir
 valstybės institucijų atstovai. Lietuvos mokslo taryba yra Seimo ir Vyriausybės
 patarėja mokslo, studijų ir eksperimentinės plėtros politikos klausimais.
  
-12 straipsnis. Lietuvos mokslų
-akademija
+12 straipsnis. Lietuvos mokslų akademija
 1. Lietuvos mokslų akademija yra
-biudžetinė įstaiga, jungianti žymiausius Lietuvos ir savo veikla su Lietuva susijusius
-užsienio mokslininkus.
+biudžetinė įstaiga, jungianti žymiausius Lietuvos ir savo veikla su Lietuva
+susijusius užsienio mokslininkus.
 2. Lietuvos mokslų akademija yra
 mokslinis ekspertas mokslo ir studijų, technikos, ūkio, kultūros, socialinės
 raidos, aplinkos apsaugos, sveikatos apsaugos ir kitais klausimais.
@@ -299,25 +325,36 @@ atliekamų mokslinių tyrimų rezultatų komercializavimui bei mokslinių tyrim�
 ūkio ryšiams skatinti. 
 2. Parkų steigimo, veikimo,
 pabaigos ir pertvarkymo tvarką nustato Civilinis kodeksas ir Viešųjų įstaigų
-įstatymas. Vyriausybė tvirtina pavyzdinius mokslo ir technologijų parkų įstatus.
-Savo veiklai parkai, atitinkantys Vyriausybės nustatytus kriterijus, kai bent
-vienas iš steigėjų yra valstybės ar savivaldybės institucija, gali naudoti
-panaudos pagrindais jiems perduotą valstybės ir savivaldybių turtą. Parkai gali
-vykdyti valstybės institucijų ar įstaigų patvirtintas programas.
+įstatymas. Vyriausybė tvirtina pavyzdinius mokslo ir technologijų parkų
+įstatus. Savo veiklai parkai, atitinkantys Vyriausybės nustatytus kriterijus,
+kai bent vienas iš steigėjų yra valstybės ar savivaldybės institucija, gali
+naudoti panaudos pagrindais jiems perduotą valstybės ir savivaldybių turtą.
+Parkai gali vykdyti valstybės institucijų ar įstaigų patvirtintas programas.
 3. Parko ir jo remiamų įmonių tarpusavio
 santykiai ir įsipareigojimai nustatomi sutartyse.
  
 18 straipsnis. Mokslininkų ir tyrėjų
 organizacijos, sąjungos, studentų atstovybės
+ 
+[Dalies redakcija iki 2007-01-01]
 1. Mokslininkų ir tyrėjų
 organizacijų steigimą ir veiklą reglamentuoja Visuomeninių organizacijų
 įstatymas. 
+[Dalies redakcija nuo 2007-01-01]
+1. Mokslininkų ir tyrėjų organizacijų
+steigimą ir veiklą reglamentuoja Asociacijų įstatymas.
+ 
 2. Lietuvos mokslininkų sąjungos yra
 mokslininkų ir tyrėjų organizacijų asociacijos, veikiančios pagal Asociacijų
 įstatymą. Vyriausybės nustatyta tvarka sąjungos registruojamos juridinių asmenų
 registre.
 3. Studentų atstovybių veiklos pagrindus
 ir funkcijas nustato Aukštojo mokslo įstatymas.
+Straipsnio
+pakeitimai:
+Nr.
+X-769,
+2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08)
  
 19 straipsnis. Mokslo ir studijų
 institucijų turtas
@@ -335,8 +372,8 @@ kuris įsigytas iš nebiudžetinių lėšų, gautas dovanų, priimtas kaip palik
 įgytas kitu teisėtu būdu, mokslo ir studijų institucijos valdo, naudoja ir juo
 disponuoja nuosavybės teise pagal Civilinio kodekso normas.
  
-20 straipsnis. Mokslinių tyrimų
-įstaigų statutai ir įstatai
+20 straipsnis. Mokslinių tyrimų įstaigų
+statutai ir įstatai
 1. Valstybės mokslinių tyrimų įstaigų
 veiklą reglamentuoja Vyriausybės patvirtinti statutai ar įstatai. Vyriausybė
 gali pavesti patvirtinti valstybės mokslo įstaigos įstatus institucijai, kuri
@@ -400,9 +437,9 @@ instituto struktūrą ir jos pakeitimus;
 instituto metines veiklos ataskaitas, organizuoja veiklos nuolatinę
 kvalifikacinę analizę ir vertina, kaip institutas vykdo savo tikslus,
 uždavinius ir paskirtį valstybėje;
-5) tvirtina
-mokslininkų rengimą doktorantūroje reglamentuojančius dokumentus ir
-kontroliuoja mokslininkų rengimo kokybę;
+5) tvirtina mokslininkų
+rengimą doktorantūroje reglamentuojančius dokumentus ir kontroliuoja
+mokslininkų rengimo kokybę;
 6) nustato
 instituto mokslo darbuotojų kvalifikacinius reikalavimus, jų atestavimo ir
 konkursų į pareigas organizavimo tvarką;
@@ -412,8 +449,8 @@ veiklą ir vidaus tvarką reglamentuojančius dokumentus;
 8) atlieka kitas
 statute nustatytas funkcijas. 
 4. Valstybės
-mokslo instituto tarybos išrinktą direktorių tvirtina švietimo ir mokslo
-ministras. 
+mokslo instituto tarybos išrinktą direktorių tvirtina švietimo ir mokslo ministras.
+
 5. Valstybės
 mokslo instituto direktorius yra instituto vadovas, veikia instituto vardu ir
 jam atstovauja. Direktorius atlieka statuto ir teisės aktų įstaigos vadovui
@@ -425,9 +462,9 @@ mokslo instituto valdymą reglamentuoja Aukštojo mokslo įstatymas.
 mokslo įstaigos savivaldos ir valdymo organus, jų formavimo tvarką nustato
 Vyriausybės patvirtinti pavyzdiniai valstybinių mokslo įstaigų įstatai.
 8. Valstybės
-mokslinių tyrimų įstaigos direktorius turi būti mokslininkas. Tas pats asmuo mokslo
-instituto ar universiteto mokslo instituto direktoriaus pareigas gali eiti ne
-ilgiau kaip dvi penkerių metų kadencijas iš eilės.
+mokslinių tyrimų įstaigos direktorius turi būti mokslininkas. Tas pats asmuo
+mokslo instituto ar universiteto mokslo instituto direktoriaus pareigas gali
+eiti ne ilgiau kaip dvi penkerių metų kadencijas iš eilės.
 9. Privačių mokslinių tyrimų įstaigų
 valdymą reglamentuoja jų įstatai. 
  
@@ -550,8 +587,8 @@ vėliau kaip kovo mėnesį) viešai skelbia praėjusių metų pajamų ir išlaid
 ataskaitą.
 3. Mokslinių tyrimų įstaiga išlaidų
 apyskaitas įstatymų nustatyta tvarka pateikia institucijoms, iš kurių gavo
-finansavimą. Valstybės biudžeto lėšų panaudojimo tikslingumą kontroliuoja Valstybės
-kontrolė.
+finansavimą. Valstybės biudžeto lėšų panaudojimo tikslingumą kontroliuoja
+Valstybės kontrolė.
 4. Prireikus Švietimo ir mokslo
 ministerija gali inicijuoti įstaigos finansinės atskaitomybės auditą.
  
@@ -561,12 +598,26 @@ daktaro ir habilituoto daktaro mokslo laipsniai.
 2. Daktaro mokslo laipsnis suteikiamas
 asmenims, įvykdžiusiems doktorantūros reikalavimus ir apgynusiems daktaro
 disertaciją. Doktorantūros nuostatus, reglamentuojančius ir mokslo laipsnio
-teikimo tvarką, tvirtina Vyriausybė. Mokslinių tyrimų įstaigų doktorantai turi Aukštojo
-mokslo įstatymo ir kitų įstatymų nustatytas studentų teises.
+teikimo tvarką, tvirtina Vyriausybė. Mokslinių tyrimų įstaigų doktorantai turi
+Aukštojo mokslo įstatymo ir kitų įstatymų nustatytas studentų teises.
+ 
+[Dalies
+redakcija iki 2007-01-01]
 3. Habilitacijos tvarką nustato
 Vyriausybė, atsižvelgdama į Lietuvos mokslo tarybos, Lietuvos universitetų
 rektorių konferencijos, Lietuvos valstybinių mokslo institutų direktorių
 konferencijos ir Aukštojo mokslo tarybos siūlymus.
+[Dalies
+redakcija nuo 2007-01-01]
+3. Habilitacijos tvarką nustato Vyriausybė,
+išklausiusi Lietuvos mokslo tarybos, Lietuvos universitetų rektorių
+konferencijos, Lietuvos valstybinių mokslo institutų direktorių konferencijos
+ir Aukštojo mokslo tarybos siūlymus.
+Straipsnio
+pakeitimai:
+Nr.
+X-769,
+2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08)
  
  
 30 straipsnis. Pedagoginiai vardai
@@ -587,11 +638,26 @@ Lietuvos Respublikos tarptautinės sutartys nenustato kitaip.
  
 32 straipsnis. Mokslo ir studijų
 institucijų personalas
+ 
+[Dalies
+redakcija iki 2007-01-01]
 1. Mokslo ir studijų institucijų personalą sudaro
 dėstytojai, mokslo darbuotojai bei kiti tyrėjai, administracijos ir kiti
 tarnautojai.
+[Dalies
+redakcija nuo 2007-01-01]
+1. Mokslo ir studijų institucijų personalą sudaro
+dėstytojai, mokslo darbuotojai bei kiti tyrėjai, administracijos ir kiti
+darbuotojai. Jų darbo apmokėjimo sąlygas ir socialines garantijas nustato
+įstatymai ir kiti teisės aktai.
+ 
 2. Dėstytojų ir mokslo darbuotojų pareigas nustato
 Aukštojo mokslo įstatymas.
+Straipsnio
+pakeitimai:
+Nr.
+X-769,
+2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08)
  
 33 straipsnis. Mokslinių tyrimų
 įstaigų tyrėjai
@@ -606,19 +672,21 @@ tyrėjų, išskyrus mokslininkus stažuotojus, pareigybių reikalavimus, konkurs
 atestavimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 2. Asmuo, norintis dirbti
 mokslinių tyrimų įstaigoje kaip nepagrindinėje darbovietėje, kartu su prašymu
-priimti dirbti tyrėju privalo nurodyti savo pareigas (dirbamą darbą)
-pagrindinėje ir visose nepagrindinėse darbovietėse.
+priimti dirbti tyrėju privalo nurodyti savo pareigas (dirbamą darbą) pagrindinėje
+ir visose nepagrindinėse darbovietėse.
 [Papildyti 3
 dalimi nuo 2005-08-01]
-3. Kvalifikacinius mokslininkų
-stažuotojų pareigybių reikalavimus, skyrimo į šias pareigas tvarką bei
-mokslininkų stažuočių finansavimo tvarką nustato Vyriausybė.
+3. Kvalifikacinius
+mokslininkų stažuotojų pareigybių reikalavimus, skyrimo į šias pareigas tvarką
+bei mokslininkų stažuočių finansavimo tvarką nustato Vyriausybė.
 Straipsnio
 pakeitimai:
 Nr.
 X-292,
 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14)
  
+[Straipsnio
+redakcija iki 2007-01-01]
 34 straipsnis. Administracijos ir
 kiti tarnautojai
 1. Mokslinių tyrimų įstaigos turi turėti
@@ -627,10 +695,28 @@ atlikti, taip pat kitų tarnautojų, reikalingų įstaigos mokslinių tyrimų,
 eksperimentinės plėtros bei ūkinės veiklos uždaviniams įgyvendinti.
 2. Administraciją sudaro
 mokslinių tyrimų įstaigų ir jų padalinių vadovai, vadovų pavaduotojai bei
-įstaigų moksliniai sekretoriai, jei kitaip nenustato įstaigos statutas (įstatai).
+įstaigų moksliniai sekretoriai, jei kitaip nenustato įstaigos statutas
+(įstatai).
 3. Kitų (ne administracijos)
 mokslinių tyrimų įstaigos tarnautojų skaičių, jų pareigas ir funkcijas nustato
 pati įstaiga.
+ 
+[Straipsnio
+redakcija nuo 2007-01-01]
+34 straipsnis. Administracijos darbuotojai ir kiti darbuotojai1. Mokslinių tyrimų įstaiga turi turėti administraciją, būtiną jos ir jos padalinių administracinėms funkcijoms atlikti, taip pat kitų darbuotojų, reikalingų įstaigos mokslinių tyrimų, eksperimentinės plėtros ir ūkinės veiklos uždaviniams įgyvendinti.
+2. Administraciją sudaro mokslinių
+tyrimų įstaigų darbuotojai, kurie turi teisę pagal savo kompetenciją duoti
+privalomus nurodymus pavaldiems darbuotojams. Mokslinių tyrimų įstaigų
+vadovai, vadovų pavaduotojai mokslui ir įstaigų moksliniai sekretoriai, be
+administracinių pareigų, gali dirbti ir mokslinį darbą. 
+3. Kitų (ne administracijos) mokslinių
+tyrimų įstaigos darbuotojų skaičių, jų pareigas ir funkcijas nustato
+pati įstaiga.
+Straipsnio
+pakeitimai:
+Nr.
+X-769,
+2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08)
  
 35 straipsnis. Skyrimo į pareigas
 mokslinių tyrimų įstaigose tvarka
@@ -683,8 +769,8 @@ taikomi atitinkamoms pareigoms nustatyti reikalavimai. Tolesniam darbui
 Straipsnio
 pakeitimai:
 Nr.
-X-292,
-2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14)
+X-292, 2005-06-30,
+Žin., 2005, Nr. 85-3136 (2005-07-14)
  
 36 straipsnis. Asocijuoti
 mokslininkai
@@ -704,8 +790,8 @@ dėstytojai, mokslo darbuotojai ir tyrėjai
 1. Mokslo ir studijų įstaiga gali
 ne ilgesniam kaip dvejų metų laikotarpiui pakviesti dėstytojus, mokslo
 darbuotojus ir kitus tyrėjus iš kitų valstybių dirbti pagal terminuotą darbo
-sutartį. Kviestiniams dėstytojams, mokslo darbuotojams ir kitiems tyrėjams netaikoma
-šiame Įstatyme nustatyta skyrimo į pareigas tvarka.
+sutartį. Kviestiniams dėstytojams, mokslo darbuotojams ir kitiems tyrėjams
+netaikoma šiame Įstatyme nustatyta skyrimo į pareigas tvarka.
 2. Mokslinių tyrimų įstaiga gali
 pagal sutartis su ūkio subjektais sudaryti galimybes jų tarnautojams atlikti
 įstaigoje mokslinius tyrimus ir (ar) eksperimentinės plėtros darbus.
@@ -726,6 +812,8 @@ su Švietimo ir mokslo ministerija.
 3. Profesoriaus emerito vardas suteikia teisę gauti
 profesoriaus emerito valstybinę mokslininko pensiją.
  
+[Straipsnio
+redakcija iki 2007-01-01]
 39 straipsnis. Mokslininkų ir kitų
 tyrėjų teisės ir pareigos
 1. Mokslininkai ir kiti tyrėjai turi
@@ -769,6 +857,16 @@ etikos normų;
 2) vykdyti savo įstaigos statute (įstatuose)
 nustatytas pareigas bei funkcijas.
  
+[Straipsnio
+redakcija nuo 2007-01-01]
+39 straipsnis. Mokslininkų, kitų tyrėjų ir administracijos darbuotojų bei kitų darbuotojų teisės ir pareigos 1. Mokslininkai, kiti tyrėjai ir administracijos darbuotojai bei kiti darbuotojai turi lygias teises, neatsižvelgiant į jų lytį, rasę, politinius įsitikinimus, pažiūras, tikėjimą, kilmę, socialinę padėtį, tautybę ir kalbą, taip pat pilietybę, dalyvauti konkursuose į pareigas įstaigose. 2. Mokslininkai, kiti tyrėjai ir administracijos darbuotojai bei kiti darbuotojai turi teisę: 1) dalyvauti konkursuose mokslo programoms vykdyti bei mokslo ir studijų fondų paramai gauti, disponuoti skirtomis lėšomis; 2) dalyvauti konkursuose stažuotėms Lietuvos Respublikoje ir užsienyje; 3) gauti iš valstybės institucijų moksliniam darbui reikalingą informaciją. Jeigu tokia informacija yra valstybės ar tarnybos paslaptis, ji teikiama ir naudojama teisės aktų nustatyta tvarka; 4) dalyvauti priimant sprendimus dėl savo įstaigos statuto (įstatų) turinio ir veiklos plano; 5) dalyvauti įvairiose profesinėse sąjungose bei asociacijose, tarp jų ir esančiose užsienyje. 3. Mokslininkai ir administracijos darbuotojai bei kiti darbuotojai, be šio straipsnio 2 dalyje išvardytų teisių, taip pat turi teisę: 1) dirbti savarankiškai arba jungtis į kūrybines grupes; 2) savarankiškai skelbti savo mokslinius darbus. 4. Mokslininkams, kitiems tyrėjams ir administracijos darbuotojams bei kitiems darbuotojams garantuojama: 1) kūrybos ir intelektualaus darbo autorių teisės, nustatytos Lietuvos Respublikos įstatymuose bei tarptautinėse sutartyse; 2) nepriklausomybė nuo ideologijos ir politinių institucijų; 3) apsauga nuo varžymų ir sankcijų už savo tyrimų rezultatų ir įsitikinimų skelbimą, išskyrus atvejus, kai skelbiama informacija yra valstybės ar tarnybos paslaptis. 5. Mokslininkai, kiti tyrėjai ir administracijos darbuotojai bei kiti darbuotojai privalo: 1) laikytis mokslinės ir profesinės etikos normų; 2) vykdyti savo įstaigos statute (įstatuose) nustatytas pareigas ir funkcijas.
+ 
+Straipsnio
+pakeitimai:
+Nr.
+X-769,
+2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08)
+ 
  
 LIETUVOS
 RESPUBLIKOS
@@ -811,11 +909,22 @@ Nr. X-292, 2005-06-30,
 AUKŠTOJO
 MOKSLO ĮSTATYMO IR MOKSLO IR STUDIJŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. X-769, 2006-07-18,
+Žin., 2006, Nr. 87-3395 (2006-08-08)
+AUKŠTOJO
+MOKSLO ĮSTATYMO IR MOKSLO IR STUDIJŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Įstatymas
+įsigalioja nuo 2007-01-01.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Angonita Rupšytė (2005-07-15)
-anrups@lrs.lt
+Aušra Bodin (2006-08-10)
+                 
+ausra.bodin@lrs.lt
 
