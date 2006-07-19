@@ -70,21 +70,21 @@ kontrolieriui ir jo pavaduotojams;
 kontrolieriams;
 4) Nacionalinės
 teismų administracijos direktoriui;
-5) moterų ir
-vyrų lygių galimybių kontrolieriui;
+5) lygių
+galimybių kontrolieriui;
 6) vaiko teisių
 apsaugos kontrolieriui;
 7) žurnalistų
 etikos inspektoriui; 
 8) Seimo, Seimo
-Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtiems institucijų
-ir įstaigų, finansuojamų iš valstybės biudžeto, vadovams (išskyrus Valstybės
-saugumo departamento generalinį direktorių ir jo pavaduotojus, Specialiųjų
-tyrimų tarnybos direktorių ir jo pavaduotojus bei policijos generalinį
-komisarą) bei pareigūnams;
-9) Seimo,
-Respublikos Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių
-(nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams.
+Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtiems
+institucijų ir įstaigų, finansuojamų iš valstybės biudžeto, vadovams (išskyrus
+Valstybės saugumo departamento generalinį direktorių ir jo pavaduotojus,
+Specialiųjų tyrimų tarnybos direktorių ir jo pavaduotojus bei policijos
+generalinį komisarą) bei pareigūnams;
+9) Seimo, Respublikos
+Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių (nuolatinių)
+komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams.
 Straipsnio
 pakeitimai:
 Nr. VIII-2057,
@@ -93,16 +93,16 @@ Nr. IX-312, 2001 05 08, Žin., 2001, Nr.
 43-1492 (2001 05 23)
 Nr. IX-349, 2001 05 24, Žin., 2001, Nr.
 48-1661 (2001 06 06) (atitaisymas skelbtas: Žin., 2001, Nr. 49)
-Nr. IX-841,
-2002-04-09, Žin., 2002, Nr. 43-1606 (2002-04-26)
+Nr. IX-841, 2002-04-09,
+Žin., 2002, Nr. 43-1606 (2002-04-26)
 Nr. IX-1012,
 2002-07-02, Žin., 2002, Nr. 72-3018 (2002-07-17)
 Nr. IX-1045,
 2002-07-05, Žin., 2002, Nr. 73-3104 (2002-07-19)
 Nr. IX-1326,
 2003-01-28, Žin., 2003, Nr. 17-703 (2003-02-19)
-Nr. IX-1390, 2003-03-25,
-Žin., 2003, Nr. 35-1464 (2003-04-11)
+Nr. IX-1390,
+2003-03-25, Žin., 2003, Nr. 35-1464 (2003-04-11)
 Nr. IX-1520,
 2003-04-22, Žin., 2003, Nr. 42-1920 (2003-05-01)
 Nr. IX-1594,
@@ -110,6 +110,9 @@ Nr. IX-1594,
 Nr.
 IX-1918,
 2003-12-18, Žin., 2003, Nr. 123-5589 (2003-12-30)
+Nr.
+X-789,
+2006-07-19, Žin., 2006, Nr. 87-3400 (2006-08-08)
  
 3
 straipsnis. Valstybės politikų, teisėjų ir valstybės pareigūnų darbo užmokestis
@@ -130,8 +133,8 @@ priemokos.
 pareigūnų darbo užmokestį yra vieši. Šių duomenų pateikimo tvarką iki 2002 m.
 birželio 1 d. nustato Vyriausybė.
 Straipsnio pakeitimai:
-Nr. IX-811,
-2002-03-26, Žin., 2002, Nr. 38-1358 (2002-04-10)
+Nr. IX-811, 2002-03-26,
+Žin., 2002, Nr. 38-1358 (2002-04-10)
 Nr. IX-1045,
 2002-07-05, Žin., 2002, Nr. 73-3104 (2002-07-19)
 Nr. IX-1520,
@@ -140,14 +143,19 @@ Nr. IX-1520,
 4 straipsnis. Valstybės politikų,
 teisėjų ir valstybės pareigūnų pareiginės algos
 1. Valstybės
-politikų, teisėjų ir valstybės pareigūnų pareiginės algos skaičiuojamos
-taikant Vyriausybės patvirtintos minimalios mėnesinės algos (toliau – MMA)
-dydžio koeficientus.
+politikų, teisėjų ir valstybės pareigūnų pareiginės algos skaičiuojamos taikant
+pareiginės algos bazinį dydį (toliau – bazinis dydis), kurį Vyriausybės
+teikimu, įvertinus valstybės politikus, teisėjus ir valstybės pareigūnus
+atstovaujančių organizacijų pasiūlymus, praėjusių metų vidutinę metinę
+infliaciją (skaičiuojant nacionalinį vartotojų kainų indeksą) ir kitų vidutinio
+darbo užmokesčio viešajame sektoriuje dydžiui ir kitimui poveikį turinčių
+veiksnių įtaką, tvirtina Seimas iki Seimo pavasario sesijos pabaigos.
+Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį dydį.
 2. Pareiginė
 alga apskaičiuojama atitinkamą pareiginės algos koeficientą, nustatytą šio
-įstatymo priedėlyje, padauginus iš Vyriausybės patvirtintos MMA. Pareiginė alga
-apvalinama vadovaujantis bendromis skaičių apvalinimo taisyklėmis taip, kad
-paskutinis skaitmuo būtų 0 arba 5. 
+įstatymo priedėlyje, padauginus iš bazinio dydžio. Pareiginė alga apvalinama
+vadovaujantis bendromis skaičių apvalinimo taisyklėmis taip, kad paskutinis
+skaitmuo būtų 0 arba 5.
 3. Savivaldybių
 tarybų narių pagrindinėje darbovietėje negautas atlyginimas už laiką, praleistą
 tarybos, komitetų, komisijų, kolegijos posėdžiuose, taip pat už laiką,
@@ -156,6 +164,9 @@ savivaldos įstatymo nustatytais pagrindais.
 Straipsnio pakeitimai:
 Nr. IX-1594,
 2003-06-03, Žin., 2003, Nr. 59-2639 (2003-06-20)
+Nr.
+X-789,
+2006-07-19, Žin., 2006, Nr. 87-3400 (2006-08-08)
  
 5 straipsnis.
 Priedas už ištarnautus Lietuvos valstybei metus 
@@ -227,8 +238,8 @@ sąlygos pradedamos taikyti nuo kito naujai išrinkto Seimo pirmojo posėdžio
 dienos, o savivaldybių merams ir merų pavaduotojams – nuo 2002 m. sausio 1 d.
 3. Valstybės
 politikams, teisėjams ir valstybės pareigūnams: 
-*1) kurių
-vidutinis darbo užmokestis, Vyriausybės nustatyta tvarka apskaičiuotas iš trijų
+*1) kurių vidutinis
+darbo užmokestis, Vyriausybės nustatyta tvarka apskaičiuotas iš trijų
 paskutinių mėnesių tarnybinių atlyginimų (pareiginių algų) ir iš paskutinių
 dvylikos mėnesių nustatytų priedų ir priemokų (toliau – buvęs darbo
 užmokestis), yra didesnis už šio įstatymo nustatytą darbo užmokestį,
@@ -319,8 +330,7 @@ A – pereinamuoju
 laikotarpiu priklausantis darbo užmokestis;
 B – šio įstatymo
 nustatytas darbo užmokestis;
-C – buvęs darbo
-užmokestis;
+C – buvęs darbo užmokestis;
 D – darbo
 užmokesčio perskaičiavimo koeficientas, laipsniškai didinantis buvusį darbo
 užmokestį. Nustatomi šie pereinamojo laikotarpio koeficientai:
@@ -381,10 +391,10 @@ asmenims darbo užmokestis nustatomas ir apskaičiuojamas pagal šio straipsnio
 nuostatas ir nurodytas formules, kuriose dydis C reiškia naujai išrinkto ar
 paskirto valstybės politiko, teisėjo ar valstybės pareigūno darbo užmokesčio,
 apskaičiuoto pagal iki šio įstatymo įsigaliojimo galiojusias darbo apmokėjimo
-sąlygas, dydį. Steigiant naują instituciją ar įstaigą, steigėjas steigimo akte
-arba steigiamos institucijos ar įstaigos nuostatuose turi nurodyti, kokios
-darbo apmokėjimo sąlygos, galiojusios panašioms institucijoms ar įstaigoms iki
-šio įstatymo įsigaliojimo datos, taikomos pereinamuoju laikotarpiu.
+sąlygas, dydį. Steigiant naują instituciją ar įstaigą, steigėjas steigimo akte arba
+steigiamos institucijos ar įstaigos nuostatuose turi nurodyti, kokios darbo
+apmokėjimo sąlygos, galiojusios panašioms institucijoms ar įstaigoms iki šio
+įstatymo įsigaliojimo datos, taikomos pereinamuoju laikotarpiu.
 *5. Pasibaigus
 pereinamajam laikotarpiui, valstybės politikams, teisėjams ir valstybės
 pareigūnams turi būti mokamas šio įstatymo nustatytas darbo užmokestis.
@@ -474,7 +484,7 @@ Nr. VIII-1904
  
 I.
 VALSTYBĖS POLITIKŲ PAREIGINĖS ALGOS
- (MMA dydžiais) 
+(Baziniais dydžiais)
 
 
 
@@ -565,7 +575,6 @@ Pakomitečių pirmininkai, nuolatinių
   komisijų pirmininkai 
 
 
- 
 10,5
 
 
@@ -793,12 +802,10 @@ IX-1918,
 Nr. X-128, 2005-02-15,
 Žin., 2005, Nr. 28-877 (2005-02-26)
  
-
-
  
 *II. Teisėjų pareiginės algos
  
- (MMA dydžiais)
+(Baziniais dydžiais)
 
 
 
@@ -833,7 +840,7 @@ skyriaus
   pirmininko
 
 
-teisėjo
+Teisėjo
 
 
 
@@ -1064,9 +1071,10 @@ straipsnio 5 dalis (2000 m. rugpjūčio 29 d. ir 2001 m. kovo 27 d. redakcijos),
 7 straipsnio 6 dalies nuostata, įtvirtinanti pereinamąjį laikotarpį, ir šio įstatymo
 priedėlio II skirsnis “Teisėjų pareiginės algos” ta apimtimi, kuria juose
 nustatomas teisėjų, kurių darbo užmokestis yra didesnis už šio įstatymo
-nustatytą darbo užmokestį, darbo užmokesčio mažinimas, prieštarauja Lietuvos Respublikos
-Konstitucijos 5 straipsniui, 109 straipsniui, 114 straipsnio 1 daliai ir
-Lietuvos Respublikos Konstitucijoje įtvirtintam teisinės valstybės principui.
+nustatytą darbo užmokestį, darbo užmokesčio mažinimas, prieštarauja Lietuvos
+Respublikos Konstitucijos 5 straipsniui, 109 straipsniui, 114 straipsnio 1
+daliai ir Lietuvos Respublikos Konstitucijoje įtvirtintam teisinės valstybės
+principui.
 Skirsnio
 pakeitimai:
 Lietuvos
@@ -1076,11 +1084,9 @@ Respublikos Konstitucinis Teismas, Nutarimas
 Nr. IX-1390,
 2003-03-25, Žin., 2003, Nr. 35-1464 (2003-04-11)
  
-
-
+ 
 III. Prokurorų pareiginės algos
-                                                                                                         (MMA
-dydžiais)
+(Baziniais dydžiais)
 
 
 
@@ -1485,12 +1491,10 @@ Skirsnio pakeitimai:
 Nr. IX-1520,
 2003-04-22, Žin., 2003, Nr. 42-1920 (2003-05-01)
  
-
-
  
 IV. VALSTYBĖS PAREIGŪNŲ
 PAREIGINĖS ALGOS
-(MMA dydžiais)
+(Baziniais dydžiais)
 
 
 
@@ -1588,8 +1592,7 @@ Nacionalinės teismų administracijos
 4.
 
 
-Moterų ir vyrų lygių galimybių
-  kontrolierius
+Lygių galimybių kontrolierius
 
 
 12
@@ -1844,11 +1847,18 @@ Nr. IX-1045, 2002-07-05, Žin., 2002,
 Nr. 73-3104 (2002-07-19)
 Nr. IX-1390,
 2003-03-25, Žin., 2003, Nr. 35-1464 (2003-04-11)
-Nr. IX-1738, 2003-09-18,
-Žin., 2003, Nr. 94-4247 (2003-10-08)
+Nr. IX-1738,
+2003-09-18, Žin., 2003, Nr. 94-4247 (2003-10-08)
 Nr.
 IX-1918,
 2003-12-18, Žin., 2003, Nr. 123-5589 (2003-12-30)
+ 
+Priedėlio
+pakeitimai:
+Nr.
+X-789,
+2006-07-19, Žin., 2006, Nr. 87-3400 (2006-08-08)
+ 
 __________________
 Pakeitimai:
  
@@ -1954,8 +1964,8 @@ PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1326,
-2003-01-28, Žin., 2003, Nr. 17-703 (2003-02-19)
+IX-1326, 2003-01-28,
+Žin., 2003, Nr. 17-703 (2003-02-19)
 VALSTYBĖS
 POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2 STRAIPSNIO
 PAKEITIMO, 7 STRAIPSNIO 1 DALIES PRIPAŽINIMO NETEKUSIA GALIOS IR ĮSTATYMO
@@ -1988,8 +1998,8 @@ STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 5(1) STRAIPSNIU IR
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1594, 2003-06-03,
-Žin., 2003, Nr. 59-2639 (2003-06-20)
+IX-1594,
+2003-06-03, Žin., 2003, Nr. 59-2639 (2003-06-20)
 VALSTYBĖS
 POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 4
 STRAIPSNIŲ IR ĮSTATYMO PRIEDĖLIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
@@ -2020,11 +2030,21 @@ IR PRIEDĖLIO I BEI IV SKIRSNIŲ PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-128,
-2005-02-15, Žin., 2005, Nr. 28-877 (2005-02-26)
+X-128, 2005-02-15,
+Žin., 2005, Nr. 28-877 (2005-02-26)
 VALSTYBĖS
 POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO I
 SKIRSNIO PAPILDYMO ĮSTATYMAS
+ 
+18.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. X-789, 2006-07-19,
+Žin., 2006, Nr. 87-3400 (2006-08-08)
+VALSTYBĖS
+TARNYBOS ĮSTATYMO IR VALSTYBĖS POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO
+APMOKĖJIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+ 
  
 ***Pabaiga***
  
@@ -2059,7 +2079,8 @@ KONSTITUCIJAI
 ***
 Pabaiga ***
  
+ 
 Redagavo:
-Aušrinė Trapinskienė (2005-02-28)
+Aušra Bodin (2006-08-08)
                  
-autrap@lrs.lt
+ausra.bodin@lrs.lt
