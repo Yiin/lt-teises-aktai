@@ -35,14 +35,12 @@ SKIRSNIS
 BENDROSIOS
 NUOSTATOS
  
-1
-straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo paskirtis
 Šis
 įstatymas nustato azartinių lošimų organizavimo sąlygas ir tvarką Lietuvos
 Respublikoje.
  
-2
-straipsnis. Pagrindinės šio įstatymo sąvokos
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 1.
 Azartinis lošimas (toliau – lošimas) – toks žaidimas arba
 abipusės lažybos pagal nustatytą reglamentą, kurių dalyviai, siekdami piniginio
@@ -53,17 +51,19 @@ rezultatas.
 Lošimo įrenginys – lošimo automatas, taip pat kitas elektroninis arba
 mechaninis prietaisas, sukurtas ir pagamintas lošimo tikslais, kurį naudojant
 atsitiktinai laimimi arba pralaimimi pinigai.
-3.
-Lošimo automatas (toliau – automatas) – elektroninis
-prietaisas, sukurtas ir pagamintas lošimo tikslais, kurį naudojant atsitiktinai
-laimimi arba pralaimimi pinigai:
+ 
+*3.
+Lošimo automatas (toliau – automatas) – elektroninis prietaisas,
+sukurtas ir pagamintas lošimo tikslais, kurį naudojant atsitiktinai laimimi
+arba pralaimimi pinigai:
 1) A
 kategorijos automatas – neriboto laimėjimo automatas, kuriame vienkartinis
 didžiausias laimėjimas nėra ribojamas;
-2) B kategorijos automatas – riboto laimėjimo
-automatas, kuriame vienkartinis didžiausias laimėjimas neviršija 200 litų,
-didžiausia statoma suma – 1 litas, vieno lošimo trukmė ne trumpesnė kaip 3
-sekundės.
+2)
+B kategorijos automatas – riboto laimėjimo automatas, kuriame didžiausia
+statoma suma – 1 litas (0,3 euro), vieno lošimo laimėjimas negali būti daugiau
+kaip 200 kartų didesnis už statomą sumą, o vieno lošimo trukmė ne trumpesnė
+kaip 3 sekundės.
 4.
 Lošimo namai (kazino) – vieta, kurioje pagal patvirtintus lošimo
 reglamentus organizuojami stalo lošimai (ruletė, kortų, kauliukų lošimai),
@@ -108,14 +108,19 @@ statomos sumos bei automato programoje nustatyto didžiausio laimėjimo
 koeficiento sandaugai.
 15. Vieno lošimo trukmė lošiant automatu –
 laikas nuo lošimo pradžios (klavišo paspaudimo) iki lošimo rezultato pateikimo.
+*Pastaba: Šio
+straipsnio 3 dalies nuostata dėl euro įsigalioja nuo euro įvedimo Lietuvos
+Respublikoje dienos.
 Straipsnio pakeitimai:
 Nr. IX-995,
 2002-06-27, Žin., 2002, Nr. 72-3010 (2002-07-17)
-Nr. IX-1271, 2002-12-10,
-Žin., 2002, Nr. 123-5553 (2002-12-24)
+Nr. IX-1271,
+2002-12-10, Žin., 2002, Nr. 123-5553 (2002-12-24)
+Nr.
+X-800,
+2006-07-19, Žin., 2006, Nr. 87-3410 (2006-08-08)
  
-3
-straipsnis. Lošimų rūšys
+3 straipsnis. Lošimų rūšys
 1.
 Lošimai automatu: 
 1)
@@ -159,8 +164,8 @@ SKIRSNIS
 REIKALAVIMAI
 LOŠIMAMS ORGANIZUOTI
  
-4
-straipsnis. Institucija, išduodanti licencijas organizuoti lošimus
+4 straipsnis. Institucija, išduodanti licencijas
+organizuoti lošimus
 1.
 Licencijas organizuoti lošimus išduoda Valstybinė lošimų priežiūros komisija
 (toliau – Priežiūros komisija).
@@ -173,8 +178,7 @@ Straipsnio pakeitimai:
 Nr. IX-1698,
 2003-07-04, Žin., 2003, Nr. 74-3419 (2003-07-25)
  
-5
-straipsnis. Licencijų organizuoti lošimus rūšys
+5 straipsnis. Licencijų organizuoti lošimus rūšys
 1.
 Gali būti išduodamos licencijos organizuoti šiuos lošimus:
 1) stalo lošimus
@@ -193,8 +197,7 @@ Straipsnio pakeitimai:
 Nr. IX-995,
 2002-06-27, Žin., 2002, Nr. 72-3010 (2002-07-17)
  
-6
-straipsnis. Licencijos galiojimas ir panaikinimas
+6 straipsnis. Licencijos galiojimas ir panaikinimas
 1.
 Licencija organizuoti lošimus išduodama neterminuotam laikui.
 2. Licencija panaikinama, jeigu:
@@ -220,13 +223,11 @@ Nr. IX-412,
 Nr. IX-1698,
 2003-07-04, Žin., 2003, Nr. 74-3419 (2003-07-25)
  
-7
-straipsnis. Lošimų licencijavimo taisyklės
+7 straipsnis. Lošimų licencijavimo taisyklės
 Lošimų
 licencijavimo taisykles tvirtina Vyriausybė. 
  
-8
-straipsnis. Lošimus organizuojantys subjektai
+8 straipsnis. Lošimus organizuojantys subjektai
 Lošimus
 turi teisę organizuoti akcinės bendrovės ir uždarosios akcinės bendrovės
 (toliau – bendrovės), veikiančios Akcinių bendrovių įstatymo nustatyta tvarka
@@ -234,13 +235,12 @@ bei gavusios šios veiklos licencijas ir leidimus atidaryti automatų, bingo
 salonus, lošimo namus (kazino) arba kai Priežiūros komisija patvirtina
 totalizatoriaus ar lažybų lošimo reglamentą.
  
-9
-straipsnis. Lošimo namų (kazino) steigimo vietos
+9 straipsnis. Lošimo namų (kazino) steigimo vietos
 Lošimo namai (kazino) steigiami vietos savivaldybės
 tarybos sutikimu.
  
-10
-straipsnis. Lošimų organizavimo draudimai ir apribojimai
+10 straipsnis. Lošimų organizavimo draudimai ir
+apribojimai
 1.
 Draudžiama organizuoti lošimus, nenurodytus šiame įstatyme arba pažeidžiant šio
 įstatymo nustatytą tvarką.
@@ -249,8 +249,8 @@ Draudžiama organizuoti lošimus šiose vietose:
 1)
 gyvenamuosiuose namuose, išskyrus tuos, kurių pirmuosiuose aukštuose esančios
 negyvenamos patalpos pagal namo projektą ir eksploataciją yra pritaikytos kitai
-veiklai ir turi pagrindinį įėjimą iš gatvės pusės, nesutampantį su įėjimu į
-namo laiptinę;
+veiklai ir turi pagrindinį įėjimą iš gatvės pusės, nesutampantį su įėjimu į namo
+laiptinę;
 2)
 ikimokyklinio ugdymo įstaigose;
 3)
@@ -360,19 +360,19 @@ Nr. IX-412,
 Nr. IX-995,
 2002-06-27, Žin., 2002, Nr. 72-3010 (2002-07-17)
 Nr.
-IX-1843,
-2003-11-25, Žin., 2003, Nr. 116-5249 (2003-12-12)
+IX-1843, 2003-11-25,
+Žin., 2003, Nr. 116-5249 (2003-12-12)
  
-11
-straipsnis. Reikalavimai lošimų organizatoriams ir Priežiūros komisijos nariams
-bei valstybės tarnautojams ir darbuotojams
+11 straipsnis. Reikalavimai lošimų
+organizatoriams ir Priežiūros komisijos nariams bei valstybės tarnautojams ir
+darbuotojams
 1.
-Lošimus organizuojančios bendrovės steigėjais (akcininkais), taip pat juos
-kontroliuojančiais asmenimis, lošimus organizuojančios bendrovės stebėtojų
-tarybos, valdybos nariais ir administracijos vadovais, jų pavaduotojais,
-vyriausiaisiais finansininkais, lošimo namų (kazino), bingo, automatų salonų
-administracijos vadovais, jų pavaduotojais, vyriausiaisiais finansininkais,
-lošėjus aptarnaujančio personalo ir Priežiūros komisijos nariais bei valstybės
+Lošimus organizuojančios bendrovės steigėjais (akcininkais), taip pat juos kontroliuojančiais
+asmenimis, lošimus organizuojančios bendrovės stebėtojų tarybos, valdybos
+nariais ir administracijos vadovais, jų pavaduotojais, vyriausiaisiais
+finansininkais, lošimo namų (kazino), bingo, automatų salonų administracijos
+vadovais, jų pavaduotojais, vyriausiaisiais finansininkais, lošėjus
+aptarnaujančio personalo ir Priežiūros komisijos nariais bei valstybės
 tarnautojais ir darbuotojais negali būti asmenys, dėl kurių pačių ar jų
 artimųjų giminaičių bei šeimos narių yra atliekamas operatyvinis tyrimas dėl
 neteisėto lošimo namų (kazino) laikymo ar lošimų organizavimo arba priklausymo
@@ -390,8 +390,7 @@ IX-1418, 2003-04-03, Žin., 2003, Nr. 38-1663 (2003-04-24)
 Nr. IX-1698,
 2003-07-04, Žin., 2003, Nr. 74-3419 (2003-07-25)
  
-12
-straipsnis. Lošimų organizavimo vieta
+12 straipsnis. Lošimų organizavimo vieta
 1.
 Lošimai organizuojami:
 1)
@@ -402,9 +401,9 @@ bingo salonuose;
 lošimo namuose (kazino) – stalo lošimai ir lošimai A
 kategorijos automatais.
 2.
-Lošimai automatais, bingas, lošimai lošimo namuose (kazino) gali būti
-organizuojami tik tose patalpose, kurios nurodytos leidime atidaryti automatų,
-bingo salonus, lošimo namus (kazino). 
+Lošimai automatais, bingas, lošimai lošimo namuose (kazino) gali būti organizuojami
+tik tose patalpose, kurios nurodytos leidime atidaryti automatų, bingo salonus,
+lošimo namus (kazino). 
 3.
 Automatų salonuose privalo būti įrengta ne mažiau kaip 10 automatų.
 4.
@@ -419,8 +418,8 @@ Straipsnio pakeitimai:
 Nr. IX-995,
 2002-06-27, Žin., 2002, Nr. 72-3010 (2002-07-17)
  
-13 straipsnis. Reikalavimai lošimus
-organizuojančių bendrovių įstatiniam kapitalui
+13 straipsnis.
+Reikalavimai lošimus organizuojančių bendrovių įstatiniam kapitalui
 1.
 Bingą, totalizatorių, lažybas organizuojančios bendrovės apmokėtas ir įstatuose
 nurodytas įstatinis kapitalas turi būti ne mažesnis kaip 1 mln. litų, o žirgų
@@ -431,9 +430,9 @@ Bendrovės, organizuojančios lošimus B kategorijos automatais, apmokėtas ir
 o tais atvejais, kai bendrovė organizuoja lošimus lošimo namuose (kazino), – 4
 mln. litų.
 3.
-Bendrovės, kuri verčiasi kelių rūšių lošimų organizavimu, apmokėtas ir įstatuose
-nurodytas įstatinis kapitalas turi būti ne mažesnis už didžiausią įstatinį
-kapitalą, nustatytą atitinkamai lošimo rūšiai. 
+Bendrovės, kuri verčiasi kelių rūšių lošimų organizavimu, apmokėtas ir
+įstatuose nurodytas įstatinis kapitalas turi būti ne mažesnis už didžiausią
+įstatinį kapitalą, nustatytą atitinkamai lošimo rūšiai. 
 4. Šio
 straipsnio 1, 2 ir 3 dalyse išvardytų bendrovių dokumentų licencijai gauti
 pateikimo metu nuosavas kapitalas turi atitikti Akcinių bendrovių įstatymo 38
@@ -461,9 +460,8 @@ Nr.
 IX-1948,
 2003-12-23, Žin., 2004, Nr. 4-49 (2004-01-07)
  
-14
-straipsnis. Lošimus organizuojančių bendrovių teisė
-verstis kita ūkine komercine 
+14 straipsnis. Lošimus
+organizuojančių bendrovių teisė verstis kita ūkine komercine 
 veikla
 Bendrovės,
 organizuojančios lošimus automatų salonuose, bingą, stalo lošimus,
@@ -474,8 +472,8 @@ Straipsnio pakeitimai:
 Nr. IX-995,
 2002-06-27, Žin., 2002, Nr. 72-3010 (2002-07-17)
  
-15
-straipsnis. Reikalavimai automatų, bingo salonų ir lošimo namų (kazino) 
+15 straipsnis. Reikalavimai automatų,
+bingo salonų ir lošimo namų (kazino) 
 patalpoms
 1.
 Lošimo namai (kazino) ir bingo salonai įrengiami izoliuotose patalpose,
@@ -507,8 +505,7 @@ Nr. IX-995, 2002-06-27, Žin., 2002, Nr. 72-3010 (2002-07-17)
 Nr.
 IX-1418, 2003-04-03, Žin., 2003, Nr. 38-1663 (2003-04-24)
  
-16
-straipsnis. Reikalavimai lošimų įrenginiams 
+16 straipsnis. Reikalavimai lošimų įrenginiams 
 1.
 Lietuvos Respublikoje leidžiama pradėti eksploatuoti tik naujus ir nenaudotus
 lošimo įrenginius, jeigu jie yra pagaminti atitinkamą licenciją (sertifikatą)
@@ -544,8 +541,8 @@ Straipsnio pakeitimai:
 Nr. IX-995,
 2002-06-27, Žin., 2002, Nr. 72-3010 (2002-07-17)
  
-17
-straipsnis. Reikalavimai lošimo kortelėms ir kortoms
+17 straipsnis. Reikalavimai lošimo kortelėms ir
+kortoms
 1.
 Kiekviena lošime naudojama bingo, totalizatoriaus ir lažybų kortelė turi būti
 numeruota ir turėti individualų numerį.
@@ -558,8 +555,7 @@ arba lažybų kortelės platinamos per tiesioginio ryšio sistemą.
 Ant lošimo kortų nugarėlių turi būti išspausdintas lošimo namų (kazino)
 logotipas. 
  
-18
-straipsnis. Lošimų organizavimo reglamentas
+18 straipsnis. Lošimų organizavimo reglamentas
 1.
 Lošimai organizuojami pagal lošimo reglamentą, kuriame turi būti nurodyta: 
 1)
@@ -590,8 +586,7 @@ Lošimo reglamentą, jo pakeitimus ir papildymus tvirtina Priežiūros komisija.
 Lošėjo reikalavimu lošimų organizatorius privalo jį supažindinti su lošimo
 reglamentu.
  
-19
-straipsnis. Lošimų laimėjimų išmokėjimas
+19 straipsnis. Lošimų laimėjimų išmokėjimas
 1. Lošimo namuose (kazino), automatų ir bingo
 salonuose laimėjimai išmokami tik pinigais iš karto, jei laimėjimas neviršija
 100 tūkst. litų, arba ne vėliau kaip per 24 valandas, jei laimėjimas viršija
@@ -622,8 +617,7 @@ Straipsnio pakeitimai:
 Nr. IX-995,
 2002-06-27, Žin., 2002, Nr. 72-3010 (2002-07-17)
  
-20
-straipsnis. Lošėjų tapatybės nustatymas
+20 straipsnis. Lošėjų tapatybės nustatymas
 1.
 Lošimų organizatorius Vyriausybės nustatyta tvarka privalo registruoti asmenis,
 kurie arba keičia grynuosius pinigus į žetonus, arba įmoka, arba laimi sumą,
@@ -662,8 +656,8 @@ LEIDIMŲ
 ATIDARYTI AUTOMATŲ, BINGO SALONUS, LOŠIMO NAMUS (KAZINO) IŠDAVIMAS, JŲ
 PAPILDYMAS ARBA PAKEITIMAS IR GALIOJIMO PANAIKINIMAS
  
-21
-straipsnis. Leidimų atidaryti automatų, bingo salonus, lošimo namus (kazino) 
+21 straipsnis. Leidimų atidaryti
+automatų, bingo salonus, lošimo namus (kazino) 
 išdavimas
 
 1.
@@ -678,10 +672,10 @@ Bendrovė, pageidaujanti gauti leidimą atidaryti automatų ar bingo saloną arb
 lošimo namus (kazino), pateikia Priežiūros komisijai prašymą, kuriame nurodoma
 bendrovės pavadinimas, kodas, buveinės adresas, telefono ir fakso numeriai,
 lošimų organizavimo vietos adresas, telefono numeris, numatomų organizuoti
-lošimų rūšys, licencijos organizuoti lošimus išdavimo data, numeris (jei leidimas
-išduodamas licenciją turinčiai bendrovei), bendrovės vadovo arba jo įgalioto
-asmens, užpildžiusio ir pasirašiusio prašymą, pareigos, vardas ir pavardė,
-prašymo padavimo data.
+lošimų rūšys, licencijos organizuoti lošimus išdavimo data, numeris (jei
+leidimas išduodamas licenciją turinčiai bendrovei), bendrovės vadovo arba jo
+įgalioto asmens, užpildžiusio ir pasirašiusio prašymą, pareigos, vardas ir
+pavardė, prašymo padavimo data.
 4.
 Kartu su prašymu išduoti leidimą atidaryti automatų ar bingo saloną arba lošimo
 namus (kazino) pateikiami šie dokumentai ir duomenys:
@@ -716,17 +710,17 @@ duomenis.
 6. Priežiūros komisijos valstybės tarnautojai
 patikrina, ar patalpos, kuriose numatoma atidaryti automatų ar bingo saloną
 arba lošimo namus (kazino), atitinka joms keliamus reikalavimus. Prašymas
-išduoti leidimą atidaryti lošimo patalpas turi būti išnagrinėtas per 30
-kalendorinių dienų nuo jo gavimo. Jeigu pareikalaujama papildomų dokumentų ir
-informacijos, 30 dienų laikotarpis skaičiuojamas iš naujo nuo papildomos
-informacijos arba paaiškinimų bei pataisų pateikimo. Bendras leidimo išdavimo
-laikotarpis neturi viršyti 60 kalendorinių dienų skaičiuojant nuo tos dienos,
-kai buvo pirmą kartą pateikti visi reikiami dokumentai ir duomenys.
+išduoti leidimą atidaryti lošimo patalpas turi būti išnagrinėtas per 30 kalendorinių
+dienų nuo jo gavimo. Jeigu pareikalaujama papildomų dokumentų ir informacijos,
+30 dienų laikotarpis skaičiuojamas iš naujo nuo papildomos informacijos arba
+paaiškinimų bei pataisų pateikimo. Bendras leidimo išdavimo laikotarpis neturi
+viršyti 60 kalendorinių dienų skaičiuojant nuo tos dienos, kai buvo pirmą kartą
+pateikti visi reikiami dokumentai ir duomenys.
 7.
 Leidime atidaryti automatų ar bingo saloną arba lošimo namus (kazino) nurodomas
-lošimus organizuojančios bendrovės pavadinimas, kodas, buveinės adresas, telefono
-numeris, lošimų organizavimo vietos adresas, organizuojamų lošimų rūšys, lošimo
-įrenginių skaičius, leidimo išdavimo data.
+lošimus organizuojančios bendrovės pavadinimas, kodas, buveinės adresas,
+telefono numeris, lošimų organizavimo vietos adresas, organizuojamų lošimų
+rūšys, lošimo įrenginių skaičius, leidimo išdavimo data.
 8. Priežiūros komisija, išdavusi licenciją organizuoti
 lošimus ir leidimą atidaryti automatų ar bingo saloną arba lošimo namus
 (kazino), per 5 darbo dienas nuo licencijos (leidimo) išdavimo praneša
@@ -746,9 +740,8 @@ Nr. IX-995,
 Nr. IX-1193,
 2002-11-12, Žin., 2002, Nr. 116-5191 (2002-12-06)
  
-22
-straipsnis. Atsisakymas išduoti leidimą atidaryti automatų ar bingo saloną arba
-
+22 straipsnis. Atsisakymas išduoti
+leidimą atidaryti automatų ar bingo saloną arba 
 lošimo
 namus (kazino) 
 1.
@@ -762,8 +755,8 @@ bendrovė atsisako pateikti šio įstatymo 21 straipsnio 3, 4, 5 dalyse nurodytu
 dokumentus, duomenis ar paaiškinimus arba pateikti dokumentai neatitinka
 reikalavimų;
 3)
-patalpos, kuriose numatoma organizuoti lošimus automatais ar bingą arba stalo
-lošimus, neatitinka reikalavimų;
+patalpos, kuriose numatoma organizuoti lošimus automatais ar bingą arba stalo lošimus,
+neatitinka reikalavimų;
 4)
 lošimo įrenginiai neatitinka šio įstatymo ir Priežiūros komisijos nustatytų
 reikalavimų;
@@ -777,8 +770,8 @@ raštu pareiškėjui.
 Atsisakymas išduoti leidimą atidaryti automatų ar bingo saloną arba lošimo
 namus (kazino) gali būti apskųstas įstatymų nustatyta tvarka.
  
-23
-straipsnis. Leidimo atidaryti automatų ar bingo saloną arba lošimo namus 
+23 straipsnis. Leidimo atidaryti
+automatų ar bingo saloną arba lošimo namus 
 (kazino)
 papildymas arba pakeitimas
 1. Bendrovė, turinti licenciją organizuoti lošimus ir
@@ -796,9 +789,9 @@ su prašymu pateikiami šio įstatymo 21 straipsnio 4 dalies 1, 2, 3, 4 punktuos
 nurodyti duomenys ir dokumentai.
 3. Prašymas papildyti leidimą turi
 būti išnagrinėtas per 10 kalendorinių dienų nuo jo gavimo.
-4. Priežiūros komisija gali atsisakyti
-papildyti leidimą, jeigu lošimo įrenginiai neatitinka šio įstatymo ir
-Priežiūros komisijos nustatytų reikalavimų.
+4. Priežiūros komisija gali
+atsisakyti papildyti leidimą, jeigu lošimo įrenginiai neatitinka šio įstatymo
+ir Priežiūros komisijos nustatytų reikalavimų.
 5. Bendrovė, turinti licenciją
 organizuoti lošimus ir leidimą atidaryti automatų ar bingo saloną arba lošimo
 namus (kazino), norinti sumažinti lošimo įrenginių skaičių arba juos pakeisti
@@ -821,8 +814,8 @@ Straipsnio pakeitimai:
 Nr. IX-1193,
 2002-11-12, Žin., 2002, Nr. 116-5191 (2002-12-06)
  
-24 straipsnis. Leidimo atidaryti automatų ar
-bingo saloną arba lošimo namus 
+24 straipsnis. Leidimo
+atidaryti automatų ar bingo saloną arba lošimo namus 
 (kazino) galiojimo panaikinimas
 1.
 Leidimo atidaryti automatų ar bingo saloną arba lošimo namus (kazino)
@@ -841,8 +834,8 @@ paaiškėja, kad prašyme išduoti leidimą arba kituose dokumentuose pateikti
 5)
 patalpos, kuriose organizuojami lošimai, neatitinka reikalavimų;
 6)
-pasibaigia patalpų, kuriose organizuojami lošimai, nuomos sutarties galiojimo laikas
-arba nuomos sutartis yra nutraukiama.
+pasibaigia patalpų, kuriose organizuojami lošimai, nuomos sutarties galiojimo
+laikas arba nuomos sutartis yra nutraukiama.
 2.
 Priežiūros komisija, priėmusi sprendimą panaikinti leidimo galiojimą, per 5
 darbo dienas nuo sprendimo priėmimo išsiunčia jį licencijos turėtojui.
@@ -850,8 +843,8 @@ darbo dienas nuo sprendimo priėmimo išsiunčia jį licencijos turėtojui.
 Sprendimas panaikinti leidimo atidaryti lošimo patalpas galiojimą gali būti
 apskųstas įstatymų nustatyta tvarka.
  
-25
-straipsnis. Totalizatoriaus ir lažybų organizavimas
+25 straipsnis. Totalizatoriaus ir lažybų
+organizavimas
 1.
 Bendrovė, turinti licenciją organizuoti totalizatorių arba lažybas, gali jas
 pradėti rengti tik tada, kai Priežiūros komisija patvirtina lošimo reglamentą. 
@@ -866,8 +859,8 @@ LOŠIMŲ ORGANIZAVIMO
 PRIEŽIŪRA
 IR KONTROLĖ
  
-26 straipsnis. Priežiūros
-komisija
+26
+straipsnis. Priežiūros komisija
 1. Lošimus
 organizuojančių subjektų veiklą prižiūri ir kontroliuoja Priežiūros komisija.
 Priežiūros komisiją sudaro 6 asmenys, iš kurių po 2 asmenis penkeriems metams
@@ -926,8 +919,8 @@ Straipsnio pakeitimai:
 Nr. IX-1698,
 2003-07-04, Žin., 2003, Nr. 74-3419 (2003-07-25)
  
-27 straipsnis.
-Priežiūros komisijos steigimas ir išlaikymas
+27 straipsnis. Priežiūros
+komisijos steigimas ir išlaikymas
 1.
 Priežiūros komisijos steigėja yra Vyriausybė.
 2. Priežiūros komisija išlaikoma iš valstybės lėšų.
@@ -963,8 +956,8 @@ komisija, atlikdama jai pavestas funkcijas, turi teisę:
 1)
 gauti informaciją, reikalingą priežiūros funkcijoms atlikti;
 2)
-tikrinti, kaip lošimų organizatoriai laikosi šio įstatymo ir kitų teisės aktų reikalavimų
-lošimų organizavimo vietose;
+tikrinti, kaip lošimų organizatoriai laikosi šio įstatymo ir kitų teisės aktų
+reikalavimų lošimų organizavimo vietose;
 3)
 tikrinti lošimus organizuojančių bendrovių finansinę veiklą;
 4)
@@ -995,8 +988,7 @@ Nr.
 IX-1843,
 2003-11-25, Žin., 2003, Nr. 116-5249 (2003-12-12)
  
-30
-straipsnis. Auditas
+30 straipsnis. Auditas
 Lošimus
 organizuojanti bendrovė ne vėliau kaip per 4 mėnesius nuo ūkinių metų pabaigos
 privalo pateikti Priežiūros komisijai atestuoto auditoriaus išvadą bei metinės
@@ -1008,24 +1000,21 @@ SKIRSNIS
 BAIGIAMOSIOS
 NUOSTATOS
  
-31
-straipsnis. Lošimus organizuojančių bendrovių apmokestinimas
+31 straipsnis. Lošimus organizuojančių bendrovių
+apmokestinimas
 Lošimus
 organizuojančios bendrovės mokesčius moka vadovaudamosi Azartinių lošimų
 mokesčio įstatymo ir kitų teisės aktų nustatyta tvarka.
  
-32
-straipsnis. Atsakomybė už šio įstatymo pažeidimus
+32 straipsnis. Atsakomybė už šio įstatymo pažeidimus
 Už
 šio įstatymo pažeidimus taikoma atsakomybė įstatymų nustatyta tvarka.
  
-33
-straipsnis. Įstatymo įsigaliojimas
+33 straipsnis. Įstatymo įsigaliojimas
 Šis
 įstatymas, išskyrus 34 straipsnį, įsigalioja nuo 2001 m. liepos 1 d.
  
-34
-straipsnis. Pasiūlymai Vyriausybei
+34 straipsnis. Pasiūlymai Vyriausybei
 Pasiūlyti Vyriausybei iki 2001 m. birželio 1 d.:
 1) patvirtinti lošimų licencijavimo taisykles;
 2)
@@ -1111,8 +1100,8 @@ Lietuvos Respublikos Seimas,
 Įstatymas
 Nr. IX-1698,
 2003-07-04, Žin., 2003, Nr. 74-3419 (2003-07-25)
-AZARTINIŲ LOŠIMŲ ĮSTATYMO 4, 6,
-11, 26 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+AZARTINIŲ LOŠIMŲ ĮSTATYMO 4, 6, 11,
+26 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 7.
 Lietuvos
@@ -1137,11 +1126,23 @@ LOŠIMŲ ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 įstatymas įsigalioja nuo 2004 m.
 sausio 1 d.
  
+9.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-800,
+2006-07-19, Žin., 2006, Nr. 87-3410 (2006-08-08)
+AZARTINIŲ
+LOŠIMŲ ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Pastaba: Šio įstatymo 1 straipsnio
+nuostata dėl euro įsigalioja nuo euro įvedimo Lietuvos Respublikoje dienos.
+ 
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušra Bodin (2004-01-07)
+Aušra Bodin (2006-08-09)
                  
-aubodi@lrs.lt
+ausra.bodin@lrs.lt
