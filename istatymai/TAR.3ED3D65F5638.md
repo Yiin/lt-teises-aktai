@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3ED3D65F5638"
 
 # Lietuvos Respublikos valstybės rezervo įstatymas
 
+Suvestinė redakcija nuo 2006-10-06 iki 2011-06-30
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 78-2359, i. k. 1001010ISTAIII-1908
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBĖS REZERVO
 Į S T A T Y M A S
@@ -51,7 +55,10 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Valstybės rezervas – piniginės lėšos (nacionaline bei užsienio valiuta) ir valstybės lėšomis įsigytos materialinių išteklių atsargos bei privalomosios materialinių išteklių atsargos mobilizaciniams poreikiams, ūkio ir civilinės saugos sistemos funkcionavimo poreikiams patenkinti mobilizacijos, ekstremalių situacijų bei ekonominės grėsmės sąlygomis.
+1. Valstybės rezervas – piniginės lėšos (nacionaline bei užsienio valiuta) ir valstybės lėšomis įsigytos materialinių išteklių atsargos bei privalomosios materialinių išteklių atsargos mobilizaciniams poreikiams, ūkio ir civilinės saugos sistemos funkcionavimo poreikiams patenkinti mobilizacijos, ekstremalių situacijų bei ekonominės grėsmės sąlygomis ar kitais šio įstatymo nustatytais atvejais.
+Straipsnio dalies pakeitimai:
+Nr. X-807, 2006-09-14, Žin., 2006, Nr. 107-4045 (2006-10-06), i. k. 1061010ISTA000X-807
+ 
 
 
 
@@ -153,7 +160,10 @@ Sudarant, kaupiant ir tvarkant valstybės rezervą, privalo dalyvauti valstybės
 
 
 
-5. Civilinės saugos priemonių atsargos – valstybės rezervo materialinių išteklių atsargų dalis, skiriama civilinės saugos sistemos funkcionavimui užtikrinti mobilizacijos ir ekstremalių situacijų metu.
+5. Civilinės saugos priemonių atsargos – valstybės rezervo materialinių išteklių atsargų dalis, skiriama civilinės saugos sistemos funkcionavimui užtikrinti mobilizacijos ir ekstremalių situacijų metu bei civilinės saugos treniruotėms ir pratyboms. 
+Straipsnio dalies pakeitimai:
+Nr. X-807, 2006-09-14, Žin., 2006, Nr. 107-4045 (2006-10-06), i. k. 1061010ISTA000X-807
+ 
 
 
 
@@ -475,6 +485,13 @@ valstybės rezervO SUDARYMAS, KAUPIMAS IR TVARKYMAS
 
 
 7. Valstybės rezervo energijos išteklių atsargos naudojamos vadovaujantis Vyriausybės patvirtintu planu.
+
+
+
+
+8. Valstybės rezervo civilinės saugos priemonių atsargos gali būti naudojamos civilinės saugos treniruočių ir pratybų metu Lietuvos Respublikos Vyriausybės nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. X-807, 2006-09-14, Žin., 2006, Nr. 107-4045 (2006-10-06), i. k. 1061010ISTA000X-807
  
 
 
@@ -824,3 +841,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-807, 2006-09-14, Žin., 2006, Nr. 107-4045 (2006-10-06), i. k. 1061010ISTA000X-807
+Lietuvos Respublikos valstybės rezervo įstatymo 2, 4 ir 13 straipsnių pakeitimo ir papildymo įstatymas
