@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.07CAE5E6C2B3"
 
 # Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymas
 
-Suvestinė redakcija nuo 2006-05-27 iki 2006-10-23
+Suvestinė redakcija nuo 2006-10-24 iki 2008-04-18
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 132-0; Žin. 1991, Nr.20-517, i. k. 0911010ISTA00I-1497
  
@@ -598,7 +598,10 @@ LIETUVOS VALSTYBĖS ISTORINĖ VĖLIAVA
 
 
 
-6) spalio 25 d. – Konstitucijos dieną – prie Lietuvos Respublikos Seimo rūmų, Respublikos Prezidento rezidencijos ir Lietuvos Respublikos Vyriausybės. 
+6) spalio 25 d. – Konstitucijos dieną – prie Lietuvos Respublikos Seimo rūmų, Respublikos Prezidento rezidencijos, Lietuvos Respublikos Vyriausybės ir Lietuvos Respublikos Konstitucinio Teismo.
+Straipsnio punkto pakeitimai:
+Nr. X-859, 2006-10-17, Žin., 2006, Nr. 113-4299 (2006-10-24), i. k. 1061010ISTA000X-859
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -964,3 +967,8 @@ Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo 10 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-604, 2006-05-11, Žin., 2006, Nr. 60-2119 (2006-05-27), i. k. 1061010ISTA000X-604
 Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo 5 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-859, 2006-10-17, Žin., 2006, Nr. 113-4299 (2006-10-24), i. k. 1061010ISTA000X-859
+Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo 10 straipsnio pakeitimo įstatymas
