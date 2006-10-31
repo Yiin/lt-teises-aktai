@@ -541,10 +541,13 @@ reikmėms naudojamų teritorijų (gatvių, aikščių, skverų, kapinių, vanden
 ir kt.). Šių žemės sklypų (teritorijų) plotai ir ribos nustatomi teritorijų
 planavimo dokumentuose;
 3) suteikta
-mokslo ir mokymo, valstybinėms socialinės globos bei rūpybos įstaigoms,
-valstybinėms įstaigoms ir organizacijoms; perduota valstybiniams
-specializuotiems sėklininkystės, veislininkystės ūkiams ir specialios
-paskirties veislininkystės bendrovėms;
+mokslo ir studijų institucijoms, šių institucijų įsteigtoms viešosioms
+įstaigoms, organizuojančioms praktinį mokymą ir tyrimus, profesinio mokymo,
+valstybinėms socialinės globos bei rūpybos įstaigoms, valstybinėms įstaigoms ir
+organizacijoms, valstybiniams specializuotiems sėklininkystės, veislininkystės
+ūkiams bei specializuotą veislininkystės ir sėklininkystės veiklą vykdančioms
+valstybės kontroliuojamoms akcinėms bendrovėms ir uždarosioms akcinėms
+bendrovėms, kuriose valstybei priklauso daugiau kaip 1/2 akcijų;
 4) yra miestų
 teritorijų dalyse, kurios įrašytos į Lietuvos Respublikos nekilnojamųjų
 kultūros vertybių registrą (kultūros vietovių sąrašą), taip pat yra buvusių
@@ -552,8 +555,8 @@ dvarų sodybų - istorijos ir kultūros paminklų teritorijose, išskyrus šiose
 teritorijose esančius žemės sklypus prie privačių gyvenamųjų namų ir kitų namų
 valdos statinių;
 5) yra
-valstybinių rezervatų, nacionalinių ir regioninių parkų rezervatų, Kuršių
-nerijos nacionalinio parko teritorija;
+valstybinių rezervatų, nacionalinių ir regioninių parkų rezervatų, Kuršių nerijos
+nacionalinio parko teritorija;
 6) yra
 valstybinės reikšmės istorijos, archeologijos ir kultūros objektų teritorija,
 išskyrus šioje teritorijoje esančius žemės sklypus prie privačių gyvenamųjų
@@ -573,6 +576,9 @@ Nr. VIII-1757,
 00.06.27, Žin., 2000, Nr.56-1649 (00.07.12)
 Nr. IX-496,
 2001-08-03, Žin., 2001, Nr. 71-2524 (2001-08-17)
+Nr.
+X-856,
+2006-10-12, Žin., 2006, Nr. 116-4401 (2006-10-31)
  
 14
 straipsnis. Neprivatizuojami miškai ir vandens telkiniai
@@ -583,8 +589,8 @@ reikšmės miškams, valstybinės reikšmės vidaus vandenims;
 2) valstybiniams
 rezervatams, valstybinių parkų rezervatams ir rezervatinėms apyrubėms, Kuršių
 nerijos nacionaliniam parkui;
-3) miestų
-sanitarinės apsaugos pirmajai zonai;
+3) (neteko
+galios nuo 2006 m. spalio 31 d.);
 4) miško
 genetiniams rezervatams, miško medelynams ir sėklininkystės plantacijoms;
 5) miškų
@@ -598,12 +604,15 @@ Nr. VIII-1757,
 Nr.
 IX-1171,
 2002-11-05, Žin., 2002, Nr. 112-4975 (2002-11-22)
+Nr.
+X-856,
+2006-10-12, Žin., 2006, Nr. 116-4401 (2006-10-31)
  
 15
 straipsnis. Asmeninio ūkio žemė 
-1.
-Asmeninio ūkio žeme laikoma žemė, kuri pagal įstatymus buvo suteikta ir fizinių
-asmenų naudojama asmeniniam ūkiui.
+1. Asmeninio
+ūkio žeme laikoma žemė, kuri pagal įstatymus buvo suteikta ir fizinių asmenų
+naudojama asmeniniam ūkiui.
 2. Jeigu asmeninio ūkio žemės
 suteikimo dokumentų neišliko arba asmeninio ūkio žemės suteikimas
 apylinkės teritorijoje 1990 m. liepos 26 d. – 1994 m. liepos 1 d. laikotarpiu
@@ -668,8 +677,8 @@ Administracinių bylų teisenos įstatymo nustatyta tvarka.
 projektuojami fizinių asmenų turėtoje žemėvaldoje, jeigu ši yra asmeniniam
 ūkiui skirtoje teritorijoje.
 8. Į piliečiui
-grąžinamos natūra žemės, miško arba perduodamą neatlygintinai nuosavybėn lygiavertį
-turėtam žemės, miško sklypui plotą įskaitomas tokio pat dydžio jo
+grąžinamos natūra žemės, miško arba perduodamą neatlygintinai nuosavybėn
+lygiavertį turėtam žemės, miško sklypui plotą įskaitomas tokio pat dydžio jo
 privatizuojamas namų valdos (išskyrus tas namų valdas, už kurias nustatyta
 tvarka buvo įmokėtos įmokos) žemės sklypas bei nustatyta tvarka skirtas ir
 naudojamas piliečio asmeniniam ūkiui žemės sklypas (išskyrus tuos skirtus
@@ -686,12 +695,12 @@ nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą ir
 sukurti racionalias žemėnaudas teritorijoje, kurią apima vietinis (kadastrinės
 vietovės) žemės reformos žemėtvarkos projektas. Asmeninio ūkio žemės sklypų,
 kurie buvo nuolat naudojami iki 1993 m. gruodžio 31 d., ribos ir vieta rengiant
-žemės reformos žemėtvarkos projektą gali būti keičiamos toje šių nuolat naudojamų
-žemės sklypų užimtoje teritorijoje Vyriausybės nustatyta tvarka. Kai naudojama
-asmeninio ūkio žemė yra bendruose plotuose, šie žemės sklypai projektuojami iš
-toje kadastrinėje vietovėje esančios laisvos žemės fondo, o jeigu laisvos žemės
-fondo toje kadastrinėje vietovėje nepakanka, šie sklypai projektuojami
-asmeniniam ūkiui naudojamoje teritorijoje.
+žemės reformos žemėtvarkos projektą gali būti keičiamos toje šių nuolat
+naudojamų žemės sklypų užimtoje teritorijoje Vyriausybės nustatyta tvarka. Kai
+naudojama asmeninio ūkio žemė yra bendruose plotuose, šie žemės sklypai
+projektuojami iš toje kadastrinėje vietovėje esančios laisvos žemės fondo, o
+jeigu laisvos žemės fondo toje kadastrinėje vietovėje nepakanka, šie sklypai
+projektuojami asmeniniam ūkiui naudojamoje teritorijoje.
 10. Jeigu fizinis asmuo mirė, teisę gauti
 nuosavybėn neatlygintinai, pirkti iš valstybės ar nuomoti jo naudotą asmeninio
 ūkio žemę įgyja jo įpėdiniai Civilinio kodekso nustatyta tvarka.
@@ -799,8 +808,8 @@ tvarka
 2. Skundus dėl žemės reformos metu suformuotų
 žemėnaudų tinkamumo, žemės privatizavimui ir nuomai parengtų dokumentų bei
 įstatymų ir kitų teisės aktų reikalavimų neatitikimo nagrinėja apskričių
-viršininkai ir Vyriausybės įgaliota institucija. Vyriausybės įgaliota
-institucija nenagrinėja apskrities viršininko neapsvarstytų prašymų ir skundų.
+viršininkai ir Vyriausybės įgaliota institucija. Vyriausybės įgaliota institucija
+nenagrinėja apskrities viršininko neapsvarstytų prašymų ir skundų.
 3. Jeigu
 institucijos, atliekančios žemės reformos kontrolę, nustato, kad sprendimai dėl
 nuosavybės teisių į žemę atkūrimo ar žemės įsigijimo priimti pažeidžiant
@@ -811,14 +820,15 @@ teismine tvarka.
 4. Institucija,
 atstovaujanti valstybei sudarant valstybinės žemės perleidimo, mainų, nuomos ar
 panaudos sandorius, privalo kontroliuoti, kaip vykdomos sandorių sąlygos, o
-nustačiusi, kad kita sandorio šalis jų nevykdo, – inicijuoti sandorio nutraukimą
-įstatymų nustatyta tvarka arba taikyti kitus įstatymų numatytus šalių teisių ir
-interesų gynimo būdus. Vyriausybės įgaliotos institucijos turi teisę ginčyti
-sandorius dėl valstybinės žemės perleidimo, mainų, nuomos ar perdavimo
-naudotis, sudarytus sprendimų, priimtų pažeidžiant įstatymų ir kitų teisės aktų
-reikalavimus, pagrindu, taip pat atstovauti bylose dėl valstybinės žemės
-sandorių, kai šalys nevykdo sandorio sąlygų, nutraukimo, jeigu institucija,
-atstovaujanti valstybei šiuose sandoriuose, nesiima veiksmų sandorį nutraukti.
+nustačiusi, kad kita sandorio šalis jų nevykdo, – inicijuoti sandorio
+nutraukimą įstatymų nustatyta tvarka arba taikyti kitus įstatymų numatytus
+šalių teisių ir interesų gynimo būdus. Vyriausybės įgaliotos institucijos turi
+teisę ginčyti sandorius dėl valstybinės žemės perleidimo, mainų, nuomos ar
+perdavimo naudotis, sudarytus sprendimų, priimtų pažeidžiant įstatymų ir kitų
+teisės aktų reikalavimus, pagrindu, taip pat atstovauti bylose dėl valstybinės
+žemės sandorių, kai šalys nevykdo sandorio sąlygų, nutraukimo, jeigu
+institucija, atstovaujanti valstybei šiuose sandoriuose, nesiima veiksmų
+sandorį nutraukti.
 Straipsnio
 pakeitimai:
 Nr. VIII-1757,
@@ -886,8 +896,8 @@ Straipsnio
 pakeitimai:
 Nr. VIII-1757,
 00.06.27, Žin., 2000, Nr.56-1649 (00.07.12)
-Nr. IX-496,
-2001-08-03, Žin., 2001, Nr. 71-2524 (2001-08-17)
+Nr. IX-496, 2001-08-03,
+Žin., 2001, Nr. 71-2524 (2001-08-17)
 Nr.
 IX-1171,
 2002-11-05, Žin., 2002, Nr. 112-4975 (2002-11-22)
@@ -899,8 +909,7 @@ tvarka
 Žemės reformos
 žemėtvarkos projektai svarstomi ir derinami pagal Teritorijų planavimo įstatymą
 ir žemės reformos žemėtvarkos projektų rengimo metodikos nustatyta tvarka.
-Suderintus žemės reformos žemėtvarkos projektus tvirtina apskrities
-viršininkas.
+Suderintus žemės reformos žemėtvarkos projektus tvirtina apskrities viršininkas.
  
 21 straipsnis. Žemės sklypų ženklinimas ir žemės
 nuosavybės bei žemės naudojimo teisės 
@@ -1151,10 +1160,19 @@ REFORMOS ĮSTATYMO 7, 8, 9, 10 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-540, 2006-03-30,
-Žin., 2006, Nr. 42-1503 (2006-04-15)
+X-540,
+2006-03-30, Žin., 2006, Nr. 42-1503 (2006-04-15)
 ŽEMĖS
 REFORMOS ĮSTATYMO 16 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+19.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. X-856, 2006-10-12,
+Žin., 2006, Nr. 116-4401 (2006-10-31)
+ŽEMĖS
+REFORMOS ĮSTATYMO 13 IR 14 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+ 
  
 ***
 Pabaiga ***
@@ -1172,10 +1190,12 @@ LIETUVOS RESPUBLIKOS ŽEMĖS REFORMOS ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMO
 STRAIPSNIO IR LIETUVOS RESPUBLIKOS ŽEMĖS REFORMOS ĮSTATYMO 7 STRAIPSNIO (2002
 M. LAPKRIČIO 5 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
+ 
 ***
 Pabaiga ***
  
+ 
 Redagavo:
-Aušrinė Trapinskienė (2006-05-19)
+Aušrinė Trapinskienė (2006-11-02)
                  
 autrap@lrs.lt
