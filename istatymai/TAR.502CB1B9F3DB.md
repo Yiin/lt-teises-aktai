@@ -27,7 +27,6 @@ LIETUVOS RESPUBLIKOS
 1995 m. gegužės 2 d. Nr. I-872
 Vilnius
  
- 
             1 straipsnis. Įstatymo paskirtis
             Šis įstatymas
 reglamentuoja Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų
@@ -56,17 +55,9 @@ kompetenciją.
             2. Teisės akto rengėjais gali būti
 valstybės valdžios institucijos paskirti ar konkurso tvarka parinkti asmenys ar
 jų grupė, taip pat asmuo arba asmenų iniciatyvinė grupė.
- 
-3 dalies
-redakcija iki 2002 m. liepos 1 d.:
-            3. Teisės aktas yra parengtas, jei jis
-atitinka šio įstatymo 5 - 12 straipsniuose nustatytus reikalavimus.
-3 dalies
-redakcija nuo 2002 m. liepos 1 d.:
 3. Teisės aktas yra parengtas, jei jis
 atitinka šio įstatymo 5–12(1) straipsniuose nustatytus
 reikalavimus.
- 
             4. Parengtas teisės aktas derinamas,
 aprobuojamas ir pateikiamas institucijai, įgaliotai jį priimti, šios
 institucijos nustatyta tvarka.
@@ -76,9 +67,10 @@ požiūriu.
             6. Jeigu yra pagrindo manyti, kad priimtas
 teisės aktas gali daryti įtaką kriminogeninei situacijai, jį priimti įgaliota
 institucija skiria kriminologinę ekspertizę.
-7. Komisijų ir darbo grupių, kurias
-sudaro Seimas, Respublikos Prezidentas ar Vyriausybė, darbo apmokėjimo už
-teisės aktų rengimą ir ekspertizę tvarką tvirtina Vyriausybė.
+7. Atlyginimo už teisės aktų rengimą ir
+ekspertizę komisijų ir darbo grupių, kurias sudaro Seimas, Seimo valdyba, Respublikos
+Prezidentas, Vyriausybė ar Ministras Pirmininkas, nariams tvarką tvirtina
+Vyriausybė.
 Straipsnio
 pakeitimai:
 Nr. I-1421, 1996.07.02,
@@ -87,6 +79,8 @@ Nr. VIII-600,
 1998.01.08, Žin., 1998, Nr. 6-114 (1998.01.16)
 Nr. IX-946,
 2002-06-11, Žin., 2002, Nr. 66-2705 (2002-06-29)
+Nr. X-890, 2006-11-09,
+Žin., 2006, Nr. 127-4823 (2006-11-25)
  
             5 straipsnis. Teisės akto reikalavimai
             1. Teisės aktas turi atitikti Lietuvos
@@ -94,9 +88,6 @@ Respublikos Konstituciją, taip pat kitus galiojančius teisės aktus, jeigu tam
 akte nėra normų, keičiančių galiojančius teisės aktus.
             2. Teisės aktas privalo atitikti šiame
 įstatyme nustatytus formos, struktūros, turinio ir kalbos reikalavimus.
- 
-5
-straipsnis papildomas 3 dalimi nuo 2002 m. liepos 1 d.:
 3. Teisės akte, kuriuo derinamos ir
 įgyvendinamos Europos Sąjungos teisės aktų nuostatos, turi būti nurodyti
 Europos Sąjungos teisės aktai pagal šio įstatymo 12(1) straipsnyje
@@ -197,11 +188,11 @@ juos rengia remdamosi šio įstatymo 6 ir 11 straipsnių nuostatomis.
 Prezidento dekretus sudaro straipsniai, jų dalys ir punktai. Straipsniai - be
 pavadinimų, žymimi arabiškais skaitmenimis ir numeruojami iš eilės. Po
 skaitmens rašomas žodis "straipsnis" ir dedamas taškas, straipsnio
-tekstas rašomas iš naujos eilutės. Straipsnių dalys žymimos arabiškais skaitmenimis
-iš eilės. Straipsnio dalių punktai žymimi arabiškais skaitmenimis su
-skliausteliu. Seimo nutarimais ir Prezidento dekretais tvirtinami teisės aktai
-turi punktus ir papunkčius. Jų punktai žymimi arabiškais skaitmenimis su tašku,
-o papunkčiai žymimi arabišku skaitmeniu su skliausteliu.
+tekstas rašomas iš naujos eilutės. Straipsnių dalys žymimos arabiškais
+skaitmenimis iš eilės. Straipsnio dalių punktai žymimi arabiškais skaitmenimis
+su skliausteliu. Seimo nutarimais ir Prezidento dekretais tvirtinami teisės
+aktai turi punktus ir papunkčius. Jų punktai žymimi arabiškais skaitmenimis su
+tašku, o papunkčiai žymimi arabišku skaitmeniu su skliausteliu.
             3. Vyriausybės ir kitų institucijų teisės
 aktus sudaro punktai, jų pastraipos ir punktų papunkčiai. Punktai žymimi
 arabiškais skaitmenimis ir numeruojami iš eilės. Po skaitmens dedamas taškas.
@@ -280,8 +271,6 @@ Nr. VIII-516,
 lietuvių kalbos normų ir teisinės terminijos. Tarptautiniai žodžiai vartojami
 tik tada, kai lietuvių kalboje nėra šių žodžių atitikmenų.
  
-Įstatymas
-papildomas 12(1) straipsniu nuo 2002 m. liepos 1 d.:
 12(1) straipsnis. Nuorodos
 į Europos Sąjungos teisės aktus
 1. Nuorodos į Europos Sąjungos teisės
@@ -296,10 +285,10 @@ Sąjungos teisės aktai nurodomi tų teisės aktų preambulėje.
 4. Kai keičiamas ar papildomas iki šio
 straipsnio įsigaliojimo priimtas teisės aktas, kuriuo buvo derinami ir įgyvendinami
 Europos Sąjungos teisės aktai ir kuriame nėra nuorodų į Europos Sąjungos teisės
-aktus arba jos pateiktos ne pagal šio straipsnio reikalavimus,
-kartu parengiamas ir teikiamas įstatymo papildymo reikiamu priedu įstatymo
-projektas ar kito teisės akto papildymo preambule arba jos pakeitimo projektas,
-kuriame pateikiami nenurodyti Europos Sąjungos teisės aktai.
+aktus arba jos pateiktos ne pagal šio straipsnio reikalavimus, kartu
+parengiamas ir teikiamas įstatymo papildymo reikiamu priedu įstatymo projektas
+ar kito teisės akto papildymo preambule arba jos pakeitimo projektas, kuriame
+pateikiami nenurodyti Europos Sąjungos teisės aktai.
 5. Nurodant Europos Sąjungos teisės
 aktą, turi būti nurodomas jį priėmusios institucijos ar institucijų
 pavadinimai, teisės akto priėmimo data, numeris ir pilnas pavadinimas. Jei
@@ -330,7 +319,6 @@ RESPUBLIKOS PREZIDENTAS                             
 BRAZAUSKAS
  
 ________________
- 
 Pakeitimai:
  
 1.
@@ -380,10 +368,21 @@ AKTŲ RENGIMO TVARKOS ĮSTATYMO 4, 5 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI
 Šio Įstatymo 1, 2 ir 3
 straipsniai įsigalioja nuo 2002 m. liepos 1 d.
  
-*** Pabaiga ***
+6.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-890,
+2006-11-09, Žin., 2006, Nr. 127-4823 (2006-11-25)
+ĮSTATYMŲ
+IR KITŲ TEISĖS NORMINIŲ AKTŲ RENGIMO TVARKOS ĮSTATYMO 4 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
  
+***
+Pabaiga ***
  
-Redagavo: Aušrinė Trapinskienė
-(2002-07-01)
-                 autrap@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2006-11-28)
+                 
+autrap@lrs.lt
 
