@@ -23,8 +23,8 @@ PILIETYBĖS ĮSTATYMO ĮGYVENDINIMO
 2002 m. rugsėjo 17 d. Nr. IX-1079
 Vilnius
  
-1 straipsnis.
-Prašymų dėl Lietuvos Respublikos pilietybės pateikimas
+1
+straipsnis. Prašymų dėl Lietuvos Respublikos pilietybės pateikimas
 Asmenys,
 nuolat gyvenantys Lietuvos Respublikoje, prašymus ir dokumentus dėl Lietuvos
 Respublikos pilietybės pagal Lietuvos Respublikos pilietybės įstatymo 1
@@ -40,15 +40,16 @@ patvirtintiems lietuvių organizacijų pirmininkams, kurie gali patvirtinti
 asmens prašymą ir prie prašymo pridėtus dokumentus. Patvirtinti dokumentai gali
 būti pateikti ir naudojami sprendžiant pilietybės klausimą. 
  
-2 straipsnis.
-Pilietybės įstatymo taikymo nuostatos
+2
+straipsnis. Pilietybės įstatymo taikymo nuostatos
 1. Lietuvos
 Respublikos teritorijoje rasti ar gyvenantys vaikai, kurių tėvai nežinomi arba
 mirę, arba tėvams atimtos tėvystės teisės ir kurie globojami globos ir rūpybos
 institucijose arba giminaičių, prilyginami Lietuvos Respublikos pilietybės
 įstatymo 11 straipsnyje nurodytiems vaikams.
-2. Repatrijavimu
-laikomas išvykimas į etninę tėvynę ir apsigyvenimas etninėje tėvynėje.
+*2.
+Repatrijavimu laikomas išvykimas į etninę tėvynę ir apsigyvenimas etninėje
+tėvynėje.
 3. Asmenims iki
 18 metų, kurie gali įrodyti turėtą tėvų, senelių ar prosenelių Lietuvos
 Respublikos pilietybę iki 1940 m. birželio 15 d. ar lietuvių kilmę, Lietuvos
@@ -62,14 +63,23 @@ Respublikos pilietybės klausimą pagal Lietuvos Respublikos pilietybės įstaty
 23 straipsnį, vieno iš tėvų auginami nepilnamečiai vaikai prilyginami Lietuvos
 Respublikos pilietybės įstatymo 23 straipsnyje nurodytiems vaikams,
 gyvenantiems su išsituokusiais tėvais.
+ 
+*Pastaba. Pripažinti, kad
+Lietuvos Respublikos pilietybės įstatymo įgyvendinimo įstatymo 2 straipsnio
+2 dalis (2002 m. rugsėjo 17 d. redakcija; Žin., 2002, Nr. 95-4088) prieštarauja
+Lietuvos Respublikos Konstitucijos 29 straipsniui, konstituciniam teisinės
+valstybės principui.
 Straipsnio pakeitimai:
 Nr. IX-1298,
 2003-01-21, Žin., 2003, Nr. 14-538 (2003-02-07)
 Nr. IX-2558,
 2004-11-11, Žin., 2004, Nr. 173-6379 (2004-12-02)
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+2006-11-13, Žin., 2006, Nr. 123-4650 (2006-11-16)
  
-3 straipsnis. Dokumentų
-dėl Lietuvos Respublikos pilietybės suteikimo padavimas
+3
+straipsnis.
+Dokumentų dėl Lietuvos Respublikos pilietybės suteikimo padavimas
 1.
 Asmuo, kuris kreipiasi dėl Lietuvos Respublikos pilietybės suteikimo pagal
 Lietuvos Respublikos pilietybės įstatymo 12 ar 14 straipsnius, pateikia
@@ -87,8 +97,8 @@ Nr. IX-1298,
 Nr. IX-2558,
 2004-11-11, Žin., 2004, Nr. 173-6379 (2004-12-02)
  
-4
-straipsnis. Sprendimai dėl Lietuvos Respublikos pilietybę patvirtinančio 
+4 straipsnis. Sprendimai dėl Lietuvos
+Respublikos pilietybę patvirtinančio 
 dokumento
 išdavimo
 1. Asmeniui,
@@ -97,8 +107,8 @@ patvirtinantys dokumentai, asmens tapatybės kortelė ar pasas negali būti
 išduoti tol, kol jo pilietybės klausimas nebus išspręstas pagal Lietuvos
 Respublikos pilietybės įstatymą.
 2. Lietuvos
-Respublikos pilietybę patvirtinančių dokumentų pripažinimas negaliojančiais
-pasekmes sukelia tik dėl pilietybės dokumentų.
+Respublikos pilietybę patvirtinančių dokumentų pripažinimas negaliojančiais pasekmes
+sukelia tik dėl pilietybės dokumentų.
 3. Sprendimą dėl
 neteisėtai ar nepagrįstai išduoto Lietuvos Respublikos pilietybę patvirtinančio
 dokumento priima vidaus reikalų ministras ar jo įgaliota institucija.
@@ -119,9 +129,9 @@ gali būti svarstomas Lietuvos Respublikos Vyriausybės sudarytoje Komisijoje
 Lietuvos Respublikos pilietybės klausimams nagrinėti. Sprendimą dėl asmens
 Lietuvos Respublikos pilietybės priima vidaus reikalų ministras ar jo įgaliota
 institucija.
-6. Šio
-straipsnio 5 dalies reikalavimai netaikomi asmenims, kurie Lietuvos Respublikos
-pilietybę įgijo apgaulės būdu.
+6. Šio straipsnio
+5 dalies reikalavimai netaikomi asmenims, kurie Lietuvos Respublikos pilietybę
+įgijo apgaulės būdu.
 7. Asmenys,
 teisėtai apsisprendę dėl Lietuvos Respublikos pilietybės iki 1991 m. lapkričio
 4 d. pagal 1989 m. lapkričio 3 d. Pilietybės įstatymą, gyvenantys užsienio
@@ -144,8 +154,8 @@ Nr. IX-1298,
 Nr. IX-2558,
 2004-11-11, Žin., 2004, Nr. 173-6379 (2004-12-02)
  
-5
-straipsnis. Lietuvos Respublikos kompetentinga institucija, išduodanti leidimą
+5 straipsnis. Lietuvos Respublikos kompetentinga
+institucija, išduodanti leidimą
 Lietuvos
 Respublikos kompetentinga institucija, išduodanti leidimą tarnauti kitos
 valstybės karo tarnyboje ar dirbti kitos valstybės tarnyboje, yra Lietuvos
@@ -157,8 +167,8 @@ Nr.
 X-547,
 2006-04-06, Žin., 2006, Nr. 46-1646 (2006-04-27)
  
-6 straipsnis.
-Įstatymo įsigaliojimas
+6
+straipsnis. Įstatymo įsigaliojimas
 1.
 Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
 2. Įsigaliojus
@@ -168,12 +178,13 @@ Respublikos įstatymas „Dėl Lietuvos Respublikos pilietybės įstatymo
 įgyvendinimo tvarkos“ ( Žin., 1995, Nr. 90-2014);
 2) Lietuvos
 Respublikos įstatymas „Dėl Lietuvos Respublikos įstatymo „Dėl Lietuvos
-Respublikos pilietybės įstatymo įgyvendinimo tvarkos“ 1 ir 5 straipsnių
-pakeitimo“ (Žin., 1997, Nr. 67-1669);
+Respublikos pilietybės įstatymo įgyvendinimo tvarkos“ 1 ir 5 straipsnių pakeitimo“
+(Žin., 1997, Nr. 67-1669);
 3) Lietuvos
 Respublikos įstatymas „Dėl Lietuvos Respublikos įstatymo „Dėl Lietuvos
-Respublikos pilietybės įstatymo įgyvendinimo tvarkos“ 5 straipsnio pakeitimo“
-(Žin., 1997, Nr. 99-2505). 
+Respublikos pilietybės įstatymo įgyvendinimo tvarkos“ 5 straipsnio pakeitimo“ (Žin.,
+1997, Nr. 99-2505).
+
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
@@ -227,7 +238,25 @@ PILIETYBĖS
 ***
 Pabaiga ***
  
+ 
+Konstitucinio
+Tesimo nutarimai:
+ 
+1.
+Lietuvos
+Respublikos Konstitucinis Teismas, Nutarimas
+2006-11-13,
+Žin., 2006, Nr. 123-4650 (2006-11-16)
+DĖL
+TEISĖS AKTŲ, REGULIUOJANČIŲ LIETUVOS RESPUBLIKOS PILIETYBĖS SANTYKIUS, NUOSTATŲ
+ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+ 
+***
+Pabaiga ***
+ 
+ 
 Redagavo:
-Aušrinė Trapinskienė (2006-04-28)
-                  autrap@lrs.lt
+Aušrinė Trapinskienė (2006-11-21)
+                 
+autrap@lrs.lt
 
