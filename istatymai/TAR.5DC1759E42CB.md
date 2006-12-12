@@ -109,9 +109,8 @@ didesnis kaip 45 km/h.
 17. Motociklas
 – dviratė motorinė transporto priemonė (su šonine priekaba arba be jos), kurios
 vidaus degimo variklio cilindro (cilindrų) darbinis tūris didesnis kaip 50 cm³
-ir (ar) maksimalus konstrukcinis greitis didesnis kaip 45 km/h. Ši sąvoka apima
-trirates motorines transporto priemones, kurių masė be krovinio ne didesnė kaip
-400 kg.
+ir (ar) maksimalus konstrukcinis greitis didesnis kaip 45 km/h. Ši sąvoka apima trirates motorines transporto priemones, kurių masė be krovinio ne didesnė
+kaip 400 kg.
 18. Motorinė
 transporto priemonė – variklį turinti transporto priemonė, išskyrus
 bėgines transporto priemones ir mopedus.
@@ -158,6 +157,8 @@ negu reikia keleiviams įlipti ar išlipti arba transporto priemonei pakrauti ar
 iškrauti.
 30. Šaligatvis – pėstiesiems skirta kelio dalis, esanti prie važiuojamosios dalies
 arba atskirta nuo jos.
+ 
+31-36 dalių redakcija iki 2007 m. sausio 1 d.:
 31. Transporto
 priemonė – įrenginys, skirtas žmonėms ir (arba) kroviniams vežti. Ši sąvoka
 apima taip pat traktorius ir savaeiges mašinas bei mechanizmus.
@@ -179,31 +180,61 @@ skirtingame lygyje esančių važiuojamųjų dalių.
 36.
 Valstybinė techninė apžiūra – Lietuvos Respublikoje įregistruotos
 transporto priemonės privalomas periodinis techninės būklės patikrinimas. 
+ 
+2 straipsnis papildomas nauja 31 dalimi,
+buvusios 31–36 dalys laikomos atitinkamai
+32–37 dalimis nuo 2007 m. sausio 1 d.:
+31. Taktinės ir logistinės paskirties transporto priemonės –
+transporto priemonės, skirtos karinėms operacijoms, joms pasirengti ir kitoms
+kariuomenės funkcijoms vykdyti. 
+32. Transporto
+priemonė – įrenginys, skirtas žmonėms ir (arba) kroviniams vežti. Ši sąvoka
+apima taip pat traktorius ir savaeiges mašinas bei mechanizmus.
+33. Transporto
+priemonių junginys – sujungtos kelios transporto priemonės, kurios kelių
+eisme dalyvauja kaip vienetas. 
+34. Transporto priemonės
+valdytojas – asmuo nuosavybės, patikėjimo, nuomos, panaudos ar kitokiu
+teisėtu pagrindu valdantis ir naudojantis transporto priemonę. Transporto
+priemonės valdytoju nelaikomas fizinis asmuo, kuris vairuoja valdytojo
+transporto priemonę.
+35. Vairuotojas
+– asmuo, kuris vairuoja ar moko vairuoti transporto priemonę, varo keliu
+gyvulius ar paukščius, taip pat raitelis, vadeliotojas.
+36. Važiuojamoji
+dalis – kelio dalis, skirta važiuoti transporto priemonėms. Kelias gali
+turėti keletą viena nuo kitos skiriamosiomis juostomis atskirtų arba
+skirtingame lygyje esančių važiuojamųjų dalių.
+37.
+Valstybinė techninė apžiūra – Lietuvos Respublikoje įregistruotos
+transporto priemonės privalomas periodinis techninės būklės patikrinimas. 
 Straipsnio pakeitimai:
 Nr. IX-1256,
 2002-12-10, Žin., 2002, Nr. 123-5543 (2002-12-24)
 Nr.
 IX-1654,
 2003-06-26, Žin., 2003, Nr. 70-3166 (2003-07-16)
+Nr. X-973, 2006-12-12,
+Žin., 2006, Nr. 141-5403 (2006-12-28)
  
 3 straipsnis.
 Eismo tvarka
 
 1. Lietuvos
 Respublikoje eismas vyksta dešine kelio puse. 
-2. Maksimalius transporto priemonių
-važiavimo greičius nustato Vyriausybė, atsižvelgdama į kelių suskirstymą pagal
-reikšmę, transporto priemonės rūšį bei saugaus eismo užtikrinimo reikalavimus.
-Kelių ruožuose, kur eismo sąlygos leidžia saugiai važiuoti greičiau,
-Vyriausybės nustatyta tvarka maksimalus leidžiamas greitis padidinamas
-pastačius atitinkamus kelio ženklus.
+2. Maksimalius transporto
+priemonių važiavimo greičius nustato Vyriausybė, atsižvelgdama į kelių
+suskirstymą pagal reikšmę, transporto priemonės rūšį bei saugaus eismo
+užtikrinimo reikalavimus. Kelių ruožuose, kur eismo sąlygos leidžia saugiai
+važiuoti greičiau, Vyriausybės nustatyta tvarka maksimalus leidžiamas greitis
+padidinamas pastačius atitinkamus kelio ženklus.
 3. Lietuvos
 Respublikos teritorijoje eismo tvarką nustato Kelių eismo taisyklės, kurias
 tvirtina Vyriausybė.
 Straipsnio pakeitimai:
 Nr.
-IX-1654,
-2003-06-26, Žin., 2003, Nr. 70-3166 (2003-07-16)
+IX-1654, 2003-06-26,
+Žin., 2003, Nr. 70-3166 (2003-07-16)
  
 ANTRASIS
 SKIRSNIS
@@ -257,10 +288,11 @@ informacija teikiama Vyriausybės įgaliotos institucijos nustatyta tvarka.
 6. Komisija turi
 teisę:
 1) gauti iš valstybinio
-administravimo ir savivaldybių administravimo subjektų informaciją ir dokumentus,
-reikalingus Valstybinei saugaus eismo programai parengti, taip pat informaciją
-apie Valstybinėje saugaus eismo programoje numatytų priemonių įgyvendinimą bei
-kitokią informaciją ir dokumentus, reikalingus savo funkcijoms vykdyti;
+administravimo ir savivaldybių administravimo subjektų informaciją ir
+dokumentus, reikalingus Valstybinei saugaus eismo programai parengti, taip pat
+informaciją apie Valstybinėje saugaus eismo programoje numatytų priemonių
+įgyvendinimą bei kitokią informaciją ir dokumentus, reikalingus savo funkcijoms
+vykdyti;
 2) teikti
 valstybinio administravimo ir savivaldybių administravimo subjektams siūlymus,
 susijusius su Valstybinėje saugaus eismo programoje numatytų priemonių
@@ -279,9 +311,8 @@ Nr. IX-1256,
 Saugaus eismo užtikrinimas
 1. Užtikrinant
 saugų eismą Vyriausybė arba jos įgaliotos institucijos:
-1) tvirtina
-Valstybinę saugaus eismo programą, priima saugų eismą reglamentuojančius teisės
-aktus;
+1) tvirtina Valstybinę
+saugaus eismo programą, priima saugų eismą reglamentuojančius teisės aktus;
 2) tvirtina
 pagrindinius techninius reikalavimus kelių transporto priemonėms, nustato
 reikalavimus transporto priemonių projektavimui;
@@ -343,10 +374,10 @@ rekomendacijas.
 Apskrities viršininkas kontroliuoja saugaus eismo programų įgyvendinimą visoje
 apskrities teritorijoje.
 3. Savivaldybės sprendžia eismo organizavimo klausimus miestuose
-ir miesteliuose ir kituose vietinės reikšmės keliuose, rūpinasi savivaldybės
-kelių ir gatvių priežiūra, transporto infrastruktūros objektų projektavimu,
-statyba, gatvių tiesimu, taisymu ir rekonstravimu bei organizuoja medicinos
-pagalbos teikimą eismo įvykiuose nukentėjusiems asmenims.
+ir miesteliuose ir kituose vietinės reikšmės keliuose, rūpinasi savivaldybės kelių
+ir gatvių priežiūra, transporto infrastruktūros objektų projektavimu, statyba,
+gatvių tiesimu, taisymu ir rekonstravimu bei organizuoja medicinos pagalbos
+teikimą eismo įvykiuose nukentėjusiems asmenims.
 4. Visuomeninės
 organizacijos, jeigu pageidauja, gali dalyvauti ir teikti pasiūlymus dėl
 saugaus eismo programose numatytų priemonių įgyvendinimo.
@@ -433,8 +464,8 @@ Nr. IX-1256,
 Nr. IX-1470,
 2003-04-03, Žin., 2003, Nr. 38-1715 (2003-04-24)
 Nr.
-IX-1654,
-2003-06-26, Žin., 2003, Nr. 70-3166 (2003-07-16)
+IX-1654, 2003-06-26,
+Žin., 2003, Nr. 70-3166 (2003-07-16)
 Nr. IX-2192,
 2004-04-27, Žin., 2004, Nr. 73-2526 (2004-04-30)
  
@@ -473,8 +504,8 @@ būtinų priemonių savo ir keleivių saugumui kelionės metu užtikrinti. Keli�
 eismo taisyklės numato saugos diržų, šalmų, vaikiškų saugos sėdynių ir kitų
 saugumo priemonių naudojimo atvejus ir tvarką.
 6. Motorinės
-transporto priemonės vairuotojas privalo mokėti suteikti pirmąją medicinos
-pagalbą eismo įvykyje nukentėjusiems asmenims.
+transporto priemonės vairuotojas privalo mokėti suteikti pirmąją medicinos pagalbą
+eismo įvykyje nukentėjusiems asmenims.
 7. Motorinės transporto priemonės
 vairuotojas privalo su savimi turėti ir policijos ar muitinės pareigūno
 reikalavimu pateikti Vyriausybės nustatyto pavyzdžio nuolat galiojantį ar
@@ -519,15 +550,16 @@ Eismo dalyvių elgesys grindžiamas tarpusavio pagarba ir atsargumu.
 3. Eismo
 dalyviai privalo:
 1) laikytis Kelių eismo
-taisyklių, vykdyti policijos, muitinės ir reguliuotojų nurodymus dėl eismo tvarkos;
+taisyklių, vykdyti policijos, muitinės ir reguliuotojų nurodymus dėl eismo
+tvarkos;
 2) paklusti
 teisėtiems policijos ir už kelių priežiūrą atsakingų institucijų įgaliotų
 pareigūnų reikalavimams;
 3) laikytis visų
 būtinų atsargumo priemonių, nekelti pavojaus kitų eismo dalyvių, kitų asmenų ar
-jų turto saugumui bei aplinkai, netrukdyti eismui, negadinti kelio
-važiuojamosios dalies, pėsčiųjų ir dviračių takų, kelio statinių, eismo
-reguliavimo priemonių, avarinio ryšio linijų ar želdinių;
+jų turto saugumui bei aplinkai, netrukdyti eismui, negadinti kelio važiuojamosios
+dalies, pėsčiųjų ir dviračių takų, kelio statinių, eismo reguliavimo priemonių,
+avarinio ryšio linijų ar želdinių;
 4) privalo imtis
 visų būtinų priemonių, siekdami išvengti nuostolingų padarinių arba jiems
 sumažinti, išskyrus atvejus, kai dėl to kyla pavojus jo ar kitų žmonių gyvybei
@@ -542,8 +574,8 @@ būdais įspėti apie kliūtį ar pavojų kitus eismo dalyvius.
 Draudžiama savavališkai perkelti, uždengti, pašalinti arba įrengti eismo tvarką
 nustatančias technines priemones, užtverti kelią, palikti kelyje kokius nors
 daiktus ar kitaip trukdyti eismui. Draudžiama išmesti iš transporto priemonės
-bet kokius daiktus, šiukšles, pilti tepalus ne specialiai skirtose vietose ar
-kitaip teršti kelią ir jo aplinką.
+bet kokius daiktus, šiukšles, pilti tepalus ne specialiai skirtose vietose ar kitaip
+teršti kelią ir jo aplinką.
 5.
 Gavęs kvietimą, eismo dalyvis privalo nurodytu laiku atvykti į policiją. Su
 savimi jis privalo turėti asmens tapatybę patvirtinantį dokumentą, o motorinės
@@ -648,11 +680,11 @@ vairuoti tam tikros kategorijos transporto priemonę, mokantiems Kelių eismo
 taisykles, žinantiems kitus teisės aktus, reglamentuojančius kelių eismą bei
 išlaikiusiems kvalifikacinius egzaminus. 
 2. Šio
-straipsnio 1 dalyje nurodyto vairuotojo pažymėjimo nereikia asmenims, turintiems
-1968 metų Vienos konvencijos dėl kelių eismo reikalavimus atitinkantį
-tarptautinį vairuotojo pažymėjimą, Europos Sąjungos valstybėse narėse išduotus
-vairuotojo pažymėjimus bei vairuotojo pažymėjimus, kuriuos Lietuvos Respublika
-tarptautinėmis sutartimis yra įsipareigojusi pripažinti.
+straipsnio 1 dalyje nurodyto vairuotojo pažymėjimo nereikia asmenims,
+turintiems 1968 metų Vienos konvencijos dėl kelių eismo reikalavimus
+atitinkantį tarptautinį vairuotojo pažymėjimą, Europos Sąjungos valstybėse
+narėse išduotus vairuotojo pažymėjimus bei vairuotojo pažymėjimus, kuriuos
+Lietuvos Respublika tarptautinėmis sutartimis yra įsipareigojusi pripažinti.
 3. Ligų,
 kuriomis sergant asmenims draudžiama vairuoti tam tikros kategorijos transporto
 priemones, sąrašą, vairuotojų sveikatos tikrinimo reikalavimus nustato
@@ -662,14 +694,14 @@ Vairuotojo pažymėjimas patvirtina teisę vairuoti tų kategorijų transporto
 priemones, kurios nurodytos vairuotojo pažymėjime.
 5. Vairuodamas transporto
 priemonę, vairuotojas privalo vykdyti vairuotojo pažymėjime nurodytas sąlygas
-(vairuoti tik su akiniais ar kontaktiniais lęšiais; rankinis valdymas,
-transporto priemonė su automatine pavarų dėže ir pan.).
+(vairuoti tik su akiniais ar kontaktiniais lęšiais; rankinis valdymas, transporto
+priemonė su automatine pavarų dėže ir pan.).
 6. Asmeniui, iš
 kurio pagal įstatymus teisė vairuoti transporto priemones buvo atimta dėl
-teisės pažeidimo padarymo esant neblaiviam arba apsvaigusiam nuo narkotikų, vaistų
-ar kitų svaigiųjų medžiagų, o šios teisės atėmimo laikas baigėsi, vairuotojo
-pažymėjimas grąžinamas Vyriausybės ar jos įgaliotos institucijos nustatyta
-tvarka po medicininės ir švietėjiškos atestacijos.
+teisės pažeidimo padarymo esant neblaiviam arba apsvaigusiam nuo narkotikų,
+vaistų ar kitų svaigiųjų medžiagų, o šios teisės atėmimo laikas baigėsi,
+vairuotojo pažymėjimas grąžinamas Vyriausybės ar jos įgaliotos institucijos
+nustatyta tvarka po medicininės ir švietėjiškos atestacijos.
 Straipsnio pakeitimai:
 Nr.
 IX-1654,
@@ -715,9 +747,9 @@ didesnė kaip 3500 kg; šie automobiliai gali būti sujungti su priekaba, kurios
 leidžiama maksimali masė ne didesnė kaip 750 kg (C kategorija);
 8) 19 metų – C1
 kategorijos automobilio ir priekabos, kurios leidžiama maksimali masė didesnė
-kaip 750 kg, junginius. Šių junginių leidžiama maksimali masė negali būti didesnė
-kaip 12000 kg ir priekabos leidžiama maksimali masė ne didesnė už nepakrauto
-vilkiko masę (C1E kategorija);
+kaip 750 kg, junginius. Šių junginių leidžiama maksimali masė negali būti
+didesnė kaip 12000 kg ir priekabos leidžiama maksimali masė ne didesnė už
+nepakrauto vilkiko masę (C1E kategorija);
 9) 22 metų – C
 kategorijos automobilio ir priekabos, kurios leidžiama maksimali masė didesnė
 kaip 750 kg, junginius (CE kategorija);
@@ -770,8 +802,8 @@ transporto priemonę, jeigu mokinys moka Kelių eismo taisykles ir laikosi jų
 reikalavimų. Draudžiama mokytis vairuoti motorinę transporto priemonę
 nedalyvaujant turinčiam teisę mokyti asmeniui.
 3.
-Pradėti mokyti vairuoti transporto priemonę leidžiama tik uždarose aikštelėse
-arba autodromuose. Keliuose mokyti vairuoti leidžiama tik tada, kai mokinys yra
+Pradėti mokyti vairuoti transporto priemonę leidžiama tik uždarose aikštelėse arba
+autodromuose. Keliuose mokyti vairuoti leidžiama tik tada, kai mokinys yra
 pakankamai įgudęs vairuoti. Mokyti galima tik tuose keliuose, kuriuose to nėra
 uždraudęs kelio savininkas.
 4. Kelyje
@@ -803,8 +835,8 @@ teisės vairuoti transporto priemonę suteikimą;
 2.
 Sprendimą atimti teisę vairuoti transporto priemonę, išskyrus įstatymų
 numatytus atvejus, priima policija. Teisė vairuoti transporto priemonę gali
-būti atimta ir iš tų asmenų, kurie turi kitose šalyse išduotus ir Lietuvos
-Respublikoje galiojančius vairuotojo pažymėjimus. 
+būti atimta ir iš tų asmenų, kurie turi kitose šalyse išduotus ir Lietuvos Respublikoje
+galiojančius vairuotojo pažymėjimus. 
  
 KETVIRTASIS
 SKIRSNIS
@@ -824,8 +856,8 @@ transporto priemonės valdytojas ir vairuotojas.
 Draudžiama eksploatuoti automobilius, kurie pritaikyti eismui kairiąja kelio
 puse ir turi vairą dešinėje pusėje, išskyrus tuos, kurie buvo įregistruoti
 Lietuvos Respublikoje iki 1993 m. gegužės 1 d. arba kurie pagal konstrukciją ir
-įrangą yra skirti specialioms darbo funkcijoms atlikti. Šis draudimas
-netaikomas laikinai (iki 90 dienų per metus) į Lietuvos Respubliką atvykusiems
+įrangą yra skirti specialioms darbo funkcijoms atlikti. Šis draudimas netaikomas
+laikinai (iki 90 dienų per metus) į Lietuvos Respubliką atvykusiems
 užsieniečiams, kurie neturi leidimo laikinai apsigyventi arba leidimo nuolat
 gyventi Lietuvos Respublikoje, taip pat Lietuvos Respublikos piliečiams, kurių
 nuolatinė gyvenamoji vieta yra užsienio valstybėje.
@@ -889,32 +921,50 @@ per metus) į Lietuvos Respubliką atvykusiems užsieniečiams, kurie neturi
 leidimo laikinai apsigyventi arba leidimo nuolat gyventi Lietuvos Respublikoje,
 taip pat Lietuvos Respublikos piliečiams, kurių nuolatinė gyvenamoji vieta yra
 užsienio valstybėje.
-2. Motorinės
-transporto priemonės, priekabos ir puspriekabės registruojamos Lietuvos
-Respublikos kelių transporto priemonių registre arba Lietuvos Respublikos
-traktorių, savaeigių ir žemės ūkio mašinų ir jų priekabų registre.
  
-3 dalies redakcija iki 2006 m. spalio 10
+2 dalies redakcija iki 2007 m. sausio 1
 d.:
-3. Lietuvos
-Respublikos kelių transporto priemonių registrą tvarko Vyriausybės įgaliotos
-institucijos. Lietuvos Respublikos traktorių, savaeigių ir žemės ūkio mašinų ir
-jų priekabų registrą tvarko Vyriausybės įgaliotos institucijos ir savivaldybės.
-3 dalies redakcija nuo 2006 m. spalio 10
+2. Motorinės
+transporto priemonės, priekabos ir puspriekabės registruojamos Lietuvos Respublikos
+kelių transporto priemonių registre arba Lietuvos Respublikos traktorių,
+savaeigių ir žemės ūkio mašinų ir jų priekabų registre.
+2 dalies redakcija nuo 2007 m. sausio 1
+d.:
+2. Motorinės transporto
+priemonės, priekabos ir puspriekabės registruojamos Lietuvos Respublikos kelių
+transporto priemonių registre arba Lietuvos Respublikos traktorių, savaeigių ir
+žemės ūkio mašinų ir jų priekabų registre. Taktinės ir logistinės paskirties
+transporto priemonės  registruojamos Lietuvos Respublikos taktinės ir logistinės
+paskirties transporto priemonių registre.
+ 
+3 dalies redakcija iki 2007 m. sausio 1
 d.:
 3. Lietuvos Respublikos kelių
 transporto priemonių registrą tvarko vadovaujančioji registro tvarkymo įstaiga
 – Vidaus reikalų ministerija ir  registro tvarkymo įstaiga – Vyriausybės
 paskirta valstybės įmonė „Regitra“. Lietuvos Respublikos traktorių, savaeigių
 ir žemės ūkio mašinų ir jų priekabų registrą tvarko vadovaujančioji registro
+tvarkymo įstaiga – Žemės ūkio ministerija ir registro tvarkymo įstaigos – valstybės
+įmonė Žemės ūkio informacijos ir kaimo verslo centras ir savivaldybės.
+3 dalies redakcija nuo 2007 m. sausio 1
+d.:
+3. Lietuvos Respublikos kelių
+transporto priemonių registrą tvarko vadovaujančioji registro tvarkymo įstaiga
+– Vidaus reikalų ministerija ir registro tvarkymo įstaiga – Vyriausybės
+paskirta valstybės įmonė „Regitra“. Lietuvos Respublikos traktorių, savaeigių
+ir žemės ūkio mašinų ir jų priekabų registrą tvarko vadovaujančioji registro
 tvarkymo įstaiga – Žemės ūkio ministerija ir registro tvarkymo įstaigos –
 valstybės įmonė Žemės ūkio informacijos ir kaimo verslo centras ir
-savivaldybės.
+savivaldybės. Lietuvos Respublikos taktinės ir logistinės paskirties transporto
+priemonių registrą  tvarko vadovaujančioji registro tvarkymo įstaiga – Krašto
+apsaugos ministerija ir registro tvarkymo įstaiga – Lietuvos kariuomenė.
 Straipsnio pakeitimai:
 Nr. X-290, 2005-06-30,
 Žin., 2005, Nr. 86-3207 (2005-07-16)
 Nr. X-734, 2006-06-27,
 Žin., 2006, Nr. 78-3060 (2006-07-18)
+Nr. X-973, 2006-12-12,
+Žin., 2006, Nr. 141-5403 (2006-12-28)
  
 20
 straipsnis. Transporto priemonių atitikties įvertinimas 
@@ -1031,8 +1081,8 @@ straipsnis. Įstatymo įsigaliojimas
 Vyriausybė parengia šio įstatymo įgyvendinimui reikalingus teisės aktus.
  
  
-Skelbiu šį Lietuvos
-Respublikos Seimo priimtą įstatymą. 
+Skelbiu šį
+Lietuvos Respublikos Seimo priimtą įstatymą. 
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS
 ADAMKUS
 Lietuvos
@@ -1086,8 +1136,9 @@ IX-1470,
 SAUGAUS
 EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 6 IR 25 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos
-baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos Respublikos
-baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t. y. nuo 2003 m. 
+baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir
+Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t. y.
+nuo 2003 m. 
 gegužės 1 d.
  
 3.
@@ -1139,11 +1190,21 @@ EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 19 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2006 m.
 spalio 10 d.
  
+7.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-973,
+2006-12-12, Žin., 2006, Nr. 141-5403 (2006-12-28)
+SAUGAUS
+EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 2 IR 19 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO
+ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2006-07-24)
+Aušrinė Trapinskienė (2007-01-03)
                  
 autrap@lrs.lt
