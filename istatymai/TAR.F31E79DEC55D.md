@@ -2064,14 +2064,19 @@ su Kultūros ministerija; branduolinės energetikos objektų pripažinimo tinkam
 naudoti tvarką ir reikalavimus nustato Branduolinės energijos įstatymas.
 3.
 Statinį galima naudoti tik įvykdžius šio straipsnio 1 dalies reikalavimus.
-4.
-Pripažintas tinkamu naudoti statinys turi būti įstatymų ir kitų teisės aktų
-nustatyta tvarka įregistruotas pagal nekilnojamojo turto registro įstatymo
-reikalavimus. 
+4. Pripažintino
+tinkamu naudoti statinio kadastriniai matavimai atliekami Nekilnojamojo turto
+kadastro įstatymo ir kitų teisės aktų nustatyta tvarka. Nustačius kadastro
+duomenis, pripažintas tinkamu naudoti statinys Nekilnojamojo turto registro
+įstatymo nustatyta tvarka įregistruojamas Lietuvos Respublikos nekilnojamojo turto
+registre.
 Straipsnio
 pakeitimai:
 Nr. X-857, 2006-10-17,
 Žin., 2006, Nr. 116-4402 (2006-10-31)
+Nr. X-1009,
+2006-12-21, Žin., 2007, Nr. 4-161 (2007-01-11), atitaisymas skelbtas: Žin.,
+2007, Nr. 8
  
 SEPTINTASIS SKIRSNIS
 STATINIO AVARIJA
@@ -2231,11 +2236,11 @@ nustatytą terminą reikiamai pertvarkyti statinį (jo dalį).
 Valstybinė teritorijų planavimo ir statybos inspekcija prie Vyriausybės
 įgaliotos institucijos, vadovaudamasi šio straipsnio 6 dalyje nurodytomis
 teisėmis, atlieka šią statybos valstybinę priežiūrą: 
-1) metodiškai vadovauja
-apskrities viršininko administracijos struktūriniam padaliniui, atliekančiam
-statybos valstybinę priežiūrą, tikrina, ar ši priežiūra atitinka šį Įstatymą ir
-kitus statybą reglamentuojančius teisės aktus, ir patikrinimo išvadas teikia
-apskrities viršininkui;
+1) metodiškai
+vadovauja apskrities viršininko administracijos struktūriniam padaliniui,
+atliekančiam statybos valstybinę priežiūrą, tikrina, ar ši priežiūra atitinka šį
+Įstatymą ir kitus statybą reglamentuojančius teisės aktus, ir patikrinimo išvadas
+teikia apskrities viršininkui;
 2)
 pagal šio straipsnio 4 dalies reikalavimus atrankos būdu tikrina bet kurio
 Lietuvos Respublikoje statomo statinio statybos techninės veiklos pagrindinių
@@ -2284,8 +2289,8 @@ IX-1924,
 Nr. X-857, 2006-10-17,
 Žin., 2006, Nr. 116-4402 (2006-10-31)
  
-28 straipsnis. Savavališkos
-statybos padarinių šalinimas
+28 straipsnis.
+Savavališkos statybos padarinių šalinimas
 1. Apskrities
 viršininko administracijos, Valstybinės teritorijų planavimo ir statybos
 inspekcijos prie Vyriausybės įgaliotos institucijos pareigūnai, atliekantys
@@ -2295,8 +2300,8 @@ Administracinių teisės pažeidimų kodeksu, nustatę, kad statinio statyba vyk
 pažeidžiant šį Įstatymą ir kitus teisės aktus:
 1) nedelsdami dviem egzemplioriais surašo savavališkos statybos aktą,
 pareikalauja iš statytojo ir rangovo (jei darbai vykdomi rangos būdu) tuojau
-pat sustabdyti statybos darbus ir įteikia jiems aktą pasirašytinai arba
-registruotu laišku;
+pat sustabdyti statybos darbus ir įteikia jiems aktą pasirašytinai arba registruotu
+laišku;
 2)
 Administracinių teisės pažeidimų kodekso nustatyta tvarka surašo
 administracinio teisės pažeidimo protokolą ir nagrinėja administracinio teisės
@@ -2528,8 +2533,8 @@ perleidimas
 1. Nebaigto
 statyti, rekonstruoti ar kapitališkai remontuoti statinio perleidimo kitam
 juridiniam ar fiziniam asmeniui sutartis gali būti notaro patvirtinta tik
-pateikus šio statinio statybos valstybinę priežiūrą atliekančio viešojo
-administravimo subjekto pažymą, kad statinys statomas, rekonstruojamas ar kapitališkai
+pateikus šio statinio statybos valstybinę priežiūrą atliekančio viešojo administravimo
+subjekto pažymą, kad statinys statomas, rekonstruojamas ar kapitališkai
 remontuojamas be esminių nukrypimų nuo statinio projekto (statinių, kuriems
 privalomas projekto tvirtinimas, – patvirtinto projekto), o kai perleidžiami
 kultūros paveldo statiniai, – taip pat už nekilnojamojo kultūros paveldo
@@ -2549,8 +2554,8 @@ dalyje.
 4. Kai
 perleidžiama nebaigto statyti, rekonstruoti ar kapitališkai remontuojamo
 statinio dalis, statybos leidimas neperregistruojamas. Perleistos dalies
-savininkas įgyja statytojo (užsakovo) teises ir pareigas tęsti statinio
-projekte numatytus darbus jam perleistoje statinio dalyje.
+savininkas įgyja statytojo (užsakovo) teises ir pareigas tęsti statinio projekte
+numatytus darbus jam perleistoje statinio dalyje.
 Straipsnio
 pakeitimai:
 Nr. X-857, 2006-10-17,
@@ -2590,8 +2595,8 @@ priežiūrą atliekantys viešojo administravimo subjektai šio straipsnio 1 dal
 5, 6 punktuose numatytais atvejais, savivaldybės administracijos direktorius
 (jo įgaliotas savivaldybės administracijos valstybės tarnautojas) šio
 straipsnio 1 dalies 2 punkte numatytu atveju bei statinių naudojimo priežiūrą
-atliekantys viešojo administravimo subjektai šio straipsnio 1 dalies 3, 4
-punktuose numatytais atvejais.
+atliekantys viešojo administravimo subjektai šio straipsnio 1 dalies 3, 4 punktuose
+numatytais atvejais.
 Straipsnio
 pakeitimai:
 Nr.
@@ -2611,11 +2616,11 @@ statinio
 statybos
 techninio prižiūrėtojo prievolės per garantinį terminą
 1.
-Statinio garantinis terminas nustatomas statinio projektavimo, rangos ir statinio
-statybos techninės priežiūros sutartyse. Šis terminas negali būti trumpesnis
-(skaičiuojant nuo statinio pripažinimo tinkamu naudoti dienos) kaip 5 metai,
-paslėptų statinio elementų (konstrukcijų, vamzdynų ir kt.) – 10 metų, o jeigu
-buvo nustatyta šiuose elementuose tyčia paslėptų defektų, – 20 metų.
+Statinio garantinis terminas nustatomas statinio projektavimo, rangos ir
+statinio statybos techninės priežiūros sutartyse. Šis terminas negali būti
+trumpesnis (skaičiuojant nuo statinio pripažinimo tinkamu naudoti dienos) kaip
+5 metai, paslėptų statinio elementų (konstrukcijų, vamzdynų ir kt.) – 10 metų,
+o jeigu buvo nustatyta šiuose elementuose tyčia paslėptų defektų, – 20 metų.
 2.
 Statinio projektuotojas, rangovas ir statinio statybos techninis prižiūrėtojas
 Civilinio kodekso nustatyta tvarka atsako už statinio sugriuvimą ar per
@@ -2705,8 +2710,8 @@ atsakomybės privalomojo draudimo taisyklės.
 Draudėjas civilinę atsakomybę turi apdrausti pagal kiekvieną statinio projektą
 atskirai arba pagal projektavimo įmonės projektavimo darbų mastą per metus.
 5. Draudėjo
-privalomojo civilinės atsakomybės draudimo minimalios sumos nustatomos
-projektuotojo civilinės atsakomybės privalomojo draudimo taisyklėse.
+privalomojo civilinės atsakomybės draudimo minimalios sumos nustatomos projektuotojo
+civilinės atsakomybės privalomojo draudimo taisyklėse.
  
 39 straipsnis. Rangovo civilinės
 atsakomybės privalomasis draudimas
@@ -2738,8 +2743,8 @@ SKIRSNIS
 STATINIŲ NAUDOJIMAS
 IR PRIEŽIŪRA
  
-40 straipsnis. Statinių naudotojų
-pareigos prižiūrint statinį
+40 straipsnis. Statinių naudotojų pareigos
+prižiūrint statinį
 Statinių
 naudotojai privalo:
 1) naudoti
@@ -2765,19 +2770,19 @@ Statinių techninė priežiūra ir techninės priežiūros taisyklės
 naudotojas ūkio būdu arba sutarties pagrindu paskirdamas statinio techninį
 prižiūrėtoją. Statinio techninis prižiūrėtojas gali būti paskirtas ir kitais
 įstatymų nustatytais pagrindais.
-2. Nesudėtingų statinių,
-taip pat 1–2 butų gyvenamųjų namų ir jų priklausinių bei statinių, esančių
-kaimo namų valdoje, taip pat įrašytų į Vyriausybės įgaliotos institucijos
-patvirtintą sąrašą žemės ūkio paskirties pastatų techninę priežiūrą gali
-atlikti patys naudotojai, nepaskirdami pastato techninio prižiūrėtojo.
-Minėtiems naudotojams kvalifikaciniai reikalavimai nekeliami.
+2. Nesudėtingų
+statinių, taip pat 1–2 butų gyvenamųjų namų ir jų priklausinių bei statinių,
+esančių kaimo namų valdoje, taip pat įrašytų į Vyriausybės įgaliotos
+institucijos patvirtintą sąrašą žemės ūkio paskirties pastatų techninę
+priežiūrą gali atlikti patys naudotojai, nepaskirdami pastato techninio
+prižiūrėtojo. Minėtiems naudotojams kvalifikaciniai reikalavimai nekeliami.
 3. Statinio
 techninis prižiūrėtojas, atlikdamas konkretaus statinio techninę priežiūrą,
 vykdo organizacines ir technines priemones statinio techninei būklei palaikyti,
 kad būtų užtikrinti šio Įstatymo 4 straipsnio 1 dalyje nustatyti statinio
 esminiai reikalavimai per ekonomiškai pagrįstą statinio naudojimo trukmę.
-4. Statinių
-techninės priežiūros taisykles ir kvalifikacinius reikalavimus statinio techniniam
+4. Statinių techninės
+priežiūros taisykles ir kvalifikacinius reikalavimus statinio techniniam
 prižiūrėtojui nustato Vyriausybės įgaliotos institucijos, atsižvelgdamos į
 statinių paskirtį ir jų konstrukcijos sudėtingumą.
 5. Statinio
@@ -2844,10 +2849,10 @@ patalpą, būtų sustabdyti vykdomi darbai, apribotas ar uždraustas transporto
 eismas, jei kyla pavojus aplinkai, viešajai tvarkai, asmens ar valstybės
 saugumui; 
 4) Administracinių teisės pažeidimų
-kodekso nustatytais atvejais ir tvarka surašyti administracinių teisės pažeidimų
-protokolus, nagrinėti administracinių teisės pažeidimų bylas ir skirti
-administracines nuobaudas arba teikti administracinių teisės pažeidimų bylas
-teismui.
+kodekso nustatytais atvejais ir tvarka surašyti administracinių teisės
+pažeidimų protokolus, nagrinėti administracinių teisės pažeidimų bylas ir
+skirti administracines nuobaudas arba teikti administracinių teisės pažeidimų
+bylas teismui.
 4. Viešojo
 administravimo subjektų, atliekančių statinio naudojimo priežiūrą, pareigūnai
 turi teisę reikalauti, kad statinio naudotojas pateiktų privalomuosius statinio
@@ -2863,8 +2868,8 @@ priežiūrą.
 Statinio techninės priežiūros dokumentai
 1. Statinio
 techninės priežiūros dokumentai yra statinio techninis pasas (ar techninės
-apskaitos kortelė), apšildomų pastatų, kurių naudingasis plotas didesnis kaip
-1000 kvadratinių metrų, – pastato techninis-energetinis pasas, statinio techninės
+apskaitos kortelė), apšildomų pastatų, kurių naudingasis plotas didesnis kaip 1000
+kvadratinių metrų, – pastato techninis-energetinis pasas, statinio techninės
 priežiūros žurnalas, statinio periodinių ir specialiųjų apžiūrų aktai ir kiti
 Vyriausybės įgaliotų institucijų ar statinio naudotojo nustatyti dokumentai.
 2. Statinio techniniame pase
@@ -2921,20 +2926,20 @@ pastatams.
 3. Pastatų energinio naudingumo
 sertifikavimas privalomas:
 1) statant,
-parduodant ar išnuomojant pastatus. Pastato statytojas (užsakovas) ar
-savininkas pirkėjui ar nuomininkui šių pageidavimu pateikia pastato energinio
-naudingumo sertifikatą, kurio galiojimo laikas turi būti ne ilgesnis kaip 10
-metų. Šio punkto nuostatos taikomos ir parduodant ar išnuomojant pastato dalis
-(butus, kitos paskirties atskiro naudojimo patalpas); šiuo atveju pastato
-dalies energinio naudingumo sertifikatas gali būti išduodamas vadovaujantis
-viso pastato su bendra šildymo sistema sertifikatu arba tokio paties buto tame
+parduodant ar išnuomojant pastatus. Pastato statytojas (užsakovas) ar savininkas
+pirkėjui ar nuomininkui šių pageidavimu pateikia pastato energinio naudingumo
+sertifikatą, kurio galiojimo laikas turi būti ne ilgesnis kaip 10 metų. Šio
+punkto nuostatos taikomos ir parduodant ar išnuomojant pastato dalis (butus,
+kitos paskirties atskiro naudojimo patalpas); šiuo atveju pastato dalies
+energinio naudingumo sertifikatas gali būti išduodamas vadovaujantis viso
+pastato su bendra šildymo sistema sertifikatu arba tokio paties buto tame
 pačiame daugiabučiame pastate sertifikatu;
 2) didesniems
-kaip 1000 kvadratinių metrų naudingojo vidaus patalpų ploto viešbučių, administracinės,
-prekybos, paslaugų, maitinimo, transporto, kultūros, mokslo, gydymo ir poilsio
-paskirties pastatams. Šiuose pastatuose gerai matomoje vietoje turi būti
-iškabintas žmonėms gerai įžiūrimas ne senesnis kaip 10 metų pastato energinio
-naudingumo sertifikatas.
+kaip 1000 kvadratinių metrų naudingojo vidaus patalpų ploto viešbučių,
+administracinės, prekybos, paslaugų, maitinimo, transporto, kultūros, mokslo,
+gydymo ir poilsio paskirties pastatams. Šiuose pastatuose gerai matomoje
+vietoje turi būti iškabintas žmonėms gerai įžiūrimas ne senesnis kaip 10 metų
+pastato energinio naudingumo sertifikatas.
 Pastaba. 43(1) straipsnio 3 dalyje nurodytais
 atvejais pastatai sertifikuojami nuo 2009 m. sausio 1 d., išskyrus naujai
 statomus pastatus, kurie privalo būti sertifikuojami nuo 2007 m. sausio 1 d.
@@ -3071,8 +3076,8 @@ STATYBOS ĮSTATYMO PAKEITIMO
 4.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-583,
-2001-11-08, Žin., 2001, Nr. 101-3597 (2001-11-30)
+Nr. IX-583, 2001-11-08,
+Žin., 2001, Nr. 101-3597 (2001-11-30)
 STATYBOS
 ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija 
@@ -3092,8 +3097,8 @@ STATYBOS ĮSTATYMO PAKEITIMO ĮSTATYMO ĮGYVENDINIMO
 5.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-1018,
-2002-07-02, Žin., 2002, Nr. 73-3093 (2002-07-19)
+Nr. IX-1018, 2002-07-02,
+Žin., 2002, Nr. 73-3093 (2002-07-19)
 STATYBOS
 ĮSTATYMO 23 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
@@ -3177,11 +3182,22 @@ Iki
 sprendimai vykdomi pagal šių sprendimų surašymo metu galiojusių teisės aktų
 nuostatas.
  
+13.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-1009,
+2006-12-21, Žin., 2007, Nr. 4-161 (2007-01-11)
+STATYBOS
+ĮSTATYMO 24 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šio
+įstatymo atitaisymas skelbtas: Žin., 2007, Nr. 8 (2007-01-19)
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2006-11-06)
+Aušrinė Trapinskienė (2007-01-12)
                  
 autrap@lrs.lt
