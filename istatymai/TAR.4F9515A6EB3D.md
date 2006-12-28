@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4F9515A6EB3D"
 
 # Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymas
 
-Suvestinė redakcija nuo 2005-12-22 iki 2006-12-27
+Suvestinė redakcija nuo 2006-12-28 iki 2007-12-28
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 118-3046, i. k. 0971010ISTAVIII-588
  
@@ -87,12 +87,13 @@ Nr. IX-642, 2001-12-11, Žin., 2001, Nr. 110-3989 (2001-12-29), i. k. 1011010IST
 
 
 
-8) Lietuvos Respublikos administracinių teisės pažeidimų kodeksą, priimtą 1984 m. gruodžio 13 d., (Žin., 1985, Nr. 1-1) su vėlesniais pakeitimais ir papildymais – iki 2007 m. sausio 1 d.; 
+8) Lietuvos Respublikos administracinių teisės pažeidimų kodeksą, priimtą 1984 m. gruodžio 13 d., (Žin., 1985, Nr. 1-1) su vėlesniais pakeitimais ir papildymais – iki 2008 m. sausio 1 d.; 
 Straipsnio punkto pakeitimai:
 Nr. IX-1167, 2002-10-31, Žin., 2002, Nr. 112-4972 (2002-11-22); Žin., 2002, Nr. 113-0 (2002-11-27), i. k. 1021010ISTA0IX-1167
 Nr. IX-1886, 2003-12-11, Žin., 2003, Nr. 123-5573 (2003-12-30), i. k. 1031010ISTA0IX-1886
 Nr. X-34, 2004-12-09, Žin., 2004, Nr. 185-6836 (2004-12-27), i. k. 1041010ISTA0000X-34
 Nr. X-445, 2005-12-13, Žin., 2005, Nr. 149-5421 (2005-12-22), i. k. 1051010ISTA000X-445
+Nr. X-984, 2006-12-14, Žin., 2006, Nr. 141-5406 (2006-12-28), i. k. 1061010ISTA000X-984
  
 
 
@@ -106,7 +107,7 @@ Nr. IX-642, 2001-12-11, Žin., 2001, Nr. 110-3989 (2001-12-29), i. k. 1011010IST
 
 
 
-10) Lietuvos Respublikos tautinių mažumų įstatymą, priimtą 1989 m. lapkričio 23 d., (Žin., 1989, Nr. 34-485; 1991, Nr. 4-117) – iki 2007 m. sausio 1 d.
+10) Lietuvos Respublikos tautinių mažumų įstatymą, priimtą 1989 m. lapkričio 23 d., (Žin., 1989, Nr. 34-485; 1991, Nr. 4-117) – iki 2008 m. sausio 1 d.
 Straipsnio punkto pakeitimai:
 Nr. IX-416, 2001-06-28, Žin., 2001, Nr. 56-1985 (2001-06-30), i. k. 1011010ISTA00IX-416
 Nr. IX-1000, 2002-06-27, Žin., 2002, Nr. 72-3015 (2002-07-17), i. k. 1021010ISTA0IX-1000
@@ -115,6 +116,7 @@ Nr. IX-1653, 2003-06-26, Žin., 2003, Nr. 64-2882 (2003-06-30), i. k. 1031010IST
 Nr. IX-1886, 2003-12-11, Žin., 2003, Nr. 123-5573 (2003-12-30), i. k. 1031010ISTA0IX-1886
 Nr. X-34, 2004-12-09, Žin., 2004, Nr. 185-6836 (2004-12-27), i. k. 1041010ISTA0000X-34
 Nr. X-445, 2005-12-13, Žin., 2005, Nr. 149-5421 (2005-12-22), i. k. 1051010ISTA000X-445
+Nr. X-984, 2006-12-14, Žin., 2006, Nr. 141-5406 (2006-12-28), i. k. 1061010ISTA000X-984
  
 
 
@@ -208,4 +210,9 @@ Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m.
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-445, 2005-12-13, Žin., 2005, Nr. 149-5421 (2005-12-22), i. k. 1051010ISTA000X-445
+Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-984, 2006-12-14, Žin., 2006, Nr. 141-5406 (2006-12-28), i. k. 1061010ISTA000X-984
 Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
