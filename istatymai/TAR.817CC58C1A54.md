@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.817CC58C1A54"
 
 # Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymas
 
-Suvestinė redakcija nuo 2003-11-19 iki 2006-12-27
+Suvestinė redakcija nuo 2006-12-28 iki 2010-02-28
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3890; Žin. 2002, Nr.93-0; Žin. 2009, Nr.86-3637, i. k. 1021010ISTA0IX-1067
  
@@ -83,10 +83,10 @@ Nustatant nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio 
 4 straipsnis. Neigiamą poveikį nepilnamečių vystymuisi daranti viešoji informacija
 
 
-1. Darančia neigiamą poveikį nepilnamečių fiziniam, protiniam ar doroviniam vystymuisi laikoma viešoji informacija:
+1. Darančia neigiamą poveikį nepilnamečių psichinei sveikatai, fiziniam, protiniam ar doroviniam vystymuisi laikoma viešoji informacija:
 
 
-1) susijusi su fizinio ar psichinio smurto vaizdavimu: kai detaliai vaizduojamas žmonių, gyvūnų žudymas, žalojimas ar kankinimas, taip pat vandalizmas, teigiamai vertinamas smurtas, mėgavimasis prievarta ar žiaurumu;
+1) susijusi su fizinio ar psichinio smurto vaizdavimu arba vandalizmu: kai detaliai vaizduojamas žmonių, gyvūnų žudymas, žalojimas ar kankinimas, turto naikinimas ar gadinimas, taip pat teigiamai vertinamas smurtas, mėgavimasis prievarta ar žiaurumu;
 
 
 
@@ -106,39 +106,57 @@ Nustatant nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio 
 
 
 
-5) kurioje palankiai vertinamas priklausomumas nuo narkotinių, psichotropinių medžiagų, tabako ar alkoholio, skatinamas jų vartojimas, gamyba, platinimas ar įsigijimas;
+5) skatinanti azartinius lošimus;
 
 
 
 
-6) skatinanti savęs žalojimą ar savižudybę;
+6) kurioje palankiai vertinamas priklausomumas nuo narkotinių, toksinių, psichotropinių medžiagų, tabako ar alkoholio, skatinamas jų vartojimas, gamyba, platinimas ar įsigijimas;
 
 
 
 
-7) kurioje teigiamai vertinama nusikalstama veika ar idealizuojami nusikaltėliai;
+7) skatinanti savęs žalojimą ar savižudybę;
 
 
 
 
-8) susijusi su nusikalstamos veikos modeliavimu;
+8) kurioje teigiamai vertinama nusikalstama veika ar idealizuojami nusikaltėliai;
 
 
 
 
-9) kurioje kurstoma diskriminacija dėl tautybės, rasės, lyties, kilmės, neįgalumo, lytinės orientacijos, religijos ar kitokios priklausomybės;
+9) susijusi su nusikalstamos veikos modeliavimu;
 
 
 
 
-10) kurioje dažnai vartojami nešvankūs posakiai, žodžiai ar gestai;
+10) kurioje kurstoma diskriminacija dėl tautybės, rasės, lyties, kilmės, neįgalumo, lytinės orientacijos, religijos ar kitokios priklausomybės;
 
 
 
 
-11) kuri apibrėžta šio Įstatymo 5 straipsnio 1 dalyje.
+11) kurioje dažnai vartojami nešvankūs posakiai, žodžiai ar gestai;
 
 
+
+
+12) kurioje patariama, kaip pasigaminti, įsigyti ar naudoti sprogmenis, narkotines ar psichotropines medžiagas, taip pat kitus gyvybei ar sveikatai pavojingus dalykus;
+
+
+
+
+13) skatinami blogi mitybos, higienos ir fizinio pasyvumo įpročiai;
+
+
+
+
+14) kuri apibrėžta šio Įstatymo 5 straipsnio 1 dalyje. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. X-951, 2006-12-05, Žin., 2006, Nr. 141-5393 (2006-12-28), i. k. 1061010ISTA000X-951
+ 
 
 
 
@@ -159,13 +177,10 @@ Nustatant nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio 
 5 straipsnis. Neigiamą poveikį nepilnamečių vystymuisi daranti viešoji informacija, susijusi su asmens duomenų paskelbimu
 
 
-1. Neigiamą poveikį nepilnamečio vystymuisi darančia informacija taip pat laikoma viešoji informacija, kurioje:
+1. Neigiamą poveikį nepilnamečio psichinei sveikatai, fiziniam, protiniam ar doroviniam vystymuisi darančia informacija taip pat laikoma viešoji informacija, kurioje:
 
 
-1) siejant su nusikalstama veika ar kitais teisės pažeidimais skelbiami nuo teisėsaugos institucijų ar teismo nesislapstančio įtariamojo padarius nusikalstamą veiką, kaltinamojo, nuteistojo ar nuo nusikalstamos veikos arba kitų teisės pažeidimų nukentėjusio nepilnamečio asmens duomenys, pagal kuriuos galima nustatyti jo asmens tapatybę;
-Straipsnio punkto pakeitimai:
-Nr. IX-1794, 2003-10-21, Žin., 2003, Nr. 108-4813 (2003-11-19), i. k. 1031010ISTA0IX-1794
- 
+1) siejant su nusikalstama veika ar kitais teisės pažeidimais skelbiami nuo teisėsaugos institucijų ar teismo nesislapstančio įtariamojo padarius nusikaltimą, kaltinamojo, teisiamojo, nuteistojo ar nuo nusikalstamos veikos arba kitų teisės pažeidimų nukentėjusio nepilnamečio (aukos) asmens duomenys, pagal kuriuos galima nustatyti jo asmens tapatybę;
 
 
 
@@ -180,9 +195,17 @@ Nr. IX-1794, 2003-10-21, Žin., 2003, Nr. 108-4813 (2003-11-19), i. k. 1031010IS
 
 
 
-4) piktnaudžiaujant nepilnamečių pasitikėjimu ir nepatyrimu, neigiamų socialinių reiškinių kontekste pateikiamos nepilnamečių nuomonės ir vertinimai, taip pat jų nuotraukos ar filmuota medžiaga apie juos.
+4) piktnaudžiaujant nepilnamečių pasitikėjimu ir nepatyrimu, neigiamų socialinių reiškinių kontekste pateikiamos nepilnamečių nuomonės ir vertinimai;
 
 
+
+
+5) neigiamų socialinių reiškinių kontekste pateikiamos nepilnamečių nuotraukos ar filmuota medžiaga apie juos, jei pagal tai galima nustatyti nepilnamečių asmens tapatybę. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. X-951, 2006-12-05, Žin., 2006, Nr. 141-5393 (2006-12-28), i. k. 1061010ISTA000X-951
+ 
 
 
 
@@ -198,10 +221,10 @@ Nr. IX-1794, 2003-10-21, Žin., 2003, Nr. 108-4813 (2003-11-19), i. k. 1031010IS
 6 straipsnis. Viešosios informacijos nepriskyrimas neigiamą poveikį nepilnamečių vystymuisi darančios informacijos kategorijai
 
 
-Viešoji informacija gali būti nepriskirta neigiamą poveikį nepilnamečių vystymuisi darančios informacijos kategorijai, jei ji atitinka šio Įstatymo 4 straipsnio 1 dalies 1–10 punktuose apibrėžtus kriterijus, tačiau:
+Viešoji informacija gali būti nepriskirta neigiamą poveikį nepilnamečių psichinei sveikatai, fiziniam, protiniam ar doroviniam vystymuisi darančios informacijos kategorijai, jei ji atitinka šio Įstatymo 4 straipsnio 1 dalies 1–13 punktuose apibrėžtus kriterijus, tačiau:
 
 
-1) jos turinį sudaro tik informacija apie įvykius, politinius, socialinius, religinius įsitikinimus ar pasaulėžiūrą; 
+1) jos turinį sudaro tik informacija apie įvykius, politinius, socialinius, religinius įsitikinimus ar pasaulėžiūrą;
 
 
 
@@ -216,12 +239,14 @@ Viešoji informacija gali būti nepriskirta neigiamą poveikį nepilnamečių vy
 
 
 
-4) jos apimtis ir poveikis yra mažareikšmiai.
+4) jos apimtis ir poveikis yra mažareikšmiai. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. X-951, 2006-12-05, Žin., 2006, Nr. 141-5393 (2006-12-28), i. k. 1061010ISTA000X-951
  
-
-
-
-
 
 
 
@@ -229,7 +254,10 @@ Viešoji informacija gali būti nepriskirta neigiamą poveikį nepilnamečių vy
 7 straipsnis. Draudimas ir ribojimas skelbti bei platinti neigiamą poveikį darančią informaciją
 
 
-1. Šio Įstatymo 4 straipsnio 1 dalies 1–10 punktuose apibrėžtą informaciją draudžiama tiesiogiai skelbti ar platinti nepilnamečiams – jiems siūlyti, perleisti ar kitaip leisti asmeniškai ja naudotis. Tokia viešoji informacija gali būti skelbiama tik vietose, į kurias nepilnamečiai negali patekti, ir (arba) tokiu laiku, kuriuo nepilnamečiai negalėtų ja naudotis, arba kai naudojant technines priemones yra sudaromos sąlygos atsakingiems už vaikų auklėjimą ir priežiūrą asmenims užtikrinti galimybę riboti tokios viešosios informacijos pasiūlą nepilnamečiams.
+1. Šio Įstatymo 4 straipsnio 1 dalies 1–13 punktuose apibrėžtą informaciją draudžiama tiesiogiai skelbti ar platinti nepilnamečiams – jiems siūlyti, perleisti ar kitaip leisti asmeniškai ja naudotis. Tokia viešoji informacija gali būti skelbiama tik vietose, į kurias nepilnamečiai negali patekti, ir (arba) tokiu laiku, kuriuo nepilnamečiai negalėtų ja naudotis, arba kai naudojant technines priemones yra sudaromos sąlygos atsakingiems už vaikų auklėjimą ir priežiūrą asmenims užtikrinti galimybę riboti tokios viešosios informacijos pasiūlą nepilnamečiams.
+Straipsnio dalies pakeitimai:
+Nr. X-951, 2006-12-05, Žin., 2006, Nr. 141-5393 (2006-12-28), i. k. 1061010ISTA000X-951
+ 
 
 
 
@@ -369,7 +397,10 @@ Nr. IX-1794, 2003-10-21, Žin., 2003, Nr. 108-4813 (2003-11-19), i. k. 1031010IS
 
 
 
-6. Prie inspektoriaus veikia nepriekaištingos reputacijos, specialių žinių turinčių ekspertų grupė (iki 9 žmonių), kuri vertina viešosios informacijos poveikį nepilnamečiams ir teikia savo išvadas inspektoriui. Ekspertus skiria inspektorius, atsižvelgdamas į institucijų, išvardytų šio straipsnio 7 dalyje, pasiūlymus. Ekspertų grupė veikia rotacijos principu pagal pačių priimtą ir inspektoriaus patvirtintą veiklos reglamentą. Ekspertų veikla finansuojama iš valstybės biudžeto. 
+6. Prie inspektoriaus veikia nepriekaištingos reputacijos, specialių žinių turinčių ekspertų grupė (iki 9 žmonių), kuri vertina viešosios informacijos poveikį nepilnamečiams ir teikia savo išvadas inspektoriui. Ekspertus skiria inspektorius, atsižvelgdamas į institucijų, išvardytų šio straipsnio 7 dalyje, nuomonę. Ekspertų grupė veikia rotacijos principu pagal pačių priimtą ir inspektoriaus patvirtintą veiklos reglamentą. Ekspertų veikla finansuojama iš valstybės biudžeto. 
+Straipsnio dalies pakeitimai:
+Nr. X-951, 2006-12-05, Žin., 2006, Nr. 141-5393 (2006-12-28), i. k. 1061010ISTA000X-951
+ 
 
 
 
@@ -412,7 +443,9 @@ Nr. IX-1794, 2003-10-21, Žin., 2003, Nr. 108-4813 (2003-11-19), i. k. 1031010IS
 
 
 
-8. Šio straipsnio 7 dalyje išvardytos institucijos gali kreiptis į inspektorių dėl viešosios informacijos priskyrimo informacijos, kuri daro neigiamą poveikį nepilnamečių vystymuisi, kategorijai, bendradarbiauja, keičiasi informacija ir pagal savo kompetenciją taiko atsakomybę šio Įstatymo nuostatų nesilaikantiems fiziniams ar juridiniams asmenims.
+8. Šio straipsnio 7 dalyje išvardytos institucijos gali kreiptis į inspektorių dėl viešosios informacijos priskyrimo informacijos, kuri daro neigiamą poveikį nepilnamečių psichinei sveikatai, fiziniam, protiniam ar doroviniam vystymuisi, kategorijai, bendradarbiauja, keičiasi informacija ir pagal savo kompetenciją taiko atsakomybę šio Įstatymo nuostatų nesilaikantiems fiziniams ar juridiniams asmenims. 
+Straipsnio dalies pakeitimai:
+Nr. X-951, 2006-12-05, Žin., 2006, Nr. 141-5393 (2006-12-28), i. k. 1061010ISTA000X-951
  
 
 
@@ -474,3 +507,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1794, 2003-10-21, Žin., 2003, Nr. 108-4813 (2003-11-19), i. k. 1031010ISTA0IX-1794
 Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo 5 ir 9 straipsnių pakeitimo ir papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-951, 2006-12-05, Žin., 2006, Nr. 141-5393 (2006-12-28), i. k. 1061010ISTA000X-951
+Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo 4, 5, 6, 7, 9 straipsnių pakeitimo ir papildymo įstatymas
