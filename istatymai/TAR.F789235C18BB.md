@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F789235C18BB"
 
 # Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymas
 
-Suvestinė redakcija nuo 2003-10-31 iki 2006-12-27
+Suvestinė redakcija nuo 2006-12-28 iki 2006-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 123-5540, i. k. 1021010ISTA0IX-1253
  
@@ -307,7 +307,6 @@ Nr. IX-1766, 2003-10-14, Žin., 2003, Nr. 102-4584 (2003-10-31), i. k. 1031010IS
 
 
 4. Tuo atveju, kai šio straipsnio 2 dalyje nurodytuose viešuosiuose juridiniuose asmenyse yra patvirtinta mažiau kaip 200 pareigybių (etatų), juose steigėjo (steigėjų) arba Vyriausybės sprendimu gali būti įsteigta vidaus audito tarnyba arba vidaus auditą atlieka viešojo juridinio asmens steigėjo vidaus audito tarnyba. Kai viešojo juridinio asmens steigėjas (steigėjai) nėra viešasis juridinis asmuo, perdavęs valdyti, naudoti valstybės arba savivaldybės turtą bei juo disponuoti, vidaus auditą atlieka viešojo juridinio asmens, perdavusio valstybės arba savivaldybės turtą, vidaus audito tarnyba. Kai viešąjį juridinį asmenį yra įsteigę keli steigėjai, viešojo juridinio asmens vidaus auditą atlieka steigėjų bendru sprendimu paskirta viešojo juridinio asmens vidaus audito tarnyba. 
- 
 
 
 
@@ -428,7 +427,10 @@ Nr. IX-1766, 2003-10-14, Žin., 2003, Nr. 102-4584 (2003-10-31), i. k. 1031010IS
 
 
 
-5. Iki kiekvienų metų vasario 1 d. vidaus audito tarnybos vadovas turi parengti ir pateikti Finansų ministerijai, viešojo juridinio asmens vadovui, taip pat ir steigėjui (steigėjams) arba kolegialiam valdymo organui, jeigu jis nurodytas viešojo juridinio asmens steigimo dokumentuose, jo prašymu metinę vidaus audito tarnybos veiklos ataskaitą. Šioje ataskaitoje turi būti informacija apie vidaus kontrolės veikimą viešajame juridiniame asmenyje.
+5. Iki kiekvienų metų kovo 1 d. vidaus audito tarnybos vadovas turi parengti ir pateikti Finansų ministerijai, viešojo juridinio asmens vadovui, taip pat ir steigėjui (steigėjams) arba kolegialiam valdymo organui, jeigu jis nurodytas viešojo juridinio asmens steigimo dokumentuose, jo prašymu metinę vidaus audito tarnybos veiklos ataskaitą. Šioje ataskaitoje turi būti informacija apie vidaus kontrolės veikimą viešajame juridiniame asmenyje. 
+Straipsnio dalies pakeitimai:
+Nr. X-944, 2006-12-05, Žin., 2006, Nr. 141-5390 (2006-12-28), i. k. 1061010ISTA000X-944
+ 
 
 
 
@@ -613,7 +615,10 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-2) rengia ir iki kiekvienų metų kovo 1 dienos teikia Vyriausybei bei Seimo Biudžeto ir finansų komitetui metinę vidaus audito tarnybų veikimo viešuosiuose juridiniuose asmenyse ataskaitą;
+2) rengia ir iki kiekvienų metų liepos 1 dienos teikia Vyriausybei bei Seimo Audito komitetui metinę vidaus audito tarnybų veikimo viešuosiuose juridiniuose asmenyse ataskaitą; 
+Straipsnio punkto pakeitimai:
+Nr. X-944, 2006-12-05, Žin., 2006, Nr. 141-5390 (2006-12-28), i. k. 1061010ISTA000X-944
+ 
 
 
 
@@ -682,3 +687,13 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1766, 2003-10-14, Žin., 2003, Nr. 102-4584 (2003-10-31), i. k. 1031010ISTA0IX-1766
 Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 6 ir 11 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-806, 2006-09-14, Žin., 2006, Nr. 107-4044 (2006-10-06), i. k. 1061010ISTA000X-806
+Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 2, 6 straipsnių pakeitimo ir papildymo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-944, 2006-12-05, Žin., 2006, Nr. 141-5390 (2006-12-28), i. k. 1061010ISTA000X-944
+Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 8 ir 11 straipsnių pakeitimo įstatymas
