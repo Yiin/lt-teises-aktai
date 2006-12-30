@@ -94,11 +94,14 @@ turtas – kaip ši sąvoka apibrėžta Pensijų sistemos reformos įstatyme.
 18. Perėjimas
 į kitą pensijų fondą – pensijų kaupimo sutarties nutraukimas ir naujos
 pensijų kaupimo sutarties sudarymas dėl pensijų kaupimo kitame pensijų fonde.
+ 
+19, 20 ir 21 dalių redakcija iki 2007 m. liepos 1
+d.:
 19.
 Priežiūros institucija:
 1) pagal
-Draudimo įstatymą draudimo įmonių veiklos priežiūrą vykdanti institucija (toliau
-– draudimo priežiūros institucija);
+Draudimo įstatymą draudimo įmonių veiklos priežiūrą vykdanti institucija
+(toliau – draudimo priežiūros institucija);
 2) Vertybinių
 popierių komisija, atliekanti valdymo įmonių priežiūrą.
 20. Senatvės
@@ -107,18 +110,40 @@ pensijų įstatyme.
 21. Valstybinio
 socialinio draudimo įmokos dalies kaupimas (toliau – pensijų kaupimas)
 – kaip ši sąvoka apibrėžta Pensijų sistemos reformos įstatyme.
+3 straipsnis papildomas nauja 19 dalimi, buvusios 19, 20 ir 21 dalys
+laikomos atitinkamai 20, 21 ir 22 dalimis nuo 2007 m. liepos 1 d.:
+19. pensijų fondo lyginamasis indeksas – pensijų
+kaupimo bendrovės pasirinktas rodiklis, su kurio kintančia reikšme lyginama
+pensijų fondo investicijų portfelio investicijų grąža.
+20.
+Priežiūros institucija:
+1) pagal
+Draudimo įstatymą draudimo įmonių veiklos priežiūrą vykdanti institucija
+(toliau – draudimo priežiūros institucija);
+2) Vertybinių
+popierių komisija, atliekanti valdymo įmonių priežiūrą.
+21. Senatvės
+pensijos amžius – kaip ši sąvoka apibrėžta Valstybinių socialinio draudimo
+pensijų įstatyme.
+22. Valstybinio
+socialinio draudimo įmokos dalies kaupimas (toliau – pensijų kaupimas)
+– kaip ši sąvoka apibrėžta Pensijų sistemos reformos įstatyme.
 Straipsnio
 pakeitimai:
 Nr.
 IX-2254,
 2004-06-01, Žin., 2004, Nr. 96-3521 (2004-06-19)
+Nr. X-972, 2006-12-12,
+Žin., 2006, Nr. 144-5462 (2006-12-30)
  
 ANTRASIS
 SKIRSNIS
 DALYVAVIMAS
 PENSIJŲ KAUPIME
  
-4 straipsnis. Dalyvavimas pensijų kaupime
+4 straipsnio redakcija iki 2007 m. liepos 1 d.:
+4 straipsnis.
+Dalyvavimas pensijų kaupime
 1. Teisę tapti pensijų kaupimo dalyviu šio
 bei Pensijų sistemos reformos įstatymo numatytame pensijų kaupime turi asmenys,
 privalomai draudžiami valstybiniu socialiniu pensijų draudimu
@@ -163,6 +188,65 @@ amžiaus ir pagal išmokų mokėjimo sutartį išmokėjus jam visą pensijų iš
 nustatyta tvarka nutraukus pensijų kaupimo sutartį;
 4) teismo sprendimu pripažinus pensijų
 kaupimo sutartį negaliojančia.
+4 straipsnio redakcija nuo 2007 m. liepos 1 d.:
+4 straipsnis.
+Dalyvavimas pensijų kaupime
+1. Teisę tapti pensijų kaupimo dalyviu šio
+bei Pensijų sistemos reformos įstatymo numatytame pensijų kaupime turi asmenys,
+privalomai draudžiami valstybiniu socialiniu pensijų draudimu
+pagrindinei ir papildomai pensijos daliai gauti, išskyrus asmenis, kurie jau yra sukakę senatvės pensijos amžių. 
+2. Dalyvavimas pensijų kaupime prasideda sudarius pensijų
+kaupimo sutartį ir ją įregistravus pensijų kaupimo sutarčių registre (toliau –
+sutarčių registras). Pensijų kaupimo bendrovė per vieną mėnesį nuo pensijų
+kaupimo sutarties sudarymo informuoja dalyvį apie pensijų kaupimo sutarties
+įregistravimą.
+3. Pensijų kaupimo
+bendrovė neturi teisės atsisakyti sudaryti pensijų
+kaupimo sutarties su asmeniu, kuris pagal šį Įstatymą turi teisę dalyvauti
+pensijų kaupime.
+4. Sudarant
+pensijų kaupimo sutartį, pensijų kaupimo bendrovė privalo pasirašytinai
+supažindinti pensijų kaupime ketinantį dalyvauti asmenį su visų jos valdomų
+pensijų fondų investavimo rizikos palyginimu.
+5. Sudarant pensijų kaupimo sutartį, pensijų kaupimo
+bendrovė privalo informuoti asmenį, kuriam iki senatvės pensijos amžiaus yra
+likę mažiau kaip 7 metai, apie galimybę kaupti pensiją konservatyvaus
+investavimo pensijų fonde. Tokiu atveju sutartis dėl pensijų kaupimo kitame nei
+konservatyvaus investavimo pensijų fonde gali būti sudaroma tik tuo atveju, jei
+asmuo raštu patvirtina, kad yra supažindintas su visų pensijų kaupimo bendrovės
+valdomų pensijų fondų investavimo rizikos palyginimu, ir atsisako sudaryti
+pensijų kaupimo sutartį dėl pensijų kaupimo konservatyvaus investavimo pensijų
+fonde.
+6. Pensijų kaupimo
+bendrovė privalo kiekvienam dalyviui, sudariusiam su ja pensijų kaupimo sutartį, atidaryti pensijų sąskaitą. Vienu metu
+dalyvis gali kaupti pensijų įmokas tik viename pensijų
+fonde.
+7. Pensijų
+kaupimo sutartis registruoja Valstybinio socialinio draudimo fondo (toliau – VSDF)
+valdyba prie Socialinės apsaugos ir darbo ministerijos (toliau – VSDF valdyba)
+sutarčių registre. Sutarčių registro nuostatus tvirtina Vyriausybė ar jos
+įgaliota institucija. Pensijų kaupimo bendrovei atsisakius pateikti ar priimti
+duomenis, būtinus pensijų kaupimo sutartims registruoti ir (ar) įmokoms
+pervesti pagal patvirtintas duomenų pateikimo sąlygas, sustabdomas pensijų
+įmokų pervedimas į tokios pensijų kaupimo bendrovės valdomus pensijų fondus iki
+duomenų pateikimo ir (ar) priėmimo atnaujinimo pagal šias duomenų pateikimo
+sąlygas. Šio Įstatymo 30 straipsnyje nustatytų delspinigių mokėjimo prievolė
+tenka reikalavimų nevykdančiai pensijų kaupimo bendrovei. Atnaujinus įmokų
+pervedimą, įmokos pervedamos šio Įstatymo 10 straipsnyje nustatyta tvarka. Pensijų
+kaupimo bendrovės atsako už VSDF valdybai pateiktų duomenų teisingumą.
+8. VSDF valdyba,
+tvarkydama sutarčių registrą ir registruodama pensijų kaupimo sutartis ir jų
+pabaigą, privalo užtikrinti kiekvieno dalyvio dalyvavimo pensijų kaupime
+nepertraukiamumą.
+9. Dalyvavimas pensijų kaupime baigiasi
+šiais atvejais:
+1) dalyviui sulaukus senatvės pensijos
+amžiaus ir pagal išmokų mokėjimo sutartį išmokėjus jam visą pensijų išmoką;
+2) dalyviui mirus;
+3) dalyviui šio Įstatymo 6 straipsnyje
+nustatyta tvarka nutraukus pensijų kaupimo sutartį;
+4) teismo sprendimu pripažinus pensijų
+kaupimo sutartį negaliojančia.
 Straipsnio
 pakeitimai:
 Nr.
@@ -170,9 +254,11 @@ IX-2254,
 2004-06-01, Žin., 2004, Nr. 96-3521 (2004-06-19)
 Nr. IX-2541,
 2004-11-04, Žin., 2004, Nr. 171-6301 (2004-11-26)
+Nr. X-972, 2006-12-12,
+Žin., 2006, Nr. 144-5462 (2006-12-30)
  
-5 straipsnis.
-Pensijų fondo dalyvio teisės
+5
+straipsnis. Pensijų fondo dalyvio teisės
 1.
 Pensijų fondo dalyvis turi teisę:
 1) šio Įstatymo
@@ -231,13 +317,16 @@ Lietuvos Respublikos įstatymai. Šio Įstatymo ar su juo susijusių teisės akt
 reikalavimų neatitinkančios sutarties nuostatos negalioja.
 5. Standartines
 pensijų kaupimo sutarties sąlygas tvirtina priežiūros institucijos bendru
-teisės aktu.
+teisės aktu. Pensijų kaupimo bendrovė privalo priežiūros institucijai pateikti
+jos naudojamos tipinės pensijų kaupimo sutarties ir jos pakeitimo projektą.
 6. Priežiūros
 institucijos patvirtintos pensijų fondo taisyklės yra pensijų kaupimo sutarties
 dalis.
 7. Pensijų
 kaupimo bendrovė neturi teisės nutraukti pensijų kaupimo sutarties be dalyvio
 sutikimo, išskyrus šiame Įstatyme nustatytus atvejus. 
+ 
+8 dalies redakcija iki 2007 m. liepos 1 d.:
 8. Sudarius
 pensijų kaupimo sutartį, pensijų kaupimo bendrovė, suderinusi duomenų pateikimo
 tvarką su VSDF valdyba, elektroniniu būdu ne vėliau kaip per 3 darbo dienas nuo
@@ -251,6 +340,21 @@ ir terminus nustato Vyriausybė ar jos įgaliota institucija. Pensijų kaupimo
 bendrovė per vieną mėnesį nuo pensijų kaupimo sutarties sudarymo dienos privalo
 informuoti asmenis, su kuriais sudarytos pensijų kaupimo sutartys nebuvo
 įregistruotos, nurodydama neįregistravimo priežastis.
+8 dalies redakcija nuo 2007 m. liepos 1 d.:
+8. Sudarius
+pensijų kaupimo sutartį, pensijų kaupimo bendrovė, suderinusi duomenų pateikimo
+tvarką su VSDF valdyba, elektroniniu būdu ne vėliau kaip per 3 darbo dienas nuo
+sutarties sudarymo pateikia VSDF valdybai sutarčiai įregistruoti reikiamus
+duomenis. Pensijų kaupimo sutartys registruojamos sutarčių registre per 3 darbo
+dienas nuo duomenų gavimo VSDF valdyboje dienos. Pranešimas apie jų įregistravimą
+ar neįregistravimą, nurodžius neįregistravimo priežastis, pateikiamas pensijų
+kaupimo bendrovėms taip pat per 3 darbo dienas nuo duomenų gavimo VSDF
+valdyboje dienos. VSDF valdybai pateiktų duomenų tikslinimo tvarką ir terminus
+nustato Vyriausybė ar jos įgaliota institucija. Pensijų kaupimo bendrovė per
+vieną mėnesį nuo pensijų kaupimo sutarties sudarymo dienos privalo informuoti
+asmenis, su kuriais sudarytos pensijų kaupimo sutartys nebuvo įregistruotos,
+nurodydama neįregistravimo priežastis.
+ 
 9. Pensijų
 kaupimo bendrovė, su kuria asmuo ketina sudaryti pensijų kaupimo sutartį, turi
 teisę VSDF valdybos nustatyta tvarka užklausti VSDF valdybą apie šio asmens
@@ -259,6 +363,8 @@ asmens ir kitos pensijų kaupimo bendrovės sudarymo faktą. VSDF valdyba, gavus
 tokį užklausimą, atsako raštu arba, suderinusi informacijos pateikimo tvarką su
 pensijų kaupimo bendrove, elektroniniu būdu ne vėliau kaip per 1 darbo dieną
 nuo užklausimo gavimo.
+ 
+10 ir 11 dalių redakcija iki 2007 m. liepos 1 d.:
 10. Pensijų
 kaupimo sutartys registruojamos, jų įsigaliojimas ir nutraukimas fiksuojamas
 VSDF valdybos administruojamame dalyvių registre ir informacija apie tai
@@ -276,11 +382,30 @@ pensijų kaupimo sutartį šioje dalyje nustatyta tvarka, asmuo turi teisę
 sudaryti pensijų kaupimo sutartį su pasirinkta pensijų kaupimo bendrove ne
 anksčiau kaip kitų metų, einančių po pensijų kaupimo sutarties nutraukimo metų,
 sausio 1 dieną.
+10 ir 11 dalių redakcija nuo 2007 m. liepos 1 d.:
+10. Pensijų kaupimo sutartys ir jų pabaiga registruojami VSDF
+valdybos tvarkomame sutarčių registre ir informacija apie tai saugoma įstatymų
+nustatytą laikotarpį.
+11. Dalyvis turi
+teisę vienašališkai nutraukti pirmą kartą sudarytą pensijų kaupimo sutartį
+raštu pranešęs pensijų kaupimo bendrovei per 30 kalendorinių dienų nuo
+sutarties sudarymo. Pensijų kaupimo bendrovė, gavusi dalyvio raštišką
+pranešimą, kad jis nori nutraukti sutartį, privalo per 3 darbo dienas apie tai
+pranešti VSDF valdybai. Pensijų kaupimo sutartis laikoma nutraukta, kai VSDF
+valdyba ją išregistruoja iš sutarčių registro. Pensijų kaupimo sutartis laikoma
+pirmą kartą sudaryta ir tuo atveju, jei dalyvis jau buvo pasinaudojęs teise
+nutraukti pensijų kaupimo sutartį šioje dalyje nustatytu pagrindu. Nutraukęs
+pensijų kaupimo sutartį šioje dalyje nustatyta tvarka, asmuo turi teisę
+sudaryti pensijų kaupimo sutartį su pasirinkta pensijų kaupimo bendrove ne
+anksčiau kaip kitų metų, einančių po pensijų kaupimo sutarties nutraukimo metų,
+sausio 1 dieną.
 Straipsnio
 pakeitimai:
 Nr.
 IX-2254,
 2004-06-01, Žin., 2004, Nr. 96-3521 (2004-06-19)
+Nr. X-972, 2006-12-12,
+Žin., 2006, Nr. 144-5462 (2006-12-30)
  
 7
 straipsnis. Dalyvio perėjimas į tos pačios pensijų kaupimo bendrovės valdomą
@@ -306,11 +431,29 @@ atskaitymų. Jei dalyvis pereina į kitą pensijų fondą toje pačioje pensijų
 kaupimo bendrovėje daugiau kaip vieną kartą per kalendorinius metus, už jo
 perėjimą gali būti daromi tik atskaitymai, nustatyti šio Įstatymo 14 straipsnio
 4 dalyje, jeigu tai yra numatyta atitinkamo pensijų fondo taisyklėse.
+7 straipsnis papildomas 4 dalimi nuo 2007 m. liepos
+1 d.:
+4. Pensijų
+kaupimo bendrovė, pateikdama artimiausią Papildomo savanoriško pensijų kaupimo
+įstatymo 51 straipsnio 1 dalyje nurodytą pranešimą, privalo informuoti dalyvį,
+kuriam iki senatvės pensijos amžiaus yra likę mažiau negu 7 metai, apie
+galimybę kaupti pensiją konservatyvaus investavimo pensijų fonde. Kartu su šia
+informacija turi būti pateikiama:
+1) išsami
+informacija apie galimą riziką dalyvaujant kitos rūšies negu konservatyvaus
+investavimo pensijų fonde ir pensijų fondo, kurio dalyvis yra šios dalies
+pirmame sakinyje nurodytas asmuo, bei konservatyvaus investavimo pensijų fondo
+investavimo rizikos palyginimas;
+2) informacija,
+kur galima gauti konservatyvaus investavimo pensijų fondo taisykles arba su
+jomis susipažinti.
 Straipsnio
 pakeitimai:
 Nr.
-IX-2254,
-2004-06-01, Žin., 2004, Nr. 96-3521 (2004-06-19)
+IX-2254, 2004-06-01,
+Žin., 2004, Nr. 96-3521 (2004-06-19)
+Nr. X-972, 2006-12-12,
+Žin., 2006, Nr. 144-5462 (2006-12-30)
  
 8
 straipsnis. Dalyvio perėjimas į kitos pensijų kaupimo bendrovės valdomą pensijų
@@ -322,22 +465,30 @@ neribojamas pensijų kaupimo bendrovės reorganizavimo, bankroto ir likvidavimo
 atveju.
 2. Dalyvis,
 norintis pereiti į kitos pensijų kaupimo bendrovės valdomą pensijų fondą, turi
-sudaryti naują pensijų kaupimo sutartį su kita pensijų kaupimo bendrove bei
-pateikti pensijų kaupimo bendrovei, kurios valdomame pensijų fonde jis kaupia
-pensijų įmokas, prašymą nutraukti pensijų kaupimo sutartį. Pensijų kaupimo
-bendrovė, gavusi dalyvio prašymą, per pensijų fondo, iš kurio pereina dalyvis,
-taisyklėse nurodytą įspėjimo apie pensijų kaupimo sutarties nutraukimą
-laikotarpį, bet ne ilgesnį kaip 14 kalendorinių dienų, turi, suderinusi
-informacijos pateikimo tvarką su VSDF valdyba, elektroniniu būdu informuoti apie
-tai VSDF valdybą.
-3. Pereinant į
-kitos pensijų kaupimo bendrovės valdomą pensijų fondą, naujai sudaryta pensijų
-kaupimo sutartis įsigalioja nuo jos ir pranešimo apie ankstesnės pensijų
-kaupimo sutarties nutraukimą įregistravimo dalyvių registre. Padariusi atitinkamą
-įrašą dalyvių registre, VSDF valdyba apie tai per 1 darbo dieną informuoja abi
-pensijų kaupimo bendroves. Atsisakiusi registruoti pensijų kaupimo sutartį,
-VSDF valdyba apie tai per 3 darbo dienas informuoja pensijų kaupimo bendrovę,
-nurodydama atsisakymo priežastį. 
+sudaryti naują pensijų kaupimo sutartį su kita pensijų kaupimo bendrove ir per
+14 kalendorinių dienų nuo naujos sutarties sudarymo pateikti ją pensijų kaupimo
+bendrovei, kurios valdomame pensijų fonde jis kaupia pensijų įmokas, kartu su
+prašymu nutraukti pensijų kaupimo sutartį. Pensijų kaupimo bendrovė, su kuria
+dalyvis sudarė naują pensijų kaupimo sutartį, suderinusi informacijos pateikimo
+tvarką su VSDF valdyba, elektroniniu būdu ne vėliau kaip per 3 darbo dienas nuo
+sutarties sudarymo pateikia VSDF valdybai sutarčiai įregistruoti reikiamus
+duomenis. Pensijų kaupimo bendrovė, gavusi dalyvio prašymą nutraukti pensijų
+kaupimo sutartį ir nustačiusi dalyvio tapatybę, per pensijų fondo, iš kurio
+pereina dalyvis, taisyklėse nurodytą įspėjimo apie pensijų kaupimo sutarties
+nutraukimą laikotarpį, bet ne ilgesnį kaip 14 kalendorinių dienų, turi,
+suderinusi informacijos pateikimo tvarką su VSDF valdyba, elektroniniu būdu informuoti
+apie tai VSDF valdybą.
+3.
+Pereinant į kitos pensijų kaupimo bendrovės valdomą pensijų fondą, naujai
+sudaryta pensijų kaupimo sutartis įsigalioja nuo jos ir pranešimo apie
+ankstesnės pensijų kaupimo sutarties nutraukimą įregistravimo sutarčių registre.
+Padariusi atitinkamus įrašus sutarčių registre, VSDF valdyba, suderinusi
+informacijos pateikimo tvarką su pensijų kaupimo bendrovėmis, elektroniniu būdu
+apie tai per 3 darbo dienas informuoja abi pensijų kaupimo bendroves,
+nurodydama, į kokį (iš kokio) pensijų fondą (fondo) pereina dalyvis.
+Atsisakiusi registruoti naują pensijų kaupimo sutartį arba prašymą
+nutraukti pensijų kaupimo sutartį, VSDF valdyba apie tai per 3 darbo dienas
+informuoja pensijų kaupimo bendrovę, nurodydama atsisakymo priežastį.
 4. Pensijų kaupimo bendrovei, kurios valdomo pensijų
 fondo dalyvis pareiškia norą pereiti į kitos pensijų kaupimo bendrovės valdomą
 pensijų fondą, jos akcininkams ir kitiems asmenims draudžiama tiesiogiai ar
@@ -352,12 +503,12 @@ fondo pereinama, išlaidas, susijusias su asmens perėjimu į kitos pensijų
 kaupimo bendrovės valdomą pensijų fondą, nurodytas šio Įstatymo 14 straipsnio 4
 dalyje, jeigu tai yra numatyta atitinkamo pensijų fondo taisyklėse. 
 6. Jei dalyvis pereina į kitos pensijų kaupimo
-bendrovės valdomą pensijų fondą daugiau kaip vieną kartą per kalendorinius
-metus, už jo perėjimą gali būti daromi atskaitymai lėšas pervedančios pensijų
-kaupimo bendrovės naudai, nurodyti šio Įstatymo 14 straipsnio 5 dalyje, jeigu
-tai yra numatyta atitinkamo pensijų fondo taisyklėse. Atskaitoma gali būti iš
-dalyviui priklausančių piniginių lėšų, pervedamų į kitą pensijų fondą, arba
-kitais būdais, nustatytais pensijų fondo taisyklėse.
+bendrovės valdomą pensijų fondą daugiau kaip vieną kartą per kalendorinius metus,
+už jo perėjimą gali būti daromi atskaitymai lėšas pervedančios pensijų kaupimo
+bendrovės naudai, nurodyti šio Įstatymo 14 straipsnio 5 dalyje, jeigu tai yra
+numatyta atitinkamo pensijų fondo taisyklėse. Atskaitoma gali būti iš dalyviui
+priklausančių piniginių lėšų, pervedamų į kitą pensijų fondą, arba kitais
+būdais, nustatytais pensijų fondo taisyklėse.
 7. Jei pensijų kaupimo bendrovė su jos valdomu pensijų
 fondu susijusias teises ir pareigas, atsirandančias iš pensijų kaupimo
 sutarčių, ketina perduoti kitai pensijų kaupimo bendrovei arba pensijų fondas
@@ -379,22 +530,33 @@ teisės pereiti į kitą pensijų kaupimo bendrovę dėl to, kad nepraėjo 3 met
 pirmos pensijų kaupimo sutarties įsigaliojimo, šio straipsnio 7 dalyje numatyta
 teisė pereiti į kitos pensijų kaupimo bendrovės valdomą pensijų fondą
 netaikoma.
-9. Pensijų
+9. VSDF valdyba, suderinusi informacijos pateikimo
+tvarką su pensijų kaupimo bendrovėmis, informuoja kiekvieną pensijų kaupimo
+bendrovę apie visų pensijų kaupimo bendrovių valdomų pensijų fondų piniginių
+lėšų sąskaitų bankuose rekvizitus. Pensijų kaupimo bendrovė pateikia VSDF
+valdybai informaciją apie jos valdomų pensijų fondų sąskaitų bankuose
+rekvizitus (banko pavadinimas, filialo pavadinimas, banko kodas, sąskaitos
+numeris) ne vėliau kaip per 1 darbo dieną nuo sąskaitos atidarymo banke ar
+sąskaitos rekvizitų pakeitimo.
+10. Pensijų
 kaupimo bendrovė, iš kurios pereina valdomo pensijų fondo dalyvis, gavusi VSDF
 valdybos pranešimą apie pensijų kaupimo sutarties su to pensijų fondo pensijų
 kaupimo bendrove nutraukimą ir naujos pensijų kaupimo sutarties įsigaliojimą,
 per 3 darbo dienas perveda dalyviui priklausančias pinigines lėšas į
 priimančiosios pensijų kaupimo bendrovės valdomo pensijų fondo piniginių lėšų
-sąskaitą. Pensijų kaupimo bendrovė, į kurios valdomą pensijų fondą dalyvis
-pereina, kai į šio pensijų fondo sąskaitą patenka perėjusio dalyvio piniginės
-lėšos, informuoja dalyvį apie jo pensijų sąskaitoje įrašyto pensijų turto dydį.
+sąskaitą. Pensijų kaupimo bendrovė, į kurios valdomą pensijų fondą dalyvis pereina,
+kai į šio pensijų fondo sąskaitą patenka perėjusio dalyvio piniginės lėšos,
+informuoja dalyvį apie jo pensijų sąskaitoje įrašyto pensijų turto dydį.
 Straipsnio
 pakeitimai:
 Nr.
 IX-2254,
 2004-06-01, Žin., 2004, Nr. 96-3521 (2004-06-19)
+Nr. X-972, 2006-12-12,
+Žin., 2006, Nr. 144-5462 (2006-12-30)
  
-9 straipsnis. Pensijų turtas
+9 straipsnis.
+Pensijų turtas
 1. Pensijų fondą sudarantis pensijų
 turtas yra dalyvių bendroji dalinė nuosavybė. Dalyvio dalis bendrojoje
 nuosavybėje nustatoma pagal jo pensijų sąskaitoje įrašytų apskaitos vienetų
@@ -416,25 +578,36 @@ Nr.
 IX-2254,
 2004-06-01, Žin., 2004, Nr. 96-3521 (2004-06-19)
  
-10 straipsnis.
-Pensijų įmokų mokėjimo sąlygos ir terminai
+10
+straipsnis. Pensijų įmokų mokėjimo sąlygos ir terminai
 1. Valstybinio socialinio draudimo įmokos, kurių
 sudedamoji dalis yra pensijų įmoka, draudėjų apskaičiuojamos ir pervedamos VSDF
 biudžetui įstatymų nustatyta tvarka. 
+ 
+2 dalies redakcija iki 2007 m. liepos 1 d.:
 2. VSDF valdyba, remdamasi jos administruojamame
 dalyvių registre esančia informacija apie dalyvių sudarytas pensijų kaupimo
 sutartis bei jų pasirinktus pensijų fondus, priskaičiuotas valstybinio
 socialinio draudimo įmokas už kiekvieną dalyvį, perveda pensijų įmokas
 atitinkamiems pensijų kaupimo bendrovių valdomiems pensijų fondams. 
+2 dalies redakcija nuo 2007 m. liepos 1 d.:
+2. VSDF valdyba, remdamasi jos tvarkomame sutarčių
+registre esančia informacija apie dalyvių sudarytas pensijų kaupimo sutartis
+bei jų pasirinktus pensijų fondus, priskaičiuotas valstybinio socialinio
+draudimo įmokas už kiekvieną dalyvį perveda pensijų įmokas atitinkamiems
+pensijų kaupimo bendrovių valdomiems pensijų fondams. Pensijų įmokų
+apskaičiavimo ir pervedimo tvarką nustato Vyriausybė ar jos įgaliota
+institucija.
+ 
 3. Pensijų įmokos pervedamos per 60 kalendorinių dienų
-nuo tos dienos, iki kurios draudėjai Vyriausybės nustatyta tvarka privalo
-pateikti VSDF įstaigoms informaciją apie kiekvienam apdraustajam apskaičiuotas
+nuo tos dienos, iki kurios draudėjai Vyriausybės nustatyta tvarka privalo pateikti
+VSDF įstaigoms informaciją apie kiekvienam apdraustajam apskaičiuotas
 draudžiamųjų pajamų ir socialinio draudimo įmokų sumas.
 4.
 Pensijų įmokas iki jų pervedimo pensijų kaupimo bendrovių valdomiems pensijų
-fondams VSDF valdyba laiko patikėjimo
-teisės pagrindais komerciniame banke atskirai nuo kitų lėšų. Šios lėšos gali
-būti naudojamos tik pervedimui į pensijų fondus kaip pensijų įmokos.
+fondams VSDF valdyba laiko patikėjimo teisės
+pagrindais komerciniame banke atskirai nuo kitų lėšų. Šios lėšos gali būti
+naudojamos tik pervedimui į pensijų fondus kaip pensijų įmokos.
 
 5. Pensijų
 įmokos už savarankiškai dirbančius asmenis, privalomai draudžiamus valstybiniu
@@ -451,14 +624,16 @@ pakeitimai:
 Nr.
 IX-2254,
 2004-06-01, Žin., 2004, Nr. 96-3521 (2004-06-19)
+Nr. X-972, 2006-12-12,
+Žin., 2006, Nr. 144-5462 (2006-12-30)
  
 TREČIASIS
 SKIRSNIS
 bendrosios
 Pensijų kaupimo bendrovių veiklos nuostatos
  
-11 straipsnis. Saugumo reikalavimai
-pensijų kaupimo bendrovėms
+11 straipsnis.
+Saugumo reikalavimai pensijų kaupimo bendrovėms
 1. Draudimo
 įmonė privalo:
 1) nuolatos
@@ -492,18 +667,27 @@ turtui reikalavimai, nustatyti Papildomo savanoriško pensijų kaupimo įstatymo
 įmonei ir valdymo įmonei šio straipsnio 1 ir 2 dalyse nustatyti saugumo
 reikalavimai turi būti kiek galima tapatūs savo esme ir dydžiais.
  
-12 straipsnis.
-Konservatyvaus investavimo pensijų fondas
-1. Pensijų kaupimo
-bendrovė privalo sudaryti galimybę asmenims kaupti pensijų įmokas
-konservatyvaus investavimo pensijų fonde, kurio lėšos investuojamos tik į:
+12
+straipsnis. Konservatyvaus investavimo pensijų fondas
+1. Pensijų
+kaupimo bendrovė privalo sudaryti galimybę asmenims kaupti pensijų įmokas
+konservatyvaus investavimo pensijų fonde. Šio  fondo lėšos investuojamos tik į:
 1) Lietuvos
 Respublikos, Europos Sąjungos ar Ekonominio bendradarbiavimo ir plėtros
 organizacijos valstybių vyriausybių, centrinių bankų ir Europos centrinio banko
-išleistus ar į jų garantuotus skolos vertybinius popierius;
+išleistus ar jų garantuotus skolos vertybinius popierius;
 2) kolektyvinio
-investavimo subjektų, kurių lėšos investuojamos tik į šio straipsnio 1 dalies 1
-punkte nurodytus investavimo objektus, akcijas ar investicinius vienetus.
+investavimo subjektų, kurių lėšos investuojamos tik į šios dalies 1 punkte
+nurodytus investavimo objektus, akcijas ar investicinius vienetus;
+3) ne ilgesniam
+kaip 12 mėnesių terminui padėtus indėlius, kuriuos galima atsiimti
+pareikalavus, esančius kredito įstaigose, kurių registruota buveinė yra
+Lietuvos Respublikoje, Europos Sąjungos valstybėje narėje arba kitoje
+valstybėje, kurioje riziką ribojanti priežiūra yra ne blogesnė kaip Europos
+Sąjungoje;
+4) išvestines
+investicines priemones, naudojamas šio Įstatymo 13 straipsnio 4 dalyje
+nustatyta tvarka.
 2. Pensijų
 kaupimo bendrovė turi teisę kreiptis dėl kitų pensijų fondų taisyklių
 patvirtinimo tik pateikusi tvirtinti šio straipsnio 1 dalyje nurodyto pensijų
@@ -513,6 +697,8 @@ pakeitimai:
 Nr.
 IX-2254,
 2004-06-01, Žin., 2004, Nr. 96-3521 (2004-06-19)
+Nr. X-972, 2006-12-12,
+Žin., 2006, Nr. 144-5462 (2006-12-30)
  
 13 straipsnis.
 Pensijų turto investavimo ypatumai
@@ -520,16 +706,42 @@ Pensijų turto investavimo ypatumai
 gali sudaryti tik tokie vertybiniai popieriai ir pinigų rinkos priemonės, kurie
 nustatyti Papildomo savanoriško pensijų kaupimo įstatyme ir kuriais prekiaujama
 rinkose, pagal Vertybinių popierių rinkos įstatymą laikomose reguliuojamomis ir
-veikiančiose Lietuvos Respublikoje, Europos Sąjungos valstybėje narėje, ar
-kurie yra įtraukti į Ekonominio bendradarbiavimo ir plėtros organizacijos
-valstybėje narėje esančios vertybinių popierių biržos oficialųjį prekybos
-sąrašą arba kuriais prekiaujama ten esančioje reguliuojamoje rinkoje,
-veikiančioje pagal nustatytas taisykles, pripažintoje ir visuomenei
-prieinamoje, jei ši birža arba rinka yra nurodyta pensijų fondo taisyklėse.
+veikiančiose Lietuvos Respublikoje, Europos Sąjungos valstybėje narėje, ar kurie
+yra įtraukti į Ekonominio bendradarbiavimo ir plėtros organizacijos valstybėje
+narėje esančios vertybinių popierių biržos oficialųjį prekybos sąrašą arba
+kuriais prekiaujama ten esančioje reguliuojamoje rinkoje, veikiančioje pagal
+nustatytas taisykles, pripažintoje ir visuomenei prieinamoje, jei ši birža arba
+rinka yra nurodyta pensijų fondo taisyklėse. Pensijų turtą taip pat gali
+sudaryti išleidžiami nauji vertybiniai popieriai, jeigu emisijos sąlygose yra
+numatytas įsipareigojimas įtraukti šiuos vertybinius popierius į vertybinių
+popierių biržos oficialųjį prekybos sąrašą ar reguliuojamos rinkos prekybos
+sąrašą ir jeigu į sąrašą bus įtraukiama ne vėliau kaip per 1 metus nuo
+išleidimo (jei tokia birža ar rinka yra valstybėje ne Europos Sąjungos narėje,
+ji turi būti nurodyta pensijų fondo taisyklėse).
 2. Į kitą turtą
 pensijų turtas investuojamas Papildomo savanoriško pensijų kaupimo įstatyme
 nustatyta tvarka.
-3. Sukurto naujo
+3. Iki 20
+procentų pensijų fondo grynųjų aktyvų gali būti investuojama į Papildomo
+savanoriško pensijų kaupimo įstatymo 49 straipsnio 1 dalyje nurodytų sąlygų
+neatitinkančių kolektyvinio investavimo subjektų investicinius vienetus ar
+akcijas, jeigu tokie kolektyvinio investavimo subjektai atitinka šias sąlygas:
+1) subjektų
+priežiūrą vykdo atitinkamos priežiūros institucijos;
+2) Vertybinių
+popierių komisija bendradarbiauja su užsienio valstybės atitinkama priežiūros
+institucija dvišalių susitarimų pagrindais, jeigu ši valstybė nėra Europos
+Sąjungos arba Ekonominio bendradarbiavimo ir plėtros organizacijos narė.
+4. Pensijų
+turtas gali būti investuotas į išvestines investicines priemones tik rizikai
+valdyti. Pensijų kaupimo bendrovė išvestines investicines priemones turi teisę
+naudoti tik tuo atveju, kai pensijų fondo taisyklėse yra nurodyta, kokiomis
+išvestinėmis investicinėmis priemonėmis ir kokiais tikslais pensijų kaupimo
+bendrovė ketina naudotis. Kiekviena išvestinė investicinė priemonė turi būti
+pagrįsta konkrečiu investiciniu sandoriu (investicine pozicija). Toks sandoris
+ir jo rizikos valdymui naudojama išvestinė investicinė priemonė turi būti
+nurodyti pensijų kaupimo bendrovės veiklos ir finansinės būklės ataskaitose.
+5. Sukurto naujo
 pensijų fondo investicijų portfelis 6 mėnesius nuo pirmosios įmokos į pensijų
 fondą gavimo dienos gali neatitikti Papildomo savanoriško pensijų kaupimo
 įstatymo 47–49 straipsnių reikalavimų.
@@ -538,9 +750,36 @@ pakeitimai:
 Nr.
 IX-2254,
 2004-06-01, Žin., 2004, Nr. 96-3521 (2004-06-19)
+Nr. X-972, 2006-12-12,
+Žin., 2006, Nr. 144-5462 (2006-12-30)
  
-14 straipsnis.
-Atskaitymai iš pensijų turto 
+Įstatymas papildomas 13(1)  straipsniu nuo
+2007 m. liepos 1 d.:
+13(1)
+straipsnis. Pensijų fondo lyginamasis indeksas
+1. Pensijų
+fondas privalo turėti lyginamąjį indeksą. Pensijų fondo lyginamasis indeksas
+turi sudaryti galimybę visuomenei tinkamai vertinti pensijų fondo finansinius
+rezultatus. Pensijų fondo lyginamasis indeksas turi būti pasirenkamas
+atsižvelgiant į to pensijų fondo investavimo strategiją.
+2. priežiūros institucijos turi teisę
+bendru teisės aktu nustatyti lyginamojo indekso reikalavimus.
+3. Skelbdama
+pensijų fondo finansinius rezultatus, pensijų kaupimo bendrovė privalo juos
+lyginti su to pensijų fondo lyginamuoju indeksu priežiūros institucijos
+nustatyta tvarka.
+4. pensijų kaupimo bendrovė privalo
+patvirtinti taisykles, nustatančias jos valdomų pensijų fondų lyginamųjų
+indeksų pasirinkimo ir keitimo kriterijus bei tvarką ir pateikti jas priežiūros
+institucijai. Pensijų fondo lyginamasis indeksas taip pat turi būti nurodytas
+pensijų kaupimo bendrovių veiklos ir finansinės būklės ataskaitose.
+Įstatymas
+papildytas straipsniu:
+Nr. X-972, 2006-12-12,
+Žin., 2006, Nr. 144-5462 (2006-12-30)
+ 
+14
+straipsnis. Atskaitymai iš pensijų turto 
 1. Atskaitymai
 iš pensijų turto pensijų kaupimo bendrovės naudai gali būti daromi tik
 laikantis šiame Įstatyme ir pensijų fondo taisyklėse nustatytų dydžių. 
@@ -568,8 +807,8 @@ straipsnio 4 dalyje nurodytų išlaidų ir išlaidų, susijusių su asmens
 pritraukimu į pensijų kaupimo bendrovę, sumai. Šie atskaitymai negali būti
 didesni kaip 4 procentai dalyvio vardu pervedamų piniginių lėšų. 
  
-15 straipsnis.
-Paslaugų siūlymas ir reklama
+15
+straipsnis. Paslaugų siūlymas ir reklama
 1. Pensijų
 kaupimo bendrovei, kitiems jos įgaliotiems ar kitaip su ja susijusiems asmenims
 draudžiama:
@@ -583,10 +822,9 @@ kaupimo bendrovė, kiti jos įgalioti ar kitaip su ja susiję asmenys gali daryt
 pareiškimus naudodami prognozuojamus skaičius tik priežiūros institucijų bendro
 teisės akto nustatyta tvarka.
 3. Teikdama
-informaciją potencialiam ar esamam dalyviui apie galimas pensijų išmokas,
-pensijų kaupimo bendrovė, jos atstovai ar kitaip su pensijų kaupimo bendrove
-susiję asmenys turi teisę naudoti skaičiuoklę, kuri turi atitikti šiuos
-reikalavimus:
+informaciją potencialiam ar esamam dalyviui apie galimas pensijų išmokas, pensijų
+kaupimo bendrovė, jos atstovai ar kitaip su pensijų kaupimo bendrove susiję
+asmenys turi teisę naudoti skaičiuoklę, kuri turi atitikti šiuos reikalavimus:
 1) pateikiama
 informacija privalo būti aiški ir neklaidinanti;
 2) turi būti
@@ -604,6 +842,9 @@ kaupimo bendrovė, kuri prisiima įsipareigojimus dalyviams garantuoti tam tikr�
 pajamingumą, turi teisę daryti pareiškimus, naudodama prognozuojamus skaičius,
 skelbti informaciją apie numatomas investicines pajamas ir kitas su tuo
 susijusias prognozes, neviršydama prisiimtų įsipareigojimų.
+ 
+5, 6, 7 ir 8 dalių redakcija iki 2007 m. liepos 1
+d.:
 5. Pensijų
 kaupimo veiklos reklamoje gali būti tik pensijų fondo taisyklėse ir periodinėse
 ataskaitose esanti informacija. Reklamos tikslais pensijų kaupimo bendrovė gali
@@ -628,6 +869,36 @@ informaciją apie pensijų kaupimo veiklą ir (ar) sudaryti pensijų kaupimo
 sutartis pensijų kaupimo bendrovės vardu gali tik asmenys, kurie yra
 nepriekaištingos reputacijos ir išmano pensijų kaupimo veiklą
 reglamentuojančius teisės aktus.
+Įstatymas papildomas nauja 5 dalimi, buvusios 5, 6,
+7 ir 8 dalys laikomos atitinkamai 6, 7, 8 ir 9 dalimis nuo 2007 m. liepos 1 d.:
+5. Skelbiamoje pensijų kaupimo
+veiklos reklamoje pensijų kaupimo bendrovės pateikiami jos valdomo pensijų
+fondo finansiniai rezultatai priežiūros institucijos nustatyta tvarka privalo
+būti lyginami su to pensijų fondo lyginamuoju indeksu.
+6. Pensijų
+kaupimo veiklos reklamoje gali būti tik pensijų fondo taisyklėse ir periodinėse
+ataskaitose esanti informacija. Reklamos tikslais pensijų kaupimo bendrovė gali
+parengti ir platinti sutrumpintas pensijų fondo taisykles, kuriose gali būti
+tik atitinkamos priežiūros institucijos patvirtintose pensijų fondo taisyklėse
+numatyta informacija.
+7. Pensijų
+kaupimo bendrovės, jos įgaliotų ar kitaip su ja susijusių asmenų skelbiamos
+reklamos turinys ir forma turi būti iš anksto suderinta su atitinkama
+priežiūros institucija. Priežiūros institucija turi uždrausti skelbti
+neteisingą, klaidinančią ar neišsamią reklamą, taip pat privalo įpareigoti
+paneigti, patikslinti ar papildyti jau paskelbtą reklamą.
+8. Pensijų kaupimo
+bendrovė yra atsakinga už tinkamą asmenų, teikiančių informaciją apie pensijų
+kaupimo veiklą ir (ar) sudarančių pensijų kaupimo sutartis, parinkimą bei
+apmokymą ir turi užtikrinti, kad šie asmenys turėtų atitinkamą kvalifikaciją.
+Priežiūros institucijos turi teisę bendru teisės aktu nustatyti asmenų,
+teikiančių informaciją apie pensijų kaupimo veiklą ir (ar) sudarančių pensijų
+kaupimo sutartis, kvalifikacinius reikalavimus.
+9. Teikti
+informaciją apie pensijų kaupimo veiklą ir (ar) sudaryti pensijų kaupimo
+sutartis pensijų kaupimo bendrovės vardu gali tik asmenys, kurie yra
+nepriekaištingos reputacijos ir išmano pensijų kaupimo veiklą
+reglamentuojančius teisės aktus.
 Straipsnio
 pakeitimai:
 Nr.
@@ -635,9 +906,11 @@ IX-2254,
 2004-06-01, Žin., 2004, Nr. 96-3521 (2004-06-19)
 Nr. X-208, 2005-05-19,
 Žin., 2005, Nr. 71-2554 (2005-06-07)
+Nr. X-972, 2006-12-12,
+Žin., 2006, Nr. 144-5462 (2006-12-30)
  
-16
-straipsnis. Pensijų kaupimo bendrovės likvidavimas ir bankrotas
+16 straipsnis. Pensijų kaupimo
+bendrovės likvidavimas ir bankrotas
 1. Draudimo įmonės likvidavimo ir bankroto procedūros
 vykdomos pagal Draudimo įstatymą. Valdymo įmonių likvidavimo ir bankroto
 procedūros vykdomos pagal Papildomo savanoriško pensijų kaupimo įstatymą.
@@ -670,8 +943,8 @@ SKIRSNIS
 VALDYMO
 ĮMONIŲ PENSIJŲ KAUPIMO VEIKLOS YPATUMAI
  
-17 straipsnis.
-Valdymo įmonių teisė užsiimti pensijų įmokų kaupimo veikla
+17
+straipsnis. Valdymo įmonių teisė užsiimti pensijų įmokų kaupimo veikla
 1.
 Teisę užsiimti pensijų kaupimo veikla turi valdymo įmonė, veikianti pagal
 Papildomo savanoriško pensijų kaupimo įstatymą, turinti buveinę Lietuvos
@@ -685,25 +958,39 @@ kaupimo įstatymą ir priežiūros institucijai jos nustatyta tvarka patvirtinus
 atitinkamas pensijų fondo taisykles. Pensijų fondo taisyklių pavadinime turi
 būti nurodyta, kad tai valstybinio socialinio draudimo įmokos dalies kaupimo
 pensijų fondas (gali būti naudojama šių žodžių junginio santrumpa).
+3. Vertybinių popierių komisija
+turi teisę taikyti valdymo įmonėms Papildomo savanoriško pensijų kaupimo
+įstatyme numatytas poveikio priemones. Taikydama poveikio priemones, Vertybinių
+popierių komisija vadovaujasi Papildomo savanoriško pensijų kaupimo įstatymu
+tiek, kiek šis Įstatymas nenustato kitaip.
+Straipsnio
+pakeitimai:
+Nr. X-972, 2006-12-12,
+Žin., 2006, Nr. 144-5462 (2006-12-30)
  
-18 straipsnis. Reikalavimai valdymo
-įmonės kapitalui
+18 straipsnis.
+Reikalavimai valdymo įmonės kapitalui
 1. Pensijų
 kaupimo veikla pagal šį Įstatymą užsiimančios valdymo įmonės ir pradinis, ir
 įstatinis kapitalas turi būti ne mažesni kaip 300 000 eurų. 
-2. Ne mažiau
-kaip 250 000 eurų valdymo įmonės nuosavo kapitalo turi būti investuota į
+2. Ne mažiau kaip
+250 000 eurų valdymo įmonės nuosavo kapitalo turi būti investuota į
 diversifikuotą investicijų portfelį. Jam taikomi Papildomo savanoriško pensijų
 kaupimo įstatymo 46, 47 ir 49 straipsniuose nustatyti investavimo reikalavimai.
  
+18(1) straipsnis. Valdymo įmonės teisių ir pareigų, atsirandančių iš pensijų kaupimo sutarčių, perdavimas1. Valdymo įmonė turi teisę perduoti kitai pensijų kaupimo bendrovei teises ir pareigas, atsirandančias iš pensijų kaupimo sutarčių, tik gavusi priežiūros institucijos leidimą.2. Valdymo įmonė privalo perduoti teises ir pareigas, atsirandančias iš pensijų kaupimo sutarčių, kitai pensijų kaupimo bendrovei šiais atvejais:1) teismui priėmus sprendimą likviduoti valdymo įmonę;2) prieš pradėdama savanorišką likvidavimo procedūrą;3) kai valdymo įmonei iškelta bankroto byla;4) priežiūros institucijos sprendimu pritaikius poveikio priemonę įpareigoti valdymo įmonę perduoti teises ir pareigas, atsirandančias iš pensijų kaupimo sutarčių, kitai pensijų kaupimo bendrovei;5) kai panaikinamas valdymo įmonės veiklos licencijos galiojimas;6) kai sustabdomas valdymo įmonės veiklos licencijos galiojimas. 3. Valdymo įmonė apie ketinimą perleisti teises ir pareigas, atsirandančias iš pensijų kaupimo sutarčių, privalo informuoti dalyvius priežiūros institucijos nustatyta tvarka ir terminais. Teisių ir pareigų, atsirandančių iš pensijų kaupimo sutarčių, perleidimo tvarką nustato priežiūros institucija.4. Perduodant teises ir pareigas pagal pensijų kaupimo sutartis, dalyvių sutikimas nereikalingas, tačiau iki teisių ir pareigų perdavimo privalo būti sudarytos sąlygos dalyviams patiems pereiti į kitą pensijų kaupimo bendrovę be atskaitymų iš jų pensijų turto, numatytų šio Įstatymo 14 straipsnio 4 ir 5 dalyse.5. Tais atvejais, kai dėl valdymo įmonės teisių ir pareigų pagal pensijų kaupimo sutartis perdavimo pensijų fondai sujungiami, naujoji pensijų kaupimo bendrovė turi teisę pakeisti pensijų fondo, kurio dalyvių atžvilgiu ji perima teises ir pareigas, taisykles, kiek tai būtina siekiant suvienodinti dalyvavimo jos valdomame bei perimame pensijų fonduose sąlygas. Šiuo atveju su pensijų fondo taisyklių pakeitimais nesutinkantys pensijų fondo, kurio dalyvių atžvilgiu teises ir pareigas perima kita pensijų kaupimo bendrovė, dalyviai per 3 mėnesius nuo sprendimo sujungti pensijų fondus priėmimo turi teisę pereiti į jų pasirinktą kitos pensijų kaupimo bendrovės valdomą pensijų fondą be šio Įstatymo 14 straipsnio 4 ir 5 dalyse nustatytų atskaitymų.6. Perduodant teises ir pareigas pagal pensijų kaupimo sutartis, kartu perduodamas ir pensijų turtas.7. Perduodant valdymo įmonės teises ir pareigas kitai pensijų kaupimo bendrovei, taikomos ir šio Įstatymo 8 straipsnyje nustatytos sąlygos.
+Įstatymas
+papildytas straipsniu:
+Nr. X-972, 2006-12-12,
+Žin., 2006, Nr. 144-5462 (2006-12-30)
  
 PENKTASIS
 SKIRSNIS
 DRAUDIMO
 ĮMONIŲ PENSIJŲ KAUPIMO VEIKLOS YPATUMAI 
-            
-19 straipsnis.
-Draudimo įmonių teisė užsiimti pensijų kaupimo veikla
+ 
+19
+straipsnis. Draudimo įmonių teisė užsiimti pensijų kaupimo veikla
 1. Draudimo įmonei teisę vykdyti pensijų kaupimo veiklą
 suteikia draudimo veiklos licencija, išduota gyvybės draudimo šakos pensijų
 kaupimo veiklos draudimo grupės veiklai.
@@ -715,23 +1002,25 @@ draudimo įmokos dalies kaupimo pensijų fondas (gali būti vartojama šių žod
 junginio santrumpa).
 3. Pensijų kaupimo veiklą vykdančioms draudimo įmonėms taikomas Draudimo įstatymas, kiek šis Įstatymas nenustato
 kitaip. 
-4. Pensijų kaupimo veiklą vykdančioms draudimo įmonėms
-mutatis mutandis taikomi Papildomo savanoriško pensijų kaupimo įstatymo antrojo
-skirsnio 6 straipsnio 10 punktas, 10, 12 (išskyrus 1 dalies 2, 4, 5, 6, 8
-punktus), 14 straipsniai, trečiojo skirsnio 23, 24, 30, 31 (išskyrus 1–6
-dalis), 34, 35 straipsniai, ketvirtasis – šeštasis skirsniai (išskyrus 53
-straipsnio 1 ir 4 dalis). Vertybinių popierių komisijai priskirtas teises turi
-ir jos funkcijas draudimo įmonių atžvilgiu pagal Draudimo įstatymą draudimo
+4. Pensijų
+kaupimo veiklą vykdančioms draudimo įmonėms mutatis mutandis taikomi
+Papildomo savanoriško pensijų kaupimo įstatymo antrojo skirsnio 6 straipsnio 10
+punktas, 10, 12 (išskyrus 1 dalies 2, 4, 5, 6, 8 punktus), 14 straipsniai,
+trečiojo skirsnio 23, 24, 30, 31 (išskyrus 1, 2, 3, 5, 6 dalis), 34, 35
+straipsniai, ketvirtasis – šeštasis skirsniai (išskyrus 53 straipsnio 1 ir 4
+dalis, 54 straipsnį). Vertybinių popierių komisijai priskirtas teises turi ir
+jos funkcijas vykdo draudimo įmonių atžvilgiu pagal Draudimo įstatymą draudimo
 veiklos priežiūrą atliekanti institucija.
 Straipsnio
 pakeitimai:
 Nr.
-IX-2254,
-2004-06-01, Žin., 2004, Nr. 96-3521 (2004-06-19)
+IX-2254, 2004-06-01,
+Žin., 2004, Nr. 96-3521 (2004-06-19)
+Nr. X-972, 2006-12-12,
+Žin., 2006, Nr. 144-5462 (2006-12-30)
  
-20
-straipsnis. Draudimo įmonės teisių ir pareigų, atsirandančių iš pensijų kaupimo
-sutarčių, perdavimas
+20 straipsnis. Draudimo įmonės teisių ir pareigų,
+atsirandančių iš pensijų kaupimo sutarčių, perdavimas
 1. Draudimo įmonė gali
 perduoti kitai pensijų kaupimo bendrovei teises ir pareigas, atsirandančias iš
 pensijų kaupimo sutarčių, tik gavusi priežiūros institucijos leidimą.
@@ -760,24 +1049,26 @@ kaupimo sutarčių, privalo informuoti dalyvius priežiūros institucijos nustat
 tvarka ir terminais. Teisių ir pareigų pagal pensijų kaupimo sutartis
 perleidimo tvarką nustato priežiūros institucija.
 4. Perduodant
-teises ir pareigas pagal pensijų kaupimo sutartis dalyvių sutikimas
-nereikalingas, tačiau iki teisių ir pareigų perdavimo privalo būti sudarytos
-sąlygos dalyviams patiems pereiti į kitą pensijų kaupimo bendrovę be atskaitymų
-iš jų pensijų turto, numatytų šio Įstatymo 14 straipsnio 4 ir 5 dalyse.
+teises ir pareigas pagal pensijų kaupimo sutartis dalyvių sutikimas nereikalingas,
+tačiau iki teisių ir pareigų perdavimo privalo būti sudarytos sąlygos dalyviams
+patiems pereiti į kitą pensijų kaupimo bendrovę be atskaitymų iš jų pensijų
+turto, numatytų šio Įstatymo 14 straipsnio 4 ir 5 dalyse.
 5. Perduodant
 teises ir pareigas pagal pensijų kaupimo sutartis kartu perduodamas ir
 pensijų turtas. 
 6. Perduodant
 draudimo įmonės teises ir pareigas kitai pensijų kaupimo bendrovei, taikomos ir
-šio Įstatymo 8 straipsnyje nustatytos sąlygos.
+šio Įstatymo 8 straipsnyje nustatytos sąlygos bei 18(1) straipsnio 5
+dalies nuostatos.
 Straipsnio
 pakeitimai:
 Nr.
 IX-2254,
 2004-06-01, Žin., 2004, Nr. 96-3521 (2004-06-19)
+Nr. X-972, 2006-12-12,
+Žin., 2006, Nr. 144-5462 (2006-12-30)
  
-ŠEŠTASIS
-SKIRSNIS
+ŠEŠTASIS SKIRSNIS
 PENSIJŲ
 IŠMOKOS
  
@@ -798,8 +1089,8 @@ Nr.
 X-374,
 2005-10-18, Žin., 2005, Nr. 127-4535 (2005-10-27)
  
-22 straipsnis.
-Pensijų išmokos
+22
+straipsnis. Pensijų išmokos
 1. Pensijų
 išmokos gali būti mokamos šiais būdais:
 1) Įstatymo
@@ -821,19 +1112,19 @@ faksimilės. Pensijų išmokos sutartyje, be kitų sąlygų, turi būti nurodyta
 suma, už kurią dalyvis privalo įsigyti pensijų anuitetą pagal šio Įstatymo 23
 straipsnio 2 dalyje numatytas sąlygas, jei pensijų anuiteto įsigijimas
 yra privalomas. Pensijų kaupimo bendrovė apie pensijų išmokos sutarties
-sudarymo faktą privalo per 3 darbo dienas elektroniniu būdu pranešti VSDF valdybai
-suderinta informacijos pateikimo tvarka. Pensijų išmokos sutartis įsigalioja
-nuo jos pasirašymo momento.
+sudarymo faktą privalo per 3 darbo dienas elektroniniu būdu pranešti VSDF
+valdybai suderinta informacijos pateikimo tvarka. Pensijų išmokos sutartis
+įsigalioja nuo jos pasirašymo momento.
 3. Sudarius
 pensijų išmokos sutartį, dalyviui priklausantis pensijų turtas iki išmokėjimo
 lieka jo asmeninėje pensijų sąskaitoje. 
-4. Pensijų išmokos
-pradedamos mokėti nuo pensijų išmokos sutartyje nurodytos dienos, bet ne vėliau
-kaip per 30 dienų nuo pensijų išmokos sutarties sudarymo, išskyrus atvejus kai
-pensijų išmokos sutartyje nustatyta pensijų išmoką ar jos dalį išmokėti
-nuperkant pensijų anuitetą. Tokiu atveju pensijų išmokos išmokamos per 30 dienų
-po to, kai pensijų kaupimo bendrovė iš draudimo įmonės gauna informaciją apie
-dalyvio sudarytą pensijų anuiteto sutartį.
+4. Pensijų
+išmokos pradedamos mokėti nuo pensijų išmokos sutartyje nurodytos dienos, bet
+ne vėliau kaip per 30 dienų nuo pensijų išmokos sutarties sudarymo, išskyrus
+atvejus kai pensijų išmokos sutartyje nustatyta pensijų išmoką ar jos dalį
+išmokėti nuperkant pensijų anuitetą. Tokiu atveju pensijų išmokos išmokamos per
+30 dienų po to, kai pensijų kaupimo bendrovė iš draudimo įmonės gauna
+informaciją apie dalyvio sudarytą pensijų anuiteto sutartį.
 5. Pensijų
 kaupimo bendrovė atsako už laiku ir teisingą pensijų išmokų mokėjimą pagal
 pensijų išmokos sutartyje nustatytas sąlygas. Pensijų išmokų mokėjimą prižiūri
@@ -868,8 +1159,8 @@ Nr.
 X-374,
 2005-10-18, Žin., 2005, Nr. 127-4535 (2005-10-27)
  
-23 straipsnis.
-Pensijų išmokų pasirinkimas
+23
+straipsnis. Pensijų išmokų pasirinkimas
 1. Pensijų
 kaupimo bendrovė kiekvienam dalyviui, įgijusiam teisę gauti pensijų išmoką ir
 raštu pareiškusiam valią dėl jos išmokėjimo, apskaičiuoja jo
@@ -903,25 +1194,30 @@ neužkerta kelio dalyviui vietoj periodinės ar vienkartinės pensijų išmokos
 kuriam pensijų anuiteto įsigijimas yra privalomas, turi teisę pasirinkti
 pensijų anuiteto mokėtoją ir, kiek tai neprieštarauja šiam Įstatymui, pensijų
 anuiteto rūšį. 
-7. Pensijų
-anuitetai gali būti mokami pensijų anuiteto sutartyje numatytą laikotarpį
-dalyvio įpėdiniams po jo mirties.
+7. Pensijų anuitetai
+gali būti mokami pensijų anuiteto sutartyje numatytą laikotarpį dalyvio
+įpėdiniams po jo mirties.
 Straipsnio
 pakeitimai:
 Nr.
 X-374,
 2005-10-18, Žin., 2005, Nr. 127-4535 (2005-10-27)
  
-24 straipsnis.
-Pensijų anuiteto mokėjimas
+24
+straipsnis. Pensijų anuiteto mokėjimas
 1. Pensijų
 anuitetas yra mokamas pensijų anuiteto sutarties, apmokėtos vienkartine įmoka
 iš dalyvio vardu pensijų fonde sukaupto pensijų turto, pagrindu. Ši vienkartinė
 įmoka mokama pensijų išmokos sutarties pagrindu draudimo įmonei, su kuria
 dalyvis sudarė pensijų anuiteto sutartį dėl pensijų anuiteto mokėjimo sąlygų.
-2. Teisę vykdyti
-pensijų anuitetų veiklą turi draudimo įmonė, Draudimo įstatymo nustatyta tvarka
-gavusi priežiūros institucijos išduodamą leidimą.
+2. Draudimo
+įmonei teisę vykdyti pensijų anuitetų veiklą suteikia draudimo veiklos
+licencija, išduota Draudimo įstatymo 7 straipsnio 2 dalies 1 punkte nurodytos
+draudimo grupės veiklai. Pensijų anuiteto sutarčių draudimo taisyklėse turi
+būti nurodyta Draudimo įstatyme numatyta informacija ir šiame Įstatyme nurodyta
+informacija, susijusi su pensijų anuitetu ir jo mokėjimu. Draudimo priežiūros
+institucija turi teisę nustatyti ir kitą informaciją, kuri turi būti nurodyta
+pensijų anuiteto sutarčių draudimo taisyklėse.
 3. Pensijų
 anuitetų veiklą vykdančiai draudimo įmonei draudžiama atsisakyti sudaryti ar
 kitaip vengti sudaryti pensijų anuiteto sutartį su dalyviu, šio Įstatymo
@@ -944,9 +1240,13 @@ anuitetas pradedamas mokėti nuo pensijų anuiteto sutartyje nurodytos dienos.
 Pensijų anuiteto mokėjimo teisingumą prižiūri draudimo priežiūros institucija.
 7. Pensijų
 anuiteto sutartį galima nutraukti tik įstatymų nustatytais atvejais.
+Straipsnio
+pakeitimai:
+Nr. X-972, 2006-12-12,
+Žin., 2006, Nr. 144-5462 (2006-12-30)
  
-25
-straipsnis. Valstybinių socialinio draudimo pensijų ir pensijų išmokų santykis
+25 straipsnis. Valstybinių socialinio
+draudimo pensijų ir pensijų išmokų santykis
 1. Asmenims,
 dalyvavusiems pensijų kaupime, valstybinių socialinio draudimo senatvės pensijų
 dydis Valstybinių socialinio draudimo pensijų įstatymo nustatyta tvarka
@@ -957,16 +1257,16 @@ draudimo senatvės pensijų dydis jiems nemažinamas.
 3. Dalyviams,
 kuriems paskirta ir mokama valstybinė socialinio draudimo netekto darbingumo
 (iki 2005 m. liepos 1 d. - invalidumo) pensija,
-sukakus senatvės pensijos amžių, skiriama valstybinė socialinio draudimo senatvės
-pensija laikantis šio straipsnio 1 ir 2 dalių nuostatų.
+sukakus senatvės pensijos amžių, skiriama valstybinė socialinio draudimo
+senatvės pensija laikantis šio straipsnio 1 ir 2 dalių nuostatų.
 Straipsnio pakeitimai:
 Nr. IX-2541,
 2004-11-04, Žin., 2004, Nr. 171-6301 (2004-11-26)
 Nr. X-208, 2005-05-19,
 Žin., 2005, Nr. 71-2554 (2005-06-07)
  
-26 straipsnis.
-Išmokos migruojantiems asmenims
+26
+straipsnis. Išmokos migruojantiems asmenims
 1. Asmenims,
 išvykstantiems nuolat gyventi į kitą valstybę, pensijų fonde šių asmenų
 sukauptos lėšos neišmokamas, kol jie sukaks senatvės pensijos amžių.
@@ -974,8 +1274,7 @@ sukauptos lėšos neišmokamas, kol jie sukaks senatvės pensijos amžių.
 nurodyti šio straipsnio 1 dalyje, teisę į pensijų išmokas įgyja šio Įstatymo
 nustatyta tvarka. 
  
-SEPTINTASIS
-SKIRSNIS
+SEPTINTASIS SKIRSNIS
 VALSTYBINĖ
 PRIEŽIŪRA IR ATSAKOMYBĖ UŽ ĮSTATYMO PAŽEIDIMUS
  
@@ -990,8 +1289,8 @@ Depozitoriumas, su kuriuo pensijų kaupimo bendrovė yra sudariusi pensijų fond
 turto saugojimo sutartį, privalo pensijų kaupimo bendrovei pateikti visus
 dokumentus, reikalingus finansinei atskaitomybei sudaryti.
  
-28
-straipsnis. Priežiūros institucijos teisės
+28 straipsnis. Priežiūros
+institucijos teisės
 1.
 Priežiūros institucijos, be kituose įstatymuose nustatytų teisių, turi teisę:
 1)
@@ -1021,6 +1320,8 @@ iš pensijų kaupimo sutarčių;
 Papildomo savanoriško pensijų kaupimo įstatymo nustatyta tvarka apriboti arba
 uždrausti pensijų turto investicijas, arba kitaip apriboti disponavimo pensijų
 turtu teises.
+ 
+3 dalies redakcija iki 2007 m. liepos 1 d.:
 3.
 Priežiūros institucijos teikia Socialinės apsaugos ir darbo ministerijai
 informaciją apie pensijų kaupimo bendrovių veiklos rezultatus, šiame
@@ -1037,6 +1338,23 @@ sutarčių, perdavimą kitai pensijų kaupimo bendrovei bei kitą su pensijų ka
 veikla susijusią informaciją, būtiną administruojant dalyvių registrą. Duomenų
 teikimo tvarka ir terminai nustatomi priežiūros institucijų ir VSDF valdybos
 susitarime dėl pasikeitimo informacija.
+3 dalies redakcija nuo 2007 m. liepos 1 d.:
+3. Priežiūros
+institucijos teikia Socialinės apsaugos ir darbo ministerijai informaciją apie
+pensijų kaupimo bendrovių veiklos rezultatus, šiame straipsnyje nurodytų
+poveikio priemonių, susijusių su teisės verstis pensijų kaupimo veikla
+apribojimu, taikymą pensijų kaupimo bendrovėms ir kitą informaciją, nustatytą
+Socialinės apsaugos ir darbo ministerijos bei priežiūros institucijos susitarime
+dėl pasikeitimo informacija. VSDF valdybai priežiūros institucijos teikia
+informaciją apie pensijų kaupimo bendrovių rekvizitus, pensijų kaupimo
+bendrovėms išduotas licencijas pensijų kaupimo veiklai, poveikio priemonių,
+susijusių su teisės verstis pensijų kaupimo veikla apribojimu, taikymą, pensijų
+kaupimo bendrovės reorganizavimą, pertvarkymą, likvidavimą, bankrotą, teisių ir
+pareigų, atsirandančių iš pensijų kaupimo sutarčių, perdavimą kitai pensijų
+kaupimo bendrovei bei kitą su pensijų kaupimo veikla susijusią informaciją,
+būtiną tvarkant sutarčių registrą. Duomenų teikimo tvarka ir terminai nustatomi
+priežiūros institucijų ir VSDF valdybos susitarime dėl pasikeitimo informacija.
+ 
 4.
 VSDF valdyba teikia priežiūros institucijoms informaciją apie konkrečios
 pensijų kaupimo bendrovės valdomų pensijų fondų dalyvius, į pensijų fondo
@@ -1048,9 +1366,11 @@ pakeitimai:
 Nr.
 IX-2254,
 2004-06-01, Žin., 2004, Nr. 96-3521 (2004-06-19)
+Nr. X-972, 2006-12-12,
+Žin., 2006, Nr. 144-5462 (2006-12-30)
  
-29 straipsnis. Pensijų kaupimo bendrovių
-atsakomybė
+29 straipsnis.
+Pensijų kaupimo bendrovių atsakomybė
 1. Už šio bei
 kitų įstatymų ir teisės aktų, reglamentuojančių pensijų kaupimą, pažeidimus
 pensijų kaupimo bendrovės atsako įstatymų nustatyta tvarka.
@@ -1058,8 +1378,8 @@ pensijų kaupimo bendrovės atsako įstatymų nustatyta tvarka.
 Asmenys turi teisę apskųsti atitinkamoms priežiūros institucijoms pensijų
 kaupimo bendrovių veiksmus.
  
-30 straipsnis.
-Atsakomybė įmokų mokėjimo vėlavimo atveju
+30
+straipsnis. Atsakomybė įmokų mokėjimo vėlavimo atveju
 1. VSDF valdyba
 pensijų kaupimo bendrovių valdomiems pensijų fondams moka delspinigius už
 lėšas, pervestas joms pavėluotai dėl savo kaltės. Delspinigių dydį ir
@@ -1088,6 +1408,7 @@ PAKSAS
 __________________
  
 Pakeitimai:
+ 
 1.
 Lietuvos
 Respublikos Seimas, Įstatymas
@@ -1119,9 +1440,9 @@ X-208,
 NEĮGALIŲJŲ
 SOCIALINĖS INTEGRACIJOS ĮSTATYMO, VALSTYBINIŲ PENSIJŲ ĮSTATYMO, MOKSLININKŲ
 VALSTYBINIŲ PENSIJŲ LAIKINOJO ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO
-SENATVĖS PENSIJŲ IŠANKSTINIO MOKĖJIMO ĮSTATYMO, TEISĖJŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO,
-PENSIJŲ KAUPIMO ĮSTATYMO, LIETUVOS NEPRIKLAUSOMYBĖS AKTO SIGNATARŲ STATUSO
-ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+SENATVĖS PENSIJŲ IŠANKSTINIO MOKĖJIMO ĮSTATYMO, TEISĖJŲ VALSTYBINIŲ PENSIJŲ
+ĮSTATYMO, PENSIJŲ KAUPIMO ĮSTATYMO, LIETUVOS NEPRIKLAUSOMYBĖS AKTO SIGNATARŲ
+STATUSO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis
 įstatymas, išskyrus antrojo skirsnio 3 straipsnį, įsigalioja nuo 2005 m. liepos
 1 d.
@@ -1134,11 +1455,45 @@ Nr. X-374, 2005-10-18,
 PENSIJŲ
 KAUPIMO ĮSTATYMO 21, 22 IR 23 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
+5.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-972,
+2006-12-12, Žin., 2006, Nr. 144-5462 (2006-12-30)
+PENSIJŲ
+KAUPIMO ĮSTATYMO 3, 4, 6, 7, 8, 10, 12, 13, 15, 17, 19, 20, 24, 28 STRAIPSNIŲ
+PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 13(1) IR 18(1) STRAIPSNIAIS
+ĮSTATYMAS
+Šis įstatymas, išskyrus 3 straipsnio 1
+dalį, 5, 7, 8, 11, 12, 13, 14, 15 ir 18 straipsnius, įsigalioja nuo 2007 m.
+liepos 1 d.
+Vyriausybė ar jos įgaliota institucija
+iki 2007 m. liepos 1 d. parengia ir patvirtina pensijų kaupimo sutarčių
+registro nuostatus.
+Pensijų kaupimo bendrovės iki 2007 m.
+liepos 1 d. privalo parengti ir priežiūros institucijai pateikti taisykles,
+nustatančias pensijų kaupimo bendrovės valdomų pensijų fondų lyginamųjų indeksų
+pasirinkimo ir keitimo kriterijus bei tvarką.
+Pensijų kaupimo
+bendrovės iki 2007 m. liepos 1 d. privalo suderinti jų valdomų pensijų fondų
+taisykles su šio įstatymo nuostatomis ir pateikti jas tvirtinti priežiūros
+institucijai. Šiuo atveju pensijų fondų taisyklių pakeitimai įsigalioja
+praėjus 30 dienų nuo jų patvirtinimo priežiūros institucijoje, bet ne anksčiau,
+negu įsigalioja šio įstatymo 9 straipsnis. Šiems pensijų fondų taisyklių
+pakeitimams pensijų fondų dalyvių sutikimas nebūtinas. Pensijų kaupimo
+bendrovės turi teisę pranešti dalyviams apie pensijų fondų taisyklių pakeitimus
+pateikdamos artimiausią Papildomo savanoriško pensijų kaupimo įstatymo 51
+straipsnio 1 dalyje numatytą pranešimą. Šiuo atveju Papildomo savanoriško
+pensijų kaupimo įstatymo 23 straipsnio 6 dalies pirmo sakinio nuostatos
+netaikomos.
+ 
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2005-10-28)
+Aušrinė Trapinskienė (2007-01-08)
                  
 autrap@lrs.lt
