@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F789235C18BB"
 
 # Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymas
 
-Suvestinė redakcija nuo 2006-12-28 iki 2006-12-31
+Suvestinė redakcija nuo 2007-01-01 iki 2007-02-07
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 123-5540, i. k. 1021010ISTA0IX-1253
  
@@ -45,7 +45,10 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 
-1. Centralizuota vidaus audito tarnyba – viešojo juridinio asmens departamentas, skyrius arba kitas savarankiškas padalinys, įsteigtas atlikti vidaus auditą viešajame juridiniame asmenyje bei visuose jam pavaldžiuose ir (arba) jo valdymo sričiai priskirtuose viešuosiuose juridiniuose asmenyse.
+1. Centralizuota vidaus audito tarnyba – viešojo juridinio asmens struktūrinis padalinys (skyrius, departamentas), įsteigtas atlikti vidaus auditą viešajame juridiniame asmenyje bei visuose jam pavaldžiuose ir (arba) jo valdymo sričiai priskirtuose viešuosiuose juridiniuose asmenyse. 
+Straipsnio dalies pakeitimai:
+Nr. X-806, 2006-09-14, Žin., 2006, Nr. 107-4044 (2006-10-06), i. k. 1061010ISTA000X-806
+ 
 
 
 
@@ -70,7 +73,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-6. Vidaus audito tarnyba – viešojo juridinio asmens departamentas, skyrius arba kitas savarankiškas padalinys, įsteigtas atlikti vidaus auditą.
+6. Vidaus audito tarnyba – viešojo juridinio asmens struktūrinis padalinys (skyrius, departamentas), įsteigtas atlikti vidaus auditą viešajame juridiniame asmenyje. 
+Straipsnio dalies pakeitimai:
+Nr. X-806, 2006-09-14, Žin., 2006, Nr. 107-4044 (2006-10-06), i. k. 1061010ISTA000X-806
+ 
 
 
 
@@ -307,6 +313,14 @@ Nr. IX-1766, 2003-10-14, Žin., 2003, Nr. 102-4584 (2003-10-31), i. k. 1031010IS
 
 
 4. Tuo atveju, kai šio straipsnio 2 dalyje nurodytuose viešuosiuose juridiniuose asmenyse yra patvirtinta mažiau kaip 200 pareigybių (etatų), juose steigėjo (steigėjų) arba Vyriausybės sprendimu gali būti įsteigta vidaus audito tarnyba arba vidaus auditą atlieka viešojo juridinio asmens steigėjo vidaus audito tarnyba. Kai viešojo juridinio asmens steigėjas (steigėjai) nėra viešasis juridinis asmuo, perdavęs valdyti, naudoti valstybės arba savivaldybės turtą bei juo disponuoti, vidaus auditą atlieka viešojo juridinio asmens, perdavusio valstybės arba savivaldybės turtą, vidaus audito tarnyba. Kai viešąjį juridinį asmenį yra įsteigę keli steigėjai, viešojo juridinio asmens vidaus auditą atlieka steigėjų bendru sprendimu paskirta viešojo juridinio asmens vidaus audito tarnyba. 
+
+
+
+
+5. Vidaus audito tarnybą arba centralizuotą vidaus audito tarnybą kaip skyrių sudaro ne mažiau kaip 3 pareigybės. Vidaus audito tarnybą arba centralizuotą vidaus audito tarnybą kaip departamentą sudaro ne mažiau kaip 3 skyriai. 
+Papildyta straipsnio dalimi:
+Nr. X-806, 2006-09-14, Žin., 2006, Nr. 107-4044 (2006-10-06), i. k. 1061010ISTA000X-806
+ 
 
 
 
