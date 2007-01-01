@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B4DBBD7C388A"
 
 # Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymas
 
-Suvestinė redakcija nuo 2001-09-01 iki 2006-12-31
+Suvestinė redakcija nuo 2007-01-01 iki 2010-01-04
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 89-1985, i. k. 0951010ISTA00I-1057
  
@@ -436,28 +436,15 @@ Religinės bendruomenės, bendrijos ir centrai turi teisę įstatymų nustatyta 
 
 
 
-16 straipsnis.       Religinių bendruomenių, bendrijų ir centrų bei juose dirbančių asmenų apmokestinimas
+16 straipsnis. Religinių bendruomenių, bendrijų ir centrų bei juose dirbančių asmenų apmokestinimas
 
 
-Visų religinių bendruomenių, bendrijų ir centrų (aukštesniųjų valdymo institucijų) pajamos - aukos, pajamos pardavus labdaros būdu gautą turtą – neapmokestinamos, jeigu jos skiriamos maldos namams statyti, jiems remontuoti ar restauruoti, labdarai, kultūrai ir švietimui.
+Religinių bendruomenių, bendrijų ir centrų (aukštesniųjų valdymo institucijų), jų įsteigtų įmonių (organizacijų) pajamos, taip pat religinių bendruomenių, bendrijų ir centrų (aukštesniųjų valdymo institucijų) dvasininkų, religinių apeigų patarnautojų ir aptarnaujančio personalo pajamos apmokestinamos Lietuvos Respublikos mokesčių įstatymų nustatyta tvarka.
 
 
-
-
-Religinių bendruomenių, bendrijų ir centrų dvasininkų, religinių apeigų patarnautojų ir aptarnaujančio personalo (išskyrus asmenis, atliekančius statybos, remonto, restauravimo darbus) pajamos, gaunamos iš šio straipsnio pirmojoje dalyje nurodytų lėšų, fizinių asmenų pajamų mokesčiu neapmokestinamos.
-
-
-
-
-Juridinio asmens teises turinčių religinių bendruomenių, bendrijų ir centrų įgaliojimu per Lietuvos Respublikos sieną įvežami religiniai reikmenys ir literatūra muito mokesčiais neapmokestinami.
-
-
-
-
-Religinių bendruomenių, bendrijų ir centrų įsteigtos įmonės (organizacijos) apmokestinamos pagal galiojančius įstatymus.
+Straipsnio pakeitimai:
+Nr. X-981, 2006-12-12, Žin., 2006, Nr. 144-5463 (2006-12-30), i. k. 1061010ISTA000X-981
  
-
-
 
 
 
@@ -571,3 +558,8 @@ Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymo 10 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1677, 2000-05-11, Žin., 2000, Nr. 40-1115 (2000-05-17), i. k. 1001010ISTAIII-1677
 Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymo 14 straipsnio papildymo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-981, 2006-12-12, Žin., 2006, Nr. 144-5463 (2006-12-30), i. k. 1061010ISTA000X-981
+Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymo 16 straipsnio pakeitimo įstatymas
