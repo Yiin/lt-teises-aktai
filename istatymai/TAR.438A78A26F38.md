@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.438A78A26F38"
 
 # Lietuvos Respublikos Prezidento įstatymas
 
-Suvestinė redakcija nuo 2004-06-24 iki 2006-12-31
+Suvestinė redakcija nuo 2007-01-01 iki 2008-12-31
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 5-89, i. k. 0931010ISTA0000I-56
  
@@ -462,10 +462,10 @@ Respublikos Prezidento šeimos apsaugą užtikrina specialios paskirties tarnyba
 
 
 
-Kadenciją baigusiam Respublikos Prezidentui iki gyvos galvos:
+Respublikos Prezidentui, kurio įgaliojimai nutrūko Lietuvos Respublikos Konstitucijos 88 straipsnio 1, 2, 3 ir 6 punktuose nustatytais pagrindais, iki gyvos galvos:
 
 
-1) nustatoma 50 procentų Respublikos Prezidento darbo užmokesčio dydžio pensija per mėnesį;
+1) Respublikos Prezidento valstybinė renta skiriama ir mokama Lietuvos Respublikos Prezidento valstybinės rentos įstatymo nustatytomis sąlygomis ir tvarka;
 
 
 
@@ -476,6 +476,7 @@ Kadenciją baigusiam Respublikos Prezidentui iki gyvos galvos:
 Straipsnio dalies pakeitimai:
 2002-06-19, Žin., 2002, Nr. 62-2515 (2002-06-21), i. k. 1021000NUTARG021955            
 Nr. IX-1813, 2003-11-11, Žin., 2003, Nr. 112-4992 (2003-11-28), i. k. 1031010ISTA0IX-1813
+Nr. X-978, 2006-12-12, Žin., 2006, Nr. 141-5404 (2006-12-28), i. k. 1061010ISTA000X-978
  
 
 
@@ -684,3 +685,8 @@ Lietuvos Respublikos Prezidento įstatymo 1, 3, 5, 7, 8, 9, 13, 15, 20 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2276, 2004-06-15, Žin., 2004, Nr. 98-3631 (2004-06-24), i. k. 1041010ISTA0IX-2276
 Lietuvos Respublikos Prezidento įstatymo 16 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-978, 2006-12-12, Žin., 2006, Nr. 141-5404 (2006-12-28), i. k. 1061010ISTA000X-978
+Lietuvos Respublikos Prezidento įstatymo, Valstybinių pensijų įstatymo, Vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo pakeitimo ir papildymo bei Valstybinių pensijų įstatymo 2 ir 11 straipsnių pakeitimo įstatymo 1 straipsnio pripažinimo netekusiu galios įstatymas
