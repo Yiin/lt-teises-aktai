@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3081296EB949"
 
 # Lietuvos Respublikos Tarnybos Lietuvos Respublikos muitinėje statuto patvirtinimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2005-12-22 iki 2006-12-31
+Suvestinė redakcija nuo 2007-01-01 iki 2007-01-10
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2917; Žin. 2003, Nr.64-2881, i. k. 1001010ISTAIII-1986
  
@@ -55,6 +55,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
  
 
+ 
 PATVIRTINTA
 Lietuvos Respublikos
 2000 m. spalio 10 d.
@@ -322,9 +323,10 @@ DRAUDIMAI MUITINĖS PAREIGŪNAMS, JŲ TEISĖS IR PAREIGOS
 
 7) darbo metu dalyvauti politinėje veikloje.
 
-2. Muitinės pareigūnams draudžiama muitinės postų teritorijoje tarnybos metu turėti alkoholinių gėrimų, didesnę kaip 25 procentų minimalios mėnesinės algos dydžio pinigų sumą (litais ir (arba) eurais), bet kokią sumą užsienio valiuta (išskyrus eurus), taip pat Muitinės departamento generalinio direktoriaus įsakymu nustatytų ryšio priemonių, tauriųjų metalų, brangakmenių ir kitų tarnybos metu nereikalingų daiktų. 
+2. Muitinės pareigūnams draudžiama muitinės postų teritorijoje tarnybos metu turėti alkoholinių gėrimų, didesnę kaip 25 procentų pareiginės algos bazinio dydžio (toliau – bazinis dydis) pinigų sumą (litais ir (arba) eurais), bet kokią sumą užsienio valiuta (išskyrus eurus), taip pat Muitinės departamento generalinio direktoriaus įsakymu nustatytų ryšio priemonių, tauriųjų metalų, brangakmenių ir kitų tarnybos metu nereikalingų daiktų. 
 Straipsnio dalies pakeitimai:
 Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010ISTA0IX-2186
+Nr. X-790, 2006-07-19, Žin., 2006, Nr. 87-3401 (2006-08-08), i. k. 1061010ISTA000X-790
  
 
 3. Muitinės departamento generaliniam direktoriui, jo pavaduotojams, muitinės įstaigų vadovams ir jų pavaduotojams draudžiama būti jų vadovaujamų įstaigų profesinių sąjungų nariais.
@@ -748,25 +750,28 @@ Muitinės pareigūnų darbo apmokėjimo tvarką nustato Valstybės tarnybos įst
 2. Muitinės pareigūnams priedas už trečią kvalifikacinę kategoriją sudaro 10 procentų pareiginės algos, už antrą kvalifikacinę kategoriją – 20 procentų pareiginės algos, už pirmą kvalifikacinę kategoriją – 30 procentų pareiginės algos.
  
 
-48 straipsnis. Priedai už pareiginius laipsnius 
+48 straipsnis. Priedai už pareiginius laipsnius
 
-Muitinės pareigūnams nustatomi tokie priedų už pareiginius laipsnius, nustatytus Statuto 21 straipsnyje, apskaičiavimo pagal Vyriausybės patvirtintą minimalią mėnesinę algą (toliau – MMA) koeficientai:
+Muitinės pareigūnams nustatomi tokie priedų už pareiginius laipsnius, nustatytus Statuto 21 straipsnyje, apskaičiavimo pagal bazinį dydį koeficientai:
 
-1) vyriausiajam valstybės muitininkui –1 MMA;
+1) vyriausiajam valstybės muitininkui- 1 bazinio dydžio;
 
-2) vyresniajam muitininkui – 0,9 MMA;
+2) vyresniajam muitininkui – 0,9 bazinio dydžio;
 
-3) I rango muitininkui – 0,8 MMA;
+3) I rango muitininkui – 0,8 bazinio dydžio;
 
-4) II rango muitininkui – 0,7 MMA;
+4) II rango muitininkui – 0,7 bazinio dydžio;
 
-5) III rango muitininkui – 0,6 MMA;
+5) III rango muitininkui – 0,6 bazinio dydžio;
 
-6) I klasės muitininkui – 0,5 MMA;
+6) I klasės muitininkui – 0,5 bazinio dydžio;
 
-7) II klasės muitininkui – 0,4 MMA;
+7) II klasės muitininkui – 0,4 bazinio dydžio;
 
-8) III klasės muitininkui – 0,3 MMA.
+8) III klasės muitininkui – 0,3 bazinio dydžio. 
+
+Straipsnio pakeitimai:
+Nr. X-790, 2006-07-19, Žin., 2006, Nr. 87-3401 (2006-08-08), i. k. 1061010ISTA000X-790
  
 
 49 straipsnis. Darbo užmokesčio mokėjimas laikino pavedimo atlikti kitas pareigas atveju
@@ -939,4 +944,9 @@ Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto 3, 4, 5, 9
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-440, 2005-12-13, Žin., 2005, Nr. 149-5417 (2005-12-22), i. k. 1051010ISTA000X-440
 Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto 18 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-790, 2006-07-19, Žin., 2006, Nr. 87-3401 (2006-08-08), i. k. 1061010ISTA000X-790
+Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto 15 ir 48 straipsnių pakeitimo įstatymas
 
