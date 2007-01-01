@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8FBB384266D1"
 
 # Lietuvos Respublikos saugios laivybos įstatymas
 
-Suvestinė redakcija nuo 2005-07-01 iki 2006-12-31
+Suvestinė redakcija nuo 2007-01-01 iki 2008-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2264, i. k. 1001010ISTAIII-1897
  
@@ -318,7 +318,10 @@ SAUGIOS LAIVYBOS VALSTYBINIO ADMINISTRAVIMO ORGANIZAVIMAS
 
 
 
-3. Administracija išlaikoma iš valstybės biudžeto ir uostų rinkliavų atskaitymų. Šių atskaitymų dydį nustato Lietuvos Respublikos Vyriausybė.
+3. Administracija išlaikoma iš Lietuvos valstybės biudžeto.
+Straipsnio dalies pakeitimai:
+Nr. X-812, 2006-09-14, Žin., 2006, Nr. 107-4049 (2006-10-06), i. k. 1061010ISTA000X-812
+ 
 
 
 
@@ -1735,3 +1738,8 @@ Lietuvos Respublikos saugios laivybos įstatymo 52 straipsnio pakeitimo įstatym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-116, 2005-02-15, Žin., 2005, Nr. 31-974 (2005-03-05); Žin., 2005, Nr. 35-0 (2005-03-17), i. k. 1051010ISTA000X-116
 Lietuvos Respublikos saugios laivybos įstatymo pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-812, 2006-09-14, Žin., 2006, Nr. 107-4049 (2006-10-06), i. k. 1061010ISTA000X-812
+Lietuvos Respublikos saugios laivybos įstatymo 5 straipsnio pakeitimo įstatymas
