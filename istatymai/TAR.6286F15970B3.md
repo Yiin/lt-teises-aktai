@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 2005-01-01 iki 2006-12-31
+Suvestinė redakcija nuo 2007-01-01 iki 2009-01-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
  
@@ -962,7 +962,10 @@ Nr. VIII-1309, 1999-07-07, Žin. 1999, Nr. 65-2088 (1999-07-28) ; Žin. 1999, Nr
 
 
 
-2) užtikrina branduolinių ir radioaktyviųjų medžiagų krovinių transportavimo per šalies teritoriją apsaugą.
+2) teisės aktų nustatyta tvarka dalyvauja užtikrinant atominės elektrinės fizinę saugą.
+Straipsnio punkto pakeitimai:
+Nr. X-928, 2006-11-28, Žin., 2006, Nr. 137-5202 (2006-12-16), i. k. 1061010ISTA000X-928
+ 
 
 
 
@@ -1000,7 +1003,10 @@ Vidaus reikalų ministerija:
 
 
 
-4) vykdo ir užtikrina atominės elektrinės fizinę saugą;
+4) vykdo ir užtikrina atominės elektrinės ir gabenamų per šalies teritoriją branduolinių medžiagų krovinių fizinę apsaugą. 
+Straipsnio punkto pakeitimai:
+Nr. X-928, 2006-11-28, Žin., 2006, Nr. 137-5202 (2006-12-16), i. k. 1061010ISTA000X-928
+ 
 
 
 
@@ -1020,7 +1026,10 @@ Vidaus reikalų ministerija:
 
 
 
-8) teikia paramą užtikrinant branduolinių ar radioaktyviųjų medžiagų krovinių transportavimo per šalies teritoriją apsaugą.
+8) Neteko galios nuo 2007-01-01
+Straipsnio punkto naikinimas:
+Nr. X-928, 2006-11-28, Žin. 2006, Nr. 137-5202 (2006-12-16), i. k. 1061010ISTA000X-928
+ 
 
 
 
@@ -1997,7 +2006,10 @@ Nr. IX-596, 2001-11-13, Žin., 2001, Nr. 99-3528 (2001-11-28), i. k. 1011010ISTA
 
 
 
-4. Branduolinės energetikos objektų projektinę grėsmę nustato ir ne rečiau kaip kartą per metus peržiūri Lietuvos Respublikos valstybės saugumo departamentas, dalyvaujant Krašto apsaugos ministerijai, Vidaus reikalų ministerijai, VATESI ir branduolinės energetikos objektą eksploatuojančiai organizacijai.
+4. Branduolinės energetikos objektų projektinę grėsmę ir projektinę grėsmę branduolinių medžiagų gabenimui nustato ir ne rečiau kaip kartą per metus persvarsto Lietuvos Respublikos valstybės saugumo departamentas, dalyvaujant Krašto apsaugos ministerijai, Vidaus reikalų ministerijai, VATESI ir branduolinės energetikos objektą eksploatuojančiai organizacijai. 
+Straipsnio dalies pakeitimai:
+Nr. X-928, 2006-11-28, Žin., 2006, Nr. 137-5202 (2006-12-16), i. k. 1061010ISTA000X-928
+ 
 
 
 Straipsnio pakeitimai:
@@ -2601,3 +2613,8 @@ Lietuvos Respublikos branduolinės energijos įstatymo 26 ir 35 straipsnių pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2505, 2004-10-26, Žin., 2004, Nr. 163-5943 (2004-11-09); Žin., 2004, Nr. 164-0 (2004-11-11), i. k. 1041010ISTA0IX-2505
 Lietuvos Respublikos branduolinės energijos įstatymo 21 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-928, 2006-11-28, Žin., 2006, Nr. 137-5202 (2006-12-16), i. k. 1061010ISTA000X-928
+Lietuvos Respublikos branduolinės energijos įstatymo 20, 21 ir 50 straipsnių pakeitimo įstatymas
