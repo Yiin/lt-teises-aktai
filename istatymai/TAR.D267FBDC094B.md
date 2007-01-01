@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D267FBDC094B"
 
 # Lietuvos Respublikos žemės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2006-01-01 iki 2006-12-31
+Suvestinė redakcija nuo 2007-01-01 iki 2007-04-25
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 128-0; Žin. 1992, Nr.21-612, i. k. 0921010ISTA00I-2675
  
@@ -146,6 +146,14 @@ Teikiant lengvatą, prie darbingų asmenų nepriskiriami mokymo įstaigų dienin
 
 
 Kai žemės savininkai turi teisę į žemės mokesčio lengvatą ir turi ne vieną žemės sklypą, taikoma didžiausia lengvata vienam žemės sklypui.
+Papildyta straipsnio dalimi:
+Nr. X-470, 2005-12-22, Žin., 2005, Nr. 153-5640 (2005-12-31), i. k. 1051010ISTA000X-470
+ 
+
+
+
+
+Nuo žemės mokesčio taip pat atleidžiami žemės savininkai, kurių mokėtinas žemės mokestis (už visus nuosavybės teise priklausančius žemės sklypus) neviršija 5 litų.
 Papildyta straipsnio dalimi:
 Nr. X-470, 2005-12-22, Žin., 2005, Nr. 153-5640 (2005-12-31), i. k. 1051010ISTA000X-470
  
