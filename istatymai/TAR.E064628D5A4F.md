@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E064628D5A4F"
 
 # Lietuvos Respublikos aukštojo mokslo įstatymas
 
-Suvestinė redakcija nuo 2005-08-01 iki 2006-12-31
+Suvestinė redakcija nuo 2007-01-01 iki 2008-03-21
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 27-715, i. k. 1001010ISTAIII-1586
  
@@ -64,7 +64,10 @@ BENDROSIOS NUOSTATOS
 
 3. Bakalauras – kvalifikacinis laipsnis, suteikiamas asmeniui, išėjusiam nuosekliųjų universitetinių studijų pirmosios pakopos studijų programą, taip pat asmuo, turintis bakalauro kvalifikacinį laipsnį. 
 
-4. Diplomas – asmens įgytą profesinę kvalifikaciją arba profesinę kvalifikaciją ir kvalifikacinį laipsnį, taip pat mokslo laipsnį liudijantis pažymėjimas, išduodamas baigus pagrindines studijas, specialiąsias profesines studijas, magistrantūrą, meno aspirantūrą, apgynus daktaro disertaciją.
+4. Diplomas – asmens įgytą kvalifikaciją ir mokslo laipsnį liudijantis pažymėjimas, išduodamas baigus pagrindines studijas, specialiąsias profesines studijas, magistrantūrą, vientisąsias studijas, meno aspirantūrą, apgynus daktaro disertaciją. 
+Straipsnio dalies pakeitimai:
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
+ 
 
 5. Doktorantūra – mokslininkams rengti skirtos trečiosios pakopos universitetinės studijos, į kurias priimami asmenys, baigę magistrantūros ar vientisąsias studijas, moksliniai tyrimai ir disertacijos rengimas. 
 Straipsnio dalies pakeitimai:
@@ -72,11 +75,15 @@ Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00I
 Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
 
-6. Kvalifikacija – profesinė kvalifikacija arba profesinė kvalifikacija ir kvalifikacinis laipsnis (bakalauro, magistro), suteikiamas baigus atitinkamos pakopos nuosekliąsias studijas.
+6. Kvalifikacija – kvalifikacinis laipsnis (bakalauro, profesinio bakalauro, magistro, meno licenciato) ir (arba) profesinė kvalifikacija, suteikiami baigus atitinkamos pakopos nuosekliąsias studijas. 
+Straipsnio dalies pakeitimai:
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
+ 
 
-7. Kvalifikacinis laipsnis – laipsnis (bakalauro, magistro, meno licenciato), suteikiamas asmeniui, išėjusiam atitinkamą nuosekliųjų universitetinių studijų pakopos (išskyrus doktorantūrą) programą. 
+7. Kvalifikacinis laipsnis – laipsnis (bakalauro, profesinio bakalauro, magistro, meno licenciato), suteikiamas asmeniui, baigusiam atitinkamos nuosekliųjų studijų pakopos (išskyrus doktorantūrą) programą. 
 Straipsnio dalies pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
  
 
 8. Magistrantūra – asmens profesinei ir mokslinei kvalifikacijai kelti skirtos antrosios pakopos nuosekliosios universitetinės studijos. 
@@ -93,7 +100,10 @@ Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010IST
 
 12. Mokslo laipsnis – asmens mokslinę kvalifikaciją liudijantis laipsnis, suteikiamas apgynus disertaciją.
 
-13. Neuniversitetinės studijos – vienos pakopos, į praktinę veiklą orientuotos profesinės studijos aukštojoje mokykloje, sudarančios sąlygas įgyti taikomaisiais moksliniais tyrimais ir (ar) taikomąja moksline veikla grindžiamą profesinę kvalifikaciją.
+13. Neuniversitetinės studijos – pagrindinės, į praktinę veiklą orientuotos profesinės studijos aukštojoje mokykloje, sudarančios sąlygas įgyti taikomaisiais moksliniais tyrimais ir (ar) taikomąja moksline veikla grindžiamą profesinio bakalauro kvalifikacinį laipsnį ir (arba) profesinę kvalifikaciją. 
+Straipsnio dalies pakeitimai:
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
+ 
 
 14. Nenuosekliosios studijos – studijos, kai studijuojami atskiri dalykai ar jų ciklai, skirti asmens profesinei kvalifikacijai kelti ar keisti, taip pat jo profesiniam ar bendrajam išsilavinimui plėsti.
 
@@ -147,6 +157,11 @@ Papildyta straipsnio dalimi:
 Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
 
+30. Profesinis bakalauras – kvalifikacinis laipsnis, suteikiamas asmeniui, baigusiam nuosekliųjų neuniversitetinių studijų programą aukštojoje mokykloje, taip pat asmuo, turintis profesinio bakalauro kvalifikacinį laipsnį.
+Papildyta straipsnio dalimi:
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
+ 
+
 3 straipsnis. Teisė įgyti aukštąjį išsilavinimą 
 
 1. asmenys, įgiję ne žemesnį kaip vidurinį išsilavinimą, pagal sugebėjimus ir žinias turi teisę šio įstatymo nustatyta tvarka siekti įgyti aukštąjį išsilavinimą Lietuvos aukštosiose mokyklose.
@@ -163,11 +178,17 @@ Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010IST
 
 1. Studijų sistemą sudaro nuosekliosios universitetinės ir neuniversitetinės studijos aukštosiose mokyklose pagal studijų programas, įtrauktas į studijų ir mokymo programų registrą, taip pat nenuosekliosios studijos.
 
-2. Asmeniui, išėjusiam bet kurios nuosekliųjų studijų pakopos programą, aukštoji mokykla išduoda tai patvirtinantį nustatytos formos diplomą.
+2. Asmeniui, baigusiam bet kurios nuosekliųjų studijų pakopos programą, aukštoji mokykla išduoda tai patvirtinantį nustatytos formos diplomą, o baigusiam rezidentūros programą, – rezidentūros pažymėjimą. 
+Straipsnio dalies pakeitimai:
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
+ 
 
 3. Asmeniui, studijavusiam aukštojoje mokykloje pavienius dalykus arba dalykų ciklą, bet neišėjusiam kurios nors nuosekliųjų studijų pakopos visos programos, aukštosios mokyklos nustatyta tvarka išduodamas tai patvirtinantis pažymėjimas.
 
-4. Kvalifikacija, kuri suteikiama baigus atitinkamas aukštosios mokyklos nuosekliąsias studijas, nurodoma studijų programoje. Švietimo ir mokslo ministerija (toliau – Ministerija), atsižvelgdama į Lietuvos mokslo tarybos, Lietuvos universitetų rektorių konferencijos (konferencijų), Lietuvos kolegijų direktorių konferencijos (konferencijų) siūlymus, parengia sąrašą kvalifikacijų, suteikiamų baigusiems nuosekliąsias studijas pagal patvirtintas studijų kryptis. Šį sąrašą tvirtina Vyriausybė. 
+4. Kvalifikacija, kuri suteikiama baigus atitinkamas aukštosios mokyklos nuosekliąsias studijas, nurodoma studijų programoje. Švietimo ir mokslo ministerija (toliau – Ministerija), išklausiusi Lietuvos mokslo tarybos, Lietuvos universitetų rektorių konferencijos (konferencijų), Lietuvos kolegijų direktorių konferencijos (konferencijų) siūlymus, parengia sąrašą kvalifikacijų, suteikiamų baigusiems nuosekliąsias studijas pagal patvirtintas studijų kryptis. Šį sąrašą tvirtina Vyriausybė.
+Straipsnio dalies pakeitimai:
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
+ 
 
 5. Kvalifikacijos ir mokslo laipsnio suteikimą patvirtinančių dokumentų formą, jų gamybos, apskaitos, registracijos ir išdavimo tvarką nustato Vyriausybė.
  
@@ -258,7 +279,10 @@ Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA0
 
 2. Pagrindiniai kolegijos tikslai:
 
-1) sudaryti sąlygas asmeniui įgyti aukštąjį išsilavinimą ir profesinę kvalifikaciją, atitinkančius Lietuvos ūkio reikmes bei mokslo ir naujausių technologijų lygį;
+1) sudaryti sąlygas asmeniui įgyti aukštąjį išsilavinimą ir kvalifikaciją, atitinkančius Lietuvos ūkio reikmes bei mokslo ir naujausių technologijų lygį; 
+Straipsnio punkto pakeitimai:
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
+ 
 
 2) plėtoti regionui reikalingą taikomąją mokslinę veiklą bei tyrimus, konsultuoti vietos valdžios ir ūkio subjektus;
 
@@ -266,11 +290,17 @@ Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA0
 
 4) ugdyti švietimui ir kultūrai imlią visuomenę, gebančią dirbti sparčios technologijų kaitos sąlygomis.
 
-3. Kolegijoje rengiami specialistai praktikai, gebantys savarankiškai dirbti švietimo, kultūros, ūkio ir kitose srityse. Profesines kvalifikacijas kolegija gali teikti tik gavusi Ministerijos leidimą.
+3. Kolegijoje rengiami specialistai praktikai, gebantys savarankiškai dirbti švietimo, kultūros, ūkio ir kitose srityse. 
+Straipsnio dalies pakeitimai:
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
+ 
 
 4. Į kolegijų studijų programas gali būti įtraukiamos su universitetais suderintos studijų programos (moduliai), atitinkančios universitetines pagrindines studijas. Vyriausybės nustatyta tvarka kolegijai gali būti suteikta teisė organizuoti tam tikros krypties universitetines pagrindines studijas. Šiuo atveju ne mažiau kaip pusę studijų programų apimties turi dėstyti mokslininkai ir (ar) pripažinti menininkai.
 
-5. Asmenys, įgiję kolegijoje neuniversitetinį aukštąjį išsilavinimą, turi teisę Ministerijos nustatyta tvarka mokytis universitetuose.
+5. Neteko galios 2007-01-01.
+Straipsnio dalies pakeitimai:
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
+ 
 
 6. Kolegijos turi turėti akademinį ir profesinį personalą savo tikslams įgyvendinti. Daugiau kaip pusė dėstytojų turi turėti ne mažiau kaip 3 metų praktinio darbo dėstomo dalyko srityje patirtį. Dalykus, kuriuos kolegijose turi dėstyti mokslo laipsnį turintys dėstytojai, nustato studijų krypčių reglamentai. 
 
@@ -328,7 +358,10 @@ Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA0
 
 3) leisti studijų, mokslo ir kitą literatūrą;
 
-4) nustatyti savo struktūrą, vidaus darbo tvarką, konkretų dėstytojų ir mokslo darbuotojų, administracijos ir kitų tarnautojų skaičių, jų teises ir pareigas bei darbo apmokėjimo sąlygas, neprieštaraujančias galiojantiems teisės aktams;
+4) nustatyti savo struktūrą, vidaus darbo tvarką, konkretų dėstytojų ir mokslo darbuotojų, administracijos ir kitų darbuotojų skaičių, jų teises ir pareigas bei darbo apmokėjimo sąlygas, neprieštaraujančias galiojantiems teisės aktams; 
+Straipsnio punkto pakeitimai:
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
+ 
 
 5) statuto nustatyta tvarka rinkti savivaldos institucijas;
 
@@ -346,7 +379,9 @@ Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA0
 
 3) Vyriausybės nustatyta tvarka teikti kvalifikacinius ir mokslo laipsnius bei pedagoginius vardus. 
 
-4. Aukštųjų mokyklų dėstytojai, mokslo darbuotojai ir studentai turi žodžio, studijų, mokslinių tyrimų, meninės veiklos laisvę ir ja naudojasi nepažeisdami kitų asmenų teisių, įstatymų, kitų teisės aktų bei aukštosios mokyklos statuto.
+4. Aukštųjų mokyklų dėstytojai, mokslo darbuotojai, administracijos ir kiti darbuotojai ir studentai turi žodžio, studijų, mokslinių tyrimų, meninės veiklos laisvę ir ja naudojasi nepažeisdami kitų asmenų teisių, įstatymų, kitų teisės aktų bei aukštosios mokyklos statuto.
+Straipsnio dalies pakeitimai:
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
  
 
 10 straipsnis. Dėstomoji kalba
@@ -455,7 +490,15 @@ Straipsnio dalies pakeitimai:
 Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
 
-3. Jei veikla įvertinama teigiamai, ministras išduoda leidimą valstybinei aukštajai mokyklai priimti statutą ir sudaryti aukštosios mokyklos savivaldos institucijas šio įstatymo nustatyta tvarka. Išrinkus senatą (akademinę tarybą) bei universiteto rektorių (kolegijos direktorių), steigiamosios tarybos ir universiteto laikinojo rektoriaus (kolegijos direktoriaus) įgaliojimai nutrūksta.
+3. Jei veikla įvertinama teigiamai:
+
+1) ministras išduoda leidimą valstybinei aukštajai mokyklai priimti statutą ir sudaryti aukštosios mokyklos savivaldos institucijas šio įstatymo nustatyta tvarka. Išrinkus senatą (akademinę tarybą) ir universiteto rektorių (kolegijos direktorių), steigiamosios tarybos ir universiteto laikinojo rektoriaus (kolegijos direktoriaus) įgaliojimai nutrūksta;
+
+2) ministras išduoda kolegijai leidimą šio įstatymo nustatyta tvarka teikti profesinio bakalauro laipsnį.
+
+Straipsnio dalies pakeitimai:
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
+ 
 
 4. Jei aukštosios mokyklos veikla įvertinama neigiamai, ministras gali nustatyti aukštajai mokyklai ne didesnį kaip 2 metų laikotarpį trūkumams pašalinti. Jeigu pasibaigus nustatytam terminui valstybinė aukštoji mokykla vėl įvertinama neigiamai, ministras inicijuoja valstybinės aukštosios mokyklos reorganizavimą arba likvidavimą. Jei pakartotinai neigiamai įvertinama nevalstybinės aukštosios mokyklos veikla, Vyriausybė sprendžia šiai mokyklai išduoto leidimo vykdyti studijas panaikinimo klausimą.
 Straipsnio dalies pakeitimai:
@@ -528,7 +571,9 @@ Papildyta straipsnio dalimi:
 Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
 
-5. Aukštųjų mokyklų tarpusavio ryšius bei ryšius su valdžios ir valdymo bei vietos savivaldos institucijomis koordinuoja Lietuvos universitetų rektorių konferencija (konferencijos), Lietuvos kolegijų direktorių konferencija (konferencijos), Lietuvos studentų atstovybių sąjunga (sąjungos), kitos aukštųjų mokyklų visuomeninės, ne pelno ir kitokios organizacijos bei asociacijos, veikiančios pagal įstatymus ir savo įstatus. Šios organizacijos pačių prašymu gali gauti valstybės biudžeto finansinę paramą iš bendrosioms mokslo ir studijų reikmėms skiriamų lėšų.
+5. Aukštųjų mokyklų tarpusavio ryšius bei ryšius su valdžios ir valdymo bei vietos savivaldos institucijomis koordinuoja Lietuvos universitetų rektorių konferencija (konferencijos), Lietuvos kolegijų direktorių konferencija (konferencijos), Lietuvos studentų atstovybių sąjunga (sąjungos), kitos aukštųjų mokyklų ne pelno ir kitokios organizacijos bei asociacijos, veikiančios pagal įstatymus ir savo įstatus. Šios organizacijos pačių prašymu gali gauti valstybės biudžeto finansinę paramą iš bendrosioms mokslo ir studijų reikmėms skiriamų lėšų.
+Straipsnio dalies pakeitimai:
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
 Straipsnio dalies numeracijos pakeitimas:
 Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
@@ -537,21 +582,27 @@ Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010IST
 
 1. Aukštosios mokyklos rengia perspektyvinius 5 metų savo plėtros planų projektus ir teikia Ministerijai. Ministerija juos derina su aukštosiomis mokyklomis, atsižvelgdama į Aukštojo mokslo tarybos išvadas. 
 
-2. Ministerija, atsižvelgdama į valstybės prioritetus, finansinius išteklius, aukštųjų mokyklų pateiktus perspektyvinius plėtros planus, parengia 5 metų perspektyvinį Lietuvos aukštojo mokslo sistemos plėtros plano projektą ir, atsižvelgusi į Aukštojo mokslo tarybos išvadas, teikia jį tvirtinti Vyriausybei bei skelbia visuomenei. Plane turi būti numatyta:
+2. Ministerija, atsižvelgdama į valstybės prioritetus, finansinius išteklius, aukštųjų mokyklų pateiktus perspektyvinius plėtros planus, parengia 5 metų perspektyvinį Lietuvos aukštojo mokslo sistemos plėtros plano projektą ir, išklausiusi Aukštojo mokslo tarybos išvadas, teikia jį tvirtinti Vyriausybei, ir skelbia visuomenei. Plane turi būti numatyta:
 
-1) valstybės tikslai ir uždaviniai aukštojo mokslo srityje; 
+1) valstybės tikslai ir uždaviniai aukštojo mokslo srityje;
 
 2) Lietuvos aukštojo mokslo būklės apžvalga ir jos įvertinimas;
 
-3) aukštojo mokslo ir aukštųjų mokyklų plėtros kryptys; 
+3) aukštojo mokslo ir aukštųjų mokyklų plėtros kryptys;
 
-4) studijų programų atnaujinimo ir tobulinimo perspektyvos; 
+4) studijų programų atnaujinimo ir tobulinimo perspektyvos;
 
 5) numatomų priimti į aukštąsias mokyklas studentų skaičius;
 
 6) numatomo aukštųjų mokyklų finansavimo programa. 
 
-3. Prireikus Ministerija tikslina Lietuvos aukštojo mokslo sistemos plėtros planą, atsižvelgdama į gautas iš Seimo komitetų, ministerijų, Aukštojo mokslo tarybos, Lietuvos mokslo tarybos, Lietuvos universitetų rektorių konferencijos (konferencijų), Lietuvos kolegijų direktorių konferencijos (konferencijų) ir kitų institucijų bei ekspertų pastabas ir siūlymus, ir patikslintą teikia tvirtinti Vyriausybei. 
+Straipsnio dalies pakeitimai:
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
+ 
+
+3. Prireikus Ministerija tikslina Lietuvos aukštojo mokslo sistemos plėtros planą, išklausiusi gautas iš Seimo komitetų, ministerijų, Aukštojo mokslo tarybos, Lietuvos mokslo tarybos, Lietuvos universitetų rektorių konferencijos (konferencijų), Lietuvos kolegijų direktorių konferencijos (konferencijų) ir kitų institucijų bei ekspertų pastabas ir siūlymus, ir patikslintą teikia tvirtinti Vyriausybei.
+Straipsnio dalies pakeitimai:
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
  
 
 21 straipsnis. Aukštųjų mokyklų savivaldos ir visuomeninio reguliavimo institucijos
@@ -769,7 +820,10 @@ AUKŠTŲJŲ MOKYKLŲ PERSONALAS
 
 27 straipsnis. Valstybinių aukštųjų mokyklų darbuotojai
 
-1. Aukštųjų mokyklų personalą sudaro dėstytojai, mokslo darbuotojai, administracijos ir kiti tarnautojai. Jų darbo sąlygas ir socialines garantijas nustato šis įstatymas ir kiti teisės aktai.
+1. Aukštųjų mokyklų personalą sudaro dėstytojai, mokslo darbuotojai, administracijos ir kiti darbuotojai. Jų darbo apmokėjimo sąlygas ir socialines garantijas nustato įstatymai ir kiti teisės aktai.
+Straipsnio dalies pakeitimai:
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
+ 
 
 2. Asmuo, norintis dirbti aukštojoje mokykloje, kaip nepagrindinėje darbovietėje, kartu su prašymu priimti dirbti dėstytoju ar mokslo darbuotoju privalo nurodyti savo pareigas (dirbamą darbą) pagrindinėje ir visose nepagrindinėse darbovietėse.
 
@@ -793,9 +847,10 @@ Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00I
 
 2. dėstytojai, turintys mokslo laipsnį, be pedagoginio darbo, turi dalyvauti moksliniuose tyrimuose ir (ar) taikomojoje mokslinėje veikloje, taip pat metodinėje veikloje; meno studijų dėstytojai – mokslinėje ir (ar) profesionalioje meninėje, taip pat metodinėje veikloje. 
 
-3. Profesoriaus pareigas gali eiti mokslininkas arba pripažintas menininkas. Šie asmenys turi atitikti profesoriaus pareigų reikalavimus ir būti įvykdę habilitacijai keliamus reikalavimus. Habilitacijos tvarką nustato Vyriausybė, atsižvelgdama į Lietuvos mokslo tarybos, Lietuvos universitetų rektorių konferencijos ir Aukštojo mokslo tarybos siūlymus. 
+3. Profesoriaus pareigas gali eiti mokslininkas arba pripažintas menininkas. Šie asmenys turi atitikti profesoriaus pareigų reikalavimus ir būti įvykdę habilitacijai keliamus reikalavimus. Habilitacijos tvarką nustato Vyriausybė, išklausiusi Lietuvos mokslo tarybos, Lietuvos universitetų rektorių konferencijos (konferencijų) ir Aukštojo mokslo tarybos siūlymus.
 Straipsnio dalies pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
  
 
 4. Profesoriaus pareigas einantis mokslininkas turi rengti mokslininkus, dėstyti studentams, formuoti mokslinių tyrimų kryptis ir joms vadovauti, skelbti tyrimų rezultatus recenzuojamuose mokslo leidiniuose. Profesoriaus pareigas einantis pripažintas menininkas turi rengti profesionalius menininkus, dėstyti studentams, dalyvauti meno veikloje ir (ar) formuoti meno mokslinių tyrimų kryptis ir joms vadovauti, skelbti tyrimų rezultatus. 
@@ -854,13 +909,16 @@ Papildyta straipsnio dalimi:
 Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
  
 
-30 straipsnis. Administracijos ir kiti tarnautojai
+30 straipsnis. Administracijos darbuotojai ir kiti darbuotojai
 
-1. Aukštosios mokyklos turi turėti administraciją, būtiną jos ir jos padalinių administracinėms funkcijoms vykdyti, taip pat kitų tarnautojų, reikalingų aukštosios mokyklos akademinės bei ūkinės veiklos uždaviniams įgyvendinti.
+1. Aukštoji mokykla turi turėti administraciją, būtiną jos ir jos padalinių administracinėms funkcijoms atlikti, taip pat kitų darbuotojų, reikalingų aukštosios mokyklos akademinės bei ūkinės veiklos uždaviniams įgyvendinti.
 
-2. Administraciją sudaro aukštųjų mokyklų ir jų padalinių vadovai bei vadovų pavaduotojai. 
+2. Administraciją sudaro aukštųjų mokyklų darbuotojai, kurie turi teisę pagal savo kompetenciją duoti privalomus nurodymus pavaldiems darbuotojams. Aukštųjų mokyklų, jų fakultetų, institutų ir kitų statutuose šiems padaliniams prilygintų akademinių padalinių vadovai ir vadovų pavaduotojai, be administracinių pareigų, gali dirbti taip pat pedagoginį ir (ar) mokslinį darbą.
 
-3. Kitų (ne administracijos) aukštosios mokyklos tarnautojų skaičių, jų pareigas ir funkcijas nustato pati aukštoji mokykla. 
+3. Kitų (ne administracijos) aukštosios mokyklos darbuotojų skaičių, jų pareigas ir funkcijas nustato pati aukštoji mokykla.
+
+Straipsnio pakeitimai:
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
  
 
 31 straipsnis. Skyrimo į pareigas tvarka
@@ -940,9 +998,15 @@ Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010IST
 
 2. Institutas rengia perspektyvinį 5 metų veiklos planą, kuris senatui ir universiteto tarybai pritarus įtraukiamas į universiteto plėtros perspektyvinį planą.
 
-3. Institutą bendru Ministerijos bei universiteto teikimu, atsižvelgusi į Lietuvos mokslo tarybos ir suinteresuotų valstybės bei mokslo ir studijų institucijų išvadas ir rekomendacijas, steigia, reorganizuoja ir likviduoja Vyriausybė. 
+3. Institutą bendru Ministerijos bei universiteto teikimu, išklausiusi Lietuvos mokslo tarybos ir suinteresuotų valstybės bei mokslo ir studijų institucijų išvadas ir rekomendacijas, steigia, reorganizuoja ir likviduoja Vyriausybė. 
+Straipsnio dalies pakeitimai:
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
+ 
 
-4. Instituto statutą, parengtą remiantis Vyriausybės patvirtintais universiteto mokslo instituto nuostatais, ir pagrindines mokslinės veiklos kryptis bendru universiteto senato ir instituto tarybos teikimu tvirtina Vyriausybė, atsižvelgusi į Lietuvos mokslo tarybos išvadas.
+4. Instituto statutą, parengtą remiantis Vyriausybės patvirtintais universiteto mokslo instituto nuostatais, ir pagrindines mokslinės veiklos kryptis bendru universiteto senato ir instituto tarybos teikimu tvirtina Vyriausybė, išklausiusi Lietuvos mokslo tarybos išvadas.
+Straipsnio dalies pakeitimai:
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
+ 
 
 5. Du trečdalius instituto tarybos narių sudaro instituto mokslininkų išrinkti nariai, vieną trečdalį – senato paskirti nariai. Vyriausybė gali nustatyti ir kitokį instituto mokslininkų išrinktų ir senato paskirtų tarybos narių santykį, be to, ji gali nustatyti, kokia tvarka į instituto tarybą įtraukiami suinteresuotų institucijų, įstaigų bei organizacijų atstovai.
 Straipsnio dalies pakeitimai:
@@ -998,9 +1062,10 @@ Straipsnio dalies pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
  
 
-3. Pagrindinės nuosekliųjų studijų formos yra šios: dieninė, vakarinė ir neakivaizdinė. Konkrečias nuosekliųjų pirmosios pakopos studijų krypties formas nustato atitinkamos studijų krypties reglamentas. Studijų formų aprašus tvirtina Ministerija, atsižvelgusi į Lietuvos mokslo tarybos, Lietuvos universitetų rektorių konferencijos (konferencijų), Lietuvos kolegijų direktorių konferencijos (konferencijų) siūlymus, Aukštojo mokslo tarybos bei Lietuvos studentų atstovybių sąjungos (sąjungų) išvadas.
+3. Pagrindinės nuosekliųjų studijų formos yra šios: dieninė, vakarinė ir neakivaizdinė. Konkrečias nuosekliųjų pirmosios pakopos studijų krypties formas nustato atitinkamos studijų krypties reglamentas. Studijų formų aprašus tvirtina Ministerija, išklausiusi Lietuvos mokslo tarybos, Lietuvos universitetų rektorių konferencijos (konferencijų), Lietuvos kolegijų direktorių konferencijos (konferencijų) siūlymus, Aukštojo mokslo tarybos ir Lietuvos studentų atstovybių sąjungos (sąjungų) išvadas.
 Straipsnio dalies pakeitimai:
 Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
  
 
 4. Nenuosekliųjų studijų formas nustato pati aukštoji mokykla.
@@ -1018,7 +1083,9 @@ Nr. IX-169, 2001-01-25, Žin., 2001, Nr. 16-496 (2001-02-21), i. k. 1011010ISTA0
 Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
 
-2. Naujų studijų krypčių steigimo arba jų panaikinimo aukštosiose mokyklose tvarką tvirtina Ministerija, atsižvelgusi į Lietuvos mokslo tarybos, Lietuvos universitetų rektorių konferencijos (konferencijų), Lietuvos kolegijų direktorių konferencijos (konferencijų) siūlymus bei Aukštojo mokslo tarybos išvadas.
+2. Naujų studijų krypčių steigimo arba jų panaikinimo aukštosiose mokyklose tvarką tvirtina Ministerija, išklausiusi Lietuvos mokslo tarybos, Lietuvos universitetų rektorių konferencijos (konferencijų), Lietuvos kolegijų direktorių konferencijos (konferencijų) siūlymus ir Aukštojo mokslo tarybos išvadas.
+Straipsnio dalies pakeitimai:
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
  
 
 41 straipsnis. Studijų apimtis ir trukmė
@@ -1048,7 +1115,10 @@ Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00I
 
 42 straipsnis. Bendrieji studijų programų reikalavimai
 
-1. Pagrindinių studijų programa skiriama teoriniams profesijos pagrindams perteikti bei savarankiškam darbui būtiniems profesiniams įgūdžiams suformuoti. Baigusiems pagrindines universitetines studijas suteikiama profesinė kvalifikacija ir (ar) bakalauro laipsnis, baigusiems neuniversitetines pagrindines studijas – profesinė kvalifikacija. 
+1. Pagrindinių studijų programa skiriama teoriniams profesijos pagrindams perteikti ir savarankiškam darbui būtiniems profesiniams įgūdžiams suformuoti. Asmenims, baigusiems pagrindines universitetines studijas, suteikiamas bakalauro kvalifikacinis laipsnis ir (arba) profesinė kvalifikacija, baigusiems neuniversitetines pagrindines studijas, – profesinio bakalauro kvalifikacinis laipsnis ir (arba) profesinė kvalifikacija. 
+Straipsnio dalies pakeitimai:
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
+ 
 
 2. Pagrindinių ir vientisųjų studijų programos turi atitikti atitinkamos studijų krypties reglamentą, kurį tvirtina Ministerija. Studijų krypties reglamente nustatomi visų tos krypties studijų programų bendrieji reikalavimai, bendrojo socialinio ir humanitarinio (ar gamtos mokslų ir matematikos bei informatikos), mokslo ar meno srities pagrindų ir mokslo ar meno krypties specialaus lavinimo dalykų santykis, bendrieji praktinių įgūdžių formavimo reikalavimai, pagrindiniai kvalifikaciniai reikalavimai akademiniam ir profesiniam personalui. 
 Straipsnio dalies pakeitimai:
@@ -1071,14 +1141,17 @@ Straipsnio dalies pakeitimai:
 Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
  
 
-8. Doktorantūros studijos baigiamos disertacijos parengimu. Disertacijos ginamos prie universitetų veikiančiose mokslo krypčių tarybose. Doktorantūros studijų, disertacijos gynimo ir mokslo laipsnių suteikimo tvarką nustato doktorantūros nuostatai, kuriuos tvirtina Vyriausybė, atsižvelgdama į Lietuvos mokslo tarybos, Lietuvos mokslų akademijos, Lietuvos universitetų rektorių konferencijos (konferencijų) siūlymus bei Aukštojo mokslo tarybos išvadas. 
+8. Doktorantūros studijos baigiamos disertacijos parengimu. Disertacijos ginamos prie universitetų veikiančiose mokslo krypčių tarybose. Doktorantūros studijų, disertacijos gynimo ir mokslo laipsnių suteikimo tvarką nustato doktorantūros nuostatai, kuriuos tvirtina Vyriausybė, išklausiusi Lietuvos mokslo tarybos, Lietuvos mokslų akademijos, Lietuvos universitetų rektorių konferencijos (konferencijų) siūlymus ir Aukštojo mokslo tarybos išvadas. 
 Straipsnio dalies pakeitimai:
 Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
  
 
-9. Meno aspirantūros studijos vykdomos pagal meno aspirantūros nuostatus. Juos tvirtina Vyriausybė, atsižvelgdama į Lietuvos mokslo tarybos, Lietuvos universitetų rektorių konferencijos (konferencijų) siūlymus bei Aukštojo mokslo tarybos išvadas. 
+9. Meno aspirantūros studijos vykdomos pagal meno aspirantūros nuostatus. Juos tvirtina Vyriausybė, išklausiusi Lietuvos mokslo tarybos, Lietuvos universitetų rektorių konferencijos (konferencijų) siūlymus ir Aukštojo mokslo tarybos išvadas.
 Papildyta straipsnio dalimi:
 Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+Straipsnio dalies pakeitimai:
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
  
 
 10. Tais atvejais, kai studijų programoje yra numatyta studentų profesinės veiklos praktika, įmonė ar įstaiga, kurioje studentas atlieka praktiką, ir studentas bei aukštoji mokykla, kurioje jis studijuoja, sudaro praktinio mokymo sutartį. Sutarties turinį, formą ir registravimo tvarką nustato Ministerija.
@@ -1119,7 +1192,9 @@ Aukštosios mokyklos gali sudaryti sąlygas studentui studijuoti pagal individua
 
 4) studento studijų pagal kitą tos pačios aukštosios mokyklos studijų programą rezultatai.
 
-2. Rezultatų įskaitymo tvarką nustato Ministerija, atsižvelgdama į Lietuvos universitetų rektorių konferencijos, Lietuvos kolegijų direktorių konferencijos siūlymus bei tarptautinius susitarimus. 
+2. Rezultatų įskaitymo tvarką nustato Ministerija, išklausiusi Lietuvos universitetų rektorių konferencijos (konferencijų), Lietuvos kolegijų direktorių konferencijos (konferencijų) siūlymus ir atsižvelgdama į tarptautinius susitarimus.
+Straipsnio dalies pakeitimai:
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
  
 
 47 straipsnis. Priėmimas į valstybinę aukštąją mokyklą
@@ -1139,7 +1214,15 @@ Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA0
 
 6. Su studentais, priimamais šio straipsnio 5 dalyje nustatyta tvarka, aukštoji mokykla sudaro studijų sutartis. Standartines studijų sutarties sąlygas nustato Ministerija.
 
-7. Ministerija gali nustatyti užsienio valstybių piliečių ir asmenų be pilietybės, kurių studijos visiškai ar iš dalies finansuojamos iš Lietuvos valstybės biudžeto, priėmimo į aukštąsias mokyklas kvotas ir tvarką.
+7. Ministerija gali nustatyti asmenų, įgijusių išsilavinimą užsienyje, priėmimo į visiškai ar iš dalies Lietuvos valstybės biudžeto lėšomis finansuojamas studijas Lietuvos aukštosiose mokyklose kvotas ir tvarką. 
+Straipsnio dalies pakeitimai:
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
+ 
+
+8. Ministerija gali nustatyti lengvatines stojimo į aukštąsias mokyklas sąlygas išeivijos ir lietuvių kilmės užsieniečių vaikams, vaikaičiams, provaikaičiams. Išeivija laikomi Lietuvos Respublikos piliečiai, ne mažiau kaip 3 metus gyvenantys užsienyje. Lietuvių kilmės užsieniečiu laikomas asmuo, kurio tėvai ar seneliai arba vienas iš tėvų ar senelių yra ar buvo lietuviai ir pats pripažįsta save lietuviu.
+Papildyta straipsnio dalimi:
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
+ 
 
 Straipsnio pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
@@ -1183,7 +1266,10 @@ Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010IST
 
 8) rinkti studentų atstovybę ir būti išrinktais į ją;
 
-9) laisvai burtis į klubus, draugijas, studentų visuomenines organizacijas;
+9) laisvai burtis į klubus, draugijas, asociacijas;
+Straipsnio punkto pakeitimai:
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
+ 
 
 10) kreiptis į ginčų nagrinėjimo komisiją dėl savo interesų pažeidimo;
 
@@ -1348,7 +1434,10 @@ Nr. IX-169, 2001-01-25, Žin., 2001, Nr. 16-496 (2001-02-21), i. k. 1011010ISTA0
 
 57 straipsnis. Valstybės biudžeto lėšų poreikio nustatymo ir jų skyrimo valstybinėms aukštosioms mokykloms metodika
 
-1. Valstybės biudžeto lėšų poreikis valstybinei aukštajai mokyklai nustatomas pagal valstybės biudžeto lėšų poreikio nustatymo ir jų skyrimo mokslo ir studijų institucijoms metodiką. Šią metodiką tvirtina Vyriausybė, atsižvelgdama į Lietuvos mokslo tarybos, Lietuvos universitetų rektorių konferencijos (konferencijų), Lietuvos kolegijų direktorių konferencijos (konferencijų) bei Lietuvos studentų atstovybių sąjungos (sąjungų) siūlymus.
+1. Valstybės biudžeto lėšų poreikis valstybinei aukštajai mokyklai nustatomas pagal Valstybės biudžeto lėšų poreikio nustatymo ir jų skyrimo mokslo ir studijų institucijoms metodiką. Šią metodiką tvirtina Vyriausybė, išklausiusi Lietuvos mokslo tarybos, Lietuvos universitetų rektorių konferencijos (konferencijų), Lietuvos kolegijų direktorių konferencijos (konferencijų) bei Lietuvos studentų atstovybių sąjungos (sąjungų) siūlymus.
+Straipsnio dalies pakeitimai:
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
+ 
 
 2. Metodikoje privalo būti numatytos tokios lėšos: 
 
@@ -1614,5 +1703,10 @@ Lietuvos Respublikos aukštojo mokslo įstatymo 2, 3, 13, 15, 16, 17, 19, 22, 23
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
+Lietuvos Respublikos aukštojo mokslo įstatymo ir Mokslo ir studijų įstatymo pakeitimo ir papildymo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
 Lietuvos Respublikos aukštojo mokslo įstatymo ir Mokslo ir studijų įstatymo pakeitimo ir papildymo įstatymas
 
