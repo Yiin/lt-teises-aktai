@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1FEF229DA7C6"
 
 # Lietuvos Respublikos dokumentų ir archyvų įstatymas
 
-Suvestinė redakcija nuo 2005-01-01 iki 2007-01-10
+Suvestinė redakcija nuo 2007-01-11 iki 2008-04-29
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2389, i. k. 0951010ISTA00I-1115
  
@@ -61,6 +61,13 @@ BENDROSIOS NUOSTATOS
 
 
 3. Šis Įstatymas netaikomas dokumentams, priklausantiems bibliotekų ir muziejų fondams.
+
+
+
+
+4. Šis Įstatymas užtikrina Europos Sąjungos teisės aktų, nurodytų šio Įstatymo priede, taikymą asmenų apsaugos tvarkant asmens duomenis reglamentavimo srityje.
+Papildyta straipsnio dalimi:
+Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
  
 
 
@@ -71,87 +78,145 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 
-1. Archyvas – įstaiga ar jos struktūrinis padalinys arba kita sukauptų dokumentų saugojimo vieta.
+1. Agentūrinė operatyvinė informacija – asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, duomenys, taip pat duomenys apie šių asmenų verbavimą ir naudojimą, jų surinkti duomenys ir kiti duomenys apie asmenis, gauti taikant operatyvinės veiklos priemones ir metodus. 
+Papildyta straipsnio dalimi:
+Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
+ 
 
 
 
 
-2. Atsarginės kopijos – naudojimui skirtos dokumentų kopijos, pagamintos mikroformos ar skaitmeninėje laikmenoje.
+2. Archyvas – įstaiga ar jos struktūrinis padalinys arba kita sukauptų dokumentų saugojimo vieta.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
+ 
 
 
 
 
-3. Dokumentacijos planas – valstybės ar savivaldybės institucijos, įstaigos ar įmonės veiklos dokumentų sisteminimo metų planas.
+3. Atsarginės kopijos – naudojimui skirtos dokumentų kopijos, pagamintos mikroformos ar skaitmeninėje laikmenoje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
+ 
 
 
 
 
-4. Dokumentas – juridinio ar fizinio asmens veiklos procese užfiksuota informacija, nepaisant jos pateikimo būdo, formos ir laikmenos.
+4. Dokumentacijos planas – valstybės ar savivaldybės institucijos, įstaigos ar įmonės veiklos dokumentų sisteminimo metų planas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
+ 
 
 
 
 
-5. Dokumentų konvertavimas – programinės ir (ar) techninės aplinkos ar pateikimo būdo pakeitimas užtikrinant dokumentuose užfiksuotos informacijos išsaugojimą.
+5. Dokumentas – juridinio ar fizinio asmens veiklos procese užfiksuota informacija, nepaisant jos pateikimo būdo, formos ir laikmenos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
+ 
 
 
 
 
-6. Dokumentų naudojimas – dokumentuose esančios informacijos naudojimas komerciniais ir nekomerciniais tikslais.
+6. Dokumentų konvertavimas – programinės ir (ar) techninės aplinkos ar pateikimo būdo pakeitimas užtikrinant dokumentuose užfiksuotos informacijos išsaugojimą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
+ 
 
 
 
 
-7. Dokumentų valdymas – valstybės ar savivaldybės institucijos, įstaigos ar įmonės, valstybės įgalioto asmens, nevalstybinės organizacijos, privataus juridinio asmens vidaus administravimo sritis, kuri apima dokumentų rengimą, tvarkymą, apskaitą, saugojimą.
+7. Dokumentų naudojimas – dokumentuose esančios informacijos naudojimas komerciniais ir nekomerciniais tikslais.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
+ 
 
 
 
 
-8. Kontekstinė informacija – informacija apie dokumento sandarą, turinį ir aplinką, sudaranti būtinas ir pakankamas sąlygas dokumento autentiškumui ir prieinamumui užtikrinti.
+8. Dokumentų valdymas – valstybės ar savivaldybės institucijos, įstaigos ar įmonės, valstybės įgalioto asmens, nevalstybinės organizacijos, privataus juridinio asmens vidaus administravimo sritis, kuri apima dokumentų rengimą, tvarkymą, apskaitą, saugojimą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
+ 
 
 
 
 
-9. Nevalstybinės organizacijos – politinės partijos, asociacijos, kitos organizacijos ir susivienijimai, sudaryti narių poreikiams ir viešiems interesams tenkinti.
+9. Kontekstinė informacija – informacija apie dokumento sandarą, turinį ir aplinką, sudaranti būtinas ir pakankamas sąlygas dokumento autentiškumui ir prieinamumui užtikrinti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
+ 
 
 
 
 
-10. Nuolatinis saugojimas – išliekamąją vertę turinčių dokumentų saugojimas neribotą laiką.
+10. Nevalstybinės organizacijos – politinės partijos, asociacijos, kitos organizacijos ir susivienijimai, sudaryti narių poreikiams ir viešiems interesams tenkinti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
+ 
 
 
 
 
-11. Oficialus dokumentas – valstybės ar savivaldybės institucijos, įstaigos ar įmonės, valstybės įgalioto asmens vykdant teisės norminių aktų nustatytus įgaliojimus sudarytas, patvirtintas ar gautas dokumentas, įtrauktas į apskaitą.
+11. Nuolatinis saugojimas – išliekamąją vertę turinčių dokumentų saugojimas neribotą laiką.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
+ 
 
 
 
 
-12. Priėjimas prie dokumentų – teisė susipažinti su dokumentais įstatymų ir kitų teisės norminių aktų nustatyta tvarka.
+12. Oficialus dokumentas – valstybės ar savivaldybės institucijos, įstaigos ar įmonės, valstybės įgalioto asmens vykdant teisės norminių aktų nustatytus įgaliojimus sudarytas, patvirtintas ar gautas dokumentas, įtrauktas į apskaitą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
+ 
 
 
 
 
-13. Specialios įrangos priemonės – dokumentų saugojimo ir (ar) peržiūrėjimo programinė ir techninė įranga.
+13. Priėjimas prie dokumentų – teisė susipažinti su dokumentais įstatymų ir kitų teisės norminių aktų nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
+ 
 
 
 
 
-14. Saugojimo terminas – laikas, kurį dokumentas turi būti išsaugotas.
+14. Specialios įrangos priemonės – dokumentų saugojimo ir (ar) peržiūrėjimo programinė ir techninė įranga.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
+ 
 
 
 
 
-15. Valstybės įgalioti asmenys – asmenys, atliekantys valstybės suteiktas įstatymų nustatytas funkcijas (antstoliai, notarai).
+15. Saugojimo terminas – laikas, kurį dokumentas turi būti išsaugotas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
+ 
 
 
 
 
-16. Valstybės ir savivaldybių institucijos, įstaigos, įmonės – valstybės ir savivaldybių institucijos ir įstaigos, finansuojamos iš valstybės ar savivaldybių biudžetų, valstybės pinigų fondų, valstybės ir savivaldybių įmonės.
+16. Valstybės įgalioti asmenys – asmenys, atliekantys valstybės suteiktas įstatymų nustatytas funkcijas (antstoliai, notarai).
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
+ 
 
 
 
 
-17. Veiklos dokumentai – valstybės ar savivaldybės institucijos, įstaigos ar įmonės, valstybės įgalioto asmens, nevalstybinės organizacijos, privataus juridinio asmens vykdant veiklą sudaryti, patvirtinti, gauti, iš kitų juridinių ar fizinių asmenų perimti dokumentai.
+17. Valstybės ir savivaldybių institucijos, įstaigos, įmonės – valstybės ir savivaldybių institucijos ir įstaigos, finansuojamos iš valstybės ar savivaldybių biudžetų, valstybės pinigų fondų, valstybės ir savivaldybių įmonės.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
+ 
+
+
+
+
+18. Veiklos dokumentai – valstybės ar savivaldybės institucijos, įstaigos ar įmonės, valstybės įgalioto asmens, nevalstybinės organizacijos, privataus juridinio asmens vykdant veiklą sudaryti, patvirtinti, gauti, iš kitų juridinių ar fizinių asmenų perimti dokumentai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
  
 
 
@@ -172,7 +237,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Duomenys apie Nacionalinį dokumentų fondą kaupiami šio fondo registre. Nacionalinio dokumentų fondo registro nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
+3. Nacionalinio dokumentų fondo ypatingąją dalį sudaro pasipriešinimo (rezistencijos) SSRS ir Vokietijos okupaciniams režimams struktūrų, taip pat Lietuvos SSR vidaus reikalų liaudies komisariato (nuo 1940 m. iki 1941 m., nuo 1944 m. iki 1946 m.), Lietuvos SSR valstybės saugumo liaudies komisariato (1941 m., nuo 1944 m. iki 1946 m.), Lietuvos SSR valstybės saugumo ministerijos (nuo 1946 m. iki 1953 m.), Lietuvos SSR vidaus reikalų ministerijos (nuo 1946 m. iki 1954 m.), Lietuvos SSR valstybės saugumo komiteto (nuo 1954 m. iki 1991 m.), SSRS valstybės saugumo liaudies komisariato (NKGB), SSRS valstybės saugumo ministerijos (MGB), SSRS valstybės saugumo komiteto (KGB) padalinių, veikusių Lietuvoje nuo 1940 m. iki 1991 m., SSRS vidaus reikalų liaudies komisariato (NKVD), SSRS vidaus reikalų ministerijos (MVD) padalinių, veikusių Lietuvoje nuo 1946 m. iki 1954 m., SSRS liaudies gynybos komisariato (NKO), Karinio jūrų laivyno liaudies komisariato (NKVMF) padalinių, veikusių Lietuvoje 1941 m., nuo 1943 m. iki 1946 m., Vyriausiosios žvalgybos valdybos prie Sovietų armijos generalinio štabo (GRU) padalinių, veikusių Lietuvoje nuo 1940 m. iki 1991 m., Lietuvos komunistų partijos ir šioms organizacijoms, tarnyboms pavaldžių struktūrų veiklos dokumentai. Nacionalinio dokumentų fondo ypatingosios dalies dokumentai, išskyrus Lietuvos SSR veikusių valstybės įstaigų, įmonių ir organizacijų buvusių slaptųjų (pirmųjų) skyrių dokumentus, turi būti perduoti šio Įstatymo 4 straipsnio 2 dalies nustatyta tvarka ir saugomi Lietuvos ypatingajame archyve. Lietuvos SSR veikusių valstybės įstaigų, įmonių ir organizacijų buvusių slaptųjų (pirmųjų) skyrių dokumentai saugomi kituose valstybės archyvuose.
+Straipsnio dalies pakeitimai:
+Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
  
 
 
@@ -537,7 +604,10 @@ DOKUMENTŲ VALDYMAS IR PERDAVIMAS
 14 straipsnis. Dokumentų naikinimas
 
 
-1. Dokumentus galima naikinti atlikus jų vertės ekspertizę, kai pasibaigia teisės norminių aktų nustatyti dokumentų saugojimo terminai. Sprendimą dėl valstybės ar savivaldybės institucijos, įstaigos ar įmonės, nevalstybinės organizacijos, privataus juridinio asmens veiklos dokumentų naikinimo ar jų saugojimo terminų pratęsimo priima vadovas pagal Lietuvos archyvų departamento nustatytus dokumentų rengimo, tvarkymo ir apskaitos bendruosius reikalavimus.
+1. Dokumentus galima naikinti atlikus jų vertės ekspertizę, kai pasibaigia teisės norminių aktų nustatyti dokumentų saugojimo terminai. Sprendimą dėl valstybės ar savivaldybės institucijos, įstaigos ar įmonės, nevalstybinės organizacijos, privataus juridinio asmens veiklos dokumentų naikinimo ar jų saugojimo terminų pratęsimo priima vadovas pagal Lietuvos Respublikos Vyriausybės nustatytus dokumentų rengimo, tvarkymo ir apskaitos bendruosius reikalavimus. 
+Straipsnio dalies pakeitimai:
+Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
+ 
 
 
 
@@ -558,6 +628,13 @@ DOKUMENTŲ VALDYMAS IR PERDAVIMAS
 
 
 3. Naikinti atrinkti valstybės ir savivaldybių institucijų, įstaigų ir įmonių dokumentai turi būti sunaikinti.
+
+
+
+
+4. Negali būti naikinami Nacionalinio dokumentų fondo ypatingajai daliai priklausantys šio Įstatymo 3 straipsnio 3 dalyje išvardytų struktūrų veiklos dokumentai.
+Papildyta straipsnio dalimi:
+Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
  
 
 
@@ -730,7 +807,10 @@ PRIĖJIMAS PRIE NACIONALINIO DOKUMENTŲ FONDO DOKUMENTŲ IR JŲ NAUDOJIMAS
 
 
 
-3. Priėjimas prie Nacionaliniam dokumentų fondui priklausančių buvusių SSRS valstybės saugumo komiteto (KGB) Lietuvos SSR padalinio, Lietuvos SSR vidaus reikalų ministerijos ir kitų Lietuvos teritorijoje veikusių specialiųjų tarnybų dokumentų, kuriuose yra agentūrinės informacijos, sudarytų baudžiamųjų ir trėmimo bylų ribojamas 70 metų nuo jų sudarymo. Šių dokumentų naudojimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+3. Priėjimas prie Nacionalinio dokumentų fondo ypatingosios dalies dokumentų, išvardytų šio Įstatymo 3 straipsnio 3 dalyje, yra neribojamas. Priėjimas prie Nacionalinio dokumentų fondo ypatingosios dalies dokumentų reglamentuojamas šio Įstatymo 19 straipsnio 2 ir 3 dalyse nustatyta tvarka. Priėjimas prie dokumentų, kuriuose yra informacijos, susijusios su asmenimis, prisipažinusiais slapta bendradarbiavus su SSRS specialiosiomis tarnybomis ir įrašytais į prisipažinusių asmenų įskaitą, taip pat atvejais, kai nuo SSRS specialiųjų tarnybų nukentėjęs asmuo pareiškia savo valią dėl informacijos apie jį naudojimo ribojimo iki jo mirties, yra ribojamas. Priėjimo prie ribojamų dokumentų ir jų naudojimo tvarką, taip pat tvarką, pagal kurią nuo SSRS specialiųjų tarnybų nukentėjęs asmuo pareiškia valią dėl informacijos apie jį naudojimo ribojimo, vadovaudamasi šiuo ir kitais įstatymais, nustato Lietuvos Respublikos Vyriausybė. 
+Straipsnio dalies pakeitimai:
+Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
+ 
 
 
 
@@ -740,7 +820,10 @@ PRIĖJIMAS PRIE NACIONALINIO DOKUMENTŲ FONDO DOKUMENTŲ IR JŲ NAUDOJIMAS
 
 
 
-5. Priėjimas prie Nacionalinio dokumentų fondo dokumentų, kuriose yra informacijos apie asmens privatų gyvenimą, taip pat prie valstybės archyvams perduotų susistemintų asmens duomenų rinkmenų ribojamas 50 metų po asmens mirties, o jei šio fakto nustatyti neįmanoma, – 100 metų nuo dokumentų sudarymo.
+5. Priėjimas prie Nacionalinio dokumentų fondo dokumentų, kuriuose yra informacijos apie asmens privatų gyvenimą, taip pat prie susistemintų asmens duomenų rinkmenų ribojamas 30 metų po to asmens mirties, o jei asmens mirties data nenustatyta, – 100 metų nuo to asmens gimimo. Jeigu nenustatyta nei asmens gimimo, nei mirties data, šis priėjimas ribojamas 70 metų nuo dokumentų sudarymo, išskyrus atvejus, kai taikomi šio straipsnio 3 dalyje nustatyti terminai.
+Straipsnio dalies pakeitimai:
+Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
+ 
 
 
 
@@ -903,6 +986,20 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
  
+
+
+
+
+Lietuvos Respublikos
+dokumentų ir archyvų įstatymo
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+1995 m. spalio 24 d. Europos Parlamento ir Tarybos direktyva 95/46/EB dėl asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo (OL 1995 m. ES skyrius, 13 tomas 015, p. 355).
+Papildyta priedu:
+Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
+ 
  
  
 Pakeitimai:
@@ -911,3 +1008,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2084, 2004-03-30, Žin., 2004, Nr. 57-1982 (2004-04-20), i. k. 1041010ISTA0IX-2084
 Lietuvos Respublikos archyvų įstatymo pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
+Lietuvos Respublikos dokumentų ir archyvų įstatymo 1, 2, 3, 14, 20 straipsnių papildymo ir pakeitimo bei Įstatymo papildymo priedu įstatymas
