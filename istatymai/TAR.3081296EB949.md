@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3081296EB949"
 
 # Lietuvos Respublikos Tarnybos Lietuvos Respublikos muitinėje statuto patvirtinimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2007-01-01 iki 2007-01-10
+Suvestinė redakcija nuo 2007-01-11 iki 2008-11-21
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2917; Žin. 2003, Nr.64-2881, i. k. 1001010ISTAIII-1986
  
@@ -150,7 +150,10 @@ Straipsnio dalies pakeitimai:
 Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010ISTA0IX-2186
  
 
-4. Muitinės įstaigos statutinės komisijos pirmininku skiriamas vienas iš tos muitinės įstaigos vadovo pavaduotojų, o jos nariais – tos muitinės įstaigos vadovo pavaduotojai ir struktūrinių padalinių viršininkai. Stebėtojų teisėmis muitinės įstaigos statutinėje komisijoje gali dalyvauti Finansų ministerijos ir muitinės profesinių sąjungų susivienijimo atstovai. Personalinę kiekvienos muitinės įstaigos statutinės komisijos sudėtį tvirtina tos muitinės įstaigos vadovas.
+4. Muitinės įstaigos statutinės komisijos pirmininku skiriamas vienas iš tos muitinės įstaigos vadovo pavaduotojų, o jos nariais – tos muitinės įstaigos vadovo pavaduotojai ir struktūrinių padalinių viršininkai. Stebėtojų teisėmis muitinės įstaigos statutinėje komisijoje gali dalyvauti Finansų ministerijos, Muitinės departamento ir muitinės profesinių sąjungų atstovai. Personalinę kiekvienos muitinės įstaigos statutinės komisijos sudėtį tvirtina tos muitinės įstaigos vadovas. 
+Straipsnio dalies pakeitimai:
+Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
+ 
 
 5. Statutinių komisijų darbo tvarką nustato finansų ministras.
  
@@ -193,7 +196,10 @@ PRIĖMIMAS Į TARNYBĄ MUITINĖJE
 
 8 straipsnis. Sveikatos tikrinimas
 
-1. Asmuo, pareiškęs norą būti priimtas į tarnybą muitinėje, privalo pasitikrinti sveikatą ir pateikti medicinos ekspertizės komisijos išvadą dėl tinkamumo tarnybai muitinėje. 
+1. Asmuo, pareiškęs norą būti priimtas į tarnybą muitinėje, privalo pasitikrinti sveikatą ir pateikti asmens sveikatos priežiūros įstaigos gydytojų konsultacinės komisijos arba medicinos ekspertizės komisijos išvadą dėl tinkamumo tarnybai muitinėje. 
+Straipsnio dalies pakeitimai:
+Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
+ 
 
 2. Muitinės pareigūnų sveikata periodiškai tikrinama profilaktinių patikrinimų metu.
 
@@ -224,7 +230,10 @@ Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010IST
 
 5) kuris yra įstatymų nustatyta tvarka uždraustos organizacijos narys;
 
-6) kuris pagal medicinos ekspertizės komisijos išvadą netinka eiti atitinkamas pareigas muitinėje;
+6) kuris pagal asmens sveikatos priežiūros įstaigos gydytojų konsultacinės komisijos arba medicinos ekspertizės komisijos išvadą netinka eiti atitinkamas pareigas muitinėje; 
+Straipsnio punkto pakeitimai:
+Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
+ 
 
 7) kuris buvo atleistas iš valstybės tarnybos už padarytą nusikalstamą veiką, tarnybinį nusižengimą, pareigūno vardo diskreditavimą arba dėl to, kad jo tarnybinė veikla du kartus iš eilės buvo įvertinta nepatenkinamai, jeigu nuo atleidimo dienos nepraėjo penkeri metai;
 
@@ -497,7 +506,9 @@ Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010IST
 
 11. Nėščių muitinės pareigūnių ir auginančių bent vieną vaiką iki trejų metų muitinės pareigūnų tarnybinė veikla vertinama tik jų rašytiniu prašymu.
 
-12. Jeigu kyla abejonių dėl muitinės pareigūno kvalifikacijos ir tinkamumo eiti pareigas, gali būti rengiamas neeilinis jo tarnybinės veiklos vertinimas, tačiau ne anksčiau kaip praėjus 6 mėnesiams po eilinio tarnybinės veiklos vertinimo dienos. Neeilinį tarnybinės veiklos vertinimą rengia statutinės komisijos.
+12. Jeigu yra muitinės pareigūno prašymas perkelti jį į aukštesnės kategorijos pareigas arba kyla abejonių dėl muitinės pareigūno kvalifikacijos ir tinkamumo eiti pareigas, gali būti rengiamas neeilinis jo tarnybinės veiklos vertinimas, tačiau ne anksčiau kaip praėjus 6 mėnesiams po eilinio tarnybinės veiklos vertinimo dienos. Neeilinį tarnybinės veiklos vertinimą rengia statutinės komisijos. 
+Straipsnio dalies pakeitimai:
+Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
  
 
 26 straipsnis. Muitinės pareigūnų tarnybinės veiklos vertinimo tvarka
@@ -526,23 +537,36 @@ MUITINĖS PAREIGŪNŲ KARJERA
 
 2. Muitinės pareigūnas šio straipsnio 1 dalyje nurodytais atvejais gali būti perkeltas į kitas pareigas, jeigu turi joms eiti būtiną išsilavinimą ir atitinka pareigybės aprašyme nustatytus reikalavimus. 
 
-3. Kai medicinos ekspertizės komisijos išvadoje nurodyta, kad muitinės pareigūnas dėl sveikatos būklės negali eiti savo pareigų, Muitinės departamento generalinis direktorius arba muitinės įstaigos vadovas turi teisę tą muitinės pareigūną perkelti į kitas tos pačios arba žemesnės kategorijos pareigas, kurias muitinės pareigūnas pagal savo sveikatos būklę gali eiti. Jei nėra galimybės muitinės pareigūną perkelti į kitas pareigas, atitinkančias jo sveikatos būklę, jis atleidžiamas iš pareigų pagal Statuto 55 straipsnio 1 dalies 14 punktą. 
+3. Kai asmens sveikatos priežiūros įstaigos gydytojų konsultacinės komisijos arba medicinos ekspertizės komisijos išvadoje nurodyta, kad muitinės pareigūnas dėl sveikatos būklės negali eiti savo pareigų, Muitinės departamento generalinis direktorius arba muitinės įstaigos vadovas turi teisę tą muitinės pareigūną perkelti į kitas tos pačios arba žemesnės kategorijos pareigas, kurias muitinės pareigūnas pagal savo sveikatos būklę gali eiti. Jei nėra galimybės muitinės pareigūną perkelti į kitas pareigas, atitinkančias jo sveikatos būklę, jis atleidžiamas iš pareigų pagal Statuto 55 straipsnio 1 dalies 14 punktą. 
 Straipsnio dalies pakeitimai:
 Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010ISTA0IX-2186
+Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
  
 
-29 straipsnis. Laikinas pavedimas muitinės pareigūnui atlikti kitas pareigas
+281 straipsnis. Muitinės pareigūno perkėlimas į kitą muitinės įstaigą
 
-1. Tarnybinio būtinumo atvejais Muitinės departamento generalinis direktorius gali, neperkeldamas į kitas pareigas, laikinai pavesti Muitinės departamento arba muitinės įstaigos pareigūnui be jo sutikimo atlikti kitas jo kvalifikaciją atitinkančias tos pačios, žemesnės arba aukštesnės kategorijos pareigas Muitinės departamente arba kitoje muitinės įstaigoje. 
-Straipsnio dalies pakeitimai:
-Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010ISTA0IX-2186
+1. Statuto 28 straipsnio 1 dalyje nurodytais atvejais muitinės pareigūnas gali būti jo prašymu perkeltas iš vienos muitinės įstaigos į kitą muitinės įstaigą ar Muitinės departamentą arba iš Muitinės departamento į muitinės įstaigą Muitinės departamento generalinio direktoriaus įsakymu. Perkelti muitinės pareigūną iš vienos muitinės įstaigos į kitą muitinės įstaigą galima, jeigu yra abiejų muitinės įstaigų vadovų rašytinis sutikimas dėl muitinės pareigūno perkėlimo. Perkelti muitinės pareigūną iš Muitinės departamento į muitinės įstaigą arba iš muitinės įstaigos į Muitinės departamentą galima, jeigu yra tos muitinės įstaigos vadovo rašytinis sutikimas.
+
+2. Perkėlus muitinės pareigūną iš vienos muitinės įstaigos į kitą muitinės įstaigą ar Muitinės departamentą arba iš Muitinės departamento į muitinės įstaigą Muitinės departamento generalinio direktoriaus įsakymu, laikoma, kad muitinės pareigūną į pareigas priėmęs asmuo yra muitinės įstaigos, į kurią jis perkeltas, vadovas arba Muitinės departamento generalinis direktorius, kai yra perkeltas į Muitinės departamentą. 
+
+Papildyta straipsniu:
+Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
  
 
-2. Šio straipsnio 1 dalyje numatytas laikinas pavedimas atlikti kitas pareigas negali trukti ilgiau negu vienerius metus per penkerius muitinės pareigūno tarnybos metus.
+29 straipsnis. Muitinės pareigūno laikinas perkėlimas į kitas pareigas ar laikinas pavedimas muitinės pareigūnui atlikti kitas pareigas
 
-3. Šio straipsnio 1 dalies nuostata netaikoma nėščioms muitinės pareigūnėms ir bent vieną vaiką iki 7 metų auginantiems muitinės pareigūnams, taip pat muitinės pareigūnams, vieniems auginantiems bent vieną vaiką iki 16 metų.
+1. Kai yra tarnybinė būtinybė, Muitinės departamento generalinis direktorius turi teisę laikinai perkelti Muitinės departamento arba muitinės įstaigos muitinės pareigūną be jo sutikimo į kitas jo kvalifikaciją atitinkančias tos pačios, žemesnės arba aukštesnės kategorijos pareigas Muitinės departamente arba kitoje muitinės įstaigoje.
 
-4. Muitinės pareigūnui jo sutikimu gali būti pavesta kartu su pagrindinėmis pareigomis atlikti ir laikinai nesančio muitinės pareigūno pareigas, jeigu jis atitinka pareigybės aprašyme nustatytus specialiuosius reikalavimus. 
+2. Kai yra tarnybinė būtinybė, muitinės pareigūną į pareigas priėmęs asmuo turi teisę laikinai perkelti be jo sutikimo į kitas jo kvalifikaciją atitinkančias tos pačios, žemesnės arba aukštesnės kategorijos pareigas toje pačioje muitinės įstaigoje.
+
+3. Šio straipsnio 1 ir 2 dalyse numatytas laikinas perkėlimas į kitas pareigas negali trukti ilgiau kaip vienerius metus per penkerius muitinės pareigūno tarnybos metus. Pasibaigus laikino perkėlimo terminui, muitinės pareigūnas grąžinamas į pareigas, eitas iki perkėlimo.
+
+4. Šio straipsnio 1 ir 2 dalių nuostatos netaikomos nėščioms muitinės pareigūnėms ir bent vieną vaiką iki 7 metų auginantiems muitinės pareigūnams, taip pat muitinės pareigūnams, vieniems auginantiems bent vieną vaiką iki 16 metų arba neįgalų vaiką iki 18 metų.
+
+5. Muitinės pareigūnui jo rašytiniu sutikimu gali būti pavesta kartu su pagrindinėmis pareigomis atlikti ir laikinai nesančio muitinės pareigūno pareigas. Šiuo atveju jis turi atitikti pareigybės aprašyme nustatytus specialiuosius reikalavimus. 
+
+Straipsnio pakeitimai:
+Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
  
 
 AŠTUNTASIS SKIRSNIS
@@ -625,43 +649,62 @@ Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010IST
 
 1. Tarnybinės nuobaudos skyrimo procedūra pradedama muitinės pareigūno tiesioginio vadovo arba pareigūną į pareigas priėmusio asmens iniciatyva arba kai jie gauna informaciją apie muitinės pareigūno tarnybinį nusižengimą.
 
-2. Tarnybinė nuobauda turi būti paskirta ne vėliau kaip per vieną mėnesį nuo tarnybinio nusižengimo nustatymo dienos, neįskaitant laiko, kurį muitinės pareigūnas nebuvo tarnyboje dėl ligos arba atostogavo. Negalima skirti tarnybinės nuobaudos praėjus vieneriems metams nuo tarnybinio nusižengimo padarymo dienos arba nuo tęstinio nusižengimo padarymo dienos (išskyrus šio straipsnio 4 dalyje nurodytą atvejį).
+2. Tarnybinė nuobauda turi būti paskirta ne vėliau kaip per vieną mėnesį nuo tarnybinio nusižengimo paaiškėjimo dienos, neįskaitant laiko, kurį muitinės pareigūnas nebuvo tarnyboje dėl ligos, buvo komandiruotėje arba atostogavo, o jeigu pradėtas ikiteisminis tyrimas arba atliekamas tarnybinis ar kitas kompetentingos institucijos patikrinimas, – ne vėliau kaip per du mėnesius nuo ikiteisminio tyrimo nutraukimo arba teismo nuosprendžio įsiteisėjimo dienos, kompetentingos institucijos tikrinimo baigimo dienos. Negalima skirti tarnybinės nuobaudos, jei nuo tarnybinio nusižengimo padarymo dienos praėjo vieneri metai, išskyrus atvejus, kai tarnybinis nusižengimas nustatomas atliekant auditą, piniginių ar kitokių vertybių reviziją (inventorizaciją) arba kompetentingos institucijos patikrinimą. Šiais atvejais tarnybinė nuobauda turi būti skiriama ne vėliau kaip per trejus metus nuo tarnybinio nusižengimo padarymo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
+ 
 
 3. Už vieną tarnybinį nusižengimą galima skirti tik vieną tarnybinę nuobaudą. 
 
-4. Jeigu paaiškėja, kad tarnybinis nusižengimas turi nusikalstamos veikos ar administracinio teisės pažeidimo požymių, tarnybinės nuobaudos skyrimo procedūra sustabdoma ir tarnybinio nusižengimo tyrimo medžiaga perduodama tirti kompetentingai institucijai. Jeigu atsisakoma pradėti ikiteisminį tyrimą, bylos dėl administracinio teisės pažeidimo teiseną arba asmuo nėra patraukiamas baudžiamojon ar administracinėn atsakomybėn ir procesas yra pasibaigęs, tarnybinės nuobaudos skyrimo procedūra tęsiama ir tarnybinė nuobauda gali būti paskirta ne vėliau kaip per vieną mėnesį nuo šių sąlygų atsiradimo. 
+4. Kai paaiškėja, kad tarnybinis nusižengimas turi nusikalstamos veikos ar administracinio teisės pažeidimo požymių, tarnybinio nusižengimo tyrimas sustabdomas ir tarnybinio patikrinimo medžiaga perduodama institucijai, kompetentingai tirti šias veikas. Jeigu atsisakoma pradėti ikiteisminį tyrimą ar administracinio teisės pažeidimo bylos teiseną arba ikiteisminis tyrimas, baudžiamoji byla ar administracinio teisės pažeidimo bylos teisena nutraukiama arba jei pareigūnas atleidžiamas nuo baudžiamosios atsakomybės ar administracinė nuobauda jam neskiriama, tarnybinio nusižengimo tyrimas tęsiamas ir tarnybinė nuobauda turi būti paskirta šio straipsnio 2 dalyje nustatyta tvarka ir terminais. 
+Straipsnio dalies pakeitimai:
+Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
  
 
 36 straipsnis. Pasiaiškinimas
 
-1. Prieš skiriant tarnybinę nuobaudą, reikalaujama, kad muitinės pareigūnas raštu pasiaiškintų.
+1. Prieš skiriant tarnybinę nuobaudą, raštu pareikalaujama, kad muitinės pareigūnas raštu pasiaiškintų. 
+Straipsnio dalies pakeitimai:
+Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
+ 
 
 2. Jeigu muitinės pareigūnas atsisako raštu pasiaiškinti, tarnybinė nuobauda skiriama be pasiaiškinimo. Atsisakymo pasiaiškinti faktą tiesioginis muitinės pareigūno vadovas įformina rašytiniu aktu. 
  
 
 37 straipsnis. Tarnybinės nuobaudos skyrimo principai
 
-1. Tarnybinė nuobauda skiriama atsižvelgiant į muitinės pareigūno kaltę, asmenybę, tarnybinio nusižengimo priežastis, aplinkybes ir padarinius.
+1. Tarnybinė nuobauda skiriama atsižvelgiant į muitinės pareigūno kaltę, tarnybinio nusižengimo padarymo priežastis, aplinkybes ir padarinius, į muitinės pareigūno veiklą iki tarnybinio nusižengimo padarymo bei į informaciją, pateiktą Korupcijos prevencijos įstatymo numatytais atvejais ir tvarka.
 
 2. Tarnybinė nuobauda – atleidimas iš pareigų gali būti skiriama:
 
 1) už Statuto 15 straipsnio 1 ir 3 dalyse nustatytų draudimų nesilaikymą;
 
-2) už Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo reikalavimų pažeidimą siekiant gauti neteisėtų pajamų arba privilegijų sau arba kitiems;
+2) už veiksmus, tiesiogiai pažeidžiančius žmonių konstitucines teises;
 
-3) už pareigybės aprašyme nustatytų pareigų neatlikimą arba netinkamą atlikimą, jei dėl to atsirado sunkių padarinių;
+3) už piktnaudžiavimą tarnyba bei Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo reikalavimų pažeidimą siekiant gauti neteisėtų pajamų arba privilegijų sau arba kitiems;
 
-4) už nebuvimą tarnybos vietoje vieną arba daugiau darbo dienų be pateisinamos priežasties;
+4) už pareigybės aprašyme nustatytų pareigų neatlikimą arba netinkamą atlikimą, jei dėl to atsirado sunkių padarinių;
 
-5) už buvimą tarnybos metu neblaiviam arba apsvaigusiam nuo narkotinių, toksinių ar psichotropinių medžiagų;
+5) už valstybės, tarnybos ar komercinės paslapties atskleidimą;
 
-6) už vengimą tikrintis dėl neblaivumo arba apsvaigimo nuo narkotinių, toksinių ar psichotropinių medžiagų;
+6) už korupcinio pobūdžio nusikalstamos veikos požymių turinčią veiką, nors už šią veiką muitinės pareigūnas ir nebuvo traukiamas baudžiamojon ar administracinėn atsakomybėn;
 
-7) už tarnybinio šaunamojo ginklo arba antspaudo praradimą dėl savo kaltės;
+7) už nebuvimą tarnybos vietoje vieną arba daugiau darbo dienų be pateisinamos priežasties;
 
-8) už Lietuvos Respublikos valstybės sienos perėjimą tarnybos metu ne tarnybos reikalais;
+8) už buvimą tarnybos metu neblaiviam arba apsvaigusiam nuo narkotinių, toksinių ar psichotropinių medžiagų;
 
-9) jeigu per paskutinius 12 mėnesių muitinės pareigūnui buvo skirta tarnybinė nuobauda, nurodyta Statuto 34 straipsnio 1 dalies 1–4 punktuose.
+9) už vengimą tikrintis dėl neblaivumo arba apsvaigimo nuo narkotinių, toksinių ar psichotropinių medžiagų;
+
+10) už tarnybinio šaunamojo ginklo arba antspaudo praradimą dėl savo kaltės;
+
+11) už Lietuvos Respublikos valstybės sienos perėjimą tarnybos metu ne tarnybos reikalais;
+
+12) už tarnybinį nusižengimą, padarytą turint galiojančią tarnybinę nuobaudą, nustatytą Statuto 34 straipsnio 1 dalies 3 ir 4 punktuose;
+
+13) už kitus nusižengimus, kuriais šiurkščiai nusižengiama muitinės pareigūno pareigoms ar muitinės pareigūno etikai. 
+
+Straipsnio pakeitimai:
+Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
  
 
 38 straipsnis. Tarnybinės nuobaudos galiojimas
@@ -774,15 +817,18 @@ Straipsnio pakeitimai:
 Nr. X-790, 2006-07-19, Žin., 2006, Nr. 87-3401 (2006-08-08), i. k. 1061010ISTA000X-790
  
 
-49 straipsnis. Darbo užmokesčio mokėjimas laikino pavedimo atlikti kitas pareigas atveju
+49 straipsnis. Darbo užmokesčio mokėjimas laikino perkėlimo į kitas pareigas ir laikino pavedimo atlikti kitas pareigas atveju
 
-1. Muitinės pareigūnui, kuriam laikinai pavesta atlikti aukštesnės kategorijos pareigas Statuto 29 straipsnio 1 dalyje nurodytu atveju, mokamas šių pareigų kategoriją atitinkantis darbo užmokestis.
+1. Muitinės pareigūnui, kuris laikinai perkeltas į aukštesnės kategorijos pareigas Statuto 29 straipsnio 1 ir 2 dalyse nurodytais atvejais, mokamas šių pareigų kategoriją atitinkantis darbo užmokestis.
 
-2. Muitinės pareigūnui, kuriam laikinai pavesta atlikti žemesnės kategorijos pareigas Statuto 29 straipsnio 1 dalyje nurodytu atveju, mokamas iki laikino pavedimo gautas darbo užmokestis.
+2. Muitinės pareigūnui, kuris laikinai perkeltas į žemesnės kategorijos pareigas Statuto 29 straipsnio 1 ir 2 dalyse nurodytais atvejais, mokamas iki laikino perkėlimo gautas darbo užmokestis.
 
-3. Muitinės pareigūnui, kuriam laikinai pavesta atlikti kitas pareigas Statuto 29 straipsnio 1 dalyje nurodytu atveju, darbo užmokestį moka jo nuolatinės tarnybos vietos muitinės įstaiga.
+3. Muitinės pareigūnui, kuris laikinai perkeltas į kitas pareigas Statuto 29 straipsnio 1 dalyje nurodytu atveju, darbo užmokestį moka Muitinės departamentas arba muitinės įstaiga, į kuriuos jis yra laikinai perkeltas.
 
-4. Muitinės pareigūnui, kuriam laikinai pavesta atlikti kitas pareigas Statuto 29 straipsnio 4 dalyje nurodytu atveju, mokama atitinkama Valstybės tarnybos įstatymo numatyta priemoka.
+4. Muitinės pareigūnui, kuriam laikinai pavesta atlikti kitas pareigas Statuto 29 straipsnio 5 dalyje nurodytu atveju, mokama atitinkama Valstybės tarnybos įstatymo numatyta priemoka. 
+
+Straipsnio pakeitimai:
+Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
  
 
 DEŠIMTASIS SKIRSNIS
@@ -791,10 +837,11 @@ MUITINĖS PAREIGŪNŲ DARBO IR POILSIO LAIKAS, SOCIALINĖS GARANTIJOS
 
 50 straipsnis. Muitinės pareigūnų darbo ir poilsio laikas
 
-Muitinės pareigūnų darbo ir poilsio laiką nustato Muitinės departamento generalinis direktorius, vadovaudamasis įstatymais ir kitais teisės aktais. 
+Muitinės pareigūnų darbo ir poilsio laiką bei darbo ir poilsio režimo ypatumus (taikant suminę darbo laiko apskaitą, nustatant nepertraukiamo poilsio trukmę ir kt.) nustato Muitinės departamento generalinis direktorius, vadovaudamasis Darbo kodeksu, įstatymais ir kitais teisės aktais. 
 
 Straipsnio pakeitimai:
 Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010ISTA0IX-2186
+Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
  
 
 51 straipsnis. Muitinės pareigūnų atostogos, valstybinis socialinis draudimas, sveikatos draudimas ir pensijos
@@ -803,17 +850,31 @@ Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010IST
 
 2. Muitinės pareigūnams suteikiamos 30 kalendorinių dienų kasmetinės atostogos.
 
-3. Muitinės pareigūnui, turinčiam didesnį kaip penkerių metų tarnybos muitinėje stažą, už kiekvienų paskesnių trejų metų tarnybos muitinėje stažą suteikiamos papildomos 3 kalendorinės dienos kasmetinių atostogų, tačiau bendra kasmetinių atostogų trukmė negali būti ilgesnė kaip 45 kalendorinės dienos.
+3. Muitinės pareigūnui, turinčiam didesnį kaip penkerių metų tarnybos muitinėje stažą, už kiekvienų paskesnių trejų metų tarnybos muitinėje stažą suteikiamos papildomos 3 kalendorinės dienos kasmetinių atostogų, tačiau bendra kasmetinių atostogų trukmė negali būti ilgesnė kaip 45 kalendorinės dienos. Į tarnybos muitinėje stažą kasmetinių atostogų trukmei nustatyti įskaitomas ir pareigūno tarnybos valstybės ir savivaldybių institucijose ir įstaigose stažas, nustatytas Valstybės tarnybos įstatymo 42 straipsnyje.
 
-4. Muitinės pareigūnų valstybinį socialinį draudimą, sveikatos draudimą ir teisę į pensijas nustato įstatymai.
+4. Muitinės pareigūnui, turinčiam ne trumpesnį kaip 3 mėnesių tarnybos muitinėje stažą, jo ir į pareigas jį priėmusio asmens susitarimu gali būti suteiktos iki vienerių metų trukmės atostogos kvalifikacijai tobulinti. Šiuo atveju muitinės pareigūnui paliekamos jo eitos pareigos, tačiau jam nustatytas darbo užmokestis nemokamas.
+
+5. Pasinaudoti šio straipsnio 4 dalyje nurodytomis atostogomis muitinės pareigūnas gali ne dažniau kaip vieną kartą per penkerius metus.
+
+6. Muitinės pareigūnui dėl Statuto 29 straipsnio 1 ir 2 dalyse nustatyto laikino perkėlimo į kitas pareigas (kai laikinai perkeliama į kitas pareigas kitoje gyvenamojoje vietovėje) skiriama iki 5 darbo dienų persikėlimo atostogų. Už šį laikotarpį muitinės pareigūnui mokamas jo vidutinis mėnesinis darbo užmokestis, apskaičiuotas Vyriausybės nustatyta tvarka.
+
+7. Persikėlimo išlaidas, susidariusias dėl Statuto 29 straipsnio 1 ir 2 dalyse nustatyto laikino perkėlimo į kitas pareigas (kai laikinai perkeliama į kitas pareigas kitoje gyvenamojoje vietovėje), moka Muitinės departamentas arba muitinės įstaiga, į kuriuos perkeltas muitinės pareigūnas. Persikėlimo išlaidos mokamos Vyriausybės nustatyta tvarka.
+
+8. Muitinės pareigūnų valstybinį socialinį draudimą, sveikatos draudimą ir teisę į pensijas nustato įstatymai.
+
+9. Muitinės mobiliųjų grupių pareigūnai, muitinės postų pareigūnai ir muitinės pareigūnai, atliekantys operatyvinę veiklą ir (arba) ikiteisminį tyrimą, turi teisę gauti pareigūnų valstybinę pensiją pagal Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymą. 
+
+Straipsnio pakeitimai:
+Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
  
 
 52 straipsnis. Vykimo į kitą gyvenamąją vietovę išlaidų kompensavimas
 
-Muitinės pareigūnams, kuriems Statuto 29 straipsnio 1 dalyje nustatyta tvarka laikinai pavesta atlikti kitas pareigas kitoje gyvenamojoje vietovėje, Muitinės departamento generalinio direktoriaus nustatyta tvarka kompensuojamos vykimo į tarnybos vietą arba gyvenamosios patalpos nuomos išlaidos (išskyrus atvejus, kai muitinės pareigūnas vyksta į tarnybos vietą tarnybiniu transportu). 
+Muitinės pareigūnams, kurie Statuto 29 straipsnio 1 ir 2 dalyse nustatyta tvarka laikinai perkelti į kitas pareigas kitoje gyvenamojoje vietovėje, Muitinės departamento generalinio direktoriaus nustatyta tvarka kompensuojamos vykimo į tarnybos vietą arba gyvenamosios patalpos nuomos išlaidos (išskyrus atvejus, kai muitinės pareigūnas vyksta į tarnybos vietą tarnybiniu transportu). 
 
 Straipsnio pakeitimai:
 Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010ISTA0IX-2186
+Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
  
 
 53 straipsnis. Išeitinės išmokos 
@@ -835,11 +896,68 @@ Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010IST
 4. Šio straipsnio 2 dalyje nustatyta išeitinė išmoka pradedama mokėti praėjus mėnesiui nuo muitinės pareigūno atleidimo iš pareigų dienos ir mokama kas mėnesį lygiomis dalimis. Jos mokėjimas nutraukiamas, jeigu asmuo pradeda eiti valstybės tarnautojo pareigas. Jeigu asmuo pradeda eiti pareigas ne pirmą mėnesio dieną, išeitinė išmoka mokama tik už to mėnesio dienas iki priėmimo į valstybės tarnautojo pareigas dienos.
  
 
+531 straipsnis. Kompensacijos muitinės mobiliųjų grupių pareigūnams, muitinės postų pareigūnams ir muitinės pareigūnams, atliekantiems operatyvinę veiklą ir (arba) ikiteisminį tyrimą
+
+1. Muitinės mobiliųjų grupių pareigūno, muitinės postų pareigūno ir muitinės pareigūno, atliekančio operatyvinę veiklą ir (arba) ikiteisminį tyrimą, žuvusio vykdant tarnybines pareigas (arba ne tarnybos metu, bet dėl priežasčių, susijusių su tarnyba), sutuoktiniui, nepilnamečiams vaikams (įvaikiams), kol jiems sukaks 18 metų, taip pat vaikams (įvaikiams), kurie mokosi nustatyta tvarka įregistruotų mokymo įstaigų dieniniuose skyriuose, kol jiems sukaks 24 metai, žuvusiojo vaikams, gimusiems po jo mirties, tėvui, motinai bei nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą, per vienerius metus nuo pareigūno mirties lygiomis dalimis išmokama vienkartinė 120 jo vidutinių mėnesinių darbo užmokesčių dydžio kompensacija. Žuvusysis laidojamas valstybės lėšomis. Valstybės apmokamų laidojimo išlaidų aprašą nustato Vyriausybė arba jos įgaliota institucija.
+
+2. Muitinės mobiliųjų grupių pareigūnui, muitinės postų pareigūnui ir muitinės pareigūnui, atliekančiam operatyvinę veiklą ir (arba) ikiteisminį tyrimą, sužeistam vykdant tarnybines pareigas (arba ne tarnybos metu, bet dėl priežasčių, susijusių su tarnyba), išmokama kompensacija, atsižvelgiant į sužeidimo (suluošinimo) laipsnį:
+
+1) dėl sveikatos sutrikdymo tapusiam neįgaliuoju ir kuriam Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka nustatytas 0–25 procentų darbingumo lygis arba iki 2005 m. liepos 1 d. buvo nustatyta I invalidumo grupė – 60 jo vidutinių mėnesinių darbo užmokesčių dydžio;
+
+2) dėl sveikatos sutrikdymo tapusiam neįgaliuoju ir kuriam Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka nustatytas 30–55 procentų darbingumo lygis arba iki 2005 m. liepos 1 d. buvo nustatyta II invalidumo grupė – 36 jo vidutinių mėnesinių darbo užmokesčių dydžio;
+
+3) dėl sveikatos sutrikdymo Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka nustatytas 60–100 procentų darbingumo lygis arba iki 2005 m. liepos 1 d. buvo nustatyta III invalidumo grupė – 12 jo vidutinių mėnesinių darbo užmokesčių dydžio.
+
+3. Muitinės mobiliųjų grupių pareigūno, muitinės postų pareigūno ir muitinės pareigūno, atliekančio operatyvinę veiklą ir (arba) ikiteisminį tyrimą, sveikatos sužalojimo sunkumo laipsnį, taip pat dėl sužeidimo likusius sveikatos pakitimus ar sumažėjusį jo tinkamumą tarnybai teisės aktų nustatyta tvarka nustato įgaliota Lietuvos nacionalinės sveikatos sistemos asmens sveikatos priežiūros įstaigos medicinos komisija. Šio straipsnio 1 ir 2 dalyse nustatytos kompensacijos mokamos iš Muitinės departamentui patvirtintų valstybės biudžeto asignavimų.
+
+4. Šio straipsnio 2 dalyje nustatyta kompensacija nemokama, jeigu pareigūnas sužeidimo vykdant tarnybines pareigas (arba ne tarnybos metu, bet dėl priežasčių, susijusių su tarnyba) metu buvo apsvaigęs nuo narkotinių, toksinių, psichotropinių medžiagų arba alkoholio arba dėl sužeidimo metu atliktų veiksmų buvo pradėtas ikiteisminis tyrimas ar administracinio teisės pažeidimo bylos teisena ir įsiteisėjo apkaltinamasis nuosprendis ar paskirta administracinė nuobauda arba pareigūnas save sužalojo tyčia. 
+
+Papildyta straipsniu:
+Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
+ 
+
 54 straipsnis. Kitos garantijos
 
-1. Muitinės pareigūnams taikomos Valstybės tarnybos įstatymo 43 straipsnyje nustatytos garantijos, išskyrus Valstybės tarnybos įstatymo 43 straipsnio 7 dalyje nustatytąją.
+1. Muitinės pareigūnams yra garantuojamos einamos pareigos ir nustatytas darbo užmokestis:
 
-2. Muitinės pareigūno, kuriam sukako 62 metai ir 6 mėnesiai, tarnyba jo prašymu gali būti pratęsta iki vienerių metų ir bendras pratęstas tarnybos laikas negali viršyti trejų metų. 
+1) stažuotės metu ir kai muitinės pareigūnai Muitinės departamento generalinio direktoriaus ar muitinės įstaigos vadovo įsakymu yra pasiųsti į Valstybės tarnybos įstatymo nustatytą mokymą;
+
+2) kai muitinės pareigūnai yra išsiųsti į tarnybinę komandiruotę, – už darbo dienomis komandiruotėje ir komandiruotės metu kelionėje išbūtą laiką;
+
+3) kai muitinės pareigūnai pagal kvietimą ar šaukimą yra išvykę į teismą arba į teisėsaugos ar kontrolės (priežiūros) funkcijas atliekančias institucijas;
+
+4) kai muitinės pareigūnai pagal šaukimą yra išvykę į naujokų šaukimo komisiją;
+
+5) kai muitinės pareigūnai yra pašaukti į pratybas, mokymus ar vykdyti tarnybinių užduočių pagal Karo prievolės įstatymą. Kai muitinės pareigūnas atlieka privalomąją pradinę karo tarnybą arba alternatyviąją krašto apsaugos tarnybą, jam garantuojamos tik einamos pareigos;
+
+6) artimųjų giminaičių (tėvų (įtėvių), vaikų (įvaikių), brolių, seserų, senelių ir vaikaičių), sutuoktinio tėvų, vaikų (įvaikių), brolių ir seserų mirties atveju – iki 3 darbo dienų;
+
+7) donorams – darbo dienomis, kuriomis jie teisės aktų nustatyta tvarka turi būti atleidžiami nuo tarnybos;
+
+8) kai muitinės pareigūnai, gavę tiesioginio vadovo sutikimą, yra išvykę į sveikatos priežiūros įstaigą ir valstybės ar savivaldybės instituciją ar įstaigą, – iki vienos darbo dienos.
+
+2. Muitinės pareigūno, kuriam sukako 62 metai ir 6 mėnesiai, tarnyba jo prašymu gali būti pratęsta iki vienerių metų ir bendras pratęstas tarnybos laikas negali viršyti trejų metų.
+
+3. Muitinės pareigūnas turi teisę Vyriausybės nustatyta tvarka gauti išmokas už komandiruotės išlaidas.
+
+4. Muitinės pareigūnams, kurių materialinė būklė sunki dėl jų pačių ligos, šeimos narių ligos ar mirties, stichinės nelaimės ar turto netekimo, gali būti skiriama iki 5 MMA dydžio pašalpa. Pašalpą skiria muitinės pareigūną į pareigas priėmęs asmuo iš tai įstaigai skirtų lėšų. Muitinės departamento generaliniam direktoriui ir muitinės įstaigos vadovui pašalpa skiriama iš jo vadovaujamai įstaigai skirtų lėšų.
+
+5. Muitinės pareigūnui priklausančios darbo užmokesčio ir kitos su tarnybos santykiais susijusios sumos priteisiamos ne daugiau kaip už trejus metus.
+
+6. Muitinės pareigūnai, kuriuos Muitinės departamentas ar muitinės įstaiga siunčia į užsienio komandiruotę, apdraudžiami draudimu nuo nelaimingų atsitikimų ir draudimu ligos atvejui. Draudimo išlaidas apmoka muitinės pareigūną į užsienio komandiruotę siunčianti įstaiga iš savo biudžeto lėšų.
+
+7. Muitinės pareigūnas, kurio pareigybė naikinama, paskiriamas į kitas to paties lygio ir kategorijos pareigas, o jei tokių pareigų nėra ir muitinės pareigūnas sutinka, – į to paties lygio žemesnės kategorijos pareigas. Jei iki pareigybės panaikinimo muitinės pareigūnas į kitas pareigas nepaskiriamas, jis atleidžiamas iš pareigų pagal Statuto 55 straipsnio 1 dalies 8 punktą. Muitinės pareigūnui apie pareigybės panaikinimą turi būti pranešta raštu ne vėliau kaip prieš 2 mėnesius iki pareigybės panaikinimo. Neįgaliajam, nėščiai muitinės pareigūnei (kai muitinės įstaiga likviduojama), pareigūnui, auginančiam vaikus (vaiką) iki 14 metų, pareigūnui, kuriam iki teisės gauti visą senatvės pensiją liko ne daugiau kaip penkeri metai, apie pareigybės panaikinimą turi būti pranešta raštu prieš 4 mėnesius.
+
+8. Mirusio muitinės pareigūno šeimai, pilnamečiam vaikui (vaikams), įvaikiui (įvaikiams), tėvams (įtėviams) išmokama vieno mėnesio jo gauto vidutinio darbo užmokesčio dydžio pašalpa (neatsižvelgiant į kitų įstatymų nustatytas ir išmokėtas laidojimo pašalpas). Muitinės pareigūno, kuris žuvo arba mirė užsienyje atlikdamas tarnybines pareigas, palaikų pervežimo į Lietuvą išlaidas apmoka valstybė teisės aktų nustatyta tvarka. Muitinės pareigūno, mirusio užsienyje dėl priežasčių, nesusijusių su tarnybinių pareigų atlikimu, palaikų pervežimo į Lietuvą tvarką nustato Vyriausybė.
+
+9. Einamos pareigos garantuojamos, kai muitinės pareigūnas dėl privalomosios pradinės karo tarnybos arba alternatyviosios krašto apsaugos tarnybos atlikimo, atostogų kvalifikacijai tobulinti, nėštumo ir gimdymo atostogų ar atostogų vaikui prižiūrėti, kol šiam sueis treji metai, dėl laikino perkėlimo į kitas pareigas negali eiti pareigų.
+
+10. Muitinės postų pareigūnui, pagal tarnybos pobūdį važinėjančiam tarnybiniais tikslais keleiviniu ar asmeniniu transportu, taip pat vykstančiam į tarnybos vietą ir iš jos, važiavimo išlaidos, išskyrus taksi, kompensuojamos finansų ministro nustatyta tvarka.
+
+11. Kiti įstatymai gali nustatyti ir kitų garantijų. 
+
+Straipsnio pakeitimai:
+Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
  
 
 VIENUOLIKTASIS SKIRSNIS
@@ -877,9 +995,15 @@ Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010IST
 
 12) jam įstatymų nustatyta tvarka atimtos specialiosios teisės, susijusios su jo tiesioginių pareigų atlikimu;
 
-13) jis atsisako dirbti pakeitus tarnybos sąlygas Statuto 29 straipsnio 1 dalyje nurodytu atveju;
+13) jis atsisako dirbti laikinai perkėlus jį į kitas pareigas Statuto 29 straipsnio 1 ir 2 dalyse nurodytais atvejais; 
+Straipsnio punkto pakeitimai:
+Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
+ 
 
-14) jis pagal medicinos ekspertizės komisijos išvadą negali tęsti tarnybos;
+14) jis pagal asmens sveikatos priežiūros įstaigos gydytojų konsultacinės komisijos arba medicinos ekspertizės komisijos išvadą negali tęsti tarnybos; 
+Straipsnio punkto pakeitimai:
+Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
+ 
 
 15) statutinė komisija du kartus iš eilės jo tarnybinę veiklą įvertina nepatenkinamai ir siūlo muitinės pareigūną į pareigas priėmusiam asmeniui atleisti jį iš pareigų;
 
@@ -902,6 +1026,14 @@ Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010IST
 4. Nėščia muitinės pareigūnė, taip pat muitinės pareigūnas atostogų vaikui prižiūrėti, iki jam sueis treji metai, metu negali būti atleistas iš pareigų šio straipsnio 1 dalies 3, 8 (išskyrus atvejus, kai muitinės įstaiga likviduojama), 10, 11, 14, 15 ir 18 punktuose nurodytais pagrindais.
 
 5. Ginčai dėl muitinės pareigūno atleidimo iš pareigų nagrinėjami Administracinių bylų teisenos įstatymo nustatyta tvarka.
+ 
+
+551 straipsnis. Išbraukimas iš muitinės pareigūnų sąrašų
+
+Mirę, įstatymų nustatyta tvarka paskelbti mirusiais, pripažinti nežinia kur esančiais muitinės pareigūnai išbraukiami iš muitinės pareigūnų sąrašų Muitinės departamento generalinio direktoriaus arba muitinės įstaigos vadovo įsakymu. 
+
+Papildyta straipsniu:
+Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
  
 
 56 straipsnis. Atsiskaitymas su atleidžiamu iš pareigų muitinės pareigūnu
@@ -949,4 +1081,9 @@ Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto 18 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-790, 2006-07-19, Žin., 2006, Nr. 87-3401 (2006-08-08), i. k. 1061010ISTA000X-790
 Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto 15 ir 48 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
+Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto 5, 8, 10, 25, 28, 29, 35, 36, 37, 49, 50, 51, 52, 54, 55 straipsnių pakeitimo bei papildymo ir Statuto papildymo 28(1), 53(1), 55(1) straipsniais įstatymas
 
