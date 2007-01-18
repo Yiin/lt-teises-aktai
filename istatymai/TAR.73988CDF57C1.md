@@ -13,10 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.73988CDF57C1"
 
 # Lietuvos Respublikos viešojo administravimo įstatymo pakeitimo įstatymas
 
-Įstatymas
-skelbtas: Žin., 2006, Nr. 77-2975 
-Neoficialus
-įstatymo tekstas
+Įstatymas skelbtas: Žin., 2006, Nr.
+77-2975 
+Neoficialus įstatymo tekstas
  
 LIETUVOS RESPUBLIKOS
 VIEŠOJO ADMINISTRAVIMO ĮSTATYMO PAKEITIMO
@@ -26,8 +25,7 @@ VIEŠOJO ADMINISTRAVIMO ĮSTATYMO PAKEITIMO
 Vilnius
 (Žin., 1999, Nr.
 60-1945; 2002, Nr. 123-5557; 
-2003, Nr.
-104-4637; 2005, Nr. 76-2746)
+2003, Nr. 104-4637; 2005, Nr. 76-2746)
  
 1
 straipsnis. Lietuvos Respublikos viešojo administravimo įstatymo nauja
@@ -46,8 +44,8 @@ SKIRSNIS
 BENDROSIOS
 NUOSTATOS
  
-1 straipsnis.
-Įstatymo paskirtis
+1
+straipsnis. Įstatymo paskirtis
 Šis įstatymas
 sudaro prielaidas įgyvendinti Lietuvos Respublikos Konstitucijos nuostatą, kad
 visos valdžios įstaigos tarnauja žmonėms; nustato viešojo administravimo
@@ -57,8 +55,8 @@ teisę apskųsti viešojo administravimo subjektų veiksmus, neveikimą ar
 administracinius sprendimus, taip pat teisę į įstatymais pagrįstą ir objektyvų
 asmenų prašymų, skundų ir pranešimų nagrinėjimą.
  
-2 straipsnis.
-Pagrindinės šio įstatymo sąvokos 
+2
+straipsnis. Pagrindinės šio įstatymo sąvokos 
 1. Viešasis
 administravimas – įstatymų ir kitų teisės aktų reglamentuojama viešojo
 administravimo subjektų veikla, skirta įstatymams ir kitiems norminiams teisės
@@ -74,13 +72,13 @@ administravimas – veikla, kuria užtikrinamas viešojo administravimo
 subjekto savarankiškas funkcionavimas (struktūros tvarkymas, dokumentų,
 personalo, turimų materialinių ir finansinių
 išteklių valdymas), kad jis galėtų atlikti viešąjį administravimą. 
-4. Viešojo
-administravimo subjektas – institucija, įstaiga, pareigūnas, valstybės
-tarnautojas, kitas fizinis ar juridinis asmuo, kuriuos įstatymai įgalioja
-atlikti viešąjį administravimą.
+4. Viešojo administravimo
+subjektas – institucija, įstaiga, pareigūnas, valstybės tarnautojas, kitas
+fizinis ar juridinis asmuo, kuriuos įstatymai įgalioja atlikti viešąjį
+administravimą.
 5. Viešojo
-administravimo institucija – kolegialus ar vienvaldis viešojo
-administravimo subjektas, pagal įstatymus turintis įgaliojimus leisti norminius
+administravimo institucija – kolegialus ar vienvaldis viešojo administravimo
+subjektas, pagal įstatymus turintis įgaliojimus leisti norminius
 administracinius aktus.
 6. Viešojo
 administravimo įstaiga – valstybės ar savivaldybės biudžetinė įstaiga,
@@ -119,9 +117,9 @@ asmens rašytinis kreipimasis į viešojo administravimo subjektą, kuriame
 nurodoma, kad yra pažeistos jo teisės ar teisėti interesai, ir prašoma juos
 apginti.
 16.
-Pranešimas – asmens rašytinis kreipimasis į viešojo
-administravimo subjektą, kuriame nurodoma, kad yra pažeistos kito asmens teisės
-ar teisėti interesai, ir prašoma juos apginti.
+Pranešimas – asmens rašytinis kreipimasis į viešojo administravimo
+subjektą, kuriame nurodoma, kad yra pažeistos kito asmens teisės ar teisėti
+interesai, ir prašoma juos apginti.
 17.
 Administracinė paslauga – viešojo administravimo subjekto veiksmai
 išduodant asmenims leidimus (licencijas) ar dokumentus, patvirtinančius
@@ -193,12 +191,12 @@ SKIRSNIS
 VIEŠASIS
 ADMINISTRAVIMAS
  
-4 straipsnis.
-Viešojo administravimo subjektų sistema
-1. Viešojo administravimo subjektų sistema –
-pavaldumo ir koordinaciniais ryšiais tarpusavyje susieti viešojo administravimo
-subjektai, turintys įstatymų nustatytus įgaliojimus atlikti viešąjį
-administravimą. 
+4
+straipsnis. Viešojo administravimo subjektų sistema
+1. Viešojo
+administravimo subjektų sistema – pavaldumo ir koordinaciniais ryšiais
+tarpusavyje susieti viešojo administravimo subjektai, turintys įstatymų
+nustatytus įgaliojimus atlikti viešąjį administravimą. 
 2. Viešojo
 administravimo subjektų sistemą sudaro
 valstybinio administravimo subjektai, savivaldybių administravimo subjektai,
@@ -222,8 +220,8 @@ administravimo subjektai – fiziniai ar juridiniai asmenys (viešosios įstaigo
 valstybės įmonės, nevyriausybinės organizacijos, asociacijos), kurie pagal
 įstatymus turi įgaliojimus atlikti viešąjį administravimą.
  
-5 straipsnis.
-Pagrindinės viešojo administravimo sritys
+5
+straipsnis. Pagrindinės viešojo administravimo sritys
 Pagrindinės
 viešojo administravimo sritys:
 1)
@@ -233,11 +231,11 @@ priežiūra ar kontrolė;
 administracinių paslaugų teikimas;
 3) viešųjų
 paslaugų teikimo administravimas;
-4) viešojo administravimo
-subjekto vidaus administravimas.
+4) viešojo
+administravimo subjekto vidaus administravimas.
  
-6 straipsnis.
-Administracinis reglamentavimas
+6
+straipsnis. Administracinis reglamentavimas
 1. Tik viešojo
 administravimo subjektai turi teisę leisti administracinius aktus, reikalingus
 įstatymams ir kitiems norminiams teisės aktams įgyvendinti.
@@ -251,8 +249,8 @@ remdamiesi įstatymų nustatytais įgaliojimais.
 reikalavimus asmenims nustato tik įstatymai ar jų pagrindu priimti teisės
 aktai. 
  
-7 straipsnis.
-Pareiga tartis dėl administracinio reglamentavimo 
+7
+straipsnis. Pareiga tartis dėl administracinio reglamentavimo 
 1. Viešojo
 administravimo subjektai dėl administracinių sprendimų, susijusių su bendrais
 teisėtais visuomenės interesais, turi konsultuotis su visuomenės interesams tam
@@ -264,8 +262,8 @@ Konsultavimosi būdus (suinteresuotų asmenų sueigos, apklausos, viešai skelbt
 susirinkimai, atstovų kvietimai, kiti nuomonių išaiškinimo būdai), jeigu
 įstatymų nenustatyta kitaip, pasirenka pats viešojo administravimo subjektas.
  
-8 straipsnis.
-Individualaus administracinio akto bendrieji reikalavimai
+8
+straipsnis. Individualaus administracinio akto bendrieji reikalavimai
 1. Individualus
 administracinis aktas turi būti pagrįstas objektyviais duomenimis (faktais) ir
 teisės aktų normomis.
@@ -278,8 +276,8 @@ administracinis aktas turi būti pasirašytas jį priėmusio pareigūno ar valst
 tarnautojo arba viešojo administravimo subjekto vadovo, jo pavaduotojo ar
 įgalioto asmens ir patvirtintas antspaudu.
  
-9 straipsnis.
-Administracinių aktų įgyvendinimo priežiūra ar kontrolė 
+9
+straipsnis. Administracinių aktų įgyvendinimo priežiūra ar kontrolė 
 1.
 Administracinių aktų įgyvendinimas turi būti prižiūrimas ar kontroliuojamas. 
 2. Priežiūros ar
@@ -288,11 +286,11 @@ administravimo subjektas. Juo gali būti pats aktą išleidęs viešojo
 administravimo subjektas arba kitas jo įpareigotas ir jam atskaitingas viešojo
 administravimo subjektas.
  
-10 straipsnis.
-Viešojo administravimo kokybės valdymas
-1. Viešojo
-administravimo kokybės valdymas įgyvendinamas valstybės ir viešojo
-administravimo subjekto lygiais.
+10
+straipsnis. Viešojo administravimo kokybės valdymas
+1. Viešojo administravimo
+kokybės valdymas įgyvendinamas valstybės ir viešojo administravimo subjekto
+lygiais.
 2. Svarbiausias
 valstybės lygio viešojo administravimo kokybės valdymo būdas yra viešojo
 administravimo subjektų ir jų veiklos stebėsena. Šiuo būdu siekiama laiku
@@ -314,8 +312,8 @@ subjekto strateginiais veiklos planais.
 administravimo subjekto strateginių veiklos planų vykdymą vertina vidaus
 audito tarnyba.
  
-11 straipsnis.
-Vidaus administravimas 
+11
+straipsnis. Vidaus administravimas 
 1. Vidaus
 administravimo tikslas – užtikrinti, kad viešojo administravimo subjektas
 galėtų tinkamai atlikti viešojo administravimo funkcijas.
@@ -326,49 +324,30 @@ vadovaudamiesi įstatymais ar jų pagrindu priimtais teisės aktais ir
 atsižvelgdami į nustatytus subjekto tikslus ir uždavinius, strateginius veiklos
 planus ir patvirtintą valstybės tarnautojų pareigybių ir darbuotojų, dirbančių
 pagal darbo sutartis (toliau – darbuotojai), skaičių.
-3.
-Viešojo administravimo subjekto administracijos padaliniai yra departamentas
-(valdyba), skyrius (biuras).
-4.
-Departamentas (valdyba) steigiamas, jeigu administruojant pavestą sritį būtina
-spręsti sudėtingus uždavinius, atlikti įvairias funkcijas ir dėl to atsiranda
-poreikis koordinuoti jų įgyvendinimą. Departamentą (valdybą) sudaro ne mažiau
-kaip trys skyriai. Departamentui vadovauja direktorius (valdybai –
-viršininkas). Direktorius (viršininkas) gali turėti pavaduotojų. Departamento
-(valdybos) veiklą reglamentuojančius teisės aktus (nuostatus, pareigybių
-aprašymus) tvirtina viešojo administravimo subjekto vadovas.
-5. Skyrius
-(biuras) yra departamento (valdybos) padalinys. Skyrių (biurą) sudaro ne mažiau
-kaip 5 pareigybės. Skyriui vadovauja vedėjas (biurui – viršininkas). Skyriaus
-vedėjas (biuro viršininkas) gali turėti pavaduotoją. Skyriaus (biuro) veiklą
-reglamentuojančius teisės aktus (nuostatus, pareigybių aprašymus ir kt.)
-tvirtina viešojo administravimo subjekto vadovas.
-6. Kai
-administruoti pavestoje srityje nepakankama uždavinių ir funkcijų įvairovė arba
-kai to reikalauja įstatymas ar jo pagrindu priimtas kitas teisės aktas, skyrius
-(biuras) gali nebūti departamento (valdybos) struktūrinė dalis. Skyriui
-(biurui), kuris nėra departamento (valdybos) struktūrinė dalis, vadovauja
-vedėjas (biurui – viršininkas). Skyriaus (biuro), kuris nėra
-departamento (valdybos) struktūrinė dalis, vedėjas (biuro viršininkas) gali
-turėti pavaduotoją. Skyriaus (biuro), kuris nėra departamento (valdybos)
-struktūrinė dalis, veiklą reglamentuojančius teisės aktus (nuostatus,
-pareigybių aprašymus) tvirtina viešojo administravimo subjekto vadovas.
-7. Uždaviniams
-ir funkcijoms, nepriskirtiems viešojo administravimo
-subjekto administracijos padaliniams, įgyvendinti gali būti steigiama atskira
-pareigybė, nepriklausanti skyriui (biurui) ar departamentui (valdybai). Tokios
-pareigybės aprašymą tvirtina viešojo administravimo subjekto vadovas.
+3. Neteko
+galios nuo 2007 m. sausio 30 d.
+4. Neteko
+galios nuo 2007 m. sausio 30 d.
+5. Neteko
+galios nuo 2007 m. sausio 30 d.
+6. Neteko
+galios nuo 2007 m. sausio 30 d.
+7. Neteko
+galios nuo 2007 m. sausio 30 d.
+Straipsnio pakeitimas:
+Nr. X-1036,
+2007-01-18, Žin., 2007, Nr. 12-497 (2007-01-30)
  
-12 straipsnis.
-Vidaus administravimo pagrindai
+12
+straipsnis. Vidaus administravimo pagrindai
 Viešojo
 administravimo subjektų vidaus administravimą reglamentuoja įstatymai arba jų
 pagrindu priimti teisės aktai (nuostatai, statutai, veiklos (darbo)
 reglamentai, pareigybių aprašymai (pareiginės instrukcijos), vidaus tvarkos
 taisyklės).
  
-13 straipsnis.
-Vidaus administravimo kontrolė
+13
+straipsnis. Vidaus administravimo kontrolė
 Viešojo
 administravimo subjekto vidaus administravimo kontrolės formos gali būti:
 1) vidaus
@@ -379,8 +358,8 @@ auditas, vertinantis viešojo administravimo subjekto administracinės veiklos
 kokybę ir efektyvumą, taip pat vidaus kontrolės ir vidaus audito sistemos
 patikimumą.
  
-14 straipsnis.
-Asmenų prašymų nagrinėjimas
+14
+straipsnis. Asmenų prašymų nagrinėjimas
 1. Asmenų
 prašymus viešojo administravimo subjektai nagrinėja pagal Vyriausybės
 patvirtintas taisykles.
@@ -389,8 +368,8 @@ asmenų prašymus, Vyriausybės patvirtintų taisyklių nuostatos taikomos tiek,
 kiek tų klausimų nereglamentuoja įstatymai ir įstatymų pagrindu priimti kiti
 teisės aktai.
  
-15 straipsnis.
-Administracinių paslaugų teikimas
+15
+straipsnis. Administracinių paslaugų teikimas
 1.
 Administracinės paslaugos yra:
 1) leidimų
@@ -447,34 +426,32 @@ teikiančias įstaigas, jeigu to nenumato įstatymai.
 paslaugų teikimo režimo laikymąsi ir teikiamų viešųjų paslaugų kokybę atsako
 paslaugas teikiančio subjekto vadovas.
  
-18
-straipsnis. Informacinių technologijų naudojimas viešajam administravimui 
+18 straipsnis. Informacinių technologijų naudojimas
+viešajam administravimui 
 Viešojo
 administravimo subjektai, įgyvendindami jiems pavestas funkcijas, informacines
 technologijas naudoja įstatymų ir kitų teisės aktų nustatyta tvarka.
  
-Trečiasis
-skirsnis
+Trečiasis skirsnis
 Administracinė procedūra
  
 19 straipsnis.
 Administracinė procedūra ir jos dalyviai
 1. Administracinė
 procedūra – pagal šį įstatymą viešojo administravimo subjekto atliekami
-privalomi veiksmai nagrinėjant asmens skundą
-ar pranešimą apie viešojo administravimo subjekto veiksmais, neveikimu ar
-administraciniais sprendimais galimai padarytą asmens, nurodyto skunde ar
+privalomi veiksmai nagrinėjant asmens skundą ar pranešimą apie viešojo
+administravimo subjekto veiksmais, neveikimu ar administraciniais sprendimais galimai padarytą asmens, nurodyto skunde ar
 pranešime, teisių ir teisėtų interesų pažeidimą ir priimant dėl to
 administracinės procedūros sprendimą.
 2.
-Administracinės procedūros dalyviai: asmuo, padavęs skundą, arba asmuo, dėl
-kurio galimai pažeistų viešojo administravimo subjekto veiksmais, neveikimu ar
+Administracinės procedūros dalyviai: asmuo, padavęs skundą, arba asmuo, dėl kurio
+galimai pažeistų viešojo administravimo subjekto veiksmais, neveikimu ar
 administraciniais sprendimais teisių ir teisėtų interesų yra gautas pranešimas,
 ir viešojo administravimo subjektas, kuris dėl skundo ar gauto pranešimo
 pradėjo administracinę procedūrą.
  
-20 straipsnis.
-Asmens teisės ir pareigos
+20
+straipsnis. Asmens teisės ir pareigos
 1. Asmuo turi
 teisę:
 1) susipažinti
@@ -509,9 +486,10 @@ nesąžiningai, viešojo administravimo subjekto vadovo sprendimu administracin�
 procedūra gali būti nutraukta ir apie tai per 3 darbo dienas nuo
 administracinės procedūros nutraukimo dienos pranešama asmeniui.
  
-21 straipsnis. Pagrindas pradėti
-administracinę procedūrą 
-1. Pagrindas pradėti administracinę procedūrą yra:
+21 straipsnis. Pagrindas pradėti administracinę
+procedūrą 
+1. Pagrindas pradėti
+administracinę procedūrą yra:
 1) asmens
 skundas;
 2) valstybės
@@ -522,8 +500,8 @@ pranešimas.
 dalyje nurodyti pagrindai pradėti administracinę procedūrą toliau vadinami
 skundu.
  
-22 straipsnis.
-Administracinės procedūros pradžia 
+22
+straipsnis. Administracinės procedūros pradžia 
 1.
 Administracinę procedūrą pradeda viešojo administravimo subjekto vadovas arba
 jo įgaliotas pareigūnas ar valstybės tarnautojas rašytiniu pavedimu (įsakymu,
@@ -535,8 +513,8 @@ administravimo subjektas arba kuri yra valstybės registruose ar kitose
 valstybės ar savivaldybių informacinėse sistemose, surenka pats skundą gavęs
 viešojo administravimo subjektas.
  
-23 straipsnis.
-Skundo priėmimas ir nagrinėjimas
+23
+straipsnis. Skundo priėmimas ir nagrinėjimas
 1. Kiekvienas
 viešojo administravimo subjektas privalo priimti skundus ir juos nagrinėti
 pagal įgaliojimus. Skundo priėmimo faktas patvirtinamas tam tikru dokumentu,
@@ -569,12 +547,11 @@ administracijos padaliniui arba perduoti nagrinėti pareigūnui, valstybės
 tarnautojui ar darbuotojui, kurių veiksmai yra skundžiami. 
 6.
 Skundas nenagrinėjamas, jeigu teismas ar tas pats viešojo administravimo
-subjektas jau yra priėmęs administracinės procedūros sprendimą tuo pačiu
-klausimu ir asmuo nepateikia naujų faktinių duomenų, leidžiančių ginčyti
-sprendimą, taip pat jeigu nuo skunde nurodytų pažeidimų padarymo iki skundo
-padavimo yra praėję daugiau kaip vieneri metai. Apie sprendimą nenagrinėti
-skundo pranešama asmeniui ne vėliau kaip per 5 darbo dienas nuo skundo gavimo
-dienos.
+subjektas jau yra priėmęs administracinės procedūros sprendimą tuo pačiu klausimu
+ir asmuo nepateikia naujų faktinių duomenų, leidžiančių ginčyti sprendimą, taip
+pat jeigu nuo skunde nurodytų pažeidimų padarymo iki skundo padavimo yra praėję
+daugiau kaip vieneri metai. Apie sprendimą nenagrinėti skundo pranešama
+asmeniui ne vėliau kaip per 5 darbo dienas nuo skundo gavimo dienos.
 7. Dėl skundo,
 adresuoto keliems viešojo administravimo subjektams ir priklausančio kelių
 viešojo administravimo subjektų kompetencijai, administracinę procedūrą pradeda
@@ -596,17 +573,17 @@ Prašymų ir skundų priėmimo laikas
 administravimo subjektas privalo organizuoti savo darbą taip, kad asmenys,
 norintys ar privalantys pateikti prašymą ar skundą asmeniškai, galėtų tai
 padaryti visą darbo dienos laiką. 
-2. Viešojo administravimo
-subjektas privalo nustatyti ne mažiau kaip dvi papildomas prašymų ir skundų
-priėmimo valandas per savaitę pasibaigus viešojo administravimo subjekto darbo
-dienos laikui.
+2. Viešojo
+administravimo subjektas privalo nustatyti ne mažiau kaip dvi papildomas
+prašymų ir skundų priėmimo valandas per savaitę pasibaigus viešojo
+administravimo subjekto darbo dienos laikui.
  
  
-25 straipsnis.
-Pareigūno, valstybės tarnautojo ar darbuotojo nušalinimas
+25
+straipsnis. Pareigūno, valstybės tarnautojo ar darbuotojo nušalinimas
 1. Pareigūnas,
-valstybės tarnautojas ar darbuotojas nusišalina pats arba turi būti
-nušalintas nuo dalyvavimo administracinėje procedūroje, jeigu:
+valstybės tarnautojas ar darbuotojas nusišalina pats arba turi būti nušalintas
+nuo dalyvavimo administracinėje procedūroje, jeigu:
 1) pareigūnas,
 valstybės tarnautojas ar darbuotojas yra asmens, dėl kurio pradėta
 administracinė procedūra, artimasis giminaitis (kaip tai apibrėžta Civiliniame
@@ -647,19 +624,19 @@ motyvuojant šių dokumentų ir informacijos būtinumą.
 Administracinės procedūros sustabdymas 
 1. Jeigu
 administracinės procedūros sprendimas gali pakeisti administracinėje
-procedūroje nedalyvaujančių asmenų teisinį statusą, administracinė
-procedūra sustabdoma ir šiems asmenims raštu pranešama apie teisę dalyvauti
-šioje procedūroje, o asmeniui, dėl kurio pradėta administracinė procedūra, –
-apie administracinės procedūros sustabdymo pagrindą.
+procedūroje nedalyvaujančių asmenų teisinį statusą, administracinė procedūra
+sustabdoma ir šiems asmenims raštu pranešama apie teisę dalyvauti šioje
+procedūroje, o asmeniui, dėl kurio pradėta administracinė procedūra, – apie
+administracinės procedūros sustabdymo pagrindą.
 2.
 Administracinė procedūra tęsiama, kai šio straipsnio 1 dalyje nurodyti asmenys
 pareiškia norą dalyvauti procedūroje arba raštu atsisako joje dalyvauti, arba
 jeigu per 10 darbo dienų nuo rašto apie administracinės procedūros sustabdymą
-išsiuntimo dienos negautas iš jų atsakymas dėl pasiūlymo dalyvauti
-administracinėje procedūroje. 
+išsiuntimo dienos negautas iš jų atsakymas dėl pasiūlymo dalyvauti administracinėje
+procedūroje. 
  
-28 straipsnis.
-Apklausa
+28
+straipsnis. Apklausa
 1. Prieš
 priimant administracinės procedūros sprendimą, asmuo, dėl kurio yra pradėta
 administracinė procedūra, taip pat kiti asmenys gali būti apklausiami siekiant
@@ -691,8 +668,8 @@ turi būti išklausomas ir jo rūpintojas.
 veiksnus fizinis asmuo gali būti išklausytas dėl klausimų, susijusių su
 pajamomis ar turtu, kuriais jis turi teisę disponuoti.
  
-30 straipsnis.
-Faktinių duomenų patikrinimas
+30
+straipsnis. Faktinių duomenų patikrinimas
 1. Viešojo
 administravimo subjektas, dalyvaujantis administracinėje procedūroje, prireikus
 gali faktinius duomenis patikrinti vietoje. Asmeniui, dėl kurio yra pradėta
@@ -704,12 +681,11 @@ pradėta administracinė procedūra, ir suinteresuotiems asmenims sudaroma
 galimybė susipažinti su faktinių duomenų patikrinimo vietoje rezultatais.
 2. Žodiniai
 paaiškinimai ir patikrinimo vietoje metu nustatyti faktiniai duomenys turi būti
-užfiksuoti patikrinimo akte (išvadoje) ir šis aktas (išvada) tikrintojų
-pasirašytas. Rašytiniai paaiškinimai pridedami prie patikrinimo akto (išvados).
-
+užfiksuoti patikrinimo akte (išvadoje) ir šis aktas (išvada) tikrintojų pasirašytas.
+Rašytiniai paaiškinimai pridedami prie patikrinimo akto (išvados). 
  
-31 straipsnis.
-Administracinės procedūros terminai
+31
+straipsnis. Administracinės procedūros terminai
 Administracinė
 procedūra turi būti baigta ir administracinės procedūros sprendimas priimtas
 per 20 darbo dienų nuo jos pradžios. Kai dėl objektyvių priežasčių per
@@ -723,8 +699,8 @@ elektroniniu paštu) ir nurodomos pratęsimo priežastys.
 Administracinės procedūros kalba
 1.
 Administracinės procedūros kalba – valstybinė lietuvių kalba.
-2. Kai asmuo,
-dėl kurio yra pradėta administracinė procedūra, ar kiti suinteresuoti asmenys
+2. Kai asmuo, dėl
+kurio yra pradėta administracinė procedūra, ar kiti suinteresuoti asmenys
 nemoka ar nesupranta lietuvių kalbos arba dėl sensorinio ar kalbos sutrikimo
 negali suprantamai reikšti savo minčių, administracinėje procedūroje turi
 dalyvauti vertėjas.
@@ -732,8 +708,8 @@ dalyvauti vertėjas.
 pakviečia administracinę procedūrą pradėjęs viešojo administravimo subjektas
 arba asmuo, dėl kurio pradėta administracinė procedūra, savo iniciatyva.
  
-33
-straipsnis. Teikimas priimti administracinės procedūros sprendimą 
+33 straipsnis. Teikimas priimti administracinės
+procedūros sprendimą 
 Pareigūnas,
 valstybės tarnautojas ar darbuotojas, atlikęs administracinę procedūrą, surašo
 teikimą priimti administracinės procedūros sprendimą ir perduoda jį viešojo
@@ -748,8 +724,8 @@ Administracinės procedūros sprendimo priėmimas
 1.
 Administracinė procedūra baigiama administracinės procedūros sprendimo
 priėmimu. Asmeniui, dėl kurio pradėta administracinė procedūra, ne vėliau kaip
-per 3 darbo dienas raštu pranešama apie priimtą administracinės procedūros
-sprendimą ir nurodoma sprendimo apskundimo tvarka. 
+per 3 darbo dienas raštu pranešama apie priimtą administracinės procedūros sprendimą
+ir nurodoma sprendimo apskundimo tvarka. 
 2.
 Administracinės procedūros sprendimas parengiamas dviem egzemplioriais, vienas
 iš jų įteikiamas ar išsiunčiamas asmeniui, dėl kurio buvo
@@ -759,10 +735,10 @@ subjektui ir saugomas teisės aktų nustatyta tvarka.
 35 straipsnis.
 Klaidų ištaisymo procedūra
 1. Administracinės
-procedūros sprendimą priėmęs viešojo administravimo subjektas, gavęs asmens, dėl kurio buvo pradėta administracinė procedūra,
-ar kito suinteresuoto asmens motyvuotą pranešimą apie skaičiavimo, spausdinimo,
-faktinių duomenų neatitikimo ar kitas technines klaidas, imasi reikalingų
-priemonių klaidoms ištaisyti. 
+procedūros sprendimą priėmęs viešojo administravimo subjektas, gavęs asmens,
+dėl kurio buvo pradėta administracinė procedūra, ar kito suinteresuoto asmens motyvuotą pranešimą apie
+skaičiavimo, spausdinimo, faktinių duomenų neatitikimo ar kitas technines
+klaidas, imasi reikalingų priemonių klaidoms ištaisyti. 
 2. Jeigu
 klaida gali turėti esminės įtakos sprendimo vykdymui, viešojo administravimo
 subjektas, priėmęs administracinės procedūros sprendimą, sustabdo sprendimo
@@ -773,8 +749,8 @@ administracinės procedūros sprendimą priėmęs viešojo administravimo subjek
 Asmeniui per 3 darbo dienas įteikiamas naujas arba pataisytas dokumentas
 (administracinės procedūros sprendimas).
             
-36 straipsnis.
-Administracinės procedūros sprendimo apskundimas
+36
+straipsnis. Administracinės procedūros sprendimo apskundimas
 Asmuo turi teisę
 apskųsti viešojo administravimo subjekto priimtą administracinės procedūros
 sprendimą savo pasirinkimu administracinių ginčų komisijai arba
@@ -785,21 +761,21 @@ SKIRSNIS
 TARNYBINĖS
 PAGALBOS SĄLYGOS
  
-37 straipsnis.
-Tarnybinės pagalbos prašymo atvejai
+37
+straipsnis. Tarnybinės pagalbos prašymo atvejai
 Viešojo
 administravimo subjektas gali prašyti kito viešojo administravimo subjekto
 tarnybinės pagalbos administracinės procedūros sprendimui priimti, jeigu:
-1) administracinės procedūros sprendimui priimti reikia
-informacijos, kurios jis pats neturi;
+1) administracinės
+procedūros sprendimui priimti reikia informacijos, kurios jis pats neturi;
 2) reikalingi
 dokumentai, kuriuos turi tik viešojo administravimo subjektas, į kurį
 kreipiamasi;
 3) kitais
 būtinais atvejais.
  
-38 straipsnis.
-Tarnybinės pagalbos neteikimo atvejai 
+38
+straipsnis. Tarnybinės pagalbos neteikimo atvejai 
 Tarnybinė
 pagalba neteikiama, jeigu:
 1) nagrinėjamas
@@ -811,17 +787,17 @@ sąnaudų;
 3) tarnybinė
 pagalba yra susijusi su informacija, kurią teikti draudžia įstatymai.
  
-39 straipsnis.
-Pagalbos teikėjo parinkimas 
+39
+straipsnis. Pagalbos teikėjo parinkimas 
 Kai tarnybinę
 pagalbą gali suteikti keli viešojo administravimo subjektai, pirmiausia
 kreipiamasi į žemesnio lygio viešojo administravimo subjektą. 
  
 40 straipsnis.
 Tarnybinės pagalbos teikimo ypatumai 
-1. Tarnybinės
-pagalbos prašantis viešojo administravimo subjektas yra atsakingas už prašymo
-pagrįstumą ir teisėtumą. 
+1. Tarnybinės pagalbos
+prašantis viešojo administravimo subjektas yra atsakingas už prašymo pagrįstumą
+ir teisėtumą. 
 2. Viešojo
 administravimo subjektas, į kurį kreipiamasi tarnybinės pagalbos, privalo ją
 suteikti, išskyrus 38 straipsnyje išvardytus atvejus. Tarnybinė pagalba
@@ -833,31 +809,28 @@ atsisakyti teikti tarnybinę pagalbą motyvuojant, kad ji yra netikslinga.
 administravimo subjekto tarnybinė pagalba kitam viešojo administravimo
 subjektui teikiama nemokamai.
  
-PENKTASIS
-SKIRSNIS
+PENKTASIS SKIRSNIS
 BAIGIAMOSIOS
 NUOSTATOS
  
-41 straipsnis. Trečiojo skirsnio nuostatų
-taikymas
-Šio įstatymo trečiojo skirsnio nuostatos Valstybės kontrolei,
-Seimo kontrolieriams, Vyriausybės atstovams apskrityse, kitiems viešojo
+41 straipsnis. Trečiojo skirsnio nuostatų taikymas
+Šio įstatymo trečiojo
+skirsnio nuostatos Valstybės kontrolei, Seimo kontrolieriams, Vyriausybės atstovams apskrityse, kitiems viešojo
 administravimo subjektams, atliekantiems funkcijas pagal atskiruose įstatymuose ar kituose teisės aktuose
-nustatytą tvarką, taikomos tiek, kiek jų
-veiklos priimant sprendimus dėl prašymų ar skundų nenustato jų veiklą
-reglamentuojantys įstatymai ar kiti teisės aktai.
+nustatytą tvarką, taikomos tiek, kiek jų veiklos priimant sprendimus dėl
+prašymų ar skundų nenustato jų veiklą reglamentuojantys
+įstatymai ar kiti teisės aktai.
  
-42 straipsnis.
-Viešojo administravimo subjektų atsakomybė 
+42
+straipsnis. Viešojo administravimo subjektų atsakomybė 
 Viešojo
 administravimo subjektas, pažeidęs šio įstatymo reikalavimus, atsako įstatymų
 nustatyta tvarka. Turtinė ir neturtinė žala, atsiradusi dėl viešojo
 administravimo subjektų neteisėtų aktų, atlyginama Civilinio kodekso ir kitų
 įstatymų nustatyta tvarka.“
  
-2
-straipsnis. Pasiūlymai Vyriausybei, kitoms valstybės ir savivaldybių
-institucijoms ir įstaigoms
+2 straipsnis. Pasiūlymai Vyriausybei, kitoms
+valstybės ir savivaldybių institucijoms ir įstaigoms
 Vyriausybė,
 kitos valstybės ir savivaldybių institucijos ir įstaigos per 6 mėnesius nuo šio
 įstatymo priėmimo dienos priima arba pateikia atitinkamoms institucijoms teisės
@@ -865,21 +838,19 @@ aktų, reikalingų šiam įstatymui įgyvendinti, projektus.
  
 3
 straipsnis. Įstatymo įsigaliojimas
-1.
-Šis įstatymas, išskyrus 2 straipsnį ir šio įstatymo 1 straipsnyje išdėstyto
-Lietuvos Respublikos viešojo administravimo įstatymo 11 straipsnio 3, 4, 5, 6
-ir 7 dalis, įsigalioja nuo 2007 m. sausio 1 d.
-2. Šio įstatymo
-1 straipsnyje išdėstyto Lietuvos Respublikos viešojo administravimo įstatymo 11
-straipsnio 3, 4, 5, 6 ir 7 dalys įsigalioja nuo 2007 m. liepos 1 d.
+Šis įstatymas,
+išskyrus 2 straipsnį, įsigalioja nuo 2007 m. sausio 1 d.
 Straipsnio pakeitimas:
-Nr. X-915, 2006-11-21,
-Žin., 2006, Nr. 132-4990 (2006-12-05)
+Nr. X-915, 2006-11-21, Žin., 2006, Nr.
+132-4990 (2006-12-05)
+Nr. X-1036, 2007-01-18,
+Žin., 2007, Nr. 12-497 (2007-01-30)
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
  
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS
+RESPUBLIKOS
+PREZIDENTAS                                                           VALDAS
 ADAMKUS
 ________________
 Pakeitimai:
@@ -888,16 +859,27 @@ Pakeitimai:
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-915,
-2006-11-21, Žin., 2006, Nr. 132-4990 (2006-12-05)
+X-915, 2006-11-21, Žin., 2006, Nr.
+132-4990 (2006-12-05)
 VIEŠOJO
 ADMINISTRAVIMO ĮSTATYMO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO IR PAPILDYMO
+ĮSTATYMAS
+ 
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-1036,
+2007-01-18, Žin., 2007, Nr. 12-497 (2007-01-30)
+VIEŠOJO
+ADMINISTRAVIMO ĮSTATYMO PAKEITIMO ĮSTATYMO 1 IR 3 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
  
 ***
 Pabaiga ***
  
+ 
 Redagavo:
-Aušrinė Trapinskienė (2006-12-05)
+Aušrinė Trapinskienė (2007-02-05)
                  
 autrap@lrs.lt
