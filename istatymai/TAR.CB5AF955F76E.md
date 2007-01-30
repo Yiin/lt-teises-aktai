@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E"
 
 # Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymas
 
-Suvestinė redakcija nuo 2005-07-21 iki 2007-01-29
+Suvestinė redakcija nuo 2007-01-30 iki 2010-06-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 67-0; Žin. 1993, Nr.12-296, i. k. 0931010ISTA000I-119
  
@@ -62,7 +62,10 @@ Nr. X-331, 2005-07-07, Žin., 2005, Nr. 88-3294 (2005-07-21), i. k. 1051010ISTA0
 
 3) Respublikos Prezidento dekretai;
 
-4) Lietuvos Respublikos Vyriausybės nutarimai;
+4) Lietuvos Respublikos Vyriausybės nutarimai, išskyrus šio Įstatymo 31 straipsnyje numatytus atvejus; 
+Straipsnio punkto pakeitimai:
+Nr. X-1020, 2007-01-16, Žin., 2007, Nr. 12-493 (2007-01-30), i. k. 1071010ISTA00X-1020
+ 
 
 5) Konstitucinio Teismo nutarimai, išvados, taip pat sprendimai priimti nagrinėti prašymą ar paklausimą, sprendimai atsisakyti nagrinėti prašymą ar paklausimą, sprendimai nutraukti bylą (teiseną), sprendimai dėl Konstitucinio Teismo nutarimo išaiškinimo ir Konstitucinio Teismo pirmininko potvarkiai Lietuvos Respublikos Konstitucinio Teismo įstatymo 25 straipsnio 1 dalies 1 ir 2 punktuose nurodytais klausimais; 
 Straipsnio punkto pakeitimai:
@@ -73,11 +76,28 @@ Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010IS
 
 7) Vyriausiosios rinkimų komisijos sprendimai dėl galutinių referendumo, Lietuvos Respublikos Seimo rinkimų ir Respublikos Prezidento rinkimų rezultatų, pakartotinių rinkimų rezultatų, sprendimai dėl Seimo nario įgaliojimų pripažinimo ir jų pripažinimo nutrūkusiais bei kiti Vyriausiosios rinkimų komisijos sprendimai, kurių skelbimą „Valstybės žiniose“ nustato įstatymai.
 
-2. „Valstybės žiniose“ taip pat turi būti skelbiami kiti Lietuvos Respublikos Seimo priimti teisės aktai, ministrų, Vyriausybės įstaigų, kitų valstybės valdymo institucijų vadovų ir kolegialių institucijų norminiai teisės aktai bei kiti teisės aktai, kurių skelbimą „Valstybės žiniose“ nustato įstatymai ir Vyriausybės nutarimai. 
+2. „Valstybės žiniose“ taip pat turi būti skelbiami kiti Lietuvos Respublikos Seimo priimti teisės aktai, ministrų, Vyriausybės įstaigų, kitų valstybės valdymo institucijų vadovų ir kolegialių institucijų norminiai teisės aktai bei kiti teisės aktai, kurių skelbimą „Valstybės žiniose“ nustato įstatymai ir Vyriausybės nutarimai, išskyrus šio Įstatymo 31 straipsnyje numatytus atvejus. 
+Straipsnio dalies pakeitimai:
+Nr. X-1020, 2007-01-16, Žin., 2007, Nr. 12-493 (2007-01-30), i. k. 1071010ISTA00X-1020
+ 
 
 3. Ministrų, Vyriausybės įstaigų, kitų valstybės valdymo institucijų vadovų bei kolegialių institucijų individualūs teisės aktai šiuos aktus pasirašiusių asmenų nuožiūra gali būti skelbiami „Valstybės žinių“ priede „Informaciniai pranešimai“.
 
 4. Šiame straipsnyje nurodytus įstatymus ir kitus teisės aktus „Valstybės žiniose“ oficialiai skelbia juos pasirašę pareigūnai.
+ 
+
+31 straipsnis. Oficialaus teisės aktų paskelbimo interneto tinklalapyje atvejai
+
+1. Tais atvejais, kai Lietuvos Respublikos Seimo nutarimai, Lietuvos Respublikos Vyriausybės nutarimai, ministrų, Vyriausybės įstaigų, kitų valstybės valdymo institucijų vadovų ir kolegialių institucijų priimti teisės aktai turi priedų (brėžinių, lentelių, grafikų, schemų, žemėlapių ar kt.), kuriuos paskelbti „Valstybės žiniose“ nėra techninių galimybių, tokie teisės aktai oficialiai paskelbiami tą pačią dieną:
+
+1) „Valstybės žinių“ interneto tinklalapyje (www.valstybes-zinios.lt) – teisės aktas su priedais;
+
+2) „Valstybės žiniose“ – teisės aktas be priedų.
+
+2. Šiame straipsnyje nurodytus teisės aktus „Valstybės žiniose“ ir „Valstybės žinių“ interneto tinklalapyje oficialiai skelbia juos pasirašę pareigūnai. 
+
+Papildyta straipsniu:
+Nr. X-1020, 2007-01-16, Žin., 2007, Nr. 12-493 (2007-01-30), i. k. 1071010ISTA00X-1020
  
 
 4 straipsnis. Įstatymų ir kitų teisės aktų išsiuntimas institucijoms bei asmenims
@@ -162,7 +182,10 @@ Nr. X-331, 2005-07-07, Žin., 2005, Nr. 88-3294 (2005-07-21), i. k. 1051010ISTA0
 
 12 straipsnis. Apskričių viršininkų, savivaldybių atstovaujamųjų ir vykdomųjų institucijų bei savivaldybių merų teisės aktų įsigaliojimas
 
-1. Savivaldybių atstovaujamųjų institucijų priimti norminiai teisės aktai įsigalioja kitą dieną po jų paskelbimo vietinėje spaudoje arba kitą dieną po oficialaus informacinio pranešimo vietinėje spaudoje apie norminio teisės akto priėmimą ir viso norminio teisės akto teksto paskelbimo atitinkamos savivaldybės interneto tinklalapyje, jeigu pačiuose teisės aktuose nenustatyta vėlesnė jų įsigaliojimo data. Oficialiame informaciniame pranešime apie teisės akto priėmimą nurodoma teisės akto priėmimo data, numeris, antraštė, jei ji yra, išdėstoma priimto sprendimo esmė ir nurodomas interneto tinklalapio, kuriame paskelbtas teisės aktas, adresas.
+1. Savivaldybių atstovaujamųjų ir vykdomųjų institucijų priimti norminiai teisės aktai įsigalioja kitą dieną po jų paskelbimo vietinėje spaudoje arba kitą dieną po oficialaus informacinio pranešimo vietinėje spaudoje apie norminio teisės akto priėmimą ir viso norminio teisės akto paskelbimo atitinkamos savivaldybės interneto tinklalapyje, jeigu pačiuose teisės aktuose nenustatyta vėlesnė jų įsigaliojimo data. Oficialiame informaciniame pranešime apie teisės akto priėmimą nurodoma teisės akto priėmimo data, numeris, antraštė, jei ji yra, išdėstoma priimto sprendimo esmė ir nurodomas interneto tinklalapio, kuriame paskelbtas teisės aktas, adresas. 
+Straipsnio dalies pakeitimai:
+Nr. X-1020, 2007-01-16, Žin., 2007, Nr. 12-493 (2007-01-30), i. k. 1071010ISTA00X-1020
+ 
 
 2. Apskričių viršininkų, savivaldybių atstovaujamųjų ir vykdomųjų institucijų bei savivaldybių merų priimti individualūs teisės aktai įsigalioja jų pasirašymo dieną, jeigu pačiuose teisės aktuose nenustatyta vėlesnė jų įsigaliojimo data. 
 
@@ -399,4 +422,9 @@ Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-331, 2005-07-07, Žin., 2005, Nr. 88-3294 (2005-07-21), i. k. 1051010ISTA000X-331
 Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo 1, 2, 3, 9, 11, 12, 13 straipsnių pakeitimo ir papildymo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1020, 2007-01-16, Žin., 2007, Nr. 12-493 (2007-01-30), i. k. 1071010ISTA00X-1020
+Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo 3, 12 straipsnių pakeitimo ir įstatymo papildymo 3-1 straipsniu įstatymas
 
