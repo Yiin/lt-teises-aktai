@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2004-11-17 iki 2007-01-29
+Suvestinė redakcija nuo 2007-01-30 iki 2008-02-29
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
  
@@ -59,9 +59,16 @@ BENDROSIOS NUOSTATOS
 
 
 3) Lietuvos bankui, teikiančiam finansines paslaugas Lietuvos Respublikos įstatymų nustatyta tvarka.
+
+
+
+
+
+
+4. Šiuo Įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas Įstatymo priede. 
+Papildyta straipsnio dalimi:
+Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
  
-
-
 
 
 
@@ -131,7 +138,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-10. Finansų kontroliuojančioji (holdingo) bendrovė – finansų įstaiga, kurios kontroliuojamos visos įmonės arba jų dauguma yra kredito įstaigos arba finansų įmonės, o iš jų nors viena yra kredito įstaiga.
+10. Finansų kontroliuojančioji (holdingo) bendrovė – finansų įmonė, kurios visos kontroliuojamos įmonės arba jų dauguma yra kredito įstaigos arba finansų įmonės, o iš jų nors viena yra kredito įstaiga, ir kuri nėra mišrios veiklos finansų kontroliuojančioji (holdingo) įmonė, apibrėžta Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
+ 
 
 
 
@@ -154,7 +164,10 @@ Nr. IX-2528, 2004-11-02, Žin., 2004, Nr. 167-6107 (2004-11-17), i. k. 1041010IS
 
 
 
-14. Globojanti (patronuojanti) įmonė – kitą įmonę kontroliuojanti įmonė.
+14. Globojanti (patronuojanti) įmonė – įmonė, kuri turi kitos įmonės įstatinio kapitalo ir (arba) balsavimo teisių dalį, suteikiančią teisę kontroliuoti įmonės veiklą. 
+Straipsnio dalies pakeitimai:
+Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
+ 
 
 
 
@@ -189,22 +202,35 @@ Nr. IX-2528, 2004-11-02, Žin., 2004, Nr. 167-6107 (2004-11-17), i. k. 1041010IS
 
 
 
-19. Įstatinio kapitalo ir (arba) balsavimo teisių dalis, suteikianti teisę kontroliuoti įmonės veiklą – vieno asmens tiesiogiai ir (arba) netiesiogiai valdoma įmonės įstatinio kapitalo ir (arba) balsavimo teisių dalis arba tokie santykiai tarp asmens ir įmonės, dėl kurių šis asmuo: 
+19. Įstatinio kapitalo ir (arba) balsavimo teisių dalis, suteikianti teisę kontroliuoti įmonės veiklą – asmens tiesiogiai ir (arba) netiesiogiai valdoma įmonės įstatinio kapitalo ir (arba) balsavimo teisių dalis arba tokie santykiai tarp asmens ir įmonės, dėl kurių šis asmuo:
 
 
-1) pats arba pagal sutartį su įmone ar jos dalyviais tiesiogiai ir (arba) netiesiogiai valdo daugiau kaip 50 procentų įmonės įstatinio kapitalo ir (arba) balsavimo teisių arba gali išrinkti (paskirti) ir atšaukti (atleisti) daugiau kaip 50 procentų įmonės valdymo organų narių; 
-
-
-
-
-2) pagal finansinius, veiklos arba organizacinius ryšius gali dalytis su įmone gautu pelnu arba patirtais nuostoliais arba, siekdamas bendro užsibrėžto tikslo, gali koordinuoti šios įmonės valdymą;
+1) turi daugumą įmonės dalyvių balsavimo teisių;
 
 
 
 
-3) turi galimybę valdyti įmonę per visiškai arba iš dalies tapačios sudėties savo (jeigu tai juridinis asmuo) ir įmonės valdymo organus. 
+2) būdamas įmonės dalyvis, turi teisę rinkti ar atšaukti įmonės vadovą, daugumą šios įmonės valdymo ar priežiūros organo narių;
 
 
+
+
+3) pagal įmonės steigimo dokumento nuostatas arba su įmone sudarytas sutartis turi galimybę įmonei daryti lemiamą įtaką;
+
+
+
+
+4) būdamas įmonės dalyvis, remdamasis su kitais dalyviais sudarytomis sutartimis, turi teisę spręsti, kaip panaudoti daugumą įmonės dalyvių balsavimo teisių;
+
+
+
+
+5) priežiūros institucijos nuomone, įmonei veiksmingai daro lemiamą įtaką. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
+ 
 
 
 
@@ -219,35 +245,27 @@ Nr. IX-2528, 2004-11-02, Žin., 2004, Nr. 167-6107 (2004-11-17), i. k. 1041010IS
 
 
 
-22. Kontroliuojama įmonė – įmonė, kurioje asmuo arba susijusių asmenų grupė turi įstatinio kapitalo ir (arba) balsavimo teisių dalį, suteikiančią teisę kontroliuoti įmonės veiklą. 
-
-
-
-
-23. Kredito įstaiga - Lietuvos Respublikos įmonė ar įstaiga arba užsienio valstybės įmonės padalinys, veikiantis Lietuvos Respublikoje, kurie turi licenciją verstis ir verčiasi indėlių ir kitų grąžintinų lėšų priėmimu iš neprofesionalių rinkos dalyvių bei jų skolinimu, taip pat turintys teisę verstis dalies ar visų kitų šio Įstatymo 3 straipsnio 1 dalyje nustatytų paslaugų teikimu ir prisiimantys su tuo susijusią riziką bei atsakomybę. 
+22. Kontroliuojama įmonė – įmonė, kurioje kitas asmuo turi įstatinio kapitalo ir (arba) balsavimo teisių dalį, suteikiančią teisę kontroliuoti įmonės veiklą. Visos kontroliuojamų įmonių kontroliuojamos įmonės taip pat laikomos pirmosios visas šias įmonės globojančios (patronuojančios) įmonės kontroliuojamomis įmonėmis. 
 Straipsnio dalies pakeitimai:
-Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010ISTA0IX-2067
+Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
  
 
 
 
 
-24. Kvalifikuotoji įstatinio kapitalo ir (arba) balsavimo teisių dalis – vieno asmens tiesiogiai ir (arba) netiesiogiai valdoma įmonės įstatinio kapitalo ir (arba) balsavimo teisių dalis arba tokie santykiai tarp asmens ir įmonės, dėl kurių šis asmuo: 
-
-
-1) valdo 10 procentų ar daugiau įmonės įstatinio kapitalo ir (arba) balsavimo teisių; 
-
-
-
-
-2) gali išrinkti (paskirti), atšaukti (atleisti) daugiau kaip 1/3 įmonės valdymo organų narių; 
+23. Kredito įstaiga – įmonė, kuri turi licenciją verstis ir verčiasi indėlių ar kitų grąžintinų lėšų priėmimu iš neprofesionalių rinkos dalyvių ir jų skolinimu arba elektroninių pinigų išleidimu ir tvarkymu. 
+Straipsnio dalies pakeitimai:
+Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010ISTA0IX-2067
+Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
+ 
 
 
 
 
-3) pagal įmonės steigimo dokumentus ar sudarytus sandorius gali turėti lemiamos įtakos įmonės veiklai ir valdymo organų priimamiems sprendimams. 
-
-
+24. Kvalifikuotoji įstatinio kapitalo ir (arba) balsavimo teisių dalis – tiesiogiai arba netiesiogiai valdoma įmonės įstatinio kapitalo ir (arba) balsavimo teisių dalis, kuri sudaro 10 procentų ar daugiau įmonės įstatinio kapitalo ir (arba) balsavimo teisių arba kuri suteikia galimybę daryti reikšmingą įtaką tos įmonės valdymui. 
+Straipsnio dalies pakeitimai:
+Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
+ 
 
 
 
@@ -262,7 +280,10 @@ Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010IST
 
 
 
-27. Mišrią veiklą vykdanti kontroliuojančioji (holdingo) bendrovė – globojanti (patronuojanti) įmonė (bet ne finansinė kontroliuojančioji (holdingo) bendrovė ar kredito įstaiga), kurios nors viena kontroliuojama įmonė yra kredito įstaiga.
+27. Mišrią veiklą vykdanti kontroliuojančioji (holdingo) bendrovė – globojanti (patronuojanti) įmonė (bet ne finansų kontroliuojančioji (holdingo) bendrovė, kredito įstaiga ar mišrios veiklos finansų kontroliuojančioji (holdingo) įmonė, apibrėžta Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme), kurios nors viena kontroliuojama įmonė yra kredito įstaiga. 
+Straipsnio dalies pakeitimai:
+Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
+ 
 
 
 
@@ -305,7 +326,10 @@ Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010IST
 
 
 
-3) paskolos grąžinimas nėra užtikrintas jokiomis prievolių įvykdymą užtikrinančiomis priemonėmis; 
+3) Neteko galios nuo 2007-01-30
+Straipsnio punkto naikinimas:
+Nr. X-1037, 2007-01-18, Žin. 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
+ 
 
 
 
@@ -410,7 +434,10 @@ Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010IST
 
 
 
-2) klientai yra susiję tokiais tarpusavio ryšiais, kad jeigu vienas iš jų negalėtų įvykdyti savo įsipareigojimų finansų įstaigai, kiltų sunkumų ir kitam arba kitiems klientams įvykdyti įsipareigojimus šiai finansų įstaigai. Tokie tarpusavio ryšiai yra vieno asmens išduoti laidavimai, garantijos arba kitos prievolių įvykdymo už kitą asmenį užtikrinimo priemonės, arba bendri įsipareigojimai, kylantys iš sudarytų sandorių, arba tiesioginė tarpusavio verslo priklausomybė, kai tarpusavio verslo ryšiai negali būti nutraukti ar pakeisti kitais verslo ryšiais, arba klientai yra susiję artimos giminystės, taip pat svainystės ryšiais. 
+2) klientai yra susiję tokiais tarpusavio ryšiais, kad jeigu vienas iš jų negalėtų įvykdyti savo įsipareigojimų finansų įstaigai, kiltų sunkumų ir kitam arba kitiems klientams įvykdyti įsipareigojimus šiai finansų įstaigai. 
+Straipsnio punkto pakeitimai:
+Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
+ 
 
 
 
@@ -1347,9 +1374,26 @@ Nr. IX-1481, 2003-04-03, Žin., 2003, Nr. 38-1726 (2003-04-24), i. k. 1031010IST
 
 
 5) neatitinka kituose Lietuvos Respublikos įstatymuose ir teisės aktuose vadovams nustatytų reikalavimų. 
+
+
+
+
+
+
+4. Finansų kontroliuojančiosios (holdingo) bendrovės valdymo organų nariai privalo būti nepriekaištingos reputacijos, turėti reikiamą kvalifikaciją ir pakankamai patirties eiti tokias pareigas. Asmuo nėra nepriekaištingos reputacijos, jei:
+
+
+1) yra nuteistas už labai sunkų ar sunkų nusikaltimą arba nusikaltimą ar baudžiamąjį nusižengimą finansų sistemai, ekonomikai ir verslo tvarkai, nuosavybei, turtinėms teisėms bei turtiniams interesams ir teistumas nėra išnykęs ar panaikintas;
+
+
+
+
+2) piktnaudžiauja narkotinėmis, toksinėmis, psichotropinėmis medžiagomis arba alkoholiu. 
+
+
+Papildyta straipsnio dalimi:
+Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
  
-
-
 
 
 
@@ -2115,6 +2159,24 @@ Finansų įstaiga, vadovaudamasi jos veiklą reglamentuojančiais Lietuvos Respu
 
 
 
+381 straipsnis. Finansinių grupių jungtinė (konsoliduota) priežiūra
+
+
+1. Lietuvos Respublikos įstatymų, reglamentuojančių finansinių paslaugų teikimą ir finansų įstaigų veiklą, nustatytais atvejais finansinei grupei taikoma jungtinė (konsoliduota) priežiūra.
+
+
+
+
+2. Finansų įstaigų, kurioms taikoma konsoliduota priežiūra, bei mišrią veiklą vykdančių kontroliuojančiųjų (holdingo) bendrovių teises ir pareigas, taip pat jungtinę (konsoliduotą) priežiūrą atliekančios priežiūros institucijos teises ir pareigas nustato Lietuvos Respublikos įstatymai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą. 
+
+
+Papildyta straipsniu:
+Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
+ 
+
+
+
+
 39 straipsnis. Lietuvos Respublikoje licencijuotų finansų įstaigų teisė teikti finansines paslaugas Europos Sąjungos valstybėse narėse 
 
 
@@ -2148,87 +2210,10 @@ Finansų įstaiga, vadovaudamasi jos veiklą reglamentuojančiais Lietuvos Respu
 
 
 
-DEŠIMTASIS SKIRSNIS
-FINANSINIŲ GRUPIŲ JUNGTINĖ (KONSOLIDUOTA) PRIEŽIŪRA
+10 skirsnis. Neteko galios nuo 2007-01-30
+Skirsnio naikinimas:
+Nr. X-1037, 2007-01-18, Žin. 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
  
-
-
-40 straipsnis. Jungtinės (konsoliduotos) priežiūros objektas 
-
-
-Jungtinė (konsoliduota) priežiūra taikoma: 
-
-
-1) finansų įstaigai, įskaitant ir finansų kontroliuojančiąją (holdingo) bendrovę, kuri globoja (patronuoja) kitas į finansinę grupę įeinančias finansų įstaigas, jeigu bent vienos iš šių į finansinę grupę įeinančių finansų įstaigų veiklos priežiūrą nustato Lietuvos Respublikos įstatymai; 
-
-
-
-
-2) finansų įstaigai, kuri priklauso finansinei grupei, jeigu bent vienos iš šių į finansinę grupę įeinančių finansų įstaigų veiklos priežiūrą nustato Lietuvos Respublikos įstatymai; 
-
-
-
-
-3) finansų įstaigai, kuri nepriklauso finansinei grupei, tačiau 20 procentų arba daugiau jos įstatinio kapitalo ir (arba) balsavimo teisių tiesiogiai ir (arba) netiesiogiai turi finansinei grupei, kuriai taikoma jungtinė (konsoliduota) priežiūra, priklausanti finansų įstaiga, jeigu, jungtinę (konsoliduotą) priežiūrą vykdančios institucijos nuomone, ji yra svarbi vykdant finansinės grupės jungtinę (konsoliduotą) priežiūrą; 
-
-
-
-
-4) finansų įstaigai, kuri nepriklauso finansinei grupei, tačiau yra kontroliuojama asmens, kuris yra finansų įstaigos, globojančios (patronuojančios) į finansinę grupę įeinančias finansų įstaigas, arba vienos iš finansų įstaigų finansinės grupės narių dalyvis, jeigu tos finansų įstaigos veiklos priežiūrą nustato Lietuvos Respublikos įstatymai. 
- 
-
-
-
-
-
-
-
-
-41 straipsnis. Konsoliduotos finansinės atskaitomybės sudarymas 
-
-
-1. Finansų įstaiga, kuri globoja (patronuoja) kitas į finansinę grupę įeinančias finansų įstaigas, privalo sudaryti konsoliduotą finansinę atskaitomybę. 
-
-
-
-
-2. Asmenys, nurodyti šio Įstatymo 40 straipsnio 2, 3 ir 4 punktuose ir priklausantys Lietuvos Respublikos jurisdikcijai, privalo pateikti finansų įstaigai, globojančiai (patronuojančiai) kitas į finansinę grupę įeinančias finansų įstaigas, ataskaitas, duomenis ir informaciją, būtiną konsoliduotai finansinei atskaitomybei sudaryti ir jungtinei (konsoliduotai) priežiūrai vykdyti. 
-
-
-
-
-3. Finansų įstaiga, globojanti (patronuojanti) kitas į finansinę grupę įeinančias finansų įstaigas, privalo ne vėliau kaip per 4 mėnesius po finansinių metų pabaigos parengti ir pateikti priežiūros institucijai metinę konsoliduotą finansinę atskaitomybę su nepriklausomo auditoriaus išvada. 
- 
-
-
-
-
-
-
-42 straipsnis. Jungtinė (konsoliduota) priežiūra 
-
-
-1. Jeigu bent viena iš į finansinę grupę įeinančių finansų įstaigų yra kredito įstaiga, bendrą visos finansinės grupės jungtinę (konsoliduotą) priežiūrą atlieka kredito įstaigų priežiūrą atliekanti institucija. Jeigu į finansinę grupę neįeina kredito įstaiga, tai tokios grupės jungtinė (konsoliduota) priežiūra atliekama, jei tai nustatyta kituose Lietuvos Respublikos įstatymuose. 
-
-
-
-
-2. Visos finansinės grupės jungtinę (konsoliduotą) priežiūrą atliekanti priežiūros institucija jungtinės (konsoliduotos) priežiūros tikslu gali iš asmenų, nurodytų šio Įstatymo 40 straipsnyje, taip pat iš mišrią veiklą vykdančios kontroliuojančiosios (holdingo) bendrovės ir jos kontroliuojamų įmonių reikalauti priežiūros institucijai reikalingų ataskaitų, duomenų arba informacijos, o šios privalo juos pateikti. Priežiūros institucijos reikalavimu jai pateikiamos ataskaitos ir finansiniai duomenys privalo būti patvirtinti auditoriaus. 
-
-
-
-
-3. Vienai finansų įstaigai Lietuvos Respublikos įstatymų nustatyti rizikos apribojimai jungtiniu (konsoliduotu) pagrindu taikomi visai finansinei grupei.
-
-
-
-
-4. Finansinei grupei priklausančių finansų įstaigų, kurios yra skirtingose Europos Sąjungos valstybėse, jungtinę priežiūrą nustato Lietuvos Respublikos įstatymai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą.
- 
-
-
-
-
 
 
 
@@ -2920,6 +2905,23 @@ RESPUBLIKOS PREZIDENTAS                            �
  
 
 
+
+
+
+
+Lietuvos Respublikos finansų įstaigų
+įstatymo priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+
+2006 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva 2006/48/EB dėl kredito įstaigų veiklos pradėjimo ir vykdymo (nauja redakcija) (OL 2006 L 177, p. 1). 
+
+
+Papildyta priedu:
+Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
+ 
  
  
 Pakeitimai:
@@ -2953,3 +2955,8 @@ Lietuvos Respublikos finansų įstaigų įstatymo 3 straipsnio papildymo įstaty
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2528, 2004-11-02, Žin., 2004, Nr. 167-6107 (2004-11-17), i. k. 1041010ISTA0IX-2528
 Lietuvos Respublikos finansų įstaigų įstatymo 2 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
+Lietuvos Respublikos finansų įstaigų įstatymo 1, 2, 20 straipsnių pakeitimo ir papildymo, įstatymo papildymo 38(1) straipsniu, dešimtojo skirsnio pripažinimo netekusiu galios ir Įstatymo papildymo priedu įstatymas
