@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7055451E838B"
 
 # Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymas
 
-Suvestinė redakcija nuo 2005-01-01 iki 2007-02-28
+Suvestinė redakcija nuo 2007-03-01 iki 2009-08-03
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 107-2688, i. k. 0971010ISTAVIII-480
  
@@ -152,7 +152,10 @@ PRIVATIZAVIMO INSTITUCIJOS
 4 straipsnis. Turto fondo kompetencija privatizavimo srityje
 
 
-1. Turto fondas, vykdydamas šio bei Valstybės turto fondo įstatymų jam pavestas funkcijas valstybės ir savivaldybių turto privatizavimo srityje, veikia kaip privatizavimo objekto valdytojas, privatizuojantis valstybei nuosavybės teise priklausantį turtą. Pagal atskiras sutartis su savivaldybėmis Turto fondas taip pat gali veikti kaip atskiros savivaldybės atstovas, privatizuojantis savivaldybei nuosavybės teise priklausantį turtą.
+1. Turto fondas, vykdydamas šio bei Valstybės turto fondo įstatymų jam pavestas funkcijas ir suteiktus įgaliojimus valstybės ir savivaldybių turto privatizavimo srityje, veikia kaip privatizavimo objekto valdytojas ir įgaliotas asmuo, privatizuojantis valstybei nuosavybės teise priklausantį turtą. Pagal atskiras sutartis su savivaldybėmis Turto fondas taip pat gali veikti kaip atskiros savivaldybės atstovas, privatizuojantis savivaldybei nuosavybės teise priklausantį turtą. 
+Straipsnio dalies pakeitimai:
+Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
+ 
 
 
 
@@ -170,20 +173,27 @@ PRIVATIZAVIMO INSTITUCIJOS
 
 
 
-3) Lietuvos Respublikos viešųjų pirkimų įstatymo nustatyta tvarka samdo fizinius ar juridinius asmenis, taip pat įmones, neturinčias juridinio asmens teisių, privatizavimo užduotims atlikti (įskaitant privatizavimo objektų vertinimą) ir pasirašo su jais sutartis dėl užduočių atlikimo; 
+3) viešuosius pirkimus reglamentuojančių teisės aktų nustatyta tvarka sudaro viešojo pirkimo–pardavimo sutartis privatizavimo užduotims atlikti (įskaitant privatizavimo objektų vertinimą); 
 Straipsnio punkto pakeitimai:
 Nr. VIII-1360, 1999-10-14, Žin., 1999, Nr. 90-2640 (1999-10-27), i. k. 0991010ISTAIII-1360
+Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
  
 
 
 
 
-4) sudaro privatizavimo objekto (įmonės akcijų paketo) vertinimo ir pradinės pardavimo kainos nustatymo komisiją, kuri vertina privatizavimo objektą;
+4) turto ir verslo vertinimą reglamentuojančių teisės aktų nustatyta tvarka vertina privatizavimo objektą; 
+Straipsnio punkto pakeitimai:
+Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
+ 
 
 
 
 
-5) restruktūrizuoja valstybės kontroliuojamą įmonę, jei toks restruktūrizavimas padidins galimybę ją privatizuoti arba padidins objekto (įmonės akcijų) pardavimo kainą;
+5) Neteko galios nuo 2007-03-01
+Straipsnio punkto naikinimas:
+Nr. X-949, 2006-12-05, Žin. 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
+ 
 
 
 
@@ -422,17 +432,26 @@ Nr. IX-611, 2001-11-20, Žin., 2001, Nr. 103-3654 (2001-12-07), i. k. 1011010IST
 
 
 
-2) smulkaus ir vidutinio verslo skatinimo fondui formuoti bei Vyriausybės patvirtintoms šalies programoms įgyvendinti (iki 1/3 iš privatizavimo gautų lėšų);
+2) Vyriausybės patvirtintoms programoms įgyvendinti (iki 1/3 iš privatizavimo gautų lėšų); 
+Straipsnio punkto pakeitimai:
+Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
+ 
 
 
 
 
-3) atskaitymams į specialų fondą bankrutuojančių ir bankrutavusių įmonių darbuotojų reikalavimams, susijusiems su darbo santykiais, tenkinti;
+3) Garantiniam fondui pagal atskirą programą; 
+Straipsnio punkto pakeitimai:
+Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
+ 
 
 
 
 
-4) išlaidoms, susijusioms su šiame įstatyme nustatytų Privatizavimo komisijos ir Turto fondo funkcijų įgyvendinimu;
+4) išlaidoms, susijusioms su šiame įstatyme ir kituose teisės aktuose nustatytų Privatizavimo komisijos ir Turto fondo funkcijų įgyvendinimu; 
+Straipsnio punkto pakeitimai:
+Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
+ 
 
 
 
@@ -452,9 +471,10 @@ Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010I
 
 
 
-4. Turto fondui pervedama privatizavimo lėšų dalis nustatoma procentais nuo šio straipsnio 1 dalies 1 ir 2 punktuose nurodytų pajamų, gautų pinigais, į privatizavimo fondo sąskaitą. Šį procentą Finansų ministerijos teikimu kas pusę metų tvirtina Vyriausybė. Privatizavimo komisijos funkcijoms įgyvendinti lėšas pagal Finansų ministerijos pateiktą sąmatą kas pusę metų skiria Vyriausybė. Vyriausybė nustato ir privatizavimo fondo lėšų apskaitos ir naudojimo tvarką. Vyriausybė periodiškai informuoja Seimą apie privatizavimo lėšų naudojimą. 
+4. Turto fondui pervedama privatizavimo lėšų dalis nustatoma procentais nuo šio straipsnio 1 dalies 1 ir 2 punktuose nurodytų pajamų, gautų pinigais, į privatizavimo fondo sąskaitą. Šį procentą Finansų ministerijos teikimu kas pusę metų tvirtina Vyriausybė. Privatizavimo komisijos funkcijoms įgyvendinti lėšas pagal Finansų ministerijos pateiktą sąmatą skiria Vyriausybė. Vyriausybė nustato ir privatizavimo fondo lėšų apskaitos ir naudojimo tvarką. Vyriausybė periodiškai informuoja Seimą apie privatizavimo lėšų naudojimą. 
 Straipsnio dalies pakeitimai:
 Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
+Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
  
 
 
@@ -499,63 +519,37 @@ OBJEKTŲ PARENGIMAS PRIVATIZUOTI
 9 straipsnis. Privatizavimo objekto vertinimas
 
 
-1. Privatizavimo objektą vertina Turto fondas ar jo sudaryta komisija, į kurią įtraukiami asmenys, turintys kvalifikacinius turto vertintojų pažymėjimus, arba konkurso tvarka Turto fondo parinkti apmokami turto vertintojai.
+1. Privatizavimo objektas vertinamas Turto ir verslo vertinimo pagrindų įstatyme nurodytais vertės nustatymo metodais ir nustatyta tvarka, išskyrus atvejus, kai šis įstatymas nustato kitaip.
 
 
 
 
-2. Privatizavimo objektas Turto fondo sprendimu gali būti vertinamas naudojant vieną iš šių metodų arba jų derinį:
-
-
-1) lyginamosios vertės (pardavimo kainos analogų) metodas, kurio esmė yra palyginimas, t.y. rinkos vertė nustatoma lyginant analogiškų objektų sandorių kainas, atsižvelgus į nedidelius vertinamo turto ir analogų skirtumus;
+2. Vyriausybė turi teisę nustatyti supaprastintus vertės nustatymo metodus ir jų derinius, kurie privatizavimo institucijos sprendimu gali būti taikomi tais atvejais, kai parduodama mažiau kaip 1/3 įmonės akcijų.
 
 
 
 
-2) atkuriamosios vertės (kaštų) metodas, kurio pagrindas yra skaičiavimas, kiek kainuotų atkurti esamos fizinės būklės ir esamų eksploatacinių bei naudingumo savybių objektus pagal vertinimo metu taikomas darbų technologijas bei kainas;
+3. Turto ir verslo vertinimo pagrindų įstatyme nurodyti vertės nustatymo metodai privatizavimo institucijos sprendimu gali būti netaikomi viešo akcijų pardavimo ar viešo aukciono būdu parduodamų akcijų vertei nustatyti tais atvejais, kai valstybei ar savivaldybei nuosavybės teise priklauso mažiau kaip 1/3 akcinės bendrovės akcijų ir šios akcinės bendrovės akcijomis yra prekiaujama vertybinių popierių biržoje. Šiuo atveju akcijos vertė yra akcijos rinkos kaina, nustatyta vadovaujantis vertybinių popierių rinką reglamentuojančiais teisės aktais.
 
 
 
 
-3) naudojimo pajamų vertės (pajamų kapitalizavimo arba pinigų srautų diskonto) metodas, kai turtas vertinamas ne kaip įvairaus turto suma, bet kaip duodantis pelno verslo objektas. Metodo pagrindą sudaro būsimų pinigų srautų prognozės ir tų pinigų dabartinė vertė. Kai parduodama mažiau kaip 1/3 įmonės akcijų, Vyriausybės nustatyta tvarka gali būti taikomas paprastesnis šio metodo variantas;
+4. Vertinant valstybei ar savivaldybei nuosavybės teise priklausančius privatizuojamus statinius ir įrenginius ar jų dalis, turi būti įvertintas šiems statiniams ir įrenginiams nustatyta tvarka priskirtas žemės sklypas ar jo dalis.
 
 
 
 
-4) ypatingosios vertės metodas – unikalioms meno ir istorijos vertybėms, juvelyriniams ir antikvariniams dirbiniams, įvairioms kolekcijoms įvertinti (vertinama pagal specialias šio turto vertinimo technologijas);
+5. Privatizavimo objektą vertina Turto fondas arba viešuosius pirkimus reglamentuojančių teisės aktų nustatyta tvarka parinktos turtą vertinančios įmonės.
 
 
 
 
-5) kitais Europos Sąjungoje praktiškai pripažintais ir Vyriausybės aprobuotais metodais.
+6. Turtą vertinantys asmenys teisės aktų ir sutartyje dėl turto įvertinimo nustatyta tvarka atsako už atlikto vertinimo teisingumą, jo atlikimo terminus, taip pat atlygina privatizavimo objekto valdytojui žalą, atsiradusią dėl netinkamai įvykdytų įsipareigojimų. 
 
 
-
-
-
-
-3. Jei valstybei ar savivaldybei nuosavybės teise priklauso mažiau kaip 1/3 akcinės bendrovės akcijų, šio straipsnio 2 dalyje išvardyti vertinimo metodai gali būti netaikomi vertinant akcijas, parduodamas viešo akcijų pardavimo ar viešo aukciono būdu, kurių rinkos kaina yra nustatyta vertybinių popierių biržoje. 
-Straipsnio dalies pakeitimai:
-Nr. IX-2525, 2004-11-02, Žin., 2004, Nr. 167-6104 (2004-11-17), i. k. 1041010ISTA0IX-2525
+Straipsnio pakeitimai:
+Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
  
-
-
-
-
-4. Vertinant valstybei ar savivaldybei nuosavybės teise priklausančius pastatus, statinius ir įrenginius pagal Vyriausybės aprobuotus tarptautinius vertinimo metodus, turi būti įvertintas ir pastatams, statiniams ir įrenginiams nustatyta tvarka priskirtas žemės sklypas. 
-
-
-
-
-5. Šiame įstatyme nurodytų privatizavimo objekto vertinimo metodų taikymo tvarką nustato Vyriausybė.
-
-
-
-
-6. Už žalą, atsiradusią dėl neteisingo turto įvertinimo, turto vertintojai privatizavimo objekto valdytojui atlygina turto vertinimo sutartyje nustatyta tvarka.
- 
-
-
 
 
 
@@ -571,7 +565,10 @@ Nr. IX-2525, 2004-11-02, Žin., 2004, Nr. 167-6104 (2004-11-17), i. k. 1041010IS
 
 
 
-2) privatizavimo objekto pavadinimas, trumpa objekto charakteristika, objekto balansinė likutinė vertė – kai privatizuojamas kitas turtas.
+2) privatizavimo objekto pavadinimas, trumpa objekto charakteristika – kai privatizuojamas kitas turtas. 
+Straipsnio punkto pakeitimai:
+Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
+ 
 
 
 
@@ -604,7 +601,10 @@ Nr. IX-754, 2002-03-05, Žin., 2002, Nr. 31-1108 (2002-03-27), i. k. 1021010ISTA
 
 
 
-3) privatizavimo objekto trumpa charakteristika (įstatinis kapitalas arba vertė, valstybei ar savivaldybei tenkančių akcijų nominali vertė, įstatinio kapitalo rentabilumas, gamybos apimtis ar metinė apyvarta, darbuotojų skaičius, pagrindinės veiklos pobūdis, geografinė padėtis, informacija apie valstybės ar savivaldybės kontroliuojamos įmonės produkcijos ar paslaugų dalį rinkoje ir trečiųjų asmenų teises į tokią įmonę);
+3) trumpa privatizavimo objekto charakteristika (įstatinis kapitalas, valstybei ar savivaldybei tenkančių akcijų nominali vertė, įstatinio kapitalo rentabilumas, gamybos apimtis ar metinė apyvarta, darbuotojų skaičius, pagrindinės veiklos pobūdis, geografinė padėtis, informacija apie valstybės ar savivaldybės kontroliuojamos įmonės produkcijos ar paslaugų dalį rinkoje ir trečiųjų asmenų teises į tokią įmonę); 
+Straipsnio punkto pakeitimai:
+Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
+ 
 
 
 
@@ -656,7 +656,9 @@ Nr. IX-754, 2002-03-05, Žin., 2002, Nr. 31-1108 (2002-03-27), i. k. 1021010ISTA
 
 
 
-11. Kai Vyriausybė patvirtina privatizavimo objektų sąrašą, kiekvienas potencialus pirkėjas turi teisę pateikti iniciatyvinį pasiūlymą pirkti ilgalaikį materialųjį turtą ir (ar) akcijų paketą tų įmonių, kuriose valstybei nuosavybės teise priklauso mažiau kaip 1/3 akcijų. Tokio iniciatyvinio pasiūlymo pateikimo tvarką ir sąlygas nustato Vyriausybė. Jei potencialus pirkėjas iniciatyvinį pasiūlymą pateikia pagal Vyriausybės nustatytus reikalavimus, tokio objekto privatizavimo programa turi būti parengta per Vyriausybės nustatytą laiką. 
+11. Neteko galios nuo 2007-03-01
+Straipsnio dalies naikinimas:
+Nr. X-949, 2006-12-05, Žin. 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
 Straipsnio dalies pakeitimai:
 Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
  
@@ -664,9 +666,10 @@ Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010I
 
 
 
-12. Privatizavimo objektas iš Vyriausybės patvirtinto privatizavimo objektų sąrašo gali būti išbrauktas, jo privatizavimo programa gali būti sustabdyta ir (ar) pripažįstama pasibaigusia, jei įmonei Įmonių bankroto įstatymo nustatyta tvarka yra iškelta bankroto byla arba įmonė Akcinių bendrovių įstatymo nustatyta tvarka yra likviduojama, arba jei dėl stichinės ar panašios nelaimės privatizavimo objektas neišlieka ar daugiau kaip 1/3 pasikeičia jo fizinės savybės, taip pat kai šiuo objektu atlyginama piliečiams už valstybės išperkamą išlikusį nekilnojamąjį turtą vadovaujantis Kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymu, taip pat jei bent vieną kartą šio įstatymo nustatyta tvarka buvo paskelbta objekto privatizavimo programa, tačiau per objekto privatizavimo programoje nustatytą laiką šis objektas nebuvo parduotas. Privatizavimo objektas iš privatizavimo objektų sąrašo taip pat gali būti išbrauktas, jei jis yra reikalingas atitinkamai valstybės, savivaldybių ar visuomenės reikmėms tenkinti. 
+12. Privatizavimo objektas iš Vyriausybės patvirtinto privatizavimo objektų sąrašo gali būti išbrauktas, jo privatizavimo programa gali būti sustabdyta ir (ar) pripažįstama pasibaigusia, jei įmonei Įmonių bankroto įstatymo nustatyta tvarka yra iškelta bankroto byla arba įmonė Akcinių bendrovių įstatymo nustatyta tvarka yra likviduojama, arba jei dėl stichinės ar panašios nelaimės privatizavimo objektas neišlieka ar daugiau kaip 1/3 pasikeičia jo fizinės savybės, taip pat kai šiuo objektu atlyginama piliečiams už valstybės išperkamą išlikusį nekilnojamąjį turtą vadovaujantis Kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymu, taip pat jei bent vieną kartą šio įstatymo nustatyta tvarka buvo paskelbta objekto privatizavimo programa, tačiau per objekto privatizavimo programoje nustatytą laiką šis objektas nebuvo parduotas. Privatizavimo objektas iš privatizavimo objektų sąrašo taip pat gali būti išbrauktas, jei jis yra reikalingas atitinkamai valstybės, savivaldybių ar visuomenės reikmėms tenkinti. Privatizavimo objekto privatizavimo programa pripažįstama pasibaigusia, jei akcinės bendrovės akcininkas, veikdamas savarankiškai ar sutartinai su kitais asmenimis įsigijęs akcijų, sudarančių ne mažiau kaip 95 procentus balsavimo teisę suteikiančio kapitalo ir ne mažiau kaip 95 procentus visų balso teisę šios akcinės bendrovės visuotiniame akcininkų susirinkime suteikiančių akcijų, reikalauja, kad visi kiti šios akcinės bendrovės akcininkai parduotų jiems priklausančias akcijas vertybinių popierių rinką reglamentuojančių teisės aktų nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. IX-754, 2002-03-05, Žin., 2002, Nr. 31-1108 (2002-03-27), i. k. 1021010ISTA00IX-754
+Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
  
 
 
@@ -695,12 +698,18 @@ Nr. IX-754, 2002-03-05, Žin., 2002, Nr. 31-1108 (2002-03-27), i. k. 1021010ISTA
 
 
 
-2) Turto fondo darbuotojo, atsakingo už objekto privatizavimo programos vykdymą, pavardė, pareigos, adresas, telefonas ir faksas;
+2) Turto fondo darbuotojo, atsakingo už objekto privatizavimo programos vykdymą, pavardė, pareigos, adresas, telefonas, elektroninio pašto adresas ir faksas; 
+Straipsnio punkto pakeitimai:
+Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
+ 
 
 
 
 
-3) valstybės (savivaldybės) kontroliuojamos įmonės, kurios akcijos yra parduodamos, apžiūros laikas;
+3) valstybės (savivaldybės) kontroliuojamos įmonės, kurios akcijos yra parduodamos, ir kito turto, kuris yra privatizuojamas, apžiūros laikas; 
+Straipsnio punkto pakeitimai:
+Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
+ 
 
 
 
@@ -710,7 +719,15 @@ Nr. IX-754, 2002-03-05, Žin., 2002, Nr. 31-1108 (2002-03-27), i. k. 1021010ISTA
 
 
 
-5) privatizavimo objekto pardavimo vieta.
+5) privatizavimo objekto pardavimo vieta;
+
+
+
+
+6) privatizavimo objekto valdytojo nustatytas galutinio atsiskaitymo už privatizavimo objektą terminas. 
+Papildyta straipsnio punktu:
+Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
+ 
 
 
 
@@ -824,7 +841,10 @@ PRIVATIZAVIMO BŪDAI IR PRIVATIZAVIMO OBJEKTO ĮSIGIJIMAS
 
 
 
-2. Privatizavimo objekto valdytojas turi teisę pakeisti privatizavimo būdą arba taikyti šiame įstatyme nustatytų privatizavimo būdų derinį. Privatizavimo būdo pakeitimas turi būti patvirtintas Privatizavimo komisijos ir nauja informacija apie privatizavimo objektą paskelbta šio įstatymo nustatyta tvarka.
+2. Turto fondas (savivaldybių turto fondai) turi teisę taikyti šiame įstatyme nustatytų privatizavimo būdų derinį arba pakeisti privatizavimo būdą, jei tam pritaria Privatizavimo komisija. Informacija apie privatizavimo objekto privatizavimo būdų derinio taikymą ir privatizavimo būdo pakeitimą skelbiama Informaciniame privatizavimo biuletenyje šio įstatymo nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
+ 
 
 
 
@@ -834,9 +854,10 @@ PRIVATIZAVIMO BŪDAI IR PRIVATIZAVIMO OBJEKTO ĮSIGIJIMAS
 
 
 
-4. Kiekvienam iš privatizavimo objektų, privatizuojamų bet kuriuo šiame įstatyme nustatytu privatizavimo būdu, Turto fondas turi teisę Lietuvos Respublikos viešųjų pirkimų įstatymo nustatyta tvarka samdyti fizinius ar juridinius asmenis, taip pat įmones, neturinčias juridinio asmens teisių, visoms su privatizavimu susijusioms užduotims atlikti (įskaitant investitoriaus suradimą ir pirkimo-pardavimo sutarties projekto parengimą). 
+4. Kiekvienam iš privatizavimo objektų, privatizuojamų bet kuriuo šiame įstatyme nustatytu privatizavimo būdu, Turto fondas turi teisę Lietuvos Respublikos viešųjų pirkimų įstatymo nustatyta tvarka sudaryti viešojo pirkimo–pardavimo sutartis visoms su privatizavimu susijusioms užduotims atlikti (įskaitant investitoriaus suradimą ir privatizavimo objekto pirkimo–pardavimo sutarties projekto parengimą). 
 Straipsnio dalies pakeitimai:
 Nr. VIII-1360, 1999-10-14, Žin., 1999, Nr. 90-2640 (1999-10-27), i. k. 0991010ISTAIII-1360
+Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
  
 
 
@@ -898,7 +919,10 @@ Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010I
 16 straipsnis. Viešas konkursas
 
 
-1. Viešas konkursas – vieno ar kelių privatizavimo objektų perdavimas potencialiam pirkėjui konkurso laimėtojui, kurio rašytiniai kainos ir investiciniai pasiūlymai (pinigai, skirti įsigyti ilgalaikį ir trumpalaikį materialųjį turtą didinant akcinės ar uždarosios akcinės bendrovės įstatinį kapitalą), įvykdžius privatizavimo sąlygose nustatytus darbo vietų minimalius reikalavimus, yra geriausi. Su geriausią konkursinį pasiūlymą pateikusiu potencialiu pirkėju ar potencialiais pirkėjais, kurių konkursiniai pasiūlymai skiriasi ne daugiau kaip 15 procentų, gali būti deramasi dėl jų pateiktų konkursinių pasiūlymų gerinimo.
+1. Viešas konkursas – vieno ar kelių privatizavimo objektų perdavimas potencialiam pirkėjui – viešo konkurso laimėtojui, kurio rašytiniai kainos ir investiciniai pasiūlymai (pinigai, skirti akcinės bendrovės ar uždarosios akcinės bendrovės įstatiniam kapitalui padidinti), įvykdžius privatizavimo sąlygose nustatytus reikalavimus, yra geriausi. Geriausią konkursinį pasiūlymą pateikusiam potencialiam pirkėjui ir visiems potencialiems pirkėjams, kurių konkursiniai pasiūlymai nuo geriausio konkursinio pasiūlymo skiriasi ne daugiau kaip 10 procentų, pasiūloma per Vyriausybės nustatytą terminą pagerinti konkursinius pasiūlymus. Pagal potencialių pirkėjų pagerintus pasiūlymus sudaroma potencialių pirkėjų eilė, kurią tvirtina Turto fondo vadovas. Viešo konkurso laimėtoju pripažįstamas ir pirkimo–pardavimo sutartį suderinti kviečiamas geriausią pagerintą pasiūlymą pateikęs potencialus pirkėjas. Jei viešo konkurso laimėtoju pripažintas potencialus pirkėjas nustatytu laiku nepateikia privatizavimo programoje nurodytų ketinamų prisiimti sutartinių įsipareigojimų įvykdymo užtikrinimo priemonių, neatvyksta pasirašytinai suderinti pirkimo–pardavimo sutarties projekto, atsisako pasirašyti pirkimo–pardavimo sutartį ar iki nustatyto termino nesumoka už viešame konkurse įsigytą objektą (kai už privatizavimo objektą turi būti sumokama iš karto), potencialaus pirkėjo pripažinimas konkurso laimėtoju laikomas netekusiu galios. Tokiu atveju teisės aktų nustatyta tvarka viešo konkurso laimėtoju pripažįstamas ir pirkimo–pardavimo sutartį suderinti eilės tvarka kviečiamas kitas potencialių pirkėjų eilėje esantis potencialus pirkėjas. 
+Straipsnio dalies pakeitimai:
+Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
+ 
 
 
 
@@ -926,7 +950,10 @@ Nr. IX-658, 2001-12-17, Žin., 2001, Nr. 112-4077 (2001-12-30), i. k. 1011010IST
 17 straipsnis. Tiesioginės derybos
 
 
-1. Tiesioginės derybos – vieno ar kelių privatizavimo objektų perdavimas tiesioginių derybų laimėtojui, kurio rašytiniai kainos ir investiciniai pasiūlymai (pinigai, skirti įsigyti ilgalaikį ir trumpalaikį materialųjį turtą didinant akcinės ar uždarosios akcinės bendrovės įstatinį kapitalą), įvykdžius privatizavimo sąlygose nustatytus darbo vietų minimalius reikalavimus, yra geriausi.
+1. Tiesioginės derybos – vieno ar kelių privatizavimo objektų perdavimas tiesioginių derybų laimėtojui, kurio rašytiniai kainos ir investiciniai pasiūlymai (pinigai, skirti įsigyti ilgalaikį ir trumpalaikį materialųjį turtą didinant akcinės ar uždarosios akcinės bendrovės įstatinį kapitalą), įvykdžius privatizavimo sąlygose nustatytus reikalavimus, yra geriausi. 
+Straipsnio dalies pakeitimai:
+Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
+ 
 
 
 
@@ -952,11 +979,22 @@ Nr. IX-658, 2001-12-17, Žin., 2001, Nr. 112-4077 (2001-12-30), i. k. 1011010IST
 
 
 
-5. Tiesioginių derybų būdu gali būti privatizuojami valstybei ar savivaldybei nuosavybės teise priklausantys pastatai ar patalpos, į kuriuos, gavus nuomotojo leidimą, buvo investuota privataus kapitalo, kurio vertė didesnė negu 1/2 išsinuomotų pastatų ar patalpų rinkos vertės, jeigu šie pastatai ar patalpos atitinka bent vieną iš šių sąlygų: pakeista ne mažiau kaip 1/2 jų pagrindinių konstrukcijų; bendras jų plotas ar tūris padidintas daugiau kaip 1/3; pakeista daugiau kaip 1/2 jų inžinerinių komunikacijų ar įrengtos naujos inžinerinės komunikacijos; taip pat juose atlikta šių darbų dalis ir (arba) sumontuota technologinė įranga ir gamybiniai įrengimai, kuriuos išmontuojant būtų padaryta esminės žalos įrangai, įrengimams, pastatui arba patalpoms. Privatizuojant tokį turtą, Vyriausybės nustatyta tvarka tiesioginės derybos gali būti vykdomos su vienu pirkėju, investavusiu privatų kapitalą šioje dalyje nustatytomis sąlygomis. 
+5. Tiesioginių derybų būdu gali būti privatizuojami valstybei ar savivaldybei nuosavybės teise priklausantys pastatai ar patalpos, kuriuos (kurias) nuomininkas nuomotojo leidimu pagerino. Šiuo atveju Vyriausybės nustatyta tvarka tiesioginės derybos su vieninteliu pirkėju – šių pastatų ar patalpų nuomininku ar asmeniu, turinčiu nuomininko reikalavimo teisę į būtinųjų išlaidų atlyginimą, gali būti vykdomos, jei yra tenkinamos šios sąlygos:
+
+
+1) teisės aktų nustatyta tvarka nuomininkas ar kitas asmuo turi reikalavimo teisę į būtinųjų išlaidų, nuomotojo leidimu nuomininko patirtų pastatams ar patalpoms pagerinti, atlyginimą ir šių atlygintinų išlaidų suma yra didesnė negu 1/2 išsinuomotų pastatų ar patalpų ir jiems priskirto žemės sklypo rinkos vertės. Tiesioginės derybos nevedamos, jei iki sprendimo dėl tiesioginių derybų vedimo priėmimo momento reikalavimo teisė į būtinųjų išlaidų atlyginimą sumažėja tiek, kad neviršija 1/2 išsinuomotų pastatų ar patalpų ir jiems priskirto žemės sklypo rinkos vertės;
+
+
+
+
+2) pastatai ar patalpos atitinka bent vieną iš šių sąlygų: pakeista ne mažiau kaip 1/2 jų pagrindinių konstrukcijų; bendras jų plotas ar tūris padidintas daugiau kaip 1/3; pakeista daugiau kaip 1/2 jų inžinerinių komunikacijų ar įrengtos naujos inžinerinės komunikacijos; taip pat juose atlikta šių darbų dalis ir (arba) sumontuota technologinė įranga ir gamybiniai įrenginiai, kuriuos išmontuojant būtų padaryta esminės žalos įrangai, įrenginiams, pastatui arba patalpoms. 
+
+
 Papildyta straipsnio dalimi:
 Nr. VIII-1888, 2000-07-20, Žin., 2000, Nr. 66-1986 (2000-08-04), i. k. 1001010ISTAIII-1888
 Straipsnio dalies pakeitimai:
 Nr. IX-754, 2002-03-05, Žin., 2002, Nr. 31-1108 (2002-03-27), i. k. 1021010ISTA00IX-754
+Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
  
 
 
@@ -970,9 +1008,11 @@ Nr. IX-754, 2002-03-05, Žin., 2002, Nr. 31-1108 (2002-03-27), i. k. 1021010ISTA
 
 
 
-7. Privatizavimo objekto valdytojas per 45 kalendorines dienas nuo potencialaus pirkėjo iniciatyvinio pasiūlymo ir dokumentų, patvirtinančių, kad tenkinamos šio straipsnio 5 ar 6 dalyse nustatytos sąlygos, gavimo dienos privalo priimti sprendimą vykdyti tiesiogines derybas dėl šio straipsnio 5 ar 6 dalyse nurodyto turto privatizavimo arba motyvuotai atsakyti, kodėl pagal pateiktus dokumentus šis turtas negali būti privatizuojamas tiesioginių derybų būdu. 
+7. Privatizavimo objekto valdytojas per 45 kalendorines dienas nuo potencialaus pirkėjo rašytinio pasiūlymo ir dokumentų, patvirtinančių, kad tenkinamos šio straipsnio 5 ar 6 dalyse nustatytos sąlygos, gavimo dienos privalo priimti sprendimą vesti tiesiogines derybas dėl šio straipsnio 5 ar 6 dalyse nurodyto turto privatizavimo arba motyvuotai atsakyti, kodėl pagal pateiktus dokumentus šis turtas negali būti privatizuojamas tiesioginių derybų būdu. 
 Papildyta straipsnio dalimi:
 Nr. IX-754, 2002-03-05, Žin., 2002, Nr. 31-1108 (2002-03-27), i. k. 1021010ISTA00IX-754
+Straipsnio dalies pakeitimai:
+Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
  
 
 
@@ -1017,9 +1057,10 @@ Nr. IX-754, 2002-03-05, Žin., 2002, Nr. 31-1108 (2002-03-27), i. k. 1021010ISTA
 
 
 
-2) valstybei ar savivaldybei nuosavybės teise priklausančius pastatus ar patalpas, į kuriuos, gavus nuomotojo leidimą, buvo investuota privataus kapitalo, kurio vertė didesnė negu 1/2 išsinuomotų pastatų ar patalpų rinkos vertės, jeigu šie pastatai ar patalpos atitinka bent vieną iš šių sąlygų: pakeista ne mažiau kaip 1/2 jų pagrindinių konstrukcijų; bendras jų plotas ar tūris padidintas daugiau kaip 1/3; pakeista daugiau kaip 1/2 jų inžinerinių komunikacijų ar įrengtos naujos inžinerinės komunikacijos; taip pat juose atlikta šių darbų dalis ir (arba) sumontuota technologinė įranga ir gamybiniai įrengimai, kuriuos išmontuojant būtų padaryta esminės žalos įrangai, įrengimams, pastatui arba patalpoms. Privatizuojant tokį turtą nuomos su išsipirkimu būdu, Vyriausybės nustatyta tvarka derybos gali būti vykdomos su vienu nuomininku (pirkėju), investavusiu privatų kapitalą šiame punkte nustatytomis sąlygomis. Nuomos su išsipirkimu vertinimo kriterijus yra nuomos kaina, diskontuota nuomos su išsipirkimu konkurso rengimo dieną. 
+2) valstybei ar savivaldybei nuosavybės teise priklausančius pastatus ar patalpas, kuriuos (kurias) nuomininkas nuomotojo leidimu pagerino. Šis privatizavimo būdas gali būti taikomas, jei yra tenkinamos šio įstatymo 17 straipsnio 5 dalyje nustatytos sąlygos. Privatizuojant tokį turtą nuomos su išsipirkimu būdu, Vyriausybės nustatyta tvarka derybos gali būti vedamos su vienu pirkėju (nuomininku ar asmeniu, turinčiu nuomininko reikalavimo teisę į būtinųjų išlaidų atlyginimą), patyrusiu būtinąsias išlaidas šiame punkte nustatytomis sąlygomis. Šis privatizavimo būdas negali būti taikomas, jei iki sprendimo dėl šio būdo taikymo priėmimo momento reikalavimo teisė į būtinųjų išlaidų atlyginimą sumažėja tiek, kad neviršija 1/2 išsinuomotų pastatų ar patalpų ir jiems priskirto žemės sklypo rinkos vertės. Nuomos su išsipirkimu vertinimo kriterijus yra nuomos kaina, diskontuota nuomos su išsipirkimu konkurso rengimo dieną. 
 Straipsnio punkto pakeitimai:
 Nr. IX-754, 2002-03-05, Žin., 2002, Nr. 31-1108 (2002-03-27), i. k. 1021010ISTA00IX-754
+Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
  
 
 
@@ -1053,7 +1094,10 @@ Nr. VIII-1888, 2000-07-20, Žin., 2000, Nr. 66-1986 (2000-08-04), i. k. 1001010I
 
 
 
-2) mokant nuomos mokestį ir pasibaigus nuomos terminui išperkant privatizavimo objektą minimalia kaina-suma, kurią potencialus pirkėjas savo šalies pinigais gali pervesti per banką.
+2) mokant nuomos mokestį ir pasibaigus nuomos terminui išperkant privatizavimo objektą sutarta kaina. 
+Straipsnio punkto pakeitimai:
+Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
+ 
 
 
 
@@ -1088,19 +1132,30 @@ Nr. VIII-1888, 2000-07-20, Žin., 2000, Nr. 66-1986 (2000-08-04), i. k. 1001010I
 
 
 
-20 straipsnis. Apmokėjimas už privatizavimo objektą
+20 straipsnis. Mokėjimas už privatizavimo objektą
 
 
-1. Apmokėti už įsigyjamą privatizavimo objektą potencialus pirkėjas, mokantis Lietuvoje, moka Lietuvos Respublikos pinigais arba kitais Lietuvos Respublikos įstatymų nustatytais mokėjimo dokumentais, o potencialus pirkėjas, įregistruotas ir mokantis užsienyje, moka ir (ar) privatizavimo sandoryje nustatyta užsienio valiuta arba kitais Lietuvos Respublikos įstatymų nustatytais mokėjimo dokumentais.
+1. Potencialus pirkėjas už įsigyjamą privatizavimo objektą moka objekto privatizavimo programoje nurodytais pinigais valiuta, kuri pagal galiojančius Lietuvos Respublikos ar valstybės, kurioje turi būti atliktas mokėjimas, teisės aktus laikoma teisėta atsiskaitymo priemone. Mokėjimo už privatizavimo objektą tvarka ir terminai nustatomi privatizavimo sandoryje.
 
 
 
 
-2. Privatizavimo objekto pirkimo tvarka ir terminai nustatomi privatizavimo sandoryje. Privatizavimo objektą (akcijas) pirkti galima ir dalimis, tačiau pirmąja dalimi turi būti perkama ne mažiau kaip 51 procentas parduodamų akcijų, o apmokėjimas už paskutiniąją akcijų dalį negali būti atidėtas ilgiau kaip 5 metams. Pirmoji parduodamų akcijų dalis, kai mokėjimas atidedamas, arba ne mažiau kaip 60 procentų pardavimo kainos, kai mokama iš karto, turi būti apmokama litais, jei už privatizavimo objektą potencialus pirkėjas moka Lietuvoje, arba privatizavimo sandoryje nustatyta užsienio valiuta, jei potencialus pirkėjas yra įregistruotas ir moka užsienyje. Už atidėtus mokėjimus pirkėjas turi mokėti palūkanas, kurios apskaičiuojamos, vadovaujantis vidutine komercinių bankų palūkanų norma, nuo nesumokėtos visos akcijų paketo sumos. Jei už privatizavimo objektą moka Lietuvos gyventojas ar jų grupė, pagal Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos gyventojų pajamų brangiam turtui įsigyti arba kitų įsigytų bei perleidžiamų lėšų deklaravimo“ turi būti pateikta Valstybinės mokesčių inspekcijos pažyma. 
+2. Už privatizavimo objektą gali būti sumokama iš karto (per penkias darbo dienas po privatizavimo objekto pirkimo–pardavimo sutarties pasirašymo) arba dalimis (etapais). Vėliausią galimą atsiskaitymo už privatizavimo objektą terminą nustato privatizavimo objekto valdytojas. Šis terminas negali būti ilgesnis kaip penkeri metai, kai privatizuojamos akcijos, ir dveji metai, kai privatizuojamas ilgalaikis materialusis turtas, išskyrus atvejus, kai ilgalaikis materialusis turtas privatizuojamas nuomos su išsipirkimu būdu.
+
+
+
+
+3. Už privatizavimo objektą mokant dalimis, pirmoji dalis turi būti sumokama ne vėliau kaip per penkias darbo dienas po privatizavimo objekto pirkimo–pardavimo sutarties pasirašymo dienos. Pirmąja dalimi turi būti sumokama ne mažiau kaip 51 procentas pirkimo–pardavimo sutartyje nustatytos už privatizavimo objektą mokėtinos sumos, kai privatizuojamos akcijos, arba ne mažiau kaip 25 procentai pirkimo-pardavimo sutartyje nustatytos už privatizavimo objektą mokėtinos sumos, kai privatizuojamas ilgalaikis materialusis turtas. Jeigu privatizavimo objekto (statinio) privatizavimo programoje nustatytas vertės padidėjimo procentas dėl nuomos metu šiam objektui pagerinti padarytų išlaidų, pirmąja dalimi turi būti sumokama ne mažiau kaip 25 procentai valstybės (savivaldybės) dalį pirkimo kainoje sudarančios sumos. Potencialaus pirkėjo sumokėta pradinė įmoka įskaitoma į pirmąja dalimi mokėtiną sumą.
+
+
+
+
+4. Už atidėtą mokėjimą potencialus pirkėjas moka palūkanas. Palūkanos apskaičiuojamos Vyriausybės nustatyta tvarka, vadovaujantis vidutine komercinių bankų palūkanų norma, nuo likusios už privatizavimo objektą mokėti sumos. 
 
 
 Straipsnio pakeitimai:
 Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
+Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
  
 
 
@@ -1125,7 +1180,10 @@ Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010I
 
 
 
-2) sąlygą, draudžiančią sustabdyti ar nutraukti valstybės (savivaldybės) kontroliuojamos įmonės veiklą. Privatizavimo sandoryje gali būti pirkėjo įsipareigojimas išsinuomoti ar išsipirkti privatizavimo objektui priskirtą ne žemės ūkio paskirties žemės sklypą, taip pat kiti pirkėjo įsipareigojimai.
+2) sąlygą, draudžiančią sustabdyti ar nutraukti valstybės (savivaldybės) kontroliuojamos įmonės veiklą. Privatizavimo sandoryje gali būti pirkėjo įsipareigojimas išsinuomoti ar išsipirkti privatizavimo objektui priskirtą žemės sklypą, taip pat kiti pirkėjo įsipareigojimai. 
+Straipsnio punkto pakeitimai:
+Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
+ 
 
 
 
@@ -1142,7 +1200,9 @@ Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010I
 
 
 
-5. Nuosavybės teisę į privatizavimo objektą - ilgalaikį materialųjį turtą pirkėjas įgyja nuo jo įregistravimo Nekilnojamojo turto registro centriniame duomenų banke, kai jis pateikia privatizavimo objekto pirkimo-pardavimo sutartį ir privatizavimo objekto nuosavybės teisės perdavimą bei priėmimą patvirtinantį dokumentą. Nuosavybės teisę į privatizavimo objektą - akcijas pirkėjas įgyja, kai jo vardu atidarytoje asmeninėje vertybinių popierių sąskaitoje įrašomos pagal pirkimo-pardavimo sutartį įsigytos akcijos (kai parduodamos nematerialiosios akcijos) arba pirkėjo vardu padaromas indosamento įrašas ar išduodamas akcijų sertifikatas (kai parduodamos materialiosios akcijos), kai jis pateikia privatizavimo objekto nuosavybės teisės perdavimą ir priėmimą patvirtinantį dokumentą. Valstybei ar savivaldybei nuosavybės teise priklausančio ilgalaikio materialiojo turto privatizavimo sandorių notariškai tvirtinti neprivaloma
+5. Neteko galios nuo 2007-03-01
+Straipsnio dalies naikinimas:
+Nr. X-949, 2006-12-05, Žin. 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
 Papildyta straipsnio dalimi:
 Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
  
@@ -1150,9 +1210,10 @@ Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010I
 
 
 
-6. Privatizavimo sandoriui yra taikomos Civilinio kodekso nuostatos, jei šiame įstatyme ar privatizavimo sandoryje nenustatyta kitaip. 
+6. Privatizavimo sandoriui ir nuosavybės teisės į privatizavimo objektą atsiradimui yra taikomos Civilinio kodekso nuostatos, jei šiame įstatyme ar privatizavimo sandoryje nenustatyta kitaip. 
 Straipsnio dalies pakeitimai:
 Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010ISTAIII-1302
+Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
  
 
 
@@ -1160,28 +1221,15 @@ Nr. VIII-1302, 1999-07-07, Žin., 1999, Nr. 66-2120 (1999-07-30), i. k. 0991010I
 
 
 
-22 straipsnis. Teisė įsigyti ar išsinuomoti ne žemės ūkio paskirties žemės sklypą
+22 straipsnis. Žemės sklypų, priskirtų privatizuojamiems statiniams ir įrenginiams, pardavimas, nuoma ar kitoks perleidimas
 
 
-1. Jei potencialus pirkėjas atitinka nacionalinio ar užsienio subjekto sąvoką, nustatytą Lietuvos Respublikos Konstitucijos 47 straipsnio antrojoje dalyje numatyto žemės sklypų įsigijimo nuosavybėn subjektų, tvarkos, sąlygų ir apribojimų Konstituciniame įstatyme, tai šis pirkėjas, Valstybės ir savivaldybių turto privatizavimo įstatymo nustatyta tvarka nuosavybės teise įsigydamas pastatus ar įrenginius, Konstitucinio įstatymo nustatyta tvarka turi teisę išsipirkti žemės sklypą, reikalingą pastatams ar įrenginiams eksploatuoti. 
+Valstybinės žemės sklypų ir savivaldybėms nuosavybės teise priklausančių žemės sklypų, priskirtų privatizuojamiems statiniams ir įrenginiams, pardavimo, nuomos ar kitokio perleidimo tvarką nustato žemės santykius reglamentuojantys teisės aktai. 
 
 
-
-
-2. Jei potencialus pirkėjas šio įstatymo nustatyta tvarka įsigyja valstybės ar savivaldybės kontroliuojamos įmonės akcijas, ši įmonė Lietuvos Respublikos Konstitucijos 47 straipsnio antrojoje dalyje numatyto žemės sklypų įsigijimo nuosavybėn subjektų, tvarkos, sąlygų ir apribojimų Konstituciniame įstatyme nustatyta tvarka turi teisę įsigyti ir šiai įmonei priskirtą ne žemės ūkio paskirties žemės sklypą.
-
-
-
-
-3. Jei potencialus pirkėjas yra Lietuvos Respublikos pilietis, šio įstatymo nustatyta tvarka nuosavybės teise įsigyjantis pastatus ar įrenginius, šis potencialus pirkėjas turi teisę su pastatu ar įrenginiu įsigyti ir žemės sklypą, kuris nustatyta tvarka yra priskirtas šiam pastatui ar įrenginiui eksploatuoti.
-
-
-
-
-4. Pirkėjas, šio įstatymo nustatyta tvarka įsigijęs pastatą ar įrenginį, perima buvusias šių privatizavimo objektų savininkų teises ir pareigas pagal žemės, kuri reikalinga tokiems privatizavimo objektams eksploatuoti, nuomos sutartį, o jeigu nuomos sutartis nebuvo sudaryta, – perima teisę išsinuomoti šiems privatizavimo objektams eksploatuoti reikalingą žemės sklypą.
+Straipsnio pakeitimai:
+Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
  
-
-
 
 
 
@@ -1518,3 +1566,8 @@ Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2525, 2004-11-02, Žin., 2004, Nr. 167-6104 (2004-11-17), i. k. 1041010ISTA0IX-2525
 Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 2, 5, 7, 9 ir 11 straipsnių pakeitimo ir papildymo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-949, 2006-12-05, Žin., 2006, Nr. 141-5391 (2006-12-28), i. k. 1061010ISTA000X-949
+Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymo 4, 7, 9, 10, 11, 13, 16, 17, 19, 20, 21, 22 straipsnių pakeitimo ir papildymo įstatymas
