@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CF3E2829B861"
 
 # Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2002-12-24 iki 2007-02-28
+Suvestinė redakcija nuo 2007-03-01 iki 2010-11-10
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 8-161, i. k. 0981010ISTAVIII-602
  
@@ -34,13 +34,20 @@ BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Įstatymo paskirtis 
+1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas nustato narkotinių ir psichotropinių medžiagų klasifikavimo pagrindus, šių medžiagų, kai jos vartojamos sveikatos priežiūros, veterinarijos bei mokslo tikslams, teisėtą apyvartą ir apyvartos kontrolę pagal tarptautinių susitarimų reikalavimus.
+1. Šis įstatymas nustato narkotinių ir psichotropinių medžiagų klasifikavimo pagrindus, šių medžiagų, kai jos vartojamos sveikatos priežiūros, veterinarijos bei mokslo tikslams, teisėtą apyvartą ir apyvartos kontrolę pagal tarptautinių susitarimų reikalavimus.
+
+
+
+
+2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais Įstatymo priede.
+
+
+Straipsnio pakeitimai:
+Nr. X-905, 2006-11-16, Žin., 2006, Nr. 130-4888 (2006-11-30), i. k. 1061010ISTA000X-905
  
-
-
 
 
 
@@ -53,7 +60,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Preparatas - bet kokios fizinės būklės vaistinė priemonė, kuriai suteikta tam tikra vaistų forma ir kurios sudėtyje terapinėmis dozėmis yra viena ar kelios narkotinės arba psichotropinės vaistinės medžiagos.
+2. Preparatas – bet kokios fizinės būsenos dozuotas ar nedozuotas tirpalas ar mišinys, kurio sudėtyje yra narkotinių ar psichotropinių medžiagų arba viena ar kelios narkotinės ar psichotropinės medžiagos terapinėmis dozėmis.
+Straipsnio dalies pakeitimai:
+Nr. X-905, 2006-11-16, Žin., 2006, Nr. 130-4888 (2006-11-30), i. k. 1061010ISTA000X-905
+ 
 
 
 
@@ -199,6 +209,27 @@ Nr. IX-1249, 2002-12-10, Žin., 2002, Nr. 123-5536 (2002-12-24), i. k. 1021010IS
 
 
 
+5. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka įgaliotos institucijos turi teisę keistis su Europos Sąjungos valstybių narių kompetentingomis institucijomis į I sąrašą įtrauktų medžiagų pavyzdžiais, kai tai reikalinga siekiant atskleisti ir tirti nusikalstamas veikas, vykdyti baudžiamąjį persekiojimą, atlikti ekspertizes ir objektų tyrimus.
+Papildyta straipsnio dalimi:
+Nr. X-905, 2006-11-16, Žin., 2006, Nr. 130-4888 (2006-11-30), i. k. 1061010ISTA000X-905
+ 
+
+
+
+
+
+
+
+
+81 straipsnis. Į I sąrašą įtrauktų medžiagų siuntimas
+
+
+Į I sąrašą įtrauktas medžiagas siųsti paštu draudžiama, išskyrus Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka diplomatiniu ar registruotu (greituoju) paštu Europos Sąjungos valstybių narių kompetentingoms institucijoms siunčiamus arba iš jų gaunamus šių medžiagų pavyzdžius, siekiant atskleisti ir tirti nusikalstamas veikas, vykdyti baudžiamąjį persekiojimą, atlikti ekspertizes ar objektų tyrimus.
+
+
+Papildyta straipsniu:
+Nr. X-905, 2006-11-16, Žin., 2006, Nr. 130-4888 (2006-11-30), i. k. 1061010ISTA000X-905
+ 
 
 
 
@@ -222,7 +253,10 @@ Su medžiagomis, įtrauktomis į II ar III sąrašus, susijusiai veiklai taikomi
 10 straipsnis. Su medžiagomis, įtrauktomis į II ar III sąrašus, susijusios veiklos licencijavimas
 
 
-1. Į II ir III sąrašus įtrauktas medžiagas gaminti, importuoti į Lietuvos Respubliką, eksportuoti iš Lietuvos Respublikos, verstis jų didmenine ir mažmenine prekyba Lietuvos Respublikoje gali tik tam pasirengę juridiniai asmenys, individualios įmonės, turinčios šiai veiklai licenciją, tik licencijoje nurodytuose objektuose ir patalpose, kuriais naudotis išduotas specialus leidimas.
+1. Į II ir III sąrašus įtrauktas medžiagas gaminti, importuoti į Lietuvos Respubliką, eksportuoti iš Lietuvos Respublikos, verstis jų didmenine ir mažmenine prekyba Lietuvos Respublikoje gali Lietuvos Respublikos Vyriausybės nustatyta tvarka tik tam pasirengę juridiniai asmenys ir užsienio juridinių asmenų filialai, turintys šiai veiklai licenciją, tik licencijoje nurodytuose objektuose ir patalpose, kuriais naudotis išduotas specialus leidimas. 
+Straipsnio dalies pakeitimai:
+Nr. X-905, 2006-11-16, Žin., 2006, Nr. 130-4888 (2006-11-30), i. k. 1061010ISTA000X-905
+ 
 
 
 
@@ -232,7 +266,10 @@ Su medžiagomis, įtrauktomis į II ar III sąrašus, susijusiai veiklai taikomi
 
 
 
-3. Juridiniai asmenys, individualios įmonės gali įsigyti, laikyti į II ir III sąrašus įtrauktas narkotines bei psichotropines medžiagas, jeigu turi licenciją farmacinei veiklai ir licenciją šiai veiklai, išduotą Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+1. Į II ir III sąrašus įtrauktas medžiagas gaminti, importuoti į Lietuvos Respubliką, eksportuoti iš Lietuvos Respublikos, verstis jų didmenine ir mažmenine prekyba Lietuvos Respublikoje gali Lietuvos Respublikos Vyriausybės nustatyta tvarka tik tam pasirengę juridiniai asmenys ir užsienio juridinių asmenų filialai, turintys šiai veiklai licenciją, tik licencijoje nurodytuose objektuose ir patalpose, kuriais naudotis išduotas specialus leidimas. 
+Straipsnio dalies pakeitimai:
+Nr. X-905, 2006-11-16, Žin., 2006, Nr. 130-4888 (2006-11-30), i. k. 1061010ISTA000X-905
+ 
 
 
 
@@ -242,12 +279,17 @@ Su medžiagomis, įtrauktomis į II ar III sąrašus, susijusiai veiklai taikomi
 
 
 
-5. Sprendimą dėl licencijos neišdavimo, jos galiojimo sustabdymo ar panaikinimo juridinis asmuo ar individuali įmonė gali per 30 kalendorinių dienų apskųsti Sveikatos apsaugos ministerijai. Ministerija skundą išnagrinėja per 30 dienų. Juridinis asmuo bei individuali įmonė, nepatenkinti Sveikatos apsaugos ministerijos sprendimu, arba jei Sveikatos apsaugos ministerija neišnagrinėjo skundo per nustatytą terminą, turi teisę kreiptis į teismą.
+5. Sprendimą dėl licencijos neišdavimo, jos galiojimo sustabdymo ar panaikinimo juridinis asmuo ar užsienio juridinio asmens filialas gali per 30 kalendorinių dienų apskųsti Sveikatos apsaugos ministerijai. Ministerija skundą išnagrinėja per 30 dienų. Juridinis asmuo bei užsienio juridinio asmens filialas, nepatenkinti Sveikatos apsaugos ministerijos sprendimu, arba jei Sveikatos apsaugos ministerija neišnagrinėjo skundo per nustatytą terminą, turi teisę kreiptis į teismą. 
+Straipsnio dalies pakeitimai:
+Nr. X-905, 2006-11-16, Žin., 2006, Nr. 130-4888 (2006-11-30), i. k. 1061010ISTA000X-905
+ 
 
 
 
 
-6. Panaikinus licencijos galiojimą, juridinio asmens arba individualios įmonės turimi į II ir III sąrašus įtrauktų medžiagų likučiai Sveikatos apsaugos ministerijos nustatyta tvarka parduodami asmenims, turintiems licenciją su narkotinėmis ir psichotropinėmis medžiagomis susijusiai veiklai.
+6. Panaikinus licencijos galiojimą, juridinio asmens arba užsienio juridinio asmens filialo turimi į II ir III sąrašus įtrauktų medžiagų likučiai Sveikatos apsaugos ministerijos nustatyta tvarka parduodami asmenims, turintiems licenciją su narkotinėmis ir psichotropinėmis medžiagomis susijusiai veiklai.
+Straipsnio dalies pakeitimai:
+Nr. X-905, 2006-11-16, Žin., 2006, Nr. 130-4888 (2006-11-30), i. k. 1061010ISTA000X-905
  
 
 
@@ -299,7 +341,10 @@ Licencija gaminti į II ir III sąrašus įtrauktas medžiagas išduodama tik pa
 
 
 
-7. Į II ir III sąrašus įtrauktų medžiagų didmenine prekyba besiverčiantys asmenys Sveikatos apsaugos ministerijos nustatyta tvarka turi registruoti, kas šias medžiagas įsigyja (fizinio asmens pavardė, vardas, juridinio asmens ar individualios įmonės pavadinimas, kodas, adresas), o įsigyjantys asmenys privalo pateikti nustatytus registravimo duomenis.
+7. Į II ir III sąrašus įtrauktų medžiagų didmenine prekyba besiverčiantys asmenys Sveikatos apsaugos ministerijos nustatyta tvarka turi registruoti, kas šias medžiagas įsigyja (fizinio asmens pavardė, vardas, juridinio asmens ar užsienio juridinio asmens filialo pavadinimas, kodas, adresas), o įsigyjantys asmenys privalo pateikti nustatytus registravimo duomenis.
+Straipsnio dalies pakeitimai:
+Nr. X-905, 2006-11-16, Žin., 2006, Nr. 130-4888 (2006-11-30), i. k. 1061010ISTA000X-905
+ 
 
 
 
@@ -338,7 +383,10 @@ Licencija gaminti į II ir III sąrašus įtrauktas medžiagas išduodama tik pa
 
 
 
-14 straipsnis. Į II ir III sąrašus įtrauktų medžiagų importo, eksporto ir tranzito sąlygos
+14 straipsnis. Į II ir III sąrašus įtrauktų medžiagų teisėta apyvarta 
+Pakeistas straipsnio pavadinimas:
+Nr. X-905, 2006-11-16, Žin., 2006, Nr. 130-4888 (2006-11-30), i. k. 1061010ISTA000X-905
+ 
 
 
 1. Į II ir III sąrašus įtrauktų medžiagų importo į Lietuvos Respubliką, eksporto iš Lietuvos Respublikos, tranzito per Lietuvos Respublikos teritoriją sąlygas ir vykdymo tvarką, remiantis Lietuvos Respublikos tarptautinėmis sutartimis, nustato Lietuvos Respublikos Vyriausybė.
@@ -362,6 +410,14 @@ Licencija gaminti į II ir III sąrašus įtrauktas medžiagas išduodama tik pa
 
 
 
+5. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka įgaliotos institucijos turi teisę keistis su Europos Sąjungos valstybių narių kompetentingomis institucijomis į II ir III sąrašus įtrauktų medžiagų pavyzdžiais, kai tai reikalinga siekiant atskleisti ir tirti nusikalstamas veikas, vykdyti baudžiamąjį persekiojimą, atlikti ekspertizes ir objektų tyrimus.
+Papildyta straipsnio dalimi:
+Nr. X-905, 2006-11-16, Žin., 2006, Nr. 130-4888 (2006-11-30), i. k. 1061010ISTA000X-905
+ 
+
+
+
+
 
 
 15 straipsnis. Į II ir III sąrašus įtrauktų medžiagų gabenimas Lietuvos Respublikos teritorijoje
@@ -378,10 +434,12 @@ Asmenys, gabenantys į II ir III sąrašus įtrauktas medžiagas Lietuvos Respub
 16 straipsnis. Į II ir III sąrašus įtrauktų medžiagų siuntimas
 
 
-Į II ir III sąrašus įtrauktas medžiagas siųsti paštu draudžiama.
+Į II ir III sąrašus įtrauktas medžiagas siųsti paštu draudžiama, išskyrus Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka diplomatiniu ar registruotu (greituoju) paštu Europos Sąjungos valstybių narių kompetentingoms institucijoms siunčiamus arba iš jų gaunamus šių medžiagų pavyzdžius, siekiant atskleisti ir tirti nusikalstamas veikas, vykdyti baudžiamąjį persekiojimą, atlikti ekspertizes ar objektų tyrimus.
+
+
+Straipsnio pakeitimai:
+Nr. X-905, 2006-11-16, Žin., 2006, Nr. 130-4888 (2006-11-30), i. k. 1061010ISTA000X-905
  
-
-
 
 
 
@@ -486,13 +544,20 @@ Tarptautinio susisiekimo transporto vaistinėlėse į II ir III sąrašus įtrau
 
 
 
-20 straipsnis. Keleivių teisės
+20 straipsnis. Keliaujančių asmenų teisės
 
 
-Keleiviai, vykstantys per Lietuvos valstybės sieną, sveikatos priežiūros tikslams asmeniniam vartojimui kartu su jiems paskirtų vaistų receptų kopijomis gali turėti į II sąrašą įtrauktų medžiagų ne daugiau kaip 7 dienų gydymo kursui, į III sąrašą įtrauktų medžiagų - ne daugiau kaip 30 dienų gydymo kursui.
+1. Asmenys, vykstantys į Šengeno valstybę ar atvykstantys iš jos, gali vežtis gydymo tikslais asmeniniam vartojimui skirtų į II ir III sąrašus įtrauktų medžiagų ne ilgesniam kaip 30 dienų laikotarpiui, jeigu jie su savimi turi valstybės, kurioje gyvena, kompetentingos institucijos išduotą nustatytos formos pažymą.
+
+
+
+
+2. Asmenys, vykstantys į kitą, nei šio straipsnio 1 dalyje nurodyta, valstybę ar atvykstantys iš jos, gali vežtis gydymo tikslais asmeniniam vartojimui skirtų į II sąrašą įtrauktų medžiagų ne ilgesniam kaip 15 dienų laikotarpiui, į III sąrašą įtrauktų – ne ilgesniam kaip 30 dienų laikotarpiui, jeigu jie su savimi turi receptų šioms medžiagoms įsigyti kopijas.
+
+
+Straipsnio pakeitimai:
+Nr. X-905, 2006-11-16, Žin., 2006, Nr. 130-4888 (2006-11-30), i. k. 1061010ISTA000X-905
  
-
-
 
 
 
@@ -549,7 +614,9 @@ Narkotinių ir psichotropinių medžiagų apyvartos apskaitą tvarko ir kontrol�
 
 
 
-2. Narkotinių ir psichotropinių medžiagų inventorizacijos ir materialinių vertybių apskaitos bei balanso sudarymo tvarką vaistų mažmeninės ir didmeninės prekybos įmonėse bei gamybos įmonėse nustato Sveikatos apsaugos ministerija, vadovaudamasi Buhalterinės apskaitos pagrindų įstatymo nuostatomis.
+2. Narkotinių ir psichotropinių medžiagų inventorizacijos ir materialinių vertybių apskaitos bei balanso sudarymo tvarką vaistų mažmeninės ir didmeninės prekybos įmonėse bei gamybos įmonėse nustato Sveikatos apsaugos ministerija, vadovaudamasi Buhalterinės apskaitos įstatymo nuostatomis.
+Straipsnio dalies pakeitimai:
+Nr. X-905, 2006-11-16, Žin., 2006, Nr. 130-4888 (2006-11-30), i. k. 1061010ISTA000X-905
  
 
 
@@ -607,6 +674,31 @@ RESPUBLIKOS PREZIDENTAS                            �
  
 
 
+
+
+Lietuvos Respublikos
+narkotinių ir psichotropinių
+medžiagų kontrolės įstatymo
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+
+1. 1994 m. gruodžio 22 d. Vykdomojo komiteto sprendimas dėl 75 straipsnyje numatytos pažymos narkotinėms ir psichotropinėms medžiagoms vežtis (SCH/Com-ex (94) 28 rev.), OL 2004 m. specialusis leidimas, 19 skyrius, 2 tomas, p. 416.
+
+
+
+
+2. 2001 m. gegužės 28 d. Tarybos sprendimas Nr. 2001/419/TVR dėl kontroliuojamų medžiagų pavyzdžių perdavimo, OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 110.
+ 
+
+
+Papildyta priedu:
+Nr. X-905, 2006-11-16, Žin., 2006, Nr. 130-4888 (2006-11-30), i. k. 1061010ISTA000X-905
+ 
+
+
  
  
 Pakeitimai:
@@ -620,3 +712,8 @@ Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1249, 2002-12-10, Žin., 2002, Nr. 123-5536 (2002-12-24), i. k. 1021010ISTA0IX-1249
 Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo 7 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-905, 2006-11-16, Žin., 2006, Nr. 130-4888 (2006-11-30), i. k. 1061010ISTA000X-905
+Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo 1, 2, 8, 10, 12, 14, 16, 20, 23 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 8(1) straipsniu ir priedu įstatymas
