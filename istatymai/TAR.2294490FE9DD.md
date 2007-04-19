@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2294490FE9DD"
 
 # Lietuvos Respublikos muitinės įstatymas
 
-Suvestinė redakcija nuo 2005-12-03 iki 2007-04-18
+Suvestinė redakcija nuo 2007-04-19 iki 2009-12-27
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2517, i. k. 1041010ISTA0IX-2183
  
@@ -2496,7 +2496,10 @@ INTELEKTINĖS NUOSAVYBĖS APSAUGA IMPORTUOJANT IR EKSPORTUOJANT PREKES
 80 straipsnis.       Prašymo taikyti muitinės priežiūros priemones intelektinės nuosavybės teisių subjekto teisėms apsaugoti pateikimas
 
 
-1. Intelektinės nuosavybės teisių subjektų, nurodytų Intelektinės nuosavybės apsaugos reglamento 2 straipsnio 2 dalyje, prašymai dėl muitinės priežiūros priemonių taikymo šių asmenų teisėms apsaugoti Intelektinės nuosavybės apsaugos reglamento 5 straipsnio nustatyta tvarka teikiami Muitinės departamentui.
+1. Intelektinės nuosavybės teisių subjektų, nurodytų Intelektinės nuosavybės apsaugos reglamento 2 straipsnio 2 dalyje ir Intelektinės nuosavybės apsaugos reglamentą įgyvendinančio reglamento 1 straipsnyje, prašymai dėl muitinės priežiūros priemonių taikymo šių asmenų teisėms apsaugoti Intelektinės nuosavybės apsaugos reglamento 5 straipsnio ir Intelektinės nuosavybės apsaugos reglamentą įgyvendinančio reglamento 3 straipsnio nustatyta tvarka teikiami Muitinės departamentui. 
+Straipsnio dalies pakeitimai:
+Nr. X-1071, 2007-04-03, Žin., 2007, Nr. 43-1632 (2007-04-19), i. k. 1071010ISTA00X-1071
+ 
 
 
 
@@ -2511,7 +2514,9 @@ INTELEKTINĖS NUOSAVYBĖS APSAUGA IMPORTUOJANT IR EKSPORTUOJANT PREKES
 
 
 
-4. Jeigu muitinio tikrinimo metu paaiškėja, kad yra pagrindo manyti, jog tikrinamos prekės yra pagamintos pažeidžiant intelektinės nuosavybės teises, be intelektinės nuosavybės teisių subjekto prašymo taikomos Intelektinės nuosavybės apsaugos reglamento 4 straipsnio nuostatos. Muitinė, prieš pateikdama intelektinės nuosavybės teisių subjektui pranešimą apie spėjamą jo teisių pažeidimą, Muitinės departamento generalinio direktoriaus nustatyta tvarka gali prašyti intelektinės nuosavybės teisių subjekto pateikti informaciją, reikalingą kilusių įtarimų pagrįstumui įvertinti. Prašydama pateikti tokią informaciją, muitinė intelektinės nuosavybės teisių subjektui gali pateikti tik informaciją apie faktinį arba spėjamą prekių kiekį ir jų rūšį.
+4. Jeigu muitinio tikrinimo metu paaiškėja, kad yra pagrindas manyti, jog tikrinamos prekės yra pagamintos pažeidžiant intelektinės nuosavybės teises, be intelektinės nuosavybės teisių subjekto prašymo taikomos Intelektinės nuosavybės apsaugos reglamento 4 straipsnio ir Intelektinės nuosavybės apsaugos reglamentą įgyvendinančio reglamento 5 straipsnio nuostatos. Muitinė, prieš pateikdama intelektinės nuosavybės teisių subjektui pranešimą apie spėjamą jo teisių pažeidimą, Muitinės departamento generalinio direktoriaus nustatyta tvarka gali prašyti intelektinės nuosavybės teisių subjekto pateikti informaciją, reikalingą kilusių įtarimų pagrįstumui įvertinti. Prašydama pateikti tokią informaciją, muitinė intelektinės nuosavybės teisių subjektui gali pateikti tik informaciją apie faktinį arba spėjamą prekių kiekį ir jų rūšį.
+Straipsnio dalies pakeitimai:
+Nr. X-1071, 2007-04-03, Žin., 2007, Nr. 43-1632 (2007-04-19), i. k. 1071010ISTA00X-1071
  
 
 
@@ -3232,7 +3237,10 @@ priedas
 
 
 
-5. 1987 m. liepos 23 d. Tarybos reglamentas (EEB) Nr. 2658/87 dėl tarifų ir statistinės prekių nomenklatūros bei dėl bendrojo muitų tarifo (su paskutiniais pakeitimais, padarytais 2003 m. gruodžio 30 d. Komisijos reglamentu (EB) Nr. 2344/2003) (Įstatyme – Bendrojo muitų tarifo reglamentas).
+5. 1987 m. liepos 23 d. Tarybos reglamentas (EEB) Nr. 2658/87 dėl tarifų ir statistinės nomenklatūros bei dėl Bendrojo muitų tarifo (OL 2004 m. specialusis leidimas, 2 skyrius, 2 tomas, p. 382) (su paskutiniais pakeitimais, padarytais 2006 m. birželio 29 d. Tarybos reglamentu (EB) Nr. 996/2006 (OL 2006 L 179, p. 26) (Įstatyme – Bendrojo muitų tarifo reglamentas). 
+Punkto pakeitimai:
+Nr. X-1071, 2007-04-03, Žin., 2007, Nr. 43-1632 (2007-04-19), i. k. 1071010ISTA00X-1071
+ 
 
 
 
@@ -3247,12 +3255,18 @@ priedas
 
 
 
-8. 1992 m. spalio 12 d. Tarybos reglamentas (EEB) Nr. 2913/92, nustatantis Bendrijos muitinės kodeksą (su paskutiniais pakeitimais, padarytais 2000 m. lapkričio  16 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 2700/2000) (Įstatyme – Bendrijos muitinės kodeksas).
+8. 1992 m. spalio 12 d. Tarybos reglamentas (EEB) Nr. 2913/92, nustatantis Bendrijos muitinės kodeksą (OL 2004 m. specialusis leidimas, 2 skyrius, 4 tomas, p. 307) (su paskutiniais pakeitimais, padarytais 2005 m. balandžio 13 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 648/2005 (OL 2005 L 117, p. 13) (Įstatyme – Bendrijos muitinės kodeksas). 
+Punkto pakeitimai:
+Nr. X-1071, 2007-04-03, Žin., 2007, Nr. 43-1632 (2007-04-19), i. k. 1071010ISTA00X-1071
+ 
 
 
 
 
-9. 1993 m. liepos 2 d. Komisijos reglamentas (EEB) Nr. 2454/93, išdėstantis Tarybos reglamento (EEB) Nr. 2913/92, nustatančio Bendrijos muitinės kodeksą, įgyvendinimo nuostatas (su paskutiniais pakeitimais, padarytais 2003 m. gruodžio 18 d. Komisijos reglamentu (EB) Nr. 2286/2003) (Įstatyme – Bendrijos muitinės kodekso įgyvendinimo nuostatos).
+9. 1993 m. liepos 2 d. Komisijos reglamentas (EEB) Nr. 2454/93, išdėstantis Tarybos reglamento (EEB) Nr. 2913/92, nustatančio Bendrijos muitinės kodeksą, įgyvendinimo nuostatas (OL 2004 m. specialusis leidimas, 2 skyrius, 6 tomas, p. 3) (su paskutiniais pakeitimais, padarytais 2006 m. kovo 8 d. Komisijos reglamentu (EB) Nr. 402/2006 (OL 2006 L 70, p. 35) (Įstatyme – Bendrijos muitinės kodekso įgyvendinimo nuostatos). 
+Punkto pakeitimai:
+Nr. X-1071, 2007-04-03, Žin., 2007, Nr. 43-1632 (2007-04-19), i. k. 1071010ISTA00X-1071
+ 
 
 
 
@@ -3272,6 +3286,14 @@ priedas
 
 
 
+13. 2004 m. spalio 21 d. Komisijos reglamentas (EB) Nr. 1891/2004, nustatantis Tarybos reglamento (EB) Nr. 1383/2003 dėl muitinės priežiūros priemonių, taikomų prekėms, kurios, kaip įtariama, pagamintos pažeidžiant tam tikras intelektinės nuosavybės teises, ir priemonių, kurių turi būti imamasi prekių atžvilgiu nustačius, kad jos pagamintos pažeidžiant tokias teises, įgyvendinimo nuostatas (OL 2004 L 328, p. 16) (Įstatyme – Intelektinės nuosavybės apsaugos reglamentą įgyvendinantis reglamentas). 
+Papildyta punktu:
+Nr. X-1071, 2007-04-03, Žin., 2007, Nr. 43-1632 (2007-04-19), i. k. 1071010ISTA00X-1071
+ 
+
+
+
+
 ______________
 
 
@@ -3283,3 +3305,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-408, 2005-11-17, Žin., 2005, Nr. 142-5108 (2005-12-03), i. k. 1051010ISTA000X-408
 Lietuvos Respublikos muitinės įstatymo 79 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1071, 2007-04-03, Žin., 2007, Nr. 43-1632 (2007-04-19), i. k. 1071010ISTA00X-1071
+Lietuvos Respublikos muitinės įstatymo 80 straipsnio pakeitimo ir priedo pakeitimo ir papildymo įstatymas
