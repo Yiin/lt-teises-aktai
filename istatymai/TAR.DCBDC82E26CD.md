@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DCBDC82E26CD"
 
 # Lietuvos Respublikos gyventojų registro įstatymas
 
-Suvestinė redakcija nuo 2006-06-10 iki 2007-04-18
+Suvestinė redakcija nuo 2007-04-19 iki 2008-07-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 21-0; Žin. 1992, Nr.5-78, i. k. 0921010ISTA00I-2237
  
@@ -82,7 +82,10 @@ Registro steigėja yra Lietuvos Respublikos Vyriausybė.
 
 
 
-3. Registro tvarkymas – duomenų rinkimas, įrašymas, kaupimas, apdorojimas, saugojimas, teikimas.
+3. Registro duomenų tvarkymas – bet kurie su registro duomenimis atliekami veiksmai: duomenų rinkimas, užrašymas, apdorojimas, kaupimas, saugojimas, grupavimas, jungimas, teikimas, paskelbimas, naudojimas, loginės ir (ar) aritmetinės operacijos, duomenų paieška ir kiti veiksmai.
+Straipsnio dalies pakeitimai:
+Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
+ 
 
 
 
@@ -211,7 +214,15 @@ Registre tvarkomi šių asmenų duomenys:
 
 
 
-4) priimti sprendimą dėl pateiktų klaidingų ar melagingų duomenų ištaisymo ar panaikinimo registro nuostatuose nustatyta tvarka.
+4) priimti sprendimą dėl pateiktų klaidingų ar melagingų duomenų ištaisymo ar panaikinimo registro nuostatuose nustatyta tvarka;
+
+
+
+
+5) teikti sujungtus šio įstatymo 9 straipsnyje išvardytus duomenis, nustatant giminystės ir svainystės ryšius, šio įstatymo 9 straipsnio 4 dalyje nurodytiems subjektams.
+Papildyta straipsnio punktu:
+Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
+ 
 
 
 
@@ -377,7 +388,7 @@ Nr. X-623, 2006-05-25, Žin., 2006, Nr. 65-2387 (2006-06-10), i. k. 1061010ISTA0
 
 
 
-15) parašas. 
+15) parašas; 
 Papildyta straipsnio punktu:
 Nr. X-623, 2006-05-25, Žin., 2006, Nr. 65-2387 (2006-06-10), i. k. 1061010ISTA000X-623
  
@@ -385,9 +396,34 @@ Nr. X-623, 2006-05-25, Žin., 2006, Nr. 65-2387 (2006-06-10), i. k. 1061010ISTA0
 
 
 
-2. Duomenys apie asmenis be pilietybės ir kitų valstybių piliečius, neturinčius leidimo nuolat gyventi Lietuvos Respublikoje, nurodyti šio straipsnio 1 dalyje, į registrą įrašomi, jeigu jie pagrįsti Lietuvos Respublikoje galiojančiais dokumentais; šio straipsnio 1 dalies 7-15 punktuose nurodyti duomenys nėra privalomi ir gali būti įrašyti į registrą, jeigu dokumentais yra pagrįsti visi šio straipsnio 1 dalies 1-6 punktuose nurodyti duomenys. 
+16) asmens dokumento duomenys (rūšis, išdavusios valstybės kodas ir pavadinimas, serija ir numeris, išdavimo (keitimo) priežastis, išrašymo data ir data, iki kurios galioja asmens dokumentas, išdavimo data, galiojimo (negaliojimo) būklė, negaliojimo priežastis ir data, ar asmens dokumentas grąžintas, ar negrąžintas); 
+Papildyta straipsnio punktu:
+Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
+ 
+
+
+
+
+17) prašymų gauti asmens dokumentus duomenys (registracijos numeris ir data, prašymą priėmusios įstaigos kodas ir pavadinimas); 
+Papildyta straipsnio punktu:
+Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
+ 
+
+
+
+
+18) civilinės būklės aktų įrašų duomenys (rūšis, įrašo pagrindas, įrašo vieta ir data, numeris, papildymo ar pakeitimo pagrindas, žyma apie liudijimo išdavimą, mirties vietovė, įraše įrašytos pastabos). 
+Papildyta straipsnio punktu:
+Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
+ 
+
+
+
+
+2. Duomenys apie asmenis be pilietybės ir kitų valstybių piliečius, neturinčius leidimo gyventi Lietuvos Respublikoje, nurodyti šio straipsnio 1 dalyje, į registrą įrašomi, jeigu jie pagrįsti Lietuvos Respublikoje galiojančiais dokumentais; šio straipsnio 1 dalies 7–12 punktuose nurodyti duomenys nėra privalomi ir į registrą įrašomi, jeigu dokumentais pagrįsti visi šio straipsnio 1 dalies 1–6 punktuose nurodyti duomenys; šio straipsnio 1 dalies 13–15 punktuose nurodyti duomenys apie asmenis be pilietybės ir kitų valstybių piliečius įrašomi, jeigu jie pagrįsti Lietuvos Respublikoje išduotais dokumentais. 
 Straipsnio dalies pakeitimai:
 Nr. X-623, 2006-05-25, Žin., 2006, Nr. 65-2387 (2006-06-10), i. k. 1061010ISTA000X-623
+Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
  
 
 
@@ -401,7 +437,9 @@ Nr. X-623, 2006-05-25, Žin., 2006, Nr. 65-2387 (2006-06-10), i. k. 1061010ISTA0
 
 
 
-4. Registre tvarkomi dokumentų, kurių pagrindu daromi įrašai registre, duomenys.
+4. Giminystės ir svainystės ryšių duomenys pagal vienkartinį prašymą, nurodžius konkretų asmens duomenų naudojimo tikslą, gali būti teikiami teisėtvarkos subjektams – nustatytoms funkcijoms atlikti; Seimo komisijoms – įstatymų, Seimo nutarimų nustatyta tvarka pavestiems uždaviniams įgyvendinti. Giminystės ryšių duomenys gali būti teikiami Vyriausiajai tarnybinės etikos komisijai – jos tiesioginėms funkcijoms atlikti; notarams – paveldėjimo byloms tvarkyti ir nustatyti, ar nėra įstatymų nustatytų apribojimų sudaryti sandorius su artimaisiais giminaičiais; asmenims, kuriems įstatymų nustatyta teisė spręsti Lietuvos Respublikos pilietybės klausimus, – sprendimams šiais klausimais priimti.
+Straipsnio dalies pakeitimai:
+Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
 Straipsnio dalies numeracijos pakeitimas:
 Nr. X-623, 2006-05-25, Žin., 2006, Nr. 65-2387 (2006-06-10), i. k. 1061010ISTA000X-623
  
@@ -433,7 +471,10 @@ Nr. X-623, 2006-05-25, Žin., 2006, Nr. 65-2387 (2006-06-10), i. k. 1061010ISTA0
 
 
 
-3. Teritorinės registro tvarkymo įstaigos renka asmens duomenis, teikia juos registro duomenų centrinei bazei, šios bazės duomenų pagrindu išduoda pažymėjimus ir teikia duomenis nuostatuose nustatyta tvarka.
+3. Teritorinės registro tvarkymo įstaigos renka asmens duomenis, teikia juos registro duomenų centrinei bazei, šios bazės duomenų pagrindu išduoda dokumentus ir teikia duomenis nuostatuose nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
+ 
 
 
 
@@ -459,7 +500,10 @@ Nr. X-623, 2006-05-25, Žin., 2006, Nr. 65-2387 (2006-06-10), i. k. 1061010ISTA0
 
 
 
-2. Lietuvos Respublikos valstybės valdžios ir valdymo institucijos, vietos savivaldos institucijos ir valstybės registrus ar informacines sistemas tvarkančios institucijos, savo funkcijoms atlikti naudojančios šio įstatymo 9 straipsnyje išvardytus asmens duomenis, privalo juos atnaujinti pagal registro duomenis.
+2. Valstybės registrus ar informacines sistemas tvarkančios institucijos, kitos Lietuvos Respublikos valstybės ir savivaldybių institucijos ir įstaigos, savo funkcijoms atlikti naudojančios šio įstatymo 9 straipsnyje išvardytus asmens duomenis, privalo juos atnaujinti pagal registro duomenis. 
+Straipsnio dalies pakeitimai:
+Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
+ 
 
 
 
@@ -477,7 +521,9 @@ Nr. X-623, 2006-05-25, Žin., 2006, Nr. 65-2387 (2006-06-10), i. k. 1061010ISTA0
 
 
 
-5. Registrą tvarkančių įstaigų teikiami pažymėjimai su asmens duomenimis turi juridinę galią.
+5. Registrą tvarkančių įstaigų teikiami dokumentai su asmens duomenimis turi juridinę galią.
+Straipsnio dalies pakeitimai:
+Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
  
 
 
@@ -496,7 +542,10 @@ Nr. X-623, 2006-05-25, Žin., 2006, Nr. 65-2387 (2006-06-10), i. k. 1061010ISTA0
 2. Asmuo, kurio duomenys įrašyti registre, pateikęs asmens dokumentą registro nuostatų nustatyta tvarka, turi teisę:
 
 
-1) susipažinti ir gauti pažymėjimą su savo, savo nepilnamečių vaikų ir įvaikių, taip pat asmenų, kuriems paskirta globa ar rūpyba, duomenimis;
+1) susipažinti ir gauti dokumentą su savo, savo nepilnamečių vaikų ir įvaikių, taip pat asmenų, kuriems paskirta globa ar rūpyba, duomenimis; 
+Straipsnio punkto pakeitimai:
+Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
+ 
 
 
 
@@ -653,3 +702,8 @@ Lietuvos Respublikos gyventojų registro įstatymo 9 straipsnio papildymo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-623, 2006-05-25, Žin., 2006, Nr. 65-2387 (2006-06-10), i. k. 1061010ISTA000X-623
 Lietuvos Respublikos gyventojų registro įstatymo 4, 9, 11 straipsnių pakeitimo ir papildymo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
+Lietuvos Respublikos gyventojų registro įstatymo 4, 7, 9, 10, 11, 12 straipsnių pakeitimo ir papildymo įstatymas
