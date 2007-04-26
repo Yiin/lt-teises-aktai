@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2006-06-10 iki 2007-04-25
+Suvestinė redakcija nuo 2007-04-26 iki 2008-02-13
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
  
@@ -241,7 +241,10 @@ Nr. IX-2000, 2004-02-05, Žin., 2004, Nr. 28-871 (2004-02-21), i. k. 1041010ISTA
 
 
 
-7) uždaroji akcinė bendrovė Šiaulių oro uostas;
+7. Neteko galios nuo 2007-04-26
+Straipsnio punkto naikinimas:
+Nr. X-1079, 2007-04-05, Žin. 2007, Nr. 46-1714 (2007-04-26), i. k. 1071010ISTA00X-1079
+ 
 
 
 
@@ -278,12 +281,18 @@ Nr. IX-2000, 2004-02-05, Žin., 2004, Nr. 28-871 (2004-02-21), i. k. 1041010ISTA
 
 
 
-6. Likviduojant (taip pat dėl bankroto) šio straipsnio 1 dalyje nurodytas įmones, išskyrus šio straipsnio 1 dalies 7 punkte nurodytą įmonę, joms priklausantis nekilnojamasis ir įkeistas turtas, taip pat šio straipsnio 2 dalyje nurodytas turtas gali būti parduodamas ar kitaip perleidžiamas tik Lietuvos Respublikos valstybės institucijoms, valstybės įmonėms arba įmonėms, kurių kapitalo dalį sudaro privatus nacionalinis bei europinės ir transatlantinės integracijos kriterijus atitinkantis kapitalas, tačiau valstybei ar savivaldybei priklauso daugiau kaip 1/2 balsų suteikiančių šių įmonių akcijų.
+6. Likviduojant (taip pat dėl bankroto) šio straipsnio 1 dalyje nurodytas įmones, joms priklausantis nekilnojamasis ir įkeistas turtas, taip pat šio straipsnio 2 dalyje nurodytas turtas gali būti parduodamas ar kitaip perleidžiamas tik Lietuvos Respublikos valstybės institucijoms, valstybės įmonėms arba įmonėms, kurių kapitalo dalį sudaro privatus nacionalinis bei europinės ir transatlantinės integracijos kriterijus atitinkantis kapitalas, tačiau valstybei ar savivaldybei priklauso daugiau kaip 1/2 balsų suteikiančių šių įmonių akcijų. 
+Straipsnio dalies pakeitimai:
+Nr. X-1079, 2007-04-05, Žin., 2007, Nr. 46-1714 (2007-04-26), i. k. 1071010ISTA00X-1079
+ 
 
 
 
 
-7. Likviduojant (taip pat dėl bankroto) šio straipsnio 1 dalies 7 punkte nurodytą įmonę, jai priklausantis nekilnojamasis ir įkeistas turtas parduodamas ar kitaip perleidžiamas tik Lietuvos Respublikos valstybės institucijoms ar valstybės įmonėms. 
+7. Neteko galios nuo 2007-04-26
+Straipsnio dalies naikinimas:
+Nr. X-1079, 2007-04-05, Žin. 2007, Nr. 46-1714 (2007-04-26), i. k. 1071010ISTA00X-1079
+ 
 
 
 Papildyta citata:
@@ -406,3 +415,8 @@ Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įm
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-621, 2006-05-25, Žin., 2006, Nr. 65-2385 (2006-06-10), i. k. 1061010ISTA000X-621
 Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo 2 straipsnio 1 dalies 1 punkto pripažinimo netekusiu galios įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1079, 2007-04-05, Žin., 2007, Nr. 46-1714 (2007-04-26), i. k. 1071010ISTA00X-1079
+Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo 3 straipsnio pakeitimo įstatymas
