@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DFEFEA5312DD"
 
 # Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto patvirtinimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2005-12-08 iki 2007-04-25
+Suvestinė redakcija nuo 2007-04-26 iki 2009-07-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3348, i. k. 1031010ISTA0IX-1669
  
@@ -158,7 +158,10 @@ Nr. X-420, 2005-11-22, Žin., 2005, Nr. 143-5182 (2005-12-08), i. k. 1051010ISTA
 
 7 straipsnis. Su civiline krašto apsaugos tarnyba nesuderinama veikla
 
-Su civiline krašto apsaugos tarnyba nesuderinamos veiklos atvejus nustato Valstybės tarnybos įstatymo 17 straipsnis ir Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 73 straipsnio 6 dalis.
+Su civiline krašto apsaugos tarnyba nesuderinamos veiklos atvejus nustato Valstybės tarnybos įstatymo 17 straipsnis ir Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 73 straipsnio 6 dalis su 7 dalyje nurodyta išimtimi. 
+
+Straipsnio pakeitimai:
+Nr. X-1085, 2007-04-12, Žin., 2007, Nr. 46-1719 (2007-04-26), i. k. 1071010ISTA00X-1085
  
 
 8 straipsnis. Kvalifikacinių kategorijų suteikimas statutiniams tarnautojams
@@ -443,4 +446,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-420, 2005-11-22, Žin., 2005, Nr. 143-5182 (2005-12-08), i. k. 1051010ISTA000X-420
 Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 5 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1085, 2007-04-12, Žin., 2007, Nr. 46-1719 (2007-04-26), i. k. 1071010ISTA00X-1085
+Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 7 straipsnio pakeitimo įstatymas
 
