@@ -74,8 +74,8 @@ teisę atlikti notarinius veiksmus turintys asmenys;
 7) advokatai ir
 advokatų padėjėjai, kai veikia kliento vardu ar jam atstovauja finansiniuose
 arba nekilnojamųjų daiktų sandoriuose arba teikia pagalbą planuojant ar
-sudarant savo klientų sandorius, susijusius su nekilnojamųjų daiktų, įmonių arba
-teisių pirkimu ar pardavimu, kliento pinigų, vertybinių popierių arba kito
+sudarant savo klientų sandorius, susijusius su nekilnojamųjų daiktų, įmonių
+arba teisių pirkimu ar pardavimu, kliento pinigų, vertybinių popierių arba kito
 turto valdymu, banko, taupomųjų arba vertybinių popierių sąskaitų atidarymu ir
 tvarkymu, įmonių steigimu, jų veiklos organizavimu, valdymu, steigimo įnašų
 tvarkymu;
@@ -113,10 +113,10 @@ pakeitimas arba turto perdavimas, žinant, kad šis turtas yra įgytas
 nusikalstamu būdu, siekiant nuslėpti arba užmaskuoti neteisėtą turto kilmę arba
 siekiant padėti bet kokiam nusikalstamoje veikoje dalyvaujančiam asmeniui
 išvengti teisinių šios veikos pasekmių;
-2) turto tikrosios kilmės, šaltinio,
-vietos, judėjimo, nuosavybės teisių arba su nuosavybe susijusių teisių
-nuslėpimas arba užmaskavimas, žinant, kad šis turtas yra įgytas nusikalstamu
-būdu;
+2) turto tikrosios kilmės,
+šaltinio, vietos, judėjimo, nuosavybės teisių arba su nuosavybe susijusių
+teisių nuslėpimas arba užmaskavimas, žinant, kad šis turtas yra įgytas
+nusikalstamu būdu;
 3) turto
 įgijimas, valdymas ar naudojimas, įgijimo (perdavimo) metu žinant, kad šis
 turtas įgytas nusikalstamu būdu;
@@ -147,9 +147,9 @@ tarnyba), Lietuvos Respublikos valstybės saugumo departamentas (toliau –
 Valstybės saugumo departamentas), Lietuvos bankas, Muitinės departamentas prie
 Lietuvos Respublikos finansų ministerijos, Lietuvos Respublikos draudimo
 priežiūros komisija, Lietuvos Respublikos vertybinių popierių komisija,
-Valstybinė lošimų priežiūros komisija ir Lietuvos advokatų taryba yra institucijos,
-kurios pagal kompetenciją atsakingos už šiame Įstatyme numatytą pinigų plovimo
-prevenciją.
+Valstybinė lošimų priežiūros komisija ir Lietuvos advokatų taryba yra
+institucijos, kurios pagal kompetenciją atsakingos už šiame Įstatyme numatytą
+pinigų plovimo prevenciją.
  
 4
 straipsnis. Už pinigų plovimo prevenciją atsakingų institucijų pareigos 
@@ -199,8 +199,7 @@ pasiūlymus institucijoms dėl pinigų plovimo prevencijos sistemos tobulinimo;
 Vyriausybės nustatyta tvarka teikia teisėsaugos ir kitoms valstybės
 institucijoms informaciją apie kliento operacijas su pinigais; 
 4)
-atlieka ikiteisminį tyrimą dėl nusikalstamu būdu įgytų pinigų ar turto
-legalizavimo;
+atlieka ikiteisminį tyrimą dėl nusikalstamu būdu įgytų pinigų ar turto legalizavimo;
 5)
 bendradarbiauja su užsienio valstybių institucijomis, tarptautinėmis
 organizacijomis, įgyvendinančiomis pinigų plovimo prevencijos priemones;
@@ -249,9 +248,9 @@ susijusius su pinigų plovimo prevencijos priemonių įgyvendinimu. Vadovai
 privalo išnagrinėti Finansinių nusikaltimų tyrimo tarnybos nurodymus ir ne
 vėliau kaip per 7 darbo dienas po nurodymo gavimo pranešti Finansinių
 nusikaltimų tyrimo tarnybai apie priimtas priemones;
-5) nurodyti finansų įstaigoms ir kitiems
-subjektams, išskyrus advokatus ar advokatų padėjėjus, iki 48 valandų sustabdyti
-atliekamas įtartinas operacijas su pinigais.
+5) nurodyti finansų įstaigoms ir
+kitiems subjektams, išskyrus advokatus ar advokatų padėjėjus, iki 48 valandų
+sustabdyti atliekamas įtartinas operacijas su pinigais.
 2. Finansinių
 nusikaltimų tyrimo tarnybos pareigūnų, atliekančių ikiteisminį tyrimą dėl
 nusikalstamu būdu įgytų pinigų ar turto legalizavimo, teises reglamentuoja
@@ -316,10 +315,10 @@ dėl teismo proceso inicijavimo arba išvengimo, nesvarbu, ar ši informacija
 gaunama prieš teismo procesą, jo metu ar po jo, neprivalo laikytis šio
 straipsnio 5 dalyje nustatytų reikalavimų. 
 8. Kai operacija
-su pinigais arba sandoris gali būti susiję su terorizmo finansavimu, šiame straipsnyje
-nurodytus duomenis ne vėliau kaip per 24 valandas nuo šių duomenų apie
-operaciją arba sandorį gavimo Finansinių nusikaltimų tyrimo tarnyba Vyriausybės
-nustatyta tvarka praneša Valstybės saugumo departamentui.
+su pinigais arba sandoris gali būti susiję su terorizmo finansavimu, šiame
+straipsnyje nurodytus duomenis ne vėliau kaip per 24 valandas nuo šių duomenų
+apie operaciją arba sandorį gavimo Finansinių nusikaltimų tyrimo tarnyba
+Vyriausybės nustatyta tvarka praneša Valstybės saugumo departamentui.
 9. Kriterijus,
 kuriais vadovaujantis operacija su pinigais ar sandoris laikomi įtartinais,
 nustato Vyriausybė.
@@ -413,10 +412,10 @@ tyrimo tarnybai, jeigu kliento vienkartinės operacijos su pinigais arba kelių
 tarpusavyje susijusių operacijų suma viršija 50 000 litų arba ją atitinkančią
 sumą užsienio valiuta. Finansinių nusikaltimų tyrimo tarnybai pateikiamoje
 informacijoje nurodomi kliento tapatybę patvirtinantys duomenys, o jeigu
-operacija su pinigais atliekama per atstovą, – ir atstovo tapatybę
-patvirtinantys duomenys, operacijos su pinigais suma, valiuta, kuria atlikta
-operacija su pinigais, operacijos su pinigais atlikimo data, operacijos su
-pinigais atlikimo būdas, subjektas, kurio naudai atlikta operacija su pinigais.
+operacija su pinigais atliekama per atstovą, – ir atstovo tapatybę patvirtinantys
+duomenys, operacijos su pinigais suma, valiuta, kuria atlikta operacija su
+pinigais, operacijos su pinigais atlikimo data, operacijos su pinigais atlikimo
+būdas, subjektas, kurio naudai atlikta operacija su pinigais.
 2.
 Kredito įstaigos praneša Finansinių nusikaltimų tyrimo tarnybai kliento
 tapatybę patvirtinančius duomenis ir informaciją apie vienkartinį grynųjų
@@ -480,6 +479,8 @@ gaminiais;
 veikla.
  
 14
+straipsnio redakcija iki 2007 m. birželio 15 d.:
+14
 straipsnis. Muitinės įstaigų veikla
 1. Muitinės
 įstaigos atlieka į Lietuvos Respubliką iš trečiųjų šalių, kaip jos apibrėžtos
@@ -497,6 +498,29 @@ Finansinių nusikaltimų tyrimo tarnybai, jeigu asmuo įveža iš trečiųjų š
 Lietuvos Respubliką ar išveža iš Lietuvos Respublikos į trečiąsias šalis
 grynųjų pinigų vienkartinę sumą, viršijančią 50 000 litų ar ją atitinkančią
 sumą užsienio valiuta.
+14
+straipsnio redakcija nuo 2007 m. birželio 15 d.:
+14
+straipsnis. Muitinės įstaigų veikla
+1.
+Muitinės įstaigos atlieka į Europos Bendriją per Lietuvos Respubliką iš
+trečiųjų šalių, kaip jos apibrėžtos Lietuvos Respublikos muitinės įstatyme
+(toliau – trečiosios šalys), įvežamų ir iš Europos Bendrijos per Lietuvos
+Respubliką į trečiąsias šalis išvežamų grynųjų pinigų sumų kontrolę
+vadovaudamosi 2005 m. spalio 26 d. Europos Parlamento ir Tarybos reglamento
+(EB) Nr. 1889/2005 nuostatomis.
+2.
+Šio straipsnio 1 dalyje nurodytame reglamente nustatytais atvejais, kai Europos
+Sąjungos valstybėms narėms suteikta sprendimo priėmimo teisė, sprendimus priima
+ir atitinkamų reglamento nuostatų taikymo Lietuvos Respublikoje tvarką nustato
+Vyriausybė arba jos įgaliota institucija, išskyrus atvejus, kai šis arba kiti
+įstatymai nustato kitaip.
+3.
+Muitinės įstaigos privalo nedelsdamos, ne vėliau kaip per 7 darbo dienas,
+pranešti Finansinių nusikaltimų tyrimo tarnybai, jeigu asmuo įveža iš trečiųjų
+šalių į Europos Bendriją per Lietuvos Respubliką ar išveža iš Europos Bendrijos
+per Lietuvos Respubliką į trečiąsias šalis grynųjų pinigų vienkartinę sumą, kurios
+vertė yra ne mažesnė kaip nurodyta 2005 m. spalio 26 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1889/2005 3 straipsnio 1 dalyje.
 Straipsnio pakeitimai:
 Nr.
 IX-2189,
@@ -564,8 +588,8 @@ asmenys, pažeidę šio Įstatymo reikalavimus, atsako įstatymų nustatyta tvar
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą.
  
-RESPUBLIKOS PREZIDENTAS                                 
-ALGIRDAS
+RESPUBLIKOS
+PREZIDENTAS                                  ALGIRDAS
 BRAZAUSKAS
 Lietuvos Respublikos
 2003
@@ -575,14 +599,24 @@ lapkričio 25 d.
 Nr. IX-1842
 priedas
  
-Įgyvendinami
-Europos Sąjungos teisės aktai
+ĮGYVENDINAMI
+EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 1. 1991 m. birželio 10 d. Tarybos direktyva 91/308/EEB dėl finansų sistemos apsaugos nuo jos panaudojimo
 pinigų plovimui.
 2. 2001 m. gruodžio 4 d. Europos Parlamento ir Tarybos direktyva 2001/97/EB, iš dalies pakeičianti
 Tarybos direktyvą 91/308/EEB dėl finansų sistemos apsaugos nuo jos panaudojimo
 pinigų plovimui.
+ 
+Priedas
+papildomas 3 punktu nuo 2007 m. birželio 15 d.:
+3. 2005 m. spalio 26 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1889/2005 dėl grynųjų pinigų,
+įvežamų į Bendriją ar išvežamų iš jos, kontrolės (OL 2005 L 309, p. 9).
+Priedo
+pakeitimas:
+Nr. X-1107,
+2007-05-03, Žin., 2007, Nr. 55-2123 (2007-05-19)
+ 
 __________________
  
 Pakeitimai:
@@ -679,13 +713,25 @@ IX-2189,
 PINIGŲ
 PLOVIMO PREVENCIJOS ĮSTATYMO 14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
-Įstatymas Įsigalioja nuo 2004 m. gegužės 1 d.
+Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
+ 
+10.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-1107,
+2007-05-03, Žin., 2007, Nr. 55-2123 (2007-05-19)
+PINIGŲ
+PLOVIMO PREVENCIJOS ĮSTATYMO 14 STRAIPSNIO PAKEITIMO IR ĮSTATYMO PRIEDO
+PAPILDYMO ĮSTATYMAS
+Šis
+įstatymas, išskyrus 4 straipsnį, įsigalioja nuo 2007 m. birželio 15 d.
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2004-05-10)
+Aušrinė Trapinskienė (2007-05-21)
                  
 autrap@lrs.lt
