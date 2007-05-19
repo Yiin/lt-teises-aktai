@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.07786E0929A8"
 
 # Lietuvos Respublikos patentų įstatymas
 
-Suvestinė redakcija nuo 2006-06-28 iki 2007-05-18
+Suvestinė redakcija nuo 2007-05-19 iki 2012-02-02
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 8-120, i. k. 0941010ISTA000I-372
  
@@ -2208,15 +2208,17 @@ Europos patento paraiška, kuriai suteikta padavimo data ir kurioje nurodyta Lie
 
 
 
-Paskelbtai Europos patento paraiškai suteikiama tokia pat laikina teisinė apsauga kaip ir nacionalinei patento paraiškai pagal šio įstatymo 21 straipsnio trečiąją dalį. Laikina teisinė apsauga suteikiama nuo tos dienos, kurią paskelbtos Europos patento paraiškos apibrėžties vertimas buvo paskelbtas Valstybinio patentų biuro oficialiame biuletenyje. 
+Paskelbtai Europos patento paraiškai suteikiama tokia pat laikina teisinė apsauga kaip ir nacionalinei patento paraiškai pagal šio įstatymo 21 straipsnio trečiąją dalį. Laikina teisinė apsauga suteikiama nuo tos dienos, kurią paskelbtos Europos patento paraiškos apibrėžties vertimas buvo paskelbtas Valstybinio patentų biuro oficialiame biuletenyje. Už Europos patento paraiškos išradimo apibrėžties vertimo paskelbimą mokamas nustatyto dydžio mokestis.
 
 
 
 
-Laikoma, kad Europos patento paraiškai nebuvo suteikta laikina teisinė apsauga pagal šio straipsnio antrąją dalį, jeigu Lietuvos Respublikos nurodymas vėliau buvo atšauktas arba laikomas atšauktu.
+Laikoma, kad Europos patento paraiškai nebuvo suteikta laikina teisinė apsauga pagal šio straipsnio antrąją dalį, jeigu Lietuvos Respublikos nurodymas vėliau buvo atšauktas arba laikomas atšauktu. 
+
+
+Straipsnio pakeitimai:
+Nr. X-1119, 2007-05-10, Žin., 2007, Nr. 55-2129 (2007-05-19), i. k. 1071010ISTA00X-1119
  
-
-
 
 
 
@@ -2396,37 +2398,38 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
-Lietuvos Respublikos 
-patentų įstatymo 
+Lietuvos Respublikos patentų įstatymo
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 1992 m. birželio 18 d. Tarybos reglamentas (EEB) Nr. 1768/92 dėl medicinos produktų papildomos apsaugos liudijimo sukūrimo.
+1. 1992 m. birželio 18 d. Tarybos reglamentas (EEB) Nr. 1768/92 dėl medicinos produktų papildomos apsaugos liudijimo sukūrimo (OL 2004 m. specialusis leidimas, 13 skyrius, 11 tomas, p. 200).
 
 
 
 
-2. 1996 m. liepos 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1610/96 dėl augalų apsaugos priemonių papildomos apsaugos liudijimo sukūrimo.
+2. 1996 m. liepos 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1610/96 dėl augalų apsaugos priemonių papildomos apsaugos liudijimo sukūrimo (OL 2004 m. specialusis leidimas, 3 skyrius, 19 tomas, p. 335).
 
 
 
 
-3. 1998 m. liepos 6 d. Europos Parlamento ir Tarybos direktyva 98/44/EB dėl teisinės biotechnologinių išradimų apsaugos. 
+3. 1998 m. liepos 6 d. Europos Parlamento ir Tarybos direktyva 98/44/EB dėl teisinės biotechnologinių išradimų apsaugos (OL 2004 m. specialusis leidimas, 13 skyrius, 20 tomas, p. 395).
 
 
 
 
-4. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/48/EB dėl intelektinės nuosavybės teisių gynimo. 
-Papildyta punktu:
-Nr. X-649, 2006-06-08, Žin., 2006, Nr. 72-2668 (2006-06-28), i. k. 1061010ISTA000X-649
- 
+4. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/48/EB dėl intelektinės nuosavybės teisių gynimo (OL 2004 m. specialusis leidimas, 17 skyrius, 2 tomas, p. 32).
 
 
-Papildyta priedu:
-Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
+
+
+5. 2006 m. gegužės 17 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 816/2006 dėl patentų, susijusių su farmacijos produktų, eksportuojamų į šalis, turinčias problemų visuomenės sveikatos srityje, gamyba, priverstinio licencijavimo (OL 2006 L 157, p. 1).
+
+
+Priedo pakeitimai:
+Nr. X-1119, 2007-05-10, Žin., 2007, Nr. 55-2129 (2007-05-19), i. k. 1071010ISTA00X-1119
  
  
  
@@ -2471,3 +2474,8 @@ Lietuvos Respublikos patentų įstatymo preambulės, 2, 4, 10, 11, 13, 19, 21, 2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-649, 2006-06-08, Žin., 2006, Nr. 72-2668 (2006-06-28), i. k. 1061010ISTA000X-649
 Lietuvos Respublikos patentų įstatymo VII skirsnio pakeitimo bei papildymo ir Įstatymo priedo papildymo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1119, 2007-05-10, Žin., 2007, Nr. 55-2129 (2007-05-19), i. k. 1071010ISTA00X-1119
+Lietuvos Respublikos patentų įstatymo papildymo 38(1) straipsniu, 59(2) straipsnio pakeitimo ir priedo papildymo įstatymas
