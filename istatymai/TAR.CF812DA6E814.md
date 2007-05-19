@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CF812DA6E814"
 
 # Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatymas
 
+Suvestinė redakcija nuo 2007-05-19 iki 2008-06-20
+ 
+Įstatymas paskelbtas: Žin. 2004, Nr. 135-4894, i. k. 1041010ISTA0IX-2428
+ 
+ 
 LIETUVOS RESPUBLIKOS
 POLITINIŲ PARTIJŲ IR POLITINIŲ KAMPANIJŲ FINANSAVIMO BEI FINANSAVIMO KONTROLĖS
 Į S T A T Y M A S
@@ -362,7 +367,10 @@ Politinės partijos turi teisę verstis leidybos, spaudos ir atributikos platini
 
 6) kitoms šiame įstatyme nustatytoms išlaidoms apmokėti.
 
-6. Politinės kampanijos finansavimo išlaidomis taip pat pripažįstamos išlaidos, skirtos šio straipsnio 5 dalyje nurodytai paskirčiai, patirtos ne politinės kampanijos laikotarpiu, jeigu toje dalyje nurodyti daiktai ir kitas turtas skirti naudoti ar jeigu paslaugos gautos politinės kampanijos laikotarpiu. Šiuo atveju politinės kampanijos dalyviai privalo apie tai pranešti Vyriausiajai rinkimų komisijai, o ši turėtas išlaidas įvertina Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+6. Politinės kampanijos finansavimo išlaidomis taip pat pripažįstamos išlaidos, skirtos šio straipsnio 5 dalyje nurodytai paskirčiai, patirtos ne politinės kampanijos laikotarpiu, jeigu toje dalyje nurodyti daiktai ir kitas turtas skirti naudoti ar jeigu paslaugos gautos politinės kampanijos laikotarpiu. Šiuo atveju politinės kampanijos dalyviai privalo apie tai pranešti Vyriausiajai rinkimų komisijai, kartu pateikdami išlaidas pateisinančių dokumentų kopijas. Prireikus Vyriausioji rinkimų komisija gali pareikalauti papildomos informacijos.
+Straipsnio dalies pakeitimai:
+Nr. X-1114, 2007-05-10, Žin., 2007, Nr. 55-2128 (2007-05-19), i. k. 1071010ISTA00X-1114
+ 
 
 7. Kiekvieno politinės kampanijos dalyvio šio straipsnio 5 ir 6 dalyse nurodytų išlaidų dydis negali viršyti šio straipsnio 3 ar 4 dalyse nustatytų maksimalių išlaidų dydžių.
 
@@ -654,4 +662,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1114, 2007-05-10, Žin., 2007, Nr. 55-2128 (2007-05-19), i. k. 1071010ISTA00X-1114
+Lietuvos Respublikos politinių partijų ir politinių kampanijų finansavimo bei finansavimo kontrolės įstatymo 16 straipsnio pakeitimo įstatymas
 
