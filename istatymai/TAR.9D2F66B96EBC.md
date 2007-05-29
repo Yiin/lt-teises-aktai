@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2005-12-03 iki 2007-05-28
+Suvestinė redakcija nuo 2007-05-29 iki 2008-06-02
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
  
@@ -151,9 +151,10 @@ Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA
 
 
 
-15. Meteorologinė informacija – meteorologinis pranešimas, analizė, prognozė ir visi kiti pranešimai apie esamas ir numatomas meteorologines sąlygas.
+15. Meteorologijos paslaugos – paslaugos ir įrenginiai, kuriais orlaiviui teikiamos meteorologinės prognozės, instrukcijos ir apžvalgos, taip pat kita meteorologinė informacija ir duomenys, kuriuos valstybė teikia oro navigacijos tikslais. 
 Straipsnio dalies pakeitimai:
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
 Straipsnio dalies numeracijos pakeitimas:
 Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
  
@@ -242,139 +243,162 @@ Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA
 
 
 
-24. Oro susisiekimas – keleivių, krovinių, bagažo ir (arba) pašto vežimas už užmokestį arba užsakymo pagrindu.
-Straipsnio dalies pakeitimai:
-Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
-Straipsnio dalies numeracijos pakeitimas:
-Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+24. Oro navigacijos paslaugos – oro eismo paslaugos, ryšių, navigacijos ir stebėjimo paslaugos, meteorologijos paslaugos oro navigacijai, oro navigacijos informacijos paslaugos. 
+Papildyta straipsnio dalimi:
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
  
 
 
 
 
-25. Oro uostas, kurio darbas palengvinamas sudarant tvarkaraščius – oro uostas, kuris tam tikru dienos, savaitės ar metų laiku gali būti perpildytas, veikiantis savanoriškai bendradarbiaujant oro vežėjams ir dėl to jame, oro vežėjų darbui palengvinti, yra paskirtas tvarkaraščių sudarytojas.
+25. Oro susisiekimas – keleivių, krovinių, bagažo ir (arba) pašto vežimas už užmokestį arba užsakymo pagrindu.
+Straipsnio dalies pakeitimai:
+Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
+ 
+
+
+
+
+26. Oro uostas, kurio darbas palengvinamas sudarant tvarkaraščius – oro uostas, kuris tam tikru dienos, savaitės ar metų laiku gali būti perpildytas, veikiantis savanoriškai bendradarbiaujant oro vežėjams ir dėl to jame, oro vežėjų darbui palengvinti, yra paskirtas tvarkaraščių sudarytojas.
 Papildyta straipsnio dalimi:
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 Straipsnio dalies numeracijos pakeitimas:
 Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
  
 
 
 
 
-26. Oro uosto infrastruktūra – transporto infrastruktūros dalis, kurią sudaro žemės sklypas, aerodromas, specifinės paskirties statiniai ir įrenginiai.
+27. Oro uosto infrastruktūra – transporto infrastruktūros dalis, kurią sudaro žemės sklypas, aerodromas, specifinės paskirties statiniai ir įrenginiai.
 Straipsnio dalies pakeitimai:
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 Straipsnio dalies numeracijos pakeitimas:
 Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
  
 
 
 
 
-27. Pripažinimo pažymėjimas – specialisto licencijos priedas, patvirtinantis užsienyje išduotos specialisto licencijos eksploatuoti ir techniškai prižiūrėti orlaivį, registruotą Lietuvos Respublikos civilinių orlaivių registre, galiojimą.
+28. Pripažinimo pažymėjimas – specialisto licencijos priedas, patvirtinantis užsienyje išduotos specialisto licencijos eksploatuoti ir techniškai prižiūrėti orlaivį, registruotą Lietuvos Respublikos civilinių orlaivių registre, galiojimą.
 Straipsnio dalies pakeitimai:
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 Straipsnio dalies numeracijos pakeitimas:
 Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
  
 
 
 
 
-28. Skrydžio įgula – asmenys, kuriems nustatyta tvarka suteikta teisė eksploatuoti orlaivį.
+29. Skrydžio įgula – asmenys, kuriems nustatyta tvarka suteikta teisė eksploatuoti orlaivį.
 Straipsnio dalies pakeitimai:
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 Straipsnio dalies numeracijos pakeitimas:
 Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
  
 
 
 
 
-29. Skrydžio įgulos narys – specialisto licenciją turintis įgulos narys, atsakantis už orlaivio eksploatavimą skrydžio laiku.
+30. Skrydžio įgulos narys – specialisto licenciją turintis įgulos narys, atsakantis už orlaivio eksploatavimą skrydžio laiku.
 Straipsnio dalies pakeitimai:
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 Straipsnio dalies numeracijos pakeitimas:
 Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
  
 
 
 
 
-30. Skrydžio laikas – bendras laikas nuo to momento, kai orlaivis pajuda, ketindamas kilti, iki galutinio sustojimo pasibaigus skrydžiui.
+31. Skrydžio laikas – bendras laikas nuo to momento, kai orlaivis pajuda, ketindamas kilti, iki galutinio sustojimo pasibaigus skrydžiui.
 Straipsnio dalies pakeitimai:
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 Straipsnio dalies numeracijos pakeitimas:
 Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
  
 
 
 
 
-31. Specialieji aviacijos darbai – orlaivio naudojimas už užmokestį specializuotoms paslaugoms teikti žemės ūkyje, statybose, fotodarbams – fotografijai ir topografijai, taip pat stebėjimo ir patruliavimo bei paieškos ir gelbėjimo darbams, oro reklamai ir kita.
+32. Specialieji aviacijos darbai – orlaivio naudojimas už užmokestį specializuotoms paslaugoms teikti žemės ūkyje, statybose, fotodarbams – fotografijai ir topografijai, taip pat stebėjimo ir patruliavimo bei paieškos ir gelbėjimo darbams, oro reklamai ir kita.
 Straipsnio dalies pakeitimai:
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 Straipsnio dalies numeracijos pakeitimas:
 Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
  
 
 
 
 
-32. Tarptautinio oro uosto žemė – Lietuvos Respublikos Vyriausybės nustatytų ribų žemės plotas, skirtas tarptautinio oro uosto reikmėms. 
+33. Tarptautinio oro uosto žemė – Lietuvos Respublikos Vyriausybės nustatytų ribų žemės plotas, skirtas tarptautinio oro uosto reikmėms. 
 Papildyta straipsnio dalimi:
 Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
  
 
 
 
 
-33. Tarptautinis oro uostas – oro uostas, į kurį atskrenda ir iš kurio išskrenda tarptautinius skrydžius atliekantys orlaiviai, kuriame taip pat atliekamos pasienio, muitinės, medicininio karantino, higieninės kontrolės ir kitos procedūros.
+34. Tarptautinis oro uostas – oro uostas, į kurį atskrenda ir iš kurio išskrenda tarptautinius skrydžius atliekantys orlaiviai, kuriame taip pat atliekamos pasienio, muitinės, medicininio karantino, higieninės kontrolės ir kitos procedūros.
 Straipsnio dalies pakeitimai:
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 Straipsnio dalies numeracijos pakeitimas:
 Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
  
 
 
 
 
-34. Valdomoji oro erdvė – nustatyto dydžio oro erdvė, kurioje teikiamos skrydžių valdymo paslaugos skrydžiams pagal vizualiųjų skrydžių taisykles ir skrydžių pagal prietaisus taisykles, atsižvelgiant į oro erdvės klasifikaciją.
+35. Valdomoji oro erdvė – nustatyto dydžio oro erdvė, kurioje teikiamos skrydžių valdymo paslaugos skrydžiams pagal vizualiųjų skrydžių taisykles ir skrydžių pagal prietaisus taisykles, atsižvelgiant į oro erdvės klasifikaciją.
 Straipsnio dalies pakeitimai:
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 Straipsnio dalies numeracijos pakeitimas:
 Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
  
 
 
 
 
-35. Valstybės orlaivis – krašto apsaugos, muitinės ir vidaus reikalų tarnybų naudojamas orlaivis.
+36. Valstybės orlaivis – krašto apsaugos, muitinės ir vidaus reikalų tarnybų naudojamas orlaivis.
 Straipsnio dalies pakeitimai:
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 Straipsnio dalies numeracijos pakeitimas:
 Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
  
 
 
 
 
-36. Vežėjas – įmonė, turinti galiojantį vežėjo pažymėjimą.
+37. Vežėjas – įmonė, turinti galiojantį vežėjo pažymėjimą.
 Straipsnio dalies pakeitimai:
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 Straipsnio dalies numeracijos pakeitimas:
 Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
  
 
 
 
 
-37. Vežėjo pažymėjimas – dokumentas, patvirtinantis, kad vežėjas turi profesinių ir organizacinių pajėgumų saugiai verstis vežėjo pažymėjime nurodyta veikla. 
+38. Vežėjo pažymėjimas – dokumentas, patvirtinantis, kad vežėjas turi profesinių ir organizacinių pajėgumų saugiai verstis vežėjo pažymėjime nurodyta veikla. 
 Straipsnio dalies pakeitimai:
 Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
 Straipsnio dalies numeracijos pakeitimas:
 Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
  
 
 
@@ -429,10 +453,12 @@ Civilinę aviaciją reglamentuojantys Lietuvos Respublikos teisės aktai turi at
 5 straipsnis. Aviacijos valstybinis valdymas
 
 
-Aviacijos valstybinį valdymą pagal savo kompetenciją Lietuvos Respublikoje vykdo Vyriausybė, Krašto apsaugos ministerija, Susisiekimo ministerija, Krašto apsaugos ministerijos generalinis inspektorius, kariuomenės vadas ir Civilinės aviacijos administracija (toliau – CAA).
+Aviacijos valstybinį valdymą pagal savo kompetenciją Lietuvos Respublikoje vykdo Vyriausybė, Krašto apsaugos ministerija, Susisiekimo ministerija, kariuomenės vadas ir Civilinės aviacijos administracija (toliau – CAA). 
+
+
+Straipsnio pakeitimai:
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
  
-
-
 
 
 
@@ -586,7 +612,9 @@ Civilinių aerodromų naudojimo valstybės orlaivių reikmėms ir karinių aerod
 
 
 
-3. Jeigu konkrečiais atvejais Vyriausybė nenusprendžia kitaip, karinių orlaivių avarijas ir incidentus tiria Krašto apsaugos ministerijos generalinio inspektoriaus skiriama komisija. Mažiau sudėtingiems atvejams tirti Krašto apsaugos ministerijos generalinis inspektorius gali skirti vieną inspektorių.
+3. Jeigu konkrečiais atvejais Vyriausybė nenusprendžia kitaip, karinių orlaivių avarijos ir incidentai tiriami krašto apsaugos ministro nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
  
 
 
@@ -597,7 +625,9 @@ Civilinių aerodromų naudojimo valstybės orlaivių reikmėms ir karinių aerod
 
 
 II SKYRIUS
-ORO ERDVĖ, SKRYDŽIŲ VALDYMAS IR KITOS PASLAUGOS
+ORO ERDVĖ, ORO NAVIGACIJOS IR KITOS PASLAUGOS 
+Pakeistas skyriaus pavadinimas:
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
  
 
 
@@ -610,6 +640,13 @@ ORO ERDVĖ, SKRYDŽIŲ VALDYMAS IR KITOS PASLAUGOS
 
 
 2. Vyriausybė užtikrina tinkamą Lietuvos Respublikos oro erdvės organizavimą, paskirstymą ir kontrolę, siekdama užtikrinti, kad civiliniai orlaiviai ją naudotų efektyviausiai, atsižvelgdami į oro erdvės poreikius nacionalinio saugumo tikslams.
+
+
+
+
+3. Vyriausybė arba jos įgaliota institucija nustato oro erdvės pažeidimų fiksavimo ir informacijos apie užfiksuotus oro erdvės pažeidimus perdavimo tvarką. 
+Papildyta straipsnio dalimi:
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
  
 
 
@@ -643,78 +680,117 @@ ORO ERDVĖ, SKRYDŽIŲ VALDYMAS IR KITOS PASLAUGOS
 
 
 
+141 straipsnis. Oro navigacijos paslaugos
+
+
+1. Oro navigacijos paslaugas gali teikti tik juridiniai asmenys, turintys atitinkamą oro navigacijos paslaugų teikėjo pažymėjimą.
+
+
+
+
+2. Oro navigacijos paslaugų teikėjai, norintys gauti oro navigacijos paslaugų arba atskiros rūšies oro navigacijos paslaugos teikėjo pažymėjimą, turi atitikti 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 549/2004, nustatančio bendro Europos dangaus sukūrimo pagrindą (Pagrindų reglamentas), 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 550/2004 dėl oro navigacijos paslaugų teikimo bendrame Europos danguje (Paslaugų teikimo reglamentas), 2005 m. gruodžio 20 d. Europos Komisijos reglamento (EB) Nr. 2096/2005, nustatančio bendruosius oro navigacijos paslaugų teikimo reikalavimus, įgyvendinimo taisyklių, kurias Europos Komisija priima įgyvendindama Pagrindų reglamento 3 straipsnyje nurodytas priemones, taip pat kitų teisės aktų reikalavimus.
+
+
+
+
+3. Oro navigacijos paslaugų teikėjų pažymėjimų išdavimo tvarką nustato, juos išduoda arba kitose Europos Bendrijos valstybėse išduotą pažymėjimą pripažįsta CAA.
+
+
+
+
+4. CAA turi teisę visada patikrinti, ar oro navigacijos paslaugų teikėjai atitinka keliamus reikalavimus ir kaip teikiamos oro eismo paslaugos, o jos įgalioti atstovai, laikydamiesi įslaptintos informacijos apsaugai taikomų reikalavimų, turi teisę nekliudomi patekti į oro eismo paslaugų teikėjo administracines ir gamybines patalpas, susijusias su oro eismo paslaugų teikimu, apžiūrėti įrenginius, taip pat susipažinti su visa reikalinga informacija ir dokumentais. 
+
+
+Papildyta straipsniu:
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
+ 
+
+
+
+
 15 straipsnis. Oro eismo paslaugos
 
 
-1. Oro eismo paslaugas civiliniams ir valstybės orlaiviams taikos metu teikia susisiekimo ministro paskirta valstybės įmonė.
+1. Oro eismo paslaugas civiliniams ir valstybės orlaiviams taikos metu teikia susisiekimo ministro paskirtas juridinis asmuo, turintis atitinkamą oro navigacijos paslaugų teikėjo pažymėjimą.
 
 
 
 
-2. Oro eismo paslaugų teikimo sąlygas ir tvarką nustato Vyriausybė ar jos įgaliota institucija.
+2. Oro eismo paslaugų teikimo sąlygas ir tvarką kartu rengia CAA ir kariuomenės vadas, o tvirtina susisiekimo ministras.
+TAR pastaba. 2 dalis įsigalioja 2007-08-30.
 
 
 
 
-3. Susisiekimo ministras Vyriausybės pritarimu turi teisę sudaryti su atitinkamomis kitų valstybių institucijomis arba tarptautinėmis organizacijomis sutartis dėl oro eismo paslaugų teikimo ir su tuo susijusių kitų funkcijų perdavimo tam tikrose Lietuvos Respublikos oro erdvės dalyse arba prisiimti tokius įsipareigojimus iš kitų valstybių ar tarptautinių organizacijų.
+3. Susisiekimo ministras Vyriausybės pritarimu turi teisę sudaryti su atitinkamais kitų valstybių paslaugų teikėjais, turinčiais Bendrijoje išduotą paslaugų teikėjo pažymėjimą, institucijomis arba tarptautinėmis organizacijomis sutartis dėl oro eismo paslaugų teikimo ir su tuo susijusių kitų funkcijų perdavimo tam tikrose Lietuvos Respublikos oro erdvės dalyse arba prisiimti tokius įsipareigojimus iš kitų valstybių ar tarptautinių organizacijų. 
+
+
+Straipsnio pakeitimai:
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
  
 
 
 
 
+16 straipsnis. Ryšių, navigacijos ir stebėjimo paslaugos bei skrydžių valdymo įrenginiai
 
 
-16 straipsnis. Ryšių, navigacijos, stebėjimo ir skrydžių valdymo įrenginiai
-
-
-1. Lietuvos Respublikoje oro eismo paslaugų teikimui galima naudoti tik tuos ryšių, navigacijos, stebėjimo ir skrydžių valdymo įrenginius, kurie atitinka CAA nustatytus reikalavimus. Karinėje aviacijoje ir koviniam valdymui naudojamiems įrenginiams, kurie gali turėti įtakos civilinių orlaivių skrydžių saugai, taikomi CAA nustatyti reikalavimai.
+1. Ryšių, navigacijos ir stebėjimo paslaugų teikimo tvarką ir sąlygas nustato CAA.
+TAR pastaba. 1 dalis įsigalioja 2007-08-30.
 
 
 
 
-2. CAA turi teisę visada patikrinti, ar minėti įrenginiai atitinka keliamus reikalavimus ir kaip teikiamos oro eismo paslaugos, o jos įgalioti atstovai turi teisę nekliudomi patekti į oro eismo paslaugų teikėjo administracines ir gamybines patalpas, susijusias su oro eismo paslaugų teikimu, apžiūrėti įrenginius, taip pat susipažinti su visa su tuo susijusia informacija ir dokumentais.
+2. Teikiant oro eismo paslaugas galima naudoti tik tuos ryšių, navigacijos, stebėjimo ir skrydžių valdymo įrenginius, kurie atitinka CAA nustatytus reikalavimus. Karinėje aviacijoje ir koviniam valdymui naudojamiems įrenginiams, kurie gali turėti įtakos civilinių orlaivių skrydžių saugai, taikomi CAA nustatyti reikalavimai. 
+
+
+Straipsnio pakeitimai:
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
  
 
 
 
 
+17 straipsnis. Oro navigacijos informacijos paslaugos
 
 
-17 straipsnis. Oro navigacijos informacija
-
-
-1. Oro navigacijos informaciją renka, kaupia, skelbia ir platina CAA arba jos įgaliotas juridinis asmuo.
-
-
-
-
-2. Oro navigacijos informacijos rūšis, mastus bei jos skelbimo tvarką ir sąlygas nustato CAA.
+1. Oro navigacijos informacijos paslaugų teikimo tvarką ir sąlygas nustato CAA.
+TAR pastaba. 1 dalis įsigalioja 2007-08-30.
 
 
 
 
-3. Juridiniai ir fiziniai asmenys, turintys oro navigacijos informaciją, privalo ją nemokamai teikti CAA arba jos įgaliotam juridiniam asmeniui. 
+2. Asmenys, turintys oro navigacijos informacijos, privalo ją nemokamai teikti CAA arba jos įgaliotam juridiniam asmeniui. 
 
 
 Straipsnio pakeitimai:
 Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010ISTA0IX-1175
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
  
 
 
 
 
-18 straipsnis. Meteorologinė informacija
+18 straipsnis. Meteorologijos paslaugos
 
 
-1. Meteorologinę informaciją aviacijos reikmėms teikia Vyriausybės įgaliotas meteorologijos paslaugų teikėjas.
+1. Meteorologijos paslaugas teikia aplinkos ministro paskirtas juridinis asmuo, turintis atitinkamą oro navigacijos paslaugų teikėjo pažymėjimą.
 
 
 
 
-2. Meteorologinės informacijos rūšis, mastus ir jos teikimo tvarką atitinkamai nustato CAA ir kariuomenės vadas.
+2. Meteorologijos paslaugų teikimo tvarką ir sąlygas rengia CAA su Lietuvos hidrometeorologijos tarnyba prie Aplinkos ministerijos, o tvirtina aplinkos ministras ir susisiekimo ministras.
+TAR pastaba. 2 dalis įsigalioja 2007-08-30.
+
+
+
+
+3. Aplinkos ministras Vyriausybės pritarimu turi teisę sudaryti su atitinkamais kitų valstybių paslaugų teikėjais, turinčiais Bendrijoje išduotą paslaugų teikėjo pažymėjimą, institucijomis arba tarptautinėmis organizacijomis sutartis dėl meteorologijos paslaugų teikimo ir su tuo susijusių kitų funkcijų perdavimo tam tikrose Lietuvos Respublikos oro erdvės dalyse arba prisiimti tokius įsipareigojimus iš kitų valstybių ar tarptautinių organizacijų. 
+
+
+Straipsnio pakeitimai:
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
  
-
-
 
 
 
@@ -722,15 +798,17 @@ Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010IS
 19 straipsnis. Paieška ir gelbėjimas
 
 
-1. Orlaivių paiešką ir gelbėjimą vykdo Vyriausybės įgaliotos institucijos.
+1. Paieškos ir gelbėjimo darbus, įvykus ar gresiant orlaivio avarijai, vykdo Vyriausybės įgaliotos institucijos.
 
 
 
 
-2. Orlaivių paieškos ir gelbėjimo darbų vykdymo sąlygas ir tvarką nustato Vyriausybė arba jos įgaliota institucija.
+2. Paieškos ir gelbėjimo darbų, įvykus ar gresiant orlaivio avarijai, organizavimo ir vykdymo taisykles nustato Vyriausybė arba jos įgaliota institucija. 
+
+
+Straipsnio pakeitimai:
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
  
-
-
 
 
 
@@ -1192,18 +1270,25 @@ CAA turi teisę visada patikrinti, ar civilinis aerodromas atitinka šio įstaty
 
 
 
-42 straipsnis. Civilinio aerodromo tinkamumas naudoti
+42 straipsnis. Civilinių aerodromų tinkamumas naudoti
 
 
-1. Gali būti naudojami tik tie civiliniai aerodromai, kurie atitinka šio įstatymo ir kitų teisės aktų reikalavimus bei turi CAA išduotą tinkamumo naudoti pažymėjimą.
+1. Civilinių orlaivių skrydžiams gali būti naudojami tik tie civiliniai aerodromai, kurie atitinka šio įstatymo ir kitų teisės aktų reikalavimus ir turi CAA išduotą galiojantį tinkamumo naudoti pažymėjimą.
 
 
 
 
-2. Pažymėjimas išduodamas, pratęsiamas, taip pat nutraukiamas arba sustabdomas jo galiojimas CAA nustatyta tvarka ir sąlygomis.
+2. Civilinio aerodromo tinkamumo naudoti pažymėjimas išduodamas, pratęsiamas, taip pat nutraukiamas arba sustabdomas jo galiojimas CAA nustatyta tvarka ir sąlygomis.
+
+
+
+
+3. Už tai, kad civiliniai aerodromai atitiktų nustatytus reikalavimus, atsako aerodromą valdantis fizinis ar juridinis asmuo. Civilinį aerodromą valdantis fizinis ar juridinis asmuo nedelsdamas privalo pranešti CAA apie visas aplinkybes, įvykius arba gedimus, kurie gali turėti įtakos aerodromo ir nustatytų reikalavimų atitikčiai. 
+
+
+Straipsnio pakeitimai:
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
  
-
-
 
 
 
@@ -1598,9 +1683,10 @@ Nr. IX-1744, 2003-09-23, Žin., 2003, Nr. 94-4248 (2003-10-08), i. k. 1031010IST
 
 
 
-2. Užsienio valstybių vežėjai turi teisę vykdyti oro susisiekimą pagal atitinkamą Lietuvos Respublikos tarptautinę sutartį. Kol tokios sutarties nėra, Susisiekimo ministerija arba jos įgaliota CAA gali išduoti atitinkamą leidimą.
+2. Neteko galios 2007-05-29.
 Straipsnio dalies pakeitimai:
 Nr. IX-1744, 2003-09-23, Žin., 2003, Nr. 94-4248 (2003-10-08), i. k. 1031010ISTA0IX-1744
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
  
 
 
@@ -1931,6 +2017,40 @@ ORLAIVIŲ AVARIJOS IR INCIDENTAI
 
 
 
+671 straipsnis. Oro susisiekimo vykdymas ir skrydžių teisių paskyrimas
+
+
+1. Oro susisiekimas tarp Lietuvos Respublikos ir Europos Bendrijos bei Europos ekonominės erdvės susitarimo valstybių vykdomas vadovaujantis 1992 m. liepos 23 d. Tarybos reglamento (EEB) Nr. 2408/92 dėl Bendrijos oro vežėjų patekimo į Bendrijos vidaus oro maršrutus ir atitinkamų tarptautinių sutarčių nuostatomis tiek, kiek jos neprieštarauja minėtam reglamentui.
+
+
+
+
+2. Oro susisiekimas tarp Lietuvos Respublikos ir Europos Bendrijos bei Europos ekonominei erdvei nepriklausančių valstybių vykdomas pagal atitinkamos tarptautinės sutarties nuostatas, gavus paskyrimą. Kol tokios sutarties nėra, leidimą oro susisiekimui vykdyti išduoda Susisiekimo ministerija arba jos įgaliota CAA.
+
+
+
+
+3. Vežėjas, siekiantis gauti paskyrimą vykdyti oro susisiekimą tarp Lietuvos Respublikos ir Europos Bendrijai bei Europos ekonominei erdvei nepriklausančių valstybių, paraišką paskyrimui gauti teikia Susisiekimo ministerijai.
+
+
+
+
+4. Paraiškų paskyrimui gauti nagrinėjimo, skrydžių teisių suteikimo, paskirstymo, atšaukimo ir konsultacijų su suinteresuotomis šalimis tvarką nustato susisiekimo ministras.
+TAR pastaba. 4 dalis įsigalioja 2007-08-30.
+
+
+
+
+5. Reguliaraus ir nereguliaraus oro susisiekimo, nekomercinių skrydžių ir užsienio šalių valstybės orlaivių skrydžių leidimų išdavimo ir atšaukimo sąlygas bei tvarką nustato Vyriausybė ar jos įgaliota institucija. 
+
+
+Papildyta straipsniu:
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
+ 
+
+
+
+
 
 
 Dešimtasis skirsnis
@@ -1980,6 +2100,24 @@ Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA00
 
 
 
+701 straipsnis. Neįgalių asmenų ir ribotos judėsenos asmenų teisės keliaujant oro transportu
+
+
+1. Neįgalių asmenų ir ribotos judėsenos asmenų, keliaujančių oro transportu, teises, apsaugos ir pagalbos jiems teikimo taisykles nustato 2006 m. liepos 5 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2006 dėl neįgalių asmenų ir ribotos judėsenos asmenų teisių keliaujant oru.
+
+
+
+
+2. CAA kontroliuoja, kaip laikomasi šio straipsnio 1 dalyje nurodyto reglamento nuostatų skrydžiuose iš Lietuvos Respublikos teritorijoje esančių oro uostų ir į juos. 
+
+
+Papildyta straipsniu:
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
+ 
+
+
+
+
 71 straipsnis. Kompiuterinės rezervavimo sistemos
 
 
@@ -2000,6 +2138,24 @@ Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA00
 IV SKYRIUS
 BAIGIAMOSIOS NUOSTATOS
  
+
+
+711 straipsnis. Antžeminių paslaugų teikimas
+
+
+1. Antžeminių paslaugų teikimo Lietuvos Respublikos tarptautiniuose oro uostuose tvarką ir sąlygas nustato susisiekimo ministras.
+
+
+
+
+2. CAA prižiūri ir kontroliuoja, kaip teikiamos antžeminės paslaugos Lietuvos Respublikos tarptautiniuose oro uostuose. 
+
+
+Papildyta straipsniu:
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
+ 
+
+
 
 
 72 straipsnis. Rinkliavos
@@ -2119,8 +2275,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
-Lietuvos Respublikos
+Lietuvos Respublikos 
 aviacijos įstatymo
 priedas
  
@@ -2128,58 +2283,71 @@ priedas
  
 
 
-1. 1989 m. liepos 24 d. Tarybos reglamentas (EEB) Nr. 2299/89 dėl elgesio su kompiuterinėmis rezervavimo sistemomis kodekso (su paskutiniais pakeitimais, padarytais 1999 m. vasario 8 d. Tarybos reglamentu (EB) Nr. 323/1999).
+1. 1989 m. liepos 24 d. Tarybos reglamentas (EEB) Nr. 2299/89 dėl elgesio su kompiuterinėmis rezervavimo sistemomis kodekso (su paskutiniais pakeitimais, padarytais 1999 m. vasario 8 d. Tarybos reglamentu (EB) Nr. 323/1999) (OL 2004 m. specialusis leidimas, 7 skyrius, 1 tomas, p. 277; OL 2004 m. specialusis leidimas, 7 skyrius, 4 tomas, p. 251).
 
 
 
 
-2. 1991 m. vasario 4 d. Tarybos reglamentas (EEB) Nr. 295/91, nustatantis bendras kompensavimo už atsisakymą vežti reguliaraus oro transportu taisykles (su paskutiniais pakeitimais, padarytais 2004 m. vasario 11 d. Europos Parlamento ir Tarybos Reglamentu (EB) Nr. 261/2004).
+2. 1991 m. vasario 4 d. Tarybos reglamentas (EEB) Nr. 295/91, nustatantis bendras kompensavimo už atsisakymą vežti reguliaraus oro transportu taisykles (OL 2004 m. specialusis leidimas, 7 skyrius, 1 tomas, p. 306 (su paskutiniais pakeitimais, padarytais 2004 m. vasario 11 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 261/2004 (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 10).
 
 
 
 
-3. 1992 m. liepos 23 d. Tarybos reglamentas (EEB) Nr. 2407/92 dėl oro vežėjų licencijavimo.
+3. 1992 m. liepos 23 d. Tarybos reglamentas (EEB) Nr. 2407/92 dėl oro vežėjų licencijavimo (OL 2004 m. specialusis leidimas, 6 skyrius, 2 tomas, p. 3).
 
 
 
 
-4. 1993 m. sausio 18 d. Tarybos reglamentas (EEB) Nr. 95/93 dėl laiko tarpsnių paskirstymo Bendrijos oro uostuose bendrųjų taisyklių (su paskutiniais pakeitimais, padarytais 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 793/2004).
+4. 1993 m. sausio 18 d. Tarybos reglamentas (EEB) Nr. 95/93 dėl laiko tarpsnių paskirstymo Bendrijos oro uostuose bendrųjų taisyklių (OL 2004 m. specialusis leidimas, 7 skyrius 2 tomas, p. 3 (su paskutiniais pakeitimais, padarytais 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 793/2004 (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 171).
 
 
 
 
-5. 2002 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1592/2002 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiantis Europos aviacijos saugos agentūrą
-Papildyta punktu:
-Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
- 
+5. 2002 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1592/2002 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiantis Europos aviacijos saugos agentūrą (OL 2004 m. specialusis leidimas, 7 skyrius, 7 tomas, p. 30).
 
 
 
 
-6. 2003 m. rugsėjo 24 d. Komisijos reglamentas (EB) Nr. 1702/2003, nustatantis orlaivio tinkamumo skraidyti ir orlaivio bei susijusių jo gaminių, dalių ir prietaisų tinkamumo naudoti aplinkos atžvilgiu pažymėjimų išdavimą bei projektavimo ir gamybinių organizacijų sertifikavimą įgyvendinančias taisykles
-Papildyta punktu:
-Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
- 
+6. 2003 m. rugsėjo 24 d. Komisijos reglamentas (EB) Nr. 1702/2003, nustatantis orlaivio tinkamumo skraidyti ir orlaivio bei susijusių jo gaminių, dalių ir prietaisų tinkamumo naudoti aplinkos atžvilgiu pažymėjimų išdavimą bei projektavimo ir gamybinių organizacijų sertifikavimą įgyvendinančias taisykles (OL 2004 m. specialusis leidimas, 7 skyrius, 7 tomas, p. 456).
 
 
 
 
-7. 2003 m. lapkričio 20 d. Komisijos Reglamentas (EB) Nr. 2042/2003 dėl orlaivių nepertraukiamojo tinkamumo skraidyti ir aviacijos produktų, dalių bei prietaisų tinkamumo naudoti ir šias užduotis atliekančių organizacijų bei darbuotojų patvirtinimo. 
-Papildyta punktu:
-Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
- 
+7. 2003 m. lapkričio 20 d. Komisijos reglamentas (EB) Nr. 2042/2003 dėl orlaivių nepertraukiamojo tinkamumo skraidyti ir aviacijos produktų, dalių bei prietaisų tinkamumo naudoti ir šias užduotis atliekančių organizacijų bei darbuotojų patvirtinimo (OL 2004 m. specialusis leidimas, 7 skyrius, 7 tomas, p. 541).
 
 
 
 
-8. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 785/2004 dėl draudimo reikalavimų oro vežėjams ir orlaivių naudotojams. 
-Punkto numeracijos pakeitimas:
-Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
- 
+8. 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 549/2004, nustatantis bendro Europos dangaus sukūrimo pagrindą (Pagrindų reglamentas) (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 23).
 
 
-Papildyta priedu:
-Nr. X-113, 2005-02-15, Žin., 2005, Nr. 31-971 (2005-03-05), i. k. 1051010ISTA000X-113
+
+
+9. 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 550/2004 dėl oro navigacijos paslaugų teikimo bendrame Europos danguje (Paslaugų teikimo reglamentas) (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 31).
+
+
+
+
+10. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 785/2004 dėl draudimo reikalavimų oro vežėjams ir orlaivių naudotojams (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 160).
+
+
+
+
+11. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 847/2004 dėl derybų dėl valstybių narių ir trečiųjų šalių susitarimų dėl oro susisiekimo ir jų įgyvendinimo (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 193).
+
+
+
+
+12. 2005 m. gruodžio 20 d. Europos Komisijos reglamentas (EB) Nr. 2096/2005, nustatantis bendruosius oro navigacijos paslaugų teikimo reikalavimus (OL 2005 L 335, p. 13).
+
+
+
+
+13. 2006 m. liepos 5 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2006 dėl neįgalių asmenų ir ribotos judėsenos asmenų teisių keliaujant oru (OL 2006 L 204, p. 1).
+
+
+Priedo pakeitimai:
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
  
  
  
@@ -2214,3 +2382,8 @@ Lietuvos Respublikos aviacijos įstatymo 1, 2, 43, 70, 71, 73 straipsnių pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-386, 2005-11-15, Žin., 2005, Nr. 142-5103 (2005-12-03), i. k. 1051010ISTA000X-386
 Lietuvos Respublikos aviacijos įstatymo 2, 6, 21, 33, 36, 44, 63, 66 straipsnių pakeitimo ir papildymo ir Įstatymo priedo pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA00X-1117
+Lietuvos Respublikos aviacijos įstatymo 2, 5, 12, 13, 15, 16, 17, 18, 19, 42, 56 straipsnių, II skyriaus pavadinimo ir Įstatymo priedo pakeitimo ir papildymo bei Įstatymo papildymo 14(1), 67(1), 70(1), 71(1) straipsniais įstatymas
