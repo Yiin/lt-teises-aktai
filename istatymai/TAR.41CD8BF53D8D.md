@@ -51,8 +51,8 @@ fiziniai ir juridiniai asmenys, išskyrus Lietuvos banką.
 Straipsnio pakeitimai:
 Nr. IX-435, 2001-07-10, Žin., 2001, Nr.
 62-2233 (2001-07-18)
-Nr. IX-2139,
-2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
+Nr. IX-2139, 2004-04-15,
+Žin., 2004, Nr. 61-2188 (2004-04-27)
  
 II SKYRIUS
 VALSTYBĖS RINKLIAVA
@@ -63,13 +63,23 @@ straipsnis. Valstybės rinkliavos objektai
 rinkliava imama už:
 1) civilinės
 būklės aktų registravimą civilinės metrikacijos įstaigose, įrašų civilinės
-būklės aktuose pakeitimą bei papildymą ir dokumentų, patvirtinančių įrašą civilinės
-būklės akte, išdavimą;
+būklės aktuose pakeitimą bei papildymą ir dokumentų, patvirtinančių įrašą
+civilinės būklės akte, išdavimą;
+ 
+1 dalies 2
+punkto redakcija iki 2007 m. liepos 1 d.:
 2) dokumentų
 išduoti leidimą gyventi Lietuvos Respublikoje tvarkymą ir išduodamus
 dokumentus dėl pilietybės, išvykimo į užsienį ir atvykimo į Lietuvos Respubliką
 bei gyvenimo joje, dėl užsieniečių įdarbinimo, taip pat dokumentą,
 patvirtinantį asmens gyvenamąją vietą;
+1 dalies 2
+punkto redakcija nuo 2007 m. liepos 1 d.:
+2) dokumentų
+išduoti leidimą gyventi Lietuvos Respublikoje tvarkymą ir išduodamus
+dokumentus dėl pilietybės, išvykimo į užsienį ir atvykimo į Lietuvos Respubliką
+bei gyvenimo joje, dėl užsieniečių įdarbinimo;
+ 
 3) licencijos
 (leidimo) verstis licencijuojama veikla išdavimą;
 4) kitas
@@ -86,6 +96,9 @@ Nr. X-359, 2005-09-29,
 Žin., 2005, Nr. 121-4333 (2005-10-11)
 Nr. X-925, 2006-11-28,
 Žin., 2006, Nr. 137-5200 (2006-12-16)
+Nr.
+X-1155,
+2007-05-24, Žin., 2007, Nr. 61-2343 (2007-06-02)
  
 5
 straipsnis. Valstybės rinkliavos dydžiai
@@ -123,6 +136,9 @@ vardo pakeitimą, papildymą ir ištaisymą tikslinant įrašus, padarytus
 registruojant aktus okupacijų metais;
 3) Užsienio
 reikalų ministerija už jai išduodamus metrikacijos liudijimų dublikatus.
+ 
+2 dalies
+redakcija iki 2007 m. liepos 1 d.:
 2. Už išduodamus
 dokumentus dėl pilietybės, išvykimo į užsienį ir atvykimo į Lietuvos Respubliką
 bei gyvenimo joje, užsieniečių įdarbinimo, taip pat už dokumentą, patvirtinantį
@@ -134,7 +150,8 @@ vaikai, kuriems nustatyta globa ir rūpyba, valstybės išlaikomi stacionariose
 globos įstaigose asmenys, vieniši asmenys, sukakę senatvės pensijos amžių,
 asmenys, kuriems nustatytas 0–40 procentų darbingumo lygis, ar senatvės
 pensijos amžių sukakę asmenys, kuriems teisės aktų nustatyta tvarka nustatytas
-didelių ar vidutinių specialiųjų poreikių lygis (iki 2007 m. birželio 30 d. – ir I bei II grupių invalidai), asmenys iki 18 metų, kuriems nustatytas
+didelių ar vidutinių specialiųjų poreikių lygis (iki 2007 m. birželio 30 d. –
+ir I bei II grupių invalidai), asmenys iki 18 metų, kuriems nustatytas
 neįgalumo lygis (iki 2007 m. birželio 30 d. – ir invalidumo lygis), – už asmens
 tapatybės kortelės ir paso išdavimą bei pakeitimą, už dokumento, patvirtinančio
 asmens gyvenamąją vietą, išdavimą;
@@ -146,8 +163,64 @@ dokumento bei vizos išdavimą ir pratęsimą;
 16 metų – už asmens be pilietybės kelionės dokumento, pabėgėlio kelionės
 dokumento ir užsieniečio paso išdavimą, už vizų išdavimą ir turimos vizos
 galiojimo laiko pratęsimą, už dokumentų išduoti
-leidimą gyventi Lietuvos Respublikoje tvarkymą ir leidimo gyventi Lietuvos Respublikoje
-išdavimą;
+leidimą gyventi Lietuvos Respublikoje tvarkymą ir leidimo gyventi Lietuvos
+Respublikoje išdavimą;
+4) užsieniečiai,
+kuriems suteiktas prieglobstis Lietuvos Respublikoje, už pirmojo leidimo
+gyventi Lietuvos Respublikoje išdavimą;
+5) užsienio valstybių piliečiai, vykstantys į Lietuvos Respubliką dalyvauti
+Respublikos Prezidento, Seimo, Vyriausybės, ministerijų, kitų valstybės ar
+vietos savivaldos institucijų, įstaigų ar tarnybų organizuojamuose oficialiuose
+susitikimuose, labdaros bei organizuotos pagalbos Lietuvai tikslais arba su
+Raudonojo Kryžiaus misija, taip pat tarptautinių organizacijų, kurių narė yra
+Lietuvos Respublika, atstovai bei nurodytų asmenų šeimos nariai (sutuoktiniai,
+vaikai (įvaikiai) iki 21 metų, kurie gyvena kartu su tėvais ir nėra sudarę
+santuokos) – už dokumentų, suteikiančių teisę atvykti į Lietuvos Respubliką,
+išdavimą; 
+6) lietuvių
+kilmės asmenys, pateikę krašto lietuvių bendruomenių arba Lietuvos Respublikos
+diplomatinių atstovybių ar konsulinių įstaigų užsienio valstybėse pareigūnų
+išduotus Lietuvos Respublikos užsienio reikalų ministerijos patvirtintos formos
+pažymėjimus, – už vizų išdavimą ir pratęsimą; 
+7) sunkiai
+sergantys užsieniečiai arba užsieniečiai, kuriems reikalinga skubi medicinos
+pagalba, kai pateikiami dokumentai, išduoti atitinkamos organizacijos ir
+patvirtinantys būtinumą nurodytiems asmenims būti Lietuvos Respublikos
+teritorijoje, taip pat šiuos asmenis lydintieji, kai pateikiamas dokumentas,
+patvirtinantis tokio lydėjimo būtinumą, – už vizų išdavimą ir pratęsimą;
+8) užsieniečiai,
+vykstantys į šeimos nario (tėvų (įtėvių), vaikų (įvaikių), brolių, seserų)
+laidotuves, kai pateikiama nustatyta tvarka patvirtinta telegrama, – už vizų
+išdavimą pasienio kontrolės punktuose;
+9) užsieniečiai,
+vykstantys dirbti pedagoginį darbą į Lietuvos Respublikos aukštąsias, aukštesniąsias,
+profesines ir bendrojo lavinimo mokyklas, – už vizų išdavimą ir pratęsimą.
+2 dalies
+redakcija nuo 2007 m. liepos 1 d.:
+2. Už išduodamus
+dokumentus dėl pilietybės, išvykimo į užsienį ir atvykimo į Lietuvos Respubliką
+bei gyvenimo joje, užsieniečių įdarbinimo ir kitas suteiktas paslaugas nuo
+valstybės rinkliavos atleidžiami:
+1) asmenys,
+turintys teisę gauti piniginę socialinę paramą įstatymų nustatyta tvarka,
+vaikai, kuriems nustatyta globa ir rūpyba, valstybės išlaikomi stacionariose
+globos įstaigose asmenys, vieniši asmenys, sukakę senatvės pensijos amžių,
+asmenys, kuriems nustatytas 0–40 procentų darbingumo lygis, ar senatvės
+pensijos amžių sukakę asmenys, kuriems teisės aktų nustatyta tvarka nustatytas
+didelių ar vidutinių specialiųjų poreikių lygis (iki 2007 m. birželio 30 d. –
+ir I bei II grupių invalidai), asmenys iki 18 metų, kuriems nustatytas
+neįgalumo lygis (iki 2007 m. birželio 30 d. – ir invalidumo lygis), – už asmens
+tapatybės kortelės ir paso išdavimą bei pakeitimą;
+2) politiniai kaliniai, tremtiniai,
+rezistencijos dalyviai – už asmens tapatybės kortelės ir paso išdavimą bei
+pakeitimą, leidimo gyventi Lietuvos Respublikoje, asmens be pilietybės kelionės
+dokumento bei vizos išdavimą ir pratęsimą;
+3) asmenys iki
+16 metų – už asmens be pilietybės kelionės dokumento, pabėgėlio kelionės
+dokumento ir užsieniečio paso išdavimą, už vizų išdavimą ir turimos vizos
+galiojimo laiko pratęsimą, už dokumentų išduoti
+leidimą gyventi Lietuvos Respublikoje tvarkymą ir leidimo gyventi Lietuvos
+Respublikoje išdavimą;
 4) užsieniečiai,
 kuriems suteiktas prieglobstis Lietuvos Respublikoje, už pirmojo leidimo
 gyventi Lietuvos Respublikoje išdavimą;
@@ -172,9 +245,9 @@ patvirtinantys būtinumą nurodytiems asmenims būti Lietuvos Respublikos
 teritorijoje, taip pat šiuos asmenis lydintieji, kai pateikiamas dokumentas,
 patvirtinantis tokio lydėjimo būtinumą, – už vizų išdavimą ir pratęsimą;
 8) užsieniečiai,
-vykstantys į šeimos nario (tėvų (įtėvių), vaikų (įvaikių), brolių, seserų)
-laidotuves, kai pateikiama nustatyta tvarka patvirtinta telegrama, – už vizų
-išdavimą pasienio kontrolės punktuose;
+vykstantys į šeimos nario (tėvų (įtėvių), vaikų (įvaikių), brolių, seserų) laidotuves,
+kai pateikiama nustatyta tvarka patvirtinta telegrama, – už vizų išdavimą
+pasienio kontrolės punktuose;
 9) užsieniečiai,
 vykstantys dirbti pedagoginį darbą į Lietuvos Respublikos aukštąsias,
 aukštesniąsias, profesines ir bendrojo lavinimo mokyklas, – už vizų išdavimą ir
@@ -187,6 +260,9 @@ Nr. X-359, 2005-09-29,
 Žin., 2005, Nr. 121-4333 (2005-10-11)
 Nr. X-925, 2006-11-28,
 Žin., 2006, Nr. 137-5200 (2006-12-16)
+Nr.
+X-1155, 2007-05-24,
+Žin., 2007, Nr. 61-2343 (2007-06-02)
  
 7
 straipsnis. Valstybės rinkliavos lengvatos
@@ -283,10 +359,10 @@ leidimo pardavinėti I, II ir TO klasės civilines pirotechnikos priemones
 išdavimą;
 11) naudojimąsi
 gyvenamųjų vietovių, turinčių kurorto statusą, viešąja infrastruktūra (viešoji
-kurorto infrastruktūra – valstybei ar savivaldybei nuosavybės teise priklausantys
-statiniai, įranga ir bendro naudojimo želdynai, sudarantys visuomenei galimybę
-naudoti kurorte esančius gamtinius išteklius sveikatinimo, turizmo ir poilsio
-reikmėms).
+kurorto infrastruktūra – valstybei ar savivaldybei nuosavybės teise
+priklausantys statiniai, įranga ir bendro naudojimo želdynai, sudarantys
+visuomenei galimybę naudoti kurorte esančius gamtinius išteklius sveikatinimo,
+turizmo ir poilsio reikmėms).
 2. Iš vietinės
 rinkliavos mokėtojo negali būti reikalaujama atlyginti už objektą, už kurį
 pagal šį įstatymą nustatyta vietinė rinkliava, kitaip negu sumokant vietinę
@@ -469,11 +545,22 @@ Nr. X-925, 2006-11-28,
 RINKLIAVŲ ĮSTATYMO 4 IR 6
 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
+9.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-1155,
+2007-05-24, Žin., 2007, Nr. 61-2343 (2007-06-02)
+RINKLIAVŲ
+ĮSTATYMO 4 IR 6 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas, išskyrus 3 straipsnį, įsigalioja nuo 2007 m. liepos 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2006-12-18)
+Aušrinė Trapinskienė (2007-06-04)
                  
 autrap@lrs.lt
