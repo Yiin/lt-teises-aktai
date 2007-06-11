@@ -29,12 +29,12 @@ DRAUDIMO
 ĮSTATYMAS
 2003 m. rugsėjo 18 d. Nr. IX-1737
 Vilnius
-I
-SKYRIUS
+I SKYRIUS
 BENDROSIOS
 NUOSTATOS
  
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo
+paskirtis
 1. Įstatymo tikslas – reglamentuoti draudimo ir
 draudimo tarpininkavimo veiklą siekiant, kad draudimo sistema būtų patikima,
 efektyvi, saugi ir stabili. 
@@ -64,8 +64,17 @@ numatytą pensijų kaupimo veiklą reglamentuoja kiti Lietuvos Respublikos
 reglamentuojamiems santykiams taikomos tiek, kiek šiuo Įstatymu nenustatyta
 kitaip.
  
-2 straipsnis. Pagrindinės šio Įstatymo
-sąvokos
+Straipsnis papildomas 8 dalimi nuo 2007 m. birželio 11 d.:
+8. Šio Įstatymo
+nuostatomis įgyvendinami Europos Sąjungos teisės aktai nurodyti Įstatymo
+priede.
+Straipsnio
+pakeitimai:
+Nr. X-1139, 2007-05-17, Žin., 2007, Nr. 61-2342
+(2007-06-02)
+ 
+2 straipsnis.
+Pagrindinės šio Įstatymo sąvokos
 1. Apdraustasis – gyvybės ir sveikatos draudimo
 atveju – draudimo sutartyje nurodytas fizinis asmuo, kurio gyvenime atsitikus
 draudiminiam įvykiui draudikas privalo mokėti draudimo išmoką; civilinės
@@ -93,8 +102,8 @@ remiantis su šiomis įmonėmis sudarytomis sutartimis ar steigimo sandoriuose a
 4) įmonė, nors ir nesusijusi
 šio straipsnio 28 ir 48 dalyse nustatytais ryšiais su kita ar kitomis įmonėmis,
 tačiau jos ir kitos ar kitų įmonių dauguma administracijos, valdymo ar
-priežiūros organų narių per finansinius metus iki konsoliduotos finansinės
-atskaitomybės sudarymo yra tie patys asmenys.
+priežiūros organų narių per finansinius metus iki konsoliduotos finansinės atskaitomybės
+sudarymo yra tie patys asmenys.
 5. Dalyvavimas –
 tiesioginis ar netiesioginis valdymas 20 procentų ar daugiau visų balsavimo
 teisių įmonės aukščiausiojo organo susirinkime ar 20 procentų ar daugiau įmonės
@@ -102,8 +111,8 @@ akcinio (pajinio ir pan.) kapitalo, taip pat kitokia reali ir ilgalaikė
 galimybė tiek būnant įmonės akcininku (dalyviu), tiek turint kitų su akciniu
 (pajiniu ir pan.) kapitalu susijusių teisių daryti įtaką sprendimams dėl įmonės
 veiklos.
-6. Didelė draudimo rizika – draudimo rizika, atitinkanti
-šio Įstatymo 10 straipsnyje nurodytus kriterijus.
+6. Didelė draudimo rizika – draudimo rizika, atitinkanti šio
+Įstatymo 10 straipsnyje nurodytus kriterijus.
 7. Draudėjas – asmuo, kuris kreipėsi į draudiką
 dėl draudimo sutarties sudarymo ar kuriam draudikas pasiūlė sudaryti draudimo
 sutartį, arba kuris sudarė draudimo sutartį su draudiku.
@@ -140,10 +149,10 @@ išmokos mokėjimo forma.
 patronuojanti įmonė, kuri nėra mišrią veiklą vykdanti kontroliuojančioji
 (holdingo) bendrovė, tačiau kurios pagrindinis veiklos tikslas yra tapti ir
 būti dalyvaujančia dukterinėse įmonėse, kurios išimtinai ar daugiausia yra
-draudimo įmonės, kitos Europos Sąjungos valstybės narės draudimo įmonės,
-perdraudimo įmonės ar užsienio valstybių draudimo įmonės, tačiau su sąlyga, jog
-bent viena iš dukterinių įmonių yra draudimo įmonė, kitos Europos Sąjungos
-valstybės narės draudimo įmonė ar užsienio valstybės draudimo įmonė.
+draudimo įmonės, kitos Europos Sąjungos valstybės narės draudimo įmonės, perdraudimo
+įmonės ar užsienio valstybių draudimo įmonės, tačiau su sąlyga, jog bent viena
+iš dukterinių įmonių yra draudimo įmonė, kitos Europos Sąjungos valstybės narės
+draudimo įmonė ar užsienio valstybės draudimo įmonė.
 18. Draudimo laikotarpis – laiko tarpas nuo
 draudimo apsaugos pradžios iki pabaigos, kuris nebūtinai sutampa su draudimo
 sutarties terminu.
@@ -218,8 +227,20 @@ sąjungos valstybė narė, kurioje:
 1) yra turtas, kai draudimo sutartis susijusi su pastatais
 ar su pastatais ir juose esančiu turtu, jei šis turtas draudžiamas ta pačia
 draudimo sutartimi;
+ 
+30 dalies 2 punkto redakcija iki 2007 m. birželio 11 d.:
 2) yra registruota bet kurios rūšies transporto
 priemonė, su kuria susijusi draudimo sutartis;
+30 dalies 2 punkto redakcija nuo 2007 m. birželio 11 d.:
+2) yra registruota bet kurios rūšies transporto priemonė, su kuria
+susijusi draudimo sutartis. Transporto priemonių valdytojų
+civilinės atsakomybės privalomojo draudimo atveju pagal šį punktą Europos Sąjungos
+valstybe nare, kurioje yra draudimo rizika, taip pat laikoma ta Europos
+Sąjungos valstybė narė, į kurią įvežama transporto priemonė, kurios įprastinė
+buvimo vieta yra kitoje Europos Sąjungos valstybėje narėje, 30 dienų
+laikotarpiu nuo pirkėjo patvirtinimo, kad
+transporto priemonė pristatyta;
+ 
 3) draudėjas ne ilgesniam kaip 4 mėnesių terminui sudarė draudimo nuo
 kelionės ar atostogų draudimo rizikų sutartį, nesvarbu, kuriai draudimo grupei
 priklausytų šios draudimo rizikos;
@@ -285,10 +306,10 @@ juridinio asmens ir įmonės. Kontrolė gali būti tiesioginė arba netiesiogin�
 43. Mišrios veiklos draudimo kontroliuojančioji
 (holdingo) įmonė – patronuojanti įmonė, kuri nėra draudimo įmonė, kitos
 Europos Sąjungos valstybės narės draudimo įmonė, užsienio valstybės draudimo
-įmonė, perdraudimo įmonė, draudimo kontroliuojančioji (holdingo) įmonė ar mišrią
-veiklą vykdanti kontroliuojančioji (holdingo) bendrovė, tačiau kurios bent
-viena iš dukterinių įmonių yra draudimo įmonė, kitos Europos Sąjungos valstybės
-narės draudimo įmonė ar užsienio valstybės draudimo įmonė.
+įmonė, perdraudimo įmonė, draudimo kontroliuojančioji (holdingo) įmonė ar
+mišrią veiklą vykdanti kontroliuojančioji (holdingo) bendrovė, tačiau kurios
+bent viena iš dukterinių įmonių yra draudimo įmonė, kitos Europos Sąjungos
+valstybės narės draudimo įmonė ar užsienio valstybės draudimo įmonė.
 44. Mokumo atsarga – draudiko turtas,
 viršijantis įsipareigojimus, atsirandančius iš draudimo ir (ar) perdraudimo
 sutarčių.
@@ -346,17 +367,17 @@ ir reikalavimo išmokėti perdraudimo išmoką dydžio nustatymas.
 53. Priklausomas draudimo tarpininkas – asmuo,
 vykdantis draudimo tarpininkavimo veiklą vieno ar keleto draudikų vardu ir dėl
 jų interesų. Priklausomas draudimo tarpininkas taip pat yra asmuo, kuris vykdo
-draudimo tarpininkavimo veiklą vieno ar keleto draudikų vardu ir dėl jų interesų
-šalia savo pagrindinės ūkinės komercinės veiklos, o jo siūlomas draudimas yra
-papildoma paslauga, skirta arba susijusi su asmens siūlomomis prekėmis ar
-paslaugomis.
+draudimo tarpininkavimo veiklą vieno ar keleto draudikų vardu ir dėl jų
+interesų šalia savo pagrindinės ūkinės komercinės veiklos, o jo siūlomas
+draudimas yra papildoma paslauga, skirta arba susijusi su asmens siūlomomis
+prekėmis ar paslaugomis.
 54. Steigimosi teisė – teisė kitoje
 Europos Sąjungos valstybėje narėje steigti draudimo įmonės dukterinę draudimo
-įmonę ar filialą, draudimo tarpininkų įmonės dukterinę draudimo tarpininkų
-įmonę ar filialą arba teisė Lietuvos Respublikoje steigti kitos Europos
-Sąjungos valstybės narės draudimo įmonės dukterinę draudimo įmonę ar filialą,
-kitos Europos Sąjungos valstybės narės draudimo tarpininkų įmonės dukterinę
-draudimo tarpininkų įmonę ar filialą.
+įmonę ar filialą, draudimo tarpininkų įmonės dukterinę draudimo tarpininkų įmonę
+ar filialą arba teisė Lietuvos Respublikoje steigti kitos Europos Sąjungos
+valstybės narės draudimo įmonės dukterinę draudimo įmonę ar filialą, kitos
+Europos Sąjungos valstybės narės draudimo tarpininkų įmonės dukterinę draudimo
+tarpininkų įmonę ar filialą.
 55. Susijusi įmonė – dukterinė įmonė
 arba įmonė, kurioje šio straipsnio 4 dalyje nurodytais būdais dalyvauja kita
 įmonė.
@@ -376,8 +397,8 @@ Europos Sąjungos valstybės narės draudimo tarpininkų teisė vykdyti draudimo
 tarpininkavimo veiklą Lietuvos Respublikoje, neįsteigus dukterinės draudimo
 tarpininkų įmonės ar filialo.
 58. Turima mokumo atsarga – draudiko turimo
-turto, viršijančio įsipareigojimus, atsirandančius iš draudimo ir (ar)
-perdraudimo sutarčių, dydis, apskaičiuotas teisės aktų nustatyta tvarka.
+turto, viršijančio įsipareigojimus, atsirandančius iš draudimo ir (ar) perdraudimo
+sutarčių, dydis, apskaičiuotas teisės aktų nustatyta tvarka.
 59. Turto draudimas – asmens turtinių interesų
 draudimas, kurio atveju draudimo išmokos dydis priklauso nuo tam asmeniui
 padarytų ar jo patirtų nuostolių, asmens patirtų kitų išlaidų dydžio, tačiau
@@ -389,8 +410,13 @@ vykdo draudimo veiklą, yra registruota užsienio valstybėje ir kuri pagal
 vykdomos veiklos pobūdį privalėtų gauti šiame Įstatyme nustatytą ar lygiavertę
 draudimo veiklos licenciją tuo atveju, jeigu ji būtų registruota Lietuvos
 Respublikoje ar kitoje Europos Sąjungos valstybėje narėje.
+Straipsnio
+pakeitimai:
+Nr. X-1139, 2007-05-17, Žin., 2007, Nr. 61-2342
+(2007-06-02)
  
-3 straipsnis. Draudimo veikla
+3 straipsnis. Draudimo
+veikla
 1. Lietuvos Respublikoje draudimo veiklą turi teisę
 vykdyti tik: 
 1) Lietuvos Respublikos įstatymų nustatyta tvarka
@@ -422,7 +448,8 @@ valstybės draudimo įmonės filialo, įsteigto Lietuvos Respublikoje, ar kitos
 Europos Sąjungos valstybės narės draudimo įmonės filialo, įsteigto Lietuvos
 Respublikoje, draudimo apsauga. 
  
-4 straipsnis. Perdraudimo veikla
+4 straipsnis.
+Perdraudimo veikla
 Lietuvos Respublikoje perdraudimo veiklą turi teisę
 vykdyti tik šio Įstatymo 3 straipsnio 1 dalyje nurodyti subjektai bei: 
 1) Lietuvos Respublikos perdraudimo įmonės;
@@ -431,9 +458,10 @@ vykdyti tik šio Įstatymo 3 straipsnio 1 dalyje nurodyti subjektai bei:
 3) užsienio valstybių perdraudimo įmonės, tiek
 įsteigusios filialą Lietuvos Respublikoje, tiek ne.
  
-5 straipsnis. Draudimo ir perdraudimo tarpininkavimo veikla
-1. Lietuvos
-Respublikoje draudimo tarpininkavimu turi teisę verstis tik:
+5 straipsnis. Draudimo ir
+perdraudimo tarpininkavimo veikla
+1. Lietuvos Respublikoje
+draudimo tarpininkavimu turi teisę verstis tik:
 1) Lietuvos
 Respublikos įstatymų nustatyta tvarka įsteigtos bet kokios teisinės formos
 įmonės (draudimo agentų įmonės) ir fiziniai asmenys, kurie Lietuvos Respublikos
@@ -471,7 +499,8 @@ teisę teikti paslaugas, draudžiama naudotis neturinčių teisės vykdyti draud
 ar perdraudimo tarpininkavimo veiklos asmenų draudimo ar perdraudimo
 tarpininkavimo paslaugomis. 
  
-6 straipsnis. Atstovybės 
+6 straipsnis.
+Atstovybės 
 Šiame Įstatyme nustatytos atitinkamos filialų
 steigimo, veiklos ir veiklos priežiūros taisyklės taikomos ir atstovybėms ar
 bet kuriems biurams, kuriems vadovauja juos įsteigusios įmonės darbuotojai ar
@@ -484,7 +513,8 @@ tarpininkų įmonė;
 kitos Europos Sąjungos valstybės narės draudimo įmonė ar draudimo tarpininkų
 įmonė.
  
-7 straipsnis. Draudimo šakos ir grupės
+7 straipsnis. Draudimo šakos
+ir grupės
 1. Draudimo šakos yra gyvybės ir ne gyvybės draudimas.
 2. Gyvybės draudimo šakai priskiriamos šios draudimo
 grupės:
@@ -499,8 +529,8 @@ fondais (kai investavimo rizika tenka draudėjui);
 draudimo grupės:
 1) draudimas nuo nelaimingų atsitikimų;
 2) draudimas ligos atvejui;
-3) sausumos transporto priemonių, išskyrus geležinkelio
-transporto priemones, draudimas;
+3) sausumos transporto priemonių, išskyrus
+geležinkelio transporto priemones, draudimas;
 4) geležinkelio transporto priemonių draudimas;
 5) skraidymo aparatų draudimas;
 6) laivų (jūrų ir vidaus vandenų) draudimas;
@@ -524,8 +554,8 @@ susijusios civilinės atsakomybės draudimas;
 4. Kai draudimo veiklos licencija ar leidimas užsienio
 valstybės draudimo įmonės filialo veiklai suteikia teisę vykdyti:
 1) draudimo grupių, nurodytų šio straipsnio 3 dalies 1
-ir 2 punktuose, veiklą, ši veikla vadinama draudimu nuo nelaimingų atsitikimų
-ir ligos atvejui (sveikatos draudimu);
+ir 2 punktuose, veiklą, ši veikla vadinama draudimu nuo nelaimingų atsitikimų ir
+ligos atvejui (sveikatos draudimu);
 2) draudimo grupei, nurodytai šio straipsnio 3 dalies
 1 punkte, priklausantį keleivių sužalojimo rizikos draudimą bei šio straipsnio
 3 dalies 3, 7 ir 10 punktuose nurodytų grupių veiklą, ši veikla vadinama
@@ -551,34 +581,34 @@ vadinama visų ne gyvybės draudimo šakos rizikų draudimu.
 ir ne gyvybės draudimo šakos draudimo grupių aprašymą, kuriuo draudimo įmonės
 ir užsienio valstybių draudimo įmonių filialai privalo vadovautis.
  
-8 straipsnis. Gyvybės ir ne gyvybės draudimo veiklos Lietuvos
-Respublikoje atskyrimas
+8 straipsnis. Gyvybės ir ne gyvybės draudimo veiklos
+Lietuvos Respublikoje atskyrimas
 1. Nė vienas šio Įstatymo 3 straipsnio 1 dalyje
 nurodytas subjektas neturi teisės vykdyti ir gyvybės, ir ne gyvybės draudimo
 veiklos kartu, išskyrus šio straipsnio 2 dalyje ir šio Įstatymo 224 straipsnio
 3 dalyje nustatytas išimtis bei atvejus, kai kitos Europos Sąjungos valstybės
 narės teisės aktai suteikia teisę kitos Europos Sąjungos valstybės narės
 draudimo įmonei vykdyti ir gyvybės, ir ne gyvybės draudimo veiklą.
-2. Šio Įstatymo 3 straipsnio 1 dalyje nurodyti subjektai,
-vykdantys gyvybės draudimą, taip pat turi teisę teisės aktų nustatyta tvarka
-vykdyti tik šio Įstatymo 7 straipsnio 3 dalies 1 ir 2 punktuose nurodytų ne
-gyvybės draudimo grupių veiklą. 
+2. Šio Įstatymo 3 straipsnio 1 dalyje nurodyti
+subjektai, vykdantys gyvybės draudimą, taip pat turi teisę teisės aktų
+nustatyta tvarka vykdyti tik šio Įstatymo 7 straipsnio 3 dalies 1 ir 2
+punktuose nurodytų ne gyvybės draudimo grupių veiklą. 
 3. Draudimo įmonės ir užsienio valstybių draudimo
 įmonių filialai privalo vadovautis gyvybės draudimo veiklos ir šio Įstatymo 7
 straipsnio 3 dalies 1 ir 2 punktuose nurodytų ne gyvybės draudimo grupių
 veiklos atskiro administravimo taisyklėmis, patvirtintomis Priežiūros
 komisijos.
  
-9 straipsnis.
-Ne gyvybės draudimo šakos papildomos draudimo rizikos 
+9 straipsnis. Ne gyvybės draudimo šakos papildomos
+draudimo rizikos 
 1. Draudimo įmonė, turinti draudimo veiklos licenciją,
 ar užsienio valstybės draudimo įmonės filialas, turintis leidimą filialo
 draudimo veiklai, išduotą pagrindinės draudimo rizikos, priklausančios ne
 gyvybės draudimo šakos draudimo grupei ar keletui jų, draudimo veiklai,
 nepakeitę draudimo veiklos licencijos ar leidimo filialo draudimo veiklai, turi
 teisę sudaryti draudimo sutartis ir dėl papildomų draudimo rizikų,
-priklausančių kitoms ne gyvybės draudimo šakos draudimo grupėms, tik jei yra
-visos šios sąlygos: 
+priklausančių kitoms ne gyvybės draudimo šakos draudimo grupėms, tik jei yra visos
+šios sąlygos: 
 1) papildoma draudimo rizika yra susijusi su
 pagrindine draudimo rizika;
 2) papildoma draudimo rizika yra susijusi su tuo pačiu
@@ -591,11 +621,11 @@ kitų draudimo grupių draudimo rizikų atžvilgiu, išskyrus šio straipsnio 3 
 dalyse nustatytus atvejus.
 3. Draudimo rizika, priklausanti šio Įstatymo 7
 straipsnio 3 dalies 17 punkte nurodytai draudimo grupei, gali būti laikoma
-papildoma šio Įstatymo 7 straipsnio 3 dalies 18 punkte nurodytos draudimo grupės
-rizikų atžvilgiu tik tuo atveju, kai yra įvykdytos šio straipsnio 1 dalyje
-nurodytos sąlygos ir kai pagrindinė rizika išimtinai yra susijusi su pagalbos
-teikimu asmenims, patiriantiems sunkumų kelionėje, išvykus iš namų ar iš
-nuolatinės gyvenamosios vietos.
+papildoma šio Įstatymo 7 straipsnio 3 dalies 18 punkte nurodytos draudimo
+grupės rizikų atžvilgiu tik tuo atveju, kai yra įvykdytos šio straipsnio 1
+dalyje nurodytos sąlygos ir kai pagrindinė rizika išimtinai yra susijusi su
+pagalbos teikimu asmenims, patiriantiems sunkumų kelionėje, išvykus iš namų ar
+iš nuolatinės gyvenamosios vietos.
 4. Draudimo rizika, priklausanti šio Įstatymo 7
 straipsnio 3 dalies 17 punkte nurodytai draudimo grupei, taip pat gali būti
 laikoma papildoma draudimo rizika tik kai yra įvykdytos šio straipsnio 1 dalyje
@@ -629,8 +659,8 @@ Sąjungos valstybės narės teisės akto reikalavimus, šio straipsnio 2 dalyje
 numatyti dydžiai nustatomi atsižvelgiant į konsoliduotoje finansinėje
 atskaitomybėje nurodytus dydžius.
  
-11 straipsnis. Nepriekaištingos
-reputacijos, kvalifikacijos ir patirties vertinimas
+11 straipsnis.
+Nepriekaištingos reputacijos, kvalifikacijos ir patirties vertinimas
 1. Fizinis asmuo nelaikomas nepriekaištingos
 reputacijos, jei:
 1) yra nuteistas už
@@ -669,12 +699,10 @@ straipsnyje nurodytus asmenis.
 II SKYRIUS
 LIETUVOS RESPUBLIKOS DRAUDIMO ĮMONĖS
  
-PIRMASIS
-SKIRSNIS
+PIRMASIS SKIRSNIS
 DRAUDIMO VEIKLOS LICENCIJA
  
-12 straipsnis.
-Draudimo veiklos licencija
+12 straipsnis. Draudimo veiklos licencija
 1. Draudimo įmonė turi teisę verstis draudimo veikla
 tik turėdama Priežiūros komisijos išduotą draudimo veiklos licenciją.
 Priežiūros komisija tvirtina draudimo veiklos licencijavimo taisykles.
@@ -715,14 +743,15 @@ draudimo įmonė per 5 darbo dienas privalo pranešti Priežiūros komisijai.
 steigimo dokumentai netenka galios, jeigu jie nebuvo pateikti juridinių asmenų
 registrui per 9 mėnesius nuo steigimo dokumentų sudarymo.
  
-13 straipsnis. Draudimo įmonės pavadinimas
+13 straipsnis. Draudimo
+įmonės pavadinimas
 Draudimo įmonės
 pavadinime privalo būti žodis „draudimas“. Joks kitas juridinis asmuo neturi
 teisės savo pavadinime naudoti šio žodžio bei junginio „draudimo įmonė“ ar į jį
 panašaus junginio, išskyrus įstatymų nustatytas išimtis.
  
-14 straipsnis. Prašymas draudimo veiklos licencijai
-gauti 
+14 straipsnis. Prašymas
+draudimo veiklos licencijai gauti 
 1. Pareiškėjai privalo Priežiūros komisijai pateikti
 prašymą išduoti draudimo veiklos licenciją.
 2. Kartu su prašymu
@@ -737,8 +766,8 @@ kitus akcininkus. Taip pat pateikiama Priežiūros komisijos nustatytos formos
 informacija apie kontroliuojančių juridinių asmenų bei dalyvaujančių įmonių
 priežiūros bei valdymo organų narius;
 4) Priežiūros komisijos nustatytos formos informacija
-apie draudimo įmonės stebėtojų tarybos pirmininką ir kitus stebėtojų tarybos narius,
-valdybos pirmininką ir kitus valdybos narius, administracijos vadovą;
+apie draudimo įmonės stebėtojų tarybos pirmininką ir kitus stebėtojų tarybos
+narius, valdybos pirmininką ir kitus valdybos narius, administracijos vadovą;
 5) Priežiūros komisijos nustatytos formos informacija
 apie vyriausiąjį buhalterį ir apie vyriausiąjį aktuarijų; 
 6) dokumentai,
@@ -774,13 +803,15 @@ draudimo įmonę ar kai akcinė bendrovė, uždaroji akcinė bendrovė ar Europo
 bendrovė keičia vykdomą veiklą į draudimo veiklą, nereikia pateikti šio
 straipsnio 2 dalies 7 punkte nurodytų dokumentų, tačiau papildomai reikia
 pateikti: 
-1) reorganizavimo
-sąlygas, sprendimą reorganizuoti juridinį asmenį ar keisti jo veiklos rūšį;
+1)
+reorganizavimo sąlygas, sprendimą reorganizuoti juridinį asmenį ar keisti jo
+veiklos rūšį;
 2) kiekvieno
 juridinio asmens registravimo pažymėjimo ar kito jį atitinkančio dokumento
-nuorašą, ankstesnės veiklos aprašymą, paskutinių metų audituotą finansinę atskaitomybę
-su auditoriaus išvada, jei Priežiūros komisija neturi teisės gauti finansinės
-atskaitomybės iš juridinių asmenų registro teisės aktų nustatyta tvarka;
+nuorašą, ankstesnės veiklos aprašymą, paskutinių metų audituotą finansinę
+atskaitomybę su auditoriaus išvada, jei Priežiūros komisija neturi teisės gauti
+finansinės atskaitomybės iš juridinių asmenų registro teisės aktų nustatyta
+tvarka;
 3) Priežiūros
 komisijos nustatytos formos informaciją apie kiekvieną juridinį asmenį
 kontroliuojančius asmenis, jame dalyvaujančias įmones ir visus kitus
@@ -810,8 +841,8 @@ minimalų garantinį fondą. Pareiškėjai privalo pateikti dokumentus, įrodan�
 minimalaus garantinio fondo suformavimą pinigais, bei duomenis apie šių pinigų
 kilmę.
  
-15 straipsnis. Draudimo veiklos licencijos
-išdavimas
+15 straipsnis. Draudimo
+veiklos licencijos išdavimas
 1. Per 6 mėnesius nuo prašymo išduoti draudimo veiklos
 licenciją ir visų dokumentų pateikimo dienos Priežiūros komisija priima
 sprendimą dėl draudimo veiklos licencijos išdavimo ir apie tai raštu praneša
@@ -867,12 +898,13 @@ minimalaus garantinio fondo pinigų kilmė nėra teisėta.
 3. Kilus įtarimui, jog įstatinis kapitalas,
 organizacinis fondas ir (ar) minimalus garantinis fondas gali būti apmokėti
 pinigais, kurių kilmė neteisėta, Priežiūros komisija privalo kreiptis į
-Valstybės saugumo departamentą su prašymu pateikti išvadą apie šių pinigų
-kilmę. Tokiu atveju terminų, numatytų šio straipsnio 1 dalyje ir 12 straipsnio
-11 dalyje, eiga sustabdoma ir atnaujinama tik gavus Valstybės saugumo
-departamento išvadą.
+Valstybės saugumo departamentą su prašymu pateikti išvadą apie šių pinigų kilmę.
+Tokiu atveju terminų, numatytų šio straipsnio 1 dalyje ir 12 straipsnio 11
+dalyje, eiga sustabdoma ir atnaujinama tik gavus Valstybės saugumo departamento
+išvadą.
  
-16 straipsnis. Konsultacijos su kitomis institucijomis
+16 straipsnis.
+Konsultacijos su kitomis institucijomis
 1. Prieš išduodama draudimo veiklos licenciją,
 Priežiūros komisija privalo konsultuotis su kitos Europos Sąjungos valstybės
 narės kompetentinga institucija dėl aplinkybių, reikšmingų priimant sprendimą
@@ -902,13 +934,15 @@ aplinkybių, reikšmingų nepriekaištingos reputacijos, kvalifikacijos bei
 patirties vertinimui, ir privalo teikti kitai institucijai informaciją apie
 šiuos asmenis, reikšmingą minėtų institucijų atliekamoms funkcijoms.
  
-17 straipsnis. Informacija apie pasikeitimus
+17 straipsnis. Informacija
+apie pasikeitimus
 Apie informacijos,
 nurodytos Priežiūros komisijai pateiktuose dokumentuose dėl draudimo veiklos
 licencijos išdavimo, pasikeitimus draudimo įmonė privalo pranešti Priežiūros
 komisijai šios patvirtintų licencijavimo taisyklių nustatyta tvarka.
  
-18 straipsnis. Draudimo veiklos licencijos pakeitimas
+18 straipsnis. Draudimo
+veiklos licencijos pakeitimas
 Draudimo įmonė, ketinanti vykdyti dar kitos ar kitų
 tai pačiai draudimo šakai priklausančių draudimo grupių draudimo veiklą arba
 išplėsti vykdomą draudimo veiklą iki visų tos pačios draudimo grupės rizikų
@@ -920,8 +954,8 @@ Priežiūros komisiją dėl draudimo veiklos licencijos pakeitimo. Priežiūros
 komisija priima sprendimą dėl licencijos pakeitimo per vieną mėnesį nuo visų
 licencijavimo taisyklėse numatytų dokumentų pateikimo.
  
-19 straipsnis. Draudimo veiklos licencijos galiojimo sustabdymas ir
-panaikinimas
+19 straipsnis. Draudimo veiklos licencijos galiojimo
+sustabdymas ir panaikinimas
 1.
 Esant šio Įstatymo 198 straipsnio 1 dalyje nustatytiems pagrindams, Priežiūros
 komisija turi teisę sustabdyti draudimo veiklos licencijos galiojimą.
@@ -960,8 +994,7 @@ privalo raštu nedelsdama pranešti draudimo įmonei.
 ANTRASIS SKIRSNIS
 DRAUDIMO ĮMONĖS VALDYMAS
  
-20 straipsnis.
-Bendrosios nuostatos
+20 straipsnis. Bendrosios nuostatos
 1. Draudimo įmonės
 akcininkai bei priežiūros ir valdymo organai privalo užtikrinti skaidrų,
 patikimą ir apdairų draudimo įmonės valdymą, draudimo įmonės veiklos vidaus
@@ -976,8 +1009,8 @@ dalyvaujančios įmonės privalo būti nepriekaištingos reputacijos, o draudimo
 kontroliuojančiosios (holdingo) įmonės priežiūros, valdymo organų nariai ir
 administracijos vadovas privalo būti nepriekaištingos reputacijos, kvalifikuoti
 ir patyrę asmenys. Jei vienas ar keli draudimo įmonės steigėjai iki draudimo
-veiklos licencijos gavimo nusprendžia perleisti akcijas kitiems asmenims,
-tokiam akcijų perleidimui taikomos šio Įstatymo 22 straipsnio nuostatos ir šio
+veiklos licencijos gavimo nusprendžia perleisti akcijas kitiems asmenims, tokiam
+akcijų perleidimui taikomos šio Įstatymo 22 straipsnio nuostatos ir šio
 Įstatymo 15 straipsnio 1 dalyje nustatytas terminas pratęsiamas šio Įstatymo 22
 straipsnio 4 dalyje nurodytu terminu.
 4. Draudimo įmonės stebėtojų tarybos nariai ir jos
@@ -993,8 +1026,8 @@ vyriausiojo buhalterio ir vyriausiojo aktuarijaus pareigas, kandidatūros
 privalo būti parinktos prieš draudimo įmonei gaunant draudimo veiklos
 licenciją.
  
-21
-straipsnis. Draudimo įmonės skaidrus, patikimas ir apdairus valdymas
+21 straipsnis. Draudimo įmonės skaidrus, patikimas ir
+apdairus valdymas
 1. Draudimo įmonės organizacinė struktūra ir valdymo
 sistema privalo užtikrinti skaidrų, apdairų ir patikimą vadovavimą draudimo
 įmonės veiklai. 
@@ -1034,15 +1067,16 @@ Straipsnio pakeitimai:
 Nr. X-733, 2006-06-27,
 Žin., 2006, Nr. 78-3059 (2006-07-18)
  
-22 straipsnis. Draudimo įmonės akcijų perleidimas
+22 straipsnis. Draudimo
+įmonės akcijų perleidimas
 1. Bet kuris asmuo ar glaudžiu ryšiu susiję asmenys,
 ketinantys perleisti draudimo įmonės akcijas, privalo apie tai pranešti
 Priežiūros komisijai ir nurodyti ketinamų perleisti akcijų skaičių ir būsimą jų
 savininką, jei:
 1) ketinama perleisti draudimo įmonės akcijas,
-sudarančias lygiai ar daugiau kaip 10 procentų draudimo įmonės įstatinio kapitalo,
-arba akcijas, suteikiančias lygiai ar daugiau kaip 10 procentų visų balsų
-draudimo įmonės visuotiniame akcininkų susirinkime;
+sudarančias lygiai ar daugiau kaip 10 procentų draudimo įmonės įstatinio
+kapitalo, arba akcijas, suteikiančias lygiai ar daugiau kaip 10 procentų visų
+balsų draudimo įmonės visuotiniame akcininkų susirinkime;
 2) ketinamos perleisti draudimo įmonės akcijos
 sumažins turimų akcijų skaičių taip, kad jis po akcijų perleidimo taps mažesnis
 už 10 procentų, 20 procentų, 33 procentus ar 50 procentų draudimo įmonės
@@ -1094,9 +1128,9 @@ grupės, kuriai priklauso draudimo įmonė, struktūros;
 akcijų įsigijimas prieštarauja kitų įstatymų nuostatoms.
 6.
 Jei asmuo, ketinantis įsigyti draudimo įmonių akcijų, yra kitos Europos
-Sąjungos valstybės narės draudimo įmonė, kredito įstaiga ar finansų maklerio įmonė,
-kitos Europos Sąjungos valstybės narės draudimo įmonės, kredito įstaigos ar
-finansų maklerio įmonės patronuojanti įmonė arba kitos Europos Sąjungos
+Sąjungos valstybės narės draudimo įmonė, kredito įstaiga ar finansų maklerio
+įmonė, kitos Europos Sąjungos valstybės narės draudimo įmonės, kredito įstaigos
+ar finansų maklerio įmonės patronuojanti įmonė arba kitos Europos Sąjungos
 valstybės narės draudimo įmonę, kredito įstaigą ar finansų maklerio įmonę
 kontroliuojantis asmuo ir jei po akcijų įsigijimo draudimo įmonė taps šio
 asmens dukterine ar kontroliuojama įmone, Priežiūros komisija, išduodama
@@ -1118,8 +1152,8 @@ kreiptis į Valstybės saugumo departamentą su prašymu pateikti išvadą apie 
 pinigų kilmę. Tokiu atveju termino, numatyto šio straipsnio 4 dalyje, eiga
 sustabdoma ir atnaujinama tik gavus Valstybės saugumo departamento išvadą.
  
-23 straipsnis. Draudimo įmonės stebėtojų
-taryba
+23 straipsnis. Draudimo
+įmonės stebėtojų taryba
 1. Jei draudimo
 įmonėje sudaroma stebėtojų taryba, išrinkus stebėtojų tarybos narius ir jos
 pirmininką, draudimo įmonė per 10 dienų privalo pateikti Priežiūros komisijai
@@ -1130,7 +1164,8 @@ atleidžia vidaus audito tarnybos vadovą arba vidaus auditorių, nustato
 metodinius nurodymus jų veiklai. Jei stebėtojų taryba nesudaroma, šias
 funkcijas atlieka draudimo įmonės valdyba.
  
-24 straipsnis. Draudimo įmonės valdyba
+24 straipsnis. Draudimo
+įmonės valdyba
 1.
 Kol bus išrinkti draudimo įmonės valdybos nariai ir valdybos pirmininkas,
 draudimo įmonė privalo pateikti Priežiūros komisijai jos nustatytos formos
@@ -1158,9 +1193,9 @@ draudiminių įvykių ir įvykių, kurie gali būti pripažinti draudiminiais, t
 taisykles;
 5) nustato draudėjų, apdraustųjų, naudos gavėjų ir
 nukentėjusių trečiųjų asmenų skundų nagrinėjimo ir atsakymo pareiškėjams
-teikimo tvarką, kuri privalo būti viešai paskelbta draudimo įmonės interneto
-tinklalapyje ir pateikta kiekvieno suinteresuoto asmens reikalavimu,
-suinteresuotam asmeniui apmokėjus pateikimo išlaidas; 
+teikimo tvarką, kuri privalo būti viešai paskelbta draudimo įmonės interneto tinklalapyje
+ir pateikta kiekvieno suinteresuoto asmens reikalavimu, suinteresuotam asmeniui
+apmokėjus pateikimo išlaidas; 
 6) patikrinusi
 reputaciją, kvalifikaciją ir patirtį, skiria bei atleidžia administracijos
 vadovą, vyriausiąjį buhalterį, vyriausiąjį aktuarijų;
@@ -1178,16 +1213,15 @@ Priežiūros komisijos rekomendacijas draudimo įmonės valdymo stiprinimo bei
 skaidraus, patikimo ir apdairaus valdymo klausimais.
 3. Kol bus išrinktas
 draudimo įmonės administracijos vadovas, draudimo įmonės valdyba privalo
-pateikti Priežiūros komisijai jos nustatytos formos informaciją ir gauti
-Priežiūros komisijos pritarimą asmens, pretenduojančio eiti administracijos
-vadovo pareigas, kandidatūrai. Priežiūros komisija sprendimą dėl pritarimo
+pateikti Priežiūros komisijai jos nustatytos formos informaciją ir gauti Priežiūros
+komisijos pritarimą asmens, pretenduojančio eiti administracijos vadovo
+pareigas, kandidatūrai. Priežiūros komisija sprendimą dėl pritarimo
 kandidatūrai priima per 30 darbo dienų.
 4. Paskyrusi vyriausiąjį buhalterį ir (ar) vyriausiąjį
 aktuarijų, draudimo įmonės valdyba per 10 dienų privalo pateikti Priežiūros
 komisijai jos nustatytos formos informaciją apie šiuos asmenis. 
  
-25 straipsnis.
-Vyriausiasis aktuarijus
+25 straipsnis. Vyriausiasis aktuarijus
 1. Draudimo įmonėje privalo būti vyriausiasis aktuarijus –
 draudimo matematikas. Draudimo įmonės vyriausiasis aktuarijus privalo:
 1) užtikrinti, kad draudimo įmonės draudimo įmokos
@@ -1201,10 +1235,10 @@ nurodytų šio Įstatymo 50 straipsnyje, pasekmes draudimo įmonės mokumui;
 padengimas turtu atitiktų draudimo įmonės veiklos pobūdį ir teisės aktų
 nustatytus reikalavimus, teikti draudimo įmonės valdybai pasiūlymus šiuo
 klausimu;
-4) siekti, kad draudimo įmonės persidraudimo
-strategija būtų pakankama prisiimtų draudimo ir perdraudimo rizikų valdymui
-kiekvienu momentu ir atitiktų teisės aktų nustatytus reikalavimus, teikti
-draudimo įmonės valdybai pasiūlymus šiuo klausimu;
+4) siekti, kad draudimo įmonės persidraudimo strategija
+būtų pakankama prisiimtų draudimo ir perdraudimo rizikų valdymui kiekvienu
+momentu ir atitiktų teisės aktų nustatytus reikalavimus, teikti draudimo įmonės
+valdybai pasiūlymus šiuo klausimu;
 5) teikti draudimo įmonės valdybai pasiūlymus dėl
 draudimo įmonės pelno paskirstymo draudėjams, sudariusiems gyvybės draudimo
 sutartis, pagal kurias jie turi teisę į draudiko pelno dalį;
@@ -1218,8 +1252,8 @@ patvirtintu profesinės etikos kodeksu.
 2. Nustatęs iškilusią grėsmę, kad draudimo įmonė gali
 tapti nepajėgi bet kuriuo metu įvykdyti pareigas, atsirandančias iš draudimo ar
 perdraudimo sutarčių, vyriausiasis aktuarijus apie tai nedelsdamas privalo
-pranešti bendrovės valdybai, o jei ši nedelsdama nesiima priemonių susidariusiai
-padėčiai ištaisyti – ir Priežiūros komisijai. 
+pranešti bendrovės valdybai, o jei ši nedelsdama nesiima priemonių
+susidariusiai padėčiai ištaisyti – ir Priežiūros komisijai. 
 3. Draudimo įmonės vyriausiasis aktuarijus turi teisę
 gauti visą jo funkcijoms atlikti reikalingą informaciją iš draudimo įmonės
 stebėtojų tarybos, valdybos, administracijos vadovo, vyriausiojo buhalterio,
@@ -1231,8 +1265,7 @@ organams draudžiama kištis į vyriausiojo aktuarijaus veiklą.
 įmonės vyriausiojo aktuarijaus teises, pareigas ir atsakomybę nustato
 draudimo įmonės valdybos tvirtinamas vyriausiojo aktuarijaus darbo reglamentas.
  
-26 straipsnis.
-Draudimo įmonės veiklos vidaus kontrolė
+26 straipsnis. Draudimo įmonės veiklos vidaus kontrolė
 1. Draudimo įmonės
 veiklos vidaus kontrolę draudimo įmonėje privalo užtikrinti patikima ir
 tinkamai veikianti vidaus kontrolės sistema.
@@ -1265,8 +1298,8 @@ parodo tikrą draudimo įmonės būklę ir veiklos rezultatus;
 2) vertina, kaip laikomasi teisės aktų, draudimo įmonės įstatų,
 draudimo įmonės stebėtojų tarybos ir valdybos nutarimų, administracijos vadovo
 įsakymų ir kitų vidaus teisės aktų ir kaip jie įgyvendinami; 
-3) tikrina, kaip atpažįstami, įvertinami, stebimi ir kontroliuojami
-sandoriai, nurodyti šio Įstatymo 50 straipsnyje;
+3) tikrina, kaip atpažįstami, įvertinami, stebimi ir kontroliuojami sandoriai,
+nurodyti šio Įstatymo 50 straipsnyje;
 4) tikrina ir vertina draudimo įmonės vidaus kontrolės sistemos
 tinkamumą ir veiksmingumą; 
 5) tikrina draudimo įmonės veiklos, strateginių tikslų ir priemonių
@@ -1286,7 +1319,8 @@ ir patikimai draudimo įmonės veiklai.
 6. Vidaus audito tarnyba arba vidaus auditorius turi
 teisę gauti visą jo funkcijoms atlikti reikalingą informaciją iš draudimo
 įmonės priežiūros ir valdymo organų, administracijos vadovo, vyriausiojo
-buhalterio, vyriausiojo aktuarijaus ir kitų draudimo įmonės administracijos darbuotojų.
+buhalterio, vyriausiojo aktuarijaus ir kitų draudimo įmonės administracijos
+darbuotojų.
 7. Vidaus audito tarnyba arba vidaus auditorius
 vykdydamas pareigas yra atskaitingas tik draudimo įmonės stebėtojų tarybai.
 Vidaus audito tarnyba arba vidaus auditorius turi būti nepriklausomi nuo
@@ -1302,8 +1336,8 @@ tarnybos arba vidaus auditoriaus teisių ir pareigų įtvirtinimo.
 įmonėje stebėtojų taryba nesudaroma, šiame straipsnyje nurodytas stebėtojų
 tarybos funkcijas, teises ir pareigas vykdo draudimo įmonės valdyba.
  
-27 straipsnis. Draudimo įmonės sutartys su
-kitais asmenimis
+27 straipsnis. Draudimo
+įmonės sutartys su kitais asmenimis
 1. Draudimo įmonė, sudarydama sutartis su kitais
 asmenimis dėl draudimo įmonės draudžiamo turto vertinimo, draudimo sutarčių
 sudarymo, draudiminių įvykių administravimo, investicijų ir (ar) turto valdymo,
@@ -1329,20 +1363,22 @@ draudėjų, apdraustųjų, naudos gavėjų interesai, turi teisę įpareigoti dr
 pagal šio straipsnio 1 dalyje nurodytas sutartis vykdo kiti asmenys, vykdytų
 pati draudimo įmonė.
  
-28 straipsnis. Draudimo įmonės filialai
+28 straipsnis. Draudimo
+įmonės filialai
 Draudimo įmonės filialai Lietuvos Respublikoje ir
 užsienio valstybėse steigiami Priežiūros komisijos nustatyta tvarka gavus
 leidimą steigti filialą.
  
-29 straipsnis. Interesų konflikto ribojimai
+29 straipsnis. Interesų
+konflikto ribojimai
 1. Draudimo įmonės
 administracijos vadovas negali vykdyti stebėtojų tarybos nario, vyriausiojo
-buhalterio, vyriausiojo aktuarijaus pareigų bei būti kitos draudimo įmonės
-stebėtojų tarybos, valdybos nariu ar dirbti kitos draudimo įmonės
-administracijoje, tačiau patronuojančios draudimo įmonės administracijos
-vadovas turi teisę būti dukterinės draudimo įmonės stebėtojų tarybos ir
-valdybos nariu, o dukterinės draudimo įmonės administracijos vadovas turi teisę
-būti patronuojančios draudimo įmonės stebėtojų tarybos ir valdybos nariu.
+buhalterio, vyriausiojo aktuarijaus pareigų bei būti kitos draudimo įmonės stebėtojų
+tarybos, valdybos nariu ar dirbti kitos draudimo įmonės administracijoje,
+tačiau patronuojančios draudimo įmonės administracijos vadovas turi teisę būti
+dukterinės draudimo įmonės stebėtojų tarybos ir valdybos nariu, o dukterinės
+draudimo įmonės administracijos vadovas turi teisę būti patronuojančios
+draudimo įmonės stebėtojų tarybos ir valdybos nariu.
 2. Draudimo įmonės
 stebėtojų tarybos ar valdybos nariu negali būti vidaus auditorius arba kitos
 draudimo įmonės auditorius. Draudimo įmonės stebėtojų tarybos nariu gali būti
@@ -1363,7 +1399,8 @@ TREČIASIS SKIRSNIS
 DRAUDIMO
 ĮMONIŲ FINANSAI
  
-30 straipsnis. Organizacinis fondas
+30 straipsnis.
+Organizacinis fondas
 1. Steigėjai, į draudimo įmonę reorganizuojamas
 juridinis asmuo (asmenys) ar keičiantis veiklą į draudimo įmonės veiklą
 juridinis asmuo privalo sudaryti organizacinį pinigų fondą, skirtą draudimo
@@ -1376,8 +1413,7 @@ pinigų.
 4. Organizacinis fondas negali būti sudarytas iš
 skolintų pinigų bei pinigų, kurių kilmė nėra teisėta.
  
-31
-straipsnis. Įstatinis kapitalas
+31 straipsnis. Įstatinis kapitalas
 1. Draudimo įmonės įstatinis kapitalas negali būti
 mažesnis kaip 1 000 000 eurų.
 2. Dėl įstatinio kapitalo padidinimo ar sumažinimo
@@ -1392,8 +1428,7 @@ Draudimo įmonės akcijos privalo būti apmokėtos tik pinigais.
 4. Draudimo įmonės akcijos negali būti apmokėtos
 skolintais pinigais bei pinigais, kurių kilmė nėra teisėta.
  
-32 straipsnis.
-Nuosavas ir skolintas kapitalas
+32 straipsnis. Nuosavas ir skolintas kapitalas
 1. Draudimo įmonės nuosavo kapitalo sudėtį
 reglamentuoja Akcinių bendrovių įstatymas, tačiau juridinių asmenų registre
 įregistravus draudimo įmonę, taip pat su veiklos rūšies keitimu susijusius
@@ -1405,7 +1440,8 @@ iš:
 3) kitų įsipareigojimų;
 4) sukauptų sąnaudų ir būsimųjų laikotarpių pajamų.
  
-33 straipsnis. Verslo planas
+33 straipsnis. Verslo
+planas
 1. Draudimo įmonė privalo savo veiklą grįsti verslo
 planu. Apie šio plano numatomus pakeitimus draudimo įmonė privalo pranešti
 Priežiūros komisijai ir suderinti pakeitimus Priežiūros komisijos nustatyta
@@ -1413,8 +1449,7 @@ tvarka.
 2. Draudimo įmonės verslo plano turinį, formą ir jo
 pateikimo tvarką nustato Priežiūros komisija.
  
-34
-straipsnis. Draudimo techniniai atidėjiniai
+34 straipsnis. Draudimo techniniai atidėjiniai
 1.
 Draudimo įmonė privalo Priežiūros komisijos nustatyta tvarka sudaryti
 pakankamus draudimo techninius atidėjinius ir užtikrinti, kad juos visiškai
@@ -1430,8 +1465,8 @@ techninius atidėjinius:
 5) nuostolių svyravimo išlyginimo;
 6) kitus draudimo techninius atidėjinius.
  
-35
-straipsnis. Draudimo techninių atidėjinių padengimas turtu
+35 straipsnis. Draudimo techninių atidėjinių
+padengimas turtu
 1. Kaupdamos draudimo techninius atidėjinius dengiantį
 turtą, draudimo įmonės privalo atsižvelgti į įmonės veiklos pobūdį ir siekti
 investicijų saugumo, likvidumo, diversifikavimo, atitikimo laikotarpio
@@ -1443,8 +1478,8 @@ Priežiūros komisijos nustatytų valiutų suderinamumo taisyklių.
 3. Draudimo techninius atidėjinius galima padengti tik šiuo turtu:
 1) vyriausybės,
 centrinio banko ir savivaldybės vertybiniais popieriais;
-2) nekilnojamuoju
-turtu;
+2)
+nekilnojamuoju turtu;
 3) terminuotais
 indėliais bankuose;
 4) paskolomis,
@@ -1473,8 +1508,8 @@ nustatytais atvejais gavus Priežiūros komisijos leidimą;
 pinigais atsiskaitomojoje sąskaitoje ir kasoje;
 14)
 naujai išleidžiamomis obligacijomis, jeigu emisijos sąlygose yra numatytas
-įsipareigojimas ne vėliau kaip per 1 metus nuo šių vertybinių popierių
-išleidimo įtraukti juos į prekybą reguliuojamose rinkose;
+įsipareigojimas ne vėliau kaip per 1 metus nuo šių vertybinių popierių išleidimo
+įtraukti juos į prekybą reguliuojamose rinkose;
 15)
 pinigų rinkos priemonėmis, kurios yra įtrauktos į prekybą reguliuojamose
 rinkose;
@@ -1496,10 +1531,10 @@ dengiančias investicijas:
 1) į glaudžiais
 ryšiais susijusių įmonių akcijas ir obligacijas; 
 2)
-į įmonių, kurių akcijų yra įsigiję draudimo įmonės stebėtojų tarybos, valdybos
-nariai ir (ar) administracijos vadovas arba kurių priežiūros ir valdymo
-organuose pareigas eina draudimo įmonės stebėtojų tarybos ir valdybos nariai,
-akcijas ir obligacijas; 
+į įmonių, kurių akcijų yra įsigiję draudimo įmonės stebėtojų tarybos, valdybos nariai
+ir (ar) administracijos vadovas arba kurių priežiūros ir valdymo organuose
+pareigas eina draudimo įmonės stebėtojų tarybos ir valdybos nariai, akcijas ir
+obligacijas; 
 3)
 kurios gali pakenkti draudimo įmonės finansiniam stabilumui ar padaryti kitokį
 neigiamą poveikį draudimo įmonės veiklai, draudėjų, apdraustųjų, naudos gavėjų
@@ -1522,8 +1557,9 @@ Nr.
 X-798,
 2006-07-19, Žin., 2006, Nr. 87-3409 (2006-08-08)
  
-36 straipsnis. Draudimo techninių
-atidėjinių sudarymo ir jų padengimo turtu reikalavimų nevykdymas
+36 straipsnis.
+Draudimo techninių atidėjinių sudarymo ir jų padengimo turtu reikalavimų
+nevykdymas
 1. Jei draudimo įmonė nevykdo draudimo techninių
 atidėjinių sudarymo ir jų padengimo turtu reikalavimų, Priežiūros komisija,
 prieš tai pranešusi kitos Europos Sąjungos valstybės narės, kurioje yra
@@ -1547,7 +1583,8 @@ Nr.
 X-798,
 2006-07-19, Žin., 2006, Nr. 87-3409 (2006-08-08)
  
-37 straipsnis. Perdraudimas
+37 straipsnis.
+Perdraudimas
 1. Draudimo veiklos licencija suteikia teisę draudimo
 įmonei vykdyti perdraudimo veiklą.
 2. Draudimo įmonės gali vykdyti perdraudimo veiklą tik
@@ -1558,21 +1595,22 @@ Draudimo įmonės vykdomam perdraudimui taikomi reikalavimai, analogiški draudi
 techninių atidėjinių sudarymo, padengimo turtu, apskaitos ir kitiems
 reikalavimams, nustatytiems draudimo grupės draudimo veiklos vykdymui.
  
-38 straipsnis. Persidraudimas
+38 straipsnis.
+Persidraudimas
 1. Draudimo įmonės persidrausti (perduoti prisiimtos
 rizikos dalį), sudarydamos perdraudimo sutartis, turi teisę tik su asmenimis,
 nurodytais šio Įstatymo 4 straipsnyje.
 2. Persidraudimo tikslas gali būti nuostolių dėl
-prisiimtos draudimo rizikos sumažinimas, būtinosios mokumo atsargos sumažinimas,
-turimo kapitalo efektyvesnis naudojimas ar galimybės prisiimti kitas draudimo
-rizikas išplėtimas.
+prisiimtos draudimo rizikos sumažinimas, būtinosios mokumo atsargos
+sumažinimas, turimo kapitalo efektyvesnis naudojimas ar galimybės prisiimti
+kitas draudimo rizikas išplėtimas.
 3. Draudimo įmonė, atsižvelgiant į prisiimtas draudimo
 rizikas, kiekvienu momentu privalo būti pakankamai persidraudusi.
-4. Draudimo įmonė pasirenka perdraudiką pagal savo
-persidraudimo strategiją, tvirtinamą draudimo įmonės valdybos ne rečiau kaip
-vieną kartą per metus, o draudimo įmonės, vykdančios gyvybės draudimą – ne
-rečiau kaip kartą per trejus metus ir apimančią visas prisiimamas draudimo
-rizikas. Persidraudimo strategija privalo apimti:
+4. Draudimo įmonė pasirenka perdraudiką pagal savo persidraudimo
+strategiją, tvirtinamą draudimo įmonės valdybos ne rečiau kaip vieną kartą per
+metus, o draudimo įmonės, vykdančios gyvybės draudimą – ne rečiau kaip kartą
+per trejus metus ir apimančią visas prisiimamas draudimo rizikas. Persidraudimo
+strategija privalo apimti:
 1) persidraudimo programos perdraudimo sutarčių rūšis
 ir apimtis, draudimo įmonėje pasiliekamos draudimo rizikos dydžius;
 2) perdraudiko pasirinkimo kriterijus ir (ar)
@@ -1591,14 +1629,13 @@ komisija turi teisę įpareigoti draudimo įmonę pakeisti ar nutraukti sudaryta
 perdraudimo sutartis, jei pažeidžiami Priežiūros komisijos nustatyti
 persidraudimo reikalavimai ir perdraudiko pasirinkimo kriterijai. 
  
-39
-straipsnis. Mokumo atsarga
+39 straipsnis. Mokumo atsarga
 1.
 Kiekviena draudimo įmonė visą ūkinės komercinės veiklos laikotarpį privalo
 išlaikyti pakankamą mokumo atsargą: turima mokumo atsarga turi būti ne mažesnė
 už būtinąją mokumo atsargą ir garantinis fondas turi būti ne mažesnis už
-minimalų garantinį fondą. Mokumo atsarga skaičiuojama Priežiūros komisijos
-nustatyta tvarka.
+minimalų garantinį fondą. Mokumo atsarga skaičiuojama Priežiūros komisijos nustatyta
+tvarka.
 2.
 Turimos mokumo atsargos dalis, lygi didesniam iš šių dydžių – minimaliam
 garantiniam fondui ar 1/3 būtinosios mokumo atsargos, sudaro garantinį fondą. 
@@ -1610,17 +1647,16 @@ gyvybės draudimo veiklą;
 draudimo veiklą;
 3)
 3 000 000 eurų draudimo įmonei, kuri vykdo bent vienos iš šio Įstatymo 7
-straipsnio 3 dalies 10–15 punktuose nurodytoms draudimo grupėms priklausančios
-draudimo rizikos draudimo veiklą.
+straipsnio 3 dalies 10–15 punktuose nurodytoms draudimo grupėms priklausančios draudimo
+rizikos draudimo veiklą.
 4.
 Minimalaus garantinio fondo dydis indeksuojamas Priežiūros komisijos nustatyta
 tvarka. 
  
-40
-straipsnis. Finansinės būklės atkūrimo planai
+40 straipsnis. Finansinės būklės atkūrimo planai
 1.
-Draudimo įmonė, pažeidusi mokumo atsargos reikalavimus, apie tai nedelsdama
-privalo pranešti Priežiūros komisijai.
+Draudimo įmonė, pažeidusi mokumo atsargos reikalavimus, apie tai nedelsdama privalo
+pranešti Priežiūros komisijai.
 2.
 Priežiūros komisijos reikalavimu draudimo įmonė privalo nedelsdama padidinti
 turimą mokumo atsargą arba Priežiūros komisijos nustatyta tvarka privalo
@@ -1628,12 +1664,12 @@ pateikti Priežiūros komisijai nustatytos formos draudimo įmonės tvirtos
 finansinės būklės atkūrimo planą. 
 3. Ypatingais atvejais, jei yra grėsmė, jog draudimo
 įmonės finansinė būklė gali dar labiau pablogėti, Priežiūros komisija turi
-teisę areštuoti draudimo įmonės turtą, dengiantį draudimo techninius atidėjinius,
-prieš tai pranešusi kitos Europos Sąjungos valstybės narės, kurioje draudimo
-įmonė vykdo veiklą, kompetentingai institucijai. Priežiūros komisija turi teisę
-prašyti, kad kitos Europos Sąjungos valstybės narės, kurioje draudimo įmonė
-vykdo veiklą, kompetentinga institucija nustatytų analogiškus apribojimus
-kitoje Europos Sąjungos valstybėje narėje. 
+teisę areštuoti draudimo įmonės turtą, dengiantį draudimo techninius
+atidėjinius, prieš tai pranešusi kitos Europos Sąjungos valstybės narės,
+kurioje draudimo įmonė vykdo veiklą, kompetentingai institucijai. Priežiūros
+komisija turi teisę prašyti, kad kitos Europos Sąjungos valstybės narės,
+kurioje draudimo įmonė vykdo veiklą, kompetentinga institucija nustatytų
+analogiškus apribojimus kitoje Europos Sąjungos valstybėje narėje. 
 4. Priežiūros komisija turi teisę nustatyti tvirtos
 finansinės būklės atkūrimo trumpalaikio plano reikalavimus ir jo pateikimo
 tvarką.
@@ -1664,8 +1700,8 @@ užtikrinta minimali mokumo atsarga.
 Šio straipsnio nuostatos neatima teisės Priežiūros komisijai taikyti kitų šiame
 Įstatyme nustatytų poveikio priemonių.
  
-41
-straipsnis. Teisių ir pareigų pagal draudimo sutartis perleidimas
+41 straipsnis. Teisių ir pareigų pagal draudimo
+sutartis perleidimas
 1. Draudimo įmonė rašytinės sutarties pagrindu
 ir gavusi Priežiūros komisijos leidimą turi teisę teises ir pareigas pagal
 draudimo sutartis perleisti kitai draudimo įmonei, kitos Europos Sąjungos
@@ -1694,13 +1730,13 @@ institucija.
 Jei šio straipsnio 2–4 dalyse nurodyta informacija nėra gaunama per 3 mėnesius,
 laikoma, kad kitos Europos Sąjungos valstybės narės kompetentinga institucija
 neprieštarauja, jog teisės ir pareigos pagal draudimo sutartis būtų perleistos.
-6. Rašytinėje sutartyje dėl teisių ir pareigų perleidimo
-privalo būti sąlyga, jog teisių ir pareigų perleidimas laikomas įvykusiu nuo
-Priežiūros komisijos leidimo perleisti teises ir pareigas paskelbimo „Valstybės
-žinių“ priede „Informaciniai pranešimai“.
+6. Rašytinėje sutartyje dėl teisių ir pareigų
+perleidimo privalo būti sąlyga, jog teisių ir pareigų perleidimas laikomas
+įvykusiu nuo Priežiūros komisijos leidimo perleisti teises ir pareigas
+paskelbimo „Valstybės žinių“ priede „Informaciniai pranešimai“.
  
-42 straipsnis. Leidimo perleisti
-teises ir pareigas pagal draudimo sutartis išdavimas
+42 straipsnis.
+Leidimo perleisti teises ir pareigas pagal draudimo sutartis išdavimas
 1. Draudimo
 įmonė ketinimą perleisti teises ir pareigas pagal draudimo sutartis privalo
 paskelbti mažiausiai 2 dienraščiuose, platinamuose visoje Lietuvos Respublikoje
@@ -1754,11 +1790,12 @@ pareigas pagal draudimo sutartis gali būti išduodamas tik tuo atveju, jei
 Priežiūros komisija pritaria Priežiūros komisijos nustatyta tvarka pateiktam
 draudimo techninius atidėjinius dengiančio turto atkūrimo planui.
  
-43 straipsnis. Apskaita, atskaitomybė ir auditas
+43 straipsnis. Apskaita,
+atskaitomybė ir auditas
 1. Draudimo
 įmonės privalo tvarkyti buhalterinę apskaitą ir sudaryti finansinę atskaitomybę
-vadovaudamosi įstatymais, Priežiūros komisijos nutarimais ir kitais teisės aktais,
-taip pat draudimo įmonės pasirinkta apskaitos politika.
+vadovaudamosi įstatymais, Priežiūros komisijos nutarimais ir kitais teisės
+aktais, taip pat draudimo įmonės pasirinkta apskaitos politika.
 2. Draudimo įmonės
 veiklos apskaitos sistema privalo būti organizuota taip, kad:
 1) finansinė
@@ -1831,7 +1868,8 @@ PAPILDOMA
 DRAUDIMO ĮMONIŲ, PRIKLAUSANČIŲ ĮMONIŲ GRUPEI,
 PRIEŽIŪRA
  
-44 straipsnis. Ketvirtojo skirsnio nuostatų taikymas
+44 straipsnis. Ketvirtojo
+skirsnio nuostatų taikymas
 1. Šio skirsnio nuostatos taikomos draudimo
 įmonėms ir kitoms šiame skirsnyje numatytoms įmonėms.
 2.
@@ -1862,8 +1900,7 @@ Nr.
 IX-2388,
 2004-07-15, Žin., 2004, Nr. 120-4434 (2004-08-03)
  
-45
-straipsnis. Papildomos priežiūros apimtis
+45 straipsnis. Papildomos priežiūros apimtis
 1.
 Vykdant papildomą priežiūrą taip pat atsižvelgiama į:
 1)
@@ -1891,29 +1928,26 @@ draudimo įmonių papildomos priežiūros tikslams;
 papildomos priežiūros reikalavimų taikymas, atsižvelgiant į papildomos draudimo
 įmonių priežiūros tikslus, būtų nepagrįstas ar klaidinantis.
  
-46
-straipsnis. Kompetentingos institucijos
+46 straipsnis. Kompetentingos institucijos
 1.
 Papildomą priežiūrą vykdo kompetentinga institucija, išdavusi draudimo veiklos
 licenciją.
 2.
 Jei draudimo įmonės ir dar vienos (ar daugiau) kitos Europos Sąjungos
-valstybės narės draudimo įmonės patronuojanti įmonė yra ta pati draudimo
-kontroliuojančioji (holdingo) įmonė, perdraudimo įmonė, kitos užsienio
-valstybės draudimo įmonė ar mišrios veiklos draudimo kontroliuojančioji
-(holdingo) įmonė, tai kompetentinga institucija, atsakinga už papildomą
-priežiūrą, nustatoma Priežiūros komisijos susitarimu su kitų Europos Sąjungos
-valstybių narių draudimo įmonių priežiūrą vykdančiomis institucijomis. Šio
-susitarimo pagrindu Priežiūros komisijai gali būti pavesta vykdyti papildomą
-priežiūrą.
+valstybės narės draudimo įmonės patronuojanti įmonė yra ta pati draudimo kontroliuojančioji
+(holdingo) įmonė, perdraudimo įmonė, kitos užsienio valstybės draudimo įmonė ar
+mišrios veiklos draudimo kontroliuojančioji (holdingo) įmonė, tai kompetentinga
+institucija, atsakinga už papildomą priežiūrą, nustatoma Priežiūros komisijos
+susitarimu su kitų Europos Sąjungos valstybių narių draudimo įmonių priežiūrą
+vykdančiomis institucijomis. Šio susitarimo pagrindu Priežiūros komisijai gali
+būti pavesta vykdyti papildomą priežiūrą.
 3.
 Jei už papildomą priežiūrą yra atsakinga kitos Europos Sąjungos valstybės narės
 kompetentinga institucija, ji Lietuvos Respublikoje draudimo įmonių ir
 subjektų, kuriems taikoma papildoma priežiūra, atžvilgiu turi tokias pačias
 teises į informaciją kaip ir Priežiūros komisija. 
  
-47
-straipsnis. Vidaus kontrolė ir teisė į informaciją
+47 straipsnis. Vidaus kontrolė ir teisė į informaciją
 1.
 Kiekviena draudimo įmonė, kuriai taikomi papildomos priežiūros reikalavimai,
 privalo turėti pakankamą vidaus kontrolės sistemą, kuri užtikrintų duomenų ir
@@ -1925,8 +1959,8 @@ reikalavimai, reikalavimu privalo teikti šiai draudimo įmonei informaciją,
 reikšmingą papildomai priežiūrai, ir turi teisę reikalauti, kad tokią
 informaciją pateiktų pati draudimo įmonė, kuri privalo tai padaryti.
  
-48
-straipsnis. Priežiūros komisijos teisė į informaciją
+48 straipsnis. Priežiūros komisijos teisė į
+informaciją
 1.
 Priežiūros komisija turi teisę tiesiogiai kreiptis į šio Įstatymo 45 straipsnio
 1 dalyje nurodytas įmones dėl informacijos, reikšmingos papildomai draudimo
@@ -1944,8 +1978,7 @@ draudimo įmonėje, kuriai taikomi papildomos priežiūros reikalavimai;
 4)
 kitose šios draudimo įmonės patronuojančios įmonės dukterinėse įmonėse.
  
-49
-straipsnis. Bendradarbiavimas
+49 straipsnis. Bendradarbiavimas
 1.
 Kai draudimo įmonės ir kitų Europos Sąjungos valstybių narių draudimo įmonės
 yra tiesiogiai ar netiesiogiai susijusios glaudžiu ryšiu arba turi bendrą jose
@@ -1962,8 +1995,7 @@ bendradarbiauti su atitinkamomis Lietuvos Respublikos ir kitos Europos Sąjungos
 valstybės narės ar užsienio valstybės institucijomis ir teikti informaciją,
 kuri supaprastintų visų šių institucijų funkcijų vykdymą.
  
-50
-straipsnis. Sandoriai įmonių grupės viduje
+50 straipsnis. Sandoriai įmonių grupės viduje
 1.
 Priežiūros komisija turi teisę gauti informaciją apie šio straipsnio 3 dalyje
 nurodytus sandorius tarp draudimo įmonės ir:
@@ -2007,14 +2039,15 @@ punkte nurodytus sandorius, privalo nurodyti draudimo įmonei, kurie sandoriai
 yra reikšmingi papildomai priežiūrai. 
 5.
 Jei iš pateiktos informacijos matyti, jog draudimo įmonės mokumui kyla ar gali
-kilti pavojus, Priežiūros komisija privalo imtis šiame Įstatyme nustatytų poveikio
-priemonių. 
+kilti pavojus, Priežiūros komisija privalo imtis šiame Įstatyme nustatytų
+poveikio priemonių. 
  
-51 straipsnis. 44 straipsnio 2 dalyje nurodytos
-draudimo įmonės koreguota mokumo atsarga
+51 straipsnis. 44
+straipsnio 2 dalyje nurodytos draudimo įmonės koreguota mokumo atsarga
 1.
 Šio Įstatymo 44 straipsnio 2 dalyje nurodytai draudimo įmonei taikomi
-Priežiūros komisijos nustatyti koreguotos mokumo atsargos skaičiavimo reikalavimai.
+Priežiūros komisijos nustatyti koreguotos mokumo atsargos skaičiavimo
+reikalavimai.
 2.
 Bet kuri susijusi įmonė, dalyvaujanti įmonė ar įmonė, susijusi su dalyvaujančia
 įmone, įtraukiama skaičiuojant koreguotą draudimo įmonės mokumo atsargą.
@@ -2023,16 +2056,16 @@ Jei skaičiavimai rodo nepakankamą šio Įstatymo 44 straipsnio 2 dalyje nurody
 draudimo įmonės koreguotą mokumo atsargą, Priežiūros komisija privalo imtis
 šiame Įstatyme nustatytų poveikio priemonių. 
  
-52 straipsnis. 44 straipsnio 3 dalyje nurodytos
-draudimo įmonės koreguota mokumo atsarga
+52 straipsnis. 44
+straipsnio 3 dalyje nurodytos draudimo įmonės koreguota mokumo atsarga
 1.
 Šio Įstatymo 44 straipsnio 3 dalyje nurodytai draudimo įmonei taikomi
 Priežiūros komisijos nustatyti koreguotos mokumo atsargos skaičiavimo
 reikalavimai.
 2.
 Visos su draudimo kontroliuojančiąja (holdingo) įmone susijusios įmonės,
-perdraudimo įmonės ar užsienio valstybės draudimo įmonės įtraukiamos skaičiuojant
-koreguotą draudimo įmonės mokumo atsargą.
+perdraudimo įmonės ar užsienio valstybės draudimo įmonės įtraukiamos
+skaičiuojant koreguotą draudimo įmonės mokumo atsargą.
 3.
 Jei skaičiavimai rodo, kad šio Įstatymo 44 straipsnio 3 dalyje nurodytos
 draudimo įmonės mokumui kyla ar gali kilti pavojus, Priežiūros komisija privalo
@@ -2042,8 +2075,9 @@ PENKTASIS SKIRSNIS
 DRAUDIMO ĮMONIŲ VEIKLA kitose EUROPOS SĄJUNGOS VALSTYBĖSE
 NARĖSE
  
-53 straipsnis. Draudimo įmonių teisė
-teikti paslaugas kitoje Europos Sąjungos valstybėje narėje
+53 straipsnis.
+Draudimo įmonių teisė teikti paslaugas kitoje Europos Sąjungos valstybėje
+narėje
 1. Draudimo įmonė, ketinanti teikti paslaugas kitoje
 Europos Sąjungos valstybėje narėje, privalo apie tai pranešti Priežiūros
 komisijai, kartu nurodydama ir rizikas, dėl kurių ketinama sudaryti draudimo
@@ -2051,9 +2085,9 @@ sutartis, bei pateikti šio straipsnio 2 dalies 4 punkte nurodytus dokumentus.
 Informacija ir dokumentai privalo būti pateikti lietuvių ir anglų kalbomis bei
 kitos Europos Sąjungos valstybės narės valstybine kalba arba viena iš
 valstybinių kalbų, jei pagal kitos Europos Sąjungos valstybės narės teisės
-aktus šiai Europos Sąjungos valstybės narės kompetentingai institucijai visi dokumentai
-privalo būti pateikiami tos Europos Sąjungos valstybės narės valstybine kalba
-arba viena iš valstybinių kalbų.
+aktus šiai Europos Sąjungos valstybės narės kompetentingai institucijai visi
+dokumentai privalo būti pateikiami tos Europos Sąjungos valstybės narės
+valstybine kalba arba viena iš valstybinių kalbų.
 2. Per vieną mėnesį nuo šio straipsnio 1 dalyje
 numatytos informacijos gavimo, jei nėra šio straipsnio 3 dalyje numatytų
 aplinkybių, Priežiūros komisija privalo išsiųsti, kartu apie išsiuntimą tą
@@ -2095,11 +2129,11 @@ bei atsisakymui išsiųsti taikomos šio straipsnio 1–5 dalių nuostatos.
 Priežiūros komisijos atsisakymas išsiųsti informaciją atima teisę draudimo
 įmonei atlikti planuojamus pakeitimus. 
  
-54 straipsnis. Draudimo įmonės
-filialo kitoje Europos Sąjungos valstybėje narėje steigimas
+54 straipsnis.
+Draudimo įmonės filialo kitoje Europos Sąjungos valstybėje narėje steigimas
 1. Draudimo įmonė, ketinanti steigti filialą kitoje
-Europos Sąjungos valstybėje narėje, privalo pateikti Priežiūros komisijai šią
-informaciją ir dokumentus:
+Europos Sąjungos valstybėje narėje, privalo pateikti Priežiūros komisijai šią informaciją
+ir dokumentus:
 1) kitos Europos Sąjungos valstybės narės, kurioje
 draudimo įmonė ketina steigti filialą, pavadinimą;
 2) Priežiūros komisijos nustatytos formos ir turinio
@@ -2108,12 +2142,12 @@ verslo planą;
 ir gaunama korespondencija, ir patvirtinimą, jog nurodytu adresu gali būti
 siunčiama visa korespondencija draudimo įmonės filialo vadovui;
 4) dokumentus, įrodančius, jog draudimo įmonė yra
-paskyrusi nepriekaištingos reputacijos, kvalifikuotą ir draudimo srityje
-patyrusį filialo vadovą, kuriam suteikti pakankami įgaliojimai, kad jis galėtų
-sukurti teises ir pareigas kitoje Europos Sąjungos valstybėje narėje
-įsteigusiai filialą draudimo įmonei trečiųjų asmenų atžvilgiu, atstovauti
-draudimo įmonei teisme bei kitose šios Europos Sąjungos valstybės narės
-valdžios ir valdymo institucijose;
+paskyrusi nepriekaištingos reputacijos, kvalifikuotą ir draudimo srityje patyrusį
+filialo vadovą, kuriam suteikti pakankami įgaliojimai, kad jis galėtų sukurti
+teises ir pareigas kitoje Europos Sąjungos valstybėje narėje įsteigusiai
+filialą draudimo įmonei trečiųjų asmenų atžvilgiu, atstovauti draudimo įmonei
+teisme bei kitose šios Europos Sąjungos valstybės narės valdžios ir valdymo
+institucijose;
 5) jei draudimo įmonė per kitoje Europos Sąjungos
 valstybėje narėje įsteigtą filialą ketina vykdyti šio Įstatymo 7 straipsnio 3
 dalies 10 punkte nurodytos draudimo grupės veiklą (išskyrus vežėjų civilinės
@@ -2159,21 +2193,22 @@ Respublikos įstatymų nustatyta tvarka.
 veiklą gavusi iš kitos Europos Sąjungos valstybės narės kompetentingos
 institucijos informaciją apie teisę steigti filialą bei pradėti veiklą ir tos
 veiklos sąlygas, o jei ši informacija nėra gaunama per 2 mėnesius nuo šio
-straipsnio 3 dalyje nurodytos Priežiūros komisijos raštiškos informacijos
-draudimo įmonei gavimo – pasibaigus 2 mėnesių terminui.
+straipsnio 3 dalyje nurodytos Priežiūros komisijos raštiškos informacijos draudimo
+įmonei gavimo – pasibaigus 2 mėnesių terminui.
 7. Apie bet kokį planuojamą šio straipsnio 1 dalies
 2–4 punktuose numatytų duomenų pasikeitimą ne vėliau kaip prieš vieną mėnesį
 turi būti pranešta Priežiūros komisijai ir kitos Europos Sąjungos valstybės
 narės, kurioje įsteigtas filialas, kompetentingai institucijai. Draudimo įmonės
 informacijos pateikimui, pateiktos informacijos išsiuntimui kitos Europos
-Sąjungos valstybės narės kompetentingai institucijai bei atsisakymui išsiųsti taikomos
-šio straipsnio 1–5 dalių nuostatos, tačiau vietoj šio straipsnio 3 ir 4 dalyse
-nurodyto 3 mėnesių termino taikomas vieno mėnesio terminas. Priežiūros
+Sąjungos valstybės narės kompetentingai institucijai bei atsisakymui išsiųsti
+taikomos šio straipsnio 1–5 dalių nuostatos, tačiau vietoj šio straipsnio 3 ir
+4 dalyse nurodyto 3 mėnesių termino taikomas vieno mėnesio terminas. Priežiūros
 komisijos atsisakymas išsiųsti informaciją atima teisę draudimo įmonei atlikti
 planuojamus pakeitimus.
  
-55 straipsnis. Draudimo įmonių,
-vykdančių ne gyvybės draudimą, filialai Šveicarijos Konfederacijoje
+55 straipsnis.
+Draudimo įmonių, vykdančių ne gyvybės draudimą, filialai Šveicarijos
+Konfederacijoje
 Draudimo įmonių, vykdančių ne gyvybės draudimo veiklą,
 filialai Šveicarijos Konfederacijoje steigiami ir veikia pagal taisykles,
 taikomas draudimo įmonių filialų steigimui ir veiklai kitose Europos Sąjungos
@@ -2185,14 +2220,14 @@ III SKYRIUS
 Kitų EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ DRAUDIMO ĮMONIŲ
 VEIKLA LIETUVOS RESPUBLIKOJE
  
-56 straipsnis.
-Teisė vykdyti draudimo veiklą Lietuvos Respublikoje
+56 straipsnis. Teisė vykdyti draudimo veiklą Lietuvos Respublikoje
 Kitų Europos
 Sąjungos valstybių narių draudimo įmonės Lietuvos Respublikoje turi teisę
 steigti dukterines draudimo įmones, teikti paslaugas arba steigti filialą.
  
-57 straipsnis. Kitų Europos Sąjungos valstybių narių draudimo įmonių teisė teikti
-paslaugas Lietuvos Respublikoje
+57 straipsnis.
+Kitų Europos Sąjungos valstybių
+narių draudimo įmonių teisė teikti paslaugas Lietuvos Respublikoje
 1. Kitos Europos
 Sąjungos valstybės narės draudimo įmonė turi teisę pradėti teikti paslaugas
 Lietuvos Respublikoje tik Priežiūros komisijai gavus šios Europos Sąjungos
@@ -2214,19 +2249,31 @@ bei santykiuose su fiziniais ar juridiniais asmenimis, taip pat nurodyti šio
 atstovo vardą, pavardę ir adresą;
 3) dokumentus,
 įrodančius, kad paskirtasis atstovas turi teisę administruoti draudiminius
-įvykius, mokėti draudimo išmokas ir kitos Europos Sąjungos valstybės narės draudimo
-įmonės vardu patvirtinti privalomojo draudimo sutarties sudarymo ir galiojimo
-faktą;
+įvykius, mokėti draudimo išmokas ir kitos Europos Sąjungos valstybės narės
+draudimo įmonės vardu patvirtinti privalomojo draudimo sutarties sudarymo ir
+galiojimo faktą;
 4) šio atstovo adresą Lietuvos Respublikoje.
 3. Šio straipsnio 2 dalyje nurodytas kitos Europos
 Sąjungos valstybės narės draudimo įmonės atstovas neturi teisės atstovaujamos
 draudimo įmonės vardu sudaryti draudimo sutarčių Lietuvos Respublikoje. Atstovu
 gali būti paskirtas kitos Europos Sąjungos valstybės narės draudimo įmonės
 (kitos nei atstovaujamoji įmonė) filialas, įsteigtas Lietuvos Respublikoje.
+3 dalis netenka galios nuo 2007 m. birželio 11 d.
+ 
+4 dalies redakcija iki 2007 m. birželio 11 d.:
 4. Šiame straipsnyje numatytas atstovo paskyrimas ir
 atstovo Lietuvos Respublikoje buvimas nelaikomas kitos Europos Sąjungos
 valstybės narės draudimo įmonės filialu ar atstovybe ir biuru Lietuvos
 Respublikoje šio Įstatymo 2 straipsnio 54 dalies ir 6 straipsnio prasme.
+4 dalies redakcija nuo 2007 m. birželio 11 d.:
+4. Šiame straipsnyje numatytas atstovo paskyrimas ir
+atstovo Lietuvos Respublikoje buvimas nelaikomas kitos Europos Sąjungos valstybės
+narės draudimo įmonės filialu ar atstovybe ir biuru Lietuvos
+Respublikoje šio Įstatymo 2 straipsnio 54 dalies ir 6 straipsnio prasme. Tačiau
+atstovu gali būti paskirtas kitos Europos Sąjungos valstybės narės draudimo
+įmonės (tos pačios ar kitos nei atstovaujamoji įmonė) filialas, įsteigtas
+Lietuvos Respublikoje.
+ 
 5. Visais kitais šiame straipsnyje nenumatytais
 atvejais galimybė kitų Europos Sąjungos valstybių narių draudimo įmonėms teikti
 paslaugas Lietuvos Respublikoje nesuteikia teisės kitos Europos Sąjungos
@@ -2235,8 +2282,14 @@ nurodymams ir kontrolei bei nuolat ar ilgą laiką Lietuvos Respublikoje
 reziduosiantį asmenį, kuriam suteikti įgaliojimai sukurti kitos Europos
 Sąjungos valstybės narės draudimo įmonei teises ir pareigas trečiųjų asmenų
 atžvilgiu. 
+Straipsnio
+pakeitimai:
+Nr. X-1139, 2007-05-17, Žin., 2007, Nr. 61-2342
+(2007-06-02)
  
-58 straipsnis. Kitų Europos Sąjungos valstybių narių draudimo įmonių filialai
+58 straipsnis.
+Kitų Europos Sąjungos valstybių
+narių draudimo įmonių filialai
 1. Kitos Europos
 Sąjungos valstybės narės kompetentingai institucijai pranešus apie tai, jog
 Europos Sąjungos valstybės narės draudimo įmonė ketina steigti filialą Lietuvos
@@ -2268,15 +2321,16 @@ asociacijos filialo, įsteigto Lietuvos Respublikoje, sudarytų draudimo sutarč
 ar su jomis susijusiuose, draudėjai, apdraustieji, naudos gavėjai ir nukentėję
 tretieji asmenys turi ne mažiau teisių nei draudimo sutartiniuose ginčuose su
 bet kuriomis kitomis draudimo įmonėmis, kitų Europos Sąjungos valstybių narių
-ar užsienio valstybių draudimo įmonių filialais. Draudikų asociacijos, žinomos „Lloyd’s“
-vardu, filialo Lietuvos Respublikoje vadovas (filialo įgaliotasis atstovas)
-privalo turėti įgaliojimus atstovauti šiai asociacijai teisminiuose ir
-kitokiuose ginčuose, kylančiuose iš draudimo sutarties ar susijusios su ja, bei
-savo veiksmais sąlygoti teisių ir pareigų atsiradimą atitinkamiems šios
+ar užsienio valstybių draudimo įmonių filialais. Draudikų asociacijos, žinomos
+„Lloyd’s“ vardu, filialo Lietuvos Respublikoje vadovas (filialo įgaliotasis
+atstovas) privalo turėti įgaliojimus atstovauti šiai asociacijai teisminiuose
+ir kitokiuose ginčuose, kylančiuose iš draudimo sutarties ar susijusios su ja,
+bei savo veiksmais sąlygoti teisių ir pareigų atsiradimą atitinkamiems šios
 asociacijos draudikams.
  
-59 straipsnis. Šveicarijos
-Konfederacijos draudimo įmonių, vykdančių ne gyvybės draudimo veiklą, filialai 
+59 straipsnis.
+Šveicarijos Konfederacijos draudimo įmonių, vykdančių ne gyvybės draudimo
+veiklą, filialai 
 Jei Priežiūros komisijos nenustatyta kitaip,
 Šveicarijos Konfederacijos draudimo įmonių, vykdančių ne gyvybės draudimo
 veiklą, filialų Lietuvos Respublikoje steigimui ir veiklai taikomos tos pačios
@@ -2293,7 +2347,8 @@ IV SKYRIUS
 užsienio
 valstybių draudimo įmonių veikla LIETUVOS RESPUBLIKOJE
  
-61 straipsnis. Teisė vykdyti draudimo veiklą
+61 straipsnis. Teisė
+vykdyti draudimo veiklą
 1. Užsienio
 valstybių draudimo įmonės turi teisę vykdyti draudimo veiklą Lietuvos
 Respublikoje tik per Lietuvos Respublikoje įsteigtą dukterinę draudimo įmonę,
@@ -2304,16 +2359,14 @@ tokie patys reikalavimai kaip ir Lietuvos Respublikos draudimo įmonėms,
 atsižvelgiant į šiame skyriuje ir Priežiūros komisijos nutarimuose nurodytas
 išimtis ir filialo teisinio statuso ir veiklos ypatumus. 
 3. Priežiūros
-komisija, atsižvelgdama į užsienio valstybių draudimo įmonių filialų teisinio
-statuso ir veiklos ypatumus, tvirtina privalomus nurodymus ar rekomendacijas
-dėl šio Įstatymo nuostatų taikymo užsienio valstybių draudimo įmonių filialams.
-
+komisija, atsižvelgdama į užsienio valstybių draudimo įmonių filialų teisinio statuso
+ir veiklos ypatumus, tvirtina privalomus nurodymus ar rekomendacijas dėl šio
+Įstatymo nuostatų taikymo užsienio valstybių draudimo įmonių filialams. 
 4. Užsienio
 valstybių draudimo įmonių atstovybių veiklai ir jos priežiūrai taikomos tos
 pačios nuostatos kaip ir užsienio valstybių draudimo įmonių filialams.
  
-62 straipsnis.
-Leidimas filialo draudimo veiklai
+62 straipsnis. Leidimas filialo draudimo veiklai
 1. Užsienio
 valstybės draudimo įmonės filialas turi teisę vykdyti draudimo veiklą Lietuvos
 Respublikoje tik užsienio valstybės draudimo įmonei gavus Priežiūros komisijos
@@ -2337,8 +2390,7 @@ veikia Priežiūros komisijos nustatyta tvarka.
 valstybės draudimo įmonės filialo draudimo veiklai išdavimo taisykles ir
 leidimo filialo draudimo veiklai formą.
  
-63 straipsnis.
-Prašymas išduoti leidimą filialo draudimo veiklai 
+63 straipsnis. Prašymas išduoti leidimą filialo draudimo veiklai 
 1.
 Užsienio valstybės draudimo įmonė privalo Priežiūros komisijai pateikti prašymą
 išduoti leidimą filialo draudimo veiklai Lietuvos Respublikoje.
@@ -2402,8 +2454,8 @@ kiekvienoje kitoje Europos Sąjungos valstybėje narėje pretenzijoms nagrinėti
 yra paskyrusi atstovą, kuriam suteikti pakankami įgaliojimai, šio atstovo
 vardą, pavardę ir adresą.
  
-64 straipsnis. Leidimo filialo draudimo veiklai
-išdavimas
+64 straipsnis. Leidimo
+filialo draudimo veiklai išdavimas
 1. Per 6 mėnesius nuo prašymo išduoti leidimą filialo
 draudimo veiklai pateikimo dienos Priežiūros komisija priima sprendimą dėl
 leidimo išdavimo ir apie tai raštu praneša pareiškėjui.
@@ -2467,18 +2519,19 @@ gyvybės draudimo šakos draudimo grupių veiklą.
 įmonės indėlis ar jos filialo garantinis fondas gali būti apmokėti pinigais,
 kurių kilmė nėra teisėta, Priežiūros komisija privalo kreiptis į Valstybės
 saugumo departamentą su prašymu pateikti išvadą apie šių pinigų kilmę. Tokiu
-atveju termino, nustatyto šio straipsnio 1 dalyje, eiga sustabdoma ir atnaujinama
-tik gavus Valstybės saugumo departamento išvadas.
+atveju termino, nustatyto šio straipsnio 1 dalyje, eiga sustabdoma ir
+atnaujinama tik gavus Valstybės saugumo departamento išvadas.
  
-65 straipsnis. Informacija apie pasikeitimus
+65 straipsnis. Informacija
+apie pasikeitimus
 Apie informacijos,
 nurodytos Priežiūros komisijai pateiktuose dokumentuose dėl leidimo filialo
 draudimo veiklai išdavimo, pasikeitimus Lietuvos Respublikoje įsteigtas
 užsienio valstybės draudimo įmonės filialas Priežiūros komisijos nustatyta
 tvarka privalo pranešti Priežiūros komisijai.
  
-66 straipsnis. Leidimo filialo draudimo veiklai galiojimo sustabdymas
-ir panaikinimas
+66 straipsnis. Leidimo filialo draudimo veiklai
+galiojimo sustabdymas ir panaikinimas
 1. Esant šio
 Įstatymo 198 straipsnio 1 dalyje nurodytiems pagrindams, Priežiūros komisija
 turi teisę sustabdyti leidimo filialo draudimo veiklai galiojimą.
@@ -2502,9 +2555,8 @@ straipsnyje;
 arba jai yra iškelta bankroto byla; 
 8) pasibaigia filialo nuostatuose
 nustatytas filialo veiklos terminas;
-9) užsienio valstybės kompetentinga institucija
-uždraudžia užsienio valstybės draudimo įmonei vykdyti veiklą Lietuvos
-Respublikoje; 
+9) užsienio valstybės kompetentinga institucija uždraudžia
+užsienio valstybės draudimo įmonei vykdyti veiklą Lietuvos Respublikoje; 
 10) yra šio Įstatymo 74 straipsnio 9 dalyje nustatytas
 atvejis;
 11) teismas priima sprendimą nutraukti filialo veiklą
@@ -2517,8 +2569,7 @@ Sprendimas panaikinti leidimo filialo draudimo veiklai galiojimą privalo būti
 išsamiai motyvuotas. Priežiūros komisija apie priimtą sprendimą ir jo motyvus
 privalo pranešti užsienio valstybės draudimo įmonei.
  
-67
-straipsnis. Filialo vadovas ir kiti darbuotojai
+67 straipsnis. Filialo vadovas ir kiti darbuotojai
 1.
 Kol bus paskirtas filialo vadovas, užsienio valstybės draudimo įmonė privalo
 pateikti Priežiūros komisijai jos nustatytos formos informaciją ir gauti
@@ -2566,7 +2617,8 @@ pareigų, filialo vyriausiojo buhalterio, vyriausiojo aktuarijaus pareigų ir
 būti kitos draudimo įmonės stebėtojų tarybos, valdybos nariu ar dirbti kitos
 draudimo įmonės administracijoje.
  
-68 straipsnis. Verslo planas
+68 straipsnis. Verslo
+planas
 1. Užsienio valstybės draudimo įmonės filialas privalo
 savo veiklą grįsti verslo planu. Apie jo planuojamus pakeitimus užsienio
 valstybės draudimo įmonės filialas privalo pranešti Priežiūros komisijai ir
@@ -2574,8 +2626,7 @@ Priežiūros komisijos nustatyta tvarka suderinti pakeitimus.
 2. Užsienio valstybės draudimo įmonės filialo verslo
 plano formą ir jo pateikimo tvarką nustato Priežiūros komisija.
  
-69 straipsnis.
-Filialo draudimo techniniai atidėjiniai
+69 straipsnis. Filialo draudimo techniniai atidėjiniai
 1. Užsienio
 valstybės draudimo įmonės filialas privalo laikytis šio Įstatymo ir Priežiūros
 komisijos reikalavimų draudimo techninių atidėjinių formavimui ir padengimui
@@ -2584,15 +2635,15 @@ turtu.
 užsienio valstybės draudimo įmonės filialas padengia savo techninius
 atidėjinius, buvimo vieta privalo būti tik Lietuvos Respublikoje.
  
-70 straipsnis.
-Filialo perdraudimo veiklos ypatumai
+70 straipsnis. Filialo perdraudimo veiklos ypatumai
 Užsienio valstybės draudimo įmonės filialas, įsteigtas
 Lietuvos Respublikoje, turi teisę vykdyti rizikų perdraudimą tos draudimo
 grupės, kurios veiklą filialas vykdo Lietuvos Respublikoje įstatymų nustatyta
 tvarka, ir tik tuo atveju, jei užsienio valstybės draudimo įmonė užsienio
 valstybėje turi teisę vykdyti analogiškos draudimo grupės rizikų perdraudimą.
  
-71 straipsnis. Filialo mokumo atsarga
+71 straipsnis. Filialo
+mokumo atsarga
 1. Užsienio valstybės draudimo įmonės filialo mokumo
 atsarga skaičiuojama šio Įstatymo ir Priežiūros komisijos nustatyta tvarka. 
 2. Turimos mokumo
@@ -2602,12 +2653,12 @@ filialo garantinį fondą. Minimalus filialo garantinis fondas yra lygus 1/2 ši
 Įstatymo 39 straipsnio 3 dalyje nurodytos sumos, atsižvelgiant į filialo
 vykdomą draudimo grupių veiklą. Lėšos, numatytos šio Įstatymo 72 straipsnio 1
 dalyje, įtraukiamos apskaičiuojant minimalų garantinį fondą.
-3. Garantinio fondo lėšos privalo būti laikomos ar
-investuotos tik Lietuvos Respublikoje, o kitos mokumo atsargos lėšos – tik
-Europos Sąjungos valstybėse narėse.
+3. Garantinio fondo lėšos privalo būti laikomos ar investuotos
+tik Lietuvos Respublikoje, o kitos mokumo atsargos lėšos – tik Europos Sąjungos
+valstybėse narėse.
  
-72 straipsnis. Užsienio valstybės
-draudimo įmonės indėlis
+72 straipsnis.
+Užsienio valstybės draudimo įmonės indėlis
 1. Užsienio valstybės draudimo įmonė, įsteigusi
 filialą Lietuvos Respublikoje, per visą filialo veiklos laikotarpį privalo būti
 sudariusi su Lietuvos Respublikoje įsteigtu komerciniu banku arba užsienio
@@ -2622,8 +2673,8 @@ prievolėms, atsirandančioms iš draudimo sutarčių.
 įmonės filialas turi teisę disponuoti indėlio lėšomis tik pateikęs bankui
 raštišką Priežiūros komisijos pritarimą.
  
-73
-straipsnis. Teisių ir pareigų pagal filialo draudimo sutartis perleidimas
+73 straipsnis. Teisių ir pareigų pagal filialo
+draudimo sutartis perleidimas
 1. Užsienio valstybės draudimo įmonės filialas turi
 teisę perleisti teises ir pareigas pagal visas draudimo sutartis ar dalį jų
 draudimo įmonei ar kitos užsienio valstybės draudimo įmonės filialui, įsteigtam
@@ -2663,8 +2714,8 @@ narės kompetentinga institucija neprieštarauja teisių ir pareigų perleidimui
 kiti šio Įstatymo 41 ir 42 straipsniuose nustatyti reikalavimai, kiek šiuo
 straipsniu nenustatyta kitaip.
  
-74 straipsnis. Lengvatos steigiant ar įsteigus
-filialus keliose Europos Sąjungos valstybėse narėse
+74 straipsnis. Lengvatos
+steigiant ar įsteigus filialus keliose Europos Sąjungos valstybėse narėse
 1. Užsienio valstybės draudimo įmonė, ketinanti gauti
 ar jau gavusi leidimus draudimo veiklai daugiau kaip vienoje Europos Sąjungos
 valstybėje narėje, turi teisę kreiptis į Priežiūros komisiją su prašymu dėl šių
@@ -2694,8 +2745,8 @@ kompetentinga institucija praneša Priežiūros komisijai bei kitų Europos
 Sąjungos valstybių narių kompetentingoms institucijoms, kad ji prižiūrės
 mokumą, sąlygotą Lietuvos Respublikoje ir kitose Europos Sąjungos valstybėse
 narėse vykdomos filialų draudimo veiklos, arba kai pasirinktoji kompetentinga
-institucija yra Priežiūros komisija, kai ji praneša atitinkamoms kitų Europos
-Sąjungos valstybių narių kompetentingoms institucijoms.
+institucija yra Priežiūros komisija, kai ji praneša atitinkamoms kitų Europos Sąjungos
+valstybių narių kompetentingoms institucijoms.
 5. Priežiūros komisija privalo teikti informaciją,
 reikalingą mokumo priežiūrai, užsienio valstybės draudimo įmonės pasirinktajai
 kitos Europos Sąjungos valstybės narės kompetentingai institucijai.
@@ -2715,9 +2766,9 @@ užsienio valstybės draudimo įmonė turi filialus, kompetentingoms institucijo
 
 9. Priežiūros komisija, gavusi informaciją apie tai,
 jog kitos Europos Sąjungos valstybės narės kompetentinga institucija priėmė
-sprendimą panaikinti leidimą draudimo veiklai užsienio valstybės draudimo
-įmonės filialui, kuris naudojasi lengvata, turi teisę taikyti poveikio
-priemones ir šios užsienio valstybės draudimo įmonės filialui, įsteigtam Lietuvos
+sprendimą panaikinti leidimą draudimo veiklai užsienio valstybės draudimo įmonės
+filialui, kuris naudojasi lengvata, turi teisę taikyti poveikio priemones ir
+šios užsienio valstybės draudimo įmonės filialui, įsteigtam Lietuvos
 Respublikoje. Jei kitos Europos Sąjungos valstybės narės kompetentinga
 institucija priėmė sprendimą panaikinti leidimą draudimo veiklai dėl to, jog
 turima mokumo atsarga, apskaičiuota įtraukiant visus užsienio valstybės
@@ -2735,12 +2786,12 @@ PIRMASIS SKIRSNIS
 BENDROSIOS
 NUOSTATOS
  
-75 straipsnis. Skyriaus nuostatų
-taikymas
-1. Draudimo sutarties
-šalių ikisutartiniams santykiams, draudimo sutarties sąlygoms, santykiams,
-atsirandantiems iš draudimo sutarties ir susijusiems su ja, taikomos Civilinio
-kodekso ir šio skyriaus normos.
+75 straipsnis.
+Skyriaus nuostatų taikymas
+1. Draudimo
+sutarties šalių ikisutartiniams santykiams, draudimo sutarties sąlygoms,
+santykiams, atsirandantiems iš draudimo sutarties ir susijusiems su ja,
+taikomos Civilinio kodekso ir šio skyriaus normos.
 2. Šio skyriaus
 nuostatos perdraudimui taikomos tik tuo atveju, kai tai įsakmiai numatyta šiame
 skyriuje.
@@ -2749,16 +2800,14 @@ visoms draudimo sutartims, jei kituose šio Įstatymo skirsniuose ar šiame
 skirsnyje nenustatyta kitaip.
 4. Šio skyriaus
 pirmajame, antrajame ir trečiajame skirsniuose numatytos nuostatos,
-reglamentuojančios draudimo sutartinius santykius, didelių draudimo rizikų
-draudimo sutartims taikomos tiek, kiek draudimo sutarties šalys nesusitarė
-kitaip.
+reglamentuojančios draudimo sutartinius santykius, didelių draudimo rizikų draudimo
+sutartims taikomos tiek, kiek draudimo sutarties šalys nesusitarė kitaip.
  
-76
-straipsnis. Draudimo sutarčių skirstymas
+76 straipsnis. Draudimo sutarčių skirstymas
 1. Atsižvelgiant į draudimo šakas, draudimo sutartys
-gali būti skirstomos į gyvybės ir ne gyvybės draudimo sutartis. Ne gyvybės
-draudimo sutartys apima turto draudimo, civilinės atsakomybės draudimo bei
-sveikatos draudimo sutartis. 
+gali būti skirstomos į gyvybės ir ne gyvybės draudimo sutartis. Ne gyvybės draudimo
+sutartys apima turto draudimo, civilinės atsakomybės draudimo bei sveikatos
+draudimo sutartis. 
 2. Atsižvelgiant į draudimo išmokos pobūdį, draudimo
 sutartys skirstomos į nuostolių draudimo bei sumų draudimo sutartis. 
 3. Sumų draudimo sutartys yra gyvybės draudimo
@@ -2770,7 +2819,8 @@ civilinės atsakomybės draudimo, taip pat ir sveikatos draudimo sutartys, pagal
 kurias draudikas įsipareigoja įvykus draudiminiam įvykiui išmokėti draudimo
 išmoką, lygią patirtiems nuostoliams.
  
-77 straipsnis. Draudimo taisyklių sąlygos
+77 straipsnis. Draudimo
+taisyklių sąlygos
 1. Draudimo taisyklėse privalo būti nurodyta:
 1) atvejai, kada draudimo sutartys sudaromos pagal
 pateiktą draudėjo rašytinį prašymą sudaryti draudimo sutartį; 
@@ -2792,14 +2842,15 @@ bei terminai;
 sąlygos, tarp jų ir draudimo sutarties nutraukimo tvarka draudėjui nesutinkant
 su draudiko ketinimu perleisti teises ir pareigas pagal draudimo sutartį kitam
 ar kitiems draudikams; 
-11) šalių tarpusavio atsiskaitymo nutraukus draudimo
-sutartį tvarka, apimanti ir atsiskaitymo su draudėju, kuris, nesutikdamas su
-draudiko ketinimu perleisti teises ir pareigas pagal draudimo sutartį kitam ar
-kitiems draudikams, nutraukė draudimo sutartį, tvarką; 
+11) šalių tarpusavio atsiskaitymo nutraukus draudimo sutartį
+tvarka, apimanti ir atsiskaitymo su draudėju, kuris, nesutikdamas su draudiko
+ketinimu perleisti teises ir pareigas pagal draudimo sutartį kitam ar kitiems
+draudikams, nutraukė draudimo sutartį, tvarką; 
 12) draudiko teisių ir pareigų pagal draudimo sutartį
 perleidimo kitam draudikui tvarka;
 13) ginčų tarp draudėjo ir draudiko sprendimo tvarka; 
-14) informacijos kitai sutarties šaliai teikimo tvarka.
+14) informacijos kitai sutarties šaliai teikimo
+tvarka.
 2.
 Draudimo taisyklės privalo būti paskelbtos draudimo įmonės interneto
 tinklalapyje.
@@ -2816,7 +2867,8 @@ teisės aktų. Priežiūros komisija tikrina, ar pateiktos privalomojo draudimo
 taisyklės atitinka teisės aktų reikalavimus, nepažeidžia draudėjų, apdraustųjų,
 naudos gavėjų ir nukentėjusių trečiųjų asmenų, tarp jų ir vartotojų, interesų.
  
-78 straipsnis. Informacija draudėjui
+78 straipsnis. Informacija
+draudėjui
 1. Prieš sudarant ne gyvybės draudimo sutartį,
 draudikas arba jo įgaliotas atstovas privalo suteikti draudėjui – fiziniam
 asmeniui:
@@ -2846,15 +2898,13 @@ siūlomą draudimo sutarties sąlygą ir jos pasekmes. Ši individualiai aptarta
 sąlyga galioja tik tuo atveju, kai draudėjas raštu patvirtina susipažinęs su ja
 ir raštu išreiškia sutikimą, kad sąlyga būtų draudimo sutarties dalis.
  
-79 straipsnis.
-Draudimo interesas
+79 straipsnis. Draudimo interesas
 Būtina sąlyga nuostolių draudimo sutarčiai yra
 teisėtas draudėjo ar apdraustojo draudimo interesas, kurį galima įvertinti
 pinigais.
  
-[Papildyta straipsniu nuo
-2006-08-08]
-791 straipsnis. Draudimo rizika
+791
+straipsnis. Draudimo rizika
 1. Prieš sudarydamas draudimo sutartį, draudikas turi
 teisę įvertinti draudimo riziką Civilinio kodekso 6.994 straipsnyje nustatyta
 tvarka. 
@@ -2862,16 +2912,17 @@ tvarka.
 draudimo išmokas, neturi teisės atsižvelgti į draudėjo ar apdraustojo lytį,
 kaip į draudimo rizikai reikšmės turintį veiksnį, išskyrus šio Įstatymo 100
 straipsnio 2 dalyje nustatytas išimtis.
-3. Draudikas, apskaičiuodamas draudimo įmokas ir
-draudimo išmokas, neturi teisės atsižvelgti į veiksnius, susijusius su
-motinyste, kaip į turinčius reikšmės draudimo rizikai.
-Straipsnio
-pakeitimai:
+3. Draudikas, apskaičiuodamas draudimo įmokas ir draudimo
+išmokas, neturi teisės atsižvelgti į veiksnius, susijusius su motinyste, kaip į
+turinčius reikšmės draudimo rizikai.
+Įstatymas
+papildytas straipsniu:
 Nr.
 X-798,
 2006-07-19, Žin., 2006, Nr. 87-3409 (2006-08-08)
  
-80 straipsnis. Draudimo įmokos nesumokėjimas
+80 straipsnis. Draudimo
+įmokos nesumokėjimas
 1. Draudėjui
 nesumokėjus draudimo įmokos ar jos dalies draudimo sutartyje nustatytu laiku
 (išskyrus atvejį, kai draudimo sutarties įsigaliojimas siejamas su draudimo
@@ -2895,23 +2946,21 @@ apsaugos sustabdymas dėl draudimo įmokos nesumokėjimo tęsiasi ilgiau negu 3
 mėnesius, o gyvybės draudimo atveju – ilgiau negu 6 mėnesius, draudikas turi
 teisę vienašališkai nutraukti draudimo sutartį. 
  
-81 straipsnis.
-Teisė į draudimo išmoką
+81 straipsnis. Teisė į draudimo išmoką
 Teisę reikalauti, kad būtų išmokėta draudimo išmoka,
 turi draudėjas, o įstatyme ir (ar) draudimo sutartyje nustatytais atvejais –
 naudos gavėjas arba nukentėjęs trečiasis asmuo. Jei išmokėti draudimo išmoką
 reikalauja naudos gavėjas arba nukentėjęs trečiasis asmuo, draudikas turi teisę
 prieš jį panaudoti visus prieš draudėją turimus atsikirtimus.
  
-82 straipsnis.
-Draudimo išmokos mokėjimas
+82 straipsnis. Draudimo išmokos mokėjimas
 1. Draudėjas, naudos gavėjas ir (ar) nukentėjęs
 trečiasis asmuo privalo pateikti draudikui visus turimus dokumentus ir
-informaciją apie draudiminio įvykio aplinkybes ir pasekmes, būtinus nustatant draudimo
-išmokos dydį. Draudiko reikalavimu minėti asmenys taip pat privalo pateikti
-būtinus nustatant draudimo išmokos dydį dokumentus apie draudiminio įvykio
-aplinkybes ir pasekmes, kuriuos jie turi teisę gauti įstatymų ir kitų teisės
-aktų nustatyta tvarka. Draudimo sutartyje privalo būti nurodyta, kokie
+informaciją apie draudiminio įvykio aplinkybes ir pasekmes, būtinus nustatant
+draudimo išmokos dydį. Draudiko reikalavimu minėti asmenys taip pat privalo
+pateikti būtinus nustatant draudimo išmokos dydį dokumentus apie draudiminio
+įvykio aplinkybes ir pasekmes, kuriuos jie turi teisę gauti įstatymų ir kitų
+teisės aktų nustatyta tvarka. Draudimo sutartyje privalo būti nurodyta, kokie
 dokumentai yra pateiktini draudikui.
 2. Draudikas privalo
 tirti aplinkybes, būtinas draudiminio įvykio faktui, pasekmėms ir draudimo
@@ -2960,8 +3009,7 @@ Nr.
 X-798,
 2006-07-19, Žin., 2006, Nr. 87-3409 (2006-08-08)
  
-83 straipsnis.
-Automatinis draudimo sutarties termino pratęsimas 
+83 straipsnis. Automatinis draudimo sutarties termino pratęsimas 
 1. Suėjus draudimo
 sutarties terminui, draudimo sutartyje nustatytais atvejais draudimo sutarties
 terminas gali būti automatiškai pratęstas, bet ne ilgiau kaip vieniems metams,
@@ -2975,8 +3023,8 @@ mėnesiai – prieš kitą šalių susitarimu nustatytą protingą terminą.
 draudimo sutarties termino pratęsimo sąlygos privalo būti individualiai
 aptartos sudarant draudimo sutartį.
  
-84 straipsnis. Draudiko atsiskaitymas su draudėju
-nutraukus draudimo sutartį
+84 straipsnis. Draudiko
+atsiskaitymas su draudėju nutraukus draudimo sutartį
 Nustatant draudiko
 atsiskaitymo su draudėju nutraukus draudimo sutartį sąlygas, privaloma
 atsižvelgti į draudimo sutarties šalies kaltę dėl draudimo sutarties sąlygų
@@ -2985,8 +3033,8 @@ sudarymu ir vykdymu, į draudimo įmokos dalis, sumokėtas už laikotarpį, už 
 draudimo apsauga suteikta nebuvo, nesumokėtas draudimo įmokos dalis už suteiktą
 draudimo apsaugą ir kitas reikšmingas aplinkybes. 
  
-85 straipsnis. Naudos gavėjo, apdraustojo ir
-nukentėjusio trečiojo asmens pareigos
+85 straipsnis. Naudos
+gavėjo, apdraustojo ir nukentėjusio trečiojo asmens pareigos
 1. Draudimo
 sutartyje galima nustatyti naudos gavėjo ir nukentėjusio trečiojo asmens
 pareigas, kurias jie privalo vykdyti įgyvendindami savo teisę į draudimo
@@ -3004,28 +3052,24 @@ nukentėjusiam trečiajam asmeniui apie sudarytą sutartį ir šių asmenų pare
 ANTRASIS SKIRSNIS
 TURTO DRAUDIMO YPATUMAI
  
-86 straipsnis.
-Draudėjas, apdraustasis ir naudos gavėjas
-Draudėjas gali sudaryti turto draudimo sutartį dėl
-savo arba dėl kito asmens, kuris sudarius draudimo sutartį tampa apdraustuoju,
+86 straipsnis. Draudėjas, apdraustasis ir naudos gavėjas
+Draudėjas gali sudaryti turto draudimo sutartį dėl savo
+arba dėl kito asmens, kuris sudarius draudimo sutartį tampa apdraustuoju,
 turtinių interesų. Turto draudimo atveju naudos gavėju gali būti tik asmuo,
 kurio turtiniai interesai buvo apdrausti.
  
-87 straipsnis.
-Turto vertė turto draudimo atveju
+87 straipsnis. Turto vertė turto draudimo atveju
 Jei turto vertė
 draudimo sutartyje nenurodyta, laikoma, jog turto vertė yra jo rinkos kaina
 turto draudimo sutarties sudarymo metu. 
  
-88 straipsnis.
-Draudimo išmoka
+88 straipsnis. Draudimo išmoka
 Draudimo išmokos dydis yra lygus dėl draudiminio
 įvykio patirtų draudėjo, apdraustojo ar naudos gavėjo nuostolių ir (ar) kitų
 išlaidų (draudimo intereso) dydžiui, jei šalių susitarimu nenustatyta, jog
 draudikas privalo atlyginti tik dalį nuostolių (kitų išlaidų). 
  
-89 straipsnis.
-Didelis neatsargumas
+89 straipsnis. Didelis neatsargumas
 Turto draudimo
 sutartyje galima nustatyti atvejus, kada draudikas atleidžiamas nuo pareigos
 mokėti draudimo išmoką, jei draudiminis įvykis įvyksta dėl draudėjo ar
@@ -3033,18 +3077,17 @@ apdraustojo didelio neatsargumo. Tokie atvejai privalo būti aptarti
 individualiai.
  
  
-TREČIASIS
-SKIRSNIS
+TREČIASIS SKIRSNIS
 CIVILINĖS ATSAKOMYBĖS DRAUDIMO YPATUMAI
  
-90 straipsnis. Apdraustasis
+90 straipsnis.
+Apdraustasis
 Draudėjas gali
 sudaryti civilinės atsakomybės draudimo sutartį dėl savo arba dėl kito asmens,
 kuris sudarius draudimo sutartį tampa apdraustuoju, turtinių interesų,
 susijusių su civiline atsakomybe. 
  
-91 straipsnis.
-Draudiminis įvykis
+91 straipsnis. Draudiminis įvykis
 Jei civilinės
 atsakomybės draudimo sutartyje nenustatyta kitaip, draudiminis įvykis yra
 draudėjo ar apdraustojo civilinės atsakomybės atsiradimas už draudėjo ar
@@ -3052,7 +3095,8 @@ apdraustojo veiksmų (veikimo ar neveikimo), atliktų draudimo sutarties
 galiojimo metu, pasekmes, net jei šios pasekmės atsirado pasibaigus draudimo
 sutarčiai. 
  
-92 straipsnis. Draudiko atlyginamos išlaidos
+92 straipsnis. Draudiko
+atlyginamos išlaidos
 1. Jei draudimo sutartyje
 nenustatyta kitaip, draudikas privalo draudėjui ar apdraustajam atlyginti jų
 protingas išlaidas, patirtas ginantis nuo nukentėjusio trečiojo asmens
@@ -3063,7 +3107,8 @@ atlyginti šio straipsnio 1 dalyje numatytų išlaidų ir turi teisę reikalauti
 grąžinti atlygintas išlaidas, jei draudėjas ar apdraustasis žalą nukentėjusiam
 trečiajam asmeniui padarė tyčia.
  
-93 straipsnis. Draudimo išmokos mokėjimas
+93 straipsnis. Draudimo
+išmokos mokėjimas
 1. Draudimo išmoką draudikas moka nukentėjusiam
 trečiajam asmeniui, o jei draudėjas ar apdraustasis atlygino žalą, padarytą
 nukentėjusiam trečiajam asmeniui, draudikas moka draudimo išmoką draudėjui ar
@@ -3073,12 +3118,14 @@ nukentėjusiems tretiesiems asmenims padarytą žalą, draudimo išmoka paskirst
 nukentėjusiems tretiesiems asmenims proporcingai pagal jiems padarytos žalos
 dydį.
  
-94 straipsnis. Tiesioginio reikalavimo teisė
+94 straipsnis. Tiesioginio
+reikalavimo teisė
 Nukentėjęs trečiasis asmuo turi teisę tiesiogiai
 reikalauti, kad draudikas, apdraudęs atsakingo už žalą asmens civilinę
 atsakomybę, išmokėtų draudimo išmoką.
  
-95 straipsnis. Draudimo išmokos išmokėjimo pasekmės 
+95 straipsnis. Draudimo
+išmokos išmokėjimo pasekmės 
 Kai draudikas išmoka
 draudimo išmoką dėl nuostolių, lygių draudimo sumos daliai, draudiko prievolė
 lieka galioti iki draudimo sutarties termino pabaigos visai draudimo sumai,
@@ -3086,8 +3133,8 @@ neišskaičiuojant iš jos išmokėtų draudimo išmokų, išskyrus atvejus, kai
 draudimo sutartyje nustatyta, jog draudiko prievolė lieka galioti tik likusiai
 draudimo sumos daliai.
  
-96 straipsnis. Draudiko teisė
-išreikalauti sumokėtas sumas iš draudėjo ar apdraustojo
+96 straipsnis.
+Draudiko teisė išreikalauti sumokėtas sumas iš draudėjo ar apdraustojo
 1. Jei draudiminis įvykis įvyksta Civilinio kodekso
 6.1014 straipsnio 3 dalyje nustatytu atveju, dėl draudėjo (ar apdraustojo)
 tyčios, tai draudikas, išmokėjęs draudimo išmoką, turi teisę išreikalauti
@@ -3095,10 +3142,11 @@ sumokėtą sumą iš draudėjo ar apdraustojo.
 2. Civilinės atsakomybės draudimo sutartyje
 nustatytais atvejais, jei draudiminis įvykis įvyksta dėl draudėjo ar
 apdraustojo didelio neatsargumo, draudikas, išmokėjęs draudimo išmoką, turi
-teisę išreikalauti sumokėtą sumą ar jos dalį iš draudėjo ar apdraustojo. Ši
-draudimo sutarties sąlyga privalo būti aptarta individualiai.
+teisę išreikalauti sumokėtą sumą ar jos dalį iš draudėjo ar apdraustojo. Ši draudimo
+sutarties sąlyga privalo būti aptarta individualiai.
  
-97 straipsnis. Daikto perleidimas
+97 straipsnis. Daikto
+perleidimas
 1. Jei sudaryta civilinės atsakomybės draudimo
 sutartis dėl civilinės atsakomybės, galinčios atsirasti valdant, naudojant
 individualiais požymiais apibrėžtą daiktą ar juo disponuojant, tai, jei
@@ -3112,8 +3160,7 @@ turtinių interesų draudimo apsauga pasibaigia.
 KETVIRTASIS SKIRSNIS
 GYVYBĖS DRAUDIMO YPATUMAI
  
-98 straipsnis.
-Draudimo sutarties sudarymas
+98 straipsnis. Draudimo sutarties sudarymas
 1. Draudėjas gali sudaryti gyvybės draudimo sutartį
 dėl savo arba dėl kito asmens turtinių interesų. 
 2. Gyvybės
@@ -3141,12 +3188,11 @@ draudimo išmokas naudos gavėjui – asmeniui, kuriam likviduojamas juridinis
 asmuo įpareigotas atlyginti dėl fizinio asmens sveikatos sužalojimo ar gyvybės
 atėmimo atsiradusią žalą. 
  
-99 straipsnis. Informacija gyvybės draudimo sutarties
-draudėjui 
+99 straipsnis. Informacija
+gyvybės draudimo sutarties draudėjui 
 1. Prieš sudarydamas gyvybės draudimo sutartį,
-draudikas arba jo įgaliotas atstovas privalo pateikti draudėjui raštu šio
-Įstatymo 78 straipsnio 1 dalyje nurodytą informaciją ir raštu pranešti
-draudėjui apie:
+draudikas arba jo įgaliotas atstovas privalo pateikti draudėjui raštu šio Įstatymo
+78 straipsnio 1 dalyje nurodytą informaciją ir raštu pranešti draudėjui apie:
 1) galimas draudimo sutarties sąlygas dėl draudimo
 sumų ir draudimo išmokų, kurias draudėjas turi teisę pasirinkti sudarydamas
 draudimo sutartį, draudimo įmokų dydžius dėl kiekvieno pasirinkto draudimo
@@ -3161,8 +3207,8 @@ trukmę;
 išmokos mokėjimo tvarką bei būdus;
 6) palūkanų normos dydį, draudėjams tenkančios
 draudiko pelno dalies apskaičiavimo principus ir pelno dalies paskirstymo
-būdus, išperkamosios sumos nustatymo tvarką ir apytikrius išperkamosios sumos dydžius,
-jei sudaroma draudimo sutartis, susijusi su kapitalo kaupimu;
+būdus, išperkamosios sumos nustatymo tvarką ir apytikrius išperkamosios sumos
+dydžius, jei sudaroma draudimo sutartis, susijusi su kapitalo kaupimu;
 7) jei sudaroma
 draudimo sutartis, pagal kurią investavimo rizika tenka draudėjui – objektus, į
 kuriuos gali būti investuojama, jų pobūdį, pajamas iš investicijų per
@@ -3172,9 +3218,9 @@ informaciją apie draudimo sutartims taikomą apmokestinimo tvarką.
 2. Draudimo
 sutarties galiojimo metu draudikas nedelsdamas privalo raštu pranešti gyvybės
 draudimo sutarties draudėjui apie:
-1) bet kokį draudiko pavadinimo, teisinės formos ar buveinės
-adreso pasikeitimą ir, jei draudimo sutartis sudaryta draudiko filialo, apie
-atitinkamų duomenų, susijusių su draudiko filialu, pasikeitimus;
+1) bet kokį draudiko pavadinimo, teisinės formos ar
+buveinės adreso pasikeitimą ir, jei draudimo sutartis sudaryta draudiko
+filialo, apie atitinkamų duomenų, susijusių su draudiko filialu, pasikeitimus;
 2) šio straipsnio 1 dalyje nurodytos informacijos
 pasikeitimą, jei keičiasi draudimo taisyklės ar teisė taikoma draudimo
 sutarčiai.
@@ -3188,11 +3234,12 @@ Teikiama informacija privalo būti aiški ir suprantama.
 Informacija teikiama lietuvių kalba arba, draudėjo prašymu ir susitarus su
 draudiku, kita kalba.
  
-100 straipsnis. Draudimo rizika
-1. Draudikas, vertindamas draudimo riziką, turi teisę atsižvelgti
-į apdraustojo amžių, sveikatos būklę, profesiją ir kitus draudimo rizikai
-turinčius reikšmės objektyvius kriterijus, kartu užtikrindamas, kad vienodo
-rizikos laipsnio asmenų grupei būtų taikomos vienodos draudimo įmokų ir
+100 straipsnis. Draudimo
+rizika
+1. Draudikas, vertindamas draudimo riziką, turi teisę
+atsižvelgti į apdraustojo amžių, sveikatos būklę, profesiją ir kitus draudimo
+rizikai turinčius reikšmės objektyvius kriterijus, kartu užtikrindamas, kad
+vienodo rizikos laipsnio asmenų grupei būtų taikomos vienodos draudimo įmokų ir
 draudimo išmokų apskaičiavimo sąlygos.
 2. Draudikas, vertindamas draudimo riziką, turi teisę
 atsižvelgti į apdraustojo lytį tik tais atvejais, kai lytis yra pripažįstama
@@ -3243,15 +3290,13 @@ Nr.
 X-798,
 2006-07-19, Žin., 2006, Nr. 87-3409 (2006-08-08)
  
-101 straipsnis.
-Draudimo išmoka dėl apdraustojo mirties
+101 straipsnis. Draudimo išmoka dėl apdraustojo mirties
 Jei draudėjas ar
 gyvybės draudimo sutartyje nustatytais atvejais apdraustasis nepaskyrė naudos
 gavėjo, dėl apdraustojo mirties mokėtinos draudimo išmokos paveldimos įstatymų
 nustatyta tvarka.
  
-102 straipsnis.
-Naudos gavėjo paskyrimas ir pakeitimas
+102 straipsnis. Naudos gavėjo paskyrimas ir pakeitimas
 1. Draudėjas turi teisę paskirti vieną ar keletą
 naudos gavėjų, kurie, įvykus draudiminiam įvykiui, įgyja teisę gauti draudimo
 išmoką ar jos dalį. Apie paskirtą naudos gavėją draudėjas raštu privalo
@@ -3273,8 +3318,8 @@ išskyrus atvejus, kai yra visos šios sąlygos:
 2) skiriamas naudos gavėjas yra apdraustojo artimasis
 giminaitis; 
 3) naudos
-gavėjas skiriamas apdraustojo išgyvenimo iki sutartyje nustatyto termino pabaigos
-atvejui.
+gavėjas skiriamas apdraustojo išgyvenimo iki sutartyje nustatyto termino
+pabaigos atvejui.
 4. Jei draudėjas
 paskyrė keletą naudos gavėjų, nenurodydamas, kokią draudimo išmokos dalį turi
 teisę gauti kiekvienas iš jų, įvykus draudiminiam įvykiui naudos gavėjai turi
@@ -3305,22 +3350,21 @@ Tokiu atveju naudos gavėjo paskyrimui, pakeitimui ar atšaukimui mutatis
 mutandis taikomos šio straipsnio nuostatos.
 10. Jei naudos gavėjas paskirtas, pakeistas ar
 atšauktas nesilaikant šio straipsnio nuostatų, naudos gavėjo paskyrimas,
-pakeitimas ar atšaukimas negalioja, išskyrus naudos gavėjo, kuris nėra neatšaukiamas
-naudos gavėjas, atšaukimo atvejį, nurodytą Civilinio kodekso 6.191 straipsnio 4
-dalyje. 
+pakeitimas ar atšaukimas negalioja, išskyrus naudos gavėjo, kuris nėra
+neatšaukiamas naudos gavėjas, atšaukimo atvejį, nurodytą Civilinio kodekso
+6.191 straipsnio 4 dalyje. 
 11. Įvykus draudiminiam įvykiui, teisę į draudimo
 išmoką įgyja naudos gavėjas, paskirtas tik šio straipsnio nustatyta tvarka. 
  
-103 straipsnis.
-Civilinio kodekso nuostatų taikymo išimtys
+103 straipsnis. Civilinio kodekso nuostatų taikymo išimtys
 Gyvybės draudimo
 sutarčiai netaikomos šios Civilinio kodekso nuostatos: draudimo, viršijančio
 draudimo vertę (6.1001 straipsnis), draudimo nuo skirtingų rizikų (6.1002
 straipsnis) ir draudėjo teisių į žalos atlyginimą perėjimo draudikui (6.1015
 straipsnis).
  
-104 straipsnis.
-Draudimo išmoka
+104
+straipsnis. Draudimo išmoka
 1. Draudimo
 išmoka pagal draudimo sutartį mokama nepaisant draudėjo ar naudos gavėjo
 gaunamų pajamų iš kitų šaltinių.
@@ -3329,8 +3373,8 @@ turi teisę sumažinti draudimo išmoką draudimo įmokų, nesumokėtų už drau
 apsaugos sustabdymo laikotarpį, bei pajamų, kurios būtų gautos jas investavus,
 suma.
  
-105 straipsnis. Draudėjo teisė atsisakyti
-mokėti draudimo įmokas
+105
+straipsnis. Draudėjo teisė atsisakyti mokėti draudimo įmokas
 1. Jei su kapitalo kaupimu susijusios
 gyvybės draudimo sutarties galiojimo metu sukaupiama minimali suma, kai tokia
 yra nustatyta draudimo sutartyje, draudėjas turi teisę nebemokėti draudimo
@@ -3341,33 +3385,32 @@ sumą.
 2. Šio straipsnio 1 dalyje nustatyta
 draudėjo teisė įgyvendinama gyvybės draudimo sutartyje nustatyta tvarka. 
  
-106 straipsnis.
-Draudiko teisė nutraukti draudimo sutartį
+106 straipsnis. Draudiko teisė nutraukti draudimo sutartį
 Draudikas turi teisę vienašališkai nutraukti gyvybės draudimo sutartį tik kai yra esminis
 sutarties sąlygų pažeidimas bei Civilinio kodekso 6.1009 straipsnio 1 dalyje
 nustatytu atveju.
  
-107 straipsnis. Draudimo sutarties
-nutraukimas lengvatinėmis sąlygomis
+107
+straipsnis. Draudimo sutarties nutraukimas lengvatinėmis sąlygomis
 1. Jei draudėjas – fizinis asmuo
 vienašališkai nutraukia gyvybės draudimo sutartį, raštu pranešęs draudikui per 30 dienų nuo momento,
 kada jam buvo pranešta apie sudarytą draudimo sutartį, draudikas, išskyrus
 atvejus, kai gyvybės draudimo sutarties terminas yra 6 mėnesiai ar trumpesnis,
 privalo grąžinti visą sumokėtą draudimo įmoką. 
 2. Draudėjui – fiziniam asmeniui nutraukus gyvybės draudimo sutartį šio straipsnio 1 dalyje
-nustatytu atveju, negali atsirasti jokių pareigų, susijusių su draudimo sutartimi.
-
+nustatytu atveju, negali atsirasti jokių pareigų, susijusių su draudimo
+sutartimi. 
  
-108
-straipsnis. Draudimo įmokos sumokėjimas nutraukus draudimo sutartį
+108 straipsnis. Draudimo įmokos sumokėjimas
+nutraukus draudimo sutartį
 Draudimo sutartyje galima nustatyti atvejus ir tvarką,
 kai su kapitalo kaupimu susijusi gyvybės
 draudimo sutartis, draudiko nutraukta dėl to, jog draudėjas nesumokėjo draudimo
 įmokos, atnaujinama, kai draudėjas per 6 mėnesius nuo gyvybės draudimo
 sutarties nutraukimo grąžina draudiko išmokėtą išperkamąją sumą. 
  
-109 straipsnis. Išperkamosios sumos
-išmokėjimas
+109
+straipsnis. Išperkamosios sumos išmokėjimas
 1. Jei su kapitalo kaupimu susijusi
 gyvybės draudimo sutartis nutraukiama arba kitaip pasibaigia prieš terminą ar
 jei draudikas įgyvendina įstatymų ar draudimo sutarties suteikiamą teisę
@@ -3381,8 +3424,8 @@ draudėjui išperkamąją sumą, jeigu ji yra didesnė už draudėjo sumokėtas 
 Išperkamosios sumos apskaičiavimo ir išmokėjimo tvarka ir apytikriai
 išperkamosios sumos dydžiai turi būti nurodyti gyvybės draudimo sutartyje.
  
-110 straipsnis. Iš draudimo sutarties atsirandančių
-turtinių teisių perleidimas
+110 straipsnis. Iš draudimo
+sutarties atsirandančių turtinių teisių perleidimas
 1. Gyvybės draudimo sutartyje nustatyta tvarka
 draudėjas ir naudos gavėjas gali perleisti kitam asmeniui iš gyvybės draudimo sutarties atsirandančias turtines
 teises. 
@@ -3391,8 +3434,8 @@ perleidus iš gyvybės draudimo sutarties
 atsirandančias teises, naudos gavėjo, išskyrus neatšaukiamą naudos gavėją,
 paskyrimas netenka galios. 
  
-111
-straipsnis. Iš draudimo sutarties atsirandančių turtinių teisių įkeitimas
+111 straipsnis. Iš draudimo sutarties atsirandančių
+turtinių teisių įkeitimas
 1. Draudėjas
 gali prievolės įvykdymui užtikrinti įkeisti iš gyvybės
 draudimo sutarties, susijusios su kapitalo kaupimu, atsirandančias turtines
@@ -3419,11 +3462,13 @@ patenkinus įkaito turėtojo reikalavimą, išperkamoji suma ar draudimo išmoka
 sumažinama dalimi, lygia draudiko patenkintų įkaito turėtojo reikalavimų
 daliai. 
  
-PENKTASIS SKIRSNIS
+PENKTASIS
+SKIRSNIS
 SVEIKATOS DRAUDIMO
 YPATUMAI
  
-112 straipsnis. Apdraustasis
+112 straipsnis.
+Apdraustasis
 1. Draudėjas gali sudaryti sveikatos draudimo sutartį
 dėl savo arba dėl kito asmens, kuris sudarius draudimo sutartį tampa
 apdraustuoju, turtinių interesų, susijusių su sveikata. 
@@ -3431,7 +3476,8 @@ apdraustuoju, turtinių interesų, susijusių su sveikata.
 draudimas yra nuostolių draudimas, naudos gavėju gali būti tik apdraustasis, o
 jo mirties atveju – paskirtasis naudos gavėjas.
  
-113 straipsnis. Kitų šio Įstatymo nuostatų taikymas
+113 straipsnis. Kitų šio
+Įstatymo nuostatų taikymas
 1. Sveikatos
 draudimo sutarčiai mutatis mutandis
 taikomos šio Įstatymo 100 straipsnio 1–3 dalių, 101, 102 ir 106 straipsnių
@@ -3448,7 +3494,8 @@ Nr.
 X-798,
 2006-07-19, Žin., 2006, Nr. 87-3409 (2006-08-08)
  
-114 straipsnis. Draudimo rizika
+114 straipsnis. Draudimo
+rizika
 1. Draudikas, įgyvendindamas įstatymo ar sveikatos
 draudimo sutarties suteikiamas teises, negali remtis tuo, jog:
 1) draudėjas neįvykdė Civilinio kodekso 6.993
@@ -3466,7 +3513,8 @@ apdraustasis tyčia sukelia sau ligą.
 ŠEŠTASIS SKIRSNIS
 BENDRASIS DRAUDIMAS
  
-115 straipsnis. Dalyvavimas bendrajame draudime
+115 straipsnis.
+Dalyvavimas bendrajame draudime
 1. Bendrajame
 draudime dalyvaujančių draudikų tarpusavio teises ir pareigas nustato sutartis.
 Joje privalo būti šios sąlygos:
@@ -3504,8 +3552,8 @@ išmokos mokėjimo būdų;
 5) visų draudikų parašai ir antspaudai, jei draudikų
 tarpusavio sutartyje numatyta, jog draudimo liudijimą pasirašo ne tik
 pagrindinis draudikas, bet ir visi kiti draudikai.
-5. Draudimo išmoka pagal bendrojo draudimo sutartį
-mokama vienu iš šių būdų, kuris privalo būti nurodytas draudimo sutartyje:
+5. Draudimo išmoka pagal bendrojo draudimo sutartį mokama
+vienu iš šių būdų, kuris privalo būti nurodytas draudimo sutartyje:
 1) pagrindinis draudikas savo ir kitų dalyvaujančių
 bendrajame draudime draudikų vardu moka draudimo išmoką;
 2) kiekvienas bendrajame draudime dalyvaujantis
@@ -3530,8 +3578,8 @@ privalomas pagrindinio draudiko sprendimas, kuriuo konstatuojamas draudiminio
 įvykio ar draudiminio įvykio nebuvimo faktas, draudimo išmokos dydis, ir
 sprendimas išmokėti draudimo išmoką.
  
-116 straipsnis. Bendrasis draudimas Europos
-Sąjungos valstybėse narėse
+116 straipsnis.
+Bendrasis draudimas Europos Sąjungos valstybėse narėse
 1. Šio Įstatymo 115 straipsnio nuostatos netaikomos
 draudimo įmonių ir kitų Europos Sąjungos valstybių narių draudimo įmonių
 bendrajam draudimui Europos Sąjungos valstybėse narėse, atitinkančiam visus
@@ -3554,8 +3602,8 @@ narėje ar valstybėse narėse;
 nustatytus reikalavimus ir pagal statusą, apibrėžtą sutartimi tarp draudikų,
 draudimo sutartiniuose santykiuose pagrindinis draudikas laikomas draudiku,
 suteikiančiu draudimo apsaugą dėl visos draudimo rizikos;
-6) bent vieno iš draudikų buveinė ar filialas yra kitoje
-nei pagrindinio draudiko Europos Sąjungos valstybėje narėje;
+6) bent vieno iš draudikų buveinė ar filialas yra
+kitoje nei pagrindinio draudiko Europos Sąjungos valstybėje narėje;
 7) pagrindinis draudikas visiškai prisiima pagrindinio
 draudiko teises bei pareigas ir turi teisę nustatyti draudimo sutarties sąlygas
 ir draudimo įmokos dydį.
@@ -3579,7 +3627,8 @@ VI SKYRIUS
 DRAUDIMO
 SUTARTIMS TAIKYTINA TEISĖ
  
-117 straipsnis. Skyriaus nuostatų taikymas
+117 straipsnis. Skyriaus
+nuostatų taikymas
 Šis skyrius nustato
 teisę, taikytiną ne gyvybės draudimo sutartims, kuriomis apdraudžiamos rizikos,
 esančios Europos Sąjungos valstybėse narėse, privalomo draudimo sutartims, kai
@@ -3588,16 +3637,15 @@ pat teisę, taikytiną gyvybės draudimo sutartims, kai nuolatinė draudėjo
 gyvenamoji vieta ar buveinė, su kuria susijusi gyvybės draudimo sutartis, yra
 Europos Sąjungos valstybėje narėje.
  
-118 straipsnis.
-Imperatyvios teisės normos
+118 straipsnis. Imperatyvios teisės normos
 Europos Sąjungos valstybės narės, kurioje yra draudimo
 rizika, įsipareigojimo pagal gyvybės draudimo sutartį ar Europos Sąjungos
 valstybės narės, kuri numato pareigą sudaryti draudimo sutartį, imperatyvios
 teisės normos taikomos draudimo sutarčiai nepaisant to, kokia teisė taikytina
 draudimo sutarčiai.
  
-119
-straipsnis. Ne gyvybės draudimo sutartims taikytina teisė 
+119 straipsnis. Ne gyvybės draudimo
+sutartims taikytina teisė 
 1. Šis straipsnis nustato teisę, taikytiną ne gyvybės draudimo
 sutartims, kuriomis apdraudžiamos draudimo rizikos, esančios Europos Sąjungos
 valstybėse narėse, jei ne gyvybės draudimo sutarties šalys nepasirinko taikomos
@@ -3645,8 +3693,7 @@ rizikų, esančių daugiau kaip vienoje Europos Sąjungos valstybėje narėje,
 taikant šios dalies nuostatas laikoma, kad draudimo sutartis sudaryta iš keleto
 draudimo sutarčių, iš kurių kiekviena yra susijusi tik su viena valstybe nare.
  
-120 straipsnis.
-Privalomojo draudimo sutartims taikytina teisė
+120 straipsnis. Privalomojo draudimo sutartims taikytina teisė
 1. Privalomojo draudimo sutarčiai taikoma Europos
 Sąjungos valstybės narės, kuri numato pareigą sudaryti draudimo sutartį, teisė.
 
@@ -3654,11 +3701,10 @@ Sąjungos valstybės narės, kuri numato pareigą sudaryti draudimo sutartį, te
 sudaryti draudimo sutartį numato Lietuvos Respublikos įstatymai, ji nelaikoma
 tinkamai įvykdyta, jei sudaryta draudimo sutartis neatitinka Lietuvos
 Respublikos teisės aktų, taikomų tokiam draudimui, nuostatų.
-3. Kai
-privalomojo draudimo atveju Europos Sąjungos valstybės narės, kurioje yra
-draudimo rizika, ir valstybės narės, kuri numato pareigą sudaryti draudimo
-sutartį, teisė prieštarauja viena kitai, taikoma pastarosios valstybės narės
-teisė.
+3. Kai privalomojo
+draudimo atveju Europos Sąjungos valstybės narės, kurioje yra draudimo rizika,
+ir valstybės narės, kuri numato pareigą sudaryti draudimo sutartį, teisė
+prieštarauja viena kitai, taikoma pastarosios valstybės narės teisė.
 4. Jeigu draudimo sutartis sudaroma dėl draudimo
 rizikų, esančių daugiau kaip vienoje Europos Sąjungos valstybėje narėje, ir
 bent vienoje iš jų yra privalomasis draudimas, taikant šio straipsnio 2 dalies
@@ -3670,8 +3716,7 @@ institucijoms apie draudimo apsaugos pabaigą, draudimo apsaugos pabaiga
 teisines pasekmes tretiesiems asmenims sukelia tik esant aplinkybėms,
 nurodytoms šios Europos Sąjungos valstybės narės teisės aktuose.
  
-121 straipsnis.
-Gyvybės draudimo sutartims taikytina teisė
+121 straipsnis. Gyvybės draudimo sutartims taikytina teisė
 1. Šis straipsnis nustato gyvybės draudimo sutartims
 taikytiną teisę, kai gyvybės draudimo sutarties šalys nepasirinko draudimo
 sutarčiai taikomos teisės.
@@ -3690,8 +3735,7 @@ PERTVARKYMAS IR BANKROTAS
 PIRMASIS SKIRSNIS
 INTERVENCINĖS PRIEMONĖS
  
-122 straipsnis.
-Skirsnio nuostatų taikymas
+122 straipsnis. Skirsnio nuostatų taikymas
 1. Šis skirsnis
 reglamentuoja intervencinių priemonių taikymą:
 1) Lietuvos
@@ -3710,22 +3754,20 @@ komisijos poveikio priemonės, kurias taikydama Priežiūros komisija,
 atsižvelgusi į galimas poveikio priemonių pasekmes, nurodė, jog taikomos
 poveikio priemonės yra intervencinės.
  
-123 straipsnis.
-Intervencinės priemonės
+123 straipsnis. Intervencinės priemonės
 1. Tik teismas arba
 Priežiūros komisija turi teisę priimti sprendimą dėl intervencinių priemonių
 taikymo.
 2. Intervencinėms
 priemonėms taikoma Lietuvos Respublikos teisė.
  
-124 straipsnis.
-Informacija apie intervencines priemones
+124 straipsnis. Informacija apie intervencines priemones
 1. Priežiūros
 komisija, gavusi teismo išsiųstas ekspertų ataskaitą ir rekomendacijas,
 nurodytas Civilinio kodekso 2.130 straipsnio 2 dalyje, privalo teismui pateikti
 išvadą dėl teismo ketinamų taikyti intervencinių priemonių. Teismas, priėmęs
-sprendimą taikyti intervencinę priemonę, apie priimtą sprendimą ir jo įsigaliojimą
-privalo nedelsdamas pranešti Priežiūros komisijai.
+sprendimą taikyti intervencinę priemonę, apie priimtą sprendimą ir jo
+įsigaliojimą privalo nedelsdamas pranešti Priežiūros komisijai.
 2. Priežiūros
 komisija privalo nedelsdama pranešti kitų Europos Sąjungos valstybių narių
 kompetentingoms institucijoms apie teismo ar Priežiūros komisijos priimtą
@@ -3757,12 +3799,13 @@ teisėms. Priežiūros komisija turi teisę pavesti draudimo įmonei ar užsieni
 valstybės draudimo įmonės filialui apie intervencinę priemonę pranešti šiems
 asmenims.
  
-antrasis SKIRSNIS
+antrasis
+SKIRSNIS
 draudimo įmonių pabaiga, pertvarkymas ir bankrotas
 bei užsienio valstybių draudimo įmonių filialų veiklos nutraukimas
  
-125 straipsnis. Draudimo įmonių pabaiga, pertvarkymas
-ir bankrotas
+125 straipsnis. Draudimo
+įmonių pabaiga, pertvarkymas ir bankrotas
 1. Reorganizuoti draudimo
 įmonę visuotinio akcininkų susirinkimo sprendimu, ją pertvarkyti reikalingas
 Priežiūros komisijos leidimas, išduodamas Priežiūros komisijos nustatyta
@@ -3774,8 +3817,7 @@ asmenims apie reorganizavimo, pertvarkymo ir veiklos rūšies keitimo procedūra
 ir atsižvelgdama į šio Įstatymo 133 straipsnio nuostatas nustatyti informacijos
 pateikimo tvarką. 
  
-126 straipsnis.
-Savanoriškas draudimo įmonės likvidavimas
+126 straipsnis. Savanoriškas draudimo įmonės likvidavimas
 1. Draudimo įmonės visuotinis akcininkų susirinkimas
 turi teisę priimti sprendimą likviduoti draudimo įmonę tik kai draudimo įmonė
 šio Įstatymo nustatyta tvarka yra perleidusi teises ir pareigas pagal draudimo
@@ -3794,8 +3836,7 @@ sprendimą likviduoti draudimo įmonę ir paskirti likvidatorių ar sudaryti
 likvidacinę komisiją ir paskirti jos pirmininką draudimo įmonė per 3 darbo
 dienas privalo raštu pranešti Priežiūros komisijai. 
  
-127 straipsnis.
-Prašymas inicijuoti draudimo įmonės veiklos tyrimą
+127 straipsnis. Prašymas inicijuoti draudimo įmonės veiklos tyrimą
 1. Panaikinusi
 draudimo veiklos licencijos galiojimą, Priežiūros komisija privalo įpareigoti
 draudimo įmonę perleisti teises ir pareigas pagal draudimo sutartis ir
@@ -3809,8 +3850,7 @@ pagal draudimo sutartis, Priežiūros komisija privalo kreiptis į prokurorą su
 prašymu inicijuoti draudimo veiklos tyrimą Civilinio kodekso 2.124 – 2.131
 straipsniuose nustatyta tvarka.
  
-128 straipsnis.
-Priverstinis draudimo įmonės likvidavimas
+128 straipsnis. Priverstinis draudimo įmonės likvidavimas
 1. Teismas, prieš
 priimdamas sprendimą dėl draudimo įmonės priverstinio likvidavimo Civilinio
 kodekso 2.106 straipsnyje nurodytais pagrindais, privalo pranešti Priežiūros
@@ -3821,7 +3861,8 @@ Priežiūros komisija. Priėmęs sprendimą likviduoti draudimo įmonę, paskirt
 likvidatorių ar likvidacinę komisiją bei jos pirmininką, teismas per 3 darbo
 dienas apie tai privalo raštu pranešti Priežiūros komisijai.
  
-129 straipsnis. Draudimo įmonės bankrotas 
+129 straipsnis. Draudimo
+įmonės bankrotas 
 1. Draudimo įmonės bankroto byla nagrinėjama Įmonių
 bankroto įstatymo nustatyta tvarka, jei šis Įstatymas nenustato kitaip. 
 2. Draudimo įmonės bankroto procesas vyksta tik teismo
@@ -3847,8 +3888,9 @@ Priežiūros komisija.
 7. Pirmąjį kreditorių atstovų komiteto posėdį šaukia
 Priežiūros komisija arba Priežiūros komisijos pavedimu administratorius.
  
-130 straipsnis. Užsienio valstybės draudimo įmonės
-reorganizavimas, susijęs su filialu, įsteigtu Lietuvos Respublikoje
+130 straipsnis. Užsienio
+valstybės draudimo įmonės reorganizavimas, susijęs su filialu, įsteigtu
+Lietuvos Respublikoje
 1. Užsienio valstybės draudimo įmonės reorganizavimas
 gali sukelti teisines pasekmes šios įmonės filialo Lietuvos Respublikoje
 draudėjų, apdraustųjų, naudos gavėjų ir trečiųjų asmenų teisėms ir pareigoms
@@ -3858,8 +3900,9 @@ komisija turi teisę įpareigoti užsienio valstybės draudimo įmonės filialą
 pranešti apie reorganizavimo procedūras ir, atsižvelgdama į šio Įstatymo 133
 straipsnio nuostatas, nustatyti informacijos pateikimo tvarką.
  
-131 straipsnis. Užsienio valstybės
-draudimo įmonės filialo, įsteigto Lietuvos Respublikoje, veiklos nutraukimas 
+131
+straipsnis. Užsienio valstybės draudimo įmonės filialo, įsteigto Lietuvos
+Respublikoje, veiklos nutraukimas 
 1. Užsienio valstybės draudimo įmonė turi teisę
 priimti sprendimą nutraukti filialo, įsteigto Lietuvos Respublikoje, veiklą tik
 šio Įstatymo nustatyta tvarka perdavusi teises ir pareigas pagal filialo
@@ -3880,25 +3923,25 @@ sprendimą nutraukti Lietuvos Respublikoje įsteigto užsienio valstybės draudi
 nutraukimą, užsienio valstybės draudimo įmonė per 3 darbo dienas raštu privalo
 pranešti Priežiūros komisijai. 
  
-132 straipsnis. Užsienio valstybės
-draudimo įmonės filialo, įsteigto Lietuvos Respublikoje, priverstinis veiklos
-nutraukimas
-1. Užsienio valstybės draudimo įmonės filialo, įsteigto
-Lietuvos Respublikoje, veikla priverstinai nutraukiama Priežiūros komisijai
-priėmus sprendimą panaikinti išduotą leidimą filialo draudimo veiklai. Šiuo
-atveju asmens, atsakingo už veiklos nutraukimą, kandidatūrą teikia Priežiūros
-komisija. 
-2. Jei įstatymų nustatyta tvarka sprendimą nutraukti
-Lietuvos Respublikoje įsteigto užsienio valstybės draudimo įmonės filialo
-veiklą ketina priimti kitos Lietuvos Respublikos institucijos, asmens,
-atsakingo už veiklos nutraukimą, kandidatūrą pateikia Priežiūros komisija.
-Priėmusi sprendimą nutraukti užsienio valstybės draudimo įmonės filialo veiklą
-ir paskirti asmenį, atsakingą už veiklos nutraukimą, valstybės institucija per
-3 darbo dienas apie tai privalo raštu pranešti Priežiūros komisijai.
+132
+straipsnis. Užsienio valstybės draudimo įmonės filialo, įsteigto Lietuvos
+Respublikoje, priverstinis veiklos nutraukimas
+1. Užsienio valstybės draudimo įmonės filialo,
+įsteigto Lietuvos Respublikoje, veikla priverstinai nutraukiama Priežiūros
+komisijai priėmus sprendimą panaikinti išduotą leidimą filialo draudimo
+veiklai. Šiuo atveju asmens, atsakingo už veiklos nutraukimą, kandidatūrą
+teikia Priežiūros komisija. 
+2. Jei įstatymų nustatyta tvarka sprendimą nutraukti Lietuvos
+Respublikoje įsteigto užsienio valstybės draudimo įmonės filialo veiklą ketina
+priimti kitos Lietuvos Respublikos institucijos, asmens, atsakingo už veiklos
+nutraukimą, kandidatūrą pateikia Priežiūros komisija. Priėmusi sprendimą
+nutraukti užsienio valstybės draudimo įmonės filialo veiklą ir paskirti asmenį,
+atsakingą už veiklos nutraukimą, valstybės institucija per 3 darbo dienas apie
+tai privalo raštu pranešti Priežiūros komisijai.
  
-133 straipsnis. Informacija, susijusi su draudimo
-įmonės likvidavimu ir bankroto byla bei užsienio valstybės draudimo įmonės
-filialo veiklos nutraukimu
+133 straipsnis.
+Informacija, susijusi su draudimo įmonės likvidavimu ir bankroto byla bei
+užsienio valstybės draudimo įmonės filialo veiklos nutraukimu
 1. Priežiūros
 komisija privalo nedelsdama pranešti kitų Europos Sąjungos valstybių narių
 kompetentingoms institucijoms apie priimtą sprendimą likviduoti draudimo įmonę,
@@ -3918,8 +3961,8 @@ administratorius privalo nedelsdamas informuoti „Valstybės žinių“ priede
 užsienio valstybės draudimo įmonės filialo veiklą ar iškelti bankroto bylą
 draudimo įmonei.
 4. Likviduojamos
-draudimo įmonės likvidatorius, likvidacinės komisijos pirmininkas, asmuo,
-atsakingas už užsienio valstybės draudimo įmonės filialo veiklos nutraukimą, ar
+draudimo įmonės likvidatorius, likvidacinės komisijos pirmininkas, asmuo, atsakingas
+už užsienio valstybės draudimo įmonės filialo veiklos nutraukimą, ar
 bankrutuojančios draudimo įmonės administratorius privalo nedelsdamas paskelbti
 ištrauką iš priimto sprendimo Europos Sąjungos oficialiajame leidinyje.
 Skelbime, be kitų duomenų, privalo būti nurodytas Priežiūros komisijos ir
@@ -3983,19 +4026,20 @@ prašymu privalo pateikti informaciją apie draudimo įmonės likvidavimą, užs
 valstybės draudimo įmonės filialo veiklos nutraukimą ar draudimo įmonės
 bankrotą.
  
-134 straipsnis. Likviduojamos, bankrutavusios draudimo
-įmonės ir užsienio valstybės draudimo įmonės filialo, kurio veikla nutraukiama,
-turto, dengiančio draudimo techninius atidėjinius, naudojimas
-1. Likviduojamos, bankrutavusios
-draudimo įmonės ir užsienio valstybės draudimo įmonės filialo, kurio veikla
-nutraukiama, draudimo techninius atidėjinius dengiantis turtas, įtrauktas į šio
-Įstatymo 35 straipsnio 7 dalyje nurodytą sąrašą, gali būti naudojamas tik
-draudėjų, apdraustųjų, naudos gavėjų bei nukentėjusių trečiųjų asmenų
-kreditoriniams reikalavimams, atsirandantiems iš draudimo sutarčių, tenkinti,
-išskyrus šio straipsnio 4 dalyje numatytą išimtį. Iš draudimo techninius
-atidėjinius dengiančio turto ir lėšų, gautų jį perleidus, negali būti išieškoma
-pagal kitas draudimo įmonės ar kitos užsienio valstybės draudimo įmonės filialo
-prievoles. 
+134 straipsnis.
+Likviduojamos, bankrutavusios draudimo įmonės ir užsienio valstybės draudimo
+įmonės filialo, kurio veikla nutraukiama, turto, dengiančio draudimo techninius
+atidėjinius, naudojimas
+1. Likviduojamos,
+bankrutavusios draudimo įmonės ir užsienio valstybės draudimo įmonės filialo,
+kurio veikla nutraukiama, draudimo techninius atidėjinius dengiantis turtas,
+įtrauktas į šio Įstatymo 35 straipsnio 7 dalyje nurodytą sąrašą, gali būti
+naudojamas tik draudėjų, apdraustųjų, naudos gavėjų bei nukentėjusių trečiųjų
+asmenų kreditoriniams reikalavimams, atsirandantiems iš draudimo sutarčių,
+tenkinti, išskyrus šio straipsnio 4 dalyje numatytą išimtį. Iš draudimo
+techninius atidėjinius dengiančio turto ir lėšų, gautų jį perleidus, negali
+būti išieškoma pagal kitas draudimo įmonės ar kitos užsienio valstybės draudimo
+įmonės filialo prievoles. 
 2. Jei draudimo techninius atidėjinius dengiančio
 turto nepakanka visiems likviduojamos ar bankrutavusios draudimo įmonės,
 užsienio valstybės draudimo įmonės filialo, kurio veikla nutraukiama,
@@ -4018,10 +4062,10 @@ išlaidoms padengti, teismas kreditorių atstovų komiteto siūlymu, atsižvelgd
 10 procentų draudimo techninius atidėjinius dengiančio turto bankrutuojančios
 draudimo įmonės administravimo išlaidoms.
  
-135 straipsnis. Bankrutuojančių
-draudimo įmonių draudimo sutarčių pasibaigimas
-1. Įsiteisėjus
-teismo nutarčiai iškelti bankroto bylą:
+135
+straipsnis. Bankrutuojančių draudimo įmonių draudimo sutarčių pasibaigimas
+1. Įsiteisėjus teismo
+nutarčiai iškelti bankroto bylą:
 1) ne gyvybės draudimo sutartys, išskyrus transporto
 priemonių valdytojų civilinės atsakomybės privalomojo draudimo sutartis,
 pasibaigia;
@@ -4043,8 +4087,9 @@ Nr.
 X-798,
 2006-07-19, Žin., 2006, Nr. 87-3409 (2006-08-08)
  
-136 straipsnis. Užsienio valstybių
-draudimo įmonių filialų draudimo sutarčių pasibaigimas
+136
+straipsnis. Užsienio valstybių draudimo įmonių filialų draudimo sutarčių
+pasibaigimas
 1. Priežiūros komisijai panaikinus leidimą užsienio
 valstybės draudimo įmonės filialo draudimo veiklai dėl to, kad filialo
 įsipareigojimai viršija filialui priskirtą turtą:
@@ -4090,8 +4135,8 @@ Nr.
 X-798,
 2006-07-19, Žin., 2006, Nr. 87-3409 (2006-08-08)
  
-137 straipsnis. Draudėjų kreditoriniai reikalavimai
-pasibaigus gyvybės draudimo sutartims
+137 straipsnis. Draudėjų
+kreditoriniai reikalavimai pasibaigus gyvybės draudimo sutartims
 1. Kiekvienas šio Įstatymo 135 ar 136 straipsnyje
 numatytais pagrindais pasibaigusios gyvybės draudimo sutarties draudėjas įgyja
 kreditorinio reikalavimo teisę į draudimo įmonę ar užsienio valstybės draudimo
@@ -4106,9 +4151,9 @@ gyvybės draudimo sutartį, kreditorinio reikalavimo dydis yra lygus to draudėj
 draudimo sutarčiai sudarytų techninių atidėjinių dydžių sutarties pasibaigimo
 dieną sumai. 
  
-138 straipsnis. Teisių ir pareigų
-pagal bankrutuojančios draudimo įmonės gyvybės draudimo sutartis perleidimo
-ypatumai
+138
+straipsnis. Teisių ir pareigų pagal bankrutuojančios draudimo įmonės gyvybės
+draudimo sutartis perleidimo ypatumai
 1. Perleidžiant teises ir pareigas pagal
 bankrutuojančios draudimo įmonės gyvybės draudimo sutartis, vietoj šio Įstatymo
 41 straipsnio 5 dalyje, 42 straipsnio 1 ir 3 dalyse nustatytų terminų taikomas
@@ -4143,16 +4188,16 @@ nereikia, jei įgyvendinant šio straipsnio 4 dalies nuostatas perduodamas
 draudimo techninius atidėjinius dengiantis turtas yra adekvatus perimamoms
 teisėms ir pareigoms.
  
-139 straipsnis. Teisių ir pareigų
-pagal užsienio valstybės draudimo įmonės filialo, kurio veikla nutraukiama,
-gyvybės draudimo sutartis perleidimo ypatumai
+139
+straipsnis. Teisių ir pareigų pagal užsienio valstybės draudimo įmonės filialo,
+kurio veikla nutraukiama, gyvybės draudimo sutartis perleidimo ypatumai
 Priežiūros komisija, atsižvelgdama į šio Įstatymo 138
 straipsnio nuostatas, nustato užsienio valstybės draudimo įmonės filialo, kurio
 veikla nutraukiama ir kurio įsipareigojimai didesni už jam priskirtą turtą,
 teisių ir pareigų pagal gyvybės draudimo sutartis perleidimo tvarką.
  
-140 straipsnis. Likviduojamos ir bankrutuojančios
-draudimo įmonės draudimo veiklos licencija
+140 straipsnis.
+Likviduojamos ir bankrutuojančios draudimo įmonės draudimo veiklos licencija
 1. Jei šio Įstatymo nustatyta tvarka draudimo veiklos
 licencijos galiojimas iki sprendimo likviduoti draudimo įmonę ar iškelti jai
 bankroto bylą priėmimo nėra panaikintas, priėmus sprendimą likviduoti draudimo
@@ -4168,8 +4213,9 @@ išregistravimo į juridinio asmens registro tvarkytoją, likviduojamos draudimo
 draudimo įmonės administratorius privalo pateikti Priežiūros komisijai prašymą
 panaikinti draudimo veiklos licenciją. 
  
-141 straipsnis. Užsienio valstybės draudimo įmonės
-filialo, kurio veikla nutraukiama, leidimas filialo draudimo veiklai
+141 straipsnis. Užsienio
+valstybės draudimo įmonės filialo, kurio veikla nutraukiama, leidimas filialo
+draudimo veiklai
 1. Jei šio Įstatymo nustatyta tvarka leidimo filialo
 draudimo veiklai galiojimas iki sprendimo nutraukti užsienio valstybės draudimo
 įmonės filialo veiklą priėmimo nėra panaikintas, priėmus sprendimą nutraukti
@@ -4184,19 +4230,18 @@ išregistravimo asmuo, atsakingas už filialo veiklos nutraukimą, privalo
 pateikti Priežiūros komisijai prašymą panaikinti leidimą filialo draudimo
 veiklai. 
  
-142 straipsnis.
-Trečiųjų asmenų teisės
+142 straipsnis. Trečiųjų asmenų teisės
 1. Intervencinės
 priemonės, draudimo įmonės likvidavimas, užsienio valstybės draudimo įmonės
 filialo veiklos nutraukimas ar draudimo įmonės bankrotas negali turėti įtakos
 daiktinėms teisėms į draudimo įmonės ar užsienio valstybės draudimo įmonės
 filialui priskirtą turtą, esantį kitoje Europos Sąjungos valstybėje narėje,
 sprendimo taikyti intervencines priemones, likviduoti draudimo įmonę, nutraukti
-užsienio valstybės draudimo įmonės filialo veiklą ar iškelti bankroto bylą
-draudimo įmonei įsigaliojimo metu. Intervencinių priemonių, likvidavimo,
-filialo veiklos nutraukimo ar bankroto pasekmės reguliuojamos vertybinių
-popierių rinkos dalyvių teisėms ir pareigoms yra nustatomos teisės, taikomos
-šiai vertybinių popierių rinkai.
+užsienio valstybės draudimo įmonės filialo veiklą ar iškelti bankroto bylą draudimo
+įmonei įsigaliojimo metu. Intervencinių priemonių, likvidavimo, filialo veiklos
+nutraukimo ar bankroto pasekmės reguliuojamos vertybinių popierių rinkos
+dalyvių teisėms ir pareigoms yra nustatomos teisės, taikomos šiai vertybinių
+popierių rinkai.
 2. Intervencinės
 priemonės, draudimo įmonės likvidavimas, filialo veiklos nutraukimas ar
 draudimo įmonės bankrotas negali turėti įtakos pardavėjo teisėms, susijusioms
@@ -4253,8 +4298,7 @@ priemonių, draudimo įmonės likvidavimo, filialo veiklos nutraukimo ar draudim
 kitos užsienio valstybės draudimo įmonės filialo turto ar teisių, nustatomas
 pagal Europos Sąjungos valstybės narės, kurioje vyksta teismo procesas, teisę.
  
-143 straipsnis.
-Reikalavimai skiriamiems asmenims
+143 straipsnis. Reikalavimai skiriamiems asmenims
 1. Asmuo, skiriamas
 likviduojamos draudimo įmonės likvidatoriumi, likvidacinės komisijos
 pirmininku, asmeniu, atsakingu už užsienio valstybės draudimo įmonės filialo
@@ -4285,12 +4329,12 @@ draudėjų, apdraustųjų, naudos gavėjų, nukentėjusių trečiųjų asmenų a
 kreditorių interesus, Priežiūros komisija turi teisę reikalauti, kad būtų
 paskirtas naujas asmuo, ir nustatyti terminą naujam asmeniui paskirti.
 6. Jei šio
-straipsnio 1 dalyje nurodyti asmenys, kurių skyrimas priklauso teismo kompetencijai,
-netinkamai eina savo pareigas, pažeidžia teisės aktus ar draudėjų, apdraustųjų,
-naudos gavėjų, nukentėjusių trečiųjų asmenų ir kitų kreditorių interesus,
-Priežiūros komisija turi teisę kreiptis į teismą su prašymu, kad teismas
-pakeistų šį asmenį. Tokiu atveju naujo asmens kandidatūrą pateikia Priežiūros
-komisija. 
+straipsnio 1 dalyje nurodyti asmenys, kurių skyrimas priklauso teismo
+kompetencijai, netinkamai eina savo pareigas, pažeidžia teisės aktus ar
+draudėjų, apdraustųjų, naudos gavėjų, nukentėjusių trečiųjų asmenų ir kitų
+kreditorių interesus, Priežiūros komisija turi teisę kreiptis į teismą su
+prašymu, kad teismas pakeistų šį asmenį. Tokiu atveju naujo asmens kandidatūrą
+pateikia Priežiūros komisija. 
  
 VIII SKYRIUS
 DRAUDIMO IR PERDRAUDIMO TARPININKAI
@@ -4298,8 +4342,7 @@ DRAUDIMO IR PERDRAUDIMO TARPININKAI
 PIRMASIS SKIRSNIS
 BENDROSIOS NUOSTATOS
  
-144 straipsnis.
-Skyriaus nuostatų taikymas
+144 straipsnis. Skyriaus nuostatų taikymas
 Šio
 skyriaus nuostatos nėra taikomos asmenims, teikiantiems draudimo tarpininkavimo
 paslaugas, jei yra visos šios sąlygos:
@@ -4328,8 +4371,7 @@ neviršija 5 metų.
 ANTRASIS SKIRSNIS
 LIETUVOS RESPUBLIKOS DRAUDIMO BROKERIŲ ĮMONĖ
  
-145 straipsnis.
-Licencija draudimo brokerių įmonės veiklai 
+145 straipsnis. Licencija draudimo brokerių įmonės veiklai 
 1. Draudimo brokerių
 įmonė turi teisę verstis draudimo tarpininkavimo veikla tik turėdama Priežiūros
 komisijos išduotą licenciją.
@@ -4344,8 +4386,8 @@ veiklą;
 3) akcinei
 bendrovei, uždarajai akcinei bendrovei ar Europos bendrovei, keičiančiai
 vykdomos veiklos rūšį į draudimo brokerių įmonės veiklą.
- 3. Licencija draudimo brokerių įmonės veiklai taip pat
-galioja visose kitose Europos Sąjungos valstybėse narėse, suteikdama teisę
+ 3. Licencija draudimo brokerių įmonės veiklai taip
+pat galioja visose kitose Europos Sąjungos valstybėse narėse, suteikdama teisę
 vykdyti draudimo ir perdraudimo tarpininkavimo veiklą įgyvendinant steigimosi
 teisę ir (ar) teisę teikti paslaugas šio Įstatymo 173 straipsnyje nustatytomis
 sąlygomis.
@@ -4359,18 +4401,18 @@ kitam asmeniui.
 komisija. 
 7. Steigiama draudimo brokerių įmonė gali būti
 įregistruota juridinių asmenų registre, o jei licencija draudimo brokerių
-įmonės veiklai išduodama ne steigiamai draudimo brokerių įmonei, atitinkami pakeitimai
-juridinių asmenų registre gali būti padaryti tik po licencijos draudimo
-brokerių įmonės veiklai išdavimo. Apie įregistravimo faktą draudimo brokerių
-įmonė per 5 darbo dienas privalo pranešti Priežiūros komisijai.
+įmonės veiklai išduodama ne steigiamai draudimo brokerių įmonei, atitinkami
+pakeitimai juridinių asmenų registre gali būti padaryti tik po licencijos
+draudimo brokerių įmonės veiklai išdavimo. Apie įregistravimo faktą draudimo
+brokerių įmonė per 5 darbo dienas privalo pranešti Priežiūros komisijai.
 8. Priežiūros komisija pagal juridinių asmenų registro
 nuostatus privalo pranešti juridinių asmenų registrui apie licencijos draudimo
 brokerių įmonės veiklai išdavimą, galiojimo sustabdymą ar panaikinimą.
 9. Priežiūros
 komisijos interneto tinklalapyje skelbiamas draudimo brokerių įmonių sąrašas.
  
-146 straipsnis. Licencijos draudimo brokerių
-įmonės veiklai išdavimas
+146 straipsnis.
+Licencijos draudimo brokerių įmonės veiklai išdavimas
 1. Per 4 mėnesius nuo prašymo išduoti licenciją
 draudimo brokerių įmonės veiklai ir visų dokumentų, nurodytų draudimo
 brokerių įmonės veiklos licencijavimo taisyklėse, pateikimo dienos Priežiūros
@@ -4408,8 +4450,7 @@ trečiųjų asmenų interesams, perėmėja;
 nesumokėta valstybės rinkliava už licencijos draudimo brokerių įmonės veiklai
 išdavimą.
  
-147 straipsnis.
-Reikalavimai draudimo brokerių įmonei
+147 straipsnis. Reikalavimai draudimo brokerių įmonei
 1. Draudimo brokerių
 įmonės pavadinimo dalyje, nusakančioje įmonės rūšį, turi būti žodžiai „Akcinė
 draudimo brokerių bendrovė“, „Uždaroji akcinė draudimo brokerių bendrovė“ arba
@@ -4445,16 +4486,14 @@ taip pat gali vertinti draudžiamą turtą Turto ir verslo vertinimo pagrindų
 finansinę bei kitokią informaciją, reikalingą draudimo brokerių įmonės veiklos
 priežiūrai. 
  
-148 straipsnis.
-Draudimo brokerių įmonės valdymas
+148 straipsnis. Draudimo brokerių įmonės valdymas
 Draudimo
 brokerių įmonę kontroliuojantys asmenys, joje dalyvaujančios įmonės, draudimo
 brokerių įmonės priežiūros ir valdymo organų nariai privalo būti
-nepriekaištingos reputacijos asmenys, o administracijos vadovas –
-nepriekaištingos reputacijos, kvalifikuotas ir patyręs. 
+nepriekaištingos reputacijos asmenys, o administracijos vadovas – nepriekaištingos
+reputacijos, kvalifikuotas ir patyręs. 
  
-149 straipsnis.
-Draudimo brokerių įmonių nepriklausomumas
+149 straipsnis. Draudimo brokerių įmonių nepriklausomumas
 1. Draudimo brokerių
 įmonė yra nepriklausomas draudimo tarpininkas, turintis teisę vykdyti draudimo
 tarpininkavimo veiklą tiek draudiko, tiek draudėjo, apdraustojo, naudos gavėjo
@@ -4468,8 +4507,8 @@ trečiojo asmens nuostolius, atsiradusius dėl šios pareigos nevykdymo.
 įmonė, vykdydama su draudimo sutarčių sudarymu susijusią draudimo
 tarpininkavimo veiklą draudiko pavedimu, privalo atsižvelgdama į draudėjo
 poreikius sudaryti draudėjui galimybę rinktis ir kitų, ne mažiau kaip dviejų,
-draudikų teikiamas tokias pat ar panašias pagal draudimo apsaugos pobūdį draudimo
-paslaugas. 
+draudikų teikiamas tokias pat ar panašias pagal draudimo apsaugos pobūdį
+draudimo paslaugas. 
 4. Draudimo brokerių įmonė privalo atskleisti
 draudėjams, apdraustiesiems, naudos gavėjams ir nukentėjusiems tretiesiems
 asmenims sutartinių santykių su draudikais, kurių pavedimu vykdo draudimo
@@ -4487,8 +4526,8 @@ draudimo brokerių įmonės prievoles, o draudimo brokerių įmonės bankroto at
 iš šioje sąskaitoje esančių lėšų gali būti tenkinami tik draudėjų, apdraustųjų,
 naudos gavėjų ir nukentėjusių trečiųjų asmenų kreditoriniai reikalavimai.
  
-150 straipsnis. Licencijos draudimo brokerių įmonės veiklai galiojimo
-sustabdymas ir panaikinimas
+150 straipsnis. Licencijos draudimo brokerių įmonės
+veiklai galiojimo sustabdymas ir panaikinimas
 1. Esant šio
 Įstatymo 198 straipsnio 1 dalyje nurodytiems pagrindams, Priežiūros komisija
 turi teisę sustabdyti licencijos draudimo brokerių įmonės veiklai galiojimą.
@@ -4512,7 +4551,8 @@ TREČIASIS SKIRSNIS
 DRAUDIMO BROKERIAI IR DRAUDIMO BROKERIŲ
 RŪMAI
  
-151 straipsnis. Draudimo brokeris
+151 straipsnis.
+Draudimo brokeris
 1. Draudimo brokeriu
 gali būti tik nepriekaištingos reputacijos fizinis asmuo, išlaikęs draudimo
 brokerio kvalifikacinį egzaminą, įrašytas į Priežiūros komisijos tvarkomą
@@ -4521,12 +4561,13 @@ draudimo brokerių sąrašą ir tapęs Draudimo brokerių rūmų nariu.
 kvalifikacinius egzaminus rengia ir jų tvarką nustato Priežiūros komisija.
 3. Draudimo brokerių
 kvalifikaciniai egzaminai rengiami ne rečiau kaip kartą per 4 mėnesius. 
-4. Priežiūros komisija
-išlaikiusį kvalifikacinį egzaminą asmenį per 5 dienas įrašo į draudimo brokerių
-sąrašą ir išduoda jam nustatytos formos pažymėjimą. Draudimo brokerių sąrašo
-duomenys yra viešai skelbiami Priežiūros komisijos interneto tinklalapyje. 
-5. Priežiūros komisija
-turi teisę išbraukti draudimo brokerį iš draudimo brokerių sąrašo:
+4. Priežiūros
+komisija išlaikiusį kvalifikacinį egzaminą asmenį per 5 dienas įrašo į draudimo
+brokerių sąrašą ir išduoda jam nustatytos formos pažymėjimą. Draudimo brokerių
+sąrašo duomenys yra viešai skelbiami Priežiūros komisijos interneto
+tinklalapyje. 
+5. Priežiūros
+komisija turi teisę išbraukti draudimo brokerį iš draudimo brokerių sąrašo:
 1) raštišku draudimo brokerio prašymu;
 2) draudimo brokeriui mirus;
 3) jeigu draudimo brokeris per 12 mėnesių nepradėjo
@@ -4566,7 +4607,8 @@ Nr.
 X-798,
 2006-07-19, Žin., 2006, Nr. 87-3409 (2006-08-08)
  
-152 straipsnis. Draudimo brokerių rūmai 
+152 straipsnis. Draudimo
+brokerių rūmai 
 1. Draudimo brokerių rūmai yra asociacija, kuri
 vienija visus draudimo brokerius ir įgyvendina draudimo brokerių savivaldos
 principus.
@@ -4577,8 +4619,8 @@ Draudimo brokerių rūmų nariai neatsako už Draudimo brokerių rūmų prievole
 3. Draudimo brokerių rūmai savo veikloje vadovaujasi
 šiuo Įstatymu ir kitais teisės aktais bei savo įstatais.
  
-153 straipsnis. Draudimo brokerių rūmų steigimas ir
-registravimas
+153 straipsnis. Draudimo
+brokerių rūmų steigimas ir registravimas
 1. Draudimo brokerių rūmai steigiami visuotiniame
 steigiamajame Draudimo brokerių rūmų narių susirinkime.
 2. Per steigiamąjį susirinkimą patvirtinami Draudimo
@@ -4588,7 +4630,8 @@ susirinkimas.
 3. Draudimo brokerių rūmai laikomi įsteigti nuo jų
 įregistravimo juridinių asmenų registre dienos.
  
-154 straipsnis. Draudimo brokerių rūmų įstatai
+154 straipsnis. Draudimo
+brokerių rūmų įstatai
 1. Draudimo brokerių rūmų įstatuose turi būti
 nurodyta:
 1) Draudimo brokerių rūmų pavadinimas,
@@ -4613,7 +4656,8 @@ likvidavimo tvarka.
 brokerių rūmų veiklos nuostatos, jeigu jos neprieštarauja šiam ir kitiems
 įstatymams.
  
-155 straipsnis. Draudimo brokerių rūmų nariai
+155 straipsnis. Draudimo
+brokerių rūmų nariai
 1. Draudimo brokerių rūmų nariais turi teisę būti tik asmenys, išlaikę
 kvalifikacinius draudimo brokerio egzaminus, įrašyti į Priežiūros komisijos
 tvarkomą draudimo brokerių sąrašą ir turintys tai patvirtinantį pažymėjimą,
@@ -4624,8 +4668,7 @@ reikalavimus.
 1) dalyvauti
 Draudimo brokerių rūmų veikloje ir siūlyti savo atstovus į Draudimo brokerių
 rūmų valdymo organus;
-2) naudotis Draudimo brokerių rūmų teikiamomis
-paslaugomis;
+2) naudotis Draudimo brokerių rūmų teikiamomis paslaugomis;
 3) naudotis Draudimo brokerių rūmų sukaupta
 informacija;
 4) gauti informaciją apie Draudimo brokerių rūmų
@@ -4633,8 +4676,8 @@ veiklą;
 5) ginčyti teisme Draudimo brokerių rūmų organų
 sprendimus.
  
-156 straipsnis. Draudimo brokerio pašalinimas iš
-Draudimo brokerių rūmų 
+156 straipsnis. Draudimo
+brokerio pašalinimas iš Draudimo brokerių rūmų 
 1. Draudimo
 brokeris, kurį Priežiūros komisija išbraukė iš draudimo brokerių sąrašo,
 privalo būti pašalintas iš Draudimo brokerių rūmų narių visuotinio Draudimo
@@ -4643,7 +4686,8 @@ brokerių rūmų narių susirinkimo nustatyta tvarka.
 rūmams draudžiama pašalinti iš Draudimo brokerių rūmų narių draudimo brokerį,
 neišbrauktą iš draudimo brokerių sąrašo. 
  
-157 straipsnis. Draudimo brokerių rūmų funkcijos
+157 straipsnis. Draudimo
+brokerių rūmų funkcijos
 Draudimo brokerių rūmai atlieka šias funkcijas:
 1) atsižvelgdami į
 Priežiūros komisijos rekomendacijas, parengia ir patvirtina draudimo brokerių
@@ -4669,13 +4713,14 @@ išbraukti draudimo brokerį iš draudimo brokerių sąrašo;
 10) atlieka kitas
 įstatuose nurodytas funkcijas.
  
-158 straipsnis. Draudimo brokerių rūmų valdymas
+158 straipsnis. Draudimo
+brokerių rūmų valdymas
 Draudimo brokerių rūmų organai yra visuotinis Draudimo
 brokerių rūmų narių susirinkimas, prezidiumas ir administracija. Prezidiumas ir
 administracija yra Draudimo brokerių rūmų valdymo organai.
  
-159 straipsnis. Visuotinis Draudimo brokerių rūmų
-narių susirinkimas
+159 straipsnis. Visuotinis
+Draudimo brokerių rūmų narių susirinkimas
 1. Draudimo brokerių veiklai aptarti ir plėtoti
 draudimo brokeriai kasmet renkasi į visuotinį Draudimo brokerių rūmų narių
 susirinkimą.
@@ -4684,9 +4729,9 @@ susirinkimą.
 3. Visuotinis Draudimo brokerių rūmų narių
 susirinkimas yra aukščiausiasis Draudimo brokerių rūmų organas.
 4. Visuotinis Draudimo brokerių rūmų narių
-susirinkimas šaukiamas Draudimo brokerių rūmų statute nustatyta tvarka. Neeilinis
-susirinkimas turi būti sušauktas, jei to reikalauja ne mažiau kaip 1/5 Draudimo
-brokerių rūmų narių arba prezidiumas savo nutarimu. 
+susirinkimas šaukiamas Draudimo brokerių rūmų statute nustatyta tvarka.
+Neeilinis susirinkimas turi būti sušauktas, jei to reikalauja ne mažiau kaip
+1/5 Draudimo brokerių rūmų narių arba prezidiumas savo nutarimu. 
 5. Visuotinis Draudimo brokerių rūmų narių
 susirinkimas turi šias teises:
 1) priimti, pildyti ir keisti Draudimo brokerių rūmų
@@ -4704,23 +4749,25 @@ rūmų finansinę atskaitomybę;
 dydį;
 8) tvirtinti Draudimo brokerių garbės teismo
 nuostatus; 
-9) tvirtinti Draudimo brokerių profesinės etikos kodeksą;
+9) tvirtinti Draudimo brokerių profesinės etikos
+kodeksą;
 10) tvirtinti Draudimo brokerių rūmų lėšų panaudojimą;
 11) nustatyti Draudimo brokerių rūmų darbuotojų
 skaičių ir jų atlyginimus;
 12) spręsti kitus Draudimo brokerių rūmų statute
 nurodytus klausimus.
-6. Visuotinis Draudimo brokerių rūmų narių susirinkimas
-yra teisėtas, jeigu jame dalyvauja ne mažiau kaip pusė narių. Sprendimai
-priimami paprasta balsų dauguma, išskyrus įstatymų nustatytus atvejus.
+6. Visuotinis Draudimo brokerių rūmų narių
+susirinkimas yra teisėtas, jeigu jame dalyvauja ne mažiau kaip pusė narių.
+Sprendimai priimami paprasta balsų dauguma, išskyrus įstatymų nustatytus
+atvejus.
 7. Jeigu visuotiniame Draudimo brokerių rūmų narių
 susirinkime nėra kvorumo, statuto nustatyta tvarka ne vėliau kaip po 30 dienų
 turi būti sušauktas pakartotinis susirinkimas. Jis turi teisę priimti
 sprendimus neįvykusio susirinkimo darbotvarkės klausimais, nepaisant
 dalyvaujančių narių skaičiaus.
  
-160 straipsnis. Draudimo brokerių rūmų prezidiumas ir
-administracija
+160 straipsnis. Draudimo
+brokerių rūmų prezidiumas ir administracija
 1. Tarp visuotinių Draudimo brokerių rūmų narių
 susirinkimų rūmų veiklai vadovauja prezidiumas; jis renkamas Draudimo brokerių
 rūmų statute nustatyta tvarka. 
@@ -4736,8 +4783,7 @@ ir vyriausiąjį buhalterį skiria Draudimo brokerių rūmų prezidiumas. Vyriau
 buhalterio pareigas gali atlikti ir apskaitos tvarkymo paslaugas teikiančios
 įmonės.
  
-161 straipsnis.
-Pagrindas iškelti draudimo brokeriui drausmės bylą
+161 straipsnis. Pagrindas iškelti draudimo brokeriui drausmės bylą
 1. Draudimo brokerių
 rūmų prezidiumo ar Priežiūros komisijos siūlymu už šio Įstatymo, kitų teisės
 aktų, profesinės veiklos ar Draudimo brokerių profesinės etikos kodekso
@@ -4747,7 +4793,8 @@ ar Priežiūros komisijos siūlymo iškelti draudimo brokeriui drausmės bylą g
 dienos Draudimo brokerių garbės teismas priima sprendimą, ar kelti draudimo
 brokeriui drausmės bylą.
  
-162 straipsnis. Draudimo brokerių garbės teismas
+162 straipsnis. Draudimo
+brokerių garbės teismas
 1. Draudimo brokerių garbės teismas sudaromas šia
 tvarka:
 1) tris narius draudimo brokerius,
@@ -4768,8 +4815,8 @@ drausmės bylą priėmimo dienos.
 vadovaudamasis nuostatais, kuriuos tvirtina visuotinis Draudimo brokerių rūmų
 narių susirinkimas.
  
-163 straipsnis. Drausminės nuobaudos ir kiti Draudimo
-brokerių garbės teismo priimami sprendimai
+163 straipsnis. Drausminės
+nuobaudos ir kiti Draudimo brokerių garbės teismo priimami sprendimai
 1. Už pažeidimus,
 nurodytus šio Įstatymo 161 straipsnio 1 dalyje, Draudimo brokerių garbės
 teismas gali skirti draudimo brokeriui vieną iš šių nuobaudų:
@@ -4797,14 +4844,13 @@ brokeriui pranešama raštu per 3 dienas nuo sprendimo priėmimo dienos.
 5. Kol Draudimo brokerių garbės teisme vyksta bylos
 nagrinėjimas, draudimo brokeris gali vykdyti savo pareigas.
  
-164 straipsnis. Draudimo brokerių garbės teismo
-sprendimų apskundimas
+164 straipsnis. Draudimo
+brokerių garbės teismo sprendimų apskundimas
 Draudimo brokerių garbės teismo sprendimai gali būti
 apskundžiami per vieną mėnesį nuo atitinkamo sprendimo įteikimo dienos teisės
 aktų nustatyta tvarka.
  
-165 straipsnis.
-Draudimo brokerių rūmų lėšų šaltiniai
+165 straipsnis. Draudimo brokerių rūmų lėšų šaltiniai
 Draudimo brokerių
 rūmų lėšų šaltiniai yra:
 1) Draudimo brokerių
@@ -4817,21 +4863,21 @@ juridinių asmenų neatlygintinai perduotos lėšos ir turtas;
 savivaldybės tikslinės paskirties lėšos;
 5) nevalstybinių
 organizacijų, tarptautinių organizacijų, fondų dovanotos lėšos;
-6) palūkanos už
-kredito įstaigose saugomas lėšas;
+6) palūkanos už kredito
+įstaigose saugomas lėšas;
 7) pagal testamentą
 paveldėtas turtas;
 8) skolintos lėšos;
 9) kitos teisėtai
 gautos lėšos.
  
-166 straipsnis. Draudimo brokerių rūmų finansinės
-veiklos kontrolė
+166 straipsnis. Draudimo
+brokerių rūmų finansinės veiklos kontrolė
 Draudimo brokerių rūmų finansinę atskaitomybę tikrina
 visuotinio Draudimo brokerių rūmų narių susirinkimo išrinkta audito įmonė.
  
-167 straipsnis. Draudimo brokerių rūmų reorganizavimas
-ir likvidavimas
+167 straipsnis. Draudimo
+brokerių rūmų reorganizavimas ir likvidavimas
 Draudimo brokerių rūmai gali būti reorganizuojami bei
 likviduojami įstatymų nustatyta tvarka.
  
@@ -4839,8 +4885,7 @@ KETVIRTASIS SKIRSNIS
 LIETUVOS RESPUBLIKOS PRIKLAUSOMI
 DRAUDIMO TARPININKAI
  
-168 straipsnis.
-Priklausomų draudimo tarpininkų sąrašas 
+168 straipsnis. Priklausomų draudimo tarpininkų sąrašas 
 1. Kiekviena
 draudimo įmonė ar užsienio valstybės draudimo įmonės filialas Priežiūros
 komisijos nustatyta tvarka privalo tvarkyti jos vardu ir dėl jų interesų
@@ -4851,16 +4896,15 @@ draudimo tarpininkavimas.
 užsienio valstybės draudimo įmonės filialas turi teisę įrašyti draudimo agentų
 įmonę į priklausomų draudimo tarpininkų sąrašą tik patikrinę joje dirbančių
 asmenų, į kurių pareigas įeis draudimo tarpininkavimas, reputaciją ir
-kvalifikaciją, o draudimo agentą – tik patikrinę jo reputaciją ir
-kvalifikaciją. Šie asmenys privalo būti nepriekaištingos reputacijos ir
-kvalifikuoti.
+kvalifikaciją, o draudimo agentą – tik patikrinę jo reputaciją ir kvalifikaciją.
+Šie asmenys privalo būti nepriekaištingos reputacijos ir kvalifikuoti.
 3. Draudimo įmonė ar
 užsienio valstybės draudimo įmonės filialas, įrašęs priklausomą draudimo
 tarpininką į sąrašą, privalo išduoti priklausomam draudimo tarpininkui šį faktą
 patvirtinančią pažymą.
  
-169 straipsnis. Priklausomų draudimo tarpininkų
-profesinės civilinės atsakomybės draudimas
+169 straipsnis.
+Priklausomų draudimo tarpininkų profesinės civilinės atsakomybės draudimas
 1. Priklausomi
 draudimo tarpininkai privalo apdrausti profesinę civilinę atsakomybę, galinčią
 atsirasti netinkamai vykdant draudimo tarpininkavimą. Draudimo suma privalo
@@ -4888,8 +4932,8 @@ užsienio valstybės draudimo įmonės filialas privalo užtikrinti, jog priklau
 draudimo tarpininkai, veikiantys jų vardu ir dėl jų interesų, laikytųsi šio
 straipsnio 1 ar 2 dalyje nurodytų reikalavimų. Jei draudimo įmonė ar užsienio
 valstybės draudimo įmonės filialas nevykdo šios pareigos, jis privalo visiškai
-atlyginti žalą, atsiradusią dėl priklausomo draudimo tarpininko profesinių
-pareigų nevykdymo ar netinkamo vykdymo.
+atlyginti žalą, atsiradusią dėl priklausomo draudimo tarpininko profesinių pareigų
+nevykdymo ar netinkamo vykdymo.
 4. Draudimo įmonės ar užsienio valstybių draudimo
 įmonių filialai privalo organizuoti profesinius mokymus draudimo agentų įmonėse
 dirbantiems darbuotojams, į kurių pareigas įeina draudimo tarpininkavimas, bei
@@ -4898,8 +4942,8 @@ Straipsnio pakeitimai:
 Nr. X-77, 2005-01-18,
 Žin., 2005, Nr. 18-571 (2005-02-08)
  
-170 straipsnis. Priklausomų draudimo tarpininkų
-draudimo tarpininkavimo veikla
+170 straipsnis.
+Priklausomų draudimo tarpininkų draudimo tarpininkavimo veikla
 1. Priklausomų
 draudimo tarpininkų teises ir pareigas vykdant draudimo tarpininkavimo veiklą
 nustato rašytinė sutartis su draudimo įmone ar užsienio valstybės draudimo
@@ -4915,33 +4959,35 @@ asmenims Priežiūros komisijos nustatytą informaciją, o prieš draudimo sutar
 sudarymą teikti ir šio Įstatymo 78 ir 99 straipsniuose nurodytą informaciją.
 4. Draudimo įmoka,
 sumokėta priklausomam draudimo tarpininkui, laikoma sumokėta draudimo įmonei ar
-užsienio valstybės draudimo įmonės filialui, tačiau sumos, draudimo įmonės ar užsienio
-valstybės draudimo įmonės filialo sumokėtos priklausomam draudimo tarpininkui
-ir skirtos išmokėti draudėjui, apdraustajam, naudos gavėjui ar nukentėjusiam
-trečiajam asmeniui, laikomos sumokėtomis šiems asmenims tik tada, kai jie
-faktiškai gauna šias sumas.
+užsienio valstybės draudimo įmonės filialui, tačiau sumos, draudimo įmonės ar
+užsienio valstybės draudimo įmonės filialo sumokėtos priklausomam draudimo
+tarpininkui ir skirtos išmokėti draudėjui, apdraustajam, naudos gavėjui ar
+nukentėjusiam trečiajam asmeniui, laikomos sumokėtomis šiems asmenims tik tada,
+kai jie faktiškai gauna šias sumas.
 5. Draudimo įmonė ar užsienio valstybės draudimo
 įmonės filialas, atsižvelgdami į Priežiūros komisijos nutarimus ir
 rekomendacijas, privalo teikti jos vardu ir dėl jos interesų veikiantiems
 priklausomiems draudimo tarpininkams privalomus nurodymus dėl tarpininkavimo
 veiklos. 
  
-171 straipsnis. Priklausomų draudimo tarpininkų tarpininkavimas kitos Europos Sąjungos valstybės
-narės draudimo įmonėms, vykdančioms veiklą Lietuvos Respublikoje
+171 straipsnis.
+Priklausomų draudimo tarpininkų tarpininkavimas
+kitos Europos Sąjungos valstybės narės draudimo įmonėms, vykdančioms veiklą
+Lietuvos Respublikoje
 1. Priklausomam
 draudimo tarpininkui, tarpininkaujančiam kitos Europos Sąjungos valstybės narės
 draudimo įmonei, Lietuvos Respublikoje teikiančiai paslaugas ar įsteigusiai
 filialą, taikomi tokie patys reikalavimai kaip ir tarpininkaujant draudimo
 įmonei ar užsienio valstybės draudimo įmonės filialui.
-2. Priežiūros komisija
-teikia rekomendacijas kitos Europos Sąjungos valstybės narės draudimo įmonei,
-Lietuvos Respublikoje teikiančiai paslaugas ar įsteigusiai filialą, dėl
+2. Priežiūros
+komisija teikia rekomendacijas kitos Europos Sąjungos valstybės narės draudimo
+įmonei, Lietuvos Respublikoje teikiančiai paslaugas ar įsteigusiai filialą, dėl
 priklausomų tarpininkų sąrašo tvarkymo, profesinės civilinės atsakomybės
 draudimo kontrolės bei draudimo agentų ir draudimo agentų įmonių darbuotojų, į
 kurių pareigas įeina draudimo tarpininkavimas, profesinio mokymo.
  
-172 straipsnis. Priklausomų draudimo tarpininkų sąrašo
-duomenų viešumas
+172 straipsnis.
+Priklausomų draudimo tarpininkų sąrašo duomenų viešumas
 1. Kiekviena
 draudimo įmonė ar užsienio valstybės draudimo įmonės filialas privalo savo
 interneto tinklalapyje paskelbti jai atstovaujančių draudimo agentų, draudimo
@@ -4958,20 +5004,24 @@ būti atlikti ne vėliau kaip per 5 darbo dienas.
 4. Priežiūros
 komisija nustato, kokie sąrašo duomenys yra skelbtini viešai.
  
-[Papildyta
-skirsniu nuo 2006-08-08]
 PENKTASIS SKIRSNIS
 Perdraudimo tarpininkai
+Įstatymas
+papildytas nauju penktuoju skirsniu:
+Nr.
+X-798,
+2006-07-19, Žin., 2006, Nr. 87-3409 (2006-08-08)
  
-1721 straipsnis. Perdraudimo tarpininkai
+1721
+straipsnis. Perdraudimo tarpininkai
 1. Subjektai,
 nurodyti šio Įstatymo 3 straipsnio 1 dalies 1 ir 3 punktuose, 4 straipsnio 1 ir
 3 punktuose ir 5 straipsnio 2 dalies 1 punkte, taip pat 5 straipsnio 2 dalies 3
 punkte nurodyti užsienio valstybių nepriklausomų draudimo tarpininkų filialai
-turi teisę verstis perdraudimo tarpininkavimo veikla tik kai Priežiūros
-komisija jos nustatyta tvarka įrašo juos į Priežiūros komisijos tvarkomą
-perdraudimo tarpininkų sąrašą. Perdraudimo tarpininkų sąrašas skelbiamas
-Priežiūros komisijos interneto tinklalapyje. 
+turi teisę verstis perdraudimo tarpininkavimo veikla tik kai Priežiūros komisija
+jos nustatyta tvarka įrašo juos į Priežiūros komisijos tvarkomą perdraudimo
+tarpininkų sąrašą. Perdraudimo tarpininkų sąrašas skelbiamas Priežiūros
+komisijos interneto tinklalapyje. 
 2. Perdraudimo tarpininkas gali būti įrašytas į
 Priežiūros komisijos tvarkomą perdraudimo tarpininkų sąrašą, jei:
 1) yra nepriekaištingos reputacijos ir kvalifikuotas. Jei perdraudimo tarpininkas yra juridinis asmuo, jo
@@ -4991,14 +5041,14 @@ būtų atsisakyta įrašyti perdraudimo tarpininką į sąrašą;
 tarpininkas negali būti laikomas turinčiu nepriekaištingą reputaciją ar
 kvalifikuotu;
 4) jei neturi profesinės civilinės atsakomybės
-draudimo, koks nustatytas šio Įstatymo 169 straipsnio 1 dalyje, arba kito nuostolių,
-atsiradusių dėl jų veiklos, atlyginimo užtikrinimo būdo, analogiško nustatytam
-šio Įstatymo 169 straipsnio 2 dalyje.
+draudimo, koks nustatytas šio Įstatymo 169 straipsnio 1 dalyje, arba kito
+nuostolių, atsiradusių dėl jų veiklos, atlyginimo užtikrinimo būdo, analogiško
+nustatytam šio Įstatymo 169 straipsnio 2 dalyje.
 4. Lietuvos Respublikos perdraudimo tarpininkų veiklai
 kitose Europos Sąjungos valstybėse narėse mutatis mutandis taikomos šio
 Įstatymo 173 straipsnio nuostatos.“
-Skirsnio
-pakeitimai:
+Įstatymas
+papildytas straipsniu:
 Nr.
 X-798,
 2006-07-19, Žin., 2006, Nr. 87-3409 (2006-08-08)
@@ -5007,9 +5057,13 @@ X-798,
 SKIRSNIS
 DRAUDIMO
 TARPININKŲ VEIKLA KITOSE Europos Sąjungos valstybėsE narėsE
+Skirsnio
+numeracijos pakeitimas:
+Nr.
+X-798,
+2006-07-19, Žin., 2006, Nr. 87-3409 (2006-08-08)
  
-173 straipsnis.
-Teisė teikti paslaugas ir steigimosi teisė
+173 straipsnis. Teisė teikti paslaugas ir steigimosi teisė
 1. Draudimo
 tarpininkas, ketinantis pirmą kartą teikti paslaugas ar steigti filialą kitose
 Europos Sąjungos valstybėse narėse, privalo pranešti Priežiūros komisijai.
@@ -5036,26 +5090,24 @@ perdraudimo tarpininkų veiklos.
 5. Draudimo
 tarpininkas turi teisę steigti dukterinę įmonę kitoje Europos Sąjungos
 valstybėje narėje šios valstybės narės teisės aktų nustatyta tvarka.
-Skirsnio
-numeracijos pakeitimai:
-Nr.
-X-798,
-2006-07-19, Žin., 2006, Nr. 87-3409 (2006-08-08)
  
 SEPTINTASIS
 skirsnis
 kitų Europos
 Sąjungos valstybių narių draudimo ir perdraudimo tarpininkų veikla Lietuvos
 Respublikoje
+Skirsnio
+numeracijos pakeitimas:
+Nr.
+X-798,
+2006-07-19, Žin., 2006, Nr. 87-3409 (2006-08-08)
  
-174 straipsnis.
-Draudimo ir perdraudimo tarpininkų veiklos formos
+174 straipsnis. Draudimo ir perdraudimo tarpininkų veiklos formos
 Kitų Europos
 Sąjungos valstybių narių draudimo ir perdraudimo tarpininkai turi teisę steigti
 dukterinę įmonę ar filialą arba teikti paslaugas Lietuvos Respublikoje. 
  
-175 straipsnis.
-Draudimo ir perdraudimo tarpininkų veiklos pradžia
+175 straipsnis. Draudimo ir perdraudimo tarpininkų veiklos pradžia
 1. Kitų Europos
 Sąjungos valstybių narių draudimo ir perdraudimo tarpininkai turi teisę pradėti
 teikti paslaugas ar steigti filialą Lietuvos Respublikoje tik Priežiūros
@@ -5076,8 +5128,7 @@ Nr.
 X-798,
 2006-07-19, Žin., 2006, Nr. 87-3409 (2006-08-08)
  
-176 straipsnis.
-Draudimo ir perdraudimo tarpininkų veikla
+176 straipsnis. Draudimo ir perdraudimo tarpininkų veikla
 1. Kitų Europos Sąjungos valstybių narių draudimo
 tarpininkai privalo teikti draudėjams, apdraustiesiems, naudos gavėjams ir
 nukentėjusiems tretiesiems asmenims Priežiūros komisijos nustatytą informaciją,
@@ -5101,20 +5152,21 @@ draudimo tarpininkų, vykdančių veiklą Lietuvos Respublikoje, sąrašo tvarky
 profesinės civilinės atsakomybės draudimo kontrolės bei šių priklausomų
 draudimo tarpininkų darbuotojų, į kurių pareigas įeina draudimo
 tarpininkavimas, profesinio mokymo.
-Skirsnio
-numeracijos pakeitimai:
-Nr.
-X-798,
-2006-07-19, Žin., 2006, Nr. 87-3409 (2006-08-08)
  
 AŠTUNTASIS
 skirsnis
 užsienio
 valstybių nepriklausomų draudimo tarpininkų ir perdraudimo tarpininkų veikla
 lietuvos respublikoje
+Skirsnio
+numeracijos pakeitimas:
+Nr.
+X-798,
+2006-07-19, Žin., 2006, Nr. 87-3409 (2006-08-08)
  
-177 straipsnis. Nepriklausomų draudimo tarpininkų įmonės
-dukterinė įmonė ir filialas
+177
+straipsnis. Nepriklausomų
+draudimo tarpininkų įmonės dukterinė įmonė ir filialas
 1. Užsienio
 valstybės nepriklausomų draudimo tarpininkų įmonė turi teisę steigti dukterinę
 įmonę ar filialą Lietuvos Respublikoje.
@@ -5130,8 +5182,7 @@ tarpininkavimo veiklai, jose dirbantiems draudimo brokeriams taikomos tos
 pačios nuostatos kaip ir Lietuvos Respublikos draudimo brokerių įmonėms ir
 draudimo brokeriams. 
  
-178 straipsnis.
-Leidimo filialo veiklai išdavimas
+178 straipsnis. Leidimo filialo veiklai išdavimas
 1. Per 4 mėnesius nuo prašymo išduoti leidimą užsienio
 valstybės nepriklausomo draudimo tarpininko įmonės filialo veiklai ir
 visų dokumentų, nurodytų leidimų išdavimo taisyklėse, pateikimo dienos
@@ -5167,8 +5218,8 @@ nurodytą dydį;
 filialui priskirto turto ir (ar) pinigų, už kuriuos įgytas filialui priskirtas
 turtas, kilmė nėra teisėta.
  
-179 straipsnis. Leidimo filialo veiklai galiojimo sustabdymas ir
-panaikinimas
+179 straipsnis. Leidimo filialo veiklai galiojimo
+sustabdymas ir panaikinimas
 1. Esant šio Įstatymo 198 straipsnio 1 dalyje
 nurodytiems pagrindams, Priežiūros komisija turi teisę sustabdyti leidimo
 užsienio valstybės nepriklausomo draudimo tarpininko įmonės filialo veiklai
@@ -5192,8 +5243,7 @@ tarpininko įmonės filialo veiklai galiojimą turi būti išsamiai motyvuotas.
 Priežiūros komisija apie priimtą sprendimą ir jo motyvus privalo raštu pranešti
 užsienio valstybės nepriklausomo draudimo tarpininko įmonės filialui.
  
-180 straipsnis.
-Perdraudimo tarpininkai
+180 straipsnis. Perdraudimo tarpininkai
 1. Užsienio
 valstybių perdraudimo tarpininkai turi teisę teikti paslaugas Lietuvos
 Respublikoje neįsisteigę arba steigti dukterinę įmonę ar filialą Lietuvos
@@ -5211,12 +5261,6 @@ Nr.
 X-798,
 2006-07-19, Žin., 2006, Nr. 87-3409 (2006-08-08)
  
-Skirsnio
-numeracijos pakeitimai:
-Nr.
-X-798,
-2006-07-19, Žin., 2006, Nr. 87-3409 (2006-08-08)
- 
 IX SKYRIUS
 Lietuvos
 Respublikos DRAUDIMO PRIEŽIŪROS
@@ -5225,13 +5269,14 @@ KOMISIJA
 PIRMASIS SKirsnis
 BENDROSIOS NUOSTATOS
  
-181 straipsnis. Priežiūros komisija
+181 straipsnis.
+Priežiūros komisija
 1. Draudimo veiklos
 priežiūrą Lietuvos Respublikoje vykdo Lietuvos Respublikos draudimo priežiūros
 komisija (toliau, kaip ir visame Įstatymo tekste, vartojamas šio Įstatymo 2
 straipsnio 36 dalyje nurodytas trumpinys – Priežiūros komisija).
-2. Priežiūros komisija yra biudžetinė įstaiga, atliekanti
-valstybės funkcijas draudimo, perdraudimo, draudimo ir perdraudimo
+2. Priežiūros komisija yra biudžetinė įstaiga,
+atliekanti valstybės funkcijas draudimo, perdraudimo, draudimo ir perdraudimo
 tarpininkavimo veiklos priežiūros srityje, turinti sąskaitas banke ir antspaudą
 su Lietuvos valstybės herbu bei savo pavadinimu. Priežiūros komisijos nuostatus
 tvirtina Lietuvos Respublikos Vyriausybė.
@@ -5257,8 +5302,7 @@ tinklalapyje.
 6. Priežiūros
 komisija likviduojama įstatymų nustatyta tvarka.
  
-182 straipsnis.
-Priežiūros komisijos sudėtis ir sudarymo tvarka
+182 straipsnis. Priežiūros komisijos sudėtis ir sudarymo tvarka
 1. Priežiūros
 komisiją sudaro penki nariai: Priežiūros komisijos pirmininkas, jo pavaduotojas
 ir kiti trys nariai.
@@ -5279,8 +5323,8 @@ komisijos nariams už darbą mokama Lietuvos Respublikos valstybės politikų,
 teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatyta tvarka.
 6. Kiekvienas
 komisijos narys be jokių specialių įgaliojimų privalo teikti visuomenei
-informaciją apie Priežiūros komisijos tikslų ir funkcijų įgyvendinimą ir
-draudimo sistemos būklę.
+informaciją apie Priežiūros komisijos tikslų ir funkcijų įgyvendinimą ir draudimo
+sistemos būklę.
 7. Priežiūros
 komisijos narys gali būti atleistas prieš terminą tik šiais atvejais:
 1)
@@ -5310,15 +5354,16 @@ tarpininkų įmonių filialų Lietuvos Respublikoje administracijos vadovais.
 11. Priežiūros komisijos narys, kurio kadencija
 pasibaigė, eina pareigas iki kito komisijos nario paskyrimo.
  
-183 straipsnis. Priežiūros komisijos posėdžiai
+183 straipsnis. Priežiūros
+komisijos posėdžiai
 1. Priežiūros komisijos posėdžiai rengiami prireikus,
 bet ne rečiau kaip vieną kartą per mėnesį.
 2. Priežiūros komisijos posėdžiai yra teisėti, jeigu
 juose dalyvauja ne mažiau kaip trys Priežiūros komisijos nariai ir tarp jų
 pirmininkas ar jo pavaduotojas. Priežiūros komisijos sprendimai priimami
 paprasta balsų dauguma. Priežiūros komisijos narys
-neturi teisės atsisakyti balsuoti arba susilaikyti. Balsams pasidalijus po lygiai,
-lemia posėdžio pirmininko balsas. 
+neturi teisės atsisakyti balsuoti arba susilaikyti. Balsams pasidalijus po
+lygiai, lemia posėdžio pirmininko balsas. 
 3. Klausimus Priežiūros komisijos
 posėdžiams teikia Priežiūros komisijos nariai.
 4. Priežiūros komisijos
@@ -5334,12 +5379,12 @@ komisijos nariams draudžiama paviešinti per posėdį išsakytas nuomones.
 komisijos sprendimas įforminamas nutarimu. Jį pasirašo Priežiūros komisijos
 pirmininkas arba, jeigu jo nėra, pirmininko pavaduotojas.
 7. Jei Priežiūros komisijos posėdyje sprendžiamas
-klausimas yra susijęs su komisijos nario privačiais interesais, keliančiais
-viešųjų ir privačių interesų konfliktą, komisijos narys apie tai raštu
-praneša prieš svarstymą ir neturi teisės dalyvauti svarstant ir priimant
-sprendimą. 
+klausimas yra susijęs su komisijos nario privačiais interesais, keliančiais viešųjų
+ir privačių interesų konfliktą, komisijos narys apie tai raštu praneša
+prieš svarstymą ir neturi teisės dalyvauti svarstant ir priimant sprendimą. 
  
-184 straipsnis. Priežiūros komisijos pirmininkas
+184 straipsnis. Priežiūros
+komisijos pirmininkas
 1. Priežiūros komisijos pirmininkas:
 1) organizuoja Priežiūros komisijos darbą;
 2) atstovauja Priežiūros komisijai Lietuvos
@@ -5351,12 +5396,13 @@ funkcijas.
 2. Priežiūros komisijos pirmininkas pagal savo
 kompetenciją leidžia įsakymus.
  
-185 straipsnis. Priežiūros komisijos administracija
+185 straipsnis. Priežiūros
+komisijos administracija
 1. Priežiūros komisijos funkcijoms atlikti sudaroma
-Priežiūros komisijos administracija. Ji nėra juridinis asmuo. Priežiūros
-komisijos administracijos struktūrą ir etatus tvirtina Priežiūros komisija.
-Priežiūros komisijos administracijos funkcijas nustato šis Įstatymas ir
-Priežiūros komisijos patvirtintas darbo reglamentas. 
+Priežiūros komisijos administracija. Ji nėra juridinis asmuo. Priežiūros komisijos
+administracijos struktūrą ir etatus tvirtina Priežiūros komisija. Priežiūros
+komisijos administracijos funkcijas nustato šis Įstatymas ir Priežiūros
+komisijos patvirtintas darbo reglamentas. 
 2. Priežiūros komisija turi teisę pavesti Priežiūros
 komisijos administracijai atlikti šio Įstatymo 192 straipsnio 4, 6, 8, 11–15
 punktuose nustatytas funkcijas ir įgyvendinti šio Įstatymo 193 straipsnio 1
@@ -5374,29 +5420,29 @@ dirbantys pagal darbo sutartis.
 Informaciją apie administracijos valstybės tarnautojus ir darbuotojus
 Priežiūros komisija teikia tik įstatymų nustatytais atvejais ir tvarka.
  
-186 straipsnis. Priežiūros komisijos
-tarnybos paslaptys ir informacijos, susijusios su šiame Įstatyme nustatytų
-subjektų priežiūra, teikimas
+186 straipsnis.
+Priežiūros komisijos tarnybos paslaptys ir informacijos, susijusios su šiame
+Įstatyme nustatytų subjektų priežiūra, teikimas
 1. Priežiūros komisijos pirmininkas, vadovaudamasis
 Valstybės ir tarnybos paslapčių įstatymu, tvirtina ir keičia detalų Priežiūros
 komisijos tarnybos paslapčių sąrašą.
-2. Priežiūros komisijos nariai ir buvę nariai, Priežiūros
-komisijos administracijos valstybės
-tarnautojai, darbuotojai ir buvę Priežiūros komisijos administracijos valstybės tarnautojai bei darbuotojai, valstybės
-institucijos, visi kiti juridiniai ir fiziniai asmenys, iš Priežiūros komisijos
-gavę informacijos, susijusios su Priežiūros komisijos vykdoma šiame Įstatyme
-nustatytų subjektų priežiūra, privalo laikyti ją paslaptyje ir jos
-neatskleisti, išskyrus šio straipsnio 3 ir 4 dalyse nustatytus atvejus.
-Priežiūros komisija nustato sąrašą duomenų, kurie yra susiję su Priežiūros
-komisijos vykdoma šiame Įstatyme nustatytų subjektų priežiūra. Šis sąrašas
-skelbiamas viešai.
+2. Priežiūros komisijos nariai ir buvę nariai,
+Priežiūros komisijos administracijos
+valstybės tarnautojai, darbuotojai ir buvę Priežiūros komisijos administracijos valstybės tarnautojai bei
+darbuotojai, valstybės institucijos, visi kiti juridiniai ir fiziniai asmenys,
+iš Priežiūros komisijos gavę informacijos, susijusios su Priežiūros komisijos
+vykdoma šiame Įstatyme nustatytų subjektų priežiūra, privalo laikyti ją
+paslaptyje ir jos neatskleisti, išskyrus šio straipsnio 3 ir 4 dalyse
+nustatytus atvejus. Priežiūros komisija nustato sąrašą duomenų, kurie yra
+susiję su Priežiūros komisijos vykdoma šiame Įstatyme nustatytų subjektų
+priežiūra. Šis sąrašas skelbiamas viešai.
 3. Duomenys, susiję su Priežiūros komisijos vykdoma
 šiame Įstatyme nustatytų subjektų priežiūra, teikiamos ir atskleidžiamos tik
 šio ir kitų įstatymų nustatyta tvarka. 
 4. Duomenų, susijusių su Priežiūros komisijos vykdoma
-šiame Įstatyme nustatytų subjektų priežiūra, atskleidimu nelaikomas
-informacijos teikimas tokia apibendrinta forma, kad negali būti nustatyta
-konkretaus asmens tapatybė.
+šiame Įstatyme nustatytų subjektų priežiūra, atskleidimu nelaikomas informacijos
+teikimas tokia apibendrinta forma, kad negali būti nustatyta konkretaus asmens
+tapatybė.
 5. Įsitikinusi, jog bus užtikrintas teikiamos
 informacijos konfidencialumas, Priežiūros komisija turi teisę teikti duomenis,
 susijusius su Priežiūros komisijos vykdoma šiame Įstatyme nustatytų subjektų
@@ -5445,17 +5491,16 @@ tvarka atskleisti Priežiūros komisijos funkcijoms atlikti reikalingą
 informaciją, gautą iš kitos Europos Sąjungos valstybės narės ir užsienio
 valstybės kompetentingų institucijų, Lietuvos Respublikos vertybinių popierių
 komisijos, Lietuvos banko, Konkurencijos tarybos ir Nacionalinės vartotojų
-teisių apsaugos tarybos, kitos Europos Sąjungos valstybės narės finansų ir
-kapitalo rinkos priežiūrą vykdančių ir kitų institucijų, tik gavusi šių asmenų
-raštišką sutikimą ir tik sutikime nurodytam tikslui.
+teisių apsaugos tarybos, kitos Europos Sąjungos valstybės narės finansų ir kapitalo
+rinkos priežiūrą vykdančių ir kitų institucijų, tik gavusi šių asmenų raštišką
+sutikimą ir tik sutikime nurodytam tikslui.
 8. Informacija, Priežiūros komisijos gauta tikrinant
 kitoje Europos Sąjungos valstybėje narėje įsteigtą draudimo įmonės ar draudimo
 tarpininkų įmonės filialą, gali būti atskleista įstatymų nustatyta tvarka tik
 esant kitos Europos Sąjungos valstybės narės kompetentingos institucijos
 sutikimui. 
  
-187 straipsnis.
-Priežiūros komisijos išlaikymas
+187 straipsnis. Priežiūros komisijos išlaikymas
 1. Priežiūros
 komisija išlaikoma iš draudimo įmonių ir užsienio valstybių draudimo įmonių
 filialų Lietuvos Respublikoje atskaitymų nuo pasirašytų draudimo įmokų (gautų
@@ -5481,8 +5526,7 @@ Nr.
 IX-2474,
 2004-10-12, Žin., 2004, Nr. 156-5688 (2004-10-26)
  
-188 straipsnis.
-Priežiūros komisijos finansinė atskaitomybė
+188 straipsnis. Priežiūros komisijos finansinė atskaitomybė
 1. Metinę finansinę
 atskaitomybę per 4 mėnesius nuo finansinių metų pabaigos Priežiūros komisija
 paskelbia viešai.
@@ -5495,22 +5539,21 @@ Nr.
 X-798,
 2006-07-19, Žin., 2006, Nr. 87-3409 (2006-08-08)
  
-189 straipsnis.
-Priežiūros komisijos metinė ataskaita
+189 straipsnis. Priežiūros komisijos metinė ataskaita
 Priežiūros komisija
 viešai skelbia ir leidžia atskiru leidiniu metų ataskaitą; joje pateikia
 informaciją apie draudimo rinkos būklę ir Priežiūros komisijos funkcijų
 atlikimą. Metų ataskaitoje taip pat skelbiama Priežiūros komisijos metinė
 finansinė atskaitomybė.
  
-190 straipsnis.
-Statistiniai duomenys
+190 straipsnis. Statistiniai duomenys
 Priežiūros komisija
 jos nustatyta tvarka privalo viešai skelbti statistinius draudimo ir draudimo
 tarpininkavimo rinkos duomenis.
  
-191 straipsnis. Priežiūros komisijos
-pirmininko pranešimas Lietuvos Respublikos Vyriausybei
+191
+straipsnis. Priežiūros komisijos pirmininko pranešimas Lietuvos Respublikos
+Vyriausybei
 1. Priežiūros komisijos pirmininkas teikia pranešimą
 Lietuvos Respublikos Vyriausybei apie pagrindinio tikslo įgyvendinimą, funkcijų
 atlikimą ir draudimo sistemos būklę tokia tvarka: I pusmečio – iki einamųjų
@@ -5532,9 +5575,9 @@ interesams;
 3. Šio straipsnio 2 dalyje nustatytais atvejais
 Priežiūros komisijos pirmininkas taip pat informuoja Lietuvos Respublikos
 Vyriausybę apie priemones, kurių ėmėsi ir (ar) ketina imtis Priežiūros
-komisija, siekdama užtikrinti draudimo sistemos patikimumą, veiksmingumą, saugumą
-ir stabilumą ir draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų
-asmenų interesų ir teisių apsaugą.
+komisija, siekdama užtikrinti draudimo sistemos patikimumą, veiksmingumą,
+saugumą ir stabilumą ir draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių
+trečiųjų asmenų interesų ir teisių apsaugą.
 Straipsnio
 pakeitimai:
 Nr.
@@ -5544,9 +5587,10 @@ X-798,
 ANTRASIS SKIRSNIS
 PRIEŽIŪROS KOMISIJOS KOMPETENCIJA
  
-192 straipsnis. Priežiūros komisijos funkcijos
-Priežiūros komisija, įgyvendindama šio Įstatymo
-nuostatas, atlieka šias funkcijas:
+192 straipsnis. Priežiūros
+komisijos funkcijos
+Priežiūros komisija, įgyvendindama šio Įstatymo nuostatas,
+atlieka šias funkcijas:
 1) rengia, tvirtina,
 keičia ir pripažįsta negaliojančiais teisės aktus, reglamentuojančius draudimo
 įmonių, draudimo tarpininkų, Lietuvos Respublikoje įsteigtų užsienio valstybių
@@ -5562,8 +5606,8 @@ atšaukimas priskiriamas Priežiūros komisijos kompetencijai;
 draudimo įmonės, draudimo brokerių įmonės, Lietuvos Respublikoje įsteigti kitų
 užsienio valstybių draudimo įmonių filialai ir nepriklausomų draudimo
 tarpininkų įmonių filialai vykdo veiklą, laikosi įstatymų ir kitų teisės aktų;
-5) taiko šiame ir kituose įstatymuose nustatytas
-poveikio priemones;
+5) taiko šiame ir kituose įstatymuose nustatytas poveikio
+priemones;
 6) organizuoja draudimo brokerių kvalifikacinius
 egzaminus ir peratestavimą; 
 7) nustato draudimo liudijimų (polisų) registravimo ir
@@ -5586,8 +5630,7 @@ informacija, išskyrus informaciją, kuri yra Priežiūros komisijos tarnybos
 paslaptis, apie Priežiūros komisijos bendradarbiavimą su Lietuvos Respublikos,
 kitų Europos Sąjungos valstybių narių bei užsienio valstybių kompetentingomis
 institucijomis, finansų ir kapitalo rinkos priežiūros, konkurencijos ir
-vartotojų teisių gynimo institucijomis, kitomis Lietuvos Respublikos
-institucijomis;
+vartotojų teisių gynimo institucijomis, kitomis Lietuvos Respublikos institucijomis;
 14) teikia rekomendacijas Draudimo brokerių rūmams,
 aktuarijų profesinei asociacijai, draudimo įmonėms ir užsienio valstybių
 draudimo įmonių filialams, kontroliuojantiems priklausomų draudimo tarpininkų
@@ -5596,10 +5639,11 @@ valstybės draudimo įmonės filialo funkcijos, susijusios su priklausomų draud
 tarpininkų kontrole, būtų visuomenei atskleidžiamos ir suprantamos;
 15) pagal savo kompetenciją atstovauja Lietuvos
 Respublikos interesams Europos Sąjungos institucijose ir jų darbo organuose;
-16) atlieka kitas šio Įstatymo ir kitų Lietuvos Respublikos
-teisės aktų nustatytas funkcijas.
+16) atlieka kitas šio Įstatymo ir kitų Lietuvos
+Respublikos teisės aktų nustatytas funkcijas.
  
-193 straipsnis. Priežiūros komisijos teisės
+193 straipsnis. Priežiūros
+komisijos teisės
 1. Priežiūros komisija, atlikdama savo funkcijas, turi
 teisę:
 1) gauti informaciją iš visų fizinių ir juridinių
@@ -5651,7 +5695,8 @@ Nr.
 X-798,
 2006-07-19, Žin., 2006, Nr. 87-3409 (2006-08-08)
  
-194 straipsnis. Priežiūros komisijos teisės aktai
+194 straipsnis. Priežiūros
+komisijos teisės aktai
 1. Priežiūros komisijos sprendimai, priimami atliekant
 Priežiūros komisijos funkcijas ir įgyvendinant Priežiūros komisijos teises,
 įforminami Priežiūros komisijos nutarimais.
@@ -5660,8 +5705,8 @@ Priežiūros komisija turi teisę pavesti nutarimų, priimtų įgyvendinant
 Priežiūros komisijos teises, nustatytas šio Įstatymo 193 straipsnio 1 dalies 4,
 7–10 punktuose, įgyvendinimą Priežiūros komisijos pirmininkui.
  
-195 straipsnis. Bendrosios nuostatos dėl Priežiūros
-komisijos priimamų sprendimų 
+195 straipsnis. Bendrosios
+nuostatos dėl Priežiūros komisijos priimamų sprendimų 
 1. Jei šis
 Įstatymas ir kiti teisės aktai nustato, jog Priežiūros komisijai privaloma
 pateikti dokumentus sprendimui priimti, Priežiūros komisija turi teisę
@@ -5677,12 +5722,12 @@ sprendimui priimti reikalingi dokumentai ir informacija.
 3. Priimdama neigiamą sprendimą, Priežiūros komisija
 nurodo pareiškėjams išsamius tokio sprendimo motyvus ir apie tai praneša
 pareiškėjams.
-4. Priežiūros komisijos sprendimas ar sprendimo nepriėmimas
-per teisės aktuose nustatytus terminus įstatymų nustatyta tvarka gali būti
-skundžiamas teismui. 
+4. Priežiūros komisijos sprendimas ar sprendimo
+nepriėmimas per teisės aktuose nustatytus terminus įstatymų nustatyta tvarka
+gali būti skundžiamas teismui. 
  
-196 straipsnis. Priežiūros komisijos teisė į
-informaciją
+196 straipsnis. Priežiūros
+komisijos teisė į informaciją
 1.
 Valstybės ir savivaldybės institucijos bei kiti fiziniai ir juridiniai asmenys
 Priežiūros komisijos prašymu privalo pateikti informaciją, taip pat ir
@@ -5695,21 +5740,22 @@ rinkos priežiūros institucijas ar kitas institucijas bei fizinius ir juridiniu
 asmenis su prašymu pateikti informaciją, reikalingą Priežiūros komisijos
 funkcijoms atlikti ir teisėms įgyvendinti.
  
-197 straipsnis. Poveikio priemonės
+197 straipsnis. Poveikio
+priemonės
 Priežiūros komisija turi teisę taikyti šias poveikio
 priemones:
 1)
 įspėti draudimo įmones, draudimo tarpininkus, Lietuvos Respublikoje įsteigtus
-užsienio valstybių draudimo įmonių ar nepriklausomų draudimo tarpininkų įmonių filialus
-dėl jų veiklos trūkumų ir pažeidimų ir nustatyti šių trūkumų bei pažeidimų
-pašalinimo terminus;
+užsienio valstybių draudimo įmonių ar nepriklausomų draudimo tarpininkų įmonių
+filialus dėl jų veiklos trūkumų ir pažeidimų ir nustatyti šių trūkumų bei
+pažeidimų pašalinimo terminus;
 2)
 įstatymų nustatyta tvarka skirti administracines nuobaudas draudimo įmonių,
 draudimo tarpininkų įmonių stebėtojų tarybos, valdybos nariams, administracijos
 vadovams, draudimo brokeriams, Lietuvos Respublikoje įsteigtų užsienio
-valstybių draudimo įmonių filialų ar nepriklausomų draudimo tarpininkų įmonių
-filialų vadovams, draudimo įmonių ir Lietuvos Respublikoje įsteigtų užsienio
-valstybių draudimo įmonių filialų vyriausiesiems buhalteriams, vyriausiesiems
+valstybių draudimo įmonių filialų ar nepriklausomų draudimo tarpininkų įmonių filialų
+vadovams, draudimo įmonių ir Lietuvos Respublikoje įsteigtų užsienio valstybių
+draudimo įmonių filialų vyriausiesiems buhalteriams, vyriausiesiems
 aktuarijams, taip pat asmenims, neteisėtai atskleidusiems Priežiūros komisijos
 informaciją, susijusią su šiame Įstatyme nustatytų subjektų priežiūra;
 3) esant šio Įstatymo 201 straipsnyje nustatytiems
@@ -5749,15 +5795,15 @@ Lietuvos Respublikoje ar jų suteikiamų teisių galiojimą, laikinai uždrausti
 priklausomam draudimo tarpininkui vykdyti draudimo tarpininkavimo veiklą;
 12) esant šio
 Įstatymo 19 straipsnio 2 dalyje, 66 straipsnio 2 dalyje, 150 straipsnio 2
-dalyje ar 179 straipsnio 2 dalyje nustatytiems pagrindams, panaikinti draudimo
-veiklos licencijos, licencijos draudimo brokerių įmonės veiklai, leidimo
-užsienio valstybės draudimo įmonės filialo draudimo veiklai ar kitos užsienio
-valstybės nepriklausomų draudimo tarpininkų filialo veiklai Lietuvos
-Respublikoje galiojimą, visam laikui uždrausti priklausomam draudimo
-tarpininkui vykdyti draudimo tarpininkavimo veiklą.
+dalyje ar 179 straipsnio 2 dalyje nustatytiems pagrindams, panaikinti draudimo veiklos
+licencijos, licencijos draudimo brokerių įmonės veiklai, leidimo užsienio
+valstybės draudimo įmonės filialo draudimo veiklai ar kitos užsienio valstybės
+nepriklausomų draudimo tarpininkų filialo veiklai Lietuvos Respublikoje
+galiojimą, visam laikui uždrausti priklausomam draudimo tarpininkui vykdyti
+draudimo tarpininkavimo veiklą.
  
-198 straipsnis. Poveikio priemonių taikymo pagrindai
-ir tvarka
+198 straipsnis. Poveikio
+priemonių taikymo pagrindai ir tvarka
 1. Išskyrus
 atvejus, kai 197 straipsnis nustato konkrečios poveikio priemonės taikymo
 pagrindus, Priežiūros komisija šio Įstatymo 197 straipsnyje nurodytas poveikio
@@ -5819,15 +5865,15 @@ pažeidimą gali būti taikoma tik viena poveikio priemonė, išskyrus šio Įst
 nustatytas išimtis. Poveikio priemonės paskyrimas neatleidžia nuo pareigos, už
 kurios nevykdymą paskirta poveikio priemonė, vykdymo.
  
-199 straipsnis. Privalomasis teisių
-ir pareigų pagal draudimo sutartis perleidimas
+199
+straipsnis. Privalomasis teisių ir pareigų pagal draudimo sutartis perleidimas
 1. Jei iškyla reali grėsmė, jog draudimo įmonė taps
 nemoki ar užsienio valstybės draudimo įmonės filialui priskirtas turtas taps
-mažesnis už filialo įsipareigojimus, Priežiūros komisija, siekdama draudėjų,
-apdraustųjų, naudos gavėjų ar nukentėjusių trečiųjų asmenų interesų apsaugos,
-turi teisę įpareigoti draudimo įmonę ar užsienio valstybės draudimo įmonės
-filialą perleisti teises ir pareigas pagal draudimo sutartis jas ketinantiems
-perimti subjektams.
+mažesnis už filialo įsipareigojimus, Priežiūros komisija, siekdama draudėjų, apdraustųjų,
+naudos gavėjų ar nukentėjusių trečiųjų asmenų interesų apsaugos, turi teisę
+įpareigoti draudimo įmonę ar užsienio valstybės draudimo įmonės filialą
+perleisti teises ir pareigas pagal draudimo sutartis jas ketinantiems perimti
+subjektams.
 2. Šio Įstatymo 127 straipsnio 1 dalyje nustatytu
 atveju Priežiūros komisija privalo įpareigoti perleisti teises ir pareigas
 pagal draudimo sutartis.
@@ -5836,11 +5882,11 @@ būti ir nėra reikalaujamas draudimo įmonės visuotinio akcininkų susirinkimo
 stebėtojų tarybos ar valdybos nutarimas arba kitoks šių organų pritarimas.
 Sutartį pasirašo draudimo įmonės administracijos vadovas ar užsienio valstybės
 draudimo įmonės filialo vadovas.
-4. Privalomajam teisių ir pareigų pagal draudimo
-sutartis perleidimui taikomos šio Įstatymo 41 ir 42 straipsnių nuostatos su
-išimtimis, jog vietoj šiuose straipsniuose numatyto Priežiūros komisijos
-leidimo reikalingas Priežiūros komisijos patvirtinimas, kad laikomasi teisės
-aktų nustatytų reikalavimų, keliamų teisių ir pareigų pagal draudimo sutartis
+4. Privalomajam teisių ir pareigų pagal draudimo sutartis
+perleidimui taikomos šio Įstatymo 41 ir 42 straipsnių nuostatos su išimtimis,
+jog vietoj šiuose straipsniuose numatyto Priežiūros komisijos leidimo
+reikalingas Priežiūros komisijos patvirtinimas, kad laikomasi teisės aktų
+nustatytų reikalavimų, keliamų teisių ir pareigų pagal draudimo sutartis
 perleidimui, taip pat kad šio Įstatymo 41 straipsnio 5 dalyje, 42 straipsnio 1
 ir 3 dalyse nustatyti terminai nėra taikomi.
 5. Draudimo įmonė ar užsienio valstybės draudimo
@@ -5852,8 +5898,8 @@ Europos Sąjungos valstybėje narėje, kurioje draudimo įmonė vykdo veiklą.
 teisių ir pareigų pagal draudimo sutartis perleidimu, turi teisę nutraukti
 draudimo sutartį joje nustatyta tvarka per vieną mėnesį nuo teisių ir pareigų
 perleidimo.
-7. Jei draudėjas nutraukia draudimo sutartį šio
-straipsnio 6 dalyje nurodytu atveju, grąžinama: 
+7. Jei draudėjas nutraukia draudimo sutartį šio straipsnio
+6 dalyje nurodytu atveju, grąžinama: 
 1) ne gyvybės draudimo atveju – visa sumokėta draudimo
 įmokos dalis už laikotarpį nuo teisių ir pareigų pagal draudimo sutartį
 perleidimo iki draudimo sutartyje numatyto termino pabaigos;
@@ -5870,7 +5916,8 @@ Nr.
 X-798,
 2006-07-19, Žin., 2006, Nr. 87-3409 (2006-08-08)
  
-200 straipsnis. Turto areštas
+200 straipsnis. Turto
+areštas
 1. Priežiūros komisija turi teisę areštuoti draudimo
 įmonės ar užsienio valstybės draudimo įmonės filialo turtą, dengiantį draudimo
 techninius atidėjinius, tik tuo atveju, kai yra bent viena iš šių aplinkybių:
@@ -5890,13 +5937,14 @@ pareigas pagal draudimo sutartis;
 5) panaikinama draudimo veiklos licencija ar leidimas
 filialo draudimo veiklai.
 2. Turto areštas skiriamas šio Įstatymo 198 straipsnio
-2–4 dalyse nustatyta tvarka. Turto arešto aktą pasirašo Priežiūros komisijos
-pirmininkas. Turto arešto aktas registruojamas Turto arešto aktų registro
-įstatymo nustatyta tvarka.
+2–4 dalyse nustatyta tvarka. Turto arešto aktą pasirašo Priežiūros komisijos pirmininkas.
+Turto arešto aktas registruojamas Turto arešto aktų registro įstatymo nustatyta
+tvarka.
 3. Priežiūros komisija turi teisę pareikšti teisme
 ieškinį dėl sandorio dėl areštuoto turto pripažinimo negaliojančiu. 
  
-201 straipsnis. Priežiūros komisijos skiriamos baudos 
+201 straipsnis. Priežiūros
+komisijos skiriamos baudos 
 1. Draudimo įmonei ar užsienio valstybės draudimo
 įmonės filialui, vykdančiam draudimo ar su draudimu susijusią veiklą, kurios
 pagal draudimo veiklos licenciją ar leidimą filialo veiklai šie asmenys neturi
@@ -5905,9 +5953,9 @@ teisės vykdyti, gali būti skiriama bauda iki 30 000 eurų.
 kitos užsienio valstybės draudimo įmonės ar nepriklausomo draudimo tarpininko
 filialui, kuris atsisakė pateikti informaciją arba pateikė neteisingą
 informaciją Priežiūros komisijai, gali būti skiriama bauda iki 20 000 eurų.
-3. Draudimo įmonei, draudimo tarpininkų įmonei ar užsienio
-valstybės draudimo įmonės ar nepriklausomo draudimo tarpininko filialui,
-šiurkščiai pažeidusiems šį Įstatymą ar kitus draudimo bei draudimo
+3. Draudimo įmonei, draudimo tarpininkų įmonei ar
+užsienio valstybės draudimo įmonės ar nepriklausomo draudimo tarpininko
+filialui, šiurkščiai pažeidusiems šį Įstatymą ar kitus draudimo bei draudimo
 tarpininkavimo veiklą reglamentuojančius teisės aktus, gali būti skiriama bauda
 iki 100 000 eurų.
 4. Bauda skiriama šio Įstatymo 198 straipsnio 2–4
@@ -5922,10 +5970,10 @@ kodekso nustatyta tvarka.
 7. Baudų paskyrimas neatleidžia juridinio asmens ar
 filialo vadovų nuo įstatymų nustatytos civilinės ir baudžiamosios atsakomybės.
  
-202 straipsnis. Kitų Europos
-Sąjungos valstybių narių draudimo įmonių, teikiančių paslaugas Lietuvos
-Respublikoje, ir Europos Sąjungos valstybių narių draudimo įmonių filialų,
-įsteigtų Lietuvos Respublikoje, priežiūra
+202
+straipsnis. Kitų Europos Sąjungos valstybių narių draudimo įmonių, teikiančių
+paslaugas Lietuvos Respublikoje, ir Europos Sąjungos valstybių narių draudimo
+įmonių filialų, įsteigtų Lietuvos Respublikoje, priežiūra
 1. Kitų Europos
 Sąjungos valstybių narių draudimo įmonių, teikiančių paslaugas Lietuvos
 Respublikoje, ar šių įmonių Lietuvos Respublikoje įsteigtų filialų finansinę
@@ -5983,11 +6031,11 @@ kitos Europos Sąjungos valstybės narės kompetentingai institucijai ir prašyt
 kad ši imtųsi visų teisės aktų leidžiamų priemonių pažeidimams pašalinti. 
 5. Jei išaiškėja, jog šio straipsnio 4 dalyje
 numatytos priemonės nėra pakankamos pažeidimams pašalinti, Priežiūros komisija,
-prieš tai įspėjusi kitos Europos Sąjungos valstybės narės kompetentingą instituciją,
-turi teisę taikyti poveikio priemones, numatytas šio straipsnio 3 dalies 2 ir 4
-punktuose. Esant neatidėliotinam būtinumui, Priežiūros komisija turi teisę
-taikyti šias poveikio priemones neatsižvelgdama į šio straipsnio 4 dalies
-nuostatas.
+prieš tai įspėjusi kitos Europos Sąjungos valstybės narės kompetentingą
+instituciją, turi teisę taikyti poveikio priemones, numatytas šio straipsnio 3
+dalies 2 ir 4 punktuose. Esant neatidėliotinam būtinumui, Priežiūros komisija
+turi teisę taikyti šias poveikio priemones neatsižvelgdama į šio straipsnio 4
+dalies nuostatas.
 6. Poveikio priemonė parenkama atsižvelgiant į
 pažeidimo, kuriam ji taikoma, turinį, šio pažeidimo ir taikomos priemonės
 pasekmes kitos Europos Sąjungos valstybės narės draudimo įmonei ir draudimo
@@ -5997,15 +6045,16 @@ draudimo įmonei, kartu nurodydama išsamius šios priemonės taikymo motyvus.
 7. Nutarimas dėl poveikio priemonės taikymo įstatymų
 nustatyta tvarka gali būti skundžiamas teismui. 
  
-203 straipsnis. Kitos Europos Sąjungos valstybės narės
-draudimo tarpininkų, teikiančių paslaugas Lietuvos Respublikoje, ar šių
-tarpininkų Lietuvos Respublikoje įsteigtų filialų veiklos priežiūra 
+203 straipsnis. Kitos
+Europos Sąjungos valstybės narės draudimo tarpininkų, teikiančių paslaugas
+Lietuvos Respublikoje, ar šių tarpininkų Lietuvos Respublikoje įsteigtų filialų
+veiklos priežiūra 
 1. Kitos Europos
 Sąjungos valstybės narės draudimo tarpininkų, teikiančių paslaugas Lietuvos
 Respublikoje, ar šių tarpininkų Lietuvos Respublikoje įsteigtų filialų draudimo
 tarpininkavimo veiklos priežiūrą vykdo šios valstybės narės kompetentinga
-institucija. Nepaisant šios nuostatos, Priežiūros komisija turi šiame straipsnyje
-nustatytas teises ir pareigas.
+institucija. Nepaisant šios nuostatos, Priežiūros komisija turi šiame
+straipsnyje nustatytas teises ir pareigas.
 2. Priežiūros komisija turi teisę:
 1) gauti informaciją iš kitos Europos Sąjungos
 valstybės narės draudimo tarpininko ar jo įsteigto filialo;
@@ -6020,9 +6069,9 @@ punktuose nustatytiems pagrindams, taip pat kai pablogėja kitos Europos
 Sąjungos valstybės narės draudimo tarpininko įmonės filialo finansinė būklė ir
 ji nebeatitinka teisės aktų nustatytų reikalavimų, kai pažeisti draudėjų,
 apdraustųjų, naudos gavėjų ar nukentėjusių trečiųjų asmenų interesai arba
-iškyla tokio pablogėjimo ar pažeidimo grėsmė ar kai kitos Europos Sąjungos
-valstybės narės draudimo tarpininko ar jo filialo rizikinga veikla gali
-pakenkti draudėjų, apdraustųjų, nukentėjusių trečiųjų asmenų bei naudos gavėjų
+iškyla tokio pablogėjimo ar pažeidimo grėsmė ar kai kitos Europos Sąjungos valstybės
+narės draudimo tarpininko ar jo filialo rizikinga veikla gali pakenkti
+draudėjų, apdraustųjų, nukentėjusių trečiųjų asmenų bei naudos gavėjų
 interesams, taikyti poveikio priemones, nurodytas šio straipsnio 3 dalyje;
 5) teikti rekomendacijas ir privalomus nurodymus
 Europos Sąjungos valstybės narės draudimo tarpininkui ar jo įsteigtam filialui
@@ -6054,9 +6103,9 @@ kitos Europos Sąjungos valstybės narės kompetentingai institucijai.
 skundžiamas teismui įstatymų nustatyta tvarka. Apskundimas nesustabdo tokio
 nutarimo vykdymo. 
  
-204 straipsnis. Priežiūros komisijos
-teisės į informaciją, susijusios su perdraudimo ir perdraudimo tarpininkavimo
-veikla
+204
+straipsnis. Priežiūros komisijos teisės į informaciją, susijusios su
+perdraudimo ir perdraudimo tarpininkavimo veikla
 1.
 Šio straipsnio nuostatos taikomos:
 1)
@@ -6085,8 +6134,8 @@ arba per šiuos asmenis.
 5. Priežiūros komisija turi teisę kreiptis į teismą
 dėl bankroto bylos iškėlimo nemokiai Lietuvos Respublikos perdraudimo įmonei.
  
-205 straipsnis. Priežiūros komisijos
-rengiami patikrinimai
+205
+straipsnis. Priežiūros komisijos rengiami patikrinimai
 1. Priežiūros komisija turi teisę organizuoti ir atlikti patikrinimus,
 kad nustatytų, kaip laikomasi šio Įstatymo bei jo pagrindu priimtų teisės aktų.
 2. Patikrinimų atlikimo tvarką nustato Priežiūros komisija. 
@@ -6094,8 +6143,8 @@ kad nustatytų, kaip laikomasi šio Įstatymo bei jo pagrindu priimtų teisės a
 1) Lietuvos Respublikos draudimo įmonių ir draudimo tarpininkų įmonių;
 2) Lietuvos Respublikos draudimo įmonių ir draudimo tarpininkų filialų,
 įsteigtų kitoje Europos Sąjungos valstybėje narėje, prieš tai pranešusi šios
-valstybės narės kompetentingai institucijai ir sudariusi sąlygas šios
-institucijos atstovams dalyvauti patikrinime;
+valstybės narės kompetentingai institucijai ir sudariusi sąlygas šios institucijos
+atstovams dalyvauti patikrinime;
 3) kitos Europos Sąjungos valstybės narės draudimo įmonės ar draudimo
 tarpininko filialo, įsteigto Lietuvos Respublikoje, šios valstybės narės
 kompetentingos institucijos prašymu ir sudariusi sąlygas šios institucijos
@@ -6134,9 +6183,9 @@ išvadas;
 išreikalauti ar pasidaryti apskaitos dokumentų, sutarčių, įsakymų bei kitų
 dokumentų ir informacijos kopijas;
 4) laikinai, ne ilgiau kaip vienam mėnesiui, paimti
-tikrinamų juridinių asmenų dokumentus, kurie gali būti panaudojami kaip pažeidimo
-įrodymai, palikdami motyvuotą sprendimą dėl dokumentų paėmimo bei dokumentų
-paėmimo aktą;
+tikrinamų juridinių asmenų dokumentus, kurie gali būti panaudojami kaip
+pažeidimo įrodymai, palikdami motyvuotą sprendimą dėl dokumentų paėmimo bei
+dokumentų paėmimo aktą;
 5) pateikę Priežiūros komisijos sprendimą, gauti iš
 kredito ir finansų įstaigų duomenis, pažymas ir dokumentų kopijas apie
 finansines operacijas, susijusias su tikrinamuoju juridiniu asmeniu.
@@ -6149,8 +6198,7 @@ sutartyse su užsienio valstybių kompetentingomis institucijomis.
 valstybės tarnautojai Lietuvos Respublikoje gali pasitelkti policijos
 pareigūnus.
  
-206
-straipsnis. Draudimo taisyklės ir kita informacija
+206 straipsnis. Draudimo taisyklės ir kita informacija
 1.
 Priežiūros komisija neturi teisės reikalauti, kad draudimo taisyklės ir kitos
 sąlygos, draudimo įmokų tarifai ir kiti dokumentai, naudojami draudimo
@@ -6166,18 +6214,17 @@ atveju – ir aktuarinę informaciją, naudojamą skaičiuojant draudimo įmokų
 tarifus ir (ar) draudimo techninius atidėjinius. Priežiūros komisija turi teisę
 tikrinti, ar šie pateikti dokumentai ir informacija atitinka teisės aktų,
 reglamentuojančių draudimo sutartinius santykius, nuostatas, o gyvybės draudimo
-atveju – ir teisės aktų nuostatas dėl Lietuvos Respublikos draudimo įmonės ir užsienio
-valstybės draudimo įmonės filialo, įsteigto Lietuvos Respublikoje, naudojamų
-aktuarinių principų. Reikalavimas pateikti šią informaciją negali būti
-išankstinė sąlyga draudiko veiklai. Priežiūros komisijai draudžiama nustatyti
-periodišką minėtos informacijos pateikimą. 
+atveju – ir teisės aktų nuostatas dėl Lietuvos Respublikos draudimo įmonės ir
+užsienio valstybės draudimo įmonės filialo, įsteigto Lietuvos Respublikoje,
+naudojamų aktuarinių principų. Reikalavimas pateikti šią informaciją negali
+būti išankstinė sąlyga draudiko veiklai. Priežiūros komisijai draudžiama
+nustatyti periodišką minėtos informacijos pateikimą. 
  
-207 straipsnis.
-Vartotojų ginčų su draudiku nagrinėjimas
+207 straipsnis. Vartotojų ginčų su draudiku nagrinėjimas
 1.
-Priežiūros komisija nagrinėja vartotojų ginčus su draudiku, kylančius iš
-draudimo sutarties ar susijusius su ja, jei draudimo sutarčiai yra taikytina
-Lietuvos Respublikos teisė. Šio straipsnio prasme vartotojas yra fizinis asmuo:
+Priežiūros komisija nagrinėja vartotojų ginčus su draudiku, kylančius iš draudimo
+sutarties ar susijusius su ja, jei draudimo sutarčiai yra taikytina Lietuvos
+Respublikos teisė. Šio straipsnio prasme vartotojas yra fizinis asmuo:
 1)
 draudėjas, kuris perka draudimo paslaugą asmeniniams, šeimos ar namų ūkio
 poreikiams tenkinti;
@@ -6218,8 +6265,8 @@ Priežiūros komisija ginčus nagrinėja raštu, susirašinėdama su draudiku ir
 vartotoju. Ginčai nagrinėjami lietuvių, o prireikus ir (ar) anglų kalba.
 7.
 Ginčas turi būti išnagrinėtas per 3 mėnesius nuo vartotojo kreipimosi.
-Ypatingais atvejais, atsižvelgdama į ginčo sudėtingumą, Priežiūros komisija turi
-teisę pratęsti šį terminą, bet ne daugiau kaip 3 mėnesius. 
+Ypatingais atvejais, atsižvelgdama į ginčo sudėtingumą, Priežiūros komisija
+turi teisę pratęsti šį terminą, bet ne daugiau kaip 3 mėnesius. 
 8.
 Priežiūros komisija privalo tarpininkauti, kad ginčo šalys pasiektų abi šalis
 tenkinantį susitarimą. Jei tokio susitarimo pasiekti nepavyksta, Priežiūros
@@ -6241,8 +6288,8 @@ TREČIASIS SKIRSNIS
 BENDRADARBIAVIMAS SU EUROPOS BENDRIJŲ KOMISIJA ir kitų Europos
 Sąjungos valstybIŲ narIŲ KOMPETEnTINGOMIS INSTITUCIJOMIS 
  
-208 straipsnis. Bendradarbiavimas
-tiesioginio draudimo priežiūros klausimais
+208 straipsnis. Bendradarbiavimas tiesioginio draudimo
+priežiūros klausimais
 1.
 Priežiūros komisija privalo glaudžiai
 bendradarbiauti su Europos Bendrijų Komisija ir kitų Europos Sąjungos valstybių
@@ -6256,8 +6303,7 @@ nuostatas, ir kartu su Europos Bendrijų Komisija ir kitomis Europos Sąjungos
 valstybėmis narėmis analizuoti susidariusias problemas siekdamos rasti tinkamą
 šių problemų sprendimo būdą.
  
-209 straipsnis.
-Informacija apie privalomąjį draudimą
+209 straipsnis. Informacija apie privalomąjį draudimą
 1.
 Priežiūros komisija privalo informuoti
 Europos Bendrijų Komisiją apie privalomąjį draudimą Lietuvos Respublikoje,
@@ -6272,8 +6318,7 @@ Sąjungos valstybių narių draudimo įmonių privalomojo draudimo liudijimai
 turinį, Europos Bendrijų Komisijos paskelbtą Europos Sąjungos oficialiajame
 leidinyje.
  
-210 straipsnis.
-Informacija, susijusi su užsienio valstybių asmenimis
+210 straipsnis. Informacija, susijusi su užsienio valstybių asmenimis
 1. Priežiūros komisija privalo informuoti Europos
 Bendrijų Komisiją ir kitų Europos Sąjungos valstybių narių kompetentingas
 institucijas apie:
@@ -6325,8 +6370,7 @@ Straipsnio pakeitimai:
 Nr. X-371, 2005-10-18,
 Žin., 2005, Nr. 130-4664 (2005-11-03)
  
-211 straipsnis.
-Teisių ir pareigų pagal draudimo sutartis perleidimas
+211 straipsnis. Teisių ir pareigų pagal draudimo sutartis perleidimas
 1. Jei kitos Europos Sąjungos valstybės narės
 kompetentinga institucija paprašo Priežiūros komisijos nuomonės apie šios
 institucijos prižiūrimos draudimo įmonės ketinimą perleisti teises ir pareigas
@@ -6339,8 +6383,8 @@ nebus išlaikyta teisės aktų reikalaujama Lietuvos Respublikos draudimo įmon�
 ar užsienio valstybės draudimo įmonės filialo Lietuvos Respublikoje mokumo
 atsarga.
  
-212 straipsnis.
-Poveikio priemonės
+212
+straipsnis. Poveikio priemonės
 1. Gavusi kitos Europos
 Sąjungos valstybės narės kompetentingos institucijos informaciją apie šios
 valstybės draudimo įmonei taikomus turto valdymo, naudojimo bei disponavimo
@@ -6353,8 +6397,7 @@ valstybės draudimo įmonei panaikintą draudimo veiklos licenciją, Priežiūro
 komisija privalo priimti sprendimą uždrausti šiai draudimo įmonei vykdyti
 veiklą Lietuvos Respublikoje.
  
-213 straipsnis.
-Intervencinės priemonės
+213 straipsnis. Intervencinės priemonės
 1. Lietuvos
 Respublikoje be jokių papildomų formalumų visiškai pripažįstamos kitų Europos
 Sąjungos valstybių narių institucijų taikomos intervencinės priemonės,
@@ -6374,8 +6417,7 @@ atsižvelgdama į intervencinės priemonės galimą įtaką Lietuvos Respublikos
 fiziniams ir juridiniams asmenims, turi teisę paskelbti gautą informaciją
 „Valstybės žinių“ priede „Informaciniai pranešimai“.
  
-214 straipsnis.
-Papildoma priežiūra
+214 straipsnis. Papildoma priežiūra
 1.
 Kitos Europos Sąjungos valstybės narės kompetentingos institucijos prašymu
 Priežiūros komisija privalo pati patikrinti papildomai priežiūrai reikšmingą
@@ -6397,8 +6439,7 @@ prašymu atlieka informacijos, reikšmingos papildomai priežiūrai, patikrinim�
 kitos Europos Sąjungos valstybės narės kompetentingos institucijos atstovai
 turi teisę dalyvauti šiame patikrinime.
  
-215 straipsnis.
-Likvidavimas ir bankrotas
+215 straipsnis. Likvidavimas ir bankrotas
 1. Priežiūros
 komisija, gavusi kitos Europos Sąjungos valstybės narės kompetentingos
 institucijos informaciją apie priimtą sprendimą likviduoti kitos Europos
@@ -6412,11 +6453,10 @@ filialus Lietuvos Respublikoje be jokių papildomų formalumų pripažįstamas
 Lietuvos Respublikoje ir įsigalioja tuo pat metu kaip ir šioje Europos Sąjungos
 valstybėje narėje.
 3. Kitos Europos
-Sąjungos valstybės narės valstybės institucijos ar kito subjekto paskirtas
-tokioms šio Įstatymo 143 straipsnio 1 dalyje nurodytoms pareigoms asmuo,
-ketinantis veikti Lietuvos Respublikoje, privalo turėti sprendimo dėl paskyrimo
-vertimą į lietuvių kalbą. Legalizacijos ir kitų panašių formalumų
-nereikalaujama. 
+Sąjungos valstybės narės valstybės institucijos ar kito subjekto paskirtas tokioms
+šio Įstatymo 143 straipsnio 1 dalyje nurodytoms pareigoms asmuo, ketinantis
+veikti Lietuvos Respublikoje, privalo turėti sprendimo dėl paskyrimo vertimą į
+lietuvių kalbą. Legalizacijos ir kitų panašių formalumų nereikalaujama. 
 4. Šio straipsnio 3
 dalyje nurodyti asmenys ar jų atstovai, paskirti kitos Europos Sąjungos
 valstybės narės teisės aktų nustatyta tvarka, Lietuvos Respublikoje turi teisę
@@ -6426,8 +6466,7 @@ valstybėje narėje.
 X SKYRIUS
 BAIGIAMOSIOS NUOSTATOS
  
-216 straipsnis.
-Įstatymo įsigaliojimas
+216 straipsnis. Įstatymo įsigaliojimas
 1. Šis Įstatymas
 įsigalioja nuo 2004 m. sausio 1 d., išskyrus jo nuostatas, nurodytas šiame
 skyriuje.
@@ -6459,14 +6498,14 @@ pakeitimo ir papildymo, Įstatymo papildymo 34(1), 34(2),
 38(2), 38(3), 71 straipsniais bei 54 straipsnio
 pripažinimo netekusiu galios įstatymas (Žin., 2002, Nr. 60-2411).
  
-217 straipsnis. Nuostatos, susijusios su Lietuvos
-Respublikos naryste Europos Sąjungoje
+217 straipsnis. Nuostatos,
+susijusios su Lietuvos Respublikos naryste Europos Sąjungoje
 1. Nuostatos dėl
 Europos Sąjungos valstybių narių draudimo įmonių ir draudimo bei perdraudimo
-tarpininkų veiklos Lietuvos Respublikoje bei Lietuvos Respublikos draudimo įmonių
-ir draudimo bei perdraudimo tarpininkų įmonių veiklos kitose Europos Sąjungos
-valstybėse narėse, nuostatos dėl Europos Sąjungos tarptautinės privatinės
-draudimo sutarčių teisės bei nuostatos dėl Priežiūros komisijos
+tarpininkų veiklos Lietuvos Respublikoje bei Lietuvos Respublikos draudimo
+įmonių ir draudimo bei perdraudimo tarpininkų įmonių veiklos kitose Europos
+Sąjungos valstybėse narėse, nuostatos dėl Europos Sąjungos tarptautinės
+privatinės draudimo sutarčių teisės bei nuostatos dėl Priežiūros komisijos
 bendradarbiavimo su Europos Bendrijų Komisija ir kitų Europos Sąjungos
 valstybių narių kompetentingomis institucijomis įsigalioja Lietuvos Respublikai
 tapus Europos Sąjungos valstybe nare.
@@ -6481,16 +6520,15 @@ bei perdraudimo tarpininkų veiklai Lietuvos Respublikoje nuo šio Įstatymo
 Europos bendrovių (Societas Europaea) įsigalioja Lietuvos Respublikai
 tapus Europos Sąjungos valstybe nare, bet ne anksčiau kaip 2004 m. spalio 8 d.
  
-218
-straipsnis. Nuostatos, susijusios su juridinių asmenų registru
+218 straipsnis. Nuostatos, susijusios su juridinių
+asmenų registru
 1. Nuostatos, susijusios su juridinių asmenų registru,
 įsigalioja nuo juridinių asmenų registro veiklos pradžios.
 2. Iki juridinių
 asmenų registro pradžios šiame Įstatyme nurodytos įmonės vadovaujasi Įmonių
 rejestro įstatymo nuostatomis.
  
-219 straipsnis.
-Nuostatos dėl Priežiūros komisijos
+219 straipsnis. Nuostatos dėl Priežiūros komisijos
 1. Šio Įstatymo IX
 skyriaus pirmojo skirsnio nuostatos, išskyrus šio Įstatymo 187 straipsnio
 nuostatas, ir šio Įstatymo 221 straipsnio 2 dalies nuostatos įsigalioja
@@ -6499,15 +6537,16 @@ paskyrus Priežiūros komisijos narius.
 straipsnio nuostatos įsigalioja nuo šio Įstatymo paskelbimo „Valstybės
 žiniose“.
  
-220 straipsnis. Valstybinės draudimo priežiūros
-tarnybos prie Finansų ministerijos teisinio statuso keitimas
+220 straipsnis.
+Valstybinės draudimo priežiūros tarnybos prie Finansų ministerijos teisinio
+statuso keitimas
 1. Paskelbus šį
 Įstatymą „Valstybės žiniose“, Valstybės tarnybos įstatymo nustatyta tvarka
 Valstybinės draudimo priežiūros tarnybos prie Finansų ministerijos direktorius
-įspėja Valstybinės draudimo priežiūros tarnybos prie Finansų ministerijos direktoriaus
-pavaduotoją (pavaduotojus), o finansų ministras – Valstybinės draudimo
-priežiūros tarnybos prie Finansų ministerijos direktorių apie jų pareigybių
-naikinimą nuo Priežiūros komisijos narių paskyrimo momento. 
+įspėja Valstybinės draudimo priežiūros tarnybos prie Finansų ministerijos
+direktoriaus pavaduotoją (pavaduotojus), o finansų ministras – Valstybinės
+draudimo priežiūros tarnybos prie Finansų ministerijos direktorių apie jų
+pareigybių naikinimą nuo Priežiūros komisijos narių paskyrimo momento. 
 2. Ne anksčiau kaip
 per 2 ir ne vėliau kaip per 3 mėnesius nuo šio Įstatymo paskelbimo Ministras
 Pirmininkas finansų ministro teikimu paskiria Priežiūros komisijos pirmininką.
@@ -6529,17 +6568,15 @@ priežiūros tarnybos prie Finansų ministerijos valdybos teises ir pareigas, o
 Priežiūros komisijos pirmininkas – Valstybinės draudimo priežiūros tarnybos
 prie Finansų ministerijos direktoriaus teises ir pareigas. 
  
-221 straipsnis. Pasiūlymas Vyriausybei ir
-įpareigojimas Priežiūros komisijai
+221 straipsnis. Pasiūlymas
+Vyriausybei ir įpareigojimas Priežiūros komisijai
 1. Pasiūlyti
 Vyriausybei per 6 mėnesius nuo šio Įstatymo įsigaliojimo peržiūrėti įstatymus
 ir kitus teisės aktus, susijusius su šio Įstatymo nuostatų įgyvendinimu.
-2. Priežiūros
-komisija iki šio Įstatymo įsigaliojimo priima šiame Įstatyme nustatytus teisės
-aktus.
+2. Priežiūros komisija
+iki šio Įstatymo įsigaliojimo priima šiame Įstatyme nustatytus teisės aktus.
  
-222 straipsnis.
-Draudimo veiklos licencija
+222 straipsnis. Draudimo veiklos licencija
 1. Įsigaliojus šiam
 Įstatymui, kiekvienai veikiančiai draudimo įmonei išduodama naujos formos
 draudimo veiklos licencija. Joje įrašomos draudimo grupės, kurių veiklą
@@ -6550,14 +6587,13 @@ išimtį.
 2. Naujos formos
 draudimo veiklos licencijoje nurodytos draudimo grupės apima privalomojo
 draudimo rizikas tik tuo atveju, jei tai, atsižvelgiant į iki šio Įstatymo
-įsigaliojimo draudimo įmonei išduotus leidimus privalomojo draudimo rūšims,
-pažymėta išduodamoje licencijoje. 
+įsigaliojimo draudimo įmonei išduotus leidimus privalomojo draudimo rūšims, pažymėta
+išduodamoje licencijoje. 
 3. Kol bus išduota
 naujos formos draudimo veiklos licencija, draudimo įmonės veiklą vykdo turimos
 draudimo veiklos licencijos ir turimų leidimų draudimo rūšims nustatytu mastu.
  
-223 straipsnis.
-Minimalus garantinis fondas
+223 straipsnis. Minimalus garantinis fondas
 1. Veikiančios
 draudimo įmonės, įsteigtos iki šio Įstatymo įsigaliojimo, iki 2007 m. kovo 30
 d. privalo padidinti minimalų garantinį fondą iki šio Įstatymo 39 straipsnio 3
@@ -6570,8 +6606,7 @@ fondo padidinimo planą, Priežiūros komisija turi teisę pratęsti šio straip
 įmonė nepadidina minimalaus garantinio fondo per šiame straipsnyje nurodytus
 terminus, Priežiūros komisija panaikina draudimo veiklos licenciją.
  
-224 straipsnis.
-Kiti reikalavimai draudimo įmonėms
+224 straipsnis. Kiti reikalavimai draudimo įmonėms
 1. Draudimo įmonės
 privalo pertvarkyti savo veiklą pagal šio Įstatymo nuostatas iki 2005 m. liepos
 1 d.
@@ -6591,8 +6626,7 @@ draudimo veiklos atskiro administravimo.
 komisija turi teisę teikti privalomus nurodymus ar rekomendacijas veiklos
 pertvarkymo pagal šio Įstatymo nuostatas klausimais.
  
-225 straipsnis.
-Likvidavimas ir bankrotas
+225 straipsnis. Likvidavimas ir bankrotas
 1. Šio Įstatymo
 nuostatos taikomos draudimo įmonių likvidavimo ir bankroto bei Lietuvos
 Respublikoje įsteigtų užsienio valstybių draudimo įmonių filialų veiklos
@@ -6608,8 +6642,7 @@ užsienio valstybių, kurios yra Pasaulio prekybos organizacijos narės, draudim
 įmonių filialų veiklos nutraukimo procedūroms taikomas Lietuvos Respublikos
 draudimo įstatymas (Žin., 1996, Nr. 73-1742).
  
-226 straipsnis.
-Draudimo tarpininkai
+226 straipsnis. Draudimo tarpininkai
 1. Draudimo
 tarpininkai per vienus metus nuo šio Įstatymo įsigaliojimo Priežiūros komisijos
 nustatyta tvarka privalo pertvarkyti savo veiklą pagal šio Įstatymo nuostatas.
@@ -6639,24 +6672,22 @@ nėra taikiusi poveikio priemonių šių asmenų vadovaujamoms įmonėms.
 Respublika nėra Europos Sąjungos valstybė narė, draudimo tarpininkų profesinės
 civilinės atsakomybės draudimo sutartis privalo galioti Lietuvos Respublikoje.
  
-227 straipsnis.
-Piniginis vienetas
-1. Visi šiame Įstatyme
-nurodyti dydžiai eurais išreiškiami litais pagal Lietuvos banko skelbiamą
-oficialų euro ir lito santykį.
+227 straipsnis. Piniginis vienetas
+1. Visi šiame
+Įstatyme nurodyti dydžiai eurais išreiškiami litais pagal Lietuvos banko
+skelbiamą oficialų euro ir lito santykį.
 2. Šiame Įstatyme
 nurodytus dydžius eurais, kurių indeksavimą numato Europos Sąjungos teisės
 aktai, indeksuoja Priežiūros komisija, atsižvelgdama į Europos vartotojų kainų
 indeksą, skelbiamą Eurostat. 
  
-228 straipsnis.
-Pasaulio prekybos organizacijos narių draudimo įmonės
+228 straipsnis. Pasaulio prekybos organizacijos narių draudimo įmonės
 1. Pasaulio prekybos organizacijos narių draudimo
 įmonės iki tol, kol Lietuvos Respublika taps Europos Sąjungos nare, turi teisę
 sudaryti šio Įstatymo 7 straipsnio 3 dalies 5, 6, 11, 12 punktuose išvardytų
-draudimo grupių savanoriškojo draudimo bei laivais (jūrų, ežerų, upių ir
-kanalų) ir skraidymo aparatais vežamų krovinių savanoriškojo draudimo sutartis
-su Lietuvos Respublikos fiziniais ir juridiniais asmenimis. 
+draudimo grupių savanoriškojo draudimo bei laivais (jūrų, ežerų, upių ir kanalų)
+ir skraidymo aparatais vežamų krovinių savanoriškojo draudimo sutartis su
+Lietuvos Respublikos fiziniais ir juridiniais asmenimis. 
 2. Galimybė užsienio valstybių, kurios yra Pasaulio
 prekybos organizacijos narės, draudimo įmonėms veikti šio straipsnio 1 dalyje
 nustatytais atvejais nesuteikia teisės užsienio valstybės draudimo įmonei
@@ -6703,8 +6734,8 @@ straipsnio 5 dalies nuostatas.
 praneša užsienio valstybės, kuri yra Pasaulio prekybos organizacijos narė,
 draudimo įmonei, kartu nurodydama išsamius šios priemonės taikymo motyvus.
  
-229 straipsnis. Pasaulio prekybos organizacijos narių
-draudimo įmonių filialai
+229 straipsnis. Pasaulio
+prekybos organizacijos narių draudimo įmonių filialai
 1. Įsigaliojus šiam
 Įstatymui, Pasaulio prekybos organizacijos narių draudimo įmonių filialams,
 įsteigtiems Lietuvos Respublikoje, taikomos šio Įstatymo nuostatos, numatytos
@@ -6752,7 +6783,8 @@ organizacijos narių, kurios kartu yra ir Europos Sąjungos valstybės narės,
 draudimo įmonių filialams taikomos nuostatos, reglamentuojančios Europos
 Sąjungos valstybių narių draudimo įmonių filialus.
  
-230 straipsnis. Draudimo sutartis
+230 straipsnis. Draudimo
+sutartis
 1. Šis Įstatymas taikomas teisiniams santykiams,
 atsirandantiems iš draudimo sutarties ar susijusiems su ja, atsiradusiems po
 šio Įstatymo įsigaliojimo, išskyrus šiame straipsnyje nurodytas išimtis.
@@ -6762,12 +6794,10 @@ susiję teisiniai santykiai atsirado iki šio Įstatymo įsigaliojimo, šis
 3. Jei sutartinė prievolė vykdoma įsigaliojus šiam
 Įstatymui, jos vykdymą reglamentuoja šio Įstatymo normos.
  
-[Papildyta straipsniu nuo
-2006-08-08]
-231 straipsnis. Draudimo rizikos vertinimas
-atsižvelgiant į apdraustojo lytį
-1. Priežiūros komisija iki 2007 m. sausio 1 d. patvirtina
-šio Įstatymo 100 straipsnio 2 dalyje nurodytą tvarką, savo interneto
+231 straipsnis. Draudimo
+rizikos vertinimas atsižvelgiant į apdraustojo lytį
+1. Priežiūros komisija iki 2007 m. sausio 1 d.
+patvirtina šio Įstatymo 100 straipsnio 2 dalyje nurodytą tvarką, savo interneto
 tinklalapyje paskelbia ir po to ne rečiau kaip kartą per metus atnaujina šio
 Įstatymo 100 straipsnio 2 dalyje nurodytus statistinius ir aktuarinius
 duomenis.
@@ -6778,20 +6808,22 @@ reikalingą įgyvendinant šio Įstatymo 100 straipsnio 2 dalyje nurodytas
 funkcijas.
 3. Finansų ministerija informuoja Europos Bendrijų
 Komisiją apie šio Įstatymo 100 straipsnio 2 dalies nuostatas.
-4. Po penkerių metų nuo 2007 m. gruodžio 21 d., atsižvelgdama į
-Europos Bendrijų Komisijos parengtą ataskaitą, Finansų ministerija su
-atitinkamomis suinteresuotomis institucijomis apsvarsto šio Įstatymo 100
-straipsnio 2 dalies nuostatų tikslingumą ir apie tai informuoja Europos
-Bendrijų Komisiją.
-Straipsnio
-pakeitimai:
+4. Po penkerių metų nuo 2007 m. gruodžio 21 d.,
+atsižvelgdama į Europos Bendrijų Komisijos parengtą ataskaitą, Finansų
+ministerija su atitinkamomis suinteresuotomis institucijomis apsvarsto šio
+Įstatymo 100 straipsnio 2 dalies nuostatų tikslingumą ir apie tai informuoja
+Europos Bendrijų Komisiją.
+Įstatymas
+papildytas straipsniu:
 Nr.
-X-798, 2006-07-19,
-Žin., 2006, Nr. 87-3409 (2006-08-08)
+X-798,
+2006-07-19, Žin., 2006, Nr. 87-3409 (2006-08-08)
  
             Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
+ 
 RESPUBLIKOS PREZIDENTAS                                                                 ROLANDAS PAKSAS
+Priedo redakcija iki 2007 m. birželio 11 d.:
                                                                                     Lietuvos
 Respublikos 
                                                                                     2003
@@ -6819,9 +6851,9 @@ išskyrus gyvybės draudimą, veiklos pradėjimu ir plėtojimu, suderinimo;
 panaikinanti steigimo laisvės apribojimus tiesioginiame draudime, išskyrus
 gyvybės draudimą;
 5) 1976 m. birželio 29 d. Tarybos direktyva
-76/580/EEB, iš dalies pakeičianti direktyvą 73/239/EEB dėl tiesioginio draudimo,
-išskyrus gyvybės draudimą, veiklos pradėjimą ir plėtojimą reglamentuojančių
-įstatymų ir kitų teisės aktų suderinimo;
+76/580/EEB, iš dalies pakeičianti direktyvą 73/239/EEB dėl tiesioginio
+draudimo, išskyrus gyvybės draudimą, veiklos pradėjimą ir plėtojimą
+reglamentuojančių įstatymų ir kitų teisės aktų suderinimo;
 6)
 1978 m. gegužės 30 d. Tarybos direktyva 78/473/EEB dėl valstybių narių
 įstatymų, įstatymų lydimųjų aktų ir administracinių nuostatų, susijusių su
@@ -6891,10 +6923,134 @@ ir vyrus principą dėl galimybės naudotis prekėmis bei paslaugomis ir prekių
 tiekimo bei paslaugų teikimo (OL 2004 m. L 373, p. 37);
 23) 2005 m. kovo 9
 d. Europos Parlamento ir Tarybos direktyva 2005/1/EB, iš dalies keičianti
+Tarybos direktyvas 73/239/EEB, 85/611/EEB, 91/675/EEB, 92/49/EEB, 93/6/EEB, taip
+pat Europos Parlamento ir Tarybos direktyvas 94/19/EB, 98/78/EB, 2000/12/EB,
+2001/34/EB, 2002/83/EB ir 2002/87/EB, siekiant sukurti naują finansinių
+paslaugų komitetų organizacinę struktūrą.
+Priedo redakcija nuo 2007 m. birželio 11 d.:
+Lietuvos Respublikos 
+                                                                                    draudimo
+įstatymo
+                                                                                    priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS
+AKTAI
+ 
+1. 1964 m. vasario
+25 d. Tarybos direktyva 64/225/EEB dėl verslo steigimo laisvės ir laisvės
+teikti paslaugas apribojimų panaikinimo perdraudimo bei retrocesijos srityse
+(OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 5).
+2. 1972 m. balandžio
+24 d. Tarybos direktyva 72/166/EEB dėl valstybių narių įstatymų, susijusių su
+transporto priemonių valdytojų civilinės atsakomybės draudimu ir privalomojo
+tokios atsakomybės draudimo įgyvendinimu, suderinimo (OL 2004 m. specialusis
+leidimas, 6 skyrius, 1 tomas, p. 10).
+3. 1973 m. liepos 24
+d. pirmoji Tarybos direktyva 73/239/EEB dėl įstatymų ir kitų teisės aktų,
+susijusių su tiesioginio draudimo, išskyrus gyvybės draudimą, veiklos pradėjimu
+ir plėtojimu, suderinimo (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas,
+p. 14).
+4. 1973 m. liepos 24
+d. Tarybos direktyva 73/240/EEB, panaikinanti steigimo laisvės apribojimus
+tiesioginiame draudime, išskyrus gyvybės draudimą (OL 2004 m. specialusis
+leidimas, 6 skyrius, 1 tomas, p. 31).
+5. 1976 m. birželio
+29 d. Tarybos direktyva 76/580/EEB, iš dalies pakeičianti Direktyvą 73/239/EEB
+dėl tiesioginio draudimo, išskyrus gyvybės draudimą, veiklos pradėjimą ir
+plėtojimą reglamentuojančių įstatymų ir kitų teisės aktų suderinimo (OL 2004 m.
+specialusis leidimas, 6 skyrius, 1 tomas, p. 44).
+6. 1978 m. gegužės
+30 d. Tarybos direktyva 78/473/EEB dėl valstybių narių įstatymų, įstatymų
+lydimųjų aktų ir administracinių nuostatų, susijusių su Bendrijos bendruoju
+draudimu, derinimo (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p.
+64).
+7. 1978 m. liepos 25
+d. ketvirtoji Tarybos direktyva 78/660/EEB, pagrįsta Europos Bendrijų sutarties
+54 straipsnio 3 dalies g punktu dėl tam tikrų rūšių bendrovių metinių
+atskaitomybių (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 21).
+8. 1983 m. birželio
+13 d. septintoji Tarybos direktyva 83/349/EEB, pagrįsta Europos Bendrijų
+sutarties 54 straipsnio 3 dalies g punktu dėl konsoliduotų ataskaitų (OL 2004
+m. specialusis leidimas, 17 skyrius, 1 tomas, p. 58).
+9. 1983 m. gruodžio
+30 d. antroji Tarybos direktyva 84/5/EEB dėl valstybių narių įstatymų,
+susijusių su transporto priemonių valdytojų civilinės atsakomybės draudimu,
+suderinimo (OL 2004 m. specialusis leidimas, 6 skyrius, 7 tomas, p. 3).
+10. 1988 m. birželio
+22 d. antroji Tarybos direktyva 88/357/EEB dėl įstatymų ir kitų teisės aktų,
+susijusių su tiesioginiu draudimu, išskyrus gyvybės draudimą, suderinimo,
+apibrėžianti nuostatas, padedančias veiksmingai įgyvendinti laisvę teikti
+paslaugas, ir pataisanti Direktyvą 73/239/EEB (OL 2004 m. specialusis leidimas,
+6 skyrius, 1 tomas, p. 198).
+11. 1990 m.
+lapkričio 8 d. Tarybos direktyva 90/618/EEB, iš dalies pakeičianti Direktyvą
+73/239/EEB ir Direktyvą 88/357/EEB dėl įstatymų ir kitų teisės aktų,
+reglamentuojančių tiesioginį draudimą, išskyrus gyvybės draudimą, suderinimą,
+ir pirmiausia pakeičianti šių direktyvų nuostatas dėl motorinių transporto
+priemonių civilinės atsakomybės draudimo (OL 2004 m. specialusis leidimas, 6
+skyrius, 1 tomas, p. 252).
+12. 1992 m. birželio
+18 d. Tarybos direktyva 92/49/EEB dėl įstatymų ir kitų teisės aktų, susijusių
+su tiesioginiu draudimu, išskyrus gyvybės draudimą, suderinimo, iš dalies
+pakeičianti Direktyvas 73/239/EEB ir 88/357/EEB (trečioji ne gyvybės draudimo
+direktyva) (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 346).
+13. 1995 m. birželio
+29 d. Europos Parlamento ir Tarybos direktyva 95/26/EB, iš dalies pakeičianti
+Direktyvas 77/780/EEB ir 89/646/EEB dėl kredito įstaigų, Direktyvas 73/239/EEB
+ir 92/49/EEB dėl ne gyvybės draudimo, Direktyvas 79/267/EEB ir 92/96/EEB dėl
+gyvybės draudimo, Direktyvą 93/22/EEB dėl investicinių bendrovių, Direktyvą
+85/611/EEB dėl kolektyvinio investavimo į perleidžiamus vertybinius popierius
+subjektų (KIAVPS), kad būtų gerinama riziką ribojanti priežiūra (OL 2004 m.
+specialusis leidimas, 6 skyrius, 2 tomas, p. 269).
+14. 1998 m. spalio
+27 d. Europos Parlamento ir Tarybos direktyva 98/78/EB dėl draudimo įmonių
+papildomos priežiūros draudimo įmonių grupėje (OL 2004 m. specialusis leidimas,
+6 skyrius, 3 tomas, p. 151).
+15. 2000 m.
+lapkričio 7 d. Europos Parlamento ir Tarybos direktyva 2000/64/EB, iš dalies
+pakeičianti Tarybos direktyvas 85/611/EEB, 92/49/EEB, 92/96/EEB ir 93/22/EEB dėl
+keitimosi informacija su trečiosiomis valstybėmis (OL 2004 m. specialusis
+leidimas, 6 skyrius, 3 tomas, p. 348). 
+16. 2001 m. kovo 19
+d. Europos Parlamento ir Tarybos direktyva 2001/17/EB dėl draudimo įmonių
+reorganizavimo ir likvidavimo (OL 2004 m. specialusis leidimas, 6 skyrius, 4
+tomas, p. 3).
+17. 2001 m. spalio 8
+d. Tarybos reglamentas (EB) Nr. 2157/2001 dėl Europos bendrovės (SE) statuto
+(OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 251).
+18. 2002 m. kovo 5
+d. Europos Parlamento ir Tarybos direktyva 2002/13/EB, iš dalies pakeičianti
+Tarybos direktyvą 73/239/EEB dėl ne gyvybės draudimo įmonėms keliamų mokumo
+atsargų reikalavimų (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p.
+310).
+19. 2002 m.
+lapkričio 5 d. Europos Parlamento ir Tarybos direktyva 2002/83/EB dėl gyvybės
+draudimo (OL 2004 m. specialusis leidimas, 6 skyrius, 6 tomas, p. 3).
+20. 2002 m. gruodžio
+9 d. Europos Parlamento ir Tarybos direktyva 2002/92/EB dėl draudimo
+tarpininkavimo (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 330).
+21. 2002 m. gruodžio
+16 d. Europos Parlamento ir Tarybos direktyva 2002/87/EB dėl papildomos kredito
+įstaigų, draudimo įmonių ir finansų maklerio įmonių, priklausančių finansų
+konglomeratui, priežiūros ir pakeičianti Tarybos direktyvas 73/239/EEB,
+79/267/EEB, 92/49/EEB, 92/96/EEB, 93/6/EEB, 93/22/EEB ir Europos Parlamento bei
+Tarybos direktyvas 98/78/EB ir 2000/12/EB (OL 2004 m. specialusis leidimas, 6
+skyrius, 4 tomas, p. 340).
+22. 2004 m. gruodžio
+13 d. Tarybos direktyva 2004/113/EB, įgyvendinanti vienodo požiūrio į moteris
+ir vyrus principą dėl galimybės naudotis prekėmis bei paslaugomis ir prekių
+tiekimo bei paslaugų teikimo (OL 2004 m. L 373, p. 37).
+23. 2005 m. kovo 9
+d. Europos Parlamento ir Tarybos direktyva 2005/1/EB, iš dalies keičianti
 Tarybos direktyvas 73/239/EEB, 85/611/EEB, 91/675/EEB, 92/49/EEB, 93/6/EEB,
 taip pat Europos Parlamento ir Tarybos direktyvas 94/19/EB, 98/78/EB,
 2000/12/EB, 2001/34/EB, 2002/83/EB ir 2002/87/EB, siekiant sukurti naują
-finansinių paslaugų komitetų organizacinę struktūrą.
+finansinių paslaugų komitetų organizacinę struktūrą (OL 2005 m. L 79, p. 9).
+24. 2005 m. gegužės
+11 d. Europos Parlamento ir Tarybos direktyva 2005/14/EB, iš dalies keičianti
+Tarybos direktyvas 72/166/EEB, 84/5/EEB, 88/357/EEB ir 90/232/EEB bei Europos
+Parlamento ir Tarybos direktyvą 2000/26/EB, susijusias su motorinių transporto
+priemonių valdytojų civilinės atsakomybės draudimu (OL 2005 m. L 149, p. 14).
 Priedo
 pakeitimai:
 Nr. X-371, 2005-10-18,
@@ -6902,6 +7058,8 @@ Nr. X-371, 2005-10-18,
 Nr.
 X-798,
 2006-07-19, Žin., 2006, Nr. 87-3409 (2006-08-08)
+Nr. X-1139, 2007-05-17, Žin., 2007, Nr. 61-2342
+(2007-06-02)
  
 ________________
  
@@ -6955,7 +7113,8 @@ DRAUDIMO
 6.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. X-798, 2006-07-19,
+Nr.
+X-798, 2006-07-19,
 Žin., 2006, Nr. 87-3409 (2006-08-08)
 DRAUDIMO
 ĮSTATYMO 29, 35, 36, 43, 82, 100, 113, 135, 136, 151, 175, 180, 188, 191, 193,
@@ -6963,11 +7122,22 @@ DRAUDIMO
 STRAIPSNIAIS, VIII SKYRIAUS PAPILDYMO PENKTUOJU SKIRSNIU IR PRIEDO PAPILDYMO
 ĮSTATYMAS
  
+7.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-1139, 2007-05-17, Žin., 2007, Nr. 61-2342 (2007-06-02)
+DRAUDIMO
+ĮSTATYMO 1, 2, 57 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI PRIEDO PAPILDYMO
+ĮSTATYMAS
+Šis įstatymas įsigalioja nuo 2007
+m. birželio 11 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušra Bodin (2006-08-09)
+Aušrinė Trapinskienė (2007-06-04)
                  
-ausra.bodin@lrs.lt
+autrap@lrs.lt
