@@ -13,8 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D65A0A6F9AD8"
 
 # Lietuvos Respublikos antstolių įstatymo įsigaliojimo ir įgyvendinimo įstatymas
 
-Įstatymas skelbtas: Žin., 2002, Nr.
-53-2043
+Įstatymas skelbtas: Žin., 2002, Nr. 53-2043
 Neoficialus įstatymo tekstas
  
 LIETUVOS RESPUBLIKOS
@@ -34,17 +33,17 @@ Antstolių įstatymo įsigaliojimas
 dalis, 4, 5, 8, 9, 17, 18, 20, 26, 41, 42, 50 straipsnius. Šie straipsniai ir
 dalys įsigalioja nuo Antstolių įstatymo paskelbimo ir taikomi su Antstolių
 įstatymo įsigaliojimo ir įgyvendinimo įstatyme numatytomis išlygomis.
-2. 2003 m. sausio 1 d. netenka galios:
+2. 2003 m. sausio 1
+d. netenka galios:
 1) Teismo antstolių
 įstatymas (Žin., 2000, Nr. 92-2846);
 2) Teismo antstolių
 įstatymo įgyvendinimo įstatymas (Žin., 2000, Nr. 92-2847).
  
-2 straipsnis. Įstatymo „Dėl
-SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir šios
-organizacijos kadrinių darbuotojų dabartinės veiklos“ taikymas antstoliams 
-   Kol nėra pasibaigęs įstatymo „Dėl SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir šios organizacijos kadrinių darbuotojų dabartinės veiklos“ nustatytas apribojimų terminas, antstoliais negali būti skiriami ir negali dirbti asmenys, buvę SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) kadriniais darbuotojais.
- 
+2 straipsnis. Neteko galios nuo 2007 m. birželio 21 d.
+Straipsnio pakeitimai:
+Nr. X-1165,
+2007-06-05, Žin., 2007, Nr. 68-2652 (2007-06-21)
  
 3
 straipsnis. Antstolių rezervas
@@ -66,7 +65,8 @@ antstolių rezervui suformuoti skelbia Teisingumo ministerija, atsižvelgdama į
 teisingumo ministro nustatytą antstolių skaičių ir veiklos teritorijas.
 Konkursas antstolių rezervui suformuoti turi būti paskelbtas ne vėliau kaip per
 vieną mėnesį nuo šio Įstatymo įsigaliojimo dienos, o rezervas baigtas formuoti
-– iki 2002 m. gruodžio 1 d. Antstolių rezervas egzistuoja iki 2003 m. sausio 1 d.
+– iki 2002 m. gruodžio 1 d. Antstolių rezervas egzistuoja iki 2003 m. sausio 1
+d.
 4. Asmuo, laimėjęs
 viešą konkursą, teisingumo ministro įsakymu skiriamas antstoliu ir įrašomas į
 antstolių rezervą.
@@ -80,9 +80,10 @@ antstolių rezervą ir įvykdę šio straipsnio 5 dalyje nustatytus reikalavimus
 nuo 2003 m. sausio 1 d. įrašomi į Lietuvos antstolių sąrašą, jiems išduodamas
 liudijimas, patvirtinantis teisę vykdyti antstolio veiklą, bei antstolio
 pažymėjimas ir ženklas. 
-7. Asmenys, įrašyti
-į antstolių rezervą ir nustatyta tvarka neįvykdę šio straipsnio 5 dalyje
-nustatytų reikalavimų, iki 2003 m. vasario 1 d. netenka antstolio statuso.
+7. Asmenys,
+įrašyti į antstolių rezervą ir nustatyta tvarka neįvykdę šio straipsnio 5
+dalyje nustatytų reikalavimų, iki 2003 m. vasario 1 d. netenka antstolio
+statuso.
 Straipsnio pakeitimai:
 Nr. IX-1276, 2002-12-10,
 Žin., 2002, Nr. 123-5555 (2002-12-24)
@@ -175,12 +176,12 @@ bei vykdomosios bylos, kurias vykdant šios lėšos buvo išieškotos, teisingum
 ministro nustatyta tvarka perduodami antstoliams.
 2. Antstoliai išieškotas iš skolininkų lėšas išmoka
 išieškotojams. 
-3. Iki 2003 m. sausio 1 d. lėšos, skirtos sprendimų vykdymo išlaidoms apmokėti ir
-saugomos teismo antstolių kontorų prie apylinkių teismų specialiose
-depozitinėse sąskaitose, pervedamos į Teisingumo ministerijos lėšų pagal
-pavedimus sąskaitą. Lėšų, esančių teismo antstolių kontorų prie apylinkių
-teismų specialiose depozitinėse sąskaitose, apskaitos dokumentai perduodami
-Teisingumo ministerijai. 
+3. Iki 2003 m. sausio 1 d. lėšos,
+skirtos sprendimų vykdymo išlaidoms apmokėti ir saugomos teismo antstolių kontorų
+prie apylinkių teismų specialiose depozitinėse sąskaitose, pervedamos į
+Teisingumo ministerijos lėšų pagal pavedimus sąskaitą. Lėšų, esančių teismo
+antstolių kontorų prie apylinkių teismų specialiose depozitinėse sąskaitose,
+apskaitos dokumentai perduodami Teisingumo ministerijai. 
 4. Visos Teisingumo ministerijos lėšų pagal pavedimus
 sąskaitoje sukauptos bei šio straipsnio 3 dalyje nurodytos lėšos teisingumo
 ministro nustatyta tvarka proporcingai paskirstomos antstoliams perduotų
@@ -192,17 +193,17 @@ bylų ir archyvų perdavimas
 Teismo antstolių kontorų prie apylinkių teismų
 užbaigtos vykdomosios bylos, išskyrus nurodytas šio Įstatymo 10 straipsnio 1
 dalyje, ir archyvai iki 2003
- m. sausio 1 d. perduodami saugoti apylinkės teismams, prie kurių yra
-teismo antstolių kontoros.
+m. sausio 1 d. perduodami
+saugoti apylinkės teismams, prie kurių yra teismo antstolių kontoros.
  
 12 straipsnis. Pirmojo antstolių susirinkimo sušaukimas
-1. Pirmąjį antstolių susirinkimą iki 2003 m. kovo 1 d. sušaukia
-teisingumo ministras. Pirmajam antstolių susirinkimui pirmininkauja teisingumo
-ministro paskirtas asmuo.
+1. Pirmąjį antstolių susirinkimą iki 2003
+m. kovo 1 d. sušaukia teisingumo ministras. Pirmajam antstolių
+susirinkimui pirmininkauja teisingumo ministro paskirtas asmuo.
 2. Pirmajame
 antstolių susirinkime priimami Lietuvos antstolių rūmų įstatai, Antstolių
-profesinės etikos kodeksas, išrenkamas Lietuvos antstolių rūmų prezidiumas ir du
-Antstolių garbės teismo nariai.
+profesinės etikos kodeksas, išrenkamas Lietuvos antstolių rūmų prezidiumas ir
+du Antstolių garbės teismo nariai.
  
 13
 straipsnis. Teismo antstolių veiksmais padarytos žalos atlyginimas
@@ -220,8 +221,8 @@ antstolių rūmai pradės drausti antstolių civilinę atsakomybę, kiekvienas a
 paskirtas antstoliu, privalo Antstolių įstatymo nustatyta tvarka savarankiškai
 apsidrausti civilinę atsakomybę.
  
-15 straipsnis. Teisės aktų, būtinų Antstolių įstatymui
-įgyvendinti, parengimas ir 
+15 straipsnis. Teisės aktų, būtinų Antstolių
+įstatymui įgyvendinti, parengimas ir 
 patvirtinimas
 
 1. Vyriausybė:
@@ -230,7 +231,9 @@ mėnesius nuo šio Įstatymo įsigaliojimo dienos patvirtina Antstolių profesin
 civilinės atsakomybės privalomojo draudimo taisykles ir Teismo antstolių
 kontorų prie apylinkių teismų patikėjimo teise valdomo ilgalaikio kilnojamojo
 turto ir turtinių teisių pardavimo tvarką;
-2) iki 2003 m. sausio 1 d. parengia kitus šiam Įstatymui įgyvendinti reikalingus teisės aktus. 
+2) iki 2003 m.
+sausio 1 d. parengia kitus šiam Įstatymui įgyvendinti reikalingus teisės aktus.
+
 2. Įsigaliojus šiam
 Įstatymui, Teisingumo ministerija:
 1) per keturis
@@ -238,8 +241,9 @@ mėnesius patvirtina Antstolių informacinės sistemos nuostatus, sukuria ir
 įdiegia antstolių informacinę sistemą;
 2) per vieną mėnesį
 nustato antstolių skaičių, priskiria jiems veiklos teritorijas;
-3) iki 2003 m. sausio 1 d. teisingumo ministras patvirtina Antstolių įstatyme numatytus ir kitus būtinus
-šiam Įstatymui įgyvendinti teisės aktus.
+3) iki 2003 m. sausio
+1 d. teisingumo ministras patvirtina Antstolių įstatyme numatytus ir kitus
+būtinus šiam Įstatymui įgyvendinti teisės aktus.
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
@@ -265,11 +269,21 @@ IX-1276,
 ANTSTOLIŲ
 ĮSTATYMO ĮSIGALIOJIMO IR ĮGYVENDINIMO ĮSTATYMO 3 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-1165,
+2007-06-05, Žin., 2007, Nr. 68-2652 (2007-06-21)
+ANTSTOLIŲ
+ĮSTATYMO ĮSIGALIOJIMO IR ĮGYVENDINIMO ĮSTATYMO 2 STRAIPSNIO PRIPAŽINIMO NETEKUSIU
+GALIOS ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-01-09)
+Aušrinė Trapinskienė (2007-06-29)
                  
 autrap@lrs.lt
