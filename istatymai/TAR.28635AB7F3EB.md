@@ -33,17 +33,19 @@ vadovaudamasis tarptautinės bendrijos
 visuotinai pripažinta nuostata, kad žmonių naikinimas bet kuriuo tikslu yra
 nusikaltimas,
 atsižvelgdamas
-į tai, kad Lietuvos Respublika prisijungė prie 1948 m. gruodžio 9 d. Konvencijos dėl kelio užkirtimo genocido nusikaltimui ir baudimo už jį bei 1968 m. lapkričio 26 d. Konvencijos dėl senaties termino netaikymo už karinius nusikaltimus ir
-nusikaltimus žmonijai,
-remdamasis Europos žmogaus teisių ir pagrindinių
-laisvių apsaugos konvencijos ir jos protokolų nuostatomis,
-konstatuodamas, kad nuo 1940 m. birželio 15 d. iki 1990 m. kovo 11 d. Lietuva buvo okupuota, o primesti okupaciniai režimai
-neteisėti,
-konstatuodamas,
-kad Lietuvos gyventojų fizinis ir dvasinis genocidas bei kiti nusikaltimai
-žmoniškumui ir karo nusikaltimai buvo vykdomi okupacijų laikotarpiu,
-konstatuodamas, kad 1940-1990 m. Lietuvoje įvairiomis formomis (karinėmis ir politinėmis) vyko pasipriešinimas (rezistencija)
-SSRS ir Vokietijos okupacinėms valdžioms,
+į tai, kad Lietuvos Respublika prisijungė prie 1948 m. gruodžio 9 d.
+Konvencijos dėl kelio užkirtimo genocido nusikaltimui ir baudimo už jį bei 1968
+m. lapkričio 26 d. Konvencijos dėl senaties termino netaikymo už karinius
+nusikaltimus ir nusikaltimus žmonijai,
+remdamasis Europos žmogaus teisių ir
+pagrindinių laisvių apsaugos konvencijos ir jos protokolų nuostatomis,
+konstatuodamas, kad nuo 1940 m. birželio
+15 d. iki 1990 m. kovo 11 d. Lietuva buvo okupuota, o primesti okupaciniai
+režimai neteisėti,
+konstatuodamas, kad Lietuvos gyventojų fizinis ir dvasinis genocidas bei kiti nusikaltimai žmoniškumui ir karo nusikaltimai buvo vykdomi okupacijų laikotarpiu,
+konstatuodamas, kad 1940-1990 m.
+Lietuvoje įvairiomis formomis (karinėmis ir politinėmis) vyko pasipriešinimas
+(rezistencija) SSRS ir Vokietijos okupacinėms valdžioms,
 pripažindamas, kad didelė Lietuvos
 gyventojų dalis žuvo laisvės kovose arba tapo genocido bei kitų nusikaltimų
 žmoniškumui ir karo nusikaltimų aukomis ir turi būti atmenama, deramai
@@ -53,26 +55,25 @@ Lietuvos piliečių pasipriešinimo okupaciniams režimams procesus, juos įvert
 ir patraukti baudžiamojon atsakomybėn genocido organizatorius bei kitų
 nusikaltimų žmoniškumui ir karo nusikaltimų organizatorius ir
 vykdytojus, 
-priima šį
-įstatymą.
+priima šį įstatymą.
 Preambulės
 pakeitimai:
 Nr.
 IX-1461,
 2003-04-03, Žin., 2003, Nr. 38-1706 (2003-04-24)
  
-PIRMASIS
-SKIRSNIS
+PIRMASIS SKIRSNIS
 BENDROSIOS
 NUOSTATOS
  
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis.
+Įstatymo paskirtis
 Šis įstatymas reglamentuoja Lietuvos
 gyventojų genocido ir rezistencijos tyrimo centro veiklą, nustato jo
 uždavinius, funkcijas, teisinę padėtį, struktūrą ir darbo organizavimą.
  
-2 straipsnis. Lietuvos gyventojų
-genocido ir rezistencijos tyrimo centras
+2 straipsnis.
+Lietuvos gyventojų genocido ir rezistencijos tyrimo centras
 1. Lietuvos gyventojų genocido ir rezistencijos
 tyrimo centras (toliau – Centras) yra tarpžinybinė valstybės institucija,
 tirianti visas genocido bei kitų nusikaltimų žmoniškumui ir karo nusikaltimų
@@ -92,36 +93,37 @@ Nr.
 IX-1461,
 2003-04-03, Žin., 2003, Nr. 38-1706 (2003-04-24)
  
-3 straipsnis. Centro veiklos teisiniai
-pagrindai
+3 straipsnis.
+Centro veiklos teisiniai pagrindai
 Centras veikia vadovaudamasis Lietuvos
 Respublikos Konstitucija, įstatymais, kitais Seimo priimtais teisės aktais,
 Respublikos Prezidento dekretais, Vyriausybės nutarimais bei Centro nuostatais,
 taip pat šiuo įstatymu.
  
-ANTRASIS
-SKIRSNIS
+ANTRASIS SKIRSNIS
 CENTRO
 UŽDAVINIAI IR FUNKCIJOS
  
-4 straipsnis. Centro uždaviniai
+4 straipsnis.
+Centro uždaviniai
 Centro uždaviniai - istorinės tiesos ir
 teisingumo atkūrimas, okupacinių režimų 1939-1990 metais vykdyto Lietuvos
 gyventojų fizinio bei dvasinio genocido ir pasipriešinimo šiems režimams
 tyrimas, laisvės kovotojų ir genocido aukų atminimo įamžinimas, okupacijos
-padarinių teisinio įvertinimo inicijavimas. Centras taip pat tiria 1920-1939 m. Vilniaus krašte okupacinio režimo vykdytą politiką bei pasipriešinimo jai procesus.
+padarinių teisinio įvertinimo inicijavimas. Centras taip pat tiria 1920-1939 m.
+Vilniaus krašte okupacinio režimo vykdytą politiką bei pasipriešinimo jai
+procesus.
  
-5 straipsnis. Centro funkcijos
-Centras, atlikdamas jam pavestus uždavinius:
+5 straipsnis.
+Centro funkcijos
+Centras, atlikdamas jam pavestus
+uždavinius:
 1) formuoja šiuo įstatymu apibrėžtos srities tyrimų
 valstybinę politiką: nustato tyrimų kryptis ir metodiką, formuluoja darbo
 problematiką, sudaro ilgalaikes bei trumpalaikes genocido ir rezistencijos
 tyrimo programas ir jas realizuoja, koordinuoja visų kitų institucijų vykdomus
 šios srities tyrimus;
-2) renka,
-kaupia, sistemina ir apibendrina medžiagą apie okupacinių režimų įvykdytus
-nusikaltimus, atskleidžia nusikalstamą totalitarinių režimų esmę, genocido bei
-kitų nusikaltimų žmoniškumui ir karo nusikaltimų vykdymo sistemą;
+2) renka, kaupia, sistemina ir apibendrina medžiagą apie okupacinių režimų įvykdytus nusikaltimus, atskleidžia nusikalstamą totalitarinių režimų esmę, genocido bei kitų nusikaltimų žmoniškumui ir karo nusikaltimų vykdymo sistemą;
 3) renka, analizuoja ir apibendrina
 medžiagą apie pasipriešinimą okupaciniams režimams, pogrindinių organizacijų
 veiklą, partizanų judėjimą ir laisvės kovų dalyvius;
@@ -138,14 +140,8 @@ vykdo tokias programas;
 mokslo, Kultūros, Krašto apsaugos ministerijomis ir mokymo įstaigomis, teikia
 metodinę pagalbą vykdant jaunimo patriotinio ugdymo ir visuomenės pilietiškumo
 programas;
-8) su Lietuvos archyvų departamentu
-sudaro bendrą Valdymo ir metodikos tarybą ir kartu sprendžia strateginius
-Lietuvos valstybinio archyvų fondo ypatingosios dalies (buvusio SSRS valstybės
-saugumo komiteto (KGB) LSSR padalinio, buvusios LSSR vidaus reikalų
-ministerijos ir Lietuvos komunistų partijos, buvusių LSSR institucijų pirmųjų
-skyrių) archyvų saugojimo, tvarkymo ir naudojimo klausimus Vyriausybės
-patvirtinto reglamento tvarka; sukuria bendras darbo grupes informacinės
-paieškos sistemai kurti;
+8) (neteko galios nuo 2007 m. birželio
+21 d.);
 9) tiria archyvinę medžiagą ir teikia
 informaciją juridiniams bei fiziniams asmenims apie okupacijų laikotarpiu
 žuvusius, dingusius be žinios, represuotus, persekiotus, nukentėjusius Lietuvos
@@ -182,8 +178,9 @@ genocidu ir rezistencija, paieškomis Lietuvoje ir kitose valstybėse, jų
 susigrąžinimu ar kopijų įsigijimu, kaupia rašytinę, foto-, fono-, filmuotą
 medžiagą apie genocidą ir rezistenciją;
 17) inicijuoja visapusišką genocido ir
-okupacijos padarinių teisinį įvertinimą, taip pat genocidą ir Lietuvos gyventojų
-persekiojimą vykdžiusių organizacijų bei žinybų pripažinimą nusikalstamomis;
+okupacijos padarinių teisinį įvertinimą, taip pat genocidą ir Lietuvos
+gyventojų persekiojimą vykdžiusių organizacijų bei žinybų pripažinimą
+nusikalstamomis;
 18) fiksuoja genocido ir Lietuvos
 gyventojų persekiojimo faktus ir teikia medžiagą apie konkrečius genocido
 vykdytojus valstybės teisėsaugos institucijoms; bendradarbiauja su šiomis
@@ -198,9 +195,9 @@ faktus;
 rengiant įstatymų bei kitų okupacijos padarinių teisinio įvertinimo dokumentų
 projektus (dėl pasipriešinimo dalyvių, nukentėjusiųjų teisinio statuso,
 socialinės rūpybos, atsakomybės už genocidą ir kt. klausimais) bei kontroliuoja
-jų vykdymą, pripažįsta karių savanorių, laisvės kovų dalyvių, politinių kalinių,
-tremtinių ir nukentėjusiųjų teisinį statusą; įstatymų nustatyta tvarka išduoda
-nustatytos formos pažymėjimus ir tvarko jų apskaitą;
+jų vykdymą, pripažįsta karių savanorių, laisvės kovų dalyvių, politinių
+kalinių, tremtinių ir nukentėjusiųjų teisinį statusą; įstatymų nustatyta tvarka
+išduoda nustatytos formos pažymėjimus ir tvarko jų apskaitą;
 21) teikia siūlymus dėl asmenų,
 represuotų už pasipriešinimą okupaciniams režimams, teisių atkūrimo, siūlo
 naujai ištirti šių asmenų bylas;
@@ -212,14 +209,15 @@ pakeitimai:
 Nr.
 IX-1461,
 2003-04-03, Žin., 2003, Nr. 38-1706 (2003-04-24)
+Nr. X-1166,
+2007-06-05, Žin., 2007, Nr. 68-2653 (2007-06-21)
  
-TREČIASIS
-SKIRSNIS
+TREČIASIS SKIRSNIS
 CENTRO
 STRUKTŪRA IR DARBUOTOJAI
  
-6 straipsnis. Centro struktūra ir
-darbuotojai
+6 straipsnis.
+Centro struktūra ir darbuotojai
 1. Centrą sudaro:
 1) Genocido ir rezistencijos tyrimo
 departamentas;
@@ -268,12 +266,12 @@ Nr.
 VIII-613,
 98.01.15, Žin., 1998, Nr.9-199 (98.01.28)
  
-KETVIRTASIS
-SKIRSNIS
+KETVIRTASIS SKIRSNIS
 CENTRO
 FINANSAVIMAS
  
-7 straipsnis. Centro finansavimas
+7 straipsnis.
+Centro finansavimas
 1. Centras finansuojamas iš valstybės
 biudžeto.
 2. Atskiroms valstybės programoms
@@ -285,13 +283,12 @@ Nr.
 VIII-514,
 97.11.13, Žin., 1997, Nr.108-2732 (97.11.28)
  
-PENKTASIS
-SKIRSNIS
+PENKTASIS SKIRSNIS
 BAIGIAMOSIOS
 NUOSTATOS
  
-8 straipsnis. Atsakomybė už trukdymą tirti genocidą
-ir pasipriešinimą okupaciniams 
+8 straipsnis. Atsakomybė už
+trukdymą tirti genocidą ir pasipriešinimą okupaciniams 
 režimams
 1. Lietuvos gyventojų genocidas ir
 persekiojimas tiriamas renkant ir analizuojant visą Lietuvoje ir už jos ribų
@@ -303,11 +300,12 @@ trukdymą, vilkinimą, turimos medžiagos bei informacijos slėpimą, naikinimą
 atsisakymą liudyti fiziniai ir juridiniai asmenys atsako pagal Lietuvos
 Respublikos įstatymus.
  
-9 straipsnis. Netekę galios teisės aktai
+9 straipsnis.
+Netekę galios teisės aktai
 Įsigaliojus šiam įstatymui, netenka
 galios:
-1) Lietuvos gyventojų genocido ir
-rezistencijos tyrimo centro įstatymas (Žin., 1993, Nr.32-735);
+1) Lietuvos gyventojų genocido ir rezistencijos
+tyrimo centro įstatymas (Žin., 1993, Nr.32-735);
 2) Seimo nutarimas “Dėl Lietuvos
 gyventojų genocido ir rezistencijos tyrimo centro įstatymo įgyvendinimo
 tvarkos” (Žin., 1993, Nr.32-736);
@@ -359,13 +357,23 @@ STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos
 baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir
 Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
- 2003 m. gegužės 1 d.
+2003 m. gegužės 1 d.
+ 
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-1166,
+2007-06-05, Žin., 2007, Nr. 68-2653 (2007-06-21)
+LIETUVOS
+GYVENTOJŲ GENOCIDO IR REZISTENCIJOS TYRIMO CENTRO ĮSTATYMO 5 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2003-05-07)
+Aušrinė Trapinskienė (2007-06-21)
                  
 autrap@lrs.lt
