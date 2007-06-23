@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C40F7F89A7C3"
 
 # Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymas
 
-Suvestinė redakcija nuo 2005-01-01 iki 2007-06-22
+Suvestinė redakcija nuo 2007-06-23 iki 2008-08-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 46-1116, i. k. 0961010ISTA00I-1324
  
@@ -227,9 +227,17 @@ Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010IS
 
 
 
-6) tvirtina atskirų kategorijų įrenginių techninės būklės tikrinimo kainas ir (ar) tarifus valstybės institucijų, suteikusių įgaliojimus viešosioms įstaigoms tikrinti įrenginių techninę būklę (toliau – suteikusios įgaliojimus valstybės institucijos), teikimu. 
+6) tvirtina atskirų kategorijų įrenginių techninės būklės tikrinimo kainas ir (ar) tarifus valstybės institucijų, suteikusių įgaliojimus viešosioms įstaigoms tikrinti įrenginių techninę būklę (toliau – suteikusios įgaliojimus valstybės institucijos), teikimu; 
 Straipsnio punkto pakeitimai:
 Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
+ 
+
+
+
+
+7) tvirtina Nuolatinės potencialiai pavojingų įrenginių priežiūros licencijavimo taisykles.
+Papildyta straipsnio punktu:
+Nr. X-1170, 2007-06-07, Žin., 2007, Nr. 69-2721 (2007-06-23), i. k. 1071010ISTA00X-1170
  
 
 
@@ -572,3 +580,8 @@ Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
 Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo 1, 2, 3, 4, 5, 6, 8, 9 ir 10 straipsnių pakeitimo ir papildymo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1170, 2007-06-07, Žin., 2007, Nr. 69-2721 (2007-06-23), i. k. 1071010ISTA00X-1170
+Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo 4, 10 straipsnių papildymo ir pakeitimo bei įstatymo papildymo 10(1) straipsniu įstatymas
