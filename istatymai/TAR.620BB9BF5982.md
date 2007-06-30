@@ -26,24 +26,25 @@ Vilnius
 (Žin., 1994, Nr.
 46-851; 2002, Nr. 17-649; 2003, Nr. 17-700)
  
-1 straipsnis.
-119 straipsnio pakeitimas
+1
+straipsnis. 119 straipsnio pakeitimas
 Pakeisti 119
 straipsnį ir jį išdėstyti taip:
 „119 straipsnis.
 Teisėjų taryba, jos sudarymas
-1. Teisėjų taryba yra vykdomoji teismų savivaldos
-institucija, užtikrinanti teismų ir teisėjų nepriklausomumą.
+1. Teisėjų taryba yra vykdomoji teismų savivaldos institucija,
+užtikrinanti teismų ir teisėjų nepriklausomumą.
 2. Teisėjų
 tarybą sudaro 15 narių:
 1) pagal
 pareigas – Aukščiausiojo Teismo pirmininkas, Apeliacinio teismo pirmininkas,
 Vyriausiojo administracinio teismo pirmininkas; 
 2) Visuotiniame
-teisėjų susirinkime slaptu balsavimu išrinkti teisėjai: trys – nuo Aukščiausiojo Teismo, vienas – nuo Apeliacinio teismo,
-vienas – nuo Vyriausiojo administracinio teismo, keturi – nuo penkių apygardų
-teismų, du – nuo apylinkių teismų, vienas – nuo visų apygardų administracinių
-teismų. Teisėjų kandidatūras Visuotiniame teisėjų susirinkime iškelia atitinkamų teismų atstovai.
+teisėjų susirinkime slaptu balsavimu
+išrinkti teisėjai: trys – nuo Aukščiausiojo Teismo, vienas – nuo Apeliacinio
+teismo, vienas – nuo Vyriausiojo administracinio teismo, keturi – nuo penkių
+apygardų teismų, du – nuo apylinkių teismų, vienas – nuo visų apygardų administracinių teismų. Teisėjų kandidatūras Visuotiniame
+teisėjų susirinkime iškelia atitinkamų teismų atstovai.
 3. Teisėjų tarybos nariu negali būti renkamas
 teisėjas, kuris turi mažesnį kaip penkerių metų teisėjo darbo stažą arba kuriam
 buvo taikyta drausminė nuobauda. 
@@ -56,9 +57,8 @@ skaičių) iš tų teismų teisėjų renka būtent to teismo (teismų) teisėjai
 taryba slaptu balsavimu paprasta visų Teisėjų tarybos narių balsų dauguma
 išrenka Teisėjų tarybos pirmininką, pirmininko pavaduotoją ir sekretorių.“
  
-2
-straipsnis. 120
-straipsnio pakeitimas
+2 straipsnis. 120 straipsnio
+pakeitimas
 Pakeisti
 120 straipsnį ir jį išdėstyti taip:
 „120
@@ -117,16 +117,15 @@ savivaldos, administravimo ir kitais teismų veiklos klausimais;
 20) sprendžia
 kitus teismų veiklos bei įstatymų numatytus klausimus.“
  
-3
-straipsnis. 121
-straipsnio pakeitimas
+3 straipsnis. 121 straipsnio
+pakeitimas
 Pakeisti 121
 straipsnį ir jį išdėstyti taip:
 „121
 straipsnis. Teisėjų tarybos posėdžiai
 1. Teisėjų
-tarybos posėdis yra pagrindinė Teisėjų tarybos veiklos forma. Teisėjų tarybos
-posėdžiai paprastai vyksta Aukščiausiojo Teismo patalpose. 
+tarybos posėdis yra pagrindinė Teisėjų tarybos veiklos forma. Teisėjų tarybos posėdžiai
+paprastai vyksta Aukščiausiojo Teismo patalpose. 
 2. Teisėjų
 tarybos posėdžiai paprastai šaukiami kas mėnesį. Įsigaliojus Respublikos
 Prezidento dekretui dėl kreipimosi į Teisėjų tarybą, kad ši patartų Respublikos
@@ -156,16 +155,16 @@ perkelti, atleisti iš teisėjo pareigų arba patariama to asmens neskirti
 teisėju, nepaaukštinti, neatleisti iš pareigų (o kai skiriamas, paaukštinamas,
 perkeliamas ar atleidžiamas iš pareigų Aukščiausiojo Teismo pirmininkas,
 skyriaus pirmininkas ar šio teismo teisėjas arba Apeliacinio teismo
-pirmininkas, skyriaus pirmininkas ar šio teismo teisėjas – patariama teikti jo kandidatūrą
-Seimui arba jos neteikti), turi būti argumentuoti. 
+pirmininkas, skyriaus pirmininkas ar šio teismo teisėjas – patariama teikti jo
+kandidatūrą Seimui arba jos neteikti), turi būti argumentuoti. 
 7. Teisėjų
 taryba turi teisę gauti iš valstybės ir savivaldybių institucijų (jų pareigūnų)
 visą Tarybos funkcijoms atlikti reikalingą informaciją.
 8. Teisėjų
 tarybos posėdžiai yra vieši.“
  
-4 straipsnis.
-Įstatymo įgyvendinimas
+4
+straipsnis. Įstatymo įgyvendinimas
 1. Įsigaliojus
 šiam įstatymui, Teismų tarybos pirmininko ir jos narių, išskyrus narius, kurie
 yra teisėjai, įgaliojimai nutrūksta. 
@@ -180,8 +179,8 @@ sudaryta nauja Teisėjų taryba.
 3. Šio straipsnio 2 dalyje numatyta Teisėjų taryba ne
 vėliau kaip per trisdešimt dienų nuo pirmojo savo posėdžio dienos sušaukia
 Visuotinį teisėjų susirinkimą, kuriame šio įstatymo 1 straipsnyje išdėstyto
-Teismų įstatymo 119 straipsnio nustatyta tvarka išrenkami Teisėjų tarybos
-nariai. Šiame susirinkime Teisėjų tarybos nariai renkami pagal šio įstatymo 1
+Teismų įstatymo 119 straipsnio nustatyta tvarka išrenkami Teisėjų tarybos nariai.
+Šiame susirinkime Teisėjų tarybos nariai renkami pagal šio įstatymo 1
 straipsnyje išdėstyto Teismų įstatymo 119 straipsnio teismui (teismams)
 nustatytą vietų skaičių. Šio įstatymo 1 straipsnyje išdėstyto Teismų įstatymo
 119 straipsnio nustatyta tvarka sudarytą Teisėjų tarybą ne vėliau kaip per
@@ -191,13 +190,15 @@ narys.
 4.
 Pagal šio straipsnio 3 dalį šio įstatymo 1 straipsnyje išdėstyto Teismų
 įstatymo 119 straipsnio nustatyta tvarka sudarytos Teisėjų tarybos
-įgaliojimai tęsiasi iki 2007 m. liepos 1 d.
+įgaliojimai tęsiasi iki 2007 m. gruodžio 31 d.
 5.
 Teismų įstatyme vartojamą sąvoką „Teismų taryba“ pakeisti sąvoka „Teisėjų
 taryba“.
 Straipsnio pakeitimas:
 Nr. X-985, 2006-12-14, Žin., 2006, Nr.
 141-5407 (2006-12-28)
+Nr. X-1211,
+2007-06-26, Žin., 2007, Nr. 72-2835 (2007-06-30)
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
@@ -220,11 +221,21 @@ TEISMŲ
 ĮSTATYMO 119, 120 IR 121 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
  
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-1211,
+2007-06-26, Žin., 2007, Nr. 72-2835 (2007-06-30)
+TEISMŲ
+ĮSTATYMO 119, 120 IR 121 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2007-01-02)
+Aušrinė Trapinskienė (2007-07-02)
                  
 autrap@lrs.lt
