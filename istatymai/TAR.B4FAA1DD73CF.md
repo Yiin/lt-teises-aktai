@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FAA1DD73CF"
 
 # Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas
 
-Suvestinė redakcija nuo 2007-01-01 iki 2007-06-30
+Suvestinė redakcija nuo 2007-07-01 iki 2008-04-18
  
 Įstatymas paskelbtas: Žin. 2005, Nr. 76-2741, i. k. 1051010ISTA000X-233
  
@@ -260,7 +260,10 @@ Nr. X-618, 2006-05-25, Žin., 2006, Nr. 65-2384 (2006-06-10), i. k. 1061010ISTA0
 
 
 
-8) religinių bendruomenių, bendrijų ir centrų nekilnojamasis turtas (ar jo dalis), naudojamas tik nekomercinei veiklai arba kulto apeigų reikmenų gamybai;
+8) tradicinių religinių bendruomenių, bendrijų ir centrų nekilnojamasis turtas, o kitų religinių bendruomenių, bendrijų ir centrų nekilnojamasis turtas (ar jo dalis), naudojamas tik nekomercinei veiklai arba kulto apeigų reikmenų gamybai; 
+Straipsnio punkto pakeitimai:
+Nr. X-878, 2006-10-24, Žin., 2006, Nr. 119-4549 (2006-11-07), i. k. 1061010ISTA000X-878
+ 
 
 
 
@@ -678,6 +681,7 @@ Nr. X-618, 2006-05-25, Žin., 2006, Nr. 65-2384 (2006-06-10), i. k. 1061010ISTA0
 
 
 10) Lietuvos Respublikos įmonių ir organizacijų nekilnojamojo turto mokesčio įstatymo, Kelių priežiūros ir plėtros programos finansavimo įstatymo, Garantinio fondo įstatymo, Rinkliavų įstatymo, Mokesčių už pramoninės nuosavybės objektų registravimą įstatymo, Mokesčio už aplinkos teršimą įstatymo, Konsulinio mokesčio įstatymo, Lietuvos banko įstatymo pakeitimo ir papildymo įstatymo pirmasis skirsnis (Žin., 2004, Nr. 61-2188).
+ 
 
 
 
@@ -721,3 +725,8 @@ Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 10 ir 12 straipsni�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-618, 2006-05-25, Žin., 2006, Nr. 65-2384 (2006-06-10), i. k. 1061010ISTA000X-618
 Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 6, 8, 15 straipsnių pakeitimo ir papildymo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-878, 2006-10-24, Žin., 2006, Nr. 119-4549 (2006-11-07), i. k. 1061010ISTA000X-878
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio pakeitimo įstatymas
