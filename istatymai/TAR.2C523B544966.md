@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2C523B544966"
 
 # Lietuvos Respublikos referendumo įstatymas
 
-Suvestinė redakcija nuo 2003-02-27 iki 2007-06-30
+Suvestinė redakcija nuo 2007-07-01 iki 2008-04-29
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2570, i. k. 1021010ISTA00IX-929
  
@@ -519,7 +519,10 @@ RINKĖJŲ SĄRAŠAI IR REFERENDUMO DOKUMENTAI
 
 1. Į Lietuvos Respublikos rinkėjų sąrašą įrašomi visi rinkimų teisę turintys piliečiai pagal pilietybę patvirtinančio dokumento (paso arba asmens tapatybės kortelės) duomenis ir Lietuvos Respublikos gyventojų registrą. 
 
-2. Valstybės institucijos, išduodančios Lietuvos Respublikos pilietybę patvirtinančius dokumentus, tvarkančios piliečių gyvenamosios vietos deklaravimo duomenis, registruojančios piliečių mirtį ir pilietybės netekimą, taip pat yra atsakingos, kad Lietuvos Respublikos gyventojų registras laiku ir tinkamai būtų keičiamas ir tikslinamas. Pagal Lietuvos Respublikos gyventojų registro duomenis sudaryti sąrašai yra išankstiniai.
+2. Valstybės ir savivaldybių institucijos ir įstaigos, išduodančios Lietuvos Respublikos pilietybę patvirtinančius dokumentus, tvarkančios piliečių gyvenamosios vietos deklaravimo duomenis, registruojančios piliečių mirtį ir pilietybės netekimą, taip pat yra atsakingos, kad Lietuvos Respublikos gyventojų registras laiku ir tinkamai būtų keičiamas ir tikslinamas. Pagal Lietuvos Respublikos gyventojų registro duomenis sudaryti sąrašai yra išankstiniai.
+Straipsnio dalies pakeitimai:
+Nr. X-398, 2005-11-17, Žin., 2005, Nr. 143-5172 (2005-12-08), i. k. 1051010ISTA000X-398
+ 
 
 3. Rinkėjų sąrašų sudarymą, tikslinimą ir tvarkymą organizuoja Vyriausioji rinkimų komisija, remdamasi valstybės, savivaldybių institucijų ir miestų, rajonų referendumo komisijų teikiama informacija.
 
@@ -1110,4 +1113,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1349, 2003-02-25, Žin., 2003, Nr. 21-874 (2003-02-27), i. k. 1031010ISTA0IX-1349
 Lietuvos Respublikos referendumo įstatymo 7, 11, 13, 35, 43, 50, 51, 54, 78 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 78(1) straipsniu įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-398, 2005-11-17, Žin., 2005, Nr. 143-5172 (2005-12-08), i. k. 1051010ISTA000X-398
+Lietuvos Respublikos referendumo įstatymo 34 straipsnio pakeitimo įstatymas
 
