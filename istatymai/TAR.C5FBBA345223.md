@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C5FBBA345223"
 
 # Lietuvos Respublikos visuomenės sveikatos stebėsenos (monitoringo) įstatymas
 
+Suvestinė redakcija nuo 2007-07-01 iki 2011-06-30
+ 
+Įstatymas paskelbtas: Žin. 2002, Nr. 72-3022, i. k. 1021010ISTA0IX-1023
+ 
+ 
 LIETUVOS RESPUBLIKOS
 VISUOMENĖS SVEIKATOS STEBĖSENOS (MONITORINGO)
 Į S T A T Y M A S
@@ -51,7 +56,10 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės Įstatymo sąvokos
 
 
-1. Visuomenės sveikatos stebėsena – tikslingai organizuotas visuomenės sveikatos būklės, ją veikiančių sveikatos rizikos veiksnių stebėjimas, analizė ir vertinimas.
+1. Visuomenės sveikatos stebėsena – tikslingai organizuotas ir sistemingai atliekamas visuomenės sveikatos būklės, ją veikiančių visuomenės sveikatos rizikos veiksnių duomenų rinkimas, kaupimas, apdorojimas, saugojimas, analizė ir vertinimas. 
+Straipsnio dalies pakeitimai:
+Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
+ 
 
 
 
@@ -61,7 +69,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Visuomenės sveikatos rizikos veiksniai – veiksniai (gyvensenos įpročiai, paveldėtos savybės, aplinkos veiksniai), kurių ryšys su sveikatos sutrikimais yra pagrįstas moksliniais tyrimais. 
+3. Visuomenės sveikatos rizikos veiksniai – natūralūs gamtos bei dirbtiniai veiksniai, taip pat gyvenimo ir elgesio įpročiai, dėl kurių poveikio atsiranda rizika visų gyventojų ar atskirų jų grupių sveikatai.
+Straipsnio dalies pakeitimai:
+Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
+ 
 
 
 
@@ -205,7 +216,10 @@ VISUOMENĖS SVEIKATOS STEBĖSENOS ĮGYVENDINIMAS
 
 
 
-2. Atskirų visuomenės sveikatos sričių stebėsenų programas rengia Valstybinė visuomenės sveikatos priežiūros tarnyba prie Sveikatos apsaugos ministerijos (toliau - Valstybinė visuomenės sveikatos priežiūros tarnyba) ar kitos institucijos pagal savo kompetenciją. Šias programas, suderintas su Sveikatos apsaugos ministerija, tvirtina Vyriausybė arba jos įgaliota institucija. 
+2. Atskirų visuomenės sveikatos sričių stebėsenos programas, kurios yra valstybės visuomenės sveikatos stebėsenos programos struktūriniai komponentai, rengia ir tvirtina Sveikatos apsaugos ministerija ir kitos valstybės institucijos. 
+Straipsnio dalies pakeitimai:
+Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
+ 
 
 
 
@@ -243,7 +257,9 @@ VISUOMENĖS SVEIKATOS STEBĖSENOS ĮGYVENDINIMAS
 
 
 
-5) visuomenės sveikatos stebėsenos duomenų ekspertizės atlikimo tvarka ir metodai, ataskaitų ir išvadų teikimo tvarka.
+5) visuomenės sveikatos stebėsenos ataskaitų ir išvadų teikimo tvarka.
+Straipsnio punkto pakeitimai:
+Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
  
 
 
@@ -282,7 +298,7 @@ VISUOMENĖS SVEIKATOS STEBĖSENOS ĮGYVENDINIMAS
 
 
 
-2. Valstybinė visuomenės sveikatos priežiūros tarnyba organizuoja valstybės visuomenės sveikatos stebėseną ir atlieka šias funkcijas:
+2. Sveikatos apsaugos ministerija arba jos įgaliota įstaiga organizuoja valstybės visuomenės sveikatos stebėseną ir atlieka šias funkcijas:
 
 
 1) kartu su kitais stebėsenos subjektais bei valstybės institucijomis, atsakingomis už atskirų visuomenės sveikatos sričių stebėsenas, organizuoja valstybės visuomenės sveikatos stebėseną ir metodiškai vadovauja programos įgyvendinimui;
@@ -300,19 +316,22 @@ VISUOMENĖS SVEIKATOS STEBĖSENOS ĮGYVENDINIMAS
 
 
 
-4) rengia ir (ar) tvirtina savivaldybių, ūkio subjektų visuomenės sveikatos stebėsenos vykdymo ir kontrolės tvarką;
+4) rengia ir (ar) tvirtina savivaldybių, ūkio subjektų visuomenės sveikatos stebėsenos vykdymo ir privalomojo atitikties įvertinimo tvarką;
 
 
 
 
-5) analizuoja ir vertina visuomenės sveikatos pokyčius, apie juos kiekvienais metais informuoja visuomenę ir ūkio subjektus, Vyriausybei ir Sveikatos apsaugos ministerijai pateikia viešą pranešimą apie visuomenės sveikatos būklę;
+5) rengia ir tvirtina valstybės visuomenės sveikatos stebėsenos informacijos rinkimo, kaupimo ir apdorojimo įkainių nustatymo metodikas;
 
 
 
 
-6) pagal savo kompetenciją vykdo kitas su valstybės visuomenės sveikatos stebėsena susijusias funkcijas.
+6) pagal savo kompetenciją vykdo kitas su valstybės visuomenės sveikatos stebėsena susijusias funkcijas. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
+ 
 
 
 
@@ -322,7 +341,9 @@ VISUOMENĖS SVEIKATOS STEBĖSENOS ĮGYVENDINIMAS
 
 
 
-4. Valstybinė visuomenės sveikatos priežiūros tarnyba sudaro atskirų visuomenės sveikatos sričių stebėsenų ir jų vykdytojų sąrašus. Šiuos sąrašus tvirtina Sveikatos apsaugos ministerija.
+4. Neteko galios nuo 2007-07-01
+Straipsnio dalies naikinimas:
+Nr. X-1152, 2007-05-24, Žin. 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
  
 
 
@@ -405,7 +426,10 @@ VISUOMENĖS SVEIKATOS STEBĖSENOS ĮGYVENDINIMAS
 
 
 
-2. Savivaldybės visuomenės sveikatos stebėsena finansuojama savivaldybės biudžeto ir aplinkos bei sveikatos fondų lėšomis.
+2. Savivaldybės visuomenės sveikatos stebėsena finansuojama valstybės biudžeto, savivaldybės biudžeto, savivaldybių visuomenės sveikatos rėmimo specialiosios programos, Privalomojo sveikatos draudimo fondo bei kitomis teisėtai įgytomis lėšomis. 
+Straipsnio dalies pakeitimai:
+Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
+ 
 
 
 
@@ -426,10 +450,12 @@ VISUOMENĖS SVEIKATOS STEBĖSENOS ĮGYVENDINIMAS
 13 straipsnis. Visuomenės sveikatos stebėsenos kontrolė
 
 
-Valstybės, savivaldybių, atskirų visuomenės sveikatos sričių ir ūkio subjektų visuomenės sveikatos stebėsenų vykdymą, duomenų ir informacijos kokybę, ar jie atitinka norminius dokumentus, kontroliuoja Valstybinė visuomenės sveikatos priežiūros tarnyba.
+Valstybės, savivaldybių, atskirų visuomenės sveikatos sričių ir ūkio subjektų visuomenės sveikatos stebėsenų vykdymą, duomenų ir informacijos kokybę, ar jie atitinka norminius dokumentus, kontroliuoja Sveikatos apsaugos ministerija arba jos įgaliota institucija.
+
+
+Straipsnio pakeitimai:
+Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
  
-
-
 
 
 
@@ -499,12 +525,18 @@ Visuomenės sveikatos stebėsenos duomenų kokybei užtikrinti:
 
 
 
-4. Visuomenės sveikatos stebėsenos duomenys renkami, kaupiami ir saugomi Valstybinės visuomenės sveikatos priežiūros tarnybos Valstybiniame visuomenės sveikatos stebėsenos duomenų fonde.
+4. Visuomenės sveikatos stebėsenos duomenys renkami, kaupiami ir saugomi Valstybiniame visuomenės sveikatos stebėsenos duomenų fonde. 
+Straipsnio dalies pakeitimai:
+Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
+ 
 
 
 
 
-5. Valstybinį visuomenės sveikatos stebėsenos duomenų fondą tvarko, jo nuostatus tvirtina Valstybinė visuomenės sveikatos priežiūros tarnyba.
+5. Valstybinį visuomenės sveikatos stebėsenos duomenų fondą tvarko, jo nuostatus tvirtina Sveikatos apsaugos ministerija.
+Straipsnio dalies pakeitimai:
+Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
+ 
 
 
 
@@ -579,35 +611,10 @@ Asmens duomenų, įeinančių į visuomenės sveikatos duomenis, tvarkymą ir j�
 
 
 
-IV SKYRIUS 
-VISUOMENĖS SVEIKATOS STEBĖSENOS DUOMENŲ EKSPERTIZĖ>
+IV skyrius. Neteko galios nuo 2007-07-01
+Skyriaus naikinimas:
+Nr. X-1152, 2007-05-24, Žin. 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
  
-
-
-19 straipsnis. Visuomenės sveikatos stebėsenos duomenų ekspertizė 
-
-
-1. Visuomenės sveikatos problemoms ir valdymo sprendimams pagrįsti atliekamas visuomenės sveikatos stebėsenos duomenų vertinimas – visuomenės sveikatos monitoringo duomenų ekspertizė.
-
-
-
-
-2. Visuomenės sveikatos stebėsenos duomenų ekspertizę atlieka įstaigos ir įmonės, turinčios licenciją visuomenės sveikatos priežiūros veiklai.
-
-
-
-
-3. Visuomenės sveikatos stebėsenos duomenų ekspertizė atliekama pagal ekspertizės užsakovų ir vykdytojų sutartis.
-
-
-
-
-4. Visuomeninių organizacijų dalyvavimą visuomenės sveikatos stebėsenos duomenų ekspertizės procese bei šios ekspertizės ataskaitų, išvadų, pasiūlymų įgyvendinimo tvarką nustato Visuomenės sveikatos priežiūros ir kiti įstatymai, Vyriausybės nutarimai, kiti teisės aktai.
- 
-
-
-
-
 
 
 
@@ -646,4 +653,16 @@ Vyriausybė ir kitos institucijos iki 2002 m. gruodžio 31 d. parengia ir patvir
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+ 
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
+Lietuvos Respublikos visuomenės sveikatos stebėsenos (monitoringo) įstatymo 2, 7, 9, 12, 13, 16 straipsnių pakeitimo ir IV skyriaus pripažinimo netekusiu galios įstatymas
