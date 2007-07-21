@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0120FD7BCFFC"
 
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas
 
-Suvestinė redakcija nuo 2006-01-01 iki 2007-07-20
+Suvestinė redakcija nuo 2007-07-21 iki 2009-04-03
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 60-1183, i. k. 0941010ISTA000I-558
  
@@ -151,6 +151,19 @@ Nr. X-307, 2005-07-05, Žin., 2005, Nr. 88-3284 (2005-07-21), i. k. 1051010ISTA0
 
 Straipsnio pakeitimai:
 Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. 1041010ISTA0IX-2423
+ 
+
+
+
+
+31 straipsnis. Lietuvos Respublikos adresų registro tvarkymas
+
+
+Lietuvos Respublikos adresų registrą tvarko vadovaujančioji registro tvarkymo įstaiga – Teisingumo ministerija ir registro tvarkymo įstaiga – valstybės įmonė Registrų centras (toliau – Lietuvos Respublikos adresų registro tvarkymo įstaiga). 
+
+
+Papildyta straipsniu:
+Nr. X-1240, 2007-06-28, Žin., 2007, Nr. 81-3315 (2007-07-21), i. k. 1071010ISTA00X-1240
  
 
 
@@ -606,3 +619,8 @@ Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-307, 2005-07-05, Žin., 2005, Nr. 88-3284 (2005-07-21), i. k. 1051010ISTA000X-307
 Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 1, 3, 6, 9, 10, 13 straipsnių pakeitimo ir papildymo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1240, 2007-06-28, Žin., 2007, Nr. 81-3315 (2007-07-21), i. k. 1071010ISTA00X-1240
+Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo papildymo 3-1 straipsniu įstatymas
