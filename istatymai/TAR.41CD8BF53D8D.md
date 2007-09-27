@@ -23,7 +23,8 @@ RINKLIAVŲ
 ĮSTATYMAS
 2000 m. birželio 13 d. Nr. VIII-1725
 Vilnius
-I SKYRIUS
+I
+SKYRIUS
 BENDROSIOS NUOSTATOS
  
 1
@@ -54,38 +55,40 @@ Nr. IX-435, 2001-07-10, Žin., 2001, Nr.
 Nr. IX-2139, 2004-04-15,
 Žin., 2004, Nr. 61-2188 (2004-04-27)
  
-II SKYRIUS
+II
+SKYRIUS
 VALSTYBĖS RINKLIAVA
  
 4
 straipsnis. Valstybės rinkliavos objektai
+ 
+1 dalies
+redakcija iki 2008 m. sausio 1 d.:
 1. Valstybės
 rinkliava imama už:
 1) civilinės
 būklės aktų registravimą civilinės metrikacijos įstaigose, įrašų civilinės
 būklės aktuose pakeitimą bei papildymą ir dokumentų, patvirtinančių įrašą
 civilinės būklės akte, išdavimą;
- 
-1 dalies 2
-punkto redakcija iki 2007 m. liepos 1 d.:
-2) dokumentų
-išduoti leidimą gyventi Lietuvos Respublikoje tvarkymą ir išduodamus
-dokumentus dėl pilietybės, išvykimo į užsienį ir atvykimo į Lietuvos Respubliką
-bei gyvenimo joje, dėl užsieniečių įdarbinimo, taip pat dokumentą,
-patvirtinantį asmens gyvenamąją vietą;
-1 dalies 2
-punkto redakcija nuo 2007 m. liepos 1 d.:
 2) dokumentų
 išduoti leidimą gyventi Lietuvos Respublikoje tvarkymą ir išduodamus
 dokumentus dėl pilietybės, išvykimo į užsienį ir atvykimo į Lietuvos Respubliką
 bei gyvenimo joje, dėl užsieniečių įdarbinimo;
- 
 3) licencijos
 (leidimo) verstis licencijuojama veikla išdavimą;
 4) kitas
 institucijų teikiamas paslaugas.
+1 dalies
+redakcija nuo 2008 m. sausio 1 d.:
+1.
+Valstybės rinkliava imama už įstatymuose, Europos Sąjungos reglamentuose ar
+sprendimuose nustatytas institucijų teikiamas asmenims paslaugas.
+ 
 2. Konkretų
 valstybės rinkliavos objektų sąrašą nustato Vyriausybė.
+2 dalis netenka
+galios nuo 2008 m. sausio 1 d.
+ 
 3. Institucijos neturi teisės
 reikalauti iš fizinių ir juridinių asmenų atlyginti už suteiktas paslaugas
 kitaip, negu sumokėti pagal šį įstatymą nustatytą valstybės rinkliavą.
@@ -99,9 +102,15 @@ Nr. X-925, 2006-11-28,
 Nr.
 X-1155,
 2007-05-24, Žin., 2007, Nr. 61-2343 (2007-06-02)
+Nr.
+X-1277,
+2007-09-18, Žin., 2007, Nr. 101-4107 (2007-09-27)
  
 5
 straipsnis. Valstybės rinkliavos dydžiai
+ 
+1 ir 2 dalių
+redakcija iki 2008 m. sausio 1 d.:
 1. Valstybės
 rinkliavos dydis nustatomas atsižvelgiant į paslaugos suteikimo išlaidas,
 kurias sudaro išlaidos:
@@ -114,12 +123,42 @@ nustatytų reikalavimų įvykdymui patikrinti.
 2. Konkrečius
 valstybės rinkliavos dydžius nustato Vyriausybė. Valstybės rinkliavos dydžiai
 nustatomi litais be centų.
+1 ir 2 dalių
+redakcija nuo 2008 m. sausio 1 d.:
+1.
+Valstybės rinkliava yra ne mažesnė kaip 3 litai ir ne didesnė kaip 270 tūkst.
+litų ir apskaičiuojama atsižvelgiant į paslaugos suteikimo išlaidas, kurias
+sudaro išlaidos:
+1)
+darbui, susijusiam su paslaugos suteikimu, apmokėti;
+2)
+juridinę galią turinčio dokumento blankui pagaminti;
+3)
+teisės aktų nustatytų reikalavimų įvykdymui patikrinti.
+2.
+Konkrečius valstybės rinkliavos dydžius, atsižvelgdama į šio straipsnio 1 dalį,
+apskaičiuoja Vyriausybė. Valstybės rinkliavos dydžiai apskaičiuojami litais be
+centų.
+ 
 3. Kalendoriniams metams pasibaigus, Vyriausybė, atsižvelgdama į
 faktišką paslaugų teikimo išlaidų padidėjimą ar sumažėjimą, perskaičiuoja ir
 patikslina valstybės rinkliavos dydžius ir dėl to priimą nutarimą. Patikslinti
 valstybės rinkliavos dydžiai įsigalioja nuo einamųjų kalendorinių metų liepos 1
 dienos.
  
+5 straipsnis
+papildomas 4 dalimi nuo 2008 m. sausio 1 d.:
+4. Valstybės
+rinkliava mokama litais iki institucijų teikiamų paslaugų suteikimo ir yra
+mokėjimo dieną galiojančio dydžio.
+Straipsnio pakeitimai:
+Nr.
+X-1277,
+2007-09-18, Žin., 2007, Nr. 101-4107 (2007-09-27)
+ 
+ 
+6 straipsnio
+redakcija iki 2008 m. sausio 1 d.:
 6
 straipsnis. Atleidimas nuo valstybės rinkliavos 
 1. Už civilinės
@@ -128,75 +167,14 @@ būklės aktuose pakeitimą bei papildymą ir dokumentų, patvirtinančių įra�
 civilinės būklės akte, išdavimą nuo valstybės rinkliavos atleidžiami:
 1) asmenys už
 gimimo, mirties, įvaikinimo ir tėvystės nustatymo registravimą, už klaidų,
-padarytų registruojant civilinės būklės aktus, ištaisymą, taip pat už
-nepilnamečių vaikų civilinės būklės aktų ištaisymą pasikeitus įrašams tėvų
-civilinės būklės aktuose;
+padarytų registruojant civilinės būklės aktus, ištaisymą, taip pat už nepilnamečių
+vaikų civilinės būklės aktų ištaisymą pasikeitus įrašams tėvų civilinės būklės
+aktuose;
 2) asmenys už vardo, pavardės, tėvo
 vardo pakeitimą, papildymą ir ištaisymą tikslinant įrašus, padarytus
 registruojant aktus okupacijų metais;
-3) Užsienio
-reikalų ministerija už jai išduodamus metrikacijos liudijimų dublikatus.
- 
-2 dalies
-redakcija iki 2007 m. liepos 1 d.:
-2. Už išduodamus
-dokumentus dėl pilietybės, išvykimo į užsienį ir atvykimo į Lietuvos Respubliką
-bei gyvenimo joje, užsieniečių įdarbinimo, taip pat už dokumentą, patvirtinantį
-asmens gyvenamąją vietą, ir kitas suteiktas paslaugas nuo valstybės rinkliavos
-atleidžiami:
-1) asmenys,
-turintys teisę gauti piniginę socialinę paramą įstatymų nustatyta tvarka,
-vaikai, kuriems nustatyta globa ir rūpyba, valstybės išlaikomi stacionariose
-globos įstaigose asmenys, vieniši asmenys, sukakę senatvės pensijos amžių,
-asmenys, kuriems nustatytas 0–40 procentų darbingumo lygis, ar senatvės
-pensijos amžių sukakę asmenys, kuriems teisės aktų nustatyta tvarka nustatytas
-didelių ar vidutinių specialiųjų poreikių lygis (iki 2007 m. birželio 30 d. –
-ir I bei II grupių invalidai), asmenys iki 18 metų, kuriems nustatytas
-neįgalumo lygis (iki 2007 m. birželio 30 d. – ir invalidumo lygis), – už asmens
-tapatybės kortelės ir paso išdavimą bei pakeitimą, už dokumento, patvirtinančio
-asmens gyvenamąją vietą, išdavimą;
-2) politiniai kaliniai, tremtiniai,
-rezistencijos dalyviai – už asmens tapatybės kortelės ir paso išdavimą bei
-pakeitimą, leidimo gyventi Lietuvos Respublikoje, asmens be pilietybės kelionės
-dokumento bei vizos išdavimą ir pratęsimą;
-3) asmenys iki
-16 metų – už asmens be pilietybės kelionės dokumento, pabėgėlio kelionės
-dokumento ir užsieniečio paso išdavimą, už vizų išdavimą ir turimos vizos
-galiojimo laiko pratęsimą, už dokumentų išduoti
-leidimą gyventi Lietuvos Respublikoje tvarkymą ir leidimo gyventi Lietuvos
-Respublikoje išdavimą;
-4) užsieniečiai,
-kuriems suteiktas prieglobstis Lietuvos Respublikoje, už pirmojo leidimo
-gyventi Lietuvos Respublikoje išdavimą;
-5) užsienio valstybių piliečiai, vykstantys į Lietuvos Respubliką dalyvauti
-Respublikos Prezidento, Seimo, Vyriausybės, ministerijų, kitų valstybės ar
-vietos savivaldos institucijų, įstaigų ar tarnybų organizuojamuose oficialiuose
-susitikimuose, labdaros bei organizuotos pagalbos Lietuvai tikslais arba su
-Raudonojo Kryžiaus misija, taip pat tarptautinių organizacijų, kurių narė yra
-Lietuvos Respublika, atstovai bei nurodytų asmenų šeimos nariai (sutuoktiniai,
-vaikai (įvaikiai) iki 21 metų, kurie gyvena kartu su tėvais ir nėra sudarę
-santuokos) – už dokumentų, suteikiančių teisę atvykti į Lietuvos Respubliką,
-išdavimą; 
-6) lietuvių
-kilmės asmenys, pateikę krašto lietuvių bendruomenių arba Lietuvos Respublikos
-diplomatinių atstovybių ar konsulinių įstaigų užsienio valstybėse pareigūnų
-išduotus Lietuvos Respublikos užsienio reikalų ministerijos patvirtintos formos
-pažymėjimus, – už vizų išdavimą ir pratęsimą; 
-7) sunkiai
-sergantys užsieniečiai arba užsieniečiai, kuriems reikalinga skubi medicinos
-pagalba, kai pateikiami dokumentai, išduoti atitinkamos organizacijos ir
-patvirtinantys būtinumą nurodytiems asmenims būti Lietuvos Respublikos
-teritorijoje, taip pat šiuos asmenis lydintieji, kai pateikiamas dokumentas,
-patvirtinantis tokio lydėjimo būtinumą, – už vizų išdavimą ir pratęsimą;
-8) užsieniečiai,
-vykstantys į šeimos nario (tėvų (įtėvių), vaikų (įvaikių), brolių, seserų)
-laidotuves, kai pateikiama nustatyta tvarka patvirtinta telegrama, – už vizų
-išdavimą pasienio kontrolės punktuose;
-9) užsieniečiai,
-vykstantys dirbti pedagoginį darbą į Lietuvos Respublikos aukštąsias, aukštesniąsias,
-profesines ir bendrojo lavinimo mokyklas, – už vizų išdavimą ir pratęsimą.
-2 dalies
-redakcija nuo 2007 m. liepos 1 d.:
+3) Užsienio reikalų
+ministerija už jai išduodamus metrikacijos liudijimų dublikatus.
 2. Už išduodamus
 dokumentus dėl pilietybės, išvykimo į užsienį ir atvykimo į Lietuvos Respubliką
 bei gyvenimo joje, užsieniečių įdarbinimo ir kitas suteiktas paslaugas nuo
@@ -245,13 +223,132 @@ patvirtinantys būtinumą nurodytiems asmenims būti Lietuvos Respublikos
 teritorijoje, taip pat šiuos asmenis lydintieji, kai pateikiamas dokumentas,
 patvirtinantis tokio lydėjimo būtinumą, – už vizų išdavimą ir pratęsimą;
 8) užsieniečiai,
-vykstantys į šeimos nario (tėvų (įtėvių), vaikų (įvaikių), brolių, seserų) laidotuves,
-kai pateikiama nustatyta tvarka patvirtinta telegrama, – už vizų išdavimą
-pasienio kontrolės punktuose;
+vykstantys į šeimos nario (tėvų (įtėvių), vaikų (įvaikių), brolių, seserų)
+laidotuves, kai pateikiama nustatyta tvarka patvirtinta telegrama, – už vizų
+išdavimą pasienio kontrolės punktuose;
 9) užsieniečiai,
 vykstantys dirbti pedagoginį darbą į Lietuvos Respublikos aukštąsias,
 aukštesniąsias, profesines ir bendrojo lavinimo mokyklas, – už vizų išdavimą ir
 pratęsimą.
+6 straipsnio
+redakcija nuo 2008 m. sausio 1 d.:
+6 straipsnis. Atleidimas nuo valstybės
+rinkliavos 
+Valstybės
+rinkliava neimama už:
+1) gimimo, mirties, įvaikinimo ir tėvystės nustatymo
+registravimą, už klaidų, padarytų registruojant civilinės būklės aktus,
+ištaisymą, nepilnamečių vaikų civilinės būklės aktų ištaisymą pasikeitus
+įrašams tėvų civilinės būklės aktuose; 
+2) vardo, pavardės, tėvo vardo pakeitimą, papildymą ir
+ištaisymą tikslinant įrašus, padarytus registruojant aktus okupacijų metais; 
+3) Užsienio reikalų ministerijai išduodamus metrikacijos
+liudijimų dublikatus;
+4) dokumento, patvirtinančio asmens gyvenamąją vietą,
+išdavimą;
+5) asmens tapatybės kortelės ir paso išdavimą bei keitimą
+asmenims, turintiems teisę gauti piniginę socialinę paramą įstatymų nustatyta
+tvarka, vaikams, kuriems nustatyta globa arba rūpyba, valstybės išlaikomiems
+stacionariose globos įstaigose asmenims, vienišiems asmenims, sukakusiems
+senatvės pensijos amžių, asmenims, kuriems nustatytas 0–40 procentų darbingumo
+lygis, ar senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų
+nustatyta tvarka nustatytas didelių ar vidutinių specialiųjų poreikių lygis,
+asmenims iki 18 metų, kuriems nustatytas neįgalumo lygis;
+6) asmens tapatybės kortelės ir paso išdavimą bei keitimą,
+leidimo gyventi Lietuvos Respublikoje išdavimą ir keitimą, asmens be pilietybės
+kelionės dokumento išdavimą, keitimą ir jo galiojimo laiko pratęsimą, vizų
+išdavimą ir buvimo Lietuvos Respublikoje turint vizą laiko pratęsimą asmenims,
+kuriems pagal Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų
+okupacijų, teisinio statuso įstatymą pripažįstamas nuo okupacijų nukentėjusio –
+represuoto asmens teisinis statusas;
+7) asmens be pilietybės kelionės dokumento, pabėgėlio
+kelionės dokumento ir užsieniečio paso išdavimą, vizų išdavimą ir buvimo
+Lietuvos Respublikoje turint vizą laiko pratęsimą, dokumentų išduoti leidimą
+gyventi Lietuvos Respublikoje tvarkymą ir leidimo gyventi Lietuvos Respublikoje
+išdavimą asmenims iki 16 metų;
+8) pirmojo leidimo gyventi Lietuvos Respublikoje išdavimą
+užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje;
+9) leidimo laikinai gyventi Lietuvos Respublikoje išdavimą
+ir keitimą nepilnamečiam užsieniečiui, kurio globėju (rūpintoju) yra paskirtas
+Lietuvos Respublikos pilietis;
+10) vizų išdavimą ir buvimo Lietuvos Respublikoje turint
+vizą laiko pratęsimą užsieniečiams, turintiems diplomatinius ir tarnybinius
+pasus ar jiems prilygintus kelionės dokumentus, Europos Sąjungos valstybės
+narės ir Europos laisvosios prekybos asociacijos valstybės narės piliečio
+šeimos nariams;
+11) vizų išdavimą ir buvimo Lietuvos Respublikoje turint
+vizą laiko pratęsimą, leidimų laikinai gyventi Lietuvos Respublikoje išdavimą
+ir keitimą užsienio valstybių piliečiams, vykstantiems į Lietuvos Respubliką
+dalyvauti Respublikos Prezidento, Seimo, Vyriausybės, ministerijų, kitų
+valstybės ar savivaldybių institucijų, įstaigų ar tarnybų organizuojamuose
+oficialiuose susitikimuose, labdaros bei organizuotos pagalbos Lietuvai
+tikslais arba su Raudonojo Kryžiaus misija, taip pat tarptautinių organizacijų,
+kurių narė yra Lietuvos Respublika, atstovams;
+12) vizų išdavimą ir buvimo Lietuvos Respublikoje turint
+vizą laiko pratęsimą, leidimų laikinai gyventi Lietuvos Respublikoje išdavimą
+ir keitimą lietuvių kilmės asmenims, pateikusiems lietuvių kilmę ar teisę į
+Lietuvos Respublikos pilietybės išsaugojimą patvirtinančius dokumentus, ir šių
+asmenų šeimos nariams;
+13) vizų išdavimą ir buvimo Lietuvos Respublikoje turint
+vizą laiko pratęsimą sunkiai sergantiems užsieniečiams arba užsieniečiams,
+kuriems reikalinga skubi medicinos pagalba, kai pateikiami dokumentai, išduoti
+atitinkamos organizacijos ir patvirtinantys būtinumą nurodytiems asmenims būti
+Lietuvos Respublikos teritorijoje, taip pat šiuos asmenis lydintiesiems, kai
+pateikiamas dokumentas, patvirtinantis tokio lydėjimo būtinumą; 
+14) vizų išdavimą pasienio kontrolės punktuose
+užsieniečiams, vykstantiems į šeimos nario (tėvų (įtėvių), vaikų (įvaikių),
+brolių, seserų) laidotuves, kai pateikiamas šias aplinkybes patvirtinantis
+dokumentas; 
+15) ilgalaikių vizų (D) išdavimą užsieniečiams,
+vykstantiems dirbti pedagoginį darbą į Lietuvos Respublikos aukštąsias,
+profesines ir bendrojo lavinimo mokyklas, taip pat užsieniečiams,
+atvykstantiems studijuoti, mokytis į Lietuvos Respublikos aukštąsias,
+profesines ir bendrojo lavinimo mokyklas pagal tarptautines sutartis ir
+susitarimus;
+16) leidimo įvežti (išvežti) ginklus, leidimo vežti
+ginklus, išankstinio sutikimo įvežti ginklus išdavimą Lietuvos Respublikos ar
+užsienio teisėsaugos institucijoms ir jų pareigūnams arba asmenims, turintiems
+diplomatinius ar tarnybinius pasus (jeigu šiems asmenims, norintiems gauti
+leidimą, tarpininkauja Lietuvos Respublikos užsienio reikalų ministerija), arba
+fiziniams ir juridiniams asmenims, kurie išvyksta į sporto varžybas užsienyje,
+atvyksta į sporto varžybas Lietuvos Respublikoje ar vyksta į sporto varžybas
+per Lietuvos Respubliką tranzitu;
+17) leidimo laikinai gyventi Lietuvos Respublikoje išdavimą
+užsieniečiui, jeigu jam suteikta papildoma apsauga Lietuvos Respublikoje arba
+suteikta laikinoji apsauga Lietuvos Respublikoje, arba jis negali būti
+išsiųstas, taip pat jeigu jo išsiuntimas iš Lietuvos Respublikos yra atidėtas
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ nustatyta
+tvarka, jis negali išvykti dėl pavojingos organizmo būklės ir jam reikia
+neatidėliotinos medicinos pagalbos;
+18) civilinės
+aviacijos specialisto licencijos išdavimą darbuotojams, papildomos
+kvalifikacijos suteikimą, civilinės aviacijos teorijos egzamino perlaikymą,
+skrydžio (praktinių gebėjimų) egzamino perlaikymą, civilinės
+aviacijos specialisto licencijos (kvalifikacijos) galiojimo laiko pratęsimą,
+civilinės aviacijos specialisto licencijos (kvalifikacijos) atnaujinimą,
+pirmos, antros ir trečios klasės sveikatos pažymėjimo išdavimą darbuotojams,
+kurie atlieka valstybinę civilinės aviacijos priežiūrą, ir civilinės aviacijos
+specialisto licencijos išdavimą studentams, kurie, atlikdami praktiką, privalo
+turėti galiojančią atitinkamą civilinės aviacijos specialisto licenciją;
+19) jūrininkų
+knygelės (išduodamos pirmą kartą), jūrinio laipsnio kvalifikacijos, kovos su
+gaisrais kursų baigimo liudijimo, pirmosios medicinos pagalbos kursų baigimo,
+darbo su gelbėjimo plaustais, valtimis (išskyrus greitaeiges) kursų baigimo, laivo
+gyvybingumo ir žmonių gyvybės išsaugojimo užtikrinimo kursų baigimo liudijimo,
+darbo tanklaiviuose įvadinių kursų baigimo liudijimų išdavimą mokymo įstaigų,
+rengiančių jūrų transporto specialistus, dieninių skyrių studentams ir
+moksleiviams (mokiniams);
+20)
+išduotų licencijų, kai keičiasi rekvizitai, tiesiogiai nepriklausantys nuo ūkio
+subjekto, patikslinimą;
+21)
+užsienyje įgytos kvalifikacijos vertinimą užsieniečiams, pateikusiems lietuvių
+kilmę ar teisės į Lietuvos Respublikos pilietybę išsaugojimą patvirtinančius
+dokumentus, taip pat užsieniečiams, pateikusiems prieglobsčio Lietuvos
+Respublikoje suteikimą patvirtinančius dokumentus;
+22)
+institucijų teikiamas paslaugas, kurių suteikimo išlaidos mažesnės už šio
+įstatymo 5 straipsnio 1 dalyje nustatytą minimalų valstybės rinkliavos dydį.
 Straipsnio pakeitimai:
 Nr.
 IX-1077,
@@ -261,9 +358,14 @@ Nr. X-359, 2005-09-29,
 Nr. X-925, 2006-11-28,
 Žin., 2006, Nr. 137-5200 (2006-12-16)
 Nr.
-X-1155, 2007-05-24,
-Žin., 2007, Nr. 61-2343 (2007-06-02)
+X-1155,
+2007-05-24, Žin., 2007, Nr. 61-2343 (2007-06-02)
+Nr.
+X-1277, 2007-09-18,
+Žin., 2007, Nr. 101-4107 (2007-09-27)
  
+7 straipsnio
+redakcija iki 2008 m. sausio 1 d.:
 7
 straipsnis. Valstybės rinkliavos lengvatos
 Vyriausybė turi
@@ -273,9 +375,21 @@ dydį arba iš viso nuo jos atleisti tais atvejais, kai valstybės rinkliava
 sąskaita paskiriems valstybės rinkliavos mokėtojams sumažinti valstybės
 rinkliavos dydį arba iš viso nuo jos atleisti tais atvejais, kai valstybės
 rinkliava įskaitoma į tos savivaldybės biudžetą.
+7 straipsnio
+redakcija nuo 2008 m. sausio 1 d.:
+7 straipsnis. Valstybės
+rinkliavos lengvatos
+Savivaldybės
+taryba turi teisę savo biudžeto sąskaita paskiriems valstybės rinkliavos
+mokėtojams sumažinti valstybės rinkliavos dydį arba iš viso nuo jos atleisti
+tais atvejais, kai valstybės rinkliava įskaitoma į tos savivaldybės biudžetą.
+Straipsnio pakeitimai:
+Nr.
+X-1277,
+2007-09-18, Žin., 2007, Nr. 101-4107 (2007-09-27)
  
-8 straipsnis.
-Valstybės rinkliavos keitimas ar panaikinimas pariteto pagrindais
+8
+straipsnis. Valstybės rinkliavos keitimas ar panaikinimas pariteto pagrindais
 Tais atvejais,
 kai pariteto pagrindais didinamas, mažinamas ar panaikinamas konsulinis
 mokestis už vizų išdavimą užsienio valstybių piliečiams bei asmenims be
@@ -306,7 +420,8 @@ terminą.
 3. Valstybės
 rinkliavos grąžinimo tvarką nustato Vyriausybė.
  
-III SKYRIUS
+III
+SKYRIUS
 VIETINĖS
 RINKLIAVOS
  
@@ -328,8 +443,7 @@ išnuomotą ar perduotą naudotis teritoriją), kurioje teikiamos paslaugos, tai
 pat vykdoma prekyba nuo (iš) laikinųjų prekybos įrenginių, kioskų paviljonų,
 prekybai pritaikytų automobilių ar priekabų, lauko kavinių);
 3) leidimo
-įrengti išorinę reklamą ant savivaldybei priklausančių ar valdytojo teise
-valdomų objektų išdavimą; 
+įrengti išorinę reklamą savivaldybės teritorijoje išdavimą;
 4) leidimo
 organizuoti komercinius renginius savivaldybei priklausančiose ar valdytojo
 teise valdomose viešojo naudojimo teritorijose išdavimą;
@@ -358,11 +472,12 @@ valstybinės reikšmės kelių, privačiuose ir išnuomotuose valstybinės
 leidimo pardavinėti I, II ir TO klasės civilines pirotechnikos priemones
 išdavimą;
 11) naudojimąsi
-gyvenamųjų vietovių, turinčių kurorto statusą, viešąja infrastruktūra (viešoji
-kurorto infrastruktūra – valstybei ar savivaldybei nuosavybės teise
-priklausantys statiniai, įranga ir bendro naudojimo želdynai, sudarantys
-visuomenei galimybę naudoti kurorte esančius gamtinius išteklius sveikatinimo,
-turizmo ir poilsio reikmėms).
+gyvenamųjų vietovių, turinčių kurorto ar kurortinės teritorijos statusą,
+viešąja infrastruktūra (viešoji kurorto ar kurortinės teritorijos
+infrastruktūra – valstybei ar savivaldybei nuosavybės teise priklausantys
+statiniai, įranga ir bendro naudojimo želdynai, sudarantys visuomenei galimybę
+naudoti kurorte esančius gamtinius išteklius sveikatinimo, turizmo ir poilsio
+reikmėms).
 2. Iš vietinės
 rinkliavos mokėtojo negali būti reikalaujama atlyginti už objektą, už kurį
 pagal šį įstatymą nustatyta vietinė rinkliava, kitaip negu sumokant vietinę
@@ -373,6 +488,9 @@ IX-857,
 2002-04-23, Žin., 2002, Nr. 45-1710 (2002-05-04)
 Nr. X-431, 2005-12-08,
 Žin., 2005, Nr. 149-5416 (2005-12-22)
+Nr.
+X-1277,
+2007-09-18, Žin., 2007, Nr. 101-4107 (2007-09-27)
  
 12
 straipsnis. Vietinių rinkliavų nustatymas
@@ -398,7 +516,8 @@ taryba atskiru sprendimu gali vietinės rinkliavos dydį kartą per metus
 indeksuoti, taikydama metinį vartojimo kainų indeksą, jeigu jis didesnis negu
 1,1.
  
-IV SKYRIUS
+IV
+SKYRIUS
 RINKLIAVŲ
 RINKIMO KONTROLĖ IR ATSAKOMYBĖ
  
@@ -420,7 +539,8 @@ straipsnis. Atsakomybė už rinkliavų rinkimo tvarkos pažeidimus
 Asmenys, pažeidę šį įstatymą ar su juo susijusius kitus teisės aktus,
 atsako įstatymų nustatyta tvarka.
  
-V SKYRIUS
+V
+SKYRIUS
 ĮSKAITYMAS Į
 BIUDŽETUS
  
@@ -432,7 +552,8 @@ teikiamas paslaugas įskaitoma į valstybės biudžetą.
 2. Vietinė
 rinkliava įskaitoma į savivaldybės, nustačiusios vietinę rinkliavą, biudžetą.
  
-VI SKYRIUS
+VI
+SKYRIUS
 BAIGIAMOSIOS
 NUOSTATOS
  
@@ -443,8 +564,8 @@ straipsnis. Pasiūlymai Vyriausybei ir savivaldybių taryboms
 kaip iki 2000 m. spalio 1 d. pagal šio įstatymo nuostatas nustato konkretų
 valstybės rinkliavos objektų sąrašą bei šios rinkliavos dydžius, taip pat
 patvirtina valstybės rinkliavos mokėjimo ir grąžinimo tvarką;
-2) iki šio
-įstatymo įsigaliojimo panaikina šiam įstatymui prieštaraujančias rinkliavas;
+2) iki šio įstatymo
+įsigaliojimo panaikina šiam įstatymui prieštaraujančias rinkliavas;
 3) pateikia
 Seimui svarstyti Mokesčių administravimo įstatymo 5 straipsnio pakeitimo
 įstatymo projektą, kuriuo būtų patikslintas Valstybinės mokesčių inspekcijos
@@ -530,8 +651,7 @@ RINKLIAVŲ ĮSTATYMO 4 IR 6
 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 7.
-Lietuvos Respublikos Seimas,
-Įstatymas
+Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-431, 2005-12-08,
 Žin., 2005, Nr. 149-5416 (2005-12-22)
 RINKLIAVŲ ĮSTATYMO 11 STRAIPSNIO
@@ -556,11 +676,22 @@ RINKLIAVŲ
 Šis
 įstatymas, išskyrus 3 straipsnį, įsigalioja nuo 2007 m. liepos 1 d.
  
+10.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-1277,
+2007-09-18, Žin., 2007, Nr. 101-4107 (2007-09-27)
+RINKLIAVŲ
+ĮSTATYMO 4, 5, 6, 7, 11 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis
+įstatymas, išskyrus 5 ir 6 straipsnius, įsigalioja nuo 2008 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2007-06-04)
+Aušrinė Trapinskienė (2007-09-27)
                  
 autrap@lrs.lt
