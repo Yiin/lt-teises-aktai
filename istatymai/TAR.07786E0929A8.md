@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.07786E0929A8"
 
 # Lietuvos Respublikos patentų įstatymas
 
-Suvestinė redakcija nuo 2007-05-19 iki 2012-02-02
+Suvestinė redakcija nuo 2007-10-01 iki 2012-02-02
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 8-120, i. k. 0941010ISTA000I-372
  
@@ -1280,6 +1280,19 @@ Kai augalo veislės licenciją gali išduoti tik Bendrijos augalų veislių tarn
 
 Papildyta straipsniu:
 Nr. X-287, 2005-06-30, Žin., 2005, Nr. 85-3135 (2005-07-14), i. k. 1051010ISTA000X-287
+ 
+
+
+
+
+381 straipsnis. Priverstinė licencija dėl farmacijos produktų
+
+
+Priverstines licencijas pagal 2006 m. gegužės 17 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 816/2006 dėl patentų, susijusių su farmacijos produktų, eksportuojamų į šalis, turinčias problemų visuomenės sveikatos srityje, gamyba, priverstinio licencijavimo išduoda Vyriausybės įgaliota kompetentinga institucija. 
+
+
+Papildyta straipsniu:
+Nr. X-1119, 2007-05-10, Žin., 2007, Nr. 55-2129 (2007-05-19), i. k. 1071010ISTA00X-1119
  
 
 
