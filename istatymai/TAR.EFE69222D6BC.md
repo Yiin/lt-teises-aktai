@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EFE69222D6BC"
 
 # Lietuvos Respublikos geodezijos ir kartografijos įstatymas
 
-Suvestinė redakcija nuo 2007-01-11 iki 2010-05-10
+Suvestinė redakcija nuo 2007-10-12 iki 2010-05-10
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 62-2226, i. k. 1011010ISTA00IX-415
  
@@ -277,6 +277,14 @@ Geodezinė ir kartografinė veikla apima:
 
 
 
+7) nekilnojamųjų daiktų kadastro duomenų nustatymą.
+Papildyta straipsnio punktu:
+Nr. X-1008, 2006-12-21, Žin., 2007, Nr. 4-160 (2007-01-11), i. k. 1061010ISTA00X-1008
+ 
+
+
+
+
 
 
 
@@ -333,11 +341,12 @@ Geodezinės ir kartografinės veiklos objektai yra šie:
 6 straipsnis. Geodezinės ir kartografinės veiklos subjektai
 
 
-Geodezinės ir kartografinės veiklos subjektai yra Vyriausybės įgaliota institucija (toliau – įgaliota institucija), ministerijos, apskričių viršininkai, kitos valstybės įstaigos, savivaldybių vykdomosios institucijos, valstybės įmonės, įstaigos, kiti juridiniai ir fiziniai asmenys bei įmonės, neturinčios juridinio asmens teisių, kurių veikla susijusi su kartografavimu, geodeziniais matavimais, šių duomenų kaupimu, apskaita ar jų panaudojimu šio įstatymo ir kitų teisės aktų numatytais atvejais.
- 
- 
+Geodezinės ir kartografinės veiklos subjektai yra Vyriausybės įgaliota institucija (toliau – įgaliota institucija), ministerijos, apskričių viršininkai, kitos valstybės įstaigos, savivaldybių vykdomosios institucijos, valstybės įmonės, matininkai, matininkai ekspertai, kiti juridiniai ir fiziniai asmenys bei Europos ekonominės erdvės susitarimą pasirašiusiose valstybėse įsisteigusios įmonės, kurių veikla susijusi su kartografavimu, geodeziniais matavimais, nekilnojamųjų daiktų kadastro duomenų nustatymu Lietuvos Respublikoje, šių duomenų kaupimu, apskaita ar jų panaudojimu šio įstatymo ir kitų teisės aktų numatytais atvejais.
 
 
+Straipsnio pakeitimai:
+Nr. X-1008, 2006-12-21, Žin., 2007, Nr. 4-160 (2007-01-11), i. k. 1061010ISTA00X-1008
+ 
 
 
 
@@ -475,7 +484,10 @@ Vyriausybė:
 
 
 
-11) įstatymų ir kitų teisės aktų nustatyta tvarka išduoda ir panaikina licencijas šiame įstatyme apibrėžtai geodezinei, kartografinei veiklai, kontroliuoja licencijuojamų darbų kokybę; 
+11) įstatymų ir kitų teisės aktų nustatyta tvarka išduoda licencijas, sustabdo ir panaikina licencijų šiame įstatyme apibrėžtai geodezinei, kartografinei veiklai galiojimą;
+Straipsnio punkto pakeitimai:
+Nr. X-1008, 2006-12-21, Žin., 2007, Nr. 4-160 (2007-01-11), i. k. 1061010ISTA00X-1008
+ 
 
 
 
@@ -905,7 +917,10 @@ Nr. X-1008, 2006-12-21, Žin., 2007, Nr. 4-160 (2007-01-11), i. k. 1061010ISTA00
 
 
 
-7) nekilnojamojo turto kadastro objektų geodeziniai matavimai;
+7) nekilnojamųjų daiktų kadastro duomenų nustatymas; 
+Straipsnio punkto pakeitimai:
+Nr. X-1008, 2006-12-21, Žin., 2007, Nr. 4-160 (2007-01-11), i. k. 1061010ISTA00X-1008
+ 
 
 
 
@@ -963,6 +978,14 @@ Nr. X-1008, 2006-12-21, Žin., 2007, Nr. 4-160 (2007-01-11), i. k. 1061010ISTA00
 9) komercinio pobūdžio teminis kartografavimas.
 
 
+
+
+
+
+4. Licencija vykdyti nekilnojamųjų daiktų kadastro duomenų nustatymo darbus išduodama juridiniams asmenims ir Europos ekonominės erdvės susitarimą pasirašiusiose valstybėse įsisteigusioms įmonėms, kurių matininkai ar matininkai ekspertai atitinka Vyriausybės nustatytus išsimokslinimo ir kvalifikacinius reikalavimus. 
+Papildyta straipsnio dalimi:
+Nr. X-1008, 2006-12-21, Žin., 2007, Nr. 4-160 (2007-01-11), i. k. 1061010ISTA00X-1008
+ 
 
 
 
