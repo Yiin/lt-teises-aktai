@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8E89798D5C4E"
 
 # Lietuvos Respublikos teisėjų valstybinių pensijų įstatymas
 
-Suvestinė redakcija nuo 2006-07-01 iki 2007-10-24
+Suvestinė redakcija nuo 2007-10-25 iki 2010-11-15
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3088, i. k. 1021010ISTA0IX-1011
  
@@ -117,10 +117,12 @@ Teisėjų valstybinė pensija neskiriama, o paskirtoji nemokama, jei:
 
 
 6) asmuo turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba gauna valstybinio socialinio draudimo ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, tėvystės, motinystės (tėvystės), profesinės reabilitacijos pašalpas ar nedarbo socialinio draudimo išmokas.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos teisėjų valstybinių pensijų įstatymo 4 straipsnio (2006 m. birželio 8 d. redakcija) (Žin., 2006, Nr. 72-2686) nuostata „Teisėjų valstybinė pensija neskiriama, o paskirtoji nemokama, jei: <...> 6) asmuo turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba gauna valstybinio socialinio draudimo ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, tėvystės, motinystės (tėvystės), profesinės reabilitacijos pašalpas ar nedarbo socialinio draudimo išmokas“ prieštarauja Lietuvos Respublikos Konstitucijos 52, 109 straipsniams, konstituciniam teisinės valstybės principui, o nuostata „Teisėjų valstybinė pensija neskiriama, o paskirtoji nemokama, jei: <...> 6) asmuo turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos“ – dar ir Lietuvos Respublikos Konstitucijos 48 straipsnio 1 daliai.
 Straipsnio punkto pakeitimai:
 Nr. IX-2539, 2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26), i. k. 1041010ISTA0IX-2539
 Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. 1051010ISTA000X-208
 Nr. X-670, 2006-06-08, Žin., 2006, Nr. 72-2686 (2006-06-28), i. k. 1061010ISTA000X-670
+2007-10-22, Žin., 2007, Nr. 110-4511 (2007-10-25); Žin., 2011, Nr. 33-0 (2011-03-19), i. k. 1071000NUTARG077101            
  
 
 
@@ -370,3 +372,8 @@ Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo, Valstybin
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-670, 2006-06-08, Žin., 2006, Nr. 72-2686 (2006-06-28), i. k. 1061010ISTA000X-670
 Lietuvos Respublikos teisėjų valstybinių pensijų įstatymo 4 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+2007-10-22, Žin., 2007, Nr. 110-4511 (2007-10-25); Žin., 2011, Nr. 33-0 (2011-03-19), i. k. 1071000NUTARG077101                
+Dėl Lietuvos Respublikos teisėjų valstybinių pensijų įstatymo 4 straipsnio (2002 m. liepos 2 d., 2004 m. lapkričio 4 d., 2005 m. gegužės 19 d., 2006 m. birželio 8 d. redakcijos) atitikties Lietuvos Respublikos Konstitucijai
