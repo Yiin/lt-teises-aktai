@@ -38,8 +38,7 @@ IX-2105,
  
 PIRMASIS
 SKIRSNIS
-BENDROSIOS
-NUOSTATOS
+BENDROSIOS NUOSTATOS
  
 1
 straipsnis. Įstatymo paskirtis
@@ -105,10 +104,10 @@ organizacijos (toliau – įmonė) finansinės atskaitomybės arba įmonių
 grupės konsoliduotos finansinės atskaitomybės patikrinimas ir išvados
 pateikimas. Išvadoje nurodoma, ar finansinė atskaitomybė arba konsoliduota
 finansinė atskaitomybė visais reikšmingais atžvilgiais tikrai ir teisingai
-parodo įmonės finansinę būklę, veiklos rezultatus ir pinigų srautus, ar
-finansinė atskaitomybė arba konsoliduota finansinė atskaitomybė parengta pagal
-Lietuvos Respublikoje galiojančius teisės aktus, reglamentuojančius buhalterinę
-apskaitą ir finansinės atskaitomybės sudarymą, taip pat kitus teisės aktus.
+parodo įmonės finansinę būklę, veiklos rezultatus ir pinigų srautus, ar finansinė
+atskaitomybė arba konsoliduota finansinė atskaitomybė parengta pagal Lietuvos
+Respublikoje galiojančius teisės aktus, reglamentuojančius buhalterinę apskaitą
+ir finansinės atskaitomybės sudarymą, taip pat kitus teisės aktus.
 14. Kitos paslaugos – visa teisėta audito
 įmonės veikla, išskyrus audito atlikimą.
 15. Klientas – įmonė, įstaiga ar organizacija,
@@ -124,23 +123,35 @@ kitas paslaugas.
 Lietuvos bankas, Lietuvos Respublikos vertybinių popierių komisija, Lietuvos
 Respublikos draudimo priežiūros komisija. 
 18. Susijusi įmonė – kiekviena įmonė, kurią su
-audito įmone sieja bendri dalyviai (dalyvavimas), kontrolė ar vadovai, nesvarbu,
-kokia jos teisinė forma.
+audito įmone sieja bendri dalyviai (dalyvavimas), kontrolė ar vadovai,
+nesvarbu, kokia jos teisinė forma.
 19. Tarptautiniai audito standartai (TSA) –
 Tarptautinės apskaitininkų federacijos Tarptautinės audito ir užtikrinimo
 standartų valdybos parengti ir patvirtinti Tarptautiniai audito standartai ir
 su jais susiję Tarptautiniai audito praktiniai nurodymai.
 20. Užsakovas – juridinis
 arba fizinis asmuo, sudarantis sutartį dėl audito atlikimo.
+ 
+21 dalies redakcija iki 2008 m. kovo 1 d.:
 21. Visuomenės intereso įmonės
 – įmonės, kurioms skiriamas didelis visuomenės dėmesys dėl jų veiklos
 masto, klientų, dalyvių ar darbuotojų skaičiaus arba dėl veiklos pobūdžio
 (kredito įstaigos, finansų maklerio įmonės, draudimo įmonės, valdymo įmonės,
 investicinės kintamojo kapitalo bendrovės, bendrovės, kurių vertybiniais
 popieriais prekiaujama reguliuojamose rinkose). 
+21 dalies redakcija nuo 2008 m. kovo 1 d.:
+21. Visuomenės intereso įmonės –
+įmonės, kurioms skiriamas didelis visuomenės dėmesys dėl jų veiklos masto,
+klientų, dalyvių ar darbuotojų skaičiaus arba dėl veiklos pobūdžio (kredito
+įstaigos, finansų maklerio įmonės, draudimo įmonės, valdymo įmonės,
+investicinės kintamojo kapitalo bendrovės, uždaro tipo investicinės bendrovės,
+bendrovės, kurių vertybiniais popieriais prekiaujama reguliuojamose rinkose).
 Straipsnio pakeitimai:
 Nr. X-509, 2006-01-20,
 Žin., 2006, Nr. 17-604 (2006-02-11)
+Nr.
+X-1307,
+2007-10-25, Žin., 2007, Nr. 117-4776 (2007-11-15)
  
 3
 straipsnis. Audito tikslai
@@ -154,8 +165,8 @@ atskaitomybė (įmonių grupės konsoliduota finansinė atskaitomybė) parengta 
 Lietuvos Respublikoje galiojančius teisės aktus, reglamentuojančius buhalterinę
 apskaitą ir finansinės atskaitomybės sudarymą, taip pat kitus teisės aktus;
 3) įvertinti, ar įmonės metiniame pranešime
-(konsoliduotame metiniame pranešime) arba įmonės veiklos ataskaitoje (jeigu
-pagal teisės aktų reikalavimus jie rengiami) pateikti duomenys atitinka metinės
+(konsoliduotame metiniame pranešime) arba įmonės veiklos ataskaitoje
+(jeigu pagal teisės aktų reikalavimus jie rengiami) pateikti duomenys atitinka metinės
 finansinės atskaitomybės (metinės konsoliduotos finansinės atskaitomybės)
 duomenis.
 Straipsnio pakeitimai:
@@ -168,8 +179,8 @@ veiklos principai
 Auditorių veiklos pagrindiniai
 principai yra:
 1) nepriklausomumas. Auditorius
-gali atlikti auditą tik būdamas nepriklausomas nuo užsakovo, kliento ir audituojamos
-įmonės;
+gali atlikti auditą tik būdamas nepriklausomas nuo užsakovo, kliento ir
+audituojamos įmonės;
 2) sąžiningumas ir objektyvumas.
 Auditorius neturi tyčia iškraipyti faktų ir jo nuomonė neturi būti veikiama
 kitų nuomonės;
@@ -181,9 +192,9 @@ privalo laikyti paslaptyje kliento patikėtą informaciją ir jos neteikti
 tretiesiems asmenims;
 5) atsakomybė visuomenei. Palaikant normalią verslo
 eigą, audito rezultatai gali būti naudojami kredito įstaigų, valstybės
-institucijų, darbdavių ir darbuotojų, investuotojų, verslo ir finansų
-visuomenės ir kitų vartotojų, pasitikinčių auditorių objektyvumu ir
-sąžiningumu. Šis pasitikėjimas lemia atsakomybę visuomenei.
+institucijų, darbdavių ir darbuotojų, investuotojų, verslo ir finansų visuomenės
+ir kitų vartotojų, pasitikinčių auditorių objektyvumu ir sąžiningumu. Šis
+pasitikėjimas lemia atsakomybę visuomenei.
  
 ANTRASIS SKIRSNIS
 AUDITORIAUS VARDO SUTEIKIMAS
@@ -239,8 +250,8 @@ auditoriaus vardas.
 2. Sprendimą dėl auditoriaus vardo
 suteikimo per 30 dienų nuo prašymo pateikimo priima Auditorių rūmai ir
 informuoja apie galimybę priimti auditoriaus priesaiką. Auditorių rūmai
-išsiunčia auditoriaus padėjėjui priimto sprendimo kopiją ne vėliau kaip per 5 darbo
-dienas nuo sprendimo priėmimo dienos.
+išsiunčia auditoriaus padėjėjui priimto sprendimo kopiją ne vėliau kaip per 5
+darbo dienas nuo sprendimo priėmimo dienos.
 3. Auditorių rūmai, spręsdami klausimą dėl auditoriaus
 vardo suteikimo, turi teisę pareikalauti dokumentų, įrodančių šio Įstatymo 5 ir
 6 straipsniuose nurodytas aplinkybes.
@@ -253,9 +264,9 @@ Nr. X-509, 2006-01-20,
  
 8 straipsnis. Kvalifikaciniai
 auditoriaus egzaminai
-1. Kvalifikacinius auditoriaus
-egzaminus ir žinių patikrinimo egzaminus (toliau – kvalifikaciniai auditoriaus
-egzaminai) rengia Auditorių rūmai. 
+1. Kvalifikacinius auditoriaus egzaminus
+ir žinių patikrinimo egzaminus (toliau – kvalifikaciniai auditoriaus egzaminai)
+rengia Auditorių rūmai. 
 2. Disciplinas, iš kurių laikomi
 kvalifikaciniai auditoriaus egzaminai, egzaminų laikymo taisykles ir mokesčio
 už juos dydį Auditorių rūmų teikimu tvirtina finansų ministras.
@@ -276,8 +287,8 @@ reglamentuojančių teisės aktų ir profesinių standartų;
 4. Be šio straipsnio 3 dalyje išvardytų
 dalykų, kvalifikacinių auditoriaus egzaminų metu patikrinamos teorinės šių
 dalykų žinios tiek, kiek jie susiję su auditu:
-1) įmonių teisės ir įmonių valdymo, bankroto
-procedūrų;
+1) įmonių teisės ir įmonių valdymo,
+bankroto procedūrų;
 2) mokesčių įstatymų;
 3) civilinės ir komercinės teisės;
 4) įstatymų, reglamentuojančių socialinį
@@ -303,18 +314,18 @@ egzaminų komisija
 1. Kvalifikacinių auditoriaus
 egzaminų komisiją (toliau – Egzaminų komisija) sudaro 7 nariai, vienas iš jų –
 komisijos pirmininkas. Egzaminų komisijos nariai turi būti teisės, mokesčių,
-apskaitos ar finansų specialistai. 4 narius, iš jų ir pirmininką, skiria Finansų
-ministerija, 3 auditorius Egzaminų komisijos nariais skiria Auditorių rūmų
-narių susirinkimas.
+apskaitos ar finansų specialistai. 4 narius, iš jų ir pirmininką, skiria
+Finansų ministerija, 3 auditorius Egzaminų komisijos nariais skiria Auditorių
+rūmų narių susirinkimas.
 2. Egzaminų komisijos narys
 skiriamas 3 metams. Tie patys asmenys Egzaminų komisijos nariais gali būti
 skiriami ne ilgiau kaip 2 kadencijoms iš eilės. Kitai kadencijai Egzaminų
 komisijos narys skiriamas per 30 dienų nuo kadenciją baigusio komisijos nario
 kadencijos pabaigos. Pasibaigus Egzaminų komisijos nario kadencijai, jis toliau
-eina komisijos nario pareigas, iki paskiriamas komisijos narys kitai kadencijai.
-Egzaminų komisijos narį skyrusi institucija turi teisę jį atšaukti nesibaigus
-kadencijai, jeigu narys negali tinkamai eiti komisijos nario pareigų. Komisijos
-narys gali atsistatydinti nesibaigus kadencijai.
+eina komisijos nario pareigas, iki paskiriamas komisijos narys kitai
+kadencijai. Egzaminų komisijos narį skyrusi institucija turi teisę jį atšaukti
+nesibaigus kadencijai, jeigu narys negali tinkamai eiti komisijos nario
+pareigų. Komisijos narys gali atsistatydinti nesibaigus kadencijai.
 3. Egzaminų komisiją techniškai ir materialiai aptarnauja
 Auditorių rūmai.
  
@@ -360,11 +371,12 @@ Auditorių rūmų prezidentas.
 auditorius jį pasirašo. Priesaikos tekstas saugomas auditoriaus asmens byloje
 Auditorių rūmuose.
 4. Asmenims, išlaikiusiems
-kvalifikacinius auditoriaus egzaminus, bet neprisiekusiems, pažymėjimas neišduodamas,
-jie negali tapti Auditorių rūmų nariais ir pradėti audito veiklos.
+kvalifikacinius auditoriaus egzaminus, bet neprisiekusiems, pažymėjimas
+neišduodamas, jie negali tapti Auditorių rūmų nariais ir pradėti audito
+veiklos.
  
-12
-straipsnis. Pažymėjimų išdavimas
+12 straipsnis.
+Pažymėjimų išdavimas
 1. Asmenims, atitinkantiems šio
 Įstatymo 5 straipsnyje nustatytus reikalavimus, suteikiamas auditoriaus vardas
 ir išduodamas auditoriaus pažymėjimas.
@@ -394,8 +406,8 @@ veiką. Šiais atvejais auditoriaus pažymėjimo galiojimas sustabdomas, iki iš
 2. Auditoriaus pažymėjimo
 galiojimo sustabdymas panaikina auditoriaus teisę atlikti auditą, tačiau
 auditorius lieka Auditorių rūmų nariu ir jam galioja visos šio Įstatymo 30
-straipsnyje nustatytos auditoriaus pareigos, išskyrus šio Įstatymo 30
-straipsnio 1 dalies 2 punkte nurodytą pareigą. 
+straipsnyje nustatytos auditoriaus pareigos, išskyrus šio Įstatymo 30 straipsnio
+1 dalies 2 punkte nurodytą pareigą. 
 3. Auditorius, kurio pažymėjimo
 galiojimas sustabdytas, norėdamas pradėti audito veiklą, pasibaigus pažymėjimo
 galiojimo sustabdymo laikui privalo pateikti Auditorių rūmams šiuos dokumentus:
@@ -449,8 +461,8 @@ pažymėjimo galiojimą, auditorius išbraukiamas iš auditorių sąrašo.
 TREČIASIS SKIRSNIS
 AUDITO ĮMONĖS 
  
-17 straipsnis.
-Audito įmonės
+17
+straipsnis. Audito įmonės
 1.
 Audito įmonės gali būti šių teisinių formų:
 1) individualios įmonės (toliau –
@@ -497,9 +509,10 @@ Auditorių rūmai. Į audito įmonių sąrašą įrašomos įmonės, atitinkanč
 įmonių sąrašą, Auditorių rūmams pateikiami šie dokumentai:
 1) prašymas, kuriame turi būti
 nurodyta įmonės pavadinimas, kodas, buveinė, telefonas, įmonės dalyvių vardai,
-pavardės, adresai korespondencijai, kiekvieno dalyvio balsavimo teisės, pažymėjimų,
-įrodančių auditoriaus vardo suteikimą, numeriai ir kita šio Įstatymo 21
-straipsnyje numatyta informacija, reikalinga sudaryti audito įmonių sąrašui;
+pavardės, adresai korespondencijai, kiekvieno dalyvio balsavimo teisės,
+pažymėjimų, įrodančių auditoriaus vardo suteikimą, numeriai ir kita šio
+Įstatymo 21 straipsnyje numatyta informacija, reikalinga sudaryti audito įmonių
+sąrašui;
 2) įmonės registravimo pažymėjimas
 ir jo kopija;
 3) civilinės atsakomybės draudimo
@@ -523,8 +536,8 @@ neįrašyti į audito įmonių sąrašą Auditorių rūmai privalo per 30 dienų
 dokumentų pateikimo dienos raštu pranešti įmonei.
 7. Įmonę į audito įmonių sąrašą įrašo bei pažymėjimą
 išduoda Auditorių rūmai ir apie tai per 10 darbo dienų nuo įrašymo į audito
-įmonių sąrašą paskelbia oficialaus leidinio „Valstybės žinios“ priede „Informaciniai
-pranešimai“. 
+įmonių sąrašą paskelbia oficialaus leidinio „Valstybės žinios“ priede
+„Informaciniai pranešimai“. 
 8. Audito įmonė laikoma įrašyta į
 audito įmonių sąrašą kitą dieną po audito įmonių sąrašo paskelbimo oficialaus
 leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“.
@@ -566,8 +579,7 @@ straipsnis. Audito įmonių išbraukimas iš audito įmonių sąrašo
 1.
 Audito įmonė išbraukiama iš audito įmonių sąrašo, jeigu:
 1) pasikeitus UAB vadovui,
-valdybai arba dalyviams, įmonė nebeatitinka šio Įstatymo 17 straipsnio
-reikalavimų;
+valdybai arba dalyviams, įmonė nebeatitinka šio Įstatymo 17 straipsnio reikalavimų;
 2) įmonė pateikė prašymą išbraukti
 ją iš audito įmonių sąrašo;
 3) įmonė nepratęsė arba nesudarė naujos civilinės
@@ -638,7 +650,7 @@ auditoriaus, praktikos vadovo, nurodymus, susijusius su audito atlikimu;
 2) atlikdamas auditą vadovautis įstatymais ir kitais
 teisės aktais, nacionaliniais arba tarptautiniais audito standartais, laikytis
 Auditorių profesinės etikos kodekso reikalavimų;
-3) sąžiningai atlikti  savo pareigas;
+3) sąžiningai atlikti  savo pareigas;
 4) kasmet dalyvauti mokymo kursuose Auditorių rūmų
 prezidiumo nustatyta tvarka;
 5) saugoti praktikos atlikimo metu jam patikėtą
@@ -655,8 +667,8 @@ Nr. X-509, 2006-01-20,
 23 straipsnis.
 Auditoriaus padėjėjų sąrašas
 1. Asmenys į auditoriaus padėjėjų sąrašą įrašomi
-Auditorių rūmų sprendimu. Asmuo gali būti įrašytas į auditoriaus padėjėjų
-sąrašą, jeigu jis:
+Auditorių rūmų sprendimu. Asmuo gali būti įrašytas į auditoriaus padėjėjų sąrašą,
+jeigu jis:
 1) yra Lietuvos Respublikos ar kitos Europos Sąjungos
 valstybės narės pilietis;
 2) yra nepriekaištingos reputacijos pagal šio Įstatymo
@@ -741,7 +753,8 @@ galiojimas sustabdytas, negali atlikti audito.
 pateikia auditoriaus išvadą. Ji turi atitikti šio Įstatymo 31 straipsnyje
 nustatytus reikalavimus.
 5. Auditas atliekamas pagal
-nacionalinius arba tarptautinius audito standartus, atsižvelgiant į sutarčių sąlygas.
+nacionalinius arba tarptautinius audito standartus, atsižvelgiant į sutarčių
+sąlygas.
  
 28
 straipsnis. Auditorių teisių atlikti auditą apribojimai
@@ -796,8 +809,8 @@ straipsnis. Auditorių teisės
 1. Auditorius, atlikdamas auditą,
 turi šias teises:
 1)
-pasinaudodamas profesinėmis žiniomis bei patirtimi savarankiškai pasirinkti
-audito atlikimo procedūras;
+pasinaudodamas profesinėmis žiniomis bei patirtimi savarankiškai pasirinkti audito
+atlikimo procedūras;
 2) gauti iš audituojamos įmonės
 reikalingus dokumentus ir (arba) jų kopijas auditui atlikti ir naudotis visa
 sukaupta informacija;
@@ -873,8 +886,8 @@ Straipsnio pakeitimai:
 Nr. X-716, 2006-06-22,
 Žin., 2006, Nr. 77-2965 (2006-07-14)
  
-32
-straipsnis. Auditorių atsakomybė
+32 straipsnis.
+Auditorių atsakomybė
 Už apgaulingos auditoriaus
 išvados pateikimą auditorius atsako įstatymų nustatyta tvarka.
  
@@ -968,9 +981,9 @@ tikrinančios audito arba audituotos įmonės veiklą, išskyrus Auditorių rūm
 Įstatymo nustatyta tvarka, ir Auditorių garbės teismą, kai nagrinėjama įmonės,
 kuri yra neribotos civilinės atsakomybės juridinis asmuo, savininko, tikrojo
 nario, dirbančio arba dirbusio audito įmonėje auditoriaus drausmės byla.
-Teisėsaugos arba kitos institucijos gali paimti arba tikrinti audito darbo dokumentus,
-kuriuos auditorius yra gavęs arba parengęs atlikdamas auditą, tik Baudžiamojo
-proceso kodekso nustatyta tvarka.
+Teisėsaugos arba kitos institucijos gali paimti arba tikrinti audito darbo
+dokumentus, kuriuos auditorius yra gavęs arba parengęs atlikdamas auditą, tik
+Baudžiamojo proceso kodekso nustatyta tvarka.
 Straipsnio pakeitimai:
 Nr. X-716, 2006-06-22,
 Žin., 2006, Nr. 77-2965 (2006-07-14)
@@ -1004,8 +1017,8 @@ turi raštu informuoti audituojamos įmonės valdymo organą apie galimas grėsm
 jos nepriklausomumui ir suteiktas kitas paslaugas, taip pat patvirtinti, kad
 nepriklausomumui ir objektyvumui nėra daroma įtaka, arba kitu atveju nurodyti,
 kad, jos nuomone, nepriklausomumas ir objektyvumas gali būti paveikti.
-6. Audito įmonės savininkams, dalyviams,
-vadovams, kitiems valdymo organų nariams ir audito įmonių priežiūros
+6. Audito įmonės savininkams,
+dalyviams, vadovams, kitiems valdymo organų nariams ir audito įmonių priežiūros
 institucijoms draudžiama veikti audito atlikimą bet kokiomis priemonėmis,
 galinčioms turėti įtakos auditorių nepriklausomumui ir objektyvumui.
 7. Atlikdama auditą visuomenės
@@ -1042,8 +1055,8 @@ straipsnis. Užsakovo ir audito įmonės santykiai
 konkurso tvarka pasirenka audito įmonę, jei ko kita nenustato kiti teisės
 aktai.
 2. Užsakovo ir audito įmonės sutartis
-atlikti auditą sudaroma raštu. Audito įmonei priklausantį sutarties
-egzempliorių registruoja ir saugo audito įmonė.
+atlikti auditą sudaroma raštu. Audito įmonei priklausantį sutarties egzempliorių
+registruoja ir saugo audito įmonė.
 Straipsnio pakeitimai:
 Nr. X-509, 2006-01-20,
 Žin., 2006, Nr. 17-604 (2006-02-11)
@@ -1200,9 +1213,9 @@ turinčius atitinkamų žinių patikrinimo metu iškilusiems klausimams spręsti
 7) turėti
 sąlygas savarankiškai dirbti ir parengti išvadas.
 3. Auditorių kontrolierių pareigos:
-1) tikrinti, ar atliekant auditą laikomasi šio
-Įstatymo ir teisės aktų, reglamentuojančių auditą, nacionalinių arba
-tarptautinių audito standartų;
+1) tikrinti, ar atliekant auditą laikomasi šio Įstatymo
+ir teisės aktų, reglamentuojančių auditą, nacionalinių arba tarptautinių audito
+standartų;
 2) analizuoti patikrinimų medžiagą;
 3) atlikus patikrinimą, parengti patikrinimo ataskaitą ir
 pateikti Audito kokybės kontrolės komitetui;
@@ -1232,11 +1245,12 @@ Nr. X-509, 2006-01-20,
 Kokybės kontrolės mastas
 1. Kokybės kontrolė yra susijusi su audito įmonės
 teikiamų audito ir kitų paslaugų pagal nacionalinius arba tarptautinius audito
-standartus kokybe. Kokybės kontrolė apima audito įmonės vidaus kontrolės
-sistemos įvertinimą ir sistemos veikimo patikrinimą, atliekant pakankamai
-procedūrų bei patikrinus audito darbo dokumentus.
-2. Kokybės kontrolės metu tikrinant dokumentus, susijusius
-su auditu ir kitomis paslaugomis, turi būti nagrinėjamos šios sritys:
+standartus kokybe. Kokybės kontrolė apima audito įmonės vidaus kontrolės sistemos
+įvertinimą ir sistemos veikimo patikrinimą, atliekant pakankamai procedūrų bei
+patikrinus audito darbo dokumentus.
+2. Kokybės kontrolės metu tikrinant dokumentus,
+susijusius su auditu ir kitomis paslaugomis, turi būti nagrinėjamos šios
+sritys:
 1) audito darbo dokumentuose pateiktų įrodymų kokybė,
 kaip audito kokybės įvertinimo pagrindas, ir audito atlikimo metodika;
 2) audito standartų laikymasis;
@@ -1277,8 +1291,8 @@ gali skirti auditoriui vieną iš šių nuobaudų:
 interneto tinklalapyje;
 4) nurodymą papildomai (nustatant valandų skaičių) kelti
 profesinę kvalifikaciją Auditorių rūmuose.
-2. Už reikšmingus arba pakartotinai nustatytus audito
-atlikimo kokybės pažeidimus Audito kokybės kontrolės komitetas gali:
+2. Už reikšmingus arba pakartotinai nustatytus audito atlikimo
+kokybės pažeidimus Audito kokybės kontrolės komitetas gali:
 1) kreiptis į Auditorių garbės teismą iškelti auditoriui
 drausmės bylą;
 2) priimti sprendimą išbraukti audito įmonę iš audito
@@ -1287,13 +1301,13 @@ drausmės bylą;
 nurodyti pakartotinai laikyti visus arba kai kuriuos kvalifikacinius
 auditoriaus egzaminus.
 3. Audito kokybės kontrolės komitetas, priėmęs
-sprendimą skirti šio straipsnio 1 dalyje nurodytas nuobaudas arba šio straipsnio
-2 dalies 2 punkte nurodytą sprendimą, privalo per 14 dienų nuo atitinkamo
-sprendimo priėmimo dienos pateikti jį Auditorių rūmams. Apie priimtą Audito
-kokybės kontrolės komiteto sprendimą Auditorių rūmai raštu praneša auditoriui
-arba audito įmonei, taip pat priežiūros institucijoms, vykdančioms visuomenės
-intereso įmonių priežiūrą, per 3 dienas nuo sprendimo pateikimo Auditorių
-rūmams dienos.
+sprendimą skirti šio straipsnio 1 dalyje nurodytas nuobaudas arba šio
+straipsnio 2 dalies 2 punkte nurodytą sprendimą, privalo per 14 dienų nuo
+atitinkamo sprendimo priėmimo dienos pateikti jį Auditorių rūmams. Apie priimtą
+Audito kokybės kontrolės komiteto sprendimą Auditorių rūmai raštu praneša
+auditoriui arba audito įmonei, taip pat priežiūros institucijoms, vykdančioms
+visuomenės intereso įmonių priežiūrą, per 3 dienas nuo sprendimo pateikimo
+Auditorių rūmams dienos.
 Straipsnio pakeitimai:
 Nr. X-509, 2006-01-20,
 Žin., 2006, Nr. 17-604 (2006-02-11)
@@ -1346,9 +1360,9 @@ aptarnauti Audito kokybės kontrolės komitetą ir Auditorių garbės teismą.
 Įstatymo, audito atlikimo kokybės, profesinės veiklos ar Auditorių profesinės
 etikos kodekso pažeidimus auditoriui gali būti iškelta drausmės byla Auditorių
 rūmų prezidiumo arba Audito kokybės kontrolės komiteto siūlymu.
-2. Per 30 dienų nuo
-Auditorių rūmų prezidiumo arba Audito kokybės kontrolės komiteto siūlymo
-iškelti auditoriui drausmės bylą gavimo dienos Auditorių garbės teismas priima
+2. Per 30 dienų nuo Auditorių
+rūmų prezidiumo arba Audito kokybės kontrolės komiteto siūlymo iškelti
+auditoriui drausmės bylą gavimo dienos Auditorių garbės teismas priima
 sprendimą, ar kelti auditoriui drausmės bylą.
  
 52
@@ -1364,17 +1378,16 @@ ministerijos ar jai pavaldžių institucijų skiria finansų ministras;
 kreipimąsi, tarpusavio susitarimu skiria verslininkus vienijančios ir (arba) jų
 savivaldos organizacijos;
 4) 1 narį, gavusios Auditorių rūmų
-kreipimąsi, tarpusavio susitarimu skiria mokslininkus vienijančios
-organizacijos.
+kreipimąsi, tarpusavio susitarimu skiria mokslininkus vienijančios organizacijos.
 2. Auditorių garbės teismo narys
 skiriamas 3 metams. Tie patys asmenys Auditorių garbės teismo nariais gali būti
 skiriami ne ilgiau kaip 2 kadencijoms iš eilės. Kitai kadencijai teismo narys
 paskiriamas per 30 dienų nuo kadenciją baigusio teismo nario kadencijos
 pabaigos. Pasibaigus teismo nario kadencijai, jis toliau eina teismo nario
-pareigas, iki paskiriamas teismo narys kitai kadencijai. Teismo narį skyrusi institucija
-turi teisę jį atšaukti nesibaigus kadencijai, jeigu narys negali tinkamai
-atlikti teismo nario pareigų. Teismo narys gali atsistatydinti nesibaigus jo
-kadencijai.
+pareigas, iki paskiriamas teismo narys kitai kadencijai. Teismo narį skyrusi
+institucija turi teisę jį atšaukti nesibaigus kadencijai, jeigu narys negali
+tinkamai atlikti teismo nario pareigų. Teismo narys gali atsistatydinti
+nesibaigus jo kadencijai.
 3. Auditorių garbės teismas veikia
 vadovaudamasis savo nuostatais. Auditorių garbės teismo nuostatus tvirtina
 Auditorių rūmų narių visuotinis susirinkimas.
@@ -1432,8 +1445,7 @@ dalyje nurodytus pažeidimus, Auditorių garbės teismas gali priimti vieną iš
 sprendimų:
 1) sustabdyti pažymėjimo galiojimą
 nuo 1 iki 3 metų;
-2) panaikinti pažymėjimo
-galiojimą;
+2) panaikinti pažymėjimo galiojimą;
 3) nurodyti pakartotinai laikyti visus arba kai
 kuriuos kvalifikacinius auditoriaus
 egzaminus.
@@ -1484,11 +1496,11 @@ RŪMAI
  
 56
 straipsnis. Auditorių rūmai 
-1. Auditorių rūmai yra viešasis
-juridinis asmuo, turintis antspaudą su savo pavadinimu ir atsiskaitomąją
-sąskaitą. Pagal savo prievoles Auditorių rūmai atsako savo turtu, bet neatsako
-už savo narių prisiimtus įsipareigojimus. Auditorių rūmų nariai neatsako už
-Auditorių rūmų prievoles. 
+1. Auditorių rūmai yra viešasis juridinis
+asmuo, turintis antspaudą su savo pavadinimu ir atsiskaitomąją sąskaitą. Pagal
+savo prievoles Auditorių rūmai atsako savo turtu, bet neatsako už savo narių
+prisiimtus įsipareigojimus. Auditorių rūmų nariai neatsako už Auditorių rūmų
+prievoles. 
 2. Auditorių rūmai savo veikloje
 vadovaujasi Lietuvos Respublikos Konstitucija, Asociacijų įstatymu tiek, kiek
 šis Įstatymas nenustato kitaip, šiuo Įstatymu ir kitais teisės aktais bei savo
@@ -1594,8 +1606,8 @@ mokesčius įstatymų nustatyta tvarka.
 61
 straipsnis. Auditorių rūmų pareigos
 Auditorių rūmų pareigos yra:
-1) rengti
-nacionalinius audito standartus;
+1)
+rengti nacionalinius audito standartus;
 2) rengti audito atlikimo
 metodiką;
 3) rengti Auditorių profesinės
@@ -1732,18 +1744,17 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą
  
 RESPUBLIKOS
 PREZIDENTAS                                                                 VALDAS ADAMKUS
-                                                                                    Lietuvos
+                                                                                                Lietuvos
 Respublikos 
-                                                                                    audito
+                                                                                                audito
 įstatymo 
-                                                                                    priedas
+                                                                                                priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 1. 1978 m. liepos 25 d. Ketvirtoji Tarybos direktyva
 78/660/EEB, grindžiama Europos ekonominės bendrijos steigimo sutarties 54
-straipsnio 3 dalies g punktu, dėl tam tikrų tipų bendrovių metinių
-atskaitomybių.
+straipsnio 3 dalies g punktu, dėl tam tikrų tipų bendrovių metinių atskaitomybių.
 2. 1983 m. birželio 13 d. Septintoji Tarybos direktyva
 83/349/EEB, grindžiama Europos ekonominė bendrijos steigimo sutarties 54
 straipsnio 3 dalies g punktu, dėl konsoliduotos atskaitomybės. 
@@ -1792,8 +1803,8 @@ AUDITO ĮSTATYMO 2, 4, 5,
 2 punkto nuostata, kad kvalifikacinius auditoriaus egzaminus gali laikyti
 Lietuvos Respublikos piliečiai ir užsieniečiai, nuolat gyvenantys Lietuvos
 Respublikoje, jeigu jie turi ne trumpesnį kaip 3 metų auditoriaus padėjėjo
-darbo stažą aukščiausiojoje valstybinio audito institucijoje arba eina šioje institucijoje
-auditoriaus pareigas, galioja iki 2004 m. sausio 1 d.
+darbo stažą aukščiausiojoje valstybinio audito institucijoje arba eina šioje
+institucijoje auditoriaus pareigas, galioja iki 2004 m. sausio 1 d.
  
 4.
 Lietuvos
@@ -1838,10 +1849,22 @@ Nr. X-716, 2006-06-22,
 AUDITO ĮSTATYMO 3, 28, 31, 34
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+8.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. X-1307,
+2007-10-25, Žin., 2007, Nr. 117-4776 (2007-11-15)
+AUDITO ĮSTATYMO 2 STRAIPSNIO
+PAKEITIMO
+Šis įstatymas įsigalioja Lietuvos
+Respublikos kolektyvinio investavimo subjektų įstatymo pakeitimo įstatymo
+įsigaliojimo dieną, t. y. nuo 2008 m. kovo 1 d.
+ 
 ***
 Pabaiga ***
  
+ 
 Redagavo:
-Aušrinė Trapinskienė (2006-07-17)
+Aušrinė Trapinskienė (2007-11-16)
                  
 autrap@lrs.lt
