@@ -87,9 +87,10 @@ stotelėse arba pagal pageidavimą vietose, kuriose nedraudžia sustoti Kelių
 eismo taisyklės.
 9. Bendrojo
 lavinimo mokyklos - darželiai-mokyklos, pradinės, pagrindinės, jaunimo,
-vidurinės mokyklos, gimnazijos, tarptautinio bakalaureato mokyklos, specialiosios,
-internatinės, specialiosios internatinės, sanatorinės internatinės mokyklos,
-vaikų globos namai, specialieji vaikų globos ir auklėjimo namai.
+vidurinės mokyklos, gimnazijos, tarptautinio bakalaureato mokyklos,
+specialiosios, internatinės, specialiosios internatinės, sanatorinės
+internatinės mokyklos, vaikų globos namai, specialieji vaikų globos ir
+auklėjimo namai.
 10. Profesinio
 mokymo įstaigos - profesinės mokyklos ir specializuotos (reabilitacinės)
 profesinės mokyklos (centrai), įgyvendinančios pagrindinį profesinį mokymą.
@@ -132,37 +133,16 @@ lengvaisiais automobiliais taksi ir maršrutiniais taksi.
 straipsnis. Teisė važiuoti nemokamai
 1. Kiekvienam keleiviui
 suteikiama teisė nemokamai vežtis vietinio (miesto ir priemiestinio)
-reguliaraus susisiekimo autobusais ir troleibusais, tolimojo reguliaraus susisiekimo
-autobusais, keleiviniais traukiniais, reguliaraus susisiekimo laivais ir
-keltais du vaikus iki 7 metų neužimant atskiros sėdimos ar miegamos vietos.
+reguliaraus susisiekimo autobusais ir troleibusais, tolimojo reguliaraus
+susisiekimo autobusais, keleiviniais traukiniais, reguliaraus susisiekimo
+laivais ir keltais du vaikus iki 7 metų neužimant atskiros sėdimos ar miegamos
+vietos.
 2. Teisė važiuoti keleiviniu
 transportu nemokamai suteikiama keleivinį transportą kontroliuojantiems
 pareigūnams Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
  
 5
 straipsnis. Teisė įsigyti važiavimo bilietą su nuolaida
-1 dalies redakcija iki 2007 m.
-sausio 1 d.:
-1.
-Teisę įsigyti vienkartinį važiavimo tolimojo reguliaraus susisiekimo autobusais,
-keleiviniais traukiniais bei vienkartinį arba terminuotą vardinį važiavimo
-vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir
-troleibusais, reguliaraus susisiekimo laivais ir keltais bilietą su 80 procentų
-nuolaida turi asmenys, kuriems nustatytas neįgalumo lygis, ar asmenys,
-pripažinti nedarbingais, ar asmenys, sukakę senatvės pensijos amžių, kuriems
-teisės aktų nustatyta tvarka yra nustatytas didelių specialiųjų poreikių lygis,
-į Sveikatos apsaugos ministerijos nustatytą sąrašą įrašytomis ligomis sergantys
-asmenys, kuriems gydyti nuolat reikalinga hemodializė, bei juos lydintys
-asmenys (vienam asmeniui – vienas lydintysis); taip pat sukakę 85 metus ir
-vyresni asmenys; Lietuvos Respublikos nepriklausomybės gynėjai, pripažinti iš dalies
-darbingais ar sukakę senatvės pensijos amžių, kuriems teisės aktų nustatyta
-tvarka yra nustatytas vidutinių specialiųjų poreikių lygis dėl 1991 m. sausio
-11–13 d. ir po to vykdytos SSRS agresijos; žuvusių Lietuvos Respublikos
-nepriklausomybės gynėjų šeimų nariai, nukentėję nuo 1991 m. sausio 11–13
-d. ir po to vykdytos SSRS agresijos; pasipriešinimo 1940–1990 metų
-okupacijoms dalyviai – kariai savanoriai, sukakę 70 metų ir vyresni.
-1 dalies redakcija nuo 2007 m.
-sausio 1 d.:
 1. Teisę įsigyti
 vienkartinį važiavimo tolimojo reguliaraus susisiekimo autobusais, keleiviniais
 traukiniais bei vienkartinį arba terminuotą vardinį važiavimo vietinio (miesto
@@ -177,33 +157,23 @@ asmenys, kuriems gydyti nuolat reikalinga hemodializė, bei juos lydintys
 asmenys (vienam asmeniui – vienas lydintysis); taip pat sukakę 80 metų ir
 vyresni asmenys; Lietuvos Respublikos nepriklausomybės gynėjai, pripažinti iš
 dalies darbingais ar sukakę senatvės pensijos amžių, kuriems teisės aktų
-nustatyta tvarka yra nustatytas vidutinių specialiųjų poreikių lygis dėl 1991
-m. sausio 11–13 d. ir po to
+nustatyta tvarka yra nustatytas vidutinių specialiųjų poreikių lygis dėl 1991 m.
+sausio 11–13 d. ir po to
 vykdytos SSRS agresijos; žuvusių Lietuvos Respublikos nepriklausomybės gynėjų
 šeimų nariai, nukentėję nuo 1991 m. sausio 11–13 d. ir po to
-vykdytos SSRS agresijos; pasipriešinimo 1940–1990 metų okupacijoms
-dalyviai – kariai savanoriai, sukakę 70 metų ir vyresni.
- 
+vykdytos SSRS agresijos; pasipriešinimo 1940–1990 metų
+okupacijoms dalyviai – kariai savanoriai, sukakę 70 metų ir vyresni.
 2.
 Teisę įsigyti vienkartinį važiavimo tolimojo reguliaraus susisiekimo
 autobusais, keleiviniais traukiniais bei vienkartinį arba terminuotą vardinį
 važiavimo vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais
 ir troleibusais, reguliaraus susisiekimo laivais ir keltais bilietą su 50
 procentų nuolaida turi:
- 
-2 dalies 1 punkto redakcija iki
-2007 m. sausio 1 d.:
-1) asmenys, pripažinti iš dalies
-darbingais, ar asmenys, sukakę senatvės pensijos amžių, kuriems teisės aktų
-nustatyta tvarka yra nustatytas vidutinių specialiųjų poreikių lygis;
-2 dalies 1 punkto redakcija nuo
-2007 m. sausio 1 d.:
 1)
 asmenys, pripažinti iš dalies darbingais, ar asmenys, sukakę senatvės pensijos
 amžių, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinių
 specialiųjų poreikių lygis, ar asmenys, iki 2005 m. liepos 1 d. pripažinti II
 grupės invalidais;
- 
 2)
 pasipriešinimo 1940-1990 metų okupacijoms dalyviai – kariai savanoriai,
 jaunesni nei 70 metų, ir laisvės kovų dalyviai;
@@ -214,15 +184,8 @@ stovyklų kaliniai;
 4) Lietuvos Respublikos nepriklausomybės
 gynėjai, nukentėję nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSSR
 agresijos;
- 
-2 dalies 5 punkto redakcija iki
-2007 m. sausio 1 d.:
-5) asmenys nuo 70 iki 85 metų.
-2 dalies 5 punkto redakcija nuo
-2007 m. sausio 1 d.:
 5)
 asmenys nuo 70 iki 80 metų.
- 
 3.
 Teisę įsigyti vienkartinį važiavimo tolimojo reguliaraus susisiekimo autobusais
 bei vienkartinį arba terminuotą važiavimo keleiviniais traukiniais bilietą su
@@ -275,6 +238,8 @@ X-189,
 Nr. X-576, 2006-04-25,
 Žin., 2006, Nr. 53-1929 (2006-05-13)
  
+6 straipsnio redakcija iki 2008
+m. sausio 1 d.:
 6
 straipsnis. Važiavimo išlaidų kompensavimas moksleiviams, vaikų globos įstaigų 
 gyventojams
@@ -299,10 +264,43 @@ moksleivio pažymėjime nurodytu maršrutu vietinio (priemiestinio) reguliaraus
 susisiekimo autobusais, tolimojo reguliaraus
 susisiekimo autobusais, keleiviniais traukiniais bei reguliaraus
 susisiekimo laivais ir keltais.
+6 straipsnio redakcija nuo 2008
+m. sausio 1 d.:
+6 straipsnis. Važiavimo išlaidų kompensavimas
+mokiniams, vaikų globos įstaigų gyventojams, mokytojams ir gydytojams 
+Savivaldybės,
+kurių teritorijoje yra švietimo ir sveikatos priežiūros įstaigos, savo
+nustatyta tvarka kompensuoja visas važiavimo išlaidas:
+1) kaimuose ir miesteliuose gyvenantiems
+bendrojo lavinimo mokyklų, profesinio mokymo įstaigų ir neformaliojo vaikų
+švietimo įstaigų mokiniams, šių mokyklų ar įstaigų darbo dienomis važiavusiems
+į mokyklą ar įstaigą iki 40 km ir atgal mokinio pažymėjime nurodytu maršrutu
+vietinio (priemiestinio) reguliaraus susisiekimo autobusais, tolimojo
+reguliaraus susisiekimo autobusais, keleiviniais traukiniais bei reguliaraus
+susisiekimo laivais ir keltais; neformaliojo vaikų švietimo įstaigų mokiniams
+ši lengvata taikoma ir ne darbo dienomis;
+2)
+vaikų globos namuose, specialiuosiuose
+vaikų globos ir auklėjimo namuose gyvenantiems našlaičiams ir likusiems be tėvų
+globos vaikams, internatinių bei kitų bendrojo lavinimo mokyklų ir profesinio
+mokymo įstaigų bendrabučiuose gyvenantiems mokiniams, važiavusiems mokinio
+pažymėjime nurodytu maršrutu vietinio (priemiestinio) reguliaraus susisiekimo
+autobusais, tolimojo reguliaraus susisiekimo autobusais,
+keleiviniais traukiniais bei reguliaraus susisiekimo laivais ir keltais;
+3) kaimuose ir
+miesteliuose esančių bendrojo lavinimo mokyklų, profesinio mokymo įstaigų ir
+neformaliojo vaikų ir suaugusiųjų švietimo įstaigų mokytojams, kaimuose ir
+miesteliuose esančių sveikatos priežiūros įstaigų gydytojams, jų darbo šiose
+mokyklose ar įstaigose dienomis važiavusiems į darbą iki 40 km ir atgal
+vietinio (priemiestinio) reguliaraus susisiekimo autobusais, tolimojo
+reguliaraus susisiekimo autobusais, keleiviniais traukiniais bei reguliaraus
+susisiekimo laivais ir keltais.
 Straipsnio pakeitimai:
 Nr.
 IX-2581,
 2004-11-11, Žin., 2004, Nr. 171-6324 (2004-11-26)
+Nr. X-1312, 2007-11-06, Žin., 2007, Nr. 120-4879
+(2007-11-22)
  
 7
 straipsnis. Teisė į transporto išlaidų kompensaciją
@@ -491,10 +489,21 @@ LENGVATŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja nuo 2007 m. sausio 1 d.
  
+8.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-1312, 2007-11-06, Žin., 2007, Nr. 120-4879 (2007-11-22)
+TRANSPORTO
+LENGVATŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2008 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
  
+ 
 Redagavo:
-Aušrinė Trapinskienė (2006-05-16)
+Aušrinė Trapinskienė (2007-11-22)
                  
 autrap@lrs.lt
