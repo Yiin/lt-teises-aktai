@@ -1276,8 +1276,7 @@ saugoti
 visas man patikėtas paslaptis;
 pasižadu
 būti doras ir garbingas Lietuvos karys.“
-3. (Neteko galios nuo 2005 m.
-gruodžio 8 d.)
+3. (Neteko galios nuo 2005 m. gruodžio 8 d.)
 4. Lietuvos kario priesaiką
 duoda:
 1) privalomosios pradinės karo
@@ -3341,20 +3340,21 @@ apsaugos ministro patvirtinto pavyzdžio antkapinis paminklas. Jeigu kario
 artimieji palaidoja žuvusį ar mirusį karį šeimos kape ir stato kitokį nei kario
 paminklą, Krašto apsaugos ministerija apmoka paminklo išlaidų dalį,
 neviršijančią kario antkapinio paminklo vertės. 
+ 
+6, 7 ir
+8 dalių redakcija iki 2008 m. sausio 1 d.:
 6. Šio įstatymo
 59 straipsnyje numatytų nėštumo ir gimdymo atostogų laikotarpiu profesinės karo
 tarnybos kariams mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis
 jų atlyginimas, o vaiko priežiūros, kol jam sueis vieni metai, atostogų
-laikotarpiu – 70 procentų šia tvarka apskaičiuoto vidutinio jų atlyginimo. Nuo
-2007 m. sausio 1 d. vaiko priežiūros, kol jam sueis vieni metai, atostogų
-laikotarpiu profesinės karo tarnybos kariams mokama 85 procentai Vyriausybės
-nustatyta tvarka apskaičiuoto vidutinio jų atlyginimo, nuo 2007 m. liepos 1 d.
-šios išmokos dydis nuo nėštumo ir gimdymo atostogų pabaigos, kol vaikui sueis 6
-mėnesiai, – 100 procentų, o likusį laiką – 85 procentai Vyriausybės nustatyta
-tvarka apskaičiuoto vidutinio jų atlyginimo. Profesinės karo tarnybos kariams,
-jeigu gimsta du ir daugiau vaikų, vaiko priežiūros, kol jam sueis vieni metai,
-atostogų laikotarpiu mokamas Vyriausybės nustatyta tvarka apskaičiuotas
-vidutinis jų atlyginimas.
+laikotarpiu – 70 procentų šia tvarka apskaičiuoto vidutinio jų atlyginimo. Nuo 2007 m. sausio 1 d. vaiko priežiūros, kol jam sueis vieni metai, atostogų laikotarpiu profesinės karo
+tarnybos kariams mokama 85 procentai Vyriausybės nustatyta tvarka apskaičiuoto
+vidutinio jų atlyginimo, nuo 2007 m. liepos 1 d. šios išmokos dydis nuo nėštumo
+ir gimdymo atostogų pabaigos, kol vaikui sueis 6 mėnesiai, – 100 procentų, o
+likusį laiką – 85 procentai Vyriausybės nustatyta tvarka apskaičiuoto vidutinio
+jų atlyginimo. Profesinės karo tarnybos kariams, jeigu gimsta du ir daugiau
+vaikų, vaiko priežiūros, kol jam sueis vieni metai, atostogų laikotarpiu
+mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų atlyginimas.
 7. Šio įstatymo 59
 straipsnyje numatytų tėvystės atostogų laikotarpiu profesinės karo tarnybos
 kariams mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų
@@ -3371,6 +3371,54 @@ tarnybos karys pateikia krašto apsaugos ministro nustatytos formos pažymą,
 pasirašytą karinio vieneto, kuriame jis tarnauja, vado, neskaičiuojami
 mokesčiai už komunalines paslaugas (šiukšlių išvežimą, liftą, bendro naudojimo
 patalpų ir teritorijos valymą ir kitas), kuriomis karys nesinaudoja.
+6 dalis
+pakeičiama, straipsnis papildomas nauja 7 dalimi, buvusi 7 dalis laikoma 8
+dalimi ir ji pakeičiama, buvusi 8 dalis laikoma 9 dalimi nuo 2008 m. sausio 1 d.:
+6. Šio įstatymo 59 straipsnyje
+numatytų nėštumo ir gimdymo atostogų laikotarpiu profesinės karo tarnybos
+kariams mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų atlyginimas,
+o vaiko priežiūros atostogų laikotarpiu nuo nėštumo ir gimdymo atostogų
+pabaigos, kol vaikui sueis vieni metai, – 100 procentų, o kol vaikui sueis
+dveji metai, – 85 procentai šia tvarka apskaičiuoto vidutinio jų atlyginimo.
+Jeigu profesinės karo tarnybos kariui gimsta du ir daugiau vaikų, ir jis yra
+šių vaikų priežiūros atostogose, išmoka didinama atsižvelgiant į vienu metu
+gimusių vaikų skaičių (gimus dvynukams – 2 kartus, gimus trynukams – 3 kartus
+ir t. t.). Išmoka už nėštumo ir gimdymo laikotarpį didinama tokia pat tvarka.
+Kai profesinės karo tarnybos karei, gaunančiai išmoką vaiko priežiūros atostogų
+laikotarpiu, suteikiamos nėštumo ir gimdymo atostogos ir ji įgyja teisę gauti
+išmoką nėštumo ir gimdymo atostogų laikotarpiu, jai mokamos abi šios išmokos.
+7. Jeigu profesinės karo tarnybos
+karys, kuris buvo ar yra išleistas vaiko priežiūros atostogų, kol vaikui sueis
+dveji metai, gauna atlyginimą, kuris yra mažesnis už šio straipsnio 6 dalyje
+nurodytą išmoką, laikotarpiu, kol vaikui sueis dveji metai, mokamas šios
+išmokos ir jo gaunamo atitinkamo mėnesio tarnybinio atlyginimo skirtumas.
+8. Šio įstatymo 59 straipsnyje
+numatytų tėvystės atostogų laikotarpiu profesinės karo tarnybos kariui mokamas
+Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jo atlyginimas, jeigu jis
+pripažino tėvystę.
+9. Privalomosios
+pradinės karo tarnybos kariams, nuosavybės teise turintiems arba nuomojantiems
+valstybės ar savivaldybės gyvenamojo fondo butą (gyvenamąjį namą), taip pat
+mažas pajamas turinčioms privalomosios pradinės karo tarnybos karių šeimoms
+kario tarnybos metu Vyriausybės nustatyta tvarka ir sąlygomis iš Krašto
+apsaugos ministerijai valstybės biudžete numatytų asignavimų kompensuojama
+dalis buto (gyvenamojo namo) šilumos tiekimo ir su namo bendrosios dalinės nuosavybės
+išlaikymu susijusių išlaidų. Jei privalomosios pradinės karo tarnybos karys
+pateikia krašto apsaugos ministro nustatytos formos pažymą, pasirašytą karinio
+vieneto, kuriame jis tarnauja, vado, neskaičiuojami mokesčiai už komunalines
+paslaugas (šiukšlių išvežimą, liftą, bendro naudojimo patalpų ir teritorijos
+valymą ir kitas), kuriomis karys nesinaudoja.
+ 
+Pastaba.
+Įsigaliojus šiam įstatymui (Nr. X-1343),
+profesinės karo tarnybos kariams iki tol mokama išmoka pagal Lietuvos
+Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 68
+straipsnio 6 dalį, vadovaujantis šio įstatymo nuostatomis, atitinkamai
+perskaičiuojama, padidinama ir (ar) pratęsiamas jos mokėjimo laikotarpis.
+Profesinės karo tarnybos kariams,
+esantiems vaiko priežiūros atostogose (nepaisant to, ar vaiko priežiūros
+atostogos tęsiamos, ar suteikiamos iš naujo), kuriems išmokos mokėjimo laikas
+buvo pasibaigęs, nes vaikui (vaikams) suėjo vieni metai, nuo 2008 m. sausio 1 d. mokėjimas tęsiamas, jeigu vaikui (vaikams) dar nėra suėję dveji metai.
 Straipsnio
 pakeitimai:
 Nr. VIII-1289,
@@ -3383,6 +3431,8 @@ Nr. X-123, 2005-02-15,
 Nr.
 X-662,
 2006-06-08, Žin., 2006, Nr. 72-2679 (2006-06-28)
+Nr. X-1343,
+2007-12-04, Žin., 2007, Nr. 132-5351 (2007-12-15)
  
 69
 straipsnis. Privalomąją karo tarnybą atlikusių karių skatinimas
@@ -3397,9 +3447,9 @@ privalomąją tarnybą ir ištarnavęs bent 2 metus liktiniu, išėjęs į atsar
 papildomų lengvatų, kurias nustato kiti įstatymai. 
 3. Išleidžiamas į atsargą karys
 savanoris, kuris pavyzdingai ištarnavo savanoriu ne mažiau kaip 5 metus ir
-sukako nustatytą ribinį tarnybos aktyviajame rezerve amžių, premijuojamas už
-pavyzdingą tarnybą. Premijos dydį nustato vadas, atsižvelgdamas į kario tarnybą
-ir neviršydamas šių maksimalių dydžių:
+sukako nustatytą ribinį tarnybos aktyviajame rezerve amžių, premijuojamas už pavyzdingą
+tarnybą. Premijos dydį nustato vadas, atsižvelgdamas į kario tarnybą ir
+neviršydamas šių maksimalių dydžių:
 1) kariui savanoriui,
 ištarnavusiam nuo 5 iki 10 metų, - iki 2 Vyriausybės nustatytų aktyvaus rezervo
 tarnybos kario mėnesinių tarnybinių atlyginimų dydžio; 
@@ -3438,8 +3488,8 @@ apsaugos tarnybą pagal civilinės krašto apsaugos tarnybos sutartis;
 tarnyba nustatyta tvarka atliekama krašto apsaugos sistemos institucijose,
 kitose valstybės institucijose, taip pat užsienio valstybių bei tarptautinėse
 karinėse ir gynybos institucijose, kai tarnybinėms funkcijoms atlikti
-nebūtina būti profesinės karo tarnybos kariu, tačiau reikia turėti specialių
-žinių ir (ar) patirties krašto apsaugos sistemoje, ir tarnybos specifikai ar
+nebūtina būti profesinės karo tarnybos kariu, tačiau reikia turėti specialių žinių
+ir (ar) patirties krašto apsaugos sistemoje, ir tarnybos specifikai ar
 atliekamoms funkcijoms būtini statutiniai santykiai.
 3. Atsižvelgdama į šio straipsnio
 2 dalies sąlygas ir būtinumą užtikrinti krašto apsaugos sistemos civilinio
@@ -3461,12 +3511,13 @@ Nr. IX-1727,
 straipsnis. Civilinės krašto apsaugos tarnybos ypatumai
 1.
 Tarnautojams, atliekantiems civilinę krašto apsaugos tarnybą:
-1) taikomos
-šio įstatymo 73 straipsnyje numatytos būtinosios sąlygos bei apribojimai ir
-civilinės krašto apsaugos tarnybos statuto nustatyti reikalavimai bei sąlygos.
-Antrajame operatyvinių tarnybų departamente prie Krašto apsaugos ministerijos
-atliekantiems civilinę krašto apsaugos tarnybą tarnautojams taikomi tarnybos
-šiame departamente statuto nustatyti reikalavimai ir sąlygos;
+1)
+taikomos šio įstatymo 73 straipsnyje numatytos būtinosios sąlygos bei
+apribojimai ir civilinės krašto apsaugos tarnybos statuto nustatyti
+reikalavimai bei sąlygos. Antrajame operatyvinių tarnybų departamente prie
+Krašto apsaugos ministerijos atliekantiems civilinę krašto apsaugos tarnybą
+tarnautojams taikomi tarnybos šiame departamente statuto nustatyti reikalavimai
+ir sąlygos;
 2) Civilinės krašto apsaugos tarnybos statuto arba Tarnybos Antrajame
 operatyvinių tarnybų departamente prie Krašto apsaugos ministerijos statuto
 nustatyta tvarka gali būti suteikiamos kvalifikacinės kategorijos;
@@ -3475,31 +3526,31 @@ taikomos tarnybos apmokėjimo sąlygos, nurodytos šio įstatymo 75 straipsnyje;
 4)
 taikomos šio įstatymo 76 straipsnyje nustatytos aprūpinimo tarnybine uniforma
 sąlygos.
-2. Tarnautojams,
-su kuriais sudaroma civilinės krašto apsaugos tarnybos sutartis, Vyriausybės
-nustatyta tvarka taikomos aprūpinimo sąlygos ir socialinės garantijos, kurios
-numatytos profesinės karo tarnybos kariams šio įstatymo 66 straipsnyje ir 68
-straipsnio 4 dalyje. Jiems taip pat gali būti taikomos 63 straipsnio 4, 5, 6, 7
-ir 8 dalyse numatytos aprūpinimo tarnybiniu butu sąlygos. Šiose
-dalyse numatytos aprūpinimo sąlygos ir socialinės garantijos taikomos
-tokia pat tvarka kaip ir profesinės karo tarnybos kariams, išskyrus nuomos
-mokestį už tarnybinį butą, kurį jie moka bendra valstybės tarnautojams
+2.
+Tarnautojams, su kuriais sudaroma civilinės krašto apsaugos tarnybos sutartis,
+Vyriausybės nustatyta tvarka taikomos aprūpinimo sąlygos ir socialinės garantijos,
+kurios numatytos profesinės karo tarnybos kariams šio įstatymo 66 straipsnyje
+ir 68 straipsnio 4 dalyje. Jiems taip pat gali būti taikomos 63 straipsnio 4,
+5, 6, 7 ir 8 dalyse numatytos aprūpinimo tarnybiniu butu sąlygos.
+Šiose dalyse numatytos aprūpinimo sąlygos ir socialinės garantijos
+taikomos tokia pat tvarka kaip ir profesinės karo tarnybos kariams, išskyrus
+nuomos mokestį už tarnybinį butą, kurį jie moka bendra valstybės tarnautojams
 nustatyta tvarka.
 3. Asmenis, įstojusius
 į civilinę krašto apsaugos tarnybą tarptautinių operacijų kariniame
 vienete, darbdaviai
 privalo atleisti nuo darbo jų rengimosi tarnybai
 tarptautinėse operacijose ir tarnybos tarptautinėse operacijose metu. Šiuo
-laikotarpiu tokius asmenis draudžiama įspėti apie darbo sutarties
-nutraukimą ir atleisti iš darbo, išskyrus Darbo kodekso 136 straipsnio 1 dalyje
-nustatytus atvejus.
+laikotarpiu tokius asmenis draudžiama įspėti apie darbo sutarties nutraukimą
+ir atleisti iš darbo, išskyrus Darbo kodekso 136 straipsnio 1 dalyje nustatytus
+atvejus.
 4. Asmenys, stojantys ar įstoję į
 civilinę krašto apsaugos tarnybą, krašto apsaugos sistemoje nustatyto turinio
 anketoje įstatymų ir kitų teisės aktų nustatyta tvarka privalo pateikti
-duomenis apie save, savo ryšius ir interesus, galinčius turėti reikšmės valstybės
-paslapčių apsaugai, tarnybos pareigų vykdymui ar galinčius būti interesų
-konflikto priežastimi. Šie duomenys tikrinami. Nuslėpęs ar sąmoningai pateikęs
-neteisingus duomenis asmuo traukiamas atsakomybėn pagal įstatymą. Su
+duomenis apie save, savo ryšius ir interesus, galinčius turėti reikšmės
+valstybės paslapčių apsaugai, tarnybos pareigų vykdymui ar galinčius būti
+interesų konflikto priežastimi. Šie duomenys tikrinami. Nuslėpęs ar sąmoningai
+pateikęs neteisingus duomenis asmuo traukiamas atsakomybėn pagal įstatymą. Su
 nuslėpusiuoju ar sąmoningai pateikusiuoju neteisingus duomenis gali būti
 nutraukta civilinės krašto apsaugos tarnybos sutartis ir jis atleistas iš
 tarnybos krašto apsaugos sistemoje.
@@ -3518,8 +3569,8 @@ Nr.42-1194 (00.05.24)
 Nr.
 IX-1359,
 2003-03-13, Žin., 2003, Nr. 32-1308 (2003-04-02)
-Nr. IX-1727, 2003-09-11,
-Žin., 2003, Nr. 91(1)-4106 (2003-09-26)
+Nr. IX-1727,
+2003-09-11, Žin., 2003, Nr. 91(1)-4106 (2003-09-26)
 Nr. X-1084,
 2007-04-12, Žin., 2007, Nr. 46-1718 (2007-04-26)
  
@@ -3669,9 +3720,9 @@ tarptautinių operacijų kariniuose vienetuose, papildomos socialinės garantijo
 Civiliams statutiniams valstybės
 tarnautojams, atliekantiems civilinę krašto apsaugos tarnybą tarptautinių
 operacijų kariniuose vienetuose, taikomos šio įstatymo 65 ir 67 straipsniuose
-nustatytos garantijos. Taikant šio įstatymo 67 straipsnyje nustatytas
-garantijas, jame nustatyto dydžio kompensacijos apskaičiuojamos pagal vidutinį
-žuvusio ar nukentėjusio tarnautojo darbo užmokestį.
+nustatytos garantijos. Taikant šio įstatymo 67 straipsnyje nustatytas garantijas,
+jame nustatyto dydžio kompensacijos apskaičiuojamos pagal vidutinį žuvusio ar
+nukentėjusio tarnautojo darbo užmokestį.
 Įstatymas
 papildytas straipsniu:
 Nr.
@@ -3708,7 +3759,6 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                     VALDAS ADAMKUS
- 
 _________________
  
 Pakeitimai:
@@ -3718,9 +3768,9 @@ Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. VIII-1027,
 99.01.14, Žin., 1999, Nr.11-246 (99.01.27)
-LIETUVOS RESPUBLIKOS
-KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 14, 36, 55
-STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
+LIETUVOS
+RESPUBLIKOS KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 14,
+36, 55 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
  
 2.
 Lietuvos
@@ -3757,8 +3807,8 @@ Nr.
 IX-1072,
 2002-09-12, Žin., 2002, Nr. 95-4084 (2002-10-02)
 KRAŠTO
-APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 38 STRAIPSNIO PAKEITIMO
-ĮSTATYMAS
+APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 38 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
  
 6.
 Lietuvos Respublikos Seimas,
@@ -3788,7 +3838,7 @@ ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 66 IR 67 STRAIPSNIŲ PAKEITIMO ĮSTATYMA
 Šis Įstatymas
 įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir
 Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
-2003 m. gegužės 1 d. 
+ 2003 m. gegužės 1 d. 
  
 9.
 Lietuvos Respublikos Seimas,
@@ -3908,12 +3958,32 @@ ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 77(1) STRAIPSNIO PAKEITIMO ĮSTATYMAS
 19.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. X-1084,
-2007-04-12, Žin., 2007, Nr. 46-1718 (2007-04-26)
+Nr. X-1084, 2007-04-12,
+Žin., 2007, Nr. 46-1718 (2007-04-26)
 KRAŠTO APSAUGOS SISTEMOS
 ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 22, 72 IR 73 STRAIPSNIŲ PAKEITIMO IR
 PAPILDYMO ĮSTATYMAS
  
+20.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. X-1343,
+2007-12-04, Žin., 2007, Nr. 132-5351 (2007-12-15)
+KRAŠTO APSAUGOS SISTEMOS
+ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 68 STRAIPSNIO PAKEITIMO IR PAPILDYMO
+ĮSTATYMAS
+Šis įstatymas
+įsigalioja 2008 m. sausio 1 d.
+Įsigaliojus šiam
+įstatymui, profesinės karo tarnybos kariams iki tol mokama išmoka pagal
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos
+įstatymo 68 straipsnio 6 dalį, vadovaujantis šio įstatymo nuostatomis,
+atitinkamai perskaičiuojama, padidinama ir (ar) pratęsiamas jos mokėjimo
+laikotarpis.
+Profesinės karo
+tarnybos kariams, esantiems vaiko priežiūros atostogose (nepaisant to, ar vaiko
+priežiūros atostogos tęsiamos, ar suteikiamos iš naujo), kuriems išmokos
+mokėjimo laikas buvo pasibaigęs, nes vaikui (vaikams) suėjo vieni metai, nuo 2008 m. sausio 1 d. mokėjimas tęsiamas, jeigu vaikui (vaikams) dar nėra suėję dveji metai.
  
 ***
 Pabaiga ***
@@ -3938,6 +4008,6 @@ Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2007-05-02)
+Aušrinė Trapinskienė (2007-12-19)
                  
 autrap@lrs.lt
