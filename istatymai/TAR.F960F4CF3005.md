@@ -29,7 +29,6 @@ Nauja įstatymo
 redakcija:
 Nr. IX-566,
 2001-10-23, Žin., 2001, Nr. 94-3307 (2001-11-09)
- 
 PIRMASIS SKIRSNIS 
 BENDROSIOS
 NUOSTATOS
@@ -40,8 +39,8 @@ straipsnis. Įstatymo paskirtis
 šaltinius ir savivaldybių biudžetams skiriamų valstybės biudžeto dotacijų bei
 lėšų apskaičiavimo, tvirtinimo ir pervedimo tvarką.
  
-ANTRASIS
-SKIRSNIS 
+ANTRASIS SKIRSNIS
+
 SAVIVALDYBIŲ
 BIUDŽETŲ PAJAMOS
  
@@ -77,7 +76,7 @@ juridiniai asmenys.
 Straipsnio
 pakeitimai:
 Nr. IX-1235,
-2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24), įsigalioja nuo 2003-01-01
+2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
  
 4
 straipsnis. Valstybės biudžeto dotacijos savivaldybių biudžetams 
@@ -91,8 +90,8 @@ DOTACIJŲ IR LĖŠŲ NUSTATYMO TVARKA
  
 5 straipsnis. Valstybės biudžeto
 dotacijos ir jų dydžio nustatymas
-1. Valstybės biudžeto bendroji dotacija (BD) savivaldybių biudžetams
-skiriama: 
+1. Valstybės biudžeto bendroji dotacija (BD) savivaldybių
+biudžetams skiriama: 
 1) savivaldybių gyventojų pajamų mokesčiui išlyginti (BD1),
 kai prognozuojama, kad Valstybės iždo sąskaitoje trūks šiam tikslui lėšų,
 apskaičiuotų pagal šio Įstatymo 6 ir 7 straipsnius (kai åL1i
@@ -123,8 +122,8 @@ biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų finansinių
 rodiklių patvirtinimo įstatymu.
 Straipsnio
 pakeitimai:
-Nr. IX-1235, 2002-12-10,
-Žin., 2002, Nr. 123-5527 (2002-12-24), įsigalioja nuo 2003-01-01
+Nr. IX-1235,
+2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
  
 6 straipsnis. Lėšų, skiriamų
 savivaldybių gyventojų pajamų mokesčiui ir
@@ -143,7 +142,7 @@ punktas, (L = åPi).]
 Straipsnio
 pakeitimai:
 Nr. IX-1235,
-2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24), įsigalioja nuo 2003-01-01
+2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
  
 7 straipsnis. Lėšų, skiriamų
 savivaldybių gyventojų pajamų mokesčiui išlyginti, 
@@ -189,8 +188,8 @@ BD1i= BD1 · [Gi · h · (xf – xif
 biudžeto bendrosios dotacijos dalis gyventojų pajamų mokesčiui išlyginti;
 2) BD1 – valstybės biudžeto bendrosios dotacijos
 dalis gyventojų pajamų mokesčiui išlyginti;
-3) xf – faktinės (arba numatomos faktiškai gauti)
-biudžetinių metų visų savivaldybių vidutinės pajamos iš gyventojų pajamų
+3) xf – faktinės (arba numatomos faktiškai
+gauti) biudžetinių metų visų savivaldybių vidutinės pajamos iš gyventojų pajamų
 mokesčio vienam gyventojui;
 4) xif – faktinės (arba numatomos faktiškai
 gauti) biudžetinių metų i-osios savivaldybės vidutinės pajamos iš gyventojų
@@ -201,7 +200,7 @@ nustatytos Mokesčių ir kitų įmokų į biudžetus apyskaitos duomenis.]
 Straipsnio
 pakeitimai:
 Nr. IX-1235,
-2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24), įsigalioja nuo 2003-01-01
+2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
  
 8 straipsnis. Lėšų, skiriamų savivaldybių išlaidų struktūrų
 skirtumams išlyginti, 
@@ -245,15 +244,15 @@ išlaidų struktūrų skirtumams išlyginti;
 – koeficientas, nurodantis n-ojo demografinio, socialinio ar kito rodiklio
 įtaką visų savivaldybių išlaidų struktūrai ;
 3) Eni – i-ajai savivaldybei
-tenkanti visų savivaldybių n-ojo demografinio, socialinio ar kito rodiklio dalis,
-apskaičiuojama pagal formulę , čia Rni
+tenkanti visų savivaldybių n-ojo demografinio, socialinio ar kito rodiklio
+dalis, apskaičiuojama pagal formulę , čia Rni
 – i-osios savivaldybės n-ojo rodiklio reikšmė. Skaičiuojant Eni,
 imama Rni tik tų savivaldybių, kurių gyventojų pajamų mokesčio
 dalis, patvirtinta šio Įstatymo priedėlyje, yra 100 procentų.]
 Straipsnio
 pakeitimai:
 Nr. IX-1235,
-2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24), įsigalioja nuo 2003-01-01
+2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
  
 KETVIRTASIS
 SKIRSNIS
@@ -296,17 +295,17 @@ duomenų bazėse.]
 Straipsnio
 pakeitimai:
 Nr. IX-1235,
-2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24), įsigalioja nuo 2003-01-01
+2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
  
 10
 straipsnis. Finansinių rodiklių tvirtinimas bei lėšų pervedimas 
 1. Vyriausybė, su Lietuvos savivaldybių asociacija
 apsvarsčiusi, kasmet teikia Seimui tvirtinti šiuos metų rodiklius:
-1) gyventojų pajamų mokesčio dalį,
-tenkančią visų savivaldybių biudžetams nuo įplaukų į nacionalinį biudžetą.
-Gyventojų pajamų mokesčio dalis koreguojama atsižvelgiant į einamųjų ar
-ateinančių biudžetinių metų Seimo ir Vyriausybės sprendimų nulemtus
-savivaldybių išlaidų ar pajamų pokyčius;
+1) gyventojų pajamų mokesčio dalį, tenkančią
+visų savivaldybių biudžetams nuo įplaukų į nacionalinį biudžetą. Gyventojų
+pajamų mokesčio dalis koreguojama atsižvelgiant į einamųjų ar ateinančių
+biudžetinių metų Seimo ir Vyriausybės sprendimų nulemtus savivaldybių išlaidų
+ar pajamų pokyčius;
 2) valstybės biudžeto bendrosios dotacijos (jeigu ji
 numatoma) dalį, skiriamą kiekvienai savivaldybei gyventojų pajamų mokesčiui
 išlyginti;
@@ -318,17 +317,18 @@ skiriamas kiekvienai savivaldybei;
 5) valstybės biudžeto bendrosios dotacijos (jeigu ji
 numatoma) kompensacijų sumas, skiriamas kiekvienai savivaldybei.
 2. Patvirtintas valstybės biudžeto dotacijų sumas,
-nurodytas šio straipsnio 1 dalyje, išskyrus specialią tikslinę dotaciją valstybės
-investicijų programoje numatytiems projektams ir priskirtajai (ribotai
+nurodytas šio straipsnio 1 dalyje, išskyrus specialią tikslinę dotaciją
+valstybės investicijų programoje numatytiems projektams ir priskirtajai
+(ribotai savarankiškai) vaikų, jaunimo ir suaugusiųjų bendrojo lavinimo
+organizavimo savivaldybių funkcijai finansuoti, Finansų ministerija perveda kas
+ketvirtį lygiomis dalimis. Speciali tikslinė dotacija valstybės investicijų
+programoje numatytiems projektams finansuoti pervedama atsižvelgiant į
+faktiškai atliktus darbus, nurodytus Finansų ministerijai savivaldybių
+teikiamose paraiškose, o speciali tikslinė dotacija priskirtajai (ribotai
 savarankiškai) vaikų, jaunimo ir suaugusiųjų bendrojo lavinimo organizavimo
-savivaldybių funkcijai finansuoti, Finansų ministerija perveda kas ketvirtį
-lygiomis dalimis. Speciali tikslinė dotacija valstybės investicijų programoje
-numatytiems projektams finansuoti pervedama atsižvelgiant į faktiškai atliktus
-darbus, nurodytus Finansų ministerijai savivaldybių teikiamose paraiškose, o
-speciali tikslinė dotacija priskirtajai (ribotai savarankiškai) vaikų, jaunimo
-ir suaugusiųjų bendrojo lavinimo organizavimo savivaldybių funkcijai finansuoti
-pervedama atsižvelgiant į lėšų poreikį švietimo įstaigų darbuotojams –
-pedagogams darbo užmokesčiui už kasmetines atostogas mokėti.
+savivaldybių funkcijai finansuoti pervedama atsižvelgiant į lėšų poreikį švietimo
+įstaigų darbuotojams – pedagogams darbo užmokesčiui už kasmetines atostogas
+mokėti.
 3. Faktiškai gautas į Valstybės iždo sąskaitą lėšas,
 nurodytas 6 straipsnyje, Finansų ministerija apskaičiuoja pagal 7 ir 8
 straipsniuose pateiktas formules ir ne rečiau kaip keturis kartus per mėnesį
@@ -349,10 +349,10 @@ tenkanti visų savivaldybių biudžetams.
 taip pat iš savivaldybių biudžetų paimamos sumos, susijusios su savivaldybių
 pajamų ir išlaidų pasikeitimu, apskaičiuojamos:
 1) jeigu Seimo
-ar Vyriausybės sprendimai turi vienodą įtaką visoms savivaldybėms – pagal formulę
-, čia BDKi – i-ajai
-savivaldybei skiriama arba paimama valstybės biudžeto bendrosios dotacijos
-kompensacijos suma;
+ar Vyriausybės sprendimai turi vienodą įtaką visoms savivaldybėms – pagal
+formulę , čia BDKi –
+i-ajai savivaldybei skiriama arba paimama valstybės biudžeto bendrosios
+dotacijos kompensacijos suma;
 2) jeigu Seimo
 ar Vyriausybės sprendimai turi įtakos tik kai kurioms savivaldybėms, su
 savivaldybių pajamų ir išlaidų pokyčiais susijusios sumos apskaičiuojamos
@@ -367,7 +367,7 @@ pakeitimai:
 Nr. IX-974,
 2002-06-20, Žin., 2002, Nr. 68-2773 (2002-07-03)
 Nr. IX-1235,
-2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24), įsigalioja nuo 2003-01-01
+2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
 Nr.
 IX-1857,
 2003-12-15, Žin., 2003, Nr. 117-5320 (2003-12-17)
@@ -379,8 +379,8 @@ Lietuvos savivaldybių asociacija 10 straipsnio 1 dalyje nurodytus rodiklius bei
 savivaldybių demografinių, socialinių ir kitų rodiklių pirminius statistinius
 duomenis svarsto pagal Vyriausybės patvirtintą šių rodiklių derinimo tvarką.
  
-12 straipsnis. Valstybės biudžeto
-bendrosios dotacijos kompensacijos savivaldybių 
+12 straipsnis. Valstybės biudžeto bendrosios
+dotacijos kompensacijos savivaldybių 
 biudžetams ir valstybės biudžetui
 1. Valstybės biudžeto ir savivaldybių biudžetų finansinių
 rodiklių patvirtinimo įstatymų projektuose savivaldybių biudžetams numatomos
@@ -394,23 +394,28 @@ biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstaty
 projektuose valstybės biudžetui numatomos reikiamo dydžio valstybės biudžeto
 bendrosios dotacijos kompensacijos iš tų savivaldybių, kurių ateinantiems
 biudžetiniams metams prognozuojamos palyginamaisiais dydžiais ir sąlygomis
-pajamos (be specialių tikslinių dotacijų) didėja daugiau kaip 19 procentų,
+pajamos (be specialių tikslinių dotacijų) didėja daugiau kaip 20 procentų,
 palyginti su einamaisiais biudžetiniais metais apskaičiuotomis pajamomis. Šios
-kompensacijos valstybės biudžetui grąžinamos iš savivaldybių biudžetų.
- 
+kompensacijos nuo
+biudžetinių metų antrojo ketvirčio iki gruodžio 31 dienos
+įskaitytinai
+valstybės biudžetui
+kas ketvirtį lygiomis dalimis grąžinamos iš savivaldybių biudžetų.
 Straipsnio
 pakeitimai
 Nr.
-IX-1857,
-2003-12-15, Žin., 2003, Nr. 117-5320 (2003-12-17)
+IX-1857, 2003-12-15,
+Žin., 2003, Nr. 117-5320 (2003-12-17)
 Nr.
 X-434,
-2005-12-08, Žin., 2005, Nr. 150-5463 (2005-12-24), įsigalioja nuo 2006-01-01
+2005-12-08, Žin., 2005, Nr. 150-5463 (2005-12-24)
+Nr. X-1359,
+2007-12-06, Žin., 2007, Nr. 132-5361 (2007-12-15)
  
 PENKTASIS
 SKIRSNIS
-SAVIVALDYBIŲ BIUDŽETŲ NEGAUTŲ
-PAJAMŲ KOMPENSAVIMAS
+SAVIVALDYBIŲ BIUDŽETŲ
+NEGAUTŲ PAJAMŲ KOMPENSAVIMAS
  
 13 straipsnis. Savivaldybių biudžetų
 negautų pajamų kompensavimas
@@ -437,8 +442,8 @@ savivaldybėms jų negautoms pajamoms kompensuoti.
 paimti į valstybės biudžetą iš savivaldybių biudžetų priklausančias pervesti,
 bet nepervestas valstybės biudžetui Vyriausybės nutarime nurodytas sumas.
 5. Jei šio straipsnio 2 dalyje nurodytų
-lėšų nepakanka visoms savivaldybių negautoms pajamoms padengti, jos
-savivaldybių biudžetams paskirstomos iki vienodo negautų pajamų lygio.
+lėšų nepakanka visoms savivaldybių negautoms pajamoms padengti, jos savivaldybių
+biudžetams paskirstomos iki vienodo negautų pajamų lygio.
 Skirsnio
 pakeitimai
 Nr.
@@ -995,11 +1000,11 @@ Rietavo
 Priedėlio
 pakeitimai:
 Nr. IX-1235,
-2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24), įsigalioja nuo 2003-01-01
+2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
 Nr.
 X-434,
-2005-12-08, Žin., 2005, Nr. 150-5463 (2005-12-24), įsigalioja nuo 2006-01-01
- 
+2005-12-08, Žin., 2005, Nr. 150-5463 (2005-12-24)
+_____________________
  
 Pakeitimai:
 1.
@@ -1033,13 +1038,13 @@ Nauja įstatymo redakcija
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-566,
-2001-10-23, Žin., 2001, Nr. 94-3307 (2001-11-09)
+IX-566, 2001-10-23,
+Žin., 2001, Nr. 94-3307 (2001-11-09)
 SAVIVALDYBIŲ
 BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Šio Įstatymo nuostatomis Vyriausybė pradeda vadovautis
-rengdama 2002 metų valstybės biudžeto ir savivaldybių biudžetų finansinių
-rodiklių patvirtinimo įstatymo projektą.
+rengdama 2002 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
+patvirtinimo įstatymo projektą.
 Nauja įstatymo redakcija
  
 5.
@@ -1066,28 +1071,41 @@ PRIEDĖLIO PAKEITIMO ĮSTATYMAS
 7.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-1857,
+Nr.
+IX-1857,
 2003-12-15, Žin., 2003, Nr. 117-5320 (2003-12-17)
 SAVIVALDYBIŲ
 BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 10 STRAIPSNIO PAKEITIMO BEI
 ĮSTATYMO PAPILDYMO 12 STRAIPSNIU IR PENKTUOJU SKIRSNIU ĮSTATYMAS
+Šio
+Įstatymo 3 straipsnis įsigalioja nuo 2005 m. sausio 1 d.
  
 8.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. X-434, 2005-12-08,
-Žin., 2005, Nr. 150-5463 (2005-12-24)
+Nr.
+X-434,
+2005-12-08, Žin., 2005, Nr. 150-5463 (2005-12-24)
 SAVIVALDYBIŲ
 BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 12 STRAIPSNIO IR PRIEDĖLIO
 PAKEITIMO ĮSTATYMAS
 Šis
 Įstatymas įsigalioja nuo 2006 m. sausio 1 d.
  
+9.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-1359,
+2007-12-06, Žin., 2007, Nr. 132-5361 (2007-12-15)
+SAVIVALDYBIŲ
+BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušra Bodin (2005-12-28)
+Aušrinė Trapinskienė (2007-12-17)
                  
-ausra.bodin@lrs.lt
+autrap@lrs.lt
