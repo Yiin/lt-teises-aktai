@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6C5599DD9A1"
 
 # Lietuvos Respublikos mokėjimų įstatymas
 
-Suvestinė redakcija nuo 2004-07-27 iki 2007-12-14
+Suvestinė redakcija nuo 2007-12-15 iki 2009-12-27
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 97-2775, i. k. 0991010ISTAIII-1370
  
@@ -204,7 +204,10 @@ BENDROSIOS NUOSTATOS
 3 straipsnis. Įstatymo taikymo sritis 
 
 
-1. Šio Įstatymo 5 straipsnis, 7 straipsnio 7 ir 9 dalys bei 10 ir 12 straipsniai netaikomi vykdant tarptautinius kredito pervedimus. Šio Įstatymo 6 straipsnio 2 dalis netaikoma vykdant kredito ir debeto pervedimus Lietuvos Respublikoje. Jeigu kredito įstaiga klientui suteikia galimybę sudaryti mokėjimo nurodymus elektroninėmis mokėjimo priemonėmis, vykdant kredito ir debeto pervedimus bei tarptautinius kredito pervedimus, kredito įstaigoms papildomai taikomi šio Įstatymo 17–21 straipsniuose nustatyti reikalavimai. 
+1. Šio Įstatymo 5 straipsnio 2 ir 4 dalys, 7 straipsnio 7 ir 9 dalys bei 10 ir 12 straipsniai netaikomi vykdant tarptautinius kredito pervedimus. Šio Įstatymo 6 straipsnio 2 dalis netaikoma vykdant kredito ir debeto pervedimus Lietuvos Respublikoje. Jeigu kredito įstaiga klientui suteikia galimybę sudaryti mokėjimo nurodymus elektroninėmis mokėjimo priemonėmis, vykdant kredito ir debeto pervedimus bei tarptautinius kredito pervedimus, kredito įstaigoms papildomai taikomi šio Įstatymo 17–21 straipsniuose nustatyti reikalavimai. 
+Straipsnio dalies pakeitimai:
+Nr. X-1351, 2007-12-05, Žin., 2007, Nr. 132-5355 (2007-12-15), i. k. 1071010ISTA00X-1351
+ 
 
 
 
@@ -1095,3 +1098,8 @@ Lietuvos Respublikos mokėjimų įstatymo pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2404, 2004-07-15, Žin., 2004, Nr. 116-4336 (2004-07-27), i. k. 1041010ISTA0IX-2404
 Lietuvos Respublikos mokėjimų įstatymo 7 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1351, 2007-12-05, Žin., 2007, Nr. 132-5355 (2007-12-15), i. k. 1071010ISTA00X-1351
+Lietuvos Respublikos mokėjimų įstatymo 3 straipsnio pakeitimo įstatymas
