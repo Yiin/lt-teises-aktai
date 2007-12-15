@@ -17,8 +17,8 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BBC3E3121172"
 Neoficialus įstatymo tekstas
  
 LIETUVOS RESPUBLIKOS
-TARNYBOS KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO
-MINISTERIJOS STATUTO PATVIRTINIMO 
+TARNYBOS KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS
+STATUTO PATVIRTINIMO 
 ĮSTATYMAS
 2000 m. balandžio 18 d. Nr. VIII-1631
 Vilnius
@@ -44,8 +44,7 @@ ADAMKUS
                                                                                     PATVIRTINTAS
                                                             Lietuvos
 Respublikos 
-                                                            2000
-m. balandžio 18 d.
+                                                            2000 m. balandžio 18 d.
                                                             įstatymu
 Nr.VIII-1631
  
@@ -101,15 +100,16 @@ departamentas bei jam pavaldžios įstaigos ir valstybės įmonės vykdo uždavi
 kurie joms yra nustatyti Lietuvos Respublikos bausmių vykdymo įstatymuose,
 Kardomojo kalinimo įstatyme, kituose įstatymuose bei teisės aktuose, taip pat
 šių įstaigų nuostatuose bei įmonių įstatuose.
-3. Kalėjimų departamentui
-pavaldžios įstaigos ir valstybės įmonės turi antspaudą su Lietuvos valstybės
-herbu bei savo pavadinimu ir yra viešieji juridiniai asmenys. Pataisos
-inspekcijos, areštinės, pataisos namai, nepilnamečių pataisos namai, kalėjimai,
-atviros kolonijos, kardomojo kalinimo vietos (tardymo izoliatoriai) ir Kalėjimų
-departamento Mokymo centras veikia pagal Biudžetinių įstaigų įstatymą,
-gydymo-pataisos namai ir laisvės atėmimo vietų ligoninės – pagal Biudžetinių
-įstaigų įstatymą ir Sveikatos priežiūros įstaigų įstatymą, o valstybės įmonės
-prie pataisos įstaigų – pagal Valstybės ir savivaldybės įmonių įstatymą.
+3. Kalėjimų
+departamentui pavaldžios įstaigos ir valstybės įmonės turi antspaudą su
+Lietuvos valstybės herbu bei savo pavadinimu ir yra viešieji juridiniai
+asmenys. Pataisos inspekcijos, areštinės, pataisos namai, nepilnamečių pataisos
+namai, kalėjimai, atviros kolonijos, kardomojo kalinimo vietos (tardymo
+izoliatoriai) ir Kalėjimų departamento Mokymo centras veikia pagal Biudžetinių
+įstaigų įstatymą, gydymo-pataisos namai ir laisvės atėmimo vietų ligoninės – pagal
+Biudžetinių įstaigų įstatymą ir Sveikatos priežiūros įstaigų įstatymą, o
+valstybės įmonės prie pataisos įstaigų – pagal Valstybės ir savivaldybės įmonių
+įstatymą.
 4. Kalėjimų
 departamentui pavaldžios įstaigos ir valstybės įmonės gali turėti bendrąsias
 tarnybas (struktūrinius padalinius), išlaikomas iš Lietuvos Respublikos
@@ -135,10 +135,10 @@ Kalėjimų departamento bei jam pavaldžių įstaigų ir valstybės įmonių vei
 teisiniai pagrindai
 Kalėjimų
 departamentas bei jam pavaldžios įstaigos ir valstybės įmonės savo veikloje
-vadovaujasi Lietuvos Respublikos Konstitucija, Baudžiamuoju kodeksu, Baudžiamojo
-proceso kodeksu, Kardomojo kalinimo įstatymu, bausmių vykdymo įstatymais bei
-kitais įstatymais, šiuo statutu, Lietuvos Respublikos tarptautinėmis sutartimis
-ir kitais teisės aktais.
+vadovaujasi Lietuvos Respublikos Konstitucija, Baudžiamuoju kodeksu,
+Baudžiamojo proceso kodeksu, Kardomojo kalinimo įstatymu, bausmių vykdymo
+įstatymais bei kitais įstatymais, šiuo statutu, Lietuvos Respublikos
+tarptautinėmis sutartimis ir kitais teisės aktais.
  
 6 straipsnis.
 Kalėjimų departamento bei jam pavaldžių įstaigų ir valstybės įmonių ryšiai
@@ -204,8 +204,8 @@ reglamentuoja Valstybės tarnybos įstatymas.
 Valstybės įmonėse prie pataisos įstaigų dirba pareigūnai ir darbuotojai.
 Darbuotojų darbo santykius reglamentuoja darbo įstatymai.
 Straipsnio pakeitimai:
-Nr. IX-1545,
-2003-04-29, Žin., 2003, Nr. 49-2158 (2003-05-21)
+Nr. IX-1545, 2003-04-29,
+Žin., 2003, Nr. 49-2158 (2003-05-21)
  
 9 straipsnis.
 Kalėjimų departamento bei jam pavaldžių įstaigų ir valstybės įmonių struktūra
@@ -399,7 +399,8 @@ prisiekiu
 dorai atlikti savo pareigas ir susilaikyti nuo poelgių, kurie galėtų pakenkti
 geram Kalėjimų departamento pareigūno (-ės) vardui.“
 2. Prisiekusio
-pareigūno pasirašytas lapas su priesaikos tekstu saugomas šio pareigūno asmens byloje.
+pareigūno pasirašytas lapas su priesaikos tekstu saugomas šio pareigūno asmens
+byloje.
 3. Kalėjimų
 departamento bei jam pavaldžių įstaigų ir valstybės įmonių pareigūnų
 prisaikdinimo tvarką nustato Teisingumo ministerija.
@@ -454,8 +455,9 @@ jaunesnysis inspektorius, inspektorius, vyresnysis inspektorius;
 3) vyresnieji
 pareigūnai - tarnybos viršininko pavaduotojas, tarnybos viršininkas,
 direktoriaus pavaduotojas;
-4) vyriausieji pareigūnai
-- direktorius, generalinio direktoriaus pavaduotojas, generalinis direktorius.
+4) vyriausieji
+pareigūnai - direktorius, generalinio direktoriaus pavaduotojas, generalinis
+direktorius.
  
 17
 straipsnis. Pareigūnai, turintys įgaliojimus suteikti pareiginius laipsnius
@@ -509,9 +511,9 @@ pareigūnai atsako įstatymų nustatyta tvarka.
 20
 straipsnis. Pareigūnų profesinių interesų įgyvendinimas
 1. Pareigūnai
-gali steigti draugijas, klubus ir kitus susivienijimus, tenkinančius jų profesinius,
-kultūrinius ir socialinius poreikius. Jų veiklą reglamentuoja įstatymų
-nustatyta tvarka priimti ir įregistruoti įstatai (nuostatai). 
+gali steigti draugijas, klubus ir kitus susivienijimus, tenkinančius jų
+profesinius, kultūrinius ir socialinius poreikius. Jų veiklą reglamentuoja
+įstatymų nustatyta tvarka priimti ir įregistruoti įstatai (nuostatai). 
 2. Pareigūnų
 dalyvavimas draugijų, klubų ar kitų susivienijimų, tenkinančių jų profesinius,
 kultūrinius ir socialinius poreikius, veikloje neturi trukdyti tiesioginėms
@@ -605,10 +607,10 @@ su vidaus reikalų sistemos pareigūnais specialiosios taktikos pratybas,
 išmokant pareigūnus veikti, jeigu susidarytų ypatinga situacija kardomojo
 kalinimo ir laisvės atėmimo vietose bei kitose Kalėjimų departamentui
 pavaldžiose įstaigose ir valstybės įmonėse;
-6) turėti ir
-saugoti tarnybai naudojamus ginklus bei šaudmenis ir specialiąsias priemones
-Ginklų ir šaudmenų kontrolės įstatymo bei Kalėjimų departamento direktoriaus
-nustatyta tvarka. Šią teisę turi tik įvadinį mokymą išėję pareigūnai.
+6) turėti ir saugoti
+tarnybai naudojamus ginklus bei šaudmenis ir specialiąsias priemones Ginklų ir
+šaudmenų kontrolės įstatymo bei Kalėjimų departamento direktoriaus nustatyta
+tvarka. Šią teisę turi tik įvadinį mokymą išėję pareigūnai.
 2. Kalėjimų
 departamento ir jam pavaldžių įstaigų vadovų specialiosios teisės, susidarius
 ypatingai situacijai kardomojo kalinimo ir laisvės atėmimo vietose bei kitose
@@ -669,8 +671,8 @@ pažeminimas;
 8) atleidimas iš
 tarnybos.
 3. Tarnybinė
-nuobauda - įspėjimas žodžiu - galioja tris mėnesius nuo jos paskyrimo dienos. Kitos
-tarnybinės nuobaudos galioja vienerius metus nuo jų paskyrimo dienos.
+nuobauda - įspėjimas žodžiu - galioja tris mėnesius nuo jos paskyrimo dienos.
+Kitos tarnybinės nuobaudos galioja vienerius metus nuo jų paskyrimo dienos.
 4. Pareigūnai už
 padarytus tarnybinius nusižengimus drausmine tvarka atsako neatsižvelgiant į
 tai, ar baudžiamoji ar administracinė atsakomybė taikoma, ar ne. 
@@ -783,8 +785,8 @@ pareigūnams, nušalintiems nuo pareigų
 nušalintam nuo pareigų šio statuto 28 straipsnio 2 dalies 1, 2 ir 4 punktuose
 numatytais atvejais, darbo užmokesčio mokėjimas sustabdomas.
 2. Pareigūnui,
-nepagrįstai nušalintam nuo pareigų, už laiką, kurį jis buvo nušalintas, išmokamas
-vidutinis darbo užmokestis.
+nepagrįstai nušalintam nuo pareigų, už laiką, kurį jis buvo nušalintas,
+išmokamas vidutinis darbo užmokestis.
  
 DEVINTASIS SKIRSNIS
 PAREIGŪNŲ
@@ -805,10 +807,10 @@ neteisėtai perdavė asmenims, laikomiems Kalėjimų departamentui pavaldžiose
 įstaigose, arba neteisėtai gavo iš šių asmenų medžiagų, dirbinių ar daiktų;
 4) kai
 sumažinamas pareiginių etatų skaičius dėl darbo organizavimo pakeitimų;
-5) kai
-pareigūnas dėl laikinojo nedarbingumo neatvyksta į darbą daugiau kaip šimtą
-dvidešimt kalendorinių dienų iš eilės arba daugiau kaip šimtą keturiasdešimt
-kalendorinių dienų per paskutinius dvylika mėnesių;
+5) kai pareigūnas
+dėl laikinojo nedarbingumo neatvyksta į darbą daugiau kaip šimtą dvidešimt
+kalendorinių dienų iš eilės arba daugiau kaip šimtą keturiasdešimt kalendorinių
+dienų per paskutinius dvylika mėnesių;
 6) kai
 pareigūnas nerūpestingai atliko pareigas ar kitaip pažeidė tarnybos drausmę,
 jei prieš tai jam nors vieną kartą per paskutinius dvylika mėnesių buvo skirtos
@@ -850,9 +852,9 @@ nusikalstamą veiką;
 rezultatai įvertinami nepatenkinamai;
 7) jei
 atestavimo komisijos sprendimu pripažįstamas netinkamu tęsti tarnybą;
-8) jei pareigūnas
-negali tarnauti dėl nustatytos priklausomybės nuo alkoholio, toksinių,
-psichotropinių ar narkotinių medžiagų;
+8) jei
+pareigūnas negali tarnauti dėl nustatytos priklausomybės nuo alkoholio,
+toksinių, psichotropinių ar narkotinių medžiagų;
 9) jei pereina į renkamas pareigas arba
 pareigas, į kurias skiriama konkurso tvarka;
 10) jei
@@ -866,15 +868,15 @@ paaiškėja, kad priimant į tarnybą buvo pateikti suklastoti dokumentai;
 paaiškėja, kad priimant į tarnybą buvo nuslėpti ar pateikti neatitinkantys
 tikrovės duomenys, dėl kurių asmuo negalėjo būti priimtas į tarnybą;
 13) kai
-pareigūnas pašaukiamas į būtinąją karo ar alternatyviąją krašto apsaugos tarnybą;
+pareigūnas pašaukiamas į būtinąją karo ar alternatyviąją krašto apsaugos
+tarnybą;
 14) kai jam
 sukanka Valstybinių socialinio draudimo pensijų įstatymo nustatytas senatvės
 pensijos amžius;
 15) jeigu jam
 paskirta tarnybinė nuobauda – atleidimas iš tarnybos;
-16) jeigu
-nesutinka sudaryti darbo sutarties, kai jo pareigybė nepriskiriama pareigūnų
-pareigybėms.
+16) jeigu nesutinka
+sudaryti darbo sutarties, kai jo pareigybė nepriskiriama pareigūnų pareigybėms.
 3. Atleidimo iš
 tarnybos tvarką nustato Teisingumo ministerija.
 4. Asmuo,
@@ -925,9 +927,9 @@ invalidui, moteriai, turinčiai vaiką iki 14 metų, ir vyrui, vienam auginanči
 vaiką iki tokio pat amžiaus, apie numatomą atleidimą iš tarnybos turi būti
 pranešta raštu prieš keturis mėnesius. Įspėjimas netenka galios, jei pasibaigus
 terminui praeina daugiau kaip vienas mėnuo, neįskaitant pareigūno laikinojo
-nedarbingumo ir atostogų laiko. Jei pareigūnas atleidžiamas iš tarnybos nepasibaigus
-įspėjimo terminui, jo atleidimo data nukeliama iki to laiko, kada turėjo
-pasibaigti įspėjimo terminas.
+nedarbingumo ir atostogų laiko. Jei pareigūnas atleidžiamas iš tarnybos
+nepasibaigus įspėjimo terminui, jo atleidimo data nukeliama iki to laiko, kada
+turėjo pasibaigti įspėjimo terminas.
 3.
 Atleisti pareigūną iš tarnybos pagal šio statuto 32 straipsnio 1 dalies 4 ir 8
 punktus galima tik tuo atveju, jeigu nėra galimybės perkelti pareigūną jo
@@ -938,12 +940,12 @@ punktą galima per 10 kalendorinių dienų nuo atestavimo komisijos sprendimo
 pripažinti jį netinkamu tęsti tarnybą priėmimo dienos. Pareigūnas, kurį
 atestavimo komisija pripažino netinkamu tęsti tarnybą, turi teisę per 5 darbo
 dienas nuo atestavimo komisijos sprendimo priėmimo dienos paduoti skundą
-Kalėjimų departamento direktoriui, jeigu atestavimo komisijos pirmininku buvo šiam
-departamentui pavaldžios įstaigos ar valstybės įmonės vadovas, arba teisingumo
-ministrui, jeigu atestavimo komisijos pirmininku buvo Kalėjimų departamento
-direktorius. Skundas paduodamas per atestavimo komisijos pirmininką. Atleisti
-pareigūną iš tarnybos pagal šio statuto 32 straipsnio 2 dalies 7 punktą galima
-per 10 kalendorinių dienų nuo skundo atmetimo dienos.
+Kalėjimų departamento direktoriui, jeigu atestavimo komisijos pirmininku buvo
+šiam departamentui pavaldžios įstaigos ar valstybės įmonės vadovas, arba
+teisingumo ministrui, jeigu atestavimo komisijos pirmininku buvo Kalėjimų
+departamento direktorius. Skundas paduodamas per atestavimo komisijos
+pirmininką. Atleisti pareigūną iš tarnybos pagal šio statuto 32 straipsnio 2
+dalies 7 punktą galima per 10 kalendorinių dienų nuo skundo atmetimo dienos.
  
 36
 straipsnis. Išeitinė išmoka atleidžiamam iš tarnybos pareigūnui
@@ -983,10 +985,10 @@ Nr. IX-1545,
  
 38
 straipsnis. Išbraukimas iš pareigūnų sąrašų
-Mirę, žuvę,
-dingę be žinios pareigūnai išbraukiami iš pareigūnų sąrašų Kalėjimų
-departamento direktoriaus ar šiam departamentui pavaldžios įstaigos ar
-valstybės įmonės vadovo įsakymu.
+Mirę, žuvę, dingę
+be žinios pareigūnai išbraukiami iš pareigūnų sąrašų Kalėjimų departamento
+direktoriaus ar šiam departamentui pavaldžios įstaigos ar valstybės įmonės
+vadovo įsakymu.
  
 DEŠIMTASIS SKIRSNIS
 PAREIGŪNŲ
@@ -1012,12 +1014,12 @@ pareigūno perkėlimo į žemesnes pareigas nurodoma perkėlimo priežastis.
 perkelti į aukštesnes pareigas pareigūną, turintį galiojančią tarnybinę
 nuobaudą.
 4. Esant
-tarnybiniam būtinumui, Kalėjimų departamento direktorius arba jam pavaldžios
-įstaigos ar valstybės įmonės vadovas gali, neperkeldamas į kitas pareigas,
-laikinai pavesti sau pavaldžiam pareigūnui be jo sutikimo atlikti tolygias,
-žemesnes arba aukštesnes pareigas tame pačiame departamente ar jam pavaldžioje
-toje pačioje įstaigoje ar valstybės įmonėje. Tokiu atveju pareigūnui mokamas
-darbo užmokestis, gautas iki laikino pavedimo.
+tarnybiniam būtinumui, Kalėjimų departamento direktorius arba jam pavaldžios įstaigos
+ar valstybės įmonės vadovas gali, neperkeldamas į kitas pareigas, laikinai
+pavesti sau pavaldžiam pareigūnui be jo sutikimo atlikti tolygias, žemesnes
+arba aukštesnes pareigas tame pačiame departamente ar jam pavaldžioje toje
+pačioje įstaigoje ar valstybės įmonėje. Tokiu atveju pareigūnui mokamas darbo
+užmokestis, gautas iki laikino pavedimo.
 5.
 Nepaprastosios padėties ar kitų ekstremalių situacijų atveju Kalėjimų
 departamento direktorius gali, neperkeldamas į kitas pareigas, laikinai pavesti
@@ -1083,71 +1085,27 @@ už kiekvienus trejus tarnybos Lietuvos valstybei metus. Šio priedo suma negali
 viršyti 30 procentų pareiginės algos.
 4. Kalėjimų
 departamentui pavaldžios valstybės įmonės pareigūno tarnybos Lietuvos valstybei
-stažą sudaro Lietuvos valstybei ištarnautų nuo 1990 m. kovo 11 d. einant
-valstybės tarnautojo pareigas, įskaitant Valstybės tarnybos įstatymo 4
+stažą sudaro Lietuvos valstybei ištarnautų nuo 1990 m. kovo 11 d. einant valstybės tarnautojo pareigas, įskaitant Valstybės tarnybos įstatymo 4
 straipsnio 3 dalies 1–6 punktuose nurodytas pareigas (išskyrus savivaldybės
-tarybos narius, kurie nebuvo meru ir mero pavaduotoju), taip pat einant pareigūno
+tarybos narius, kurie nebuvo meru ir mero pavaduotoju), taip pat einant
+pareigūno pareigas Kalėjimų departamentui (Pataisos reikalų departamentui prie
+Vidaus reikalų ministerijos pavaldžioje valstybės įmonėje) pavaldžioje
+valstybės įmonėje metų skaičius. Tarnybos Lietuvos valstybei stažas
+skaičiuojamas nuo valstybės tarnautojo tarnybos (darbo) valstybės ir
+savivaldybių institucijose ir įstaigose pradžios arba nuo paskyrimo (išrinkimo)
+į pareigas valstybės tarnyboje, taip pat nuo asmens paskyrimo į pareigūno
 pareigas Kalėjimų departamentui (Pataisos reikalų departamentui prie Vidaus
-reikalų ministerijos pavaldžioje valstybės įmonėje) pavaldžioje valstybės
-įmonėje metų skaičius. Tarnybos Lietuvos valstybei stažas skaičiuojamas nuo
-valstybės tarnautojo tarnybos (darbo) valstybės ir savivaldybių institucijose
-ir įstaigose pradžios arba nuo paskyrimo (išrinkimo) į pareigas valstybės
-tarnyboje, taip pat nuo asmens paskyrimo į pareigūno pareigas Kalėjimų
-departamentui (Pataisos reikalų departamentui prie Vidaus reikalų ministerijos
-pavaldžiose valstybės įmonėse) pavaldžiose valstybės įmonėse Valstybės tarnybos
-įstatymo ir kitų įstatymų nustatyta tvarka dienos. Tarnybos (darbo) ne vienu
-laikotarpiu einant valstybės tarnautojo pareigas valstybės ir savivaldybių
-institucijose ir įstaigose, taip pat pareigūno pareigas Kalėjimų departamentui
-(Pataisos reikalų departamentui prie Vidaus reikalų ministerijos pavaldžiose
-valstybės įmonėse) pavaldžiose valstybės įmonėse stažas sudedamas. Į tarnybos
-Lietuvos valstybei stažą taip pat įskaitomas kasmetinių, nėštumo ir gimdymo,
-tėvystės, vaikui prižiūrėti ir nemokamų atostogų laikas bei pašalpų dėl ligos
-ar dėl traumos gavimo laikotarpis. Į šį stažą taip pat įskaitomas ir pagal
-Valstybės tarnybos įstatymo 38 straipsnį suteiktų valstybės tarnautojui
-atostogų laikas.
- 
-[Dalies redakcija iki 207-01-01]
-5. Pareigūnams
-nustatomi tokie pareiginės algos priedų už turimus pareiginius laipsnius
-apskaičiavimo pagal Vyriausybės patvirtintą minimalią mėnesinę algą (toliau –
-MMA) koeficientai:
-1) prižiūrėtojui
-– 0,1 MMA;
-2) vyresniajam
-prižiūrėtojui – 0,15 MMA;
-3) viršilai –
-0,25 MMA;
-4) jaunesniajam
-inspektoriui – 0,3 MMA;
-5) inspektoriui
-– 0,35 MMA;
-6) vyresniajam
-inspektoriui – 0,4 MMA;
-7) tarnybos
-viršininko pavaduotojui – 0,45 MMA;
-8) tarnybos
-viršininkui – 0,5 MMA;
-9) direktoriaus
-pavaduotojui – 0,55 MMA;
-10) direktoriui
-– 0,6 MMA;
-11) generalinio
-direktoriaus pavaduotojui – 0,7 MMA;
-12) generaliniam
-direktoriui – 0,8 MMA.
-6. Pareigūnams
-nustatomi tokie pareiginės algos priedai už kvalifikacines kategorijas:
-1) už 3
-kategoriją – 15 procentų pareiginės algos;
-2) už 2
-kategoriją – 30 procentų pareiginės algos;
-3) už 1
-kategoriją – 50 procentų pareiginės algos.
-7. Šio
-straipsnio 5 ir 6 dalyse nustatyti priedai negali viršyti 55 procentų pareiginės
-algos.
- 
-[Dalies redakcija nuo 207-01-01]
+reikalų ministerijos pavaldžiose valstybės įmonėse) pavaldžiose valstybės
+įmonėse Valstybės tarnybos įstatymo ir kitų įstatymų nustatyta tvarka dienos.
+Tarnybos (darbo) ne vienu laikotarpiu einant valstybės tarnautojo pareigas
+valstybės ir savivaldybių institucijose ir įstaigose, taip pat pareigūno
+pareigas Kalėjimų departamentui (Pataisos reikalų departamentui prie Vidaus
+reikalų ministerijos pavaldžiose valstybės įmonėse) pavaldžiose valstybės
+įmonėse stažas sudedamas. Į tarnybos Lietuvos valstybei stažą taip pat
+įskaitomas kasmetinių, nėštumo ir gimdymo, tėvystės, vaikui prižiūrėti ir
+nemokamų atostogų laikas bei pašalpų dėl ligos ar dėl traumos gavimo
+laikotarpis. Į šį stažą taip pat įskaitomas ir pagal Valstybės tarnybos
+įstatymo 38 straipsnį suteiktų valstybės tarnautojui atostogų laikas.
 5. Pareigūnams
 nustatomi tokie priedų už turimus pareiginius laipsnius apskaičiavimo pagal
 pareiginės algos bazinį dydį (toliau – bazinis dydis) koeficientai:
@@ -1175,7 +1133,6 @@ pavaduotojui – 0,55 bazinio dydžio;
 direktoriaus pavaduotojui – 0,7 bazinio dydžio;
 12) generaliniam
 direktoriui – 0,8 bazinio dydžio.
- 
 6. Pareigūnams
 nustatomi tokie pareiginės algos priedai už kvalifikacines kategorijas:
 1) už 3
@@ -1188,8 +1145,8 @@ kategoriją – 50 procentų pareiginės algos.
 straipsnio 5 ir 6 dalyse nustatyti priedai negali viršyti 55 procentų
 pareiginės algos.
 Straipsnio pakeitimai:
-Nr. IX-1545,
-2003-04-29, Žin., 2003, Nr. 49-2158 (2003-05-21)
+Nr. IX-1545, 2003-04-29,
+Žin., 2003, Nr. 49-2158 (2003-05-21)
 Nr.
 X-661,
 2006-06-08, Žin., 2006, Nr. 72-2678 (2006-06-28)
@@ -1205,10 +1162,10 @@ mokamos šios priemokos:
 poilsio bei švenčių dienomis ir nakties metu;
 2) už darbą
 kenksmingomis, labai kenksmingomis ir pavojingomis darbo sąlygomis;
-3) už įprastą
-darbo krūvį viršijančią veiklą ar papildomų užduočių, atliekamų viršijant
-nustatytą darbo trukmę, atlikimą. Papildomos užduotys pareigūnui turi būti
-suformuluotos raštu.
+3) už įprastą darbo
+krūvį viršijančią veiklą ar papildomų užduočių, atliekamų viršijant nustatytą
+darbo trukmę, atlikimą. Papildomos užduotys pareigūnui turi būti suformuluotos
+raštu.
 2. Šio
 straipsnio 1 dalies 3 punkte nurodyta priemoka negali būti mokama ilgiau kaip
 vienerius metus nuo jos paskyrimo. Jeigu pareigūnui ilgiau negu vienerius metus
@@ -1243,11 +1200,11 @@ Nr. IX-1545,
  
 44
 straipsnis. Pareigūnų kvalifikacinės kategorijos ir jų suteikimo tvarka
-1. Pareigūnams, atsižvelgiant
-į jų tarnybinės veiklos rezultatus, dalykines savybes, profesinius įgūdžius ir
-administracinius gebėjimus, gali būti suteiktos kvalifikacinės kategorijos.
-Kvalifikacinės kategorijos yra 3: aukščiausia yra 1 kvalifikacinė kategorija,
-žemiausia – 3 kvalifikacinė kategorija.
+1. Pareigūnams,
+atsižvelgiant į jų tarnybinės veiklos rezultatus, dalykines savybes,
+profesinius įgūdžius ir administracinius gebėjimus, gali būti suteiktos
+kvalifikacinės kategorijos. Kvalifikacinės kategorijos yra 3: aukščiausia yra 1
+kvalifikacinė kategorija, žemiausia – 3 kvalifikacinė kategorija.
 2.
 Kvalifikacines kategorijas, atsižvelgdami į kvalifikacijos vertinimo komisijos
 siūlymą, gali suteikti:
@@ -1285,8 +1242,8 @@ pavaldžių įstaigų ir valstybės įmonių pareigūnų tarnybinę veiklą per
 kalendorinius metus vertina šių įstaigų ir valstybės įmonių direktorių
 įsakymais sudarytos kvalifikacijos vertinimo komisijos.
 7.
-Kvalifikacijos vertinimo komisija sudaroma dvejiems metams. Kvalifikacijos vertinimo
-komisija susideda iš 5 asmenų. 
+Kvalifikacijos vertinimo komisija sudaroma dvejiems metams. Kvalifikacijos
+vertinimo komisija susideda iš 5 asmenų. 
 8. Apie būsimą
 tarnybinės veiklos vertinimą Teisingumo ministerijoje, Kalėjimų departamente,
 šiam departamentui pavaldžioje įstaigoje ar valstybės įmonėje ne vėliau kaip
@@ -1346,9 +1303,9 @@ aprūpinimo pensijomis tvarką nustato Valstybinių socialinio draudimo pensijų
  
 47
 straipsnis. Pareigūnų atostogos
-1. Nustatoma
-tokia kasmetinių atostogų trukmė pareigūnams, atsižvelgiant į pareigūno
-tarnybos stažą:
+1. Nustatoma tokia
+kasmetinių atostogų trukmė pareigūnams, atsižvelgiant į pareigūno tarnybos
+stažą:
 1) 30
 kalendorinių dienų – ištarnavusiems iki 10 metų;
 2) 35
@@ -1395,32 +1352,27 @@ pareigūno ar kario bausmės atlikimo laiką, jeigu vėliau jis išteisintas;
 tarnybos kitų valstybių ginkluotosiose pajėgose, pasienio tarnyboje, vidaus
 reikalų ir kitose tarnybose (išskyrus tarnybą naikintojų būriuose ir
 batalionuose) laiką – Vyriausybės nustatyta tvarka;
-5) darbo
-policijoje (milicijoje), Valstybės sienos apsaugos tarnyboje, vidaus tarnybos,
-valstybės saugumo, krašto apsaugos ir prokuratūros sistemose, Kalėjimų
-departamente (Pataisos reikalų departamente prie Vidaus reikalų ministerijos
-bei jam pavaldžiose įstaigose ir valstybės įmonėse) bei jam pavaldžiose
-įstaigose ir valstybės įmonėse laiką Darbo sutarties įstatymo pagrindais, jeigu
-vėliau tos pareigos priskirtos pareigūno pareigoms;
+5) darbo policijoje
+(milicijoje), Valstybės sienos apsaugos tarnyboje, vidaus tarnybos, valstybės
+saugumo, krašto apsaugos ir prokuratūros sistemose, Kalėjimų departamente
+(Pataisos reikalų departamente prie Vidaus reikalų ministerijos bei jam
+pavaldžiose įstaigose ir valstybės įmonėse) bei jam pavaldžiose įstaigose ir
+valstybės įmonėse laiką Darbo sutarties įstatymo pagrindais, jeigu vėliau tos
+pareigos priskirtos pareigūno pareigoms;
 6) darbo laiką,
 dirbtą profesionaliosios priešgaisrinės apsaugos padalinio vadovu, gaisrininku,
 gaisrininku vairuotoju Darbo sutarties įstatymo pagrindais, jeigu vėliau šis
 darbuotojas buvo paskirtas statutiniu priešgaisrinės apsaugos pareigūnu;
 7) vieną
 tarnybos ar darbo dieną Lietuvos Respublikos krašto apsaugos departamento
-struktūriniuose padaliniuose nuo 1990 m. balandžio 25 d. iki 1991 m. rugpjūčio
-23 d., Valstybės saugumo departamento prie Lietuvos Respublikos Vyriausybės
-sistemoje nuo 1990 m. kovo 26 d. iki 1991 m. rugpjūčio 23 d. ir Lietuvos
-Respublikos Aukščiausiosios Tarybos Apsaugos skyriuje nuo 1990 m. birželio 8 d.
-iki 1991 m. rugpjūčio 23 d. – įskaitant kaip 3 tarnybos dienas;
+struktūriniuose padaliniuose nuo 1990 m. balandžio 25 d. iki 1991 m. rugpjūčio 23 d., Valstybės saugumo departamento prie Lietuvos Respublikos Vyriausybės
+sistemoje nuo 1990 m. kovo 26 d. iki 1991 m. rugpjūčio 23 d. ir Lietuvos Respublikos Aukščiausiosios Tarybos Apsaugos skyriuje nuo 1990 m. birželio 8 d. iki 1991 m. rugpjūčio 23 d. – įskaitant kaip 3 tarnybos dienas;
 8) asmeniui,
 pradėjusiam tarnauti ar dirbti Lietuvos Respublikos krašto apsaugos sistemoje,
 ir asmeniui, pradėjusiam tarnauti ar dirbti Lietuvos Respublikos
-Aukščiausiosios Tarybos Apsaugos skyriuje iki 1991 m. gruodžio 31 d., taip pat
-Valstybės saugumo departamente prie Lietuvos Respublikos Vyriausybės nuo 1990
-m. kovo 26 d. iki 1991 m. gruodžio 2 d. ir Lietuvos Respublikos nacionalinio
-saugumo tarnyboje nuo 1991 m. gruodžio 2 d. iki 1991 m. gruodžio 31 d., – 80
-procentų iki šio laiko turėto darbo stažo;
+Aukščiausiosios Tarybos Apsaugos skyriuje iki 1991 m. gruodžio 31 d., taip pat Valstybės saugumo departamente prie Lietuvos Respublikos Vyriausybės
+nuo 1990 m. kovo 26 d. iki 1991 m. gruodžio 2 d. ir Lietuvos Respublikos
+nacionalinio saugumo tarnyboje nuo 1991 m. gruodžio 2 d. iki 1991 m. gruodžio 31 d., – 80 procentų iki šio laiko turėto darbo stažo;
 9) mokymosi
 vidaus reikalų profesinio mokymo įstaigose, aukštosiose, specialiosiose
 vidurinėse, aukštesniosiose Lietuvos Respublikos policijos (vidaus reikalų),
@@ -1440,8 +1392,8 @@ laikinojo nedarbingumo laiką, kasmetinių, papildomų, nėštumo ir gimdymo,
 tėvystės, vaiko priežiūros, mokymosi ir nemokamų atostogų laiką, taip pat
 buvimo Vidaus reikalų ministerijos personalo žinioje laiką;
 12) tarnybos
-stažą, numatytą Valstybės tarnybos įstatymo 42 straipsnyje, einant valstybės
-tarnautojo pareigas.
+stažą, numatytą Valstybės tarnybos įstatymo 42 straipsnyje, einant valstybės tarnautojo
+pareigas.
 2. Tarnybos
 stažas, kai ne vienu metu pareigūnas eina pareigas, sudedamas.
 3.
@@ -1529,8 +1481,8 @@ Nr. IX-1545,
 51
 straipsnis. Pareigūnų sveikatos priežiūra
 Pareigūnai
-draudžiami privalomuoju sveikatos draudimu Sveikatos draudimo įstatymo nustatyta
-tvarka.
+draudžiami privalomuoju sveikatos draudimu Sveikatos draudimo įstatymo
+nustatyta tvarka.
 Straipsnio pakeitimai:
 Nr. IX-1545,
 2003-04-29, Žin., 2003, Nr. 49-2158 (2003-05-21)
@@ -1573,7 +1525,8 @@ laikas.
 3. Pareigūnų darbo ir poilsio
 režimą nustato Kalėjimų departamento direktorius.
  
-*54
+Straipsnio redakcija iki 2008 m. sausio 1 d.:
+54
 straipsnis. Kitos pareigūnų socialinės garantijos
 1. Pareigūnams
 taikomos Valstybinio socialinio draudimo įstatymo nustatytos socialinės
@@ -1581,8 +1534,7 @@ garantijos.
 2. Laikinojo nedarbingumo bei nėštumo ir gimdymo atostogų
 laikotarpiu pareigūnams mokamas Vyriausybės nustatyta tvarka apskaičiuotas
 vidutinis jų darbo užmokestis, o vaiko priežiūros, kol jam sueis vieni metai,
-atostogų laikotarpiu – 70 procentų (nuo 2007 m. sausio 1 d. – 85 procentai)
-vidutinio jų darbo užmokesčio. Nuo 2007 m. liepos 1 d. šios išmokos dydis nuo
+atostogų laikotarpiu – 70 procentų (nuo 2007 m. sausio 1 d. – 85 procentai) vidutinio jų darbo užmokesčio. Nuo 2007 m. liepos 1 d. šios išmokos dydis nuo
 nėštumo ir gimdymo atostogų pabaigos tol, kol vaikui sueis 6 mėnesiai, yra 100
 procentų, o likusį laiką – 85 procentai šia tvarka apskaičiuoto vidutinio jų
 darbo užmokesčio. Jeigu pareigūnui gimsta du ir daugiau vaikų, vaiko
@@ -1591,12 +1543,14 @@ priežiūros, kol jam sueis vieni metai, atostogų laikotarpiu pareigūnui mokam
 3. Tėvystės atostogų laikotarpiu pareigūnams mokamas
 Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų darbo užmokestis, jeigu
 jie gyvena santuokoje su kūdikio motina.
-*Pastaba: Įsigaliojus šiam
-įstatymui, Kalėjimų departamento prie Lietuvos Respublikos teisingumo
-ministerijos bei jam pavaldžių įstaigų ir valstybės įmonių pareigūnams,
-esantiems vaiko priežiūros, kol jam sueis vieni metai, atostogose,
-apskaičiuotos sumos perskaičiuojamos vadovaujantis šio įstatymo nuostatomis ir
-mokamos nuo šio įstatymo nuostatų įsigaliojimo dienos.
+Straipsnio redakcija nuo 2008 m. sausio 1 d.:
+*54 straipsnis. Kitos pareigūnų socialinės garantijos1. Pareigūnams taikomos Valstybinio socialinio draudimo įstatymo nustatytos socialinės garantijos.2. Laikinojo nedarbingumo bei nėštumo ir gimdymo atostogų laikotarpiu pareigūnams mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų darbo užmokestis. Vaiko priežiūros atostogų laikotarpiu, kol vaikui sueis vieni metai, pareigūnams mokama 100 procentų, o kol vaikui sueis dveji metai, – 85 procentai vidutinio jų darbo užmokesčio. 3. Jeigu pareigūnui gimsta du ar daugiau vaikų ir jis yra šių vaikų priežiūros atostogose, vidutinis darbo užmokestis, mokamas pareigūnui šio straipsnio 2 dalyje nustatyta tvarka, didinamas atsižvelgiant į vienu metu gimusių vaikų skaičių (gimus dvynukams – 2 kartus, gimus trynukams – 3 kartus ir t.t.). Išmoka už nėštumo ir gimdymo laikotarpį didinama tokia pat tvarka. Kai pareigūnei, gaunančiai išmoką vaiko priežiūros atostogų laikotarpiu, suteikiamos nėštumo ir gimdymo atostogos ir ji įgyja teisę gauti išmoką nėštumo ir gimdymo atostogų laikotarpiu, jai mokamos abi šios išmokos.4. Jeigu pareigūnas, kuris buvo ar yra išleistas vaiko priežiūros atostogų, kol vaikui sueis dveji metai, gauna darbo užmokestį, kuris yra mažesnis už vidutinį darbo užmokestį, nurodytą šio straipsnio 2 ir 3 dalyse, laikotarpiu, kol vaikui sueis dveji metai, jam mokamas šio vidutinio darbo užmokesčio ir jo gaunamo atitinkamo mėnesio darbo užmokesčio skirtumas.5. Tėvystės atostogų laikotarpiu pareigūnui mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jo darbo užmokestis, jeigu jis pripažino tėvystę.
+ 
+*Pastaba: Įsigaliojus šiam įstatymui Nr. X-1341, pareigūnams iki tol mokamas vidutinis darbo užmokestis pagal Lietuvos Respublikos tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto 54 straipsnį, vadovaujantis šio įstatymo nuostatomis, atitinkamai perskaičiuojamas, padidinamas ir (ar) pratęsiamas jo mokėjimo laikotarpis.
+Pareigūnams, esantiems vaiko
+priežiūros atostogose (nepaisant to, ar vaiko priežiūros atostogos tęsiamos, ar
+suteikiamos iš naujo), kuriems vidutinio darbo užmokesčio mokėjimo laikas buvo
+pasibaigęs, nes vaikui (vaikams) suėjo vieni metai, nuo 2008 m. sausio 1 d. mokėjimas tęsiamas, jeigu vaikui (vaikams) dar nėra suėję dveji metai.
 Straipsnio pakeitimai:
 Nr. IX-1545,
 2003-04-29, Žin., 2003, Nr. 49-2158 (2003-05-21)
@@ -1605,6 +1559,8 @@ Nr. X-124, 2005-02-15,
 Nr.
 X-661,
 2006-06-08, Žin., 2006, Nr. 72-2678 (2006-06-28)
+Nr. X-1341,
+2007-12-04, Žin., 2007, Nr. 132-5349 (2007-12-15)
  
 KETURIOLIKTASIS SKIRSNIS
 KALĖJIMŲ
@@ -1622,8 +1578,8 @@ departamentas ir jam pavaldžios įstaigos, veikiančios pagal Biudžetinių įs
 pavaldžių įstaigų aprūpinimas šaunamaisiais ginklais ir specialiosiomis
 priemonėmis
 1. Kalėjimų
-departamentas ir jam pavaldžios įstaigos šaunamuosius ginklus, šaudmenis ir specialiąsias
-priemones įsigyja įstatymų bei kitų teisės aktų nustatyta tvarka.
+departamentas ir jam pavaldžios įstaigos šaunamuosius ginklus, šaudmenis ir
+specialiąsias priemones įsigyja įstatymų bei kitų teisės aktų nustatyta tvarka.
 2. Šaunamieji
 ginklai, šaudmenys ir specialiosios priemonės saugomos bei išduodamos Kalėjimų
 departamente ir jam pavaldžiose įstaigose Kalėjimų departamento direktoriaus
@@ -1635,8 +1591,8 @@ PENKIOLIKTASIS SKIRSNIS
 BAIGIAMOSIOS
 NUOSTATOS
  
-57 straipsnis. Kalėjimų departamento bei jam pavaldžių
-įstaigų ir valstybės įmonių veiklos kontrolė
+57 straipsnis. Kalėjimų departamento bei jam
+pavaldžių įstaigų ir valstybės įmonių veiklos kontrolė
 Kalėjimų
 departamento bei jam pavaldžių įstaigų ir valstybės įmonių veiklą kontroliuoja
 Lietuvos Respublikos įstatymuose numatytos valstybės institucijos bei
@@ -1711,14 +1667,32 @@ TARNYBOS
 KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
 42 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Įstatymas
-įsigalioja nuo 2007-01-01.
+įsigalioja nuo 2007 m. sausio 1 d.
+ 
+6.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-1341,
+2007-12-04, Žin., 2007, Nr. 132-5349 (2007-12-15)
+TARNYBOS
+KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
+54 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja 2008 m. sausio 1 d.
+Įsigaliojus šiam įstatymui, pareigūnams iki tol mokamas vidutinis darbo užmokestis pagal Lietuvos Respublikos tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto 54 straipsnį, vadovaujantis šio įstatymo nuostatomis, atitinkamai perskaičiuojamas, padidinamas ir (ar) pratęsiamas jo mokėjimo laikotarpis.
+Pareigūnams,
+esantiems vaiko priežiūros atostogose (nepaisant to, ar vaiko priežiūros
+atostogos tęsiamos, ar suteikiamos iš naujo), kuriems vidutinio darbo
+užmokesčio mokėjimo laikas buvo pasibaigęs, nes vaikui (vaikams) suėjo vieni
+metai, nuo 2008 m. sausio 1 d. mokėjimas tęsiamas, jeigu vaikui (vaikams) dar
+nėra suėję dveji metai.
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušra Bodin (2006-08-10)
+Aušrinė Trapinskienė (2007-12-19)
                  
-ausra.bodin@lrs.lt
+autrap@lrs.lt
 
