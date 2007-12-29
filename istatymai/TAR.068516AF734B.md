@@ -50,6 +50,9 @@ Nr. X-659, 2006-06-08,
 1. Apdraustasis asmuo – fizinis asmuo, kuris pats moka ir
 už jį mokamos arba pagal įstatymus turėjo būti mokamos valstybinio socialinio
 draudimo įmokos Valstybinio socialinio draudimo įstatymo nustatyta tvarka.
+ 
+2 dalies
+redakcija iki 2008 m. sausio 1 d.:
 2. Apdraustojo
 asmens draudžiamosios pajamos – visos asmens pajamos, nuo kurių buvo
 mokamos arba turėjo būti mokamos valstybinio socialinio draudimo įmokos ligos
@@ -60,6 +63,18 @@ ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos pašalpos, mokamos
 vadovaujantis Nelaimingų atsitikimų darbe ir profesinių ligų socialinio
 draudimo įstatymu, taip pat nedarbo socialinio draudimo išmokos, mokamos
 vadovaujantis Nedarbo socialinio draudimo įstatymu.
+2 dalies
+redakcija nuo2008 m. sausio 1 d.:
+2. Apdraustojo
+asmens draudžiamosios pajamos – visos asmens pajamos, nuo kurių buvo
+mokamos arba turėjo būti mokamos valstybinio socialinio draudimo įmokos ligos
+ir motinystės socialiniam draudimui, šio įstatymo nustatytos ir apdraustajam
+priskaičiuotos ligos (įskaitant darbdavio mokamas 2 pirmąsias ligos dienas),
+profesinės reabilitacijos, motinystės, tėvystės, motinystės (tėvystės)
+pašalpos, ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos pašalpos,
+mokamos vadovaujantis Nelaimingų atsitikimų darbe ir profesinių ligų socialinio
+draudimo įstatymu, taip pat priskaičiuotos nedarbo socialinio draudimo išmokos,
+mokamos vadovaujantis Nedarbo socialinio draudimo įstatymu.
  
 3 dalies
 redakcija iki 2008 m. sausio 1 d.:
@@ -106,24 +121,37 @@ Nr. X-659, 2006-06-08,
 Žin., 2006, Nr. 72-2676 (2006-06-28)
 Nr. X-1338,
 2007-12-04, Žin., 2007, Nr. 132-5346 (2007-12-15)
+Nr.
+X-1400,
+2007-12-20, Žin., 2007, Nr. 138-5655 (2007-12-29)
  
 4 straipsnis. Asmenys, draudžiami ligos ir motinystės socialiniu
 draudimu
+ 
+1 dalies
+redakcija iki 2008 m. sausio 1 d.:
 1. Ligos ir
 motinystės socialiniu draudimu privalomai draudžiami:
 1) asmenys,
 dirbantys pagal darbo sutartis pas juridinius ar fizinius asmenis, kandidatai į
 notarus (asesoriai), taip pat darbo užmokestį gaunantys asmenys ir einantys
-narystės pagrindu renkamąsias pareigas renkamose organizacijose, skiriami į apygardų,
-miestų, rajonų, apylinkių rinkimų ir referendumo komisijas ir gaunantys darbo
-užmokestį asmenys;
+narystės pagrindu renkamąsias pareigas renkamose organizacijose, skiriami į
+apygardų, miestų, rajonų, apylinkių rinkimų ir referendumo komisijas ir
+gaunantys darbo užmokestį asmenys;
 2) Valstybės
 politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatyme ir Valstybės
 tarnybos įstatyme nurodyti valstybės politikai, teisėjai, valstybės pareigūnai,
 valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus Valstybinio
 socialinio draudimo įstatymo 4 straipsnio 2 dalyje), taip pat gaunantys darbo
-užmokestį Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko
-skiriami į pareigas asmenys.
+užmokestį Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro
+Pirmininko skiriami į pareigas asmenys.
+1 dalies
+redakcija nuo 2008 m. sausio 1 d.:
+1.
+Ligos ir motinystės socialiniu draudimu privalomai draudžiami Lietuvos
+Respublikos valstybinio socialinio draudimo įstatymo 4 straipsnio 1 dalyje
+nurodyti asmenys.
+ 
 2. Ligos ir motinystės socialiniu draudimu privalomai nedraudžiami
 asmenys turi teisę šios rūšies draudimu draustis savanoriškai Vyriausybės
 nustatyta tvarka.
@@ -131,8 +159,14 @@ Straipsnio
 pakeitimai:
 Nr. X-211, 2005-05-19,
 Žin., 2005, Nr. 71-2557 (2005-06-07)
+Nr.
+X-1400,
+2007-12-20, Žin., 2007, Nr. 138-5655 (2007-12-29)
  
-5 straipsnis. Ligos, profesinės reabilitacijos, motinystės, tėvystės, motinystės (tėvystės) socialinio draudimo pašalpos
+5 straipsnis.
+Ligos, profesinės reabilitacijos, motinystės, tėvystės, motinystės 
+(tėvystės)
+socialinio draudimo pašalpos
 1. Pagal šį
 įstatymą skiriamos ir mokamos ligos, profesinės reabilitacijos, motinystės,
 tėvystės, motinystės (tėvystės) pašalpos.
@@ -209,9 +243,9 @@ nedarbingumo atsiradimo bei nėštumo ir gimdymo atostogų suteikimo mėnesį
 galiojusių Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų
 ketvirtadalį, ligos ir motinystės pašalpos skaičiuojamos taikant pastarąjį
 dydį. Jeigu pašalpos gavėjo vidutinis mėnesinis kompensuojamasis uždarbis yra
-mažesnis už vaiko priežiūros ar tėvystės atostogų suteikimo mėnesį galiojusių
-Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų trečdalį, motinystės
-(tėvystės) ir tėvystės pašalpos skaičiuojamos taikant pastarąjį dydį.
+mažesnis už vaiko priežiūros ar tėvystės atostogų suteikimo mėnesį galiojusių Vyriausybės
+patvirtintų einamųjų metų draudžiamųjų pajamų trečdalį, motinystės (tėvystės)
+ir tėvystės pašalpos skaičiuojamos taikant pastarąjį dydį.
 2.
 Pašalpos gavėjo vidutinis mėnesinis kompensuojamasis uždarbis pašalpoms
 skaičiuoti negali viršyti paskutinių Vyriausybės patvirtintų einamųjų metų
@@ -376,8 +410,8 @@ reabilitacijos programoje dienos.
 Apdraustiesiems asmenims, gaunantiems valstybinio socialinio draudimo netekto
 darbingumo (invalidumo) pensiją, ligos pašalpa šio įstatymo 5 straipsnio 2
 dalies 1 punkte numatytais atvejais iš Valstybinio socialinio draudimo fondo
-lėšų pradedama mokėti šio straipsnio 1 dalyje nustatyta tvarka ir mokama ne
-ilgiau kaip 90 kalendorinių dienų per kalendorinius metus.
+lėšų pradedama mokėti šio straipsnio 1 dalyje nustatyta tvarka ir mokama ne ilgiau
+kaip 90 kalendorinių dienų per kalendorinius metus.
 3. Apdraustiesiems asmenims, kurie savanoriškai gydosi nuo
 alkoholizmo, narkomanijos ar toksikomanijos specializuotuose stacionaruose,
 ligos pašalpa iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti
@@ -410,8 +444,8 @@ nustatyta tvarka šeimos nariui, globėjui, slaugančiam sergantį iki keturioli
 metų vaiką, pašalpa iš Valstybinio socialinio draudimo fondo lėšų pradedama
 mokėti nuo pirmosios slaugymo dienos ir mokama ne ilgiau kaip 14 kalendorinių
 dienų. 
-2 dalies
-redakcija nuo 2008 m. sausio 1 d.:
+2 dalies redakcija
+nuo 2008 m. sausio 1 d.:
 2.
 Turinčiam teisę gauti ligos pašalpą šio įstatymo 8 straipsnyje nustatyta tvarka
 šeimos nariui, globėjui, slaugančiam sergantį iki keturiolikos metų vaiką, arba
@@ -544,8 +578,8 @@ veiką;
 2) apdraustasis
 asmuo sužalojo savo sveikatą arba apsimetė sergančiu;
 3)
-apdraustasis asmuo tapo nedarbingas dėl neblaivumo (girtumo) ar dėl piktnaudžiavimo
-psichiką veikiančiomis medžiagomis.
+apdraustasis asmuo tapo nedarbingas dėl neblaivumo (girtumo) ar dėl
+piktnaudžiavimo psichiką veikiančiomis medžiagomis.
  
 2. Asmenims, pažeidusiems gydytojo nustatytą gydymo ir slaugos
 režimą, paskirtu laiku be pateisinamos priežasties neatvykusiems pas gydytoją
@@ -598,9 +632,9 @@ paskyrimo į pareigas terminas ar įgaliojimų laikas, ir turinčiai šio straip
 pašalpa mokama šio įstatymo 17 straipsnyje nustatyta tvarka.
 3. Pagrindas skirti motinystės pašalpą nėštumo ir
 gimdymo atostogų laikotarpiu yra nėštumo ir gimdymo atostogų pažymėjimas,
-išduotas pagal sveikatos apsaugos ir socialinės apsaugos ir darbo ministrų
-patvirtintas Nedarbingumo pažymėjimų bei nėštumo ir gimdymo atostogų pažymėjimų
-davimo taisykles.
+išduotas pagal sveikatos apsaugos ir socialinės apsaugos ir darbo ministrų patvirtintas
+Nedarbingumo pažymėjimų bei nėštumo ir gimdymo atostogų pažymėjimų davimo
+taisykles.
 Straipsnis
 papildomas naujomis 2 ir 3 dalimis, buvusios 2 ir 3 dalys laikomos 4 ir 5
 dalimis nuo 2008 m. sausio 1 d.:
@@ -694,12 +728,12 @@ Apdraustajam asmeniui, įvaikinusiam naujagimį ar paskirtam jo globėju,
 motinystės pašalpa mokama nuo įvaikinimo ar globos nustatymo dienos, kol
 kūdikiui sueis 70 dienų.
 Straipsnio pakeitimai:
-Nr. IX-1248,
-2002-12-10, Žin., 2002, Nr. 124-5622 (2002-12-27)
+Nr. IX-1248, 2002-12-10,
+Žin., 2002, Nr. 124-5622 (2002-12-27)
 Nr. X-659, 2006-06-08,
 Žin., 2006, Nr. 72-2676 (2006-06-28)
-Nr. X-1338,
-2007-12-04, Žin., 2007, Nr. 132-5346 (2007-12-15)
+Nr. X-1338, 2007-12-04,
+Žin., 2007, Nr. 132-5346 (2007-12-15)
  
 18 straipsnis. Motinystės pašalpos
 nėštumo ir gimdymo atostogų laikotarpiu dydis
@@ -767,9 +801,9 @@ dieniniuose skyriuose ir pertrauka nuo mokslo pabaigos (pagal mokslo baigimą
 3.
 Teisę gauti tėvystės pašalpą, tėvystės atostogų laikotarpiu taip pat turi
 apdraustieji, jeigu jie iki tėvystės atostogų pradžios šio stažo neįgijo dėl
-to, kad nurodytais laikotarpiais buvo draudžiami kaip asmenys, išvardyti
-Valstybinio socialinio draudimo įstatymo 4 straipsnio 2 dalies 1 ar 2 punkte,
-ir pertrauka nuo statuso pasikeitimo neviršija 3 mėnesių.
+to, kad nurodytais laikotarpiais buvo draudžiami kaip asmenys, išvardyti Valstybinio
+socialinio draudimo įstatymo 4 straipsnio 2 dalies 1 ar 2 punkte, ir pertrauka
+nuo statuso pasikeitimo neviršija 3 mėnesių.
 Įstatymas
 papildytas straipsniu:
 Nr. X-659, 2006-06-08,
@@ -833,8 +867,8 @@ suteikiamos nėštumo ir gimdymo atostogos ir ji įgyja teisę gauti motinystės
 pašalpą nėštumo ir gimdymo atostogų laikotarpiu, jai mokama didesnioji iš šių
 pašalpų arba pagal pasirinkimą.
 3. Asmeniui, neturinčiam teisės gauti motinystės (tėvystės)
-pašalpos iš Valstybinio socialinio draudimo fondo lėšų, mokama pašalpa pagal Išmokų
-vaikams įstatymą.
+pašalpos iš Valstybinio socialinio draudimo fondo lėšų, mokama pašalpa pagal
+Išmokų vaikams įstatymą.
 4. Vienam iš tėvų (įtėvių) ar globėjui, įstatymų nustatyta tvarka
 išleistam vaiko iki vienerių metų priežiūros atostogų bei gaunančiam motinystės
 (tėvystės) pašalpą, atleistam iš darbo dėl įmonės, įstaigos, organizacijos
@@ -845,14 +879,14 @@ paskyrimo į pareigas terminas ar įgaliojimų laikas, motinystės (tėvystės)
 pašalpa mokama šio įstatymo 20 straipsnyje nustatyta tvarka, bet ne ilgiau kaip
 iki įsidarbinimo.
 5. Vienam iš tėvų (įtėvių) ar globėjui, turinčiam šio
-straipsnio 1 dalyje nurodytą ligos ir motinystės socialinio draudimo stažą, atleistam
-iš darbo dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip pat
-dėl to, kad pasibaigė terminuotos darbo sutarties terminas arba Valstybės
-tarnybos įstatyme ir Valstybės politikų, teisėjų ir valstybės pareigūnų darbo
-apmokėjimo įstatyme nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų
-laikas, ir dėl to negavusiam vaiko iki vienerių metų priežiūros atostogų,
-motinystės (tėvystės) pašalpa mokama šio įstatymo 20 straipsnyje nustatyta
-tvarka, bet ne ilgiau kaip iki įsidarbinimo.
+straipsnio 1 dalyje nurodytą ligos ir motinystės socialinio draudimo stažą,
+atleistam iš darbo dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto,
+taip pat dėl to, kad pasibaigė terminuotos darbo sutarties terminas arba
+Valstybės tarnybos įstatyme ir Valstybės politikų, teisėjų ir valstybės pareigūnų
+darbo apmokėjimo įstatyme nurodytų asmenų paskyrimo į pareigas terminas ar
+įgaliojimų laikas, ir dėl to negavusiam vaiko iki vienerių metų priežiūros
+atostogų, motinystės (tėvystės) pašalpa mokama šio įstatymo 20 straipsnyje
+nustatyta tvarka, bet ne ilgiau kaip iki įsidarbinimo.
 19 straipsnio
 redakcija nuo 2008 m. sausio 1 d.:
 19
@@ -880,18 +914,20 @@ pertrauka nuo mokslo pabaigos (pagal mokslo baigimą įrodantį dokumentą), kol
 jie tapo apdraustaisiais, neviršija 3 mėnesių.
 3. Teisę gauti
 motinystės (tėvystės) pašalpą taip pat turi tie apdraustieji asmenys,
-kurie  iki vaiko priežiūros atostogų pradžios
-neįgijo šio straipsnio 1 dalies 3 punkte nustatyto
-stažo dėl to, kad nurodytais
-laikotarpiais buvo draudžiami kaip asmenys, išvardyti Valstybinio socialinio
-draudimo įstatymo 4 straipsnio 2 dalies 1 ar 2 punkte, ir pertrauka nuo jų statuso pasikeitimo neviršija 3 mėnesių. 
+kurie  iki vaiko priežiūros atostogų
+pradžios neįgijo šio straipsnio 1 dalies 3 punkte
+nustatyto stažo dėl to, kad
+nurodytais laikotarpiais buvo draudžiami kaip asmenys, išvardyti Valstybinio
+socialinio draudimo įstatymo 4 straipsnio 2 dalies 1 ar 2 punkte, ir pertrauka
+nuo jų statuso pasikeitimo neviršija 3
+mėnesių. 
 4. Kai moteriai,
 gaunančiai motinystės (tėvystės) pašalpą, suteikiamos nėštumo ir gimdymo
 atostogos ir ji įgyja teisę gauti motinystės pašalpą nėštumo ir gimdymo
 atostogų laikotarpiu, jai mokamos abi šios pašalpos. 
-5. Asmeniui, neturinčiam
-teisės gauti motinystės (tėvystės) pašalpos iš Valstybinio socialinio draudimo
-fondo lėšų, mokama pašalpa pagal Išmokų vaikams įstatymą.
+5. Asmeniui,
+neturinčiam teisės gauti motinystės (tėvystės) pašalpos iš Valstybinio
+socialinio draudimo fondo lėšų, mokama pašalpa pagal Išmokų vaikams įstatymą.
 *6. Vienam iš tėvų
 (įtėvių) ar globėjui, įstatymų nustatyta tvarka išleistam vaiko priežiūros
 atostogų ir gaunančiam motinystės (tėvystės) pašalpą, atleistam iš darbo dėl
@@ -995,8 +1031,8 @@ redakcija nuo 2008 m. sausio 1 d.:
 straipsnis. Motinystės (tėvystės) pašalpos dydis
 1. Motinystės
 (tėvystės) pašalpos dydis nuo nėštumo ir gimdymo atostogų pabaigos, kol vaikui
-sueis vieni metai, yra 100 procentų, o kol vaikui sueis dveji metai,  – 85
-procentai pašalpos gavėjo kompensuojamojo uždarbio dydžio. 
+sueis vieni metai, yra 100 procentų, o kol vaikui sueis dveji metai,  – 85 procentai
+pašalpos gavėjo kompensuojamojo uždarbio dydžio. 
 2. Motinystės
 (tėvystės) pašalpa per mėnesį negali būti mažesnė nei vaiko priežiūros atostogų
 pradžios mėnesį galiojusių einamųjų metų draudžiamųjų pajamų trečdalis. 
@@ -1005,12 +1041,12 @@ apdraustajam gimsta du ir daugiau vaikų ir jis yra
 šių vaikų priežiūros atostogose, motinystės (tėvystės) pašalpa (šio straipsnio
 1 ir 2 dalys) didinama atsižvelgiant į vienu metu gimusių vaikų skaičių (gimus
 dvynukams – 2 kartus, gimus trynukams – 3 kartus ir t.t.). 
-4. Jeigu
-apdraustasis, kuris buvo ar yra išleistas vaiko priežiūros atostogų, turi
-draudžiamųjų pajamų, kurių dydis mažesnis už motinystės (tėvystės) pašalpą, jam
-mokamas šios pašalpos ir jo atitinkamą mėnesį turėtų draudžiamųjų pajamų
-skirtumas Vyriausybės tvirtinamų Ligos ir motinystės socialinio draudimo
-pašalpų nuostatų nustatyta tvarka.  
+4. Jeigu apdraustasis,
+kuris buvo ar yra išleistas vaiko priežiūros atostogų, turi draudžiamųjų
+pajamų, kurių dydis mažesnis už motinystės (tėvystės) pašalpą, jam mokamas šios
+pašalpos ir jo atitinkamą mėnesį turėtų draudžiamųjų pajamų skirtumas
+Vyriausybės tvirtinamų Ligos ir motinystės socialinio draudimo pašalpų nuostatų
+nustatyta tvarka.  
 5. Motinystės
 (tėvystės) pašalpa apskaičiuojama ir mokama Vyriausybės tvirtinamų Ligos ir
 motinystės socialinio draudimo pašalpų nuostatų nustatyta tvarka.
@@ -1048,8 +1084,8 @@ profesinės reabilitacijos programoje ir dėl to negauna darbo pajamų;
 profesinės reabilitacijos programos pradžios turi ne trumpesnį kaip 3 mėnesių
 per paskutinius 12 mėnesių arba ne trumpesnį kaip 6 mėnesių per paskutinius 24
 mėnesius ligos ir motinystės socialinio draudimo stažą.
-2. Pagrindas
-skirti profesinės reabilitacijos pašalpą yra NDNT sprendimas dėl profesinės
+2. Pagrindas skirti
+profesinės reabilitacijos pašalpą yra NDNT sprendimas dėl profesinės
 reabilitacijos paslaugų poreikio nustatymo ir profesinės reabilitacijos
 pažymėjimas, išduotas vadovaujantis socialinės apsaugos ir darbo ministro
 patvirtintomis Profesinės reabilitacijos pažymėjimų davimo taisyklėmis.
@@ -1085,18 +1121,18 @@ mokama iš Valstybinio socialinio draudimo fondo lėšų.
 straipsnis. Profesinės reabilitacijos pašalpos nemokėjimas
 Jei asmuo
 nedalyvauja profesinės reabilitacijos programoje, profesinės reabilitacijos
-pašalpa neskiriama, nepaisant to, kad asmeniui nustatytas profesinės reabilitacijos
-paslaugų poreikis ir išduotas profesinės reabilitacijos pažymėjimas, o
-paskirtosios mokėjimas nutraukiamas Vyriausybės patvirtintų Ligos ir motinystės
-socialinio draudimo pašalpų nuostatų nustatyta tvarka.
+pašalpa neskiriama, nepaisant to, kad asmeniui nustatytas profesinės
+reabilitacijos paslaugų poreikis ir išduotas profesinės reabilitacijos
+pažymėjimas, o paskirtosios mokėjimas nutraukiamas Vyriausybės patvirtintų
+Ligos ir motinystės socialinio draudimo pašalpų nuostatų nustatyta tvarka.
  
 21(5)
 straipsnis. Reabilitacijos pašalpos mokėjimo atnaujinimas
 Nutrauktos
 profesinės reabilitacijos pašalpos mokėjimas Vyriausybės patvirtintų Ligos ir
 motinystės socialinio draudimo pašalpų nuostatų nustatyta tvarka atnaujinamas
-nuo dienos, kurią asmuo pradėjo tęsti anksčiau pradėtą profesinės reabilitacijos
-programą.
+nuo dienos, kurią asmuo pradėjo tęsti anksčiau pradėtą profesinės
+reabilitacijos programą.
  
 PENKTASIS SKIRSNIS
 VALSTYBINIO
@@ -1272,12 +1308,12 @@ DRAUDIMO PENSIJŲ ĮSTATYMO, VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO
 SANDAROS ĮSTATYMO, INVALIDŲ SOCIALINĖS INTEGRACIJOS ĮSTATYMO, VALSTYBINIŲ
 SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 33, 34, 36, 45 STRAIPSNIŲ PAKEITIMO IR
 PAPILDYMO 45(1) STRAIPSNIU ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ
-ĮSTATYMO 9, 16, 28, 35, 36, 40, 43, 45, 49, 50, 54 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
-BEI ĮSTATYMO PAPILDYMO 55(6) STRAIPSNIU IR VII SKYRIUMI ĮSTATYMO, VALSTYBINIŲ
-SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 10, 28, 29, 34, 35, 38, 39, 40, 45, 49,
-54, 56 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(1), 55(2),
-55(3), 55(4), 55(5) STRAIPSNIAIS ĮSTATYMO, LIGOS IR MOTINYSTĖS SOCIALINIO
-DRAUDIMO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ĮSTATYMO 9, 16, 28, 35, 36, 40, 43, 45, 49, 50, 54 STRAIPSNIŲ PAKEITIMO IR
+PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(6) STRAIPSNIU IR VII SKYRIUMI ĮSTATYMO,
+VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 10, 28, 29, 34, 35, 38, 39,
+40, 45, 49, 54, 56 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO
+55(1), 55(2), 55(3), 55(4), 55(5) STRAIPSNIAIS ĮSTATYMO, LIGOS IR MOTINYSTĖS
+SOCIALINIO DRAUDIMO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis Įstatymas įsigalioja nuo 2005 m. sausio 1 d.
  
 9.
@@ -1287,9 +1323,9 @@ Nr. X-211, 2005-05-19,
 Žin., 2005, Nr. 71-2557 (2005-06-07)
 LIGOS IR MOTINYSTĖS SOCIALINIO
 DRAUDIMO ĮSTATYMO, NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO
-DRAUDIMO ĮSTATYMO, ŽALOS ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ
-PROFESINE LIGA LAIKINOJO ĮSTATYMO BEI VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+DRAUDIMO ĮSTATYMO, ŽALOS ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR
+SUSIRGIMŲ PROFESINE LIGA LAIKINOJO ĮSTATYMO BEI VALSTYBINIO SOCIALINIO DRAUDIMO
+ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis Įstatymas įsigalioja nuo 2005 m. liepos 1 d.
  
 10.
@@ -1305,15 +1341,15 @@ PAPILDYMO 18(1), 18(2), 18(3) STRAIPSNIAIS ĮSTATYMAS
 11.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. X-1205,
-2007-06-26, Žin., 2007, Nr. 77-3042 (2007-07-12)
+Nr. X-1205, 2007-06-26,
+Žin., 2007, Nr. 77-3042 (2007-07-12)
 LIGOS IR MOTINYSTĖS SOCIALINIO
 DRAUDIMO ĮSTATYMO 5, 6, 19, 20, 21 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2008 m. sausio 1 d.
 Šis įstatymas pripažintas
 negaliojančiu nuo 2007 m. gruodžio 15 d.:
-Lietuvos Respublikos
-Seimas, Įstatymas
+Lietuvos
+Respublikos Seimas, Įstatymas
 Nr. X-1339,
 2007-12-04, Žin., 2007, Nr. 132-5347 (2007-12-15)
 LIGOS IR MOTINYSTĖS SOCIALINIO
@@ -1355,8 +1391,21 @@ laikinai nedarbingi, išleisti nėštumo ir gimdymo ar tėvystės atostogų arba
 vaiko priežiūros atostogų ir atitinka kitas sąlygas, nustatytas šioms pašalpoms
 gauti.
  
-*** Pabaiga ***
+13.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. X-1400,
+2007-12-20, Žin., 2007, Nr. 138-5655 (2007-12-29)
+LIGOS
+IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 3 IR 4 STRAIPSNIŲ PAKEITIMO
+ĮSTATYMAS
+Šis įstatymas įsigalioja 2008 m. sausio 1 d.
+ 
+***
+Pabaiga ***
  
  
-Redagavo: Aušrinė Trapinskienė (2007-12-17)
-                  autrap@lrs.lt
+Redagavo:
+Aušrinė Trapinskienė (2008-01-02)
+                 
+autrap@lrs.lt
