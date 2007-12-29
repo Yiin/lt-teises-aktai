@@ -13,27 +13,30 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.70F4FFCAE536"
 
 # Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymas
 
-Suvestinė redakcija nuo 2005-12-22 iki 2007-12-28
+Suvestinė redakcija nuo 2007-12-29 iki 2012-10-03
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 50-1432, i. k. 1001010ISTAIII-1708
  
+Nauja redakcija nuo 2007-12-29:
+Nr. X-1384, 2007-12-18, Žin. 2007, Nr. 140-5756 (2007-12-29), i. k. 1071010ISTA00X-1384
  
-LIETUVOS RESPUBLIKOS VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS Į S T A T Y M A S
+LIETUVOS RESPUBLIKOS VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS ĮSTATYMAS
  
 2000 m. gegužės 25 d. Nr. VIII-1708
 Vilnius
  
+ 
 
 
-PIRMASIS SKIRSNIS
-Bendrosios nuostatos
+PIRMASIS SKIRSNIS 
+BENDROSIOS NUOSTATOS
  
 
 
 1 straipsnis. Įstatymo paskirtis
 
 
-Šio įstatymo paskirtis - reglamentuoti vaiko teisių apsaugos kontrolieriaus veiklą, taip pat Vaiko teisių apsaugos kontrolieriaus įstaigos statusą bei struktūrą.
+Šis įstatymas nustato Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus (toliau – vaiko teisių apsaugos kontrolierius) veiklos teisinius pagrindus ir įgaliojimus, taip pat Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstaigos (toliau – Vaiko teisių apsaugos kontrolieriaus įstaiga ar Įstaiga) statusą ir organizacinę struktūrą.
  
 
 
@@ -41,10 +44,10 @@ Bendrosios nuostatos
 
 
 
-2 straipsnis. Pagrindiniai vaiko teisių apsaugos kontrolieriaus veiklos principai
+2 straipsnis. Vaiko teisių apsaugos kontrolieriaus veiklos tikslas
 
 
-Vaiko teisių apsaugos kontrolierius savo veiklą grindžia teisėtumo, nešališkumo, viešumo, vaiko teisių ir jo teisėtų interesų prioritetiškumo bei nepriklausomumo priimant sprendimus principais.
+Vaiko teisių apsaugos kontrolieriaus veiklos tikslas – gerinti vaiko teisinę apsaugą, ginti vaiko teises ir jo teisėtus interesus, užtikrinti tarptautinės ir nacionalinės teisės aktuose nustatytų vaiko teisių ir jo teisėtų interesų įgyvendinimą, atlikti vaiko teisių užtikrinimo ir apsaugos priežiūrą bei kontrolę Lietuvoje.
  
 
 
@@ -52,10 +55,38 @@ Vaiko teisių apsaugos kontrolierius savo veiklą grindžia teisėtumo, nešali�
 
 
 
-3 straipsnis. Vaiko teisių apsaugos kontrolieriaus veiklos teisiniai pagrindai
+3 straipsnis. Pagrindiniai vaiko teisių apsaugos kontrolieriaus veiklos principai
 
 
-Vaiko teisių apsaugos kontrolierius savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, įstatymais, kitais Seimo priimtais teisės aktais, Lietuvos Respublikos tarptautinėmis sutartimis, Respublikos Prezidento dekretais, Vyriausybės nutarimais, kitais teisės aktais, taip pat šiuo įstatymu.
+Vaiko teisių apsaugos kontrolierius savo veikloje vadovaujasi šiais principais:
+
+
+1) vaiko teisių ir jo teisėtų interesų prioritetiškumo. Vaiko teisių apsaugos kontrolierius vadovaujasi šiuo principu ir priimdamas sprendimus, susijusius su vaiku, atsižvelgia į jų poveikį vaiko gerovei;
+
+
+
+
+2) vaiko dalyvavimo ir išklausymo. Vaikas turi teisę išreikšti savo nuomonę ir daryti įtaką sprendimams, susijusiems su jo gerove šeimoje ir visuomenėje. Vaiko teisių apsaugos kontrolierius užtikrina aktyvaus vaiko dalyvavimo ir išklausymo galimybes bei atsižvelgia į vaiko nuomonę, jeigu ji neprieštarauja vaiko interesams;
+
+
+
+
+3) veiklos laisvės, savarankiškumo ir nepriklausomumo. Vaiko teisių apsaugos kontrolierius yra nepriklausomas nuo valstybės ir savivaldybių institucijų, pareigūnų bei kitų asmenų ir pagal kompetenciją veikia savarankiškai. Vaiko teisių apsaugos kontrolieriui negali būti daromas joks politinis, ekonominis, psichologinis, socialinis spaudimas ar kitoks neteisėtas poveikis, kuris galėtų turėti įtakos jo sprendimams;
+
+
+
+
+4) atskaitingumo. Vaiko teisių apsaugos kontrolierius už savo veiklą yra atskaitingas Lietuvos Respublikos Seimui;
+
+
+
+
+5) teisėtumo, teisingumo ir nešališkumo. Vaiko teisių apsaugos kontrolierius savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, tarptautinėmis sutartimis ir susitarimais, šiuo ir kitais įstatymais bei teisės aktais, teisės principais. Vaiko teisių apsaugos kontrolierius vienodai (lygiai teisingai) gina visus vaikus ir savo veikloje yra objektyvus;
+
+
+
+
+6) viešumo. Vaiko teisių apsaugos kontrolierius viešai teikia informaciją visuomenei apie savo veiklą bei vaiko teisių ir jo teisėtų interesų apsaugą Lietuvos Respublikoje, išskyrus informaciją, dėl kurios gali būti pažeistos vaiko teisės ar jo teisėti interesai arba kuri Lietuvos Respublikos įstatymų nustatyta tvarka yra neskelbtina.
  
 
 
@@ -65,15 +96,17 @@ Vaiko teisių apsaugos kontrolierius savo veikloje vadovaujasi Lietuvos Respubli
 
 
 
-ANTRASIS SKIRSNIS
+
+
+ANTRASIS SKIRSNIS 
 VAIKO TEISIŲ APSAUGOS KONTROLIERIUS
  
 
 
-4 straipsnis. Reikalavimai vaiko teisių apsaugos kontrolieriui
+4 straipsnis. Vaiko teisių apsaugos kontrolierius
 
 
-Vaiko teisių apsaugos kontrolieriumi gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį teisinį išsimokslinimą.
+Vaiko teisių apsaugos kontrolierius – Lietuvos Respublikos Seimo (toliau – Seimo) skiriamas valstybės pareigūnas, vykdantis vaiko teisių ir jo teisėtų interesų užtikrinimo ir apsaugos priežiūrą ir kontrolę, tiriantis vaiko teisių ir teisėtų interesų pažeidimo atvejus bei siekiantis gerinti vaiko padėtį Lietuvoje.
  
 
 
@@ -81,20 +114,10 @@ Vaiko teisių apsaugos kontrolieriumi gali būti skiriamas nepriekaištingos rep
 
 
 
-5 straipsnis. Vaiko teisių apsaugos kontrolieriaus skyrimas
+5 straipsnis. Vaiko teisių apsaugos kontrolieriui keliami reikalavimai
 
 
-1. Vaiko teisių apsaugos kontrolierių 4 metų kadencijai skiria Seimas Seimo Pirmininko teikimu.
-
-
-
-
-2. Vaiko teisių apsaugos kontrolieriumi asmuo gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės.
-
-
-
-
-3. Vaiko teisių apsaugos kontrolieriui mirus ar atleidus jį iš pareigų šio įstatymo 6 straipsnyje nurodytais pagrindais arba kitais įstatymų nustatytais atvejais, Seimas Seimo Pirmininko teikimu skiria visai kadencijai kitą vaiko teisių apsaugos kontrolierių.
+Vaiko teisių apsaugos kontrolieriumi gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis teisės bakalauro ir teisės magistro arba teisininko profesinį kvalifikacinį laipsnį (vienpakopį teisinį universitetinį išsilavinimą) ir ne mažesnį kaip 10 metų teisinio arba teisinio pedagoginio darbo stažą.
  
 
 
@@ -102,75 +125,47 @@ Vaiko teisių apsaugos kontrolieriumi gali būti skiriamas nepriekaištingos rep
 
 
 
-51 straipsnis. Vaiko teisių apsaugos kontrolieriaus priesaika
+6 straipsnis. Vaiko teisių apsaugos kontrolieriaus skyrimas
 
 
-1. Asmuo, paskirtas vaiko teisių apsaugos kontrolieriumi, prieš pradėdamas eiti pareigas, prisiekia Lietuvos valstybei. Prisiekiantis asmuo turi teisę pasirinkti vieną iš šių priesaikos tekstų:
+1. Seimo Pirmininko teikimu Seimas skiria vaiko teisių apsaugos kontrolierių penkerių metų kadencijai.
 
 
-1) „Aš, Lietuvos Respublikos vaiko teisių apsaugos kontrolierius (-ė) (vardas, pavardė), prisiekiu būti ištikimas (-a) Lietuvos valstybei, vykdyti jos Konstituciją ir įstatymus, savo pareigas atlikti garbingai, ginti žmogaus teises, laisves ir teisėtus interesus, visada būti nešališkas (-a), saugoti man patikėtas paslaptis.
+
+
+2. Vaiko teisių apsaugos kontrolieriui mirus ar atleidus jį iš pareigų šio įstatymo 8 straipsnyje nurodytais pagrindais Seimas Seimo Pirmininko teikimu skiria kitą vaiko teisių apsaugos kontrolierių penkerių metų kadencijai.
+ 
+
+
+
+
+
+
+7 straipsnis. Vaiko teisių apsaugos kontrolieriaus priesaika
+
+
+1. Asmuo, paskirtas vaiko teisių apsaugos kontrolieriumi, prieš pradėdamas eiti pareigas prisiekia Lietuvos Respublikai. Prisiekiantis asmuo turi teisę pasirinkti vieną iš šių priesaikos tekstų:
+
+
+1) „Aš, Lietuvos Respublikos vaiko teisių apsaugos kontrolierius (kontrolierė) (vardas, pavardė), prisiekiu būti ištikimas (-a) Lietuvos Respublikai, vykdyti jos Konstituciją ir įstatymus, savo pareigas atlikti garbingai, ginti vaiko teises, laisves ir teisėtus interesus, visada būti nešališkas (-a), saugoti man patikėtas paslaptis.
 Tepadeda man Dievas.“;
 
 
 
 
-2) „Aš, Lietuvos Respublikos vaiko teisių apsaugos kontrolierius (-ė) (vardas, pavardė), prisiekiu būti ištikimas (-a) Lietuvos valstybei, vykdyti jos Konstituciją ir įstatymus, savo pareigas atlikti garbingai, ginti žmogaus teises, laisves ir teisėtus interesus, visada būti nešališkas (-a), saugoti man patikėtas paslaptis.“
+2) „Aš, Lietuvos Respublikos vaiko teisių apsaugos kontrolierius (kontrolierė) (vardas, pavardė), prisiekiu būti ištikimas (-a) Lietuvos Respublikai, vykdyti jos Konstituciją ir įstatymus, savo pareigas atlikti garbingai, ginti vaiko teises, laisves ir teisėtus interesus, visada būti nešališkas (-a), saugoti man patikėtas paslaptis.“.
 
 
 
 
 
 
-2. Priesaiką priima Seimo Pirmininkas Seimo posėdyje.
+2. Vaiko teisių apsaugos kontrolierius prisiekia Seime. Priesaiką priima Seimo Pirmininkas arba Seimo pirmininko pavaduotojas.
 
 
 
 
 3. Vaiko teisių apsaugos kontrolierius priesaikos tekstą pasirašo. Priesaikos tekstas saugomas Seime.
-TAR pastaba. Iki įstatymo Nr. X-443 įsigaliojimo (2005-12-22) paskirtas vaiko teisių apsaugos kontrolierius Seimo posėdyje prisiekia per du mėnesius nuo įstatymo Nr. X-443 įsigaliojimo dienos (2005-12-22).
-
-
-Papildyta straipsniu:
-Nr. X-443, 2005-12-13, Žin., 2005, Nr. 149-5420 (2005-12-22), i. k. 1051010ISTA000X-443
- 
-
-
-
-
-6 straipsnis. Vaiko teisių apsaugos kontrolieriaus atleidimo iš pareigų pagrindai
-
-
-1. Vaiko teisių apsaugos kontrolierius gali būti atleistas iš pareigų:
-
-
-1) paties prašymu;
-
-
-
-
-2) pasibaigus kadencijai, jei jis neskiriamas pakartotinai;
-
-
-
-
-3) negalint eiti pareigų dėl sveikatos būklės, t. y. per vienerius metus vaiko teisių apsaugos kontrolieriui sergant ilgiau kaip 4 mėnesius iš eilės arba susirgus liga, trukdančia eiti pareigas, ir dėl to gavus Sveikatos apsaugos ministerijos sudarytos gydytojų komisijos išvadą;
-
-
-
-
-4) įsiteisėjus dėl jo apkaltinamajam teismo nuosprendžiui;
-
-
-
-
-5) Seimui pareiškus jam nepasitikėjimą. 
-
-
-
-
-
-
-2. Šio straipsnio 1 dalies 1 ir 2 punktais nustatytais atvejais vaiko teisių apsaugos kontrolierius eina pareigas tol, kol paskiriamas kitas asmuo.
  
 
 
@@ -178,10 +173,55 @@ Nr. X-443, 2005-12-13, Žin., 2005, Nr. 149-5420 (2005-12-22), i. k. 1051010ISTA
 
 
 
-7 straipsnis. Vaiko teisių apsaugos kontrolieriaus atleidimas iš pareigų
+8 straipsnis. Vaiko teisių apsaugos kontrolieriaus atleidimo iš pareigų pagrindai
 
 
-Sprendimą dėl vaiko teisių apsaugos kontrolieriaus atleidimo iš pareigų priima Seimas daugiau kaip pusės visų Seimo narių balsų dauguma. 
+1. Vaiko teisių apsaugos kontrolierius atleidžiamas iš pareigų, kai:
+
+
+1) pasibaigia įgaliojimų laikas ir jis neskiriamas kitai kadencijai;
+
+
+
+
+2) jis atsistatydina;
+
+
+
+
+3) nedirba dėl laikinojo nedarbingumo ilgiau kaip 120 kalendorinių dienų iš eilės arba ilgiau kaip 140 dienų per paskutinius 12 mėnesių, jei įstatymų nenustatyta, kad dėl tam tikros ligos pareigos paliekamos ilgesnį laiką, arba kai vaiko teisių apsaugos kontrolierius pagal Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės apsaugos ir darbo ministerijos išvadą negali eiti pareigų;
+
+
+
+
+4) jam įsiteisėja apkaltinamasis teismo nuosprendis;
+
+
+
+
+5) daugiau kaip pusė visų Seimo narių pareiškia nepasitikėjimą juo;
+
+
+
+
+6) praranda Lietuvos Respublikos pilietybę.
+
+
+
+
+
+
+2. Šio straipsnio 1 dalies 2 ir 3 punktuose nustatytais atvejais sprendimą dėl vaiko teisių apsaugos kontrolieriaus atleidimo priima Seimas Seimo Pirmininko teikimu.
+
+
+
+
+3. Šio straipsnio 1 dalies 3 punkte nustatytu atveju klausimą dėl vaiko teisių apsaugos kontrolieriaus atleidimo Seimas sprendžia tik tada, kai yra sveikatos apsaugos ministro sudarytos gydytojų komisijos išvada.
+
+
+
+
+4. Šio straipsnio 1 dalies 1 ir 2 punktuose nustatytais atvejais vaiko teisių apsaugos kontrolierius eina pareigas tol, kol į jo vietą paskiriamas naujas vaiko teisių apsaugos kontrolierius, bet ne ilgiau kaip 3 mėnesius.
  
 
 
@@ -189,10 +229,10 @@ Sprendimą dėl vaiko teisių apsaugos kontrolieriaus atleidimo iš pareigų pri
 
 
 
-8 straipsnis. Draudimai vaiko teisių apsaugos kontrolieriui 
+9 straipsnis. Su vaiko teisių apsaugos kontrolieriaus pareigomis nesuderinama veikla
 
 
-Vaiko teisių apsaugos kontrolierius negali eiti jokių kitų renkamų ar skiriamų pareigų valstybės ir savivaldybių institucijose ar įstaigose, dirbti kitose nevalstybinėse, verslo, komercijos ar kitokiose įmonėse, įstaigose, organizacijose, taip pat negali gauti jokio kito atlyginimo, išskyrus nustatytą pagal einamas pareigas bei užmokestį už pedagoginę ar kūrybinę veiklą.
+Vaiko teisių apsaugos kontrolieriaus pareigos nesuderinamos su jokiomis kitomis renkamomis ar skiriamomis pareigomis valstybės ir savivaldybių institucijose ir įstaigose, taip pat su darbu juridiniuose asmenyse. Vaiko teisių apsaugos kontrolierius negali gauti kito darbo užmokesčio, išskyrus jam nustatytą pagal einamas pareigas atlyginimą už mokslinį bei pedagoginį darbą aukštosiose mokyklose ar valstybės tarnautojų kvalifikacijos tobulinimo įstaigose, už neformalųjį suaugusiųjų švietimą ir autorinį atlyginimą už kūrybinį darbą. Vaiko teisių apsaugos kontrolierius negali dalyvauti politinių partijų veikloje.
  
 
 
@@ -200,73 +240,20 @@ Vaiko teisių apsaugos kontrolierius negali eiti jokių kitų renkamų ar skiria
 
 
 
-9 straipsnis. Vaiko teisių apsaugos kontrolieriaus nepriklausomumas
+10 straipsnis. Metų veiklos ataskaitų pateikimas
 
 
-Vaiko teisių apsaugos kontrolierius, eidamas tarnybines pareigas, yra nepriklausomas nuo valstybės ir savivaldybių institucijų ar įstaigų ir jų pareigūnų, nevalstybinių institucijų ar piliečių ir vadovaujasi tik įstatymais. 
- 
-
-
+1. Vaiko teisių apsaugos kontrolierius kasmet ne vėliau kaip iki balandžio 1 dienos raštu pateikia Seimui vaiko teisių apsaugos kontrolieriaus praėjusių kalendorinių metų veiklos ataskaitą.
 
 
 
 
-10 straipsnis. Vaiko teisių apsaugos kontrolieriaus darbo apmokėjimas, socialinės garantijos ir garantijos atleidus iš pareigų 
-Pakeistas straipsnio pavadinimas:
-Nr. IX-443, 2001-07-10, Žin., 2001, Nr. 64-2328 (2001-07-25), i. k. 1011010ISTA00IX-443
- 
-
-
-1. Vaiko teisių apsaugos kontrolieriui mokamas paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio (VMDU) 5 dydžių mėnesinis atlyginimas. Priedai ar premijos jam nemokami. Pradėjus įgyvendinti Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatytą darbo apmokėjimo sistemą, vaiko teisių apsaugos kontrolieriui taikomos minėtu įstatymu nustatytos darbo apmokėjimo sąlygos.
-Straipsnio dalies pakeitimai:
-Nr. IX-273, 2001-04-19, Žin., 2001, Nr. 39-1344 (2001-05-09), i. k. 1011010ISTA00IX-273
- 
+2. Sprendimą dėl vaiko teisių apsaugos kontrolieriaus ataskaitos ir šios institucijos veiklos Seimo statuto nustatyta tvarka priima Seimas.
 
 
 
 
-2. Vaiko teisių apsaugos kontrolierius valstybiniu socialiniu draudimu draudžiamas Valstybinio socialinio draudimo įstatymo nustatyta tvarka. 
-Papildyta straipsnio dalimi:
-Nr. IX-443, 2001-07-10, Žin., 2001, Nr. 64-2328 (2001-07-25), i. k. 1011010ISTA00IX-443
- 
-
-
-
-
-3. Vaiko teisių apsaugos kontrolieriui, atleistam iš pareigų pagal šio įstatymo 6 straipsnio 1 dalies 2 punktą, išmokama jo vidutinio mėnesinio darbo užmokesčio dydžio išeitinė pašalpa; pagal 6 straipsnio 1 dalies 3 ir 5 punktus – dviejų jo vidutinių mėnesinių darbo užmokesčių dydžio išeitinė pašalpa, o jam mirus – jo šeimai išmokama dviejų jo vidutinių mėnesinių darbo užmokesčių dydžio kompensacija.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. IX-443, 2001-07-10, Žin., 2001, Nr. 64-2328 (2001-07-25), i. k. 1011010ISTA00IX-443
- 
-
-
-
-
-4. Vaiko teisių apsaugos kontrolierius, atleistas iš pareigų pagal šio įstatymo 6 straipsnio 1 dalies 2 punktą, Valstybės tarnybos įstatymo nustatyta tvarka turi teisę grįžti į buvusias arba, jeigu nėra galimybės, kitas to paties lygio ir kategorijos pareigas.
-Straipsnio dalies pakeitimai:
-Nr. IX-122, 2000-12-21, Žin., 2000, Nr. 111-3581 (2000-12-29), i. k. 1001010ISTA00IX-122
-Straipsnio dalies numeracijos pakeitimas:
-Nr. IX-443, 2001-07-10, Žin., 2001, Nr. 64-2328 (2001-07-25), i. k. 1011010ISTA00IX-443
- 
-
-
-
-
-
-
-11 straipsnis. Vaiko teisių apsaugos kontrolieriaus pavaduotojas
-
-
-1. Vaiko teisių apsaugos kontrolieriaus pavaduotoju gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį teisinį ar pedagoginį išsimokslinimą.
-
-
-
-
-2. Vaiko teisių apsaugos kontrolieriaus pavaduotoją skiria vaiko teisių apsaugos kontrolierius Seimo Pirmininko pritarimu.
-
-
-
-
-3. Kai vaiko teisių apsaugos kontrolierius atostogauja arba dėl kitų priežasčių negali eiti pareigų, vaiko teisių apsaugos kontrolieriaus pavaduotojas laikinai atlieka jo funkcijas ir atsako už įstaigos veiklą ir įstaigos antspaudo naudojimą bei saugojimą.
+3. Vaiko teisių apsaugos kontrolieriaus veiklos ataskaita turi būti paskelbta Vaiko teisių apsaugos kontrolieriaus įstaigos interneto tinklalapyje, o esant galimybei – ir per kitas visuomenės informavimo priemones.
  
 
 
@@ -277,68 +264,37 @@ Nr. IX-443, 2001-07-10, Žin., 2001, Nr. 64-2328 (2001-07-25), i. k. 1011010ISTA
 
 
 TREČIASIS SKIRSNIS
-Vaiko teisių apsaugos kontrolieriaus 
-kompetencija
+VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS ĮGALIOJIMAI
  
 
 
-12 straipsnis. Vaiko teisių apsaugos kontrolieriaus pareigos
+11 straipsnis. Vaiko teisių apsaugos kontrolieriaus pareigos
 
 
 Vaiko teisių apsaugos kontrolierius:
 
 
-1) tiria fizinių ir juridinių asmenų skundus dėl valstybės ir savivaldybių institucijų ar įstaigų ir jų pareigūnų, nevalstybinių institucijų bei kitų fizinių ir juridinių asmenų, įmonių, neturinčių juridinio asmens teisių, veiksmų ar neveikimo, dėl kurių pažeidžiamos ar gali būti pažeistos vaiko teisės ar jo teisėti interesai, bei priima vieną iš sprendimų, numatytų šio įstatymo 25 straipsnyje;
+1) kontroliuoja ir prižiūri, kaip yra įgyvendinamos Lietuvos Respublikos Konstitucijos, Lietuvos Respublikos tarptautinių sutarčių, Europos Sąjungos teisės aktų, Lietuvos Respublikos įstatymų ir kitų teisės aktų, reglamentuojančių vaiko teisių ir jo teisėtų interesų apsaugą, nuostatos Lietuvoje;
 
 
 
 
-2) kontroliuoja, kaip yra įgyvendinamos Lietuvos Respublikos Konstitucijos, Seimo ratifikuotų konvencijų, Lietuvos Respublikos įstatymų ir kitų teisės aktų, reglamentuojančių vaiko teisių ir jo teisėtų interesų apsaugą,  nuostatos Lietuvoje;
+2) tiria šio įstatymo 16 straipsnyje nurodytus skundus;
 
 
 
 
-3) prižiūri ir kontroliuoja institucijų, susijusių su vaiko teisių ir jo teisėtų interesų apsauga, veiklą, dėl kurios pažeidžiamos ar gali būti pažeistos vaiko teisės ar jo teisėti interesai;
+3) perduoda medžiagą ikiteisminio tyrimo įstaigai ar prokurorui, kai aptinka nusikalstamos veikos požymių;
 
 
 
 
-4) siūlo Seimui ir Vyriausybei priemones, kaip pagerinti Lietuvos Respublikoje įstatymų ir kitų teisės aktų nustatytų vaiko teisių ir jo teisėtų interesų apsaugą;
+4) teikia Respublikos Prezidentui, Seimui ir Vyriausybei pasiūlymus dėl priemonių vaiko teisių ir jo teisėtų interesų apsaugai pagerinti, dėl galiojančių teisės aktų pakeitimo ir naujų teisės aktų priėmimo bei politikos, susijusios su vaiko teisių ir jo teisėtų interesų apsauga, formavimo bei įgyvendinimo;
 
 
 
 
-5) vadovauja Vaiko teisių apsaugos kontrolieriaus įstaigai;
-
-
-
-
-6) vadovaudamasis įstatymų nustatyta tvarka, tvirtina įstaigos etatų sąrašą, darbuotojų tarnybinius atlyginimus;
-
-
-
-
-7) tvirtina Vaiko teisių apsaugos kontrolieriaus įstaigos darbo reglamentą, vidaus darbo tvarkos taisykles bei vaiko teisių apsaugos kontrolieriaus pavaduotojo, vaiko teisių apsaugos kontrolieriaus patarėjų, padėjėjų ir kitų darbuotojų pareigines instrukcijas;
-
-
-
-
-8) tvirtina skundų apskaitos ir tyrimo tvarką;
-
-
-
-
-9) priima ir atleidžia iš pareigų Vaiko teisių apsaugos kontrolieriaus įstaigos darbuotojus;
-
-
-
-
-10) atstovauja Vaiko teisių apsaugos kontrolieriaus įstaigai valstybinėse, nevalstybinėse institucijose bei tarptautinėse organizacijose;
-
-
-
-
-11) per visuomenės informavimo priemones teikia informaciją visuomenei apie vaiko teisių ir jo teisėtų interesų apsaugą Lietuvos Respublikoje.
+5) informuoja visuomenę apie savo veiklą bei vaiko teisių ir jo teisėtų interesų apsaugos padėtį Lietuvoje Vaiko teisių apsaugos kontrolieriaus įstaigos interneto tinklalapyje, o esant galimybei – ir per kitas visuomenės informavimo priemones arba susitikimuose su gyventojais, suinteresuotų institucijų, įstaigų ir organizacijų atstovais.
  
 
 
@@ -348,48 +304,148 @@ Vaiko teisių apsaugos kontrolierius:
 
 
 
-13 straipsnis. Vaiko teisių apsaugos kontrolieriaus teisės
+12 straipsnis. Vaiko teisių apsaugos kontrolieriaus teisės
 
 
-Vaiko teisių apsaugos kontrolierius, atlikdamas savo pareigas, turi teisę:
+1. Vaiko teisių apsaugos kontrolierius vykdydamas savo pareigas turi teisę:
 
 
-1) turėdamas informaciją apie pažeidimus, nenurodytus skunduose, savo iniciatyva pradėti jų tyrimą arba perduoti juos ištirti kitoms kompetentingoms valstybės institucijoms;
-
-
-
-
-2) susipažinti su išnagrinėtomis teisme bylomis, kurios yra susijusios su vaiko teisių ar jo teisėtų interesų pažeidimu;
+1) turėdamas informacijos apie pažeidimus, nenurodytus skunduose, savo iniciatyva pradėti tyrimą arba perduoti juos ištirti kitoms kompetentingoms valstybės institucijoms;
 
 
 
 
-3) nekliudomas įeiti į valstybės ir savivaldybių institucijas ar įstaigas, nevalstybines vaikų įstaigas ir susipažinti su jų veikla;
+2) reikalauti nedelsiant pateikti informaciją, paaiškinimus, protokolus, medžiagą ir kitus dokumentus, būtinus savo funkcijoms atlikti, įstatymų nustatyta tvarka susipažinti su valstybės, tarnybos, komercinę ar banko paslaptį sudarančiais dokumentais, taip pat dokumentais, kuriuose yra informacijos apie įstatymų saugomus asmens duomenis. Prireikus įgyvendinti šią teisę gali būti pasitelkiami policijos pareigūnai ir surašomas atitinkamas aktas apie dokumentų paėmimą;
 
 
 
 
-4) reikalauti ir gauti iš valstybės ir savivaldybių institucijų ar įstaigų, nevalstybinių institucijų bei kitų fizinių ir juridinių asmenų, įmonių, neturinčių juridinio asmens teisių, susijusių su vaiko teisių ir jo teisėtų interesų apsauga, informaciją, paaiškinimus, protokolus bei kitus dokumentus, kurie jam reikalingi vykdant šio įstatymo nustatytas pareigas;
+3) pateikęs tarnybinį pažymėjimą, nekliudomas įeiti į įstaigų, įmonių ir organizacijų patalpas, o į patalpas, kuriose ištisą parą laikomi asmenys, – bet kuriuo paros metu, ir nekliudomai matytis bei kalbėtis su jose esančiais asmenimis, taip pat susipažinti su įstaigų, įmonių ir organizacijų veikla. Į įstaigų, įmonių ir organizacijų, kurių veiklą reglamentuoja tarnybos statutai, teritoriją ir patalpas turi teisę įeiti lydimas šių įstaigų, įmonių ir organizacijų pareigūnų;
 
 
 
 
-5) surašyti administracinio teisės pažeidimo protokolą dėl vaiko teisių apsaugos kontrolieriaus reikalavimų nevykdymo;
+4) susipažinti su išnagrinėtomis teisme bylomis, kurios yra susijusios su vaiko teisių ar jo teisėtų interesų pažeidimu;
 
 
 
 
-6) teikti pasiūlymus Respublikos Prezidentui, Seimui, Vyriausybei dėl galiojančių teisės aktų pakeitimų ir naujų teisės aktų priėmimo bei politikos, susijusios su vaiko teisių ir jo teisėtų interesų apsauga, formavimo bei įgyvendinimo;
+5) reikalauti, kad asmenys, kurių veikla tiriama arba kurie žino su tyrimo dalyku susijusias aplinkybes, paaiškintų ir suteiktų informaciją raštu ar žodžiu;
 
 
 
 
-7) dalyvauti Seimo ir Vyriausybės posėdžiuose, kuriuose svarstomi su vaiko teisių ir jo teisėtų interesų apsauga susiję klausimai, ir pareikšti savo nuomonę; 
+6) apklausti asmenis, taip pat nekliudomai ir tiesiogiai bendrauti su vaikais;
 
 
 
 
-8) dalyvauti Respublikos Prezidento, Seimo ir Vyriausybės įsteigtų komisijų ar kitų institucijų, susijusių su vaiko teisių ir jo teisėtų interesų apsauga, posėdžiuose.
+7) filmuoti, fotografuoti, daryti garso ir vaizdo įrašus, naudoti kitas technines priemones tyrimų metu įstatymų nustatyta tvarka, nepažeisdamas asmenų teisių į privataus gyvenimo neliečiamumą;
+
+
+
+
+8) dalyvauti Respublikos Prezidento, Seimo, Vyriausybės, valstybės ir savivaldybių įstaigų, įmonių, organizacijų bei kitų asmenų organizuojamuose posėdžiuose, pasitarimuose, taip pat komisijų ir darbo grupių veikloje, kai svarstomi klausimai, susiję su vaiko teisių ir jo teisėtų interesų apsauga, su vaiko teisių apsaugos kontrolieriaus veikla arba vaiko teisių apsaugos kontrolieriaus atliekamu tyrimu, ir pareikšti savo nuomonę;
+
+
+
+
+9) sudaryti darbo grupes, komisijas teisės aktams bei pasiūlymams rengti, renginiams organizuoti bei kitiems aktualiems klausimams nagrinėti;
+
+
+
+
+10) informuoti Respublikos Prezidentą, Seimą, Vyriausybę, atitinkamos savivaldybės tarybą bei kitas įstaigas, įmones ar organizacijas apie teisės aktų pažeidimus arba teisės (administracinių) aktų trūkumus, prieštaravimus ar spragas;
+
+
+
+
+11) kreiptis į administracinį teismą su prašymu ištirti, ar norminis administracinis aktas (ar jo dalis) atitinka įstatymą ar Vyriausybės nutarimą, taip pat ištirti, ar konkrečios visuomeninės organizacijos, bendrijos, politinės partijos, politinės organizacijos ar asociacijos priimtas bendro pobūdžio aktas yra teisėtas;
+
+
+
+
+12) siūlyti Seimui kreiptis į Konstitucinį Teismą išnagrinėti, ar teisės aktai, susiję su vaiko teisių apsauga, atitinka Lietuvos Respublikos Konstituciją ir įstatymus;
+
+
+
+
+13) koordinuoti valstybės ir savivaldybių institucijų bei įstaigų, nevyriausybinių organizacijų, kitų juridinių ir fizinių asmenų veiksmus sprendžiant su vaiko teisių ir jo teisėtų interesų apsauga ir užtikrinimu susijusius klausimus bei skatinti bendradarbiavimą tarp žinybų;
+
+
+
+
+14) surašyti administracinio teisės pažeidimo protokolą dėl vaiko teisių apsaugos kontrolieriaus reikalavimų nevykdymo ar kitokio trukdymo vaiko teisių apsaugos kontrolieriui įgyvendinti šio įstatymo jam suteiktas teises;
+
+
+
+
+15) netirdamas vaiko teisių apsaugos kontrolieriaus kompetencijai nepriskirto skundo iš esmės, teikti siūlymus atitinkamoms įstaigoms, įmonėms ar organizacijoms dėl vaiko teisių ir jo teisėtų interesų apsaugos gerinimo, kad nebūtų pažeidžiamos vaiko teisės ir jo teisėti interesai.
+
+
+
+
+
+
+2. Vaiko teisių apsaugos kontrolieriaus pavedimu Vaiko teisių apsaugos kontrolieriaus įstaigos darbuotojai padeda vykdyti jam suteiktus įgaliojimus ir šiame įstatyme numatytas funkcijas (bendrauja su vaikais, apklausia pareigūnus ir kitus asmenis, susipažįsta su teisme išnagrinėtomis bylomis ir pan.). Vaiko teisių apsaugos kontrolieriaus įstaigos darbuotojai neturi teisės atlikti išimtinai vaiko teisių apsaugos kontrolieriaus kompetencijai priskirtų veiksmų (pasirašyti dokumentų, priimti sprendimų ir pan.).
+ 
+
+
+
+
+
+
+13 straipsnis. Pareiga saugoti paslaptis ir duomenis
+
+
+Vaiko teisių apsaugos kontrolierius ir Vaiko teisių apsaugos kontrolieriaus įstaigos valstybės tarnautojai bei darbuotojai privalo saugoti valstybės, tarnybos, komercines ar banko paslaptis ir įstatymų saugomus asmens duomenis, kuriuos sužino eidami pareigas.
+ 
+
+
+
+
+
+
+14 straipsnis. Vaiko teisių apsaugos kontrolieriaus reikalavimų vykdymo privalomumas
+
+
+1. Asmenys privalo vaiko teisių apsaugos kontrolieriui per šio straipsnio 2 dalyje nurodytą terminą pateikti įstatymų nustatyta tvarka prašomą informaciją, dokumentus ir kitą medžiagą, būtiną jo funkcijoms atlikti, leisti susipažinti su reikalaujamais dokumentais ir kita medžiaga, taip pat užtikrinti galimybę nekliudomai bendrauti su vaikais bei įgyvendinti kitus teisės aktų suteiktus įgaliojimus.
+
+
+
+
+2. Vaiko teisių apsaugos kontrolieriaus prašoma informacija, jeigu nenurodytas konkretus terminas, turi būti pateikta ne vėliau kaip per 10 darbo dienų nuo prašymo pateikti informaciją gavimo dienos.
+
+
+
+
+3. Ministerijos, Vyriausybės įstaigos, kitos valstybės ir savivaldybių įstaigos, įmonės ir organizacijos privalo teikti vaiko teisių apsaugos kontrolieriaus sudarytoms darbo grupėms, komisijoms jų prašymu reikiamą informaciją ir kitą medžiagą darbo grupių, komisijų nagrinėjamais (rengiamais) klausimais.
+
+
+
+
+4. Ministerijų, Vyriausybės įstaigų, kitų valstybės ir savivaldybių įstaigų, įmonių ir organizacijų atstovai vaiko teisių apsaugos kontrolieriaus sudarytose darbo grupėse, komisijose suderina atstovaujamos įstaigos, įmonės ar organizacijos vadovo vardu teikiamus pasiūlymus, parengtą teisės akto projektą su įstaigos, įmonės ar organizacijos vadovu.
+
+
+
+
+5. Vaiko teisių apsaugos kontrolieriaus sprendimą privalo nagrinėti asmenys, kuriems sprendimas adresuojamas, ir apie nagrinėjimo rezultatus bei sprendimo vykdymą informuoti vaiko teisių apsaugos kontrolierių.
+ 
+
+
+
+
+
+
+15 straipsnis. Vaiko teisių apsaugos kontrolieriaus bendradarbiavimas
+
+
+1. Vaiko teisių apsaugos kontrolierius, įgyvendindamas šį įstatymą, bendradarbiauja su Lietuvos Respublikos ir užsienio valstybių institucijomis, įstaigomis bei organizacijomis, taip pat su tarptautinėmis organizacijomis bei kitais fiziniais ir juridiniais asmenimis.
+
+
+
+
+2. Vaiko teisių apsaugos kontrolierius skatina ir remia fizinių ir juridinių asmenų bei visuomenės iniciatyvas, kurios padeda įgyvendinti vaiko teisių ir jo teisėtų interesų apsaugą.
  
 
 
@@ -399,15 +455,35 @@ Vaiko teisių apsaugos kontrolierius, atlikdamas savo pareigas, turi teisę:
 
 
 
-14 straipsnis. Vaiko teisių apsaugos kontrolieriaus pareiga saugoti paslaptį
+KETVIRTASIS SKIRSNIS 
+SKUNDŲ PRIĖMIMAS IR TYRIMAS
+ 
 
 
-1. Vaiko teisių apsaugos kontrolierius privalo, raštiškai pasižadėjęs, saugoti valstybės, profesines ar kitas įstatymų saugomas paslaptis, kurias sužinojo eidamas tarnybines pareigas.
+16 straipsnis. Vaiko teisių apsaugos kontrolieriaus tiriami skundai
+
+
+1. Vaiko teisių apsaugos kontrolierius tiria pareiškėjų skundus dėl fizinių ir juridinių asmenų veiksmų ar neveikimo, dėl kurių pažeidžiamos (manoma, kad pažeidžiamos) ar gali būti pažeistos vaiko teisės ar jo teisėti interesai, taip pat skundus dėl pareigūnų piktnaudžiavimo ar biurokratizmo vaiko teisių apsaugos srityje.
 
 
 
 
-2. Šio straipsnio 1 dalyje numatyta pareiga saugoti paslaptis galioja ir įstaigos darbuotojams.
+2. Vaiko teisių apsaugos kontrolierius tiria įstaigų, įmonių ar organizacijų jam perduotus pareiškėjų skundus, jeigu skundo turinys atitinka vaiko teisių apsaugos kontrolieriaus veiklos tikslą, nurodytą šio įstatymo 2 straipsnyje.
+
+
+
+
+3. Vaiko teisių apsaugos kontrolierius netiria Respublikos Prezidento, Seimo narių, Ministro Pirmininko, Vyriausybės (kaip kolegialios institucijos), valstybės kontrolieriaus ir Konstitucinio Teismo bei kitų teismų teisėjų veiklos, savivaldybių tarybų (kaip kolegialių institucijų) veiklos.
+
+
+
+
+4. Vaiko teisių apsaugos kontrolierius įstatymų nustatyta tvarka tiria skundus tik dėl vaiko teises ar jo teisėtus interesus pažeidžiančių prokurorų, ikiteisminio tyrimo pareigūnų veiksmų (neveikimo), tačiau netiria skundų dėl šių pareigūnų procesinių sprendimų teisėtumo ir pagrįstumo.
+
+
+
+
+5. Vaiko teisių apsaugos kontrolierius netikrina teismų priimtų sprendimų, nuosprendžių ir nutarčių pagrįstumo ir teisėtumo.
  
 
 
@@ -415,17 +491,30 @@ Vaiko teisių apsaugos kontrolierius, atlikdamas savo pareigas, turi teisę:
 
 
 
-15 straipsnis. Vaiko teisių apsaugos kontrolieriaus veiklos ataskaita 
+17 straipsnis. Skundų pateikimas
 
 
-1. Vaiko teisių apsaugos kontrolierius kasmet ne vėliau kaip iki balandžio 1 d. privalo raštu pateikti Seimui savo įstaigos praėjusių kalendorinių metų veiklos ataskaitą. 
+1. Pareiškėjas turi teisę pateikti vaiko teisių apsaugos kontrolieriui skundą dėl šio įstatymo 16 straipsnio 1 dalyje nurodytų pažeidimų.
 
 
 
 
-2. Visa ataskaita turi būti paskelbta Vaiko teisių apsaugos kontrolieriaus įstaigos interneto tinklalapyje, o esant galimybei, – ir per kitas visuomenės informavimo priemones.
-Straipsnio dalies pakeitimai:
-Nr. IX-1772, 2003-10-14, Žin., 2003, Nr. 104-4642 (2003-11-05), i. k. 1031010ISTA0IX-1772
+2. Vaikas į vaiko teisių apsaugos kontrolierių gali kreiptis savarankiškai. Vaikui kreipiantis į vaiko teisių apsaugos kontrolierių, šio įstatymo 18 straipsnio reikalavimai netaikomi.
+
+
+
+
+3. Skundai paprastai paduodami raštu. Jeigu skundas gautas kitu būdu arba vaiko teisių apsaugos kontrolierius nustatė šio įstatymo 16 straipsnio 1 dalyje nurodytų pažeidimų požymių, vaiko teisių apsaugos kontrolierius gali pradėti tyrimą savo iniciatyva.
+
+
+
+
+4. Pareiškėjo prašymu jo pavardė, vardas tolesniame tyrime neskelbiami.
+
+
+
+
+5. Pareiškėjų kreipimaisi žodžiu ar raštu, kuriuose neskundžiami fizinių ar juridinių asmenų veiksmai ar neveikimas, o prašoma paaiškinti, suteikti kitą informaciją ar pageidaujamus dokumentus ir t. t., skundais nelaikomi.
  
 
 
@@ -433,147 +522,7 @@ Nr. IX-1772, 2003-10-14, Žin., 2003, Nr. 104-4642 (2003-11-05), i. k. 1031010IS
 
 
 
-
-
-KETVIRTASIS SKIRSNIS
-VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS ĮSTAIGA
- 
-
-
-16 straipsnis. Vaiko teisių apsaugos kontrolieriaus įstaigos statusas
-
-
-1. Vaiko teisių apsaugos kontrolieriaus darbui užtikrinti steigiama Vaiko teisių apsaugos kontrolieriaus įstaiga.
-
-
-
-
-2. Vaiko teisių apsaugos kontrolieriaus įstaiga yra savarankiška vaiko teisių laikymosi priežiūros ir kontrolės valstybės institucija, išlaikoma iš valstybės biudžeto, steigiama Seimo nutarimu.
-
-
-
-
-3. Vaiko teisių apsaugos kontrolieriaus įstaiga yra juridinis asmuo, turintis atsiskaitomąją sąskaitą banke ir antspaudą su Lietuvos valstybės herbu bei pavadinimu „Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstaiga“.
-
-
-
-
-4. Vaiko teisių apsaugos kontrolieriaus įstaigai vadovauja vaiko teisių apsaugos kontrolierius. Jis atsako už įstaigos veiklą ir įstaigos antspaudo naudojimą bei saugojimą.
-
-
-
-
-5. Vaiko teisių apsaugos kontrolieriaus įstaigos funkcijas nustato Seimo patvirtinti Vaiko teisių apsaugos kontrolieriaus įstaigos nuostatai.
- 
-
-
-
-
-
-
-17 straipsnis. Vaiko teisių apsaugos kontrolieriaus įstaigos struktūra
-
-
-Vaiko teisių apsaugos kontrolieriaus įstaigą sudaro: vaiko teisių apsaugos kontrolierius, vaiko teisių apsaugos kontrolieriaus pavaduotojas, vaiko teisių apsaugos kontrolieriaus patarėjai, padėjėjai bei kiti įstaigos darbuotojai.
- 
-
-
-
-
-
-
-
-
-PENKTASIS SKIRSNIS
-Kreipimosi į Vaiko teisių apsaugos kontrolierių tvarka ir skundų tyrimas
- 
-
-
-18 straipsnis. Asmenys ir įmonės, neturinčios juridinio asmens teisių, turintys teisę kreiptis į vaiko teisių apsaugos kontrolierių
-
-
-1. Kiekvienas fizinis ar juridinis asmuo, įmonė, neturinti juridinio asmens teisių, turi teisę kreiptis į vaiko teisių apsaugos kontrolierių.
-
-
-
-
-2. Vaikas į vaiko teisių apsaugos kontrolierių gali kreiptis ir pats. Vaikui kreipiantis į vaiko teisių apsaugos kontrolierių raštu, šio įstatymo 22 straipsnio reikalavimai netaikomi. 
- 
-
-
-
-
-
-
-19 straipsnis. Skundo vaiko teisių apsaugos kontrolieriui pateikimo pagrindai
-
-
-Skundą gali pateikti fizinis ar juridinis asmuo, įmonė, neturinti juridinio asmens teisių, kai manoma, kad:
-
-
-1) fizinis ar juridinis asmuo, įmonė, neturinti juridinio asmens teisių, pažeidė šio įstatymo 3 straipsnyje nurodytų teisės aktų nuostatas;
-
-
-
-
-2) kitais atvejais, kai yra manoma, kad pažeidžiamos vaiko teisės ar jo teisėti interesai.
- 
-
-
-
-
-
-
-
-
-20 straipsnis. Skundo vaiko teisių apsaugos kontrolieriui pateikimo ir priėmimo tvarka
-
-
-1. Skundas vaiko teisių apsaugos kontrolieriui pateikiamas raštu arba žodžiu ir registruojamas vaiko teisių apsaugos kontrolieriaus įstaigoje bei pradedamas jo tyrimas.
-
-
-
-
-2. Gavęs skundą žodžiu arba pastebėjęs vaiko teisių ar jo teisėtų interesų pažeidimo požymius, vaiko teisių apsaugos kontrolierius, manydamas, kad pateikta informacija ar pastebėti požymiai yra teisingi, gali pradėti tyrimą savo iniciatyva.
-
-
-
-
-3. Vaiko teisių apsaugos kontrolieriaus įstaiga tvarko šio straipsnio 2 dalyje nurodytos informacijos atskirą apskaitą.
-
-
-
-
-4. Anoniminiai skundai nenagrinėjami, jeigu vaiko teisių apsaugos kontrolierius nenusprendžia kitaip.
-
-
-
-
-5. Pareiškėjo prašymu jo pavardė, vardas tolesniame skundo tyrime neskelbiami. 
- 
-
-
-
-
-
-
-21 straipsnis. Skundo vaiko teisių apsaugos kontrolieriui pateikimo terminai
-
-
-1. Skundams pateikti nustatomas 3 metų nuo skundžiamųjų veiksmų padarymo terminas. 
-
-
-
-
-2. Skundai, pateikti praleidus šio straipsnio 1 dalyje nustatytą terminą, nenagrinėjami, jeigu vaiko teisių apsaugos kontrolierius nenusprendžia kitaip.
- 
-
-
-
-
-
-
-22 straipsnis. Skundo turinys
+18 straipsnis. Skundo reikalavimai
 
 
 1. Skunde nurodoma:
@@ -584,17 +533,17 @@ Skundą gali pateikti fizinis ar juridinis asmuo, įmonė, neturinti juridinio a
 
 
 
-2) pareiškėjo vardas, pavardė, pavadinimas ir adresas;
+2) pareiškėjo vardas, pavardė (pavadinimas) ir adresas (buveinė);
 
 
 
 
-3) apskundžiamų juridinių asmenų, įmonių, neturinčių juridinio asmens teisių, pavadinimai ar apskundžiamų asmenų vardai, pavardės ir pareigos, įstaiga, kurioje jie dirba;
+3) skundžiamo juridinio asmens pavadinimas ir buveinė ar skundžiamo fizinio asmens vardas, pavardė, įstaiga, įmonė ar organizacija, kurioje jis dirba, arba adresas;
 
 
 
 
-4) skundžiamojo sprendimo pavadinimas ir priėmimo data arba skundžiamųjų veiksmų (neveikimo) apibūdinimas, jų padarymo laikas ir aplinkybės;
+4) skundžiamo sprendimo arba skundžiamos veikos apibūdinimas, jos padarymo laikas ir aplinkybės;
 
 
 
@@ -619,7 +568,7 @@ Skundą gali pateikti fizinis ar juridinis asmuo, įmonė, neturinti juridinio a
 2. Prie skundo gali būti pridedama:
 
 
-1) skundžiamojo sprendimo nuorašas;
+1) ginčijamo sprendimo nuorašas;
 
 
 
@@ -629,7 +578,203 @@ Skundą gali pateikti fizinis ar juridinis asmuo, įmonė, neturinti juridinio a
 
 
 
-3) siūlomų apklausti asmenų sąrašas, nurodant jų adresus ir kokias aplinkybes ar  informaciją jie gali patvirtinti.
+3) siūlomų apklausti asmenų sąrašas, nurodant jų adresus ir kokias aplinkybes ar informaciją jie gali patvirtinti.
+
+
+
+
+
+
+3. Šio straipsnio 1 dalyje nurodytos skundo formos nesilaikymas negali būti pagrindas atsisakyti tirti skundą, išskyrus atvejus, kai neįmanoma pradėti tyrimo dėl duomenų trūkumo, o pareiškėjas vaiko teisių apsaugos kontrolieriaus prašymu jų nepateikia, ar kai skundo tekstas yra neįskaitomas.
+ 
+
+
+
+
+
+
+19 straipsnis. Skundų padavimo terminas
+
+
+Skundams paduoti nustatomas vienų metų terminas nuo skundžiamų veiksmų ar neveikimo padarymo ar skundžiamo sprendimo priėmimo. Skundai, paduoti praėjus šiam terminui, netiriami, jeigu vaiko teisių apsaugos kontrolierius nenusprendžia kitaip.
+ 
+
+
+
+
+
+
+20 straipsnis. Anoniminiai skundai
+
+
+Anoniminiai skundai netiriami, jeigu vaiko teisių apsaugos kontrolierius nenusprendžia kitaip.
+ 
+
+
+
+
+
+
+21 straipsnis. Atsisakymas nagrinėti skundą
+
+
+1. Vaiko teisių apsaugos kontrolierius ne vėliau kaip per 10 darbo dienų nuo skundo gavimo dienos priima sprendimą atsisakyti nagrinėti skundą, jeigu:
+
+
+1) skundo dalykas neatitinka šio įstatymo 16 straipsnio 1 dalyje nurodytų pagrindų;
+
+
+
+
+2) skundas paduotas praėjus šio įstatymo 19 straipsnyje nustatytam terminui. Šiuo atveju vaiko teisių apsaugos kontrolierius gali nuspręsti skundą nagrinėti;
+
+
+
+
+3) skunde nurodytų aplinkybių tyrimas nepriklauso vaiko teisių apsaugos kontrolieriaus kompetencijai;
+
+
+
+
+4) skundas tuo pačiu klausimu buvo išnagrinėtas arba yra nagrinėjamas teisme;
+
+
+
+
+5) dėl skundo dalyko yra priimtas procesinis sprendimas pradėti ikiteisminį tyrimą.
+
+
+
+
+
+
+2. Priėmus sprendimą atsisakyti nagrinėti skundą, pareiškėjui nurodomi atsisakymo pagrindai. Tais atvejais, kai skundas nepriskirtas vaiko teisių apsaugos kontrolieriaus kompetencijai, sprendime atsisakyti nagrinėti skundą nurodoma, į kokią instituciją ar įstaigą tuo klausimu galėtų kreiptis pareiškėjas, arba pranešama, kuriai institucijai ar įstaigai skundas yra perduotas.
+
+
+
+
+3. Skundą ištyrus, pakartotinai paduotas skundas netiriamas, išskyrus atvejus, kai nurodoma naujų aplinkybių ar pateikiama naujų faktų. Jeigu pareiškėjas piktnaudžiauja teise kreiptis į vaiko teisių apsaugos kontrolierių, vaiko teisių apsaugos kontrolieriaus sprendimu susirašinėjimas su tokiu pareiškėju gali būti nutrauktas.
+
+
+
+
+4. Jeigu skundo tyrimo metu nustatomi šio straipsnio 1 dalyje ir 23 straipsnio 4 dalyje nurodyti pagrindai, skundo tyrimas nutraukiamas.
+ 
+
+
+
+
+
+
+22 straipsnis. Skundo ištyrimo terminai
+
+
+1. Skundas turi būti ištirtas ir pareiškėjui atsakyta per 3 mėnesius nuo jo skundo gavimo dienos.
+
+
+
+
+2. Dėl skunde nurodytų aplinkybių sudėtingumo, informacijos gausos, skundžiamų veiksmų tęstinio pobūdžio ar dėl to, kad skundo nagrinėjimo metu prireikia atlikti papildomą tyrimą (gauti dokumentus, paaiškinimus, apklausti suinteresuotus asmenis ir kt.), skundo tyrimo terminas pratęsiamas. Apie vaiko teisių apsaugos kontrolieriaus sprendimą pratęsti skundo tyrimo terminą informuojamas pareiškėjas. Skundai turi būti ištirti ir vaiko teisių apsaugos kontrolieriaus iniciatyva pradėti tyrimai turi būti atlikti per kuo trumpesnį laiką.
+ 
+
+
+
+
+
+
+23 straipsnis. Vaiko teisių apsaugos kontrolieriaus atliekamas tyrimas
+
+
+1. Vaiko teisių apsaugos kontrolierius ištiria skunde nurodytas aplinkybes arba atlieka tyrimą savo iniciatyva ir priima sprendimą.
+
+
+
+
+2. Sprendime nurodoma tyrimo metu nustatytos aplinkybės, surinkti įrodymai ir asmenų veikos teisinis įvertinimas.
+
+
+
+
+3. Vaiko teisių apsaugos kontrolieriaus sprendimas pateikiamas pareiškėjui, taip pat įstaigos, įmonės ar organizacijos, dėl kurios buvo atliekamas tyrimas, vadovui, asmeniui, kurio veiksmai buvo tiriami, bei kitiems sprendime nurodytiems asmenims. Tais atvejais, kai sprendime yra informacijos, kuri pagal įstatymus yra valstybės, tarnybos, komercinė ar banko paslaptis, arba įstatymų saugomų asmens duomenų, pateikiamas ne visas sprendimas.
+
+
+
+
+4. Skundo tyrimas arba vaiko teisių apsaugos kontrolieriaus iniciatyva pradėtas tyrimas nutraukiamas, jei tyrimo metu išnyksta aplinkybės, dėl kurių atliekamas tyrimas, pareiškėjas skundą atsiima arba gaunamas pareiškėjo prašymas netirti skundo, trūksta objektyvių duomenų apie padarytą pažeidimą, tarpininkaujant vaiko teisių apsaugos kontrolieriui, problemos išsprendžiamos gera valia arba vaiko teises ar jo teisėtus interesus pažeidžianti veika nutraukiama
+
+
+
+
+5. Jeigu pareiškėjas skundą atsiima arba gaunamas pareiškėjo prašymas netirti skundo, vaiko teisių apsaugos kontrolierius gali pradėti tyrimą savo iniciatyva.
+ 
+
+
+
+
+
+
+24 straipsnis. Vaiko teisių apsaugos kontrolieriaus sprendimai
+
+
+Vaiko teisių apsaugos kontrolierius priima sprendimą:
+
+
+1) įspėti asmenis, pažeidusius vaiko teises ar jo teisėtus interesus;
+
+
+
+
+2) įspėti asmenis ir pagal savo kompetenciją siūlyti fiziniams ar juridiniams asmenims pašalinti veiklos trūkumus ar teisės aktų pažeidimus, dėl kurių yra pažeidžiamos ar gali būti pažeistos vaiko teisės ir jo teisėti interesai;
+
+
+
+
+3) siūlyti juridinio asmens, kuris savo veiksmais ar neveikimu pažeidė vaiko teises ar jo teisėtus interesus, steigėjui (dalyviui) svarstyti klausimą dėl tolesnės juridinio asmens veiklos;
+
+
+
+
+4) siūlyti taikyti (inicijuoti) drausminę (tarnybinę), administracinę, civilinę ar baudžiamąją atsakomybę asmenims, pažeidusiems vaiko teises ir jo teisėtus interesus;
+
+
+
+
+5) siūlyti prokurorui įstatymų nustatyta tvarka kreiptis į teismą dėl viešojo intereso gynimo;
+
+
+
+
+6) siūlyti įstatymų nustatyta tvarka panaikinti ar pakeisti teisės aktams, reglamentuojantiems vaiko teises ir jo teisėtus interesus, prieštaraujančius sprendimus ar sustabdyti prieštaraujančių sprendimų galiojimą arba siūlyti priimti sprendimus, kurie nepriimti dėl piktnaudžiavimo ar biurokratizmo;
+
+
+
+
+7) atkreipti asmenų dėmesį į aplaidumą darbe, teisės aktų nesilaikymą, tarnybinės etikos pažeidimą, piktnaudžiavimą, biurokratizmą arba kitus vaiko teisių ir jo teisėtų interesų pažeidimus ir siūlyti imtis priemonių, kad būtų pašalinti teisės aktų pažeidimai, jų priežastys ir sąlygos;
+
+
+
+
+8) pranešti Respublikos Prezidentui, Seimui ar Ministrui Pirmininkui apie ministrų ar kitų Respublikos Prezidentui, Seimui ar Vyriausybei atskaitingų pareigūnų padarytus vaiko teisių ar jo teisėtų interesų pažeidimus;
+
+
+
+
+9) skundą pripažinti nepagrįstu;
+
+
+
+
+10) tyrimą, pradėtą savo iniciatyva, baigti, jeigu pažeidimai ar aplinkybės, dėl kurių buvo pradėtas tyrimas, nepasitvirtina;
+
+
+
+
+11) atsisakyti nagrinėti skundą;
+
+
+
+
+12) skundo nagrinėjimą nutraukti.
  
 
 
@@ -639,20 +784,32 @@ Skundą gali pateikti fizinis ar juridinis asmuo, įmonė, neturinti juridinio a
 
 
 
-23 straipsnis. Skundo nagrinėjimo terminai
 
 
-1. Vaiko teisių apsaugos kontrolierius skundą išnagrinėja ir atsako pareiškėjui per  mėnesį nuo skundo gavimo dienos.
+PENKTASIS SKIRSNIS 
+VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS ĮSTAIGA
+ 
+
+
+25 straipsnis. Vaiko teisių apsaugos kontrolieriaus įstaiga
+
+
+1. Vaiko teisių apsaugos kontrolieriaus darbui užtikrinti steigiama Vaiko teisių apsaugos kontrolieriaus įstaiga.
 
 
 
 
-2. Prireikus skundo nagrinėjimo metu atlikti papildomą tyrimą (gauti dokumentus, paaiškinimus, apklausti suinteresuotus asmenis), vaiko teisių apsaugos kontrolieriaus sprendimu šis terminas gali būti pratęstas, bet ne ilgiau kaip iki 6 mėnesių.
+2. Vaiko teisių apsaugos kontrolieriaus įstaiga – valstybės biudžetinė įstaiga, steigiama Seimo nutarimu.
 
 
 
 
-3. Skundo nagrinėjimo terminą pratęsus, apie tai informuojamas pareiškėjas ir asmuo, kurio sprendimas ar veiksmai (neveikimas) skundžiami.
+3. Vaiko teisių apsaugos kontrolieriaus įstaiga – juridinis asmuo, turintis atsiskaitomąją sąskaitą banke ir antspaudą su Lietuvos valstybės herbu bei pavadinimu „Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstaiga“ ir finansuojamas iš valstybės biudžeto. Atskiroms valstybės programoms, susijusioms su vaiko teisių apsauga, finansuoti Seimo ar Vyriausybės sprendimu skiriama papildomai lėšų iš valstybės biudžeto. Už Vaiko teisių apsaugos kontrolieriaus įstaigos antspaudo naudojimą ir saugojimą atsako vaiko teisių apsaugos kontrolierius.
+
+
+
+
+4. Vaiko teisių apsaugos kontrolieriaus įstaigos uždavinius, funkcijas, teises ir pareigas, struktūrą ir darbo organizavimą bei finansavimą nustato Seimo patvirtinti Vaiko teisių apsaugos kontrolieriaus įstaigos nuostatai.
  
 
 
@@ -660,10 +817,15 @@ Skundą gali pateikti fizinis ar juridinis asmuo, įmonė, neturinti juridinio a
 
 
 
-24 straipsnis. Skundų apskaita ir tyrimas
+26 straipsnis. Vaiko teisių apsaugos kontrolieriaus įstaigos struktūra
 
 
-Skundų apskaitą ir tyrimo eigą reglamentuoja vaiko teisių apsaugos kontrolieriaus patvirtinta skundų apskaitos ir tyrimo tvarka.
+1. Vaiko teisių apsaugos kontrolierius yra Vaiko teisių apsaugos kontrolieriaus įstaigos vadovas.
+
+
+
+
+2. Vaiko teisių apsaugos kontrolieriaus įstaigą sudaro vaiko teisių apsaugos kontrolierius, valstybės tarnautojai ir kiti įstaigos darbuotojai.
  
 
 
@@ -671,138 +833,50 @@ Skundų apskaitą ir tyrimo eigą reglamentuoja vaiko teisių apsaugos kontrolie
 
 
 
-25 straipsnis. Vaiko teisių apsaugos kontrolieriaus priimami sprendimai
+27 straipsnis. Vaiko teisių apsaugos kontrolierius
 
 
-Vaiko teisių apsaugos kontrolierius, išnagrinėjęs skundą, priima vieną iš šių sprendimų:
+1. Vaiko teisių apsaugos kontrolierius:
 
 
-1) perduoti skundą kitai institucijai;
+1) vadovauja Vaiko teisių apsaugos kontrolieriaus įstaigai ir organizuoja jos darbą;
 
 
 
 
-2) pareikšti ieškinį teisme;
+2) atstovauja Vaiko teisių apsaugos kontrolieriaus įstaigai, kaip juridiniam asmeniui, nacionaliniu ir tarptautiniu lygiu;
 
 
 
 
-3) aptikus nusikaltimo požymių, perduoti medžiagą atitinkamoms institucijoms;
+3) tvirtina Vaiko teisių apsaugos kontrolieriaus įstaigos struktūrą, etatų sąrašą, Įstaigos darbo reglamentą, kuriame nustatytos vidaus darbo tvarkos taisyklės, valstybės tarnautojų pareigybių sąrašus ir pareigybių aprašymus, kitų darbuotojų pareiginius nuostatus, priskiria Vaiko teisių apsaugos kontrolieriaus įstaigos valstybės tarnautojų pareigybes kategorijoms, nustato konkrečius darbuotojų, dirbančių pagal darbo sutartis, atlyginimų koeficientus;
 
 
 
 
-4) įspėti asmenis, pažeidusius vaiko teises ar jo teisėtus interesus;
+4) įstatymų nustatyta tvarka priima į pareigas ir iš jų atleidžia Vaiko teisių apsaugos kontrolieriaus įstaigos valstybės tarnautojus bei kitus darbuotojus;
 
 
 
 
-5) įstaigai, įregistravusiai instituciją, susijusią su vaiko teisių apsauga, kuri savo veikla pažeidė vaiko teises ar jo teisėtus interesus, arba institucijos steigėjui teikti siūlymą svarstyti klausimą dėl institucijos tolesnės veiklos tikslingumo;
+5) suteikia Vaiko teisių apsaugos kontrolieriaus įstaigos valstybės tarnautojams ir darbuotojams atostogas, siunčia juos į komandiruotes;
 
 
 
 
-6) siūlyti tikrinamų institucijų ar jų aukštesniųjų institucijų vadovams, kad jie skirtų drausmines nuobaudas asmenims, kaltiems dėl vaiko teises ar jo teisėtus interesus ginančių įstatymų ar kitų teisės aktų pažeidimų;
+6) priima sprendimus dėl Vaiko teisių apsaugos kontrolieriaus įstaigos valstybės tarnautojų ir kitų darbuotojų kvalifikacijos tobulinimo;
 
 
 
 
-7) siūlyti įstatymų nustatyta tvarka pakeisti arba panaikinti įstatymams, Lietuvos Respublikos tarptautinėms sutartims bei kitiems teisės aktams prieštaraujančius sprendimus;
+7) skatina Vaiko teisių apsaugos kontrolieriaus įstaigos valstybės tarnautojus ir darbuotojus bei skiria jiems tarnybines (drausmines) nuobaudas.
 
 
 
 
-8) nustačius tikrinamų fizinių ar juridinių asmenų, įmonių, neturinčių juridinio asmens teisių, veiklos trūkumų ar įstatymų pažeidimų, dėl kurių yra pažeidžiamos vaiko teisės ir jo teisėti interesai, pažeidėjus įspėti ir pagal savo kompetenciją siūlyti fiziniams asmenims, įmonėms, neturinčioms juridinio asmens teisių, ar juridinių asmenų vadovams pašalinti pažeidimus;
 
 
-
-
-9) atmesti skundą, kai nepasitvirtina jame nurodyti pažeidimai.
- 
-
-
-
-
-
-
-
-
-26 straipsnis. Atsisakymo nagrinėti skundą pagrindai
-
-
-1. Vaiko teisių apsaugos kontrolierius atsisako nagrinėti skundą ir ne vėliau kaip per 10 darbo dienų nuo skundo gavimo dienos apie tai informuoja pareiškėją ir asmenį, kurio sprendimas ar veiksmai (neveikimas) skundžiami, raštu, jeigu:
-
-
-1) skundo dalykas neatitinka šio įstatymo 19 straipsnyje išvardytų pagrindų;
-
-
-
-
-2) skundas paduotas praėjus šio įstatymo 21 straipsnyje nustatytam terminui, jeigu vaiko teisių apsaugos kontrolierius nenusprendžia, kad skundas gali būti nagrinėjamas;
-
-
-
-
-3) skundo dalykas priklauso kitų valstybės valdžios ar valdymo ir kontrolės institucijų kompetencijai;
-
-
-
-
-4) dėl to paties skundo dalyko yra iškelta baudžiamoji byla, vyksta parengtinis tyrimas, teisminis nagrinėjimas ar yra priimtas procesinis sprendimas nutraukti bylą arba skundas jau buvo išnagrinėtas teisme ar kitoje kontrolės institucijoje.
-
-
-
-
-
-
-2. Atsisakius nagrinėti skundą, pareiškėjui nurodomi atsisakymo pagrindai. 
-
-
-
-
-3. Tais atvejais, kai skundo dalykas nepriklauso vaiko teisių apsaugos kontrolieriaus kompetencijai, skundas per 10 darbo dienų nuo jo gavimo dienos grąžinamas pareiškėjui  ir nurodoma institucija, į kurią jis pats galėtų kreiptis tuo klausimu, arba pranešama, kuriai institucijai skundas yra perduotas.
-
-
-
-
-4. Pakartotinai dėl to paties skundo dalyko paduotas skundas nenagrinėjamas.
-
-
-
-
-5. Skundo tyrimo metu išaiškėjus šio straipsnio 1 dalyje nurodytoms aplinkybėms arba jeigu pareiškėjas nepateikia vaiko teisių apsaugos kontrolieriui duomenų, be kurių neįmanoma pradėti skundo tyrimo, skundas paliekamas nenagrinėtas. 
- 
-
-
-
-
-
-
-27 straipsnis. Skundo tyrimo rezultatų įforminimas
-
-
-1. Atlikus skundo tyrimą, visi jo metu surinkti įrodymai, asmenų veiksmų ar neveikimo juridiniai įvertinimai bei tyrimo metu  išaiškintos aplinkybės surašomos pažymoje.
-
-
-
-
-2. Pažymą pasirašo vaiko teisių apsaugos kontrolierius arba jo pavedimu – vaiko teisių apsaugos kontrolieriaus pavaduotojas.
-
-
-
-
-3. Su tyrimo rezultatais supažindinamas skundo pareiškėjas, fizinis ar juridinis asmuo, įmonė, neturinti juridinio asmens teisių, kurių veiksmai (neveikimas) buvo tiriami, išsiunčiant arba įteikiant jiems pažymos nuorašus. 
- 
-
-
-
-
-
-
-28 straipsnis. Vaiko teisių apsaugos kontrolieriaus veiklos viešumas
-
-
-Vaiko teisių apsaugos kontrolierius visuomenės informavimo priemonėms teikia informaciją apie savo veiklą, išskyrus informaciją, dėl kurios gali būti pažeistos vaiko teisės ar jo teisėti interesai arba kuri Lietuvos Respublikos įstatymų nustatyta tvarka yra neskelbtina.
+2. Vaiko teisių apsaugos kontrolierius pagal savo kompetenciją leidžia įsakymus.
  
 
 
@@ -812,54 +886,25 @@ Vaiko teisių apsaugos kontrolierius visuomenės informavimo priemonėms teikia 
 
 
 
-ŠEŠTASIS SKIRSNIS 
-VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS, VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJŲ AR ĮSTAIGŲ, NEVALSTYBINIŲ INSTITUCIJŲ BEI KITŲ FIZINIŲ IR JURIDINIŲ ASMENŲ, ĮMONIŲ, NETURINČIŲ JURIDINIO ASMENS TEISIŲ, BENDRADARBIAVIMAS
- 
- 
-
-
-29 straipsnis. Fiziniai ir juridiniai asmenys, įmonės, neturinčios juridinių asmenų teisių, su kuriais vaiko teisių apsaugos kontrolierius bendradarbiauja įgyvendindamas šį įstatymą 
-
-
-Vaiko teisių apsaugos kontrolierius, įgyvendindamas šį įstatymą, bendradarbiauja su valstybės ir savivaldybių  institucijomis ar įstaigomis, nevalstybinėmis institucijomis, taip pat su tarptautinėmis organizacijomis bei kitais fiziniais ir juridiniais asmenimis, įmonėmis, neturinčiomis juridinio asmens teisių, kurių veikla yra susijusi  su vaiko teisių ir jo teisėtų interesų apsauga.
+ŠEŠTASIS SKIRSNIS
+VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS VEIKLOS IR KITOS GARANTIJOS
  
 
 
+28 straipsnis. Vaiko teisių apsaugos kontrolieriaus darbo apmokėjimas ir socialinės garantijos
+
+
+1. Vaiko teisių apsaugos kontrolieriui kasmet suteikiamos 28 kalendorinių dienų atostogos. Vaiko teisių apsaugos kontrolieriui, turinčiam didesnį kaip 5 metų tarnybos Lietuvos valstybei stažą, už kiekvienų papildomų 3 metų tarnybos stažą suteikiamos papildomos 3 kalendorinės dienos kasmetinių papildomų atostogų, tačiau bendra kasmetinių atostogų trukmė negali būti ilgesnė kaip 42 kalendorinės dienos.
 
 
 
 
-30 straipsnis. Visuomenės dalyvavimas vaiko teisių apsaugos kontrolieriaus veikloje
-
-
-1. Vaiko teisių apsaugos kontrolierius skatina ir remia nevalstybinių institucijų ir visuomenės iniciatyvas, kurios padeda įgyvendinti vaiko teisių ir jo teisėtų interesų apsaugą.
+2. Pasibaigus Vaiko teisių apsaugos kontrolieriaus įgaliojimų laikui, jam išmokama 2 mėnesių atlyginimo dydžio išeitinė išmoka. Vaiko teisių apsaugos kontrolieriui, atleidžiamam iš pareigų, kai jis negali eiti pareigų dėl sveikatos būklės, išmokama 3 mėnesių atlyginimo dydžio išeitinė išmoka. Vaiko teisių apsaugos kontrolieriui mirus, jo šeimai išmokama 3 mėnesių atlyginimo dydžio išmoka. Šios išmokos mokamos iš Vaiko teisių apsaugos kontrolieriaus įstaigai skirtų valstybės biudžeto lėšų. Atleidus vaiko teisių apsaugos kontrolierių paties prašymu ar kai jam įsiteisėja apkaltinamasis teismo nuosprendis, ar kai daugiau kaip pusė visų Seimo narių pareiškia nepasitikėjimą juo, išeitinė išmoka nemokama.
 
 
 
 
-2. Vaiko teisių apsaugos kontrolierius, manydamas, kad pastebėti vaiko teisių ar jo teisėtų interesų pažeidimo požymiai bei pateikta informacija yra teisinga, tyrimui gali pasitelkti visuomenę.
- 
-
-
-
-
-
-
-31 straipsnis. Vaiko teisių apsaugos kontrolieriaus reikalavimų teikti informaciją ir vykdyti jo sprendimus privalomumas
-
-
-1. Valstybės ir savivaldybių institucijos ar įstaigos, nevalstybinės institucijos bei kiti fiziniai ir juridiniai asmenys, įmonės, neturinčios juridinio asmens teisių, privalo vaiko teisių apsaugos kontrolieriui laiku pateikti prašomą informaciją, leisti susipažinti su reikalaujamais dokumentais, taip pat vykdyti jo priimamus sprendimus ir apie sprendimų vykdymą laiku pranešti vaiko teisių apsaugos kontrolieriui.
-
-
-
-
-2. Vaiko teisių apsaugos kontrolieriaus prašoma informacija turi būti pateikta per 10 darbo dienų.
-
-
-
-
-3. Asmenys, trukdantys vaiko teisių apsaugos kontrolieriui eiti tarnybines pareigas, atsako įstatymų nustatyta tvarka.
- 
+3. Pasibaigus įgaliojimų laikui, išskyrus atvejus, kai vaiko teisių apsaugos kontrolieriui įsiteisėja apkaltinamasis teismo nuosprendis ar kai daugiau kaip pusė visų Seimo narių pareiškia nepasitikėjimą juo, vaiko teisių apsaugos kontrolierius turi teisę Valstybės tarnybos įstatymo nustatyta tvarka grįžti į ankstesnį darbą.
 
 
 
@@ -868,31 +913,15 @@ Vaiko teisių apsaugos kontrolierius, įgyvendindamas šį įstatymą, bendradar
 
 
 
-SEPTINTASIS SKIRSNIS
-BAIGIAMOSIOS NUOSTATOS
- 
-
-
-32 straipsnis. Įstatymo įsigaliojimas
-
-
-Šis įstatymas įsigalioja nuo 2000 m. rugsėjo 1 d.
  
  
-
-
-
-
-
-
-
-
+ 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+
  
-
-
  
  
 Pakeitimai:
@@ -921,3 +950,8 @@ Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo 15 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-443, 2005-12-13, Žin., 2005, Nr. 149-5420 (2005-12-22), i. k. 1051010ISTA000X-443
 Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo papildymo 5(1) straipsniu įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1384, 2007-12-18, Žin., 2007, Nr. 140-5756 (2007-12-29), i. k. 1071010ISTA00X-1384
+Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo pakeitimo įstatymas
