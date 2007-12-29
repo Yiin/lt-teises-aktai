@@ -289,30 +289,45 @@ finansavimo lėšos naudojamos pagal Vyriausybės patvirtintą metinę lėšų
 naudojimo sąmatą. Metinėje lėšų naudojimo sąmatoje numatomas iki 5 procentų
 Programos finansavimo lėšų rezervas valstybės reikmėms, susijusioms su keliais,
 finansuoti.
+ 
+4 dalies redakcija iki 2009 m.
+sausio 1 d.:
 4. Metinėse
 sąmatose turi būti numatoma 20 procentų Programos finansavimo lėšų valstybei,
 savivaldybėms panaudoti vietinės reikšmės keliams (gatvėms) tiesti, taisyti,
 prižiūrėti bei saugaus eismo sąlygoms užtikrinti.
-5. Vyriausybės
-nustatyta tvarka Programos finansavimo lėšos taip pat naudojamos neįgaliesiems
-ir jų vairuojamiems specialiems lengviesiems automobiliams, tarnybos reikalais
-vykstantiems greitosios medicinos pagalbos ir reanimacijos, priešgaisrinių
-gelbėjimo tarnybų, policijos, valstybės sienos apsaugos, civilinės
-saugos, kelių priežiūros, uosto saugos tarnybų, prokuratūros, muitinės,
-inspekcijų pareigūnams, Klaipėdos miesto savivaldybės valstybės tarnautojams ir
-darbuotojams, atliekantiems tarnybines funkcijas Klaipėdos miesto dalyje
-Smiltynėje, taip pat kitiems valstybės pareigūnams, nurodytiems Vyriausybės
-nustatytos tvarkos nuostatuose, ir šių tarnybų transporto
-priemonėms, tolimojo, vietinio (miesto) reguliaraus susisiekimo autobusams,
-dviračiams, autocisternoms, vežančioms kurą į Kuršių neriją, juridinių asmenų,
-turinčių Kuršių nerijoje registruotą buveinę, transporto priemonėms ir
-darbuotojams, Klaipėdos miesto savivaldybės įmonių transporto priemonėms ir
-darbuotojams, dirbantiems darbus Klaipėdos miesto dalyje Smiltynėje, Neringos
-mieste ir Klaipėdos miesto dalyje Smiltynėje gyvenamąją vietą deklaravusiems
-asmenims ir jų lengvosioms transporto priemonėms neatlygintinai perkelti
-keltais per Klaipėdos valstybinio jūrų uosto akvatoriją į (iš) Kuršių neriją
-(-os) bei Šilutės rajono gyventojų ir jų lengvųjų transporto priemonių
-neatlygintino perkėlimo užlietu krašto kelio Šilutė–Rusnė ruožu sąnaudoms kompensuoti.
+4 dalies redakcija nuo 2009 m.
+sausio 1 d.:
+4. Metinėse
+sąmatose turi būti numatoma 20 procentų Programos finansavimo lėšų valstybei,
+savivaldybėms panaudoti vietinės reikšmės keliams (gatvėms) tiesti, taisyti,
+prižiūrėti bei saugaus eismo sąlygoms užtikrinti ir 15 procentų
+Programos finansavimo lėšų rajoniniams žvyrkeliams asfaltuoti.
+ 
+5.
+Vyriausybės nustatyta tvarka Programos finansavimo lėšos taip pat naudojamos
+neįgaliesiems ir jų vairuojamiems specialiems lengviesiems automobiliams,
+tarnybos reikalais vykstantiems greitosios medicinos pagalbos ir reanimacijos,
+priešgaisrinių gelbėjimo tarnybų, policijos, valstybės sienos apsaugos,
+civilinės saugos, kelių priežiūros, uosto saugos tarnybų, prokuratūros,
+muitinės, inspekcijų pareigūnams, Klaipėdos miesto savivaldybės valstybės
+tarnautojams ir darbuotojams, atliekantiems tarnybines funkcijas Klaipėdos
+miesto dalyje Smiltynėje, taip pat kitiems valstybės pareigūnams, nurodytiems
+Vyriausybės nustatytos tvarkos nuostatuose, ir šių tarnybų transporto priemonėms, tolimojo, vietinio (miesto) reguliaraus
+susisiekimo autobusams, dviračiams, autocisternoms, vežančioms kurą į Kuršių
+neriją, juridinių asmenų, turinčių Kuršių nerijoje registruotą buveinę,
+transporto priemonėms ir darbuotojams, Klaipėdos miesto savivaldybės įmonių
+transporto priemonėms ir darbuotojams, dirbantiems darbus Klaipėdos miesto
+dalyje Smiltynėje, Neringos mieste ir Klaipėdos miesto dalyje Smiltynėje
+gyvenamąją vietą deklaravusiems asmenims ir jų lengvosioms transporto
+priemonėms neatlygintinai perkelti keltais per Klaipėdos valstybinio jūrų uosto
+akvatoriją į (iš) Kuršių neriją (-os) bei Šilutės rajono gyventojų ir jų
+lengvųjų transporto priemonių neatlygintino perkėlimo užlietu krašto kelio
+Šilutė–Rusnė ruožu sąnaudoms kompensuoti.
+Straipsnio
+pakeitimai:
+Nr. X-1402,
+2007-12-20, Žin., 2007, Nr. 140-5761 (2007-12-29)
  
 11
 straipsnis. Programos finansavimo garantijos
@@ -339,13 +354,11 @@ priežiūros ir plėtros
                                                                                                 programos
 finansavimo 
                                                                                                 įstatymo
-                                                                        
-                       1 priedėlis
+                                                                                                1
+priedėlis
 1 priedėlis neteko galios nuo 2005 m.
 liepos 1 d.
  
-2
-priedėlio redakcija nuo 2007 m. liepos 1 d.:
                                                                                                 Lietuvos
 Respublikos 
                                                                                                 kelių
@@ -535,8 +548,6 @@ Priedėlio pakeitimas:
 Nr. X-1177,
 2007-06-07, Žin., 2007, Nr. 69-2724 (2007-06-23)
  
-3
-priedėlio redakcija nuo 2007 m. liepos 1 d.:
                                                                                                 Lietuvos
 Respublikos 
                                                                                                 kelių
@@ -819,8 +830,8 @@ O4
 
 Nuo 12 t iki 40 t (įskaitytinai)
   bendrosios masės, o vežant triašiu vilkiku su dviaše ar triaše puspriekabe 20,
-  30, 40, 45 pėdų konteinerius (pagamintus pagal ISO standartus) – iki 44
-  t bendrosios masės
+  30, 40, 45 pėdų konteinerius (pagamintus pagal ISO standartus) – iki
+  44 t bendrosios masės
 
 
  
@@ -936,8 +947,8 @@ automobiliai-televizijos stotys;
 automobiliai-radijo stotys;
 9)
 kinofikacijos, parodų, bibliotekų automobiliai;
-10) asenizaciniai
-automobiliai;
+10)
+asenizaciniai automobiliai;
 11) kelių valymo
 automobiliai;
 12)
@@ -956,23 +967,22 @@ specialiems darbams ir technologiniams procesams atlikti skirti automobiliai.
 transporto priemonės (savivarčiai, betonvežiai, naftovežiai, benzinvežiai ir
 kitos), kurios pagal savo konstrukciją ir įrangą skirtos kroviniams vežti,
 priskiriamos prie krovininių transporto priemonių.
-Priedėlio pakeitimas:
+Priedėlio
+pakeitimas:
 Nr. X-1177,
 2007-06-07, Žin., 2007, Nr. 69-2724 (2007-06-23)
  
 
 
  
-4
-priedėlio redakcija nuo 2007 m. liepos 1 d.:
-                                                                                                Lietuvos
+                                                                                                Lietuvos
 Respublikos 
                                                                                                 kelių
 priežiūros ir plėtros 
                                                                                                 programos
 finansavimo 
                                                                                                 įstatymo
-                                                                                                4
+                                                                                                4
 priedėlis
  
 I.
@@ -1169,10 +1179,10 @@ nurodyti transporto priemonės (jų junginio) maksimalūs matmenys viršijami
 500 cm), transporto priemonė tampa ypač pavojinga saugiam eismui. Tokioms
 transporto priemonėms (jų junginiams) taikomas vienkartinis mokestis, kuris
 apskaičiuojamas taip: prie maksimalaus ribinio tarifo pridedamas papildomas
-vieno lito mokestis už kiekvieno atitinkamo matmens viršijimą, t. y. už
-kiekvieną aukščio viršijimą 10 cm, pločio viršijimą 10 cm ar ilgio viršijimą 1
-m, ir dauginama iš koeficiento 1,5. Visais atvejais, jei viršijami du ar visi
-trys matmenys, mokestis nustatomas sumuojant lentelėje nurodytus mokesčius už
+vieno lito mokestis už kiekvieno atitinkamo matmens viršijimą, t. y. už kiekvieną
+aukščio viršijimą 10 cm, pločio viršijimą 10 cm ar ilgio viršijimą 1 m, ir
+dauginama iš koeficiento 1,5. Visais atvejais, jei viršijami du ar visi trys
+matmenys, mokestis nustatomas sumuojant lentelėje nurodytus mokesčius už
 atskirų matmenų viršijimą. Kai transporto priemonės (jų junginio) matmenys
 viršija lentelėje nurodytus maksimalius, būtina gauti atskirą leidimą, kurį
 išduodant pridedamas papildomas mokestis už maršruto paruošimą, t. y.
@@ -1350,14 +1360,14 @@ savivaldybės
  
 1. Transporto
 priemonėmis (jų junginiais), kurių varančiajai ašiai su suporintais ratais
-leidžiama 11,5 tonos ašies apkrova viršijama, sumokėjus atitinkamo dydžio
-mokestį leidžiama važiuoti tik tais keliais, kurie nurodyti leidimus
-išduodančios institucijos patvirtintame sąraše.
+leidžiama 11,5 tonos ašies apkrova viršijama, sumokėjus atitinkamo dydžio mokestį
+leidžiama važiuoti tik tais keliais, kurie nurodyti leidimus išduodančios
+institucijos patvirtintame sąraše.
 2. Jei
 transporto priemonės (jų junginio) bendroji masė viršija leidžiamą (40 t, o
 vežant triašiu vilkiku su dviaše ar triaše puspriekabe 20, 30, 40, 45 pėdų
 konteinerius, pagamintus pagal ISO standartus, − 44 t), nustatomi mokesčio
-ribiniai tarifai, kurie nurodyti šio priedo III skirsnyje.
+ribiniai tarifai, kurie nurodyti šio priedo III skirsnyje.
 3. Triašiu
 vilkiku su dviaše ar triaše puspriekabe 20, 30, 40, 45 pėdų konteinerius,
 pagamintus pagal ISO standartus, leidžiama vežti tik magistraliniais keliais.
@@ -1372,10 +1382,11 @@ svoris viršija leidžiamus, nustatomas tas mokesčio dydis, kuris yra didesnis.
                                                                                                 4
 priedėlio tęsinys
  
-III. MOKESČIO UŽ VAŽIAVIMĄ KELIAIS LIETUVOS RESPUBLIKOJE
-IR UŽSIENIO ŠALYSE, tarp jų ir Europos
-Sąjungos valstybėse narėse, ĮREGISTRUOTOMIS TRANSPORTO PRIEMONĖMIS (JŲ
-JUNGINIAIS), KAI VIRŠIJAMA LEIDŽIAMA JŲ BENDROJI MASĖ, RIBINIAI TARIFAI
+III. MOKESČIO UŽ VAŽIAVIMĄ KELIAIS LIETUVOS
+RESPUBLIKOJE IR UŽSIENIO ŠALYSE, tarp jų
+ir Europos Sąjungos valstybėse narėse, ĮREGISTRUOTOMIS TRANSPORTO
+PRIEMONĖMIS (JŲ JUNGINIAIS), KAI VIRŠIJAMA LEIDŽIAMA JŲ BENDROJI MASĖ, RIBINIAI
+TARIFAI
             
 1. Jei
 transporto priemonės (jų junginio) bendroji masė viršija leidžiamą (40 t, o
@@ -1436,7 +1447,8 @@ kelio savininko leidimą.
 Kai ašies (ašių) faktiška apkrova ir faktiška transporto priemonės (jų
 junginio) bendroji masė viršija leidžiamą, nustatomas tas mokesčio dydis, kuris
 yra didesnis.
-Priedėlio pakeitimas:
+Priedėlio
+pakeitimas:
 Nr. X-1177,
 2007-06-07, Žin., 2007, Nr. 69-2724 (2007-06-23)
 
@@ -1448,9 +1460,9 @@ Respublikos
 priežiūros ir plėtros 
                                                                                                 programos
 finansavimo 
-                                                                                                įstatymo
+                                                                                                įstatymo
 
-                                                                                                5
+                                                                                                5
 priedėlis 
  
 Mokesčio
@@ -1548,8 +1560,8 @@ Rajoniniai
 
 Įvairiems darbams kelio važiuojamojoje
   dalyje, pažeidžiant asfaltbetonio (cementbetonio) dangą, dirbti iki trijų
-  parų imtinai ir kai kelias visai uždaromas, o transporto priemonių eismas nukreipiamas
-  kitais keliais arba įrengiama uždarytos vietos apylanka
+  parų imtinai ir kai kelias visai uždaromas, o transporto priemonių eismas
+  nukreipiamas kitais keliais arba įrengiama uždarytos vietos apylanka
 
 
  
@@ -1700,8 +1712,8 @@ Rajoniniai
   uždaromas ar apribojamas transporto priemonių eismas:
 1
   parai 1 km kelio;
-1 valandai
-  1 km kelio
+1
+  valandai 1 km kelio
 
 
  
@@ -1753,7 +1765,7 @@ Kai inžinerinės komunikacijos
 
 
 Kai visiškai uždaromas kelias, eismas
-  nukreipiamas apylanka kitais keliais (1 parai 1 apylankos km) 
+  nukreipiamas apylanka kitais keliais (1 parai 1 apylankos km) 
 
 
  
@@ -1777,9 +1789,9 @@ kitas tris paras, mokestis už eismo ribojimą didinamas 5 procentais.
 3. Jei
 lentelėje nurodyti darbai nebaigiami nurodytu laiku ir: 
 3.1.
-užtrunka iki 9 parų – mokestis didinamas 3 kartus;
+užtrunka iki 9 parų – mokestis didinamas 3 kartus;
 3.2.
-užtrunka iki 1 mėnesio – mokestis didinamas 6 kartus;
+užtrunka iki 1 mėnesio – mokestis didinamas 6 kartus;
 3.3.
 užtrunka ilgiau kaip 1 mėnesį – mokestis didinamas 10 kartų.
 4.
@@ -1791,13 +1803,11 @@ gyvenamosiose vietovėse valstybinės reikšmės kelio važiuojamojoje dalyje, k
 tie darbai susiję su kelio dangos ardymu, nuo lapkričio 1 d. iki gegužės 1d.;
 4.3.
 važiuojamojoje kelio dalyje, kai asfaltbetonio danga paklota mažiau kaip prieš
-5 metus.
-5 priedėlio pakeitimas:
+5 metus.
+Priedėlio pakeitimas:
 Nr. X-884, 2006-11-09,
 Žin., 2006, Nr. 127-4820 (2006-11-25)
  
-6
-priedėlio redakcija nuo 2007 m. liepos 1 d.:
 Lietuvos
 Respublikos 
                                                                                     kelių
@@ -1805,24 +1815,26 @@ priežiūros ir plėtros
                                                                                     programos
 finansavimo 
                                                                                     įstatymo
-                                                                                    6
+                                                                                    6
 priedėlis 
  
 ĮGYVENDINAMI Europos Sąjungos TEISĖS AKTAI
  
- 1.
-1996 m. liepos 25 d. Tarybos direktyva 96/53/EB, nustatanti tam tikrų
-Bendrijoje nacionaliniam ir tarptautiniam vežimui naudojamų kelių transporto
-priemonių didžiausius leistinus matmenis ir tarptautiniam vežimui naudojamų
-kelių transporto priemonių didžiausią leistiną masę (OL 2004 m. specialusis
-leidimas, 7 skyrius, 2 tomas, p. 478), su paskutiniais pakeitimais, padarytais
-2002 m. vasario 18 d. Europos Parlamento ir Tarybos direktyva 2002/7/EB (OL
-2004 m. specialusis leidimas, 7 skyrius, 6 tomas, p. 85).
-2. 1999 m. birželio
-17 d. Europos Parlamento ir Tarybos direktyva 1999/62/EB dėl sunkiasvorių
-krovininių transporto priemonių apmokestinimo už naudojimąsi tam tikra
-infrastruktūra (OL 2004 m. specialusis leidimas, 7 skyrius, 4 tomas, p. 372).
-Priedėlio pakeitimas:
+1. 1996 m.
+liepos 25 d. Tarybos direktyva 96/53/EB, nustatanti tam tikrų Bendrijoje
+nacionaliniam ir tarptautiniam vežimui naudojamų kelių transporto priemonių
+didžiausius leistinus matmenis ir tarptautiniam vežimui naudojamų kelių
+transporto priemonių didžiausią leistiną masę (OL 2004 m. specialusis leidimas,
+7 skyrius, 2 tomas, p. 478), su paskutiniais pakeitimais, padarytais 2002 m.
+vasario 18 d. Europos Parlamento ir Tarybos direktyva 2002/7/EB (OL 2004 m.
+specialusis leidimas, 7 skyrius, 6 tomas, p. 85).
+2. 1999 m.
+birželio 17 d. Europos Parlamento ir Tarybos direktyva 1999/62/EB dėl
+sunkiasvorių krovininių transporto priemonių apmokestinimo už naudojimąsi tam
+tikra infrastruktūra (OL 2004 m. specialusis leidimas, 7 skyrius, 4 tomas, p.
+372).
+Priedėlio
+pakeitimas:
 Nr. X-1177,
 2007-06-07, Žin., 2007, Nr. 69-2724 (2007-06-23)
  
@@ -1959,8 +1971,8 @@ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-725, 2006-06-22,
-Žin., 2006, Nr. 77-2969 (2006-07-14)
+X-725,
+2006-06-22, Žin., 2006, Nr. 77-2969 (2006-07-14)
 KELIŲ
 PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
@@ -1996,11 +2008,23 @@ KELIŲ
 PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 7 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
  
+15.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-1402,
+2007-12-20, Žin., 2007, Nr. 140-5761 (2007-12-29)
+KELIŲ
+PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2009 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušra Bodin (2007-07-24)
+Aušrinė Trapinskienė (2008-01-07)
                  
-ausra.bodin@lrs.lt
+autrap@lrs.lt
