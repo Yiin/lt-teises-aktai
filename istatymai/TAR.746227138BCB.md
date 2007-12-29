@@ -28,9 +28,9 @@ NUOSTATOS
 1 straipsnis.
 Įstatymo paskirtis
 1. Šio įstatymo paskirtis – užtikrinti, kad
-būtų įgyvendintos Lietuvos Respublikos Konstitucijoje įtvirtintos moterų ir
-vyrų lygios teisės, bei uždrausti bet kokią diskriminaciją dėl asmens lyties,
-ypač kai tai susiję su šeimine ar santuokine padėtimi.
+būtų įgyvendintos Lietuvos Respublikos Konstitucijoje įtvirtintos moterų ir vyrų
+lygios teisės, bei uždrausti bet kokią diskriminaciją dėl asmens lyties, ypač
+kai tai susiję su šeimine ar santuokine padėtimi.
 2. Įstatymo nuostatos nėra taikomos
 šeimos ir privataus gyvenimo srityse. 
 3. Šio įstatymo nuostatos suderintos su
@@ -54,10 +54,9 @@ tiesiogiai ar netiesiogiai diskriminuoti asmenis dėl lyties.
 lyties. Tai, kad asmuo atmeta moterų ir vyrų lygias teises pažeidžiantį
 elgesį arba paklūsta jam, negali daryti įtakos su tuo asmeniu susijusiems
 sprendimams.
-4. Tiesioginė diskriminacija – pasyvus ar aktyvus elgesys
-,su asmeniu, kai dėl jo
-lyties taikomos prastesnės sąlygos, negu panašiomis aplinkybėmis yra, buvo ar
-būtų taikomos kitam asmeniui, išskyrus:
+4. Tiesioginė diskriminacija – ne toks palankus asmens
+traktavimas dėl lyties, negu panašiomis aplinkybėmis yra, buvo ar būtų
+traktuojamas kitas asmuo, išskyrus:
 1) specialią moterų apsaugą nėštumo bei
 gimdymo ir vaiko žindymo metu;
 2) tik vyrams taikomą karinę prievolę;
@@ -67,27 +66,32 @@ amžių, išskyrus profesinių pensijų sistemas;
 reikalavimus, kuriais, atsižvelgiant į moterų fiziologines savybes, siekiama
 išsaugoti jų sveikatą;
 5) tam tikrą darbą, kurį atlikti gali tik
-konkrečios lyties asmuo;
-6) įstatymų nustatytas specialias laikinąsias priemones, taikomas
-siekiant paspartinti faktinės vyrų ir moterų lygybės įtvirtinimą, ir kurios,
-įgyvendinus moterų ir vyrų lygias teises ir vienodas galimybes, turi būti
-atšauktos;
+konkrečios lyties asmuo, kai dėl konkrečių profesinės veiklos rūšių pobūdžio
+arba dėl jų vykdymo sąlygų lytis yra būtinas (neišvengiamas) ir lemiantis
+profesinis reikalavimas, šis traktavimas yra teisėtas ir reikalavimas yra
+tinkamas (proporcingas);
+6) įstatymų nustatytas specialias laikinąsias priemones, kurios
+taikomos siekiant paspartinti faktinės vyrų ir moterų lygybės įtvirtinimą ir
+kurios, įgyvendinus moterų ir vyrų lygias teises ir vienodas galimybes, turi
+būti atšauktos;
 7) skirtingų tam tikrų bausmių vykdymo
 tvarką ir sąlygas;
-8) kai prekių pardavimą ar paslaugų teikimą vien tik
-ar visų pirma vienos lyties asmenims pateisina teisėtas tikslas, o šio tikslo
-siekiama tinkamomis ir būtinomis priemonėmis.
-5.
-Netiesioginė diskriminacija – veikimas ar neveikimas, teisės norma, vertinimo kriterijus ar praktika,
-kurie formaliai yra vienodi moterims ir vyrams, bet juos įgyvendinant ar
-taikant vienos lyties asmenys gali atsidurti ar atsiduria tam tikroje
-prastesnėje padėtyje negu kitos lyties asmenys.
+8) kai prekių pardavimą ar paslaugų teikimą vien tik ar visų pirma
+vienos lyties asmenims pateisina teisėtas tikslas, o šio tikslo siekiama
+tinkamomis ir būtinomis priemonėmis.
+5. Netiesioginė diskriminacija – veikimas ar neveikimas, teisės
+norma, vertinimo kriterijus ar praktika, kurie formaliai yra vienodi moterims
+ir vyrams, bet juos įgyvendinant ar taikant vienos lyties asmenys gali
+atsidurti ar atsiduria tam tikroje mažiau palankioje padėtyje negu kitos lyties
+asmenys, nebent šį veikimą ar neveikimą, teisės normą, vertinimo kriterijų ar
+praktiką objektyviai pateisina teisėtas tikslas, o šio tikslo siekiama
+tinkamomis ir būtinomis priemonėmis.
 6. Seksualinis
 priekabiavimas – nepageidaujamas
 užgaulus, žodžiu, raštu ar fiziniu veiksmu išreikštas seksualinio pobūdžio
 elgesys su asmeniu, kai tokį elgesį lemia tikslas ar jo poveikis pakenkti
-asmens orumui, ypač sukuriant bauginančią, priešišką, žeminančią ar
-įžeidžiančią aplinką.
+asmens orumui, ypač sukuriant bauginančią, priešišką, žeminančią ar įžeidžiančią
+aplinką.
 7. Priekabiavimas –
 nepageidaujamas elgesys, kai dėl asmens lyties siekiama įžeisti arba
 įžeidžiamas asmens orumas ir siekiama sukurti arba sukuriama bauginanti,
@@ -97,6 +101,8 @@ Nr. IX-956,
 2002-06-18, Žin., 2002, Nr. 68-2761 (2002-07-03)
 Nr. X-304, 2005-07-05,
 Žin., 2005, Nr. 88-3281 (2005-07-21)
+Nr. X-1380,
+2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
  
 2(1) straipsnis. Įrodinėjimo
 pareiga
@@ -128,11 +134,13 @@ priimamuose teisės aktuose būtų įtvirtintos lygios moterų ir vyrų teisės;
 2) rengti ir įgyvendinti programas ir
 priemones, skirtas moterų ir vyrų lygių galimybių užtikrinimui;
 3) įstatymų nustatyta tvarka remti
-visuomeninių organizacijų, viešųjų įstaigų, asociacijų ir labdaros fondų
-programas, kurios padeda įgyvendinti moterų ir vyrų lygias galimybes.
+viešųjų įstaigų, asociacijų ir labdaros fondų programas, kurios padeda
+įgyvendinti moterų ir vyrų lygias galimybes.
 Straipsnio pakeitimai:
 Nr. IX-956,
 2002-06-18, Žin., 2002, Nr. 68-2761 (2002-07-03)
+Nr. X-1380,
+2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
  
 4
 straipsnis. Švietimo įstaigų, mokslo ir studijų institucijų pareiga įgyvendinti
@@ -142,7 +150,8 @@ lygias teises
 1. Švietimo ir mokslo įstaigos
 privalo užtikrinti moterims ir vyrams vienodas sąlygas:
 1) priimant į profesinio mokymo
-įstaigas, aukštesniąsias, aukštąsias mokyklas ir kvalifikacijos kėlimo kursus;
+įstaigas, aukštąsias mokyklas, keliant kvalifikaciją, ugdant profesinius
+įgūdžius ir suteikiant praktinę darbo patirtį;
 2) skiriant stipendijas bei teikiant
 kreditus studijoms;
 3) parenkant mokymo programas;
@@ -150,27 +159,35 @@ kreditus studijoms;
 2. Švietimo ir mokslo įstaigos pagal
 kompetenciją privalo užtikrinti, kad mokymo programose ir vadovėliuose nebūtų
 moterų ir vyrų diskriminavimo propagavimo.
+Straipsnio pakeitimai:
+Nr. X-1380,
+2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
  
 5
 straipsnis. Darbdavio pareiga įgyvendinti lygias moterų ir vyrų teises darbe
 Įgyvendindamas lygias moterų ir vyrų
 teises, darbdavys privalo: 
-1) priimdamas į darbą, taikyti vienodus
-atrankos kriterijus ir priėmimo sąlygas, išskyrus 2 straipsnio 4 dalies 5
-punkte numatytą atvejį;
+1) priimdamas į darbą ar perkeldamas į
+aukštesnes pareigas, taikyti vienodus atrankos kriterijus ir sąlygas, išskyrus
+2 straipsnio 4 dalies 5 punkte numatytą atvejį;
 2) sudaryti vienodas darbo sąlygas, galimybes kelti
 kvalifikaciją, persikvalifikuoti, įgyti praktinę darbo patirtį, taip pat teikti
 vienodas lengvatas;
 3) už tokį pat ar vienodos vertės darbą
-mokėti vienodą darbo užmokestį;
+mokėti vienodą darbo užmokestį, įskaitant visus papildomus uždarbius, bet kokiu
+būdu darbdavio išmokamus darbuotojui už jo atliktą darbą;
 4) imtis priemonių, kad darbuotojas
 nepatirtų seksualinio priekabiavimo ar priekabiavimo;
-5) imtis priemonių, kad darbuotojas būtų
-apsaugotas nuo priešiško elgesio, neigiamų pasekmių bei kitokio persekiojimo,
-kai reaguojama į jo skundą dėl diskriminacijos.
+5) imtis
+priemonių, kad darbuotojas, darbuotojo atstovas, darbuotojas, liudijantis ar
+teikiantis paaiškinimus, būtų apsaugotas nuo
+priešiško elgesio, neigiamų pasekmių ir kitokio persekiojimo, kai reaguojama į
+skundą arba į kitą teisinę procedūrą dėl diskriminacijos.
 Straipsnio pakeitimai:
 Nr. X-304, 2005-07-05,
 Žin., 2005, Nr. 88-3281 (2005-07-21)
+Nr. X-1380,
+2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
  
 5(1) straipsnis. Moterų ir vyrų lygių
 galimybių įgyvendinimas vartotojų teisių apsaugos 
@@ -182,12 +199,23 @@ jų lytis, taikyti vienodas apmokėjimo sąlygas ir garantijas už tokius pačiu
 vienodos vertės gaminius, prekes ir paslaugas;
 2) suteikdamas vartotojams informaciją
 apie gaminius, prekes ir paslaugas arba jas reklamuodamas, užtikrinti, kad joje
-nebūtų išreiškiamas pažeminimas, paniekinimas arba teisių apribojimas ar
-privilegijų teikimas dėl asmens lyties bei formuojamos visuomenės nuostatos,
-kad viena lytis pranašesnė už kitą.
+nebūtų išreiškiamas pažeminimas, paniekinimas arba teisių apribojimas ar privilegijų
+teikimas dėl asmens lyties bei formuojamos visuomenės nuostatos, kad viena
+lytis pranašesnė už kitą.
 Įstatymas papildytas straipsniu:
 Nr. IX-956,
 2002-06-18, Žin., 2002, Nr. 68-2761 (2002-07-03)
+ 
+52 straipsnis.
+Draudimas diskriminuoti dėl lyties narystės ir dalyvavimo organizacijose
+pagrindu
+Draudžiama diskriminacija dėl lyties
+narystės ir dalyvavimo darbuotojų ir darbdavių organizacijose ar kitose
+organizacijose (asociacijose), kurių nariai turi tam tikrą profesiją, įskaitant
+tokių organizacijų (asociacijų) teikiamą naudą, pagrindu.
+Įstatymas papildytas straipsniu:
+Nr. X-1380,
+2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
  
 III SKYRIUS
 MOTERŲ
@@ -198,18 +226,21 @@ Moterų ir vyrų lygias teises pažeidžiantys darbdavio veiksmai
 Darbdavio veiksmai yra pripažįstami
 pažeidžiančiais moterų ir vyrų lygias teises, jeigu jis dėl asmens lyties :
 1) taiko asmeniui mažiau (daugiau)
-palankias įdarbinimo arba apmokėjimo už tokį pat ar vienodos vertės darbą
-sąlygas;
+palankias įdarbinimo, perkėlimo į kitas pareigas arba apmokėjimo už tokį
+pat ar vienodos vertės darbą sąlygas;
 2) organizuodamas darbą, sukuria
 darbuotojui blogesnes (geresnes) darbo sąlygas;
-3) skiria darbuotojui drausminę
-nuobaudą, keičia darbo sąlygas, perkelia į kitą darbą arba nutraukia darbo
-sutartį; 
-4) persekioja darbuotoją, pateikusį
-skundą dėl diskriminacijos.
+3) skiria darbuotojui drausminę nuobaudą,
+keičia darbo sąlygas, perkelia į kitą darbą arba nutraukia darbo sutartį; 
+4) persekioja
+darbuotoją, darbuotojo atstovą, darbuotoją, liudijantį ar teikiantį
+paaiškinimus dėl skundo arba dėl kitos teisinės procedūros dėl diskriminacijos
+lyties pagrindu.
 Straipsnio pakeitimai:
 Nr. X-304, 2005-07-05,
 Žin., 2005, Nr. 88-3281 (2005-07-21)
+Nr. X-1380,
+2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
  
 7
 straipsnis. Moterų ir vyrų lygias teises pažeidžiantys švietimo įstaigų, mokslo
@@ -220,10 +251,14 @@ institucijų veiksmai
 institucijų veiksmai pripažįstami pažeidžiančiais moterų ir vyrų lygias teises,
 jeigu dėl asmens lyties:
 1) taikomi skirtingi reikalavimai ir
-sąlygos priimant mokytis ar studijuoti, rengiant mokymo programas, vertinant
-žinias;
+sąlygos priimant mokytis ar studijuoti, rengiant mokymo ir studijų programas,
+vertinant žinias, keliant kvalifikaciją, ugdant profesinius įgūdžius ar
+suteikiant praktinę darbo patirtį;
 2) nustatomos skirtingos dėstomų dalykų
 pasirinkimo galimybės.
+Straipsnio pakeitimai:
+Nr. X-1380,
+2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
  
 7(1) straipsnis. Moterų ir vyrų lygias
 teises pažeidžiantys prekių pardavėjo, gamintojo ar 
@@ -246,6 +281,17 @@ Nr. IX-956,
 Nr. X-304, 2005-07-05,
 Žin., 2005, Nr. 88-3281 (2005-07-21)
  
+72 straipsnis.
+Diskriminavimas dėl lyties narystės ar dalyvavimo organizacijose pagrindu
+Bet kurie veiksmai, kliudantys dėl
+lyties tapti darbuotojų ir darbdavių organizacijų ar kitų organizacijų
+(asociacijų), kurių nariai turi tam tikrą profesiją, nariu ar dalyvauti šiose
+organizacijose (asociacijose), įskaitant tokių organizacijų (asociacijų) teikiamą
+naudą, yra pripažįstami pažeidžiantys moterų ir vyrų lygias teises.
+Įstatymas papildytas straipsniu:
+Nr. X-1380,
+2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
+ 
 8 straipsnis.
 Diskriminuojantys skelbimai
 Skelbimuose priimti į darbą, valstybės
@@ -260,15 +306,21 @@ Nr. X-304, 2005-07-05,
 Žin., 2005, Nr. 88-3281 (2005-07-21)
  
 9 straipsnis.
-Diskriminuojamo asmens teisės
-Asmuo, manantis, kad jam buvo taikomi šiame
-skyriuje nurodyti diskriminuojantys veiksmai, arba tapęs seksualinio
-priekabiavimo ar kitokio priekabiavimo objektu, turi teisę kreiptis į lygių
-galimybių kontrolierių.
+Diskriminuojamo asmens ir jam atstovaujančių asmenų teisės
+1. Asmuo, manantis, kad jam buvo
+taikomi šiame skyriuje nurodyti diskriminuojantys veiksmai, arba tapęs
+seksualinio priekabiavimo ar kitokio priekabiavimo objektu, turi teisę kreiptis
+objektyvios ir nešališkos pagalbos į lygių galimybių kontrolierių.
+2. Darbuotojų ir darbdavių organizacijos
+arba
+kiti juridiniai asmenys, turintys teisėtą interesą, gavę asmens
+rašytinį sutikimą, gali įstatymų nustatyta tvarka atstovauti jam teisminėse
+arba administracinėse procedūrose.
 Straipsnio pakeitimai:
 Nr. X-304, 2005-07-05,
 Žin., 2005, Nr. 88-3281 (2005-07-21)
- 
+Nr. X-1380,
+2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
  
 IV SKYRIUS
 ĮSTATYMO
@@ -301,16 +353,22 @@ Nr. X-304, 2005-07-05,
 Lygių galimybių kontrolieriaus kompetencija
 1. Lygių galimybių kontrolierius tiria
 skundus dėl tiesioginės ar netiesioginės diskriminacijos, priekabiavimo ir
-seksualinio priekabiavimo.
+seksualinio priekabiavimo ir teikia su tuo susijusias objektyvias ir nešališkas
+konsultacijas.
 2. Lygių galimybių kontrolierius teikia
 išvadas dėl šio įstatymo įgyvendinimo, taip pat pasiūlymus Lietuvos Respublikos
 valdžios ir valdymo institucijoms dėl teisės aktų tobulinimo ir lygių teisių
 įgyvendinimo politikos prioritetų.
+3. Lygių galimybių kontrolierius keičiasi
+turima informacija su analogiškas funkcijas atliekančiomis Europos Sąjungos
+įstaigomis.
 Straipsnio pakeitimai:
 Nr. IX-956,
 2002-06-18, Žin., 2002, Nr. 68-2761 (2002-07-03)
 Nr. X-304, 2005-07-05,
 Žin., 2005, Nr. 88-3281 (2005-07-21)
+Nr. X-1380,
+2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
  
 13 straipsnis.
 Lygių galimybių kontrolieriui keliami reikalavimai
@@ -348,8 +406,8 @@ Tepadeda man Dievas.“;
 2) „Aš, Lietuvos Respublikos lygių galimybių
 kontrolierius (-ė) (vardas, pavardė), prisiekiu būti ištikimas (-a) Lietuvos
 valstybei, vykdyti jos Konstituciją ir įstatymus, savo pareigas atlikti
-garbingai, ginti žmogaus teises, laisves ir teisėtus interesus, visada būti nešališkas
-(-a), saugoti man patikėtas paslaptis.“
+garbingai, ginti žmogaus teises, laisves ir teisėtus interesus, visada būti
+nešališkas (-a), saugoti man patikėtas paslaptis.“
 2. Priesaiką priima Seimo Pirmininkas Seimo
 posėdyje.
 3. Lygių galimybių kontrolierius
@@ -369,8 +427,8 @@ atleidžiamas iš pareigų:
 būklės, t. y. per vienerius kalendorinius metus kontrolierius serga daugiau
 kaip 120 kalendorinių dienų iš eilės arba daugiau kaip 140 kalendorinių dienų
 per paskutiniuosius dvylika mėnesių;
-4) kai jam įsiteisėja apkaltinamasis
-teismo nuosprendis;
+4) kai jam įsiteisėja apkaltinamasis teismo
+nuosprendis;
 5) kai Lietuvos Respublikos Seimas
 pareiškia jam nepasitikėjimą.
 2. Lygių galimybių kontrolieriaus
@@ -382,8 +440,8 @@ Nr. X-304, 2005-07-05,
 16 straipsnis.
 Draudimai lygių galimybių kontrolieriui
 1. Lygių galimybių kontrolierius negali
-eiti jokių kitų pareigų valstybinėse įstaigose ir organizacijose, taip pat dirbti
-verslo, komercijos bei kitose privačiose įstaigose ar įmonėse.
+eiti jokių kitų pareigų valstybinėse įstaigose ir organizacijose, taip pat
+dirbti verslo, komercijos bei kitose privačiose įstaigose ar įmonėse.
 2. Lygių galimybių kontrolierius negali
 gauti kito atlyginimo, išskyrus nustatytąjį pagal einamas pareigas bei
 užmokestį už pedagoginę ar kūrybinę veiklą.
@@ -477,7 +535,8 @@ priimtas procesinis sprendimas pradėti ikiteisminį tyrimą.
 2. Jeigu pareiškėjui skundas grąžinamas,
 turi būti nurodyti atsisakymo jį nagrinėti pagrindai. Tais atvejais, kai
 skundas nepriklauso lygių galimybių kontrolieriaus kompetencijai, atsisakyme
-nagrinėti nurodoma, į kokią instituciją tuo klausimu galėtų kreiptis pareiškėjas.
+nagrinėti nurodoma, į kokią instituciją tuo klausimu galėtų kreiptis
+pareiškėjas.
 3. Po ištyrimo pakartotinai paduotas
 skundas nenagrinėjamas, išskyrus atvejus, kai nurodomos naujos aplinkybės ar
 pateikiami nauji faktai.
@@ -511,8 +570,8 @@ kontrolierius išsiaiškina:
 veiksmų buvimo ar nebuvimo faktą; 
 2) kuo remiantis ir kokiomis
 aplinkybėmis sprendimai arba veiksmai padaryti;
-3) ar skunde minimi sprendimai arba
-veiksmai prieštarauja įstatymams bei kitiems teisės aktams;
+3) ar skunde minimi sprendimai arba veiksmai
+prieštarauja įstatymams bei kitiems teisės aktams;
 4) kas padarė pažeidimą, dėl kokių
 priežasčių (ar tikslų) tai padaryta, koks pažeidimų mastas, kaip pažeidimą
 padariusieji asmenys aiškina savo veiksmus;
@@ -545,8 +604,8 @@ galimybių kontrolierius gali priimti sprendimą:
 1) perduoti tyrimo medžiagą ikiteisminio
 tyrimo įstaigai ar prokurorui, jeigu nustatomi nusikalstamos veikos požymiai;
 2) kreiptis į atitinkamą asmenį ar
-instituciją ir siūlyti nutraukti lygias teises pažeidžiančius veiksmus ar
-panaikinti su tuo susijusį aktą;
+instituciją ir siūlyti nutraukti lygias teises pažeidžiančius veiksmus,
+pakeisti ar panaikinti su tuo susijusį aktą;
 3) nagrinėti administracinių teisės
 pažeidimų bylas ir skirti administracines nuobaudas;
 4) atmesti skundą, jeigu nepasitvirtino
@@ -554,8 +613,8 @@ jame nurodyti pažeidimai;
 5) nutraukti tyrimą, jeigu pareiškėjas
 skundą atsiima arba kai trūksta objektyvių duomenų apie padarytą pažeidimą, arba
 kai pareiškėjas ir pažeidėjas susitaiko, arba kai lygias teises pažeidžiančios
-veikos nutraukiamos, arba kai lygias teises pažeidžiantis teisės aktas
-panaikinamas;
+veikos nutraukiamos, arba kai lygias teises pažeidžiantis teisės aktas pakeičiamas
+ar panaikinamas;
 6) įspėti dėl padaryto pažeidimo;
 7) laikinai sustabdyti tyrimą, jei asmuo, kurio
 skundas ar apskundžiami veiksmai tiriami, serga arba yra išvykęs;
@@ -578,6 +637,8 @@ Nr. X-304, 2005-07-05,
 Žin., 2005, Nr. 88-3281 (2005-07-21)
 Nr. X-596, 2006-05-04,
 Žin., 2006, Nr. 57-2026 (2006-05-20)
+Nr. X-1380,
+2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
  
 24(1) straipsnis. Žalos atlyginimas
 Asmuo, patyręs diskriminaciją dėl
@@ -585,8 +646,8 @@ lyties, seksualinį priekabiavimą ar priekabiavimą, turi teisę reikalauti iš
 kaltų asmenų atlyginti turtinę ir neturtinę žalą Lietuvos Respublikos civilinio
 kodekso nustatyta tvarka.
 Įstatymas papildytas straipsniu:
-Nr. IX-2551, 2004-11-09,
-Žin., 2004, Nr. 171-6305 (2004-11-26)
+Nr. IX-2551,
+2004-11-09, Žin., 2004, Nr. 171-6305 (2004-11-26)
 Nr. X-304, 2005-07-05,
 Žin., 2005, Nr. 88-3281 (2005-07-21)
  
@@ -628,13 +689,14 @@ Nr. X-304, 2005-07-05,
 Žin., 2005, Nr. 88-3281 (2005-07-21)
  
 27 straipsnis.
-Lygių galimybių kontrolieriaus tarnybos veiklos ataskaita
+Lygių galimybių kontrolieriaus tarnybos ataskaita
 Lygių galimybių kontrolierius kasmet iki
 kovo 15 dienos raštu pateikia Seimui praėjusių kalendorinių metų Lygių
-galimybių kontrolieriaus tarnybos veiklos ataskaitą, kuri nagrinėjama Seime.
-Visa ataskaita turi būti paskelbta Lygių galimybių kontrolieriaus tarnybos
-interneto tinklalapyje, o esant galimybei, – ir per kitas visuomenės
-informavimo priemones.
+galimybių kontrolieriaus tarnybos ataskaitą, kuri nagrinėjama Seime. Ši
+nepriklausoma ataskaita apima Lygių galimybių kontrolieriaus veiklos ataskaitą,
+padėties apžvalgą, išvadas ir rekomendacijas. Visa ataskaita turi būti
+paskelbta Lygių galimybių kontrolieriaus tarnybos interneto tinklalapyje, o
+esant galimybei, – ir per kitas visuomenės informavimo priemones.
 Straipsnio
 pakeitimai:
 Nr.
@@ -642,6 +704,8 @@ IX-1771,
 2003-10-14, Žin., 2003, Nr. 104-4641 (2003-11-05)
 Nr. X-304, 2005-07-05,
 Žin., 2005, Nr. 88-3281 (2005-07-21)
+Nr. X-1380,
+2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
  
 28 straipsnis.
 Lygių galimybių kontrolieriaus tarnybos veiklos viešumas
@@ -665,8 +729,7 @@ tarnybai skirti patalpas.
  
 30 straipsnis.
 Įstatymo įsigaliojimas
-Šis įstatymas įsigalioja 1999 m. kovo 1
-d.
+Šis įstatymas įsigalioja 1999 m. kovo 1 d.
  
 Skelbiu šį Lietuvos Respublikos Seimo
 priimtą įstatymą.
@@ -677,34 +740,37 @@ ADAMKUS
  
 _________________
  
+ 
 Lietuvos
 Respublikos 
-                                                                                   moterų
-ir
-vyrų lygių
-galimybių
+                                                                                            moterų
+ir vyrų lygių
+                                                                                            galimybių
 įstatymo
-priedas
+                                                                                            priedas
  
-ĮGYVENDINAMI
-EUROPOS SĄJUNGOS TEISĖS AKTAI
+Įgyvendinami
+Europos Sąjungos teisės aktai
  
 1. 1996 m. gruodžio 20 d. Tarybos direktyva 96/97/EB, iš dalies
 keičianti Direktyvą 86/378/EEB dėl vienodo požiūrio į vyrus ir moteris principo
-įgyvendinimo profesinėse socialinės apsaugos sistemose.
+įgyvendinimo profesinėse socialinės apsaugos sistemose (OL 2004 m. specialusis leidimas, 5 skyrius, 3 tomas, p. 232).
 2. 1997 m. gruodžio 15 d. Tarybos direktyva 97/80/EB dėl įrodinėjimo
-pareigos diskriminacijos dėl lyties bylose.
+pareigos diskriminacijos dėl lyties bylose (OL
+ 2004 m. specialusis leidimas, 5 skyrius, 3 tomas, p. 264).
 3. 1998 m. liepos 13 d. Tarybos direktyva 98/52/EB, išplečianti
 Direktyvos 97/80/EB dėl įrodinėjimo pareigos diskriminacijos dėl lyties bylose
-taikymą Jungtinei Didžiosios Britanijos ir Šiaurės Airijos Karalystei.
- 4. 2002 m. rugsėjo 23 d. Europos Parlamento ir Tarybos direktyva
+taikymą Jungtinei Didžiosios Britanijos ir Šiaurės Airijos Karalystei (OL 2004 m. specialusis leidimas, 5 skyrius, 3 tomas, p. 307).
+4. 2002 m. rugsėjo 23 d. Europos Parlamento ir Tarybos direktyva
 2002/73/EB, iš dalies keičianti Tarybos direktyvą 76/207/EEB dėl vienodo
 požiūrio į vyrus ir moteris principo taikymo įsidarbinimo, profesinio mokymo,
-pareigų paaukštinimo ir darbo sąlygų atžvilgiu.
- 5. 2004 m. gruodžio 13 d. Tarybos
-direktyva 2004/113/EB, įgyvendinanti vienodo požiūrio į moteris ir vyrus
-principą dėl galimybės naudotis prekėmis bei paslaugomis ir prekių tiekimo bei
-paslaugų teikimo.
+pareigų paaukštinimo ir darbo sąlygų atžvilgiu (OL 2004 m. specialusis leidimas, 5 skyrius, 4 tomas, p. 255).
+5. 2004 m. gruodžio 13 d. Tarybos direktyva 2004/113/EB, įgyvendinanti vienodo požiūrio į moteris ir
+vyrus principą dėl galimybės naudotis prekėmis bei paslaugomis ir prekių
+tiekimo bei paslaugų teikimo (OL 2004 L 373, p. 37).
+6. 2006 m. liepos 5 d. Europos Parlamento ir Tarybos direktyva 2006/54/EB dėl moterų ir vyrų lygių
+galimybių ir vienodo požiūrio į moteris ir vyrus užimtumo bei profesinės
+veiklos srityje principo įgyvendinimo (nauja redakcija) (OL 2006 L 204, p. 23).
 Įstatymas
 papildytas priedu:
 Nr.
@@ -714,6 +780,9 @@ Priedo
 pakeitimai:
 Nr. X-304, 2005-07-05,
 Žin., 2005, Nr. 88-3281 (2005-07-21)
+Nr. X-1380,
+2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
+ 
 ______________
  
 Pakeitimai:
@@ -755,7 +824,7 @@ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 21 IR 24 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis Įstatymas
 įsigalioja kartu su Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir
 Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
-2003 m. gegužės 1 d.
+ 2003 m. gegužės 1 d.
  
 5.
 Lietuvos
@@ -805,10 +874,22 @@ MOTERŲ
 IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 14, 23, 24 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 BEI ĮSTATYMO PAPILDYMO 14(1) STRAIPSNIU ĮSTATYMAS
  
+10.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-1380,
+2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
+MOTERŲ
+IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 2, 3, 4, 5, 6, 7, 9, 12, 24, 27 STRAIPSNIŲ IR
+PRIEDO PAKEITIMO BEI PAPILDYMO IR ĮSTATYMO PAPILDYMO 5(2) IR 7(2) STRAIPSNIAIS
+ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
+ 
 Redagavo:
-Aušrinė Trapinskienė (2006-05-22)
+Aušrinė Trapinskienė (2008-01-10)
                  
 autrap@lrs.lt
