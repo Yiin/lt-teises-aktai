@@ -37,36 +37,8 @@ Vilnius
 I. BENDROJI
 DALIS 
  
-1
-straipsnio redakcija iki 2007 m. sausio 1 d.:
-1
-straipsnis. Lietuvos Respublikos valstybinės pensijos
-Lietuvos
-Respublikoje nustatomos šios valstybinės pensijos: 
-1) Respublikos
-Prezidento valstybinė pensija; 
-2) Lietuvos
-Respublikos pirmojo ir antrojo laipsnių valstybinės pensijos; 
-3)
-nukentėjusiųjų asmenų valstybinės pensijos; 
-4) pareigūnų ir
-karių valstybinės pensijos; 
-5) mokslininkų
-valstybinės pensijos;
-6) teisėjų
-valstybinės pensijos.
-Mokslininkų
-valstybinės pensijos nustatomos laikinai - iki papildomo mokslininkų pensinio
-draudimo sistemos sudarymo.
-Lietuvos
-Respublikos pirmojo ir antrojo laipsnių valstybinės pensijos, taip pat
-nukentėjusiųjų asmenų valstybinės pensijos skiriamos pagal šį įstatymą.
-Respublikos Prezidento, pareigūnų ir karių, mokslininkų bei teisėjų valstybinės
-pensijos skiriamos pagal specialius įstatymus.
-1
-straipsnio redakcija nuo 2007 m. sausio 1 d.:
-1 straipsnis. Lietuvos
-Respublikos valstybinės pensijos
+1 straipsnis.
+Lietuvos Respublikos valstybinės pensijos
 Lietuvos
 Respublikoje nustatomos šios valstybinės pensijos:
 1)
@@ -104,21 +76,20 @@ Visos
 valstybinės pensijos mokamos iš Lietuvos Respublikos valstybės biudžeto.
  
 2
-dalies redakcija iki 2007 m. sausio 1 d.:
-Šio įstatymo 1
-straipsnio 1 dalies 2, 3 ir 5 punktuose nurodytų valstybinių pensijų dydžio
-matas yra valstybinių pensijų bazė, kuri 1998 m. sausio 1 d. yra lygi tuo metu
-taikomam valstybinės socialinio draudimo bazinės pensijos dydžiui. Valstybinių
-pensijų bazę tvirtina Lietuvos Respublikos Vyriausybė Socialinės apsaugos ir
-darbo ministerijos teikimu.
-2
-dalies redakcija nuo 2007 m. sausio 1 d.:
+dalies redakcija iki 2008 m. sausio 1 d.:
 Šio
 įstatymo 1 straipsnio 1 dalies 1, 2 ir 4 punktuose nurodytų valstybinių pensijų
 dydžio matas yra valstybinių pensijų bazė, kuri yra lygi 2005 m. sausio 1 d.
 taikytam valstybinės socialinio draudimo bazinės pensijos dydžiui. Valstybinių
 pensijų bazę tvirtina Lietuvos Respublikos Vyriausybė Socialinės apsaugos ir
 darbo ministerijos teikimu.
+2
+dalies redakcija nuo 2008 m. sausio 1 d.:
+Šio
+įstatymo 1 straipsnio 1 dalies 1, 2 ir 4 punktuose nurodytų valstybinių pensijų
+dydžio matas yra valstybinių pensijų bazė. Jos dydis negali būti mažesnis negu
+200 litų. Valstybinių pensijų bazę tvirtina Lietuvos Respublikos Vyriausybė
+Socialinės apsaugos ir darbo ministerijos teikimu.
 Straipsnio
 pakeitimai:
 Nr. VIII-493,
@@ -131,6 +102,8 @@ X-726,
 2006-06-22, Žin., 2006, Nr. 77-2970 (2006-07-14)
 Nr. X-978, 2006-12-12,
 Žin., 2006, Nr. 141-5404 (2006-12-28)
+Nr. X-1387, 2007-12-18, Žin., 2007, Nr. 138-5646
+(2007-12-29)
  
 3
 straipsnis. Teisė pasirinkti valstybinės pensijos rūšį
@@ -139,46 +112,22 @@ teisę gauti kelias valstybines pensijas, jo pasirinkimu mokama tik viena iš j�
 išskyrus valstybinę našlių ir našlaičių pensiją, kuri taip pat gali būti mokama
 tik viena su viena iš valstybinių pensijų. Šio įstatymo 14 straipsnio 3 dalyje
 nurodytiems asmenims nustatyta nukentėjusių asmenų valstybinė našlaičių pensija
-skiriama ir mokama, jeigu asmuo neturi teisės į kitą nukentėjusių asmenų
-valstybinę pensiją.
- 
-2
-dalies redakcija iki 2007 m. sausio 1 d.:
+skiriama ir mokama, jeigu asmuo neturi teisės į kitą nukentėjusių asmenų valstybinę
+pensiją.
 Asmeniui,
 turinčiam teisę gauti valstybinę našlių pensiją už mirusį valstybinės pensijos,
-nurodytos šio įstatymo 1 straipsnio 1 dalies 2 ir 4 punktuose, gavėją ir
-valstybinę socialinio draudimo našlių pensiją, jo pasirinkimu skiriama ir
-mokama arba valstybinė našlių pensija, arba valstybinė socialinio draudimo
-našlių pensija. 
-2
-dalies redakcija nuo 2007 m. sausio 1 d.:
-Asmeniui, turinčiam
-teisę gauti valstybinę našlių pensiją už mirusį valstybinės pensijos, nurodytos
-šio įstatymo 1 straipsnio 1 dalies 1 ir 3 punktuose, gavėją ir valstybinę
-socialinio draudimo našlių pensiją, jo pasirinkimu skiriama ir mokama arba
-valstybinė našlių pensija, arba valstybinė socialinio draudimo našlių pensija.
- 
-3
-dalies redakcija iki 2007 m. sausio 1 d.:
-Kiekvienos šio
-įstatymo 1 straipsnio 1 dalies 3–6 punktuose nustatytos valstybinės pensijos
-dydis bei šios pensijos dydžio ir tam pačiam asmeniui paskirtų pagal šio
-straipsnio pirmąją dalį valstybinių pensijų ir valstybinių socialinio draudimo
-pensijų bendra suma vienam asmeniui negali viršyti užpraeito ketvirčio prieš tą
-mėnesį, už kurį mokama valstybinė pensija, Statistikos departamento prie
-Lietuvos Respublikos Vyriausybės paskelbto šalies ūkio vidutinio mėnesinio
-darbo užmokesčio 1,5 dydžio. Pensijos dydžio ribojimą taiko valstybinę pensiją
-mokanti institucija.
-3
-dalies redakcija nuo 2007 m. sausio 1 d.:
+nurodytos šio įstatymo 1 straipsnio 1 dalies 1 ir 3 punktuose, gavėją ir
+valstybinę socialinio draudimo našlių pensiją, jo pasirinkimu skiriama ir mokama
+arba valstybinė našlių pensija, arba valstybinė socialinio draudimo našlių
+pensija.
 Kiekvienos šio
 įstatymo 1 straipsnio 1 dalies 2–5 punktuose nustatytos valstybinės pensijos
-dydis bei šios pensijos dydžio ir tam pačiam asmeniui paskirtų pagal šio
-straipsnio 1 dalį valstybinių pensijų ir valstybinių socialinio draudimo
-pensijų bendra suma vienam asmeniui negali viršyti užpraeito ketvirčio prieš tą
-mėnesį, už kurį mokama valstybinė pensija, Statistikos departamento prie
-Lietuvos Respublikos Vyriausybės paskelbto šalies ūkio vidutinio mėnesinio
-darbo užmokesčio 1,5 dydžio. Pensijos dydžio ribojimą taiko valstybinę pensiją
+dydis bei šios pensijos dydžio ir tam pačiam asmeniui paskirtų pagal šio straipsnio
+1 dalį valstybinių pensijų ir valstybinių socialinio draudimo pensijų bendra
+suma vienam asmeniui negali viršyti užpraeito ketvirčio prieš tą mėnesį, už
+kurį mokama valstybinė pensija, Statistikos departamento prie Lietuvos
+Respublikos Vyriausybės paskelbto šalies ūkio vidutinio mėnesinio darbo
+užmokesčio 1,5 dydžio. Pensijos dydžio ribojimą taiko valstybinę pensiją
 mokanti institucija.
 Straipsnio
 pakeitimai:
@@ -206,6 +155,8 @@ RESPUBLIKOS PIRMOJO IR ANTROJO
 LAIPSNIŲ
 VALSTYBINĖS PENSIJOS
  
+4
+straipsnio redakcija iki 2008 m. sausio 1 d.:
 4
 straipsnis. Teisė gauti Lietuvos Respublikos pirmojo arba antrojo laipsnio
 valstybinę 
@@ -238,6 +189,15 @@ Lietuvos Respublikos piliečiai – olimpinių žaidynių čempionai (aukso meda
 laimėtojai). Teisę gauti antrojo laipsnio valstybinę pensiją šio įstatymo
 nustatyta tvarka turi Lietuvos Respublikos piliečiai – olimpinių žaidynių
 prizininkai (sidabro, bronzos medalių laimėtojai).
+4
+straipsnio redakcija nuo 2008 m. sausio 1 d.:
+4 straipsnis. Teisė gauti Lietuvos Respublikos
+pirmojo arba antrojo laipsnio valstybinę pensiją
+Teisę gauti Lietuvos Respublikos pirmojo arba antrojo laipsnio valstybinę pensiją (toliau – pirmojo arba antrojo laipsnio valstybinė pensija) turi šie Lietuvos Respublikos piliečiai:1) asmenys, ypač nusipelnę Lietuvai kurdami bei plėtodami jos valstybingumą, ūkį, kultūrą, mokslą, meną ir sportą, gindami valstybės nepriklausomybę, teritorijos vientisumą ir konstitucinę santvarką;2) labiausiai pasižymėję neginkluoto pasipriešinimo (rezistencijos) dalyviai – laisvės kovų dalyviai;3) aukščiausieji valstybės pareigūnai.Teisę gauti pirmojo laipsnio valstybinę pensiją turi šie Lietuvos Respublikos piliečiai:1) ginkluoto pasipriešinimo (rezistencijos) dalyviai – kariai savanoriai;2) olimpinių žaidynių čempionai (aukso medalio laimėtojai); Teisę gauti antrojo laipsnio valstybinę pensiją turi šie Lietuvos Respublikos piliečiai:1) motinos, pagimdžiusios (įvaikinusios) ir išauginusios iki 8 metų bei gerai išauklėjusios 7 ir daugiau vaikų;2) olimpinių žaidynių prizininkai (sidabro, bronzos medalių laimėtojai), parolimpinių žaidynių čempionai, olimpinių sporto šakų pasaulio čempionai, olimpinių kurčiųjų žaidynių čempionai;3) asmenys, kuriems teisės aktų nustatyta tvarka suteiktas garbės donoro vardas.Pirmojo arba antrojo laipsnio valstybinė pensija skiriama asmenims, jeigu jie yra sukakę Valstybinių socialinio draudimo pensijų įstatyme nustatytą senatvės pensijos amžių (toliau – senatvės pensijos amžius) arba yra pripažinti nedarbingais ar iš dalies darbingais, netekusiais 60 procentų ir daugiau darbingumo (iki 2005 m. liepos 1 d. I ar II grupės invalidais).
+Asmenys,
+dirbę ypatingomis darbo sąlygomis, už kurias skiriama kompensacija pagal Valstybinių socialinio draudimo pensijų įstatymą,
+turi teisę gauti pirmojo arba antrojo laipsnio valstybinę pensiją likus iki
+senatvės pensijos amžiaus tiek mėnesių, už kiek mėnesių mokama kompensacija.
 Straipsnio
 pakeitimai:
 Nr.
@@ -258,6 +218,8 @@ IX-2238,
 2004-05-18, Žin., 2004, Nr. 88-3209 (2004-06-03)
 Nr. X-208, 2005-05-19,
 Žin., 2005, Nr. 71-2554 (2005-06-07)
+Nr. X-1387, 2007-12-18, Žin., 2007, Nr. 138-5646
+(2007-12-29)
  
 5
 straipsnis. Pirmojo ir antrojo laipsnių valstybinių pensijų skyrimas,
@@ -283,14 +245,29 @@ pasipriešinimo (rezistencijos) dalyviams – kariams savanoriams pirmojo laipsn
 valstybinės pensijos mokamos neatsižvelgiant į tai, ar jų gavėjai turi
 draudžiamųjų pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio
 pensijų draudimo įmokos.
+ 
+5
+dalies redakcija iki 2008 m. sausio 1 d.:
 Olimpinių
 žaidynių čempionams ir prizininkams pirmojo ir antrojo laipsnių valstybinės
 pensijos skiriamos neribojant pirmojo ir antrojo laipsnių valstybinių pensijų
 skyrimo per kalendorinius metus skaičiaus.
+5
+dalies redakcija nuo 2008 m. sausio 1 d.:
+Olimpinių
+žaidynių čempionams ir prizininkams, parolimpinių žaidynių čempionams,
+olimpinių sporto šakų pasaulio čempionams, olimpinių kurčiųjų žaidynių
+čempionams, garbės donorams pirmojo ir antrojo laipsnių valstybinės
+pensijos skiriamos neribojant pirmojo ir antrojo laipsnių valstybinių pensijų
+skyrimo per kalendorinius metus skaičiaus.
+ 
 Asmenims, teismo
 nuosprendžiu pripažintiems kaltais už tyčinio nusikaltimo padarymą, pirmojo ar
 antrojo laipsnio valstybinės pensijos paskyrimas panaikinamas nuo nuosprendžio
 įsigaliojimo dienos.
+ 
+7
+dalies redakcija iki 2008 m. sausio 1 d.:
 Asmenims, kurie po
 pirmojo ir antrojo laipsnių valstybinių pensijų paskyrimo turi pajamų, nuo
 kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos,
@@ -301,14 +278,33 @@ profesinės reabilitacijos pašalpas ar nedarbo socialinio draudimo išmokas
 nemokamos. Ši nuostata netaikoma šio straipsnio ketvirtojoje dalyje
 išvardytiems ginkluoto pasipriešinimo (rezistencijos) dalyviams – kariams
 savanoriams pirmojo laipsnio valstybinių pensijų gavėjams, taip pat antrojo
-laipsnio valstybinių pensijų gavėjoms – motinoms, pagimdžiusioms ir
-išauginusioms iki 8 metų bei gerai išauklėjusioms 7 ir daugiau vaikų. Apie
-draudžiamųjų pajamų turėjimą pirmojo ir antrojo laipsnių valstybinių pensijų
-gavėjai privalo pranešti pensiją jiems mokančiai institucijai per 10 dienų nuo
-šių pajamų atsiradimo dienos. Jeigu apie šias pajamas laiku nepranešama ir dėl
-to permokama pensija, permokėtos pensijos suma išieškoma iš pensijos gavėjo
+laipsnio valstybinių pensijų gavėjoms – motinoms, pagimdžiusioms ir išauginusioms
+iki 8 metų bei gerai išauklėjusioms 7 ir daugiau vaikų. Apie draudžiamųjų
+pajamų turėjimą pirmojo ir antrojo laipsnių valstybinių pensijų gavėjai privalo
+pranešti pensiją jiems mokančiai institucijai per 10 dienų nuo šių pajamų
+atsiradimo dienos. Jeigu apie šias pajamas laiku nepranešama ir dėl to
+permokama pensija, permokėtos pensijos suma išieškoma iš pensijos gavėjo
 Valstybinių socialinio draudimo pensijų įstatymo ir kitų įstatymų nustatyta
 tvarka.
+7
+dalies redakcija nuo 2008 m. sausio 1 d.:
+Asmenims, kurie po
+pirmojo ir antrojo laipsnių valstybinių pensijų paskyrimo turi pajamų, nuo
+kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos,
+arba kurie gauna valstybinio socialinio draudimo ligos (įskaitant ir darbdavio
+mokamas ligos dienomis), motinystės, tėvystės, motinystės (tėvystės),
+profesinės reabilitacijos pašalpas ar nedarbo socialinio draudimo išmokas
+(toliau šiame straipsnyje – draudžiamosios pajamos), paskirtos pensijos
+nemokamos. Ši nuostata netaikoma ginkluoto pasipriešinimo (rezistencijos)
+dalyviams – kariams savanoriams pirmojo laipsnio valstybinių pensijų gavėjams,
+antrojo laipsnio valstybinių pensijų gavėjoms motinoms, pagimdžiusioms (įvaikinusioms)
+ir išauginusioms iki 8 metų bei gerai išauklėjusioms 7 ir daugiau vaikų, garbės
+donorams. Apie draudžiamųjų pajamų turėjimą pirmojo ir antrojo laipsnių
+valstybinių pensijų gavėjai privalo pranešti pensiją jiems mokančiai
+institucijai per 10 dienų nuo šių pajamų atsiradimo dienos. Jeigu apie šias
+pajamas laiku nepranešama ir dėl to permokama pensija, permokėtos pensijos suma
+išieškoma iš pensijos gavėjo Valstybinių socialinio draudimo pensijų įstatymo
+ir kitų įstatymų nustatyta tvarka.
 Straipsnio
 pakeitimai: 
 Nr.
@@ -338,6 +334,8 @@ Nr. X-208, 2005-05-19,
 Nr.
 X-671,
 2006-06-08, Žin., 2006, Nr. 72-2687 (2006-06-28)
+Nr. X-1387, 2007-12-18, Žin., 2007, Nr. 138-5646
+(2007-12-29)
  
 6
 straipsnis. Lietuvos Respublikos pirmojo ir antrojo laipsnių valstybinių
@@ -346,47 +344,102 @@ skyrimo komisija
 Lietuvos
 Respublikos pirmojo ir antrojo laipsnių valstybinių pensijų skyrimo komisija
 veikia prie Socialinės apsaugos ir darbo ministerijos.
+ 
+2
+ir 3 dalių redakcija iki 2008 m. sausio 1 d.:
 Į komisiją įeina
 socialinės apsaugos ir darbo ministras, kuris yra komisijos pirmininkas, ir 12
 narių - po 4 iš Seimo narių (lygiomis dalimis daugumos ir opozicijos atstovų),
 valdymo institucijų bei visuomenės atstovų. Valdžios ir valdymo institucijoms,
 be komisijos pirmininko, atstovauja kultūros ministras ir vienas iš Socialinės
-apsaugos ir darbo ministerijos viceministrų. Komisija sudaroma Vyriausybės sprendimu.
+apsaugos ir darbo ministerijos viceministrų. Komisija sudaroma Vyriausybės
+sprendimu.
 Komisija
 nagrinėja Lietuvos Respublikos aukščiausiosios valdžios ir valdymo institucijų,
 taip pat Lietuvos gyventojų genocido ir rezistencijos tyrimo centro pateiktus
 prašymus skirti pirmojo ar antrojo laipsnio valstybinę pensiją.
+2
+ir 3 dalių redakcija nuo 2008 m. sausio 1 d.:
+Komisiją sudaro
+vienuolika narių: socialinės apsaugos ir darbo ministras (komisijos
+pirmininkas), socialinės apsaugos ir darbo viceministras (komisijos pirmininko
+pavaduotojas), keturi ministrai ir penki visuomenės atstovai – visuomenės gerbiami
+ir vertinami žmonės, atstovaujantys skirtingoms veiklos sritims. Komisijos
+sudėtį socialinės apsaugos ir darbo ministro teikimu tvirtina Lietuvos
+Respublikos Vyriausybė. Komisijos sudėtis kas dveji
+metai atnaujinama ne mažiau kaip trečdaliu narių. Į komisijos posėdžius
+gali būti kviečiami ekspertai, kurie turi patariamojo balso teisę.
+Komisija
+nagrinėja Lietuvos Respublikos aukščiausiosios valdžios – Respublikos
+Prezidento, Seimo Pirmininko, Ministro Pirmininko ir valdymo institucijų, taip
+pat Lietuvos gyventojų genocido ir rezistencijos tyrimo centro pateiktus
+prašymus skirti pirmojo ar antrojo laipsnio valstybinę pensiją. Taip
+pat komisija nagrinėja savivaldybių arba apskričių viršininkų administracijos
+teikimus skirti antrojo laipsnio valstybines pensijas motinoms, pagimdžiusioms
+(įvaikinusioms) ir išauginusioms iki 8 metų bei gerai išauklėjusioms 7 ir
+daugiau vaikų. Teikimai skirti pirmojo ar antrojo laipsnio valstybinę pensiją
+pateikiami Lietuvos Respublikos pirmojo ir antrojo laipsnių valstybinių pensijų
+skyrimo ir mokėjimo nuostatų nustatyta tvarka.
+ 
 Komisija veikia
 vadovaudamasi šiuo įstatymu ir Lietuvos Respublikos pirmojo ir antrojo laipsnių
 valstybinių pensijų skyrimo ir mokėjimo nuostatais, tvirtinamais Vyriausybės.
+ 
+5
+dalies redakcija iki 2008 m. sausio 1 d.:
 Komisija turi teisę skirti antrojo laipsnio valstybinę
 pensiją miestų ir rajonų savivaldybių arba apskričių viršininkų administracijos
 teikimu motinoms, pagimdžiusioms ir išauginusioms iki 8 metų bei gerai
 išauklėjusioms 7 ir daugiau vaikų (toliau šiame straipsnyje – daugiavaikė
-motina), netaikydama šio įstatymo 5 straipsnio trečiojoje dalyje nurodytų apribojimų.
-Komisija taip pat turi teisę priimti sprendimą skirti nuo 2005 m. sausio 1
-d. antrojo laipsnio valstybinę pensiją daugiavaikei motinai, jeigu daugiavaikė
-motina 2005 m. sausio 1 d. atitiko šios pensijos skyrimo sąlygas ir jeigu
-Komisija gavo savivaldybės arba apskrities viršininko administracijos teikimą
-su visais būtinais nurodytai pensijai skirti dokumentais ne vėliau kaip iki
-2005 m. liepos 1 d. Daugiavaikių motinų pagimdytų ir išaugintų vaikų gero
-išauklėjimo bei pačių motinų elgesio vertinimo kriterijų ir sąlygų
-teisei į antrojo laipsnio valstybinę pensiją nustatyti aprašą tvirtina
-Vyriausybė. Šiuo aprašu privalo vadovautis savivaldybių ir apskričių viršininkų
-administracijos, teikdamos pasiūlymus dėl antrojo laipsnio valstybinių pensijų
-skyrimo daugiavaikėms motinoms, taip pat Komisija, priimdama sprendimus dėl šių
-motinų teisės gauti antrojo laipsnio valstybinę pensiją. Savivaldybių ir
-apskričių viršininkų administracijos, kurių teikimu šios pensijos buvo
-paskirtos motinoms, neatitinkančioms antrojo laipsnio valstybinių pensijų
-skyrimo sąlygų, įstatymų nustatyta tvarka privalo atlyginti Lietuvos
-Respublikos valstybės biudžetui žalą, padarytą iki šios pensijos mokėjimo
-nutraukimo.
+motina), netaikydama šio įstatymo 5 straipsnio trečiojoje dalyje nurodytų
+apribojimų. Komisija taip pat turi teisę priimti sprendimą skirti nuo
+2005 m. sausio 1 d. antrojo laipsnio valstybinę pensiją daugiavaikei motinai,
+jeigu daugiavaikė motina 2005 m. sausio 1 d. atitiko šios pensijos skyrimo
+sąlygas ir jeigu Komisija gavo savivaldybės arba apskrities viršininko
+administracijos teikimą su visais būtinais nurodytai pensijai skirti
+dokumentais ne vėliau kaip iki 2005 m. liepos 1 d. Daugiavaikių motinų
+pagimdytų ir išaugintų vaikų gero išauklėjimo bei pačių motinų elgesio vertinimo
+kriterijų ir sąlygų teisei į antrojo laipsnio valstybinę pensiją nustatyti
+aprašą tvirtina Vyriausybė. Šiuo aprašu privalo vadovautis savivaldybių ir
+apskričių viršininkų administracijos, teikdamos pasiūlymus dėl antrojo laipsnio
+valstybinių pensijų skyrimo daugiavaikėms motinoms, taip pat Komisija,
+priimdama sprendimus dėl šių motinų teisės gauti antrojo laipsnio valstybinę
+pensiją. Savivaldybių ir apskričių viršininkų administracijos, kurių teikimu
+šios pensijos buvo paskirtos motinoms, neatitinkančioms antrojo laipsnio
+valstybinių pensijų skyrimo sąlygų, įstatymų nustatyta tvarka privalo atlyginti
+Lietuvos Respublikos valstybės biudžetui žalą, padarytą iki šios pensijos
+mokėjimo nutraukimo.
+5
+dalies redakcija nuo 2008 m. sausio 1 d.:
+Komisija turi
+teisę skirti antrojo laipsnio valstybinę pensiją savivaldybių arba apskričių
+viršininkų administracijos teikimu motinoms, pagimdžiusioms (įvaikinusioms) ir
+išauginusioms iki 8 metų bei gerai išauklėjusioms 7 ir daugiau vaikų (toliau
+šiame straipsnyje – daugiavaikė motina), netaikydama šio įstatymo 5 straipsnio
+trečiojoje dalyje nurodytų apribojimų. Komisija taip pat turi teisę
+priimti sprendimą skirti nuo 2005 m. sausio 1 d. antrojo laipsnio valstybinę
+pensiją daugiavaikei motinai, jeigu daugiavaikė motina 2005 m. sausio 1 d.
+atitiko šios pensijos skyrimo sąlygas ir jeigu Komisija gavo savivaldybės arba
+apskrities viršininko administracijos teikimą su visais būtinais nurodytai
+pensijai skirti dokumentais ne vėliau kaip iki 2005 m. liepos 1 d. Daugiavaikių
+motinų pagimdytų (įvaikintų) ir išaugintų vaikų gero išauklėjimo bei pačių
+motinų elgesio vertinimo kriterijų ir sąlygų teisei į antrojo laipsnio
+valstybinę pensiją nustatyti aprašą tvirtina Vyriausybė. Šiuo aprašu privalo
+vadovautis savivaldybių ir apskričių viršininkų administracijos, teikdamos
+pasiūlymus dėl antrojo laipsnio valstybinių pensijų skyrimo daugiavaikėms
+motinoms, taip pat Komisija, priimdama sprendimus dėl šių motinų teisės gauti
+antrojo laipsnio valstybinę pensiją. Savivaldybių ir apskričių viršininkų
+administracijos, kurių teikimu šios pensijos buvo paskirtos motinoms,
+neatitinkančioms antrojo laipsnio valstybinių pensijų skyrimo sąlygų, įstatymų
+nustatyta tvarka privalo atlyginti Lietuvos Respublikos valstybės biudžetui
+žalą, padarytą iki šios pensijos mokėjimo nutraukimo.
+ 
 Komisija taip
 pat turi teisę Lietuvos gyventojų genocido ir rezistencijos tyrimo centro
 teikimu skirti pirmojo arba antrojo laipsnio valstybinę pensiją labiausiai
 pasižymėjusiems pasipriešinimo 1940-1990 metų okupacijoms dalyviams, neribodama
-pirmojo arba antrojo laipsnio valstybinių pensijų skyrimo per kalendorinius metus
-skaičiaus.
+pirmojo arba antrojo laipsnio valstybinių pensijų skyrimo per kalendorinius
+metus skaičiaus.
 Komisija taip
 pat turi teisę Krašto apsaugos ministerijos teikimu skirti pirmojo arba antrojo
 laipsnio valstybinę pensiją 1918-1920 metų nepriklausomybės kovų kariams
@@ -407,6 +460,8 @@ IX-2238,
 2004-05-18, Žin., 2004, Nr. 88-3209 (2004-06-03)
 Nr. X-208, 2005-05-19,
 Žin., 2005, Nr. 71-2554 (2005-06-07)
+Nr. X-1387, 2007-12-18, Žin., 2007, Nr. 138-5646
+(2007-12-29)
  
 7 straipsnis. Lietuvos
 Respublikos valstybinės pensijos aukščiausiesiems valstybės 
@@ -418,10 +473,20 @@ pirmojo laipsnio valstybinė pensija, jei jie bent dvejus metus ėjo šioje daly
 išvardytas pareigas. Pensija šiems asmenims skiriama, kai jie sukanka senatvės
 pensijos amžių arba yra pripažinti nedarbingais ar iš dalies darbingais,
 netekusiais 60 procentų ir daugiau darbingumo (iki 2005 m. liepos 1 d. - I ar II grupės invalidais).
+ 
+2
+dalies redakcija iki 2008 m. sausio 1 d.:
 Šio straipsnio
 antrojoje dalyje išvardintiems asmenims paskirtoms pensijoms, taip pat našlių
 ir našlaičių pensijoms, paskirtoms pagal šio įstatymo 9 straipsnį, netaikomi
 šio įstatymo 5 straipsnio trečiojoje dalyje nurodyti apribojimai.
+2
+dalies redakcija nuo 2008 m. sausio 1 d.:
+Šiame
+straipsnyje išvardintiems asmenims paskirtoms pirmojo laipsnio valstybinėms
+pensijoms netaikomi šio įstatymo 5 straipsnio trečiojoje dalyje nurodyti
+apribojimai.
+ 
 Šiame
 straipsnyje nurodytiems asmenims Lietuvos Respublikos valstybinės pensijos
 negali būti skiriamos, o paskirtosios turi būti panaikinamos, jei jie atleisti
@@ -435,30 +500,17 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2002-06-19, Žin., 2002, Nr. 62-2515 (2002-06-21)
 Nr. X-208, 2005-05-19,
 Žin., 2005, Nr. 71-2554 (2005-06-07)
+Nr. X-1387, 2007-12-18, Žin., 2007, Nr. 138-5646
+(2007-12-29)
  
- 
-8
-straipsnio pavadinimo redakcija iki 2007 m. sausio 1 d.:
-8
-straipsnis. Pirmojo ir antrojo laipsnių valstybinių pensijų dydis
-8
-straipsnio pavadinimo redakcija nuo 2007 m. sausio 1 d.:
-8
-straipsnis. Pirmojo ir antrojo laipsnių valstybinių pensijų dydis ir šių
-pensijų mokėjimas jų gavėjams mirus
- 
+8 straipsnis. Pirmojo ir antrojo
+laipsnių valstybinių pensijų dydis ir šių pensijų 
+mokėjimas jų
+gavėjams mirus
 Pirmojo laipsnio
 valstybinė pensija yra keturių valstybinių pensijų bazių dydžio.
 Antrojo laipsnio
 valstybinė pensija yra dviejų valstybinių pensijų bazių dydžio.
- 
-3
-dalies redakcija iki 2007 m. sausio 1 d.:
-Pirmojo ir
-antrojo laipsnių valstybinės pensijos mokamos, nepaisant jas gaunančio asmens
-pajamų.
-3
-dalies redakcija nuo 2007 m. sausio 1 d.:
 Pirmojo ar
 antrojo laipsnio valstybinės pensijos gavėjui mirus, pensija išmokama jį
 laidojusiems asmenims už mirties mėnesį, jei ji dar nebuvo išmokėta, ir dar
@@ -470,28 +522,13 @@ Nr. VIII-493,
 Nr. X-978, 2006-12-12,
 Žin., 2006, Nr. 141-5404 (2006-12-28)
  
-9
-straipsnio redakcija iki 2007 m. sausio 1 d.:
-9
-straipsnis. Pirmojo ar antrojo laipsnio valstybinės pensijos mokėjimas, jos
-gavėjui 
-mirus
-Pirmojo ar
-antrojo laipsnio valstybinės pensijos gavėjui mirus, pensija išmokama jį
-laidojusiems asmenims už mirties mėnesį, jei ji dar nebuvo išmokėta, ir dar
-tokio pat dydžio už du mėnesius.
-Pirmojo ar
-antrojo laipsnio valstybinės pensijos gavėjui mirus, skiriama valstybinė našlių
-ir našlaičių pensija tiems asmenims, tokiomis pačiomis sąlygomis ir gavėjui
-priklausiusios pensijos dalimis, kaip nurodyta Valstybinių socialinio draudimo
-pensijų įstatymo straipsniuose, reguliuojančiuose valstybines socialinio
-draudimo našlių ir našlaičių pensijas. Ši nuostata taip pat taikoma
-mirus asmeniui, kuris pagal šio įstatymo 4 straipsnio ketvirtąją dalį ir 7
-straipsnį būtų turėjęs teisę gauti pirmojo laipsnio valstybinę pensiją kaip
-sukakęs senatvės pensijos amžių.
-9
-straipsnio redakcija nuo 2007 m. sausio 1 d.:
-9 straipsnis. Valstybinės našlių ir našlaičių pensijosPirmojo ar antrojo laipsnio valstybinės pensijos gavėjui mirus, jo sutuoktiniui (toliau – našlė arba našlys) ir (ar) vaikams (įvaikiams) skiriama valstybinė našlių ir našlaičių pensija, jeigu jie yra Lietuvos Respublikos piliečiai. Teisę gauti valstybinę našlių pensiją turi našlė arba našlys, kurie:1) sukako senatvės pensijos amžių ar buvo pripažinti nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) iki sutuoktinio mirties arba sukako tokį amžių ar pripažinti nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) per 5 metus po sutuoktinio mirties; 2) augina mirusio asmens vaikus (įvaikius) iki 18 metų (nustatyta tvarka įregistruotų bendrojo lavinimo ir profesinių mokyklų dieninių skyrių moksleivius – iki šių mokyklų baigimo, bet ne ilgiau, negu kol jiems sukaks 19 metų), taip pat slaugantys namuose mirusiojo vaikus (įvaikius), kuriems nustatyta 75–100 procentų netekto darbingumo (iki 2005 m. liepos 1 d. – I invalidumo grupė), jeigu šie vaikai (įvaikiai) buvo pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki jiems sukankant 18 metų; 3) sukako senatvės pensijos amžių ar buvo pripažinti nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) tuo metu, kai augino mirusio asmens vaikus (įvaikius) iki 18 metų (nustatyta tvarka įregistruotų bendrojo lavinimo ir profesinių mokyklų dieninių skyrių moksleivius – iki šių mokyklų baigimo, bet ne ilgiau, negu kol jiems sukaks 19 metų), taip pat slaugė namuose mirusiojo vaikus (įvaikius), kuriems nustatyta 75–100 procentų netekto darbingumo (iki 2005 m. liepos 1 d. – I invalidumo grupė), jeigu šie vaikai (įvaikiai) buvo pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki jiems sukankant 18 metų. Jei nėra šio straipsnio 2 dalyje išvardytų asmenų, teisę gauti valstybinę našlių pensiją turi Civilinio kodekso nustatyta tvarka pripažintas globėju (rūpintoju) asmuo, auginantis mirusio asmens vaikus (įvaikius) iki 18 metų (bendrojo lavinimo ir profesinių mokyklų dieninių skyrių moksleivius – iki šių mokyklų baigimo, bet ne ilgiau, negu kol jiems sukaks 19 metų), taip pat nustatyta tvarka pripažintas globėju asmuo, slaugantis namuose mirusiojo vaikus (įvaikius), kuriems nustatyta 75–100 procentų netekto darbingumo (iki 2005 m. liepos 1 d. – I invalidumo grupė), jeigu šie vaikai (įvaikiai) buvo pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki jiems sukankant 18 metų.Teisė gauti valstybinę našlių pensiją išlieka, kai po šios pensijos paskyrimo darbingais pripažinti našlė arba našlys vėl pripažįstami nedarbingais ar iš dalies darbingais nepraėjus 3 metams nuo dienos, kurią buvo nutrauktas valstybinės našlių pensijos mokėjimas, taip pat kai nedarbingu ar iš dalies darbingu (iki 2005 m. liepos 1 d. – invalidu) pripažinti našlė arba našlys senatvės pensijos amžių sukanka valstybinės našlių pensijos gavimo laikotarpiu.Valstybinės našlių pensijos dydis yra 20 procentų mirusiam asmeniui priklausiusios valstybinės pensijos dydžio. Teisę gauti valstybinę našlaičių pensiją turi mirusiojo (arba nustatyta tvarka pripažinto mirusiu ar nežinia kur esančiu) vaikai (įvaikiai) iki 18 metų, vyresni kaip 18 metų, jeigu jie pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki 18 metų ir visą laiką nuo 18 metų sukakties yra nedarbingi ar iš dalies darbingi (invalidai), taip pat nustatyta tvarka įregistruotų bendrojo lavinimo bei aukštųjų ir profesinių mokyklų dieninių skyrių studentai ir moksleiviai – iki šių mokyklų baigimo, bet ne ilgiau, negu kol jiems sukaks 24 metai.
+9 straipsnis. Valstybinės našlių ir našlaičių pensijos 
+1
+dalies redakcija iki 2008 m. sausio 1 d.:
+Pirmojo ar antrojo laipsnio valstybinės pensijos gavėjui mirus, jo sutuoktiniui (toliau – našlė arba našlys) ir (ar) vaikams (įvaikiams) skiriama valstybinė našlių ir našlaičių pensija, jeigu jie yra Lietuvos Respublikos piliečiai. 
+1
+dalies redakcija nuo 2008 m. sausio 1 d.:
+Pirmojo ar antrojo laipsnio valstybinės pensijos gavėjui mirus, jo sutuoktiniui (toliau – našlė arba našlys) ir (ar) vaikams (įvaikiams) skiriama valstybinė našlių ir našlaičių pensija, jeigu jie yra Lietuvos Respublikos piliečiai. Sprendimą dėl valstybinės našlių ir našlaičių pensijos skyrimo priima komisijos pirmininkas arba jo įgaliotas komisijos pirmininko pavaduotojas. Teisę gauti valstybinę našlių pensiją turi našlė arba našlys, kurie:1) sukako senatvės pensijos amžių ar buvo pripažinti nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) iki sutuoktinio mirties arba sukako tokį amžių ar pripažinti nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) per 5 metus po sutuoktinio mirties; 2) augina mirusio asmens vaikus (įvaikius) iki 18 metų (nustatyta tvarka įregistruotų bendrojo lavinimo ir profesinių mokyklų dieninių skyrių moksleivius – iki šių mokyklų baigimo, bet ne ilgiau, negu kol jiems sukaks 19 metų), taip pat slaugantys namuose mirusiojo vaikus (įvaikius), kuriems nustatyta 75–100 procentų netekto darbingumo (iki 2005 m. liepos 1 d. – I invalidumo grupė), jeigu šie vaikai (įvaikiai) buvo pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki jiems sukankant 18 metų; 3) sukako senatvės pensijos amžių ar buvo pripažinti nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) tuo metu, kai augino mirusio asmens vaikus (įvaikius) iki 18 metų (nustatyta tvarka įregistruotų bendrojo lavinimo ir profesinių mokyklų dieninių skyrių moksleivius – iki šių mokyklų baigimo, bet ne ilgiau, negu kol jiems sukaks 19 metų), taip pat slaugė namuose mirusiojo vaikus (įvaikius), kuriems nustatyta 75–100 procentų netekto darbingumo (iki 2005 m. liepos 1 d. – I invalidumo grupė), jeigu šie vaikai (įvaikiai) buvo pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki jiems sukankant 18 metų. Jei nėra šio straipsnio 2 dalyje išvardytų asmenų, teisę gauti valstybinę našlių pensiją turi Civilinio kodekso nustatyta tvarka pripažintas globėju (rūpintoju) asmuo, auginantis mirusio asmens vaikus (įvaikius) iki 18 metų (bendrojo lavinimo ir profesinių mokyklų dieninių skyrių moksleivius – iki šių mokyklų baigimo, bet ne ilgiau, negu kol jiems sukaks 19 metų), taip pat nustatyta tvarka pripažintas globėju asmuo, slaugantis namuose mirusiojo vaikus (įvaikius), kuriems nustatyta 75–100 procentų netekto darbingumo (iki 2005 m. liepos 1 d. – I invalidumo grupė), jeigu šie vaikai (įvaikiai) buvo pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki jiems sukankant 18 metų.Teisė gauti valstybinę našlių pensiją išlieka, kai po šios pensijos paskyrimo darbingais pripažinti našlė arba našlys vėl pripažįstami nedarbingais ar iš dalies darbingais nepraėjus 3 metams nuo dienos, kurią buvo nutrauktas valstybinės našlių pensijos mokėjimas, taip pat kai nedarbingu ar iš dalies darbingu (iki 2005 m. liepos 1 d. – invalidu) pripažinti našlė arba našlys senatvės pensijos amžių sukanka valstybinės našlių pensijos gavimo laikotarpiu.Valstybinės našlių pensijos dydis yra 20 procentų mirusiam asmeniui priklausiusios valstybinės pensijos dydžio. Teisę gauti valstybinę našlaičių pensiją turi mirusiojo (arba nustatyta tvarka pripažinto mirusiu ar nežinia kur esančiu) vaikai (įvaikiai) iki 18 metų, vyresni kaip 18 metų, jeigu jie pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki 18 metų ir visą laiką nuo 18 metų sukakties yra nedarbingi ar iš dalies darbingi (invalidai), taip pat nustatyta tvarka įregistruotų bendrojo lavinimo bei aukštųjų ir profesinių mokyklų dieninių skyrių studentai ir moksleiviai – iki šių mokyklų baigimo, bet ne ilgiau, negu kol jiems sukaks 24 metai.
 Mirusiojo
 vaikams (įvaikiams), turintiems teisę gauti valstybinę našlaičių pensiją, ši
 teisė išlieka ir tada, kai juos kas nors įvaikina.
@@ -505,10 +542,20 @@ atveju, kai nėra asmenų, turinčių teisę gauti valstybinę našlių pensiją
 kiekvienam našlaičiui skiriama po lygiai, bet ne daugiau kaip po 30 procentų
 mirusiajam priklausiusios valstybinės pensijos dydžio ir ne daugiau kaip 100
 procentų šios pensijos dydžio. 
-Šio straipsnio nuostatos
-taip pat taikomos mirus asmeniui, kuris pagal šio įstatymo 4 straipsnio
-ketvirtąją dalį ir 7 straipsnį būtų turėjęs teisę gauti valstybinę pensiją kaip
-sukakęs senatvės pensijos amžių.
+ 
+9
+dalies redakcija iki 2008 m. sausio 1 d.:
+Šio straipsnio
+nuostatos taip pat taikomos mirus asmeniui, kuris pagal šio įstatymo 4
+straipsnio ketvirtąją dalį ir 7 straipsnį būtų turėjęs teisę gauti valstybinę
+pensiją kaip sukakęs senatvės pensijos amžių.
+9
+dalies redakcija nuo 2008 m. sausio 1 d.:
+Šio straipsnio
+nuostatos taip pat taikomos mirus asmeniui, kuris pagal šio įstatymo 7
+straipsnį būtų turėjęs teisę gauti valstybinę pensiją kaip sukakęs senatvės
+pensijos amžių.
+ 
 Našlė arba
 našlys, neturėję su mirusiu sutuoktiniu vaikų, turi teisę gauti valstybinę
 našlių pensiją tik tuo atveju, jei nuo santuokos įregistravimo nustatyta tvarka
@@ -529,6 +576,8 @@ Nr. VIII-771,
 98.06.09, Žin., 1998, Nr.56-1546 (98.06.19)
 Nr. X-978, 2006-12-12,
 Žin., 2006, Nr. 141-5404 (2006-12-28)
+Nr. X-1387, 2007-12-18, Žin., 2007, Nr. 138-5646
+(2007-12-29)
  
 10
 straipsnis. Nuostatos dėl pirmojo ir antrojo laipsnių valstybinių pensijų bei 
@@ -551,17 +600,17 @@ Personalinių
 pensijų gavėjams, kuriems komisijos sprendimu nepripažįstama teisė gauti
 pirmojo ar antrojo laipsnio valstybinę pensiją, taikoma tokia pensijų mokėjimo
 tvarka:
-1) jei
-personalinės pensijos gavėjas turi teisę gauti didesnę pirmojo arba antrojo
-laipsnio valstybinę pensiją, didesnę valstybinę socialinio draudimo pensiją ar
-kartu abi šias pensijas, kurių suma būtų didesnė už personalinę pensiją, arba
-jis tokią teisę įgyja vėliau, nuo šios teisės įgijimo jo pasirinkimu mokama
-personalinė pensija arba kita pensija;
+1) jei personalinės
+pensijos gavėjas turi teisę gauti didesnę pirmojo arba antrojo laipsnio
+valstybinę pensiją, didesnę valstybinę socialinio draudimo pensiją ar kartu abi
+šias pensijas, kurių suma būtų didesnė už personalinę pensiją, arba jis tokią
+teisę įgyja vėliau, nuo šios teisės įgijimo jo pasirinkimu mokama personalinė
+pensija arba kita pensija;
 2) jei
 personalinės pensijos gavėjas turi teisę gauti mažesnę pirmojo arba antrojo
 laipsnio valstybinę ar valstybinę socialinio draudimo pensiją arba iš viso
-neturi teisės šių pensijų gauti, toliau mokama ankstesnė personalinė pensija, kuri
-indeksuojama kartu ir tiek pat kaip valstybinių pensijų bazė.
+neturi teisės šių pensijų gauti, toliau mokama ankstesnė personalinė pensija,
+kuri indeksuojama kartu ir tiek pat kaip valstybinių pensijų bazė.
 Jei asmeniui
 mokama personalinė pensija ir jis tuo pat metu turi teisę gauti mažesnę
 valstybinę socialinio draudimo pensiją, šios valstybinės socialinio draudimo
@@ -576,8 +625,8 @@ pakeitimai:
 Nr. VIII-493,
 97.11.04, Žin., 1997, Nr.104-2622 (97.11.19)
  
-III. NUKENTĖJUSIŲJŲ
-ASMENŲ VALSTYBINĖS PENSIJOS 
+III.
+NUKENTĖJUSIŲJŲ ASMENŲ VALSTYBINĖS PENSIJOS 
  
 11
 straipsnis. Asmenys, turintys teisę gauti nukentėjusiųjų asmenų valstybines 
@@ -594,20 +643,9 @@ invalidais dėl 1991 metų sausio 11–13 dienomis vykdytos agresijos ir po to
 buvusių įvykių, taip pat Lietuvos Respublikos nepriklausomybės gynėjai,
 sužaloti 1991 metų sausio 11–13 dienomis ir po to vykdytos SSRS agresijos, bet
 dėl to netapę invalidais, pateikę savivaldybės institucijos išduotą pažymėjimą,
-patvirtinantį nurodytą teisinį statusą, bei Lietuvos Respublikos generalinės
-prokuratūros išduotą pažymą, patvirtinančią sužalojimo, padaryto ginant
-Lietuvos Respublikos laisvę 1991 metais, faktą;
- 
-1
-dalies 2 punkto redakcija iki 2007 m. sausio 1 d.:
-2) politiniai kaliniai
-ir tremtiniai, pateikę Lietuvos Respublikos teisėsaugos institucijų išduotus
-dokumentus (reabilitacijos pažymas), patvirtinančius politinių kalinių ir
-tremtinių teisių atkūrimą, arba Lietuvos gyventojų genocido ir rezistencijos
-tyrimo centro išduotus nuo okupacijų nukentėjusio asmens – politinio kalinio ar
-tremtinio teisinio statuso pažymėjimus; 
-1
-dalies 2 punkto redakcija nuo 2007 m. sausio 1 d.:
+patvirtinantį nurodytą teisinį statusą, bei Lietuvos Respublikos generalinės prokuratūros
+išduotą pažymą, patvirtinančią sužalojimo, padaryto ginant Lietuvos Respublikos
+laisvę 1991 metais, faktą;
 2) Politiniai
 kaliniai, tremtiniai ir buvę beglobiai vaikai, pateikę Lietuvos
 Respublikos teisėsaugos institucijų išduotus dokumentus (reabilitacijos
@@ -615,24 +653,13 @@ pažymas), patvirtinančius politinių kalinių ir tremtinių  teisių atkūrim
 Lietuvos gyventojų genocido ir rezistencijos tyrimo centro išduotus nuo
 okupacijų nukentėjusio asmens – politinio kalinio, tremtinio ar buvusio
 beglobio vaiko teisinio statuso pažymėjimus;
- 
 3)
 pasipriešinimo 1940–1990 metų okupacijoms (rezistencijos) dalyviai – laisvės
 kovų dalyviai, kuriems įstatymų nustatyta tvarka yra pripažintas šis statusas; 
- 
-1
-dalies 4 punkto redakcija iki 2007 m. sausio 1 d.:
-4) kurie Antrojo
-pasaulinio karo metais buvo išvežti priverstiniams darbams už buvusios TSRS
-ribų arba buvo getuose, koncentracijos ar kitokio tipo prievartinėse
-stovyklose;
-1
-dalies 4 punkto redakcija nuo 2007 m. sausio 1 d.:
 4) kurie Antrojo
 pasaulinio karo metais buvo išvežti priverstiniams darbams (taip pat ten gimę
 ar kartu su jais buvę nepilnamečiai šeimos nariai) arba buvo getuose,
 koncentracijos ar kitokio tipo prievartinėse stovyklose;
- 
 5) kurie Antrojo
 pasaulinio karo metais tarnavo antihitlerinės koalicijos valstybių veikiančiose
 armijose, partizanų būriuose ar junginiuose;
@@ -714,8 +741,8 @@ reikalų liaudies komisariato (NKVD), SSRS vidaus reikalų ministerijos (MVD) ir
 SSRS valstybės saugumo ministerijos (MGB) vidaus kariuomenės karinėse
 prokuratūrose prokurorais, taip pat Lietuvos SSR prokuroru ir jo pavaduotojais
 bei prokurorais Lietuvos SSR prokuratūros Specialiųjų bylų ir Tardymo valstybės
-saugumo organuose priežiūros skyriuose arba prokurorais SSRS prokuratūroje ir
-SSRS respublikų prokuratūrose, veikusiose Lietuvoje po 1990 m. kovo 11 d.; 
+saugumo organuose priežiūros skyriuose arba prokurorais SSRS prokuratūroje ir SSRS
+respublikų prokuratūrose, veikusiose Lietuvoje po 1990 m. kovo 11 d.; 
 8) SSRS ir
 nacistinės Vokietijos okupacinių režimų represinių struktūrų, išvardytų šios
 dalies 2, 4, 5 punktuose, agentais ir informatoriais;
@@ -727,8 +754,9 @@ padalinių sąjunginėse respublikose vadovaujančiais darbuotojais.
 ir pareigų, kurias ėjusiems šio straipsnio 4 dalies 1-9 punktuose išvardytuose
 batalionuose, būriuose, junginiuose, institucijose, institucijų struktūrose,
 institucijų padaliniuose, valdybose, įstaigose, tarnybose, skyriuose,
-prokuratūrose, partijose (toliau - struktūros) asmenims neskiriamos nukentėjusiųjų
-asmenų valstybinės pensijos, sąrašą tvirtina Lietuvos Respublikos Vyriausybė.
+prokuratūrose, partijose (toliau - struktūros) asmenims neskiriamos
+nukentėjusiųjų asmenų valstybinės pensijos, sąrašą tvirtina Lietuvos
+Respublikos Vyriausybė.
 *Šio straipsnio
 4 dalies nuostata dėl nukentėjusiųjų asmenų valstybinių pensijų neskyrimo
 asmenims, tarnavusiems ar dirbusiems 4 dalyje išvardytose struktūrose bei
@@ -800,8 +828,8 @@ procentų darbingumo (iki 2005 m. liepos 1 d. - I grupės invalidais), – 8 val
 dydžio;
 2)
 pripažintiems netekusiais 60-70
-procentų darbingumo (iki 2005 m. liepos 1 d. - II grupės invalidais), – 6 valstybinių pensijų
-bazių dydžio; 
+procentų darbingumo (iki 2005 m. liepos 1 d. - II grupės invalidais), – 6 valstybinių pensijų bazių
+dydžio; 
 3)
 pripažintiems netekusiais 45-55
 procentų darbingumo (iki 2005 m. liepos 1 d. - III grupės invalidais), – 4 valstybinių
@@ -815,8 +843,8 @@ valstybinės pensijos mokamos iki gyvos galvos.
 Nukentėjusiųjų
 asmenų valstybinė pensija skiriama asmenų, žuvusių dėl 1991 metų sausio 11–13
 dienomis vykdytos agresijos ir po to buvusių įvykių, motinoms, sukakusioms 50
-metų arba pripažintoms nedarbingomis ar iš dalies darbingomis (iki 2005 m.
-liepos 1 d. - invalidėmis),
+metų arba pripažintoms nedarbingomis ar iš dalies darbingomis (iki 2005 m. liepos
+1 d. - invalidėmis),
 taip pat tėvams, sukakusiems senatvės pensijos amžių arba pripažintiems
 nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. - invalidais). Šiems asmenims
 mokama 8 valstybinių pensijų bazių dydžio nukentėjusiųjų asmenų valstybinė
@@ -907,17 +935,17 @@ pensiją.
 straipsnio pirmosios dalies 2 punkte išvardytiems asmenims, kurie kalėjo ar
 išbuvo tremtyje ne mažiau kaip 15 kalendorinių metų buvusios TSRS Tolimosios
 Šiaurės rajonuose ar jiems prilygintose vietovėse pagal Lietuvos Respublikos
-Vyriausybės patvirtintą buvusios TSRS Tolimosios Šiaurės rajonų ir jiems
-prilygintų vietovių sąrašą, valstybinių pensijų bazės dydžio nukentėjusiųjų
-asmenų valstybinė pensija skiriama ir mokama likus 5 metams iki senatvės
-pensijos amžiaus. Ši pensija skiriama ir mokama su sąlyga, kad asmeniui nėra
-mokama jokia Lietuvos Respublikos ar kitos valstybės pensija ar nuolatinė
-kompensacinė išmoka už ypatingas darbo sąlygas. 
+Vyriausybės patvirtintą buvusios TSRS Tolimosios Šiaurės rajonų ir jiems prilygintų
+vietovių sąrašą, valstybinių pensijų bazės dydžio nukentėjusiųjų asmenų
+valstybinė pensija skiriama ir mokama likus 5 metams iki senatvės pensijos
+amžiaus. Ši pensija skiriama ir mokama su sąlyga, kad asmeniui nėra mokama
+jokia Lietuvos Respublikos ar kitos valstybės pensija ar nuolatinė kompensacinė
+išmoka už ypatingas darbo sąlygas. 
 Nukentėjusiųjų
 asmenų valstybinės pensijos taip pat skiriamos bei mokamos šio įstatymo 11
-straipsnio antrosios dalies 2 ir 4 punktuose nurodytų asmenų tėvams,
-pripažintiems nedarbingais ar iš dalies darbingais, netekusiais 60 procentų ir
-daugiau darbingumo (iki 2005 m. liepos 1 d. -
+straipsnio antrosios dalies 2 ir 4 punktuose nurodytų asmenų tėvams, pripažintiems
+nedarbingais ar iš dalies darbingais, netekusiais 60 procentų ir daugiau
+darbingumo (iki 2005 m. liepos 1 d. -
 I ar II grupės invalidais) arba sukakusiems senatvės pensijos amžių, ir yra
 valstybinių pensijų bazės dydžio.
 Straipsnio
@@ -955,16 +983,7 @@ straipsnio pirmosios dalies 4 ir 7 punktuose nurodytiems asmenims, kurie
 nustatyta tvarka iki mirties buvo pripažinti nedarbingais ar iš dalies
 darbingais (iki 2005 m. liepos 1 d. - invalidais) arba kurie mirė nukentėjusiųjų asmenų
 valstybinės pensijos gavimo laikotarpiu.
- 
-6
-dalies redakcija iki 2007 m. sausio 1 d.:
-Šio straipsnio penktojoje dalyje nurodytų asmenų sutuoktiniams ir vaikams nukentėjusiųjų asmenų valstybinė našlių ir našlaičių pensija mokama tokiomis pačiomis sąlygomis ir gavėjui priklausiusios nukentėjusiųjų asmenų valstybinės pensijos dalimis, kaip nurodyta Valstybinių socialinio draudimo pensijų įstatymo straipsniuose, reglamentuojančiuose valstybines socialinio draudimo našlių ir našlaičių pensijas. Jei žuvusiam (mirusiam) asmeniui nebuvo paskirta nukentėjusiųjų asmenų valstybinė pensija, nustatant našlių ir našlaičių pensijos dydį laikoma, kad žuvusiam (mirusiam) asmeniui priklausė 1,5 valstybinių pensijų bazės.
-6
-dalies redakcija nuo 2007 m. sausio 1 d.:
 Šio straipsnio penktojoje dalyje nurodytų asmenų sutuoktiniams ir vaikams (įvaikiams) nukentėjusiųjų asmenų valstybinė našlių ir našlaičių pensija mokama tokiomis pačiomis sąlygomis ir gavėjui priklausiusios nukentėjusiųjų asmenų valstybinės pensijos dalimis, kaip nurodyta šio įstatymo 9 straipsnyje. Mirus asmeniui, kuriam nukentėjusiųjų asmenų valstybinė pensija buvo paskirta atsižvelgiant į tai, kad asmuo buvo netekęs 45–55 procentų darbingumo (iki 2005 m. liepos 1 d. pripažintas III grupės invalidu), nustatant nukentėjusiųjų asmenų valstybinės našlių ir našlaičių pensijos dydį laikoma, kad mirusiam asmeniui priklausė nukentėjusiųjų asmenų valstybinė pensija, kaip asmeniui, netekusiam 60–70 procentų darbingumo (iki 2005 m. liepos 1 d. pripažintam II grupės invalidu). Jei žuvusiam (mirusiam) asmeniui nebuvo paskirta nukentėjusiųjų asmenų valstybinė pensija, nustatant našlių ir našlaičių pensijos dydį laikoma, kad žuvusiam (mirusiam) asmeniui priklausė 1,5 valstybinių pensijų bazės.
- 
-Straipsnis
-papildomas 7 dalimi nuo 2007 m. sausio 1 d.:
 Šiame
 straipsnyje nurodytų asmenų sutuoktiniams ir vaikams (įvaikiams) nukentėjusiųjų
 asmenų našlių ir našlaičių valstybinės pensijos skiriamos ir mokamos tais
@@ -1029,8 +1048,8 @@ pasaulinio karo metais tarnavusiems antihitlerinės koalicijos valstybių
 veikiančiose armijose, partizanų būriuose ar junginiuose, taip pat tapusiems
 invalidais dalyvaujant karo veiksmuose, bei asmenims, tapusiems invalidais
 būtinosios karinės tarnybos ar karinių mokymų sovietinėje armijoje metu, taip
-pat žuvusiųjų (mirusiųjų) šios tarnybos ar mokymų metu atitinkamiems šeimos nariams
-pateikus Krašto apsaugos ministerijos pažymą. Jeigu
+pat žuvusiųjų (mirusiųjų) šios tarnybos ar mokymų metu atitinkamiems šeimos
+nariams pateikus Krašto apsaugos ministerijos pažymą. Jeigu
 nukentėjusiųjų asmenų valstybinę pensiją skiriančiam ar mokančiam Valstybinio
 socialinio draudimo fondo valdybos teritoriniam skyriui kilo abejonių, kad
 besikreipiantis šios pensijos arba ją jau gaunantis asmuo tarnavo ar dirbo šio
@@ -1058,8 +1077,8 @@ Lietuvos Respublikos Konstitucijos 71 straipsnio 2 daliai.
 Straipsnio
 pakeitimai:
 Nr.
-I-1484,
-96.07.11, Žin., 1996, Nr. 73-1750 (96.07.31) 
+I-1484, 96.07.11,
+Žin., 1996, Nr. 73-1750 (96.07.31) 
 Nr. VIII-967,
 98.12.10, Žin., 1998, Nr.114-3192 (98.12.30)
 Nr. VIII-1730,
@@ -1227,7 +1246,8 @@ Nr.
 VIII-1187,
 99.05.18, Žin., 1999, Nr.48-1525 (99.06.02)
 LIETUVOS
-RESPUBLIKOS VALSTYBINIŲ PENSIJŲ ĮSTATYMO 14 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+RESPUBLIKOS VALSTYBINIŲ PENSIJŲ ĮSTATYMO 14 STRAIPSNIO PAKEITIMO IR PAPILDYMO
+ĮSTATYMAS
  
 13.
 Lietuvos
@@ -1285,8 +1305,8 @@ Nr. IX-1013,
 2002-07-02, Žin., 2002, Nr. 73-3089 (2002-07-19)
 VALSTYBINIŲ
 PENSIJŲ ĮSTATYMO 1 IR 3 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-Šis Įstatymas
-įsigalioja nuo 2003 m. sausio 1 d.
+Šis
+Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
  
 19.
 Lietuvos
@@ -1318,8 +1338,8 @@ Nr. IX-1791,
 2003-10-16, Žin., 2003, Nr. 102-4587 (2003-10-31)
 VALSTYBINIŲ
 PENSIJŲ ĮSTATYMO 4 IR 5 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-Šis
-Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
+Šis Įstatymas
+įsigalioja nuo 2004 m. sausio 1 d.
  
 22.
 Lietuvos
@@ -1357,8 +1377,8 @@ PENSIJŲ ĮSTATYMO 11, 13 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 25.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-2493,
-2004-10-12, Žin., 2004, Nr. 158-5759 (2004-10-30)
+Nr. IX-2493, 2004-10-12,
+Žin., 2004, Nr. 158-5759 (2004-10-30)
 VALSTYBINIŲ
 PENSIJŲ ĮSTATYMO 11 IR 13 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
 Šis
@@ -1452,15 +1472,26 @@ Nr.
 X-978,
 2006-12-12, Žin., 2006, Nr. 141-5404 (2006-12-28)
 PREZIDENTO
-ĮSTATYMO, VALSTYBINIŲ PENSIJŲ ĮSTATYMO, VIDAUS REIKALŲ, SPECIALIŲJŲ TYRIMŲ
-TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS, PROKURATŪROS, KALĖJIMŲ
-DEPARTAMENTO, JAM PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ PAREIGŪNŲ IR KARIŲ
-VALSTYBINIŲ PENSIJŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO BEI VALSTYBINIŲ PENSIJŲ
-ĮSTATYMO 2 IR 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PRIPAŽINIMO
-NETEKUSIU GALIOS ĮSTATYMAS
+ĮSTATYMO, VALSTYBINIŲ PENSIJŲ ĮSTATYMO, VIDAUS REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS,
+VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS, PROKURATŪROS, KALĖJIMŲ DEPARTAMENTO, JAM
+PAVALDŽIŲ ĮSTAIGŲ BEI VALSTYBĖS ĮMONIŲ PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ
+ĮSTATYMO PAKEITIMO IR PAPILDYMO BEI VALSTYBINIŲ PENSIJŲ ĮSTATYMO 2 IR 11
+STRAIPSNIŲ PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS
+ĮSTATYMAS
 Šis
 įstatymas, išskyrus šio skirsnio 2 straipsnį, įsigalioja nuo 2007 m. sausio 1
 d.
+ 
+32.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-1387, 2007-12-18, Žin., 2007, Nr. 138-5646 (2007-12-29)
+VALSTYBINIŲ
+PENSIJŲ ĮSTATYMO 2, 4, 5, 6, 7, 9 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis
+įstatymas, išskyrus 7 straipsnį, įsigalioja nuo 2008 m. sausio 1 d.
+ 
  
 *** Pabaiga ***
  
@@ -1478,10 +1509,10 @@ VYRIAUSYBĖS 1998 M. LIEPOS 3 D. NUTARIMU NR. 829 "DĖL 1939-1990 METŲ
 OKUPACIJŲ REPRESINIŲ STRUKTŪRŲ, TARNYBŲ IR PAREIGŲ, KURIAS ĖJUSIEMS ASMENIMS
 NESKIRIAMOS NUKENTĖJUSIŲJŲ ASMENŲ VALSTYBINĖS PENSIJOS, SĄRAŠO
 PATVIRTINIMO" PATVIRTINTO SĄRAŠO "1939-1990 METŲ OKUPACIJŲ REPRESINĖS
-STRUKTŪROS, TARNYBOS IR PAREIGOS, KURIAS ĖJUSIEMS ASMENIMS NESKIRIAMOS
-NUKENTĖJUSIŲJŲ ASMENŲ VALSTYBINĖS PENSIJOS" 9 BEI 12 PUNKTŲ ATITIKIMO
-LIETUVOS RESPUBLIKOS KONSTITUCIJAI IR LIETUVOS RESPUBLIKOS VALSTYBINIŲ PENSIJŲ
-ĮSTATYMO 11 STRAIPSNIO 4 DALIAI
+STRUKTŪROS, TARNYBOS IR PAREIGOS, KURIAS ĖJUSIEMS ASMENIMS NESKIRIAMOS NUKENTĖJUSIŲJŲ
+ASMENŲ VALSTYBINĖS PENSIJOS" 9 BEI 12 PUNKTŲ ATITIKIMO LIETUVOS
+RESPUBLIKOS KONSTITUCIJAI IR LIETUVOS RESPUBLIKOS VALSTYBINIŲ PENSIJŲ ĮSTATYMO
+11 STRAIPSNIO 4 DALIAI
  
 2.
 Lietuvos
@@ -1490,9 +1521,9 @@ Respublikos Konstitucinis Teismas, Nutarimas
 Žin., 2002, Nr. 62-2515 (2002-06-21)
 DĖL
 LIETUVOS RESPUBLIKOS VALSTYBINIŲ PENSIJŲ ĮSTATYMO 7, 11, 15 STRAIPSNIŲ
-PAKEITIMO IR PAPILDYMO ĮSTATYMO, LIETUVOS RESPUBLIKOS VALSTYBINIŲ PENSIJŲ
-ĮSTATYMO 7 STRAIPSNIO 1 BEI 4 DALIŲ IR LIETUVOS RESPUBLIKOS PREZIDENTO ĮSTATYMO
-20 STRAIPSNIO 2 DALIES ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+PAKEITIMO IR PAPILDYMO ĮSTATYMO, LIETUVOS RESPUBLIKOS VALSTYBINIŲ PENSIJŲ ĮSTATYMO
+7 STRAIPSNIO 1 BEI 4 DALIŲ IR LIETUVOS RESPUBLIKOS PREZIDENTO ĮSTATYMO 20
+STRAIPSNIO 2 DALIES ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
 3.
 Lietuvos
@@ -1516,6 +1547,6 @@ Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2006-12-29)
+Aušrinė Trapinskienė (2008-01-02)
                  
 autrap@lrs.lt
