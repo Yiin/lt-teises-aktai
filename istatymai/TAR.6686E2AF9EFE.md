@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6686E2AF9EFE"
 
 # Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymas
 
-Suvestinė redakcija nuo 2005-06-28 iki 2007-12-28
+Suvestinė redakcija nuo 2007-12-29 iki 2010-01-04
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 48-2106, i. k. 1031010ISTA0IX-1541
  
@@ -112,12 +112,18 @@ Atleidžiamų ir atleistų iš darbo darbuotojų bei jų šeimos narių užimtum
 
 
 
-2. Teritorinėje darbo biržoje užsiregistravusiems atleistiems iš darbo darbuotojams yra taikomos Bedarbių rėmimo įstatymo 7 straipsnio 2 dalies 2–7 punktuose nurodytų darbo rinkoje papildomai remiamų bedarbių garantijos.
+2. Atleisti iš darbo darbuotojai, įsiregistravę teritorinėje darbo biržoje ne vėliau kaip per 6 mėnesius nuo atleidimo dienos, yra darbo rinkoje papildomai remiami asmenys. Jų užimtumui remti aktyvios darbo rinkos politikos priemonių taikymą nustato Užimtumo rėmimo įstatymas. 
+Straipsnio dalies pakeitimai:
+Nr. X-1373, 2007-12-13, Žin., 2007, Nr. 140-5752 (2007-12-29), i. k. 1071010ISTA00X-1373
+ 
 
 
 
 
-3. Atleidžiamų ir atleistų iš darbo darbuotojų profesinis mokymas ne darbo laiku iki 10 mėnesių vykdomas Bedarbių rėmimo įstatymo nustatyta tvarka. Ilgesnės trukmės profesinis mokymas vykdomas teritorinės darbo biržos sprendimu.
+3. Neteko galios nuo 2007-12-29
+Straipsnio dalies naikinimas:
+Nr. X-1373, 2007-12-13, Žin. 2007, Nr. 140-5752 (2007-12-29), i. k. 1071010ISTA00X-1373
+ 
 
 
 
@@ -153,9 +159,10 @@ Atleidžiamų ir atleistų iš darbo darbuotojų bei jų šeimos narių užimtum
 5 straipsnis. Nedirbančių šeimos narių užimtumo garantijos
 
 
-1.Teritorinėje darbo biržoje užsiregistravusiems atleidžiamų ir atleistų iš darbo darbuotojų nedirbantiems šeimos nariams yra taikomos Bedarbių rėmimo įstatymo 7 straipsnio 2 dalies 2–7 punktuose nurodytų darbo rinkoje papildomai remiamų bedarbių garantijos. Teritorinėje darbo biržoje užsiregistravusiems atleidžiamų ir atleistų iš darbo darbuotojų nedirbantiems šeimos nariams, kurie neturi nustatyto valstybinio socialinio draudimo stažo nedarbo socialinio draudimo išmokai gauti, valstybės remiamų pajamų dydžio nedarbo socialinio draudimo išmoka skiriama pagal Nedarbo socialinio draudimo įstatymo 6 straipsnio 1 dalį, o išmokama – 7 straipsnyje nustatyta tvarka. 
+1. Atleidžiamų ar atleistų iš darbo darbuotojų nedirbantys darbingi darbingo amžiaus šeimos nariai, įsiregistravę teritorinėje darbo biržoje ne vėliau kaip per 6 mėnesius nuo atleistų iš darbo darbuotojų atleidimo dienos, yra darbo rinkoje papildomai remiami asmenys. Jų užimtumui remti aktyvios darbo rinkos politikos priemonių taikymą nustato Užimtumo rėmimo įstatymas. Teritorinėje darbo biržoje įsiregistravusiems atleidžiamų ar atleistų iš darbo darbuotojų nedirbantiems šeimos nariams, kurie neturi nustatyto valstybinio socialinio draudimo stažo nedarbo socialinio draudimo išmokai gauti, valstybės remiamų pajamų dydžio nedarbo socialinio draudimo išmoka skiriama pagal Nedarbo socialinio draudimo įstatymo 6 straipsnio 1 dalį, o išmokama – 7 straipsnyje nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. X-254, 2005-06-16, Žin., 2005, Nr. 79-2847 (2005-06-28), i. k. 1051010ISTA000X-254
+Nr. X-1373, 2007-12-13, Žin., 2007, Nr. 140-5752 (2007-12-29), i. k. 1071010ISTA00X-1373
  
 
 
@@ -309,7 +316,10 @@ UŽIMTUMO IR SOCIALINIŲ GARANTIJŲ FINANSAVIMAS
 
 
 
-2. Šio Įstatymo 5 straipsnio 1 dalyje nustatytos užimtumo ir socialinės garantijos finansuojamos Užimtumo fondo lėšomis.
+2. Šio Įstatymo 5 straipsnio 1 dalyje nustatytos užimtumo ir socialinės garantijos finansuojamos Užimtumo fondo ir kitų šaltinių lėšomis.
+Straipsnio dalies pakeitimai:
+Nr. X-1373, 2007-12-13, Žin., 2007, Nr. 140-5752 (2007-12-29), i. k. 1071010ISTA00X-1373
+ 
 
 
 
@@ -385,3 +395,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-254, 2005-06-16, Žin., 2005, Nr. 79-2847 (2005-06-28), i. k. 1051010ISTA000X-254
 Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo 5 ir 9 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1373, 2007-12-13, Žin., 2007, Nr. 140-5752 (2007-12-29), i. k. 1071010ISTA00X-1373
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo 4, 5 ir 12 straipsnių pakeitimo įstatymas
