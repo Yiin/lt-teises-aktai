@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EE245B47423C"
 
 # Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas
 
-Suvestinė redakcija nuo 2002-07-01 iki 2007-12-31
+Suvestinė redakcija nuo 2008-01-01 iki 2010-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 104-2363, i. k. 0961010ISTA00I-1553
  
@@ -206,37 +206,58 @@ BENDROSIOS NUOSTATOS
 
 
 
-27. Valstybinė visuomenės sveikatos priežiūros tarnyba prie Sveikatos apsaugos ministerijos (toliau – Tarnyba) – Sveikatos apsaugos ministerijos steigiama valstybės įstaiga, įgyvendinanti visuomenės sveikatos priežiūros strategiją, kurios dalis yra užkrečiamųjų ligų profilaktikos ir kontrolės strategija.
+27. Valstybinė visuomenės sveikatos priežiūros tarnyba prie Sveikatos apsaugos ministerijos (toliau – Tarnyba) – Vyriausybės steigiama valstybės įstaiga, įgyvendinanti visuomenės sveikatos saugos kontrolę, užkrečiamųjų ligų profilaktikos bei kontrolės strategiją ir kitas šiame Įstatyme bei kituose teisės aktuose numatytas užkrečiamųjų ligų profilaktikos ir kontrolės funkcijas ir esanti Europos Bendrijos užkrečiamųjų ligų profilaktikos ir kontrolės tinklo nacionalinė institucija. 
+Straipsnio dalies pakeitimai:
+Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
+ 
 
 
 
 
-28. Užkrečiamųjų ligų profilaktikos ir kontrolės centras – Sveikatos apsaugos ministerijos steigiama valstybės įstaiga, organizuojanti ir atliekanti šiame bei kituose įstatymuose ir kituose teisės aktuose jai numatytas užkrečiamųjų ligų profilaktikos ir kontrolės funkcijas, metodiškai vadovaujanti epidemijų profilaktiniam darbui Lietuvoje, pagal savo kompetenciją koordinuojanti visų Lietuvos Respublikos institucijų veiklą užkrečiamųjų ligų profilaktikos klausimais ir įgaliota bendradarbiauti su Pasaulio Sveikatos Organizacijos ir Europos Sąjungos institucijomis, reguliuojančiomis užkrečiamųjų ligų kontrolės klausimus, bei užsienio valstybių institucijomis, vykdančiomis užkrečiamųjų ligų kontrolę, taip pat pagal savo kompetenciją atstovauti Lietuvos Respublikai šiose institucijose.
+28. Neteko galios nuo 2008-01-01
+Straipsnio dalies naikinimas:
+Nr. X-1149, 2007-05-24, Žin. 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
+ 
 
 
 
 
-29. Teritorinės visuomenės sveikatos priežiūros įstaigos – visuomenės sveikatos priežiūros įstaigos apskrityse (regionuose).
+29. Teritorinės visuomenės sveikatos priežiūros įstaigos – Tarnybai pavaldžios teritorinės visuomenės sveikatos priežiūros įstaigos, įgyvendinančios šiame Įstatyme ir kituose teisės aktuose numatytas užkrečiamųjų ligų profilaktikos ir kontrolės funkcijas apskrityse. 
+Straipsnio dalies pakeitimai:
+Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
+ 
 
 
 
 
-30. Užkrečiamųjų ligų kontrolę administruojantys tarnautojai (pareigūnai) – Tarnybos ir visuomenės sveikatos priežiūros įstaigų darbuotojai, kurie pagal savo darbo pobūdį nuolat ar laikinai atlieka viešojo administravimo funkcijas ir turi įgaliojimus priimti fiziniams ir juridiniams asmenims privalomus vykdyti sprendimus užkrečiamųjų ligų kontrolės klausimais.
+30. Neteko galios nuo 2008-01-01
+Straipsnio dalies naikinimas:
+Nr. X-1149, 2007-05-24, Žin. 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
+ 
 
 
 
 
-31. Užkrečiamųjų ligų profilaktiką ir kontrolę vykdantys tarnautojai – Užkrečiamųjų ligų profilaktikos ir kontrolės centro bei kitų visuomenės sveikatos priežiūros įstaigų darbuotojai, atliekantys šiame Įstatyme ir kituose teisės aktuose numatytus užkrečiamųjų ligų profilaktikos, kontrolės, stebėsenos (monitoringo) bei epidemiologinės analizės, prognozės ir diagnostikos darbus, tačiau neturintys įgaliojimų atlikti viešojo administravimo funkcijas bei priimti fiziniams ir juridiniams asmenims privalomus vykdyti sprendimus.
+31. Neteko galios nuo 2008-01-01
+Straipsnio dalies naikinimas:
+Nr. X-1149, 2007-05-24, Žin. 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
+ 
 
 
 
 
-32. Lietuvos Respublikos vyriausiasis epidemiologas – Tarnybos direktoriaus skiriamas specialistas, atitinkantis sveikatos apsaugos ministro patvirtintų pareiginių nuostatų ir kvalifikacinius reikalavimus, atliekantis viešojo administravimo funkcijas bei priimantis juridiniams ir fiziniams asmenims privalomus vykdyti sprendimus užkrečiamųjų ligų kontrolės klausimais Lietuvoje.
+32. Lietuvos Respublikos vyriausiasis epidemiologas – sveikatos apsaugos ministro paskirtas pareigūnas, atitinkantis reikalavimus, nustatytus pareigybės aprašyme. 
+Straipsnio dalies pakeitimai:
+Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
+ 
 
 
 
 
-33. Apskrities (regiono) vyriausiasis epidemiologas – teritorinės visuomenės sveikatos priežiūros įstaigos specialistas, atitinkantis kvalifikacinius reikalavimus, kuriam Tarnybos direktoriaus įsakymu suteikiama teisė atlikti viešojo administravimo funkcijas ir priimti juridiniams ir fiziniams asmenims privalomus vykdyti sprendimus užkrečiamųjų ligų kontrolės klausimais apskrityje (regione).
+33. Apskrities vyriausiasis epidemiologas – teritorinės visuomenės sveikatos priežiūros įstaigos valstybės tarnautojas, atitinkantis Tarnybos direktoriaus patvirtintus kvalifikacinius reikalavimus.
+Straipsnio dalies pakeitimai:
+Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
+ 
 
 
 
@@ -261,18 +282,20 @@ UŽKREČIAMŲJŲ LIGŲ KONTROLĖ
  
 
 
-3 straipsnis. Užkrečiamųjų ligų ir jų sukėlėjų valstybės registrai, jų tvarkytojai bei tvarkytojų kompetencija
+3 straipsnis. Užkrečiamųjų ligų ir jų sukėlėjų valstybės informacinė sistema, jos valdytojo bei tvarkytojų kompetencija
 
 
-1. Visos diagnozuotos užkrečiamosios ligos ir išskirti šių ligų sukėlėjai registruojami užkrečiamųjų ligų ir užkrečiamųjų ligų sukėlėjų valstybės registruose. Šiuos registrus steigia ir jų nuostatus tvirtina Vyriausybė.
+1. Visos diagnozuotos užkrečiamosios ligos ir išskirti šių ligų sukėlėjai registruojami Užkrečiamųjų ligų ir jų sukėlėjų valstybės informacinėje sistemoje. Informacijos perdavimo valstybės informacinei sistemai tvarką ir terminus nustato Sveikatos apsaugos ministerija.
 
 
 
 
-2. Užkrečiamųjų ligų ir jų sukėlėjų valstybinių registrų vyriausiasis tvarkytojas yra Užkrečiamųjų ligų profilaktikos ir kontrolės centras. Šių registrų pirminę informaciją pagal savo kompetenciją tvarko ir juridiniai bei fiziniai asmenys, licencijuoti sveikatos priežiūros veiklai, bei Valstybinė maisto ir veterinarijos tarnyba, registruojanti bendras gyvūnų ir žmonių užkrečiamąsias ligas ir jų sukėlėjus. Registrų tvarkytojų bei registrų pirminę informaciją tvarkančių juridinių ir fizinių asmenų kompetenciją registrų tvarkymo klausimais reglamentuoja registrų nuostatai.
+2. Užkrečiamųjų ligų ir jų sukėlėjų valstybės informacinės sistemos valdytojas yra Sveikatos apsaugos ministerijos įgaliota institucija. Vadovaujanti informacinės sistemos tvarkymo įstaiga yra Sveikatos apsaugos ministerijos įgaliota institucija, kuri yra atsakinga už informacinės sistemos duomenų tvarkymą ir jų saugą, tinkamą šios informacinės sistemos funkcionavimą bei priežiūrą. Informacinės sistemos duomenų teikėjai – juridiniai bei fiziniai asmenys, licencijuoti sveikatos priežiūros veiklai, Valstybinė maisto ir veterinarijos tarnyba, registruojanti bendras gyvūnų ir žmonių užkrečiamąsias ligas ir jų sukėlėjus, taip pat kitos valstybės institucijos, pagal kompetenciją vykdančios užkrečiamųjų ligų profilaktiką ir kontrolę, informacinės sistemos nuostatų nustatyta tvarka ir terminais teikia duomenis vadovaujančiai informacinės sistemos tvarkymo įstaigai. Informacinės sistemos valdytojo, vadovaujančios informacinės sistemos tvarkymo įstaigos ir informacinės sistemos duomenų teikėjų kompetenciją reglamentuoja sveikatos apsaugos ministro patvirtinti informacinės sistemos nuostatai.
+
+
+Straipsnio pakeitimai:
+Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
  
-
-
 
 
 
@@ -315,7 +338,10 @@ UŽKREČIAMŲJŲ LIGŲ KONTROLĖ
 
 
 
-4. Informacijos apie privalomo epidemiologinio registravimo objektus, kurie užregistruoti Krašto apsaugos ministerijos, Teisingumo ministerijos ar Vidaus reikalų ministerijos įstaigose ar kariniuose vienetuose, privalomo perdavimo Užkrečiamųjų ligų profilaktikos ir kontrolės centrui ir teritorinėms visuomenės sveikatos priežiūros įstaigoms tvarką nustato Sveikatos apsaugos ministerija, suderinusi su šiomis ministerijomis.
+4. Neteko galios nuo 2008-01-01
+Straipsnio dalies naikinimas:
+Nr. X-1149, 2007-05-24, Žin. 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
+ 
 
 
 
@@ -344,7 +370,10 @@ UŽKREČIAMŲJŲ LIGŲ KONTROLĖ
 3. Užkrečiamųjų ligų epidemiologinę analizę ir prognozę atlieka teritorinės visuomenės sveikatos priežiūros įstaigos. Šios analizės duomenis bei užkrečiamosiomis ligomis sergančiųjų sveikatos priežiūros vertinimą ne rečiau kaip kartą per metus pateikia:
 
 
-1) savivaldybėse savivaldybės gydytojas – savivaldybės valdybai ir atitinkamos apskrities gydytojui;
+1) savivaldybėse savivaldybės gydytojas – savivaldybės administracijos direktoriui ir atitinkamos apskrities gydytojui;
+Straipsnio punkto pakeitimai:
+Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
+ 
 
 
 
@@ -410,7 +439,10 @@ UŽKREČIAMŲJŲ LIGŲ NUSTATYMAS, LIGONIŲ, ASMENŲ, ĮTARIAMŲ, KAD SERGA, TUR
 7 straipsnis. Užkrečiamųjų ligų nustatymas 
 
 
-1. Užkrečiamųjų ligų klinikinius požymius nustato ir užkrečiamąsias ligas diagnozuoja asmens sveikatos priežiūros įstaigų specialistai, kuriems teisė tai atlikti yra pripažinta Sveikatos apsaugos ministerijos nustatyta tvarka.
+1. Užkrečiamųjų ligų klinikinius požymius nustato, diagnozę patvirtinančius ar paneigiančius tyrimus skiria ir užkrečiamąsias ligas pagal kompetenciją diagnozuoja šeimos gydytojai ir asmens sveikatos priežiūros įstaigų specialistai.
+Straipsnio dalies pakeitimai:
+Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
+ 
 
 
 
@@ -461,7 +493,10 @@ UŽKREČIAMŲJŲ LIGŲ NUSTATYMAS, LIGONIŲ, ASMENŲ, ĮTARIAMŲ, KAD SERGA, TUR
 
 
 
-8. Iš sąlytį turėjusių asmenų būtinai tirtinus dėl užkrečiamųjų ligų nustato asmens ir visuomenės sveikatos priežiūros įstaigų specialistai, atliekantys šių ligų epidemiologinę priežiūrą.
+8. Iš sąlytį turėjusių asmenų privalomai tirtinus dėl užkrečiamųjų ligų asmenis nustato asmens ir visuomenės sveikatos priežiūros įstaigų specialistai, atliekantys šių ligų epidemiologinę priežiūrą, o jų ištyrimą pagal kompetenciją nedelsdami organizuoja šeimos gydytojai ir asmens sveikatos priežiūros įstaigų specialistai.
+Straipsnio dalies pakeitimai:
+Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
+ 
 
 
 
@@ -855,7 +890,10 @@ Ypatingų epideminių situacijų nustatymo tvarką reglamentuoja šis Įstatymas
 
 
 
-5. Teritorijų karantino režimo priemonių įgyvendinimą turi organizuoti apskričių, kurioms priskiriamos savivaldybės, kurių teritorijose skelbiamas karantinas, viršininkai bei šių savivaldybių valdybos ir merai.
+5. Teritorijų karantino režimo priemonių įgyvendinimą turi organizuoti apskričių, kurioms priskiriamos savivaldybės, kurių teritorijoje skelbiamas karantinas, viršininkai bei šių savivaldybių administracijos direktoriai. 
+Straipsnio dalies pakeitimai:
+Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
+ 
 
 
 
@@ -910,7 +948,9 @@ Ypatingų epideminių situacijų nustatymo tvarką reglamentuoja šis Įstatymas
 
 
 
-13. Teritorijų ir riboto karantino režimo kontrolę Sveikatos apsaugos ministerijos nustatyta tvarka pagal savo kompetenciją vykdo Užkrečiamųjų ligų profilaktikos ir kontrolės centras ar (ir) teritorinės visuomenės sveikatos priežiūros įstaigos bei Valstybinė maisto ir veterinarijos tarnyba ir jos teritorinės įstaigos.
+13. Teritorijų ir riboto karantino režimo kontrolę Sveikatos apsaugos ministerijos nustatyta tvarka pagal savo kompetenciją vykdo Tarnyba ar (ir) teritorinės visuomenės sveikatos priežiūros įstaigos bei Valstybinė maisto ir veterinarijos tarnyba ir jos teritorinės įstaigos.
+Straipsnio dalies pakeitimai:
+Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
  
 
 
@@ -1104,7 +1144,10 @@ UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKOS IR KONTROLĖS VALDYMO INSTITUCIJOS
 1. Savivaldybės taryba:
 
 
-1) kasmet išklauso savivaldybės mero ataskaitą apie užkrečiamųjų ligų profilaktikos ir kontrolės organizacinių priemonių plano įgyvendinimo eigą ir rezultatus; 
+1) kasmet išklauso savivaldybės administracijos direktoriaus ataskaitą apie užkrečiamųjų ligų profilaktikos ir kontrolės organizacinių priemonių plano įgyvendinimo eigą ir rezultatus; 
+Straipsnio punkto pakeitimai:
+Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
+ 
 
 
 
@@ -1126,10 +1169,10 @@ UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKOS IR KONTROLĖS VALDYMO INSTITUCIJOS
 
 
 
-2. Savivaldybės valdyba:
+2. Savivaldybės administracijos direktorius:
 
 
-1) savivaldybės tarybos kadencijos laikotarpiui tvirtina užkrečiamųjų ligų profilaktikos ir kontrolės organizacinių priemonių planą ir kartu su savivaldybės gydytoju kontroliuoja šio plano įgyvendinimą; 
+1) savivaldybės tarybos kadencijos laikotarpiui tvirtina užkrečiamųjų ligų profilaktikos ir kontrolės organizacinių priemonių planą ir kartu su savivaldybės gydytoju kontroliuoja šio plano įgyvendinimą;
 
 
 
@@ -1159,24 +1202,17 @@ UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKOS IR KONTROLĖS VALDYMO INSTITUCIJOS
 
 
 
-7) organizuoja savivaldybės teritorijos gyventojus darbui epidemijoms ir jų padariniams likviduoti.
+7) organizuoja savivaldybės teritorijos gyventojus darbui epidemijoms ir jų padariniams likviduoti. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
+ 
 
 
 
 
-
-
-3. Savivaldybės valdyba teritorinių visuomenės sveikatos priežiūros įstaigų vadovų teikimu:
-
-
-1) atsisako įmonei išduoti leidimą ūkinei komercinei veiklai ar išduotąjį atšaukia, kai ši veikla kelia užkrečiamųjų ligų atsiradimo ir (ar) plitimo pavojų ar lemia jų išplitimą, ir informuoja apie tai atitinkamas valstybinę kontrolę vykdančias institucijas; 
-
-
-
-
-2) motyvuotai reikalauja, kad atitinkamos ministerijos atsisakytų įmonėms išduoti leidimus ūkinei komercinei veiklai ar išduotuosius atšauktų, kai ši veikla kelia užkrečiamųjų ligų atsiradimo ir (ar) plitimo pavojų ar lemia jų išplitimą, ir informuoja apie tai Sveikatos apsaugos ministeriją; 
-
-
+3. Savivaldybės administracijos direktorius teritorinių visuomenės sveikatos priežiūros įstaigų vadovų teikimu:
 
 
 3) uždraudžia žmonių susibūrimus savivaldybės teritorijoje esančiose įmonėse, įstaigose, organizacijose, viešose vietose, kai iškyla pavojingų ir ypač pavojingų užkrečiamųjų ligų išplitimo pavojus;
@@ -1195,9 +1231,11 @@ UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKOS IR KONTROLĖS VALDYMO INSTITUCIJOS
 
 
 6) organizuoja savivaldybės tikslinių sveikatos programų dėl užkrečiamųjų ligų profilaktikos ir kontrolės rengimą ir jas finansuoja.
+
+
+Straipsnio dalies pakeitimai:
+Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
  
-
-
 
 
 
@@ -1211,28 +1249,31 @@ VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJŲ TARNAUTOJŲ IR PAREIGŪNŲ KOMPETENCIJA
  
 
 
-27 straipsnis. Tarnybai pavaldžių įstaigų valstybės tarnautojų kompetencija užkrečiamųjų ligų profilaktikos ir kontrolės srityje
+27 straipsnis. Tarnybos ir jai pavaldžių teritorinių visuomenės sveikatos priežiūros įstaigų ir kitų institucijų, pagal kompetenciją vykdančių užkrečiamųjų ligų profilaktiką ir kontrolę, valstybės tarnautojų kompetencija užkrečiamųjų ligų profilaktikos ir kontrolės srityje 
+Pakeistas straipsnio pavadinimas:
+Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
+ 
 
 
-1. Užkrečiamųjų ligų profilaktikos ir kontrolės centro bei teritorinių visuomenės sveikatos priežiūros įstaigų tarnautojai turi šias teises ir pareigas užkrečiamųjų ligų profilaktikos ir kontrolės srityje:
+1. Tarnybos bei teritorinių visuomenės sveikatos priežiūros įstaigų ir kitų institucijų, pagal kompetenciją vykdančių užkrečiamųjų ligų profilaktiką ir kontrolę, tarnautojai turi šias teises ir pareigas užkrečiamųjų ligų profilaktikos ir kontrolės srityje:
 
 
-1) vykdydami valstybinę užkrečiamųjų ligų profilaktikos ir kontrolės priežiūrą, organizuodami ir atlikdami imunoprofilaktiką, chemoprofilaktiką ar privalomąjį aplinkos kenksmingumo pašalinimą, imdami medžiagą mikrobiologiniams tyrimams bei aiškindamiesi susirgimų priežastis, pateikę tarnybinį darbų pavedimą ir tarnybinį pažymėjimą bei pranešę įmonių, įstaigų ir organizacijų administracijai ar vadovybei ir lydimi jos atstovo, netrukdomai lankytis visose įmonėse, įstaigose, organizacijose, krašto apsaugos sistemos ir vidaus reikalų sistemos objektuose, pasienio ruožo teritorijose, muitinės sandėliuose, Lietuvos Respublikos ir užsienio laivuose, esančiuose Lietuvos Respublikos uostuose ir teritoriniuose vandenyse, lėktuvuose, esančiuose Lietuvos Respublikos oro uostuose, kituose objektuose;
-
-
-
-
-2) lankydamiesi įmonėse, įstaigose, organizacijose ir kituose objektuose, apklausti personalą bei lankytojus (interesantus, klientus, pacientus) ir, nepažeisdami valstybės, komercinių, karinių ar kitų paslapčių bei asmens sveikatos informacijos konfidencialumo, susipažinti su objekto technologine ir naudojamų žaliavų, gamybos (paslaugų) procesų bei gaminamos produkcijos ir jos realizavimo dokumentais, kurių reikia įvertinti gamybos proceso ar produkto (paslaugos) epidemiologinę saugą ir įtaką gyventojų apsikrėtimui užkrečiamosiomis ligomis, arba įtraukti objektą, jo žaliavas ir (ar) produkciją bei paslaugas į teritorijos ar ribotą karantiną;
-
-
-
-
-3) gauti iš įmonių, įstaigų ir organizacijų, kitų juridinių bei fizinių asmenų dokumentų kopijas ir informaciją apie jų veiklos srityje galimus užkrečiamųjų ligų sukėlėjų plitimo veiksnius, užkrečiamųjų ligų atsiradimo ir jų paplitimo priežastis, teritorijų karantino ir riboto karantino objektus; 
+1) vykdydami valstybinę užkrečiamųjų ligų profilaktikos ir kontrolės priežiūrą, organizuodami imunoprofilaktiką, chemoprofilaktiką ar privalomąjį aplinkos kenksmingumo pašalinimą, imdami medžiagą mikrobiologiniams tyrimams bei aiškindamiesi susirgimų priežastis, pateikę pavedimą ir tarnybinį pažymėjimą bei pranešę įmonių, įstaigų ir organizacijų administracijai ar vadovybei ir lydimi jos atstovo, netrukdomai lankytis visose įmonėse, įstaigose, organizacijose, krašto apsaugos sistemos ir vidaus reikalų sistemos objektuose, pasienio ruožo teritorijose, muitinės sandėliuose, Lietuvos Respublikos ir užsienio laivuose, esančiuose Lietuvos Respublikos uostuose ir teritoriniuose vandenyse, lėktuvuose, esančiuose Lietuvos Respublikos oro uostuose, kituose objektuose;
 
 
 
 
-4) pagal savo kompetenciją apklausti ligonio ar asmens, įtariamo, kad serga pavojingomis ir ypač pavojingomis užkrečiamosiomis ligomis, ar sukėlėjo nešiotojo šeimos narius. Užkrečiamųjų ligų profilaktikos ir kontrolės centro bei teritorinių visuomenės sveikatos priežiūros įstaigų ir jų padalinių gydytojai epidemiologai ir jų padėjėjai, nepažeisdami informacijos apie asmens sveikatą konfidencialumo reikalavimų, turi informuoti tokių asmenų šeimos narius ir kartu dirbančius asmenis apie galimą pavojų jų sveikatai ir galimybę to pavojaus išvengti naudojant profilaktines bei apsaugos priemones;
+2) lankydamiesi įmonėse, įstaigose, organizacijose ir kituose objektuose, apklausti personalą bei lankytojus (interesantus, klientus, pacientus) ir, nepažeisdami valstybės, komercinių, karinių ar kitų paslapčių bei asmens sveikatos informacijos konfidencialumo, susipažinti su objekto technologiniais ir naudojamų žaliavų, gamybos (paslaugų) procesų bei gaminamos produkcijos ir jos realizavimo dokumentais, kurių reikia įvertinti gamybos proceso ar produkto (paslaugos) epidemiologinę saugą ir įtaką gyventojų apsikrėtimui užkrečiamosiomis ligomis, arba įtraukti objektą, jo žaliavas ir (ar) produkciją bei paslaugas į teritorijos ar ribotą karantiną;
+
+
+
+
+3) gauti iš įmonių, įstaigų ir organizacijų, kitų juridinių bei fizinių asmenų dokumentų kopijas ir informaciją apie jų veiklos srityje galimus užkrečiamųjų ligų sukėlėjų plitimo veiksnius, užkrečiamųjų ligų atsiradimo ir jų paplitimo priežastis, teritorijų karantino ir riboto karantino objektus;
+
+
+
+
+4) pagal savo kompetenciją apklausti ligonio ar asmens, įtariamo, kad serga pavojingomis ir ypač pavojingomis užkrečiamosiomis ligomis, ar sukėlėjo nešiotojo šeimos narius. Tarnybos bei teritorinių visuomenės sveikatos priežiūros įstaigų ir kitų institucijų užkrečiamųjų ligų profilaktiką ir kontrolę vykdantys tarnautojai, nepažeisdami informacijos apie asmens sveikatą konfidencialumo reikalavimų, turi informuoti tokių asmenų šeimos narius ir kartu dirbančius asmenis apie galimą pavojų jų sveikatai ir galimybę to pavojaus išvengti naudojant profilaktines bei apsaugos priemones;
 
 
 
@@ -1252,9 +1293,12 @@ VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJŲ TARNAUTOJŲ IR PAREIGŪNŲ KOMPETENCIJA
 
 
 
-8) į ilgesnius kaip 3 mėnesių reisus neleisti išplaukti iš Lietuvos uostų Lietuvos Respublikoje įregistruotiems laivams be teritorinės visuomenės sveikatos priežiūros įstaigos karantino funkcijas atliekančio gydytojo žymos „išplaukti leidžiama“, kai šių reisų metu laivai lankosi šalyse, įrašytose į sveikatos apsaugos ministro patvirtintą sąrašą.
+8) neleisti išvykti Lietuvos Respublikoje įregistruotiems laivams be teritorinės visuomenės sveikatos priežiūros įstaigos visuomenės sveikatos specialisto, vykdančio medicininės karantininės priežiūros funkcijas, žymos „Išvykti leidžiama“ į šalis, įrašytas į Sveikatos apsaugos ministro patvirtintą sąrašą. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
+ 
 
 
 
@@ -1264,7 +1308,9 @@ VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJŲ TARNAUTOJŲ IR PAREIGŪNŲ KOMPETENCIJA
 
 
 
-3. Užkrečiamųjų ligų profilaktikos ir kontrolės centro bei teritorinių visuomenės sveikatos priežiūros įstaigų tarnautojai gali turėti ir kitų teisių bei pareigų užkrečiamųjų ligų profilaktikos ir kontrolės srityje, numatytų kituose įstatymuose, tarptautiniuose teisės aktuose, Užkrečiamųjų ligų profilaktikos ir kontrolės centro bei teritorinių visuomenės sveikatos priežiūros įstaigų nuostatuose, kuriuos tvirtina Tarnybos direktorius.
+3. Tarnybos bei teritorinių visuomenės sveikatos priežiūros įstaigų ir kitų institucijų tarnautojai gali turėti ir kitų teisių bei pareigų užkrečiamųjų ligų profilaktikos ir kontrolės srityje, numatytų kituose įstatymuose, tarptautiniuose teisės aktuose ir kituose norminiuose teisės aktuose.
+Straipsnio dalies pakeitimai:
+Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
  
 
 
@@ -1293,7 +1339,10 @@ VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJŲ TARNAUTOJŲ IR PAREIGŪNŲ KOMPETENCIJA
 
 
 
-4) jeigu įmonių ūkinė komercinė veikla kelia užkrečiamųjų ligų atsiradimo ir (ar) plitimo pavojų ar lemia jų išplitimą, reikalauti, kad atitinkamos ministerijos ar savivaldybės atsisakytų įmonėms išduoti šiai veiklai leidimus (licencijas) ar juos atšauktų (panaikintų). Šį reikalavimą ministerijos ir savivaldybės privalo vykdyti;
+4) Neteko galios nuo 2008-01-01
+Straipsnio punkto naikinimas:
+Nr. X-1149, 2007-05-24, Žin. 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
+ 
 
 
 
@@ -1320,7 +1369,9 @@ VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJŲ TARNAUTOJŲ IR PAREIGŪNŲ KOMPETENCIJA
 
 
 
-2. Lietuvos Respublikos vyriausiasis epidemiologas ir apskričių vyriausieji epidemiologai gali turėti ir kitų teisių bei pareigų užkrečiamųjų ligų profilaktikos ir kontrolės srityje, numatytų kituose įstatymuose, tarptautiniuose teisės aktuose, sveikatos apsaugos ministro patvirtintuose Lietuvos Respublikos vyriausiojo epidemiologo ir apskričių vyriausiųjų epidemiologų nuostatuose.
+2. Lietuvos Respublikos vyriausiasis epidemiologas ir apskričių vyriausieji epidemiologai gali turėti ir kitų teisių bei pareigų užkrečiamųjų ligų profilaktikos ir kontrolės srityje, numatytų kituose Lietuvos Respublikos bei tarptautiniuose teisės aktuose.
+Straipsnio dalies pakeitimai:
+Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
  
 
 
@@ -1334,12 +1385,18 @@ VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJŲ TARNAUTOJŲ IR PAREIGŪNŲ KOMPETENCIJA
 1. Savivaldybės gydytojas turi šias teises ir pareigas užkrečiamųjų ligų profilaktikos ir kontrolės srityje:
 
 
-1) vykdydamas valstybinę užkrečiamųjų ligų profilaktikos ir kontrolės priežiūrą, atlikdamas imunoprofilaktiką, chemoprofilaktiką ar privalomąjį aplinkos kenksmingumo pašalinimą, imdamas medžiagą mikrobiologiniams tyrimams bei aiškindamasis susirgimų priežastis, pateikęs tarnybinį darbų pavedimą ir tarnybinį pažymėjimą bei pranešęs įmonių, įstaigų ir organizacijų administracijai ar vadovybei ir lydimas jos atstovo, netrukdomai lankytis visose įmonėse, įstaigose, organizacijose, krašto apsaugos sistemos ir vidaus reikalų sistemos objektuose, pasienio ruožo teritorijose, muitinės sandėliuose, Lietuvos Respublikos ir užsienio laivuose, esančiuose Lietuvos Respublikos uostuose ir teritoriniuose vandenyse, lėktuvuose, esančiuose Lietuvos Respublikos oro uostuose, kituose objektuose;
+1) Neteko galios nuo 2008-01-01
+Straipsnio punkto naikinimas:
+Nr. X-1149, 2007-05-24, Žin. 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
+ 
 
 
 
 
-2) lankydamasis įmonėse, įstaigose, organizacijose ir kituose objektuose, apklausti personalą bei lankytojus (interesantus, klientus, pacientus) ir, nepažeisdamas valstybės, komercinių, karinių ar kitų paslapčių bei asmens sveikatos informacijos konfidencialumo, susipažinti su objekto technologine ir naudojamų žaliavų, gamybos (paslaugų) procesų bei gaminamos produkcijos ir jos realizavimo dokumentais, kurių reikia įvertinti gamybos proceso ar produkto (paslaugos) epidemiologinę saugą ir įtaką gyventojų apsikrėtimui užkrečiamosiomis ligomis, arba įtraukti objektą, jo žaliavas ir (ar) produkciją bei paslaugas į teritorijos ar ribotą karantiną;
+2) lankydamasis teritorijos asmens sveikatos priežiūros, švietimo ir socialinės rūpybos įstaigose susipažinti su jų darbo organizavimu, apklausti sveikatos priežiūros įstaigų darbuotojus bei pacientus ir gauti kitą informaciją, kurios reikia vykdant priešepidemines priemones ir vertinant užkrečiamųjų ligų diagnostikos kokybę;
+Straipsnio punkto pakeitimai:
+Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
+ 
 
 
 
@@ -1367,15 +1424,15 @@ VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJŲ TARNAUTOJŲ IR PAREIGŪNŲ KOMPETENCIJA
 30 straipsnis. Apskrities gydytojo teisės užkrečiamųjų ligų profilaktikos ir kontrolės srityje
 
 
-1. Apskrities gydytojas turi šias teises ir pareigas užkrečiamųjų ligų profilaktikos ir kontrolės srityje:
+1. Apskrities gydytojas turi šias teises ir pareigas užkrečiamųjų ligų profilaktikos ir kontrolės srityje: 1) lankydamasis teritorijos asmens sveikatos priežiūros, švietimo ir socialinės rūpybos įstaigose, susipažinti su jų darbo organizavimu, apklausti sveikatos priežiūros įstaigų darbuotojus bei pacientus ir gauti kitą informaciją, kurios reikia vykdant priešepidemines priemones, vertinant medicininės pagalbos prieinamumą ir užkrečiamųjų ligų diagnostikos kokybę;
 
 
-1) vykdydamas valstybinę užkrečiamųjų ligų profilaktikos ir kontrolės priežiūrą, atlikdamas imunoprofilaktiką, chemoprofilaktiką ar privalomąjį aplinkos kenksmingumo pašalinimą, imdamas medžiagą mikrobiologiniams tyrimams bei aiškindamasis susirgimų priežastis, pateikęs tarnybinį darbų pavedimą ir tarnybinį pažymėjimą bei pranešęs įmonių, įstaigų ir organizacijų administracijai ar vadovybei ir lydimas jos atstovo, netrukdomai lankytis visose įmonėse, įstaigose, organizacijose, krašto apsaugos sistemos ir vidaus reikalų sistemos objektuose, pasienio ruožo teritorijose, muitinės sandėliuose, Lietuvos Respublikos ir užsienio laivuose, esančiuose Lietuvos Respublikos uostuose ir teritoriniuose vandenyse, lėktuvuose, esančiuose Lietuvos Respublikos oro uostuose, kituose objektuose;
+2) organizuoti privalomų valstybinių programų užkrečiamųjų ligų klausimais vykdymą apskrityje, nagrinėti šių programų vykdymo eigą apskrities savivaldybėse;
 
 
 
 
-2) Lietuvos Respublikos vyriausiojo epidemiologo ar apskrities (regiono) vyriausiojo epidemiologo sprendimu, padedamas policijos, patekti į pavojinga ar ypač pavojinga užkrečiamąja liga susirgusio, įtariamo, kad serga, asmens būstą be jo sutikimo, kai reikia gelbėti šio asmens ir aplinkinių gyvybę ar sveikatą. 
+3) koordinuoti apskrityje veikiančių sveikatos priežiūros įstaigų pasirengimą ir veiksmus užkrečiamųjų ligų ekstremaliose situacijose.
 
 
 
@@ -1383,30 +1440,29 @@ VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJŲ TARNAUTOJŲ IR PAREIGŪNŲ KOMPETENCIJA
 
 
 2. Apskrities gydytojas gali turėti ir kitų teisių bei pareigų užkrečiamųjų ligų profilaktikos ir kontrolės srityje, numatytų kituose Lietuvos Respublikos teisės aktuose.
+
+
+Straipsnio pakeitimai:
+Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
  
 
 
 
 
+31 straipsnis. Krašto apsaugos, vidaus reikalų ir teisingumo ministrų įgaliotų sveikatos priežiūros įstaigų pareigūnų, kurių pareiginiuose nuostatuose įrašytos visuomenės sveikatos priežiūros funkcijos, teisės užkrečiamųjų ligų profilaktikos ir kontrolės srityje
 
 
-31 straipsnis. Krašto apsaugos ministerijos, Vidaus reikalų ministerijos bei Kalėjimų departamento prie Teisingumo ministerijos sveikatos priežiūros ar (ir) medicinos tarnybų vyriausiųjų vadovų gydytojų, Krašto apsaugos ministerijos, Kalėjimų departamento prie Teisingumo ministerijos ir Vidaus reikalų ministerijos valdymo srities įstaigų, karinių vienetų sveikatos ir (ar) medicinos tarnybų vyriausiųjų vadovų gydytojų teisės užkrečiamųjų ligų profilaktikos ir kontrolės srityje
-
-
-1. Krašto apsaugos ministerijos, Vidaus reikalų ministerijos ir Kalėjimų departamento prie Teisingumo ministerijos valdymo srities įstaigų sveikatos priežiūros ar (ir) medicinos tarnybų vyriausieji vadovai gydytojai turi šio Įstatymo 27 straipsnio 1 dalies 1, 2 ir 5 punktuose ir 28 straipsnio 1 dalies 1 ir 2 punktuose nurodytas teises, kuriomis naudojasi tik šioms ministerijoms pavaldžiuose objektuose bei šiuose objektuose dirbančių valstybės tarnautojų būstuose.
-
-
-
-
-2. Krašto apsaugos ministerijos, Vidaus reikalų ministerijos bei Kalėjimų departamento prie Teisingumo ministerijos valdymo srities įstaigų, karinių vienetų sveikatos priežiūros ir (ar) medicinos tarnybų vyriausieji vadovai gydytojai ir jų įgalioti gydytojai turi šio Įstatymo 27 straipsnio 1 dalies 1, 3, 4, 8 punktuose ir 28 straipsnio 1 dalies 1 punkte nurodytas teises, kuriomis naudojasi tik šioms ministerijoms pavaldžiuose objektuose (įstaigose, kariniuose vienetuose ir pan.).
+1. Krašto apsaugos, vidaus reikalų ir teisingumo ministrų įgalioti sveikatos priežiūros įstaigų pareigūnai, kurių pareiginiuose nuostatuose įrašytos visuomenės sveikatos priežiūros funkcijos, turi šio Įstatymo 27 straipsnio 1 dalies 1, 2 3, 4, 5 ir 8 punktuose ir 28 straipsnio 1 dalies 1 ir 2 punktuose nurodytas teises, kuriomis naudojasi tik šioms ministerijoms pavaldžiuose objektuose (įstaigose, kariniuose vienetuose ir pan.) bei šiuose objektuose dirbančių valstybės tarnautojų būstuose.
 
 
 
 
-3. Šio straipsnio 1 ir 2 dalyse nurodyti pareigūnai, remdamiesi Sveikatos sistemos įstatymu, taip pat turi teisę reikalauti, kad Krašto apsaugos ministerijos, Kalėjimų departamento prie Teisingumo ministerijos ar Vidaus reikalų ministerijos valdymo srities įstaigos, kariniai vienetai ar kiti fiziniai ir juridiniai asmenys atlygintų išlaidas, atsiradusias dėl sveikatai neteisėta veika padarytos žalos, kurią lėmė užkrečiamoji liga.
+2. Šio straipsnio 1 dalyje nurodyti pareigūnai, remdamiesi Sveikatos sistemos įstatymu, taip pat turi teisę reikalauti, kad Krašto apsaugos ministerijos, Kalėjimų departamento prie Teisingumo ministerijos ar Vidaus reikalų ministerijos valdymo srities įstaigos, kariniai vienetai ar kiti fiziniai ir juridiniai asmenys atlygintų išlaidas, atsiradusias dėl sveikatai neteisėta veika padarytos žalos, kurią lėmė užkrečiamoji liga.
+
+
+Straipsnio pakeitimai:
+Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
  
-
-
 
 
 
@@ -1538,7 +1594,10 @@ Duomenys apie asmenų, sergančių, įtariamų, kad serga užkrečiamosiomis lig
 1. Juridiniai ir fiziniai asmenys turi teisę: 
 
 
-1) ginčyti teismo tvarka Užkrečiamųjų ligų profilaktikos ir kontrolės centro ir teritorinių visuomenės sveikatos priežiūros įstaigų tarnautojų (pareigūnų) sprendimų teisėtumą;
+1) ginčyti teismo tvarka Tarnybos ir teritorinių visuomenės sveikatos priežiūros įstaigų tarnautojų (pareigūnų) sprendimų teisėtumą; 
+Straipsnio punkto pakeitimai:
+Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
+ 
 
 
 
@@ -1563,7 +1622,9 @@ Duomenys apie asmenų, sergančių, įtariamų, kad serga užkrečiamosiomis lig
 
 
 
-3) sudaryti sąlygas Užkrečiamųjų ligų profilaktikos ir kontrolės centro, teritorinių visuomenės sveikatos priežiūros ir kitų įstaigų tarnautojams (pareigūnams) įgyvendinti šio Įstatymo jiems nustatytas teises.
+3) sudaryti sąlygas Tarnybos, teritorinių visuomenės sveikatos priežiūros ir kitų įstaigų tarnautojams (pareigūnams) įgyvendinti šio Įstatymo jiems nustatytas teises.
+Straipsnio punkto pakeitimai:
+Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
  
 
 
@@ -1722,3 +1783,8 @@ Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-649, 2001-12-13, Žin., 2001, Nr. 112-4069 (2001-12-30), i. k. 1011010ISTA00IX-649
 Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
+Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo 2, 3, 4, 5, 7, 8, 21, 26, 27, 28, 29, 30, 31, 37 straipsnių pakeitimo įstatymas
