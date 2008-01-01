@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EEC13A0B85BA"
 
 # Lietuvos Respublikos socialinių įmonių įstatymas
 
-Suvestinė redakcija nuo 2007-04-01 iki 2007-12-31
+Suvestinė redakcija nuo 2008-01-01 iki 2010-12-27
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 96-3519, i. k. 1041010ISTA0IX-2251
  
@@ -297,15 +297,18 @@ VALSTYBĖS PAGALBA SocialinĖMS įmonĖMS
 
 1. Darbo užmokesčio ir valstybinio socialinio draudimo įmokų dalinė kompensacija yra skirta kompensuoti socialinei įmonei papildomas išlaidas, susijusias su tikslinėms grupėms priklausančių darbuotojų darbinių įgūdžių stoka, jų mažesniu darbo našumu ar ribotu darbingumu.
 
-2. Kompensacija apskaičiuojama procentais nuo kiekvienam socialinėje įmonėje dirbančiam tikslinei grupei priklausančiam darbuotojui tą mėnesį apskaičiuoto visų rūšių darbo užmokesčio, tačiau neviršijant dviejų tą mėnesį galiojusių Vyriausybės patvirtintų minimalių mėnesinių algų dydžio ir nuo šio darbo užmokesčio apskaičiuotų draudėjo privalomojo valstybinio socialinio draudimo įmokų sumos. 
+2. Kompensacija apskaičiuojama procentais nuo kiekvienam socialinėje įmonėje dirbančiam tikslinei grupei priklausančiam darbuotojui tą mėnesį apskaičiuoto visų rūšių darbo užmokesčio, tačiau neviršijant dviejų tą mėnesį galiojusių Vyriausybės patvirtintų minimalių mėnesinių algų dydžio ir nuo šio darbo užmokesčio apskaičiuotų draudėjo privalomojo valstybinio socialinio draudimo įmokų sumos.
 
-3. Už kiekvieną I ar II invalidumo grupę arba sunkų ar vidutinį neįgalumo lygį turintį neįgalų darbuotoją ar neįgalų darbuotoją, kuriam nustatytas neviršijantis 55 procentų darbingumo lygis arba didelių ar vidutinių specialiųjų poreikių lygis, skiriama kompensacija sudaro 60 procentų šio straipsnio 2 dalyje nurodytos sumos.
-Straipsnio dalies pakeitimai:
-Nr. X-293, 2005-06-30, Žin., 2005, Nr. 85-3137 (2005-07-14), i. k. 1051010ISTA000X-293
-Nr. X-1040, 2007-01-18, Žin., 2007, Nr. 17-629 (2007-02-08), i. k. 1071010ISTA00X-1040
- 
+3. Už kiekvieną I invalidumo grupę arba sunkų neįgalumo lygį turintį neįgalų darbuotoją ar neįgalų darbuotoją, kuriam nustatytas neviršijantis 25 procentų darbingumo lygis arba didelių specialiųjų poreikių lygis, skiriama kompensacija sudaro 80 procentų šio straipsnio 2 dalyje nurodytos sumos.
 
-4. Už kiekvieną III invalidumo grupę turintį neįgalų darbuotoją ir už kiekvieną šio įstatymo 4 straipsnio 1 dalies 2–5 punktuose nurodytai tikslinei grupei priklausantį darbuotoją skiriama kompensacija sudaro 50 procentų šio straipsnio 2 dalyje nurodytos sumos.
+4. Už kiekvieną II invalidumo grupę arba vidutinį neįgalumo lygį turintį neįgalų darbuotoją ar neįgalų darbuotoją, kuriam nustatytas 30–40 procentų darbingumo lygis arba vidutinių specialiųjų poreikių lygis, skiriama kompensacija sudaro 70 procentų šio straipsnio 2 dalyje nurodytos sumos.
+
+5. Už kiekvieną III invalidumo grupę turintį neįgalų darbuotoją ar neįgalų darbuotoją, kuriam nustatytas 45–55 procentų darbingumo lygis arba nedidelių specialiųjų poreikių lygis, skiriama kompensacija sudaro 60 procentų šio straipsnio 2 dalyje nurodytos sumos.
+
+6. Už kiekvieną šio įstatymo 4 straipsnio 1 dalies 2–5 punktuose nurodytai tikslinei grupei priklausantį darbuotoją skiriama kompensacija sudaro 50 procentų šio straipsnio 2 dalyje nurodytos sumos.
+
+Straipsnio pakeitimai:
+Nr. X-1388, 2007-12-18, Žin., 2007, Nr. 138-5647 (2007-12-29), i. k. 1071010ISTA00X-1388
  
 
 15 straipsnis. Subsidija darbo vietoms įsteigti, neįgalių darbuotojų darbo vietoms pritaikyti ir jų darbo priemonėms įsigyti ar pritaikyti
@@ -530,4 +533,9 @@ Lietuvos Respublikos socialinių įmonių įstatymo 3 straipsnio pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1040, 2007-01-18, Žin., 2007, Nr. 17-629 (2007-02-08), i. k. 1071010ISTA00X-1040
 Lietuvos Respublikos socialinių įmonių įstatymo 3, 4, 5, 8, 14, 18, 19 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1388, 2007-12-18, Žin., 2007, Nr. 138-5647 (2007-12-29), i. k. 1071010ISTA00X-1388
+Lietuvos Respublikos socialinių įmonių įstatymo 14 straipsnio pakeitimo ir papildymo įstatymas
 
