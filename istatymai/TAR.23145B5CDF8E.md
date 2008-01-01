@@ -13,19 +13,21 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.23145B5CDF8E"
 
 # Lietuvos Respublikos saugiųjų dokumentų ir saugiųjų dokumentų blankų gamybos įstatymas
 
-Suvestinė redakcija nuo 2005-11-03 iki 2007-12-31
+Suvestinė redakcija nuo 2008-01-01 iki 2012-11-23
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 61-2758, i. k. 1031010ISTA0IX-1601
  
+Nauja redakcija nuo 2008-01-01:
+Nr. X-1328, 2007-11-15, Žin. 2007, Nr. 125-5094 (2007-12-01), i. k. 1071010ISTA00X-1328
  
-LIETUVOS RESPUBLIKOS VERTYBINIŲ POPIERIŲ, DOKUMENTŲ BLANKŲ, BANDEROLIŲ, OFICIALIŲ ŽYMĖJIMO ŽENKLŲ GAMYBOS ĮSTATYMAS
+LIETUVOS RESPUBLIKOS SAUGIŲJŲ DOKUMENTŲ IR SAUGIŲJŲ DOKUMENTŲ BLANKŲ GAMYBOS ĮSTATYMAS
  
 2003 m. birželio 5 d. Nr. IX-1601
 Vilnius
  
 
 
-PIRMASIS SKIRSNIS
+PIRMASIS SKIRSNIS 
 BENDROSIOS NUOSTATOS
  
 
@@ -33,171 +35,7 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis Įstatymas reglamentuoja valstybės ir savivaldybių institucijų bei įstaigų ir Lietuvos Respublikos teisės aktais įgaliotų kitų juridinių asmenų, taip pat Europos Sąjungos institucijų nustatytų privalomai naudoti Lietuvos Respublikoje vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų technologinės apsaugos priemonių nustatymą, leidybą bei technologinės apsaugos lygiui ir grupei priskirtų vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybą.
-
-
-Straipsnio pakeitimai:
-Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
- 
-
-
-
-
-2 straipsnis. Pagrindinės šio Įstatymo sąvokos
-
-
-1. Banderolė – numeruotas, technologinės apsaugos priemonių turintis ženklas, skirtas Lietuvos Respublikoje pagamintiems etilo alkoholiui ir alkoholiniams gėrimams bei apdorotam tabakui, kuriems panaikintas akcizų mokėjimo laikino atidėjimo režimas, taip pat išleidžiamiems laisvai cirkuliuoti importuojamiems etilo alkoholiui ir alkoholiniams gėrimams bei apdorotam tabakui ženklinti.
-
-
-
-
-2. Dokumento blankas – valstybės ar savivaldybės institucijos arba įstaigos teisės aktu nustatytos formos privalomai pildytinas dokumentas, turintis technologinės apsaugos priemonių arba technologinės apsaugos priemonių ir gamybos proceso metu suteiktus numerius arba serijas ir numerius.
-
-
-
-
-3. Išleidžianti įstaiga – Lietuvos Respublikos valstybės ar savivaldybės institucija, įstaiga arba Lietuvos Respublikos ar Europos Sąjungos teisės aktais įgaliotas kitas juridinis asmuo, kuris tvirtina vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų privalomąją formą, arba juridinis asmuo, kuris privalo organizuoti vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybą. 
-Straipsnio dalies pakeitimai:
-Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
- 
-
-
-
-
-4. Klastojimas – netikrų vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gaminimas arba tikrų vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų suklastojimas.
-
-
-
-
-5. Metrika – vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų užsakymo gavimo metai, gamintojo pavadinimas, identifikavimo numeris vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų registre.
-
-
-
-
-6. Oficialus žymėjimo ženklas – numeruotas, technologinės apsaugos priemonių turintis ženklas, patvirtinantis valstybės ar savivaldybės institucijos, įstaigos arba jų įgaliotų institucijų ar įstaigų atliktą patikrą arba apžiūrą.
-
-
-
-
-7. Specialios medžiagos – specialūs dažai, specialus popierius ir kitos vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamyboje naudojamos medžiagos (hologramos, kinegramos ir pan.), kurios technologiškai apsaugo vertybinius popierius, dokumentų blankus, banderoles, oficialius žymėjimo ženklus nuo klastojimo.
-
-
-
-
-8. Specialistas – specialių žinių ar įgūdžių turintis asmuo, atliekantis vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų apyvartos priežiūrą.
-
-
-
-
-9. Technologinės apsaugos lygis – visuma technologinės apsaugos priemonių vertybiniams popieriams, dokumentų blankams, banderolėms, oficialiems žymėjimo ženklams nuo klastojimo apsaugoti.
-
-
-
-
-10. Technologinės apsaugos priemonės – medžiagos ir būdai, naudojami vertybiniams popieriams, dokumentų blankams, banderolėms, oficialiems žymėjimo ženklams nuo klastojimo apsaugoti.
-
-
-
-
-11. Technologinės apsaugos priemonių naudojimo aprašymas – informacija apie gaminio apsaugai nuo klastojimo panaudotas technologinės apsaugos priemones, skirta visuomenei, specialistams ir ekspertams gaminių tikrumui nustatyti.
-
-
-
-
-12. Technologinės apsaugos priemonių naudojimo aprašymas ekspertams – įslaptinta informacija apie gaminio apsaugai nuo klastojimo panaudotas technologinės apsaugos priemones ir jų techninius duomenis, kuriuos galima nustatyti panaudojus įrangą, skirta ekspertizę atliekančioms įstaigoms.
-
-
-
-
-13. Technologinės apsaugos priemonių naudojimo aprašymas specialistams – informacija apie gaminio apsaugai nuo klastojimo panaudotas technologinės apsaugos priemones, kurias galima nustatyti panaudojus įrangą, skirta vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų apyvartos priežiūrą atliekančioms institucijoms.
-
-
-
-
-14. Technologinės apsaugos priemonių naudojimo aprašymas visuomenei – vieša informacija apie gaminio apsaugai nuo klastojimo panaudotas technologinės apsaugos priemones, kurias galima nustatyti nenaudojant įrangos. 
-
-
-
-
-15. Užsakymas – gamintojo ir užsakovo susitarimas dėl tiražo ar jo dalies pagaminimo.
-
-
-
-
-16. Užsakovas – išleidžianti įstaiga arba jos įgaliota institucija, šio Įstatymo nustatyta tvarka organizuojanti vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybą.
-
-
-
-
-17. Vertybinis popierius – materialus vertybinis popierius.
-
-
-
-
-18. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų apyvarta – pagamintų ir išleistų vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų naudojimas.
-
-
-
-
-19. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų brokas – nustatyti iki išleidimo į apyvartą vertybiniai popieriai, dokumentų blankai, banderolės, oficialūs žymėjimo ženklai, neatitinkantys patvirtinto vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų etalono, taip pat jų pusgaminiai ir atliekos, netinkamos naudoti tolesniame gamybos procese.
-
-
-
-
-20. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų eskizas – vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų piešinys arba brėžinys, pagal kurį kuriamas grafinis projektas.
-
-
-
-
-21. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų etalonas – vertybiniai popieriai, dokumentų blankai, banderolės, oficialūs žymėjimo ženklai, pagaminti pagal patvirtintą privalomąją formą ir grafinį projektą, turintys visas konkretiems vertybiniams popieriams, dokumentų blankams, banderolėms, oficialiems žymėjimo ženklams patvirtintas technologinės apsaugos priemones.
-
-
-
-
-22. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gaminys – teisės aktų nustatyta tvarka pagaminti vertybiniai popieriai, dokumentų blankai, banderolės, oficialūs žymėjimo ženklai, atitinkantys patvirtintą etaloną.
-
-
-
-
-23. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamintojas (toliau – gamintojas) – įmonė, teisės aktų nustatyta tvarka sudariusi sutartį su užsakovu dėl vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybos. 
-Straipsnio dalies pakeitimai:
-Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
- 
-
-
-
-
-24. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų grafinis projektas – vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų tikslus brėžinys, sukurtas pagal patvirtintą eskizą skaitmeninėje (elektroninėje) laikmenoje ir išspausdintas popieriuje.
-
-
-
-
-25. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų pavyzdys – atitinkantis etaloną vertybinio popieriaus, dokumento blanko, banderolės, oficialaus žymėjimo ženklo gaminys su užrašu „PAVYZDYS“ ir registracijos numeriu.
-
-
-
-
-26. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų privalomoji forma – vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų techniniai reikalavimai (privalomi rekvizitai, matmenys, lapų skaičius ir kita).
-
-
-
-
-27. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų tiražas – šio Įstatymo nustatyta tvarka tarp užsakovo ir gamintojo sudarytoje sutartyje nurodytas pagaminti vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų kiekis.
-
-
-
-
-28. Įmonė – Lietuvos Respublikos įmonė, užsienio valstybės ūkio subjekto filialas. 
-Papildyta straipsnio dalimi:
-Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
- 
-
-
-
-
-29. Trečioji valstybė – bet kuri teritorija, kuri nėra Europos Bendrijų teritorija.
-Papildyta straipsnio dalimi:
-Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
+Šis įstatymas nustato valstybės ir savivaldybių institucijų bei įstaigų ir Lietuvos Respublikos teisės aktais įgaliotų kitų juridinių asmenų, taip pat Europos Sąjungos institucijų nustatytų privalomai naudoti Lietuvos Respublikoje Vyriausybės vertybinių popierių, banderolių, keleivinio transporto bilietų, oficialiųjų žymėjimo ženklų, dokumentų blankų priskyrimą saugiųjų dokumentų ir saugiųjų dokumentų blankų technologinės apsaugos lygiui ir polygiui, saugiųjų dokumentų ar saugiųjų dokumentų blankų technologinės apsaugos priemonių nustatymą, saugiųjų dokumentų ir saugiųjų dokumentų blankų leidybą bei gamybą ir gamybos reikalavimus.
  
 
 
@@ -205,38 +43,224 @@ Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010IS
 
 
 
-3 straipsnis. Valstybės dokumentų technologinės apsaugos tarnyba
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų technologinę apsaugą bei licencijuojamos veiklos priežiūrą atlieka Valstybės dokumentų technologinės apsaugos tarnyba prie Finansų ministerijos (toliau – Tarnyba). 
-
-
-
-
-2. Tarnybos nuostatus tvirtina Vyriausybė.
+1. Banderolė – valstybės leidžiamas numeruotas ženklas su technologinės apsaugos priemonėmis, naudojamas Lietuvos Respublikoje skirtiems parduoti etilo alkoholiui, alkoholiniams gėrimams ir apdorotam tabakui ženklinti.
 
 
 
 
-3. Tarnyba: 
-
-
-1) atlieka vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų technologinės apsaugos bei etalono gamybos priežiūrą;
+2. Dokumento blankas – Lietuvos Respublikos valstybės ar savivaldybės institucijos arba įstaigos ar Europos Sąjungos teisės aktu nustatytos formos blankas, skirtas pildyti ir naudoti kaip dokumentas, išskyrus blanką, kuris užpildytas gali būti teikiamas elektroniniu būdu.
 
 
 
 
-2) tvirtina privalomų ir papildomų vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų technologinės apsaugos priemonių sąrašus ir nurodo technologinės apsaugos priemonių techninius duomenis; 
+3. Keleivinio transporto bilietas – dokumentas, kuriuo suteikiama teisė vykti keleiviniu transportu, išskyrus tarptautinio susisiekimo ir oro transporto bilietus bei bilietą – kasos aparato kvitą.
 
 
 
 
-3) rengia, tvirtina ir saugo išleidžiamų vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų eskizus, grafinius projektus; tvirtina ir saugo vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų etalonus;
+4. Neteisėta saugiojo dokumento ar saugiojo dokumento blanko gamyba – saugiojo dokumento ar saugiojo dokumento blanko gamyba įmonėje arba užsienio valstybės įmonės filiale, neturinčiuose teisės verstis saugiųjų dokumentų ir saugiųjų dokumentų blankų gamyba.
 
 
 
 
-4) rengia, tvirtina ir platina technologinės apsaugos priemonių panaudojimo aprašymus visuomenei, specialistams ir ekspertams, nustato technologinės apsaugos priemonių naudojimo aprašymo slaptumo žymas;
+5. Oficialusis žymėjimo ženklas – numeruotas ženklas, kuriuo patvirtinama valstybės ar savivaldybės institucijos, įstaigos arba jų įgaliotų institucijų ar įstaigų atlikta patikra arba apžiūra, arba sumokėtas mokestis.
+
+
+
+
+6. Saugiojo dokumento ar saugiojo dokumento blanko eskizas – pagal tvirtinančios įstaigos patvirtintą Vyriausybės vertybinio popieriaus, banderolės, keleivinio transporto bilieto, oficialiojo žymėjimo ženklo, dokumento blanko privalomąją formą parengtas piešinys arba brėžinys, pagal kurį kuriamas saugiojo dokumento ar saugiojo dokumento blanko grafinis projektas.
+
+
+
+
+7. Saugiojo dokumento ar saugiojo dokumento blanko etalonas – pagal tvirtinančios įstaigos patvirtintą Vyriausybės vertybinio popieriaus, banderolės, keleivinio transporto bilieto, oficialiojo žymėjimo ženklo, dokumento blanko privalomąją formą ir saugiojo dokumento ar saugiojo dokumento blanko grafinį projektą pagamintas saugusis dokumentas ar saugusis dokumento blankas, turintis visas jam patvirtintas saugiojo dokumento ar saugiojo dokumento blanko technologinės apsaugos priemones.
+
+
+
+
+8. Saugiojo dokumento ar saugiojo dokumento blanko grafinis projektas – tikslus saugiojo dokumento ar saugiojo dokumento blanko brėžinys, sukurtas pagal patvirtintą saugiojo dokumento ar saugiojo dokumento blanko eskizą skaitmeninėje (elektroninėje) laikmenoje ir išspausdintas popieriuje.
+
+
+
+
+9. Saugiojo dokumento ar saugiojo dokumento blanko metrika – saugiojo dokumento ar saugiojo dokumento blanko grafiniame projekte Valstybės dokumentų technologinės apsaugos tarnybos prie Finansų ministerijos nurodyti užsakymo pateikimo gamintojui metai, gamintojo pavadinimas ir atpažinties (identifikavimo) numeris arba kodas Saugiųjų dokumentų ir saugiųjų dokumentų blankų registre.
+
+
+
+
+10. Saugiojo dokumento ar saugiojo dokumento blanko pavyzdys – saugiojo dokumento ar saugiojo dokumento blanko etaloną atitinkantis saugusis dokumentas ar saugusis dokumento blankas su užrašu „PAVYZDYS“ (jei saugųjį dokumentą ar saugųjį dokumento blanką sudaro daugiau negu vienas lapas, – su užrašu „PAVYZDYS“ ant kiekvieno lapo arba puslapio) ir registracijos numeriu.
+
+
+
+
+11. Saugiojo dokumento ar saugiojo dokumento blanko technologinės apsaugos lygis (toliau – technologinės apsaugos lygis) – saugiojo dokumento ar saugiojo dokumento blanko apsaugos nuo klastojimo lygis, priklausantis nuo saugiajame dokumente ar saugiajame dokumento blanke esančių privalomų skirtingų lygių saugiojo dokumento ar saugiojo dokumento blanko technologinės apsaugos priemonių skaičiaus.
+
+
+
+
+12. Saugiojo dokumento ar saugiojo dokumento blanko technologinės apsaugos polygis (toliau – technologinės apsaugos polygis) – smulkesnis saugiojo dokumento ar saugiojo dokumento blanko technologinės apsaugos lygio skirstymo vienetas, priklausantis nuo tam tikros formos saugiajame dokumente ar saugiajame dokumento blanke esančių privalomų skirtingų lygių saugiojo dokumento ar saugiojo dokumento blanko technologinės apsaugos priemonių derinio.
+
+
+
+
+13. Saugiojo dokumento ar saugiojo dokumento blanko technologinės apsaugos priemonės (toliau – technologinės apsaugos priemonės) – specialiosios medžiagos ir būdai, naudojami saugiajam dokumentui ar saugiajam dokumento blankui nuo klastojimo apsaugoti.
+
+
+
+
+14. Saugiojo dokumento ar saugiojo dokumento blanko technologinės apsaugos priemonių aprašas (toliau – technologinės apsaugos priemonių aprašas) – informacija apie saugiojo dokumento ar saugiojo dokumento blanko apsaugai nuo klastojimo panaudotas technologinės apsaugos priemones, skirta visuomenei, specialistams ir ekspertams saugiojo dokumento ar saugiojo dokumento blanko tikrumui nustatyti.
+
+
+
+
+15. Saugiojo dokumento ar saugiojo dokumento blanko technologinės apsaugos priemonių aprašas ekspertams (toliau – technologinės apsaugos priemonių aprašas ekspertams) – įslaptinta informacija apie saugiojo dokumento ar saugiojo dokumento blanko apsaugai nuo klastojimo panaudotas technologinės apsaugos priemones ir jų techninius duomenis, skirta ekspertizę atliekančioms įstaigoms.
+
+
+
+
+16. Saugiojo dokumento ar saugiojo dokumento blanko technologinės apsaugos priemonių aprašas specialistams (toliau – technologinės apsaugos priemonių aprašas specialistams) – įslaptinta informacija apie saugiojo dokumento ar saugiojo dokumento blanko apsaugai nuo klastojimo panaudotas technologinės apsaugos priemones, skirta saugiųjų dokumentų ar saugiųjų dokumentų blankų apyvartos priežiūrą atliekančioms institucijoms.
+
+
+
+
+17. Saugiojo dokumento ar saugiojo dokumento blanko technologinės apsaugos priemonių aprašas visuomenei (toliau – technologinės apsaugos priemonių aprašas visuomenei) – vieša informacija apie saugiojo dokumento ar saugiojo dokumento blanko apsaugai nuo klastojimo panaudotas technologinės apsaugos priemones, skirta kiekvienam vartotojui.
+
+
+
+
+18. Saugiųjų dokumentų ar saugiųjų dokumentų blankų apyvarta – pagamintų saugiųjų dokumentų ar saugiųjų dokumentų blankų naudojimas.
+
+
+
+
+19. Saugiųjų dokumentų ar saugiųjų dokumentų blankų gamybos brokas (toliau – brokas) – saugieji dokumentai ar saugieji dokumentų blankai, iki kurių išleidimo į apyvartą nustatyta, kad jie neatitinka patvirtinto saugiojo dokumento ar saugiojo dokumento blanko etalono, taip pat jų pusgaminiai ir atliekos, netinkami toliau naudoti gamyboje.
+
+
+
+
+20. Saugiųjų dokumentų ar saugiųjų dokumentų blankų gamybos užsakymas – gamintojo ir užsakovo susitarimas dėl saugiųjų dokumentų ar saugiųjų dokumentų blankų tiražo ar jo dalies pagaminimo.
+
+
+
+
+21. Saugiųjų dokumentų ar saugiųjų dokumentų blankų gamybos užsakovas (toliau – užsakovas) – Vyriausybės vertybinių popierių, banderolių, keleivinio transporto bilietų, oficialiųjų žymėjimo ženklų, dokumentų blankų privalomąsias formas tvirtinanti įstaiga arba jos įgaliota institucija, pateikusi saugiųjų dokumentų ar saugiųjų dokumentų blankų gamintojui užsakymą ar sudariusi su juo sutartį dėl saugiųjų dokumentų ar saugiųjų dokumentų blankų gamybos.
+
+
+
+
+22. Saugiųjų dokumentų ar saugiųjų dokumentų blankų gamintojas (toliau – gamintojas) – įmonė arba užsienio valstybės įmonės filialas, teisės aktų nustatyta tvarka sudarę sutartį su užsakovu dėl saugiųjų dokumentų ar saugiųjų dokumentų blankų gamybos arba gavę užsakymą juos pagaminti.
+
+
+
+
+23. Saugiųjų dokumentų ar saugiųjų dokumentų blankų leidyba – Vyriausybės vertybinių popierių, banderolių, keleivinio transporto bilietų, oficialiųjų žymėjimo ženklų, dokumentų blankų privalomųjų formų rengimas ir tvirtinimas, saugiųjų dokumentų ar saugiųjų dokumentų blankų eskizų ir grafinių projektų rengimas, derinimas ir tvirtinimas.
+
+
+
+
+24. Saugiųjų dokumentų ar saugiųjų dokumentų blankų tiražas – užsakovo ir gamintojo sudarytoje sutartyje nurodytas pagaminti saugiųjų dokumentų ar saugiųjų dokumentų blankų skaičius.
+
+
+
+
+25. Saugiųjų dokumentų ir saugiųjų dokumentų blankų apyvartos priežiūros specialistas – specialių žinių ir įgūdžių turintis asmuo, atliekantis saugiųjų dokumentų ir saugiųjų dokumentų blankų apyvartos priežiūrą.
+
+
+
+
+26. Saugiųjų dokumentų ir saugiųjų dokumentų blankų gamybos įmonė (toliau – įmonė) – teisės aktų nustatyta tvarka įsteigtas ūkinis vienetas, turintis teisę verstis saugiųjų dokumentų ir saugiųjų dokumentų blankų gamyba.
+
+
+
+
+27. Saugiųjų dokumentų ir saugiųjų dokumentų blankų technologinė apsauga – technologinės apsaugos priemonių visuma saugiųjų dokumentų ir saugiųjų dokumentų blankų apsaugai nuo klastojimo užtikrinti.
+
+
+
+
+28. Saugusis dokumentas – Vyriausybės vertybinis popierius, banderolė, keleivinio transporto bilietas, oficialusis žymėjimo ženklas, priskirtas tam tikram saugiųjų dokumentų ir saugiųjų dokumentų blankų technologinės apsaugos lygiui ir polygiui.
+
+
+
+
+29. Saugusis dokumento blankas – dokumento blankas, priskirtas tam tikram saugiųjų dokumentų ir saugiųjų dokumentų blankų technologinės apsaugos lygiui ir polygiui.
+
+
+
+
+30. Specialiosios saugiųjų dokumentų ar saugiųjų dokumentų blankų gamybos medžiagos – specialusis popierius, specialieji dažai ir kitos saugiesiems dokumentams ar saugiesiems dokumentų blankams gaminti naudojamos medžiagos, kurios technologiškai juos apsaugo nuo klastojimo.
+
+
+
+
+31. Technologinės apsaugos priemonės gamintojas – juridinis asmuo, gaminantis technologinės apsaugos priemonę pagal Valstybės dokumentų technologinės apsaugos tarnybos prie Finansų ministerijos nurodytus techninius duomenis.
+
+
+
+
+32. Trečioji valstybė – bet kuri valstybė, kuri nėra Europos Sąjungos valstybė narė ar kita Europos ekonominės erdvės valstybė.
+
+
+
+
+33. Užsienio valstybės saugiųjų dokumentų ir saugiųjų dokumentų blankų gamybos įmonės filialas (toliau – užsienio valstybės įmonės filialas) – Lietuvos Respublikoje įsteigtas Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje įsisteigusios įmonės filialas, turintis teisę verstis saugiųjų dokumentų ir saugiųjų dokumentų blankų gamyba.
+
+
+
+
+34. Vyriausybės vertybinio popieriaus, banderolės, keleivinio transporto bilieto, oficialiojo žymėjimo ženklo, dokumento blanko privalomoji forma (toliau – privalomoji forma) – Vyriausybės vertybinio popieriaus, banderolės, keleivinio transporto bilieto, oficialiojo žymėjimo ženklo, dokumento blanko rekvizitai ir techniniai duomenys (pavidalas, matmenys, lapų skaičius ir kita).
+
+
+
+
+35. Vyriausybės vertybinis popierius – valstybės vardu vidaus ar užsienio rinkoje Vyriausybės išleidžiamas vertybinis popierius, kuriuo patvirtinama jo turėtojo teisė numatytais terminais gauti jo nominalią vertę atitinkančią sumą, palūkanas ar kitą ekvivalentą.
+
+
+
+
+36. Vyriausybės vertybinių popierių, banderolių, keleivinio transporto bilietų, oficialiųjų žymėjimo ženklų, dokumentų blankų privalomąsias formas tvirtinanti įstaiga (toliau – tvirtinanti įstaiga) – Lietuvos Respublikos valstybės ar savivaldybės institucija, įstaiga arba Lietuvos Respublikos ar Europos Sąjungos teisės aktais įgaliotas kitas juridinis asmuo, kuris tvirtina Vyriausybės vertybinių popierių, banderolių, keleivinio transporto bilietų, oficialiųjų žymėjimo ženklų, dokumentų blankų privalomąsias formas.
+ 
+
+
+
+
+
+
+3 straipsnis. Valstybės dokumentų technologinės apsaugos tarnyba prie Finansų ministerijos
+
+
+1. Saugiųjų dokumentų ir saugiųjų dokumentų blankų technologinę apsaugą ir licencijuojamos veiklos priežiūrą atlieka Valstybės dokumentų technologinės apsaugos tarnyba prie Finansų ministerijos (toliau – Tarnyba).
+
+
+
+
+2. Tarnybos nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
+
+
+
+
+3. Tarnyba:
+
+
+1) prižiūri, kaip gaminami saugiųjų dokumentų ir saugiųjų dokumentų blankų technologinės apsaugos priemonės ir etalonai;
+
+
+
+
+2) tvirtina privalomas ir papildomas technologinės apsaugos priemones ir nurodo technologinės apsaugos priemonių techninius duomenis;
+
+
+
+
+3) rengia, tvirtina ir saugo saugiųjų dokumentų ir saugiųjų dokumentų blankų eskizus, saugiųjų dokumentų ir saugiųjų dokumentų blankų grafinius projektus, saugiųjų dokumentų ir saugiųjų dokumentų blankų etalonus;
+
+
+
+
+4) rengia, tvirtina ir platina technologinės apsaugos priemonių aprašus visuomenei, specialistams ir ekspertams, nustato technologinės apsaugos priemonių aprašų slaptumo žymas;
 
 
 
@@ -246,7 +270,7 @@ Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010IS
 
 
 
-6) išduoda licencijas gaminti vertybinius popierius, dokumentų blankus, banderoles, oficialius žymėjimo ženklus, sustabdo licencijų galiojimą, panaikina licencijų galiojimo sustabdymą, panaikina licencijas;
+6) išduoda licencijas gaminti saugiuosius dokumentus ir saugiuosius dokumentų blankus, sustabdo licencijų galiojimą, panaikina licencijų galiojimo sustabdymą, panaikina licencijas;
 
 
 
@@ -256,41 +280,34 @@ Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010IS
 
 
 
-8) jeigu licencijuojama veikla susijusi su įslaptintos informacijos naudojimu, teikia informaciją apie gamintojus įslaptintų sandorių saugumą užtikrinančiai institucijai, kad būtų atliktas patikrinimas dėl įmonės patikimumą patvirtinančio pažymėjimo išdavimo, kad būtų gaunamas Valstybės saugumo departamento sutikimas dėl leidimo dirbti ar susipažinti su įslaptinta informacija, išduoda gamintojo darbuotojams leidimus dirbti ar susipažinti su įslaptinta informacija; 
-Papildyta straipsnio punktu:
-Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
- 
+8) jeigu licencijuojama veikla susijusi su įslaptintos informacijos naudojimu, teikia įslaptintų sandorių saugumą užtikrinančiai institucijai informaciją apie gamintojus, kad būtų atliktas patikrinimas dėl įmonės patikimumą patvirtinančio pažymėjimo išdavimo ir gautas Valstybės saugumo departamento sutikimas dėl leidimo dirbti ar susipažinti su įslaptinta informacija, išduoda gamintojo darbuotojams leidimus dirbti ar susipažinti su įslaptinta informacija;
 
 
 
 
-9) tvarko vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų registrą;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
- 
+9) tvarko Saugiųjų dokumentų ir saugiųjų dokumentų blankų registrą;
 
 
 
 
-10) teikia Finansų ministerijai pasiūlymus dėl vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų technologinę apsaugą, leidybą ir gamybą reglamentuojančių teisės aktų tobulinimo; 
-Straipsnio punkto numeracijos pakeitimas:
-Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
- 
+10) teikia Lietuvos Respublikos finansų ministerijai (toliau – Finansų ministerija) pasiūlymus dėl saugiųjų dokumentų ir saugiųjų dokumentų blankų technologinę apsaugą, leidybą ir gamybą reglamentuojančių teisės aktų tobulinimo;
 
 
 
 
-11) atlikdama savo funkcijas, bendradarbiauja su valstybės ir savivaldybių institucijomis bei įstaigomis nustatant neteisėtos vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybos atvejus;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
- 
+11) atlikdama savo funkcijas, bendradarbiauja su valstybės ir savivaldybių institucijomis bei įstaigomis nustatant neteisėtos saugiųjų dokumentų ir saugiųjų dokumentų blankų gamybos atvejus;
 
 
 
 
-12) atlieka kitas šio Įstatymo ir kitų teisės aktų pavestas funkcijas.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
+12) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
+
+
+
+
+
+
+4. Tarnybai duomenis apie saugiųjų dokumentų ir saugiųjų dokumentų blankų klastojimą ir klastojimo būdus teikia Lietuvos Respublikos vidaus reikalų ministerija ir ekspertizes atliekančios įstaigos.
  
 
 
@@ -298,38 +315,25 @@ Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010IS
 
 
 
-4. Tarnybai duomenis apie vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų klastojimą ir klastojimo būdus teikia Vidaus reikalų ministerija ir ekspertizes atliekančios įstaigos.
+4 straipsnis. Saugiųjų dokumentų ir saugiųjų dokumentų blankų registras
+
+
+1. Saugiųjų dokumentų ir saugiųjų dokumentų blankų registras yra saugiųjų dokumentų ir saugiųjų dokumentų blankų duomenų bazė.
 
 
 
 
-
-
-4 straipsnis. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų registras
-
-
-1. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų registras yra valstybės ir savivaldybių institucijų bei įstaigų ir Lietuvos Respublikos teisės aktais įgaliotų kitų juridinių asmenų, taip pat Europos Sąjungos institucijų nustatytų privalomai naudoti Lietuvos Respublikoje vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų, priskirtų technologinės apsaugos lygiui ir grupei, duomenų bazė. 
-Straipsnio dalies pakeitimai:
-Nr. X-369, 2005-10-18, Žin., 2005, Nr. 130-4663 (2005-11-03); Žin., 2005, Nr. 141-0 (2005-12-01), i. k. 1051010ISTA000X-369
- 
+2. Saugiųjų dokumentų ir saugiųjų dokumentų blankų registro objektas – saugieji dokumentai ir saugieji dokumentų blankai. Registro duomenų bazėje kaupiami duomenys apie saugiųjų dokumentų ir saugiųjų dokumentų blankų technologinę apsaugą, leidybą, gamybą ir klastojimą.
 
 
 
 
-2. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų registro objektas – duomenys apie valstybės ir savivaldybių institucijų bei įstaigų, kitų Lietuvos Respublikos teisės aktais įgaliotų juridinių asmenų, taip pat Europos Sąjungos institucijų nustatytus privalomai naudoti Lietuvos Respublikoje vertybinius popierius, dokumentų blankus, banderoles, oficialius žymėjimo ženklus. Registro duomenų bazėje kaupiami duomenys apie vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų, priskirtų technologinės apsaugos lygiui ir grupei, technologinę apsaugą, leidybą, gamybą ir klastojimą.
-Straipsnio dalies pakeitimai:
-Nr. X-369, 2005-10-18, Žin., 2005, Nr. 130-4663 (2005-11-03); Žin., 2005, Nr. 141-0 (2005-12-01), i. k. 1051010ISTA000X-369
- 
+3. Saugiųjų dokumentų ir saugiųjų dokumentų blankų registrą tvarko Tarnyba.
 
 
 
 
-3. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų registrą tvarko Tarnyba.
-
-
-
-
-4. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų registro nuostatus tvirtina Vyriausybė.
+4. Saugiųjų dokumentų ir saugiųjų dokumentų blankų registro nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
  
 
 
@@ -339,8 +343,8 @@ Nr. X-369, 2005-10-18, Žin., 2005, Nr. 130-4663 (2005-11-03); Žin., 2005, Nr. 
 
 
 
-ANTRASIS SKIRSNIS
-TECHNOLOGINĖS APSAUGOS PRIEMONĖS IR LYGIAI
+ANTRASIS SKIRSNIS 
+TECHNOLOGINĖS APSAUGOS PRIEMONĖS, LYGIAI IR POLYGIAI
  
 
 
@@ -355,24 +359,24 @@ TECHNOLOGINĖS APSAUGOS PRIEMONĖS IR LYGIAI
 
 
 
-2) antro lygio – technologinės apsaugos priemonės, identifikuojamos įranga, kuri patvirtina tam tikros technologinės apsaugos priemonės buvimą; skirtos specialistams;
+2) antro lygio – technologinės apsaugos priemonės, atpažįstamos įranga, kuri patvirtina tam tikros technologinės apsaugos priemonės buvimą, skirtos specialistams;
 
 
 
 
-3) trečio lygio – technologinės apsaugos priemonės, identifikuojamos įranga, kuri patvirtina tam tikros technologinės apsaugos priemonės buvimą; skirtos ekspertams ir žinomos Tarnybai, išleidžiančiai įstaigai, jeigu ji to pageidauja, bei gamintojui, jeigu tai būtina vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybos procesui; 
+3) trečio lygio – technologinės apsaugos priemonės, atpažįstamos įranga, kuri patvirtina tam tikros technologinės apsaugos priemonės buvimą, skirtos ekspertams ir žinomos Tarnybai, tvirtinančiai įstaigai, jeigu ji to pageidauja ir yra paslapčių subjektas, ir gamintojui, jeigu tai būtina saugiųjų dokumentų ar saugiųjų dokumentų blankų gamybos procesui;
 
 
 
 
-4) ketvirto lygio – technologinės apsaugos priemonės, identifikuojamos įranga, kuri patvirtina tam tikros technologinės apsaugos priemonės buvimą ir nurodo jos techninius duomenis, žinomos tik Tarnybos vadovui ir (ar) keliems jo įgaliotiems atstovams bei technologinės apsaugos priemonės gamintojui.
+4) ketvirto lygio – technologinės apsaugos priemonės, atpažįstamos įranga, kuri patvirtina tam tikros technologinės apsaugos priemonės buvimą ir nurodo jos techninius duomenis, žinomos tik Tarnybos direktoriui ir (ar) keliems jo įgaliotiems atstovams, turintiems leidimą dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Slaptai“, ir technologinės apsaugos priemonės gamintojui.
 
 
 
 
 
 
-2. Konkrečias technologinės apsaugos priemones technologinės apsaugos priemonių lygiui priskiria ir tvirtina Tarnyba.
+2. Konkrečias technologinės apsaugos priemones prie tam tikro technologinės apsaugos priemonių lygio priskiria ir tvirtina Tarnyba.
 
 
 
@@ -380,12 +384,12 @@ TECHNOLOGINĖS APSAUGOS PRIEMONĖS IR LYGIAI
 3. Pagal panaudojimą technologinės apsaugos priemonės skirstomos į šias rūšis:
 
 
-1) privalomos – visuma būtinų technologinės apsaugos priemonių vertybinių popierių, dokumentų blankų, banderolių ir oficialių žymėjimo ženklų technologinės apsaugos lygiui užtikrinti;
+1) privalomos – visuma būtinų technologinės apsaugos priemonių saugiųjų dokumentų ar saugiųjų dokumentų blankų technologinės apsaugos lygiui užtikrinti;
 
 
 
 
-2) papildomos – visuma pasirinktinai naudojamų technologinės apsaugos priemonių vertybinių popierių, dokumentų blankų, banderolių ir oficialių žymėjimo ženklų technologinės apsaugos lygiui sustiprinti.
+2) papildomos – visuma pasirinktinai naudojamų technologinės apsaugos priemonių saugiųjų dokumentų ar saugiųjų dokumentų blankų technologinės apsaugos lygiui sustiprinti.
  
 
 
@@ -395,10 +399,10 @@ TECHNOLOGINĖS APSAUGOS PRIEMONĖS IR LYGIAI
 
 
 
-6 straipsnis. Technologinės apsaugos lygiai
+6 straipsnis. Technologinės apsaugos lygiai ir polygiai
 
 
-1. Pagal technologinės apsaugos lygį vertybiniai popieriai, dokumentų blankai, banderolės, oficialūs žymėjimo ženklai skirstomi į:
+1. Saugieji dokumentai ir saugieji dokumentų blankai skirstomi pagal technologinės apsaugos lygius į:
 
 
 1) aukščiausio technologinės apsaugos lygio;
@@ -411,7 +415,7 @@ TECHNOLOGINĖS APSAUGOS PRIEMONĖS IR LYGIAI
 
 
 
-3) vidutinio technologinės apsaugos lygio; 
+3) vidutinio technologinės apsaugos lygio;
 
 
 
@@ -423,58 +427,32 @@ TECHNOLOGINĖS APSAUGOS PRIEMONĖS IR LYGIAI
 
 
 
-2. Technologinės apsaugos lygiai gali būti skirstomi į grupes.
+2. Technologinės apsaugos lygiai skirstomi į polygius.
 
 
 
 
-3. Vertybinius popierius, dokumentų blankus, banderoles, oficialius žymėjimo ženklus vertina ir technologinės apsaugos lygiui ir grupei priskiria bei technologinės apsaugos priemonių kiekį konkrečiam technologinės apsaugos lygiui ir grupei nustato Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų technologinės apsaugos nustatymo komisija (toliau – Komisija) po vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų privalomąją formą patvirtinančio teisės akto paskelbimo. Komisijos sprendimai skelbiami oficialaus leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“. 
-Straipsnio dalies pakeitimai:
-Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
- 
+3. Saugiųjų dokumentų ir saugiųjų dokumentų blankų technologinės apsaugos nustatymo komisija (toliau – Komisija) suskirsto technologinės apsaugos lygius į polygius, nustato technologinės apsaugos priemonių kiekį polygiuose, paskirstydama technologinės apsaugos priemones polygiuose pagal technologinės apsaugos priemonių lygius.
 
 
 
 
-4. Komisiją sudaro 7 nariai – po vieną atstovą iš Tarnybos, Asmens dokumentų išrašymo centro prie Vidaus reikalų ministerijos, Finansų ministerijos, Užsienio reikalų ministerijos, Valstybės saugumo departamento, Lietuvos teismo ekspertizės centro ir Lietuvos policijos Kriminalistinių tyrimų centro. Komisijos personalinę sudėtį, pirmininką ir darbo reglamentą tvirtina Vyriausybė ar jos įgaliota institucija. 
-Straipsnio dalies pakeitimai:
-Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
-Nr. X-369, 2005-10-18, Žin., 2005, Nr. 130-4663 (2005-11-03); Žin., 2005, Nr. 141-0 (2005-12-01), i. k. 1051010ISTA000X-369
- 
+4. Vyriausybės vertybinius popierius, banderoles, keleivinio transporto bilietus, oficialiuosius žymėjimo ženklus, dokumentų blankus vertina ir technologinės apsaugos lygiui ir polygiui priskiria Komisija po Vyriausybės vertybinių popierių, banderolių, keleivinio transporto bilietų, oficialiųjų žymėjimo ženklų, dokumentų blankų privalomąją formą patvirtinančio teisės akto paskelbimo, jei toks skelbimas teisės aktais yra numatytas.
 
 
 
 
-5. Komisijos posėdžiuose privalo dalyvauti išleidžiančios įstaigos atstovas. Prireikus į Komisijos posėdžius gali būti kviečiami ir kitų institucijų atstovai, nepriklausomi ekspertai.
- 
+5. Komisijos sprendimai skelbiami leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“.
 
 
 
 
-
-
-7 straipsnis. Privalomų ir papildomų technologinės apsaugos priemonių sąrašų derinimas ir tvirtinimas
-
-
-1. Išleidžiančios įstaigos sprendimu, be privalomų vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų technologinės apsaugos priemonių sąrašo, gali būti naudojamos ir papildomos technologinės apsaugos priemonės. Jų sąrašą tvirtina Tarnyba, suderinusi su išleidžiančia įstaiga.
+6. Komisiją sudaro 7 nariai – po vieną atstovą iš Tarnybos, Asmens dokumentų išrašymo centro prie Vidaus reikalų ministerijos, Finansų ministerijos, Lietuvos Respublikos užsienio reikalų ministerijos, Lietuvos Respublikos valstybės saugumo departamento, Lietuvos teismo ekspertizės centro ir Lietuvos policijos kriminalistinių tyrimų centro. Komisijos personalinę sudėtį, pirmininką ir darbo reglamentą tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
 
 
 
-2. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų privalomų ir papildomų technologinės apsaugos priemonių sąrašų derinimo ir tvirtinimo taisykles nustato Tarnyba.
-
-
-
-
-3. Jei Tarnyba turi duomenų apie vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų klastojimą, suderinusi su išleidžiančia įstaiga, ji gali priimti sprendimą dėl patvirtintų technologinės apsaugos priemonių sąrašo keitimo ir (ar) papildymo arba teikti pasiūlymus Komisijai:
-
-
-1) priskirti vertybinį popierių, dokumento blanką, banderolę, oficialų žymėjimo ženklą aukštesniam technologinės apsaugos lygiui ir (ar) grupei;
-
-
-
-
-2) pakeisti technologinės apsaugos priemonių kiekį konkrečiam technologinės apsaugos lygiui ir grupei.
+7. Komisijos posėdžiuose privalo dalyvauti tvirtinančios įstaigos atstovas. Prireikus į Komisijos posėdžius gali būti kviečiami ir kitų institucijų atstovai, nepriklausomi ekspertai.
  
 
 
@@ -482,12 +460,41 @@ Nr. X-369, 2005-10-18, Žin., 2005, Nr. 130-4663 (2005-11-03); Žin., 2005, Nr. 
 
 
 
+7 straipsnis. Privalomų ir papildomų technologinės apsaugos priemonių derinimas ir tvirtinimas
 
 
-8 straipsnis. Technologinės apsaugos priemonių naudojimo aprašymai 
+1. Tvirtinančios įstaigos sprendimu, be privalomų technologinės apsaugos priemonių, gali būti naudojamos ir papildomos technologinės apsaugos priemonės. Papildomas technologinės apsaugos priemones tvirtina Tarnyba, suderinusi su tvirtinančia įstaiga.
 
 
-1. Tarnyba, gavusi pavyzdžius, per dešimt darbo dienų privalo parengti ir patvirtinti technologinės apsaugos priemonių naudojimo aprašymus visuomenei, specialistams ir ekspertams.
+
+
+2. Saugiųjų dokumentų ir saugiųjų dokumentų blankų privalomų ir papildomų technologinės apsaugos priemonių derinimo ir tvirtinimo taisykles nustato Tarnyba.
+
+
+
+
+3. Jei Tarnyba turi duomenų apie saugiųjų dokumentų ar saugiųjų dokumentų blankų klastojimą, ji, suderinusi su tvirtinančia įstaiga, gali priimti sprendimą dėl patvirtintų technologinės apsaugos priemonių keitimo ir (ar) papildymo arba teikti Komisijai pasiūlymus:
+
+
+1) priskirti saugųjį dokumentą ar saugųjį dokumento blanką aukštesniam technologinės apsaugos lygiui ir (ar) polygiui;
+
+
+
+
+2) pakeisti konkretaus technologinės apsaugos lygio ir polygio technologinės apsaugos priemonių kiekį.
+ 
+
+
+
+
+
+
+
+
+8 straipsnis. Technologinės apsaugos priemonių aprašai
+
+
+1. Tarnyba, gavusi saugiųjų dokumentų ar saugiųjų dokumentų blankų pavyzdžius, per 15 darbo dienų privalo parengti ir Tarnybos direktoriaus įsakymu patvirtinti technologinės apsaugos priemonių aprašus, pateikiamus visuomenei, specialistams ir ekspertams.
 
 
 
@@ -495,17 +502,24 @@ Nr. X-369, 2005-10-18, Žin., 2005, Nr. 130-4663 (2005-11-03); Žin., 2005, Nr. 
 2. Tarnyba privalo:
 
 
-1) technologinės apsaugos priemonių naudojimo aprašymą visuomenei kartu su vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų pavyzdžiais bei panaudotų technologinės apsaugos priemonių išdėstymo schema paskelbti oficialaus leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“ ir Tarnybos interneto tinklapyje;
+1) technologinės apsaugos priemonių aprašą visuomenei paskelbti leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“ ir Tarnybos interneto svetainėje;
 
 
 
 
-2) technologinės apsaugos priemonių naudojimo aprašymą specialistams kartu su vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų pavyzdžiais bei panaudotų technologinės apsaugos priemonių išdėstymo schema pateikti vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų apyvartos priežiūrą atliekančioms institucijoms, pateikusioms raštišką prašymą Tarnybai; 
+2) technologinės apsaugos priemonių aprašą specialistams pateikti saugiųjų dokumentų ar saugiųjų dokumentų blankų apyvartos priežiūrą atliekančioms institucijoms, pateikusioms rašytinį prašymą Tarnybai;
 
 
 
 
-3) technologinės apsaugos priemonių naudojimo aprašymą ekspertams kartu su vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų pavyzdžiais bei panaudotų technologinės apsaugos priemonių išdėstymo schema pateikti ekspertizę atliekančioms įstaigoms, pateikusioms raštišką prašymą Tarnybai.
+3) technologinės apsaugos priemonių aprašą ekspertams pateikti ekspertizę atliekančioms įstaigoms, pateikusioms rašytinį prašymą Tarnybai.
+
+
+
+
+
+
+3. Technologinės apsaugos priemonių aprašų rengimo tvarką tvirtina Tarnyba.
  
 
 
@@ -515,32 +529,45 @@ Nr. X-369, 2005-10-18, Žin., 2005, Nr. 130-4663 (2005-11-03); Žin., 2005, Nr. 
 
 
 
-
-
-TREČIASIS SKIRSNIS
-VERTYBINIŲ POPIERIŲ, DOKUMENTŲ BLANKŲ, BANDEROLIŲ, OFICIALIŲ ŽYMĖJIMO ŽENKLŲ LEIDYBA IR GAMYBA
+TREČIASIS SKIRSNIS 
+SAUGIŲJŲ DOKUMENTŲ AR SAUGIŲJŲ DOKUMENTŲ BLANKŲ LEIDYBA IR GAMYBA
  
 
 
-9 straipsnis. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų privalomosios formos rengimas ir tvirtinimas
+9 straipsnis. Vyriausybės vertybinių popierių, banderolių, keleivinio transporto bilietų, oficialiųjų žymėjimo ženklų, dokumentų blankų privalomosios formos rengimas ir tvirtinimas
 
 
-1. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų privalomąją formą rengia ir tvirtina išleidžianti įstaiga. Patvirtinusi vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų privalomąją formą, išleidžianti įstaiga privalo kreiptis į Komisiją dėl vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų priskyrimo technologinės apsaugos lygiui ir grupei bei technologinės apsaugos priemonių kiekio nustatymo.
-
-
-
-
-2. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų tekstas ir rekvizitai turi atitikti bendrinės lietuvių kalbos normas ir raštvedybos reikalavimus.
+1. Vyriausybės vertybinių popierių, banderolių, keleivinio transporto bilietų, oficialiųjų žymėjimo ženklų, dokumentų blankų privalomąją formą rengia ir tvirtina tvirtinanti įstaiga. Rengiamoje privalomojoje formoje serija žymima raide (raidėmis) „X“, o numeris žymimas skaitmeniu (skaitmenimis) „0“.
 
 
 
 
-3. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų tekstas ir rekvizitai turi būti suderinti su Lietuvos archyvų departamentu prie Lietuvos Respublikos Vyriausybės.
+2. Vyriausybės vertybinių popierių, banderolių, keleivinio transporto bilietų, oficialiųjų žymėjimo ženklų, dokumentų blankų tekstas ir rekvizitai turi atitikti bendrinės lietuvių kalbos normas ir raštvedybos reikalavimus.
 
 
 
 
-4. Už vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų privalomojoje formoje įrašytą tekstą atsakinga išleidžianti įstaiga.
+3. Vyriausybės vertybinių popierių, banderolių, keleivinio transporto bilietų, oficialiųjų žymėjimo ženklų, dokumentų blankų tekstas ir rekvizitai turi būti suderinti su Lietuvos archyvų departamentu prie Lietuvos Respublikos Vyriausybės.
+
+
+
+
+4. Už Vyriausybės vertybinių popierių, banderolių, keleivinio transporto bilietų, oficialiųjų žymėjimo ženklų, dokumentų blankų privalomojoje formoje įrašytą tekstą atsakinga tvirtinanti įstaiga.
+
+
+
+
+5. Patvirtinusi Vyriausybės vertybinių popierių, banderolių, keleivinio transporto bilietų, oficialiųjų žymėjimo ženklų, dokumentų blankų privalomąją formą, po privalomosios formos patvirtinančio teisės akto paskelbimo, jei toks skelbimas teisės aktu yra numatytas, tvirtinanti įstaiga per 30 dienų privalo kreiptis į Komisiją dėl Vyriausybės vertybinių popierių, banderolių, keleivinio transporto bilietų, oficialiųjų žymėjimo ženklų, dokumentų blankų vertinimo ir priskyrimo technologinės apsaugos lygiui ir polygiui. Jei Vyriausybės vertybinių popierių, banderolių, keleivinio transporto bilietų, oficialiųjų žymėjimo ženklų, dokumentų blankų privalomosios formos skelbimas teisės aktu nenumatytas, tvirtinanti įstaiga per 30 dienų po privalomosios formos patvirtinimo privalo kreiptis į Komisiją. Komisija ne vėliau kaip per vieną mėnesį nuo tvirtinančios įstaigos kreipimosi į Komisiją dienos privalo įvertinti ir priskirti Vyriausybės vertybinius popierius, banderoles, keleivinio transporto bilietus, oficialiuosius žymėjimo ženklus, dokumentų blankus technologinės apsaugos lygiui ir polygiui.
+
+
+
+
+6. Jeigu Vyriausybės vertybinių popierių, banderolių, keleivinio transporto bilietų, oficialiųjų žymėjimo ženklų, dokumentų blankų privalomąją formą tvirtina Lietuvos Respublikos Vyriausybė, į Komisiją privalo kreiptis tos valdymo srities ministerija
+
+
+
+
+7. Tvirtinanti įstaiga vadovo įsakymu privalo paskirti asmenį, atsakingą už kreipimąsi į Komisiją šio įstatymo nustatyta tvarka.
  
 
 
@@ -548,38 +575,38 @@ VERTYBINIŲ POPIERIŲ, DOKUMENTŲ BLANKŲ, BANDEROLIŲ, OFICIALIŲ ŽYMĖJIMO Ž
 
 
 
-10 straipsnis. Projektavimo paraiška
+10 straipsnis. Paraiška įregistruoti saugųjį dokumentą ar saugųjį dokumento blanką į Saugiųjų dokumentų ir saugiųjų dokumentų blankų registrą ir parengti saugiojo dokumento ar saugiojo dokumento blanko eskizą ir grafinį projektą
 
 
-1. Išleidžianti įstaiga po vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų priskyrimo technologinės apsaugos lygiui ir grupei pateikia Tarnybai vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų patvirtintą privalomąją formą ir projektavimo paraišką rengti vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų eskizą. Dėl kiekvieno vertybinio popieriaus, dokumento blanko, banderolės, oficialaus žymėjimo ženklo paduodama atskira projektavimo paraiška.
-
-
-
-
-2. Projektavimo paraiškoje nurodoma:
-
-
-1) vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų pavadinimas;
+1. Tvirtinanti įstaiga po Vyriausybės vertybinių popierių, banderolių, keleivinio transporto bilietų, oficialiųjų žymėjimo ženklų, dokumentų blankų priskyrimo technologinės apsaugos lygiui ir polygiui ir Komisijos sprendimo paskelbimo leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“ per 30 dienų pateikia Tarnybai paraišką įregistruoti saugųjį dokumentą ar saugųjį dokumento blanką į Saugiųjų dokumentų ir saugiųjų dokumentų blankų registrą ir parengti saugiojo dokumento ar saugiojo dokumento blanko eskizą ir grafinį projektą (toliau – paraiška). Dėl kiekvieno saugiojo dokumento ar saugiojo dokumento blanko paduodama atskira paraiška.
 
 
 
 
-2) vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų numerių arba serijos ir numerių ženklų skaičius;
+2. Paraiškoje nurodoma:
+
+
+1) saugiojo dokumento ar saugiojo dokumento blanko pavadinimas;
 
 
 
 
-3) numatomas pagaminti vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų tiražas;
+2) saugiojo dokumento ar saugiojo dokumento blanko numerių arba serijos ir numerių ženklų skaičius;
 
 
 
 
-4) teisės akto, kuriuo patvirtinta vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų privalomoji forma, oficialaus paskelbimo šaltiniai; 
+3) numatomas pagaminti saugiųjų dokumentų ar saugiųjų dokumentų blankų tiražas;
 
 
 
 
-5) vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų technologinės apsaugos lygis ir grupė;
+4) teisės akto, kuriuo patvirtinta Vyriausybės vertybinio popieriaus, banderolės, keleivinio transporto bilieto, oficialiojo žymėjimo ženklo, dokumento blanko privalomoji forma, oficialaus paskelbimo šaltiniai, jei toks skelbimas teisės aktu yra nustatytas;
+
+
+
+
+5) saugiojo dokumento ar saugiojo dokumento blanko technologinės apsaugos lygis ir polygis;
 
 
 
@@ -589,30 +616,14 @@ VERTYBINIŲ POPIERIŲ, DOKUMENTŲ BLANKŲ, BANDEROLIŲ, OFICIALIŲ ŽYMĖJIMO Ž
 
 
 
-Straipsnio pakeitimai:
-Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
- 
+
+
+3. Tvirtinančios įstaigos, kuri privalo pateikti paraišką Tarnybai, vadovas įsakymu turi paskirti asmenį, atsakingą už paraiškos pateikimą šio įstatymo nustatyta tvarka.
 
 
 
 
-11 straipsnis. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų eskizo rengimas ir tvirtinimas
-
-
-1. Tarnyba ne vėliau kaip per du mėnesius nuo projektavimo paraiškos gavimo dienos parengia vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų eskizo projektą.
-
-
-
-
-2. Tarnyba, rengdama vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų eskizą, jį derina su Lietuvos heraldikos komisija (jeigu vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų projekte (toliau – projektas) naudojama Lietuvos Respublikos heraldika), Valstybine kultūros paveldo komisija (jei projekte naudojami architektūros paminklų atvaizdai), Kultūros ministerija (jei projekte naudojami kultūros (muzikos, dailės, kitų menų) motyvai, veikėjai ar asmenybės) ar su kitomis institucijomis, jeigu pagal galiojančius teisės aktus toks derinimas numatytas. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų eskizai tvirtinami išleidžiančios įstaigos ir Tarnybos vadovų parašais ir antspaudais, nurodoma eskizo tvirtinimo data. 
-Straipsnio dalies pakeitimai:
-Nr. IX-2568, 2004-11-11, Žin., 2004, Nr. 171-6316 (2004-11-26), i. k. 1041010ISTA0IX-2568
- 
-
-
-
-
-3. Jei išleidžianti įstaiga nesutinka su vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų eskizo projektu, ji teikia Tarnybai motyvuotas pastabas. Tokiu atveju Tarnyba per dešimt darbo dienų nuo pastabų gavimo turi pateikti išleidžiančiai įstaigai naują vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų eskizo projektą.
+4. Paraiškos formą ir jos pildymo taisykles tvirtina Tarnyba.
  
 
 
@@ -620,22 +631,15 @@ Nr. IX-2568, 2004-11-11, Žin., 2004, Nr. 171-6316 (2004-11-26), i. k. 1041010IS
 
 
 
-12 straipsnis. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų grafinio projekto rengimas ir tvirtinimas
+11 straipsnis. Saugiojo dokumento ar saugiojo dokumento blanko eskizo rengimas ir tvirtinimas
 
 
-1. Patvirtinusi vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų eskizą, Tarnyba parengia vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų grafinį projektą.
-
-
-
-
-2. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų grafinis projektas tvirtinamas išleidžiančios įstaigos ir Tarnybos vadovų parašais bei antspaudais, nurodoma grafinio projekto tvirtinimo data.
+1. Tarnyba ne vėliau kaip per 30 darbo dienų nuo privalomų arba privalomų ir papildomų technologinės apsaugos priemonių patvirtinimo dienos parengia saugiojo dokumento ar saugiojo dokumento blanko eskizo projektą (toliau – eskizo projektas).
 
 
 
 
-3. Patvirtintas vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų grafinis projektas skaitmenine laikmena perduodamas gamintojui.
-Straipsnio dalies pakeitimai:
-Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
+2. Tarnyba, rengdama saugiojo dokumento ar saugiojo dokumento blanko eskizo projektą, jį derina su Lietuvos heraldikos komisija prie Respublikos Prezidento (jeigu eskizo projekte naudojama Lietuvos Respublikos heraldika), Valstybine kultūros paveldo komisija (jei eskizo projekte naudojami architektūros paminklų atvaizdai), Lietuvos Respublikos kultūros ministerija (jei eskizo projekte naudojami kultūros (muzikos, dailės, kitų menų) motyvai, veikėjai ar asmenybės), tvirtinančia įstaiga ar su kitomis institucijomis, jeigu pagal galiojančius teisės aktus toks derinimas numatytas. Lietuvos heraldikos komisija prie Respublikos Prezidento, Valstybinė kultūros paveldo komisija, Lietuvos Respublikos kultūros ministerija, tvirtinanti įstaiga ar kitos institucijos Tarnybos pateiktą saugiojo dokumento ar saugiojo dokumento blanko eskizo projektą suderina arba pateikia motyvuotas pastabas per 10 darbo dienų nuo jo gavimo dienos. Suderintą saugiojo dokumento ar saugiojo dokumento blanko eskizą Tarnyba per 2 darbo dienas teikia tvirtinti tvirtinančiai įstaigai. Tvirtinančiai įstaigai patvirtinus saugiojo dokumento ar saugiojo dokumento blanko eskizą, Tarnybos direktorius jį patvirtina per 2 darbo dienas. Saugiojo dokumento ar saugiojo dokumento blanko eskizas tvirtinamas aktu, kurio formą tvirtina Tarnyba, kurį pasirašo tvirtinančios įstaigos ir Tarnybos vadovai. Toks aktas tvirtinamas tvirtinančios įstaigos ir Tarnybos antspaudais ir nurodoma saugiojo dokumento ar saugiojo dokumento blanko eskizo tvirtinimo data.
  
 
 
@@ -643,10 +647,20 @@ Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010IS
 
 
 
-13 straipsnis. Gamintojo parinkimas 
+12 straipsnis. Saugiojo dokumento ar saugiojo dokumento blanko grafinio projekto rengimas ir tvirtinimas
 
 
-Gamintoją įstatymų ir kitų teisės aktų nustatyta tvarka parenka užsakovas.
+1. Patvirtinus saugiojo dokumento ar saugiojo dokumento blanko eskizą ir užsakovui raštu pranešus Tarnybai apie pasirinktą saugiojo dokumento ar saugiojo dokumento blanko gamintoją ir užsakymo pagaminti saugųjį dokumentą ar saugųjį dokumento blanką pateikimo datą, Tarnyba per 30 darbo dienų parengia saugiojo dokumento ar saugiojo dokumento blanko grafinį projektą. Jeigu tvirtinanti įstaiga nesutinka su saugiojo dokumento ar saugiojo dokumento blanko grafiniu projektu, ji per 5 darbo dienas pateikia Tarnybai motyvuotas pastabas. Jeigu pastabų nėra, tvirtinanti įstaiga patvirtina saugiojo dokumento ar saugiojo dokumento blanko grafinį projektą ir jį pateikia Tarnybai. Tarnybos vadovas šį saugiojo dokumento ar saugiojo dokumento blanko grafinį projektą patvirtina per 2 darbo dienas.
+
+
+
+
+2. Saugiojo dokumento ar saugiojo dokumento blanko grafinis projektas tvirtinamas tvirtinančios įstaigos ir Tarnybos vadovų parašais bei antspaudais, nurodoma saugiojo dokumento ar saugiojo dokumento blanko grafinio projekto tvirtinimo data. Saugiojo dokumento ar saugiojo dokumento blanko grafinis projektas tvirtinamas aktu, kurio formą tvirtina Tarnyba.
+
+
+
+
+3. Kai užsakovas raštu nurodo Tarnybai gamintoją ir užsakymo pagaminti saugųjį dokumentą ar saugųjį dokumento blanką pateikimo gamintojui datą, Tarnyba per 10 darbo dienų patvirtintą saugiojo dokumento ar saugiojo dokumento blanko grafinį projektą skaitmenine (elektronine) laikmena perduoda gamintojui.
  
 
 
@@ -654,35 +668,15 @@ Gamintoją įstatymų ir kitų teisės aktų nustatyta tvarka parenka užsakovas
 
 
 
-14 straipsnis. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų etalono rengimas, tvirtinimas ir saugojimas
+13 straipsnis. Gamintojo parinkimas
 
 
-1. Pagal patvirtintą vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų privalomąją formą, grafinį projektą bei patvirtintus privalomų ir papildomų technologinės apsaugos priemonių sąrašus gamintojas pagamina vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų etaloną.
-
-
-
-
-2. Gaminant vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų etaloną, dalyvauja Tarnybos atstovas. Tarnybos atstovui patvirtinus, kad vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų etalono projekte yra visos patvirtintos technologinės apsaugos priemonės, gamintojas gali teikti tvirtinti vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų etaloną. 
+1. Gamintoją įstatymų ir kitų teisės aktų nustatyta tvarka parenka užsakovas.
 
 
 
 
-3. Etalonas privalo turėti metriką ir nulinę numeraciją arba metriką ir serijas, žymimas raide (raidėmis) „X“, taip pat nulinę numeraciją arba metriką ir serijas, žymimas skaitmeniu (skaitmenimis) „0“ ir raide (raidėmis) „X“, bei nulinę numeraciją.
-
-
-
-
-4. Tvirtinant vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų etaloną, surašomas gaminio etalono tvirtinimo aktas. Jo formą tvirtina Tarnyba. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų etalonas tvirtinamas išleidžiančios įstaigos, Tarnybos bei gamintojo atstovų parašais bei antspaudais, nurodoma vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų etalono tvirtinimo data. 
-
-
-
-
-5. Naujas etalonas netvirtinamas, jei keičiama vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų metrika arba jei užsakovas susitaria su gamintoju dėl vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų užpildymo spaustuviniu būdu, nekeičiant privalomosios jų formos.
-
-
-
-
-6. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų etaloną po vieną egzempliorių saugo išleidžianti įstaiga, Tarnyba ir gamintojas.
+2. Užsakovas, organizuodamas saugiųjų dokumentų ar saugiųjų dokumentų blankų gamybos paslaugų, saugiųjų dokumentų ar saugiųjų dokumentų blankų pirkimą, pirkimo dokumentuose privalo nurodyti, kad saugieji dokumentai ar saugiųjų dokumentų blankai bus gaminami laikantis šio įstatymo ir kitų teisės aktų, reglamentuojančių saugiųjų dokumentų ir saugiųjų dokumentų blankų gamybą, reikalavimų.
  
 
 
@@ -690,20 +684,35 @@ Gamintoją įstatymų ir kitų teisės aktų nustatyta tvarka parenka užsakovas
 
 
 
-15 straipsnis. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų pavyzdžiai
+14 straipsnis. Saugiojo dokumento ar saugiojo dokumento blanko etalono rengimas, tvirtinimas ir saugojimas
 
 
-1. Patvirtinus vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų etaloną, gamintojas per penkiolika darbo dienų privalo pateikti Tarnybai ir užsakovui Tarnybos nustatytą vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų pavyzdžių skaičių.
-
-
-
-
-2. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų pavyzdžius gamintojas turi užregistruoti vadovaudamasis Darbo uždarojo režimo sąlygomis taisyklėmis. Jas tvirtina Vyriausybė arba jos įgaliota institucija.
+1. Pagal patvirtintą Vyriausybės vertybinio popieriaus, banderolės, keleivinio transporto bilieto, oficialiojo žymėjimo ženklo, dokumento blanko privalomąją formą, saugiojo dokumento ar saugiojo dokumento blanko grafinį projektą ir patvirtintas privalomas, privalomas ir papildomas technologinės apsaugos priemones gamintojas pagamina saugiojo dokumento ar saugiojo dokumento blanko etaloną.
 
 
 
 
-3. Gamintojas savo reikmėms gali turėti gaminių pavyzdžių, kurie privalo būti su registracijos numeriu ir įraukti į apskaitą.
+2. Gaminant saugiojo dokumento ar saugiojo dokumento blanko etaloną, dalyvauja Tarnybos atstovas. Tarnybos atstovui patvirtinus, kad saugiojo dokumento ar saugiojo dokumento blanko etalono projekte yra visos patvirtintos technologinės apsaugos priemonės, saugiojo dokumento ar saugiojo dokumento blanko etalono projektas pagamintas pagal Vyriausybės vertybinio popieriaus, banderolės, keleivinio transporto bilieto, oficialiojo žymėjimo ženklo, dokumento blanko privalomąją formą ir saugiojo dokumento ar saugiojo dokumento blanko grafinį projektą, gamintojas gali teikti tvirtinti saugiojo dokumento ar saugiojo dokumento blanko etaloną. Saugiojo dokumento ar saugiojo dokumento blanko etalono tvirtinimo taisykles tvirtina Tarnyba.
+
+
+
+
+3. Saugiojo dokumento ar saugiojo dokumento blanko etalonas privalo turėti saugiojo dokumento ar saugiojo dokumento blanko metriką ir nulinę numeraciją arba saugiojo dokumento ar saugiojo dokumento blanko metriką ir serijas, žymimas raide (raidėmis) „X“, taip pat nulinę numeraciją arba saugiojo dokumento ar saugiojo dokumento blanko metriką ir serijas, žymimas skaitmeniu (skaitmenimis) „0“ ir raide (raidėmis) „X“, bei nulinę numeraciją.
+
+
+
+
+4. Tvirtinant saugiojo dokumento ar saugiojo dokumento blanko etaloną, surašomas saugiojo dokumento ar saugiojo dokumento blanko etalono tvirtinimo aktas, kurio formą tvirtina Tarnyba. Saugiojo dokumento ar saugiojo dokumento blanko etalonas tvirtinamas tvirtinančios įstaigos, pateikusios paraišką, Tarnybos ir gamintojo atstovų parašais ir antspaudais, nurodoma saugiojo dokumento ar saugiojo dokumento blanko etalono tvirtinimo data.
+
+
+
+
+5. Naujas saugiojo dokumento ar saugiojo dokumento blanko etalonas netvirtinamas, jei saugiojo dokumento ar saugiojo dokumento blanko metrikoje keičiami užsakymo pateikimo gamintojui metai arba jei užsakovas susitaria su gamintoju dėl saugiojo dokumento ar saugiojo dokumento blanko užpildymo spaustuviniu būdu, nekeičiant Vyriausybės vertybinio popieriaus, banderolės, keleivinio transporto bilieto, oficialiojo žymėjimo ženklo, dokumento blanko privalomosios formos. Apie būtinybę keisti saugiojo dokumento ar saugiojo dokumento blanko metriką užsakovas raštu privalo informuoti Tarnybą, pateikdamas duomenis apie užsakymo pateikimo gamintojui metus.
+
+
+
+
+6. Saugiojo dokumento ar saugiojo dokumento blanko etaloną po vieną egzempliorių saugo tvirtinanti įstaiga, Tarnyba ir gamintojas.
  
 
 
@@ -711,25 +720,20 @@ Gamintoją įstatymų ir kitų teisės aktų nustatyta tvarka parenka užsakovas
 
 
 
-16 straipsnis. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų tiražo spausdinimas
+15 straipsnis. Saugiojo dokumento ar saugiojo dokumento blanko pavyzdžiai
 
 
-1. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų tiražas pradedamas spausdinti tada, kai patvirtinamas vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų etalonas.
-
-
-
-
-2. Gaminamas tik užsakyme nurodytas vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų kiekis.
+1. Patvirtinus saugiojo dokumento ar saugiojo dokumento blanko etaloną, gamintojas per 15 darbo dienų privalo pateikti Tarnybai ir užsakovui Tarnybos nustatytą saugiojo dokumento ar saugiojo dokumento blanko pavyzdžių skaičių.
 
 
 
 
-3. Gamintojas, gavęs užsakymą, per tris darbo dienas privalo raštu pranešti Tarnybai apie kiekvieną gautą užsakymą gaminti vertybinius popierius, dokumentų blankus, banderoles, oficialius žymėjimo ženklus, nurodydamas užsakovą, užsakymo numerį, užsakytų vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų pavadinimą, identifikavimo numerį, užsakytų gaminių kiekį, užsakymo gavimo datą.
+2. Saugiojo dokumento ar saugiojo dokumento blanko pavyzdžius gamintojas turi užregistruoti vadovaudamasis Darbo uždarojo režimo sąlygomis taisyklėmis. Jas tvirtina Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
 
 
 
 
-4. Gamintojas, įvykdęs užsakymą, per penkias darbo dienas privalo apie tai raštu pranešti Tarnybai nurodydamas pagamintų vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų užsakymo numerį, užsakovą, gaminių kiekį, vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų pavadinimus, identifikavimo numerius, serijas ir numerius.
+3. Gamintojas savo reikmėms gali turėti saugiųjų dokumentų ar saugiųjų dokumentų blankų pavyzdžių, kurie privalo būti su registracijos numeriu ir įtraukti į apskaitą.
  
 
 
@@ -737,15 +741,25 @@ Gamintoją įstatymų ir kitų teisės aktų nustatyta tvarka parenka užsakovas
 
 
 
-17 straipsnis. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų kokybės kontrolė 
+16 straipsnis. Saugiųjų dokumentų ar saugiųjų dokumentų blankų tiražo gaminimas
 
 
-1. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų kokybės kontrolę atrankos būdu atlieka užsakovo ir Tarnybos atstovai vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybos metu. Tarnyba gali dalyvauti tikrinant gaminių kokybę juos pateikus užsakovui, jei užsakovas pateikia raštišką prašymą dalyvauti gaminių kokybės tikrinime.
+1. Saugiųjų dokumentų ar saugiųjų dokumentų blankų tiražas pradedamas gaminti tada, kai saugiojo dokumento ar saugiojo dokumento blanko etalono tvirtinimo aktu patvirtinamas saugiojo dokumento ar saugiojo dokumento blanko etalonas.
 
 
 
 
-2. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų kokybės kontrolės atrankos būdu taisykles tvirtina Vyriausybė ar jos įgaliota institucija.
+2. Gaminamas tik užsakyme nurodytas saugiųjų dokumentų ar saugiųjų dokumentų blankų skaičius (tiražas).
+
+
+
+
+3. Gamintojas, gavęs užsakymą, per 3 darbo dienas privalo raštu pranešti Tarnybai apie kiekvieną gautą užsakymą gaminti saugiuosius dokumentus ar saugiuosius dokumentų blankus, nurodydamas užsakovą, užsakymo numerį, užsakyto saugiojo dokumento ar saugiojo dokumento blanko pavadinimą, atpažinties (identifikavimo) numerį arba kodą, užsakytą tiražą, užsakymo gavimo datą.
+
+
+
+
+4. Gamintojas, atlikęs užsakymą, per 5 darbo dienas privalo apie tai raštu pranešti Tarnybai nurodydamas pagaminto saugiojo dokumento ar saugiojo dokumento blanko užsakymo numerį, užsakovą, pagamintą tiražą, saugiojo dokumento ar saugiojo dokumento blanko pavadinimą, atpažinties (identifikavimo) numerį arba kodą, serijas ir numerius, užsakymo įvykdymo datą.
  
 
 
@@ -753,111 +767,20 @@ Gamintoją įstatymų ir kitų teisės aktų nustatyta tvarka parenka užsakovas
 
 
 
+17 straipsnis. Saugiųjų dokumentų ar saugiųjų dokumentų blankų kokybės kontrolė
 
 
-KETVIRTASIS SKIRSNIS
-VERTYBINIŲ POPIERIŲ, DOKUMENTŲ BLANKŲ, BANDEROLIŲ, OFICIALIŲ ŽYMĖJIMO ŽENKLŲ GAMYBOS REIKALAVIMAI
- 
+1. Saugiųjų dokumentų ar saugiųjų dokumentų blankų kokybės kontrolę atrankos būdu atlieka užsakovo ir Tarnybos atstovai saugiųjų dokumentų ar saugiųjų dokumentų blankų gamybos metu pristačius pagamintą tiražą arba užsakymą į gamintojo pagamintos produkcijos patalpą. Tarnyba gali dalyvauti tikrinant saugiųjų dokumentų ar saugiųjų dokumentų blankų kokybę juos pateikus užsakovui, jei užsakovas pateikia rašytinį prašymą.
 
 
-18 straipsnis. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybos licencijavimas
 
 
-1. Technologinės apsaugos lygiui ir grupei priskirti vertybiniai popieriai, dokumentų blankai, banderolės, oficialūs žymėjimo ženklai gaminami įmonėse, turinčiose licenciją gaminti vertybinius popierius, dokumentų blankus, banderoles, oficialius žymėjimo ženklus (toliau – licencija) arba, jei gamintojas registruotas užsienio valstybėje, tos valstybės vyriausybės ar jos įgaliotos institucijos išduotus dokumentus, suteikiančius teisę gaminti vertybinius popierius, dokumentų blankus, banderoles, oficialius žymėjimo ženklus. Trečiosioms valstybėms teisė gaminti vertybinius popierius, dokumentų blankus, banderoles, oficialius žymėjimo ženklus taikoma abipusiškumo pagrindais, kai Lietuvos Respublikos įmonėms užsienio valstybėje suteikiamos ne mažesnės teisės. 
-Straipsnio dalies pakeitimai:
-Nr. IX-2348, 2004-07-13, Žin., 2004, Nr. 118-4394 (2004-07-31), i. k. 1041010ISTA0IX-2348
- 
+2. Jei saugieji dokumentai ar saugiųjų dokumentų blankai pagaminti ne Lietuvos Respublikoje registruotoje įmonėje ar užsienio valstybės įmonės filiale, tai pagamintų saugiųjų dokumentų ar saugiųjų dokumentų blankų kokybės kontrolė atrankos būdu atliekama, jei tai yra numatyta užsakovo ir gamintojo sudarytoje sutartyje dėl saugiųjų dokumentų ar saugiųjų dokumentų blankų gamybos.
 
 
 
 
-2. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybos licencijavimo taisykles tvirtina Lietuvos Respublikos Vyriausybė.
- 
-
-
-
-
-
-
-19 straipsnis. Licencijų išdavimas ir galiojimas 
-
-
-1. Įmonė, norėdama gauti licenciją, pateikia Tarnybai prašymą ir kitus dokumentus, nurodytus Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybos licencijavimo taisyklėse. 
-
-
-
-
-2. Licencijos išduodamos neterminuotam laikui.
- 
-
-
-
-
-
-
-20 straipsnis. Licencijų galiojimo sustabdymo ir sustabdymo panaikinimo atvejai 
-
-
-1. Licencijos galiojimas gali būti sustabdytas, jei licencijos turėtojas:
-
-
-1) nesilaiko licencijuojamą veiklą reglamentuojančių teisės aktų reikalavimų;
-
-
-
-
-2) pateikia neteisingus duomenis licencijai gauti;
-
-
-
-
-3) atsisako pateikti licenciją institucijoms, atliekančioms licencijuojamos veiklos priežiūrą.
-
-
-
-
-
-
-2. Licencijos galiojimo sustabdymas panaikinamas, jei ne vėliau kaip per tris mėnesius pašalinamos priežastys arba pažeidimai, dėl kurių buvo sustabdytas licencijos galiojimas.
- 
-
-
-
-
-
-
-21 straipsnis. Licencijų panaikinimo atvejai
-
-
-Licencija panaikinama, jeigu:
-
-
-1) licencijos turėtojas pateikia prašymą panaikinti licenciją;
-
-
-
-
-2) yra pagrindas sustabdyti licencijos galiojimą trečią kartą per paskutinius dvejus metus;
-
-
-
-
-3) teisės aktų nustatyta tvarka priimtas sprendimas dėl licencijos turėtojo likvidavimo arba reorganizavimo;
-
-
-
-
-4) nustačius, kad licencijos turėtojas neteisėtai gamina vertybinius popierius, dokumentų blankus, banderoles, oficialius žymėjimo ženklus;
-
-
-
-
-5) nustačius, kad licencijos turėtojas klastoja vertybinius popierius, dokumentų blankus, banderoles, oficialius žymėjimo ženklus;
-
-
-
-
-6) licencijos turėtojas, kuriam buvo sustabdytas licencijos galiojimas, ilgiau nei tris mėnesius nepašalina priežasčių arba pažeidimų, dėl kurių buvo sustabdytas licencijos galiojimas.
+3. Saugiųjų dokumentų ar saugiųjų dokumentų blankų kokybės kontrolės atrankos būdu taisykles tvirtina Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
  
 
 
@@ -867,15 +790,20 @@ Licencija panaikinama, jeigu:
 
 
 
-22 straipsnis. Nepanaudotų specialių medžiagų likučių realizavimas ir naikinimas panaikinus licenciją
+KETVIRTASIS SKIRSNIS 
+SAUGIŲJŲ DOKUMENTŲ IR SAUGIŲJŲ DOKUMENTŲ BLANKŲ GAMYBOS REIKALAVIMAI
+ 
 
 
-1. Panaikinus licenciją, įmonė privalo per 6 mėnesius realizuoti nepanaudotų specialių medžiagų likučius. Nepanaudotų specialių medžiagų likučius galima realizuoti tik įmonei, turinčiai licenciją, gavus raštišką Tarnybos sutikimą. 
+18 straipsnis. Saugiųjų dokumentų ir saugiųjų dokumentų blankų gamybos licencijavimas
+
+
+1. Saugieji dokumentai ir saugieji dokumentų blankai gaminami įmonėje arba užsienio valstybės įmonės filiale, turinčiuose licencijas gaminti saugiuosius dokumentus ir saugiuosius dokumentų blankus (toliau – licencija), arba, jei įmonė registruota Europos Sąjungos valstybėje narėje ar kitoje Europos ekonominės erdvės valstybėje, – tos valstybės Vyriausybės ar jos įgaliotos institucijos išduotus dokumentus, kuriais suteikiama teisė gaminti saugiuosius dokumentus ir saugiuosius dokumentų blankus. Trečiųjų valstybių įmonėms teisė gaminti saugiuosius dokumentus ir saugiuosius dokumentų blankus taikoma abipusiškumo pagrindais, kai Lietuvos Respublikos įmonėms trečiojoje valstybėje suteikiamos ne mažesnės teisės.
 
 
 
 
-2. Jei įmonė per nustatytą laiką nerealizuoja nepanaudotų specialių medžiagų likučių, jie turi būti naikinami. Specialių medžiagų likučiai deginami arba mechaniškai paveikiami taip, kad jų nebūtų galima panaudoti pagal tiesioginę paskirtį. Naikinant specialių medžiagų likučius, surašomas specialių medžiagų likučių sunaikinimo aktas, kuriame nurodoma: akto surašymo data, specialių medžiagų likučių pavadinimas (kodas), kiekis (kg, m, m2, vnt.), aktą surašiusių asmenų pareigos, vardai, pavardės ir parašai. Specialių medžiagų likučius naikina gamintojas, dalyvaujant Tarnybos atstovui.
+2. Saugiųjų dokumentų ir saugiųjų dokumentų blankų gamybos licencijavimo taisykles tvirtina Lietuvos Respublikos Vyriausybė.
  
 
 
@@ -883,30 +811,56 @@ Licencija panaikinama, jeigu:
 
 
 
-23 straipsnis. Vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybos procesas
+19 straipsnis. Nepanaudotų specialiųjų saugiųjų dokumentų ar saugiųjų dokumentų blankų gamybos medžiagų likučių realizavimas ir naikinimas praradus teisę verstis saugiųjų dokumentų ir saugiųjų dokumentų blankų gamyba
 
 
-1. Gamintojas vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybos procese vadovaujasi Darbo uždarojo režimo sąlygomis taisyklėmis. Jei gamintojas yra registruotas užsienio valstybėje, jis turi pateikti tos šalies vyriausybės arba jos įgaliotos institucijos išduotus dokumentus, patvirtinančius šio gamintojo galimybes gaminti vertybinius popierius, dokumentų blankus, banderoles, oficialius žymėjimo ženklus uždarojo režimo sąlygomis. 
-
-
-
-
-2. Patalpos, kuriose gaminami ir saugomi vertybiniai popieriai, dokumentų blankai, banderolės, oficialūs žymėjimo ženklai, taip pat su gamyba susijusios priemonės ir medžiagos privalo atitikti Vyriausybės ar jos įgaliotos institucijos patvirtintus vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybinių patalpų apsaugos reikalavimus. Gamintojas, registruotas užsienio valstybėje, turi pateikti tos šalies vyriausybės arba jos įgaliotos institucijos išduotus dokumentus, patvirtinančius, kad šio gamintojo patalpų apsauga atitinka toje šalyje keliamus patalpų apsaugos, gaminant vertybinius popierius, dokumentų blankus, banderoles, oficialius žymėjimo ženklus, reikalavimus. 
+1. Įmonė ar užsienio valstybės įmonės filialas, praradę teisę verstis saugiųjų dokumentų ir saugiųjų dokumentų blankų gamyba, privalo per 6 mėnesius realizuoti nepanaudotų specialiųjų saugiųjų dokumentų ar saugiųjų dokumentų blankų gamybos medžiagų likučius. Nepanaudotų specialiųjų saugiųjų dokumentų ar saugiųjų dokumentų blankų gamybos medžiagų likučius gali realizuoti tik įmonė arba užsienio valstybės įmonės filialas, gavę rašytinį Tarnybos sutikimą.
 
 
 
 
-3. Jei vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamyba yra susijusi su valstybės paslaptį sudarančia informacija, gamintojas teisės aktų nustatyta tvarka privalo gauti įmonės patikimumą patvirtinantį pažymėjimą. Gamintojas, registruotas užsienio valstybėje, privalo pateikti tos šalies teisės aktų nustatyta tvarka išduotus dokumentus, patvirtinančius šio gamintojo patikimumą saugoti įslaptintą informaciją gaminant vertybinius popierius, dokumentų blankus, banderoles, oficialius žymėjimo ženklus.
+2. Jei įmonė arba užsienio valstybės įmonės filialas, praradę teisę verstis saugiųjų dokumentų ir saugiųjų dokumentų blankų gamyba, per nustatytą laiką nerealizuoja nepanaudotų specialiųjų saugiųjų dokumentų ar saugiųjų dokumentų blankų gamybos medžiagų likučių, šie turi būti sunaikinami. Specialiųjų saugiųjų dokumentų ar saugiųjų dokumentų blankų gamybos medžiagų likučiai deginami arba mechaniškai paveikiami taip, kad jų nebūtų galima panaudoti pagal tiesioginę paskirtį. Naikinant specialiųjų saugiųjų dokumentų ar saugiųjų dokumentų blankų gamybos medžiagų likučius, surašomas specialiųjų saugiųjų dokumentų ar saugiųjų dokumentų blankų gamybos medžiagų likučių sunaikinimo aktas. Jame nurodoma: akto surašymo data, specialiųjų saugiųjų dokumentų ar saugiųjų dokumentų blankų gamybos medžiagų likučių pavadinimas arba kodas, kiekis (kg, m, m2, vnt.), aktą surašiusių asmenų pareigos, vardai, pavardės ir parašai. Specialiųjų saugiųjų dokumentų ar saugiųjų dokumentų blankų gamybos medžiagų likučius naikina įmonė ar užsienio valstybės įmonės filialas, dalyvaujant Tarnybos atstovui.
+ 
 
 
 
 
-4. Gamintojas privalo užtikrinti, kad vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybos procesas atitiktų jam keliamus reikalavimus, gaminami vertybiniai popieriai, dokumentų blankai, banderolės, oficialūs žymėjimo ženklai atitiktų patvirtintą etaloną ir kad gamybos brokas nepatektų į apyvartą.
+
+
+20 straipsnis. Saugiųjų dokumentų ir saugiųjų dokumentų blankų gamyba
+
+
+1. Gamintojas, gamindamas saugiuosius dokumentus ir saugiuosius dokumentų blankus, vadovaujasi Darbo uždarojo režimo sąlygomis taisyklėmis. Jei gamintojas yra registruotas užsienio valstybėje, jis turi pateikti užsakovui tos valstybės Vyriausybės arba jos įgaliotos institucijos išduotus dokumentus, kuriais patvirtinamos šio gamintojo galimybės gaminti saugiuosius dokumentus ir saugiuosius dokumentų blankus darbo uždarojo režimo sąlygomis.
 
 
 
 
-5. Pagaminus sutartyje arba užsakyme nurodytą vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų kiekį, susidaręs brokas turi būti sunaikintas dalyvaujant gamintojo ir Tarnybos įgaliotiems atstovams. Surašomas broko sunaikinimo aktas. Jo formą tvirtina Tarnyba. Apie broko sunaikinimo vietą ir laiką pranešama užsakovui. Jo atstovas turi teisę dalyvauti šiame procese. Broko sunaikinimo aktą pasirašo broko naikinimo procese dalyvavę asmenys.
+2. Patalpos, kuriose gaminami ir saugomi saugieji dokumentai ir saugieji dokumentų blankai, taip pat su gamyba susijusios priemonės ir medžiagos, privalo atitikti Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintus Saugiųjų dokumentų ir saugiųjų dokumentų blankų gamybinių patalpų apsaugos reikalavimus. Gamintojas, registruotas užsienio valstybėje, turi pateikti užsakovui tos valstybės Vyriausybės arba jos įgaliotos institucijos išduotus dokumentus, kuriais patvirtinama, kad šio gamintojo patalpų apsauga atitinka toje valstybėje keliamus patalpų apsaugos gaminant saugiuosius dokumentus ir saugiuosius dokumentų blankus reikalavimus.
+
+
+
+
+3. Jei saugiųjų dokumentų ir saugiųjų dokumentų blankų gamyba yra susijusi su įslaptinta informacija, žymima slaptumo žymomis „Konfidencialiai“, „Slaptai“ ar „Visiškai slaptai“, gamintojas teisės aktų nustatyta tvarka privalo gauti įmonės patikimumą patvirtinantį pažymėjimą. Gamintojas, registruotas užsienio valstybėje, privalo pateikti užsakovui tos valstybės teisės aktų nustatyta tvarka išduotus dokumentus, kuriais patvirtinamas šio gamintojo patikimumas saugoti įslaptintą informaciją gaminant saugiuosius dokumentus ir saugiuosius dokumentų blankus.
+
+
+
+
+4. Šio straipsnio 1–3 dalyse nurodytus dokumentus iš gamintojo, registruoto užsienio valstybėje, privalo gauti užsakovas.
+
+
+
+
+5. Gamintojas privalo užtikrinti, kad saugiųjų dokumentų ir saugiųjų dokumentų blankų gamyba atitiktų jai keliamus reikalavimus, gaminami saugieji dokumentai ir saugieji dokumentų blankai atitiktų patvirtintą saugiųjų dokumentų ar saugiųjų dokumentų blankų etaloną ir kad saugiųjų dokumentų ar saugiųjų dokumentų blankų gamybos brokas nepatektų į apyvartą.
+
+
+
+
+6. Gamintojas, sudaręs sutartį su užsakovu dėl saugiųjų dokumentų ar saugiųjų dokumentų blankų gamybos, privalo per 3 darbo dienas pranešti Tarnybai apie sudarytą sutartį, nurodydamas sutarties sudarymo datą, užsakovą, saugiųjų dokumentų ar saugiųjų dokumentų blankų pavadinimus ir sutartyje numatytą pagaminti saugiųjų dokumentų ar saugiųjų dokumentų blankų skaičių. Gamintojas taip pat privalo per 3 darbo dienas pranešti Tarnybai apie sutarties pakeitimus, pratęsimus, kai tai susiję su gaminamų saugiųjų dokumentų ar saugiųjų dokumentų blankų skaičiaus keitimu.
+
+
+
+
+7. Pagaminus sutartyje arba užsakyme nurodytą saugiųjų dokumentų ar saugiųjų dokumentų blankų skaičių, atsiradęs brokas turi būti sunaikintas dalyvaujant gamintojo ir Tarnybos įgaliotiems atstovams. Apie broko sunaikinimo vietą ir laiką pranešama užsakovui. Jo atstovas turi teisę dalyvauti sunaikinant broką.
  
 
 
@@ -916,36 +870,25 @@ Licencija panaikinama, jeigu:
 
 
 
-PENKTASIS SKIRSNIS
+PENKTASIS SKIRSNIS 
 BAIGIAMOSIOS NUOSTATOS
  
 
 
-24 straipsnis. Pasiūlymai Vyriausybei
+21 straipsnis. Atsakomybė už šio įstatymo pažeidimus
 
 
-Vyriausybė, atsižvelgdama į šio Įstatymo įsigaliojimo terminus, parengia ir patvirtina šiam Įstatymui įgyvendinti reikiamus teisės aktus.
- 
-
-
+Juridiniai ir fiziniai asmenys, pažeidę šio įstatymo reikalavimus, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
 
 
 
 
-25 straipsnis. Įstatymo įsigaliojimas
 
 
-Šis Įstatymas, išskyrus 24 straipsnį, įsigalioja nuo 2004 m. sausio 1 d. 
+
+
  
  
-
-
-
-
-
-
-
-
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
@@ -953,6 +896,7 @@ RESPUBLIKOS PREZIDENTAS                            �
  
 
 
+ 
  
  
 Pakeitimai:
@@ -971,3 +915,8 @@ Lietuvos Respublikos vertybinių popierių, dokumentų blankų, banderolių, ofi
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-369, 2005-10-18, Žin., 2005, Nr. 130-4663 (2005-11-03); Žin., 2005, Nr. 141-0 (2005-12-01), i. k. 1051010ISTA000X-369
 Lietuvos Respublikos vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybos įstatymo 4 ir 6 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1328, 2007-11-15, Žin., 2007, Nr. 125-5094 (2007-12-01), i. k. 1071010ISTA00X-1328
+Lietuvos Respublikos vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybos įstatymo pakeitimo įstatymas
