@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.12977CB93B03"
 
 # Lietuvos Respublikos paramos mirties atveju įstatymas
 
-Suvestinė redakcija nuo 2005-06-07 iki 2007-12-31
+Suvestinė redakcija nuo 2008-01-01 iki 2011-06-27
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 73-1371, i. k. 0931010ISTA000I-348
  
@@ -74,12 +74,13 @@ Nr. VIII-1704, 2000-05-23, Žin., 2000, Nr. 45-1298 (2000-06-02), i. k. 1001010I
 2 straipsnis. Pašalpos dydis
 
 
-Pašalpa yra 6 minimalių gyvenimo lygių (toliau – MGL) dydžio. Pašalpos dydis apskaičiuojamas pagal tą mėnesį, kurį atsirado teisė į pašalpą, galiojusio MGL dydį.
+Pašalpa yra 8 minimalių gyvenimo lygių (toliau – MGL) dydžio. Pašalpos dydis apskaičiuojamas pagal tą mėnesį, kurį atsirado teisė į pašalpą, galiojusio MGL dydį.
 
 
 Straipsnio pakeitimai:
 Nr. VIII-1704, 2000-05-23, Žin., 2000, Nr. 45-1298 (2000-06-02), i. k. 1001010ISTAIII-1704
 Nr. X-213, 2005-05-19, Žin., 2005, Nr. 71-2559 (2005-06-07), i. k. 1051010ISTA000X-213
+Nr. X-1294, 2007-10-11, Žin., 2007, Nr. 110-4490 (2007-10-25), i. k. 1071010ISTA00X-1294
  
 
 
@@ -173,3 +174,8 @@ Lietuvos Respublikos įstatymo "Dėl paramos mirties atveju" 1, 2 straipsnių pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-213, 2005-05-19, Žin., 2005, Nr. 71-2559 (2005-06-07), i. k. 1051010ISTA000X-213
 Lietuvos Respublikos įstatymo "Dėl paramos mirties atveju" 2, 3 straipsnių pakeitimo ir papildymo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1294, 2007-10-11, Žin., 2007, Nr. 110-4490 (2007-10-25), i. k. 1071010ISTA00X-1294
+Lietuvos Respublikos įstatymo "Dėl paramos mirties atveju" 2 straipsnio pakeitimo įstatymas
