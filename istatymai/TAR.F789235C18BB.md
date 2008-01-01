@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F789235C18BB"
 
 # Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymas
 
-Suvestinė redakcija nuo 2007-10-25 iki 2009-09-14
+Suvestinė redakcija nuo 2008-01-01 iki 2009-09-14
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 123-5540, i. k. 1021010ISTA0IX-1253
  
@@ -321,7 +321,9 @@ Nr. X-1293, 2007-10-11, Žin., 2007, Nr. 110-4489 (2007-10-25), i. k. 1071010IST
 
 
 
-5. Centralizuotą vidaus audito tarnybą sudaro ne mažiau kaip 2 pareigybės. Centralizuotą vidaus audito tarnybą kaip departamentą sudaro ne mažiau kaip 3 skyriai.
+5. Neteko galios nuo 2008-01-01
+Straipsnio dalies naikinimas:
+Nr. X-1293, 2007-10-11, Žin. 2007, Nr. 110-4489 (2007-10-25), i. k. 1071010ISTA00X-1293
 Papildyta straipsnio dalimi:
 Nr. X-806, 2006-09-14, Žin., 2006, Nr. 107-4044 (2006-10-06), i. k. 1061010ISTA000X-806
 Straipsnio dalies pakeitimai:
