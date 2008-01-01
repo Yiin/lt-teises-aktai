@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.10E8E285740C"
 
 # Lietuvos Respublikos medicinos praktikos įstatymas
 
-Suvestinė redakcija nuo 2005-07-14 iki 2007-12-31
+Suvestinė redakcija nuo 2008-01-01 iki 2010-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2313, i. k. 0961010ISTA00I-1555
  
@@ -36,7 +36,10 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis 
 
 
-1. Šio Įstatymo paskirtis – reglamentuoti medicinos gydytojo, šeimos gydytojo ir gydytojo specialisto vertimosi medicinos praktika Lietuvos Respublikoje sąlygas.
+1. Šio įstatymo paskirtis – reglamentuoti medicinos gydytojo, gydytojo rezidento, šeimos gydytojo ir gydytojo specialisto vertimosi medicinos praktika Lietuvos Respublikoje sąlygas.
+Straipsnio dalies pakeitimai:
+Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010ISTA00X-1376
+ 
 
 
 
@@ -77,7 +80,10 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 
-1. Gydytojas – medicinos gydytojas, šeimos gydytojas ar gydytojas specialistas.
+1. Gydytojas – medicinos gydytojas, gydytojas rezidentas, šeimos gydytojas ar gydytojas specialistas. 
+Straipsnio dalies pakeitimai:
+Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010ISTA00X-1376
+ 
 
 
 
@@ -87,7 +93,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Gydytojas rezidentas – medicinos gydytojas, studijuojantis medicinos rezidentūroje ir atliekantis gydytojo rezidento pareigas gydytojo rezidento vadovo prižiūrimas universiteto įvertintoje ir atrinktoje medicinos rezidentūros programai vykdyti įstaigoje ar jos padalinyje, turinčiame teisę vykdyti asmens sveikatos priežiūrą.
+3. Gydytojas rezidentas – gydytojas, studijuojantis medicinos rezidentūroje ir dirbantis gydytoju rezidentu, prižiūrimas gydytojo rezidento vadovo. 
+Straipsnio dalies pakeitimai:
+Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010ISTA00X-1376
+ 
 
 
 
@@ -140,7 +149,10 @@ Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14), i. k. 1051010ISTA0
 
 
 
-13. Medicinos rezidentūra – trečiosios pakopos universitetinės medicinos krypties studijos, skirtos gydytojui, norinčiam įgyti ar pakeisti medicinos praktikos rūšies (specialybės) gydytojo profesinę kvalifikaciją. Baigusiesiems šias studijas išduodamas rezidentūros pažymėjimas, patvirtinantis suteiktą gydytojo specialisto arba šeimos gydytojo profesinę kvalifikaciją. Per rezidentūrą gydytojas rezidentas studijuoja bei atlieka nustatytas pareigas gydytojo rezidento vadovo prižiūrimas ir įgyja specialių medicinos žinių, įgūdžių ir klinikinės patirties.
+13. Medicinos rezidentūra – trečiosios pakopos universitetinės medicinos krypties studijos, skirtos gydytojui, norinčiam įgyti ar pakeisti medicinos praktikos rūšies gydytojo profesinę kvalifikaciją. 
+Straipsnio dalies pakeitimai:
+Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010ISTA00X-1376
+ 
 
 
 
@@ -155,22 +167,41 @@ Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14), i. k. 1051010ISTA0
 
 
 
-16. Sveikatos priežiūros ir farmacijos specialistų praktikos licencijų registras (toliau – registras) – valstybės registras, kuriame kaupiami, saugomi, sisteminami, teikiami duomenys ir dokumentai apie licencijų išdavimą ar neišdavimą, jų galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir licencijos galiojimo panaikinimą.
+16. Rezidentūros bazė – universiteto ligoninė ar kita sveikatos priežiūros įstaiga, sveikatos apsaugos ministro ir švietimo ir mokslo ministro nustatyta tvarka įgijusi teisę vykdyti rezidentūros programą ar jos dalį. 
+Papildyta straipsnio dalimi:
+Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010ISTA00X-1376
+ 
 
 
 
 
-17. Šeimos gydytojas – medicinos gydytojas, įgijęs šeimos gydytojo profesinę kvalifikaciją.
+17. Sveikatos priežiūros ir farmacijos specialistų praktikos licencijų registras (toliau – registras) – valstybės registras, kuriame kaupiami, saugomi, sisteminami, teikiami duomenys ir dokumentai apie licencijų išdavimą ar neišdavimą, jų galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir licencijos galiojimo panaikinimą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010ISTA00X-1376
+ 
 
 
 
 
-18. Valstybė narė – Europos Sąjungos valstybė narė, Šveicarija ar valstybė, pasirašiusi Europos ekonominės erdvės susitarimą.
+18. Šeimos gydytojas – medicinos gydytojas, įgijęs šeimos gydytojo profesinę kvalifikaciją.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010ISTA00X-1376
+ 
 
 
 
 
-19. Valstybės narės pilietis – Europos Sąjungos valstybės narės, Šveicarijos ar valstybės, pasirašiusios Europos ekonominės erdvės susitarimą, pilietis.
+19. Valstybė narė – Europos Sąjungos valstybė narė, Šveicarija ar valstybė, pasirašiusi Europos ekonominės erdvės susitarimą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010ISTA00X-1376
+ 
+
+
+
+
+20. Valstybės narės pilietis – Europos Sąjungos valstybės narės, Šveicarijos ar valstybės, pasirašiusios Europos ekonominės erdvės susitarimą, pilietis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010ISTA00X-1376
  
 
 
@@ -185,7 +216,10 @@ MEDICINOS PRAKTIKA
  
 
 
-3 straipsnis. Gydytojo profesinių kvalifikacijų įgijimas
+3 straipsnis. Gydytojo rengimas ir profesinių kvalifikacijų įgijimas 
+Pakeistas straipsnio pavadinimas:
+Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010ISTA00X-1376
+ 
 
 
 1. Medicinos gydytojo profesinė kvalifikacija įgyjama baigus medicinos studijas.
@@ -198,12 +232,18 @@ MEDICINOS PRAKTIKA
 
 
 
-3. Gydytojo specialisto profesinė kvalifikacija įgyjama baigus medicinos studijas ir medicinos praktikos specializaciją universitete ar kitoje teisės aktais valstybės pripažintoje mokymo įstaigoje, turinčioje teisę vykdyti gydytojų medicinos praktikos specializaciją arba medicinos rezidentūrą.
+3. Gydytojo specialisto profesinė kvalifikacija įgyjama baigus medicinos studijas ir medicinos praktikos specializaciją universitete. 
+Straipsnio dalies pakeitimai:
+Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010ISTA00X-1376
+ 
 
 
 
 
-4. Gydytojo profesinės kvalifikacijos Lietuvos Respublikoje įgyjamos Lietuvos Respublikos teisės aktų nustatyta tvarka. 
+4. Medicinos rezidentūrą sudaro teorinė dalis ir gydytojo rezidento profesinės veiklos praktika, skirstomos į dalykų ciklus (modulius, praktikumus). Rezidentūros teorinį kursą organizuoja universitetas gydytojo rezidento praktikos vietoje. Profesinės veiklos praktikos metu gydytojas rezidentas dirba gydytoju rezidentu ir įgyja specialių medicinos įgūdžių bei klinikinės patirties. Šiam tikslui rezidentūros bazė su gydytoju rezidentu vietoj profesinės veiklos praktikos sutarties sudaro terminuotą darbo sutartį ir gydytojas rezidentas įdarbinamas gydytoju rezidentu rezidentūros bazėje. Rezidento bazinei pareiginei algai mokėti Sveikatos apsaugos ministerijai skiriami valstybės biudžeto asignavimai. Lėšos rezidentūros bazėms paskirstomos sveikatos apsaugos ministro nustatyta tvarka. Gydytojo rezidento profesinės veiklos praktika skirstoma į jaunesniojo ir vyresniojo gydytojo rezidento praktiką. Gydytojo rezidento profesinės veiklos praktikos apimtį, trukmę, gydytojo rezidento teises, pareigas, kompetenciją, atsakomybę ir bazinės pareiginės algos skaičiavimo metodiką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija. Gydytojų rengimą ir profesinių kvalifikacijų įgijimą nustato Lietuvos Respublikos teisės aktai.
+Straipsnio dalies pakeitimai:
+Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010ISTA00X-1376
+ 
 
 
 
@@ -224,7 +264,10 @@ MEDICINOS PRAKTIKA
 
 
 
-2. Gydytojas verstis medicinos praktika gali tik sveikatos priežiūros įstaigoje, turinčioje licenciją teikti asmens sveikatos priežiūros paslaugas.
+2. Gydytojas verstis medicinos praktika gali tik sveikatos priežiūros įstaigoje, turinčioje licenciją teikti asmens sveikatos priežiūros paslaugas. Gydytojas rezidentas verstis medicinos praktika pagal rezidentūros studijų programą, išskyrus konsultavimą, gali tik įstaigoje, kurioje atlieka rezidentūrą, ir tik prižiūrimas gydytojo rezidento vadovo.
+Straipsnio dalies pakeitimai:
+Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010ISTA00X-1376
+ 
 
 
 
@@ -682,3 +725,8 @@ Lietuvos Respublikos gydytojo medicinos praktikos įstatymo pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14), i. k. 1051010ISTA000X-298
 Lietuvos Respublikos medicinos praktikos įstatymo, Odontologijos praktikos įstatymo, Sveikatos sistemos įstatymo, Psichikos sveikatos priežiūros įstatymo, Narkologinės priežiūros įstatymo pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010ISTA00X-1376
+Lietuvos Respublikos medicinos praktikos įstatymo 1, 2, 3, 4 straipsnių ir priedo pakeitimo įstatymas
