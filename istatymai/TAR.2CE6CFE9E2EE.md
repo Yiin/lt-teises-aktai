@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE6CFE9E2EE"
 
 # Lietuvos Respublikos šalpos pensijų įstatymas
 
-Suvestinė redakcija nuo 2005-07-01 iki 2007-12-31
+Suvestinė redakcija nuo 2008-01-01 iki 2008-02-13
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1873, i. k. 0941010ISTA000I-675
  
@@ -243,7 +243,10 @@ Teisę gauti šalpos pensiją šio įstatymo 6 straipsnyje nustatytomis sąlygom
 
 
 
-2) šio įstatymo 5 straipsnio 3 ir 4 punktuose nurodytus asmenis, kurie kartu su šalpos pensijomis turi teisę gauti valstybines socialinio draudimo našlių pensijas;
+2) šio įstatymo 5 straipsnio 3–5 punktuose nurodytus asmenis, kurie kartu su šalpos pensijomis turi teisę gauti valstybines socialinio draudimo našlių pensijas;
+Straipsnio punkto pakeitimai:
+Nr. X-1394, 2007-12-20, Žin., 2007, Nr. 138-5649 (2007-12-29), i. k. 1071010ISTA00X-1394
+ 
 
 
 
@@ -621,7 +624,10 @@ Teisę gauti šalpos kompensaciją šio įstatymo 16 straipsnyje nustatytomis s�
 
 
 
-3. Asmenims, nurodytiems šio įstatymo 5 straipsnio 5 punkte, turintiems teisę į pensiją ir (ar) pensijų išmoką, kurių dydis (bendra jų suma) mažesnis už šalpos pensiją, mokamas šalpos pensijos ir pensijos ir (ar) pensijos išmokos (bendros jų sumos) skirtumas.
+3. Asmenims, nurodytiems šio įstatymo 5 straipsnio 5 punkte, turintiems teisę į pensiją (išskyrus valstybinę socialinio draudimo našlių pensiją) ir (ar) pensijų išmoką, kurių dydis (bendra jų suma) mažesnis už šalpos pensiją, mokamas šalpos pensijos ir pensijos ir (ar) pensijos išmokos (bendros jų sumos) skirtumas.
+Straipsnio dalies pakeitimai:
+Nr. X-1394, 2007-12-20, Žin., 2007, Nr. 138-5649 (2007-12-29), i. k. 1071010ISTA00X-1394
+ 
 
 
 
@@ -1163,3 +1169,8 @@ Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo, Valsty
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-210, 2005-05-19, Žin., 2005, Nr. 71-2556 (2005-06-07), i. k. 1051010ISTA000X-210
 Lietuvos Respublikos valstybinių šalpos išmokų įstatymo pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1394, 2007-12-20, Žin., 2007, Nr. 138-5649 (2007-12-29), i. k. 1071010ISTA00X-1394
+Lietuvos Respublikos valstybinių šalpos išmokų įstatymo 6 ir 19 straipsnių pakeitimo įstatymas
