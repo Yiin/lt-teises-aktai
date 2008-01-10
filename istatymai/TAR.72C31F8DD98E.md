@@ -32,8 +32,8 @@ straipsnis. Įstatymo paskirtis.
 Šis Įstatymas
 reglamentuoja nekilnojamųjų daiktų, registruojamų Lietuvos Respublikos
 nekilnojamojo turto registre, kadastro duomenų nustatymą, jų įrašymą į
-nekilnojamojo turto kadastrą, nekilnojamojo turto kadastro statusą, šio
-kadastro steigimą, tvarkymą, reorganizavimą ir likvidavimą, matininkų ir
+nekilnojamojo turto kadastrą, nekilnojamojo turto kadastro statusą, šio kadastro
+steigimą, tvarkymą, reorganizavimą ir likvidavimą, matininkų ir
 matininkų ekspertų veiklos sąlygas, jų teises, pareigas ir atsakomybę.
 Straipsnio pakeitimai:
 Nr. X-1007,
@@ -72,12 +72,12 @@ Nekilnojamojo turto kadastro žemėlapis – nekilnojamojo turto kadastro
 grafinė dalis, kurioje parodoma nekilnojamojo turto kadastre įrašytų
 nekilnojamųjų daiktų vieta ir ribos valstybinėje koordinačių sistemoje. Ši
 informacija pateikiama skaitmenimis, grafiniais elementais.
-7. Kadastro vietovė
-– pagrindinis nekilnojamojo turto kadastro teritorinis vienetas, skirtas
-nekilnojamųjų daiktų apskaitai ir žymėjimui, turintis nustatytas ribas, plotą,
-pavadinimą ir unikalų skaitmeninį kodą. Kadastro vietovė skaidoma į kadastro
-blokus, kurie turi ribas ir unikalius skaitmeninius kodus. Kadastro vietovės
-nustatomos ir keičiamos Vyriausybės nustatyta tvarka.
+7. Kadastro
+vietovė – pagrindinis nekilnojamojo turto kadastro teritorinis vienetas,
+skirtas nekilnojamųjų daiktų apskaitai ir žymėjimui, turintis nustatytas ribas,
+plotą, pavadinimą ir unikalų skaitmeninį kodą. Kadastro vietovė skaidoma į
+kadastro blokus, kurie turi ribas ir unikalius skaitmeninius kodus. Kadastro
+vietovės nustatomos ir keičiamos Vyriausybės nustatyta tvarka.
 8. Riboženklis
 – žemės sklypo ribas vietovėje žymintis ženklas, atitinkantis Vyriausybės
 įgaliotos institucijos nustatytą standartą ir teisiškai saugomas įstatymų
@@ -90,9 +90,6 @@ negyvenamųjų patalpų.
 – nekilnojamojo daikto pertvarkymo būdas, kai vieno nekilnojamojo daikto dalis
 atidalijama nesuformuojant atskiro nekilnojamojo daikto ir sujungiama su greta
 esančiu nekilnojamuoju daiktu.
- 
-2 straipsnis papildomas 11, 12 ir 13
-dalimis nuo 2007 m. spalio 11 d.:
 11. Matininkas
 – nekilnojamųjų daiktų kadastro duomenis nustatantis fizinis asmuo,
 turintis Vyriausybės įgaliotos institucijos išduotą matininko kvalifikaciją
@@ -108,11 +105,11 @@ duomenų nustatymo darbus.
 12. Matininkas
 ekspertas – nekilnojamųjų daiktų kadastro duomenis nustatantis fizinis
 asmuo, turintis Vyriausybės įgaliotos institucijos išduotą matininko eksperto
-kvalifikaciją patvirtinantį pažymėjimą, esantis juridinio asmens, turinčio Vyriausybės įgaliotos institucijos Geodezijos ir
-kartografijos įstatymo nustatyta tvarka išduotą licenciją vykdyti
-nekilnojamųjų daiktų kadastro duomenų nustatymo darbus, darbuotojas, dirbantis
-pagal darbo ar kitą civilinę sutartį, taip pat individualios įmonės savininkas
-arba asmuo, jungtinės veiklos sutarties pagrindu susivienijęs į ūkinę bendriją, turinčią Vyriausybės įgaliotos institucijos Geodezijos ir
+kvalifikaciją patvirtinantį pažymėjimą, esantis juridinio asmens, turinčio Vyriausybės įgaliotos institucijos Geodezijos ir kartografijos
+įstatymo nustatyta tvarka išduotą licenciją vykdyti nekilnojamųjų daiktų
+kadastro duomenų nustatymo darbus, darbuotojas, dirbantis pagal darbo ar kitą
+civilinę sutartį, taip pat individualios įmonės savininkas arba asmuo,
+jungtinės veiklos sutarties pagrindu susivienijęs į ūkinę bendriją, turinčią Vyriausybės įgaliotos institucijos Geodezijos ir
 kartografijos įstatymo nustatyta tvarka išduotą licenciją vykdyti
 nekilnojamųjų daiktų kadastro duomenų nustatymo darbus ir Vyriausybės ar jos
 įgaliotos institucijos nustatyta tvarka atliekantis kadastro duomenų nustatymo
@@ -173,10 +170,10 @@ nekilnojamuosius daiktus;
 atskiri nekilnojamieji daiktai, priklausiniai, kuriais laikomi savarankiški
 pagrindiniam daiktui tarnauti skirti antraeiliai daiktai, pagal savo savybes
 nuolat susiję su pagrindiniu daiktu;
-3) žemės dangos, sankasos, iškasos, pylimai,
-geležinkelio pabėgiai ir bėgiai, riboženkliai, melioracijos ir kiti įrenginiai,
-kurių funkcijos yra tiesiogiai susijusios su žemės sklypu ar statiniu, kaip
-atskiru nekilnojamuoju daiktu. 
+3) žemės dangos, sankasos, iškasos,
+pylimai, geležinkelio pabėgiai ir bėgiai, riboženkliai, melioracijos ir kiti
+įrenginiai, kurių funkcijos yra tiesiogiai susijusios su žemės sklypu ar
+statiniu, kaip atskiru nekilnojamuoju daiktu. 
  
 6
 straipsnis. Nekilnojamojo turto kadastro duomenys
@@ -212,8 +209,8 @@ saugomos teritorijos, kurioje yra kultūros paminklų ir kultūros vertybių,
 duomenys;
 11) žemės sklypo
 vertės, nustatytos Vyriausybės nustatyta tvarka; verčių nustatymo datos;
-12) įsigijimo kaina
-ir įsigijimo data;
+12) įsigijimo
+kaina ir įsigijimo data;
 13) žemės sklypo ribų posūkio taškų
 koordinatės valstybinėje koordinačių sistemoje;
 14) žemės sklypo
@@ -271,8 +268,8 @@ kuriame yra patalpa, suformuota kaip atskiras nekilnojamasis daiktas;
 20) kultūros
 paminklo ir kultūros vertybės duomenys;
 21) statinio
-kontūrų skaitmeninė grafinė informacija ir statinio vidaus išplanavimo
-skaitmeniniai grafiniai duomenys;
+kontūrų skaitmeninė grafinė informacija ir statinio vidaus išplanavimo skaitmeniniai
+grafiniai duomenys;
 22) statinio
 kadastro duomenų nustatymo data; 
 23) kiti teisės
@@ -327,38 +324,33 @@ ir priemones, užtikrinančius teisės aktų nustatytų reikalavimų matavimų k
 patenkinimą, kai šio Įstatymo 7 straipsnio 1 dalyje nustatytais būdais
 formuojami nekilnojamieji daiktai ar šio Įstatymo 9 straipsnyje nustatytais
 atvejais keičiami nekilnojamųjų daiktų kadastro duomenys.
- 
-2 dalies redakcija iki 2008 m. sausio 1 d.:
-2. Žemės reformos metu Žemės
-reformos įstatymo ir kitų teisės aktų nustatyta tvarka atliekant žemės sklypų
-kadastrinius matavimus, jų ribų posūkio taškų koordinatės nustatomos grafiškai
-pagal paskiausiai atnaujintą kartografinę medžiagą Kadastro nuostatų nustatyta
-tvarka.
-2 dalies redakcija nuo 2008 m. sausio 1 d.:
 2. Žemės sklypų
 kadastriniai matavimai atliekami nustatant žemės sklypų ribų posūkio taškų ir
-riboženklių koordinates valstybinėje koordinačių sistemoje.
- 
+riboženklių koordinates valstybinėje koordinačių sistemoje, o formuojant žemės
+sklypus kaimo gyvenamosiose vietovėse nuosavybės teisių atkūrimui ir asmeniniam
+ūkiui žemės sklypų ribų posūkio taškų koordinatės nustatomos grafiškai pagal
+paskiausiai atnaujintą kartografinę medžiagą Kadastro nuostatų nustatyta
+tvarka.
 3. Nekilnojamojo
 daikto kadastro duomenų nustatymo metu:
 1) nustatomos ir
 riboženkliais paženklinamos (jeigu anksčiau tai nebuvo atlikta) žemės sklypo
 ribos arba atstatomi sunaikinti anksčiau paženklintų žemės sklypo ribų
-riboženkliai, kurių standartus ir ženklinimo taisykles nustato Vyriausybės
-įgaliota institucija. Paženklinus žemės sklypo ribas, surašomas žemės sklypo
-ribų paženklinimo–parodymo aktas, kuris yra neatsiejama Nekilnojamojo daikto
+riboženkliai, kurių standartus ir ženklinimo taisykles nustato Vyriausybės įgaliota
+institucija. Paženklinus žemės sklypo ribas, surašomas žemės sklypo ribų
+paženklinimo–parodymo aktas, kuris yra neatsiejama Nekilnojamojo daikto
 kadastro duomenų bylos dalis;
 2) kadastriniais
 matavimais nustatomos žemės sklypo ribų posūkio taškų ir riboženklių bei
 statinių kontūrų koordinatės valstybinėje koordinačių sistemoje;
 3)
 kartografuojamos faktinės žemės naudmenos; 
-4) apskaičiuojamas
-bendras žemės sklypo plotas bei žemės naudmenų plotai;
+4)
+apskaičiuojamas bendras žemės sklypo plotas bei žemės naudmenų plotai;
 5) parengiamas
 žemės sklypo planas;
-6)
-apskaičiuojama žemės sklypo vertė Vyriausybės nustatyta tvarka;
+6) apskaičiuojama
+žemės sklypo vertė Vyriausybės nustatyta tvarka;
 7) užpildoma
 žemės sklypo kadastro duomenų forma;
 8) išmatuojamos
@@ -372,9 +364,9 @@ koordinačių sistemoje;
 statinio paskirtis, pavadinimas, adresas (gyvenamosios vietovės pavadinimas,
 gatvės pavadinimas ir pastato numeris), statybos pradžios ir pabaigos,
 rekonstravimo metai;
-11) apskaičiuojami
-statinių ir patalpų plotai, tūriai ir kiti parametrai, kurių reikia
-nekilnojamojo daikto duomenims įrašyti į kadastrą;
+11)
+apskaičiuojami statinių ir patalpų plotai, tūriai ir kiti parametrai, kurių
+reikia nekilnojamojo daikto duomenims įrašyti į kadastrą;
 12) parengiami
 statinių aukštų planai;
 13)
@@ -403,8 +395,10 @@ daiktų kadastro duomenų nustatymo detalią tvarką ir reikalavimus, nekilnojam
 daikto planų bei kadastro duomenų formų turinį ir parengimo bei nekilnojamojo
 daikto kadastro duomenų bylos suformavimo tvarką nustato Kadastro nuostatai.
 Straipsnio pakeitimai:
-Nr. X-1007,
-2006-12-21, Žin., 2007, Nr. 4-159 (2007-01-11)
+Nr. X-1007, 2006-12-21,
+Žin., 2007, Nr. 4-159 (2007-01-11)
+Nr. X-1406,
+2007-12-21, Žin., 2008, Nr. 4-120 (2008-01-10)
  
 9
 straipsnis. Nekilnojamojo turto kadastre įrašytų duomenų pakeitimai
@@ -431,8 +425,8 @@ valdžios ar valdymo institucijų teikimu Kadastro nuostatų nustatyta
 tvarka:
 1) įgyvendinant
 Vyriausybės sprendimus dėl nekilnojamųjų daiktų vertės perskaičiavimo;
-2) vykdant teismų sprendimus dėl nekilnojamojo turto kadastre
-įrašytų duomenų patikslinimo;
+2) vykdant teismų sprendimus dėl nekilnojamojo turto
+kadastre įrašytų duomenų patikslinimo;
 3) patikslinant nekilnojamųjų daiktų kadastro duomenis, kai
 šie nekilnojamieji daiktai ar jų dalys paimami visuomenės poreikiams;
 4)
@@ -471,38 +465,96 @@ straipsnio 1–4 dalyse nurodytų pranešimų Kadastro tvarkytojui perdavimo tva
 ir jų turinį bei žymos nekilnojamojo turto kadastre padarymo tvarką nustato
 Kadastro nuostatai.
  
-11 straipsnio redakcija iki 2007 m. spalio 11 d.:
-11
-straipsnis. Nekilnojamųjų daiktų kadastro duomenis nustatančių asmenų teisės, 
-pareigos ir
-atsakomybė
-1.
-Nekilnojamųjų daiktų kadastro duomenis nustato asmenys, turintys Vyriausybės
-įgaliotos institucijos Geodezijos ir kartografijos įstatymo nustatyta tvarka
-išduotą licenciją vykdyti nekilnojamojo turto kadastro objektų geodezinius
-matavimus, išskyrus atvejus, kai žemės reformos metu Žemės reformos įstatymo
-nustatyta tvarka formuojami žemės sklypai, kurių kadastro duomenis nustato
-asmenys, turintys kvalifikacinius leidimus, išduotus Vyriausybės nustatyta tvarka.
-2. Nekilnojamųjų
-daiktų kadastro duomenis nustatantys asmenys įstatymų nustatyta tvarka turi
-teisę laisvai vienytis į asociacijas.
-3.
-Nekilnojamųjų daiktų kadastro duomenis nustatantys asmenys turi teisę patekti į
+11 straipsnis. Matininkų ir matininkų
+ekspertų teisės, pareigos ir atsakomybė
+1. Nekilnojamųjų
+daiktų kadastro duomenis nustato matininkai arba matininkai ekspertai, išskyrus
+atvejus, kai žemės reformos metu Žemės reformos įstatymo nustatyta tvarka
+formuojami žemės sklypai, kurių kadastro duomenis nustato asmenys, turintys
+kvalifikacinius leidimus, išduotus Vyriausybės nustatyta tvarka.
+2. Matininkai
+įstatymų nustatyta tvarka turi teisę: 
+1) laisvai
+vienytis į asociacijas;
+2) patekti į
 kadastro duomenis nustatyti pageidaujančiam asmeniui nuosavybės teise
-priklausantį arba jo valdomą nekilnojamąjį daiktą šiems kadastro duomenims
-nustatyti. 
-4. Nekilnojamųjų daiktų kadastro
-duomenis nustatantys asmenys turi teisę atlikti kadastro duomenų nustatymo
+priklausantį ar jo valdomą nekilnojamąjį daiktą šiems kadastro duomenims
+nustatyti;
+3) gavus gretimų
+sklypų savininkų ar naudotojų sutikimą, atlikti kadastro duomenų nustatymo
 darbus ir gretimuose žemės sklypuose, jei tai būtina kadastro duomenims
-nustatyti. Tokiu atveju apie atliekamus darbus Kadastro nuostatų nustatyta
-tvarka pranešama gretimų žemės sklypų savininkams ar naudotojams ir turi būti
-gautas jų sutikimas.
-5. Nekilnojamųjų
-daiktų kadastro duomenis nustatantys asmenys Civilinio kodekso nustatyta tvarka
-atsako už žalą, kurią jie padarė kaltais veiksmais, nustatydami nekilnojamojo
-daikto kadastro duomenis.
-11 straipsnio redakcija nuo 2007 m. spalio 11 d.:
-11 straipsnis. Matininkų ir matininkų ekspertų teisės, pareigos ir atsakomybė1. Nekilnojamųjų daiktų kadastro duomenis nustato matininkai arba matininkai ekspertai, išskyrus atvejus, kai žemės reformos metu Žemės reformos įstatymo nustatyta tvarka formuojami žemės sklypai, kurių kadastro duomenis nustato asmenys, turintys kvalifikacinius leidimus, išduotus Vyriausybės nustatyta tvarka.2. Matininkai įstatymų nustatyta tvarka turi teisę: 1) laisvai vienytis į asociacijas;2) patekti į kadastro duomenis nustatyti pageidaujančiam asmeniui nuosavybės teise priklausantį ar jo valdomą nekilnojamąjį daiktą šiems kadastro duomenims nustatyti;3) gavus gretimų sklypų savininkų ar naudotojų sutikimą, atlikti kadastro duomenų nustatymo darbus ir gretimuose žemės sklypuose, jei tai būtina kadastro duomenims nustatyti. Tokiu atveju apie numatomus atlikti darbus Kadastro nuostatų nustatyta tvarka turi būti pranešama gretimų žemės sklypų savininkams ar naudotojams; 4) gauti Nekilnojamojo turto kadastro duomenis ir dokumentus nekilnojamojo turto kadastro duomenims nustatyti;5) gauti teritorijų planavimo dokumentus ir duomenis nekilnojamojo turto kadastro duomenims nustatyti;6) teisės aktų nustatyta tvarka gauti kitą informaciją, duomenis ar dokumentus, reikalingus nekilnojamojo turto kadastro duomenims nustatyti.3. Matininkai ekspertai, be šio straipsnio 2 dalyje nurodytų teisių, turi teisę:1) gauti Nekilnojamojo turto kadastro duomenis ir dokumentus nekilnojamojo turto kadastro duomenų nustatymo kokybės kontrolei ar valstybinei ekspertizei atlikti;2) gauti teritorijų planavimo dokumentus ir duomenis nekilnojamojo turto kadastro duomenų nustatymo kokybės kontrolei ar valstybinei ekspertizei atlikti;3) teisės aktų nustatyta tvarka gauti kitą informaciją, duomenis ar dokumentus, reikalingus kadastro duomenų nustatymo kokybės kontrolei ar valstybinei ekspertizei atlikti.4. Matininkas ar matininkas ekspertas, parengęs įstatymais ir kitais teisės aktais reglamentuotus nekilnojamojo turto kadastro dokumentus, pasirašydamas juose patvirtina, kad parengti dokumentai atitinka įstatymų ir kitų teisės aktų, reglamentuojančių nekilnojamųjų daiktų kadastrinius matavimus, reikalavimus.5. Matininkas ekspertas, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atlikdamas kadastro duomenų nustatymo kokybės kontrolę ir valstybinę ekspertizę, privalo nusišalinti nuo šių darbų vykdymo, jeigu:1) jis yra vykdęs nekilnojamojo daikto, kurio kadastro duomenų nustatymo kontrolė vykdoma, kadastro duomenų nustatymo darbus;2) jis yra su nekilnojamojo daikto, kurio kadastro duomenų nustatymo kontrolė vykdoma, savininkais ar naudotojais susijęs giminystės ar svainystės ryšiais;3) jį su nekilnojamojo daikto, kurio kadastro duomenų nustatymo kontrolė vykdoma, savininkais ar naudotojais sieja santuokos, partnerystės, globos ar rūpybos santykiai;4) nekilnojamojo daikto, kurio kadastro duomenų nustatymo kontrolė vykdoma, kadastro duomenis yra nustatę matininkai ar matininkai ekspertai, dirbantys tame pačiame licencijuotame asmenyje kaip ir jis;5) jis pats, jo sutuoktinis (sugyventinis) arba jo artimieji giminaičiai yra tiesiogiai ar netiesiogiai suinteresuoti kontrolės ar valstybinės ekspertizės baigtimi.6. Matininkas ar matininkas ekspertas privalo:1) savo veikloje vadovautis Lietuvos Respublikos įstatymais ir kitais teisės aktais;2) būti nešališkas;3) nuolat tobulinti kvalifikaciją;4) Vyriausybės nustatyta tvarka teikti informaciją suinteresuotiems asmenims dėl savo parengtų nekilnojamojo turto kadastro dokumentų;5) atlikti kitas teisės aktais nustatytas pareigas.7. Matininkui ar matininkui ekspertui, pažeidusiam jo veiklai nustatytus reikalavimus, Vyriausybės nustatyta tvarka gali būti sustabdytas ar panaikintas kvalifikaciją patvirtinančio pažymėjimo galiojimas.8. Matininkas ir matininkas ekspertas atsako Darbo kodekso ir šio įstatymo nustatyta tvarka už neteisėtais veiksmais kitiems asmenims padarytą žalą nustatant nekilnojamųjų daiktų kadastro duomenis.
+nustatyti. Tokiu atveju apie numatomus atlikti darbus Kadastro nuostatų
+nustatyta tvarka turi būti pranešama gretimų žemės sklypų savininkams ar
+naudotojams;
+
+4) gauti
+Nekilnojamojo turto kadastro duomenis ir dokumentus nekilnojamojo turto
+kadastro duomenims nustatyti;
+5) gauti
+teritorijų planavimo dokumentus ir duomenis nekilnojamojo turto kadastro duomenims
+nustatyti;
+6) teisės aktų
+nustatyta tvarka gauti kitą informaciją, duomenis ar dokumentus, reikalingus
+nekilnojamojo turto kadastro duomenims nustatyti.
+3. Matininkai
+ekspertai, be šio straipsnio 2 dalyje nurodytų teisių, turi teisę:
+1) gauti
+Nekilnojamojo turto kadastro duomenis ir dokumentus nekilnojamojo turto kadastro duomenų
+nustatymo kokybės kontrolei ar valstybinei ekspertizei atlikti;
+2) gauti teritorijų
+planavimo dokumentus ir duomenis nekilnojamojo turto kadastro duomenų
+nustatymo kokybės kontrolei ar valstybinei ekspertizei atlikti;
+3) teisės aktų
+nustatyta tvarka gauti kitą informaciją, duomenis ar dokumentus, reikalingus kadastro
+duomenų nustatymo kokybės kontrolei ar valstybinei ekspertizei atlikti.
+4. Matininkas ar
+matininkas ekspertas,
+parengęs įstatymais ir kitais teisės aktais reglamentuotus nekilnojamojo turto
+kadastro dokumentus, pasirašydamas juose patvirtina, kad parengti dokumentai
+atitinka įstatymų ir kitų teisės aktų, reglamentuojančių nekilnojamųjų daiktų
+kadastrinius matavimus, reikalavimus.
+5. Matininkas
+ekspertas, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka
+atlikdamas kadastro duomenų nustatymo kokybės kontrolę ir valstybinę
+ekspertizę, privalo nusišalinti nuo šių darbų vykdymo, jeigu:
+1) jis yra
+vykdęs nekilnojamojo daikto, kurio kadastro duomenų nustatymo kontrolė vykdoma,
+kadastro duomenų nustatymo darbus;
+2) jis yra su
+nekilnojamojo daikto, kurio kadastro duomenų nustatymo kontrolė vykdoma,
+savininkais ar naudotojais susijęs giminystės ar svainystės ryšiais;
+3) jį su
+nekilnojamojo daikto, kurio kadastro duomenų nustatymo kontrolė vykdoma,
+savininkais ar naudotojais sieja santuokos, partnerystės, globos ar rūpybos
+santykiai;
+4) nekilnojamojo
+daikto, kurio kadastro duomenų nustatymo kontrolė vykdoma, kadastro duomenis
+yra nustatę matininkai ar matininkai ekspertai, dirbantys tame pačiame
+licencijuotame asmenyje kaip ir jis;
+5) jis pats, jo
+sutuoktinis (sugyventinis) arba jo artimieji giminaičiai yra tiesiogiai ar netiesiogiai
+suinteresuoti kontrolės ar valstybinės ekspertizės baigtimi.
+6. Matininkas ar
+matininkas ekspertas privalo:
+1) savo veikloje
+vadovautis Lietuvos Respublikos įstatymais ir kitais teisės aktais;
+2) būti
+nešališkas;
+3) nuolat
+tobulinti kvalifikaciją;
+4) Vyriausybės
+nustatyta tvarka teikti informaciją suinteresuotiems asmenims dėl savo parengtų
+nekilnojamojo turto kadastro dokumentų;
+5) atlikti kitas
+teisės aktais nustatytas pareigas.
+7. Matininkui ar
+matininkui ekspertui, pažeidusiam jo veiklai nustatytus reikalavimus,
+Vyriausybės nustatyta tvarka gali būti sustabdytas ar panaikintas kvalifikaciją
+patvirtinančio pažymėjimo galiojimas.
+8. Matininkas ir
+matininkas ekspertas atsako Darbo kodekso ir šio įstatymo nustatyta tvarka už
+neteisėtais veiksmais kitiems asmenims padarytą žalą nustatant nekilnojamųjų
+daiktų kadastro duomenis.
 Straipsnio pakeitimai:
 Nr. X-1007,
 2006-12-21, Žin., 2007, Nr. 4-159 (2007-01-11)
@@ -526,9 +578,9 @@ Vyriausybės nustatyti dokumentai.
 2. Kartu su dokumentais dėl
 nekilnojamojo daikto kadastro duomenų įrašymo į nekilnojamojo turto kadastrą ar
 jų pakeitimo, išskyrus atvejus, nurodytus šio straipsnio 3 dalyje, Kadastro
-tvarkytojui turi būti pateikiamas prašymas įrašyti nekilnojamojo daikto kadastro
-duomenis į nekilnojamojo turto kadastrą ir nekilnojamojo daikto kadastro
-duomenų byla.
+tvarkytojui turi būti pateikiamas prašymas įrašyti nekilnojamojo daikto
+kadastro duomenis į nekilnojamojo turto kadastrą ir nekilnojamojo daikto
+kadastro duomenų byla.
 3. Kai prašoma
 nekilnojamojo turto kadastre pakeisti nekilnojamojo daikto kadastro duomenis
 dėl skirtingo tikslumo kadastrinių matavimų, Kadastro tvarkytojas šiuos
@@ -536,7 +588,8 @@ duomenis pakeičia pagal nekilnojamojo daikto kadastro duomenų bylą Kadastro
 nuostatų nustatyta tvarka.
 4. Kadastro tvarkytojui pateikiamų
 dokumentų sąrašą, kai yra prašoma įrašyti į nekilnojamojo turto kadastrą
-duomenis apie statinius, kurie buvo įgyti ar pastatyti iki 1991 m. liepos 25 d., nustato Vyriausybė.
+duomenis apie statinius, kurie buvo įgyti ar pastatyti iki 1991 m. liepos 25
+d., nustato Vyriausybė.
  
 13
 straipsnis. Nekilnojamojo daikto kadastro duomenų įrašymas į nekilnojamojo 
@@ -568,10 +621,10 @@ nekilnojamojo turto kadastrą ar juos pakeičia;
 2)
 prašymą atmesti. Kai prašymų įrašyti nekilnojamojo daikto kadastro duomenis į
 nekilnojamojo turto kadastrą ar juos pakeisti nagrinėjimo metu nustatomos
-aplinkybės, nurodytos šio Įstatymo 14 straipsnyje, Kadastro tvarkytojas
-Kadastro nuostatų nustatyta tvarka atsisako patenkinti prašymą, grąžina
-pateiktus dokumentus ir raštu praneša apie tai prašymą padavusiam asmeniui bei
-išdėsto atsisakymo motyvus;
+aplinkybės, nurodytos šio Įstatymo 14 straipsnyje, Kadastro tvarkytojas Kadastro
+nuostatų nustatyta tvarka atsisako patenkinti prašymą, grąžina pateiktus
+dokumentus ir raštu praneša apie tai prašymą padavusiam asmeniui bei išdėsto
+atsisakymo motyvus;
 3)
 sprendimo priėmimą atidėti. Kai prašymų įrašyti nekilnojamojo daikto kadastro
 duomenis į nekilnojamojo turto kadastrą ar juos pakeisti nagrinėjimo metu
@@ -579,8 +632,8 @@ nustatomos aplinkybės, nurodytos šio Įstatymo 14 straipsnyje, ir yra reali
 tikimybė tas aplinkybes pašalinti per vieną mėnesį, Kadastro tvarkytojas
 Kadastro nuostatų nustatyta tvarka atideda spendimo priėmimą dėl prašymo
 patenkinimo. Atidėdamas sprendimą kadastro tvarkytojas nustato ne ilgesnį kaip
-vieno mėnesio terminą aplinkybėms, trukdančioms įrašyti nekilnojamojo daikto kadastro
-duomenis į nekilnojamojo turto kadastrą ar juos pakeisti, pašalinti.
+vieno mėnesio terminą aplinkybėms, trukdančioms įrašyti nekilnojamojo daikto
+kadastro duomenis į nekilnojamojo turto kadastrą ar juos pakeisti, pašalinti.
 5. Kadastro tvarkytojas, įrašęs ar
 pakeitęs nekilnojamojo daikto kadastro duomenis, prašymą padavusiam asmeniui
 įteikia arba išsiunčia (prašyme nurodytu adresu) Nekilnojamojo turto registro
@@ -600,8 +653,8 @@ aplinkybių:
 1) asmenys, padavę prašymą, neturėjo
 teisės jį paduoti;
 2) dokumentas, kurio pagrindu prašoma
-įrašyti nekilnojamojo daikto kadastro duomenis į nekilnojamojo turto kadastrą
-ar juos pakeisti, yra įstatymų nustatyta tvarka panaikintas;
+įrašyti nekilnojamojo daikto kadastro duomenis į nekilnojamojo turto kadastrą ar
+juos pakeisti, yra įstatymų nustatyta tvarka panaikintas;
 3) dokumento, kurio pagrindu prašoma
 įrašyti nekilnojamojo daikto kadastro duomenis į nekilnojamojo turto kadastrą
 ar juos pakeisti, duomenys apie nekilnojamąjį daiktą nesutampa su šio daikto
@@ -718,12 +771,12 @@ kadastro žemėlapyje. Kad nekilnojamasis daiktas yra pažymėtas kadastro
 žemėlapyje, rodo Kadastro tvarkytojo žyma – spaudas nekilnojamojo daikto plane.
 Šio spaudo formą ir turinį nustato ir tvirtina Kadastro tvarkytojas.
 6.
-Leistinus nekilnojamojo turto kadastro duomenų neatitikimų dydžius ir
-nekilnojamojo turto kadastro žemėlapio tikslinimo dėl to, kad buvo naudota
-skirtingo tikslumo kartografinė medžiaga, tvarką nustato Kadastro nuostatai.
+Leistinus nekilnojamojo turto kadastro duomenų neatitikimų dydžius ir nekilnojamojo
+turto kadastro žemėlapio tikslinimo dėl to, kad buvo naudota skirtingo tikslumo
+kartografinė medžiaga, tvarką nustato Kadastro nuostatai.
 Straipsnio pakeitimai:
-Nr. X-1007,
-2006-12-21, Žin., 2007, Nr. 4-159 (2007-01-11)
+Nr. X-1007, 2006-12-21,
+Žin., 2007, Nr. 4-159 (2007-01-11)
  
 18
 straipsnis. Nekilnojamojo daikto dokumentų archyvinė byla
@@ -839,11 +892,20 @@ koordinatės nustatomos grafiškai pagal paskiausiai atnaujintą kartografinę
 medžiagą Kadastro nuostatų nustatyta tvarka. Ši nuostata taikoma iki 2008 m.
 sausio 1 d.
  
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-1406,
+2007-12-21, Žin., 2008, Nr. 4-120 (2008-01-10)
+NEKILNOJAMOJO
+TURTO KADASTRO ĮSTATYMO 8 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2007-01-15)
+Aušrinė Trapinskienė (2008-01-10)
                  
 autrap@lrs.lt
