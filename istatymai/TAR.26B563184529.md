@@ -18,10 +18,10 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Neoficialus
-įstatymo tekstas
 Įstatymas
 paskelbtas: Žin., 1995, Nr. 107-2391
+Neoficialus
+įstatymo tekstas
  
 LIETUVOS
 RESPUBLIKOS 
@@ -29,8 +29,8 @@ TERITORIJŲ
 PLANAVIMO 
 ĮSTATYMAS
  
-1995 m. gruodžio
-12 d. Nr. I-1120 
+1995 m. gruodžio 12 d.
+Nr. I-1120 
 Vilnius 
  
 Nauja
@@ -1051,24 +1051,50 @@ plotas;
 2. Detalieji
 planai gali būti rengiami ir kitais atvejais, kai tai numato įstatymai ar kiti
 teisės aktai.
+ 
+3
+dalies redakcija iki 2008 m. kovo 1 d.:
 3. Detalieji planai nerengiami, jeigu
 numatomiems statyti statiniams statybos leidimas yra nereikalingas, taip pat
 kai statant statinius žemės sklypo tvarkymo ir naudojimo režimas yra
 nekeičiamas.
+3
+dalies redakcija nuo 2008 m. kovo 1 d.:
+3. Detalieji planai nerengiami, jeigu
+numatomiems statyti statiniams statybos leidimas yra nereikalingas, taip
+pat kai statant statinius žemės sklypo tvarkymo ir naudojimo režimas yra
+nekeičiamas ir jeigu tai numatyta kituose įstatymuose.
+ 
 4. Naudojamų gretimų žemės sklypų ribas
 ir plotą be detaliojo plano galima keisti, jei toks keitimas nesiejamas su
 naujo sklypo suformavimu ar žemės ploto padidinimu laisvoje valstybinėje
 žemėje, taip pat teritorijos tvarkymo ir naudojimo režimo pakeitimu.
+ 
+5
+dalies redakcija iki 2008 m. kovo 1 d.:
 5. Kaimų teritorijose ir žemės ūkio
 paskirties žemėje šio straipsnio 1 dalies 5, 6 ir 7 punktuose nustatytais
 atvejais vietoj detaliųjų planų rengiami žemėvaldų planai (projektai) Žemės
 įstatymo ir šio Įstatymo 18 straipsnio 1 dalies nurodytose taisyklėse nustatyta
 tvarka. 
+5
+dalies redakcija nuo 2008 m. kovo 1 d.:
+5. Kaimų
+teritorijose ir žemės ūkio paskirties žemėje, išskyrus miestams po 1995 m. birželio 1 d. nustatyta tvarka priskirtas teritorijas, šio straipsnio 1 dalies 5, 6 ir 7
+punktuose nustatytais atvejais, taip pat kaimų teritorijose statant ūkininko
+sodybą ar pagalbinio ūkio ir kitos paskirties (fermų, ūkio, šiltnamių,
+kaimo turizmo) pastatus, kai vykdoma statyba atitinka Lietuvos Respublikos
+ūkininko ūkio įstatyme nurodytas ūkininko sodybos ar pagalbinio ūkio ir
+kitos paskirties (fermų, ūkio, šiltnamių, kaimo turizmo) pastatų statybos
+sąlygas, vietoj detaliųjų planų rengiami žemėvaldų planai (projektai) arba
+kaimo plėtros žemėtvarkos projektai Žemės įstatymo ir šio Įstatymo 18
+straipsnio 1 dalyje nurodytose taisyklėse nustatyta tvarka.
+ 
 6. Detalieji planai, keičiantys
 pagrindinę tikslinę žemės naudojimo paskirtį iš žemės ūkio į kitos paskirties
-žemę, rengiami, jei toks keitimas numatytas savivaldybės ar jos dalies bendruosiuose,
-taip pat specialiuosiuose planuose. Jei bendrieji ar specialieji planai
-neparengti, detaliųjų planų planavimo organizatoriumi gali būti tik
+žemę, rengiami, jei toks keitimas numatytas savivaldybės ar jos dalies
+bendruosiuose, taip pat specialiuosiuose planuose. Jei bendrieji ar specialieji
+planai neparengti, detaliųjų planų planavimo organizatoriumi gali būti tik
 savivaldybės administracijos direktorius arba valstybinės žemės valdytojas. Jei
 žemės valdytojas ar naudotojas numato keisti pagrindinę tikslinę žemės
 naudojimo paskirtį iš žemės ūkio į kitos paskirties žemę, kurioje numatyta
@@ -1077,9 +1103,9 @@ gyvenamuosius namus),
 iki 2007 m. gruodžio 31 d., kai turi būti parengti savivaldybių teritorijų ir
 jų dalių (miestų ir miestelių) bendrieji planai, savivaldybės administracijos
 direktorius, esant savivaldybės tarybos sprendimui ir apskrities viršininko
-pritarimui, Vyriausybės nustatyta tvarka sudaro sutartį dėl detaliojo teritorijų
-planavimo organizatoriaus teisių ir pareigų perdavimo žemės valdytojui ar
-naudotojui.
+pritarimui, Vyriausybės nustatyta tvarka sudaro sutartį dėl detaliojo
+teritorijų planavimo organizatoriaus teisių ir pareigų perdavimo žemės
+valdytojui ar naudotojui.
 7. Detalieji planai nerengiami, kai
 žemės ūkio paskirties žemėje numatoma nustatyta tvarka įveisti mišką.
 8. Šio straipsnio 1 dalies 5, 6 ir 7
@@ -1092,6 +1118,9 @@ Nr. IX-2466,
 2004-09-28, Žin., 2004, Nr. 152-5532 (2004-10-16)
 Nr. X-679, 2006-06-08,
 Žin., 2006, Nr. 66-2429 (2006-06-13)
+Nr.
+X-1421,
+2008-01-17, Žin., 2008, Nr. 10-337 (2008-01-24)
  
 23 straipsnis.
 Teritorijų tvarkymo ir naudojimo režimas
@@ -1451,10 +1480,9 @@ konsultavimasis, viešas svarstymas, informacijos teikimas ir kt.) atlieka
 planavimo organizatorius. 
 3. Visuomenės dalyvavimo teritorijų planavimo
 procese bendroji ir supaprastinta tvarka reglamentuojama Vyriausybės
-patvirtintuose konsultavimosi, viešo svarstymo nuostatuose. Bendroji ir
-supaprastinta visuomenės dalyvavimo teritorijų planavimo procese svarstymo
-tvarka nustatoma atsižvelgiant į teritorijų planavimo dokumentų lygmenis ir
-rūšis. 
+patvirtintuose konsultavimosi, viešo svarstymo nuostatuose. Bendroji ir supaprastinta
+visuomenės dalyvavimo teritorijų planavimo procese svarstymo tvarka nustatoma
+atsižvelgiant į teritorijų planavimo dokumentų lygmenis ir rūšis. 
  
 31
 straipsnis. Teritorijų planavimo viešumas
@@ -1465,13 +1493,13 @@ institucijų interneto tinklalapiuose. Aukštesniųjų administracinių vienetų
 valdymo institucijų sprendimai dėl teritorijų planavimo dokumentų rengimo
 pradžios ir planavimo tikslų skelbiami vietinėje spaudoje bei institucijų
 interneto tinklalapiuose. Savivaldybių ir jų vykdomųjų institucijų priimti
-sprendimai dėl teritorijų planavimo dokumentų rengimo skelbiami vietinėje
-spaudoje, savivaldybės interneto tinklalapyje ir seniūnijose, kuriose vyksta
-teritorijos planavimas. Detaliojo planavimo organizatorius apie žemės sklypo ar
-grupės žemės sklypų teritorijos planavimo dokumentų rengimo pradžią bei
-planavimo tikslus raštu informuoja kaimyninių žemės sklypų valdytojus ir
-naudotojus, taip pat detaliųjų planų rengimo taisyklėse nustatyta tvarka prie
-planuojamos teritorijos įrengia stendą su šia informacija.
+sprendimai dėl teritorijų planavimo dokumentų rengimo skelbiami vietinėje spaudoje,
+savivaldybės interneto tinklalapyje ir seniūnijose, kuriose vyksta teritorijos
+planavimas. Detaliojo planavimo organizatorius apie žemės sklypo ar grupės
+žemės sklypų teritorijos planavimo dokumentų rengimo pradžią bei planavimo
+tikslus raštu informuoja kaimyninių žemės sklypų valdytojus ir naudotojus, taip
+pat detaliųjų planų rengimo taisyklėse nustatyta tvarka prie planuojamos
+teritorijos įrengia stendą su šia informacija.
 2. Fiziniai ir juridiniai asmenys turi teisę
 susipažinti su parengtais ir patvirtintais teritorijų planavimo dokumentais
 teritorijų planavimą organizavusioje institucijoje, gauti teritorijų planavimo
@@ -1638,9 +1666,9 @@ Nr. X-679, 2006-06-08,
  
 35 straipsnis. Valstybinę teritorijų planavimo
 priežiūrą atliekančių institucijų funkcijos 
-Valstybinę teritorijų
-planavimo priežiūrą atliekanti institucija pagal kompetenciją atlieka šias
-funkcijas:
+Valstybinę
+teritorijų planavimo priežiūrą atliekanti institucija pagal kompetenciją
+atlieka šias funkcijas:
 1) tikrina, ar planavimo sąlygos ir planavimo
 sąlygų sąvadas atitinka teisės aktų reikalavimus, ar teritorijų planavimo
 dokumentų sprendiniai atitinka planavimo sąlygas, ar atliktos visos teritorijų
@@ -1827,12 +1855,11 @@ Nr. IX-1962,
 TERITORIJŲ
 PLANAVIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Šis
-Įstatymas, išskyrus jo 2 ir 3 straipsnius, įsigalioja nuo 2004 m. gegužės 1
-d.
+Įstatymas, išskyrus jo 2 ir 3 straipsnius, įsigalioja nuo 2004 m. gegužės 1 d.
 Nauja
 įstatymo redakcija 
 Iki
-2004 m. gegužės 1 d. pradėti rengti teritorijų planavimo dokumentai (išskyrus
+ 2004 m. gegužės 1 d. pradėti rengti teritorijų planavimo dokumentai (išskyrus
 bendruosius planus), kuriems išduotos planavimo sąlygos, sudarytos planavimo
 darbų sutartys ir pradėtos viešo svarstymo su visuomene procedūros, baigiami
 rengti pagal iki 2004 m. gegužės 1 d. galiojusį Teritorijų planavimo įstatymą
@@ -1881,11 +1908,21 @@ Nr. X-1061,
 TERITORIJŲ
 PLANAVIMO ĮSTATYMO 11, 18 IR 26 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
+14.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. X-1421,
+2008-01-17, Žin., 2008, Nr. 10-337 (2008-01-24)
+TERITORIJŲ
+PLANAVIMO ĮSTATYMO 22 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2008 m. kovo 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2007-04-05)
+Aušrinė Trapinskienė (2008-01-24)
                  
 autrap@lrs.lt
