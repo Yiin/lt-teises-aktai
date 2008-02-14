@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE6CFE9E2EE"
 
 # Lietuvos Respublikos šalpos pensijų įstatymas
 
-Suvestinė redakcija nuo 2008-01-01 iki 2008-02-13
+Suvestinė redakcija nuo 2008-02-14 iki 2009-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1873, i. k. 0941010ISTA000I-675
  
@@ -143,7 +143,15 @@ BENDROSIOS NUOSTATOS
 
 
 
-4) šalpos kompensacijos. 
+4) šalpos kompensacijos;
+
+
+
+
+5) tikslinis priedas.
+Papildyta straipsnio punktu:
+Nr. X-1448, 2008-02-01, Žin., 2008, Nr. 19-676 (2008-02-14), i. k. 1081010ISTA00X-1448
+ 
 
 
 
@@ -410,7 +418,7 @@ Teisę gauti slaugos ar priežiūros (pagalbos) išlaidų tikslinę kompensacij�
 
 
 
-12 straipsnis.       Slaugos ar priežiūros (pagalbos) išlaidų tikslinių kompensacijų skyrimo ir mokėjimo sąlygos
+12 straipsnis. Slaugos ar priežiūros (pagalbos) išlaidų tikslinių kompensacijų skyrimo ir mokėjimo sąlygos
 
 
 1. Slaugos išlaidų tikslinės kompensacijos skiriamos ir mokamos šio įstatymo 11 straipsnyje nurodytiems neįgaliesiems, kuriems nustatytas specialusis nuolatinės slaugos poreikis. 
@@ -497,7 +505,7 @@ Teisę gauti slaugos ar priežiūros (pagalbos) išlaidų tikslinę kompensacij�
 
 
 
-14 straipsnis.       Slaugos ar priežiūros (pagalbos) išlaidų tikslinių kompensacijų skyrimo ir mokėjimo pradžia
+14 straipsnis. Slaugos ar priežiūros (pagalbos) išlaidų tikslinių kompensacijų skyrimo ir mokėjimo pradžia
 
 
 1. Šio įstatymo 13 straipsnio 1 dalyje nurodyto dydžio slaugos išlaidų tikslinės kompensacijos šio įstatymo 11 straipsnio 1 ir 2 punktuose nurodytiems neįgaliems vaikams ir neįgaliesiems ir šio įstatymo 13 straipsnio 2 ir 3 dalyse nurodytų dydžių priežiūros (pagalbos) išlaidų tikslinės kompensacijos skiriamos ir mokamos nuo 2005 m. liepos 1 d.
@@ -515,7 +523,9 @@ Teisę gauti slaugos ar priežiūros (pagalbos) išlaidų tikslinę kompensacij�
 
 
 
-4. Priežiūros (pagalbos) išlaidų tikslinės kompensacijos šio įstatymo 11 straipsnio 4 punkte nurodytiems neįgaliesiems skiriamos ir mokamos nuo 2006 m. sausio 1 d., jeigu šie asmenys negauna valstybinės socialinio draudimo I invalidumo grupės pensijos arba 0,5 valstybinės socialinio draudimo bazinės pensijos dydžio priedo, skirto specialiajam nuolatinės slaugos ar nuolatinės priežiūros (pagalbos) poreikiui tenkinti, mokamų Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos teritorinių skyrių. Nuo 2008 m. sausio 1 d. vietoj priedo, skirto specialiajam nuolatinės slaugos ar nuolatinės priežiūros (pagalbos) poreikiui tenkinti, skiriamos ir mokamos priežiūros (pagalbos) išlaidų tikslinės kompensacijos pagal šį įstatymą. Jos mokamos nepaisant asmens gaunamos pensijos rūšies. 
+4. Priežiūros (pagalbos) išlaidų tikslinės kompensacijos šio įstatymo 11 straipsnio 4 punkte nurodytiems neįgaliesiems skiriamos ir mokamos nuo 2006 m. sausio 1 d., jeigu šie asmenys negauna valstybinės socialinio draudimo I invalidumo grupės pensijos arba 0,5 valstybinės socialinio draudimo bazinės pensijos dydžio priedo, skirto specialiajam nuolatinės slaugos ar nuolatinės priežiūros (pagalbos) poreikiui tenkinti, mokamų Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos teritorinių skyrių. Nuo 2008 m. sausio 1 d. vietoj priedo, skirto specialiajam nuolatinės slaugos ar nuolatinės priežiūros (pagalbos) poreikiui tenkinti, skiriamos ir mokamos priežiūros (pagalbos) išlaidų tikslinės kompensacijos pagal šį įstatymą. Jos mokamos nepaisant asmens gaunamos pensijos rūšies. Asmenims, kuriems nustatytas specialusis nuolatinės slaugos poreikis (iki 2005 m. liepos 1 d. – visiška negalia), vietoj nurodytojo priedo nuo jo mokėjimo nutraukimo dienos savivaldybių administracijose skiriamas ir mokamas 0,5 bazinės pensijos dydžio tikslinis priedas.
+Straipsnio dalies pakeitimai:
+Nr. X-1448, 2008-02-01, Žin., 2008, Nr. 19-676 (2008-02-14), i. k. 1081010ISTA00X-1448
  
 
 
@@ -998,7 +1008,7 @@ TEISIŲ, ĮGYTŲ IKI 2005 M. LIEPOS 1 D., IŠSAUGOJIMAS
 
 
 
-26 straipsnis.       Šalpos pensijų, paskirtų iki 2004 m. balandžio 1 d. už invalidų slaugą namuose, mokėjimas
+26 straipsnis. Šalpos pensijų, paskirtų iki 2004 m. balandžio 1 d. už invalidų slaugą namuose, mokėjimas
 
 
 1. Šalpos pensijų, paskirtų vienam iš tėvų (įtėvių), globėjui ar rūpintojui iki 2004 m. balandžio 1 d. galiojusia tvarka už vaikų invalidų arba I grupės invalidų nuo vaikystės, arba tapusių I grupės invalidais iki 18 metų slaugą namuose (toliau šiame straipsnyje – namuose slaugomi invalidai), mokėjimas tęsiamas tol, kol pasibaigia šių šalpos pensijų skyrimo ir mokėjimo terminas, nustatytas šio straipsnio 2 dalyje. 
@@ -1174,3 +1184,8 @@ Lietuvos Respublikos valstybinių šalpos išmokų įstatymo pakeitimo įstatyma
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1394, 2007-12-20, Žin., 2007, Nr. 138-5649 (2007-12-29), i. k. 1071010ISTA00X-1394
 Lietuvos Respublikos valstybinių šalpos išmokų įstatymo 6 ir 19 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1448, 2008-02-01, Žin., 2008, Nr. 19-676 (2008-02-14), i. k. 1081010ISTA00X-1448
+Lietuvos Respublikos valstybinių šalpos išmokų įstatymo 3, 14 straipsnių papildymo ir pakeitimo įstatymas
