@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2007-01-30 iki 2008-02-29
+Suvestinė redakcija nuo 2008-03-01 iki 2008-08-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
  
@@ -123,7 +123,10 @@ Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA0
 
 
 
-7. Finansų įmonė – Lietuvos Respublikos įmonė arba užsienio valstybės įmonės padalinys, kuris veikia Lietuvos Respublikoje įstatymų, reglamentuojančių finansinių paslaugų teikimą ir finansų įstaigų veiklą, nustatyta tvarka ir verčiasi vienos arba daugiau šio Įstatymo 3 straipsnio 1 dalies 2, 3, 5–17 punktuose nurodytų finansinių paslaugų teikimu. 
+7. Finansų įmonė – Lietuvos Respublikos įmonė arba užsienio valstybės įmonės padalinys, kuris veikia Lietuvos Respublikoje įstatymų, reglamentuojančių finansinių paslaugų teikimą ir finansų įstaigų veiklą, nustatyta tvarka ir verčiasi vienos arba daugiau šio Įstatymo 3 straipsnio 1 dalies 2, 3, 5–17, 19 punktuose nurodytų finansinių paslaugų teikimu. 
+Straipsnio dalies pakeitimai:
+Nr. X-1306, 2007-10-25, Žin., 2007, Nr. 117-4775 (2007-11-15), i. k. 1071010ISTA00X-1306
+ 
 
 
 
@@ -600,9 +603,11 @@ Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010IST
 
 
 
-19) investicinių fondų ar investicinių kintamojo kapitalo bendrovių administravimas. 
+19) investicinių fondų, uždaro tipo investicinių bendrovių, pensijų fondų ar investicinių kintamojo kapitalo bendrovių valdymas. 
 Papildyta straipsnio punktu:
 Nr. IX-1720, 2003-07-04, Žin., 2003, Nr. 74-3435 (2003-07-25), i. k. 1031010ISTA0IX-1720
+Straipsnio punkto pakeitimai:
+Nr. X-1306, 2007-10-25, Žin., 2007, Nr. 117-4775 (2007-11-15), i. k. 1071010ISTA00X-1306
  
 
 
@@ -2960,3 +2965,8 @@ Lietuvos Respublikos finansų įstaigų įstatymo 2 straipsnio pakeitimo įstaty
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
 Lietuvos Respublikos finansų įstaigų įstatymo 1, 2, 20 straipsnių pakeitimo ir papildymo, įstatymo papildymo 38(1) straipsniu, dešimtojo skirsnio pripažinimo netekusiu galios ir Įstatymo papildymo priedu įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1306, 2007-10-25, Žin., 2007, Nr. 117-4775 (2007-11-15), i. k. 1071010ISTA00X-1306
+Lietuvos Respublikos finansų įstaigų įstatymo 2, 3 straipsnių pakeitimo ir papildymo įstatymas
