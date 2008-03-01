@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.291FFED8D558"
 
 # Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymas
 
+Suvestinė redakcija nuo 2008-03-01 iki 2008-06-20
+ 
+Įstatymas paskelbtas: Žin. 2004, Nr. 61-2183, i. k. 1041010ISTA0IX-2127
+ 
+ 
 LIETUVOS RESPUBLIKOS FINANSINIO UŽTIKRINIMO SUSITARIMŲ Į S T A T Y M A S  
 2004 m. balandžio 15 d. Nr. IX-2127
 Vilnius
@@ -267,7 +272,15 @@ BENDROSIOS NUOSTATOS
 
 
 
-9) asmuo, išskyrus fizinius asmenis, su sąlyga, kad kita šalis yra subjektas, nurodytas šios dalies 1–8 punktuose.
+9) asmuo, išskyrus fizinius asmenis, su sąlyga, kad kita šalis yra subjektas, nurodytas šios dalies 1–8 punktuose;
+
+
+
+
+10) uždaro tipo investicinė bendrovė.
+Papildyta straipsnio punktu:
+Nr. X-1309, 2007-10-25, Žin., 2007, Nr. 117-4778 (2007-11-15), i. k. 1071010ISTA00X-1309
+ 
 
 
 
@@ -736,3 +749,14 @@ Europos Parlamento ir Tarybos 2002 m. birželio 6 d. direktyva 2002/47/EB dėl s
 
 
 ______________
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1309, 2007-10-25, Žin., 2007, Nr. 117-4778 (2007-11-15), i. k. 1071010ISTA00X-1309
+Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymo 3 straipsnio papildymo įstatymas
