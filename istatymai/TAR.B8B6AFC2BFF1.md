@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B8B6AFC2BFF1"
 
 # Lietuvos Respublikos konkurencijos įstatymas
 
-Suvestinė redakcija nuo 2004-05-01 iki 2008-02-29
+Suvestinė redakcija nuo 2008-03-01 iki 2009-04-24
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 30-856, i. k. 0991010ISTAIII-1099
  
@@ -452,7 +452,10 @@ KONCENTRACIJOS KONTROLĖ
 
 
 
-3) koncentruojamų ūkio subjektų, iš kurių viename ar keliuose tas pats fizinis asmuo arba tie patys fiziniai asmenys, turėdami kontrolės teisę, įsigyja kitą ūkio subjektą (įmonę ar jos dalį), visą ūkio subjekto turtą ar turto dalį arba įsigyja kito ūkio subjekto akcijų dalį, kuri, įskaitant viską, kas buvo anksčiau įsigyta, sudaro 1/4 ar daugiau įstatinio kapitalo arba gauna teisę į kito ūkio subjekto 1/4 ar didesnę balsų dalį, bendrųjų pajamų suma. Apskaičiuojant fizinio asmens ar fizinių asmenų įsigyjamų kito ūkio subjekto akcijų dalį, įskaitomos akcijos, kurias šiame ūkio subjekte turi fizinio asmens ar tų pačių fizinių asmenų kontroliuojami ūkio subjektai bei visi tai pačiai susijusių ūkio subjektų grupei priklausantys ūkio subjektai. Jeigu įsigyjama ūkio subjekto (įmonės) dalis arba ūkio subjekto turto dalis, tai bendrosios pajamos ir rinkos dalis apskaičiuojama proporcingai įsigyjamo turto daliai;
+3) kolektyvinio investavimo subjektai ar juos valdančios valdymo įmonės, – bendrosios pajamos skaičiuojamos kaip visų ūkio subjektų, kuriuos kontroliuoja valdymo įmonė, uždaro tipo investicinė bendrovė ar investicinė kintamojo kapitalo bendrovė, kurių turto valdymas neperduotas valdymo įmonei, bendrųjų pajamų suma;
+Straipsnio punkto pakeitimai:
+Nr. X-1311, 2007-10-25, Žin., 2007, Nr. 117-4780 (2007-11-15), i. k. 1071010ISTA00X-1311
+ 
 
 
 
@@ -2168,3 +2171,8 @@ Lietuvos Respublikos konkurencijos įstatymo 10 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2126, 2004-04-15, Žin., 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
 Lietuvos Respublikos konkurencijos įstatymo pakeitimo ir papildymo, Valstybės pagalbos ūkio subjektams kontrolės įstatymo pripažinimo netekusiu galios ir Civilinio proceso kodekso 1 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1311, 2007-10-25, Žin., 2007, Nr. 117-4780 (2007-11-15), i. k. 1071010ISTA00X-1311
+Lietuvos Respublikos konkurencijos įstatymo 10 straipsnio pakeitimo įstatymas
