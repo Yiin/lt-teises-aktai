@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.769B541DD7F7"
 
 # Lietuvos Respublikos ūkininko ūkio įstatymas
 
-Suvestinė redakcija nuo 2005-12-20 iki 2008-02-29
+Suvestinė redakcija nuo 2008-03-01 iki 2009-03-04
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 43-1358, i. k. 0991010ISTAIII-1159
  
@@ -33,44 +33,53 @@ BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Įstatymo paskirtis 
+1 straipsnis. Įstatymo paskirtis
 
 
-Šis Įstatymas nustato ūkininko teisinį statusą, ūkininko ir jo partnerių veiklos pagrindus, ūkininko ūkio įregistravimo bei išregistravimo sąlygas ir tvarką, ūkininkui teikiamą paramą. 
+Šis Įstatymas nustato ūkininko teisinį statusą, ūkininko ir jo partnerių veiklos pagrindus, ūkininko ūkio įregistravimo bei išregistravimo sąlygas ir tvarką, ūkininkui teikiamą paramą ir ūkininko sodybos ar pagalbinio ūkio ir kitos paskirties (fermų, ūkio, šiltnamių, kaimo turizmo) pastatų statybos sąlygas.
+
+
+Straipsnio pakeitimai:
+Nr. X-1420, 2008-01-17, Žin., 2008, Nr. 10-336 (2008-01-24), i. k. 1081010ISTA00X-1420
  
 
 
 
 
+2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 
-2 straipsnis. Pagrindinės Įstatymo sąvokos 
-
-
-1. Ūkininkas – fizinis asmuo, kuris vienas arba su partneriais verčiasi žemės ūkio veikla ir miškininkyste, o jo ūkis yra įregistruotas Ūkininkų ūkių registre.
-
-
-
-
-2. Ūkininko partneriai – fiziniai asmenys ( ūkininko sutuoktinis, pilnamečiai šeimos nariai ar kiti fiziniai asmenys), kurie kartu su ūkininku verčiasi žemės ūkio veikla pagal sudarytą jungtinės veiklos (partnerystės) sutartį. 
+1. Talkininkas – fizinis asmuo, tarpusavio susitarimu ūkyje dirbantis nemokamai.
 
 
 
 
-3. Ūkininko ūkis (toliau – ūkis) – ūkininko turtinių ir asmeninių neturtinių teisių bei prievolių visuma. 
+2. Ūkininkas – fizinis asmuo, kuris vienas arba su partneriais verčiasi žemės ūkio veikla ir miškininkyste, o jo ūkis yra įregistruotas Ūkininkų ūkių registre.
 
 
 
 
-4. Talkininkas – fizinis asmuo, tarpusavio susitarimu ūkyje atliekantis neapmokamą darbą.
+3. Ūkininko partneris – fizinis asmuo (ūkininko sutuoktinis, pilnametis šeimos narys ar kitas fizinis asmuo), kuris kartu su ūkininku verčiasi žemės ūkio veikla ir miškininkyste pagal sudarytą jungtinės veiklos (partnerystės) sutartį.
 
 
 
 
-5. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos kituose įstatymuose.
+4. Ūkininko sodyba – nuosavybės teise priklausančiame žemės sklype pastatytas vienas gyvenamosios paskirties pastatas su pagalbinio ūkio ir kitos paskirties (fermų, ūkio, šiltnamių, kaimo turizmo) pastatais, reikalingais ūkininko veiklai vykdyti.
+
+
+
+
+5. Ūkininko ūkis (toliau – ūkis) – ūkininko turtinių ir asmeninių neturtinių teisių ir prievolių visuma.
+
+
+
+
+6. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos kituose įstatymuose.
+
+
+Straipsnio pakeitimai:
+Nr. X-1420, 2008-01-17, Žin., 2008, Nr. 10-336 (2008-01-24), i. k. 1081010ISTA00X-1420
  
-
-
 
 
 
@@ -340,6 +349,19 @@ TREČIASIS SKIRSNIS
 
 
 
+81 straipsnis. Ūkininko ūkio duomenų pasikeitimo įregistravimas ūkininkui mirus
+
+
+Ūkininkui mirus, jeigu įpėdinis tęsia ūkio veiklą, registro tvarkymo įstaigai pateikiami ūkio įregistravimo pažymėjimas ir prašymas įregistruoti ūkį įpėdinio vardu kartu su tai patvirtinančiais ir kitais dokumentais, nurodytais šio Įstatymo 7 straipsnyje.
+
+
+Papildyta straipsniu:
+Nr. X-1420, 2008-01-17, Žin., 2008, Nr. 10-336 (2008-01-24), i. k. 1081010ISTA00X-1420
+ 
+
+
+
+
 9 straipsnis. Ūkio išregistravimas 
 
 
@@ -351,9 +373,10 @@ TREČIASIS SKIRSNIS
 
 
 
-2) ūkininkui mirus, jeigu nėra ūkio paveldėtojų ir ūkio veikla toliau netęsiama;
+2) ūkininkui mirus, jeigu nėra įpėdinio ir ūkio veikla toliau netęsiama;
 Straipsnio punkto pakeitimai:
 Nr. X-427, 2005-12-06, Žin., 2005, Nr. 148-5390 (2005-12-20), i. k. 1051010ISTA000X-427
+Nr. X-1420, 2008-01-17, Žin., 2008, Nr. 10-336 (2008-01-24), i. k. 1081010ISTA00X-1420
  
 
 
@@ -377,7 +400,9 @@ Nr. X-427, 2005-12-06, Žin., 2005, Nr. 148-5390 (2005-12-20), i. k. 1051010ISTA
 
 
 KETVIRTASIS SKIRSNIS
-PARAMA ŪKININKUI
+PARAMA ŪKININKUI IR ŪKININKO SODYBOS STATYBOS SĄLYGOS 
+Pakeistas skirsnio pavadinimas:
+Nr. X-1420, 2008-01-17, Žin., 2008, Nr. 10-336 (2008-01-24), i. k. 1081010ISTA00X-1420
  
 
 
@@ -415,8 +440,28 @@ Nr. IX-2538, 2004-11-04, Žin., 2004, Nr. 171-6298 (2004-11-26), i. k. 1041010IS
 
 
 
+11 straipsnis. Ūkininko sodybos statybos sąlygos
 
 
+1. Nerengiant detaliųjų planų žemės ūkio paskirties žemėje ūkininkas gali statyti vieną ūkininko sodybą, išskyrus miestams po 1995 m. birželio 1 d. nustatyta tvarka priskirtose teritorijose. Ūkininko sodyba ar pagalbinio ūkio ir kitos paskirties (fermų, ūkio, šiltnamių, kaimo turizmo) pastatai statomi nuosavybės teise priklausančiame žemės ūkio paskirties žemės sklype, ne mažesniame kaip 0,5 hektaro.
+
+
+
+
+2. Leidimas statyti ūkininko sodybą išduodamas vadovaujantis Lietuvos Respublikos statybos įstatymu.
+
+
+Papildyta straipsniu:
+Nr. X-1420, 2008-01-17, Žin., 2008, Nr. 10-336 (2008-01-24), i. k. 1081010ISTA00X-1420
+ 
+
+
+
+
+
+
+ 
+ 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
@@ -442,3 +487,8 @@ Lietuvos Respublikos garantinio fondo įstatymo, Įmonių bankroto įstatymo, La
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-427, 2005-12-06, Žin., 2005, Nr. 148-5390 (2005-12-20), i. k. 1051010ISTA000X-427
 Lietuvos Respublikos ūkininko ūkio įstatymo 9 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1420, 2008-01-17, Žin., 2008, Nr. 10-336 (2008-01-24), i. k. 1081010ISTA00X-1420
+Lietuvos Respublikos ūkininko ūkio įstatymo 1, 2, 9 straipsnių pakeitimo ir papildymo, ketvirtojo skirsnio pavadinimo pakeitimo bei Įstatymo papildymo 8(1), 11 straipsniais įstatymas
