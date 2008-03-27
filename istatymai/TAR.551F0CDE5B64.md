@@ -25,9 +25,8 @@ AUTORIŲ TEISIŲ IR GRETUTINIŲ TEISIŲ
 1999 m. gegužės 18 d. Nr. VIII-1185
 Vilnius
 Nauja
-įstatymo redakcija
-nuo 2003 m. kovo 21 d. (20 straipsnio 3, 4, 5, 6
-dalys įsigalioja nuo 2004 m. sausio 1 d.):
+įstatymo redakcija nuo 2003 m. kovo 21 d. (20 straipsnio 3, 4, 5, 6 dalys
+įsigalioja nuo 2004 m. sausio 1 d.):
 Nr.
 IX-1355,
 2003-03-05, Žin., 2003, Nr. 28-1125 (2003-03-21)
@@ -87,9 +86,9 @@ autoriaus teiginiams įrodyti arba padaryti juos suprantamus, arba teikti
 nuorodą į kito autoriaus požiūrį ar mintis, suformuluotus originale. 
 7.
 Duomenų bazė – susistemintas ar metodiškai sutvarkytas kūrinių, duomenų
-arba kitokios medžiagos rinkinys, kuriuo galima individualiai naudotis
-elektroniniu ar kitu būdu, išskyrus kompiuterių programas, naudojamas tokių
-duomenų bazėms kurti ar valdyti. 
+arba kitokios medžiagos rinkinys, kuriuo galima individualiai naudotis elektroniniu
+ar kitu būdu, išskyrus kompiuterių programas, naudojamas tokių duomenų bazėms
+kurti ar valdyti. 
 8.
 Fonograma – kūrinio atlikimo, kitų garsų ar garsų išraiškos įrašas,
 užfiksuotas techninėmis priemonėmis kokioje nors materialioje garso laikmenoje.
@@ -100,10 +99,10 @@ atsakomybe užfiksuotas pirmasis kūrinio atlikimo, kitų garsų ar garsų išra
 įrašas. 
 10.
 Fotografijos kūrinys – vaizdas, užfiksuotas šviesos ar bet kokio kito
-spinduliavimo būdu ant šviesai jautraus paviršiaus ir nepaisant fiksavimo technologijos
-(cheminės, elektroninės ar kitokios) pasižymintis kompozicijos, objektų
-parinkimo ar jų fiksavimo originalumu. Atskiras audiovizualinio kūrinio kadras
-nėra fotografijos kūrinys, o tik to kūrinio dalis.
+spinduliavimo būdu ant šviesai jautraus paviršiaus ir nepaisant fiksavimo
+technologijos (cheminės, elektroninės ar kitokios) pasižymintis kompozicijos,
+objektų parinkimo ar jų fiksavimo originalumu. Atskiras audiovizualinio kūrinio
+kadras nėra fotografijos kūrinys, o tik to kūrinio dalis.
 11.
 Gretutinių teisių objektas – tiek tiesioginis (gyvas atlikimas), tiek į
 garso ar audiovizualinę laikmeną įrašytas kūrinio atlikimas, fonograma,
@@ -112,10 +111,9 @@ organizacijos radijo ir (ar) televizijos transliacija.
 12.
 Gretutinių teisių subjektas – atlikėjas, fonogramos gamintojas,
 transliuojančioji organizacija, audiovizualinio kūrinio (filmo) pirmojo įrašo
-gamintojas, kitas fizinis arba juridinis asmuo, šio Įstatymo nustatytais
-atvejais turintis išimtines gretutines teises, taip pat fizinis arba juridinis
-asmuo, kuriam perėjo išimtinės gretutinės teisės (gretutinių teisių perėmėjas).
-
+gamintojas, kitas fizinis arba juridinis asmuo, šio Įstatymo nustatytais atvejais
+turintis išimtines gretutines teises, taip pat fizinis arba juridinis asmuo,
+kuriam perėjo išimtinės gretutinės teisės (gretutinių teisių perėmėjas). 
 13.
 Informacija
 apie teisių valdymą – bet kokia autorių teisių, gretutinių teisių ir sui
@@ -174,16 +172,16 @@ Licencija
 – autorių teisių, gretutinių teisių ar sui generis
 teisių subjekto (licenciaro) leidimas, suteikiantis kūrinio, gretutinių teisių
 ar sui generis teisių objekto naudotojui (licenciatui) teisę naudoti
-kūrinio, gretutinių teisių ar sui generis teisių objekto originalą arba jo
-kopijas (licencijos dalyką) nurodytoje teritorijoje tokiu būdu ir tokiomis
+kūrinio, gretutinių teisių ar sui generis teisių objekto originalą arba
+jo kopijas (licencijos dalyką) nurodytoje teritorijoje tokiu būdu ir tokiomis
 sąlygomis, kaip numatyta licencinėje sutartyje. Licencija gali būti išimtinė
 arba neišimtinė. Neišimtine licencija licenciaras suteikia licenciatui teisę
 naudoti licencijos dalyką pasilikdamas teisę suteikti tokią teisę kitiems
 asmenims ir pats naudoti licencijos dalyką. Išimtinė licencija – tokia
-licencija, pagal kurią licenciaras, suteikęs licenciatui teisę naudoti
-licencijos dalyką, netenka teisės suteikti tokias pačias licencijas kitiems
-asmenims ir neturi teisės pats naudoti licencijos dalyką licenciatui perduotų
-teisių dalyje. 
+licencija, pagal kurią licenciaras, suteikęs licenciatui teisę naudoti licencijos
+dalyką, netenka teisės suteikti tokias pačias licencijas kitiems asmenims ir
+neturi teisės pats naudoti licencijos dalyką licenciatui perduotų teisių
+dalyje. 
 22. Neteisėta kopija – kūrinio, gretutinių
 teisių ar sui generis teisių objekto kopija, pagaminta arba importuota į
 Lietuvos Respubliką be teisių subjektų ar jų tinkamai įgalioto asmens leidimo
@@ -338,9 +336,8 @@ ir modeliai, taip pat pastatai ir kiti statiniai);
 10)
 taikomosios dailės kūriniai;
 11)
-iliustracijos, žemėlapiai, planai, sodų ir parkų projektai, eskizai ir
-trimačiai kūriniai, susiję su geografijos, topografijos ar tiksliųjų mokslų
-sritimis;
+iliustracijos, žemėlapiai, planai, sodų ir parkų projektai, eskizai ir trimačiai
+kūriniai, susiję su geografijos, topografijos ar tiksliųjų mokslų sritimis;
 12)
 kiti kūriniai.
 3.
@@ -395,8 +392,8 @@ TEISIŲ SUBJEKTAI
  
 6
 straipsnis. Autorius 
-1. Autorius yra
-kūrinį sukūręs fizinis asmuo.
+1. Autorius yra kūrinį
+sukūręs fizinis asmuo.
 2.
 Fizinis asmuo, kurio vardas įprastu būdu nurodytas kūrinyje, yra laikomas to
 kūrinio autoriumi, jeigu neįrodyta kitaip. Ši nuostata taikoma ir tuo atveju,
@@ -491,12 +488,12 @@ audiovizualinį kūrinį nustatomas šalių susitarimu atskirai už kiekvieną
 audiovizualinio kūrinio panaudojimo būdą, susijusį su perduotomis turtinėmis
 autorių teisėmis.
 4.
-Nepaisant šio straipsnio 2 dalies nuostatų, audiovizualinio kūrinio bendraautoriai
-turi neatšaukiamą teisę gauti tam tikrą autorinį atlyginimą už audiovizualinio
-kūrinio nuomą. Šį atlyginimą moka fiziniai arba juridiniai asmenys, kuriems
-audiovizualinio kūrinio gamintojas perdavė arba suteikė teisę nuomoti
-audiovizualinius kūrinius ar jų kopijas. Ši teisė paprastai įgyvendinama per
-autorių teisių kolektyvinio administravimo asociaciją.
+Nepaisant šio straipsnio 2 dalies nuostatų, audiovizualinio kūrinio
+bendraautoriai turi neatšaukiamą teisę gauti tam tikrą autorinį atlyginimą už
+audiovizualinio kūrinio nuomą. Šį atlyginimą moka fiziniai arba juridiniai
+asmenys, kuriems audiovizualinio kūrinio gamintojas perdavė arba suteikė teisę
+nuomoti audiovizualinius kūrinius ar jų kopijas. Ši teisė paprastai
+įgyvendinama per autorių teisių kolektyvinio administravimo asociaciją.
 5. Audiovizualinio
 kūrinio gamintojas autoriaus arba autorių teisių kolektyvinio administravimo
 asociacijos prašymu turi suteikti autoriui arba autorių teisių kolektyvinio
@@ -551,12 +548,12 @@ autoriaus garbę ar reputaciją (teisė į kūrinio neliečiamybę).
 Autorių asmeninės neturtinės teisės neperduodamos kitiems asmenims. Po
 autoriaus mirties asmeninių neturtinių teisių priežiūra įgyvendinama šio
 Įstatymo 49 straipsnio 2 dalyje nustatyta tvarka. 
-3. Kompiuterių
-programų ir duomenų bazių autoriaus asmeninės neturtinės teisės negali būti
-naudojamos tokiu būdu, kuris nepagrįstai suvaržytų autorių turtinių teisių į
-šias kompiuterių programas ir duomenų bazes turėtojo teises, tarp jų ir teisę
-savo nuožiūra adaptuoti, keisti ir platinti šiuos kūrinius, išskyrus atvejus,
-kai tokie veiksmai pažeistų autoriaus garbę ar reputaciją.
+3. Kompiuterių programų
+ir duomenų bazių autoriaus asmeninės neturtinės teisės negali būti naudojamos
+tokiu būdu, kuris nepagrįstai suvaržytų autorių turtinių teisių į šias
+kompiuterių programas ir duomenų bazes turėtojo teises, tarp jų ir teisę savo
+nuožiūra adaptuoti, keisti ir platinti šiuos kūrinius, išskyrus atvejus, kai
+tokie veiksmai pažeistų autoriaus garbę ar reputaciją.
 Straipsnio
 pakeitimai:
 Nr. X-855, 2006-10-12,
@@ -586,23 +583,23 @@ transliuoti, retransliuoti ir kitaip viešai skelbti kūrinį, įskaitant jo
 padarymą viešai prieinamu kompiuterių tinklais (internete).
 2.
 Bet koks kūrinio originalo ar jo kopijų panaudojimas be autoriaus, jo teisių
-perėmėjo ar jo tinkamai įgalioto asmens leidimo yra laikomas neteisėtu (išskyrus
-šio Įstatymo numatytus atvejus). 
+perėmėjo ar jo tinkamai įgalioto asmens leidimo yra laikomas neteisėtu
+(išskyrus šio Įstatymo numatytus atvejus). 
 3.
 Autorius turi teisę gauti autorinį atlyginimą už kiekvieną kūrinio naudojimo
-būdą, susijusį su autorių turtinėmis teisėmis, nurodytomis šio straipsnio 1
-dalyje. Už viešą kūrinio atlikimą autorius turi teisę gauti autorinį
-atlyginimą, tiek kai kūrinys atliekamas tiesiogiai (gyvas atlikimas), tiek
-panaudojant fonogramą ar audiovizualinį kūrinio įrašą, radijo ir televizijos
-transliaciją ar retransliaciją. Už kūrinio transliaciją, retransliaciją ar
-kitokį viešą kūrinio paskelbimą, įskaitant kūrinio padarymą viešai prieinamu
-perduodant kompiuterių tinklais (internete), autorius turi teisę gauti autorinį
-atlyginimą, tiek kai tiesioginis (gyvas) kūrinio atlikimas transliuojamas,
-retransliuojamas ar kitaip viešai skelbiamas, tiek panaudojant fonogramą ar
-audiovizualinį kūrinio įrašą. Autorinio atlyginimo dydis ir mokėjimo tvarka
-nustatoma autorinėje sutartyje, taip pat autorinėse licencinėse sutartyse,
-kurias kūrinių naudotojai sudaro su autoriais arba su autorių teisių kolektyvinio
-administravimo asociacijomis. 
+būdą, susijusį su autorių turtinėmis teisėmis, nurodytomis šio straipsnio 1 dalyje.
+Už viešą kūrinio atlikimą autorius turi teisę gauti autorinį atlyginimą, tiek
+kai kūrinys atliekamas tiesiogiai (gyvas atlikimas), tiek panaudojant fonogramą
+ar audiovizualinį kūrinio įrašą, radijo ir televizijos transliaciją ar
+retransliaciją. Už kūrinio transliaciją, retransliaciją ar kitokį viešą kūrinio
+paskelbimą, įskaitant kūrinio padarymą viešai prieinamu perduodant kompiuterių
+tinklais (internete), autorius turi teisę gauti autorinį atlyginimą, tiek kai
+tiesioginis (gyvas) kūrinio atlikimas transliuojamas, retransliuojamas ar
+kitaip viešai skelbiamas, tiek panaudojant fonogramą ar audiovizualinį kūrinio
+įrašą. Autorinio atlyginimo dydis ir mokėjimo tvarka nustatoma autorinėje
+sutartyje, taip pat autorinėse licencinėse sutartyse, kurias kūrinių naudotojai
+sudaro su autoriais arba su autorių teisių kolektyvinio administravimo
+asociacijomis. 
 4.
 Autorius, perdavęs fonogramos gamintojui teisę nuomoti kūrinį, įrašytą į
 fonogramą, turi neatšaukiamą teisę į tam tikrą autorinį atlyginimą už kūrinio
@@ -645,9 +642,9 @@ jo kopijas.
 Teikiant panaudai knygas ir kitus leidinius bibliotekose, jų autoriai turi
 teisę gauti tam tikrą atlyginimą už perduotą išimtinę teisę teikti kūrinį
 panaudai. Atlyginimo dydį ir mokėjimo tvarką nustato Vyriausybė, atsižvelgdama
-į Lietuvos autorių teisių ir gretutinių teisių tarybos siūlymus. Šis atlyginimas
-nemokamas teikiant panaudai knygas ir kitus leidinius švietimo ir mokslo
-įstaigų bibliotekose. 
+į Lietuvos autorių teisių ir gretutinių teisių tarybos siūlymus. Šis
+atlyginimas nemokamas teikiant panaudai knygas ir kitus leidinius švietimo ir
+mokslo įstaigų bibliotekose. 
 Straipsnio
 pakeitimai:
 Nr. X-855, 2006-10-12,
@@ -675,22 +672,22 @@ rengėjai, kiti asmenys, prekiaujantys meno kūriniais, tarpininkaujantys juos
 parduodant ar vertinant. Tarpininkas kartu su pardavėju yra solidariai
 atsakingi už autorinio atlyginimo sumokėjimą.
 4. Autorinis
-atlyginimas mokamas, kai meno kūrinio arba literatūros ar muzikos kūrinio rankraščio
-originalo perpardavimo kaina atskaičius mokesčius yra ne mažesnė kaip 300 eurų
-atitinkanti suma pagal įstatymų nustatyta tvarka skelbiamą oficialų euro ir
-lito santykį. Autorinis atlyginimas apskaičiuojamas taikant šiuos tarifus,
-jeigu autorinio atlyginimo suma už vieną perparduotą meno kūrinio arba
-literatūros ar muzikos kūrinio rankraščio originalą neviršija 12 500 eurų
-atitinkančią sumą pagal įstatymų nustatyta tvarka skelbiamą oficialų euro ir
-lito santykį:
+atlyginimas mokamas, kai meno kūrinio arba literatūros ar muzikos kūrinio
+rankraščio originalo perpardavimo kaina atskaičius mokesčius yra ne mažesnė
+kaip 300 eurų atitinkanti suma pagal įstatymų nustatyta tvarka skelbiamą
+oficialų euro ir lito santykį. Autorinis atlyginimas apskaičiuojamas taikant
+šiuos tarifus, jeigu autorinio atlyginimo suma už vieną perparduotą meno
+kūrinio arba literatūros ar muzikos kūrinio rankraščio originalą neviršija 12
+500 eurų atitinkančią sumą pagal įstatymų nustatyta tvarka skelbiamą oficialų
+euro ir lito santykį:
 1) 5 procentai – už
 pardavimo kainos dalį nuo 300 iki 3 000 eurų;
 2) 4 procentai – už
 pardavimo kainos dalį nuo 3 000,01 iki 50 000 eurų;
 3) 3 procentai – už
 pardavimo kainos dalį nuo 50 000,01 iki 200 000 eurų;
-4) 1 procentas – už
-pardavimo kainos dalį nuo 200 000,01 iki 350 000 eurų;
+4) 1 procentas – už pardavimo
+kainos dalį nuo 200 000,01 iki 350 000 eurų;
 5) 0,5 procento – už
 pardavimo kainos dalį nuo 350 000,01 iki 500 000 eurų;
 6) 0,25 procento – už
@@ -765,9 +762,9 @@ Be autoriaus arba kito autorių teisių subjekto leidimo fiziniam asmeniui
 išimtinai savo asmeniniam naudojimui, nesiekiant tiesioginių ar netiesioginių
 komercinių tikslų, leidžiama atgaminti ne daugiau kaip vieną išleisto ar kitaip
 viešai paskelbto
-kūrinio egzempliorių, jeigu toks atgaminimas yra vienkartinis veiksmas. Atgaminant
-kūrinius asmeniniais tikslais reprografijos būdu (fotokopijavimo ar kitu būdu
-popieriuje), taikomos šio Įstatymo 23 straipsnio nuostatos. 
+kūrinio egzempliorių, jeigu toks atgaminimas yra vienkartinis veiksmas.
+Atgaminant kūrinius asmeniniais tikslais reprografijos būdu (fotokopijavimo ar
+kitu būdu popieriuje), taikomos šio Įstatymo 23 straipsnio nuostatos. 
 2. Šio straipsnio 1
 dalies nuostatos netaikomos atgaminant šiuos kūrinius:
 1)
@@ -795,14 +792,14 @@ techninės apsaugos priemonės, nustatytos šio Įstatymo 74 straipsnio 1 ir 2
 dalyse, jo paskirstymo ir mokėjimo sąlygas nustato Vyriausybė, suderinusi su
 šio straipsnio 4 dalyje nurodytiems laikmenų gamintojams bei importuotojams
 atstovaujančiomis asociacijomis ir autorių teisių bei gretutinių teisių
-kolektyvinio administravimo asociacijomis. Atlyginimas neturi būti didesnis
-kaip 6 procentai tuščios garso ar audiovizualinės laikmenos didmeninės kainos.
+kolektyvinio administravimo asociacijomis. Atlyginimas neturi būti didesnis kaip
+6 procentai tuščios garso ar audiovizualinės laikmenos didmeninės kainos.
 Atlyginimą šio straipsnio 3 dalyje nurodytiems teisių subjektams paskirsto ir
 moka Vyriausybės įgaliotos institucijos patvirtintos autorių teisių ir
 gretutinių teisių kolektyvinio administravimo asociacijos. Ne daugiau kaip 25
 procentai šio atlyginimo įstatymų nustatyta tvarka gali būti skiriama kūrybinės
 veiklos programoms.
- 6. Šio
+6. Šio
 straipsnio 3 dalyje nurodytą atlyginimą importuotojai privalo sumokėti į
 Vyriausybės įgaliotos institucijos patvirtintos autorių teisių ar gretutinių
 teisių kolektyvinio administravimo asociacijos  sąskaitą prekių muitinio
@@ -883,8 +880,8 @@ jo dalį arba muzikos kūrinio natas.
 1 dalies 1 punkte numatytą kūrinių atgaminimą reprografijos būdu
 (fotokopijavimo ar kitu panašiu būdu popieriuje) autoriai ir leidėjai turi
 teisę gauti tam tikrą atlyginimą. Jį moka asmenys, teikiantys mokamas
-reprografinio atgaminimo paslaugas. Atlyginimo dydį, atsižvelgdama į tai,
-taikomos ar netaikomos techninės apsaugos priemonės, nurodytos šio Įstatymo 74
+reprografinio atgaminimo paslaugas. Atlyginimo dydį, atsižvelgdama į tai, taikomos
+ar netaikomos techninės apsaugos priemonės, nurodytos šio Įstatymo 74
 straipsnio 1 ir 2 dalyse, jo paskirstymo ir mokėjimo sąlygas nustato
 Vyriausybė. Atlyginimą autoriams ir leidėjams surenka, paskirsto ir moka
 Vyriausybės įgaliotos institucijos patvirtinta autorių teisių kolektyvinio
@@ -991,9 +988,9 @@ straipsnis. Kompiuterių programų archyvavimas ir atgaminimas adaptavimo
 tikslais
 1.
 Asmuo, turintis teisę naudoti kompiuterių programą, be autoriaus ar kito
-autorių teisių subjekto leidimo turi teisę pasidaryti kompiuterių programos
-kopijas ar adaptuoti programą, jei tos kopijos ar programos adaptavimas būtini
-tam, kad:
+autorių teisių subjekto leidimo turi teisę pasidaryti kompiuterių programos kopijas
+ar adaptuoti programą, jei tos kopijos ar programos adaptavimas būtini tam,
+kad:
 1) būtų galima
 naudotis šia kompiuterių programa pagal paskirtį, kuriai kompiuterių programa
 buvo įsigyta, įskaitant programos klaidų ištaisymą;
@@ -1069,13 +1066,16 @@ interesais, viešojo administravimo bei teismo proceso tikslais.
 33
 straipsnis. Kūrinio rodymas
 Be
-autoriaus arba kito autorių teisių subjekto leidimo ir nesiekiant tiesioginės
-ar netiesioginės komercinės naudos leidžiama viešai rodyti dailės kūrinio
-originalą ar jo kopiją, kai kūrinys yra parduotas ar kitu būdu nuosavybės
-teisės į jį perduotos kitam fiziniam arba juridiniam asmeniui ir kai autorius
-ar kitas to kūrinio autorių teisių subjektas žino ar turi pagrindą žinoti, kad
-toks viešas kūrinių rodymas (paroda) yra įsigijusio kūrinį fizinio arba
-juridinio asmens įprastinės ūkinės veiklos dalis.
+autoriaus arba jo teisių perėmėjo leidimo leidžiama viešai rodyti dailės
+kūrinio originalą ar jo kopiją, kai kūrinys yra parduotas ar kitu būdu
+nuosavybės teisės į jį perduotos kitam fiziniam arba juridiniam asmeniui ir kai
+autorius ar jo teisių parėmėjas žino ar turi pagrindą žinoti, kad toks viešas
+kūrinių rodymas (paroda) yra įsigijusio kūrinį fizinio arba juridinio asmens
+įprastinės veiklos dalis.
+Straipsnio
+pakeitimai:
+Nr. X-1454,
+2008-03-13, Žin., 2008, Nr. 35-1243 (2008-03-27)
  
 PENKTASIS SKIRSNIS
 AUTORIŲ TEISIŲ
@@ -1148,8 +1148,8 @@ straipsnis. Autorių turtinių teisių perdavimas
 teisės gali būti perduodamos sutartimi, paveldėjimo tvarka ir kita įstatymų
 nustatyta tvarka. 
 2.
-Autorių turtinių teisių perdavimas gali būti visiškas arba dalinis,
-atlygintinis arba neatlygintinis.
+Autorių turtinių teisių perdavimas gali būti visiškas arba dalinis, atlygintinis
+arba neatlygintinis.
 3. Negali būti
 perduodamos teisės į visus būsimus arba aiškiai neidentifikuotus autoriaus
 kūrinius. Autorių turtinių teisių perdavimas negali būti taikomas kūrinio
@@ -1170,9 +1170,9 @@ straipsnis. Autorinės sutartys
 teisių turėtojas) perduoda arba suteikia autorių turtines teises į literatūros,
 mokslo ar meno kūrinį arba įsipareigoja sukurti sutartyje nurodytą kūrinį ir
 perduoti ar suteikti autorių turtines teises į jį kitai šaliai (teisių
-perėmėjui ar licenciatui), o kita šalis įsipareigoja naudoti kūrinį arba
-pradėti juo naudotis sutartyje nustatytomis sąlygomis ir sumokėti nustatytą
-autorinį atlyginimą, jeigu sutartyje nenustatyta kitaip. 
+perėmėjui ar licenciatui), o kita šalis įsipareigoja naudoti kūrinį arba pradėti
+juo naudotis sutartyje nustatytomis sąlygomis ir sumokėti nustatytą autorinį
+atlyginimą, jeigu sutartyje nenustatyta kitaip. 
 2. Šio Įstatymo 15 straipsnio 1 dalyje nurodytas
 turtines teises autorius gali perduoti kitiems asmenims pagal autorinę sutartį
 dėl teisių perdavimo arba suteikti pagal autorinę licencinę sutartį (išimtinė
@@ -1186,8 +1186,8 @@ kurių dalykas nėra autorių turtinių teisių į kūrinį perdavimas ar suteik
  
 40
 straipsnis. Autorinių sutarčių sąlygos
-1. Autorinėje sutartyje
-turi būti šios sąlygos:
+1. Autorinėje
+sutartyje turi būti šios sąlygos:
 1)
 kūrinio pavadinimas (užsienio autorių kūrinių pavadinimai nurodomi ir originalo
 kalba), išskyrus kolektyvinio administravimo asociacijų išduodamas licencijas;
@@ -1388,10 +1388,10 @@ sutartį autorius privalo:
 pateikti savo sukurtą originalų sutarties sąlygas atitinkantį kūrinį, kuris
 nepažeidžia kitų asmenų teisių;
 3)
-be leidėjo rašytinio leidimo neperduoti ar nesuteikti teisių į sutartyje
-nurodytą kūrinį ar jo dalį tretiesiems asmenims, t. y. neleisti panaudoti jį
-tuo pačiu būdu per sutartyje nustatytą terminą, o jeigu toks terminas
-nenustatytas, – trejus metus nuo kūrinio išleidimo datos.
+be leidėjo rašytinio leidimo neperduoti ar nesuteikti teisių į sutartyje nurodytą
+kūrinį ar jo dalį tretiesiems asmenims, t. y. neleisti panaudoti jį tuo pačiu
+būdu per sutartyje nustatytą terminą, o jeigu toks terminas nenustatytas, –
+trejus metus nuo kūrinio išleidimo datos.
 Straipsnio
 numeracijos pakeitimas:
 Nr. X-855, 2006-10-12,
@@ -1438,9 +1438,9 @@ perleidęs nuosavybės teisę į materialųjį objektą, kuriuo išreikštas kū
 nelaikomas perleidusiu autorių turtines teises ar suteikusiu licenciją,
 leidžiančią naudoti tą kūrinį, jeigu sutartyje nenustatyta kitaip.
 2. Autorius arba
-kitas autorių teisių subjektas, perleidęs autorių turtines teises ar suteikęs
-licenciją, leidžiančią naudoti kūrinį, nelaikomas perleidusiu nuosavybės teisę
-į materialųjį objektą, kuriuo tas kūrinys išreikštas.
+kitas autorių teisių subjektas, perleidęs autorių turtines teises ar suteikęs licenciją,
+leidžiančią naudoti kūrinį, nelaikomas perleidusiu nuosavybės teisę į
+materialųjį objektą, kuriuo tas kūrinys išreikštas.
  
 III SKYRIUS
 GRETUTINĖS
@@ -1466,14 +1466,14 @@ Nr. X-855, 2006-10-12,
  
 52
 straipsnis. Atlikėjų asmeninės neturtinės teisės
-1. Atlikėjas,
-nepaisant jo išimtinių turtinių teisių, net ir tuo atveju, kai turtinės teisės
-perduotos kitiems asmenims, turi asmenines neturtines teises į savo tiesioginį
-(gyvą) atlikimą ar atlikimo įrašą. Atlikėjas turi teisę reikalauti, kad
-naudojant atlikimą ar jo įrašą jis būtų įvardytas kaip atlikėjas, ir
-prieštarauti dėl atlikimo ar jo įrašo bet kokio iškraipymo ar kitokio pakeitimo,
-taip pat dėl atlikėjo garbei ar reputacijai galinčio padaryti žalos bet kokio
-kito kėsinimosi į atlikimą ar jo įrašą. 
+1. Atlikėjas, nepaisant
+jo išimtinių turtinių teisių, net ir tuo atveju, kai turtinės teisės perduotos
+kitiems asmenims, turi asmenines neturtines teises į savo tiesioginį (gyvą)
+atlikimą ar atlikimo įrašą. Atlikėjas turi teisę reikalauti, kad naudojant
+atlikimą ar jo įrašą jis būtų įvardytas kaip atlikėjas, ir prieštarauti dėl
+atlikimo ar jo įrašo bet kokio iškraipymo ar kitokio pakeitimo, taip pat dėl
+atlikėjo garbei ar reputacijai galinčio padaryti žalos bet kokio kito
+kėsinimosi į atlikimą ar jo įrašą. 
 2. Atlikėjo asmeninės
 neturtinės teisės neperduodamos kitiems asmenims. Po atlikėjo mirties asmeninės
 neturtinės teisės saugomos šio Įstatymo 49 straipsnio 2 dalyje nustatyta
@@ -1513,12 +1513,12 @@ komercinėje apyvartoje esantį atlikimo įrašą ar jo kopijas.
 4. Su audiovizualinio
 kūrinio gamintoju sudarydamas sutartį dėl audiovizualinio atlikimo įrašo,
 atlikėjas perduoda gamintojui šio straipsnio 1 dalies 1, 3, 4, 5 punktuose
-nurodytas teises, jeigu sutartyje nenustatyta kitaip. Atlyginimo dydis
-nustatomas šalių susitarimu atskirai už kiekvieną perduotą turtinę teisę
-(atlikimo audiovizualinio įrašo naudojimo būdą). Atlikėjas, perdavęs
-audiovizualinio kūrinio gamintojui teisę nuomoti atlikimo audiovizualinio įrašo
-originalą ar jo kopijas, turi neatšaukiamą teisę gauti tam tikrą atlyginimą už
-atlikimo audiovizualinio įrašo ar jo kopijos nuomą.
+nurodytas teises, jeigu sutartyje nenustatyta kitaip. Atlyginimo dydis nustatomas
+šalių susitarimu atskirai už kiekvieną perduotą turtinę teisę (atlikimo
+audiovizualinio įrašo naudojimo būdą). Atlikėjas, perdavęs audiovizualinio
+kūrinio gamintojui teisę nuomoti atlikimo audiovizualinio įrašo originalą ar jo
+kopijas, turi neatšaukiamą teisę gauti tam tikrą atlyginimą už atlikimo
+audiovizualinio įrašo ar jo kopijos nuomą.
 5.
 Atlikėjas, kuris sudarydamas sutartį su fonogramos gamintoju perdavė fonogramos
 gamintojui teisę nuomoti į fonogramą įrašytą atlikimą, turi neatšaukiamą teisę
@@ -1527,13 +1527,13 @@ gamintojui teisę nuomoti į fonogramą įrašytą atlikimą, turi neatšaukiam�
 straipsnio 4 ir 5 dalyse numatytos teisės į atlyginimą paprastai įgyvendinamos
 per gretutinių teisių kolektyvinio administravimo asociaciją. Šį atlyginimą
 moka fiziniai arba juridiniai asmenys, kuriems fonogramos ar audiovizualinio
-kūrinio gamintojas perdavė arba suteikė teisę nuomoti tas fonogramas, audiovizualinius
-įrašus ar jų kopijas.
+kūrinio gamintojas perdavė arba suteikė teisę nuomoti tas fonogramas,
+audiovizualinius įrašus ar jų kopijas.
 7.
 Audiovizualinio kūrinio gamintojas atlikėjo ar gretutinių teisių kolektyvinio
 administravimo asociacijos prašymu turi suteikti atlikėjui ar kolektyvinio
-administravimo asociacijai šio straipsnio 4 dalyje numatytų teisių įgyvendinimui
-reikalingą informaciją.
+administravimo asociacijai šio straipsnio 4 dalyje numatytų teisių
+įgyvendinimui reikalingą informaciją.
 Straipsnio
 pakeitimai:
 Nr. X-855, 2006-10-12,
@@ -1582,15 +1582,15 @@ naudojantys fonogramas ar jų kopijas. Atlyginimo dydis ir jo mokėjimo sąlygos
 nustatomos fonogramų naudotojų ir gretutinių teisių kolektyvinio administravimo
 asociacijų sutartyje. Atlyginimo dydis nustatomas procentais nuo naudotojo
 pajamų arba konkrečia pinigų suma. Šis atlyginimas atlikėjams ir fonogramų
-gamintojams dalijamas po lygiai, jeigu kitaip nenustatyta jų tarpusavio sutartyje.
-
+gamintojams dalijamas po lygiai, jeigu kitaip nenustatyta jų tarpusavio
+sutartyje. 
 2.
 Jeigu fonogramų naudotojai ir gretutinių teisių kolektyvinio administravimo
 asociacijos nesutaria dėl atlyginimo dydžio ir jo mokėjimo sąlygų, bet kuri iš
 šalių gali kreiptis į Lietuvos autorių teisių ir gretutinių teisių tarybą arba
 į kitą tarpininką prašydama tarpininkauti derybose. Jeigu šalys nepriima
-derybose tarpininkaujant pateikto pasiūlymo, atlyginimo dydį ir mokėjimo
-sąlygas nustato teismas. 
+derybose tarpininkaujant pateikto pasiūlymo, atlyginimo dydį ir mokėjimo sąlygas
+nustato teismas. 
 3. Šio straipsnio 1 dalyje nurodytą atlyginimą renka bei
 paskirsto atlikėjams ir fonogramų gamintojams gretutinių teisių kolektyvinio
 administravimo asociacija, Lietuvos Respublikos teritorijoje administruojanti
@@ -1618,9 +1618,9 @@ vietose;
 6) padaryti savo
 transliacijų įrašus ar jų kopijas viešai prieinamus, įskaitant perdavimą
 kompiuterių tinklais (internete);
-7) platinti savo
-transliacijų įrašus ar jų kopijas parduodant ar kitaip perduodant nuosavybėn
-arba valdyti, taip pat importuojant ir eksportuojant.
+7) platinti savo transliacijų
+įrašus ar jų kopijas parduodant ar kitaip perduodant nuosavybėn arba valdyti,
+taip pat importuojant ir eksportuojant.
 2. Kabelinės
 retransliacijos operatoriai, retransliuojantys transliuojančiųjų organizacijų
 transliacijas, neturi į jas šio straipsnio 1 dalyje nurodytų teisių. 
@@ -1639,8 +1639,8 @@ Nr. X-855, 2006-10-12,
 57
 straipsnis. Audiovizualinio kūrinio (filmo) pirmojo įrašo gamintojo teisės
 1.
-Audiovizualinio kūrinio (filmo) pirmojo įrašo gamintojas turi išimtines teises
-leisti arba uždrausti šiuos veiksmus:
+Audiovizualinio kūrinio (filmo) pirmojo įrašo gamintojas turi išimtines teises leisti
+arba uždrausti šiuos veiksmus:
 1)
 atgaminti audiovizualinio kūrinio (filmo) įrašą ar jo kopiją; 
 2)
@@ -1675,9 +1675,9 @@ transliuojančiosios organizacijos transliaciją arba jų įrašus šiais atveja
  1)
 laikiniems atgaminimo veiksmams, kurie yra trumpalaikiai arba atsitiktiniai,
 sudarantys neatskiriamą ir esminę technologinio proceso dalį ir atliekami tik
-tam, kad tarpininkas galėtų užtikrinti veiksmingą perdavimą kompiuterių tinklais
-tarp trečiųjų asmenų, arba tam, kad paskui būtų teisėtai (kai tai leidžia
-gretutinių teisių subjektas arba to neriboja šis Įstatymas) pasinaudota
+tam, kad tarpininkas galėtų užtikrinti veiksmingą perdavimą kompiuterių
+tinklais tarp trečiųjų asmenų, arba tam, kad paskui būtų teisėtai (kai tai
+leidžia gretutinių teisių subjektas arba to neriboja šis Įstatymas) pasinaudota
 gretutinių teisių objektu, jeigu tokie laikini atgaminimo veiksmai atskirai
 neturi ekonominės vertės; 
 2) atgaminant trumpas
@@ -1738,8 +1738,8 @@ nustatyta tvarka.
 neprieštarauti įprastiniam šių teisių objektų naudojimui ir nepažeisti
 atlikėjų, fonogramų gamintojų, audiovizualinio kūrinio (filmo) pirmojo įrašo
 gamintojų ar transliuojančiųjų organizacijų teisėtų interesų.
-4. Atlikėjų, fonogramų
-gamintojų, audiovizualinio kūrinio (filmo) pirmojo įrašo gamintojų ir
+4. Atlikėjų,
+fonogramų gamintojų, audiovizualinio kūrinio (filmo) pirmojo įrašo gamintojų ir
 transliuojančiųjų organizacijų teisė į kabelinę retransliaciją įgyvendinama tik
 per gretutinių teisių kolektyvinio administravimo asociacijas šio Įstatymo 65
 straipsnio 4 ir 5 dalyse nustatyta tvarka. Ši nuostata netaikoma
@@ -1754,8 +1754,8 @@ straipsnis. Gretutinių teisių galiojimo terminai
 Atlikėjų teisės galioja 50 metų po atlikimo datos. Jeigu per šį laikotarpį
 teisėtai išleidžiamas arba teisėtai viešai paskelbiamas atlikimo įrašas,
 atlikėjų teisės galioja 50 metų po pirmojo tokio atlikimo įrašo išleidimo arba
-viešo paskelbimo datos, atsižvelgiant į tai, kas įvyko pirmiau. Atlikėjų
-asmeninės neturtinės teisės saugomos neterminuotai.
+viešo paskelbimo datos, atsižvelgiant į tai, kas įvyko pirmiau. Atlikėjų asmeninės
+neturtinės teisės saugomos neterminuotai.
 2. Fonogramų
 gamintojų teisės galioja 50 metų po įrašo padarymo datos. Jeigu per šį
 laikotarpį fonograma teisėtai išleidžiama, fonogramų gamintojų teisės nustoja
@@ -1933,8 +1933,8 @@ literatūros ir meno kūrinių transliavimui, retransliavimui, kitokiam viešam
 paskelbimui (įskaitant foninę muziką), taip pat kūrinių ir gretutinių teisių
 objektų padarymui viešai prieinamų kompiuterių tinklais (internete);
 3)
-meno kūrinių, literatūros ar muzikos kūrinių rankraščių originalų perpardavimui;
-
+meno kūrinių, literatūros ar muzikos kūrinių rankraščių originalų
+perpardavimui; 
 4)
 kūrinių ir gretutinių teisių objektų kabelinei retransliacijai, išskyrus
 atvejus, kai tai yra pačių kabelinės retransliacijos operatorių programos;
@@ -1977,14 +1977,14 @@ Tuo atveju, kai autorių teisių ar gretutinių teisių subjektas nėra suteikę
 išimtinę teisę leisti kūrinio ar gretutinių teisių objekto kabelinę
 retransliaciją, laikoma, kad tokius įgaliojimus turi kolektyvinio
 administravimo asociacija, Lietuvos Respublikos teritorijoje administruojanti
-tokio pobūdžio teises. Toks autorių teisių ar gretutinių teisių subjektas turi
-tokias pačias teises ir įsipareigojimus pagal kabelinės retransliacijos
-operatorių ir kolektyvinio administravimo asociacijos sudarytas sutartis kaip
-ir kiti teisių subjektai, kurie yra suteikę tai asociacijai tokius įgaliojimus.
-Jei išimtines teises į kūrinių ar gretutinių teisių objektų kabelinę
-retransliaciją Lietuvos Respublikoje administruoja daugiau negu viena kolektyvinio
-administravimo asociacija, autorių teisių ar gretutinių teisių subjektas gali
-pasirinkti, kuri iš tų asociacijų bus laikoma įgaliota administruoti jo teises.
+tokio pobūdžio teises. Toks autorių teisių ar gretutinių teisių subjektas turi tokias
+pačias teises ir įsipareigojimus pagal kabelinės retransliacijos operatorių ir
+kolektyvinio administravimo asociacijos sudarytas sutartis kaip ir kiti teisių
+subjektai, kurie yra suteikę tai asociacijai tokius įgaliojimus. Jei išimtines
+teises į kūrinių ar gretutinių teisių objektų kabelinę retransliaciją Lietuvos
+Respublikoje administruoja daugiau negu viena kolektyvinio administravimo
+asociacija, autorių teisių ar gretutinių teisių subjektas gali pasirinkti, kuri
+iš tų asociacijų bus laikoma įgaliota administruoti jo teises.
 5. Kabelinės
 retransliacijos operatoriai ir kolektyvinio administravimo asociacijos
 derybomis susitaria dėl teisių į kūrinių kabelinę retransliaciją suteikimo. Jei
@@ -2031,8 +2031,8 @@ gretutinių teisių subjektams;
 be atskiro įgaliojimo teisme ir kitose institucijose gina savo kolektyviai
 administruojamas autorių teises ir gretutines teises;
 5)
-atlieka kitas kolektyvinio teisių administravimo funkcijas vadovaudamasi sutartimis
-dėl autorių teisių ir gretutinių teisių kolektyvinio administravimo.
+atlieka kitas kolektyvinio teisių administravimo funkcijas vadovaudamasi
+sutartimis dėl autorių teisių ir gretutinių teisių kolektyvinio administravimo.
  
 68
 straipsnis. Kolektyvinio administravimo asociacijų veiklos metodai
@@ -2044,11 +2044,11 @@ administravimo klausimais priima kolektyvinio administravimo asociacijos
 visuotinis narių susirinkimas (konferencija). 
 2.
 Atlyginimo, mokamo pagal autorinę licencinę sutartį už suteiktą teisę naudoti
-kūrinį ar gretutinių teisių objektą, dydis nustatomas kolektyvinio
-administravimo asociacijų ir naudotojų susitarimu. Jeigu kolektyvinio
-administravimo asociacija ir naudotojas nesutaria, bet kuri šalis gali kreiptis
-į tarpininką prašydama tarpininkauti derybose dėl autorinio atlyginimo ir jo
-mokėjimo sąlygų. 
+kūrinį ar gretutinių teisių objektą, dydis nustatomas kolektyvinio administravimo
+asociacijų ir naudotojų susitarimu. Jeigu kolektyvinio administravimo
+asociacija ir naudotojas nesutaria, bet kuri šalis gali kreiptis į tarpininką
+prašydama tarpininkauti derybose dėl autorinio atlyginimo ir jo mokėjimo
+sąlygų. 
 3.
 Be autorių ar kitų autorių teisių bei gretutinių teisių subjektų, kurių teises
 asociacija administruoja, leidimo kolektyvinio administravimo asociacijos
@@ -2142,8 +2142,8 @@ atstovauja Vyriausybei Pasaulinėje intelektinės nuosavybės organizacijoje;
 atlieka autorių teisių ir gretutinių teisių kolektyvinio administravimo
 asociacijų priežiūrą; 
 6)
-kolektyvinio teisių administravimo asociacijų ir (ar) kūrinių bei gretutinių
-teisių objektų naudotojų prašymu tarpininkauja derybose dėl sutarčių sudarymo;
+kolektyvinio teisių administravimo asociacijų ir (ar) kūrinių bei gretutinių teisių
+objektų naudotojų prašymu tarpininkauja derybose dėl sutarčių sudarymo;
 7)
 šio Įstatymo nustatytais atvejais saugo autorių ir atlikėjų asmenines
 neturtines teises; 
@@ -2187,12 +2187,12 @@ Jeigu kolektyvinio administravimo asociacijos veikla neatitinka šio, kitų
 įstatymų ar kolektyvinio administravimo asociacijos įstatų reikalavimų,
 Vyriausybės įgaliota institucija gali kreiptis į teismą prašydama likviduoti
 kolektyvinio administravimo asociaciją.
-6. Vyriausybės įgaliota
-institucija, įgyvendindama jai pavestus uždavinius bei funkcijas, turi teisę
-gauti reikiamą informaciją iš valstybės ir savivaldybių institucijų, įmonių,
-įstaigų ir organizacijų autorių teisių ir gretutinių teisių apsaugos bei gynimo
-klausimais, taip pat kitą informaciją, reikalingą savo uždaviniams įgyvendinti.
-
+6. Vyriausybės
+įgaliota institucija, įgyvendindama jai pavestus uždavinius bei funkcijas, turi
+teisę gauti reikiamą informaciją iš valstybės ir savivaldybių institucijų,
+įmonių, įstaigų ir organizacijų autorių teisių ir gretutinių teisių apsaugos
+bei gynimo klausimais, taip pat kitą informaciją, reikalingą savo uždaviniams
+įgyvendinti. 
  
 72
 straipsnis. Lietuvos autorių teisių ir gretutinių teisių taryba
@@ -2275,10 +2275,10 @@ teisių objekto transformavimą) arba kopijų kontrolės būdą, užtikrinantį
 siekiamą apsaugą. Tokios techninės apsaugos priemonės neturi trukdyti
 elektroninei įrangai normaliai veikti ir jos technologinei plėtrai.
 3. Bet kokių veiksmingų techninių apsaugos priemonių šalinimas ar
-vengimas, kai asmuo tai daro žinodamas ar turėdamas žinoti, kad jis siekia pašalinti
-autorių teisių, gretutinių teisių ar sui generis teisių subjektų
-taikomas technines apsaugos priemones ar jų išvengti, yra laikomas techninių
-apsaugos priemonių pažeidimu.
+vengimas, kai asmuo tai daro žinodamas ar turėdamas žinoti, kad jis siekia
+pašalinti autorių teisių, gretutinių teisių ar sui generis teisių
+subjektų taikomas technines apsaugos priemones ar jų išvengti, yra laikomas
+techninių apsaugos priemonių pažeidimu.
 4. Pažeidimu taip pat laikomi šie su veiksmingų techninių apsaugos
 priemonių šalinimu ar vengimu susiję veiksmai: 
 1)
@@ -2297,9 +2297,9 @@ apsaugos priemonių šalinimo ar vengimo būdus, būtinus šio Įstatymo 30
 straipsnio 2 dalyje ir 31 straipsnyje nurodytiems veiksmams atlikti.
 6. Šio
 straipsnio 3 ir 4 dalys taip pat taikomos techninėms apsaugos priemonėms,
-kurios skirtos užtikrinti naudotojų teisę pasinaudoti šio Įstatymo 75 straipsnio
-1 dalyje nurodytais teisių apribojimais ir kurias savanoriškai taiko autorių
-teisių, gretutinių teisių ir sui generis teisių subjektai.
+kurios skirtos užtikrinti naudotojų teisę pasinaudoti šio Įstatymo 75
+straipsnio 1 dalyje nurodytais teisių apribojimais ir kurias savanoriškai taiko
+autorių teisių, gretutinių teisių ir sui generis teisių subjektai.
  
 75
 straipsnis. Techninių apsaugos priemonių taikymo apribojimai
@@ -2312,10 +2312,10 @@ straipsnio 1 dalies 1 ir 2 punktuose, 23 straipsnio 1 dalyje, 27 straipsnyje,
 punktuose ir 2 dalyje ir 63 straipsnio 1 dalyje,
 teisių naudotojams turi būti sudarytos sąlygos ar suteiktos tinkamos priemonės
 (pvz., dekodavimo prietaisai ir kitos), leidžiančios pasinaudoti teisėtai
-prieinamais autorių teisių, gretutinių teisių ar sui generis teisių
-objektais tiek, kad teisių naudotojai turėtų nekomercinės naudos iš jų
-interesais numatytų autorių teisių, gretutinių teisių ir sui generis
-teisių apribojimų.
+prieinamais autorių teisių, gretutinių teisių ar sui generis teisių objektais
+tiek, kad teisių naudotojai turėtų nekomercinės naudos iš jų interesais
+numatytų autorių teisių, gretutinių teisių ir sui generis teisių
+apribojimų.
 2. Šio
 straipsnio 1 dalis netaikoma kūriniams, gretutinių teisių ir sui generis
 teisių objektams, kurie teikiant dialogines užsakomąsias paslaugas kompiuterių
@@ -2356,9 +2356,9 @@ padarymas viešai prieinamais, kai asmuo tai daro žinodamas arba turėdamas
 77 straipsnis. Teisių gynimo būdai
 1. Autorių teisių, gretutinių teisių ir sui generis
 teisių subjektai, gindami savo teises, išimtinių licencijų licenciatai, gindami
-jiems suteiktas teises, taip pat kolektyvinio teisių administravimo
-asociacijos, gindamos administruojamas teises, įstatymų nustatyta tvarka turi
-teisę kreiptis į teismą ir reikalauti: 
+jiems suteiktas teises, taip pat kolektyvinio teisių administravimo asociacijos,
+gindamos administruojamas teises, įstatymų nustatyta tvarka turi teisę kreiptis
+į teismą ir reikalauti: 
 1) pripažinti teises; 
 2) įpareigoti nutraukti neteisėtus veiksmus;
 3) uždrausti atlikti veiksmus, dėl kurių gali būti realiai
@@ -2372,8 +2372,7 @@ gretutinių teisių ar sui generis teisių objektu;
 atlyginti turtinę žalą, įskaitant negautas pajamas ir kitas turėtas išlaidas, o
 šio Įstatymo 84 straipsnyje numatytais atvejais – ir neturtinę žalą;
 7) sumokėti kompensaciją;
-8) taikyti kitus šio ir kitų įstatymų nustatytus teisių gynimo
-būdus.
+8) taikyti kitus šio ir kitų įstatymų nustatytus teisių gynimo būdus.
 2. Siekdamas
 užtikrinti įpareigojimo nutraukti neteisėtus veiksmus, taip pat draudimo
 atlikti veiksmus, dėl kurių gali būti realiai pažeistos teisės arba atsirasti
@@ -2393,12 +2392,12 @@ objektą.
  
 78 straipsnis. Teisė reikalauti taikyti tarpininkui draudimus 
 1.
-Autorių teisių, gretutinių teisių ir sui generis teisių subjektai, gindami
-savo teises, turi teisę kreiptis į teismą ir reikalauti uždrausti tarpininkui
-teikti elektroninių ryšių tinklais paslaugas tretiesiems asmenims, kurie šiomis
-paslaugomis naudojasi pažeisdami autorių teises, gretutines teises ar sui
-generis teises. Draudimas teikti šias paslaugas apima su autorių teisių,
-gretutinių teisių ar sui generis teisių pažeidimu susijusios
+Autorių teisių, gretutinių teisių ir sui generis teisių subjektai,
+gindami savo teises, turi teisę kreiptis į teismą ir reikalauti uždrausti
+tarpininkui teikti elektroninių ryšių tinklais paslaugas tretiesiems asmenims,
+kurie šiomis paslaugomis naudojasi pažeisdami autorių teises, gretutines teises
+ar sui generis teises. Draudimas teikti šias paslaugas apima su autorių
+teisių, gretutinių teisių ar sui generis teisių pažeidimu susijusios
 informacijos perdavimo sustabdymą arba, jei tarpininkas techniškai gali
 atlikti, tokios informacijos pašalinimą, arba prieigos prie autorių teises,
 gretutines teises ar sui generis teises pažeidžiančios informacijos
@@ -2478,9 +2477,9 @@ pagal šį Įstatymą saugomų teisių pažeidimą;
 paslaugas tretiesiems asmenims, kurie šiomis paslaugomis naudojasi pažeisdami
 šio Įstatymo nustatytas teises;
 4) areštuoti, uždrausti, kad patektų į
-apyvartą, arba išimti iš apyvartos kūrinių, kitų pagal šį Įstatymą saugomų
-teisių objektų kopijas ir prekes, jeigu įtariama, kad jos pažeidžia autorių
-teises, gretutines teises ar sui generis teises;
+apyvartą, arba išimti iš apyvartos kūrinių, kitų pagal šį Įstatymą saugomų teisių
+objektų kopijas ir prekes, jeigu įtariama, kad jos pažeidžia autorių teises,
+gretutines teises ar sui generis teises;
 5) areštuoti pagal šį Įstatymą saugomų
 teisių pažeidimu įtariamų asmenų turtą, kurį turi jie arba tretieji asmenys,
 įskaitant banko sąskaitas, ypač priemones ir įrangą, kurios, kaip įtariama,
@@ -2501,8 +2500,8 @@ sudaryti galimybę jais pasinaudoti.
 kuris prašo taikyti laikinąsias apsaugos priemones, pateikti visus pagrįstai
 turimus įrodymus, galinčius pakankamai įtikinti, kad jis ar asmuo, kurio
 interesais prašoma taikyti laikinąsias apsaugos priemones, yra pagal šį
-Įstatymą saugomų teisių subjektas ar naudotojas ir kad pareiškėjo teisė pažeidžiama
-arba kad gresia toks pažeidimas.
+Įstatymą saugomų teisių subjektas ar naudotojas ir kad pareiškėjo teisė
+pažeidžiama arba kad gresia toks pažeidimas.
 5. Teismas asmens, pateikusio visus
 pagrįstai turimus ir jo reikalavimus pagrindžiančius įrodymus, kad buvo
 pažeistos arba gresia, kad bus pažeistos, jo pagal šį Įstatymą saugomos teisės,
@@ -2532,8 +2531,8 @@ nepagrįstomis dėl asmens, kuris kreipėsi dėl tų priemonių taikymo, veikimo
 neveikimo, arba įsiteisėja teismo sprendimas, nustatantis, kad pagal šį
 Įstatymą saugomų teisių pažeidimo ar pažeidimo grėsmės nebuvo, arba asmuo,
 kuris kreipėsi dėl laikinųjų apsaugos ar įrodymų užtikrinimo priemonių taikymo,
-per teismo nustatytą terminą nepareiškia ieškinio, atsakovas turi teisę
-reikalauti atlyginti žalą, atsiradusią dėl tokių priemonių taikymo.
+per teismo nustatytą terminą nepareiškia ieškinio, atsakovas turi teisę reikalauti
+atlyginti žalą, atsiradusią dėl tokių priemonių taikymo.
 8.
 Visais kitais su laikinųjų apsaugos ir įrodymų užtikrinimo priemonių taikymu
 susijusiais klausimais, kurie nereglamentuoti šiame straipsnyje, taikomos
@@ -2555,11 +2554,10 @@ reikalavimų. Be to, šios priemonės taikomos neatlygintinai, pažeidėjo lėš
 atsižvelgiant į padaryto pažeidimo sunkumo ir taikomos priemonės santykį,
 trečiųjų asmenų teisėtus interesus.
 3. Kai šio
-straipsnio 1 dalyje nurodytos priemonės gali būti taikomos asmeniui, kurio
-veiksmuose nėra kaltės dėl šio Įstatymo saugomų teisių pažeidimo, teismas šio
-asmens prašymu gali taikyti šio Įstatymo 77 straipsnio 3 dalyje numatytą
-alternatyvią priemonę, jeigu ši priemonė nukentėjusiai šaliai yra priimtina ir
-pakankama.
+straipsnio 1 dalyje nurodytos priemonės gali būti taikomos asmeniui, kurio veiksmuose
+nėra kaltės dėl šio Įstatymo saugomų teisių pažeidimo, teismas šio asmens
+prašymu gali taikyti šio Įstatymo 77 straipsnio 3 dalyje numatytą alternatyvią
+priemonę, jeigu ši priemonė nukentėjusiai šaliai yra priimtina ir pakankama.
  
 83
 straipsnis. Turtinės žalos atlyginimas. Kompensacija
@@ -2578,10 +2576,10 @@ prašymu.
 kokios pajamos būtų gautos teisėtai naudojant kūrinius ar kitus objektus (į
 atlyginimą, kuris paprastai mokamas už teisėtą tokių kūrinių ar kitų objektų
 naudojimą, arba atlyginimą, mokamą už panašių kūrinių ar kitų objektų teisėtą
-naudojimą, arba kūrinio ar kito teisių objekto naudojimo būdui labiausiai tinkamus
-atlyginimus), taip pat į konkrečias aplinkybes, kurios galėjo sudaryti sąlygas
-pajamoms gauti (teisių subjektų atlikti darbai, panaudotos priemonės, derybos
-dėl kūrinio naudojimo sutarčių sudarymo ir kita).
+naudojimą, arba kūrinio ar kito teisių objekto naudojimo būdui labiausiai
+tinkamus atlyginimus), taip pat į konkrečias aplinkybes, kurios galėjo sudaryti
+sąlygas pajamoms gauti (teisių subjektų atlikti darbai, panaudotos priemonės,
+derybos dėl kūrinio naudojimo sutarčių sudarymo ir kita).
 4. Vietoj dėl šio Įstatymo saugomų
 teisių pažeidimo faktiškai atsiradusios žalos (nuostolių) atlyginimo šio
 Įstatymo 77 straipsnio 1 dalyje nurodyti asmenys gali reikalauti:
@@ -2642,8 +2640,8 @@ kūriniai ir gretutinių teisių objektai naudojami viešai skelbiant, įskaitan
 foninę muziką, po to, kai nustatytas neteisėto kūrinių ar gretutinių teisių
 objektų naudojimo faktas, laikoma, kad jie buvo naudojami ne mažiau kaip vieną
 mėnesį, jeigu neįrodyta kitaip.
-3. Teismas,
-nustatęs, kad kūriniai ar gretutinių teisių objektai buvo panaudoti be
+3.
+Teismas, nustatęs, kad kūriniai ar gretutinių teisių objektai buvo panaudoti be
 kolektyvinio administravimo asociacijos licencijos, priima sprendimą išieškoti
 iš naudotojo 2
 kartus didesnį atlyginimą, negu priklausytų mokėti pagal suteiktą licenciją
@@ -2665,8 +2663,8 @@ eksportuojamos į trečiąsias valstybes, gali būti taikomos Europos Sąjungos 
 Lietuvos Respublikos teisės aktų nustatytos muitinės priežiūros priemonės.
  
  
-Skelbiu šį
-Lietuvos Respublikos Seimo priimtą įstatymą.
+Skelbiu šį Lietuvos
+Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS
 PREZIDENTAS                                                           VALDAS ADAMKUS
                                                                         Lietuvos
@@ -2686,13 +2684,14 @@ apsaugos su pakeitimais, padarytais 1993 m. spalio 29 d. Tarybos direktyva
 lapkričio 19 d. Tarybos direktyva 92/100/EEB dėl nuomos ir panaudos teisių bei
 tam tikrų teisių, gretutinių autorių teisėms, intelektinės nuosavybės srityje
 su pakeitimais, padarytais 1993 m. spalio 29 d. Tarybos direktyva 93/98/EEB dėl
-autorių teisių ir gretutinių teisių apsaugos terminų derinimo ir 2001 m. gegužės
-22 d. Europos Parlamento ir Tarybos direktyva 2001/29/EB dėl autorių teisių ir
-gretutinių teisių informacinėje visuomenėje tam tikrų aspektų derinimo;
+autorių teisių ir gretutinių teisių apsaugos terminų derinimo ir 2001 m.
+gegužės 22 d. Europos Parlamento ir Tarybos direktyva 2001/29/EB dėl autorių
+teisių ir gretutinių teisių informacinėje visuomenėje tam tikrų aspektų
+derinimo;
 3) 1993 m. rugsėjo 27
-d. Tarybos direktyva 93/83/EEB dėl tam tikrų autorių teisių ir gretutinių teisių
-taisyklių, taikomų palydoviniam transliavimui ir kabeliniam retransliavimui,
-koordinavimo; 
+d. Tarybos direktyva 93/83/EEB dėl tam tikrų autorių teisių ir gretutinių
+teisių taisyklių, taikomų palydoviniam transliavimui ir kabeliniam
+retransliavimui, koordinavimo; 
 4)
 1993 m. spalio 29 d. Tarybos direktyva 93/98/EEB dėl autorių teisių ir
 gretutinių teisių apsaugos terminų derinimo su pakeitimais, padarytais 2001 m.
@@ -2707,8 +2706,8 @@ bazių teisinės apsaugos;
 autorių teisių ir gretutinių teisių informacinėje visuomenėje tam tikrų aspektų
 derinimo;
 7) 2001 m.
-rugsėjo 27 d. Europos Parlamento ir Tarybos direktyva 2001/84/EB dėl originalaus
-meno kūrinio perpardavimo teisės autoriaus naudai; 
+rugsėjo 27 d. Europos Parlamento ir Tarybos direktyva 2001/84/EB dėl
+originalaus meno kūrinio perpardavimo teisės autoriaus naudai; 
 8)
 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/48/EB dėl
 intelektinės nuosavybės teisių gynimo.
@@ -2716,8 +2715,7 @@ Priedo
 papildymas:
 Nr. X-855, 2006-10-12,
 Žin., 2006, Nr. 116-4400 (2006-10-31)
- 
-______________________
+____________________
  
 Pakeitimai:
  
@@ -2768,11 +2766,19 @@ TEISIŲ IR GRETUTINIŲ TEISIŲ ĮSTATYMO 2, 4, 11, 12, 14, 15, 16, 17, 22, 38, 4
 42, 43, 44, 45, 46, 47, 51, 53, 54, 56, 57, 61, 65, 72 STRAIPSNIŲ, VI SKYRIAUS
 IR PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-1454,
+2008-03-13, Žin., 2008, Nr. 35-1243 (2008-03-27)
+AUTORIŲ
+TEISIŲ IR GRETUTINIŲ TEISIŲ ĮSTATYMO 33 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
- 
 Redagavo:
-Aušrinė Trapinskienė (2006-11-03)
+Aušrinė Trapinskienė (2008-03-27)
                  
 autrap@lrs.lt
