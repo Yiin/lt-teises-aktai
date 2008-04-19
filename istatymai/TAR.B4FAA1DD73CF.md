@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FAA1DD73CF"
 
 # Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas
 
-Suvestinė redakcija nuo 2007-07-01 iki 2008-04-18
+Suvestinė redakcija nuo 2008-04-19 iki 2009-03-04
  
 Įstatymas paskelbtas: Žin. 2005, Nr. 76-2741, i. k. 1051010ISTA000X-233
  
@@ -323,7 +323,16 @@ Nr. X-878, 2006-10-24, Žin., 2006, Nr. 119-4549 (2006-11-07), i. k. 1061010ISTA
 
 
 
-20) juridinių asmenų, veikiančių pagal Lietuvos Respublikos meno kūrėjų ir meno kūrėjų organizacijų statuso įstatymą, nekilnojamas turtas.
+20) juridinių asmenų, veikiančių pagal Lietuvos Respublikos meno kūrėjų ir meno kūrėjų organizacijų statuso įstatymą, nekilnojamas turtas;
+
+
+
+
+21) nekilnojamasis turtas (arba jo dalis), naudojamas teikiant tik sveikatos priežiūros paslaugas.
+TAR pastaba. 21 punktas taikomas apskaičiuojant nekilnojamojo turto mokestį nuo 2009 m. sausio 1 d.
+Papildyta straipsnio punktu:
+Nr. X-1479, 2008-04-03, Žin., 2008, Nr. 45-1681 (2008-04-19), i. k. 1081010ISTA00X-1479
+ 
 
 
 
@@ -730,3 +739,8 @@ Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 6, 8, 15 straipsni�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-878, 2006-10-24, Žin., 2006, Nr. 119-4549 (2006-11-07), i. k. 1061010ISTA000X-878
 Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1479, 2008-04-03, Žin., 2008, Nr. 45-1681 (2008-04-19), i. k. 1081010ISTA00X-1479
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio papildymo įstatymas
