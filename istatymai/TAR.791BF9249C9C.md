@@ -13,20 +13,23 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.791BF9249C9C"
 
 # Lietuvos Respublikos sporto įstatymas
 
-Suvestinė redakcija nuo 2005-06-18 iki 2008-04-23
+Suvestinė redakcija nuo 2008-04-24 iki 2009-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 9-215, i. k. 0951010ISTA00I-1151
  
+Nauja redakcija nuo 2008-04-24:
+Nr. X-1501, 2008-04-17, Žin. 2008, Nr. 47-1752 (2008-04-24), i. k. 1081010ISTA00X-1501
+ 
 LIETUVOS RESPUBLIKOS
 KŪNO KULTŪROS IR SPORTO
-Į S T A T Y M A S
+ĮSTATYMAS
  
 1995 m. gruodžio 20 d. Nr. I-1151
 Vilnius
  
 
 
-I SKYRIUS. 
+I SKYRIUS 
 BENDROSIOS NUOSTATOS
  
 
@@ -34,7 +37,7 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas nustato kūno kultūros ir sporto organizacijų veiklos teisinius pagrindus, valstybės institucijų kompetenciją kūno kultūros ir sporto srityje, reglamentuoja profesionalųjį sportą, suteikia teisines garantijas šalies gyventojams praktikuoti kūno kultūrą ir sportą, reguliuoja kitus santykius, susidarančius kūno kultūros ir sporto srityje.
+Šis įstatymas nustato kūno kultūros ir sporto principus, reglamentuoja valstybės ir savivaldybių institucijų kompetenciją kūno kultūros ir sporto srityje, reglamentuoja kūno kultūros ir sporto organizavimą bei pratybas švietimo ir mokslo įstaigose, nevyriausybinių kūno kultūros ir sporto organizacijų kompetenciją plėtojant kūno kultūrą ir sportą, rengiant sportininkus, plėtojant varžybų sistemą, reglamentuoja kūno kultūros ir sporto specialistų veiklą, profesionalaus sporto plėtros pagrindus, sporto varžybų ir renginių organizavimo principus, nustato sporto statinių reikalavimus.
  
 
 
@@ -42,10 +45,180 @@ BENDROSIOS NUOSTATOS
 
 
 
-2 straipsnis. Lietuvos Respublikos gyventojų teisės kūno kultūros ir sporto srityje
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-Lietuvos Respublikos gyventojai turi teisę laisvai pasirinkti fizinio aktyvumo formas ir sporto šakas, vienytis į sporto organizacijas, dalyvauti kūno kultūros ir sporto valdyme, užsiimti profesionalia sporto veikla, taip pat kita kūno kultūros ir sporto veikla, kurios nedraudžia įstatymai.
+1. Didelis sportinis meistriškumas – sportininko ugdymo sudarant specialias sąlygas rezultatas – gebėjimas pakelti tokius pratybų ir varžybų krūvius, kurie leistų įgyti fizinį, techninį, taktinį ir psichologinį parengtumą, reikalingą siekiant pačių geriausių sporto rezultatų.
+
+
+
+
+2. Dopingas – sportininko organizmo fizinę ir psichinę veiklą skatinantys arba slopinantys, pavojų jo sveikatai keliantys preparatai ir metodai, vartojami pajėgumui laikinai padidinti ir sudarantys sąlygas nesąžiningai varžytis. Dopingo ir jo metodų sąrašą nustato tarptautinės antidopingo organizacijos.
+
+
+
+
+3. Kūno kultūra – svarbi asmens ir visuomenės bendrosios kultūros dalis – žmogaus fizinė ir dvasinė raida (pratybos) ir jos rezultatas (fizinė ir psichinė darna, grožis, fizinis pajėgumas ir aktyvumas, sveikata).
+
+
+
+
+4. Kūno kultūros arba sporto specialistas – sporto krypties aukštąjį išsilavinimą arba kūno kultūros ir sporto veiklos leidimą turintis asmuo.
+
+
+
+
+5. Kūno kultūros ir sporto klubas – teisės aktų nustatyta tvarka įsteigta juridinio asmens teises turinti organizacija ir Lietuvos Respublikoje įsteigti Europos Sąjungos valstybėje narėje ir kitoje Europos ekonominės erdvės valstybėje įsisteigusios įmonės filialai arba švietimo ir mokslo įstaigos padalinys, vienijantis kurios nors vienos arba kelių šakų sportininkus, sportuotojus, rėmėjus, plėtojantis sporto šaką ar kelias sporto šakas, ugdantis sportininkus ar komandas, siekiantis gerų sporto rezultatų, plėtojantis sveikos gyvensenos idėjas, turintis atributiką, tradicijas; gali turėti savo sporto bazę.
+
+
+
+
+6. Kūno kultūros ir sporto organizacija – teisės aktų nustatyta tvarka įsteigtas juridinis asmuo ir Lietuvos Respublikoje įsteigti Europos Sąjungos valstybėje narėje ir kitoje Europos ekonominės erdvės valstybėje įsisteigusios įmonės filialai arba švietimo ir mokslo įstaigos padalinys, vienijantis kurios nors vienos arba kelių šakų sportininkus, sportuotojus, sportininkus, sportininkus profesionalus ir jiems padedančius specialistus, taip pat rėmėjų bendrija, plėtojanti kūno kultūrą, sportą (sporto šaką), rengianti varžybas, sporto seminarus, konferencijas ir kitus renginius.
+
+
+
+
+7. Kūno kultūros ir sporto veiklos leidimas – dokumentas, kuriuo asmenims, neturintiems sporto krypties aukštojo išsilavinimo, suteikiama teisė ribotą laiką dirbti sporto teorinį ir praktinį darbą.
+
+
+
+
+8. Kūno kultūros pamoka – pamoka, per kurią mokoma sveikos elgsenos, ugdomas mokinių fizinis aktyvumas skatinti jų motyvaciją, sudarant fizinius įgūdžius, įpročius, ypatybes, lavinant kompleksinius gebėjimus, siekiant fizinės ir dvasinės darnos.
+
+
+
+
+9. Kūno kultūros pratybos – fizinio, intelektinio ir moralinio ugdymo pratybos, per kurias teorinės žinios pritaikomos praktinėje veikloje, mankštinantis, lavinant kūną ir stiprinant dvasią.
+
+
+
+
+10. Lietuvos parolimpinis komitetas – teisės aktų nustatyta tvarka įsteigta asociacija, kurios tikslas – koordinuoti parolimpinį judėjimą Lietuvoje.
+
+
+
+
+11. Lietuvos tautinis olimpinis komitetas – teisės aktų nustatyta tvarka įsteigta asociacija, kurios tikslas – vadovaujantis Olimpine chartija, plėtoti ir ginti olimpinį judėjimą Lietuvos Respublikoje.
+
+
+
+
+12. Neįgaliųjų sportas – organizuota laikinos arba visiškos kūno ir (ar) proto negalios žmonių sportinė veikla, kurios tikslas – stiprinti sveikatą, siekti geriausių sporto rezultatų.
+
+
+
+
+13. Olimpinė pamaina – tikslingai sudaroma sportininkų grupė, galinti ar galėsianti pakeisti šalies olimpinių rinktinių didelio meistriškumo sportininkus.
+
+
+
+
+14. Rinktinė – geriausių vienos ar kelių šakų sportininkų grupė, sporto varžybose atstovaujanti sporto organizacijai, miestui, savivaldybei, apskričiai, šaliai.
+
+
+
+
+15. Sportas – visos fizinės veiklos formos, kuriomis organizuotai ar individualiai siekiama tobulinti fizinę ištvermę ir psichinę sveikatą (gerovę), formuoti socialinius santykius ar siekti rezultatų įvairaus lygio varžybose.
+
+
+
+
+16. Sportas visiems – sportinė veikla, palaikanti būtiną sportuotojų fizinį aktyvumą, sudaranti sąlygas varžytis, pagal išgales siekti sporto rezultatų.
+
+
+
+
+17. Sportinės veiklos sutartis – sportininko profesionalo, sportininko ar trenerio ir sporto organizacijos susitarimas, kuriuo sportininkas profesionalas, sportininkas ar treneris įsipareigoja rengtis sporto varžyboms arba rengti sportininkus, dalyvauti varžybose laikantis nustatytos sporto organizacijos vidaus tvarkos, o sporto organizacija įsipareigoja mokėti atlygį už sportinę ar treniravimo veiklą ir užtikrina pasirengimo ir dalyvavimo varžyboms sąlygas ir jose dalyvauti, taip pat įsipareigoja vykdyti kitas sutartyje numatytas sąlygas.
+
+
+
+
+18. Sportininkas – žmogus, sistemingai besitreniruojantis, dalyvaujantis sporto varžybose, siekiantis kuo geresnių sporto rezultatų, nuosekliai didinantis savo sportinį meistriškumą.
+
+
+
+
+19. Sportininkas profesionalas – sportininkas, už rengimąsi varžyboms ir dalyvavimą jose gaunantis atlygį iš sporto organizacijos, su kuria jis yra sudaręs sportinės veiklos sutartį.
+
+
+
+
+20. Sportininkų ugdymo centras – sporto mokymo įstaiga, sporto centras, specializuota vienos ar kelių sporto šakų įstaiga, kuri gali vykdyti neformalųjį vaikų bei suaugusiųjų švietimą, rengia tam tikros kvalifikacijos sportininkus ir sportuotojus, taip pat atlieka kitas steigėjų jiems priskirtas funkcijas.
+
+
+
+
+21. Sporto bazė – statinys, skirtas vienos ar įvairių sporto šakų pratyboms ir varžyboms rengti, sportininkų reabilitacijai, sporto specialistų kvalifikacijai kelti.
+
+
+
+
+22. Sporto pratybos – savarankiška sportininko arba bendra sportininkų ir trenerio veikla, planingas treniravimasis.
+
+
+
+
+23. Sporto renginys – kūno kultūros, sporto propagavimo, žmonių ugdymo, jų gebėjimų rodymo priemonė: sporto rungtynės, varžybos, žaidynės, šventė, konferencija, konkursas, vakaras, paroda, susitikimas.
+
+
+
+
+24. Sporto rezultatas – kiekybinis sportinės veiklos rodiklis, reiškiamas pagal sporto šakų specifiką laiko, erdvės ar masės matavimo vienetais, balais, arba kokybinis rodiklis, reiškiamas pergale rungtynėse ar varžybose.
+
+
+
+
+25. Sporto stovykla – tikslingas trumpalaikis sportininkų arba komandos rengimas(is) varžyboms sporto bazėje.
+
+
+
+
+26. Sporto (šakos) federacija – nevyriausybinė sporto organizacija, kuri rūpinasi sporto šakos plėtra tam tikroje teritorijoje (mieste, šalyje, žemyne, pasaulyje) arba veikla, susijusia su sportu (sporto medicina, sporto žurnalistika ir kita).
+
+
+
+
+27. Sporto varžybos – dviejų ar daugiau sportininkų, komandų, sporto klubų varžymasis pagal iš anksto paskelbtus nuostatus, laikantis tarptautinės sporto šakos federacijos nustatytų taisyklių, turint tikslą nustatyti nugalėtojus, prizininkus.
+
+
+
+
+28. Sportuotojas – žmogus, kuris reguliariai mankštinasi, lanko pamėgtos sporto šakos pratybas, dalyvauja varžybose, fiziniais pratimais stiprina ir palaiko savo sveikatą, fizines ir dvasines galias.
+
+
+
+
+29. Strateginės sporto šakos – Kūno kultūros ir sporto departamento prie Lietuvos Respublikos Vyriausybės (toliau – Kūno kultūros ir sporto departamentas) į prioritetinių valstybės sporto šakų sąrašą įtrauktos sporto šakos.
+
+
+
+
+30. Tarptautinis kompleksinis renginys – sporto renginys, kuriame dalyvauja įvairių šalių ir įvairių sporto šakų atstovai (universiada, žaidynės, festivalis).
+
+
+
+
+31. Teisėjo veiklos sutartis – teisėjo ir sporto organizacijos susitarimas, kuriuo teisėjas įsipareigoja, laikydamasis atitinkamos sporto šakos taisyklių ir (ar) varžybų nuostatų, objektyviai prižiūrėti varžybų eigą ir rezultatus, o sporto organizaciją – sudaryti sąlygas teisėjui objektyviai atlikti savo pareigas ir atlyginti už suteiktas pasaugas.
+
+
+
+
+32. Treneris – asmuo, sporto (šakos) federacijos (nacionalinės arba tarptautinės) nustatyta tvarka įgijęs kvalifikaciją ar kvalifikacinę kategoriją, kurios nors sporto šakos specialistas, turintis teisę rengti ir rengiantis sportininkus arba komandą varžyboms.
+
+
+
+
+33. Universiada – pasaulinės studentų vasaros arba žiemos sporto šakų kompleksinės žaidynės.
+
+
+
+
+34. Varžybų nuostatai – varžybų organizatoriaus parengtas ir patvirtintas dokumentas, kuriame nurodomas varžybų tikslas ir uždaviniai, vykdymo vieta, laikas, programa, sistema, reikalavimai varžybų dalyviams ir komandoms, nugalėtojų nustatymo būdai ir kita.
+
+
+
+
+35. Žiūrovas – asmuo, stebintis sporto renginį. Žiūrovai turi laikytis nustatytų saugumo reikalavimų.
  
 
 
@@ -53,115 +226,38 @@ Lietuvos Respublikos gyventojai turi teisę laisvai pasirinkti fizinio aktyvumo 
 
 
 
-3 straipsnis. Sporto organizacijos
+3 straipsnis. Kūno kultūros ir sporto principai
 
 
-Sporto organizacijos pagal šį įstatymą yra juridinio asmens teises turintys sporto klubai, sporto mokyklos, sporto centrai, sporto bazės, sporto šakų federacijos, asociacijos, draugijos ir kitos kūno kultūra ir sporto veikla užsiimančios organizacijos bei institucijos, kurios sudaro sąlygas praktikuoti kūno kultūrą ir sportą, rengti sportininkus, organizuoti sporto varžybas ir kitus kūno kultūros bei sporto renginius.
+Kūno kultūros ir sporto veikla grindžiama šiais principais:
 
 
+1) lygiateisiškumo – siekti sudaryti sąlygas sportuoti visiems norintiems, nepaisant jų lyties, amžiaus, negalios, religijos ar tikėjimo, seksualinės orientacijos ir socialinės ar ekonominės padėties. Lygiateisiškumo principo pažeidimu nelaikoma atskiros varžybos vyrams, moterims, neįgaliesiems, varžybos pagal amžiaus grupes, dalyvių skaičiaus varžybose ribojimas;
 
 
-Sporto organizacijos įstatymų nustatyta tvarka turi teisę jungtis į visuomenines, pelno nesiekiančias sporto organizacijas, taip pat steigti profesionaliojo sporto organizacijas ir dalyvauti jų veikloje.
- 
 
 
+2) žiūrovų ir sporto renginių dalyvių saugumo – vengti incidentų aikštelėse ir už jų ribų, skatinti smurto mažinimą tarp žiūrovų; skatinti tinkamą sporto sirgalių klubų veiklos organizavimą ir jų narių gerą elgesį;
 
 
 
 
-4 straipsnis. Sporto klubai
+3) dopingo draudimo – apsaugoti pagrindinę sportininkų teisę dalyvauti sporte be dopingo;
 
 
-Pagrindinė sporto institucija, vienijanti gyventojus ir sportininkus fiziniam aktyvumui, sveikai gyvensenai, kūno kultūrai ir sportui plėtoti bei populiarinti, yra sporto klubas.
 
 
+4) kilnaus elgesio – moralinės savybės, apibūdinančios taurių motyvų padiktuotus žmonių poelgius, labai vertintinus sportinėse kovose;
 
 
-Sporto klubas pagal šį įstatymą yra juridinio asmens teises turinti sporto organizacija, įsteigta įstatymų ir kitų teisės aktų nustatyta tvarka. Gali būti steigiami mėgėjiški ir profesionalieji sporto klubai.
 
 
+5) nešališkumo – užtikrinti, kad rezultatai nebūtų iš anksto aiškūs, ir išlaikyti konkurencinę pusiausvyrą tarp varžybose dalyvaujančių sportininkų ar komandų;
 
 
-Mėgėjiški sporto klubai steigiami remiantis Lietuvos Respublikos visuomeninių organizacijų įstatymu. Jie savo veiklą grindžia įstatymo nustatyta tvarka įregistruotais įstatais.
 
 
-
-
-Profesionaliųjų sporto klubų statusą apibrėžia šio įstatymo 33 straipsnis.
- 
-
-
-
-
-
-
-5 straipsnis. Sporto organizacijų pavadinimai, emblemos ir simboliai
-
-
-Visos sporto organizacijos turi turėti savo pavadinimus. Sporto organizacija taip pat gali turėti savo emblemą ir simbolius.
-
-
-
-
-Naujai steigiamos sporto organizacijos pavadinimas, emblema ir simboliai turi skirtis nuo anksčiau įsteigtų sporto organizacijų pavadinimų, emblemų ir simbolių.
-
-
-
-
-Be sporto organizacijų leidimo kitoms organizacijoms ar asmenims draudžiama naudoti jų pavadinimą, emblemą ir simbolius.
-
-
-
-
-Už neteisėtą sporto organizacijos pavadinimo, emblemos ar simbolio naudojimą taikoma Lietuvos Respublikos įstatymų nustatyta atsakomybė.
- 
-
-
-
-
-
-
-6 straipsnis.         Valstybės simbolikos naudojimas sporto organizacijų emblemose ir simboliuose
-
-
-Lietuvos valstybės vėliavos spalvos kaip visuma, Lietuvos valstybės herbas gali būti naudojami tik sporto šakos federacijos (sąjungos, asociacijos), atstovaujančios sporto šakai atitinkamoje tarptautinėje sporto šakos federacijoje (sąjungoje, asociacijoje), emblemose ir simboliuose, taip pat sporto šakos Lietuvos rinktinės emblemose ir simboliuose, sporto šakos federacijos užsakymu gaminamame sporto inventoriuje, sporto aprangoje, gairelėse, ženkluose ir suvenyruose.
- 
-
-
-
-
-
-
-7 straipsnis. Kūno kultūros ir sporto propagavimas
-
-
-Kūno kultūros ir sporto valdymo institucijos, sporto organizacijos propaguoja kūno kultūrą ir sportą, remia sveikos gyvensenos, olimpinį, paraolimpinį ir sutrikusio intelekto žmonių judėjimą.
-
-
-
-
-Draudžiama propaguoti kūno kultūros ir sporto srityje žiaurumą ir prievartą, žmogaus orumo žeminimą, sveikatai žalingų metodikų ir uždraustų preparatų naudojimą.
- 
-
-
-
-
-
-
-8 straipsnis. Sporte draudžiami būdai ir priemonės
-
-
-Sporto rezultatams pasiekti neleidžiama naudoti būdų ir priemonių, kuriuos draudžia tarptautinių ar Lietuvos sporto šakų federacijų, draugijų, asociacijų priimti dokumentai.
-
-
-
-
-Treneriai, kiti kūno kultūros ir sporto darbuotojai ar asmenys neturi vykdyti ir duoti jokių nurodymų, kurie gali pakenkti asmenų, praktikuojančių kūno kultūrą ir sportą, sveikatai, negali duoti nurodymų, pažeidžiančių moralės normas.
-
-
-
-
-Asmenys, pažeidę šiuos reikalavimus, atsako įstatymų nustatyta tvarka.
+6) tęstinumo – valstybės, savivaldybių ir nevyriausybinės sporto organizacijos sudaro tinkamas sąlygas talentingiems sportui asmenims nepertraukiamai užsiimti sporto veikla.
  
 
 
@@ -171,23 +267,10 @@ Asmenys, pažeidę šiuos reikalavimus, atsako įstatymų nustatyta tvarka.
 
 
 
-II SKYRIUS. 
-KŪNO KULTŪROS IR SPORTO VALDYMAS
- 
+4 straipsnis. Lietuvos Respublikos gyventojų teisės sporto srityje
 
 
-9 straipsnis.         Valstybės institucijos, vykdančios kūno kultūros ir sporto valdymo funkcijas
-
-
-Kūno kultūros ir sporto valstybinio valdymo funkcijas šalyje vykdo Lietuvos Respublikos Vyriausybė, Kūno kultūros ir sporto departamentas prie Lietuvos Respublikos Vyriausybės, Švietimo ir mokslo ministerija, apskričių viršininkai, savivaldos institucijos, bendradarbiaudamos su įvairiomis suinteresuotomis organizacijomis.
-Straipsnio dalies pakeitimai:
-Nr. VIII-324, 1997-06-26, Žin., 1997, Nr. 65-1549 (1997-07-09), i. k. 0971010ISTAVIII-324
- 
-
-
-
-
-Valstybė, garantuodama šio straipsnio pirmojoje dalyje nurodytas ir kitas teises kūno kultūros ir sporto srityje, finansuoja kūno kultūrą ir sportą, šios srities mokslinius tyrimus, rūpinasi kūno kultūros ir sporto įrenginių statyba, jų materialine technine būkle, organizuoja kūno kultūros ir sporto specialistų rengimą, jų tobulinimąsi, skatina gyventojus rūpintis savo sveikata ir puoselėti sveiką gyvenseną.
+Lietuvos Respublikos gyventojai turi teisę laisvai pasirinkti fizinės veiklos formas ir sporto šakas, vienytis į sporto organizacijas, dalyvauti sporto valdyme, užsiimti profesionalia sporto veikla, kita sporto veikla, kurios nedraudžia įstatymai.
  
 
 
@@ -195,23 +278,152 @@ Valstybė, garantuodama šio straipsnio pirmojoje dalyje nurodytas ir kitas teis
 
 
 
-10 straipsnis.       Lietuvos Respublikos Vyriausybės kompetencija kūno kultūros ir sporto srityje
+
+
+II SKYRIUS
+KŪNO KULTŪROS IR SPORTO SISTEMA IR JOS VALDYMAS
+ 
+
+
+5 straipsnis. Kūno kultūros ir sporto sistemos veiklos sritys ir subjektai
+
+
+1. Kūno kultūros ir sporto sistema – fizinių ir juridinių asmenų, ugdančių žmogų visomis kūno kultūros priemonėmis, visuma, nuoseklus ir nuolatinis fizinių ir dvasinių žmogaus galimybių plėtojimas bei sveikatos stiprinimas.
+
+
+
+
+2. Kūno kultūros ir sporto sistema apima šias veiklos sritis:
+
+
+1) vaikų ir jaunimo ugdymą kūno kultūros ir sporto srityje;
+
+
+
+
+2) suaugusiųjų ir neįgalių žmonių kūno kultūros plėtojimą;
+
+
+
+
+3) sporto šakų plėtojimą;
+
+
+
+
+4) didelio meistriškumo sportininkų rengimą.
+
+
+
+
+
+
+3. Kūno kultūros ir sporto sistemos subjektai yra:
+
+
+1) sportininkai, sportuotojai, sportininkai profesionalai;
+
+
+
+
+2) kūno kultūros ir sporto klubai;
+
+
+
+
+3) savivaldybės ar jų įgaliotos institucijos, apskrities ar šalies sporto (šakos) federacijos;
+
+
+
+
+4) sportininkų ugdymo centrai;
+
+
+
+
+5) apskričių viršininkai, už sportą atsakingi apskričių viršininkų administracijų padaliniai;
+
+
+
+
+6) valstybės institucijos ir jų reguliavimo sričiai priskirtos įstaigos, kurių veikla susijusi su kūno kultūros ir sporto plėtra;
+
+
+
+
+7) sveikos gyvensenos mokyklos ir sporto centrai, kitos organizacijos, plėtojančios kūno kultūrą ir sportą.
+ 
+
+
+
+
+
+
+
+
+PIRMASIS SKIRSNIS 
+VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJŲ KOMPETENCIJA
+ 
+
+
+6 straipsnis. Lietuvos Respublikos Seimo kompetencija sporto srityje
+
+
+Lietuvos Respublikos Seimas:
+
+
+1) nustato strategines sporto politikos kryptis;
+
+
+
+
+2) tvirtina valstybinę sporto strategiją;
+
+
+
+
+3) tvirtina valstybės biudžeto asignavimus sporto priemonėms finansuoti;
+
+
+
+
+4) ratifikuoja ir denonsuoja svarbiausias Lietuvos Respublikos sporto tarptautines sutartis;
+
+
+
+
+5) vykdo kitas įstatymų nustatytas funkcijas.
+ 
+
+
+
+
+
+
+
+
+7 straipsnis. Lietuvos Respublikos Vyriausybės kompetencija kūno kultūros ir sporto srityje
 
 
 Lietuvos Respublikos Vyriausybė:
 
 
-1) tvirtina prioritetines kūno kultūros ir sporto plėtojimo kryptis bei programas;
+1) tvirtina prioritetines kūno kultūros ir sporto plėtros kryptis ir programas;
 
 
 
 
-2) nustato Kūno kultūros ir sporto departamento prie Lietuvos Respublikos Vyriausybės kompetenciją (toliau – Kūno kultūros ir sporto departamentas);
+2) sudaro Nacionalinę kūno kultūros ir sporto tarybą ir tvirtina jos reglamentą;
 
 
 
 
-3) finansuoja kūno kultūrą ir sportą.
+3) nustato rentų buvusiems sportininkams mokėjimo sąlygas ir tvarką;
+
+
+
+
+4) nustato premijų didelio meistriškumo sportininkams dydžius ir mokėjimo tvarką.
  
 
 
@@ -221,74 +433,30 @@ Lietuvos Respublikos Vyriausybė:
 
 
 
-11 straipsnis.       Kūno kultūros ir sporto departamento prie Lietuvos Respublikos Vyriausybės kompetencija
+8 straipsnis. Nacionalinė kūno kultūros ir sporto taryba ir jos kompetencija
 
 
-Kūno kultūros ir sporto departamentas:
-
-
-1) rengia kūno kultūros ir sporto plėtojimo programas ir teikia jas tvirtinti Vyriausybei, koordinuoja ir kontroliuoja jų vykdymą, atsako už kūno kultūrą ir sportą šalyje;
+1. Vyriausybė, siekdama skatinti visų valstybės valdymo institucijų ir nevyriausybinių organizacijų domėjimąsi kūno kultūra ir sportu bei jų bendradarbiavimą, sudaro Nacionalinę kūno kultūros ir sporto tarybą ir tvirtina jos reglamentą.
 
 
 
 
-2) disponuoja valstybės biudžeto lėšomis, skirtomis kūno kultūrai ir sportui plėtoti;
+2. Nacionalinė kūno kultūros ir sporto taryba:
+
+
+1) propaguoja kūno kultūrą ir sportą;
 
 
 
 
-3) kartu su kitomis valstybės institucijomis bei visuomeninėmis organizacijomis plėtoja privalomų bei pasirenkamų kūno kultūros ir sporto pratybų sistemą įvairaus amžiaus žmonėms, invalidams, moterims, šeimoms, kariams, veteranams ir kitiems asmenims;
+2) siekia, kad kūno kultūros ir sporto plėtra neprieštarautų tarptautiniams kūno kultūrą ir sportą reglamentuojantiems aktams.
 
 
 
 
-4) skiria lėšas sveikos gyvensenos, kūno kultūros reikmėms, didelio meistriškumo sportininkams rengti, taip pat toms sporto organizacijoms, kuriose tokie sportininkai ruošiami varžyboms;
 
 
-
-
-5) rengia iš valstybės ir savivaldybių biudžetų lėšų finansuojamų sporto varžybų sistemą, koordinuoja jos įgyvendinimą;
-
-
-
-
-6) rūpinasi kūno kultūros ir sporto mokslinio tyrimo darbais, mokslo ir technikos naujovių įgyvendinimu, organizuoja mokslines konferencijas, simpoziumus, rengia ir leidžia mokslinę metodinę literatūrą kūno kultūros ir sporto klausimais;
-
-
-
-
-7) kartu su Švietimo ir mokslo ministerija, atitinkamų sporto šakų federacijomis ir mokslo institucijomis, kitomis sporto organizacijomis rūpinasi kūno kultūros ir sporto specialistų poreikio tyrimu, jų rengimu, profesiniu tobulinimu;
-
-
-
-
-8) nustatyta tvarka atitinkamos sporto šakos federacijos teikimu išduoda licencijas kūno kultūros ir sporto specialistams, sprendžia jų galiojimo nutraukimo prieš laiką klausimus;
-Straipsnio punkto pakeitimai:
-Nr. VIII-1478, 1999-12-14, Žin., 1999, Nr. 112-3256 (1999-12-30), i. k. 0991010ISTAIII-1478
- 
-
-
-
-
-9) nustatyta tvarka išduoda licencijas steigti sportinio profilio mokyklas;
-Straipsnio punkto pakeitimai:
-Nr. VIII-1478, 1999-12-14, Žin., 1999, Nr. 112-3256 (1999-12-30), i. k. 0991010ISTAIII-1478
- 
-
-
-
-
-10) atstovauja Lietuvos Respublikai bendradarbiaujant su kitomis valstybėmis kūno kultūros ir sporto srityje, palaiko sporto ryšius su užsienyje gyvenančiais lietuviais, skatina Lietuvos sporto organizacijų bendradarbiavimą su kitų valstybių kūno kultūros ir sporto organizacijomis, rūpinasi Lietuvos Respublikos tarptautinių įsipareigojimų bei sutarčių kūno kultūros ir sporto srityje vykdymu;
-
-
-
-
-11) analizuoja kūno kultūros ir sporto organizacijų veiklą, kartu su suinteresuotomis valstybės institucijomis ir sporto organizacijomis rengia pasiūlymus dėl valstybės lėšų skyrimo jų veiklai remti;
-
-
-
-
-12) rengia sporto bazių bei įrenginių, finansuojamų iš valstybės biudžeto, statybų programas, steigia sporto bazes, atlieka valstybės sporto bazių bei įrenginių apskaitą bei klasifikaciją, teikia paramą valstybės sporto bazėms.
+3. Į Nacionalinę kūno kultūros ir sporto tarybą atstovus deleguoja Seimo Jaunimo ir sporto reikalų komisija, Vyriausybės kanceliarija, Finansų, Krašto apsaugos, Socialinės apsaugos ir darbo, Švietimo ir mokslo, Sveikatos apsaugos, Užsienio reikalų ir Vidaus reikalų ministerijos, Kūno kultūros ir sporto departamentas, nevyriausybinės sporto organizacijos. Atstovų skaičius, jų kadencijos trukmė ir pirmininko rinkimo tvarka nustatoma Nacionalinės kūno kultūros ir sporto tarybos reglamente.
  
 
 
@@ -296,68 +464,63 @@ Nr. VIII-1478, 1999-12-14, Žin., 1999, Nr. 112-3256 (1999-12-30), i. k. 0991010
 
 
 
+9 straipsnis. Kūno kultūros ir sporto departamentas ir jo kompetencija
 
 
-12 straipsnis.       Švietimo ir mokslo ministerijos kompetencija kūno kultūros ir sporto srityje
+Kūno kultūros ir sporto departamentas, plėtodamas kūno kultūrą ir sportą Lietuvoje:
 
 
-Švietimo ir mokslo ministerija:
-
-
-1) vadovauja vaikų ir jaunimo kūno kultūrai ir sportui švietimo įstaigose, atsako už fizinių galių ugdymą;
-
-
-
-
-2) nuolat rūpinasi moksleivių sveikatingumu, fiziniu parengimu, glaudžiai bendradarbiauja su Sveikatos apsaugos ministerija, Kūno kultūros ir sporto departamentu, Krašto apsaugos ministerija ir kitomis suinteresuotomis institucijomis;
+1) dalyvauja formuojant Lietuvos Respublikos politiką kūno kultūros ir sporto srityje ir ją vykdo;
 
 
 
 
-3) suderinusi su Kūno kultūros ir sporto departamentu bei Sveikatos apsaugos ministerija, gavusi nepriklausomų ekspertų pritarimą, tvirtina švietimo įstaigų mokymo, papildomo ugdymo programas, organizuoja vadovėlių, literatūros, metodinių priemonių leidybą bei gamybą;
+2) rengia kūno kultūros ir sporto ilgalaikę strategiją ir plėtros programas, institucijos strateginius veiklos planus, kontroliuoja, kaip jie vykdomi;
 
 
 
 
-4) steigia, reorganizuoja ir likviduoja jai pavaldžias kūno kultūros ir sporto įstaigas, skiria ir atleidžia jų vadovus; aprobuoja nepavaldžių ir nevalstybinių sporto mokyklų, centrų, klubų steigimą bei reorganizavimą;
+3) tvirtina strateginių sporto šakų sąrašą;
 
 
 
 
-5) kartu su Kūno kultūros ir sporto departamentu tvirtina sporto mokyklų, centrų, klubų nuostatus, nustato vaikų ir jaunimo fizinio ugdymo standartus;
+4) disponuoja valstybės biudžeto asignavimais, Lietuvos Respublikos kūno kultūros ir sporto rėmimo fondo lėšomis ir kitomis teisėtai gautomis lėšomis, kontroliuoja, kaip jos naudojamos;
 
 
 
 
-6) rūpinasi švietimo įstaigų kūno kultūros ir sporto specialistų rengimu, jų kvalifikacija ir atestavimu;
+5) koordinuoja kūno kultūros ir sporto sistemos subjektų veiklą kūno kultūros ir sporto srityje;
 
 
 
 
-7) skiria lėšų kūno kultūros ir sporto mokslinėms programoms finansuoti, organizuoja mokslinio tyrimo darbą moksleivių kūno kultūros ir sporto srityje, rengia konferencijas, simpoziumus, nacionalinius pasitarimus moksleivių sveikatingumo, kūno kultūros ir sporto klausimais;
+6) bendradarbiauja kūno kultūros ir sporto srityje su lietuvių bendruomenėmis užsienyje;
 
 
 
 
-8) rūpinasi švietimo įstaigų kūno kultūros ir sporto materialinės techninės bazės plėtimu, aprūpinimu būtinomis mokymo priemonėmis ir sporto inventoriumi;
+7) nustato kūno kultūros ir sporto įstaigų vadovų, trenerių bei specialistų kvalifikacinius reikalavimus, jų atestavimo, kategorijų suteikimo, kūno kultūros ir sporto veiklos leidimų išdavimo tvarką;
 
 
 
 
-9) teikia pasiūlymus bei rekomendacijas apskričių viršininkų ir savivaldos administracijų švietimo padaliniams moksleivių kūno kultūros ir sporto klausimais;
-Straipsnio punkto pakeitimai:
-Nr. VIII-324, 1997-06-26, Žin., 1997, Nr. 65-1549 (1997-07-09), i. k. 0971010ISTAVIII-324
- 
+8) skatina kūno kultūros ir sporto informacinės sistemos ir sporto mokslo plėtrą;
 
 
 
 
-10) planuoja ir vykdo nacionalinius bei tarptautinius moksleivių sporto renginius ir varžybas;
+9) kaupia ir analizuoja kūno kultūros ir sporto statistinę informaciją;
 
 
 
 
-11) atstovauja Lietuvos Respublikai bendradarbiaujant su kitomis valstybėmis moksleivių kūno kultūros ir sporto srityje.
+10) vadovaudamasis Vyriausybės nutarimais, nustato biudžetinių kūno kultūros ir sporto įstaigų ir organizacijų darbuotojų darbo apmokėjimo tvarką;
+
+
+
+
+11) atlieka kitas šiame ir kituose teisės aktuose nustatytas funkcijas.
  
 
 
@@ -367,86 +530,59 @@ Nr. VIII-324, 1997-06-26, Žin., 1997, Nr. 65-1549 (1997-07-09), i. k. 0971010IS
 
 
 
-13 straipsnis. Apskrities viršininko kompetencija kūno kultūros ir sporto srityje
+10 straipsnis. Ministerijų ir kitų valstybės institucijų kompetencija kūno kultūros ir sporto srityje
 
 
-Apskrities viršininkas:
-
-
-1) įstatymų nustatyta tvarka steigia, reorganizuoja ir likviduoja valstybines kūno kultūros ir sporto įstaigas bei tarnybas;
+1. Krašto apsaugos ministerija ir kitos krašto apsaugos sistemos institucijos pagal savo kompetenciją organizuoja ir užtikrina karių fizinį parengtumą, sudaro sąlygas kariams sportuoti ir dalyvauti sporto varžybose.
 
 
 
 
-2) atsako už apskrities kūno kultūros ir sporto įstaigų bei tarnybų funkcionavimą ir išlaikymą;
+2. Socialinės apsaugos ir darbo ministerija plėtoja neįgaliųjų kūno kultūrą ir sportą kaip integravimosi į visuomenę priemonę, remia šeimos ir bendruomenės fizinio aktyvumo iniciatyvas bei programas.
 
 
 
 
-3) rūpinasi valstybinių kūno kultūros ir sporto programų įgyvendinimu apskrityje;
+3. Susisiekimo ministerija reglamentuoja aviacijos sportininkų ir specialistų kvalifikacijos, skrydžių saugos, orlaivių techninės būklės kontrolės, skrydžių, motorlaivių, automobilių ir motociklų sporto organizavimo ir valdymo klausimus.
 
 
 
 
-4) nustato prioritetines apskrities kūno kultūros ir sporto raidos kryptis, rengia kūno kultūros ir sporto plėtojimo apskrityje programas ir jas įgyvendina;
+4. Sveikatos apsaugos ministerija plėtoja sveikos gyvensenos principus, rengia ir koordinuoja fizinio aktyvumo skatinimo programas, rengia teisės aktų, susijusių su fizinio aktyvumo didinimu, projektus, dalyvauja sprendžiant kovos su dopingo vartojimu sporte klausimus, nustato sportininkų ir sportuotojų sveikatos tikrinimo reikalavimus.
 
 
 
 
-5) skiria lėšas apskričiai atstovaujančioms sporto komandoms ar sportininkams rengti ir jiems dalyvauti šalies ar tarptautinėse varžybose, sveikos gyvensenos ir kūno kultūros reikmėms;
+5. Švietimo ir mokslo ministerija pagal savo kompetenciją formuoja ir vykdo kūno kultūros ir sporto politiką formaliojo ir neformaliojo švietimo programas vykdančiose įstaigose.
 
 
 
 
-6) rūpinasi vaikų, jaunimo, dirbančiųjų bei pagyvenusių žmonių, taip pat invalidų ir kitų apskrities gyventojų kūno kultūra ir sportu;
+6. Vidaus reikalų ministerija rūpinasi vidaus tarnybos sistemos pareigūnų fiziniu parengtumu, sudaro sąlygas šiems asmenims sportuoti ir dalyvauti sporto varžybose.
 
 
 
 
-7) rūpinasi sportininkų rezervo, didelio meistriškumo sportininkų rengimu, rengia iš valstybės lėšų finansuojamų apskrities sporto varžybų sistemą ir ją įgyvendina.
-
-
-
-
-Straipsnio pakeitimai:
-Nr. VIII-324, 1997-06-26, Žin., 1997, Nr. 65-1549 (1997-07-09), i. k. 0971010ISTAVIII-324
+7. Kitos ministerijos ir valstybės institucijos pagal savo kompetenciją dalyvauja formuojant kūno kultūros ir sporto politiką, įgyvendina ją ir sudaro sąlygas plėtoti kūno kultūrą ir sportą.
  
 
 
 
 
-14 straipsnis. Savivaldybės kompetencija kūno kultūros ir sporto srityje
 
 
-Miesto, rajono savivaldos institucijos:
+11 straipsnis. Apskrities viršininko kompetencija
 
 
-1) steigia, reorganizuoja ir likviduoja iš savivaldybės biudžeto lėšų išlaikomus sveikatos klubus, kūno kultūros ir sporto įstaigas, sporto mokyklas bei centrus;
+Apskrities viršininkas, plėtodamas kūno kultūrą ir sportą regione:
 
 
-
-
-2) rengia ir įgyvendina kūno kultūros ir sporto plėtojimo miesto, rajono teritorijoje programas;
+1) teisės aktų nustatyta tvarka steigia, reorganizuoja ir likviduoja apskrities valstybines kūno kultūros ir sporto įstaigas, atsako už jų funkcionavimą ir išlaikymą, rūpinasi sporto statinių būkle ir plėtra;
 
 
 
 
-3) koordinuoja iš savivaldybės biudžeto lėšų finansuojamų kūno kultūros ir sporto organizacijų veiklą;
-
-
-
-
-4) skiria lėšas miestui, rajonui atstovaujančioms komandoms ar sportininkams rengti ir jiems dalyvauti šalies, tarptautinėse ar apskrities varžybose, rūpinasi vaikų, jaunimo, dirbančiųjų bei pagyvenusių žmonių, taip pat invalidų ir kitų miesto, rajono gyventojų kūno kultūra ir sportu, sveikos gyvensenos judėjimu;
-
-
-
-
-5) tiria miesto, rajono kūno kultūros ir sporto specialistų poreikius, rūpinasi jų kvalifikacijos tobulinimu;
-
-
-
-
-6) rūpinasi talentingų sportininkų paieška bei jų rengimu.
+2) rengia ir įgyvendina kūno kultūros ir sporto plėtros programas apskrityje.
  
 
 
@@ -456,162 +592,48 @@ Miesto, rajono savivaldos institucijos:
 
 
 
-15 straipsnis. Lietuvos tautinio olimpinio komiteto kompetencija
+12 straipsnis. Savivaldybių kompetencija
 
 
-Lietuvos tautinis olimpinis komitetas yra savarankiška visuomeninė organizacija, vykdanti savo veiklą pagal Olimpinę chartiją, Lietuvos Respublikos Konstituciją ir įstatymus bei savo įstatus.
+1. Kūno kultūros ir sporto politiką savivaldybėje formuoja savivaldybės taryba.
 
 
 
 
-Lietuvos tautinis olimpinis komitetas vadovauja olimpiniam judėjimui Lietuvoje, kartu su sporto šakų federacijomis rūpinasi šalies sportininkų atranka ir rengimu olimpinėms žaidynėms bei dalyvavimu olimpinėse žaidynėse, atstovauja Lietuvos Respublikai olimpiniame judėjime.
- 
+2. Savivaldybių tarybos steigia ir likviduoja kūno kultūros ir sporto įstaigas, savo nustatyta tvarka gali finansuoti sportininkų ugdymo centrų, sporto klubų ir kitų nevyriausybinių teritorijoje veikiančių sporto organizacijų, neatliekančių viešojo administravimo funkcijų, veiklą.
 
 
 
 
+3. Savivaldybių tarybos gali nustatyti stipendijų, kurios būtų mokamos iš savivaldybių biudžetų, skyrimo sportininkams kriterijus ir tvarką, taip pat premijų, kurios būtų mokamos iš savivaldybių biudžetų, skyrimo savivaldybių rinktinių nariams kriterijus ir tvarką.
 
 
-16 straipsnis. Lietuvos paraolimpinio komiteto kompetencija
 
 
-Lietuvos paraolimpinis komitetas yra savarankiška visuomeninė organizacija, veikianti pagal Tarptautinio paraolimpinio komiteto įstatus, Lietuvos Respublikos įstatymus bei savo įstatus.
+4. Savivaldybės administracijos direktorius arba jo įgaliota savivaldybės įstaiga, įgyvendindama kūno kultūros ir sporto politiką savivaldybės teritorijoje:
 
 
+1) rengia ir įgyvendina kūno kultūros ir sporto plėtojimo savivaldybėje programas;
 
 
-Lietuvos paraolimpinis komitetas rūpinasi invalidų kūno kultūra ir sportu, rengia sportininkus paraolimpinėms žaidynėms, pasaulio ir Europos čempionatams, vadovauja paraolimpiniam judėjimui Lietuvoje.
- 
 
 
+2) įgyvendina sporto bazių plėtros strategiją savivaldybėje, užtikrina jų prieinamumą gyventojams;
 
 
 
 
-17 straipsnis. Lietuvos specialiojo tautinio olimpinio komiteto kompetencija
+3) savivaldybių tarybų nustatyta tvarka finansuoja rinktinių dalyvavimą šalies ir tarptautinėse varžybose;
 
 
-Lietuvos specialusis tautinis olimpinis komitetas yra savarankiška visuomeninė organizacija, veikianti pagal Lietuvos Respublikos įstatymus bei savo įstatus. Lietuvos specialusis tautinis olimpinis komitetas rūpinasi sutrikusio intelekto žmonių kūno kultūra ir sportu, vadovauja specialiajam olimpiniam judėjimui Lietuvoje.
- 
 
 
+4) vykdo šviečiamąją veiklą, formuoja jų teritorijoje gyvenančių žmonių pozityvų požiūrį į kūno kultūros ir sporto reikšmę sveikatai;
 
 
 
 
-18 straipsnis. Sporto organizacijų asociacijos
-
-
-Sporto klubai, sporto mokyklos, sporto centrai ir kitos sporto organizacijos, turinčios juridinio asmens teises, įstatymų nustatyta tvarka turi teisę jungtis į asociacijas (sąjungas, draugijas).
-
-
-
-
-Sporto organizacijos, veikiančios pagal akcinių bendrovių įstatymus, gali jungtis į asociacijas (sąjungas, draugijas) pagal akcinėms bendrovėms nustatytą asociacijų steigimo tvarką.
-
-
-
-
-Sporto organizacijos, veikiančios pagal Visuomeninių organizacijų įstatymą, gali jungtis į asociacijas pagal ne pelno organizacijoms nustatytą asociacijų steigimo tvarką.
-
-
-
-
-Šio straipsnio antrojoje ir trečiojoje dalyse nurodytos sporto organizacijos ir jų asociacijos įstatymų ir savo įstatų nustatyta tvarka gali jungtis į mišrias sporto asociacijas (sąjungas, draugijas, lygas ir kt.) sporto varžyboms organizuoti ir joms vykdyti, taip pat kitiems bendriems sportiniams tikslams įgyvendinti.
-
-
-
-
-Sporto organizacijų asociacijos, taip pat mišrios asociacijos savo veiklą grindžia įstatymais, Vyriausybės nutarimais bei savo įstatais.
- 
-
-
-
-
-
-
-19 straipsnis. Lietuvos sporto federacijos
-
-
-Vienoje sporto šakos tarptautinėje federacijoje (sąjungoje, asociacijoje) atitinkamai sporto šakai gali atstovauti tik viena tos šakos federacija (sąjunga, asociacija).
-
-
-
-
-Į Lietuvos sporto šakų federacijas jų įstatuose nustatyta tvarka turi teisę jungtis atskiros sporto organizacijos.
-
-
-
-
-Lietuvos sporto šakų federacijos steigiamos ir veikia pagal ne pelno organizacijoms nustatytą asociacijų steigimo ir veiklos tvarką.
-
-
-
-
-Tik Lietuvos sporto šakų federacijos turi teisę:
-
-
-1) atstovauti sporto šakai tarptautinėse sporto organizacijose (federacijose);
-
-
-
-
-2) sporto šakų tarptautinių federacijų nustatyta tvarka leisti sportininkams Lietuvos piliečiams rungtyniauti kitų valstybių sporto klubuose, užsieniečiams - Lietuvos sporto klubuose;
-
-
-
-
-3) sudaryti Lietuvos Respublikos sporto šakų nacionalines rinktines;
-
-
-
-
-4) koordinuoti Lietuvoje veikiančių atitinkamos sporto šakos organizacijų sportinę veiklą;
-
-
-
-
-5) rengti Lietuvoje tarptautines sporto varžybas, kuriose dalyvauja Lietuvos nacionalinės rinktinės;
-
-
-
-
-6) atstovauti atitinkamai sporto šakai Lietuvos tautiniame olimpiniame komitete.
-
-
-
-
-
-
-Lietuvos sporto šakų federacijos taip pat:
-
-
-1) rengia sportininkus Lietuvos nacionalinėms rinktinėms;
-
-
-
-
-2) organizuoja tarptautines ir šalies sporto varžybas;
-
-
-
-
-3) rūpinasi atitinkamų sporto šakų plėtojimu, jų materialine technine baze;
-
-
-
-
-4) užtikrina nacionalinių sporto rinktinių pasirengimą ir dalyvavimą varžybose;
-
-
-
-
-5) rengia ilgalaikes sporto šakos plėtojimo programas;
-
-
-
-
-6) vykdo kitas funkcijas, susijusias su atitinkamos sporto šakos plėtojimu.
+5) tvirtina miestų ir (ar) savivaldybių sporto šakų rinktines.
  
 
 
@@ -621,20 +643,104 @@ Lietuvos sporto šakų federacijos taip pat:
 
 
 
-20 straipsnis. Sporto šakų Lietuvos rinktinės
 
 
-Sporto šakų Lietuvos rinktines formuoja atitinkamų sporto šakų federacijos, remdamosi sportininkų konkurencijos principu ir atsižvelgdamos į sportininkų rezultatus.
+ANTRASIS SKIRSNIS 
+NEVYRIAUSYBINIŲ ORGANIZACIJŲ KOMPETENCIJA PLĖTOJANT KŪNO KULTŪRĄ IR SPORTĄ
+ 
+
+
+13 straipsnis. Kūno kultūros ir sporto plėtra
+
+
+1. Teisės aktų nustatyta tvarka įregistruotos nevyriausybinės kūno kultūros ir sporto organizacijos plėtoja šalyje olimpinį, parolimpinį, kurčiųjų ir specialiosios olimpiados, sporto visiems sąjūdžius, įvairias sporto šakas, sporto šakų grupes ar sportą visiems. Kūno kultūros ir sporto organizacijos įstatymų nustatyta tvarka ir tikslais turi teisę jungtis į asociacijas.
 
 
 
 
-Sporto šakų Lietuvos rinktines finansuoja atitinkamų sporto šakų federacijos, Kūno kultūros ir sporto departamentas. Rinktinės gali gauti pajamų bei turto ir iš kitų šaltinių, kurių nedraudžia įstatymai.
+2. Šios organizacijos savo veikloje vadovaujasi Lietuvos Respublikos teisės aktais, tarptautinių kūno kultūros ir sporto organizacijų nuostatais ir kitais tarptautiniais dokumentais.
+ 
 
 
 
 
-Pajamos ir turtas, gauti už Lietuvos rinktinių dalyvavimą varžybose bei kituose kūno kultūros ir sporto renginiuose, už Lietuvos ir kitų valstybių ūkio subjektų, jų gaminių, prekių ženklų ir paslaugų, kitos atributikos reklamą transliuojant per televiziją ar radiją rinktinės pasirodymą, už Lietuvos rinktinės simbolikos panaudojimą gaminant suvenyrus, sporto inventorių bei kitas prekes, rinktinės kitos uždirbtos lėšos ir turtas yra atitinkamos sporto šakos federacijos nuosavybė. Šios pajamos ir turtas yra naudojami Lietuvos rinktinės reikmėms, taip pat tai sporto šakai finansuoti.
+
+
+14 straipsnis. Kūno kultūros ir sporto klubų veikla
+
+
+1. Pagrindinė sporto institucija yra sporto klubas. Gali būti sporto mėgėjų ir profesionaliojo sporto klubai.
+
+
+
+
+2. Sporto mėgėjų klubai yra Lietuvos Respublikos viešieji juridiniai asmenys ir Lietuvos Respublikoje įsteigti Europos Sąjungos valstybėje narėje ir kitoje Europos ekonominės erdvės valstybėje įsisteigusios įmonės filialai, kurių tikslas – tenkinti viešuosius interesus kūno kultūros ir sporto srityje, vienyti sportuotojus ir sportininkus fiziniam aktyvumui, sveikai gyvensenai, kūno kultūros ir sporto plėtrai, siekti kokybinių ir kiekybinių kūno kultūros ir sporto rezultatų. Sporto mėgėjų klubu taip pat laikomas švietimo ir mokslo įstaigos padalinys, vienijantis kurios nors vienos arba kelių šakų sportininkus, sportuotojus, rėmėjus.
+
+
+
+
+3. Profesionaliojo sporto klubai yra Lietuvos Respublikos privatūs juridiniai asmenys ir Lietuvos Respublikoje įsteigti Europos Sąjungos valstybėje narėse ir kitoje Europos ekonominės erdvės valstybėje įsisteigusios įmonės filialai, kurių tikslas – plėtoti profesionalųjį sportą kaip ekonominę veiklą, siekti kokybinių ir kiekybinių sporto rezultatų.
+ 
+
+
+
+
+
+
+15 straipsnis. Sporto (šakų) federacijų veikla
+
+
+1. Gali būti steigiamos nacionalinė arba regioninės sporto (šakų) federacijos.
+
+
+
+
+2. Kūno kultūros ir sporto departamentas pripažįsta tik vieną teisės aktų nustatyta tvarka Juridinių asmenų registre įregistruotą nacionalinę sporto (šakos) federaciją, kurios pavadinime vartojamas Lietuvos vardas ir kuri jungia trijose skirtingose Lietuvos apskrityse veikiančias sporto (šakos) asociacijas. Nacionalinių sporto (šakų) federacijų pripažinimo tvarką ir kitus kriterijus nustato Kūno kultūros ir sporto departamentas.
+
+
+
+
+3. Kūno kultūros ir sporto departamentas tik su pripažinta nacionaline sporto (šakos) federacija pasirašo biudžeto lėšų naudojimo sutartį. Sutarties sudarymo tvarką ir formą nustato Kūno kultūros ir sporto departamentas.
+
+
+
+
+4. Tik Kūno kultūros ir sporto departamento pripažinta nacionalinė sporto (šakos) federacija:
+
+
+1) organizuoja oficialų nacionalinį čempionatą;
+
+
+
+
+2) sudaro sporto šakų Lietuvos rinktines ir atstovauja Lietuvai tarptautinėse varžybose;
+
+
+
+
+3) užtikrina Lietuvos rinktinių pasirengimą ir dalyvavimą varžybose;
+
+
+
+
+4) gavusi Kūno kultūros ir sporto departamento leidimą, organizuoja Lietuvoje tarptautinius sporto renginius, tarptautines, kompleksines sporto varžybas;
+
+
+
+
+5) pagal tarptautines antidopingo kontrolės taisykles taiko sankcijas už dopingo vartojimą, organizuoja dopingo kontrolę varžybų metu, vykdo šviečiamąją veiklą dėl dopingo kontrolės;
+
+
+
+
+6) atlieka kitas Lietuvos sporto (šakos) federacijos įstatuose nurodytas funkcijas.
+
+
+
+
+
+
+5. Kūno kultūros ir sporto departamento nustatyta tvarka Lietuvos sporto (šakos) federacijos plėtojama sporto šaka, įvertinant pasiektus sporto rezultatus per paskutinį olimpinį ciklą, gali būti pripažinta strategine sporto šaka ir įtraukta į strateginių sporto šakų sąrašą.
  
 
 
@@ -644,55 +750,20 @@ Pajamos ir turtas, gauti už Lietuvos rinktinių dalyvavimą varžybose bei kitu
 
 
 
-III SKYRIUS.
-KŪNO KULTŪRA IR SPORTAS
+TREČIASIS SKIRSNIS 
+KŪNO KULTŪRA IR SPORTAS ŠVIETIMO ĮSTAIGOSE
  
 
 
-21 straipsnis. Kūno kultūra ir sportas švietimo įstaigose
+16 straipsnis. Kūno kultūros ir sporto pratybų organizavimo švietimo įstaigose principai
 
 
-Kūno kultūros ir sporto pratybos yra privalomos šiose švietimo įstaigose visą mokymosi jose laikotarpį:
-
-
-1) ikimokyklinėse ugdymo įstaigose (kiekvieną dieną ne mažiau kaip po vieną valandą);
+1. Švietimo įstaigų vadovai atsako už kūno kultūros mokytojų kvalifikaciją, sporto bazių būklę, aprūpinimą mokymo priemonėmis, saugią ir sveiką sportavimo aplinką per pamokas, po pamokų ir mokinių atostogų metu.
 
 
 
 
-2) bendrojo lavinimo mokyklose, gimnazijose, profesinio mokymo įstaigose, specialiosiose mokyklose (ne mažiau kaip po tris valandas per savaitę);
-
-
-
-
-3) aukštesniosiose ir aukštosiose mokyklose (ne mažiau kaip po tris valandas per savaitę).
-
-
-
-
-
-
-Privalomos kūno kultūros pratybos švietimo įstaigose organizuojamos pagal toms įstaigoms nustatytus mokymo planus ir programas, higienos reikalavimus, materialinio techninio aprūpinimo normatyvus.
-
-
-
-
-Švietimo įstaigų vadovai atsako už kūno kultūros ir sporto būklę, rūpinasi pamokine ir popamokine moksleivių veikla, tam tikslui skiria lėšas.
-
-
-
-
-Šio straipsnio pirmosios dalies nuostatos yra privalomos ir toms įstaigoms, kuriose mokosi (arba mokosi ir gyvena) vaikai invalidai. Jiems kūno kultūros pratybos organizuojamos pagal toms įstaigoms nustatytus mokymo planus ir programas, suderintas su Lietuvos Respublikos sveikatos apsaugos ministerija.
-
-
-
-
-Kūno kultūros ir sporto pratybose moksleiviai dalyvauja su higienos reikalavimus ir metų laiką atitinkančia sportine apranga.
-
-
-
-
-Visose bendrojo lavinimo vidurinėse mokyklose (gimnazijose), profesinio mokymo įstaigose, aukštesniosiose mokyklose kiekvienais mokslo metais moksleivių fizinis pasirengimas testuojamas, išsilavinimas ir sugebėjimai vertinami, baigiamosiose klasėse (kursuose) atliekami kontroliniai patikrinimai.
+2. Visose formaliojo švietimo programas vykdančiose įstaigose kiekvienais mokslo metais mokinių fizinis parengtumas testuojamas, pasiekimai pažymiais nevertinami.
  
 
 
@@ -700,15 +771,20 @@ Visose bendrojo lavinimo vidurinėse mokyklose (gimnazijose), profesinio mokymo 
 
 
 
-22 straipsnis. Karių, teisėsaugos institucijų darbuotojų kūno kultūra ir sportas
+17 straipsnis. Kūno kultūros ir sporto pratybos formaliojo švietimo programas vykdančiose įstaigose
 
 
-Kūno kultūros ir sporto pratybos yra privalomos Lietuvos kariuomenės kariams, Lietuvos Respublikos vidaus reikalų ministerijos sistemos darbuotojams ir pareigūnams.
+1. Kūno kultūros pamokos formaliojo švietimo programas vykdančiose įstaigose, išskyrus aukštąsias mokyklas, yra privalomos ne mažiau kaip 3 valandas per savaitę ir organizuojamos vadovaujantis Lietuvos bendrojo lavinimo mokyklų bendrosiomis programomis, išsilavinimo standartais ir bendraisiais sveikatos saugos reikalavimais.
 
 
 
 
-Kūno kultūros ir sporto pratybų trukmę, jų pobūdį nustato šio straipsnio pirmojoje dalyje nurodytų institucijų veiklą reglamentuojantys teisės aktai.
+2. Įgyvendinant aukštojo mokslo studijų programas, pirmame ir antrame kursuose kūno kultūros ir sporto pratybų turi būti ne mažiau kaip 2 valandos per savaitę, o kituose kursuose – pasirinktinai.
+
+
+
+
+3. Įgyvendinant specialiojo ugdymo programas, kūno kultūros ir sporto pratybos organizuojamos pagal ugdymo planus ir programas.
  
 
 
@@ -716,67 +792,20 @@ Kūno kultūros ir sporto pratybų trukmę, jų pobūdį nustato šio straipsnio
 
 
 
-23 straipsnis. Kūno kultūra ir sportas įmonėse, įstaigose, organizacijose
+18 straipsnis. Kūno kultūros ir sporto pratybos neformaliojo švietimo programas vykdančiose švietimo įstaigose
 
 
-Įmonių, įstaigų, organizacijų vadovai sudaro darbuotojams sąlygas kūno kultūrai ir sportui, skatina juos rūpintis savo sveikatingumu.
-
-
-
-
-Sąlygos kūno kultūrai ir sportui plėtoti įmonėje, organizacijoje gali būti numatomos kolektyvinėse sutartyse (susitarimuose).
- 
+1. Ikimokyklinio ir priešmokyklinio ugdymo programų vaikams aktyvi veikla yra privaloma visą ugdymosi laikotarpį skiriant ne mažiau kaip po vieną valandą per dieną.
 
 
 
 
-
-
-24 straipsnis. Kūno kultūra ir sportas gyvenamosiose vietose
-
-
-Savivaldos institucijos sudaro palankias sąlygas užsiimti kūno kultūra ir sportu, skatina sveikos gyvensenos propagavimą jų teritorijoje gyvenantiems asmenims.
+2. Kitose neformaliojo švietimo programas vykdančiose švietimo įstaigose kūno kultūros pratybos vykdomos pagal patvirtintus mokymo planus ir (ar) programas.
 
 
 
 
-Savivaldos institucijos skiria lėšas, kad gyvenamuosiuose rajonuose būtų Lietuvos Respublikos Vyriausybės nustatytus tipinius normatyvus atitinkantis kūno kultūros ir sporto įrenginių skaičius.
-
-
-
-
-Statant bei rekonstruojant visų rūšių valstybines švietimo įstaigas (išskyrus papildomo ugdymo ir neformaliojo švietimo įstaigas), jose turi būti numatomos patalpos bei sporto įrenginiai kūno kultūrai ir sportui.
-
-
-
-
-Neleidžiama likviduoti esamų valstybinių kūno kultūros ir sporto įrenginių, kol tame pačiame gyvenamajame rajone (teritorijoje) nėra įsteigti lygiaverčiai kūno kultūros ir sporto įrenginiai.
- 
-
-
-
-
-
-
-25 straipsnis. Invalidų kūno kultūra ir sportas
-
-
-Invalidų kūno kultūrą ir sportą miestuose ir rajonuose organizuoja savivaldos institucijos kartu su invalidų visuomeninėmis ir kitomis organizacijomis. Šiems tikslams lėšos skiriamos iš savivaldybių biudžeto. Savivaldos institucijos finansuoja invalidų sporto klubus ir kitas invalidų sporto organizacijas.
-
-
-
-
-Šalies ir tarptautinius invalidų kūno kultūros ir sporto renginius organizuoja šalies invalidų sporto visuomeninės organizacijos kartu su kitomis invalidų visuomeninėmis organizacijomis. Šiems renginiams skiriamos lėšos iš valstybės biudžeto.
-
-
-
-
-Invalidų sporto medicinos reikalavimus nustato Sveikatos apsaugos ministerija, o metodines rekomendacijas rengia Kūno kultūros ir sporto departamentas.
-
-
-
-
-Sporto šakų federacijos remia invalidų sporto klubus ir kitas sporto organizacijas.
+3. Kvalifikacinius reikalavimus mokytojams dirbti šio įstatymo 16 ir 17 straipsniuose nurodytose švietimo įstaigose nustato Švietimo įstatymas, o dėstytojams aukštosiose mokyklose – Aukštojo mokslo įstatymas.
  
 
 
@@ -786,20 +815,153 @@ Sporto šakų federacijos remia invalidų sporto klubus ir kitas sporto organiza
 
 
 
-IV SKYRIUS. 
+KETVIRTASIS SKIRSNIS 
+KŪNO KULTŪROS IR SPORTO FINANSAVIMAS
+ 
+
+
+19 straipsnis. Kūno kultūros ir sporto finansavimo šaltiniai
+
+
+Kūno kultūros ir sporto finansavimo šaltiniai:
+
+
+1) valstybės biudžeto ir savivaldybių biudžetų asignavimai;
+
+
+
+
+2) lėšos, gautos iš loterijų organizavimo;
+
+
+
+
+3) kitos teisėtai gautos lėšos.
+ 
+
+
+
+
+
+
+
+
+20 straipsnis. Investicijos į kūno kultūros ir sporto plėtrą
+
+
+1. Valstybė ir savivaldybės skiria investicijas kūno kultūros ir sporto plėtrai (statyboms, turtui įsigyti, žmogiškiesiems ištekliams ir kita) valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo nustatyta tvarka. Savivaldybės investicijas kūno kultūros ir sporto plėtrai skiria savivaldybių tarybų patvirtintų savivaldybių biudžetų nustatyta tvarka.
+
+
+
+
+2. Investicinius projektus kūno kultūros ir sporto srityje rengia ministerijos, Kūno kultūros ir sporto departamentas, savivaldybės, vadovaudamiesi Vyriausybės programa, strateginio planavimo dokumentais ir savivaldybių strateginiais planais.
+ 
+
+
+
+
+
+
+21 straipsnis. Valstybės ir savivaldybių biudžetų lėšų skyrimas kūno kultūros ir sporto plėtrai
+
+
+1. Nevyriausybinės kūno kultūros ir sporto organizacijos gali gauti valstybės ir savivaldybių biudžetų lėšų kūno kultūros ir sporto programoms ir projektams įgyvendinti. Su šiomis organizacijomis lėšas skirianti valstybės institucija ar savivaldybės administracija pasirašo biudžeto lėšų naudojimo sutartis.
+
+
+
+
+2. Valstybės ir savivaldybių institucijos, skyrusios lėšų šio straipsnio 1 dalyje nurodytiems tikslams, turi teisę tikrinti, kaip šios lėšos naudojamos. Organizacijos, gavusios lėšų iš valstybės ir savivaldybės biudžetų, privalo pateikti šių lėšų naudojimo ataskaitą lėšas skyrusioms institucijoms.
+
+
+
+
+3. Jeigu organizacijos, gavusios lėšų iš valstybės ir savivaldybių biudžetų, nepateikia biudžeto lėšų panaudojimo ataskaitų arba nesudaro sąlygų patikrinti biudžeto lėšas, biudžeto asignavimų valdytojas turi teisę sustabdyti, sumažinti arba nutraukti biudžeto lėšų skyrimą programoms vykdyti.
+
+
+
+
+4. Organizacijos, gavusios lėšų iš valstybės ir savivaldybių biudžetų, už lėšų panaudojimą atsako teisės aktų nustatyta tvarka.
+ 
+
+
+
+
+
+
+22 straipsnis. Sportininkų stipendijos
+
+
+1. Olimpinių ir parolimpinių sporto šakų didelio meistriškumo sportininkams, kurie rengiasi tarptautinėms varžyboms ir atstovauja jose Lietuvai, gali būti mokamos Vyriausybės nustatyto dydžio valstybės stipendijos.
+
+
+
+
+2. Vyriausybės nustatyto dydžio stipendijas Lietuvos tautinio olimpinio komiteto, Lietuvos parolimpinio komiteto ir atitinkamų sporto (šakų) federacijų teikimu skiria ir stipendijų mokėjimo tvarką nustato Kūno kultūros ir sporto departamentas.
+
+
+
+
+3. Šio įstatymo 12 straipsnio 3 dalyje nustatyta tvarka stipendijas sportininkams gali mokėti savivaldybės administracija ar jos įgaliota institucija.
+
+
+
+
+4. Skiriant stipendiją, sportininkas ir stipendiją išmokanti organizacija sudaro sutartį, kurioje numatomos šalių teisės ir pareigos.
+ 
+
+
+
+
+
+
+23 straipsnis. Didelio meistriškumo rinktinių skatinimas
+
+
+1. Didelio meistriškumo sportininkams ir kitiems rinktinių nariams už sporto laimėjimus gali būti skiriamos Vyriausybės nustatyto dydžio premijos.
+
+
+
+
+2. Premijos mokamos iš valstybės biudžeto lėšų, skirtų Kūno kultūros ir sporto departamentui.
+
+
+
+
+3. Premijų mokėjimo tvarką nustato Kūno kultūros ir sporto departamentas.
+ 
+
+
+
+
+
+
+24 straipsnis. Valstybės parama sportui
+
+
+Valstybė finansinėmis ir ekonominėmis priemonėmis remia gyventojų sportavimą, sveikatos stiprinimą įvairiomis fizinės veiklos formomis įstatymų nustatyta tvarka.
+ 
+
+
+
+
+
+
+
+
+PENKTASIS SKIRSNIS 
 KŪNO KULTŪROS IR SPORTO SPECIALISTAI
  
 
 
-26 straipsnis. Kūno kultūros ir sporto specialistų samprata
+25 straipsnis. Kūno kultūros ir sporto pratybos
 
 
-Kūno kultūros ir sporto specialistai yra asmenys, atliekantys teorinį arba praktinį mokymą, treniravimo ir organizacinį darbą kūno kultūros ir sporto srityje.
+1. Kūno kultūros ir sporto pratybas gali vykdyti tik kūno kultūros ir sporto specialistai.
 
 
 
 
-Kūno kultūros ir sporto teorinio ir praktinio mokymo, treniravimo darbą valstybės institucijose, visų rūšių sporto organizacijose gali dirbti tik asmenys, turintys specialųjį kūno kultūros ir sporto išsilavinimą arba atitinkamą licenciją (leidimą).
+2. Darbdavys, priimdamas į darbą kūno kultūros ir sporto specialistą, privalo įsitikinti, ar asmuo turi reikiamą išsilavinimą arba galiojantį kūno kultūros ir sporto veiklos leidimą. Darbdavys, pažeidęs šio straipsnio nuostatas, atsako Administracinių teisės pažeidimų kodekso nustatyta tvarka.
  
 
 
@@ -807,38 +969,10 @@ Kūno kultūros ir sporto teorinio ir praktinio mokymo, treniravimo darbą valst
 
 
 
-27 straipsnis. Licencijų (leidimų) išdavimas kūno kultūros ir sporto specialistams
+26 straipsnis. Kūno kultūros ir sporto veiklos leidimas
 
 
-Licencijų (leidimų) kūno kultūros ir sporto specialistams išdavimo tvarką nustato ir licencijas išduoda Kūno kultūros ir sporto departamentas. 
-
-
-
-
-Licencijos galiojimas gali būti nutrauktas, jeigu licenciją turintis asmuo savo darbe žaloja auklėtinių sveikatą arba jo poelgiai nesiderina su pedagogo ar sporto etika.
-
-
-
-
-Licencijos galiojimo nutraukimo klausimą sprendžia Kūno kultūros ir sporto departamentas atitinkamos sporto šakos federacijos teikimu. Asmuo, kuriam buvo atsisakyta išduoti licenciją arba kurio licencijos galiojimas buvo nutrauktas, turi teisę ginčyti tokį Kūno kultūros ir sporto departamento sprendimą teisme. 
-
-
-Straipsnio pakeitimai:
-Nr. VIII-1478, 1999-12-14, Žin., 1999, Nr. 112-3256 (1999-12-30), i. k. 0991010ISTAIII-1478
- 
-
-
-
-
-28 straipsnis. Kūno kultūros ir sporto specialistų atestavimas
-
-
-Švietimo įstaigose (organizacijose) dirbančių kūno kultūros ir sporto specialistų atestavimo ir kvalifikacinių kategorijų suteikimo tvarką nustato Švietimo ir mokslo ministerija kartu su Kūno kultūros ir sporto departamentu.
-
-
-
-
-Sporto įstaigose, sporto mokyklose, kitose sporto organizacijose dirbančių sporto trenerių ir kitų sporto specialistų atestavimo ir kvalifikacinių kategorijų suteikimo tvarką nustato Kūno kultūros ir sporto departamentas.
+Kūno kultūros ir sporto departamentas nustato kūno kultūros ir sporto veiklos leidimų išdavimo tvarką, leidimų galiojimo terminus, asmenų, siekiančių tapti kūno kultūros ir sporto specialistais ir gauti leidimą, kvalifikacijos reikalavimus.
  
 
 
@@ -846,17 +980,10 @@ Sporto įstaigose, sporto mokyklose, kitose sporto organizacijose dirbančių sp
 
 
 
+27 straipsnis. Kūno kultūros ir sporto specialistų veiklos reglamentavimas
 
 
-V SKYRIUS. 
-PROFESIONALUSIS SPORTAS
- 
-
-
-29 straipsnis. Profesionalusis sportininkas
-
-
-Kiekvienas nuolatinis Lietuvos Respublikos gyventojas, taip pat laikinai į Lietuvą atvykęs kitos valstybės sportininkas turi teisę būti profesionaliuoju sportininku. Profesionaliuoju sportininku laikomas sportininkas, kuris už pasiruošimą varžyboms ir dalyvavimą jose gauna darbo užmokestį, mokamą tos sporto organizacijos, su kuria sportininkas yra sudaręs sporto veiklos sutartį (kontraktą).
+Kūno kultūros ir sporto specialistas su organizacijomis, kuriose vykdo kūno kultūros ir sporto pratybas, gali pasirašyti darbo sutartį arba vykdyti individualią veiklą, kaip ji apibrėžiama Gyventojų pajamų mokesčio įstatyme.
  
 
 
@@ -864,43 +991,64 @@ Kiekvienas nuolatinis Lietuvos Respublikos gyventojas, taip pat laikinai į Liet
 
 
 
-30 straipsnis. Sporto veiklos sutartis (kontraktas)
+28 straipsnis. Trenerių veiklos reglamentavimas
 
 
-Sporto veiklos sutartis (kontraktas) yra profesionaliojo sportininko ar trenerio ir sporto organizacijos susitarimas, kuriuo sportininkas įsipareigoja ruoštis sporto varžyboms ir dalyvauti jose paklusdamas nustatytai sporto organizacijos vidaus tvarkai, o sporto organizacija įsipareigoja mokėti sportininkui darbo užmokestį, užtikrina sąlygas pasiruošti ir dalyvauti varžybose, taip pat vykdyti kitas sutartyje numatytas sąlygas.
-
-
-
-
-Sporto veiklos sutartyje būtinai nurodomos šios sąlygos:
-
-
-1) sporto organizacija, kurioje sportininkas atlieka savo veiklą;
+1. Treneris su organizacijomis gali pasirašyti darbo sutartį arba vykdyti individualią veiklą, kaip ji apibrėžiama Gyventojų pajamų mokesčio įstatyme.
 
 
 
 
-2) sportininko funkcijos;
+2. Vykdydamas individualią veiklą, treneris su organizacija privalo pasirašyti sportinės veiklos sutartį, numatytą šio įstatymo 35 straipsnio 2 dalyje, išskyrus 6, 7 ir 12 punktuose nurodytas nuostatas.
 
 
 
 
-3) sportininko įsipareigojimai laikytis sporto klubo, taip pat asociacijos, draugijos, tos sporto šakos federacijos, kurioms priklauso klubas, nustatytų taisyklių ir kitų nuostatų;
+3. Kūno kultūros ir sporto departamento nustatyta tvarka treneriams yra suteikiamos kvalifikacinės kategorijos.
+ 
 
 
 
 
-4) sportininko atlyginimas;
+
+
+29 straipsnis. Teisėjų veiklos reglamentavimas
+
+
+1. Teisėjas gali vykdyti individualią veiklą. Teisėjas, vykdydamas individualią veiklą, kaip ji apibrėžiama Gyventojų pajamų mokesčio įstatyme, su organizacija privalo pasirašyti teisėjo veiklos sutartį.
 
 
 
 
-5) sportininko sveikatos draudimo sąlygos;
+2. Teisėjo veiklos sutartyje turi būti nurodyta:
+
+
+1) organizacija;
 
 
 
 
-6) pasiruošimo varžyboms ir varžybų metu sportininko sveikatai padarytos žalos atlyginimo tvarka;
+2) teisėjo asmens tapatybę patvirtinantys duomenys;
+
+
+
+
+3) teisėjo atlygis;
+
+
+
+
+4) šalių teisės ir pareigos;
+
+
+
+
+5) teisėjo įsipareigojimai laikytis sporto (šakos) taisyklių, varžybų nuostatų, laikytis nešališkumo principo ir kita;
+
+
+
+
+6) teisėjo sveikatos draudimo sąlygos;
 
 
 
@@ -910,154 +1058,24 @@ Sporto veiklos sutartyje būtinai nurodomos šios sąlygos:
 
 
 
-8) šalių atsakomybė už sutartyje nurodytų savo įsipareigojimų nevykdymą;
+8) šalių atsakomybė už sutartyje nurodytų įsipareigojimų nevykdymą;
 
 
 
 
-9) nepilnamečio sportininko mokymosi sąlygos.
+9) kitos sąlygos.
 
 
 
 
 
 
-Sporto veiklos sutartyje šalys už sutartyje numatytų įsipareigojimų nevykdymą nustato tarpusavio atsakomybę vadovaudamosi įstatymų nuostatomis.
+3. Tarptautinės ir nacionalinės sporto (šakų) federacijos nustato teisėjų kvalifikacijos kėlimo tvarką.
 
 
 
 
-Sporto veiklos sutartyje gali būti numatytos ir kitos įstatymams neprieštaraujančios sąlygos.
-
-
-
-
-Pilnamečiai profesionalieji sportininkai sutartis sudaro patys arba per jų įgaliotus asmenis, nepilnamečiai – nuo 15 metų sudaro patys, turėdami tėvų ir kitų teisėtų vaiko atstovų raštišką sutikimą.
-
-
-
-
-Sutartis už nepilnamečius profesionaliuosius sportininkus iki 15 metų jų vardu sudaro tėvai ir kiti teisėti vaiko atstovai.
-
-
-
-
-Sporto veiklos sutartys sudaromos raštu.
-
-
-
-
-Sporto veiklos sutartys gali būti sudaromos taip pat su sporto treneriais. Tokioms sutartims taikomos šiame straipsnyje nustatytos sutarčių sudarymo sąlygos, išskyrus numatytas šio straipsnio antrosios dalies 4 ir 5 punktuose.
-
-
-
-
-Asmenys, sudarę sporto veiklos sutartis, turi teisę užsiimti ir kita sutartyje nenumatyta sporto veikla (dalyvauti kitos sporto šakos varžybose ir pan.) tik tuo atveju, jeigu tai jiems leidžia sporto organizacijos, su kuriomis tokios sutartys yra sudarytos.
- 
-
-
-
-
-
-
-31 straipsnis. Profesionaliųjų sportininkų, trenerių socialinis draudimas
-
-
-Sporto organizacija, sudariusi su profesionaliuoju sportininku ar treneriu sporto veiklos sutartį, įstatymų nustatyta tvarka moka sportininko socialinio draudimo įnašus.
-
-
-
-
-Profesionaliojo sportininko, trenerio darbas pagal sporto veiklos sutartį įskaitomas į jo darbo stažą.
- 
-
-
-
-
-
-
-32 straipsnis. Atlyginimas profesionaliesiems sportininkams už sužalotą sveikatą
-
-
-Profesionaliajam sportininkui, kuris dėl nelaimingo atsitikimo treniruočių ar varžybų metu, profesinės ligos ar kitokio su sportu susijusio pakenkimo sveikatai neteko darbingumo, žalos dėl darbingumo netekimo, gydymo, slaugymo, protezavimo ir kitų išlaidų, atsiradusių dėl pakenkimo sveikatai, o sportininko mirties atveju - žalos jo šeimai ir kitiems asmenims atlyginimą reglamentuoja sporto veiklos sutartis, Lietuvos Respublikos draudimo nuo nelaimingų atsitikimų darbe įstatymas ir kiti įstatymai. Sporto veiklos sutartyje profesionaliojo sportininko draudimo nuo nelaimingų atsitikimų žalos atlyginimo dydis negali būti mažesnis, negu nustatyta įstatymų.
- 
-
-
-
-
-
-
-33 straipsnis. Profesionalusis sporto klubas
-
-
-Profesionalusis sporto klubas yra juridinis asmuo, finansuojantis sportininkų ruošimą varžyboms ir jų dalyvavimą varžybose, organizuojantis sporto renginius, mokantis profesionaliesiems sportininkams atlyginimą pagal su jais sudarytas sporto veiklos sutartis ir gaunantis pajamas iš klubui atstovaujančių sportininkų veiklos ar kitos įstatuose nurodytos veiklos.
-
-
-
-
-Profesionalieji sporto klubai steigiami ir veikia pagal šį įstatymą, taip pat akcinių bendrovių veiklą reglamentuojančius įstatymus bei kitus norminius aktus.
-
-
-
-
-Profesionaliojo sporto klubo veikloje gali dalyvauti ir neprofesionalieji sportininkai.
- 
-
-
-
-
-
-
-34 straipsnis.       Profesionaliųjų sportininkų perėjimas rungtyniauti į kitą Lietuvos profesionalųjį sporto klubą arba į užsienio valstybės sporto klubą
-
-
-Profesionalusis sportininkas turi teisę pereiti rungtyniauti iš vieno profesionaliojo sporto klubo į kitą Lietuvos profesionalųjį sporto klubą ar į užsienio valstybės sporto klubą tik pasibaigus sporto veiklos sutarties galiojimui ir įvykdžius sutartyje numatytus sportininko įsipareigojimus.
-
-
-
-
-Jeigu profesionalusis sportininkas nori pereiti į kitą Lietuvos profesionalųjį sporto klubą ar į kitos valstybės sporto klubą nepasibaigus sporto veiklos sutarties galiojimo laikui ar neįvykdžius sutartyje numatytų sportininko įsipareigojimų, toks perėjimas įmanomas tik tuo atveju, jei dėl to susitaria sportininką išleidžiantis ir sportininką priimantis sporto klubai.
-
-
-
-
-Profesionaliųjų sportininkų perėjimo iš vieno Lietuvos sporto klubo į kitą profesionalųjį sporto klubą arba į kitos valstybės sporto klubą taisykles nustato:
-
-
-1) jeigu profesionalusis sportininkas pereina iš vieno sporto klubo į kitą, priklausantį tai pačiai klubų asociacijai (lygai, sąjungai), – klubų asociacija (lyga, sąjunga);
-
-
-
-
-2) jeigu profesionalusis sportininkas pereina iš vienos asociacijos (lygos, sąjungos) sporto klubo į kitai asociacijai (lygai, sąjungai) priklausantį klubą, – tos sporto šakos federacija;
-
-
-
-
-3) jeigu profesionalusis sportininkas pereina iš Lietuvos sporto klubo į kitos valstybės sporto klubą arba kitos valstybės sporto klubo sportininkas pereina į Lietuvos sporto klubą, – tos sporto šakos tarptautinės federacijos taisyklės, o jeigu jų nėra, – klubų tarpusavio susitarimas.
-
-
-
-
-
-
-Šiame straipsnyje nustatyta tvarka sporto šakų federacijų sprendimu gali būti taikoma profesionaliųjų sportininkų statuso neturintiems sportininkams, pereinantiems iš vieno sporto klubo į kitą.
-
-
-
-
-Šio straipsnio trečiosios dalies 1 punkte nurodytos klubų asociacijos (lygos, sąjungos ir pan.) gali joms priklausančią teisę nustatyti sportininkų perėjimo iš vieno sporto klubo į kitą klubą tvarką perduoti savo sporto šakos federacijai.
- 
-
-
-
-
-
-
-35 straipsnis. Profesionaliųjų sportininkų teisė steigti profesines sąjungas
-
-
-Profesionalieji sportininkai turi teisę steigti profesines sąjungas Lietuvos Respublikos profesinių sąjungų įstatymo nustatyta tvarka.
+4. Vietos ir regioniniuose sporto renginiuose gali teisėjauti teisėjai savanoriai, kuriems už teisėjavimą nėra atlyginama. Šiais atvejais teisėjo veiklos sutartyje nenumatomas teisėjo atlygis.
  
 
 
@@ -1067,143 +1085,65 @@ Profesionalieji sportininkai turi teisę steigti profesines sąjungas Lietuvos R
 
 
 
-VI SKYRIUS. 
-SPORTO ORGANIZACIJŲ NUOSAVYBĖ IR FINANSAVIMAS
+
+
+III SKYRIUS
+SPORTININKAI IR JŲ RENGIMO SISTEMA
  
 
 
-36 straipsnis. Sporto organizacijų nuosavybė
-
-
-Sporto organizacijos gali turėti nuosavybės teise priklausantį bet kokį turtą, kurio nedraudžia turėti Lietuvos Respublikos įstatymai.
+PIRMASIS SKIRSNIS 
+SPORTININKŲ TEISĖS IR PAREIGOS
  
 
 
+30 straipsnis. Sportininkų teisės ir pareigos
 
 
+1. Sportininkai turi teisę:
 
 
-37 straipsnis. Sportininkų, sporto komandų vardo ir atvaizdo naudojimas
+1) pagal patvirtintas pasirengimo programas gauti valstybės ir savivaldybių biudžetų lėšų rengtis ir dalyvauti varžybose bei kituose sporto renginiuose;
 
 
-Sportininko vardą, pavardę, jo atvaizdą, parašą ar kitus šio sportininko simbolius leidžiama naudoti prekių gaminių ar paslaugų reklamai tik turint sportininko raštišką sutikimą. Naudoti prekių, gaminių ar paslaugų reklamai sporto komandų vardus, jų atvaizdus ar kitus sporto komandos, rinktinės simbolius leidžiama tik turint tą sporto komandą sudariusių sporto organizacijų raštišką leidimą.
 
 
+2) gauti moralinių paskatinimų, premijų ir prizų už pasiektus aukštus sporto rezultatus.
 
 
-Jeigu tai padaryta neturint sportininko sutikimo, sportininkas ar sporto komandą sudariusi sporto organizacija turi teisę įstatymo nustatyta tvarka kreiptis į teismą dėl jiems padarytos žalos atlyginimo.
- 
 
 
 
 
+2. Sportininkas, laikydamasis šio įstatymo 3 straipsnyje nurodytų principų, privalo:
 
 
-38 straipsnis. Kūno kultūros ir sporto finansavimas
+1) ginti šalies garbę tarptautinėse varžybose;
 
 
-Kūno kultūra ir sportas finansuojami iš valstybės ir savivaldybių biudžetų, kūno kultūros ir sporto fondų, įmonių, įstaigų ir organizacijų lėšų, taip pat lėšų, gautų iš sporto renginių ir sporto loterijų, lėšų, gautų už kūno kultūros ir sporto renginių transliavimą per radiją ir televiziją, sportininkų bei sporto klubų ir kitų sporto organizacijų komandų vardų panaudojimą, reklamą, taip pat atskirų asmenų skirtų ar paaukotų lėšų bei kitų lėšų.
 
 
+2) laikytis nacionalinės sporto (šakos) federacijos įstatų;
 
 
-Valstybės ir savivaldybių biudžetų lėšos kūno kultūros ir sporto pratyboms valstybinėse švietimo ugdymo įstaigose, kariuomenės ir Vidaus reikalų ministerijos sistemos įstaigose skiriamos iš lėšų, numatytų minėtoms institucijoms.
 
 
+3) susilaikyti nuo neprotingos fizinės rizikos ir veiklos, kuri gali lemti susirgimą, susižalojimą, negalią ar mirtį;
 
 
-Kūno kultūros ir sporto organizacijoms, kūno kultūros ir sporto programoms, taip pat atskiriems sportininkams remti lėšos gali būti skiriamos iš labdaros ir paramos fondų.
 
 
+4) laikytis sporto (šakos) taisyklių, varžybų nuostatų;
 
 
-Lėšos, kurias sportininkas gauna iš sporto organizacijų kaip dienpinigius, taip pat lėšos, gaunamos pasirengimo varžyboms ir varžybų metu, neapmokestinamos.
- 
 
 
+5) nevartoti dopingo preparatų ir netaikyti tarptautinių ir nacionalinių sporto organizacijų uždraustų metodų;
 
 
 
 
-39 straipsnis. Kūno kultūros ir sporto fondas
-
-
-Kūno kultūrai ir sportui plėtoti sudaromas Lietuvos Respublikos kūno kultūros ir sporto fondas.
-
-
-
-
-Kūno kultūros ir sporto fondo lėšas tvarko Kūno kultūros ir sporto departamentas pagal Vyriausybės patvirtintą metinę sąmatą. Šioje sąmatoje turi būti numatyta, kad 50 procentų Kūno kultūros ir sporto fondo lėšų būtų panaudota miestų, rajonų, apskričių sporto organizacijoms.
-
-
-
-
-Kūno kultūros ir sporto fondo lėšos negali būti perduodamos į valstybės biudžetą ar panaudotos kitoms valstybės reikmėms finansuoti. Nepanaudotos pagal metinę sąmatą Kūno kultūros ir sporto fondo lėšos skiriamos kitų metų sąmatoje numatytoms priemonėms finansuoti.
- 
-
-
-
-
-
-
-40 straipsnis.       Valstybės ir savivaldybių biudžetų lėšų skyrimas nevalstybinėms sporto organizacijoms
-
-
-Nevalstybinėms sporto organizacijoms rengti ir vykdyti konkrečias kūno kultūros ir sporto programas, varžybas, kitus sporto renginius gali būti skiriamos lėšos iš valstybės bei savivaldybių biudžetų. Šios lėšos gali būti naudojamos tik toms programoms, varžyboms ar renginiams ir tik pagal lėšas skyrusios valstybės institucijos patvirtintą sąmatą.
-
-
-
-
-Valstybės institucijos, skyrusios lėšas šio straipsnio pirmojoje dalyje nurodytiems tikslams, turi teisę tikrinti, kaip šios lėšos naudojamos. Organizacijos, gavusios lėšas iš valstybės ir savivaldybės biudžetų, privalo pateikti šių lėšų naudojimo ataskaitą valstybės institucijai, skyrusiai šias lėšas.
- 
-
-
-
-
-
-
-41 straipsnis.       Sportininkų ir jų trenerių, gydytojų, masažuotojų ir mokslininkų skatinimas
-
-
-Didelio meistriškumo sportininkams, kuriems reikalinga valstybės parama rengtis tarptautinėms varžyboms, atstovauti jose Lietuvai, gali būti mokamos Vyriausybės nustatyto dydžio valstybės stipendijos.
-
-
-
-
-Stipendijas skiria Kūno kultūros ir sporto departamentas atitinkamų sporto šakų federacijų (draugijų, asociacijų), Lietuvos tautinio olimpinio komiteto ir savivaldybių administracijų sporto padalinių teikimu.
-
-
-
-
-Skiriant stipendiją, sportininkas ir Kūno kultūros ir sporto departamentas sudaro sutartį. Joje numatomi sportininko įsipareigojimai tinkamai rengtis varžyboms ir dalyvauti jose, sportininko atsakomybė už sutartyje nurodytų įsipareigojimų neįvykdymą, taip pat kitos įstatymams neprieštaraujančios sąlygos.
-
-
-
-
-Taip pat gali būti skiriamos Vyriausybės nustatyto dydžio premijos sportininkams ir jų treneriams, gydytojams, masažuotojams ir mokslininkams, mokamos iš valstybės biudžeto lėšų, skirtų Kūno kultūros ir sporto departamentui.
-
-
-Straipsnio pakeitimai:
-Nr. X-238, 2005-06-09, Žin., 2005, Nr. 76-2745 (2005-06-18), i. k. 1051010ISTA000X-238
- 
-
-
-
-
-42 straipsnis. Kūno kultūros ir sporto finansavimo bei rėmimo skatinimas
-
-
-Įmonėms, įstaigoms, organizacijoms, fiziniams asmenims, investuojantiems lėšas į kūno kultūrą ir sportą, aukojantiems lėšas šiems tikslams ar kitaip iš savo lėšų remiantiems kūno kultūrą ir sportą, taikomos mokesčių lengvatos. Lengvatų dydį ir jų suteikimo tvarką nustato Lietuvos Respublikos mokesčių ir kiti įstatymai.
-
-
-
-
-Mokesčių lengvatos mokesčių ir kitų įstatymų nustatyta tvarka taip pat taikomos apmokestinant profesionaliųjų ir kitų sporto organizacijų iš sporto veiklos gautą pelną bei pelną iš sporto veiklos, kurį duoda sporto organizacijoms nepriklausančios sporto bazės ir sporto įrenginiai. Tokiomis sporto bazėmis ir sporto įrenginiais laikomi specialūs statiniai, skirti sporto šakų pratyboms ir varžyboms rengti ar sportininkams reabilituoti. Sporto bazių ir kitų sporto įrenginių užimama žemė neapmokestinama žemės nuomos ir žemės mokesčiu.
-
-
-
-
-Sporto bazių, kitų sporto įrenginių savininkai turi sudaryti sąlygas, kad šiose sporto bazėse ar kituose sporto įrenginiuose vykstančiose kūno kultūros ir sporto pratybose, įvairiose varžybose ar kituose kūno kultūros ir sporto renginiuose galėtų dalyvauti ar juos stebėti invalidai.
+6) varžytis garbingai, laikytis visuotinai priimtinų elgesio taisyklių, nediskredituoti šalies, federacijos, sporto organizacijos vardo.
  
 
 
@@ -1213,15 +1153,63 @@ Sporto bazių, kitų sporto įrenginių savininkai turi sudaryti sąlygas, kad �
 
 
 
-VII SKYRIUS. 
-DRAUDIMAS, PENSIJOS, MEDICINOS PRIEŽIŪRA
+31 straipsnis. Sporto šakų rinktinių sudėtis ir sudarymas
+
+
+1. Rinktinę gali sudaryti: sportininkai, treneriai, gydytojai, masažuotojai, mokslininkai, psichologai, vadybininkai, rinktinių vadovai ir kitas tam tikrose sporto šakose reikalingas aptarnaujantis personalas.
+
+
+
+
+2. Sporto šakos atskirų amžiaus grupių ir nacionalines (individualiųjų sporto šakų bei sporto žaidimų) rinktines sudaro atitinkamos sporto šakos federacija.
+
+
+
+
+3. Savivaldybės sporto šakos rinktines pagal amžiaus grupes, atsižvelgdama į sporto organizacijos informaciją apie sportininkų laimėjimus ir planuojamus rezultatus, sudaro savivaldybės administracijos direktorius arba savivaldybės administracijos direktoriaus įgaliotos įstaigos.
+
+
+
+
+4. Tarptautinių sporto organizacijų rengiamiems tarptautiniams kompleksiniams renginiams nacionalinių sporto (šakų) federacijų teikimu rinktines sudaro nacionalinės sporto organizacijos, kurios yra šių tarptautinių sporto organizacijų narės.
+
+
+
+
+5. Lietuvos olimpinę ir parolimpinę rinktines, Lietuvos sporto (šakų) federacijų teikimu atitinkamai formuoja Lietuvos tautinis olimpinis ir Lietuvos parolimpinis komitetai.
  
 
 
-43 straipsnis. Sportininkų specialusis draudimas
 
 
-Sporto šakose, kuriose sportininkas susiduria su didesniu pavojumi sveikatai ar gyvybei, yra privalomas sportininko asmens draudimas. Tokio draudimo sąlygas ir tvarką nustato įstatymai bei tarptautinės sutartys.
+
+
+
+
+ANTRASIS SKIRSNIS 
+SPORTININKŲ RENGIMAS
+ 
+
+
+32 straipsnis. Sportininkų rengimas
+
+
+1. Sportininkai rengiami sportininkų ugdymo centruose, sporto (šakų) klubuose ir federacijų organizuojamose stovyklose.
+
+
+
+
+2. Sportininkai rengiami pagal Kūno kultūros ir sporto departamento patvirtintas mokymo programas ir individualius pasirengimo tam tikroms varžyboms planus, kuriuos sudaro sportininkus rengiantys specialistai.
+
+
+
+
+3. Kūno kultūros ir sporto departamento patvirtintos mokymo programos ir individualūs pasirengimo planai turi būti paremti šiuolaikinio sporto mokslo teoriniais ir praktiniais laimėjimais.
+
+
+
+
+4. Sportininkams gali būti skiriamos valstybės ar savivaldybių biudžetų lėšos, nevyriausybinių organizacijų lėšos, taip pat kitos teisėtais būdais gautos lėšos sporto varžyboms pasirengti.
  
 
 
@@ -1229,15 +1217,20 @@ Sporto šakose, kuriose sportininkas susiduria su didesniu pavojumi sveikatai ar
 
 
 
-44 straipsnis. Sportininkų ir trenerių pensinis aprūpinimas
+33 straipsnis. Sportininkų ugdymo centrų kompetencija
 
 
-Sportininkai ir treneriai, sudarę sportinės veiklos sutartį, turi teisę gauti socialinio draudimo pensijas Lietuvos Respublikos įstatymų nustatyta tvarka.
+1. Didelio sportinio meistriškumo ir vaikų bei jaunimo ugdymo programų vykdymą sportininkų ugdymo centruose koordinuoja Kūno kultūros ir sporto departamentas ar jo įgaliota valstybės ar savivaldybės institucija.
 
 
 
 
-Kūno kultūros ir sporto departamentas, atitinkamos sporto šakos federacijos arba Švietimo ir mokslo ministerijos teikimu teikia Lietuvos Respublikos pirmojo ir antrojo laipsnių valstybinių pensijų skyrimo komisijai prašymus skirti sportininkams ir jų treneriams, sporto darbuotojams bei pedagogams pirmojo ir antrojo laipsnio valstybines pensijas.
+2. Didelio sportinio meistriškumo ugdymo programas gali vykdyti ir aukštosios mokyklos.
+
+
+
+
+3. Sportininkų ugdymo centrai, kurie su sportininkais buvo sudarę sportinės veiklos sutartis šio įstatymo nustatyta tvarka, sportininkui pereinant į kitą sporto organizaciją, gali reikalauti iš sporto organizacijos, į kurią pereina sportininkas, piniginės kompensacijos už sportininko ugdymą. Kompensacijų išmokėjimo sąlygos ir tvarka turi būti numatytos sportinės veiklos sutartyse, taip pat sutartyse tarp sportininkų ugdymo centro ir sporto organizacijos į kurią sportininkas pereina.
  
 
 
@@ -1245,15 +1238,445 @@ Kūno kultūros ir sporto departamentas, atitinkamos sporto šakos federacijos a
 
 
 
-45 straipsnis. Medicinos priežiūra
+34 straipsnis. Olimpinių rinktinių sportininkų rengimas
 
 
-Asmenys, lankantys bet kokių formų organizuotas kūno kultūros ir sporto pratybas bei dalyvaujantys varžybose, privalo reguliariai tikrintis sveikatą. Sveikatos tikrinimo periodiškumą ir tvarką nustato Kūno kultūros ir sporto departamentas kartu su Sveikatos apsaugos ministerija.
+1. Lietuvos olimpinių rinktinių ir olimpinės pamainos sportininkai rengiami vadovaujantis Kūno kultūros ir sporto departamento ir Lietuvos tautinio olimpinio komiteto patvirtintomis pasirengimo olimpinėms žaidynėms programomis.
 
 
 
 
-Kūno kultūros ir sporto pratybų ir varžybų organizatoriams draudžiama leisti dalyvauti pratybose ir varžybose asmenims, kurie nustatytu laiku nepasitikrino sveikatos ir nepateikė nustatytos formos pažymos.
+2. Pasirengimo olimpinėms žaidynėms programos turi būti parengtos remiantis šiuolaikiniais tarptautinio sporto mokslo teoriniais ir praktiniais laimėjimais.
+
+
+
+
+3. Lietuvos olimpinių rinktinių ir olimpinės pamainos sportininkų rengimo olimpinėms žaidynėms programos įgyvendinimą koordinuoja Kūno kultūros ir sporto departamentas arba jo įgaliota institucija.
+ 
+
+
+
+
+
+
+
+
+
+
+IV SKYRIUS 
+PROFESIONALUSIS SPORTAS
+ 
+
+
+35 straipsnis. Sportinės veiklos sutartis
+
+
+1. Sportininkas profesionalas, vykdydamas sportinę veiklą sporto organizacijoje, su šia organizacija privalo sudaryti sportinės veiklos sutartį.
+
+
+
+
+2. Sportinės veiklos sutartyje (toliau šiame straipsnyje – sutartis) turi būti nurodyta:
+
+
+1) sporto organizacija;
+
+
+
+
+2) sportininko profesionalo asmens tapatybę patvirtinantys duomenys;
+
+
+
+
+3) šalių teisės ir pareigos;
+
+
+
+
+4) sportininko profesionalo įsipareigojimai laikytis sporto organizacijos, tos sporto šakos federacijos ir tarptautinių federacijų, kurioms priklauso sporto organizacija, nustatytų taisyklių ir kitų nuostatų;
+
+
+
+
+5) sportininko profesionalo atlygis už sportinę veiklą;
+
+
+
+
+6) sportininko profesionalo privalomojo sveikatos draudimo sąlygos;
+
+
+
+
+7) pasirengimo varžyboms ir varžybų metu sportininko profesionalo sveikatai padarytos žalos atlyginimo tvarka;
+
+
+
+
+8) sportininko profesionalo teisė į poilsį;
+
+
+
+
+9) sutarties galiojimo laikas;
+
+
+
+
+10) šalių atsakomybė už sutartyje nurodytų įsipareigojimų nevykdymą;
+
+
+
+
+11) sutarties įsigaliojimo ir nutraukimo sąlygos;
+
+
+
+
+12) nepilnamečio sportininko profesionalo mokymosi sąlygos;
+
+
+
+
+13) kitos sąlygos.
+
+
+
+
+
+
+3. Galioja tik rašytinė sutartis.
+
+
+
+
+4. Pasirašius sutartį, įgyjamas sportininko profesionalo statusas.
+
+
+
+
+5. Sutartys gali būti sudaromos ir su sportininkais, tačiau jie neįgyja sportininko profesionalo statuso. Tokioms sutartims taikomos šiame straipsnyje nustatytos sutarčių sudarymo sąlygos, išskyrus numatytas šio straipsnio 2 dalies 5 punkte.
+ 
+
+
+
+
+
+
+36 straipsnis. Nepilnamečio sportininko profesionalo sportinės veiklos sutartis
+
+
+Nepilnamečiai sportininkai profesionalai nuo 14 metų iki 18 metų sportinės veiklos sutartis gali sudaryti tik turėdami tėvų ar rūpintojų sutikimą.
+ 
+
+
+
+
+
+
+37 straipsnis. Sportininkų profesionalų perėjimas rungtyniauti iš vienos sporto organizacijos į kitą
+
+
+Sportininkas profesionalas turi teisę, atsižvelgdamas į sporto veiklos sutartyje arba sporto organizacijų susitarimuose nustatytas sąlygas, pereiti rungtyniauti iš vienos sporto organizacijos į kitą Lietuvos ar užsienio sporto organizaciją. Perėjimo sąlygas gali taip pat reglamentuoti atitinkamos sporto šakos, kuriai priklauso sporto organizacija, tarptautinės federacijos taisyklės.
+ 
+
+
+
+
+
+
+38 straipsnis. Sportininkų profesionalų interesų gynimas
+
+
+Sportininkai profesionalai turi teisę steigti asociacijas savo sportinės veiklos interesams ginti.
+ 
+
+
+
+
+
+
+39 straipsnis. Sportininkų profesionalų atstovavimas
+
+
+1. Sportininkas profesionalas, turėdamas santykių su sporto organizacijomis, savo interesus gali ginti pats.
+
+
+
+
+2. Sportininkams profesionalams gali atstovauti juridiniai asmenys ir Lietuvos Respublikoje įsteigti Europos Sąjungos valstybėje narėje ir kitoje Europos ekonominės erdvės valstybėje įsisteigusios įmonės filialai, apsidraudę civilinės atsakomybės draudimu.
+
+
+
+
+3. Sportininkams profesionalams gali atstovauti fiziniai asmenys, kurie verčiasi teisės aktų nustatyta tvarka įregistruota individualia veikla ir yra apsidraudę civilinės atsakomybės draudimu.
+
+
+
+
+4. Tam tikrose sporto šakose sportininkų profesionalų atstovavimo tvarką gali reglamentuoti ir atitinkamos sporto šakos taisyklės.
+
+
+
+
+5. Sutartyje, kuri sudaroma raštu tarp sportininko profesionalo ir jo atstovo, turi būti nustatyta civilinės atsakomybės draudimo paskirtis, civilinės atsakomybės dydis, šalių atsakomybė ir kitos nuostatos.
+
+
+
+
+6. Savo atstovus santykiams su sporto organizacijomis gali turėti ir sportininkai.
+ 
+
+
+
+
+
+
+
+
+V SKYRIUS
+SPORTININKŲ IR KŪNO KULTŪROS IR SPORTO SPECIALISTŲ GARANTIJOS
+ 
+
+
+40 straipsnis. Nusipelniusio Lietuvos Respublikos sportininko, trenerio ir sporto darbuotojo vardas
+
+
+1. Kūno kultūros ir sporto departamentas nusipelniusio Lietuvos Respublikos sportininko ir trenerio vardą gali suteikti šiems Lietuvos Respublikos piliečiams:
+
+
+1) olimpinių žaidynių čempionams ir prizininkams (aukso, sidabro ir bronzos medalių laimėtojams), jų treneriams;
+
+
+
+
+2) olimpinių sporto šakų Europos ir pasaulio čempionams, jų treneriams;
+
+
+
+
+3) olimpinių sporto šakų Europos ir pasaulio čempionatų, olimpinių žaidynių rekordininkams, jų treneriams;
+
+
+
+
+4) daugkartiniams neolimpinių sporto šakų Europos ir pasaulio čempionams, jų treneriams;
+
+
+
+
+5) parolimpinių, kurčiųjų žaidynių nugalėtojams ir prizininkams, parolimpinių ir kurčiųjų žaidynių sporto šakų pasaulio ir Europos čempionams bei jų treneriams.
+
+
+
+
+
+
+2. Kūno kultūros ir sporto departamentas nusipelniusio sporto darbuotojo vardą gali suteikti Lietuvos Respublikos piliečiui už nuopelnus sporto mokslo, vadybos ir kitose srityse.
+
+
+
+
+3. Nusipelniusio Lietuvos Respublikos sportininko, trenerio ir sporto darbuotojo vardas suteikiamas Kūno kultūros ir sporto departamento nustatyta tvarka.
+ 
+
+
+
+
+
+
+41 straipsnis. Rentos buvusiems sportininkams mokėjimo sąlygos ir tvarka
+
+
+1. Sportininkas, Lietuvos Respublikos pilietis, baigęs sportininko karjerą, nedalyvaujantis olimpinėse žaidynėse, pasaulio ir Europos čempionatuose, turi teisę gauti 1,5 vidutinio darbo užmokesčio dydžio rentą per mėnesį, jeigu jis yra:
+
+
+1) olimpinių žaidynių čempionas ir prizininkas (aukso, sidabro ar bronzos medalių laimėtojas);
+
+
+
+
+2) olimpinės sporto šakos olimpinės rungties Europos ir (ar) pasaulio čempionas;
+
+
+
+
+3) olimpinės sporto šakos olimpinės rungties Europos ir (ar) pasaulio čempionato, olimpinių žaidynių rekordininkas;
+
+
+
+
+4) parolimpinių ir kurčiųjų žaidynių nugalėtojas.
+
+
+
+
+
+
+2. Sportininkui renta neskiriama, o paskirtoji nemokama, jeigu:
+
+
+1) jis turi draudžiamųjų pajamų, išskyrus pajamas, gaunamas už darbą kūno kultūros ir sporto srityje;
+
+
+
+
+2) sportininkui yra įsiteisėjęs apkaltinamasis teismo nuosprendis už tyčinio nusikaltimo padarymą (kol išnyksta teistumas);
+
+
+
+
+3) sportininkas gauna valstybinę pensiją;
+
+
+
+
+4) sportininkas buvo diskvalifikuotas dėl dopingo preparatų vartojimo ar sporto organizacijų uždraustų metodų taikymo ir jo sportiniai rezultatai, numatyti šio straipsnio 1 dalyje, buvo anuliuoti;
+
+
+
+
+5) sportininkas yra kūno kultūros ir sporto organizacijos, kuri nepripažįsta ir nesilaiko dopingo kontrolės taisyklių, narys.
+
+
+
+
+
+
+3. Vyriausybės nustatyta tvarka rentas išmoka Kūno kultūros ir sporto departamentas iš valstybės biudžeto lėšų.
+TAR pastaba. 41 straipsnis įsigalioja 2009-01-01.
+ 
+
+
+
+
+
+
+
+
+VI SKYRIUS 
+SPORTO VARŽYBOS IR RENGINIAI
+ 
+
+
+42 straipsnis. Sporto varžybų ir renginių organizavimo principai
+
+
+1. Visų lygių sporto varžybos ar renginiai vykdomi pagal varžybų nuostatus. Varžybų nuostatai gali būti parengiami konkrečioms varžyboms arba visam čempionatui, atsižvelgiant į sporto šakos taisykles.
+
+
+
+
+2. Varžybų ar renginio nuostatus rengia ir už jų vykdymą atsako sporto varžybų organizatorius.
+
+
+
+
+3. Kiekviena sporto (šakos) federacija privalo turėti varžybų saugumo taisykles. Atsižvelgiant į tarptautinių sporto šakų organizacijų reikalavimus, jas pagal kompetenciją tvirtina sporto (šakų) federacijų valdymo organai.
+
+
+
+
+4. Sporto varžybų ir renginių organizatoriai atsako už sportininkų, sporto specialistų, sporto mėgėjų ir žiūrovų saugumą sporto varžybų ar renginių metu.
+
+
+
+
+5. Per renginį ar varžybas sporto mėgėjams ir žiūrovams turi būti sudaryta galimybė susipažinti su varžybų saugumo reikalavimais. Jeigu sporto mėgėjai, žiūrovai nesilaiko nustatytų varžybų saugumo reikalavimų ir viešosios tvarkos taisyklių, organizatorius už žiūrovo patirtą ir (ar) kitiems sukeltą žalą neatsako.
+
+
+
+
+6. Per renginį ar varžybas sporto varžybų ir renginių organizatoriams gali talkinti savanoriai.
+
+
+
+
+7. Jeigu renginiui ar varžyboms organizuoti naudojamos Kūno kultūros ir sporto departamento skirtos valstybės biudžeto lėšos, organizatoriai, planuodami šių lėšų naudojimą, privalo vadovautis Vyriausybės nustatytomis sporto renginių vykdymo finansinėmis normomis.
+ 
+
+
+
+
+
+
+43 straipsnis. Sporto varžybų sistema
+
+
+1. Lietuvos Respublikoje gali būti organizuojamos ir vykdomos tarptautinės, nacionalinės, kompleksinės, regioninės ir vietinės varžybos.
+
+
+
+
+2. Tarptautinėse sporto varžybose privalo dalyvauti užsienio valstybės sportininkas arba komanda.
+
+
+
+
+3. Nacionalinėse sporto varžybose dalyvauja Lietuvos sportininkai ar komandos.
+
+
+
+
+4. Kompleksinėse sporto varžybose vyksta kelių sporto šakų varžybos, kuriose gali dalyvauti ir Lietuvos, ir užsienio sportininkai ar komandos.
+
+
+
+
+5. Regioninėse sporto varžybose dalyvauja sportininkai ar komandos iš vienos ar kelių Lietuvos apskričių ar iš kelių savivaldybių, nesančių toje pačioje apskrityje.
+
+
+
+
+6. Vietinėse sporto varžybose dalyvauja sportininkai ar komandos iš vienos savivaldybės ar kelių savivaldybių, esančių toje pačioje apskrityje.
+
+
+
+
+7. Už atitinkamos sporto šakos varžybų sistemos ir jų vykdymo sąlygų nustatymą yra atsakingos nacionalinės atitinkamos sporto šakos federacijos. Nacionalinės sporto federacijos privalo užtikrinti sporto varžybų organizavimą ir vykdymą pagal tarptautinių sporto organizacijų nustatytą reglamentą, atitinkamos sporto šakos taisykles ir varžybų nuostatus.
+ 
+
+
+
+
+
+
+44 straipsnis. Sporto varžybų organizavimas ir vykdymas
+
+
+1. Už visų lygių sporto varžybų organizavimą ir vykdymą atsako Kūno kultūros ir sporto departamento pripažinta nacionalinė atitinkamos sporto šakos federacija.
+
+
+
+
+2. Nacionalinė federacija gali pavesti regioninio ir vietinio lygio sporto varžybų organizavimą ir vykdymą kitoms sporto organizacijos.
+
+
+
+
+3. Tarptautinio ir nacionalinio lygio varžybų organizavimas ir vykdymas gali būti perduotas tik Kūno kultūros ir sporto departamento nustatytus kriterijus ir tarptautinių sporto organizacijų nustatytus reikalavimus atitinkančioms sporto organizacijoms.
+
+
+
+
+4. Kūno kultūros ir sporto departamentas ar nacionalinė sporto (šakos) federacija gali nustatyti papildomas atitinkamų sporto varžybų vykdymo sąlygas (sporto įrenginių reikalavimai, sporto varžybų organizatoriaus civilinės atsakomybės draudimas ir kita).
+ 
+
+
+
+
+
+
+45 straipsnis. Sveikatos patikrinimas
+
+
+1. Asmenys, lankantys bet kokios formos kūno kultūros ir sporto pratybas ir dalyvaujantys varžybose, privalo reguliariai tikrintis sveikatą. Sveikatos tikrinimo periodiškumą ir tvarką nustato Kūno kultūros ir sporto departamentas kartu su Sveikatos apsaugos ministerija.
+
+
+
+
+2. Sporto pratybų ir varžybų organizatoriai privalo neleisti dalyvauti pratybose ir varžybose asmenims, kurie nustatytu laiku nepasitikrino sveikatos ir nepateikė nustatytos formos pažymos.
  
 
 
@@ -1264,22 +1687,37 @@ Kūno kultūros ir sporto pratybų ir varžybų organizatoriams draudžiama leis
 46 straipsnis. Draudimas vartoti dopingą
 
 
-Sportininkams draudžiama vartoti, o gydytojams, treneriams ir kitiems asmenims - skirti, skatinti ir versti vartoti dopingą ar naudoti jo metodus, nustatytus Tarptautinio olimpinio komiteto medicinos komisijos ir tarptautinių sporto šakų federacijų.
+1. Sportininkams draudžiama vartoti, o gydytojams, sporto specialistams ir kitiems asmenims – skirti, skatinti ir versti vartoti dopingą ar taikyti jo metodus, uždraustus Pasaulinės antidopingo agentūros ir tarptautinių sporto organizacijų.
 
 
 
 
-Dopingą draudžiama taikyti ir jojimo sporto žirgams.
+2. Dopingas draudžiamas jojimo sporto žirgams ir kitiems sporto varžybose dalyvaujantiems gyvūnams.
 
 
 
 
-Dopingo ir jo metodų kontrolę Lietuvos Respublikoje atlieka Vyriausybės skirta komisija ir atitinkamus įgaliojimus turinčios tarptautinės organizacijos.
+3. Asmenims, vartojusiems, skatinusiems, vertusiems vartoti dopingą ar taikyti jo metodus, taikomos tarptautinių ir Lietuvos sporto organizacijų numatytos sankcijos.
 
 
 
 
-Asmenims, vartojusiems, skatinusiems, vertusiems vartoti dopingą ar naudoti jo metodus, taikomos tarptautinių sporto organizacijų ir Lietuvos sporto federacijų (asociacijų, draugijų) numatytos sankcijos.
+4. Sportininkai ar kiti asmenys, kaip nurodyta šio straipsnio 3 dalyje, nesutinkantys su paskirta sankcija, turi teisę teikti apeliacinį skundą šio įstatymo 51 straipsnio 2 dalyje nustatyta tvarka sudarytam sporto arbitražui.
+
+
+
+
+5. Dopingo kontrolė Lietuvoje vykdoma vadovaujantis tarptautiniais dokumentais, kuriuos Lietuvos Respublika yra ratifikavusi ar kitaip prie jų prisijungusi, taip pat tarptautinių organizacijų nustatytais testavimo standartais.
+
+
+
+
+6. Dopingo ir jo metodų kontrolę Lietuvos Respublikoje vykdo Kūno kultūros ir sporto departamentas arba jo įgaliota institucija.
+
+
+
+
+7. Kovai su dopingo vartojimu sporte Vyriausybės darbo reglamento nustatyta tvarka iš suinteresuotų institucijų atstovų yra sudaroma Lietuvos antidopingo komisija, kuri tvirtina kovos su dopingo vartojimu sporte programą ir koordinuoja jos įgyvendinimą. Lietuvos antidopingo komisijos sudėtį, jos narių kadencijos trukmę ir komisijos veiklos tvarką nustato Vyriausybė.
  
 
 
@@ -1287,94 +1725,10 @@ Asmenims, vartojusiems, skatinusiems, vertusiems vartoti dopingą ar naudoti jo 
 
 
 
-47 straipsnis. Lyties kontrolė
+47 straipsnis. Sporto varžybų transliacija per televiziją
 
 
-Remiantis Tarptautinio olimpinio komiteto chartija, Lietuvos sporto rinktinių sportininkėms vieną kartą gyvenime atliekama lyties kontrolė. Lyties kontrolė atliekama Sveikatos apsaugos ministerijos ir Kūno kultūros ir sporto departamento nustatyta tvarka.
- 
-
-
-
-
-
-
-
-
-VIII SKYRIUS. 
-SPORTO VARŽYBOS IR KITI SPORTO RENGINIAI
- 
-
-
-48 straipsnis. Teisė organizuoti sporto varžybas ir kitus sporto renginius
-
-
-Sporto varžybas ir kitus sporto renginius turi teisę organizuoti valstybinės kūno kultūros ir sporto valdymo institucijos, valstybinės įmonės, įstaigos, organizacijos, kitos įmonės bei organizacijos, taip pat fiziniai asmenys.
- 
-
-
-
-
-
-
-49 straipsnis. Sporto varžybų nuostatai
-
-
-Sporto varžybos vykdomos pagal varžybų nuostatus. Nuostatai turi atitikti sporto varžybų taisykles, suderintas su Kūno kultūros ir sporto departamentu ir patvirtintas sporto šakos nacionalinės federacijos, sąjungos, asociacijos. Nuostatuose turi būti nurodyti varžybų organizatoriai, taip pat varžybų vykdymo sąlygos, tvarka ir saugos reikalavimai.
-
-
-Straipsnio pakeitimai:
-Nr. VIII-1478, 1999-12-14, Žin., 1999, Nr. 112-3256 (1999-12-30), i. k. 0991010ISTAIII-1478
- 
-
-
-
-
-50 straipsnis. Varžybų dalyvių ir žiūrovų saugumo užtikrinimas
-
-
-Sporto varžybų ir kitų sporto renginių organizatoriai atsako už tai, kad tokių varžybų ir kitų renginių metu būtų užtikrintas varžybų dalyvių ir žiūrovų saugumas, laikomasi viešosios tvarkos, nebūtų daroma žala sveikatai, žeminami varžybų dalyvių ir žiūrovų garbė bei orumas, nepasireikštų žiaurumas ir prievarta.
-
-
-
-
-2. Neteko galios nuo 1999-12-30
-Straipsnio dalies naikinimas:
-Nr. VIII-1478, 1999-12-14, Žin. 1999, Nr. 112-3256 (1999-12-30), i. k. 0991010ISTAIII-1478
- 
-
-
-
-
-3. Neteko galios nuo 1999-12-30
-Straipsnio dalies naikinimas:
-Nr. VIII-1478, 1999-12-14, Žin. 1999, Nr. 112-3256 (1999-12-30), i. k. 0991010ISTAIII-1478
- 
-
-
-
-
-
-
-51 straipsnis. Sporto statinių reikalavimai 
-
-
-Sporto statinių savininkai ir administracija privalo užtikrinti tinkamą techninę sporto statinių, sporto prietaisų ir įrenginių būklę pagal saugumo ir sanitarijos bei higienos, taip pat kitus teisės aktų numatytus reikalavimus ir įstatymų nustatyta tvarka atsako už žalą, padarytą varžybų dalyviams ir žiūrovams sporto varžybų ir kitų sporto renginių metu dėl šių reikalavimų nesilaikymo.
- 
-
-
-
-
-
-
-52 straipsnis. Sporto varžybų, kitų sporto renginių transliavimas
-
-
-Sporto varžybas, kitus sporto renginius transliuoti per radiją ir televiziją, perduoti kitais audiovizualiniais būdais, filmuoti ir fotografuoti, daryti jų vaizdo, garso ir kitus įrašus galima tik turint sporto varžybų, kitų sporto renginių organizatorių leidimą arba sudarius su jais sutartį.
-
-
-
-
-Reklamuoti prekes, gaminius, paslaugas ar ką kita sporto varžybų ir kitų sporto renginių metu galima tik su tokių varžybų ir renginių organizatorių leidimu.
+Strateginių sporto šakų nacionalines, atrankos į Europos ar pasaulio čempionatus varžybas transliuoja Lietuvos nacionalinė televizija, jeigu nacionalinės strateginių sporto šakų federacijos dėl tarptautinių varžybų transliavimo nesudaro sutarties su kitomis televizijomis.
  
 
 
@@ -1384,16 +1738,70 @@ Reklamuoti prekes, gaminius, paslaugas ar ką kita sporto varžybų ir kitų spo
 
 
 
-IX SKYRIUS. 
-BAIGIAMOSIOS NUOSTATOS
+VII SKYRIUS
+SPORTO STATINIAI
  
 
 
-53 straipsnis. Sporto organizacijų tarptautiniai ryšiai
+48 straipsnis. Sporto statinių reikalavimai
 
 
-Sporto organizacijos įstatymų ir savo įstatų nustatyta tvarka gali stoti į tarptautines sporto organizacijas, palaikyti ryšius su tarptautinėmis ir kitų valstybių sporto organizacijomis, sudaryti su jomis susitarimus, neprieštaraujančius Lietuvos Respublikos Konstitucijai, šiam ir kitiems įstatymams.
+1. Sporto įrangą ar statinius, neatitinkančius saugumo, sanitarijos, higienos, priešgaisrinių ir kitų reikalavimų, draudžiama naudoti sporto pratyboms ir varžyboms.
+
+
+
+
+2. Už žalą, padarytą sporto pratybų ar varžybų dalyviams, sporto mėgėjams ar žiūrovams tokių pratybų ar varžybų metu dėl šio straipsnio 1 dalyje nurodytų reikalavimų nesilaikymo, įstatymų nustatyta tvarka atsako sporto statinių savininkas ar teisėtas valdytojas.
  
+
+
+
+
+
+
+49 straipsnis. Kūno kultūros ir sporto departamento sporto statinių išlaikymas
+
+
+Kūno kultūros ir sporto departamento patikėjimo ar panaudos teise valdomos sporto bazės yra išlaikomos iš valstybės biudžeto lėšų.
+ 
+
+
+
+
+
+
+50 straipsnis. Nacionalinės svarbos sporto objektai
+
+
+1. Nacionalinės svarbos sporto objektais gali būti pripažinti atitinkantys reikalavimus daugiafunkciai sporto objektai Vyriausybės nustatyta tvarka.
+
+
+
+
+2. Ekonominėmis ir finansinėmis priemonėmis skatinama nacionalinės svarbos sporto objektų statyba, renovavimas ir naudojimas.
+ 
+
+
+
+
+
+
+
+
+VIII SKYRIUS
+GINČŲ SPRENDIMAS
+ 
+
+
+51 straipsnis. Ginčų nagrinėjimas
+
+
+1. Ginčai dėl šiame įstatyme nustatytų teisių gynimo yra nagrinėjami Lietuvos Respublikos teisės aktų nustatyta tvarka. Atitinkamos sporto šakos taisyklėse gali būti nustatyta išankstinė ginčų sprendimo ne teismo tvarka.
+
+
+
+
+2. Jeigu ginčo šalys pageidauja, jos gali ginčą spręsti sporto arbitraže. Sporto arbitražo sudarymo tvarką ir darbo reglamentą nustato Kūno kultūros ir sporto departamentas.
  
 
 
@@ -1409,6 +1817,7 @@ RESPUBLIKOS PREZIDENTAS                            �
  
 
 
+ 
  
  
 Pakeitimai:
@@ -1427,3 +1836,8 @@ Lietuvos Respublikos kūno kultūros ir sporto įstatymo 11, 27, 49, 50 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-238, 2005-06-09, Žin., 2005, Nr. 76-2745 (2005-06-18), i. k. 1051010ISTA000X-238
 Lietuvos Respublikos kūno kultūros ir sporto įstatymo 41 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1501, 2008-04-17, Žin., 2008, Nr. 47-1752 (2008-04-24), i. k. 1081010ISTA00X-1501
+Lietuvos Respublikos kūno kultūros ir sporto įstatymo pakeitimo įstatymas
