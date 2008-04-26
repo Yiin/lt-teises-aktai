@@ -29,8 +29,8 @@ ALKOHOLIO
 KONTROLĖS
 ĮSTATYMAS
  
-1995 m. balandžio 18
-d. Nr. I-857
+1995 m.
+balandžio 18 d. Nr. I-857
 Vilnius 
  
 Nauja įstatymo redakcija nuo 2004 m. gegužės 1 d.:
@@ -637,7 +637,6 @@ licencijas verstis mažmenine prekyba alkoholiniais gėrimais, taip pat leidžia
 Lietuvos Respublikoje reprezentacinėms reikmėms iš įmonių, turinčių licencijas
 verstis mažmenine prekyba alkoholiniais gėrimais, įsigyti tų grupių alkoholinių
 gėrimų, kuriais prekiauti joms teisės nesuteikia jų turima licencija.
- 
 8. Įmonėms,
 turinčioms licencijas gaminti alkoholinius gėrimus, leidžiama juos parduoti:
 1) įmonėms,
@@ -696,9 +695,9 @@ didmenine prekyba jais taip pat leidžiama šiuos produktus ir eksportuoti
 (eksportuoti vyną, vynuogių misą ir žemės ūkio kilmės etilo alkoholį leidžiama
 tik turint eksporto licenciją).
 13. Įmonėms,
-įstaigoms ir organizacijoms, nustatyta tvarka įsigijusioms etilo alkoholio gamybos,
-techninėms, medicinos, veterinarijos reikmėms arba mokslo ir tyrimo darbams,
-draudžiama jį naudoti ne pagal paskirtį.
+įstaigoms ir organizacijoms, nustatyta tvarka įsigijusioms etilo alkoholio
+gamybos, techninėms, medicinos, veterinarijos reikmėms arba mokslo ir tyrimo
+darbams, draudžiama jį naudoti ne pagal paskirtį.
 Straipsnio
 pakeitimai:
 Nr. IX-2542,
@@ -734,9 +733,10 @@ stacionarių prekybos įmonių nespecializuotuose skyriuose;
 gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 22 procentų, –
 nestacionariose viešojo maitinimo įmonėse savivaldybės tarybos nustatyto
 kurortinio, poilsio bei turizmo sezono laikotarpiu; 
-4) alkoholiniais
-gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 13 procentų, –
-masiniuose renginiuose, parodose ir mugėse.
+4) natūralios
+fermentacijos alkoholiniais gėrimais, kurių tūrinė etilo alkoholio
+koncentracija neviršija 13 procentų, – masiniuose renginiuose, parodose ir
+mugėse.
 2. Neteko galios
 nuo 2007 m. rugpjūčio 1 d.
 3. Lietuvos
@@ -752,9 +752,10 @@ su šių įstaigų vadovais ir religinėmis bendruomenėmis);
 prekybos įmonėse, kuriose vaikams ir paaugliams skirtų prekių dalis sudaro 50
 arba daugiau procentų mažmeninės prekių apyvartos;
 3) masiniuose
-renginiuose, parodose ir mugėse (išskyrus alkoholinius gėrimus, kurių tūrinė
-etilo alkoholio koncentracija neviršija 13 procentų, ir alkoholinius gėrimus,
-parduodamus parodose ir mugėse, vykstančiose stacionariuose pastatuose);
+renginiuose, parodose ir mugėse (išskyrus natūralios fermentacijos alkoholinius
+gėrimus, kurių tūrinė etilo alkoholio koncentracija neviršija 13 procentų, ir
+alkoholinius gėrimus, parduodamus parodose ir mugėse, vykstančiose
+stacionariuose pastatuose);
 4) iš prekybos
 automatų;
 5) asmenims,
@@ -832,6 +833,9 @@ Nr. X-889, 2006-11-09,
 Žin., 2006, Nr. 127-4822 (2006-11-25)
 Nr. X-1198,
 2007-06-21, Žin., 2007, Nr. 77-3041 (2007-07-12)
+Nr.
+X-1508,
+2008-04-18, Žin., 2008, Nr. 48-1771 (2008-04-26)
  
 IV SKYRIUS
 ALKOHOLINIŲ
@@ -939,8 +943,7 @@ juridinių asmenų Lietuvos Respublikos labdaros ir paramos įstatymo nustatyta
 tvarka;
 3) iš kitų lėšų.
  
-ANTRASIS
-SKIRSNIS
+ANTRASIS SKIRSNIS
 PIKTNAUDŽIAVIMO
 ALKOHOLIU RIBOJIMAS
  
@@ -1028,13 +1031,16 @@ alkoholio vartojimą su stimuliuojančiomis, raminančiomis ir kitomis
 gydomosiomis savybėmis;
 8) siejanti
 alkoholio vartojimą su socialine sėkme, padidintu seksualiniu aktyvumu;
-9) palankiai
-vaizduojanti nesaikingą alkoholinių gėrimų vartojimą ar neigiamai atsiliepianti
-apie abstinenciją ir saikingumą;
+9) palankiai vaizduojanti
+nesaikingą alkoholinių gėrimų vartojimą ar neigiamai atsiliepianti apie
+abstinenciją ir saikingumą;
 10) pateikianti
 didesnę tūrinę etilo alkoholio koncentraciją kaip alkoholinių gėrimų privalumą;
 11) pateikianti
 neteisingą ir (ar) klaidinančią informaciją apie alkoholinius gėrimus.
+ 
+2
+dalies redakcija iki 2012 m. sausio 1 d.:
 2. Alkoholio
 reklama draudžiama:
 1) laikraščių ir
@@ -1044,16 +1050,18 @@ paaugliams skirtuose laikraščiuose, žurnaluose, knygose, televizijos ir radij
 programose;
 3) Lietuvos
 Respublikos jurisdikcijai priklausančių transliuotojų ir retransliuotojų
-transliuojamose programose nuo 6 valandos iki 23 valandos;
+transliuojamose programose nuo 6 valandos iki 23 valandos (išskyrus tiesiogiai
+ir ištisai transliuojamus ar retransliuojamus tarptautinius meno, kultūros ar
+sporto renginius);
 4) koncertų,
 cirko, diskotekų, jaunimo sporto ir laisvalaikio renginių, kitų masinių
 renginių, teatro spektaklių, kino ir videofilmų demonstravimo vietose, išskyrus
 šių renginių vietose esančias prekybos vietas. Masiniuose renginiuose (išskyrus
 vaikams ir paaugliams iki 18 metų skirtus renginius) taip pat gali būti
-pateikiamas renginį remiančios ir alkoholinius gėrimus, kuriais leidžiama prekiauti
-masiniuose renginiuose, gaminančios arba jais prekiaujančios įmonės pavadinimas
-ir (ar) prekės ženklas, pagal turinį ir formą neprieštaraujantys teisės aktų
-reikalavimams; 
+pateikiamas renginį remiančios ir alkoholinius gėrimus, kuriais leidžiama
+prekiauti masiniuose renginiuose, gaminančios arba jais prekiaujančios įmonės
+pavadinimas ir (ar) prekės ženklas, pagal turinį ir formą neprieštaraujantys
+teisės aktų reikalavimams; 
 5) švietimo,
 mokslo ir ugdymo įstaigose;
 6) visose
@@ -1064,13 +1072,47 @@ transporto priemonių viduje ir išorėje;
 jų teritorijose, išskyrus jose esančias alkoholinių gėrimų prekybos vietas; 
 9) ant
 atvirlaiškių, vokų ir pašto ženklų.
+2
+dalies redakcija nuo 2012 m. sausio 1 d.:
+2. Alkoholio
+reklama draudžiama:
+1) visuomenės
+informavimo priemonėse;
+2) koncertų,
+cirko, diskotekų, jaunimo sporto ir laisvalaikio renginių, kitų masinių
+renginių, teatro spektaklių, kino ir videofilmų demonstravimo vietose, išskyrus
+šių renginių vietose esančias prekybos vietas. Masiniuose renginiuose (išskyrus
+vaikams ir paaugliams iki 18 metų skirtus renginius) gali būti pateikiamas
+renginį remiančios ir alkoholinius gėrimus, kuriais leidžiama prekiauti
+masiniuose renginiuose, gaminančios arba jais prekiaujančios įmonės pavadinimas
+ir (ar) prekės ženklas, pagal turinį ir formą neprieštaraujantys teisės aktų
+reikalavimams;
+3) švietimo,
+mokslo ir ugdymo įstaigose;
+4) visose
+sveikatos priežiūros įstaigose;
+5) visuomeninio
+transporto priemonių viduje ir išorėje;
+6) degalinėse ir
+jų teritorijose, išskyrus jose esančias alkoholinių gėrimų prekybos vietas;
+7) ant
+atvirlaiškių, vokų ir pašto ženklų.
+ 
 3. Loterijose,
 žaidimuose, konkursuose draudžiama teikti alkoholinius gėrimus kaip prizus arba
 kartu su jais. 
+ 
+4
+dalies redakcija iki 2012 m. sausio 1 d.:
 4. Lietuvos
 Respublikoje draudžiama išorinė alkoholio reklama, išskyrus alaus, alaus mišinių su
 nealkoholiniais gėrimais bei natūralios fermentacijos vyno ir
 sidro išorinę reklamą.
+4
+dalies redakcija nuo 2012 m. sausio 1 d.:
+4. Lietuvos Respublikoje išorinė
+alkoholio reklama yra draudžiama.
+ 
 5. Alaus, alaus mišinių su
 nealkoholiniais gėrimais bei natūralios
 fermentacijos vyno ir sidro išorinėje reklamoje (išskyrus tuos atvejus, kai
@@ -1078,6 +1120,9 @@ išorinėje reklamoje pateikiami tik alkoholinius gėrimus gaminančių arba jai
 prekiaujančių įmonių pavadinimai ir (ar) jų prekių ženklai) turi būti
 įspėjamasis tekstas apie žalingą alkoholio poveikį sveikatai. Šio teksto formą,
 turinį ir jo vietą reklamoje nustato Sveikatos apsaugos ministerija.
+5
+dalis netenka galios nuo 2012 m. sausio 1 d.
+ 
 6. Reklama
 nelaikoma informacija apie alkoholinius gėrimus informaciniuose pranešimuose,
 kurie skirti tik alkoholio verslo specialistams, taip pat alkoholinius gėrimus
@@ -1085,16 +1130,25 @@ gaminančių arba jais prekiaujančių įmonių registruoti pavadinimai (jei
 alkoholinių gėrimų gamintojo pavadinimas yra sudedamoji šių įmonių registruoto
 pavadinimo dalis) bei prekių ženklai, kai šie pavadinimai ir prekių ženklai
 pateikiami iškabose ant šių įmonių buveinės ar padalinio pastato bei įmonių
-valdomo transporto.
-7. Kaip
-laikomasi šio straipsnio reikalavimų, kontroliuoja Tarnyba (išskyrus pažeidimus
-visuomenės informavimo priemonėse), savivaldybių institucijos (išorinės
-reklamos draudimo pažeidimus) bei Nacionalinė vartotojų teisių apsaugos taryba
-(pažeidimus visuomenės informavimo priemonėse). 
+valdomo transporto. Reklama
+taip pat nelaikomi alkoholinius gėrimus gaminančių arba jais prekiaujančių
+įmonių registruoti pavadinimai ar prekių ženklai, kai šie pavadinimai ar prekių
+ženklai nereguliariai ir netikėtai matomi transliuojamose ar retransliuojamose
+programose ir kai šių pavadinimų bei prekių ženklų atvaizdai yra šalutiniai,
+palyginti su transliuojamos ar retransliuojamos programos vaizdais.
+7. Kaip laikomasi šio straipsnio reikalavimų, kontroliuoja Tarnyba
+(išskyrus pažeidimus visuomenės informavimo priemonėse), savivaldybių
+institucijos (išorinės reklamos draudimo pažeidimus) bei Valstybinė vartotojų
+teisių apsaugos tarnyba prie Teisingumo ministerijos (toliau – Valstybinė
+vartotojų teisių apsaugos tarnyba) (pažeidimus visuomenės informavimo
+priemonėse).
 Straipsnio
 pakeitimai:
 Nr. X-1198,
 2007-06-21, Žin., 2007, Nr. 77-3041 (2007-07-12)
+Nr.
+X-1508,
+2008-04-18, Žin., 2008, Nr. 48-1771 (2008-04-26)
  
 V SKYRIUS
 VALSTYBĖS
@@ -1107,8 +1161,8 @@ straipsnis. Valstybės alkoholio kontrolės politikos formavimo sistema
 Valstybės alkoholio kontrolės politiką pagal kompetenciją formuoja ir
 koordinuoja Lietuvos Respublikos Seimas, Lietuvos Respublikos Vyriausybė,
 Nacionalinė sveikatos taryba, savivaldybių tarybos, kitos įstatymų nustatytos
-institucijos. Jų įgaliojimus alkoholio kontrolės srityje nustato šis ir kiti įstatymai
-bei teisės aktai.
+institucijos. Jų įgaliojimus alkoholio kontrolės srityje nustato šis ir kiti
+įstatymai bei teisės aktai.
  
 31 straipsnis. Valstybės alkoholio kontrolės
 politikos vykdomųjų institucijų sistema
@@ -1154,10 +1208,10 @@ Nr. X-1198,
 straipsnis. Ekonominių sankcijų už Įstatymo pažeidimus taikymas
 1. Už šio
 Įstatymo pažeidimus baudas juridiniams asmenims ir užsienio juridinių asmenų
-filialams bei atstovybėms pagal savo kompetenciją turi teisę skirti Tarnyba,
-Nacionalinė vartotojų teisių apsaugos taryba, Valstybinė maisto ir veterinarijos
-tarnyba, Valstybinė mokesčių inspekcija prie Finansų ministerijos (toliau –
-Valstybinė mokesčių inspekcija), teritorinės valstybinės mokesčių inspekcijos,
+filialams bei atstovybėms pagal savo kompetenciją turi teisę skirti Tarnyba, Valstybinė
+vartotojų teisių apsaugos tarnyba, Valstybinė maisto ir veterinarijos tarnyba,
+Valstybinė mokesčių inspekcija prie Finansų ministerijos (toliau – Valstybinė
+mokesčių inspekcija), teritorinės valstybinės mokesčių inspekcijos,
 institucija, Lietuvos Respublikos Vyriausybės įgaliota išduoti vyno produktų ir
 žemės ūkio kilmės etilo alkoholio importo ir eksporto licencijas, Lietuvos
 Respublikos Vyriausybės įgaliota institucija, kuri turi būti informuojama apie
@@ -1190,8 +1244,9 @@ baudžiamos nuo vieno tūkstančio litų iki trijų tūkstančių litų bauda.
 5. Už šio
 Įstatymo 28 straipsnio reikalavimų nesilaikymą įmonės baudžiamos nuo vieno
 tūkstančio litų iki dešimties tūkstančių litų bauda, už kiekvieną to paties
-reikalavimo pakartotinį pažeidimą, padarytą per dvejus metus nuo baudos paskyrimo,
-– nuo dešimties tūkstančių litų iki dvidešimties tūkstančių litų bauda.
+reikalavimo pakartotinį pažeidimą, padarytą per dvejus metus nuo baudos
+paskyrimo, – nuo dešimties tūkstančių litų iki dvidešimties tūkstančių litų
+bauda.
 6. Už šio
 Įstatymo 29 straipsnio reikalavimų nesilaikymą juridiniai asmenys ir užsienio
 juridinių asmenų filialai bei atstovybės baudžiami nuo vieno tūkstančio litų
@@ -1202,10 +1257,10 @@ dešimties tūkstančių litų iki dvidešimties tūkstančių litų bauda.
 skiriamos baudos dydis nustatomas atsižvelgiant į pažeidimo pobūdį ir šio
 straipsnio 8 ir 9 dalyse nurodytas atsakomybę lengvinančias ar sunkinančias
 aplinkybes. Jeigu yra atsakomybę lengvinančių aplinkybių, baudos dydis
-mažinamas nuo vidurkio iki minimumo, o jeigu yra atsakomybę sunkinančių aplinkybių,
-baudos dydis didinamas nuo vidurkio iki maksimumo. Jeigu yra atsakomybę
-lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį
-ir reikšmingumą. Baudos dydžio mažinimas ar didinimas motyvuojamas
+mažinamas nuo vidurkio iki minimumo, o jeigu yra atsakomybę sunkinančių
+aplinkybių, baudos dydis didinamas nuo vidurkio iki maksimumo. Jeigu yra
+atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant
+į jų kiekį ir reikšmingumą. Baudos dydžio mažinimas ar didinimas motyvuojamas
 institucijos, skiriančios baudą už šiame Įstatyme nustatytų reikalavimų
 nesilaikymą, nutarime. Skundą nagrinėjantis teismas, atsižvelgdamas į
 atsakomybę lengvinančias ir kitas aplinkybes (dėl kurių atitinkama piniginė
@@ -1235,10 +1290,10 @@ veterinarijos tarnyba.
 šio Įstatymo 17 straipsnio 1 dalies 2, 3, 7–12 punktuose, 2 dalies 2, 3, 6–10
 punktuose, 5–11 ir 13 dalyse, 18 straipsnio 1, 3, 4 ir 9
 dalyse nustatytų reikalavimų nesilaikymą, taip pat už
-savivaldybių tarybų nustatytų prekybos alkoholiniais gėrimais švenčių ir masinių
-renginių dienomis ribojimų ar draudimų pažeidimą skiria Tarnyba ir policija.
-Policijos vardu skirti baudas turi teisę policijos įstaigų vadovai ar jų
-įgalioti asmenys.
+savivaldybių tarybų nustatytų prekybos alkoholiniais gėrimais švenčių ir
+masinių renginių dienomis ribojimų ar draudimų pažeidimą skiria Tarnyba
+ir policija. Policijos vardu skirti baudas turi teisę policijos įstaigų vadovai
+ar jų įgalioti asmenys.
 12. Baudas už
 šio Įstatymo 17 straipsnio 1 dalies 2, 3, 7, 9–12 punktuose, 2 dalies 2, 3, 6,
 8–10 punktuose, 5–11 ir 13 dalyse, 18 straipsnio 1 dalyje, 3 dalies 6–8
@@ -1253,7 +1308,7 @@ nustatytų reikalavimų nesilaikymą skiria Tarnyba.
 šio Įstatymo 29 straipsnyje nustatytų reikalavimų pažeidimus skiria Tarnyba
 (išskyrus už reklamos pažeidimus visuomenės informavimo priemonėse),
 savivaldybių institucijos (už išorinės reklamos draudimo pažeidimus) ir
-Nacionalinė vartotojų teisių apsaugos taryba (už reklamos pažeidimus visuomenės
+Valstybinė vartotojų teisių apsaugos tarnyba (už reklamos pažeidimus visuomenės
 informavimo priemonėse).
 15. Baudas už
 vyno produktų ir žemės ūkio kilmės etilo alkoholio importą ir eksportą neturint
@@ -1313,6 +1368,9 @@ Nr. X-889, 2006-11-09,
 Žin., 2006, Nr. 127-4822 (2006-11-25)
 Nr. X-1198,
 2007-06-21, Žin., 2007, Nr. 77-3041 (2007-07-12)
+Nr.
+X-1508,
+2008-04-18, Žin., 2008, Nr. 48-1771 (2008-04-26)
  
 35
 straipsnis. Įstatymo pažeidimų protokolas ir bylų nagrinėjimo terminai
@@ -1395,11 +1453,11 @@ priėmimo išsiunčiami asmenims, dėl kurių šie nutarimai priimti.
  
 40
 straipsnis. Baudų išieškojimas
-1. Bauda turi būti
-sumokama į valstybės biudžetą, o tais atvejais, kai baudas skiria savivaldybių
-vykdomosios institucijos, į baudą paskyrusios savivaldybės biudžetą ne vėliau
-kaip per vieną mėnesį nuo dienos, kai šio Įstatymo pažeidėjams įteiktas
-nutarimas paskirti baudą.
+1. Bauda turi
+būti sumokama į valstybės biudžetą, o tais atvejais, kai baudas skiria
+savivaldybių vykdomosios institucijos, į baudą paskyrusios savivaldybės
+biudžetą ne vėliau kaip per vieną mėnesį nuo dienos, kai šio Įstatymo
+pažeidėjams įteiktas nutarimas paskirti baudą.
 2. Nesumokėtas
 baudas išieško antstoliai vykdydami pateiktus šio Įstatymo 39 straipsnyje
 nurodytus institucijų nutarimus Lietuvos Respublikos civilinio proceso kodekso
@@ -1418,16 +1476,19 @@ teismą sustabdo šio Įstatymo 34 straipsnio 1 dalyje nurodytų institucijų
 nutarimų dėl ekonominių sankcijų taikymo vykdymą. 
  
 *Pastaba. Pripažinti, kad Lietuvos
-Respublikos alkoholio kontrolės įstatymo 41 straipsnis (2004 m. kovo 9 d. redakcija; Žin., 2004, Nr. 47-1548) ta apimtimi, kuria nėra numatyta
-galimybės įmonėms, kurioms už šio įstatymo 34 straipsnio 17 dalyje (2004 m. kovo 9 d., 2006 m. balandžio 25 d., 2007 m. birželio 21 d. redakcijos) nurodytus teisės
-pažeidimus buvo panaikintas licencijos galiojimas, apskųsti teismui sprendimus
-dėl minėtos sankcijos skyrimo, prieštarauja Lietuvos Respublikos
-Konstitucijos 30 straipsnio 1 daliai, konstituciniams teisingumo, teisinės
-valstybės principams, o ta apimtimi, kuria nėra numatyta galimybės teismui,
-atsižvelgiant į teisės pažeidimo pobūdį, jo mastą, atsakomybę lengvinančias bei
-kitas reikšmingas aplinkybes ir vadovaujantis teisingumo, protingumo
-kriterijais, nuspręsti, kad ši sankcija – licencijos galiojimo panaikinimas
-įmonei už šio įstatymo 34 straipsnio 17 dalyje (2004 m. kovo 9 d., 2006 m. balandžio 25 d., 2007 m. birželio 21 d. redakcijos) nurodytus teisės
+Respublikos alkoholio kontrolės įstatymo 41 straipsnis (2004 m.
+kovo 9 d. redakcija; Žin., 2004, Nr. 47-1548) ta apimtimi, kuria nėra
+numatyta galimybės įmonėms, kurioms už šio įstatymo 34 straipsnio 17 dalyje
+(2004 m. kovo 9 d., 2006 m. balandžio 25 d., 2007 m. birželio 21 d. redakcijos)
+nurodytus teisės pažeidimus buvo panaikintas licencijos galiojimas, apskųsti
+teismui sprendimus dėl minėtos sankcijos skyrimo, prieštarauja Lietuvos
+Respublikos Konstitucijos 30 straipsnio 1 daliai, konstituciniams teisingumo,
+teisinės valstybės principams, o ta apimtimi, kuria nėra numatyta galimybės
+teismui, atsižvelgiant į teisės pažeidimo pobūdį, jo mastą, atsakomybę
+lengvinančias bei kitas reikšmingas aplinkybes ir vadovaujantis teisingumo,
+protingumo kriterijais, nuspręsti, kad ši sankcija – licencijos galiojimo
+panaikinimas įmonei už šio įstatymo 34 straipsnio 17 dalyje (2004 m. kovo 9 d.,
+2006 m. balandžio 25 d., 2007 m. birželio 21 d. redakcijos) nurodytus teisės
 pažeidimus neturi būti taikoma, nes dėl tam tikrų itin svarbių aplinkybių yra
 akivaizdžiai neproporcinga (neadekvati) padarytam teisės pažeidimui ir dėl to
 neteisinga, prieštarauja Lietuvos Respublikos Konstitucijos 109 straipsnio 1
@@ -1445,10 +1506,10 @@ Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
+RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
 BRAZAUSKAS 
  
-                                                                                    Lietuvos
+                                                                                    Lietuvos
 Respublikos
 alkoholio
 kontrolės
@@ -1463,29 +1524,43 @@ alkoholio kontrolės įstatymas
 Lietuvos Respublikos
 alkoholio kontrolės įstatymas suderintas su šiais Europos Sąjungos teisės
 aktais:
-1) 1989 m. spalio 3 d. Tarybos direktyva 89/552/EEB dėl kai kurių valstybių narių įstatymuose ir kituose
-teisės aktuose išdėstytų nuostatų, susijusių su televizijos programų
-transliavimu, suderinimo (su paskutiniais pakeitimais, padarytais 1997 m. birželio 30 d. Europos Parlamento ir Tarybos direktyva 97/36/EB); 
-2) 1989 m. gegužės 29 d. Tarybos reglamentas (EEB) Nr. 1576/1989, nustatantis bendrąsias taisykles dėl
-spiritinių gėrimų apibrėžties, apibūdinimo ir pateikimo (su paskutiniais
-pakeitimais, padarytais 1994 m. gruodžio 22 d. Europos Parlamento ir Tarybos
-reglamentu (EB) Nr. 3378/1994);
-3) 1999 m. gegužės 17 d. Tarybos reglamentas (EB) Nr. 1493/1999 dėl bendro vyno rinkos organizavimo (su
-paskutiniais pakeitimais, padarytais 2001 m. gruodžio 19 d. Tarybos reglamentu (EB) Nr. 2585/2001);
-4) 2000 m. liepos 24 d. Komisijos reglamentas (EB) Nr. 1622/2000, nustatantis tam tikras išsamias
-Reglamento (EB) Nr. 1493/1999 dėl bendro vyno rinkos organizavimo įgyvendinimo
-taisykles ir nustatantis Bendrijos vynininkystės metodų ir procesų kodeksą (su
-paskutiniais pakeitimais, padarytais 2002 m. gruodžio 16 d. Komisijos reglamentu (EB) Nr. 2244/2002);
-5) 2001 m. balandžio 24 d. Komisijos reglamentas (EB) Nr. 883/2001, nustatantis išsamias Tarybos
-reglamento (EB) Nr. 1493/1999 įgyvendinimo taisykles vyno sektoriaus produktų
-prekybai su trečiosiomis šalimis (su paskutiniais pakeitimais, padarytais 2003 m. liepos 1 d. Komisijos reglamentu (EB) Nr. 1175/2003);
-6) 2001 m. balandžio 24 d. Komisijos reglamentas (EB) Nr. 884/2001, nustatantis išsamias vyno produktų
-gabenimo lydraščių taikymo taisykles ir apskaitos dokumentus, kurie turi būti
-tvarkomi vyno sektoriuje (su paskutiniais pakeitimais, padarytais 2002 m. spalio 7 d. Komisijos reglamentu (EB) Nr. 1782/2002);
-7) 2001 m. birželio 5 d. Tarybos rekomendacija 2001/458/EB dėl jaunų žmonių, ypač vaikų ir paauglių,
-alkoholio vartojimo;
-8) 2003 m. balandžio 8 d. Tarybos reglamentas (EB) Nr. 670/2003, nustatantis specialias priemones dėl
-žemės ūkio kilmės etilo alkoholio rinkos.
+1) 1989 m.
+spalio 3 d. Tarybos direktyva 89/552/EEB dėl kai kurių valstybių narių
+įstatymuose ir kituose teisės aktuose išdėstytų nuostatų, susijusių su
+televizijos programų transliavimu, suderinimo (su paskutiniais pakeitimais,
+padarytais 1997 m. birželio 30 d. Europos Parlamento ir Tarybos direktyva
+97/36/EB); 
+2) 1989 m.
+gegužės 29 d. Tarybos reglamentas (EEB) Nr. 1576/1989, nustatantis bendrąsias
+taisykles dėl spiritinių gėrimų apibrėžties, apibūdinimo ir pateikimo (su
+paskutiniais pakeitimais, padarytais 1994 m. gruodžio 22 d. Europos Parlamento
+ir Tarybos reglamentu (EB) Nr. 3378/1994);
+3) 1999 m.
+gegužės 17 d. Tarybos reglamentas (EB) Nr. 1493/1999 dėl bendro vyno rinkos
+organizavimo (su paskutiniais pakeitimais, padarytais 2001 m. gruodžio 19 d.
+Tarybos reglamentu (EB) Nr. 2585/2001);
+4) 2000 m.
+liepos 24 d. Komisijos reglamentas (EB) Nr. 1622/2000, nustatantis tam tikras
+išsamias Reglamento (EB) Nr. 1493/1999 dėl bendro vyno rinkos organizavimo
+įgyvendinimo taisykles ir nustatantis Bendrijos vynininkystės metodų ir procesų
+kodeksą (su paskutiniais pakeitimais, padarytais 2002 m. gruodžio 16 d.
+Komisijos reglamentu (EB) Nr. 2244/2002);
+5) 2001 m.
+balandžio 24 d. Komisijos reglamentas (EB) Nr. 883/2001, nustatantis išsamias
+Tarybos reglamento (EB) Nr. 1493/1999 įgyvendinimo taisykles vyno sektoriaus
+produktų prekybai su trečiosiomis šalimis (su paskutiniais pakeitimais,
+padarytais 2003 m. liepos 1 d. Komisijos reglamentu (EB) Nr. 1175/2003);
+6) 2001 m.
+balandžio 24 d. Komisijos reglamentas (EB) Nr. 884/2001, nustatantis išsamias
+vyno produktų gabenimo lydraščių taikymo taisykles ir apskaitos dokumentus,
+kurie turi būti tvarkomi vyno sektoriuje (su paskutiniais pakeitimais,
+padarytais 2002 m. spalio 7 d. Komisijos reglamentu (EB) Nr. 1782/2002);
+7) 2001 m.
+birželio 5 d. Tarybos rekomendacija 2001/458/EB dėl jaunų žmonių, ypač vaikų ir
+paauglių, alkoholio vartojimo;
+8) 2003 m.
+balandžio 8 d. Tarybos reglamentas (EB) Nr. 670/2003, nustatantis specialias
+priemones dėl žemės ūkio kilmės etilo alkoholio rinkos.
 _________________
  
 Pakeitimai:
@@ -1628,8 +1703,8 @@ STRAIPSNIU ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1158, 2002-10-29,
-Žin., 2002, Nr. 112-4966 (2002-11-22)
+IX-1158,
+2002-10-29, Žin., 2002, Nr. 112-4966 (2002-11-22)
 ALKOHOLIO
 KONTROLĖS ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
@@ -1637,8 +1712,8 @@ KONTROLĖS ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1558,
-2003-05-15, Žin., 2003, Nr. 52-2312 (2003-05-30)
+IX-1558, 2003-05-15,
+Žin., 2003, Nr. 52-2312 (2003-05-30)
 ALKOHOLIO
 KONTROLĖS ĮSTATYMO 20, 21, 25 STRAIPSNIŲ PAPILDYMO IR 30 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
@@ -1673,16 +1748,16 @@ KONTROLĖS ĮSTATYMO 19 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 21.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-2064, 2004-03-18,
-Žin., 2004, Nr. 53-1789 (2004-04-10)
+Nr. IX-2064,
+2004-03-18, Žin., 2004, Nr. 53-1789 (2004-04-10)
 ALKOHOLIO
 KONTROLĖS ĮSTATYMO 43 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 22.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-2052,
-2004-03-09, Žin., 2004, Nr. 47-1548 (2004-03-30)
+Nr. IX-2052, 2004-03-09,
+Žin., 2004, Nr. 47-1548 (2004-03-30)
 ALKOHOLIO
 KONTROLĖS ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Šis
@@ -1729,7 +1804,19 @@ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas, išskyrus 4 straipsnio 1 dalį, 9 straipsnio 1 dalį ir 13
 straipsnį, įsigalioja nuo 2007 m. rugpjūčio 1 d.
 Šio
-įstatymo 4 straipsnio 1 dalis ir 9 straipsnio 1 dalis įsigalioja nuo 2008 m. sausio 1 d.
+įstatymo 4 straipsnio 1 dalis ir 9 straipsnio 1 dalis įsigalioja nuo
+2008 m. sausio 1 d.
+ 
+27.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. X-1508,
+2008-04-18, Žin., 2008, Nr. 48-1771 (2008-04-26)
+ALKOHOLIO
+KONTROLĖS ĮSTATYMO 18, 29 IR 34 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šio
+įstatymo 2 straipsnio 2, 3 ir 4 dalys įsigalioja 2012 m. sausio 1 d.
+ 
  
 *** Pabaiga ***
  
@@ -1755,12 +1842,16 @@ Respublikos Konstitucinis Teismas, Nutarimas
 2004-01-26,
 Žin., 2004, Nr. 15-465 (2004-01-29)
 DĖL
-LIETUVOS RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO 1 STRAIPSNIO 4 DALIES (1997 M. LIEPOS 2 D. REDAKCIJA), 2 STRAIPSNIO 1 DALIES (1995 M. BALANDŽIO 18 D. REDAKCIJA), 3
-STRAIPSNIO 1 DALIES 2 PUNKTO (1995 M. BALANDŽIO 18 D. REDAKCIJA), 4 STRAIPSNIO
-2 DALIES (1998 M. GRUODŽIO 10 D. REDAKCIJA), 13 STRAIPSNIO (2000 M. LIEPOS 18 D. REDAKCIJA), 30 STRAIPSNIO 1 DALIES (1997 M. LIEPOS 2 D. REDAKCIJA) BEI 44 STRAIPSNIO 4 DALIES (2002 M. BIRŽELIO 20 D. REDAKCIJA) IR LIETUVOS RESPUBLIKOS
-VYRIAUSYBĖS 2001 M. SAUSIO 22 D. NUTARIMU NR. 67 "DĖL ALKOHOLIO PRODUKTŲ
-GAMYBOS LICENCIJAVIMO TAISYKLIŲ PATVIRTINIMO" PATVIRTINTŲ ALKOHOLIO
-PRODUKTŲ GAMYBOS LICENCIJAVIMO TAISYKLIŲ 7 BEI 9 PUNKTŲ (2001 M. SAUSIO 22 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+LIETUVOS RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO 1 STRAIPSNIO 4 DALIES (1997
+M. LIEPOS 2 D. REDAKCIJA), 2 STRAIPSNIO 1 DALIES (1995 M. BALANDŽIO 18 D.
+REDAKCIJA), 3 STRAIPSNIO 1 DALIES 2 PUNKTO (1995 M. BALANDŽIO 18 D. REDAKCIJA),
+4 STRAIPSNIO 2 DALIES (1998 M. GRUODŽIO 10 D. REDAKCIJA), 13 STRAIPSNIO (2000
+M. LIEPOS 18 D. REDAKCIJA), 30 STRAIPSNIO 1 DALIES (1997 M. LIEPOS 2 D.
+REDAKCIJA) BEI 44 STRAIPSNIO 4 DALIES (2002 M. BIRŽELIO 20 D. REDAKCIJA) IR
+LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2001 M. SAUSIO 22 D. NUTARIMU NR. 67 "DĖL
+ALKOHOLIO PRODUKTŲ GAMYBOS LICENCIJAVIMO TAISYKLIŲ PATVIRTINIMO"
+PATVIRTINTŲ ALKOHOLIO PRODUKTŲ GAMYBOS LICENCIJAVIMO TAISYKLIŲ 7 BEI 9 PUNKTŲ
+(2001 M. SAUSIO 22 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
 3.
 Lietuvos
@@ -1768,21 +1859,32 @@ Respublikos Konstitucinis Teismas, Nutarimas
 2008-01-21,
 Žin., 2008, Nr. 10-349 (2008-01-24)
 DĖL
-LIETUVOS RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO 18 STRAIPSNIO 8 DALIES (2004 M. KOVO 9 D. REDAKCIJA), 34 STRAIPSNIO 17 DALIES (2004 M. KOVO 9 D., 2006 M. BALANDŽIO 25 D. REDAKCIJOS), 41 STRAIPSNIO (2004 M. KOVO 9 D. REDAKCIJA) ATITIKTIES LIETUVOS
-RESPUBLIKOS KONSTITUCIJAI, DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2004 M. GEGUŽĖS 20 D. NUTARIMU NR. 618 "DĖL DIDMENINĖS IR MAŽMENINĖS PREKYBOS ALKOHOLIO
-PRODUKTAIS LICENCIJAVIMO TAISYKLIŲ IR MAŽMENINĖS PREKYBOS ALKOHOLINIAIS GĖRIMAIS
-PREKYBOS IR VIEŠOJO MAITINIMO ĮMONĖSE TAISYKLIŲ PATVIRTINIMO" PATVIRTINTŲ
-DIDMENINĖS IR MAŽMENINĖS PREKYBOS ALKOHOLIO PRODUKTAIS LICENCIJAVIMO TAISYKLIŲ
-28.5, 51.5 PUNKTŲ (2004 M. GEGUŽĖS 20 D. REDAKCIJA), 51 PUNKTO (2004 M. GEGUŽĖS 20 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI, LIETUVOS RESPUBLIKOS
-ALKOHOLIO KONTROLĖS ĮSTATYMO 34 STRAIPSNIO 17 DALIAI (2004 M. KOVO 9 D., 2006 M. BALANDŽIO 25 D. REDAKCIJOS), ŠIŲ TAISYKLIŲ 51 PUNKTO (2006 M. SPALIO 17 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI, LIETUVOS RESPUBLIKOS
-ALKOHOLIO KONTROLĖS ĮSTATYMO 34 STRAIPSNIO 17 DALIAI (2006 M. BALANDŽIO 25 D. REDAKCIJA), TAIP PAT ŠIŲ TAISYKLIŲ 51 PUNKTO (2007 M. GEGUŽĖS 2 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI, LIETUVOS RESPUBLIKOS
-ALKOHOLIO KONTROLĖS ĮSTATYMO 34 STRAIPSNIO 17 DALIAI (2006 M. BALANDŽIO 25 D., 2007 M. BIRŽELIO 21 D. REDAKCIJOS)
+LIETUVOS RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO 18 STRAIPSNIO 8 DALIES (2004
+M. KOVO 9 D. REDAKCIJA), 34 STRAIPSNIO 17 DALIES (2004 M. KOVO 9 D., 2006 M.
+BALANDŽIO 25 D. REDAKCIJOS), 41 STRAIPSNIO (2004 M. KOVO 9 D. REDAKCIJA)
+ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI, DĖL LIETUVOS RESPUBLIKOS
+VYRIAUSYBĖS 2004 M. GEGUŽĖS 20 D. NUTARIMU NR. 618 "DĖL DIDMENINĖS IR
+MAŽMENINĖS PREKYBOS ALKOHOLIO PRODUKTAIS LICENCIJAVIMO TAISYKLIŲ IR MAŽMENINĖS
+PREKYBOS ALKOHOLINIAIS GĖRIMAIS PREKYBOS IR VIEŠOJO MAITINIMO ĮMONĖSE TAISYKLIŲ
+PATVIRTINIMO" PATVIRTINTŲ DIDMENINĖS IR MAŽMENINĖS PREKYBOS ALKOHOLIO
+PRODUKTAIS LICENCIJAVIMO TAISYKLIŲ 28.5, 51.5 PUNKTŲ (2004 M. GEGUŽĖS 20 D.
+REDAKCIJA), 51 PUNKTO (2004 M. GEGUŽĖS 20 D. REDAKCIJA) ATITIKTIES LIETUVOS
+RESPUBLIKOS KONSTITUCIJAI, LIETUVOS RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO 34
+STRAIPSNIO 17 DALIAI (2004 M. KOVO 9 D., 2006 M. BALANDŽIO 25 D. REDAKCIJOS),
+ŠIŲ TAISYKLIŲ 51 PUNKTO (2006 M. SPALIO 17 D. REDAKCIJA) ATITIKTIES LIETUVOS
+RESPUBLIKOS KONSTITUCIJAI, LIETUVOS RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO 34
+STRAIPSNIO 17 DALIAI (2006 M. BALANDŽIO 25 D. REDAKCIJA), TAIP PAT ŠIŲ
+TAISYKLIŲ 51 PUNKTO (2007 M. GEGUŽĖS 2 D. REDAKCIJA) ATITIKTIES LIETUVOS
+RESPUBLIKOS KONSTITUCIJAI, LIETUVOS RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO 34
+STRAIPSNIO 17 DALIAI (2006 M. BALANDŽIO 25 D., 2007 M. BIRŽELIO 21 D.
+REDAKCIJOS)
+ 
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2008-01-24)
+Aušrinė Trapinskienė (2008-04-28)
                  
 autrap@lrs.lt
