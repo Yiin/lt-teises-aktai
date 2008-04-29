@@ -267,16 +267,17 @@ vadovaudamiesi šiuo Įstatymu, Vyriausybės nutarimu tvirtinamais Nelaimingų a
 darbe ir profesinių ligų socialinio draudimo išmokų nuostatais ir kitais teisės
 aktais.
  
-7 straipsnis. Nedraudiminiai įvykiai
+*7 straipsnis. Nedraudiminiai įvykiai
 1. Draudiminiais įvykiais nepripažįstami
 nelaimingi atsitikimai darbe, pakeliui į darbą ar iš darbo arba nustatytos
 profesinės ligos, kuriuos ištyrus nustatoma, kad jie neatitinka šio Įstatymo 6
 straipsnyje nustatytų sąlygų.
-2.
-Draudiminiais įvykiais taip pat nepripažįstami nelaimingi atsitikimai darbe,
-pakeliui į darbą ar iš darbo arba nustatytos ūmios profesinės ligos, kuriuos
-ištyrus nustatoma, kad jie atitinka šio Įstatymo 6 straipsnyje nustatytas
-sąlygas, tačiau jie įvykę esant bent vienai iš šių aplinkybių: 
+2. Draudiminiais
+įvykiais taip pat nepripažįstami nelaimingi atsitikimai darbe, pakeliui
+į darbą ar iš darbo arba nustatytos ūmios profesinės ligos, kuriuos
+ištyrus nustatoma, kad jie atitinka šio Įstatymo 6 straipsnyje
+nustatytas sąlygas, tačiau jie įvykę esant bent vienai iš šių aplinkybių:
+
 1) apdraustasis buvo neblaivus ar
 apsvaigęs nuo narkotinių, toksinių ar psichotropinių medžiagų ir tai nebuvo
 susiję su jam draudėjo pavesto darbo technologijos ypatybėmis; 
@@ -292,6 +293,21 @@ su darbu;
 darbdavio žinios) dirbo sau (savo interesais);
 6) prieš apdraustąjį buvo panaudotas
 smurtas, jeigu smurto aplinkybės ir motyvai nesusiję su darbu.
+Lietuvos
+Respublikos Konstitucinis Teismas, Nutarimas
+2008-04-29,
+Žin., 2008, Nr. 51-1904 (2008-04-30)
+*Pastaba: 7 straipsnio 2 dalies nuostata ta apimtimi, kuria draudiminiais
+įvykiais nepripažįstami nelaimingi atsitikimai darbe arba nustatytos ūmios
+profesinės ligos, kuriuos ištyrus nustatoma, kad jie yra įvykę apdraustajam
+esant neblaiviam arba apsvaigusiam nuo narkotinių, toksinių ar psichotropinių
+medžiagų, bet nelaimingus atsitikimus darbe arba ūmias profesines ligas lėmė ne
+jo neblaivumas arba apsvaigimas nuo narkotinių, toksinių ar psichotropinių
+medžiagų, o netinkamos, nesaugios, nesveikos darbo sąlygos, prieštarauja
+Lietuvos Respublikos Konstitucijos 48 straipsnio 1 dalies nuostatai
+„Kiekvienas žmogus <...> turi teisę turėti tinkamas, saugias ir sveikas
+darbo sąlygas, gauti <...> socialinę apsaugą nedarbo atveju“, 52
+straipsniui, konstituciniam teisinės valstybės principui
  
 8 straipsnis. Draudėjų pareigos ir atsakomybė 
 1. Draudėjai privalo:
@@ -329,11 +345,11 @@ teisę gauti informaciją iš Valstybinio socialinio draudimo fondo valdybos ir
 jos teritorinių skyrių apie šio Įstatymo nustatytų garantijų taikymą.
  
 10 straipsnis. Apdraustųjų asmenų pareigos 
-Apdraustieji asmenys turi laikytis
-darbuotojų saugos ir sveikatos teisės aktų nustatytų reikalavimų, o nukentėję
-dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba profesinės
-ligos turi nedelsdami kreiptis į sveikatos priežiūros įstaigą ir vykdyti
-gydytojo rekomendacijas.
+Apdraustieji asmenys turi laikytis darbuotojų
+saugos ir sveikatos teisės aktų nustatytų reikalavimų, o nukentėję dėl
+nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba profesinės ligos
+turi nedelsdami kreiptis į sveikatos priežiūros įstaigą ir vykdyti gydytojo
+rekomendacijas.
  
 ANTRASIS SKIRSNIS
 DRAUDIMO
@@ -342,9 +358,9 @@ IŠMOKOS
 11 straipsnis. Nelaimingų atsitikimų darbe socialinio
 draudimo išmokos
 1. Apdraustajam, dėl draudiminio įvykio,
-pripažinto pagal 6 straipsnį, netekusiam dalies ar viso darbingumo, pagal šį Įstatymą
-iš Valstybinio socialinio draudimo fondo biudžeto nelaimingų atsitikimų darbe
-socialiniam draudimui skirtų lėšų išmokama:
+pripažinto pagal 6 straipsnį, netekusiam dalies ar viso darbingumo, pagal šį
+Įstatymą iš Valstybinio socialinio draudimo fondo biudžeto nelaimingų
+atsitikimų darbe socialiniam draudimui skirtų lėšų išmokama:
 1) ligos dėl nelaimingo atsitikimo
 darbe, pakeliui į darbą ar iš darbo arba profesinės ligos pašalpa (toliau –
 ligos pašalpa);
@@ -359,8 +375,8 @@ pagal šio Įstatymo 27 straipsnį.
 įvykio, jo šeimos nariams lygiomis dalimis mokama periodinė draudimo išmoka
 pagal šio Įstatymo 26 straipsnį.
 4. Laisvės atėmimu nuteistiems asmenims
-(šio Įstatymo 4 straipsnio 5 punktas) šio straipsnio 1 dalies 2, 3 punktuose nurodytos
-išmokos mokamos paleidus juos iš bausmės atlikimo įstaigos.
+(šio Įstatymo 4 straipsnio 5 punktas) šio straipsnio 1 dalies 2, 3 punktuose
+nurodytos išmokos mokamos paleidus juos iš bausmės atlikimo įstaigos.
  
 12 straipsnis. Ligos pašalpa
 1.
@@ -371,8 +387,8 @@ draudiminiais įvykiais.
 2. Ligos pašalpa skiriama, jei teisė ją
 gauti atsirado draudimo laikotarpiu.
 3. Pagrindas skirti ligos pašalpą
-yra nustatyta tvarka išduotas nedarbingumo pažymėjimas ir draudiminį įvykį
-patvirtinantys dokumentai. 
+yra nustatyta tvarka išduotas nedarbingumo pažymėjimas ir draudiminį įvykį patvirtinantys
+dokumentai. 
  
 13 straipsnis. Kompensuojamasis uždarbis, taikomas ligos
 pašalpoms apskaičiuoti
@@ -405,8 +421,9 @@ pažymėjimu.
 3. Apdraustajam tapus laikinai
 nedarbingu dėl paūmėjusios profesinės ligos ar dėl nelaimingo atsitikimo darbe,
 pakeliui į darbą ar iš darbo pasekmių nemokamų atostogų metu arba nušalinus
-darbuotoją nuo darbo, pašalpa mokama nuo tos dienos, kurią darbuotojas turėjo pradėti
-dirbti pasibaigus nemokamų atostogų ar nušalinimo nuo darbo laikotarpiui. 
+darbuotoją nuo darbo, pašalpa mokama nuo tos dienos, kurią darbuotojas turėjo
+pradėti dirbti pasibaigus nemokamų atostogų ar nušalinimo nuo darbo
+laikotarpiui. 
  
 15 straipsnis. Ligos pašalpų dydis 
 Apdraustajam tapus laikinai nedarbingu
@@ -426,11 +443,10 @@ fondo biudžeto nelaimingų atsitikimų darbe socialiniam draudimui skirtų lė�
 Laikinai nedarbingiems dėl draudiminio
 įvykio asmenims, pažeidusiems gydytojo nustatytą gydymo režimą, paskirtu laiku
 be pateisinamos priežasties neatvykusiems pas gydytoją ar, kaip teisės aktų
-nustatyta, neatvykusiems pasitikrinti darbingumo, Valstybinio socialinio
-draudimo fondo valdybos teritorinio skyriaus sprendimu ligos pašalpa neskiriama
-arba jos mokėjimas nutraukiamas nuo pažeidimo padarymo dienos Nelaimingų
-atsitikimų darbe ir profesinių ligų socialinio draudimo išmokų nuostatų
-nustatyta tvarka.
+nustatyta, neatvykusiems pasitikrinti darbingumo, Valstybinio socialinio draudimo
+fondo valdybos teritorinio skyriaus sprendimu ligos pašalpa neskiriama arba jos
+mokėjimas nutraukiamas nuo pažeidimo padarymo dienos Nelaimingų atsitikimų
+darbe ir profesinių ligų socialinio draudimo išmokų nuostatų nustatyta tvarka.
  
 18 straipsnis. Išmokų mokėjimas mirus asmeniui, turėjusiam
 teisę jas gauti 
@@ -550,11 +566,11 @@ metus nuo laikinojo nedarbingumo pabaigos.
 2. Netekto darbingumo vienkartinė
 kompensacija skiriama, jeigu dėl jos kreipiamasi per 3 metus nuo tos dienos,
 kai VMSEK nustato darbingumo netekimą.
-3. Netekto darbingumo periodinė
-kompensacija skiriama nuo VMSEK darbingumo netekimo nustatymo dienos, jeigu dėl
-jos kreipiamasi per 3 metus nuo teisės į šią išmoką atsiradimo dienos. Jeigu
-asmuo dėl netekto darbingumo periodinės kompensacijos kreipiasi praėjus 3
-metams, išmoka už praėjusį laiką mokama už 12 mėnesių, skaičiuojant atgal nuo
+3. Netekto darbingumo periodinė kompensacija
+skiriama nuo VMSEK darbingumo netekimo nustatymo dienos, jeigu dėl jos
+kreipiamasi per 3 metus nuo teisės į šią išmoką atsiradimo dienos. Jeigu asmuo
+dėl netekto darbingumo periodinės kompensacijos kreipiasi praėjus 3 metams,
+išmoka už praėjusį laiką mokama už 12 mėnesių, skaičiuojant atgal nuo
 kreipimosi dienos.
 4. Periodinė draudimo išmoka
 apdraustajam mirus skiriama nuo teisės į draudimo išmoką atsiradimo dienos,
@@ -641,12 +657,13 @@ valstybinio socialinio draudimo įmokos, delspinigiai, baudos ir atgręžtinio
 reikalavimo tvarka iš kaltų asmenų ar jų draudimo įstaigų gautos lėšos.
 Nelaimingų atsitikimų darbe socialinio draudimo pajamų dalį gali sudaryti lėšos
 iš Valstybinio socialinio draudimo fondo biudžeto rezervo. 
-3. Nelaimingų atsitikimų darbe socialinio
-draudimo lėšos gali būti naudojamos nelaimingų atsitikimų darbe ir profesinių
-ligų prevencijai. Nelaimingų atsitikimų darbe socialinio draudimo lėšų, skirtų
-prevencijai, dydį kiekvienais metais nustato Seimas, Valstybinio socialinio
-draudimo fondo biudžeto rodiklių patvirtinimo įstatymu tvirtindamas nelaimingų
-atsitikimų darbe ir profesinių ligų socialinio draudimo įmokų tarifą.
+3. Nelaimingų atsitikimų darbe
+socialinio draudimo lėšos gali būti naudojamos nelaimingų atsitikimų darbe ir
+profesinių ligų prevencijai. Nelaimingų atsitikimų darbe socialinio draudimo
+lėšų, skirtų prevencijai, dydį kiekvienais metais nustato Seimas, Valstybinio
+socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu tvirtindamas
+nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įmokų
+tarifą.
 4. Lėšų, skirtų nelaimingų atsitikimų
 darbe ir profesinių ligų prevencijai, panaudojimo tvarką nustato Vyriausybė. 
  
@@ -706,8 +723,7 @@ Ginčai dėl šio Įstatymo taikymo sprendžiami įstatymų
 nustatyta tvarka.“
  
 2 straipsnis. Pasiūlymai Vyriausybei
-1. Vyriausybė iki 2004 m. sausio 1 d. patvirtina
-šiam Įstatymui įgyvendinti reikalingus teisės aktus.
+1. Vyriausybė iki 2004 m. sausio 1 d. patvirtina šiam Įstatymui įgyvendinti reikalingus teisės aktus.
 2. Vyriausybė ar
 jos įgaliota institucija iki 2005 m. birželio 1 d. parengia ir patvirtina
 metodiką, kuria vadovaujantis ir atsižvelgiant į traumatizmo ir profesinio
@@ -724,9 +740,8 @@ Nr. IX-2561,
 nuo 2006 m. sausio 1 d.
 3. Šio Įstatymo nuostatos taikomos
 draudiminiams įvykiams, įvykusiems šiam Įstatymui įsigaliojus, taip pat
-asmenims, kuriems profesinė liga nustatyta po 2000 m. sausio 1 d., jeigu šie
-asmenys po šios datos buvo drausti nelaimingų atsitikimų darbe ir profesinių
-ligų socialiniu draudimu.
+asmenims, kuriems profesinė liga nustatyta po 2000 m. sausio 1 d., jeigu šie asmenys po šios datos buvo drausti nelaimingų atsitikimų darbe ir
+profesinių ligų socialiniu draudimu.
 4. Asmenims, kurių teisė Nelaimingų
 atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo nustatyta
 tvarka į netekto darbingumo periodinę kompensaciją ar draudimo išmoką
@@ -742,11 +757,9 @@ išlaikytinių skaičiui, iki šio Įstatymo įsigaliojimo paskirta išmoka
 atitinkamai perskaičiuojama Nelaimingų atsitikimų darbe ir profesinių ligų
 socialinio draudimo išmokų nuostatuose nustatyta tvarka.
 5. Žala dėl nelaimingų atsitikimų darbe ir susirgimų
-profesine liga, įvykusių (atsiradusių) iki 2000 m. sausio 1 d., bei žala dėl
-profesinių ligų, nustatytų po 2000 m. sausio 1 d. asmenims, kurie nebuvo
-drausti nelaimingų atsitikimų ir profesinių ligų socialiniu draudimu, atlyginama
-Žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimo profesine liga
-laikinojo įstatymo nustatyta tvarka. 
+profesine liga, įvykusių (atsiradusių) iki 2000 m. sausio 1 d., bei žala dėl profesinių ligų, nustatytų po 2000 m. sausio 1 d. asmenims, kurie nebuvo drausti nelaimingų atsitikimų ir profesinių ligų
+socialiniu draudimu, atlyginama Žalos atlyginimo dėl nelaimingų atsitikimų
+darbe ar susirgimo profesine liga laikinojo įstatymo nustatyta tvarka. 
 6. Asmenims, turintiems teisę gauti šio
 Įstatymo nustatytas išmokas ir persikėlusiems nuolat gyventi į kitą valstybę,
 šios išmokos mokamos tarpvalstybinėse sutartyse nustatyta tvarka.
@@ -775,10 +788,27 @@ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO BEI NELAIMI
 ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO PAKEITIMO
 ĮSTATYMO PAKEITIMO ĮSTATYMAS
  
+ 
+Konstitucinio Teismo nutarimai:
+ 
+1.
+Lietuvos
+Respublikos Konstitucinis Teismas, Nutarimas
+2008-04-29,
+Žin., 2008, Nr. 51-1904 (2008-04-30)
+DĖL
+LIETUVOS RESPUBLIKOS NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO
+DRAUDIMO ĮSTATYMO 7 STRAIPSNIO 2 DALIES (2005 M. GEGUŽĖS 19 D. REDAKCIJA) NUOSTATOS IR DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2004 M. KOVO 22 D. NUTARIMU NR. 309 "DĖL NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ
+SOCIALINIO DRAUDIMO IŠMOKŲ NUOSTATŲ PATVIRTINIMO" PATVIRTINTŲ NELAIMINGŲ
+ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO IŠMOKŲ NUOSTATŲ 13
+PUNKTO (2004 M. KOVO 22 D. REDAKCIJA) NUOSTATOS ATITIKTIES LIETUVOS RESPUBLIKOS
+KONSTITUCIJAI
+ 
 ***
 Pabaiga ***
  
+ 
 Redagavo:
-Aušrinė Trapinskienė (2004-12-01)
-                 
-autrap@lrs.lt
+Aušra Bodin (2008-05-07)
+               
+  ausra.bodin@lrs.lt
