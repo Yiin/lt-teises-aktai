@@ -190,7 +190,7 @@ narys.
 4.
 Pagal šio straipsnio 3 dalį šio įstatymo 1 straipsnyje išdėstyto Teismų
 įstatymo 119 straipsnio nustatyta tvarka sudarytos Teisėjų tarybos
-įgaliojimai tęsiasi iki 2008 m. gegužės 1 d.
+įgaliojimai tęsiasi iki 2008 m. liepos 1 d.
 5.
 Teismų įstatyme vartojamą sąvoką „Teismų taryba“ pakeisti sąvoka „Teisėjų
 taryba“.
@@ -201,6 +201,8 @@ Nr. X-1211,
 2007-06-26, Žin., 2007, Nr. 72-2835 (2007-06-30)
 Nr. X-1363,
 2007-12-11, Žin., 2007, Nr. 135-5455 (2007-12-21)
+Nr. X-1515,
+2008-04-29, Žin., 2008, Nr. 51-1880 (2008-04-30)
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
@@ -220,14 +222,15 @@ Nr.
 X-985, 2006-12-14, Žin., 2006, Nr.
 141-5407 (2006-12-28)
 TEISMŲ
-ĮSTATYMO 119, 120 IR 121 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ĮSTATYMO 119, 120 IR 121 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
  
 2.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-1211,
-2007-06-26, Žin., 2007, Nr. 72-2835 (2007-06-30)
+X-1211, 2007-06-26,
+Žin., 2007, Nr. 72-2835 (2007-06-30)
 TEISMŲ
 ĮSTATYMO 119, 120 IR 121 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
@@ -236,8 +239,18 @@ TEISMŲ
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-1363,
-2007-12-11, Žin., 2007, Nr. 135-5455 (2007-12-21)
+X-1363, 2007-12-11,
+Žin., 2007, Nr. 135-5455 (2007-12-21)
+TEISMŲ
+ĮSTATYMO 119, 120 IR 121 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+ 
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-1515,
+2008-04-29, Žin., 2008, Nr. 51-1880 (2008-04-30)
 TEISMŲ
 ĮSTATYMO 119, 120 IR 121 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
@@ -247,6 +260,6 @@ Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2007-12-27)
+Aušrinė Trapinskienė (2008-04-30)
                  
 autrap@lrs.lt
