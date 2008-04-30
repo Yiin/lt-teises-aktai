@@ -1446,12 +1446,11 @@ X-611,
  
 70 straipsnis. Apygardos teismo, apygardos
 administracinio teismo teisėjo skyrimas
-1.
-Apygardos teismo, apygardos administracinio teismo teisėją iš įrašytų teisėjų
-karjeros siekiančių asmenų registre asmenų skiria Respublikos Prezidentas. 
-2.
-Dėl apygardos teismo, apygardos administracinio teismo teisėjo skyrimo
-Respublikos Prezidentui pataria Teisėjų taryba.
+1. Apygardos teismo, apygardos administracinio teismo
+teisėją iš įrašytų teisėjų karjeros siekiančių asmenų registre asmenų skiria
+Respublikos Prezidentas. 
+2. Dėl apygardos teismo, apygardos administracinio
+teismo teisėjo skyrimo Respublikos Prezidentui pataria Teisėjų taryba.
 3. Kandidatūros
 į apygardos teismo, apygardos administracinio teismo teisėjus svarstomos
 Teisėjų taryboje šio Įstatymo 56 straipsnio 3, 4, 5 ir 6 dalyse nustatyta
@@ -2369,8 +2368,7 @@ taryba, suderinusi su Lietuvos archyvų departamentu prie Lietuvos Respublikos
 Vyriausybės. Aukščiausiojo Teismo archyvo tvarkymo taisykles tvirtina
 Aukščiausiojo Teismo pirmininkas, suderinęs su Lietuvos archyvų departamentu
 prie Lietuvos Respublikos Vyriausybės.
-Straipsnio
-pakeitimai:
+ Straipsnio pakeitimai:
 Nr.
 X-611,
 2006-05-23, Žin., 2006, Nr. 60-2121 (2006-05-27)
@@ -2438,6 +2436,7 @@ pakeitimai:
 Nr.
 X-611,
 2006-05-23, Žin., 2006, Nr. 60-2121 (2006-05-27)
+ 
 115
 straipsnis. Savanoriškos teisėjų organizacijos
 Teisėjai
@@ -2702,7 +2701,8 @@ Teisėjų garbės
 teismas teisėjų drausmės bylas ir prašymus dėl teisėjo garbės gynimo nagrinėja
 vadovaudamasis šiuo Įstatymu ir Teisėjų garbės teismo nuostatais. Juos tvirtina
 Teisėjų taryba.
- 
+Straipsnio
+pakeitimai:
 Nr.
 X-611,
 2006-05-23, Žin., 2006, Nr. 60-2121 (2006-05-27)
@@ -2731,10 +2731,10 @@ teismų administracijos buveinė yra Lietuvos Respublikos sostinėje Vilniuje.
 straipsnis. Nacionalinės teismų administracijos kompetencija
 Nacionalinė teismų
 administracija:
-1) rengia
-medžiagas Visuotinio teisėjų susirinkimo ir Teisėjų tarybos posėdžiams, jų
-pavedimu atlieka tyrimus, analizes, apibendrinimus, rengia sprendimų, nutarimų
-ir kitų aktų projektus;
+1) rengia medžiagas
+Visuotinio teisėjų susirinkimo ir Teisėjų tarybos posėdžiams, jų pavedimu
+atlieka tyrimus, analizes, apibendrinimus, rengia sprendimų, nutarimų ir kitų
+aktų projektus;
 2)
 techniškai aptarnauja teismų savivaldos institucijas;
 3) renka
@@ -2782,8 +2782,8 @@ MATERIALINIS TECHNINIS APRŪPINIMAS
 Teismų sistemos finansavimas
 Teismai
 finansuojami iš valstybės biudžeto. Kiekvienas teismas turi savo atskirą
-išlaidų sąmatą. Įstatymų numatytais atvejais teismų sistema gali būti finansuojama
-iš kitų valstybės finansinių šaltinių.
+išlaidų sąmatą. Įstatymų numatytais atvejais teismų sistema gali būti
+finansuojama iš kitų valstybės finansinių šaltinių.
  
 127
 straipsnis. Biudžeto projektų parengimas ir svarstymas
@@ -2993,8 +2993,8 @@ Nr.
 VIII-912,
 98.10.22, Žin., 1998, Nr.95-2636 (98.10.30)
 LIETUVOS
-RESPUBLIKOS TEISMŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMO ĮSIGALIOJIMO
-ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+RESPUBLIKOS TEISMŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMO ĮSIGALIOJIMO ĮSTATYMO
+6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 14.
 Lietuvos
@@ -3154,8 +3154,7 @@ TEISMŲ
 ĮSTATYMO, ADMINISTRACINIŲ BYLŲ TEISENOS ĮSTATYMO, CIVILINIO PROCESO KODEKSO,
 BAUDŽIAMOJO PROCESO KODEKSO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis
-Įstatymas įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą
-dienos.
+Įstatymas įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos.
  
 30.
 Lietuvos
@@ -3195,9 +3194,9 @@ narius, kurie yra teisėjai, įgaliojimai nutrūksta.
 2.
 Įsigaliojus šiam įstatymui, Teismų tarybos nariai teisėjai laikinai tampa
 Teisėjų tarybos nariais. Pirmąjį šios tarybos posėdį ne vėliau kaip per
-septynias dienas sušaukia ir jam pirmininkauja vyriausias pagal amžių šios
-teisėjų tarybos narys teisėjas. Šiame posėdyje ne mažesne kaip pusės visų
-Teisėjų tarybos narių balsų dauguma išrenkamas Teisėjų tarybos pirmininkas, jo
+septynias dienas sušaukia ir jam pirmininkauja vyriausias pagal amžių šios teisėjų
+tarybos narys teisėjas. Šiame posėdyje ne mažesne kaip pusės visų Teisėjų
+tarybos narių balsų dauguma išrenkamas Teisėjų tarybos pirmininkas, jo
 pavaduotojas ir sekretorius. Šios teisėjų tarybos įgaliojimai tęsiasi, kol šio
 įstatymo nustatyta tvarka bus sudaryta nauja Teisėjų taryba. 
 3. Šio straipsnio 2 dalyje
@@ -3216,7 +3215,8 @@ Pagal šio straipsnio 3 dalį šio įstatymo 1 straipsnyje išdėstyto Teismų
 įstatymo 119 straipsnio nustatyta tvarka sudarytos Teisėjų tarybos
 įgaliojimai tęsiasi iki 2006 m. gruodžio 31 d.
 5.
-Teismų įstatyme vartojamą sąvoką „Teismų taryba“ pakeisti sąvoka „Teisėjų taryba“.
+Teismų įstatyme vartojamą sąvoką „Teismų taryba“ pakeisti sąvoka „Teisėjų
+taryba“.
 Teisėjų tarybos įgaliojimai
 pratęsti iki 2007 m. liepos 1 d. šiuo Įstatymu :
 Lietuvos Respublikos Seimas,
@@ -3241,6 +3241,14 @@ Nr. X-1363,
 2007-12-11, Žin., 2007, Nr. 135-5455 (2007-12-21)
 TEISMŲ ĮSTATYMO 119, 120 IR 121
 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Teisėjų tarybos įgaliojimai
+pratęsti iki 2008 m. liepos 1 d. šiuo Įstatymu :
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. X-1515,
+2008-04-29, Žin., 2008, Nr. 51-1880 (2008-04-30)
+TEISMŲ ĮSTATYMO 119, 120 IR 121
+STRAIPSNIŲ PAKEITIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 34.
 Lietuvos
@@ -3261,11 +3269,10 @@ Iki šio įstatymo
 įsigaliojimo Respublikos Prezidento paskirti teismų pirmininkai, pirmininkų
 pavaduotojai ir skyrių pirmininkai eina pareigas iki kadencijos, kuriai buvo
 paskirti, pabaigos. 
-Jei teismų
-pirmininkai, pirmininkų pavaduotojai ir skyrių pirmininkai iki šio įstatymo
-įsigaliojimo ėjo pareigas kadencijos trukmės ar ilgesnį laikotarpį, šis
-laikotarpis prilyginamas pirmajai jų kadencijai tame pačiame teisme einant tas
-pačias pareigas. 
+Jei teismų pirmininkai,
+pirmininkų pavaduotojai ir skyrių pirmininkai iki šio įstatymo įsigaliojimo ėjo
+pareigas kadencijos trukmės ar ilgesnį laikotarpį, šis laikotarpis prilyginamas
+pirmajai jų kadencijai tame pačiame teisme einant tas pačias pareigas. 
  
  
 ***Pabaiga***
@@ -3311,6 +3318,6 @@ Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2007-12-27)
+Aušrinė Trapinskienė (2008-04-30)
                  
 autrap@lrs.lt
