@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BAEF9ECD886E"
 
 # Lietuvos Respublikos ginklų fondo prie Lietuvos Respublikos vidaus reikalų ministerijos įstatymas
 
-Suvestinė redakcija nuo 2005-05-28 iki 2008-06-02
+Suvestinė redakcija nuo 2008-06-03 iki 2010-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1717, i. k. 0961010ISTA00I-1485
  
@@ -105,6 +105,13 @@ Ginklų fondo uždaviniai – aprūpinti valstybės institucijas ir juridinius a
 3) importuoti (įvežti) į Lietuvos Respubliką, eksportuoti (išvežti) iš jos visų kategorijų ginklus, šaudmenis, ginklų ir šaudmenų dalis, sprogmenis, specialiąsias priemones;
 
 4) kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas teises.
+
+51 straipsnis. Pareiga teikti informaciją
+
+Ginklų fondo motyvuotu prašymu valstybės ar savivaldybių institucijos, registrai ar kiti juridiniai asmenys privalo Ginklų fondui neatlygintinai teikti duomenis, būtinus jo uždaviniams ir funkcijoms įgyvendinti.
+
+Papildyta straipsniu:
+Nr. X-1550, 2008-05-20, Žin., 2008, Nr. 63-2386 (2008-06-03), i. k. 1081010ISTA00X-1550
  
 
 TREČIASIS SKIRSNIS
@@ -169,4 +176,9 @@ Lietuvos Respublikos ginklų fondo įstatymo pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-184, 2005-05-12, Žin., 2005, Nr. 67-2396 (2005-05-28), i. k. 1051010ISTA000X-184
 Lietuvos Respublikos ginklų fondo įstatymo pavadinimo, 1 ir 2 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1550, 2008-05-20, Žin., 2008, Nr. 63-2386 (2008-06-03), i. k. 1081010ISTA00X-1550
+Lietuvos Respublikos ginklų fondo prie Lietuvos Respublikos Vyriausybės įstatymo papildymo 5(1) straipsniu įstatymas
 
