@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9CBB77180BFE"
 
 # Lietuvos Respublikos priešgaisrinės saugos įstatymas
 
+Suvestinė redakcija nuo 2008-06-21 iki 2010-02-28
+ 
+Įstatymas paskelbtas: Žin. 2002, Nr. 123-5518, i. k. 1021010ISTA0IX-1225
+ 
+ 
 LIETUVOS RESPUBLIKOS
 PRIEŠGAISRINĖS SAUGOS
 Į S T A T Y M A S
@@ -247,7 +252,10 @@ Priešgaisrinės apsaugos ir gelbėjimo departamentas, įgyvendindamas šį Įst
 
 
 
-4) tvirtina įmonių, įstaigų ir organizacijų vadovų priešgaisrinės saugos mokymo programas bei mokymo tvarką;
+4) tvirtina įmonių, įstaigų ir organizacijų vadovų ir atsakingų asmenų, kuriems pavesta kontroliuoti objekto priešgaisrinę būklę ir imtis priemonių priešgaisrinės saugos reikalavimams vykdyti, priešgaisrinės saugos mokymo programas ir mokymo tvarką;
+Straipsnio punkto pakeitimai:
+Nr. X-1575, 2008-06-05, Žin., 2008, Nr. 71-2704 (2008-06-21), i. k. 1081010ISTA00X-1575
+ 
 
 
 
@@ -561,12 +569,18 @@ PRIEŠGAISRINĖS SAUGOS SRITYJE
 
 
 
-4. Įmonėse, įstaigose ir organizacijose už objekto priešgaisrinę būklę asmeniškai atsakingi yra jų vadovai. Atlikdamas šią pareigą, vadovas privalo imtis būtinų objekto bei jame esančių arba galinčių būti žmonių apsaugos nuo gaisro priemonių.
+4. Įmonėse, įstaigose ir organizacijose už objekto priešgaisrinę būklę yra atsakingi jų vadovai. Atlikdamas šią pareigą, vadovas privalo imtis būtinų objekto bei jame esančių arba galinčių būti žmonių apsaugos nuo gaisro priemonių. Įmonės, įstaigos ir organizacijos vadovas gali priešgaisrinę saugą reglamentuojančių teisės aktų reikalavimų vykdymą pavesti jo vadovaujamos įmonės, įstaigos ar organizacijos darbuotojui. 
+Straipsnio dalies pakeitimai:
+Nr. X-1575, 2008-06-05, Žin., 2008, Nr. 71-2704 (2008-06-21), i. k. 1081010ISTA00X-1575
+ 
 
 
 
 
-5. Įmonės, įstaigos ir organizacijos, kurių sąrašą pagal vidaus reikalų ministro patvirtintus kriterijus nustato Priešgaisrinės apsaugos ir gelbėjimo departamento direktorius, vadovas turi baigti priešgaisrinės saugos mokymo programos kursą.
+5. Priešgaisrinės saugos mokymo programos kursą turi baigti įmonės, įstaigos, organizacijos, kurių sąrašą pagal vidaus reikalų ministro patvirtintus kriterijus nustato Priešgaisrinės saugos ir gelbėjimo departamento direktorius, vadovas arba tokios įmonės, įstaigos, organizacijos darbuotojas, kuriam jos vadovas paveda vykdyti priešgaisrinę saugą reglamentuojančių teisės aktų reikalavimus. 
+Straipsnio dalies pakeitimai:
+Nr. X-1575, 2008-06-05, Žin., 2008, Nr. 71-2704 (2008-06-21), i. k. 1081010ISTA00X-1575
+ 
 
 
 
@@ -923,3 +937,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1575, 2008-06-05, Žin., 2008, Nr. 71-2704 (2008-06-21), i. k. 1081010ISTA00X-1575
+Lietuvos Respublikos priešgaisrinės saugos įstatymo 7 ir 11 straipsnių pakeitimo įstatymas
