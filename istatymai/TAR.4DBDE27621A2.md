@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4DBDE27621A2"
 
 # Lietuvos Respublikos korupcijos prevencijos įstatymas
 
-Suvestinė redakcija nuo 2003-05-01 iki 2008-06-20
+Suvestinė redakcija nuo 2008-06-21 iki 2011-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 57-2297, i. k. 1021010ISTA00IX-904
  
@@ -182,7 +182,10 @@ Korupcijos prevencijos priemonės yra šios:
 
 
 
-3) teisės aktų ar jų projektų antikorupcinis vertinimas;
+3) teisės aktuose įtvirtinto ar teisės aktų projektais numatomo teisinio reguliavimo poveikio korupcijos mastui vertinimas (teisės aktų ar jų projektų antikorupcinis vertinimas);
+Straipsnio punkto pakeitimai:
+Nr. X-1571, 2008-06-05, Žin., 2008, Nr. 71-2700 (2008-06-21), i. k. 1081010ISTA00X-1571
+ 
 
 
 
@@ -383,20 +386,117 @@ Nr. IX-1483, 2003-04-03, Žin., 2003, Nr. 38-1728 (2003-04-24), i. k. 1031010IST
 8 straipsnis. Teisės aktų ar jų projektų antikorupcinis vertinimas
 
 
-1. Teisės aktą, reglamentuojantį visuomeninius santykius, kuriuose yra didelė korupcijos pasireiškimo tikimybė, rengianti ar priimanti valstybės ar savivaldybės įstaiga privalo atlikti teisės akto projekto antikorupcinį vertinimą ir išnagrinėti kitų valstybės ar savivaldybių įstaigų atliktą teisės akto projekto antikorupcinį vertinimą.
+1. Teisės akto projekto rengėjas atlieka teisės akto projekto antikorupcinį vertinimą, jeigu rengiamame teisės akte numatoma reguliuoti visuomeninius santykius, susijusius su:
+
+
+1) valstybės ar savivaldybių turto patikėjimo teisės perleidimu, valstybės ar savivaldybių turto nuosavybės ar valdymo teisės perleidimu privatiems asmenims;
 
 
 
 
-2. Galiojančių teisės aktų antikorupcinis vertinimas atliekamas atsižvelgiant į jų taikymo praktiką ir pateikiamas juos priėmusiai ar jų priėmimą inicijavusiai valstybės ar savivaldybės įstaigai. Ši įstaiga nusprendžia, ar tikslinga tobulinti teisės aktą. 
+2) valstybės ar savivaldybių biudžetų pajamų ar išlaidų didinimu ar mažinimu dėl valstybės ar savivaldybių funkcijų vykdymo perdavimo valstybės ar savivaldybių įmonėms, viešosioms įstaigoms ar privatiems asmenims;
 
 
 
 
-3. Teisės aktų bei jų projektų antikorupcinį vertinimą Specialiųjų tyrimų tarnyba atlieka savo iniciatyva arba Respublikos Prezidento, Seimo Pirmininko, Ministro Pirmininko, Seimo komiteto, komisijos, frakcijos ar ministro siūlymu.
+3) subsidijų, dotacijų, kompensacijų, rentų, pašalpų, premijų ir kitų išmokų mokėjimu iš valstybės ar savivaldybių biudžetų;
+
+
+
+
+4) Europos Sąjungos struktūrinių fondų paramos teikimu;
+
+
+
+
+5) prekių ar paslaugų viešaisiais pirkimais ar koncesijos suteikimu;
+
+
+
+
+6) pilietybės teikimu išimties tvarka;
+
+
+
+
+7) konkursų eiti asmens, dirbančio valstybinėje tarnyboje, pareigas organizavimu, reputacijos, kvalifikacijos, atestacijos ir rotacijos reikalavimų asmenims, dirbantiems valstybinėje tarnyboje, nustatymu, panaikinimu ar pakeitimu;
+
+
+
+
+8) asmenų ar daiktų registravimu viešuose registruose;
+
+
+
+
+9) vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų technologinės apsaugos priemonių nustatymu, leidyba bei technologinės apsaugos lygiui ir grupei priskirtų vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamyba;
+
+
+
+
+10) išimtų iš apyvartos ar ribotai esančių apyvartoje daiktų gamyba, laikymu ir prekyba;
+
+
+
+
+11) prekių ar paslaugų, teikiamų pagal viešąsias sutartis, teikimu;
+
+
+
+
+12) produktų saugos reikalavimų nustatymu, panaikinimu ar pakeitimu;
+
+
+
+
+13) licencijuojamos ūkinės komercinės veiklos ar ūkinės komercinės veiklos, kuriai vykdyti reikalingas valstybės ar savivaldybės institucijų leidimas, subjektų kvalifikacijos ir dalykinės reputacijos reikalavimų nustatymu, panaikinimu ar pakeitimu;
+
+
+
+
+14) akcizais apmokestinamų prekių gamyba, saugojimu, naudojimu, įsigijimu ir prekyba;
+
+
+
+
+15) teisės pažeidimų tyrimu, atsakomybės už teisės pažeidimus sąlygomis;
+
+
+
+
+16) žemėtvarka, teritorijų planavimu, statyba;
+
+
+
+
+17) farmacija ir medicina;
+
+
+
+
+18) kitais atvejais, jeigu, teisės akto projekto rengėjo nuomone, rengiamu teisės aktu numatomas teisinis reguliavimas gali paveikti korupcijos mastą.
+
+
+
+
+
+
+2. Galiojančių teisės aktų ir jų projektų, kuriais numatoma reguliuoti visuomeninius santykius, nurodytus šio straipsnio 1 dalyje, antikorupcinį vertinimą atlieka Specialiųjų tyrimų tarnyba savo iniciatyva arba Respublikos Prezidento, Seimo Pirmininko, Ministro Pirmininko, Seimo komiteto, komisijos, frakcijos teikimu.
+
+
+
+
+3. Atliekant teisės aktų ar jų projektų antikorupcinį vertinimą, gali būti pasitelktos valstybės institucijos ir (ar) mokslo įstaigos.
+
+
+
+
+4. Teisės aktų ar jų projektų antikorupcinis vertinimas (antikorupcinio vertinimo išvada) pateikiamas teisės aktą priėmusiai, jų priėmimą inicijavusiai valstybės ar savivaldybės institucijai arba teisės akto projekto rengėjui, kurie sprendžia, ar tikslinga juos tobulinti. 
+
+
+Straipsnio pakeitimai:
+Nr. X-1571, 2008-06-05, Žin., 2008, Nr. 71-2700 (2008-06-21), i. k. 1081010ISTA00X-1571
  
-
-
 
 
 
@@ -782,3 +882,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1483, 2003-04-03, Žin., 2003, Nr. 38-1728 (2003-04-24), i. k. 1031010ISTA0IX-1483
 Lietuvos Respublikos korupcijos prevencijos įstatymo 2, 3, 6, 11 ir 16 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1571, 2008-06-05, Žin., 2008, Nr. 71-2700 (2008-06-21), i. k. 1081010ISTA00X-1571
+Lietuvos Respublikos korupcijos prevencijos įstatymo 5 ir 8 straipsnių pakeitimo įstatymas
