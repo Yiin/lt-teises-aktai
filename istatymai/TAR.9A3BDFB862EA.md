@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9A3BDFB862EA"
 
 # Lietuvos Respublikos hipotekinių obligacijų ir hipotekinio kreditavimo įstatymas
 
+Suvestinė redakcija nuo 2008-06-21 iki 2011-12-31
+ 
+Įstatymas paskelbtas: Žin. 2003, Nr. 97-4317, i. k. 1031010ISTA0IX-1746
+ 
+ 
 LIETUVOS RESPUBLIKOS
 HIPOTEKINIŲ OBLIGACIJŲ IR HIPOTEKINIO KREDITAVIMO
 Į S T A T Y M A S
@@ -53,7 +58,10 @@ Hipotekinės obligacijos
 
 3 straipsnis. Hipotekinių obligacijų emisijos sąlygos
 
-1. Hipotekinės obligacijos leidžiamos vadovaujantis Vertybinių popierių rinkos įstatymu, Akcinių bendrovių įstatymu, taip pat kitais teisės aktais, jei šis Įstatymas nenustato ko kita.
+1. Hipotekinės obligacijos leidžiamos vadovaujantis Vertybinių popierių įstatymu, Akcinių bendrovių įstatymu, taip pat kitais teisės aktais, jei šis Įstatymas nenustato ko kita.
+Straipsnio dalies pakeitimai:
+Nr. X-1584, 2008-06-05, Žin., 2008, Nr. 71-2710 (2008-06-21), i. k. 1081010ISTA00X-1584
+ 
 
 2. Kredito įstaigoms, kurių juridinė organizavimo forma yra uždarosios akcinės bendrovės, hipotekines obligacijas leisti draudžiama. 
 
@@ -182,4 +190,13 @@ Pasiūlyti Lietuvos bankui ir Lietuvos Respublikos vertybinių popierių komisij
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
 RESPUBLIKOS PREZIDENTAS                                                                   ROLANDAS PAKSAS
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1584, 2008-06-05, Žin., 2008, Nr. 71-2710 (2008-06-21), i. k. 1081010ISTA00X-1584
+Lietuvos Respublikos hipotekinių obligacijų ir hipotekinio kreditavimo įstatymo 3 straipsnio pakeitimo įstatymas
 
