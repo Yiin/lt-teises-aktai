@@ -63,8 +63,9 @@ Nr. IX-1140,
 straipsnis. Užsienio valiutos keitimas ir naudojimas
 Litus į užsienio
 valiutą, užsienio valiutą į litus ar vieną užsienio valiutą į kitą užsienio
-valiutą keičia (perka, parduoda) tik kredito įstaigos, turinčios tokiai veiklai
-įstatymų nustatyta tvarka išduotus leidimus (licencijas).
+valiutą keičia (perka, parduoda) kredito įstaigos, turinčios tokiai veiklai
+įstatymų nustatyta tvarka išduotus leidimus (licencijas), ir finansų maklerio
+įmonės, kai tai yra susiję su investicinių paslaugų teikimu.
 Lietuvos bankas
 gali nustatyti užsienio valiutos keitimo (pirkimo, pardavimo) tvarką.
 Užsienio valiuta
@@ -98,6 +99,8 @@ Nr. IX-1140,
 Nr.
 IX-2273,
 2004-06-15, Žin., 2004, Nr. 98-3629 (2004-06-24)
+Nr. X-1590,
+2008-06-05, Žin., 2008, Nr. 71-2716 (2008-06-21)
  
 4
 straipsnis. Užsienio paskolos
@@ -162,17 +165,15 @@ straipsnis. Baigiamieji nuostatai
             Visų nuosavybės formų
 įmonės, įstaigos, organizacijos, bankai, draudimo organizacijos perrašo į litus
 įstatinio kapitalo dalį, turimą užsienio valiuta, taip pat akcijas, dividendus,
-tantjemas, draudimo atlyginimą, draudimo sumas ir kitas išmokas 1993 m.
-rugpjūčio 1 dienos duomenimis pagal Lietuvos banko nustatytą oficialų kursą
-arba kita Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+tantjemas, draudimo atlyginimą, draudimo sumas ir kitas išmokas 1993 m. rugpjūčio 1 dienos duomenimis pagal Lietuvos banko nustatytą oficialų kursą arba kita
+Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 Straipsnio pakeitimai:
 Nr. IX-1140,
 2002-10-22, Žin., 2002, Nr. 105-4687 (2002-11-06)
  
             9
 straipsnis. Įstatymo įsigaliojimas
-            Įstatymas įsigalioja 1993 m.
-rugpjūčio 1 dieną.
+            Įstatymas įsigalioja 1993 m. rugpjūčio 1 dieną.
  
             Skelbiu šį Lietuvos
 Respublikos Seimo priimtą įstatymą. 
@@ -220,8 +221,8 @@ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-VIII-552, 97.12.02,
-Žin., 1997, Nr.114-2871 (97.12.12)
+VIII-552,
+97.12.02, Žin., 1997, Nr.114-2871 (97.12.12)
 LIETUVOS
 RESPUBLIKOS UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 2, 3, 6 STRAIPSNIŲ
 PAPILDYMO IR PAKEITIMO ĮSTATYMAS 
@@ -268,17 +269,27 @@ STRAIPSNIO 2 DALIES PRIPAŽINIMO NETEKUSIA GALIOS ĮSTATYMAS
 9.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-2273,
+Nr.
+IX-2273,
 2004-06-15, Žin., 2004, Nr. 98-3629 (2004-06-24)
 UŽSIENIO
 VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 3 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+ 
+10.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-1590,
+2008-06-05, Žin., 2008, Nr. 71-2716 (2008-06-21)
+UŽSIENIO
+VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušra Bodin (2004-06-25)
+Aušrinė Trapinskienė (2008-06-27)
                  
-aubodi@lrs.lt
+autrap@lrs.lt
 
