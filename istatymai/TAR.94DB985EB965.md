@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.94DB985EB965"
 
 # Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymas
 
-Suvestinė redakcija nuo 2007-10-01 iki 2008-06-20
+Suvestinė redakcija nuo 2008-06-21 iki 2008-11-24
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 20-488, i. k. 0931010ISTA000I-164
  
@@ -63,7 +63,10 @@ Lietuvos valstybė palaiko kooperatinį judėjimą, pripažįsta kooperatinių b
 
 
 
-3. Pajaus vardinis dokumentas – dokumentas, patvirtinantis asmens dalyvavimą sudarant kooperatinės bendrovės kapitalą ir šio Įstatymo nustatytus kooperatinės bendrovės įsipareigojimus kooperatinės bendrovės nariui. Kooperatinės bendrovės pajams Vertybinių popierių rinkos įstatymas netaikomas.
+3. Pajaus vardinis dokumentas – dokumentas, patvirtinantis asmens dalyvavimą sudarant kooperatinės bendrovės kapitalą ir šio Įstatymo nustatytus kooperatinės bendrovės įsipareigojimus kooperatinės bendrovės nariui. Kooperatinės bendrovės pajams Vertybinių popierių įstatymas netaikomas.
+Straipsnio dalies pakeitimai:
+Nr. X-1586, 2008-06-05, Žin., 2008, Nr. 71-2712 (2008-06-21), i. k. 1081010ISTA00X-1586
+ 
 
 
 
@@ -1519,3 +1522,8 @@ Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo papildymo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1154, 2007-05-24, Žin., 2007, Nr. 64-2458 (2007-06-09), i. k. 1071010ISTA00X-1154
 Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 3-1, 10, 11 ir 13 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1586, 2008-06-05, Žin., 2008, Nr. 71-2712 (2008-06-21), i. k. 1081010ISTA00X-1586
+Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 2 straipsnio pakeitimo įstatymas
