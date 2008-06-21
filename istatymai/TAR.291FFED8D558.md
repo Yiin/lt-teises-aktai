@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.291FFED8D558"
 
 # Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymas
 
-Suvestinė redakcija nuo 2008-03-01 iki 2008-06-20
+Suvestinė redakcija nuo 2008-06-21 iki 2011-06-29
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 61-2183, i. k. 1041010ISTA0IX-2127
  
@@ -143,7 +143,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-14. Finansų maklerio įmonė – kaip ši sąvoka apibrėžta Lietuvos Respublikos vertybinių popierių rinkos įstatyme ar kitos Europos Sąjungos valstybės narės įmonė, atitinkanti tos valstybės teisės aktuose nustatytą finansų maklerio įmonės apibrėžimą.
+14. Finansų maklerio įmonė – kaip ši sąvoka apibrėžta Lietuvos Respublikos finansinių priemonių rinkų įstatyme ar kitos Europos Sąjungos valstybės narės įmonė, atitinkanti tos valstybės teisės aktuose nustatytą finansų maklerio įmonės apibrėžimą. 
+Straipsnio dalies pakeitimai:
+Nr. X-1583, 2008-06-05, Žin., 2008, Nr. 71-2709 (2008-06-21), i. k. 1081010ISTA00X-1583
+ 
 
 
 
@@ -213,7 +216,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-26. Tarpininkas – atsiskaitymų tarpininkas arba vertybinių popierių viešosios apyvartos tarpininkas, kaip ši sąvoka apibrėžta Lietuvos Respublikos vertybinių popierių rinkos įstatyme, ar kitos Europos Sąjungos valstybės narės atsiskaitymų tarpininkas arba vertybinių popierių viešosios apyvartos tarpininkas, atitinkantis tos valstybės teisės aktuose nustatytą tarpininko apibrėžimą.
+26. Tarpininkas – atsiskaitymų tarpininkas arba vertybinių popierių viešosios apyvartos tarpininkas, kaip ši sąvoka apibrėžta Lietuvos Respublikos vertybinių popierių įstatyme, ar kitos Europos Sąjungos valstybės narės atsiskaitymų tarpininkas arba vertybinių popierių viešosios apyvartos tarpininkas, atitinkantis tos valstybės teisės aktuose nustatytą tarpininko apibrėžimą.
+Straipsnio dalies pakeitimai:
+Nr. X-1583, 2008-06-05, Žin., 2008, Nr. 71-2709 (2008-06-21), i. k. 1081010ISTA00X-1583
  
 
 
@@ -760,3 +765,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1309, 2007-10-25, Žin., 2007, Nr. 117-4778 (2007-11-15), i. k. 1071010ISTA00X-1309
 Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymo 3 straipsnio papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1583, 2008-06-05, Žin., 2008, Nr. 71-2709 (2008-06-21), i. k. 1081010ISTA00X-1583
+Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymo 2 straipsnio pakeitimo įstatymas
