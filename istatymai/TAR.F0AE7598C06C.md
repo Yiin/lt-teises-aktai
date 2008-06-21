@@ -60,7 +60,7 @@ savivaldybės įmonių įstatymo nuostatos, jei šis įstatymas nenustato kitaip
 Straipsnio
 pakeitimai:
 Nr. VIII-1293,
-1999.07.07, Žin., 1999, Nr.66-2116 (1999.07.30)
+1999.07.07, Žin., 1999, Nr. 66-2116 (1999.07.30)
 Nr.
 IX-2366,
 2004-07-15, Žin., 2004, Nr. 120-4429 (2004-08-03)
@@ -121,15 +121,15 @@ nutarimų nustatytas funkcijas ir teikti Turto fondo įstatuose
 nustatytas paslaugas.
 2. Akcijas ar kitą valdomą, naudojamą ir
 disponuojamą turtą, kuris nesudaro įmonės savininko kapitalo arba pagal
-įstatymus nėra priskiriamas turtui, kuris gali būti tik valstybės nuosavybė, Turto
-fondas gali perduoti nuosavybėn kitiems fiziniams ar juridiniams asmenims pagal
-Valstybės ir savivaldybių turto privatizavimo įstatymą, Vertybinių popierių
-rinkos įstatymą ar Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą
+įstatymus nėra priskiriamas turtui, kuris gali būti tik valstybės nuosavybė,
+Turto fondas gali perduoti nuosavybėn kitiems fiziniams ar juridiniams asmenims
+pagal Valstybės ir savivaldybių turto privatizavimo įstatymą, Vertybinių
+popierių įstatymą ar Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą
 atkūrimo įstatymą.
 Straipsnio
 pakeitimai:
 Nr. VIII-1293,
-1999.07.07, Žin., 1999, Nr.66-2116 (1999.07.30)
+1999.07.07, Žin., 1999, Nr. 66-2116 (1999.07.30)
 Nr.
 IX-659,
 2001-12-17, Žin., 2001, Nr. 112-4078 (2001-12-30)
@@ -141,6 +141,8 @@ IX-2366,
 2004-07-15, Žin., 2004, Nr. 120-4429 (2004-08-03)
 Nr. X-820, 2006-09-21,
 Žin., 2006, Nr. 108-4090 (2006-10-11)
+Nr. X-1591,
+2008-06-05, Žin., 2008, Nr. 71-2717 (2008-06-21)
  
 6 straipsnis.
 Turto fondo valdymas
@@ -176,10 +178,10 @@ kainas ir tarifus;
 10) vadovaudamasi Vyriausybės nutarimais
 parengia ir tvirtina Turto fondo vadovo, jo pavaduotojų ir vyriausiojo
 buhalterio darbo užmokesčio nustatymo ir skatinimo taisykles;
-11) nustato Turto fondo metinių atskaitymų
-į privalomąjį rezervą dydį;
-12) tvirtina Turto fondo darbuotojų
-užmokesčio nustatymo ir skatinimo taisykles;
+11) nustato Turto fondo metinių
+atskaitymų į privalomąjį rezervą dydį;
+12) tvirtina Turto fondo darbuotojų užmokesčio
+nustatymo ir skatinimo taisykles;
 13) atlieka kitas Valstybės ir
 savivaldybės įmonių įstatyme ir Turto fondo įstatuose valdybos kompetencijai
 priskirtas funkcijas.
@@ -198,7 +200,7 @@ išskyrus atvejus, kai į šias pareigas jie išrinkti Turto fondo siūlymu.
 Straipsnio
 pakeitimai:
 Nr. VIII-1293,
-1999.07.07, Žin., 1999, Nr.66-2116 (1999.07.30)
+1999.07.07, Žin., 1999, Nr. 66-2116 (1999.07.30)
 Nr.
 IX-2366,
 2004-07-15, Žin., 2004, Nr. 120-4429 (2004-08-03)
@@ -241,9 +243,8 @@ neatlygintiną paramą.
 4. Turto fondo lėšos naudojamos:
 1) atstovavimo valstybės interesams
 akcinėse bendrovėse ir uždarosiose akcinėse bendrovėse išlaidoms apmokėti;
-2) Turto fondo veiklai reikalingų
-paslaugų, prekių bei įrenginių įsigijimo išlaidoms ir atliktiems darbams
-apmokėti; 
+2) Turto fondo veiklai reikalingų paslaugų,
+prekių bei įrenginių įsigijimo išlaidoms ir atliktiems darbams apmokėti; 
 3) Turto fondo rezervui, kuris skiriamas
 šio įstatymo 9 straipsnio 1 dalyje nurodytoms išlaidoms apmokėti, sukaupti;
 4) išlaidoms ekspertams, pasitelktiems
@@ -251,12 +252,11 @@ apmokėti;
 5) Turto fondo darbuotojų darbo
 užmokesčiui;
 6) Turto fondo darbuotojams skatinti.
-5. (Neteko galios nuo 2006 m. spalio 11
-d.)
+5. (Neteko galios nuo 2006 m. spalio 11 d.)
 Straipsnio
 pakeitimai:
 Nr. VIII-1293,
-1999.07.07, Žin., 1999, Nr.66-2116 (1999.07.30)
+1999.07.07, Žin., 1999, Nr. 66-2116 (1999.07.30)
 Nr.
 IX-2366,
 2004-07-15, Žin., 2004, Nr. 120-4429 (2004-08-03)
@@ -290,14 +290,14 @@ išieškoti.
 Straipsnio
 pakeitimai:
 Nr. VIII-1293,
-1999.07.07, Žin., 1999, Nr.66-2116 (1999.07.30)
+1999.07.07, Žin., 1999, Nr. 66-2116 (1999.07.30)
  
 10 straipsnis. (Neteko galios
 nuo 2006 m. spalio 11 d.)
 Straipsnio
 pakeitimai:
 Nr. VIII-1293,
-1999.07.07, Žin., 1999, Nr.66-2116 (1999.07.30)
+1999.07.07, Žin., 1999, Nr. 66-2116 (1999.07.30)
 Nr. X-820, 2006-09-21,
 Žin., 2006, Nr. 108-4090 (2006-10-11)
  
@@ -335,12 +335,11 @@ neperduodamos.
  
 14 straipsnis.
 Įstatymo įgyvendinimas
-Pasiūlyti Vyriausybei iki 1998 m. sausio
-1 d. parengti ir priimti teisės aktus, kurių reikia šiam įstatymui įgyvendinti.
- 
+Pasiūlyti Vyriausybei iki 1998 m. sausio 1 d. parengti ir priimti teisės aktus, kurių reikia šiam įstatymui įgyvendinti.
  
 Skelbiu šį Lietuvos Respublikos Seimo
 priimtą įstatymą.
+ 
  
  
 RESPUBLIKOS PREZIDENTAS                                                     ALGIRDAS
@@ -353,11 +352,11 @@ Pakeitimai:
 1.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. VIII-1293,
-1999.07.07, Žin., 1999, Nr.66-2116 (1999.07.30)
+Nr. VIII-1293, 1999.07.07,
+Žin., 1999, Nr. 66-2116 (1999.07.30)
 LIETUVOS
-RESPUBLIKOS VALSTYBĖS TURTO FONDO ĮSTATYMO 3, 5, 6, 8, 9, 10 STRAIPSNIŲ PAKEITIMO
-IR PAPILDYMO ĮSTATYMAS
+RESPUBLIKOS VALSTYBĖS TURTO FONDO ĮSTATYMO 3, 5, 6, 8, 9, 10 STRAIPSNIŲ
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 2.
 Lietuvos
@@ -396,12 +395,21 @@ VALSTYBĖS
 TURTO FONDO ĮSTATYMO 1, 5, 6, 8 STRAIPSNIŲ PAKEITIMO IR 10 STRAIPSNIO
 PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
  
+6.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-1591,
+2008-06-05, Žin., 2008, Nr. 71-2717 (2008-06-21)
+VALSTYBĖS
+TURTO FONDO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2006-10-12)
+Aušrinė Trapinskienė (2008-06-26)
                  
 autrap@lrs.lt
 
