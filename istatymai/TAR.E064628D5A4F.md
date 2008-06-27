@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E064628D5A4F"
 
 # Lietuvos Respublikos aukštojo mokslo įstatymas
 
-Suvestinė redakcija nuo 2008-03-22 iki 2008-06-26
+Įstatymas netenka galios 2009-05-12:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-242, 2009-04-30, Žin., 2009, Nr. 54-2140 (2009-05-12); Žin., 2009, Nr. 61-0 (2009-05-26); Žin., 2009, Nr. 101-0 (2009-08-25), i. k. 1091010ISTA00XI-242
+Lietuvos Respublikos mokslo ir studijų įstatymas
+ 
+Suvestinė redakcija nuo 2008-06-27 iki 2009-05-11
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 27-715, i. k. 1001010ISTAIII-1586
  
@@ -653,11 +658,25 @@ Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010IST
 
 12) svarsto metines rektoriaus ataskaitas, metines pajamų ir išlaidų sąmatas bei jų įvykdymo ataskaitas ir, gavęs universiteto tarybos išvadą, jas tvirtina; 
 
-13) tvirtina universiteto vidaus tvarkos taisykles bei akademinių reikalų tvarkymą reglamentuojančius dokumentus;
+13) nustato studijų kainą asmenims, nurodytiems šio įstatymo 61 straipsnyje; 
+Papildyta straipsnio punktu:
+Nr. X-1640, 2008-06-26, Žin., 2008, Nr. 73-2798 (2008-06-27), i. k. 1081010ISTA00X-1640
+ 
 
-14) statute nustatyta tvarka šaukia universiteto akademinės bendruomenės susirinkimus svarbiems universiteto veiklos klausimams aptarti;
+14) tvirtina universiteto vidaus tvarkos taisykles bei akademinių reikalų tvarkymą reglamentuojančius dokumentus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. X-1640, 2008-06-26, Žin., 2008, Nr. 73-2798 (2008-06-27), i. k. 1081010ISTA00X-1640
+ 
 
-15) vykdo kitas statute numatytas funkcijas.
+15) statute nustatyta tvarka šaukia universiteto akademinės bendruomenės susirinkimus svarbiems universiteto veiklos klausimams aptarti;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. X-1640, 2008-06-26, Žin., 2008, Nr. 73-2798 (2008-06-27), i. k. 1081010ISTA00X-1640
+ 
+
+16) vykdo kitas statute numatytas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. X-1640, 2008-06-26, Žin., 2008, Nr. 73-2798 (2008-06-27), i. k. 1081010ISTA00X-1640
+ 
 
 6. Senatas apie savo sprendimus statuto nustatyta tvarka informuoja akademinę bendruomenę ir kartą per metus jai atsiskaito už savo veiklą.
  
@@ -695,11 +714,25 @@ Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010IST
 
 9) svarsto metines direktoriaus ataskaitas, metines pajamų ir išlaidų sąmatas bei jų įvykdymo ataskaitas ir, gavusi kolegijos tarybos pritarimą, jas tvirtina; 
 
-10) tvirtina kolegijos vidaus tvarkos taisykles bei akademinių reikalų tvarkymą reglamentuojančius dokumentus;
+10) nustato studijų kainą asmenims, nurodytiems šio įstatymo 61 straipsnyje; 
+Papildyta straipsnio punktu:
+Nr. X-1640, 2008-06-26, Žin., 2008, Nr. 73-2798 (2008-06-27), i. k. 1081010ISTA00X-1640
+ 
 
-11) statute nustatyta tvarka šaukia kolegijos akademinės bendruomenės susirinkimus svarbiems kolegijos veiklos klausimams aptarti;
+11) tvirtina kolegijos vidaus tvarkos taisykles bei akademinių reikalų tvarkymą reglamentuojančius dokumentus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. X-1640, 2008-06-26, Žin., 2008, Nr. 73-2798 (2008-06-27), i. k. 1081010ISTA00X-1640
+ 
 
-12) vykdo kitas statute numatytas funkcijas.
+12) statute nustatyta tvarka šaukia kolegijos akademinės bendruomenės susirinkimus svarbiems kolegijos veiklos klausimams aptarti;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. X-1640, 2008-06-26, Žin., 2008, Nr. 73-2798 (2008-06-27), i. k. 1081010ISTA00X-1640
+ 
+
+13) vykdo kitas statute numatytas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. X-1640, 2008-06-26, Žin., 2008, Nr. 73-2798 (2008-06-27), i. k. 1081010ISTA00X-1640
+ 
 
 6. Akademinė taryba apie savo sprendimus statuto nustatyta tvarka informuoja akademinę bendruomenę ir kartą per metus jai atsiskaito už savo veiklą.
  
@@ -770,7 +803,10 @@ Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010IST
 
 3. Statute nustatyta tvarka dalį savo funkcijų rektorius gali perduoti prorektoriams.
 
-4. Valstybinio universiteto rektorių ne ilgesnei kaip 5 metų kadencijai ir ne daugiau kaip dviem kadencijoms iš eilės viešo konkurso būdu statute nustatyta tvarka slaptu balsavimu renka senatas. Konkurse rektoriaus pareigoms eiti gali dalyvauti tik mokslininkas ar pripažintas menininkas, turintys profesoriaus vardą.
+4. Valstybinio universiteto rektorių ne ilgesnei kaip 5 metų kadencijai ir ne daugiau kaip dviem kadencijoms iš eilės viešo konkurso būdu statute nustatyta tvarka slaptu balsavimu renka senatas. Konkurse rektoriaus pareigoms gali dalyvauti tik mokslininkas ar pripažintas menininkas, turintys pedagoginio ir administracinio darbo patirties.
+Straipsnio dalies pakeitimai:
+Nr. X-1640, 2008-06-26, Žin., 2008, Nr. 73-2798 (2008-06-27), i. k. 1081010ISTA00X-1640
+ 
 
 5. Jei visų senato narių balsų dauguma nepatvirtinama valstybinio universiteto rektoriaus metinė ataskaita arba metinė pajamų ir išlaidų sąmatos įvykdymo ataskaita, rektoriaus įgaliojimai nutrūksta. Jeigu nustatoma, kad rektorius šiurkščiai pažeidė įstatymus ir (ar) statutą, senatas savo iniciatyva arba tarybos siūlymu gali rektorių atstatydinti. Iki naujo rektoriaus išrinkimo senatas paveda rektoriaus pareigas eiti kitam senato nariui. 
 
@@ -1199,40 +1235,27 @@ Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA0
 
 47 straipsnis. Priėmimas į valstybinę aukštąją mokyklą
 
-1. Į aukštąją mokyklą priimami asmenys, turintys ne žemesnį kaip vidurinį išsilavinimą.
+1. Į valstybines aukštąsias mokyklas studijuoti pagal studijų programas stojantys asmenys priimami konkurso būdu, atsižvelgiant į mokymosi rezultatus ir kitus aukštosios mokyklos nustatytus kriterijus. Priėmimo taisykles nustato valstybinė aukštoji mokykla. Stojantis asmuo turi teisę pateikti prašymą stoti į kelias aukštąsias mokyklas.
 
-2. Priėmimo į aukštąją mokyklą taisykles nustato pati aukštoji mokykla, Vyriausybės nustatyta tvarka jas suderinusi su Ministerija. Priėmimo į pagrindines ir vientisąsias studijas sąlygos dėl konkursinių mokomųjų dalykų pagal studijų kryptis ir dėl konkursinio balo formavimo principų derinamos Vyriausybės nustatyta tvarka ir skelbiamos ne vėliau kaip prieš 2 metus iki priėmimo pradžios. Stojantis asmuo turi teisę pateikti prašymą stoti į kelias aukštąsias mokyklas.
+2. Studijuoti pagal pagrindinių ir vientisųjų studijų programas priimami asmenys, turintys ne žemesnį kaip vidurinį išsilavinimą. Konkursinį balą turi sudaryti ne daugiau kaip keturių bendrojo lavinimo mokomųjų dalykų mokymosi rezultatai (iš jų – ne daugiau kaip trijų mokomųjų dalykų brandos egzaminų rezultatai). Specialiesiems gebėjimams nustatyti valstybinė aukštoji mokykla papildomai gali rengti ne daugiau kaip du egzaminus ar testus. Jei mokomojo dalyko brandos egzaminą rengia ir administruoja Švietimo ir mokslo ministerijos įgaliota institucija, valstybinė aukštoji mokykla šio mokomojo dalyko stojamojo egzamino ar testo nerengia. Priėmimo į pagrindines ir vientisąsias studijas sąlygos, kuriose nustatomas konkursinių mokomųjų dalykų pagal studijų kryptis sąrašas ir konkursinio balo sudarymo principai, derinamos Švietimo ir mokslo ministerijos nustatyta tvarka ir skelbiamos ne vėliau kaip prieš 2 metus iki priėmimo į pagrindines ir vientisąsias studijas pradžios.
 
-3. Studentai į aukštąją mokyklą priimami konkurso būdu. Pagrindinių ir vientisųjų studijų konkursinį balą turi sudaryti ne daugiau kaip keturių mokomųjų dalykų mokymosi rezultatai (iš jų – ne daugiau kaip 3 mokomųjų dalykų brandos egzaminų rezultatai). Specialiesiems gebėjimams nustatyti aukštoji mokykla papildomai gali organizuoti ne daugiau kaip du egzaminus ar testus. Jei mokomojo dalyko brandos egzaminą organizuoja ir administruoja Ministerijos įgaliota institucija, aukštoji mokykla šio mokomojo dalyko egzamino ar testo neorganizuoja. Priimant į antrosios ir trečiosios pakopos studijas turi būti atsižvelgiama į žemesnės arba tos pačios pakopos studijų rezultatus ir aukštosios mokyklos nustatytus kitus kriterijus.
+3. Priimant į antrosios ir trečiosios pakopų studijas turi būti atsižvelgiama į žemesnės arba tos pačios pakopos studijų rezultatus.
 
-4. Bendrą maksimaliai leistiną priimamų į aukštąsias mokyklas studentų skaičių pagal studijų pakopas, formas ir finansavimo pobūdį kasmet ne vėliau kaip iki kovo 1 d. tvirtina Vyriausybė, atsižvelgdama į specialistų poreikį, konkrečios aukštosios mokyklos specialistų parengimo kokybę, taip pat aukštosioms mokykloms skirtas valstybės biudžeto lėšas.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos aukštojo mokslo įstatymo 47 straipsnio (2006 m. liepos 18 d. redakcija) 4 dalis (2003 m. balandžio 22 d. redakcija; Žin., 2003, Nr. 47-2058) prieštarauja Lietuvos Respublikos Konstitucijos 40 straipsnio 3 daliai, 41 straipsnio 3 daliai.
-Straipsnio dalies pakeitimai:
-2008-03-20, Žin., 2008, Nr. 34-1224 (2008-03-22); Žin., 2008, Nr. 44-0 (2008-04-17), i. k. 1081000NUTARG081898            
- 
+4. Studijų vietų, į kurias priimamų studentų studijos valstybinėse aukštosiose mokyklose visiškai arba iš dalies apmokamos valstybės biudžeto lėšomis, skaičių pagal studijų pakopas ir formas kiekvienais metais ne vėliau kaip iki kovo 1 dienos tvirtina Vyriausybė, atsižvelgdama į specialistų poreikį ir studijoms skirtas valstybės biudžeto lėšas.
+TAR pastaba. 4 dalis įsigalioja 2009-01-01.
 
-5. Asmenys, sutinkantys mokėti visą studijų kainą, konkurso būdu gali būti priimami į vakarinės ir neakivaizdinės formų visų pakopų studijas ir dieninės formos rezidentūros studijas, taip pat iki 2005–2006 metų – į antrosios pakopos dieninės formos studijas.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos aukštojo mokslo įstatymo 47 straipsnio (2006 m. liepos 18 d. redakcija) 5 dalis (2005 m. birželio 30 d. redakcija; Žin., 2005, Nr. 85-3136) ta apimtimi, kuria nenustatyta, kad asmenys, sutinkantys mokėti visą studijų kainą, gali būti priimami ir į šioje dalyje pateiktame sąraše nenurodytų formų ir pakopų studijas (jeigu aukštoji mokykla turi galimybių jiems suteikti valstybės nustatytus kokybės standartus atitinkantį aukštąjį išsilavinimą), prieštarauja Lietuvos Respublikos Konstitucijos 40 straipsnio 3 daliai, 41 straipsnio 3 daliai.
-Straipsnio dalies pakeitimai:
-Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
-2008-03-20, Žin., 2008, Nr. 34-1224 (2008-03-22); Žin., 2008, Nr. 44-0 (2008-04-17), i. k. 1081000NUTARG081898            
- 
+5. Šio įstatymo 61 straipsnyje nurodyti asmenys, sutinkantys mokėti valstybinės aukštosios mokyklos nustatytą studijų kainą, konkurso būdu gali būti priimami į visas studijų programas. Studijų vietų, į kurias priimami šie asmenys, skaičių nustato valstybinė aukštoji mokykla, atsižvelgdama į galimybes užtikrinti studijų kokybę.
 
-6. Su studentais, priimamais šio straipsnio 5 dalyje nustatyta tvarka, aukštoji mokykla sudaro studijų sutartis. Standartines studijų sutarties sąlygas nustato Ministerija.
+6. Su priimamais studentais valstybinė aukštoji mokykla sudaro studijų sutartis. Standartines studijų sutarties sąlygas nustato Švietimo ir mokslo ministerija.
 
-7. Ministerija gali nustatyti asmenų, įgijusių išsilavinimą užsienyje, priėmimo į visiškai ar iš dalies Lietuvos valstybės biudžeto lėšomis finansuojamas studijas Lietuvos aukštosiose mokyklose kvotas ir tvarką. 
-Straipsnio dalies pakeitimai:
-Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
- 
+7. Švietimo ir mokslo ministerija nustato užsienyje išsilavinimą įgijusių asmenų, kurių studijos valstybinėse aukštosiose mokyklose visiškai arba iš dalies apmokamos valstybės biudžeto lėšomis, priėmimo tvarką.
 
-8. Ministerija gali nustatyti lengvatines stojimo į aukštąsias mokyklas sąlygas išeivijos ir lietuvių kilmės užsieniečių vaikams, vaikaičiams, provaikaičiams. Išeivija laikomi Lietuvos Respublikos piliečiai, ne mažiau kaip 3 metus gyvenantys užsienyje. Lietuvių kilmės užsieniečiu laikomas asmuo, kurio tėvai ar seneliai arba vienas iš tėvų ar senelių yra ar buvo lietuviai ir pats pripažįsta save lietuviu.
-Papildyta straipsnio dalimi:
-Nr. X-769, 2006-07-18, Žin., 2006, Nr. 87-3395 (2006-08-08), i. k. 1061010ISTA000X-769
- 
+8. Švietimo ir mokslo ministerija, neviršydama šio straipsnio 4 dalyje nustatyto studijų vietų skaičiaus, gali nustatyti lengvatines stojimo į valstybines aukštąsias mokyklas sąlygas išeivijos ir lietuvių kilmės užsieniečių vaikams, vaikaičiams, provaikaičiams. Išeivija laikomi Lietuvos Respublikos piliečiai, ne mažiau kaip 3 metus gyvenantys užsienyje. Lietuvių kilmės užsieniečiu laikomas užsienietis, kurio tėvai ar seneliai arba vienas iš tėvų ar senelių yra ar buvo lietuviai ir pats pripažįsta save lietuviu.
 
 Straipsnio pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
 Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+Nr. X-1640, 2008-06-26, Žin., 2008, Nr. 73-2798 (2008-06-27), i. k. 1081010ISTA00X-1640
  
 
 VII SKIRSNIS
@@ -1393,7 +1416,10 @@ Ministerija gali sudaryti sutartis su nevalstybinėmis aukštosiomis mokyklomis,
 
 a) skiriamos pagal Valstybės biudžeto lėšų poreikio nustatymo ir jų skyrimo mokslo ir studijų institucijoms metodiką;
 
-b) skirtos studentų studijų įmokoms padengti;
+b) Neteko galios nuo 2008-06-27
+Straipsnio punkto naikinimas:
+Nr. X-1640, 2008-06-26, Žin. 2008, Nr. 73-2798 (2008-06-27), i. k. 1081010ISTA00X-1640
+ 
 
 c) skirtos studentų stipendijoms;
 
@@ -1464,41 +1490,34 @@ Straipsnio pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
  
 
-58 straipsnis. Studijų išlaidos ir kaina
+58 straipsnis. Studijų išlaidos ir studijų kaina
 
 1. Studijų valstybinėje aukštojoje mokykloje išlaidos (pagal studijų kryptį, pakopą ir formą) nustatomos vadovaujantis šio įstatymo 57 straipsnyje nurodyta metodika.
 
-2. Į studijų išlaidas įskaičiuojamos lėšos, būtinos studijoms organizuoti bei jų moksliniam lygiui palaikyti, tai yra:
+2. Į studijų išlaidas įskaičiuojamos lėšos, būtinos studijoms organizuoti ir jų moksliniam lygiui palaikyti, tai yra:
 
 1) lėšos aukštųjų mokyklų dėstytojų, mokslo ir kitų su studijomis susijusių darbuotojų darbo užmokesčiui ir valstybiniam socialiniam draudimui;
 
-2) lėšos aukštosios mokyklos išlaidoms, susijusioms su studijomis ir jų moksliniam lygiui palaikyti reikalingomis prekėmis bei paslaugomis;
+2) lėšos aukštosios mokyklos išlaidoms, susijusioms su studijomis ir jų moksliniam lygiui palaikyti reikalingomis prekėmis ir paslaugomis;
 
 3) lėšos studentų kultūros, sporto ir visuomeninei veiklai organizuoti.
 
-3. Studijų kaina valstybinėje aukštojoje mokykloje nurodoma priėmimo į aukštąją mokyklą taisyklėse, suderintose šio įstatymo 47 straipsnio 2 dalyje nustatyta tvarka.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos aukštojo mokslo įstatymo 58 straipsnio (2005 m. birželio 30 d. redakcija) 3 dalis (2003 m. balandžio 22 d. redakcija; Žin., 2003, Nr. 47-2058) ta apimtimi, kuria yra įtvirtinta valstybinių aukštųjų mokyklų pareiga su Švietimo ir mokslo ministerija derinti ir studijų tose aukštosiose mokyklose kainą, t. y. tai, kiek už studijas turės mokėti studentai, kurių studijų valstybė nefinansuoja, 4 dalis (2005 m. birželio 30 d. redakcija; Žin., 2005, Nr. 85-3136) prieštarauja Lietuvos Respublikos Konstitucijos 40 straipsnio 3 daliai.
-Straipsnio dalies pakeitimai:
-2008-03-20, Žin., 2008, Nr. 34-1224 (2008-03-22); Žin., 2008, Nr. 44-0 (2008-04-17), i. k. 1081000NUTARG081898            
- 
+3. Studijų kainą asmenims, nurodytiems šio įstatymo 61 straipsnyje, nustato valstybinės aukštosios mokyklos senatas (akademinė taryba). Studijų kaina valstybinėje aukštojoje mokykloje nurodoma priėmimo į aukštąją mokyklą taisyklėse ir studijų sutartyje.
 
-4. Lietuvos Respublikos ir kitų Europos Sąjungos šalių piliečiams šio straipsnio 3 dalyje nurodyta studijų kaina negali būti didesnė negu studijų išlaidos, nustatytos šio straipsnio 1 ir 2 dalyse nustatyta tvarka.
-Straipsnio dalies pakeitimai:
-Nr. X-292, 2005-06-30, Žin., 2005, Nr. 85-3136 (2005-07-14), i. k. 1051010ISTA000X-292
- 
-
-5. Užsienio valstybių piliečiams ir asmenims be pilietybės šio straipsnio 3 dalyje nurodyta studijų kaina negali būti mažesnė negu studijų išlaidos, nustatytos šio straipsnio 1 ir 2 dalyse nustatyta tvarka, išskyrus atvejus, kai Lietuvos Respublikos tarptautinės sutartys ar kiti teisės aktai nustato kitaip.
-
-6. Studijų kaina nevalstybinėse aukštosiose mokyklose nustatoma susitarimu.
+4. Studijų kaina nevalstybinėse aukštosiose mokyklose nurodoma priėmimo į aukštąją mokyklą taisyklėse ir studijų sutartyje.
 
 Straipsnio pakeitimai:
 Nr. IX-684, 2001-12-21, Žin., 2002, Nr. 3-75 (2002-01-11), i. k. 1011010ISTA00IX-684
 Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010ISTA0IX-1526
+Nr. X-1640, 2008-06-26, Žin., 2008, Nr. 73-2798 (2008-06-27), i. k. 1081010ISTA00X-1640
  
 
 59 straipsnis. Studentų studijų įmokos
 
-1. Valstybinių aukštųjų mokyklų visų formų pagrindinių, vientisųjų ir antrosios pakopos studijų studentai kiekvieną semestrą aukštajai mokyklai moka studijų įmoką, kuri lygi Vyriausybės nustatyto minimalaus gyvenimo lygio 4 dydžiams.
+1. Valstybinių aukštųjų mokyklų visų formų pagrindinių, vientisųjų ir antrosios pakopos studijų studentai, išskyrus studentus, nurodytus šio įstatymo 61 straipsnyje, jeigu jų mokymasis neatitinka 60 straipsnyje nustatytų gero mokymosi kriterijų, kiekvieną semestrą aukštajai mokyklai moka studijų įmoką, kuri lygi teisės aktų nustatyto minimaliojo gyvenimo lygio 4 dydžiams.
+Straipsnio dalies pakeitimai:
+Nr. X-1640, 2008-06-26, Žin., 2008, Nr. 73-2798 (2008-06-27), i. k. 1081010ISTA00X-1640
+ 
 
 2. Studentai, be šio straipsnio 1 dalyje numatytos studijų įmokos arba studijų sutartyje nurodytos studijų kainos, neturi mokėti aukštosioms mokykloms jokių kitų įmokų, tiesiogiai susijusių su studijų programos įgyvendinimu, aukštosios mokyklos studijų nuostatų, suderintų su studentų atstovybe, nustatyta tvarka.
 
@@ -1512,13 +1531,16 @@ Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010IST
 
 60 straipsnis. Nemokamas aukštasis mokslas gerai besimokantiems valstybinių aukštųjų mokyklų studentams
 
-1. Gerai besimokantiems valstybinių aukštųjų mokyklų studentams laiduojamas nemokamas mokslas – jų studijų įmokos apmokamos valstybės lėšomis. Gerai besimokančiais studentais laikomi 30 procentų kiekvienos studijų programos kiekvieno semestro studentų, išskyrus studentus, nurodytus šio įstatymo 61 straipsnyje, atrinktų kas semestrą pagal geriausius studijų rezultatus (pirmąjį studijų semestrą – pagal stojimo rezultatus).
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos aukštojo mokslo įstatymo 60 straipsnio 1 dalis (2003 m. balandžio 22 d. redakcija; Žin., 2003, Nr. 47-2058) ta apimtimi, kuria nustatyta procentais išreikšta gerai besimokančių studentų kvota, prieštarauja Lietuvos Respublikos Konstitucijos 41 straipsnio 3 daliai.
+1. Gerai besimokantiems valstybinių aukštųjų mokyklų studentams, išskyrus studentus, nurodytus šio įstatymo 61 straipsnyje, laiduojamas nemokamas mokslas. Gerai besimokančiais studentais laikomi studentai, kurie neturi akademinių skolų ir kurių studijų dalykų įvertinimų vidurkis per semestrą yra ne mažesnis kaip įvertinimas „aštuoni“ dešimties balų vertinimo skalėje pagal Vyriausybės arba jos įgaliotos institucijos patvirtintą studijų rezultatų vertinimo sistemą. 
 Straipsnio dalies pakeitimai:
 2008-03-20, Žin., 2008, Nr. 34-1224 (2008-03-22); Žin., 2008, Nr. 44-0 (2008-04-17), i. k. 1081000NUTARG081898            
+Nr. X-1640, 2008-06-26, Žin., 2008, Nr. 73-2798 (2008-06-27), i. k. 1081010ISTA00X-1640
  
 
-2. Ne mažiau kaip 50 procentų dieninių studijų studentų, išskyrus studentus, nurodytus šio įstatymo 61 straipsnyje, atrinktų aukštosios mokyklos konkurso tvarka pagal mokymosi rezultatus (pirmąjį studijų semestrą – pagal stojimo rezultatus), studijų įmokos apmokamos valstybės lėšomis. Vyriausybė kasmet nustato, kokiai daliai tais metais į aukštąją mokyklą priimtų studentų pagal studijų pakopas ir formas studijų įmokos apmokamos valstybės biudžeto lėšomis. Priėmimo į aukštąją mokyklą metu užfiksuotas studijų, kurių įmoka apmokama valstybės biudžeto lėšomis, vietų skaičius išlieka per visą nustatytą studijų laikotarpį.
+2. Neteko galios nuo 2008-06-27
+Straipsnio dalies naikinimas:
+Nr. X-1640, 2008-06-26, Žin. 2008, Nr. 73-2798 (2008-06-27), i. k. 1081010ISTA00X-1640
+ 
 
 3. Studentai aukštosios mokyklos nustatyta tvarka už nepažangumą išbraukiami iš aukštosios mokyklos studentų sąrašų.
 
@@ -1537,7 +1559,7 @@ Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010IST
 
 61 straipsnis. Mokamos studijos valstybinėse aukštosiose mokyklose
 
-1. Už studijas valstybinėje aukštojoje mokykloje visą studijų kainą moka:
+1. Už studijas valstybinėje aukštojoje mokykloje valstybinės aukštosios mokyklos nustatytą studijų kainą moka:
 
 1) asmenys, studijuojantys pagal tos pačios arba žemesnės pakopos, kurią jie yra baigę valstybinėje aukštojoje mokykloje, studijų programą, jeigu ne daugiau kaip už pusę baigtos studijų programos kreditų mokėjo visą studijų kainą, išskyrus Vyriausybės nustatytus atvejus;
 
@@ -1545,7 +1567,11 @@ Nr. IX-1526, 2003-04-22, Žin., 2003, Nr. 47-2058 (2003-05-14), i. k. 1031010IST
 
 3) užsieniečiai, jeigu Lietuvos Respublikos tarptautinės sutartys ar kiti teisės aktai nenustato kitaip;
 
-4) asmenys, priimti studijuoti šio įstatymo 47 straipsnio 5 dalyje nustatyta tvarka.
+4) asmenys, pagal stojimo rezultatus nepatenkantys į studijų vietas, į kurias priimamų studentų studijos visiškai arba iš dalies apmokamos valstybės biudžeto lėšomis.
+
+Straipsnio dalies pakeitimai:
+Nr. X-1640, 2008-06-26, Žin., 2008, Nr. 73-2798 (2008-06-27), i. k. 1081010ISTA00X-1640
+ 
 
 2. Už studijas valstybinėje aukštojoje mokykloje studijų kainą, proporcingą dalyko apimčiai, moka:
 
@@ -1728,4 +1754,9 @@ Lietuvos Respublikos aukštojo mokslo įstatymo ir Mokslo ir studijų įstatymo 
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2008-03-20, Žin., 2008, Nr. 34-1224 (2008-03-22); Žin., 2008, Nr. 44-0 (2008-04-17), i. k. 1081000NUTARG081898                
 Dėl Lietuvos Respublikos aukštojo mokslo įstatymo 47 straipsnio (2006 m. liepos 18 d. redakcija) 4 dalies (2003 m. balandžio 22 d. redakcija), 5 dalies (2005 m. birželio 30 d. redakcija), 57 straipsnio (2006 m. liepos 18 d. redakcija), 58 straipsnio (2005 m. birželio 30 d. redakcija) 3 dalies (2003 m. balandžio 22 d. redakcija), 4 dalies (2005 m. birželio 30 d. redakcija), 60 straipsnio 1 dalies (2003 m. balandžio 22 d. redakcija), 61 straipsnio 1 dalies (2003 m. balandžio 22 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai, taip pat dėl bylos dalies pagal pareiškėjo - Lietuvos Respublikos Prezidento 2007 m. spalio 22 d. dekrete Nr. 1K-1138 "Dėl kreipimosi į Lietuvos Respublikos Konstitucinį Teismą" išdėstytą prašymą ištirti, ar Lietuvos Respublikos Vyriausybės 2004 m. spalio 11 d. nutarimu Nr. 1272 "Dėl Lietuvos Respublikos valstybės biudžeto lėšų poreikio nustatymo ir jų skyrimo mokslo ir studijų institucijoms metodikos patvirtinimo" (2006 m. spalio 5 d. redakcija) patvirtintos Lietuvos Respublikos valstybės biudžeto lėšų poreikio nustatymo ir jų skyrimo mokslo ir studijų institucijoms metodikos (2006 m. spalio 5 d. redakcija) 3, 14 punktai neprieštarauja Lietuvos Respublikos Konstitucijos 40 straipsnio 3 daliai, 41 straipsnio 3 daliai, nutraukimo
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1640, 2008-06-26, Žin., 2008, Nr. 73-2798 (2008-06-27), i. k. 1081010ISTA00X-1640
+Lietuvos Respublikos aukštojo mokslo įstatymo 22, 23, 25, 47, 56, 58, 59, 60, 61 straipsnių pakeitimo ir papildymo įstatymas
 
