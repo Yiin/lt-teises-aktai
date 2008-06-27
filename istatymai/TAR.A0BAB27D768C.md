@@ -154,8 +154,7 @@ RESPUBLIKOS PREZIDENTAS                            �
  
                                                                                             Lietuvos
 Respublikos 
-                                                                                            1996
-m. gruodžio 19 d.
+                                                                                            1996 m. gruodžio 19 d.
                                                                                             įstatymo
 Nr. VIII-49
                                                                                             priedėlis
@@ -463,7 +462,12 @@ Europos Sąjungos reikalavimus atitinkanti valstybės sienos kontrolė ir apsaug
 ypatingą dėmesį skiriant Europos Sąjungos išorinės sienos kontrolei ir
 apsaugai. Įstatymu nustatomi valstybės sienos ir pasienio teisiniai režimai,
 reglamentuojamas valstybės sienos apsaugos organizavimas.
- 
+Valstybės institucijos privalo
+imtis veiksmingų priemonių užtikrinant eismo keliuose saugumą ir
+garantuoti šių
+priemonių įgyvendinimo finansavimą, reikalingų teisės aktų bazės kūrimą, valstybės
+institucijų ir privačių asmenų veiklos bei kompleksinių priemonių,
+skirtų avaringumui mažinti, organizavimą ir koordinavimą.
 SOCIALINĖ
 POLITIKA
  
@@ -474,8 +478,8 @@ jurisdikcijai priklausančių asmenų gerovės politiką, mažinti galimų socia
 krizių rizikos veiksnius bei pavojus ir rūpintis, kad dėl pernelyg didelių
 turtinių skirtumų visuomenėje ir gyventojų nuskurdimo nebūtų pažeisti
 socialinės sanglaudos principai.
-Valstybė turi ypač rūpintis
-šeimos, kaip pagrindinės ir atsakingos visuomenės institucijos, padėtimi. 
+Valstybė turi ypač rūpintis šeimos,
+kaip pagrindinės ir atsakingos visuomenės institucijos, padėtimi. 
  
 KULTŪROS
 POLITIKA
@@ -493,7 +497,8 @@ apsaugoti kultūros raidą nuo griaunančio antihumanistinio poveikio.
 Valstybė sudaro ekonomines, technologines ir teisines sąlygas kultūros
 paveldo apsaugai, skatina savininkus investuoti į kultūros paveldo apsaugą.
 Valstybės parengia priemones, užtikrinančias kultūros paveldo apsaugą
-ekstremalių situacijų (teroro aktų, gaisrų, potvynių, avarijų ir kitais) atvejais.
+ekstremalių situacijų (teroro aktų, gaisrų, potvynių, avarijų ir kitais)
+atvejais.
  
 ŠVIETIMO IR
 MOKSLO POLITIKA
@@ -508,8 +513,8 @@ Kuriant žinių visuomenę svarbu
 užtikrinti sėkmingą švietimo ir mokslo reformą, lietuvių kalbos plėtrą:
 suformuoti visiems prieinamą, informacinių technologijų pažangą atitinkančią,
 modernią, kokybišką švietimo sistemą, siekti švietimo sistemos vidinės dermės
-ir valstybės siekių atitikimo, pilietinės visuomenės ugdymo, rengti
-aukščiausios kvalifikacijos specialistus. 
+ir valstybės siekių atitikimo, pilietinės visuomenės ugdymo, rengti aukščiausios
+kvalifikacijos specialistus. 
 Valstybė turi skatinti visų
 gyvenimo sričių mokslinę technologinę pažangą bei ja grindžiamų inovacijų
 visose socialinėse ir ekonomikos srityse diegimą. 
@@ -540,15 +545,15 @@ garantuojančiai sveiką gyvenseną bei aplinką, prieinamą ir tinkamą sveikat
 priežiūrą. Svarbi sveikatos politikos kryptis – užtikrinti ligų prevenciją,
 ypatingą dėmesį skiriant epidemijų, priklausomybės ligų (narkomanijos,
 alkoholizmo, toksikomanijos ir kitų) profilaktikai bei žmogaus imunodeficito
-viruso ir kitų pavojingų ir ypač pavojingų užkrečiamųjų ligų profilaktikai ir kontrolei.
-
+viruso ir kitų pavojingų ir ypač pavojingų užkrečiamųjų ligų profilaktikai ir
+kontrolei. 
 Svarbus valstybės uždavinys – sukurti, palaikyti ir plėtoti visuomenės
 sveikatos rizikos veiksnių bei pavojų stebėsenos, visuomenės sveikatos
 ekspertizės, greito sveikatos informacijos perdavimo ir reagavimo į grėsmes
 visuomenės sveikatai, ekstremalių sveikatai situacijų prevencijos ir jų
 padarinių mažinimo bei šalinimo sistemas, tobulinti Lietuvos nacionalinės
-sveikatos sistemos pasirengimą bei veiklą krizių ir ekstremalių situacijų
-atvejais. 
+sveikatos sistemos pasirengimą bei veiklą krizių ir ekstremalių situacijų atvejais.
+
 Vyriausybė užtikrina mechanizmus, nustatančius valstybės sveikatos
 politikos ir strategijų formavimą bei įgyvendinimą.
  
@@ -568,6 +573,8 @@ IX-1524,
 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
 Nr. IX-2030,
 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
+Nr. X-1598, 2008-06-12, Žin.,
+2008, Nr. 73-2797 (2008-06-27)
  
 5 skyrius
 SVARBIAUSIOS
@@ -593,7 +600,8 @@ normomis ir principais.
 Pagrindiniai
 ilgalaikiai Lietuvos užsienio politikos uždaviniai:
 – esant Šiaurės Atlanto sutarties organizacijos ir Europos Sąjungos nare,
-užtikrinti šalies saugumą, tinkamai vykdyti narystės šiose organizacijose įsipareigojimus;
+užtikrinti šalies saugumą, tinkamai vykdyti narystės šiose organizacijose
+įsipareigojimus;
 – skatinti geros kaimynystės, tarpusavio pasitikėjimo, ekonominės
 partnerystės, prekybos, kultūros ir abipusiškai naudingo lygiateisio
 bendradarbiavimo ryšius su visomis savo ir kaimyninių regionų valstybėmis tiek
@@ -632,8 +640,8 @@ antroji dalis, skelbianti, kad Tauta ir kiekvienas pilietis turi teisę
 priešintis bet kam, kas prievarta kėsinasi į Lietuvos valstybės
 nepriklausomybę, teritorijos vientisumą, konstitucinę santvarką; 
 - Konstitucijos 139 straipsnis,
-skelbiantis, kad Lietuvos valstybės gynimas nuo užsienio ginkluoto užpuolimo
-yra kiekvieno Lietuvos Respublikos piliečio teisė ir pareiga, ir nustatantis
+skelbiantis, kad Lietuvos valstybės gynimas nuo užsienio ginkluoto užpuolimo yra
+kiekvieno Lietuvos Respublikos piliečio teisė ir pareiga, ir nustatantis
 piliečių privalomąją karo tarnybą.
  
 7 skyrius
@@ -662,16 +670,16 @@ priešinasi pati, nelaukdama, kada toji pagalba bus suteikta.
 Skirsnio
 pakeitimai:
 Nr.
-IX-1524, 2003-04-22,
-Žin., 2003, Nr. 42-1922 (2003-05-01)
+IX-1524,
+2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
  
 Antrasis
 skirsnis
 BENDROSIOS
 LIETUVOS GYNYBOS NUOSTATOS
  
-Lietuvos gynybinė galia
-grindžiama: 
+Lietuvos gynybinė galia grindžiama:
+
 – Tautos apsisprendimu ir
 pasiryžimu priešintis kiekvienam užpuolikui;
 – NATO sąjungininkų teikiama
@@ -683,8 +691,8 @@ rezervo parengtimi ir apginklavimu;
 – piliečių
 pasirengimu visuotiniam ginkluotam ir neginkluotam pasipriešinimui bei
 pilietinei gynybai; 
-– geru kariuomenės
-ir civilių piliečių savitarpio supratimu ir bendradarbiavimu; 
+– geru
+kariuomenės ir civilių piliečių savitarpio supratimu ir bendradarbiavimu; 
 – valstybės atsargomis ir kitais
 mobilizacinio rezervo ištekliais.
 – šalies
@@ -715,10 +723,10 @@ visomis jai prieinamomis priemonėmis: karine gynyba ir partizaniniais
 veiksmais, civilių piliečių nepaklusnumu, nekolaboravimu bei kitais būdais. 
 Lietuva
 neatidėliodama prašo NATO konsultacijų, kai jaučia tiesioginę grėsmę savo
-teritoriniam vientisumui, politinei nepriklausomybei ar saugumui. Būdama Šiaurės
-Atlanto sutarties ir kitų Europos valstybių kolektyvinės gynybos sutarčių
-dalyvė, Lietuva ginkluoto užpuolimo atveju nedelsdama kreipiasi šių sutarčių
-šalių ginkluotos pagalbos užpuolimui atremti.
+teritoriniam vientisumui, politinei nepriklausomybei ar saugumui. Būdama
+Šiaurės Atlanto sutarties ir kitų Europos valstybių kolektyvinės gynybos
+sutarčių dalyvė, Lietuva ginkluoto užpuolimo atveju nedelsdama kreipiasi šių
+sutarčių šalių ginkluotos pagalbos užpuolimui atremti.
 Lietuva rengiasi gynybai
 remdamasi šiuolaikiniu karybos mokslu ir tautos dešimtmete pokario partizaninės
 kovos prieš Sovietų Sąjungos kariuomenę ir okupacinį režimą patirtimi. 
@@ -749,15 +757,14 @@ prievartos prieš Lietuvos valstybės nepriklausomybę, teritorijos vientisumą 
 konstitucinę santvarką pareigūnas negali laisvai vykdyti valstybės gynimo
 pareigų arba su gynyba susijusių funkcijų ar perduoti įsakymų, žemesniosios
 grandies pareigūnai gynybos funkcijas vykdo savarankiškai. Tokiu atveju šių
-pareigūnų įsakymai bus privalomi, o karinių dalinių, piliečių ir jų savaveiksmių
-darinių pasipriešinimo bei kovos veiksmai bus teisėti. 
+pareigūnų įsakymai bus privalomi, o karinių dalinių, piliečių ir jų
+savaveiksmių darinių pasipriešinimo bei kovos veiksmai bus teisėti. 
 Krašto gynybos operatyvinė
 vadovybė privalo užtikrinti, kad pasienio provokacijos, vietinio įsibrovimo į
 Lietuvos teritoriją ar Lietuvos oro erdvės pažeidimo atvejais būtų nedelsiant
 duoti įsakymai dėl adekvačių kariuomenės ir Valstybės sienos apsaugos tarnybos
 veiksmų ir imtasi diplomatinių priemonių.
-Skirsnio
-pakeitimai:
+Skirsnio pakeitimai:
 Nr. VIII-1997, 2000 10 10, Žin., 2000, Nr.
 92-2849 (2000 10 31)
 Nr.
@@ -793,12 +800,12 @@ naudojami ir partizaninės kovos veiksmai.
 Skirsnio
 pakeitimai:
 Nr.
-IX-1524, 2003-04-22,
-Žin., 2003, Nr. 42-1922 (2003-05-01)
-Nr. IX-2030,
-2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
-Nr. X-1466, 2008-03-20,
-Žin., 2008, Nr. 38-1378 (2008-04-03)
+IX-1524,
+2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
+Nr. IX-2030, 2004-02-19,
+Žin., 2004, Nr. 39-1270 (2004-03-13)
+Nr. X-1466,
+2008-03-20, Žin., 2008, Nr. 38-1378 (2008-04-03)
  
 KetvirtasIS
 skirsnis
@@ -853,8 +860,8 @@ sudaro Respublikos Prezidentas ir krašto apsaugos ministras. Operacinio
 vadovavimo karinėms operacijoms ir kitiems ginkluotųjų pajėgų veiksmams
 grandinę nustato įstatymai ir kiti teisės aktai.
 Kai Respublikos Prezidentas iš
-šalies išvyksta, krašto apsaugos ministras privalo būti Lietuvoje, išskyrus
-įstatymų numatytus atvejus.
+šalies išvyksta, krašto apsaugos ministras privalo būti Lietuvoje, išskyrus įstatymų
+numatytus atvejus.
 Ginkluotųjų pajėgų organizaciją,
 plėtrą, apginklavimo poreikius, asignavimus nustato Seimas. Seimas įstatymų
 nustatyta tvarka vykdo ginkluotųjų pajėgų ir kitų nacionalinio saugumo
@@ -863,8 +870,8 @@ joms Seimui yra atsakingi Vyriausybė, krašto apsaugos ministras ir kariuomenė
 vadas.
 Sprendimus dėl kariuomenės
 aprūpinimo, ginkluotės įsigijimo ir materialinės bazės priima Vyriausybė. 
-Sprendimus dėl mobilizacijos, karo
-padėties įvedimo, ginkluotųjų pajėgų panaudojimo ir gynybos nuo ginkluoto
+Sprendimus dėl mobilizacijos,
+karo padėties įvedimo, ginkluotųjų pajėgų panaudojimo ir gynybos nuo ginkluoto
 užpuolimo, taip pat sprendimus dėl Lietuvos kariuomenės vienetų dalyvavimo
 tarptautinėse karinėse operacijose priima Respublikos Prezidentas ir Seimas
 Konstitucijos ir įstatymų nustatyta tvarka.
@@ -905,8 +912,8 @@ grėsmių nacionaliniam saugumui mažinimo.
 Vyriausybės įsteigtas strateginių
 tyrimų ir analizės centras analizuoja bei prognozuoja išorės ir vidaus saugumo
 aplinkos pokyčius, seka rizikos veiksnių, pavojų, grėsmių atsiradimą bei
-vystymąsi ir teikia pasiūlymus Seimui, Respublikos Prezidentui, Valstybės gynimo
-tarybai ir kitoms nacionalinį saugumą užtikrinančioms institucijoms dėl
+vystymąsi ir teikia pasiūlymus Seimui, Respublikos Prezidentui, Valstybės
+gynimo tarybai ir kitoms nacionalinį saugumą užtikrinančioms institucijoms dėl
 nacionaliniam saugumui stiprinti reikalingų priemonių. Valstybės
 gynimo taryba formuoja žvalgybinės informacijos poreikį.
 Skyriaus pakeitimai:
@@ -936,7 +943,8 @@ parengimas ir vykdymas;
 užtikrinančių institucijų veikla; 
 - saugumo ir gynybos sistemą
 reglamentuojantys įstatymai. 
-Skirsnio pakeitimai:
+Skirsnio
+pakeitimai:
 Nr.
 IX-1524,
 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
@@ -988,9 +996,9 @@ Lietuva, tapdama visateise
 struktūrą, nare, vykdo aktyvaus integravimosi ir narystės NATO priemones: 
 – bendradarbiauja su NATO
 planuodama gynybą, rengia savo struktūras bendros gynybos poreikiams;
-– pagal NATO standartus moko ir parengia
-kariuomenę, pertvarko ir rengia savo gynybos struktūras sąveikai su NATO
-struktūromis; 
+– pagal NATO standartus moko ir
+parengia kariuomenę, pertvarko ir rengia savo gynybos struktūras sąveikai su
+NATO struktūromis; 
 – parengia
 karius dalyvauti kolektyvinės gynybos, reagavimo į krizes ir kitose
 tarptautinėse karinėse operacijose;
@@ -1043,8 +1051,7 @@ PENKTASIS
 skirsnis
 (Neteko
 galios nuo 2003 m. gegužės 1 d.)
-Skirsnio
-pakeitimai:
+Skirsnio pakeitimai:
 Nr.
 IX-1524,
 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
@@ -1107,8 +1114,8 @@ SAUGUMĄ UŽTIKRINANČIOS INSTITUCIJOS
  
 VADOVAUJANČIOS INSTITUCIJOS:
 Valstybės aukščiausiosios
-vadovaujančios institucijos, kurios vadovauja nacionalinio saugumo užtikrinimui,
-yra Seimas, Respublikos Prezidentas ir Vyriausybė. 
+vadovaujančios institucijos, kurios vadovauja nacionalinio saugumo
+užtikrinimui, yra Seimas, Respublikos Prezidentas ir Vyriausybė. 
 VYKDOMOSIOS IR KITOS
 INSTITUCIJOS:
 – Valstybės gynimo taryba; 
@@ -1193,8 +1200,8 @@ plėtrą pateikia informaciją apie šio įstatymo, Nacionalinio saugumo strateg
 bei ilgalaikių valstybinių saugumo stiprinimo programų įgyvendinimą, taip pat
 pateikia informaciją apie tarptautinės ir vidaus saugumo aplinkos pokyčius,
 esamus rizikos veiksnius, pavojus ir grėsmes, jų atsiradimą, vystymąsi bei
-informaciją apie įgyvendinamas priemones neutralizuojant grėsmes, rizikos
-veiksnius bei pavojus. 
+informaciją apie įgyvendinamas priemones neutralizuojant grėsmes, rizikos veiksnius
+bei pavojus. 
  
 ANTRASIS SKIRSNIS
 KRIZIŲ VALDYMAS
@@ -1309,9 +1316,9 @@ nacionalinio saugumo užtikrinimo klausimais, svarsto ir koordinuoja Valstybės
 gynimo taryba. Į ją įeina Ministras Pirmininkas, Seimo Pirmininkas, krašto
 apsaugos ministras ir kariuomenės vadas. Valstybės gynimo tarybai vadovauja
 Respublikos Prezidentas. Į Valstybės gynimo tarybos posėdžius paprastai
-kviečiamas Valstybės saugumo departamento generalinis direktorius, užsienio ir vidaus
-reikalų ministrai, Seimo Nacionalinio saugumo ir gynybos komiteto pirmininkas.
-Tarybos sudarymą, veiklos tvarką ir įgaliojimus nustato įstatymas.
+kviečiamas Valstybės saugumo departamento generalinis direktorius, užsienio ir
+vidaus reikalų ministrai, Seimo Nacionalinio saugumo ir gynybos komiteto
+pirmininkas. Tarybos sudarymą, veiklos tvarką ir įgaliojimus nustato įstatymas.
 Skyriaus
 pakeitimai:
 Nr.
@@ -1335,14 +1342,14 @@ Europos Sąjungoje galimybių optimalaus panaudojimo Lietuvos nacionalinio
 saugumo interesams užtikrinti ir dėl Lietuvos dalyvavimo įgyvendinant šių
 organizacijų tikslus) ir vykdo priimtus sprendimus; analizuoja tarptautinę
 padėtį, tarpvalstybinės politikos tendencijas, tarp jų geostrateginės aplinkos
-pokyčius bei tarptautinių grėsmių saugumui ir rizikų raidą; palaiko diplomatinius
-santykius su užsienio valstybėmis, taip pat ryšius su tarptautinėmis
-organizacijomis, įskaitant diplomatinio atstovavimo NATO būstinėje užtikrinimą
-ir aktyvų dalyvavimą politiniame derinime siekiant NATO narių konsensuso
-strateginiais klausimais; vadovauja Lietuvos Respublikos diplomatinių
-atstovybių užsienio valstybėse ir tarptautinėse organizacijose veiklai;
-koordinuoja ir kontroliuoja Lietuvos Respublikos tarptautinių sutarčių rengimą
-ir sudarymą su užsienio valstybėmis ir tarptautinėmis organizacijomis;
+pokyčius bei tarptautinių grėsmių saugumui ir rizikų raidą; palaiko
+diplomatinius santykius su užsienio valstybėmis, taip pat ryšius su
+tarptautinėmis organizacijomis, įskaitant diplomatinio atstovavimo NATO
+būstinėje užtikrinimą ir aktyvų dalyvavimą politiniame derinime siekiant NATO
+narių konsensuso strateginiais klausimais; vadovauja Lietuvos Respublikos
+diplomatinių atstovybių užsienio valstybėse ir tarptautinėse organizacijose
+veiklai; koordinuoja ir kontroliuoja Lietuvos Respublikos tarptautinių sutarčių
+rengimą ir sudarymą su užsienio valstybėmis ir tarptautinėmis organizacijomis;
 įgyvendina Lietuvos Respublikos Vyriausybės nutarimus dėl stojimo į
 tarptautines organizacijas ir prisijungimo prie daugiašalių tarptautinių
 sutarčių; organizuoja tarptautinių sutarčių ir Lietuvos Respublikos įstatymų
@@ -1381,9 +1388,9 @@ apsaugos sistemos plėtrą ir jos parengimą ginti valstybę. Ministro teises,
 pareigas, funkcijas ir atsakomybę nustato įstatymai ir kiti teisės aktai. 
 Lietuvos
 kariuomenė yra valstybės ginkluotos gynybos institucija, pagrindinė krašto
-apsaugos sistemos dalis. Kariuomenė yra ištikima Lietuvos Respublikai, jos Konstitucijai,
-tarnauja valstybei ir visuomenei, paklūsta Lietuvos piliečių demokratiškai
-išrinktai valstybės valdžiai.
+apsaugos sistemos dalis. Kariuomenė yra ištikima Lietuvos Respublikai, jos
+Konstitucijai, tarnauja valstybei ir visuomenei, paklūsta Lietuvos piliečių
+demokratiškai išrinktai valstybės valdžiai.
 Aukščiausiasis valstybės karinis
 pareigūnas, kariniais klausimais atstovaujantis Lietuvos kariuomenei, yra
 kariuomenės vadas. Svarbiausias jo uždavinys taikos metu – tinkamai rengti
@@ -1462,15 +1469,15 @@ Vidaus reikalų
 ministerijos vidaus tarnybos daliniai reorganizuojami į Vidaus reikalų
 ministerijai pavaldžią Viešojo saugumo tarnybą. Viešojo saugumo tarnybos
 veiklos pagrindus nustato įstatymas.
-Valstybės finansų sistemos
-apsaugą nuo nusikalstamo poveikio užtikrina Finansinių nusikaltimų tyrimo
-tarnyba. Šios tarnybos teisinį statusą ir veiklos pagrindus reglamentuoja
-įstatymas.
+Valstybės finansų
+sistemos apsaugą nuo nusikalstamo poveikio užtikrina Finansinių nusikaltimų
+tyrimo tarnyba. Šios tarnybos teisinį statusą ir veiklos pagrindus
+reglamentuoja įstatymas.
 Lietuvos Respublikos vadovybės ir
-oficialių svečių apsaugą nuo teroro aktų, smurto ir kitokio
-kėsinimosi bei su šio uždavinio įgyvendinimu susijusių saugomų objektų apsaugą
-užtikrina Vadovybės apsaugos departamentas. Jo veiklos pagrindus bei saugomų
-asmenų statusą nustato įstatymas.
+oficialių svečių apsaugą nuo teroro aktų, smurto ir kitokio kėsinimosi
+bei su šio uždavinio įgyvendinimu susijusių saugomų objektų apsaugą užtikrina
+Vadovybės apsaugos departamentas. Jo veiklos pagrindus bei saugomų asmenų
+statusą nustato įstatymas.
 Valstybės sienos apsaugos
 tarnybos paskirtis – įgyvendinti valstybės sienos sausumoje,
 jūroje, Kuršių mariose ir pasienio vidaus vandenyse apsaugą ir valstybės sienos kirtimo kontrolę,
@@ -1509,14 +1516,13 @@ SAUGUMO DEPARTAMENTAS
  
 Valstybės saugumo departamentas
 yra Seimui ir Respublikos Prezidentui atskaitinga institucija, kurios paskirtis
-– apsaugoti nuo pasikėsinimų valstybę, jos suverenitetą ir konstitucinę
-santvarką.
+– apsaugoti nuo pasikėsinimų valstybę, jos suverenitetą ir konstitucinę santvarką.
 Valstybės
 saugumo departamento uždaviniai – vykdyti žvalgybą ir kontržvalgybą, tirti,
 analizuoti ir prognozuoti visuomeninius politinius bei ekonominius procesus,
-susijusius su grėsmėmis nacionaliniam saugumui; laiku atskleisti veikas, keliančias
-grėsmę valstybės saugumui, suverenitetui, teritorijos neliečiamybei ir
-vientisumui, konstitucinei santvarkai, valstybės interesams, gynybinei ir
+susijusius su grėsmėmis nacionaliniam saugumui; laiku atskleisti veikas,
+keliančias grėsmę valstybės saugumui, suverenitetui, teritorijos neliečiamybei
+ir vientisumui, konstitucinei santvarkai, valstybės interesams, gynybinei ir
 ekonominei galiai, užkirsti kelią šioms veikoms ir jas šalinti įstatymų
 nustatyta tvarka. Valstybės saugumo departamentas koordinuoja Lietuvos
 Respublikos institucijų kovą su terorizmu. 
@@ -1528,9 +1534,9 @@ Informaciją, kuri nėra valstybės paslaptis, Valstybės saugumo departamentas
 teikia ir visuomenei. 
 Valstybės
 saugumo departamento veiklą reglamentuoja įstatymai.
-Valstybės saugumo departamento
-detalus biudžetas, ištekliai ir kita įstatymų numatyta informacija yra
-valstybės paslaptis. 
+Valstybės saugumo departamento detalus
+biudžetas, ištekliai ir kita įstatymų numatyta informacija yra valstybės
+paslaptis. 
 Seimas atlieka
 parlamentinę Valstybės saugumo departamento veiklos kontrolę. Ši kontrolė
 atliekama laikantis valstybės paslapčių apsaugos reikalavimų ir Seimo nustatytų
@@ -1688,8 +1694,8 @@ Lietuvos Respublikos Seimas,
 Įstatymas
 Nr. IX-1360,
 2003-03-13, Žin., 2003, Nr. 32-1309 (2003-04-02)
-NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO
-PRIEDĖLIO 11 SKYRIAUS PAKEITIMO ĮSTATYMAS
+NACIONALINIO SAUGUMO PAGRINDŲ
+ĮSTATYMO PRIEDĖLIO 11 SKYRIAUS PAKEITIMO ĮSTATYMAS
  
 6.
 Lietuvos Respublikos Seimas,
@@ -1729,8 +1735,8 @@ NACIONALINIO SAUGUMO PAGRINDŲ
 9.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. IX-2554,
-2004-11-09, Žin., 2004, Nr. 171-6308 (2004-11-26)
+Nr. IX-2554, 2004-11-09,
+Žin., 2004, Nr. 171-6308 (2004-11-26)
 NACIONALINIO SAUGUMO PAGRINDŲ
 ĮSTATYMO PRIEDĖLIO 18 SKYRIAUS PAKEITIMO ĮSTATYMAS
  
@@ -1767,11 +1773,19 @@ Nr. X-1466,
 NACIONALINIO SAUGUMO PAGRINDŲ
 ĮSTATYMO PRIEDĖLIO 7, 13 IR 18 SKYRIŲ PAKEITIMO ĮSTATYMAS
  
+14.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. X-1598, 2008-06-12, Žin.,
+2008, Nr. 73-2797 (2008-06-27)
+NACIONALINIO SAUGUMO PAGRINDŲ
+ĮSTATYMO PRIEDĖLIO 4 SKYRIAUS PAPILDYMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2008-04-03)
+Aušrinė Trapinskienė (2008-06-30)
                  
 autrap@lrs.lt
