@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.890D3838A27D"
 
 # Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymas
 
-Suvestinė redakcija nuo 2002-04-26 iki 2008-06-30
+Suvestinė redakcija nuo 2008-07-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 30-712, i. k. 0971010ISTAVIII-157
  
@@ -548,6 +548,34 @@ MEDICININIO MIRTIES LIUDIJIMO IŠDAVIMO TVARKA
 
 
 
+151 straipsnis. Mirties atvejų ir jų priežasčių valstybės registras
+
+
+1. Mirties atvejų ir jų priežasčių valstybės registro objektas – Lietuvos Respublikos teritorijoje mirusių asmenų ir Lietuvos Respublikos piliečių, mirusių užsienyje, mirties atvejai ir jų priežastys. Mirties atvejų ir jų priežasčių valstybės registre kaupiami šio Įstatymo 14 straipsnio 2 dalies 1–7 punktuose ir 4 dalyje bei kiti Registro nuostatuose išvardyti duomenys.
+
+
+
+
+2. Mirties atvejų ir jų priežasčių valstybės registrą (toliau – Registras) steigia ir jo nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
+
+
+
+
+3. Užregistravus asmens mirtį Lietuvos Respublikos teritorijoje, medicininis mirties liudijimas iš mirtis registruojančios įstaigos perduodamas registro tvarkymo įstaigai Registro nuostatuose nustatyta tvarka.
+
+
+
+
+4. Lietuvos Respublikos diplomatinės atstovybės ir konsulinės įstaigos Registro nuostatuose nustatyta tvarka registro tvarkymo įstaigai pateikia iš užsienio valstybių kompetentingų institucijų gautus duomenis apie Lietuvos Respublikos piliečių, mirusių užsienyje, mirties atvejus ir jų priežastis.
+
+
+Papildyta straipsniu:
+Nr. X-1564, 2008-06-03, Žin., 2008, Nr. 68-2567 (2008-06-14), i. k. 1081010ISTA00X-1564
+ 
+
+
+
+
 
 
 Penktasis skirsnis
@@ -600,3 +628,8 @@ Lietuvos Respublikos žmogaus mirties registravimo ir kritinių būklių įstaty
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-836, 2002-04-04, Žin., 2002, Nr. 43-1601 (2002-04-26), i. k. 1021010ISTA00IX-836
 Lietuvos Respublikos žmogaus mirties registravimo ir kritinių būklių įstatymo pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1564, 2008-06-03, Žin., 2008, Nr. 68-2567 (2008-06-14), i. k. 1081010ISTA00X-1564
+Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo papildymo 15(1) straipsniu įstatymas
