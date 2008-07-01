@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CFCEE0DB5FF2"
 
 # Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymas
 
-Suvestinė redakcija nuo 2004-02-28 iki 2008-06-30
+Suvestinė redakcija nuo 2008-07-01 iki 2010-04-26
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 92-2143, i. k. 0961010ISTA00I-1516
  
@@ -52,7 +52,10 @@ Zona steigiama 49 metams. Zonos veiklos terminas gali būti pratęstas tik įsta
 3 straipsnis. Zonos teritorija
 
 
-1. Zonos teritorija užima 205 ha. 
+1. Zonos teritorija užima 412 ha. 
+Straipsnio dalies pakeitimai:
+Nr. X-1613, 2008-06-17, Žin., 2008, Nr. 74-2863 (2008-06-30), i. k. 1081010ISTA00X-1613
+ 
 
 
 
@@ -70,30 +73,12 @@ Nr. IX-2015, 2004-02-12, Žin., 2004, Nr. 32-1007 (2004-02-28), i. k. 1041010IST
 4 straipsnis. Zonos teritorijos ribos
 
 
-Nustatomos šios zonos teritorijos ribos:
+Zonos teritorijos ribas nustato Lietuvos Respublikos Vyriausybė. 
 
 
-1) šiaurinė riba – Baltijos prospekto tęsinio rytinė pusė, UAB „Philip Morris Lietuva“ teritorijos riba;
-
-
-
-
-2) rytinė riba – krašto kelio Nr. 141 Kaunas–Jurbarkas– Šilutė–Klaipėda žemės naudojimo riba;
-
-
-
-
-3) pietinė riba – AB „Klaitra“ teritorijos šiaurinė riba, sutampa su Klaipėdos miesto administracine riba;
-
-
-
-
-4) vakarinė riba – VĮ „Lietuvos geležinkeliai“ geležinkelio ruožo Nr.19 Černiachovskas-Priekulė žemės naudojimo riba.
+Straipsnio pakeitimai:
+Nr. X-1613, 2008-06-17, Žin., 2008, Nr. 74-2863 (2008-06-30), i. k. 1081010ISTA00X-1613
  
-
-
-
-
 
 
 
@@ -469,3 +454,8 @@ Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo 7, 9 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2015, 2004-02-12, Žin., 2004, Nr. 32-1007 (2004-02-28), i. k. 1041010ISTA0IX-2015
 Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo 3, 6 ir 7 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1613, 2008-06-17, Žin., 2008, Nr. 74-2863 (2008-06-30), i. k. 1081010ISTA00X-1613
+Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo 3 ir 4 straipsnių pakeitimo įstatymas
