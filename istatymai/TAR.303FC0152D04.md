@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.303FC0152D04"
 
 # Lietuvos Respublikos reklamos įstatymas
 
-Suvestinė redakcija nuo 2008-02-01
+Suvestinė redakcija nuo 2008-07-01 iki 2010-07-02
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1937, i. k. 1001010ISTAIII-1871
  
@@ -533,7 +533,10 @@ Demonstruojant filmus kino teatruose ir videosalėse, reklama gali būti pateiki
 1. Draudžiama įrengti išorinę reklamą:
 
 
-1) automobilių keliuose ir jų sanitarinės apsaugos zonose, taip pat gatvėse ir prie jų, jeigu ji gali užstoti technines eismo reguliavimo priemones, kelio ženklus, pabloginti matomumą, akinti eismo dalyvius, atitraukti jų dėmesį, tuo keliant pavojų eismo dalyviams, taip pat draudžiama naudoti reklamą, imituojančią kelio ženklus;
+1) keliuose, virš kelių, kelių juostose ir apsaugos zonose, išskyrus stendus, eismo dalyvius informuojančius apie kelio būklę. Išorinę reklamą įrengti draudžiama gatvėse ir prie jų, jeigu ji gali užstoti technines eismo reguliavimo priemones, pabloginti matomumą, akinti eismo dalyvius, kelti pavojų eismo dalyviams. Taip pat draudžiama naudoti reklamą, imituojančią kelio ženklus ir (arba) naudojančią kelio ženklų simboliką. Reklama, įrengta pažeidžiant šiuos reikalavimus, turi būti nuimta, nugriauta ar išmontuota neatlyginant nuostolių jos savininkui arba įrengusių asmenų lėšomis; 
+Straipsnio punkto pakeitimai:
+Nr. X-1414, 2008-01-11, Žin., 2008, Nr. 11-374 (2008-01-26); Žin., 2008, Nr. 16-0 (2008-02-07), i. k. 1081010ISTA00X-1414
+ 
 
 
 
