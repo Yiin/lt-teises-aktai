@@ -13,18 +13,22 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.717DD0E6FE37"
 
 # Lietuvos Respublikos baudžiamojo proceso ir  kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymas
 
-Suvestinė redakcija nuo 2003-05-01 iki 2008-06-30
+Suvestinė redakcija nuo 2008-07-01 iki 2012-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 20-520, i. k. 0961010ISTA00I-1202
  
-LIETUVOS RESPUBLIKOS BAUDŽIAMOJO PROCESO BEI OPERATYVINĖS VEIKLOS DALYVIŲ,  TEISINGUMO IR TEISĖSAUGOS INSTITUCIJŲ PAREIGŪNŲ  APSAUGOS NUO NUSIKALSTAMO POVEIKIO ĮSTATYMAS 
+Nauja redakcija nuo 2008-07-01:
+Nr. X-1542, 2008-05-15, Žin. 2008, Nr. 63-2380 (2008-06-03), i. k. 1081010ISTA00X-1542
+ 
+LIETUVOS RESPUBLIKOS BAUDŽIAMOJO PROCESO IR OPERATYVINĖS VEIKLOS DALYVIŲ,  TEISINGUMO IR TEISĖSAUGOS INSTITUCIJŲ PAREIGŪNŲ  APSAUGOS NUO NUSIKALSTAMO POVEIKIO ĮSTATYMAS 
  
 1996 m. vasario 13 d. Nr. I-1202
 Vilnius
  
+ 
 
 
-I SKIRSNIS
+PIRMASIS SKIRSNIS
 BENDROSIOS NUOSTATOS
  
 
@@ -32,12 +36,17 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Baudžiamojo proceso bei operatyvinės veiklos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymas apibrėžia pagrindines apsaugos nuo nusikalstamo poveikio priemones, nustato jų skyrimo pagrindus ir tvarką.
+1. Lietuvos Respublikos baudžiamojo proceso ir operatyvinės veiklos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymas apibrėžia pagrindines apsaugos nuo nusikalstamo poveikio priemones, nustato jų skyrimo pagrindus ir tvarką.
 
 
 
 
-2. Šis įstatymas neapima apsaugos nuo nusikalstamo poveikio priemonių, kurios yra numatytos Lietuvos Respublikos baudžiamajame bei Baudžiamojo proceso kodeksuose.
+2. Šis įstatymas neapima apsaugos nuo nusikalstamo poveikio priemonių ir operatyvinių veiksmų, numatytų Baudžiamajame ir Baudžiamojo proceso kodeksuose, Teismų ir Prokuratūros įstatymuose, taip pat Operatyvinės veiklos įstatyme.
+
+
+
+
+3. Jeigu Lietuvos Respublikos tarptautinė sutartis nustato kitokias taisykles, negu išdėstytosios šiame įstatyme, taikomos tarptautinės sutarties taisyklės.
  
 
 
@@ -45,10 +54,35 @@ BENDROSIOS NUOSTATOS
 
 
 
-2 straipsnis. Apsaugos nuo nusikalstamo poveikio priemonių tikslas
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-Apsaugos nuo nusikalstamo poveikio priemonių tikslas yra apsaugoti operatyvinės veiklos dalyvių, liudytojų, nukentėjusiųjų bei kitų su baudžiamąja byla susijusių asmenų gyvybę, sveikatą, turtą, konstitucines teises bei laisves, taip pat užtikrinti visapusišką ir objektyvų bylos aplinkybių ištyrimą.
+1. Saugomas asmuo – asmuo, kuriam taikomos šiame įstatyme numatytos apsaugos nuo nusikalstamo poveikio priemonės.
+
+
+
+
+2. Laisvės atėmimo vietos – arešto, terminuoto laisvės atėmimo, laisvės atėmimo iki gyvos galvos bausmes ir kardomąją priemonę – suėmimą vykdančios įstaigos.
+
+
+
+
+3. Psichinė prievarta – įspėjimas apie ketinimą panaudoti specialią jėgą, šaunamąjį ginklą ar sprogstamąsias medžiagas. Psichinei prievartai prilyginami šaunamojo ginklo demonstravimas ir įspėjamieji šūviai.
+
+
+
+
+4. Speciali jėga – bet kokio pobūdžio fizinė jėga, koviniai imtynių veiksmai ir specialiųjų priemonių naudojimas.
+
+
+
+
+5. Specialiosios priemonės – guminės lazdos, antrankiai, surišimo priemonės, dujos, tarnybiniai šunys, transporto priverstinio sustabdymo ir kitos teisės aktų nustatytos aktyvios ir pasyvios gynybos priemonės.
+
+
+
+
+6. Policijos operatyvinės veiklos subjektai – Lietuvos kriminalinės policijos biuro ir teritorinių policijos įstaigų kriminalinės policijos operatyviniai padaliniai.
  
 
 
@@ -56,41 +90,10 @@ Apsaugos nuo nusikalstamo poveikio priemonių tikslas yra apsaugoti operatyvinė
 
 
 
-3 straipsnis. Asmenys, kuriems taikomos apsaugos nuo nusikalstamo poveikio priemonės
+3 straipsnis. Apsaugos nuo nusikalstamo poveikio priemonių tikslas
 
 
-1. Apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos:
-
-
-1) operatyvinės veiklos dalyviams;
-
-
-
-
-2) asmenims, dalyvaujantiems baudžiamajame procese: liudytojams, nukentėjusiesiems, ekspertams, gynėjams, įtariamiesiems, kaltinamiesiems, nuteistiesiems, išteisintiesiems; 
-Straipsnio punkto pakeitimai:
-Nr. IX-1441, 2003-04-03, Žin., 2003, Nr. 38-1686 (2003-04-24), i. k. 1031010ISTA0IX-1441
- 
-
-
-
-
-3) teisingumo ir teisėsaugos institucijų pareigūnams: teisėjams, prokurorams, ikiteisminio tyrimo pareigūnams, antstoliams; 
-Straipsnio punkto pakeitimai:
-Nr. IX-1441, 2003-04-03, Žin., 2003, Nr. 38-1686 (2003-04-24), i. k. 1031010ISTA0IX-1441
- 
-
-
-
-
-4) šio straipsnio pirmosios dalies 1–3 punktuose išvardytų asmenų artimiesiems: tėvams, įtėviams, vaikams, įvaikiams, broliams ir seserims, seneliams, vaikaičiams bei sutuoktiniams.
-
-
-
-
-
-
-2. Šio straipsnio pirmojoje dalyje išvardyti asmenys, dėl kurių yra priimtas sprendimas taikyti apsaugos nuo nusikalstamo poveikio priemones, toliau vadinami saugomais asmenimis.
+Apsaugos nuo nusikalstamo poveikio priemonių tikslas – apsaugoti asmenų, nurodytų šio įstatymo 4 straipsnyje, gyvybę, sveikatą, turtą, taip pat užtikrinti išsamų ir nešališką baudžiamosios bylos aplinkybių ištyrimą.
  
 
 
@@ -98,39 +101,28 @@ Nr. IX-1441, 2003-04-03, Žin., 2003, Nr. 38-1686 (2003-04-24), i. k. 1031010IST
 
 
 
-4 straipsnis. Apsaugos nuo nusikalstamo poveikio priemonių taikymo pagrindai
+4 straipsnis. Asmenys, kuriems taikomos apsaugos nuo nusikalstamo poveikio priemonės
 
 
-1. Apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos šio įstatymo 3 straipsnio pirmojoje dalyje išvardytiems asmenims, jei atliekant ikiteisminį tyrimą ar nagrinėjant baudžiamąsias bylas dėl sunkių ar labai sunkių nusikaltimų, yra realus pagrindas manyti, jog:
+Apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos:
 
 
-1) asmenų gyvybei ar sveikatai gresia pavojus;
-
-
-
-
-2) gali būti sunaikintas ar sugadintas asmenų turtas;
+1) asmenims, dalyvaujantiems baudžiamajame procese: liudytojams, nukentėjusiesiems, ekspertams, specialistams ir gynėjams (atstovams), atstovams pagal įstatymą, įtariamiesiems, kaltinamiesiems, nuteistiesiems, išteisintiesiems, asmenims, kuriems byla (ikiteisminis tyrimas) nutraukta;
 
 
 
 
-3) asmenų konstitucinėms teisėms ir laisvėms gresia pavojus.
+2) teisingumo ir teisėsaugos institucijų pareigūnams: teisėjams, prokurorams, ikiteisminio tyrimo pareigūnams, organizuojantiems ir įgyvendinantiems apsaugos nuo nusikalstamo poveikio priemones pareigūnams;
 
 
 
 
-
-
-2. Šio įstatymo 3 straipsnio pirmosios dalies 2 punkte nurodytiems asmenims (išskyrus ekspertus bei gynėjus) bei jų artimiesiems apsaugos nuo nusikalstamo poveikio priemonės taikomos, jeigu šie asmenys aktyviai bendradarbiavo su teisingumo ir teisėsaugos institucijų pareigūnais, padėjo išaiškinti nusikalstamą veiką ar suteikė kitos vertingos informacijos teisingumo ir teisėsaugos institucijų pareigūnams.
+3) operatyvinės veiklos slaptiesiems dalyviams;
 
 
 
 
-3. Apsaugos nuo nusikalstamo poveikio priemonės gali būti skiriamos ir taikomos vykdant operatyvinę veiklą, ikiteisminio tyrimo metu, baudžiamosios bylos nagrinėjimo teisme metu, taip pat pasibaigus operatyvinei veiklai ar baudžiamosios bylos nagrinėjimui teisme. 
-
-
-Straipsnio pakeitimai:
-Nr. IX-1441, 2003-04-03, Žin., 2003, Nr. 38-1686 (2003-04-24), i. k. 1031010ISTA0IX-1441
+4) šio straipsnio 1–3 punktuose išvardytų asmenų tėvams (įtėviams), vaikams (įvaikiams), broliams, seserims, seneliams, vaikaičiams, sutuoktiniams ir sugyventiniams.
  
 
 
@@ -138,18 +130,85 @@ Nr. IX-1441, 2003-04-03, Žin., 2003, Nr. 38-1686 (2003-04-24), i. k. 1031010IST
 
 
 
-II SKIRSNIS
+
+
+5 straipsnis. Apsaugos nuo nusikalstamo poveikio priemonių taikymo pagrindai
+
+
+1. Apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos, jei atliekant operatyvinius veiksmus ar ikiteisminį tyrimą arba nagrinėjant baudžiamąsias bylas dėl labai sunkių ar sunkių nusikaltimų, taip pat dėl apysunkių nusikaltimų, numatytų Baudžiamojo kodekso 145 straipsnio 2 dalyje, 146 straipsnio 2 ir 3 dalyse, 151 straipsnio 2 dalyje, 162 straipsnyje, 178 straipsnio 2 dalyje, 180 straipsnio 1 dalyje, 181 straipsnio 1 dalyje, 187 straipsnio 2 dalyje, 189 straipsnio 2 dalyje, 198 straipsnio 2 dalyje, 213 straipsnio 1 dalyje, 214 ir 215 straipsniuose, 225 straipsnio 2 dalyje, 227 straipsnio 2 dalyje, 228 straipsnio 2 dalyje, 240 straipsnyje, 253 straipsnio 1 dalyje, 256 straipsnio 1 dalyje, 300 straipsnio 2 dalyje, 301 straipsnio 2 dalyje, 302 straipsnio 2 dalyje, 307 straipsnio 1 ir 2 dalyse, arba pasibaigus operatyvinei veiklai ar baudžiamajam procesui buvo gauta patikrintų duomenų iš viešų ar konfidencialių šaltinių, kad:
+
+
+1) asmenų gyvybei ar sveikatai gresia realus pavojus;
+
+
+
+
+2) gali būti sunaikintas ar sugadintas asmenų turtas.
+
+
+
+
+
+
+2. Šio įstatymo 4 straipsnio 1 punkte nurodytiems asmenims, išskyrus ekspertus, specialistus ir gynėjus (atstovus), apsaugos nuo nusikalstamo poveikio priemonės taikomos, jeigu šie asmenys aktyviai bendradarbiauja su teisingumo ir teisėsaugos institucijų pareigūnais, padėjo atskleisti nusikalstamą veiką ar suteikė kitos vertingos informacijos teisingumo ir teisėsaugos institucijų pareigūnams.
+ 
+
+
+
+
+
+
+6 straipsnis. Apsaugos nuo nusikalstamo poveikio priemonių netaikymo ir nutraukimo pagrindai
+
+
+Apsaugos nuo nusikalstamo poveikio priemonės netaikomos, o jau pradėtos taikyti nutraukiamos, jei:
+
+
+1) asmuo nesutinka su pasiūlymu taikyti jam apsaugos nuo nusikalstamo poveikio priemones;
+
+
+
+
+2) šio įstatymo 4 straipsnio 1 punkte nurodyti asmenys, išskyrus ekspertus, specialistus ir gynėjus (atstovus), po apsaugos nuo nusikalstamo poveikio priemonių paskyrimo operatyvinio ar ikiteisminio tyrimo metu, taip pat nagrinėjant baudžiamąją bylą teisme atsisakė, vengė duoti ar davė melagingus parodymus ar suteikė kitą melagingą informaciją;
+
+
+
+
+3) saugomas asmuo atsisako jam paskirtų apsaugos priemonių;
+
+
+
+
+4) saugomas asmuo nesilaiko šio įstatymo 17 straipsnio 2 dalyje numatytos sutarties sąlygų;
+
+
+
+
+5) išnyko šio įstatymo 5 straipsnio 1 dalyje numatyti pagrindai.
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+ANTRASIS SKIRSNIS
 APSAUGOS NUO NUSIKALSTAMO POVEIKIO PRIEMONĖS
  
 
 
-5 straipsnis. Apsaugos nuo nusikalstamo poveikio priemonių rūšys
+7 straipsnis. Apsaugos nuo nusikalstamo poveikio priemonės
 
 
-1. Apsaugos nuo nusikalstamo poveikio priemonių rūšys yra šios:
+Apsaugos nuo nusikalstamo poveikio priemonės yra šios:
 
 
-1) fizinė asmens bei jo turto apsauga;
+1) fizinė asmens ir jo turto apsauga;
 
 
 
@@ -159,7 +218,7 @@ APSAUGOS NUO NUSIKALSTAMO POVEIKIO PRIEMONĖS
 
 
 
-3) specialaus režimo, pagal kurį teikiami duomenys apie asmenį pasų poskyriuose ir kituose oficialiuose informacijos fonduose, nustatymas;
+3) specialaus režimo, pagal kurį teikiami duomenys apie asmenį iš valstybės ir žinybinių registrų bei informacinių sistemų, nustatymas;
 
 
 
@@ -169,7 +228,7 @@ APSAUGOS NUO NUSIKALSTAMO POVEIKIO PRIEMONĖS
 
 
 
-5) asmens anketos bei biografijos duomenų pakeitimas;
+5) asmens tapatybės ir biografijos duomenų pakeitimas;
 
 
 
@@ -179,113 +238,12 @@ APSAUGOS NUO NUSIKALSTAMO POVEIKIO PRIEMONĖS
 
 
 
-7) šaunamojo ginklo, specialiųjų apsaugos priemonių asmeniui išdavimas.
+7) šaunamojo ginklo, specialiųjų priemonių asmeniui išdavimas;
 
 
 
 
-
-
-2. Vieną arba kelias konkrečias apsaugos nuo nusikalstamo poveikio priemones parenka Vidaus reikalų ministerijos Policijos departamento vadovas, atsižvelgdamas į konkrečias aplinkybes bei saugotino asmens pageidavimus. Tais atvejais, kai pagal bylos aplinkybes yra pagrindas skirti apsaugos nuo nusikalstamo poveikio priemones, bet asmuo dėl savo fizinės ar (ir) psichinės būsenos negali pareikšti savo sutikimo, šiam asmeniui turi būti skiriama apsauga, o pasikeitus aplinkybėms ir atsiradus galimybei pareikšti savo valią, jam apie tai turi būti pranešama ir gaunamas jo sutikimas. Asmeniui atsisakius apsaugos priemonių, paskirta apsauga nutraukiama. Draudžiama skirti tokią apsaugos nuo nusikalstamo poveikio priemonę, su kuria nesutinka galintis pareikšti savo valią saugotinas asmuo. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-1024, 1999-01-14, Žin., 1999, Nr. 11-243 (1999-01-27), i. k. 0991010ISTAIII-1024
- 
-
-
-
-
-3. Konkrečių apsaugos nuo nusikalstamo poveikio priemonių taikymo tvarką ir sąlygas nustato Apsaugos nuo nusikalstamo poveikio nuostatai.
- 
-
-
-
-
-
-
-6 straipsnis. Fizinė asmens bei jo turto apsauga
-
-
-1. Fizinę asmens bei jo turto apsaugą organizuoja Vidaus reikalų ministerijos Policijos departamento arba miesto (rajono) policijos komisariato vadovas. Apsauga gali būti vykdoma visą parą, tam tikru laiku arba tam tikrais atvejais.
-
-
-
-
-2. Vykdant fizinę asmens bei jo turto apsaugą, taip pat prireikus gali būti keičiami saugomų asmenų telefonų numeriai bei jų automobilių valstybiniai numeriai.
-
-
-
-
-3. Vykdant fizinę asmens bei jo turto apsaugą, įstatymų nustatyta tvarka gali būti naudojami operatyvinės veiklos veiksmai.
- 
-
-
-
-
-
-
-7 straipsnis. Laikinas asmens perkėlimas į saugią vietą
-
-
-Laikiną asmens perkėlimą į saugią vietą organizuoja Vidaus reikalų ministerijos Policijos departamento arba miesto (rajono) policijos komisariato vadovas.
- 
-
-
-
-
-
-
-8 straipsnis. Specialaus režimo, pagal kurį teikiami duomenys apie asmenį pasų poskyriuose ir kituose oficialiuose informacijos fonduose, nustatymas
-
-
-1. Vidaus reikalų ministerijos Policijos departamento ar miesto (rajono) policijos komisariato vadovas gali uždrausti pasų poskyriams, adresų biurams, migracijos, savivaldybių, butų eksploatavimo tarnyboms bei kitiems informacijos saugotojams teikti duomenis apie saugomus asmenis. Prireikus tokie duomenys gali būti paimami iš minėtų informacijos saugotojų ir perduoti Vidaus reikalų ministerijos Policijos departamentui.
-
-
-
-
-2. Duomenys apie saugomus asmenis valstybės institucijoms pateikiami tik su Vidaus reikalų ministerijos Policijos departamento vadovo leidimu arba bylą tiriančio pareigūno ar teismo reikalavimu.
- 
-
-
-
-
-
-
-9 straipsnis. Asmens gyvenamosios, darbo ar mokymosi vietos pakeitimas
-
-
-1. Asmuo gali laikinai arba visam laikui pakeisti gyvenamąją, darbo ar mokymosi vietą. Vietos pakeitimą organizuoja Vidaus reikalų ministerijos Policijos departamento arba miesto (rajono) policijos komisariato vadovas.
-
-
-
-
-2. Sprendimas dėl gyvenamosios, darbo ar mokymosi vietos pakeitimo yra privalomas valstybės institucijoms, pareigūnams, darbdaviams ir mokymosi vietų vadovams.
- 
-
-
-
-
-
-
-10 straipsnis. Anketos bei biografijos duomenų pakeitimas ir plastinės operacijos, keičiančios asmens išvaizdą, padarymas
-
-
-1. Anketos bei biografijos duomenų pakeitimą ir plastinės operacijos, keičiančios asmens išvaizdą, padarymą organizuoja Vidaus reikalų ministerijos Policijos departamento vadovas.
-
-
-
-
-2. Sprendimas dėl anketos bei biografijos duomenų pakeitimo privalomas valstybės institucijoms, pareigūnams, kitų įstaigų, įmonių ir organizacijų vadovams.
- 
-
-
-
-
-
-
-11 straipsnis. Šaunamojo ginklo, specialiųjų priemonių asmenims išdavimas
-
-
-Šaunamojo ginklo, specialiųjų priemonių asmenims išdavimą organizuoja Vidaus reikalų ministerijos Policijos departamento vadovas įstatymų ir Vyriausybės nutarimų nustatyta tvarka.
+8) finansinė parama.
  
 
 
@@ -295,35 +253,15 @@ Laikiną asmens perkėlimą į saugią vietą organizuoja Vidaus reikalų minist
 
 
 
-III SKIRSNIS
-APSAUGOS NUO NUSIKALSTAMO POVEIKIO PRIEMONIŲ TAIKYMAS
- 
+8 straipsnis. Fizinė asmens ir jo turto apsauga
 
 
-12 straipsnis. Apsaugos nuo nusikalstamo poveikio priemonių skyrimo tvarka
-
-
-1. Šio įstatymo 3 straipsnio pirmosios dalies 1 ir 2 punktuose nurodyti asmenys, esant pagrindui, turi teisę kreiptis su prašymu į Vidaus reikalų ministerijos Policijos departamento ar miesto (rajono) policijos komisariato vadovą, generalinį prokurorą ar jo pavaduotojus, apygardos vyriausiąjį prokurorą ar jo pavaduotojus, apylinkės vyriausiąjį prokurorą dėl apsaugos nuo nusikalstamo poveikio priemonių skyrimo.
+1. Fizinė asmens ir jo turto apsauga yra viešo ar neviešo pobūdžio apsaugos nuo nusikalstamo poveikio priemonė, taikoma visą parą ar tam tikru laiku ir tik Lietuvos Respublikos teritorijoje.
 
 
 
 
-2. Šio įstatymo 3 straipsnio pirmosios dalies 3 punkte nurodyti asmenys, esant pagrindui, turi teisę kreiptis su prašymu į generalinį prokurorą ar jo pavaduotojus, apygardos vyriausiąjį prokurorą ar jo pavaduotojus, apylinkės vyriausiąjį prokurorą dėl apsaugos nuo nusikalstamo poveikio priemonių skyrimo.
-
-
-
-
-3. Vidaus reikalų ministerijos Policijos departamento ar miesto (rajono) policijos komisariato vadovas, generalinis prokuroras ar jo pavaduotojai, apygardos vyriausiasis prokuroras ar jo pavaduotojai, apylinkės vyriausiasis prokuroras per 3 paras nuo prašymo gavimo dienos, o išimties atvejais nedelsdami jį išnagrinėja ir priima sprendimą paskirti apsaugos nuo nusikalstamo poveikio priemones ar šį prašymą atmesti. Sprendime paskirti apsaugos nuo nusikalstamo poveikio priemones nurodoma: sprendimo surašymo laikas ir vieta; sprendimą surašiusio asmens pareigos ir pavardė; aplinkybės, pagrindžiančios apsaugos nuo nusikalstamo poveikio priemonių paskyrimą; asmens, kuriam skiriamos apsaugos nuo nusikalstamo poveikio priemonės, vardas ir pavardė. Su šiuo sprendimu yra supažindinamas asmuo, kuriam paskirtos apsaugos nuo nusikalstamo poveikio priemonės.
-
-
-
-
-4. Vidaus reikalų ministerijos Policijos departamento ar miesto (rajono) policijos komisariato vadovas, generalinis prokuroras ar jo pavaduotojai, apygardos vyriausiasis prokuroras ar jo pavaduotojai, apylinkės vyriausiasis prokuroras, turėdami pakankamai duomenų apie realią grėsmę asmenų gyvybei, sveikatai, turtui ar konstitucinėms teisėms ir laisvėms, apie tai privalo informuoti asmenis ir pasiūlyti jiems skirti apsaugos nuo nusikalstamo poveikio priemones. Tais atvejais, kai asmuo, kuriam buvo pasiūlyta apsauga nuo nusikalstamo poveikio, jos atsisako, surašomas protokolas. Protokolą pasirašo apsaugos atsisakęs asmuo bei apsaugą pasiūlęs pareigūnas.
-
-
-
-
-5. Jei prašymas skirti apsaugos nuo nusikalstamo poveikio priemones atmetamas, suinteresuotas asmuo turi teisę per 5 paras tokį sprendimą apskųsti generaliniam prokurorui. Generalinis prokuroras per 3 paras turi priimti galutinį sprendimą prašymą patenkinti arba atmesti.
+2. Įgyvendinant fizinę asmens ir jo turto apsaugą, gali būti naudojamos inžinerinės ir techninės apsaugos priemonės.
  
 
 
@@ -331,15 +269,15 @@ APSAUGOS NUO NUSIKALSTAMO POVEIKIO PRIEMONIŲ TAIKYMAS
 
 
 
-13 straipsnis. Institucijos, atsakingos už apsaugos nuo nusikalstamo poveikio priemonių taikymą
+9 straipsnis. Laikinas asmens perkėlimas į saugią vietą
 
 
-1. Sprendimo dėl apsaugos nuo nusikalstamo poveikio priemonių vykdymą organizuoja ir už jį atsako Vidaus reikalų ministerijos Policijos departamento ar miesto (rajono) policijos komisariato vadovas.
+1. Saugomas asmuo, atsižvelgiant į jo procesinę padėtį, gali būti laikinai perkeltas į saugią vietą (gyvenamąsias ar kitas patalpas).
 
 
 
 
-2. Per 3 paras nuo sprendimo gavimo, o išimties atvejais nedelsdamas Vidaus reikalų ministerijos Policijos departamento vadovas priima nutarimą paskirti asmeniui vieną ar kelias apsaugos nuo nusikalstamo poveikio priemones. Su šiuo nutarimu yra supažindinamas asmuo, kuriam paskirtos apsaugos nuo nusikalstamo poveikio priemonės, taip pat su šiuo asmeniu sudaroma sutartis dėl apsaugos priemonių taikymo tvarkos ir sąlygų. Sutarties turinį ir formą nustato Apsaugos nuo nusikalstamo poveikio nuostatai.
+2. Įgyvendinant laikiną asmens perkėlimą į saugią vietą, gali būti naudojamos inžinerinės ir techninės apsaugos priemonės.
  
 
 
@@ -347,7 +285,188 @@ APSAUGOS NUO NUSIKALSTAMO POVEIKIO PRIEMONIŲ TAIKYMAS
 
 
 
-14 straipsnis. Saugomo asmens teisės ir pareigos
+10 straipsnis. Specialaus režimo, pagal kurį teikiami duomenys apie asmenį iš valstybės ir žinybinių registrų bei informacinių sistemų, nustatymas
+
+
+1. Valstybės ir žinybinių registrų bei informacinių sistemų tvarkytojams Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka gali būti apribota (uždrausta) teikti duomenis apie saugomus asmenis. Duomenys apie saugomus asmenis gali būti paimti iš šių informacijos tvarkytojų ir perduoti atitinkamai Policijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Policijos departamentas) arba Kalėjimų departamentui prie Lietuvos Respublikos teisingumo ministerijos (toliau – Kalėjimų departamentas).
+
+
+
+
+2. Duomenų apie saugomus asmenis teikimo apribojimas (uždraudimas) yra privalomas valstybės ir žinybinių registrų bei informacinių sistemų tvarkytojams.
+
+
+
+
+3. Duomenys apie saugomus asmenis gali būti teikiami tik gavus rašytinį Lietuvos policijos generalinio komisaro arba Kalėjimų departamento direktoriaus leidimą.
+ 
+
+
+
+
+
+
+11 straipsnis. Asmens gyvenamosios, darbo ar mokymosi vietos pakeitimas
+
+
+1. Saugomam asmeniui gali būti laikinai arba visam laikui pakeista gyvenamoji, darbo ar mokymosi vieta.
+
+
+
+
+2. Gyvenamosios, darbo ar mokymosi vietos pakeitimas yra privalomas valstybės ir savivaldybių institucijoms, įstaigoms ir įmonėms.
+ 
+
+
+
+
+
+
+12 straipsnis. Asmens tapatybės ir biografijos duomenų pakeitimas ir plastinės operacijos, keičiančios asmens išvaizdą, padarymas
+
+
+1. Saugomam asmeniui gali būti laikinai arba visam laikui pakeisti asmens tapatybės ir biografijos duomenys arba gali būti padaryta plastinė operacija, keičianti asmens išvaizdą.
+
+
+
+
+2. Asmens tapatybės ir biografijos duomenų pakeitimas yra privalomas valstybės ir savivaldybių institucijoms, įstaigoms ir įmonėms.
+
+
+
+
+3. Informacija apie saugomo asmens tapatybės ir biografijos duomenų pakeitimą ir plastinės operacijos, keičiančios asmens išvaizdą, padarymą neteikiama.
+ 
+
+
+
+
+
+
+13 straipsnis. Šaunamojo ginklo, specialiųjų priemonių asmeniui išdavimas
+
+
+Šaunamasis ginklas, specialiosios priemonės išduodamos saugomam asmeniui Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka.
+ 
+
+
+
+
+
+
+14 straipsnis. Finansinė parama
+
+
+Finansinės paramos saugomam asmeniui dydį, jos skyrimo ir mokėjimo taisykles nustato Lietuvos Respublikos Vyriausybė.
+ 
+
+
+
+
+
+
+
+
+TREČIASIS SKIRSNIS 
+APSAUGOS NUO NUSIKALSTAMO POVEIKIO PRIEMONIŲ SKYRIMAS IR TAIKYMAS
+ 
+
+
+15 straipsnis. Apsaugos nuo nusikalstamo poveikio priemonių taikymas
+
+
+1. Šio įstatymo 4 straipsnio 1 punkte nurodytiems asmenims apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos ikiteisminio tyrimo įstaigos vadovo ar teritorinės prokuratūros, Lietuvos Respublikos generalinės prokuratūros padalinio vadovo motyvuotu teikimu. Bendrą sprendimą dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo ne vėliau kaip per 5 darbo dienas nuo motyvuoto teikimo gavimo dienos priima Lietuvos Respublikos generalinis prokuroras ir Lietuvos policijos generalinis komisaras ar Kalėjimų departamento direktorius.
+
+
+
+
+2. Šio įstatymo 4 straipsnio 2 punkte nurodytiems asmenims apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos jų vadovų motyvuotu teikimu. Bendrą sprendimą dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo ne vėliau kaip per 5 darbo dienas nuo motyvuoto teikimo gavimo dienos priima Lietuvos Respublikos generalinis prokuroras ir Lietuvos policijos generalinis komisaras.
+
+
+
+
+3. Šio įstatymo 4 straipsnio 3 punkte nurodytiems asmenims apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos policijos operatyvinės veiklos subjekto ar operatyvinės veiklos subjekto pagrindinės institucijos, išskyrus Policijos departamentą, vadovo motyvuotu teikimu. Sprendimą dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo ne vėliau kaip per 5 darbo dienas nuo motyvuoto teikimo gavimo dienos priima Lietuvos policijos generalinis komisaras arba Kalėjimų departamento direktorius.
+
+
+
+
+4. Šio įstatymo 4 straipsnio 4 punkte nurodytiems asmenims apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos atitinkamai šio straipsnio 1–3 dalyse nurodytų pareigūnų motyvuotu teikimu. Sprendimą dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo ne vėliau kaip per 5 darbo dienas nuo motyvuoto teikimo gavimo dienos priima šio straipsnio 1–3 dalyse nurodyti pareigūnai.
+
+
+
+
+5. Konkrečių apsaugos nuo nusikalstamo poveikio priemonių taikymo tvarką ir sąlygas nustato Apsaugos nuo nusikalstamo poveikio nuostatai. Šiuos nuostatus tvirtina Lietuvos policijos generalinis komisaras, Kalėjimų departamento direktorius ir Lietuvos Respublikos generalinis prokuroras.
+
+
+
+
+6. Už motyvuoto teikimo skirti apsaugos nuo nusikalstamo poveikio priemones teisėtumą ir pagrįstumą, už apsaugos nuo nusikalstamo poveikio priemones įgyvendinančių institucijų informavimą laiku apie ikiteisminio tyrimo eigą, saugomo asmens procesinę padėtį ir jos pasikeitimus, taip pat kitos informacijos, turinčios reikšmės apsaugos nuo nusikalstamo poveikio priemonių taikymui ar nutraukimui, pateikimą atsako šio straipsnio 1–3 dalyse nurodyti pareigūnai.
+
+
+
+
+7. Asmuo, kuriam gali būti taikomos apsaugos nuo nusikalstamo poveikio priemonės, privalo būti nedelsiant pasirašytinai supažindinamas su sprendimu dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo.
+ 
+ 
+
+
+
+
+
+
+16 straipsnis. Apsaugos nuo nusikalstamo poveikio priemonių skyrimo tvarka
+
+
+1. Vieną arba kelias šio įstatymo 7 straipsnyje nurodytas apsaugos nuo nusikalstamo poveikio priemones, atsižvelgdami į objektyvias aplinkybes, ne vėliau kaip per 3 darbo dienas nuo 15 straipsnio 1–4 dalyse numatyto sprendimo dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo priėmimo dienos, o išimties atvejais – nedelsdami parenka ir paskiria atitinkamai Lietuvos policijos generalinis komisaras ar Kalėjimų departamento direktorius.
+
+
+
+
+2. Draudžiama skirti tokią (tokias) apsaugos nuo nusikalstamo poveikio priemonę (priemones), su kuria (kuriomis) nesutinka saugotinas asmuo, taip pat tokią (tokias) apsaugos priemonę (priemones), su kuria (kuriomis) sutinka saugotinas asmuo, bet jos neatitinka realios grėsmės.
+
+
+
+
+3. Sprendimas neskirti konkrečių saugotino asmens pageidaujamų apsaugos nuo nusikalstamo poveikio priemonių per 5 darbo dienas nuo supažindinimo su juo dienos gali būti skundžiamas Vilniaus apygardos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+ 
+
+
+
+
+
+
+17 straipsnis. Apsaugos nuo nusikalstamo poveikio priemonių taikymas
+
+
+1. Apsaugos nuo nusikalstamo poveikio priemonių taikymą užtikrina ir už jį atsako:
+
+
+1) aukštesnės ir žemesnės pakopos teritorinių policijos įstaigų vadovai. Jie savo vadovaujamos įstaigos aptarnaujamoje teritorijoje, išskyrus laisvės atėmimo vietas, organizuoja fizine, saugomų asmenų ir jų turto apsaugą;
+
+
+
+
+2) Kalėjimų departamento direktorius. Jis organizuoja fizinę asmens apsaugą, laikiną asmens perkėlimą į saugią vietą, specialaus režimo, pagal kurį teikiami duomenys apie asmenį iš valstybės ir žinybinių registrų bei informacinių sistemų, nustatymą, asmens tapatybės ir biografijos duomenų pakeitimo ir finansinės paramos vykdymą laisvės atėmimo vietose;
+
+
+
+
+3) Lietuvos policijos generalinis komisaras. Jis organizuoja ir koordinuoja visų šio įstatymo 7 straipsnyje nustatytų apsaugos nuo nusikalstamo poveikio priemonių taikymą policijos įstaigose.
+
+
+
+
+
+
+2. Su saugotinu asmeniu sudaroma sutartis dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo. Sutarties turinį ir formą nustato Apsaugos nuo nusikalstamo poveikio nuostatai.
+ 
+
+
+
+
+
+
+18 straipsnis. Saugomo asmens teisės ir pareigos
 
 
 1. Saugomas asmuo turi teisę:
@@ -358,12 +477,12 @@ APSAUGOS NUO NUSIKALSTAMO POVEIKIO PRIEMONIŲ TAIKYMAS
 
 
 
-2) prašyti taikyti jam ar panaikinti konkrečias apsaugos nuo nusikalstamo poveikio priemones, nurodytas šio įstatymo 5 straipsnyje;
+2) prašyti taikyti jam ar panaikinti konkrečias apsaugos nuo nusikalstamo poveikio priemones;
 
 
 
 
-3) apskųsti vidaus reikalų ministrui Vidaus reikalų ministerijos Policijos departamento ar miesto (rajono) policijos komisariato vadovo arba vykdančių apsaugą pareigūnų neteisėtus veiksmus.
+3) apskųsti Policijos ar Kalėjimų departamentams pavaldžių įstaigų pareigūnų, atliekančių apsaugą nuo nusikalstamo poveikio, veiksmus (ar neveikimą) atitinkamai Lietuvos policijos generaliniam komisarui arba Kalėjimų departamento direktoriui, o šių vadovų veiksmus (ar neveikimą) – Vilniaus apygardos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 
 
@@ -378,17 +497,17 @@ APSAUGOS NUO NUSIKALSTAMO POVEIKIO PRIEMONIŲ TAIKYMAS
 
 
 
-2) vykdyti Vidaus reikalų ministerijos Policijos departamento ar miesto (rajono) policijos komisariato vadovo arba pareigūno, vykdančio apsaugą, teisėtus reikalavimus;
+2) vykdyti Lietuvos policijos generalinio komisaro, teritorinės policijos įstaigos vadovo, Kalėjimų departamento direktoriaus arba pareigūnų, atliekančių apsaugą nuo nusikalstamo poveikio, reikalavimus;
 
 
 
 
-3) pranešti Vidaus reikalų ministerijos Policijos departamento ar miesto (rajono) policijos komisariato vadovui arba pareigūnui apie kiekvieną grasinimo jam atvejį ar kitus jam padarytus neteisėtus veiksmus;
+3) pranešti apsaugą nuo nusikalstamo poveikio organizuojantiems ir atliekantiems pareigūnams apie kiekvieną grasinimo jam atvejį ar kitus jam padarytus neteisėtus veiksmus;
 
 
 
 
-4) be Vidaus reikalų ministerijos Policijos departamento ar miesto (rajono) policijos komisariato vadovo arba pareigūno, vykdančio apsaugą, sutikimo neskelbti informacijos apie jam taikomas apsaugos nuo nusikalstamo poveikio priemones.
+4) be atitinkamo Lietuvos policijos generalinio komisaro, teritorinės policijos įstaigos vadovo ar Kalėjimų departamento direktoriaus sutikimo neatskleisti informacijos apie jam taikomas apsaugos nuo nusikalstamo poveikio priemones.
  
 
 
@@ -398,18 +517,10 @@ APSAUGOS NUO NUSIKALSTAMO POVEIKIO PRIEMONIŲ TAIKYMAS
 
 
 
-15 straipsnis. Sprendimo paskirti apsaugos nuo nusikalstamo poveikio priemones panaikinimas
+19 straipsnis. Sprendimo paskirti apsaugos nuo nusikalstamo poveikio priemones panaikinimas
 
 
-1. Išnykus šio įstatymo 4 straipsnyje nurodytiems pagrindams, Vidaus reikalų ministerijos Policijos departamento ar miesto (rajono) policijos komisariato vadovas, generalinis prokuroras ar jo pavaduotojai, apygardos vyriausiasis prokuroras ar jo pavaduotojai, apylinkės vyriausiasis prokuroras pagal asmens, kuriam paskirtos apsaugos nuo nusikalstamo poveikio priemonės, prašymą arba esant aplinkybėms, nurodytoms šio įstatymo 5 straipsnio 2 dalyje, asmeniui atsisakius jam paskirtos apsaugos, gali panaikinti savo ankstesnį sprendimą paskirti apsaugos nuo nusikalstamo poveikio priemones. Jei saugomas asmuo nesutinka su sprendimo paskirti apsaugos nuo nusikalstamo poveikio priemones panaikinimu, šį klausimą sprendžia generalinis prokuroras. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-1024, 1999-01-14, Žin., 1999, Nr. 11-243 (1999-01-27), i. k. 0991010ISTAIII-1024
- 
-
-
-
-
-2. Jei asmuo, kuriam taikomos apsaugos nuo nusikalstamo poveikio priemonės, nevykdo ar pažeidinėja sutarties sąlygas, Vidaus reikalų ministerijos Policijos departamento ar miesto (rajono) policijos komisariato vadovas taip pat gali kreiptis į generalinį prokurorą dėl sprendimo paskirti apsaugos nuo nusikalstamo poveikio priemones panaikinimo.
+Kai išnyksta šio įstatymo 5 straipsnyje nurodyti pagrindai arba yra šio įstatymo 6 straipsnyje nurodytų aplinkybių, apsaugą nuo nusikalstamo poveikio paskyręs pareigūnas (pareigūnai) panaikina savo ankstesnį sprendimą paskirti apsaugos nuo nusikalstamo poveikio priemones. Šis sprendimas per 5 darbo dienas nuo supažindinimo gali būti skundžiamas Vilniaus apygardos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka. Apsaugos nuo nusikalstamo poveikio priemonės taikomos tol, kol bus priimtas galutinis sprendimas dėl apsaugos nuo nusikalstamo poveikio priemonių panaikinimo ar jų tolesnio taikymo.
  
 
 
@@ -419,15 +530,162 @@ Nr. VIII-1024, 1999-01-14, Žin., 1999, Nr. 11-243 (1999-01-27), i. k. 0991010IS
 
 
 
-IV SKIRSNIS
+KETVIRTASIS SKIRSNIS
+PSICHINĖS PRIEVARTOS, SPECIALIOS JĖGOS, ŠAUNAMOJO GINKLO AR SPROGSTAMŲJŲ MEDŽIAGŲ PANAUDOJIMAS
+ 
+
+
+20 straipsnis. Psichinės prievartos, specialios jėgos, šaunamojo ginklo ar sprogstamųjų medžiagų panaudojimo bendrosios sąlygos
+
+
+1. Policijos, Kalėjimų departamento ar jam pavaldžios įstaigos pareigūnas, taikantis apsaugos nuo nusikalstamo poveikio priemones, turi teisę panaudoti psichinę prievartą, specialią jėgą, šaunamąjį ginklą ar sprogstamąsias medžiagas, kai būtina užkirsti kelią nusikalstamai veikai prieš saugomą asmenį ar pareigūną ir sulaikyti ją padariusius asmenis.
+
+
+
+
+2. Psichinė prievarta, speciali jėga, šaunamasis ginklas ar sprogstamosios medžiagos, dėl kurių žmogus gali būti sužalotas ar mirti arba būti kitokių sunkių padarinių, gali būti naudojamos tik tiek, kiek to reikia tarnybinei pareigai įvykdyti, ir tik tada, jei visos įmanomos įtikinimo priemonės nėra veiksmingos. Ar naudoti psichinę prievartą, specialią jėgą, šaunamąjį ginklą, sprogstamąsias medžiagas, sprendžia ir jų panaudojimo ribas pasirenka policijos, Kalėjimų departamento ar jam pavaldžios įstaigos pareigūnas, atsižvelgdamas į konkrečią situaciją ir nusikalstamos veikos pobūdį. Naudodamas specialią jėgą, šaunamąjį ginklą ar sprogstamąsias medžiagas, policijos, Kalėjimų departamento ar jam pavaldžios įstaigos pareigūnas privalo stengtis išvengti sunkių padarinių.
+
+
+
+
+3. Prieš naudodamas specialią jėgą, šaunamąjį ginklą ar sprogstamąsias medžiagas, policijos, Kalėjimų departamento ar jam pavaldžios įstaigos pareigūnas privalo apie tai įspėti, suteikdamas asmeniui galimybę įvykdyti reikalavimus ar nurodymus, išskyrus atvejus, kai delsimas kelia grėsmę saugomo asmens ar pareigūno gyvybei ar sveikatai arba kai įspėti neįmanoma.
+
+
+
+
+4. Apie pareigūno panaudotą specialią jėgą, šaunamąjį ginklą ar sprogstamąsias medžiagas, jei dėl to mirė ar buvo sužalotas žmogus, nedelsiant pranešama prokurorui.
+ 
+
+
+
+
+
+
+21 straipsnis. Psichinės prievartos panaudojimo pagrindai
+
+
+Policijos, Kalėjimų departamento ar jam pavaldžios įstaigos pareigūnas turi teisę panaudoti psichinę prievartą, jei yra šio įstatymo 22 ir 23 straipsniuose nurodyti pagrindai.
+ 
+
+
+
+
+
+
+22 straipsnis. Specialios jėgos panaudojimo pagrindai
+
+
+1. Policijos, Kalėjimų departamento ar jam pavaldžios įstaigos pareigūnas, taikantis apsaugos nuo nusikalstamo poveikio priemones, turi teisę panaudoti specialią jėgą:
+
+
+1) gindamas saugomą asmenį, gindamasis pats ar gindamas kitą pareigūną, įgyvendinantį apsaugos nuo nusikalstamo poveikio priemones, nuo pradėto ar tiesiogiai gresiančio pavojingo gyvybei ar sveikatai kėsinimosi arba siekdamas išgelbėti saugomą asmenį nuo susižalojimo ar savižudybės;
+
+
+
+
+2) sulaikydamas pasikėsinusį į saugomo asmens ar pareigūno sveikatą ar gyvybę asmenį, kuris aktyviais veiksmais vengia sulaikymo, arba kai yra pakankamas pagrindas manyti, kad jis gali pasipriešinti policijos, Kalėjimų departamento ar jam pavaldžios įstaigos pareigūnui;
+
+
+
+
+3) jeigu sulaikomas, pristatomas, konvojuojamas ar sulaikytas asmuo bando priešintis aktyviais ar pasyviais veiksmais arba artinasi prie policijos, Kalėjimų departamento ar jam pavaldžios įstaigos pareigūno ir nevykdo pareigūno reikalavimo laikytis nurodyto atstumo;
+
+
+
+
+4) kai kėsinamasi į policijos, Kalėjimų departamento ar jam pavaldžios įstaigos transporto priemonę, šaunamąjį ginklą, sprogstamąsias medžiagas, sprogmenis, specialiąsias ryšio ar kitas priemones.
+
+
+
+
+
+
+2. Policijos, Kalėjimų departamento ar jam pavaldžios įstaigos pareigūnas, taikantis apsaugos nuo nusikalstamo poveikio priemones, turi teisę transporto priemone stabdyti, blokuoti arba taranuoti kitą transporto priemonę, jeigu jos vairuotojas ar kitas toje transporto priemonėje esantis asmuo savo veiksmais kelia pavojų saugomo asmens gyvybei. Jei pareigūnas blokuoja arba taranuoja kitą transporto priemonę ir dėl to kyla grėsmė asmenų gyvybei, po tokių veiksmų jis turi imtis priemonių šių veiksmų padariniams pašalinti.
+
+
+
+
+3. Specialią jėgą (išskyrus antrankius ir surišimo priemones) draudžiama naudoti prieš moteris, nepilnamečius ir neįgalius asmenis, kai jų negalia akivaizdi, išskyrus atvejus, kai jie patys užpuola arba priešinasi jėga ar ginklu.
+ 
+
+
+
+
+
+
+23 straipsnis. Šaunamojo ginklo panaudojimo pagrindai
+
+
+1. Policijos, Kalėjimų departamento ar jam pavaldžios įstaigos pareigūnas, taikantis apsaugos nuo nusikalstamo poveikio priemones, turi teisę kaip išimtinę priemonę panaudoti šaunamąjį ginklą prieš asmenį:
+
+
+1) gindamas saugomą asmenį, gindamasis pats ar gindamas kitą pareigūną, taikantį apsaugos nuo nusikalstamo poveikio priemones, nuo pradėto ar tiesiogiai gresiančio pavojingo gyvybei nusikalstamo kėsinimosi;
+
+
+
+
+2) sulaikydamas pasikėsinusį į saugomo asmens ar pareigūno gyvybę asmenį, kuris aktyviais veiksmais vengia sulaikymo, jeigu kitaip jo neįmanoma sulaikyti, taip pat tais atvejais, kai asmuo atsisako vykdyti reikalavimą padėti ginklą ar kitą daiktą, kuriuo galima sužaloti žmogų, jeigu kyla pavojus saugomo asmens ar pareigūno gyvybei ir kitaip jo neįmanoma nuginkluoti;
+
+
+
+
+3) atremdamas saugomų objektų ginkluotą užpuolimą.
+
+
+
+
+
+
+2. Policijos, Kalėjimų departamento ar jam pavaldžios įstaigos pareigūnas, taikantis apsaugos nuo nusikalstamo poveikio priemones, turi teisę panaudoti šaunamąjį ginklą prieš transporto priemonę:
+
+
+1) kai transporto priemonė naudojama pavojingam gyvybei kėsinimuisi į saugomą asmenį ar pareigūną;
+
+
+
+
+2) sulaikydamas pasikėsinimą į saugomo asmens ar pareigūno gyvybę padariusį asmenį, kai jis bando transporto priemone pabėgti.
+
+
+
+
+
+
+3. Policijos, Kalėjimų departamento ar jam pavaldžios įstaigos pareigūnas, taikantis apsaugos nuo nusikalstamo poveikio priemones, turi teisę panaudoti šaunamąjį ginklą prieš gyvūną, kai jis kelia grėsmę pareigūno, saugomo ar kito asmens sveikatai ir gyvybei.
+
+
+
+
+4. Draudžiama naudoti šaunamuosius ginklus žmonių susibūrimo vietose, jeigu nuo to gali nukentėti pašaliniai asmenys, taip pat prieš moteris, nepilnamečius ir neįgalius asmenis, kai jų negalia akivaizdi, išskyrus atvejus, kai jie patys užpuola arba priešinasi šaunamuoju ginklu.
+ 
+
+
+
+
+
+
+24 straipsnis. Sprogstamųjų medžiagų panaudojimo pagrindai
+
+
+Policijos, Kalėjimų departamento ar jam pavaldžios įstaigos pareigūnas, nekeldamas grėsmės žmogaus gyvybei, turi teisę panaudoti sprogstamąsias medžiagas, kai atliekami saugomo asmens ar pareigūno gyvybei keliantys grėsmę nusikalstami veiksmai, taip pat būtinojo reikalingumo ar būtinosios ginties sąlygomis, išskyrus atvejus, kai sprogstamosios medžiagos naudojamos kaip specialiosios priemonės.
+ 
+
+
+
+
+
+
+
+
+PENKTASIS SKIRSNIS 
 BAIGIAMOSIOS NUOSTATOS
  
 
 
-16 straipsnis. Informacijos apie asmenis, kuriems buvo taikomos apsaugos nuo nusikalstamo poveikio priemonės, saugojimo tvarka
+25 straipsnis. Informacijos apie asmenis, kuriems taikomos apsaugos nuo nusikalstamo poveikio priemonės, slaptumas
 
 
-Visa informacija apie asmenis, kuriems buvo taikomos apsaugos nuo nusikalstamo poveikio priemonės, perduodama Vidaus reikalų ministerijos Policijos departamentui.
+Visa informacija apie saugomus asmenis, kuriems taikomos apsaugos nuo nusikalstamo poveikio priemonės, įslaptinama Lietuvos Respublikos įstatymų nustatyta tvarka.
  
 
 
@@ -435,10 +693,10 @@ Visa informacija apie asmenis, kuriems buvo taikomos apsaugos nuo nusikalstamo p
 
 
 
-17 straipsnis. Atsakomybė už informacijos apie asmenis, kuriems taikomos apsaugos nuo nusikalstamo poveikio priemonės, atskleidimą
+26 straipsnis. Atsakomybė už informacijos apie apsaugos nuo nusikalstamo poveikio priemonių taikymą neteisėtą atskleidimą
 
 
-Pareigūnas, pažeidęs informacijos apie apsaugos nuo nusikalstamo poveikio priemonių taikymo asmenims konfidencialumą ar anonimiškumą, atsako pagal Lietuvos Respublikos įstatymus.
+Asmuo, pažeidęs informacijos apie apsaugos nuo nusikalstamo poveikio priemonių taikymą asmenims konfidencialumą, atsako pagal Lietuvos Respublikos įstatymus.
  
 
 
@@ -446,33 +704,10 @@ Pareigūnas, pažeidęs informacijos apie apsaugos nuo nusikalstamo poveikio pri
 
 
 
-18 straipsnis. Apsaugos nuo nusikalstamo poveikio priemonių finansavimas
+27 straipsnis. Apsaugos nuo nusikalstamo poveikio priemonių finansavimas
 
 
-Visos apsaugos nuo nusikalstamo poveikio priemonės finansuojamos iš valstybės biudžeto.
- 
-
-
-
-
-
-
-19 straipsnis. Įstatymo įsigaliojimas
-
-
-Šis įstatymas įsigalioja nuo 1997 m. sausio 1 d.
- 
-
-
-
-
-
-
-20 straipsnis. Pasiūlymas Vyriausybei
-
-
-Vyriausybė iki 1996 m. gruodžio 1 d. patvirtina Apsaugos nuo nusikalstamo poveikio nuostatus.
- 
+Apsaugos nuo nusikalstamo poveikio priemonės finansuojamos iš valstybės biudžeto.
  
 
 
@@ -492,6 +727,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
  
  
+ 
 Pakeitimai:
  
 1.
@@ -503,3 +739,8 @@ LIetuvos Respublikos baudžiamojo proceso bei operatyvinės veiklos dalyvių, te
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1441, 2003-04-03, Žin., 2003, Nr. 38-1686 (2003-04-24), i. k. 1031010ISTA0IX-1441
 Lietuvos Respublikos baudžiamojo proceso bei operatyvinės veiklos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo 3 ir 4 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1542, 2008-05-15, Žin., 2008, Nr. 63-2380 (2008-06-03), i. k. 1081010ISTA00X-1542
+Lietuvos Respublikos baudžiamojo proceso bei operatyvinės veiklos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo pakeitimo įstatymas
