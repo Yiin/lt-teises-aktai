@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E59A4E24506E"
 
 # Lietuvos Respublikos susirinkimų įstatymas
 
-Suvestinė redakcija nuo 2003-05-01 iki 2008-07-02
+Suvestinė redakcija nuo 2008-07-03 iki 2012-11-23
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 69-1291, i. k. 0931010ISTA000I-317
  
@@ -208,7 +208,14 @@ Draudžiami susirinkimai, kurių dalyviai:
 
 
 
-4) susirinkimų metu sakomomis kalbomis, plakatais, šūkiais, audiovizualinėmis priemonėmis ir kitokiais veiksmais akivaizdžiai kursto pažeisti arba pažeidžia Lietuvos Respublikos Konstituciją ar įstatymus.
+4) susirinkimų metu sakomomis kalbomis, plakatais, šūkiais, audiovizualinėmis priemonėmis ir kitokiais veiksmais akivaizdžiai kursto pažeisti arba pažeidžia Lietuvos Respublikos Konstituciją ar įstatymus;
+
+
+
+
+5) demonstruoja nacistinės Vokietijos, SSRS ar Lietuvos SSR vėliavą ar herbą arba vėliavą, ženklą ar uniformą, kurių sudedamoji dalis yra nacistinės Vokietijos, SSRS ar Lietuvos SSR vėliava ar herbas, atsakingų už Lietuvos gyventojų represijas Vokietijos nacionalsocialistų arba SSRS komunistų partijos vadovų atvaizdus, nacistinių ar komunistinių organizacijų simbolius ar uniformas arba nacistinės Vokietijos, SSRS ar Lietuvos SSR vėliavos ar herbo, nacistinės svastikos, nacistinio SS ženklo, sovietinio kūjo ir pjautuvo ženklo, sovietinės raudonos penkiakampės žvaigždės ženklo pagrindu sudarytas vėliavas ar ženklus, atlieka nacistinės Vokietijos, SSRS ar Lietuvos SSR himną. 
+Papildyta straipsnio punktu:
+Nr. X-1609, 2008-06-17, Žin., 2008, Nr. 75-2920 (2008-07-03), i. k. 1081010ISTA00X-1609
  
 
 
@@ -602,3 +609,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1452, 2003-04-03, Žin., 2003, Nr. 38-1697 (2003-04-24), i. k. 1031010ISTA0IX-1452
 Lietuvos Respublikos susirinkimų įstatymo 17 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1609, 2008-06-17, Žin., 2008, Nr. 75-2920 (2008-07-03), i. k. 1081010ISTA00X-1609
+Lietuvos Respublikos susirinkimų įstatymo 8 straipsnio papildymo įstatymas
