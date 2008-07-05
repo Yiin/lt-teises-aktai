@@ -13,14 +13,21 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0CC6CB2A9E42"
 
 # Lietuvos Respublikos lygių galimybių įstatymas
 
-LIETUVOS RESPUBLIKOS LYGIŲ GALIMYBIŲ ĮSTATYMAS
+Suvestinė redakcija nuo 2008-07-05 iki 2014-09-30
+ 
+Įstatymas paskelbtas: Žin. 2003, Nr. 114-5115, i. k. 1031010ISTA0IX-1826
+ 
+Nauja redakcija nuo 2008-07-05:
+Nr. X-1602, 2008-06-17, Žin. 2008, Nr. 76-2998 (2008-07-05), i. k. 1081010ISTA00X-1602
+ 
+LIETUVOS RESPUBLIKOS  LYGIŲ GALIMYBIŲ  ĮSTATYMAS
  
 2003 m. lapkričio 18 d. Nr. IX-1826
 Vilnius
  
 
 
-I SKYRIUS
+PIRMASIS SKIRSNIS 
 BENDROSIOS NUOSTATOS
  
 
@@ -28,17 +35,7 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šio Įstatymo paskirtis – užtikrinti, kad būtų įgyvendintos Lietuvos Respublikos Konstitucijoje įtvirtintos žmonių lygios teisės, bei uždrausti bet kokią tiesioginę ir netiesioginę diskriminaciją dėl amžiaus, lytinės orientacijos, negalios, rasės ar etninės priklausomybės, religijos ar įsitikinimų. 
-
-
-
-
-2. Šio Įstatymo nuostatos šeimos ir privataus gyvenimo srityse netaikomos. 
-
-
-
-
-3. Šis Įstatymas yra skirtas užtikrinti Europos Sąjungos teisės aktų, nurodytų šio Įstatymo priede, taikymą.
+Šio įstatymo paskirtis – užtikrinti, kad būtų įgyvendintos Lietuvos Respublikos Konstitucijos 29 straipsnio nuostatos, įtvirtinančios asmenų lygybę ir draudimą varžyti žmogaus teises ir teikti jam privilegijas lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų pagrindu, taip pat kad būtų įgyvendintos ir Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, kitų tarptautinių teisės aktų nuostatos.
  
 
 
@@ -46,70 +43,139 @@ BENDROSIOS NUOSTATOS
 
 
 
-2 straipsnis. Pagrindinės šio Įstatymo sąvokos
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Lygios galimybės – tarptautiniuose žmogaus ir piliečių teisių dokumentuose ir Lietuvos Respublikos įstatymuose įtvirtintų žmogaus teisių įgyvendinimas nepaisant amžiaus, lytinės orientacijos, negalios, rasės ar etninės priklausomybės, religijos, įsitikinimų ir kitų Lietuvos Respublikos tarptautinėse sutartyse ar įstatymuose numatytų pagrindų.
-
-
-
-
-2. Lygių galimybių pažeidimas – tiesioginė ar netiesioginė diskriminacija dėl amžiaus, lytinės orientacijos, negalios, rasės ar etninės priklausomybės, religijos ar įsitikinimų. 
+1. Diskriminacija – tiesioginė ir netiesioginė diskriminacija, priekabiavimas, nurodymas diskriminuoti lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu.
 
 
 
 
-3. Tiesioginė diskriminacija – elgesys su asmeniu, kai dėl jo amžiaus, lytinės orientacijos, negalios, rasės ar etninės priklausomybės, religijos ar įsitikinimų taikomos prastesnės sąlygos, negu panašiomis aplinkybėmis yra, buvo ar būtų taikomos kitam asmeniui, išskyrus šiuos įstatymų numatytus atvejus:
-
-
-1) apribojimus dėl amžiaus; 
+2. Etosas – tikėjimo, vertybių, moralinių nuostatų ir tradicijų visuma, lemianti asmens arba asmenų grupės elgesį ar elgesio normas.
 
 
 
 
-2) reikalavimą mokėti valstybinę kalbą;
+3. Lygios galimybės – tarptautiniuose žmogaus ir piliečių teisių dokumentuose ir Lietuvos Respublikos įstatymuose įtvirtintų žmogaus teisių įgyvendinimas nepaisant lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos.
 
 
 
 
-3) draudimą dalyvauti politinėje veikloje;
+4. Netiesioginė diskriminacija – veikimas ar neveikimas, teisės norma ar vertinimo kriterijus, akivaizdžiai neutrali sąlyga ar praktika, kurie formaliai yra vienodi, bet juos įgyvendinant ar pritaikant atsiranda ar gali atsirasti faktinis naudojimosi teisėmis apribojimas arba privilegijų, pirmenybės ar pranašumo teikimas lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu, nebent šį veikimą ar neveikimą, teisės normą ar vertinimo kriterijų, sąlygą ar praktiką pateisina teisėtas tikslas, o šio tikslo siekiama tinkamomis ir būtinomis priemonėmis.
 
 
 
 
-4) dėl pilietybės taikomas skirtingas teises;
+5. Priekabiavimas – nepageidaujamas elgesys, kai lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu siekiama įžeisti arba įžeidžiamas asmens orumas ir siekiama sukurti arba sukuriama bauginanti, priešiška, žeminanti ar įžeidžianti aplinka.
 
 
 
 
-5) specialias priemones sveikatos apsaugos, darbo saugos, užimtumo, darbo rinkos srityje, siekiant neįgaliesiems sukurti ir taikyti integraciją į darbo aplinką garantuojančias ir skatinančias sąlygas bei galimybes;
+6. Socialinė padėtis – fizinio asmens įgytas išsilavinimas, kvalifikacija ar mokymasis ir studijos mokslo ir studijų sistemai priklausančiose įstaigose, turima nuosavybė, gaunamos pajamos, teisės aktuose nustatytos valstybės paramos poreikis ir (arba) kiti su asmens finansine (ekonomine) padėtimi susiję veiksniai.
 
 
 
 
-6) specialias laikinąsias priemones, taikomas siekiant užtikrinti lygybę ir užkirsti kelią lygių galimybių pažeidimui dėl amžiaus, lytinės orientacijos, negalios, rasės ar etninės priklausomybės, religijos ar įsitikinimų;
+7. Tiesioginė diskriminacija – elgesys su asmeniu, kai lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu jam taikomos mažiau palankios sąlygos, negu panašiomis aplinkybėmis yra, buvo ar būtų taikomos kitam asmeniui, išskyrus:
+
+
+1) įstatymų nustatytus apribojimus dėl amžiaus, kai tai pateisina teisėtas tikslas, o šio tikslo siekiama tinkamomis ir būtinomis priemonėmis;
 
 
 
 
-7) kai dėl konkrečių profesinės veiklos rūšių pobūdžio arba dėl jų vykdymo sąlygų tam tikra žmogaus savybė yra įprastas ir lemiantis profesinis reikalavimas, o šis tikslas yra teisėtas ir reikalavimas yra tinkamas.
+2) įstatymų nustatytą reikalavimą mokėti valstybinę kalbą;
+
+
+
+
+3) įstatymų nustatytais atvejais draudimą dalyvauti politinėje veikloje;
+
+
+
+
+4) įstatymų nustatytas dėl pilietybės taikomas skirtingas teises;
+
+
+
+
+5) įstatymų nustatytas specialias priemones sveikatos apsaugos, darbo saugos, užimtumo, darbo rinkos srityje, siekiant sukurti ir taikyti integraciją į darbo aplinką garantuojančias ir skatinančias sąlygas bei galimybes;
+
+
+
+
+6) įstatymų nustatytas specialias laikinąsias priemones, taikomas siekiant užtikrinti lygybę ir užkirsti kelią lygių galimybių pažeidimui lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu;
+
+
+
+
+7) kai dėl konkrečių profesinės veiklos rūšių pobūdžio arba dėl jų vykdymo sąlygų tam tikra žmogaus savybė yra esminis ir lemiamas profesinis reikalavimas, o šis tikslas yra teisėtas ir reikalavimas yra proporcingas;
+
+
+
+
+8) kai ribojimų, specialių reikalavimų arba tam tikrų sąlygų dėl asmens socialinės padėties teisinį reguliavimą pateisina teisėtas tikslas, o šio tikslo siekiama tinkamomis ir būtinomis priemonėmis;
+
+
+
+
+9) atskirų sporto varžybų neįgaliesiems rengimą.
 
 
 
 
 
 
-4. Netiesioginė diskriminacija – veikimas ar neveikimas, teisės norma ar vertinimo kriterijus, akivaizdžiai neutrali sąlyga ar praktika, kurie formaliai yra vienodi, bet juos įgyvendinant ar pritaikant gali atsirasti, atsiranda ar galėtų atsirasti faktinis naudojimosi teisėmis apribojimas arba privilegijų, pirmenybės ar pranašumo teikimas tam tikro amžiaus, tam tikros lytinės orientacijos, negalios, rasės ar etninės priklausomybės, religijos ar įsitikinimų asmenims. 
+8. Nurodymas diskriminuoti asmenį lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu laikomas diskriminacija, apibrėžta šio straipsnio 4 ir 7 dalyse.
+ 
 
 
 
 
-5. Priekabiavimas – nepageidaujamas elgesys (diskriminacija), kai dėl amžiaus, lytinės orientacijos, negalios, rasės ar etninės priklausomybės, religijos ar įsitikinimų siekiama įžeisti arba įžeidžiamas asmens orumas ir siekiama sukurti arba sukuriama bauginanti, priešiška, žeminanti ar įžeidžianti aplinka.
+
+
+3 straipsnis. Įstatymo nuostatų netaikymo atvejai
+
+
+Šio įstatymo nuostatos netaikomos:
+
+
+1) šeimos ir privataus gyvenimo srityse;
 
 
 
 
-6. Nurodymas diskriminuoti dėl asmens amžiaus, lytinės orientacijos, negalios, rasės ar etninės priklausomybės, religijos ar įsitikinimų yra diskriminacija, apibrėžta šio straipsnio 3 dalyje.
+2) religinių bendruomenių, bendrijų ir centrų, jų tos pačios religijos tikslams įgyvendinti įsteigtų juridinių asmenų (toliau – religinės bendruomenės ir bendrijos), jų arba jų narių įsteigtų organizacijų, kurių steigimo ar juos atitinkančiuose dokumentuose nurodyta, kad jų etosas remiasi religija ar tikėjimu, darbuotojams ar personalui, taip pat tradicinių religinių bendruomenių ir bendrijų tikybos mokytojams keliamiems reikalavimams, jei dėl jų veiklos pobūdžio arba dėl aplinkybių, kuriomis ji vykdoma, reikalavimai dėl asmens išpažintinos religijos, tikėjimo ar įsitikinimų atsižvelgiant į minėtų organizacijų etosą yra įprastas, teisėtas ir pateisinamas reikalavimas;
+
+
+
+
+3) religinėms bendruomenėms ir bendrijoms, jų arba jų narių įsteigtoms organizacijoms, kurių steigimo ar juos atitinkančiuose dokumentuose nustatyta, kad jų etosas remiasi religija ar tikėjimu, teikiant gaminius, prekes ir paslaugas religiniais arba tikėjimo tikslais;
+
+
+
+
+4) priimant asmenis mokytis ar studijuoti į religinių bendruomenių ir bendrijų, jų arba jų narių įsteigtas mokyklas ir įstaigas, įmones, organizacijas, kurioms švietimas nėra pagrindinė veikla, įsteigtas turint ugdymo religinės bendruomenės ar bendrijos vertybes palaikančioje aplinkoje tikslą, kai atsisakymas priimti asmenį yra būtinas siekiant išsaugoti minėtų organizacijų etosą;
+
+
+
+
+5) mokant tradicinių religinių bendruomenių ir bendrijų tikybos, švietimo programų, vadovėlių ir mokymo priemonių turiniui;
+
+
+
+
+6) reikalavimams, kad asmenys, užsiimantys profesine veikla religinėse bendruomenėse ir bendrijose, jų arba jų narių įsteigtose organizacijose, kurių steigimo ar juos atitinkančiuose dokumentuose nustatyta, kad jų etosas remiasi religija ar tikėjimu, taip pat asmenys, kurie mokosi, studijuoja religinių bendruomenių ir bendrijų, jų arba jų narių įsteigtose mokyklose ir įstaigose, įmonėse, organizacijose, kurioms švietimas nėra pagrindinė veikla, ar dalyvaujantys organizacijose, įsteigtose turint ugdymo religinės bendruomenės ar bendrijos vertybes palaikančioje aplinkoje tikslą, sąžiningai ir ištikimai laikytųsi minėtų organizacijų etoso;
+
+
+
+
+7) lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu asmenis vienijančioms organizacijoms sprendžiant narystės ir darbo šiose organizacijose klausimus, kai dėl organizacijos vienijimosi pagrindo tai yra įprasta, teisėta ir pateisinama;
+
+
+
+
+8) švietimo ir ugdymo srityse, jei šio įstatymo nuostatų taikymas nesuderinamas su valstybinių ar privačių ikimokyklinio ugdymo įstaigų, bendrojo lavinimo mokyklų ar kitų švietimo įstaigų, kurių steigimo ar juos atitinkančiuose dokumentuose nustatyta, kad jų etosas remiasi religija ar tikėjimu, bendruomenių siekiu ugdyti vaikus religinės bendruomenės ar bendrijos vertybes palaikančioje aplinkoje.
  
 
 
@@ -119,28 +185,42 @@ BENDROSIOS NUOSTATOS
 
 
 
-II SKYRIUS
+4 straipsnis. Įrodinėjimo pareiga
+
+
+Teismuose ar kitose kompetentingose institucijose nagrinėjant fizinių ir juridinių asmenų skundus, pareiškimus, prašymus, pranešimus ar ieškinius dėl diskriminacijos lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu, pareiškėjui nurodžius aplinkybes, leidžiančias daryti prielaidą dėl tiesioginės ar netiesioginės diskriminacijos buvimo, preziumuojama, kad tiesioginės ar netiesioginės diskriminacijos, priekabiavimo ar nurodymo diskriminuoti faktas buvo. Skundžiamas asmuo turi įrodyti, kad lygių galimybių principas nebuvo pažeistas.
+ 
+
+
+
+
+
+
+
+
+ANTRASIS SKIRSNIS 
 LYGIŲ GALIMYBIŲ ĮGYVENDINIMAS
  
 
 
-3 straipsnis. Valstybės ir savivaldybių institucijų ir įstaigų pareiga įgyvendinti lygias galimybes 
+5 straipsnis. Valstybės ir savivaldybių institucijų ir įstaigų pareiga įgyvendinti lygias galimybes
+ 
 
 
 Valstybės ir savivaldybių institucijos ir įstaigos pagal kompetenciją privalo:
 
 
-1) užtikrinti, kad visuose jų rengiamuose ir priimamuose teisės aktuose būtų įtvirtintos lygios teisės ir galimybės neatsižvelgiant į amžių, lytinę orientaciją, negalią, rasę ar etninę priklausomybę, religiją ar įsitikinimus;
+1) užtikrinti, kad visuose teisės aktuose būtų įtvirtintos lygios teisės ir galimybės nepaisant lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos;
 
 
 
 
-2) rengti ir įgyvendinti programas ir priemones, skirtas lygių galimybių užtikrinimui neatsižvelgiant į amžių, lytinę orientaciją, negalią, rasę ar etninę priklausomybę, religiją ar įsitikinimus;
+2) rengti, tvirtinti ir įgyvendinti programas ir priemones, skirtas lygioms galimybėms užtikrinti nepaisant lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos;
 
 
 
 
-3) įstatymų nustatyta tvarka remti religinių bendruomenių, bendrijų ir centrų, kitų nevyriausybinių organizacijų, viešųjų įstaigų, asociacijų ir labdaros bei paramos fondų programas, kurios padeda įgyvendinti lygias asmenų galimybes nepaisant jų amžiaus, lytinės orientacijos, negalios, rasės ar etninės priklausomybės, religijos ar įsitikinimų.
+3) įstatymų nustatyta tvarka remti religinių bendruomenių, bendrijų ir centrų, viešųjų įstaigų, asociacijų ir labdaros bei paramos fondų programas, kurios padeda įgyvendinti lygias asmenų galimybes lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu.
  
 
 
@@ -150,35 +230,40 @@ Valstybės ir savivaldybių institucijos ir įstaigos pagal kompetenciją prival
 
 
 
-4 straipsnis. Švietimo įstaigų, mokslo ir studijų institucijų pareiga įgyvendinti lygias galimybes 
+6 straipsnis. Švietimo įstaigų, kitų švietimo teikėjų bei mokslo ir studijų sistemai priklausančių įstaigų pareiga įgyvendinti lygias galimybes
 
 
-1. Švietimo įstaigų, mokslo ir studijų institucijos privalo užtikrinti vienodas sąlygas asmenims nepaisant jų amžiaus, lytinės orientacijos, negalios, rasės ar etninės priklausomybės, religijos ar įsitikinimų, kai:
+1. Švietimo įstaigos, kiti švietimo teikėjai bei mokslo ir studijų sistemai priklausančios įstaigos privalo užtikrinti vienodas sąlygas asmenims nepaisant lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos, kai:
 
 
-1) priimama į bendrojo lavinimo mokyklas, profesinio mokymo įstaigas, aukštesniąsias, aukštąsias mokyklas ir kvalifikacijos kėlimo, persikvalifikavimo ir kitus kursus;
-
-
-
-
-2) skiriamos stipendijos ir teikiami kreditai studijoms;
+1) priimama į švietimo įstaigas, kitus švietimo teikėjus bei mokslo ir studijų sistemai priklausančias įstaigas, mokoma ir ugdoma pagal formaliojo ir neformaliojo švietimo programas, kurias jie vykdo;
 
 
 
 
-3) sudaromos, rengiamos, tvirtinamos mokymo programos bei jos parenkamos;
+2) skiriamos stipendijos ar teikiamos paskolos;
 
 
 
 
-4) vertinamos žinios.
+3) sudaromos, tvirtinamos švietimo programos;
+
+
+
+
+4) vertinami mokymosi pasiekimai.
 
 
 
 
 
 
-2. Švietimo įstaigos, mokslo ir studijų institucijos, neformaliojo suaugusiųjų švietimo programų vykdytojai pagal kompetenciją privalo užtikrinti, kad mokymo programose ir vadovėliuose nebūtų diskriminavimo ir diskriminavimo propagavimo dėl asmens amžiaus, lytinės orientacijos, negalios, rasės ar etninės priklausomybės, religijos ar įsitikinimų.
+2. Švietimo įstaigos, kiti švietimo teikėjai bei mokslo ir studijų sistemai priklausančios įstaigos pagal kompetenciją privalo užtikrinti, kad švietimo programose, vadovėliuose ir mokymo priemonėse nebūtų diskriminavimo ir diskriminavimo propagavimo lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu.
+
+
+
+
+3. Švietimo įstaigos, kiti švietimo teikėjai bei mokslo ir studijų sistemai priklausančios įstaigos privalo užtikrinti, kad šiose įstaigose nebūtų priekabiaujama ir nebūtų duodami nurodymai priekabiauti lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu šio straipsnio 1 dalyje nustatytais atvejais.
  
 
 
@@ -186,28 +271,28 @@ Valstybės ir savivaldybių institucijos ir įstaigos pagal kompetenciją prival
 
 
 
-5 straipsnis. Darbdavio pareiga įgyvendinti lygias galimybes darbe, valstybės tarnyboje
+7 straipsnis. Darbdavio pareiga įgyvendinti lygias galimybes darbe, valstybės tarnyboje
 
 
-Įgyvendindamas lygias galimybes, darbdavys, neatsižvelgdamas į asmens amžių, lytinę orientaciją, negalią, rasę ar etninę priklausomybę, religiją ar įsitikinimus, privalo:
+Įgyvendindamas lygias galimybes, darbdavys, neatsižvelgdamas į lytį, rasę, tautybę, kalbą, kilmę, socialinę padėtį, tikėjimą, įsitikinimus ar pažiūras, amžių, lytinę orientaciją, negalią, etninę priklausomybę, religiją, privalo:
 
 
-1) priimdamas į darbą, į valstybės tarnybą, taikyti vienodus atrankos kriterijus įsidarbinimo sąlygoms, išskyrus šio Įstatymo 2 straipsnio 3 dalies 1, 2, 3, 4 ir 5 punktuose numatytus atvejus;
-
-
-
-
-2) sudaryti vienodas darbo, valstybės tarnybos sąlygas, galimybes kelti kvalifikaciją, siekti sudėtingesnio profesinio mokymo, persikvalifikuoti, įgyti praktinę darbo patirtį, taip pat teikti vienodas lengvatas;
+1) priimdamas į darbą, į valstybės tarnybą, taikyti vienodus atrankos kriterijus ir sąlygas, išskyrus šio įstatymo 2 straipsnio 7 dalyje nustatytus atvejus;
 
 
 
 
-3) naudoti vienodus darbo ir vykdomos valstybės tarnautojų tarnybinės veiklos vertinimo kriterijus;
+2) sudaryti vienodas darbo, valstybės tarnybos sąlygas, galimybes kelti kvalifikaciją, siekti profesinio mokymo, persikvalifikuoti, įgyti praktinę darbo patirtį, taip pat teikti vienodas lengvatas;
 
 
 
 
-4) naudoti vienodus atleidimo iš darbo ir iš valstybės tarnybos vertinimo kriterijus;
+3) naudoti vienodus darbo ir valstybės tarnautojų tarnybinės veiklos vertinimo kriterijus;
+
+
+
+
+4) naudoti vienodus atleidimo iš darbo ir iš valstybės tarnybos kriterijus;
 
 
 
@@ -217,7 +302,7 @@ Valstybės ir savivaldybių institucijos ir įstaigos pagal kompetenciją prival
 
 
 
-6) imtis priemonių, kad darbuotojas, valstybės tarnautojas nepatirtų priekabiavimo;
+6) imtis priemonių, kad darbuotojas ar valstybės tarnautojas darbo vietoje nepatirtų priekabiavimo ir nebūtų duodami nurodymai diskriminuoti;
 
 
 
@@ -227,12 +312,12 @@ Valstybės ir savivaldybių institucijos ir įstaigos pagal kompetenciją prival
 
 
 
-8) imtis priemonių, kad darbuotojas, tarnautojas, pateikęs skundą dėl diskriminacijos, nebūtų persekiojamas ir būtų apsaugotas nuo priešiško elgesio ar neigiamų pasekmių;
+8) imtis priemonių, kad darbuotojas, valstybės tarnautojas, pateikę skundą dėl diskriminacijos ar dalyvaujantys byloje dėl diskriminacijos, jų atstovas ar asmuo, liudijantys ir teikiantys paaiškinimus dėl diskriminacijos, nebūtų persekiojami ir būtų apsaugoti nuo priešiško elgesio ar neigiamų pasekmių;
 
 
 
 
-9) imtis tinkamų priemonių, kad neįgaliesiems būtų sudarytos sąlygos gauti darbą, dirbti, siekti karjeros arba mokytis, jeigu dėl tokių priemonių nebus neproporcingai apsunkinamos darbdavio pareigos. 
+9) imtis tinkamų priemonių, kad neįgaliesiems būtų sudarytos sąlygos gauti darbą, dirbti, siekti karjeros arba mokytis, įskaitant tinkamą patalpų pritaikymą, jeigu dėl tokių priemonių nebus neproporcingai apsunkinamos darbdavio pareigos.
  
 
 
@@ -242,18 +327,18 @@ Valstybės ir savivaldybių institucijos ir įstaigos pagal kompetenciją prival
 
 
 
-6 straipsnis. Lygių galimybių įgyvendinimas vartotojų teisių apsaugos srityje
+8 straipsnis. Lygių galimybių įgyvendinimas vartotojų teisių apsaugos srityje
 
 
-Įgyvendindamas lygias galimybes, prekių pardavėjas, gamintojas ar paslaugų teikėjas, nepaisydamas asmens amžiaus, lytinės orientacijos, negalios, rasės ar etninės priklausomybės, religijos ar įsitikinimų, privalo:
+Įgyvendindamas lygias galimybes, prekių pardavėjas, gamintojas ar paslaugų teikėjas, nepaisydamas lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos, privalo:
 
 
-1) visiems vartotojams, nesvarbu, koks jų amžius, lytinė orientacija, negalia, rasė ar etninė priklausomybė, religija ar įsitikinimai, sudaryti vienodas sąlygas gauti tokius pačius gaminius, prekes ir paslaugas, įskaitant aprūpinimą būstu, bei taikyti vienodas apmokėjimo sąlygas ir garantijas už tokius pačius ir vienodos vertės gaminius, prekes ir paslaugas;
+1) visiems vartotojams sudaryti vienodas sąlygas gauti tokius pačius gaminius, prekes ir paslaugas, įskaitant aprūpinimą būstu, bei taikyti vienodas apmokėjimo sąlygas ir garantijas už tokius pačius ir vienodos vertės gaminius, prekes ir paslaugas;
 
 
 
 
-2) suteikdamas vartotojams informaciją apie gaminius, prekes ir paslaugas arba jas reklamuodamas, užtikrinti, kad šioje informacijoje nebūtų išreiškiamas pažeminimas, paniekinimas arba teisių apribojimas ar privilegijų teikimas dėl amžiaus, lytinės orientacijos, negalios, rasės ar etninės priklausomybės, religijos ar įsitikinimų bei formuojamos visuomenės nuostatos, kad dėl šių požymių asmuo yra pranašesnis ar menkesnis už kitą.
+2) suteikdamas vartotojams informaciją apie gaminius, prekes ir paslaugas arba jas reklamuodamas, užtikrinti, kad šioje informacijoje nebūtų išreiškiamas pažeminimas, paniekinimas arba teisių apribojimas ar privilegijų teikimas lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu ir nebūtų formuojamos visuomenės nuostatos, kad dėl šių požymių asmuo yra pranašesnis ar menkesnis už kitą.
  
 
 
@@ -263,40 +348,66 @@ Valstybės ir savivaldybių institucijos ir įstaigos pagal kompetenciją prival
 
 
 
+9 straipsnis. Draudimas diskriminuoti narystės ir dalyvavimo organizacijose atžvilgiu
 
 
-III SKYRIUS
+Draudžiama diskriminacija lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu narystės ir dalyvavimo darbuotojų ir darbdavių organizacijose ar kitose organizacijose (asociacijose), kurių nariai turi tam tikrą profesiją, įskaitant tokių organizacijų (asociacijų) teikiamą naudą, atžvilgiu.
+ 
+
+
+
+
+
+
+
+
+TREČIASIS SKIRSNIS 
 LYGIŲ GALIMYBIŲ PAŽEIDIMAS
  
 
 
-7 straipsnis. Lygias galimybes pažeidžiantys darbdavio veiksmai
+10 straipsnis. Lygių galimybių pažeidimas
 
 
-Darbdavio veiksmai yra pripažįstami pažeidžiančiais lygias galimybes, jeigu jis dėl asmens amžiaus, lytinės orientacijos, negalios, rasės ar etninės priklausomybės, religijos ar įsitikinimų:
-
-
-1) taiko asmeniui mažiau (daugiau) palankias įsidarbinimo, priėmimo į valstybės tarnybą sąlygas;
-
-
-
-
-2) už tokį patį ar vienodos vertės darbą moka skirtingą darbo užmokestį;
+Lygių galimybių pažeidimu laikomas šiame įstatyme nustatytų pareigų nevykdymas ar netinkamas jų vykdymas ir draudimų nesilaikymas.
+ 
 
 
 
 
-3) organizuodamas darbą ar valstybės tarnybą, sukuria darbuotojui ar valstybės tarnautojui blogesnes (geresnes) darbo, tarnybos, kvalifikacijos ar profesinio mokymo, persikvalifikavimo, darbo patirties įgijimo sąlygas;
+
+
+11 straipsnis. Diskriminuojantys skelbimai
+
+
+Skelbimuose priimti į darbą, valstybės tarnybą arba mokytis draudžiama nurodyti reikalavimus, suteikiančius pirmenybę lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu, išskyrus šio įstatymo 2 straipsnio 7 dalyje nustatytus atvejus.
+ 
 
 
 
 
-4) skiria darbuotojui, valstybės tarnautojui nuobaudą, keičia darbo, valstybės tarnybos sąlygas, perkelia į kitą darbą, pareigas, nutraukia darbo sutartį arba atleidžia iš valstybės tarnybos; 
+
+
+12 straipsnis. Diskriminuojamo asmens teisių apsauga
+
+
+1. Asmuo, manantis, kad buvo pažeistos jo lygios galimybės, turi teisę kreiptis į lygių galimybių kontrolierių. Kreipimasis į lygių galimybių kontrolierių neapriboja galimybės ginti savo teises teisme.
 
 
 
 
-5) persekioja darbuotoją, valstybės tarnautoją, pateikusius skundą dėl diskriminacijos, nesiima priemonių, kad darbuotojas, valstybės tarnautojas būtų apsaugotas nuo priešiško elgesio ar neigiamų pasekmių.
+2. Asociacijos arba kiti juridiniai asmenys, kurių veiklą reglamentuojančiame teisės akte atitinkamu pagrindu diskriminuojamų asmenų gynimas ir jų atstovavimas teisme yra nurodyta kaip viena iš veiklos sričių, diskriminuojamo asmens pavedimu gali įstatymų nustatyta tvarka atstovauti jam teisminėse arba administracinėse procedūrose.
+ 
+
+
+
+
+
+
+13 straipsnis. Žalos atlyginimas
+
+
+Asmuo, patyręs diskriminaciją lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu, turi teisę reikalauti iš kaltų asmenų atlyginti turtinę ir neturtinę žalą įstatymų nustatyta tvarka.
  
 
 
@@ -306,28 +417,15 @@ Darbdavio veiksmai yra pripažįstami pažeidžiančiais lygias galimybes, jeigu
 
 
 
-8 straipsnis. Lygias galimybes pažeidžiantys švietimo įstaigų, mokslo ir studijų institucijų veiksmai
+KETVIRTASIS SKIRSNIS
+ĮSTATYMO VYKDYMO PRIEŽIŪRA
+ 
 
 
-Švietimo įstaigų, mokslo ir studijų institucijų veiksmai pripažįstami pažeidžiančiais lygias galimybes, jeigu dėl asmens amžiaus, lytinės orientacijos, negalios, rasės ar etninės priklausomybės, religijos ar įsitikinimų:
+14 straipsnis. Įstatymo vykdymo priežiūra
 
 
-1) nustatomi skirtingi reikalavimai ir sąlygos priimant mokytis ar studijuoti, sudarant, rengiant, tvirtinant mokymo programas bei jas parenkant ir taikomi vertinant žinias;
-
-
-
-
-2) nustatomos skirtingos dėstomų dalykų pasirinkimo galimybės;
-
-
-
-
-3) skiriamos stipendijos bei teikiami kreditai studijoms;
-
-
-
-
-4) persekiojamas švietimo įstaigų, mokslo ir studijų institucijų moksleivis ar studentas, pateikęs skundą dėl diskriminacijos, nesiimama priemonių, kad moksleivis ar studentas būtų apsaugoti nuo priešiško elgesio, jų garbės ir orumo žeminimo ar dėl galinčių atsirasti jam neigiamų pasekmių.
+Kaip vykdomas šis įstatymas, prižiūri lygių galimybių kontrolierius Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo nustatyta tvarka.
  
 
 
@@ -337,101 +435,21 @@ Darbdavio veiksmai yra pripažįstami pažeidžiančiais lygias galimybes, jeigu
 
 
 
-9 straipsnis. Lygias galimybes pažeidžiantys prekių pardavėjo, gamintojo ar paslaugų teikėjo veiksmai
-
-
-Prekių pardavėjo, gamintojo ar paslaugų teikėjo veiksmai pripažįstami pažeidžiančiais lygias galimybes, jeigu dėl asmens amžiaus, lytinės orientacijos, negalios, rasės ar etninės priklausomybės, religijos ar įsitikinimų:
-
-
-1) sudaromos skirtingos sąlygos gauti tokius pačius gaminius, prekes ir paslaugas, įskaitant aprūpinimą būstu, taikomos skirtingos apmokėjimo sąlygos ar garantijos už tokias pačias ir tokios pačios vertės prekes, paslaugas bei gaminius ar nustatomos skirtingos prekių ir paslaugų pasirinkimo galimybės; 
-
-
-
-
-2) informuojant apie gaminius, prekes ir paslaugas arba reklamuojant jas, formuojama visuomenės nuomonė, kad tam tikro amžiaus, tam tikros lytinės orientacijos, negalios, rasės ar etninės priklausomybės, religijos ar įsitikinimų asmuo yra pranašesnis ar menkesnis už kitą.
- 
-
-
-
-
-
-
-
-
-10 straipsnis. Diskriminuojantys skelbimai
-
-
-Skelbimuose priimti į darbą, valstybės tarnybą arba mokytis draudžiama nurodyti reikalavimus, suteikiančius pirmenybę tam tikro amžiaus, tam tikros lytinės orientacijos asmenims, sveikiems asmenims, tam tikros rasės ar etninės priklausomybės asmenims, asmenims, išpažįstantiems tam tikrą religiją, tam tikrų įsitikinimų asmenis. 
- 
-
-
-
-
-
-
-11 straipsnis. Diskriminuojamo asmens teisės
-
-
-Asmuo, manantis, kad jam buvo taikomi šiame Įstatyme nurodyti diskriminuojantys veiksmai, arba tapęs priekabiavimo objektu, turi teisę kreiptis į lygių galimybių kontrolierių.
- 
-
-
-
-
-
-
-
-
-IV SKYRIUS
-ĮSTATYMO VYKDYMO KONTROLĖ IR PRIEŽIŪRA
- 
-
-
-12 straipsnis. Įstatymo vykdymo priežiūra
-
-
-Lygių galimybių įstatymo vykdymo priežiūrą atlieka lygių galimybių kontrolierius Moterų ir vyrų lygių galimybių įstatymo nustatyta tvarka.
- 
-
-
-
-
-
-
-
-
-V SKYRIUS
+PENKTASIS SKIRSNIS
 SKUNDŲ PRIĖMIMAS IR TYRIMAS
  
 
 
-13 straipsnis. Skundų priėmimas, tyrimas, sprendimai
+15 straipsnis. Skundų priėmimas, tyrimas, sprendimai
 
 
-1. Skundai dėl Lygių galimybių įstatymo pažeidimo teikiami lygių galimybių kontrolieriui.
+1. Skundai dėl lygių galimybių pažeidimo teikiami lygių galimybių kontrolieriui.
 
 
 
 
-2. Skundai dėl lygių teisių pažeidimo tiriami ir sprendimai dėl jų priimami Moterų ir vyrų lygių galimybių įstatymo nustatyta tvarka.
+2. Skundai dėl lygių galimybių pažeidimo tiriami ir sprendimai dėl jų priimami Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo nustatyta tvarka.
  
-
-
-
-
-
-
-
-
-VI SKYRIUS 
-BAIGIAMOSIOS NUOSTATOS
- 
-
-
-14 straipsnis. Įstatymo įsigaliojimas
-
-
-Šis Įstatymas įsigalioja 2005 m. sausio 1 d. 
  
  
 
@@ -447,23 +465,34 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                                                 ROLANDAS PAKSAS
 
 
+ 
 
 
 
 
  
-Lietuvos Respublikos
-2003 m. lapkričio 18 d.
-įstatymo Nr. IX-1826
+ 
+Lietuvos Respublikos 
+lygių galimybių įstatymo 
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 2000 m. birželio 29 d. Tarybos direktyva 2000/43/EB, įgyvendinanti vienodų sąlygų taikymo principą asmenims nepaisant jų rasės arba etninės priklausomybės.
+1. 2000 m. birželio 29 d. Tarybos direktyva 2000/43/EB, įgyvendinanti vienodo požiūrio principą asmenims nepriklausomai nuo jų rasės arba etninės priklausomybės (OL 2004 m. specialusis leidimas, 20 skyrius, 1 tomas, p. 23).
 
 
 
 
-2. 2000 m. lapkričio 27 d. Tarybos direktyva 2000/78/EB, nustatanti vienodų sąlygų taikymo užimtumo ir profesinėje srityje bendruosius pagrindus.
+2. 2000 m. lapkričio 27 d. Tarybos direktyva 2000/78/EB, nustatanti vienodo požiūrio užimtumo ir profesinėje srityje bendruosius pagrindus (OL 2004 m. specialusis leidimas, 5 skyrius, 4 tomas, p. 79).
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1602, 2008-06-17, Žin., 2008, Nr. 76-2998 (2008-07-05), i. k. 1081010ISTA00X-1602
+Lietuvos Respublikos lygių galimybių įstatymo pakeitimo įstatymas
