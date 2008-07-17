@@ -27,11 +27,7 @@ LIETUVOS
 RESPUBLIKOS
 BIUDŽETO
 SANDAROS
-Į S T A T Y M A
-S
-Keistas įstatymo pavadinimas:
-Nr. VIII-1821, 2000.07.11, Žin., 2000, Nr.
-61-1826 (2000.07.26)
+ĮSTATYMAS
  
  
 Nauja įstatymo redakcija: 
@@ -59,10 +55,10 @@ sąvokos
 – biudžete nustatyta biudžetinių įstaigų ir kitų biudžeto lėšas gaunančių
 subjektų, atliekančių viešojo administravimo funkcijas, (toliau – kiti
 subjektai) išlaidoms ir ilgalaikiam materialiajam ir nematerialiajam turtui bei
-strateginėms atsargoms (toliau – turtui) įsigyti skirta lėšų suma, kurią asignavimų
-valdytojas turi teisę biudžetiniais metais gauti iš biudžete sukauptų lėšų,
-pateikęs paraišką valstybės iždą valdančiai institucijai arba savivaldybių
-administracijai, patvirtintoms programoms finansuoti.
+strateginėms atsargoms (toliau – turtui) įsigyti skirta lėšų suma, kurią
+asignavimų valdytojas turi teisę biudžetiniais metais gauti iš biudžete
+sukauptų lėšų, pateikęs paraišką valstybės iždą valdančiai institucijai arba
+savivaldybių administracijai, patvirtintoms programoms finansuoti.
 2. Asignavimai
 įsipareigojimams – lėšų suma, už kurią (jos neviršydamas) asignavimų
 valdytojas einamaisiais biudžetiniais metais turi teisę prisiimti
@@ -72,8 +68,8 @@ ir bendrojo finansavimo lėšų, finansuoti.
 metai – 12 mėnesių biudžeto laikotarpis, prasidedantis sausio 1 dieną ir
 pasibaigiantis gruodžio 31 dieną.
 4. Biudžetinių
-įstaigų pajamos – biudžetinių įstaigų, atliekant funkcijas, numatytas jų
-veiklą reglamentuojančiuose dokumentuose, gaunamos lėšos (išskyrus valstybės
+įstaigų pajamos – biudžetinių įstaigų, atliekant funkcijas, numatytas jų veiklą
+reglamentuojančiuose dokumentuose, gaunamos lėšos (išskyrus valstybės
 rinkliavą, žyminį mokestį ir pajamas už ilgalaikio materialiojo turto nuomą),
 naudojamos vadovaujantis įstatymais arba Lietuvos Respublikos Vyriausybės
 (toliau – Vyriausybė) nutarimais šių įstaigų išlaidoms apmokėti ir kitiems
@@ -92,8 +88,8 @@ kitų subjektų sąskaitas jų programoms vykdyti arba tiesioginis biudžetinių
 įstaigų ir kitų subjektų programų išlaidų ir įsigyjamo turto apmokėjimas iš
 valstybės ir savivaldybių biudžetų sąskaitų.
 9. Funkcinė
-asignavimų klasifikacija (toliau – funkcinė klasifikacija) – asignavimų
-suskirstymas pagal valstybės funkcijas.
+asignavimų klasifikacija (toliau – funkcinė klasifikacija) –
+asignavimų suskirstymas pagal valstybės funkcijas.
 10. Nacionalinis
 biudžetas – valstybės biudžeto ir savivaldybių biudžetų konsoliduota
 (neįskaitant savivaldybių biudžetams skirtų valstybės biudžeto asignavimų)
@@ -144,12 +140,17 @@ X-1317,
 2007-11-08, Žin., 2007, Nr. 120-4882 (2007-11-22)
  
 4 straipsnis. Asignavimų valdytojai
-1. Valstybės biudžeto asignavimų valdytojai yra biudžetinių įstaigų,
-nurodytų Seimo patvirtintame valstybės biudžete, vadovai (ministerijose –
-ministrai ar jų įgalioti asmenys).
+1. Valstybės biudžeto asignavimų valdytojai yra biudžetinių įstaigų, nurodytų
+Seimo patvirtintame valstybės biudžete, vadovai (ministerijose – ministrai ar
+jų įgalioti asmenys, teismuose – teismų pirmininkai ar jų įgalioti teismų
+kancleriai).
 2. Savivaldybių biudžetų asignavimų valdytojai yra savivaldybių
 biudžetinių įstaigų ar savivaldybių administracijos padalinių, nurodytų
 savivaldybės tarybos patvirtintame savivaldybės biudžete, vadovai.
+Straipsnio
+pakeitimai:
+Nr. X-1691,
+2008-07-03, Žin., 2008, Nr. 81-3191 (2008-07-17)
  
 5 straipsnis. Asignavimų valdytojų pareigos
 1. Biudžeto asignavimų valdytojai privalo:
@@ -199,11 +200,10 @@ Biudžeto asignavimų valdytojas turi teisę:
 1) biudžetiniais metais, ne vėliau kaip likus 10 dienų iki atitinkamo
 ketvirčio pabaigos, keisti patvirtintų jų vadovaujamų biudžetinių įstaigų ir
 jiems pavaldžių biudžetinių įstaigų programoms numatytų biudžetų asignavimų
-pagal ekonominę klasifikaciją paskirtį (valstybės biudžeto asignavimų valdytojas
-Vyriausybės nustatyta tvarka praneša apie tai Finansų ministerijai, o
-savivaldybės biudžeto asignavimų valdytojas –
-savivaldybės administracijai jos nustatyta tvarka), neviršydamas patvirtintų
-tam tikrai programai bendrųjų asignavimų išlaidoms, iš jų – darbo užmokesčiui, sumų. Asignavimų sumos
+pagal ekonominę klasifikaciją paskirtį (valstybės biudžeto asignavimų
+valdytojas Vyriausybės nustatyta tvarka praneša apie tai Finansų ministerijai,
+o savivaldybės biudžeto asignavimų valdytojas – savivaldybės administracijai jos nustatyta tvarka), neviršydamas
+patvirtintų tam tikrai programai bendrųjų asignavimų išlaidoms, iš jų – darbo užmokesčiui, sumų. Asignavimų sumos
 išlaidoms, iš jų – darbo užmokesčiui,
 yra maksimalios ir jų ekonomija gali būti naudojama turtui įsigyti;
 2) biudžetiniais metais vieną
@@ -306,8 +306,8 @@ apie patvirtintą valstybės biudžetą, jo pajamas ir asignavimus, jų vykdymą
 skelbiama oficialiame leidinyje „Valstybės žinios“ ir Finansų ministerijos
 interneto tinklalapyje.
 3. Informaciją
-apie patvirtintus savivaldybių biudžetus, jų vykdymą skelbia savivaldybės
-administracijos direktorius vietinėje spaudoje.
+apie patvirtintus savivaldybių biudžetus, jų vykdymą skelbia savivaldybės administracijos
+direktorius vietinėje spaudoje.
 Straipsnio
 pakeitimai:
 Nr. X-1354,
@@ -482,8 +482,8 @@ savivaldybių
 biudžetų finansinių
 rodiklių patvirtinimo įstatymo projektu
 Vyriausybė kartu su atitinkamų
-metų Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
-patvirtinimo įstatymo projektu Seimui pateikia:
+metų Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo
+įstatymo projektu Seimui pateikia:
 1) Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo
 įstatymo projekto aiškinamąjį raštą;
 2) Vyriausybės tvirtinamo valstybės biudžeto asignavimų paskirstymo
@@ -583,9 +583,9 @@ rezervas
 1. Savivaldybės gali sudaryti savivaldybės administracijos direktoriaus
 rezervą, kuris turi būti ne didesnis kaip 1 procentas patvirtintų savivaldybės
 biudžeto asignavimų sumos. Konkretų savivaldybės administracijos direktoriaus
-rezervo dydį kasmet nustato savivaldybės taryba, tvirtindama atitinkamų metų savivaldybės
-biudžetą. Savivaldybės administracijos direktoriaus rezervo lėšas skirsto
-savivaldybės administracijos direktorius.
+rezervo dydį kasmet nustato savivaldybės taryba, tvirtindama atitinkamų metų
+savivaldybės biudžetą. Savivaldybės administracijos direktoriaus rezervo lėšas
+skirsto savivaldybės administracijos direktorius.
 2. Rezervo lėšos naudojamos tik toms reikmėms, kurių negalima numatyti
 sudarant ir tvirtinant savivaldybės biudžetą. Šios lėšos naudojamos ekstremalių
 situacijų padariniams likviduoti ir kitoms reikmėms pagal savivaldybių tarybų
@@ -593,12 +593,12 @@ nustatytas taisykles.
  
 26 straipsnis. Savivaldybių
 biudžetų rengimas ir tvirtinimas
-1. Savivaldybių biudžetų projektus rengia savivaldybių vykdomosios institucijos,
-remdamosi šiuo Įstatymu, kitais įstatymais, Seimo patvirtintais savivaldybių
-biudžetų finansiniais rodikliais, Vyriausybės patvirtintomis biudžetų sudarymo
-ir vykdymo taisyklėmis, valstybinės statistikos duomenimis, socialinėmis ir
-ekonominėmis programomis, taip pat savivaldybių biudžetų asignavimų valdytojų
-programomis ir jų sąmatų projektais. 
+1. Savivaldybių biudžetų projektus rengia savivaldybių vykdomosios
+institucijos, remdamosi šiuo Įstatymu, kitais įstatymais, Seimo patvirtintais
+savivaldybių biudžetų finansiniais rodikliais, Vyriausybės patvirtintomis
+biudžetų sudarymo ir vykdymo taisyklėmis, valstybinės statistikos duomenimis,
+socialinėmis ir ekonominėmis programomis, taip pat savivaldybių biudžetų
+asignavimų valdytojų programomis ir jų sąmatų projektais. 
 2. Savivaldybių vykdomosios institucijos parengtus biudžetų projektus
 teikia savivaldybių taryboms savivaldybių tarybų reglamento nustatyta tvarka.
 3. Savivaldybių tarybos svarsto biudžetų projektus atsižvelgdamos į
@@ -695,8 +695,8 @@ programų lėšoms, jeigu asignavimų valdytojai jas yra įmokėję.
 biudžetai, t. y. gaunama mažiau pajamų, negu buvo numatyta, finansavimas iš
 savivaldybių biudžetų vykdomas savivaldybių tarybų nustatyta tvarka. Jeigu
 numatoma, kad nustatytas pajamų planas iki metų pabaigos nebus įvykdytas,
-sprendimus dėl šiuose biudžetuose numatytų programų finansavimo tvarkos
-savivaldybės administracijos direktoriaus teikimu priima savivaldybės taryba.
+sprendimus dėl šiuose biudžetuose numatytų programų finansavimo tvarkos savivaldybės
+administracijos direktoriaus teikimu priima savivaldybės taryba.
 3. Asignavimų
 valdytojams pervedamos biudžeto asignavimų sumos specialiosioms programoms
 finansuoti mažinamos faktiškai negautomis (palyginti su planu)
@@ -712,9 +712,9 @@ pasibaigus, asignavimų valdytojų ir jiems pavaldžių įstaigų bei kitų subj
 disponuojamose sąskaitose esančios biudžeto lėšos, išskyrus
 nepanaudotus asignavimus specialiosioms programoms ir baigiamiems
 statybos objektams finansuoti, nepanaudotą programų asignavimų dalį,
-kurią sudaro Europos Sąjungos finansinės paramos ir bendrojo finansavimo bei kitos
-gaunamos finansinės paramos lėšos, grąžinamos į atitinkamą biudžetą ne vėliau
-kaip iki sausio 10 dienos:
+kurią sudaro Europos Sąjungos finansinės paramos ir bendrojo finansavimo bei
+kitos gaunamos finansinės paramos lėšos, grąžinamos į atitinkamą biudžetą ne
+vėliau kaip iki sausio 10 dienos:
 1) valstybės biudžeto lėšos pervedamos iš valstybės biudžeto asignavimų
 valdytojų ir jiems pavaldžių įstaigų bei kitų subjektų disponuojamų sąskaitų į
 Valstybės iždo sąskaitą;
@@ -771,9 +771,9 @@ biudžeto apyvartos ir skolintas lėšas;
 4) laikydamasi valstybės grynojo skolinimosi limito, išleisti
 Vyriausybės vertybinius popierius ir imti paskolas valstybės vardu išlaidoms,
 susijusioms su valstybės skola, apmokėti ir valstybės skolai dengti, valstybės
-investicijoms finansuoti, biudžeto deficitui dengti, valstybės pinigų fondų
-skoliniams įsipareigojimams dengti bei šių fondų pinigų srautams subalansuoti
-ir kitiems tikslams, kai tam yra atskiras Lietuvos Respublikos įstatymas;
+investicijoms finansuoti, biudžeto deficitui dengti, valstybės pinigų fondų skoliniams
+įsipareigojimams dengti bei šių fondų pinigų srautams subalansuoti ir kitiems
+tikslams, kai tam yra atskiras Lietuvos Respublikos įstatymas;
 5) laisvus valstybės pinigų fondų ir kitus piniginius išteklius
 grąžintinai naudoti valstybės biudžete numatytoms programoms finansuoti,
 valstybės skolai valdyti, investuoti į valstybės vertybinius popierius,
@@ -808,13 +808,13 @@ biudžeto ir savivaldybių biudžetų tarpusavio atsiskaitymus.
 1. Biudžeto įvykdymo ataskaitos
 parengiamos atsižvelgiant į atitinkamų metų patvirtinto Valstybės biudžeto ir
 savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo rodiklius,
-panaudotas Vyriausybės rezervo lėšas ir savivaldybės administracijos
-direktoriaus rezervo lėšas, perkeltas viršplanines ir nepanaudotas įmokų į biudžetą,
-skirtų specialioms programoms finansuoti, sumas, perkeltas Europos
-Sąjungos finansinės paramos ir kitos gaunamos finansinės paramos viršplanines
-ir nepanaudotas įmokų į biudžetą sumas, nepanaudotos programų asignavimų
-dalies, kurią sudaro Europos Sąjungos finansinės paramos ir bendrojo
-finansavimo bei kitos gaunamos finansinės paramos lėšos, sumas.
+panaudotas Vyriausybės rezervo lėšas ir savivaldybės administracijos direktoriaus
+rezervo lėšas, perkeltas viršplanines ir nepanaudotas įmokų į biudžetą, skirtų
+specialioms programoms finansuoti, sumas, perkeltas Europos Sąjungos
+finansinės paramos ir kitos gaunamos finansinės paramos viršplanines ir
+nepanaudotas įmokų į biudžetą sumas, nepanaudotos programų asignavimų dalies,
+kurią sudaro Europos Sąjungos finansinės paramos ir bendrojo finansavimo bei
+kitos gaunamos finansinės paramos lėšos, sumas.
 2. Valstybės biudžeto įvykdymo ataskaitą rengia Finansų ministerija,
 remdamasi valstybės biudžeto buhalterinės apskaitos duomenimis – į valstybės biudžetą gautų pajamų ir valstybės
 biudžeto asignavimų valdytojų pateiktomis biudžeto programų sąmatų įvykdymo
@@ -824,8 +824,8 @@ ataskaitomis.
 biudžetų apskaitos duomenimis – į savivaldybių biudžetus gautų pajamų ir
 savivaldybių biudžetų asignavimų valdytojų panaudotų asignavimų bei asignavimų
 valdytojų pateiktomis biudžeto programų sąmatų įvykdymo ataskaitomis.
-4. Biudžeto įvykdymo ataskaitos privalomas dokumentas – atitinkamo biudžeto
-įvykdymo rezultatų ataskaita.
+4. Biudžeto įvykdymo ataskaitos privalomas dokumentas – atitinkamo
+biudžeto įvykdymo rezultatų ataskaita.
 5. Biudžeto įvykdymo ataskaitos sudarymo taisykles nustato Finansų
 ministerija.
 6. Valstybės biudžeto įvykdymo ataskaitą Vyriausybės nustatyta tvarka ir
@@ -839,10 +839,9 @@ straipsnis. Biudžeto vykdymo ataskaitų rinkinys
 1. Biudžeto
 vykdymo ataskaitų rinkinys parengiamas atsižvelgiant į atitinkamų metų
 patvirtinto Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
-patvirtinimo įstatymo rodiklius, panaudotas Vyriausybės rezervo lėšas ir
-savivaldybės administracijos direktoriaus rezervo lėšas bei perkeltas viršplanines
-ir nepanaudotas įmokų į biudžetą, skirtų specialioms programoms finansuoti,
-sumas.
+patvirtinimo įstatymo rodiklius, panaudotas Vyriausybės rezervo lėšas ir savivaldybės
+administracijos direktoriaus rezervo lėšas bei perkeltas viršplanines ir
+nepanaudotas įmokų į biudžetą, skirtų specialioms programoms finansuoti, sumas.
 2. Valstybės
 biudžeto vykdymo ataskaitų rinkinį rengia Finansų ministerija, remdamasi
 valstybės biudžeto buhalterinės apskaitos duomenimis – į valstybės biudžetą
@@ -952,7 +951,7 @@ LANDSBERGIS
  
 Vilnius, 1990 m. liepos 30 d.
 Nr. I-430 
-________________
+ 
  
 Pakeitimai:
  
@@ -1021,8 +1020,8 @@ Nr.
 I-1333,
 1996.05.14, Žin., 1996, Nr. 48-1141 (1996.05.22)
 LIETUVOS
-RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO 1 IR 2 STRAIPSNIŲ PAPILDYMO IR 21-1 STRAIPSNIO
-PAKEITIMO ĮSTATYMAS
+RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO 1 IR 2 STRAIPSNIŲ PAPILDYMO IR 21-1
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 8.
 Lietuvos
@@ -1186,6 +1185,15 @@ Nr. X-1428,
 BIUDŽETO
 SANDAROS ĮSTATYMO 18 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+26.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-1691,
+2008-07-03, Žin., 2008, Nr. 81-3191 (2008-07-17)
+BIUDŽETO
+SANDAROS ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
  
 ***
 Pabaiga ***
@@ -1210,6 +1218,6 @@ Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2008-02-05)
+Aušrinė Trapinskienė (2008-07-17)
                  
 autrap@lrs.lt
