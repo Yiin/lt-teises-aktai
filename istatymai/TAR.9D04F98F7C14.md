@@ -469,21 +469,15 @@ procentų fiziškai susidėvėję nuomojami vienbučiai gyvenamieji namai, jų d
 rekonstrukcija savivaldybei (valstybei) yra ekonomiškai nenaudingi arba tam
 savivaldybė (valstybė) neturi lėšų – jų nuomininkams, jeigu šie nuomininkai yra
 išgyvenę juose ne mažiau kaip trejus metus;
-4) tarnybinės
-gyvenamosios patalpos – Vyriausybės nustatyta tvarka jų nuomininkams, jeigu
-šios patalpos tampa nereikalingos institucijų, valdančių jas nuosavybės ar
-patikėjimo teise, darbuotojams (tarnautojams) apgyvendinti dėl šių darbo
-(tarnybos) pobūdžio ir yra priimti šių institucijų sprendimai dėl patalpų
-tarnybinio statuso panaikinimo ir išbraukimo iš tarnybinių gyvenamųjų patalpų
-apskaitos. Kriterijus, kuriais vadovaujantis tokios patalpos negali būti
-privatizuojamos, nustato Vyriausybė.
-3. Už privatizuojamas
-gyvenamąsias patalpas pagal šiame straipsnyje nurodytas sąlygas atsiskaitoma
-pinigais, sumokant nustatytą sumą iš karto arba privatizuojančiojo pageidavimu
-išsimokėtinai per 10 metų. Parduodant išsimokėtinai skaičiuojamos Vyriausybės
-arba jos įgaliotos institucijos nustatyto dydžio palūkanos. Privatizavimo
-tvarką, taip pat lėšų, gautų už privatizuojamas gyvenamąsias patalpas,
-apskaitos ir naudojimo tvarką nustato Vyriausybė.
+4) (neteko
+galios nuo 2008 m. liepos 17 d.)
+3. Už
+privatizuojamas gyvenamąsias patalpas pagal šiame straipsnyje nurodytas sąlygas
+atsiskaitoma pinigais, sumokant nustatytą sumą iš karto arba privatizuojančiojo
+pageidavimu išsimokėtinai per 10 metų. Parduodant išsimokėtinai skaičiuojamos
+Vyriausybės arba jos įgaliotos institucijos nustatyto dydžio palūkanos.
+Privatizavimo tvarką, taip pat lėšų, gautų už privatizuojamas gyvenamąsias
+patalpas, apskaitos ir naudojimo tvarką nustato Vyriausybė.
 4. Savivaldybės
 vykdomosios institucijos pirkimo-pardavimo
 sutartis sudaro ir tais atvejais, jeigu gyventojai pagal Butų privatizavimo
@@ -494,9 +488,11 @@ sprendimas dėl privatizavimo, ir jeigu jie yra sumokėję nustatyto dydžio
 Straipsnio
 pakeitimai:
 12
-straipsnio 3 dalies atitaisymas skelbtas: Žin., 2003, Nr. 3 (2003-01-10)
+straipsnio 3 dalies atitaisymas skelbtas: Žin., 2003, Nr. 3
 Nr. IX-1549,
 2003-04-29, Žin., 2003, Nr. 48-2109 (2003-05-15)
+Nr. X-1681,
+2008-07-03, Žin., 2008, Nr. 81-3182 (2008-07-17)
  
 Įstatymas
 papildytas penktuoju skirsniu:
@@ -555,8 +551,8 @@ dalyje nurodyto Valstybės paramos daugiabučiams namams modernizuoti teikimo ir
 investicijų projektų energinio efektyvumo nustatymo taisykles tvirtina Lietuvos
 Respublikos Vyriausybė ar jos įgaliotos institucijos, atsižvelgdamos į
 valstybės biudžeto asignavimus daugiabučių namų modernizavimo programai
-įgyvendinti. Šiose taisyklėse turi būti nustatytas didžiausias valstybės paramos
-daugiabučiams namams modernizuoti dydis.
+įgyvendinti. Šiose taisyklėse turi būti nustatytas didžiausias valstybės
+paramos daugiabučiams namams modernizuoti dydis.
 3. Šio
 straipsnio 1 dalies 1 punkte nurodyto valstybės paramos teikimo ir investicijų
 projektų energinio efektyvumo įgyvendinimui būtina įdiegti šiuos daugiabučių
@@ -679,9 +675,9 @@ Nr. VIII-2033, 2000 10 12, Žin., 2000, Nr.
 92-2874 (2000 10 31)
 GYVENTOJŲ APSIRŪPINIMO GYVENAMOSIOMIS PATALPOMIS
 ĮSTATYMO PAPILDYMO 13 STRAIPSNIU, 14 IR 18 STRAIPSNIŲ PAKEITIMO IR BUTŲ
-PRIVATIZAVIMO ĮSTATYMO BEI LIETUVOS RESPUBLIKOS AUKŠČIAUSIOSIOS TARYBOS - ATKURIAMOJO
-SEIMO NUTARIMO „DĖL LIETUVOS RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO
-ĮSIGALIOJIMO“ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+PRIVATIZAVIMO ĮSTATYMO BEI LIETUVOS RESPUBLIKOS AUKŠČIAUSIOSIOS TARYBOS -
+ATKURIAMOJO SEIMO NUTARIMO „DĖL LIETUVOS RESPUBLIKOS BUTŲ PRIVATIZAVIMO
+ĮSTATYMO ĮSIGALIOJIMO“ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 Šis
 įstatymas įsigalioja nuo 2001 m. sausio 1 d.
  
@@ -707,8 +703,8 @@ Nr.
 IX-1549,
 2003-04-29, Žin., 2003, Nr. 48-2109 (2003-05-15)
 VALSTYBĖS
-PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI ĮSTATYMO 2, 4, 6, 8, 12 STRAIPSNIŲ
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI ĮSTATYMO 2, 4, 6, 8, 12 STRAIPSNIŲ PAKEITIMO
+IR PAPILDYMO ĮSTATYMAS
  
 10.
 Lietuvos
@@ -720,8 +716,8 @@ VALSTYBINIŲ
 SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO, VALSTYBINIŲ ŠALPOS IŠMOKŲ ĮSTATYMO,
 MOKSLININKŲ VALSTYBINIŲ PENSIJŲ LAIKINOJO ĮSTATYMO, VALSTYBINIŲ PENSIJŲ
 ĮSTATYMO, VALSTYBĖS PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI ĮSTATYMO, PINIGINĖS
-SOCIALINĖS PARAMOS MAŽAS PAJAMAS GAUNANČIOMS ŠEIMOMS (VIENIEMS GYVENANTIEMS
-ASMENIMS) ĮSTATYMO PAKEITIMO ĮSTATYMAS
+SOCIALINĖS PARAMOS MAŽAS PAJAMAS GAUNANČIOMS ŠEIMOMS (VIENIEMS GYVENANTIEMS ASMENIMS)
+ĮSTATYMO PAKEITIMO ĮSTATYMAS
  
 11.
 Lietuvos
@@ -763,8 +759,8 @@ Nr.
 X-1073,
 2007-04-03, Žin., 2007, Nr. 43-1633 (2007-04-19)
 VALSTYBĖS
-PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI BEI DAUGIABUČIAMS NAMAMS MODERNIZUOTI
-ĮSTATYMO 11 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI BEI DAUGIABUČIAMS NAMAMS MODERNIZUOTI ĮSTATYMO
+11 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
 Šio
 įstatymo 1 straipsnio 1 dalis įsigalioja nuo 2007 m. liepos 1 d.
  
@@ -780,11 +776,21 @@ PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI BEI DAUGIABUČIAMS NAMAMS MODERNIZUOTI
 Šis
 įstatymas įsigalioja 2009 m. sausio 1 d.
  
+15.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-1681,
+2008-07-03, Žin., 2008, Nr. 81-3182 (2008-07-17)
+VALSTYBĖS
+PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI BEI DAUGIABUČIAMS NAMAMS MODERNIZUOTI
+ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2008-06-27)
+Aušrinė Trapinskienė (2008-07-17)
                  
 autrap@lrs.lt
