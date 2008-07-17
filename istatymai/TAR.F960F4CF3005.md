@@ -261,57 +261,67 @@ TVIRTINIMAS, DERINIMAS, DOTACIJŲ IR LĖŠŲ PERVEDIMAS
  
 9 straipsnis. Savivaldybių biudžetų
 pajamų dydį ir išlyginimą lemiantys rodikliai
-Savivaldybių biudžetų pajamų dydį ir išlyginimą lemiantys
-rodikliai yra išlyginimo koeficientas h, nuo kurio priklauso kiekvienos
-savivaldybės gaunamų lėšų gyventojų pajamų mokesčiui išlyginti dalis;
-kiekvienos savivaldybės biudžetui skiriama gyventojų pajamų mokesčio dalis
-(procentais), patvirtinta šio Įstatymo priedėlyje; taip pat šie demografiniai,
-socialiniai ir kiti rodikliai bei jų koeficientai, nurodantys šių rodiklių
-įtaką savivaldybių išlaidų struktūrų skirtumų pasikeitimui:
-1) rodiklis R1 – vietinių kelių ir gatvių ilgis,
-kurio koeficientas K1 lygus 0,13;
-2) rodiklis R2 – savivaldybės teritorijos
-plotas, kurio koeficientas K2 lygus 0,17;
-3) rodiklis R3 – pensinio amžiaus gyventojų
-skaičius, kurio koeficientas K3 lygus 0,13;
-4) rodiklis R4 – vaikų nuo 7 iki 17 metų
-skaičius, kurio koeficientas K4 lygus 0,11;
-5) rodiklis R5 – vaikų nuo 0 iki 6 metų
-skaičius, kurio koeficientas K5 lygus 0,25;
-6) rodiklis R6 – savivaldybei priklausančių (iš
-savivaldybės biudžeto finansuojamų) švietimo įstaigų patalpų naudingas plotas,
-kurio koeficientas K6 lygus 0,13;
-7) rodiklis R7 – savivaldybės teritorijos
-užstatytas plotas, kurio koeficientas K7 lygus 0,04;
-8) rodiklis R8 – kurorto statusą turinčių
-savivaldybių gyventojų tankumui priešingas rodiklis, kurio koeficientas K8
-lygus 0,04.
+1. Savivaldybių biudžetų pajamų dydį ir
+išlyginimą lemiantys rodikliai yra išlyginimo koeficientas h, nuo kurio
+priklauso kiekvienos savivaldybės gaunamų lėšų gyventojų pajamų mokesčiui
+išlyginti dalis; kiekvienos savivaldybės biudžetui skiriama gyventojų pajamų
+mokesčio dalis (procentais), patvirtinta šio Įstatymo priedėlyje; taip pat šie
+demografiniai, socialiniai ir kiti rodikliai bei jų koeficientai, nurodantys
+šių rodiklių įtaką savivaldybių išlaidų struktūrų skirtumų pasikeitimui:
+1) rodiklis R1 – vietinių
+kelių ir gatvių ilgis, kurio koeficientas K1 lygus 0,13;
+2) rodiklis R2 – savivaldybės
+teritorijos plotas, kurio koeficientas K2 lygus 0,17;
+3) rodiklis R3 – pensinio
+amžiaus gyventojų skaičius, kurio koeficientas K3 lygus 0,13;
+4) rodiklis R4 – vaikų nuo 7
+iki 17 metų skaičius, kurio koeficientas K4 lygus 0,11;
+5) rodiklis R5 – vaikų nuo 0
+iki 6 metų skaičius, kurio koeficientas K5 lygus 0,25;
+6) rodiklis R6 – savivaldybei
+priklausančių (iš savivaldybės biudžeto finansuojamų) švietimo įstaigų patalpų
+naudingas plotas, kurio koeficientas K6 lygus 0,13;
+7) rodiklis R7 – savivaldybės
+teritorijos užstatytas plotas, kurio koeficientas K7 lygus 0,04;
+8) rodiklis R8 – savivaldybės
+teritorijoje esančių gyvenamųjų vietovių, kurioms suteiktas kurorto statusas,
+bendras plotas, kurio koeficientas K8 lygus 0,035;
+9) rodiklis R9 – savivaldybės
+teritorijoje esančių gyvenamųjų vietovių, kurioms suteiktas kurortinės
+teritorijos statusas, bendras plotas, kurio koeficientas K9 lygus
+0,005.
 2. Savivaldybės gyventojų skaičius, demografinių,
 socialinių ir kitų rodiklių, nurodytų šio straipsnio 1 dalyje, duomenys,
 kuriais vadovaujantis išlyginami ateinančių biudžetinių metų savivaldybių
-gyventojų pajamų mokestis ir išlaidų struktūrų skirtumai, imami tokie, kokie
-buvo paskelbti praėjusių biudžetinių metų oficialių statistinių leidinių
-duomenų bazėse.]
+gyventojų pajamų mokestis ir išlaidų struktūrų skirtumai, imami tokie, kokie buvo
+paskelbti praėjusių biudžetinių metų oficialių statistinių leidinių duomenų
+bazėse.
+*Pastaba.
+1 dalies 8 ir 9 punktuose nurodyti rodikliai R8 ir R9 ir
+koeficientai K8 ir K9 pradedami taikyti rengiant Lietuvos
+Respublikos 2009 metų valstybės biudžeto ir savivaldybių biudžetų finansinių
+rodiklių patvirtinimo įstatymo projektą.
 Straipsnio
 pakeitimai:
 Nr. IX-1235,
 2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
+Nr. X-1683,
+2008-07-03, Žin., 2008, Nr. 81-3184 (2008-07-17)
  
 10
 straipsnis. Finansinių rodiklių tvirtinimas bei lėšų pervedimas 
 1. Vyriausybė, su Lietuvos savivaldybių asociacija
 apsvarsčiusi, kasmet teikia Seimui tvirtinti šiuos metų rodiklius:
-1) gyventojų pajamų mokesčio dalį, tenkančią
-visų savivaldybių biudžetams nuo įplaukų į nacionalinį biudžetą. Gyventojų
-pajamų mokesčio dalis koreguojama atsižvelgiant į einamųjų ar ateinančių
-biudžetinių metų Seimo ir Vyriausybės sprendimų nulemtus savivaldybių išlaidų
-ar pajamų pokyčius;
+1) gyventojų pajamų mokesčio dalį,
+tenkančią visų savivaldybių biudžetams nuo įplaukų į nacionalinį biudžetą.
+Gyventojų pajamų mokesčio dalis koreguojama atsižvelgiant į einamųjų ar
+ateinančių biudžetinių metų Seimo ir Vyriausybės sprendimų nulemtus
+savivaldybių išlaidų ar pajamų pokyčius;
 2) valstybės biudžeto bendrosios dotacijos (jeigu ji
 numatoma) dalį, skiriamą kiekvienai savivaldybei gyventojų pajamų mokesčiui
 išlyginti;
-3) valstybės biudžeto bendrosios dotacijos (jeigu ji
-numatoma) dalį, skiriamą kiekvienai savivaldybei išlaidų struktūrų skirtumams
-išlyginti;
+3) valstybės biudžeto bendrosios dotacijos (jeigu ji numatoma)
+dalį, skiriamą kiekvienai savivaldybei išlaidų struktūrų skirtumams išlyginti;
 4) valstybės biudžeto specialias tikslines dotacijas,
 skiriamas kiekvienai savivaldybei;
 5) valstybės biudžeto bendrosios dotacijos (jeigu ji
@@ -326,9 +336,9 @@ programoje numatytiems projektams finansuoti pervedama atsižvelgiant į
 faktiškai atliktus darbus, nurodytus Finansų ministerijai savivaldybių
 teikiamose paraiškose, o speciali tikslinė dotacija priskirtajai (ribotai
 savarankiškai) vaikų, jaunimo ir suaugusiųjų bendrojo lavinimo organizavimo
-savivaldybių funkcijai finansuoti pervedama atsižvelgiant į lėšų poreikį švietimo
-įstaigų darbuotojams – pedagogams darbo užmokesčiui už kasmetines atostogas
-mokėti.
+savivaldybių funkcijai finansuoti pervedama atsižvelgiant į lėšų poreikį
+švietimo įstaigų darbuotojams – pedagogams darbo užmokesčiui už kasmetines
+atostogas mokėti.
 3. Faktiškai gautas į Valstybės iždo sąskaitą lėšas,
 nurodytas 6 straipsnyje, Finansų ministerija apskaičiuoja pagal 7 ir 8
 straipsniuose pateiktas formules ir ne rečiau kaip keturis kartus per mėnesį
@@ -379,8 +389,8 @@ Lietuvos savivaldybių asociacija 10 straipsnio 1 dalyje nurodytus rodiklius bei
 savivaldybių demografinių, socialinių ir kitų rodiklių pirminius statistinius
 duomenis svarsto pagal Vyriausybės patvirtintą šių rodiklių derinimo tvarką.
  
-12 straipsnis. Valstybės biudžeto bendrosios
-dotacijos kompensacijos savivaldybių 
+12 straipsnis. Valstybės biudžeto
+bendrosios dotacijos kompensacijos savivaldybių 
 biudžetams ir valstybės biudžetui
 1. Valstybės biudžeto ir savivaldybių biudžetų finansinių
 rodiklių patvirtinimo įstatymų projektuose savivaldybių biudžetams numatomos
@@ -404,8 +414,8 @@ kas ketvirtį lygiomis dalimis grąžinamos iš savivaldybių biudžetų.
 Straipsnio
 pakeitimai
 Nr.
-IX-1857, 2003-12-15,
-Žin., 2003, Nr. 117-5320 (2003-12-17)
+IX-1857,
+2003-12-15, Žin., 2003, Nr. 117-5320 (2003-12-17)
 Nr.
 X-434,
 2005-12-08, Žin., 2005, Nr. 150-5463 (2005-12-24)
@@ -442,8 +452,8 @@ savivaldybėms jų negautoms pajamoms kompensuoti.
 paimti į valstybės biudžetą iš savivaldybių biudžetų priklausančias pervesti,
 bet nepervestas valstybės biudžetui Vyriausybės nutarime nurodytas sumas.
 5. Jei šio straipsnio 2 dalyje nurodytų
-lėšų nepakanka visoms savivaldybių negautoms pajamoms padengti, jos savivaldybių
-biudžetams paskirstomos iki vienodo negautų pajamų lygio.
+lėšų nepakanka visoms savivaldybių negautoms pajamoms padengti, jos
+savivaldybių biudžetams paskirstomos iki vienodo negautų pajamų lygio.
 Skirsnio
 pakeitimai
 Nr.
@@ -1002,9 +1012,9 @@ pakeitimai:
 Nr. IX-1235,
 2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
 Nr.
-X-434,
-2005-12-08, Žin., 2005, Nr. 150-5463 (2005-12-24)
-_____________________
+X-434, 2005-12-08,
+Žin., 2005, Nr. 150-5463 (2005-12-24)
+__________________
  
 Pakeitimai:
 1.
@@ -1038,13 +1048,13 @@ Nauja įstatymo redakcija
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-566, 2001-10-23,
-Žin., 2001, Nr. 94-3307 (2001-11-09)
+IX-566,
+2001-10-23, Žin., 2001, Nr. 94-3307 (2001-11-09)
 SAVIVALDYBIŲ
 BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Šio Įstatymo nuostatomis Vyriausybė pradeda vadovautis
-rengdama 2002 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
-patvirtinimo įstatymo projektą.
+rengdama 2002 metų valstybės biudžeto ir savivaldybių biudžetų finansinių
+rodiklių patvirtinimo įstatymo projektą.
 Nauja įstatymo redakcija
  
 5.
@@ -1101,11 +1111,27 @@ X-1359,
 SAVIVALDYBIŲ
 BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+10.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-1683,
+2008-07-03, Žin., 2008, Nr. 81-3184 (2008-07-17)
+SAVIVALDYBIŲ
+BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 9 STRAIPSNIO PAKEITIMO IR
+PAPILDYMO ĮSTATYMAS
+Šio įstatymo 1
+straipsnyje išdėstytos Savivaldybių biudžetų pajamų nustatymo metodikos įstatymo
+9 straipsnio 1 dalies 8 ir 9 punktuose nurodyti rodikliai R8 ir R9
+ir koeficientai K8 ir K9 pradedami taikyti rengiant
+Lietuvos Respublikos 2009 metų valstybės biudžeto ir savivaldybių biudžetų
+finansinių rodiklių patvirtinimo įstatymo projektą.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo:
-Aušrinė Trapinskienė (2007-12-17)
+Aušrinė Trapinskienė (2008-07-18)
                  
 autrap@lrs.lt
