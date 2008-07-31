@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.952D5CAC35AC"
 
 # Lietuvos Respublikos komercinio arbitražo įstatymas
 
-Suvestinė redakcija nuo 2001-03-30 iki 2008-07-30
+Suvestinė redakcija nuo 2008-07-31 iki 2012-06-29
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 39-961; Žin. 1996, Nr.45-0, i. k. 0961010ISTA00I-1274
  
@@ -1196,41 +1196,10 @@ UŽSIENIO ARBITRAŽO SPRENDIMŲ PRIPAŽINIMAS IR VYKDYMAS
 
 
 
-IX SKYRIUS
-IKIARBITRAŽINIS TARPININKAVIMAS
+9 skyrius. Neteko galios nuo 2008-07-31
+Skyriaus naikinimas:
+Nr. X-1703, 2008-07-15, Žin. 2008, Nr. 87-3463 (2008-07-31), i. k. 1081010ISTA00X-1703
  
-
-
-41 straipsnis. Ikiarbitražinio tarpininkavimo prielaidos
-
-
-Šalys, pageidaujančios sureguliuoti ginčą be teismo ar arbitražo, gali susitarusios tarpusavyje kreiptis į komercinį arbitražą dėl ikiarbitražinio tarpininkavimo.
- 
-
-
-
-
-
-
-42 straipsnis. Ikiarbitražinio tarpininkavimo procedūros pagrindai
-
-
-Ikiarbitražinis tarpininkavimas komerciniame arbitraže gali būti atliekamas vadovaujantis UNCITRAL Taikinimo procedūros taisyklėmis, savu ikiarbitražinio tarpininkavimo reglamentu, vienos arba abiejų ginčo šalių tam kartui parengtomis bei tarpusavyje suderintomis taisyklėmis arba bet kokiu kitu ginčų sprendimo tvarką reglamentuojančiu ir abiem šalims priimtinu aktu.
- 
-
-
-
-
-
-
-43 straipsnis. Tarpininkavimo sprendimų vykdymas
-
-
-Tarpininkavimo sprendimai, priimti norint sureguliuoti ginčą ikiarbitražinio tarpininkavimo būdu, gali būti įgyvendinti tik šalių gera valia.
-
-
-
-
 
 
 
@@ -1254,3 +1223,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-210, 2001-03-13, Žin., 2001, Nr. 28-894 (2001-03-30), i. k. 1011010ISTA00IX-210
 Lietuvos Respublikos komercinio arbitražo įstatymo 11 straipsnio papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1703, 2008-07-15, Žin., 2008, Nr. 87-3463 (2008-07-31), i. k. 1081010ISTA00X-1703
+Lietuvos Respublikos komercinio arbitražo įstatymo IX skyriaus pripažinimo netekusiu galios įstatymas
