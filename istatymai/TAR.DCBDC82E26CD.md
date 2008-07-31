@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DCBDC82E26CD"
 
 # Lietuvos Respublikos gyventojų registro įstatymas
 
-Suvestinė redakcija nuo 2007-04-19 iki 2008-07-30
+Suvestinė redakcija nuo 2008-07-31 iki 2012-07-09
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 21-0; Žin. 1992, Nr.5-78, i. k. 0921010ISTA00I-2237
  
@@ -437,9 +437,10 @@ Nr. X-623, 2006-05-25, Žin., 2006, Nr. 65-2387 (2006-06-10), i. k. 1061010ISTA0
 
 
 
-4. Giminystės ir svainystės ryšių duomenys pagal vienkartinį prašymą, nurodžius konkretų asmens duomenų naudojimo tikslą, gali būti teikiami teisėtvarkos subjektams – nustatytoms funkcijoms atlikti; Seimo komisijoms – įstatymų, Seimo nutarimų nustatyta tvarka pavestiems uždaviniams įgyvendinti. Giminystės ryšių duomenys gali būti teikiami Vyriausiajai tarnybinės etikos komisijai – jos tiesioginėms funkcijoms atlikti; notarams – paveldėjimo byloms tvarkyti ir nustatyti, ar nėra įstatymų nustatytų apribojimų sudaryti sandorius su artimaisiais giminaičiais; asmenims, kuriems įstatymų nustatyta teisė spręsti Lietuvos Respublikos pilietybės klausimus, – sprendimams šiais klausimais priimti.
+4. Giminystės ir svainystės ryšių duomenys, nurodžius konkretų asmens duomenų naudojimo tikslą, gali būti teikiami teisėtvarkos subjektams – nustatytoms funkcijoms atlikti; Seimo komisijoms – įstatymų, Seimo nutarimų nustatyta tvarka pavestiems uždaviniams įgyvendinti. Giminystės ryšių duomenys gali būti teikiami Vyriausiajai tarnybinės etikos komisijai – jos tiesioginėms funkcijoms atlikti; notarams – paveldėjimo byloms tvarkyti ir nustatyti, ar nėra įstatymų nustatytų apribojimų sudaryti sandorius su artimaisiais giminaičiais; asmenims, kuriems įstatymų nustatyta teisė spręsti Lietuvos Respublikos pilietybės klausimus, – sprendimams šiais klausimais priimti; konsuliniams pareigūnams – kai to reikia konsulinės pagalbos funkcijoms atlikti, taip pat nustatyti, ar nėra įstatymų nustatytų apribojimų sudaryti santuoką ir sandorius su artimaisiais giminaičiais. 
 Straipsnio dalies pakeitimai:
 Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
+Nr. X-1707, 2008-07-15, Žin., 2008, Nr. 87-3467 (2008-07-31), i. k. 1081010ISTA00X-1707
 Straipsnio dalies numeracijos pakeitimas:
 Nr. X-623, 2006-05-25, Žin., 2006, Nr. 65-2387 (2006-06-10), i. k. 1061010ISTA000X-623
  
@@ -707,3 +708,8 @@ Lietuvos Respublikos gyventojų registro įstatymo 4, 9, 11 straipsnių pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
 Lietuvos Respublikos gyventojų registro įstatymo 4, 7, 9, 10, 11, 12 straipsnių pakeitimo ir papildymo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1707, 2008-07-15, Žin., 2008, Nr. 87-3467 (2008-07-31), i. k. 1081010ISTA00X-1707
+Lietuvos Respublikos gyventojų registro įstatymo 9 straipsnio pakeitimo įstatymas
