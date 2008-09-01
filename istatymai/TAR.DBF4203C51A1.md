@@ -13,41 +13,50 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DBF4203C51A1"
 
 # Lietuvos Respublikos nacionalinės teismų administracijos įstatymas
 
-Suvestinė redakcija nuo 2004-04-24 iki 2008-08-31
+Suvestinė redakcija nuo 2008-09-01 iki 2009-01-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 31-1130, i. k. 1021010ISTA00IX-787
  
-LIETUVOS RESPUBLIKOS NACIONALINĖS TEISMŲ ADMINISTRACIJOS Į S T A T Y M A S
+Nauja redakcija nuo 2008-09-01:
+Nr. X-1715, 2008-07-15, Žin. 2008, Nr. 87-3472 (2008-07-31), i. k. 1081010ISTA00X-1715
+ 
+LIETUVOS RESPUBLIKOS NACIONALINĖS TEISMŲ ADMINISTRACIJOS ĮSTATYMAS
  
 2002 m. kovo 14 d. Nr. IX-787
 Vilnius
  
+ 
 
 
-1 straipsnis. Nacionalinės teismų administracijos paskirtis ir veiklos pradžia
+1 straipsnis. Nacionalinė teismų administracija
 
 
-1. Nacionalinė teismų administracija yra teismų savivaldos institucijas aptarnaujanti biudžetinė įstaiga.
-
-
-
-
-2. Pakeitus įstaigos pavadinimą „Teismų departamentas prie Teisingumo ministerijos“ į „Nacionalinė teismų administracija“, steigėjo funkcijas atliekančią instituciją bei Teismų departamento prie Teisingumo ministerijos funkcijas, pradeda veikti Nacionalinė teismų administracija.
+1. Nacionalinė teismų administracija yra teismus ir teismų savivaldos institucijas aptarnaujanti biudžetinė įstaiga, kurios paskirtis – pagal kompetenciją užtikrinti teismų ir teismų savivaldos institucijų administracinę ir organizacinę veiklą. 
 
 
 
 
-3. Nacionalinės teismų administracijos steigėjo funkcijas atlieka Lietuvos Aukščiausiasis Teismas.
+2. Nacionalinė teismų administracija yra juridinis asmuo, turintis sąskaitų bankuose ir antspaudą su Lietuvos valstybės herbu ir savo pavadinimu. 
 
 
 
 
-4. Nacionalinė teismų administracija pradeda veikti nuo 2002 m. gegužės 1 d.
+3. Nacionalinės teismų administracijos steigėjo funkcijas atlieka Lietuvos Aukščiausiasis Teismas. 
 
 
 
 
-5. Nacionalinė teismų administracija savo veikloje vadovaujasi Teismų įstatymu, šiuo Įstatymu, Lietuvos Aukščiausiojo Teismo tvirtinamais Nacionalinės teismų administracijos nuostatais ir kitais teisės aktais.
+4. Nacionalinė teismų administracija savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Teismų įstatymu, šiuo ir kitais įstatymais, kitais teisės aktais bei savo nuostatais.
+
+
+
+
+5. Nacionalinė teismų administracija yra biudžetinė įstaiga, finansuojama iš Lietuvos Respublikos biudžeto.
+
+
+
+
+6. Nacionalinė teismų administracija pertvarkoma, reorganizuojama ir likviduojama įstatymu.
  
 
 
@@ -58,40 +67,198 @@ Vilnius
 2 straipsnis. Nacionalinės teismų administracijos funkcijos
 
 
-1. Nacionalinė teismų administracija atlieka Teismų įstatyme nustatytas funkcijas. Be Teismų įstatymo nustatytų funkcijų, Nacionalinė teismų administracija:
+Nacionalinė teismų administracija, įgyvendindama Teismų įstatyme nustatytus uždavinius, atlieka šias funkcijas:
 
 
-1) sudaro Nacionalinės teismų administracijos biudžeto bei investicinių programų projektus ir pateikia juos Teismų tarybai tvirtinti;
+1) rengia medžiagą Visuotiniam teisėjų susirinkimui, Teisėjų tarybos, Teisėjų etikos ir drausmės komisijos, Teisėjų garbės teismo posėdžiams;
 
 
 
 
-2) sudaro ir tvarko su Nacionalinės teismų administracijos veikla susijusias duomenų bazes, dalyvauja kuriant ir diegiant teismuose informacines sistemas, atlieka jų administravimą ir tobulinimą;
-Straipsnio punkto pakeitimai:
-Nr. IX-2109, 2004-04-08, Žin., 2004, Nr. 60-2119 (2004-04-24), i. k. 1041010ISTA0IX-2109
+2) techniškai aptarnauja teismų savivaldos institucijas, Pretendentų į teisėjus egzamino komisiją, Atrankos komisiją, Nuolatinę teisėjų veiklos vertinimo komisiją, Teisėjų tarybos sudarytas darbo grupes;
+
+
+
+
+3) renka informaciją, kaip vykdomi teismų savivaldos institucijų sprendimai, ją pateikia Teisėjų tarybai, o jos nurodymu – Visuotiniam teisėjų susirinkimui;
+
+
+
+
+4) pagal kompetenciją rengia teismų savivaldos institucijų teisės aktų, sprendimų, nutarimų ir kitų dokumentų projektus, Teisėjų tarybos pavedimu tvirtina su teismų savivaldos institucijų organizacine veikla susijusius teisės aktus;
+
+
+
+
+5) atlieka teismų ir teismų savivaldos institucijų kasmetinius veiklos apibendrinimus ir pateikia juos Teisėjų tarybai;
+
+
+
+
+6) organizuoja ir užtikrina, kad teismai reikiamu inventoriumi ir paslaugomis būtų centralizuotai aprūpinami;
+
+
+
+
+7) skiria ir moka teisėjų valstybines pensijas;
+
+
+
+
+8) tvarko teisėjų duomenų bazę ir teisėjų asmens bylas;
+
+
+
+
+9) tvarko pretendentų į laisvas apylinkės teismo teisėjų vietas sąrašą ir jų asmens bylas;
+
+
+
+
+10) tvarko Teisėjų karjeros siekiančių asmenų registrą; 
+
+
+
+
+11) tvarko teisėjų, pageidaujančių būti perkeltais į kitą tos pačios pakopos teismą arba į kitos jurisdikcijos tos pačios pakopos teismą, ir teisėjų, siekiančių karjeros tos pačios pakopos teismuose, duomenų bazes; 
+
+
+
+
+12) tvarko asmenų, pageidaujančių laikyti pretendentų į teisėjus egzaminą, duomenų bazę ir jų asmens bylas, organizuoja pretendentų į teisėjus egzamino laikymą; 
+
+
+
+
+13) renka informaciją apie teismų administracinę veiklą ir teismų organizacinį darbą, teikia apibendrinimus Teisėjų tarybai;
+
+
+
+
+14) atlieka teismų administracinės ir organizacinės veiklos tyrimus, analizes, apibendrinimus, išskyrus teisingumo vykdymą, teikia pasiūlymus dėl teismų administracinės veiklos ir organizacinio darbo tobulinimo; 
+
+
+
+
+15) analizuoja teismų darbo sąlygas, teikia Teisėjų tarybai pasiūlymus dėl jų gerinimo;
+
+
+
+
+16) analizuoja ir apibendrina materialinės ir procesinės teisės pažeidimų, lemiančių teismo sprendimų, nuosprendžių ir nutarčių pakeitimą bei panaikinimą, pagrindus ir tendencijas, apibendrinimus teikia Teisėjų tarybai ir Teisingumo ministerijai;
+
+
+
+
+17) atlieka vidaus auditą teismuose, taip pat Nacionalinėje teismų administracijoje;
+
+
+
+
+18) renka, analizuoja ir apibendrina teismų poreikius dėl valstybės biudžeto programų sąmatų projektų ir teikia informaciją dėl jų Teisėjų tarybai; 
+
+
+
+
+19) renka, analizuoja ir apibendrina valstybės investicijų teismams poreikius, teikia informaciją Teisėjų tarybai dėl teismų siūlomų investicijų projektų (investicijų programų);
+
+
+
+
+20) sudaro Nacionalinės teismų administracijos strateginius veiklos planus, vykdomų valstybės biudžeto programų projektus, programų sąmatų projektus ir investicijų projektus (investicijų programas); 
+
+
+
+
+21) kaupia, analizuoja ir apibendrina teismų statistiką;
+
+
+
+
+22) sudaro ir tvarko su Nacionalinės teismų administracijos veikla susijusias duomenų bazes, valdo su teismų informacinėmis sistemomis susijusias investicijas, įgyvendina šių investicijų projektus, organizuoja informacinių sistemų kūrimą ir diegimą teismuose, administruoja teismų informacines sistemas ir jas tobulina;
+
+
+
+
+23) skelbia Teismų įstatyme nurodytų teismų ir tarptautinių teisminių institucijų sprendimus;
+
+
+
+
+24) skelbia priimtus teismų savivaldos institucijų sprendimus;
+
+
+
+
+25) informuoja visuomenę apie teismų savivaldos institucijų ir Nacionalinės teismų administracijos veiklą;
+
+
+
+
+26) kasmet teikia Teisėjų tarybai metines Nacionalinės teismų administracijos veiklos ataskaitas;
+
+
+
+
+27) Teisėjų tarybos pavedimu pagal savo kompetenciją atstovauja teismų interesais Teisėjų tarybai valstybės valdžios ir kitose institucijose;
+
+
+
+
+28) bendradarbiauja su kitomis Lietuvos Respublikos institucijomis, taip pat su kitų valstybių bei tarptautinėmis institucijomis teismų savivaldos, administravimo ir kitais teismų veiklos klausimais;
+
+
+
+
+29) nagrinėja Nacionalinės teismų administracijos kompetencijai priskirtinus asmenų pareiškimus, skundus ir pasiūlymus ir imasi priemonių išspręsti juose keliamus klausimus;
+
+
+
+
+30) įstatymų nustatyta tvarka valdo, naudoja ir disponuoja Nacionalinei teismų administracijai patikėjimo teise perduotą valstybės turtą; 
+
+
+
+
+31) vykdo kitus teismų savivaldos institucijų pavedimus;
+
+
+
+
+32) atlieka kitas įstatymuose ir kituose teisės aktuose nustatytas funkcijas.
  
 
 
 
 
-3) rengia teismuose naudojamų statistinių ataskaitų formų bei teisės aktų, kuriuos pagal Teismų įstatymą tvirtina Teismų taryba, projektus;
 
 
 
 
-4) analizuoja teismų darbo krūvį;
+3 straipsnis. Nacionalinės teismų administracijos teisės
+
+
+1. Nacionalinė teismų administracija turi teisę:
+
+
+1) gauti iš teismų savivaldos institucijų, teismų, kitų valstybės ir savivaldybių institucijų, įstaigų bei organizacijų informaciją Nacionalinės teismų administracijos kompetencijai priskirtais klausimais; 
 
 
 
 
-5) analizuoja teismų darbo sąlygas;
+2) sudaryti komisijas, darbo grupes teisės aktų projektams rengti ar kitiems Nacionalinės teismų administracijos kompetencijos klausimams spręsti, įtraukti į jas kitų institucijų (suderinus su jų vadovais) specialistus;
 
 
 
 
-6) atlieka vidaus auditą apylinkių, apygardų, apygardų administraciniuose teismuose, taip pat Nacionalinėje teismų administracijoje.
-Papildyta straipsnio punktu:
-Nr. IX-2109, 2004-04-08, Žin., 2004, Nr. 60-2119 (2004-04-24), i. k. 1041010ISTA0IX-2109
+3) įstatymų nustatyta tvarka tvarkyti asmens duomenis.
+
+
+
+
+
+
+2. Nacionalinė teismų administracija gali turėti ir kitų Lietuvos Respublikos teisės aktais jai suteiktų teisių. 
  
 
 
@@ -99,40 +266,37 @@ Nr. IX-2109, 2004-04-08, Žin., 2004, Nr. 60-2119 (2004-04-24), i. k. 1041010IST
 
 
 
-2. Nacionalinė teismų administracija Teismų tarybos pavedimu:
+4 straipsnis. Nacionalinės teismų administracijos struktūra ir darbo organizavimas
 
 
-1) surenka ir analizuoja teismų (išskyrus Lietuvos Aukščiausiąjį Teismą, Lietuvos apeliacinį teismą ir Lietuvos vyriausiąjį administracinį teismą) pasiūlymus dėl biudžeto projektų bei teikia Teismų tarybai biudžeto asignavimų paskirstymo teismams projektą;
-
-
-
-
-2) analizuoja valstybės investicijų teismams poreikius, parengia apibendrintus pasiūlymus dėl teismų investicinių projektų sudarymo ir įtraukimo į valstybės investicijų programą ir pateikia juos Teismų tarybai;
+1. Nacionalinei teismų administracijai vadovauja direktorius. Jis yra atskaitingas Teisėjų tarybai. Direktorius gali turėti pavaduotojų.
 
 
 
 
-3) renka informaciją apie teismų (išskyrus Lietuvos Aukščiausiąjį Teismą, Lietuvos apeliacinį teismą ir Lietuvos vyriausiąjį administracinį teismą) administracinę veiklą ir teismų (teisėjų) organizacinį darbą;
+2. Nacionalinės teismų administracijos nuostatus, aprobavus Teisėjų tarybai, tvirtina steigėjas. Nacionalinės teismų administracijos struktūrą, didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių, vadovaudamasis įstatymų nustatyta tvarka ir suderinęs su steigėju, tvirtina Nacionalinės teismų administracijos direktorius.
+TAR pastaba. 4 straipsnio 2 dalis įsigalioja 2009-02-01.
 
 
 
 
-4) organizuoja Lietuvos Aukščiausiojo Teismo ir Lietuvos vyriausiojo administracinio teismo biuletenių platinimą (realizavimą);
+3. Nacionalinės teismų administracijos direktorių konkurso būdu 5 metų kadencijai į pareigas priima steigėjo funkcijas vykdančios institucijos vadovas Valstybės tarnybos įstatymo nustatyta tvarka.
+TAR pastaba. 4 straipsnio 3 dalis įsigalioja 2009-02-01.
 
 
 
 
-5) atstovauja Teismų tarybos kompetencijai priskiriamiems teismų interesams valstybės valdžios bei kitose institucijose;
+4. Nacionalinės teismų administracijos direktoriumi gali būti skiriamas nepriekaištingos reputacijos asmuo, turintis aukštąjį universitetinį teisinį išsilavinimą, ne mažesnį kaip 10 metų teisinio darbo stažą ir 5 metų vadovaujamo darbo stažą.
 
 
 
 
-6) analizuoja materialinės ir procesinės teisės pažeidimų, lemiančių teismo sprendimų, nuosprendžių ir nutarčių pakeitimą bei panaikinimą, priežastis ir tendencijas;
+5. Nacionalinės teismų administracijos direktoriaus, direktoriaus pavaduotojų įgaliojimus nustato Nacionalinės teismų administracijos nuostatai.
 
 
 
 
-7) organizuoja bendradarbiavimą su kitų valstybių bei tarptautinėmis institucijomis teismų savivaldos, administravimo ir kitais teismų veiklos klausimais, neviršydama savo kompetencijos sudaro tarptautines sutartis dėl įvairių programų vykdymo arba dalyvauja projektuose.
+6. Nacionalinės teismų administracijos darbuotojai yra valstybės tarnautojai ir asmenys, dirbantys pagal darbo sutartis.
  
 
 
@@ -140,54 +304,10 @@ Nr. IX-2109, 2004-04-08, Žin., 2004, Nr. 60-2119 (2004-04-24), i. k. 1041010IST
 
 
 
+5 straipsnis. Nacionalinės teismų administracijos finansinės veiklos vertinimas
 
 
-3 straipsnis. Nacionalinės teismų administracijos tarnautojai
-
-
-1. Nacionalinės teismų administracijai vadovauja direktorius ir jo pavaduotojas (pavaduotojai). Nacionalinės teismų administracijos direktorius gali turėti ne daugiau kaip du pavaduotojus.
-
-
-
-
-2. Nacionalinės teismų administracijos direktorių penkeriems metams į pareigas skiria ir iš pareigų atleidžia Respublikos Prezidentas Aukščiausiojo Teismo pirmininko siūlymu.
-
-
-
-
-3. Nacionalinės teismų administracijos direktoriaus pavaduotojus į pareigas skiria ir iš pareigų atleidžia Nacionalinės teismų administracijos direktorius Valstybės tarnybos įstatymo nustatyta tvarka.
-
-
-
-
-4. Nacionalinės teismų administracijos direktoriumi gali būti skiriamas nepriekaištingos reputacijos asmuo, turintis aukštąjį universitetinį teisinį išsilavinimą ir ne mažesnį kaip penkerių metų teisinio darbo stažą.
-
-
-
-
-5. Nacionalinės teismų administracijos direktoriaus, jo pavaduotojo (pavaduotojų) įgaliojimus nustato Nacionalinės teismų administracijos nuostatai.
-
-
-
-
-6. Nacionalinės teismų administracijos tarnautojams taikomos Valstybės tarnybos įstatymo nuostatos.
-
-
-
-
-7. Darbo įstatymai bei kiti teisės aktai, reglamentuojantys darbo santykius ir socialines garantijas, Nacionalinės teismų administracijos tarnautojams taikomi tiek, kiek jie neprieštarauja Teismų įstatymo, Valstybės tarnybos įstatymo ir šio Įstatymo nuostatoms. 
- 
-
-
-
-
-
-
-4 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
-
-
-Lietuvos Respublikos Vyriausybė iki 2002 m. liepos 1 d. suteikia patalpas Nacionalinei teismų administracijai.
- 
+Nacionalinės teismų administracijos finansinės veiklos vertinimą atlieka įgaliotos valstybės institucijos įstatymų ir kitų teisės aktų nustatyta tvarka.
  
 
 
@@ -202,9 +322,15 @@ RESPUBLIKOS PREZIDENTAS                            �
 
  
  
+ 
 Pakeitimai:
  
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2109, 2004-04-08, Žin., 2004, Nr. 60-2119 (2004-04-24), i. k. 1041010ISTA0IX-2109
 Lietuvos Respublikos nacionalinės teismų administracijos įstatymo 2 straipsnio papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1715, 2008-07-15, Žin., 2008, Nr. 87-3472 (2008-07-31), i. k. 1081010ISTA00X-1715
+Lietuvos Respublikos nacionalinės teismų administracijos įstatymo pakeitimo įstatymas
