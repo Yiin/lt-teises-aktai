@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2008-03-01 iki 2008-08-31
+Suvestinė redakcija nuo 2008-09-01 iki 2009-04-03
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
  
@@ -2299,63 +2299,55 @@ FINANSŲ ĮSTAIGOS APSKAITA IR AUDITAS
 
 
 
-44 straipsnis. Auditas 
+44 straipsnis. Auditas
 
 
-1. Audito įmonė turi atlikti finansų įstaigos finansinės metinės atskaitomybės bei jungtinės (konsoliduotos) finansinės atskaitomybės auditą ir tuo remdamasi pateikti auditoriaus išvadą dėl šios atskaitomybės, tai yra išvadą, ar finansų įstaiga bei finansinė grupė:
+1. Audito įmonė turi atlikti finansų įstaigos metinių finansinių ataskaitų ir konsoliduotųjų finansinių ataskaitų auditą ir tuo remdamasi pateikti auditoriaus išvadą dėl šių ataskaitų ir audito ataskaitą. Audito ataskaitoje auditorius turi pateikti informaciją apie tai, ar finansų įstaiga ir finansinė grupė:
 
 
-1) savo metinėje finansinėje atskaitomybėje teisingai ir tiksliai parodė metinės veiklos rezultatus ir finansinę būklę;
-
-
-
-
-2) finansinę atskaitomybę parengė pagal Lietuvos Respublikoje galiojančius buhalterinę apskaitą bei tarptautinius ar verslo apskaitos standartus ir bendruosius apskaitos principus reglamentuojančius teisės aktus; 
+1) tiksliai ir kvalifikuotai įvertino turtą pagal Lietuvos Respublikoje galiojančius teisės aktus;
 
 
 
 
-3) tiksliai ir kvalifikuotai įvertino turtą pagal Lietuvos Respublikoje galiojančius teisės aktus; 
+2) atliko privalomus turto vertės patikslinimus ir nurašymus;
 
 
 
 
-4) atliko privalomus turto vertės patikslinimus bei nurašymus; 
+3) sudarė privalomus ir būtinus kapitalus, rezervus ir atidėjinius (atidėjimus) veiklos rizikai sumažinti;
 
 
 
 
-5) sudarė privalomus ir būtinus kapitalus, rezervus ir atidėjinius (atidėjimus) veiklos rizikai sumažinti; 
+4) laikosi Lietuvos Respublikos teisės aktų nustatytų kapitalo reikalavimų;
 
 
 
 
-6) laikosi Lietuvos Respublikos teisės aktų nustatytų kapitalo reikalavimų; 
+5) atitinka Lietuvos Respublikos teisės aktų nustatytus veiksmingo ir patikimo nuosavybės valdymo bei saugios ir patikimos veiklos reikalavimus;
 
 
 
 
-7) atitinka Lietuvos Respublikos teisės aktų nustatytus veiksmingo ir patikimo nuosavybės valdymo bei saugios ir patikimos veiklos reikalavimus; 
-
-
-
-
-8) turi tinkamas vidaus kontrolės ir informacines sistemas. 
+6) turi tinkamas vidaus kontrolės ir informacines sistemas.
 
 
 
 
 
 
-2. Visuotinis finansų įstaigos dalyvių susirinkimas renka audito įmonę einamųjų ir ne daugiau kaip 2 būsimųjų finansinių metų metinei finansinei atskaitomybei patikrinti. 
+2. Visuotinis finansų įstaigos dalyvių susirinkimas renka audito įmonę metinėms finansinėms ataskaitoms bei konsoliduotosioms finansinėms ataskaitoms patikrinti.
 
 
 
 
-3. Finansų įstaiga privalo iki einamųjų finansinių metų pirmojo pusmečio pabaigos sudaryti sutartį dėl metinės finansinės atskaitomybės audito su visuotinio finansų įstaigos dalyvių susirinkimo išrinkta audito įmone ir pateikti ją priežiūros institucijai, jeigu finansų įstaigos veiklos priežiūrą nustato Lietuvos Respublikos įstatymai. 
+3. Finansų įstaiga privalo iki einamųjų finansinių metų pirmojo pusmečio pabaigos sudaryti sutartį dėl metinių finansinių ataskaitų audito su visuotinio finansų įstaigos dalyvių susirinkimo išrinkta audito įmone ir pateikti ją priežiūros institucijai, jeigu finansų įstaigos veiklos priežiūrą nustato Lietuvos Respublikos įstatymai.
+
+
+Straipsnio pakeitimai:
+Nr. X-1680, 2008-07-03, Žin., 2008, Nr. 82-3237 (2008-07-19), i. k. 1081010ISTA00X-1680
  
-
-
 
 
 
@@ -2408,9 +2400,11 @@ FINANSŲ ĮSTAIGOS APSKAITA IR AUDITAS
 
 
 
-3. Tos pačios audito įmonės auditoriui draudžiama atlikti auditą, taip pat kitam asmeniui draudžiama kartu su auditoriumi dalyvauti atliekant auditą toje pačioje finansų įstaigoje daugiau kaip už 3 finansinius metus iš eilės. 
+3. Auditorius, taip pat kitas asmuo, dalyvaujantis kartu su auditoriumi atliekant auditą, negali atlikti tos pačios finansų įstaigos audito ilgiau kaip 5 finansinius metus iš eilės, jeigu Lietuvos Respublikos įstatymuose, reglamentuojančiuose tokių įstaigų veiklą, nenustatyta kitaip.
+TAR pastaba. Taikant 3 dalies nuostatą, atsižvelgiama ir į iki šio įstatymo įsigaliojimo prasidėjusius finansinius metus, dėl kurių audito yra sudaryta finansinių ataskaitų audito sutartis.
 Straipsnio dalies pakeitimai:
 Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010ISTA0IX-2067
+Nr. X-1680, 2008-07-03, Žin., 2008, Nr. 82-3237 (2008-07-19), i. k. 1081010ISTA00X-1680
  
 
 
@@ -2970,3 +2964,8 @@ Lietuvos Respublikos finansų įstaigų įstatymo 1, 2, 20 straipsnių pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1306, 2007-10-25, Žin., 2007, Nr. 117-4775 (2007-11-15), i. k. 1071010ISTA00X-1306
 Lietuvos Respublikos finansų įstaigų įstatymo 2, 3 straipsnių pakeitimo ir papildymo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1680, 2008-07-03, Žin., 2008, Nr. 82-3237 (2008-07-19), i. k. 1081010ISTA00X-1680
+Lietuvos Respublikos finansų įstaigų įstatymo 44 ir 45 straipsnių pakeitimo įstatymas
