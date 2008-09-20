@@ -1134,12 +1134,26 @@ dienos.
  
 33
 straipsnis. Nutarimų dėl ekonominių sankcijų taikymo apskundimas
-1. Asmenys, nesutinkantys su nutarimu taikyti
-ekonominę sankciją, turi teisę per vieną mėnesį nuo nutarimo įteikimo dienos
-apskųsti jį teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo
-nustatyta tvarka.
+*1. Asmenys, nesutinkantys su
+nutarimu taikyti ekonominę sankciją, turi teisę per vieną mėnesį nuo nutarimo
+įteikimo dienos apskųsti jį teismui Lietuvos Respublikos administracinių bylų
+teisenos įstatymo nustatyta tvarka.
 2. Kreipimasis į
 teismą sustabdo nutarimo taikyti ekonominę sankciją vykdymą.
+*Pastaba. Pripažinti, kad Lietuvos
+Respublikos tabako kontrolės įstatymo 33 straipsnio 1 dalis (2003 m. lapkričio 20 d. redakcija; Žin., 2003, Nr. 117-5317) ta apimtimi, kuria
+nėra numatyta galimybė teismui, atsižvelgus į teisės pažeidimo pobūdį, jo
+mastą, atsakomybę lengvinančias bei kitas reikšmingas aplinkybes ir vadovaujantis
+teisingumo, protingumo kriterijais, nuspręsti, kad licencijos galiojimo
+panaikinimas asmenims neturi būti taikomas, nes dėl tam tikrų itin svarbių
+aplinkybių yra akivaizdžiai neproporcingas (neadekvatus) padarytam teisės
+pažeidimui ir dėl to neteisingas, prieštarauja Lietuvos Respublikos
+Konstitucijos 109 straipsnio 1 daliai, konstituciniams teisingumo, teisinės
+valstybės principams.
+Lietuvos Respublikos
+Konstitucinis Teismas, Nutarimas
+2008-09-17, Žin., 2008, Nr.
+108-4136 (2008-09-20)
  
 34
 straipsnis. Ginčai dėl šio Įstatymo pažeidimų
@@ -1187,8 +1201,8 @@ RESPUBLIKOS TABAKO KONTROLĖS ĮSTATYMO 1, 2, 7, 8, 10, 11, 13, 14, 15, 18,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1490, 1999.12.21, Žin., 2000, Nr.1-4 (2000.01.05)
 LIETUVOS
-RESPUBLIKOS TABAKO KONTROLĖS ĮSTATYMO 11
-STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+RESPUBLIKOS TABAKO KONTROLĖS ĮSTATYMO 11 STRAIPSNIO
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1319,10 +1333,26 @@ DĖL
 LIETUVOS RESPUBLIKOS TABAKO KONTROLĖS ĮSTATYMO 21 STRAIPSNIO 2 DALIES (2000 M. KOVO 16 D. REDAKCIJA), 3 DALIES (2002 M. BIRŽELIO 11 D. REDAKCIJA), 4 DALIES (1999 M. GEGUŽĖS 11 D. REDAKCIJA), 7 DALIES (2002 M. BIRŽELIO 11 D. REDAKCIJA) IR DĖL ŠIO ĮSTATYMO (2003 M. LAPKRIČIO 20 D. REDAKCIJA) 26 STRAIPSNIO 5, 7, 14 DALIŲ ATITIKTIES LIETUVOS RESPUBLIKOS
 KONSTITUCIJAI
  
+3.
+Lietuvos Respublikos
+Konstitucinis Teismas, Nutarimas
+2008-09-17, Žin., 2008, Nr.
+108-4136 (2008-09-20)
+DĖL LIETUVOS RESPUBLIKOS TABAKO
+KONTROLĖS ĮSTATYMO 26 STRAIPSNIO 5 DALIES (2003 M. LAPKRIČIO 20 D. REDAKCIJA),
+17 DALIES (2003 M. LAPKRIČIO 20 D. REDAKCIJA), 33 STRAIPSNIO (2003 M. LAPKRIČIO
+20 D. REDAKCIJA) IR LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2004 M. BALANDŽIO 7 D.
+NUTARIMU NR. 383 "DĖL MAŽMENINĖS PREKYBOS TABAKO GAMINIAIS LICENCIJAVIMO
+TAISYKLIŲ IR TABAKO GAMINIŲ PARDAVIMO TAISYKLIŲ PATVIRTINIMO" PATVIRTINTŲ
+MAŽMENINĖS PREKYBOS TABAKO GAMINIAIS LICENCIJAVIMO TAISYKLIŲ 39 PUNKTO (2006 M.
+GRUODŽIO 18 D. REDAKCIJA), 40 PUNKTO (2006 M. GRUODŽIO 18 D. REDAKCIJA)
+ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
 ***
 Pabaiga ***
-Redagavo:
-Aušrinė Trapinskienė (2008-07-08)
+ 
+ 
+Redagavo
+Aušrinė Trapinskienė (2011-04-06)
                  
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
