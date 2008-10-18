@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.079AD3264108"
 
 # Lietuvos Respublikos valstybės turto perėmimo savivaldybių nuosavybėn įstatymas
 
-Suvestinė redakcija nuo 2002-10-23 iki 2008-10-17
+Suvestinė redakcija nuo 2008-10-18 iki 2019-12-19
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 6-113, i. k. 0971010ISTAVIII-546
  
@@ -195,7 +195,10 @@ SAVIVALDYBIŲ NUOSAVYBĖN PERDUODAMAS  VALSTYBĖS TURTAS
 3. Savivaldybių nuosavybėn perduodamas šis turtas, kurį jos valdo patikėjimo teise:
 
 
-1) neprivatizuotos savivaldybių gyvenamosios patalpos su joms priklausančiais inžineriniais tinklais ir įrenginiais;
+1) neprivatizuotos savivaldybių gyvenamosios patalpos su joms priklausančiais inžineriniais tinklais ir įrenginiais, gyvenamųjų namų valdose esantys pagalbinio ūkio paskirties pastatai, jų dalys;
+Straipsnio punkto pakeitimai:
+Nr. X-1734, 2008-09-29, Žin., 2008, Nr. 120-4546 (2008-10-18), i. k. 1081010ISTA00X-1734
+ 
 
 
 
@@ -478,3 +481,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1114, 2002-10-03, Žin., 2002, Nr. 101-4493 (2002-10-23), i. k. 1021010ISTA0IX-1114
 Lietuvos Respublikos valstybės turto perdavimo savivaldybių nuosavybėn įstatymo 3, 4 ir 5 straipsnių papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1734, 2008-09-29, Žin., 2008, Nr. 120-4546 (2008-10-18), i. k. 1081010ISTA00X-1734
+Lietuvos Respublikos valstybės turto perdavimo savivaldybių nuosavybėn įstatymo 3 straipsnio pakeitimo įstatymas
