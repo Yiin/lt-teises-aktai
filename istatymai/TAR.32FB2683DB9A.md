@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.32FB2683DB9A"
 
 # Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2, 10, 28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 55(1), 55(2), 55(3), 55(4), 55(5) straipsniais įstatymas
 
-Įstatymas skelbtas: Žin., 2002, Nr. 124-5620
+Įstatymas skelbtas: Žin., 2002, Nr. 124-56200
 Neoficialus įstatymo tekstas
  
 LIETUVOS RESPUBLIKOS
@@ -40,11 +40,11 @@ straipsnis. 2 straipsnio 1 dalies 1, 6, 8, 11 ir 12 punktų pakeitimas
 1 dalies 1 punkte išbraukti žodžius „viešojo administravimo“ ir šį punktą
 išdėstyti taip:
 „1) gaunantys
-atlyginimą už darbą asmenys: dirbantys pagal darbo sutartis, einantys narystės
-pagrindu renkamąsias pareigas renkamose organizacijose, dirbantys žemės ūkio
-bendrovėse arba kooperatinėse organizacijose, kandidatai į notarus (asesoriai),
-valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus šios dalies 3
-ir 5 punktuose);“. 
+atlyginimą už darbą asmenys: dirbantys pagal darbo sutartis, einantys narystės pagrindu
+renkamąsias pareigas renkamose organizacijose, dirbantys žemės ūkio bendrovėse
+arba kooperatinėse organizacijose, kandidatai į notarus (asesoriai), valstybės
+tarnautojai (išskyrus valstybės tarnautojus, nurodytus šios dalies 3 ir 5
+punktuose);“. 
 2. Pakeisti 2
 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 „6) nedirbantys
@@ -66,8 +66,8 @@ pajamų, tuo laikotarpiu, kai augina vaiką iki trejų metų;“.
 10 straipsnio 2 dalyje vietoj žodžių „Patentus įsigijusių“ įrašyti
 žodžius „Verslo liudijimus turinčių“ ir šią dalį išdėstyti taip:
 „Verslo liudijimus turinčių
-asmenų valstybinio socialinio pensijų draudimo stažas įskaitomas pagal
-faktiškai įmokėtas valstybinio socialinio pensijų draudimo įmokas į Valstybinio
+asmenų valstybinio socialinio pensijų draudimo stažas įskaitomas pagal faktiškai
+įmokėtas valstybinio socialinio pensijų draudimo įmokas į Valstybinio
 socialinio draudimo fondo biudžetą. Tokia pat tvarka įskaitomas ir valstybinio
 socialinio pensijų draudimo stažas nuo 1995 m. sausio 1 d. iki 1999 m. gruodžio
 31 d. ūkininkams ir pilnamečiams jų šeimos nariams, dirbusiems ūkyje.“ 
@@ -92,12 +92,12 @@ straipsnio 1 dalį ir ją išdėstyti taip:
 „Valstybinė
 socialinio draudimo invalidumo pensija turintiems teisę gauti šią pensiją
 invalidams apskaičiuojama sudedant pagrindinę ir papildomą invalidumo pensijos
-dalis. Apskaičiuojant invalidumo pensijos papildomą dalį, bedarbio pašalpų
-gavimo laikas (8 straipsnio 2 dalies 2 punktas) įskaitomas į valstybinio
-socialinio pensijų draudimo stažą, o įskaitytu į stažą bedarbystės laikotarpiu
-gautos bedarbio pašalpos – į  asmens draudžiamąsias pajamas (13 straipsnis),
-jeigu invalidui tai naudinga. Tokios pat nuostatos laikomasi ir tuo atveju, kai
-asmuo gavo bedarbio pašalpą išėjimo į invalidumo pensiją metais.“ 
+dalis. Apskaičiuojant invalidumo pensijos papildomą dalį, bedarbio pašalpų gavimo
+laikas (8 straipsnio 2 dalies 2 punktas) įskaitomas į valstybinio socialinio
+pensijų draudimo stažą, o įskaitytu į stažą bedarbystės laikotarpiu gautos
+bedarbio pašalpos – į  asmens draudžiamąsias pajamas (13 straipsnis), jeigu
+invalidui tai naudinga. Tokios pat nuostatos laikomasi ir tuo atveju, kai asmuo
+gavo bedarbio pašalpą išėjimo į invalidumo pensiją metais.“ 
  
 5
 straipsnis. 34 straipsnio  pakeitimas 
@@ -109,10 +109,10 @@ Teisę gauti
 valstybinę socialinio draudimo našlių pensiją turi vienas iš šių asmenų:
 našlė arba
 našlys, auginantys mirusio asmens vaikus (įvaikius) iki 18 metų (bendrojo
-lavinimo ir profesinių mokyklų dieninių skyrių moksleivius – iki šių mokyklų
-baigimo, bet ne ilgiau, negu kol jiems sukaks 19 metų), taip pat slaugantys
-namuose mirusiojo vaikus (įvaikius) I grupės invalidus, tapusius invalidais iki
-18 metų, jeigu šiems vaikams (įvaikiams) mokama našlaičių pensija;
+lavinimo ir profesinių mokyklų dieninių skyrių moksleivius – iki šių mokyklų baigimo,
+bet ne ilgiau, negu kol jiems sukaks 19 metų), taip pat slaugantys namuose
+mirusiojo vaikus (įvaikius) I grupės invalidus, tapusius invalidais iki 18
+metų, jeigu šiems vaikams (įvaikiams) mokama našlaičių pensija;
 našlė arba
 našlys, kurie sukako senatvės pensijos amžių ar buvo pripažinti invalidais tuo
 metu, kai augino mirusio asmens vaikus (įvaikius) iki 18 metų (bendrojo
@@ -141,8 +141,8 @@ Lietuvos Respublikos Civilinio Kodekso nustatyta tvarka pripažintas globėju
 (bendrojo lavinimo ir profesinių mokyklų dieninių skyrių moksleivius – iki šių
 mokyklų baigimo, bet ne ilgiau, negu kol jiems sukaks 19 metų), taip pat
 nustatyta tvarka pripažintas globėju asmuo, slaugantis namuose mirusiojo vaikus
-(įvaikius) I grupės invalidus, tapusius invalidais iki 18 metų, jeigu šiems vaikams
-(įvaikiams) mokama našlaičių pensija.
+(įvaikius) I grupės invalidus, tapusius invalidais iki 18 metų, jeigu šiems
+vaikams (įvaikiams) mokama našlaičių pensija.
 Našlei ar
 našliui, taip pat faktiniam sutuoktiniui, gaunančiam našlių pensiją, pensijos
 mokėjimas nutraukiamas naujai susituokus. Asmeniui, turinčiam teisę gauti
@@ -165,11 +165,11 @@ Pakeisti 38
 straipsnio 2 dalį ir ją išdėstyti taip:
 „Pensijas moka
 Valstybinio socialinio draudimo fondo valdybos teritoriniai skyriai pagal
-nuolatinę arba faktinę pensininko gyvenamąją vietą. Paslaugas, susijusias su
-pensijų pristatymu, už sutartą kainą gali teikti pašto ir kitos įmonės konkurso
-tvarka. Konkursai rengiami Viešųjų pirkimų įstatymo nustatyta tvarka. Jeigu
-konkurse dalyvauja daugiau kaip viena įmonė ir jų siūloma pensijų pristatymo
-kaina ir kitos sąlygos vienodos, pirmenybė teikiama paštui.“
+nuolatinę arba faktinę pensininko gyvenamąją vietą. Paslaugas, susijusias su pensijų
+pristatymu, už sutartą kainą gali teikti pašto ir kitos įmonės konkurso tvarka.
+Konkursai rengiami Viešųjų pirkimų įstatymo nustatyta tvarka. Jeigu konkurse
+dalyvauja daugiau kaip viena įmonė ir jų siūloma pensijų pristatymo kaina ir
+kitos sąlygos vienodos, pirmenybė teikiama paštui.“
  
 8
 straipsnis. 39 straipsnio 5 dalies pakeitimas
@@ -198,8 +198,8 @@ ar invalidumo pensininkas, kuriam pagal šio įstatymo nuostatas buvo paskirta
 pensija turint minimalų, bet neturint būtinojo stažo, po pensijos paskyrimo
 dirbdamas pagal darbo sutartį, narystės ar tarnybos pagrindu arba dirbdamas
 savarankiškai įgyja būtinąjį stažą, jo prašymu senatvės ar invalidumo pensija
-jam gali būti skiriama iš naujo, nepaisant to, kad po pensijos paskyrimo jo įgytas
-valstybinio socialinio pensijų draudimo stažas buvo mažesnis kaip 3
+jam gali būti skiriama iš naujo, nepaisant to, kad po pensijos paskyrimo jo
+įgytas valstybinio socialinio pensijų draudimo stažas buvo mažesnis kaip 3
 metai. 
 Jei asmeniui
 nustatoma sunkesnio invalidumo grupė, valstybinė socialinio draudimo invalidumo
@@ -255,9 +255,9 @@ naujo pagal šio straipsnio antrosios dalies 1 arba 2 punktų ar trečiosios
 dalies 1 arba 2 punktų nuostatas, vėl nustatoma iki paskiriant invalidumo
 pensiją iš naujo turėta lengvesnio ar sunkesnio invalidumo grupė, pagal kurią
 buvo mokama neperskaičiuota invalidumo pensija, šio asmens pageidavimu jam gali
-būti atnaujinta neperskaičiuota invalidumo pensija pagal turėtą lengvesnio ar sunkesnio
-invalidumo grupę. Atnaujinta neperskaičiuota invalidumo pensija toliau
-indeksuojama 50 straipsnyje nustatyta tvarka.“ 
+būti atnaujinta neperskaičiuota invalidumo pensija pagal turėtą lengvesnio ar
+sunkesnio invalidumo grupę. Atnaujinta neperskaičiuota invalidumo pensija
+toliau indeksuojama 50 straipsnyje nustatyta tvarka.“ 
  
 12
 straipsnis. 54 straipsnio 2 dalies pakeitimas ir papildymas 
@@ -283,15 +283,15 @@ koeficientas nuo 1994 metų sausio 1 dienos. Asmenims, įgijusiems teisę gauti
 valstybinę socialinio draudimo senatvės pensiją pradedant 2009 metų sausio 1
 diena ir vėliau, valstybinės socialinio draudimo senatvės pensijos papildomos
 dalies apskaičiavimo formulė sudaroma iš vienos dalies, kurioje įrašomas visas
-asmens įgytas stažas ir draudžiamųjų pajamų koeficientas, apskaičiuotas pagal asmens
-draudžiamąsias pajamas, turėtas nuo 1994 metų sausio 1 dienos, bet ne daugiau
-kaip pagal 25 to asmens pasirinktus palankiausius kalendorinius jo stažo metus
-(16  ir 21 straipsniai).“
+asmens įgytas stažas ir draudžiamųjų pajamų koeficientas, apskaičiuotas pagal
+asmens draudžiamąsias pajamas, turėtas nuo 1994 metų sausio 1 dienos, bet ne
+daugiau kaip pagal 25 to asmens pasirinktus palankiausius kalendorinius jo
+stažo metus (16  ir 21 straipsniai).“
  
 13
 straipsnis. Įstatymo papildymas 55(1 )straipsniu
-Papildyti Įstatymą
-55(1 ) straipsniu:
+Papildyti
+Įstatymą 55(1 ) straipsniu:
 „55(1)
 straipsnis. Valstybinių socialinio draudimo senatvės ir invalidumo pensijų
 padidinimo sąlygos
@@ -322,10 +322,10 @@ Papildyti
 „55(2)
 straipsnis. Valstybinių socialinio draudimo senatvės pensijų padidinimas
  Valstybinės
-socialinio draudimo senatvės pensijos padidinamos asmenims, turintiems ne
-mažesnį kaip 25 metų valstybinio socialinio pensijų draudimo stažą, įgytą
-dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu (52 straipsnio 1 ir
-2 dalys) iki 1995 metų sausio 1 dienos. Pensija padidinama pagal šią formulę:
+socialinio draudimo senatvės pensijos padidinamos asmenims, turintiems ne mažesnį
+kaip 25 metų valstybinio socialinio pensijų draudimo stažą, įgytą dirbant pagal
+darbo sutartį, narystės ar tarnybos pagrindu (52 straipsnio 1 ir 2 dalys) iki
+1995 metų sausio 1 dienos. Pensija padidinama pagal šią formulę:
 PPs=
 [M+(R–M) BPS/R–BPS] S/Sn, kurioje:
 PPs –
@@ -420,9 +420,9 @@ Kp =
 K +PPs /(0,005 x S x D) arba Kp = K + PPinv
 /(0,005 x S x D).
 Pakeistas
-koeficientas Kp įrašomas senatvės ir invalidumo pensijų papildomos
-dalies apskaičiavimo formulėje vietoj buvusio apskaičiuoto asmens draudžiamųjų
-pajamų koeficiento K.“
+koeficientas Kp įrašomas senatvės ir invalidumo pensijų papildomos dalies
+apskaičiavimo formulėje vietoj buvusio apskaičiuoto asmens draudžiamųjų pajamų
+koeficiento K.“
  
 17
 straipsnis. Įstatymo papildymas 55(5 )straipsniu
@@ -473,42 +473,21 @@ teritoriniam skyriui. Šiuo atveju bendras išmokėtinų mėnesio kompensacijų
 skaičius neturi viršyti šiam asmeniui priklausančių mėnesio kompensacijų
 skaičiaus.“
  
-19 straipsnio
-redakcija iki 2005 m. sausio 1 d.:
-19
-straipsnis. Įstatymo įsigaliojimas
-1. Šis
-Įstatymas, išskyrus 1 straipsnio 4 dalies nuostatas dėl Valstybinių socialinio
-draudimo pensijų įstatymo 2 straipsnio 1 dalies 12 punkto pakeitimo, įsigalioja
-nuo 2003 m. sausio 1 d. 
-2. Šio Įstatymo 1 straipsnio 4
-dalies nuostatos dėl Valstybinių socialinio draudimo pensijų įstatymo 2
-straipsnio 1 dalies 12 punkto pakeitimo įsigalioja nuo 2004 m. sausio 1 d. 
-3. Valstybinio socialinio draudimo fondo valdybos teritoriniai skyriai privalo pradėti mokėti padidintas pensijas ne vėliau kaip praėjus 3 mėnesiams nuo šio  Įstatymo įsigaliojimo. Paskirtų ir padidintų pensijų dydžių skirtumas pensininkui kompensuojamas nuo šio Įstatymo įsigaliojimo dienos. 
-4. Lietuvos
-Respublikos valstybines pensijas skiriančios ir mokančios institucijos privalo
-suteikti Valstybinio socialinio draudimo fondo valdybai šiam Įstatymui
-įgyvendinti reikalingas žinias apie asmenims mokamas  valstybines pensijas
-pagal Valstybinio socialinio draudimo fondo valdybos paklausimus. 
-5.
-Draudėjai, valstybinių archyvų  sistemos  įstaigos  ar  savivaldybių 
-archyvai,  darbo biržos privalo nemokamai išduoti Valstybinio socialinio
-draudimo fondo valdybos teritorinių skyrių reikalaujamus dokumentus apie
-atitinkamų asmenų stažą, draudžiamąsias pajamas (darbo užmokestį),  išmokėtas
-valstybinio socialinio draudimo ir bedarbio pašalpas,  taip  pat  kitus 
-dokumentus,  kurių reikia pensijoms skirti ir  mokėti.  
-19 straipsnio
-redakcija nuo 2005 m. sausio 1 d.:
 19
 straipsnis. Įstatymo įsigaliojimas
 1. Šis Įstatymas, išskyrus 1
 straipsnio 4 dalies nuostatas dėl Valstybinių socialinio draudimo pensijų
 įstatymo 2 straipsnio 1 dalies 12 punkto pakeitimo, įsigalioja nuo 2003 m.
 sausio 1 d. 
-2. Šio Įstatymo 1 straipsnio 4
-dalies nuostatos dėl Valstybinių socialinio draudimo pensijų įstatymo 2
-straipsnio 1 dalies 12 punkto pakeitimo įsigalioja nuo 2004 m. sausio 1 d. 
-3. Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos teritoriniai skyriai privalo pradėti mokėti padidintas pensijas ne vėliau kaip praėjus 3 mėnesiams nuo šio Įstatymo įsigaliojimo. Paskirtų ir padidintų pensijų dydžių skirtumas pensininkui kompensuojamas nuo šio Įstatymo įsigaliojimo dienos.
+2. Šio Įstatymo 1 straipsnio 4 dalies
+nuostatos dėl Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1
+dalies 12 punkto pakeitimo įsigalioja nuo 2004 m. sausio 1 d. 
+3. Valstybinio
+socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo
+ministerijos teritoriniai skyriai privalo pradėti mokėti padidintas pensijas ne
+vėliau kaip praėjus 3 mėnesiams nuo šio Įstatymo įsigaliojimo. Paskirtų ir
+padidintų pensijų dydžių skirtumas pensininkui kompensuojamas nuo šio Įstatymo
+įsigaliojimo dienos.
 4. Lietuvos
 Respublikos valstybines pensijas skiriančios ir mokančios institucijos privalo
 suteikti Valstybinio socialinio draudimo fondo valdybai prie Socialinės
@@ -527,34 +506,16 @@ Straipsnio pakeitimai:
 Nr. IX-2540,
 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26)
  
-20 straipsnio
-redakcija iki 2005 m. sausio 1 d.:
-20
-straipsnis. Pasiūlymai Vyriausybei 
-Pasiūlyti
-Vyriausybei įgalioti Valstybinio socialinio draudimo fondo valdybą per 6 metus
-nuo šio Įstatymo įsigaliojimo sukaupti duomenis apie asmenų, kurie ateityje
-įgis teisę gauti valstybinę socialinio draudimo senatvės pensiją, valstybinio
-socialinio pensijų draudimo stažui prilyginamus laikotarpius (Valstybinių
-socialinio draudimo pensijų įstatymo 52 straipsnis), buvusius  iki 1993 m.
-gruodžio 31 d., bei apie šių asmenų pajamas, prilyginamas asmens
-draudžiamosioms pajamoms (Valstybinių socialinio draudimo pensijų įstatymo 53
-straipsnis), gautas per laikotarpį nuo 1984 m. sausio 1 d. iki 1994 m. sausio 1
-d.  
-20 straipsnio
-redakcija nuo 2005 m. sausio 1 d.:
-20
-straipsnis. Pasiūlymas Vyriausybei 
-Pasiūlyti
-Vyriausybei įgalioti Valstybinio socialinio draudimo fondo valdybą prie
-Socialinės apsaugos ir darbo ministerijos per 6 metus nuo šio Įstatymo
-įsigaliojimo sukaupti duomenis apie asmenų, kurie ateityje įgis teisę gauti
-valstybinę socialinio draudimo senatvės pensiją, valstybinio socialinio pensijų
-draudimo stažui prilyginamus laikotarpius (Valstybinių socialinio draudimo pensijų
-įstatymo 52 straipsnis), buvusius iki 1993 m. gruodžio 31 d., bei apie šių
-asmenų pajamas, prilyginamas asmens draudžiamosioms pajamoms (Valstybinių
-socialinio draudimo pensijų įstatymo 53 straipsnis), gautas per laikotarpį nuo
-1984 m. sausio 1 d. iki 1994 m. sausio 1 d.
+20 straipsnis. Baigiamosios
+nuostatos
+Valstybinio
+socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo
+ministerijos jos nustatyta tvarka kaupia asmenų, kurie ateityje įgis teisę
+gauti valstybinę socialinio draudimo senatvės pensiją, pateikiamus duomenis
+apie valstybinio socialinio pensijų draudimo stažui prilyginamus
+laikotarpius, buvusius iki 1993 m. gruodžio 31 d., ir pateikiamus duomenis apie
+pajamas, prilyginamas asmens draudžiamosioms pajamoms, gautas per laikotarpį
+nuo 1984 m. sausio 1 d. iki 1994 m. sausio 1 d.
 Straipsnio pakeitimai:
 Nr. IX-2540,
 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26)
@@ -564,9 +525,10 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                         VALDAS
 ADAMKUS
-_________________
+_______________
 Pakeitimai:
 1.
+ 
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
@@ -590,10 +552,19 @@ LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO PAKEITIMO IR PAPILDYMO
 Šis
 įstatymas įsigalioja nuo 2005 m. sausio 1 d.
  
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. X-1757, 2008-10-20,
+Žin., 2008, Nr. 127-4834 (2008-11-06)
+VALSTYBINIŲ
+SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 10, 28, 29, 34, 35, 38, 39, 40, 45, 49,
+54, 56 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(1), 55(2),
+55(3), 55(4), 55(5) STRAIPSNIAIS ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
- 
-Redagavo:
-Aušrinė Trapinskienė (2004-12-10)
+Redagavo
+Aušrinė Trapinskienė (2008-11-06)
                  
 autrap@lrs.lt
