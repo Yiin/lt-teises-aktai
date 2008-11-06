@@ -16,6 +16,15 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0BA9F5E94BD3"
 LIETUVOS RESPUBLIKOS AUKŠTOJO MOKSLO ĮSTATYMO 22, 23, 25, 47, 56, 58,
 59, 60, 61 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
+Įstatymas netenka galios 2009-05-12:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-242, 2009-04-30, Žin., 2009, Nr. 54-2140 (2009-05-12); Žin., 2009, Nr. 61-0 (2009-05-26); Žin., 2009, Nr. 101-0 (2009-08-25), i. k. 1091010ISTA00XI-242
+Lietuvos Respublikos mokslo ir studijų įstatymas
+ 
+Suvestinė redakcija nuo 2008-11-06 iki 2009-05-11
+ 
+Įstatymas paskelbtas: Žin. 2008, Nr. 73-2798, i. k. 1081010ISTA00X-1640
+ 
 LIETUVOS RESPUBLIKOS  AUKŠTOJO MOKSLO ĮSTATYMO 22, 23, 25, 47, 56, 58, 59, 60, 61 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO  ĮSTATYMAS
  
 2008 m. birželio 26 d. Nr. X-1640
@@ -135,7 +144,14 @@ Pakeisti 61 straipsnio 1 dalį ir ją išdėstyti taip:
 
 2. Vyriausybė iki 2008 m. birželio 27 d. patvirtina studijų vietų, į kurias 2008 metais priimamų studentų studijos valstybinėse aukštosiose mokyklose visiškai ar iš dalies apmokamos valstybės biudžeto lėšomis, skaičių pagal studijų pakopas ir formas.
 
-3. Vyriausybė ar jos įgaliota institucija iki 2008 m. birželio 27 d. patvirtina studijų rezultatų vertinimo sistemą.
+3. Valstybinių aukštųjų mokyklų visų formų pagrindinių, vientisųjų ir antrosios pakopos studijų studentai, studijuojantys studijų vietose, į kurias priimamų studentų studijos visiškai arba iš dalies apmokamos valstybės biudžeto lėšomis, 2008–2009 studijų metų pirmąjį (rudens) semestrą studijų įmokas moka pagal 2008–2009 studijų metų pirmojo (rudens) semestro studijų rezultatus. 
+Straipsnio dalies pakeitimai:
+Nr. X-1755, 2008-10-20, Žin., 2008, Nr. 127-4832 (2008-11-06), i. k. 1081010ISTA00X-1755
+ 
+
+4. Vyriausybė ar jos įgaliota institucija iki 2009 m. kovo 31 d. patvirtina studijų rezultatų vertinimo sistemą.
+Papildyta straipsnio dalimi:
+Nr. X-1755, 2008-10-20, Žin., 2008, Nr. 127-4832 (2008-11-06), i. k. 1081010ISTA00X-1755
  
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -143,4 +159,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
+ 
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1755, 2008-10-20, Žin., 2008, Nr. 127-4832 (2008-11-06), i. k. 1081010ISTA00X-1755
+Lietuvos Respublikos aukštojo mokslo įstatymo 22, 23, 25, 47, 56, 58, 59, 60, 61 straipsnių pakeitimo ir papildymo įstatymo 10 straipsnio pakeitimo ir papildymo įstatymas
 
