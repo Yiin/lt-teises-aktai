@@ -139,8 +139,8 @@ Nr. IX-956,
 2002-06-18, Žin., 2002, Nr. 68-2761 (2002-07-03)
 Nr. X-1380,
 2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
-Nr. X-1631, 2008-06-19, Žin., 2008, Nr. 75-2923
-(2008-07-03)
+Nr. X-1631,
+2008-06-19, Žin., 2008, Nr. 75-2923 (2008-07-03)
  
 4
 straipsnis. Švietimo įstaigų, mokslo ir studijų institucijų pareiga įgyvendinti
@@ -186,8 +186,8 @@ skundą arba į kitą teisinę procedūrą dėl diskriminacijos.
 Straipsnio pakeitimai:
 Nr. X-304, 2005-07-05,
 Žin., 2005, Nr. 88-3281 (2005-07-21)
-Nr. X-1380, 2007-12-18,
-Žin., 2007, Nr. 140-5755 (2007-12-29)
+Nr. X-1380,
+2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
  
 5(1) straipsnis. Moterų ir vyrų lygių
 galimybių įgyvendinimas vartotojų teisių apsaugos 
@@ -242,8 +242,8 @@ priverstinio nedarbo, taip pat darbo ieškantiems asmenims, pensininkams,
 neįgaliems darbuotojams ir asmenims, turintiems teisę jų vardu reikalauti
 išmokų.
 Įstatymas papildytas straipsniu:
-Nr. X-1631, 2008-06-19, Žin., 2008, Nr. 75-2923
-(2008-07-03)
+Nr. X-1631,
+2008-06-19, Žin., 2008, Nr. 75-2923 (2008-07-03)
  
 III SKYRIUS
 MOTERŲ
@@ -281,8 +281,8 @@ institucijų veiksmai pripažįstami pažeidžiančiais moterų ir vyrų lygias 
 jeigu dėl asmens lyties:
 1) taikomi skirtingi reikalavimai ir
 sąlygos priimant mokytis ar studijuoti, rengiant mokymo ir studijų programas,
-vertinant žinias, keliant kvalifikaciją, ugdant profesinius įgūdžius ar
-suteikiant praktinę darbo patirtį;
+vertinant žinias, keliant kvalifikaciją, ugdant profesinius įgūdžius ar suteikiant
+praktinę darbo patirtį;
 2) nustatomos skirtingos dėstomų dalykų
 pasirinkimo galimybės.
 Straipsnio pakeitimai:
@@ -357,8 +357,8 @@ galutinių išmokų sumą abiejų lyčių dalyviams, o apibrėžtų išmokų sis
 atveju, kai įmokos yra skirtos lėšų, reikalingų garantuotų išmokų sąnaudoms
 padengti, pakankamumui užtikrinti.
 Įstatymas papildytas straipsniu:
-Nr. X-1631, 2008-06-19, Žin., 2008, Nr. 75-2923
-(2008-07-03)
+Nr. X-1631,
+2008-06-19, Žin., 2008, Nr. 75-2923 (2008-07-03)
  
 8 straipsnis.
 Diskriminuojantys skelbimai
@@ -437,8 +437,8 @@ Nr. X-304, 2005-07-05,
 Žin., 2005, Nr. 88-3281 (2005-07-21)
 Nr. X-1380,
 2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
-Nr. X-1631, 2008-06-19, Žin., 2008, Nr. 75-2923
-(2008-07-03)
+Nr. X-1631,
+2008-06-19, Žin., 2008, Nr. 75-2923 (2008-07-03)
  
 13 straipsnis.
 Lygių galimybių kontrolieriui keliami reikalavimai
@@ -449,8 +449,8 @@ arba darbo valstybės ir savivaldybių institucijose ir įstaigose stažą.
 Straipsnio pakeitimai:
 Nr. X-304, 2005-07-05,
 Žin., 2005, Nr. 88-3281 (2005-07-21)
-Nr. X-1631, 2008-06-19, Žin., 2008, Nr. 75-2923
-(2008-07-03)
+Nr. X-1631,
+2008-06-19, Žin., 2008, Nr. 75-2923 (2008-07-03)
  
 14 straipsnis.
 Lygių galimybių kontrolieriaus skyrimo tvarka
@@ -563,8 +563,7 @@ institucijos pavadinimas ir adresas;
 ar asmenų vardai, pavardės ir institucija, kurioje jie dirba;
 4) apibūdintas skundžiamas sprendimas
 arba skundžiami veiksmai, nurodytas jų padarymo laikas ir aplinkybės;
-5) prašymas lygių galimybių
-kontrolieriui;
+5) prašymas lygių galimybių kontrolieriui;
 6) skundo parašymo data ir pareiškėjo parašas.
 2. Prie skundo gali būti pridedama:
 1) ginčijamo sprendimo nuorašas;
@@ -688,8 +687,8 @@ kai pareiškėjas ir pažeidėjas susitaiko, arba kai lygias teises pažeidžian
 veikos nutraukiamos, arba kai lygias teises pažeidžiantis teisės aktas pakeičiamas
 ar panaikinamas;
 6) įspėti dėl padaryto pažeidimo;
-7) laikinai sustabdyti tyrimą, jei asmuo, kurio skundas
-ar apskundžiami veiksmai tiriami, serga arba yra išvykęs;
+7) laikinai sustabdyti tyrimą, jei asmuo, kurio
+skundas ar apskundžiami veiksmai tiriami, serga arba yra išvykęs;
 8) laikinai, kol bus priimtas galutinis
 sprendimas, uždrausti skleisti reklamą, jeigu yra pakankamai duomenų, kad
 paskleista ar numatoma paskleisti reklama gali būti pripažinta kurstančia
@@ -738,20 +737,15 @@ kontrolieriui atlikti pareigas, atsako pagal įstatymus.
 Straipsnio pakeitimai:
 Nr. X-304, 2005-07-05,
 Žin., 2005, Nr. 88-3281 (2005-07-21)
-Nr. X-1631, 2008-06-19, Žin., 2008, Nr. 75-2923
-(2008-07-03)
+Nr. X-1631,
+2008-06-19, Žin., 2008, Nr. 75-2923 (2008-07-03)
  
 26
 straipsnis. Lygių galimybių kontrolieriaus atlyginimas ir socialinės garantijos
-1. Lygių galimybių kontrolieriui mokamas
-paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio (VMDU) 5
-dydžių atlyginimas. Kiti priedai ar premijos lygių galimybių kontrolieriui
-nemokami.
-2. Pradėjus įgyvendinti Lietuvos Respublikos
-valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo
-nustatytą darbo apmokėjimo sistemą, lygių galimybių kontrolieriui taikomos
-minėtu įstatymu nustatytos darbo apmokėjimo sąlygos.
-3. Lygių galimybių kontrolierius
+1. Lygių galimybių kontrolieriaus darbo
+apmokėjimo sąlygas nustato Lietuvos Respublikos valstybės politikų ir valstybės
+pareigūnų darbo apmokėjimo įstatymas.
+2. Lygių galimybių kontrolierius
 valstybiniu socialiniu draudimu draudžiamas Valstybinio socialinio draudimo
 įstatymo nustatyta tvarka.
 Straipsnio pakeitimai:
@@ -761,6 +755,8 @@ Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
 64-2328 (2001-07-25)
 Nr. X-304, 2005-07-05,
 Žin., 2005, Nr. 88-3281 (2005-07-21)
+Nr. X-1779,
+2008-11-06, Žin., 2008, Nr. 131-5029 (2008-11-15)
  
 27 straipsnis.
 Lygių galimybių kontrolieriaus tarnybos ataskaita
@@ -811,9 +807,6 @@ priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                              VALDAS
 ADAMKUS
- 
-_________________
- 
  
 Lietuvos
 Respublikos 
@@ -963,16 +956,26 @@ PRIEDO PAKEITIMO BEI PAPILDYMO IR ĮSTATYMO PAPILDYMO 5(2) IR 7(2) STRAIPSNIAIS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-1631, 2008-06-19, Žin., 2008, Nr. 75-2923 (2008-07-03)
+X-1631,
+2008-06-19, Žin., 2008, Nr. 75-2923 (2008-07-03)
 MOTERŲ
 IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 3, 12, 13, 25 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO
 PAPILDYMO 5(3), 7(3) STRAIPSNIAIS ĮSTATYMAS
+ 
+12.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-1779,
+2008-11-06, Žin., 2008, Nr. 131-5029 (2008-11-15)
+MOTERŲ
+IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 26 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2008-07-04)
+Redagavo
+Aušrinė Trapinskienė (2008-11-18)
                  
 autrap@lrs.lt
