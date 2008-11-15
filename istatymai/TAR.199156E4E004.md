@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2006-01-01 iki 2008-11-14
+Suvestinė redakcija nuo 2008-11-15 iki 2010-05-24
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
  
@@ -778,7 +778,10 @@ Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. 1051010ISTA0
 
 
 
-6. Komisijos pirmininkui ir Komisijos nariams darbo užmokestis ir apmokėjimo sąlygos nustatomos pagal Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymą ir kitus teisės aktus.
+6. Komisijos pirmininkui ir Komisijos nariams darbo užmokestis ir apmokėjimo sąlygos nustatomos pagal Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymą ir kitus teisės aktus. 
+Straipsnio dalies pakeitimai:
+Nr. X-1778, 2008-11-06, Žin., 2008, Nr. 131-5028 (2008-11-15), i. k. 1081010ISTA00X-1778
+ 
 
 
 
@@ -1151,3 +1154,8 @@ Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo, Valstybin
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-373, 2005-10-18, Žin., 2005, Nr. 127-4534 (2005-10-27), i. k. 1051010ISTA000X-373
 Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo 15, 16, 17, 23 ir 24 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1778, 2008-11-06, Žin., 2008, Nr. 131-5028 (2008-11-15), i. k. 1081010ISTA00X-1778
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo 23 straipsnio pakeitimo įstatymas
