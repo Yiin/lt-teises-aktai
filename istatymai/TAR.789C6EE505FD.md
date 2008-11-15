@@ -20,6 +20,10 @@ LIETUVOS RESPUBLIKOS VYRIAUSIOSIOS TARNYBINĖS ETIKOS KOMISIJOS ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2008-11-15 iki 2013-12-31
+ 
+Įstatymas paskelbtas: Žin. 2008, Nr. 81-3176, i. k. 1081010ISTA00X-1666
+ 
 LIETUVOS RESPUBLIKOS
 VYRIAUSIOSIOS TARNYBINĖS ETIKOS KOMISIJOS
 Į S T A T Y M A S
@@ -379,7 +383,10 @@ Tepadeda man Dievas.“;
 16 straipsnis. VTEK narių darbo apmokėjimas, socialinės garantijos ir garantijos atleidus iš pareigų
 
 
-1. VTEK pirmininkui ir nariams darbo užmokestis mokamas Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatyta tvarka.
+1. VTEK pirmininkui ir nariams darbo užmokestis mokamas Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. X-1777, 2008-11-06, Žin., 2008, Nr. 131-5027 (2008-11-15), i. k. 1081010ISTA00X-1777
+ 
 
 
 
@@ -995,3 +1002,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1777, 2008-11-06, Žin., 2008, Nr. 131-5027 (2008-11-15), i. k. 1081010ISTA00X-1777
+Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo 16 straipsnio pakeitimo įstatymas
