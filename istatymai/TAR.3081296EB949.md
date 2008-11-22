@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3081296EB949"
 
 # Lietuvos Respublikos Tarnybos Lietuvos Respublikos muitinėje statuto patvirtinimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2007-01-11 iki 2008-11-21
+Suvestinė redakcija nuo 2008-11-22 iki 2011-08-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2917; Žin. 2003, Nr.64-2881, i. k. 1001010ISTAIII-1986
  
@@ -141,7 +141,10 @@ Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010IST
 
 5 straipsnis. Finansų ministerijos, Muitinės departamento ir muitinės įstaigų statutinės komisijos
 
-1. Finansų ministerijoje, Muitinės departamente ir muitinės įstaigose sudaromos statutinės komisijos. Jos svarsto muitinės pareigūnų tarnybinės veiklos vertinimo klausimus ir teikia siūlymus dėl muitinės pareigūnų kvalifikacijos tobulinimo, kvalifikacinių kategorijų suteikimo muitinės pareigūnams, muitinės pareigūnų perkėlimo į aukštesnės arba žemesnės kategorijos pareigas bei atleidimo iš pareigų. Statutinę komisiją turi sudaryti ne mažiau kaip 5 nariai (įskaitant pirmininką).
+1. Finansų ministerijoje, Muitinės departamente ir muitinės įstaigose sudaromos statutinės komisijos. Jos svarsto muitinės pareigūnų tarnybinės veiklos vertinimo klausimus ir teikia siūlymus dėl muitinės pareigūnų kvalifikacijos tobulinimo, kvalifikacinių kategorijų suteikimo muitinės pareigūnams, pareiginės algos dydžio vienkartinių priedų skyrimo muitinės pareigūnams, muitinės pareigūnų perkėlimo į aukštesnės arba žemesnės kategorijos pareigas bei atleidimo iš pareigų. Statutinę komisiją turi sudaryti ne mažiau kaip 5 nariai (įskaitant pirmininką). Jeigu muitinės įstaigoje veikia profesinė sąjunga, vienas statutinės komisijos narys turi būti profesinės sąjungos įgaliotas atstovas. Jeigu muitinės įstaigoje veikia kelios profesinės sąjungos, jos susitarimu skiria bendrą atstovą į statutinės komisijos narius. Jeigu profesinės sąjungos nesusitaria dėl bendro atstovo paskyrimo, profesinių sąjungų atstovas į statutinės komisijos narius neskiriamas. 
+Straipsnio dalies pakeitimai:
+Nr. X-1770, 2008-11-06, Žin., 2008, Nr. 134-5176 (2008-11-22), i. k. 1081010ISTA00X-1770
+ 
 
 2. Finansų ministerijos statutinės komisijos nariais skiriami Finansų ministerijos valstybės tarnautojai ir Muitinės departamento pareigūnai. Personalinę Finansų ministerijos statutinės komisijos sudėtį tvirtina finansų ministras.
 
@@ -170,7 +173,10 @@ PRIĖMIMAS Į TARNYBĄ MUITINĖJE
 
 2) mokėti valstybinę kalbą;
 
-3) būti ne jaunesnis kaip 21 metų ir ne vyresnis kaip 62 metų ir 6 mėnesių; 
+3) būti ne jaunesnis kaip 21 metų ir ne vyresnis kaip 65 metų, o priimamas į muitinės mobilios grupės pareigūno, muitinės posto pareigūno ir muitinės pareigūno, atliekančio operatyvinę veiklą ir (arba) ikiteisminį tyrimą, pareigas – ne vyresnis kaip 62 metų ir 6 mėnesių; 
+Straipsnio punkto pakeitimai:
+Nr. X-1770, 2008-11-06, Žin., 2008, Nr. 134-5176 (2008-11-22), i. k. 1081010ISTA00X-1770
+ 
 
 4) turėti to lygio valstybės tarnautojo pareigoms eiti būtiną išsilavinimą;
 
@@ -322,9 +328,15 @@ DRAUDIMAI MUITINĖS PAREIGŪNAMS, JŲ TEISĖS IR PAREIGOS
 
 2) Muitinės departamento ar muitinės įstaigos, kurioje jis eina pareigas, vardu sudaryti sandorius su individualiomis (personalinėmis) įmonėmis, ūkinėmis bendrijomis, kurių savininkas, tikrasis narys arba komanditorius yra jis pats arba Statuto 10 straipsnio 3 punkte nurodyti asmenys, taip pat su akcinėmis bendrovėmis, kuriose jis pats arba Statuto 10 straipsnio 3 punkte nurodyti asmenys turi arba pagal kito asmens įgaliojimą valdo daugiau negu 10 procentų įstatinio kapitalo arba akcijų;
 
-3) atstovauti Lietuvos Respublikos ir užsienio valstybių privatiems ūkio subjektams arba už jų lėšas vykti į užsienį, mokytis arba kitaip naudotis jų lėšomis; 
+3) atstovauti Lietuvos Respublikos ir užsienio valstybių privatiems ūkio subjektams arba už jų lėšas vykti į užsienį, mokytis arba kitaip naudotis jų lėšomis, išskyrus atvejus, kai tai daroma dirbant kitą darbą Valstybės tarnybos įstatymo nustatyta tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. X-1770, 2008-11-06, Žin., 2008, Nr. 134-5176 (2008-11-22), i. k. 1081010ISTA00X-1770
+ 
 
-4) dirbti samdomu darbuotoju, patarėju, ekspertu arba konsultantu visų rūšių įmonėse, įstaigose arba organizacijose, taip pat gauti kitą negu Valstybės tarnybos įstatymo nustatytą darbo užmokestį, išskyrus atlyginimą už darbą visų lygių rinkimų, referendumo komisijose bei už darbą pagal sutartis su rinkimų arba referendumo komisijomis, už mokslinį ir pedagoginį darbą aukštosiose mokyklose arba valstybės tarnautojų kvalifikacijos tobulinimo įstaigose, už neformalųjį suaugusiųjų švietimą, už teisės aktų projektų rengimą (jei ši funkcija nenurodyta muitinės pareigūno pareigybės aprašyme), kai jis Seimo nutarimu arba Seimo valdybos sprendimu, Seimo Pirmininko potvarkiu, Respublikos Prezidento dekretu, Vyriausybės nutarimu arba Ministro Pirmininko potvarkiu paskiriamas rengti teisės aktų projektus, taip pat išskyrus autorinį atlyginimą už kūrinius, kurie yra intelektinės nuosavybės teisių objektai;
+4) dirbti įmonėse, įstaigose, organizacijose, taip pat gauti už šį darbą atlyginimą, jeigu tai sukelia viešųjų ir privačių interesų konfliktą muitinėje, sudaro prielaidas tarnybą muitinėje panaudoti asmeniniais interesais, diskredituoja muitinę, kliudo muitinės pareigūnui tinkamai atlikti jo pareigybės aprašyme nustatytas pareigas, taip pat kai tai yra darbas įmonėse, įstaigose, organizacijose, kurių atžvilgiu muitinės pareigūnas turi valdingus įgaliojimus arba kurių veiklą kontroliuoja, prižiūri arba dėl kurių priima kokius nors kitus sprendimus, ir kai yra kitų aplinkybių, dėl kurių muitinės pareigūnas negali dirbti kito darbo ir už tą darbą gauti atlyginimo; 
+Straipsnio punkto pakeitimai:
+Nr. X-1770, 2008-11-06, Žin., 2008, Nr. 134-5176 (2008-11-22), i. k. 1081010ISTA00X-1770
+ 
 
 5) eiti daugiau negu vienerias valstybės tarnautojo pareigas;
 
@@ -467,48 +479,132 @@ MUITINĖS PAREIGŪNŲ TARNYBINĖS VEIKLOS VERTINIMAS
 
 25 straipsnis. Muitinės pareigūnų tarnybinės veiklos vertinimas
 
-1. Muitinės pareigūnų (išskyrus muitinės pareigūnus, kurie nėra baigę stažuotės) tarnybinę veiklą vertina jų vadovai ir statutinės komisijos. Muitinės pareigūno tarnybinę veiklą per kalendorinius metus vertina tiesioginis muitinės pareigūno vadovas, muitinės įstaigos vadovo tarnybinę veiklą vertina šį muitinės pareigūną į pareigas priimantis asmuo ar jo įgaliotas asmuo. Kiekvienų kalendorinių metų pabaigoje tiesioginis muitinės pareigūno vadovas arba muitinės pareigūną į pareigas priimantis asmuo ar jo įgaliotas asmuo muitinės pareigūno tarnybinę veiklą įvertina arba labai gerai, arba gerai, arba nepatenkinamai. Jeigu muitinės pareigūno tarnybinė veikla įvertinama labai gerai arba nepatenkinamai, ją vertina statutinė komisija. 
+1. Muitinės departamento generalinio direktoriaus ir muitinės įstaigos vadovo tarnybinės veiklos vertinimo tikslas – kasmet įvertinti jų kvalifikaciją ir gebėjimus atlikti pareigybės aprašyme nustatytas pareigas ir įgyvendinti Muitinės departamento, kai vertinama Muitinės departamento generalinio direktoriaus tarnybinė veikla, arba muitinės įstaigos, kai vertinama jos vadovo tarnybinė veikla, strateginius tikslus.
 
-2. Muitinės departamento pareigūnų, muitinės įstaigų vadovų, jų pavaduotojų ir muitinės įstaigų statutinių komisijų narių tarnybinę veiklą vertina Muitinės departamento statutinė komisija. Muitinės įstaigų pareigūnų tarnybinę veiklą vertina muitinės įstaigų statutinės komisijos. Muitinės departamento generalinio direktoriaus, jo pavaduotojų ir Muitinės departamento statutinės komisijos narių tarnybinę veiklą vertina finansų ministro sudaryta statutinė komisija. 
-Straipsnio dalies pakeitimai:
-Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010ISTA0IX-2186
- 
+2. Muitinės pareigūno ir pakaitinio muitinės pareigūno tarnybinės veiklos vertinimo tikslas – kasmet įvertinti jų gebėjimus atlikti pareigybės aprašyme nustatytas pareigas ir jų kvalifikaciją.
 
-3. Muitinės pareigūną į pareigas priėmęs asmuo apie būsimą muitinės pareigūno tarnybinės veiklos vertinimą statutinėje komisijoje ne vėliau kaip prieš 20 darbo dienų iki vertinimo pradžios praneša muitinės pareigūnui.
+3. Muitinės departamento generalinio direktoriaus, muitinės įstaigos vadovo, muitinės pareigūno (nustatyta tvarka atlikusio stažuotę) ir pakaitinio muitinės pareigūno tarnybinė veikla vertinama kasmet, jei šie pareigūnai vertinimo metu einamas pareigas Muitinės departamente arba muitinės įstaigoje, kurioje yra vertinama jų tarnybinė veikla, eina ne trumpiau kaip 6 mėnesius per kalendorinius metus.
 
-4. Statutinė komisija gali įvertinti muitinės pareigūno tarnybinę veiklą arba labai gerai, arba gerai, arba nepatenkinamai. Statutinė komisija turi teisę pakviesti dalyvauti savo posėdyje vertinamo muitinės pareigūno tiesioginį vadovą.
+4. Muitinės departamento generalinio direktoriaus ir muitinės įstaigos vadovo tarnybinę veiklą vertina juos į pareigas priimantis asmuo. Muitinės pareigūno tarnybinę veiklą ir pakaitinio muitinės pareigūno tarnybinę veiklą vertina jų tiesioginis vadovas.
 
-5. Statutinė komisija, įvertinusi muitinės pareigūno tarnybinę veiklą labai gerai, muitinės pareigūną į pareigas priėmusiam asmeniui pateikia vieną iš šių siūlymų:
+5. Kiekvienų kalendorinių metų pabaigoje (kai atliekamas eilinis vertinimas) ir neeilinio vertinimo metu Muitinės departamento generalinį direktorių ir muitinės įstaigos vadovą į pareigas priimantis asmuo, tiesioginis muitinės pareigūno ar pakaitinio muitinės pareigūno vadovas (toliau – tiesioginis vadovas) muitinės pareigūno tarnybinę veiklą įvertina:
 
-1) suteikti muitinės pareigūnui aukštesnę kvalifikacinę kategoriją;
+1) labai gerai;
 
-2) perkelti muitinės pareigūną į aukštesnės kategorijos pareigas;
+2) gerai;
 
-3) palikti tą pačią kvalifikacinę kategoriją, jei toje muitinės įstaigoje nėra galimybės pasiūlyti aukštesnės kategorijos pareigas ar suteikti aukštesnę kvalifikacinę kategoriją.
+3) patenkinamai;
 
-6. Statutinė komisija, įvertinusi muitinės pareigūno tarnybinę veiklą gerai, muitinės pareigūną į pareigas priėmusiam asmeniui siūlymų neteikia.
+4) nepatenkinamai.
 
-7. Statutinė komisija, įvertinusi muitinės pareigūno tarnybinę veiklą nepatenkinamai, muitinės pareigūną į pareigas priėmusiam asmeniui pateikia vieną iš šių siūlymų:
+6. Jeigu tiesioginis vadovas muitinės pareigūno tarnybinę veiklą įvertina gerai, jo teisinė padėtis nesikeičia ir muitinės pareigūno tarnybinės veiklos vertinimas yra baigiamas, išskyrus atvejį, kai šis muitinės pareigūnas prašo, kad jo tarnybinę veiklą vertintų statutinė komisija.
 
-1) tobulinti muitinės pareigūno kvalifikaciją;
+7. Jeigu tiesioginis vadovas muitinės pareigūno tarnybinę veiklą įvertina labai gerai, patenkinamai arba nepatenkinamai, muitinės pareigūno tarnybinę veiklą vertina statutinė komisija.
 
-2) suteikti muitinės pareigūnui žemesnę kvalifikacinę kategoriją;
+8. Tiesioginis vadovas, įvertinęs Muitinės departamento generalinio direktoriaus, muitinės įstaigos vadovo ar muitinės pareigūno (išskyrus pakaitinį muitinės pareigūną) tarnybinę veiklą labai gerai, teikia statutinei komisijai muitinės pareigūno tarnybinės veiklos vertinimo išvadą su vienu iš šio straipsnio 15 arba 16 dalyje nurodytų siūlymų. Tiesioginis vadovas, įvertinęs pakaitinio muitinės pareigūno tarnybinę veiklą labai gerai, teikia statutinei komisijai muitinės pareigūno tarnybinės veiklos vertinimo išvadą su vienu iš šio straipsnio 17 dalyje nurodytų siūlymų.
 
-3) perkelti muitinės pareigūną į žemesnės kategorijos pareigas;
+9. Tiesioginis vadovas, įvertinęs muitinės pareigūno tarnybinę veiklą patenkinamai, teikia statutinei komisijai muitinės pareigūno tarnybinės veiklos vertinimo išvadą su vienu iš šio straipsnio 19 dalyje nurodytų siūlymų.
 
-4) atleisti muitinės pareigūną iš pareigų, jei du kartus iš eilės jo tarnybinė veikla įvertinta nepatenkinamai.
+10. Tiesioginis vadovas, įvertinęs Muitinės departamento generalinio direktoriaus, muitinės įstaigos vadovo ar muitinės pareigūno (išskyrus pakaitinį muitinės pareigūną) tarnybinę veiklą nepatenkinamai, teikia statutinei komisijai muitinės pareigūno tarnybinės veiklos vertinimo išvadą su vienu iš šio straipsnio 20 arba 21 dalyje nurodytų siūlymų. Tiesioginis vadovas, įvertinęs pakaitinio muitinės pareigūno tarnybinę veiklą nepatenkinamai, teikia statutinei komisijai muitinės pareigūno tarnybinės veiklos vertinimo išvadą su siūlymu atleisti pakaitinį muitinės pareigūną iš pareigų.
 
-8. Šio straipsnio 5 dalies 1 punkte ir 7 dalies 1, 2 ir 4 punktuose nurodyti statutinės komisijos siūlymai muitinės pareigūną į pareigas priėmusiam asmeniui yra privalomi.
+11. Muitinės pareigūną į pareigas priimantis asmuo apie būsimą muitinės pareigūno tarnybinės veiklos vertinimą statutinėje komisijoje ne vėliau kaip prieš 10 darbo dienų iki vertinimo pradžios praneša muitinės pareigūnui.
 
-9. Muitinės pareigūnui, kurio tarnybinę veiklą tiesioginis vadovas įvertina gerai, paliekama ta pati kvalifikacinė kategorija, jei ji buvo ankščiau suteikta. 
+12. Statutinė komisija muitinės pareigūno tarnybinę veiklą gali įvertinti:
 
-10. Muitinės pareigūnui, kurio tarnybinę veiklą tiesioginis vadovas įvertino labai gerai, o statutinė komisija taip neįvertina, paliekama jo turėta kvalifikacinė kategorija, jei ji buvo ankščiau suteikta. 
+1) labai gerai;
 
-11. Nėščių muitinės pareigūnių ir auginančių bent vieną vaiką iki trejų metų muitinės pareigūnų tarnybinė veikla vertinama tik jų rašytiniu prašymu.
+2) gerai;
 
-12. Jeigu yra muitinės pareigūno prašymas perkelti jį į aukštesnės kategorijos pareigas arba kyla abejonių dėl muitinės pareigūno kvalifikacijos ir tinkamumo eiti pareigas, gali būti rengiamas neeilinis jo tarnybinės veiklos vertinimas, tačiau ne anksčiau kaip praėjus 6 mėnesiams po eilinio tarnybinės veiklos vertinimo dienos. Neeilinį tarnybinės veiklos vertinimą rengia statutinės komisijos. 
-Straipsnio dalies pakeitimai:
-Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
+3) patenkinamai;
+
+4) nepatenkinamai.
+
+13. Muitinės departamento pareigūnų, muitinės įstaigų vadovų, jų pavaduotojų ir muitinės įstaigų statutinių komisijų narių tarnybinę veiklą vertina Muitinės departamento statutinė komisija. Muitinės įstaigų pareigūnų tarnybinę veiklą vertina muitinės įstaigų statutinės komisijos. Muitinės departamento generalinio direktoriaus, jo pavaduotojų ir Muitinės departamento statutinės komisijos narių tarnybinę veiklą vertina Finansų ministerijos statutinė komisija.
+
+14. Statutinė komisija turi teisę pakviesti dalyvauti savo posėdyje vertinamo muitinės pareigūno tiesioginį vadovą.
+
+15. Statutinė komisija, įvertinusi Muitinės departamento generalinio direktoriaus arba muitinės įstaigos vadovo tarnybinę veiklą labai gerai, muitinės pareigūną į pareigas priėmusiam asmeniui siūlo:
+
+1) suteikti Muitinės departamento generaliniam direktoriui arba muitinės įstaigos vadovui kvalifikacinę kategoriją;
+
+2) Muitinės departamento generaliniam direktoriui arba muitinės įstaigos vadovui palikti turimą pirmą (aukščiausią) kvalifikacinę kategoriją ir skirti jam pareiginės algos dydžio vienkartinį priedą.
+
+16. Statutinė komisija, įvertinusi muitinės pareigūno (išskyrus pakaitinį muitinės pareigūną) tarnybinę veiklą labai gerai, muitinės pareigūną į pareigas priimančiam asmeniui siūlo:
+
+1) suteikti muitinės pareigūnui kvalifikacinę kategoriją;
+
+2) perkelti muitinės pareigūną į aukštesnės kategorijos pareigas toje pačioje įstaigoje;
+
+3) perkelti muitinės pareigūną į aukštesnės kategorijos pareigas toje pačioje įstaigoje ir suteikti jam kvalifikacinę kategoriją;
+
+4) palikti muitinės pareigūnui turimą pirmą (aukščiausią) kvalifikacinę kategoriją ir skirti jam pareiginės algos dydžio vienkartinį priedą.
+
+17. Statutinė komisija, įvertinusi pakaitinio muitinės pareigūno tarnybinę veiklą labai gerai, muitinės pareigūną į pareigas priimančiam asmeniui siūlo:
+
+1) suteikti pakaitiniam muitinės pareigūnui trečią kvalifikacinę kategoriją;
+
+2) palikti pakaitiniam muitinės pareigūnui turimą kvalifikacinę kategoriją ir skirti jam pareiginės algos dydžio vienkartinį priedą.
+
+18. Statutinė komisija, įvertinusi muitinės pareigūno tarnybinę veiklą gerai, muitinės pareigūną į pareigas priimančiam asmeniui siūlymų neteikia ir muitinės pareigūno iki vertinimo turėta teisinė padėtis nesikeičia.
+
+19. Statutinė komisija, įvertinusi muitinės pareigūno tarnybinę veiklą patenkinamai, muitinės pareigūną į pareigas priimančiam asmeniui siūlo:
+
+1) suteikti muitinės pareigūnui nuosekliai žemesnę kvalifikacinę kategoriją arba panaikinti jo turimą trečią kvalifikacinę kategoriją ir tobulinti muitinės pareigūno kvalifikaciją;
+
+2) tobulinti muitinės pareigūno kvalifikaciją.
+
+20. Statutinė komisija, įvertinusi Muitinės departamento generalinio direktoriaus arba muitinės įstaigos vadovo tarnybinę veiklą nepatenkinamai, siūlo muitinės pareigūną į pareigas priimančiam asmeniui panaikinti Muitinės departamento generalinio direktoriaus arba muitinės įstaigos vadovo turimą kvalifikacinę kategoriją ir tobulinti jo kvalifikaciją, o kai Muitinės departamento generalinis direktorius arba muitinės įstaigos vadovas neturi kvalifikacinės kategorijos, – tik tobulinti jo kvalifikaciją.
+
+21. Statutinė komisija, įvertinusi muitinės pareigūno (išskyrus pakaitinį muitinės pareigūną) tarnybinę veiklą nepatenkinamai, muitinės pareigūną į pareigas priimančiam asmeniui siūlo:
+
+1) panaikinti muitinės pareigūno turimą kvalifikacinę kategoriją ir tobulinti jo kvalifikaciją, o muitinės pareigūnui, neturinčiam kvalifikacinės kategorijos, – tik tobulinti jo kvalifikaciją;
+
+2) perkelti muitinės pareigūną į toje pačioje įstaigoje (Muitinės departamente ar muitinės įstaigoje) žemesnės kategorijos pareigas;
+
+3) perkelti muitinės pareigūną į toje pačioje įstaigoje (Muitinės departamente ar muitinės įstaigoje) žemesnės kategorijos pareigas ir tobulinti jo kvalifikaciją.
+
+22. Statutinė komisija siūlo muitinės pareigūną į pareigas priimančiam asmeniui atleisti muitinės pareigūną iš pareigų, kai ji:
+
+1) du kartus iš eilės Muitinės departamento generalinio direktoriaus, muitinės įstaigos vadovo arba muitinės pareigūno (išskyrus pakaitinį muitinės pareigūną) tarnybinę veiklą įvertina nepatenkinamai;
+
+2) pakaitinio muitinės pareigūno tarnybinę veiklą įvertina nepatenkinamai.
+
+23. Kai muitinės pareigūno tarnybinė veikla, kurią tiesioginis vadovas įvertino gerai, vertinama statutinėje komisijoje jo prašymu, statutinė komisija šio muitinės pareigūno tarnybinę veiklą gali įvertinti gerai arba labai gerai. Statutinė komisija, įvertinusi muitinės pareigūno tarnybinę veiklą gerai, siūlymų šį muitinės pareigūną į pareigas priimančiam asmeniui neteikia ir muitinės pareigūno iki vertinimo turėta teisinė padėtis nesikeičia. Statutinė komisija, įvertinusi Muitinės departamento generalinio direktoriaus, muitinės įstaigos vadovo ar kito muitinės pareigūno (išskyrus pakaitinį muitinės pareigūną) tarnybinę veiklą labai gerai, teikia muitinės pareigūną į pareigas priimančiam asmeniui vieną iš šio straipsnio 15 arba 16 dalyje nurodytų siūlymų. Statutinė komisija, įvertinusi pakaitinio muitinės pareigūno tarnybinę veiklą labai gerai, teikia muitinės pareigūną į pareigas priimančiam asmeniui vieną iš šio straipsnio 17 dalyje nurodytų siūlymų.
+
+24. Muitinės departamento generalinį direktorių arba muitinės įstaigos vadovą į pareigas priimančio asmens sprendimu atliekamas neeilinis šių pareigūnų tarnybinės veiklos vertinimas, kai:
+
+1) iškyla abejonių dėl Muitinės departamento generalinio direktoriaus arba muitinės įstaigos vadovo kvalifikacijos ar gebėjimų atlikti pareigybės aprašyme nustatytas pareigas ir įgyvendinti Muitinės departamento (kai vertinama Muitinės departamento generalinio direktoriaus tarnybinė veikla) arba muitinės įstaigos (kai vertinama jos vadovo tarnybinė veikla) strateginius tikslus arba
+
+2) yra Muitinės departamento generalinį direktorių arba muitinės įstaigos vadovą į pareigas priimančio asmens rašytinis motyvuotas siūlymas suteikti Muitinės departamento generaliniam direktoriui arba muitinės įstaigos vadovui kvalifikacinę kategoriją.
+
+25. Muitinės pareigūno (išskyrus pakaitinį muitinės pareigūną) tiesioginio vadovo rašytiniu motyvuotu siūlymu ir muitinės pareigūną į pareigas priimančio asmens sprendimu atliekamas neeilinis muitinės pareigūno tarnybinės veiklos vertinimas, kai:
+
+1) iškyla abejonių dėl muitinės pareigūno kvalifikacijos ar gebėjimų atlikti pareigybės aprašyme nustatytas pareigas arba
+
+2) yra muitinės pareigūno tiesioginio vadovo rašytinis motyvuotas siūlymas suteikti šiam muitinės pareigūnui kvalifikacinę kategoriją, arba
+
+3) yra muitinės pareigūno rašytinis prašymas perkelti jį į aukštesnės kategorijos pareigas, arba
+
+4) yra muitinės pareigūno rašytinis prašymas perkelti jį į aukštesnės kategorijos pareigas ir tiesioginio vadovo rašytinis motyvuotas siūlymas suteikti šiam muitinės pareigūnui kvalifikacinę kategoriją.
+
+26. Pakaitinį muitinės pareigūną į pareigas priimančio asmens sprendimu atliekamas neeilinis pakaitinio muitinės pareigūno tarnybinės veiklos vertinimas, kai:
+
+1) yra pakaitinio muitinės pareigūno tiesioginio vadovo rašytinis motyvuotas siūlymas suteikti šiam pareigūnui trečią kvalifikacinę kategoriją arba
+
+2) yra pakaitinio muitinės pareigūno tiesioginio vadovo rašytinis motyvuotas siūlymas atleisti pakaitinį muitinės pareigūną iš pareigų.
+
+27. Statutinė komisija, įvertinusi muitinės pareigūno tarnybinę veiklą neeilinio tarnybinės veiklos vertinimo metu, teikia muitinės pareigūną į pareigas priimančiam asmeniui siūlymą pritarti arba nepritarti tiesioginio vadovo motyvuotam siūlymui.
+
+28. Neeilinis muitinės pareigūno tarnybinės veiklos vertinimas atliekamas ne dažniau kaip vieną kartą per kalendorinius metus, jeigu nuo muitinės pareigūno kasmečio tarnybinės veiklos vertinimo praėjo ne mažiau kaip 6 mėnesiai arba jeigu muitinės pareigūnas vertinimo metu einamas pareigas Muitinės departamente arba muitinės įstaigoje, kurioje yra vertinama jo tarnybinė veikla, ėjo ne mažiau kaip 6 mėnesius per kalendorinius metus.
+
+29. Muitinės pareigūną į pareigas priimantis asmuo priima sprendimą dėl statutinės komisijos siūlymo įgyvendinimo. Jeigu muitinės pareigūną į pareigas priimantis asmuo priima motyvuotą sprendimą neįgyvendinti statutinės komisijos siūlymo, muitinės pareigūno iki vertinimo buvusi teisinė padėtis nesikeičia.
+
+30. Nėščių ar krūtimi maitinančių moterų muitinės pareigūnių tarnybinę veiklą statutinė komisija vertina tik jų prašymu.
+
+31. Muitinės pareigūno, išėjusio vaiko priežiūros atostogų, iki vaikui sueis treji metai, tarnybinė veikla gali būti vertinama statutinėje komisijoje jo prašymu, jeigu šis muitinės pareigūnas vertinimo metu einamas pareigas Muitinės departamente arba muitinės įstaigoje, kurioje būtų vertinama jo tarnybinė veikla, ėjo ne mažiau kaip 6 mėnesius per kalendorinius metus. 
+
+Straipsnio pakeitimai:
+Nr. X-1770, 2008-11-06, Žin., 2008, Nr. 134-5176 (2008-11-22), i. k. 1081010ISTA00X-1770
  
 
 26 straipsnis. Muitinės pareigūnų tarnybinės veiklos vertinimo tvarka
@@ -779,11 +875,22 @@ Muitinės pareigūnų darbo apmokėjimo tvarką nustato Valstybės tarnybos įst
 
 46 straipsnis. Priedai ir priemokos
 
-1. Muitinės pareigūnams mokami priedai už tarnybos Lietuvos valstybei stažą (toliau – tarnybos stažas), kvalifikacinę kategoriją ir pareiginį laipsnį. 
+1. Muitinės pareigūnams mokami šie priedai:
 
-2. Priedų ir priemokų suma negali viršyti 70 procentų pareiginės algos.
+1) už tarnybos Lietuvos valstybei stažą (toliau – tarnybos stažas);
 
-3. Šio Statuto 47 straipsnio 2 dalyje ir 48 straipsnyje nustatytų priedų suma negali viršyti 55 procentų pareiginės algos.
+2) už kvalifikacinę kategoriją;
+
+3) už pareiginį laipsnį;
+
+4) pareiginės algos dydžio vienkartinis priedas.
+
+2. Muitinės pareigūnams, kurių darbas tiesiogiai susijęs su tarnybinių gyvūnų priežiūra ir dresavimu, gali būti mokama iki 20 procentų pareiginės algos dydžio priemoka.
+
+3. Muitinės pareigūnams mokami priedai ir priemokos negali viršyti Valstybės tarnybos įstatyme nustatytų dydžių. 
+
+Straipsnio pakeitimai:
+Nr. X-1770, 2008-11-06, Žin., 2008, Nr. 134-5176 (2008-11-22), i. k. 1081010ISTA00X-1770
  
 
 47 straipsnis. Priedai už tarnybos stažą ir kvalifikacinę kategoriją
@@ -936,7 +1043,10 @@ Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000
 
 8) kai muitinės pareigūnai, gavę tiesioginio vadovo sutikimą, yra išvykę į sveikatos priežiūros įstaigą ir valstybės ar savivaldybės instituciją ar įstaigą, – iki vienos darbo dienos.
 
-2. Muitinės pareigūno, kuriam sukako 62 metai ir 6 mėnesiai, tarnyba jo prašymu gali būti pratęsta iki vienerių metų ir bendras pratęstas tarnybos laikas negali viršyti trejų metų.
+2. Muitinės pareigūno, kuriam sukako 65 metai, taip pat muitinės mobilios grupės pareigūno, muitinės posto pareigūno ir muitinės pareigūno, atliekančio operatyvinę veiklą ir (arba) ikiteisminį tyrimą, kuriems sukako 62 metai ir 6 mėnesiai, tarnyba jo prašymu gali būti pratęsta iki vienerių metų ir bendras pratęstas tarnybos laikas negali viršyti trejų metų. 
+Straipsnio dalies pakeitimai:
+Nr. X-1770, 2008-11-06, Žin., 2008, Nr. 134-5176 (2008-11-22), i. k. 1081010ISTA00X-1770
+ 
 
 3. Muitinės pareigūnas turi teisę Vyriausybės nustatyta tvarka gauti išmokas už komandiruotės išlaidas.
 
@@ -981,7 +1091,10 @@ Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010IST
 
 5) pasibaigia pakaitinio muitinės pareigūno priėmimo į laikinai negalinčio eiti pareigų muitinės pareigūno pareigas laikas;
 
-6) jam sueina 62 metai ir 6 mėnesiai ar baigiasi jo tarnybos pratęsimo terminas;
+6) jam sueina 65 metai, o muitinės mobilios grupės pareigūnui, muitinės posto pareigūnui ir muitinės pareigūnui, atliekančiam operatyvinę veiklą ir (arba) ikiteisminį tyrimą, sueina 62 metai ir 6 mėnesiai ar baigiasi jo tarnybos pratęsimo terminas; 
+Straipsnio punkto pakeitimai:
+Nr. X-1770, 2008-11-06, Žin., 2008, Nr. 134-5176 (2008-11-22), i. k. 1081010ISTA00X-1770
+ 
 
 7) paaiškėja, kad stodamas į tarnybą muitinėje jis pateikė suklastotus dokumentus arba nuslėpė ar pateikė tikrovės neatitinkančius duomenis, dėl kurių negalėjo būti priimtas į muitinės pareigūno pareigas;
 
@@ -1005,7 +1118,10 @@ Straipsnio punkto pakeitimai:
 Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
  
 
-15) statutinė komisija du kartus iš eilės jo tarnybinę veiklą įvertina nepatenkinamai ir siūlo muitinės pareigūną į pareigas priėmusiam asmeniui atleisti jį iš pareigų;
+15) pagal statutinės komisijos siūlymą, kai yra šio Statuto 25 straipsnio 22 dalyje nurodytas pagrindas, priimamas sprendimas atleisti muitinės pareigūną iš pareigų; 
+Straipsnio punkto pakeitimai:
+Nr. X-1770, 2008-11-06, Žin., 2008, Nr. 134-5176 (2008-11-22), i. k. 1081010ISTA00X-1770
+ 
 
 16) stažuotės rezultatai yra nepatenkinami;
 
@@ -1017,7 +1133,12 @@ Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000
 
 20) įsiteisėja teismo nuosprendis, kuriuo muitinės pareigūnas nuteisiamas už sunkų arba labai sunkų nusikaltimą, nusikalstamą veiką valstybės tarnybai ir viešiesiems interesams arba korupcinio pobūdžio nusikalstamą veiką;
 
-21) įsiteisėja teismo nuosprendis, kuriuo muitinės pareigūnui paskirta bausmė, dėl kurios jis negali tęsti tarnybos.
+21) įsiteisėja teismo nuosprendis, kuriuo muitinės pareigūnui paskirta bausmė, dėl kurios jis negali tęsti tarnybos;
+
+22) muitinės pareigūnas, kurio tarnybinę veiklą statutinė komisija įvertino nepatenkinamai, nesutinka būti perkeltas į žemesnės kategorijos pareigas. 
+Papildyta straipsnio punktu:
+Nr. X-1770, 2008-11-06, Žin., 2008, Nr. 134-5176 (2008-11-22), i. k. 1081010ISTA00X-1770
+ 
 
 2. Ketinantis savo noru atsistatydinti muitinės pareigūnas privalo apie atsistatydinimą įspėti jį į pareigas priėmusį asmenį ne vėliau kaip prieš 14 kalendorinių dienų. Jei muitinės pareigūną į pareigas priėmęs asmuo sutinka, tarnyba gali būti nutraukta ir anksčiau. Pareiškimas dėl atsistatydinimo, pagrįstas muitinės pareigūno liga arba invalidumu, trukdančiais tinkamai atlikti tarnybines pareigas, turi būti patenkintas nuo muitinės pareigūno nurodytos datos.
 
@@ -1038,7 +1159,10 @@ Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000
 
 56 straipsnis. Atsiskaitymas su atleidžiamu iš pareigų muitinės pareigūnu
 
-1. Su atleidžiamu iš pareigų muitinės pareigūnu turi būti visiškai atsiskaityta jo atleidimo iš pareigų dieną.
+1. Atleidžiamam iš pareigų muitinės pareigūnui jo atleidimo iš pareigų dieną išmokamos visos jam priklausančios pinigų sumos, išskyrus šio Statuto 53 straipsnio 2 dalyje nurodytą išeitinę išmoką. 
+Straipsnio dalies pakeitimai:
+Nr. X-1770, 2008-11-06, Žin., 2008, Nr. 134-5176 (2008-11-22), i. k. 1081010ISTA00X-1770
+ 
 
 2. Atleidžiamas iš pareigų muitinės pareigūnas privalo ne vėliau kaip atleidimo iš pareigų dieną grąžinti tarnybinį pažymėjimą, identifikavimo ženklą, tarnybos ženklą, kitus dokumentus, antspaudą, muitinės pareigūno uniformą bei kitas darbo priemones, kurias jis turėjo eidamas tarnybines pareigas.
 
@@ -1086,4 +1210,9 @@ Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto 15 ir 48 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
 Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto 5, 8, 10, 25, 28, 29, 35, 36, 37, 49, 50, 51, 52, 54, 55 straipsnių pakeitimo bei papildymo ir Statuto papildymo 28(1), 53(1), 55(1) straipsniais įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1770, 2008-11-06, Žin., 2008, Nr. 134-5176 (2008-11-22), i. k. 1081010ISTA00X-1770
+Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto 5, 6, 15, 25, 46, 54, 55, 56 straipsnių pakeitimo ir papildymo įstatymas
 
