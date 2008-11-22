@@ -99,9 +99,13 @@ turintis aukštąjį teisinį išsilavinimą ir ne mažesnį kaip dešimties met
 teisinio ar mokslinio pedagoginio darbo pagal teisininko specialybę stažą.
             Kandidatų į Konstitucinio
 Teismo teisėjus pavardės iki svarstymo Seime paskelbiamos spaudoje.
-            Seimui teikiamas teisėjų
-kandidatūras svarsto Seimo Valstybės ir teisės komitetas uždarame posėdyje ir
-po to savo išvadą praneša Seimui. 
+Seimui teikiamas
+Konstitucinio Teismo teisėjų ir pirmininko kandidatūras svarsto Seimo Teisės ir
+teisėtvarkos komitetas uždarame posėdyje ir po to savo nuomonę pateikia Seimui.
+Straipsnio
+pakeitimai: 
+Nr. X-1806,
+2008-11-11, Žin., 2008, Nr. 134-5179 (2008-11-22)
  
             5(1)
 straipsnis. Konstitucinio Teismo veiklos garantijos 
@@ -190,33 +194,30 @@ pakeitimai:
 Nr. IX-1797,
 2003-10-28, Žin., 2003, Nr. 108-4815 (2003-11-19)
  
-            8
-straipsnis. Konstitucinio Teismo teisėjo neliečiamybė 
-            Konstitucinio Teismo teisėjo
-asmuo neliečiamas.
+8 straipsnis. Konstitucinio Teismo teisėjo neliečiamybė 
+Konstitucinio
+Teismo teisėjo asmuo neliečiamas.
 Konstitucinio
 Teismo teisėjas be Seimo sutikimo negali būti traukiamas baudžiamojon
 atsakomybėn, suimamas, negali būti kitaip suvaržoma jo laisvė, išskyrus
 atvejus, kai jis užtinkamas darantis nusikaltimą (in flagranti).
-Klausimas dėl sutikimo patraukti Konstitucinio Teismo teisėją baudžiamojon atsakomybėn
-svarstomas pagal generalinio prokuroro teikimą.
-            Konstitucinio Teismo
-teisėjas, sulaikytas ar pristatytas į teisėsaugos įstaigas be asmens dokumentų,
-turi būti nedelsiant paleidžiamas, kai nustatoma jo asmenybė.
-            Įeiti į gyvenamąsias ar
-tarnybines Konstitucinio Teismo teisėjo patalpas, daryti ten arba jo
-asmeniniame ar tarnybiniame automobilyje, arba kitoje asmeninėje susisiekimo
-priemonėje apžiūrą, kratą arba poėmį, taip pat atlikti teisėjo asmens apžiūrą
-ar kratą, jam priklausančių daiktų bei dokumentų apžiūrą ar poėmį leidžiama tik
-tada, kai nustatyta tvarka Konstitucinio Teismo teisėjui yra iškelta
-baudžiamoji byla.
-            Baudžiamąją bylą, kurioje
-kaltinamas Konstitucinio Teismo teisėjas, nagrinėja Aukščiausiasis Teismas.
-            Konstitucinio Teismo teisėjas
-už kalbas ar balsavimus Konstituciniame Teisme negali būti persekiojamas.
-            Konstitucinio Teismo ir jo
-teisėjų įgaliojimai bei teisės negali būti apriboti paskelbus karo ar
-nepaprastąją padėtį.
+Klausimas dėl sutikimo patraukti Konstitucinio Teismo teisėją baudžiamojon
+atsakomybėn svarstomas pagal generalinio prokuroro teikimą. 
+Konstitucinio
+Teismo teisėjas, sulaikytas ar pristatytas į teisėsaugos įstaigas be asmens
+dokumentų, turi būti nedelsiant paleidžiamas, kai nustatoma jo asmenybė. 
+Įeiti į
+gyvenamąsias ar tarnybines Konstitucinio Teismo teisėjo patalpas, daryti ten
+arba jo asmeniniame ar tarnybiniame automobilyje, arba kitoje asmeninėje
+susisiekimo priemonėje apžiūrą, kratą arba poėmį, taip pat atlikti teisėjo
+asmens apžiūrą ar kratą, jam priklausančių daiktų bei dokumentų apžiūrą ar
+poėmį leidžiama tik tada, kai nustatyta tvarka Konstitucinio Teismo teisėjui
+yra iškelta baudžiamoji byla. 
+Konstitucinio Teismo teisėjas už kalbas ar
+balsavimus Konstituciniame Teisme negali būti persekiojamas. 
+Konstitucinio
+Teismo ir jo teisėjų įgaliojimai bei teisės negali būti apriboti paskelbus karo
+ar nepaprastąją padėtį.
 Straipsnio
 pakeitimai: 
 Nr.
@@ -227,11 +228,13 @@ Nr. IX-1797,
 Nr.
 X-1686,
 2008-07-03, Žin., 2008, Nr. 81-3187 (2008-07-17)
+Nr. X-1806,
+2008-11-11, Žin., 2008, Nr. 134-5179 (2008-11-22)
  
             9
 straipsnis. Konstitucinio Teismo teisėjo įgaliojimai 
-            Konstitucinio Teismo teisėjai
-turi lygias teises.
+            Konstitucinio Teismo
+teisėjai turi lygias teises.
             Konstitucinio Teismo
 teisėjas turi teisę dalyvauti Konstitucinio Teismo posėdžiuose su sprendžiamojo
 balso teise, susipažinti su visa posėdžiui teikiama medžiaga bei dokumentais,
@@ -263,19 +266,23 @@ straipsnis. Konstitucinio Teismo teisėjo įgaliojimų sustabdymas
             1) šio įstatymo nustatyta
 tvarka yra duotas sutikimas patraukti Konstitucinio Teismo teisėją baudžiamojon
 atsakomybėn;
-            2) Seimo nutarimu po
-specialios tardymo komisijos išvados pradedamas Seime apkaltos procesas
-Konstitucinio Teismo teisėjui;
+2) Seimo
+nutarimu po specialiosios tyrimo komisijos išvados pradedamas Seime apkaltos
+procesas Konstitucinio Teismo teisėjui;
             3) įsiteisėjusiu teismo
 sprendimu teisėjas pripažįstamas nežinia kur esančiu.
-            Sustabdžius teisėjo
-įgaliojimus, jis netenka teisių, nustatytų šio įstatymo 9 ir 15 straipsniuose.
+            Sustabdžius teisėjo įgaliojimus,
+jis netenka teisių, nustatytų šio įstatymo 9 ir 15 straipsniuose.
             Kai nebelieka pagrindo Konstitucinio Teismo
 teisėjo įgaliojimams sustabdyti, Konstitucinis Teismas ne vėliau kaip per 3
 dienas priima sprendimą dėl teisėjo įgaliojimų atstatymo. Jeigu nurodytu laiku
 sprendimas nepriimamas, laikoma, kad Konstitucinio Teismo teisėjo įgaliojimai
 atstatyti nuo tos dienos, kai jis faktiškai pradeda eiti savo pareigas,
 pareiškimu pranešdamas apie tai Konstitucinio Teismo pirmininkui. 
+Straipsnio
+pakeitimai: 
+Nr. X-1806,
+2008-11-11, Žin., 2008, Nr. 134-5179 (2008-11-22)
  
             11
 straipsnis. Konstitucinio Teismo teisėjo įgaliojimų nutraukimas 
@@ -287,8 +294,8 @@ laikas;
             3) jis atsistatydina;
             4) negali eiti savo pareigų
 dėl sveikatos būklės, t.y. per vienerius metus teisėjas serga ilgiau kaip 4
-mėnesius arba jei suserga nepagydoma ar kita ilgalaike liga, kliudančia jam
-eiti savo pareigas;
+mėnesius arba jei suserga nepagydoma ar kita ilgalaike liga, kliudančia jam eiti
+savo pareigas;
             5) Seimas jį pašalina iš
 pareigų apkaltos proceso tvarka.
             Šio straipsnio 3 punkte
@@ -301,12 +308,11 @@ ministro sudarytos gydytojų komisijos išvada.
  
             12
 straipsnis. Materialinės sankcijos 
-            Konstitucinio Teismo
-teisėjas negali būti traukiamas drausminėn atsakomybėn. Konstitucinio Teismo
-teisėjui už šiame įstatyme nustatytų pareigų nevykdymą, nedalyvavimą
-posėdžiuose be pateisinamos priežasties Konstitucinio Teismo sprendimu gali
-būti taikomos materialinės sankcijos - iki 50% sumažinamas atlyginimas už
-praėjusį mėnesį. 
+            Konstitucinio Teismo teisėjas
+negali būti traukiamas drausminėn atsakomybėn. Konstitucinio Teismo teisėjui už
+šiame įstatyme nustatytų pareigų nevykdymą, nedalyvavimą posėdžiuose be
+pateisinamos priežasties Konstitucinio Teismo sprendimu gali būti taikomos
+materialinės sankcijos - iki 50% sumažinamas atlyginimas už praėjusį mėnesį. 
  
             13
 straipsnis. Konstitucinio Teismo pirmininkas 
@@ -332,8 +338,8 @@ nustatytus įgaliojimus.
             Įsakymai leidžiami
 sprendžiant aparato darbo ir kitus vidaus klausimus, o potvarkiais pirmininkas
 realizuoja jam suteiktas procesines teises.
-            Konstitucinio Teismo pirmininkas
-yra Konstituciniam Teismui skirtų lėšų tvarkytojas. 
+            Konstitucinio Teismo
+pirmininkas yra Konstituciniam Teismui skirtų lėšų tvarkytojas. 
 Straipsnio
 pakeitimai:
 Nr. IX-1797,
@@ -349,38 +355,39 @@ Teismo pirmininko ar jo paskirto eiti šias pareigas teisėjo, Konstitucinio
 Teismo pirmininko pareigas laikinai eina didžiausią teisininko darbo stažą
 turintis Konstitucinio Teismo teisėjas. 
  
-            15
-straipsnis. Konstitucinio Teismo teisėjų teisė dalyvauti valstybės institucijų 
-posėdžiuose 
-            Konstitucinio Teismo
-pirmininkas ir teisėjai turi teisę dalyvauti Lietuvos Respublikos Seimo, jo
-komitetų ir komisijų posėdžiuose, Vyriausybės, Lietuvos teisėjų senato,
-prokuratūros bei kitų teisinių institucijų posėdžiuose. 
- 
-            16
-straipsnis. Konstitucinio Teismo teisėjų socialinis ir buitinis aprūpinimas 
+15 straipsnis. Konstitucinio Teismo teisėjų teisė
+dalyvauti valstybės institucijų posėdžiuose
 Konstitucinio
-Teismo pirmininko ir teisėjų atlyginimą nustato Lietuvos Respublikos teisėjų
-atlyginimų įstatymas.
-            Konstitucinio Teismo teisėjui, paliekančiam
-savo pareigas pasibaigus paskyrimo laikui ar atsistatydinus dėl pensinio
-amžiaus arba dėl sveikatos būklės, išmokama 6 mėnesių atlyginimų dydžio
-išeitinė pašalpa. Konstitucinio Teismo teisėjui mirus, tokio pat dydžio pašalpa
-išmokama jo šeimai. Kai Konstitucinio Teismo teisėjo įgaliojimai nutrūksta
-kitais pagrindais, jam išmokama 2 mėnesių atlyginimų dydžio išeitinė pašalpa.
+Teismo pirmininkas ir teisėjai turi teisę dalyvauti Lietuvos Respublikos Seimo,
+jo komitetų ir komisijų posėdžiuose, Vyriausybės, Visuotinio teisėjų
+susirinkimo, prokuratūros bei kitų teisinių institucijų posėdžiuose.
+Straipsnio
+pakeitimai: 
+Nr. X-1806,
+2008-11-11, Žin., 2008, Nr. 134-5179 (2008-11-22)
+ 
+16 straipsnis.
+Konstitucinio Teismo teisėjų socialinis ir buitinis aprūpinimas
+Konstitucinio Teismo pirmininko ir teisėjų
+atlyginimą nustato Lietuvos Respublikos teisėjų atlyginimų įstatymas.
+Konstitucinio Teismo teisėjui, paliekančiam savo
+pareigas pasibaigus paskyrimo laikui ar atsistatydinus dėl pensinio amžiaus
+arba dėl sveikatos būklės, išmokama 6 mėnesių atlyginimų dydžio išeitinė
+pašalpa. Konstitucinio Teismo teisėjui mirus, tokio pat dydžio pašalpa išmokama
+jo šeimai. Kai Konstitucinio Teismo teisėjo įgaliojimai nutrūksta kitais
+pagrindais, jam išmokama 2 mėnesių atlyginimų dydžio išeitinė pašalpa.
 Teisėjui, pašalintam iš pareigų apkaltos proceso tvarka, išeitinė pašalpa
 nemokama.
-Konstitucinio Teismo teisėjų
-socialinio draudimo garantijas ir pensinį aprūpinimą nustato Lietuvos
-Respublikos įstatymai.
-            Konstitucinio Teismo
-teisėjui, neturinčiam Vilniuje gyvenamojo ploto arba gyvenančiam Vilniuje ir
-turinčiam teisę į valstybės paramą apsirūpinant gyvenamosiomis patalpomis,
-Vyriausybė suteikia gyvenamąsias patalpas kadencijos laikui Vilniuje.
-            Pasibaigus įgaliojimų
-laikui, išskyrus kai Konstitucinio Teismo teisėjas pašalinamas iš pareigų
+Konstitucinio
+Teismo teisėjų socialinio draudimo garantijas ir pensinį aprūpinimą nustato
+Lietuvos Respublikos įstatymai.
+Konstitucinio
+Teismo teisėjas, neturintis Vilniuje gyvenamosios patalpos, turi teisę į
+gyvenamosios patalpos nuompinigių kompensaciją Vyriausybės nustatyta tvarka.
+Pasibaigus
+įgaliojimų laikui, išskyrus kai Konstitucinio Teismo teisėjas pašalinamas iš pareigų
 apkaltos proceso tvarka, teisėjui turi būti suteiktas iki tol turėtas darbas
-arba pareigos valstybinėse įstaigose, o jei galimybių nėra - kitas tolygus
+arba pareigos valstybinėse įstaigose, o jei galimybių nėra, – kitas tolygus
 darbas arba pareigos.
 Straipsnio pakeitimai:
 Nr. IX-264, 2001 04 19, Žin., 2001, Nr.
@@ -390,9 +397,33 @@ Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
 Nr.
 X-1774,
 2008-11-06, Žin., 2008, Nr. 131-5024 (2008-11-15)
+Nr. X-1806,
+2008-11-11, Žin., 2008, Nr. 134-5179 (2008-11-22)
  
-III SKYRIUS.
-PAGRINDINĖS TEISENOS TAISYKLĖS
+161
+straipsnis. Konstitucinio Teismo teisėjų atostogos
+Konstitucinio
+Teismo teisėjams suteikiamos 28 kalendorinių dienų kasmetinės atostogos.
+Konstitucinio Teismo teisėjams, turintiems daugiau kaip penkerių metų teisėjo
+darbo stažą, už kiekvienus paskesnius darbo teisėju metus kasmetinės atostogos
+pailginamos viena kalendorine diena, tačiau bendra kasmetinių atostogų trukmė
+negali būti ilgesnė kaip 56 kalendorinės dienos.
+Be šio įstatymo
+nustatytų atostogų, Konstitucinio Teismo teisėjai turi teisę į Darbo kodekse
+nustatytas tikslines ir nemokamas atostogas.
+Į Konstitucinio
+Teismo teisėjo darbo stažą įskaitomas ir darbo kituose teismuose teisėju, darbo
+prokuroru, prokuroro pavaduotoju, prokuratūros tardytoju, ikiteisminio tyrimo
+pareigūnu (tardytoju), valstybiniu arbitru stažas, darbo valstybės tarnyboje
+stažas, taip pat asmenų, turinčių mokslinio pedagoginio darbo pagal teisininko
+specialybę stažas.
+Įstatymas
+papildytas straipsniu: 
+Nr. X-1806,
+2008-11-11, Žin., 2008, Nr. 134-5179 (2008-11-22)
+ 
+III SKYRIUS. PAGRINDINĖS
+TEISENOS TAISYKLĖS
 KONSTITUCINIAME
 TEISME
  
@@ -471,9 +502,9 @@ Teismas bylas nagrinėja ir nutarimus, išvadas ar sprendimus (toliau –
 Konstitucinio Teismo aktai) priima kolegialiai, dalyvaujant ne mažiau kaip 2/3
 visų jo teisėjų.
             Tvirtinant Konstitucinio
-Teismo reglamentą, keičiant jį bei sprendžiant kitus vidaus klausimus,
-Konstitucinio Teismo posėdis yra teisėtas, jei jame dalyvauja ne mažiau kaip
-pusė visų jo teisėjų.
+Teismo reglamentą, keičiant jį bei sprendžiant kitus vidaus klausimus, Konstitucinio
+Teismo posėdis yra teisėtas, jei jame dalyvauja ne mažiau kaip pusė visų jo
+teisėjų.
             Sprendimai priimami ne
 mažesne kaip pusės posėdyje dalyvaujančių teisėjų balsų dauguma. Jei balsai
 pasiskirsto po lygiai, lemia posėdžio pirmininko balsas. 
@@ -516,9 +547,8 @@ išsprendžia bylą iš esmės, priimdamas nutarimą. Nutarimus Konstitucinis Te
 skelbia Lietuvos Respublikos vardu.
             Šio įstatymo numatytais
 atvejais baigiamasis Konstitucinio Teismo aktas vadinamas išvada.
-            Konstitucinis Teismas
-atskirais klausimais, dėl kurių byla neišsprendžiama iš esmės, priima
-sprendimus.
+            Konstitucinis Teismas atskirais
+klausimais, dėl kurių byla neišsprendžiama iš esmės, priima sprendimus.
             Konstitucinis Teismas
 nutarimus,išvadas ir sprendimus priima pasitarimų kambaryje.
             Dėl nesudėtingų klausimų,
@@ -550,8 +580,8 @@ I-1475,
 straipsnis. Išankstinis medžiagos tyrimas 
             Konstituciniam Teismui
 svarstyti teikiami klausimai turi būti iš anksto ištirti. Konstitucinio Teismo
-pirmininkas tai atlikti paveda vienam ar keliems teisėjams, nustatydamas šio
-darbo terminą.
+pirmininkas tai atlikti paveda vienam ar keliems teisėjams, nustatydamas šio darbo
+terminą.
             Konstitucinio Teismo
 pirmininkas parengiamuosius darbus tolygiai paskirsto teisėjams.
             Teisėjas, pradėdamas tirti
@@ -616,8 +646,8 @@ aktas neprieštarauja Konstitucijai, Konstitucinio Teismo pirmininkas tuoj pat
 apie tai oficialiai paskelbia šio straipsnio antrojoje dalyje nustatyta tvarka.
 Šiame Konstitucinio Teismo pirmininko pranešime nurodomas tikslus ginčijamo
 akto pavadinimas, priėmimo data, Konstitucinio Teismo nutarimo šiuo klausimu
-esmė, jo priėmimo data, taip pat tai, kad nuo šio nutarimo paskelbimo dienos
-atstatomas sustabdytojo akto galiojimas.
+esmė, jo priėmimo data, taip pat tai, kad nuo šio nutarimo paskelbimo dienos atstatomas
+sustabdytojo akto galiojimas.
 Straipsnio
 pakeitimai: 
 Nr.
@@ -678,8 +708,8 @@ Teismo posėdyje ir paskirti teisėją pranešėją;
 ištirti;
             3) atsisakyti nagrinėti bylą
 šio įstatymo 69 ir 80 straipsniuose nustatyta tvarka.
-            Konstitucinio Teismo
-tvarkomajame posėdyje rašomas protokolas.
+            Konstitucinio Teismo tvarkomajame
+posėdyje rašomas protokolas.
             Konstitucinio Teismo
 pirmininkui pakvietus, tvarkomajame posėdyje gali dalyvauti mokslininkai,
 specialistai, kiti reikalingi asmenys. Posėdžio pirmininkui leidus, jie gali
@@ -743,9 +773,9 @@ advokatai, mokslo laipsnius turintys teisininkai, taip pat teisinio darbo
 aukščiausiose valstybės institucijose patirtį turintys asmenys. Advokato
 įgaliojimai patvirtinami advokato orderiu. Kitiems nurodytiems asmenims
 įgaliojimus išduoda atitinkamų institucijų, kurioms jie atstovauja, vadovai
-arba Seimo narių grupės įstatyminis atstovas. Institucijos vadovas savo
-įstaigai atstovauti gali įpareigoti ir kitą tos įstaigos specialistą,
-išduodamas jam įgaliojimą.
+arba Seimo narių grupės įstatyminis atstovas. Institucijos vadovas savo įstaigai
+atstovauti gali įpareigoti ir kitą tos įstaigos specialistą, išduodamas jam
+įgaliojimą.
 Straipsnio
 pakeitimai: 
 Nr.
@@ -765,11 +795,11 @@ kokie faktiniai duomenys, kuriais remdamasis Konstitucinis Teismas konstatuoja
 esant aplinkybių, pagrindžiančių dalyvaujančių byloje asmenų reikalavimus bei
 atsikirtimus, arba jų nesant.
             Tie duomenys nustatomi
-remiantis dalyvaujančių byloje asmenų paaiškinimais, liudytojų parodymais, rašytiniais
-įrodymais, daiktiniais įrodymais ir ekspertų išvadomis.
+remiantis dalyvaujančių byloje asmenų paaiškinimais, liudytojų parodymais,
+rašytiniais įrodymais, daiktiniais įrodymais ir ekspertų išvadomis.
             Kiekvienas dalyvaujantis
-byloje asmuo turi įrodyti tas aplinkybes, kuriomis remiasi, keldamas savo
-reikalavimus ir atsikirsdamas.
+byloje asmuo turi įrodyti tas aplinkybes, kuriomis remiasi, keldamas savo reikalavimus
+ir atsikirsdamas.
             Įrodymus pateikia
 dalyvaujantys byloje asmenys. Teismas gali pasiūlyti jiems pateikti papildomų
 įrodymų.
@@ -777,8 +807,9 @@ dalyvaujantys byloje asmenys. Teismas gali pasiūlyti jiems pateikti papildomų
 tuos įrodymus, kurie patvirtina turinčias reikšmės bylai aplinkybes.
             Aplinkybių, Konstitucinio
 Teismo pripažintų visiems žinomomis, nereikia įrodinėti.
-            Faktai, nustatyti Konstitucinio
-Teismo nutarimu vienoje byloje, iš naujo neįrodinėjami nagrinėjant kitas bylas.
+            Faktai, nustatyti
+Konstitucinio Teismo nutarimu vienoje byloje, iš naujo neįrodinėjami
+nagrinėjant kitas bylas.
 Straipsnio
 pakeitimai: 
 Nr.
@@ -877,9 +908,9 @@ Teismą;
 asmuo pažeidžia tvarką, neklauso posėdžio pirmininko reikalavimų laikytis
 tvarkos.
 Konstitucinis Teismas turi teisę skirti baudą
-piliečiams ir dalyvaujančių byloje asmenų atstovams – iki vieno paskutinio
-paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio (toliau – VMDU)
-dydžio, o pareigūnams – iki 4 VMDU dydžio už kiekvieną pažeidimo atvejį.
+piliečiams ir dalyvaujančių byloje asmenų atstovams – iki vieno paskutinio paskelbto
+šalies ūkio vidutinio mėnesinio darbo užmokesčio (toliau – VMDU) dydžio, o
+pareigūnams – iki 4 VMDU dydžio už kiekvieną pažeidimo atvejį.
             Kai šio straipsnio pirmojoje
 dalyje nurodyti pažeidimai padaromi posėdžio metu, Konstitucinio Teismo
 sprendimas dėl baudos paskyrimo priimamas posėdžio metu nedelsiant. Kitais
@@ -966,9 +997,9 @@ vadovauja posėdžiui, imasi priemonių visoms bylos aplinkybėms visapusiškai,
 galo ir objektyviai ištirti; šalina iš proceso visa tai, kas nesusiję su
 nagrinėjamu klausimu; nutraukia proceso dalyvius, jeigu jie kalba apie
 klausimus, nesusijusius su nagrinėjama byla arba nežinybingus Konstituciniam
-Teismui; atima iš kalbėtojų žodį, kai jie savavališkai pradeda kalbėti, kai neįvykdo
-posėdžio pirmininko reikalavimų, kai kalba šiurkščiai ar įžeidžiančiai arba kai
-rodo nepagarbą Konstitucijai ar valstybės konstitucinei santvarkai.
+Teismui; atima iš kalbėtojų žodį, kai jie savavališkai pradeda kalbėti, kai
+neįvykdo posėdžio pirmininko reikalavimų, kai kalba šiurkščiai ar įžeidžiančiai
+arba kai rodo nepagarbą Konstitucijai ar valstybės konstitucinei santvarkai.
             Posėdžio pirmininkas turi
 teisę pašalinti iš posėdžių salės kiekvieną, kas pažeidžia tvarką arba neklauso
 jo reikalavimų. Dalyvaujantį byloje asmenį galima pašalinti Teismo sprendimu,
@@ -1087,7 +1118,8 @@ gali būti užduodama klausimų. Rašytiniai liudytojų parodymai garsiai
 perskaitomi Teismo posėdyje.
             Rašytiniai įrodymai arba jų
 apžiūros protokolai garsiai perskaitomi Teismo posėdyje ir pateikiami
-susipažinti dalyvaujantiems byloje asmenims, kurie po to gali duoti paaiškinimus.
+susipažinti dalyvaujantiems byloje asmenims, kurie po to gali duoti
+paaiškinimus.
             Daiktinius įrodymus apžiūri
 Teismas; jie parodomi ir dalyvaujantiems byloje asmenims, o prireikus -
 ekspertams ir liudytojams. Dalyvaujantys byloje asmenys dėl daiktinių įrodymų
@@ -1113,9 +1145,9 @@ I-1475,
 straipsnis. Teisminiai ginčai 
             Teisminiai ginčai susideda
 iš dalyvaujančių byloje asmenų kalbų.
-            Teisminiuose ginčuose
-pirmieji pasisako pareiškėjas ir jo atstovas, po to - suinteresuotas asmuo ir
-jo atstovas.
+            Teisminiuose ginčuose pirmieji
+pasisako pareiškėjas ir jo atstovas, po to - suinteresuotas asmuo ir jo
+atstovas.
             Po to dalyvaujantys byloje
 asmenys gali pasisakyti antrą kartą dėl to, kas pasakyta ginčuose. Paskutinio
 žodžio teisė visada priklauso suinteresuotam asmeniui ir jo atstovui.
@@ -1130,8 +1162,8 @@ straipsnis. Protokolavimas
             Dėl kiekvieno Teismo
 posėdžio, taip pat kiekvieno atskiro procesinio veiksmo, atliekamo ne posėdyje,
 rašomas protokolas. Protokolus rašo posėdžių sekretorius.
-            Konstitucinio Teismo
-posėdžio protokole nurodoma:
+            Konstitucinio Teismo posėdžio
+protokole nurodoma:
             posėdžio vieta ir data, jo
 pradžios ir pabaigos laikas;
             posėdžio pirmininko vardas,
@@ -1153,7 +1185,8 @@ sprendimai;
 paaiškinimai ir pasisakymai;
             įrašas apie liudytojų ir
 ekspertų įspėjimą dėl atsakomybės;
-            liudytojų ir ekspertų parodymai;
+            liudytojų ir ekspertų
+parodymai;
             dalyvaujantiems byloje
 asmenims, liudytojams ir ekspertams pateikti klausimai ir atsakymai į juos;
             dokumentų ir kitų įrodymų
@@ -1198,9 +1231,14 @@ visapusiško ir išsamaus apsvarstymo, organizuoja balsavimą, sprendimo fiksavi
 ir surašymą. Kai pasitarimas baigtas, Konstitucinis Teismas į pasitarimų
 kambarį gali pakviesti Teismo tarnautoją, kad šis užrašytų jam diktuojamą
 Konstitucinio Teismo nutarimą ar išvadą.
-            Nei Konstitucinio Teismo
-teisėjai, nei posėdyje dalyvavęs tarnautojas neturi teisės paskelbti nei
-nuomonių, pareikštų pasitarimų kambaryje, nei kaip kas balsavo. 
+Nei
+Konstitucinio Teismo teisėjai, nei posėdyje dalyvavęs tarnautojas neturi teisės
+paskelbti nei nuomonių, pareikštų pasitarimų kambaryje, nei kaip kas balsavo. Nuomonės
+paskelbimu nelaikomas atskirosios nuomonės pareiškimas.
+Straipsnio
+pakeitimai: 
+Nr. X-1806,
+2008-11-11, Žin., 2008, Nr. 134-5179 (2008-11-22)
  
             54
 straipsnis. Klausimai, išsprendžiami priimant nutarimą 
@@ -1223,18 +1261,29 @@ priimtas ne vėliau kaip per 1 mėnesį baigus nagrinėti bylą.
             Nutarimas priimamas balsų
 dauguma. Jei balsai pasiskirsto po lygiai, lemia posėdžio pirmininko balsas.
 Teisėjai neturi teisės atsisakyti balsuoti arba susilaikyti.
-            Priimtas nutarimas
-išdėstomas raštu ir visų dalyvavusių teisėjų pasirašomas.
+            Priimtas nutarimas išdėstomas
+raštu ir visų dalyvavusių teisėjų pasirašomas.
             Pataisos nutarime turi būti
 aptartos raštu prieš teisėjų parašus. 
+Konstitucinio
+Teismo teisėjas, nesutinkantis su Teismo priimtu aktu, turi teisę ne vėliau
+kaip per 3 darbo dienas po atitinkamo akto paskelbimo Teismo posėdžių salėje
+raštu išdėstyti motyvuotą savo atskirąją nuomonę. Teisėjo atskiroji nuomonė
+pridedama prie bylos ir apie tai pranešama byloje dalyvaujantiems asmenims ir
+visuomenės informavimo priemonėms. Susipažinimo su teisėjo atskirąja nuomone
+tvarka nustatoma Konstitucinio Teismo reglamente.
+Straipsnio
+pakeitimai: 
+Nr. X-1806,
+2008-11-11, Žin., 2008, Nr. 134-5179 (2008-11-22)
  
             56
 straipsnis. Konstitucinio Teismo nutarimo turinys 
             Konstitucinio Teismo
 nutarimas dėl bylos surašomas kaip atskiras dokumentas.
             Jame nurodoma:
-            nutarimo pavadinimas, jo priėmimo
-data ir vieta;
+            nutarimo pavadinimas, jo
+priėmimo data ir vieta;
             Konstitucinio Teismo
 sudėtis;
             posėdžių sekretorius;
@@ -1243,7 +1292,8 @@ ir jų atstovai;
             nagrinėjamas klausimas, jo
 pagrindas;
             Konstitucijos ir šio
-įstatymo straipsniai, nustatantys Konstitucinio Teismo teisę nagrinėti šį klausimą;
+įstatymo straipsniai, nustatantys Konstitucinio Teismo teisę nagrinėti šį
+klausimą;
             reikalavimas, esantis
 kreipimesi;
             teisės akto, kurio
@@ -1277,11 +1327,11 @@ ginčyti Teismo išvados ar jo nustatytų faktų ir teisinių santykių.
  
             58
 straipsnis. Nutarimo ištaisymas 
-            Konstitucinis Teismas, paskelbęs nutarimą, gali
-savo iniciatyva ar dalyvaujančių byloje asmenų prašymu ištaisyti jame esančius
-netikslumus bei aiškias redakcines klaidas, jeigu tai nekeičia nutarimo esmės.
-Dėl to Konstitucinis Teismas priima atitinkamą sprendimą, kurį išsiunčia bei
-skelbia šio įstatymo nustatyta tvarka.
+            Konstitucinis Teismas, paskelbęs nutarimą,
+gali savo iniciatyva ar dalyvaujančių byloje asmenų prašymu ištaisyti jame
+esančius netikslumus bei aiškias redakcines klaidas, jeigu tai nekeičia
+nutarimo esmės. Dėl to Konstitucinis Teismas priima atitinkamą sprendimą, kurį
+išsiunčia bei skelbia šio įstatymo nustatyta tvarka.
 Straipsnio
 pakeitimai: 
 Nr.
@@ -1301,16 +1351,16 @@ nutarimas ne vėliau kaip per 2 dienas nuo jo priėmimo dienos išsiunčiamas:
 teisėjams;
             dalyvavusiems byloje
 asmenims;
-            Seimui, Respublikos
-Prezidentui, Vyriausybei;
+            Seimui, Respublikos Prezidentui,
+Vyriausybei;
             Aukščiausiojo Teismo
 pirmininkui, generaliniam prokurorui, teisingumo ministrui.
-            Konstitucinio Teismo pirmininkas
-gali nurodyti, kad Konstitucinio Teismo nutarimas būtų išsiųstas kitoms
-institucijoms, pareigūnams ar piliečiams. 
+            Konstitucinio Teismo
+pirmininkas gali nurodyti, kad Konstitucinio Teismo nutarimas būtų išsiųstas
+kitoms institucijoms, pareigūnams ar piliečiams. 
  
-            61
-straipsnis. Konstitucinio Teismo nutarimo aiškinimas 
+            61 straipsnis.
+Konstitucinio Teismo nutarimo aiškinimas 
             Konstitucinio Teismo
 nutarimą oficialiai gali aiškinti tik pats Konstitucinis Teismas pagal
 dalyvavusių byloje asmenų, kitų institucijų ar asmenų, kuriems jis išsiųstas,
@@ -1342,8 +1392,9 @@ Teismas priima sprendimą ir pradeda bylą nagrinėti iš naujo.
             Konstitucinio Teismo
 sprendimas dėl savo nutarimo aiškinimo gali būti peržiūrėtas ir tuo atveju, kai
 nutarimas buvo išaiškintas ne pagal tikrąjį jo turinį.
-*Pastaba. Pripažinti, kad Lietuvos Respublikos Konstitucinio
-Teismo įstatymo 62 straipsnio 1 dalies 2 punktas (Žin., 1993, Nr. 6-120) prieštarauja
+*Pastaba.
+Pripažinti, kad Lietuvos Respublikos Konstitucinio Teismo įstatymo 62
+straipsnio 1 dalies 2 punktas (Žin., 1993, Nr. 6-120) prieštarauja
 Lietuvos Respublikos Konstitucijos 5 straipsnio 2 daliai, 107 straipsnio 1, 2
 dalims, konstituciniam teisinės valstybės principui.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
@@ -1434,8 +1485,8 @@ jų parašai turi būti patvirtinti Seimo Pirmininko ar jo pavaduotojo parašu.
             1) ginčijamo teisės akto
 viso teksto nuorašas;
             2) įgaliojimas ar kitas
-dokumentas, patvirtinantis atstovo įgaliojimus, išskyrus atvejus, kai atstovaujama
-pagal pareigas;
+dokumentas, patvirtinantis atstovo įgaliojimus, išskyrus atvejus, kai
+atstovaujama pagal pareigas;
             3) visų dokumentų ir kitos
 medžiagos, surašytų ne lietuvių kalba, notaro patvirtinti vertimai į lietuvių
 kalbą.
@@ -1517,8 +1568,7 @@ pradėjęs nagrinėti bylą dėl to paties dalyko;
 teisiniais motyvais.
             Konstitucinis Teismas,
 atsisakydamas nagrinėti prašymą ištirti teisės akto atitikimą Konstitucijai,
-priima motyvuotą sprendimą, kurio nuorašas įteikiamas arba išsiunčiamas
-pareiškėjui.
+priima motyvuotą sprendimą, kurio nuorašas įteikiamas arba išsiunčiamas pareiškėjui.
             Jeigu atsisakymo nagrinėti
 prašymą pagrindai buvo nustatyti pradėjus nagrinėti bylą Konstitucinio Teismo
 posėdyje, priimamas sprendimas nutraukti bylą.
@@ -1563,13 +1613,14 @@ nurodoma Konstitucinio Teismo nutarime.
  
             72
 straipsnis. Teisės akto pripažinimo prieštaraujančiu Konstitucijai pasekmės 
-            Lietuvos Respublikos įstatymas
-(ar jo dalis) arba kitas Seimo aktas (ar jo dalis), Respublikos Prezidento
-aktas, Vyriausybės aktas (ar jo dalis) negali būti taikomi nuo tos dienos, kai
-oficialiai paskelbiamas Konstitucinio Teismo nutarimas, kad atitinkamas aktas
-(ar jo dalis) prieštarauja Lietuvos Respublikos Konstitucijai. Tos pačios
-pasekmės atsiranda, kai Konstitucinis Teismas priima nutarimą, kad Respublikos
-Prezidento aktas ar Vyriausybės aktas (ar jo dalis) prieštarauja įstatymams.
+            Lietuvos Respublikos
+įstatymas (ar jo dalis) arba kitas Seimo aktas (ar jo dalis), Respublikos
+Prezidento aktas, Vyriausybės aktas (ar jo dalis) negali būti taikomi nuo tos
+dienos, kai oficialiai paskelbiamas Konstitucinio Teismo nutarimas, kad
+atitinkamas aktas (ar jo dalis) prieštarauja Lietuvos Respublikos
+Konstitucijai. Tos pačios pasekmės atsiranda, kai Konstitucinis Teismas priima
+nutarimą, kad Respublikos Prezidento aktas ar Vyriausybės aktas (ar jo dalis)
+prieštarauja įstatymams.
             Konstitucinio Teismo priimti
 nutarimai turi įstatymo galią ir yra privalomi visoms valdžios institucijoms,
 teismams, visoms įmonėms, įstaigoms bei organizacijoms, pareigūnams ir
@@ -1600,8 +1651,8 @@ sveikatos būklė leidžia jam ir toliau eiti pareigas;
 tarptautinės sutartys neprieštarauja Konstitucijai. Prašyti išvados dėl
 tarptautinės sutarties galima ir iki jos ratifikavimo Seime;
             4) ar Seimo narių ir
-valstybės pareigūnų, kuriems pradėta apkaltos byla, konkretūs veiksmai prieštarauja
-Konstitucijai. 
+valstybės pareigūnų, kuriems pradėta apkaltos byla, konkretūs veiksmai
+prieštarauja Konstitucijai. 
  
             74
 straipsnis. Paklausimo padavimas Konstituciniam Teismui 
@@ -1665,8 +1716,8 @@ nuorašų - iki 30 egzempliorių kiekvieno iš jų.
 straipsnis. Paklausimas dėl rinkimų įstatymų pažeidimo 
             Su paklausimu, ar nebuvo
 pažeisti rinkimų įstatymai per Respublikos Prezidento ar Seimo narių rinkimus,
-šio įstatymo 74 straipsnyje nurodytos institucijos kreipiasi į Konstitucinį
-Teismą ne vėliau kaip per 3 dienas po to, kai paskelbiami oficialūs rinkimų
+šio įstatymo 74 straipsnyje nurodytos institucijos kreipiasi į Konstitucinį Teismą
+ne vėliau kaip per 3 dienas po to, kai paskelbiami oficialūs rinkimų
 rezultatai.
 Konstitucinis
 Teismas tiria ir vertina tik Vyriausiosios rinkimų komisijos sprendimus arba
@@ -1758,11 +1809,11 @@ paskelbimas ir
 įsigaliojimas
 Konstitucinio Teismo
 nutarimai, išvados, taip pat sprendimai priimti nagrinėti prašymą ar
-paklausimą, sprendimai atsisakyti nagrinėti prašymą ar paklausimą, sprendimai
-nutraukti bylą (teiseną), sprendimai dėl Konstitucinio Teismo nutarimo
-išaiškinimo, Konstitucinio Teismo pirmininko potvarkiai šio įstatymo 25
-straipsnio pirmosios dalies 1 ir 2 punktuose nurodytais klausimais oficialiai
-skelbiami „Valstybės žiniose“, atskirame skyriuje.
+paklausimą, sprendimai atsisakyti nagrinėti prašymą ar paklausimą, sprendimai nutraukti
+bylą (teiseną), sprendimai dėl Konstitucinio Teismo nutarimo išaiškinimo,
+Konstitucinio Teismo pirmininko potvarkiai šio įstatymo 25 straipsnio pirmosios
+dalies 1 ir 2 punktuose nurodytais klausimais oficialiai skelbiami „Valstybės
+žiniose“, atskirame skyriuje.
 Šio straipsnio pirmojoje
 dalyje nurodyti Konstitucinio Teismo aktai skelbiami ir Konstitucinio Teismo
 interneto tinklalapyje. Prireikus Konstitucinis Teismas leidžia savo nutarimų,
@@ -1777,8 +1828,8 @@ data.
 Konstitucinio
 Teismo aktai, kurie nepaskelbiami šio straipsnio ketvirtojoje dalyje nustatytu
 laiku, įsigalioja jų paskelbimo Konstitucinio Teismo leidinyje dieną.
-Konstitucinio
-Teismo pirmininko potvarkiai šio įstatymo 25 straipsnio pirmosios dalies 1 ir 2
+Konstitucinio Teismo
+pirmininko potvarkiai šio įstatymo 25 straipsnio pirmosios dalies 1 ir 2
 punktuose nurodytais klausimais įsigalioja kitą dieną po jų paskelbimo
 „Valstybės žiniose“, jeigu pačiuose potvarkiuose nenustatyta kita jų
 įsigaliojimo data.
@@ -1807,8 +1858,8 @@ Teismas turi aparatą. Jo struktūrą ir nuostatus tvirtina Konstitucinis Teisma
 Konstitucinio Teismo aparatui vadovauja Konstitucinio Teismo kancleris. Jis
 pavaldus Konstitucinio Teismo pirmininkui.
 Konstitucinio
-Teismo kancleris, Konstitucinio Teismo aparato valstybės tarnautojai ir kiti darbuotojai
-į pareigas priimami įstatymų nustatyta tvarka.
+Teismo kancleris, Konstitucinio Teismo aparato valstybės tarnautojai ir kiti
+darbuotojai į pareigas priimami įstatymų nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr. IX-1797,
@@ -1846,8 +1897,8 @@ atvaizdu ir pavadinimu "Lietuvos Respublikos Konstitucinis Teismas".
  
             90
 straipsnis. Konstitucinio Teismo buveinė 
-            Nuolatinė Konstitucinio Teismo
-buveinė yra Vilniaus miestas.
+            Nuolatinė Konstitucinio
+Teismo buveinė yra Vilniaus miestas.
             Konstitucinio Teismo
 posėdžiai vyksta jo nuolatinėje būstinėje.
  
@@ -1942,6 +1993,15 @@ Nr. X-1774,
 KONSTITUCINIO
 TEISMO ĮSTATYMO 16 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+11.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-1806,
+2008-11-11, Žin., 2008, Nr. 134-5179 (2008-11-22)
+KONSTITUCINIO
+TEISMO ĮSTATYMO 5, 8, 10, 15, 16, 53, 55 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR
+ĮSTATYMO PAPILDYMO 16(1) STRAIPSNIU ĮSTATYMAS
  
 ***
 Pabaiga ***
@@ -1957,14 +2017,15 @@ Respublikos Konstitucinis Teismas, Nutarimas
 DĖL
 LIETUVOS RESPUBLIKOS KONSTITUCINIO TEISMO ĮSTATYMO 62 STRAIPSNIO 1 DALIES 2
 PUNKTO, 69 STRAIPSNIO 4 DALIES (1996 M. LIEPOS 11 D. REDAKCIJA), LIETUVOS
-RESPUBLIKOS TEISMŲ ĮSTATYMO 11 STRAIPSNIO 3 DALIES (2002 M. SAUSIO 24 D. REDAKCIJA), 96 STRAIPSNIO 2 DALIES (2002 M. SAUSIO 24 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
- 
+RESPUBLIKOS TEISMŲ ĮSTATYMO 11 STRAIPSNIO 3 DALIES (2002 M. SAUSIO 24 D.
+REDAKCIJA), 96 STRAIPSNIO 2 DALIES (2002 M. SAUSIO 24 D. REDAKCIJA) ATITIKTIES
+LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2008-11-17)
+Aušrinė Trapinskienė (2008-11-24)
                  
 autrap@lrs.lt
