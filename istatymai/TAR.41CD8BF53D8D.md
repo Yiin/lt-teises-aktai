@@ -193,12 +193,15 @@ profesines ir bendrojo lavinimo mokyklas pagal tarptautines sutartis ir
 susitarimus;
 16) leidimo įvežti (išvežti) ginklus, leidimo vežti
 ginklus, išankstinio sutikimo įvežti ginklus išdavimą Lietuvos Respublikos ar
-užsienio teisėsaugos institucijoms ir jų pareigūnams arba asmenims, turintiems
-diplomatinius ar tarnybinius pasus (jeigu šiems asmenims, norintiems gauti
-leidimą, tarpininkauja Lietuvos Respublikos užsienio reikalų ministerija), arba
-fiziniams ir juridiniams asmenims, kurie išvyksta į sporto varžybas užsienyje,
-atvyksta į sporto varžybas Lietuvos Respublikoje ar vyksta į sporto varžybas
-per Lietuvos Respubliką tranzitu;
+užsienio teisėsaugos institucijoms ir jų pareigūnams, Lietuvos Respublikos
+krašto apsaugos sistemos ir užsienio gynybos institucijoms, taip pat jų
+pareigūnams, vežantiems jiems priklausančius vienetinius tarnybinius ginklus ir
+jų šaudmenis, arba asmenims, turintiems diplomatinius ar tarnybinius pasus
+(jeigu šiems asmenims, norintiems gauti leidimą, tarpininkauja Lietuvos
+Respublikos užsienio reikalų ministerija), arba fiziniams ir juridiniams
+asmenims, kurie išvyksta į sporto varžybas užsienyje, atvyksta į sporto
+varžybas Lietuvos Respublikoje ar vyksta į sporto varžybas per Lietuvos Respubliką
+tranzitu;
 17) dokumentų išduoti, pakeisti leidimą laikinai gyventi
 Lietuvos Respublikoje tvarkymą ir leidimo laikinai gyventi Lietuvos
 Respublikoje išdavimą ir keitimą užsieniečiui, kuriam suteikta papildoma arba
@@ -233,9 +236,9 @@ skrydžio (praktinių gebėjimų) egzamino perlaikymą, civilinės
 aviacijos specialisto licencijos (kvalifikacijos) galiojimo laiko pratęsimą,
 civilinės aviacijos specialisto licencijos (kvalifikacijos) atnaujinimą,
 pirmos, antros ir trečios klasės sveikatos pažymėjimo išdavimą darbuotojams,
-kurie atlieka valstybinę civilinės aviacijos priežiūrą, ir civilinės aviacijos
-specialisto licencijos išdavimą studentams, kurie, atlikdami praktiką, privalo
-turėti galiojančią atitinkamą civilinės aviacijos specialisto licenciją;
+kurie atlieka valstybinę civilinės aviacijos priežiūrą, ir civilinės aviacijos specialisto
+licencijos išdavimą studentams, kurie, atlikdami praktiką, privalo turėti
+galiojančią atitinkamą civilinės aviacijos specialisto licenciją;
 21) jūrininkų
 knygelės (išduodamos pirmą kartą), jūrinio laipsnio kvalifikacijos, kovos su
 gaisrais kursų baigimo liudijimo, pirmosios medicinos pagalbos kursų baigimo,
@@ -271,6 +274,8 @@ X-1277,
 2007-09-18, Žin., 2007, Nr. 101-4107 (2007-09-27)
 Nr. X-1491,
 2008-04-15, Žin., 2008, Nr. 50-1840 (2008-04-30)
+Nr.
+X-1811, 2008-11-13, Žin., 2008, Nr. 135-5242 (2008-11-25)
  
 61 straipsnis.
 Atleidimas nuo valstybės rinkliavos, kai yra sumokėtas konsulinis mokestis
@@ -284,9 +289,9 @@ už konsulinių veiksmų, numatytų Lietuvos Respublikos konsulinio mokesčio
 2. Nuo valstybės
 rinkliavos už dokumentų išduoti, pakeisti leidimą gyventi Lietuvos Respublikoje
 tvarkymą yra atleidžiami asmenys, kurie dėl dokumentų dėl leidimo gyventi
-Lietuvos Respublikoje išdavimo priėmimo ir perdavimo kreipiasi per Lietuvos
-Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra
-sumokėję konsulinį mokestį už konsulinių veiksmų, numatytų Lietuvos Respublikos
+Lietuvos Respublikoje išdavimo priėmimo ir perdavimo kreipiasi per Lietuvos Respublikos
+diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję
+konsulinį mokestį už konsulinių veiksmų, numatytų Lietuvos Respublikos
 konsulinio mokesčio įstatymo 3 straipsnio 6 punkte, atlikimą.
 3. Nuo valstybės
 rinkliavos už civilinės būklės aktų įregistravimą ir dokumentų išdavimą yra
@@ -344,8 +349,8 @@ straipsnis. Valstybės rinkliavos grąžinimas
 valstybės rinkliava arba jos dalis grąžinama šiais atvejais:
 1) kai sumokėta
 daugiau negu Vyriausybės nustatytas rinkliavos dydis;
-2) jeigu
-paslaugos nesuteikiamos.
+2) jeigu paslaugos
+nesuteikiamos.
 2. Valstybės
 rinkliava grąžinama, jeigu prašymas dėl jos grąžinimo vietos mokesčio
 administratoriui pateiktas per Mokesčių administravimo įstatyme nustatytą
@@ -353,8 +358,7 @@ terminą.
 3. Valstybės
 rinkliavos grąžinimo tvarką nustato Vyriausybė.
  
-III
-SKYRIUS
+III SKYRIUS
 VIETINĖS
 RINKLIAVOS
  
@@ -562,7 +566,8 @@ RINKLIAVŲ
 Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
  
 5.
-Lietuvos Respublikos Seimas, Įstatymas
+Lietuvos Respublikos Seimas,
+Įstatymas
 Nr. IX-2139,
 2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
 ĮMONIŲ IR ORGANIZACIJŲ
@@ -639,11 +644,19 @@ Nr. X-1491,
 RINKLIAVŲ ĮSTATYMO 6, 6(1), 7
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+13.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+X-1811, 2008-11-13, Žin., 2008, Nr. 135-5242 (2008-11-25)
+RINKLIAVŲ
+ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2008-04-30)
+Redagavo
+Aušrinė Trapinskienė (2008-11-25)
                  
 autrap@lrs.lt
