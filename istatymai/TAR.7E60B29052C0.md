@@ -304,6 +304,8 @@ Nr. VIII-1904
  
 I.
 VALSTYBĖS POLITIKŲ PAREIGINĖS ALGOS
+I skirsnio redakcija iki 2009 m. sausio
+1 d.:
 (Baziniais dydžiais)
 
 
@@ -403,8 +405,8 @@ Pakomitečių pirmininkai, nuolatinių
 2.6.
 
 
-Nuolatinių komisijų pirmininkų
-  pavaduotojai 
+Nuolatinių komisijų pirmininkų pavaduotojai
+  
 
 
 9,8
@@ -604,7 +606,318 @@ Merų pavaduotojai
 
 
               
-  8,8          “
+  8,8          
+
+
+
+ 
+I skirsnio redakcija nuo 2009 m. sausio
+1 d.:
+(Baziniais dydžiais)
+
+
+
+Eil.
+  Nr. 
+
+
+Pareigų pavadinimas
+
+
+Pareiginės algos koeficientas
+
+
+
+
+1.
+
+
+Seimo
+  Pirmininkas 
+
+
+30,3
+
+
+
+
+2.
+
+
+Seimo
+  pareigūnai:
+
+
+ 
+
+
+
+
+2.1.
+
+
+Pirmininko
+  pirmasis pavaduotojas 
+
+
+27,3
+
+
+
+
+2.2.
+
+
+Pirmininko
+  pavaduotojai, Seimo opozicijos lyderis 
+
+
+26,3
+
+
+
+
+2.3.
+
+
+Komitetų
+  pirmininkai 
+
+
+25,5
+
+
+
+
+2.4.
+
+
+Komitetų
+  pirmininkų pavaduotojai 
+
+
+24,1
+
+
+
+
+2.5.
+
+
+Pakomitečių
+  pirmininkai, nuolatinių komisijų pirmininkai 
+
+
+23,8
+
+
+
+
+2.6.
+
+
+Nuolatinių
+  komisijų pirmininkų pavaduotojai 
+
+
+23,1
+
+
+
+ 
+
+
+
+2.7.
+
+
+Frakcijų
+  vadovai, kai frakcijos dydis:
+
+
+Seniūnai
+
+
+Seniūnų pavaduotojai
+
+
+
+
+2.7.1.
+
+
+nuo
+  7 iki 10 narių 
+
+
+23,5
+
+
+23,1
+
+
+
+
+2.7.2.
+
+
+nuo
+  11 iki 20 narių 
+
+
+23,8
+
+
+23,4
+
+
+
+
+2.7.3.
+
+
+nuo
+  21 iki 30 narių 
+
+
+24,4
+
+
+23,7
+
+
+
+
+2.7.4.
+
+
+nuo
+  31 iki 40 narių 
+
+
+25,2
+
+
+24,3
+
+
+
+
+2.7.5.
+
+
+daugiau
+  kaip 40 narių 
+
+
+25,8
+
+
+24,9
+
+
+
+
+ 
+
+
+
+
+3.
+
+
+Seimo
+  nariai 
+
+
+22,8
+
+
+
+
+4.
+
+
+Vyriausybė:
+
+
+ 
+
+
+
+
+4.1.
+
+
+Ministras
+  Pirmininkas
+
+
+30,3
+
+
+
+
+4.2.
+
+
+Ministrai
+
+
+28
+
+
+
+ 
+
+
+
+5.
+
+
+Savivaldybių merai ir
+merų pavaduotojai
+
+
+Savivaldybės teritorijoje
+  gyvena
+
+
+
+
+per 100 tūkst. gyventojų
+
+
+iki 100 tūkst. gyventojų
+
+
+
+
+5.1.
+
+
+Merai
+
+
+12,2
+
+
+10,5
+
+
+
+
+5.2.
+
+
+Merų pavaduotojai
+
+
+10,5
+
+
+              
+  8,8          
 
 
 
@@ -621,6 +934,9 @@ IX-1918,
 2003-12-18, Žin., 2003, Nr. 123-5589 (2003-12-30)
 Nr. X-128, 2005-02-15,
 Žin., 2005, Nr. 28-877 (2005-02-26)
+Nr.
+X-1816,
+2008-11-13, Žin., 2008, Nr. 135-5245 (2008-11-25)
  
  
 II. Teisėjų pareiginės algos
@@ -1044,6 +1360,7 @@ III skirsnio pakeitimai:
 Nr. IX-1520,
 2003-04-22, Žin., 2003, Nr. 42-1920 (2003-05-01)
  
+ 
 IV. VALSTYBĖS PAREIGŪNŲ
 PAREIGINĖS ALGOS
 (Baziniais dydžiais)
@@ -1457,8 +1774,8 @@ POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PAKEI
 ĮSTATYMAS
  
 2.
-Lietuvos
-Respublikos Seimas, Įstatymas
+Lietuvos Respublikos
+Seimas, Įstatymas
 Nr. IX-231,
 2001 03 27, Žin., 2001, Nr. 29-918 (2001 04 04)
 VALSTYBĖS POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO
@@ -1688,6 +2005,17 @@ POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PAVAD
 įstatymo 9 straipsnis įsigalioja 2009 m. sausio 1 d.
 Keistas įstatymo pavadinimas
  
+24.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. X-1816,
+2008-11-13, Žin., 2008, Nr. 135-5245 (2008-11-25)
+VALSTYBĖS
+POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO I SKIRSNIO
+PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2009 m. sausio 1 d.
+ 
 ***Pabaiga***
  
 Konstitucinio
@@ -1709,19 +2037,20 @@ STRAIPSNIO, LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1991 M. LAPKRIČIO 29 D. NUTARIMO
 NR. 499 "DĖL VALSTYBINĖS VALDŽIOS, VALSTYBĖS VALDYMO IR TEISĖSAUGOS ORGANŲ
 VADOVŲ BEI KITŲ PAREIGŪNŲ LAIKINOS BANDOMOSIOS DARBO APMOKĖJIMO TVARKOS",
 LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 24 D. NUTARIMO NR. 666
-"DĖL LIETUVOS RESPUBLIKOS TEISMŲ TEISĖJŲ, PROKURATŪROS SISTEMOS IR LIETUVOS
-RESPUBLIKOS VALSTYBĖS SAUGUMO DEPARTAMENTO PAREIGŪNŲ BEI KITŲ DARBUOTOJŲ DARBO
-APMOKĖJIMO", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1999 M. GRUODŽIO 28 D.
-NUTARIMO NR. 1494 "DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO
-30 D. NUTARIMO NR. 689 "DĖL TEISĖTVARKOS, TEISĖSAUGOS IR KONTROLĖS
-INSTITUCIJŲ VADOVAUJANČIŲJŲ PAREIGŪNŲ IR VALDININKŲ DARBO APMOKĖJIMO"
-DALINIO PAKEITIMO" ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+"DĖL LIETUVOS RESPUBLIKOS TEISMŲ TEISĖJŲ, PROKURATŪROS SISTEMOS IR
+LIETUVOS RESPUBLIKOS VALSTYBĖS SAUGUMO DEPARTAMENTO PAREIGŪNŲ BEI KITŲ
+DARBUOTOJŲ DARBO APMOKĖJIMO", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1999 M.
+GRUODŽIO 28 D. NUTARIMO NR. 1494 "DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS
+1997 M. BIRŽELIO 30 D. NUTARIMO NR. 689 "DĖL TEISĖTVARKOS, TEISĖSAUGOS IR
+KONTROLĖS INSTITUCIJŲ VADOVAUJANČIŲJŲ PAREIGŪNŲ IR VALDININKŲ DARBO
+APMOKĖJIMO" DALINIO PAKEITIMO" ATITIKTIES LIETUVOS RESPUBLIKOS
+KONSTITUCIJAI
  
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2008-11-17)
+Aušrinė Trapinskienė (2008-11-25)
                  
 autrap@lrs.lt
