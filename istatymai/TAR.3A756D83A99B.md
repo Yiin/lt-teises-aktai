@@ -29,8 +29,8 @@ BIUDŽETINIŲ
 ĮSTAIGŲ
 ĮSTATYMAS
  
-1995 m. gruodžio
-5 d. Nr. I-1113
+1995 m. gruodžio 5 d.
+Nr. I-1113
 Vilnius 
  
             1
@@ -138,8 +138,9 @@ tai, kas yra steigėjas, pagal asignavimų valdytojų patvirtintas sąmatas,
 laikantis Finansų ministerijos nustatytų finansavimo taisyklių ir iždo
 procedūrų.
  
-8
-straipsnio redakcija iki 2009 m. sausio 1 d.:
+8 straipsnio redakcija iki tų metų, kurių ataskaitų
+rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
+sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
             8
 straipsnis. Biudžetinių įstaigų asignavimų valdymas
             Biudžetinių įstaigų
@@ -153,9 +154,9 @@ Biudžetinių
 įstaigų asignavimų valdytojai yra atsakingi už teisingą pavaldžių įstaigų
 išlaidų sąmatų bei nebiudžetinių lėšų sąmatų sudarymą. Jie turi užtikrinti, kad
 biudžetinės įstaigos laiku išmokėtų darbuotojams apskaičiuotus atlyginimus,
-laiku atsiskaitytų su biudžetu ir valstybinio socialinio draudimo fondo
-administravimo įstaigomis, taip pat už įstaigose sunaudotą visų rūšių energiją
-ir kitas paslaugas.
+laiku atsiskaitytų su biudžetu ir valstybinio socialinio draudimo fondo administravimo
+įstaigomis, taip pat už įstaigose sunaudotą visų rūšių energiją ir kitas
+paslaugas.
             Valstybės biudžeto
 asignavimų valdytojai turi:
             rengti pavaldžioms įstaigoms
@@ -174,8 +175,9 @@ pagal asignavimų valdytojų patvirtintas išlaidų sąmatas.
 biudžetų asignavimų valdytojai, taip pat jiems pavaldžių biudžetinių įstaigų
 vadovai, pažeidę biudžetų asignavimų paskirstymo ir naudojimo tvarką, atsako
 pagal Lietuvos Respublikos įstatymus.
-8
-straipsnio redakcija nuo 2009 m. sausio 1 d.:
+8 straipsnio redakcija nuo tų metų, kurių ataskaitų
+rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
+sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
 8
 straipsnis. Biudžetinių įstaigų asignavimų valdymas
 Biudžetinių
@@ -223,19 +225,23 @@ Nr. IX-2536,
 Nr.
 X-1216,
 2007-06-26, Žin., 2007, Nr. 77-3048 (2007-07-12)
+Nr. X-1824,
+2008-11-14, Žin., 2008, Nr. 137-5373 (2008-11-29)
  
             9
 straipsnis. Biudžetinių įstaigų išlaidos
-1
-dalies redakcija iki 2009 m. sausio 1 d.:
+1 dalies redakcija iki tų metų, kurių ataskaitų
+rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
+sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
             Išlaidų sandarą nustato
 asignavimų valdytojai, neviršydami jiems patvirtintų bendrųjų asignavimų, tarp
 jų - darbo užmokesčio, paprastųjų ir nepaprastųjų išlaidų.
-1
-dalies redakcija nuo 2009 m. sausio 1 d.:
+1 dalies redakcija nuo tų metų, kurių ataskaitų
+rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
+sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
 Išlaidų sandarą
-nustato asignavimų valdytojai, neviršydami jiems patvirtintų bendrųjų asignavimų,
-tarp jų – išlaidoms, iš jų – darbo užmokesčiui ir turtui įsigyti.
+nustato asignavimų valdytojai, neviršydami jiems patvirtintų bendrųjų
+asignavimų, tarp jų – išlaidoms, iš jų – darbo užmokesčiui ir turtui įsigyti.
  
             Biudžetinių įstaigų
 darbuotojų tarnybiniai atlyginimai ir darbo apmokėjimo sąlygos tvirtinamos
@@ -245,16 +251,20 @@ pakeitimai:
 Nr.
 X-1216,
 2007-06-26, Žin., 2007, Nr. 77-3048 (2007-07-12)
+Nr. X-1824,
+2008-11-14, Žin., 2008, Nr. 137-5373 (2008-11-29)
  
-10
-straipsnio redakcija iki 2009 m. sausio 1 d.:
+10 straipsnio redakcija iki tų metų, kurių ataskaitų
+rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
+sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
             10
 straipsnis. Biudžetinių įstaigų buhalterinė apskaita ir atskaitomybė
             Biudžetinės įstaigos
 buhalterinę apskaitą organizuoja ir atskaitomybę tvarko Finansų ministerijos
 nustatyta tvarka.
-10
-straipsnio redakcija nuo 2009 m. sausio 1 d.:
+10 straipsnio redakcija nuo tų metų, kurių ataskaitų
+rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
+sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
 10 straipsnis. Biudžetinių įstaigų buhalterinė
 apskaita, finansinių
 ir biudžeto vykdymo ataskaitų rinkiniai
@@ -267,9 +277,12 @@ pakeitimai:
 Nr.
 X-1216,
 2007-06-26, Žin., 2007, Nr. 77-3048 (2007-07-12)
+Nr. X-1824,
+2008-11-14, Žin., 2008, Nr. 137-5373 (2008-11-29)
  
-11
-straipsnio redakcija iki 2009 m. sausio 1 d.:
+11 straipsnio redakcija iki tų metų, kurių ataskaitų rinkinius
+viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo sektoriaus
+atskaitomybės įstatymą, sausio 1 dieną:
             11
 straipsnis. Biudžetinių įstaigų nebiudžetinės lėšos
             Biudžetinės įstaigos gali
@@ -278,8 +291,9 @@ turėti nebiudžetinių lėšų.
 Lietuvos valstybės biudžeto, nebiudžetinių lėšų sudarymo ir naudojimo taisykles
 nustato Lietuvos Respublikos Vyriausybė, o įstaigoms, finansuojamoms iš
 savivaldybių biudžetų, - savivaldybių vykdomosios institucijos.
-11
-straipsnio redakcija nuo 2009 m. sausio 1 d.:
+11 straipsnio redakcija nuo nuo tų metų, kurių ataskaitų
+rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
+sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
 11 straipsnis. Biudžetinių įstaigų piniginės lėšos,
 gautos ne kaip biudžeto asignavimai
 Biudžetinės
@@ -292,6 +306,8 @@ pakeitimai:
 Nr.
 X-1216,
 2007-06-26, Žin., 2007, Nr. 77-3048 (2007-07-12)
+Nr. X-1824,
+2008-11-14, Žin., 2008, Nr. 137-5373 (2008-11-29)
  
             12
 straipsnis. Materialinių vertybių nurašymas ir realizavimas
@@ -308,13 +324,13 @@ VIII-639,
             13
 straipsnis. Biudžetinių įstaigų registravimas
             Biudžetinės įstaigos
-įregistruojamos, perregistruojamos ir išregistruojamos Lietuvos Respublikos
-įstatymų nustatyta tvarka.
+įregistruojamos, perregistruojamos ir išregistruojamos Lietuvos Respublikos įstatymų
+nustatyta tvarka.
  
             14
 straipsnis. Įstatymo įsigaliojimas
             Šis įstatymas įsigalioja nuo
-1996 m. sausio 1 dienos.
+ 1996 m. sausio 1 dienos.
  
             Skelbiu šį Lietuvos
 Respublikos Seimo priimtą įstatymą. 
@@ -383,13 +399,22 @@ Nr. X-1216,
 BIUDŽETINIŲ
 ĮSTAIGŲ ĮSTATYMO 8, 9, 10, 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
-įstatymas įsigalioja nuo 2009 m. sausio 1 d.
+įstatymas įsigalioja tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai
+privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1
+dieną.
+Šio įstatymo įsigaliojimas keistas:
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. X-1824,
+2008-11-14, Žin., 2008, Nr. 137-5373 (2008-11-29)
+BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO 8,
+9, 10, 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2007-07-13)
+Redagavo
+Aušrinė Trapinskienė (2008-12-01)
                  
 autrap@lrs.lt
