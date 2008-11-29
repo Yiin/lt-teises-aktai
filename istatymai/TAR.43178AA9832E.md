@@ -108,7 +108,8 @@ nurodytas dokumentas.
 – registras) – remiantis apskaitos dokumentais parengta ūkinių operacijų
 ir ūkinių įvykių suvestinė, kurioje apibendrinti jų duomenys.
 3. Neteko galios nuo 2008 m. rugsėjo 1 d.
-4. Neteko galios nuo 2008 m. rugsėjo 1 d.
+4. Neteko
+galios nuo 2008 m. rugsėjo 1 d.
 5. Buhalterinė apskaita (toliau – apskaita) – ūkinių operacijų ir
 ūkinių įvykių, išreikštų pinigais, registravimo, grupavimo ir apibendrinimo
 sistema, skirta informacijai, reikalingai priimant ekonominius sprendimus,
@@ -127,14 +128,14 @@ ir ūkinių įvykių, už kuriuos ūkio subjektas privalės ateityje atsiskaityt
 turtu ir kurių dydį galima objektyviai nustatyti.
 9. Nuosavas kapitalas – ūkio subjekto turto
 dalis, likusi iš viso turto atėmus visus įsipareigojimus. 
-10. Neteko galios nuo 2007 m. birželio 21 d.
+10. (Neteko galios nuo 2007 m. birželio 21 d.)
 11. Paprastasis įrašas – ūkinių operacijų ir
 ūkinių įvykių registravimo būdas, kai nedaromas dvejybinis įrašas.
 12. Pinigų apskaitos dokumentas – popierinis
 liudijimas, kuriame nurodomos grynųjų pinigų mokėjimo ar jų pervedimo
 operacijos, kai įvykdomas vieno ūkio subjekto įsipareigojimas kitam ūkio
 subjektui.
-13. Neteko galios nuo 2007 m. birželio 21 d. 
+13. (Neteko galios nuo 2007 m. birželio 21 d. )
 14. Sąskaitų planas –
 sąskaitų, kuriose sukaupiama informacija, parodanti ūkio subjekto turtą,
 nuosavą kapitalą, finansavimo sumas, įsipareigojimus, pajamas ir sąnaudas,
@@ -156,7 +157,8 @@ tikimasi gauti ekonominės naudos.
 19. Ūkinis įvykis –
 nuo ūkio subjekto nepriklausantis faktas, keičiantis turto ir (arba) nuosavo
 kapitalo, finansavimo sumų bei įsipareigojimų dydį ir (arba) struktūrą.
-20. Neteko galios nuo 2008 m. rugsėjo 1 d.
+20. Neteko
+galios nuo 2008 m. rugsėjo 1 d.
 21. Ūkinė operacija – ūkio subjekto veikla,
 keičianti turto ir (arba) nuosavo kapitalo, finansavimo sumų bei
 įsipareigojimų dydį ir (arba) struktūrą.
@@ -228,22 +230,20 @@ juridiniai asmenys, tvarkydami apskaitą, vadovaujasi verslo apskaitos standarta
 nusprendžia sudaryti finansines ataskaitas arba kai Įmonių finansinės
 atskaitomybės įstatymas įpareigoja jas sudaryti.
  
-5 dalies redakcija iki tų metų,
-kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal
-Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
+5 dalies
+redakcija iki 2009 m. sausio 1 d.:
 5. Biudžetinės įstaigos, tvarkydamos apskaitą,
 vadovaujasi finansų ministro nustatyta tvarka.
-5 dalies redakcija nuo tų metų,
-kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal
-Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
-5. Viešojo
-sektoriaus subjektai, tvarkydami apskaitą, vadovaujasi viešojo sektoriaus
-apskaitos ir finansinės atskaitomybės standartais, kuriuos tvirtina ir
-„Valstybės žiniose“ skelbia Finansų ministerija. Viešojo sektoriaus apskaitos
-ir finansinės atskaitomybės standartai turi būti parengti pagal tarptautinius
-viešojo sektoriaus apskaitos standartus ir kitą Tarptautinės buhalterių
-federacijos Viešojo sektoriaus apskaitos standartų valdybos rengiamą metodiką
-(nurodymus, studijas).
+5 dalies
+redakcija nuo 2009 m. sausio 1 d.:
+5.
+Biudžetinės įstaigos, tvarkydamos apskaitą, vadovaujasi Viešojo sektoriaus
+apskaitos ir finansinės atskaitomybės standartais. Šiuos standartus patvirtina
+ir „Valstybės žiniose“ paskelbia Finansų ministerija. Viešojo sektoriaus
+apskaitos ir finansinės atskaitomybės standartai turi būti parengti pagal
+Tarptautinius viešojo sektoriaus apskaitos standartus ir kitą Tarptautinės
+apskaitininkų federacijos Viešojo sektoriaus apskaitos standartų valdybos
+rengiamą metodiką (nurodymus, studijas).
  
 6. Audito ir apskaitos tarnyba – įstatymų nustatyta
 tvarka įsteigta viešoji įstaiga. Jos steigėja ir savininkė – valstybė. Audito
@@ -266,8 +266,6 @@ Nr. X-1178,
 2007-06-07, Žin., 2007, Nr. 68-2654 (2007-06-21)
 Nr. X-1679,
 2008-07-03, Žin., 2008, Nr. 82-3236 (2008-07-19)
-Nr. X-1823,
-2008-11-14, Žin., 2008, Nr. 137-5372 (2008-11-29)
  
 4 straipsnis.
 Reikalavimai apskaitos informacijai
@@ -394,8 +392,8 @@ Nr. X-1178,
 Nr. X-1679,
 2008-07-03, Žin., 2008, Nr. 82-3236 (2008-07-19)
  
-10 straipsnis. Apskaitos
-tvarkymas
+10 straipsnis.
+Apskaitos tvarkymas
 1. Ūkio subjekto apskaitą tvarko:
 1) ūkio subjekto struktūrinis padalinys arba
 vyriausiasis buhalteris (buhalteris);
@@ -434,8 +432,8 @@ IX-1914,
 2003-12-18, Žin., 2003, Nr. 123-5586 (2003-12-30)
 Nr. X-1178,
 2007-06-07, Žin., 2007, Nr. 68-2654 (2007-06-21)
-Nr. X-1679,
-2008-07-03, Žin., 2008, Nr. 82-3236 (2008-07-19)
+Nr. X-1679, 2008-07-03,
+Žin., 2008, Nr. 82-3236 (2008-07-19)
  
 11 straipsnis. Atsakomybė už
 buhalterinių įrašų teisingumą
@@ -462,7 +460,8 @@ TREČIASIS
 SKIRSNIS
 APSKAITOS
 DOKUMENTAI IR REGISTRAI.
-KLAIDŲ TAISYMAS
+KLAIDŲ
+TAISYMAS
  
 12 straipsnis. Ūkinių operacijų ir ūkinių
 įvykių įforminimas ir registravimas
@@ -470,10 +469,10 @@ KLAIDŲ TAISYMAS
 būti pagrįsti apskaitos dokumentais, išskyrus šio straipsnio 2 dalyje numatytą
 atvejį. Apskaitos dokumentai surašomi ūkinės
 operacijos ir ūkinio įvykio metu arba jiems pasibaigus ar įvykus.
-2. Ūkinės
-operacijos ir ūkiniai įvykiai, kurie negali būti pagrįsti apskaitos
-dokumentais, pagrindžiami su jais susijusių ūkinių operacijų ir ūkinių įvykių
-apskaitos dokumentais.
+2. Ūkinės operacijos
+ir ūkiniai įvykiai, kurie negali būti pagrįsti apskaitos dokumentais,
+pagrindžiami su jais susijusių ūkinių operacijų ir ūkinių įvykių apskaitos
+dokumentais.
 3. Nuolatinių ir ilgalaikių paslaugų (energijos, dujų,
 ryšių, nuomos ir kitų) teikimo pagal sutartis arba paslaugų, įgytų naudojantis
 telekomunikacijų įranga, praėjusio laikotarpio, kuris negali būti ilgesnis negu
@@ -488,8 +487,8 @@ operacijos arba ūkinio įvykio dieną arba iškart po to, kai yra galimybė tai
 padaryti.
 Straipsnio pakeitimai:
 Nr.
-IX-1668,
-2003-07-01, Žin., 2003, Nr. 73-3347 (2003-07-23)
+IX-1668, 2003-07-01,
+Žin., 2003, Nr. 73-3347 (2003-07-23)
 Nr.
 IX-1914,
 2003-12-18, Žin., 2003, Nr. 123-5586 (2003-12-30)
@@ -547,12 +546,12 @@ pavadinimas, kodas;
 5) parduotų degalų pavadinimas, jų kiekis atitinkamais
 mato vienetais ir pardavimo piniginė išraiška.
 7. Kai ūkinė operacija jau atlikta arba ūkinis įvykis
-baigėsi, bet nėra gautas tai patvirtinantis apskaitos dokumentas, surašomas laisvos
-formos apskaitos dokumentas, nustatantis ūkinės operacijos arba ūkinio įvykio
-tapatumą. Šį dokumentą pasirašo asmenys, turintys teisę surašyti ir pasirašyti
-arba tik pasirašyti apskaitos dokumentus.
-8. Šio straipsnio 1 dalies 6 punkte nustatyti apskaitos
-dokumentų rekvizitai neprivalomi PVM sąskaitai-faktūrai.
+baigėsi, bet nėra gautas tai patvirtinantis apskaitos dokumentas, surašomas
+laisvos formos apskaitos dokumentas, nustatantis ūkinės operacijos arba ūkinio
+įvykio tapatumą. Šį dokumentą pasirašo asmenys, turintys teisę surašyti ir
+pasirašyti arba tik pasirašyti apskaitos dokumentus.
+8. Šio straipsnio 1 dalies 6 punkte nustatyti
+apskaitos dokumentų rekvizitai neprivalomi PVM sąskaitai-faktūrai.
 Straipsnio
 pakeitimai:
 Nr.
@@ -579,7 +578,8 @@ dokumentų pasirašymo tvarka nustatoma sutartyje, sudarytoje su užsakovu.
 2. Už apskaitos dokumentų surašymą laiku ir teisingai,
 už juose esančių duomenų tikrumą ir ūkinių operacijų teisėtumą atsako apskaitos
 dokumentus surašę ir pasirašę asmenys.
-Straipsnio pakeitimai:
+Straipsnio
+pakeitimai:
 Nr. X-1178,
 2007-06-07, Žin., 2007, Nr. 68-2654 (2007-06-21)
  
@@ -625,8 +625,8 @@ pagal sąskaitų duomenis Įmonių finansinės atskaitomybės įstatymo, Viešoj
 sektoriaus atskaitomybės įstatymo ir kitų teisės aktų nustatyta tvarka.
 Straipsnio
 pakeitimai:
-Nr. X-1178, 2007-06-07,
-Žin., 2007, Nr. 68-2654 (2007-06-21)
+Nr. X-1178,
+2007-06-07, Žin., 2007, Nr. 68-2654 (2007-06-21)
 Nr. X-1679,
 2008-07-03, Žin., 2008, Nr. 82-3236 (2008-07-19)
  
@@ -665,9 +665,9 @@ IR APSKAITOS REGISTRŲ SAUGOJIMAS
  
 19 straipsnis. Apskaitos dokumentų, apskaitos registrų
 saugojimo tvarka
-1. Apskaitos dokumentai ir apskaitos registrai iki
-finansinių ataskaitų patvirtinimo saugomi ūkio subjekto vadovo nustatyta
-tvarka, kuri turi numatyti priemones, užtikrinančias dokumentų saugumą.
+1. Apskaitos dokumentai ir apskaitos registrai iki finansinių
+ataskaitų patvirtinimo saugomi ūkio subjekto vadovo nustatyta tvarka, kuri turi
+numatyti priemones, užtikrinančias dokumentų saugumą.
 2. Patvirtinus finansines ataskaitas, apskaitos
 dokumentai ir apskaitos registrai saugomi ūkio subjekto vadovo nustatyta
 tvarka, laikantis Archyvų departamento prie Lietuvos Respublikos Vyriausybės
@@ -678,12 +678,11 @@ apskaitos registrai saugomi Dokumentų ir archyvų įstatymo nustatyta tvarka.
 dokumentus, apskaitos registrus, finansines ataskaitas ir metinius pranešimus arba veiklos ataskaitas
 perima paskirtas naujas ūkio subjekto vadovas.
 5. Neteko galios nuo 2008 m. lapkričio 29 d.
-Straipsnio
-pakeitimai:
+Straipsnio pakeitimai:
 Nr. X-1178,
 2007-06-07, Žin., 2007, Nr. 68-2654 (2007-06-21)
-Nr. X-1679, 2008-07-03,
-Žin., 2008, Nr. 82-3236 (2008-07-19)
+Nr. X-1679,
+2008-07-03, Žin., 2008, Nr. 82-3236 (2008-07-19)
 Nr.
 X-1822,
 2008-11-14, Žin., 2008, Nr. 137-5371 (2008-11-29)
@@ -716,12 +715,11 @@ nustatyta tvarka atsako ūkio subjekto vadovas.
 22 straipsnis. Komercinė paslaptis 
 Apskaitos informacija, kuri nenurodoma finansinėse
 ataskaitose ir metiniame pranešime arba veiklos ataskaitoje, neskelbiama.
-Straipsnio
-pakeitimai:
+Straipsnio pakeitimai:
 Nr. X-1178,
 2007-06-07, Žin., 2007, Nr. 68-2654 (2007-06-21)
-Nr. X-1679, 2008-07-03,
-Žin., 2008, Nr. 82-3236 (2008-07-19)
+Nr. X-1679,
+2008-07-03, Žin., 2008, Nr. 82-3236 (2008-07-19)
  
 ŠEŠTASIS
 SKIRSNIS
@@ -744,8 +742,8 @@ nuo 2005 m. sausio 1 d.
 3. Įstatymo 13 straipsnio 8 dalies nuostata įsigalioja
 nuo 2004 m. gegužės 1 d.
 4. Įsigaliojus šiam Įstatymui, netenka galios: 
-1) Lietuvos Respublikos buhalterinės apskaitos pagrindų
-įstatymas (Žin., 1992, Nr. 20-588);
+1) Lietuvos Respublikos buhalterinės apskaitos
+pagrindų įstatymas (Žin., 1992, Nr. 20-588);
 2) Lietuvos Respublikos įstatymas „Dėl Lietuvos
 Respublikos buhalterinės apskaitos pagrindų įstatymo pakeitimo ir papildymo“
 (Žin., 1995, Nr. 83-1882);
@@ -754,8 +752,8 @@ pagrindų įstatymo 9, 10, 20 ir 22 straipsnių pakeitimo įstatymas (Žin., 199
 Nr. 18-463);
 4) Lietuvos Respublikos buhalterinės apskaitos
 pagrindų įstatymo 9, 10 ir 20 straipsnių pakeitimo įstatymas (Žin., 1996, Nr. 64-1509);
-5) Lietuvos Respublikos buhalterinės apskaitos pagrindų
-įstatymo 9, 10 ir 20 straipsnių pakeitimo įstatymas (Žin., 1996, Nr. 126-2949);
+5) Lietuvos Respublikos buhalterinės apskaitos
+pagrindų įstatymo 9, 10 ir 20 straipsnių pakeitimo įstatymas (Žin., 1996, Nr. 126-2949);
 6) Lietuvos Respublikos buhalterinės apskaitos
 pagrindų įstatymo 9 ir 10 straipsnių pakeitimo įstatymas (Žin., 1997, Nr. 64-1509);
 7) Lietuvos Respublikos buhalterinės apskaitos
@@ -840,8 +838,8 @@ APSKAITOS ĮSTATYMO 1 IR 10 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
 Įstatymas neteko galios nuo 2003 m. sausio 1 d. Tai nusako:
 Lietuvos Respublikos
 Seimas, Įstatymas
-Nr. IX-1263,
-2002-12-10, Žin., 2002, Nr. 123-5548 (2002-12-24)
+Nr. IX-1263, 2002-12-10,
+Žin., 2002, Nr. 123-5548 (2002-12-24)
 BUHALTERINĖS APSKAITOS
 ĮSTATYMO 1 IR 10 STRAIPSNIŲ PAPILDYMO ĮSTATYMO PRIPAŽINIMO NETEKUSIU GALIOS IR
 BUHALTERINĖS APSKAITOS ĮSTATYMO 1, 6, 10 IR 13 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
@@ -907,18 +905,8 @@ BUHALTERINĖS APSKAITOS ĮSTATYMO
 straipsnio 3 dalis, 6 straipsnio 2 dalis įsigalioja nuo 2007 m. liepos 1 d.
 Šio įstatymo 2
 straipsnio 2 dalis įsigalioja nuo 2008 m. sausio 1 d.
-Šio įstatymo 3 straipsnio 2 dalis
-įsigalioja tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai
-privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1
-dieną.
-Pakeitimas:
-Lietuvos Respublikos
-Seimas, Įstatymas
-Nr. X-1823,
-2008-11-14, Žin., 2008, Nr. 137-5372 (2008-11-29)
-BUHALTERINĖS APSKAITOS
-ĮSTATYMO 1, 2, 3, 6, 7, 9, 10, 11, 14, 17, 19, 22 STRAIPSNIŲ PAKEITIMO IR
-PAPILDYMO ĮSTATYMO 3 IR 13 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šio įstatymo 3
+straipsnio 2 dalis įsigalioja nuo 2009 m. sausio 1 d.
  
 9.
 Lietuvos
@@ -957,9 +945,9 @@ Nr. X-1822,
 BUHALTERINĖS APSKAITOS ĮSTATYMO
 1, 2 IR 19 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šio įstatymo 1 ir 2 straipsniai
-įsigalioja tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo
-sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną.
- 
+įsigalioja tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai
+privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1
+dieną.
  
 ***
 Pabaiga ***
