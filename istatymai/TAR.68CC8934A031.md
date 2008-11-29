@@ -1,0 +1,690 @@
+---
+tar_id: TAR.68CC8934A031
+dok_nr: X-1809
+pavadinimas: Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir tarptautinės teisės aktų įgyvendinimo įstatymas
+rusis: istatymas
+leidziantis_organas: Lietuvos Respublikos Seimas
+priemimo_data: 2008-11-13
+isigaliojimo_data: 2008-11-29
+paskelbimo_data: 2008-11-13
+statusas: galioja
+etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.68CC8934A031"
+---
+
+# Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir tarptautinės teisės aktų įgyvendinimo įstatymas
+
+LIETUVOS RESPUBLIKOS CIVILINĮ PROCESĄ REGLAMENTUOJANČIŲ EUROPOS SĄJUNGOS
+IR TARPTAUTINĖS TEISĖS AKTŲ ĮGYVENDINIMO ĮSTATYMAS
+
+
+
+
+
+
+LIETUVOS RESPUBLIKOS
+CIVILINĮ PROCESĄ REGLAMENTUOJANČIŲ EUROPOS SĄJUNGOS IR TARPTAUTINĖS TEISĖS AKTŲ ĮGYVENDINIMO ĮSTATYMAS
+ 
+2008 m. lapkričio 13 d. Nr. X-1809
+Vilnius
+ 
+
+
+PIRMASIS SKIRSNIS 
+BENDROSIOS NUOSTATOS
+ 
+
+
+1 straipsnis. Įstatymo paskirtis
+Šis įstatymas skirtas užtikrinti tinkamą civilinį procesą reglamentuojančių Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, ir tarptautinės teisės aktų įgyvendinimą.
+ 
+
+
+
+
+
+
+ANTRASIS SKIRSNIS
+EUROPOS BENDRIJOS STEIGIMO SUTARTIES 244 IR 256 STRAIPSNIŲ ĮGYVENDINIMAS
+ 
+
+
+2 straipsnis. Vykdomųjų raštų išdavimas
+Vykdomuosius raštus dėl Europos Sąjungos Tarybos ar Europos Bendrijų Komisijos sprendimų, kuriais asmenims, išskyrus valstybes, skiriama piniginė prievolė, taip pat dėl Europos Bendrijų Teisingumo Teismo sprendimų suinteresuotos šalies prašymu nedelsdamas, bet ne vėliau kaip per penkias darbo dienas išduoda Lietuvos apeliacinis teismas.
+ 
+
+
+
+
+
+
+TREČIASIS SKIRSNIS
+2007 M. LAPKRIČIO 13 D. EUROPOS PARLAMENTO IR TARYBOS REGLAMENTO (EB) NR. 1393/2007 DĖL TEISMINIŲ IR NETEISMINIŲ DOKUMENTŲ CIVILINĖSE ARBA KOMERCINĖSE BYLOSE ĮTEIKIMO VALSTYBĖSE NARĖSE („DOKUMENTŲ ĮTEIKIMAS“) IR PANAIKINANČIO TARYBOS REGLAMENTĄ (EB) NR. 1348/2000 IR 1965 M. LAPKRIČIO 15 D. HAGOS KONVENCIJOS DĖL TEISMINIŲ IR NETEISMINIŲ DOKUMENTŲ CIVILINĖSE ARBA KOMERCINĖSE BYLOSE ĮTEIKIMO UŽSIENYJE
+ĮGYVENDINIMAS
+ 
+
+
+3 straipsnis. Praleisto apeliacinio skundo padavimo termino atnaujinimas
+2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1393/2007 dėl teisminių ir neteisminių dokumentų civilinėse arba komercinėse bylose įteikimo valstybėse narėse („dokumentų įteikimas“) ir panaikinančio Tarybos reglamentą (EB) Nr. 1348/2000 19 straipsnio 4 dalyje ir 1965 m. lapkričio 15 d. Hagos konvencijos dėl teisminių ir neteisminių dokumentų civilinėse arba komercinėse bylose įteikimo užsienyje 16 straipsnio 1 dalyje nustatytais atvejais atsakovas turi teisę paduoti prašymą atnaujinti praleistą apeliacinio skundo padavimo terminą. Prašymas atnaujinti praleistą apeliacinio skundo padavimo terminą negali būti paduotas, jeigu praėjo daugiau kaip vieni metai nuo teismo sprendimo priėmimo dienos. 
+ 
+
+
+
+
+
+
+KETVIRTASIS SKIRSNIS
+2000 M. GRUODŽIO 22 D. TARYBOS REGLAMENTO (EB) NR. 44/2001 DĖL JURISDIKCIJOS IR TEISMO SPRENDIMŲ CIVILINĖSE IR KOMERCINĖSE BYLOSE PRIPAŽINIMO IR VYKDYMO ĮGYVENDINIMAS
+
+
+ 
+4 straipsnis. Europos Sąjungos valstybių narių teismų sprendimų pripažinimo ir vykdymo tvarka
+
+
+1. Europos Sąjungos valstybių narių teismų sprendimai ir kiti pagal Europos Sąjungos reglamentus vykdytini dokumentai Lietuvos Respublikoje pripažįstami ir leidžiama juos vykdyti pagal Europos Sąjungos reglamentų, šio įstatymo ir Lietuvos Respublikos civilinio proceso kodekso nustatytą tvarką. Jeigu Europos Sąjungos reglamentai nenustato Europos Sąjungos valstybių narių teismų sprendimų pripažinimo ir leidimo juos vykdyti tvarkos, šie sprendimai pripažįstami ir leidžiama juos vykdyti pagal Lietuvos Respublikos civilinio proceso kodekso LX skyriaus ketvirtąjį, penktąjį ir šeštąjį skirsnius.
+
+
+
+
+2. Šio straipsnio nuostatos mutatis mutandis taikomos ir tuo atveju, kai užsienio valstybių teismų sprendimai yra pripažįstami ir leidžiama juos vykdyti pagal tarptautines sutartis, jeigu jose nustatyta galimybė du kartus patikrinti teismo sprendimo dėl užsienio valstybės teismo sprendimo pripažinimo teisėtumą ir pagrįstumą.
+
+
+
+
+3. Jeigu Europos Sąjungos reglamentai nustato šalių teisę kreiptis į teismą dėl Europos Sąjungos valstybių narių teismų sprendimų pripažinimo, prašymas dėl Europos Sąjungos valstybės narės teismo sprendimo pripažinimo nagrinėjamas šio straipsnio 4, 5 ir 6 dalyse nustatyta tvarka.
+
+
+
+
+4. Prašymas dėl leidimo vykdyti Europos Sąjungos valstybės narės teismo sprendimą pateikiamas Lietuvos apeliaciniam teismui. Šis prašymas turi atitikti bendruosius procesiniams dokumentams keliamus reikalavimus, įskaitant reikalavimą prašymą ir jo priedus pateikti valstybine kalba arba pridėti šių dokumentų vertimą į lietuvių kalbą. Jeigu pareiškėjas gyvena ne Lietuvos Respublikoje ir nepaskyrė atstovo byloje arba įgalioto asmens procesiniams dokumentams gauti, gyvenančio (turinčio profesinės veiklos buveinę) Lietuvos Respublikoje (Lietuvos Respublikos civilinio proceso kodekso 805 straipsnis), prašyme dėl leidimo vykdyti Europos Sąjungos valstybės narės teismo sprendimą turi būti nurodytas adresas Lietuvos Respublikoje arba telekomunikacijų galinio įrenginio adresas, kuriuo pareiškėjui būtų įteikiami procesiniai dokumentai. Prašymas dėl leidimo vykdyti Europos Sąjungos valstybės narės teismo sprendimą žyminiu mokesčiu neapmokestinamas.
+
+
+
+
+5. Šio straipsnio 4 dalyje nurodytą prašymą nagrinėja vienas Lietuvos apeliacinio teismo teisėjas. Teismas, nustatęs, kad prašymas paduotas nesilaikant Europos Sąjungos reglamentuose, šiame įstatyme ar Lietuvos Respublikos civilinio proceso kodekse nustatytos tvarkos, laiko jį nepaduotu ir nutartimi grąžina pareiškėjui, o prašymas, kuris jau buvo priimtas teismo žinion, paliekamas nenagrinėtas. Teismas nustato terminą prašymo formos arba turinio trūkumams pašalinti (Lietuvos Respublikos civilinio proceso kodekso 115 straipsnis), jeigu pareiškėjas gyvena Lietuvos Respublikoje, nurodė adresą Lietuvos Respublikoje arba telekomunikacijų galinio įrenginio adresą, kuriuo pareiškėjui būtų įteikiami procesiniai dokumentai, arba paskyrė atstovą byloje ar įgaliotą asmenį procesiniams dokumentams gauti, gyvenantį (turintį profesinės veiklos buveinę) Lietuvos Respublikoje (Lietuvos Respublikos civilinio proceso kodekso 805 straipsnis). Jeigu per teismo nustatytą terminą trūkumai nepašalinami, prašymas laikomas nepaduotu ir grąžinamas pareiškėjui, o prašymas, kuris jau buvo priimtas teismo žinion, paliekamas nenagrinėtas. Teismas leidimo vykdyti Europos Sąjungos valstybės narės teismo sprendimą klausimą išsprendžia priimdamas nutartį rašytinio proceso tvarka. Šioje nutartyje turi būti nurodyta jos peržiūrėjimo ir įsiteisėjimo tvarka, o nutartyje, kuria sprendimą leista vykdyti, taip pat pažymėta, kad Europos Sąjungos valstybės narės teismo sprendimą leista vykdyti netikrinant, ar egzistuoja Europos Sąjungos reglamentuose nurodyti pagrindai atsisakyti pripažinti Europos Sąjungos valstybės narės teismo sprendimą. Ši nutartis įsiteisėja pasibaigus Europos Sąjungos reglamentuose nustatytam teismo nutarties dėl leidimo vykdyti Europos Sąjungos valstybės narės teismo sprendimą apskundimo terminui. Vykdomąjį raštą Lietuvos apeliacinis teismas išduoda tik po nutarties įsiteisėjimo ir pareiškėjo, ir asmens, kurio atžvilgiu siekiama sprendimą įvykdyti, atžvilgiu.
+
+
+
+
+6. Prašymą peržiūrėti nutartį dėl leidimo vykdyti Europos Sąjungos valstybės narės teismo sprendimą nagrinėja Lietuvos apeliacinio teismo trijų teisėjų kolegija. Šiems prašymams nagrinėti mutatis mutandis taikomos atskirųjų skundų nagrinėjimo taisyklės. Į Lietuvos apeliacinio teismo teisėjų kolegiją, nagrinėjančią prašymą peržiūrėti nutartį dėl leidimo vykdyti Europos Sąjungos valstybės narės teismo sprendimą, negali būti skiriamas teisėjas, priėmęs šią nutartį. Išnagrinėjęs prašymą peržiūrėti nutartį dėl leidimo vykdyti Europos Sąjungos valstybės narės teismo sprendimą ir nutaręs nutartį panaikinti, teismas negali perduoti klausimo nagrinėti iš naujo šio straipsnio 5 dalyje nustatyta tvarka. Visais atvejais teismas, išnagrinėjęs prašymą peržiūrėti nutartį dėl leidimo vykdyti Europos Sąjungos valstybės narės teismo sprendimą, priima nutartį. Ši teismo nutartis įsiteisėja nuo jos priėmimo dienos. Teismo nutartis gali būti skundžiama kasaciniu skundu pagal bylų proceso kasaciniame teisme taisykles.
+ 
+
+
+
+
+
+
+
+
+PENKTASIS SKIRSNIS
+2001 M. GEGUŽĖS 28 D. TARYBOS REGLAMENTO (EB) NR. 1206/2001 DĖL VALSTYBIŲ NARIŲ TEISMŲ TARPUSAVIO BENDRADARBIAVIMO RENKANT ĮRODYMUS CIVILINĖSE AR KOMERCINĖSE BYLOSE ĮGYVENDINIMAS
+ 
+
+
+5 straipsnis. Įrodymų rinkimas Europos Sąjungos valstybėje narėje
+
+
+1. Europos Sąjungos teisės aktų nustatyta tvarka rinkti įrodymus Europos Sąjungos valstybėje narėje turi teisę visi Lietuvos Respublikos teismai (teisėjai).
+
+
+
+
+2. Šalys ir jų atstovai, jeigu tokie yra, turi teisę dalyvauti Europos Sąjungos valstybės narės teismui renkant įrodymus Europos Sąjungos teisės aktų nustatyta tvarka.
+ 
+
+
+
+
+
+
+6 straipsnis. Centrinė įstaiga
+Centrinė įstaiga 2001 m. gegužės 28 d. Tarybos reglamento (EB) Nr. 1206/2001 dėl valstybių narių teismų tarpusavio bendradarbiavimo renkant įrodymus civilinėse ar komercinėse bylose 3 straipsnyje nustatytoms funkcijoms atlikti yra Lietuvos Respublikos teisingumo ministerija.
+ 
+
+
+
+
+
+
+ŠEŠTASIS SKIRSNIS
+2003 M. LAPKRIČIO 27 D. TARYBOS REGLAMENTO (EB) NR. 2201/2003 DĖL JURISDIKCIJOS IR TEISMO SPRENDIMŲ, SUSIJUSIŲ SU SANTUOKA IR TĖVŲ PAREIGOMIS, PRIPAŽINIMO BEI VYKDYMO, PANAIKINANČIO REGLAMENTĄ (EB) NR. 1347/2000, IR 1980 M. SPALIO 25 D. HAGOS KONVENCIJOS DĖL TARPTAUTINIO VAIKŲ GROBIMO CIVILINIŲ ASPEKTŲ ĮGYVENDINIMAS
+ 
+
+
+7 straipsnis. Vaiko grąžinimas
+
+
+1. Bylos dėl neteisėtai išvežto ar kitoje, negu jis nuolat gyveno, Europos Sąjungos valstybėje narėje arba susitariančiojoje valstybėje pagal 1980 m. spalio 25 d. Hagos konvenciją dėl tarptautinio vaikų grobimo civilinių aspektų (toliau – Hagos konvencija) laikomo vaiko grąžinimo (toliau – bylos dėl vaiko grąžinimo) nagrinėjamos Lietuvos Respublikos civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka tiek, kiek 2003 m. lapkričio 27 d Tarybos reglamentas (EB) Nr. 2201/2003 dėl jurisdikcijos ir teismo sprendimų, susijusių su santuoka ir tėvų pareigomis, pripažinimo bei vykdymo, panaikinantis Reglamentą (EB) Nr. 1347/2000 (toliau šiame skirsnyje – Reglamentas (EB) Nr. 2201/2003), Hagos konvencija ir šis įstatymas nenustato kitaip.
+
+
+
+
+2. Bylos dėl vaiko grąžinimo, kai vaikas neteisėtai atvežtas ar neteisėtai laikomas Lietuvos Respublikoje, teismingos Vilniaus apygardos teismui.
+
+
+
+
+3. Apie bylos dėl vaiko grąžinimo nagrinėjimą pranešama suinteresuotiems asmenims. Teismas, rengdamasis nagrinėti bylą dėl vaiko grąžinimo, paveda šio įstatymo 11 straipsnio 2 dalies 2 punkte nurodytai centrinei institucijai pateikti Reglamento (EB) Nr. 2201/2003 55 straipsnio a punkte nurodytą informaciją.
+
+
+
+
+4. Jeigu pareiškėjas gyvena ne Lietuvos Respublikoje ir nepaskyrė atstovo byloje arba įgalioto asmens procesiniams dokumentams gauti, gyvenančio Lietuvos Respublikoje (Lietuvos Respublikos civilinio proceso kodekso 805 straipsnis), prašyme dėl vaiko grąžinimo turi būti nurodytas adresas Lietuvos Respublikoje arba telekomunikacijų galinio įrenginio adresas, kuriuo pareiškėjui būtų galima įteikti procesinius dokumentus.
+
+
+
+
+5. Prašymas dėl vaiko grąžinimo turi būti išnagrinėtas laikantis Reglamento (EB)Nr. 2201/2003 11 straipsnyje nustatytų terminų. Nagrinėjant bylą žodinio proceso tvarka, turi būti rašomas teismo posėdžio protokolas.
+
+
+
+
+6. Teismo nutartis grąžinti vaiką ar atsisakyti grąžinti vaiką gali būti skundžiama atskiruoju skundu Lietuvos apeliaciniam teismui. Bylose dėl vaiko grąžinimo kasacija negalima.
+
+
+
+
+7. Reglamento (EB) Nr. 2201/2003 11 straipsnio 6 dalyje nurodytų dokumentų perdavimo funkciją Lietuvos Respublikoje atlieka šio įstatymo 11 straipsnio 2 dalies 1 punkte nurodyta centrinė institucija.
+ 
+
+
+
+
+
+
+8 straipsnis. Bylų, kai sutuoktiniai yra Lietuvos Respublikos piliečiai, neturintys gyvenamosios vietos ir turto Lietuvos Respublikoje, teismingumas
+Pareiškimas dėl santuokos nutraukimo, gyvenimo skyrium (separacijos), santuokos pripažinimo negaliojančia, kai sutuoktiniai yra Lietuvos Respublikos piliečiai, neturintys Lietuvos Respublikoje gyvenamosios vietos ir turto, paduodamas bet kuriam apylinkės teismui ieškovo pasirinkimu.
+ 
+
+
+
+
+9 straipsnis. Europos Sąjungos valstybių narių teismų sprendimų vykdymas
+
+
+1. Europos Sąjungos valstybių narių teismų sprendimai dėl bendravimo teisių ir dėl vaiko grąžinimo yra vykdytini dokumentai, vykdomi pagal Lietuvos Respublikos civilinio proceso kodekso VI dalyje išdėstytas taisykles tiek, kiek šis įstatymas nenustato kitaip.
+
+
+
+
+2. Europos Sąjungos valstybėse narėse išduoti pažymėjimai, nurodyti Reglamento (EB) Nr. 2201/2003 41 ir 42 straipsniuose, yra vykdomieji dokumentai.
+ 
+
+
+
+
+
+
+10 straipsnis. Europos Sąjungos valstybių narių teismų sprendimų vykdymo praktiniai nurodymai
+
+
+1. Jeigu Europos Sąjungos valstybės narės teismo sprendime dėl bendravimo teisių nėra reikalingų nurodymų arba jų nepakanka, vykdymo veiksmus atliekantis antstolis kreipiasi su pareiškimu į vykdymo vietos apylinkės teismą dėl praktinių nurodymų dėl naudojimosi bendravimo teisėmis.
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodyti pareiškimai nagrinėjami Lietuvos Respublikos civilinio proceso kodekso 593 straipsnyje nustatyta tvarka tiek, kiek šis įstatymas nenustato kitaip.
+
+
+
+
+3. Vaikas, kuris sugeba išreikšti savo nuomonę ir suformuluoti savo pažiūras, dėl naudojimosi bendravimo teisėmis turi būti išklausytas teismo posėdyje mutatis mutandis taikant Lietuvos Respublikos civilinio proceso kodekso 380 straipsnyje nustatytą tvarką.
+
+
+
+
+4. Teismas, rengdamasis nagrinėti šio straipsnio 1 dalyje nurodytą pareiškimą, paveda vaiko gyvenamosios vietos valstybinei vaiko teisių apsaugos institucijai pateikti išvadą.
+
+
+
+
+5. Dėl teismo nutarties, kurioje išdėstyti praktiniai nurodymai dėl naudojimosi bendravimo teisėmis, gali būti duodamas atskirasis skundas. Apeliacinės instancijos teismo nutartis, priimta išnagrinėjus atskirąjį skundą, kasacine tvarka neskundžiama.
+ 
+
+
+
+
+
+
+11 straipsnis. Centrinės institucijos
+
+
+1. Centrinė institucija Hagos konvencijoje nustatytoms funkcijoms atlikti yra Lietuvos Respublikos socialinės apsaugos ir darbo ministerija.
+
+
+
+
+2. Centrinės institucijos Reglamente (EB) Nr. 2201/2003 nustatytoms funkcijoms atlikti yra:
+
+
+1) Lietuvos Respublikos teisingumo ministerija – atsakinga už teismų susižinojimo funkcijų atlikimą ir informacijos apie Lietuvos Respublikos teisės nustatytas procedūrines taisykles, susijusias su Reglamento (EB) Nr. 2201/2003 įgyvendinimu, perdavimą;
+
+
+
+
+2) Lietuvos Respublikos socialinės apsaugos ir darbo ministerija – atsakinga už kitų, negu nurodyta šios dalies 1 punkte, Reglamente (EB) Nr. 2201/2003 nustatytų funkcijų įgyvendinimą.
+
+
+ 
+
+
+
+
+
+
+12 straipsnis. Laikinųjų apsaugos priemonių taikymas
+
+
+1. Priėmęs prašymą dėl vaiko grąžinimo, teismas ieškovo (išieškotojo) ar antstolio prašymu arba savo iniciatyva gali taikyti, o priėmęs sprendimą dėl vaiko grąžinimo, – savo iniciatyva privalo taikyti laikinąsias apsaugos priemones – draudimą atsakovui (skolininkui) išvykti iš Lietuvos Respublikos ir (arba) draudimą išvežti vaiką iš Lietuvos Respublikos be teismo leidimo.
+
+
+
+
+2. Nutartis dėl šio straipsnio 1 dalyje nurodytų laikinųjų apsaugos priemonių taikymo vykdo antstolis.
+ 
+
+
+
+
+
+
+
+
+SEPTINTASIS SKIRSNIS
+2004 M. BALANDŽIO 21 D. EUROPOS PARLAMENTO IR TARYBOS REGLAMENTO (EB) NR. 805/2004, SUKURIANČIO NEGINČYTINŲ REIKALAVIMŲ EUROPOS VYKDOMĄJĮ RAŠTĄ, ĮGYVENDINIMAS
+ 
+
+
+13 straipsnis. Europos vykdomasis raštas
+
+
+1. Europos vykdomasis raštas yra vykdomasis dokumentas.
+
+
+
+
+2. Europos vykdomojo rašto turiniui netaikomi Lietuvos Respublikos civilinio proceso kodekso 648 straipsnyje nustatyti reikalavimai.
+
+
+
+
+3. Teismo sprendimai, teismo patvirtintos taikos sutartys, autentiški dokumentai, dėl kurių išduotas Europos vykdomasis raštas, yra vykdytini dokumentai. Jie vykdomi pagal Lietuvos Respublikos civilinio proceso kodekso VI dalyje išdėstytas taisykles tiek, kiek 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 805/2004, sukuriantis neginčytinų reikalavimų Europos vykdomąjį raštą (toliau šiame skirsnyje – Reglamentas (EB) Nr. 805/2004), ir šis įstatymas nenustato kitaip.
+
+
+
+
+4. Europos vykdomasis raštas ar jo kopija vykdyti Lietuvos Respublikoje pateikiami išversti į lietuvių kalbą ir vykdomi netaikant šio įstatymo 4 straipsnio nuostatų.
+ 
+
+
+
+
+
+
+14 straipsnis. Procesinių dokumentų įteikimas
+
+
+1. Jeigu ieškinyje (pareiškime dėl teismo įsakymo išdavimo) ieškovas (kreditorius) yra papildomai nurodęs, kad bus siekiama Europos vykdomojo rašto išdavimo, teismas, nagrinėdamas bylą, procesinius dokumentus įteikia Lietuvos Respublikos civilinio proceso kodekse nustatytais ir Reglamento (EB) Nr. 805/2004 13, 14, 15 straipsnių reikalavimus atitinkančiais procesinių dokumentų įteikimo būdais.
+
+
+
+
+2. Tais atvejais, kai šio straipsnio 1 dalyje nurodyta informacija teismui nebuvo pateikta, Europos vykdomasis raštas gali būti išduodamas Reglamento (EB) Nr. 805/2004 3 straipsnio 1 dalies a punkte nurodytose bylose, taip pat kitose bylose, jeigu jose procesiniai dokumentai buvo įteikti Reglamento (EB) Nr. 805/2004 13, 14, 15 straipsnių reikalavimus atitinkančiais procesinių dokumentų įteikimo būdais.
+ 
+
+
+
+
+
+
+15 straipsnis. Autentiški dokumentai
+
+
+1. Autentiški dokumentai yra notaro užprotestuoti ar neprotestuotini vekseliai, čekiai, kuriuose padaryti notaro vykdomieji įrašai.
+
+
+
+
+2. Kreditoriaus prašymu Europos vykdomąjį raštą dėl šio straipsnio 1 dalyje nurodytų autentiškų dokumentų išduoda vykdomąjį įrašą padaręs notaras. Europos vykdomąjį raštą notaras išduoda ne vėliau kaip per penkias darbo dienas nuo prašymo dėl Europos vykdomojo rašto išdavimo gavimo dienos.
+ 
+
+
+
+
+
+
+16 straipsnis. Europos vykdomojo rašto taisymas arba panaikinimas
+
+
+1. Kai dėl rašybos ar kitokios klaidos Europos vykdomasis raštas neatitinka teismo sprendimo ar autentiško dokumento, taisant Europos vykdomąjį raštą mutatis mutandis taikomos Lietuvos Respublikos civilinio proceso kodekso 648 straipsnio 6 dalies nuostatos.
+
+
+
+
+2. Teismas, išdavęs Europos vykdomąjį raštą, Reglamento (EB) Nr. 805/2004 10 straipsnio 1 dalies b punkte nurodytu atveju nutartimi panaikina arba atsisako panaikinti Europos vykdomąjį raštą.
+
+
+
+
+3. Šiame straipsnyje nurodytais klausimais pateikti bylos šalių prašymai žyminiu mokesčiu neapmokestinami.
+
+
+
+
+4. Šio straipsnio nuostatos taikomos ir tais atvejais, kai į vykdomąjį įrašą padariusio notaro buveinės apylinkės teismą kreipiamasi dėl Europos vykdomojo rašto, išduoto šio įstatymo 15 straipsnio 2 dalyje nustatyta tvarka, ištaisymo ar panaikinimo.
+ 
+
+
+
+
+
+
+17 straipsnis. Atsisakymas vykdyti teismo sprendimą
+
+
+1. Lietuvos apeliacinis teismas Reglamento (EB) Nr. 805/2004 21 straipsnyje nurodytą skolininko prašymą išsprendžia priimdamas nutartį rašytinio proceso tvarka.
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytas prašymas žyminiu mokesčiu neapmokestinamas.
+ 
+
+
+
+
+
+
+18 straipsnis. Teismų sprendimų vykdymo atidėjimas arba apribojimas
+
+
+1. Reglamento (EB) Nr. 805/2004 23 straipsnio 1 dalies a punkte nurodytus sprendimus pagal kompetenciją priima teismo sprendimo, patvirtintos taikos sutarties ar autentiško dokumento vykdymo vietos apylinkės teismas arba antstolis.
+
+
+
+
+2. Reglamento (EB) Nr. 805/2004 23 straipsnio 1 dalies b punkte nurodytus sprendimus priima teismo sprendimo, patvirtintos taikos sutarties ar autentiško dokumento vykdymo vietos apylinkės teismas.
+
+
+
+
+3. Reglamento (EB) Nr. 805/2004 23 straipsnio 1 dalies c punkte nurodytus sprendimus pagal kompetenciją priima teismo sprendimo ar autentiško dokumento vykdymo vietos antstolis.
+
+
+
+
+4. Teismas šio straipsnio 1 ir 2 dalyse nurodytais klausimais pateiktus bylos šalių prašymus nagrinėja mutatis mutandis taikydamas Lietuvos Respublikos civilinio proceso kodekso 593 straipsnio nuostatas.
+ 
+
+
+
+
+
+
+
+
+AŠTUNTASIS SKIRSNIS
+2006 M. GRUODŽIO 12 D. EUROPOS PARLAMENTO IR TARYBOS REGLAMENTO (EB) NR. 1896/2006, NUSTATANČIO EUROPOS MOKĖJIMO ĮSAKYMO PROCEDŪRĄ, ĮGYVENDINIMAS
+ 
+
+
+19 straipsnis. Proceso ypatumai
+Tiek, kiek nustato 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1896/2006, nustatantis Europos mokėjimo įsakymo procedūrą (toliau šiame skirsnyje – Reglamentas (EB) Nr. 1896/2006), prašymai dėl Europos mokėjimo įsakymo išdavimo nagrinėjami pagal Lietuvos Respublikos civilinio proceso kodekso XXIII skyriuje nustatytas taisykles, išskyrus šiame įstatyme nurodytas išimtis.
+ 
+
+
+
+
+20 straipsnis. Bylų teismingumas
+Prašymai dėl Europos mokėjimo įsakymo išdavimo paduodami pagal Lietuvos Respublikos civilinio proceso kodekse nustatytas teismingumo taisykles.
+ 
+
+
+
+
+21 straipsnis. Žyminis mokestis
+Bylose dėl Europos mokėjimo įsakymo išdavimo taikomos Lietuvos Respublikos civilinio proceso kodekso 434 straipsnio 1–3 dalyse nustatytos žyminio mokesčio apskaičiavimo ir mokėjimo taisyklės.
+ 
+
+
+
+
+22 straipsnis. Bylų nagrinėjimas pagal nacionalinę proceso teisę
+
+
+1. Reglamento (EB) Nr. 1896/2006 10 straipsnio 2 dalyje nurodytu atveju dėl likusios reikalavimo dalies ieškovas gali pareikšti ieškinį teisme pagal ginčo teisenos taisykles arba pateikti naują prašymą išduoti Europos mokėjimo įsakymą, jeigu pašalinamos kliūtys, dėl kurių teismas atsisakė išduoti Europos mokėjimo įsakymą visam reikalavimui.
+
+
+
+
+2. Reglamento (EB) Nr. 1896/2006 17 straipsnio 1 dalyje nurodytu atveju teismo procesas tęsiamas Lietuvos Respublikos civilinio proceso kodekso 439 straipsnio 3, 5 ir 6 dalyse nustatyta tvarka.
+ 
+
+
+
+
+
+
+23 straipsnis. Europos mokėjimo įsakymo peržiūra
+
+
+1. Europos mokėjimo įsakymą Reglamento (EB) Nr. 1896/2006 20 straipsnio 1 ir 2 dalyse nurodytais pagrindais peržiūri Europos mokėjimo įsakymą priėmęs teismas.
+
+
+
+
+2. Priėmęs prašymą dėl Europos mokėjimo įsakymo peržiūrėjimo, teismas persiunčia prašymo ir jo priedų kopijas ieškovui ir informuoja, kad šis per keturiolika dienų nuo prašymo išsiuntimo privalo raštu pateikti atsiliepimą į prašymą.
+
+
+
+
+3. Paduotą prašymą dėl Europos mokėjimo įsakymo peržiūrėjimo teismas rašytinio proceso tvarka išnagrinėja ne vėliau kaip per keturiolika dienų nuo termino atsiliepimui į prašymą pateikti pabaigos dienos ir priima nutartį dėl vieno iš Reglamento (EB) Nr. 1896/2006 20 straipsnio 3 dalyje nurodytų sprendimų.
+ 
+
+
+
+
+
+
+24 straipsnis. Europos mokėjimo įsakymo vykdymas
+
+
+1. Europos mokėjimo įsakymas, patvirtintas Reglamento (EB) Nr. 1896/2006 VII priede pateikta standartine G forma, laikomas vykdomuoju dokumentu.
+
+
+
+
+2. Reglamento (EB) Nr. 1896/2006 22 straipsnio 1 dalyje nurodytus prašymus dėl atsisakymo vykdyti Europos mokėjimo įsakymą nagrinėja Lietuvos apeliacinis teismas. Šie prašymai nagrinėjami mutatis mutandis taikant šio įstatymo 4 straipsnio 4, 5 ir 6 dalių nuostatas.
+
+
+
+
+3. Reglamento (EB) Nr. 1896/2006 23 straipsnyje nurodytus prašymus dėl Europos mokėjimo įsakymo vykdymo sustabdymo ar apribojimo nagrinėja vykdymo vietos apylinkės teismas.
+ 
+
+
+
+
+
+
+
+
+DEVINTASIS SKIRSNIS
+2007 M. LIEPOS 11 D. EUROPOS PARLAMENTO IR TARYBOS REGLAMENTO (EB) NR. 861/2007, NUSTATANČIO EUROPOS IEŠKINIŲ DĖL NEDIDELIŲ SUMŲ NAGRINĖJIMO PROCEDŪRĄ, ĮGYVENDINIMAS
+ 
+
+
+25 straipsnis. Proceso ypatumai
+Tiek, kiek nustato 2007 m. liepos 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 861/2007, nustatantis Europos ieškinių dėl nedidelių sumų nagrinėjimo procedūrą (toliau šiame skirsnyje – Reglamentas (EB) Nr. 861/2007), bylos dėl Europos ieškinių dėl nedidelių sumų nagrinėjamos pagal bendrąsias ginčo teisenos taisykles, išskyrus šiame įstatyme nurodytas išimtis.
+ 
+
+
+
+
+26 straipsnis. Bylų teismingumas
+Bylas dėl Europos ieškinių dėl nedidelių sumų nagrinėja apylinkės teismai pagal Lietuvos Respublikos civilinio proceso kodekse nustatytas teritorinio teismingumo taisykles.
+ 
+
+
+
+
+27 straipsnis. Žyminio mokesčio dydis
+Europos ieškiniai dėl nedidelių sumų apmokami Lietuvos Respublikos civilinio proceso kodekso 80 straipsnio 1 dalies 1 punkte nustatyto dydžio žyminiu mokesčiu.
+ 
+
+
+
+
+28 straipsnis. Bylų nagrinėjimas pagal nacionalinę proceso teisę
+
+
+1. Reglamento (EB) Nr. 861/2007 4 straipsnio 3 dalyje ir 5 straipsnio 7 dalyje nurodytais atvejais teismas privalo pranešti ieškovui (atsakovui), kad šis ne vėliau kaip per keturiolika dienų nuo teismo pranešimo įteikimo dienos turi teisę pareikšti ieškinį (priešieškinį), atitinkantį Lietuvos Respublikos civilinio proceso kodekso nustatytus reikalavimus.
+
+
+
+
+2. Jeigu ieškovas (atsakovas) per šio straipsnio 1 dalyje nustatytą terminą tinkamai įforminto ieškinio (priešieškinio) teismui nepareiškia, pareiškimas laikomas nepaduotu ir teismo nutartimi grąžinamas ieškovui (atsakovui). Ši nutartis gali būti skundžiama atskiruoju skundu.
+ 
+
+
+
+
+
+
+29 straipsnis. Sprendimų apskundimas
+Teismų sprendimai, priimti pagal Europos ieškinių dėl nedidelių sumų nagrinėjimo procedūrą, gali būti skundžiami apeliacine tvarka.
+ 
+
+
+
+
+30 straipsnis. Sprendimų peržiūra
+
+
+1. Teismo sprendimą, priimtą pagal Europos ieškinių dėl nedidelių sumų nagrinėjimo procedūrą, Reglamento (EB) Nr. 861/2007 18 straipsnio 1 dalyje nurodytais atvejais peržiūri sprendimą priėmęs teismas.
+
+
+
+
+2. Priėmęs prašymą dėl sprendimo peržiūrėjimo, teismas persiunčia prašymo ir jo priedų kopijas ieškovui ir informuoja, kad šis per keturiolika dienų nuo prašymo išsiuntimo privalo raštu pateikti atsiliepimą į prašymą.
+
+
+
+
+3. Paduotą prašymą dėl sprendimo peržiūrėjimo teismas rašytinio proceso tvarka išnagrinėja ne vėliau kaip per keturiolika dienų nuo termino atsiliepimui į prašymą pateikti pabaigos dienos ir priima nutartį dėl vieno iš Reglamento (EB) Nr. 861/2007 18 straipsnio 2 dalyje nurodytų sprendimų.
+
+
+
+
+4. Jeigu toje pačioje byloje dėl Europos ieškinių dėl nedidelių sumų paduodamas apeliacinis skundas ir prašymas dėl sprendimo peržiūrėjimo, pirmiausia turi būti išnagrinėtas apeliacinis skundas.
+ 
+
+
+
+
+
+
+31 straipsnis. Sprendimų vykdymas
+
+
+1. Teismo sprendimas, priimtas pagal Europos ieškinių dėl nedidelių sumų nagrinėjimo procedūrą ir patvirtintas Reglamento (EB) Nr. 861/2007 IV priede išdėstyta standartine D forma, laikomas vykdomuoju dokumentu.
+
+
+
+
+2. Reglamento (EB) Nr. 861/2007 22 straipsnio 1 dalyje nurodytus prašymus dėl atsisakymo vykdyti sprendimus, priimtus pagal Europos ieškinių dėl nedidelių sumų nagrinėjimo procedūrą, nagrinėja Lietuvos apeliacinis teismas. Šie prašymai nagrinėjami mutatis mutandis taikant šio įstatymo 4 straipsnio 4, 5 ir 6 dalių nuostatas.
+
+
+
+
+3. Reglamento (EB) Nr. 861/2007 23 straipsnyje nurodytus prašymus dėl sprendimų, priimtų pagal Europos ieškinių dėl nedidelių sumų nagrinėjimo procedūrą, vykdymo sustabdymo ar apribojimo nagrinėja vykdymo vietos apylinkės teismas.
+ 
+
+
+
+
+
+
+
+
+DEŠIMTASIS SKIRSNIS 
+BAIGIAMOSIOS NUOSTATOS
+ 
+
+
+32 straipsnis. Įstatymo taikymas
+
+
+1. Šis įstatymas yra taikomas ieškiniams (prašymams, pareiškimams), kurie pareikšti po šio įstatymo įsigaliojimo.
+
+
+
+
+2. Ieškiniai (prašymai, pareiškimai), pareikšti iki šio įstatymo įsigaliojimo, nagrinėjami pagal iki šio įstatymo įsigaliojimo galiojusias nuostatas.
+ 
+
+
+
+
+
+
+33 straipsnis. Teisės aktų pripažinimas netekusiais galios
+Įsigaliojus šiam įstatymui, netenka galios:
+1) Lietuvos Respublikos įstatymo „Dėl Konvencijos dėl tarptautinio vaikų grobimo civilinių aspektų ratifikavimo“ (Žin., 2002, Nr. 51-1928) 3 straipsnis;
+2) Lietuvos Respublikos įstatymas „Dėl 2003 m. lapkričio 27 d. Tarybos reglamento (EB) Nr. 2201/2003 dėl jurisdikcijos ir teismo sprendimų, susijusių su santuoka ir tėvų pareigomis, pripažinimo bei vykdymo, panaikinančio Reglamentą (EB) Nr. 1347/ 2000, įgyvendinimo“ (Žin., 2005, Nr. 58-2004);
+3) Lietuvos Respublikos įstatymas „Dėl 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 805/2004, sukuriančio neginčytinų reikalavimų Europos vykdomąjį raštą, įgyvendinimo“ (Žin., 2005, Nr. 58-2005).
+ 
+
+
+
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+ 
+RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
+ 
+ 
+
+
+
+
+ 
+Lietuvos Respublikos
+civilinį procesą reglamentuojančių
+Europos Sąjungos ir tarptautinės
+teisės aktų įgyvendinimo įstatymo
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+
+1. 2000 m. gruodžio 22 d. Tarybos reglamentas (EB) Nr. 44/2001 dėl jurisdikcijos ir teismo sprendimų civilinėse ir komercinėse bylose pripažinimo ir vykdymo (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 42) (su paskutiniais pakeitimais, padarytais 2002 m. rugpjūčio 21 d. Komisijos reglamentu (EB) Nr. 1496/2002, iš dalies keičiančiu Tarybos reglamento (EB) Nr. 44/2001 dėl jurisdikcijos ir teismo sprendimų civilinėse ir komercinėse bylose pripažinimo ir vykdymo I priedą (3 straipsnio 2 dalyje ir 4 straipsnio 2 dalyje nurodytos jurisdikcijos taisyklės) ir II priedą (kompetentingų teismų ir institucijų sąrašas) (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 60).
+
+
+
+
+2. 2001 m. gegužės 28 d. Tarybos reglamentas (EB) Nr. 1206/2001 dėl valstybių narių teismų tarpusavio bendradarbiavimo renkant įrodymus civilinėse ar komercinėse bylose (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 121).
+
+
+
+
+3. 2003 m. lapkričio 27 d. Tarybos reglamentas (EB) Nr. 2201/2003 dėl jurisdikcijos ir teismo sprendimų, susijusių su santuoka ir tėvų pareigomis, pripažinimo bei vykdymo, panaikinantis Reglamentą (EB) Nr. 1347/2000 (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 243).
+
+
+
+
+4. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 805/2004, sukuriantis neginčytinų reikalavimų Europos vykdomąjį raštą (OL 2004 m. specialusis leidimas, 19 skyrius, 7 tomas, p. 38).
+
+
+
+
+5. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1896/2006, nustatantis Europos mokėjimo įsakymo procedūrą (OL 2006 L 399, p. 1).
+
+
+
+
+6. 2007 m. liepos 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 861/2007, nustatantis Europos ieškinių dėl nedidelių sumų nagrinėjimo procedūrą (OL 2007 L 199, p. 1).
+
+
+
+
+7. 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1393/2007 dėl teisminių ir neteisminių dokumentų civilinėse arba komercinėse bylose įteikimo valstybėse narėse („dokumentų įteikimas“) ir panaikinantis Tarybos reglamentą (EB) Nr. 1348/2000 (OL 2007 L 324, p. 79).
