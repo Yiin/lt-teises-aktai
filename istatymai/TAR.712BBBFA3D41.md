@@ -512,19 +512,19 @@ Nr.
 X-406,
 2005-11-17, Žin., 2005, Nr. 144-5237 (2005-12-10)
  
-20
-straipsnis. Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
-svarstymas 
-ir tvirtinimas Seime
+20 straipsnis. Valstybės biudžeto ir
+savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projekto
+svarstymas ir priėmimas Seime ir įstatymo įsigaliojimas
 1. Seimas svarsto Valstybės biudžeto ir savivaldybių biudžetų finansinių
 rodiklių patvirtinimo įstatymo projektą atsižvelgdamas į Seimo komitetų
 pasiūlymus bei išvadas ir papildomus pranešimus Seimo statute nustatyta tvarka.
-2. Seimas valstybės biudžetą ir savivaldybių biudžetų finansinius
-rodiklius vieniems biudžetiniams metams tvirtina įstatymu ne vėliau kaip prieš
-14 kalendorinių dienų iki biudžetinių metų pradžios. Jeigu Valstybės biudžeto
-ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektas
-laiku nepatvirtinamas, tai biudžetas vykdomas šio Įstatymo 29 straipsnyje
-nustatyta tvarka.
+2. Valstybės
+biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas
+įsigalioja ne vėliau kaip iki biudžetinių metų pradžios. Jeigu Valstybės
+biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas
+laiku neįsigalioja, biudžetas vykdomas šio Įstatymo 29 straipsnyje nustatyta
+tvarka.
+2 dalis galioja iki 2009 m. vasario 28 d.
 3. Valstybės biudžetas tvirtinamas pagal rodiklius, nurodytus šio
 Įstatymo 18 straipsnio 2 dalyje.
 4. Atitinkamų metų Valstybės biudžeto ir savivaldybių biudžetų
@@ -540,6 +540,9 @@ Straipsnio
 pakeitimai:
 Nr. X-1354,
 2007-12-06, Žin., 2007, Nr. 132-5357 (2007-12-15)
+Nr.
+XI-67,
+2008-12-16, Žin., 2008, Nr. 146-5867 (2008-12-20)
  
 TREČIASIS SKIRSNIS
 SAVIVALDYBIŲ BIUDŽETAI
@@ -549,8 +552,8 @@ SAVIVALDYBIŲ BIUDŽETAI
 sukaupiamos lėšos, reikalingos įstatymų priskirtoms funkcijoms ir savivaldybėms
 įstatymų perduotoms valstybės funkcijoms atlikti.
 2. Kiekviena savivaldybė turi savarankišką biudžetą.
-3. Savivaldybių biudžetai
-tvirtinami be biudžeto deficito.
+3. Savivaldybių
+biudžetai tvirtinami be biudžeto deficito.
 Straipsnio
 pakeitimai:
 Nr. X-1354,
@@ -604,10 +607,10 @@ nustatytas taisykles.
 biudžetų rengimas ir tvirtinimas
 1. Savivaldybių biudžetų projektus rengia savivaldybių vykdomosios
 institucijos, remdamosi šiuo Įstatymu, kitais įstatymais, Seimo patvirtintais
-savivaldybių biudžetų finansiniais rodikliais, Vyriausybės patvirtintomis
-biudžetų sudarymo ir vykdymo taisyklėmis, valstybinės statistikos duomenimis,
-socialinėmis ir ekonominėmis programomis, taip pat savivaldybių biudžetų asignavimų
-valdytojų programomis ir jų sąmatų projektais. 
+savivaldybių biudžetų finansiniais rodikliais, Vyriausybės patvirtintomis biudžetų
+sudarymo ir vykdymo taisyklėmis, valstybinės statistikos duomenimis,
+socialinėmis ir ekonominėmis programomis, taip pat savivaldybių biudžetų
+asignavimų valdytojų programomis ir jų sąmatų projektais. 
 2. Savivaldybių vykdomosios institucijos parengtus biudžetų projektus
 teikia savivaldybių taryboms savivaldybių tarybų reglamento nustatyta tvarka.
 3. Savivaldybių tarybos svarsto biudžetų projektus atsižvelgdamos į
@@ -764,14 +767,15 @@ Nr. X-1354,
 33 straipsnis. Vyriausybės arba jos įgaliotos
 institucijos teisės
 1. Vyriausybė arba jos įgaliota institucija turi teisę:
-1) Seimo patvirtintus valstybės biudžeto asignavimus paskirstyti pagal programas;
+1) Seimo patvirtintus valstybės biudžeto asignavimus paskirstyti pagal
+programas;
 2) vadovaudamasi
 Europos Sąjungos ir Lietuvos Respublikos teisės aktais, reglamentuojančiais
 Europos Sąjungos finansinės paramos lėšų administravimą, bei atsižvelgdama į
 programų ir projektų vykdymo duomenis, perskirstyti Europos Sąjungos finansinės
 paramos programoms ir projektams numatytas lėšas, įskaitant ir bendrojo
-finansavimo lėšas, tarp asignavimų valdytojų, investavimo sričių, valstybės
-funkcijų ir ekonominės klasifikacijos straipsnių;
+finansavimo lėšas, tarp asignavimų valdytojų, investavimo sričių, valstybės funkcijų
+ir ekonominės klasifikacijos straipsnių;
 3) programų asignavimų
 dalies, kurią sudaro Europos Sąjungos finansinės paramos ir bendrojo
 finansavimo lėšos, laikinam lėšų stygiui padengti panaudoti valstybės
@@ -794,9 +798,9 @@ bendrojo finansavimo lėšų, įgyvendinimo;
 teikiamas savivaldybėms iš valstybės biudžeto;
 8) nustatyti asignavimų darbo užmokesčiui dydį įsipareigojimams,
 susijusiems su dalyvavimu nenumatytose tarptautinėse operacijose.
-2. Vyriausybei arba jos įgaliotai institucijai biudžetinių metų
-Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo
-įstatymu gali būti suteikiamos papildomos teisės.
+2. Vyriausybei arba jos įgaliotai institucijai biudžetinių metų Valstybės
+biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu
+gali būti suteikiamos papildomos teisės.
 Straipsnio
 pakeitimai:
 Nr. X-1354,
@@ -826,8 +830,8 @@ viršplanines ir nepanaudotas įmokų į biudžetą sumas, nepanaudotos program�
 asignavimų dalies, kurią sudaro Europos Sąjungos finansinės paramos ir bendrojo
 finansavimo bei kitos gaunamos finansinės paramos lėšos, sumas.
 2. Valstybės biudžeto įvykdymo ataskaitą rengia Finansų ministerija,
-remdamasi valstybės biudžeto buhalterinės apskaitos duomenimis – į valstybės biudžetą gautų pajamų ir valstybės
-biudžeto asignavimų valdytojų pateiktomis biudžeto programų sąmatų įvykdymo
+remdamasi valstybės biudžeto buhalterinės apskaitos duomenimis – į valstybės biudžetą gautų pajamų ir valstybės biudžeto
+asignavimų valdytojų pateiktomis biudžeto programų sąmatų įvykdymo
 ataskaitomis.
 3. Savivaldybių biudžetų
 įvykdymo ataskaitą rengia savivaldybių administracijos, remdamosi savivaldybių
@@ -884,8 +888,8 @@ Nr. X-1826,
 2008-11-14, Žin., 2008, Nr. 137-5375 (2008-11-29)
  
 36 straipsnio redakcija iki tų metų, kurių ataskaitų
-rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
-sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
+rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo sektoriaus
+atskaitomybės įstatymą, sausio 1 dieną:
 36 straipsnis. Biudžeto
 įvykdymo ataskaitų tvirtinimas
 1. Vyriausybė gautą valstybės biudžeto įvykdymo ataskaitą išnagrinėja,
@@ -944,9 +948,9 @@ panaudoti galimu ekonomiškiausiu ir efektyviausiu būdu, ar naudojant
 asignavimus nepadaryta teisės aktų pažeidimų, taip pat kiek pasiekti programose
 nustatyti tikslai.
  
-3 dalies redakcija iki tų metų, kurių ataskaitų rinkinius
-viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo sektoriaus
-atskaitomybės įstatymą, sausio 1 dieną:
+3 dalies redakcija iki tų metų, kurių ataskaitų
+rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
+sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
 3. Savivaldybių biudžetų vykdymo, savivaldybių biudžetų asignavimų
 valdytojų programų sąmatų, savivaldybių biudžetų lėšų apskaitos ir finansinės
 atskaitomybės auditą atlieka savivaldybių kontrolierių tarnybos.
@@ -964,8 +968,8 @@ Vidaus kontrolės ir vidaus audito įstatymu (Žin., 2002, Nr. 123-5540) ir
 kitais vidaus auditą reglamentuojančiais teisės aktais.
 Straipsnio pakeitimai:
 Nr.
-X-1218,
-2007-06-26, Žin., 2007, Nr. 77-3050 (2007-07-12)
+X-1218, 2007-06-26,
+Žin., 2007, Nr. 77-3050 (2007-07-12)
 Nr. X-1826,
 2008-11-14, Žin., 2008, Nr. 137-5375 (2008-11-29)
  
@@ -1123,8 +1127,8 @@ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 15.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-1089,
-2002-09-19, Žin., 2002, Nr. 96-4167 (2002-10-04)
+Nr. IX-1089, 2002-09-19,
+Žin., 2002, Nr. 96-4167 (2002-10-04)
 BIUDŽETO
 SANDAROS ĮSTATYMO 18 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
@@ -1230,6 +1234,18 @@ X-1691,
 BIUDŽETO
 SANDAROS ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+27.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-67, 2008-12-16,
+Žin., 2008, Nr. 146-5867 (2008-12-20)
+BIUDŽETO
+SANDAROS ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šio
+įstatymo 1 straipsnio 2 dalis galioja iki 2009 m. vasario 28 d.
+Šio
+įstatymo 1 straipsnio 3 dalis įsigalioja 2009 m. kovo 1 d.
+ 
  
 ***
 Pabaiga ***
@@ -1254,6 +1270,6 @@ Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2008-12-02)
+Aušrinė Trapinskienė (2008-12-22)
                  
 autrap@lrs.lt
