@@ -609,45 +609,21 @@ Nr. X-1396,
  
 9 straipsnis.
 Socialinio draudimo įmokų mokėjimas 
- 
-1 dalies
-redakcija iki 2009 m. sausio 1 d.:
 1. Draudėjo ir apdraustojo asmens
 socialinio draudimo įmokas į Fondą priskaičiuoja, išskaito ir moka draudėjas
 nuo tos dienos, kurią apdraustasis asmuo pradeda dirbti, neatsižvelgdamas į
 draudėjo įregistravimo teritorinėje mokesčių inspekcijoje datą. Už asmenis,
-nurodytus šio įstatymo 4 straipsnio 2 dalies 3 punkte, socialinio draudimo įmokas
-sumoka valstybės institucija, perkėlusi ar išsiuntusi valstybės tarnautoją į
-pareigas Lietuvos Respublikos diplomatinėje atstovybėje, konsulinėje įstaigoje,
-Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos, tarptautinėje
-ar Europos Sąjungos institucijoje, ar užsienio valstybės institucijoje,
-pasiuntusi dirbti į specialiąją misiją ar paskyrusi profesinės karo tarnybos
-karį atlikti karo tarnybą Lietuvos Respublikos diplomatinėje atstovybėje,
+nurodytus šio įstatymo 4 straipsnio 2 dalies 3 punkte, socialinio draudimo
+įmokas sumoka valstybės institucija, perkėlusi ar išsiuntusi valstybės
+tarnautoją į pareigas Lietuvos Respublikos diplomatinėje atstovybėje,
 konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie tarptautinės
-organizacijos, užsienio valstybės ar tarptautinėje karinėje ar gynybos
-institucijoje, taip pat asmenį delegavusi
-Lietuvos Respublikos deleguojančioji institucija. Socialinio draudimo įmokos mokamos iš valstybės institucijoms patvirtintų
-Lietuvos Respublikos valstybės biudžeto asignavimų.
-1 dalies
-redakcija nuo 2009 m. sausio 1 d.:
-1. Draudėjo ir apdraustojo asmens socialinio
-draudimo įmokas į Fondą priskaičiuoja, išskaito ir moka
-draudėjas nuo tos dienos, kurią apdraustasis asmuo pradeda dirbti,
-neatsižvelgdamas į draudėjo įregistravimo teritorinėje mokesčių inspekcijoje
-datą. Už asmenis, nurodytus šio įstatymo 4 straipsnio 2 dalies 3 punkte, socialinio draudimo įmokas sumoka valstybės
-institucija, perkėlusi ar išsiuntusi valstybės tarnautoją į pareigas Lietuvos
-Respublikos diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos
-Respublikos atstovybėje prie tarptautinės organizacijos, tarptautinėje ar
-Europos Sąjungos institucijoje arba užsienio valstybės institucijoje, pasiuntusi
-dirbti į specialiąją misiją ar paskyrusi profesinės karo tarnybos karį atlikti
-karo tarnybą Lietuvos Respublikos diplomatinėje atstovybėje, konsulinėje
-įstaigoje, Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos,
-užsienio valstybės ar tarptautinėje karinėje arba gynybos institucijoje, taip
-pat asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija, Respublikos
-Prezidento kanceliarija. Socialinio draudimo
-įmokos mokamos iš valstybės institucijoms patvirtintų Lietuvos Respublikos
-valstybės biudžeto asignavimų.
- 
+organizacijos, tarptautinėje ar Europos Sąjungos institucijoje, ar užsienio
+valstybės institucijoje, pasiuntusi dirbti į specialiąją misiją ar paskyrusi
+profesinės karo tarnybos karį atlikti karo tarnybą Lietuvos Respublikos
+diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos
+atstovybėje prie tarptautinės organizacijos, užsienio valstybės ar
+tarptautinėje karinėje ar gynybos institucijoje, taip pat asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija. Socialinio draudimo įmokos mokamos iš valstybės
+institucijoms patvirtintų Lietuvos Respublikos valstybės biudžeto asignavimų.
 2. Priskaičiuotas socialinio draudimo
 įmokas draudėjas sumoka ne vėliau kaip iki kito mėnesio 15 dienos, išskyrus
 šiame įstatyme nustatytus atvejus.
@@ -655,8 +631,8 @@ valstybės biudžeto asignavimų.
 kooperatyvai ir ūkininkai už samdomus darbuotojus socialinio draudimo įmokas į
 Fondą gali sumokėti iš anksto draudėjo ir Fondo valdybos teritorinio skyriaus
 pasirašytose sutartyse nustatytu laiku, bet ne vėliau kaip iki lapkričio 15
-dienos. Kalendoriniais metais gali būti pasirašyta tik atsiskaitymo už
-einamuosius kalendorinius metus sutartis.
+dienos. Kalendoriniais metais gali būti pasirašyta tik atsiskaitymo už einamuosius
+kalendorinius metus sutartis.
 4. Šio įstatymo 4 straipsnio 3 dalyje ir
 4 dalies 1 punkte nurodytų asmenų socialinio draudimo įmokos mokamos taip:
 individualios įmonės moka įmokas už šių įmonių savininkus, tikrosios ūkinės
@@ -704,8 +680,9 @@ Vyriausybės nustatyta tvarka.
 9. Pertvarkomų individualių įmonių
 savininkų, tikrųjų ūkinių bendrijų ir komanditinių ūkinių bendrijų tikrųjų
 narių prievolė mokėti socialinio draudimo įmokas pagrindinei ir papildomai
-pensijos dalims nustatoma pagal pertvarkymo dieną socialiniam draudimui jų pačių
-deklaruotas pajamų sumas už mokestinį laikotarpį iki pertvarkymo pabaigos.
+pensijos dalims nustatoma pagal pertvarkymo dieną socialiniam draudimui jų
+pačių deklaruotas pajamų sumas už mokestinį laikotarpį iki pertvarkymo
+pabaigos.
 10. Socialinio draudimo įmokų mokėjimo
 tvarką nustato Valstybinio socialinio draudimo fondo biudžeto sudarymo ir
 vykdymo taisyklės. 
@@ -724,6 +701,8 @@ Nr. X-1397,
 2007-12-20, Žin., 2007, Nr. 138-5652 (2007-12-29)
 Nr.
 X-1800, 2008-11-11, Žin., 2008, Nr. 135-5236 (2008-11-25)
+Nr. XI-92, 2008-12-19, Žin., 2008, Nr. 149-6018
+(2008-12-30)
  
 10 straipsnis.
 Pranešimų apie apskaičiuotas socialinio draudimo įmokas pateikimas ir
@@ -819,10 +798,10 @@ priverstinai išieškoti socialinio draudimo įmokas atsiradimo dienos.
 Delspinigių dydį ir jo apskaičiavimo tvarką nustato finansų ministras.
 2. Jei patikrinimo metu nustatoma, kad socialinio
 draudimo įmokos neteisėtai sumažintos, priskaičiuojama trūkstama socialinio
-draudimo įmokų suma ir skiriama 50 procentų šios sumos dydžio bauda. Šiuo atveju
-delspinigiai, numatyti šio straipsnio 1 dalyje, neskaičiuojami. Jeigu draudėjas
-pastebėjo, kad priskaičiavo per mažas socialinio draudimo įmokas, bet iki
-datos, nurodytos pavedime patikrinti draudėją (jei pavedimo nėra, – iki
+draudimo įmokų suma ir skiriama 50 procentų šios sumos dydžio bauda. Šiuo
+atveju delspinigiai, numatyti šio straipsnio 1 dalyje, neskaičiuojami. Jeigu
+draudėjas pastebėjo, kad priskaičiavo per mažas socialinio draudimo įmokas, bet
+iki datos, nurodytos pavedime patikrinti draudėją (jei pavedimo nėra, – iki
 tikrinimo pradžios), klaidas savanoriškai ištaisė, sumokėjo trūkstamą
 socialinio draudimo įmokų sumą, pristatė patikslintas ataskaitas ir informavo
 apie apdraustųjų asmenų draudžiamąsias pajamas, bauda už padarytą pažeidimą
@@ -845,11 +824,10 @@ biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka gali atleisti draudė
 nuo priskaičiuotų delspinigių ir (ar) baudų mokėjimo, jei draudėjas įrodo, kad
 priskaičiavo per mažas socialinio draudimo įmokas dėl aplinkybių, kurios
 nepriklausė nuo jo valios ir kurių jis nenumatė ir negalėjo numatyti. 
-6. Fondo valdybos teritoriniai skyriai gali atidėti
-baudų išieškojimą iki vienų metų, nustatydami baudos mokėjimo grafiką
-Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse
-nustatyta tvarka. Pažeidus mokėjimo grafiką taikomas išieškojimas priverstine
-tvarka.
+6. Fondo valdybos teritoriniai skyriai gali atidėti baudų
+išieškojimą iki vienų metų, nustatydami baudos mokėjimo grafiką Valstybinio
+socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta
+tvarka. Pažeidus mokėjimo grafiką taikomas išieškojimas priverstine tvarka.
 7. Į Fondą nesumokėtų draudėjų ir apdraustųjų asmenų
 socialinio draudimo įmokų ir priskaičiuotų delspinigių bei baudų priverstinio
 išieškojimo senaties terminas yra 5 metai. 
@@ -858,20 +836,18 @@ ir baudas atsiranda nuo kitos dienos, kai socialinio draudimo įmokos,
 delspinigiai ir baudos turėjo būti sumokėtos. Priverstinio išieškojimo senaties
 terminas pradedamas skaičiuoti nuo teisės priverstinai išieškoti laiku
 nesumokėtas socialinio draudimo įmokas, baudas ir delspinigius atsiradimo
-dienos. Priverstinio išieškojimo senaties terminas taikomas tik nuo 2005 m.
-sausio 1 d. atsiradusioms socialinio draudimo įmokų, baudų ir delspinigių
-skoloms.
+dienos. Priverstinio išieškojimo senaties terminas taikomas tik nuo 2005 m. sausio 1 d. atsiradusioms socialinio draudimo įmokų, baudų ir delspinigių skoloms.
 9. Suėjus laiku nesumokėtų socialinio draudimo įmokų
 priverstinio išieškojimo senaties terminui, pasibaigia ir su jomis susijusių
 priskaičiuotų delspinigių ir (ar) baudų priverstinio išieškojimo senaties
 terminas.
 10. Šio įstatymo 17 straipsnyje nurodytais būdais
 pradėjus laiku nesumokėtų socialinio draudimo įmokų, delspinigių ir baudų
-priverstinio išieškojimo procedūras, jos užbaigiamos, o priverstinio išieškojimo
-senaties terminas nutraukiamas. Nutrauktas priverstinio išieškojimo senaties
-terminas prasideda iš naujo nuo to momento, kai išnyko aplinkybės, kurios buvo
-pagrindas priverstinio išieškojimo senaties terminui nutraukti. Iki senaties
-termino nutraukimo praėjęs laikas į naują terminą neįskaičiuojamas.
+priverstinio išieškojimo procedūras, jos užbaigiamos, o priverstinio
+išieškojimo senaties terminas nutraukiamas. Nutrauktas priverstinio išieškojimo
+senaties terminas prasideda iš naujo nuo to momento, kai išnyko aplinkybės,
+kurios buvo pagrindas priverstinio išieškojimo senaties terminui nutraukti. Iki
+senaties termino nutraukimo praėjęs laikas į naują terminą neįskaičiuojamas.
 11. Duomenys apie draudžiamąsias pajamas ir socialinio
 draudimo įmokas gali būti tikslinami už ne ilgesnį kaip 5 metų laikotarpį nuo
 draudėjo kreipimosi dienos. Pagal apdraustojo asmens prašymą duomenys apie
@@ -917,8 +893,8 @@ jeigu jie skolingi ir nemoka socialinio draudimo įmokų ilgiau kaip 3 mėnesius
 2) kreiptis dėl draudėjo turto
 priverstinės hipotekos ar įkeitimo įregistravimo Civilinio proceso kodekso
 nustatyta tvarka;
-3) areštuoti draudėjo turtą, jeigu Fondui
-nesumokėtos socialinio draudimo įmokos, baudos ir (ar) delspinigiai.
+3) areštuoti draudėjo turtą, jeigu
+Fondui nesumokėtos socialinio draudimo įmokos, baudos ir (ar) delspinigiai.
 3. Fondo valdybos teritoriniai skyriai
 įmokų, delspinigių, baudų išieškojimą gali perduoti antstoliams.
 Straipsnio pakeitimai:
@@ -951,8 +927,8 @@ biudžetas, neįtraukiamas į valstybės, savivaldybių ir kitus biudžetus.
 įtraukiamas trumpalaikis ir ilgalaikis turtas, įgytas Fondo lėšomis ar gautas
 iš kitų subjektų neatlygintinai. Šis turtas yra valstybės nuosavybė ir gali
 būti naudojamas tik socialinio draudimo reikmėms bei papildomoms Fondo biudžeto
-pajamoms gauti. Perduodant šį turtą kitoms valstybės institucijoms ir įstaigoms,
-Fondui turi būti kompensuojama jo vertė.
+pajamoms gauti. Perduodant šį turtą kitoms valstybės institucijoms ir
+įstaigoms, Fondui turi būti kompensuojama jo vertė.
 3. Fondo biudžeto sudarymą, vykdymą ir
 finansinę atskaitomybę reglamentuoja Valstybinio socialinio draudimo fondo
 biudžeto sandaros įstatymas ir Valstybinio socialinio draudimo fondo biudžeto
@@ -971,8 +947,8 @@ nepakankamu dydžiu.
 2. Asignavimai iš valstybės biudžeto ar
 kitų valstybės piniginių išteklių gali būti
 skiriami išlaidoms, susijusioms su pensijų sistemos reforma, kompensuojant
-socialinio draudimo įmokų sumas, pervedamas į pensijų kaupimo bendrovių valdomus
-pensijų fondus.
+socialinio draudimo įmokų sumas, pervedamas į pensijų kaupimo bendrovių
+valdomus pensijų fondus.
 3. Valstybės biudžeto asignavimai Fondo
 biudžetui nustatomi atitinkamų metų Valstybinio socialinio draudimo fondo
 biudžeto rodiklių patvirtinimo įstatymu.
@@ -986,10 +962,10 @@ apyvartos operacijas atlieka nemokamai.
 2. Kredito įstaiga Fondo administravimo įstaigos
 nurodymą nurašyti iš šioje kredito įstaigoje asmens atidarytos sąskaitos laiku
 nesumokėtas socialinio draudimo įmokas, delspinigius ir baudas privalo įvykdyti
-per Mokėjimų įstatyme nustatytą mokėjimo nurodymo įvykdymo terminą. Kredito
-įstaiga Fondo administravimo įstaigos nurodymą nurašyti iš šioje kredito
-įstaigoje esančio asmens indėlio su priklausančiomis palūkanomis nesumokėtas
-socialinio draudimo įmokas, delspinigius ir baudas privalo įvykdyti pagal pirmą
+per Mokėjimų įstatyme nustatytą mokėjimo nurodymo įvykdymo terminą. Kredito įstaiga
+Fondo administravimo įstaigos nurodymą nurašyti iš šioje kredito įstaigoje
+esančio asmens indėlio su priklausančiomis palūkanomis nesumokėtas socialinio
+draudimo įmokas, delspinigius ir baudas privalo įvykdyti pagal pirmą
 indėlininko pareikalavimą arba suėjus indėlio terminui. Fondo administravimo
 įstaigos nurodymas nurašyti iš šioje kredito įstaigoje atidarytos asmens
 sąskaitos nesumokėtas socialinio draudimo įmokas, delspinigius ir baudas turi
@@ -998,17 +974,16 @@ mažesnė negu nurašytina pinigų suma. Tokiu atveju nurašymas turi būti
 atliekamas dalimis tol, kol iš draudėjo sąskaitos bus nurašyta visa nurodyta
 suma. Fondo administravimo įstaigos nurodymas nurašyti iš šioje kredito
 įstaigoje esančio asmens indėlio su priklausančiomis palūkanomis laiku
-nesumokėtas socialinio draudimo įmokas, delspinigius ir baudas turi būti
-priimamas bei vykdomas ir tada, kai draudėjo indėlio suma yra mažesnė negu
-nurašytina pinigų suma. Tokiu atveju nurodymas nurašyti laiku nesumokėtas
-socialinio draudimo įmokas, delspinigius ir baudas įvykdomas tokia dalimi,
-kokio dydžio yra asmens indėlis kartu su priklausančiomis palūkanomis. Fondo
-administravimo įstaigos sumažina nurodyme, kuris jau pateiktas kredito
-įstaigai, numatytą nurašyti sumą, jei laiku nesumokėtos socialinio draudimo
-įmokos, neginčytini delspinigiai ir neginčijamos baudos iš dalies padengiami
-kitokiu būdu. Šiuo atveju Fondo administravimo įstaigos apie reikalavimo
-sumažinimą nedelsdamos praneša kredito įstaigai, o ši pateiktą nurodymą vykdo
-patikslindama sumas.
+nesumokėtas socialinio draudimo įmokas, delspinigius ir baudas turi būti priimamas
+bei vykdomas ir tada, kai draudėjo indėlio suma yra mažesnė negu nurašytina
+pinigų suma. Tokiu atveju nurodymas nurašyti laiku nesumokėtas socialinio
+draudimo įmokas, delspinigius ir baudas įvykdomas tokia dalimi, kokio dydžio
+yra asmens indėlis kartu su priklausančiomis palūkanomis. Fondo administravimo
+įstaigos sumažina nurodyme, kuris jau pateiktas kredito įstaigai, numatytą
+nurašyti sumą, jei laiku nesumokėtos socialinio draudimo įmokos, neginčytini
+delspinigiai ir neginčijamos baudos iš dalies padengiami kitokiu būdu. Šiuo
+atveju Fondo administravimo įstaigos apie reikalavimo sumažinimą nedelsdamos
+praneša kredito įstaigai, o ši pateiktą nurodymą vykdo patikslindama sumas.
 3. Jei kredito įstaigai yra pateiktas Fondo
 administravimo įstaigos nurodymas priverstine tvarka nurašyti nesumokėtas
 socialinio draudimo įmokas, delspinigius ir baudas iš draudėjo sąskaitos ir
@@ -1021,16 +996,16 @@ dokumentų pateikimo datą. Jeigu šio straipsnio 2 dalyje numatytu atveju Fondo
 administravimo įstaiga patikslina nurašytiną sumą, nurodymo pateikimo data
 nesikeičia.
 Straipsnio pakeitimai:
-Nr. X-1396,
-2007-12-20, Žin., 2007, Nr. 138-5651 (2007-12-29)
+Nr. X-1396, 2007-12-20,
+Žin., 2007, Nr. 138-5651 (2007-12-29)
  
 22 straipsnis.
 Fondo valdybos santykiai su fondais
-1. Fondo valdyba gautas nedarbo socialinio
-draudimo įmokas, taip pat papildomai išieškotas nedarbo socialinio draudimo
-įmokas Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo
-taisyklėse nustatytais terminais ir tvarka perveda į Lietuvos darbo biržos
-sąskaitą.
+1. Fondo valdyba gautas nedarbo
+socialinio draudimo įmokas, taip pat papildomai išieškotas nedarbo socialinio
+draudimo įmokas Valstybinio socialinio draudimo fondo biudžeto sudarymo ir
+vykdymo taisyklėse nustatytais terminais ir tvarka perveda į Lietuvos darbo
+biržos sąskaitą.
 2. Fondo valdyba Sveikatos
 draudimo įstatymo nustatytas ir gautas privalomojo sveikatos draudimo
 įmokas, taip pat papildomai išieškotas privalomajam sveikatos draudimui
@@ -1076,8 +1051,8 @@ ministerija;
 3) Fondo valdyba;
 4) Fondo valdybos teritoriniai skyriai
 ir kitos įstaigos.
-2. Socialinio draudimo sistemos
-dalyviais taip pat yra:
+2. Socialinio draudimo sistemos dalyviais
+taip pat yra:
 1) draudėjai ir apdraustieji;
 2) Valstybinė mokesčių inspekcija;
 3) Lietuvos darbo birža prie Socialinės
@@ -1193,10 +1168,10 @@ vadovaujama direktoriaus. Šį konkurso tvarka skiria į pareigas ir atleidžia 
 jų socialinės apsaugos ir darbo ministras Valstybės tarnybos įstatymo nustatyta
 tvarka. Fondo valdybos direktorius yra tiesiogiai atskaitingas socialinės
 apsaugos ir darbo ministrui. 
-4. Fondo valdyba, vadovaudamasi
-Valstybinio socialinio draudimo fondo valdybos nuostatais ir kitais teisės
-aktais, socialinio draudimo funkcijoms vykdyti steigia Fondo valdybos
-teritorinius skyrius bei kitas įstaigas ir tvirtina jų nuostatus.
+4. Fondo valdyba, vadovaudamasi Valstybinio
+socialinio draudimo fondo valdybos nuostatais ir kitais teisės aktais,
+socialinio draudimo funkcijoms vykdyti steigia Fondo valdybos teritorinius
+skyrius bei kitas įstaigas ir tvirtina jų nuostatus.
  
 29 straipsnis.
 Fondo valdybos funkcijos ir teisės
@@ -1246,8 +1221,8 @@ draudėjų, socialinio draudimo išmokų gavėjų, asmens sveikatos priežiūros
 darbuotojų veiksmų ir sprendimų;
 16) organizuoja ir vykdo laikinojo
 nedarbingumo, ilgalaikio ir pastovaus darbingumo netekimo (invalidumo)
-nustatymo pagrįstumo, teisėtumo ir teisingumo tikrinimus, tais klausimais
-teikia metodinę ir praktinę pagalbą Fondo valdybos teritoriniams skyriams;
+nustatymo pagrįstumo, teisėtumo ir teisingumo tikrinimus, tais klausimais teikia
+metodinę ir praktinę pagalbą Fondo valdybos teritoriniams skyriams;
 17) teikia siūlymus Socialinės apsaugos
 ir darbo ministerijai dėl socialinio draudimo teisės aktų tobulinimo ar
 pakeitimo;
@@ -1274,16 +1249,16 @@ funkcijoms atlikti;
 vertybinių popierių ir juos valdyti bei jais disponuoti;
 3) įstatymų nustatyta tvarka sudaryti
 sutartis su Lietuvos Respublikos ir užsienio šalių ūkio subjektais;
-4) atstovauti Fondo administravimo
-įstaigoms tarptautinėse organizacijose;
+4) atstovauti Fondo administravimo įstaigoms
+tarptautinėse organizacijose;
 5) įstatymų nustatyta tvarka steigti
 įmones ar įstaigas, susijusias su valstybinio socialinio draudimo funkcijų
 vykdymu arba padedančias jas vykdyti, bei tvirtinti jų nuostatus;
 6)
 Fondo tarybos pritarimu atsisakyti arba Fondo valdybos nustatyta tvarka
 perleisti visus ar dalį kreditorinių finansinių reikalavimų;
-7) suderinusi su Fondo taryba įgyvendinti
-priemones papildomoms pajamoms gauti;
+7) suderinusi su Fondo taryba
+įgyvendinti priemones papildomoms pajamoms gauti;
 8) atidėti socialinio draudimo įmokų už
 apdraustuosius asmenis įsiskolinimo mokėjimą iki vienų metų ir priskaičiuotų
 delspinigių nuo pavėluotai pervestų socialinio draudimo įmokų už apdraustuosius
@@ -1295,10 +1270,10 @@ ekonominiu požiūriu, kai: nerasta socialinio draudimo įmokų mokėtojo turto 
 rastas turtas yra nelikvidus (mažai likvidus); priverstinio išieškojimo
 išlaidos didesnės už mokestinę nepriemoką; netikslinga priverstinai išieškoti
 nepriemoką, kadangi sunki fizinio asmens ekonominė (socialinė) padėtis:
-fiziniam asmeniui reikia valstybės paramos (asmuo yra pensinio amžiaus,
-neįgalusis (iki 2005 m. liepos 1 d. – invalidas), asmeniui reikalingas gydymas,
-medicininė profilaktika ir reabilitacija, asmuo yra bedarbis, gauna socialinę
-pašalpą) arba tokia parama jau teikiama;
+fiziniam asmeniui reikia valstybės paramos (asmuo yra pensinio amžiaus, neįgalusis
+(iki 2005 m. liepos 1 d. – invalidas), asmeniui reikalingas gydymas, medicininė
+profilaktika ir reabilitacija, asmuo yra bedarbis, gauna socialinę pašalpą)
+arba tokia parama jau teikiama;
 10) Vyriausybės ar jos įgaliotos institucijos
 nustatyta tvarka ginčyti darbingumo lygio (darbingumo netekimo), jo
 priežasties, atsiradimo laiko ir termino nustatymo teisingumą; 
@@ -1327,16 +1302,15 @@ direktorius Valstybės tarnybos įstatymo nustatyta tvarka.
 yra išlaikomi iš Fondo lėšų ir veikia pagal šį įstatymą ir Fondo valdybos
 tvirtinamus Valstybinio socialinio draudimo fondo valdybos teritorinių skyrių
 ir kitų įstaigų nuostatus.
-3. Fondo valdybos teritoriniai skyriai
-steigiami socialinio draudimo funkcijoms vykdyti, atsižvelgiant į klientų
-srautus ir jų poreikius. Fondo valdybos teritorinių skyrių veiklą reglamentuoja
-jų nuostatai.
+3. Fondo valdybos teritoriniai skyriai steigiami
+socialinio draudimo funkcijoms vykdyti, atsižvelgiant į klientų srautus ir jų
+poreikius. Fondo valdybos teritorinių skyrių veiklą reglamentuoja jų nuostatai.
 4. Fondo valdybos teritoriniai skyriai
 yra biudžetinės įstaigos, turinčios antspaudą su savo pavadinimu ir Lietuvos
 valstybės herbu, spaudą su pavadinimu ir įstatymų nustatyta tvarka patvirtinta
 simbolika, atsiskaitomąsias bei specialiųjų lėšų sąskaitas Lietuvos
-Respublikoje registruotose kredito įstaigose ir sudarančios veiklos sąnaudų ir
-Fondo valdybos teritorinio skyriaus finansines ataskaitas. 
+Respublikoje registruotose kredito įstaigose ir sudarančios veiklos sąnaudų ir Fondo
+valdybos teritorinio skyriaus finansines ataskaitas. 
 5. Kitų Fondo įstaigų veiklą
 reglamentuoja jų nuostatai, tvirtinami Fondo valdybos direktoriaus. Šių įstaigų
 nuostatuose nustatomi įstaigų uždaviniai, funkcijos, teisės, darbo
@@ -1346,18 +1320,18 @@ organizavimas, finansavimas, valdymas, veiklos kontrolė ir kt.
 Fondo valdybos teritorinių skyrių funkcijos
 Fondo valdybos teritoriniai skyriai:
 1) kontroliuoja priskaičiuotų socialinio
-draudimo įmokų, baudų, delspinigių sumokėjimą ir vykdo laiku nesumokėtų
-socialinio draudimo įmokų, baudų ir delspinigių priverstinį išieškojimą;
+draudimo įmokų, baudų, delspinigių sumokėjimą ir vykdo laiku nesumokėtų socialinio
+draudimo įmokų, baudų ir delspinigių priverstinį išieškojimą;
 2) priima prašymus gauti pensiją,
 pašalpą ar kitą išmoką ir ją skiria;
 3) tvarko apdraustųjų asmenų įskaitą ir
-kontroliuoja duomenų keitimo apdraustųjų asmenų įskaitoje pagrįstumą bei
-išduoda asmenims nustatytos formos valstybinio socialinio draudimo pažymėjimus;
+kontroliuoja duomenų keitimo apdraustųjų asmenų įskaitoje pagrįstumą bei išduoda
+asmenims nustatytos formos valstybinio socialinio draudimo pažymėjimus;
 4) analizuoja socialinio draudimo
 rodiklius ir įgyvendina priemones šiems rodikliams pagerinti, teikia
 atitinkamus pasiūlymus Fondo valdybai;
-5) Fondo valdybos nustatyta tvarka
-atlieka socialinio draudimo lėšų apskaitą;
+5) Fondo valdybos nustatyta tvarka atlieka
+socialinio draudimo lėšų apskaitą;
 6) apskaičiuoja delspinigius;
 7) priverstine tvarka išieško iš
 draudėjų lėšas, jų išmokėtas iš Fondo pažeidžiant nustatytą tvarką;
@@ -1391,11 +1365,11 @@ prilyginamas pajamas;
 (išskyrus baudas, skiriamas vadovaujantis Administracinių teisės pažeidimų
 kodeksu) išieškojimą iki vienų metų, socialinio draudimo įmokų už savarankiškai
 dirbančius asmenis įsiskolinimo mokėjimą iki vienų metų ir delspinigių,
-priskaičiuotų nuo pavėluotai pervestų socialinio draudimo įmokų už
-savarankiškai dirbančius asmenis, išieškojimo laiką;
+priskaičiuotų nuo pavėluotai pervestų socialinio draudimo įmokų už savarankiškai
+dirbančius asmenis, išieškojimo laiką;
 18) teisės aktų
-nustatyta tvarka teikia duomenis apie draudėją, apdraustąjį asmenį arba socialinio
-draudimo išmokos gavėją;
+nustatyta tvarka teikia duomenis apie draudėją, apdraustąjį asmenį arba
+socialinio draudimo išmokos gavėją;
 19) sudaro sutartis
 su šio įstatymo 4 straipsnio 6 dalyje nurodytais asmenimis ir tvarko šių asmenų
 įskaitą;
@@ -1544,8 +1518,8 @@ tarnautojų nurodymus ir nedelsdami pranešti
 Fondo administravimo įstaigai apie priimtas priemones;
 5) duoti nurodymą skolininko darbdaviui,
 pensijos, stipendijos, pašalpos mokėtojui išieškoti iš skolininko darbo
-užmokesčio, pensijos, stipendijos, pašalpos nesumokėtas socialinio draudimo įmokas,
-delspinigius ir baudas į Fondą; 
+užmokesčio, pensijos, stipendijos, pašalpos nesumokėtas socialinio draudimo
+įmokas, delspinigius ir baudas į Fondą; 
 6) teikti Juridinių asmenų registro
 tvarkytojui pasiūlymus dėl draudėjo likvidavimo inicijavimo Civilinio kodekso
 nustatytais atvejais;
@@ -1553,8 +1527,8 @@ nustatytais atvejais;
 4. Fondo valdybos direktorius ir jo
 pavaduotojai turi teisę:
 1) kreiptis dėl draudėjo turto
-priverstinės hipotekos ar įkeitimo įregistravimo Civilinio proceso kodekse
-nustatyta tvarka; 
+priverstinės hipotekos ar įkeitimo įregistravimo Civilinio proceso kodekse nustatyta
+tvarka; 
 2) areštuoti draudėjo turtą, jeigu
 nesumokėtos Fondui socialinio draudimo įmokos, baudos ir (ar) delspinigiai;
 3) atsisakyti socialinio draudimo
@@ -1567,8 +1541,7 @@ socialiniu ir (arba) ekonominiu požiūriu, kai: nerasta asmens turto arba rasta
 turtas yra nelikvidus (mažai likvidus); išieškojimo išlaidos didesnės už
 išmokos permoką; netikslinga išieškoti išmokos permoką, kadangi sunki fizinio
 asmens ekonominė (socialinė) padėtis: fiziniam asmeniui reikia valstybės
-paramos (asmuo yra pensinio amžiaus, neįgalusis (iki 2005 m. liepos 1 d. –
-invalidas), asmeniui reikalingas gydymas, medicininė profilaktika ir
+paramos (asmuo yra pensinio amžiaus, neįgalusis (iki 2005 m. liepos 1 d. – invalidas), asmeniui reikalingas gydymas, medicininė profilaktika ir
 reabilitacija, asmuo yra bedarbis, gauna socialinę pašalpą) arba tokia parama
 jau teikiama.
 5. Fondo valdybos teritorinių skyrių
@@ -1586,19 +1559,19 @@ Nr. X-1396,
 2007-12-20, Žin., 2007, Nr. 138-5651 (2007-12-29)
  
 37 straipsnis. Fondo administravimo įstaigų sprendimų ir veiksmų apskundimas
-1. Draudėjai, apdraustieji
-asmenys ir kiti suinteresuoti asmenys (toliau šiame straipsnyje – suinteresuoti
-asmenys) turi teisę apskųsti Fondo valdybos teritorinių skyrių ir kitų Fondo
-įstaigų, susijusių su Valstybinio socialinio draudimo fondo administravimu,
-sprendimus ir veiksmus (neveikimą) Fondo valdybai. Fondo valdyba yra privaloma
-išankstinio ginčų nagrinėjimo ne teismo tvarka institucija.
+1. Draudėjai,
+apdraustieji asmenys ir kiti suinteresuoti asmenys (toliau šiame straipsnyje –
+suinteresuoti asmenys) turi teisę apskųsti Fondo valdybos teritorinių skyrių ir
+kitų Fondo įstaigų, susijusių su Valstybinio socialinio draudimo fondo
+administravimu, sprendimus ir veiksmus (neveikimą) Fondo valdybai. Fondo
+valdyba yra privaloma išankstinio ginčų nagrinėjimo ne teismo tvarka institucija.
 2. Skundai Fondo
 valdybai dėl Fondo valdybos teritorinių skyrių ir kitų Fondo įstaigų, susijusių
 su Valstybinio socialinio draudimo fondo administravimu, sprendimų ir veiksmų
-(neveikimo) nagrinėjami, jeigu jie pateikti per 20 darbo dienų nuo tos dienos,
-kurią suinteresuotas asmuo sužinojo arba turėjo sužinoti apie skundžiamo
-veiksmo atlikimą (neatlikimą) ar sprendimo priėmimą, o skundai dėl nepriimto
-sprendimo – per 20 darbo dienų nuo tos dienos, kurią baigėsi sprendimui priimti
+(neveikimo) nagrinėjami, jeigu jie pateikti per 20 darbo dienų nuo tos dienos, kurią
+suinteresuotas asmuo sužinojo arba turėjo sužinoti apie skundžiamo veiksmo
+atlikimą (neatlikimą) ar sprendimo priėmimą, o skundai dėl nepriimto sprendimo
+– per 20 darbo dienų nuo tos dienos, kurią baigėsi sprendimui priimti
 nustatytas terminas. Skundui paduoti nustatytas terminas, praleistas dėl
 svarbių priežasčių, kurias asmuo pagrindžia atitinkamais dokumentais, Fondo
 valdybos direktoriaus ar jo pavaduotojo sprendimu gali būti atnaujinamas.
@@ -1647,20 +1620,18 @@ Vilnius, 1991 m. gegužės 21 d.
 Respublikos 
                                                                                                 valstybinio
 socialinio draudimo 
-                                                                                                įstatymo
+                                                                                                įstatymo
 
                                                                                                 priedas
  
 ĮGYVENDINAMI
 EUROPOS SĄJUNGOS TEISĖS AKTAI
  
-1. 1971 m. liepos 5 d. Tarybos
-reglamentas 1408/71/EEB dėl socialinės apsaugos sistemų taikymo pagal darbo
-sutartį dirbantiems asmenims, savarankiškai dirbantiems asmenims ir jų šeimos
-nariams, persikeliantiems Bendrijoje.
-2. 1972 m. kovo 21 d. Tarybos
-reglamentas 574/72/EEB, nustatantis Reglamento Nr. 1408/71/EEB dėl socialinės
-apsaugos sistemų taikymo pagal darbo sutartį dirbantiems asmenims,
+1. 1971 m. liepos 5 d. Tarybos reglamentas 1408/71/EEB dėl socialinės apsaugos sistemų taikymo pagal
+darbo sutartį dirbantiems asmenims, savarankiškai dirbantiems asmenims ir jų
+šeimos nariams, persikeliantiems Bendrijoje.
+2. 1972 m. kovo 21 d. Tarybos reglamentas 574/72/EEB, nustatantis Reglamento Nr. 1408/71/EEB dėl
+socialinės apsaugos sistemų taikymo pagal darbo sutartį dirbantiems asmenims,
 savarankiškai dirbantiems asmenims ir jų šeimos nariams, persikeliantiems
 Bendrijoje, įgyvendinimo tvarką.
 _______________
@@ -1812,16 +1783,14 @@ RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 2, 3, 4, 7, 26, 28, 30,
 STRAIPSNIU ĮSTATYMAS
 Įsigaliojus
 šiam įstatymui, ūkininkai atleidžiami nuo nesumokėtų valstybinio socialinio
-draudimo įmokų, delspinigių ir baudų mokėjimo už laikotarpį nuo 1995 m. sausio
-1 d. iki 1999 m. sausio 1 d.
+draudimo įmokų, delspinigių ir baudų mokėjimo už laikotarpį nuo 1995 m. sausio 1 d. iki 1999 m. sausio 1 d.
  
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1355, 99.10.14, Žin., 1999,
 Nr.88-2583 (99.10.20)
-LIETUVOS
-RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO
-ĮSTATYMO 34 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 34
+STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 1999 m. lapkričio 1 d.
 18.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1843,8 +1812,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1705, 00.05.23, Žin., 2000,
 Nr.45-1299 (00.06.02)
 VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 3
-STRAIPSNIO PAKEITIMO IR 20, 21 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS
-ĮSTATYMAS
+STRAIPSNIO PAKEITIMO IR 20, 21 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 Šis įstatymas neteko galios
 nuo 2001 m. sausio 1 d.:
 Lietuvos Respublikos Seimas,
@@ -1897,24 +1865,24 @@ STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 25.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. IX-546, 2001-10-11,
-Žin., 2001, Nr. 91-3189 (2001-10-26)
+Nr. IX-546,
+2001-10-11, Žin., 2001, Nr. 91-3189 (2001-10-26)
 VALSTYBINIO SOCIALINIO DRAUDIMO
 ĮSTATYMO 2, 4, 34, 36, 37(1), 38 STRAIPSNIŲ, IV SKYRIAUS PAVADINIMO PAKEITIMO
 IR 28, 28(1), 29, 30, 31, 32, 33, 35 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS
 ĮSTATYMAS
 1. Ūkininkų
-bei jų ūkių narių socialinio draudimo nuo 2000 m. sausio 1 d. iki 2001 m. kovo
-1 d. stažas skaičiuojamas pagal į Valstybinio socialinio draudimo fondo
-biudžetą faktiškai sumokėtas sumas. 
+bei jų ūkių narių socialinio draudimo nuo 2000 m. sausio 1 d. iki 2001 m. kovo 1 d. stažas skaičiuojamas pagal į Valstybinio socialinio
+draudimo fondo biudžetą faktiškai sumokėtas sumas. 
 2. Į ūkininkų
 ūkių registrą nepersiregistravę ūkininkai atleidžiami nuo nesumokėtų
 valstybinio socialinio draudimo įmokų, delspinigių ir baudų mokėjimo už
 laikotarpį nuo 2000 m. sausio 1 d. iki 2001 m. kovo 1 d. 
 3. Individualių (personalinių)
-įmonių savininkai, ūkininkai bei patentus įsigiję asmenys, sukakę senatvės pensijos
-amžių ir gaunantys šalpos (socialinę) pensiją, atleidžiami nuo nesumokėtų
-valstybinio socialinio draudimo įmokų, delspinigių ir baudų mokėjimo.
+įmonių savininkai, ūkininkai bei patentus įsigiję asmenys, sukakę senatvės
+pensijos amžių ir gaunantys šalpos (socialinę) pensiją, atleidžiami nuo
+nesumokėtų valstybinio socialinio draudimo įmokų, delspinigių ir baudų
+mokėjimo.
  
 26.
 Lietuvos Respublikos Seimas,
@@ -1935,12 +1903,11 @@ VALSTYBINIO SOCIALINIO DRAUDIMO
 PAPILDYMO ĮSTATYMAS
 Šio įstatymo
 įsigaliojimas pakeistas Įstatymu Nr. IX-1229:
-Šis
-Įstatymas, išskyrus 12 straipsnį ir šio straipsnio 2 dalyje numatytą išlygą, įsigalioja
+Šis Įstatymas,
+išskyrus 12 straipsnį ir šio straipsnio 2 dalyje numatytą išlygą, įsigalioja
 nuo 2004 m. sausio 1 d. Valstybinio socialinio draudimo įstatymo 44 straipsnio
 1 dalis įsigalioja nuo 2002 m. spalio 1 d.
-Šis įstatymas neteko galios nuo
-2004 m. sausio 1 d. Tai nusako įstatymas Nr. IX-1831
+Šis įstatymas neteko galios nuo 2004 m. sausio 1 d. Tai nusako įstatymas Nr. IX-1831
 Pakeitimai:
 Lietuvos
 Respublikos Seimas, Įstatymas
@@ -1967,9 +1934,9 @@ Nr. IX-1029,
 2002-07-04, Žin., 2002, Nr. 73-3095 (2002-07-19)
 VALSTYBINIO SOCIALINIO DRAUDIMO
 ĮSTATYMO 34 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-Valstybinio socialinio draudimo įstatymo 34
-straipsnyje nustatyta tvarka taikoma mokant valstybinio socialinio draudimo
-įmokas nuo pajamų, gautų nuo 2002 m. sausio 1 d. 
+Valstybinio socialinio draudimo įstatymo 34 straipsnyje
+nustatyta tvarka taikoma mokant valstybinio socialinio draudimo įmokas nuo
+pajamų, gautų nuo 2002 m. sausio 1 d. 
  
 30.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1986,8 +1953,7 @@ VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 4
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
 Įstatymas, išskyrus 1 straipsnio 5 dalies nuostatas dėl Valstybinio socialinio
-draudimo įstatymo 4 straipsnio 1 dalies 12 punkto pakeitimo, įsigalioja nuo
-2003 m. sausio 1 d. 
+draudimo įstatymo 4 straipsnio 1 dalies 12 punkto pakeitimo, įsigalioja nuo 2003 m. sausio 1 d. 
 Šio Įstatymo
 1 straipsnio 5 dalies nuostatos dėl Valstybinio socialinio draudimo įstatymo 4
 straipsnio 1 dalies 12 punkto pakeitimo įsigalioja nuo 2004 m. sausio 1 d.
@@ -2001,8 +1967,7 @@ PENSIJŲ ĮSTATYMO, VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO, LIGOS IR MOTINYST
 SOCIALINIO DRAUDIMO ĮSTATYMO, NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ
 SOCIALINIO DRAUDIMO ĮSTATYMO, ŽALOS ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE
 AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-Šis Įstatymas įsigalioja nuo 2003
-m. sausio 1 d.
+Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
  
 33.
 Lietuvos Respublikos Seimas,
@@ -2057,8 +2022,7 @@ Nr. IX-2535,
 VALSTYBINIO SOCIALINIO DRAUDIMO
 ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija
-Šis įstatymas, išskyrus 3 straipsnį, įsigalioja nuo
-2005 m. sausio 1 d.
+Šis įstatymas, išskyrus 3 straipsnį, įsigalioja nuo 2005 m. sausio 1 d.
  
 38.
 Lietuvos Respublikos Seimas,
@@ -2073,8 +2037,7 @@ SUSIRGIMŲ PROFESINE LIGA LAIKINOJO ĮSTATYMO BEI VALSTYBINIO SOCIALINIO DRAUDIM
 Šis įstatymas įsigalioja nuo 2005 m. liepos 1 d.
  
 39.
-Lietuvos Respublikos Seimas,
-Įstatymas
+Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-401, 2005-11-17,
 Žin., 2005, Nr. 144-5235 (2005-12-10)
 DIPLOMATINĖS TARNYBOS ĮSTATYMO,
@@ -2116,10 +2079,8 @@ Nr. X-656, 2006-06-08,
 VALSTYBINIO SOCIALINIO DRAUDIMO
 ĮSTATYMO 3, 4, 5, 6, 9 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šio įstatymo 3 straipsnio 2
-punkto bei 6 straipsnio 1 dalies pakeitimas įsigalioja nuo 2006 m. liepos 1 d.
-Šio įstatymo 4 straipsnio 2 ir 4 dalių papildymas ir pakeitimas, 5 straipsnio 3
-dalies pakeitimas bei 9 straipsnio 7 dalies pakeitimas įsigalioja nuo 2008 m.
-sausio 1 d.
+punkto bei 6 straipsnio 1 dalies pakeitimas įsigalioja nuo 2006 m. liepos 1 d. Šio įstatymo 4 straipsnio 2 ir 4 dalių papildymas ir pakeitimas, 5 straipsnio 3
+dalies pakeitimas bei 9 straipsnio 7 dalies pakeitimas įsigalioja nuo 2008 m. sausio 1 d.
 Šio įstatymo pakeitimas:
 Lietuvos Respublikos Seimas,
 Įstatymas
@@ -2164,11 +2125,18 @@ VALSTYBINIO
 SOCIALINIO DRAUDIMO ĮSTATYMO 4, 5 IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja 2009 m. sausio 1 d.
+Šio įstatymo pakeitimas:
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. XI-92, 2008-12-19, Žin.,
+2008, Nr. 149-6018 (2008-12-30)
+VALSTYBINIO SOCIALINIO DRAUDIMO
+ĮSTATYMO 4, 5 IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PRIPAŽINIMO
+NETEKUSIU GALIOS ĮSTATYMAS
  
 ***
 Pabaiga ***
- 
- 
 Redagavo
-Aušrinė Trapinskienė (2008-11-26)
-                  autrap@lrs.lt
+Aušrinė Trapinskienė (2009-01-07)
+                 
+autrap@lrs.lt
