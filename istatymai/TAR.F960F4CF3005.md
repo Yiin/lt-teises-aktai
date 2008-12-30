@@ -109,9 +109,9 @@ savivaldybių biudžetams skiriamos:
 1) valstybinėms (perduotoms savivaldybėms) funkcijoms
 atlikti – pagal nustatytą šioms funkcijoms atlikti lėšų apskaičiavimo metodiką;
 
-2) priskirtajai (ribotai savarankiškai) savivaldybių
-funkcijai (vaikų, jaunimo ir suaugusiųjų bendrajam lavinimui organizuoti) –
-pagal nustatytą šiai funkcijai atlikti lėšų apskaičiavimo metodiką;
+2) savarankiškajai savivaldybių funkcijai (vaikų, jaunimo
+ir suaugusiųjų bendrajam lavinimui organizuoti) – pagal nustatytą šiai
+funkcijai atlikti lėšų apskaičiavimo metodiką;
 3) Seimo, Vyriausybės patvirtintoms programoms vykdyti. 
 3. Valstybės biudžeto bendrosios dotacijos kompensacijos
 (BDK) savivaldybių biudžetams skiriamos dėl Seimo ar Vyriausybės priimtų
@@ -124,6 +124,9 @@ Straipsnio
 pakeitimai:
 Nr. IX-1235,
 2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
+Nr.
+XI-117,
+2008-12-23, Žin., 2008, Nr. 149-6037 (2008-12-30)
  
 6 straipsnis. Lėšų, skiriamų
 savivaldybių gyventojų pajamų mokesčiui ir
@@ -132,9 +135,8 @@ struktūrų
 skirtumams išlyginti, dydis
 Lėšas (L),
 skiriamas savivaldybių gyventojų pajamų mokesčiui ir išlaidų struktūrų
-skirtumams, kuriuos lemia nuo savivaldybių veiklos nepriklausantys objektyvūs
-veiksniai, išlyginti, sudaro likusi apskaičiuota atskirų savivaldybių gyventojų
-pajamų
+skirtumams, kuriuos lemia nuo savivaldybių veiklos nepriklausantys objektyvūs veiksniai,
+išlyginti, sudaro likusi apskaičiuota atskirų savivaldybių gyventojų pajamų
 mokesčio dalis Pi (procentais), kurią Valstybinės mokesčių inspekcijos prie
 Finansų ministerijos teritorinės valstybinės mokesčių inspekcijos – vietos
 mokesčių administratoriai perveda į Valstybės iždo sąskaitą (3 straipsnio 2
@@ -221,8 +223,7 @@ svarbą.
 išlaidų struktūrų skirtumams išlyginti skiriamos lėšos apskaičiuojamos pagal
 formulę , čia:
 1) L2i –
-i-ajai savivaldybei skiriama lėšų dalis išlaidų struktūrų skirtumams
-išlyginti;
+i-ajai savivaldybei skiriama lėšų dalis išlaidų struktūrų skirtumams išlyginti;
 2) Kn
 – koeficientas, nurodantis n-ojo demografinio, socialinio ar kito rodiklio
 įtaką visų savivaldybių išlaidų struktūrai ;
@@ -247,8 +248,8 @@ išlaidų struktūrų skirtumams išlyginti;
 tenkanti visų savivaldybių n-ojo demografinio, socialinio ar kito rodiklio
 dalis, apskaičiuojama pagal formulę , čia Rni
 – i-osios savivaldybės n-ojo rodiklio reikšmė. Skaičiuojant Eni,
-imama Rni tik tų savivaldybių, kurių gyventojų pajamų mokesčio
-dalis, patvirtinta šio Įstatymo priedėlyje, yra 100 procentų.]
+imama Rni tik tų savivaldybių, kurių gyventojų pajamų mokesčio dalis,
+patvirtinta šio Įstatymo priedėlyje, yra 100 procentų.]
 Straipsnio
 pakeitimai:
 Nr. IX-1235,
@@ -293,9 +294,9 @@ teritorijos statusas, bendras plotas, kurio koeficientas K9 lygus
 2. Savivaldybės gyventojų skaičius, demografinių,
 socialinių ir kitų rodiklių, nurodytų šio straipsnio 1 dalyje, duomenys,
 kuriais vadovaujantis išlyginami ateinančių biudžetinių metų savivaldybių
-gyventojų pajamų mokestis ir išlaidų struktūrų skirtumai, imami tokie, kokie buvo
-paskelbti praėjusių biudžetinių metų oficialių statistinių leidinių duomenų
-bazėse.
+gyventojų pajamų mokestis ir išlaidų struktūrų skirtumai, imami tokie, kokie
+buvo paskelbti praėjusių biudžetinių metų oficialių statistinių leidinių
+duomenų bazėse.
 *Pastaba.
 1 dalies 8 ir 9 punktuose nurodyti rodikliai R8 ir R9 ir
 koeficientai K8 ir K9 pradedami taikyti rengiant Lietuvos
@@ -320,25 +321,25 @@ savivaldybių išlaidų ar pajamų pokyčius;
 2) valstybės biudžeto bendrosios dotacijos (jeigu ji
 numatoma) dalį, skiriamą kiekvienai savivaldybei gyventojų pajamų mokesčiui
 išlyginti;
-3) valstybės biudžeto bendrosios dotacijos (jeigu ji numatoma)
-dalį, skiriamą kiekvienai savivaldybei išlaidų struktūrų skirtumams išlyginti;
+3) valstybės biudžeto bendrosios dotacijos (jeigu ji
+numatoma) dalį, skiriamą kiekvienai savivaldybei išlaidų struktūrų skirtumams
+išlyginti;
 4) valstybės biudžeto specialias tikslines dotacijas,
 skiriamas kiekvienai savivaldybei;
 5) valstybės biudžeto bendrosios dotacijos (jeigu ji
 numatoma) kompensacijų sumas, skiriamas kiekvienai savivaldybei.
 2. Patvirtintas valstybės biudžeto dotacijų sumas,
 nurodytas šio straipsnio 1 dalyje, išskyrus specialią tikslinę dotaciją
-valstybės investicijų programoje numatytiems projektams ir priskirtajai
-(ribotai savarankiškai) vaikų, jaunimo ir suaugusiųjų bendrojo lavinimo
-organizavimo savivaldybių funkcijai finansuoti, Finansų ministerija perveda kas
-ketvirtį lygiomis dalimis. Speciali tikslinė dotacija valstybės investicijų
-programoje numatytiems projektams finansuoti pervedama atsižvelgiant į
-faktiškai atliktus darbus, nurodytus Finansų ministerijai savivaldybių
-teikiamose paraiškose, o speciali tikslinė dotacija priskirtajai (ribotai
-savarankiškai) vaikų, jaunimo ir suaugusiųjų bendrojo lavinimo organizavimo
-savivaldybių funkcijai finansuoti pervedama atsižvelgiant į lėšų poreikį
-švietimo įstaigų darbuotojams – pedagogams darbo užmokesčiui už kasmetines
-atostogas mokėti.
+valstybės investicijų programoje numatytiems projektams ir savarankiškajai
+vaikų, jaunimo ir suaugusiųjų bendrojo lavinimo organizavimo savivaldybių
+funkcijai finansuoti, Finansų ministerija perveda kas ketvirtį lygiomis
+dalimis. Speciali tikslinė dotacija valstybės investicijų programoje
+numatytiems projektams finansuoti pervedama atsižvelgiant į faktiškai atliktus
+darbus, nurodytus Finansų ministerijai savivaldybių teikiamose paraiškose, o
+speciali tikslinė dotacija savarankiškajai
+vaikų, jaunimo ir suaugusiųjų bendrojo lavinimo organizavimo savivaldybių
+funkcijai finansuoti pervedama atsižvelgiant į lėšų poreikį švietimo įstaigų
+darbuotojams – pedagogams darbo užmokesčiui už kasmetines atostogas mokėti.
 3. Faktiškai gautas į Valstybės iždo sąskaitą lėšas,
 nurodytas 6 straipsnyje, Finansų ministerija apskaičiuoja pagal 7 ir 8
 straipsniuose pateiktas formules ir ne rečiau kaip keturis kartus per mėnesį
@@ -350,9 +351,9 @@ pajamos ir išlaidos, pajamų ir išlaidų pokyčiai, išskyrus
 pokyčius, kuriais savivaldybių biudžetai sumažėja dėl žemės nuomos mokesčio už
 valstybinę žemę laisvosios ekonominės zonos teritorijoje, panaudoto šioje
 teritorijoje esančiai žemei išpirkti iš žemės savininkų, kompensuojami.
-Biudžetiniais metais turi būti skiriama reikiamo dydžio valstybės biudžeto
-bendrosios dotacijos kompensacija (BDK), susijusi su savivaldybių pajamų ir
-išlaidų pasikeitimu, arba iš savivaldybių biudžetų paimamos reikiamos sumos, o
+Biudžetiniais metais turi būti skiriama reikiamo dydžio valstybės biudžeto bendrosios
+dotacijos kompensacija (BDK), susijusi su savivaldybių pajamų ir išlaidų
+pasikeitimu, arba iš savivaldybių biudžetų paimamos reikiamos sumos, o
 ateinančiais biudžetiniais metais koreguojama gyventojų pajamų mokesčio dalis,
 tenkanti visų savivaldybių biudžetams.
 5. Valstybės biudžeto bendrosios dotacijos kompensacija,
@@ -381,6 +382,9 @@ Nr. IX-1235,
 Nr.
 IX-1857,
 2003-12-15, Žin., 2003, Nr. 117-5320 (2003-12-17)
+Nr.
+XI-117,
+2008-12-23, Žin., 2008, Nr. 149-6037 (2008-12-30)
  
 11
 straipsnis. Finansinių rodiklių derinimas
@@ -389,28 +393,26 @@ Lietuvos savivaldybių asociacija 10 straipsnio 1 dalyje nurodytus rodiklius bei
 savivaldybių demografinių, socialinių ir kitų rodiklių pirminius statistinius
 duomenis svarsto pagal Vyriausybės patvirtintą šių rodiklių derinimo tvarką.
  
-12 straipsnis. Valstybės biudžeto
-bendrosios dotacijos kompensacijos savivaldybių 
+12
+straipsnis. Valstybės biudžeto bendrosios dotacijos kompensacijos savivaldybių
 biudžetams ir valstybės biudžetui
-1. Valstybės biudžeto ir savivaldybių biudžetų finansinių
-rodiklių patvirtinimo įstatymų projektuose savivaldybių biudžetams numatomos
-reikiamo dydžio valstybės biudžeto bendrosios dotacijos kompensacijos, skirtos
-100 procentų kompensuoti ateinantiems biudžetiniams metams prognozuojamų
-palyginamaisiais dydžiais ir sąlygomis pajamų (be specialių tikslinių dotacijų)
-mažėjimą, palyginti su einamaisiais biudžetiniais metais apskaičiuotomis
-pajamomis.
+1. Valstybės biudžeto ir savivaldybių
+biudžetų finansinių rodiklių patvirtinimo įstatymų projektuose savivaldybių
+biudžetams numatomos reikiamo dydžio valstybės biudžeto bendrosios dotacijos
+kompensacijos, skirtos 100 procentų kompensuoti ateinantiems biudžetiniams
+metams prognozuojamų palyginamaisiais dydžiais ir sąlygomis pajamų (be
+specialių tikslinių dotacijų ir pajamų iš vietinių rinkliavų) mažėjimą,
+palyginti su einamaisiais biudžetiniais metais apskaičiuotomis pajamomis.
 2. Valstybės
 biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų
 projektuose valstybės biudžetui numatomos reikiamo dydžio valstybės biudžeto
 bendrosios dotacijos kompensacijos iš tų savivaldybių, kurių ateinantiems
 biudžetiniams metams prognozuojamos palyginamaisiais dydžiais ir sąlygomis
-pajamos (be specialių tikslinių dotacijų) didėja daugiau kaip 20 procentų,
-palyginti su einamaisiais biudžetiniais metais apskaičiuotomis pajamomis. Šios
-kompensacijos nuo
-biudžetinių metų antrojo ketvirčio iki gruodžio 31 dienos
-įskaitytinai
-valstybės biudžetui
-kas ketvirtį lygiomis dalimis grąžinamos iš savivaldybių biudžetų.
+pajamos (be specialių tikslinių dotacijų ir pajamų iš vietinių rinkliavų)
+didėja daugiau kaip 21 procentu, palyginti su einamaisiais biudžetiniais metais
+apskaičiuotomis pajamomis. Šios kompensacijos nuo biudžetinių metų antrojo
+ketvirčio iki gruodžio 31 dienos įskaitytinai valstybės biudžetui kas ketvirtį
+lygiomis dalimis grąžinamos iš savivaldybių biudžetų.
 Straipsnio
 pakeitimai
 Nr.
@@ -421,21 +423,26 @@ X-434,
 2005-12-08, Žin., 2005, Nr. 150-5463 (2005-12-24)
 Nr. X-1359,
 2007-12-06, Žin., 2007, Nr. 132-5361 (2007-12-15)
+Nr.
+XI-117,
+2008-12-23, Žin., 2008, Nr. 149-6037 (2008-12-30)
  
 PENKTASIS
 SKIRSNIS
 SAVIVALDYBIŲ BIUDŽETŲ
 NEGAUTŲ PAJAMŲ KOMPENSAVIMAS
  
-13 straipsnis. Savivaldybių biudžetų
-negautų pajamų kompensavimas
+13 straipsnis.
+Savivaldybių biudžetų negautų pajamų kompensavimas
 1. Jeigu biudžetiniais metais pagal savivaldybės metinės
 apyskaitos duomenis pajamų (be dotacijų iš valstybės biudžeto) gauta mažiau,
 negu buvo prognozuota gauti skaičiuojant tų metų savivaldybių biudžetų
-finansinius rodiklius, biudžetiniams metams pasibaigus šios negautos pajamos
-gali būti kompensuojamos. Skaičiuojant šių negautų pajamų sumą, savivaldybių
-gautos pajamos didinamos skaičiuotinomis įmokomis, kurių negauta dėl
-savivaldybės tarybos sprendimais suteiktų mokesčių lengvatų. 
+finansinius rodiklius, ir į jas yra įskaitomos valstybės biudžetui grąžinamos
+bendrosios dotacijos kompensacijos pagal šio Įstatymo 12 straipsnio 2 dalį,
+biudžetiniams metams pasibaigus šios negautos pajamos gali būti kompensuojamos.
+Skaičiuojant šių negautų pajamų sumą, savivaldybių gautos pajamos didinamos
+skaičiuotinomis įmokomis, kurių negauta dėl savivaldybės tarybos sprendimais
+suteiktų mokesčių lengvatų.
 2. Jeigu vykdant valstybės biudžetą gautų viršplaninių
 pajamų ir netekusių paskirties asignavimų nepakanka savivaldybių biudžetų
 negautoms mokestinėms pajamoms padengti, joms kompensuoti gali būti naudojama
@@ -459,9 +466,14 @@ pakeitimai
 Nr.
 IX-1857,
 2003-12-15, Žin., 2003, Nr. 117-5320 (2003-12-17)
+Nr.
+XI-117,
+2008-12-23, Žin., 2008, Nr. 149-6037 (2008-12-30)
+ 
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą.
+ 
  
  
 
@@ -471,6 +483,7 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                     VALDAS
 ADAMKUS
+ 
  
  
 Įstatymo priedėlis
@@ -1012,8 +1025,8 @@ pakeitimai:
 Nr. IX-1235,
 2002-12-10, Žin., 2002, Nr. 123-5527 (2002-12-24)
 Nr.
-X-434, 2005-12-08,
-Žin., 2005, Nr. 150-5463 (2005-12-24)
+X-434,
+2005-12-08, Žin., 2005, Nr. 150-5463 (2005-12-24)
 __________________
  
 Pakeitimai:
@@ -1023,8 +1036,8 @@ Respublikos Seimas, Įstatymas
 Nr. VIII-544, 97.12.02,
 Žin., 1997, Nr.116-2953 (97.12.19)
 LIETUVOS
-RESPUBLIKOS SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 14
-STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+RESPUBLIKOS SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 14 STRAIPSNIO
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 2.
 Lietuvos
@@ -1121,17 +1134,25 @@ SAVIVALDYBIŲ
 BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 9 STRAIPSNIO PAKEITIMO IR
 PAPILDYMO ĮSTATYMAS
 Šio įstatymo 1
-straipsnyje išdėstytos Savivaldybių biudžetų pajamų nustatymo metodikos įstatymo
-9 straipsnio 1 dalies 8 ir 9 punktuose nurodyti rodikliai R8 ir R9
-ir koeficientai K8 ir K9 pradedami taikyti rengiant
-Lietuvos Respublikos 2009 metų valstybės biudžeto ir savivaldybių biudžetų
-finansinių rodiklių patvirtinimo įstatymo projektą.
+straipsnyje išdėstytos Savivaldybių biudžetų pajamų nustatymo metodikos
+įstatymo 9 straipsnio 1 dalies 8 ir 9 punktuose nurodyti rodikliai R8
+ir R9 ir koeficientai K8 ir K9 pradedami
+taikyti rengiant Lietuvos Respublikos 2009 metų valstybės biudžeto ir
+savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą.
+ 
+11.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-117,
+2008-12-23, Žin., 2008, Nr. 149-6037 (2008-12-30)
+SAVIVALDYBIŲ
+BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 5, 10, 12 IR 13 STRAIPSNIŲ
+PAKEITIMO ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2008-07-18)
-                 
-autrap@lrs.lt
+Redagavo
+Aušra Bodin (2008-12-30)
+                  aubodi@lrs.lt
