@@ -20,6 +20,10 @@ LIETUVOS RESPUBLIKOS TEISĖJŲ ATLYGINIMŲ ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2008-12-30 iki 2009-04-30
+ 
+Įstatymas paskelbtas: Žin. 2008, Nr. 131-5022, i. k. 1081010ISTA00X-1771
+ 
 LIETUVOS RESPUBLIKOS  TEISĖJŲ ATLYGINIMŲ  ĮSTATYMAS
  
 2008 m. lapkričio 6 d. Nr. X-1771
@@ -62,10 +66,12 @@ Vilnius
 3 straipsnis. Atlyginimo ir pareiginės algos bazinis dydis
 
 
-Teisėjų atlyginimų skaičiavimui taikomas atlyginimo ir pareiginės algos bazinis dydis (toliau – bazinis dydis), kurį ateinantiems metams Lietuvos Respublikos Vyriausybės teikimu, įvertinus teisėjams atstovaujančių organizacijų pasiūlymus, praėjusių metų vidutinę metinę infliaciją (skaičiuojant nacionalinį vartotojų kainų indeksą) ir kitų vidutinio darbo užmokesčio viešajame sektoriuje dydžiui ir kitimui poveikį turinčių veiksnių įtaką, tvirtina Lietuvos Respublikos Seimas iki Seimo pavasario sesijos pabaigos. Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį dydį.
+Teisėjų atlyginimų skaičiavimui taikomas atlyginimo ir pareiginės algos bazinis dydis (toliau – bazinis dydis), kurį ateinantiems metams Lietuvos Respublikos Vyriausybės teikimu, įvertinus teisėjams atstovaujančių organizacijų pasiūlymus, praėjusių metų vidutinę metinę infliaciją (skaičiuojant nacionalinį vartotojų kainų indeksą) ir kitų vidutinio darbo užmokesčio viešajame sektoriuje dydžiui ir kitimui poveikį turinčių veiksnių įtaką, tvirtina Lietuvos Respublikos Seimas iki Seimo pavasario sesijos pabaigos. Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį dydį, išskyrus atvejus, kai iš esmės pablogėja valstybės ekonominė ir finansinė būklė.
+
+
+Straipsnio pakeitimai:
+Nr. XI-83, 2008-12-19, Žin., 2008, Nr. 149-6009 (2008-12-30), i. k. 1081010ISTA000XI-83
  
-
-
 
 
 
@@ -292,3 +298,15 @@ II. BENDROSIOS KOMPETENCIJOS IR SPECIALIZUOTŲ TEISMŲ TEISĖJŲ PAREIGINĖS ALG
 
 
 _________________
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-83, 2008-12-19, Žin., 2008, Nr. 149-6009 (2008-12-30), i. k. 1081010ISTA000XI-83
+Lietuvos Respublikos teisėjų atlyginimų įstatymo 3 straipsnio pakeitimo įstatymas
