@@ -13,10 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 
 # Lietuvos Respublikos farmacijos įstatymas
 
-Neoficialus
-įstatymo tekstas
 Įstatymas
 skelbtas: Žin., 2006, Nr. 78-3056
+Neoficialus
+įstatymo tekstas
  
 LIETUVOS RESPUBLIKOS
 FARMACIJOS 
@@ -29,25 +29,35 @@ Vilnius
 
 
  
- 
 PIRMASIS
 SKIRSNIS
 BENDROSIOS
 NUOSTATOS
  
- 
 1
 straipsnis. Įstatymo paskirtis
+ 
+1 dalies redakcija iki 2009 m. liepos 1 d.:
 1. Šis įstatymas
 reglamentuoja farmacinę ir kitą veiklą, susijusią su vaistiniais, tiriamaisiais
 vaistiniais preparatais, veterinariniais vaistais, veikliosiomis ir kitomis
 vaistinėmis medžiagomis bei medicininės paskirties produktais, veterinarinės
 farmacijos veiklą, taip pat šios veiklos valstybinį valdymą ir kontrolę.
+1 dalies redakcija nuo 2009 m. liepos 1 d.:
+1. Šis įstatymas reglamentuoja farmacinę ir kitą veiklą, susijusią su
+vaistiniais, tiriamaisiais vaistiniais preparatais, veterinariniais vaistais,
+veikliosiomis ir kitomis vaistinėmis medžiagomis, veterinarinės farmacijos
+veiklą, taip pat šios veiklos valstybinį valdymą ir kontrolę.
+ 
 2. Šis įstatymas nereglamentuoja
 su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) susijusios
 veiklos, šios veiklos valstybinio valdymo ir kontrolės.
 3. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktų,
 nurodytų Įstatymo priede, nuostatomis.
+Straipsnio
+pakeitimas:
+Nr. XI-59, 2008-12-16,
+Žin., 2008, Nr. 149-5991 (2008-12-30)
  
 2 straipsnis.
 Pagrindinės šio įstatymo sąvokos 
@@ -66,8 +76,8 @@ pavadinimas) – Pasaulinės sveikatos organizacijos rekomenduotas
 tarptautinis vaistinės medžiagos įvardijimas arba, jei tokio nėra, įprastinis
 bendrinis pavadinimas.
 4.
-Decentralizuota procedūra – procedūra, kurios metu Europos ekonominės erdvės
-(toliau – EEE) valstybės bendradarbiaudamos nagrinėja tapačias paraiškas
+Decentralizuota procedūra – procedūra, kurios metu Europos ekonominės
+erdvės (toliau – EEE) valstybės bendradarbiaudamos nagrinėja tapačias paraiškas
 suteikti jose vaistinio preparato rinkodaros teisę, kai tokia teisė dar
 nesuteikta nė vienoje EEE valstybėje.
 5. Didmeninis
@@ -81,8 +91,8 @@ priežiūros įstaigos užsakymą pagamintas vaistinis preparatas (kartinis
 vaistinis preparatas) ar pagal vaistinio preparato aprašą pagamintas vaistinis
 preparatas (aprašinis vaistinis preparatas).
 7. Europos
-farmakopėja – farmakopėja, rengiama pagal Konvenciją dėl Europos
-farmakopėjos rengimo.
+farmakopėja – farmakopėja, rengiama pagal Konvenciją dėl Europos farmakopėjos
+rengimo.
 8. Europos
 vaistų agentūra – agentūra, įsteigta pagal 2004 m. kovo 31 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 726/2004, nustatantį Bendrijos
 leidimų dėl žmonėms skirtų ir veterinarinių vaistų išdavimo ir priežiūros
@@ -93,13 +103,21 @@ vaistininko padėjėjo (farmakotechniko) praktika:
 1) vaistininko
 praktika – vaistininko vykdoma farmacinė veikla;
 2) vaistininko
-padėjėjo (farmakotechniko) praktika – vaistininko padėjėjo (farmakotechniko)
-vykdoma farmacinė veikla.
+padėjėjo (farmakotechniko) praktika – vaistininko padėjėjo
+(farmakotechniko) vykdoma farmacinė veikla.
+ 
+10 dalies redakcija iki 2009 m. liepos 1 d.:
 10.
 Farmacijos produktas – vaistinis preparatas, tiriamasis vaistinis
 preparatas, veiklioji medžiaga ir į Europos Komisijos sąrašą įrašyta pagalbinė
 medžiaga, kurios naudojamos kaip pradinės medžiagos vaistinių preparatų
 gamybai, medicininės paskirties produktas.
+10 dalies redakcija nuo 2009 m. liepos 1 d.:
+10. Farmacijos
+produktas – vaistinis preparatas, tiriamasis vaistinis preparatas,
+veiklioji medžiaga ir į Europos Komisijos sąrašą įrašyta pagalbinė medžiaga,
+kurios naudojamos kaip pradinės medžiagos vaistinių preparatų gamybai.
+ 
 11.
 Farmacijos specialistas – vaistininkas, vaistininko padėjėjas
 (farmakotechnikas) arba Vyriausybės įgaliotos institucijos nustatyta tvarka
@@ -112,8 +130,8 @@ savybes, taip pat vaistinių preparatų kainos prekybos kataloguose ir
 kainoraščiuose (jeigu juose nėra teiginių apie vaistinių preparatų savybes). 
 13. Farmacinė
 paslauga – vaistininko praktika vaistinėje, apimanti gydytojo išrašytų
-receptų kontrolę, vertinimą, nereceptinių vaistinių preparatų parinkimą,
-farmacinės informacijos apie vaistinius preparatus teikimą gyventojams, sveikatos
+receptų kontrolę, vertinimą, nereceptinių vaistinių preparatų parinkimą, farmacinės
+informacijos apie vaistinius preparatus teikimą gyventojams, sveikatos
 priežiūros ir farmacijos specialistams, taip pat jų konsultavimą.
 14. Farmacinė
 veikla – juridinių ir (ar) fizinių asmenų vykdoma sveikatinimo veikla,
@@ -147,8 +165,8 @@ preparatui buvo įrodytas atitinkamais biologinio įsisavinamumo tyrimais.
 Homeopatinis vaistinis preparatas (toliau – homeopatinis preparatas)
 – vaistinis preparatas, pagamintas iš medžiagų, vadinamų homeopatinėmis
 žaliavomis, homeopatinės gamybos būdu, aprašytu Europos farmakopėjoje arba, jei
-tokio nėra, EEE valstybių oficialiai naudojamose farmakopėjose. Homeopatinio
-vaistinio preparato sudėtyje gali būti daugiau kaip vienas komponentas. 
+tokio nėra, EEE valstybių oficialiai naudojamose farmakopėjose. Homeopatinio vaistinio
+preparato sudėtyje gali būti daugiau kaip vienas komponentas. 
 19. Imuninis
 vaistinis preparatas (toliau – imuninis preparatas)
 – vaistinis preparatas, vartojamas aktyviam ar pasyviam imunitetui sukelti
@@ -180,14 +198,16 @@ turinčių juridinių asmenų.
 25. Lietuvos
 Respublikos vaistinių preparatų registras – teisinių, organizacinių,
 technologinių priemonių visuma, skirta vaistiniams preparatams registruoti ir
-jų registravimo duomenims tvarkyti. Į jį įrašomi vaistiniai preparatai, dėl kurių
-išduotas rinkodaros arba registracijos pažymėjimas.
+jų registravimo duomenims tvarkyti. Į jį įrašomi vaistiniai preparatai, dėl
+kurių išduotas rinkodaros arba registracijos pažymėjimas.
 26.
 Medicininės paskirties produktas – farmacinę formą turintis maisto
 produktas, kurio sudėtyje yra biologiškai aktyvių medžiagų, lemiančių jo
 poveikį fiziologinėms žmogaus organizmo funkcijoms, nustatytą klinikiniais
 tyrimais ir (ar) pagrįstą moksline literatūra, ir kuris skirtas organizmui, jo
 sistemoms ar organams stiprinti, jų veiklai palaikyti.
+26 dalis netenka galios nuo 2009 m. liepos 1 d.
+ 
 27. Naudos ir
 rizikos santykis – vaistinio preparato palankaus terapinio poveikio ir
 keliamo pavojaus asmens ir visuomenės sveikatai santykis, nustatytas vertinant
@@ -248,9 +268,10 @@ arba Europos vaistų agentūra.
 40. Referencinė
 valstybė
 – EEE valstybė, parengianti vaistinio preparato farmacinių, ikiklinikinių ir
-klinikinių tyrimų rezultatų vertinimo protokolą, kurio pagrindu kitos savitarpio
-pripažinimo arba decentralizuotoje procedūroje dalyvaujančios EEE valstybės
-priima sprendimą dėl to vaistinio preparato rinkodaros teisės suteikimo. 
+klinikinių tyrimų rezultatų vertinimo protokolą, kurio pagrindu kitos
+savitarpio pripažinimo arba decentralizuotoje procedūroje dalyvaujančios EEE
+valstybės priima sprendimą dėl to vaistinio preparato rinkodaros teisės
+suteikimo. 
 41. Referencinis
 vaistinis preparatas
 – vaistinis preparatas, įregistruotas bet kurioje EEE valstybėje pagal jos
@@ -273,9 +294,8 @@ stacionare trukmę, ilgalaikis ar reikšmingas neįgalumas arba apsigimimas.
 45. Sunkus
 nepageidaujamas reiškinys – vartojant bet kokią tiriamojo vaistinio
 preparato dozę pasireiškiantis nepageidaujamas reiškinys, dėl kurio ištinka
-mirtis, kyla pavojus gyvybei, tenka hospitalizuoti arba pailginti gydymo
-stacionare trukmę, atsiranda ilgalaikis ar reikšmingas neįgalumas arba
-apsigimimas.
+mirtis, kyla pavojus gyvybei, tenka hospitalizuoti arba pailginti gydymo stacionare
+trukmę, atsiranda ilgalaikis ar reikšmingas neįgalumas arba apsigimimas.
 46. Tyrėjas
 – gydytojas ar kitas asmuo, kurio išsilavinimas ir pacientų priežiūros patirtis
 atitinka Lietuvos Respublikos sveikatos apsaugos ministro (toliau – sveikatos
@@ -342,9 +362,9 @@ vaistiniam preparatui ar pakankamai į jį panašus, įvežimas į Lietuvos
 Respubliką nesinaudojant vaistinio preparato rinkodaros teisės turėtojo
 platinimo tinklu.
 58. Vaistinio
-preparato neparduodamas pavyzdys – nemokamas, neskirtas vartoti vaistinio
-preparato pavyzdys, skirtas susipažinti su vaistiniu preparatu sveikatos
-priežiūros specialistui, turinčiam teisę išrašyti vaistinius preparatus.
+preparato neparduodamas pavyzdys – nemokamas, neskirtas vartoti vaistinio preparato
+pavyzdys, skirtas susipažinti su vaistiniu preparatu sveikatos priežiūros
+specialistui, turinčiam teisę išrašyti vaistinius preparatus.
 59. Vaistinio
 preparato pavadinimas – vaistinio preparato įvardijimas sugalvotu (tokiu,
 kurio negalima supainioti su bendriniu) arba bendriniu ar moksliniu pavadinimu
@@ -357,7 +377,8 @@ suteikimą Lietuvos Respublikoje ir išduotas pagal šio įstatymo nustatytą
 supaprastintą homeopatinių ar tradicinių augalinių preparatų registravimo
 procedūrą ar specialią homeopatinių preparatų registravimo procedūrą.
 61. Vaistinio
-preparato rinkodaros pažymėjimas (toliau – rinkodaros pažymėjimas) – Valstybinės
+preparato rinkodaros pažymėjimas (toliau – rinkodaros
+pažymėjimas) – Valstybinės
 vaistų kontrolės tarnybos dokumentas, kuriuo
 patvirtinamas vaistinio preparato rinkodaros teisės turėjimas Lietuvos
 Respublikoje ir kuris išduodamas pagal šio įstatymo nustatytas vaistinių
@@ -407,9 +428,9 @@ apie vaistinius preparatus, agitacinė veikla ar raginimas, kuriais siekiama
 skatinti vaistinių preparatų skyrimą, tiekimą, pardavimą ar vartojimą, įskaitant:
 
 1) vaistų
-reklamuotojų vizitus, kurių metu teikiama informacija apie vaistinius
-preparatus, pas sveikatos priežiūros specialistus, turinčius teisę skirti
-vaistinius preparatus; 
+reklamuotojų vizitus, kurių metu teikiama informacija apie vaistinius preparatus,
+pas sveikatos priežiūros specialistus, turinčius teisę skirti vaistinius
+preparatus; 
 2) vaistinių
 preparatų neparduodamų pavyzdžių platinimą;
 3) skatinimą
@@ -469,6 +490,10 @@ pakuotė – pakuotė ar kitokia talpyklė, tiesiogiai besiliečianti su
 vaistiniu preparatu.
 82.
 Ženklinimas – informacija ant vidinės arba išorinės pakuotės.
+Straipsnio
+pakeitimas:
+Nr. XI-59, 2008-12-16,
+Žin., 2008, Nr. 149-5991 (2008-12-30)
  
 antrasIS skIRSNIS
 VAISTININKŲ IR VAISTININKŲ PADĖJĖJŲ (FARMAKOTECHNIKŲ) KVALIFIKACIJOS
@@ -508,18 +533,19 @@ taisyklėmis.
 norintis gauti vaistininko praktikos licenciją, turi pateikti paraišką, įgytą
 vaistininko profesinę kvalifikaciją patvirtinantį diplomą ir kitus dokumentus,
 nustatytus Vaistininko praktikos licencijavimo taisyklėse. Jei asmuo nori įgyti
-licenciją praėjus daugiau kaip vieniems metams po studijų baigimo, jis turi
-pateikti ir dokumentus, patvirtinančius, kad jo kvalifikacija buvo keliama
-sveikatos apsaugos ministro nustatyta tvarka.
+licenciją praėjus daugiau kaip vieniems metams po studijų baigimo, jis turi pateikti
+ir dokumentus, patvirtinančius, kad jo kvalifikacija buvo keliama sveikatos
+apsaugos ministro nustatyta tvarka.
 5. Sprendimas
 dėl licencijos išdavimo ar motyvuotas atsisakymas ją išduoti turi būti
 pateiktas pareiškėjui ne vėliau kaip per 30 dienų nuo visų dokumentų gavimo.
 Terminas, per kurį pareiškėjas pateikia trūkstamus duomenis, neįskaitomas į
 sprendimo priėmimo laikotarpį, tačiau, pareiškėjui delsiant juos patikslinti,
 sprendimas turi būti priimtas ne vėliau kaip per 60 dienų nuo dokumentų gavimo.
-6. Valstybinė vaistų
-kontrolės tarnyba apie vaistininko praktikos licencijų išdavimą ir galiojimo
-panaikinimą skelbia „Valstybės žinių“ priede „Informaciniai pranešimai“.
+6. Valstybinė
+vaistų kontrolės tarnyba apie vaistininko praktikos licencijų išdavimą ir
+galiojimo panaikinimą skelbia „Valstybės žinių“ priede „Informaciniai
+pranešimai“.
 7. Už licencijos
 išdavimą mokama nustatyto dydžio valstybės rinkliava.
 8. Vaistininko
@@ -561,10 +587,10 @@ praktikos licencijavimo taisyklėse nurodytus dokumentus gali būti išduodama t
 praėjus 6 mėnesiams nuo licencijos galiojimo panaikinimo dienos, išskyrus
 atvejus, kai licencija panaikinta dėl įsiteisėjusio teismo sprendimo arba
 apribojus asmens veiksnumą įsiteisėjusiu teismo sprendimu. Tokiu atveju nauja
-licencija gali būti išduodama ne anksčiau kaip suėjus teismo sprendime nurodytam
-terminui arba teismui panaikinus asmens veiksnumo apribojimą. 6 mėnesių
-terminas netaikomas, jeigu licencijos galiojimas panaikinamas jos turėtojo
-prašymu.
+licencija gali būti išduodama ne anksčiau kaip suėjus teismo sprendime
+nurodytam terminui arba teismui panaikinus asmens veiksnumo apribojimą. 6
+mėnesių terminas netaikomas, jeigu licencijos galiojimas panaikinamas jos
+turėtojo prašymu.
 12. Licencijas
 išduodančios institucijos sprendimai skundžiami teisės aktų nustatyta tvarka.
  
@@ -600,8 +626,8 @@ nustatyta tvarka atsako darbdavys.
 6. Vaistininko
 padėjėjai (farmakotechnikai) privalo Valstybinei vaistų kontrolės tarnybai kas
 5 metus pateikti dokumentus, patvirtinančius, kad vaistininko padėjėjo
-(farmakotechniko) profesinė kvalifikacija buvo keliama sveikatos apsaugos ministro
-įsakymu nustatyta tvarka. 
+(farmakotechniko) profesinė kvalifikacija buvo keliama sveikatos apsaugos
+ministro įsakymu nustatyta tvarka. 
 7. Pareiškėjas į
 sąrašą neįrašomas, jeigu: 
 1) pateikti ne
@@ -616,16 +642,16 @@ teismo sprendimu.
 8. Vaistininko
 padėjėjas (farmakotechnikas) išbraukiamas iš Vaistininko padėjėjų
 (farmakotechnikų) sąrašo:
-1) paties
-prašymu; 
+1) paties prašymu;
+
 2) jeigu
 vaistininko padėjėjui (farmakotechnikui) uždrausta verstis vaistininko padėjėjo
 (farmakotechniko) praktika įsiteisėjusiu teismo sprendimu;
 3) jeigu
 vaistininko padėjėjo (farmakotechniko) veiksnumas apribojamas įsiteisėjusiu
 teismo sprendimu;
-4) jeigu paaiškėja,
-kad įrašymui į sąrašą pareiškėjas pateikė klaidingus duomenis;
+4) jeigu
+paaiškėja, kad įrašymui į sąrašą pareiškėjas pateikė klaidingus duomenis;
 5) vaistininko
 padėjėjui (farmakotechnikui) neįvykdžius šio straipsnio 6 dalyje nustatytos
 pareigos;
@@ -647,11 +673,13 @@ kvalifikaciją darbuotojai Darbo kodekso nustatyta tvarka atleidžiami nuo darbo
 straipsnis. Vaistininkų ir vaistininko padėjėjų (farmakotechnikų) teisės ir
 pareigos 
 1. Vaistininko
-ir vaistininko padėjėjo (farmakotechniko)
-teises, pareigas, profesinę kompetenciją ir atsakomybę nustato šis įstatymas,
-sveikatos apsaugos ministro patvirtintas vaistininko ir vaistininko padėjėjo (farmakotechniko)
-teisių ir pareigų paskirstymo aprašas, kiti teisės aktai, vaistininko ir
-vaistininko padėjėjo (farmakotechniko) pareigybių aprašymai.
+ir vaistininko padėjėjo
+(farmakotechniko) teises, pareigas, profesinę kompetenciją ir
+atsakomybę nustato šis įstatymas, sveikatos apsaugos ministro patvirtintas
+vaistininko ir vaistininko padėjėjo
+(farmakotechniko) teisių ir pareigų paskirstymo aprašas,
+kiti teisės aktai, vaistininko ir vaistininko padėjėjo (farmakotechniko)
+pareigybių aprašymai.
 2. Vaistininkas
 turi teisę:
 1) šio įstatymo
@@ -681,8 +709,8 @@ apsaugos ministro nustatyta tvarka kelti savo profesinę kvalifikaciją;
 2) vaistininko
 praktikos licencijavimo taisyklių nustatyta tvarka ne rečiau kaip kas 5 metus
 pranešti Valstybinei vaistų kontrolės tarnybai apie
-profesinės kvalifikacijos kėlimą ir vaistininko praktiką, jeigu vaistininkas
-vykdo farmacijos praktiką vaistinėje;
+profesinės kvalifikacijos kėlimą ir vaistininko praktiką, jeigu vaistininkas vykdo
+farmacijos praktiką vaistinėje;
 3) laikytis
 vaistininko profesinės etikos principų;
 4) atlikti kitas
@@ -697,8 +725,8 @@ vaistinių prekes, teikti informaciją apie jų vartojimą ir laikymo sąlygas,
 kontroliuojamas vaistininko parduoti (išduoti) vaistinius preparatus;
 3) gaminti
 ekstemporalius vaistinius preparatus;
-4) tvarkyti vaistinių
-preparatų ir vaistinių prekių atsargas;
+4) tvarkyti
+vaistinių preparatų ir vaistinių prekių atsargas;
 5) gauti
 informaciją, būtiną vaistininko padėjėjo (farmakotechniko) praktikai vykdyti;
 6) dalyvauti
@@ -721,8 +749,8 @@ teisės aktų.
  
 TREČIASIS
 SKIRSNIS
-VAISTINIŲ PREPARATŲ
-TIEKIMAS RINKAI
+VAISTINIŲ
+PREPARATŲ TIEKIMAS RINKAI
  
 8
 straipsnis. Bendrosios nuostatos 
@@ -733,9 +761,9 @@ Lietuvos Respublikos vaistinių preparatų registre, Bendrijos vaistinių
 preparatų registre arba Lygiagrečiai importuojamų vaistinių preparatų sąraše
 (toliau – registruoti vaistiniai preparatai).
 2. Registravimo
-reikalavimas taip pat taikomas radionuklidų generatoriams, radionuklidų rinkiniams,
-radiofarmaciniams preparatams – radionuklidų pirmtakams ir pramoniniu būdu
-pagamintiems radiofarmaciniams preparatams.
+reikalavimas taip pat taikomas radionuklidų generatoriams, radionuklidų
+rinkiniams, radiofarmaciniams preparatams – radionuklidų pirmtakams ir
+pramoniniu būdu pagamintiems radiofarmaciniams preparatams.
 3. Sveikatos
 apsaugos ministro nustatyta tvarka gali būti tiekiami Lietuvos Respublikos
 rinkai ir vartojami sveikatos priežiūrai šie neregistruoti vaistiniai
@@ -758,9 +786,9 @@ nustatoma sveikatai pavojingų patogeninių ar cheminių veiksnių, toksinų arb
 jonizuojančioji radiacija, taip pat įvykus gaivalinei nelaimei. 
 6. Nepažeidžiant
 sveikatos apsaugos ministro nustatytos vardinių vaistinių preparatų tiekimo
-tvarkos reikalavimų, rinkodaros teisės turėtojams, gamintojams ir sveikatos
-priežiūros specialistams netaikoma atsakomybė už pasekmes dėl neregistruotų
-vaistinių preparatų vartojimo ar registruotų vaistinių preparatų vartojimo
+tvarkos reikalavimų, rinkodaros teisės turėtojams, gamintojams ir sveikatos priežiūros
+specialistams netaikoma atsakomybė už pasekmes dėl neregistruotų vaistinių
+preparatų vartojimo ar registruotų vaistinių preparatų vartojimo
 nepatvirtintomis indikacijomis, jei tą daryti rekomendavo arba nurodė Sveikatos
 apsaugos ministerija, įtarusi arba nustačiusi sveikatai pavojingų patogeninių
 ar cheminių veiksnių, toksinų ar jonizuojančiąją radiaciją arba įvykus
@@ -811,10 +839,11 @@ preparatais laikomi produktai, kurie yra sąmoningai apgaulės tikslu neteisinga
 paženklinti, atsižvelgiant į jų tapatybę ir (ar) kilmę.
 15. Sveikatos apsaugos ministerija arba
 jos įgaliota institucija:
-1) organizuoja ir koordinuoja Lietuvos
-gyventojų aprūpinimą būtiniausiais vaistiniais preparatais, teisinėmis bei
-organizacinėmis priemonėmis reguliuoja ir užtikrina nenutrūkstamą kokybiškų,
-saugių, efektyvių ir būtinų vaistinių preparatų tiekimą į šalies vaistines;
+1) organizuoja ir koordinuoja
+Lietuvos gyventojų aprūpinimą būtiniausiais vaistiniais preparatais, teisinėmis
+bei organizacinėmis priemonėmis reguliuoja ir užtikrina nenutrūkstamą
+kokybiškų, saugių, efektyvių ir būtinų vaistinių preparatų tiekimą į šalies
+vaistines;
 2) griežtai
 stebi, kaip vaistinio preparato rinkodaros teisės turėtojai atlieka savo
 pareigas nenutrūkstamai tiekti gyvybiškai būtinus vaistinius preparatus,
@@ -875,51 +904,51 @@ sąrašo pakeitimus informuoja Europos Komisiją ir kitas EEE valstybes.
  
 10
 straipsnis. Vaistinių preparatų klasifikavimo kriterijai 
-1.
-Vaistiniai preparatai skirstomi į receptinius ir nereceptinius.
-2.
-Receptiniams vaistiniams preparatams priskiriami tie, kurie atitinka nors vieną
-iš šių kriterijų:
-1)
-vartojami be gydytojo priežiūros (netgi laikantis nurodymų) gali kelti
-tiesioginį ar netiesioginį pavojų sveikatai;
-2)
-dažnai ir labai dideliu mastu vartojami netinkamai ir todėl gali kelti
-tiesioginį ar netiesioginį pavojų sveikatai;
-3)
-jų sudėtyje yra medžiagų ar jų darinių, kurių veikimą ir (ar) nepageidaujamas
-reakcijas reikia tirti toliau;
-4)
-paprastai skiriami gydytojo vartoti parenteraliniu būdu;
-5)
-dėl farmacinių savybių, naujumo arba visuomenės sveikatos interesais vartotini
+1. Vaistiniai
+preparatai skirstomi į receptinius ir nereceptinius.
+2. Receptiniams
+vaistiniams preparatams priskiriami tie, kurie atitinka nors vieną iš šių
+kriterijų:
+1) vartojami be
+gydytojo priežiūros (netgi laikantis nurodymų) gali kelti tiesioginį ar
+netiesioginį pavojų sveikatai;
+2) dažnai ir
+labai dideliu mastu vartojami netinkamai ir todėl gali kelti tiesioginį ar
+netiesioginį pavojų sveikatai;
+3) jų sudėtyje
+yra medžiagų ar jų darinių, kurių veikimą ir (ar) nepageidaujamas reakcijas
+reikia tirti toliau;
+4) paprastai
+skiriami gydytojo vartoti parenteraliniu būdu;
+5) dėl
+farmacinių savybių, naujumo arba visuomenės sveikatos interesais vartotini
 gydymui, kurį galima taikyti tik ligoninėje;
-6)
-skirti gydyti ligoms, kurios turi būti diagnozuojamos ligoninėje arba
-įstaigoje, turinčioje atitinkamą diagnostikos įrangą (nors jie gali būti vartojami
-ir pacientas gali būti stebimas kitomis sąlygomis);
-7)
-skirti ambulatoriniam gydymui, tačiau galintys sukelti labai sunkius
-nepageidaujamos reakcijos padarinius, dėl kurių reikia gydytojo recepto ir
-specialaus paciento stebėjimo gydymo metu.
-3.
-Receptinių vaistinių preparatų grupėje nustatomas specialiuose receptų
-blankuose išrašomų preparatų pogrupis. Jam priskiriami vaistiniai preparatai,
-atitinkantys nors vieną iš šių kriterijų: 
+6) skirti gydyti
+ligoms, kurios turi būti diagnozuojamos ligoninėje arba įstaigoje, turinčioje
+atitinkamą diagnostikos įrangą (nors jie gali būti vartojami ir pacientas gali
+būti stebimas kitomis sąlygomis);
+7) skirti
+ambulatoriniam gydymui, tačiau galintys sukelti labai sunkius nepageidaujamos
+reakcijos padarinius, dėl kurių reikia gydytojo recepto ir specialaus paciento
+stebėjimo gydymo metu.
+3. Receptinių
+vaistinių preparatų grupėje nustatomas specialiuose receptų blankuose išrašomų
+preparatų pogrupis. Jam priskiriami vaistiniai preparatai, atitinkantys nors
+vieną iš šių kriterijų: 
 1) jų sudėtyje
 yra narkotinių ar psichotropinių medžiagų, įrašytų į Lietuvos Respublikos
 sveikatos apsaugos ministro tvirtinamų Narkotinių ir psichotropinių medžiagų
 sąrašų II sąrašą (Narkotinės ir psichotropinės medžiagos, leidžiamos vartoti
 medicinos tikslams);
-2)
-netinkamai vartojami jie gali kelti didelį piktnaudžiavimo pavojų, sukelti
-priklausomybę arba gali būti vartojami neteisėtais tikslais;
-3)
-jų sudėtyje yra vaistinių medžiagų, kurias dėl naujumo arba savybių atsargumo
-dėlei galima priskirti nurodytiesiems šio straipsnio 3 dalies 2 punkte.
-4.
-Vaistiniai preparatai, kurie neatitinka šio straipsnio 2 ir (ar) 3 dalies
-kriterijų, priskiriami nereceptinių vaistinių preparatų grupei.
+2) netinkamai
+vartojami jie gali kelti didelį piktnaudžiavimo pavojų, sukelti priklausomybę
+arba gali būti vartojami neteisėtais tikslais;
+3) jų sudėtyje
+yra vaistinių medžiagų, kurias dėl naujumo arba savybių atsargumo dėlei galima
+priskirti nurodytiesiems šio straipsnio 3 dalies 2 punkte.
+4. Vaistiniai
+preparatai, kurie neatitinka šio straipsnio 2 ir (ar) 3 dalies kriterijų,
+priskiriami nereceptinių vaistinių preparatų grupei.
  
 11
 straipsnis. Paraiškos gauti vaistinio preparato rinkodaros teisę teikimas 
@@ -944,8 +973,8 @@ preparato rinkodaros teisę pagal nacionalinę procedūrą.
 4. Kartu su
 paraiška, be kitų sveikatos apsaugos ministro nustatytų dokumentų ir
 informacijos, turi būti pateikti farmacinių (fizikinių-cheminių, biologinių ar
-mikrobiologinių), ikiklinikinių (toksikologinių ir farmakologinių) ir klinikinių
-tyrimų rezultatai. 
+mikrobiologinių), ikiklinikinių (toksikologinių ir farmakologinių) ir
+klinikinių tyrimų rezultatai. 
 5. Nepažeidžiant
 pramoninės nuosavybės ir komercinių paslapčių apsaugos, ikiklinikinių ir
 klinikinių tyrimų rezultatų galima nepateikti įrodžius, kad teikiamas
@@ -994,8 +1023,8 @@ vaistinis preparatas neatitinka generinio vaistinio preparato sąvokos arba
 biologinis ekvivalentiškumas negali būti įrodytas atitinkamais biologinio
 įsisavinamumo tyrimais, arba jei yra modifikuojama veiklioji medžiaga
 (medžiagos), terapinės indikacijos, stiprumas, farmacinė forma arba vartojimo
-būdas (palyginti su referenciniu vaistiniu preparatu), turi būti pateikti
-atitinkamų ikiklinikinių ar klinikinių tyrimų duomenys.
+būdas (palyginti su referenciniu vaistiniu preparatu), turi būti pateikti atitinkamų
+ikiklinikinių ar klinikinių tyrimų duomenys.
 11. Jei
 biologinis vaistinis preparatas, panašus į referencinį biologinį preparatą,
 neatitinka generinio vaistinio preparato sąvokos dėl žaliavų ar gamybos procesų
@@ -1030,9 +1059,9 @@ rezultatų pateikiama atitinkama mokslinė literatūra.
 15. Jei teikiamo
 registruoti vaistinio preparato veikliosios medžiagos įtrauktos į anksčiau
 įregistruotų vaistinių preparatų sudėtį, tačiau jų derinys terapiniais tikslais
-nevartotas, pateikiami to derinio naujų ikiklinikinių ar klinikinių tyrimų rezultatai.
-Nuorodų į mokslinius duomenis apie kiekvieną veikliąją medžiagą pateikti
-nereikia.
+nevartotas, pateikiami to derinio naujų ikiklinikinių ar klinikinių tyrimų
+rezultatai. Nuorodų į mokslinius duomenis apie kiekvieną veikliąją medžiagą
+pateikti nereikia.
 16. Vaistinio
 preparato rinkodaros teisės turėtojas gali leisti naudoti jo vardu įregistruoto
 preparato registravimo byloje pateiktus farmacinius, ikiklinikinius ir
@@ -1070,8 +1099,8 @@ kad gamintojas ir (ar) importuotojas turi sąlygas gaminti ir (ar) kontroliuoti
 vaistinį preparatą pagal metodus, aprašytus kartu su paraiška gauti rinkodaros
 teisę pateiktuose dokumentuose; pareiškėjui pateikus motyvuotą prašymą,
 Valstybinė vaistų kontrolės tarnyba gali leisti, kad tam tikros stadijos gamyba
-ir (ar) kontrolė būtų atliekama trečiųjų asmenų, kurie atitinka šiuos
-reikalavimus. 
+ir (ar) kontrolė būtų atliekama trečiųjų asmenų, kurie atitinka šiuos reikalavimus.
+
 2. Vaistinio preparato rinkodaros pažymėjimas išduodamas arba
 motyvuotas atsisakymas jį išduoti priimamas ne vėliau kaip per 210 dienų nuo
 paraiškos, pateiktos pagal nustatytus reikalavimus, priėmimo dienos. Laikas,
@@ -1090,8 +1119,8 @@ vaistinį preparatą į Lietuvos Respublikos vaistinių preparatų registrą;
 3) priskiria
 preparatą nereceptiniams ar receptiniams vaistiniams preparatams vadovaudamasi šio
 įstatymo nustatytais vaistinių preparatų klasifikavimo kriterijais;
-4) viešai visuomenės informavimo priemonėse praneša apie vaistinio preparato
-įregistravimą ir paskelbia jo charakteristikų santrauką;
+4) viešai visuomenės informavimo priemonėse praneša apie vaistinio
+preparato įregistravimą ir paskelbia jo charakteristikų santrauką;
 5) parengia
 vaistinio preparato farmacinių, ikiklinikinių ir klinikinių tyrimų dokumentų
 vertinimo protokolą; jis atnaujinamas gavus naujos informacijos apie preparato
@@ -1145,9 +1174,9 @@ nustatyto dydžio valstybės rinkliava.
 pažymėjimo galiojimas ir rinkodaros teisės atnaujinimas
 1. Vaistinio
 preparato rinkodaros teisė suteikiama 5 metų laikotarpiui.
-2. Paraišką atnaujinti
-vaistinio preparato rinkodaros teisę jos turėtojas turi pateikti likus ne
-mažiau kaip 6 mėnesiams iki jos galiojimo pabaigos.
+2. Paraišką
+atnaujinti vaistinio preparato rinkodaros teisę jos turėtojas turi pateikti
+likus ne mažiau kaip 6 mėnesiams iki jos galiojimo pabaigos.
 3. Kartu su
 paraiška atnaujinti rinkodaros teisę jos turėtojas turi pateikti konsoliduotą
 bylą, apimančią vaistinio preparato kokybę, saugumą, veiksmingumą ir visas
@@ -1225,9 +1254,9 @@ serijas, kiekvienos serijos bandinius turi pateikti ištirti Valstybinei vaistų
 kontrolės tarnybai, išskyrus atvejus, kai serijos kontrolė atlikta kitos EEE
 valstybės oficialioje vaistų kontrolės laboratorijoje ar įgaliotoje tokius
 tyrimus atlikti laboratorijoje, kuri patvirtina, kad serija atitinka kokybės
-kontrolės dokumentus, pateiktus kartu su paraiška gauti rinkodaros teisę. Šiuo atveju
-Valstybinei vaistų kontrolės tarnybai pateikiama EEE oficialios kontrolės
-institucijos serijos išleidimo pažymėjimo kopija.
+kontrolės dokumentus, pateiktus kartu su paraiška gauti rinkodaros teisę. Šiuo
+atveju Valstybinei vaistų kontrolės tarnybai pateikiama EEE oficialios
+kontrolės institucijos serijos išleidimo pažymėjimo kopija.
 10. Rinkodaros teisės turėtojas turi užtikrinti, kad būtų tinkamai
 atliktas kraujo preparatų gamybos ir gryninimo procesų specialusis
 patvirtinimas, gamybos serijos vienodos ir, kiek tai leidžia šiuolaikinės
@@ -1263,13 +1292,12 @@ preparatai, atitinkantys sveikatos apsaugos ministro nustatytus kriterijus,
 registruojami pagal sveikatos apsaugos ministro nustatytą supaprastintą
 homeopatinių vaistinių preparatų registravimo procedūrą. Šiems preparatams
 netaikomi farmakologinio budrumo reikalavimai.
-2. Sveikatos
-apsaugos ministras, atsižvelgdamas į Lietuvos Respublikos homeopatijos
-tradicijas ir sveikatos priežiūros poreikius, homeopatiniams preparatams,
-išskyrus nurodytus šio straipsnio 1 dalyje, gali patvirtinti specialią
-registravimo procedūrą, nustatydamas specifinius ikiklinikinių ir klinikinių
-tyrimų reikalavimus. Jei tokia procedūra patvirtinama, apie tai informuojama
-Europos Komisija.
+2. Sveikatos apsaugos
+ministras, atsižvelgdamas į Lietuvos Respublikos homeopatijos tradicijas ir
+sveikatos priežiūros poreikius, homeopatiniams preparatams, išskyrus nurodytus
+šio straipsnio 1 dalyje, gali patvirtinti specialią registravimo procedūrą,
+nustatydamas specifinius ikiklinikinių ir klinikinių tyrimų reikalavimus. Jei
+tokia procedūra patvirtinama, apie tai informuojama Europos Komisija.
 3. Homeopatiniai
 vaistiniai preparatai, nenurodyti šio straipsnio 1 ir 2 dalyse, registruojami
 šio įstatymo 11 straipsnio nustatyta tvarka.
@@ -1333,13 +1361,13 @@ vaistinį preparatą į Lygiagrečiai importuojamų vaistinių preparatų sąra�
 preparato lygiagretaus importo leidimas gali būti išduodamas tik juridiniam
 asmeniui, gavusiam šio įstatymo nustatyta tvarka išduotą didmeninio platinimo
 licenciją. 
-7. Vaistinio preparato
-lygiagretaus importo leidimas išduodamas arba motyvuotas atsisakymas jį išduoti
-priimamas per 45 dienas nuo paraiškos ir dokumentų, pateiktų pagal sveikatos
-apsaugos ministro nustatytus reikalavimus, priėmimo dienos. Laikas, per kurį
-pareiškėjas pateikia Valstybinės vaistų kontrolės tarnybos pareikalautus
-papildomus dokumentus, informaciją ir prireikus paaiškinimus raštu, į paraiškos
-nagrinėjimo laiką neįskaičiuojamas.
+7. Vaistinio
+preparato lygiagretaus importo leidimas išduodamas arba motyvuotas atsisakymas
+jį išduoti priimamas per 45 dienas nuo paraiškos ir dokumentų, pateiktų pagal
+sveikatos apsaugos ministro nustatytus reikalavimus, priėmimo dienos. Laikas,
+per kurį pareiškėjas pateikia Valstybinės vaistų kontrolės tarnybos
+pareikalautus papildomus dokumentus, informaciją ir prireikus paaiškinimus
+raštu, į paraiškos nagrinėjimo laiką neįskaičiuojamas.
 8. Lygiagretaus
 importo leidimas išduodamas 5 metams. Lygiagrečiai importuojamas vaistinis
 preparatas perregistruojamas, išduodant naują lygiagretaus importo leidimą,
@@ -1382,16 +1410,15 @@ ministro nustatytus kvalifikacinius reikalavimus.
 klinikiniai vaistinių preparatų tyrimai turi būti planuojami, atliekami,
 registruojami ir ataskaitos apie juos teikiamos laikantis sveikatos apsaugos
 ministro patvirtintų Geros klinikinės praktikos taisyklių reikalavimų.
-4.
-Klinikinius vaistinio preparato tyrimus vykdyti galima tik turint Lietuvos
-bioetikos komiteto pritarimo atlikti klinikinį vaistinio preparato tyrimą
-liudijimą ir Valstybinės vaistų kontrolės tarnybos leidimą. Pritarimo atlikti
-klinikinį vaistinio preparato tyrimą liudijimų ir leidimų atlikti klinikinį
-vaistinio preparato tyrimą išdavimo tvarką nustato sveikatos apsaugos
-ministras. 
-5.
-Tiriamieji vaistiniai preparatai klinikiniams tyrimams įsigyjami ir išduodami
-sveikatos apsaugos ministro nustatyta tvarka. 
+4. Klinikinius
+vaistinio preparato tyrimus vykdyti galima tik turint Lietuvos bioetikos
+komiteto pritarimo atlikti klinikinį vaistinio preparato tyrimą liudijimą ir
+Valstybinės vaistų kontrolės tarnybos leidimą. Pritarimo atlikti klinikinį
+vaistinio preparato tyrimą liudijimų ir leidimų atlikti klinikinį vaistinio
+preparato tyrimą išdavimo tvarką nustato sveikatos apsaugos ministras. 
+5. Tiriamieji
+vaistiniai preparatai klinikiniams tyrimams įsigyjami ir išduodami sveikatos
+apsaugos ministro nustatyta tvarka. 
 6. Klinikinio
 tyrimo užsakovas ar jo atstovas ir (ar) pagrindinis tyrėjas, norėdami gauti
 pritarimo liudijimą ar leidimą klinikiniams vaistinių preparatų tyrimams
@@ -1407,10 +1434,10 @@ vaistų kontrolės tarnyba leidimą atlikti klinikinį tyrimą išduoda arba
 motyvuotą atsisakymą jį išduoti pateikia ne vėliau kaip per 60 dienų nuo
 paraiškos priėmimo dienos. Ji gali išduoti leidimą klinikiniam tyrimui atlikti
 tik esant Lietuvos bioetikos komiteto pritarimui.
-8. Šio straipsnio
-7 dalyje nurodytas terminas gali būti pratęsiamas 30 dienų tais atvejais, kai
-prašoma leidimo tyrimams, kurių metu naudojami šie tiriamieji vaistiniai
-preparatai:
+8. Šio
+straipsnio 7 dalyje nurodytas terminas gali būti pratęsiamas 30 dienų tais
+atvejais, kai prašoma leidimo tyrimams, kurių metu naudojami šie tiriamieji
+vaistiniai preparatai:
 1) skirti genų
 terapijai;
 2) skirti
@@ -1424,9 +1451,9 @@ Ksenogeninių ląstelių terapijos klinikinių tyrimų leidimo išdavimo termina
 neribojamas.
 10. Valstybinė
 vaistų kontrolės tarnyba duomenis apie klinikinį vaistinio preparato tyrimą į
-Europos duomenų bazę „EudraCT“ įtraukia pagal Valstybinės vaistų kontrolės tarnybos
-patvirtiną standartinės veiklos tvarką, parengtą vadovaujantis išsamiomis
-Europos Komisijos rekomendacijomis. 
+Europos duomenų bazę „EudraCT“ įtraukia pagal Valstybinės vaistų kontrolės
+tarnybos patvirtiną standartinės veiklos tvarką, parengtą vadovaujantis
+išsamiomis Europos Komisijos rekomendacijomis. 
 11. Jei
 Valstybinė vaistų kontrolės tarnyba arba Lietuvos bioetikos komitetas turi
 objektyvių priežasčių manyti, kad paraiška gauti leidimą vykdyti klinikinį
@@ -1475,8 +1502,7 @@ platinimas, vaistinės veikla ir farmacinių atliekų tvarkymas (išskyrus
 2. Juridiniams
 asmenims ir užsienio juridinių asmenų filialams (toliau – juridinis asmuo)
 išduodamos šios licencijų rūšys:
-1) gamybos
-licencija;
+1) gamybos licencija;
 2) didmeninio
 platinimo licencija;
 3) vaistinės
@@ -1486,10 +1512,10 @@ vaistinės veiklos licencija;
 5) farmacinių
 atliekų tvarkymo, išskyrus šalinimą, licencija.
 3. Licencijas
-išduoda, pakeičia, stabdo, naikina jų galiojimą ar naikina galiojimo sustabdymą,
-įrašo pasikeitusius informaciją ir (ar) duomenis į dokumentus, pateiktus
-licencijai gauti, Valstybinė vaistų kontrolės tarnyba. Farmacinės veiklos
-licencijavimo taisykles tvirtina Vyriausybė. 
+išduoda, pakeičia, stabdo, naikina jų galiojimą ar naikina galiojimo
+sustabdymą, įrašo pasikeitusius informaciją ir (ar) duomenis į dokumentus,
+pateiktus licencijai gauti, Valstybinė vaistų kontrolės tarnyba. Farmacinės
+veiklos licencijavimo taisykles tvirtina Vyriausybė. 
  
 20
 straipsnis. Licencijų išdavimas
@@ -1505,8 +1531,8 @@ nustatyta tvarka yra pasirengęs vykdyti farmacinę veiklą.
 3. Valstybinė
 vaistų kontrolės tarnyba priima sprendimą išduoti licenciją tik įsitikinusi,
 kad pateikti duomenys ir informacija atitinka šio įstatymo, Farmacinės veiklos
-licencijavimo taisyklių, sveikatos apsaugos ministro įsakymų ir kitų teisės
-aktų nustatytus reikalavimus.
+licencijavimo taisyklių, sveikatos apsaugos ministro įsakymų ir kitų teisės aktų
+nustatytus reikalavimus.
 4. Licencija
 išduodama šio įstatymo nustatytais terminais. Jei reikia, Valstybinė vaistų
 kontrolės tarnyba turi teisę prašyti pareiškėją pateikti su sprendimo priėmimu,
@@ -1529,8 +1555,8 @@ sprendimą dėl licencijos išdavimo.
 vaistų kontrolės tarnyba apie licencijų išdavimą, keitimą, galiojimo
 sustabdymą, galiojimo sustabdymo panaikinimą ar licencijos panaikinimą praneša
 Juridinių asmenų registrui juridinių asmenų registro nuostatuose nustatyta
-tvarka, paskelbia „Valstybės žinių“ priede „Informaciniai pranešimai“ ir Valstybinės
-vaistų kontrolės tarnybos interneto svetainėje.
+tvarka, paskelbia „Valstybės žinių“ priede „Informaciniai pranešimai“ ir
+Valstybinės vaistų kontrolės tarnybos interneto svetainėje.
 7. Licencija
 išduodama neterminuotam laikui. 
 8. Už juridinio asmens pasirengimo vykdyti farmacinę veiklą teisės aktų
@@ -1545,10 +1571,10 @@ pateiktuose jo licencijai gauti (toliau – licencijos informacija ir duomenys),
 jis turi pateikti Valstybinei vaistų kontrolės tarnybai sveikatos apsaugos
 ministro nustatytos formos paraišką ir dokumentus, patvirtinančius keičiamus
 licencijos informaciją ir duomenis.
-2. Valstybinė
-vaistų kontrolės tarnyba, gavusi paraišką, turi teisę nuvykti į deklaruojamą
-vietą ir patikrinti, ar juridinis asmuo pasirengęs vykdyti farmacinę veiklą
-naujomis sąlygomis.
+2. Valstybinė vaistų
+kontrolės tarnyba, gavusi paraišką, turi teisę nuvykti į deklaruojamą vietą ir
+patikrinti, ar juridinis asmuo pasirengęs vykdyti farmacinę veiklą naujomis
+sąlygomis.
 3. Sprendimas
 dėl keičiamų licencijos informacijos ir duomenų priimamas ne vėliau kaip per 30
 dienų nuo paraiškos ir dokumentų pateikimo, išskyrus atvejus, numatytus šio
@@ -1602,8 +1628,8 @@ kontrolės tarnybai prašymą panaikinti licencijos galiojimą;
 turėtojas, kurio licencijos galiojimas buvo sustabdytas, per nustatytą terminą
 nepašalina licencijuojamos veiklos sąlygų pažeidimų;
 3) Valstybinė
-vaistų kontrolės tarnyba nustato, kad sustabdžius licencijos galiojimą
-juridinis asmuo ar jo filialas toliau verčiasi licencijuojama farmacine veikla;
+vaistų kontrolės tarnyba nustato, kad sustabdžius licencijos galiojimą juridinis
+asmuo ar jo filialas toliau verčiasi licencijuojama farmacine veikla;
 4) juridinis
 asmuo pasibaigė;
 5) pateikti
@@ -1654,8 +1680,8 @@ asmenims;
 3)
 radiofarmaciniams preparatams, kuriuos pagal gamintojo nurodymus iš registruotų
 radionuklidų generatorių, radionuklidų rinkinių ar radionuklidų pirmtakų prieš
-vartojimą ruošia sveikatos priežiūros įstaiga, turinti veiklos su jonizuojančiosios
-spinduliuotės šaltiniais licenciją, toje įstaigoje vartoti;
+vartojimą ruošia sveikatos priežiūros įstaiga, turinti veiklos su
+jonizuojančiosios spinduliuotės šaltiniais licenciją, toje įstaigoje vartoti;
 4) tiriamiesiems
 vaistiniams preparatams prieš vartojimą ar pakavimą praskiesti, jei tai atlieka
 klinikinių tyrimų centruose farmacijos specialistai ar kiti tam įgalioti
@@ -1684,13 +1710,44 @@ pagalbinės medžiagos).
 medžiagų, kurios naudojamos kaip pradinės medžiagos vaistiniams preparatams
 gaminti, gamybai priskiriama visa ir dalinė gamyba, taip pat veikliosios
 medžiagos importas ir įvairūs procesai, susiję su jos fasavimu, pakavimu,
-ženklinimu ar prezentacija iki šios medžiagos naudojimo vaistinio preparato
-gamybai, įskaitant kartotinį supakavimą ar ženklinimą.
+ženklinimu ar prezentacija iki šios medžiagos naudojimo vaistinio preparato gamybai,
+įskaitant kartotinį supakavimą ar ženklinimą.
 8. Šio skirsnio
 nuostatos taikomos ir tarpiniams produktams.
 9. Kraujo
 preparatai gali būti gaminami tik iš žmogaus kraujo ir plazmos, kurie
 surinkti ir ištirti pagal sveikatos apsaugos ministro nustatytus reikalavimus.
+ 
+Įstatymas papildomas 241 straipsniu
+nuo 2009 m. liepos 1 d., straipsnio 4 dalis įsigalioja nuo 2008 m. gruodžio 30 d.:
+241 straipsnis. Pažangios terapijos
+vaistinių preparatų konkretiems pacientams gamybos reikalavimai
+1. Pažangios
+terapijos vaistinius preparatus konkretiems pacientams pagal gydytojo paskyrimą
+turi teisę gaminti juridiniai asmenys, turintys asmens sveikatos priežiūros
+veiklos licenciją ir Valstybinės vaistų kontrolės tarnybos išduotą leidimą. 
+2. Sveikatos
+apsaugos ministras nustato tokių vaistinių preparatų kokybės standartus,
+saugumo, atsekamumo, farmakologinio budrumo reikalavimus, atitinkančius
+Bendrijos nustatytuosius pažangios terapijos vaistiniams preparatams, ir
+leidimų juos gaminti išdavimo tvarką.
+3. Pažangios
+terapijos vaistiniai preparatai konkretiems pacientams pagal gydytojo paskyrimą
+gali būti gaminami ir vartojami tik Lietuvos Respublikoje gydytojui prisiimant
+profesinę atsakomybę už jų skyrimą ir vartojimą.
+4. Gaminti
+pažangios terapijos vaistinius preparatus iš žmogaus embriono audinių, embriono
+kamieninių ląstelių ir jų linijų ar vaisiaus audinių ir iš jų paimtų kamieninių
+ląstelių ir jų linijų arba kitaip naudoti žmogaus embriono audinius, embriono
+kamienines ląsteles ir jų linijas ar vaisiaus audinius ir iš jų paimtas
+kamienines ląsteles ir jų linijas tokių vaistinių preparatų gamyboje
+draudžiama. Šis draudimas netaikomas pažangios terapijos vaistinių preparatų
+gamybai iš kamieninių ląstelių, išgaunamų iš virkštelės ar placentos po vaiko
+gimimo.
+Įstatymas papildytas
+straipsniu:
+Nr. XI-59, 2008-12-16,
+Žin., 2008, Nr. 149-5991 (2008-12-30)
  
 25 straipsnis. Reikalavimai juridiniam asmeniui,
 norinčiam gauti gamybos licenciją 
@@ -1760,14 +1817,14 @@ laikotarpiui, ne ilgesniam kaip 3 mėnesiai per vienus metus, licencijos keisti
 nereikia;
 5) leisti Valstybinės vaistų kontrolės tarnybos
 darbuotojams, turintiems administravimo įgaliojimus pagal pareigas pavaldiems
-ir nepavaldiems asmenims, pateikusiems tarnybinį pažymėjimą ir pavedimą, laisvai
-ir be išankstinio perspėjimo gamybos licencijos turėtojo darbo valandomis, o
-kitu laiku – įstatymų nustatyta tvarka pasitelkus kompetentingų teisėsaugos
-įstaigų pareigūnus, įeiti į visas patalpas, esančias licencijoje nurodytose
-veiklos vietose, siekiant
-patikrinti, ar laikomasi šio įstatymo ir kitų norminių teisės aktų reikalavimų;
-pateikti duomenis ir dokumentus (jų nuorašus, išrašus), daiktus, reikalingus
-Valstybinės vaistų kontrolės tarnybos funkcijoms atlikti. 
+ir nepavaldiems asmenims, pateikusiems tarnybinį pažymėjimą ir pavedimą,
+laisvai ir be išankstinio perspėjimo gamybos licencijos turėtojo darbo
+valandomis, o kitu laiku – įstatymų nustatyta tvarka pasitelkus kompetentingų
+teisėsaugos įstaigų pareigūnus, įeiti į visas patalpas, esančias licencijoje
+nurodytose veiklos vietose,
+siekiant patikrinti, ar laikomasi šio įstatymo ir kitų norminių teisės aktų
+reikalavimų; pateikti duomenis ir dokumentus (jų nuorašus, išrašus), daiktus,
+reikalingus Valstybinės vaistų kontrolės tarnybos funkcijoms atlikti. 
 6) suteikti
 kvalifikuotam asmeniui, atsakingam už gamybą ir (ar) importą, įgaliojimus
 vykdyti jam šiuo įstatymu nustatytas pareigas ir užtikrinti jų nuolatinį ir
@@ -1807,8 +1864,8 @@ teisei įgyti;
 valstybėje būtų atlikta vaistinio preparato, importuojamo iš trečiosios šalies,
 nepaisant to, kur jis buvo pagamintas (trečiojoje ar EEE valstybėje),
 kiekvienos serijos visa kokybinė, visų veikliųjų medžiagų kiekybinė analizė ir
-visi kiti tyrimai ar patikrinimai, būtini vaistinio preparato kokybei užtikrinti
-pagal dokumentus, pateiktus rinkodaros teisei įgyti;
+visi kiti tyrimai ar patikrinimai, būtini vaistinio preparato kokybei
+užtikrinti pagal dokumentus, pateiktus rinkodaros teisei įgyti;
 3) kiekviena
 tiriamojo vaistinio preparato serija būtų pagaminta ir patikrinta pagal gerą
 gamybos praktiką, preparato specifikacijos bylą ir užsakovo dokumentus, pateiktus
@@ -1827,11 +1884,11 @@ geros gamybos praktikos standartus, atitinkančius bent Europos Sąjungos
 nustatytuosius, būtų atliktos analizės, visi kiti tyrimai ir patikrinimai,
 būtini šio preparato serijos kokybei užtikrinti pagal dokumentus, pateiktus
 prašant leidimo vykdyti klinikinį tyrimą.
-2. Jei šio
-straipsnio 1 dalyje numatyti serijų tyrimai jau yra atlikti kitoje EEE
-valstybėje, jų tirti pakartotinai nebūtina, jeigu šios serijos yra tiekiamos
-rinkai kartu su kokybės kontrolės dokumentais, pasirašytais tos valstybės
-kvalifikuoto asmens, atsakingo už gamybą ir (ar) importą. 
+2. Jei šio straipsnio
+1 dalyje numatyti serijų tyrimai jau yra atlikti kitoje EEE valstybėje, jų
+tirti pakartotinai nebūtina, jeigu šios serijos yra tiekiamos rinkai kartu su
+kokybės kontrolės dokumentais, pasirašytais tos valstybės kvalifikuoto asmens, atsakingo
+už gamybą ir (ar) importą. 
 3. Jei
 vaistiniai preparatai importuojami iš šalies, su kuria Europos Bendrija yra
 pasirašiusi abipusio pripažinimo sutartį, užtikrinančią, kad gamintojas taiko
@@ -1871,19 +1928,19 @@ gamyba ir (ar) importu iš trečiųjų šalių, jis turi įgyti gamybos licencij
 4. Asmenims,
 turintiems kitų EEE valstybių išduotą didmeninio platinimo licenciją ir
 norintiems verstis didmeniniu platinimu Lietuvos Respublikoje, negali būti
-taikomi griežtesni veiklos reikalavimai negu juridiniams asmenims, turintiems šio
-įstatymo nustatyta tvarka išduotą didmeninio platinimo licenciją.
+taikomi griežtesni veiklos reikalavimai negu juridiniams asmenims, turintiems
+šio įstatymo nustatyta tvarka išduotą didmeninio platinimo licenciją.
  
 31 straipsnis. Reikalavimai juridiniam asmeniui,
 norinčiam gauti didmeninio  platinimo licenciją 
 Juridinis asmuo,
 norintis gauti didmeninio platinimo licenciją, privalo:
-1) nurodyti paraiškoje
-numatomas platinti vaistinių preparatų grupes (pagal temperatūros režimą ir
-sveikatos apsaugos ministro nustatytas grupes), nurodyti, ar bus platinamos
-veikliosios medžiagos, į Europos Komisijos sąrašą įrašytos pagalbinės
-medžiagos, naudojamos vaistiniams preparatams ar ekstemporaliems
-vaistiniams preparatams gaminti; 
+1) nurodyti
+paraiškoje numatomas platinti vaistinių preparatų grupes (pagal temperatūros
+režimą ir sveikatos apsaugos ministro nustatytas grupes), nurodyti, ar bus
+platinamos veikliosios medžiagos, į Europos Komisijos sąrašą įrašytos
+pagalbinės medžiagos, naudojamos vaistiniams preparatams ar
+ekstemporaliems vaistiniams preparatams gaminti; 
 2) atsižvelgiant
 į Europos Komisijos, Europos vaistų agentūros ir kitų Europos Sąjungos
 institucijų rekomendacijas, turėti pakankamai tinkamų patalpų ir įrengimų, kad
@@ -1957,8 +2014,8 @@ ir asmens sveikatos priežiūros įstaigoms;
 9) turėti
 neatidėliotinų veiksmų planą, kuris užtikrintų veiksmingą bet kurio vaistinio
 preparato atšaukimą iš rinkos, vykdomą Valstybinės vaistų kontrolės tarnybos
-nurodymu arba bendradarbiaujant su to vaistinio preparato gamintoju ar rinkodaros
-teisės turėtoju, ir jį įgyvendinti; 
+nurodymu arba bendradarbiaujant su to vaistinio preparato gamintoju ar
+rinkodaros teisės turėtoju, ir jį įgyvendinti; 
 10) tvarkyti
 vaistinių preparatų gavimo ir pardavimo dokumentus, registruoti vaistinių
 preparatų gavimo ir išsiuntimo operacijas, nurodant šią informaciją: datą,
@@ -2006,17 +2063,17 @@ veiklos vadovu, atsakingu už didmeninį platinimą, gali būti vaistininkas,
 turintis vaistininko praktikos licenciją ir dvejų metų darbo patirtį, įgytą
 didmeninio platinimo įmonėje per paskutinius 10 metų.
 2. Farmacinės veiklos vadovas privalo vykdyti šiame įstatyme, kituose
-teisės aktuose ir licencijos turėtojo administraciniuose aktuose nustatytas
-pareigas. Jis atsako, kad:
+teisės aktuose ir licencijos turėtojo administraciniuose aktuose nustatytas pareigas.
+Jis atsako, kad:
 1) farmacinė
 veikla būtų vykdoma pagal vaistinių preparatų gerą platinimo praktiką;
 2) juridinio
 asmens vadovai būtų informuoti apie tai, ar veikla atitinka šio įstatymo ir
 kitų teisės aktų nustatytus reikalavimus;
-3) būtų
-platinami tik šio įstatymo ir kitų teisės aktų nustatytus reikalavimus
-atitinkantys vaistiniai preparatai, veikliosios medžiagos ir į Europos Komisijos
-sąrašą įrašytos pagalbinės medžiagos;
+3) būtų platinami
+tik šio įstatymo ir kitų teisės aktų nustatytus reikalavimus atitinkantys
+vaistiniai preparatai, veikliosios medžiagos ir į Europos Komisijos sąrašą
+įrašytos pagalbinės medžiagos;
 4) būtų
 reaguojama į pirkėjų skundus ar pranešimus apie vaistinio preparato,
 veikliosios medžiagos ir į Europos Komisijos sąrašą įrašytos pagalbinės
@@ -2074,8 +2131,8 @@ preparatai gyventojams parduodami (išduodami) sveikatos apsaugos ministro
 nustatyta tvarka. Parduodant (išduodant) gyventojams vaistinius preparatus,
 turi būti suteikiama farmacinė paslauga. 
 10. Vaistinės
-savo veiklą vykdo pagal sveikatos apsaugos ministro patvirtintus geros
-vaistinių praktikos nuostatus.
+savo veiklą vykdo pagal sveikatos apsaugos ministro patvirtintus geros vaistinių
+praktikos nuostatus.
 11. Be vaistinių
 preparatų, vaistinės gali parduoti (išduoti) sveikatos apsaugos ministro
 nustatytas vaistinių prekes.
@@ -2097,9 +2154,9 @@ registruotame pavadinime turi būti žodis „vaistinė(-ės)“. Juridiniai asm
 nevykdantys vaistinės veiklos, neturi teisės savo pavadinime vartoti žodžio
 „vaistinė“ ar jo vertimo į kitą kalbą.
  
- 36
-straipsnis. Ekstemporalių vaistinių preparatų gamyba ir išdavimas (pardavimas)
-gyventojams, registruotų vaistinių preparatų pakuotės keitimas
+36 straipsnis. Ekstemporalių vaistinių preparatų
+gamyba ir išdavimas (pardavimas) gyventojams, registruotų vaistinių preparatų
+pakuotės keitimas
 1. Ekstemporalūs
 vaistiniai preparatai gali būti gaminami tik gamybinėse vaistinėse.
 2. Aprašiniai
@@ -2141,11 +2198,11 @@ aktų nustatytus reikalavimus.
  
 38
 straipsnis. Vaistinės veiklos licencijos išdavimas
-1. Vaistinės veiklos licencija išduodama vykdyti tik nurodytos rūšies veiklą
-ir tik juridinio asmens paraiškoje nurodytose patalpose. Vykdyti veiklą tame
-pačiame pastate ar tuo pačiu adresu, išskyrus sveikatos priežiūros įstaigas,
-išduodama tik viena vaistinės veiklos licencija.
- 2. Vaistinės veiklos licencija išduodama arba priimamas motyvuotas
+1. Vaistinės veiklos licencija išduodama vykdyti tik nurodytos rūšies
+veiklą ir tik juridinio asmens paraiškoje nurodytose patalpose. Vykdyti veiklą
+tame pačiame pastate ar tuo pačiu adresu, išskyrus sveikatos priežiūros
+įstaigas, išduodama tik viena vaistinės veiklos licencija.
+2. Vaistinės veiklos licencija išduodama arba priimamas motyvuotas
 sprendimas atsisakyti ją išduoti per 45 dienas nuo paraiškos, pateiktos pagal
 nustatytus reikalavimus, gavimo. Jei licencijos turėtojas prašo pakeisti
 licencijoje nurodytas veiklos sąlygas, laikotarpis, per kurį pakeičiamos šios
@@ -2191,9 +2248,9 @@ kad:
 1) farmacinė
 veikla būtų vykdoma pagal šio įstatymo ir kitų teisės aktų nustatytus
 reikalavimus;
-2) vaistinė
-įsigytų, saugotų ir parduotų (išduotų) tik registruotus, taip pat kitais teisės
-aktais leistus vartoti sveikatos priežiūrai vaistinius preparatus;
+2) vaistinė įsigytų,
+saugotų ir parduotų (išduotų) tik registruotus, taip pat kitais teisės aktais
+leistus vartoti sveikatos priežiūrai vaistinius preparatus;
 3) būtų tinkamai
 ir operatyviai reaguota į gaunamus iš vaistinių preparatų vartotojų skundus ar
 pranešimus apie vaistinio preparato ir (ar) farmacinių paslaugų kokybę;
@@ -2250,8 +2307,8 @@ privalo:
 tinkamas patalpas, įrengimus, kurie atitiktų sveikatos apsaugos ministro
 nustatytus reikalavimus ir užtikrintų tinkamą farmacinių atliekų saugojimą ir
 jų tvarkymą;
-2) sudaryti darbo
-sutartį su asmeniu farmacinės veiklos vadovo pareigoms vykdyti;
+2) sudaryti
+darbo sutartį su asmeniu farmacinės veiklos vadovo pareigoms vykdyti;
 3) pagal Atliekų
 tvarkymo įstatymo reikalavimus turėti Aplinkos ministerijos nustatyta tvarka
 išduotą leidimą; 
@@ -2410,9 +2467,9 @@ pateikiant būtiną sveikatos apsaugos ministro nustatytą informaciją ir
 nuorodas.
 2. Gyventojams
 skirtoje reklamoje draudžiama reklamuoti: 
-1) vaistinius
-preparatus, kurių sudėtyje yra narkotinių ir (ar) psichotropinių medžiagų,
-įrašytų į sveikatos apsaugos ministro tvirtinamus kontroliuojamų narkotinių ir
+1) vaistinius preparatus,
+kurių sudėtyje yra narkotinių ir (ar) psichotropinių medžiagų, įrašytų į
+sveikatos apsaugos ministro tvirtinamus kontroliuojamų narkotinių ir
 psichotropinių medžiagų sąrašus;
 2) receptinius
 vaistinius preparatus, išskyrus atvejus, kai vaistinių preparatų gamintojai,
@@ -2492,9 +2549,9 @@ vaistinių preparatų, vaistų reklamuotojai gali naudoti vaistinių preparatų
 neparduodamus pavyzdžius. Vaistinio preparato neparduodamas pavyzdys turi
 atitikti mažiausią rinkoje esančią to paties pavadinimo, formos ir stiprumo
 vaistinio preparato pakuotę ir ant pakuotės turi būti užrašas „Neparduodamas
-pavyzdys“. Vaistinių preparatų neparduodamus pavyzdžius palikti sveikatos priežiūros
-specialistams, platinti farmacijos specialistams ir gyventojams bei vartoti
-sveikatos priežiūros tikslais draudžiama.
+pavyzdys“. Vaistinių preparatų neparduodamus pavyzdžius palikti sveikatos
+priežiūros specialistams, platinti farmacijos specialistams ir gyventojams bei
+vartoti sveikatos priežiūros tikslais draudžiama.
 5. Skatinant
 sveikatos priežiūros ir farmacijos specialistus skirti, tiekti ar parduoti
 (išduoti) vaistinius preparatus, draudžiama duoti atlygį pinigais ar natūra, o
@@ -2526,16 +2583,16 @@ straipsnis. Bendrieji farmakologinio budrumo reikalavimai
 1. Farmakologinis budrumas
 įgyvendinamas vadovaujantis šiuo įstatymu, sveikatos apsaugos ministro
 nustatyta tvarka ir Europos Komisijos rekomendacijomis dėl vaistinių preparatų
-reglamentavimo Europos Bendrijoje taisyklių. Įgyvendinant farmakologinį
-budrumą, taip pat turi būti atsižvelgiama į informaciją apie netinkamą
-vaistinių preparatų vartojimą ir piktnaudžiavimą jais, nes tai gali turėti įtakos
+reglamentavimo Europos Bendrijoje taisyklių. Įgyvendinant farmakologinį budrumą,
+taip pat turi būti atsižvelgiama į informaciją apie netinkamą vaistinių
+preparatų vartojimą ir piktnaudžiavimą jais, nes tai gali turėti įtakos
 vertinant vaistinių preparatų naudą ir riziką. 
 2. Sveikatos
 apsaugos ministras turi taikyti priemones, skatinančias sveikatos priežiūros ir farmacijos specialistus
 teikti informaciją apie pastebėtas įtariamas nepageidaujamas reakcijas. 
-3. Farmakologinio
-budrumo vykdymą koordinuoja ir gautą farmakologinio budrumo informaciją tvarko
-Valstybinė vaistų kontrolės tarnyba.
+3.
+Farmakologinio budrumo vykdymą koordinuoja ir gautą farmakologinio budrumo
+informaciją tvarko Valstybinė vaistų kontrolės tarnyba.
 4. Sveikatos
 priežiūros ir farmacijos specialistai sveikatos apsaugos ministro nustatyta
 tvarka privalo pranešti Valstybinei vaistų kontrolės tarnybai apie sunkius
@@ -2763,68 +2820,49 @@ TRYLIKTASIS
 SKIRSNIS
 MEDICININĖS
 PASKIRTIES PRODUKTŲ TIEKIMAS RINKAI
+Tryliktasis
+skirsnis netenka galios nuo 2009 m. liepos 1 d.:
+Nr. XI-59, 2008-12-16,
+Žin., 2008, Nr. 149-5991 (2008-12-30)
  
 60
-straipsnis.
-Medicininės paskirties produktų tiekimo rinkai ypatumai
-1. Lietuvos
-Respublikos rinkai gali būti tiekiami tik registruoti medicininės paskirties
-produktai. 
-2. Medicininės
-paskirties produktai registruojami sveikatos apsaugos ministro nustatyta
-tvarka, įrašant juos į Medicininės paskirties produktų sąrašą ir išduodant
-medicininės paskirties produkto registracijos pažymėjimą, kuriuo suteikiama
-teisė vykdyti produkto rinkodarą Lietuvos Respublikoje. 
-3. Valstybinė
+straipsnis. Medicininės paskirties produktų tiekimo rinkai ypatumai
+1. Lietuvos Respublikos rinkai
+gali būti tiekiami tik registruoti medicininės paskirties produktai. 
+2. Valstybinė
 vaistų kontrolės tarnyba tvarko medicininės paskirties produktų sąrašą ir
-registruoja, perregistruoja medicininės paskirties produktus, tvirtina
-registracijos pažymėjimų sąlygų keitimus ir sustabdo medicininės paskirties
-produktų registracijos pažymėjimų galiojimą, panaikina galiojimo sustabdymą ir
-(ar) panaikina pažymėjimų galiojimą. 
-4. Registracijos
-pažymėjimas išduodamas arba motyvuotas atsisakymas jį išduoti priimamas ne
-vėliau kaip per 90 dienų nuo paraiškos, pateiktos pagal nustatytus
-reikalavimus, priėmimo dienos. Laikas, per kurį pareiškėjas pateikia
-Valstybinės vaistų kontrolės tarnybos pareikalautus papildomus dokumentus ir
-informaciją bei prireikus paaiškinimus žodžiu ir (ar) raštu, į paraiškos
-nagrinėjimo laiką neįskaičiuojamas.
-5. Registracijos
-pažymėjimas išduodamas 6 metams. Paraiška perregistruoti medicininės paskirties
-produktą turi būti pateikta likus ne mažiau kaip 4 mėnesiams iki registracijos
-pažymėjimo galiojimo pabaigos. Perregistravus medicininės paskirties produktą,
-jo registracija Lietuvos Respublikoje pratęsiama 6 metams.
-6. Už paraiškos
-registruoti, perregistruoti medicininės paskirties produktą ir kartu pateiktų
-dokumentų ir informacijos ekspertizę, taip pat už registracijos pažymėjimo
-išdavimą mokama nustatyto dydžio valstybės rinkliava.
-7. Gaminti
-medicininės paskirties produktus gali juridiniai asmenys, įrašyti į Asmenų,
-vykdančių veiklą su medicininės paskirties produktais, sąrašą, jį sveikatos
-apsaugos ministro nustatyta tvarka tvarko Valstybinė vaistų kontrolės tarnyba.
-Įrašymo į sąrašą ir išbraukimo iš jo tvarką nustato sveikatos apsaugos ministras.
-8. Medicininės
+tvirtina registracijos pažymėjimų sąlygų keitimus, sustabdo medicininės
+paskirties produktų registracijos pažymėjimų galiojimą, panaikina galiojimo
+sustabdymą ir (ar) panaikina pažymėjimų galiojimą. 
+3. Gaminti medicininės paskirties
+produktus gali juridiniai asmenys, įrašyti į Asmenų, vykdančių veiklą su
+medicininės paskirties produktais, sąrašą. Šį sąrašą sveikatos apsaugos
+ministro nustatyta tvarka tvarko Valstybinė vaistų kontrolės tarnyba. Įrašymo į
+šį sąrašą ir išbraukimo iš jo tvarką nustato sveikatos apsaugos ministras.
+4. Medicininės
 paskirties produktus platinti ir (ar) importuoti iš trečiųjų šalių gali tik
 didmeninio platinimo licenciją turintis asmuo, pardavinėti gyventojams – tik
-vaistinės veiklos licenciją turintis asmuo. Kaimo vietovėse, jeigu nėra vaistinės
-ar jos filialo, gyventojai Vyriausybės nustatyta tvarka aprūpinami medicininės
-paskirties produktais per kaimo vietovėse esančias pirminės sveikatos
-priežiūros įstaigas. 
-9. Medicininės
+vaistinės veiklos licenciją turintis asmuo. Kaimo vietovėse, jeigu nėra
+vaistinės ar jos filialo, gyventojai Vyriausybės nustatyta tvarka aprūpinami
+medicininės paskirties produktais per kaimo vietovėse esančias pirminės
+sveikatos priežiūros įstaigas. 
+5. Medicininės
 paskirties produkto reklama turi būti neklaidinanti ir objektyviai apibūdinti
 jo savybes. Informacija ir terminai turi atitikti Valstybinės vaistų kontrolės
-tarnybos patvirtintą pakuotės ženklinimą ir pakuotės lapelį. Medicininės
-paskirties produktai turi būti reklamuojami taip, kad visuomenei būtų aišku,
-kad tai yra reklama ir kad reklamuojamasis produktas yra medicininės paskirties
-produktas.
-10. Reklamuojant
+tarnybos patvirtintą pakuotės ženklinimą ir pakuotės informacinį lapelį.
+Medicininės paskirties produktai turi būti reklamuojami taip, kad visuomenei
+būtų aišku, kad tai yra reklama ir kad reklamuojamas produktas yra medicininės
+paskirties produktas.
+6. Reklamuojant
 medicininės paskirties produktus draudžiama:
 1) pateikti
 informaciją, kad reklamuojamas produktas yra vaistinis preparatas, arba
-nurodyti, kad medicininės paskirties produktas turi gydomąjį poveikį, įvardyti
+nurodyti, kad medicininės paskirties produktas turi gydomąjį poveikį, nurodyti
 ligas ar konkrečias ligų istorijas;
 2) nurodyti, kad
 reklamuojamas medicininės paskirties produktas veikia geriau arba taip pat kaip
-kitas medicininės paskirties produktas, vaistinis preparatas ar kitas gydymo būdas;
+kitas medicininės paskirties produktas, vaistinis preparatas ar kitas gydymo
+būdas;
 3) nurodyti, kad
 jeigu jis nebus vartojamas, gali pablogėti sveikata;
 4) nurodyti, kad
@@ -2847,12 +2885,16 @@ priežiūros specialistai ar asmenys, kurie nepriklauso nė vienai minimai grupe
 bet būdami įžymūs galėtų paskatinti vartoti medicininės paskirties produktą;
 10) lyginti medicininės
 paskirties maisto produktą su vaistiniu preparatu.
-11. Medicininės
+7. Medicininės
 paskirties produktus draudžiama reklamuoti valstybės ir savivaldybių
 institucijoms ir jose dirbantiems asmenims.
-12. Kitus
+8. Kitus
 reikalavimus veiklai, susijusiai su medicininės paskirties produktais, nustato
 sveikatos apsaugos ministras.
+Straipsnio
+pakeitimas:
+Nr. XI-59, 2008-12-16,
+Žin., 2008, Nr. 149-5991 (2008-12-30)
  
 KETURIOLIKTASIS
 SKIRSNIS
@@ -2895,12 +2937,12 @@ preparatų, tiriamųjų vaistinių preparatų ar veikliųjų medžiagų, naudoja
 pradinės medžiagos, gamintojų, importuotojų gamybos ar komercinės veiklos
 vietas ir laboratorijas, su kuriomis gamybos licencijos turėtojas sudarė
 sutartį dėl tyrimų atlikimo; 
- 2) ar tinkamai
+2) ar tinkamai
 atliktas imunologinių preparatų gamybos procesų specialusis patvirtinimas ir ar
 užtikrintas gaminamų serijų vienodumas. Jeigu reikia, prašo gamintoją ir (ar)
 importuotoją pateikti visų kontrolės protokolų, pasirašytų kvalifikuoto asmens,
 kopijas;
- 3) ar tinkamai
+3) ar tinkamai
 atliktas kraujo preparatų gamybos ir gryninimo procesų specialusis
 patvirtinimas, ar užtikrintas serijų vienodumas ir ar užtikrinta, kiek tai
 leidžia technologijos lygis, kad kraujo preparatuose nėra specifinių virusinių
@@ -2916,12 +2958,22 @@ dokumentus, susijusius su farmakologinio budrumo vykdymu;
 susitarimai su trečiosiomis šalimis;
 7) juridinius
 asmenis, pateikusius paraišką gauti farmacinės veiklos licenciją;
+ 
+8 punkto redakcija iki 2009 m. liepos 1 d.:
 8) vaistinių
 preparatų, medicininės paskirties produktų reklamos vykdymą pagal šio įstatymo
 ir Reklamos įstatymo reikalavimus;
+8 punkto redakcija nuo 2009 m. liepos 1 d.:
+8) vaistinių
+preparatų reklamos vykdymą pagal šio įstatymo reikalavimus;
+ 
 9) kitą veiklą
 su farmacijos produktais ir su šia veikla susijusius subjektus pagal
 Valstybinės vaistų kontrolės tarnybos nuostatose nustatytą kompetenciją. 
+Straipsnio
+pakeitimas:
+Nr. XI-59, 2008-12-16,
+Žin., 2008, Nr. 149-5991 (2008-12-30)
  
 63 straipsnis. Valstybinės vaistų kontrolės tarnybos
 darbuotojų, atliekančių kontrolės veiksmus, teisės
@@ -3010,8 +3062,17 @@ išvadomis, ji apie tai praneša Europos Komisijai ir Europos vaistų agentūrai
  
 PENKIOLIKTASIS
 SKIRSNIS
+Penkioliktojo skirsnio pavadinimo
+redakcija iki 2009 m. liepos 1 d.:
 SANKCIJOS DĖL
 VAISTINIO PREPARATO IR MEDICININĖS PASKIRTIES PRODUKTO RINKODAROS 
+Penkioliktojo skirsnio pavadinimo
+redakcija nuo 2009 m. liepos 1 d.:
+SANKCIJOS DĖL
+VAISTINIO PREPARATO RINKODAROS
+Skirsnio pavadinimas keistas:
+Nr. XI-59, 2008-12-16,
+Žin., 2008, Nr. 149-5991 (2008-12-30)
  
 66 straipsnis. Vaistinio preparato rinkodaros ir
 registracijos pažymėjimo galiojimo sustabdymas, panaikinimas, jų sąlygų
@@ -3046,16 +3107,15 @@ reikalingus šio straipsnio 1 dalyje nustatytiems pagrindams panaikinti. Jei per
 nustatytą laikotarpį vaistinio preparato rinkodaros ar registracijos pažymėjimo
 turėtojas pateikia šiuos įrodymus, Valstybinė vaistų kontrolės tarnyba priima
 sprendimą panaikinti vaistinio preparato rinkodaros ir registracijos pažymėjimo
-galiojimo sustabdymą. Priešingu atveju vaistinio preparato rinkodaros ir registracijos
-pažymėjimas panaikinamas.
+galiojimo sustabdymą. Priešingu atveju vaistinio preparato rinkodaros ir
+registracijos pažymėjimas panaikinamas.
 3. Vaistinis
 preparatas laikomas neveiksmingu nustačius, kad negalima pasiekti terapinių
 rezultatų, dėl kurių jis vartojamas.
-4. Valstybinė
-vaistų kontrolės tarnyba turi sustabdyti ar panaikinti rinkodaros teisę
-vaistinių preparatų grupei ar visiems preparatams, kurių gamyba neatitinka
-rinkodaros ar registracijos pažymėjimo suteikimo metu patvirtintų gamybos
-sąlygų.
+4. Valstybinė vaistų
+kontrolės tarnyba turi sustabdyti ar panaikinti rinkodaros teisę vaistinių
+preparatų grupei ar visiems preparatams, kurių gamyba neatitinka rinkodaros ar
+registracijos pažymėjimo suteikimo metu patvirtintų gamybos sąlygų.
 5. Valstybinė
 vaistų kontrolės tarnyba, priėmusi sprendimą sustabdyti ar panaikinti
 rinkodaros ar registracijos pažymėjimo galiojimą, atitinkamai patikslina
@@ -3085,8 +3145,8 @@ preparatas yra neveiksmingas;
 3)
 patvirtintomis sąlygomis vartojamo vaistinio preparato naudos ir rizikos santykis
 yra nepalankus;
-4) vaistinio
-preparato kokybinė ir (ar) kiekybinė sudėtis neatitinka deklaruojamos;
+4) vaistinio preparato
+kokybinė ir (ar) kiekybinė sudėtis neatitinka deklaruojamos;
 5) neatliekama
 vaistinio preparato ir (ar) jo sudėtinių medžiagų ar gamybos tarpinių etapų
 kontrolė, nurodyta dokumentuose, pateiktuose kartu su paraiška gauti rinkodaros
@@ -3147,6 +3207,11 @@ straipsnį, vykdyti jo rinkodarą ir tiekti jį į rinką draudžiama.
 6. Panaikinus
 medicininės paskirties produkto registracijos pažymėjimo galiojimą pagal šį
 straipsnį, produktas turi būti atšauktas iš rinkos.
+68 straipsnis netenka galios nuo 2009 m. liepos 1 d.
+Straipsnio
+pakeitimas:
+Nr. XI-59, 2008-12-16,
+Žin., 2008, Nr. 149-5991 (2008-12-30)
  
 ŠEŠIOLIKTASIS
 SKIRSNIS
@@ -3182,8 +3247,8 @@ valstybę, išdavusią licencijos turėtojui didmeninio platinimo licenciją;
 5) keistis su kitų EEE valstybių įgaliotomis institucijomis ir Europos
 Sąjungos institucijomis informacija ir dalyvauti bendrose informacinėse
 sistemose, kurios būtinos užtikrinti, kad būtų laikomasi gamybos, didmeninio
-platinimo licencijų, geros gamybos praktikos pažymėjimų ir rinkodaros pažymėjimų
-sąlygų;
+platinimo licencijų, geros gamybos praktikos pažymėjimų ir rinkodaros
+pažymėjimų sąlygų;
 6) esant
 pagrįstam reikalavimui nedelsdama pateikti kitos EEE valstybės įgaliotoms
 institucijoms tikrinimo pažymą, ar gamintojas,
@@ -3230,10 +3295,10 @@ Veterinarinių vaistų registravimas
 1. Lietuvos Respublikos rinkai
 gali būti tiekiami tik Veterinarinių vaistų registre įregistruoti
 veterinariniai vaistai.
-2.
-Veterinarinių vaistų registrą steigia Vyriausybė. Vadovaujančioji registro
-tvarkymo įstaiga yra Valstybinė maisto ir veterinarijos tarnyba, tvarkymo
-įstaiga – Lietuvos valstybinė veterinarijos preparatų inspekcija.
+2. Veterinarinių
+vaistų registrą steigia Vyriausybė. Vadovaujančioji registro tvarkymo įstaiga
+yra Valstybinė maisto ir veterinarijos tarnyba, tvarkymo įstaiga – Lietuvos
+valstybinė veterinarijos preparatų inspekcija.
 3.
 Veterinariniai vaistai registruojami Valstybinės maisto ir veterinarijos
 tarnybos nustatyta tvarka, laikantis nacionalinės, savitarpio pripažinimo arba
@@ -3383,13 +3448,13 @@ neterminuotam laikui.
 veterinarinės farmacijos licencijos išdavimą mokama nustatyto dydžio valstybės
 rinkliava.
 12.
-Veterinarinės farmacijos licencija juridiniams ir fiziniams asmenims
-neišduodama (nepatikslinama ar nepapildoma), jeigu:
+Veterinarinės farmacijos licencija juridiniams ir fiziniams asmenims neišduodama
+(nepatikslinama ar nepapildoma), jeigu:
 1) pateikti ne
 visi reikiami dokumentai, nurodyti Juridinių asmenų veterinarinės farmacijos
 licencijavimo taisyklėse ir Fizinių asmenų veterinarinės farmacijos
-licencijavimo taisyklėse, ir pareiškėjas neįvykdė Valstybinės maisto ir veterinarijos
-tarnybos reikalavimo pateikti trūkstamus dokumentus;
+licencijavimo taisyklėse, ir pareiškėjas neįvykdė Valstybinės maisto ir
+veterinarijos tarnybos reikalavimo pateikti trūkstamus dokumentus;
 2) pateikti
 nevisiškai arba neteisingai užpildyti dokumentai ir pareiškėjas neįvykdė
 Valstybinės maisto ir veterinarijos tarnybos reikalavimo ištaisyti šiuos
@@ -3539,18 +3604,22 @@ Sprendimus priimančių asmenų nešališkumo užtikrinimas
 1. Asmenys,
 dalyvaujantys priimant sprendimus, susijusius su vaistinių preparatų
 registracija, lygiagretaus importo leidimų, klinikinių tyrimų leidimų,
-medicininės paskirties produktų registracijos pažymėjimų, farmacinės veiklos
-licencijų išdavimu, vykdantys veiklos su farmacijos produktais kontrolę, neturi
-turėti finansinių ar kitų interesų, susijusių su svarstomu klausimu, farmacijos
-pramone ar kitais asmenimis, galinčiais daryti poveikį jų nešališkumui.
-Asmenys, turintys tokių interesų, privalo teisės aktų nustatyta tvarka juos
-deklaruoti. 
+farmacinės veiklos licencijų išdavimu, vykdantys veiklos su farmacijos
+produktais kontrolę, neturi turėti finansinių ar kitų interesų, susijusių su
+svarstomu klausimu, farmacijos pramone ar kitais asmenimis, galinčiais daryti
+poveikį jų nešališkumui. Asmenys, turintys tokių interesų, privalo teisės aktų
+nustatyta tvarka juos deklaruoti ir nusišalinti nuo nurodytų sprendimų
+priėmimo.
 2. Valstybinė
 vaistų kontrolės tarnyba suteikia visuomenei galimybę susipažinti su jos ar
 Valstybinėje vaistų kontrolės tarnyboje sudarytų komisijų darbo reglamentais,
 posėdžių darbotvarkėmis, priimtais sprendimais ir jų priėmimo
 motyvais. Priimti sprendimai ir jų motyvai skelbiami Valstybinės vaistų
 kontrolės tarnybos tinklalapyje.
+Straipsnio
+pakeitimas:
+Nr. XI-59, 2008-12-16,
+Žin., 2008, Nr. 149-5991 (2008-12-30)
  
 75
 straipsnis. Atsakomybė už pažeidimus
@@ -3580,27 +3649,25 @@ farmacijos praktikos licenciją. Valstybinė vaistų kontrolės tarnyba juos įr
 į Vaistininko padėjėjų (farmakotechnikų) sąrašą, vadovaudamasi informacija apie
 išduotas ir galiojančias farmacijos praktikos licencijas.
 4. Įstatymo 5
-straipsnio 5 dalies nuostatos įsigalioja po vienų metų nuo Įstatymo įsigaliojimo
-dienos.
+straipsnio 5 dalies nuostatos įsigalioja po vienų metų nuo Įstatymo
+įsigaliojimo dienos.
 5.
-Farmakotechnikai, iki šio įstatymo įsigaliojimo gavę farmacijos praktikos
-licenciją, arba asmenys, pradėję farmakotechniko studijas iki šio įstatymo
-įsigaliojimo, kurie įgis vaistininko padėjėjo (farmakotechniko) profesinę
-kvalifikaciją po šio įstatymo įsigaliojimo, gali teikti farmacinę paslaugą šio
-įstatymo ir sveikatos apsaugos ministro nustatyta tvarka, bet ne ilgiau kaip
-iki 2015 m. gruodžio 31 d. Nuo 2016 m. sausio 1 d. šioje dalyje nurodyti
-asmenys turi teisę kontroliuojami vaistininko parduoti (išduoti) vaistinius
-preparatus. Už šią veiklą atsako vaistininkas.
-6.
-Juridiniai asmenys, turintys vaistinės veiklos licenciją (išskyrus,
-jeigu jie turi gamybinės visuomenės vaistinės licenciją parduoti (išduoti)
-kartinius vaistinius preparatus), kurie iki šio įstatymo įsigaliojimo tiekė
-juridiniams asmenims, turintiems asmens sveikatos priežiūros veiklos licenciją,
-vaistinius preparatus, gali tiekti vaistinius preparatus ne ilgiau kaip iki 2006 m. gruodžio 31 d. 
-7.
-Iki šio įstatymo įsigaliojimo įsteigti vaistinės filialai, kurie neatitinka
-nustatytų reikalavimų, gali vykdyti savo veiklą ne ilgiau kaip iki 2015 m. gruodžio 31 d.
-
+Farmakotechnikai, iki šio įstatymo įsigaliojimo gavę farmacijos praktikos licenciją,
+arba asmenys, pradėję farmakotechniko studijas iki šio įstatymo įsigaliojimo,
+kurie įgis vaistininko padėjėjo (farmakotechniko) profesinę kvalifikaciją po
+šio įstatymo įsigaliojimo, gali teikti farmacinę paslaugą šio įstatymo ir
+sveikatos apsaugos ministro nustatyta tvarka, bet ne ilgiau kaip iki 2015 m. gruodžio 31 d. Nuo 2016 m. sausio 1 d. šioje dalyje nurodyti asmenys turi teisę
+kontroliuojami vaistininko parduoti (išduoti) vaistinius preparatus. Už šią
+veiklą atsako vaistininkas.
+6. Juridiniai asmenys,
+turintys vaistinės veiklos licenciją (išskyrus, jeigu jie turi gamybinės
+visuomenės vaistinės licenciją parduoti (išduoti) kartinius vaistinius
+preparatus), kurie iki šio įstatymo įsigaliojimo tiekė juridiniams asmenims,
+turintiems asmens sveikatos priežiūros veiklos licenciją, vaistinius
+preparatus, gali tiekti vaistinius preparatus ne ilgiau kaip iki 2006 m. gruodžio 31 d. 
+7. Iki šio
+įstatymo įsigaliojimo įsteigti vaistinės filialai, kurie neatitinka nustatytų
+reikalavimų, gali vykdyti savo veiklą ne ilgiau kaip iki 2015 m. gruodžio 31 d. 
 8.
 Santykiai, kurie atsirado iki šio įstatymo įsigaliojimo, tęsiasi toliau, ir
 jiems taikomos šio įstatymo nuostatos. Įstatymai ir kiti teisės aktai, kurie
@@ -3636,9 +3703,9 @@ Nr. 69-1667);
 4) Lietuvos
 Respublikos farmacinės veiklos įstatymo 10, 14 straipsnių pakeitimo ir
 papildymo įstatymas (Žin., 1997, Nr. 58-1332);
-5) Lietuvos
-Respublikos farmacinės veiklos įstatymo 17, 21, 22, 23, 24 straipsnių pakeitimo
-įstatymas (Žin., 2000, Nr. 61-1813);
+5) Lietuvos Respublikos
+farmacinės veiklos įstatymo 17, 21, 22, 23, 24 straipsnių pakeitimo įstatymas
+(Žin., 2000, Nr. 61-1813);
 6) Lietuvos
 Respublikos farmacinės veiklos įstatymo 1, 4, 5, 10, 11, 15, 17, 19, 20
 straipsnių pakeitimo ir Įstatymo papildymo 10¹, 17¹ straipsniais įstatymas
@@ -3661,8 +3728,6 @@ priedu įstatymas (Žin., 2004, Nr. 68-2373).
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
- 
- 
 
 
 
@@ -3688,13 +3753,11 @@ draudimo sistemų sritį, skaidrumo (OL 2004 m. specialusis leidimas, 5 skyrius,
 įstatymų ir kitų teisės aktų, susijusių su geros klinikinės praktikos
 įgyvendinimu atliekant žmonėms skirtų vaistų klinikinius tyrimus, suderinimo
 (OL 2004 m. specialusis leidimas, 13 skyrius, 26 tomas, p. 299). 
- 3. 2001 m. lapkričio 6 d. Europos Parlamento ir Tarybos direktyva 2001/83/EB dėl Bendrijos kodekso,
-susijusio su žmonėms skirtais vaistais (OL 2004 m. specialusis leidimas, 13 skyrius, 27 tomas, p. 69) (su paskutiniais pakeitimais, padarytais 2004 m. kovo 31 d. Europos Parlamento ir Tarybos direktyva 2004/27/EB (OL 2004 m. specialusis leidimas, 13 skyrius, 34 tomas, p. 262) ir Europos Parlamento ir Tarybos
-direktyva 2004/24/EB (OL 2004 m. specialusis leidimas, 13 skyrius, 34 tomas, p.
-313).
+3. 2001 m. lapkričio 6 d. Europos Parlamento ir Tarybos direktyva 2001/83/EB dėl Bendrijos kodekso,
+susijusio su žmonėms skirtais vaistais (OL 2004 m. specialusis leidimas, 13 skyrius, 27 tomas, p. 69), su paskutiniais pakeitimais, padarytais 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos reglamentu 1394/2007 (OL 2007 L 324, p. 121).
 4. 2003 m. spalio 8 d. Europos Komisijos direktyva 2003/94/EB, nustatanti žmonėms skirtų vaistų ir
-tiriamųjų vaistų geros gamybos praktikos principus ir taisykles (tekstas
-svarbus EEE) (OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 424).
+tiriamųjų vaistų geros gamybos praktikos principus ir taisykles (tekstas svarbus
+EEE) (OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 424).
 5. 2004 m. kovo 31 d. Europos Parlamento ir Tarybos direktyva 2004/24/EB, iš dalies pakeičianti
 tradiciškai vartojamų žolinių vaistų srityje Direktyvą 2001/83/EB dėl Bendrijos
 kodekso, susijusio su žmonėms skirtais vaistais (OL 2004 m. specialusis leidimas, 13 skyrius, 34 tomas, p. 313).
@@ -3721,11 +3784,32 @@ X-1735,
 FARMACIJOS
 ĮSTATYMO 8 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-59,
+2008-12-16, Žin., 2008, Nr. 149-5991 (2008-12-30)
+FARMACIJOS
+ĮSTATYMO 1, 2, 60, 62, 74 STRAIPSNIŲ, PENKIOLIKTOJO SKIRSNIO PAVADINIMO,
+ĮSTATYMO PRIEDO PAKEITIMO, ĮSTATYMO PAPILDYMO 24(1) STRAIPSNIU IR TRYLIKTOJO
+SKIRSNIO, 68 STRAIPSNIO PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+Šio įstatymo 1, 2, 4, 6, 7 ir 8 straipsniai
+įsigalioja po 6 mėnesių nuo šio įstatymo paskelbimo leidinyje „Valstybės
+žinios“.
+Iki šio įstatymo įsigaliojimo
+išduoti medicininės paskirties produktų registracijos pažymėjimai galioja iki
+termino, kuriam jie išduoti, pabaigos arba kol jų galiojimas nustatyta tvarka
+panaikinamas, bet ne ilgiau kaip 6 mėnesius nuo šio įstatymo paskelbimo
+leidinyje „Valstybės žinios“.
+Šio
+įstatymo 3 straipsnyje išdėstytas 241 straipsnis, išskyrus jo 4
+dalį, įsigalioja 2009 m. liepos 1 d.
+ 
 ***
 Pabaiga ***
- 
- 
-Redagavo:
-Aušrinė Trapinskienė (2008-10-16)
+
+Redagavo
+Aušrinė Trapinskienė (2009-01-13)
                  
 autrap@lrs.lt
