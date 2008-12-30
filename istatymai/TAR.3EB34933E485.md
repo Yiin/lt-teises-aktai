@@ -1711,13 +1711,13 @@ nepriemokai padengti.
 83 straipsnis. Mokesčio sumokėjimas
  
 1 dalies
-redakcija iki 2009 m. sausio 1 d.
+redakcija iki 2011 m. sausio 1 d.
 1. Mokestis ir (arba) su juo susijusios sumos sumokamos per kredito
 arba kitą mokėjimą priimančią įstaigą. Teisės aktų nustatytais atvejais ir
 tvarka mokestis gali būti sumokėtas grynaisiais pinigais per mokesčių
 administratoriaus pareigūną, turintį įgaliojimą priimti grynuosius pinigus. 
 1 dalies
-redakcija nuo 2009 m. sausio 1 d.
+redakcija nuo 2011 m. sausio 1 d.
 1. Mokestis ir (arba) su juo susijusios sumos sumokamos per kredito
 arba kitą mokėjimus priimančią įstaigą. Teisės aktų nustatytais atvejais ir
 tvarka mokestis ir (arba) su juo susijusios sumos gali būti sumokėti
@@ -1743,20 +1743,23 @@ pakeitimai:
 Nr.
 X-1297,
 2007-10-18, Žin., 2007, Nr. 114-4629 (2007-11-08)
+Nr. XI-99, 2008-12-22,
+Žin., 2008, Nr. 149-6023 (2008-12-30)
  
 84 straipsnis. Mokesčių mokėtojo sumokėtų sumų
 įskaitymas
-1. Mokesčių mokėtojo sumokėtos sumos įskaitomos
-pagal mokėjimo nurodyme mokesčių mokėtojo nurodytą įmokos kodą. Sumokėtų sumų
-kodavimo tvarką nustato Vyriausybė arba jos įgaliota institucija. Jei mokesčių
-mokėtojas konkrečiai nenurodo, už ką turi būti įskaityta jo sumokėtoji suma, ji
-įskaitoma centrinio mokesčių administratoriaus nustatyta tvarka.
+1. Mokesčių mokėtojo sumokėtos sumos
+įskaitomos pagal mokėjimo nurodyme mokesčių mokėtojo nurodytą įmokos kodą.
+Sumokėtų sumų kodavimo tvarką nustato Vyriausybė arba jos įgaliota institucija.
+Jei mokesčių mokėtojas konkrečiai nenurodo, už ką turi būti įskaityta jo
+sumokėtoji suma, ji įskaitoma centrinio mokesčių administratoriaus nustatyta
+tvarka.
 2. Dėl muitinės administruojamų mokesčių
 Vyriausybė gali nustatyti kitokią sumokėtų sumų įskaitymo tvarką.
 Straipsnio
 pakeitimai:
-Nr. X-1249, 2007-07-03,
-Žin., 2007, Nr. 80-3220 (2007-07-19)
+Nr. X-1249,
+2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
  
 85
 straipsnis. Mokesčių paskirstymas
@@ -1797,12 +1800,12 @@ nepriemokai padengti tvarką nustato finansų ministras.
 5. Mokesčių
 mokėtojo permokėtos mokesčių sumos, kurios lieka permokos sumas įskaičius
 mokestinei nepriemokai padengti, grąžinamos mokesčių mokėtojo prašymu. Tuo
-atveju, kai mokesčių mokėtojas turi laiku negrąžintų skolų valstybei pagal paskolas
-iš valstybės vardu pasiskolintų lėšų ar pagal paskolas, dėl kurių kreditoriams
-suteikta valstybės garantija, permokėtos mokesčių sumos, kurios lieka iš šių
-sumų padengus mokestinę nepriemoką, naudojamos minėtoms skoloms dengti finansų
-ministro nustatyta tvarka. Padengus šias skolas likusios sumos grąžinamos
-mokesčių mokėtojo prašymu.
+atveju, kai mokesčių mokėtojas turi laiku negrąžintų skolų valstybei pagal
+paskolas iš valstybės vardu pasiskolintų lėšų ar pagal paskolas, dėl kurių
+kreditoriams suteikta valstybės garantija, permokėtos mokesčių sumos, kurios
+lieka iš šių sumų padengus mokestinę nepriemoką, naudojamos minėtoms skoloms
+dengti finansų ministro nustatyta tvarka. Padengus šias skolas likusios sumos
+grąžinamos mokesčių mokėtojo prašymu.
 6. Mokesčių
 administratorius turi teisę patikrinti mokesčių mokėtojo prašymo grąžinti
 mokesčio permoką pagrįstumą šio Įstatymo nustatyta tvarka ir terminais. Jei
@@ -1813,9 +1816,9 @@ mokesčių mokėtojui pateikti trūkstamus dokumentus ir nustato jų pateikimo
 terminą. Jei dėl mokesčio permokos grąžinimo bus atliekamas mokestinis
 patikrinimas, šis patikrinimas turi būti pradėtas per 20 dienų nuo šio
 straipsnio 7 dalies 1 punkte nustatytų terminų pabaigos dienos.
-7. Jei atitinkamo
-mokesčio įstatyme nenustatyta kitaip, mokesčių administratorius privalo
-grąžinti mokesčių mokėtojui mokesčio permoką tokia tvarka:
+7. Jei
+atitinkamo mokesčio įstatyme nenustatyta kitaip, mokesčių administratorius
+privalo grąžinti mokesčių mokėtojui mokesčio permoką tokia tvarka:
 1) mokesčio
 permoka grąžinama per 30 dienų po rašytinio prašymo grąžinti mokesčio permoką
 gavimo dienos. Tais atvejais, kai mokesčių administratorius paprašo mokesčių
@@ -1831,12 +1834,12 @@ aplinkybės;
 2) tais
 atvejais, kai dėl mokesčio permokos grąžinimo atliekamas mokesčių mokėtojo
 mokestinis patikrinimas arba su mokesčio permokos grąžinimu susiję klausimai
-yra sudedamoji mokesčių administratoriaus atliekamo to mokesčių mokėtojo
-patikrinimo dalis, mokesčio permoka turi būti grąžinta ne vėliau kaip per 20
-dienų po mokesčių administratoriaus sprendimo, pagal kurį mokesčių mokėtojui
-naujai apskaičiuojamas ir nurodomas sumokėti mokestis ir (arba) su juo
-susijusios sumos (jei pažeidimų nenustatyta, – pažymos apie tai), įteikimo
-mokesčių mokėtojui dienos.
+yra sudedamoji mokesčių administratoriaus atliekamo to mokesčių mokėtojo patikrinimo
+dalis, mokesčio permoka turi būti grąžinta ne vėliau kaip per 20 dienų po
+mokesčių administratoriaus sprendimo, pagal kurį mokesčių mokėtojui naujai
+apskaičiuojamas ir nurodomas sumokėti mokestis ir (arba) su juo susijusios
+sumos (jei pažeidimų nenustatyta, – pažymos apie tai), įteikimo mokesčių
+mokėtojui dienos.
 8. Mokesčio
 sumos, taip pat mokesčių mokėtojo naudai apskaičiuotų palūkanų sumos mokesčių
 mokėtojui grąžinamos iš tų biudžetų, į kuriuos atitinkamos mokesčio sumos buvo
@@ -1881,7 +1884,8 @@ pelną.
 14. Muitų permokoms šio straipsnio nuostatos taikomos tik tiek, kiek
 jos neprieštarauja Bendrijos muitų teisės aktams.
 15. Mokesčio permoka (skirtumas), kuri negali būti grąžinta (įskaityta)
-šio straipsnio 13 dalyje nurodytu pagrindu, nurašoma iš biudžeto apskaitos dokumentų.
+šio straipsnio 13 dalyje nurodytu pagrindu, nurašoma iš biudžeto apskaitos
+dokumentų.
 Straipsnio
 pakeitimai:
 Nr. X-1249,
@@ -1940,9 +1944,9 @@ taikomos tiek, kiek jos neprieštarauja Bendrijos muitų teisės aktams.
 89 straipsnis. Raginimas mokestinę prievolę
 įvykdyti geruoju
 1. Mokesčių
-mokėtojui, laiku nevykdančiam savo mokestinės prievolės, mokesčių administratorius
-įteikia raginimą geruoju sumokėti mokestį ir su juo susijusias sumas vienu iš
-šių atvejų: 
+mokėtojui, laiku nevykdančiam savo mokestinės prievolės, mokesčių
+administratorius įteikia raginimą geruoju sumokėti mokestį ir su juo susijusias
+sumas vienu iš šių atvejų: 
 1) įsiteisėja
 sprendimas dėl mokesčių mokėtojo skundo mokestiniuose ginčuose, tai yra
 apskundus mokesčių administratoriaus sprendimą, pagal kurį mokesčių mokėtojui
@@ -1964,8 +1968,8 @@ per 20 dienų nuo raginimo mokesčių mokėtojui įteikimo dienos, jeigu mokesč
 įstatymas nenustato kito termino.
 Straipsnio
 pakeitimai:
-Nr. X-1249,
-2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
+Nr. X-1249, 2007-07-03,
+Žin., 2007, Nr. 80-3220 (2007-07-19)
  
 90 straipsnis.
 Likviduojamo juridinio asmens mokestinės prievolės vykdymo tvarka
@@ -1975,8 +1979,8 @@ atsižvelgiant į įstatymuose nustatytą reikalavimų tenkinimo eilę.
 2. Tais atvejais, kai likviduojamo neribotos turtinės atsakomybės
 juridinio asmens turto nepakanka mokestinei nepriemokai padengti, likusi dalis
 gali būti išieškoma iš šio juridinio asmens dalyvių, kurie atsako pagal
-juridinio asmens prievoles, turto Lietuvos Respublikos įstatymų nustatytais atvejais
-ir tvarka.
+juridinio asmens prievoles, turto Lietuvos Respublikos įstatymų nustatytais
+atvejais ir tvarka.
 3. Likviduojamam juridiniam asmeniui visiškai įvykdžius mokestinę
 prievolę, turimos mokesčio permokos grąžinamos jam šio Įstatymo 87 straipsnyje
 nustatyta tvarka. Neribotos civilinės atsakomybės juridinio asmens turimos
@@ -4065,13 +4069,21 @@ X-1297,
 MOKESČIŲ
 ADMINISTRAVIMO ĮSTATYMO 83 STRAIPSNIO PAKEITIMO
 Šis
-įstatymas įsigalioja nuo 2009 m. sausio 1 d.
+įstatymas įsigalioja nuo 2011 m. sausio 1 d.
+Šio įstatymo įsigaliojimo
+pakeitimas:
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. XI-99, 2008-12-22,
+Žin., 2008, Nr. 149-6023 (2008-12-30)
+MOKESČIŲ ADMINISTRAVIMO
+ĮSTATYMO 83 STRAIPSNIO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 9.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. X-1318,
-2007-11-08, Žin., 2007, Nr. 120-4883 (2007-11-22)
+Nr. X-1318, 2007-11-08,
+Žin., 2007, Nr. 120-4883 (2007-11-22)
 MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO
 13 IR 16 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
@@ -4083,11 +4095,12 @@ Nr. X-1786,
 MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO
 148 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2008-11-18)
+Aušrinė Trapinskienė (2008-12-31)
                  
 autrap@lrs.lt
