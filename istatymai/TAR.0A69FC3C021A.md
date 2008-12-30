@@ -40,15 +40,12 @@ straipsnis. Įstatymo tikslas
 įgyvendinami Europos Sąjungos teisės aktai, nurodyti Įstatymo 11 straipsnyje.
  
 2
-straipsnis. 5 straipsnio 1 dalies 2 punkto papildymas 
-Papildyti 5
-straipsnio 1 dalies 2 punktą žodžiais „jeigu šis Įstatymas nenustato ko kita“
-ir šį punktą išdėstyti taip:
-„2) užsienio
-vieneto pajamos, kurių šaltinis yra Lietuvos Respublikoje, gautos ne per jų
-nuolatines buveines Lietuvos Respublikoje, išvardytos šio Įstatymo 4 straipsnio
-4 dalyje, apmokestinamos be atskaitymų, taikant 10 procentų mokesčio tarifą,
-jeigu šis Įstatymas nenustato ko kita;“.
+straipsnis. Neteko
+galios nuo 2008 m. gruodžio 30 d.
+Straipsnio pakeitimai:
+Nr.
+XI-75,
+2008-12-18, Žin., 2008, Nr. 149-6002 (2008-12-30)
  
 3
 straipsnis. 12 straipsnio 1 dalies 5 punkto pakeitimas
@@ -112,8 +109,8 @@ apmokestinami taikant 15 procentų pelno mokesčio tarifą. Mokestį apskaičiuo
 ir sumoka į biudžetą dividendus gaunantis Lietuvos vienetas ar nuolatinė
 buveinė ne vėliau kaip iki mėnesio, einančio po mėnesio, kurį dividendai buvo
 gauti, dešimtos dienos.
-2. Lietuvos vieneto
-ar nuolatinės buveinės gaunami dividendai iš užsienio vienetų, kuriuose
+2. Lietuvos
+vieneto ar nuolatinės buveinės gaunami dividendai iš užsienio vienetų, kuriuose
 dividendus gaunantis Lietuvos vienetas ar užsienio vienetas, kurio nuolatinė
 buveinė (kai jai priskirtos akcijos, kapitalo dalis ar kitos teisės, už kurių
 turėjimą mokami šie dividendai) gauna šiuos dividendus, ne trumpiau kaip 12
@@ -122,8 +119,8 @@ kaip 10 procentų balsus suteikiančių akcijų (dalių, pajų), neapmokestinami
 dividendai gaunami iš užsienio vieneto, kuris nėra įregistruotas ar kitaip
 organizuotas tikslinėse teritorijose. Taip pat ši nuostata netaikoma, jei
 dividendus gaunančio Lietuvos vieneto ar nuolatinės buveinės apmokestinamasis
-pelnas nėra apmokestinamas taikant šio Įstatymo 5 straipsnyje nustatytus 15
-arba 13 procentų mokesčio tarifus.
+pelnas nėra apmokestinamas taikant šio Įstatymo 5 straipsnyje nustatytus 15 arba
+13 procentų mokesčio tarifus.
 3. Lietuvos
 vienetas neįtraukia į pajamas iš užsienio vieneto gautų dividendų.“
  
@@ -180,23 +177,24 @@ ES valstybės narės vienetas, turintis verslo organizavimo formą, nurodytą
 2003 m. birželio 3 d. Tarybos direktyvos 2003/49/EB dėl bendros apmokestinimo
 sistemos, taikomos palūkanų ir autorinių atlyginimų mokėjimams tarp skirtingų
 valstybių narių asocijuotų bendrovių (toliau – Direktyva 2003/49/EB) priede, ir
-esantis Direktyvos 2003/49/EB 3 straipsnio a dalies iii punkte nustatytų
-mokesčių mokėtojas, neatleistas nuo šių mokesčių mokėjimo, jeigu jis gauna
-pajamas savo naudai, o ne kaip kito asmens agentas, patikėtinis, pasirašyti
-įgaliotas asmuo ir pan.;
+esantis Direktyvos 2003/49/EB 3 straipsnio a dalies iii punkte nustatytų mokesčių
+mokėtojas, neatleistas nuo šių mokesčių mokėjimo, jeigu jis gauna pajamas savo
+naudai, o ne kaip kito asmens agentas, patikėtinis, pasirašyti įgaliotas asmuo
+ir pan.;
 2)
-ES valstybės narės vieneto, kuris turi verslo organizavimo formą, nurodytą
-Direktyvos 2003/49/EB priede, ir yra Direktyvos 2003/49/EB 3 straipsnio a
-dalies iii punkte nustatytų mokesčių mokėtojas, neatleistas nuo šių mokesčių
-mokėjimo, nuolatinė buveinė kitoje Europos Sąjungos valstybėje narėje, jeigu
-skolinis reikalavimas, suteikimas naudotis ar teisė naudotis, už kuriuos
-mokamos Įstatymo 4 straipsnio 4 dalies 1, 3, 4, 5 ir 7 punktuose nurodytos
-sumos, yra faktiškai susijusios su šia nuolatine buveine ir Įstatymo 4
-straipsnio 4 dalies 1, 3, 4, 5 ir 7 punktuose nurodytos sumos pripažįstamos
-pajamomis, dėl kurių ji tampa Direktyvos 2003/49/EB 3 straipsnio a dalies iii
-punkte nustatyto mokesčio arba „impôt des non-résidents/belasting der
-niet-verblijfhouders“ Belgijos Karalystėje, arba „Impuesto sobre la Renta de no Residentes“ Ispanijos Karalystėje, arba kurio nors kito identiško mokesčio,
-atsiradusio vėliau ar vietoj buvusio, mokėtoja.
+ES valstybės narės vieneto, kuris turi verslo organizavimo formą, nurodytą Direktyvos
+2003/49/EB priede, ir yra Direktyvos 2003/49/EB 3 straipsnio a dalies iii
+punkte nustatytų mokesčių mokėtojas, neatleistas nuo šių mokesčių mokėjimo,
+nuolatinė buveinė kitoje Europos Sąjungos valstybėje narėje, jeigu skolinis
+reikalavimas, suteikimas naudotis ar teisė naudotis, už kuriuos mokamos
+Įstatymo 4 straipsnio 4 dalies 1, 3, 4, 5 ir 7 punktuose nurodytos sumos, yra
+faktiškai susijusios su šia nuolatine buveine ir Įstatymo 4 straipsnio 4 dalies
+1, 3, 4, 5 ir 7 punktuose nurodytos sumos pripažįstamos pajamomis, dėl kurių ji
+tampa Direktyvos 2003/49/EB 3 straipsnio a dalies iii punkte nustatyto mokesčio
+arba „impôt des non-résidents/belasting der niet-verblijfhouders“ Belgijos
+Karalystėje, arba „Impuesto sobre la Renta de no Residentes“ Ispanijos
+Karalystėje, arba kurio nors kito identiško mokesčio, atsiradusio vėliau ar
+vietoj buvusio, mokėtoja.
 3.
 Šio straipsnio nuostatos taikomos, kai sumų išmokėjimo ES valstybės narės
 vienetui ar jo nuolatinei buveinei momentu ir ne mažiau kaip 2 metus iki šio
@@ -209,11 +207,11 @@ mažiau kaip 25 procentus akcijų (dalių, pajų) šias pajamas gaunančio ES
 valstybės narės vieneto arba ES valstybės narės vieneto, kurio nuolatinė
 buveinė gauna šias pajamas, arba
 2)
-šias pajamas gaunantis ES valstybės narės vienetas arba ES valstybės narės vienetas,
-kurio nuolatinė buveinė gauna šias pajamas, tiesiogiai valdo ne mažiau kaip 25
-procentus akcijų (dalių, pajų) šias sumas išmokančiame Lietuvos vienete arba ES
-valstybės narės vienete, kurio nuolatinė buveinė Lietuvos Respublikoje išmoka
-šias sumas, arba
+šias pajamas gaunantis ES valstybės narės vienetas arba ES valstybės narės
+vienetas, kurio nuolatinė buveinė gauna šias pajamas, tiesiogiai valdo ne
+mažiau kaip 25 procentus akcijų (dalių, pajų) šias sumas išmokančiame Lietuvos
+vienete arba ES valstybės narės vienete, kurio nuolatinė buveinė Lietuvos
+Respublikoje išmoka šias sumas, arba
 3)
 kitas ES valstybės narės vienetas tiesiogiai valdo ne mažiau kaip 25 procentus
 akcijų (dalių, pajų) šias pajamas gaunančiame ES valstybės narės vienete arba
@@ -226,14 +224,14 @@ punktuose nurodytų sumų mokėtoja ar faktiškąja savininke, tai jokia kita š
 užsienio vieneto dalis nelaikoma šių sumų mokėtoja ar faktiškąja savininke.
 5.
 Šio straipsnio nuostatos taikomos nuolatinei buveinei, išmokančiai Įstatymo 4
-straipsnio 4 dalies 1, 3, 4, 5 ir 7 punktuose nurodytas sumas, jei šias sumas
-yra leidžiama atskaityti iš nuolatinės buveinės pajamų pagal šio Įstatymo ir
-kitų teisės aktų nuostatas.
+straipsnio 4 dalies 1, 3, 4, 5 ir 7 punktuose nurodytas sumas, jei šias sumas yra
+leidžiama atskaityti iš nuolatinės buveinės pajamų pagal šio Įstatymo ir kitų
+teisės aktų nuostatas.
 6.
 Įstatymo 4 straipsnio 4 dalies 1, 3, 4, 5 ir 7 punktuose nurodytas sumas
-išmokantis Lietuvos vienetas ar nuolatinė buveinė turi turėti dokumentus,
-įrodančius, kad tenkinami šio straipsnio 1–3 dalyse nustatyti kriterijai.
-Reikalavimus šiems dokumentams nustato centrinis mokesčio administratorius.
+išmokantis Lietuvos vienetas ar nuolatinė buveinė turi turėti dokumentus, įrodančius,
+kad tenkinami šio straipsnio 1–3 dalyse nustatyti kriterijai. Reikalavimus
+šiems dokumentams nustato centrinis mokesčio administratorius.
 7.
 Šio straipsnio nuostatos taikomos taip pat valstybėms ir Europos Sąjungos
 valstybėms narėms priklausomoms teritorijoms, jeigu toks taikymas numatytas
@@ -249,9 +247,9 @@ užsienio vienetui ar jo nuolatinei buveinei, neapmokestinimo prie pajamų
 šaltinio kriterijai ir reikalavimai 
 1.
 Lietuvos vieneto arba užsienio vieneto Europos Sąjungos valstybėje narėje
-nuolatinės buveinės išmokamos Įstatymo 4 straipsnio 4 dalies 1, 3 ir 5
-punktuose nurodytos sumos neapmokestinamos pelno mokesčiu prie pajamų šaltinio,
-kai išmokėtų sumų gavėjas (faktiškasis savininkas) yra užsienio vienetas – tik
+nuolatinės buveinės išmokamos Įstatymo 4 straipsnio 4 dalies 1, 3 ir 5 punktuose
+nurodytos sumos neapmokestinamos pelno mokesčiu prie pajamų šaltinio, kai
+išmokėtų sumų gavėjas (faktiškasis savininkas) yra užsienio vienetas – tik
 Europos Sąjungos valstybės narės rezidentas mokesčių tikslais (toliau – ES
 valstybės narės vienetas) arba šio ES valstybės narės vieneto nuolatinė buveinė
 yra kitoje Europos Sąjungos valstybėje narėje.
@@ -271,8 +269,8 @@ ES valstybės narės vieneto, kuris turi verslo organizavimo formą, nurodytą
 Direktyvos 2003/49/EB priede, ir yra Direktyvos 2003/49/EB 3 straipsnio a
 dalies iii punkte nustatytų mokesčių mokėtojas, neatleistas nuo šių mokesčių
 mokėjimo, nuolatinė buveinė kitoje Europos Sąjungos valstybėje narėje, jeigu
-skolinis reikalavimas, suteikimas naudotis ar teisė naudotis, už kuriuos
-mokamos Įstatymo 4 straipsnio 4 dalies 1, 3 ir 5 punktuose nurodytos sumos, yra
+skolinis reikalavimas, suteikimas naudotis ar teisė naudotis, už kuriuos mokamos
+Įstatymo 4 straipsnio 4 dalies 1, 3 ir 5 punktuose nurodytos sumos, yra
 faktiškai susijusios su šia nuolatine buveine ir Įstatymo 4 straipsnio 4 dalies
 1, 3 ir 5 punktuose nurodytos sumos pripažįstamos pajamomis, dėl kurių ji tampa
 Direktyvos 2003/49/EB 3 straipsnio a dalies iii punkte nustatyto mokesčio arba
@@ -334,13 +332,13 @@ straipsnis. Užsienio vieneto pajamų, gautų ne per jo nuolatines buveines
 Lietuvos Respublikoje, išvardytų šio Įstatymo 4 straipsnio 4 dalies 1 punkte,
 specialios apmokestinimo sąlygos 
 1.
-Lietuvos vieneto arba užsienio vieneto Europos Sąjungos valstybėje narėje
-nuolatinės buveinės išmokamos Įstatymo 4 straipsnio 4 dalies 1 punkte nurodytos
-sumos prie pajamų šaltinio apmokestinamos be atskaitymų, taikant 5 procentų
-mokesčio tarifą, kai išmokėtų sumų gavėjas (faktiškasis savininkas) yra
-užsienio vienetas – tik Europos Sąjungos valstybės narės rezidentas mokesčių
-tikslais (toliau – ES valstybės narės vienetas) arba šio ES valstybės narės
-vieneto nuolatinė buveinė kitoje Europos Sąjungos valstybėje narėje.
+Lietuvos vieneto arba užsienio vieneto Europos Sąjungos valstybėje narėje nuolatinės
+buveinės išmokamos Įstatymo 4 straipsnio 4 dalies 1 punkte nurodytos sumos prie
+pajamų šaltinio apmokestinamos be atskaitymų, taikant 5 procentų mokesčio
+tarifą, kai išmokėtų sumų gavėjas (faktiškasis savininkas) yra užsienio
+vienetas – tik Europos Sąjungos valstybės narės rezidentas mokesčių tikslais
+(toliau – ES valstybės narės vienetas) arba šio ES valstybės narės vieneto
+nuolatinė buveinė kitoje Europos Sąjungos valstybėje narėje.
 2.
 Pajamų faktiškuoju savininku laikoma:
 1)
@@ -379,8 +377,8 @@ buveinė gauna šias pajamas, arba
 šias pajamas gaunantis ES valstybės narės vienetas arba ES valstybės narės
 vienetas, kurio nuolatinė buveinė gauna šias pajamas, tiesiogiai valdo ne
 mažiau kaip 25 procentus akcijų (dalių, pajų) šias sumas išmokančiame Lietuvos
-vienete arba ES valstybės narės vienete, kurio nuolatinė buveinė Lietuvos
-Respublikoje išmoka šias sumas, arba
+vienete arba ES valstybės narės vienete, kurio nuolatinė buveinė Lietuvos Respublikoje
+išmoka šias sumas, arba
 3)
 kitas ES valstybės narės vienetas tiesiogiai valdo ne mažiau kaip 25 procentus
 akcijų (dalių, pajų) šias pajamas gaunančiame ES valstybės narės vienete arba
@@ -416,14 +414,14 @@ Jei Lietuvos vienetas ar nuolatinė buveinė išskaitė ir sumokėjo pelno mokes
 apskaičiuotą nuo užsienio vienetui ar jo nuolatinei buveinei išmokėtų sumų
 (pajamų), kurioms galėjo būti taikomos šio Įstatymo 37(1) straipsnio
 nuostatos, tai užsienio vienetui mokestis grąžinamas (įskaitomas) Mokesčių
-administravimo įstatymo nustatyta tvarka. Užsienio vienetas raštišką prašymą grąžinti
-(įskaityti) mokestį ir dokumentus, įrodančius, kad tenkinami šio Įstatymo 37(1)
-straipsnio 1–3 dalyse nustatyti kriterijai, turi pateikti per dvejus metus nuo
-minėtų sumų (pajamų) išmokėjimo jam dienos. Sumokėtas pelno mokestis turi būti
-grąžinamas (įskaitomas) ne vėliau kaip per vienerius metus nuo raštiško prašymo
-grąžinti (įskaityti) mokestį ir dokumentų, įrodančių, kad tenkinami šio
-Įstatymo 37(1) straipsnio 1–3 dalyse nustatyti kriterijai, gavimo
-dienos.“
+administravimo įstatymo nustatyta tvarka. Užsienio vienetas raštišką prašymą
+grąžinti (įskaityti) mokestį ir dokumentus, įrodančius, kad tenkinami šio
+Įstatymo 37(1) straipsnio 1–3 dalyse nustatyti kriterijai, turi
+pateikti per dvejus metus nuo minėtų sumų (pajamų) išmokėjimo jam dienos.
+Sumokėtas pelno mokestis turi būti grąžinamas (įskaitomas) ne vėliau kaip per
+vienerius metus nuo raštiško prašymo grąžinti (įskaityti) mokestį ir dokumentų,
+įrodančių, kad tenkinami šio Įstatymo 37(1) straipsnio 1–3 dalyse
+nustatyti kriterijai, gavimo dienos.“
  
 11
 straipsnis. Įstatymo 3 priedėlio papildymas 
@@ -447,28 +445,27 @@ skirtingų valstybių narių patronuojančioms ir dukterinėms bendrovėms.
 palūkanų ir autorinių atlyginimų mokėjimams tarp skirtingų valstybių narių
 asocijuotų bendrovių.
 4. 2003 m. gruodžio 22 d. Tarybos direktyva 2003/123/EB dėl Direktyvos 90/435/EEB, iš dalies keičiančios
-Direktyvą 90/435 EEB dėl bendrosios mokesčių sistemos, taikomos įvairių
-valstybių narių patronuojančioms ir dukterinėms bendrovėms.“ 
+Direktyvą 90/435 EEB dėl bendrosios mokesčių sistemos, taikomos įvairių valstybių
+narių patronuojančioms ir dukterinėms bendrovėms.“ 
  
 12 straipsnis. Įstatymo įsigaliojimas 
-*1. Šio Įstatymo 2
-straipsnis įsigalioja praėjus ketveriems kalendoriniams metams nuo 2003 m. birželio 3 d. Tarybos direktyvos 2003/48/EB dėl palūkanų, gautų iš taupymo pajamų,
-apmokestinimo taikymo pradžios.
+1. Neteko galios
+nuo 2008 m. gruodžio 30 d.
 2. Šio Įstatymo
 5 ir 6 straipsniai įsigalioja nuo 2005 m. sausio 1 d.
-*3. Šio Įstatymo
+3. Šio Įstatymo
 7, 8 ir 10 straipsniai įsigalioja praėjus šešeriems kalendoriniams metams nuo 2003 m. birželio 3 d. Tarybos direktyvos 2003/48/EB dėl palūkanų, gautų iš taupymo pajamų,
 apmokestinimo taikymo pradžios.
-*4. Šio Įstatymo 9
-straipsnis įsigalioja praėjus ketveriems kalendoriniams metams nuo 2003 m. birželio 3 d. Tarybos direktyvos 2003/48/EB dėl palūkanų, gautų iš taupymo pajamų,
+4. Šio Įstatymo
+9 straipsnis įsigalioja praėjus ketveriems kalendoriniams metams nuo 2003 m. birželio 3 d. Tarybos direktyvos 2003/48/EB dėl palūkanų, gautų iš taupymo pajamų,
 apmokestinimo taikymo pradžios ir galioja dvejus kalendorinius metus.
-*Pastaba: valstybės narės taiko
-ES Tarybos direktyvos 2003/48/EB
-nuostatas nuo 2005 m. sausio 1 d. (yra sąlygos)
 Straipsnio pakeitimai:
 Nr.
 X-456,
 2005-12-20, Žin., 2005, Nr. 153-5635 (2005-12-31) 
+Nr.
+XI-75,
+2008-12-18, Žin., 2008, Nr. 149-6002 (2008-12-30)
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
@@ -481,7 +478,8 @@ RESPUBLIKOS
 PREZIDENTO PAREIGAS                                  ARTŪRAS
 PAULAUSKAS
 
-___________________
+ 
+__________________
  
 Pakeitimai:
  
@@ -510,11 +508,22 @@ MOKESČIO ĮSTATYMO 5, 12, 26, 35, 36, 37, 53 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 PAPILDYMO ĮSTATYMO 8 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2009 m. sausio 1 d.
  
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-75, 2008-12-18,
+Žin., 2008, Nr. 149-6002 (2008-12-30)
+PELNO
+MOKESČIO ĮSTATYMO 5, 12, 26, 35, 36, 37, 53 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO,
+ĮSTATYMO PAPILDYMO 37(1) BEI 37(2) STRAIPSNIAIS IR ĮSTATYMO 3 PRIEDĖLIO
+PAPILDYMO ĮSTATYMO 2 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS IR 12 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2008-08-05)
+Aušrinė Trapinskienė (2008-12-31)
                  
 autrap@lrs.lt
