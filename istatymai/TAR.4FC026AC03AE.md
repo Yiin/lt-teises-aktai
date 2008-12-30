@@ -1866,8 +1866,9 @@ kai jo sužalojimas, susižalojimas ar sveikatos sutrikdymas yra susijęs su jo
 tarnybinių pareigų atlikimu, jei tarnybinių pareigų atlikimas buvo susijęs su
 padidėjusiu pavojumi ar padidėjusia rizika pareigūno gyvybei ar sveikatai, arba
 kai jo sveikata sutrikdyta dėl tarnybinių pareigų atlikimo ar pareigūno
-statuso, išmokama nuo vienų iki 5 metų (nuo 12 iki 60 mėnesių) jo vidutinio
-darbo užmokesčio dydžio kompensacija. Nustatomos šios kompensacijos:
+statuso, išmokama nuo vieno mėnesio iki 5 metų (nuo 1 mėnesio iki 60 mėnesių)
+jo vidutinio darbo užmokesčio dydžio kompensacija. Nustatomos šios
+kompensacijos:
 1) netekusiems
 75–100 procentų darbingumo dėl sužalojimo ar susižalojimo – 60 mėnesių
 vidutinio darbo užmokesčio dydžio;
@@ -1877,15 +1878,23 @@ darbo užmokesčio dydžio;
 3) netekusiems
 45–55 procentų darbingumo dėl sužalojimo ar susižalojimo – 36 mėnesių vidutinio
 darbo užmokesčio dydžio;
-4) netekusiems iki 40 procentų darbingumo dėl sužalojimo ar
-susižalojimo ir dėl to pripažintiems netinkamais vidaus tarnybai – 30 mėnesių
-vidutinio darbo užmokesčio dydžio;
+4) netekusiems
+iki 40 procentų darbingumo dėl sužalojimo ar susižalojimo ir dėl to
+pripažintiems netinkamais vidaus tarnybai – 30 mėnesių vidutinio darbo
+užmokesčio dydžio; 
 5) sunkaus
 sveikatos sutrikdymo atveju – 24 mėnesių vidutinio darbo užmokesčio dydžio;
 6) apysunkio
 sveikatos sutrikdymo atveju – 18 mėnesių vidutinio darbo užmokesčio dydžio;
 7) lengvo
-sveikatos sutrikdymo atveju – 12 mėnesių vidutinio darbo užmokesčio dydžio.
+sveikatos sutrikdymo atveju – nuo 1 iki 12 mėnesių vidutinio darbo užmokesčio
+dydžio.
+Pastaba.
+Pareigūnui, kuris buvo sužalotas, susižalojo arba jo sveikata buvo sutrikdyta
+iki šio įstatymo Nr. XI-122 įsigaliojimo,
+taikomos Vidaus tarnybos statuto 40 straipsnio 3 dalies nuostatos, galiojusios
+iki šio įstatymo įsigaliojimo.
+ 
 4. Kursanto mirties, sužalojimo, susižalojimo ar jo sveikatos
 sutrikdymo per profesinį ar įvadinį mokymą atvejais kompensacijos mokamos šio
 straipsnio 1 ir 3 dalyse nustatytomis sąlygomis ir tvarka, išskyrus tai, kad
@@ -1896,8 +1905,9 @@ mirtis, susižalojimas, sužalojimas arba sveikatos sutrikdymas yra susijęs su
 tarnybinių pareigų atlikimu ar pareigūno statusu, o kursanto – su profesiniu ar
 įvadiniu mokymu, taip pat ar tarnybinių pareigų atlikimas, profesinis ar
 įvadinis mokymas susijęs su padidėjusiu pavojumi ar padidėjusia rizika
-pareigūno ar kursanto gyvybei ar sveikatai, nustatoma vidaus reikalų ministro
-nustatyta tvarka.
+pareigūno ar kursanto gyvybei ar sveikatai, taip pat kompensacijos dydis lengvo
+sveikatos sutrikdymo atveju nustatoma vidaus reikalų ministro nustatyta
+tvarka.
 6. Šiame
 straipsnyje nustatytos kompensacijos nemokamos, jeigu: 
 1) darydamas
@@ -1933,6 +1943,9 @@ pakeitimai:
 Nr.
 X-804,
 2006-07-19, Žin., 2006, Nr. 87-3412 (2006-08-08)
+Nr.
+XI-122,
+2008-12-23, Žin., 2008, Nr. 149-6042 (2008-12-30)
  
 41
 straipsnis. Pareigūnų laikinasis nedarbingumas ir jo apmokėjimo tvarka
@@ -1979,8 +1992,8 @@ tvarkoje nustatytus maksimalius terminus arba anksčiau, nei šie terminai
 nustatyti, jeigu yra neįgalumo požymių, sveikata tikrinama Centrinėje medicinos
 ekspertizės komisijoje.
 Straipsnio pakeitimai:
-Nr. IX-2526, 2004-11-02,
-Žin., 2004, Nr. 167-6105 (2004-11-17)
+Nr. IX-2526,
+2004-11-02, Žin., 2004, Nr. 167-6105 (2004-11-17)
 Nr. IX-2536,
 2004-11-04, Žin., 2004, Nr. 171-6296 (2004-11-26)
 Nr.
@@ -2003,8 +2016,8 @@ biudžeto Vidaus reikalų ministerijai ar atitinkamų vidaus reikalų centrinėm
 įstaigoms skirtų lėšų apmokama:
 1) pareigūnų
 medicininė reabilitacija, sveikatos grąžinamasis ir antirecidyvinis gydymas po
-sužalojimo vykdant tarnybines pareigas, kai šis gydymas neapmokamas iš
-Privalomojo sveikatos draudimo fondo biudžeto;
+sužalojimo vykdant tarnybines pareigas, kai šis gydymas neapmokamas iš Privalomojo
+sveikatos draudimo fondo biudžeto;
 2) pareigūnų
 medicininė reabilitacija, sveikatos grąžinamasis ir antirecidyvinis gydymas,
 prevencinė medicininė ir psichologinė reabilitacija, vykdoma asmenims sveikatos
@@ -2012,8 +2025,8 @@ priežiūros įstaigose, kurių steigėja yra Vidaus reikalų ministerija.
 2. Pareigūnų
 medicininės reabilitacijos, prevencinės medicininės ir psichologinės
 reabilitacijos, sveikatos grąžinamojo, antirecidyvinio gydymo, kai jis
-apmokamas iš dalies arba neapmokamas iš Privalomojo sveikatos draudimo fondo
-biudžeto, tvarką nustato Vyriausybė ar jos įgaliota institucija.
+apmokamas iš dalies arba neapmokamas iš Privalomojo sveikatos draudimo fondo biudžeto,
+tvarką nustato Vyriausybė ar jos įgaliota institucija.
  
 DEVINTASIS SKIRSNIS
 PROFESINIŲ
@@ -2034,11 +2047,12 @@ vykdoma veikla prieštarauja įstatymams ir trukdo įgyvendinti funkcijas siekia
 užtikrinti žmogaus teises ir viešąjį saugumą.
 4. Profesinių sąjungų nariams (išskyrus išimtį, nustatytą šio
 straipsnio 5 dalyje ir šio Statuto 53 straipsnio 1 dalies 13 punkte) negali
-būti taikomos tarnybinės nuobaudos ir atleidimas iš vidaus tarnybos dėl jų narystės
-profesinėse sąjungose, dėl atstovavimo vidaus reikalų įstaigų profesinių
-sąjungų nariams arba dėl veiklos profesinėse sąjungose. Skiriant tarnybines
-nuobaudas, išskyrus tarnybinę nuobaudą – atleidimą iš vidaus tarnybos, taip pat
-reikalingas išankstinis profesinės sąjungos renkamojo organo sutikimas.
+būti taikomos tarnybinės nuobaudos ir atleidimas iš vidaus tarnybos dėl jų
+narystės profesinėse sąjungose, dėl atstovavimo vidaus reikalų įstaigų
+profesinių sąjungų nariams arba dėl veiklos profesinėse sąjungose. Skiriant
+tarnybines nuobaudas, išskyrus tarnybinę nuobaudą – atleidimą iš vidaus
+tarnybos, taip pat reikalingas išankstinis profesinės sąjungos renkamojo organo
+sutikimas.
 5. Pareigūnas, išrinktas į renkamuosius vidaus reikalų įstaigos
 profesinės sąjungos organus, atleidžiamas iš vidaus tarnybos, jei su juo ši
 profesinė sąjunga sudaro darbo sutartį.
@@ -2130,8 +2144,8 @@ patalpas) pareigūnas moka Vyriausybės nustatyta tvarka apskaičiuotą
 gyvenamosios patalpos nuomos mokestį ir mokesčius už energijos, ryšių bei visas
 komunalines paslaugas pagal toje vietovėje galiojančius tarifus.
 2. Pareigūnas,
-perėjęs tarnauti į kitą vidaus reikalų įstaigą, dėl šios priežasties negali
-būti iškeldinamas iš anksčiau suteikto tarnybinio buto.
+perėjęs tarnauti į kitą vidaus reikalų įstaigą, dėl šios priežasties
+negali būti iškeldinamas iš anksčiau suteikto tarnybinio buto.
 3.
 Pareigūnas gali naudotis tarnybiniu butu (tarnybine gyvenamąja patalpa) tol,
 kol turi pareigūno statusą. Atleistas iš vidaus tarnybos pareigūnas privalo tarnybinį butą
@@ -2143,9 +2157,9 @@ iškeldinamas.
 4. Pareigūnui,
 kuris neaprūpintas tarnybiniu butu šio straipsnio 1 dalyje nustatyta tvarka
 (viengungis – atskira tarnybine gyvenamąja patalpa), gyvenamosios patalpos
-tarnybos vietovėje išlaikymo išlaidoms kompensuoti iš Vidaus reikalų
-ministerijai ar vidaus reikalų centrinei įstaigai skirtų lėšų mokami
-Vyriausybės nustatyto dydžio butpinigiai.
+tarnybos vietovėje išlaikymo išlaidoms kompensuoti iš Vidaus reikalų ministerijai
+ar vidaus reikalų centrinei įstaigai skirtų lėšų mokami Vyriausybės nustatyto
+dydžio butpinigiai.
 Straipsnio
 pakeitimai:
 Nr.
@@ -2164,8 +2178,8 @@ mokėjimo tvarką nustato vidaus reikalų centrinių įstaigų vadovai.
 Straipsnio
 pakeitimai:
 Nr.
-X-804, 2006-07-19,
-Žin., 2006, Nr. 87-3412 (2006-08-08)
+X-804,
+2006-07-19, Žin., 2006, Nr. 87-3412 (2006-08-08)
  
 49
 straipsnis. Pareigūnų ir kursantų draudimas ir pareigūnų pensijos
@@ -2211,21 +2225,21 @@ Pareigūnui,
 vykdžiusiam pavestus vidaus tarnybos uždavinius ir funkcijas bei viršijusiam
 tarnybinės rizikos ribas ir tuo padariusiam nusikalstamą veiką ar kitokį teisės
 pažeidimą arba nukentėjusiam vykdant tarnybines funkcijas ar dėl vidaus
-tarnybos, iš vidaus reikalų įstaigai darbo
-užmokesčiui skirtų lėšų gali būti kompensuojamos teisinės pagalbos
-išlaidos ar jų dalis. Kompensaciją skiria
-vidaus reikalų įstaigos vadovas iš vidaus reikalų įstaigai darbo užmokesčiui
-skirtų lėšų. Vidaus reikalų įstaigos vadovui pašalpa skiriama iš jo
-vadovaujamos vidaus reikalų įstaigos darbo užmokesčiui skirtų lėšų.
+tarnybos, iš vidaus reikalų įstaigai darbo užmokesčiui
+skirtų lėšų gali būti kompensuojamos teisinės pagalbos išlaidos ar jų
+dalis. Kompensaciją skiria vidaus reikalų
+įstaigos vadovas iš vidaus reikalų įstaigai darbo užmokesčiui skirtų lėšų.
+Vidaus reikalų įstaigos vadovui pašalpa skiriama iš jo vadovaujamos vidaus
+reikalų įstaigos darbo užmokesčiui skirtų lėšų.
  
 51 straipsnis. Grąžinimas į vidaus tarnybą
 Pareigūnas,
-atleistas iš vidaus tarnybos vidaus reikalų įstaigoje dėl pareigybės panaikinimo,
-atleistas iš vidaus tarnybos jo paties prašymu, atleistas iš vidaus tarnybos
-dėl atsisakymo eiti kitas pareigas perkeliant rotacijos tvarka ar atleistas iš
-vidaus tarnybos jo paties prašymu dėl išėjimo į pensiją, jo prašymu gali būti
-grąžinamas į vidaus tarnybą. Grąžinimo į vidaus tarnybą tvarką nustato vidaus
-reikalų ministras.
+atleistas iš vidaus tarnybos vidaus reikalų įstaigoje dėl pareigybės
+panaikinimo, atleistas iš vidaus tarnybos jo paties prašymu, atleistas iš
+vidaus tarnybos dėl atsisakymo eiti kitas pareigas perkeliant rotacijos tvarka
+ar atleistas iš vidaus tarnybos jo paties prašymu dėl išėjimo į pensiją, jo
+prašymu gali būti grąžinamas į vidaus tarnybą. Grąžinimo į vidaus tarnybą
+tvarką nustato vidaus reikalų ministras.
 Straipsnio
 pakeitimai:
 Nr. X-1705,
@@ -2265,9 +2279,9 @@ reikalų įstaigos.
 nusiųstiems saugoti Lietuvos Respublikos
 diplomatinių atstovybių, konsulinių įstaigų ir atstovybių prie tarptautinių
 organizacijų, visą jų tarnybos užsienyje laikotarpį mokama su tarnyba
-užsienyje susijusių išlaidų kompensacija, apmokamos įsikūrimo, kelionių, draudimo
-ir patalpų nuomos išlaidos. Šių išlaidų ir kompensacijos dydį, jų mokėjimo
-tvarką nustato Vyriausybė.
+užsienyje susijusių išlaidų kompensacija, apmokamos įsikūrimo, kelionių,
+draudimo ir patalpų nuomos išlaidos. Šių išlaidų ir kompensacijos dydį, jų
+mokėjimo tvarką nustato Vyriausybė.
 Straipsnio pakeitimai:
 Nr.
 X-68,
@@ -2468,13 +2482,13 @@ Vidaus reikalų ministerijoje yra sudaromas Vidaus reikalų pareigūnų registra
 Šio registro pagrindu išduodami pareigūnų tarnybiniai pažymėjimai, teikiama
 informacija valdymui, analizei, statistinei vidaus tarnybos personalo
 apskaitai, pareigybių komplektavimui ir poreikio nustatymui.
-3. Vidaus
-reikalų pareigūnų registras steigiamas ir tvarkomas Lietuvos Respublikos
-valstybės registrų, Asmens duomenų teisinės apsaugos įstatymų, kitų teisės aktų
-nustatyta tvarka. Vidaus reikalų pareigūnų registro paskirtį, jo objektus,
-registro tvarkymo įstaigas, jų teises ir pareigas, registro tvarkymą,
-reorganizavimą ir likvidavimą reglamentuoja Vidaus reikalų pareigūnų registro
-nuostatai. Šiuos nuostatus vidaus reikalų ministro teikimu tvirtina Vyriausybė.
+3. Vidaus reikalų
+pareigūnų registras steigiamas ir tvarkomas Lietuvos Respublikos valstybės
+registrų, Asmens duomenų teisinės apsaugos įstatymų, kitų teisės aktų nustatyta
+tvarka. Vidaus reikalų pareigūnų registro paskirtį, jo objektus, registro
+tvarkymo įstaigas, jų teises ir pareigas, registro tvarkymą, reorganizavimą ir
+likvidavimą reglamentuoja Vidaus reikalų pareigūnų registro nuostatai. Šiuos
+nuostatus vidaus reikalų ministro teikimu tvirtina Vyriausybė.
  
 ________________
  
@@ -2551,8 +2565,8 @@ Nr.
 X-163,
 2005-04-21, Žin., 2005, Nr. 58-2001 (2005-05-07)
 DARBO
-KODEKSO, ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO, BAUSMIŲ VYKDYMO KODEKSO,
-SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO, VIDAUS TARNYBOS STATUTO, SVEIKATOS DRAUDIMO
+KODEKSO, ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO, BAUSMIŲ VYKDYMO KODEKSO, SEIMO
+NARIŲ DARBO SĄLYGŲ ĮSTATYMO, VIDAUS TARNYBOS STATUTO, SVEIKATOS DRAUDIMO
 ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 8.
@@ -2621,8 +2635,8 @@ SAUGUMO PAGRINDŲ ĮSTATYMO IR VIDAUS TARNYBOS STATUTO PAKEITIMO ĮSTATYMAS
 14.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. X-1127,
-2007-05-15, Žin., 2007, Nr. 59-2282 (2007-05-29)
+Nr. X-1127, 2007-05-15,
+Žin., 2007, Nr. 59-2282 (2007-05-29)
 VIDAUS
 TARNYBOS STATUTO 14 IR 28 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
@@ -2657,8 +2671,8 @@ TARNYBOS STATUTO 23 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 17.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. X-1621, 2008-06-17,
-Žin., 2008, Nr. 74-2867 (2008-06-30)
+Nr. X-1621,
+2008-06-17, Žin., 2008, Nr. 74-2867 (2008-06-30)
 VIDAUS
 TARNYBOS STATUTO 41 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
@@ -2686,11 +2700,19 @@ TARNYBOS STATUTO 29, 31, 36 IR 38 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja nuo 2009 m. sausio 1 d.
  
+20.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-122,
+2008-12-23, Žin., 2008, Nr. 149-6042 (2008-12-30)
+VIDAUS
+TARNYBOS STATUTO 40 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2008-12-04)
+Aušrinė Trapinskienė (2009-01-05)
                  
 autrap@lrs.lt
