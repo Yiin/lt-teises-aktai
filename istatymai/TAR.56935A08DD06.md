@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.56935A08DD06"
 
 # Lietuvos Respublikos jūros aplinkos apsaugos įstatymas
 
-Suvestinė redakcija nuo 2007-05-19 iki 2008-12-31
+Suvestinė redakcija nuo 2009-01-01 iki 2010-12-27
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2731, i. k. 0971010ISTAVIII-512
  
@@ -544,13 +544,30 @@ TERŠIMO INCIDENTŲ LIKVIDAVIMAS
  
 
 
-30 straipsnis. Teršimo incidentų likvidavimas jūros rajone
+30 straipsnis. Teršimo incidentų likvidavimas
 
 
-Už teršimo nafta ir kitomis kenksmingomis medžiagomis incidentų jūros rajone likvidavimą atsako Lietuvos Respublikos Vyriausybės įgaliota institucija.
+1. Teršimo incidentų likvidavimo darbus jūros rajone organizuoja, koordinuoja ir jiems vadovauja Lietuvos kariuomenė. Šiuos darbus Lietuvos kariuomenė organizuoja, koordinuoja ir jiems vadovauja per Lietuvos kariuomenės Karinių jūrų pajėgų Jūrų gelbėjimo koordinavimo centrą (toliau – Jūrų gelbėjimo koordinavimo centras).
+
+
+
+
+2. Teršimo incidentų likvidavimo darbus jūros rajone, išskyrus vidaus vandenis, vykdo Lietuvos kariuomenė, Kuršių mariose – Vidaus reikalų ministerijos įgaliotos institucijos, jūrų uostų akvatorijose – jūrų uostų administracijos.
+
+
+
+
+3. Teršimo incidentų likvidavimo darbams vykdyti Jūrų gelbėjimo koordinavimo centro vadovo prašymu gali būti pasitelkiamos Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos, jūrų uostų administracijų, kitų valstybės ir savivaldybių institucijų pajėgos ir priemonės, priskirtos šiems darbams vykdyti pagal Teršimo incidentų likvidavimo jūros rajone darbų planą (toliau – Planas), kurį tvirtina krašto apsaugos, aplinkos ir vidaus reikalų ministrai. Jeigu teršimo incidentų likvidavimo darbams vykdyti pagal Planą priskirtų pajėgų ir priemonių neužtenka, turi būti pasitelkiamos papildomos, t. y. pagal Planą nepriskirtos, minėtų institucijų pajėgos ir priemonės.
+
+
+
+
+4. Šiame straipsnyje nurodytų institucijų pareigas ir įgaliojimus organizuojant, koordinuojant, vadovaujant ir vykdant teršimo incidentų likvidavimo darbus jūros rajone nustato Vyriausybė. Šie darbai organizuojami, koordinuojami, jiems vadovaujama ir jie vykdomi remiantis Planu.
+
+
+Straipsnio pakeitimai:
+Nr. X-1560, 2008-05-22, Žin., 2008, Nr. 65-2459 (2008-06-07), i. k. 1081010ISTA00X-1560
  
-
-
 
 
 
@@ -569,20 +586,19 @@ Nafta ar kitomis kenksmingomis medžiagomis užterštų Kuršių marių ir Balti
 32 straipsnis. Teršimo incidentų likvidavimo lokaliniai planai
 
 
-Įrenginiai, laivai, naftos ir cheminių medžiagų terminalai, kiti potencialūs teršimo šaltiniai ir savivaldybės privalo turėti su Lietuvos Respublikos Vyriausybės įgaliota institucija suderintus teršimo incidentų likvidavimo lokalinius planus, kurie turi būti suderinti ir su nacionaliniu teršimų likvidavimo planu, parengtu pagal šio įstatymo 33 straipsnį.
+Įrenginiai, laivai, naftos ir cheminių medžiagų terminalai, kiti potencialūs teršimo šaltiniai, jūrų uostų administracijos ir savivaldybės privalo turėti su Lietuvos Respublikos Vyriausybės įgaliota institucija suderintus teršimo incidentų likvidavimo lokalinius planus.
+
+
+Straipsnio pakeitimai:
+Nr. X-1560, 2008-05-22, Žin., 2008, Nr. 65-2459 (2008-06-07), i. k. 1081010ISTA00X-1560
  
 
 
 
 
-
-
-33 straipsnis. Nacionalinis teršimo incidentų likvidavimo planas
-
-
-Lietuvos Respublikos Vyriausybės įgaliota institucija, bendradarbiaudama su Helsinkio konvencijos valstybėmis, privalo parengti ir turėti Aplinkos ministerijos suderintą nacionalinį teršimo incidentų likvidavimo planą ir bendrą teršimų likvidavimo schemą, taip pat vadovauti, organizuoti bei koordinuoti daugiašales ar nacionalines priemones, kurios įgyvendinamos įvykus dideliems teršimo incidentams.
-
-
+33 straipsnis. Neteko galios nuo 2009-01-01
+Straipsnio naikinimas:
+Nr. X-1560, 2008-05-22, Žin. 2008, Nr. 65-2459 (2008-06-07), i. k. 1081010ISTA00X-1560
 Straipsnio pakeitimai:
 Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
  
@@ -606,10 +622,12 @@ Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA
 35 straipsnis. Pasirengimas likviduoti teršimo incidentus
 
 
-Institucijos ir objektai, išvardyti šio įstatymo 30–33 straipsniuose, privalo būti nuolat pasirengę reaguoti į teršimų incidentus. Šis pasirengimas – tai apsirūpinimas plane numatytais įrenginiais, laivais, kvalifikuota darbo jėga ir kita.
+Institucijos ir objektai, išvardyti šio įstatymo 30–32 straipsniuose, privalo būti nuolat pasirengę reaguoti į teršimų incidentus. Šis pasirengimas – tai apsirūpinimas Plane numatytais įrenginiais, laivais, kvalifikuota darbo jėga ir kita.
+
+
+Straipsnio pakeitimai:
+Nr. X-1560, 2008-05-22, Žin., 2008, Nr. 65-2459 (2008-06-07), i. k. 1081010ISTA00X-1560
  
-
-
 
 
 
@@ -628,10 +646,17 @@ Lietuvos Respublikos jūros uostų administracijos, laivų savininkai ar valdyto
 37 straipsnis. Ypatingos priemonės
 
 
-Jeigu jūros rajone ar už jos ribų įvykusi avarija ar teršimo incidentas kelia rimtą ir neišvengiamą grėsmę žmonėms, pakrantei ir su tuo susijusiems interesams, gali būti imamasi ypatingų priemonių (laivas pašalinamas, sudeginamas, paskandinamas ir kt.), jeigu tai vienintelė išeitis pavojui išvengti, sumažinti ar likviduoti. Lietuvos Respublikos Vyriausybės įgaliota institucija, prieš taikydama ypatingas priemones, privalo, išskyrus labai skubius atvejus, konsultuotis su suinteresuotomis kaimyninėmis valstybėmis, ypač su valstybe, su kurios vėliava plaukia incidentą patyręs laivas.
+1. Kai jūros rajone įvykusi avarija ar teršimo incidentas kelia rimtą ir neišvengiamą grėsmę žmonėms, pakrantei ir su tuo susijusiems interesams, gali būti imamasi ypatingų priemonių (laivas pašalinamas, sudeginamas, paskandinamas ir kt.), jeigu tai vienintelė išeitis pavojui išvengti, sumažinti ar likviduoti. Sprendimas taikyti ypatingas priemones priimamas Vyriausybės nustatyta tvarka.
+
+
+
+
+2. Ypatingas priemones vykdo Lietuvos kariuomenė jūros rajone, išskyrus vidaus vandenis, Vidaus reikalų ministerijos įgaliotos institucijos Kuršių mariose, jūrų uostų administracijos jūrų uostų akvatorijose. Ypatingoms priemonėms vykdyti atitinkamai Jūrų gelbėjimo koordinavimo centro, Vidaus reikalų ministerijos įgaliotos institucijos arba jūrų uosto administracijos vadovo prašymu gali būti pasitelkiamos kitų institucijų pajėgos ir priemonės.
+
+
+Straipsnio pakeitimai:
+Nr. X-1560, 2008-05-22, Žin., 2008, Nr. 65-2459 (2008-06-07), i. k. 1081010ISTA00X-1560
  
-
-
 
 
 
@@ -646,10 +671,12 @@ PRANEŠIMAI
 38 straipsnis. Privalomi pranešimai apie neteisėtus išmetimus
 
 
-Laivų savininkai ar valdytojai, kapitonai ar kiti pareigūnai, atsakingi už laivus, plaukiančius su Lietuvos valstybės vėliava, privalo tuojau pat pranešti artimiausios pakrantės valstybei ir Lietuvos Respublikos jūros uostų administracijoms apie visus įvykius, susijusius su kenksmingų medžiagų išmetimais ar galimais išmetimais, jeigu jie pažeidžia šio įstatymo ketvirtojo ir šeštojo skirsnių nuostatas, apie kitus teršimo incidentus, įskaitant ir atvejus, nurodytus 69 straipsnyje, taip pat apie kiekvieną susidūrimą ar užplaukimą ant seklumos. 
+Laivų savininkai ar valdytojai, kapitonai ar kiti pareigūnai, atsakingi už laivus, privalo tuojau pat pranešti artimiausios pakrantės valstybės kompetentingai institucijai, jei plaukia jūros rajone, – Jūrų gelbėjimo koordinavimo centrui apie visus įvykius, susijusius su kenksmingų medžiagų išmetimais ar galimais išmetimais, jeigu jie pažeidžia šio įstatymo ketvirtojo ir šeštojo skirsnių nuostatas, apie kitus teršimo incidentus, įskaitant ir atvejus, nurodytus 69 straipsnyje, taip pat apie kiekvieną susidūrimą ar užplaukimą ant seklumos.
+
+
+Straipsnio pakeitimai:
+Nr. X-1560, 2008-05-22, Žin., 2008, Nr. 65-2459 (2008-06-07), i. k. 1081010ISTA00X-1560
  
-
-
 
 
 
@@ -657,10 +684,12 @@ Laivų savininkai ar valdytojai, kapitonai ar kiti pareigūnai, atsakingi už la
 39 straipsnis. Privalomi pranešimai apie pastebėtus išmetimus
 
 
-38 straipsnyje minėti asmenys ir lėktuvų pilotai privalo tuojau pat pranešti artimiausios pakrantės ir Lietuvos Respublikos jūros uostų administracijoms apie visus jūroje pastebėtus naftos ar kitų kenksmingų medžiagų išmetimus.
+38 straipsnyje nurodyti asmenys ir orlaivių vadai privalo tuojau pat pranešti artimiausios pakrantės valstybės kompetentingai institucijai, jei plaukia jūros rajone ar skrenda virš jūros rajono, – Jūrų gelbėjimo koordinavimo centrui, o jei yra uosto akvatorijoje ar skrenda virš uosto akvatorijos, – to uosto administracijai apie pastebėtus išmetimus.
+
+
+Straipsnio pakeitimai:
+Nr. X-1560, 2008-05-22, Žin., 2008, Nr. 65-2459 (2008-06-07), i. k. 1081010ISTA00X-1560
  
-
-
 
 
 
@@ -676,36 +705,36 @@ Laivų savininkai ar valdytojai, kapitonai ar kiti pareigūnai, atsakingi už la
 
 
 
-41 straipsnis. Privalomi pranešimai apie neteisėtą šalinimą ir deginimą 
+41 straipsnis. Privalomi pranešimai apie neteisėtą šalinimą ir deginimą
 
 
-Laivų valdytojai, kapitonai ar kiti už laivus atsakingi pareigūnai, lėktuvų pilotai, įrenginių valdytojai privalo tuojau pat pranešti Lietuvos Respublikos jūros uostų administracijoms apie kiekvieną neteisėtą šalinimą ir deginimą jūros rajone.
+Laivų valdytojai, kapitonai ar kiti už laivus atsakingi pareigūnai, orlaivių vadai, įrenginių valdytojai privalo tuojau pat pranešti apie kiekvieną neteisėtą šalinimą ir deginimą jūros rajone Jūrų gelbėjimo koordinavimo centrui.
+
+
+Straipsnio pakeitimai:
+Nr. X-1560, 2008-05-22, Žin., 2008, Nr. 65-2459 (2008-06-07), i. k. 1081010ISTA00X-1560
  
 
 
 
 
+42 straipsnis. Privalomi pranešimai
 
 
-42 straipsnis. Privalomi pranešimai Vyriausybės institucijoms
-
-
-Lietuvos Respublikos jūros uostų administracijos ar kiti pareigūnai, turintys uostų administracijos įgaliojimus, naftą ar kitas kenksmingas medžiagas kraunančių įrenginių operatoriai ir kiti uostų objektų darbuotojai privalo nedelsdami pranešti Aplinkos ministerijai ir Vyriausybės įgaliotai institucijai apie visus 38–41 straipsniuose nurodytus įvykius.
+Jūrų gelbėjimo koordinavimo centras privalo nedelsdamas pranešti Aplinkos ministerijos įgaliotai institucijai apie visus 38–41 straipsniuose nurodytus įvykius.
 
 
 Straipsnio pakeitimai:
 Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
+Nr. X-1560, 2008-05-22, Žin., 2008, Nr. 65-2459 (2008-06-07), i. k. 1081010ISTA00X-1560
  
 
 
 
 
-43 straipsnis. Pranešimų taisyklės
-
-
-38–42 straipsnių nuostatos įgyvendinamos pagal Aplinkos ministerijos, Susisiekimo ministerijos ir Vyriausybės įgaliotos institucijos parengtas bei patvirtintas taisykles ir pranešimų schemą.
-
-
+43 straipsnis. Neteko galios nuo 2009-01-01
+Straipsnio naikinimas:
+Nr. X-1560, 2008-05-22, Žin. 2008, Nr. 65-2459 (2008-06-07), i. k. 1081010ISTA00X-1560
 Straipsnio pakeitimai:
 Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
  
@@ -1152,3 +1181,8 @@ Lietuvos Respublikos jūros aplinkos apsaugos įstatymo 46 ir 47 straipsnių pri
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
 Lietuvos Respublikos jūros aplinkos apsaugos įstatymo pakeitimo ir Įstatymo papildymo priedu įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1560, 2008-05-22, Žin., 2008, Nr. 65-2459 (2008-06-07), i. k. 1081010ISTA00X-1560
+Lietuvos Respublikos jūros aplinkos apsaugos įstatymo 30, 32, 35, 37, 38, 39, 41, 42 straipsnių pakeitimo ir papildymo bei 33 ir 43 straipsnių pripažinimo netekusiais galios įstatymas
