@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.793560F67ADF"
 
 # Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymas
 
-Suvestinė redakcija nuo 2007-01-01 iki 2008-12-31
+Suvestinė redakcija nuo 2009-01-01 iki 2009-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 67-0; Žin. 1991, Nr.11-274, i. k. 0911010ISTA00I-1163
  
@@ -229,7 +229,7 @@ Valstybinės mokesčių inspekcijos prie Finansų ministerijos ir teritorinių v
 11 straipsnis. Mokesčio įskaitymas
 
 
-1. Mokestis už valstybinius gamtos išteklius, išskyrus mokestį už medžiojamųjų gyvūnų išteklius, įskaitomas į valstybės biudžetą.
+1. Mokestis už valstybinius gamtos išteklius, išskyrus mokestį už medžiojamųjų gyvūnų išteklius, įskaitomas: 90 procentų – į valstybės biudžetą, o 10 procentų – į savivaldybės, kurios teritorijoje išgaunami gamtos ištekliai, biudžetą ir teisės aktų nustatyta tvarka naudojamas Savivaldybių aplinkos apsaugos rėmimo specialiajai programai finansuoti.
 
 
 
@@ -239,20 +239,21 @@ Valstybinės mokesčių inspekcijos prie Finansų ministerijos ir teritorinių v
 
 
 
-3. Didesnio tarifo mokestis už valstybinius gamtos išteklius įskaitomas į valstybės biudžetą ir teisės aktų nustatyta tvarka naudojamas Aplinkos apsaugos rėmimo programai finansuoti.
+3. Didesnio tarifo mokestis už valstybinius gamtos išteklius įskaitomas: 90 procentų – į valstybės biudžetą ir teisės aktų nustatyta tvarka naudojamas Aplinkos apsaugos rėmimo programai finansuoti, o 10 procentų – į savivaldybės, kurios teritorijoje išgaunami gamtos ištekliai, biudžetą ir teisės aktų nustatyta tvarka naudojamas Savivaldybių aplinkos apsaugos rėmimo specialiajai programai finansuoti.
 
 
 
 
-4. Aplinkos apsaugos rėmimo programos lėšos naudojamos Aplinkos apsaugos rėmimo programos įstatyme, o šio straipsnio 2 dalyje nurodytos savivaldybių biudžetų lėšos – Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatyme numatytiems tikslams.
+4. Aplinkos apsaugos rėmimo programos lėšos naudojamos Aplinkos apsaugos rėmimo programos įstatyme, o šio straipsnio 1, 2 ir 3 dalyse nurodytos savivaldybių biudžetų lėšos – Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatyme numatytiems tikslams. 
+
+
+Straipsnio pakeitimai:
+Nr. X-1658, 2008-07-01, Žin., 2008, Nr. 81-3170 (2008-07-17), i. k. 1081010ISTA00X-1658
  
 
 
 
 
-
-
- 
  
  
 LIETUVOS RESPUBLIKOS
@@ -697,3 +698,8 @@ Lietuvos Respublikos mokesčių už valstybinius gamtos išteklius įstatymo 11 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-616, 2006-05-25, Žin., 2006, Nr. 65-2382 (2006-06-10), i. k. 1061010ISTA000X-616
 Lietuvos Respublikos mokesčių už valstybinius gamtos išteklius įstatymo pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1658, 2008-07-01, Žin., 2008, Nr. 81-3170 (2008-07-17), i. k. 1081010ISTA00X-1658
+Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymo 11 straipsnio pakeitimo įstatymas
