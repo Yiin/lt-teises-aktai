@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4FAEA57D16AB"
 
 # Lietuvos Respublikos Prezidento valstybinės rentos įstatymas
 
+Suvestinė redakcija nuo 2009-01-01 iki 2011-12-29
+ 
+Įstatymas paskelbtas: Žin. 2006, Nr. 141-5405, i. k. 1061010ISTA000X-980
+ 
+ 
 LIETUVOS RESPUBLIKOS PREZIDENTO VALSTYBINĖS RENTOS ĮSTATYMAS
  
 2006 m. gruodžio 12 d. Nr. X-980
@@ -89,7 +94,7 @@ Vilnius
 
 
 
-5 straipsnis.         Respublikos Prezidento valstybinės našlių ir našlaičių rentos skyrimo ir mokėjimo sąlygos
+5 straipsnis. Respublikos Prezidento valstybinės našlių ir našlaičių rentos skyrimo ir mokėjimo sąlygos
 
 
 1. Respublikos Prezidento valstybinė našlių ir našlaičių renta skiriama Respublikos Prezidento našliui (našlei) ir našlaičiams, mirus Respublikos Prezidentui, kuriam buvo ar galėjo būti paskirta Respublikos Prezidento valstybinė renta.
@@ -164,7 +169,10 @@ Vilnius
 
 
 
-3. Respublikos Prezidento valstybinę rentą ar Respublikos Prezidento valstybinę našlių ir našlaičių rentą iš Lietuvos Respublikos valstybės biudžeto lėšų moka Socialinės apsaugos ir darbo ministerija (toliau – ministerija), vadovaudamasi šiuo įstatymu bei Vyriausybės patvirtintais Respublikos Prezidento valstybinės rentos skyrimo ir mokėjimo nuostatais.
+3. Respublikos Prezidento valstybinę rentą ar Respublikos Prezidento valstybinę našlių ir našlaičių rentą iš Lietuvos Respublikos valstybės biudžeto lėšų moka Respublikos Prezidento kanceliarija, vadovaudamasi šiuo įstatymu bei Vyriausybės patvirtintais Respublikos Prezidento valstybinės rentos skyrimo ir mokėjimo nuostatais. 
+Straipsnio dalies pakeitimai:
+Nr. X-1799, 2008-11-11, Žin., 2008, Nr. 135-5235 (2008-11-25), i. k. 1081010ISTA00X-1799
+ 
 
 
 
@@ -184,7 +192,9 @@ Vilnius
 
 
 
-7. Respublikos Prezidento valstybinės rentos ar Respublikos Prezidento valstybinės našlių ir našlaičių rentos gavėjas apie aplinkybes, turinčias įtakos Respublikos Prezidento valstybinės rentos ar Respublikos Prezidento valstybinės našlių ir našlaičių rentos mokėjimui, išskyrus 2 straipsnio 2 dalyje nurodytas aplinkybes, privalo per 10 darbo dienų nuo šių aplinkybių atsiradimo pranešti ministerijai. Jeigu apie nurodytas aplinkybes laiku nepranešama, permokėta suma išieškoma įstatymų nustatyta tvarka.
+7. Respublikos Prezidento valstybinės rentos ar Respublikos Prezidento valstybinės našlių ir našlaičių rentos gavėjas apie aplinkybes, turinčias įtakos Respublikos Prezidento valstybinės rentos ar Respublikos Prezidento valstybinės našlių ir našlaičių rentos mokėjimui, išskyrus šio įstatymo 2 straipsnio 2 dalyje nurodytas aplinkybes, privalo per 10 darbo dienų nuo šių aplinkybių atsiradimo pranešti Respublikos Prezidento kanceliarijai. Jeigu apie nurodytas aplinkybes laiku nepranešama, permokėta suma išieškoma įstatymų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. X-1799, 2008-11-11, Žin., 2008, Nr. 135-5235 (2008-11-25), i. k. 1081010ISTA00X-1799
  
 
 
@@ -246,3 +256,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1799, 2008-11-11, Žin., 2008, Nr. 135-5235 (2008-11-25), i. k. 1081010ISTA00X-1799
+Lietuvos Respublikos Prezidento valstybinės rentos įstatymo 7 straipsnio pakeitimo įstatymas
