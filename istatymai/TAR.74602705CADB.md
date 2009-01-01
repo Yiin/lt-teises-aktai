@@ -53,9 +53,9 @@ atsargų kiekio, jų sukaupimo terminų, laikymo sąlygų nustatymas.
 kaupimas – atsargų pirkimas ir laikymas jų saugojimo vietose.
 5. Atsargų
 tvarkymas – atsargų atnaujinimas, keitimas, nurašymas, apskaita, atkūrimas.
-6. Atsargų
-naudojimas – atsargų panaudojimas energijai gaminti ar jų pardavimas
-laikantis šio ir kitų įstatymų nustatytos tvarkos ir apribojimų.
+6. Atsargų naudojimas
+– atsargų panaudojimas energijai gaminti ar jų pardavimas laikantis šio ir kitų
+įstatymų nustatytos tvarkos ir apribojimų.
 7. Ekstremali energetikos padėtis
 – laikotarpis, kai yra sutrikęs normalus energijos išteklių ar energijos
 tiekimas energetikos įmonėms bei vartotojams ir jų tiekimas trukdomas tiek, kad
@@ -73,11 +73,10 @@ SUDARYMAS, KAUPIMAS, TVARKYMAS
  
 3
 straipsnis. Atsargas kaupiantys subjektai
-1. Atsargas,
-nurodytas šio Įstatymo 7 straipsnyje, privalo kaupti naftos produktus
-gaminančios įmonės, naftos produktus importuojančios ir į šalį atgabenančios
-įmonės bei Vyriausybės ar jos įgaliotos institucijos paskirtos valstybės
-įmonės.
+1. Atsargas, nurodytas
+šio Įstatymo 7 straipsnyje, privalo kaupti naftos produktus gaminančios įmonės,
+naftos produktus importuojančios ir į šalį atgabenančios įmonės bei Vyriausybės
+ar jos įgaliotos institucijos paskirtos valstybės įmonės.
 2. Kaupti ir
 tvarkyti atsargas neprivalo įmonės, kurių pagamintų, importuotų, atgabentų,
 parduotų, sunaudotų naftos produktų kiekis per metus neviršija Vyriausybės
@@ -93,7 +92,7 @@ kaupiamos ir tvarkomos įmonių lėšomis, valstybės biudžeto asignavimais, ku
 nustatyti valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
 patvirtinimo įstatyme atskirai specialiajai programai (toliau – valstybės
 lėšomis), kitomis teisėtai gautomis lėšomis. Valstybės lėšomis sukaupiama ir
-tvarkoma 50 procentų atsargų.
+tvarkoma tiek naftos produktų atsargų, kad jų pakaktų ne mažiau kaip 30 dienų.
 2. Įmonės,
 įpareigotos kaupti atsargas, savo lėšomis apmoka visas išlaidas, susijusias su
 joms pavestų atsargų kaupimu bei tvarkymu. Šios išlaidos įskaičiuojamos
@@ -103,8 +102,8 @@ straipsnio 2 dalyje nurodytos išlaidos įtraukiamos į apskaitą atskirai.
 4. Įmonių
 lėšomis sukauptos atsargos yra tų įmonių nuosavybė. Valstybės lėšomis sukauptos
 atsargos yra valstybės nuosavybė. Valstybės nuosavybe esančias atsargas turto
-patikėjimo teisės pagrindu kaupia ir tvarko Vyriausybės ar jos įgaliotos
-institucijos paskirtos valstybės įmonės.
+patikėjimo teisės pagrindu kaupia ir tvarko Vyriausybės ar jos įgaliotos institucijos
+paskirtos valstybės įmonės.
 5. Įmonės,
 įpareigotos kaupti atsargas, gali sudaryti atsargų kaupimo ir tvarkymo sutartis
 su kitomis Lietuvos Respublikoje registruotomis įmonėmis, teikiančiomis atsargų
@@ -118,6 +117,9 @@ saugojimo vietas.
 Straipsnio pakeitimai:
 Nr. IX-2145,
 2004-04-20, Žin., 2004, Nr. 63-2247 (2004-04-28)
+Nr.
+XI-115,
+2008-12-23, Žin., 2008, Nr. 149-6035 (2008-12-30)
  
 5
 straipsnis. Atsargų kokybė
@@ -154,12 +156,12 @@ kategorija);
 3) skysto kuro
 (mazuto) (trečia naftos produktų kategorija).
 2. Dalis atsargų gali būti kaupiama
-žalios naftos ar tarpinių naftos produktų pavidalo. Šiuo atveju žalia nafta ar tarpiniai
-naftos produktai turi būti perskaičiuojami į naftos produktus pagal praėjusių
-kalendorinių metų naftos perdirbimo įmonių naftos perdirbimo faktinės išeigos
-rodiklius. Šis pakeitimas gali būti taikomas ne daugiau kaip 40 procentų pirmos
-ir antros kategorijų produktų ir ne daugiau kaip 50 procentų trečios
-kategorijos produktų.
+žalios naftos ar tarpinių naftos produktų pavidalo. Šiuo atveju žalia nafta ar
+tarpiniai naftos produktai turi būti perskaičiuojami į naftos produktus pagal
+praėjusių kalendorinių metų naftos perdirbimo įmonių naftos perdirbimo faktinės
+išeigos rodiklius. Šis pakeitimas gali būti taikomas ne daugiau kaip 40
+procentų pirmos ir antros kategorijų produktų ir ne daugiau kaip 50 procentų
+trečios kategorijos produktų.
  
 8
 straipsnis. Atsargų sudėtis
@@ -167,7 +169,8 @@ straipsnis. Atsargų sudėtis
 priskirti valstybėje turimą naftą bei naftos produktus, esančius:
 1) įmonių
 sandėliuose (terminaluose);
-2) naftos terminalų rezervuaruose;
+2) naftos terminalų
+rezervuaruose;
 3) uostuose
 prisišvartavusiuose tanklaiviuose.
 2.
@@ -180,8 +183,8 @@ nafta;
 2) atsargos, skirtos jūroje plaukiojančių laivų
 bunkeriams ar esančios jūroje plaukiojančių laivų bunkeriuose;
 3) atsargos, skirtos tiesioginiam tranzitui;
-4) atsargos vamzdynuose, keliais ir geležinkeliais
-vežamose cisternose;
+4) atsargos vamzdynuose, keliais ir geležinkeliais vežamose
+cisternose;
 5) ginkluotųjų pajėgų bei joms skirtos atsargos;
 6) atsargos degalinėse;
 7) nepaimami likučiai rezervuaruose.
@@ -207,8 +210,8 @@ ATSARGŲ NAUDOJIMO REGLAMENTAVIMAS
 10
 straipsnis. Atsargų naudojimas
 1. Atsargos,
-nustatytos šio Įstatymo 6 straipsnio 1 dalyje, gali būti naudojamos tik
-ekstremalios energetikos padėties laikotarpiu.
+nustatytos šio Įstatymo 6 straipsnio 1 dalyje, gali būti naudojamos tik ekstremalios
+energetikos padėties laikotarpiu.
 Straipsnio pakeitimai:
 Nr. IX-2145,
 2004-04-20, Žin., 2004, Nr. 63-2247 (2004-04-28)
@@ -237,8 +240,9 @@ gamyba, importu, eksportu, prekyba, atgabenimu, išgabenimu, vartojimu, taip pat
 Statistikos departamentas prie Lietuvos Respublikos Vyriausybės, Valstybinė
 mokesčių inspekcija ir Lietuvos Respublikos muitinė privalo teikti informaciją
 Vyriausybės įgaliotai institucijai šio Įstatymo nuostatoms įgyvendinti. Įmonių
-teikiamos informacijos apimtį bei jos teikimo tvarką nustato Vyriausybės įgaliota
-institucija ir Statistikos departamentas prie Lietuvos Respublikos Vyriausybės.
+teikiamos informacijos apimtį bei jos teikimo tvarką nustato Vyriausybės
+įgaliota institucija ir Statistikos departamentas prie Lietuvos Respublikos
+Vyriausybės.
 2. Duomenys apie
 konkrečios įmonės sukauptas atsargas yra tarnybos paslaptį sudaranti
 informacija, kuri įslaptinama, saugoma, naudojama ir išslaptinama įstatymų
@@ -286,15 +290,20 @@ NUOSTATOS
 14
 straipsnis. Atsargų sukaupimo terminas
 Šio Įstatymo 6
-straipsnio 1 dalyje nustatytos atsargos turi būti sukauptos iki 2009 m. 
-liepos 31 d.
+straipsnio 1 dalyje nustatytos atsargos turi būti sukauptos iki 2009 m. gruodžio 31 d.
+Straipsnio
+pakeitimai:
+Nr.
+XI-115,
+2008-12-23, Žin., 2008, Nr. 149-6035 (2008-12-30)
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
-RESPUBLIKOS PREZIDENTAS                                                         VALDAS
+RESPUBLIKOS PREZIDENTAS                                                         VALDAS
 ADAMKUS
+ 
  
                                                                                     Lietuvos
 Respublikos 
@@ -307,11 +316,11 @@ atsargų įstatymo
 ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS
 AKTAS
  
-1968
-m. gruodžio 20 d. Tarybos direktyva Nr. 68/414/EEB, įpareigojanti EEB valstybes
-nares laikyti privalomąsias žalios naftos ir (arba) naftos produktų atsargas
-(su paskutiniais pakeitimais, padarytais 1998 m. gruodžio 14 d. Europos Tarybos
-direktyva 98/93/EB).
+1968 m. gruodžio 20 d.
+Tarybos direktyva Nr. 68/414/EEB, įpareigojanti EEB valstybes nares laikyti
+privalomąsias žalios naftos ir (arba) naftos produktų atsargas (su paskutiniais
+pakeitimais, padarytais 1998 m. gruodžio 14 d. Europos Tarybos direktyva
+98/93/EB).
 Įstatymas
 papildytas priedu:
 Nr. IX-2145,
@@ -340,11 +349,21 @@ NAFTOS
 PRODUKTŲ IR NAFTOS VALSTYBĖS ATSARGŲ ĮSTATYMO 1, 2, 3, 4, 8, 10, 11, 12
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS
  
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-115,
+2008-12-23, Žin., 2008, Nr. 149-6035 (2008-12-30)
+NAFTOS
+PRODUKTŲ IR NAFTOS VALSTYBĖS ATSARGŲ ĮSTATYMO 4 IR 14 STRAIPSNIŲ PAKEITIMO
+ĮSTATYMAS
+Šis įstatymas įsigalioja 2009 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2004-05-03)
+Redagavo
+Aušrinė Trapinskienė (2009-01-06)
                  
 autrap@lrs.lt
