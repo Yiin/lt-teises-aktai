@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B68E6BF6330B"
 
 # Lietuvos Respublikos mokesčio už valstybės turto naudojimą patikėjimo teise įstatymas
 
-Suvestinė redakcija nuo 2005-06-30 iki 2008-12-31
+Suvestinė redakcija nuo 2009-01-01 iki 2010-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 117-4369, i. k. 1041010ISTA0IX-2332
  
@@ -81,28 +81,35 @@ Nr. X-246, 2005-06-16, Žin., 2005, Nr. 81-2938 (2005-06-30), i. k. 1051010ISTA0
 
 
 
-5 straipsnis. Mokesčio tarifas 
+5 straipsnis. Mokesčio tarifas
 
 
 Taikomi šie mokesčio tarifai:
 
 
-1) valstybės įmonėms prie pataisos įstaigų, tauriųjų metalų ir brangakmenių bei jų gaminių valstybinę priežiūrą atliekančiai valstybės įmonei, Klaipėdos valstybinį jūrų uostą valdančiai valstybės įmonei – 0,1 procento;
+1) indėlininkų indėlių, įsipareigojimų investuotojams draudimą atliekančiai valstybės įmonei – 0,05 procento;
 
 
 
 
-2) valstybinės reikšmės kelius (automobilių bei vandens) valdančioms, naudojančioms ir disponuojančioms jais valstybės įmonėms, indėlininkų indėlių, įsipareigojimų investuotojams draudimą atliekančiai valstybės įmonei – 0,05 procento;
+2) valstybės įmonėms prie pataisos įstaigų – 0,1 procento;
 
 
 
 
-3) kitoms valstybės įmonėms – 0,5 procento.
+3) valstybės įmonei Ignalinos atominei elektrinei – 0,5 procento;
+
+
+
+
+4) kitoms valstybės įmonėms – 2 procentai, tačiau mokėtinas mokestis negali būti mažesnis negu 10 procentų praėjusio mokestinio laikotarpio apmokestinamojo pelno, apskaičiuoto pagal Lietuvos Respublikos pelno mokesčio įstatymo 11 straipsnį, sumos.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XI-81, 2008-12-19, Žin., 2008, Nr. 149-6007 (2008-12-30), i. k. 1081010ISTA000XI-81
  
-
-
-
-
 
 
 
@@ -230,3 +237,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-246, 2005-06-16, Žin., 2005, Nr. 81-2938 (2005-06-30), i. k. 1051010ISTA000X-246
 Lietuvos Respublikos mokesčio už valstybės turto naudojimą patikėjimo teise įstatymo 4 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-81, 2008-12-19, Žin., 2008, Nr. 149-6007 (2008-12-30), i. k. 1081010ISTA000XI-81
+Lietuvos Respublikos mokesčio už valstybės turto naudojimą patikėjimo teise įstatymo 5 straipsnio pakeitimo įstatymas
