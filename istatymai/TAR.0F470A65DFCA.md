@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0F470A65DFCA"
 
 # Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas
 
-Suvestinė redakcija nuo 2005-07-12 iki 2008-12-31
+Suvestinė redakcija nuo 2009-01-01 iki 2010-07-09
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2872, i. k. 1001010ISTAIII-2025
  
@@ -85,9 +85,10 @@ Nr. IX-2380, 2004-07-15, Žin., 2004, Nr. 116-4328 (2004-07-27), i. k. 1041010IS
 
 
 
-5) juridinių ir fizinių asmenų, kurie verčiasi versline žūkle valstybinės reikšmės vandens telkiniuose, kitų valstybių ekonominėse zonose (pagal valstybių pasikeitimus kvotomis) bei tarptautiniuose vandenyse, lėšos, skirtos žuvų ištekliams atkurti ir saugoti; 
+5) asmenų, kurie užsiima žvejyba vidaus vandenyse, lėšos, skirtos žuvų ištekliams atkurti ir išsaugoti;
 Straipsnio punkto pakeitimai:
 Nr. X-268, 2005-06-23, Žin., 2005, Nr. 84-3107 (2005-07-12), i. k. 1051010ISTA000X-268
+Nr. X-1728, 2008-09-22, Žin., 2008, Nr. 117-4444 (2008-10-11), i. k. 1081010ISTA00X-1728
  
 
 
@@ -256,3 +257,8 @@ Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 3 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-268, 2005-06-23, Žin., 2005, Nr. 84-3107 (2005-07-12), i. k. 1051010ISTA000X-268
 Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 3 ir 4 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1728, 2008-09-22, Žin., 2008, Nr. 117-4444 (2008-10-11), i. k. 1081010ISTA00X-1728
+Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 3 straipsnio pakeitimo įstatymas
