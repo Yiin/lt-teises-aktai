@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
+Suvestinė redakcija nuo 2009-01-01 iki 2010-05-07
+ 
+Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
+ 
 LIETUVOS RESPUBLIKOS
 SOCIALINIŲ PASLAUGŲ
 ĮSTATYMAS
@@ -1448,7 +1452,9 @@ MOKĖJIMAS UŽ SOCIALINES PASLAUGAS
 
 
 
-3. Turto vertės normatyvui nustatyti taikomos kiekvienų metų vasario 1 d., gegužės 1 d., rugpjūčio 1 d. ir lapkričio 1 d. Komisijos privalomam registruoti turtui įvertinti tvirtinamos vidutinės nekilnojamojo turto rinkos kainos Lietuvos miestuose ir savivaldybių centruose bei rajonuose (be savivaldybių centrų) piniginei socialinei paramai mažas pajamas gaunančioms šeimoms gauti.
+3. Turto vertės normatyvui nustatyti taikomos kiekvienų metų vasario 1 d., gegužės 1 d., rugpjūčio 1 d. ir lapkričio 1 d. valstybės įmonės Registrų centro nustatomos ir „Valstybės žiniose“ skelbiamos vidutinės nekilnojamojo turto rinkos vertės Lietuvos miestuose ir savivaldybių centruose bei kitose savivaldybių teritorijose piniginei socialinei paramai nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims gauti.
+Straipsnio dalies pakeitimai:
+Nr. X-1573, 2008-06-05, Žin., 2008, Nr. 71-2702 (2008-06-21), i. k. 1081010ISTA00X-1573
  
 
 
@@ -1757,3 +1763,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1573, 2008-06-05, Žin., 2008, Nr. 71-2702 (2008-06-21), i. k. 1081010ISTA00X-1573
+Lietuvos Respublikos socialinių paslaugų įstatymo 32 straipsnio pakeitimo įstatymas
