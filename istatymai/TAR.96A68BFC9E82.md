@@ -366,18 +366,6 @@ nariais.
 8.
 Lėšos šiame straipsnyje numatytoms garantijoms skiriamos iš valstybės
 biudžeto.
- 
-9
-dalies redakcija iki 2009 m. sausio 1 d.:
-9. Vyriausybės
-nariai turi teisę į 28 kalendorinių dienų trukmės kasmetines minimaliąsias
-atostogas. Vadovaujantis Darbo kodekso nuostatomis, Vyriausybės nariams gali
-būti suteikiamos šios tikslinės atostogos: nėštumo ir gimdymo, tėvystės,
-mokymosi, valstybinėms ar visuomeninėms pareigoms atlikti, nemokamos. Nemokamos
-atostogos dėl dalyvavimo Seimo, Respublikos Prezidento, Europos Parlamento ar
-savivaldybių tarybų rinkimuose suteikiamos įstatymų nustatyta tvarka.
-9
-dalies redakcija nuo 2009 m. sausio 1 d.:
 9. Vyriausybės
 nariai turi teisę į 28 kalendorinių dienų trukmės kasmetines minimaliąsias
 atostogas. Vadovaujantis Darbo kodekso nuostatomis, Vyriausybės nariams gali
@@ -387,7 +375,6 @@ Vyriausybės nariai, išskyrus tuos, kurie yra ir Seimo nariai, turi teisę būt
 nuo tarnybinių pareigų, kad galėtų dalyvauti Seimo, Respublikos Prezidento,
 Europos Parlamento ar savivaldybių tarybų rinkimuose įstatymų
 nustatyta tvarka.
- 
 10.
 Vyriausybės nariai, kurie yra Seimo nariai, turi teisę į šio įstatymo
 nustatytas garantijas. Vyriausybės nariai negali turėti teisės aktuose
@@ -462,9 +449,9 @@ privalo atsakyti žodžiu ar raštu Seimo statuto nustatyta tvarka.
 Pirmininkas ir ministrai Seimo sesijos metu Seimo statuto nustatyta tvarka
 atsako į Seimo narių klausimus.
 3. Seimo
-komiteto, komisijos ar frakcijos kvietimu Seimo statuto nustatyta tvarka ministrai
-ar ministro įgaliotas valstybės tarnautojas privalo dalyvauti komiteto,
-komisijos ar frakcijos posėdyje ir pateikti paaiškinimus svarstomais
+komiteto, komisijos ar frakcijos kvietimu Seimo statuto nustatyta tvarka
+ministrai ar ministro įgaliotas valstybės tarnautojas privalo dalyvauti
+komiteto, komisijos ar frakcijos posėdyje ir pateikti paaiškinimus svarstomais
 klausimais.
 Straipsnio pakeitimai:
 Nr. VIII-1980,
@@ -541,8 +528,8 @@ prie ministerijų steigėjo funkcijų. Vyriausybė gali pavesti atitinkamai
 ministerijai vykdyti dalį Vyriausybės įstaigos steigėjo funkcijų;
 9) tvirtina
 ministerijų, Vyriausybės įstaigų, įstaigų prie ministerijų nuostatus ir
-Vyriausybės atstovo tarnybos veiklos nuostatus; tvirtinti įstaigų prie
-ministerijų nuostatus ir jų administracijos struktūrą
+Vyriausybės atstovo tarnybos veiklos nuostatus; tvirtinti įstaigų prie ministerijų
+nuostatus ir jų administracijos struktūrą
 Vyriausybė gali pavesti atitinkamam ministrui;
 10) kartu su
 Respublikos Prezidentu vykdo užsienio politiką; užmezga diplomatinius santykius
@@ -653,8 +640,8 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 1999 11 23, Žin., 1999, Nr. 101-2916 (1999 11 26)
 Nr. VIII-1980,
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
-Nr. IX-842, 2002-04-16,
-Žin., 2002, Nr. 41-1527 (2002-04-19)
+Nr. IX-842,
+2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
 Nr. X-1182,
 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
  
@@ -662,9 +649,9 @@ Nr. X-1182,
 Pirmininko pareigas ar pavaduojančio 
 Ministrą
 Pirmininką, įgaliojimai
-1. Ministras,
-einantis Ministro Pirmininko pareigas, turi tuos pačius įgaliojimus kaip ir
-Ministras Pirmininkas.
+1. Ministras, einantis
+Ministro Pirmininko pareigas, turi tuos pačius įgaliojimus kaip ir Ministras
+Pirmininkas.
 2. Ministras,
 pavaduojantis Ministrą Pirmininką, turi tuos pačius įgaliojimus kaip ir
 Ministras Pirmininkas, išskyrus šio įstatymo 9 straipsnio 2 ir 6 dalyse ir
@@ -687,10 +674,10 @@ Ministrą laikinai pavaduoti gali tik Ministro Pirmininko paskirtas kitas
 Vyriausybės narys. Pavaduojantis ministras neatlieka funkcijų, nurodytų šio
 straipsnio 3 dalies 6, 9, 13, 14 ir 15 punktuose. 
 3. Ministras:
-1) vadovauja ministerijai,
-sprendžia ministerijos kompetencijai priklausančius klausimus ir yra tiesiogiai
-atsakingas už Vyriausybės programos ir jos įgyvendinimo priemonių,
-priklausančių ministerijos kompetencijai, įgyvendinimą; 
+1) vadovauja
+ministerijai, sprendžia ministerijos kompetencijai priklausančius klausimus ir
+yra tiesiogiai atsakingas už Vyriausybės programos ir jos įgyvendinimo
+priemonių, priklausančių ministerijos kompetencijai, įgyvendinimą; 
 2) užtikrina
 įstatymų, Lietuvos Respublikos tarptautinių sutarčių, Respublikos Prezidento
 dekretų, Vyriausybės nutarimų, Vyriausybės sprendimų, Vyriausybės rezoliucijų,
@@ -704,19 +691,6 @@ Vyriausybės ir Ministro Pirmininko pavedimų vykdymą;
 pasirašo įsakymus, tikrina, kaip jie įgyvendinami; ministro priimami įsakymai
 registruojami Vyriausybės darbo reglamento nustatyta tvarka; prireikus keli
 ministrai gali priimti bendrus įsakymus;
- 
-6
-ir 7 punktų redakcija iki 2009 m. sausio 1 d.:
-6) tvirtina
-ministerijos strateginius veiklos planus, įstaigų prie ministerijos
-strateginius veiklos planus;
-7) teikia
-Vyriausybei ministerijos metines veiklos ataskaitas, kuriose informuoja, kaip
-vykdoma Vyriausybės programa, jos įgyvendinimo priemonės bei ministerijos ir
-įstaigų prie ministerijos strateginiai veiklos planai, ir Ministro Pirmininko
-reikalavimu atsiskaito už savo veiklą;
-6
-ir 7 punktų redakcija nuo 2009 m. sausio 1 d.:
 6) tvirtina
 ministerijos strateginius veiklos planus, įstaigų prie ministerijos
 strateginius ar metinius veiklos planus. Tvirtinti įstaigos prie ministerijos
@@ -725,9 +699,9 @@ vadovui;
 7) teikia
 Vyriausybei ministerijos metines veiklos ataskaitas, kuriose informuoja, kaip
 vykdoma Vyriausybės programa, jos įgyvendinimo priemonės, ministerijos
-strateginis veiklos planas ir įstaigų prie ministerijos strateginiai ar metiniai
-veiklos planai, ir Ministro Pirmininko reikalavimu atsiskaito už savo veiklą;
- 
+strateginis veiklos planas ir įstaigų prie ministerijos strateginiai ar
+metiniai veiklos planai, ir Ministro Pirmininko reikalavimu atsiskaito už savo
+veiklą;
 8) teikia
 Vyriausybei įstaigų prie ministerijos nuostatų projektus; Vyriausybės pavedimu
 tvirtina įstaigų prie ministerijos nuostatus ir jų administracijos struktūrą;
@@ -793,8 +767,8 @@ Vyriausybė gali sudaryti Vyriausybės komitetus ir Vyriausybės komisijas.
 2. Vyriausybės komitetai yra
 Vyriausybės patariamosios institucijos. Jų tikslas – teikti Vyriausybei
 siūlymus dėl jos veiklos prioritetų, politikos ir strategijos tam tikroje
-srityje pasirinkimo ir jų atitikties Valstybės ilgalaikės raidos strategijai, prireikus
-derinti ministrų pozicijas sprendžiant valstybės valdymo reikalus. 
+srityje pasirinkimo ir jų atitikties Valstybės ilgalaikės raidos strategijai,
+prireikus derinti ministrų pozicijas sprendžiant valstybės valdymo reikalus. 
 3.
 Vyriausybės komitetai sudaromi iš Vyriausybės narių, Vyriausybės kanclerio ir
 Ministro Pirmininko vyriausiojo patarėjo. Sudarydama Vyriausybės komitetus,
@@ -803,20 +777,19 @@ Vyriausybės komitetų darbo organizavimo tvarką nustato Vyriausybės darbo
 reglamentas.
 4. Vyriausybės komisijos sudaromos Vyriausybės pavestoms
 užduotims atlikti.
-5. Vyriausybės komisijos gali būti sudaromos iš valstybės ir
-savivaldybių institucijų ir įstaigų, asociacijų, mokslo ir studijų institucijų
-atstovų, nepriklausomų ekspertų, prireikus ir kitų asmenų. Savivaldybių
-institucijų ir įstaigų atstovai į Vyriausybės komisijas deleguojami
-savivaldybių tarybų, Seimo nariai – Seimo statuto, o Seimo kanceliarijos
-darbuotojai – teisės aktų nustatyta tvarka. Sudarydama Vyriausybės komisijas,
-Vyriausybė nustato jų užduotis, personalinę sudėtį. Vyriausybė gali pavesti
-Ministrui Primininkui, ministrui, Vyriausybės kancleriui ar Vyriausybės
-įstaigos vadovui patvirtinti Vyriausybės komisijos personalinę sudėtį.
-Vyriausybės komisijų darbo organizavimo tvarką nustato Vyriausybės darbo
-reglamentas.
+5. Vyriausybės komisijos gali būti sudaromos iš valstybės ir savivaldybių
+institucijų ir įstaigų, asociacijų, mokslo ir studijų institucijų atstovų,
+nepriklausomų ekspertų, prireikus ir kitų asmenų. Savivaldybių institucijų ir
+įstaigų atstovai į Vyriausybės komisijas deleguojami savivaldybių tarybų, Seimo
+nariai – Seimo statuto, o Seimo kanceliarijos darbuotojai – teisės aktų
+nustatyta tvarka. Sudarydama Vyriausybės komisijas, Vyriausybė nustato jų
+užduotis, personalinę sudėtį. Vyriausybė gali pavesti Ministrui Primininkui,
+ministrui, Vyriausybės kancleriui ar Vyriausybės įstaigos vadovui patvirtinti
+Vyriausybės komisijos personalinę sudėtį. Vyriausybės komisijų darbo
+organizavimo tvarką nustato Vyriausybės darbo reglamentas.
 Straipsnio pakeitimai:
-Nr. X-1182,
-2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
+Nr. X-1182, 2007-06-14,
+Žin., 2007, Nr. 72-2831 (2007-06-30)
 Nr.
 X-1726,
 2008-09-22, Žin., 2008, Nr. 117-4442 (2008-10-11)
@@ -855,29 +828,31 @@ straipsnis. Ministerijos
 Respublikoje yra šios ministerijos:
 1) Aplinkos
 ministerija;
-2) Finansų
+2) Energetikos
 ministerija;
-3) Krašto
+3) Finansų
+ministerija;
+4) Krašto
 apsaugos ministerija;
-4) Kultūros
+5) Kultūros
 ministerija;
-5) Socialinės
+6) Socialinės
 apsaugos ir darbo ministerija;
-6) Susisiekimo
+7) Susisiekimo
 ministerija;
-7) Sveikatos
+8) Sveikatos
 apsaugos ministerija;
-8) Švietimo ir
+9) Švietimo ir
 mokslo ministerija;
-9) Teisingumo
+10) Teisingumo
 ministerija;
-10) Ūkio
+11) Ūkio
 ministerija;
-11) Užsienio
+12) Užsienio
 reikalų ministerija;
-12) Vidaus
+13) Vidaus
 reikalų ministerija;
-13) Žemės ūkio
+14) Žemės ūkio
 ministerija.
 2. Ministerijas
 Vyriausybės siūlymu steigia ir panaikina Seimas, priimdamas įstatymą.
@@ -899,17 +874,6 @@ yra biudžetinė įstaiga, finansuojama iš valstybės biudžeto.
 nuostatus tvirtina Vyriausybė.
 9. Ministerija
 turi savo administraciją. Jai vadovauja ministerijos valstybės sekretorius.
- 
-10
-dalies redakcija iki 2009 m. sausio 1 d.:
-10. Ministerijos
-veikla organizuojama vadovaujantis ministro patvirtintais viešai paskelbtais
-strateginiais veiklos planais, rengiamais vadovaujantis Vyriausybės patvirtinta
-Strateginio planavimo metodika ir derinamais su Vyriausybės programa, Valstybės
-ilgalaikės raidos strategija, kitais strateginio planavimo dokumentais.
-Sutrumpintiems ministerijų strateginiams veiklos planams pritaria Vyriausybė.
-10
-dalies redakcija nuo 2009 m. sausio 1 d.:
 10. Ministerijos
 veikla organizuojama vadovaujantis ministro patvirtintais strateginiais veiklos
 planais, rengiamais vadovaujantis Vyriausybės patvirtinta Strateginio planavimo
@@ -917,7 +881,6 @@ metodika ir derinamais su Vyriausybės programa, Valstybės ilgalaikės raidos
 strategija, kitais strateginio planavimo dokumentais. Sutrumpintiems
 ministerijų strateginiams veiklos planams pritaria Vyriausybė. Ministerijų
 strateginiai veiklos planai skelbiami ministerijų interneto tinklalapiuose.
- 
 11. Krašto
 apsaugos sistemos veiklą reglamentuojantys įstatymai gali numatyti Krašto
 apsaugos ministerijos valdymo struktūros ypatumus.
@@ -928,41 +891,34 @@ Nr. VIII-2050,
 2000 10 17, Žin., 2000, Nr. 89-2755 (2000 10 25)
 Nr. IX-842,
 2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
-Nr. X-1182,
-2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
+Nr. X-1182, 2007-06-14,
+Žin., 2007, Nr. 72-2831 (2007-06-30)
 Nr.
 X-1467,
 2008-03-20, Žin., 2008, Nr. 38-1379 (2008-04-03)
 Nr.
 X-1726,
 2008-09-22, Žin., 2008, Nr. 117-4442 (2008-10-11)
+Nr.
+XI-129,
+2009-01-12, Žin., 2009, Nr. 10-351 (2009-01-27)
  
 30 straipsnis. Įstaigos prie
 ministerijos
 1. Prie ministerijos gali būti Vyriausybės steigiami
 departamentai, taip pat kontrolės ar apskaitos funkcijas vykdančios tarnybos,
 inspekcijos ir kitos įstaigos.
- 
-2
-dalies redakcija iki 2009 m. sausio 1 d.:
-2. Įstaigos prie
-ministerijos veikla organizuojama vadovaujantis atitinkamo ministro
-patvirtintais viešai paskelbtais strateginiais veiklos planais. Įstaigos prie
-ministerijos strateginiai veiklos planai rengiami vadovaujantis Vyriausybės
-patvirtinta Strateginio planavimo metodika.
-2
-dalies redakcija nuo 2009 m. sausio 1 d.:
 2. Įstaigos prie
 ministerijos, jei šios įstaigos vadovas yra valstybės biudžeto asignavimų
 valdytojas, veikla organizuojama vadovaujantis strateginiais veiklos planais.
 Įstaigos prie ministerijos, jei šios įstaigos vadovas nėra valstybės biudžeto
 asignavimų valdytojas, veikla organizuojama vadovaujantis metiniais veiklos
-planais. Įstaigos prie ministerijos strateginius ar metinius veiklos planus
-tvirtina atitinkamas ministras. Tvirtinti įstaigos prie ministerijos metinius
-veiklos planus ministras gali pavesti įstaigos prie ministerijos vadovui.
-Įstaigos prie ministerijos strateginiai ar metiniai veiklos planai rengiami
-vadovaujantis Vyriausybės patvirtinta Strateginio planavimo metodika ir
-skelbiami šios įstaigos arba atitinkamos ministerijos interneto tinklalapyje.
+planais. Įstaigos prie ministerijos strateginius ar metinius veiklos planus tvirtina
+atitinkamas ministras. Tvirtinti įstaigos prie ministerijos metinius veiklos
+planus ministras gali pavesti įstaigos prie ministerijos vadovui. Įstaigos prie
+ministerijos strateginiai ar metiniai veiklos planai rengiami vadovaujantis
+Vyriausybės patvirtinta Strateginio planavimo metodika ir skelbiami šios
+įstaigos arba atitinkamos ministerijos interneto tinklalapyje.
 Straipsnio pakeitimai:
 Nr. VIII-1980,
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
@@ -1004,8 +960,8 @@ konsultacijas, pasiūlymus, išvadas ir kitą informaciją.
 Straipsnio pakeitimai:
 Nr. VIII-1980,
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
-Nr. IX-842,
-2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
+Nr. IX-842, 2002-04-16,
+Žin., 2002, Nr. 41-1527 (2002-04-19)
 Nr. X-1182,
 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
  
@@ -1028,9 +984,8 @@ ir koordinuoja ministerijos strateginių veiklos planų rengimą ir jų
 įgyvendinimą;
 4) koordinuoja
 Ministro Pirmininko ir Vyriausybės pavedimų vykdymą, vadovaudamasis
-ministerijos strateginiais veiklos planais ir Vyriausybės programos
-įgyvendinimo priemonėmis, užtikrina ministerijos rengiamų sprendimų
-suderinamumą;
+ministerijos strateginiais veiklos planais ir Vyriausybės programos įgyvendinimo
+priemonėmis, užtikrina ministerijos rengiamų sprendimų suderinamumą;
 5) koordinuoja
 ir kontroliuoja, kaip rengiami ir derinami teisės aktų projektai;
 6) organizuoja
@@ -1121,27 +1076,15 @@ pavestus uždavinius.
 priima į pareigas ir atleidžia iš jų.
 6. Vyriausybės
 įstaigos vadovas priima įsakymus ir tikrina, kaip jie įgyvendinami.
- 
-7
-dalies redakcija iki 2009 m. sausio 1 d.:
-7. Vyriausybės
-įstaigos veikla organizuojama vadovaujantis Vyriausybės įstaigos vadovo patvirtintais
-viešai paskelbtais strateginiais veiklos planais, rengiamais vadovaujantis
-Vyriausybės patvirtinta Strateginio planavimo metodika ir derinamais su
-Vyriausybės programa, Valstybės ilgalaikės raidos strategija, kitais
-strateginio planavimo dokumentais. Sutrumpintiems Vyriausybės įstaigos
-strateginiams veiklos planams pritaria Vyriausybė.
-7
-dalies redakcija nuo 2009 m. sausio 1 d.:
 7. Vyriausybės
 įstaigos veikla organizuojama vadovaujantis Vyriausybės įstaigos vadovo
 patvirtintais strateginiais veiklos planais, rengiamais vadovaujantis
 Vyriausybės patvirtinta Strateginio planavimo metodika ir derinamais su
 Vyriausybės programa, Valstybės ilgalaikės raidos strategija, kitais
-strateginio planavimo dokumentais. Sutrumpintiems Vyriausybės įstaigos strateginiams
-veiklos planams pritaria Vyriausybė. Vyriausybės įstaigos strateginiai veiklos
-planai skelbiami Vyriausybės įstaigos interneto tinklalapyje.
- 
+strateginio planavimo dokumentais. Sutrumpintiems Vyriausybės įstaigos
+strateginiams veiklos planams pritaria Vyriausybė. Vyriausybės įstaigos
+strateginiai veiklos planai skelbiami Vyriausybės įstaigos interneto
+tinklalapyje.
 8. Vyriausybės
 įstaigos vadovas teikia Vyriausybei ataskaitas ir informaciją apie Vyriausybės
 įstaigos veiklą Vyriausybės nustatyta tvarka ir terminais.
@@ -1150,8 +1093,8 @@ Nr. VIII-1980,
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 Nr. IX-842,
 2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
-Nr. X-1182,
-2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
+Nr. X-1182, 2007-06-14,
+Žin., 2007, Nr. 72-2831 (2007-06-30)
 Nr.
 X-1726,
 2008-09-22, Žin., 2008, Nr. 117-4442 (2008-10-11)
@@ -1162,10 +1105,10 @@ vadovų priimamų teisės aktų teisėtumo priežiūra
 Vyriausybė
 turi teisę pripažinti netekusiais galios Vyriausybės darbo reglamento nustatyta
 tvarka ministrų, Vyriausybės įstaigų ir įstaigų prie ministerijų vadovų
-priimtus teisės aktus, jeigu šie prieštarauja Lietuvos Respublikos Konstitucijai,
-Lietuvos Respublikos tarptautinėms sutartims, įstatymams ir kitiems Seimo
-priimtiems teisės aktams, Respublikos Prezidento dekretams, Vyriausybės
-nutarimams ar Ministro Pirmininko potvarkiams.
+priimtus teisės aktus, jeigu šie prieštarauja Lietuvos Respublikos
+Konstitucijai, Lietuvos Respublikos tarptautinėms sutartims, įstatymams ir
+kitiems Seimo priimtiems teisės aktams, Respublikos Prezidento dekretams,
+Vyriausybės nutarimams ar Ministro Pirmininko potvarkiams.
 Straipsnio pakeitimai:
 Nr. VIII-1980,
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
@@ -1181,10 +1124,10 @@ Vyriausybė valdymą apskrityje – Lietuvos Respublikos teritorijos aukštesnia
 administraciniame vienete – organizuoja per apskrities viršininką, ministerijas
 ir Vyriausybės įstaigas.
 2.
-Vyriausybė nustato apskrities viršininko administracijos tipinę struktūrą,
-tvirtina jos tipinius nuostatus ir nustato didžiausią leistiną valstybės
-tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo
-užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių skaičių.
+Vyriausybė nustato apskrities viršininko administracijos tipinę struktūrą, tvirtina
+jos tipinius nuostatus ir nustato didžiausią leistiną valstybės tarnautojų ir
+darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš
+valstybės biudžeto ir valstybės pinigų fondų, pareigybių skaičių.
 3.
 Ar savivaldybės laikosi Lietuvos Respublikos Konstitucijos ir įstatymų, ar
 vykdo Vyriausybės nutarimus, prižiūri Vyriausybės atstovai.
@@ -1203,8 +1146,8 @@ kompetenciją nustato įstatymai ir kiti teisės aktai.
 Straipsnio pakeitimai:
 Nr. VIII-1980,
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
-Nr. X-1182, 2007-06-14,
-Žin., 2007, Nr. 72-2831 (2007-06-30)
+Nr. X-1182,
+2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
  
 Devintasis skirsnis
 VYRIAUSYBĖS
@@ -1220,9 +1163,8 @@ straipsnis. Vyriausybės posėdžiai ir Vyriausybės pasitarimai
 1. Vyriausybė valstybės valdymo reikalus sprendžia
 posėdžiuose visų Vyriausybės narių balsų dauguma priimdama nutarimus.
 2. Vyriausybės
-posėdžiuose gali dalyvauti asmenys, kuriems tokią teisę numato Lietuvos
-Respublikos Konstitucija, kiti įstatymai ir Vyriausybės darbo
-reglamentas.
+posėdžiuose gali dalyvauti asmenys, kuriems tokią teisę numato Lietuvos Respublikos
+Konstitucija, kiti įstatymai ir Vyriausybės darbo reglamentas.
 3. Į Vyriausybės
 posėdžius gali būti kviečiami ir kiti asmenys.
 4. Svarbiausi
@@ -1231,10 +1173,10 @@ pasitarimuose ir Vyriausybės komitetuose. Vyriausybės pasitarimuose taip pat
 gali būti svarstomos Vyriausybei pateiktos ataskaitos, aptariamos Vyriausybės
 komisijų, Ministro Pirmininko sudarytų darbo grupių pateiktos išvados,
 pasiūlymai ir kita Vyriausybei pateikta informacija.
-5. Vyriausybė
-Lietuvos Respublikos pozicijas dėl pasiūlymų priimti Europos Sąjungos
-teisės aktus ir dėl kitų Europos Sąjungos dokumentų prireikus svarsto
-Vyriausybės pasitarimuose.
+5. Vyriausybė Lietuvos
+Respublikos pozicijas dėl pasiūlymų priimti Europos Sąjungos teisės
+aktus ir dėl kitų Europos Sąjungos dokumentų prireikus svarsto Vyriausybės
+pasitarimuose.
 Straipsnio pakeitimai:
 Nr. VIII-1980,
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
@@ -1323,11 +1265,11 @@ Nr. X-1182,
 straipsnis. Vyriausybės nutarimai
 1. Vyriausybės nutarimai priimami Vyriausybės posėdžiuose visų Vyriausybės narių balsų dauguma.
 2. Vyriausybės
-nutarimus pasirašo Ministras Pirmininkas ir atitinkamos valdymo srities
-ministras, nepaisant to, kaip jis balsavo posėdžio metu. Tais atvejais, kai
-nutarimas apima kelias valdymo sritis, nutarimą pasirašo Ministras Pirmininkas
-ir ministras, vadovaujantis nutarimo projektą pateikusiai ministerijai ar
-vizavęs nutarimo projektą šio įstatymo 38 straipsnio 1 dalyje nustatyta tvarka.
+nutarimus pasirašo Ministras Pirmininkas ir atitinkamos valdymo srities ministras,
+nepaisant to, kaip jis balsavo posėdžio metu. Tais atvejais, kai nutarimas
+apima kelias valdymo sritis, nutarimą pasirašo Ministras Pirmininkas ir
+ministras, vadovaujantis nutarimo projektą pateikusiai ministerijai ar vizavęs
+nutarimo projektą šio įstatymo 38 straipsnio 1 dalyje nustatyta tvarka.
 3. Vyriausybės
 nutarimus, kuriais keičiami, pildomi ar pripažįstami netekusiais galios
 anksčiau priimti nutarimai, pasirašo Ministras Pirmininkas ir tos valdymo
@@ -1389,9 +1331,8 @@ rezoliucijomis.
 2. Ministro
 Pirmininko potvarkiai įsigalioja jų pasirašymo dieną, jeigu pačiuose
 potvarkiuose nenustatyta vėlesnė jų įsigaliojimo data. Ministro Pirmininko
-potvarkiai, paskelbti „Valstybės žiniose“, įsigalioja kitą dieną po jų
-paskelbimo, jeigu pačiuose potvarkiuose nenustatyta vėlesnė jų įsigaliojimo
-data.
+potvarkiai, paskelbti „Valstybės žiniose“, įsigalioja kitą dieną po jų paskelbimo,
+jeigu pačiuose potvarkiuose nenustatyta vėlesnė jų įsigaliojimo data.
 Straipsnio pakeitimai:
 Nr.
 X-500,
@@ -1528,12 +1469,12 @@ Nr. X-1182,
  
 46
 straipsnis. Vyriausybės dokumentų saugojimo tvarka 
-1. Vyriausybės kanceliarijoje saugomi Lietuvos
-Respublikos įstatymai, Seimo nutarimai, Respublikos Prezidento dekretai,
-Konstitucinio Teismo nutarimai, sprendimai ir išvados, Vyriausybės nutarimų,
-Vyriausybės sprendimų, Vyriausybės rezoliucijų ir Ministro Pirmininko potvarkių
-projektai ir originalai, taip pat Vyriausybės posėdžių ir Vyriausybės
-pasitarimų protokolai.
+1. Vyriausybės kanceliarijoje saugomi Lietuvos Respublikos
+įstatymai, Seimo nutarimai, Respublikos Prezidento dekretai, Konstitucinio
+Teismo nutarimai, sprendimai ir išvados, Vyriausybės nutarimų, Vyriausybės
+sprendimų, Vyriausybės rezoliucijų ir Ministro Pirmininko potvarkių projektai
+ir originalai, taip pat Vyriausybės posėdžių ir Vyriausybės pasitarimų
+protokolai.
 2. Vyriausybės
 nutarimų, Vyriausybės sprendimų, Vyriausybės rezoliucijų ir Ministro Pirmininko
 potvarkių vertimas į užsienio kalbas ir vertimo autentiškumas užtikrinamas
@@ -1658,8 +1599,8 @@ Nr.
 X-1726,
 2008-09-22, Žin., 2008, Nr. 117-4442 (2008-10-11)
  
-Skelbiu šį Lietuvos
-Respublikos Seimo priimtą įstatymą. 
+Skelbiu šį
+Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
 RESPUBLIKOS
@@ -1704,11 +1645,10 @@ NR.
 VIII-36,
 96.12.12, Žin., 1996, NR.122-2864 (96.12.18)
 LIETUVOS
-RESPUBLIKOS EUROPOS REIKALŲ MINISTERIJOS, ŪKIO MINISTERIJOS, ŽEMĖS IR MIŠKŲ
-ŪKIO MINISTERIJOS ĮSTEIGIMO, EKONOMIKOS MINISTERIJOS, ENERGETIKOS 
-MINISTERIJOS, MIŠKŲ ŪKIO MINISTERIJOS, PRAMONĖS  IR PREKYBOS  MINISTERIJOS,
-ŽEMĖS ŪKIO MINISTERIJOS  PANAIKINIMO  IR VYRIAUSYBĖS ĮSTATYMO 27 STRAIPSNIO
-PAKEITIMO
+RESPUBLIKOS EUROPOS REIKALŲ MINISTERIJOS, ŪKIO MINISTERIJOS, ŽEMĖS IR MIŠKŲ ŪKIO
+MINISTERIJOS ĮSTEIGIMO, EKONOMIKOS MINISTERIJOS, ENERGETIKOS  MINISTERIJOS,
+MIŠKŲ ŪKIO MINISTERIJOS, PRAMONĖS  IR PREKYBOS  MINISTERIJOS, ŽEMĖS ŪKIO
+MINISTERIJOS  PANAIKINIMO  IR VYRIAUSYBĖS ĮSTATYMO 27 STRAIPSNIO PAKEITIMO
  
 5.
 Lietuvos
@@ -1831,8 +1771,8 @@ VYRIAUSYBĖS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-2576, 2004-11-11,
-Žin., 2004, Nr. 171-6322 (2004-11-26)
+IX-2576,
+2004-11-11, Žin., 2004, Nr. 171-6322 (2004-11-26)
 VYRIAUSYBĖS
 ĮSTATYMO 37 STRAIPSNIO PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 41(1)
 STRAIPSNIU BEI VIENUOLIKTUOJU SKIRSNIU ĮSTATYMAS
@@ -1863,7 +1803,8 @@ VYRIAUSYBĖS
 ĮSTATYMO 9, 13, 14, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 31(1), 33, 34, 35,
 37, 38, 39, 40, 41, 42, 43, 44, 44(1), 45, 46 STRAIPSNIŲ IR KETVIRTOJO SKIRSNIO
 PAVADINIMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-Šis įstatymas, išskyrus 31 straipsnį, įsigalioja 2007 m. spalio 1 d.
+Šis įstatymas, išskyrus 31 straipsnį, įsigalioja 2007 m. spalio 1
+d.
  
 23.
 Lietuvos
@@ -1899,6 +1840,14 @@ Nr. XI-124,
 VYRIAUSYBĖS
 ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+27.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-129,
+2009-01-12, Žin., 2009, Nr. 10-351 (2009-01-27)
+VYRIAUSYBĖS
+ĮSTATYMO 29 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+ 
  
 ***
 Pabaiga ***
@@ -1920,6 +1869,6 @@ Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2008-12-31)
+Aušrinė Trapinskienė (2009-01-27)
                  
 autrap@lrs.lt
