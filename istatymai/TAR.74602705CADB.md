@@ -183,8 +183,8 @@ nafta;
 2) atsargos, skirtos jūroje plaukiojančių laivų
 bunkeriams ar esančios jūroje plaukiojančių laivų bunkeriuose;
 3) atsargos, skirtos tiesioginiam tranzitui;
-4) atsargos vamzdynuose, keliais ir geležinkeliais vežamose
-cisternose;
+4) atsargos vamzdynuose, keliais ir geležinkeliais
+vežamose cisternose;
 5) ginkluotųjų pajėgų bei joms skirtos atsargos;
 6) atsargos degalinėse;
 7) nepaimami likučiai rezervuaruose.
@@ -210,8 +210,8 @@ ATSARGŲ NAUDOJIMO REGLAMENTAVIMAS
 10
 straipsnis. Atsargų naudojimas
 1. Atsargos,
-nustatytos šio Įstatymo 6 straipsnio 1 dalyje, gali būti naudojamos tik ekstremalios
-energetikos padėties laikotarpiu.
+nustatytos šio Įstatymo 6 straipsnio 1 dalyje, gali būti naudojamos tik
+ekstremalios energetikos padėties laikotarpiu.
 Straipsnio pakeitimai:
 Nr. IX-2145,
 2004-04-20, Žin., 2004, Nr. 63-2247 (2004-04-28)
@@ -237,8 +237,8 @@ straipsnis. Informacijos teikimas
 1. Įmonės, kurios
 verčiasi energijos ar energijos išteklių, naftos ar naftos produktų gavyba,
 gamyba, importu, eksportu, prekyba, atgabenimu, išgabenimu, vartojimu, taip pat
-Statistikos departamentas prie Lietuvos Respublikos Vyriausybės, Valstybinė
-mokesčių inspekcija ir Lietuvos Respublikos muitinė privalo teikti informaciją
+Statistikos departamentas prie Lietuvos Respublikos Vyriausybės, Valstybinė mokesčių
+inspekcija ir Lietuvos Respublikos muitinė privalo teikti informaciją
 Vyriausybės įgaliotai institucijai šio Įstatymo nuostatoms įgyvendinti. Įmonių
 teikiamos informacijos apimtį bei jos teikimo tvarką nustato Vyriausybės
 įgaliota institucija ir Statistikos departamentas prie Lietuvos Respublikos
@@ -268,20 +268,22 @@ kaupiantiems ar tvarkantiems atsargas Vyriausybės ar jos įgaliotos institucijo
 nustatyta tvarka.
 3. Asmenys, pažeidę šį Įstatymą, atsako
 įstatymų nustatyta tvarka.
-4. Atsargų kaupimą, tvarkymą
-kontroliuoja Valstybinė energetikos inspekcija prie Ūkio ministerijos (toliau –
-Valstybinė energetikos inspekcija). Atsargos yra kontroliuojamos bet kuriuo
-metu, neatsižvelgiant į nuosavybę, laikymo vietą ar sąlygas. Valstybinės
-energetikos inspekcijos pareigūnai pagal savo kompetenciją turi teisę įeiti į
-ūkio subjekto teritoriją, patalpas, tikrinti atsargas, patikrinti reikiamus
-dokumentus ir gauti jų kopijas. Patikrinimas įforminamas aktu. Akto formą ir
-užpildymo tvarką nustato Valstybinė energetikos inspekcija. Patikrinime gali
-dalyvauti ir kitų valstybės institucijų atstovai.
+4. Atsargų kaupimą,
+tvarkymą kontroliuoja Valstybinė energetikos inspekcija prie Energetikos
+ministerijos (toliau – Valstybinė energetikos inspekcija). Atsargos yra
+kontroliuojamos bet kuriuo metu, neatsižvelgiant į nuosavybę, laikymo vietą ar
+sąlygas. Valstybinės energetikos inspekcijos pareigūnai pagal savo kompetenciją
+turi teisę įeiti į ūkio subjekto teritoriją, patalpas, tikrinti atsargas,
+patikrinti reikiamus dokumentus ir gauti jų kopijas. Patikrinimas įforminamas
+aktu. Akto formą ir užpildymo tvarką nustato Valstybinė energetikos inspekcija.
+Patikrinime gali dalyvauti ir kitų valstybės institucijų atstovai.
 Straipsnio
 pakeitimai:
 Nr.
-IX-1334,
-2003-01-28, Žin., 2003, Nr. 17-709 (2003-02-19)
+IX-1334, 2003-01-28,
+Žin., 2003, Nr. 17-709 (2003-02-19)
+Nr. XI-137,
+2009-01-12, Žin., 2009, Nr. 10-359 (2009-01-27)
  
 ŠEŠTASIS SKIRSNIS
 BAIGIAMOSIOS
@@ -301,7 +303,8 @@ Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
-RESPUBLIKOS PREZIDENTAS                                                         VALDAS
+ 
+RESPUBLIKOS PREZIDENTAS                                                         VALDAS
 ADAMKUS
  
  
@@ -346,8 +349,8 @@ Nr.
 IX-2145,
 2004-04-20, Žin., 2004, Nr. 63-2247 (2004-04-28)
 NAFTOS
-PRODUKTŲ IR NAFTOS VALSTYBĖS ATSARGŲ ĮSTATYMO 1, 2, 3, 4, 8, 10, 11, 12
-STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS
+PRODUKTŲ IR NAFTOS VALSTYBĖS ATSARGŲ ĮSTATYMO 1, 2, 3, 4, 8, 10, 11, 12 STRAIPSNIŲ
+PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS
  
 3.
 Lietuvos
@@ -359,11 +362,22 @@ PRODUKTŲ IR NAFTOS VALSTYBĖS ATSARGŲ ĮSTATYMO 4 IR 14 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
 Šis įstatymas įsigalioja 2009 m. sausio 1 d.
  
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-137,
+2009-01-12, Žin., 2009, Nr. 10-359 (2009-01-27)
+NAFTOS
+PRODUKTŲ IR NAFTOS VALSTYBĖS ATSARGŲ ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2009 m. vasario 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2009-01-06)
+Aušrinė Trapinskienė (2009-01-28)
                  
 autrap@lrs.lt
