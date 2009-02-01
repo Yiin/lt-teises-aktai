@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.23EF0CB2F264"
 
 # Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo įstatymas
 
-Suvestinė redakcija nuo 2007-12-29 iki 2009-01-31
+Suvestinė redakcija nuo 2009-02-01 iki 2009-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 64-2331; Žin. 2001, Nr.65-0, i. k. 1011010ISTA00IX-466
  
@@ -34,10 +34,11 @@ Vilnius
 
 2 straipsnis. Fondo steigėjas, valdytojas ir administratorius
 
-Fondo steigėja yra Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė), valdytoja – Lietuvos Respublikos ūkio ministerija, administratorės – valstybės įmonė Energetikos agentūra ir viešoji įstaiga Ignalinos atominės elektrinės regiono plėtros agentūra.
+Fondo steigėja yra Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė), valdytoja – Lietuvos Respublikos energetikos ministerija, administratorės – valstybės įmonė Energetikos agentūra ir viešoji įstaiga Ignalinos atominės elektrinės regiono plėtros agentūra.
 
 Straipsnio pakeitimai:
 Nr. X-1374, 2007-12-13, Žin., 2007, Nr. 140-5753 (2007-12-29), i. k. 1071010ISTA00X-1374
+Nr. XI-135, 2009-01-12, Žin., 2009, Nr. 10-357 (2009-01-27), i. k. 1091010ISTA00XI-135
  
 
 3 straipsnis. Fondo lėšos
@@ -88,12 +89,17 @@ Nr. X-1374, 2007-12-13, Žin., 2007, Nr. 140-5753 (2007-12-29), i. k. 1071010IST
 
 5. Fondo lėšos negali būti naudojamos kitiems tikslams, negu nustatyta šio įstatymo.
 
-6. Ūkio ministerija rengia atitinkamų metų Fondo lėšų sąmatos projektą ir teikia jį Vyriausybei. Šį projektą Vyriausybė kartu su atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektu teikia tvirtinti Seimui.
+6. Energetikos ministerija rengia atitinkamų metų Fondo lėšų sąmatos projektą ir teikia jį Vyriausybei. Šį projektą Vyriausybė kartu su atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektu teikia tvirtinti Seimui.
+Straipsnio dalies pakeitimai:
+Nr. XI-135, 2009-01-12, Žin., 2009, Nr. 10-357 (2009-01-27), i. k. 1091010ISTA00XI-135
  
 
 6 straipsnis. Fondo taryba
 
-1. Fondo taryba – kolegialus patariamasis organas. Fondo tarybą sudaro 7 nariai – po vieną iš Ūkio ministerijos, Finansų ministerijos, Socialinės apsaugos ir darbo ministerijos, Aplinkos ministerijos, Lietuvos Respublikos Ignalinos atominės elektrinės regiono plėtros tarybos, Valstybinės atominės energetikos saugos inspekcijos ir Ignalinos AE. Jų teikimu Fondo valdytojas tvirtina Fondo tarybos asmeninę sudėtį. Fondo tarybos darbui vadovauja Fondo tarybos pirmininkas, jis tvirtina Fondo tarybos darbo reglamentą.
+1. Fondo taryba – kolegialus patariamasis organas. Fondo tarybą sudaro 7 nariai – po vieną iš Energetikos ministerijos, Finansų ministerijos, Socialinės apsaugos ir darbo ministerijos, Aplinkos ministerijos, Lietuvos Respublikos Ignalinos atominės elektrinės regiono plėtros tarybos, Valstybinės atominės energetikos saugos inspekcijos ir Ignalinos AE. Jų teikimu Fondo valdytojas tvirtina Fondo tarybos asmeninę sudėtį. Fondo tarybos darbui vadovauja Fondo tarybos pirmininkas, jis tvirtina Fondo tarybos darbo reglamentą.
+Straipsnio dalies pakeitimai:
+Nr. XI-135, 2009-01-12, Žin., 2009, Nr. 10-357 (2009-01-27), i. k. 1091010ISTA00XI-135
+ 
 
 2. Fondo taryba rengia ir teikia Fondo valdytojui rekomendacijas dėl Fondo lėšų skyrimo Ignalinos AE eksploatavimo nutraukimo programos įgyvendinimo priemonių plano priemonėms finansuoti.
  
@@ -102,11 +108,20 @@ Nr. X-1374, 2007-12-13, Žin., 2007, Nr. 140-5753 (2007-12-29), i. k. 1071010IST
 
 1. Finansų ministerija tvarko Fondo lėšų įplaukų ir išmokų apskaitą Finansų ministerijos nustatyta tvarka.
 
-2. Ūkio ministerija Fondo lėšų apskaitą tvarko vadovaudamasi finansinę apskaitą ir atskaitomybę reglamentuojančiais teisės aktais.
+2. Energetikos ministerija Fondo lėšų apskaitą tvarko vadovaudamasi apskaitą ir atskaitomybę reglamentuojančiais teisės aktais. 
+Straipsnio dalies pakeitimai:
+Nr. XI-135, 2009-01-12, Žin., 2009, Nr. 10-357 (2009-01-27), i. k. 1091010ISTA00XI-135
+ 
 
-3. Finansų ministerija ir Fondo administratorius teikia Ūkio ministerijai informaciją, kurios reikia Fondo lėšų sąmatos įvykdymo ataskaitai rengti.
+3. Finansų ministerija ir Fondo administratorius teikia Energetikos ministerijai informaciją, kurios reikia Fondo ataskaitų rinkiniams, nustatytiems Viešojo sektoriaus atskaitomybės įstatyme ir kituose teisės aktuose, rengti. 
+Straipsnio dalies pakeitimai:
+Nr. XI-135, 2009-01-12, Žin., 2009, Nr. 10-357 (2009-01-27), i. k. 1091010ISTA00XI-135
+ 
 
-4. Ūkio ministerija rengia Fondo lėšų sąmatos įvykdymo ataskaitą ir teikia ją Vyriausybei. Šią ataskaitą Vyriausybė kartu su atitinkamų metų valstybės biudžeto įvykdymo ataskaita teikia tvirtinti Seimui.
+4. Energetikos ministerija rengia Fondo lėšų sąmatos vykdymo ataskaitą ir Viešojo sektoriaus atskaitomybės įstatyme nustatytą finansinių ataskaitų rinkinį. Kasmet, ne vėliau kaip iki balandžio 1 dienos, audito įmonė atlieka Fondo lėšų sąmatos vykdymo ataskaitos patikrinimą, pateikdama išvadą apie Fondo lėšų sąmatos vykdymo ataskaitos patikrinimą ir Fondo finansinių ataskaitų rinkinio auditą, parengdama auditoriaus išvadą. Energetikos ministerija Fondo lėšų sąmatos vykdymo ataskaitą kartu su išvada apie Fondo lėšų sąmatos vykdymo ataskaitos patikrinimą teikia Vyriausybei. Fondo lėšų sąmatos vykdymo ataskaitą Vyriausybė kartu su atitinkamų metų valstybės biudžeto vykdymo ataskaitų rinkiniu teikia tvirtinti Seimui.
+Straipsnio dalies pakeitimai:
+Nr. XI-135, 2009-01-12, Žin., 2009, Nr. 10-357 (2009-01-27), i. k. 1091010ISTA00XI-135
+ 
 
 5. Fondo lėšų naudojimo valstybinį auditą atlieka Valstybės kontrolė.
  
@@ -115,11 +130,12 @@ Nr. X-1374, 2007-12-13, Žin., 2007, Nr. 140-5753 (2007-12-29), i. k. 1071010IST
 
 Fondas likviduojamas Fondo steigėjo sprendimu užbaigus Ignalinos AE eksploatavimo nutraukimo darbus, palaidojus radioaktyviąsias atliekas ir užtikrinus uždarytų kapinynų institucinės priežiūros finansavimą.
  
- 
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+ 
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
 
  
  
@@ -135,4 +151,9 @@ Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės eksploa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1374, 2007-12-13, Žin., 2007, Nr. 140-5753 (2007-12-29), i. k. 1071010ISTA00X-1374
 Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo įstatymo 2 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-135, 2009-01-12, Žin., 2009, Nr. 10-357 (2009-01-27), i. k. 1091010ISTA00XI-135
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo įstatymo 2, 5, 6 ir 7 straipsnių pakeitimo įstatymas
 
