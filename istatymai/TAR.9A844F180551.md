@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9A844F180551"
 
 # Lietuvos Respublikos aplinkos oro apsaugos įstatymas
 
+Suvestinė redakcija nuo 2009-02-01 iki 2010-06-30
+ 
+Įstatymas paskelbtas: Žin. 1999, Nr. 98-2813, i. k. 0991010ISTAIII-1392
+ 
 LIETUVOS RESPUBLIKOS APLINKOS ORO APSAUGOS ĮSTATYMAS
  
 1999 m. lapkričio 4 d. Nr. VIII-1392
@@ -392,7 +396,10 @@ Sanitarinių apsaugos zonų nustatymo ir priežiūros tvarką tvirtina Vyriausyb
 13 straipsnis. Kuro reikalavimai
 
 
-1. Lietuvos Respublikoje naudoti galima tik tokį kurą ir tokius degalus, kurie atitinka Ūkio, Aplinkos ir Susisiekimo ministerijų nustatytus sudėties ir kokybės reikalavimus poveikio žmogaus sveikatai ir aplinkai vertinimo atžvilgiu.
+1. Lietuvos Respublikoje naudoti galima tik tokį kurą ir tokius degalus, kurie atitinka Energetikos, Aplinkos ir Susisiekimo ministerijų nustatytus sudėties ir kokybės reikalavimus poveikio žmogaus sveikatai ir aplinkai vertinimo atžvilgiu.
+Straipsnio dalies pakeitimai:
+Nr. XI-140, 2009-01-12, Žin., 2009, Nr. 10-362 (2009-01-27), i. k. 1091010ISTA00XI-140
+ 
 
 
 
@@ -689,3 +696,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-140, 2009-01-12, Žin., 2009, Nr. 10-362 (2009-01-27), i. k. 1091010ISTA00XI-140
+Lietuvos Respublikos aplinkos oro apsaugos įstatymo 13 straipsnio pakeitimo įstatymas
