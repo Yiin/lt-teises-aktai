@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DBF4203C51A1"
 
 # Lietuvos Respublikos nacionalinės teismų administracijos įstatymas
 
-Suvestinė redakcija nuo 2008-09-01 iki 2009-01-31
+Suvestinė redakcija nuo 2009-02-01 iki 2013-05-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 31-1130, i. k. 1021010ISTA00IX-787
  
@@ -275,13 +275,11 @@ Nacionalinė teismų administracija, įgyvendindama Teismų įstatyme nustatytus
 
 
 2. Nacionalinės teismų administracijos nuostatus, aprobavus Teisėjų tarybai, tvirtina steigėjas. Nacionalinės teismų administracijos struktūrą, didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių, vadovaudamasis įstatymų nustatyta tvarka ir suderinęs su steigėju, tvirtina Nacionalinės teismų administracijos direktorius.
-TAR pastaba. 4 straipsnio 2 dalis įsigalioja 2009-02-01.
 
 
 
 
 3. Nacionalinės teismų administracijos direktorių konkurso būdu 5 metų kadencijai į pareigas priima steigėjo funkcijas vykdančios institucijos vadovas Valstybės tarnybos įstatymo nustatyta tvarka.
-TAR pastaba. 4 straipsnio 3 dalis įsigalioja 2009-02-01.
 
 
 
