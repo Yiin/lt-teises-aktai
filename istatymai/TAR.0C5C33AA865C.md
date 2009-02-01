@@ -13,8 +13,8 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C"
 
 # Lietuvos Respublikos gamtinių dujų įstatymas
 
-Neoficialus įstatymo tekstas
 Įstatymas skelbtas: Žin., 2000, Nr. 89-2743
+Neoficialus įstatymo tekstas
  
 LIETUVOS RESPUBLIKOS
 GAMTINIŲ DUJŲ
@@ -210,11 +210,11 @@ ir įrenginiai dujoms iš magistralinio ar skirstomojo dujotiekio priimti ir
 saugiai panaudoti vartotojo reikmėms.
 42. Vertikaliosios
 integracijos įmonė – dujų įmonė ar grupė šių įmonių, kurių tarpusavio
-santykiai atitinka 1989 m. gruodžio 21 d. Tarybos reglamento (EEB) 
-Nr. 4064/89 dėl koncentracijų tarp įmonių kontrolės 3 straipsnio 3 dalyje
-pateiktą apibrėžimą, kai ta įmonė (grupė) atlieka bent vieną iš perdavimo,
-skirstymo, skystinimo ar laikymo funkcijų ir bent vieną iš gamtinių dujų
-gavybos ar tiekimo funkcijų.
+santykiai atitinka 1989 m. gruodžio 21 d. Tarybos reglamento (EEB) Nr. 4064/89
+dėl koncentracijų tarp įmonių kontrolės 3 straipsnio 3 dalyje pateiktą
+apibrėžimą, kai ta įmonė (grupė) atlieka bent vieną iš perdavimo, skirstymo,
+skystinimo ar laikymo funkcijų ir bent vieną iš gamtinių dujų gavybos ar
+tiekimo funkcijų.
 43. Vietinė
 bendrojo naudojimo sistema – asmeniui (asmenims) nuosavybės teise
 priklausanti arba jo (jų) valdoma ribotoje teritorijoje įrengta skirstymo
@@ -329,10 +329,9 @@ ekstremalios energetikos padėties atvejais;
 prijungimo darbų, įspėjusi vartotojus sutartyse nustatyta tvarka;
 5) kai nutraukiamas ar apribojamas dujų tiekimas į
 Lietuvos Respublikos teritoriją.
-7. Vyriausybė ar jos
-įgaliota institucija nustato dujų įmonių teikiamų paslaugų kokybės reikalavimus
-ir turi teisę nustatyti vartotojų teisių apsaugos priemonių įgyvendinimo
-taisykles.
+7. Vyriausybė ar jos įgaliota
+institucija nustato dujų įmonių teikiamų paslaugų kokybės reikalavimus ir turi
+teisę nustatyti vartotojų teisių apsaugos priemonių įgyvendinimo taisykles.
  
 8
 straipsnis. Ilgalaikis planavimas, sistemų plėtra ir naujų vartotojų
@@ -496,8 +495,8 @@ sistemos operatoriui ar sistemos naudotojui informaciją, kuri būtina norint
 saugiai ir efektyviai naudotis sistema, taip pat ir jungtine sistema;
 4) kiekvienais metais rengia
 metines veiklos ir saugumo užtikrinimo ataskaitas ir pateikia jas Komisijai bei
-Ūkio ministerijai. Sistemų operatorių metinių veiklos ir saugumo užtikrinimo
-ataskaitų turinį nustato Ūkio ministerija.
+Energetikos ministerijai. Sistemų operatorių metinių veiklos ir saugumo
+užtikrinimo ataskaitų turinį nustato Energetikos ministerija.
 2. Perdavimo ar skirstymo sistemų
 operatoriai, suderinę su Komisija, nustato sistemų balansavimo taisykles.
 Balansavimo taisyklėse nustatytos sistemų balansavimo sąlygos turi būti
@@ -505,6 +504,10 @@ objektyvios, skaidrios ir nediskriminacinės. Sistemų balansavimo taisyklių
 reikalavimai privalomi vartotojams ir sistemos naudotojams, išskyrus buitinius
 vartotojus. Sistemų balansavimo taisyklės skelbiamos „Valstybės žinių“ priede
 „Informaciniai pranešimai“.
+Straipsnio pakeitimai:
+Nr.
+XI-136,
+2009-01-12, Žin., 2009, Nr. 10-358 (2009-01-27)
  
 14
 straipsnis. Vietinė bendrojo naudojimo sistema
@@ -544,17 +547,21 @@ vykdomas buitiniams vartotojams ir vartotojams į tuos objektus, kurių energijo
 gamybos galia mažesnė kaip 5 MW ir kuriuose nėra kuro rezervinių atsargų.
 Laisvasis vartotojas turi teisę pasirinkti kitą nei paskirtąjį tiekimą
 vykdančią tiekimo įmonę.
-4. Paskirtoji tiekimo
-įmonė privalo sudaryti sutartis su sistemų operatoriais dėl dujų transportavimo
-ir yra atsakinga už dujų patiekimą iki vartotojų sistemų.
+4. Paskirtoji
+tiekimo įmonė privalo sudaryti sutartis su sistemų operatoriais dėl dujų
+transportavimo ir yra atsakinga už dujų patiekimą iki vartotojų sistemų.
 5. Tiekimo įmonė
-turi pateikti informaciją Komisijai ir Ūkio ministerijai apie pagrindines
-sudarytų dujų pirkimo–pardavimo sutarčių sąlygas dujų tiekimo patikimumo
-stebėsenai atlikti.
-6. Tiekimo įmonė turi parengti
-metines savo veiklos ir saugumo užtikrinimo ataskaitas ir pateikti jas
-Komisijai bei Ūkio ministerijai. Tiekimo įmonių metinių veiklos ir saugumo
-užtikrinimo ataskaitų turinį nustato Ūkio ministerija.
+turi pateikti informaciją Komisijai ir Energetikos ministerijai apie
+pagrindines sudarytų dujų pirkimo–pardavimo sutarčių sąlygas dujų tiekimo patikimumo stebėsenai atlikti.
+6. Tiekimo įmonė
+turi parengti metines savo veiklos ir saugumo užtikrinimo ataskaitas ir
+pateikti jas Komisijai bei Energetikos ministerijai. Tiekimo įmonių metinių
+veiklos ir saugumo užtikrinimo ataskaitų turinį nustato Energetikos
+ministerija.
+Straipsnio pakeitimai:
+Nr.
+XI-136,
+2009-01-12, Žin., 2009, Nr. 10-358 (2009-01-27)
  
 KETVIRTASIS SKIRSNIS
 APSKAITOS
@@ -578,8 +585,8 @@ dujų veikla.
 3. Atskirų veiklos rūšių
 buhalterinė apskaita tvarkoma taip, kaip ji turėtų būti tvarkoma, jei šių rūšių
 veikla verstųsi atskiros įmonės su joms priskirtu turtu. Tvarkant buhalterinę
-apskaitą, parengiamos kiekvienos veiklos rūšies buhalterinio balanso, pelno
-(nuostolio) ataskaitos. Dujų įmonės šias ataskaitas skelbia viešai.
+apskaitą, parengiamos kiekvienos veiklos rūšies buhalterinio balanso, pelno (nuostolio)
+ataskaitos. Dujų įmonės šias ataskaitas skelbia viešai.
 4. Valstybės institucijos,
 įstatymų nustatyta tvarka atlikdamos joms pavestas įmonių veiklos kontrolės
 funkcijas, turi teisę susipažinti su dujų įmonių buhalterinės apskaitos
@@ -587,9 +594,9 @@ dokumentais, tačiau privalo saugoti dujų įmonės pateiktą konfidencialią
 informaciją.
 5. Dujų įmonių ataskaitos turi
 būti patikrintos nepriklausomo audito, atkreipiant dėmesį į diskriminavimo ir
-kryžminio subsidijavimo aspektus. Auditorių išvados teikiamos Komisijai.
-Metinėje dujų įmonės finansinėje atskaitomybėje turi būti pateikta informacija
-apie 1 milijono litų ir didesnės apimties sandorius, sudarytus su susijusiomis
+kryžminio subsidijavimo aspektus. Auditorių išvados teikiamos Komisijai. Metinėje
+dujų įmonės finansinėje atskaitomybėje turi būti pateikta informacija apie 1
+milijono litų ir didesnės apimties sandorius, sudarytus su susijusiomis
 įmonėmis.
  
 PENKTASIS SKIRSNIS
@@ -616,13 +623,13 @@ straipsnis. Atsisakymas suteikti teisę naudotis sistema
 naudotis sistema, jeigu trūksta pajėgumo arba jeigu teisė naudotis sistema
 trukdytų jai vykdyti viešuosius interesus atitinkančius įpareigojimus, ar
 atsiranda didelių ekonominių ir finansinių sunkumų, susijusių su sudarytų
-sutarčių „imk arba mokėk“ vykdymu. Atsisakymo leisti naudotis sistema
-priežastys turi būti tinkamai pagrindžiamos. Atsisakymas, grindžiamas sutarčių
-„imk arba mokėk“ vykdymu, gali būti pripažintas tik gavus Komisijos pritarimą.
+sutarčių „imk arba mokėk“ vykdymu. Atsisakymo leisti naudotis sistema priežastys
+turi būti tinkamai pagrindžiamos. Atsisakymas, grindžiamas sutarčių „imk arba
+mokėk“ vykdymu, gali būti pripažintas tik gavus Komisijos pritarimą.
 2. Dujų įmonė, atsisakiusi
-patenkinti kitos dujų įmonės ar laisvojo vartotojo raštu pateiktą prašymą
-naudotis sistema dujoms transportuoti, apie šį savo sprendimą ir jo priežastis
-per 10 darbo dienų praneša Komisijai. 
+patenkinti kitos dujų įmonės ar laisvojo vartotojo raštu pateiktą prašymą naudotis
+sistema dujoms transportuoti, apie šį savo sprendimą ir jo priežastis per 10
+darbo dienų praneša Komisijai. 
 3. Komisija turi teisę įpareigoti
 dujų įmonę suteikti teisę pasinaudoti sistema.
 4. Dujų įmonė, atsisakiusi leisti
@@ -664,8 +671,7 @@ informaciją Europos Komisijai.
 straipsnis. Rinkos liberalizavimas
 1. Nuo šio įstatymo įsigaliojimo
 laisvieji vartotojai yra visi nebuitiniai vartotojai.
-2. Nuo 2007 m. liepos 1 d.
-laisvieji vartotojai yra visi vartotojai.
+2. Nuo 2007 m. liepos 1 d. laisvieji vartotojai yra visi vartotojai.
  
 ŠEŠTASIS SKIRSNIS
 DUJŲ SEKTORIAUS
@@ -721,9 +727,9 @@ projektai neatitinka šio įstatymo ir kitų teisės aktų reikalavimų.
 4. Komisija, atlikdama savo
 funkcijas, bendradarbiauja su valstybės institucijomis, atsakingomis už
 energetikos sektoriaus reguliavimą. Komisijos rengiami ir (ar) derinami
-teisės aktai, skirti Europos Sąjungos teisės aktams įgyvendinti, turi būti derinami
-su valstybės valdymo institucijomis, atsakingomis už atitinkamų Europos
-Sąjungos teisės aktų nuostatų perkėlimą į nacionalinę teisę.
+teisės aktai, skirti Europos Sąjungos teisės aktams įgyvendinti, turi būti
+derinami su valstybės valdymo institucijomis, atsakingomis už atitinkamų
+Europos Sąjungos teisės aktų nuostatų perkėlimą į nacionalinę teisę.
 5. Komisija nustato viršutines
 reguliuojamų kainų ribas arba konkrečias kainas.
 6. Komisija Europos Komisijai rengia dujų rinkos
@@ -793,26 +799,30 @@ vartotojams tiekiančioms šilumą iš dviejų ar daugiau šaltinių, nustatoma 
  
 24
 straipsnis. Saugumo užtikrinimas
-1. Dujų įmonės privalo būti
-nuolat pasirengusios veikti galimos ekstremalios energetikos padėties
-laikotarpiu ar galimo dujų tiekimo sutrikimo atveju ir planuoti prevencines
-priemones dujų tiekimo patikimumui bei techninei dujų sistemų saugai
-užtikrinti. Ekstremalios energetikos padėties laikotarpiu ar sumažėjus dujų
-tiekimui, kilus grėsmei sistemų saugumui, įvykus avarijai, iškilus grėsmei
-žmonių sveikatai ar saugumui, dujų įmonės privalo nedelsdamos imtis visų
-pagrįstų priemonių dujų tiekimo patikimumui bei techninei dujų sistemų saugai
-užtikrinti. Šios priemonės turi būti pagrįstos ir proporcingos. Dujų įmonės
-apie taikomas prevencines priemones praneša Ūkio ministerijai. Dujų tiekimo
-sutrikimo ar nutraukimo atveju vartotojams dujų tiekimą užtikrina tiekimo
-įmonė, kuri tiekė dujas prieš dujų tiekimo apribojimą ar nutraukimą.
-2. Dujų įmonės bei vartotojai,
-kurie turi didesnės kaip 5 MW galios energijos gamybos objektų, privalo
-planuoti būsimą dujų paklausą, dujų sistemų pajėgumą. Dujų įmonės privalo
-planuoti dujų sistemų techninės būklės lygį, priemones, kaip patenkinti
-paklausą, kai ji yra didžiausia, spręsti dujų trūkumo problemas, kylančias dėl
-vienos ar kelių tiekimo įmonių kaltės. Dujų įmonės ne vėliau kaip iki kiekvienų
-metų gegužės 1 dienos parengia saugumo užtikrinimo ataskaitas ir pateikia jas
-Ūkio ministerijai. 
+1. Dujų įmonės privalo
+būti nuolat pasirengusios veikti galimos ekstremalios energetikos padėties
+laikotarpiu ar galimo dujų tiekimo sutrikimo atveju ir
+planuoti prevencines priemones dujų tiekimo patikimumui bei
+techninei dujų sistemų saugai užtikrinti. Ekstremalios
+energetikos padėties laikotarpiu ar sumažėjus dujų tiekimui,
+kilus grėsmei sistemų saugumui, įvykus avarijai, iškilus grėsmei žmonių
+sveikatai ar saugumui, dujų įmonės privalo nedelsdamos imtis
+visų pagrįstų priemonių dujų tiekimo patikimumui bei techninei
+dujų sistemų saugai užtikrinti. Šios priemonės turi būti
+pagrįstos ir proporcingos. Dujų įmonės apie taikomas
+prevencines priemones praneša Energetikos ministerijai. Dujų
+tiekimo sutrikimo ar nutraukimo atveju vartotojams dujų
+tiekimą užtikrina tiekimo įmonė, kuri tiekė dujas prieš dujų
+tiekimo apribojimą ar nutraukimą.
+2. Dujų
+įmonės bei vartotojai, kurie turi didesnės kaip 5 MW galios energijos gamybos
+objektų, privalo planuoti būsimą dujų paklausą, dujų
+sistemų pajėgumą. Dujų įmonės privalo planuoti
+dujų sistemų techninės būklės lygį, priemones, kaip patenkinti paklausą,
+kai ji yra didžiausia, spręsti dujų trūkumo problemas,
+kylančias dėl vienos ar kelių tiekimo įmonių kaltės. Dujų
+įmonės ne vėliau kaip iki kiekvienų metų gegužės 1 dienos parengia saugumo
+užtikrinimo ataskaitas ir pateikia jas Energetikos ministerijai.
 3. Vyriausybė ar
 jos įgaliota institucija turi teisę nustatyti konkrečias saugumo užtikrinimo
 priemones, kurių vykdymas dujų įmonėms, vartotojams bei Komisijai yra
@@ -835,34 +845,40 @@ rūšį pasirenka patys vartotojai.
 vartotojų nenutrūkstamo dujų tiekimo išlaidos įtraukiamos į dujų tiekimo kainą,
 nustačius atskirą tiekimo kainos dedamąją. Nebuitiniai vartotojai pagal
 sutartis nenutrūkstamo dujų tiekimo išlaidas padengia patys savo lėšomis.
-7. Valstybinė
-energetikos inspekcija prie Ūkio ministerijos kontroliuoja pagrindines dujų
-tiekimo sutarčių sąlygas ir dujų įmonių veiksmus dėl dujų tiekimo patikimumo
-užtikrinimo tarp dujų įmonių ir galutinių vartotojų, naudojančių dujas
-energijai gaminti, kai ta energija parduodama ar naudojama visuomeniniams ar
-gyventojų poreikiams tenkinti. Dujų įmonės ir galutiniai vartotojai Valstybinei
-energetikos inspekcijai prie Ūkio ministerijos teikia informaciją apie dujų
-saugumo užtikrinimo priemones ir pagrindines dujų tiekimo sutarčių sąlygas.
-8. Ūkio ministerija teikia
-informaciją apie dujų saugumo užtikrinimo priemones, nurodytas šio straipsnio 1
-dalyje, Europos Komisijai ir Europos Sąjungos valstybėms narėms. Ūkio
-ministerija kiekvienais metais ne vėliau kaip iki liepos 31 dienos parengia ir
-paskelbia apibendrintą saugumo ataskaitą ir pateikia ją Europos Komisijai.
+7. Valstybinė energetikos
+inspekcija prie Energetikos ministerijos kontroliuoja pagrindines dujų
+tiekimo sutarčių sąlygas ir dujų įmonių veiksmus dėl dujų tiekimo patikimumo užtikrinimo tarp dujų
+įmonių ir galutinių vartotojų, naudojančių dujas energijai gaminti, kai ta
+energija parduodama ar naudojama visuomeniniams ar gyventojų poreikiams
+tenkinti. Dujų įmonės ir galutiniai vartotojai Valstybinei
+energetikos inspekcijai prie Energetikos ministerijos teikia informaciją apie dujų saugumo užtikrinimo priemones ir pagrindines dujų
+tiekimo sutarčių sąlygas.
+8. Energetikos
+ministerija teikia informaciją apie dujų saugumo užtikrinimo
+priemones, nurodytas šio straipsnio 1 dalyje, Europos Komisijai ir Europos
+Sąjungos valstybėms narėms. Energetikos ministerija kiekvienais metais ne
+vėliau kaip iki liepos 31 dienos parengia ir paskelbia apibendrintą saugumo
+ataskaitą ir pateikia ją Europos Komisijai.
+Straipsnio pakeitimai:
+Nr.
+XI-136,
+2009-01-12, Žin., 2009, Nr. 10-358 (2009-01-27)
  
 25
 straipsnis. Skundų nagrinėjimas
 1. Komisija išankstine neteismine
 skundų nagrinėjimo tvarka nagrinėja skundus dėl dujų įmonių veiklos ar
 neveikimo perduodant, skystinant, pakartotinai dujinant, skirstant, tiekiant,
-perkant ir laikant gamtines dujas, dėl teisės pasinaudoti sistema, vartotojų
-sistemos prijungimo tvarkos (metodikų, kainų), sistemų balansavimo, kainų
-taikymo, investicijų bei sutarčių sąlygų.
-2. Valstybinė energetikos
-inspekcija prie Ūkio ministerijos išankstine neteismine skundų nagrinėjimo
-tvarka nagrinėja skundus dėl įrenginių, apskaitos priemonių, sistemų įrengimo,
-eksploatavimo, avarijų ir sutrikimų, dujų apskaitos ir mokėjimo už sunaudotas
-dujas pažeidimų, vartotojų sistemų prijungimo sąlygų bei perdavimo, laikymo,
-skirstymo ar SGD sistemų techninės saugos ir patikimumo.
+perkant ir laikant gamtines dujas, dėl teisės pasinaudoti sistema, vartotojų sistemos
+prijungimo tvarkos (metodikų, kainų), sistemų balansavimo, kainų taikymo,
+investicijų bei sutarčių sąlygų.
+2. Valstybinė
+energetikos inspekcija prie Energetikos ministerijos išankstine neteismine
+skundų nagrinėjimo tvarka nagrinėja skundus dėl įrenginių, apskaitos priemonių,
+sistemų įrengimo, eksploatavimo, avarijų ir sutrikimų, dujų
+apskaitos ir mokėjimo už sunaudotas dujas pažeidimų, vartotojų sistemų
+prijungimo sąlygų bei perdavimo, laikymo, skirstymo ar SGD sistemų techninės
+saugos ir patikimumo.
 3. Nacionalinė vartotojų teisių
 apsaugos taryba prie Teisingumo ministerijos išankstine skundų nagrinėjimo
 neteismine tvarka nagrinėja buitinių vartotojų skundus dėl dujų
@@ -870,6 +886,10 @@ pirkimo–pardavimo ar paslaugų teikimo sutarčių nesąžiningų sąlygų taik
 4. Vyriausybė ar
 jos įgaliota institucija nustato šio straipsnio 1 ir 2 dalyse nustatytų skundų
 nagrinėjimo tvarką.
+Straipsnio pakeitimai:
+Nr.
+XI-136,
+2009-01-12, Žin., 2009, Nr. 10-358 (2009-01-27)
  
 26
 straipsnis. Atsakomybė
@@ -945,11 +965,21 @@ DUJŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja
 įstatymo redakcija nuo 2007 m. balandžio 19 d.
  
+6.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-136,
+2009-01-12, Žin., 2009, Nr. 10-358 (2009-01-27)
+GAMTINIŲ
+DUJŲ ĮSTATYMO 13, 16, 24 IR 25 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2009 m. vasario 1 d. 
+ 
 ***
 Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2007-04-19)
+Redagavo
+Aušrinė Trapinskienė (2009-01-28)
                  
 autrap@lrs.lt
