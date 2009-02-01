@@ -49,8 +49,8 @@ apmokėjimo sąlygos taikomi valstybės politikams:
 merų pavaduotojams;
 7) savivaldybių
 tarybų nariams.
-2. Neteko galios
-nuo 2008 m. lapkričio 15 d.
+2. (Neteko
+galios nuo 2008 m. lapkričio 15 d.)
 3. Šio įstatymo
 nustatyti darbo užmokesčio dydžiai ir apmokėjimo sąlygos taip pat taikomi tiems
 valstybės pareigūnams, kuriems netaikomas Lietuvos Respublikos valstybės
@@ -60,11 +60,8 @@ tarnybos įstatymas (toliau – valstybės pareigūnai):
 kontrolieriui ir jo pavaduotojams;
 3) Seimo
 kontrolieriams;
-4) Nacionalinės
-teismų administracijos direktoriui;
-4 punktas netenka galios nuo 2009 m.
-vasario 1 d.
- 
+4) (neteko
+galios nuo 2009 m. vasario 1 d.);
 5) lygių
 galimybių kontrolieriui;
 6) vaiko teisių
@@ -80,7 +77,8 @@ generalinį komisarą) bei pareigūnams;
 9) Seimo,
 Respublikos Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių
 (nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams.
-Straipsnio pakeitimai:
+Straipsnio
+pakeitimai:
 Nr. VIII-2057, 00.10.17, Žin., 2000,
 Nr.92-2887 (00.10.31)
 Nr. IX-312, 2001 05 08, Žin., 2001, Nr.
@@ -105,8 +103,8 @@ Nr.
 IX-1918,
 2003-12-18, Žin., 2003, Nr. 123-5589 (2003-12-30)
 Nr.
-X-789,
-2006-07-19, Žin., 2006, Nr. 87-3400 (2006-08-08)
+X-789, 2006-07-19,
+Žin., 2006, Nr. 87-3400 (2006-08-08)
 Nr. X-1688,
 2008-07-03, Žin., 2008, Nr. 81-3188 (2008-07-17)
 Nr.
@@ -189,12 +187,12 @@ valstybei metus nuo 1990 m. kovo 11 d., einant  pareigas, nurodytas Valstybės 
 dalies 1–4 punktuose (išskyrus savivaldybės tarybos narius, kurie nebuvo merais
 ir mero pavaduotojais). Į ištarnautus metus įskaitomi laikotarpiai, nurodyti
 minėto įstatymo 42 straipsnio 1 dalyje.
-2. Tarnybos stažo
-skaičiavimo tvarką nustato Vyriausybė.
-3. Priedą už
-ištarnautus valstybei metus sudaro 3 procentai valstybės politiko ar valstybės
-pareigūno pareiginės algos už kiekvienus trejus metus, tačiau priedo dydis
-neturi viršyti 30 procentų pareiginės algos.
+2. Tarnybos
+stažo skaičiavimo tvarką nustato Vyriausybė.
+3. Priedą už ištarnautus
+valstybei metus sudaro 3 procentai valstybės politiko ar valstybės pareigūno
+pareiginės algos už kiekvienus trejus metus, tačiau priedo dydis neturi viršyti
+30 procentų pareiginės algos.
 Straipsnio
 pakeitimai:
 Nr. VIII-2057, 00.10.17, Žin., 2000,
@@ -223,8 +221,8 @@ procentų dydžio;
 6) vyriausiajam
 valstybiniam justicijos patarėjui – 40 procentų dydžio.
 Įstatymas papildytas straipsniu:
-Nr. IX-1520,
-2003-04-22, Žin., 2003, Nr. 42-1920 (2003-05-01)
+Nr. IX-1520, 2003-04-22,
+Žin., 2003, Nr. 42-1920 (2003-05-01)
 Straipsnio
 pakeitimai:
 Nr.
@@ -256,8 +254,8 @@ Straipsnio
 pakeitimai:
 Nr. VIII-2057, 00.10.17, Žin., 2000,
 Nr.92-2887 (00.10.31)
-Nr. IX-231, 2001 03 27, Žin., 2001, Nr.
-29-918 (2001 04 04)
+Nr. IX-231, 2001 03 27, Žin., 2001, Nr. 29-918
+(2001 04 04)
 Lietuvos
 Respublikos Konstitucinis Teismas, Nutarimas
 2001-07-12, Žin.,
@@ -266,12 +264,12 @@ Nr. IX-667,
 2001-12-18, Žin., 2001, Nr. 111-4026 (2001-12-30)
 Nr. IX-841,
 2002-04-09, Žin., 2002, Nr. 43-1606 (2002-04-26)
-Nr. IX-1012,
-2002-07-02, Žin., 2002, Nr. 72-3018 (2002-07-17)
+Nr. IX-1012, 2002-07-02,
+Žin., 2002, Nr. 72-3018 (2002-07-17)
 Nr. IX-1240,
 2002-12-10, Žin., 2002, Nr. 123-5532 (2002-12-24)
-Nr. IX-1326,
-2003-01-28, Žin., 2003, Nr. 17-703 (2003-02-19)
+Nr. IX-1326, 2003-01-28,
+Žin., 2003, Nr. 17-703 (2003-02-19)
 Nr.
 X-1773,
 2008-11-06, Žin., 2008, Nr. 131-5021 (2008-11-15)
@@ -286,10 +284,10 @@ Nr.92-2887 (00.10.31)
  
 9
 straipsnis. Pasiūlymai Vyriausybei
-Lietuvos
-Respublikos Vyriausybė per du mėnesius nuo šio įstatymo paskelbimo „Valstybės
-žiniose“ parengia ir pateikia Seimui įstatymų, susijusių su šiuo įstatymu,
-pakeitimų ir papildymų įstatymų projektus.
+Lietuvos Respublikos
+Vyriausybė per du mėnesius nuo šio įstatymo paskelbimo „Valstybės žiniose“
+parengia ir pateikia Seimui įstatymų, susijusių su šiuo įstatymu, pakeitimų ir
+papildymų įstatymų projektus.
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
  
@@ -300,16 +298,13 @@ ADAMKUS
 
                                                                                                 Lietuvos
 Respublikos 
-                                                                                                2000
-m. rugpjūčio 29 d.
+                                                                                                2000 m. rugpjūčio 29 d.
                                                                                                 įstatymo
 Nr. VIII-1904
                                                                                                 priedėlis
  
 I.
 VALSTYBĖS POLITIKŲ PAREIGINĖS ALGOS
-I skirsnio redakcija iki 2009 m. sausio
-1 d.:
 (Baziniais dydžiais)
 
 
@@ -333,7 +328,7 @@ Pareiginės
 Seimo Pirmininkas 
 
 
-17
+25,8
 
 
 
@@ -355,7 +350,7 @@ Seimo pareigūnai:
 Pirmininko pirmasis pavaduotojas 
 
 
-14
+23,2
 
 
 
@@ -367,7 +362,7 @@ Pirmininko pavaduotojai, Seimo
   opozicijos lyderis 
 
 
-13
+22,4
 
 
 
@@ -378,7 +373,7 @@ Pirmininko pavaduotojai, Seimo
 Komitetų pirmininkai 
 
 
-12,2
+21,7
 
 
 
@@ -389,7 +384,7 @@ Komitetų pirmininkai
 Komitetų pirmininkų pavaduotojai 
 
 
-10,8
+20,5
 
 
 
@@ -401,7 +396,7 @@ Pakomitečių pirmininkai, nuolatinių
   komisijų pirmininkai 
 
 
-10,5
+20,2
 
 
 
@@ -413,7 +408,7 @@ Nuolatinių komisijų pirmininkų
   pavaduotojai 
 
 
-9,8
+19,6
 
 
 
@@ -424,7 +419,7 @@ Nuolatinių komisijų pirmininkų
 2.7.
 
 
-Frakcijų vadovai, kai frakcijos dydis
+Frakcijų vadovai, kai frakcijos dydis:
 
 
 Seniūnai
@@ -439,13 +434,13 @@ Seniūnų
 2.7.1.
 
 
-Nuo 7 iki 10 narių 
+nuo 7 iki 10 narių 
 
 
-10,2
+20,0
 
 
-9,8
+19,6
 
 
 
@@ -453,13 +448,13 @@ Nuo 7 iki 10 narių
 2.7.2.
 
 
-Nuo 11 iki 20 narių 
+nuo 11 iki 20 narių 
 
 
-10,5
+20,2
 
 
-10,1
+19,9
 
 
 
@@ -467,13 +462,13 @@ Nuo 11 iki 20 narių
 2.7.3.
 
 
-Nuo 21 iki 30 narių 
+nuo 21 iki 30 narių 
 
 
-11,1
+20,7
 
 
-10,4
+20,1
 
 
 
@@ -481,13 +476,13 @@ Nuo 21 iki 30 narių
 2.7.4.
 
 
-Nuo 31 iki 40 narių 
+nuo 31 iki 40 narių 
 
 
-11,9
+21,4
 
 
-11
+20,7
 
 
 
@@ -495,14 +490,17 @@ Nuo 31 iki 40 narių
 2.7.5.
 
 
-Daugiau kaip 40 narių 
+daugiau kaip 40 narių 
 
 
-12,5
+21,9
 
 
-11,6
+21,2
 
+
+
+ 
 
 
 
@@ -512,10 +510,7 @@ Daugiau kaip 40 narių
 Seimo nariai 
 
 
-9,5
-
-
- 
+19,4
 
 
 
@@ -524,9 +519,6 @@ Seimo nariai
 
 
 Vyriausybė:
-
-
- 
 
 
  
@@ -540,326 +532,9 @@ Vyriausybė:
 Ministras Pirmininkas
 
 
-17
-
-
- 
-
-
-
-
-4.2.
-
-
-Ministrai
-
-
-14
-
-
- 
-
-
-
- 
-
-
-
-5.
-
-
-Savivaldybių merai ir
-merų pavaduotojai
-
-
-Savivaldybės teritorijoje
-  gyvena
-
-
-
-
-per 100 tūkst. gyventojų
-
-
-iki 100 tūkst. gyventojų
-
-
-
-
-5.1.
-
-
-Merai
-
-
-12,2
-
-
-10,5
-
-
-
-
-5.2.
-
-
-Merų pavaduotojai
-
-
-10,5
-
-
-              
-  8,8          
-
-
-
- 
-I skirsnio redakcija nuo 2009 m. sausio
-1 d.:
-(Baziniais dydžiais)
-
-
-
-Eil.
-  Nr. 
-
-
-Pareigų pavadinimas
-
-
-Pareiginės algos koeficientas
-
-
-
-
-1.
-
-
-Seimo
-  Pirmininkas 
-
-
-30,3
-
-
-
-
-2.
-
-
-Seimo
-  pareigūnai:
-
-
- 
-
-
-
-
-2.1.
-
-
-Pirmininko
-  pirmasis pavaduotojas 
-
-
-27,3
-
-
-
-
-2.2.
-
-
-Pirmininko
-  pavaduotojai, Seimo opozicijos lyderis 
-
-
-26,3
-
-
-
-
-2.3.
-
-
-Komitetų
-  pirmininkai 
-
-
-25,5
-
-
-
-
-2.4.
-
-
-Komitetų
-  pirmininkų pavaduotojai 
-
-
-24,1
-
-
-
-
-2.5.
-
-
-Pakomitečių
-  pirmininkai, nuolatinių komisijų pirmininkai 
-
-
-23,8
-
-
-
-
-2.6.
-
-
-Nuolatinių
-  komisijų pirmininkų pavaduotojai 
-
-
-23,1
-
-
-
- 
-
-
-
-2.7.
-
-
-Frakcijų
-  vadovai, kai frakcijos dydis:
-
-
-Seniūnai
-
-
-Seniūnų pavaduotojai
-
-
-
-
-2.7.1.
-
-
-nuo
-  7 iki 10 narių 
-
-
-23,5
-
-
-23,1
-
-
-
-
-2.7.2.
-
-
-nuo
-  11 iki 20 narių 
-
-
-23,8
-
-
-23,4
-
-
-
-
-2.7.3.
-
-
-nuo
-  21 iki 30 narių 
-
-
-24,4
-
-
-23,7
-
-
-
-
-2.7.4.
-
-
-nuo
-  31 iki 40 narių 
-
-
-25,2
-
-
-24,3
-
-
-
-
-2.7.5.
-
-
-daugiau
-  kaip 40 narių 
-
-
 25,8
 
 
-24,9
-
-
-
-
- 
-
-
-
-
-3.
-
-
-Seimo
-  nariai 
-
-
-22,8
-
-
-
-
-4.
-
-
-Vyriausybė:
-
-
- 
-
-
-
-
-4.1.
-
-
-Ministras
-  Pirmininkas
-
-
-30,3
-
-
 
 
 4.2.
@@ -868,10 +543,13 @@ Ministras
 Ministrai
 
 
-28
+23,8
 
 
 
+Pastaba. I skirsnio 1–4.2 eilučių redakcija
+galioja iki 2009 m. gruodžio 31 d.
+ 
  
 
 
@@ -941,6 +619,8 @@ Nr. X-128, 2005-02-15,
 Nr.
 X-1816,
 2008-11-13, Žin., 2008, Nr. 135-5245 (2008-11-25)
+Nr. XI-157,
+2009-01-20, Žin., 2009, Nr. 11-398 (2009-01-29)
  
  
 II. Teisėjų pareiginės algos
@@ -1432,13 +1112,8 @@ Seimo kontrolieriai:
 
 
 įstaigos vadovas
-2.1 punkto redakcija nuo 2009 m.
-  sausio 1 d.:
-įstaigos vadovas
 
 
-13 
- 
 15,5
 
 
@@ -1448,13 +1123,8 @@ Seimo kontrolieriai:
 
 
 Seimo kontrolieriai
-2.2 punkto redakcija nuo 2009 m.
-  sausio 1 d.:
-Seimo kontrolieriai
 
 
-12
- 
 14,5
 
 
@@ -1463,13 +1133,10 @@ Seimo kontrolieriai
 3. 
 
 
-Nacionalinės teismų administracijos
-  direktorius
-3 punktas netenka galios nuo 2009 m.
-  vasario 1 d.
+(neteko galios nuo 2009 m. vasario 1 d.)
 
 
-12
+ 
 
 
 
@@ -1514,7 +1181,7 @@ Seimo, Seimo Pirmininko, Respublikos
   Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
   tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Valstybinės
   lošimų priežiūros komisijos, Vertybinių popierių komisijos, Vyriausiosios
-  rinkimų  komisijos ir Vyriausiosios tarnybinės etikos komisijos:
+  rinkimų komisijos ir Vyriausiosios tarnybinės etikos komisijos:
 
 
  
@@ -1729,8 +1396,7 @@ Lietuvos
 Pastaba. Komisijų ir
 tarybų, kurių posėdžiai vyksta periodiškai, nariams pareiginės algos dydis
 apskaičiuojamas proporcingai dirbtam laikui.
-IV skirsnio
-pakeitimai:
+IV skirsnio pakeitimai:
 Nr. VIII-2057,
 00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
 Nr. IX-312, 2001
@@ -1754,8 +1420,8 @@ Nr. X-1253,
 2007-07-03, Žin., 2007, Nr. 80-3223 (2007-07-19)
 Nr. X-1385,
 2007-12-18, Žin., 2007, Nr. 140-5757 (2007-12-29)
-Nr. X-1688, 2008-07-03,
-Žin., 2008, Nr. 81-3188 (2008-07-17)
+Nr. X-1688,
+2008-07-03, Žin., 2008, Nr. 81-3188 (2008-07-17)
 Nr.
 X-1773,
 2008-11-06, Žin., 2008, Nr. 131-5021 (2008-11-15)
@@ -1787,8 +1453,8 @@ VALSTYBĖS POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO
 APMOKĖJIMO ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 3.
-Lietuvos Respublikos
-Seimas, Įstatymas
+Lietuvos
+Respublikos Seimas, Įstatymas
 Nr. IX-312, 2001 05 08, Žin., 2001, Nr.
 43-1492 (2001 05 23)
 VALSTYBĖS POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO
@@ -1971,14 +1637,14 @@ VALSTYBĖS
 POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 3, 5 IR 5(1)
 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Įstatymas
-įsigalioja nuo 2007 m. rugpūčio 1 d.
+įsigalioja nuo 2007 m. rugpjūčio 1 d.
  
 21.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-1385, 2007-12-18,
-Žin., 2007, Nr. 140-5757 (2007-12-29)
+X-1385,
+2007-12-18, Žin., 2007, Nr. 140-5757 (2007-12-29)
 VALSTYBĖS
 POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO IV
 SKIRSNIO PAKEITIMO ĮSTATYMAS
@@ -1995,8 +1661,8 @@ IR ĮSTATYMO PRIEDĖLIO IV SKIRSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2009 m. vasario 1 d.
 Iki šio įstatymo įsigaliojimo paskirtam
 Nacionalinės teismų administracijos direktoriui iki kadencijos, kuriai jis buvo
-paskirtas, pabaigos taikomos Lietuvos Respublikos valstybės
-politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo nuostatos.
+paskirtas, pabaigos taikomos Lietuvos Respublikos valstybės politikų,
+teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo nuostatos.
  
 23.
 Lietuvos
@@ -2030,7 +1696,21 @@ XI-82,
 VALSTYBĖS
 POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 4 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
+ 
+26.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-157,
+2009-01-20, Žin., 2009, Nr. 11-398 (2009-01-29)
+VALSTYBĖS
+POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO I SKIRSNIO
+PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja 2009 m. vasario 1 d.
+Šis įstatymas galioja iki 2009 m. gruodžio 31 d
+ 
 ***Pabaiga***
+ 
  
 Konstitucinio
 Teismo nutarimai:
@@ -2047,20 +1727,19 @@ STRAIPSNIO 1 IR 3 DALIŲ, 7 STRAIPSNIO 3 DALIES 1 PUNKTO, 4, 5 IR 6 DALIŲ, ŠIO
 BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO 6
 PRIEDĖLIO, LIETUVOS RESPUBLIKOS 2000 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ
 BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO PAKEITIMO ĮSTATYMO 9
-STRAIPSNIO, LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1991 M. LAPKRIČIO 29 D. NUTARIMO
-NR. 499 "DĖL VALSTYBINĖS VALDŽIOS, VALSTYBĖS VALDYMO IR TEISĖSAUGOS ORGANŲ
-VADOVŲ BEI KITŲ PAREIGŪNŲ LAIKINOS BANDOMOSIOS DARBO APMOKĖJIMO TVARKOS",
-LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 24 D. NUTARIMO NR. 666 "DĖL
-LIETUVOS RESPUBLIKOS TEISMŲ TEISĖJŲ, PROKURATŪROS SISTEMOS IR LIETUVOS
-RESPUBLIKOS VALSTYBĖS SAUGUMO DEPARTAMENTO PAREIGŪNŲ BEI KITŲ DARBUOTOJŲ DARBO
-APMOKĖJIMO", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1999 M. GRUODŽIO 28 D.
-NUTARIMO NR. 1494 "DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO
-30 D. NUTARIMO NR. 689 "DĖL TEISĖTVARKOS, TEISĖSAUGOS IR KONTROLĖS
-INSTITUCIJŲ VADOVAUJANČIŲJŲ PAREIGŪNŲ IR VALDININKŲ DARBO APMOKĖJIMO"
-DALINIO PAKEITIMO" ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+STRAIPSNIO, LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1991 M. LAPKRIČIO 29 D. NUTARIMO NR. 499 "DĖL VALSTYBINĖS VALDŽIOS, VALSTYBĖS VALDYMO IR
+TEISĖSAUGOS ORGANŲ VADOVŲ BEI KITŲ PAREIGŪNŲ LAIKINOS BANDOMOSIOS DARBO
+APMOKĖJIMO TVARKOS", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 24 D. NUTARIMO NR. 666 "DĖL LIETUVOS RESPUBLIKOS TEISMŲ TEISĖJŲ, PROKURATŪROS
+SISTEMOS IR LIETUVOS RESPUBLIKOS VALSTYBĖS SAUGUMO DEPARTAMENTO PAREIGŪNŲ BEI
+KITŲ DARBUOTOJŲ DARBO APMOKĖJIMO", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1999 M. GRUODŽIO 28 D. NUTARIMO NR. 1494 "DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 30 D. NUTARIMO NR. 689 "DĖL TEISĖTVARKOS, TEISĖSAUGOS IR KONTROLĖS INSTITUCIJŲ
+VADOVAUJANČIŲJŲ PAREIGŪNŲ IR VALDININKŲ DARBO APMOKĖJIMO" DALINIO
+PAKEITIMO" ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+ 
 ***
 Pabaiga ***
+ 
+ 
 Redagavo
-Aušrinė Trapinskienė (2008-12-30)
+Aušrinė Trapinskienė (2009-01-29)
                  
 autrap@lrs.lt
