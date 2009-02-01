@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2004-07-10 iki 2009-01-31
+Suvestinė redakcija nuo 2009-02-01 iki 2009-05-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -1491,7 +1491,9 @@ Elektros energijos gamintoju gali tapti kiekvienas asmuo, gavęs šio įstatymo 
 
 
 
-2. Rinkos operatorius yra atsakingas už balansavimo elektros energijos pirkimo–pardavimo kainos, susidariusios pasibaigus prekybos laikotarpiui, viešą skelbimą pagal Prekybos elektros energija taisykles ir (ar) ūkio ministro patvirtintas Prekybos elektros energija aukcione taisykles, taip pat už rinkos operatoriaus prekiaujamos elektros energijos atsiskaitymo procedūros organizavimą.
+2. Rinkos operatorius yra atsakingas už balansavimo elektros energijos pirkimo-pardavimo kainos, susidariusios pasibaigus prekybos laikotarpiui, viešą skelbimą pagal Prekybos elektros energija taisykles ir (ar) energetikos ministro patvirtintas Prekybos elektros energija aukcione taisykles, taip pat už rinkos operatoriaus prekiaujamos elektros energijos atsiskaitymo procedūros organizavimą. 
+Straipsnio dalies pakeitimai:
+Nr. XI-131, 2009-01-12, Žin., 2009, Nr. 10-353 (2009-01-27), i. k. 1091010ISTA00XI-131
  
 
 
@@ -1943,3 +1945,8 @@ Lietuvos Respublikos elektros energetikos įstatymo 31, 46, 47 straipsnių pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2307, 2004-07-01, Žin., 2004, Nr. 107-3964 (2004-07-10), i. k. 1041010ISTA0IX-2307
 Lietuvos Respublikos elektros energetikos įstatymo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-131, 2009-01-12, Žin., 2009, Nr. 10-353 (2009-01-27), i. k. 1091010ISTA00XI-131
+Lietuvos Respublikos elektros energetikos įstatymo 39 straipsnio pakeitimo įstatymas
