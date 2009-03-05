@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8"
 
 # Lietuvos Respublikos pensijų sistemos reformos įstatymas
 
-Suvestinė redakcija nuo 2009-01-01 iki 2009-03-04
+Suvestinė redakcija nuo 2009-03-05 iki 2009-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 123-5511, i. k. 1021010ISTA0IX-1215
  
@@ -115,9 +115,11 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010ISTA0IX-1708
  
 
-3. Nuo asmenų, kurie gauna pajamas iš sporto veiklos, asmenų, kurie gauna pajamas iš atlikėjo veiklos, asmenų, kurie gauna pajamas pagal autorines sutartis, bei ūkininkų ir jų partnerių, kaip jie apibrėžti Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, gautų pajamų, nuo kurių 2009 ir 2010 metais Lietuvos Respublikos valstybinio socialinio draudimo įstatymo nustatyta tvarka priskaičiuotos sumažintos privalomojo valstybinio socialinio draudimo įmokos, pensijų įmokos dydis 2009 metais yra 1 procentas, 2010 metais – 2 procentai. 
+3. Nuo asmenų, kurie gauna pajamas iš sporto veiklos, asmenų, kurie gauna pajamas iš atlikėjo veiklos, asmenų, kurie gauna pajamas pagal autorines sutartis, bei savarankiškai dirbančių asmenų, kaip jie apibrėžti Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, gautų pajamų, nuo kurių 2009 ir 2010 metais Lietuvos Respublikos valstybinio socialinio draudimo įstatymo nustatyta tvarka priskaičiuotos sumažintos privalomojo valstybinio socialinio draudimo įmokos, pensijų įmokos dydis 2009 metais yra 1 procentas, 2010 metais – 2 procentai.
 Papildyta straipsnio dalimi:
 Nr. XI-149, 2009-01-15, Žin., 2009, Nr. 6-160 (2009-01-17), i. k. 1091010ISTA00XI-149
+Straipsnio dalies pakeitimai:
+Nr. XI-169, 2009-02-17, Žin., 2009, Nr. 25-971 (2009-03-05), i. k. 1091010ISTA00XI-169
  
 
 4. Pensijų įmokos už asmenis, draudžiamus valstybės biudžeto lėšomis, neskaičiuojamos ir nemokamos.
@@ -240,4 +242,9 @@ Lietuvos Respublikos pensijų sistemos reformos įstatymo, Papildomo savanorišk
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-149, 2009-01-15, Žin., 2009, Nr. 6-160 (2009-01-17), i. k. 1091010ISTA00XI-149
 Lietuvos Respublikos pensijų sistemos reformos įstatymo 4 straipsnio pakeitimo ir papildymo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-169, 2009-02-17, Žin., 2009, Nr. 25-971 (2009-03-05), i. k. 1091010ISTA00XI-169
+Lietuvos Respublikos pensijų sistemos reformos įstatymo 4 straipsnio pakeitimo įstatymas
 
