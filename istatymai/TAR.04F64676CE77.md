@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.04F64676CE77"
 
 # Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas
 
-Suvestinė redakcija nuo 2008-10-11 iki 2009-03-04
+Suvestinė redakcija nuo 2009-03-05 iki 2009-08-03
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 76-3004, i. k. 1071010ISTA00X-1231
  
@@ -240,6 +240,10 @@ VALDYMAS
 
 
 1. Valstybei nuosavybės teise priklausančių akcijų nacionalinio investuotojo bendrovėje suteikiamos teisės įgyvendinamos Lietuvos Respublikos Vyriausybės nustatyta tvarka. Valstybės akcijų valdytojas ir jo įgalioti asmenys įgyvendina nacionalinio investuotojo bendrovėje valstybės kaip akcininkės turtines ir neturtines teises, vadovaudamasis šia tvarka. Valstybės akcijų valdytojas ir jo įgalioti asmenys balsuoti nacionalinio investuotojo bendrovės organuose dėl projekto įgyvendinimo bendrovės akcininkų sutarties gali tik vadovaudamiesi Lietuvos Respublikos Vyriausybės nutarimais, kai Lietuvos Respublikos Seimas pritaria esminėms šios sutarties nuostatoms.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos atominės elektrinės įstatymo 8 straipsnio (2007 m. birželio 28 d. redakcija; Žin., 2007, Nr. 76-3004) 1 dalis ta apimtimi, kuria joje nenustatytas teisinis reguliavimas, kuris užtikrintų įstatymo tikslo – sudaryti prielaidas naujos atominės elektrinės statybai – įgyvendinimą, prieštarauja Lietuvos Respublikos Konstitucijos 46 straipsnio 3 daliai.
+Straipsnio dalies pakeitimai:
+2009-03-02, Žin., 2009, Nr. 25-988 (2009-03-05), i. k. 1091000NUTARG091403            
+ 
 
 
 
@@ -319,10 +323,10 @@ NACIONALINIS INVESTUOTOJAS
 
 
 1. Nacionalinis investuotojas – Lietuvos Respublikoje įregistruotas, pagal Lietuvos Respublikos įstatymus neribotam laikui įsteigtas ir veikiantis savarankiškas privatus juridinis asmuo, kurio veiklos tikslas yra socialiai atsakingai siekti naudos sau ir visiems savo akcininkams, taip pat dalyvauti įgyvendinant šio įstatymo 8 straipsnio 3 dalyje numatytą Lietuvos strateginį tikslą. Nacionalinio investuotojo teisinė forma yra akcinė bendrovė; nacionalinio investuotojo buveinė yra Lietuvos Respublikoje. Nacionalinis investuotojas yra nacionalinė elektros energetikos bendrovė, per savo dukterines įmones valdanti pagrindinę Lietuvos Respublikos elektros energetikos sistemos dalį – elektros energijos perdavimo ir skirstomuosius tinklus. Siekdamas savo veiklos tikslo, nacionalinis investuotojas privačios iniciatyvos pagrindu dalyvauja įgyvendinant naujos atominės elektrinės statybos projektą Lietuvoje, taip pat Elektros energetikos įstatymo ir kitų teisės aktų nustatyta tvarka statant Lietuvos Respublikos elektros energetikos sistemos jungtis su Lenkijos Respublikos ir Švedijos Karalystės elektros energetikos sistemomis. 
-TAR pastaba. Nuo šio pranešimo oficialaus paskelbimo „Valstybės žiniose“ dienos iki tol, kol bus paskelbtas Konstitucinio Teismo nutarimas šioje byloje, sustabdomas Lietuvos Respublikos atominės elektrinės įstatymo 10 straipsnio 1 dalies (2008 m. vasario 1 d. redakcija; Žin., 2008, Nr. 19-674), 11 straipsnio (2008 m. vasario 1 d. redakcija; Žin., 2008, Nr. 19-674) 1 dalies 1 punkto galiojimas atitinkama apimtimi.
 Straipsnio dalies pakeitimai:
 Nr. X-1446, 2008-02-01, Žin., 2008, Nr. 19-674 (2008-02-14), i. k. 1081010ISTA00X-1446
 2008-10-08, Žin., 2008, Nr. 117-4457 (2008-10-11), i. k. 108100PPRANRG087021            
+2009-03-02, Žin., 2009, Nr. 25-988 (2009-03-05), i. k. 1091000NUTARG091403            
  
 
 
@@ -386,9 +390,9 @@ Nr. X-1446, 2008-02-01, Žin., 2008, Nr. 19-674 (2008-02-14), i. k. 1081010ISTA0
 
 
 1) derėtis su akcinės bendrovės „VST“ kontrolinį akcijų paketą turinčiu akcininku dėl nacionalinio investuotojo steigimo ir visų ar dalies tokiam akcininkui nuosavybės teise priklausančių akcinės bendrovės „VST“ akcijų, sudarančių daugiau kaip 2/3 akcinės bendrovės „VST“ akcijų ir balsų visuotiniame akcininkų susirinkime, investavimo ir dėl naujų išleidžiamų nacionalinio investuotojo akcijų įsigijimo;
-TAR pastaba. Nuo šio pranešimo oficialaus paskelbimo „Valstybės žiniose“ dienos iki tol, kol bus paskelbtas Konstitucinio Teismo nutarimas šioje byloje, sustabdomas Lietuvos Respublikos atominės elektrinės įstatymo 10 straipsnio 1 dalies (2008 m. vasario 1 d. redakcija; Žin., 2008, Nr. 19-674), 11 straipsnio (2008 m. vasario 1 d. redakcija; Žin., 2008, Nr. 19-674) 1 dalies 1 punkto galiojimas atitinkama apimtimi.
 Straipsnio punkto pakeitimai:
-2008-10-08, Žin., 2008, Nr. 117-4457 (2008-10-11), i. k. 108100PPRANRG087021            
+2008-10-08, Žin., 2008, Nr. 117-4457 (2008-10-11), i. k. 108100PPRANRG087021            
+2009-03-02, Žin., 2009, Nr. 25-988 (2009-03-05), i. k. 1091000NUTARG091403            
  
 
 
@@ -611,3 +615,8 @@ Lietuvos Respublikos atominės elektrinės įstatymo 8, 10, 11, 20 straipsnių p
 Lietuvos Respublikos Konstitucinio Teismo pirmininkas, Pranešimas
 2008-10-08, Žin., 2008, Nr. 117-4457 (2008-10-11), i. k. 108100PPRANRG087021                
 Dėl Lietuvos Respublikos atominės elektrinės įstatymo 10 ir 11 straipsnių (2008 m. vasario 1 d. redakcija) nuostatų galiojimo sustabdymo
+ 
+3.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+2009-03-02, Žin., 2009, Nr. 25-988 (2009-03-05), i. k. 1091000NUTARG091403                
+Dėl Lietuvos Respublikos atominės elektrinės įstatymo 10 straipsnio 1 dalies (2008 m. vasario 1 d. redakcija) nuostatų ir 11 straipsnio (2008 m. vasario 1 d. redakcija) 1 dalies 1 punkto atitikties Lietuvos Respublikos Konstitucijai
