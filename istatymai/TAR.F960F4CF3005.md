@@ -351,9 +351,9 @@ pajamos ir išlaidos, pajamų ir išlaidų pokyčiai, išskyrus
 pokyčius, kuriais savivaldybių biudžetai sumažėja dėl žemės nuomos mokesčio už
 valstybinę žemę laisvosios ekonominės zonos teritorijoje, panaudoto šioje
 teritorijoje esančiai žemei išpirkti iš žemės savininkų, kompensuojami.
-Biudžetiniais metais turi būti skiriama reikiamo dydžio valstybės biudžeto bendrosios
-dotacijos kompensacija (BDK), susijusi su savivaldybių pajamų ir išlaidų
-pasikeitimu, arba iš savivaldybių biudžetų paimamos reikiamos sumos, o
+Biudžetiniais metais turi būti skiriama reikiamo dydžio valstybės biudžeto
+bendrosios dotacijos kompensacija (BDK), susijusi su savivaldybių pajamų ir
+išlaidų pasikeitimu, arba iš savivaldybių biudžetų paimamos reikiamos sumos, o
 ateinančiais biudžetiniais metais koreguojama gyventojų pajamų mokesčio dalis,
 tenkanti visų savivaldybių biudžetams.
 5. Valstybės biudžeto bendrosios dotacijos kompensacija,
@@ -432,17 +432,20 @@ SKIRSNIS
 SAVIVALDYBIŲ BIUDŽETŲ
 NEGAUTŲ PAJAMŲ KOMPENSAVIMAS
  
-13 straipsnis.
-Savivaldybių biudžetų negautų pajamų kompensavimas
-1. Jeigu biudžetiniais metais pagal savivaldybės metinės
-apyskaitos duomenis pajamų (be dotacijų iš valstybės biudžeto) gauta mažiau,
-negu buvo prognozuota gauti skaičiuojant tų metų savivaldybių biudžetų
-finansinius rodiklius, ir į jas yra įskaitomos valstybės biudžetui grąžinamos
-bendrosios dotacijos kompensacijos pagal šio Įstatymo 12 straipsnio 2 dalį,
-biudžetiniams metams pasibaigus šios negautos pajamos gali būti kompensuojamos.
-Skaičiuojant šių negautų pajamų sumą, savivaldybių gautos pajamos didinamos
-skaičiuotinomis įmokomis, kurių negauta dėl savivaldybės tarybos sprendimais
-suteiktų mokesčių lengvatų.
+13 straipsnis. Savivaldybių biudžetų
+negautų pajamų kompensavimas
+1. Jeigu biudžetiniais metais pagal savivaldybės metinio biudžeto
+vykdymo ataskaitų rinkinio duomenis pajamų (be dotacijų iš
+valstybės biudžeto) gauta mažiau, negu buvo prognozuota gauti skaičiuojant tų
+metų savivaldybių biudžetų finansinius rodiklius, ir į jas yra įskaitomos
+valstybės biudžetui grąžinamos bendrosios dotacijos kompensacijos pagal šio
+Įstatymo 12 straipsnio 2 dalį, biudžetiniams metams pasibaigus šios negautos
+pajamos gali būti kompensuojamos. Skaičiuojant šių negautų pajamų sumą,
+savivaldybių gautos pajamos didinamos skaičiuotinomis įmokomis, kurių negauta
+dėl savivaldybės tarybos sprendimais suteiktų mokesčių lengvatų. Skaičiuojant
+šių negautų pajamų sumą už 2008 metus, savivaldybių biudžetų gautos pajamos
+mažinamos 2008 biudžetinių metų pajamomis iš vietinių rinkliavų už komunalinių
+atliekų surinkimą iš atliekų turėtojų ir už atliekų tvarkymą.
 2. Jeigu vykdant valstybės biudžetą gautų viršplaninių
 pajamų ir netekusių paskirties asignavimų nepakanka savivaldybių biudžetų
 negautoms mokestinėms pajamoms padengti, joms kompensuoti gali būti naudojama
@@ -461,6 +464,17 @@ bet nepervestas valstybės biudžetui Vyriausybės nutarime nurodytas sumas.
 5. Jei šio straipsnio 2 dalyje nurodytų
 lėšų nepakanka visoms savivaldybių negautoms pajamoms padengti, jos
 savivaldybių biudžetams paskirstomos iki vienodo negautų pajamų lygio.
+6. Jeigu šio straipsnio 2 dalyje
+nustatytų šaltinių nepakanka, kad savivaldybių biudžetų negautos pajamos būtų
+kompensuotos, Vyriausybė, atsižvelgdama į savivaldybių biudžetų negautas
+prognozuotas pajamų sumas, biudžetiniams metams pasibaigus, iki balandžio 1
+dienos priima nutarimą, kuriame nurodo kiekvienai savivaldybei priklausiusias
+pervesti, bet praėjusiais biudžetiniais metais nepervestas bendrosios dotacijos
+kompensacijų sumas (atitinkamą jų dalį), nuo kurių pervedimo savivaldybė
+atleidžiama, arba praėjusiais biudžetiniais metais pervestas bendrosios
+dotacijos kompensacijų sumas (atitinkamą jų dalį), kurios grąžinamos savivaldybei
+iki biudžetinių metų pabaigos iš valstybės biudžeto gautų bendrosios dotacijos
+kompensacijų.
 Skirsnio
 pakeitimai
 Nr.
@@ -469,10 +483,12 @@ IX-1857,
 Nr.
 XI-117,
 2008-12-23, Žin., 2008, Nr. 149-6037 (2008-12-30)
+Nr.
+XI-192,
+2009-03-12, Žin., 2009, Nr. 32-1241 (2009-03-24)
  
- 
-Skelbiu šį
-Lietuvos Respublikos Seimo priimtą įstatymą.
+Skelbiu šį Lietuvos
+Respublikos Seimo priimtą įstatymą.
  
  
  
@@ -1036,17 +1052,17 @@ Respublikos Seimas, Įstatymas
 Nr. VIII-544, 97.12.02,
 Žin., 1997, Nr.116-2953 (97.12.19)
 LIETUVOS
-RESPUBLIKOS SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 14 STRAIPSNIO
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+RESPUBLIKOS SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 14
+STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 2.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. VIII-948, 98.12.03,
 Žin., 1998, Nr.111 (98.12.18)
-LIETUVOS
-RESPUBLIKOS SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO PAPILDYMO
-12(1) STRAIPSNIU IR 9, 13, 16 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS
+SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO PAPILDYMO 12(1)
+STRAIPSNIU IR 9, 13, 16 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
  
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1149,10 +1165,19 @@ SAVIVALDYBIŲ
 BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 5, 10, 12 IR 13 STRAIPSNIŲ
 PAKEITIMO ĮSTATYMAS
  
+12.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-192,
+2009-03-12, Žin., 2009, Nr. 32-1241 (2009-03-24)
+SAVIVALDYBIŲ
+BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušra Bodin (2008-12-30)
-                  aubodi@lrs.lt
+Aušrinė Trapinskienė (2009-03-24)
+                 
+autrap@lrs.lt
