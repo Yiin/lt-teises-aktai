@@ -13,12 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.11A8B08A7405"
 
 # Lietuvos Respublikos suėmimo vykdymo įstatymas
 
-Suvestinė redakcija nuo 2006-07-01 iki 2009-03-31
+Suvestinė redakcija nuo 2009-04-01 iki 2012-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 12-313, i. k. 0961010ISTA00I-1175
  
+Nauja redakcija nuo 2009-04-01:
+Nr. X-1660, 2008-07-01, Žin. 2008, Nr. 81-3172 (2008-07-17), i. k. 1081010ISTA00X-1660
  
-LIETUVOS RESPUBLIKOS KARDOMOJO KALINIMO Į S T A T Y M A S
+LIETUVOS RESPUBLIKOS  SUĖMIMO VYKDYMO  ĮSTATYMAS
  
 1996 m. sausio 18 d. Nr. I-1175
 Vilnius
@@ -26,27 +28,20 @@ Vilnius
  
 
 
-PIRMASIS SKIRSNIS
-PAGRINDINĖS NUOSTATOS
+I SKYRIUS 
+BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Kardomojo kalinimo įstatymo paskirtis
+1 straipsnis. Įstatymo paskirtis
 
 
-1. Kardomojo kalinimo įstatymas nustato asmenų, kuriems kardomąja priemone parinktas suėmimas, taip pat asmenų, nuteistų laisvės atėmimo bausme, laikymo kardomojo kalinimo vietose tvarką ir sąlygas.
-
-
-
-
-2. Kardomojo kalinimo įstatymo nustatyta kardomojo kalinimo (suėmimo) tvarka yra vienoda ir privaloma visoms valstybės institucijoms, pareigūnams ir asmenims.
+1. Šio įstatymo paskirtis – nustatyti kardomąją priemonę – suėmimą (kardomąjį kalinimą) (toliau – suėmimas) vykdančias įstaigas, suėmimo vykdymo tvarką ir sąlygas, taip pat asmenų, laikomų suėmimą vykdančiose įstaigose, teisinę padėtį.
 
 
 
 
-3. Kardomojo kalinimo įstatymo nuostatos suderintos su Europos Sąjungos teisės aktų, nurodytų šio įstatymo 3 priedėlyje, nuostatomis.
-Papildyta straipsnio dalimi:
-Nr. X-636, 2006-06-01, Žin., 2006, Nr. 68-2494 (2006-06-17), i. k. 1061010ISTA000X-636
+2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, nuostatomis.
  
 
 
@@ -54,10 +49,15 @@ Nr. X-636, 2006-06-01, Žin., 2006, Nr. 68-2494 (2006-06-17), i. k. 1061010ISTA0
 
 
 
-2 straipsnis. Kardomojo kalinimo įstatymo uždaviniai
+2 straipsnis. Suėmimą vykdančios įstaigos
 
 
-Kardomojo kalinimo įstatymo uždaviniai – nustatyti taisykles, kuriomis remiantis kardomojo kalinimo vietose laikomi asmenys negalėtų pasislėpti nuo parengtinio tyrimo ir teismo, nekliudytų nustatyti tiesą baudžiamojoje byloje arba nepadarytų nusikaltimų, taip pat būtų užtikrintas nuosprendžio įvykdymas.
+1. Suėmimas vykdomas tardymo izoliatoriuose (kardomojo kalinimo vietose) (toliau – tardymo izoliatoriai). Tardymo izoliatorius steigia, reorganizuoja, pertvarko ir likviduoja Lietuvos Respublikos Vyriausybė Teisingumo ministerijos teikimu. Tardymo izoliatorių vidaus tvarkos taisykles tvirtina teisingumo ministras.
+
+
+
+
+2. Asmenys, kuriems paskirtas suėmimas, iki jų pasiuntimo į tardymo izoliatorių gali būti laikomi teritorinės policijos įstaigos areštinėje, tačiau ne ilgiau kaip penkiolika parų. Suimtieji ikiteisminio tyrimo pareigūno ar prokuroro nutarimu arba teismo nutartimi iš tardymo izoliatoriaus gali būti perkelti (uždaryti) ikiteisminio tyrimo veiksmams atlikti ar dėl bylų nagrinėjimo teisme į teritorinės policijos įstaigos areštinę, tačiau ne ilgiau kaip penkiolika parų. Toks laikymas teritorinės policijos įstaigos areštinėje turi būti nedelsiant nutrauktas, kai tai tampa nebereikalinga. Šiems asmenims taikomos šio įstatymo, išskyrus 23, 25, 26, 28, 40–43 straipsnius, nuostatos. Teritorinių policijos įstaigų areštinių vidaus tvarkos taisykles tvirtina vidaus reikalų ministras, suderinęs su teisingumo ministru.
  
 
 
@@ -65,10 +65,10 @@ Kardomojo kalinimo įstatymo uždaviniai – nustatyti taisykles, kuriomis remia
 
 
 
-3 straipsnis. Kardomasis kalinimas (suėmimas)
+3 straipsnis. Suėmimo vykdymo tvarkos ir asmenų laikymo tardymo izoliatoriuose sąlygų užtikrinimas
 
 
-Kardomasis kalinimas (suėmimas) yra kardomoji priemonė, taikoma Lietuvos Respublikos baudžiamojo proceso kodekso nustatyta tvarka kaltinamajam, teisiamajam, taip pat įtariamajam, jeigu jie padarė nusikaltimą.
+Tardymo izoliatoriaus administracija, užtikrindama suėmimo vykdymo tvarką ir tinkamas asmenų laikymo tardymo izoliatoriuose sąlygas, vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, kitais nacionaliniais ir Europos Sąjungos teisės aktais.
  
 
 
@@ -76,10 +76,20 @@ Kardomasis kalinimas (suėmimas) yra kardomoji priemonė, taikoma Lietuvos Respu
 
 
 
-4 straipsnis. Kardomojo kalinimo (suėmimo) pagrindai
+4 straipsnis. Įstatymų taikymas vykdant suėmimą
 
 
-Kardomojo kalinimo (suėmimo) pagrindus nustato Baudžiamojo proceso kodeksas.
+1. Suėmimas vykdomas pagal tuo metu galiojančius Lietuvos Respublikos įstatymus.
+
+
+
+
+2. Suėmimo vykdymą reglamentuojančių Lietuvos Respublikos įstatymų kolizijos atveju taikomas palankesnis suimtojo teisinę padėtį nustatantis įstatymas.
+
+
+
+
+3. Jeigu Lietuvos Respublikos tarptautinėje sutartyje nustatytos kitokios taisyklės negu šiame įstatyme, taikomos tarptautinės sutarties taisyklės.
  
 
 
@@ -87,62 +97,20 @@ Kardomojo kalinimo (suėmimo) pagrindus nustato Baudžiamojo proceso kodeksas.
 
 
 
-5 straipsnis. Kardomojo kalinimo vietos
+5 straipsnis. Bendrosios asmenų, laikomų tardymo izoliatoriuose, teisinės padėties nuostatos
 
 
-1. Kardomojo kalinimo vietos laikyti asmenims, kuriems kardomąja priemone parinktas suėmimas, yra tardymo izoliatoriai (sulaikymo namai). Tardymo izoliatorius steigia ir likviduoja Lietuvos Respublikos Vyriausybė Teisingumo ministerijos teikimu.
-Straipsnio dalies pakeitimai:
-Nr. VIII-1634, 2000-04-18, Žin., 2000, Nr. 39-1090 (2000-05-12), i. k. 1001010ISTAIII-1634
- 
+1. Lietuvos Respublikos piliečiai, laikomi tardymo izoliatoriuose, turi visas Lietuvos Respublikos piliečiams įstatymų nustatytas teises, laisves ir pareigas su apribojimais, kuriuos nustato Baudžiamojo proceso kodeksas, šis ir kiti įstatymai.
 
 
 
 
-2. Tardymo izoliatoriuje vienu metu leidžiama laikyti ne daugiau kaip vieną tūkstantį kalinamųjų.
+2. Užsieniečių, laikomų tardymo izoliatoriuose, teisinę padėtį nustato Lietuvos Respublikos įstatymai, reglamentuojantys šių asmenų teises, laisves ir pareigas jų buvimo Lietuvos Respublikoje metu, Baudžiamojo proceso kodeksas, šis ir kiti įstatymai, taip pat Lietuvos Respublikos tarptautinės sutartys.
 
 
 
 
-3. Asmenys, kuriems paskirtas kardomasis kalinimas (suėmimas), gali būti uždaryti į policijos areštines, tačiau ne ilgiau kaip penkiolikai parų.
-Straipsnio dalies pakeitimai:
-Nr. VIII-1424, 1999-11-16, Žin., 1999, Nr. 102-2922 (1999-12-01), i. k. 0991010ISTAIII-1424
- 
-
-
-
-
-
-
-6 straipsnis. Kardomojo kalinimo vietose laikomi asmenys
-
-
-1. Kardomojo kalinimo vietose laikomi asmenys, suimti pagal teismo nuosprendį ar nutartį, teisėjo nutartį, taip pat suimti nuteistieji, kuriems nuosprendis įsiteisėjo.
-Straipsnio dalies pakeitimai:
-Nr. I-1348, 1996-05-28, Žin., 1996, Nr. 53-1249 (1996-06-05), i. k. 0961010ISTA00I-1348
- 
-
-
-
-
-2. Kardomojo kalinimo vietose taip pat gali būti laikomi nuteisti laisvės atėmimu:
-
-
-1) asmenys, kuriems nuosprendis įsiteisėjo, iki jų pasiuntimo etapu į pataisos darbų įstaigas;
-
-
-
-
-2) asmenys, kurie įstatymų nustatyta tvarka palikti tardymo izoliatoriuje ūkio darbams;
-
-
-
-
-3) asmenys, palikti tardymo izoliatoriuje arba perkelti į jį iš pataisos darbų įstaigų atlikti tardymo veiksmų baudžiamosiose bylose arba dėl bylų nagrinėjimo teisme;
-
-
-
-
-4) asmenys, perkelti iš pataisos darbų įstaigų dėl patraukimo baudžiamojon atsakomybėn kitoje byloje, jeigu jiems parinkta kardomoji priemonė – suėmimas.
+3. Vykdant suėmimą, draudžiama žmogų kankinti, žiauriai su juo elgtis arba žeminti jo orumą. Su suimtuoju net ir jo sutikimu draudžiami medicinos, biologiniai ir kitokie mokslo bandymai. Draudžiama, išskyrus Lietuvos Respublikos teisės aktuose numatytus atvejus, filmuoti ar fotografuoti suimtąjį be išankstinio jo sutikimo.
  
 
 
@@ -152,15 +120,25 @@ Nr. I-1348, 1996-05-28, Žin., 1996, Nr. 53-1249 (1996-06-05), i. k. 0961010ISTA
 
 
 
-7 straipsnis. Kalinimo tvarkos užtikrinimas kardomojo kalinimo vietose
+II SKYRIUS
+ASMENŲ SUĖMIMAS, PRISTATYMAS IR PRIĖMIMAS Į TARDYMO IZOLIATORIUS
+ 
 
 
-1. Kardomojo kalinimo vietų administracija užtikrina asmenų kalinimo tvarką kardomojo kalinimo vietose.
+6 straipsnis. Asmenų suėmimo tvarka
+
+
+1. Asmenis, kuriems paskirtas suėmimas, išskyrus nuteistuosius, atliekančius arešto bausmę areštinėse, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmes pataisos įstaigose, suima ikiteisminio tyrimo ar kiti teisėsaugos institucijų pareigūnai.
 
 
 
 
-2. Kardomojo kalinimo vietų administracija veikia pagal šį ir kitus Lietuvos Respublikos įstatymus bei norminius aktus.
+2. Suimant gali būti daroma asmens krata. Asmens krata daroma Baudžiamojo proceso kodekso nustatyta tvarka.
+
+
+
+
+3. Arešto bausmę vykdančios areštinės ar pataisos įstaigos administracija, gavusi ikiteisminio tyrimo teisėjo ar teismo nutartį skirti nuteistajam suėmimą, nedelsdama jį pasiunčia į tardymo izoliatorių.
  
 
 
@@ -168,20 +146,311 @@ Nr. I-1348, 1996-05-28, Žin., 1996, Nr. 53-1249 (1996-06-05), i. k. 0961010ISTA
 
 
 
-8 straipsnis. Kardomojo kalinimo vietose laikomų asmenų teisinė padėtis
+7 straipsnis. Tardymo izoliatoriuose laikomi asmenys
 
 
-1. Kardomojo kalinimo vietose laikomi asmenys turi teises, laisves ir pareigas, įstatymų nustatytas Lietuvos Respublikos piliečiams, su apribojimais, kuriuos numato Baudžiamojo proceso kodeksas, šis įstatymas ir kalinimo režimas.
+1. Tardymo izoliatoriuose laikomi:
 
 
-
-
-2. Kardomojo kalinimo vietose laikomų kitų valstybių piliečių teisinę padėtį nustato Lietuvos Respublikos įstatymai, numatantys šių asmenų teises, laisves bei pareigas, jeigu jie yra Lietuvos Respublikos teritorijoje, Lietuvos Respublikos baudžiamojo proceso kodeksas, šis įstatymas ir Lietuvos Respublikos tarptautinės sutartys, taip pat kalinimo režimas.
+1) asmenys, kuriems paskirtas suėmimas;
 
 
 
 
-3. Draudžiama kalinamąjį kankinti, žaloti, žeminti jo orumą arba žiauriai su juo elgtis. Su kalinamuoju, net ir jo sutikimu, negali būti atliekami mokslo ar medicinos bandymai.
+2) nuteistieji arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmėmis, kuriems teismo nuosprendis įsiteisėjo, taip pat nuteistieji, kurie perduoti į Lietuvos Respubliką toliau atlikti terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmę, – iki šių nuteistųjų pasiuntimo į areštines ar pataisos įstaigas;
+
+
+
+
+3) nuteistieji, kurie perduodami į jų pilietybės valstybę toliau atlikti terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmę, – iki šių nuteistųjų perdavimo jų pilietybės valstybei;
+
+
+
+
+4) nuteistieji arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmėmis, kurie po teismo nuosprendžio įsiteisėjimo ikiteisminio tyrimo teisėjo ar teismo, nagrinėjančio bylą teisiamajame posėdyje, nutartimi iki penkiolikos parų palikti tardymo izoliatoriuose arba perkelti į juos iš areštinių ar pataisos įstaigų ikiteisminio tyrimo veiksmams atlikti arba dėl bylų nagrinėjimo teisme;
+
+
+
+
+5) nuteistieji, kuriems panaikintas bausmės vykdymo atidėjimas, siunčiami atlikti pagal nuosprendį paskirtą bausmę, – iki šių nuteistųjų pasiuntimo į pataisos įstaigas;
+
+
+
+
+6) nuteistieji, kuriems panaikintas lygtinis paleidimas iš pataisos įstaigų arba lygtinis atleidimas nuo laisvės atėmimo bausmės prieš terminą, siunčiami į pataisos įstaigas atlikti likusią laisvės atėmimo bausmės dalį, – iki šių nuteistųjų pasiuntimo į pataisos įstaigas;
+
+
+
+
+7) nuteistieji, palikti tardymo izoliatoriuose atlikti ūkio darbus Bausmių vykdymo kodekso 68 straipsnyje nustatyta tvarka;
+
+
+
+
+8) asmenys, nurodyti Lietuvos Respublikos karo padėties įstatymo 12 straipsnio 5 dalyje. 
+
+
+
+
+
+
+2. Suimtųjų vaikai tardymo izoliatoriuje nelaikomi.
+ 
+
+
+
+
+
+
+8 straipsnis. Asmenų pristatymo į tardymo izoliatorius pagrindai ir tvarka
+
+
+1. Asmenų pristatymo į tardymo izoliatorius pagrindai:
+
+
+1) ikiteisminio tyrimo teisėjo ar teismo nutartis (nuosprendis) skirti suėmimą;
+
+
+
+
+2) įsiteisėjęs teismo nuosprendis skirti laisvės atėmimo bausmę asmenims, kuriems nebuvo paskirtas suėmimas;
+
+
+
+
+3) ikiteisminio tyrimo teisėjo ar teismo, nagrinėjančio bylą teisiamajame posėdyje, nutartis perkelti iki penkiolikos parų nuteistąjį arešto ar laisvės atėmimo bausme iš areštinės ar pataisos įstaigos į tardymo izoliatorių ikiteisminio tyrimo veiksmams baudžiamosiose bylose atlikti arba dėl bylų nagrinėjimo teisme.
+
+
+
+
+
+
+2. Asmenis į tardymo izoliatorius ir iš jų į atitinkamus paskirties punktus pristato Viešojo saugumo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Viešojo saugumo tarnyba) ar konvojavimo teisę turintys ikiteisminio tyrimo įstaigų pareigūnai, kai reikia atlikti ikiteisminio tyrimo veiksmus.
+
+
+
+
+3. Pristatytiems į tardymo izoliatorius asmenims daroma asmens krata, jų turimi daiktai patikrinami. Daryti suimtųjų asmens kratą ir jos metu dalyvauti gali tik tos pačios lyties pareigūnai.
+
+
+
+
+4. Tardymo izoliatoriuose laikomiems asmenims draudžiami turėti daiktai ir reikmenys paimami. Paimant šiuos daiktus ir reikmenis, surašomas protokolas, jį pasirašo draudžiamus turėti daiktus ir reikmenis paėmęs pareigūnas ir suimtasis ar nuteistasis. Jeigu asmuo atsisako šį protokolą pasirašyti, tai pažymima protokole.
+
+
+
+
+5. Apie iš pristatyto į tardymo izoliatorių asmens paimtus daiktus ir reikmenis, kuriuos draudžiama turėti tardymo izoliatoriuose laikomiems asmenims, tardymo izoliatoriaus administracija raštu praneša nusikalstamą veiką tiriančiam ikiteisminio tyrimo pareigūnui ar prokurorui arba teismui, kurio žinioje yra byla. Paimti daiktai ir reikmenys gali būti pridėti prie ikiteisminio tyrimo medžiagos arba baudžiamosios bylos Baudžiamojo proceso kodekso nustatyta tvarka. Jeigu šie daiktai ir reikmenys prie ikiteisminio tyrimo medžiagos arba baudžiamosios bylos nepridedami, tardymo izoliatoriaus administracija pinigus įrašo į asmens, iš kurio jie buvo paimti, asmeninę sąskaitą, o kitus daiktus ir reikmenis atiduoda saugoti ar sunaikinti Tardymo izoliatorių vidaus tvarkos taisyklėse nustatyta tvarka.
+
+
+
+
+6. Jei į tardymo izoliatorių pristatyto suimtojo asmens byloje nėra daktiloskopinės kortelės ar pavyzdžio genetiniam tipizavimui atlikti, tardymo izoliatoriaus administracija privalo apie tai pranešti ikiteisminį tyrimą kontroliuojančiam prokurorui ar teismui, kurio žinioje yra byla, kad būtų priimti sprendimai dėl šių veiksmų atlikimo. Dėl pristatyto nuteistojo asmens, kurio asmens byloje nėra daktiloskopinės kortelės, asmens nuotraukos ar pavyzdžio genetiniam tipizavimui atlikti, sprendimą atlikti reikiamus veiksmus priima tardymo izoliatoriaus direktorius. Asmens bylos turinį ir jos tvarkymą nustato Tardymo izoliatorių vidaus tvarkos taisyklės.
+
+
+
+
+7. Tardymo izoliatoriaus administracija apie asmens atvykimą ne vėliau kaip kitą dieną praneša jo sutuoktiniui, sugyventiniui arba artimiesiems giminaičiams.
+ 
+
+
+
+
+
+
+
+
+III SKYRIUS
+SUĖMIMO VYKDYMO TVARKA IR ASMENŲ LAIKYMO TARDYMO IZOLIATORIUOSE SĄLYGOS
+ 
+
+
+PIRMASIS SKIRSNIS 
+SUĖMIMO VYKDYMO REŽIMAS
+ 
+
+
+9 straipsnis. Suėmimo vykdymo režimas ir pagrindiniai jo reikalavimai
+
+
+1. Suėmimo vykdymo režimas – tai asmenų laikymo tardymo izoliatoriuose sąlygų ir elgesio taisyklių visuma.
+
+
+
+
+2. Pagrindiniai suėmimo vykdymo režimo reikalavimai yra šie:
+
+
+1) asmenų, laikomų tardymo izoliatoriuose, apsauga ir izoliavimas;
+
+
+
+
+2) nuolatinė asmenų, laikomų tardymo izoliatoriuose, priežiūra;
+
+
+
+
+3) asmenų, laikomų tardymo izoliatoriuose, laikymas atskirai šio įstatymo 10 straipsnyje nustatyta tvarka.
+
+
+
+
+
+
+3. Asmenų, laikomų tardymo izoliatoriuose, izoliavimas užtikrinamas laikant juos rakinamose kamerose.
+
+
+
+
+4. Nuolatinę asmenų, laikomų tardymo izoliatoriuose, priežiūrą atlieka šių įstaigų pareigūnai. Šių asmenų priežiūrai gali būti naudojamos techninės priemonės, daroma asmenų krata, tikrinami turimi daiktai, gaunami pašto bei perduodami siuntiniai ir smulkieji paketai su spauda. Pas asmenis jų laikymo tardymo izoliatoriuose metu rasti ir protokolu įforminti pinigai motyvuotu tardymo izoliatoriaus direktoriaus nutarimu paimami ir perduodami į šios įstaigos socialinės paramos suimtiesiems fondą. Socialinės paramos suimtiesiems fondo sudarymo ir jo lėšų naudojimo tvarką nustato Lietuvos Respublikos Vyriausybė. Daiktai ir reikmenys, kuriuos turėti tardymo izoliatoriuose laikomiems asmenims draudžiama, paimami ir Tardymo izoliatorių vidaus tvarkos taisyklių nustatyta tvarka saugomi ar sunaikinami.
+ 
+
+
+
+
+
+
+10 straipsnis. Suimtųjų ir nuteistųjų laikymas atskirai
+
+
+1. Suimtieji ir nuteistieji uždaromi kamerose laikantis šių izoliavimo reikalavimų:
+
+
+1) vyrai – atskirai nuo moterų;
+
+
+
+
+2) nepilnamečiai – atskirai nuo suaugusiųjų. Nepilnamečius skirstant į kameras, būtina atsižvelgti į jų amžių, fizinį išsivystymą, sveikatos būklę ir kitas asmenines savybes;
+
+
+
+
+3) moterys, kurių nėštumas daugiau kaip trylika savaičių, jų pageidavimu – atskirai nuo kitų moterų;
+
+
+
+
+4) asmenys, anksčiau atlikę su laisvės atėmimu susijusias bausmes, – atskirai nuo asmenų, anksčiau neatlikusių su laisvės atėmimu susijusių bausmių;
+
+
+
+
+5) suimtieji ir nuteistieji, buvę ar esantys valstybės politikais, teisėsaugos, teismų, prokuratūros, kontrolės, valdžios ir valdymo institucijų valstybės tarnautojais, – atskirai nuo kitų suimtųjų ir nuteistųjų;
+
+
+
+
+6) nuteistieji areštu – atskirai nuo kitų suimtųjų ir nuteistųjų;
+
+
+
+
+7) nuteistieji terminuotu laisvės atėmimu – atskirai nuo suimtųjų;
+
+
+
+
+8) nuteistieji laisvės atėmimu iki gyvos galvos – atskirai nuo kitų suimtųjų ir nuteistųjų;
+
+
+
+
+9) asmenys, kuriems taikomos Lietuvos Respublikos baudžiamojo proceso ir operatyvinės veiklos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo nuostatos, – atskirai nuo kitų suimtųjų ir nuteistųjų;
+
+
+
+
+10) asmenys, nurodyti Lietuvos Respublikos karo padėties įstatymo 12 straipsnio 5 dalyje, – atskirai nuo kitų suimtųjų ir nuteistųjų;
+
+
+
+
+11) asmenys, sergantys aktyvia plaučių tuberkulioze, arba pagal gydytojų išvadas – atskirai nuo kitų suimtųjų ir nuteistųjų.
+
+
+
+
+
+
+2. Įtariamieji arba kaltinamieji, įtariami arba kaltinami toje pačioje byloje, arba proceso dalyviai toje pačioje byloje laikomi atskirai. Ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytiniu sutikimu tardymo izoliatoriaus administracija tokius asmenis gali laikyti kartu.
+
+
+
+
+3. Nuteistieji, palikti tardymo izoliatoriuose atlikti ūkio darbus, laikomi atskirose patalpose.
+ 
+
+
+
+
+
+
+11 straipsnis. Suėmimo vykdymo režimo užtikrinimo priemonės
+
+
+1. Suėmimo vykdymo režimo užtikrinimo priemonės yra šios:
+
+
+1) tardymo izoliatorių apsauga;
+
+
+
+
+2) teisės ir suėmimo vykdymo režimo pažeidimų prevencija ir atskleidimas;
+
+
+
+
+3) įėjimo į tardymo izoliatorius ir išėjimo iš jų tvarka;
+
+
+
+
+4) tardymo izoliatorių vidaus tvarka;
+
+
+
+
+5) dienotvarkė;
+
+
+
+
+6) tardymo izoliatorių administracijos veiksmai susidarius ypatingai situacijai (suimtųjų riaušių, grupinio pasipriešinimo tardymo izoliatoriaus administracijai ar neteisėtų grupinių veiksmų, šiurkščiai pažeidžiančių tardymo izoliatoriaus vidaus tvarką, įkaitų grobimo atvejais).
+
+
+
+
+
+
+2. Tardymo izoliatorių ir juose laikomų asmenų apsaugą atlieka šių įstaigų pareigūnai; jie gali būti apginkluojami šaunamaisiais ginklais. Tardymo izoliatorių apsaugai naudojamos inžinerinės ir techninės apsaugos priemonės. Tardymo izoliatoriaus administracija privalo pranešti šiose įstaigose laikomiems asmenims apie apsaugos priemones, kurios gali kelti pavojų gyvybei ir sveikatai. Jeigu tardymo izoliatoriuje susidaro ypatinga situacija, šios įstaigos apsaugai ir tvarkai palaikyti gali būti pasitelkti Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos (toliau – Kalėjimų departamentas) ir jam pavaldžių įstaigų pareigūnai, taip pat Viešojo saugumo tarnyba ir policija vidaus reikalų ir teisingumo ministrų nustatyta tvarka.
+
+
+
+
+3. Teisės ir suėmimo vykdymo režimo pažeidimų prevenciją vykdo ir šiuos pažeidimus atskleidžia tardymo izoliatoriuose šių įstaigų administracijos, bendradarbiaudamos su teisėsaugos institucijomis.
+
+
+
+
+4. Tardymo izoliatoriams taikomos teisingumo ministro įsakymu tvirtinamos Įėjimo į pataisos įstaigas ir išėjimo iš jų taisyklės. Prireikus tardymo izoliatoriaus administracija turi teisę patikrinti į tardymo izoliatorių įeinančių ir iš jo išeinančių asmenų daiktus ir drabužius, išskyrus Respublikos Prezidento, Seimo, Europos Parlamento ar Vyriausybės narių, teisėjų, gynėjų, prokurorų, ikiteisminio tyrimo pareigūnų, kitų pareigūnų, įstatymų nustatyta tvarka atliekančių tardymo izoliatorių veiklos kontrolę, dvasininkų daiktus ir drabužius, taip pat turi teisę patikrinti įvažiuojančias ir išvažiuojančias transporto priemones. Asmenų lankymosi tardymo izoliatoriuose tvarka nustatyta Tardymo izoliatorių vidaus tvarkos taisyklėse.
+
+
+
+
+5. Tardymo izoliatorių vidaus tvarkos aprašai tvirtinami šių įstaigų direktorių įsakymais. Suimtieji pasirašytinai supažindinami su jų teisėmis, pareigomis ir draudimais.
+
+
+
+
+6. Suimtųjų dienotvarkėje privalo būti numatytas darbo, poilsio, buvimo gryname ore, mokymosi, socialinėms ir psichologinėms programoms skirtas laikas.
+
+
+
+
+7. Tardymo izoliatoriaus administracija ypatingų situacijų metu veikia vadovaudamasi Bausmių vykdymo kodekso 118 ir 119 straipsnių, o specialiąsias priemones ir šaunamuosius ginklus naudoja vadovaudamasi Bausmių vykdymo kodekso 120–124 straipsnių nuostatomis.
  
 
 
@@ -192,98 +461,69 @@ Nr. I-1348, 1996-05-28, Žin., 1996, Nr. 53-1249 (1996-06-05), i. k. 0961010ISTA
 
 
 ANTRASIS SKIRSNIS
-BENDROSIOS ASMENŲ PRIĖMIMO Į KARDOMOJO KALINIMO VIETAS SĄLYGOS
+TARDYMO IZOLIATORIUOSE LAIKOMŲ ASMENŲ TEISINĖ PADĖTIS
  
 
 
-9 straipsnis. Asmenų priėmimo į kardomojo kalinimo vietas procesiniai pagrindai
+12 straipsnis. Tardymo izoliatoriuose laikomų asmenų teisinės padėties ypatumai
 
 
-1. Asmenų priėmimo į kardomojo kalinimo vietas procesinis pagrindas yra:
-
-
-1) teismo arba teisėjo nutartis skirti kardomąją priemonę – suėmimą;
+1. Asmenys, kuriems paskirtas suėmimas, nuteistieji arešto, terminuoto laisvės atėmimo ar laivės atėmimo iki gyvos galvos bausmėmis, kuriems teismo nuosprendžiai neįsiteisėjo, laikomi suimtaisiais.
 
 
 
 
-2) teismo nuosprendis skirti laisvės atėmimo arba mirties bausmę asmenims, kuriems nebuvo parinktas suėmimas;
+2. Suimtiesiems prilyginami:
+
+
+1) nuteistieji arešto, terminuoto laisvės atėmimo ar laivės atėmimo iki gyvos galvos bausmėmis, kuriems nuosprendžiai įsiteisėjo, – iki jų pasiuntimo į areštines ar pataisos įstaigas;
 
 
 
 
-3) teisėjo sankcija perkelti nuteistąjį iš pataisos darbų įstaigos į tardymo izoliatorių.
-
-
-Straipsnio dalies pakeitimai:
-Nr. I-1348, 1996-05-28, Žin., 1996, Nr. 53-1249 (1996-06-05), i. k. 0961010ISTA00I-1348
- 
+2) nuteistieji arešto, terminuoto laisvės atėmimo ar laivės atėmimo iki gyvos galvos bausmėmis, kurie, vadovaudamiesi Baudžiamojo proceso kodekso 315 straipsnio nuostatomis, pareiškė norą atlikti bausmę, – iki jų pasiuntimo į areštines ar pataisos įstaigas;
 
 
 
 
-2. Kalinamų moterų vaikai į kardomojo kalinimo vietas nepriimami.
- 
+3) nuteistieji arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmėmis, kuriems nuosprendis įsiteisėjo ir kurie ikiteisminio tyrimo teisėjo ar teismo, nagrinėjančio bylą teisiamajame posėdyje, nutartimi iki penkiolikos parų palikti tardymo izoliatoriuose ikiteisminio tyrimo veiksmams atlikti arba dėl bylų nagrinėjimo teisme;
 
 
 
 
-
-
-10 straipsnis. Asmenų priėmimo į kardomojo kalinimo vietas tvarka
-
-
-1. Kardomojo kalinimo tvarka suimti asmenys iškratomi, daktiloskopuojami ir nufotografuojami, jų turimi daiktai patikrinami. Jiems draudžiama turėti su savimi pinigų bei vertingų daiktų, taip pat tokių daiktų, kurių neleidžiama laikyti kardomojo kalinimo vietose.
-
-
-
-
-2. Paimant pinigus ir daiktus surašomas protokolas, kurį pasirašo pinigus bei daiktus priėmęs pareigūnas ir kalinamasis. Pinigai įrašomi į kalinamojo asmeninę sąskaitą, o daiktai atiduodami saugoti.
-
-
-
-
-3. Apie iš kalinamųjų paimtus pinigus, vertingus bei kitus daiktus kardomojo kalinimo vietos administracija raštu informuoja bylą tiriantį pareigūną arba teismą. Paimti pinigai ir daiktai gali būti prijungti prie baudžiamosios bylos Baudžiamojo proceso kodekso nustatyta tvarka.
-
-
-
-
-4. Daiktų bei reikmenų, kuriuos draudžiama turėti kalinamiesiems, sąrašas pateiktas šio įstatymo 1 priedėlyje.
-
-
-
-
-5. Jeigu kalinamiesiems iki priėmimo į kardomojo kalinimo vietas (tardymo izoliatorius) asmens bylos nebuvo pradėtos, jos pradedamos tardymo izoliatoriuose. Kalinamo asmens bylos sudėtį ir jos vedimo tvarką nustato teisingumo ministro patvirtintos Kardomojo kalinimo vietų vidaus tvarkos taisyklės.
-Straipsnio dalies pakeitimai:
-Nr. IX-431, 2001-07-05, Žin., 2001, Nr. 62-2230 (2001-07-18), i. k. 1011010ISTA00IX-431
- 
+4) nuteistieji, kuriems panaikintas bausmės vykdymo atidėjimas arba lygtinis paleidimas iš pataisos įstaigų, arba lygtinis atleidimas nuo laisvės atėmimo bausmės prieš terminą, – iki jų pasiuntimo į pataisos įstaigas.
 
 
 
 
 
 
+3. Nuteistaisiais, atliekančiais arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmes, laikomi:
 
 
-TREČIASIS SKIRSNIS
-KARDOMOJO KALINIMO VYKDYMAS
- 
-
-
-11 straipsnis. Pagrindiniai režimo reikalavimai kardomojo kalinimo vietose
-
-
-1. Pagrindiniai režimo reikalavimai kardomojo kalinimo vietose yra šie: kalinamųjų izoliavimas, nuolatinė jų priežiūra ir laikymas atskirai šio įstatymo 12 straipsnyje nustatyta tvarka.
+1) nuteistieji arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmėmis, perkelti iki penkiolikos parų į tardymo izoliatorius iš areštinių ar pataisos įstaigų ikiteisminio tyrimo teisėjo ar teismo, nagrinėjančio bylą teisiamajame posėdyje, nutartimi ikiteisminio tyrimo veiksmams atlikti arba dėl bylų nagrinėjimo teisme;
 
 
 
 
-2. Kardomojo kalinimo vietų apsaugai ir kalinamųjų priežiūrai naudojamas inžinerinių–techninių apsaugos priemonių kompleksas.
+2) nuteistieji, kurie perduoti į Lietuvos Respubliką toliau atlikti terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmę, – iki šių nuteistųjų pasiuntimo į areštines ar pataisos įstaigas;
 
 
 
 
-3. Pas kalinamuosius rasti nuslėpti nuo kardomojo kalinimo vietos administracijos pinigai bei vertingi daiktai paimami ir apie tai raštu pranešama bylą tiriančiam pareigūnui arba teismui. Paimti pinigai ir vertingi daiktai gali būti prijungti prie baudžiamosios bylos Baudžiamojo proceso kodekso nustatyta tvarka. Galutinį sprendimą dėl šių pinigų ir vertingų daiktų priima teismas priimdamas nuosprendį.
+3) nuteistieji, kurie perduodami į jų pilietybės valstybę toliau atlikti terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmę, – iki šių nuteistųjų perdavimo jų pilietybės valstybei;
+
+
+
+
+4) nuteistieji, palikti tardymo izoliatoriuose atlikti ūkio darbus.
+
+
+
+
+
+
+4. Šio straipsnio 3 dalyje nurodytiems asmenims taikomos Bausmių vykdymo kodekso nuostatos.
  
 
 
@@ -291,65 +531,20 @@ KARDOMOJO KALINIMO VYKDYMAS
 
 
 
-12 straipsnis. Asmenų laikymas atskirai kardomojo kalinimo vietose
+13 straipsnis. Suimtųjų teisė gauti informaciją apie jų laikymo tardymo izoliatoriuose tvarką, sąlygas ir teisinę padėtį
 
 
-1. Kalinamieji uždaromi kardomojo kalinimo vietų kamerose laikantis šių izoliavimo reikalavimų:
-
-
-1) vyrai – atskirai nuo moterų;
+1. Suimtieji turi teisę gauti rašytinę informaciją apie jų laikymo tardymo izoliatoriuose tvarką ir sąlygas, teises, pareigas ir jiems taikomus draudimus. Šią informaciją tardymo izoliatoriaus administracija pateikia lietuvių kalba arba suimtojo gimtąja kalba, arba ta kalba, kurią suimtasis supranta.
 
 
 
 
-2) nepilnamečiai – atskirai nuo suaugusiųjų. Nepilnamečius skirstant į kameras būtina atsižvelgti į jų amžių, fizinį ir protinį išsivystymą, dorovines savybes. Išimtiniais atvejais, gavus prokuroro sutikimą, kamerose, kur laikomi nepilnamečiai, leidžiama laikyti suaugusiuosius;
+2. Tardymo izoliatoriaus administracija privalo užtikrinti, kad kiekvienoje kameroje būtų iškabinta informacija apie Lietuvos Respublikos įstatymuose ir kituose teisės aktuose nustatytas suimtųjų teises, pareigas, draudimus ir dienotvarkę.
 
 
 
 
-3) moterys, kurių nėštumas daugiau kaip trys mėnesiai, jų pageidavimu – atskirai nuo kitų moterų;
-
-
-
-
-4) asmenys, anksčiau atlikę laisvės atėmimo bausmę, – atskirai nuo asmenų, nebuvusių laisvės atėmimo vietose;
-
-
-
-
-5) asmenys, kaltinami arba įtariami padarę sunkius nusikaltimus, – atskirai nuo kitų kalinamųjų;
-
-
-
-
-6) kalinamieji, iki suėmimo dirbę valstybės valdžios, valdymo ir teisėsaugos institucijose, – atskirai nuo kitų kalinamųjų;
-
-
-
-
-7) nuteistieji – atskirai nuo kitų kalinamųjų ir atsižvelgiant į pataisos darbų įstaigos režimo rūšį, nustatytą teismo nuosprendžiu;
-
-
-
-
-8) nuteistieji laisvės atėmimu iki gyvos galvos – atskirai nuo kitų kalinamųjų ir nuteistųjų.
-
-
-
-
-
-
-2. Nuteisti mirties bausme asmenys laikomi izoliuoti nuo visų kitų kalinamųjų ir nuteistųjų.
-
-
-
-
-3. Įtariamieji arba kalinamieji toje pačioje byloje laikomi atskirai. Bylą tiriančio pareigūno ar teismo, kurio žinioje yra byla, sutikimu tokie asmenys gali būti laikomi kartu.
-
-
-
-
-4. Nuteistieji, palikti tardymo izoliatoriuose ūkio darbams, laikomi atskirose patalpose.
+3. Tardymo izoliatorių darbuotojai, lankydami suimtuosius kamerose, taip pat jų asmeninio priėmimo metu prireikus išaiškina suimtiesiems jų laikymo šiose įstaigose tvarką ir sąlygas, teises, pareigas ir jiems taikomus draudimus.
  
 
 
@@ -357,110 +552,15 @@ KARDOMOJO KALINIMO VYKDYMAS
 
 
 
-13 straipsnis. Kalinamųjų teisės
+14 straipsnis. Suimtųjų teisė susitikti su gynėju
 
 
-1. Kalinamieji turi teisę:
+1. Suimtasis turi teisę susitikti su savo gynėju. Susitikimų skaičius ir trukmė neribojami.
 
 
-1) gauti raštišką informaciją apie asmenų, kuriems kardomąja priemone parinktas suėmimas, laikymo kardomojo kalinimo vietose tvarką ir sąlygas, jų teises bei pareigas;
 
 
-
-
-2) turėti su savimi įstatymus, su byla susijusius dokumentus ir užrašus;
-
-
-
-
-3) įstatymų nustatyta tvarka gauti teisinę pagalbą;
-
-
-
-
-4) susirašinėti, kreiptis su pasiūlymais, prašymais (pareiškimais) ir skundais į valstybės institucijas, visuomenines organizacijas ir pareigūnus šio įstatymo 15 straipsnyje nustatyta tvarka;
-
-
-
-
-5) prokuroro, tardytojo, kvotėjo ar teismo, kurių žinioje yra byla, leidimu susitikti su visuomenės informavimo priemonių atstovais;
-
-
-
-
-6) dalyvauti Respublikos Prezidento, Seimo rinkimuose, taip pat referendumuose ir visuotinėse apklausose (plebiscituose);
-
-
-
-
-7) tenkinti savo religinius poreikius, dalyvauti kardomojo kalinimo vietose atliekamose apeigose ir turėti su savimi savo tikybos religinių knygų bei reikmenų;
-
-
-
-
-8) gauti nemokamą medicinos pagalbą;
-
-
-
-
-9) įstatymų nustatyta tvarka sudarinėti civilinius sandorius, išskyrus šio įstatymo 22 straipsnio pirmosios dalies 5 punkte numatytus atvejus;
-
-
-
-
-10) sudaryti santuoką;
-
-
-
-
-11) kasdien vieną valandą pasivaikščioti. Nepilnamečiams ir moterims suteikiami du vienos valandos pasivaikščiojimai per dieną;
-
-
-
-
-12) tinkamai maitintis;
-
-
-
-
-13) gauti siuntinių arba perdavimų, banderolių su spauda ir piniginių perlaidų;
-
-
-
-
-14) pirkti ne grynaisiais pinigais maisto produktų ir būtiniausių reikmenų;
-
-
-
-
-15) naudotis savo drabužiais, avalyne bei patalyne;
-
-
-
-
-16) skaityti, rašyti, žaisti neazartinius žaidimus;
-
-
-
-
-17) naudotis giminaičių arba artimųjų perduotais portatyviniais televizoriais bei tranzistoriniais radijo imtuvais;
-
-
-
-
-18) turėti laikrodžių, pagamintų ne iš brangiųjų metalų.
-
-
-
-
-
-
-2. Teisė gauti siuntinių ir perdavimų, taip pat pirktis maisto produktų ir būtiniausių reikmenų asmenims, atliekantiems bausmę laisvės atėmimo vietose, jeigu jiems dėl kitos bylos kardomąja priemone parinktas suėmimas, yra apribojama remiantis taisyklėmis, kurias numato jiems paskirta pataisos darbų įstaigos režimo rūšis.
-
-
-
-
-3. Kardomojo kalinimo vietose laikomi kitų valstybių piliečiai taip pat turi teisę per Lietuvos Respublikos užsienio reikalų ministeriją palaikyti ryšius su savo valstybių diplomatinėmis atstovybėmis ir konsulinėmis įstaigomis bei tarptautinėmis organizacijomis.
+2. Suimtųjų susitikimų su savo gynėju tvarka nustatyta Tardymo izoliatorių vidaus tvarkos taisyklėse.
  
 
 
@@ -468,10 +568,35 @@ KARDOMOJO KALINIMO VYKDYMAS
 
 
 
-14 straipsnis. Kalinamojo teisė matytis su gynėju
+15 straipsnis. Suimtųjų teisė teikti pasiūlymus, prašymus (pareiškimus), peticijas ir skundus
 
 
-Nuo to momento, kai gynėjui leidžiama dalyvauti byloje, kalinamasis turi teisę įstatymų nustatyta tvarka matytis su savo gynėju be pašaliečių. Šių pasimatymų skaičius ir trukmė neribojami.
+1. Suimtieji turi teisę kreiptis su pasiūlymais, prašymais (pareiškimais), peticijomis ir skundais į valstybės ir savivaldybių institucijų pareigūnus ir tarnautojus, nevyriausybines organizacijas ir tarptautines institucijas.
+
+
+
+
+2. Nusikalstamą veiką tiriančiam ikiteisminio tyrimo pareigūnui ar prokurorui, teismui, kurio žinioje yra byla, Seimo kontrolieriui, teisingumo ministrui, kitų valstybės ir savivaldybių institucijų pareigūnams ir tarnautojams, tarptautinėms institucijoms, kurių kompetenciją priimti asmenų, kuriems suėmimas vykdomas Lietuvoje, pareiškimus yra pripažinusi Lietuvos Respublika, adresuoti pasiūlymai, prašymai (pareiškimai), peticijos ir skundai netikrinami ir turi būti išsiunčiami per vieną darbo dieną nuo jų gavimo momento.
+
+
+
+
+3. Atsakymai į suimtųjų pasiūlymus, prašymus (pareiškimus), peticijas ir skundus per dvi darbo dienas nuo jų gavimo momento pasirašytinai įteikiami suimtiesiems.
+
+
+
+
+4. Suimtiesiems draudžiama siųsti anoniminius skundus valstybės ir savivaldybių institucijoms ir pareigūnams. Be to, draudžiama kreiptis į valstybės ir savivaldybių institucijų pareigūnus bei tarnautojus ir nevyriausybines organizacijas su pasiūlymais, prašymais (pareiškimais), peticijomis ir skundais kitų suimtųjų ar nuteistųjų vardu arba ne per tardymo izoliatoriaus administraciją, išskyrus šio straipsnio 5 dalyje numatytus atvejus.
+
+
+
+
+5. Suimtieji turi teisę tiesiogiai kreiptis į Respublikos Prezidentą, Seimo ar Vyriausybės narį, prokurorą, Seimo kontrolierių arba Teisingumo ministerijos atstovą šių asmenų lankymosi tardymo izoliatoriuose metu.
+
+
+
+
+6. Jeigu suimtasis asmeninėje sąskaitoje neturi pinigų vokams, pašto ženklams, rašymo priemonėms ir popieriui įsigyti ir jų prašo, tardymo izoliatoriaus administracija privalo aprūpinti jais suimtąjį iš šios įstaigos lėšų.
  
 
 
@@ -479,48 +604,25 @@ Nuo to momento, kai gynėjui leidžiama dalyvauti byloje, kalinamasis turi teis�
 
 
 
-15 straipsnis. Kalinamojo teisė susirašinėti, teikti pasiūlymus, prašymus (pareiškimus) ir skundus
+16 straipsnis. Suimtųjų teisė susirašinėti
 
 
-1. Kalinamieji turi teisę susirašinėti su giminaičiais ir kitais asmenimis. Kardomojo kalinimo vietos administracija gautus kalinamojo vardu laiškus jam įteikia, taip pat kalinamųjų įteiktus laiškus išsiunčia adresatams nė vėliau kaip per tris darbo dienas nuo gavimo arba įteikimo. Kalinamojo siunčiami laiškai, išskyrus šio straipsnio antrojoje dalyje numatytus atvejus, taip pat jo vardu gauti laiškai gali būti cenzūruojami tik bylą tiriančio pareigūno, prokuroro nutarimu ar teismo nutartimi.
-
-
-
-
-2. Bylą tiriančiam pareigūnui, teismui, kurio žinioje yra byla, Seimo kontrolieriui, prokurorui, valstybės ir savivaldybių institucijoms, teisingumo ministrui ir Europos žmogaus teisių teismui bei kitoms kompetentingoms tarptautinėms institucijoms adresuoti pasiūlymai, prašymai (pareiškimai) ir skundai necenzūruojami ir išsiunčiami per vieną darbo dieną nuo gavimo momento.
+1. Suimtieji turi teisę siųsti giminaičiams ir kitiems asmenims ir gauti iš jų neribotą kiekį laiškų. Tardymo izoliatoriaus administracija suimtojo vardu gautus laiškus jam įteikia, taip pat suimtųjų įteiktus laiškus išsiunčia adresatams ne vėliau kaip per dvi darbo dienas nuo laiško gavimo dienos.
 
 
 
 
-3. Kalinamieji turi teisę tiesiogiai kreiptis į Respublikos Prezidentą, Seimo ar Vyriausybės narį, Seimo kontrolierių, prokurorą arba Teisingumo ministerijos atstovą jų lankymosi kardomojo kalinimo vietose metu.
+2. Suimtųjų gaunami ir siunčiami laiškai ikiteisminio tyrimo teisėjo ar teismo nutartimi gali būti tikrinami, kad būtų užkirstas kelias nusikalstamoms veikoms ar kitiems teisės pažeidimams arba apsaugotos kitų asmenų teisės ir laisvės. Ikiteisminio tyrimo teisėjo ar teismo nutartyje turi būti nurodomi laiškų tikrinimo pagrindai, trukmė, būdas, asmenys, kurių siunčiami ar gaunami laiškai bus tikrinami, ir kitos aplinkybės, dėl kurių laiškus būtina tikrinti.
 
 
 
 
-4. Kalinamiesiems draudžiama siųsti anoniminius ar kolektyvinius prašymus (pareiškimus) ir skundus. Jiems taip pat draudžiama kreiptis į valstybės ir savivaldybių institucijų pareigūnus, tarnautojus bei visuomenines organizacijas su pasiūlymais, prašymais (pareiškimais) ir skundais už kitus kalinamuosius arba ne per kardomojo kalinimo vietos administraciją.
+3. Suimtųjų susirašinėjimas su gynėjais netikrinamas.
 
 
 
 
-5. Kardomojo kalinimo vietos administracija iš valstybės ir savivaldybių institucijų bei visuomeninių organizacijų gautus atsakymus, adresuotus kalinamiesiems, jiems įteikia per tris darbo dienas nuo gavimo. Europos žmogaus teisių teismo bei kitų kompetentingų tarptautinių institucijų atsakymai, adresuoti kalinamiesiems, jiems įteikiami ne vėliau kaip per vieną darbo dieną nuo gavimo.
-
-
-
-
-6. Siunčiamų giminaičiams ir kitiems asmenims laiškų pašto išlaidas apmoka patys kalinamieji.
-
-
-Straipsnio pakeitimai:
-Nr. IX-431, 2001-07-05, Žin., 2001, Nr. 62-2230 (2001-07-18), i. k. 1011010ISTA00IX-431
- 
-
-
-
-
-16 straipsnis. Pasimatymų leidimo kalinamiesiems tvarka
-
-
-Kalinamiesiems pasimatyti su giminaičiais arba kitais asmenimis leidžia kardomojo kalinimo vietos administracija tik bylą tiriančio pareigūno arba teismo, kurio žinioje yra byla, sutikimu. Pasimatymo trukmė nustatoma iki dviejų valandų. Pasimatymai vyksta Kardomojo kalinimo vietų vidaus tvarkos taisyklių nustatyta tvarka.
+4. Siunčiamų laiškų pašto išlaidas apmoka patys suimtieji. Jeigu suimtasis pageidauja susirašinėti su savo gynėju, bet asmeninėje sąskaitoje neturi pinigų vokams, pašto ženklams, rašymo priemonėms ir popieriui įsigyti ir jų prašo, tardymo izoliatoriaus administracija privalo aprūpinti jais suimtąjį iš šios įstaigos lėšų.
  
 
 
@@ -528,25 +630,15 @@ Kalinamiesiems pasimatyti su giminaičiais arba kitais asmenimis leidžia kardom
 
 
 
-17 straipsnis. Kalinamųjų teisė į trumpalaikį išvykimą už kardomojo kalinimo vietos ribų
+17 straipsnis. Suimtųjų teisė susitikti su žurnalistais
 
 
-1. Kalinamiesiems gali būti leidžiama išvykti už kardomojo kalinimo vietos ribų ne ilgiau kaip penkioms paroms dėl artimo giminaičio mirties ar sunkios ligos, gresiančios gyvybei.
-
-
-
-
-2. Leidimą išvykti, raštu suderinęs su bylą tiriančiu pareigūnu ar teismu, kurio žinioje yra byla, duoda kardomojo kalinimo vietos direktorius, atsižvelgdamas į kalinamojo asmenybę ir jo elgesį kardomojo kalinimo vietoje. Laikas, kurį kalinamasis buvo išvykęs už kardomojo kalinimo vietos ribų, įskaitomas į kardomojo kalinimo (suėmimo) laiką. Kelionpinigius moka pats kalinamasis arba jo artimieji.
+1. Ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytiniu sutikimu suimtieji turi teisę susitikti su žurnalistais.
 
 
 
 
-3. Pilnamečiai kalinamieji bylą tiriančio pareigūno ar teismo, kurio žinioje yra byla, nurodymu vyksta su apsauga. Kalinamieji iki 18 metų vyksta su palyda.
-
-
-
-
-4. Tvarką, kuria kalinamiesiems leidžiama išvykti už kardomojo kalinimo vietos ribų, nustato Kardomojo kalinimo vietų vidaus tvarkos taisyklės.
+2. Šio įstatymo 12 straipsnio 2 dalies 1, 2 ir 4 punktuose nurodytiems asmenims, norintiems susitikti su žurnalistais, nereikia gauti ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinio sutikimo.
  
 
 
@@ -554,50 +646,15 @@ Kalinamiesiems pasimatyti su giminaičiais arba kitais asmenimis leidžia kardom
 
 
 
-18 straipsnis. Kalinamųjų materialinis buitinis aprūpinimas
+18 straipsnis. Suimtųjų teisė dalyvauti rinkimuose, referendume arba visuotinėje apklausoje (plebiscite)
 
 
-1. Kalinamieji laikomi kardomojo kalinimo vietų bendrose, skirtose ne daugiau kaip keturiems asmenims kamerose arba vienutėse, kuriose užtikrintos reikiamos gyvenimo ir buities sąlygos, atitinkančios Lietuvos higienos normas. Kameroje turi būti langas, užtikrinantis natūralią dienos šviesą ir patalpos ventiliaciją.
-Straipsnio dalies pakeitimai:
-Nr. IX-431, 2001-07-05, Žin., 2001, Nr. 62-2230 (2001-07-18), i. k. 1011010ISTA00IX-431
- 
+1. Suimtieji turi teisę dalyvauti rinkimuose ir referendume Lietuvos Respublikos įstatymų nustatyta tvarka.
 
 
 
 
-2. Nėščioms moterims, žindyvėms, nepilnamečiams, taip pat ligoniams sudaromos geresnės gyvenimo ir buities sąlygos.
-
-
-
-
-3. Kalinamiesiems turi būti suteikta galimybė naudotis tualetu higienos ir nežeminančiomis žmogaus orumo sąlygomis.
-
-
-
-
-4. Ne rečiau kaip vieną kartą per savaitę kalinamiesiems turi būti suteikta galimybė pasinaudoti pirtimi, gauti išskalbtą patalynę ir apatinius rūbus bei nuolat naudotis kirpėjo paslaugomis. Kardomojo kalinimo vietos administracijai draudžiama reikalauti, kad kalinamasis nusikirptų plikai.
-
-
-
-
-5. Prireikus kalinamiesiems pagal sezoną išduodami nustatyto pavyzdžio drabužiai ir avalynė nemokamai.
-
-
-
-
-6. Kalinamieji maistą gauna pagal fiziologines mitybos normas nemokamai.
-
-
-
-
-7. Asmenims, paleidžiamiems iš kardomojo kalinimo vietos, kelionės į gyvenamąją arba darbo vietą išlaidas apmoka, aprūpina juos maisto produktais arba pinigais kelionei, taip pat skiria vienkartinę iki minimalaus gyvenimo lygio dydžio piniginę pašalpą kardomojo kalinimo vietos administracija Vyriausybės nustatyta tvarka.
-
-
-
-
-8. Kalinamųjų mitybos ir materialinio buitinio aprūpinimo normas nustato Vyriausybė arba jos įgaliota institucija 
-Straipsnio dalies pakeitimai:
-Nr. IX-2058, 2004-03-16, Žin., 2004, Nr. 47-1549 (2004-03-30), i. k. 1041010ISTA0IX-2058
+2. Užsieniečių, kuriems suėmimas vykdomas Lietuvos Respublikoje, dalyvavimo jų valstybėse vykstančiuose rinkimuose, referendume arba visuotinėje apklausoje (plebiscite) klausimai sprendžiami Lietuvos Respublikos tarptautinių sutarčių nustatyta tvarka.
  
 
 
@@ -605,36 +662,10 @@ Nr. IX-2058, 2004-03-16, Žin., 2004, Nr. 47-1549 (2004-03-30), i. k. 1041010IST
 
 
 
-19 straipsnis. Kalinamųjų medicinos aptarnavimas
+19 straipsnis. Suimtųjų teisė sudaryti civilinius sandorius
 
 
-1. Asmenų, laikomų kardomojo kalinimo vietose, sveikatos priežiūra organizuojama ir atliekama remiantis sveikatos apsaugos įstatymais. Kalinamiesiems turi būti užtikrintas tokios pat kokybės ir lygio gydymas, koks užtikrinamas nekalinamiems asmenims.
-
-
-
-
-2. Kardomojo kalinimo vietose organizuojamos sveikatos priežiūros tarnybos, kurių struktūrą, etatų skaičių ir veiklos tvarką nustato Sveikatos apsaugos ir Teisingumo ministerijos. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-1634, 2000-04-18, Žin., 2000, Nr. 39-1090 (2000-05-12), i. k. 1001010ISTAIII-1634
- 
-
-
-
-
-3. Privaloma nuodugniai patikrinti naujai priimtų į kardomojo kalinimo vietas asmenų sveikatą ir psichiką.
-
-
-
-
-4. Jei kalinamajam reikalinga specializuota neatidėliotina medicinos pagalba, kurią suteikti kardomojo kalinimo vietos sveikatos priežiūros tarnyboje arba laisvės atėmimo vietos gydymo įstaigose nėra galimybių, ji gali būti suteikta Sveikatos apsaugos ministerijos reguliavimo sričiai priklausančiose specializuotose sveikatos priežiūros įstaigose užtikrinus kalinamųjų apsaugą. Tokios medicinos pagalbos suteikimo tvarką nustato Sveikatos apsaugos ir Teisingumo ministerijos.
-Straipsnio dalies pakeitimai:
-Nr. VIII-1634, 2000-04-18, Žin., 2000, Nr. 39-1090 (2000-05-12), i. k. 1001010ISTAIII-1634
- 
-
-
-
-
-5. Asmenų, laikomų kardomojo kalinimo vietose, sveikatos priežiūrą organizuoja Sveikatos apsaugos ministerija.
+Civilinio kodekso nustatyta tvarka suimtieji turi teisę disponuoti savo turtu, esančiu ne tardymo izoliatoriuje, taip pat per atstovą sudaryti sandorius, išskyrus sandorius, kurie dėl savo pobūdžio gali būti sudaromi tik asmeniškai, ir šiame įstatyme nustatytas išimtis.
  
 
 
@@ -642,20 +673,25 @@ Nr. VIII-1634, 2000-04-18, Žin., 2000, Nr. 39-1090 (2000-05-12), i. k. 1001010I
 
 
 
-20 straipsnis. Kalinamųjų darbo organizavimas
+20 straipsnis. Suimtųjų teisė sudaryti santuoką
 
 
-1. Kalinamieji gali dirbti tik kardomojo kalinimo vietos teritorijoje, jeigu jie sutinka ir leidžia bylą tiriantis pareigūnas arba teismas, kurio žinioje yra byla.
-
-
-
-
-2. Kalinamiesiems draudžiamų darbų ir pareigų sąrašas pateiktas šio įstatymo 2 priedėlyje.
+1. Suimtieji turi teisę Civilinio kodekso nustatyta tvarka sudaryti santuoką.
 
 
 
 
-3. Kalinamųjų darbas apmokamas pagal jo kiekį ir kokybę.
+2. Apie suimtojo, išskyrus šio įstatymo 12 straipsnio 2 dalies 1, 2 ir 4 punktuose nurodytus asmenis, prašymą suteikti jam galimybę sudaryti santuoką tardymo izoliatoriaus administracija privalo nedelsdama raštu pranešti šio suimtojo ikiteisminiam tyrimui vadovaujančiam ar jį atliekančiam prokurorui arba teismui, kurio žinioje yra byla.
+
+
+
+
+3. Suimtojo santuoka su kitu asmeniu sudaroma tardymo izoliatoriuje.
+
+
+
+
+4. Santuokos sudarymo tardymo izoliatoriuose tvarka nustatyta Tardymo izoliatorių vidaus tvarkos taisyklėse.
  
 
 
@@ -663,25 +699,25 @@ Nr. VIII-1634, 2000-04-18, Žin., 2000, Nr. 39-1090 (2000-05-12), i. k. 1001010I
 
 
 
-21 straipsnis. Kalinamųjų materialinė atsakomybė
+21 straipsnis. Suimtųjų teisė atlikti religines apeigas
 
 
-1. Kalinamieji atsako už materialinę žalą valstybei, padarytą kardomojo kalinimo vietose:
-
-
-1) už žalą, padarytą atliekant darbo pareigas, – darbo įstatymų numatytu dydžiu;
+1. Suimtieji turi teisę dienotvarkėje nustatytu laisvalaikio metu tardymo izoliatoriuose vieni arba kartu su kitais suimtaisiais atlikti religines apeigas.
 
 
 
 
-2) už žalą, padarytą kitokiais veiksmais, – civilinių įstatymų numatytu dydžiu.
+2. Tardymo izoliatoriaus administracija privalo užtikrinti, kad religinės apeigos netrukdytų kitų suimtųjų poilsiui ir kad atliekant šias apeigas būtų laikomasi šio įstatymo 10 straipsnyje nustatytų reikalavimų.
 
 
 
 
+3. Suimtųjų pageidavimu, suderinus su tardymo izoliatoriaus administracija, religinėms apeigoms atlikti kviečiamas dvasininkas.
 
 
-2. Kalinamųjų padaryta materialinė žala išieškoma Civilinio proceso kodekso nustatyta tvarka.
+
+
+4. Religinių apeigų atlikimo tardymo izoliatoriuose tvarka nustatyta Tardymo izoliatorių vidaus tvarkos taisyklėse.
  
 
 
@@ -689,85 +725,25 @@ Nr. VIII-1634, 2000-04-18, Žin., 2000, Nr. 39-1090 (2000-05-12), i. k. 1001010I
 
 
 
-22 straipsnis. Kalinamųjų pareigos
+22 straipsnis. Suimtųjų teisė pasimatyti
 
 
-1. Kalinamieji privalo:
-
-
-1) laikytis kardomojo kalinimo vietose nustatytos tvarkos;
+1. Suimtiesiems pasimatymų su giminaičiais ir kitais asmenimis skaičius neribojamas, tačiau pasimatymą tardymo izoliatoriaus administracija leidžia tik norinčio pasimatyti suimtojo ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytiniu sutikimu. Šis sutikimas gali būti vienkartinis arba daugkartinis. Jei ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, nesutinka leisti suimtajam pasimatyti su giminaičiais ir kitais asmenimis, suimtajam ir tardymo izoliatoriaus administracijai turi būti pateikiamas motyvuotas sprendimas.
 
 
 
 
-2) vykdyti teisėtus administracijos reikalavimus;
+2. Vienas suimtojo pasimatymas gali trukti ne ilgiau kaip dvi valandas.
 
 
 
 
-3) administracijos paskyrimu eilės tvarka budėti kamerose;
+3. Šio įstatymo 12 straipsnio 2 dalies 1, 2 ir 4 punktuose nurodytiems asmenims, norintiems pasimatyti, nereikia gauti ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinio sutikimo. Šie asmenys turi teisę į vieną pasimatymą.
 
 
 
 
-4) tausoti kardomojo kalinimo vietos turtą.
-
-
-
-
-
-
-2. Kalinamiesiems draudžiama:
-
-
-1) organizuoti piketus, mitingus ir demonstracijas ir juose dalyvauti;
-
-
-
-
-2) steigti politines partijas bei visuomenines organizacijas ir dalyvauti jų veikloje;
-
-
-
-
-3) kontaktuoti ir bendrauti su asmenimis, laikomais kitose kamerose;
-
-
-
-
-4) vartoti alkoholinius gėrimus arba narkotikus, vartoti be gydytojo leidimo medikamentus, naudoti toksines priemones;
-
-
-
-
-5) pirkti, parduoti, keisti, dovanoti ar kitaip perleisti tiek savo, tiek ir valstybės daiktus kitiems kalinamiesiems, nuteistiesiems ar kardomojo kalinimo vietų darbuotojams; taip pat atlikti mokamas ar kitaip atlyginamas paslaugas tiek kitiems kalinamiesiems ar nuteistiesiems, tiek ir kardomojo kalinimo vietų darbuotojams;
-
-
-
-
-6) daryti tatuiruotes sau ir kitiems asmenims;
-
-
-
-
-7) platinti be kardomojo kalinimo vietos administracijos leidimo rankraščius ir kitus leidinius;
-
-
-
-
-8) kurstyti kitus kalinamuosius ar nuteistuosius atsisakyti vykdyti teisėtus administracijos reikalavimus.
-
-
-
-
-
-
-3. Kalinamųjų pilietybės klausimai kardomojo kalinimo (suėmimo) metu nesprendžiami.
-
-
-
-
-4. Kalinamieji, nesilaikantys jiems nustatytų pareigų ir draudimų, atsako pagal šį ir kitus Lietuvos Respublikos įstatymus.
+4. Pasimatymų tvarka nustatyta Tardymo izoliatorių vidaus tvarkos taisyklėse.
  
 
 
@@ -775,35 +751,20 @@ Nr. VIII-1634, 2000-04-18, Žin., 2000, Nr. 39-1090 (2000-05-12), i. k. 1001010I
 
 
 
-23 straipsnis. Kalinamųjų skatinimo priemonės
+23 straipsnis. Suimtųjų teisė paskambinti telefonu
 
 
-1. Kalinamiesiems, jeigu jie dorai elgiasi, kardomojo kalinimo vietos administracija gali skirti šias skatinimo priemones:
-
-
-1) padėką;
+1. Suimtiesiems telefoninių pokalbių su giminaičiais, sutuoktiniu ar sugyventiniu skaičius neribojamas, tačiau telefoninį pokalbį tardymo izoliatoriaus administracija leidžia tik norinčio paskambinti telefonu suimtojo ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytiniu sutikimu. Šis sutikimas gali būti vienkartinis arba daugkartinis. Jei ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, nesutinka leisti suimtajam paskambinti, suimtajam ir tardymo izoliatoriaus administracijai turi būti pateikiamas motyvuotas sprendimas. Šio įstatymo 12 straipsnio 2 dalies 1, 2 ir 4 punktuose nurodytiems asmenims, norintiems paskambinti telefonu, nereikia gauti ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinio sutikimo.
 
 
 
 
-2) pirmiau paskirtos nuobaudos panaikinimą prieš terminą;
+2. Suimtajam paskambinti telefonu leidžiama, jeigu jis tuo metu yra mokus arba naudojasi ryšio paslauga kalbėti telefonu kito abonento sąskaita. Vienas pokalbis telefonu negali trukti ilgiau kaip 15 minučių. Telefoninio pokalbio išlaidas, kai nesinaudojama ryšio paslauga kalbėti telefonu kito abonento sąskaita, apmoka pats suimtasis.
 
 
 
 
-3) pasivaikščiojimo trukmės pailginimą;
-
-
-
-
-4) pasimatymo trukmės pailginimą.
-
-
-
-
-
-
-2. Nuteistiesiems laisvės atėmimu asmenims taip pat gali būti skiriamos skatinimo priemonės ir nuobaudos, numatytos Lietuvos Respublikos pataisos darbų įstatymuose.
+3. Šiame straipsnyje numatytos suimtųjų teisės paskambinti telefonu įgyvendinimo tvarka nustatyta Tardymo izoliatorių vidaus tvarkos taisyklėse.
  
 
 
@@ -811,35 +772,25 @@ Nr. VIII-1634, 2000-04-18, Žin., 2000, Nr. 39-1090 (2000-05-12), i. k. 1001010I
 
 
 
-24 straipsnis. Kalinamiesiems skiriamos nuobaudos
+24 straipsnis. Suimtųjų teisė gauti pašto ar perduodamus siuntinius ir smulkiuosius paketus su spauda
 
 
-1. Kalinamiesiems, kurie pažeidžia režimo reikalavimus arba nevykdo pareigų, kardomojo kalinimo vietos administracija gali skirti šias nuobaudas:
-
-
-1) įspėjimą arba papeikimą;
+1. Suimtieji turi teisę per tris mėnesius gauti vieną pašto ar perduodamą drabužių, avalynės siuntinį ir neribotą kiekį smulkiųjų paketų su spauda.
 
 
 
 
-2) budėjimą be eilės patalpai tvarkyti;
+2. Vienas pašto siuntinys neturi sverti daugiau kaip dešimt kilogramų, o perduodamas siuntinys – daugiau kaip penkiolika kilogramų.
 
 
 
 
-3) atėmimą vienam mėnesiui teisės pirkti maisto produktus ir gauti siuntinius arba perdavimus.
+3. Tardymo izoliatoriaus administracija gali priimti labdaros siuntas.
 
 
 
 
-
-
-2. Kalinamieji, kurie piktybiškai pažeidinėja režimo reikalavimus, motyvuotu kardomojo kalinimo vietos direktoriaus nutarimu gali būti uždaryti į karcerį iki dešimties parų, o nepilnamečiai – iki penkių parų. Nėščios moterys ir nepilnametės į karcerį neuždaromos, o kitos – tik išimtiniais atvejais.
-
-
-
-
-3. Kalinamiesiems skiriamos nuobaudos turi atitikti nusižengimo sunkumą ir pobūdį. Skiriant nuobaudą negali būti siekiama suteikti kalinamiesiems fizinių kančių arba žeminti žmogaus orumą.
+4. Pašto ar perduodamų drabužių, avalynės siuntinių, smulkiųjų paketų su spauda priėmimo ir įteikimo tardymo izoliatoriuose laikomiems asmenims tvarka ir labdaros siuntų priėmimo ir paskirstymo šiems asmenims tvarka nustatyta Tardymo izoliatorių vidaus tvarkos taisyklėse.
  
 
 
@@ -847,10 +798,25 @@ Nr. VIII-1634, 2000-04-18, Žin., 2000, Nr. 39-1090 (2000-05-12), i. k. 1001010I
 
 
 
-25 straipsnis. Pareigūnai, skiriantys skatinimo priemones ir nuobaudas
+25 straipsnis. Suimtųjų teisė gauti ir siųsti pinigines perlaidas
 
 
-Skatinimo priemones ir nuobaudas skiria kardomojo kalinimo vietos direktorius ir jo pavaduotojai. Jų įgalinimus bei skyrimo tvarką nustato Kardomojo kalinimo vietų vidaus tvarkos taisyklės.
+1. Suimtiesiems leidžiama gauti pinigines perlaidas ir siųsti jas sutuoktiniams, sugyventiniams ir artimiesiems giminaičiams, o tardymo izoliatoriaus direktoriaus leidimu – kitiems asmenims.
+
+
+
+
+2. Perlaidomis gauti pinigai įrašomi į suimtojo asmeninę sąskaitą.
+
+
+
+
+3. Tardymo izoliatoriaus administracija privalo priimti suimtajam atneštus grynuosius pinigus.
+
+
+
+
+4. Piniginių perlaidų siuntimo, perlaidomis gautų pinigų įrašymo į asmenines sąskaitas ir grynųjų pinigų priėmimo tvarka nustatyta Tardymo izoliatorių vidaus tvarkos taisyklėse.
  
 
 
@@ -858,15 +824,430 @@ Skatinimo priemones ir nuobaudas skiria kardomojo kalinimo vietos direktorius ir
 
 
 
-26 straipsnis. Kalinamųjų laikymo kardomojo kalinimo vietose trukmė
+26 straipsnis. Suimtųjų teisė įsigyti literatūros ir rašomųjų reikmenų
 
 
-1. Asmenys, kuriems kardomąja priemone parinktas suėmimas, kardomojo kalinimo vietose negali būti laikomi ilgiau negu Baudžiamojo proceso kodekse numatyti terminai.
+1. Suimtiesiems leidžiama už asmeninėse sąskaitose turimus pinigus įsigyti neribotą kiekį literatūros ir rašomųjų reikmenų, taip pat prenumeruoti laikraščius ir žurnalus.
 
 
 
 
-2. Nuteistieji, kuriems teismo nuosprendis įsiteisėjo ir kurie turi būti pasiųsti etapu į bausmės atlikimo vietą, gali būti laikomi tardymo izoliatoriuose ne ilgiau kaip dešimt dienų, išskyrus šio įstatymo 6 straipsnio antrosios dalies 2 punkte numatytą atvejį.
+2. Teisę prenumeruoti suimtiesiems laikraščius ir žurnalus turi jų sutuoktiniai, sugyventiniai ir artimieji giminaičiai, taip pat kiti fiziniai ir juridiniai asmenys.
+
+
+
+
+3. Suimtiesiems draudžiama gauti, įsigyti, laikyti, platinti arba prenumeruoti smurtą ar žiaurumą propaguojančius, taip pat pornografinius leidinius.
+ 
+
+
+
+
+
+
+27 straipsnis. Suimtųjų teisė naudotis televizoriais, radijo imtuvais, kompiuteriais, kompiuterinių žaidimų aparatais ir kitais daiktais
+
+
+1. Suimtiesiems leidžiama naudotis sutuoktinio, sugyventinio arba artimųjų giminaičių perduotais televizoriais, radijo imtuvais, kompiuteriais, kompiuterinių žaidimų aparatais ir kitais Tardymo izoliatorių vidaus tvarkos taisyklėse nurodytais daiktais.
+
+
+
+
+2. Naudojimosi šio straipsnio 1 dalyje nurodytais daiktais tvarka nustatyta Tardymo izoliatorių vidaus tvarkos taisyklėse.
+
+
+
+
+3. Iš suimtųjų, sistemingai pažeidinėjančių naudojimosi šio straipsnio 1 dalyje nurodytais daiktais tvarką, šie daiktai motyvuotu tardymo izoliatoriaus direktoriaus nutarimu paimami ir saugomi tardymo izoliatoriuje. Paimti daiktai grąžinami juos perdavusiems asmenims pagal jų arba suimtojo rašytinį prašymą arba suimtajam, kai jis perkeliamas į areštinę ar pataisos įstaigą arba paleidžiamas iš tardymo izoliatoriaus.
+ 
+
+
+
+
+
+
+28 straipsnis. Suimtųjų teisė pirkti maisto produktų ir būtiniausių reikmenų
+
+
+1. Suimtiesiems leidžiama už asmeninėse sąskaitose turimus pinigus ne grynaisiais pinigais pirkti maisto produktų ir būtiniausių reikmenų Tardymo izoliatorių vidaus tvarkos taisyklių nustatyta tvarka.
+
+
+
+
+2. Tardymo izoliatoriuose laikomiems asmenims draudžiamų pirktis maisto produktų ir būtiniausių reikmenų sąrašas nustatytas Tardymo izoliatorių vidaus tvarkos taisyklėse.
+ 
+
+
+
+
+
+
+29 straipsnis. Suimtųjų teisė pasivaikščioti gryname ore
+
+
+1. Suimtieji turi teisę kasdien ne mažiau kaip vieną valandą pasivaikščioti gryname ore. Nepilnamečiams, nėščioms moterims ir ligoniams pagal gydytojų išvadą suteikiami du ne trumpesni kaip vienos valandos pasivaikščiojimai per dieną. Pasivaikščiojimo gryname ore trukmę įsakymu nustato tardymo izoliatoriaus direktorius.
+
+
+
+
+2. Suimtųjų pasivaikščiojimas vyksta dienos metu specialiai tam skirtoje tardymo izoliatoriaus teritorijoje, laikantis šio įstatymo 10 straipsnio reikalavimų. Pasivaikščiojimo gali nebūti arba jo trukmė gali būti sutrumpinama tik dėl nepalankių oro sąlygų, jei su tuo sutinka suimtasis.
+
+
+
+
+3. Pasivaikščiojimas gali būti nutrauktas, jei suimtasis pažeidžia Tardymo izoliatorių vidaus tvarkos taisyklių nustatytą pasivaikščiojimų tvarką.
+ 
+
+
+
+
+
+
+30 straipsnis. Suimtųjų teisė į trumpalaikę išvyką už tardymo izoliatoriaus ribų
+
+
+1. Suimtiesiems gali būti leidžiama išvykti už tardymo izoliatoriaus ribų ne ilgiau kaip penkioms paroms dėl sutuoktinio, sugyventinio ar artimojo giminaičio mirties ar sunkios ligos, gresiančios gyvybei, dėl gaivalinės nelaimės, padariusios didelę turtinę žalą suimtajam ar jo sutuoktiniui, sugyventiniui arba artimiesiems giminaičiams.
+
+
+
+
+2. Leidimą išvykti, gavęs suimtojo ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinį sutikimą, duoda tardymo izoliatoriaus direktorius, atsižvelgdamas į suimtojo asmenybę ir jo elgesį buvimo tardymo izoliatoriuje laiku. Jei ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, nesutinka leisti suimtajam išvykti už tardymo izoliatoriaus ribų, suimtajam ir tardymo izoliatoriaus administracijai turi būti pateikiamas motyvuotas sprendimas. Šio įstatymo 12 straipsnio 2 dalies 1, 2 ir 4 punktuose nurodytiems asmenims, norintiems išvykti, nereikia gauti ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinio sutikimo. Laikas, kurį suimtasis buvo išvykęs už tardymo izoliatoriaus ribų, įskaitomas į suėmimo laiką. Kelionės išlaidas apmoka pats suimtasis arba jo sutuoktinis, sugyventinis ar artimieji giminaičiai.
+
+
+
+
+3. Pilnamečiai suimtieji ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytiniu nurodymu vyksta su apsauga. Apsaugą atlieka tardymo izoliatorių pareigūnai. Pilnamečiai suimtieji, kuriems apsauga nebuvo paskirta, taip pat nepilnamečiai suimtieji vyksta su tardymo izoliatoriaus pareigūno ar kelių pareigūnų palyda. Pilnamečiams suimtiesiems išvykos metu gali būti uždedami antrankiai.
+
+
+
+
+4. Tvarka, kuria suimtiesiems leidžiama išvykti už tardymo izoliatoriaus ribų, nustatyta Tardymo izoliatorių vidaus tvarkos taisyklėse.
+ 
+
+
+
+
+
+
+31 straipsnis. Suimtųjų užsieniečių teisė palaikyti ryšius su savo valstybių atstovais
+
+
+Suimtieji užsieniečiai turi teisę palaikyti ryšius su savo valstybių diplomatinėmis atstovybėmis ir konsulinėmis įstaigomis.
+ 
+
+
+
+
+
+
+32 straipsnis. Suimtųjų pareigos ir jiems taikomi draudimai
+
+
+1. Suimtieji privalo:
+
+
+1) vykdyti įstatymų reikalavimus ir laikytis tardymo izoliatoriuje nustatytos vidaus tvarkos;
+
+
+
+
+2) vykdyti tardymo izoliatoriaus administracijos reikalavimus;
+
+
+
+
+3) tardymo izoliatoriaus administracijos paskyrimu eilės tvarka tvarkyti kameras, kuriose patys gyvena;
+
+
+
+
+4) tausoti tardymo izoliatoriaus turtą.
+
+
+
+
+
+
+2. Suimtiesiems draudžiama:
+
+
+1) organizuoti piketus, mitingus, demonstracijas ir kitus grupinius renginius be tardymo izoliatoriaus administracijos leidimo ir juose dalyvauti;
+
+
+
+
+2) bendrauti su asmenimis, laikomais kitose kamerose;
+
+
+
+
+3) įsigyti, gaminti, platinti, laikyti ar vartoti alkoholinius gėrimus ar jų surogatus, toksines, narkotines, psichotropines ar kitas psichiką veikiančias medžiagas, be gydytojo leidimo vartoti medikamentus;
+
+
+
+
+4) pirkti, parduoti, keisti, dovanoti ar kitaip perleisti tiek savo, tiek valstybės turtą kitiems suimtiesiems, nuteistiesiems ar tardymo izoliatoriaus administracijai, taip pat teikti mokamas ar kitaip atlyginamas paslaugas tiek kitiems suimtiesiems ar nuteistiesiems, tiek tardymo izoliatoriaus administracijai;
+
+
+
+
+5) daryti tatuiruotes sau ir kitiems asmenims;
+
+
+
+
+6) be tardymo izoliatoriaus administracijos leidimo platinti rankraščius ir leidinius;
+
+
+
+
+7) kurstyti kitus suimtuosius ir nuteistuosius atsisakyti vykdyti tardymo izoliatoriaus administracijos reikalavimus;
+
+
+
+
+8) reikalauti bet kokios paslaugos iš kito suimtojo ar nuteistojo, naudoti fizinį ar psichinį smurtą prieš kitus asmenis. 3. Suimtiesiems draudžiama turėti Bausmių vykdymo kodekso 1 priede nustatytus daiktus ir reikmenis.
+ 
+
+
+
+
+
+
+
+
+
+
+TREČIASIS SKIRSNIS 
+SUIMTIESIEMS SKIRIAMOS PASKATINIMO PRIEMONĖS IR NUOBAUDOS. SUIMTŲJŲ MATERIALINĖ ATSAKOMYBĖ
+ 
+
+
+33 straipsnis. Suimtiesiems skiriamos paskatinimo priemonės
+
+
+Už nepriekaištingą elgesį suimtiesiems gali būti skiriamos šios paskatinimo priemonės:
+
+
+1) paskirtos nuobaudos panaikinimas prieš terminą;
+
+
+
+
+2) pasivaikščiojimo laiko pailginimas iki trijų valandų;
+
+
+
+
+3) pasimatymo laiko pailginimas iki keturių valandų.
+ 
+
+
+
+
+
+
+
+
+34 straipsnis. Suimtiesiems skiriamos nuobaudos
+
+
+1. Už suėmimo vykdymo režimo pažeidimą suimtiesiems gali būti skiriamos šios nuobaudos:
+
+
+1) papeikimas;
+
+
+
+
+2) pasivaikščiojimo pailginto laiko panaikinimas;
+
+
+
+
+3) teisės pirkti maisto produktų atėmimas iki vieno mėnesio;
+
+
+
+
+4) uždarymas į drausmės izoliatorių iki dešimties parų šio straipsnio 2 dalyje nurodytais atvejais ir tvarka.
+
+
+
+
+
+
+2. Suimtieji, kurie per vienus metus padaro ne mažiau kaip tris režimo pažeidimus, taip pat šio įstatymo 32 straipsnio 1 dalies 2 punkte ir 2 dalies 1, 3, 7 ir 8 punktuose nurodytais atvejais motyvuotu tardymo izoliatoriaus direktoriaus nutarimu gali būti uždaryti į drausmės izoliatorių iki dešimties parų, o nepilnamečiai – iki penkių parų. Nėščioms moterims nuobauda – uždaryti į drausmės izoliatorių – neskiriama.
+ 
+
+
+
+
+
+
+35 straipsnis. Paskatinimo priemonių skyrimo suimtiesiems tvarka
+
+
+1. Šio įstatymo 33 straipsnyje numatytos paskatinimo priemonės skiriamos įgalioto pareigūno nutarimu arba įsakymu. Pareigūnų, turinčių teisę skirti paskatinimo priemones suimtiesiems, sąrašas ir jų įgaliojimai skiriant paskatinimo priemones nustatyti Tardymo izoliatorių vidaus tvarkos taisyklėse.
+
+
+
+
+2. Paskyręs nuobaudą pareigūnas, siekdamas paskatinti, suimtajam prieš terminą gali panaikinti vieną pirmiau paskirtą nuobaudą.
+
+
+
+
+3. Pasivaikščiojimo laikas paskatinimo tvarka pailginamas ne ilgiau kaip vieną mėnesį.
+
+
+
+
+4. Vienu nutarimu arba įsakymu galima pailginti vieno pasimatymo laiką.
+ 
+
+
+
+
+
+
+36 straipsnis. Nuobaudų skyrimo suimtiesiems tvarka
+
+
+1. Šio įstatymo 34 straipsnio 1 dalies 1 punkte numatyta nuobauda skiriama rašytiniu įgalioto pareigūno nutarimu arba įsakymu. Pareigūnų, turinčių teisę skirti nuobaudas suimtiesiems, sąrašas ir jų įgaliojimai skiriant nuobaudas nustatyti Tardymo izoliatorių vidaus tvarkos taisyklėse.
+
+
+
+
+2. Skiriant nuobaudas atsižvelgiama į pažeidimo padarymo aplinkybes, į paskirtų nuobaudų kiekį ir pobūdį, taip pat į suimtojo rašytinį pasiaiškinimą dėl pažeidimo. Skiriamos nuobaudos turi atitikti padaryto pažeidimo sunkumą ir pobūdį.
+
+
+
+
+3. Nuobauda gali būti skiriama tik pažeidimą padariusiam suimtajam. Už kelis vienu metu padarytus pažeidimus skiriama viena nuobauda.
+
+
+
+
+4. Nuobauda turi būti paskirta ne vėliau kaip per dešimt parų nuo pažeidimo atskleidimo dienos, o jei dėl pažeidimo buvo atliekamas tyrimas, – nuo tyrimo pabaigos dienos, bet ne vėliau kaip per mėnesį nuo pažeidimo padarymo dienos.
+
+
+
+
+5. Paskirta nuobauda vykdoma tuoj pat ir ne vėliau kaip per vieną mėnesį nuo jos paskyrimo. Nuobauda, kuri nebuvo pradėta vykdyti per vieną mėnesį nuo jos paskyrimo dienos, nebevykdoma.
+
+
+
+
+6. Šio įstatymo 34 straipsnio 1 dalies 2 ir 3 punktuose numatytos nuobaudos skiriamos tardymo izoliatoriaus direktoriaus nutarimu.
+
+
+
+
+7. Suimtasis turi teisę apskųsti jam paskirtą nuobaudą šio įstatymo 49 straipsnio nustatyta tvarka. Skundo pateikimas nuobaudos vykdymo nesustabdo. Aukštesnes pareigas einantis pareigūnas nuobaudą sušvelnina arba ją panaikina, jeigu ją paskyręs pareigūnas viršijo savo įgaliojimus, netinkamai įvertino visas pažeidimo padarymo aplinkybes arba jeigu nuobauda paskirta nepadariusiam pažeidimo suimtajam.
+
+
+
+
+8. Jeigu per šešis mėnesius, o nepilnamečiui – per tris mėnesius po nuobaudos atlikimo dienos (jeigu nuobauda nebuvo vykdoma – nuo jos paskyrimo dienos) nepaskiriama nauja nuobauda, laikoma, kad asmuo neturi nuobaudų.
+
+
+
+
+9. Suimtiesiems, kurie siunčiami į areštines ar pataisos įstaigas atlikti arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmes, paskirtos nuobaudos nebevykdomos.
+ 
+
+
+
+
+
+
+37 straipsnis. Nuobaudos – uždaryti suimtąjį į drausmės izoliatorių vykdymo tvarka
+
+
+1. Suimtojo, kuriam paskirta nuobauda – uždaryti į drausmės izoliatorių, sveikatą privalo patikrinti gydytojas ir tardymo izoliatoriaus direktoriaus nutarime pažymėti, ar suimtasis gali atlikti jam paskirtą nuobaudą.
+
+
+
+
+2. Ypatingais atvejais suėmimo vykdymo režimą pažeidęs suimtasis, kurį būtina nedelsiant izoliuoti ir kuris neturi aiškių traumos ar pavojingos ligos požymių, gali būti uždarytas į drausmės izoliatorių medicinos darbuotojo leidimu, tačiau gydytojas jo sveikatą turi patikrinti ne vėliau kaip per dvidešimt keturias valandas nuo uždarymo į drausmės izoliatorių.
+
+
+
+
+3. Jeigu gydytojas arba medicinos darbuotojas pateikia išvadą, kad paskirta nuobauda – uždaryti į drausmės izoliatorių gali pakenkti suimtojo sveikatai, šią nuobaudą paskyręs pareigūnas turi ją pakeisti švelnesne.
+
+
+
+
+4. Suimtajam, kuriam paskirta nuobauda – uždaryti į drausmės izoliatorių, atliekamos sanitarinės priežiūros procedūros.
+
+
+
+
+5. Kai kitomis priemonėmis negalima užkirsti kelio teisės pažeidimui ir būtina pažeidimą padariusį suimtąjį laikinai, kol nėra tardymo izoliatoriaus direktoriaus, izoliuoti, jis gali būti laikinai uždarytas į drausmės izoliatorių. Toks suimtojo laikinas izoliavimas galimas tik iki tardymo izoliatoriaus direktoriaus atvykimo į tardymo izoliatorių, bet ne ilgiau kaip dvidešimt keturias valandas ir nelaikomas nuobauda. Jeigu už padarytą pažeidimą paskiriama nuobauda – uždaryti į drausmės izoliatorių, laikino izoliavimo laikas įskaitomas į bendrą nutarimu paskirtos nuobaudos laiką.
+
+
+
+
+6. Jeigu gydytojas tardymo izoliatoriaus direktoriui pateikia išvadą, kad į drausmės izoliatorių uždarytas suimtasis negali toliau atlikti jam paskirtos nuobaudos, tardymo izoliatoriaus direktorius privalo nuobaudos vykdymą nutraukti.
+ 
+
+
+
+
+
+
+38 straipsnis. Suimtųjų laikymo drausmės izoliatoriuose sąlygos
+
+
+1. Drausmės izoliatoriuose laikomi suimtieji neturi teisės gauti pasimatymų, smulkiųjų paketų su spauda, paskambinti telefonu, įsigyti maisto produktų ir būtiniausių reikmenų, siųsti laiškų. Jiems neleidžiama naudotis stalo žaidimais, televizoriais, kompiuteriais, kompiuterinių žaidimų aparatais, radijo imtuvais ir kitais Tardymo izoliatorių vidaus tvarkos taisyklėse nurodytais daiktais.
+
+
+
+
+2. Drausmės izoliatoriuose laikomiems suimtiesiems leidžiama skaityti knygas, žurnalus, laikraščius ir kitą literatūrą ir kasdien vieną valandą pasivaikščioti gryname ore.
+
+
+
+
+3. Drausmės izoliatoriuose suimtieji laikomi po vieną.
+
+
+
+
+4. Už pažeidimus, padarytus drausmės izoliatoriuje, suimtiesiems gali būti skiriamos šio įstatymo 34 straipsnyje nurodytos nuobaudos, išskyrus pakartotinį uždarymą į drausmės izoliatorių.
+ 
+
+
+
+
+
+
+39 straipsnis. Suimtųjų materialinė atsakomybė
+
+
+1. Suimtieji atsako už jų buvimo tardymo izoliatoriuose metu valstybei padarytą žalą:
+
+
+1) už žalą, padarytą atliekant darbines pareigas, – tiek, kokio dydžio žalos atlyginimą nustato Lietuvos Respublikos darbo įstatymai;
+
+
+
+
+2) už žalą, padarytą kitokiais veiksmais, – tiek, kokio dydžio žalos atlyginimą nustato Civilinis kodeksas.
+
+
+
+
+
+
+2. Suimtųjų valstybei padarytos žalos atlyginimas išieškomas motyvuotu tardymo izoliatoriaus direktoriaus nutarimu, jeigu žalos dydis neviršija suimtojo asmeninėje sąskaitoje esančios pinigų sumos. Apie išieškojimą suimtajam pranešama pasirašytinai. Kitais atvejais žalos atlyginimas išieškomas bendrais Lietuvos Respublikos įstatymų nustatytais pagrindais ir tvarka.
+
+
+
+
+3. Valstybei padarytos žalos atlyginimo dalis, kurios pagal tardymo izoliatoriaus direktoriaus nutarimą išieškoti žalos atlyginimą paleistas iš tardymo izoliatoriaus asmuo iki galo neatlygino, išieškoma Civilinio proceso kodekso nustatyta tvarka.
  
 
 
@@ -877,53 +1258,44 @@ Skatinimo priemones ir nuobaudas skiria kardomojo kalinimo vietos direktorius ir
 
 
 KETVIRTASIS SKIRSNIS
-KARDOMOJO KALINIMO VIETŲ ADMINISTRACIJOS VEIKLA, SUSIDARIUS YPATINGAI SITUACIJAI, SPECIALIŲJŲ PRIEMONIŲ IR ŠAUNAMOJO GINKLO PANAUDOJIMAS
+SUIMTŲJŲ UŽIMTUMAS IR JŲ SOCIALINIŲ POREIKIŲ TENKINIMAS
  
 
 
-27 straipsnis. Kardomojo kalinimo vietų administracijos veiksmai, kalinamiesiems paskelbus badavimą ar atsisakius vykdyti teisėtus administracijos reikalavimus
+40 straipsnis. Suimtųjų įtraukimas į darbą
 
 
-1. Kardomojo kalinimo vietos direktorius arba jo pavaduotojas, kalinamiesiems paskelbus badavimą ar atsisakius vykdyti teisėtus administracijos reikalavimus, privalo nedelsdami išsiaiškinti badavimo ar atsisakymo vykdyti teisėtus administracijos reikalavimus priežastis, kalinamųjų keliamus reikalavimus bei šių reikalavimų teisėtumą. Kardomojo kalinimo vietos direktorius arba jo pavaduotojas privalo apie tai nedelsdami pranešti prokurorui ir imtis įmanomų priemonių teisėtiems kalinamųjų reikalavimams patenkinti.
-
-
-
-
-2. Jei kalinamųjų reikalavimai yra neteisėti, kardomojo kalinimo vietos direktorius arba jo pavaduotojas privalo pats apie tai pranešti kalinamiesiems ir pareikalauti nutraukti neteisėtus veiksmus.
+1. Tardymo izoliatoriuose, jei yra galimybė dirbti, suimtieji gali dirbti tik jų rašytiniu prašymu ir šių suimtųjų ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytiniu sutikimu. Jei ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, nesutinka leisti suimtajam dirbti, suimtajam ir tardymo izoliatoriaus administracijai turi būti pateikiamas motyvuotas sprendimas. Šio įstatymo 12 straipsnio 2 dalies 1, 2 ir 4 punktuose nurodytiems asmenims, norintiems dirbti, nereikia gauti ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinio sutikimo.
 
 
 
 
-3. Kalinamiesiems, nevykdantiems reikalavimo nutraukti neteisėtus veiksmus, gali būti skiriamos nuobaudos.
- 
+2. Suimtieji gali dirbti tik tardymo izoliatoriaus teritorijoje ir turi būti užtikrintas šio įstatymo 10 straipsnio reikalavimų vykdymas.
 
 
 
 
-
-
-28 straipsnis. Kardomojo kalinimo vietos direktoriaus teisės kalinamųjų grupinių veiksmų, šiurkščiai pažeidžiančių kardomojo kalinimo tvarką, atveju
-
-
-Kalinamųjų neteisėtų grupinių veiksmų, šiurkščiai pažeidžiančių kardomojo kalinimo vietos vidaus tvarką, atveju kardomojo kalinimo vietos direktorius arba jo pavaduotojas turi teisę laikinai, pranešęs prokurorui, sustabdyti:
-
-
-1) kalinamųjų laiškų išsiuntimą bei gautų laiškų, siuntinių, perdavimų ir banderolių su spauda įteikimą kalinamiesiems;
+3. Tardymo izoliatoriuose laikomiems asmenims draudžiama dirbti darbus ir eiti pareigas, nustatytas Bausmių vykdymo kodekso 2 priede.
 
 
 
 
-2) pasimatymų suteikimą kalinamiesiems;
+4. Suimtiesiems nustatoma ne ilgesnė kaip aštuonių valandų darbo diena. Darbo (pamainos) pradžią ir pabaigą nustato tardymo izoliatoriaus direktorius, vadovaudamasis šio įstatymo 11 straipsnio 6 dalies nuostatomis. Suimtiesiems suteikiamos dvi poilsio dienos per savaitę. Dirbti negali būti skiriama švenčių ir poilsio dienomis. Suimtųjų darbas organizuojamas remiantis darbuotojų saugą ir sveikatą reglamentuojančiais teisės aktais.
 
 
 
 
-3) maisto produktų ir būtiniausių reikmenų pirkimą;
+5. Suimtieji valstybiniu socialiniu draudimu nedraudžiami, išskyrus Lietuvos Respublikos įstatymų nustatytą nelaimingų atsitikimų darbe ir profesinių ligų socialinį draudimą. Suimtieji gali draustis savanorišku valstybiniu socialiniu draudimu nustatyta tvarka arba sudaryti pensijos sutartis su pensijų fondais įstatymų nustatyta tvarka ir sąlygomis.
 
 
 
 
-4) skatinimo priemonių skyrimą kalinamiesiems.
+6. Už suimtųjų darbą apmokama atsižvelgiant į jo kiekį ir kokybę Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+
+
+
+
+7. Suimtieji, kurie tardymo izoliatoriuose dirbdami neteko darbingumo, turi teisę į žalos atlyginimą Lietuvos Respublikos įstatymų nustatyta tvarka.
  
 
 
@@ -931,27 +1303,20 @@ Kalinamųjų neteisėtų grupinių veiksmų, šiurkščiai pažeidžiančių kar
 
 
 
+41 straipsnis. Suimtųjų bendrasis lavinimas
 
 
-29 straipsnis. Specialiosios priemonės, jų panaudojimo tikslas ir ribos
-
-
-1. Šio įstatymo 30–32 straipsniuose numatytais pagrindais ir tvarka kardomojo kalinimo vietose gali būti panaudojamos specialiosios priemonės – antrankiai, tramdomieji marškiniai, guminės lazdos, koviniai imtynių veiksmai, dujos, vandensvaidžiai, tarnybiniai šunys, šarvuočiai ir kita technika.
-
-
-
-
-2. Specialiosios priemonės panaudojamos atsižvelgiant į teisėtvarkos pažeidimo pobūdį, pažeidėjo asmenybę ir konkrečias aplinkybes bei situaciją. Panaudodami specialiąsias priemones, pareigūnai privalo stengtis išvengti sunkių pasekmių.
+1. Tardymo izoliatoriuose organizuojamas suimtųjų iki šešiolikos metų bendrasis lavinimas. Suimtųjų bendrojo lavinimo tardymo izoliatoriuose tvarką nustato Lietuvos Respublikos Vyriausybė.
 
 
 
 
-3. Prieš panaudojant specialiąsias priemones, jei leidžia aplinkybės, asmenys, prieš kuriuos jos bus naudojamos, įspėjami.
+2. Vyresnių negu šešiolikos metų suimtųjų bendrasis lavinimas organizuojamas rašytiniu jų prašymu ir tardymo izoliatoriaus administracijos sutikimu.
 
 
 
 
-4. Specialiųjų priemonių naudojimas privalo būti nutrauktas išnykus jų panaudojimo pagrindui.
+3. Suimtųjų bendrąjį lavinimą organizuoja savivaldybė, kurios teritorijoje yra tardymo izoliatorius.
  
 
 
@@ -959,70 +1324,40 @@ Kalinamųjų neteisėtų grupinių veiksmų, šiurkščiai pažeidžiančių kar
 
 
 
-30 straipsnis. Antrankių, tramdomųjų marškinių, guminių lazdų, kovinių imtynių veiksmų bei dujų, skirtų asmens apsaugai, panaudojimo pagrindai
+42 straipsnis. Socialinis darbas ir užimtumas
 
 
-1. Kardomojo kalinimo vietos ir Lietuvos Respublikos vidaus reikalų sistemos pareigūnai gali panaudoti prieš kalinamuosius antrankius, tramdomuosius marškinius, gumines lazdas, kovinius imtynių veiksmus bei dujas, skirtas asmens apsaugai, šiais atvejais:
-
-
-1) siekdami apginti kardomojo kalinimo vietos darbuotojus ir kitus asmenis nuo užpuolimo, kurio metu prieš juos naudojamas fizinis smurtas, taip pat norėdami išvaduoti įkaitus;
+1. Socialinį darbą su suimtaisiais ir jų užimtumą organizuoja tardymo izoliatorių administracija.
 
 
 
 
-2) siekdami sulaikyti kalinamąjį, padariusį teisėtvarkos pažeidimą, jei jis nevykdo kardomojo kalinimo vietos darbuotojo teisėtų reikalavimų arba priešinasi jėga;
+2. Pagrindinės užimtumo formos yra šios:
+
+
+1) socialinis ir teisinis švietimas;
 
 
 
 
-3) siekdami atremti saugomų objektų bei transporto priemonių užpuolimą;
+2) suimtųjų socialinių ir dvasinių poreikių tenkinimas;
 
 
 
 
-4) kilus masinėms riaušėms ar grupiniams tyčiniams veiksmams, šiurkščiai pažeidžiantiems kardomojo kalinimo vietos vidaus tvarką.
+3) pagalba sprendžiant suimtųjų problemas;
 
 
 
 
-
-
-2. Be to, antrankiai naudojami esant šioms aplinkybėms:
-
-
-1) siautėjant – iki nusiraminimo;
-
-
-
-
-2) atsisakius konvojavimo arba sekti į karcerį – konvojavimo metu;
-
-
-
-
-3) bandant nusižudyti ar tyčia susižaloti;
-
-
-
-
-4) paskelbus nuosprendį mirties bausme ir nuteistų mirties bausme asmenų konvojavimo metu;
-
-
-
-
-5) konvojuojant kalinamuosius lėktuve, keleivinio vagono kupe ar automobilyje;
-
-
-
-
-6) konvojuojant sulaikytą pabėgusį kalinamąjį.
+4) kultūros, sporto ir kiti renginiai.
 
 
 
 
 
 
-3. Minėtas priemones (išskyrus antrankius) draudžiama panaudoti prieš moteris, nepilnamečius bei invalidus su aiškiais invalidumo požymiais, išskyrus atvejus, kai jie patys užpuola arba priešinasi jėga ar ginklu.
+3. Socialinis darbas su suimtaisiais ir jų užimtumas organizuojamas laikantis šio įstatymo 10 straipsnio reikalavimų.
  
 
 
@@ -1030,165 +1365,30 @@ Kalinamųjų neteisėtų grupinių veiksmų, šiurkščiai pažeidžiančių kar
 
 
 
-31 straipsnis. Tarnybinių šunų panaudojimo pagrindai
+43 straipsnis. Tardymo izoliatorių psichologinės tarnybos
 
 
-1. Tarnybiniai šunys kardomojo kalinimo vietose gali būti panaudojami šiais atvejais:
+1. Tardymo izoliatoriuose veikia psichologinės tarnybos. Šių tarnybų veiklos pagrindinės kryptys yra šios:
 
 
-1) saugant kardomojo kalinimo vietos teritoriją ir patalpas;
+1) suimtojo asmenybės tyrimas ir individualaus psichologinių konsultacijų poreikio nustatymas;
 
 
 
 
-2) konvojuojant kalinamuosius;
+2) suimtųjų psichologinis konsultavimas;
 
 
 
 
-3) apžiūrint kardomojo kalinimo vietų draudžiamas ir šalia esančias teritorijas;
+3) suimtųjų ir nuteistųjų psichologinių charakteristikų rengimas ir pateikimas tardymo izoliatoriaus administracijai.
 
 
 
 
-4) tikrinant į kardomojo kalinimo vietą atvykstančias ir iš jos išvykstančias transporto priemones bei gabenamus krovinius;
 
 
-
-
-5) ieškant paslėptų narkotikų ir toksinių priemonių;
-
-
-
-
-6) vykdant pabėgusių kalinamųjų paiešką ir juos sulaikant;
-
-
-
-
-7) siekiant apginti kardomojo kalinimo vietos darbuotojus ir kitus asmenis nuo užpuolimo, gresiančio jų gyvybei ar sveikatai, jeigu kitos panaudotos priemonės negelbėjo.
-
-
-
-
-
-
-2. Tarnybinius šunis draudžiama panaudoti prieš moteris, nepilnamečius ir invalidus su aiškiais invalidumo požymiais, išskyrus atvejus, kai jie patys užpuola arba priešinasi ginklu.
- 
-
-
-
-
-
-
-32 straipsnis. Vandensvaidžių, specialios paskirties dujų, šarvuočių bei kitos technikos panaudojimo pagrindai
-
-
-1. Masinių riaušių arba masinio pasipriešinimo kardomojo kalinimo vietos administracijai atvejais, kai juos lydi pogromai, padegimai, įkaitų grobimai ar kitokie tyčiniai veiksmai, šiurkščiai pažeidžiantys kardomojo kalinimo vietos vidaus tvarką, Kalėjimų departamento prie Teisingumo ministerijos direktoriaus įsakymu prieš kalinamuosius gali būti panaudojami vandensvaidžiai, specialios paskirties dujos, šarvuočiai bei kita technika.
-Straipsnio dalies pakeitimai:
-Nr. VIII-151, 1997-03-25, Žin., 1997, Nr. 30-707 (1997-04-09), i. k. 0971010ISTAVIII-151
-Nr. VIII-1634, 2000-04-18, Žin., 2000, Nr. 39-1090 (2000-05-12), i. k. 1001010ISTAIII-1634
- 
-
-
-
-
-2. Vandensvaidžiai gali būti panaudoti ir kardomojo kalinimo vietos direktoriaus įsakymu.
-
-
-
-
-3. Minėtas priemones draudžiama naudoti prieš moteris, nepilnamečius ir invalidus su aiškiais invalidumo požymiais, išskyrus atvejus, kai jie patys užpuola arba priešinasi šaunamuoju ginklu.
- 
-
-
-
-
-
-
-33 straipsnis. Šaunamojo ginklo panaudojimo tikslas, pagrindai ir tvarka
-
-
-1. Šaunamieji ginklai kardomojo kalinimo vietose gali būti panaudojami, kai visi kiti galimi būdai ir priemonės panaudotos arba kai dėl laiko stygiaus jų panaudoti nėra galimybių.
-
-
-
-
-2. Šaunamieji ginklai panaudojami be perspėjimo šiais atvejais:
-
-
-1) atremiant ginkluotą kardomojo kalinimo vietos ar konvojaus užpuolimą;
-
-
-
-
-2) kai kalinamieji akivaizdžiai užpuola saugomus objektus, kardomojo kalinimo vietos darbuotojus ar kitus asmenis arba daro kitokius tyčinius veiksmus, kurie kelia tiesioginį pavojų šių darbuotojų ar kitų asmenų gyvybei;
-
-
-
-
-3) kai kalinamieji bando pabėgti naudodamiesi transporto priemonėmis arba bėga iš judančių transporto priemonių;
-
-
-
-
-4) sulaikant ginklu besipriešinantį kalinamąjį;
-
-
-
-
-5) sulaikant kalinamąjį, bandantį pabėgti naktį ar kai yra blogas matomumas;
-
-
-
-
-6) masinio pabėgimo iš kardomojo kalinimo vietos metu.
-
-
-
-
-
-
-3. Šaunamieji ginklai panaudojami po perspėjimo balsu ir įspėjamojo šūvio į viršų šiais atvejais:
-
-
-1) saugomų objektų, kardomojo kalinimo vietų darbuotojų ar kitų asmenų užpuolimo metu;
-
-
-
-
-2) kai nežinomi asmenys bando neteisėtai patekti į kardomojo kalinimo vietos teritoriją arba pabėgti iš jos;
-
-
-
-
-3) kai kalinamasis bando pabėgti iš kardomojo kalinimo vietos arba persekiojant bėgantį kalinamąjį.
-
-
-
-
-
-
-4. Šaunamieji ginklai taip pat gali būti panaudojami Kalėjimų departamento prie Teisingumo ministerijos direktoriaus įsakymu masinių riaušių ar masinio pasipriešinimo kardomojo kalinimo vietos administracijai atvejais, kai juos lydi pogromai, padegimai, įkaitų grobimai ar kitokie tyčiniai veiksmai, kurie šiurkščiai pažeidžia kardomojo kalinimo vietos vidaus tvarką, jeigu kitomis priemonėmis nutraukti minėtų veiksmų nėra galimybių.
-Straipsnio dalies pakeitimai:
-Nr. VIII-151, 1997-03-25, Žin., 1997, Nr. 30-707 (1997-04-09), i. k. 0971010ISTAVIII-151
-Nr. VIII-1634, 2000-04-18, Žin., 2000, Nr. 39-1090 (2000-05-12), i. k. 1001010ISTAIII-1634
- 
-
-
-
-
-5. Šaunamuosius ginklus draudžiama naudoti tais atvejais, kai gali nukentėti pašaliniai asmenys ir jei netoliese yra lengvai užsidegančių ar sprogstančių medžiagų saugyklos.
-
-
-
-
-6. Šaunamuosius ginklus draudžiama naudoti prieš moteris, nepilnamečius bei invalidus su aiškiais invalidumo požymiais, išskyrus atvejus, kai jie patys užpuola arba priešinasi šaunamuoju ginklu.
-
-
-
-
-7. Apie kiekvieną šaunamojo ginklo panaudojimo prieš asmenį faktą, aplinkybes ir pasekmes nedelsiant pranešama prokurorui.
+2. Tardymo izoliatorių psichologinių tarnybų struktūrą, darbo tvarką nustato teisingumo ministras.
  
 
 
@@ -1199,65 +1399,39 @@ Nr. VIII-1634, 2000-04-18, Žin., 2000, Nr. 39-1090 (2000-05-12), i. k. 1001010I
 
 
 PENKTASIS SKIRSNIS
-KALINAMŲJŲ PALEIDIMAS
+SUIMTŲJŲ MATERIALINIS BUITINIS APRŪPINIMAS IR SVEIKATOS PRIEŽIŪRA
  
 
 
-34 straipsnis. Pagrindai paleisti asmenis, suimtus kardomosios priemonės tvarka
+44 straipsnis. Suimtųjų materialinis buitinis aprūpinimas
 
 
-Pagrindai kalinamuosius paleisti iš suėmimo yra šie:
-
-
-1) kardomosios priemonės panaikinimas;
+1. Suimtiesiems užtikrinamos gyvenamųjų patalpų ir buities sąlygos, atitinkančios Lietuvos Respublikos higienos normas. Nėščioms moterims, nepilnamečiams, neįgaliesiems ir ligoniams sudaromos geresnės gyvenamųjų patalpų ir buities sąlygos ir nustatomos didesnės mitybos normos. Nėščioms moterims pagal gydytojų komisijos išvadą leidžiama gauti pašto ar perduodamų maisto produktų siuntinių; jų svorį ir periodiškumą nustato Kalėjimų departamento direktorius.
 
 
 
 
-2) kardomosios priemonės pakeitimas;
+2. Kiekvienam suimtajam nemokamai suteikiama atskira miegamoji vieta ir patalynė. Suimtieji gali naudotis savo patalyne, jeigu jie to pageidauja.
 
 
 
 
-3) pasibaigęs įstatymo numatytas kardomojo kalinimo terminas, jeigu jis nepratęstas įstatymo nustatyta tvarka.
- 
+3. Suimtieji, kurie neturi savo drabužių ir avalynės, nemokamai aprūpinami drabužiais ir avalyne pagal sezoną.
 
 
 
 
+4. Ne rečiau kaip kartą per savaitę suimtiesiems turi būti suteikta galimybė pasinaudoti pirtimi arba dušu, kirpėjo paslaugomis ir gauti išskalbtą patalynę ir apatinius rūbus.
 
 
 
 
-35 straipsnis. Kalinamųjų paleidimo tvarka
-
-
-1. Kalinamuosius paleidžia kardomojo kalinimo vietos direktorius, remdamasis teismo nuosprendžiu ar nutartimi, teisėjo nutartimi, prokuroro nutarimu.
-Straipsnio dalies pakeitimai:
-Nr. I-1348, 1996-05-28, Žin., 1996, Nr. 53-1249 (1996-06-05), i. k. 0961010ISTA00I-1348
- 
+5. Suimtiesiems tiekiamas maistas turi atitikti fiziologines mitybos normas ir, kiek įmanoma, jų religinius įsitikinimus. Maistu suimtieji aprūpinami nemokamai. Nepilnamečių maitinimui per mėnesį turi būti skiriama ne mažesnė kaip 1,5 MGL dydžio pinigų suma.
 
 
 
 
-2. Pasibaigus kardomojo kalinimo (suėmimo) terminui, kardomojo kalinimo vietos direktorius privalo savo nutarimu paleisti kalinamąjį ir pranešti apie tai bylą tiriančiam pareigūnui.
-
-
-
-
-3. Nuosprendis, nutartis arba nutarimas dėl kalinamojo paleidimo įvykdomi tuoj pat, kai tik juos gauna kardomojo kalinimo vietos administracija.
-
-
-
-
-4. Paleidžiamiems iš kardomojo kalinimo vietų asmenims pasirašytinai grąžinami pinigai ir daiktai. Jų prašymu apie tai, kiek laiko jie išbuvo kardomojo kalinimo vietoje, išduodama pažyma.
-
-
-
-
-5. Jeigu kardomojo kalinimo vietoje yra gauta pažyma, kad nukentėjusysis pageidauja, jog jam būtų pranešta apie būsimą kalinamojo paleidimą į laisvę, kardomojo kalinimo vietos direktorius privalo pranešti nukentėjusiajam apie kalinamojo paleidimą. Nukentėjusiajam apie kalinamojo paleidimą į laisvę pranešama ne vėliau kaip likus vienai dienai iki kalinamojo paleidimo dienos. Tais atvejais, kai kalinamasis iš kardomojo kalinimo vietos turi būti paleidžiamas tuoj po to, kai gaunamas nuosprendis, nutartis ar nutarimas dėl kalinamojo paleidimo, nukentėjusiajam pranešama iš karto po kalinamojo paleidimo.
-Papildyta straipsnio dalimi:
-Nr. X-636, 2006-06-01, Žin., 2006, Nr. 68-2494 (2006-06-17), i. k. 1061010ISTA000X-636
+6. Suimtųjų mitybos ir materialinio aprūpinimo normas nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
  
 
 
@@ -1265,10 +1439,25 @@ Nr. X-636, 2006-06-01, Žin., 2006, Nr. 68-2494 (2006-06-17), i. k. 1061010ISTA0
 
 
 
-36 straipsnis. Kardomojo kalinimo vietos administracijos veiklos kontrolė
+45 straipsnis. Suimtųjų sveikatos priežiūra
 
 
-Kardomojo kalinimo vietos administracijos veiklos kontrolę Lietuvos Respublikos įstatymų nustatyta tvarka vykdo Seimo kontrolieriai, prokurorai bei teismai, tirdami kalinamųjų skundus.
+1. Asmens sveikatos priežiūra tardymo izoliatoriuose organizuojama ir atliekama įstatymų nustatyta tvarka. Suimtiesiems turi būti užtikrintas tokios pat kokybės ir lygio gydymas kaip ir laisvėje esantiems asmenims.
+
+
+
+
+2. Tardymo izoliatoriuose veikia asmens sveikatos priežiūros tarnybos. Šių tarnybų struktūrą ir darbo tvarką nustato sveikatos apsaugos ir teisingumo ministrai.
+
+
+
+
+3. Privaloma nuodugniai patikrinti naujų į tardymo izoliatorių priimtų asmenų sveikatos būklę.
+
+
+
+
+4. Suimtajam reikalinga būtinoji medicinos pagalba, kurią suteikti laisvės atėmimo vietų ligoninėje nėra galimybių, gali būti teikiama valstybės arba savivaldybių asmens sveikatos priežiūros įstaigose užtikrinant suimtojo apsaugą. Šios pagalbos teikimo tvarką nustato sveikatos apsaugos ir teisingumo ministrai.
  
 
 
@@ -1276,10 +1465,109 @@ Kardomojo kalinimo vietos administracijos veiklos kontrolę Lietuvos Respublikos
 
 
 
-37 straipsnis. Kardomojo kalinimo įstatymo įsigaliojimas
 
 
-Kardomojo kalinimo įstatymas įsigalioja nuo 1996 metų vasario 1 dienos.
+
+
+IV SKYRIUS
+SUIMTŲJŲ PALEIDIMAS IŠ TARDYMO IZOLIATORIŲ
+ 
+
+
+46 straipsnis. Suimtųjų laikymo tardymo izoliatoriuose trukmė
+
+
+Asmenys, kuriems paskirtas suėmimas, tardymo izoliatoriuose negali būti laikomi ilgiau negu teismo nutartyse nustatytą terminą.
+ 
+
+
+
+
+
+
+47 straipsnis. Suimtųjų paleidimo iš tardymo izoliatorių pagrindai
+
+
+Suimtųjų paleidimo iš tardymo izoliatorių pagrindai yra šie:
+
+
+1) suėmimo panaikinimas;
+
+
+
+
+2) suėmimo pakeitimas kita kardomąja priemone;
+
+
+
+
+3) pasibaigęs paskirto suėmimo terminas, jeigu jis nepratęstas įstatymų nustatyta tvarka.
+ 
+
+
+
+
+
+
+
+
+48 straipsnis. Suimtųjų paleidimo iš tardymo izoliatorių tvarka
+
+
+1. Nuosprendis, nutartis arba nutarimas dėl suimtojo paleidimo vykdomi nedelsiant, kai tik juos gauna tardymo izoliatoriaus administracija.
+
+
+
+
+2. Pasibaigus suėmimo terminui, tardymo izoliatoriaus direktorius arba jį pavaduojantis pareigūnas privalo savo nutarimu paleisti suimtąjį ir apie tai pranešti šio asmens nusikalstamą veiką tiriančiam pareigūnui ar prokurorui arba teismui, kurio žinioje yra byla. Jei suimtasis prašo, nustatyta tvarka tardymo izoliatoriaus administracija privalo leisti suimtajam pranešti telefonu sutuoktiniui ar artimiesiems giminaičiams apie jo paleidimą.
+
+
+
+
+3. Paleidžiamiems asmenims paleidimo dieną pasirašytinai išduodami asmens dokumentai ir daiktai, asmeninėje sąskaitoje turimi pinigai, taip pat išbūtą suėmimo laiką liudijantys dokumentai.
+
+
+
+
+4. Paleidžiamo asmens prašymu charakteristika išsiunčiama jo nurodytai institucijai.
+
+
+
+
+5. Tardymo izoliatoriaus direktorius ar jo įgaliotas pareigūnas privalo išaiškinti paleidžiamam asmeniui jo teises ir pareigas.
+
+
+
+
+6. Paleidžiami nepilnamečiai pasiunčiami pas tėvus arba globėjus (rūpintojus) ar artimuosius giminaičius. Nepilnamečius privalo lydėti tardymo izoliatoriaus darbuotojas arba tėvai, globėjai (rūpintojai) ar artimieji giminaičiai.
+
+
+
+
+7. Jeigu tardymo izoliatoriaus administracija yra gavusi pažymą, kad nukentėjusysis pageidauja būti informuotas apie būsimą suimtojo paleidimą į laisvę, tardymo izoliatoriaus direktorius privalo pranešti nukentėjusiajam apie suimtojo paleidimą. Nukentėjusiajam apie suimtojo paleidimą į laisvę pranešama ne vėliau kaip likus vienai dienai iki suimtojo paleidimo dienos. Tais atvejais, kai suimtasis iš tardymo izoliatoriaus turi būti paleidžiamas tuoj po to, kai gaunamas nuosprendis, nutartis ar nutarimas dėl suimtojo paleidimo, nukentėjusiajam pranešama iš karto po suimtojo paleidimo.
+ 
+
+
+
+
+
+
+
+
+V SKYRIUS
+PAREIGŪNŲ VEIKSMŲ IR SPRENDIMŲ APSKUNDIMAS
+ 
+
+
+49 straipsnis. Pareigūnų veiksmų ir sprendimų apskundimas
+
+
+1. Tardymo izoliatorių pareigūnų veiksmai ir sprendimai skundžiami Bausmių vykdymo kodekso 183 straipsnyje nustatyta tvarka.
+
+
+
+
+2. Ikiteisminio tyrimo pareigūnų, prokurorų ir teisėjų veiksmai ir sprendimai skundžiami Baudžiamojo proceso kodekso ar kitų teisės aktų nustatyta tvarka.
 
 
 
@@ -1295,113 +1583,19 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
 
 
+ 
 
 
 
 
  
  
-Lietuvos Respublikos
-1996 m. sausio 18 d.
-įstatymo Nr. I-1175
-1 priedėlis
+Lietuvos Respublikos  suėmimo vykdymo įstatymo 
+priedas
  
-KALINAMIESIEMS DRAUDŽIAMŲ TURĖTI DAIKTŲ IR REIKMENŲ
-SĄRAŠAS
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
-
-
-1. Daiktai, gaminiai ir medžiagos, išimtos iš civilinės apyvartos.
-
-
-
-
-2. Visų rūšių šaunamieji ir nešaunamieji ginklai, šaudmenys bei sprogmenys, dujų balionėliai.
-
-
-
-
-3. Visų rūšių transporto priemonės.
-
-
-
-
-4. Pinigai, vertingi daiktai, vertybiniai popieriai.
-
-
-
-
-5. Optiniai prietaisai.
-
-
-
-
-6. Magnetofonai, videomagnetofonai, kompiuteriai (išskyrus kompiuterinių žaidimų aparatus), telefonai.
-
-
-
-
-7. Rankiniai ir kišeniniai laikrodžiai iš brangiųjų metalų.
-
-
-
-
-8. Visų rūšių alkoholiniai gėrimai, kvepalai, odekolonai ir kiti gaminiai, kurių sudėtyje yra spirito.
-
-
-
-
-9. Narkotikai, toksinės priemonės ir stipriai veikiantys medikamentai, taip pat nesant gydytojo leidimo – medicininės paskirties daiktai.
-
-
-
-
-10. Spausdinimo mašinėlės, dauginimo ir kopijavimo aparatai.
-
-
-
-
-11. Peiliai, skutimosi priemonės (išskyrus elektrines ir mechanines bei skutimosi aparatus su kasetėmis) ir kiti aštriabriauniai bei smailūs daiktai.
-
-
-
-
-12. Šaltkalvio, staliaus ir kiti įrankiai.
-
-
-
-
-13. Kortos.
-
-
-
-
-14. Fotoaparatai, fotomedžiagos, chemikalai.
-
-
-
-
-15. Dokumentai (išskyrus įstatymų ir kitų teisės aktų, skelbiamų „Valstybės žiniose“, tekstus, teismų nuosprendžių, nutarčių ir nutarimų nuorašus, Europos žmogaus teisių teismo bei kitų kompetentingų tarptautinių institucijų, valstybės ir savivaldybių institucijų bei visuomeninių organizacijų atsakymus, adresuotus kalinamiesiems, atiduotų saugoti pinigų, vertingų daiktų kvitus).
-Punkto pakeitimai:
-Nr. IX-431, 2001-07-05, Žin., 2001, Nr. 62-2230 (2001-07-18), i. k. 1011010ISTA00IX-431
- 
-
-
-
-
-16. Topografiniai žemėlapiai, kompasai.
-
-
-
-
-17. Karinė ir kitokia uniforma, jos reikmenys.
-
-
-
-
-18. Kopijavimo popierius.
-
-
+2001 m. kovo 15 d. Tarybos pagrindų sprendimas 2001/220/TVR dėl nukentėjusiųjų padėties baudžiamosiose bylose (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 72).
 Priedo pakeitimai:
 Nr. VIII-1424, 1999-11-16, Žin., 1999, Nr. 102-2922 (1999-12-01), i. k. 0991010ISTAIII-1424
  
@@ -1409,77 +1603,6 @@ Nr. VIII-1424, 1999-11-16, Žin., 1999, Nr. 102-2922 (1999-12-01), i. k. 0991010
 
 
 
- 
- 
-1996 m. sausio 18 d.
-įstatymo Nr. I-1175
-2 priedėlis
- 
-Kalinamiesiems draudžiamų darbų ir pareigų
-sĄRAŠAS
- 
-Kalinamiesiems draudžiama dirbti:
-
-
-1) dauginimo aparatais, radijo ir elektros ryšių perdavimo įrengimais (išskyrus elektros ryšių linijų monteriais dalyvaujant administracijos atstovui);
-
-
-
-
-2) pardavėjais, buhalteriais, kasininkais, sandėlių vedėjais;
-
-
-
-
-3) medicinos srityje (išskyrus sanitarais);
-
-
-
-
-4) fotografais, televizijos, kino ir videooperatoriais;
-
-
-
-
-5) autotransporto priemonių vairuotojais;
-
-
-
-
-6) produkcijos kokybės kontrolieriais;
-
-
-
-
-7) administracinėse patalpose, jeigu jose nėra administracijos atstovo;
-
-
-
-
-8) eiti pareigas, jeigu jiems būtų pavaldūs kardomojo kalinimo vietos darbuotojai;
-
-
-
-
-9) eiti materialiai atsakingojo pareigas.
-
-
-
-
-
-
- 
- 
-Lietuvos Respublikos
-1996 m. sausio 18 d. įstatymo Nr. I-1175
-3 priedėlis
- 
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
- 
-2001 m. kovo 15 d. Tarybos pagrindų sprendimas 2001/220/TVR dėl nukentėjusiųjų padėties baudžiamosiose bylose.
-Papildyta priedu:
-Nr. X-636, 2006-06-01, Žin., 2006, Nr. 68-2494 (2006-06-17), i. k. 1061010ISTA000X-636
- 
  
  
 Pakeitimai:
@@ -1518,3 +1641,8 @@ Lietuvos Respublikos kardomojo kalinimo įstatymo 18 straipsnio pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-636, 2006-06-01, Žin., 2006, Nr. 68-2494 (2006-06-17), i. k. 1061010ISTA000X-636
 Lietuvos Respublikos baudžiamojo proceso kodekso, Bausmių vykdymo kodekso ir Kardomojo kalinimo įstatymo pakeitimo ir papildymo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1660, 2008-07-01, Žin., 2008, Nr. 81-3172 (2008-07-17), i. k. 1081010ISTA00X-1660
+Lietuvos Respublikos kardomojo kalinimo įstatymo pakeitimo įstatymas
