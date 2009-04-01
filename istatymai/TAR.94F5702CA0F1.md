@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.94F5702CA0F1"
 
 # Lietuvos Respublikos antstolių įstatymas
 
-Suvestinė redakcija nuo 2005-12-08 iki 2009-03-31
+Suvestinė redakcija nuo 2009-04-01 iki 2011-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 53-2042, i. k. 1021010ISTA00IX-876
  
@@ -90,7 +90,11 @@ ANTSTOLIO ĮGALIOJIMŲ ĮGIJIMAS, SUSTABDYMAS, PASIBAIGIMAS
 4 straipsnis. Reikalavimai asmenims, pretenduojantiems tapti antstoliais
 
 
-1. Antstoliu gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį teisinį universitetinį išsilavinimą (vienpakopį, bakalauro, magistro), ne mažiau kaip vienerius metus buvęs antstolio padėjėju ir laimėjęs viešą konkursą arba ne mažiau kaip penkerius metus dirbęs teisinį darbą ir laimėjęs viešą konkursą. Socialinių mokslų teisės krypties daktaras bei habilituotas daktaras, laimėjęs viešą konkursą, gali būti skiriamas antstoliu be egzaminų.
+1. Antstoliu gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį teisinį universitetinį išsilavinimą (vienpakopį ar bakalauro), ne mažiau kaip dvejus metus buvęs antstolio padėjėju ir laimėjęs viešą konkursą arba ne mažiau kaip penkerius metus dirbęs teisinį darbą ar antstoliu ir laimėjęs viešą konkursą. Socialinių mokslų teisės krypties daktaras, habilituotas daktaras arba ne mažiau kaip penkerius metus antstoliu buvęs asmuo, jei nuo jo atleidimo iš antstolių praėjo ne daugiau kaip treji metai, laimėjęs viešą konkursą, gali būti skiriamas antstoliu be egzaminų. 
+TAR pastaba. 1 dalies nuostatos netaikomos asmenims, pateikusiems prašymus įrašyti juos į antstolių padėjėjų sąrašą ar tapusiems antstolio padėjėjais iki įstatymo Nr. X-1837 įsigaliojimo (2009-04-01).
+Straipsnio dalies pakeitimai:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
+ 
 
 
 
@@ -119,7 +123,10 @@ Asmuo negali būti laikomas nepriekaištingos reputacijos, jeigu:
 
 
 
-3) piktnaudžiauja psichotropinėmis, narkotinėmis, toksinėmis medžiagomis ar alkoholiu;
+3) piktnaudžiauja alkoholiu, psichotropinėmis, narkotinėmis ar kitomis psichiką veikiančiomis medžiagomis; 
+Straipsnio punkto pakeitimai:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
+ 
 
 
 
@@ -129,7 +136,10 @@ Asmuo negali būti laikomas nepriekaištingos reputacijos, jeigu:
 
 
 
-5) buvo atleistas iš teisėjo, prokuroro, advokato, advokato padėjėjo, notaro, kandidato į notarus (asesoriaus), notaro atstovo, teismo antstolio, antstolio, antstolio atstovo, antstolio padėjėjo pareigų arba iš valstybės tarnybos už profesinės ar tarnybinės veiklos pažeidimus, ir nuo atleidimo nepraėjo treji metai.
+5) buvo atleistas iš teisėjo, prokuroro, advokato, advokato padėjėjo, notaro, kandidato į notarus (asesoriaus), notaro atstovo, teismo antstolio, antstolio, antstolio atstovo, antstolio padėjėjo pareigų arba iš valstybės tarnybos už profesinės ar tarnybinės veiklos pažeidimus ir nuo atleidimo nepraėjo penkeri metai. 
+TAR pastaba.  5  punkto  nuostatos  taikomos  tik asmenims, atleistiems  po įstatymo Nr. X-1837 įsigaliojimo  (2009-04-01).
+Straipsnio punkto pakeitimai:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
  
 
 
@@ -152,12 +162,17 @@ Asmuo negali būti laikomas nepriekaištingos reputacijos, jeigu:
 
 
 
-3. Antstolių viešą konkursą vykdo Antstolių viešo konkurso komisija. Šią komisiją sudaro, jos nuostatus ir Antstolių viešo konkurso tvarką tvirtina teisingumo ministras. Antstolių viešo konkurso komisiją aptarnauja ir jos darbą užtikrina Lietuvos antstolių rūmai. Antstolių viešo konkurso komisiją sudaro penki nariai. Iš jų tris narius, įskaitant komisijos pirmininką, skiria teisingumo ministras, du narius – Lietuvos antstolių rūmų prezidiumas. 
+3. Antstolių viešą konkursą vykdo Antstolių viešo konkurso komisija. Šią komisiją sudaro, jos nuostatus ir Antstolių viešo konkurso tvarkos aprašą tvirtina teisingumo ministras. Antstolių viešo konkurso komisiją aptarnauja ir jos darbą užtikrina Teisingumo ministerija. Antstolių viešo konkurso komisiją sudaro septyni nariai. Iš jų tris narius, įskaitant komisijos pirmininką, skiria teisingumo ministras, tris narius – Lietuvos antstolių rūmai ir vieną narį – Lietuvos Aukščiausiojo Teismo pirmininkas. Vienas iš trijų teisingumo ministro skiriamų komisijos narių turi būti asmuo, turintis aukštąjį ekonominį išsilavinimą, vienas iš trijų Lietuvos antstolių rūmų skiriamų komisijos narių turi būti asmuo, turintis aukštąjį psichologinį išsilavinimą. Penki iš septynių Antstolių viešo konkurso komisijos narių turi būti asmenys, turintys aukštąjį teisinį universitetinį išsilavinimą. 
+Straipsnio dalies pakeitimai:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
+ 
 
 
 
 
-4. Antstolių viešame konkurse gali dalyvauti asmenys, atitinkantys šio Įstatymo nustatytus reikalavimus, pateikę Teisingumo ministerijai Antstolių viešo konkurso tvarkoje nustatytus dokumentus ir sumokėję Lietuvos antstolių rūmams nustatytą užmokestį. Šis užmokestis negali viršyti antstolių viešo konkurso organizavimo išlaidų. 
+4. Antstolių viešame konkurse gali dalyvauti asmenys, atitinkantys šio Įstatymo nustatytus reikalavimus, pateikę Teisingumo ministerijai Antstolių viešo konkurso tvarkos apraše nustatytus dokumentus. 
+Straipsnio dalies pakeitimai:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
  
 
 
@@ -189,7 +204,10 @@ Asmuo negali būti laikomas nepriekaištingos reputacijos, jeigu:
 8 straipsnis. Teisė vykdyti antstolio veiklą
 
 
-1. Teisę vykdyti antstolio veiklą turi viešą konkursą laimėję asmenys, šio Įstatymo nustatyta tvarka apdrausti civilinės atsakomybės draudimu, teisingumo ministro įsakymu paskirti antstoliais ir šio Įstatymo nustatyta tvarka prisiekę. 
+1. Teisę vykdyti antstolio veiklą turi viešą konkursą laimėję asmenys, šio Įstatymo nustatyta tvarka apdrausti profesinės civilinės atsakomybės privalomuoju draudimu, teisingumo ministro įsakymu paskirti antstoliais ir šio Įstatymo nustatyta tvarka prisiekę. Teisę vykdyti antstolio veiklą įgiję asmenys deklaruoja savo ir šeimos narių turtą Lietuvos Respublikos gyventojų turto deklaravimo įstatymo nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
+ 
 
 
 
@@ -275,13 +293,15 @@ Nr. X-415, 2005-11-22, Žin., 2005, Nr. 143-5177 (2005-12-08), i. k. 1051010ISTA
 
 
 
-10 straipsnis. Antstolio veiklos apribojimas 
+10 straipsnis. Antstolio veiklos apribojimas
 
 
-Antstolis, vykdydamas šiame Įstatyme numatytą veiklą, negali eiti kitų apmokamų pareigų įmonėse, įstaigose ir organizacijose ar dirbti kito darbo, išskyrus darbą antstolių savivaldos institucijose ir mokslinę, kūrybinę ar pedagoginę veiklą.
+Antstolis, vykdydamas šiame Įstatyme numatytą veiklą, negali eiti kitų mokamų pareigų įmonėse, įstaigose ir organizacijose ar dirbti kito darbo, išskyrus darbą antstolių savivaldos institucijose ir mokslinę, kūrybinę ar pedagoginę veiklą, taip pat negali būti renkamas (skiriamas) įmonės, kurios veikla yra susijusi su skolų išieškojimu, turto saugojimu, turto vertinimu, teisinėmis konsultacijomis, tarpininkavimo paslaugų teikimu, valdymo organų nariu. 
+
+
+Straipsnio pakeitimai:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
  
-
-
 
 
 
@@ -289,43 +309,52 @@ Antstolis, vykdydamas šiame Įstatyme numatytą veiklą, negali eiti kitų apmo
 11 straipsnis. Antstolio įgaliojimų sustabdymas
 
 
-1. Antstolio įgaliojimai teisingumo ministro įsakymu gali būti sustabdomi, jei:
+1. Antstolio įgaliojimai teisingumo ministro įsakymu gali būti sustabdomi, kai:
 
 
-1) antstolis yra įtariamas arba kaltinamas padaręs nusikalstamą veiką. Antstolio įgaliojimai sustabdomi iki sprendimo baudžiamojoje byloje įsiteisėjimo. Jei baudžiamoji byla nutraukiama arba įsiteisėja išteisinamasis nuosprendis, teisingumo ministro įsakymu antstolio įgaliojimai atnaujinami;
-Straipsnio punkto pakeitimai:
-Nr. IX-1459, 2003-04-03, Žin., 2003, Nr. 38-1704 (2003-04-24), i. k. 1031010ISTA0IX-1459
+1) antstolis yra įtariamas arba kaltinamas padaręs tyčinę nusikalstamą veiką;
+
+
+
+
+2) atlikus antstolio veiklos patikrinimą, buvo nustatyta šiurkščių pažeidimų tvarkant, saugant ir naudojant pinigines lėšas ar kitas materialines vertybes, kurios antstoliui buvo patikėtos ar buvo gautos jam atliekant šiame Įstatyme nustatytas funkcijas, ir dėl to iškelta drausmės byla;
+
+
+
+
+3) antstolis nesumoka Lietuvos antstolių rūmams profesinės civilinės atsakomybės privalomojo draudimo įmokos.
+
+
+
+
+
+
+2. Teisingumo ministro sprendimas sustabdyti antstolio įgaliojimus turi būti motyvuotas. Teisingumo ministro įsakymas dėl antstolio įgaliojimų sustabdymo gali būti skundžiamas teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+
+
+
+3. Šio straipsnio 1 dalies 2 punkte nurodytu pagrindu antstolio įgaliojimai gali būti sustabdyti teisingumo ministro įsakymu, kol įsiteisės Antstolių garbės teismo sprendimas.
+
+
+
+
+4. Antstolio įgaliojimai nedelsiant atnaujinami išnykus pagrindams, dėl kurių jie buvo sustabdyti. Antstolio įgaliojimus atnaujina teisingumo ministras, išskyrus atvejus, kai sprendime dėl antstolio įgaliojimų sustabdymo buvo nurodytas įgaliojimų sustabdymo pasibaigimo pagrindas.
+
+
+
+
+5. Antstolio įgaliojimai gali būti sustabdomi ir kitų įstatymų nustatyta tvarka bei pagrindais.
+
+
+
+
+6. Antstolis, kurio įgaliojimai sustabdyti, arba šio antstolio atstovas įgaliojimų sustabdymo laikotarpiu negali vykdyti antstolio veiklos. 
+
+
+Straipsnio pakeitimai:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
  
-
-
-
-
-2) atlikus antstolio veiklos patikrinimą, buvo nustatyta šiurkščių pažeidimų tvarkant, saugant ir naudojant pinigines lėšas ar kitas materialines vertybes, kurios antstoliui buvo patikėtos ar buvo gautos jam atliekant šiame Įstatyme nustatytas funkcijas ir dėl to iškelta drausmės byla. Šiuo atveju antstolio įgaliojimai gali būti sustabdyti, kol bus išnagrinėta drausmės byla;
-
-
-
-
-3) antstolis nesumoka Lietuvos antstolių rūmams privalomojo civilinės atsakomybės draudimo įmokos.
-
-
-
-
-
-
-2. Teisingumo ministro įsakymas dėl antstolio įgaliojimų sustabdymo gali būti skundžiamas teismui Administracinių bylų teisenos įstatymo nustatyta tvarka. Teisingumo ministro įsakymo sustabdyti antstolio įgaliojimus apskundimas nesustabdo šio įsakymo vykdymo. 
-
-
-
-
-3. Antstolio įgaliojimai gali būti sustabdomi ir kitų įstatymų nustatyta tvarka bei pagrindais.
-
-
-
-
-4. Antstolis, kurio įgaliojimai sustabdyti, arba šio antstolio atstovas įgaliojimų sustabdymo laikotarpiu negali vykdyti antstolio veiklos. 
- 
-
-
 
 
 
@@ -426,7 +455,10 @@ ANTSTOLIO, ANTSTOLIO PADĖJĖJO DRAUSMINĖ ATSAKOMYBĖ
 13 straipsnis. Antstolio, antstolio padėjėjo drausmės bylos procedūra
 
 
-1. Už antstolio pareigų nevykdymą arba netinkamą vykdymą antstoliui (antstolio padėjėjui) gali būti taikoma šiame Įstatyme nustatyta drausminė atsakomybė. 
+1. Už šio Įstatymo, Sprendimų vykdymo instrukcijos, Antstolių profesinės etikos kodekso, kitų teisės aktų, reglamentuojančių antstolių neprocesinę veiklą, vykdymo išlaidų išieškojimo tvarkos, nesusijusios su vykdymo išlaidų dydžio apskaičiavimu, pažeidimus arba jei teismo sprendime konstatuoti imperatyviųjų procesinės teisės normų pažeidimai, antstoliui (antstolio padėjėjui) gali būti taikoma šiame Įstatyme nustatyta drausminė atsakomybė. 
+Straipsnio dalies pakeitimai:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
+ 
 
 
 
@@ -470,37 +502,34 @@ ANTSTOLIO, ANTSTOLIO PADĖJĖJO DRAUSMINĖ ATSAKOMYBĖ
 
 
 
-2) apsiriboti drausmės bylos svarstymu;
+2) atleisti nuo drausminės atsakomybės dėl padaryto drausmės pažeidimo mažareikšmiškumo;
 
 
 
 
-3) pasiūlyti teisingumo ministrui skirti antstoliui (antstolio padėjėjui) vieną iš šio Įstatymo 15 straipsnyje nurodytų drausminių nuobaudų.
+3) skirti antstoliui (antstolio padėjėjui) vieną iš šio Įstatymo 15 straipsnyje nurodytų drausminių nuobaudų.
 
 
 
 
 
 
-2. Priimant sprendimą atsižvelgiama į nusižengimo pobūdį ir jo padarymo aplinkybes bei į galiojančias antstoliui (antstolio padėjėjui) paskirtas drausmines nuobaudas ir drausmės bylos svarstymus.
+2. Priimant sprendimą, atsižvelgiama į nusižengimo pobūdį ir jo padarymo aplinkybes, į galiojančias antstoliui (antstolio padėjėjui) paskirtas drausmines nuobaudas.
 
 
 
 
-3. Nuobauda antstoliui (antstolio padėjėjui) skiriama teisingumo ministro įsakymu, Antstolių garbės teismo siūlymu. Teisingumo ministras gali paskirti švelnesnę nuobaudą, nei siūloma, arba atsisakyti skirti siūlomą nuobaudą. 
+3. Drausminė nuobauda galioja vienerius metus nuo paskyrimo dienos. Antstolių garbės teismas Antstolių (antstolių padėjėjų) drausmės bylų iškėlimo ir nagrinėjimo taisyklėse nustatyta tvarka gali panaikinti drausminę nuobaudą nepasibaigus galiojimo terminui, bet ne anksčiau kaip po šešių mėnesių nuo nuobaudos paskyrimo.
 
 
 
 
-4. Drausminė nuobauda galioja vienerius metus nuo paskyrimo dienos. 
+4. Antstolių garbės teismo sprendimai per trisdešimt dienų nuo sprendimo nuorašo įteikimo antstoliui (antstolio padėjėjui) dienos gali būti skundžiami Vilniaus apygardos teismui. 
 
 
-
-
-5. Antstolis (antstolio padėjėjas) teisingumo ministro įsakymą skirti drausminę nuobaudą gali skųsti Administracinių bylų teisenos įstatymo nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
  
-
-
 
 
 
@@ -508,7 +537,7 @@ ANTSTOLIO, ANTSTOLIO PADĖJĖJO DRAUSMINĖ ATSAKOMYBĖ
 15 straipsnis. Drausminės nuobaudos
 
 
-1. Antstoliui skiriamos drausminės nuobaudos:
+1. Antstoliui gali būti skiriamos šios drausminės nuobaudos:
 
 
 1) pastaba;
@@ -526,17 +555,44 @@ ANTSTOLIO, ANTSTOLIO PADĖJĖJO DRAUSMINĖ ATSAKOMYBĖ
 
 
 
-4) atleidimas iš antstolių.
+4) teisės atlikti funkcijas, nurodytas šio Įstatymo 21 straipsnio 1 dalyje, atėmimas iki šešių mėnesių;
+
+
+
+
+5) atleidimas iš antstolių.
 
 
 
 
 
 
-2. Antstolio padėjėjui skiriama drausminė nuobauda – teisės vykdyti antstolio padėjėjo veiklą atėmimas. 
+2. Antstolio padėjėjui gali būti skiriamos šios drausminės nuobaudos:
+
+
+1) pastaba;
+
+
+
+
+2) papeikimas;
+
+
+
+
+3) teisės vykdyti antstolio padėjėjo veiklą atėmimas.
+
+
+
+
+
+
+3. Antstoliui ir antstolio padėjėjui papildomai gali būti skiriamas įpareigojimas atsiprašyti asmens Antstolių garbės teismo nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
  
-
-
 
 
 
@@ -680,7 +736,7 @@ ANTSTOLIO VEIKLA
 21 straipsnis. Antstolio funkcijos ir kita veikla
 
 
-1. Antstolis privalo vykdyti įstatymų nustatytus vykdomuosius dokumentus, teismo pavedimu konstatuoti faktines aplinkybes, teismo pavedimu perduoti ir įteikti dokumentus Lietuvos Respublikoje esantiems fiziniams ir juridiniams asmenims, atlikti kitas įstatymų nustatytas funkcijas. 
+1. Antstolis privalo vykdyti įstatymų nustatytus vykdomuosius dokumentus, teismo pavedimu konstatuoti faktines aplinkybes, teismo pavedimu perduoti ir įteikti dokumentus Lietuvos Respublikoje esantiems fiziniams ir juridiniams asmenims, atlikti kitas įstatymų nustatytas funkcijas.
 
 
 
@@ -693,12 +749,12 @@ ANTSTOLIO VEIKLA
 
 
 
-2) konstatuoti faktines aplinkybes, perduoti ir įteikti dokumentus Lietuvos Respublikoje esantiems fiziniams ir juridiniams asmenims nesant teismo pavedimo; 
+2) konstatuoti faktines aplinkybes, perduoti ir įteikti dokumentus Lietuvos Respublikoje esantiems fiziniams ir juridiniams asmenims nesant teismo pavedimo;
 
 
 
 
-3) teisines konsultacijas, išskyrus atstovavimą teismuose bei atstovavimą santykiuose su trečiaisiais asmenimis;
+3) teisines konsultacijas – patarimus teisės klausimais;
 
 
 
@@ -715,20 +771,47 @@ ANTSTOLIO VEIKLA
 
 
 
-3. Paslaugų teikimas neturi trukdyti atlikti įstatymų nustatytas antstolio funkcijas. Teikdamas paslaugas, antstolis privalo vengti interesų konflikto ar kitų aplinkybių, kurios galėtų kelti abejonių antstolio objektyvumu ir nešališkumu atliekant įstatymų nustatytas funkcijas. Visais atvejais antstolis privalo teikti pirmumą įstatymų nustatytoms funkcijoms.
+3. Paslaugų teikimas neturi trukdyti atlikti įstatymų nustatytas funkcijas. Teikdamas paslaugas, antstolis privalo vengti interesų konflikto ar kitų aplinkybių, kurios galėtų kelti abejonių antstolio objektyvumu ir nešališkumu atliekant įstatymų nustatytas funkcijas. Visais atvejais antstolis privalo teikti pirmumą įstatymų nustatytoms funkcijoms. Antstolis negali teikti mokamų paslaugų vykdomosiose bylose, jeigu tuos pačius veiksmus jis turi atlikti priverstinio vykdymo priemonėmis. Atliekant funkcijas ir teikiant paslaugas, turi būti užtikrintas funkcijų atlikimo ir paslaugų teikimo atribojimas.
 
 
 
 
-4. Atlyginimo antstoliui už įstatymų nustatytų vykdomųjų dokumentų vykdymą, faktinių aplinkybių konstatavimą teismo pavedimu, dokumentų perdavimą ir įteikimą teismo pavedimu Lietuvos Respublikoje esantiems fiziniams ir juridiniams asmenims tvarką ir dydžius nustato Vyriausybė arba jos įgaliota institucija.
+4. Vykdymo išlaidas sudaro:
+
+
+1) vykdomosios bylos administravimo išlaidos. Jas sudaro kiekvienoje vykdomojoje byloje privalomiems veiksmams atlikti būtinos išlaidos ir papildomos išlaidos, kurios patiriamos atliekant atskirus veiksmus konkrečioje vykdomojoje byloje;
 
 
 
 
-5. Antstolis dėl šio straipsnio 2 dalyje nurodytų paslaugų apmokėjimo dydžio ir tvarkos susitaria su klientu sudarydamas sutartį dėl jų teikimo, jeigu įstatymai nenustato kitaip. 
+2) atlygis antstoliui už įstatymų nustatytų vykdomųjų dokumentų vykdymą, faktinių aplinkybių konstatavimą teismo pavedimu, dokumentų perdavimą ir įteikimą teismo pavedimu.
+
+
+
+
+
+
+5. Vykdymo išlaidos grindžiamos ekonominiais skaičiavimais. Vykdomosios bylos administravimo išlaidos turi atitikti antstolio ir jo darbuotojų patirtas sąnaudas (materialines ir laiko) vykdymo veiksmams atlikti. Atlygis antstoliui turi užtikrinti pagrįstą investicijų grąžą, galimybę sukurti tinkamas klientų aptarnavimo sąlygas ir įdarbinti reikalingus darbuotojus.
+
+
+
+
+6. Vykdymo išlaidų dydį, apskaičiavimo ir apmokėjimo tvarką nustato Vyriausybė arba jos įgaliota institucija.
+
+
+
+
+7. Antstolis privalo Vyriausybei arba jos įgaliotai institucijai jų nustatyta tvarka teikti gautų pajamų ir patirtų išlaidų atliekant antstolio funkcijas ir teikiant paslaugas ataskaitas.
+
+
+
+
+8. Antstolis dėl šio straipsnio 2 dalyje nurodytų paslaugų kainos ir apmokėjimo tvarkos susitaria su klientu sudarydamas sutartį dėl paslaugų teikimo, jeigu įstatymai nenustato kitaip. 
+
+
+Straipsnio pakeitimai:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
  
-
-
 
 
 
@@ -765,17 +848,33 @@ Nr. IX-2537, 2004-11-04, Žin., 2004, Nr. 171-6297 (2004-11-26), i. k. 1041010IS
 
 
 
-3. Faktinių aplinkybių konstatavimo protokolas, antstolio surašytas įstatymų nustatyta tvarka, laikomas oficialiu rašytiniu įrodymu. 
+3. Konstatuodamas faktines aplinkybes, antstolis turi tiek pat teisių įeiti į fiziniams ir juridiniams asmenims priklausančias gyvenamąsias ar negyvenamąsias patalpas, teritorijas ir būti jose kaip ir asmuo, kurio prašymu konstatuojamos faktinės aplinkybės. 
+Papildyta straipsnio dalimi:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
+ 
 
 
 
 
-4. Konstatuojant faktines aplinkybes fizinių ar juridinių asmenų prašymu, faktinių aplinkybių konstatavimo protokolas surašomas dviem egzemplioriais. Vienas iš jų išduodamas asmeniui, kurio prašymu buvo konstatuotos faktinės aplinkybės, o antras saugomas antstolio (antstolių) kontoroje. Faktinių aplinkybių konstatavimo protokolas elektronine forma, išskyrus vaizdo ar garso įrašus, ne vėliau kaip kitą dieną nuo surašymo dienos Antstolių informacinės sistemos nuostatų nustatyta tvarka perduodamas į Antstolių informacinės sistemos duomenų bazę. 
+4. Faktinių aplinkybių konstatavimo protokolas, antstolio surašytas teismo pavedimu, laikomas oficialiu rašytiniu įrodymu. 
+Straipsnio dalies pakeitimai:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
+ 
 
 
 
 
-5. Teismo pavedimu faktinės aplinkybės konstatuojamos Civilinio proceso kodekso nustatyta tvarka. 
+5. Konstatuojant faktines aplinkybes fizinių ar juridinių asmenų prašymu, faktinių aplinkybių konstatavimo protokolas surašomas dviem egzemplioriais. Vienas iš jų išduodamas asmeniui, kurio prašymu buvo konstatuotos faktinės aplinkybės, o antras saugomas antstolio (antstolių) kontoroje. Faktinių aplinkybių konstatavimo protokolas elektronine forma, išskyrus vaizdo ar garso įrašus, ne vėliau kaip kitą dieną nuo surašymo dienos Antstolių informacinės sistemos nuostatų nustatyta tvarka perduodamas į Antstolių informacinės sistemos duomenų bazę. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
+ 
+
+
+
+
+6. Teismo pavedimu faktinės aplinkybės konstatuojamos Civilinio proceso kodekso nustatyta tvarka. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
  
 
 
@@ -851,7 +950,7 @@ Nr. IX-2537, 2004-11-04, Žin., 2004, Nr. 171-6297 (2004-11-26), i. k. 1041010IS
 
 
 
-27 straipsnis. Antstolio, antstolio padėjėjo veiklos kontrolė ir tikrinimas
+27 straipsnis. Antstolio, antstolio padėjėjo veiklos kontrolė ir skundų nagrinėjimas
 
 
 1. Antstolio procesinių veiksmų teisėtumą Civilinio proceso kodekso nustatyta tvarka kontroliuoja teismas.
@@ -859,20 +958,32 @@ Nr. IX-2537, 2004-11-04, Žin., 2004, Nr. 171-6297 (2004-11-26), i. k. 1041010IS
 
 
 
-2. Antstolių darbo organizavimą teisingumo ministro nustatyta tvarka tikrina Teisingumo ministerija ir Lietuvos antstolių rūmai.
+2. Kaip antstoliai (antstolių padėjėjai) laikosi šio Įstatymo, Sprendimų vykdymo instrukcijos, Antstolių profesinės etikos kodekso, kitų teisingumo ministro tvirtinamų teisės aktų, reglamentuojančių antstolių veiklą, ir vykdymo išlaidų išieškojimo tvarkos, nesusijusios su vykdymo išlaidų dydžio apskaičiavimu, pagal kompetenciją teisingumo ministro nustatyta tvarka kontroliuoja Teisingumo ministerija ir Lietuvos antstolių rūmai.
 
 
 
 
-3. Įstatymų nustatyta tvarka antstolių veiklą gali tikrinti ir kitos institucijos. 
+3. Įstatymų nustatyta tvarka antstolių veiklą gali tikrinti ir kitos institucijos.
 
 
 
 
-4. Antstolis privalo kontroliuoti savo padėjėjų veiklą. 
+4. Antstolis privalo kontroliuoti savo padėjėjų veiklą.
+
+
+
+
+5. Antstoliui raštu pateiktus asmenų prašymus ir skundus dėl jo veiklos, išskyrus prašymus ir skundus, kuriuos pagal įstatymus nagrinėja teismas, antstolis privalo ne vėliau kaip per keturiolika darbo dienų išnagrinėti ir raštu pateikti motyvuotus atsakymus, jeigu kiti įstatymai nenustato kitaip.
+
+
+
+
+6. Asmenų prašymus ir skundus dėl antstolių veiklos, išskyrus prašymus ir skundus, kuriuos pagal įstatymus nagrinėja teismas, nagrinėja Lietuvos antstolių rūmai ar Teisingumo ministerija. Teisingumo ministerija paprastai nenagrinėja asmenų prašymų ir skundų, kurie nebuvo nagrinėti Lietuvos antstolių rūmuose. 
+
+
+Straipsnio pakeitimai:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
  
-
-
 
 
 
@@ -916,22 +1027,24 @@ ANTSTOLIO PADĖJĖJAS
 1. Teisė vykdyti antstolio padėjėjo veiklą atimama išbraukiant antstolio padėjėją iš antstolių padėjėjų sąrašo:
 
 
-1) paskyrus šio Įstatymo 15 straipsnio 2 dalyje nurodytą nuobaudą;
+1) paskyrus šio Įstatymo 15 straipsnio 2 dalies 3 punkte nurodytą drausminę nuobaudą;
 
 
 
 
-2) pasibaigus darbo sutarčiai dėl darbo antstolio padėjėju. 
+2) pasibaigus darbo sutarčiai dėl darbo antstolio padėjėju.
 
 
 
 
 
 
-2. Teisės vykdyti antstolio padėjėjo veiklą atėmimas šio Įstatymo 15 straipsnio 2 dalyje nurodytu atveju yra pagrindas nutraukti su juo darbo sutartį dėl darbo antstolio padėjėju.
+2. Teisės vykdyti antstolio padėjėjo veiklą atėmimas šio Įstatymo 15 straipsnio 2 dalies 3 punkte nurodytu atveju yra pagrindas nutraukti su juo darbo sutartį dėl darbo antstolio padėjėju. 
+
+
+Straipsnio pakeitimai:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
  
-
-
 
 
 
@@ -939,12 +1052,22 @@ ANTSTOLIO PADĖJĖJAS
 30 straipsnis. Antstolio padėjėjo teisės ir pareigos
 
 
-1. Antstolio padėjėjas turi teisę antstolio vardu ir jo rašytiniu įgaliojimu perduoti ir įteikti dokumentus, atlikti procesinius veiksmus, išskyrus faktinių aplinkybių konstatavimą, vykdomosios bylos iškėlimą ar sustabdymą, vykdomojo dokumento grąžinimą, turto realizavimą, išieškotų piniginių lėšų paskirstymą išieškotojams, vykdymo išlaidų skaičiavimą. 
+1. Antstolio padėjėjas turi teisę antstolio vardu ir jo rašytiniu įgaliojimu atlikti procesinius veiksmus, teikti šio Įstatymo 21 straipsnio 2 dalyje nurodytas paslaugas, išskyrus faktinių aplinkybių konstatavimą, įkeisto kilnojamojo turto realizavimą aukciono tvarka, vykdomosios bylos iškėlimą ar sustabdymą, vykdomojo dokumento grąžinimą, turto realizavimą, išieškotų piniginių lėšų paskirstymą išieškotojams, vykdymo išlaidų skaičiavimą. 
+Straipsnio dalies pakeitimai:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
+ 
 
 
 
 
 2. Antstolio padėjėjas privalo laikytis darbo drausmės, Antstolių profesinės etikos kodekso reikalavimų, nepriekaištingai vykdyti antstolio pavedimus, elgtis taip, kad nežemintų antstolio vardo, apie pavedimo įvykdymą nedelsdamas pranešti antstoliui.
+
+
+
+
+3. Skiriant pavaduojantįjį antstolį, pavaduojamojo antstolio padėjėjas privalo gauti pavaduojančiojo antstolio rašytinį įgaliojimą veikti jo vardu atliekant šio straipsnio 1 dalyje numatytus veiksmus. 
+Papildyta straipsnio dalimi:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
  
 
 
@@ -968,13 +1091,15 @@ ANTSTOLIO PADĖJĖJAS
 
 
 
-32 straipsnis. Antstolio padėjėjo veiklos apribojimas 
+32 straipsnis. Antstolio padėjėjo veiklos apribojimas
 
 
-Antstolio padėjėjas negali eiti kitų apmokamų pareigų įmonėse, įstaigose ir organizacijose ar dirbti kito darbo, išskyrus mokslinę, kūrybinę ar pedagoginę veiklą. 
+Antstolio padėjėjas negali eiti kitų mokamų pareigų įmonėse, įstaigose ir organizacijose ar dirbti kito darbo, išskyrus mokslinę, kūrybinę ar pedagoginę veiklą, taip pat negali būti renkamas (skiriamas) įmonės, kurios veikla yra susijusi su skolų išieškojimu, turto saugojimu, turto vertinimu, teisinėmis konsultacijomis, tarpininkavimo paslaugų teikimu, valdymo organų nariu. 
+
+
+Straipsnio pakeitimai:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
  
-
-
 
 
 
@@ -1010,7 +1135,9 @@ ANTSTOLIO ATSTOVAVIMAS IR PAVADAVIMAS
 
 
 
-2. Antstolis, ilgiau kaip tris darbo dienas negalintis atlikti savo funkcijų dėl ligos, atostogų ar kitų priežasčių, privalo apie tai pranešti Teisingumo ministerijai ir Lietuvos antstolių rūmų prezidiumui. Jeigu antstolis negalės atlikti savo funkcijų dėl numatomų priežasčių, apie tai iš anksto, tinkamu laiku jis turi pranešti Teisingumo ministerijai ir Lietuvos antstolių rūmų prezidiumui. Jeigu antstolis neatliko savo funkcijų tris darbo dienas ir apie tai nepranešė Teisingumo ministerijai ir Lietuvos antstolių rūmų prezidiumui, šių institucijų reikalavimu jis turi nurodyti priežastis, dėl kurių negalėjo atlikti savo funkcijų. 
+2. Antstolis, negalintis atlikti savo funkcijų dėl ligos ar kitų priežasčių daugiau negu vieną darbo dieną, ne vėliau kaip antrą veiklos nevykdymo darbo dieną privalo apie tai pranešti Teisingumo ministerijai ir Lietuvos antstolių rūmų prezidiumui. Jeigu antstolis negalės atlikti savo funkcijų dėl numatomų priežasčių, apie tai iš anksto, tinkamu laiku, jis turi pranešti Teisingumo ministerijai ir Lietuvos antstolių rūmų prezidiumui. 
+Straipsnio dalies pakeitimai:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
  
 
 
@@ -1021,12 +1148,18 @@ ANTSTOLIO ATSTOVAVIMAS IR PAVADAVIMAS
 35 straipsnis. Antstolio atstovavimas
 
 
-1. Antstolio atstovu gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį teisinį universitetinį išsilavinimą (vienpakopį, bakalauro, magistro), išlaikęs antstolio kvalifikacinį egzaminą, ne mažiau kaip vienerius metus buvęs antstolio padėjėju arba ne mažiau kaip penkerius metus dirbęs teisinį darbą. Socialinių mokslų teisės krypties daktaras bei habilituotas daktaras antstolio atstovu gali būti skiriamas be egzaminų. Antstolio atstovas skiriamas pagal atstovaujamo antstolio ir asmens, kuris sutinka jam atstovauti, prašymus. Jeigu antstolis ne dėl savo kaltės negali atlikti antstolio funkcijų ir pagrįstai negali pateikti prašymo skirti antstolio atstovą, teisingumo ministras, atsižvelgdamas į Lietuvos antstolių rūmų prezidiumo nuomonę, turi teisę paskirti antstolio atstovą savo iniciatyva, kai būtina užtikrinti, kad toje teritorijoje būtų atliekamos antstolio funkcijos. 
+1. Antstolio atstovu gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį teisinį universitetinį išsilavinimą (vienpakopį, bakalauro, magistro), išlaikęs antstolio kvalifikacinį egzaminą, ne mažiau kaip dvejus metus buvęs antstolio padėjėju arba ne mažiau kaip penkerius metus dirbęs teisinį darbą. Socialinių mokslų teisės krypties daktaras bei habilituotas daktaras antstolio atstovu gali būti skiriamas be egzaminų. Antstolio atstovas skiriamas teisingumo ministro įsakymu pagal atstovaujamo antstolio ir asmens, kuris sutinka jam atstovauti, prašymus. Jeigu antstolis ne dėl savo kaltės negali atlikti antstolio funkcijų ir pagrįstai negali pateikti prašymo skirti antstolio atstovą, teisingumo ministras, atsižvelgdamas į Lietuvos antstolių rūmų prezidiumo nuomonę, turi teisę paskirti antstolio atstovą savo iniciatyva, kai būtina užtikrinti, kad toje teritorijoje būtų atliekamos antstolio funkcijos. 
+Straipsnio dalies pakeitimai:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
+ 
 
 
 
 
-2. Asmuo gali būti skiriamas tik vieno antstolio atstovu. Antstolio atstovas gali būti skiriamas konkrečiam terminui, kuris gali būti pratęstas, nurodant atvejus, kada jis gali vykdyti antstolio atstovo veiklą. Antstolio atstovo veiklą gali vykdyti asmuo, paskirtas antstolio atstovu ir prisiekęs šio Įstatymo 9 straipsnio nustatyta tvarka. Jeigu asmuo iki paskyrimo antstolio atstovu šio Įstatymo nustatyta tvarka buvo davęs antstolio priesaiką, iš naujo prisiekti nereikia. Atstovaujamasis antstolis atstovavimo metu negali atlikti jokių antstolio funkcijų bei teikti kitų šiame Įstatyme numatytų paslaugų.
+2. Asmuo vienu metu gali būti skiriamas tik vieno antstolio atstovu. Antstolio atstovas gali būti skiriamas ne ilgesniam kaip vienerių metų terminui. Šis terminas dėl svarbių priežasčių gali būti pratęstas. Antstolio atstovo veiklą gali vykdyti asmuo, paskirtas antstolio atstovu ir prisiekęs šio Įstatymo 9 straipsnio nustatyta tvarka. Jeigu asmuo iki paskyrimo antstolio atstovu šio Įstatymo nustatyta tvarka buvo davęs antstolio priesaiką, iš naujo prisiekti nereikia. Atstovaujamasis antstolis atstovavimo metu negali atlikti jokių antstolio funkcijų ir teikti kitų šiame Įstatyme numatytų paslaugų. 
+Straipsnio dalies pakeitimai:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
+ 
 
 
 
@@ -1072,12 +1205,18 @@ ANTSTOLIO ATSTOVAVIMAS IR PAVADAVIMAS
 36 straipsnis. Antstolio pavadavimas 
 
 
-1. Teisingumo ministro įsakymu ne ilgesniam kaip keturiolikos dienų laikotarpiui gali būti skiriamas pavaduojantysis, pavaduojamojo antstolio pasiūlytas antstolis, o jei toks pasiūlymas nepateiktas, pavaduojančiuoju antstoliu gali būti skiriamas kitas tos pačios antstolių kontoros antstolis, toje pačioje veiklos teritorijoje ar besiribojančioje teritorijoje veikiantis antstolis. 
+1. Teisingumo ministro įsakymu ne ilgesniam kaip trisdešimties dienų laikotarpiui gali būti skiriamas pavaduojamojo antstolio pasiūlytas pavaduojantysis antstolis, o jei toks pasiūlymas nepateiktas, pavaduojančiuoju antstoliu gali būti skiriamas kitas tos pačios antstolių kontoros antstolis, toje pačioje veiklos teritorijoje ar besiribojančioje teritorijoje veikiantis antstolis. 
+Straipsnio dalies pakeitimai:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
+ 
 
 
 
 
-2. Jei antstolio įgaliojimai yra sustabdyti ar šio Įstatymo 35 straipsnyje nustatyta tvarka nėra paskirtas antstolio atstovas, pavaduojantysis antstolis gali būti skiriamas teisingumo ministro iniciatyva. Šioje dalyje nurodytu atveju pavaduojantysis antstolis gali būti skiriamas ir ilgesniam kaip keturiolikos dienų laikotarpiui.
+2. Jei antstolio įgaliojimai yra sustabdyti ar šio Įstatymo 35 straipsnyje nustatyta tvarka nėra paskirtas antstolio atstovas, pavaduojantysis antstolis gali būti skiriamas teisingumo ministro iniciatyva. Šioje dalyje nurodytu atveju pavaduojantysis antstolis skiriamas iki antstolio įgaliojimų atnaujinimo arba kol bus paskirtas antstolio atstovas. 
+Straipsnio dalies pakeitimai:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
+ 
 
 
 
@@ -1107,7 +1246,10 @@ KITI ANTSTOLIŲ VEIKLOS KLAUSIMAI
  
 
 
-37 straipsnis. Duomenų bei informacijos, gautų vykdant veiklą, apskaita ir saugojimas
+37 straipsnis. Duomenų ir informacijos apskaita, teikimas ir saugojimas vykdant antstolio veiklą 
+Pakeistas straipsnio pavadinimas:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
+ 
 
 
 1. Antstolio priimti vykdyti vykdomieji dokumentai įtraukiami į bendrą vykdomųjų dokumentų sąrašą. Duomenys apie vykdomųjų dokumentų vykdymą, faktinių aplinkybių konstatavimą bei dokumentų perdavimą ar įteikimą saugomi antstolio (antstolių) kontoroje. Duomenų apie vykdomųjų dokumentų priėmimą ir vykdymą, faktinių aplinkybių konstatavimą bei dokumentų perdavimą ar įteikimą, saugojimo, apskaitos, naudojimo ir sunaikinimo tvarką tvirtina teisingumo ministras.
@@ -1120,7 +1262,10 @@ KITI ANTSTOLIŲ VEIKLOS KLAUSIMAI
 
 
 
-3. Informacija apie fizinio asmens privataus gyvenimo aplinkybes bei profesines paslaptis arba juridinių asmenų komercines paslaptis, gauta ar paaiškėjusi vykdant vykdomuosius dokumentus, konstatuojant faktines aplinkybes, įteikiant ar perduodant dokumentus, negali būti atskleidžiama ar pateikiama, išskyrus įstatymų nustatytus atvejus.
+3. Antstolis privalo teikti Teisingumo ministerijai ir Lietuvos antstolių rūmams informaciją, reikalingą šio Įstatymo 27 straipsnio 2 dalyje nustatytai kontrolei atlikti. Informacija apie fizinio asmens privataus gyvenimo aplinkybes ir profesines paslaptis arba juridinių asmenų komercines paslaptis, gauta ar paaiškėjusi atliekant antstolio funkcijas ar teikiant paslaugas, negali būti atskleidžiama ar pateikiama, išskyrus įstatymų nustatytus atvejus. 
+Straipsnio dalies pakeitimai:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
+ 
 
 
 
@@ -1157,29 +1302,61 @@ KITI ANTSTOLIŲ VEIKLOS KLAUSIMAI
 39 straipsnis. Antstolių atestavimas ir sveikatos tikrinimas
 
 
-1. Antstoliai atestuojami kas treji metai. Antstolius atestuoja Antstolių atestavimo komisija. Šią komisiją sudaro, jos nuostatus ir Antstolių atestavimo tvarką tvirtina teisingumo ministras. 
+1. Siekiant patikrinti antstolių kvalifikaciją ir profesines žinias, rengiama eilinė ir neeilinė antstolių atestacija. Eilinė antstolių atestacija vyksta kas ketveri metai. Antstolius atestuoja Antstolių atestavimo komisija. Šią komisiją sudaro, jos nuostatus ir Antstolių atestavimo taisykles tvirtina teisingumo ministras.
 
 
 
 
-2. Antstolių atestavimo komisija susideda iš penkių narių, iš kurių tris, tarp jų ir pirmininką, skiria teisingumo ministras, du narius – Lietuvos antstolių rūmų prezidiumas.
+2. Antstolių atestavimo komisija susideda iš penkių narių, iš kurių du, tarp jų ir pirmininką, skiria teisingumo ministras, du narius – Lietuvos antstolių rūmai, vieną narį – Lietuvos Aukščiausiojo Teismo pirmininkas. Antstolių atestavimo komisijos nariais gali būti skiriami tik aukštąjį teisinį universitetinį išsilavinimą turintys asmenys.
 
 
 
 
-3. Antstolis privalo kas penkerius metus tikrintis sveikatą sveikatos apsaugos ministro ir teisingumo ministro nustatyta tvarka.
+3. Antstolio neeilinė atestacija gali būti inicijuojama, jei, atlikus patikrinimą, dėl nustatytų pasikartojančių antstolio profesinės veiklos pažeidimų kyla pagrįstos abejonės antstolio kvalifikacija, bet nėra pagrindo antstoliui taikyti drausminę atsakomybę. Teisę inicijuoti antstolio neeilinę atestaciją turi teisingumo ministras ar Lietuvos antstolių rūmai. Antstolio neeilinė atestacija gali būti ne anksčiau kaip praėjus šešiems mėnesiams po antstolio atestacijos dienos.
+
+
+
+
+4. Antstolių atestavimo komisija priima vieną iš šių išvadų:
+
+
+1) antstolį atestuoti;
+
+
+
+
+2) antstolį atestuoti su sąlyga, kad jis per nustatytą terminą pašalins komisijos nurodytus veiklos trūkumus ir papildomai tobulins profesinę kvalifikaciją;
+
+
+
+
+3) antstolio neatestuoti ir pasiūlyti teisingumo ministrui spręsti klausimą dėl asmens atleidimo iš antstolių. 
+
+
+
+
+
+
+5. Antstolis privalo kas penkerius metus tikrintis sveikatą sveikatos apsaugos ministro ir teisingumo ministro nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
  
 
 
 
 
-
-
-40 straipsnis. Antstolio raštvedyba 
+40 straipsnis. Antstolio dokumentų valdymas 
+Pakeistas straipsnio pavadinimas:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
  
 
 
-1. Antstolio raštvedyba tvarkoma ir procesiniai veiksmai atliekami valstybine kalba. Išieškotojo ar skolininko prašymu ir lėšomis dokumentai gali būti parengiami valstybine ir išieškotojo ar skolininko pasirinkta užsienio kalba. 
+1. Antstolio dokumentai rengiami ir procesiniai veiksmai atliekami valstybine kalba. Išieškotojo ar skolininko prašymu ir lėšomis dokumentai gali būti rengiami valstybine ir išieškotojo ar skolininko pasirinkta užsienio kalba. 
+Straipsnio dalies pakeitimai:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
+ 
 
 
 
@@ -1205,12 +1382,25 @@ KITI ANTSTOLIŲ VEIKLOS KLAUSIMAI
 
 
 
-3. Prieš pradėdamas vykdyti antstolio veiklą, antstolis privalo pateikti Teisingumo ministerijai ir Lietuvos antstolių rūmams savo antspaudo ir parašo pavyzdį. 
+3. Antstolio depozitinėje sąskaitoje laikomos kitiems asmenims priklausančios piniginės lėšos negali būti įkeistos, areštuotos, jomis negali būti naudojamasi, disponuojama, į jas negali būti nukreipiamas išieškojimas pagal antstolio prievoles, taip pat dėl jų negali būti sudaromos indėlių sutartys. 
+Papildyta straipsnio dalimi:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
+ 
 
 
 
 
-4. Antstolis privalo Teisingumo ministerijai ir Lietuvos antstolių rūmams pateikti pasikeitusio antspaudo ar parašo pavyzdį.
+4. Prieš pradėdamas vykdyti antstolio veiklą, antstolis privalo pateikti Teisingumo ministerijai ir Lietuvos antstolių rūmams savo antspaudo ir parašo pavyzdį. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
+ 
+
+
+
+
+5. Antstolis privalo Teisingumo ministerijai ir Lietuvos antstolių rūmams pateikti pasikeitusio antspaudo ar parašo pavyzdį.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
  
 
 
@@ -1229,23 +1419,25 @@ Antstolis savo blankuose, antspaude ir iškaboje naudoja Lietuvos valstybės her
 
 
 
-43 straipsnis. Antstolio archyvas
+43 straipsnis. Antstolio veiklos dokumentai
 
 
-1. Antstolis privalo tinkamai tvarkyti savo archyvą. 
-
-
-
-
-2. Pavyzdinę antstolių bylų nomenklatūrą ir vykdomųjų bylų, faktinių aplinkybių konstatavimo bei dokumentų perdavimo ir įteikimo, kitų dokumentų ir archyvo tvarkymo taisykles tvirtina teisingumo ministras, suderinęs su Lietuvos archyvų departamentu prie Lietuvos Respublikos Vyriausybės. 
+1. Antstolis privalo tinkamai tvarkyti savo veiklos dokumentus. Antstolio veiklos dokumentų tvarkymo ir saugojimo taisykles nustato teisingumo ministras, suderinęs su Lietuvos archyvų departamento prie Lietuvos Respublikos Vyriausybės direktoriumi.
 
 
 
 
-3. Antstolio archyvas yra Lietuvos archyvų fondo dalis.
+2. Teisingumo ministras kartu su Lietuvos archyvų departamento prie Lietuvos Respublikos Vyriausybės direktoriumi tvirtina antstolių veiklos dokumentų saugojimo terminų rodyklę.
+
+
+
+
+3. Antstolio veiklos dokumentai yra Nacionalinio dokumentų fondo dalis. 
+
+
+Straipsnio pakeitimai:
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
  
-
-
 
 
 
@@ -1534,3 +1726,8 @@ Lietuvos Respublikos antstolių įstatymo, Notariato įstatymo, Bankų įstatymo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-415, 2005-11-22, Žin., 2005, Nr. 143-5177 (2005-12-08), i. k. 1051010ISTA000X-415
 Lietuvos Respublikos antstolių įstatymo 9 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
+Lietuvos Respublikos antstolių įstatymo 4, 5, 6, 8, 10, 11, 13, 14, 15, 21, 23, 27, 29, 30, 32, 34, 35, 36, 37, 39, 40, 41, 43 straipsnių pakeitimo ir papildymo įstatymas
