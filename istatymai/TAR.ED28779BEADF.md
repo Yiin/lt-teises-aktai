@@ -74,12 +74,8 @@ tipo kolektyvinio investavimo subjektas – kolektyvinio investavimo
 subjektas, kurio investiciniai vienetai ar akcijos išleidžiami ir išperkami
 investuotojo reikalavimu. 
 2. Dukterinė
-įmonė – kaip tai apibrėžta Įmonių konsoliduotos finansinės atskaitomybės
-įstatyme.
-3 dalies redakcija iki 2008 m. liepos 23 d.:
-3. Finansinės
-priemonės – kaip tai apibrėžta Finansinių priemonių rinkų įstatyme.
-3 dalies redakcija nuo 2008 m. liepos 23 d.:
+įmonė – kaip tai apibrėžta Įmonių grupių konsoliduotosios finansinės
+atskaitomybės įstatyme.
 3. Finansinės
 priemonės: 
 1) suderintajam
@@ -89,7 +85,6 @@ Finansinių priemonių rinkų įstatymo 3 straipsnio 4 dalies 1–4 punktuose;
 2) specialiajam
 kolektyvinio investavimo subjektui – kaip tai apibrėžta Finansinių priemonių
 rinkų įstatymo 3 straipsnio 4 dalyje.
- 
 4. Finansinių
 priemonių indeksas – statistinis rodiklis, kuriuo išreiškiamas jį
 sudarančių finansinių priemonių vertės kitimas. 
@@ -110,13 +105,6 @@ kintamojo kapitalo bendrovė – akcinė bendrovė, kurios akcininkai turi teis�
 bet kada pareikalauti išpirkti jų akcijas, o jos kapitalo dydis kinta
 priklausomai nuo akcijų išleidimo ir išpirkimo. Investicinė kintamojo kapitalo
 bendrovė gali būti tik atviro tipo. 
- 
-10 dalies redakcija iki 2008 m. liepos 23 d.:
-10. Investicinės
-priemonės – Finansinių priemonių rinkų įstatymo 3 straipsnio 4 dalyje
-nurodytos finansinės priemonės, taip pat indėliai, nekilnojamasis turtas ir jam
-eksploatuoti būtinas kilnojamasis turtas ir įrenginiai.
-10 dalies redakcija nuo 2008 m. liepos 23 d.:
 10. Investicinės
 priemonės: 
 1) suderintajam
@@ -129,7 +117,6 @@ kolektyvinio investavimo subjektui – Finansinių priemonių rinkų įstatymo 3
 straipsnio 4 dalyje nurodytos finansinės priemonės, taip pat indėliai,
 nekilnojamasis turtas ir jam eksploatuoti būtinas kilnojamasis turtas bei
 įrenginiai.
- 
 11.
 Investicinis fondas – veiklos forma, kai bendrosios dalinės
 nuosavybės teise juridiniams ar fiziniams asmenims priklausantis turtas valdymo
@@ -145,13 +132,6 @@ dalį.
 siūlymas – investicinių vienetų arba akcijų siūlymas per visuomenės
 informavimo priemones, reklamą arba kitais būdais, kai kreipiamasi į daugiau
 kaip 100 asmenų.
- 
-14 dalies redakcija iki 2008 m. liepos 23 d.:
-14. Išvestinės
-finansinės priemonės – Finansinių priemonių rinkų įstatymo 3 straipsnio 4
-dalies 4, 5, 6, 7, 8, 9 ir 10 punktuose numatytos finansinės priemonės, kurių
-vertė priklauso nuo vienos ar kelių finansinių priemonių vertės. 
-14 dalies redakcija nuo 2008 m. liepos 23 d.:
 14. Išvestinės
 finansinės priemonės:
 1) suderintajam
@@ -163,7 +143,6 @@ kainos, valiutos keitimo kurso arba finansinio indekso;
 kolektyvinio investavimo subjektui – Finansinių priemonių rinkų įstatymo 3
 straipsnio 4 dalies 4–10 punktuose nurodytos finansinės priemonės, kurių vertė
 priklauso nuo vienos ar kelių finansinių priemonių vertės.
- 
 15. Kolektyvinio
 investavimo subjektas – investicinis fondas ar investicinė bendrovė, kurių
 sudarymo vienintelis tikslas – šio straipsnio 13 dalyje nustatyta tvarka
@@ -180,18 +159,18 @@ investavimo subjekto perleidžiamuosius vertybinius popierius.
 18. Kolektyvinio
 investavimo subjekto subfondas – sudėtinio kolektyvinio investavimo
 subjekto turto dalis, tvarkoma atskirai nuo kito jo turto. 
-19. Kontrolė –
-kaip tai apibrėžta Įmonių konsoliduotos finansinės atskaitomybės įstatyme.
+19. Kontrolė – tiesioginis ir (arba) netiesioginis lemiamas
+poveikis įmonei, kaip tai apibrėžta Įmonių grupių konsoliduotosios finansinės
+atskaitomybės įstatyme.
 20. Lyginamasis
-indeksas – valdymo įmonės ar investicinės bendrovės, kurios turto valdymas neperduotas
-valdymo įmonei, pasirenkamas rodiklis, su kurio reikšmės kitimu lyginama
-kolektyvinio investavimo subjekto investicijų grąža. 
+indeksas – valdymo įmonės ar investicinės bendrovės, kurios turto valdymas
+neperduotas valdymo įmonei, pasirenkamas rodiklis, su kurio reikšmės kitimu
+lyginama kolektyvinio investavimo subjekto investicijų grąža. 
 21. Nepriekaištingos
-reputacijos asmenys – kaip tai apibrėžta Finansinių priemonių rinkų
-įstatyme.
+reputacijos asmenys – kaip tai apibrėžta Finansinių priemonių rinkų įstatyme.
 22. Patronuojanti
-įmonė – kaip tai apibrėžta Įmonių konsoliduotos finansinės atskaitomybės
-įstatyme.
+įmonė – kaip tai apibrėžta Įmonių grupių konsoliduotosios finansinės
+atskaitomybės įstatyme.
 23. Periodinė
 ataskaita – dokumentas, kuriame investuotojams ir visuomenei pateikiama
 informacija apie valdymo įmonės, kolektyvinio investavimo subjekto veiklos
@@ -208,12 +187,6 @@ ir kitų formų ne nuosavybės vertybiniai popieriai;
 perleidžiamieji vertybiniai popieriai, kurie suteikia teisę pasirašymo ar
 keitimo būdu įsigyti šios dalies 1 ir 2 punktuose nurodytų perleidžiamųjų
 vertybinių popierių.
- 
-25 dalies redakcija iki 2008 m. liepos 23 d.:
-25. Pinigų
-rinkos priemonės – Finansinių priemonių rinkų įstatyme apibrėžtos pinigų
-rinkos priemonės, kurių vertę bet kuriuo metu galima tiksliai nustatyti.
-25 dalies redakcija nuo 2008 m. liepos 23 d.:
 25. Pinigų
 rinkos priemonės:
 1) suderintajam
@@ -224,7 +197,6 @@ nustatyti;
 kolektyvinio investavimo subjektui – finansinių priemonių rinkų įstatymo 3
 straipsnio 5 dalyje apibrėžtos pinigų rinkos priemonės, kurių vertę bet kuriuo
 metu galima tiksliai nustatyti.
- 
 26. Pradinis
 kapitalas – mažiausias nuosavas kapitalas, kurį privalo turėti
 valdymo įmonė ar investicinė bendrovė.
@@ -241,17 +213,6 @@ tvarka ir kuriam netaikomi Europos Sąjungos teisės reikalavimai.
 29. Sudarymo
 dokumentai – investicinio fondo taisyklės ar investicinės bendrovės
 įstatai.
- 
-30 dalies redakcija iki 2008 m. liepos 23 d.:
-30.
-Suderintasis kolektyvinio investavimo į perleidžiamuosius vertybinius popierius
-subjektas (toliau – suderintasis kolektyvinio investavimo subjektas)
-– Europos Sąjungos teisės reglamentuojamas kolektyvinio investavimo subjektas,
-kurio lėšos siekiant padalyti riziką investuojamos į perleidžiamuosius
-vertybinius popierius ir (arba) kitą šio įstatymo VI skyriuje numatytą likvidų
-turtą ir kurio perleidžiamieji vertybiniai popieriai (investiciniai vienetai
-arba akcijos) turi būti išperkami bet kada jų turėtojui pareikalavus. 
-30 dalies redakcija nuo 2008 m. liepos 23 d.:
 30.
 Suderintasis kolektyvinio investavimo subjektas – Europos Sąjungos teisės
 reglamentuojamas kolektyvinio investavimo subjektas, kurio lėšos siekiant
@@ -259,11 +220,10 @@ padalyti riziką investuojamos į perleidžiamuosius vertybinius popierius ir
 (arba) kitą šio įstatymo VI skyriuje numatytą likvidų turtą ir kurio
 perleidžiamieji vertybiniai popieriai (investiciniai vienetai arba akcijos)
 turi būti išperkami bet kada jų turėtojui pareikalavus.
- 
 31. Sudėtinis
 kolektyvinio investavimo subjektas – atviro tipo investicinis fondas ar
-investicinė kintamojo kapitalo bendrovė, kurių turtas padalytas į atskirus subfondus.
-
+investicinė kintamojo kapitalo bendrovė, kurių turtas padalytas į atskirus
+subfondus. 
 32.
 Turto valdymas:
 1) investicinių sprendimų priėmimas ir vykdymas;
@@ -291,16 +251,18 @@ laiku.
 35. Užsienio
 priežiūros institucija – priežiūros institucija, kuri užsienio valstybėje
 atlieka panašias valdymo įmonių ir kolektyvinio investavimo subjektų
-licencijavimo ir veiklos priežiūros funkcijas kaip Vertybinių popierių
-komisija.
+licencijavimo ir veiklos priežiūros funkcijas kaip Vertybinių popierių komisija.
 36. Valdymo
 įmonė – bendrovė, kurios pagrindinė veikla yra investicinių fondų ar
 investicinių bendrovių valdymas. 
 37. Valdymo
-įmonės akcijų paketas – ne mažiau kaip 1/10 tiesiogiai ar netiesiogiai
-valdomų valdymo įmonės akcijų ar balsavimo teisę suteikiančių akcijų dalis arba
-toks akcijų kiekis, kuris leidžia daryti esminį poveikį valdymo įmonės
-valdymui.
+įmonės akcijų paketas – tiesiogiai ar netiesiogiai valdoma valdymo įmonės
+įstatinio kapitalo ar balsavimo teisių dalis, sudaranti ne mažiau kaip 1/10
+įstatinio kapitalo ar balsavimo teisių arba leidžianti daryti esminį poveikį
+valdymo įmonės valdymui. Skaičiuojant, ar įmonės įstatinio kapitalo ar
+balsavimo teisių dalis sudaro ne mažiau kaip 1/10 įstatinio kapitalo, atsižvelgiama
+į Vertybinių popierių įstatymo 23 ir 24 straipsniuose nustatytus įpareigojimus
+bei balsų skaičiavimo tvarką.
 38. Valstybė
 narė – Europos Sąjungos valstybė narė, taip pat Europos ekonominei erdvei
 (EEE) priklausanti valstybė.
@@ -309,6 +271,8 @@ pakeitimai:
 Nr.
 X-1630,
 2008-06-19, Žin., 2008, Nr. 75-2922 (2008-07-03)
+Nr. XI-204,
+2009-03-19, Žin., 2009, Nr. 38-1443 (2009-04-04)
  
  
 II SKYRIUS
@@ -371,13 +335,13 @@ kolektyvinio investavimo subjektą valdanti valdymo įmonė negali verstis kita
 5. Suderintųjų kolektyvinio
 investavimo subjektų nevaldančioms valdymo įmonėms netaikomas šio įstatymo IX
 skyrius. 
-6. Valdymo
-įmonei, turinčiai teisę verstis šio straipsnio 1 dalies 1–4 punktuose nurodyta
-veikla, mutatis mutandis taikomi Finansinių priemonių rinkų įstatymo 13
-ir 22 straipsniuose nustatyti reikalavimai ir juos įgyvendinantys Vertybinių
-popierių komisijos teisės aktai. Taikant pirmiau minėtus Finansinių priemonių
-rinkų įstatymo reikalavimus, atsižvelgiama į Finansinių priemonių rinkų
-įstatymo 2 straipsnio 5 dalies nuostatas. 
+6. Valdymo įmonei,
+turinčiai teisę verstis šio straipsnio 1 dalies 1–4 punktuose nurodyta veikla, mutatis
+mutandis taikomi Finansinių priemonių rinkų įstatymo 13 ir 22 straipsniuose
+nustatyti reikalavimai ir juos įgyvendinantys Vertybinių popierių komisijos
+teisės aktai. Taikant pirmiau minėtus Finansinių priemonių rinkų įstatymo
+reikalavimus, atsižvelgiama į Finansinių priemonių rinkų įstatymo 2 straipsnio
+5 dalies nuostatas. 
  
 5 straipsnis. Valdymo įmonės ar investicinės
 bendrovės veiklos licencijos išdavimo tvarka
@@ -392,22 +356,22 @@ informacija apie juridinį asmenį, jo dalyvius, vadovus, veiklą, kapitalo
 reikalavimų tenkinimą ir kita Vertybinių popierių komisijos patvirtintose
 licencijavimo taisyklėse nustatyta informacija, kurią išnagrinėjusi
 Vertybinių popierių komisija galėtų konstatuoti, kad bendrovė atitinka šiame
-įstatyme nustatytus licencijuojamos veiklos reikalavimus. Veiklos licencijai gauti
-būtinų pateikti dokumentų sąrašą ir jų pateikimo tvarką nustato Vertybinių
-popierių komisija. 
+įstatyme nustatytus licencijuojamos veiklos reikalavimus. Veiklos licencijai
+gauti būtinų pateikti dokumentų sąrašą ir jų pateikimo tvarką nustato
+Vertybinių popierių komisija. 
 2. Vertybinių
 popierių komisija atsisako išduoti licenciją, jeigu:
 1) duomenys
-(dokumentai) neatitinka nustatytų reikalavimų arba pateikiami ne visi ar tikrovės
-neatitinkantys dokumentai ir duomenys, arba įmonės veiklos planas yra
+(dokumentai) neatitinka nustatytų reikalavimų arba pateikiami ne visi ar
+tikrovės neatitinkantys dokumentai ir duomenys, arba įmonės veiklos planas yra
 nepakankamai pagrįstas;
 2) valdymo
 įmonės ar investicinės kintamojo kapitalo bendrovės, kurios valdymas
-neperduotas valdymo įmonei, veiklos licenciją norinčios gauti bendrovės pradinis
-kapitalas ar uždaro tipo investicinės bendrovės veiklos licenciją norinčios
-gauti bendrovės įstatinis kapitalas yra mažesnis už Vertybinių popierių
-komisijos nustatytą mažiausią dydį arba netenkinami valdymo įmonės kapitalo
-pakankamumo reikalavimai;
+neperduotas valdymo įmonei, veiklos licenciją norinčios gauti bendrovės
+pradinis kapitalas ar uždaro tipo investicinės bendrovės veiklos licenciją
+norinčios gauti bendrovės įstatinis kapitalas yra mažesnis už Vertybinių
+popierių komisijos nustatytą mažiausią dydį arba netenkinami valdymo įmonės
+kapitalo pakankamumo reikalavimai;
 3) bendrovė
 nepateikė licencijavimo taisyklėse nurodytos informacijos apie bendrovės
 akcininkus, jų tiesiogiai arba netiesiogiai valdomus akcijų paketus ir šių
@@ -417,8 +381,8 @@ manyti, kad įmonės akcijų paketo savininkai neužtikrins patikimo ir skaidrau
 įmonės valdymo; 
 5) bent vienas
 bendrovės darbuotojas yra Lietuvos Respublikoje veikiančios reguliuojamos
-rinkos operatoriaus, Vertybinių popierių komisijos ar Lietuvos centrinio
-vertybinių popierių depozitoriumo darbuotojas;
+rinkos operatoriaus, Vertybinių popierių komisijos ar Lietuvos centrinio vertybinių
+popierių depozitoriumo darbuotojas;
 6) bendrovės
 valdybos nariai, administracijos vadovas ar jo pavaduotojai nėra
 nepriekaištingos reputacijos, neturi Vertybinių popierių komisijos nustatytos
@@ -440,7 +404,10 @@ akcijos arba investiciniai vienetai nebus platinami Lietuvos Respublikoje;
 11) akcinės
 bendrovės, siekiančios gauti investicinės kintamojo kapitalo bendrovės ar
 uždaro tipo investicinės bendrovės licenciją, įstatai neatitinka įstatymų
-reikalavimų.
+reikalavimų;
+12) valdymo
+įmonė, jos vadovai ar akcininkai įvertinti kaip netinkami pagal šio įstatymo 10
+straipsnio 9 dalyje nurodytus vertinimo kriterijus.
 3. Apie sutikimą
 ar atsisakymą išduoti licenciją Vertybinių popierių komisija pareiškėjui turi
 pranešti per 6 mėnesius nuo visų dokumentų, duomenų ir paaiškinimų pateikimo.
@@ -469,6 +436,10 @@ paskelbia Vertybinių popierių komisijos interneto tinklalapyje.
 Steigiamos valdymo įmonės ar investicinės bendrovės steigimo dokumentai netenka
 galios, jeigu jie nebuvo pateikti juridinių asmenų registrui per 9 mėnesius nuo
 steigimo dokumentų sudarymo.
+Straipsnio
+pakeitimai:
+Nr. XI-204,
+2009-03-19, Žin., 2009, Nr. 38-1443 (2009-04-04)
  
 6 straipsnis. Valdymo įmonių
 ir investicinių bendrovių valdymas ir vadovai
@@ -634,81 +605,189 @@ valdymo įmonės, investicinės bendrovės ar dalyvių interesais.
 4. Tai, kad dalį funkcijų pavedama atlikti kitiems
 asmenims, neatleidžia valdymo įmonės ar investicinės bendrovės nuo atsakomybės.
  
-10 straipsnis. Valdymo
-įmonės akcijų paketo įsigijimas
-1.
-Fizinis ar juridinis asmuo, ketinantis tiesiogiai ar netiesiogiai įsigyti ar
-padidinti jau turimą valdymo įmonės akcijų paketą, jei dėl planuojamo akcijų
-įsigijimo asmeniui priklausančių balsavimo teisių visuotiniame akcininkų
-susirinkime ar kapitalo dalis pasiektų arba peržengtų didėjimo tvarka 20, 33 ar
-50 procentų, arba įmonė taptų to juridinio asmens dukterine įmone, turi gauti
-išankstinį Vertybinių popierių komisijos sutikimą.
-2.
-Šio straipsnio 1 dalyje nurodytas asmuo privalo iš anksto pranešti Vertybinių
-popierių komisijai apie planuojamą akcijų paketo įsigijimą ir pateikti tai
-pagrindžiančius dokumentus ir kitą Vertybinių popierių komisijos nustatytą
-informaciją. Vertybinių popierių komisija ne vėliau kaip per 3 mėnesius nuo
-prašymo gavimo dienos turi pranešti jam apie sutikimą arba atsisakymą leisti
-įsigyti akcijų paketą. Vertybinių popierių komisija turi teisę reikalauti, kad
-būtų pateikta papildomų duomenų ir informacijos apie ketinimą įsigyti arba
-padidinti valdymo įmonės akcijų paketą – tokiu atveju 3 mėnesių terminas
-skaičiuojamas nuo visų reikalingų dokumentų ir informacijos pateikimo
-Vertybinių popierių komisijai dienos.
-3. Vertybinių popierių komisija atsisako
-leisti įsigyti akcijų paketą, jeigu:
-1) fizinis asmuo
-(juridinio asmens administracijos vadovas, jo pavaduotojas, valdybos nariai ir
-kontroliuojantys asmenys) nėra nepriekaištingos reputacijos;
-2) fizinis asmuo
-yra Lietuvos Respublikoje veikiančios reguliuojamos rinkos operatoriaus,
-Vertybinių popierių komisijos ar depozitoriumo, kuris saugo tos valdymo įmonės
-valdomus investicinius fondus sudarantį ar investicinių bendrovių turtą,
-darbuotojas;
-3) asmuo
-nepateikė informacijos apie savo veiklą ar finansinę padėtį;
-4) juridinis
-asmuo nepateikė informacijos apie savo dalyvius;
-5) asmuo
-nepateikė dokumentų, kuriais įrodo, kad lėšos, skirtos akcijoms apmokėti, yra
-gautos teisėtai;
-6) asmens
-finansinė padėtis nėra gera ir stabili;
-7) išdavus
-leidimą, atsirastų toks glaudus ryšys, kuris būtų pagrindas atsisakyti išduoti
-valdymo įmonės licenciją;
-8) yra pagrindas
-manyti, kad įmonės akcijų paketo savininkai neužtikrins patikimo ir skaidraus
-įmonės valdymo. 
-4.
-Atsisakymas leisti įsigyti akcijų paketą turi būti motyvuotas raštu ir gali
-būti skundžiamas teismui. Jeigu Vertybinių popierių komisija sutinka leisti
-įsigyti akcijų paketą, ji turi teisę nustatyti protingą terminą asmens ketinimo
-įsigyti ar padidinti valdymo įmonės akcijų paketą įvykdymui. Šis terminas
-įprastinėmis aplinkybėmis negali būti trumpesnis kaip 1 mėnuo. 
-5. Asmuo, prieš
-mažindamas savo turimą akcijų dalį tiek, kad jo turimų balsavimo teisių
-visuotiniame akcininkų susirinkime ar kapitalo dalis pasiektų ar peržengtų
-mažėjimo tvarka 20, 33 ar 50 procentų, arba tiek, kad valdymo įmonė nustotų
-būti jo dukterine įmone, apie tai taip pat turi pranešti Vertybinių popierių
-komisijai.
-6. Įmonė,
-sužinojusi apie akcijų paketo, viršijančio šiame straipsnyje nustatytas ribas,
-įsigijimą ar perleidimą, nedelsdama apie tai turi pranešti Vertybinių popierių
-komisijai. Metinė informacija apie asmenis, turinčius akcijų paketus, ir tokių
-paketų dydžius Vertybinių popierių komisijai pateikiama jos nustatyta tvarka. 
-7. Asmens,
+10
+straipsnis. Valdymo įmonės akcijų įsigijimas ir perleidimas
+1. Fizinis ar
+juridinis asmuo arba kartu veikiantys šie asmenys, nusprendę tiesiogiai ar
+netiesiogiai įsigyti arba tiesiogiai ar netiesiogiai padidinti jau turimą
+valdymo įmonės akcijų paketą (toliau šiame straipsnyje – įsigyjantis asmuo),
+jei dėl planuojamo įmonės akcijų įsigijimo asmeniui priklausančių balsavimo
+teisių ar įstatinio kapitalo dalis pasiektų ar peržengtų didėjimo tvarka 20
+procentų, 30 procentų ar 50 procentų arba įmonė taptų to juridinio asmens
+dukterine įmone (toliau šiame straipsnyje – siūlomas įsigijimas), turi gauti
+Vertybinių popierių komisijos sprendimą neprieštarauti siūlomam įsigijimui.
+Reikalavimo gauti Vertybinių popierių komisijos sprendimą neprieštarauti
+siūlomam įsigijimui nesilaikymas nedaro sandorio negaliojančiu, tačiau sukelia
+šio straipsnio 22 dalyje nustatytas pasekmes. Kartu veikiančiais asmenimis
+šiame straipsnyje laikomi du ar daugiau asmenų, kurie remdamiesi savo aiškiai
+sudarytu ar numanomu žodiniu ar rašytiniu susitarimu įgyvendina ar siekia
+įgyvendinti savo teises, suteikiamas turimo valdymo įmonės akcijų paketo.
+2. Įsigyjantis
+asmuo privalo pateikti Vertybinių popierių komisijai rašytinį pranešimą apie
+siūlomą įsigijimą, nurodydamas ketinamo įsigyti valdymo įmonės akcijų paketo
+dydį, taip pat pateikti tai pagrindžiančius dokumentus bei kitą Vertybinių
+popierių komisijos nustatytą informaciją ir duomenis.
+3. Asmuo,
+nusprendęs perleisti arba sumažinti jam priklausantį valdymo įmonės akcijų
+paketą, jei dėl planuojamo valdymo įmonės akcijų netekimo asmeniui
+priklausančių balsavimo teisių ar įstatinio kapitalo dalis pasiektų ar
+peržengtų mažėjimo tvarka 20 procentų, 30 procentų ar 50 procentų arba įmonė
+nustotų būti to juridinio asmens dukterine įmone, turi Vertybinių popierių
+komisijai pateikti rašytinį pranešimą apie siūlomą įsigijimą ir nurodyti
+ketinamo perleisti ar sumažinti valdymo įmonės akcijų paketo dydį. 
+4. Vertybinių
+popierių komisija nustato kartu su pranešimu apie siūlomą įsigijimą pateikiamų
+dokumentų ir duomenų, būtinų įsigyjančio asmens ir siūlomo įsigijimo vertinimui
+atlikti, sąrašą. Sąraše nurodyti dokumentai ir duomenys turi būti proporcingi
+ir pritaikyti įsigyjančiam asmeniui ir siūlomam įsigijimui. Sąraše neturi būti
+nurodyta dokumentų ir duomenų, kurie nėra būtini įsigyjančio asmens ir siūlomo
+įsigijimo vertinimui pagal šio straipsnio 9 dalyje nustatytus kriterijus atlikti.
+
+5. Vertybinių
+popierių komisija, gavusi pranešimą apie siūlomą įsigijimą, taip pat vėliau
+gavusi šio straipsnio 7 dalyje nurodytus dokumentus ir duomenis, nedelsdama, ne
+vėliau kaip per 2 darbo dienas, raštu patvirtina jų gavimą ir praneša
+įsigyjančiam asmeniui datą, kada baigiasi vertinimo laikotarpis. 
+6. Vertybinių
+popierių komisija ne vėliau kaip per 60 darbo dienų nuo rašytinio patvirtinimo,
+kad gautas pranešimas apie siūlomą įsigijimą ir visi dokumentai bei duomenys,
+nurodyti šio straipsnio 4 dalyje nustatytame sąraše, (toliau šiame straipsnyje
+– vertinimo laikotarpis) atlieka vertinimą. 
+7. Vertinimo
+laikotarpiu Vertybinių popierių komisija prireikus, ne vėliau kaip
+penkiasdešimtą vertinimo laikotarpio darbo dieną, gali prašyti papildomų
+vertinimui užbaigti reikalingų dokumentų ir duomenų. Šis prašymas pateikiamas
+raštu ir nurodoma, kokių papildomų dokumentų ir duomenų reikia. Vertinimo
+laikotarpio trukmės  skaičiavimas stabdomas nuo dienos, kurią Vertybinių
+popierių komisija pateikia prašymą pateikti papildomų dokumentų ir duomenų, ir
+atnaujinamas tą dieną, kurią gaunamas įsigyjančio asmens atsakymas į prašymą.
+Sustabdyti vertinimo laikotarpio trukmės  skaičiavimą galima ne ilgiau kaip 20
+darbo dienų. Be to, Vertybinių popierių komisija turi teisę savo nuožiūra
+pakartotinai prašyti pateikti papildomų dokumentų ir duomenų ar juos
+patikslinti, tačiau dėl to vertinimo laikotarpio trukmės skaičiavimas nebegali
+būti stabdomas.
+8. Šio
+straipsnio 7 dalyje nurodytą vertinimo laikotarpio trukmės skaičiavimo sustabdymą
+Vertybinių popierių komisija gali pratęsti ne ilgiau kaip 30 darbo dienų tokiu
+atveju, kai įsigyjantis asmuo yra įsisteigęs ar jo veikla reglamentuojama ne
+valstybėje narėje arba kai įsigyjančiam asmeniui netaikoma priežiūra pagal
+valstybių narių teisės aktus, reglamentuojančius suderintųjų kolektyvinio
+investavimo subjektų valdymo įmonių, finansų maklerio įmonių, kredito įstaigų,
+draudimo įmonių ar perdraudimo įmonių veiklą. 
+9. Nagrinėdama
+šio straipsnio 2 dalyje nurodytą pranešimą apie siūlomą įsigijimą, dokumentus
+ir duomenis, būtinus įsigyjančio asmens ir siūlomo įsigijimo vertinimui
+atlikti, bei papildomai gautus dokumentus ir duomenis, Vertybinių popierių
+komisija, siekdama užtikrinti patikimą ir skaidrų valdymo įmonės, kurios akcijų
+paketą siūloma įsigyti ar padidinti, valdymą ir atsižvelgdama į galimą
+įsigyjančio asmens poveikį valdymo įmonei, vertina jo tinkamumą ir įsigijimo
+finansinį patikimumą pagal visus šiuos kriterijus:
+1) įsigyjančio
+asmens nepriekaištingą reputaciją;
+2) asmens, kuris
+po siūlomo įsigijimo bus valdymo įmonės vadovas, nepriekaištingą reputaciją ir
+patirtį. Vertindama asmens, kuris po siūlomo įsigijimo bus valdymo įmonės
+vadovas, nepriekaištingą reputaciją ir patirtį, Vertybinių popierių komisija
+atsižvelgia į šio įstatymo 6 straipsnio nuostatas;
+3) įsigyjančio
+asmens finansinį patikimumą, ypač pagal valdymo įmonės, kurios akcijų paketą
+siūloma įsigyti ar padidinti, vykdomos ar numatomos vykdyti veiklos rūšį;
+4) ar valdymo
+įmonė galės nuolat laikytis riziką ribojančių reikalavimų, ar grupės, kurios
+dalimi valdymo įmonė taps po siūlomo įsigijimo, struktūra sudaro sąlygas
+vykdyti veiksmingą priežiūrą, Vertybinių popierių komisijai ir kitų valstybių
+narių priežiūros institucijoms veiksmingai keistis informacija ir apibrėžti Vertybinių
+popierių komisijos ir kitų valstybių narių priežiūros institucijų atsakomybės
+pasiskirstymą;
+5) ar yra
+pagrindas įtarti, kad, siekiant įgyvendinti siūlomą įsigijimą, vykdoma ar
+įvykdyta arba buvo bandyta įvykdyti pinigų plovimo ar teroristų finansavimo
+veikla, kaip tai apibrėžta Pinigų plovimo ir teroristų finansavimo prevencijos
+įstatyme, ar kad siūlomas įsigijimas gali padidinti šios veiklos pavojų.
+10. Vertybinių
+popierių komisija neturi teisės nustatyti jokių išankstinių sąlygų dėl
+privalomo įsigyti valdymo įmonės akcijų paketo dydžio ir nenagrinėja siūlomo
+įsigijimo pagal rinkos ekonominius poreikius. 
+11. Vertybinių
+popierių komisija turi teisę prieštarauti siūlomam įsigijimui tik pagrįstai
+remdamasi šio straipsnio 9 dalyje nurodytais kriterijais arba tuo atveju, jei
+įsigyjantis asmuo pateikė ne visus šio straipsnio 4 ar 7 dalyje nustatytus
+dokumentus ir duomenis. 
+12.
+Vertybinių popierių komisija, prieš priimdama sprendimą dėl siūlomo įsigijimo,
+konsultuojasi su Lietuvos Respublikos ir kitų valstybių narių priežiūros
+institucijomis, jeigu įsigyjantis asmuo yra valstybėje narėje licencijuota
+valdymo įmonė, finansų maklerio įmonė, kredito įstaiga, draudimo įmonė,
+perdraudimo įmonė arba bet kurio iš šių subjektų patronuojanti įmonė ar
+kontroliuojantis asmuo.
+13. Vertybinių
+popierių komisija, konsultuodamasi pagal šio straipsnio 12 dalį, kitų
+priežiūros institucijų prašo pateikti visą įsigyjančio asmens tinkamumui ir
+siūlomo įsigijimo finansiniam patikimumui vertinti svarbią informaciją ir pati
+nedelsdama kitoms priežiūros institucijoms teikia jų prašomą atliekamam
+vertinimui svarbią informaciją, o visą atliekamam vertinimui esminę informaciją
+teikia savo iniciatyva.
+14. Jei
+Vertybinių popierių komisija per šio straipsnio 6 dalyje nurodytą vertinimo
+laikotarpį nepriima sprendimo prieštarauti siūlomam įsigijimui, laikoma, kad
+Vertybinių popierių komisija siūlomam įsigijimui neprieštarauja. Jei Vertybinių
+popierių komisija nepasibaigus vertinimo laikotarpiui priima sprendimą
+neprieštarauti siūlomam įsigijimui, ji apie tai per 2 darbo dienas raštu
+praneša įsigyjančiam asmeniui. 
+15. Jei
+Vertybinių popierių komisija priima sprendimą neprieštarauti siūlomam
+įsigijimui, ji gali nustatyti ir prireikus pratęsti asmens ketinimo įsigyti
+arba padidinti valdymo įmonės akcijų paketą įgyvendinimo terminą.
+16. Jei baigusi
+vertinimą Vertybinių popierių komisija priima sprendimą prieštarauti siūlomam
+įsigijimui, ji apie tai per 2 darbo dienas nuo sprendimo priėmimo ir
+neviršydama vertinimo laikotarpio raštu praneša įsigyjančiam asmeniui,
+nurodydama sprendimo motyvus. 
+17. Vertybinių
+popierių komisijos sprendime dėl siūlomo įsigijimo nurodomos visos po
+konsultacijų pagal šio straipsnio 12 ir 13 dalis gautos kitų priežiūros
+institucijų nuomonės ir išlygos. Vertybinių popierių komisijos sprendimas
+prieštarauti siūlomam įsigijimui gali būti skundžiamas teismui. Vertybinių
+popierių komisija viešai paskelbia sprendimą ir jo motyvus, neatsižvelgdama į
+tai, ar yra gautas įsigyjančio asmens sutikimas. Vertybinių popierių komisija
+turi teisę viešai neskelbti sprendimo ir jo motyvų tais atvejais, kai toks
+paskelbimas padarytų žalos rinkai ar padarytų neproporcingos žalos
+suinteresuotiems asmenims. 
+18. Jei
+Vertybinių popierių komisija gauna daugiau negu vieną pranešimą apie siūlomą
+įsigijimą toje pačioje valdymo įmonėje, visi pranešimai nagrinėjami tokia pat
+tvarka, nediskriminuojant įsigyjančių asmenų.
+19. Jei valdymo
+įmonei tampa žinoma apie jos akcijų įsigijimą ar netekimą, dėl kurio valdymo
+įmonės akcininkų turimi akcijų paketai peržengia šio straipsnio 1 dalyje
+nustatytas ribas didėjimo arba mažėjimo tvarka, ji privalo nedelsdama apie tai
+pranešti Vertybinių popierių komisijai.
+20. Valdymo
+įmonė privalo ne rečiau kaip kartą per metus pateikti Vertybinių popierių
+komisijai pranešimą, kuriame nurodomi valdymo įmonės akcininkai, valdantys
+įmonės akcijų paketą, ir jų valdomų akcijų paketų dydžiai. 
+21. Jei asmenų,
+nurodytų šio straipsnio 1 dalyje, daroma įtaka kelia grėsmę patikimam ir
+skaidriam valdymo įmonės valdymui, Vertybinių popierių komisija privalo imtis
+priemonių šiai padėčiai ištaisyti. Šiuo tikslu Vertybinių popierių komisija
+turi teisę duoti privalomus nurodymus ir taikyti šiame įstatyme nustatytas
+sankcijas vadovams ir kitiems asmenims, atsakingiems už valdymo įmonės valdymą.
+
+22. Asmens,
 įsigijusio valdymo įmonės akcijų paketą arba padidinusio akcijų paketą
-peržengiant šiame straipsnyje nustatytas ribas negavus išankstinio Vertybinių
-popierių komisijos sutikimo, visos turimos akcijos praranda balsavimo teisę
-visuotiniame akcininkų susirinkime, iki bus gautas toks sutikimas.
-8.
-Jei asmuo, ketinantis įsigyti valdymo įmonės akcijų paketą, yra kitoje
-valstybėje narėje licencijuota valdymo įmonė, finansų maklerio įmonė, kredito
-įstaiga, draudimo įmonė ar bet kurį iš šių subjektų patronuojanti įmonė arba
-kontroliuojantis asmuo, o po akcijų paketo įsigijimo valdymo įmonė taptų
-įgijėjo dukterine įmone arba jo kontroliuojama, Vertybinių popierių komisija
-privalo kreiptis nuomonės į atitinkamos valstybės narės priežiūros instituciją
-šio įstatymo 5 straipsnio 5 dalyje numatytais klausimais. 
+peržengiant šiame straipsnyje nustatytas ribas be Vertybinių popierių komisijos
+sprendimo neprieštarauti siūlomam įsigijimui arba nepasibaigus šio straipsnio 6
+dalyje nustatytam terminui (išskyrus atvejį, kai anksčiau priimamas Vertybinių
+popierių komisijos sprendimas neprieštarauti siūlomam įsigijimui), visos
+turimos akcijos praranda balso teisę visuotiniame akcininkų susirinkime. Balso
+teisė vėl įgyjama tą dieną, kurią gaunamas Vertybinių popierių komisijos
+sprendimas neprieštarauti siūlomam įsigijimui arba baigiasi šio straipsnio 6
+dalyje nustatytas terminas ir Vertybinių popierių komisija nepareiškia
+prieštaravimo siūlomam įsigijimui.
+Straipsnio
+pakeitimai:
+Nr. XI-204,
+2009-03-19, Žin., 2009, Nr. 38-1443 (2009-04-04)
  
 11 straipsnis. Pareiga
 gauti Vertybinių popierių komisijos leidimą 
@@ -978,11 +1057,11 @@ investuotojui. Sutrumpintas kitoje valstybėje narėje licencijuotos valdymo
 prospektas, išverstas į lietuvių kalbą, Lietuvos Respublikoje gali būti
 naudojamas kaip reklamos priemonė, nereikalaujant jokių papildomų duomenų.
 3. Metų
-ataskaitoje turi būti pateikta finansinė atskaitomybė ir kita Vertybinių
+ataskaitoje turi būti pateiktos finansinės ataskaitos ir kita Vertybinių
 popierių komisijos nustatyta informacija, iš kurios investuotojai galėtų
 padaryti pagrįstas išvadas dėl kolektyvinio investavimo subjekto veiklos ir jos
-rezultatų. Jeigu yra mokami tarpiniai dividendai, jie turi būti nurodyti
-pusmečio ataskaitoje. 
+rezultatų. Jeigu yra mokami tarpiniai dividendai, jie turi būti nurodyti pusmečio
+ataskaitoje.
 4. Sudarymo
 dokumentai pateikiami kaip viso prospekto priedai. Sudarymo dokumentų pridėti
 nebūtina, jei kolektyvinio investavimo subjekto dalyviams pranešama, kad, jų
@@ -994,21 +1073,24 @@ pataisomi ne vėliau kaip per 7 dienas nuo tokių pasikeitimų atsiradimo dienos
 Pakeitimai gali būti pateikiami prieduose nurodant, kas pakeista. Senajame
 prospekte aiškiai išbraukiama neteisinga informacija arba pateikiamas naujas
 prospektas.
-6. Metinės
-finansinės atskaitomybės duomenys turi būti audituoti. Auditoriaus išvada,
-įskaitant išlygas, ir audito ataskaita turi būti pateikiamos kaip metų
-ataskaitos priedas. Audito ataskaitoje turi būti nurodyta, ar teisingai skaičiuojama
-grynųjų aktyvų vertė, ar turtas investuotas pagal sudarymo dokumentus, taip pat
-išvardyti visi šio įstatymo ir kitų teisės aktų pažeidimai. Valdymo įmonės, jos
-valdomų kolektyvinio investavimo subjektų ar investicinės bendrovės, kurios
-valdymas neperduotas valdymo įmonei, auditorius privalo pateikti Vertybinių
-popierių komisijai audito ataskaitą, o atskiru Vertybinių popierių komisijos
-reikalavimu – paaiškinimus dėl atlikto valdymo įmonės ar kolektyvinio
-investavimo subjektų audito. 
+6. Metinių finansinių ataskaitų duomenys turi būti
+audituoti. Auditoriaus išvada, įskaitant išlygas, ir audito ataskaita turi būti
+pateikiamos kaip metų ataskaitos priedas. Audito ataskaitoje turi būti
+nurodyta, ar teisingai skaičiuojama grynųjų aktyvų vertė, ar turtas investuotas
+pagal sudarymo dokumentus, taip pat išvardyti visi šio įstatymo ir kitų teisės
+aktų pažeidimai. Valdymo įmonės, jos valdomų kolektyvinio investavimo subjektų
+ar investicinės bendrovės, kurios valdymas neperduotas valdymo įmonei,
+auditorius privalo pateikti vertybinių popierių komisijai audito ataskaitą, o
+atskiru vertybinių popierių komisijos reikalavimu – paaiškinimus dėl atlikto
+valdymo įmonės ar kolektyvinio investavimo subjektų audito.
 7. Vertybinių
 popierių komisija nustato kitus reikalavimus visam prospektui, sutrumpintam
 prospektui, metų ir pusmečio ataskaitų turiniui, formai ir jų pateikimo
 Vertybinių popierių komisijai tvarką.
+Straipsnio
+pakeitimai:
+Nr. XI-204,
+2009-03-19, Žin., 2009, Nr. 38-1443 (2009-04-04)
  
 23
 straipsnis. Prospektų ir periodinių ataskaitų paskelbimo tvarka
@@ -1061,9 +1143,8 @@ skelbiant rečiau investuotojams žalos nebus padaryta, kainos gali būti
 skelbiamos vieną kartą per mėnesį.
 3. Specialiųjų
 kolektyvinio investavimo subjektų investicinių vienetų ar akcijų kainos
-skelbiamos laikantis atitinkamos rūšies ir tipo specialiųjų kolektyvinio
-investavimo subjektų veiklą reglamentuojančių šio įstatymo straipsnių
-reikalavimų. 
+skelbiamos laikantis atitinkamos rūšies ir tipo specialiųjų kolektyvinio investavimo
+subjektų veiklą reglamentuojančių šio įstatymo straipsnių reikalavimų. 
  
 25
 straipsnis. Siūlymas ir reklama
@@ -1181,8 +1262,8 @@ IV SKYRIUS
 PIRMASIS
 SKIRSNIS
  
-BENDROSIOS
-KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ VEIKLĄ REGLAMENTUOJANČIOS NUOSTATOS
+BENDROSIOS KOLEKTYVINIO
+INVESTAVIMO SUBJEKTŲ VEIKLĄ REGLAMENTUOJANČIOS NUOSTATOS
  
 31
 straipsnis. Kolektyvinio investavimo subjektų veiklos formos, tipai ir rūšys
@@ -1196,8 +1277,8 @@ kolektyvinio investavimo subjektai gali būti sudaromi tik investicinio fondo
 arba investicinės kintamojo kapitalo bendrovės veiklos forma. Draudžiama
 sudaryti uždaro tipo suderintuosius kolektyvinio investavimo subjektus.
 3. Vadovaujantis
-šiuo įstatymu, gali būti sudaromi šių rūšių specialieji kolektyvinio investavimo
-subjektai:
+šiuo įstatymu, gali būti sudaromi šių rūšių specialieji kolektyvinio
+investavimo subjektai:
 1) kolektyvinio investavimo į
 perleidžiamuosius vertybinius popierius subjektai;
 2) nekilnojamojo turto kolektyvinio
@@ -1238,9 +1319,9 @@ Lyginamasis indeksas
 subjektai privalo naudoti lyginamąjį indeksą. Šis reikalavimas netaikomas
 specialiesiems kolektyvinio investavimo subjektams.
 2. Kolektyvinio investavimo subjekto
-lyginamasis indeksas turi sudaryti galimybę visuomenei tinkamai vertinti
-kolektyvinio investavimo subjekto veiklos rezultatus. Kolektyvinio investavimo
-subjekto lyginamasis indeksas turi būti pasirenkamas atsižvelgiant į konkretaus
+lyginamasis indeksas turi sudaryti galimybę visuomenei tinkamai vertinti kolektyvinio
+investavimo subjekto veiklos rezultatus. Kolektyvinio investavimo subjekto
+lyginamasis indeksas turi būti pasirenkamas atsižvelgiant į konkretaus
 kolektyvinio investavimo subjekto investavimo strategiją. 
 3. Vertybinių popierių komisija turi
 teisę nustatyti reikalavimus lyginamajam indeksui. 
@@ -1374,9 +1455,8 @@ Parduodant investicinės kintamojo kapitalo bendrovės akcijas, Akcinių bendrov
 įstatymo nuostatos, reglamentuojančios akcinių bendrovių akcijų pasirašymą ir
 apmokėjimą, netaikomos. Šių bendrovių akcijos gali būti pradėtos platinti, kai
 bendrovė gauna investicinės kintamojo kapitalo bendrovės veiklos licenciją ir
-Vertybinių popierių komisijos leidimą patvirtinti investicinės kintamojo
-kapitalo bendrovės įstatus bei kai patvirtinamas visas ir sutrumpintas
-prospektai. 
+Vertybinių popierių komisijos leidimą patvirtinti investicinės kintamojo kapitalo
+bendrovės įstatus bei kai patvirtinamas visas ir sutrumpintas prospektai. 
 2. Investicinės
 kintamojo kapitalo bendrovės akcijos gali būti platinamos neterminuotai. Akcijų
 emisijos dydis neribojamas, išskyrus atvejį, kai įstatuose nurodyta didžiausia
@@ -1385,8 +1465,8 @@ suma, už kurią leidžiama išplatinti akcijų.
 Investicinė kintamojo kapitalo bendrovė neturi teisės parduoti savo akcijų
 išsimokėtinai ar atidėti jų apmokėjimo termino.
 4. Tik visiškai
-apmokėtos akcijos laikomos išleistomis ir gali būti įrašomos į akcininko asmeninę
-perleidžiamųjų vertybinių popierių sąskaitą. 
+apmokėtos akcijos laikomos išleistomis ir gali būti įrašomos į akcininko
+asmeninę perleidžiamųjų vertybinių popierių sąskaitą. 
  
 TREČIASIS
 SKIRSNIS
@@ -1408,8 +1488,8 @@ kuriam sudarytas subfondas;
 valiuta;
 4)
 informacija, kad investicinės kintamojo kapitalo bendrovės visuotiniame
-akcininkų susirinkime sprendžiant tik su vieno subfondo dalyvių interesais
-susijusį klausimą, balsavimo teisę turi tik to subfondo dalyviai.
+akcininkų susirinkime sprendžiant tik su vieno subfondo dalyvių interesais susijusį
+klausimą, balsavimo teisę turi tik to subfondo dalyviai.
 2. Sudėtinio
 investicinio fondo taisyklėse šio įstatymo 46 straipsnio 3, 4, 5, 6, 7, 9, 12,
 14, 15 punktuose ir 65 straipsnio 2 dalies 1 ir 2 punktuose nurodyta
@@ -1419,13 +1499,18 @@ apie kiekvieną subfondą taisyklėse turi būti pateikiama šio straipsnio 1 da
 3. Sudėtinio
 kolektyvinio investavimo subjekto sudarymo dokumentuose taip pat turi būti
 nurodoma:
-1) valiuta,
-kuria bus sudaroma kolektyvinio investavimo subjekto finansinė atskaitomybė;
+1)
+valiuta, kuria bus sudaromos kolektyvinio investavimo subjekto finansinės
+ataskaitos;
 2) subfondo
 investicinių vienetų ar akcijų keitimo į kito to paties kolektyvinio
 investavimo subjekto subfondo investicinius vienetus ar akcijas tvarka;
-3) naujų subfondų
-steigimo tvarka.
+3) naujų
+subfondų steigimo tvarka.
+Straipsnio
+pakeitimai:
+Nr. XI-204,
+2009-03-19, Žin., 2009, Nr. 38-1443 (2009-04-04)
  
 42 straipsnis. Sudėtiniams kolektyvinio investavimo
 subjektams ir jų valdymo įmonėms taikomi reikalavimai 
@@ -1448,9 +1533,9 @@ patį kolektyvinio investavimo subjektą sudarančių subfondų turto.
 subfondą sudarantis turtas negali būti naudojamas įsipareigojimams kito tą patį
 kolektyvinio investavimo subjektą sudarančio subfondo dalyviams ar tretiesiems
 asmenims padengti.
-6. Sudėtinis
-kolektyvinio investavimo subjektas privalo turėti bendrą visą prospektą.
-Sutrumpinti prospektai gali būti rengiami kiekvienam subfondui atskirai. 
+6. Sudėtinis kolektyvinio
+investavimo subjektas privalo turėti bendrą visą prospektą. Sutrumpinti
+prospektai gali būti rengiami kiekvienam subfondui atskirai. 
 7. Kolektyvinio
 investavimo subjekto investicinių vienetų ar akcijų savininkų sąrašą valdymo
 įmonė ar investicinė bendrovė tvarko pagal kiekvieną subfondą atskirai.
@@ -1472,8 +1557,8 @@ vertės, visuotiniame bendrovės akcininkų susirinkime akcininkui suteikia vien
 balsą.
 2. Sudėtinės
 investicinės kintamojo kapitalo bendrovės visuotiniame akcininkų susirinkime
-sprendžiant tik su vieno bendrovės subfondo dalyvių interesais susijusį klausimą,
-balsavimo teisę turi tik to subfondo dalyviai. 
+sprendžiant tik su vieno bendrovės subfondo dalyvių interesais susijusį
+klausimą, balsavimo teisę turi tik to subfondo dalyviai. 
  
 44
 straipsnis. Subfondo investicinių vienetų ar akcijų keitimas
@@ -1482,10 +1567,10 @@ investavimo subjekto dalyvis gali keisti jo turimus subfondo investicinius
 vienetus ar akcijas į kito to paties kolektyvinio investavimo subjekto subfondo
 investicinius vienetus ar akcijas, jei kolektyvinio investavimo subjekto
 sudarymo dokumentuose nenustatyta kitaip. Keičiant subfondo investicinius
-vienetus ar akcijas, draudžiama atskaityti bet kokius su kolektyvinio investavimo
-subjekto investicinių vienetų ar akcijų platinimu ar išpirkimu susijusius
-atskaitymus, išskyrus atskaitymus, tiesiogiai susijusius su investicinių
-vienetų ar akcijų keitimo išlaidomis. 
+vienetus ar akcijas, draudžiama atskaityti bet kokius su kolektyvinio
+investavimo subjekto investicinių vienetų ar akcijų platinimu ar išpirkimu
+susijusius atskaitymus, išskyrus atskaitymus, tiesiogiai susijusius su
+investicinių vienetų ar akcijų keitimo išlaidomis. 
  
 V SKYRIUS
 PIRMASIS
@@ -1500,8 +1585,8 @@ fondo taisyklės patvirtinamos valdymo įmonės valdybos sprendimu. Valdymo įmo
 investicinį fondą sudarysiančias investuotojų lėšas gali pradėti rinkti tik po
 to, kai investicinio fondo taisyklėms, sutrumpintam prospektui, kai jis
 būtinas, ir visam prospektui pritaria Vertybinių popierių komisija.
-2. Valdybos
-sprendime dėl investicinio fondo sudarymo turi būti nurodyta:
+2. Valdybos sprendime
+dėl investicinio fondo sudarymo turi būti nurodyta:
 1) investicinio
 fondo pavadinimas;
 2) depozitoriumo
@@ -1557,8 +1642,8 @@ fondo taisyklių pakeitimo tvarka.
  
 47 straipsnis.
 Investicinio fondo dalyvių teisės 
-1. Investicinio fondo
-dalyvis turi šias teises:
+1. Investicinio
+fondo dalyvis turi šias teises:
 1) šio įstatymo
 ir investicinio fondo taisyklių nustatyta tvarka gauti dalį investicinio fondo
 pajamų;
@@ -1566,8 +1651,8 @@ pajamų;
 dalijamo investicinio fondo dalį;
 3) gauti teisės
 aktų nustatytą informaciją apie fondą;
-4) kitas šio įstatymo
-ir investicinio fondo taisyklių nustatytas teises.
+4) kitas šio
+įstatymo ir investicinio fondo taisyklių nustatytas teises.
 2. Atviro tipo
 investicinio fondo dalyvis turi teisę bet kada pareikalauti, kad valdymo įmonė
 išpirktų jo turimus investicinio fondo investicinius vienetus.
@@ -1591,10 +1676,9 @@ sąskaita.
 straipsnis. Investicinio fondo pelno paskirstymas 
 1. Investicinio
 fondo dalyviams investicinių pajamų dalis (išmokos grynaisiais pinigais) mokama
-tik tuo atveju, jei tai numatyta investicinio fondo taisyklėse. Taip pat
-investicinio fondo taisyklėse turi būti numatytas tokių išmokų periodiškumas,
-investicinių pajamų (pelno) dalis, kuri bus skiriama toms išmokoms, ir išmokėjimo
-tvarka.
+tik tuo atveju, jei tai numatyta investicinio fondo taisyklėse. Taip pat investicinio
+fondo taisyklėse turi būti numatytas tokių išmokų periodiškumas, investicinių
+pajamų (pelno) dalis, kuri bus skiriama toms išmokoms, ir išmokėjimo tvarka.
 2. Investicinio
 fondo pelnas paskirstomas per šio investicinio fondo depozitoriumą.
  
@@ -1719,10 +1803,11 @@ jungiamų investicinių fondų dalyvių informavimo tvarką.
 investavimo strategijos keitimas
 1.
 Suderintojo kolektyvinio investavimo subjekto investavimo strategija negali
-būti keičiama taip, kad šis kolektyvinio investavimo subjektas taptų specialiuoju
-kolektyvinio investavimo subjektu. Suderintojo ir specialiojo kolektyvinio
-investavimo subjektų investavimo strategija negali būti keičiama taip, kad jie
-taptų kolektyvinio investavimo subjektu, kuriam šis įstatymas nėra taikomas.
+būti keičiama taip, kad šis kolektyvinio investavimo subjektas taptų
+specialiuoju kolektyvinio investavimo subjektu. Suderintojo ir specialiojo
+kolektyvinio investavimo subjektų investavimo strategija negali būti keičiama
+taip, kad jie taptų kolektyvinio investavimo subjektu, kuriam šis įstatymas
+nėra taikomas.
 2. Iš esmės
 keičiant kolektyvinio investavimo subjekto strategiją arba kai strategijos
 keitimas lemia subjekto tipo ar rūšies pasikeitimą, apie tai iš anksto subjekto
@@ -1752,8 +1837,8 @@ investicinės kintamojo kapitalo bendrovės įstatuose turi būti nurodoma:
 pavadinimas, iš kurio galima būtų nustatyti specialiosios investicinės
 kintamojo kapitalo bendrovės rūšį, ir informacija, leidžianti nustatyti, ar ši
 bendrovė yra suderintasis ar specialusis kolektyvinio investavimo subjektas;
-2) akcijų pardavimo,
-išpirkimo ir atsiskaitymo už jas tvarka;
+2) akcijų
+pardavimo, išpirkimo ir atsiskaitymo už jas tvarka;
 3) investavimo
 strategija, informacija apie tai, kad bendrovė turi lyginamąjį indeksą, ir
 vietos, kuriose galima susipažinti su jo sudarymo tvarka;
@@ -1777,9 +1862,9 @@ akcijų vertė nurodoma tik tuo atveju, jeigu jos turi nominalią vertę.
 Bendrovės administracijos vadovo ir valdymo organų rinkimo ir atšaukimo tvarka
 nurodoma tik tuo atveju, jei jos turto valdymas neperduodamas valdymo įmonei.
 4.
-Investicinės kintamojo kapitalo bendrovės įstatai ir jų pakeitimai ar
-papildymai registruojami juridinių asmenų registre po to, kai jiems pritaria
-Vertybinių popierių komisija.
+Investicinės kintamojo kapitalo bendrovės įstatai ir jų pakeitimai ar papildymai
+registruojami juridinių asmenų registre po to, kai jiems pritaria Vertybinių
+popierių komisija.
  
 55 straipsnis. Investicinės kintamojo kapitalo
 bendrovės išperkamosios akcijos
@@ -1873,17 +1958,17 @@ subjekto, kurio vertybiniai popieriai įtraukti į prekybą šio straipsnio 1
 dalies 1–3 punktuose nurodytose reguliuojamose rinkose, arba
 3) išleistos ar
 garantuotos subjekto, kurio veiklos rizika yra prižiūrima pagal Europos
-Sąjungos teisės reikalavimus ar tokius reikalavimus, kurie yra ne mažiau
-griežti už nustatytus Europos Sąjungoje, arba
-4) išleistos
-Vertybinių popierių komisijos patvirtintus kriterijus atitinkančios įmonės,
-kurios kapitalas ir rezervai sudaro bent 10 milijonų eurų ir kuri rengia
-konsoliduotą finansinę atskaitomybę bei atlieka įmonių grupės finansavimo
-funkciją, kai bent vienos iš jos grupei priklausančių įmonių perleidžiamieji
-vertybiniai popieriai yra įtraukti į prekybą reguliuojamoje rinkoje, arba kuri
-naudojama banko paskolomis finansuojamiems vertybiniams popieriams išleisti, o
-investicijos į tokias pinigų rinkos priemones apsaugotos ne mažiau, negu
-nurodyta šio straipsnio 2 dalies 1, 2 ir 3 punktuose.
+Sąjungos teisės reikalavimus ar tokius reikalavimus, kurie yra ne mažiau griežti
+už nustatytus Europos Sąjungoje, arba
+4)
+išleistos Vertybinių popierių komisijos patvirtintus kriterijus atitinkančios
+įmonės, kurios kapitalas ir rezervai sudaro bent 10 milijonų eurų ir kuri
+rengia konsoliduotąsias finansines ataskaitas bei atlieka įmonių grupės
+finansavimo funkciją, kai bent vienos iš jos grupei priklausančių įmonių
+perleidžiamieji vertybiniai popieriai yra įtraukti į prekybą reguliuojamoje
+rinkoje, arba kuri naudojama banko paskolomis finansuojamiems vertybiniams
+popieriams išleisti, o investicijos į tokias pinigų rinkos priemones apsaugotos
+ne mažiau, negu nurodyta šio straipsnio 2 dalies 1, 2 ir 3 punktuose.
 3.
 Investicinė kintamojo kapitalo bendrovė gali įsigyti tik jos tiesioginei
 veiklai vykdyti būtiną kilnojamąjį ir nekilnojamąjį turtą.
@@ -1898,6 +1983,10 @@ investuojamas į pinigus.
 6. Vertybinių
 popierių komisija turi teisę detalizuoti suderintųjų kolektyvinio investavimo
 subjektų investavimo objektams taikomus reikalavimus. 
+Straipsnio
+pakeitimai:
+Nr. XI-204,
+2009-03-19, Žin., 2009, Nr. 38-1443 (2009-04-04)
  
 58
 straipsnis. Investicijų portfelio diversifikavimas
@@ -1929,11 +2018,11 @@ perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones negali būt
 didesnės kaip 35 procentai kolektyvinio investavimo subjekto grynųjų aktyvų
 vertės. Vertybinių popierių komisija gali leisti investuoti į šioje dalyje
 nurodytus perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones ir
-didesnę dalį grynųjų aktyvų, jei tokiu atveju investuotojų interesai būtų
-pakankamai apsaugoti, investuota į ne mažiau kaip 6 emisijų perleidžiamuosius
-vertybinius popierius ar pinigų rinkos priemones, o į vienos emisijos
-perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones investuota
-ne daugiau kaip 30 procentų grynųjų aktyvų.
+didesnę dalį grynųjų aktyvų, jei tokiu atveju investuotojų interesai būtų pakankamai
+apsaugoti, investuota į ne mažiau kaip 6 emisijų perleidžiamuosius vertybinius
+popierius ar pinigų rinkos priemones, o į vienos emisijos perleidžiamuosius
+vertybinius popierius ar pinigų rinkos priemones investuota ne daugiau kaip 30
+procentų grynųjų aktyvų.
 6. Investicijos į obligacijas,
 išleistas tokios valstybėje narėje registruotą buveinę turinčios kredito
 įstaigos, kuri, siekiant apsaugoti obligacijų savininkų interesus, yra tos
@@ -1951,14 +2040,17 @@ priemonės nėra įskaitomi skaičiuojant investicijas, kurioms pagal šio
 straipsnio 2 dalį taikoma didžiausia leistina 40 procentų riba. Šio straipsnio
 1, 2, 3, 4, 5 ir 6 dalyse nustatytos ribos negali būti sudedamos, todėl
 investicijų į vieno asmens išleistus perleidžiamuosius vertybinius popierius,
-pinigų rinkos priemones, indėlius ir įsipareigojimus, atsirandančius iš
-išvestinių finansinių priemonių sandorių su tuo asmeniu, suma negali būti
-didesnė kaip 35 procentai kolektyvinio investavimo subjekto turtą sudarančių
-grynųjų aktyvų.
-8. Į įmonių, priklausančių
-grupei, kuri turi sudaryti konsoliduotą finansinę atskaitomybę, išleistus
-perleidžiamuosius vertybinius popierius ir pinigų rinkos priemones gali būti
-investuota ne daugiau kaip 20 procentų grynųjų aktyvų.
+pinigų rinkos priemones, indėlius ir įsipareigojimus, atsirandančius iš išvestinių
+finansinių priemonių sandorių su tuo asmeniu, suma negali būti didesnė kaip 35
+procentai kolektyvinio investavimo subjekto turtą sudarančių grynųjų aktyvų.
+8. Į įmonių,
+priklausančių grupei, kuri turi sudaryti konsoliduotąsias finansines
+ataskaitas, išleistus perleidžiamuosius vertybinius popierius ir pinigų rinkos
+priemones gali būti investuota ne daugiau kaip 20 procentų grynųjų aktyvų.
+Straipsnio
+pakeitimai:
+Nr. XI-204,
+2009-03-19, Žin., 2009, Nr. 38-1443 (2009-04-04)
  
 59 straipsnis. Draudimas įgyti esminį poveikį
 emitentui
@@ -1981,41 +2073,24 @@ vieno emitento išleistų pinigų rinkos priemonių.
 3 ir 4 punktuose nustatyto draudimo galima nesilaikyti įsigijimo momentu, jeigu
 bendra tų perleidžiamųjų vertybinių popierių ar pinigų rinkos priemonių vertė
 negali būti apskaičiuojama. 
-4. Šio straipsnio 2 dalies 2
-ir 4 punktuose nustatytos ribos netaikomos perleidžiamiesiems vertybiniams
+4. Šio straipsnio 2 dalies 2 ir
+4 punktuose nustatytos ribos netaikomos perleidžiamiesiems vertybiniams
 popieriams ir pinigų rinkos priemonėms, kurias išleido ar garantavo valstybė ar
 savivaldybės.
  
 60
 straipsnis. Indekso investicinio fondo ar indekso investicinės kintamojo
 kapitalo bendrovės ypatumai
-1 dalies redakcija iki 2008 m. liepos 23 d.:
-1. Indekso
-investiciniu fondu ar indekso investicine kintamojo kapitalo bendrove vadinamas
-toks fondas ar bendrovė, kurių sudarymo dokumentuose numatytas vienintelis
-tikslas – atkartoti Vertybinių popierių komisijos pripažintą akcijų, obligacijų
-ar kitų formų ne nuosavybės vertybinių popierių indekso sudėtį, tiesiogiai ar
-netiesiogiai investuojant į indeksą sudarančias investicines priemones.
-Vertybinių popierių komisija turi teisę pripažinti tik tokius indeksus, kurie
-atitinka visas šias sąlygas:
-1)
-indeksą atkartojančio vertybinių popierių portfelio sudėtis yra pakankamai
-diversifikuota;
-2) indeksas
-gerai atspindi rinkos, su kuria susietas, padėtį;
-3) indeksas ir
-jo apskaičiavimo tvarka skelbiami viešai ir indekso sudarytojas yra
-nepriklausomas nuo indeksą atkartojančio subjekto. 
-1 dalies redakcija nuo 2008 m. liepos 23 d.:
 1. Indekso
 investiciniu fondu ar indekso investicine kintamojo kapitalo bendrove vadinamas
 toks fondas ar bendrovė, kurių sudarymo dokumentuose numatytas vienintelis
 tikslas – atkartoti Vertybinių popierių komisijos pripažintą akcijų, obligacijų
 ar kitų formų ne nuosavybės vertybinių popierių indekso sudėtį, įskaitant
-išvestinių finansinių priemonių arba kitų priemonių ar būdų, numatytų šio įstatymo
-62 straipsnio 3 dalyje, naudojimą, tiesiogiai ar netiesiogiai investuojant į
-indeksą sudarančias investicines priemones. Vertybinių popierių komisija turi
-teisę pripažinti tik tokius indeksus, kurie atitinka visas šias sąlygas:
+išvestinių finansinių priemonių arba kitų priemonių ar būdų, numatytų šio
+įstatymo 62 straipsnio 3 dalyje, naudojimą, tiesiogiai ar netiesiogiai
+investuojant į indeksą sudarančias investicines priemones. Vertybinių popierių
+komisija turi teisę pripažinti tik tokius indeksus, kurie atitinka visas šias
+sąlygas:
 1)
 indeksą atkartojančio vertybinių popierių portfelio sudėtis yra pakankamai
 diversifikuota;
@@ -2026,9 +2101,8 @@ indekso dalį sudarantis) rinkos emitentas;
 3) indeksas ir
 jo apskaičiavimo tvarka skelbiami viešai ir indekso sudarytojas yra
 nepriklausomas nuo indeksą atkartojančio subjekto, tačiau jie gali priklausyti
-tai pačiai glaudžiais ryšiais susijusiai subjektų grupei, jei toje grupėje veikia
-veiksminga interesų konfliktų valdymo sistema.
- 
+tai pačiai glaudžiais ryšiais susijusiai subjektų grupei, jei toje grupėje
+veikia veiksminga interesų konfliktų valdymo sistema.
 2. Į vieno
 emitento akcijas, obligacijas ar kitų formų ne nuosavybės vertybinius popierius
 gali būti investuota iki 20 procentų indekso investicinio fondo ar investicinės
@@ -2083,8 +2157,8 @@ straipsnis. Investavimas į išvestines finansines priemones
 investuoti tik į išvestines finansines priemones (įskaitant ir tas, kurios
 suteikia teisę tik gauti pinigus), kurios atitinka šias sąlygas:
 1) jos yra
-įtrauktos į prekybą šio įstatymo 57 straipsnio 1 dalies 1, 2 ir 3 punktuose
-nurodytose rinkose arba kuriomis prekiaujama už aukščiau nurodytų rinkų ribų;
+įtrauktos į prekybą šio įstatymo 57 straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytose
+rinkose arba kuriomis prekiaujama už aukščiau nurodytų rinkų ribų;
 2) jos susietos
 su šio įstatymo 57 straipsnio 1 dalyje nurodytomis investicinėmis priemonėmis,
 finansiniais indeksais, palūkanų normomis, valiutomis ar valiutos kursais, į
@@ -2092,21 +2166,13 @@ kuriuos, kaip nurodyta sudarymo dokumentuose, kolektyvinio investavimo
 subjektas turi teisę investuoti;
 3) kita šalis
 sandoriuose, sudarytuose už šio įstatymo 57 straipsnio 1 dalies 1, 2 ir 3
-punktuose nurodytų rinkų ribų, atitinka Vertybinių popierių komisijos
-nustatytus kriterijus ir yra prižiūrima priežiūros institucijos;
- 
-1 dalies 4 punkto redakcija iki 2008 m. liepos 23 d.:
-4) priemones,
-kuriomis prekiaujama už šio įstatymo 57 straipsnio 1 dalies 1, 2 ir 3 punktuose
-nurodytų rinkų ribų, kiekvieną dieną galima patikrinti, patikimai įvertinti ir
-bet kuriuo metu parduoti ar kitaip atlyginamai realizuoti jų tikrąja verte.
-1 dalies 4 punkto redakcija nuo 2008 m. liepos 23 d.:
+punktuose nurodytų rinkų ribų, atitinka Vertybinių popierių komisijos nustatytus
+kriterijus ir yra prižiūrima priežiūros institucijos;
 4) priemones,
 kuriomis prekiaujama už šio įstatymo 57 straipsnio 1 dalies 1, 2 ir 3 punktuose
 nurodytų rinkų ribų, kiekvieną dieną galima patikrinti, patikimai ir tiksliai
-įvertinti ir bet kuriuo metu parduoti ar kitaip atlyginamai realizuoti jų tikrąja
-verte.
- 
+įvertinti ir bet kuriuo metu parduoti ar kitaip atlyginamai realizuoti jų
+tikrąja verte.
 2. Valdymo įmonė
 ar investicinė kintamojo kapitalo bendrovė privalo:
 1) riziką
@@ -2184,12 +2250,12 @@ ne vėliau kaip per 6 mėnesius.
 naujo kolektyvinio investavimo subjekto investicijų portfelis 6 mėnesius nuo
 dienos, kai jo sudarymo dokumentams ir prospektams pritarė Vertybinių popierių
 komisija, gali neatitikti 58, 60 ir 61 straipsnių reikalavimų.
-3. Šiame skyriuje
-nustatytus reikalavimus pažeidusi valdymo įmonė ar investicinė kintamojo
-kapitalo bendrovė, kurios turto valdymas neperduotas valdymo įmonei, privalo
-nedelsdama apie pažeidimą raštu informuoti Vertybinių popierių komisiją,
-nurodydama pažeidimo priežastis, priemones, kurių ji ketina imtis padėčiai
-ištaisyti, ir numatomą pažeidimo ištaisymo terminą. 
+3. Šiame
+skyriuje nustatytus reikalavimus pažeidusi valdymo įmonė ar investicinė
+kintamojo kapitalo bendrovė, kurios turto valdymas neperduotas valdymo įmonei,
+privalo nedelsdama apie pažeidimą raštu informuoti Vertybinių popierių
+komisiją, nurodydama pažeidimo priežastis, priemones, kurių ji ketina imtis
+padėčiai ištaisyti, ir numatomą pažeidimo ištaisymo terminą. 
  
 VII SKYRIUS
 PIRMASIS SKIRSNIS
@@ -2244,15 +2310,15 @@ teisę.
 jos valdomo privataus kapitalo kolektyvinio investavimo subjekto lėšomis arba
 privataus kapitalo investicinė bendrovė, kurios turto valdymas neperduotas
 valdymo įmonei, gali įsigyti šio įstatymo 79 straipsnio 1 ir 2 punktuose
-nurodytus investavimo objektus, priklausančius kolektyvinio investavimo subjekto
-depozitoriumui ar bendrovei, kuriai priklauso 5 ir daugiau procentų valdymo
-įmonės ar investicinės bendrovės akcijų, suteikiančių balso teisę.
+nurodytus investavimo objektus, priklausančius kolektyvinio investavimo
+subjekto depozitoriumui ar bendrovei, kuriai priklauso 5 ir daugiau procentų
+valdymo įmonės ar investicinės bendrovės akcijų, suteikiančių balso teisę.
 4. Šio
 straipsnio 2 ir 3 dalyse numatyta teise pasinaudojusi valdymo įmonė ar
 investicinė bendrovė, kurios turto valdymas neperduotas valdymo įmonei, privalo
 ne vėliau kaip per 5 darbo dienas nuo įsigijimo sandorio sudarymo pranešti apie
-jį Vertybinių popierių komisijai. Kartu su pranešimu Vertybinių popierių
-komisijai turi būti pateikiama:
+jį Vertybinių popierių komisijai. Kartu su pranešimu Vertybinių popierių komisijai
+turi būti pateikiama:
 1) valdymo
 įmonės ar investicinės bendrovės, kurios turto valdymas neperduotas valdymo
 įmonei, valdybos sprendimas su jame nurodyta atitinkamo investavimo objekto
@@ -2293,9 +2359,9 @@ valdymo įmonė ar nekilnojamojo turto, privataus kapitalo ar alternatyvaus
 kolektyvinio investavimo investicinė bendrovė, kurios turto valdymas
 neperduotas valdymo įmonei, turi teisę atidėti šio straipsnio 2 dalyje
 nustatytą atsiskaitymo už išperkamus investicinius vienetus ar akcijas terminą,
-kai išperkamų investicinių vienetų ar akcijų bendra vertė viršija subjekto sudarymo
-dokumentuose ir prospektuose nustatytą vertę, kuri negali būti mažesnė negu 10
-procentų subjekto grynųjų aktyvų vertės, arba išimtiniais atvejais, kai
+kai išperkamų investicinių vienetų ar akcijų bendra vertė viršija subjekto
+sudarymo dokumentuose ir prospektuose nustatytą vertę, kuri negali būti mažesnė
+negu 10 procentų subjekto grynųjų aktyvų vertės, arba išimtiniais atvejais, kai
 nepakanka pinigų išmokėti už išperkamus investicinius vienetus ar akcijas, o
 turimų investavimo objektų pardavimas būtų nuostolingas. Atsiskaitymas gali
 būti atidedamas tik tuo atveju, kai tokia valdymo įmonės ar investicinės
@@ -2312,11 +2378,11 @@ turto valdymas neperduotas valdymo įmonei, privalo sudarymo dokumentuose
 nustatyta tvarka skelbti investicinių vienetų ar akcijų kainas kiekvieną kartą,
 kai jas parduoda ar išperka. 
 2. Atviro tipo
-nekilnojamojo turto ar privataus kapitalo kolektyvinio investavimo subjektų investicinių
-vienetų ar akcijų vertės turi būti skelbiamos ne rečiau kaip vieną kartą per 3
-mėnesius, o atviro tipo kolektyvinio investavimo subjekto, investuojančio į
-kitus kolektyvinio investavimo subjektus, – ne rečiau kaip du kartus per
-mėnesį. 
+nekilnojamojo turto ar privataus kapitalo kolektyvinio investavimo subjektų
+investicinių vienetų ar akcijų vertės turi būti skelbiamos ne rečiau kaip vieną
+kartą per 3 mėnesius, o atviro tipo kolektyvinio investavimo subjekto,
+investuojančio į kitus kolektyvinio investavimo subjektus, – ne rečiau kaip du
+kartus per mėnesį. 
  
 69 straipsnis. Specialiųjų kolektyvinio investavimo
 subjektų prospektų turinys
@@ -2325,9 +2391,9 @@ kolektyvinio investavimo subjektų visame, sutrumpintame prospektuose ir
 alternatyvaus kolektyvinio investavimo subjekto sudarymo dokumentų santraukoje,
 be šio įstatymo nustatytos informacijos, turi būti aiškiai įvardytas su
 investavimu į šiuos kolektyvinio investavimo subjektus susijusios rizikos
-pobūdis ir nurodoma, kad investavimas į specialųjį kolektyvinio investavimo
-subjektą yra susijęs su didesne negu vidutinė, o nekilnojamojo turto ir
-privataus kapitalo kolektyvinio investavimo subjektų atveju – ilgalaike rizika.
+pobūdis ir nurodoma, kad investavimas į specialųjį kolektyvinio investavimo subjektą
+yra susijęs su didesne negu vidutinė, o nekilnojamojo turto ir privataus
+kapitalo kolektyvinio investavimo subjektų atveju – ilgalaike rizika.
  
 70
 straipsnis. Laikinas specialiųjų kolektyvinio investavimo subjektų investicinių
@@ -2374,8 +2440,8 @@ emitento perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones
 gali investuoti iki 20 procentų grynųjų aktyvų, išskyrus 58 straipsnio 5 ir 6 dalyse nustatytus
 atvejus. Vertybinių popierių komisijai sutikus, jei tai būtina dėl ypatingų
 sąlygų reguliuojamoje rinkoje dominuojant vienam emitentui, į jo akcijas,
-obligacijas ar kitų formų ne nuosavybės vertybinius popierius gali būti
-investuojama iki 35 procentų grynųjų aktyvų. 
+obligacijas ar kitų formų ne nuosavybės vertybinius popierius gali būti investuojama
+iki 35 procentų grynųjų aktyvų. 
 4. Kolektyvinio
 investavimo į perleidžiamuosius
 vertybinius popierius investicinė
@@ -2393,10 +2459,9 @@ grynųjų aktyvų vertės. Kolektyvinio investavimo į perleidžiamuosius vertyb
 valdanti kolektyvinio investavimo subjekto turtą, laikydamasi šioje dalyje
 nustatytų reikalavimų, gali skolinti kolektyvinio investavimo subjekto turtą ne
 ilgiau kaip 30 dienų. Šioje dalyje numatyto ilgiausio skolinimo termino
-reikalavimo galima nesilaikyti tik tuo atveju, kai pagal sudarytą paskolos sutartį
-valdymo įmonė ar kolektyvinio investavimo
-į perleidžiamuosius vertybinius popierius investicinė bendrovė turi teisę bet kada pareikalauti
-grąžinti paskolintą kolektyvinio investavimo subjekto turtą.
+reikalavimo galima nesilaikyti tik tuo atveju, kai pagal sudarytą paskolos
+sutartį valdymo įmonė ar kolektyvinio investavimo į perleidžiamuosius vertybinius popierius investicinė bendrovė turi teisę bet
+kada pareikalauti grąžinti paskolintą kolektyvinio investavimo subjekto turtą.
  
 trečiasis SKIRSNIS
  
@@ -2412,14 +2477,15 @@ mažiau kaip du nepriklausomi, teisę verstis nekilnojamojo turto vertinimo
 veikla turintys turto vertintojai, išskyrus turto vertintojus asistentus, kurie
 pateiktų atskiras išvadas. Nekilnojamojo turto kolektyvinio investavimo
 subjekto, kurio dalyviais pagal jo sudarymo dokumentus gali būti tik
-profesionalieji investuotojai, investicijų portfelį sudarančius ar ketinamus įsigyti
-nekilnojamojo turto objektus gali vertinti vienas nepriklausomas, teisę verstis
-nekilnojamojo turto vertinimo veikla turintis nekilnojamojo turto vertintojas. 
+profesionalieji investuotojai, investicijų portfelį sudarančius ar ketinamus
+įsigyti nekilnojamojo turto objektus gali vertinti vienas nepriklausomas, teisę
+verstis nekilnojamojo turto vertinimo veikla turintis nekilnojamojo turto
+vertintojas. 
 2. Valdymo įmonė
-ar investicinė bendrovė privalo užtikrinti, kad kolektyvinio investavimo subjekto
-investicijų portfelį sudarančius ar ketinamus įsigyti nekilnojamojo turto
-objektus, esančius ne Lietuvos Respublikoje, vertintų bent vienas tos valstybės
-teisės aktuose nustatytus nekilnojamojo turto vertintojams taikomus
+ar investicinė bendrovė privalo užtikrinti, kad kolektyvinio investavimo
+subjekto investicijų portfelį sudarančius ar ketinamus įsigyti nekilnojamojo
+turto objektus, esančius ne Lietuvos Respublikoje, vertintų bent vienas tos
+valstybės teisės aktuose nustatytus nekilnojamojo turto vertintojams taikomus
 reikalavimus atitinkantis nekilnojamojo turto vertintojas. 
 3. Pareiga
 įrodyti, kad užsienio valstybės nekilnojamojo turto vertintojas atitinka šio
@@ -2445,8 +2511,8 @@ sandorio sudarymo atlikti kolektyvinio investavimo subjekto turtu ketinamo
 6.           
 Vertybinių
 popierių komisija turi teisę pareikalauti atlikti papildomą nepriklausomą
-nekilnojamojo turto vertinimą, nedalyvaujant ankstesnį turto vertinimą atlikusiam
-(atlikusiems) vertintojui (vertintojams), kai:
+nekilnojamojo turto vertinimą, nedalyvaujant ankstesnį turto vertinimą
+atlikusiam (atlikusiems) vertintojui (vertintojams), kai:
 1)                              
 atliktas
 turto vertinimas neatitinka kolektyvinio investavimo subjekto sudarymo
@@ -2461,13 +2527,13 @@ investavimo subjektų pagrindinės investavimo taisyklės ir ypatumai
 1. Jeigu šiame
 skirsnyje nenustatyta kitaip, nekilnojamojo turto kolektyvinio investavimo
 subjekto turto investavimui netaikomi šio įstatymo 13 straipsnio 4 ir 5 dalyse,
-57 straipsnyje, išskyrus šio straipsnio 5 dalyje numatytą draudimą, 58
-straipsnyje, 64 straipsnio 2 dalyje nustatyti apribojimai, 99 straipsnis, 13
+57 straipsnyje, išskyrus šio straipsnio 5 dalyje numatytą draudimą, 58 ir 59
+straipsniuose, 64 straipsnio 2 dalyje nustatyti apribojimai, 99 straipsnis, 13
 straipsnio 3 dalyje įtvirtintas draudimas įkeisti investicinį fondą sudarantį
-ar investicinės bendrovės turtą. Draudžiama
-skolinti nekilnojamojo turto kolektyvinio investavimo subjekto turtą,
-garantuoti ar laiduoti juo už kitų asmenų įsipareigojimus. Nekilnojamojo turto
-kolektyvinio investavimo subjektas neprivalo naudoti palyginamojo indekso. 
+ar investicinės bendrovės turtą. Draudžiama skolinti nekilnojamojo turto
+kolektyvinio investavimo subjekto turtą, garantuoti ar laiduoti juo už kitų
+asmenų įsipareigojimus. Nekilnojamojo turto kolektyvinio investavimo subjektas
+neprivalo naudoti palyginamojo indekso.
 2. Nekilnojamojo
 turto objekto įsigijimo kaina negali būti daug aukštesnė, o pardavimo kaina –
 daug žemesnė už tą, kurią nustatė šio įstatymo 72 straipsnyje nustatytus
@@ -2488,6 +2554,10 @@ turto investicinė bendrovė ar valdymo įmonė, valdanti kolektyvinio investavi
 subjekto turtą, kolektyvinio investavimo subjekto sąskaita gali skolintis iki
 75 procentų paskolos sudarymo dieną buvusių grynųjų aktyvų vertės kolektyvinio
 investavimo subjekto sudarymo dokumentuose iš anksto nustatytam terminui.
+Straipsnio
+pakeitimai:
+Nr. XI-204,
+2009-03-19, Žin., 2009, Nr. 38-1443 (2009-04-04)
  
 74
 straipsnis. Nekilnojamojo turto kolektyvinio investavimo subjektų investavimo
@@ -2502,9 +2572,10 @@ nekilnojamojo turto objektai, kuriuos numatoma pastatyti per priimtiną
 laikotarpį;
 3) bendrovių,
 kurių pagrindinę veiklą sudaro nekilnojamojo turto įsigijimas, rekonstravimas,
-nuoma, prekyba ir (arba) plėtra (nekilnojamojo turto bendrovės), perleidžiamieji
-vertybiniai popieriai ir pinigų rinkos priemonės, jei tokių bendrovių turtas
-investuotas į šio straipsnio reikalavimus atitinkantį nekilnojamąjį turtą; 
+nuoma, prekyba ir (arba) plėtra (nekilnojamojo turto bendrovės),
+perleidžiamieji vertybiniai popieriai ir pinigų rinkos priemonės, jei tokių
+bendrovių turtas investuotas į šio straipsnio reikalavimus atitinkantį
+nekilnojamąjį turtą; 
 4) valstybėse
 narėse sudarytų nekilnojamojo turto kolektyvinio investavimo subjektų, kurių
 priežiūra yra ne mažiau griežta negu Lietuvos Respublikoje, investiciniai
@@ -2546,28 +2617,29 @@ nustatytų reikalavimų.
 nekilnojamojo turto objektą ir (ar) nekilnojamojo turto bendrovę gali būti
 investuota ne daugiau kaip 30 procentų nekilnojamojo turto kolektyvinio
 investavimo subjekto turtą sudarančių grynųjų aktyvų.
-4. Bendra
-investicijų į šio įstatymo 74 straipsnio 1 dalies 2 punkte numatytus
-nekilnojamojo turto objektus suma negali viršyti 20 procentų nekilnojamojo
-turto kolektyvinio investavimo subjekto turtą sudarančių grynųjų aktyvų.
+4. Bendra investicijų
+į šio įstatymo 74 straipsnio 1 dalies 2 punkte numatytus nekilnojamojo turto
+objektus suma negali viršyti 20 procentų nekilnojamojo turto kolektyvinio
+investavimo subjekto turtą sudarančių grynųjų aktyvų.
 5. Bendra
 investicijų į nekilnojamojo turto objektą ir jo eksploatacijai būtiną
 kilnojamąjį turtą ir (arba) įrenginius suma negali viršyti 40 procentų
 nekilnojamojo turto kolektyvinio investavimo subjekto turtą sudarančių grynųjų
 aktyvų.
-6. Bendra investicijų
-į tos pačios nekilnojamojo turto bendrovės išleistus perleidžiamuosius
-vertybinius popierius, pinigų rinkos priemones ir įsipareigojimų, atsirandančių
-kolektyvinio investavimo subjektui dėl išvestinių finansinių priemonių sandorių
-su ta bendrove, suma negali viršyti 30 procentų nekilnojamojo turto
-kolektyvinio investavimo subjekto turtą sudarančių grynųjų aktyvų.
+6. Bendra
+investicijų į tos pačios nekilnojamojo turto bendrovės išleistus
+perleidžiamuosius vertybinius popierius, pinigų rinkos priemones ir
+įsipareigojimų, atsirandančių kolektyvinio investavimo subjektui dėl išvestinių
+finansinių priemonių sandorių su ta bendrove, suma negali viršyti 30 procentų
+nekilnojamojo turto kolektyvinio investavimo subjekto turtą sudarančių grynųjų
+aktyvų.
 7. Bendra
 investicijų į šio straipsnio 6 dalyje nurodytas investicines priemones ir šio
 straipsnio 5 dalyje nurodytus investavimo objektus, į kuriuos yra investavusi
 tokia nekilnojamojo turto bendrovė ir į ją investuojantis nekilnojamojo turto
 kolektyvinio investavimo subjektas, suma negali viršyti 30 procentų
-nekilnojamojo turto kolektyvinio investavimo subjekto turtą sudarančių grynųjų aktyvų.
-
+nekilnojamojo turto kolektyvinio investavimo subjekto turtą sudarančių grynųjų
+aktyvų. 
 8. Sudaryto
 naujo nekilnojamojo turto kolektyvinio investavimo subjekto investicijų
 portfelis 4 metus nuo dienos, kai jo sudarymo dokumentams ir prospektams
@@ -2640,8 +2712,8 @@ kolektyvinio investavimo subjekto turtą, garantuoti ar laiduoti juo už kitų
 asmenų įsipareigojimus. Draudimas skolinti turtą netaikomas tik
 profesionaliesiems investuotojams skirtam kolektyvinio investavimo subjektui,
 tačiau paskolinto turto vertė negali viršyti 50 procentų privataus kapitalo
-kolektyvinio investavimo subjekto grynųjų aktyvų vertės. Privataus kapitalo kolektyvinio
-investavimo subjektas neprivalo naudoti lyginamojo indekso.
+kolektyvinio investavimo subjekto grynųjų aktyvų vertės. Privataus kapitalo
+kolektyvinio investavimo subjektas neprivalo naudoti lyginamojo indekso.
 2.                          
 Privataus
 kapitalo investicinė bendrovė ar valdymo įmonė, valdanti kolektyvinio
@@ -2696,12 +2768,12 @@ straipsnių reikalavimų.
 kai investavimo taisyklių reikalavimai pažeidžiami dėl priežasčių,
 nepriklausančių nuo valdymo įmonės ar investicinės bendrovės, neatitiktis turi
 būti pašalinta kaip įmanoma greičiau, bet ne vėliau kaip per vienus metus. Šis
-terminas gali būti ilgesnis tik išskirtiniais atvejais, kai valdymo įmonė ar investicinė
-bendrovė negali ištaisyti padėties dėl nuo jos nepriklausančių priežasčių.
-Tokiu atveju, pasibaigus vienų metų terminui, valdymo įmonė ar investicinė
-bendrovė privalo nedelsdama apie susidariusią padėtį ir jos priežastis
-informuoti Vertybinių popierių komisiją. Pranešime taip pat turi būti nurodytas
-planuojamas reikalavimo įvykdymo terminas. 
+terminas gali būti ilgesnis tik išskirtiniais atvejais, kai valdymo įmonė ar
+investicinė bendrovė negali ištaisyti padėties dėl nuo jos nepriklausančių
+priežasčių. Tokiu atveju, pasibaigus vienų metų terminui, valdymo įmonė ar
+investicinė bendrovė privalo nedelsdama apie susidariusią padėtį ir jos
+priežastis informuoti Vertybinių popierių komisiją. Pranešime taip pat turi
+būti nurodytas planuojamas reikalavimo įvykdymo terminas. 
 5. Pasibaigus
 šio straipsnio 4 dalyje nustatytam laikui, investavimo taisyklių reikalavimus
 pažeidusi valdymo įmonė ar investicinė bendrovė, kurios turto valdymas
@@ -2791,10 +2863,10 @@ vienetai ar akcijos;
 2)      valstybėje
 narėje ir (arba) kitoje valstybėje sudarytų kolektyvinio investavimo subjektų,
 neatitinkančių Europos Sąjungos teisės reikalavimų, investiciniai vienetai ar
-akcijos, jei tokie subjektai ir (arba) jų valdymo įmonės investuotojų interesų apsaugos
-tikslais yra licencijuojami ir (arba) prižiūrimi, o Vertybinių popierių
-komisija ir užsienio priežiūros institucija yra sudariusios susitarimą,
-užtikrinantį tinkamą veiklos priežiūrą ir informacijos teikimą;
+akcijos, jei tokie subjektai ir (arba) jų valdymo įmonės investuotojų interesų
+apsaugos tikslais yra licencijuojami ir (arba) prižiūrimi, o Vertybinių
+popierių komisija ir užsienio priežiūros institucija yra sudariusios
+susitarimą, užtikrinantį tinkamą veiklos priežiūrą ir informacijos teikimą;
 3)      kitos šio
 įstatymo 57 ir 62 straipsniuose išvardytos investavimo priemonės. 
 2. Pareiga įrodyti, kad kolektyvinio
@@ -2824,9 +2896,9 @@ kaip 20 procentų subjekto turtą sudarančių grynųjų aktyvų gali būti inve
 59, 61 ir 62 straipsniuose nustatytų reikalavimų.
 5. Ne daugiau
 kaip 20 procentų kolektyvinio investavimo subjekto grynųjų aktyvų vertės gali
-būti investuota į šio įstatymo 84 straipsnio 1 dalies 2 punkte nustatytus
-reikalavimus atitinkančių alternatyvaus kolektyvinio investavimo ar jiems
-analogiškų kolektyvinio investavimo subjektų investicinius vienetus ar akcijas.
+būti investuota į šio įstatymo 84 straipsnio 1 dalies 2 punkte nustatytus reikalavimus
+atitinkančių alternatyvaus kolektyvinio investavimo ar jiems analogiškų
+kolektyvinio investavimo subjektų investicinius vienetus ar akcijas.
 6. Bendra
 investicijų į šio straipsnio 3 dalyje numatytus kolektyvinio investavimo
 subjektus suma negali viršyti 60 procentų kolektyvinio investavimo subjekto
@@ -2885,8 +2957,8 @@ SKIRSNIS
 ALTERNATYVAUS
 KOLEKTYVINIO INVESTAVIMO SUBJEKTAI 
  
-87 straipsnis. Pagrindinės alternatyvaus
-kolektyvinio investavimo subjektų veiklos taisyklės
+87 straipsnis. Pagrindinės alternatyvaus kolektyvinio
+investavimo subjektų veiklos taisyklės
 1. Lietuvos
 Respublikoje remiantis šiuo įstatymu gali būti steigiami tik tokie
 alternatyvaus kolektyvinio investavimo subjektai, kurių dalyviais pagal
@@ -2926,11 +2998,11 @@ kolektyvinio investavimo subjekto investicijų portfelis privalo visais atvejais
 būti diversifikuotas tiek, kad užtikrintų tinkamą investavimo rizikos
 išskaidymą.
 8. Alternatyvaus
-kolektyvinio investavimo investicinė bendrovė ar valdymo įmonė, valdanti
-alternatyvaus kolektyvinio investavimo subjekto turtą, gali skolintis
-alternatyvaus kolektyvinio investavimo subjekto sąskaita iki 200 procentų
-paskolos sudarymo dieną buvusių grynųjų aktyvų vertės kolektyvinio investavimo
-subjekto sudarymo dokumentuose iš anksto nustatytam terminui. 
+kolektyvinio investavimo investicinė bendrovė ar valdymo įmonė, valdanti alternatyvaus
+kolektyvinio investavimo subjekto turtą, gali skolintis alternatyvaus
+kolektyvinio investavimo subjekto sąskaita iki 200 procentų paskolos sudarymo
+dieną buvusių grynųjų aktyvų vertės kolektyvinio investavimo subjekto sudarymo
+dokumentuose iš anksto nustatytam terminui. 
 9. Alternatyvaus
 kolektyvinio investavimo subjekto turtas gali būti skolinamas tik
 licencijuotoms finansų įstaigoms. Paskolinto turto vertė negali viršyti 50
@@ -2940,9 +3012,9 @@ valdanti alternatyvaus kolektyvinio investavimo subjekto turtą, laikydamasi
 šioje dalyje nustatytų reikalavimų, gali skolinti kolektyvinio investavimo
 subjekto turtą ne ilgiau kaip 30 dienų. Šioje dalyje nustatyto ilgiausio
 skolinimo termino reikalavimo galima nesilaikyti tik tuo atveju, jei pagal
-sudarytą paskolos sutartį valdymo įmonė ar alternatyvaus kolektyvinio investavimo
-investicinė bendrovė turi teisę bet kada pareikalauti grąžinti paskolintą
-kolektyvinio investavimo subjekto turtą.
+sudarytą paskolos sutartį valdymo įmonė ar alternatyvaus kolektyvinio
+investavimo investicinė bendrovė turi teisę bet kada pareikalauti grąžinti
+paskolintą kolektyvinio investavimo subjekto turtą.
 10.
 Alternatyvaus kolektyvinio investavimo subjekto reklamoje privalo būti aiškiai
 pateikta informacija apie investuotojams pagal šį įstatymą taikomus apribojimus
@@ -3021,12 +3093,12 @@ Bendrovei draudžiama turėti savo akcijų ar jas išpirkti iš bendrovės akcin
 Bendrovės įstatinis kapitalas gali būti didinamas tik akcijų priedais ar
 papildomais įnašais visuotinio akcininkų susirinkimo sprendimu. 
 7.
-Didinat įstatinį kapitalą papildomais įnašais, išleidžiamas akcijas įsigyti gali
-tik esami bendrovės akcininkai proporcingai jų turimų akcijų skaičiui. Akcijos
-gali būti siūlomos ne bendrovės akcininkams tik tuo atveju, jei esami bendrovės
-akcininkai per įstatuose numatytą laikotarpį, kuris negali būti trumpesnis kaip
-10 dienų ir ilgesnis kaip 30 kalendorinių dienų, nepasirašė visų numatytų
-išleisti bendrovės akcijų. Naujos akcijų emisijos akcijos privalo būti
+Didinat įstatinį kapitalą papildomais įnašais, išleidžiamas akcijas įsigyti
+gali tik esami bendrovės akcininkai proporcingai jų turimų akcijų skaičiui.
+Akcijos gali būti siūlomos ne bendrovės akcininkams tik tuo atveju, jei esami
+bendrovės akcininkai per įstatuose numatytą laikotarpį, kuris negali būti
+trumpesnis kaip 10 dienų ir ilgesnis kaip 30 kalendorinių dienų, nepasirašė visų
+numatytų išleisti bendrovės akcijų. Naujos akcijų emisijos akcijos privalo būti
 apmokamos pinigais per akcijų pasirašymo sutartyje nustatytą laiką, kuris
 negali būti ilgesnis kaip 30 darbo dienų. 
 8.
@@ -3040,8 +3112,8 @@ tipo investicinė bendrovė neprivalo rengti sutrumpinto akcijų emisijos
 prospekto. 
 10.
 Ne anksčiau kaip prieš 30 dienų iki sprendimo paskirti dividendus priėmimo
-privalo būti sudaryta ir auditoriaus patikrinta bendrovės finansinė
-atskaitomybė. Šis reikalavimas netaikomas, jei sprendimas išmokėti dividendus
+privalo būti sudarytos ir auditoriaus patikrintos bendrovės finansinės
+ataskaitos. Šis reikalavimas netaikomas, jei sprendimas išmokėti dividendus
 priimamas eiliniame visuotiniame akcininkų susirinkime. Dividendai bendrovės
 akcininkams išmokami įstatuose numatytais terminais ir tvarka.
 11.
@@ -3059,6 +3131,10 @@ Pasibaigus uždaro tipo investicinės bendrovės įstatuose nustatytam bendrovė
 veiklos laikotarpiui, bendrovės turtas parduodamas ir po skolinių
 įsipareigojimų įvykdymo likę pinigai padalijami bendrovės akcininkams
 proporcingai turimų akcijų skaičiui.
+Straipsnio
+pakeitimai:
+Nr. XI-204,
+2009-03-19, Žin., 2009, Nr. 38-1443 (2009-04-04)
  
 91
 straipsnis. Uždaro tipo investicinio fondo ypatumai
@@ -3075,8 +3151,7 @@ informacijos, turi būti aiškiai nurodytas fondo tipas, terminas, kuriam jis
 sudarytas, ir pateiktas įspėjimas, kad fondo investiciniai vienetai nėra
 išperkami dalyviui pareikalavus. Laikantis šiame įstatyme nustatytų
 investicinių vienetų arba akcijų siūlymui taikomų reikalavimų, fondo taisyklėse
-gali būti nustatytas ribotas dalyvių ir (arba) fondo investicinių vienetų
-skaičius.
+gali būti nustatytas ribotas dalyvių ir (arba) fondo investicinių vienetų skaičius.
 4.
 Uždaro tipo investiciniam fondui, kurio taisyklėse numatoma išleisti investicinius
 vienetus, nesuteikiančius teisės į investicinių pajamų dalį, veiklos
@@ -3112,12 +3187,12 @@ investicinių vienetų ar akcijų įtraukimui į prekybą reguliuojamoje rinkoje
 3. Valdymo įmonės valdymo organo ar investicinės
 bendrovės visuotinio akcininkų susirinkimo sprendimas įtraukti investicinės
 bendrovės akcijas ar investicinio fondo investicinius vienetus į prekybą
-reguliuojamoje rinkoje taikomas visiems (ir po įtraukimo į prekybą reguliuojamoje
-rinkoje išleistiems) kolektyvinio investavimo subjekto investiciniams vienetams
-ar akcijoms. 
+reguliuojamoje rinkoje taikomas visiems (ir po įtraukimo į prekybą
+reguliuojamoje rinkoje išleistiems) kolektyvinio investavimo subjekto
+investiciniams vienetams ar akcijoms. 
  
-94 straipsnis. Prekyba investiciniais vienetais ar
-akcijomis reguliuojamoje rinkoje
+94 straipsnis. Prekyba investiciniais vienetais ar akcijomis
+reguliuojamoje rinkoje
 Prekyba kolektyvinio investavimo subjekto
 investiciniais vienetais ar akcijomis reguliuojamoje rinkoje vyksta pagal
 reguliuojamos rinkos taisykles.
@@ -3133,8 +3208,8 @@ rinkos pavadinimą.
 uždaro tipo kolektyvinio investavimo subjektą, kurio investicinius vienetus ar
 akcijas ketinama įtraukti į prekybą reguliuojamoje rinkoje, visas prospektas ir
 vėlesni jo pakeitimai turi būti paskelbti Vertybinių popierių įstatymo nustatyta
-tvarka. Vertybinių popierių komisija turi teisę nustatyti šioje dalyje įtvirtintos
-pareigos papildomai skelbti visą prospektą išimtis.
+tvarka. Vertybinių popierių komisija turi teisę nustatyti šioje dalyje
+įtvirtintos pareigos papildomai skelbti visą prospektą išimtis.
 3. Uždaro tipo kolektyvinio investavimo subjekto,
 kurio investicinius vienetus ar akcijas ketinama įtraukti į prekybą
 reguliuojamoje rinkoje, prospekto ir uždaro tipo investicinės bendrovės akcijų
@@ -3145,8 +3220,8 @@ tiek, kiek minėtų santykių nereglamentuoja Vertybinių popierių įstatymas.
 pranešti:
 1) investicinių vienetų ar akcijų kainą,
 apskaičiuotą laikantis šio įstatymo 35 straipsnyje nustatytos tvarkos;
-2) išleistų, išpirktų ir į prekybą reguliuojamoje
-rinkoje įtrauktų investicinių vienetų ar akcijų skaičių jam pasikeitus;
+2) išleistų, išpirktų ir į prekybą reguliuojamoje rinkoje
+įtrauktų investicinių vienetų ar akcijų skaičių jam pasikeitus;
 3) bet kokius indeksą atkartojančio kolektyvinio
 investavimo subjekto finansinių priemonių portfelio sudėties pasikeitimus;
 4) kitą reguliuojamos rinkos taisyklėse nurodytą
@@ -3192,13 +3267,13 @@ valstybėje, kur galima kreiptis prireikus gauti dokumentus, ir filialo vadovų
 vardus ir pavardes.
 3. Vertybinių popierių
 komisija šio straipsnio 2 dalyje numatytą informaciją per 3 mėnesius turi
-perduoti užsienio priežiūros institucijai, pridėdama informaciją apie
-įsipareigojimų investuotojams draudimo sistemą. Vertybinių popierių komisija
-turi teisę neleisti įsteigti filialo ir per 2 mėnesius atsisakyti perduoti
-numatytą informaciją tik tuo atveju, jei numatomo filialo struktūra ar įmonės
-finansinė padėtis neatitinka Vertybinių popierių komisijos nustatytų
-reikalavimų tokiai veiklai vykdyti. Valdymo įmonei turi būti pranešama apie
-informacijos perdavimą arba atsisakymą ją perduoti. 
+perduoti užsienio priežiūros institucijai, pridėdama informaciją apie įsipareigojimų
+investuotojams draudimo sistemą. Vertybinių popierių komisija turi teisę
+neleisti įsteigti filialo ir per 2 mėnesius atsisakyti perduoti numatytą
+informaciją tik tuo atveju, jei numatomo filialo struktūra ar įmonės finansinė
+padėtis neatitinka Vertybinių popierių komisijos nustatytų reikalavimų tokiai
+veiklai vykdyti. Valdymo įmonei turi būti pranešama apie informacijos perdavimą
+arba atsisakymą ją perduoti. 
 4. Valdymo įmonė,
 norėdama teikti paslaugas užsienio valstybėje nesteigdama filialo, turi apie
 tai pranešti Vertybinių popierių komisijai, nurodydama užsienio valstybę. Kartu
@@ -3215,20 +3290,20 @@ apie tai ji turi pranešti Vertybinių popierių komisijai ir užsienio prieži�
 institucijai iš anksto, ne vėliau kaip prieš vieną mėnesį. Tokiu atveju, esant
 šio straipsnio 3 dalyje numatytam pagrindui, Vertybinių popierių komisija turi
 nurodyti nutraukti filialo veiklą. Vertybinių popierių komisija turi pranešti
-užsienio priežiūros institucijai apie pasikeitimus įsipareigojimų
-investuotojams draudimo sistemoje ar kitos perduotos informacijos
-pasikeitimus. Jei keičiasi įmonės, teikiančios paslaugas neįsteigus filialo,
-veiklos planas, apie tai ji privalo iš anksto pranešti Vertybinių popierių
-komisijai ir užsienio priežiūros institucijai.
+užsienio priežiūros institucijai apie pasikeitimus įsipareigojimų investuotojams
+draudimo sistemoje ar kitos perduotos informacijos pasikeitimus. Jei
+keičiasi įmonės, teikiančios paslaugas neįsteigus filialo, veiklos planas, apie
+tai ji privalo iš anksto pranešti Vertybinių popierių komisijai ir užsienio
+priežiūros institucijai.
  
 98 straipsnis. Lietuvos
 Respublikos valdymo įmonių veiklos užsienio valstybėje priežiūra
 1. Vertybinių popierių
 komisija prižiūri, kaip užsienio valstybėje investicines paslaugas teikiančios
 Lietuvos Respublikos valdymo įmonės laikosi riziką ribojančių reikalavimų. Jei
-užsienio priežiūros institucija praneša apie valdymo įmonės padarytus pažeidimus,
-Vertybinių popierių komisija turi taikyti poveikio priemones ir apie tai
-pranešti užsienio priežiūros institucijai.
+užsienio priežiūros institucija praneša apie valdymo įmonės padarytus
+pažeidimus, Vertybinių popierių komisija turi taikyti poveikio priemones ir
+apie tai pranešti užsienio priežiūros institucijai.
 2. Vertybinių popierių
 komisija turi teisę paprašyti, kad užsienio priežiūros institucija atliktų
 valdymo įmonės filialo veiklos patikrinimą, arba pati surengti patikrinimą,
@@ -3289,10 +3364,10 @@ Lietuvos Respublikoje, o įvykdžiusi šio įstatymo 102 straipsnyje nustatytus
 reikalavimus, – platinti savo valdomų kolektyvinio investavimo subjektų
 investicinius vienetus ar akcijas, išskyrus atvejį, kai Vertybinių popierių
 komisija per tą laiką nustato, kad egzistuoja 102 straipsnio 3 dalyje nustatyti
-pagrindai. Vertybinių popierių komisija turi teisę nurodyti valdymo įmonei, kokių
-veiklos reikalavimų, nustatytų dėl bendrųjų interesų, ji privalės laikytis.
-Šioje dalyje nustatyta tvarka taikoma ir tuo atveju, kai valdymo įmonė
-investicinių vienetų ar akcijų platinimą vykdo per tarpininkus. 
+pagrindai. Vertybinių popierių komisija turi teisę nurodyti valdymo įmonei,
+kokių veiklos reikalavimų, nustatytų dėl bendrųjų interesų, ji privalės
+laikytis. Šioje dalyje nustatyta tvarka taikoma ir tuo atveju, kai valdymo
+įmonė investicinių vienetų ar akcijų platinimą vykdo per tarpininkus. 
 5. Jei keičiasi
 informacija apie valdymo įmonę, numatytą šio straipsnio 1 dalyje, įmonė apie
 tai turi pranešti Vertybinių popierių komisijai iš anksto ne vėliau kaip prieš
@@ -3322,8 +3397,8 @@ Respublikoje, reikalauti tokių pat šio įstatymo pagrindu nustatytų pranešim
 Papildomai Vertybinių popierių komisija turi teisę reikalauti statistiniais
 tikslais sudaromų filialo periodinių ataskaitų.
 3. Užsienio priežiūros
-institucija ar jos įgalioti asmenys, iš anksto pranešę Vertybinių popierių
-komisijai, turi teisę rengti užsienio valdymo įmonės filialo patikrinimus.
+institucija ar jos įgalioti asmenys, iš anksto pranešę Vertybinių popierių komisijai,
+turi teisę rengti užsienio valdymo įmonės filialo patikrinimus.
 4. Jei Lietuvos
 Respublikoje veikianti užsienio valdymo įmonė pažeidžia teisės aktų
 reikalavimus, Vertybinių popierių komisija turi jai nurodyti pašalinti
@@ -3372,8 +3447,7 @@ kolektyvinio investavimo subjekto sudarymo dokumentai;
 3)
 visas ir sutrumpintas prospektai;
 4)
-naujausia metų ataskaita ir pusmečio ataskaita, jei tokia parengta po metų
-ataskaitos;
+naujausia metų ataskaita ir pusmečio ataskaita, jei tokia parengta po metų ataskaitos;
 5)
 tvarka, pagal kurią Lietuvos Respublikoje bus platinami ir išperkami
 investiciniai vienetai arba akcijos;
@@ -3390,12 +3464,13 @@ popierių komisija per tą laiką nusprendžia, kad:
 1)
 nustatoma investicinių vienetų arba akcijų platinimo tvarka prieštarauja
 Lietuvos Respublikos teisės aktams arba negarantuoja teisingo lėšų už
-išperkamus investicinius vienetus ar akcijas išmokėjimo ar informacijos pateikimo;
+išperkamus investicinius vienetus ar akcijas išmokėjimo ar informacijos
+pateikimo;
 2)
 ne valstybėje narėje licencijuotos valdymo įmonės ar investicinės kintamojo
-kapitalo bendrovės priežiūra neatitinka Europos Sąjungos teisės aktų ar
-Vertybinių popierių komisija su užsienio priežiūros institucija nėra sudariusi
-susitarimų, užtikrinančių tinkamą veiklos priežiūrą ir informacijos pateikimą. 
+kapitalo bendrovės priežiūra neatitinka Europos Sąjungos teisės aktų ar Vertybinių
+popierių komisija su užsienio priežiūros institucija nėra sudariusi susitarimų,
+užtikrinančių tinkamą veiklos priežiūrą ir informacijos pateikimą. 
 4.
 Šiame straipsnyje išvardytų dokumentų pateikimo taisykles nustato Vertybinių
 popierių komisija.
@@ -3464,22 +3539,27 @@ x skyrius
 valdymo ĮmoniŲ, investiciniŲ kintamojo kapitalo bendroviŲ IR
 DEPOZITORIUMŲ veiklos valstybinė PRIEŽIŪRA
  
-105 straipsnis. Apskaita ir
-atskaitomybė 
-1. Valdymo įmonės, investicinės bendrovės ir
-investicinio fondo buhalterinę apskaitą, jos organizavimą, tvarkymą ir
-finansinės atskaitomybės sudarymą nustato įstatymai ir kiti teisės aktai.
-2. Depozitoriumas, su kuriuo valdymo įmonė ar
-investicinė bendrovė yra sudariusi investicinio fondo ar investicinės bendrovės
-turto saugojimo sutartį, privalo valdymo įmonei ar investicinei bendrovei,
-kurios turto valdymas nėra perduotas valdymo įmonei, pateikti visus dokumentus,
-reikalingus buhalterinei apskaitai tvarkyti ir finansinei atskaitomybei
-sudaryti.
+ 
+105 straipsnis. Apskaita ir atskaitomybė 
+1.
+Valdymo įmonės, investicinės bendrovės ir investicinio fondo buhalterinę
+apskaitą, jos organizavimą, tvarkymą ir finansinių ataskaitų sudarymą nustato
+įstatymai ir kiti teisės aktai.
+2.
+Depozitoriumas, su kuriuo valdymo įmonė ar investicinė bendrovė yra sudariusi
+investicinio fondo ar investicinės bendrovės turto saugojimo sutartį, privalo
+valdymo įmonei ar investicinei bendrovei, kurios turto valdymas nėra perduotas
+valdymo įmonei, pateikti visus dokumentus, reikalingus buhalterinei apskaitai
+tvarkyti ir finansinėms ataskaitoms sudaryti.
+Straipsnio
+pakeitimai:
+Nr. XI-204,
+2009-03-19, Žin., 2009, Nr. 38-1443 (2009-04-04)
  
 106 straipsnis. Vertybinių popierių komisija
-1. Valdymo įmonių,
-investicinių bendrovių ir depozitoriumų veiklą prižiūri Vertybinių popierių
-komisija.
+1. Valdymo
+įmonių, investicinių bendrovių ir depozitoriumų veiklą prižiūri Vertybinių
+popierių komisija.
 2. Vertybinių
 popierių komisija priežiūros funkcijas atlieka vadovaudamasi šiuo įstatymu ir
 Finansinių priemonių rinkų įstatymu, ji turi šiame ir kituose įstatymuose
@@ -3509,8 +3589,8 @@ išduoda šiame įstatyme nustatytus leidimus;
 5) tikrina
 valdymo įmonių, investicinių bendrovių ir depozitoriumų veiklą;
 6) duoda valdymo
-įmonėms, investicinėms bendrovėms ir depozitoriumams privalomus vykdyti nurodymus
-dėl teisės aktų pažeidimų šalinimo; 
+įmonėms, investicinėms bendrovėms ir depozitoriumams privalomus vykdyti
+nurodymus dėl teisės aktų pažeidimų šalinimo; 
 7) turi teisę
 įstatymų nustatyta tvarka gauti duomenis apie asmenis, kurie pagal šį įstatymą
 privalo būti nepriekaištingos reputacijos;
@@ -3583,9 +3663,9 @@ Vertybinių popierių komisija;
 Lietuvos Respublikos institucijoms galima perduoti konfidencialią informaciją
 apie kolektyvinio investavimo subjektų veiklą;
 3) kurios
-kredito įstaigos atitinka šio įstatymo 58 straipsnio 6 dalyje išvardytus reikalavimus,
-taip pat nurodyti tokių kredito įstaigų išleidžiamas obligacijas ir priemones,
-užtikrinančias obligacijų savininkų interesus;
+kredito įstaigos atitinka šio įstatymo 58 straipsnio 6 dalyje išvardytus
+reikalavimus, taip pat nurodyti tokių kredito įstaigų išleidžiamas obligacijas
+ir priemones, užtikrinančias obligacijų savininkų interesus;
 4) kokia tvarka
 valdymo įmonės ir investicinės kintamojo kapitalo bendrovės turi skaičiuoti
 įsipareigojimus, atsirandančius iš sandorių su išvestinėmis finansinėmis
@@ -3630,19 +3710,23 @@ kolektyvinio investavimo į perleidžiamuosius vertybinius popierius subjektais
 2. 2006 m. rugpjūčio 10 d. Komisijos direktyva 2006/73/EB, kuria įgyvendinama Europos Parlamento ir
 Tarybos direktyva 2004/39/EB dėl investicinių įmonių organizacinių reikalavimų
 ir veiklos sąlygų bei toje direktyvoje apibrėžti terminai (OL 2006 L 241, p. 26).
-Priedas papildomas 3 punktu nuo 2008 m. liepos 23 d.:
-3. 2007 m. kovo 19 d. Komisijos direktyva 2007/16/EB, įgyvendinanti Tarybos direktyvą 85/611/EEB dėl
-įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į
-perleidžiamus vertybinius popierius subjektais (KIPVPS), derinimo, patikslinant
-tam tikrus apibrėžimus (OL 2007 L 79, p. 11).
+3. 2007 m. kovo 19 d. Komisijos direktyva 2007/16/EB, įgyvendinanti Tarybos direktyvą 85/611/EEB dėl įstatymų
+ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus
+vertybinius popierius subjektais (KIPVPS), derinimo, patikslinant tam tikrus
+apibrėžimus (OL 2007 L 79, p. 11).
+4. 2007 m. rugsėjo 5 d. Europos Parlamento ir Tarybos direktyva 2007/44/EB, iš dalies keičianti Tarybos
+direktyvą 92/49/EEB ir direktyvas 2002/83/EB, 2004/39/EB, 2005/68/EB ir
+2006/48/EB dėl riziką ribojančio vertinimo tvarkos taisyklių ir vertinimo
+kriterijų, taikomų akcijų paketų įsigijimui ir didinimui finansų sektoriuje (OL
+ 2007 L 247, p. 1).
 Priedo
 pakeitimai:
 Nr.
 X-1630,
 2008-06-19, Žin., 2008, Nr. 75-2922 (2008-07-03)
- 
+Nr. XI-204, 2009-03-19,
+Žin., 2009, Nr. 38-1443 (2009-04-04)
 __________________
- 
 Pakeitimai:
  
 1.
@@ -3671,11 +3755,21 @@ IR PAPILDYMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja 2008 m. liepos 23 d.
  
-***
-Pabaiga ***
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-204,
+2009-03-19, Žin., 2009, Nr. 38-1443 (2009-04-04)
+KOLEKTYVINIO
+INVESTAVIMO SUBJEKTŲ ĮSTATYMO 2, 5, 10, 22, 41, 57, 58, 73, 90, 105 STRAIPSNIŲ
+BEI PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Iki šio įstatymo įsigaliojimo Vertybinių
+popierių komisijai paduoti prašymai dėl sutikimo įsigyti ar padidinti valdymo
+įmonės akcijų paketą nagrinėjami ir sprendimai priimami prašymo padavimo metu
+galiojusių teisės aktų nustatyta tvarka. 
  
- 
-Redagavo:
-Aušrinė Trapinskienė (2008-07-04)
+*** Pabaiga ***
+Redagavo Aušrinė Trapinskienė
+(2009-04-06)
                  
 autrap@lrs.lt
