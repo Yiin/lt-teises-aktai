@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2008-09-01 iki 2009-04-03
+Suvestinė redakcija nuo 2009-04-04 iki 2009-12-27
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
  
@@ -603,11 +603,19 @@ Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010IST
 
 
 
-19) investicinių fondų, uždaro tipo investicinių bendrovių, pensijų fondų ar investicinių kintamojo kapitalo bendrovių valdymas. 
+19) investicinių fondų, uždaro tipo investicinių bendrovių, pensijų fondų ar investicinių kintamojo kapitalo bendrovių valdymas; 
 Papildyta straipsnio punktu:
 Nr. IX-1720, 2003-07-04, Žin., 2003, Nr. 74-3435 (2003-07-25), i. k. 1031010ISTA0IX-1720
 Straipsnio punkto pakeitimai:
 Nr. X-1306, 2007-10-25, Žin., 2007, Nr. 117-4775 (2007-11-15), i. k. 1071010ISTA00X-1306
+ 
+
+
+
+
+20) finansinių priemonių saugojimas, apskaita ir valdymas klientų sąskaita, įskaitant turto saugojimą ir kitas su tuo susijusias paslaugas, tokias kaip pinigų ar finansinio užstato valdymas. 
+Papildyta straipsnio punktu:
+Nr. XI-203, 2009-03-19, Žin., 2009, Nr. 38-1442 (2009-04-04), i. k. 1091010ISTA00XI-203
  
 
 
@@ -745,53 +753,35 @@ Nr. IX-1481, 2003-04-03, Žin., 2003, Nr. 38-1726 (2003-04-24), i. k. 1031010IST
 
 
 
-7 straipsnis. Finansų įstaigos dalyviai, turintys kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį 
+7 straipsnis. Finansų įstaigos dalyviai, turintys kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį
 
 
-1. Finansų įstaigos dalyviu, turinčiu kvalifikuotąją finansų įstaigos įstatinio kapitalo ir (arba) balsavimo teisių dalį, gali būti asmuo, kuris: 
+1. Finansų įstaigos dalyviu, turinčiu kvalifikuotąją finansų įstaigos įstatinio kapitalo ir (arba) balsavimo teisių dalį, gali būti asmuo, kuris:
 
 
-1) pats arba kieno nors veikiamas nesukels pavojaus finansų įstaigos veiklos saugumui bei patikimumui ir kuris gali garantuoti Lietuvos Respublikos įstatymų reglamentuotą ir patikimą finansų įstaigos valdymą bei veiklos kontrolę; 
-
-
-
-
-2) savo turtiniais, valdymo, artimos giminystės, taip pat svainystės ir veiklos santykiais, dalyvių struktūra negalėtų susilpninti finansų įstaigos veiklos kontrolės, kurią atlieka finansų įstaigos dalyviai; 
+1) pats arba kieno nors veikiamas nesukels pavojaus finansų įstaigos veiklos saugumui bei patikimumui ir kuris gali garantuoti Lietuvos Respublikos įstatymų reglamentuotą ir patikimą finansų įstaigos valdymą bei veiklos kontrolę;
 
 
 
 
-3) atitinka kitus šio Įstatymo bei kitų Lietuvos Respublikos teisės aktų reikalavimus, keliamus finansų įstaigos dalyviams. 
+2) savo turtiniais, valdymo, artimosios giminystės, taip pat svainystės ir veiklos santykiais, dalyvių struktūra negalėtų susilpninti finansų įstaigos veiklos kontrolės, kurią atlieka finansų įstaigos dalyviai;
+
+
+
+
+3) atitinka kitus šio Įstatymo bei kitų Lietuvos Respublikos teisės aktų reikalavimus, keliamus finansų įstaigos dalyviams.
 
 
 
 
 
 
-2. Jei licencines paslaugas teikiančios finansų įstaigos dalyvis, turintis kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį, neatitinka šio straipsnio 1 dalyje ar kituose teisės aktuose nustatytų reikalavimų, šiai finansų įstaigai atsisakoma išduoti licenciją (leidimą) teikti finansines paslaugas, o turinčiai licenciją (leidimą) finansų įstaigai gali būti taikomos Lietuvos Respublikos įstatymuose dėl finansinių paslaugų teikimo ir finansų įstaigų veiklos nustatytos poveikio priemonės arba šių įstatymų nustatyta tvarka tokiems finansų įstaigos dalyviams gali būti sustabdoma balsavimo teisė visuotiniame finansų įstaigos dalyvių susirinkime ar taikomi kiti įstatymų nustatyti apribojimai. 
+2. Licencines finansines paslaugas teikiančios finansų įstaigos kvalifikuotosios įstatinio kapitalo ir (arba) balsavimo teisių dalies įsigijimo, padidinimo, perleidimo ir sumažinimo tvarką nustato Lietuvos Respublikos įstatymai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą. 
 
 
-
-
-3. Asmuo, norintis valdyti finansų įstaigos, teikiančios licencines finansines paslaugas, kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį arba ją padidinti tiek, kad jo turima įstatinio kapitalo ir (arba) balsavimo teisių dalis pasiektų 1/5, 1/3, 1/2 dalies arba tiek, kad finansų įstaiga taptų jo kontroliuojama, turi gauti išankstinį priežiūros institucijos sutikimą. 
-
-
-
-
-4. Asmuo taip pat turi pranešti priežiūros institucijai prieš sumažindamas savo turimą finansų įstaigos, teikiančios licencines finansines paslaugas, kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį tiek, kad jo turima kvalifikuotoji įstatinio kapitalo ir (arba) balsavimo teisių dalis nebesudarytų 1/10, 1/5, 1/3, 1/2 dalies, arba tiek, kad finansų įstaiga nustotų būti jo kontroliuojama. 
-
-
-
-
-5. Sutikimo valdyti finansų įstaigos, teikiančios licencines finansines paslaugas, kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį išdavimo tvarką, atsisakymo išduoti sutikimą pagrindus, konsultavimosi su užsienio priežiūros institucijomis atvejus ir tvarką nustato Lietuvos Respublikos įstatymai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą.
-
-
-
-
-6. Asmens, pradėjusio valdyti finansų įstaigos, teikiančios licencines finansines paslaugas, kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį be priežiūros institucijos sutikimo, turima atitinkama įstatinio kapitalo ir (arba) balsavimo teisių dalis praranda balso teisę visuotiniame finansų įstaigos dalyvių susirinkime.
+Straipsnio pakeitimai:
+Nr. XI-203, 2009-03-19, Žin., 2009, Nr. 38-1442 (2009-04-04), i. k. 1091010ISTA00XI-203
  
-
-
 
 
 
@@ -2969,3 +2959,8 @@ Lietuvos Respublikos finansų įstaigų įstatymo 2, 3 straipsnių pakeitimo ir 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1680, 2008-07-03, Žin., 2008, Nr. 82-3237 (2008-07-19), i. k. 1081010ISTA00X-1680
 Lietuvos Respublikos finansų įstaigų įstatymo 44 ir 45 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-203, 2009-03-19, Žin., 2009, Nr. 38-1442 (2009-04-04), i. k. 1091010ISTA00XI-203
+Lietuvos Respublikos finansų įstaigų įstatymo 3 straipsnio papildymo ir 7 straipsnio pakeitimo įstatymas
