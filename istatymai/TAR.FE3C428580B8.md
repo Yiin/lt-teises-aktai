@@ -1411,17 +1411,24 @@ Straipsnio pakeitimai:
 Nr. X-1530,
 2008-05-08, Žin., 2008, Nr. 59-2202 (2008-05-24)
  
-47 straipsnis. Kandidato teisė būti atleistam nuo
-darbo ar tarnybinių pareigų rinkimų agitacijos kampanijos metu
-1. Kandidatas rinkimų agitacijos
-kampanijos metu, bet ne ilgiau kaip 1 mėnesį, jo prašymu atleidžiamas nuo darbo
-ar tarnybinių pareigų.
-2. Šio
-straipsnio 1 dalies nuostata netaikoma kandidatams, kurie eina Respublikos
-Prezidento, Europos Parlamento ar Seimo nario, Vyriausybės nario pareigas.
+47 straipsnis. Kandidato teisė
+būti atleistam nuo darbo ar tarnybinių pareigų rinkimų agitacijos kampanijos
+metu
+1. Kandidatas
+rinkimų agitacijos kampanijos metu, bet ne ilgiau kaip 30 dienų jo rašytiniu
+prašymu atleidžiamas nuo darbo ar tarnybinių pareigų. Prašymas
+atleisti nuo darbo ar tarnybinių pareigų pateikiamas asmeniui, turinčiam teisę
+suteikti atostogas.
+2.
+Šio straipsnio 1 dalies nuostatos netaikomos kandidatams, kurie eina
+Respublikos Prezidento, Europos Parlamento nario ar Seimo nario pareigas. Kandidato į Europos Parlamento
+narius, kuris eina Vyriausybės nario pareigas, atleidimo nuo tarnybinių pareigų
+tvarka nustatyta Vyriausybės įstatyme.
 Straipsnio pakeitimai:
 Nr. X-1530,
 2008-05-08, Žin., 2008, Nr. 59-2202 (2008-05-24)
+Nr. XI-221,
+2009-04-16, Žin., 2009, Nr. 46-1799 (2009-04-25)
  
 48
 straipsnis. Kandidato neliečiamybė
@@ -1444,8 +1451,7 @@ SKIRSNIS
 RINKIMŲ
 AGITACIJA
  
-49 straipsnis. Rinkimų agitacijos
-pagrindai
+49 straipsnis. Rinkimų agitacijos pagrindai
 1. Pradėti
 rinkimų agitaciją partijoms ir kandidatams sudaromos šio Įstatymo nustatytos
 sąlygos nuo tos dienos, kada prasideda rinkimų agitacijos kampanija. Rinkimų
@@ -1454,9 +1460,9 @@ agitacijos kampanijos pradžios, turi būti įstatymų nustatyta tvarka
 deklaruojamos ir negali viršyti pagal įstatymus nustatyto didžiausio leistino
 rinkimų agitacijos išlaidų dydžio.
 2. Rinkimų
-agitacija gali būti įvairių formų ir būdų, išskyrus tuos, kurie pažeidžia
-Lietuvos Respublikos Konstituciją ir įstatymus, prieštarauja moralei,
-teisingumui ar visuomenės darnai, neatitinka sąžiningų ir garbingų rinkimų.
+agitacija gali būti įvairių formų ir būdų, išskyrus tuos, kurie pažeidžia Lietuvos
+Respublikos Konstituciją ir įstatymus, prieštarauja moralei, teisingumui ar
+visuomenės darnai, neatitinka sąžiningų ir garbingų rinkimų.
 Straipsnio pakeitimai:
 Nr. X-1530, 2008-05-08, Žin., 2008, Nr.
 59-2202 (2008-05-24)
@@ -1491,8 +1497,8 @@ komisija.
 1) ant statinių,
 kuriuose yra valstybės valdžios, teisėsaugos, kitos valstybės ir savivaldybių
 institucijos ir įstaigos;
-2) ant
-transporto priemonių ir viešajame transporte;
+2) ant transporto
+priemonių ir viešajame transporte;
 3) automobilių
 keliuose ir jų sanitarinės apsaugos zonose, taip pat gatvėse ir prie jų, jeigu
 ji gali užstoti technines eismo reguliavimo priemones, kelio ženklus,
@@ -1565,11 +1571,11 @@ suteikti galimybę kandidatui ar partijai pareikšti atsakomąją nuomonę.
 Atsakomąją nuomonę sudaro paskelbtos kompromituojančios medžiagos trumpas
 išdėstymas ir atsakymas. Ji paprastai negali būti daugiau kaip 3 kartus ilgesnė
 už kompromituojančią medžiagą. Visuomenės informavimo priemonė atsakomąją
-nuomonę turi paskelbti ne vėliau kaip per 7 dienas po to, kai ji buvo
-pareikšta, ir ne vėliau kaip likus 2 dienoms iki rinkimų agitacijos draudimo
-laikotarpio pradžios. Visuomenės informavimo priemonė, kuri negali per šio
-Įstatymo nustatytą laikotarpį pati paskelbti atsakomąją nuomonę, turi
-pasirūpinti savo lėšomis ją paskelbti per kitą visuomenės informavimo priemonę.
+nuomonę turi paskelbti ne vėliau kaip per 7 dienas po to, kai ji buvo pareikšta,
+ir ne vėliau kaip likus 2 dienoms iki rinkimų agitacijos draudimo laikotarpio
+pradžios. Visuomenės informavimo priemonė, kuri negali per šio Įstatymo
+nustatytą laikotarpį pati paskelbti atsakomąją nuomonę, turi pasirūpinti savo
+lėšomis ją paskelbti per kitą visuomenės informavimo priemonę.
 2.
 Kompromituojanti medžiaga yra tokia medžiaga, kuria siekiama paveikti rinkėjus,
 kad šie nebalsuotų už konkrečios partijos iškeltus kandidatus (kandidatą) ir
@@ -3085,11 +3091,8 @@ pakeičiantis prie Sprendimo 76/787/EAPB, EEB, Euratomas pridėtą Aktą dėl
 atstovų į Europos Parlamentą rinkimų remiantis tiesiogine visuotine rinkimų
 teise.
 6. 2003 m. vasario mėn. Europos Parlamento reglamentas.
- 
 _______________
- 
 Pakeitimai:
- 
 1.
 Lietuvos
 Respublikos Seimas, Įstatymas
@@ -3125,15 +3128,19 @@ IR 36 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-184,
 2009-03-10, Žin., 2009, Nr. 32-1239 (2009-03-24)
-RINKIMŲ Į
-EUROPOS PARLAMENTĄ ĮSTATYMO 12, 14, 16, 17, 29, 30 IR 54 STRAIPSNIŲ PAKEITIMO
-ĮSTATYMAS
+RINKIMŲ Į EUROPOS
+PARLAMENTĄ ĮSTATYMO 12, 14, 16, 17, 29, 30 IR 54 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-221,
+2009-04-16, Žin., 2009, Nr. 46-1799 (2009-04-25)
+RINKIMŲ Į EUROPOS PARLAMENTĄ ĮSTATYMO 47
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 *** Pabaiga ***
- 
- 
 Redagavo Aušrinė Trapinskienė
-(2009-03-24)
+(2009-04-27)
                  
 autrap@lrs.lt
 
