@@ -1386,8 +1386,8 @@ darbo apmokėjimo
                                                                                                 priedėlis
 
  
-I.
-VALSTYBĖS POLITIKŲ PAREIGINĖS ALGOS
+I. VALSTYBĖS
+POLITIKŲ PAREIGINĖS ALGOS
 (Baziniais dydžiais)
 
 
@@ -1778,8 +1778,7 @@ Departamento vyriausiojo prokuroro
 1.6. 
 
 
-Skyriaus vyriausiojo prokuroro
-  pavaduotojas
+Skyriaus vyriausiojo prokuroro pavaduotojas
 
 
 14,1
@@ -2478,12 +2477,12 @@ Nr. IX-1918,
 Nr. X-128, 2005-02-15,
 Žin., 2005, Nr. 28-877 (2005-02-26)
 Nr.
-X-789, 2006-07-19,
-Žin., 2006, Nr. 87-3400 (2006-08-08)
+X-789,
+2006-07-19, Žin., 2006, Nr. 87-3400 (2006-08-08)
 Nr. X-1253,
 2007-07-03, Žin., 2007, Nr. 80-3223 (2007-07-19)
-Nr. X-1385, 2007-12-18,
-Žin., 2007, Nr. 140-5757 (2007-12-29)
+Nr. X-1385,
+2007-12-18, Žin., 2007, Nr. 140-5757 (2007-12-29)
 Nr. X-1688,
 2008-07-03, Žin., 2008, Nr. 81-3188 (2008-07-17)
 Nr.
@@ -2492,8 +2491,8 @@ X-1773,
 Nr.
 X-1816,
 2008-11-13, Žin., 2008, Nr. 135-5245 (2008-11-25)
-Nr. XI-157,
-2009-01-20, Žin., 2009, Nr. 11-398 (2009-01-29)\
+Nr. XI-157, 2009-01-20,
+Žin., 2009, Nr. 11-398 (2009-01-29)\
 Nr. XI-224,
 2009-04-23, Žin., 2009, Nr. 49-1935 (2009-04-30)
 ________________
@@ -2646,8 +2645,8 @@ STRAIPSNIŲ IR ĮSTATYMO PRIEDĖLIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1738,
-2003-09-18, Žin., 2003, Nr. 94-4247 (2003-10-08)
+IX-1738, 2003-09-18,
+Žin., 2003, Nr. 94-4247 (2003-10-08)
 VALSTYBĖS
 POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO
 PAPILDYMO ĮSTATYMAS
@@ -2772,17 +2771,7 @@ VALSTYBĖS
 POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO I SKIRSNIO
 PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2009 m. vasario 1 d.
-Šis įstatymas galioja iki 2009 m. gruodžio 31 d.
-Šis įstatymas neteko galios nuo 2009 m. gegužės 1 d.:
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr. XI-225,
-2009-04-23, Žin., 2009, Nr. 49-1936 (2009-04-30)
-VALSTYBĖS
-POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO I SKIRSNIO
-PAKEITIMO ĮSTATYMO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
-Šis
-įstatymas įsigalioja 2009 m. gegužės 1 d.
+Šis įstatymas galioja iki 2009 m. gruodžio 31 d
  
 27.
 Lietuvos
