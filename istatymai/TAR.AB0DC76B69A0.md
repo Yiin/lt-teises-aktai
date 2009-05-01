@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS TEISĖJŲ ATLYGINIMŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2008-12-30 iki 2009-04-30
+Suvestinė redakcija nuo 2009-05-01 iki 2009-07-31
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 131-5022, i. k. 1081010ISTA00X-1771
  
@@ -172,15 +172,127 @@ RESPUBLIKOS PREZIDENTAS                             
 
 
 
- 
+Lietuvos Respublikos 
+teisėjų atlyginimų įstatymo 
+priedėlis
  
+I. LIETUVOS RESPUBLIKOS KONSTITUCINIO TEISMO TEISĖJŲ ATLYGINIMAI
  
-Lietuvos Respublikos
-2008 m. lapkričio 6 d. 
-įstatymo Nr. X-1771 priedėlis
+(Baziniais dydžiais)
  
 
 
+
+ Eil. Nr. 
+ Pareigybės 
+ Atlyginimo koeficientas 
+
+
+ 1. 
+ Lietuvos Respublikos Konstitucinio Teismo pirmininkas (ar jį pavaduojantis teisėjas) 
+ 22,7 
+
+
+ 2. 
+ Lietuvos Respublikos Konstitucinio Teismo teisėjas 
+ 20,6 
+
+
+
+ 
+II. BENDROSIOS KOMPETENCIJOS IR SPECIALIZUOTŲ TEISMŲ TEISĖJŲ PAREIGINĖS ALGOS
+ 
+(Baziniais dydžiais)
+ 
+
+
+
+ Eil. Nr. 
+ Įstaigos pavadinimas 
+ Pareiginės algos koeficientas 
+
+
+ pirmininko ar jį pavaduojančiojo (kai nėra etatinio pavaduotojo) 
+ pirmininko pavaduotojo 
+ skyriaus pirmininko 
+ teisėjo 
+
+
+
+
+ 1. 
+ Lietuvos Aukščiausiasis Teismas 
+ 19,1 
+ – 
+ 17,78 
+ 16,9 
+
+
+ 2. 
+ Lietuvos vyriausiasis administracinis teismas 
+ 18,39 
+ 17,34 
+ – 
+ 16,46 
+
+
+ 3. 
+ Lietuvos apeliacinis teismas 
+ 17,78 
+ – 
+ 16,9 
+ 16,02 
+
+
+ 4. 
+ Apygardų teismai 
+ 16,9 
+ – 
+ 16,02 
+ 15,14 
+
+
+ 5. 
+ Apygardų administraciniai teismai 
+ 16,9 
+ 16,02 
+ – 
+ 15,14 
+
+
+ 6. 
+ Apylinkių teismai: 
+   
+   
+   
+   
+
+
+ 6.1. 
+ kuriuose dirba 15 ir daugiau teisėjų 
+ 15,58 
+ 14,08 
+ – 
+ 12,5 
+
+
+ 6.2. 
+ kuriuose dirba 14 ir mažiau teisėjų 
+ 14,7 
+ 13,46 
+ – 
+ 12,5 
+
+
+
+ 
+Priedėlio redakcija nuo 2011-01-01:
+
+
+Lietuvos Respublikos 
+teisėjų atlyginimų įstatymo 
+priedėlis
+ 
 I. LIETUVOS RESPUBLIKOS KONSTITUCINIO TEISMO TEISĖJŲ ATLYGINIMAI
  
 (Baziniais dydžiais)
@@ -205,10 +317,6 @@ I. LIETUVOS RESPUBLIKOS KONSTITUCINIO TEISMO TEISĖJŲ ATLYGINIMAI
 
 
  
-
-
-
-
 II. BENDROSIOS KOMPETENCIJOS IR SPECIALIZUOTŲ TEISMŲ TEISĖJŲ PAREIGINĖS ALGOS
  
 (Baziniais dydžiais)
@@ -225,6 +333,8 @@ II. BENDROSIOS KOMPETENCIJOS IR SPECIALIZUOTŲ TEISMŲ TEISĖJŲ PAREIGINĖS ALG
  pirmininko pavaduotojo 
  skyriaus pirmininko 
  teisėjo 
+
+
 
 
  1. 
@@ -295,13 +405,9 @@ II. BENDROSIOS KOMPETENCIJOS IR SPECIALIZUOTŲ TEISMŲ TEISĖJŲ PAREIGINĖS ALG
  
 
 
-
-
-_________________
+Priedo pakeitimai:
+Nr. XI-235, 2009-04-28, Žin., 2009, Nr. 49-1940 (2009-04-30), i. k. 1091010ISTA00XI-235
  
- 
-
-
  
  
 Pakeitimai:
@@ -310,3 +416,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-83, 2008-12-19, Žin., 2008, Nr. 149-6009 (2008-12-30), i. k. 1081010ISTA000XI-83
 Lietuvos Respublikos teisėjų atlyginimų įstatymo 3 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-235, 2009-04-28, Žin., 2009, Nr. 49-1940 (2009-04-30), i. k. 1091010ISTA00XI-235
+Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymas
