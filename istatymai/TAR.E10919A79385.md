@@ -22,13 +22,8 @@ VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO 2009 METŲ RODIKLIŲ PATVIRTINIM
  
 2008 m. gruodžio 18 d. Nr. XI-70
 Vilnius
-
-
-
-
- 
-1 straipsnis. Valstybinio socialinio draudimo fondo biudžeto 2009 metų
-pajamos, išlaidos ir planuojamas metų rezultatas
+1 straipsnis. Valstybinio socialinio draudimo fondo
+biudžeto 2009 metų pajamos, išlaidos ir planuojamas metų rezultatas
 Patvirtinti
 Lietuvos Respublikos valstybinio socialinio draudimo fondo 2009 metų biudžetą –
 14 055 947 tūkst. litų pajamų, 14 055 623 tūkst. litų išlaidų (planuojamas metų
@@ -133,7 +128,7 @@ sumų, neviršijančių Lietuvos Respublikos Vyriausybės patvirtintų einamųj�
 draudžiamųjų pajamų dydžio.
 11. Patvirtinti apdraustųjų asmenų,
 dalyvaujančių pensijų kaupime, valstybinio pensijų socialinio draudimo įmokos
-dalies, pervedamos pensijų kaupimo bendrovėms, 3 procentų dydžio tarifą.
+dalies, pervedamos pensijų kaupimo bendrovėms, nuo 2009 m. sausio 1 d. iki 2009 m. birželio 30 d. – 3 procentų dydžio tarifą, nuo 2009 m. liepos 1 d. iki 2009 m. gruodžio 31 d. – 2 procentų dydžio tarifą.
 12. Patvirtinti valstybinio pensijų
 socialinio draudimo įmokos tarifo dalį, skirtą valstybinės socialinio draudimo
 senatvės pensijos  papildomai daliai,  – 9,3 procento. 
@@ -141,6 +136,9 @@ Straipsnio
 pakeitimas:
 Nr. XI-172,
 2009-02-17, Žin., 2009, Nr. 25-974 (2009-03-05)
+Nr.
+XI-231,
+2009-04-28, Žin., 2009, Nr. 54-2133 (2009-05-12)
  
 4 straipsnis. Valstybinio socialinio draudimo įmokų,
 pervedamų į pensijų kaupiamuosius fondus, kompensavimas
@@ -221,9 +219,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 ADAMKUS
 
 
-
-
- 
 
 
                                                                                                 Lietuvos
@@ -433,7 +428,7 @@ tūkst. Lt
   Lėšos, pervedamos į pensijų fondus
 
 
-661 300
+495 700
 
 
 
@@ -442,7 +437,7 @@ tūkst. Lt
   Neatgautinos ir abejotinai atgautinos sumos
 
 
-39 000
+204 600
 
 
 
@@ -465,8 +460,14 @@ tūkst. Lt
 
 
  
+Priedėlio
+pakeitimai:
+Nr.
+XI-231,
+2009-04-28, Žin., 2009, Nr. 54-2133 (2009-05-12)
 
 
+ 
  
                                                                                                 Lietuvos
 Respublikos
@@ -476,9 +477,8 @@ Nr. XI-70
                                                                                     2
 priedėlis
  
-LIETUVOS
-RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO 2009 METŲ PINIGŲ
-SRAUTAI
+LIETUVOS RESPUBLIKOS
+VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO 2009 METŲ PINIGŲ SRAUTAI
  
 
 
@@ -503,7 +503,7 @@ tūkst. Lt
   1. Įprastinė veikla
 
 
-564 314
+445 314
 
 
 
@@ -512,7 +512,7 @@ tūkst. Lt
   1.1. Fondo įprastinė veikla
 
 
-564 314
+445 314
 
 
 
@@ -580,7 +580,7 @@ tūkst. Lt
 
 
 
-   1.1.1.7.
+   1.1.1.7.
   Veiklos pajamos ir iš įtraukto į Fondo biudžeto apskaitą turto gaunamos
   pajamų įplaukos
 
@@ -594,7 +594,7 @@ tūkst. Lt
   1.1.2. Pinigų išlaidos
 
 
-14 266 523
+14 147 523
 
 
 
@@ -657,7 +657,7 @@ tūkst. Lt
   1.1.2.6. Lėšos, pervedamos į  pensijų fondus
 
 
-784 000
+665 000
 
 
 
@@ -698,8 +698,8 @@ tūkst. Lt
 
 
 
- 
-   1.3. Europos Sąjungos finansinės paramos lėšos
+  
+  1.3. Europos Sąjungos finansinės paramos lėšos
 
 
 0
@@ -759,8 +759,8 @@ tūkst. Lt
 
 
 
-   2.5.
-  Išlaidos akcijoms, obligacijoms, kitiems vertybiniams popieriams įsigyti
+   2.5. Išlaidos
+  akcijoms, obligacijoms, kitiems vertybiniams popieriams įsigyti
 
 
 0
@@ -781,7 +781,7 @@ tūkst. Lt
   3. Finansinė veikla
 
 
-729 000
+610 000
 
 
 
@@ -790,7 +790,7 @@ tūkst. Lt
   3.1. Gautos trumpalaikės paskolos
 
 
-  729 000
+610 000
 
 
 
@@ -920,10 +920,13 @@ tūkst. Lt
 
 
 
-
-
-
-
+ 
+Priedėlio
+pakeitimai:
+Nr.
+XI-231,
+2009-04-28, Žin., 2009, Nr. 54-2133 (2009-05-12)
+ 
 ________________
  
 Pakeitimai:
@@ -939,9 +942,20 @@ SOCIALINIO DRAUDIMO FONDO BIUDŽETO 2009 METŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO 
 Šio įstatymo
 nuostatos taikomos nuo 2009 m. sausio 1 d.
  
-*** Pabaiga ***
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-231,
+2009-04-28, Žin., 2009, Nr. 54-2133 (2009-05-12)
+VALSTYBINIO
+SOCIALINIO DRAUDIMO FONDO BIUDŽETO 2009 METŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO 3
+STRAIPSNIO BEI 1 IR 2 PRIEDĖLIŲ PAKEITIMO ĮSTATYMAS
+ 
+***
+Pabaiga ***
  
  
-Redagavo Aušrinė
-Trapinskienė (2009-03-09)
-                  autrap@lrs.lt
+Redagavo
+Aušra Bodin (2009-05-12)
+                 
+ aubodi@lrs.lt
