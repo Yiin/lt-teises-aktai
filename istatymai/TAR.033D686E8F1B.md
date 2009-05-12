@@ -260,42 +260,12 @@ Nr. X-576, 2006-04-25,
 Nr. X-1612,
 2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
  
-6 straipsnio redakcija iki 2009 m. sausio 1 d.:
+[6 straipsnio redakcija iki 2009-06-01]
 6
 straipsnis. Važiavimo išlaidų kompensavimas mokiniams, vaikų globos įstaigų
-gyventojams, mokytojams ir gydytojams 
-Savivaldybės,
-kurių teritorijoje yra švietimo ir sveikatos priežiūros įstaigos, savo
-nustatyta tvarka kompensuoja visas važiavimo išlaidas:
-1) kaimuose ir miesteliuose gyvenantiems
-bendrojo lavinimo mokyklų, profesinio mokymo įstaigų ir neformaliojo vaikų
-švietimo įstaigų mokiniams, šių mokyklų ar įstaigų darbo dienomis važiavusiems
-į mokyklą ar įstaigą iki 40 km ir atgal mokinio pažymėjime nurodytu maršrutu
-vietinio (priemiestinio) reguliaraus susisiekimo autobusais, tolimojo
-reguliaraus susisiekimo autobusais, keleiviniais traukiniais bei reguliaraus
-susisiekimo laivais ir keltais; neformaliojo vaikų švietimo įstaigų mokiniams
-ši lengvata taikoma ir ne darbo dienomis;
-2)
-vaikų globos namuose, specialiuosiuose
-vaikų globos ir auklėjimo namuose gyvenantiems našlaičiams ir likusiems be tėvų
-globos vaikams, internatinių bei kitų bendrojo lavinimo mokyklų ir profesinio
-mokymo įstaigų bendrabučiuose gyvenantiems mokiniams, važiavusiems mokinio
-pažymėjime nurodytu maršrutu vietinio (priemiestinio) reguliaraus susisiekimo
-autobusais, tolimojo reguliaraus susisiekimo autobusais,
-keleiviniais traukiniais bei reguliaraus susisiekimo laivais ir keltais;
-3) kaimuose ir
-miesteliuose esančių bendrojo lavinimo mokyklų, profesinio mokymo įstaigų ir
-neformaliojo vaikų ir suaugusiųjų švietimo įstaigų mokytojams, kaimuose ir
-miesteliuose esančių sveikatos priežiūros įstaigų gydytojams, jų darbo šiose
-mokyklose ar įstaigose dienomis važiavusiems į darbą iki 40 km ir atgal vietinio (priemiestinio) reguliaraus susisiekimo autobusais, tolimojo reguliaraus
-susisiekimo autobusais, keleiviniais traukiniais bei reguliaraus susisiekimo
-laivais ir keltais.
-6 straipsnio redakcija nuo 2009 m. sausio 1 d.:
-6 straipsnis. Važiavimo išlaidų kompensavimas
-mokiniams, vaikų globos įstaigų gyventojams, mokytojams, gydytojams ir
-slaugytojams, socialiniams darbuotojams ir jų padėjėjams, socialiniams
-pedagogams ir jų padėjėjams, auklėtojams ir jų padėjėjams, kultūros ir meno
-darbuotojams
+gyventojams, mokytojams, gydytojams ir slaugytojams, socialiniams darbuotojams
+ir jų padėjėjams, socialiniams pedagogams ir jų padėjėjams, auklėtojams ir jų
+padėjėjams, kultūros ir meno darbuotojams
 1. Savivaldybės,
 kurių teritorijoje yra švietimo, sveikatos priežiūros, socialinių paslaugų,
 kultūros ir meno įstaigos, savo nustatyta tvarka kompensuoja visas važiavimo
@@ -348,6 +318,34 @@ yra lygus kompensacijų, kurios būtų pagal šio straipsnio 1 dalies 3–5 punk
 išmokėtos jiems vykstant į darbą ir atgal vietinio (priemiestinio) reguliaraus
 susisiekimo autobusais, tolimojo reguliaraus susisiekimo autobusais,
 keleiviniais traukiniais, reguliaraus susisiekimo laivais ir keltais, dydžiui.
+[6 straipsnio redakcija nuo 2009-06-01]
+6
+straipsnis.
+Važiavimo išlaidų kompensavimas mokiniams ir vaikų globos įstaigų
+gyventojams bei kitais atvejais
+1. Savivaldybės, kurių teritorijoje yra
+švietimo ir vaikų globos įstaigos, savo nustatyta tvarka kompensuoja visas
+važiavimo išlaidas:
+1) kaimuose ir miesteliuose gyvenantiems
+bendrojo lavinimo mokyklų, profesinio mokymo įstaigų ir neformaliojo vaikų
+švietimo įstaigų mokiniams, šių mokyklų ar įstaigų darbo dienomis važiuojantiems
+į mokyklą ar įstaigą iki 40 km ir atgal mokinio pažymėjime nurodytu maršrutu
+vietinio (priemiestinio) reguliaraus susisiekimo autobusais, tolimojo
+reguliaraus susisiekimo autobusais, keleiviniais traukiniais, reguliaraus
+susisiekimo laivais ir keltais; neformaliojo vaikų švietimo įstaigų mokiniams
+ši lengvata taikoma ir ne darbo dienomis;
+2) vaikų globos įstaigose, vaikų
+socializacijos centruose, bendrojo lavinimo mokyklų ir profesinio mokymo
+įstaigų bendrabučiuose gyvenantiems mokiniams, važiuojantiems mokinio
+pažymėjime nurodytu maršrutu vietinio (priemiestinio) reguliaraus susisiekimo
+autobusais, tolimojo reguliaraus susisiekimo autobusais, keleiviniais
+traukiniais, reguliaraus susisiekimo laivais ir keltais;
+3) vaikų globos namuose gyvenantiems mokiniams,
+važiuojantiems mokinio pažymėjime nurodytu maršrutu vietinio (miesto)
+reguliaraus susisiekimo autobusais ir troleibusais.
+2. Savivaldybių
+tarybos savo nustatyta tvarka gali kompensuoti važiavimo išlaidas ir kitais
+atvejais.
 Straipsnio pakeitimai:
 Nr.
 IX-2581,
@@ -356,6 +354,9 @@ Nr. X-1312,
 2007-11-06, Žin., 2007, Nr. 120-4879 (2007-11-22)
 Nr. X-1612,
 2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
+Nr.
+XI-241,
+2009-04-28, Žin., 2009, Nr. 54-2139 (2009-05-12)
  
 7
 straipsnis. Teisė į transporto išlaidų kompensaciją
@@ -407,8 +408,8 @@ straipsnis. Vežėjų išlaidų kompensavimo (negautų pajamų atlyginimo) tvark
 šaltiniai
 Vežėjų
 išlaidos (negautos pajamos), susijusios su lengvatų taikymu, kompensuojamos
-(atlyginamos) pagal su jais sudarytas sutartis iš valstybės ir savivaldybių
-biudžetų Vyriausybės nustatyta tvarka:
+(atlyginamos) pagal su jais sudarytas sutartis iš valstybės ir
+savivaldybių biudžetų Vyriausybės nustatyta tvarka:
 1)
 dėl važiavimo keleiviniais traukiniais lengvatų, nustatytų šio įstatymo 5
 straipsnio 1-5 ir 7 dalyse, –
@@ -478,6 +479,7 @@ Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS
 PREZIDENTAS                                                         VALDAS
 ADAMKUS
+ 
 _______________
  
 Pakeitimai:
@@ -494,8 +496,8 @@ LENGVATŲ ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-919, 2002-05-30,
-Žin., 2002, Nr. 62-2494 (2002-06-21)
+IX-919,
+2002-05-30, Žin., 2002, Nr. 62-2494 (2002-06-21)
 TRANSPORTO
 LENGVATŲ ĮSTATYMO 7 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis
@@ -568,18 +570,28 @@ LENGVATŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-1612,
-2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
+X-1612, 2008-06-17,
+Žin., 2008, Nr. 74-2862 (2008-06-30)
 TRANSPORTO
 LENGVATŲ ĮSTATYMO 1, 2, 3, 5, 6, 7, 8 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 ĮSTATYMAS
 Šis įstatymas, išskyrus 5 straipsnį, įsigalioja 2008 m. liepos 1 d. Šio įstatymo 5 straipsnis įsigalioja 2009 m. sausio 1 d.
  
+10.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-241,
+2009-04-28, Žin., 2009, Nr. 54-2139 (2009-05-12)
+TRANSPORTO
+LENGVATŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Įstatymas
+įsigalioja nuo 2009-06-01.
+ 
 ***
 Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2008-07-01)
+Redagavo
+Aušra Bodin (2009-05-12)
                  
-autrap@lrs.lt
+ aubodi@lrs.lt
