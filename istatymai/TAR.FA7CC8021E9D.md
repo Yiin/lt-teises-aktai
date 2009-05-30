@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FA7CC8021E9D"
 
 # Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymas
 
-Suvestinė redakcija nuo 2008-01-01 iki 2009-05-29
+Suvestinė redakcija nuo 2009-05-30 iki 2012-05-18
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 66-1609, i. k. 0971010ISTAVIII-342
  
@@ -271,27 +271,30 @@ d) kiti represuoti asmenys;
 
 
 
-2. Tremtiniams prilygintais asmenimis pripažįstami: 
+2. Tremtiniams prilygintais asmenimis pripažįstami:
 
 
-1) tremtinių šeimos nariai, kurie nebuvo įrašyti į tremiamųjų sąrašus, atvykę ir nuolat gyvenę pas savo šeimos narius (tėvus, globėjus, vaikus ar sutuoktinius), kuriems tuo metu buvo taikomos specialios įskaitos (komendantūros) sąlygos arba buvo apribota gyvenamosios vietos pasirinkimo teisė (uždrausta grįžti ir gyventi Lietuvoje); 
-
-
-
-
-2) asmenys, įrašyti į tremiamųjų sąrašus ir trėmimo metu pabėgę, pasislėpę arba kitaip išvengę trėmimo, jeigu jie trėmimo metu buvo nepilnamečiai arba pilnamečiai, tačiau toliau negalėjo legaliai gyventi savo ankstesnėje nuolatinėje gyvenamojoje vietoje, taip pat įkalintų, ištremtų ar įrašytų į tremiamųjų sąrašus asmenų nepilnamečiai vaikai, likę be tėvų globos. Įrašymo į tremiamųjų sąrašus sąlyga nebūtina nepilnamečiams vaikams, išvengusiems tremties, jei abu tėvai buvo įkalinti, ištremti arba vienas įkalintas, o kitas ištremtas ar įrašytas į tremiamųjų sąrašus;
+1) tremtinių šeimos nariai, kurie nebuvo įrašyti į tremiamųjų sąrašus, atvykę ir nuolat gyvenę pas savo šeimos narius (tėvus, įtėvius, globėjus, vaikus, įvaikius ar sutuoktinius), kuriems tuo metu buvo taikomos specialios įskaitos (komendantūros) sąlygos arba buvo apribota gyvenamosios vietos pasirinkimo teisė (uždrausta grįžti ir gyventi Lietuvoje);
 
 
 
 
-3) tėvų įkalinimo metu buvę nepilnamečiai politinių kalinių vaikai, jeigu bent vienas iš tėvų buvo įkalintas ir šeima tuo metu negalėjo legaliai gyventi ankstesnėje nuolatinėje gyvenamojoje vietoje;
+2) asmenys, įrašyti į tremiamųjų sąrašus ir trėmimo metu pabėgę, pasislėpę arba kitaip išvengę trėmimo, jeigu jie trėmimo metu buvo nepilnamečiai arba pilnamečiai, tačiau toliau negalėjo legaliai gyventi savo ankstesnėje nuolatinėje gyvenamojoje vietoje, taip pat įkalintų, ištremtų ar įrašytų į tremiamųjų sąrašus asmenų nepilnamečiai vaikai. Įrašymo į tremiamųjų sąrašus sąlyga nebūtina nepilnamečiams vaikams, išvengusiems tremties, jei abu tėvai (įtėviai) buvo įkalinti, ištremti arba vienas įkalintas, o kitas ištremtas ar įrašytas į tremiamųjų sąrašus arba turėtas vienintelis iš tėvų (įtėvių) buvo įkalintas, ištremtas ar įrašytas į tremiamųjų sąrašus;
 
 
 
 
-4) asmenys, okupacinių režimų institucijų arba teismų sprendimais dėl politinių ar kilmės motyvų priversti išsikelti arba prievarta iškeldinti iš nuolatinės gyvenamosios vietos (ištremti), arba prievarta apgyvendinti nurodytoje vietoje (nutremti), pritaikius specialios įskaitos (komendantūros) sąlygas arba apribojus gyvenamosios vietos pasirinkimo teisę (uždrausta grįžti ir gyventi Lietuvoje), jeigu šiuo metu jie yra Lietuvos Respublikos piliečiai. 
+3) bent vieno iš tėvų (įtėvių) įkalinimo metu buvę nepilnamečiai politinių kalinių vaikai (įvaikiai) ir politinių kalinių sutuoktiniai, jeigu šeima tuo metu negalėjo legaliai gyventi ankstesnėje nuolatinėje gyvenamojoje vietoje;
 
 
+
+
+4) asmenys, okupacinių režimų struktūrų arba teismų sprendimais dėl politinių ar kilmės motyvų priversti išsikelti arba prievarta iškeldinti iš nuolatinės gyvenamosios vietos (ištremti), arba prievarta apgyvendinti nurodytoje vietoje (nutremti), pritaikius specialios įskaitos (komendantūros) sąlygas arba apribojus gyvenamosios vietos pasirinkimo teisę, jeigu šiuo metu jie yra Lietuvos Respublikos piliečiai.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XI-260, 2009-05-14, Žin., 2009, Nr. 64-2546 (2009-05-30), i. k. 1091010ISTA00XI-260
+ 
 
 
 
@@ -364,7 +367,7 @@ d) kiti represuoti asmenys;
 7 straipsnis. Kiti nuo okupacijų nukentėję asmenys 
 
 
-1. Kitais nuo okupacijų nukentėjusiais asmenimis pripažįstami: 
+1. Kitais nuo okupacijų nukentėjusiais asmenimis pripažįstami:
 
 
 1) asmenys, nukentėję represinių ar baudžiamųjų akcijų metu, kurie dėl šių akcijų vykdytojų – okupacinės kariuomenės dalinių ar okupacinio režimo represinių struktūrų ginkluotų būrių veiksmų arba dėl slaptų pogrindžio ginkluotų ar neginkluotų struktūrų, veikusių prieš Lietuvos valstybingumą bei jos gyventojus ir kitų valstybių naudai, taip pat dėl karo veiksmų fronto metu ar dėl karo padarinių bei okupacinės valdžios ir represinių struktūrų vykdytų slaptų operacijų, baudžiamųjų akcijų ar partizaninio karo aplinkybių nulemtų veiksmų metu:
@@ -380,14 +383,14 @@ b) prarado kilnojamąjį ar nekilnojamąjį turtą;
 
 
 
-c) taip pat kurių tėvai (įtėviai), sutuoktinis ar vaikai (įvaikiai) – buvo nužudyti arba įkalinimo metu mirė; 
+c) taip pat kurių tėvai (įtėviai), sutuoktinis ar vaikai (įvaikiai) buvo nužudyti arba įkalinimo metu mirė;
 
 
 
 
 
 
-2) pasipriešinimo dalyvių, žuvusių kovos lauke, suėmimo ar trėmimo metu, nužudytų ar mirusių tardymo ar įkalinimo bei okupacinės valdžios ir represinių struktūrų vykdytų slaptų operacijų, baudžiamųjų akcijų ar partizaninio karo veiksmų metu, nuteistų mirties bausme (bausmė įvykdyta), tėvai (įtėviai), sutuoktiniai, vaikai (įvaikiai), žuvimo metu buvę nepilnamečiai broliai ir seserys; 
+2) pasipriešinimo dalyvių, žuvusių kovos lauke, suėmimo ar trėmimo metu, nužudytų ar mirusių tardymo ar įkalinimo bei okupacinės valdžios ir represinių struktūrų vykdytų slaptų operacijų, baudžiamųjų akcijų ar partizaninio karo veiksmų metu, nuteistų mirties bausme (bausmė įvykdyta), tėvai (įtėviai), sutuoktiniai, vaikai (įvaikiai), žuvimo metu buvę nepilnamečiai broliai ir seserys;
 
 
 
@@ -402,7 +405,7 @@ c) taip pat kurių tėvai (įtėviai), sutuoktinis ar vaikai (įvaikiai) – buv
 
 
 
-5) asmenys, kurie dėl diskriminacijos politiniais ar kilmės motyvais negalėjo mokytis ar buvo pašalinti iš mokymo įstaigų ir negalėjo įgyti mokslo cenzo vidurinėse ir aukštosiose mokyklose arba negalėjo gauti mokslo laipsnių, arba dėl šių motyvų negalėjo dirbti pagal turimą specialybę ar buvo atleisti iš pareigų; 
+5) asmenys, kurie dėl diskriminacijos politiniais ar kilmės motyvais negalėjo mokytis ar buvo pašalinti iš mokymo įstaigų ir negalėjo įgyti mokslo cenzo vidurinėse ir aukštosiose mokyklose arba negalėjo gauti mokslo laipsnių, arba dėl šių motyvų negalėjo dirbti pagal turimą specialybę ar buvo atleisti iš pareigų;
 
 
 
@@ -430,14 +433,14 @@ d) dirbę priverstiniuose darbuose Lietuvoje arba už jos ribų;
 
 
 
-e) vėliau pripažinti invalidais dėl ligų, susijusių su šio straipsnio 6 punkto a–d papunkčiuose nurodytais atvejais;
+e) vėliau pripažinti invalidais dėl ligų, susijusių su šio punkto a-d papunkčiuose nurodytais atvejais;
 
 
 
 
 
 
-7) asmenys, kurie dėl represijų ir persekiojimų grėsmės politiniais ar kilmės motyvais arba dėl vykdomų represinių ar baudžiamųjų akcijų buvo priversti pasitraukti iš savo nuolatinės gyvenamosios vietos ir iš Lietuvos, o vėliau dėl draudimo ar represijų bei persekiojimų grėsmės nebegalėjo grįžti;
+7) asmenys, kurie dėl represijų ir persekiojimų grėsmės politiniais ar kilmės motyvais arba dėl vykdomų represinių ar baudžiamųjų akcijų buvo priversti pasitraukti iš savo nuolatinės gyvenamosios vietos arba iš Lietuvos, o vėliau dėl draudimo ar represijų bei persekiojimų grėsmės nebegalėjo grįžti;
 
 
 
@@ -470,7 +473,7 @@ e) dėl prievartavimo dirbti okupacinių režimų struktūrų informatoriais arb
 
 
 
-f) šio straipsnio 1 dalies 8 punkto b ir c papunkčiuose išvardytų asmenų šeimų represavimo metu buvę nepilnamečiai nariai;
+f) šio punkto b ir c papunkčiuose išvardytų asmenų šeimų represavimo metu buvę nepilnamečiai nariai;
 
 
 
@@ -480,7 +483,7 @@ g) paimti priverstiniams darbams, taip pat kartu su jais buvę nepilnamečiai �
 
 
 
-h) asmenys, nukentėję ar persekioti už okupacinių režimų persekiojamų nepilnamečių asmenų gelbėjimą ir globą;
+h) nukentėję ar persekioti už okupacinių režimų persekiojamų nepilnamečių asmenų gelbėjimą ir globą;
 
 
 
@@ -490,11 +493,14 @@ i) kurie būtinosios karinės tarnybos ar karinių mokymų sovietinėje armijoje
 
 
 
-j) asmenys, kurie dalyvavo likviduojant Černobylio atominės elektrinės avarijos padarinius ir statant Slavutičiaus miestą Ukrainoje.
+j) kurie dalyvavo likviduojant Černobylio atominės elektrinės avarijos padarinius ir statant Slavutičiaus miestą Ukrainoje.
 
 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XI-260, 2009-05-14, Žin., 2009, Nr. 64-2546 (2009-05-30), i. k. 1091010ISTA00XI-260
+ 
 
 
 
@@ -518,12 +524,12 @@ j) asmenys, kurie dalyvavo likviduojant Černobylio atominės elektrinės avarij
 
 
 
-2) pasipriešinimo 1940–1990 metų okupacijoms dalyvių likę be tėvų globos nepilnamečiai vaikai (įvaikiai), jeigu jų abu tėvai tuo metu priklausė ginkluoto pasipriešinimo struktūroms ir gyveno nelegaliai, taip pat jeigu vienas jų tėvų (įtėvių) buvo miręs, žuvęs, dingęs be žinios, kalėjo ar buvo ištremtas, o kitas priklausė ginkluoto pasipriešinimo struktūroms ir gyveno nelegaliai;
+2) pasipriešinimo 1940–1990 metų okupacijoms dalyvių likę be tėvų (įtėvių) globos nepilnamečiai vaikai (įvaikiai), jeigu jų abu tėvai (įtėviai) arba turėtas vienintelis iš tėvų (įtėvių) tuo metu priklausė ginkluoto pasipriešinimo struktūroms ir gyveno nelegaliai, taip pat jeigu vienas iš tėvų (įtėvių) buvo miręs, žuvęs, dingęs be žinios, kalėjo ar buvo ištremtas, o kitas priklausė ginkluoto pasipriešinimo struktūroms ir gyveno nelegaliai;
 
 
 
 
-3) politinių kalinių vaikai (įvaikiai), jeigu jie abiejų tėvų kalinimo metu (taip pat jeigu vienas tėvų (įtėvių) buvo miręs, dingęs be žinios ar ištremtas, o kitas kalėjo) buvo nepilnamečiai;
+3) politinių kalinių vaikai (įvaikiai), jeigu jie abiejų tėvų (įtėvių) arba turėto vienintelio iš tėvų (įtėvių) kalinimo metu (taip pat jeigu vienas iš tėvų (įtėvių) buvo miręs, dingęs be žinios ar ištremtas, o kitas kalėjo) buvo nepilnamečiai;
 
 
 
@@ -533,9 +539,17 @@ j) asmenys, kurie dalyvavo likviduojant Černobylio atominės elektrinės avarij
 
 
 
-5) nepilnamečiai vaikai, kurių abu tėvai (įtėviai) buvo nužudyti represinių, baudžiamųjų akcijų ar okupacinės valdžios ir represinių struktūrų vykdytų slaptų operacijų ar partizaninio karo aplinkybių nulemtų veiksmų metu arba įkalinimo metu mirė.
+5) nepilnamečiai vaikai, kurių abu tėvai (įtėviai) buvo nužudyti represinių, baudžiamųjų akcijų ar okupacinės valdžios ir represinių struktūrų vykdytų slaptų operacijų ar partizaninio karo aplinkybių nulemtų veiksmų metu arba įkalinimo metu mirė;
 
 
+
+
+6) paimtų priverstiniams darbams asmenų be tėvų globos likę vaikai (įvaikiai), jeigu jie abiejų tėvų buvimo priverstiniuose darbuose metu (taip pat jeigu vienas iš tėvų buvo miręs, dingęs be žinios ar kalėjo) buvo nepilnamečiai.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XI-260, 2009-05-14, Žin., 2009, Nr. 64-2546 (2009-05-30), i. k. 1091010ISTA00XI-260
+ 
 
 
 
@@ -592,7 +606,9 @@ j) asmenys, kurie dalyvavo likviduojant Černobylio atominės elektrinės avarij
 
 
 
-2. Asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinį statusą pripažįsta, pažymėjimus išduoda bei jų apskaitą tvarko Vyriausybės nustatyta tvarka Lietuvos gyventojų genocido ir rezistencijos tyrimo centras. Sprendimas dėl statuso pripažinimo turi būti priimtas ne vėliau kaip per 6 mėnesius nuo prašymo padavimo. Lietuvos gyventojų genocido ir rezistencijos tyrimo centro sprendimą dėl nukentėjusio asmens statuso pripažinimo ar nepripažinimo asmuo gali apskųsti administraciniam teismui per 30 dienų nuo pranešimo gavimo.
+2. Asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinį statusą pripažįsta, pažymėjimus išduoda ir jų apskaitą Vyriausybės nustatyta tvarka tvarko Lietuvos gyventojų genocido ir rezistencijos tyrimo centras. Sprendimas dėl statuso pripažinimo ar nepripažinimo turi būti priimtas ne vėliau kaip per 6 mėnesius nuo prašymo ir dokumentų padavimo. Lietuvos gyventojų genocido ir rezistencijos tyrimo centro sprendimą dėl nukentėjusio asmens statuso pripažinimo ar nepripažinimo asmuo gali apskųsti administraciniam teismui per 30 dienų nuo pranešimo gavimo.
+Straipsnio dalies pakeitimai:
+Nr. XI-260, 2009-05-14, Žin., 2009, Nr. 64-2546 (2009-05-30), i. k. 1091010ISTA00XI-260
  
 
 
@@ -629,3 +645,8 @@ Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, t
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1234, 2007-06-28, Žin., 2007, Nr. 81-3310 (2007-07-21), i. k. 1071010ISTA00X-1234
 Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-260, 2009-05-14, Žin., 2009, Nr. 64-2546 (2009-05-30), i. k. 1091010ISTA00XI-260
+Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo 5, 7, 7-1, 9 straipsnių pakeitimo ir papildymo įstatymas
