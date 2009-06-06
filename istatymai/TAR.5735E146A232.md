@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5735E146A232"
 
 # Lietuvos Respublikos juridinių asmenų registro įstatymas
 
+Suvestinė redakcija nuo 2009-06-06 iki 2010-11-26
+ 
+Įstatymas paskelbtas: Žin. 2001, Nr. 55-1940, i. k. 1011010ISTA00IX-368
+ 
+ 
 LIETUVOS RESPUBLIKOS
 JURIDINIŲ ASMENŲ REGISTRO
 Į S T A T Y M A S
@@ -107,7 +112,9 @@ Vilnius
 
 
 
-2. Juridinių asmenų registrą tvarko Teisingumo ministerija. 
+2. Juridinių asmenų registrą tvarko vadovaujančioji registro tvarkymo įstaiga – Teisingumo ministerija ir registro tvarkymo įstaiga – valstybės įmonė Registrų centras.
+Straipsnio dalies pakeitimai:
+Nr. XI-271, 2009-05-21, Žin., 2009, Nr. 67-2689 (2009-06-06), i. k. 1091010ISTA00XI-271
  
 
 
@@ -154,3 +161,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-271, 2009-05-21, Žin., 2009, Nr. 67-2689 (2009-06-06), i. k. 1091010ISTA00XI-271
+Lietuvos Respublikos juridinių asmenų registro įstatymo 3 straipsnio pakeitimo įstatymas
