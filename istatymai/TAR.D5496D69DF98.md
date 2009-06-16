@@ -811,11 +811,32 @@ turtas rinkos kaina parduodamas savivaldybės tarybos sprendimu.
 5. Valstybės ir savivaldybių turtas
 negali būti perduodamas kitiems juridiniams ar fiziniams asmenims ar kitaip
 susiejamas su turtu jungtinės veiklos sutarties pagrindu.
+6. Valstybės kilnojamasis ir
+nekilnojamasis materialusis turtas, įsigytas vykdant Lietuvos Respublikos
+įsipareigojimus, atsirandančius dėl Lietuvos Respublikos narystės Šiaurės
+Atlanto Sutarties Organizacijoje, Europos Sąjungoje, Jungtinių Tautų
+Organizacijoje, arba skirtas vykdyti iš tarptautinių sutarčių atsirandantiems
+įsipareigojimams, kolektyvinės gynybos operacijoms, karinėms operacijoms,
+tarptautinėms karinėms pratyboms ar karinio bendradarbiavimo renginiams,
+civilinėms misijoms, vystomojo bendradarbiavimo projektams arba humanitarinei
+pagalbai teikti, gali būti neatlygintinai perduodamas ar parduodamas
+tarptautinėms organizacijoms, kitų valstybių valstybinėms ar savivaldybių
+institucijoms, kitų valstybių viešiesiems juridiniams ar fiziniams asmenims,
+jei toks neatlygintinas perdavimas ar pardavimas atitinka Lietuvos Respublikos
+tarptautinius įsipareigojimus arba Seimo patvirtintą Nacionalinio saugumo
+strategiją. Sprendimą dėl šioje dalyje nurodyto turto neatlygintino perdavimo
+arba pardavimo priima Vyriausybė. Vyriausybės sprendime turi būti nurodyta
+valstybės institucija ar įstaiga, įgaliota sudaryti turto perdavimo arba
+pardavimo sandorį, perduodamas arba parduodamas turtas, jo naudojimo sąlygos ir
+tvarka bei už turto perdavimo kontrolę atsakinga institucija.
 Straipsnio pakeitimai:
 Nr. IX-1548, 2003-04-29, Žin., 2003, Nr. 47-2065 (2003-05-14)
 Nr.
 X-771,
 2006-07-18, Žin., 2006, Nr. 87-3397 (2006-08-08)
+Nr.
+XI-279,
+2009-06-02, Žin., 2009, Nr. 71-2891 (2009-06-16)
  
 18
 straipsnis. Neteko
@@ -873,14 +894,14 @@ kurios visuotiniame akcininkų susirinkime valstybei ar savivaldybei (-ėms) arb
 joms kartu suteikia daugiau kaip 50 procentų balsų.
 5. Valstybė gali investuoti turtą
 įsigydama investicinio fondo investicinių vienetų, jeigu:
-1) investicinio fondo investavimo strategija,
-investicijų apribojimai, specializacija geografinėje zonoje arba ūkio šakoje
-atitinka valstybės mažų ir vidutinių įmonių plėtros skatinimo politikos tikslus
-ir kryptis;
+1) investicinio fondo investavimo
+strategija, investicijų apribojimai, specializacija geografinėje zonoje arba
+ūkio šakoje atitinka valstybės mažų ir vidutinių įmonių plėtros skatinimo
+politikos tikslus ir kryptis;
 2) investicinis fondas yra uždaro tipo;
-3) investicinio fondo sudarymo dokumentuose
-įtvirtintos sąlygos, kad investuotojai  atstovauja savo interesams priimant
-sprendimus;
+3) investicinio fondo sudarymo
+dokumentuose įtvirtintos sąlygos, kad investuotojai  atstovauja savo interesams
+priimant sprendimus;
 4) investicinio fondo sudarymo
 dokumentuose nustatyta, kad, priimant investicinius sprendimus, kiekvienai
 investicijai parengiamas detalus investicinis pasiūlymas, kuriame pateikiama
@@ -933,8 +954,8 @@ bendrovėse, uždarosiose akcinėse bendrovėse ir kitos teisinės formos
 juridiniuose asmenyse įgyvendinamos Vyriausybės nustatyta tvarka.
 Įstatymas papildytas straipsniu:
 Nr.
-X-771, 2006-07-18,
-Žin., 2006, Nr. 87-3397 (2006-08-08)
+X-771,
+2006-07-18, Žin., 2006, Nr. 87-3397 (2006-08-08)
  
 20
 straipsnis. Valstybės ir savivaldybių turto įkeitimas
@@ -994,8 +1015,8 @@ Nematerialusis turtas, ilgalaikis ir trumpalaikis materialusis turtas
 pripažįstamas nereikalingu arba netinkamu (negalimu) naudoti, kai:
 1) jis fiziškai
 nusidėvi;
-2) jis
-funkciškai (technologiškai) nusidėvi;
+2) jis funkciškai
+(technologiškai) nusidėvi;
 3) jis
 Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka pripažįstamas
 avariniu;
@@ -1010,8 +1031,9 @@ naudoti dėl trečiųjų asmenų veikos materialiojo turto vertė perkeliama į
 finansinį turtą (gautinas lėšas);
 7) jis trukdo
 statyti naujus statinius arba rekonstruoti esamus statinius ar teritorijas. Ši
-nuostata taikoma tik nekilnojamiesiems daiktams, išskyrus nekilnojamąsias kultūros
-vertybes, nustatyta tvarka suderinus naujos statybos ar rekonstravimo projektą;
+nuostata taikoma tik nekilnojamiesiems daiktams, išskyrus nekilnojamąsias
+kultūros vertybes, nustatyta tvarka suderinus naujos statybos ar rekonstravimo
+projektą;
 8) jis
 nereikalingas valstybės ar savivaldybės funkcijoms įgyvendinti ir (ar) nelieka
 kur jį pritaikyti.
@@ -1055,10 +1077,10 @@ punkte nurodytą atvejį, galima šiais būdais:
 Įstatymo 13 straipsnyje nustatytais atvejais ir tvarka;
 3) investuojant šio Įstatymo 19
 straipsnyje nustatytais atvejais ir tvarka;
-4) parduodant viešuose prekių
-aukcionuose (išskyrus nekilnojamuosius daiktus bei Lietuvos Respublikos
-diplomatinių atstovybių, konsulinių įstaigų ir atstovybių prie tarptautinių
-organizacijų valdomą turtą) Vyriausybės nustatyta tvarka;
+4) parduodant viešuose prekių aukcionuose
+(išskyrus nekilnojamuosius daiktus bei Lietuvos Respublikos diplomatinių
+atstovybių, konsulinių įstaigų ir atstovybių prie tarptautinių organizacijų
+valdomą turtą) Vyriausybės nustatyta tvarka;
 5) nekilnojamuosius daiktus parduodant
 pagal Valstybės ir savivaldybių turto privatizavimo įstatymą;
 6) parduodant Lietuvos Respublikos
@@ -1066,7 +1088,10 @@ diplomatinių atstovybių, konsulinių įstaigų ir atstovybių prie tarptautini
 organizacijų valdomą turtą (išskyrus nekilnojamuosius daiktus) Vyriausybės
 nustatyta tvarka;
 7) perduodant valstybės ar savivaldybių
-nuosavybėn šio Įstatymo 6 ir 17 straipsniuose nustatytais atvejais ir tvarka;
+nuosavybėn šio Įstatymo 6 ir 17 straipsniuose nustatytais atvejais ir
+tvarka ar perduodant kitų šio Įstatymo 17 straipsnio 6 dalyje nurodytų subjektų
+nuosavybėn, jei tai atitinka Lietuvos Respublikos tarptautinius įsipareigojimus
+arba Seimo patvirtintą Nacionalinio saugumo strategiją;
 8) gyvūnus parduodant ar perleidžiant
 Vyriausybės ar savivaldybės tarybos nustatyta tvarka.
 2. Jeigu nereikalingo arba netinkamo
@@ -1112,13 +1137,16 @@ atskaičius jo saugojimo ir pardavimo išlaidas, gautos lėšos skiriamos:
 į valstybės ar savivaldybės įmonę, valdžiusią šį turtą;
 2) kai turtą
 valdo valstybės ar savivaldybių institucijos, įstaigos ir organizacijos, – 50
-procentų atitinkamai į valstybės ar savivaldybės biudžetą ir 50 procentų institucijoms,
-įstaigoms ir organizacijoms.
+procentų atitinkamai į valstybės ar savivaldybės biudžetą ir 50 procentų
+institucijoms, įstaigoms ir organizacijoms.
 Straipsnio
 pakeitimai:
 Nr.
 X-771,
 2006-07-18, Žin., 2006, Nr. 87-3397 (2006-08-08)
+Nr.
+XI-279,
+2009-06-02, Žin., 2009, Nr. 71-2891 (2009-06-16)
  
 24 straipsnis. Nereikalingo arba netinkamo
 (negalimo) naudoti valstybės ir savivaldybių 
@@ -1302,8 +1330,8 @@ IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 3, 4, 6,
 161, 191 STRAIPSNIAIS ĮSTATYMAS
 Valstybės
 ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 15
-straipsnio 5 dalies pakeitimas įsigalioja nuo 2008 m. sausio 1 d.; įstatymo papildymas 161 straipsniu įsigalioja nuo
- 2007 m. sausio 1 d.
+straipsnio 5 dalies pakeitimas įsigalioja nuo 2008 m. sausio 1 d.; įstatymo papildymas 161 straipsniu įsigalioja
+nuo 2007 m. sausio 1 d.
  
 15.
 Lietuvos
@@ -1338,6 +1366,15 @@ VALSTYBĖS
 IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 16(1)
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+19.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-279,
+2009-06-02, Žin., 2009, Nr. 71-2891 (2009-06-16)
+VALSTYBĖS
+IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 17, 23
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
@@ -1348,15 +1385,16 @@ Lietuvos
 Respublikos Konstitucinis Teismas, Nutarimas
 2009-03-02,
 Žin., 2009, Nr. 25-988 (2009-03-05)
-DĖL LIETUVOS
-RESPUBLIKOS ATOMINĖS ELEKTRINĖS ĮSTATYMO 10 STRAIPSNIO 1 DALIES (2008 M.
-VASARIO 1 D. REDAKCIJA) NUOSTATŲ IR 11 STRAIPSNIO (2008 M. VASARIO 1 D.
+DĖL
+LIETUVOS RESPUBLIKOS ATOMINĖS ELEKTRINĖS ĮSTATYMO 10 STRAIPSNIO 1 DALIES (2008
+M. VASARIO 1 D. REDAKCIJA) NUOSTATŲ IR 11 STRAIPSNIO (2008 M. VASARIO 1 D.
 REDAKCIJA) 1 DALIES 1 PUNKTO ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
-*** Pabaiga ***
+***
+Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė
-(2009-03-09)
+Redagavo
+Aušrinė Trapinskienė (2009-06-16)
                  
 autrap@lrs.lt
