@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FA13E28615F6"
 
 # Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymas
 
-Suvestinė redakcija nuo 2008-07-31 iki 2009-06-24
+Suvestinė redakcija nuo 2009-06-25 iki 2010-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 10-236, i. k. 1001010ISTAIII-1524
  
@@ -158,9 +158,10 @@ Nr. X-1716, 2008-07-15, Žin., 2008, Nr. 87-3473 (2008-07-31), i. k. 1081010ISTA
 
 
 
-10. Valstybės ir savivaldybių institucijos ir įstaigos (toliau – įstaigos) – atstovaujamosios, valstybės vadovo, vykdomosios, teisminės valdžios institucijos, teisėsaugos institucijos ir įstaigos, auditą, kontrolę (priežiūrą) atliekančios institucijos ir įstaigos, kitos valstybės ir savivaldybių institucijos ir įstaigos, kurios finansuojamos iš valstybės ar savivaldybių biudžetų bei valstybės pinigų fondų ir kurioms įstatymai suteikia viešojo administravimo įgaliojimus, įmonės ir įstaigos, teikiančios asmenims viešąsias paslaugas; taip pat valstybės ir savivaldybių įmonės, viešosios įstaigos, kurių savininkė arba bent viena iš dalininkių yra valstybė ar savivaldybė, akcinės bendrovės ir uždarosios akcinės bendrovės, kuriose valstybei arba savivaldybei priklauso daugiau kaip 50 procentų balsų visuotiniame akcininkų susirinkime, kai jos teikia informaciją apie savo darbuotojų darbo užmokestį šio įstatymo nustatyta tvarka.
+10. Valstybės ir savivaldybių institucijos ir įstaigos (toliau – įstaigos) – atstovaujamosios, valstybės vadovo, vykdomosios, teisminės valdžios institucijos, teisėsaugos institucijos ir įstaigos, auditą, kontrolę (priežiūrą) atliekančios institucijos ir įstaigos, kitos valstybės ir savivaldybių institucijos ir įstaigos, kurios finansuojamos iš valstybės ar savivaldybių biudžetų bei valstybės pinigų fondų ir kurioms Viešojo administravimo įstatymo nustatyta tvarka yra suteikti viešojo administravimo įgaliojimai, įmonės ir įstaigos, teikiančios asmenims viešąsias paslaugas; taip pat valstybės ir savivaldybių įmonės, viešosios įstaigos, kurių savininkė arba bent viena iš dalininkių yra valstybė ar savivaldybė, akcinės bendrovės ir uždarosios akcinės bendrovės, kuriose valstybei arba savivaldybei priklauso daugiau kaip 50 procentų balsų visuotiniame akcininkų susirinkime, kai jos teikia informaciją apie savo darbuotojų darbo užmokestį šio įstatymo nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. X-1716, 2008-07-15, Žin., 2008, Nr. 87-3473 (2008-07-31), i. k. 1081010ISTA00X-1716
+Nr. XI-285, 2009-06-11, Žin., 2009, Nr. 75-3064 (2009-06-25), i. k. 1091010ISTA00XI-285
  
 
 
@@ -629,3 +630,8 @@ Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1716, 2008-07-15, Žin., 2008, Nr. 87-3473 (2008-07-31), i. k. 1081010ISTA00X-1716
 Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo 1 ir 2 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-285, 2009-06-11, Žin., 2009, Nr. 75-3064 (2009-06-25), i. k. 1091010ISTA00XI-285
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo 2 straipsnio pakeitimo įstatymas
