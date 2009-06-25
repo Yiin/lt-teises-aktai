@@ -19,7 +19,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 Įstatymas
-paskelbtas: Žin., 1994, Nr. 58-1133
+skelbtas: Žin., 1994, Nr. 58-1133
 Neoficialus
 įstatymo tekstas
  
@@ -28,6 +28,14 @@ TARPTAUTINIŲ OPERACIJŲ, PRATYBŲ IR KITŲ
 KARINIO
 BENDRADARBIAVIMO RENGINIŲ
 Į S T A T Y M A S
+Įstatymo pavadinimas keistas:
+Nr.
+VIII-621,
+98.02.03, Žin., 1998, Nr.17-399 (98.02.19)
+Nr. VIII-1860, 00.07.17, Žin., 2000,
+Nr.64-1930 (00.07.31)
+Nr. IX-703,
+2002-01-15, Žin., 2002, Nr. 13-465 (2002-02-06)
  
 1994 m. liepos
 19 d. Nr. I-555
@@ -37,14 +45,6 @@ Nauja
 įstatymo redakcija:
 Nr. IX-703,
 2002-01-15, Žin., 2002, Nr. 13-465 (2002-02-06)
-Įstatymo pavadinimas keistas:
-Nr.
-VIII-621,
-98.02.03, Žin., 1998, Nr.17-399 (98.02.19)
-Nr. VIII-1860, 00.07.17, Žin., 2000,
-Nr.64-1930 (00.07.31)
-Nr. IX-703, 2002-01-15,
-Žin., 2002, Nr. 13-465 (2002-02-06)
  
 Lietuvos Respublikos Seimas,
 įgyvendindamas Lietuvos
@@ -80,8 +80,7 @@ priima šį
  
 I
 SKYRIUS
-BENDROSIOS
-NUOSTATOS
+BENDROSIOS NUOSTATOS
  
 1
 straipsnis. Įstatymo paskirtis
@@ -118,10 +117,10 @@ taip pat pasirengimas šiai operacijai.
 4. Kita karinė
 operacija (toliau – kita operacija) – bet kuri kita, nei
 kolektyvinės gynybos, tarptautinė operacija (taip pat pasirengimas šiai
-operacijai), atitinkanti Jungtinių Tautų tikslus ir principus, įskaitant šio
-straipsnio 3 dalyje nenurodytas kolektyvinės savigynos operacijas įgyvendinant
-Jungtinių Tautų Įstatų 51 straipsnyje pripažintą kiekvienos valstybės neatimamą
-teisę į individualią ir kolektyvinę savigyną.
+operacijai), atitinkanti Jungtinių Tautų tikslus ir principus, įskaitant šio straipsnio
+3 dalyje nenurodytas kolektyvinės savigynos operacijas įgyvendinant Jungtinių
+Tautų Įstatų 51 straipsnyje pripažintą kiekvienos valstybės neatimamą teisę į
+individualią ir kolektyvinę savigyną.
 5. Tarptautinės
 karinės pratybos (toliau – pratybos) – pasirengimo tarptautinėms
 operacijoms ir kitos kovinio parengimo pratybos, kuriose Lietuvos Respublikos
@@ -170,11 +169,12 @@ kariniai vienetai, kariai ir karinėms pajėgoms priskirti civiliai tarnautojai
 gali dalyvauti tarptautinėse operacijose, pratybose ir kituose renginiuose
 Lietuvos Respublikos teritorijoje tik tada, kai dėl to priimamas kompetentingos
 Lietuvos valstybės institucijos ar kompetentingo pareigūno sprendimas,
-grindžiamas Lietuvos Respublikos Konstitucijos, tarptautinių sutarčių ar
-susitarimų ir šio Įstatymo nuostatomis.
+grindžiamas Lietuvos Respublikos Konstitucijos, tarptautinių sutarčių ar susitarimų
+ir šio Įstatymo nuostatomis.
  
 II SKYRIUS
-TARPTAUTINĖS OPERACIJOS
+TARPTAUTINĖS
+OPERACIJOS
  
 4
 straipsnis. Lietuvos Respublikos karinių vienetų dalyvavimo tarptautinėse
@@ -200,19 +200,18 @@ Lietuvos Respublikos karinių vienetų sudarymo, finansavimo ir parengimo
 tarptautinėms operacijoms tvarką nustato Lietuvos Respublikos tarptautinės
 sutartys ar susitarimai dėl šių vienetų steigimo ir Lietuvos Respublikos
 Vyriausybė.
-4. Bendrų su
-užsienio valstybėmis karinių vienetų panaudojimo sąlygas ir jų operacinio
-vadovavimo bei valdymo tvarką, taip pat Lietuvos karių ir civilių krašto
-apsaugos sistemos tarnautojų skaičių šiuose vienetuose nustato Lietuvos
-Respublikos tarptautinės sutartys ar susitarimai dėl bendrų karinių vienetų
-steigimo.
-5. Atlikti tarnybą
-tarptautinių operacijų kariniame vienete įstatymų ir kitų teisės aktų
-nustatyta tvarka skiriami profesinės karo tarnybos kariai, kariai savanoriai,
-taip pat asmenys, atliekantys civilinę krašto apsaugos tarnybą. Pagrindinį
-karinį parengimą įgiję privalomosios karo tarnybos kariai tarptautinių
-operacijų kariniam vienetui gali būti priskirti jų mokymo ir rengimo
-tarptautinėms operacijoms tikslais.
+4. Bendrų su užsienio
+valstybėmis karinių vienetų panaudojimo sąlygas ir jų operacinio vadovavimo bei
+valdymo tvarką, taip pat Lietuvos karių ir civilių krašto apsaugos sistemos
+tarnautojų skaičių šiuose vienetuose nustato Lietuvos Respublikos tarptautinės
+sutartys ar susitarimai dėl bendrų karinių vienetų steigimo.
+5. Atlikti
+tarnybą tarptautinių operacijų kariniame vienete įstatymų ir kitų teisės
+aktų nustatyta tvarka skiriami profesinės karo tarnybos kariai, kariai
+savanoriai, taip pat asmenys, atliekantys civilinę krašto apsaugos tarnybą.
+Pagrindinį karinį parengimą įgiję privalomosios karo tarnybos kariai
+tarptautinių operacijų kariniam vienetui gali būti priskirti jų mokymo ir
+rengimo tarptautinėms operacijoms tikslais.
 6. Lietuvos
 karių ir civilių krašto apsaugos sistemos tarnautojų tarnybos tarptautinių
 operacijų kariniuose vienetuose sąlygas nustato Lietuvos Respublikos
@@ -228,12 +227,26 @@ sistemos tarnautojų ar jų šeimos narių saugumui, siunčiamų atlikti tarnyb�
 tarptautinėje operacijoje Lietuvos karių ir civilių krašto apsaugos sistemos
 tarnautojų asmens tapatybė gali būti užšifruojama Vyriausybės ar jos įgaliotos
 institucijos nustatyta tvarka.
+4
+straipsnis papildomas 4 dalimi nuo 2009 m. liepos 1 d.:
+9. Lietuvos
+Respublikos karinių vienetų, dalyvaujančių tarptautinėse operacijose užsienyje,
+užduotims atlikti gali būti pasitelkti kalbos, religijos ar socialinio gyvenimo
+žinovai. Tokių asmenų paslaugų teikimo, atlyginimo už jas, jų aprūpinimo ir
+sutarties su jais sąlygas nustato Lietuvos Respublikos Vyriausybė. Vyriausybės
+nustatyta tvarka tokiems asmenims gali būti taikomos su užduočių padedant
+Lietuvos Respublikos kariniams vienetams atlikimu susijusios socialinės
+garantijos, kurios negali būti didesnės negu nurodytos Lietuvos Respublikos
+krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 77²
+straipsnyje. 
 Straipsnio
 pakeitimai:
 Nr. IX-1994,
 2004-01-29, Žin., 2004, Nr. 25-762 (2004-02-14)
 Nr. X-182, 2005-05-12,
 Žin., 2005, Nr. 66-2351 (2005-05-26)
+Nr. XI-288, 2009-06-11, Žin., 2009, Nr. 75-3067
+(2009-06-25)
  
 5
 straipsnis. Kolektyvinės gynybos operacijos
@@ -263,21 +276,20 @@ valstybių karinius vienetus bei imtis kitų priemonių, reikalingų kolektyvin�
 gynybos operacijos tikslams pasiekti.
 4. Šio straipsnio 3
 dalyje nurodytas Respublikos Prezidento sprendimas turi būti nedelsiant
-vykdomas. Respublikos Prezidentas teikia šį sprendimą tvirtinti artimiausiam
-Seimo posėdžiui, o tarp Seimo sesijų – nedelsdamas šaukia neeilinę Seimo
-sesiją. Užtikrindamas Seimo ratifikuotos kolektyvinės gynybos sutarties ir ją
+vykdomas. Respublikos Prezidentas teikia šį sprendimą tvirtinti artimiausiam Seimo
+posėdžiui, o tarp Seimo sesijų – nedelsdamas šaukia neeilinę Seimo sesiją.
+Užtikrindamas Seimo ratifikuotos kolektyvinės gynybos sutarties ir ją
 įgyvendinančių bendrų šios sutarties šalių sprendimų vykdymą bei ginkluotą
 gynybą ir pasipriešinimą ginkluotam užpuolimui, Seimas priima nutarimą dėl
 Respublikos Prezidento sprendimo patvirtinimo.
 5. Kitų valstybių
 teritorijose kolektyvinės gynybos operacijos tikslais naudojamų Lietuvos
-Respublikos karinių vienetų skaičius, dydis ir jų buvimo kitų valstybių
-teritorijose laikas, taip pat kitų valstybių – Lietuvos Respublikos
-sąjungininkių – karinių vienetų skaičius, dydis ir jų buvimo Lietuvos
-Respublikos teritorijoje laikas nustatomas pagal Lietuvos Respublikos ir kitų
-kolektyvinės gynybos sutarties šalių ar kitų Lietuvos Respublikos sąjungininkių
-sutartis ar susitarimus bei bendrus kolektyvinės gynybos sutarties šalių
-sprendimus.
+Respublikos karinių vienetų skaičius, dydis ir jų buvimo kitų valstybių teritorijose
+laikas, taip pat kitų valstybių – Lietuvos Respublikos sąjungininkių – karinių
+vienetų skaičius, dydis ir jų buvimo Lietuvos Respublikos teritorijoje laikas
+nustatomas pagal Lietuvos Respublikos ir kitų kolektyvinės gynybos sutarties
+šalių ar kitų Lietuvos Respublikos sąjungininkių sutartis ar susitarimus bei
+bendrus kolektyvinės gynybos sutarties šalių sprendimus.
  
 6
 straipsnis. Kitos operacijos
@@ -297,10 +309,10 @@ vienetų atvykimo ir panaudojimo kitos operacijos tikslais Lietuvos Respublikos
 teritorijoje priima Lietuvos Respublikos Seimas, Respublikos Prezidento teikimu
 priimdamas nutarimą.
 3. Neatidėliotinais atvejais sprendimą
-dėl dalyvavimo kitoje operacijoje, įskaitant Lietuvos Respublikos karinių
-vienetų išvykimą, leidimą atvykti į Lietuvos Respubliką kitų valstybių
-kariniams vienetams bei kitas priemones, reikalingas kitos operacijos
-tikslams pasiekti, priima Respublikos Prezidentas.
+dėl dalyvavimo kitoje operacijoje, įskaitant Lietuvos Respublikos karinių vienetų
+išvykimą, leidimą atvykti į Lietuvos Respubliką kitų valstybių kariniams
+vienetams bei kitas priemones, reikalingas kitos operacijos tikslams
+pasiekti, priima Respublikos Prezidentas.
 4. Šio straipsnio 3 dalyje nurodytas
 Respublikos Prezidento sprendimas turi būti nedelsiant vykdomas. Respublikos
 Prezidentas nedelsdamas teikia jį tvirtinti artimiausiam Seimo posėdžiui.
@@ -316,16 +328,16 @@ vienetų maksimalų dydį ir maksimalų jų buvimo kitų valstybių teritorijose
 laiką, taip pat kitos operacijos tikslais Lietuvos Respublikos teritorijoje
 naudojamų kitų valstybių karinių vienetų maksimalų dydį ir maksimalų jų buvimo
 Lietuvos Respublikos teritorijoje laiką nustato Lietuvos Respublikos Seimas,
-Respublikos Prezidento teikimu priimdamas šio straipsnio 2 dalyje nurodytą nutarimą,
-arba šio straipsnio 3 dalyje nurodytu atveju – Respublikos Prezidentas ir
-Seimas, pagal šio straipsnio 4 dalį tvirtindamas Respublikos Prezidento
-sprendimą. Tikslų kitų valstybių teritorijose naudojamų kitos operacijos
-tikslais Lietuvos Respublikos karinių vienetų dydį ir buvimo kitų valstybių
-teritorijose laiką, taip pat kitos operacijos tikslais Lietuvos Respublikos
-teritorijoje naudojamų kitų valstybių karinių vienetų dydį ir buvimo Lietuvos
-Respublikos teritorijoje laiką nustato krašto apsaugos ministras, neviršydamas
-Seimo nutarimu nustatyto ar patvirtinto maksimalaus dydžio ir maksimalios
-trukmės.
+Respublikos Prezidento teikimu priimdamas šio straipsnio 2 dalyje nurodytą
+nutarimą, arba šio straipsnio 3 dalyje nurodytu atveju – Respublikos
+Prezidentas ir Seimas, pagal šio straipsnio 4 dalį tvirtindamas Respublikos
+Prezidento sprendimą. Tikslų kitų valstybių teritorijose naudojamų kitos
+operacijos tikslais Lietuvos Respublikos karinių vienetų dydį ir buvimo kitų
+valstybių teritorijose laiką, taip pat kitos operacijos tikslais Lietuvos
+Respublikos teritorijoje naudojamų kitų valstybių karinių vienetų dydį ir
+buvimo Lietuvos Respublikos teritorijoje laiką nustato krašto apsaugos
+ministras, neviršydamas Seimo nutarimu nustatyto ar patvirtinto maksimalaus
+dydžio ir maksimalios trukmės.
 6. Pagal šio
 straipsnio 5 dalį nustatytas maksimalus Lietuvos Respublikos karinių vienetų
 dydis ir maksimalus jų buvimo kitų valstybių teritorijose laikas, taip pat
@@ -385,9 +397,9 @@ valstybių karių ir karinėms pajėgoms priskirtų civilių tarnautojų, įskai
 sprendimą leisti atvykti į šias pratybas ar renginius kitų valstybių kariniams
 vienetams, kariams ir karinėms pajėgoms priskirtiems civiliams tarnautojams,
 priimamas Lietuvos Respublikos Vyriausybės siūlymu Seimo nutarimu. Šiame
-nutarime nustatomas maksimalus galinčių vienu metu būti Lietuvos Respublikoje
-kitų valstybių karių ir karinėms pajėgoms priskirtų civilių tarnautojų
-skaičius, taip pat maksimali pratybų ar kitų renginių trukmė.
+nutarime nustatomas maksimalus galinčių vienu metu būti Lietuvos Respublikoje kitų
+valstybių karių ir karinėms pajėgoms priskirtų civilių tarnautojų skaičius,
+taip pat maksimali pratybų ar kitų renginių trukmė.
 2.
 Išskyrus šio straipsnio 1 dalyje ir 3 dalies 2 punkte numatytus atvejus,
 sprendimas surengti Lietuvos Respublikos teritorijoje pratybas arba organizuoti
@@ -695,7 +707,9 @@ RESPUBLIKOS
 PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
  
 _______________
+ 
 Pakeitimai:
+ 
 1.
 Lietuvos
 Respublikos Seimas, Įstatymas
@@ -746,8 +760,8 @@ Nr.
 IX-1994,
 2004-01-29, Žin., 2004, Nr. 25-762 (2004-02-14)
 TARPTAUTINIŲ
-OPERACIJŲ, PRATYBŲ IR KITŲ KARINIO BENDRADARBIAVIMO RENGINIŲ ĮSTATYMO 4
-STRAIPSNIO PAKEITIMO ĮSTATYMAS
+OPERACIJŲ, PRATYBŲ IR KITŲ KARINIO BENDRADARBIAVIMO RENGINIŲ ĮSTATYMO 4 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
 Įstatymas
 įsigalioja nuo 2004 m. liepos 1 d. 
  
@@ -761,10 +775,22 @@ TARPTAUTINIŲ
 OPERACIJŲ, PRATYBŲ IR KITŲ KARINIO BENDRADARBIAVIMO RENGINIŲ ĮSTATYMO 2, 4, 8,
 9, 10, 11 IR 12 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+7.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-288, 2009-06-11, Žin., 2009, Nr. 75-3067 (2009-06-25)
+TARPTAUTINIŲ OPERACIJŲ, PRATYBŲ
+IR KITŲ KARINIO BENDRADARBIAVIMO RENGINIŲ ĮSTATYMO 4 STRAIPSNIO PAPILDYMO
+ĮSTATYMAS
+Įstatymas
+įsigalioja 2009 m. liepos 1 d.
+ 
 ***
 Pabaiga ***
  
-Redagavo:
-Aušrinė Trapinskienė (2005-05-26)
+ 
+Redagavo
+Aušrinė Trapinskienė (2009-06-26)
                  
 autrap@lrs.lt
