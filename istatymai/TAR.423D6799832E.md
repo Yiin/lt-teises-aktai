@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.423D6799832E"
 
 # Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymas
 
-Suvestinė redakcija nuo 2005-05-28 iki 2009-06-29
+Suvestinė redakcija nuo 2009-06-30 iki 2010-06-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 17-701, i. k. 1031010ISTA0IX-1315
  
@@ -71,52 +71,89 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Gamintojas – Lietuvos Respublikoje įregistruota įmonė, turinti Vyriausybės nustatyta tvarka išduotą licenciją gaminti sprogmenis.
+4. Gamybos vieta – patalpos, teritorija, kuriose sprogmenų gamintojas pagal tai vietai suteiktą licenciją gamina sprogmenis. 
+Papildyta straipsnio dalimi:
+Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+ 
 
 
 
 
-5. Prekybos sprogmenimis tarpininkas (toliau – prekybos tarpininkas) – asmuo, atstovaujantis gamintojo, prekiautojo ar naudotojo interesams, kai gamintojas, prekiautojas ar naudotojas sudaro sutartis dėl sprogmenų įsigijimo ar pardavimo.
+5. Gamintojas – Lietuvos Respublikoje įregistruota įmonė, turinti Vyriausybės nustatyta tvarka išduotą licenciją gaminti sprogmenis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+ 
 
 
 
 
-6. Profesionalus sprogmenų naudotojas (toliau – profesionalus naudotojas) – įmonė, turinti Vyriausybės nustatyta tvarka išduotą licenciją naudoti sprogmenis.
+6. Prekybos sprogmenimis tarpininkas (toliau – prekybos tarpininkas) – asmuo, atstovaujantis gamintojo, prekiautojo ar naudotojo interesams, kai gamintojas, prekiautojas ar naudotojas sudaro sutartis dėl sprogmenų įsigijimo ar pardavimo.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+ 
 
 
 
 
-7. Sprogdinimo priemonės – visuma papildomų įrengimų, įtaisų ar medžiagų, skirtų sprogdinimo darbams atlikti. 
+7. Profesionalus sprogmenų naudotojas (toliau – profesionalus naudotojas) – įmonė, turinti Vyriausybės nustatyta tvarka išduotą licenciją naudoti sprogmenis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+ 
 
 
 
 
-8. Sprogimas – medžiagos fizinio būvio pokytis, vykstantis ypač greitai ir lemiantis staigų didelio energijos kiekio ribotame tūryje atpalaidavimą. 
+8. Sprogdinimo priemonės – visuma papildomų įrengimų, įtaisų ar medžiagų, skirtų sprogdinimo darbams atlikti. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+ 
 
 
 
 
-9. Sprogmenų apyvarta – sprogmenų gamyba, pardavimas, perdavimas, įgijimas, laikymas, saugojimas, gabenimas, naudojimas, paėmimas, realizavimas, sunaikinimas, taip pat importas, eksportas, gabenimas tranzitu per Lietuvos Respublikos teritoriją. 
+9. Sprogimas – medžiagos fizinio būvio pokytis, vykstantis ypač greitai ir lemiantis staigų didelio energijos kiekio ribotame tūryje atpalaidavimą. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+ 
 
 
 
 
-10. Sprogmenų gamyba – sprogmenų gaminimas, bandymai, jų atitikties įvertinimas bei ženklinimas.
+10. Sprogmenų apyvarta – sprogmenų gamyba, pardavimas, perdavimas, įgijimas, laikymas, saugojimas, gabenimas, naudojimas, paėmimas, realizavimas, sunaikinimas, taip pat importas, eksportas, gabenimas tranzitu per Lietuvos Respublikos teritoriją. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+ 
 
 
 
 
-11. Sprogmenų naudojimas – sprogmenų sprogdinimas siekiant panaudoti jų sprogstamąsias savybes.
+11. Sprogmenų gamyba – sprogmenų gaminimas, bandymai, jų atitikties įvertinimas bei ženklinimas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+ 
 
 
 
 
-12. Sprogmuo – įtaisas, specialiai pagamintas sprogimui tam tikromis sąlygomis sukelti.
+12. Sprogmenų naudojimas – sprogmenų sprogdinimas siekiant panaudoti jų sprogstamąsias savybes.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+ 
 
 
 
 
-13. Sprogstamoji medžiaga – cheminis junginys ar mišinys, kuris veikiamas smūgio, kibirkšties, liepsnos, trinties ar kito išorinio impulso geba sprogti.
+13. Sprogmuo – įtaisas, specialiai pagamintas sprogimui tam tikromis sąlygomis sukelti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+ 
+
+
+
+
+14. Sprogstamoji medžiaga – cheminis junginys ar mišinys, kuris veikiamas smūgio, kibirkšties, liepsnos, trinties ar kito išorinio impulso geba sprogti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
  
 
 
@@ -1246,3 +1283,8 @@ Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo 11 ir 14 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-186, 2005-05-12, Žin., 2005, Nr. 67-2398 (2005-05-28), i. k. 1051010ISTA000X-186
 Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo 13 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo 1, 2, 9, 13, 14, 18, 23 straipsnių ir įstatymo priedo pakeitimo ir papildymo įstatymas
