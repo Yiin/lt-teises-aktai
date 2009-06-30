@@ -268,9 +268,8 @@ motinystės socialiniam draudimui – Fondo biudžeto išlaidos socialinio draud
 pašalpoms, numatytoms Ligos ir motinystės socialinio draudimo įstatyme, ir
 savanoriškojo socialinio draudimo ligos ir motinystės pašalpoms;
 4) nedarbo
-socialiniam draudimui – gautos nedarbo socialinio draudimo įmokos, pervedamos
-Užimtumo fondui (nuo 2010 m. sausio 1 d. – Lietuvos darbo biržai prie
-Socialinės apsaugos ir darbo ministerijos);
+socialiniam draudimui – Fondo biudžeto išlaidos nedarbo socialinio draudimo
+išmokoms ir išlaidoms, numatytoms Nedarbo socialinio draudimo įstatyme;
 5) nelaimingų
 atsitikimų darbe ir profesinių ligų socialiniam draudimui (toliau – nelaimingų
 atsitikimų darbe socialinis draudimas) – Fondo biudžeto išlaidos visų rūšių
@@ -303,6 +302,9 @@ kitų šaltinių, apskaičiavimą ir mokėjimą.
 išlaidos išmokoms, kurioms taikomos tarptautinės sutartys ar Europos Sąjungos
 reglamentai dėl socialinės apsaugos, priskiriamos Fondo išlaidoms atskiroms
 socialinio draudimo rūšims pagal šių išmokų pobūdį.
+Straipsnio pakeitimai:
+Nr. XI-308,
+2009-06-18, Žin., 2009, Nr. 77-3172 (2009-06-30)
  
 6
 straipsnis. Fondo biudžeto išlaidų planavimas kitiems biudžetiniams metams
@@ -344,8 +346,8 @@ asignavimų valdytojų.
 straipsnis. Fondo biudžeto piniginės įplaukos ir išlaidos 
 1. Fondo
 biudžeto piniginių įplaukų ir išlaidų straipsnyje parodomos šio biudžeto
-faktiškai gautos pinigų įplaukos ir faktinės išlaidos atitinkamais
-biudžetiniais metais.
+faktiškai gautos pinigų įplaukos ir faktinės išlaidos atitinkamais biudžetiniais
+metais.
 2. Fondo
 biudžeto piniginės įplaukos ir išlaidos planuojamos ir registruojamos
 apskaitoje pagal veiklos pobūdį, išskiriant įprastinę, investicinę bei
@@ -427,8 +429,8 @@ tvarka ne vėliau kaip likus 75 kalendorinėms dienoms iki einamųjų biudžetin
 metų pabaigos pateikia jį Seimui. Kartu su Fondo biudžeto rodiklių patvirtinimo
 įstatymo projektu teikiami Fondo biudžeto projekto aiškinamasis raštas ir kitų
 dvejų biudžetinių metų numatomų Fondo rodiklių prognozė, Fondo tarybos išvada,
-draudėjų ir apdraustųjų įmokų tarifų atskiroms socialinio draudimo rūšims
-dydžių pagrindimas ir kiti būtini dokumentai.
+draudėjų ir apdraustųjų įmokų tarifų atskiroms socialinio draudimo rūšims dydžių
+pagrindimas ir kiti būtini dokumentai.
  
 10
 straipsnis. Fondo biudžeto tvirtinimas 
@@ -522,11 +524,11 @@ straipsnis. Fondo biudžeto vykdymas
 1. Už Fondo
 biudžeto projekto parengimą ir Fondo biudžeto vykdymą yra atsakinga Fondo
 valdyba. Metinis Fondo biudžetas baigiamas vykdyti gruodžio 31 dieną. 
-2. Jeigu, vykdant einamųjų biudžetinių metų Fondo biudžetą,
-Fondo administravimo įstaigų sąskaitose esamų lėšų dalis, netrikdant Fondo
-įsipareigojimų apdraustiesiems vykdymo, gali būti panaudota papildomoms Fondo
-pajamoms tais metais gauti, tai šios lėšos Fondo valdybos nustatyta ir su Fondo
-taryba suderinta tvarka investuojamos. Papildomai dėl investavimo gautos
+2. Jeigu, vykdant einamųjų biudžetinių metų Fondo
+biudžetą, Fondo administravimo įstaigų sąskaitose esamų lėšų dalis, netrikdant
+Fondo įsipareigojimų apdraustiesiems vykdymo, gali būti panaudota papildomoms
+Fondo pajamoms tais metais gauti, tai šios lėšos Fondo valdybos nustatyta ir su
+Fondo taryba suderinta tvarka investuojamos. Papildomai dėl investavimo gautos
 pajamos įtraukiamos į apskaitą kaip biudžetinių metų Fondo veiklos ir iš į
 Fondo apskaitą įtraukto turto gaunamos pajamos.
 3. Pasibaigus
@@ -572,7 +574,8 @@ rinkiniai tvirtinami Seimo nutarimu.“
 straipsnis. Įstatymo įsigaliojimas
 Šis įstatymas
 įsigalioja tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai
-privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną.
+privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1
+dieną.
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
@@ -600,11 +603,19 @@ SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMO
 PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija
  
-***
-Pabaiga ***
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-308,
+2009-06-18, Žin., 2009, Nr. 77-3172 (2009-06-30)
+VALSTYBINIO
+SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMO 1
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+*** Pabaiga ***
  
  
-Redagavo
-Aušrinė Trapinskienė (2008-12-02)
+Redagavo Aušrinė Trapinskienė
+(2009-07-10)
                  
 autrap@lrs.lt
