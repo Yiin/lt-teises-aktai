@@ -479,7 +479,6 @@ likviduoti, miško mokslo ir projektavimo darbams, privačių miškų savininkam
 konsultuoti bei mokyti, privačių miškų savininkų organizacinėms struktūroms
 kurtis, miško propagandai organizuoti, miškų ūkį aptarnaujančių organizacijų
 vykdomoms programoms bei kitoms bendrosioms miškų ūkio reikmėms finansuoti).
-[Papildyta 3 dalimi nuo 2009-07-01]
 3. Bendrosioms valstybės biudžeto reikmėms tenkinti Vyriausybės
 nustatyta tvarka miškų urėdijoms nustatomi privalomieji 5 procentų atskaitymai
 į valstybės biudžetą iš pajamų už parduotą žaliavinę medieną ir nenukirstą
@@ -584,14 +583,22 @@ apsaugos interesais.
  
 11 straipsnis. Miško žemės pavertimas kitomis
 naudmenomis
-1. Miško žemė gali būti paverčiama kitomis naudmenomis
-tik išimtiniais atvejais, Vyriausybės nustatyta tvarka derinant valstybės,
-miško savininko ir visuomenės interesus.
+*1. Miško žemė gali būti paverčiama kitomis naudmenomis tik išimtiniais
+atvejais, Vyriausybės nustatyta tvarka derinant valstybės, miško savininko ir
+visuomenės interesus.
 2. Miško iškirtimas technologinėms ir gamybinėms miško
 ūkio reikmėms (daigynams įrengti, miško ūkiniams keliams tiesti,
 priešgaisrinėms juostoms, technologiniams proskiebiams, poilsio aikštelėms ir
 medienos sandėliams įrengti, nustatyta tvarka žvyrui bei smėliui kasti ūkio
 reikmėms ir kt.) nėra miško žemės pavertimas kitomis naudmenomis. 
+*Pastaba. Pripažinti, kad Lietuvos Respublikos
+miškų įstatymo (2001 m. balandžio 10 d. redakcija; Žin., 2001, Nr. 35-1161) 11
+straipsnio 1 dalis tiek, kiek joje nėra nustatyti išimtiniais laikytini
+miško žemės pavertimo kitomis naudmenomis atvejai arba (ir) kriterijai, pagal
+kuriuos tokie atvejai būtų nustatomi, prieštarauja Lietuvos Respublikos
+Konstitucijos 23, 54 straipsniams, konstituciniam teisinės valstybės principui.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. 16/07-17/07-20/08, 2009-06-22, Žin., 2009, Nr. 75-3074 (2009-06-25)
  
 12
 straipsnis. Miško žemės sausinimas, tręšimas ir kelių per miško žemę tiesimas 
@@ -677,12 +684,12 @@ kitais teisės aktų numatytais tikslais. Metinė pagrindinių miško kirtimų n
 nustatoma kiekvienam miško valdytojui bei savininkui pagal Aplinkos
 ministerijos patvirtintą metodiką. 
 5.
-Metinę pagrindinių miško kirtimų normą valstybiniuose miškuose tvirtina
-Vyriausybė. Nustatyta metinė pagrindinių miško kirtimų norma negali būti
-viršijama, išskyrus stichinių nelaimių atvejus, kai šalies mastu išdžiūvusių,
-išverstų, išlaužytų, išdegusių arba kitaip pažeistų medynų tūris sudaro daugiau
-kaip vieną ketvirtąją metinės kirtimo normos dalį. Bendra visų rūšių metinė
-miško kirtimų norma šalyje negali viršyti metinio medienos prieaugio.
+Metinę pagrindinių miško kirtimų normą valstybiniuose miškuose tvirtina Vyriausybė.
+Nustatyta metinė pagrindinių miško kirtimų norma negali būti viršijama,
+išskyrus stichinių nelaimių atvejus, kai šalies mastu išdžiūvusių, išverstų,
+išlaužytų, išdegusių arba kitaip pažeistų medynų tūris sudaro daugiau kaip
+vieną ketvirtąją metinės kirtimo normos dalį. Bendra visų rūšių metinė miško
+kirtimų norma šalyje negali viršyti metinio medienos prieaugio.
 6.
 Tarpinių miško kirtimų mastą šalies valstybiniuose miškuose nustato Aplinkos
 ministerija.
@@ -742,8 +749,8 @@ reikalavimus.
 atkūrimą miško savininkų lėšomis Lietuvos Respublikos Vyriausybės nustatyta
 tvarka organizuoja Aplinkos ministerija.
 7. Miško valdytojams, savininkams ir naudotojams leidimas pagrindiniams
-miško kirtimams neišduodamas, jei jų valdoje per šio straipsnio 4 dalyje nustatytus
-terminus neatkurtas iškirstasis miškas.
+miško kirtimams neišduodamas, jei jų valdoje per šio straipsnio 4 dalyje
+nustatytus terminus neatkurtas iškirstasis miškas.
 Straipsnio
 pakeitimai:
 Nr.
@@ -819,8 +826,8 @@ direkcijoms apie medžių ligų ir kenkėjų židinius.
 Dideli kenkėjų ir ligų židiniai lokalizuojami ir likviduojami valstybės, miško
 valdytojų ir savininkų lėšomis.
  
-20
-straipsnis. Miško apsauga nuo naminių gyvulių ir žvėrių daromos žalos
+20 straipsnis.
+Miško apsauga nuo naminių gyvulių ir žvėrių daromos žalos
 1.
 Naminių gyvulių ganiava valstybinėje miško žemėje draudžiama, išskyrus Aplinkos
 ministerijos numatytus atvejus. Privačiuose miškuose gyvulių ganiava draudžiama
@@ -830,8 +837,8 @@ Medžiojamų žvėrių skaičius miško žemėje turi būti palaikomas toks, kad
 garantuotas ekosistemos stabilumas. Reguliuojant žvėrių skaičių miške,
 laikomasi Aplinkos apsaugos įstatymo ir kitų teisės aktų reikalavimų.
  
-21
-straipsnis. Miško apsauga nuo taršos
+21 straipsnis.
+Miško apsauga nuo taršos
 Miško
 apsaugą nuo taršos, leistiną taršą ir žalos miškams atlyginimą nustato Aplinkos
 apsaugos įstatymas ir kiti teisės aktai. Žuvę ar pažeisti miškai turi būti
@@ -862,8 +869,8 @@ miškui, turtui ar teisėtiems interesams padaryta žala;
 padaroma miškui, kaip aplinkos objektui.
 Straipsnio pakeitimai:
 Nr.
-IX-771,
-2002-03-07, Žin., 2002, Nr. 31-1122 (2002-03-27)
+IX-771, 2002-03-07,
+Žin., 2002, Nr. 31-1122 (2002-03-27)
  
 VII SKYRIUS
 LIETUVOS
@@ -924,9 +931,7 @@ STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1498, 99.12.23, Žin., 1999,
 Nr.110-3203 (99.12.29)
-LIETUVOS
-RESPUBLIKOS MIŠKŲ ĮSTATYMO 8 STRAIPSNIO
-PAPILDYMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS MIŠKŲ ĮSTATYMO 8 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1029,13 +1034,36 @@ XI-239,
 MIŠKŲ
 ĮSTATYMO 7 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 Įstatymas
-įsigalioja nuo 2009-07-01.
+įsigalioja nuo 2009 m. liepos 1 d.
  
-***
-Pabaiga ***
+*** Pabaiga ***
  
  
-Redagavo
-Aušra Bodin (2009-05-12)
-                 
- aubodi@lrs.lt
+Konstitucinio
+Teismo nutarimai:
+ 
+1.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. 16/07-17/07-20/08, 2009-06-22, Žin., 2009, Nr. 75-3074 (2009-06-25)
+DĖL LIETUVOS RESPUBLIKOS TERITORIJŲ PLANAVIMO ĮSTATYMO (2004 M. SAUSIO
+15 D. REDAKCIJA) 22 STRAIPSNIO 6 DALIES (2006 M. BIRŽELIO 8 D. REDAKCIJA)
+ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI, LIETUVOS RESPUBLIKOS VYRIAUSYBĖS
+2004 M. GEGUŽĖS 26 D. NUTARIMU NR. 635 "DĖL DETALIOJO TERITORIJŲ PLANAVIMO
+ORGANIZATORIAUS TEISIŲ IR PAREIGŲ PERDAVIMO IR SUTARTIES SUDARYMO TVARKOS
+APRAŠO PATVIRTINIMO" PATVIRTINTO DETALIOJO TERITORIJŲ PLANAVIMO
+ORGANIZATORIAUS TEISIŲ IR PAREIGŲ PERDAVIMO IR SUTARTIES SUDARYMO TVARKOS
+APRAŠO 7.2 PUNKTO (2007 M. SAUSIO 15 D. REDAKCIJA) ATITIKTIES LIETUVOS
+RESPUBLIKOS KONSTITUCIJAI, LIETUVOS RESPUBLIKOS TERITORIJŲ PLANAVIMO ĮSTATYMO,
+LIETUVOS RESPUBLIKOS MIŠKŲ ĮSTATYMO NUOSTATOMS IR LIETUVOS RESPUBLIKOS
+VYRIAUSYBĖS 2002 M. GEGUŽĖS 9 D. NUTARIMO NR. 641 "DĖL MIŠKO ŽEMĖS
+PAVERTIMO KITOMIS NAUDMENOMIS TVARKOS PATVIRTINIMO" 1 PUNKTU PATVIRTINTOS
+MIŠKO ŽEMĖS PAVERTIMO KITOMIS NAUDMENOMIS TVARKOS 7.4 PUNKTO ATITIKTIES
+LIETUVOS RESPUBLIKOS KONSTITUCIJAI, LIETUVOS RESPUBLIKOS MIŠKŲ ĮSTATYMO,
+LIETUVOS RESPUBLIKOS TERITORIJŲ PLANAVIMO ĮSTATYMO NUOSTATOMS
+ 
+*** Pabaiga ***
+ 
+ 
+Redagavo Aušrinė
+Trapinskienė (2009-06-25)
+                  autrap@lrs.lt
