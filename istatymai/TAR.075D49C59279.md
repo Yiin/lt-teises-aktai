@@ -826,15 +826,19 @@ V skyrius
 19
 straipsnis. Žemės reformos žemėtvarkos projektų sudarymas ir žemės servitutų 
 nustatymas
-1. Žemės
-reformai reikalingi žemės reformos žemėtvarkos projektai rengiami ir tvirtinami
-Vyriausybės nustatyta tvarka pagal Žemėtvarkos ir teisės departamento prie
-Žemės ūkio ministerijos patvirtintą metodiką.
-2. Žemės
-reformos žemėtvarkos projektai rengiami valstybės lėšomis, o įgyvendinami
-valstybės lėšomis arba fizinių ir juridinių asmenų lėšomis, jeigu jie sutinka.
-Fizinių ir juridinių asmenų lėšomis atliekamus žemės reformos žemėtvarkos
-projektų įgyvendinimo darbus, jų apmokėjimo tvarką ir atvejus nustato
+1.
+Žemės reformai reikalingi žemės reformos žemėtvarkos projektai rengiami ir
+tvirtinami Vyriausybės nustatyta tvarka pagal žemės ūkio ministro patvirtintą
+metodiką.
+2.
+Žemės reformos žemėtvarkos projektai, kuriuose projektuojami žemės sklypai
+piliečių nuosavybės teisėms atkurti ir naudojami asmeninio ūkio žemės sklypai,
+rengiami ir įgyvendinami valstybės lėšomis, o kitais atvejais – fizinių ir
+juridinių asmenų lėšomis. Žemės reformos žemėtvarkos projektai, kuriuose
+suprojektuoti žemės sklypai piliečių nuosavybės teisėms atkurti ir naudojami
+asmeninio ūkio žemės sklypai, fizinių asmenų pageidavimu gali būti įgyvendinami
+jų lėšomis. Fizinių ir juridinių asmenų lėšomis atliekamų žemės reformos
+žemėtvarkos projektų rengimo ir įgyvendinimo darbų apmokėjimo tvarką nustato
 Vyriausybė.
 3. Žemės sklypų, suprojektuotų grąžinti natūra bendrosios
 nuosavybės teise, padalijimo projektai rengiami piliečių lėšomis Žemės
@@ -854,7 +858,8 @@ bendrojo naudojimo kelių tinklas, žemės sklypams nustatoma pagrindinė tiksli
 reformos žemėtvarkos projektuose numatomi grąžinti, perduoti arba suteikti
 nuosavybėn neatlygintinai, parduoti ar kitaip įsigyti naudojimuisi žemės
 sklypai turi būti racionalių ribų, kurios derinamos prie vietovės situacijos
-kontūrų ir turi sudaryti palankias sąlygas žemės sklypo naudojimui pagal paskirtį.
+kontūrų ir turi sudaryti palankias sąlygas žemės sklypo naudojimui pagal
+paskirtį.
 7. Žemės
 servitutų nustatymą reglamentuoja Civilinis kodeksas.
 8. Pasiūlymus
@@ -865,11 +870,10 @@ merai.
 viršininkas, priimdamas sprendimą dėl žemės grąžinimo, perdavimo arba suteikimo
 neatlygintinai, pardavimo ir nuomos, jame nurodo žemės servitutus ir jų
 naudojimo sąlygas.
-10. Žemės
-reformos žemėtvarkos projektų valstybinę ekspertizę atlieka Žemės ūkio
-ministerijos įgaliota institucija. Žemės reformos žemėtvarkos projektų
-valstybinės ekspertizės atlikimo atvejus, tvarką ir turinį nustato Žemės ūkio
-ir Aplinkos ministerijos.
+10. Žemės reformos žemėtvarkos projektų valstybinę
+ekspertizę atlieka Žemės ūkio ministerijos įgaliota institucija. Žemės reformos
+žemėtvarkos projektų valstybinės ekspertizės atlikimo atvejus, tvarką ir turinį
+nustato Žemės ūkio ministerija.
 Straipsnio
 pakeitimai:
 Nr. VIII-1757,
@@ -879,6 +883,8 @@ Nr. IX-496,
 Nr.
 IX-1171,
 2002-11-05, Žin., 2002, Nr. 112-4975 (2002-11-22)
+Nr. XI-312, 2009-06-22, Žin., 2009, Nr. 81-3358
+(2009-07-09)
  
 20
 straipsnis. Žemės reformos žemėtvarkos projektų svarstymo, derinimo ir
@@ -897,8 +903,7 @@ išdavimas
 1. Žemės reformos žemėtvarkos projektuose ir
 kituose teritorijų planavimo dokumentuose suprojektuoti žemės sklypai, numatomi
 įsigyti nuosavybėn ar naudojimuisi, vietovėje ženklinami, matuojami ir jų
-plotai apskaičiuojami pagal Vyriausybės įgaliotos institucijos patvirtintą
-metodiką.
+plotai apskaičiuojami pagal Vyriausybės įgaliotos institucijos patvirtintą metodiką.
 2. Žemės
 savininkams ir žemės naudotojams išduodami žemės nuosavybę ir žemės naudojimo
 teisę patvirtinantys dokumentai. Šie dokumentai parengiami ir išduodami
@@ -943,7 +948,7 @@ LIETUVOS RESPUBLIKOS
 AUKŠČIAUSIOSIOS
 TARYBOS 
 PIRMININKAS
-                                                                       VYTAUTAS
+                                                                       VYTAUTAS
 LANDSBERGIS
  
 Vilnius,
@@ -1084,8 +1089,8 @@ REFORMOS ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 15.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-1170,
-2002-11-05, Žin., 2002, Nr. 112-4974 (2002-11-22)
+Nr. IX-1170, 2002-11-05,
+Žin., 2002, Nr. 112-4974 (2002-11-22)
 ŽEMĖS
 REFORMOS ĮSTATYMO 2, 5, 7, 8, 9, 10, 11, 15, 17, 18 STRAIPSNIŲ PAKEITIMO IR
 PAPILDYMO ĮSTATYMAS
@@ -1162,9 +1167,18 @@ X-1121,
 REFORMOS ĮSTATYMO 7 STRAIPSNIO 1 DALIES 1 PUNKTO PRIPAŽINIMO NETEKUSIU GALIOS
 ĮSTATYMAS
  
+24.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-312, 2009-06-22, Žin., 2009, Nr. 81-3358 (2009-07-09)
+ŽEMĖS
+REFORMOS ĮSTATYMO 19 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
  
 ***
 Pabaiga ***
+ 
  
 Konstitucinio
 Teismo nutarimai:
@@ -1184,7 +1198,7 @@ M. LAPKRIČIO 5 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2007-05-29)
+Redagavo
+Aušrinė Trapinskienė (2009-07-09)
                  
 autrap@lrs.lt
