@@ -501,8 +501,16 @@ institucijose, įstaigose yra atsakingi:
 Respublikos Seime – Seimo kancleris;
 2) Respublikos Prezidento
 institucijoje – Respublikos Prezidento kanceliarijos kancleris;
+ 
+2
+dalies 3 punkto redakcija iki 2009 m. rugsėjo 15 d.:
 3) Lietuvos
 Respublikos Vyriausybėje – Vyriausybės kancleris;
+2
+dalies 3 punkto redakcija iki 2009 m. rugsėjo 15 d.:
+3) Lietuvos
+Respublikos Vyriausybėje – Ministro Pirmininko kancleris;
+ 
 4) Lietuvos Respublikos Konstituciniame Teisme, Lietuvos
 Aukščiausiajame Teisme, Lietuvos vyriausiajame administraciniame teisme –
 teismo kancleris, kituose teismuose – teismo pirmininkas;
@@ -512,6 +520,10 @@ atstovybėse, konsulinėse įstaigose ir specialiosiose misijose – jų vadovai
 3. Herbų gamybą kontroliuoja
 Lietuvos Respublikos Vyriausybės įgaliotos institucijos, vadovaudamosi šiuo
 įstatymu ir kitais norminiais teisės aktais.
+Punkto pakeitimai:
+Nr. XI-324,
+2009-07-07, Žin., 2009, Nr. 85-3581 (2009-07-18)
+ 
  
 16
 straipsnis. Atsakomybė
@@ -555,7 +567,7 @@ Respublikos
 herbo, kitų herbų 
                                                                                                 ir
 herbinių ženklų 
-                                                                                                įstatymo
+                                                                                                įstatymo
                                                                                                 2
 priedas 
  
@@ -597,8 +609,8 @@ Valstybės
  
 
  
-V. Lietuvos
-valstybės herbo adaptacija
+V. Lietuvos valstybės
+herbo adaptacija
 be skydo
  
 
@@ -670,10 +682,20 @@ X-1471,
 Nauja
 įstatymo redakcija
  
+7.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-324,
+2009-07-07, Žin., 2009, Nr. 85-3581 (2009-07-18)
+VALSTYBĖS
+HERBO, KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ ĮSTATYMO 15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
-Redagavo:
-Aušrinė Trapinskienė (2008-04-22)
+ 
+Redagavo
+Vilija Tamaliūnienė (2009-07-20)
                  
-autrap@lrs.lt
+vitama@lrs.lt
