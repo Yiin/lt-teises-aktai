@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A92E17FDCD13"
 
 # Lietuvos Respublikos medžioklės įstatymas
 
-Suvestinė redakcija nuo 2005-05-13 iki 2009-07-17
+Suvestinė redakcija nuo 2009-07-18 iki 2010-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2634; Žin. 2002, Nr.112-0, i. k. 1021010ISTA00IX-966
  
@@ -206,7 +206,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Sodybose ir negyvenamuose pastatuose bei jų priklausiniuose šių objektų savininkai, valdytojai ir naudotojai turi teisę, nepaisydami Medžioklės Lietuvos Respublikos teritorijoje taisyklėse nustatytų medžioklės terminų, naudodami šiose taisyklėse numatytas leistinas gaudymo priemones, gaudyti bei pasiimti tų rūšių plėšriuosius medžiojamuosius žvėris ir varninius paukščius, kuriems minėtose taisyklėse yra nustatytas leistinas jų medžioklės terminas. Ši veikla nelaikoma medžiojimu, ir ją vykdantis asmuo neprivalo būti medžiotojas.
+3. Sodybose ir negyvenamuose pastatuose bei jų priklausiniuose šių objektų savininkai, valdytojai ir naudotojai turi teisę, nepaisydami Medžioklės Lietuvos Respublikos teritorijoje taisyklėse nustatytų medžioklės terminų, naudodami šiose taisyklėse numatytas leistinas gaudymo priemones, gaudyti bei pasiimti tų rūšių plėšriuosius medžiojamuosius žvėris, kuriems minėtose taisyklėse yra nustatytas leistinas jų medžioklės terminas. Ši veikla nelaikoma medžiojimu, ir ją vykdantis asmuo neprivalo būti medžiotojas.
+Straipsnio dalies pakeitimai:
+Nr. XI-327, 2009-07-07, Žin., 2009, Nr. 85-3584 (2009-07-18), i. k. 1091010ISTA00XI-327
+ 
 
 
 
@@ -869,7 +872,7 @@ Nr. IX-1612, 2003-06-10, Žin., 2003, Nr. 61-2765 (2003-06-27), i. k. 1031010IST
 2. Privačios žemės sklypo savininkas, kurio žemė šio Įstatymo 8 straipsnyje nustatyta tvarka yra numatoma priskirti arba yra priskirta medžioklės plotų vienetui, turi teisę uždrausti medžioti jam priklausančioje žemėje, jeigu medžioklės metu žemės ūkio pasėliams arba miškui bus daroma žala. Medžioklės plotų vieneto sudarymo ar ribų pakeitimo projekto rengimo atveju apie tai jis privalo raštu pranešti šio Įstatymo 8 straipsnio nustatyta tvarka veikiančiai komisijai per šio Įstatymo 8 straipsnio 9 dalyje nustatytą terminą.
 TAR pastaba. Pripažinti, kad Lietuvos Respublikos medžioklės įstatymo 13 straipsnio 2 dalies nuostata „Privačios žemės sklypo savininkas, kurio žemė šio Įstatymo 8 straipsnyje nustatyta tvarka yra numatoma priskirti arba yra priskirta medžioklės plotų vienetui, turi teisę uždrausti medžioti jam priklausančioje žemėje, jeigu medžioklės metu žemės ūkio pasėliams arba miškui bus daroma žala“ ta apimtimi, kuria nenumatyta privačios žemės sklypo savininko teisė nevaržomai uždrausti medžioti jam priklausančioje žemėje ne tik jeigu medžioklės metu žemės ūkio pasėliams arba miškui bus daroma žala, bet ir visais kitais atvejais, prieštarauja Lietuvos Respublikos Konstitucijos 23 straipsnio 1 ir 2 dalims.
 Straipsnio dalies pakeitimai:
-2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. 1051000NUTARG053456            
+2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. 1051000NUTARG053456            
  
 
 
@@ -1335,3 +1338,8 @@ Lietuvos Respublikos medžioklės įstatymo 6, 12 ir 18 straipsnių pakeitimo į
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. 1051000NUTARG053456                
 Dėl Lietuvos Respublikos medžioklės įstatymo 7 straipsnio 2 dalies, 8 straipsnio 1, 9, 10 dalių, 13 straipsnio 2 dalies, 18 straipsnio 7 dalies ir 22 straipsnio 3, 6, 7 dalių atitikties Lietuvos Respublikos Konstitucijai
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-327, 2009-07-07, Žin., 2009, Nr. 85-3584 (2009-07-18), i. k. 1091010ISTA00XI-327
+Lietuvos Respublikos medžioklės įstatymo 4 straipsnio pakeitimo įstatymas
