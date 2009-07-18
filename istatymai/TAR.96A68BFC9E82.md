@@ -336,29 +336,54 @@ sutikimo, o tarp Seimo sesijų - be išankstinio Respublikos Prezidento sutikimo
 1. Vyriausybės narių atlyginimo už darbą dydį nustato
 Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo
 įstatymas.
-2. Atlyginimą Vyriausybės nariams moka Vyriausybės kanceliarija.
-Vyriausybės nariai draudžiami valstybiniu socialiniu draudimu Valstybinio
-socialinio draudimo įstatymo nustatyta tvarka.
-3. Vyriausybės atstovavimo šalyje ir užsienyje
-išlaidoms finansuoti Vyriausybės nutarimu gali būti sudaromas Ministro Pirmininko
-fondas, kuriam, nedidinant Vyriausybės kanceliarijai Lietuvos Respublikos
-valstybės biudžete numatytų bendrų reprezentacijos lėšų, kiekvieną mėnesį
-skiriama iki vieno Statistikos departamento prie Lietuvos Respublikos
-Vyriausybės paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo
-užmokesčio dydžio suma. Konkrečius dydžius ir šių lėšų naudojimo tvarką nustato
-Vyriausybė.
+ 
+2 dalies redakcija iki 2009 m. rugsėjo 15 d.:
+2. Atlyginimą Vyriausybės nariams moka Vyriausybės
+kanceliarija. Vyriausybės nariai draudžiami valstybiniu socialiniu draudimu
+Valstybinio socialinio draudimo įstatymo nustatyta tvarka.
+2 dalies redakcija nuo  2009 m. rugsėjo 15 d.:
+2. Atlyginimą Vyriausybės nariams moka
+Ministro Pirmininko tarnyba. Vyriausybės nariai draudžiami valstybiniu
+socialiniu draudimu Valstybinio socialinio draudimo įstatymo
+nustatyta tvarka.
+ 
+3 dalies redakcija iki 2009 m. rugsėjo 15 d.:
+3. Vyriausybės atstovavimo šalyje ir užsienyje išlaidoms
+finansuoti Vyriausybės nutarimu gali būti sudaromas Ministro Pirmininko fondas,
+kuriam, nedidinant Vyriausybės kanceliarijai Lietuvos Respublikos valstybės
+biudžete numatytų bendrų reprezentacijos lėšų, kiekvieną mėnesį skiriama iki
+vieno Statistikos departamento prie Lietuvos Respublikos Vyriausybės paskutinio
+paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio dydžio suma.
+Konkrečius dydžius ir šių lėšų naudojimo tvarką nustato Vyriausybė.
+3 dalies redakcija nuo 2009 m. rugsėjo 15 d.:
+3. Vyriausybės atstovavimo šalyje ir
+užsienyje išlaidoms finansuoti Vyriausybės nutarimu gali būti
+sudaromas Ministro Pirmininko fondas, kuriam, nedidinant Ministro Pirmininko
+tarnybai Lietuvos Respublikos valstybės biudžete numatytų bendrų
+reprezentacijos lėšų, kiekvieną mėnesį skiriama iki vieno Statistikos
+departamento prie Lietuvos Respublikos Vyriausybės paskutinio
+paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio dydžio suma.
+Konkrečius dydžius ir šių lėšų naudojimo tvarką nustato Vyriausybė.
+ 
 4. Nedidinant ministerijai skiriamų bendrų
 reprezentacijos lėšų, Vyriausybės nutarimu gali būti sudaromi ministrų fondai.
 Jų naudojimo tvarką nustato Vyriausybė. 
+ 
+5 dalies redakcija iki 2009 m. rugsėjo 15 d.:
 5. Ministras
 Pirmininkas gali turėti rezidenciją, išlaikomą iš Vyriausybės kanceliarijai
 valstybės biudžete numatytų lėšų. 
+5 dalies redakcija nuo 2009 m. rugsėjo 15 d.:
+5. Ministras
+Pirmininkas gali turėti rezidenciją, išlaikomą iš Ministro Pirmininko tarnybai
+valstybės biudžete numatytų lėšų.
+ 
 6. Pasibaigus Vyriausybės nario įgaliojimams šio
 įstatymo 9 straipsnio 1 dalies 4 punkte numatytu atveju, Vyriausybės nariui
 išmokama dviejų Vyriausybės nario vidutinių mėnesinių darbo užmokesčių dydžio
 kompensacija, o pasibaigus Vyriausybės nario įgaliojimams šio įstatymo 
-9 straipsnio 1 dalies 1, 2, 3 ir 5 punktuose numatytais atvejais, – vieno vidutinio
-mėnesinio darbo užmokesčio dydžio kompensacija..
+9 straipsnio 1 dalies 1, 2, 3 ir 5 punktuose numatytais atvejais, – vieno
+vidutinio mėnesinio darbo užmokesčio dydžio kompensacija..
 7. Šio straipsnio 6 dalyje numatytos kompensacijos
 nemokamos Vyriausybės nariams, kai jie paskiriami Ministru Pirmininku ar
 ministrais naujai sudarytoje Vyriausybėje, taip pat jei jie yra išrinkti Seimo
@@ -371,8 +396,8 @@ nariai turi teisę į 28 kalendorinių dienų trukmės kasmetines minimaliąsias
 atostogas. Vadovaujantis Darbo kodekso nuostatomis, Vyriausybės nariams gali
 būti suteikiamos šios tikslinės atostogos: nėštumo ir gimdymo, tėvystės,
 mokymosi, valstybinėms ar visuomeninėms pareigoms atlikti, nemokamos.
-10. Vyriausybės
-narys, kuris yra įstatymų nustatyta tvarka paskelbiamas kandidatu į Respublikos
+10. Vyriausybės narys,
+kuris yra įstatymų nustatyta tvarka paskelbiamas kandidatu į Respublikos
 Prezidentus, Seimo, Europos Parlamento ar savivaldybių tarybų narius, turi
 teisę būti atleistas nuo tarnybinių pareigų rinkimų agitacijos kampanijos metu,
 bet ne ilgiau kaip 10 dienų. Rašytinis prašymas atleisti nuo tarnybinių pareigų
@@ -398,10 +423,12 @@ Nr.
 X-1780,
 2008-11-06, Žin., 2008, Nr. 131-5030 (2008-11-15)
 Nr.
-XI-124, 2008-12-23,
-Žin., 2008, Nr. 149-6044 (2008-12-30)
+XI-124,
+2008-12-23, Žin., 2008, Nr. 149-6044 (2008-12-30)
 Nr. XI-218,
 2009-04-16, Žin., 2009, Nr. 46-1796 (2009-04-25)
+Nr. XI-319,
+2009-07-07, Žin., 2009, Nr. 85-3576 (2009-07-18)
  
 14
 straipsnis. Draudimas Ministrui Pirmininkui ir ministrams eiti kitas renkamas
@@ -441,9 +468,9 @@ Vyriausybės nutarimą pavedama vykdyti Vyriausiajai rinkimų komisijai.
  
 17
 straipsnis. Ministro Pirmininko ir ministrų dalyvavimas Seimo darbe
-Ministras
-Pirmininkas ir ministrai turi teisę Seimo statuto nustatyta tvarka dalyvauti
-Seimo, jo komitetų, komisijų bei frakcijų posėdžiuose ir pareikšti savo nuomonę
+Ministras Pirmininkas
+ir ministrai turi teisę Seimo statuto nustatyta tvarka dalyvauti Seimo, jo
+komitetų, komisijų bei frakcijų posėdžiuose ir pareikšti savo nuomonę
 svarstomais klausimais.
  
 18
@@ -457,8 +484,8 @@ Pirmininkas ir ministrai Seimo sesijos metu Seimo statuto nustatyta tvarka
 atsako į Seimo narių klausimus.
 3. Seimo
 komiteto, komisijos ar frakcijos kvietimu Seimo statuto nustatyta tvarka
-ministrai ar ministro įgaliotas valstybės tarnautojas privalo dalyvauti
-komiteto, komisijos ar frakcijos posėdyje ir pateikti paaiškinimus svarstomais
+ministrai ar ministro įgaliotas valstybės tarnautojas privalo dalyvauti komiteto,
+komisijos ar frakcijos posėdyje ir pateikti paaiškinimus svarstomais
 klausimais.
 Straipsnio pakeitimai:
 Nr. VIII-1980,
@@ -519,9 +546,9 @@ teikia Seimui valstybės biudžeto ir savivaldybių biudžetų finansinių rodik
 patvirtinimo įstatymo projektą; organizuoja valstybės biudžeto vykdymą,
 teikia Seimui valstybės biudžeto įvykdymo apyskaitą; taip pat teikia Seimui
 Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo
-fondo biudžetų rodiklių patvirtinimo įstatymų projektus bei Valstybinio socialinio
-draudimo fondo biudžeto ir Privalomojo sveikatos draudimo fondo vykdymo
-ataskaitas;
+fondo biudžetų rodiklių patvirtinimo įstatymų projektus bei Valstybinio
+socialinio draudimo fondo biudžeto ir Privalomojo sveikatos draudimo fondo
+vykdymo ataskaitas;
 5) remdamasi
 įstatymais disponuoja valstybės turtu, nustato jo valdymo ir naudojimo tvarką;
 6) rengia ir
@@ -531,8 +558,8 @@ siūlymus dėl ministerijų steigimo ir panaikinimo;
 8)
 steigia, reorganizuoja, pertvarko ir likviduoja Vyriausybės įstaigas bei
 steigia įstaigas prie ministerijų ir paveda ministerijoms vykdyti dalį įstaigų
-prie ministerijų steigėjo funkcijų. Vyriausybė gali pavesti atitinkamai
-ministerijai vykdyti dalį Vyriausybės įstaigos steigėjo funkcijų;
+prie ministerijų steigėjo funkcijų. Vyriausybė gali pavesti atitinkamai ministerijai
+vykdyti dalį Vyriausybės įstaigos steigėjo funkcijų;
 9) tvirtina
 ministerijų, Vyriausybės įstaigų, įstaigų prie ministerijų nuostatus ir
 Vyriausybės atstovo tarnybos veiklos nuostatus; tvirtinti įstaigų prie
@@ -602,12 +629,21 @@ Pirmininkas:
 Vyriausybę ir teikia jos sudėtį tvirtinti Respublikos Prezidentui;
 2) teikia
 siūlymus Respublikos Prezidentui dėl ministrų skyrimo ir atleidimo;
+ 
+2 dalies 3 punkto redakcija iki 2009 m. rugsėjo 15 d.:
 3)
 Valstybės tarnybos įstatymo nustatyta tvarka priima į pareigas ir atleidžia iš
 jų Ministro Pirmininko politinio (asmeninio) pasitikėjimo valstybės
 tarnautojus, Vyriausybės kanclerį, Vyriausybės įstaigų (departamentų, kontrolės
 ar apskaitos funkcijas vykdančių tarnybų, agentūrų, inspekcijų ir kitų įstaigų)
 vadovus, kitus įstatymų nustatytus valstybės tarnautojus ir pareigūnus;
+2 dalies 3 punkto redakcija nuo 2009 m. rugsėjo 15 d.:
+3) Valstybės tarnybos
+įstatymo nustatyta tvarka priima į pareigas ir atleidžia iš jų Ministro
+Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojus, Vyriausybės įstaigų (departamentų, kontrolės ar
+apskaitos funkcijas vykdančių tarnybų, agentūrų, inspekcijų ir kitų įstaigų) vadovus, kitus įstatymų nustatytus
+valstybės tarnautojus ir pareigūnus;
+ 
 4)
 skiria Ministro Pirmininko priimtiems į pareigas valstybės tarnautojams ir
 pareigūnams tarnybines ar drausmines nuobaudas, skatina
@@ -651,6 +687,8 @@ Nr. IX-842,
 2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
 Nr. X-1182,
 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
+Nr. XI-319,
+2009-07-07, Žin., 2009, Nr. 85-3576 (2009-07-18)
  
 25 straipsnis. Ministro, einančio Ministro
 Pirmininko pareigas ar pavaduojančio 
@@ -727,47 +765,23 @@ užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių
 aprašymus;
 11)
 koordinuoja ir kontroliuoja ministerijos administracijos padalinių veiklą;
- 
-3 dalies 12 punkto redakcija iki 2009 m. liepos 1 d.:
-12)
-koordinuoja ir kontroliuoja įstaigų prie ministerijos veiklą, jei šių funkcijų
-nepaveda ministerijos valstybės sekretoriui ir ministerijos sekretoriams ir jei
-įstatymai nenustato kitaip;
-3 dalies 12 punkto redakcija nuo 2009 m. liepos 1 d.:
 12)
 koordinuoja ir kontroliuoja įstaigų prie ministerijos veiklą, jei šių funkcijų
 nepaveda viceministrams ir ministerijos kancleriui ir jei įstatymai nenustato
 kitaip; 
- 
-3 dalies 13 punkto redakcija iki 2009 m. liepos 1 d.:
-13)
-įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš jų ministerijos
-valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis ir
-gaunančius darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų,
-juos skatina, skiria jiems tarnybines ar drausmines nuobaudas ir pašalpas arba
-šias funkcijas gali pavesti vykdyti ministerijos valstybės sekretoriui;
-3 dalies 13 punkto redakcija nuo 2009 m. liepos 1 d.:
 13)
 įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš jų ministerijos
 valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis ir
 gaunančius darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų,
 juos skatina, skiria jiems tarnybines ar drausmines nuobaudas ir pašalpas arba
 šias funkcijas gali pavesti vykdyti ministerijos kancleriui;
- 
 14)
 įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš jų įstaigų prie
 ministerijos vadovus, juos skatina ir skiria jiems tarnybines ar drausmines
 nuobaudas ir pašalpas, jei įstatymai nenustato kitaip;
- 
-3 dalies 15 punkto redakcija iki 2009 m. liepos 1 d.:
-15) nustato
-ministerijos valstybės sekretoriaus, ministerijos sekretorių administravimo
-sritis;
-3 dalies 15 punkto redakcija nuo 2009 m. liepos 1 d.:
 15) nustato
 viceministrų veiklos, ministerijos kanclerio
 administravimo sritis;
- 
 16) atlieka
 kitas įstatymų ir Vyriausybės nutarimų pavestas funkcijas.
 4. Ministras,
@@ -783,8 +797,8 @@ Nr. IX-842,
 Nr. IX-1293,
 2003-01-14, Žin., 2003, Nr. 10-342 (2003-01-29)
 Nr.
-X-500, 2006-01-19,
-Žin., 2006, Nr. 17-596 (2006-02-11)
+X-500,
+2006-01-19, Žin., 2006, Nr. 17-596 (2006-02-11)
 Nr. X-1182,
 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
 Nr.
@@ -802,14 +816,27 @@ Vyriausybės patariamosios institucijos. Jų tikslas – teikti Vyriausybei
 siūlymus dėl jos veiklos prioritetų, politikos ir strategijos tam tikroje
 srityje pasirinkimo ir jų atitikties Valstybės ilgalaikės raidos strategijai,
 prireikus derinti ministrų pozicijas sprendžiant valstybės valdymo reikalus. 
+ 
+3 dalies redakcija iki 2009 m. rugsėjo 15 d.:
 3.
 Vyriausybės komitetai sudaromi iš Vyriausybės narių, Vyriausybės kanclerio ir
 Ministro Pirmininko vyriausiojo patarėjo. Sudarydama Vyriausybės komitetus,
 Vyriausybė nustato jų uždavinius, funkcijas, sudėtį, skiria pirmininką.
 Vyriausybės komitetų darbo organizavimo tvarką nustato Vyriausybės darbo
 reglamentas.
+3 dalies redakcija nuo 2009 m. rugsėjo 15 d.:
+3.
+Vyriausybės komitetai sudaromi iš Vyriausybės narių,
+Ministro Pirmininko kanclerio arba Ministro Pirmininko kanclerio pirmojo
+pavaduotojo. Sudarydama Vyriausybės komitetus, Vyriausybė
+nustato jų uždavinius, funkcijas, sudėtį, skiria pirmininką. Vyriausybės
+komitetų darbo organizavimo tvarką nustato Vyriausybės darbo
+reglamentas.
+ 
 4. Vyriausybės komisijos sudaromos Vyriausybės pavestoms
 užduotims atlikti.
+ 
+5 dalies redakcija iki 2009 m. rugsėjo 15 d.:
 5. Vyriausybės komisijos gali būti sudaromos iš valstybės ir
 savivaldybių institucijų ir įstaigų, asociacijų, mokslo ir studijų institucijų
 atstovų, nepriklausomų ekspertų, prireikus ir kitų asmenų. Savivaldybių
@@ -821,12 +848,27 @@ Ministrui Primininkui, ministrui, Vyriausybės kancleriui ar Vyriausybės
 įstaigos vadovui patvirtinti Vyriausybės komisijos personalinę sudėtį.
 Vyriausybės komisijų darbo organizavimo tvarką nustato Vyriausybės darbo
 reglamentas.
+5 dalies redakcija nuo 2009 m. rugsėjo 15 d.:
+5. Vyriausybės komisijos gali būti sudaromos iš
+valstybės ir savivaldybių institucijų ir įstaigų, asociacijų,
+mokslo ir studijų institucijų atstovų, nepriklausomų ekspertų, prireikus ir
+kitų asmenų. Savivaldybių institucijų ir įstaigų atstovai į Vyriausybės komisijas deleguojami savivaldybių tarybų, Seimo
+nariai ­– Seimo statuto, o Seimo kanceliarijos darbuotojai – teisės aktų
+nustatyta tvarka. Sudarydama Vyriausybės komisijas, Vyriausybė
+nustato jų užduotis, personalinę sudėtį. Vyriausybė gali pavesti Ministrui
+Pirmininkui, ministrui, Ministro Pirmininko kancleriui ar Vyriausybės
+įstaigos vadovui patvirtinti Vyriausybės
+komisijos personalinę sudėtį. Vyriausybės komisijų darbo
+organizavimo tvarką nustato Vyriausybės darbo reglamentas.
 Straipsnio pakeitimai:
 Nr. X-1182,
 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
 Nr.
 X-1726,
 2008-09-22, Žin., 2008, Nr. 117-4442 (2008-10-11)
+Nr. XI-319,
+2009-07-07, Žin., 2009, Nr. 85-3576 (2009-07-18)
+ 
  
 28
 straipsnis. Ministro Pirmininko sudaromos darbo grupės
@@ -868,7 +910,8 @@ ministerija;
 ministerija;
 4) Krašto
 apsaugos ministerija;
-5) Kultūros ministerija;
+5) Kultūros
+ministerija;
 6) Socialinės
 apsaugos ir darbo ministerija;
 7) Susisiekimo
@@ -883,8 +926,8 @@ ministerija;
 ministerija;
 12) Užsienio
 reikalų ministerija;
-13) Vidaus reikalų
-ministerija;
+13) Vidaus
+reikalų ministerija;
 14) Žemės ūkio
 ministerija.
 2. Ministerijas
@@ -905,14 +948,8 @@ aktais.
 yra biudžetinė įstaiga, finansuojama iš valstybės biudžeto.
 8. Ministerijos
 nuostatus tvirtina Vyriausybė.
- 
-9 dalies redakcija iki 2009 m. liepos 1 d.:
-9. Ministerija
-turi savo administraciją. Jai vadovauja ministerijos valstybės sekretorius.
-9 dalies redakcija nuo 2009 m. liepos 1 d.:
 9. Ministerija
 turi savo administraciją. Jai vadovauja ministerijos kancleris.
- 
 10. Ministerijos
 veikla organizuojama vadovaujantis ministro patvirtintais strateginiais veiklos
 planais, rengiamais vadovaujantis Vyriausybės patvirtinta Strateginio planavimo
@@ -956,8 +993,8 @@ valdytojas, veikla organizuojama vadovaujantis strateginiais veiklos planais.
 asignavimų valdytojas, veikla organizuojama vadovaujantis metiniais veiklos
 planais. Įstaigos prie ministerijos strateginius ar metinius veiklos planus
 tvirtina atitinkamas ministras. Tvirtinti įstaigos prie ministerijos metinius
-veiklos planus ministras gali pavesti įstaigos prie ministerijos vadovui. Įstaigos
-prie ministerijos strateginiai ar metiniai veiklos planai rengiami
+veiklos planus ministras gali pavesti įstaigos prie ministerijos vadovui.
+Įstaigos prie ministerijos strateginiai ar metiniai veiklos planai rengiami
 vadovaujantis Vyriausybės patvirtinta Strateginio planavimo metodika ir
 skelbiami šios įstaigos arba atitinkamos ministerijos interneto tinklalapyje.
 Straipsnio pakeitimai:
@@ -981,24 +1018,6 @@ ministrui suformuoti politines nuostatas ir prioritetus, priimti sprendimus ir
 juos įgyvendinti.
 2. Viceministrų skaičių ministro teikimu tvirtina Vyriausybė.
 Ministerijoje negali būti daugiau negu keturi viceministrai.
- 
-3 dalies redakcija iki 2009 m. liepos 1 d.:
-3. Viceministrai
-ministro nustatytose veiklos srityse: 
-1)
-kontroliuoja, kaip vykdomi Ministro Pirmininko, Vyriausybės ir ministro
-pavedimai;
-2)
-kontroliuoja teisės aktų projektų rengimą ir derinimą su suinteresuotomis
-institucijomis; kontroliuoja, ar rengiami teisės aktų projektai atitinka
-Vyriausybės programos nuostatas; 
-3)
-ministro pavedimu atstovauja ministrui pristatydami ir aptardami ministro
-politines nuostatas bei sprendimus visuomenei, Seimo komitetuose, Vyriausybės
-posėdžiuose, Vyriausybės pasitarimuose;
-4)
-atlieka kitas ministro jiems pavestas funkcijas.
-3 dalies redakcija nuo 2009 m. liepos 1 d.:
 3. Viceministrai
 nustatytose veiklos srityse: 
 1)
@@ -1016,7 +1035,6 @@ politines nuostatas bei sprendimus visuomenei, Seimo komitetuose, Vyriausybės
 posėdžiuose ir pasitarimuose;
 5)
 atlieka kitas ministro jiems pavestas funkcijas.
- 
 4. Ministras
 savo įgaliojimų laikotarpiu gali turėti visuomeninių konsultantų, kurie
 ministro prašymu teikia jam konsultacijas, pasiūlymus, išvadas ir kitą
@@ -1031,77 +1049,6 @@ Nr. X-1182,
 Nr. XI-185,
 2009-03-10, Žin., 2009, Nr. 29-1139 (2009-03-17)
  
-311
-straipsnio redakcija iki 2009 m. liepos 1 d.:
-31(1)
-straipsnis. Ministerijos valstybės sekretorius ir ministerijos sekretoriai
-1. Ministerijos
-valstybės sekretorius yra karjeros valstybės tarnautojas, pavaldus ministrui.
-Užsienio reikalų ministerijos valstybės sekretoriumi gali būti ir diplomatas.
-2. Ministerijos
-valstybės sekretorius:
-1) koordinuoja
-ir kontroliuoja ministerijos administracijos padalinių veiklą, užtikrina, kad
-įgyvendinant ministerijos strateginius veiklos planus optimaliai būtų valdomi
-ir panaudojami finansiniai, materialiniai, intelektiniai ir informacijos
-ištekliai;
-2) kontroliuoja
-ministerijos administracinę ūkinę veiklą;
-3) organizuoja
-ir koordinuoja ministerijos strateginių veiklos planų rengimą ir jų
-įgyvendinimą;
-4) koordinuoja
-Ministro Pirmininko ir Vyriausybės pavedimų vykdymą, vadovaudamasis
-ministerijos strateginiais veiklos planais ir Vyriausybės programos
-įgyvendinimo priemonėmis, užtikrina ministerijos rengiamų sprendimų
-suderinamumą;
-5) koordinuoja
-ir kontroliuoja, kaip rengiami ir derinami teisės aktų projektai;
-6) organizuoja
-ministerijos nuostatų, ministerijos administracijos padalinių nuostatų,
-valstybės tarnautojų ir darbuotojų, dirbančių pagal
-darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės
-pinigų fondų, pareigybių sąrašo, pareigybių aprašymų ir ministro įsakymų
-projektų rengimą;
-7)
-ministro pavedimu įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš
-jų ministerijos valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo
-sutartis ir gaunančius darbo užmokestį iš valstybės biudžeto ir valstybės
-pinigų fondų, taip pat juos skatina, skiria jiems tarnybines ar drausmines
-nuobaudas ar pašalpas;
-8) atlieka kitas
-įstatymų, Vyriausybės nutarimų ir ministro pavestas funkcijas.
-3.
-Jeigu ministerijos valstybės sekretoriaus laikinai nėra, visas arba dalį jo
-funkcijų ministras paveda atlikti ministerijos sekretoriui. 
-4. Ministerijos
-valstybės sekretorius, o kai jo laikinai nėra, – ministerijos sekretorius,
-atliekantis ministerijos valstybės sekretoriaus funkcijas, pagal savo
-kompetenciją priima potvarkius. Ministerijos valstybės sekretorius saugo ministerijos antspaudą ir atsako už antspaudo
-naudojimą. Ministras saugoti ministerijos antspaudą gali įgalioti kitą
-ministerijos valstybės tarnautoją. Šiuo atveju už antspaudo naudojimą atsako
-ministro įgaliotas ministerijos valstybės tarnautojas.
-5. Ministerijos
-sekretoriai yra karjeros valstybės tarnautojai, tiesiogiai pavaldūs
-ministerijos valstybės sekretoriui ir atsakingi ministrui. Užsienio reikalų
-ministerijos sekretoriais gali būti ir diplomatai. 
-6. Jeigu ministerijos sekretoriaus laikinai nėra, jo funkcijas
-atlieka ministro paskirtas kitas ministerijos sekretorius arba įstatymų
-nustatyta tvarka laikinai į ministerijos sekretoriaus pareigas perkeltas
-ministerijos administracijos padalinio vadovas.
-7. Ministerijos
-sekretoriai ministro nustatytose administravimo srityse:
-1) organizuoja
-atitinkančių ministerijos strateginius tikslus ir Vyriausybės programos
-nuostatas teisės aktų projektų rengimą ir derinimą;
-2) organizuoja
-ir kontroliuoja, kaip vykdomi Ministro Pirmininko ir Vyriausybės, ministro ir
-ministerijos valstybės sekretoriaus pavedimai;
-3) atlieka kitas
-įstatymų, Vyriausybės nutarimų, ministro ar ministerijos valstybės sekretoriaus
-pavestas funkcijas.
-311
-straipsnio redakcija nuo 2009 m. liepos 1 d.:
 311
 straipsnis. Ministerijos kancleris 
 1. Ministerijos
@@ -1123,15 +1070,15 @@ organizuoja ir koordinuoja ministerijos strateginių veiklos planų rengimą ir 
 įgyvendinimą;
 4)
 dalyvauja organizuojant ir kontroliuojant Ministro Pirmininko ir Vyriausybės
-pavedimų vykdymą, teisės aktų projektų rengimą ir derinimą; vadovaudamasis
-ministerijos strateginiais veiklos planais ir Vyriausybės programos
-įgyvendinimo priemonėmis, užtikrina ministerijos rengiamų teisės aktų projektų
-ir kitų sprendimų suderinamumą;
+pavedimų vykdymą, teisės aktų projektų rengimą ir derinimą; vadovaudamasis ministerijos
+strateginiais veiklos planais ir Vyriausybės programos įgyvendinimo
+priemonėmis, užtikrina ministerijos rengiamų teisės aktų projektų ir kitų
+sprendimų suderinamumą;
 5)
-organizuoja ministerijos nuostatų, ministerijos administracijos padalinių
-nuostatų, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir
-gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų,
-pareigybių sąrašo, pareigybių aprašymų ir ministro įsakymų projektų rengimą;
+organizuoja ministerijos nuostatų, ministerijos administracijos padalinių nuostatų,
+valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių
+darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių
+sąrašo, pareigybių aprašymų ir ministro įsakymų projektų rengimą;
 6)
 ministro pavedimu įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš
 jų ministerijos valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo
@@ -1141,8 +1088,8 @@ nuobaudas ar pašalpas;
 7)
 atlieka kitas įstatymų, Vyriausybės nutarimų ir ministro pavestas funkcijas.
 3. Jeigu
-ministerijos kanclerio laikinai nėra, visas arba dalį jo funkcijų ministras paveda atlikti vienam iš ministerijos
-administracijos struktūrinio padalinio vadovų. 
+ministerijos kanclerio laikinai nėra, visas arba dalį jo funkcijų ministras paveda atlikti vienam iš ministerijos administracijos
+struktūrinio padalinio vadovų. 
 4. Ministerijos
 kancleris, o kai jo laikinai nėra, ministro paskirtas ministerijos
 administracijos struktūrinio padalinio vadovas pagal savo kompetenciją priima
@@ -1152,8 +1099,8 @@ kitą ministerijos valstybės tarnautoją. Šiuo atveju už antspaudo naudojimą
 atsako ministro įgaliotas ministerijos valstybės tarnautojas. 
 Įstatymas
 papildytas straipsniu:
-Nr. IX-842, 2002-04-16,
-Žin., 2002, Nr. 41-1527 (2002-04-19)
+Nr. IX-842,
+2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
 Straipsnio pakeitimai:
 Nr.
 IX-2521,
@@ -1165,19 +1112,11 @@ Nr. XI-185,
  
 32
 straipsnis. Ministerijų kolegijos
-1 dalies redakcija iki 2009 m. liepos 1 d.:
-1. Ministerijoje
-yra sudaroma kolegija kaip ministro patariamoji institucija. Kolegijos nariai
-yra ministras (kolegijos pirmininkas), viceministras, ministerijos valstybės
-sekretorius ir ministerijos sekretoriai. Į kolegijos sudėtį gali būti
-įtraukiami kiti ministerijos bei kitų institucijų atstovai.
-1 dalies redakcija nuo 2009 m. liepos 1 d.:
 1. Ministerijoje
 yra sudaroma kolegija kaip ministro patariamoji institucija. Kolegijos nariai
 yra ministras (kolegijos pirmininkas), viceministrai ir ministerijos kancleris.
 Į kolegijos sudėtį gali būti įtraukiami kiti ministerijos bei kitų institucijų
 atstovai.
- 
 2. Kolegijos
 narių skaičių nustato ir kolegijos personalinę sudėtį bei darbo reglamentą
 tvirtina ministras. Jis taip pat teikia klausimus kolegijai svarstyti.
@@ -1223,8 +1162,8 @@ tinklalapyje.
 Straipsnio pakeitimai:
 Nr. VIII-1980,
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
-Nr. IX-842, 2002-04-16,
-Žin., 2002, Nr. 41-1527 (2002-04-19)
+Nr. IX-842,
+2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
 Nr. X-1182,
 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
 Nr.
@@ -1255,11 +1194,11 @@ savivaldybės teritorijoje
 Vyriausybė valdymą apskrityje – Lietuvos Respublikos teritorijos aukštesniajame
 administraciniame vienete – organizuoja per apskrities viršininką, ministerijas
 ir Vyriausybės įstaigas.
-2.
-Vyriausybė nustato apskrities viršininko administracijos tipinę struktūrą,
-tvirtina jos tipinius nuostatus ir nustato didžiausią leistiną valstybės
-tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo
-užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių skaičių.
+2. Vyriausybė
+nustato apskrities viršininko administracijos tipinę struktūrą, tvirtina jos
+tipinius nuostatus ir nustato didžiausią leistiną valstybės tarnautojų ir
+darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš
+valstybės biudžeto ir valstybės pinigų fondų, pareigybių skaičių.
 3.
 Ar savivaldybės laikosi Lietuvos Respublikos Konstitucijos ir įstatymų, ar
 vykdo Vyriausybės nutarimus, prižiūri Vyriausybės atstovai.
@@ -1331,8 +1270,8 @@ teisės aktų projektai – ministro. Vyriausybės įstaigų vadovų teikiami te
 aktų projektai turi būti vizuoti Vyriausybės priskirto ministro, o apskričių
 viršininkų ir savivaldybių tarybų teikiami teisės aktų projektai turi būti
 vizuoti atitinkamos valdymo srities ministro.
-2. Vyriausybei
-teikiamas teisės akto projektas, susijęs ne tik su jį parengusios (teikiančios)
+2. Vyriausybei teikiamas
+teisės akto projektas, susijęs ne tik su jį parengusios (teikiančios)
 institucijos, bet ir su kitų institucijų valdymo sritimi ar kompetencija, turi
 būti suderintas Vyriausybės darbo reglamento nustatyta tvarka.
 Straipsnio pakeitimai:
@@ -1349,10 +1288,17 @@ būti svarstomi Vyriausybės komitete arba Vyriausybės pasitarime.
 2. Vyriausybės posėdyje svarstant teisės akto
 projektą, prieš tai aptartą Vyriausybės komitete, šio komiteto posėdžio
 pirmininkas informuoja apie komiteto narių susitarimus ar diskusijų išvadas. 
+ 
+3 dalies redakcija iki 2009 m. rugsėjo 15 d.:
 3.
 Teisės aktų projektų, kurių rengėjams nepavyko suderinti su suinteresuotomis
 institucijomis, derinimą prireikus organizuoja Vyriausybės kancleris
 Vyriausybės darbo reglamento nustatyta tvarka.
+3 dalies redakcija nuo 2009 m. rugsėjo 15 d.:
+3. Teisės aktų
+projektų, kurių rengėjams nepavyko suderinti su suinteresuotomis
+institucijomis, derinimą prireikus organizuoja Ministro Pirmininko
+kancleris Vyriausybės darbo reglamento nustatyta tvarka.
 Straipsnio pakeitimai:
 Nr. VIII-1980,
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
@@ -1360,6 +1306,9 @@ Nr. IX-461, 2001-07-12, Žin., 2001, Nr.
 66-2407 (2001-08-01)
 Nr. X-1182,
 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
+Nr. XI-319,
+2009-07-07, Žin., 2009, Nr. 85-3576 (2009-07-18)
+ 
  
 40 straipsnis. Vyriausybės posėdžių darbotvarkės
 sudarymo ir klausimų svarstymo 
@@ -1370,9 +1319,16 @@ Vyriausybės nutarimų ir kitų teisės aktų projektai, norminių teisės aktų
 koncepcijų projektai rengiami, derinami, svarstomi ir priimami arba įstatymų ar
 Seimo nutarimų projektams pritariama Vyriausybės darbo reglamento nustatyta
 tvarka.
+ 
+2 dalies redakcija iki 2009 m. rugsėjo 15 d.:
 2. Vyriausybės
 kancleris teikia Ministrui Pirmininkui siūlymus dėl Vyriausybės posėdžio
 darbotvarkės sudarymo.
+2 dalies redakcija nuo 2009 m. rugsėjo 15 d.:
+2. Ministro
+Pirmininko kancleris teikia Ministrui Pirmininkui siūlymus dėl Vyriausybės
+posėdžio darbotvarkės sudarymo.
+ 
 3. Ministras Pirmininkas turi
 teisę Vyriausybės posėdžio metu pasiūlyti į tvirtinamą darbotvarkę įtraukti ir
 naujų klausimų. Pasiūlyti Ministrui Pirmininkui įtraukti klausimą į darbotvarkę
@@ -1393,6 +1349,9 @@ Nr. IX-842,
 2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
 Nr. X-1182,
 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
+Nr. XI-319,
+2009-07-07, Žin., 2009, Nr. 85-3576 (2009-07-18)
+ 
  
 41
 straipsnis. Vyriausybės nutarimai
@@ -1423,8 +1382,8 @@ Nr. X-1182,
  
 41(1)
 straipsnis. Vyriausybės sprendimai ir Vyriausybės rezoliucijos
-1. Vyriausybės sprendimai ir Vyriausybės rezoliucijos priimami Vyriausybės
-pasitarime dalyvaujančių Vyriausybės narių balsų dauguma.
+1. Vyriausybės sprendimai ir Vyriausybės rezoliucijos priimami
+Vyriausybės pasitarime dalyvaujančių Vyriausybės narių balsų dauguma.
 2. Vyriausybės sprendimus ir Vyriausybės rezoliucijas
 pasirašo Ministras Pirmininkas Vyriausybės darbo reglamento nustatyta tvarka.
 3. Vyriausybė,
@@ -1475,23 +1434,49 @@ Nr. X-1182,
 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
  
 DEŠIMTASIS SKIRSNIS
-MINISTRO PIRMININKO POLITINIO
-(ASMENINIO) PASITIKĖJIMO VALSTYBĖS TARNAUTOJAI IR VYRIAUSYBĖS KANCELIARIJA
+Skirsnio
+pavadinimas iki 2009 m. rugsėjo 15 d.:
+MINISTRO PIRMININKO
+POLITINIO (ASMENINIO) PASITIKĖJIMO VALSTYBĖS TARNAUTOJAI IR VYRIAUSYBĖS
+KANCELIARIJA
+Skirsnio
+pavadinimas nuo 2009 m. rugsėjo 15 d.:
+MINISTRO PIRMININKO
+POLITINIO (ASMENINIO) PASITIKĖJIMO VALSTYBĖS TARNAUTOJAI IR MINISTRO PIRMININKO
+TARNYBA
 Skirsnio pavadinimas keistas:
 Nr. VIII-1980,
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 Nr. IX-842,
 2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
+Nr. XI-319,
+2009-07-07, Žin., 2009, Nr. 85-3576 (2009-07-18)
  
 44 straipsnis.
 Ministro Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojai ir
 visuomeniniai konsultantai
+ 
+1
+dalies redakcija iki 2009 m. rugsėjo 15 d.:
 1. Ministro
 Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojai – Ministro
 Pirmininko vyriausiasis patarėjas, Ministro Pirmininko patarėjai, Ministro
 Pirmininko atstovas spaudai ir kiti Ministro Pirmininko politinio (asmeninio)
 pasitikėjimo valstybės tarnautojai – padeda Ministrui Pirmininkui suformuoti
 politines nuostatas ir prioritetus, priimti bei įgyvendinti sprendimus. 
+1
+dalies redakcija nuo 2009 m. rugsėjo 15 d.:
+1. Ministro
+Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojai – Ministro
+Pirmininko kancleris, Ministro Pirmininko kanclerio pirmasis pavaduotojas,
+Ministro Pirmininko tarnybos departamentų direktoriai, Ministro Pirmininko
+patarėjai, Ministro Pirmininko atstovas spaudai ir kiti Ministro Pirmininko
+politinio (asmeninio) pasitikėjimo valstybės tarnautojai padeda Ministrui
+Pirmininkui suformuoti politines nuostatas ir prioritetus, priimti ir
+įgyvendinti sprendimus.
+ 
+2
+dalies redakcija iki 2009 m. rugsėjo 15 d.:
 2. Ministro
 Pirmininko vyriausiasis patarėjas:
 1) koordinuoja
@@ -1502,6 +1487,15 @@ Pirmininko pavedimu atstovauja Ministrui Pirmininkui pristatydamas Ministro
 Pirmininko sprendimus;
 3) atlieka kitas
 Ministro Pirmininko jam pavestas funkcijas.
+2
+dalies redakcija nuo 2009 m. rugsėjo 15 d.:
+2. Ministro
+Pirmininko kanclerio pirmasis pavaduotojas, Ministro Pirmininko tarnybos
+departamentų direktoriai, Ministro Pirmininko patarėjai, Ministro Pirmininko
+atstovas spaudai ir kiti Ministro Pirmininko politinio (asmeninio) pasitikėjimo
+valstybės tarnautojai yra pavaldūs Ministrui Pirmininkui ir atskaitingi Ministro
+Pirmininko kancleriui.
+ 
 3. Ministras
 Pirmininkas savo įgaliojimų laikotarpiu gali turėti visuomeninių konsultantų,
 kurie Ministro Pirmininko prašymu teikia jam konsultacijas, pasiūlymus, išvadas
@@ -1513,7 +1507,11 @@ Nr. IX-842,
 2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
 Nr. X-1182,
 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
+Nr. XI-319,
+2009-07-07, Žin., 2009, Nr. 85-3576 (2009-07-18)
  
+Straipsnio
+redakcija iki 2009 m. rugsėjo 15 d.:
 44(1)
 straipsnis. Vyriausybės kanceliarija
 1. Vyriausybės
@@ -1523,8 +1521,23 @@ vadovauja Vyriausybės kancleris.
 2. Vyriausybės
 kanceliarijos nuostatus tvirtina Vyriausybė.
 3. Vyriausybės
-kanceliarijos karjeros valstybės tarnautojai yra pavaldūs Vyriausybės
-kancleriui.
+kanceliarijos karjeros valstybės tarnautojai yra pavaldūs Vyriausybės kancleriui.
+Straipsnio
+redakcija nuo 2009 m. rugsėjo 15 d.:
+441
+straipsnis. Ministro Pirmininko tarnyba
+1. Ministro
+Pirmininko tarnyba yra Vyriausybės įsteigta biudžetinė įstaiga, padedanti
+vykdyti Ministro Pirmininko ir Vyriausybės funkcijas. Ministro Pirmininko
+tarnybai vadovauja Ministro Pirmininko kancleris. 
+2. Ministro
+Pirmininko tarnybos nuostatus tvirtina Vyriausybė.
+3. Ministro
+Pirmininko kancleris turi du pavaduotojus: Ministro Pirmininko kanclerio
+pirmasis pavaduotojas yra politinio (asmeninio) pasitikėjimo valstybės
+tarnautojas; Ministro Pirmininko kanclerio pavaduotojas yra karjeros valstybės
+tarnautojas. Ministro Pirmininko kanclerio pavaduotojas yra pavaldus Ministro
+Pirmininko kancleriui ir atskaitingas Ministrui Pirmininkui.
 Įstatymas
 papildytas straipsniu:
 Nr. IX-842,
@@ -1532,11 +1545,16 @@ Nr. IX-842,
 Straipsnio pakeitimai:
 Nr. X-1182,
 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
+Nr. XI-319,
+2009-07-07, Žin., 2009, Nr. 85-3576 (2009-07-18)
  
+Straipsnio
+redakcija iki 2009 m. rugsėjo 15 d.:
 45
 straipsnis. Vyriausybės kancleris
 1. Vyriausybės
-kancleris yra Vyriausybės kanceliarijos vadovas, pavaldus Ministrui Pirmininkui.
+kancleris yra Vyriausybės kanceliarijos vadovas, pavaldus Ministrui
+Pirmininkui.
 2.
 Vyriausybės kancleris:
 1)
@@ -1555,8 +1573,8 @@ ir Vyriausybės rezoliucijos;
 4) koordinuoja Europos Sąjungos teisės perkėlimą į
 nacionalinę teisę ir jos įgyvendinimą;
 5) pagal savo kompetenciją
-koordinuoja Lietuvos Respublikos pozicijų Europos Sąjungos institucijose
-svarstomais klausimais rengimą;
+koordinuoja Lietuvos Respublikos pozicijų Europos Sąjungos institucijose svarstomais
+klausimais rengimą;
 6) užtikrina Europos Sąjungos
 dokumentų (taip pat ir siunčiamų elektroniniu paštu) gavimą, registravimą,
 kaupimą ir paskirstymą atitinkamoms valstybės institucijoms ir įstaigoms;
@@ -1579,17 +1597,79 @@ pinigų fondų, juos skatina, skiria jiems tarnybines ar drausmines nuobaudas ar
 pašalpas, tvirtina jų pareigybių aprašymus;
 10) saugo
 Vyriausybės antspaudą ir atsako už antspaudo naudojimą;
- 
-2 dalies 11 punkto redakcija iki 2009 m. liepos 1 d.:
-11) Vyriausybės
-darbo reglamento nustatyta tvarka gali organizuoti ministerijų valstybės
-sekretorių pasitarimus;
-2 dalies 11 punkto redakcija nuo 2009 m. liepos 1 d.:
 11) Vyriausybės
 darbo reglamento nustatyta tvarka gali organizuoti ministerijų atstovų (viceministrų, ministerijų kanclerių) pasitarimus;
- 
 12) atlieka
 kitas įstatymų, Vyriausybės nutarimų ir Ministro Pirmininko pavestas funkcijas.
+Straipsnio
+redakcija nuo 2009 m. rugsėjo 15 d.:
+45
+straipsnis. Ministro Pirmininko kancleris
+1.
+Ministro Pirmininko kancleris yra Ministro Pirmininko tarnybos vadovas,
+pavaldus Ministrui Pirmininkui. Ministro Pirmininko kancleris yra politinio
+(asmeninio) pasitikėjimo valstybės tarnautojas, kurį priima į pareigas ir
+atleidžia iš jų Ministras Pirmininkas.
+2.
+Ministro Pirmininko kancleris:
+1)
+kartu su Ministro Pirmininko kanclerio pirmuoju pavaduotoju, Ministro
+Pirmininko tarnybos departamentų direktoriais, Ministro Pirmininko patarėjais
+ir kitais Ministro Pirmininko politinio (asmeninio) pasitikėjimo valstybės
+tarnautojais padeda Ministrui Pirmininkui įgyvendinti Vyriausybės programos
+nuostatas, dalyvauja formuojant ir įgyvendinant Ministro Pirmininko politines
+nuostatas ir prioritetus, sprendimus; 
+2)
+vykdo Ministro Pirmininko pavedimus, įgyvendinant Vyriausybės vykdomas viešojo
+valdymo reformas;
+3)
+padeda Vyriausybei koordinuoti ministerijų ir kitų valstybės institucijų veiklą
+įgyvendinant Vyriausybės programos įgyvendinimo priemones ir sprendžiant kitus
+krašto reikalus; 
+4)
+padeda Ministrui Pirmininkui koordinuoti strateginių Europos Sąjungos politikos
+klausimų įgyvendinimą; 
+5)
+kartu su Ministro Pirmininko kanclerio pavaduotoju organizuoja Vyriausybės
+posėdžių rengimą, dalyvauja juose ir užtikrina, kad būtų rašomi posėdžių
+protokolai, priimami ir įstatymų nustatyta tvarka skelbiami Vyriausybės
+nutarimai, Ministro Pirmininko potvarkiai, Vyriausybės sprendimai ir
+Vyriausybės rezoliucijos;
+6)
+Vyriausybės darbo reglamento nustatyta tvarka prireikus organizuoja Vyriausybei
+ir Ministrui Pirmininkui teikiamų teisės aktų projektų, kurių rengėjams
+nepavyko suderinti su suinteresuotomis institucijomis, derinimą;
+7)
+užtikrina Europos Sąjungos dokumentų (taip pat ir siunčiamų elektroniniu paštu)
+gavimą, registravimą, kaupimą ir paskirstymą atitinkamoms valstybės
+institucijoms ir įstaigoms;
+8)
+pritarus Ministrui Pirmininkui tvirtina Ministro Pirmininko tarnybos struktūrą
+ir šios tarnybos padalinių nuostatus, valstybės tarnautojų ir darbuotojų,
+dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės
+biudžeto ir valstybės pinigų fondų, pareigybių sąrašą, neviršydamas darbo
+užmokesčiui nustatytų lėšų ir Ministro Pirmininko tarnybai Vyriausybės
+patvirtinto didžiausio leistino valstybės tarnautojų ir darbuotojų, dirbančių
+pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir
+valstybės pinigų fondų, pareigybių skaičiaus;
+9)
+įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš jų Ministro
+Pirmininko tarnybos karjeros valstybės tarnautojus ir darbuotojus, dirbančius
+pagal darbo sutartis ir gaunančius darbo užmokestį iš valstybės biudžeto ir
+valstybės pinigų fondų, juos skatina, skiria jiems tarnybines ar drausmines
+nuobaudas ir pašalpas, tvirtina jų pareigybių aprašymus, Ministro Pirmininko
+pavedimu priima į pareigas ir atleidžia iš jų Ministro Pirmininko politinio
+(asmeninio) pasitikėjimo valstybės tarnautojus, juos
+skatina, skiria jiems tarnybines ar drausmines nuobaudas ir pašalpas, tvirtina
+jų pareigybių aprašymus;
+10)
+saugo Vyriausybės antspaudą ir atsako už antspaudo naudojimą;
+11)
+Vyriausybės darbo reglamento nustatyta tvarka gali organizuoti ministerijų
+atstovų (viceministrų, ministerijų kanclerių) pasitarimus;
+12)
+atlieka kitas įstatymų, Vyriausybės nutarimų ir Ministro Pirmininko pavestas
+funkcijas.
 Straipsnio pakeitimai:
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 1999 11 23, Žin., 1999, Nr. 101-2916 (1999 11 26)
@@ -1606,15 +1686,29 @@ Nr. X-1182,
 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
 Nr. XI-185,
 2009-03-10, Žin., 2009, Nr. 29-1139 (2009-03-17)
+Nr. XI-319,
+2009-07-07, Žin., 2009, Nr. 85-3576 (2009-07-18)
  
 46
 straipsnis. Vyriausybės dokumentų saugojimo tvarka 
+ 
+1
+dalies redakcija iki 2009 m. rugsėjo 15 d.:
 1. Vyriausybės kanceliarijoje saugomi Lietuvos
 Respublikos įstatymai, Seimo nutarimai, Respublikos Prezidento dekretai,
 Konstitucinio Teismo nutarimai, sprendimai ir išvados, Vyriausybės nutarimų,
 Vyriausybės sprendimų, Vyriausybės rezoliucijų ir Ministro Pirmininko potvarkių
 projektai ir originalai, taip pat Vyriausybės posėdžių ir Vyriausybės
 pasitarimų protokolai.
+1
+dalies redakcija nuo 2009 m. rugsėjo 15 d.:
+1. Ministro
+Pirmininko tarnyboje saugomi Lietuvos Respublikos įstatymai,
+Seimo nutarimai, Respublikos Prezidento dekretai, Konstitucinio Teismo
+nutarimai, sprendimai ir išvados, Vyriausybės nutarimų, Vyriausybės sprendimų, Vyriausybės rezoliucijų
+ir Ministro Pirmininko potvarkių projektai ir originalai, taip pat Vyriausybės posėdžių ir Vyriausybės pasitarimų
+protokolai.
+ 
 2. Vyriausybės
 nutarimų, Vyriausybės sprendimų, Vyriausybės rezoliucijų ir Ministro Pirmininko
 potvarkių vertimas į užsienio kalbas ir vertimo autentiškumas užtikrinamas
@@ -1622,6 +1716,8 @@ Vyriausybės nustatyta tvarka.
 Straipsnio pakeitimai:
 Nr. X-1182,
 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
+Nr. XI-319,
+2009-07-07, Žin., 2009, Nr. 85-3576 (2009-07-18)
  
  
 Įstatymas
@@ -1668,8 +1764,8 @@ Respublikos Prezidento kompetencija.
 rengti Lietuvos Respublikos poziciją dėl pasiūlymo priimti Europos
 Sąjungos teisės aktą ar dėl kito Europos Sąjungos dokumento tų sričių, kurios
 pagal Lietuvos Respublikos Konstituciją susijusios su Seimo ar Respublikos
-Prezidento kompetencija, Vyriausybė nedelsdama informuoja Seimą ar Respublikos
-Prezidentą, pateikdama Vyriausybės suformuotą Lietuvos Respublikos poziciją.
+Prezidento kompetencija, Vyriausybė nedelsdama informuoja Seimą ar Respublikos Prezidentą,
+pateikdama Vyriausybės suformuotą Lietuvos Respublikos poziciją.
  
 49 straipsnis. Vyriausybės pareiga
 konsultuotis su Seimu rengiant, derinant ir pristatant Lietuvos Respublikos
@@ -1690,8 +1786,7 @@ teisės aktą ar dėl kito Europos Sąjungos dokumento pristato Ministras
 Pirmininkas arba atitinkamas ministras Seimo plenariniame posėdyje, Seimo
 Europos reikalų komitete arba Užsienio reikalų komitete. Išimtiniais atvejais
 atitinkamas ministras gali pavesti pristatyti poziciją dėl pasiūlymo priimti
-Europos Sąjungos teisės aktą ar dėl kito Europos Sąjungos dokumento
-viceministrui.
+Europos Sąjungos teisės aktą ar dėl kito Europos Sąjungos dokumento viceministrui.
 5. Vyriausybė įvertina Seimo ar jo komitetų teikiamas rekomendacijas ar
 nuomones ir teisės aktų nustatyta tvarka informuoja Seimą apie jų vykdymą.
  
@@ -1712,16 +1807,16 @@ perkeliami ir įgyvendinami Vyriausybės nustatyta tvarka.
 52 straipsnis. Pareigūnų ir patariamųjų institucijų narių,
 kuriuos į pareigas Europos Sąjungos institucijose teikia Lietuvos Respublika,
 kandidatūrų siūlymas
-1. Vyriausybė siūlo kandidatus į aukščiausius
-Europos Sąjungos pareigūnus. Jų skyrimą numato sutartys, kuriomis yra
-grindžiama Europos Sąjunga.
+1. Vyriausybė siūlo kandidatus į aukščiausius Europos
+Sąjungos pareigūnus. Jų skyrimą numato sutartys, kuriomis yra grindžiama
+Europos Sąjunga.
 2. Vyriausybė, Respublikos Prezidentui pritarus,
 siūlydama kandidatus į Europos Komisijos narius ir Audito Rūmų narius
 Seimo statuto nustatyta tvarka konsultuojasi su Seimu. 
 3. Vyriausybė, Respublikos Prezidentui
-pritarus, siūlydama kandidatus į Europos Bendrijų Teisingumo Teismo ir Pirmosios
-instancijos teismo teisėjus Seimo statuto nustatyta tvarka konsultuojasi su
-Seimu.
+pritarus, siūlydama kandidatus į Europos Bendrijų Teisingumo Teismo ir
+Pirmosios instancijos teismo teisėjus Seimo statuto nustatyta tvarka
+konsultuojasi su Seimu.
 4. Vyriausybė,
 siūlydama kandidatus į Regionų komiteto narius, teisės aktų nustatyta tvarka
 konsultuojasi su Lietuvos savivaldybių asociacija.
@@ -1937,8 +2032,8 @@ VYRIAUSYBĖS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-1182, 2007-06-14,
-Žin., 2007, Nr. 72-2831 (2007-06-30)
+X-1182,
+2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
 VYRIAUSYBĖS
 ĮSTATYMO 9, 13, 14, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 31(1), 33, 34, 35,
 37, 38, 39, 40, 41, 42, 43, 44, 44(1), 45, 46 STRAIPSNIŲ IR KETVIRTOJO SKIRSNIO
@@ -2009,6 +2104,18 @@ XI-218,
 VYRIAUSYBĖS
 ĮSTATYMO 13 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+30.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-319,
+2009-07-07, Žin., 2009, Nr. 85-3576 (2009-07-18)
+VYRIAUSYBĖS
+ĮSTATYMO 13, 24, 27, 39, 40, 44, 44(1), 45, 46 STRAIPSNIŲ IR DEŠIMTOJO SKIRSNIO
+PAVADINIMO PAKEITIMO ĮSTATYMAS
+Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2009 m. rugsėjo
+15 d.
+ 
 ***
 Pabaiga ***
  
@@ -2024,9 +2131,12 @@ STRAIPSNIO 1 PUNKTO, 24 STRAIPSNIO 2 DALIES 5 BEI 11 PUNKTŲ, 26 STRAIPSNIO 3
 DALIES 7 PUNKTO, 31 STRAIPSNIO 2, 4 DALIŲ IR 6 DALIES 2 PUNKTO, 37 STRAIPSNIO 4
 DALIES, 45 STRAIPSNIO 4 DALIES ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
+ 
 ***
 Pabaiga ***
+ 
+ 
 Redagavo
-Aušrinė Trapinskienė (2009-04-27)
+Vilija Tamaliūnienė (2009-07-20)
                  
-autrap@lrs.lt
+vitama@lrs.lt
