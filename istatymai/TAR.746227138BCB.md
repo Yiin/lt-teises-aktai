@@ -144,9 +144,7 @@ Nr. X-1631,
  
 4
 straipsnis. Švietimo įstaigų, mokslo ir studijų institucijų pareiga įgyvendinti
-moterų ir 
-vyrų
-lygias teises 
+moterų ir vyrų lygias teises 
 1. Švietimo ir mokslo įstaigos
 privalo užtikrinti moterims ir vyrams vienodas sąlygas:
 1) priimant į profesinio mokymo
@@ -190,8 +188,7 @@ Nr. X-1380,
 2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
  
 5(1) straipsnis. Moterų ir vyrų lygių
-galimybių įgyvendinimas vartotojų teisių apsaugos 
-srityje
+galimybių įgyvendinimas vartotojų teisių apsaugos srityje
 Prekių pardavėjas, gamintojas ar paslaugų teikėjas, įgyvendindamas
 moterų ir vyrų lygias teises, privalo:
 1) visiems vartotojams, nesvarbu, kokia
@@ -281,8 +278,8 @@ institucijų veiksmai pripažįstami pažeidžiančiais moterų ir vyrų lygias 
 jeigu dėl asmens lyties:
 1) taikomi skirtingi reikalavimai ir
 sąlygos priimant mokytis ar studijuoti, rengiant mokymo ir studijų programas,
-vertinant žinias, keliant kvalifikaciją, ugdant profesinius įgūdžius ar suteikiant
-praktinę darbo patirtį;
+vertinant žinias, keliant kvalifikaciją, ugdant profesinius įgūdžius ar
+suteikiant praktinę darbo patirtį;
 2) nustatomos skirtingos dėstomų dalykų
 pasirinkimo galimybės.
 Straipsnio pakeitimai:
@@ -290,9 +287,7 @@ Nr. X-1380,
 2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
  
 7(1) straipsnis. Moterų ir vyrų lygias
-teises pažeidžiantys prekių pardavėjo, gamintojo ar 
-paslaugų
-teikėjo veiksmai
+teises pažeidžiantys prekių pardavėjo, gamintojo ar paslaugų teikėjo veiksmai
 Prekių pardavėjo, gamintojo ar paslaugų
 teikėjo veiksmai pripažįstami pažeidžiantys moterų ir vyrų lygias teises, jeigu
 dėl asmens lyties:
@@ -423,10 +418,13 @@ Lygių galimybių kontrolieriaus kompetencija
 skundus dėl tiesioginės ar netiesioginės diskriminacijos, priekabiavimo ir
 seksualinio priekabiavimo ir teikia su tuo susijusias objektyvias ir nešališkas
 konsultacijas.
-2. Lygių galimybių kontrolierius teikia
-išvadas dėl šio įstatymo įgyvendinimo, taip pat pasiūlymus Lietuvos Respublikos
-valstybės ir savivaldybių institucijoms ir įstaigoms dėl teisės aktų
-tobulinimo ir lygių teisių įgyvendinimo politikos prioritetų.
+2. Lygių galimybių kontrolierius atlieka
+nepriklausomus tyrimus, susijusius su diskriminacijos atvejais, ir
+nepriklausomas diskriminacijos padėties apžvalgas, skelbia nepriklausomas
+ataskaitas, teikia išvadas ir rekomendacijas bet kokiais su diskriminacija
+susijusiais klausimais dėl šio įstatymo įgyvendinimo, taip pat pasiūlymus
+Lietuvos Respublikos valstybės ir savivaldybių institucijoms ir įstaigoms dėl
+teisės aktų tobulinimo ir lygių teisių įgyvendinimo politikos prioritetų.
 3. Lygių galimybių kontrolierius keičiasi
 turima informacija su analogiškas funkcijas atliekančiomis Europos Sąjungos
 įstaigomis.
@@ -437,8 +435,11 @@ Nr. X-304, 2005-07-05,
 Žin., 2005, Nr. 88-3281 (2005-07-21)
 Nr. X-1380,
 2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
-Nr. X-1631,
-2008-06-19, Žin., 2008, Nr. 75-2923 (2008-07-03)
+Nr. X-1631, 2008-06-19,
+Žin., 2008, Nr. 75-2923 (2008-07-03)
+Nr. XI-336,
+2009-07-14, Žin., 2009, Nr. 87-3665 (2009-07-23) 
+ 
  
 13 straipsnis.
 Lygių galimybių kontrolieriui keliami reikalavimai
@@ -805,7 +806,7 @@ Skelbiu šį Lietuvos Respublikos Seimo
 priimtą įstatymą.
  
  
-RESPUBLIKOS PREZIDENTAS                                                              VALDAS
+RESPUBLIKOS PREZIDENTAS                                         VALDAS
 ADAMKUS
  
 Lietuvos
@@ -971,11 +972,20 @@ X-1779,
 MOTERŲ
 IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 26 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+13.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-336,
+2009-07-14, Žin., 2009, Nr. 87-3665 (2009-07-23)
+MOTERŲ
+IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2008-11-18)
+Vilija Tamaliūnienė (2009-07-23)
                  
-autrap@lrs.lt
+vitama@lrs.lt
