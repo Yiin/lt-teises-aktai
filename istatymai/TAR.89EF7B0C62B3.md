@@ -675,6 +675,8 @@ dydį už mokyklos teikiamą neformalųjį švietimą (išskyrus priešmokyklin�
 nustato steigėjas. Mokestis mažinamas atsižvelgus į mokinių gabumus ir tėvų
 (globėjų, rūpintojų) socialinę padėtį.“
  
+28 straipsnio redakcija iki 2009 m.
+rugpjūčio 31 d.:
 28
 straipsnis. Įstatymo įgyvendinimas
 1. Mokytojas, įgijęs aukštąjį ar aukštesnįjį
@@ -697,14 +699,21 @@ valstybinių (išskyrus aukštųjų) ir savivaldybių mokyklų vadovais sudaryto
 terminuotos darbo sutartys, jeigu terminas nustatytas dėl mokyklos vadovo
 kadencijos, mokyklos vadovui raštiškai sutikus, nuo 2004 m. liepos 1 d. tampa
 neterminuotos.
+28 straipsnio redakcija nuo 2009 m.
+rugpjūčio 31 d.:
+28
+straipsnis. (negalioja).
 Straipsnio
 pakeitimai:
 Nr.
 X-1265,
 2007-07-04, Žin., 2007, Nr. 81-3323 (2007-07-21)
+Nr. XI-347,
+2009-07-15, Žin., 2009, Nr. 89-3803 (2009-07-28)
  
-Skelbiu šį Lietuvos
-Respublikos Seimo priimtą įstatymą.
+ 
+Skelbiu šį
+Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 LAIKINAI
@@ -729,11 +738,22 @@ Nr. X-1265,
 58, 59, 60, 61, 66, 69, 70, 71, 72 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO
 28 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-347,
+2009-07-15, Žin., 2009, Nr. 89-3803 (2009-07-28)
+ŠVIETIMO
+ĮSTATYMO 7, 8, 10, 11, 15, 16, 29, 37, 38, 41, 42, 43, 44, 48, 49, 50, 51, 56,
+58, 59, 60, 61, 66, 69, 70, 71, 72 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO
+28 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
-Redagavo:
-Aušra Bodin (2007-07-24)
+Redagavo
+Vilija Tamaliūnienė (2009-07-29)
                  
-ausra.bodin@lrs.lt
+vitama@lrs.lt
