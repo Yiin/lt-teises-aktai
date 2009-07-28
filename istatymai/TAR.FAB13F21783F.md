@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FAB13F21783F"
 
 # Lietuvos Respublikos individualių įmonių įstatymas
 
+Suvestinė redakcija nuo 2009-07-28 iki 2010-01-04
+ 
+Įstatymas paskelbtas: Žin. 2003, Nr. 112-4991, i. k. 1031010ISTA0IX-1805
+ 
 LIETUVOS RESPUBLIKOS INDIVIDUALIŲ ĮMONIŲ ĮSTATYMAS
  
 2003 m. lapkričio 6 d. Nr. IX-1805
@@ -124,7 +128,10 @@ Vilnius
 
 
 
-7) ar individuali įmonė sudaro finansinę atskaitomybę;
+7) ar individuali įmonė sudaro finansinių ataskaitų rinkinį; 
+Straipsnio punkto pakeitimai:
+Nr. XI-350, 2009-07-15, Žin., 2009, Nr. 89-3806 (2009-07-28), i. k. 1091010ISTA00XI-350
+ 
 
 
 
@@ -161,17 +168,33 @@ Vilnius
 
 
 
-5. Steigiamos individualios įmonės nuostatus pasirašo individualios įmonės steigėjas. Pakeistus individualios įmonės nuostatus pasirašo individualios įmonės savininkas. Steigiamos individualios įmonės nuostatus ir pakeistus individualios įmonės nuostatus pasirašiusio asmens parašo tikrumas notaro netvirtinamas.
+5. Individualios įmonės nuostatai gali būti sudaromi vadovaujantis individualios įmonės pavyzdiniais nuostatais. Individualios įmonės pavyzdinius nuostatus tvirtina Vyriausybė ar jos įgaliota institucija. 
+Papildyta straipsnio dalimi:
+Nr. XI-350, 2009-07-15, Žin., 2009, Nr. 89-3806 (2009-07-28), i. k. 1091010ISTA00XI-350
+ 
 
 
 
 
-6. Jeigu individualios įmonės nuostatai yra keičiami, kartu su teisės aktų nustatytais dokumentais juridinių asmenų registrui turi būti pateikti pakeisti individualios įmonės nuostatai ir individualios įmonės nuostatų pakeitimai.
+6. Steigiamos individualios įmonės nuostatus pasirašo individualios įmonės steigėjas. Pakeistus individualios įmonės nuostatus pasirašo individualios įmonės savininkas. Steigiamos individualios įmonės nuostatus ir pakeistus individualios įmonės nuostatus pasirašiusio asmens parašo tikrumas notaro netvirtinamas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-350, 2009-07-15, Žin., 2009, Nr. 89-3806 (2009-07-28), i. k. 1091010ISTA00XI-350
+ 
 
 
 
 
-7. Individualios įmonės nuostatai, taip pat pakeisti individualios įmonės nuostatai įsigalioja nuo jų įregistravimo juridinių asmenų registre.
+7. Jeigu individualios įmonės nuostatai yra keičiami, kartu su teisės aktų nustatytais dokumentais juridinių asmenų registrui turi būti pateikti pakeisti individualios įmonės nuostatai ir individualios įmonės nuostatų pakeitimai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-350, 2009-07-15, Žin., 2009, Nr. 89-3806 (2009-07-28), i. k. 1091010ISTA00XI-350
+ 
+
+
+
+
+8. Individualios įmonės nuostatai, taip pat pakeisti individualios įmonės nuostatai įsigalioja nuo jų įregistravimo juridinių asmenų registre.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-350, 2009-07-15, Žin., 2009, Nr. 89-3806 (2009-07-28), i. k. 1091010ISTA00XI-350
  
 
 
@@ -251,7 +274,10 @@ Be Civilinio kodekso 2.66 straipsnyje išvardytų duomenų, juridinių asmenų r
 
 
 
-3) tvirtinti metinę finansinę atskaitomybę, jeigu metinės finansinės atskaitomybės sudarymas yra nustatytas individualios įmonės nuostatuose ir individualios įmonės vadovu yra paskirtas kitas asmuo;
+3) tvirtinti metinių finansinių ataskaitų rinkinį, jeigu finansinių ataskaitų rinkinio sudarymas yra nustatytas individualios įmonės nuostatuose ir individualios įmonės vadovu yra paskirtas kitas asmuo; 
+Straipsnio punkto pakeitimai:
+Nr. XI-350, 2009-07-15, Žin., 2009, Nr. 89-3806 (2009-07-28), i. k. 1091010ISTA00XI-350
+ 
 
 
 
@@ -344,7 +370,9 @@ Be Civilinio kodekso 2.66 straipsnyje išvardytų duomenų, juridinių asmenų r
 
 
 
-5. Individualios įmonės vadovas vienvaldiškai veikia individualios įmonės vardu, jeigu individualios įmonės nuostatai nenustato kitaip, ir atsako už individualios įmonės veiklos organizavimą, dokumentų ir kitos informacijos apie individualios įmonės turtą bei veiklą saugojimą, metinės finansinės atskaitomybės sudarymą, jeigu individualios įmonės atskaitomybės sudarymas nustatytas individualios įmonės nuostatuose, individualios įmonės dokumentų ir duomenų pateikimą juridinių asmenų registrui. Individualios įmonės vadovas taip pat turi ir kitas Civiliniame kodekse, šiame ir kituose įstatymuose, individualios įmonės nuostatuose nustatytas teises ir pareigas.
+5. Individualios įmonės vadovas vienvaldiškai veikia individualios įmonės vardu, jeigu individualios įmonės nuostatai nenustato kitaip, ir atsako už individualios įmonės veiklos organizavimą, dokumentų ir kitos informacijos apie individualios įmonės turtą bei veiklą saugojimą, metinių finansinių ataskaitų rinkinio sudarymą, jeigu individualios įmonės finansinių ataskaitų rinkinio sudarymas nustatytas individualios įmonės nuostatuose, individualios įmonės dokumentų ir duomenų pateikimą juridinių asmenų registrui. Individualios įmonės vadovas taip pat turi ir kitas Civiliniame kodekse, šiame ir kituose įstatymuose, individualios įmonės nuostatuose nustatytas teises ir pareigas.
+Straipsnio dalies pakeitimai:
+Nr. XI-350, 2009-07-15, Žin., 2009, Nr. 89-3806 (2009-07-28), i. k. 1091010ISTA00XI-350
  
 
 
@@ -378,7 +406,10 @@ Be Civilinio kodekso 2.66 straipsnyje išvardytų duomenų, juridinių asmenų r
 
 
 
-9 straipsnis. Individualios įmonės buhalterinė apskaita ir finansinė atskaitomybė
+9 straipsnis. Individualios įmonės buhalterinė apskaita ir finansinių ataskaitų rinkinys 
+Pakeistas straipsnio pavadinimas:
+Nr. XI-350, 2009-07-15, Žin., 2009, Nr. 89-3806 (2009-07-28), i. k. 1091010ISTA00XI-350
+ 
 
 
 1. Individualios įmonės buhalterinė apskaita tvarkoma buhalterinę apskaitą reglamentuojančių teisės aktų nustatyta tvarka.
@@ -386,7 +417,9 @@ Be Civilinio kodekso 2.66 straipsnyje išvardytų duomenų, juridinių asmenų r
 
 
 
-2. Individuali įmonė įstatymų nustatyta tvarka sudaro finansinę atskaitomybę, jeigu tai yra nustatyta individualios įmonės nuostatuose. Pasibaigus individualios įmonės finansiniams metams, individualios įmonės metinė finansinė atskaitomybė ne vėliau kaip per tris mėnesius turi būti patvirtinta individualios įmonės savininko, išskyrus atvejus, kai savininkas vykdo individualios įmonės vadovo kompetencijai priskirtas funkcijas, ir pateikta juridinių asmenų registrui.
+2. Individuali įmonė įstatymų nustatyta tvarka sudaro finansinių ataskaitų rinkinį, jeigu tai yra nustatyta individualios įmonės nuostatuose. Pasibaigus individualios įmonės finansiniams metams, individualios įmonės metinių finansinių ataskaitų rinkinys ne vėliau kaip per tris mėnesius turi būti patvirtintas individualios įmonės savininko, išskyrus atvejus, kai savininkas vykdo individualios įmonės vadovo kompetencijai priskirtas funkcijas, ir pateiktas juridinių asmenų registrui.
+Straipsnio dalies pakeitimai:
+Nr. XI-350, 2009-07-15, Žin., 2009, Nr. 89-3806 (2009-07-28), i. k. 1091010ISTA00XI-350
  
 
 
@@ -443,7 +476,10 @@ Be Civilinio kodekso 2.66 straipsnyje išvardytų duomenų, juridinių asmenų r
 
 
 
-5. Individuali įmonė gali būti pertvarkoma į akcinę bendrovę arba uždarąją akcinę bendrovę, jeigu individualios įmonės turtas, atėmus visus individualios įmonės įsipareigojimus, yra ne mažesnis nei Akcinių bendrovių įstatyme akcinei bendrovei ar uždarajai akcinei bendrovei nustatytas minimalus įstatinio kapitalo dydis. Iki sprendimo pertvarkyti individualią įmonę į akcinę bendrovę arba uždarąją akcinę bendrovę priėmimo individualios įmonės turtas, perduodamas už bendrovės akcijas, turi būti įvertintas nepriklausomo turto vertintojo teisės aktų, reglamentuojančių turto vertinimą, nustatyta tvarka. Turto vertinimo ataskaita turi atitikti Akcinių bendrovių įstatymo nustatytus nepiniginio įnašo vertinimo ataskaitos reikalavimus ir ne vėliau kaip likus 10 dienų iki sprendimo pertvarkyti individualią įmonę priėmimo turi būti pateikta individualiai įmonei bei juridinių asmenų registrui. Sprendime pertvarkyti individualią įmonę į akcinę bendrovę ar uždarąją akcinę bendrovę, be kita ko, turi būti nurodyta po pertvarkymo veiksiančios akcinės bendrovės arba uždarosios akcinės bendrovės įstatinio kapitalo dydis, akcijų skaičius, akcijų nominali vertė. Pertvarkant individualią įmonę į akcinę bendrovę, be kitų šiame ir kituose įstatymuose nustatytų veiksmų, akcinės bendrovės akcijos turi būti įregistruotos Lietuvos Respublikos vertybinių popierių komisijoje vertybinių popierių rinką reglamentuojančių teisės aktų nustatyta tvarka ir išrinkta audito įmonė.
+5. Individuali įmonė pertvarkoma į akcinę bendrovę arba uždarąją akcinę bendrovę vadovaujantis Akcinių bendrovių įstatymo nuostatomis dėl kitos teisinės formos juridinio asmens pertvarkymo į bendrovę.
+Straipsnio dalies pakeitimai:
+Nr. XI-350, 2009-07-15, Žin., 2009, Nr. 89-3806 (2009-07-28), i. k. 1091010ISTA00XI-350
+ 
 
 
 
@@ -594,3 +630,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                 ROLANDAS PAKSAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-350, 2009-07-15, Žin., 2009, Nr. 89-3806 (2009-07-28), i. k. 1091010ISTA00XI-350
+Lietuvos Respublikos individualių įmonių įstatymo 4, 6, 7, 9, 11 straipsnių pakeitimo ir papildymo įstatymas
