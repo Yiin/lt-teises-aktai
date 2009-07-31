@@ -269,14 +269,17 @@ sutarčių sąlygas informuoja sistemos naudotojus ir vartotojus iš anksto, ne
 vėliau kaip prieš vieną mėnesį iki sutarčių sudarymo ar sutarčių sąlygų
 pakeitimo. Viešosios sutartys su buitiniais vartotojais turi būti sudaromos
 pagal abiem šalims privalomas standartines sąlygas.
-3. Vyriausybė ar
-jos įgaliota institucija, suderinusi su Nacionaline vartotojų teisių apsaugos
-taryba prie Teisingumo ministerijos, tvirtina dujų pirkimo–pardavimo sutarčių
-su buitiniais vartotojais standartines sąlygas.
+3. Vyriausybė ar jos įgaliota
+institucija, suderinusi su Valstybine vartotojų teisių apsaugos tarnyba,
+tvirtina dujų pirkimo–pardavimo sutarčių su buitiniais vartotojais standartines
+sąlygas.
 4. Draudžiama perduoti,
 skirstyti, tiekti ir vartoti dujas be sutarties arba nesilaikant sutarties
 sąlygų. Vartotojas ar sistemos naudotojas, neteisėtai vartojantis gamtines
 dujas, privalo atlyginti dujų įmonei padarytus nuostolius (žalą).
+Straipsnio pakeitimai:
+Nr. XI-353, 2009-07-17,
+Žin., 2009, Nr. 91-3913 (2009-07-31)
  
 7 straipsnis.
 Vartotojų apsauga
@@ -284,19 +287,19 @@ Vartotojų apsauga
 turi užtikrinti saugų dujų perdavimą, laikymą, skirstymą ir tiekimą
 vartotojams. Dujų įmonės, perduodamos, laikydamos, skirstydamos ir tiekdamos
 dujas vartotojams, privalo laikytis nustatytų kainų, nurodytų šio įstatymo 23
-straipsnio 1, 2 ir 3 dalyse.
-2. Vartotojai turi teisę reikalauti
-iš dujų įmonių kompensacijų, jeigu dujų įmonė neužtikrina dujų ir teikiamų
-paslaugų kokybės reikalavimų.
-3. Dujų įmonės informuoja
-vartotojus apie efektyvų dujų vartojimą, dujų įmonės teikiamas paslaugas,
-paslaugų teikimo sąlygas, dujų ir paslaugų kainas, prijungimo prie sistemų
-kainas bei sąlygas ir numatomus sutarčių sąlygų pakeitimus. Dujų įmonės ne
-vėliau kaip prieš vieną mėnesį iki sutarčių sąlygų ir kainų numatomų
-pasikeitimų tiesiogiai (raštu ar kitais būdais) informuoja vartotojus. Dujų įmonių
-informacija apie reguliuojamos veiklos sąnaudas, sistemų eksploatavimą,
-modernizavimą, plėtrą, investicijas į sistemos plėtrą, kainų ir tarifų
-struktūrą, paslaugų teikimo sąlygas yra vieša.
+straipsnio 1 ir 2 dalyse.
+2. Vartotojai turi teisę
+reikalauti iš dujų įmonių kompensacijų, jeigu dujų įmonė neužtikrina dujų ir
+teikiamų paslaugų kokybės reikalavimų.
+3. Dujų įmonės informuoja vartotojus
+apie efektyvų dujų vartojimą, dujų įmonės teikiamas paslaugas, paslaugų teikimo
+sąlygas, dujų ir paslaugų kainas, prijungimo prie sistemų kainas bei sąlygas ir
+numatomus sutarčių sąlygų pakeitimus. Dujų įmonės ne vėliau kaip prieš vieną
+mėnesį iki sutarčių sąlygų ir kainų numatomų pasikeitimų tiesiogiai (raštu ar
+kitais būdais) informuoja vartotojus. Dujų įmonių informacija apie
+reguliuojamos veiklos sąnaudas, sistemų eksploatavimą, modernizavimą, plėtrą,
+investicijas į sistemos plėtrą, kainų ir tarifų struktūrą, paslaugų teikimo
+sąlygas yra vieša.
 4. Dujų įmonės privalo pasiūlyti
 vartotojams du ar daugiau atsiskaitymo būdų. Atsiskaitymo būdą pasirenka
 vartotojas.
@@ -304,15 +307,15 @@ vartotojas.
 1) laisvai pasirinkti tiekimo
 įmonę. Buitiniai vartotojai turi teisę laisvai ir neatlygintinai pasirinkti
 tiekimo įmonę nuo 2007 m. liepos 1 d.;
-2) gauti iš dujų įmonių šią informaciją:
-dujų įmonės pavadinimas, buveinės adresas, kodas ir teisinė forma; teikiamos
-paslaugos ir jų teikimo sąlygos; dujų, paslaugų kainos ir pranešimų apie kainas
-pateikimo būdai; sutarčių terminai, jų sudarymo ir nutraukimo sąlygos;
-kompensacijų teikimo sąlygos; ginčų nagrinėjimo būdai;
+2) gauti iš dujų įmonių šią
+informaciją: dujų įmonės pavadinimas, buveinės adresas, kodas ir teisinė forma;
+teikiamos paslaugos ir jų teikimo sąlygos; dujų, paslaugų kainos ir pranešimų
+apie kainas pateikimo būdai; sutarčių terminai, jų sudarymo ir nutraukimo
+sąlygos; kompensacijų teikimo sąlygos; ginčų nagrinėjimo būdai;
 3) nutraukti sutartis, jei
-keičiamos sutarčių sąlygos ir jos vartotojams yra nepriimtinos. Buitiniai
-vartotojai turi teisę nutraukti sutartis vienašališkai ir neatlygintinai
-Civilinio kodekso 6.390 straipsnio 1 dalyje nustatytomis sąlygomis;
+keičiamos sutarčių sąlygos ir jos vartotojams yra nepriimtinos. Buitiniai vartotojai
+turi teisę nutraukti sutartis vienašališkai ir neatlygintinai Civilinio kodekso
+6.390 straipsnio 1 dalyje nustatytomis sąlygomis;
 4) gauti iš dujų įmonių
 pasiūlymus dėl atsiskaitymo būdų ir pasirinkti atsiskaitymo būdą.
 6. Dujų įmonė
@@ -332,6 +335,9 @@ Lietuvos Respublikos teritoriją.
 7. Vyriausybė ar jos įgaliota
 institucija nustato dujų įmonių teikiamų paslaugų kokybės reikalavimus ir turi
 teisę nustatyti vartotojų teisių apsaugos priemonių įgyvendinimo taisykles.
+Straipsnio pakeitimai:
+Nr. XI-353,
+2009-07-17, Žin., 2009, Nr. 91-3913 (2009-07-31)
  
 8
 straipsnis. Ilgalaikis planavimas, sistemų plėtra ir naujų vartotojų
@@ -346,16 +352,15 @@ sistemų plėtros planus su konkrečiu objektų sąrašu turi suderinti su Komis
 2. Įrengti ar
 plėtoti perdavimo, skirstymo sistemas operatoriaus licencijoje nurodytoje
 teritorijoje turi teisę tik licencijos turėtojas.
-3. Naujas perdavimo
-ar skirstymo sistemas naujoje dujofikuojamoje teritorijoje turi teisę įrengti
-juridiniai asmenys, įgiję šią teisę konkurso būdu. Sistemų
-operatoriai, prie kurių sistemų prijungiamos naujos dujų skirstymo sistemos,
-privalo prijungti šias sistemas. Sprendimą leisti įrengti naujas sistemas
-priima Komisija. Komisijos sprendimas leisti įrengti naujas perdavimo ar
-skirstymo sistemas yra privaloma sąlyga išduodant leidimą statyti šiuos
-objektus Statybos įstatymo nustatyta tvarka. Vyriausybė arba jos įgaliota
-institucija tvirtina naujų sistemų naujoje dujofikuojamoje teritorijoje
-įrengimo tvarkos taisykles.
+3. Naujas
+perdavimo ar skirstymo sistemas naujoje dujofikuojamoje teritorijoje turi teisę
+įrengti juridiniai asmenys, įgiję šią teisę konkurso būdu. Sistemų operatoriai, prie kurių sistemų prijungiamos
+naujos dujų skirstymo sistemos, privalo prijungti šias sistemas. Sprendimą
+leisti įrengti naujas sistemas priima Komisija. Komisijos sprendimas leisti
+įrengti naujas perdavimo ar skirstymo sistemas yra privaloma sąlyga išduodant
+leidimą statyti šiuos objektus Statybos įstatymo nustatyta tvarka. Vyriausybė
+arba jos įgaliota institucija tvirtina naujų sistemų naujoje dujofikuojamoje
+teritorijoje įrengimo tvarkos taisykles.
 4. Perdavimo ar
 skirstymo sistemų operatoriai licencijoje nurodytoje teritorijoje privalo
 prijungti naujų vartotojų sistemas prie savo sistemų pagal Vyriausybės ar jos
@@ -379,8 +384,8 @@ Laisvieji vartotojai turi teisę gauti dujas iš dujų įmonių tiesioginiu
 vamzdynu, kai dujų įmonė atsisako suteikti teisę naudotis dujų sistema šio
 įstatymo 19 straipsnio 4 dalyje nustatytais atvejais. Dujų įmonei atsisakius
 suteikti teisę naudotis dujų sistema šio įstatymo 19 straipsnio 4 dalyje
-nustatytais atvejais, ginčą sprendžia Komisija. Sprendimą dėl tiesioginio
-vamzdyno įrengimo ir sąlygų priima Komisija. Komisijos priimti sprendimai dėl
+nustatytais atvejais, ginčą sprendžia Komisija. Sprendimą dėl tiesioginio vamzdyno
+įrengimo ir sąlygų priima Komisija. Komisijos priimti sprendimai dėl
 tiesioginių vamzdynų įrengimo yra privalomi vykdyti abiem šalims, jie turi būti
 pagrįsti, objektyvūs, skaidrūs ir nediskriminuojantys kitų vartotojų. Leidimai
 tiesioginiam vamzdynui įrengti neišduodami, jeigu nepanaudojami visi esami
@@ -412,11 +417,15 @@ sektoriuje licencijuojama ši veikla:
 4) skystinimo;
 5) tiekimo.
 3. Licencijas
-išduoda, sustabdo, panaikina ir licencijuojamą veiklą kontroliuoja Komisija.
-Licencijavimo taisykles tvirtina Vyriausybė. Perdavimo ir skirstymo licencijose
-nurodomos perdavimo ir skirstymo teritorijos, kuriose operatorius turi
-išskirtines veiklos vykdymo teises. Komisija teikia informaciją Europos
-Komisijai apie atsisakymo išduoti licencijas priežastis.
+išduoda, sustabdo jų galiojimą, galiojimo sustabdymą panaikina, panaikina jų
+galiojimą, keičia, tikslina rekvizitus, išduoda licencijos dublikatą ir
+licencijuojamą veiklą kontroliuoja Komisija. Už licencijos išdavimą, jos
+pakeitimą, rekvizitų patikslinimą ar licencijos dublikato išdavimą mokama
+nustatyto dydžio valstybės rinkliava. Licencijavimo taisykles tvirtina
+Vyriausybė. Perdavimo ir skirstymo licencijose nurodomos perdavimo ir skirstymo
+teritorijos, kuriose operatorius turi išskirtines veiklos vykdymo teises.
+Komisija teikia informaciją Europos Komisijai apie atsisakymo išduoti
+licencijas priežastis.
 4. Komisija turi
 teisę įpareigoti dujų įmonę, turinčią tiekimo licenciją, vykdyti paskirtąjį
 tiekimą Vyriausybės nustatyta tvarka.
@@ -439,6 +448,9 @@ perėmimo ar turto išpirkimo taisykles.
 kurie eksploatuoja perdavimo, skystinimo, laikymo, skirstymo sistemas, privalo
 turėti Energetikos įstatymo nustatyta tvarka išduotą atestatą eksploatuoti dujų
 įrenginius.
+Straipsnio pakeitimai:
+Nr. XI-353,
+2009-07-17, Žin., 2009, Nr. 91-3913 (2009-07-31)
  
 11
 straipsnis. Dujų tranzitas
@@ -465,16 +477,16 @@ veiklos rūšių ir įsteigti dukterinę ar atskirą įmonę.
 3. Perdavimą, skystinimą,
 laikymą, skirstymą leidžiama vykdyti vienoje dujų įmonėje. Kita, su dujomis
 nesusijusi, veikla turi būti atskiriama įsteigiant dukterinę ar atskirą įmonę.
-Kitą, su dujomis nesusijusią, veiklą ir tiekimo veiklą leidžiama vykdyti vienoje
-dujų įmonėje.
+Kitą, su dujomis nesusijusią, veiklą ir tiekimo veiklą leidžiama vykdyti
+vienoje dujų įmonėje.
 4. Vadovaujantys
 perdavimo, laikymo, skirstymo ar skystinimo veiklai darbuotojai veikia
 savarankiškai ir negali dalyvauti integruotosios dujų įmonės valdyme.
 5. Sprendimus dėl turto, kuris
 reikalingas sistemai eksploatuoti, prižiūrėti ar plėtoti, panaudojimo priima
-perdavimo, laikymo, skirstymo ar SGD sistemos operatorius savarankiškai.
-Patronuojanti įmonė turi teisę sistemos operatoriams nustatyti metinį finansinį
-planą, metinę turto grąžos normą ir įskolos dydį. Šios nuostatos neturi prieštarauti
+perdavimo, laikymo, skirstymo ar SGD sistemos operatorius savarankiškai. Patronuojanti
+įmonė turi teisę sistemos operatoriams nustatyti metinį finansinį planą, metinę
+turto grąžos normą ir įskolos dydį. Šios nuostatos neturi prieštarauti
 Komisijos nustatytiems reguliuojamos dujų įmonių veiklos rodikliams.
 Patronuojanti įmonė negali duoti nurodymų sistemų operatoriams dėl sistemų
 operatorių veiklos bei sistemų valdymo. Perdavimo veiklai vykdyti
@@ -500,9 +512,9 @@ užtikrinimo ataskaitų turinį nustato Energetikos ministerija.
 2. Perdavimo ar skirstymo sistemų
 operatoriai, suderinę su Komisija, nustato sistemų balansavimo taisykles.
 Balansavimo taisyklėse nustatytos sistemų balansavimo sąlygos turi būti
-objektyvios, skaidrios ir nediskriminacinės. Sistemų balansavimo taisyklių
-reikalavimai privalomi vartotojams ir sistemos naudotojams, išskyrus buitinius
-vartotojus. Sistemų balansavimo taisyklės skelbiamos „Valstybės žinių“ priede
+objektyvios, skaidrios ir nediskriminacinės. Sistemų balansavimo taisyklių reikalavimai
+privalomi vartotojams ir sistemos naudotojams, išskyrus buitinius vartotojus.
+Sistemų balansavimo taisyklės skelbiamos „Valstybės žinių“ priede
 „Informaciniai pranešimai“.
 Straipsnio pakeitimai:
 Nr.
@@ -518,14 +530,18 @@ nustatytas išimtis.
 2. Vietinės bendrojo naudojimo
 sistemos savininkas (savininkai) privalo leisti naudotis sistema, prijungti
 kitų vartotojų sistemas ir užtikrinti saugią bei efektyvią sistemos veiklą.
-Komisija nustato naudojimosi vietine bendrojo naudojimo sistema taisykles,
-kurios turi būti skelbiamos viešai kiekvienais metais arba sąlygoms pasikeitus.
-Taisyklėse nustatytos naudojimosi vietine bendrojo naudojimosi sistema sąlygos
-turi būti objektyvios ir nediskriminacinės.
+Vyriausybė ar jos įgaliota institucija nustato naudojimosi vietine bendrojo
+naudojimo sistema taisykles, kurios turi būti skelbiamos viešai kiekvienais
+metais arba sąlygoms pasikeitus. Taisyklėse nustatytos naudojimosi vietine
+bendrojo naudojimosi sistema sąlygos turi būti objektyvios ir
+nediskriminacinės.
 3. Vietinės bendrojo naudojimo
 sistemos savininkas (savininkai) turi teisę šio įstatymo nustatyta tvarka pats
 vykdyti skirstymo veiklą arba privalo sudaryti sutartį su skirstymo licenciją
 turinčia dujų įmone.
+Straipsnio pakeitimai:
+Nr. XI-353,
+2009-07-17, Žin., 2009, Nr. 91-3913 (2009-07-31)
  
 15
 straipsnis. Informacijos konfidencialumas
@@ -545,8 +561,8 @@ teisę tiekimo įmonei tiekti dujas vartotojams ir dujų įmonėms.
 3. Paskirtasis tiekimas gali būti
 vykdomas buitiniams vartotojams ir vartotojams į tuos objektus, kurių energijos
 gamybos galia mažesnė kaip 5 MW ir kuriuose nėra kuro rezervinių atsargų.
-Laisvasis vartotojas turi teisę pasirinkti kitą nei paskirtąjį tiekimą
-vykdančią tiekimo įmonę.
+Laisvasis vartotojas turi teisę pasirinkti kitą nei paskirtąjį tiekimą vykdančią
+tiekimo įmonę.
 4. Paskirtoji
 tiekimo įmonė privalo sudaryti sutartis su sistemų operatoriais dėl dujų
 transportavimo ir yra atsakinga už dujų patiekimą iki vartotojų sistemų.
@@ -585,8 +601,8 @@ dujų veikla.
 3. Atskirų veiklos rūšių
 buhalterinė apskaita tvarkoma taip, kaip ji turėtų būti tvarkoma, jei šių rūšių
 veikla verstųsi atskiros įmonės su joms priskirtu turtu. Tvarkant buhalterinę
-apskaitą, parengiamos kiekvienos veiklos rūšies buhalterinio balanso, pelno (nuostolio)
-ataskaitos. Dujų įmonės šias ataskaitas skelbia viešai.
+apskaitą, parengiamos kiekvienos veiklos rūšies buhalterinio balanso, pelno
+(nuostolio) ataskaitos. Dujų įmonės šias ataskaitas skelbia viešai.
 4. Valstybės institucijos,
 įstatymų nustatyta tvarka atlikdamos joms pavestas įmonių veiklos kontrolės
 funkcijas, turi teisę susipažinti su dujų įmonių buhalterinės apskaitos
@@ -594,9 +610,9 @@ dokumentais, tačiau privalo saugoti dujų įmonės pateiktą konfidencialią
 informaciją.
 5. Dujų įmonių ataskaitos turi
 būti patikrintos nepriklausomo audito, atkreipiant dėmesį į diskriminavimo ir
-kryžminio subsidijavimo aspektus. Auditorių išvados teikiamos Komisijai. Metinėje
-dujų įmonės finansinėje atskaitomybėje turi būti pateikta informacija apie 1
-milijono litų ir didesnės apimties sandorius, sudarytus su susijusiomis
+kryžminio subsidijavimo aspektus. Auditorių išvados teikiamos Komisijai.
+Metinėje dujų įmonės finansinėje atskaitomybėje turi būti pateikta informacija
+apie 1 milijono litų ir didesnės apimties sandorius, sudarytus su susijusiomis
 įmonėmis.
  
 PENKTASIS SKIRSNIS
@@ -611,9 +627,9 @@ dujas tranzitu, suteikia teisę pagal sutartis naudotis sistema.
 2. Sistemų operatoriai, suderinę
 su Komisija, nustato naudojimosi sistema taisykles. Naudojimosi sistema
 taisykles sistemų operatoriai turi skelbti „Valstybės žinių“ priede
-„Informaciniai pranešimai“ kiekvienais metais arba, sąlygoms pasikeitus, ne
-vėliau kaip prieš mėnesį iki jų taikymo pradžios. Teisė naudotis sistemomis
-turi būti suteikiama objektyviai, nediskriminuojant sistemos naudotojų.
+„Informaciniai pranešimai“ kiekvienais metais arba, sąlygoms pasikeitus, ne vėliau
+kaip prieš mėnesį iki jų taikymo pradžios. Teisė naudotis sistemomis turi būti
+suteikiama objektyviai, nediskriminuojant sistemos naudotojų.
 3. Vartotojai turi teisę sudaryti naudojimosi
 sistema sutartis dėl tokio dujų kiekio, kurį sunaudoja jie patys.
  
@@ -623,13 +639,13 @@ straipsnis. Atsisakymas suteikti teisę naudotis sistema
 naudotis sistema, jeigu trūksta pajėgumo arba jeigu teisė naudotis sistema
 trukdytų jai vykdyti viešuosius interesus atitinkančius įpareigojimus, ar
 atsiranda didelių ekonominių ir finansinių sunkumų, susijusių su sudarytų
-sutarčių „imk arba mokėk“ vykdymu. Atsisakymo leisti naudotis sistema priežastys
-turi būti tinkamai pagrindžiamos. Atsisakymas, grindžiamas sutarčių „imk arba
-mokėk“ vykdymu, gali būti pripažintas tik gavus Komisijos pritarimą.
+sutarčių „imk arba mokėk“ vykdymu. Atsisakymo leisti naudotis sistema
+priežastys turi būti tinkamai pagrindžiamos. Atsisakymas, grindžiamas sutarčių
+„imk arba mokėk“ vykdymu, gali būti pripažintas tik gavus Komisijos pritarimą.
 2. Dujų įmonė, atsisakiusi
-patenkinti kitos dujų įmonės ar laisvojo vartotojo raštu pateiktą prašymą naudotis
-sistema dujoms transportuoti, apie šį savo sprendimą ir jo priežastis per 10
-darbo dienų praneša Komisijai. 
+patenkinti kitos dujų įmonės ar laisvojo vartotojo raštu pateiktą prašymą
+naudotis sistema dujoms transportuoti, apie šį savo sprendimą ir jo priežastis
+per 10 darbo dienų praneša Komisijai. 
 3. Komisija turi teisę įpareigoti
 dujų įmonę suteikti teisę pasinaudoti sistema.
 4. Dujų įmonė, atsisakiusi leisti
@@ -762,40 +778,65 @@ nurodytas kainas,
 Komisijai patikrinus, viešai paskelbia dujų įmonės.
 5. Reguliuojamų kainų nustatymo
 metodikose turi būti numatytos būtinos investicijos, užtikrinančios efektyvią,
-saugią sistemų veiklą, ir normatyvinis pelnas šiai veiklai užtikrinti. Dujų
-perdavimo ir skirstymo kainos nustatomos neatsižvelgiant į dujų transportavimo
-atstumą. Perdavimo sistemos naudotojai skirstomi į šias grupes: sistemos
-naudotojai, per metus į vieną dujų pristatymo vietą transportuojantys iki 1
-milijardo kubinių metrų dujų, ir sistemos naudotojai, per metus į vieną dujų
-pristatymo vietą transportuojantys daugiau kaip 1 milijardą kubinių metrų dujų.
-Vartotojams (sistemos naudotojams) dujų skirstymo kainos nustatomos
-atsižvelgiant į tai, kiek patiekta per metus dujų į konkrečią dujų pristatymo
-vietą. Buitiniams vartotojams perdavimo ar skirstymo sistemų balansavimo
-paslauga teikiama iš įmonės lėšų. Nebuitiniams vartotojams dujų perdavimo ir
-skirstymo kainos nustatomos ir diferencijuojamos pagal dujų kiekį ir galią.
-Buitiniams vartotojams dujų skirstymo kainos diferencijuojamos pagal dujų
-vartojimo kiekį. Dujų kiekio ir galios diferencijavimo principai nustatomi
-kainų nustatymo metodikose. Reguliuojamos kainos, jų diferencijavimas, siekiant
-išvengti kryžminio subsidijavimo, tarp vartotojų grupių turi būti vieši, o jų
-nustatymo principai – pagrįsti, objektyvūs, skaidrūs ir nediskriminuojantys.
+saugią sistemų veiklą, ir normatyvinis pelnas šiai veiklai užtikrinti. Nustatant
+(koreguojant) perdavimo, skirstymo, skystinimo ir laikymo kainų viršutines
+ribas, atsižvelgiama į dujų įmonės licencijuojamoje veikloje naudojamo turto
+vertę, kurią įvertina ir tvirtina Komisija, vadovaudamasi Komisijos parengtais
+ir Vyriausybės patvirtintais dujų įmonių licencijuojamoje veikloje naudojamo
+turto vertės nustatymo principais. Pelno prieš apmokestinimą norma, perdavimo,
+skirstymo, skystinimo ir laikymo veiklos rūšims skaičiuojama nuo dujų įmonės
+licencijuojamoje veikloje naudojamo turto vertės, kiekvienam reguliavimo
+periodui turi būti ne mažesnė kaip dešimties metų trukmės Vyriausybės
+vertybinių popierių aukcionų, įvykusių per praėjusius paskutinius 36
+kalendorinius mėnesius, metinės palūkanų normos procentais aritmetinis
+svertinis vidurkis, bet ne didesnis kaip 5 procentai. Dujų perdavimo ir
+skirstymo kainos nustatomos neatsižvelgiant į dujų transportavimo atstumą.
+Perdavimo sistemos naudotojai skirstomi į šias grupes: sistemos naudotojai, per
+metus į vieną dujų pristatymo vietą transportuojantys iki 1 milijardo kubinių
+metrų dujų, ir sistemos naudotojai, per metus į vieną dujų pristatymo vietą
+transportuojantys daugiau kaip 1 milijardą kubinių metrų dujų. Vartotojams
+(sistemos naudotojams) dujų skirstymo kainos nustatomos atsižvelgiant į tai,
+kiek patiekta per metus dujų į konkrečią dujų pristatymo vietą. Buitiniams
+vartotojams perdavimo ar skirstymo sistemų balansavimo paslauga teikiama iš
+įmonės lėšų. Nebuitiniams vartotojams dujų perdavimo ir skirstymo kainos
+nustatomos ir diferencijuojamos pagal dujų kiekį ir galią. Buitiniams
+vartotojams dujų skirstymo kainos diferencijuojamos pagal dujų vartojimo kiekį.
+Dujų kiekio ir galios diferencijavimo principai nustatomi kainų nustatymo
+metodikose. Reguliuojamos kainos, jų diferencijavimas, siekiant išvengti
+kryžminio subsidijavimo, tarp vartotojų grupių turi būti vieši, o jų nustatymo
+principai – pagrįsti, objektyvūs, skaidrūs ir nediskriminuojantys.
+5 dalis
+įsigalioja nuo 2009 m. rugpjūčio 1 d.
+ 
 6. Reguliuojamų kainų viršutinės
-ribos nustatomos penkeriems metams. Reguliuojamų kainų viršutinės ribos
-Komisijos sprendimu gali būti koreguojamos pasikeitus infliacijos lygiui,
-mokesčiams, dujų transportavimo kiekiui, teisės aktų reikalavimams ar dujų
-įmonėms viršijus nustatytus rodiklius, tačiau ne dažniau kaip kartą per metus.
-Reguliuojamų paslaugų kainos gali būti koreguojamos ne dažniau kaip kartą per
-metus.
+ribos nustatomos penkerių metų reguliavimo periodui. Reguliuojamų kainų
+viršutinės ribos Komisijos sprendimu gali būti koreguojamos pasikeitus
+infliacijos lygiui, importuojamų (atgabenamų) dujų kainoms, mokesčiams, dujų
+kiekiui, teisės aktų reikalavimams, dujų įmonėms įgyvendinus su Komisija
+suderintas investicijas, dujų įmonėms nukrypus nuo Komisijos patvirtintose
+kainų viršutinių ribų skaičiavimo metodikose nustatytų rodiklių, tačiau
+ne dažniau kaip kartą per metus. Reguliuojamų paslaugų kainos gali būti
+koreguojamos ne dažniau kaip kartą per metus.
 7. Konkrečias
-perdavimo, skystinimo, laikymo, skirstymo, paskirtojo tiekimo kainas bei
-mokėjimo už dujas buitiniams vartotojams sumas, neviršijančias nustatytų kainų
-viršutinių ribų, kiekvienais metais nustato dujų įmonės. Komisija, patikrinusi
-ir nustačiusi, kad kainos apskaičiuotos nesilaikant metodikos arba yra
-klaidingos, privalo nurodyti dujų įmonėms jų klaidas. Dujų įmonės jas privalo
-per 15 dienų ištaisyti. Jei dujų įmonės nevykdo Komisijos reikalavimo, Komisija
-turi teisę vienašališkai nustatyti konkrečias reguliuojamas kainas.
-8. Šilumos tiekimo įmonėms,
-vartotojams tiekiančioms šilumą iš dviejų ar daugiau šaltinių, nustatoma viena,
-šio straipsnio 1 dalyje nurodyta, atitinkama reguliuojama kaina.
+perdavimo, skystinimo, laikymo, skirstymo, paskirtojo tiekimo kainas,
+neviršijančias nustatytų kainų viršutinių ribų, kiekvienais metais nustato dujų
+įmonės. Komisija, patikrinusi ir nustačiusi, kad kainos ir (ar) buitiniams
+vartotojams nustatyti tarifai apskaičiuoti nesilaikant kainų ir (ar) tarifų
+nustatymo reikalavimų, nustatytų kainų viršutinių ribų skaičiavimo metodikose,
+kad jos diskriminuoja vartotojus ir (ar) yra klaidingos, pateikia dujų įmonėms
+nurodymus dėl konkrečių kainų ir tarifų skaičiavimo. Dujų įmonės kainas ir (ar)
+tarifus privalo per 15 dienų pakoreguoti. Jei dujų įmonės nevykdo Komisijos
+reikalavimo, Komisija vienašališkai nustato konkrečias kainas ir (ar) tarifus.
+8. Dujų įmonės buitiniams
+vartotojams nustato tarifus kas pusę metų. Tarifą sudaro: prognozuojamų dujų
+(produkto), konkrečių perdavimo, skirstymo, laikymo, skystinimo, tiekimo kainų
+bei skirtumo tarp ankstesnio tarifų galiojimo laikotarpio prognozuotų ir
+faktinių dujų (produkto) kainų suma. Dujų įmonės konkrečius tarifus pateikia
+Komisijai, kuri šiuos tarifus tikrina ir priima sprendimus dėl jų šio
+straipsnio 7 dalyje nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. XI-353,
+2009-07-17, Žin., 2009, Nr. 91-3913 (2009-07-31)
  
 24
 straipsnis. Saugumo užtikrinimas
@@ -825,11 +866,11 @@ kylančias dėl vienos ar kelių tiekimo įmonių kaltės. Dujų
 užtikrinimo ataskaitas ir pateikia jas Energetikos ministerijai.
 3. Vyriausybė ar
 jos įgaliota institucija turi teisę nustatyti konkrečias saugumo užtikrinimo
-priemones, kurių vykdymas dujų įmonėms, vartotojams bei Komisijai yra
-privalomas. Priemonės turi būti nediskriminuojančios, aiškios ir viešai
-paskelbtos. Priemonės turi numatyti prioritetinį saugų dujų tiekimą, įskaitant
-atsargas dujų vamzdyne, buitiniams vartotojams ir vartotojams į tuos objektus,
-kurių energijos gamybos galia mažesnė kaip 5 MW, kuriuose nėra kuro rezervinių
+priemones, kurių vykdymas dujų įmonėms, vartotojams bei Komisijai yra privalomas.
+Priemonės turi būti nediskriminuojančios, aiškios ir viešai paskelbtos.
+Priemonės turi numatyti prioritetinį saugų dujų tiekimą, įskaitant atsargas
+dujų vamzdyne, buitiniams vartotojams ir vartotojams į tuos objektus, kurių
+energijos gamybos galia mažesnė kaip 5 MW, kuriuose nėra kuro rezervinių
 atsargų ir kuriems dujų tiekimo negalima nutraukti.
 4. Vyriausybė ar
 jos įgaliota institucija turi teisę nustatyti reikalavimą ar sąlygas dujų
@@ -869,9 +910,9 @@ straipsnis. Skundų nagrinėjimas
 1. Komisija išankstine neteismine
 skundų nagrinėjimo tvarka nagrinėja skundus dėl dujų įmonių veiklos ar
 neveikimo perduodant, skystinant, pakartotinai dujinant, skirstant, tiekiant,
-perkant ir laikant gamtines dujas, dėl teisės pasinaudoti sistema, vartotojų sistemos
-prijungimo tvarkos (metodikų, kainų), sistemų balansavimo, kainų taikymo,
-investicijų bei sutarčių sąlygų.
+perkant ir laikant gamtines dujas, dėl teisės pasinaudoti sistema, vartotojų
+sistemos prijungimo tvarkos (metodikų, kainų), sistemų balansavimo, kainų
+taikymo, investicijų bei sutarčių sąlygų.
 2. Valstybinė
 energetikos inspekcija prie Energetikos ministerijos išankstine neteismine
 skundų nagrinėjimo tvarka nagrinėja skundus dėl įrenginių, apskaitos priemonių,
@@ -879,10 +920,10 @@ sistemų įrengimo, eksploatavimo, avarijų ir sutrikimų, dujų
 apskaitos ir mokėjimo už sunaudotas dujas pažeidimų, vartotojų sistemų
 prijungimo sąlygų bei perdavimo, laikymo, skirstymo ar SGD sistemų techninės
 saugos ir patikimumo.
-3. Nacionalinė vartotojų teisių
-apsaugos taryba prie Teisingumo ministerijos išankstine skundų nagrinėjimo
-neteismine tvarka nagrinėja buitinių vartotojų skundus dėl dujų
-pirkimo–pardavimo ar paslaugų teikimo sutarčių nesąžiningų sąlygų taikymo.
+3. Valstybinė
+vartotojų teisių apsaugos tarnyba išankstine skundų nagrinėjimo ne teismo
+tvarka nagrinėja buitinių vartotojų skundus dėl dujų pirkimo–pardavimo ar
+paslaugų teikimo sutarčių nesąžiningų sąlygų taikymo.
 4. Vyriausybė ar
 jos įgaliota institucija nustato šio straipsnio 1 ir 2 dalyse nustatytų skundų
 nagrinėjimo tvarką.
@@ -890,6 +931,8 @@ Straipsnio pakeitimai:
 Nr.
 XI-136,
 2009-01-12, Žin., 2009, Nr. 10-358 (2009-01-27)
+Nr. XI-353, 2009-07-17,
+Žin., 2009, Nr. 91-3913 (2009-07-31)
  
 26
 straipsnis. Atsakomybė
@@ -901,9 +944,9 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS
 ADAMKUS
-Lietuvos Respublikos              
-gamtinių dujų įstatymo            
-priedas                                     
+Lietuvos Respublikos
+gamtinių dujų įstatymo
+priedas
  
 ĮGYVENDINAMI
 EUROPOS SĄJUNGOS TEISĖS AKTAI
@@ -913,8 +956,12 @@ birželio 26 d. Europos Parlamento ir Tarybos direktyva 2003/55/EB dėl gamtini�
 dujų vidaus rinkos bendrųjų taisyklių, panaikinanti direktyvą 98/30/EB (OL 2004
 m. specialusis leidimas, 12 skyrius, 2 tomas, p. 230).
 2. 2004 m.
-balandžio 26 d. Tarybos direktyva 2004/67/EB dėl gamtinių dujų tiekimo saugumo
-priemonių (OL 2004 m. specialusis leidimas, 12 skyrius, 3 tomas, p. 19).
+balandžio 26 d. Tarybos direktyva 2004/67/EB dėl priemonių, skirtų gamtinių
+dujų tiekimo patikimumui užtikrinti (OL 2004 m. specialusis leidimas, 12
+skyrius, 3 tomas, p. 19).
+Priedo pakeitimai:
+Nr. XI-353,
+2009-07-17, Žin., 2009, Nr. 91-3913 (2009-07-31)
  
 ________________
  
@@ -975,11 +1022,23 @@ DUJŲ ĮSTATYMO 13, 16, 24 IR 25 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja 2009 m. vasario 1 d. 
  
+7.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-353,
+2009-07-17, Žin., 2009, Nr. 91-3913 (2009-07-31)
+GAMTINIŲ
+DUJŲ ĮSTATYMO 6, 7, 10, 14, 23, 25 STRAIPSNIŲ IR PRIEDO PAKEITIMO ĮSTATYMAS
+Šio įstatymo 5
+straipsnio 1 dalyje išdėstyto Gamtinių dujų įstatymo 23 straipsnio 5 dalis
+įsigalioja 2009 m. rugpjūčio 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2009-01-28)
+Vilija Tamaliūnienė (2009-07-31)
                  
-autrap@lrs.lt
+vitama@lrs.lt
