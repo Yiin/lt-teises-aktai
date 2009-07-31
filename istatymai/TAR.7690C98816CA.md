@@ -16,7 +16,6 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7690C98816CA"
 Įstatymas
 skelbtas: Žin., 2003, Nr. 38-1656
 Neoficialus įstatymo tekstas
- 
 LIETUVOS RESPUBLIKOS
 SPECIALIŲJŲ TYRIMŲ
 TARNYBOS STATUTO PATVIRTINIMO
@@ -323,9 +322,9 @@ straipsnis. Tarnybos pareigūnų atleidimas iš tarnybos
 šiais pagrindais:
 1) atsistatydinęs savo noru; 
 2) įsiteisėjus apkaltinamajam teismo nuosprendžiui,
-kuriuo pareigūnas nuteisiamas už padarytą tyčinę nusikalstamą veiką ar
-nusikalstamą veiką valstybės tarnybai, arba jam paskiriama bausmė, dėl kurios
-jis negali eiti savo pareigų; 
+kuriuo pareigūnas nuteisiamas už padarytą tyčinę nusikalstamą veiką ar nusikalstamą
+veiką valstybės tarnybai, arba jam paskiriama bausmė, dėl kurios jis negali
+eiti savo pareigų; 
 3) netekęs
 Lietuvos Respublikos pilietybės;
 4) atestacijos
@@ -405,10 +404,10 @@ pagal šio Statuto 11 straipsnio 1 dalies 1, 2, 6, 11 punktus ir 2 dalies 3 bei
 6 punktus. Jei tarnybos pareigūnas atleistas iš tarnybos pažeidžiant šią
 nuostatą, jo atleidimo diena laikoma kita po atostogų ar kita po laikinojo
 nedarbingumo pasibaigimo tarnybos diena.
-2. Negalima atleisti iš tarnybos nėščios tarnybos pareigūnės,
-taip pat tarnybos pareigūno vaiko (vaikų) iki trejų metų priežiūros atostogų
-metu, jeigu nėra šių tarnybos pareigūnų veiksmuose kaltės (išskyrus atvejus,
-kai likviduojama Specialiųjų tyrimų tarnyba ar jos įstaiga). 
+2. Negalima atleisti iš tarnybos nėščios tarnybos
+pareigūnės, taip pat tarnybos pareigūno vaiko (vaikų) iki trejų metų priežiūros
+atostogų metu, jeigu nėra šių tarnybos pareigūnų veiksmuose kaltės (išskyrus
+atvejus, kai likviduojama Specialiųjų tyrimų tarnyba ar jos įstaiga). 
 3. Atleisti
 tarnybos pareigūną iš tarnybos pagal šio Statuto 11 straipsnio 2 dalies 4
 punktą galima tik įspėjus jį raštu prieš 2 mėnesius. Nėščiai tarnybos
@@ -465,9 +464,9 @@ gali būti įtraukti ne ilgiau kaip 4 metus per visą tarnybos laiką. Rezerve
 praleistas laikas įskaičiuojamas į tarnybos stažą tik tuo atveju, jeigu
 tarnybos pareigūnas vėl paskiriamas į Specialiųjų tyrimų tarnybą ir ten išdirba
 ne mažiau kaip vienus metus. 
-2. Asmenims, įtrauktiems
-į tarnybos pareigūnų rezervą, darbo užmokestis ir kitos su tarnybos santykiais
-susijusios išmokos nemokamos.
+2. Asmenims,
+įtrauktiems į tarnybos pareigūnų rezervą, darbo užmokestis ir kitos su tarnybos
+santykiais susijusios išmokos nemokamos.
 3. Tarnybos pareigūnų rezervo sudarymo ir veiklos
 tvarką nustato Specialiųjų tyrimų tarnybos direktorius. 
  
@@ -488,9 +487,9 @@ būti išmokama 80 procentų uniformos vertės kompensacija.
  
 18 straipsnis. Tarnybos pareigūnų
 rengimas ir kvalifikacijos kėlimas
-1. Tarnybos
-pareigūnai gali būti rengiami, taip pat gali kelti kvalifikaciją Lietuvos
-Respublikos ir užsienio valstybių mokslo, mokymo bei kitose įstaigose.
+1. Tarnybos pareigūnai
+gali būti rengiami, taip pat gali kelti kvalifikaciją Lietuvos Respublikos ir
+užsienio valstybių mokslo, mokymo bei kitose įstaigose.
 2. Kvalifikacijos kėlimo laikotarpiu tarnybos
 pareigūnams taikomos šiame Statute numatytos socialinės garantijos. 
 3. Tarnybos
@@ -648,8 +647,8 @@ nuobaudų skyrimo procedūra sustabdoma ir tarnybinio tyrimo medžiaga perduodam
 tirti kompetentingai institucijai. Jeigu atsisakoma pradėti ikiteisminį tyrimą,
 bylos dėl administracinio teisės pažeidimo teiseną arba asmuo nėra patraukiamas
 baudžiamojon ar administracinėn atsakomybėn ir procesas yra pasibaigęs,
-tarnybinės nuobaudos skyrimo procedūra tęsiama ir tarnybinė nuobauda gali būti
-paskirta ne vėliau kaip per vieną mėnesį nuo šių sąlygų atsiradimo.
+tarnybinės nuobaudos skyrimo procedūra tęsiama ir tarnybinė nuobauda gali būti paskirta
+ne vėliau kaip per vieną mėnesį nuo šių sąlygų atsiradimo.
 5. Tarnybinė
 nuobauda skiriama Specialiųjų tyrimų tarnybos direktoriaus įsakymu.
 6. Tarnybinių
@@ -964,11 +963,21 @@ tarnybos dieną kaip tris dienas, taikos palaikymo misijose ir patarėjų bei
 stebėtojų misijose – vieną tarnybos dieną kaip dvi dienas;
 11)
 laikotarpiai, numatyti Valstybės tarnybos įstatymo 42 straipsnyje.
-4. Tarnybos pareigūnams priedas
-pagal Valstybės tarnybos įstatymą už 3-iąją kvalifikacinę kategoriją sudaro 15
-procentų pareiginės algos, už 2-ąją kvalifikacinę kategoriją – 30 procentų
-pareiginės algos, už 1-ąją kvalifikacinę kategoriją – 45 procentus pareiginės
-algos. 
+Dalies
+redakcija nuo 2009-08 01 iki 2010-12-31:
+4.
+Tarnybos pareigūnams priedas pagal Valstybės tarnybos įstatymą už 3-iąją
+kvalifikacinę kategoriją sudaro 10 procentų pareiginės algos, už 2-ąją
+kvalifikacinę kategoriją – 20 procentų pareiginės algos, už 1-ąją kvalifikacinę
+kategoriją – 30 procentų pareiginės algos.
+Dalies
+redakcija nuo 2011-01-01:
+4. Tarnybos
+pareigūnams priedas pagal Valstybės tarnybos įstatymą už 3-iąją kvalifikacinę
+kategoriją sudaro 15 procentų pareiginės algos, už 2-ąją kvalifikacinę
+kategoriją – 30 procentų pareiginės algos, už 1-ąją kvalifikacinę kategoriją –
+45 procentus pareiginės algos.
+ 
 5. Priemokos už pareigybės aprašyme nenurodytą ar
 įprastą darbo krūvį viršijančią veiklą ar papildomų užduočių, atliekamų
 viršijant nustatytą darbo trukmę, atlikimą, taip pat darbą naktį, poilsio ir
@@ -992,15 +1001,16 @@ tarnybos pareigūnei, gaunančiai išmoką vaiko priežiūros atostogų laikotar
 suteikiamos nėštumo ir gimdymo atostogos ir ji įgyja teisę gauti išmoką nėštumo
 ir gimdymo atostogų laikotarpiu, jai mokamos abi šios išmokos.
 7. Jeigu tarnybos pareigūnas, kuris buvo ar yra išleistas vaiko priežiūros atostogų, kol vaikui sueis dveji metai, gauna darbo užmokestį, kuris yra mažesnis už vidutinį darbo užmokestį (bendrą vidutinių darbo užmokesčių sumą), nurodytą šio straipsnio 6 dalyje, laikotarpiu, kol vaikui sueis dveji metai, jam mokamas šio vidutinio darbo užmokesčio (bendros jų sumos) ir jo gaunamo atitinkamo mėnesio darbo užmokesčio skirtumas.
-8. Tėvystės
-atostogų laikotarpiu tarnybos pareigūnui mokamas Vyriausybės nustatyta tvarka
-apskaičiuotas vidutinis jo darbo užmokestis, jeigu jis pripažino tėvystę.
+8.
+Tėvystės atostogų laikotarpiu tarnybos pareigūnui mokamas Vyriausybės nustatyta
+tvarka apskaičiuotas vidutinis jo darbo užmokestis, jeigu jis pripažino
+tėvystę.
 Straipsnio pakeitimai:
 Nr. X-121, 2005-02-15,
 Žin., 2005, Nr. 28-873 (2005-02-26)
 Nr.
-X-664, 2006-06-08,
-Žin., 2006, Nr. 72-2680 (2006-06-28)
+X-664,
+2006-06-08, Žin., 2006, Nr. 72-2680 (2006-06-28)
 Nr. X-758, 2006-07-11,
 Žin., 2006, Nr. 82-3257 (2006-07-27)
 Nr. X-1340,
@@ -1008,6 +1018,9 @@ Nr. X-1340,
 Nr.
 X-1620,
 2008-06-17, Žin., 2008, Nr. 74-2866 (2008-06-30)
+Nr.
+XI-364,
+2009-07-17, Žin., 2009, Nr. 91-3919 (2009-07-31)
  
 31
 straipsnis. Kompensacijos ir pašalpos
@@ -1026,9 +1039,9 @@ ar paskelbus žuvusiu, laikoma, kad jis yra pripažintas nežinia kur esančiu a
 paskelbtas žuvusiu dėl tarnybos, jeigu neįrodyta kitaip, ir jo šeimai bei
 nedarbingiems asmenims, kurie buvo jo išlaikomi arba nurodytą dieną turėjo
 teisę gauti jo išlaikymą, nuo tarnybos pareigūno pripažinimo nežinia kur
-esančiu ar jo paskelbimo žuvusiu dienos kas mėnesį lygiomis dalimis mokama jo
-vidutinio darbo užmokesčio pašalpa, neviršijant 120 mėnesių darbo užmokesčio
-dydžio sumos.
+esančiu ar jo paskelbimo žuvusiu dienos kas mėnesį lygiomis dalimis mokama jo vidutinio
+darbo užmokesčio pašalpa, neviršijant 120 mėnesių darbo užmokesčio dydžio
+sumos.
 3. Kai tarnybos
 pareigūnas, kuriam buvo sužalota sveikata atliekant
 tarnybines pareigas arba dėl tarnybos Specialiųjų tyrimų tarnyboje, pateikia
@@ -1143,6 +1156,7 @@ straipsnis. Pereinamojo laikotarpio nuostatos
 Specialiųjų
 tyrimų tarnybos pareigūnų turimi pareiginiai laipsniai prilyginami šio Statuto
 19 straipsnyje numatytiems tarnybiniams rangams. 
+ 
 _______________
  
 Pakeitimai:
@@ -1205,34 +1219,48 @@ Nr. X-1340,
 SPECIALIŲJŲ TYRIMŲ TARNYBOS
 STATUTO 30 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2008 m. sausio 1 d.
-Įsigaliojus šiam įstatymui, Specialiųjų
-tyrimų tarnybos pareigūnams iki tol mokamas vidutinis darbo užmokestis pagal
-Lietuvos Respublikos specialiųjų tyrimų tarnybos statuto 30 straipsnio 6
-dalį, vadovaujantis šio įstatymo nuostatomis, atitinkamai perskaičiuojamas,
-padidinamas ir (ar) pratęsiamas jo mokėjimo laikotarpis.
-Vaiko priežiūros atostogose esantiems
-Specialiųjų tyrimų tarnybos pareigūnams (nepaisant to, ar vaiko priežiūros
-atostogos tęsiamos, ar suteikiamos iš naujo), kuriems vidutinio darbo
-užmokesčio mokėjimo laikas buvo pasibaigęs, nes vaikui (vaikams) suėjo vieni
-metai, nuo 2008 m. sausio 1 d. mokėjimas tęsiamas, jeigu vaikui (vaikams) dar
-nėra suėję dveji metai. 
+Įsigaliojus šiam įstatymui,
+Specialiųjų tyrimų tarnybos pareigūnams iki tol mokamas vidutinis darbo
+užmokestis pagal Lietuvos Respublikos specialiųjų tyrimų tarnybos statuto 30
+straipsnio 6 dalį, vadovaujantis šio įstatymo nuostatomis, atitinkamai
+perskaičiuojamas, padidinamas ir (ar) pratęsiamas jo mokėjimo laikotarpis.
+Vaiko priežiūros atostogose
+esantiems Specialiųjų tyrimų tarnybos pareigūnams (nepaisant to, ar vaiko
+priežiūros atostogos tęsiamos, ar suteikiamos iš naujo), kuriems vidutinio
+darbo užmokesčio mokėjimo laikas buvo pasibaigęs, nes vaikui (vaikams) suėjo
+vieni metai, nuo 2008 m. sausio 1 d. mokėjimas tęsiamas, jeigu vaikui (vaikams)
+dar nėra suėję dveji metai. 
  
 6.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-1620, 2008-06-17,
-Žin., 2008, Nr. 74-2866 (2008-06-30)
+X-1620,
+2008-06-17, Žin., 2008, Nr. 74-2866 (2008-06-30)
 SPECIALIŲJŲ
 TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2008 m. liepos 1 d.
+ 
+7.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-364,
+2009-07-17, Žin., 2009, Nr. 91-3919 (2009-07-31)
+SPECIALIŲJŲ
+TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šio įstatymo
+1 straipsnis įsigalioja 2009 m. rugpjūčio 1 d.
+Šio įstatymo
+2 straipsnis įsigalioja 2011 m. sausio 1 d.
+ 
  
 ***
 Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2008-07-02)
+Redagavo
+Aušra Bodin (2009-08-03)
                  
-autrap@lrs.lt
+aubodi@lrs.lt
 
