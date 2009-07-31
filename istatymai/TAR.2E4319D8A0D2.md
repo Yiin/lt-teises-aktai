@@ -13,11 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E4319D8A0D2"
 
 # Lietuvos Respublikos antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos statuto patvirtinimo ir įgyvendinimo įstatymas
 
-Įstatymas skelbtas: Žin., 2003, Nr.
-92-4140
+Įstatymas skelbtas: Žin., 2003, Nr. 92-4140
 Neoficialus įstatymo tekstas
  
-LIETUVOS RESPUBLIKOS
+LIETUVOS
+RESPUBLIKOS
 ANTROJO OPERATYVINIŲ TARNYBŲ DEPARTAMENTO PRIE KRAŠTO APSAUGOS
 MINISTERIJOS STATUTO PATVIRTINIMO IR ĮGYVENDINIMO
 ĮSTATYMAS
@@ -53,8 +53,8 @@ Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą.  
  
  
-RESPUBLIKOS PREZIDENTAS                                                           ROLANDAS
-PAKSAS
+RESPUBLIKOS
+PREZIDENTAS                                                           ROLANDAS PAKSAS 
 
                                                                                     PATVIRTINTA
                                                                                     Lietuvos
@@ -331,14 +331,16 @@ karių ir STATUTINIŲ tarnautojų TEISINIS STATUSAS
  
 17 straipsnis.
 Karių ir statutinių tarnautojų teisės, pareigos ir veiklos apribojimai
-1. Kariai ir statutiniai tarnautojai turi Krašto
-apsaugos sistemos organizavimo ir karo tarnybos įstatymo, Žvalgybos įstatymo,
-Operatyvinės veiklos įstatymo, Civilinės krašto apsaugos tarnybos statuto, kitų
+1.
+Kariai ir statutiniai tarnautojai turi Krašto apsaugos sistemos
+organizavimo ir karo tarnybos įstatymo, Žvalgybos įstatymo, Operatyvinės
+veiklos įstatymo, Civilinės krašto apsaugos tarnybos statuto, kitų
 įstatymų ir šio statuto nustatytas teises ir pareigas. 
-2. Kariai ir statutiniai tarnautojai, vykdydami savo
-pareigas, krašto apsaugos sistemoje turi administracinius įgaliojimus
-pavaldiems ir (ar) nepavaldiems asmenims. Kariai ir statutiniai tarnautojai
-turi pareigūno statusą.
+2.
+Kariai ir statutiniai tarnautojai, vykdydami savo pareigas, krašto apsaugos
+sistemoje turi administracinius įgaliojimus pavaldiems ir (ar) nepavaldiems
+asmenims. Kariai
+ir statutiniai tarnautojai turi pareigūno statusą.
 3. Kovinių ginklų naudojimo krašto
 apsaugos sistemoje statuto nustatyta tvarka kariai ir statutiniai tarnautojai
 turi teisę laikyti, nešioti ir panaudoti kovinius šaunamuosius ir
@@ -425,8 +427,8 @@ Karių ir statutinių tarnautojų, pasiųstų mokytis ar tobulinti kvalifikacij�
 tarnybos ir aprūpinimo sąlygas mokymosi ar kvalifikacijos tobulinimo
 laikotarpiu nustato Vyriausybė ar jos įgaliota institucija.
  
-20 straipsnis. Išlaidų,
-susijusių su karių ir statutinių tarnautojų mokymu, profesiniu parengimu ar
+20 straipsnis. Išlaidų, susijusių
+su karių ir statutinių tarnautojų mokymu, profesiniu parengimu ar
 kvalifikacijos tobulinimu, atlyginimas
 1.
 Savo iniciatyva nutraukdamas profesinės karo tarnybos ar civilinės krašto
@@ -447,33 +449,39 @@ termino pabaigą, kai karys ar statutinis tarnautojas negali tęsti tarnybos dė
 ligos ar netekto darbingumo arba dėl kitų nuo jo nepriklausančių ir
 nepašalinamų priežasčių.
  
-21 straipsnis.
-Karių ir statutinių tarnautojų atestavimas
-1. Karių atestavimą reglamentuoja Krašto
-apsaugos sistemos organizavimo ir karo tarnybos įstatymas. 
+21 straipsnis. Karių ir statutinių
+tarnautojų atestavimas
+1.
+Karių atestavimą reglamentuoja Krašto apsaugos sistemos organizavimo ir karo
+tarnybos įstatymas. 
 2. Departamento
 direktorių atestuoja krašto apsaugos ministras. Departamento direktoriaus
 pavaduotojus atestuoja direktorius ir krašto apsaugos ministras. 
 3.
 Statutinius tarnautojus atestuoja jų tiesioginis viršininkas ir aukštesnysis
 viršininkas.
-4. Statutiniai tarnautojai atestuojami kas
-12 mėnesių, taip pat tais atvejais, kai sprendžiama, ar statutinis tarnautojas
-tinka civilinei krašto apsaugos tarnybai.
-5. Kvalifikaciją liudijančiame dokumente (toliau
-– atestatas) turi būti apibūdinta atestuojamo asmens savybės, gabumai, elgesys,
-kvalifikacija, gebėjimas atlikti jam pavestas pareigas, pateiktos atitinkamos
-rekomendacijos ir išvada dėl jo tinkamumo civilinei krašto apsaugos tarnybai.
-6. Statutinis tarnautojas supažindinamas
-su atestacijos išvada ir ne vėliau kaip per 14 dienų turi teisę ją apskųsti. 
-7. Skundą nagrinėja krašto apsaugos ministro
-įsakymu sudaryta komisija. Per 14 dienų ji priima sprendimą dėl skundo
-pagrįstumo ir krašto apsaugos ministrui pateikia išvadą dėl atestuojamojo
-tinkamumo civilinei krašto apsaugos tarnybai.
-8. Su statutinio tarnautojo atestatu turi
-teisę susipažinti tik tas asmuo, kuriam tai būtina vykdant tarnybos pareigas.
-9. Karių ir statutinių tarnautojų
-atestavimo tvarką nustato krašto apsaugos ministras.
+4.
+Statutiniai tarnautojai atestuojami kas 12 mėnesių, taip pat tais
+atvejais, kai sprendžiama, ar statutinis tarnautojas tinka civilinei
+krašto apsaugos tarnybai.
+5.
+Kvalifikaciją liudijančiame dokumente (toliau – atestatas) turi būti
+apibūdinta atestuojamo asmens savybės, gabumai, elgesys, kvalifikacija,
+gebėjimas atlikti jam pavestas pareigas, pateiktos atitinkamos rekomendacijos
+ir išvada dėl jo tinkamumo civilinei krašto apsaugos tarnybai.
+6.
+Statutinis tarnautojas supažindinamas su atestacijos išvada ir ne
+vėliau kaip per 14 dienų turi teisę ją apskųsti. 
+7.
+Skundą nagrinėja krašto apsaugos ministro įsakymu sudaryta komisija. Per 14
+dienų ji priima sprendimą dėl skundo pagrįstumo ir krašto apsaugos ministrui
+pateikia išvadą dėl atestuojamojo tinkamumo civilinei krašto apsaugos tarnybai.
+8.
+Su statutinio tarnautojo atestatu turi teisę susipažinti tik tas
+asmuo, kuriam tai būtina vykdant tarnybos pareigas.
+9.
+Karių ir statutinių tarnautojų atestavimo tvarką nustato krašto
+apsaugos ministras.
  
 SEPTINTASIS
 SKIRSNIS
@@ -520,9 +528,9 @@ valstybės tarnautojas netinka civilinei krašto apsaugos tarnybai;
 paaiškėja, kad jis negali atlikti civilinės krašto apsaugos tarnybos pareigų
 dėl sveikatos būklės; 
 11)
-netenka pasitikėjimo, ir įstatymų įgaliotos institucijos ar pareigūnai motyvuotai
-reikalauja atleisti jį iš tarnybos arba motyvuotai nerekomenduoja išduoti
-leidimo (siūlo panaikinti leidimą) statutiniam tarnautojui dirbti ar
+netenka pasitikėjimo, ir įstatymų įgaliotos institucijos ar pareigūnai
+motyvuotai reikalauja atleisti jį iš tarnybos arba motyvuotai nerekomenduoja
+išduoti leidimo (siūlo panaikinti leidimą) statutiniam tarnautojui dirbti ar
 susipažinti su įslaptinta informacija, jeigu šia informacija reikia naudotis
 pagal statutiniam tarnautojui pavestas pareigas ir nėra kitų, su šios
 informacijos naudojimu nesusijusių, pareigų, į kurias jį būtų galima perkelti;
@@ -567,9 +575,9 @@ tarnautojais – Departamento direktorius.
 Krašto apsaugos ministras arba Departamento direktorius savo iniciatyva (šio
 statuto 22 straipsnio 2 dalies 2, 7, 9, 10, 12 punktuose nustatytais
 pagrindais) nutraukia civilinės krašto apsaugos tarnybos sutartį, apie tai
-įspėjęs statutinį tarnautoją ne vėliau kaip prieš du mėnesius arba ir
-neįspėjęs. Pastaruoju atveju atleidžiamajam išmokama šio statuto 24 straipsnio
-3 dalyje nustatyta papildoma kompensacija.
+įspėjęs statutinį tarnautoją ne vėliau kaip prieš du mėnesius arba ir neįspėjęs.
+Pastaruoju atveju atleidžiamajam išmokama šio statuto 24 straipsnio 3 dalyje
+nustatyta papildoma kompensacija.
 3.
 Civilinės krašto apsaugos tarnybos sutarčių šio statuto 22 straipsnio 2 dalies
 2, 9, 10, 12 punktuose nurodytais pagrindais negalima nutraukti ir statutinio
@@ -739,19 +747,19 @@ to, kai šis buvo raštu pranešęs, kad, jo manymu, duota užduotis ar pavedima
 prieštarauja įstatymams ar kitiems teisės aktams;
 6) neteisėtos
 užduoties ar pavedimo vykdymas;
-7) nebuvimas
-tarnybos vietoje vieną ar daugiau darbo dienų be pateisinamos priežasties;
+7) nebuvimas tarnybos
+vietoje vieną ar daugiau darbo dienų be pateisinamos priežasties;
 8) buvimas tarnybos
 metu apsvaigusiam nuo alkoholio, narkotinių ar toksinių medžiagų; 
 9) kovinių ginklų ar
-specialiųjų priemonių praradimas ar kovinių ginklų ir specialiųjų priemonių
-naudojimo taisyklių pažeidimas;
+specialiųjų priemonių praradimas ar kovinių ginklų ir specialiųjų priemonių naudojimo
+taisyklių pažeidimas;
 10) tarnybinio
 pažymėjimo ar kito griežtos apskaitos dokumento, kurio turinys nesudaro
 valstybės ar tarnybos paslapties, praradimas ar sugadinimas;
 11) melagingo
-paaiškinimo davimas dėl tarnybinio nusižengimo, taip pat vertimas duoti melagingą
-paaiškinimą;
+paaiškinimo davimas dėl tarnybinio nusižengimo, taip pat vertimas duoti
+melagingą paaiškinimą;
 12) trečias
 nešiurkštus tarnybinis nusižengimas per metus.
 3. Už šiurkščius
@@ -760,15 +768,16 @@ tarnybinius nusižengimus gali būti skiriamos šios tarnybinės nuobaudos:
 papeikimas;
 2) kvalifikacinės kategorijos
 pažeminimas;
-3) atleidimas iš civilinės
-krašto apsaugos tarnybos.
+3) atleidimas iš
+civilinės krašto apsaugos tarnybos.
 4. Kiti tarnybiniai
 nusižengimai yra tarnybiniai nusižengimai, nenurodyti šio straipsnio 3 dalyje.
 5. Už kitus
 tarnybinius nusižengimus skiriamos šios tarnybinės nuobaudos:
 1) įspėjimas;
 2) papeikimas;
-3) griežtas papeikimas.
+3) griežtas
+papeikimas.
  
 28 straipsnis. Tarnybinių
 nuobaudų skyrimas statutiniams tarnautojams ir jų panaikinimas bei apskundimas
@@ -782,8 +791,8 @@ komisija.
 nuobauda turi būti paskiriama tuoj pat, kai tik paaiškėja nusižengimas, ne
 vėliau kaip per vieną mėnesį nuo nusižengimo paaiškėjimo dienos, neįskaitant
 laiko, kurį statutinis tarnautojas nebuvo tarnyboje dėl ligos arba atostogavo.
-Negalima skirti tarnybinės nuobaudos praėjus vieniems metams nuo nusižengimo
-padarymo dienos.
+Negalima skirti tarnybinės nuobaudos praėjus vieniems metams nuo nusižengimo padarymo
+dienos.
 3. Prieš skiriant
 tarnybinę nuobaudą, reikalaujama, kad statutinis tarnautojas raštu
 pasiaiškintų. Jei statutinis tarnautojas atsisako raštu pasiaiškinti,
@@ -807,8 +816,8 @@ statutiniam tarnautojui paskirtą tarnybinę nuobaudą, išskyrus įspėjimą,
 paskyrimo gali būti skundžiamas įstatymų nustatyta tvarka.
  
 29 straipsnis. Nušalinimas nuo pareigų
-1. Karių nušalinimą nuo pareigų reglamentuoja
-Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas.
+1. Karių nušalinimą nuo pareigų
+reglamentuoja Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas.
 2.
 Statutinis tarnautojas nušalinamas nuo pareigų Civilinės krašto apsaugos
 tarnybos statuto nustatytais pagrindais ir tvarka. 
@@ -854,18 +863,37 @@ tarnybos įstatymas, šis statutas ir kiti teisės aktai.
 2. Statutinių
 tarnautojų darbo užmokestį nustato Valstybės tarnybos įstatymas ir šis
 statutas.
+Dalies redakcija nuo 2009-08-01 iki 2010-12-31:
 3. Statutiniams
 tarnautojams mokami tokie pareiginės algos priedai už kvalifikacinę kategoriją:
-1) už pirmą kvalifikacinę kategoriją –
-35 procentų pareiginės algos dydžio priedas;
-2) už antrą kvalifikacinę kategoriją –
-40 procentų pareiginės algos dydžio priedas;
-3) už trečią kvalifikacinę kategoriją –
-45 procentų pareiginės algos dydžio priedas;
-4) už ketvirtą kvalifikacinę kategoriją
-– 50 procentų pareiginės algos dydžio priedas;
-5) už penktą kvalifikacinę kategoriją –
-55 procentų pareiginės algos dydžio priedas.
+1) už pirmą kvalifikacinę
+kategoriją – 25 procentų pareiginės algos dydžio priedas;
+2) už antrą kvalifikacinę
+kategoriją – 28 procentų pareiginės algos dydžio priedas;
+3) už trečią kvalifikacinę
+kategoriją – 30 procentų pareiginės algos dydžio priedas;
+4) už ketvirtą kvalifikacinę kategoriją – 35 procentų
+pareiginės algos dydžio priedas;
+5) už penktą kvalifikacinę kategoriją – 38 procentų pareiginės algos
+dydžio priedas.
+Dalies redakcija nuo 2011-01-01:
+3. Statutiniams
+tarnautojams mokami tokie pareiginės algos priedai už kvalifikacinę kategoriją:
+1) už pirmą kvalifikacinę
+kategoriją – 35 procentų pareiginės algos dydžio priedas;
+2) už antrą kvalifikacinę
+kategoriją – 40 procentų pareiginės algos dydžio priedas;
+3) už trečią kvalifikacinę
+kategoriją – 45 procentų pareiginės algos dydžio priedas;
+4) už ketvirtą kvalifikacinę
+kategoriją – 50 procentų pareiginės algos dydžio priedas;
+5) už penktą kvalifikacinę kategoriją – 55 procentų pareiginės algos
+dydžio priedas.
+Straipsnio
+pakeitimai:
+Nr.
+XI-368,
+2009-07-17, Žin., 2009, Nr. 91-3922 (2009-07-31)
  
 33 straipsnis. Departamento rezervas
 1. Departamente sudaromas karių ir statutinių
@@ -981,7 +1009,10 @@ ir teisės aktai.
 kurių materialinė būklė sunki dėl jų pačių ligos, šeimos narių ligos ar
 mirties, stichinės nelaimės ar turto netekimo, gali būti skiriama iki 5 MMA
 dydžio pašalpa.
+ 
 _________________
+ 
+ 
 Pakeitimai:
 1.
 Lietuvos
@@ -993,11 +1024,26 @@ ANTROJO
 OPERATYVINIŲ TARNYBŲ DEPARTAMENTO PRIE KRAŠTO APSAUGOS MINISTERIJOS STATUTO
 PAKEITIMO ĮSTATYMAS
 Nauja statuto redakcija
+ 
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-368,
+2009-07-17, Žin., 2009, Nr. 91-3922 (2009-07-31)
+ANTROJO
+OPERATYVINIŲ TARNYBŲ DEPARTAMENTO PRIE KRAŠTO APSAUGOS MINISTERIJOS STATUTO 32
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šio
+įstatymo 1 straipsnis įsigalioja 2009 m. rugpjūčio 1 d.
+Šio
+įstatymo 2 straipsnis įsigalioja 2011 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
  
-Redagavo:
-Aušrinė Trapinskienė (2006-02-13)
+ 
+Redagavo
+Aušra Bodin (2009-08-03)
                  
-autrap@lrs.lt
+aubodi@lrs.lt
 
