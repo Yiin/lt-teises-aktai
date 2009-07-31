@@ -1222,14 +1222,32 @@ vyresniojo pareigūno I rangą – 0,8 bazinio dydžio;
 vyriausiojo pareigūno rangą – 0,9 bazinio dydžio;
 11) už pataisos
 generalinio pareigūno rangą – 1 bazinio dydžio.
-4. Pareigūnams
-nustatomi tokie pareiginės algos priedai už kvalifikacines kategorijas:
-1) už 3
-kategoriją – 15 procentų pareiginės algos;
-2) už 2
-kategoriją – 30 procentų pareiginės algos;
-3) už 1
-kategoriją – 50 procentų pareiginės algos.
+[Dalies redakcija nuo 2009-08-01 iki
+2010-12-31]
+4.
+Pareigūnams nustatomi tokie pareiginės algos priedai už kvalifikacines
+kategorijas:
+1)
+už 3 kategoriją – 10 procentų pareiginės algos;
+2)
+už 2 kategoriją – 20 procentų pareiginės algos;
+3)
+už 1 kategoriją – 30 procentų pareiginės algos.
+[Dalies redakcija nuo 2011-01-01]
+4.
+Pareigūnams nustatomi tokie pareiginės algos priedai už kvalifikacines
+kategorijas:
+1)
+už 3 kategoriją – 15 procentų pareiginės algos;
+2)
+už 2 kategoriją – 30 procentų pareiginės algos;
+3)
+už 1 kategoriją – 50 procentų pareiginės algos.
+Straipsnio
+pakeitimai:
+Nr.
+XI-370,
+2009-07-17, Žin., 2009, Nr. 91-3924 (2009-07-31)
  
 42
 straipsnis. Priemokos
@@ -1254,9 +1272,9 @@ yra 1 kvalifikacinė kategorija, žemiausia – 3 kvalifikacinė kategorija.
 2.
 Kvalifikacines kategorijas, atsižvelgdami į kvalifikacijos vertinimo komisijos
 siūlymą, gali suteikti:
-1) Kalėjimų departamento
-direktoriui, direktoriaus pavaduotojams ir šiam departamentui pavaldžios
-įstaigos direktoriui – teisingumo ministras;
+1) Kalėjimų
+departamento direktoriui, direktoriaus pavaduotojams ir šiam departamentui
+pavaldžios įstaigos direktoriui – teisingumo ministras;
 2) kitiems Kalėjimų departamento pareigūnams, šiam departamentui
 pavaldžių įstaigų direktorių pavaduotojams ir administracijos padalinių
 vadovams – Kalėjimų departamento direktorius;
@@ -1281,9 +1299,9 @@ kategoriją gali suteikti (palikti) šį pareigūną į pareigas skiriantis
 (perkeliantis) vadovas skyrimo (perkėlimo) į pareigas dieną.
 6. Kalėjimų
 departamento direktoriaus, direktoriaus pavaduotojų ir šiam departamentui
-pavaldžios įstaigos direktoriaus tarnybinę veiklą per kalendorinius metus
-vertina teisingumo ministro įsakymu sudaryta kvalifikacijos vertinimo komisija.
-Kitų Kalėjimų departamento pareigūnų ir šiam departamentui pavaldžių įstaigų
+pavaldžios įstaigos direktoriaus tarnybinę veiklą per kalendorinius metus vertina
+teisingumo ministro įsakymu sudaryta kvalifikacijos vertinimo komisija. Kitų
+Kalėjimų departamento pareigūnų ir šiam departamentui pavaldžių įstaigų
 direktorių pavaduotojų ir administracijos padalinių vadovų tarnybinę veiklą per
 kalendorinius metus vertina Kalėjimų departamento direktoriaus įsakymu sudaryta
 kvalifikacijos vertinimo komisija. Kitų Kalėjimų departamentui pavaldžių
@@ -1304,9 +1322,9 @@ paskyrimo, profesinių sąjungų atstovas į komisijos narius neskiriamas.
 tarnybinės veiklos vertinimą Teisingumo ministerijoje, Kalėjimų departamente ar
 jam pavaldžioje įstaigoje ne vėliau kaip prieš 10 darbo dienų iki tarnybinės
 veiklos vertinimo pradžios pranešama pareigūnui.
-9.
-Kvalifikacijos vertinimo komisija pareigūno tarnybinę veiklą gali įvertinti
-labai gerai, gerai, patenkinamai arba nepatenkinamai.
+9. Kvalifikacijos
+vertinimo komisija pareigūno tarnybinę veiklą gali įvertinti labai gerai,
+gerai, patenkinamai arba nepatenkinamai.
 10.
 Kvalifikacijos vertinimo komisija, įvertinusi pareigūno tarnybinę veiklą labai
 gerai, teisingumo ministrui, Kalėjimų departamento direktoriui ar jam
@@ -1361,8 +1379,8 @@ teismui Administracinių bylų teisenos įstatymo
 nustatyta tvarka.
  17. Pareigūnų
 kvalifikacinių kategorijų suteikimo taisykles, taip pat konkrečius reikalavimus
-kvalifikacinėms kategorijoms gauti nustato ir kvalifikacijos vertinimo
-komisijos nuostatus tvirtina teisingumo ministras.
+kvalifikacinėms kategorijoms gauti nustato ir kvalifikacijos vertinimo komisijos
+nuostatus tvirtina teisingumo ministras.
  
 DVYLIKTASIS
 SKIRSNIS
@@ -1384,14 +1402,14 @@ tarnybos stažą:
 kalendorinių dienų – ištarnavusiems iki 10 metų;
 2) 35
 kalendorinės dienos – ištarnavusiems nuo 10 iki 15 metų;
-3) 40
-kalendorinių dienų – ištarnavusiems nuo 15 iki 20 metų;
+3) 40 kalendorinių
+dienų – ištarnavusiems nuo 15 iki 20 metų;
 4) 45
 kalendorinės dienos – ištarnavusiems daugiau kaip 20 metų.
 2. Ištarnavusiam
-iki 10 metų pareigūnui, vienam auginančiam vaiką (vaikus) iki 14 metų arba neįgalų
-vaiką (vaikus) iki 18 metų, suteikiamos kasmetinės 35 kalendorinių dienų
-atostogos.
+iki 10 metų pareigūnui, vienam auginančiam vaiką (vaikus) iki 14 metų arba
+neįgalų vaiką (vaikus) iki 18 metų, suteikiamos kasmetinės 35 kalendorinių
+dienų atostogos.
 3. Pareigūnams
 kasmetinės atostogos suteikiamos už kalendorinius metus. Pirmaisiais
 kalendoriniais tarnybos metais atostogų trukmė apskaičiuojama proporcingai
@@ -1409,9 +1427,8 @@ savivaldybių tarybų rinkimuose suteikiamos įstatymų nustatyta tvarka.
 7. Pareigūnui,
 pagal šio statuto 38 straipsnį perkeliamam į kitas pareigas kitoje gyvenamojoje
 vietovėje, skiriama iki 5 darbo dienų atostogų dėl pareigūno perkėlimo į kitas
-pareigas. Už šį laikotarpį pareigūnui mokamas jo vidutinis mėnesinis darbo
-užmokestis. Vidutinį mėnesinį darbo užmokestį moka įstaiga, į kurią pareigūnas
-perkeltas.
+pareigas. Už šį laikotarpį pareigūnui mokamas jo vidutinis mėnesinis darbo užmokestis.
+Vidutinį mėnesinį darbo užmokestį moka įstaiga, į kurią pareigūnas perkeltas.
 8. Kitas
 atostogų rūšis, trukmę ir jų suteikimo pareigūnams tvarką nustato šis statutas
 ir kiti Lietuvos Respublikos įstatymai.
@@ -1435,10 +1452,10 @@ apsaugos ministerijos kadrų rezervą, Valstybės saugumo departamento pareigūn
 (kadrų) rezervą, Specialiųjų tyrimų tarnybos pareigūnų (personalo) rezervą;
 3) nuteisto
 pareigūno ar kario bausmės atlikimo laiką, jeigu vėliau jis išteisintas;
-4) faktinį
-tarnybos kitų valstybių ginkluotosiose pajėgose, pasienio tarnyboje, vidaus
-reikalų ir kitose tarnybose (išskyrus tarnybą naikintojų būriuose ir
-batalionuose) laiką – Vyriausybės nustatyta tvarka;
+4) faktinį tarnybos
+kitų valstybių ginkluotosiose pajėgose, pasienio tarnyboje, vidaus reikalų ir
+kitose tarnybose (išskyrus tarnybą naikintojų būriuose ir batalionuose) laiką –
+Vyriausybės nustatyta tvarka;
 5) darbo
 policijoje (milicijoje), Valstybės sienos apsaugos tarnyboje, vidaus tarnybos,
 valstybės saugumo, krašto apsaugos ir prokuratūros sistemose, Kalėjimų
@@ -1456,11 +1473,10 @@ struktūriniuose padaliniuose nuo 1990 m. balandžio 25 d. iki 1991 m. rugpjūč
 sistemoje nuo 1990 m. kovo 26 d. iki 1991 m. rugpjūčio 23 d. ir Lietuvos Respublikos Aukščiausiosios Tarybos Apsaugos skyriuje nuo 1990 m. birželio 8 d. iki 1991 m. rugpjūčio 23 d. – kaip 3 tarnybos dienas;
 8) asmeniui,
 pradėjusiam tarnauti ar dirbti Lietuvos Respublikos krašto apsaugos sistemoje,
-ir asmeniui, pradėjusiam tarnauti ar dirbti Lietuvos Respublikos Aukščiausiosios
-Tarybos Apsaugos skyriuje iki 1991 m. gruodžio 31 d., taip pat Valstybės
-saugumo departamente prie Lietuvos Respublikos Vyriausybės nuo 1990 m. kovo 26 d. iki 1991 m. gruodžio 2 d. ir Lietuvos Respublikos nacionalinio saugumo tarnyboje
-nuo 1991 m. gruodžio 2 d. iki 1991 m. gruodžio 31 d., – 80 procentų iki šio
-laiko turėto darbo stažo;
+ir asmeniui, pradėjusiam tarnauti ar dirbti Lietuvos Respublikos
+Aukščiausiosios Tarybos Apsaugos skyriuje iki 1991 m. gruodžio 31 d., taip pat Valstybės saugumo departamente prie Lietuvos Respublikos Vyriausybės
+nuo 1990 m. kovo 26 d. iki 1991 m. gruodžio 2 d. ir Lietuvos Respublikos
+nacionalinio saugumo tarnyboje nuo 1991 m. gruodžio 2 d. iki 1991 m. gruodžio 31 d., – 80 procentų iki šio laiko turėto darbo stažo;
 9) mokymosi
 vidaus reikalų profesinio mokymo įstaigose, aukštosiose, specialiosiose
 vidurinėse, aukštesniosiose Lietuvos Respublikos policijos (vidaus reikalų),
@@ -1493,11 +1509,11 @@ mirties arba sveikatos sutrikdymo atvejais
 žuvusio einant tarnybines pareigas arba jeigu tai susiję su tarnyba Kalėjimų
 departamente arba jam pavaldžiose įstaigose, šeimai išmokama vienkartinė 10
 metų (120 mėnesių) žuvusio pareigūno darbo užmokesčio dydžio kompensacija. Ši
-kompensacija lygiomis dalimis išmokama kiekvienam žuvusio pareigūno šeimos nariui.
-Žuvusysis laidojamas už valstybės lėšas, kurios negali viršyti 40 minimalaus
-gyvenimo lygio (toliau – MGL) dydžių, arba jį laidojančiam asmeniui išmokama 40
-MGL dydžio piniginė kompensacija laidotuvių išlaidoms padengti. Valstybės
-apmokamų laidojimo išlaidų tvarkos aprašą tvirtina Vyriausybė. 
+kompensacija lygiomis dalimis išmokama kiekvienam žuvusio pareigūno šeimos
+nariui. Žuvusysis laidojamas už valstybės lėšas, kurios negali viršyti 40
+minimalaus gyvenimo lygio (toliau – MGL) dydžių, arba jį laidojančiam asmeniui
+išmokama 40 MGL dydžio piniginė kompensacija laidotuvių išlaidoms padengti.
+Valstybės apmokamų laidojimo išlaidų tvarkos aprašą tvirtina Vyriausybė. 
 2. Žuvusiojo
 šeimos nariais laikomi vaikas (vaikai), įskaitant gimusius po jo žūties arba
 mirties, ir įvaikis (įvaikiai), kol jiems sukaks 18 metų, o besimokantieji
@@ -1506,9 +1522,9 @@ lavinimo mokyklų dieniniuose skyriuose – kol jiems sukaks 24 metai, taip pat
 sutuoktinis, tėvai (įtėviai).
 3. Pareigūnui,
 kuriam buvo sutrikdyta sveikata einant tarnybines pareigas arba jeigu tai
-susiję su tarnyba Kalėjimų departamente arba jam pavaldžiose įstaigose,
-atsižvelgiant į darbingumo lygį ar sveikatos sutrikdymo sunkumo laipsnį,
-išmokama kompensacija:
+susiję su tarnyba Kalėjimų departamente arba jam pavaldžiose įstaigose, atsižvelgiant
+į darbingumo lygį ar sveikatos sutrikdymo sunkumo laipsnį, išmokama
+kompensacija:
 1) dėl sveikatos
 sutrikdymo netekusiam 75–100 procentų darbingumo – 60 jo vidutinių mėnesinių
 darbo užmokesčių dydžio;
@@ -1579,21 +1595,21 @@ sveikata sutriko ar jis mirė dėl ligos ir tai nesusiję su tarnybinių pareig�
 straipsnis.
 Kitos kompensacijos
 1. Pareigūnui,
-kuris paskyrimo vietoje arba laikino perkėlimo eiti kitas pareigas kitoje
-gyvenamojoje vietovėje neturi gyvenamosios patalpos, Valstybės tarnybos
-įstatymo nustatyta tvarka kompensuojamos gyvenamosios patalpos nuomos išlaidos.
-Pareigūnui, kuris laikinai perkeltas eiti kitas pareigas kitoje
-gyvenamojoje vietovėje, jo ir jo šeimos turėtos persikėlimo išlaidos
-kompensuojamos Vyriausybės nustatyta tvarka. Pareigūnui gyvenamosios patalpos
-nuomos išlaidas, taip pat vienkartinę negrąžinamą Vyriausybės nustatytos
-minimalios mėnesinės algos (toliau – MMA) dydžio išmoką skiria įstaiga, į kurią
-jis laikinai perkeltas eiti kitas pareigas. 
+kuris paskyrimo vietoje arba laikino perkėlimo eiti kitas pareigas kitoje gyvenamojoje
+vietovėje neturi gyvenamosios patalpos, Valstybės tarnybos įstatymo nustatyta
+tvarka kompensuojamos gyvenamosios patalpos nuomos išlaidos. Pareigūnui, kuris
+laikinai perkeltas eiti kitas pareigas kitoje gyvenamojoje
+vietovėje, jo ir jo šeimos turėtos persikėlimo išlaidos kompensuojamos
+Vyriausybės nustatyta tvarka. Pareigūnui gyvenamosios patalpos nuomos išlaidas,
+taip pat vienkartinę negrąžinamą Vyriausybės nustatytos minimalios mėnesinės
+algos (toliau – MMA) dydžio išmoką skiria įstaiga, į kurią jis laikinai
+perkeltas eiti kitas pareigas. 
 2. Pareigūnui,
 kurio materialinė būklė sunki dėl jo paties ligos, šeimos narių ligos ar
-mirties, stichinės nelaimės ar turto netekimo, gali būti skiriama iki 5 MMA dydžio
-pašalpa. Pašalpą skiria įstaigos, kurioje pareigūnas tarnauja, direktorius iš
-įstaigai skirtų lėšų. Įstaigos direktoriui pašalpa skiriama iš jo vadovaujamai
-įstaigai skirtų lėšų. 
+mirties, stichinės nelaimės ar turto netekimo, gali būti skiriama iki 5 MMA
+dydžio pašalpa. Pašalpą skiria įstaigos, kurioje pareigūnas tarnauja,
+direktorius iš įstaigai skirtų lėšų. Įstaigos direktoriui pašalpa skiriama iš
+jo vadovaujamai įstaigai skirtų lėšų. 
 3. Pareigūnui,
 kuris pagal tarnybos pobūdį važinėja keleiviniu ar asmeniniu transportu
 tarnybos tikslais, taip pat vyksta į tarnybos vietą ir iš jos, kompensuojamos
@@ -1632,9 +1648,10 @@ būti nustatyta ne ilgesnė kaip 24 valandų pamainos trukmė, kuri viršija ši
 straipsnio 1 dalyje nustatytą 40 valandų per savaitę (7 dienų laikotarpį) darbo
 laiko normą, bet negali viršyti 48 valandų per savaitę (7 dienų laikotarpį)
 darbo laiko normos. Į pamainos trukmę įskaičiuojamas laikas, skirtas
-pareigūnams instruktuoti, apginkluoti ir pamainai perduoti (priimti). Šis laikas
-neturi trukti ilgiau kaip 0,5 valandos per pamainą. Šioje dalyje nurodytų
-pareigūnų pareigybių sąrašą tvirtina Kalėjimų departamento direktorius.
+pareigūnams instruktuoti, apginkluoti ir pamainai perduoti (priimti). Šis
+laikas neturi trukti ilgiau kaip 0,5 valandos per pamainą. Šioje dalyje
+nurodytų pareigūnų pareigybių sąrašą tvirtina Kalėjimų departamento
+direktorius.
 3. Pagal
 Kalėjimų departamento direktoriaus arba jam pavaldžios įstaigos direktoriaus iš
 anksto patvirtintą grafiką pareigūnai privalo budėti Kalėjimų departamente ar
@@ -1691,9 +1708,9 @@ suteikiamos nėštumo ir gimdymo atostogos ir ji įgyja teisę gauti išmoką n�
 ir gimdymo atostogų laikotarpiu, jai mokamos abi šios išmokos. 
 4. Jeigu pareigūnas, kuriam buvo ar yra suteiktos vaiko priežiūros
 atostogos, kol vaikui sueis 2 metai, gauna darbo užmokestį, kuris yra mažesnis
-už vidutinį darbo užmokestį, nurodytą šio straipsnio 2 ir 3 dalyse, laikotarpiu,
-kol vaikui sueis 2 metai, jam mokamas šio vidutinio darbo užmokesčio ir gaunamo
-atitinkamo mėnesio darbo užmokesčio skirtumas.
+už vidutinį darbo užmokestį, nurodytą šio straipsnio 2 ir 3 dalyse,
+laikotarpiu, kol vaikui sueis 2 metai, jam mokamas šio vidutinio darbo
+užmokesčio ir gaunamo atitinkamo mėnesio darbo užmokesčio skirtumas.
 5. Tėvystės
 atostogų laikotarpiu pareigūnui mokamas Vyriausybės nustatyta tvarka
 apskaičiuotas vidutinis jo darbo užmokestis, jeigu jis pripažino tėvystę.
@@ -1838,12 +1855,21 @@ TARNYBOS
 KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
 PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-370,
+2009-07-17, Žin., 2009, Nr. 91-3924 (2009-07-31)
+TARNYBOS
+KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
+PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2009-01-12)
+Aušra Bodin (2009-08-03)
                  
-autrap@lrs.lt
+aubodi@lrs.lt
 
