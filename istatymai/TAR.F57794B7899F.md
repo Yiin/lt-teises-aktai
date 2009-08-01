@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2009-06-01 iki 2009-07-31
+Suvestinė redakcija nuo 2009-08-01 iki 2009-12-27
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -1564,6 +1564,13 @@ Elektros energijos rinka šalyje kuriama etapais, laipsniškai suteikiant reguli
 
 
 3. Vartotojų įrenginių prijungimo prie tinklų įkainius tvirtina Komisija, vadovaudamasi vartotojų nediskriminavimo ir tinklų plėtros bei elektros energijos vartojimo efektyvumo principais.
+
+
+
+
+4. Vartotojai apmoka 20 procentų skirstomųjų tinklų operatorių, vykdančių vartotojų įrenginių prijungimo paslaugą, būtinų sąnaudų, susijusių su vartotojų įrenginių prijungimu. Likusi šių sąnaudų dalis yra skirstomųjų tinklų operatoriaus tinklų plėtros išlaidos. 
+Papildyta straipsnio dalimi:
+Nr. XI-345, 2009-07-15, Žin., 2009, Nr. 91-3912 (2009-07-31), i. k. 1091010ISTA00XI-345
  
 
 
@@ -1652,7 +1659,10 @@ Nr. XI-198, 2009-03-19, Žin., 2009, Nr. 38-1437 (2009-04-04), i. k. 1091010ISTA
 
 
 
-3. Skirstymo paslaugos kaina bei visuomeninė elektros energijos kaina gali būti diferencijuojamos į tarifų rūšis pagal vartotojų kategorijas ar grupes, elektros energijos vartojimo laiką, sunaudotos elektros energijos kiekį, nustatytą galią, taip pat pagal kitus paslaugos teikėjo pasirinktus objektyvius požymius, kurie sudarytų galimybę nustatant skirtingas tarifų rūšis siekti didesnio veiklos efektyvumo. Nustatant bei diferencijuojant kainas ir tarifus, draudžiama diskriminuoti vartotojus.
+3. Persiuntimo paslaugos kaina ir visuomeninė elektros energijos kaina gali būti diferencijuojamos į elektros energijos ir galios dedamąsias bei tarifų rūšis pagal vartotojų kategorijas ar grupes, elektros energijos vartojimo laiką, sunaudotos elektros energijos kiekį, nustatytą galią, taip pat pagal kitus paslaugos teikėjo pasirinktus objektyvius požymius, kurie sudarytų galimybę nustatant skirtingas tarifų rūšis siekti didesnio veiklos efektyvumo. Nustatant ir diferencijuojant kainas ir tarifus, draudžiama diskriminuoti vartotojus. Visuomeninė elektros energijos kaina buitiniams vartotojams į elektros energijos ir galios dedamąsias nediferencijuojama. Žemės ūkio veiklos subjektams, kurių metinės pajamos iš žemės ūkio veiklos sudaro daugiau kaip 50 procentų visų gautų pajamų ir kurių žemės ūkio valdos įregistruotos Lietuvos Respublikos žemės ūkio ir kaimo verslo registre, kurių ekonominis dydis pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus už praėjusių metų mokestinį laikotarpį nuo sausio 1 dienos iki gruodžio 31 dienos yra lygus 14 europinio dydžio vienetų arba mažesnis, nustatomų vadovaujantis 2008 m. gruodžio 8 d. Komisijos reglamentu (EB) Nr. 1242/2008, kuriuo nustatoma Bendrijos žemės ūkio valdų tipologija (OL 2008 L 335, p. 3), taikomos tokios pat elektros energijos kainos ir tarifai kaip ir buitiniams vartotojams. 
+Straipsnio dalies pakeitimai:
+Nr. XI-345, 2009-07-15, Žin., 2009, Nr. 91-3912 (2009-07-31), i. k. 1091010ISTA00XI-345
+ 
 
 
 
@@ -1671,6 +1681,13 @@ Nr. XI-198, 2009-03-19, Žin., 2009, Nr. 38-1437 (2009-04-04), i. k. 1091010ISTA
 
 
 6. Pasibaigus kiekvieniems reguliavimo periodo metams, Komisija kontroliuoja, ar paslaugos teikėjo nustatytų kainų ir tarifų metinis svertinis vidurkis neviršijo viršutinių kainų ribų. Nustačiusi, kad paslaugos teikėjo nustatytų kainų ir tarifų svertinis vidurkis per praėjusius reguliavimo periodo metus viršijo atitinkamą nustatytą viršutinę kainos ribą, Komisija turi teisę įpareigoti paslaugos teikėją nustatyti atitinkamai mažesnes kainas ir tarifus.
+
+
+
+
+7. Žemės ūkio veiklos subjektams, kurių metinės pajamos iš žemės ūkio veiklos sudaro daugiau kaip 50 procentų visų gautų pajamų ir kurių žemės ūkio valdos įregistruotos Lietuvos Respublikos žemės ūkio ir kaimo verslo registre, kurių ekonominis dydis pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus už praėjusių metų mokestinį laikotarpį nuo sausio 1 dienos iki gruodžio 31 dienos yra didesnis negu 14 europinio dydžio vienetų, nustatomų vadovaujantis 2008 m. gruodžio 8 d. Komisijos reglamentu (EB) Nr. 1242/2008, kuriuo nustatoma Bendrijos žemės ūkio valdų tipologija OL 2008 L 335, p. 3), ir pripažintoms žemės ūkio kooperatinėms bendrovėms (kooperatyvams), gaunančioms (gaunantiems) elektros energiją iš žemosios įtampos elektros tinklų, atitinkamo tarifo galios dedamoji taikoma tik rugpjūčio, rugsėjo ir spalio mėnesiais. 
+Papildyta straipsnio dalimi:
+Nr. XI-345, 2009-07-15, Žin., 2009, Nr. 91-3912 (2009-07-31), i. k. 1091010ISTA00XI-345
  
 
 
@@ -1979,3 +1996,8 @@ Lietuvos Respublikos elektros energetikos įstatymo 39 straipsnio pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-198, 2009-03-19, Žin., 2009, Nr. 38-1437 (2009-04-04), i. k. 1091010ISTA00XI-198
 Lietuvos Respublikos elektros energetikos įstatymo 2, 5, 6, 43, 44 ir 48 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-345, 2009-07-15, Žin., 2009, Nr. 91-3912 (2009-07-31), i. k. 1091010ISTA00XI-345
+Lietuvos Respublikos elektros energetikos įstatymo 42, 44 straipsnių papildymo ir pakeitimo įstatymas
