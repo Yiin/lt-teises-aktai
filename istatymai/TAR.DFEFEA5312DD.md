@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DFEFEA5312DD"
 
 # Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto patvirtinimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2007-04-26 iki 2009-07-31
+Suvestinė redakcija nuo 2009-08-01 iki 2010-07-12
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3348, i. k. 1031010ISTA0IX-1669
  
@@ -383,11 +383,23 @@ DARBO UŽMOKESTIS IR DARBO TRUKMĖ,  SOCIALINĖS IR KITOS GARANTIJOS
 2. Pareiginės algos dydžiai nustatomi bendra valstybės tarnautojams galiojančia tvarka.
 
 3. Statutiniams tarnautojams nustatomi šie priedai už kvalifikacinę kategoriją:
-1) už pirmąją kvalifikacinę kategoriją – 15 procentų pareiginės algos;
-2) už antrąją kvalifikacinę kategoriją – 25 procentai pareiginės algos;
-3) už trečiąją kvalifikacinę kategoriją – 35 procentai pareiginės algos;
-4) už ketvirtąją kvalifikacinę kategoriją – 45 procentai pareiginės algos;
-5) už penktąją kvalifikacinę kategoriją – 55 procentai pareiginės algos.
+1) už pirmąją kvalifikacinę kategoriją – 10 procentų pareiginės algos;
+2) už antrąją kvalifikacinę kategoriją – 15 procentų pareiginės algos;
+3) už trečiąją kvalifikacinę kategoriją – 20 procentų pareiginės algos;
+4) už ketvirtąją kvalifikacinę kategoriją – 25 procentai pareiginės algos;
+5) už penktąją kvalifikacinę kategoriją – 30 procentų pareiginės algos. 
+3 dalies redakcija nuo 2011-01-01:
+
+3. Statutiniams tarnautojams nustatomi šie priedai už kvalifikacinę kategoriją:
+1) už pirmąją kvalifikacinę kategoriją – 15 procentų pareiginės algos;
+2) už antrąją kvalifikacinę kategoriją – 25 procentai pareiginės algos;
+3) už trečiąją kvalifikacinę kategoriją – 35 procentai pareiginės algos;
+4) už ketvirtąją kvalifikacinę kategoriją – 45 procentai pareiginės algos;
+5) už penktąją kvalifikacinę kategoriją – 55 procentai pareiginės algos.
+
+Straipsnio dalies pakeitimai:
+Nr. XI-366, 2009-07-17, Žin., 2009, Nr. 91-3921 (2009-07-31), i. k. 1091010ISTA00XI-366
+ 
 
 4. Statutiniams tarnautojams mokamos Valstybės tarnybos įstatymo nustatytos priemokos už darbą poilsio ir švenčių dienomis, nakties metu, kenksmingomis, labai kenksmingomis ir pavojingomis darbo sąlygomis, taip pat už įprastą darbo krūvį viršijančią veiklą ar papildomų užduočių, atliekamų viršijant nustatytą darbo trukmę, atlikimą. Papildomos užduotys statutiniam tarnautojui turi būti suformuluotos raštu. Priemokos už šioje dalyje nurodytas sąlygas negali viršyti 60 procentų pareiginės algos.
  
@@ -451,4 +463,9 @@ Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 5 straipsnio p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1085, 2007-04-12, Žin., 2007, Nr. 46-1719 (2007-04-26), i. k. 1071010ISTA00X-1085
 Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 7 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-366, 2009-07-17, Žin., 2009, Nr. 91-3921 (2009-07-31), i. k. 1091010ISTA00XI-366
+Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 20 straipsnio pakeitimo įstatymas
 
