@@ -1679,7 +1679,8 @@ Nr. XI-79, 2008-12-19,
  
 35
 straipsnis. Gazoliams taikomi akcizo tarifai
-1. Gazoliams taikomas 1140 litų už 1000 litrų produkto akcizo tarifas, jeigu šiame straipsnyje nenustatyta kitaip.
+1. Gazoliams taikomas 947 litų už 1000
+litrų produkto akcizo tarifas, jeigu šiame straipsnyje nenustatyta kitaip.
 2. Šildymui
 skirtiems gazoliams (buitiniam krosnių kurui), pažymėtiems šio Įstatymo 42
 straipsnyje nustatyta tvarka, taikomas 73 litų už 1000 litrų produkto akcizo tarifas.
@@ -1703,6 +1704,9 @@ Nr. X-1355,
 2007-12-06, Žin., 2007, Nr. 132-5358 (2007-12-15)
 Nr. XI-79, 2008-12-19,
 Žin., 2008, Nr. 149-6005 (2008-12-30)
+Nr.
+XI-398,
+2009-07-23, Žin., 2009, Nr. 91-3926 (2009-07-31)(įsigalioja 2009-08-01)
  
 36
 straipsnis. Skystajam kurui (mazutams), orimulsijai taikomi akcizo tarifai
@@ -1734,8 +1738,8 @@ dalyje nurodyti produktai:
 1)
 klasifikuojami KN 1507–1518 pozicijose;
 2)
-klasifikuojami KN 3824 90 55, 3824 90 80–3824 90 99 subpozicijose (šios nuostatos
-taikomos tik tai daliai,  kuri pagaminta iš biomasės);
+klasifikuojami KN 3824 90 55, 3824 90 80–3824 90 99 subpozicijose (šios
+nuostatos taikomos tik tai daliai,  kuri pagaminta iš biomasės);
 3) 
 klasifikuojami KN 2207 20 00 ir 2905 11 00 subpozicijose, jeigu jie nėra
 sintetinės kilmės;
@@ -1769,8 +1773,8 @@ straipsnis.
 Kitiems energetiniams produktams taikomi akcizų tarifai
 Šio Įstatymo 33–37 straipsniuose
 nenurodytiems energetiniams produktams taikomi akcizų tarifai, šiuose
-straipsniuose nustatyti atitinkamiems ekvivalentiškiems produktams, vietoj
-kurių jie gali būti ar yra parduodami arba naudojami. 
+straipsniuose nustatyti atitinkamiems ekvivalentiškiems produktams, vietoj kurių
+jie gali būti ar yra parduodami arba naudojami. 
  
 41 straipsnis. Specialūs atvejai, kai energetiniai
 produktai atleidžiami nuo akcizų
@@ -1832,10 +1836,10 @@ straipsnio 2 dalyje nustatytas akcizo tarifas;
 2)
 kiti energetiniai produktai, kuriems taikomos akcizų lengvatos, Vyriausybės ar
 jos įgaliotos institucijos nustatytais atvejais.
-2. Šio straipsnio
-1 dalyje, taip pat šio Įstatymo 41 straipsnio 1 dalies 1 ir 2 punktuose
-nurodytų energetinių produktų tiekimo tvarką nustato Vyriausybė ar jos įgaliota
-institucija. 
+2. Šio
+straipsnio 1 dalyje, taip pat šio Įstatymo 41 straipsnio 1 dalies 1 ir 2
+punktuose nurodytų energetinių produktų tiekimo tvarką nustato Vyriausybė ar
+jos įgaliota institucija. 
 3.
 Už energetinių produktų žymėjimo ir (arba) tiekimo tvarkos nesilaikymą, taip
 pat tais atvejais, kai žymėti energetiniai produktai panaudojami kaip degalai
@@ -1874,9 +1878,9 @@ centrinio mokesčio administratoriaus nustatyta tvarka.
  
 45
 straipsnis. Elektros energijai taikomi akcizų tarifai
-1. Elektros energijai,
-išskyrus elektros energiją, nurodytą šio straipsnio 2 dalyje, taikomas 3,5 lito
-už elektros energijos megavatvalandę akcizo tarifas.
+1. Elektros
+energijai, išskyrus elektros energiją, nurodytą šio straipsnio 2 dalyje,
+taikomas 3,5 lito už elektros energijos megavatvalandę akcizo tarifas.
 2. Elektros
 energijai, naudojamai verslo reikmėms, taikomas 1,8 lito už elektros energijos
 megavatvalandę akcizo tarifas. Šioje dalyje nurodytas akcizo tarifas taikomas
@@ -1934,9 +1938,9 @@ asmuo, gavęs elektros energijos iš kitos valstybės narės, privalo vietos
 mokesčio administratoriui, kurio veiklos teritorijoje jis registruotas,
 pateikti akcizų už elektros energiją deklaraciją. Deklaracijos formą ir pildymo
 taisykles nustato centrinis mokesčio administratorius. Joje privalo būti
-deklaruota akcizų suma, apskaičiuota už elektros energiją, už kurią prievolė
-mokėti akcizus šio Įstatymo 43 straipsnyje nustatyta tvarka atsirado tą
-mokestinį laikotarpį. Akcizai privalo būti sumokėti iki šioje dalyje nustatyto
+deklaruota akcizų suma, apskaičiuota už elektros energiją, už kurią prievolė mokėti
+akcizus šio Įstatymo 43 straipsnyje nustatyta tvarka atsirado tą mokestinį
+laikotarpį. Akcizai privalo būti sumokėti iki šioje dalyje nustatyto
 deklaracijos pateikimo termino pabaigos.
 2. Jeigu asmuo
 netenka nepriklausomo arba visuomeninio tiekėjo statuso, jis privalo šio
@@ -2021,18 +2025,19 @@ pasibaigus iki kito mėnesio 15 dienos registruotas akmens anglių, kokso ir
 akmens anglių, kokso ir (arba) lignito, privalo vietos mokesčio
 administratoriui, kurio veiklos teritorijoje jis registruotas, pateikti akcizų
 už akmens anglis, koksą, lignitą deklaraciją. Deklaracijos formą ir užpildymo
-taisykles nustato centrinis mokesčio administratorius. Joje privalo būti deklaruota
-akcizų suma, apskaičiuota už akmens anglis, koksą ir (arba) lignitą, už kuriuos
-šio Įstatymo 49 straipsnio 1 dalyje nustatyta tvarka prievolė sumokėti akcizus
-atsirado tą mokestinį laikotarpį. Akcizai sumokami iki šioje dalyje nustatyto
-deklaracijos pateikimo termino pabaigos.
+taisykles nustato centrinis mokesčio administratorius. Joje privalo būti
+deklaruota akcizų suma, apskaičiuota už akmens anglis, koksą ir (arba) lignitą,
+už kuriuos šio Įstatymo 49 straipsnio 1 dalyje nustatyta tvarka prievolė
+sumokėti akcizus atsirado tą mokestinį laikotarpį. Akcizai sumokami iki šioje
+dalyje nustatyto deklaracijos pateikimo termino pabaigos.
 2. Jeigu asmuo
 netenka registruoto akmens anglių, kokso ir (arba) lignito tiekėjo statuso, jis
 privalo šio straipsnio 1 dalyje nustatytais terminais pateikti vietos mokesčio
 administratoriui, kurio veiklos teritorijoje jis registruotas, akcizų už akmens
 anglis, koksą, lignitą deklaraciją. Joje turi būti deklaruoti akcizai už visą
 įsigytą akmens anglių, kokso, lignito kiekį, už kurį dar nesumokėti akcizai, ir
-juos sumokėti iki šioje dalyje nustatyto deklaracijos pateikimo termino pabaigos.
+juos sumokėti iki šioje dalyje nustatyto deklaracijos pateikimo termino
+pabaigos.
 3. Už asmens, kuris
 nėra registruotas akmens anglių, kokso ir (arba) lignito tiekėjas, importuotus
 akmens anglis, koksą ir (arba) lignitą akcizai sumokami Vyriausybės ar jos
@@ -2103,8 +2108,8 @@ tarp valstybių narių*:
 2) KN 2710 11–2710 19 69 pozicijose
 klasifikuojami produktai. Produktams, klasifikuojamiems KN 2710 11 21, 2710 11
 25 ir 2710 19 29 pozicijose, Įstatymo nuostatos dėl akcizais apmokestinamų
-prekių gabenimo netaikomos tik tuo atveju, jeigu jie tarp valstybių narių gabenami
-išpilstyti į mažmeninei prekybai skirtą pakuotę;
+prekių gabenimo netaikomos tik tuo atveju, jeigu jie tarp valstybių narių
+gabenami išpilstyti į mažmeninei prekybai skirtą pakuotę;
 3) KN 2711 pozicijoje klasifikuojami
 produktai, išskyrus KN 2711 11, 2711 21 ir 2711 29 pozicijose klasifikuojamus
 produktus;
@@ -2197,8 +2202,8 @@ AKCIZŲ
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-993, 2002-06-27,
-Žin., 2002, Nr. 66-2706 (2002-06-29)
+IX-993,
+2002-06-27, Žin., 2002, Nr. 66-2706 (2002-06-29)
 AKCIZŲ
 ĮSTATYMO 8, 10, 12, 13 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
@@ -2248,18 +2253,18 @@ skirtais naudoti kaip variklių kuras (degalai) naftos dujomis ir dujiniais
 angliavandeniliais, centrinio mokesčio administratoriaus nustatyta tvarka
 panaikinami per 10 dienų nuo šio Įstatymo įsigaliojimo. Panaikinus leidimą
 steigti akcizais apmokestinamų prekių sandėlį, akcizų deklaracija, kurioje, be
-Lietuvos Respublikos akcizų įstatymo 9 straipsnio 1 ir 2 dalyse nustatyta tvarka
-apskaičiuotos akcizų sumos, turi būti deklaruota ir akcizų suma, mokėtina už
-visas kitą dieną po leidimo panaikinimo jame buvusias akcizais apmokestinamas
-prekes, už kurias akcizai dar nebuvo sumokėti, taikant galiojusius tą dieną
-akcizų tarifus, turi būti pateikta ir akcizai sumokėti iki 2004 m. balandžio 15 d. 
+Lietuvos Respublikos akcizų įstatymo 9 straipsnio 1 ir 2 dalyse nustatyta
+tvarka apskaičiuotos akcizų sumos, turi būti deklaruota ir akcizų suma,
+mokėtina už visas kitą dieną po leidimo panaikinimo jame buvusias akcizais
+apmokestinamas prekes, už kurias akcizai dar nebuvo sumokėti, taikant
+galiojusius tą dieną akcizų tarifus, turi būti pateikta ir akcizai sumokėti iki
+ 2004 m. balandžio 15 d. 
 Asmenys,
 iki šio Įstatymo įsigaliojimo įsteigę akcizais apmokestinamų prekių sandėlį,
 kuriame buvo vykdoma didmeninė prekyba naftos dujomis ir dujiniais
 angliavandeniliais, ir pageidaujantys panaikinti leidimą steigti akcizais
-apmokestinamų prekių sandėlį, privalo raštu kreiptis į vietos mokesčio
-administratorių dėl leidimo steigti akcizais apmokestinamų prekių sandėlį
-panaikinimo.
+apmokestinamų prekių sandėlį, privalo raštu kreiptis į vietos mokesčio administratorių
+dėl leidimo steigti akcizais apmokestinamų prekių sandėlį panaikinimo.
  
 7.
 Lietuvos
@@ -2359,11 +2364,19 @@ AKCIZŲ
 Šio įstatymo 5 straipsnio 2 dalis
 įsigalioja 2009 m. rugsėjo 1 d.
  
+15.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-398,
+2009-07-23, Žin., 2009, Nr. 91-3926 (2009-07-31)
+AKCIZŲ
+ĮSTATYMO 35 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2008-12-30)
+Aušra Bodin (2009-08-03)
                  
-autrap@lrs.lt
+aubodi@lrs.lt
