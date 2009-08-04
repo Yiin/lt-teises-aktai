@@ -346,13 +346,11 @@ tvarko šių asmenų įskaitos duomenis;“.
 straipsnis. Baigiamosios nuostatos
 1.
 Šis įstatymas įsigalioja 2009 m. sausio 1 d.
-2. Už 2008 metus
-savarankiškai dirbančių asmenų valstybinio socialinio draudimo įmokos
+*2. Už 2008
+metus savarankiškai dirbančių asmenų valstybinio socialinio draudimo įmokos
 apskaičiuojamos ir mokamos iki 2009 m. sausio 1 d. galiojusių Valstybinio
 socialinio draudimo įstatymo nuostatų nustatyta tvarka.
-Pastaba. 2
-dalies nuostatos taikomos nuo 2009 m. sausio 1 d.
-3. Valstybinio
+*3. Valstybinio
 socialinio draudimo įmokų tarifas už ūkininkus ir jų partnerius, kurių žemės
 ūkio valdos, įregistruotos Lietuvos Respublikos žemės ūkio ir kaimo verslo
 registre, ekonominis dydis pagal valstybės įmonės Žemės ūkio informacijos ir
@@ -364,38 +362,33 @@ rodiklių patvirtinimo įstatyme numatytą dalį nuo viso dydžio savarankiškai
 dirbančio asmens pensijų socialinio draudimo bei ligos ir motinystės socialinio
 draudimo, kai draudžiama motinystės, tėvystės, motinystės (tėvystės) pašalpoms
 gauti, įmokų tarifų bendros sumos.
-Pastaba. 3
-dalies nuostatos taikomos nuo 2009 m. sausio 1 d.
 4.
-Valstybinio socialinio draudimo įmokų tarifas nuo asmenų pajamų, gautų iš sporto
-veiklos, asmenų pajamų, gautų iš atlikėjo veiklos ir pajamų, gautų pagal
+Valstybinio socialinio draudimo įmokų tarifas nuo asmenų pajamų, gautų iš
+sporto veiklos, asmenų pajamų, gautų iš atlikėjo veiklos ir pajamų, gautų pagal
 autorines sutartis, 2009 metais sudaro Valstybinio socialinio draudimo fondo
 biudžeto 2009 metų rodiklių patvirtinimo įstatyme numatytą dalį nuo:
 1)
 viso dydžio draudėjo ir apdraustojo pensijų, ligos ir motinystės, nedarbo,
-nelaimingų atsitikimų ir profesinių ligų socialinio draudimo įmokų tarifų
-bendros sumos – asmenims, nurodytiems Lietuvos Respublikos valstybinio
-socialinio draudimo įstatymo 4 straipsnio 1 dalies 1 punkte;
+nelaimingų atsitikimų ir profesinių ligų socialinio draudimo įmokų tarifų bendros
+sumos – asmenims, nurodytiems Lietuvos Respublikos valstybinio socialinio
+draudimo įstatymo 4 straipsnio 1 dalies 1 punkte;
 2)
 viso dydžio draudėjo ir apdraustojo pensijų, ligos ir motinystės ar ligos ir
 motinystės, kai draudžiama motinystės, tėvystės bei motinystės (tėvystės)
 socialinio draudimo pašalpoms gauti, socialinio draudimo įmokų tarifų bendros
 sumos – asmenims, nurodytiems Lietuvos Respublikos valstybinio socialinio
 draudimo įstatymo 4 straipsnio 5 dalyje.
-5. 2009 ir 2010
-metais asmenų, gaunančių pajamas iš sporto veiklos, socialinio draudimo įmokos
-apskaičiuojamos ir mokamos nuo šių asmenų iš sporto veiklos gautų pajamų, neviršijančių
-keturių Lietuvos Respublikos Vyriausybės patvirtintų einamųjų metų draudžiamųjų
-pajamų dydžių sumos per mėnesį. Už 2009 ir 2010 metus individualių įmonių
-savininkų, ūkinių bendrijų tikrųjų narių ir asmenų, kurie verčiasi individualia
-veikla, kaip ji apibrėžta Gyventojų pajamų mokesčio įstatyme, išskyrus
-ūkininkus ir jų partnerius, socialinio draudimo įmokos apskaičiuojamos ir
-mokamos nuo Valstybinio socialinio draudimo įstatymo 7 straipsnio 2 dalyje
-nurodytų šių asmenų gautų pajamų metinės sumos, neviršijančios keturių Lietuvos
-Respublikos Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų dydžių
-sumos per mėnesį.
-Pastaba. 5
-dalies nuostatos taikomos nuo 2009 m. sausio 1 d.
+5. 2009 metais
+asmenų, gaunančių pajamas iš sporto veiklos, socialinio draudimo įmokos apskaičiuojamos ir mokamos nuo šių asmenų iš
+sporto veiklos gautų pajamų, neviršijančių keturių Lietuvos Respublikos
+Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų dydžių sumos per
+mėnesį. Už 2009 metus individualių įmonių savininkų, ūkinių bendrijų tikrųjų
+narių ir asmenų, kurie verčiasi individualia veikla, kaip ji apibrėžta Gyventojų pajamų mokesčio įstatyme, išskyrus ūkininkus ir
+jų partnerius, socialinio draudimo įmokos
+apskaičiuojamos ir mokamos nuo Valstybinio socialinio
+draudimo įstatymo 7 straipsnio 2 dalyje nurodytų šių asmenų gautų pajamų
+metinės sumos, neviršijančios keturių Lietuvos Respublikos Vyriausybės
+patvirtintų einamųjų metų draudžiamųjų pajamų dydžių sumos per mėnesį.
 6.
 Šio straipsnio 3 ir 4 dalyse išvardytų asmenų socialinio draudimo įmokų tarifas
 2010 metais didinamas dvigubai, nei buvo numatyta 2009 metams, o nuo 2011 m. sausio 
@@ -409,6 +402,11 @@ Straipsnio
 pakeitimas:
 Nr. XI-171,
 2009-02-17, Žin., 2009, Nr. 25-973 (2009-03-05)
+*Pastaba: nuostatos
+taikomos nuo 2009 m. sausio 1 d.
+Nr.
+XI-390,
+2009-07-22, Žin., 2009, Nr. 93-3982 (2009-08-04)
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -431,10 +429,20 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šio įstatymo nuostatos taikomos nuo 2009
 m. sausio 1 d.
  
-*** Pabaiga ***
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-390,
+2009-07-22, Žin., 2009, Nr. 93-3982 (2009-08-04)
+VALSTYBINIO
+SOCIALINIO DRAUDIMO ĮSTATYMO 2, 3, 4, 5, 7, 8, 9, 29, 31 STRAIPSNIŲ PAKEITIMO
+IR PAPILDYMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+***
+Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė
-(2009-03-09)
+Redagavo
+Aušra Bodin (2009-08-05)
                  
-autrap@lrs.lt
+aubodi@lrs.lt
