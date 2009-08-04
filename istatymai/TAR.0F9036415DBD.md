@@ -26,8 +26,7 @@ LIETUVOS RESPUBLIKOS
 VALSTYBINIO SOCIALINIO DRAUDIMO
 Į S T A T Y M A S 
  
-1991 m. gegužės 21 d.             
-Nr. I-1336
+1991 m. gegužės 21 d. Nr. I-1336
 Vilnius
  
 Nauja įstatymo redakcija
@@ -179,11 +178,11 @@ susiję su draudėju darbo santykiais arba jų esmę atitinkančiais santykiais
 taip, kaip šie santykiai apibrėžti Gyventojų pajamų mokesčio įstatyme, tuo pat
 metu iš šio draudėjo gaunantys pajamas iš sporto veiklos, atlikėjo veiklos arba
 pagal autorines sutartis;
-2) Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo
-įstatyme, Teisėjų atlyginimų įstatyme ir Valstybės tarnybos įstatyme
-nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės
-tarnautojai (išskyrus valstybės tarnautojus, nurodytus šio straipsnio 2
-dalyje), Asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar
+2) Valstybės politikų ir valstybės pareigūnų darbo
+apmokėjimo įstatyme, Teisėjų atlyginimų įstatyme ir Valstybės tarnybos
+įstatyme nurodyti valstybės politikai, teisėjai, valstybės pareigūnai,
+valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus šio straipsnio
+2 dalyje), Asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar
 užsienio valstybių institucijas įstatyme nurodyti asmenys, kuriems darbo
 užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos
 Respublikos deleguojančioji institucija (toliau – deleguoti asmenys), taip pat
@@ -223,10 +222,10 @@ atliekantys alternatyviąją krašto apsaugos tarnybą;
 5) šeimos pasirinkimu vienas iš tėvų
 (įtėvių) arba asmuo, nustatyta tvarka paskirtas vaiko globėju, auginantys vaiką
 iki trejų metų;
-6) nesukakęs senatvės
-pensijos amžiaus vienas iš neįgalaus asmens, kuriam nustatytas specialusis
-nuolatinės slaugos poreikis, tėvų (įtėvių) arba asmuo, nustatyta tvarka
-paskirtas šio neįgalaus asmens globėju ar rūpintoju, slaugantis namuose
+6) nesukakęs
+senatvės pensijos amžiaus vienas iš neįgalaus asmens, kuriam nustatytas
+specialusis nuolatinės slaugos poreikis, tėvų (įtėvių) arba asmuo, nustatyta
+tvarka paskirtas šio neįgalaus asmens globėju ar rūpintoju, slaugantis namuose
 nurodytą neįgalų asmenį. Ši nuostata taip pat taikoma vienam iš tėvų (įtėvių),
 globėjui ar rūpintojui, slaugančiam namuose visiškos negalios invalidą,
 pripažintą tokiu iki 2005 m. liepos 1 d.
@@ -406,8 +405,7 @@ sudarymo ir vykdymo taisyklėse nustatyta tvarka draudžiami valstybės lėšomi
 skaičiuojant nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo
 įmokas nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos. Asmenų,
 nurodytų šio įstatymo 4 straipsnio 6 dalies 2 ir 3 punktuose, nelaimingų
-atsitikimų darbe ir profesinių ligų socialinio draudimo įmokas privalo mokėti
-draudėjai.
+atsitikimų darbe ir profesinių ligų socialinio draudimo įmokas privalo mokėti draudėjai.
 6. Socialinio draudimo įmokų tarifai bei
 jų dydžiai (jų dalys) atskirų rūšių socialiniam draudimui tvirtinami
 Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.
@@ -1004,10 +1002,10 @@ priverstinai išieškoti socialinio draudimo įmokas atsiradimo dienos.
 Delspinigių dydį ir jo apskaičiavimo tvarką nustato finansų ministras.
 2. Jei patikrinimo metu nustatoma, kad socialinio
 draudimo įmokos neteisėtai sumažintos, priskaičiuojama trūkstama socialinio
-draudimo įmokų suma ir skiriama 50 procentų šios sumos dydžio bauda. Šiuo
-atveju delspinigiai, numatyti šio straipsnio 1 dalyje, neskaičiuojami. Jeigu
-draudėjas pastebėjo, kad priskaičiavo per mažas socialinio draudimo įmokas, bet
-iki datos, nurodytos pavedime patikrinti draudėją (jei pavedimo nėra, – iki
+draudimo įmokų suma ir skiriama 50 procentų šios sumos dydžio bauda. Šiuo atveju
+delspinigiai, numatyti šio straipsnio 1 dalyje, neskaičiuojami. Jeigu draudėjas
+pastebėjo, kad priskaičiavo per mažas socialinio draudimo įmokas, bet iki
+datos, nurodytos pavedime patikrinti draudėją (jei pavedimo nėra, – iki
 tikrinimo pradžios), klaidas savanoriškai ištaisė, sumokėjo trūkstamą
 socialinio draudimo įmokų sumą, pristatė patikslintas ataskaitas ir informavo
 apie apdraustųjų asmenų draudžiamąsias pajamas, bauda už padarytą pažeidimą
@@ -2359,7 +2357,7 @@ VALSTYBINIO
 SOCIALINIO DRAUDIMO ĮSTATYMO 4, 5 IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja 2009 m. sausio 1 d.
-Šio įstatymo pakeitimas:
+Šio įstatymo pakeitimai:
 Lietuvos Respublikos Seimas,
 Įstatymas
 Nr. XI-92, 2008-12-19,
@@ -2378,14 +2376,22 @@ SOCIALINIO DRAUDIMO ĮSTATYMO 2, 3, 4, 5, 7, 8, 9, 29, 31 STRAIPSNIŲ PAKEITIMO
 IR PAPILDYMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja 2009 m. sausio 1 d.
-Šio įstatymo taikymo pakeitimas:
+Šio įstatymo taikymo pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
+1)
 Nr. XI-171,
 2009-02-17, Žin., 2009, Nr. 25-973 (2009-03-05)
 VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 2, 3, 4, 5, 7, 8, 9, 29, 31
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-Šio įstatymo nuostatos taikomos nuo 2009
-m. sausio 1 d.
+Šio įstatymo
+nuostatos taikomos nuo 2009 m. sausio 1 d.
+2)
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-390,
+2009-07-22, Žin., 2009, Nr. 93-3982 (2009-08-04)
+VALSTYBINIO SOCIALINIO DRAUDIMO
+ĮSTATYMO 2, 3, 4, 5, 7, 8, 9, 29, 31 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO
+10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 49.
 Lietuvos
@@ -2413,8 +2419,8 @@ SOCIALINIO DRAUDIMO ĮSTATYMO 22 IR 33 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 51.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XI-389, 2009-07-22,
-Žin., 2009, Nr. 93-3981 (2009-08-04)
+Nr. XI-389,
+2009-07-22, Žin., 2009, Nr. 93-3981 (2009-08-04)
 VALSTYBINIO
 SOCIALINIO DRAUDIMO ĮSTATYMO 2, 4, 7, 8, 9 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 ĮSTATYMAS
@@ -2426,11 +2432,12 @@ vėlesnius metus.
 įstatymo 1 straipsnis taikomas apskaičiuojant ir mokant valstybinio socialinio
 draudimo įmokas už 2009 ir vėlesnius metus.
  
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
 Aušra Bodin (2009-08-05)
-                
- aubodi@lrs.lt
+                 
+aubodi@lrs.lt
