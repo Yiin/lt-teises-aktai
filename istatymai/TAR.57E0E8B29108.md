@@ -13,13 +13,17 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2008-02-14 iki 2009-08-03
+Suvestinė redakcija nuo 2009-08-04 iki 2012-06-29
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
  
-LIETUVOS RESPUBLIKOS
-STRATEGINĘ REIKŠMĘ NACIONALINIAM SAUGUMUI TURINČIŲ ĮMONIŲ IR ĮRENGINIŲ BEI KITŲ NACIONALINIAM SAUGUMUI UŽTIKRINTI SVARBIŲ ĮMONIŲ
-Į S T A T Y M A S
+Nauja redakcija nuo 2009-08-04:
+Nr. XI-375, 2009-07-21, Žin. 2009, Nr. 93-3968 (2009-08-04), i. k. 1091010ISTA00XI-375
+ 
+Lietuvos Respublikos
+Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių 
+bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių
+ĮSTATYMAS
  
 2002 m. spalio 10 d. Nr. IX-1132
 Vilnius
@@ -29,7 +33,7 @@ Vilnius
 1 straipsnis. Įstatymo paskirtis
 
 
-Įstatymo paskirtis – nustatyti, kurios įmonės ir įrenginiai (tarp jų ir steigtini) turi strateginę reikšmę nacionaliniam saugumui, kurie iš jų nuosavybės teise privalo priklausyti valstybei, o kuriuose iš jų (ir kokiomis sąlygomis) kapitalo dalį gali sudaryti privatus nacionalinis bei europinės ir transatlantinės integracijos kriterijus atitinkantis užsienio kapitalas, paliekant sprendžiamąją galią valstybei, taip pat nustatyti kitas nacionaliniam saugumui užtikrinti svarbias įmones.
+Įstatymo paskirtis – nustatyti, kurios įmonės ir įrenginiai turi strateginę ar svarbią reikšmę nacionaliniam saugumui, kurie iš jų nuosavybės teise privalo priklausyti valstybei, o kuriuose iš jų (ir kokiomis sąlygomis) kapitalo dalį gali turėti privatūs nacionaliniai ir užsienio asmenys, atitinkantys nacionalinio saugumo interesus, paliekant sprendžiamąją galią valstybei. Šiuo įstatymu taip pat nustatoma tvarka ir kriterijai, kuriais vadovaujantis įvertinama strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių potencialių įmonių dalyvių atitiktis Lietuvos nacionalinio saugumo interesams.
  
 
 
@@ -37,128 +41,134 @@ Vilnius
 
 
 
-2 straipsnis. Valstybės įmonės ir valstybei nuosavybės teise priklausantys įrenginiai
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
+
+
+1. Lietuvos Respublikos strateginę ar svarbią reikšmę nacionaliniam saugumui turinčios įmonės ir įrenginiai – esamos ar steigiamos įmonės, projektuojami ar statomi įrenginiai, kuriems pagal jų paskirtį ir (ar) veiklos pobūdį šis įstatymas priskiria strateginę arba svarbią reikšmę Lietuvos nacionaliniam saugumui ir kuriems dėl esminių nacionalinio saugumo interesų apsaugos nustatomos sąlygos ir reikalavimai dėl įmonių ar įrenginių nuosavybės teisių, įmonių kapitalo struktūros ir jo pokyčių, pagrindinių sprendimų priėmimo, taip pat reikalavimai, kuriuos turi tenkinti potencialūs įmonių dalyviai.
+
+
+
+
+2. Nacionalinio saugumo interesai – valstybės nepriklausomybės ir suvereniteto apsauga, europinė ir transatlantinė integracija, grėsmių ir rizikos veiksnių esminę reikšmę visuomenės saugumui turintiems energetikos ir kitiems ūkio sektoriams mažinimas.
+
+
+
+
+3. Potencialus įmonės dalyvis – fizinis arba juridinis asmuo, oficialiai pareiškęs ketinimą ar interesą įsigyti strateginę ar svarbią reikšmę nacionaliniam saugumui turinčios įmonės akcijų arba investuoti į strateginę reikšmę nacionaliniam saugumui turinčią įmonę ar jos numatomą steigti įmonę, arba tapti strateginę reikšmę nacionaliniam saugumui turinčios įmonės ar įrenginio plėtros (technologijų įgijimo, svarbių žaliavų tiekimo, pagrindinių plėtros darbų vykdymo ir pan.) projekto dalyviu. Potencialiu įmonės dalyviu laikytinas ir esamas strateginę ar svarbią reikšmę nacionaliniam saugumui turinčios įmonės akcininkas, siekiantis papildomai įsigyti įmonės akcijų.
+
+
+
+
+4. Specialiosios saugumo priemonės – teisės aktuose ir tarptautinėse sutartyse nustatytos sąlygos ir reikalavimai, skirti esminių valstybės interesų (valstybės saugumo, suvereniteto, ekonominės galios, visuomenės sveikatos ir saugios aplinkos, viešosios tvarkos užtikrinimo ir kitų) apsaugai, siekiant užkirsti kelią grėsmę keliantiems veiksmams ir neveikimui, šalinti jų atsiradimo priežastis ir sąlygas.
+ 
+
+
+
+
+
+
+3 straipsnis. Strateginę reikšmę nacionaliniam saugumui turinčios valstybės įmonės ir valstybei nuosavybės teise priklausantys įrenginiai
 
 
 1. Strateginę reikšmę nacionaliniam saugumui turi šios valstybės įmonės:
 
 
-1. Neteko galios nuo 2006-06-10
-Straipsnio punkto naikinimas:
-Nr. X-621, 2006-05-25, Žin. 2006, Nr. 65-2385 (2006-06-10), i. k. 1061010ISTA000X-621
- 
+1) valstybės įmonė Ignalinos atominė elektrinė;
 
 
 
 
-2) valstybės įmonė Giraitės ginkluotės gamykla;
+2) valstybės įmonė „Kauno aerouostas“;
 
 
 
 
-3) valstybės įmonė Ignalinos atominė elektrinė;
+3) valstybės įmonė Klaipėdos valstybinio jūrų uosto direkcija;
 
 
 
 
-4) valstybės įmonė Kauno aerouostas;
+4) valstybės įmonė Lietuvos paštas;
 
 
 
 
-5) valstybės įmonė Klaipėdos valstybinio jūrų uosto direkcija;
+5) valstybės įmonė Lietuvos naftos produktų agentūra;
 
 
 
 
-6) valstybės įmonė Lietuvos paštas;
+6) valstybės įmonė „Oro navigacija“;
 
 
 
 
-7) valstybės įmonė Lietuvos naftos produktų agentūra;
+7) valstybės įmonė Tarptautinis Palangos oro uostas;
 
 
 
 
-8) valstybės įmonė „Oro navigacija“;
+8) valstybės įmonė Tarptautinis Vilniaus oro uostas;
 
 
 
 
-9) valstybės įmonė Tarptautinis Palangos oro uostas;
+9) valstybės įmonė „Automagistralė“;
 
 
 
 
-10) valstybės įmonė Tarptautinis Vilniaus oro uostas.
+10) valstybės įmonė „Alytaus regiono keliai“;
 
 
 
 
+11) valstybės įmonė „Kauno regiono keliai“;
 
 
-11) valstybės įmonė „Automagistralė“;
 
 
+12) valstybės įmonė „Klaipėdos regiono keliai“;
 
 
-12) valstybės įmonė „Alytaus regiono keliai“;
 
 
+13) valstybės įmonė „Marijampolės regiono keliai“;
 
 
-13) valstybės įmonė „Kauno regiono keliai“;
 
 
+14) valstybės įmonė „Panevėžio regiono keliai“;
 
 
-14) valstybės įmonė „Klaipėdos regiono keliai“;
 
 
+15) valstybės įmonė „Šiaulių regiono keliai“;
 
 
-15) valstybės įmonė „Marijampolės regiono keliai“;
 
 
+16) valstybės įmonė „Tauragės regiono keliai“;
 
 
-16) valstybės įmonė „Panevėžio regiono keliai“;
 
 
+17) valstybės įmonė „Telšių regiono keliai“;
 
 
-17) valstybės įmonė „Šiaulių regiono keliai“;
 
 
+18) valstybės įmonė „Utenos regiono keliai“;
 
 
-18) valstybės įmonė „Tauragės regiono keliai“;
 
 
+19) valstybės įmonė „Vilniaus regiono keliai“;
 
 
-19) valstybės įmonė „Telšių regiono keliai“;
 
 
-
-
-20) valstybės įmonė „Utenos regiono keliai“;
-
-
-
-
-21) valstybės įmonė „Vilniaus regiono keliai“;
-
-
-
-
-22) valstybės įmonė „Vidaus vandens kelių direkcija“. 
-
-
-Papildyta citata:
-Nr. IX-2000, 2004-02-05, Žin., 2004, Nr. 28-871 (2004-02-21), i. k. 1041010ISTA0IX-2000
- 
+20) valstybės įmonė Vidaus vandens kelių direkcija.
 
 
 
@@ -173,7 +183,7 @@ Nr. IX-2000, 2004-02-05, Žin., 2004, Nr. 28-871 (2004-02-21), i. k. 1041010ISTA
 
 
 
-2) valstybinės reikšmės keliai pagal Vyriausybės patvirtintą sąrašą;
+2) valstybinės reikšmės keliai pagal Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) patvirtintą sąrašą;
 
 
 
@@ -190,14 +200,12 @@ Nr. IX-2000, 2004-02-05, Žin., 2004, Nr. 28-871 (2004-02-21), i. k. 1041010ISTA
 
 
 
-3. Šio straipsnio 1 dalyje nurodytos valstybės įmonės gali būti pertvarkytos į akcines bendroves ar uždarąsias akcines bendroves arba reorganizuotos Civilinio kodekso nustatytais būdais tik Seimui priėmus atitinkamą įstatymą.
+3. Šio straipsnio 1 dalyje nurodytos valstybės įmonės gali būti pertvarkytos į akcines bendroves ar uždarąsias akcines bendroves arba reorganizuotos Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas) nustatytais būdais tik Lietuvos Respublikos Seimui priėmus atitinkamą įstatymą.
 
 
 
 
-4. Šio straipsnio 2 dalyje nurodyti įrenginiai turi nuosavybės teise priklausyti valstybei ir gali būti išnuomoti ir perduoti pagal panaudos sutartį arba perduoti valdyti, naudoti ir disponuoti jais patikėjimo teise tik šio straipsnio 1 dalyje nurodytoms valstybės įmonėms ir 3 straipsnio 1 dalyje nurodytoms įmonėms.
-Straipsnio dalies pakeitimai:
-Nr. IX-2000, 2004-02-05, Žin., 2004, Nr. 28-871 (2004-02-21), i. k. 1041010ISTA0IX-2000
+4. Šio straipsnio 2 dalyje nurodyti įrenginiai nuosavybės teise priklauso valstybei, bet gali būti išnuomoti ir perduoti pagal panaudos sutartį arba gali būti perduoti valdyti, naudoti ir disponuoti jais patikėjimo teise tik šio straipsnio 1 dalyje nurodytoms valstybės įmonėms ir šio įstatymo 4 straipsnio 1 dalyje nurodytoms įmonėms.
  
 
 
@@ -205,10 +213,10 @@ Nr. IX-2000, 2004-02-05, Žin., 2004, Nr. 28-871 (2004-02-21), i. k. 1041010ISTA
 
 
 
-3 straipsnis.         Įmonės, kurių kapitalo dalį gali sudaryti privatus nacionalinis bei europinės ir transatlantinės integracijos kriterijus atitinkantis užsienio kapitalas, paliekant sprendžiamąją galią valstybei, ir įrenginiai
+4 straipsnis. Strateginę reikšmę nacionaliniam saugumui turinčios įmonės ir įrenginiai
 
 
-1. Strateginę reikšmę nacionaliniam saugumui turi šios įmonės, kurių kapitalo dalį gali sudaryti privatus nacionalinis bei europinės ir transatlantinės integracijos kriterijus atitinkantis užsienio kapitalas, paliekant sprendžiamąją galią valstybei:
+1. Strateginę reikšmę nacionaliniam saugumui turi šios įmonės, kurių kapitalo dalį gali turėti privatūs nacionaliniai ir užsienio asmenys, atitinkantys nacionalinio saugumo interesus, paliekant sprendžiamąją galią valstybei:
 
 
 1) akcinė bendrovė „Detonas“;
@@ -241,42 +249,34 @@ Nr. IX-2000, 2004-02-05, Žin., 2004, Nr. 28-871 (2004-02-21), i. k. 1041010ISTA
 
 
 
-7. Neteko galios nuo 2007-04-26
-Straipsnio punkto naikinimas:
-Nr. X-1079, 2007-04-05, Žin. 2007, Nr. 46-1714 (2007-04-26), i. k. 1071010ISTA00X-1079
- 
+7) akcinė bendrovė „Klaipėdos nafta“;
 
 
 
 
-8) akcinė bendrovė „Klaipėdos nafta“.
+8) nacionalinis investuotojas, nurodytas Lietuvos Respublikos atominės elektrinės įstatymo (toliau – Atominės elektrinės įstatymas) ketvirtajame skirsnyje (toliau – nacionalinis investuotojas);
 
 
 
 
-
-
-9) nacionalinis investuotojas, nurodytas Lietuvos Respublikos atominės elektrinės įstatymo ketvirtajame skirsnyje (toliau – nacionalinis investuotojas);
-
-
-
-
-10) AB Kruonio hidroakumuliacinė elektrinė;
+9) akcinė bendrovė Kruonio hidroakumuliacinė elektrinė;
 
 
 
 
-11) AB Kauno hidroelektrinė. 
+10) akcinė bendrovė Kauno hidroelektrinė;
 
 
-Papildyta citata:
-Nr. X-1447, 2008-02-01, Žin., 2008, Nr. 19-675 (2008-02-14), i. k. 1081010ISTA00X-1447
- 
 
 
-Straipsnio dalies pakeitimai:
-Nr. IX-2000, 2004-02-05, Žin., 2004, Nr. 28-871 (2004-02-21), i. k. 1041010ISTA0IX-2000
- 
+11) projekto įgyvendinimo bendrovė, nurodyta Atominės elektrinės įstatyme (toliau – projekto įgyvendinimo bendrovė);
+
+
+
+
+12) elektros perdavimo jungčių statytojas, nurodytas Atominės elektrinės įstatyme (toliau – elektros perdavimo jungčių statytojas).
+
+
 
 
 
@@ -286,15 +286,12 @@ Nr. IX-2000, 2004-02-05, Žin., 2004, Nr. 28-871 (2004-02-21), i. k. 1041010ISTA
 
 
 
-3. Šiame Įstatyme valstybės sprendžiamoji galia reiškia, kad šio straipsnio 1 dalyje nurodytose įmonėse, išskyrus akcinę bendrovę „Lietuvos energija“, valstybei turi priklausyti daugiau kaip 1/2 balsų suteikiančių šių įmonių akcijų. Valstybės sprendžiamoji galia akcinėje bendrovėje „Lietuvos energija“ reiškia, kad valstybei, o įsteigus nacionalinį investuotoją ir kaip nepiniginį įnašą į jo įstatinį kapitalą įnešus valstybei nuosavybės teise priklausančias akcinės bendrovės „Lietuvos energija“ akcijas, nacionaliniam investuotojui priklauso daugiau kaip 2/3 balsų suteikiančių šios įmonės akcijų. 
-Straipsnio dalies pakeitimai:
-Nr. X-1447, 2008-02-01, Žin., 2008, Nr. 19-675 (2008-02-14), i. k. 1081010ISTA00X-1447
- 
+3. Šiame įstatyme valstybės sprendžiamoji galia reiškia, kad šio straipsnio 1 dalyje nurodytose įmonėse, išskyrus akcinę bendrovę „Lietuvos energija“, projekto įgyvendinimo bendrovę ir nacionalinį investuotoją, valstybei turi priklausyti daugiau kaip 1/2 balsų suteikiančių šių įmonių akcijų. Valstybės sprendžiamoji galia akcinėje bendrovėje „Lietuvos energija“ reiškia, kad valstybei, o įsteigus nacionalinį investuotoją ir kaip nepiniginį įnašą į jo įstatinį kapitalą įnešus valstybei nuosavybės teise priklausančias akcinės bendrovės „Lietuvos energija“ akcijas, nacionaliniam investuotojui priklauso ne mažiau kaip 2/3 balsų suteikiančių šios įmonės akcijų. Valstybės sprendžiamoji galia nacionaliniame investuotojuje reiškia, kad, Vyriausybei įgyvendinus Atominės elektrinės įstatymo 10 straipsnio 2 dalies nuostatas, valstybei nuosavybės teise turi priklausyti ne mažiau kaip 2/3 nacionalinio investuotojo akcijų, kurios turi suteikti ne mažiau kaip 2/3 visų balsų nacionalinio investuotojo visuotiniame akcininkų susirinkime.
 
 
 
 
-4. Europinės ir transatlantinės integracijos kriterijus atitinkantis užsienio kapitalas sudaro šio straipsnio 1 dalyje nurodytų įmonių kapitalo dalį tokiomis pačiomis sąlygomis kaip ir privatus nacionalinis kapitalas Lietuvos Respublikos įstatymų nustatyta tvarka.
+4. Užsienio kapitalas sudaro šio straipsnio 1 dalyje nurodytų įmonių kapitalo dalį tokiomis pačiomis sąlygomis kaip ir privatus nacionalinis kapitalas Lietuvos Respublikos įstatymų nustatyta tvarka.
 
 
 
@@ -304,24 +301,17 @@ Nr. X-1447, 2008-02-01, Žin., 2008, Nr. 19-675 (2008-02-14), i. k. 1081010ISTA0
 
 
 
-
-
-6. Likviduojant (taip pat dėl bankroto) šio straipsnio 1 dalyje nurodytas įmones, joms priklausantis nekilnojamasis ir įkeistas turtas, taip pat šio straipsnio 2 dalyje nurodytas turtas gali būti parduodamas ar kitaip perleidžiamas tik Lietuvos Respublikos valstybės institucijoms, valstybės įmonėms arba įmonėms, kurių kapitalo dalį sudaro privatus nacionalinis bei europinės ir transatlantinės integracijos kriterijus atitinkantis kapitalas, tačiau valstybei ar savivaldybei priklauso daugiau kaip 1/2 balsų suteikiančių šių įmonių akcijų. 
-Straipsnio dalies pakeitimai:
-Nr. X-1079, 2007-04-05, Žin., 2007, Nr. 46-1714 (2007-04-26), i. k. 1071010ISTA00X-1079
- 
+6. Likviduojant (taip pat dėl bankroto) šio straipsnio 1 dalyje nurodytas įmones, joms priklausantis nekilnojamasis ir įkeistas turtas, taip pat šio straipsnio 2 dalyje nurodytas turtas gali būti parduodamas ar kitaip perleidžiamas tik Lietuvos Respublikos valstybės institucijoms, valstybės įmonėms arba įmonėms, kurių kapitalo dalį turi privatūs nacionaliniai ir užsienio asmenys, atitinkantys nacionalinio saugumo interesus, tačiau valstybei ar savivaldybei priklauso daugiau kaip 1/2 balsų suteikiančių šių įmonių akcijų.
 
 
 
 
-7. Neteko galios nuo 2007-04-26
-Straipsnio dalies naikinimas:
-Nr. X-1079, 2007-04-05, Žin. 2007, Nr. 46-1714 (2007-04-26), i. k. 1071010ISTA00X-1079
- 
+7. Sprendimai dėl šio straipsnio 1 dalyje nurodytų akcinių bendrovių, kuriose valstybei nuosavybės teise priklauso daugiau kaip 1/2 balsų suteikiančių šių įmonių akcijų, įstatinio kapitalo didinimo, įstatinio kapitalo mažinimo, įstatų keitimo, pelno (nuostolių) paskirstymo, reorganizavimo, atskyrimo, pertvarkymo, restruktūrizavimo, likvidavimo ir sprendimai dėl visų akcininkų pirmumo teisės įsigyti tokių akcinių bendrovių išleidžiamų konkrečios emisijos akcijų ar tokių bendrovių išleidžiamų konkrečios emisijos konvertuojamųjų obligacijų atšaukimo priimami, jeigu už juos balsuoja akcininkai, kuriems priklausančios akcijos suteikia daugiau kaip 1/2 visų balsų. Priimant sprendimus dėl šioje dalyje nurodytų klausimų, Civiliniame kodekse ir Lietuvos Respublikos akcinių bendrovių įstatyme nustatyti kvalifikuotos balsų daugumos reikalavimai netaikomi.
 
 
-Papildyta citata:
-Nr. IX-1677, 2003-07-01, Žin., 2003, Nr. 73-3354 (2003-07-23), i. k. 1031010ISTA0IX-1677
+
+
+8. Šio straipsnio 1 dalyje nurodytiems juridiniams asmenims atskirų juridinių asmenų rūšis reglamentuojantys įstatymai taikomi tiek, kiek jie neprieštarauja šiam įstatymui.
  
 
 
@@ -329,18 +319,10 @@ Nr. IX-1677, 2003-07-01, Žin., 2003, Nr. 73-3354 (2003-07-23), i. k. 1031010IST
 
 
 
-8. Įsteigus nacionalinį investuotoją ir kaip nepiniginį įnašą į jo įstatinį kapitalą įnešus akcinės bendrovės „Lietuvos energija“, akcinės bendrovės Rytų skirstomųjų tinklų ir akcinės bendrovės „VST“ akcijas, sudarančias daugiau kaip 2/3 akcijų ir balsų kiekvienos bendrovės visuotiniame akcininkų susirinkime, nacionalinis investuotojas ir jo organai turi veikti taip, kad nacionaliniam investuotojui nuosavybės teise visada priklausytų ne mažiau kaip 2/3 akcinės bendrovės „Lietuvos energija“, akcinės bendrovės Rytų skirstomųjų tinklų ir akcinės bendrovės „VST“ akcijų ir balsų kiekvienos bendrovės visuotiniame akcininkų susirinkime. Jeigu akcinės bendrovės „Lietuvos energija“, akcinės bendrovės Rytų skirstomųjų tinklų ir akcinės bendrovės „VST“ vykdoma veikla reorganizuojant, pertvarkant bendroves ar kitokiu būdu būtų atskirta, perduota ar perleista, nacionaliniam investuotojui tiesiogiai ar netiesiogiai turi priklausyti ne mažiau kaip 2/3 akcijų ir balsų visuotiniame akcininkų susirinkime bendrovėse, kurioms nuosavybės teise priklauso Lietuvos Respublikos elektros energijos perdavimo tinklas, elektros energijos skirstomieji tinklai, taip pat bendrovėse, kurios vykdo elektros energijos perdavimo, elektros energijos rinkos operatoriaus, elektros energijos skirstymo ir visuomeninio elektros energijos tiekėjo veiklą.
-Papildyta straipsnio dalimi:
-Nr. X-1447, 2008-02-01, Žin., 2008, Nr. 19-675 (2008-02-14), i. k. 1081010ISTA00X-1447
- 
+5 straipsnis. Nacionaliniam saugumui užtikrinti svarbios įmonės
 
 
-
-
-4 straipsnis. Nacionaliniam saugumui užtikrinti svarbios įmonės
-
-
-1. Nacionaliniam saugumui užtikrinti, be šio Įstatymo 2 ir 3 straipsniuose nurodytų įmonių ir įrenginių, svarbios yra ir šios įmonės:
+1. Nacionaliniam saugumui užtikrinti svarbios yra ir šios įmonės:
 
 
 1) akcinė bendrovė „Mažeikių nafta“;
@@ -353,12 +335,12 @@ Nr. X-1447, 2008-02-01, Žin., 2008, Nr. 19-675 (2008-02-14), i. k. 1081010ISTA0
 
 
 
-3) akcinė bendrovė „Vakarų skirstomieji tinklai“;
+3) akcinė bendrovė „VST“;
 
 
 
 
-4) akcinė bendrovė „Rytų skirstomieji tinklai“;
+4) akcinė bendrovė Rytų skirstomieji tinklai;
 
 
 
@@ -368,20 +350,22 @@ Nr. X-1447, 2008-02-01, Žin., 2008, Nr. 19-675 (2008-02-14), i. k. 1081010ISTA0
 
 
 
-6) akcinė bendrovė „Lietuvos telekomas“;
+6) akcinė bendrovė „TEO LT, AB“;
 
 
 
 
-7) akcinė bendrovė „Achema“.
+7) akcinė bendrovė „Achema“;
 
 
 
 
-8) vandens tiekimo ir nuotekų šalinimo paslaugas teikiančios įmonės pagal Lietuvos Respublikos Vyriausybės patvirtintą sąrašą. 
-Papildyta straipsnio punktu:
-Nr. IX-2000, 2004-02-05, Žin., 2004, Nr. 28-871 (2004-02-21), i. k. 1041010ISTA0IX-2000
- 
+8) vandens tiekimo ir nuotekų šalinimo paslaugas teikiančios įmonės pagal Vyriausybės patvirtintą sąrašą;
+
+
+
+
+9) akcinė bendrovė Giraitės ginkluotės gamykla.
 
 
 
@@ -393,9 +377,7 @@ Nr. IX-2000, 2004-02-05, Žin., 2004, Nr. 28-871 (2004-02-21), i. k. 1041010ISTA
 
 
 
-3. Vandens tiekimo bei nuotekų šalinimo paslaugas teikiančios įmonės, nurodytos šio straipsnio 1 dalies 8 punkte, turi nuosavybės teise priklausyti valstybei ar savivaldybei arba valstybei ar savivaldybei turi priklausyti daugiau kaip 75 procentai balsų suteikiančių šių įmonių akcijų.
-Papildyta straipsnio dalimi:
-Nr. IX-2000, 2004-02-05, Žin., 2004, Nr. 28-871 (2004-02-21), i. k. 1041010ISTA0IX-2000
+3. Vandens tiekimo ir nuotekų šalinimo paslaugas teikiančios įmonės, nurodytos šio straipsnio 1 dalies 8 punkte, nuosavybės teise turi priklausyti valstybei ar savivaldybei arba valstybei ar savivaldybei turi priklausyti daugiau kaip 3/4 balsų visuotiniame akcininkų susirinkime suteikiančių šių įmonių akcijų.
  
 
 
@@ -403,33 +385,28 @@ Nr. IX-2000, 2004-02-05, Žin., 2004, Nr. 28-871 (2004-02-21), i. k. 1041010ISTA
 
 
 
-41 straipsnis. Ypatingą strateginę reikšmę nacionaliniam saugumui turinčios įmonės ir įrenginiai bei jiems ir investuotojams taikomos nacionalinio saugumo interesus užtikrinančios specialiosios saugumo priemonės
+6 straipsnis. Ypatingą strateginę reikšmę nacionaliniam saugumui turinčios įmonės ir įrenginiai bei jiems ir investuotojams taikomos nacionalinio saugumo interesus užtikrinančios specialiosios saugumo priemonės
 
 
-1. Ypatingą strateginę reikšmę nacionaliniam saugumui turi Lietuvos Respublikos atominės elektrinės įstatyme nurodytos Lietuvos Respublikos elektros energetikos sistemos jungtys su Lenkijos Respublikos ir Švedijos Karalystės elektros energetikos sistemomis, projekto įgyvendinimo bendrovė ir nauja atominė elektrinė.
-
-
-
-
-2. Lietuvos Respublikos Vyriausybė ir nacionalinis investuotojas, per savo dukterines įmones valdantis pagrindinę Lietuvos elektros energetikos sistemos dalį, įgyvendina Lietuvos strateginį tikslą – kompleksiškai integruoja Lietuvos Respublikos elektros energetikos sistemą į Europos Sąjungos valstybių elektros perdavimo sistemas ir elektros energijos vidaus rinkas.
+1. Ypatingą strateginę reikšmę nacionaliniam saugumui turi Atominės elektrinės įstatyme nurodytos Lietuvos Respublikos elektros energetikos sistemos jungtys su Lenkijos Respublikos ir Švedijos Karalystės elektros energetikos sistemomis ir naujoji atominė elektrinė.
 
 
 
 
-3. Įgyvendindamos šio straipsnio 2 dalyje numatytą strateginį tikslą, Vyriausybė ir valstybės institucijos, priimdamos nutarimus ir sprendimus bei sudarydamos susitarimus, valstybės akcijų valdytojai, priimdami sprendimus, sudarydami susitarimus ir įgyvendindami valstybei nuosavybės teise priklausančių nacionalinio investuotojo ar jo teisių perėmėjo bendrovėje, taip pat šių bendrovių įsteigtose dukterinėse bendrovėse akcininkų teises, užtikrina, kad:
+2. Vyriausybė ir valstybės institucijos, priimdamos sprendimus ir sudarydamos susitarimus, valstybės akcijų valdytojai, priimdami sprendimus, sudarydami susitarimus ir įgyvendindami valstybei nuosavybės teise priklausančių nacionalinio investuotojo, projekto įgyvendinimo bendrovės ir elektros perdavimo jungčių statytojo akcininkų teises, užtikrina, kad:
 
 
-1) nacionalinis investuotojas, siekdamas savo veiklos tikslo, įgyvendintų pagrindinį Lietuvos Respublikos elektros energetikos sistemos uždavinį – neribotą laiką, nepriklausomai, saugiai, patikimai aprūpinti Lietuvos vartotojus elektros energija;
-
-
-
-
-2) Nacionalinėje energetikos strategijoje numatyti strateginiai objektai – nauja atominė elektrinė, elektros perdavimo jungtys į Lenkijos Respubliką ir Švedijos Karalystę, užtikrinančios efektyvius ir reikiamos apimties elektros energijos mainus tarp Lietuvos Respublikos elektros energetikos sistemos ir Elektros energijos perdavimo koordinavimo sąjungai (toliau – UCTE) bei Šiaurės šalių perdavimo sistemos operatorių organizacijai (NORDEL) priklausančių sistemų, – būtų realizuoti neatidėliojant;
+1) nacionalinis investuotojas, strateginis investuotojas, projekto įgyvendinimo bendrovė ir elektros perdavimo jungčių statytojas efektyviai įgyvendintų pagrindinį Lietuvos Respublikos elektros energetikos sistemos uždavinį – neribotą laiką, nepriklausomai, saugiai ir patikimai aprūpinti Lietuvos vartotojus elektros energija;
 
 
 
 
-3) naujos atominės elektrinės ir elektros perdavimo jungčių į Švedijos Karalystę bei Lenkijos Respubliką techniniai sprendimai ir parametrai būtų parinkti taip, kad pagrindinė dalis atominei elektrinei reikalingų galios rezervų būtų gaunama iš Europos Sąjungos valstybių ir būtų patenkintos Lietuvos Respublikos elektros energetikos sistemos darbo sinchroniniu režimu su UCTE sistema sąlygos;
+2) Nacionalinėje energetikos strategijoje numatyti strateginiai objektai – naujoji atominė elektrinė, elektros perdavimo jungtys į Lenkijos Respubliką ir Švedijos Karalystę, užtikrinančios efektyvius ir reikiamos apimties elektros energijos mainus tarp Lietuvos Respublikos elektros energetikos sistemos ir Elektros energijos perdavimo koordinavimo sąjungai (toliau – UCTE) bei Šiaurės šalių perdavimo sistemos operatorių organizacijai (NORDEL) priklausančių sistemų, – būtų įgyvendinti neatidėliojant;
+
+
+
+
+3) naujosios atominės elektrinės ir elektros perdavimo jungčių į Lenkijos Respubliką ir Švedijos Karalystę techniniai sprendimai ir parametrai būtų parinkti taip, kad pagrindinė atominei elektrinei reikalingų galios rezervų dalis būtų gaunama iš Europos Sąjungos valstybių narių ir būtų tenkinamos Lietuvos Respublikos elektros energetikos sistemos darbo sinchroniniu režimu su UCTE sistema sąlygos;
 
 
 
@@ -439,19 +416,19 @@ Nr. IX-2000, 2004-02-05, Žin., 2004, Nr. 28-871 (2004-02-21), i. k. 1041010ISTA
 
 
 
-5) naujos atominės elektrinės projekto įgyvendinimo bendrovės kapitale dalyvaujant Lietuvos ir užsienio investuotojams, būtų apsaugoti Lietuvos Respublikos nacionalinio saugumo ir valstybės esminiai interesai, o pasirenkant atominės elektrinės projekto įgyvendinimo dalyvius, būtų taikomi europinės bei transatlantinės integracijos kriterijai.
+5) projekto įgyvendinimo bendrovės kapitale dalyvaujant strateginiam investuotojui ir (arba) strateginiams partneriams būtų apsaugoti esminiai Lietuvos Respublikos nacionalinio saugumo ir valstybės interesai, o pasirenkant projekto įgyvendinimo bendrovės dalyvius būtų taikomi atitikties nacionalinio saugumo interesams kriterijai.
 
 
 
 
 
 
-4. Projekto įgyvendinimo bendrovei, naujai atominei elektrinei, Lietuvos Respublikos elektros energetikos sistemos jungtims su Lenkijos Respublikos ir Švedijos Karalystės energetikos sistemomis ir investuotojams taikomos nacionalinio saugumo interesus užtikrinančios specialiosios saugumo priemonės. Nacionalinio saugumo interesus užtikrinančios specialiosios saugumo priemonės yra teisės aktuose ir tarptautinėse sutartyse nustatytos sąlygos ir reikalavimai, skirti esminių valstybės interesų (valstybės saugumo, suvereniteto, ekonominės galios, visuomenės sveikatos ir saugios aplinkos, viešosios tvarkos užtikrinimo ir kitų) apsaugai, siekiant užkirsti kelią grėsmę keliantiems veiksmams ir neveikimui, šalinti jų atsiradimo priežastis bei sąlygas.
+3. Projekto įgyvendinimo bendrovei, naujajai atominei elektrinei, Lietuvos Respublikos elektros energetikos sistemos jungtims su Lenkijos Respublikos ir Švedijos Karalystės energetikos sistemomis ir investuotojams taikomos nacionalinio saugumo interesus užtikrinančios specialiosios saugumo priemonės.
 
 
 
 
-5. Teisės aktuose nustatomos šios nacionalinio saugumo interesus užtikrinančios specialiosios saugumo priemonės:
+4. Teisės aktuose nustatomos šios nacionalinio saugumo interesus užtikrinančios specialiosios saugumo priemonės:
 
 
 1) fizinės ir informacinės saugos reikalavimai;
@@ -474,7 +451,7 @@ Nr. IX-2000, 2004-02-05, Žin., 2004, Nr. 28-871 (2004-02-21), i. k. 1041010ISTA
 
 
 
-5) atominės elektrinės eksploatacijos nutraukimo, atliekų tvarkymo finansavimo užtikrinimas;
+5) atominės elektrinės eksploatacijos nutraukimo ir atliekų tvarkymo finansavimo užtikrinimas;
 
 
 
@@ -486,35 +463,30 @@ Nr. IX-2000, 2004-02-05, Žin., 2004, Nr. 28-871 (2004-02-21), i. k. 1041010ISTA
 
 
 
-6. Projekto įgyvendinimo bendrovei ir investuotojams taikomos ir kitos specialiosios saugumo priemonės, nustatytos Lietuvos Respublikos atominės elektrinės įstatyme, Lietuvos Respublikos branduolinės energijos įstatyme, Lietuvos Respublikos radiacinės saugos įstatyme ir kituose teisės aktuose.
+5. Projekto įgyvendinimo bendrovei ir investuotojams taikomos ir kitos specialiosios saugumo priemonės, nustatytos Atominės elektrinės įstatyme, Lietuvos Respublikos branduolinės energijos įstatyme, Lietuvos Respublikos radiacinės saugos įstatyme ir kituose teisės aktuose.
 
 
 
 
-7. Šiame straipsnyje vartojamos sąvokos suprantamos taip, kaip jos yra apibrėžtos Lietuvos Respublikos atominės elektrinės įstatyme.
-
-
-Papildyta straipsniu:
-Nr. X-1447, 2008-02-01, Žin., 2008, Nr. 19-675 (2008-02-14), i. k. 1081010ISTA00X-1447
+6. Šiame straipsnyje vartojamos sąvokos suprantamos taip, kaip jos yra apibrėžtos Atominės elektrinės įstatyme.
  
 
 
 
 
-5 straipsnis.         Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių sauga
 
 
-1. Vyriausybė arba jos įgaliota institucija, atsižvelgdama į įmonių veiklos ypatumus, nustato strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių fizinės ir informacinės saugos reikalavimus. 
+9 straipsnis. Strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių sauga
+
+
+1. Vyriausybė arba jos įgaliota institucija, atsižvelgdama į įmonių veiklos ypatumus, nustato strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių fizinės ir informacinės saugos reikalavimus.
 
 
 
 
-2. Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių vadovai atsako už šio straipsnio 1 dalyje numatytų fizinės ir informacinės saugos reikalavimų įgyvendinimą. 
+2. Strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių vadovai atsako už šio straipsnio 1 dalyje nustatytų fizinės ir informacinės saugos reikalavimų įgyvendinimą.
 
 
-Papildyta straipsniu:
-Nr. IX-2000, 2004-02-05, Žin., 2004, Nr. 28-871 (2004-02-21), i. k. 1041010ISTA0IX-2000
- 
 
 
 
@@ -528,6 +500,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 ______________
 
 
+ 
  
  
 Pakeitimai:
@@ -556,3 +529,8 @@ Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įm
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1447, 2008-02-01, Žin., 2008, Nr. 19-675 (2008-02-14), i. k. 1081010ISTA00X-1447
 Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo 3 straipsnio pakeitimo bei papildymo ir Įstatymo papildymo 4(1) straipsniu įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-375, 2009-07-21, Žin., 2009, Nr. 93-3968 (2009-08-04), i. k. 1091010ISTA00XI-375
+Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo pakeitimo įstatymas
