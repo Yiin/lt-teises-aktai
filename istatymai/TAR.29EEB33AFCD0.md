@@ -1891,6 +1891,20 @@ nustatyta tvarka, tačiau priežiūros institucija gali priimti sprendimą
 neskelbti viešai tokios informacijos, jeigu jos paskelbimas viešai gali turėti
 neigiamos įtakos Centrinės kredito unijos ir (ar) kredito unijų sistemos
 stabilumui ir patikimumui. 
+[Papildyta 5
+dalimi nuo 2010-12-31]
+5. Priežiūros
+institucija sprendimą dėl poveikio priemonės taikymo,
+kuris pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymą laikomas
+draudžiamuoju įvykiu, priima ne vėliau kaip per 5 darbo dienas po to, kai
+nustato, kad priežiūros institucijos išduotą licenciją turinti Centrinė kredito
+unija negali įvykdyti pagrįsto reikalavimo grąžinti indėlį ir yra pagrindas
+manyti, kad to negalės padaryti artimiausiu metu.
+Straipsnio
+pakeitimai:
+Nr.
+XI-379,
+2009-07-21, Žin., 2009, Nr. 93-3972 (2009-08-04)
  
 59
 straipsnis. Baudos
@@ -1998,8 +2012,8 @@ kredito unija negali būti pertvarkoma.
 63
 straipsnis. Centrinės kredito unijos reorganizavimas
 1.
-Reorganizuojant Centrinę kredito uniją jungimo būdu, kitas reorganizavime
-dalyvaujantis ar reorganizuojamas subjektas gali būti tik finansų įstaiga.
+Reorganizuojant Centrinę kredito uniją jungimo būdu, kitas reorganizavime dalyvaujantis
+ar reorganizuojamas subjektas gali būti tik finansų įstaiga.
 2.
 Reorganizuojant Centrinę kredito uniją skaidymo būdu, bent vienas iš juridinių
 asmenų, kuriems išdalijamos Centrinės kredito unijos teisės ir pareigos ar
@@ -2012,11 +2026,10 @@ priežiūros institucijai pateikiami kartu su prašymu išduoti leidimą
 reorganizuoti Centrinę kredito uniją. Kartu su sprendimu dėl leidimo
 reorganizuoti Centrinę kredito uniją išdavimo priimamas sprendimas dėl
 licencijos išdavimo.
-4.
-Reorganizavime dalyvaujanti ir reorganizuojama Centrinė kredito unija šio
-Įstatymo nustatytais atvejais privalo gauti priežiūros institucijos sutikimą
-reorganizuoti ir priežiūros institucijos leidimą reorganizuoti Centrinę kredito
-uniją. 
+4. Reorganizavime
+dalyvaujanti ir reorganizuojama Centrinė kredito unija šio Įstatymo nustatytais
+atvejais privalo gauti priežiūros institucijos sutikimą reorganizuoti ir
+priežiūros institucijos leidimą reorganizuoti Centrinę kredito uniją. 
  
 64
 straipsnis. Sutikimas reorganizuoti Centrinę kredito uniją 
@@ -2029,9 +2042,9 @@ reorganizuoti, reorganizavime dalyvaujanti ar reorganizuojama finansų įstaiga
 bei Centrinė kredito unija priežiūros institucijai pateikia prašymą ir
 priežiūros institucijos teisės aktų nustatytus dokumentus. Sutikimą
 reorganizuoti išduoda priežiūros institucija šio Įstatymo ir priežiūros
-institucijos teisės aktų nustatyta tvarka. Sprendimas išduoti sutikimą priimamas
-atsižvelgiant į priežiūros institucijos teisės aktų nustatytus sisteminės
-rizikos lygio vertinimo kriterijus. 
+institucijos teisės aktų nustatyta tvarka. Sprendimas išduoti sutikimą
+priimamas atsižvelgiant į priežiūros institucijos teisės aktų nustatytus
+sisteminės rizikos lygio vertinimo kriterijus. 
 3. Priežiūros institucija priima
 sprendimą dėl sutikimo išdavimo per 1 mėnesį nuo prašymo išduoti sutikimą
 gavimo dienos. 
@@ -2067,8 +2080,8 @@ licencijai gauti, jei Centrinė kredito unija tęs veiklą po reorganizavimo.
 išnagrinėti pateiktus dokumentus ir priimti sprendimą dėl leidimo reorganizuoti
 Centrinę kredito uniją išdavimo ne vėliau kaip per 3 mėnesius nuo prašymo
 gavimo dienos. 
-5. Priežiūros institucija gali
-atsisakyti išduoti leidimą reorganizuoti Centrinę kredito uniją, jei:
+5. Priežiūros institucija gali atsisakyti
+išduoti leidimą reorganizuoti Centrinę kredito uniją, jei:
 1) pateikti dokumentai neatitinka
 įstatymų bei priežiūros institucijos teisės aktų nustatytų reikalavimų,
 pateikti ne visi teisės aktų nustatyti ar papildomai pareikalauti duomenys ar
@@ -2090,8 +2103,8 @@ kredito unija gali būti likviduojama jos narių sprendimu ar kitais įstatymų
 nustatytais pagrindais.
 2. Centrinės
 kredito unijos visuotinis narių susirinkimas gali priimti sprendimą nutraukti
-Centrinės kredito unijos veiklą ir ją likviduoti tik gavęs priežiūros
-institucijos leidimą likviduoti Centrinę kredito uniją. 
+Centrinės kredito unijos veiklą ir ją likviduoti tik gavęs priežiūros institucijos
+leidimą likviduoti Centrinę kredito uniją. 
 3. Leidimą likviduoti Centrinę
 kredito uniją išduoda priežiūros institucija įstatymų ir priežiūros
 institucijos teisės aktų nustatyta tvarka. 
@@ -2108,9 +2121,8 @@ išnagrinėti pateiktus dokumentus ir ne vėliau kaip per 3 mėnesius nuo prašy
 gavimo dienos priimti sprendimą dėl leidimo likviduoti Centrinę kredito uniją
 išdavimo. 
 6. Centrinė kredito unija gali
-būti likviduojama Centrinės kredito unijos narių visuotinio susirinkimo
-sprendimu tik tuo atveju, jeigu ji pajėgi visiškai atsiskaityti su
-kreditoriais.
+būti likviduojama Centrinės kredito unijos narių visuotinio susirinkimo sprendimu
+tik tuo atveju, jeigu ji pajėgi visiškai atsiskaityti su kreditoriais.
 7. Priežiūros institucija gali
 atsisakyti išduoti leidimą likviduoti Centrinę kredito uniją, jeigu:
 1) pateikti dokumentai neatitinka
@@ -2124,10 +2136,10 @@ kreditorių reikalavimus).
 8. Apie priimtą sprendimą išduoti
 leidimą likviduoti Centrinę kredito uniją ar jo neišduoti priežiūros
 institucija raštu praneša juridinių asmenų registrui.
-9. Apie
-Centrinės kredito unijos visuotiniame narių susirinkime priimtą sprendimą
-likviduoti Centrinę kredito uniją ir paskirti Centrinės kredito unijos
-likvidatorių Centrinė kredito unija per 3 darbo dienas turi pranešti priežiūros
+9. Apie Centrinės
+kredito unijos visuotiniame narių susirinkime priimtą sprendimą likviduoti
+Centrinę kredito uniją ir paskirti Centrinės kredito unijos likvidatorių
+Centrinė kredito unija per 3 darbo dienas turi pranešti priežiūros
 institucijai.
 10. Jeigu
 priežiūros institucijos sprendimu licencija atšaukta, visuotinis narių
@@ -2135,16 +2147,17 @@ susirinkimas privalo priimti sprendimą nutraukti Centrinės kredito unijos
 veiklą. Šiuo atveju netaikoma šio straipsnio 2 dalis. 
 11. Centrinė
 kredito unija likviduojama teismo sprendimu, jeigu Centrinės kredito unijos
-licencija atšaukta ir jos visuotinis narių susirinkimas per priežiūros institucijos
-nustatytą terminą nepriima sprendimo nutraukti Centrinės kredito unijos veiklą.
-Kreiptis į teismą dėl Centrinės kredito unijos likvidavimo turi teisę
-priežiūros institucija, Centrinės kredito unijos stebėtojų taryba, valdyba arba
-bent vienas jos narys. Teismas sprendimą dėl Centrinės kredito unijos
-likvidavimo turi priimti ne vėliau kaip per 15 dienų nuo pareiškimo priėmimo.
-12. Teismas, prieš priimdamas
-sprendimą dėl Centrinės kredito unijos likvidavimo kitais nei šio straipsnio 11
-dalyje nustatytais pagrindais, privalo informuoti priežiūros instituciją ir
-gauti jos išvadą dėl Centrinės kredito unijos likvidavimo.
+licencija atšaukta ir jos visuotinis narių susirinkimas per priežiūros
+institucijos nustatytą terminą nepriima sprendimo nutraukti Centrinės kredito
+unijos veiklą. Kreiptis į teismą dėl Centrinės kredito unijos likvidavimo turi
+teisę priežiūros institucija, Centrinės kredito unijos stebėtojų taryba,
+valdyba arba bent vienas jos narys. Teismas sprendimą dėl Centrinės kredito
+unijos likvidavimo turi priimti ne vėliau kaip per 15 dienų nuo pareiškimo
+priėmimo.
+12. Teismas, prieš priimdamas sprendimą
+dėl Centrinės kredito unijos likvidavimo kitais nei šio straipsnio 11 dalyje
+nustatytais pagrindais, privalo informuoti priežiūros instituciją ir gauti jos
+išvadą dėl Centrinės kredito unijos likvidavimo.
 13. Visais
 atvejais teismas, priėmęs sprendimą likviduoti Centrinę kredito uniją, per 3
 darbo dienas nuo sprendimo priėmimo privalo apie tai pranešti priežiūros
@@ -2297,9 +2310,9 @@ straipsnis. Įstatymo taikymas veikiančiai Centrinei kredito unijai
 Įstatymo įsigaliojimo įsteigtai Centrinei kredito unijai (toliau šiame
 straipsnyje – veikianti Centrinė kredito unija) nustato griežtesnius ar
 papildomus reikalavimus, negu nustatė teisės aktai iki šio Įstatymo
-įsigaliojimo, ir dėl tokių reikalavimų reikia veikiančios Centrinės kredito unijos
-veiklą pertvarkyti, ji privalo įvykdyti šiuos reikalavimus ne vėliau kaip per
-vienus metus nuo šio Įstatymo įsigaliojimo dienos.
+įsigaliojimo, ir dėl tokių reikalavimų reikia veikiančios Centrinės kredito
+unijos veiklą pertvarkyti, ji privalo įvykdyti šiuos reikalavimus ne vėliau
+kaip per vienus metus nuo šio Įstatymo įsigaliojimo dienos.
 2. Šio Įstatymo normos,
 reglamentuojančios Centrinės kredito unijos steigimą, reorganizavimą,
 pertvarkymą, likvidavimą, bankrotą, taikomos procedūroms, pradėtoms įsigaliojus
@@ -2346,7 +2359,7 @@ Respublikos
 kredito 
                                                                                     unijos
 įstatymo 
-                                                                                    priedas
+                                                                                    priedas
  
 ĮGYVENDINAMI
 EUROPOS SĄJUNGOS TEISĖS AKTAI
@@ -2359,10 +2372,19 @@ finansinės atskaitomybės ir konsoliduotos finansinės atskaitomybės (OL 2004 
 pradėjimo ir vykdymo (nauja redakcija) (OL 2006 L 177, p. 1).
 4. 2006 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva 2006/49/EB dėl investicinių įmonių ir
 kredito įstaigų kapitalo pakankamumo (nauja redakcija) (OL 2006 L 177, p. 201).
+[Papildyta
+5 punktu nuo 2010-12-31]
+5. 2009 m. kovo 11 d.
+Europos Parlamento ir Tarybos direktyva 2009/14/EB, iš dalies keičianti
+Direktyvos 94/19/EB dėl indėlių garantijų sistemų nuostatas dėl kompensacijų
+lygio ir išmokėjimo termino (OL 2009 L 68, p. 3).
 Priedo
 pakeitimai:
 Nr. X-1039,
 2007-01-18, Žin., 2007, Nr. 12-500 (2007-01-30)
+Nr.
+XI-379,
+2009-07-21, Žin., 2009, Nr. 93-3972 (2009-08-04)
  
 _______________
  
@@ -2414,9 +2436,22 @@ X-1582,
 CENTRINĖS
 KREDITO UNIJOS ĮSTATYMO 32 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+6.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-379,
+2009-07-21, Žin., 2009, Nr. 93-3972 (2009-08-04)
+CENTRINĖS KREDITO UNIJOS ĮSTATYMO
+58 STRAIPSNIO IR PRIEDO PAPILDYMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2010 m. gruodžio 31 d.
+ 
 ***
 Pabaiga ***
-Redagavo:
-Aušrinė Trapinskienė (2008-06-25)
+ 
+ 
+Redagavo
+Aušra Bodin (2009-08-10)
                  
-autrap@lrs.lt
+aubodi@lrs.lt
