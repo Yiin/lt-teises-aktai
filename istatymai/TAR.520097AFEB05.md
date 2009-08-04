@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.520097AFEB05"
 
 # Lietuvos Respublikos profesinio mokymo įstatymo pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2009-08-04
+ 
+Įstatymas paskelbtas: Žin. 2007, Nr. 43-1627, i. k. 1071010ISTA00X-1065
+ 
+ 
 LIETUVOS RESPUBLIKOS PROFESINIO MOKYMO ĮSTATYMO PAKEITIMO Į S T A T Y M A S
  
 2007 m. balandžio 3 d. Nr. X-1065
@@ -1555,7 +1560,7 @@ Profesinis mokymas finansuojamas iš:
 2 straipsnis. Įstatymo įgyvendinimas
 
 
-1. Vyriausybė iki 2008 m. sausio 1 d.:
+1. Vyriausybė iki 2010 m. sausio 1 d.:
 
 
 1) parengia ir patvirtina šiam įstatymui įgyvendinti reikalingus teisės aktus;
@@ -1563,22 +1568,24 @@ Profesinis mokymas finansuojamas iš:
 
 
 
-2) įsteigia Kvalifikacijų tarnybą ir patvirtina jos nuostatus;
+2) įsteigia Studijų, mokymo programų ir kvalifikacijų registrą ir patvirtina jo nuostatus;
 
 
 
 
-3) parengia ir patvirtina pagrindinio profesinio mokymo ir darbo rinkos profesinio mokymo sujungimo priemonių planą.
+3) parengia ir patvirtina Pagrindinio profesinio mokymo ir darbo rinkos profesinio mokymo sujungimo priemonių planą.
 
 
 
 
 
 
-2. Švietimo ir mokslo ministerija, Socialinės apsaugos ir darbo ministerija ir Vidaus reikalų ministerija iki 2008 m. sausio 1 d. parengia ir patvirtina šiam įstatymui įgyvendinti reikalingus teisės aktus.
+2. Švietimo ir mokslo ministerija, Socialinės apsaugos ir darbo ministerija ir Vidaus reikalų ministerija iki 2010 m. sausio 1 d. parengia ir patvirtina šiam įstatymui įgyvendinti reikalingus teisės aktus.
+
+
+Straipsnio pakeitimai:
+Nr. XI-381, 2009-07-21, Žin., 2009, Nr. 93-3974 (2009-08-04), i. k. 1091010ISTA00XI-381
  
-
-
 
 
 
@@ -1599,3 +1606,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-381, 2009-07-21, Žin., 2009, Nr. 93-3974 (2009-08-04), i. k. 1091010ISTA00XI-381
+Lietuvos Respublikos profesinio mokymo įstatymo pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas
