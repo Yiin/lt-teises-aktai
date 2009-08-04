@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.04F64676CE77"
 
 # Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas
 
-Suvestinė redakcija nuo 2009-03-05 iki 2009-08-03
+Suvestinė redakcija nuo 2009-08-04 iki 2012-06-27
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 76-3004, i. k. 1071010ISTA00X-1231
  
@@ -35,11 +35,12 @@ siekdamas užtikrinti energijos tiekimą iš skirtingų, saugių, tausių, šilt
 siekdamas apsaugoti Lietuvos Respublikos esminius interesus ir nacionalinį saugumą;
 pabrėždamas europinės ir transatlantinės integracijos principų įgyvendinimo svarbą plėtojant Lietuvos energetikos sektorius ir užtikrinant šalies energetinį saugumą;
 įvertindamas patirtį, sukauptą daugelį metų saugiai ir patikimai eksploatuojant Ignalinos atominę elektrinę;
-įvertindamas privačių juridinių asmenų iniciatyvą, kurios pagrindu gali būti rengiamas, vystomas ir įgyvendinamas regioninės atominės elektrinės projektas Lietuvoje;
 siekdamas pakeisti prarandamus elektros energijos generuojančių šaltinių galingumus dėl Ignalinos atominės elektrinės uždarymo ir sudaryti teisines prielaidas pastatyti Lietuvoje naują atominę elektrinę, kurios galia bus nustatoma atsižvelgiant į poveikio aplinkai vertinimo rezultatus ir investuotojų susitarimus;
 atsižvelgdamas į palankią ekonominę aplinką atominei elektrinei statyti;
 atsižvelgdamas į branduolinės saugos reikalavimus ir Lietuvos prisiimtus įsipareigojimus pagal tarptautines sutartis,
-priima šį Atominės elektrinės įstatymą.
+priima šį Atominės elektrinės įstatymą. 
+Skirsnio pakeitimai:
+Nr. XI-373, 2009-07-21, Žin., 2009, Nr. 93-3966 (2009-08-04); Žin., 2009, Nr. 95-0 (2009-08-08), i. k. 1091010ISTA00XI-373
  
 
 
@@ -80,32 +81,65 @@ Seimas pritaria naujos atominės elektrinės statybai Lietuvos Respublikoje.
 
 
 
-2. Investuotojai – nacionalinis investuotojas ir strateginiai partneriai.
+2. Elektros perdavimo jungčių statytojas – juridinis asmuo, kuris priklauso valstybei nuosavybės teise arba kurio visos akcijos priklauso valstybei nuosavybės teise ir kuris dalyvaus statant šiame įstatyme nurodytas elektros perdavimo jungtis. Dalis šio juridinio asmens akcijų Lietuvos Respublikos Vyriausybės sprendimu gali būti perleidžiama strateginiam investuotojui ir (arba) strateginiams partneriams. 
+Papildyta straipsnio dalimi:
+Nr. XI-373, 2009-07-21, Žin., 2009, Nr. 93-3966 (2009-08-04); Žin., 2009, Nr. 95-0 (2009-08-08), i. k. 1091010ISTA00XI-373
+ 
 
 
 
 
-3. Nacionalinis investuotojas – privatus juridinis asmuo, nurodytas šio įstatymo ketvirtajame skirsnyje.
+3. Investuotojai – nacionalinis investuotojas, strateginis investuotojas ir strateginiai partneriai. 
+Straipsnio dalies pakeitimai:
+Nr. XI-373, 2009-07-21, Žin., 2009, Nr. 93-3966 (2009-08-04); Žin., 2009, Nr. 95-0 (2009-08-08), i. k. 1091010ISTA00XI-373
+ 
 
 
 
 
-4. Projektas – plėtojamas ir įgyvendinamas naujos atominės elektrinės projektas, apimantis naujos atominės elektrinės galimybių studijos parengimą, projektavimą, statybą, finansavimą, eksploataciją, eksploatacijos nutraukimą ir radioaktyviųjų atliekų tvarkymą.
+4. Nacionalinis investuotojas – privatus juridinis asmuo, nurodytas šio įstatymo ketvirtajame skirsnyje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-373, 2009-07-21, Žin., 2009, Nr. 93-3966 (2009-08-04); Žin., 2009, Nr. 95-0 (2009-08-08), i. k. 1091010ISTA00XI-373
+ 
 
 
 
 
-5. Projekto įgyvendinimo bendrovė – privatus juridinis asmuo, įsteigtas projektui įgyvendinti.
+5. Projektas – naujos atominės elektrinės projektas, apimantis elektrinės projektavimą, statybą, eksploataciją, eksploatacijos nutraukimą ir radioaktyviųjų atliekų tvarkymą. 
+Straipsnio dalies pakeitimai:
+Nr. XI-373, 2009-07-21, Žin., 2009, Nr. 93-3966 (2009-08-04); Žin., 2009, Nr. 95-0 (2009-08-08), i. k. 1091010ISTA00XI-373
+ 
 
 
 
 
-6. Rezervinė galia – elektros galios ir energijos gamybos potencialas, reikalingas dažniui ir galios srautams reguliuoti ir elektros energijai gaminti nenumatytais gamybos sumažėjimo ar vartojimo padidėjimo atvejais.
+6. Projekto įgyvendinimo bendrovė – juridinis asmuo – atominės elektrinės statytojas, kuris priklauso valstybei nuosavybės teise arba kurio visos akcijos priklauso valstybei nuosavybės teise ir kurio pagrindinis veiklos tikslas – įgyvendinti projektą. Dalis šio juridinio asmens akcijų Lietuvos Respublikos Vyriausybės sprendimu gali būti perleidžiama strateginiam investuotojui ir (arba) strateginiams partneriams. 
+Straipsnio dalies pakeitimai:
+Nr. XI-373, 2009-07-21, Žin., 2009, Nr. 93-3966 (2009-08-04); Žin., 2009, Nr. 95-0 (2009-08-08), i. k. 1091010ISTA00XI-373
+ 
 
 
 
 
-7. Strateginiai partneriai – juridiniai asmenys, atitinkantys 6 straipsnio 2 dalyje nurodytus kriterijus ir sudarę sutartis dėl dalyvavimo projekte su nacionaliniu investuotoju.
+7. Rezervinė galia – elektros galios ir energijos gamybos potencialas, reikalingas dažniui ir galios srautams reguliuoti ir elektros energijai gaminti nenumatytais gamybos sumažėjimo ar vartojimo padidėjimo atvejais.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-373, 2009-07-21, Žin., 2009, Nr. 93-3966 (2009-08-04); Žin., 2009, Nr. 95-0 (2009-08-08), i. k. 1091010ISTA00XI-373
+ 
+
+
+
+
+8. Strateginiai partneriai – juridiniai asmenys, kurie atitinka Lietuvos Respublikos nacionalinio saugumo interesus, šio įstatymo 6 straipsnio 2 dalyje nustatytus reikalavimus ir yra sudarę sutartis dėl dalyvavimo projekte su projekto įgyvendinimo bendrove ir (arba) elektros perdavimo jungčių statytoju, ir (arba) su Lietuvos Respublikos Vyriausybe. 
+Straipsnio dalies pakeitimai:
+Nr. XI-373, 2009-07-21, Žin., 2009, Nr. 93-3966 (2009-08-04); Žin., 2009, Nr. 95-0 (2009-08-08), i. k. 1091010ISTA00XI-373
+ 
+
+
+
+
+9. Strateginis investuotojas – juridinis asmuo, turintis kompetenciją, finansinių išteklių ir gebėjimų organizuoti projekto plėtrą, atitinkantis įstatymuose ir kituose teisės aktuose nustatytas specialiąsias saugumo priemones ir Lietuvos Respublikos nacionalinio saugumo interesus. Strateginis investuotojas dalyvauja finansuojant atominės elektrinės ir (arba) elektros perdavimo jungčių statybą. Strateginis investuotojas atrenkamas viešo konkurso būdu įstatymų nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XI-373, 2009-07-21, Žin., 2009, Nr. 93-3966 (2009-08-04); Žin., 2009, Nr. 95-0 (2009-08-08), i. k. 1091010ISTA00XI-373
  
 
 
@@ -165,7 +199,10 @@ PROJEKTO ĮGYVENDINIMAS
 6 straipsnis. Projekto įgyvendinimo bendrovės dalyviai
 
 
-1. Projekto įgyvendinimo bendrovė gali būti steigiama nacionalinio investuotojo iniciatyva, sudarant galimybę dalyvauti strateginiams partneriams.
+1. Projekto įgyvendinimo bendrovę steigia Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija, sudarydamos galimybę dalyvauti strateginiams partneriams ir strateginiam investuotojui. 
+Straipsnio dalies pakeitimai:
+Nr. XI-373, 2009-07-21, Žin., 2009, Nr. 93-3966 (2009-08-04); Žin., 2009, Nr. 95-0 (2009-08-08), i. k. 1091010ISTA00XI-373
+ 
 
 
 
@@ -195,22 +232,9 @@ PROJEKTO ĮGYVENDINIMAS
 
 
 
-3. Investuotojai projekto įgyvendinime dalyvauja vienodomis sąlygomis: jų indėlis, teisės ir pareigos įgyvendinant projektą turi būti proporcingos būsimam investuotojo dalyvavimui projekto įgyvendinimo bendrovės kapitale. Investuotojų dalys projekto įgyvendinimo bendrovės kapitale nustatomos tarpusavio susitarimais, atsižvelgiant į šio įstatymo reikalavimus.
-
-
-
-
-4. Kiekvienas investuotojas finansuoja ar užtikrina finansavimą tos projekto sąnaudų dalies, įskaitant sąnaudas projekto įgyvendinimui, projekto įgyvendinimo bendrovės veiklai, atominės elektrinės eksploatacijos nutraukimui, radioaktyvių atliekų tvarkymui, kuri yra proporcinga jo daliai projekto įgyvendinimo bendrovės kapitale.
-
-
-
-
-5. Nacionalinio investuotojo teisės ir pareigos projekto įgyvendinimo bendrovės valdyme nustatomos atsižvelgiant į esminius valstybės interesus.
-
-
-
-
-6. Šio straipsnio 2 dalyje nustatytų kriterijų laikymosi valstybinė priežiūra ir kontrolė yra užtikrinama vykdant atominę elektrinę eksploatuosiančios organizacijos veiklos licencijavimą.
+3. Šio straipsnio 2 dalyje nustatytų kriterijų laikymosi valstybinė priežiūra ir kontrolė yra užtikrinama vykdant atominę elektrinę eksploatuosiančios organizacijos veiklos licencijavimą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-373, 2009-07-21, Žin., 2009, Nr. 93-3966 (2009-08-04); Žin., 2009, Nr. 95-0 (2009-08-08), i. k. 1091010ISTA00XI-373
  
 
 
@@ -239,47 +263,40 @@ VALDYMAS
 8 straipsnis. Valdymas
 
 
-1. Valstybei nuosavybės teise priklausančių akcijų nacionalinio investuotojo bendrovėje suteikiamos teisės įgyvendinamos Lietuvos Respublikos Vyriausybės nustatyta tvarka. Valstybės akcijų valdytojas ir jo įgalioti asmenys įgyvendina nacionalinio investuotojo bendrovėje valstybės kaip akcininkės turtines ir neturtines teises, vadovaudamasis šia tvarka. Valstybės akcijų valdytojas ir jo įgalioti asmenys balsuoti nacionalinio investuotojo bendrovės organuose dėl projekto įgyvendinimo bendrovės akcininkų sutarties gali tik vadovaudamiesi Lietuvos Respublikos Vyriausybės nutarimais, kai Lietuvos Respublikos Seimas pritaria esminėms šios sutarties nuostatoms.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos atominės elektrinės įstatymo 8 straipsnio (2007 m. birželio 28 d. redakcija; Žin., 2007, Nr. 76-3004) 1 dalis ta apimtimi, kuria joje nenustatytas teisinis reguliavimas, kuris užtikrintų įstatymo tikslo – sudaryti prielaidas naujos atominės elektrinės statybai – įgyvendinimą, prieštarauja Lietuvos Respublikos Konstitucijos 46 straipsnio 3 daliai.
-Straipsnio dalies pakeitimai:
-2009-03-02, Žin., 2009, Nr. 25-988 (2009-03-05), i. k. 1091000NUTARG091403            
- 
+1. Valstybei nuosavybės teise priklausančių akcijų nacionalinio investuotojo bendrovėje suteikiamas turtines ir neturtines teises įgyvendina valstybės institucija, kuriai teisės aktų nustatyta tvarka šios akcijos perduotos patikėjimo teise.
 
 
 
 
-2. Nacionaliniam investuotojui nuosavybės teise turi priklausyti akcijų paketas, sudarantis ne mažiau kaip 34 procentus projekto įgyvendinimo bendrovės akcijų ir balsų projekto įgyvendinimo bendrovės visuotiniame akcininkų susirinkime.
+2. Jeigu valstybė perleidžia dalį projekto įgyvendinimo bendrovės akcijų strateginiam investuotojui arba strateginiams partneriams, visais atvejais valstybei nuosavybės teise turi priklausyti akcijų paketas, sudarantis ne mažiau kaip 34 procentus projekto įgyvendinimo bendrovės akcijų ir balsų projekto įgyvendinimo bendrovės visuotiniame akcininkų susirinkime.
 
 
 
 
-3. Lietuvos Respublikos Vyriausybė ir nacionalinis investuotojas, per savo dukterines įmones valdantis pagrindinę Lietuvos Respublikos elektros energetikos sistemos dalį, įgyvendina Lietuvos strateginį tikslą – kompleksiškai integruoja Lietuvos Respublikos elektros energetikos sistemą į Europos Sąjungos valstybių elektros perdavimo sistemas ir elektros energijos vidaus rinkas. 
-Papildyta straipsnio dalimi:
-Nr. X-1446, 2008-02-01, Žin., 2008, Nr. 19-674 (2008-02-14), i. k. 1081010ISTA00X-1446
- 
+3. Lietuvos Respublikos Vyriausybė, projekto įgyvendinimo bendrovė ir elektros perdavimo jungčių statytojas įgyvendina Lietuvos strateginį tikslą – kompleksiškai integruoja Lietuvos Respublikos elektros energetikos sistemą į Europos Sąjungos valstybių narių elektros perdavimo sistemas ir elektros energijos vidaus rinkas.
 
 
 
 
-4. Įgyvendindamos šio straipsnio 3 dalyje numatytą strateginį tikslą, Lietuvos Respublikos Vyriausybė ir valstybės institucijos, priimdamos nutarimus ir sprendimus bei sudarydamos susitarimus, taip pat valstybės akcijų valdytojai, priimdami sprendimus, sudarydami susitarimus ir įgyvendindami valstybei nuosavybės teise priklausančių nacionalinio investuotojo ar jo teisių perėmėjo bendrovėje, taip pat šių bendrovių įsteigtose dukterinėse bendrovėse akcininkų teises, užtikrina, kad:
+4. Įgyvendindamos šio straipsnio 3 dalyje numatytą strateginį tikslą, Lietuvos Respublikos Vyriausybė ir valstybės institucijos, priimdamos nutarimus bei sprendimus ir sudarydamos susitarimus, taip pat valstybės akcijų valdytojai, priimdami sprendimus, sudarydami susitarimus ir įgyvendindami valstybei nuosavybės teise priklausančių nacionalinio investuotojo ar jo teisių perėmėjų bendrovėse akcininkų teises, užtikrina, kad:
 
 
-1) nacionalinis investuotojas, siekdamas savo veiklos tikslo (socialiai atsakingai siekti naudos sau ir visiems savo akcininkams), efektyviai įgyvendintų pagrindinį Lietuvos Respublikos elektros energetikos sistemos uždavinį – neribotą laiką, nepriklausomai, saugiai, patikimai aprūpinti Lietuvos vartotojus elektros energija;
-
-
-
-
-2) nacionalinio investuotojo ir jo dukterinių įmonių veikla būtų organizuojama taip, kad ji atitiktų Lietuvos Respublikos ir Europos Sąjungos teisės aktų reikalavimus bei geriausią Europos Sąjungos valstybių elektros energetikos bendrovių verslo praktiką;
+1) nacionalinis investuotojas, projekto įgyvendinimo bendrovė ir elektros perdavimo jungčių statytojas efektyviai įgyvendintų pagrindinį Lietuvos Respublikos elektros energetikos sistemos uždavinį – neribotą laiką, nepriklausomai, saugiai ir patikimai aprūpinti Lietuvos vartotojus elektros energija;
 
 
 
 
-3) Nacionalinėje energetikos strategijoje numatyti strateginiai objektai – naujoji atominė elektrinė, elektros perdavimo jungtys į Lenkijos Respubliką ir Švedijos Karalystę, užtikrinančios efektyvius ir reikiamos apimties elektros energijos mainus tarp Lietuvos Respublikos elektros energetikos sistemos ir Elektros energijos perdavimo koordinavimo sąjungai (toliau – UCTE) bei Šiaurės šalių perdavimo sistemos operatorių organizacijai (NORDEL) priklausančių sistemų, – būtų realizuoti neatidėliojant;
+2) nacionalinio investuotojo ir jo teisių perėmėjų, taip pat atominės elektrinės statytojo ir elektros perdavimo jungčių statytojų veikla būtų organizuojama taip, kad ji atitiktų Lietuvos Respublikos ir Europos Sąjungos teisės aktų reikalavimus;
 
 
 
 
-4) naujos atominės elektrinės ir elektros perdavimo jungčių į Švedijos Karalystę bei Lenkijos Respubliką techniniai sprendimai ir parametrai būtų parinkti taip, kad pagrindinė dalis atominei elektrinei reikalingų galios rezervų būtų gaunama iš Europos Sąjungos valstybių ir būtų patenkintos Lietuvos Respublikos elektros energetikos sistemos darbo sinchroniniu režimu su UCTE sistema sąlygos;
+3) Nacionalinėje energetikos strategijoje numatyti strateginiai objektai – naujoji atominė elektrinė, elektros perdavimo jungtys į Lenkijos Respubliką ir Švedijos Karalystę, užtikrinančios efektyvius ir reikiamos apimties elektros energijos mainus tarp Lietuvos Respublikos elektros energetikos sistemos ir Elektros energijos perdavimo koordinavimo sąjungai (toliau – UCTE) bei Šiaurės šalių perdavimo sistemos operatorių organizacijai (NORDEL) priklausančių sistemų, – būtų įgyvendinti neatidėliojant;
+
+
+
+
+4) naujosios atominės elektrinės ir elektros perdavimo jungčių į Lenkijos Respubliką ir Švedijos Karalystę techniniai sprendimai ir parametrai būtų parinkti taip, kad pagrindinė dalis atominei elektrinei reikalingų galios rezervų būtų gaunama iš Europos Sąjungos valstybių narių ir būtų tenkinamos Lietuvos Respublikos elektros energetikos sistemos darbo sinchroniniu režimu su UCTE sistema sąlygos;
 
 
 
@@ -289,14 +306,29 @@ Nr. X-1446, 2008-02-01, Žin., 2008, Nr. 19-674 (2008-02-14), i. k. 1081010ISTA0
 
 
 
-6) naujos atominės elektrinės projekto įgyvendinimo bendrovės kapitale dalyvaujant Lietuvos ir užsienio investuotojams būtų apsaugoti Lietuvos Respublikos nacionalinio saugumo ir valstybės esminiai interesai, o pasirenkant atominės elektrinės projekto įgyvendinimo dalyvius būtų taikomi europinės bei transatlantinės integracijos kriterijai.
+6) projekto įgyvendinimo bendrovės kapitale dalyvaujant Lietuvos ir užsienio investuotojams būtų apsaugoti esminiai Lietuvos Respublikos nacionalinio saugumo ir valstybės interesai, o pasirenkant projekto įgyvendinimo bendrovės dalyvius būtų taikomi atitikties nacionalinio saugumo interesams kriterijai.
 
 
-Papildyta straipsnio dalimi:
-Nr. X-1446, 2008-02-01, Žin., 2008, Nr. 19-674 (2008-02-14), i. k. 1081010ISTA00X-1446
+
+
+
+
+5. Įgyvendinant valstybei nuosavybės teise priklausančių akcijų nacionalinio investuotojo bendrovėje suteikiamas teises, nacionalinio investuotojo stebėtojų tarybos ir valdybos nariai renkami vadovaujantis šio įstatymo priede nustatytais principais. Nacionalinio investuotojo bendrovės valdymas organizuojamas pagal šiame ir 10 straipsniuose nustatytus reikalavimus, siekiant užtikrinti efektyvų ir atsakingą valstybės investuoto turto valdymą ir įgyvendinti kitus šio įstatymo keliamus tikslus.
+
+
+
+
+6. Nacionalinio investuotojo visuotinis akcininkų susirinkimas sprendimus priima šiame ir kituose įstatymuose nustatyta tvarka.
+
+
+
+
+7. Jei kiti įstatymai nustato kitokias bendrovių valdymo taisykles, nacionalinio investuotojo bendrovės valdymui jos taikomos tiek, kiek neprieštarauja šio įstatymo nuostatoms. 
+
+
+Straipsnio pakeitimai:
+Nr. XI-373, 2009-07-21, Žin., 2009, Nr. 93-3966 (2009-08-04); Žin., 2009, Nr. 95-0 (2009-08-08), i. k. 1091010ISTA00XI-373
  
-
-
 
 
 
@@ -322,63 +354,42 @@ NACIONALINIS INVESTUOTOJAS
 10 straipsnis. Nacionalinis investuotojas
 
 
-1. Nacionalinis investuotojas – Lietuvos Respublikoje įregistruotas, pagal Lietuvos Respublikos įstatymus neribotam laikui įsteigtas ir veikiantis savarankiškas privatus juridinis asmuo, kurio veiklos tikslas yra socialiai atsakingai siekti naudos sau ir visiems savo akcininkams, taip pat dalyvauti įgyvendinant šio įstatymo 8 straipsnio 3 dalyje numatytą Lietuvos strateginį tikslą. Nacionalinio investuotojo teisinė forma yra akcinė bendrovė; nacionalinio investuotojo buveinė yra Lietuvos Respublikoje. Nacionalinis investuotojas yra nacionalinė elektros energetikos bendrovė, per savo dukterines įmones valdanti pagrindinę Lietuvos Respublikos elektros energetikos sistemos dalį – elektros energijos perdavimo ir skirstomuosius tinklus. Siekdamas savo veiklos tikslo, nacionalinis investuotojas privačios iniciatyvos pagrindu dalyvauja įgyvendinant naujos atominės elektrinės statybos projektą Lietuvoje, taip pat Elektros energetikos įstatymo ir kitų teisės aktų nustatyta tvarka statant Lietuvos Respublikos elektros energetikos sistemos jungtis su Lenkijos Respublikos ir Švedijos Karalystės elektros energetikos sistemomis. 
-Straipsnio dalies pakeitimai:
-Nr. X-1446, 2008-02-01, Žin., 2008, Nr. 19-674 (2008-02-14), i. k. 1081010ISTA00X-1446
-2008-10-08, Žin., 2008, Nr. 117-4457 (2008-10-11), i. k. 108100PPRANRG087021            
-2009-03-02, Žin., 2009, Nr. 25-988 (2009-03-05), i. k. 1091000NUTARG091403            
+1. Nacionalinis investuotojas – Lietuvos Respublikoje įregistruotas, pagal Lietuvos Respublikos įstatymus neribotam laikui įsteigtas ir veikiantis savarankiškas privatus juridinis asmuo, turintis kompetenciją, finansinių išteklių ir gebėjimų organizuoti projekto plėtrą ir kuris dalyvauja finansuojant šiame įstatyme numatyto projekto įgyvendinimą. Projekto finansavimo sąlygos ir tvarka nustatomos nacionalinio investuotojo ir projekto įgyvendinimo bendrovės sudarytoje sutartyje. Nacionalinio investuotojo buveinė yra Lietuvos Respublikoje.
+
+
+
+
+2. Lietuvos Respublikos Vyriausybė atlieka teisės aktų nustatytus veiksmus, kad Lietuvos Respublikai nuosavybės teise priklausytų ne mažiau kaip 2/3 nacionalinio investuotojo akcijų, kurios suteikia ne mažiau kaip 2/3 visų balsų nacionalinio investuotojo visuotiniame akcininkų susirinkime. Kitos nacionalinio investuotojo akcijos Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo, taip pat kitų Lietuvos Respublikos įstatymų ir teisės aktų nustatytomis sąlygomis bei tvarka gali priklausyti nacionaliniams ir užsienio asmenims, atitinkantiems nacionalinio saugumo interesus.
+
+
+
+
+3. Sprendimus dėl nacionalinio investuotojo įstatinio kapitalo didinimo ar mažinimo priima nacionalinio investuotojo visuotinis akcininkų susirinkimas. Naujai išleidžiamos nacionalinio investuotojo akcijos gali būti apmokėtos nepiniginiu įnašu, inter alia pervertinus esamą valstybės nepiniginį įnašą į nacionalinio investuotojo įstatinį kapitalą. Šis įstatymas neatšaukia nacionalinio investuotojo akcininkų pirmenybės teisės įsigyti naujai išleidžiamų akcijų, jei naujai išleidžiamos akcijos apmokamos pinigais.
+
+
+
+
+4. Nacionalinio investuotojo organai yra visuotinis akcininkų susirinkimas, stebėtojų taryba, valdyba ir bendrovės vadovas.
+
+
+
+
+5. Su nacionalinio investuotojo valdybos nariais sudaromos sutartys. Jose turi būti nustatytos valdybos narių teisės, pareigos ir atsakomybė. Sutarties, sudaromos su kiekvienu valdybos nariu, sąlygas nustato ir įgaliotą asmenį nacionalinio investuotojo vardu pasirašyti sutartis paskiria stebėtojų taryba.
+
+
+
+
+6. Šis įstatymas nesuteikia nacionalinio investuotojo bendrovei teisių įgyvendinti šiame straipsnyje nurodytų Lietuvos Respublikos elektros energetikos sistemos jungčių su Lenkijos Respublikos ir Švedijos Karalystės elektros energetikos sistemomis statybos projektus. Akcinė bendrovė „Lietuvos energija“ suteikia elektros perdavimo jungčių statytojui organizacines, technines, finansines ir kitas priemones, reikalingas Lietuvos Respublikos elektros energetikos sistemos jungčių su Lenkijos Respublikos ir Švedijos Karalystės elektros energetikos sistemomis statybos projektams įgyvendinti. Šios nuostatos įgyvendinamos sudarant atitinkamas sutartis tarp akcinės bendrovės „Lietuvos energija“ ir elektros perdavimo jungčių statytojo.
+
+
+
+
+7. Nacionalinis investuotojas gali būti likviduojamas, reorganizuojamas arba pertvarkomas Lietuvos Respublikos įstatymų nustatytais pagrindais ir tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XI-373, 2009-07-21, Žin., 2009, Nr. 93-3966 (2009-08-04); Žin., 2009, Nr. 95-0 (2009-08-08), i. k. 1091010ISTA00XI-373
  
-
-
-
-
-2. Lietuvos Respublikai nuosavybės teise turi priklausyti akcijų paketas, sudarantis daugiau kaip 1/2 nacionalinio investuotojo akcijų ir balsų nacionalinio investuotojo visuotiniame akcininkų susirinkime. Kitą nacionalinio investuotojo įstatinio kapitalo dalį gali sudaryti privatus nacionalinis bei europinės ir transatlantinės integracijos kriterijus atitinkantis užsienio kapitalas Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo, taip pat kitų Lietuvos Respublikos įstatymų ir teisės aktų nustatytomis sąlygomis bei tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. X-1446, 2008-02-01, Žin., 2008, Nr. 19-674 (2008-02-14), i. k. 1081010ISTA00X-1446
- 
-
-
-
-
-3. Nacionalinis investuotojas kartu su dukterinėmis įmonėmis yra nacionalinio investuotojo įmonių grupė. Pagrindinė nacionalinio investuotojo veikla turi būti nacionalinio investuotojo įmonių grupės patronuojančios bendrovės veikla. Nacionalinis investuotojas gali verstis ir kita veikla, kuri neprieštarauja nacionalinio investuotojo veiklos tikslui.
-
-
-
-
-4. Nacionalinio investuotojo įmonių grupės įmonės vykdo teisės aktų nustatyta tvarka atskirtas elektros energijos gamybos, perdavimo, skirstymo, tiekimo, rinkos operatoriaus ir kitokią veiklą. Nacionalinio investuotojo įmonių grupės įmonė gali verstis ir kita veikla, kuri neprieštarauja tokios įmonės veiklos tikslui.
-
-
-
-
-5. Nacionalinio investuotojo organai yra visuotinis akcininkų susirinkimas, stebėtojų taryba, valdyba ir bendrovės vadovas.
-
-
-
-
-6. Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos priimami sprendimai dėl balsavimo nacionalinio investuotojo visuotiniame akcininkų susirinkime turi sudaryti reikiamas prielaidas viešai prekiauti nacionalinio investuotojo akcijomis reguliuojamoje rinkoje, kaip ją apibrėžia Finansinių priemonių rinkų įstatymas. Ši nuostata neįpareigoja Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos priimti sprendimą dėl nacionalinio investuotojo akcijų pardavimo ar kitokio perleidimo.
-
-
-
-
-7. Su nacionalinio investuotojo valdybos nariais sudaromos sutartys, kuriose turi būti numatytos valdybos narių teisės, pareigos bei atsakomybė. Sutarties su kiekvienu valdybos nariu sąlygas nustato ir įgaliotą asmenį nacionalinio investuotojo vardu pasirašyti sutartis paskiria stebėtojų taryba.
-
-
-
-
-7. Nacionalinis investuotojas ir nacionalinio investuotojo organai turi veikti taip, kad nacionaliniam investuotojui visada nuosavybės teise priklausytų ne mažiau kaip 2/3 akcinės bendrovės „Lietuvos energija“, akcinės bendrovės Rytų skirstomųjų tinklų ir akcinės bendrovės „VST“ akcijų ir balsų visuotiniame akcininkų susirinkime. Jeigu akcinės bendrovės „Lietuvos energija“, akcinės bendrovės Rytų skirstomųjų tinklų ir akcinės bendrovės „VST“ vykdomos veiklos rūšys reorganizuojant, pertvarkant ar kitokiu būdu būtų atskirtos, perduotos ar perleistos, bendrovei tiesiogiai ar netiesiogiai turi priklausyti ne mažiau kaip 2/3 akcijų ir balsų visuotiniame akcininkų susirinkime bendrovėse, kurioms nuosavybės teise priklauso Lietuvos Respublikos elektros energijos perdavimo tinklas, elektros energijos skirstomieji tinklai, taip pat bendrovėse, kurios vykdo elektros energijos perdavimo, elektros energijos rinkos operatoriaus, elektros energijos skirstymo ir visuomeninio elektros energijos tiekėjo veiklas. 
-Papildyta straipsnio dalimi:
-Nr. X-1446, 2008-02-01, Žin., 2008, Nr. 19-674 (2008-02-14), i. k. 1081010ISTA00X-1446
- 
-
-
-
-
-8. Šis įstatymas nesuteikia nacionalinio investuotojo bendrovei išskirtinių teisių kitų asmenų atžvilgiu įgyvendinti šiame straipsnyje nurodytų Lietuvos Respublikos elektros energetikos sistemos jungčių su Lenkijos Respublikos ir Švedijos Karalystės elektros energetikos sistemomis statybos projektus.
-Papildyta straipsnio dalimi:
-Nr. X-1446, 2008-02-01, Žin., 2008, Nr. 19-674 (2008-02-14), i. k. 1081010ISTA00X-1446
- 
-
-
 
 
 
@@ -386,55 +397,62 @@ Nr. X-1446, 2008-02-01, Žin., 2008, Nr. 19-674 (2008-02-14), i. k. 1081010ISTA0
 11 straipsnis. Nacionalinio investuotojo steigimas ir įstatinio kapitalo didinimas
 
 
-1. Lietuvos Respublikos Vyriausybė, įgyvendindama šio įstatymo 10 straipsnio nuostatas, turi teisę:
-
-
-1) derėtis su akcinės bendrovės „VST“ kontrolinį akcijų paketą turinčiu akcininku dėl nacionalinio investuotojo steigimo ir visų ar dalies tokiam akcininkui nuosavybės teise priklausančių akcinės bendrovės „VST“ akcijų, sudarančių daugiau kaip 2/3 akcinės bendrovės „VST“ akcijų ir balsų visuotiniame akcininkų susirinkime, investavimo ir dėl naujų išleidžiamų nacionalinio investuotojo akcijų įsigijimo;
-Straipsnio punkto pakeitimai:
-2008-10-08, Žin., 2008, Nr. 117-4457 (2008-10-11), i. k. 108100PPRANRG087021            
-2009-03-02, Žin., 2009, Nr. 25-988 (2009-03-05), i. k. 1091000NUTARG091403            
- 
+1. Lietuvos Respublikos Vyriausybė atlieka visus teisinius veiksmus, kad būtų įgyvendintos šio įstatymo 10 straipsnio nuostatos.
 
 
 
 
-2) dalyvauti steigiant akcinę bendrovę, kurios įstatinis kapitalas steigimo metu būtų formuojamas iš pinigų ir į kurios įstatinį kapitalą po įsteigimo būtų investuotos visos ar dalis valstybei priklausančių akcinės bendrovės „Lietuvos energija“ ir akcinės bendrovės Rytų skirstomųjų tinklų akcijų, sudarančių daugiau kaip 2/3 kiekvienos bendrovės akcijų ir balsų visuotiniame akcininkų susirinkime, ir, jei bus pasiekti šios dalies 1 punkte numatyti susitarimai, akcinės bendrovės „VST“ akcijos, sudarančios daugiau kaip 2/3 šios bendrovės akcijų ir balsų visuotiniame akcininkų susirinkime;
+2. Įgyvendinant šio įstatymo 10 straipsnio 2 dalies nuostatas, valstybės akcijų valdytojas turi teisę įvertinti nacionalinio investuotojo steigimo metu valstybei nuosavybės teise priklausiusias akcinės bendrovės „Lietuvos energija“ ir akcinės bendrovės Rytų skirstomieji tinklai akcijas. Nurodytų bendrovių akcijos turi būti įvertintos nepriklausomo turto vertintojo teisės aktų nustatyta tvarka.
 
 
 
 
-3) priimti šios dalies 1 ir 2 punktų nuostatoms įgyvendinti reikiamus sprendimus ir sudaryti atitinkamus sandorius.
+3. Kiti nacionalinio investuotojo akcininkai savo sąskaita ir iniciatyva turi teisę kreiptis į nepriklausomus turto vertintojus dėl į nacionalinio investuotojo įstatinį kapitalą įneštų akcinės bendrovės „VST“ akcijų įvertinimo.
 
 
 
 
-
-
-2. Įgyvendinant šio straipsnio 1 dalies nuostatas, akcinės bendrovės „Lietuvos energija“, akcinės bendrovės Rytų skirstomųjų tinklų ir akcinės bendrovės „VST“ akcijos turi būti įvertintos nepriklausomo turto vertintojo teisės aktų nustatyta tvarka ir turi būti gauta finansų įstaigos, kurios ilgalaikio skolinimosi reitingas yra ne mažesnis kaip „A-“ pagal tarptautinės reitingų agentūros Fitch Ratings suteiktą reitingą arba „A3“ pagal tarptautinės reitingų agentūros Moody's suteiktą reitingą, arba „A-“ pagal tarptautinės reitingų agentūros Standard &Poor's suteiktą reitingą, nuomonė apie akcijų įvertinimą. Akcijų įvertinimo, nuomonės apie akcijų įvertinimą pareiškimo ir kitų ekspertinių paslaugų pirkimą teisės aktų nustatyta tvarka vykdo Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija, apmokėdama iš Privatizavimo fondo lėšų.
-
-
-
-
-3. Lietuvos Respublikos Vyriausybė turi teisę priimti sprendimą dėl valstybei priklausančių nacionalinio investuotojo akcijų pardavimo kitiems europinės ir transatlantinės integracijos kriterijus atitinkantiems asmenims arba dėl valstybės pirmumo teisės įsigyti naujai išleidžiamas nacionalinio investuotojo akcijas perleidimo ar atsisakymo kitų minėtus kriterijus atitinkančių asmenų naudai, visais atvejais užtikrindama, kad Lietuvos Respublikai nuosavybės teise priklausys akcijų paketas, sudarantis daugiau kaip 1/2 nacionalinio investuotojo akcijų ir balsų nacionalinio investuotojo visuotiniame akcininkų susirinkime.
+4. Tais atvejais, kai atlikus akcinės bendrovės „Lietuvos energija“ ir (arba) akcinės bendrovės Rytų skirstomieji tinklai akcijų įvertinimą paaiškėja, kad valstybei nuosavybės teise priklausiusių akcinės bendrovės „Lietuvos energija“ ir (arba) akcinės bendrovės Rytų skirstomieji tinklai akcijos buvo įvertintos per maža verte, Lietuvos Respublikos Vyriausybė turi teisę reikalauti, kad kiti nacionalinio investuotojo akcininkai ne vėliau kaip per tris mėnesius nuo atitinkamo Lietuvos Respublikos Vyriausybės nutarimo įsigaliojimo dienos už turimas nacionalinio investuotojo akcijas tinkamai atsiskaitytų pinigais. Lietuvos Respublikos Vyriausybė turi teisę imtis kitų šiame įstatyme numatytų teisinių priemonių, kad būtų užtikrinta valstybės teisių ir teisėtų interesų apsauga.
 
 
 
 
-4. Jeigu Lietuvos Respublikos Vyriausybė nuspręstų parduoti dalį valstybei priklausančių nacionalinio investuotojo akcijų, pardavimas turi būti vykdomas viešai, sudarant nediskriminacines sąlygas jas įsigyti Lietuvos Respublikos piliečiams ir juridiniams asmenims, visais atvejais užtikrinant, kad Lietuvos Respublikai nuosavybės teise priklausys akcijų paketas, sudarantis daugiau kaip 1/2 nacionalinio investuotojo akcijų ir balsų nacionalinio investuotojo visuotiniame akcininkų susirinkime. Siekiant užtikrinti platesnį ir tinkamą Lietuvos Respublikos ir kitų nacionalinio investuotojo akcininkų atstovavimą nacionalinio investuotojo organuose, nacionalinio investuotojo stebėtojų tarybos narių skaičius gali būti didesnis, negu nurodyta Akcinių bendrovių įstatyme, tačiau ne daugiau kaip 25 nariai.
+5. Šiame straipsnyje ir šio įstatymo 10 straipsnio 3 dalyje numatytos Lietuvos Respublikos Vyriausybės teisės gali būti įgyvendinamos kartu.
 
 
 
 
-5. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija informuoja Lietuvos Respublikos Seimą apie šio straipsnio 1 dalies 1 punkte numatytų derybų eigą ir rezultatus. Šio straipsnio 1 dalies 1 punkte numatyti susitarimai yra nekonfidencialūs (vieši). Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija visą šioje dalyje nurodytų susitarimų tekstą paskelbia Lietuvos Respublikos Vyriausybės interneto tinklalapyje.
+6. Lietuvos Respublikos Vyriausybė turi teisę priimti sprendimą dėl valstybei priklausančių nacionalinio investuotojo akcijų pardavimo kitiems nacionalinio saugumo interesus atitinkantiems asmenims arba dėl valstybės pirmumo teisės įsigyti naujai išleidžiamas nacionalinio investuotojo akcijas perleidimo ar atsisakymo kitų minėtus kriterijus atitinkančių asmenų naudai, visais atvejais užtikrindama, kad Lietuvos Respublikai nuosavybės teise priklausys akcijų paketas, sudarantis ne mažiau kaip 2/3 nacionalinio investuotojo akcijų ir balsų nacionalinio investuotojo visuotiniame akcininkų susirinkime.
 
 
 
 
-6. Lietuvos Respublikos Vyriausybei investavus akcinės bendrovės „Lietuvos energija“ akcijas, sudarančias daugiau kaip 2/3 akcijų ir balsų akcinės bendrovės „Lietuvos energija“ visuotiniame akcininkų susirinkime, į nacionalinio investuotojo įstatinį kapitalą, Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo 3 straipsnio reikalavimas dėl sprendžiamosios galios akcinėje bendrovėje „Lietuvos energija“ palikimo valstybei laikomas įvykdytu, kol valstybei nuosavybės teise priklauso daugiau kaip 1/2 nacionalinio investuotojo akcijų ir balsų nacionalinio investuotojo visuotiniame akcininkų susirinkime.
+7. Jeigu Lietuvos Respublikos Vyriausybė nuspręstų parduoti dalį valstybei priklausančių nacionalinio investuotojo akcijų, pardavimas turi būti vykdomas viešai, sudarant nediskriminacines sąlygas jas įsigyti Lietuvos Respublikos piliečiams ir juridiniams asmenims, visais atvejais užtikrinant, kad Lietuvos Respublikai nuosavybės teise priklausys akcijų paketas, sudarantis ne mažiau kaip 2/3 nacionalinio investuotojo akcijų ir balsų nacionalinio investuotojo visuotiniame akcininkų susirinkime. Siekiant užtikrinti platesnį ir tinkamą Lietuvos Respublikos ir kitų nacionalinio investuotojo akcininkų atstovavimą nacionalinio investuotojo organuose, nacionalinio investuotojo stebėtojų tarybos narių skaičius gali būti didesnis, negu nurodyta Akcinių bendrovių įstatyme, tačiau ne daugiau kaip 25 nariai.
+
+
+
+
+8. Visi susitarimai ir kiti dokumentai dėl nacionalinio investuotojo steigimo yra nekonfidencialūs (vieši). Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija visų šioje dalyje nurodytų susitarimų tekstus paskelbia Lietuvos Respublikos Vyriausybės interneto tinklalapyje.
+
+
+
+
+9. Lietuvos Respublikos Vyriausybei investavus akcinės bendrovės „Lietuvos energija“ akcijas, sudarančias daugiau kaip 2/3 akcijų ir balsų akcinės bendrovės „Lietuvos energija“ visuotiniame akcininkų susirinkime, į nacionalinio investuotojo įstatinį kapitalą, Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo 4 straipsnio reikalavimas dėl sprendžiamosios galios akcinėje bendrovėje „Lietuvos energija“ palikimo valstybei bus laikomas įvykdytu, kai valstybei nuosavybės teise priklausys ne mažiau kaip 2/3 nacionalinio investuotojo akcijų ir balsų nacionalinio investuotojo visuotiniame akcininkų susirinkime.
+
+
+
+
+10. Ne vėliau kaip per dvidešimt keturis mėnesius nuo nacionalinio investuotojo įsteigimo dienos sutarties dėl nacionalinio investuotojo sukūrimo nustatytomis sąlygomis nuo akcinės bendrovės „Lietuvos energija“ turi būti teisiškai ir funkciškai atskirtos Kauno hidroelektrinė ir Kruonio hidroakumuliacinė elektrinė ir joms priskirtų turto, teisių bei pareigų pagrindu sukurtos dvi akcinės bendrovės (viena Kauno hidroelektrinės turto, teisių ir pareigų pagrindu, kita – Kruonio hidroakumuliacinės elektrinės turto, teisių ir pareigų pagrindu).
+
+
+
+
+11. Tuo atveju, jei šio straipsnio 10 dalies nuostata nebūtų įvykdyta ir Kauno hidroelektrinė bei Kruonio hidroakumuliacinė elektrinė liktų nacionalinio investuotojo nuosavybe, tai jų turtine verte būtų didinamas nacionalinio investuotojo įstatinis kapitalas. Atitinkamus sprendimus dėl nacionalinio investuotojo įstatinio kapitalo didinimo ir jo apmokėjimo nepiniginiu įnašu priima nacionalinio investuotojo visuotinis akcininkų susirinkimas. Išleidžiama papildoma paprastųjų vardinių akcijų emisija. Šios akcijos pasirašomos Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos ir apmokamos nepiniginiu įnašu. Šioje dalyje nustatyta tvarka išleistos ir apmokėtos akcijos tampa Lietuvos Respublikos nuosavybe, suteikiančia Lietuvos Respublikai kaip nacionalinio investuotojo akcininkei visas turtines ir neturtines teises. Kauno hidroelektrinės ir Kruonio hidroakumuliacinės elektrinės turtinė vertė turi būti įvertinta nepriklausomo turto vertintojo teisės aktų nustatyta tvarka. Akcijų įvertinimo, nuomonės apie akcijų įvertinimą pareiškimo ir kitų ekspertinių paslaugų pirkimą teisės aktų nustatyta tvarka vykdo Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija, apmokėdama iš Privatizavimo fondo lėšų. 
 
 
 Straipsnio pakeitimai:
 Nr. X-1446, 2008-02-01, Žin., 2008, Nr. 19-674 (2008-02-14), i. k. 1081010ISTA00X-1446
+Nr. XI-373, 2009-07-21, Žin., 2009, Nr. 93-3966 (2009-08-04); Žin., 2009, Nr. 95-0 (2009-08-08), i. k. 1091010ISTA00XI-373
  
 
 
@@ -466,7 +484,10 @@ Atominės elektrinės statybos vieta nustatoma vadovaujantis Teritorijų planavi
 
 
 
-2. Žemė, reikalinga naujos atominės elektrinės statybai, įstatymų ir kitų teisės aktų nustatyta tvarka perduodama, išnuomojama ar kitais teisės aktų nustatytais pagrindais suteikiama naudotis projekto įgyvendinimo bendrovei ar nacionaliniam investuotojui.
+2. Žemė, reikalinga naujosios atominės elektrinės statybai, įstatymų ir kitų teisės aktų nustatyta tvarka perduodama, išnuomojama ar kitais teisės aktų nustatytais pagrindais suteikiama naudotis projekto įgyvendinimo bendrovei. 
+Straipsnio dalies pakeitimai:
+Nr. XI-373, 2009-07-21, Žin., 2009, Nr. 93-3966 (2009-08-04); Žin., 2009, Nr. 95-0 (2009-08-08), i. k. 1091010ISTA00XI-373
+ 
 
 
 
@@ -511,10 +532,12 @@ Branduolinės energetikos reguliavimo, kontrolės ir priežiūros institucijų v
 16 straipsnis. Investicijų apsauga
 
 
-Investuotojams suteikiamos Investicijų įstatyme, tarptautinėse sutartyse ir kituose teisės aktuose nustatytos investicijų apsaugos priemonės.
+Užsienio investuotojams taikoma apsauga, nustatyta Lietuvos Respublikos sudarytose tarptautinėse sutartyse. 
+
+
+Straipsnio pakeitimai:
+Nr. XI-373, 2009-07-21, Žin., 2009, Nr. 93-3966 (2009-08-04); Žin., 2009, Nr. 95-0 (2009-08-08), i. k. 1091010ISTA00XI-373
  
-
-
 
 
 
@@ -549,10 +572,35 @@ Projekto įgyvendinimo bendrovė ir Lietuvos Respublikos Vyriausybė ar jos įga
 19 straipsnis. Įstatymo įgyvendinimas
 
 
-Įgyvendinant šio įstatymo ketvirtojo skirsnio nuostatas, Valstybės ir savivaldybių turto privatizavimo įstatymo nuostatos netaikomos.
+1. Įgyvendinant šio įstatymo ketvirtojo skirsnio nuostatas, Valstybės ir savivaldybių turto privatizavimo įstatymo nuostatos netaikomos.
+
+
+
+
+2. Projekto įgyvendinimo bendrovei, elektros perdavimo jungčių statytojui ir nacionaliniam investuotojui atskirų juridinių asmenų rūšis reglamentuojantys įstatymai taikomi tiek, kiek jie neprieštarauja šiam įstatymui. 
+
+
+Straipsnio pakeitimai:
+Nr. XI-373, 2009-07-21, Žin., 2009, Nr. 93-3966 (2009-08-04); Žin., 2009, Nr. 95-0 (2009-08-08), i. k. 1091010ISTA00XI-373
  
 
 
+
+
+191 straipsnis. Tikslinės obligacijos
+
+
+1. Lietuvos Respublikos Vyriausybė, projekto įgyvendinimo bendrovė ir elektros perdavimo jungčių statytojas turi teisę leisti tikslines obligacijas, kurios skirtos projekto įgyvendinimui finansuoti ir elektros perdavimo jungčių statybai ir į kurias gali investuoti nacionalinis investuotojas, strateginis investuotojas ir kiti investuotojai.
+
+
+
+
+2. Lietuvos Respublikos Vyriausybė turi teisę nustatyti specialius reikalavimus, taikomus tikslinių obligacijų emisijai ir išpirkimui. 
+
+
+Papildyta straipsniu:
+Nr. XI-373, 2009-07-21, Žin., 2009, Nr. 93-3966 (2009-08-04); Žin., 2009, Nr. 95-0 (2009-08-08), i. k. 1091010ISTA00XI-373
+ 
 
 
 
@@ -593,15 +641,149 @@ Nr. X-1446, 2008-02-01, Žin., 2008, Nr. 19-674 (2008-02-14), i. k. 1081010ISTA0
 
 
  
- 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
  
+ 
 
 
+
+
+
+
+ 
+Lietuvos Respublikos
+atominės elektrinės įstatymo
+priedas
+ 
+VALSTYBĖS AKCIJŲ VALDYTOJUI ATSTOVAUJANČIŲ ASMENŲ NACIONALINIO INVESTUOTOJO BENDROVĖJE PARINKIMO IR NACIONALINIO INVESTUOTOJO ORGANŲ SUDARYMO IR VEIKLOS PRINCIPAI
+ 
+
+
+I. BENDROSIOS NUOSTATOS
+ 
+
+
+1. Nacionalinio investuotojo organai veikia pagal nacionalinio investuotojo veiklos strategiją, patvirtintą nacionalinio investuotojo visuotinio akcininkų susirinkimo. Viena strategijos dalis turi būti finansinis planas, numatantis priemones sukaupti pinigines lėšas strategijos įgyvendinimui finansuoti.
+
+
+
+
+2. Ne rečiau kaip kartą per kalendorinį ketvirtį nacionalinio investuotojo stebėtojų taryba apsvarsto ir įvertina nacionalinio investuotojo veiklos strategijos ir finansinio plano tikslų, susijusių su lėšų atominės elektrinės statybai finansuoti sukaupimu, vykdymą.
+ 
+
+
+
+
+
+
+II. AKCIJŲ VALDYTOJAS IR JO ĮGALIOTI ASMENYS
+ 
+
+
+3. Valstybei nuosavybės teise priklausančių akcijų suteikiamas teises įgyvendina ir valstybei atstovauja Lietuvos Respublikos Vyriausybės paskirtas akcijų valdytojas (valstybės institucija, kuriai teisės aktų nustatyta tvarka šios akcijos perduotos patikėjimo teise).
+
+
+
+
+4. Akcijų valdytojas, naudodamasis visomis valstybei nuosavybės teise priklausančių nacionalinio investuotojo akcijų suteikiamomis teisėmis, privalo užtikrinti, kad nacionalinio investuotojo veikla atitiktų šio ir kitų įstatymų, taip pat Lietuvos Respublikoje galiojančių teisės aktų reikalavimus ir būtų skirta šiame įstatyme nurodytiems tikslams pasiekti.
+
+
+
+
+5. Akcijų valdytojo vardu veikia jo įgalioti valstybės tarnautojai arba juridiniai asmenys. Įgaliotiniu gali būti asmuo, kuris turi magistro kvalifikacinį laipsnį arba jam prilygintą universitetinį išsilavinimą, yra susipažinęs su įgaliotinio teisėmis, pareigomis ir atsakomybe, išmano ir moka praktiniame darbe taikyti įstatymus, kitus teisės aktus, reglamentuojančius nacionalinio investuotojo veiklą, yra nepriekaištingos reputacijos, taip pat atitinka kitus teisės aktuose nustatytus reikalavimus.
+
+
+
+
+6. Akcijų valdytojo įgaliotiems asmenims išduotuose įgaliojimuose atstovauti akcijų valdytojui nacionalinio investuotojo visuotiniame akcininkų susirinkime turi būti nurodyta, kaip kiekvienu konkrečiu klausimu turi balsuoti ar veikti įgaliotinis.
+
+
+
+
+7. Įgaliotiniu negali būti asmuo, kuriam gali kilti viešųjų ir privačių interesų konfliktas arba kurio įgaliojimas atstovauti valstybei ar savivaldybei per paskutinius penkerius metus buvo panaikintas dėl netinkamo atstovavimo, arba kuris per paskutinius penkerius metus buvo atšauktas iš bet kurios akcinės bendrovės ar uždarosios akcinės bendrovės, valstybės ar savivaldybės įmonės priežiūros ar valdymo organų dėl netinkamo pareigų atlikimo.
+
+
+
+
+8. Siekiant užtikrinti sklandų ir operatyvų informacijos teikimą, akcijų valdytojas turi teisę paskirti nuolatinį atstovą – valstybės interesams nacionalinio investuotojo bendrovėje atstovaujantį asmenį. Šiuo tikslu akcijų valdytojas sudaro su atstovu sutartį, kurioje nustatomos atstovo pareigos ir atsakomybė. Nacionalinis investuotojas privalo užtikrinti atstovui tinkamas darbo sąlygas, suteikti būtinas technines, organizacines priemones ir visą reikalingą informaciją.
+
+
+
+
+9. Šio skyriaus nuostatos, taikomos fiziniams asmenims, mutatis mutandis taikomos ir juridinių asmenų paskirtiems atstovams.
+ 
+
+
+
+
+
+
+III. NACIONALINIO INVESTUOTOJO ORGANŲ SUDARYMAS
+ 
+
+
+10. Stebėtojų tarybos sudarymas.
+
+
+10.1. Akcijų valdytojas nacionalinio investuotojo visuotiniame akcininkų susirinkime balsuoja taip, kad daugiau kaip 1/2 visų stebėtojų tarybos narių būti išrinkti iš akcijų valdytojo pasiūlytų asmenų. Akcijų valdytojo pasiūlyti stebėtojų tarybos nariai privalo atstovauti valstybės ir visuomenės interesams ir užtikrinti šio įstatymo įgyvendinimą.
+
+
+
+
+10.2. Akcijų valdytojo siūlomais kandidatais į stebėtojų tarybos narius gali būti asmenys, kurie turi aukštąjį universitetinį išsilavinimą, patirties energetikos, teisės, projektų valdymo, vadybos, viešojo administravimo, įmonių valdymo, finansų ar bankininkystės srityse ir yra nepriekaištingos reputacijos. Asmuo negali būti laikomas nepriekaištingos reputacijos, jeigu jis buvo nuteistas už Lietuvos Respublikos baudžiamajame kodekse numatytą sunkų, labai sunkų nusikaltimą arba už nusikaltimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai ar už juos atitinkančias nusikalstamas veikas pagal užsienio valstybių baudžiamuosius įstatymus ir jam nėra išnykęs ar nepanaikintas teistumas, taip pat jeigu jis buvo nuteistas už kitas nusikalstamas veikas ir teistumas nėra išnykęs arba nepanaikintas, jeigu jis piktnaudžiauja psichotropinėmis, narkotinėmis, toksinėmis medžiagomis ar alkoholiu.
+
+
+
+
+10.3. Kandidatas į stebėtojų tarybos narius visuotiniam akcininkų susirinkimui privalo pateikti rašytinį sutikimą kandidatuoti į stebėtojų tarybos narius ir kandidato interesų deklaraciją. Šioje deklaracijoje kandidatas privalo nurodyti visas aplinkybes, dėl kurių galėtų kilti kandidato ir bendrovės interesų konfliktas. Atsiradus naujų aplinkybių, dėl kurių galėtų kilti interesų konfliktas, stebėtojų tarybos narys apie jas nedelsdamas privalo informuoti stebėtojų tarybą.
+
+
+
+
+10.4. Akcijų valdytojas su savo siūlomais kandidatais į nacionalinio investuotojo stebėtojų tarybos narius gali sudaryti sutartis dėl jų veiklos stebėtojų taryboje. Sutartyse nustatomos jų teisės, pareigos ir atsakomybė. Sutarčių su kandidatais į stebėtojų tarybos narius sąlygas nustato Lietuvos Respublikos Vyriausybė. Sutartyse turi būti numatyti kandidatų į stebėtojų tarybos narius įsipareigojimai veikti ginant viešąjį interesą ir siekti nacionalinio investuotojo valdymą organizuoti taip, kad būtų užtikrintas šiame įstatyme numatytų nacionalinio investuotojo veiklos tikslų įgyvendinimas. Šio punkto reikalavimai netaikomi akcijų valdytojo siūlomiems kandidatams į stebėtojų tarybos narius, kurie yra valstybės tarnautojai.
+
+
+
+
+
+
+11. Valdybos sudarymas.
+
+
+11.1. Akcijų valdytojas turi pasiūlyti daugiau kaip 1/2 visų valdybos narių. Akcijų valdytojo pasiūlyti valdybos nariai privalo atstovauti valstybės ir visuomenės interesams ir užtikrinti šio įstatymo įgyvendinimą. Stebėtojų tarybos nariai balsuoja taip, kad į valdybą būtų išrinkta tiek akcijų valdytojo pasiūlytų valdybos narių, kiek akcijų valdytojo pasiūlytų narių yra stebėtojų taryboje (jei stebėtojų tarybos ir valdybos narių skaičius skiriasi, turi būti išlaikyta ta pati proporcija tarp akcijų valdytojo pasiūlytų ir kitų akcininkų pasiūlytų ir išrinktų narių stebėtojų taryboje ir valdyboje).
+
+
+
+
+11.2. Akcijų valdytojo nominuotų stebėtojų tarybos narių siūlomais kandidatais į valdybos narius gali būti asmenys, kurie turi aukštąjį universitetinį išsilavinimą, patirties energetikos, teisės, projektų valdymo, vadybos, įmonių valdymo, finansų ar bankininkystės srityse ir yra nepriekaištingos reputacijos. Asmuo negali būti laikomas nepriekaištingos reputacijos, jeigu jis buvo nuteistas už Lietuvos Respublikos baudžiamajame kodekse numatytą sunkų, labai sunkų nusikaltimą arba už nusikaltimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai ar už juos atitinkančias nusikalstamas veikas pagal užsienio valstybių baudžiamuosius įstatymus ir jam nėra išnykęs ar nepanaikintas teistumas, taip pat jeigu jis buvo nuteistas už kitas nusikalstamas veikas ir teistumas nėra išnykęs arba nepanaikintas, jeigu jis piktnaudžiauja psichotropinėmis, narkotinėmis, toksinėmis medžiagomis ar alkoholiu.
+
+
+
+
+11.3. Kandidatas į valdybos narius stebėtojų tarybai privalo pateikti rašytinį sutikimą kandidatuoti į valdybos narius ir kandidato interesų deklaraciją. Šioje deklaracijoje kandidatas privalo nurodyti visas aplinkybes, dėl kurių galėtų kilti kandidato ir bendrovės interesų konfliktas. Atsiradus naujoms aplinkybėms, dėl kurių galėtų kilti interesų konfliktas, valdybos narys apie jas nedelsdamas privalo informuoti stebėtojų tarybą.
+
+
+
+
+11.4. Su valdybos nariais yra sudaromos sutartys vadovaujantis šio įstatymo 10 straipsnio 5 dalimi.
+
+
+
+
+
+
+12. Iki nacionalinio investuotojo stebėtojų tarybos ir valdybos sudarymo pagal šio įstatymo priedo reikalavimus tęsiasi iki šio priedo įsigaliojimo sudarytos stebėtojų tarybos ir valdybos įgaliojimai. 
+
+
+
+
+Papildyta priedu:
+Nr. XI-373, 2009-07-21, Žin., 2009, Nr. 93-3966 (2009-08-04); Žin., 2009, Nr. 95-0 (2009-08-08), i. k. 1091010ISTA00XI-373
+ 
  
  
 Pakeitimai:
@@ -618,5 +800,10 @@ Dėl Lietuvos Respublikos atominės elektrinės įstatymo 10 ir 11 straipsnių (
  
 3.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-2009-03-02, Žin., 2009, Nr. 25-988 (2009-03-05), i. k. 1091000NUTARG091403                
+2009-03-02, Žin., 2009, Nr. 25-988 (2009-03-05), i. k. 1091000NUTARG091403                
 Dėl Lietuvos Respublikos atominės elektrinės įstatymo 10 straipsnio 1 dalies (2008 m. vasario 1 d. redakcija) nuostatų ir 11 straipsnio (2008 m. vasario 1 d. redakcija) 1 dalies 1 punkto atitikties Lietuvos Respublikos Konstitucijai
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-373, 2009-07-21, Žin., 2009, Nr. 93-3966 (2009-08-04); Žin., 2009, Nr. 95-0 (2009-08-08), i. k. 1091010ISTA00XI-373
+Lietuvos Respublikos atominės elektrinės įstatymo preambulės, 3, 6, 8, 10, 11, 13, 16, 19 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 19-1 straipsniu ir priedu įstatymas
