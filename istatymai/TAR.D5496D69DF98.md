@@ -829,6 +829,11 @@ arba pardavimo priima Vyriausybė. Vyriausybės sprendime turi būti nurodyta
 valstybės institucija ar įstaiga, įgaliota sudaryti turto perdavimo arba
 pardavimo sandorį, perduodamas arba parduodamas turtas, jo naudojimo sąlygos ir
 tvarka bei už turto perdavimo kontrolę atsakinga institucija.
+7. Visos sutarčių
+dėl valstybės turto perdavimo juridiniams ar fiziniams asmenims nuostatos,
+kurios atima ar apriboja valstybės teises, nustatytas įstatymuose, negalioja.
+Valstybės teisės gali būti apribotos tik įstatymuose nustatyta tvarka ir
+pagrindais.
 Straipsnio pakeitimai:
 Nr. IX-1548, 2003-04-29, Žin., 2003, Nr. 47-2065 (2003-05-14)
 Nr.
@@ -837,6 +842,9 @@ X-771,
 Nr.
 XI-279,
 2009-06-02, Žin., 2009, Nr. 71-2891 (2009-06-16)
+Nr.
+XI-374,
+2009-07-21, Žin., 2009, Nr. 93-3967 (2009-08-04)(papildyta 7 dalimi)
  
 18
 straipsnis. Neteko
@@ -847,7 +855,7 @@ Nr.
 X-771,
 2006-07-18, Žin., 2006, Nr. 87-3397 (2006-08-08)
  
-*19 straipsnis.
+19 straipsnis.
 Valstybės ir savivaldybių turto investavimas
 1. Valstybės ir savivaldybių turto
 investavimas – tai valstybei ar savivaldybei nuosavybės teise priklausančio
@@ -866,22 +874,51 @@ akcinei bendrovei nustatant (formuojant) įstatinį kapitalą, jei teisės aktų
 nustatyta tvarka valstybės ar savivaldybės įmonė pertvarkoma į akcinę bendrovę
 ar uždarąją akcinę bendrovę;
 5) steigiamiems ar įsteigtiems kitos
-teisinės formos juridiniams asmenims, kurių veiklos tikslas yra tarptautinis
-bendradarbiavimas, kai tuo siekiama užtikrinti tinkamą įstatymuose numatytų
-valstybės ar savivaldybių funkcijų įgyvendinimą;
+teisinės formos juridiniams asmenims, kurių veiklos tikslas yra tarptautinis bendradarbiavimas,
+kai tuo siekiama užtikrinti tinkamą įstatymuose numatytų valstybės ar
+savivaldybių funkcijų įgyvendinimą;
 6)
 įsigyjant Lietuvos Respublikoje arba kitoje Europos Sąjungos valstybėje narėje
 ar Europos ekonominės erdvės valstybėje įsteigto ir sukauptas lėšas Lietuvos
 Respublikoje investuojančio investicinio fondo, kuris yra privataus kapitalo
 kolektyvinio investavimo subjektas, siūlomų investicinių vienetų. Šis punktas
 netaikomas savivaldybių turto investavimui.
-**2.
-Sprendimą dėl valstybei nuosavybės teise priklausančio turto investavimo priima
-Vyriausybė. Sprendimą dėl savivaldybei nuosavybės teise priklausančio turto
-investavimo priima savivaldybės taryba. Prieš priimant tokį sprendimą būtina jį
-ekonomiškai ir socialiai pagrįsti. Sprendimai dėl valstybės ir savivaldybių
-turto investavimo priimami vadovaujantis Vyriausybės nustatytais kriterijais ir
-tvarka.
+2. Sprendimą dėl valstybei nuosavybės teise
+priklausančio turto investavimo priima Vyriausybė. Sprendimą dėl savivaldybei
+nuosavybės teise priklausančio turto investavimo priima savivaldybės taryba.
+Prieš priimant atitinkamą sprendimą, būtina jį ekonomiškai ir socialiai
+pagrįsti. Sprendimai dėl valstybės ir savivaldybių turto investavimo priimami
+Vyriausybės nustatyta tvarka, jeigu tenkinami ne mažiau kaip trys investavimo kriterijai:
+1) investavus bus įvykdyti iš tarptautinių sutarčių
+atsirandantys Lietuvos Respublikos įsipareigojimai;
+2) investuojama į nacionaliniam saugumui užtikrinti strateginę ir svarbią reikšmę turinčias įmones ir (ar) įrenginius,
+vadovaujantis Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir
+įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymu ir
+kitais nacionalinio saugumo tikslus įgyvendinančiais teisės aktais, kuriais inter
+alia užtikrinama reikiama sprendžiamoji valstybės galia; 
+3) investuojant skatinamas Lietuvos ekonomikos
+augimas, stiprinamas ekonominis savarankiškumas ir (ar) tarptautinis
+konkurencingumas;
+4) investuojant bus siekiama savivaldybės ar visos
+šalies ekonominės ir socialinės sanglaudos Europos Sąjungos erdvėje, taip pat
+regioniniu ar pasaulio mastu;
+5) investavus bus kuriama ar plėtojama infrastruktūra,
+naudinga visuomenei (skatinama veiksminga konkurencija šalies rinkoje, gerinama
+viešųjų paslaugų kokybė, pasirinkimo galimybės ir prieinamumas); 
+6) valstybės ir (ar) savivaldybių turto investavimu
+(valstybės ar savivaldybės įnašu) bus sukuriama pridėtinė vertė ir užtikrinamas
+šią vertę kuriančios veiklos ilgalaikis ekonominis tvarumas;
+7) iš investavimo objekto bus gauta ne tik pelno
+(pajamų), bet ir gautas socialinis rezultatas (švietimo, kultūros, mokslo,
+aplinkos, sveikatos ir socialinės apsaugos, kitų panašių sričių) arba
+užtikrintas veiksmingesnis Lietuvos Respublikos įstatymuose ir Vyriausybės
+nutarimuose nustatytų valstybės ir savivaldybės funkcijų atlikimas;
+8) bus investuojama į ūkio ir socialines inovacijas,
+žinių ekonomikos plėtrą, aukštųjų technologijų kūrimą, jeigu tai yra vienas iš
+pagrindinių investicijų objekto veiklos tikslų; 
+9) investavimo tikslas ir
+siekiamas rezultatas nustatyti teisės aktuose, įgyvendinančiuose strateginio
+planavimo dokumentus.
 3.
 Valstybės ar savivaldybių turtas negali būti investuojamas įmonei ar
 vertybiniams popieriams įsigyti iš fizinių ir privačiųjų juridinių asmenų, taip
@@ -914,29 +951,6 @@ konkurso būdu;
 6) investicinio fondo valdymo įmonė yra
 privatus juridinis asmuo, kurio vadovai turi Vertybinių popierių komisijos
 patvirtintą investavimo patirtį.
-Pastaba. *Pripažinti, kad Lietuvos Respublikos valstybės
-ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 19
-straipsnis (Žin., 2003, Nr. 57-2534; 2006, Nr.
-87-3397; 2008,
-Nr. 19-673) ta
-apimtimi, kuria nėra nustatyti turto investavimo kriterijai, kurie inter
-alia leistų diferencijuoti valstybės turto investavimą atsižvelgiant į
-investuojamo turto specifiką ir reikšmę bendrai tautos gerovei bei kitas
-konstituciškai reikšmingas aplinkybes, prieštarauja Lietuvos Respublikos
-Konstitucijos 128 straipsnio 2 daliai.
-**Pripažinti,
-kad Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir
-disponavimo juo įstatymo 19 straipsnio 2 dalies (2006 m. liepos 18 d.
-redakcija; Žin., 2006, Nr. 87-3397) nuostata „Sprendimai dėl valstybės
-ir savivaldybės turto investavimo priimami vadovaujantis Vyriausybės
-nustatytais kriterijais ir tvarka“ ta apimtimi, kuria pavedama Lietuvos
-Respublikos Vyriausybei nustatyti valstybės ir savivaldybės turto
-investavimo kriterijus, prieštarauja Lietuvos Respublikos Konstitucijos 5
-straipsnio 2 daliai, konstituciniam teisinės valstybės principui.
-Lietuvos Respublikos Konstitucinis
-Teismas, Nutarimas
-2009-03-02,
-Žin., 2009, Nr. 25-988 (2009-03-05)
 Straipsnio pakeitimai:
 Nr. IX-1586,
 2003-05-27, Žin., 2003, Nr. 57-2534 (2003-06-13)
@@ -945,6 +959,12 @@ X-771,
 2006-07-18, Žin., 2006, Nr. 87-3397 (2006-08-08)
 Nr. X-1440,
 2008-01-29, Žin., 2008, Nr. 19-673 (2008-02-14)
+Lietuvos Respublikos Konstitucinis
+Teismas, Nutarimas
+2009-03-02, Žin., 2009, Nr. 25-988 (2009-03-05)
+Nr.
+XI-374,
+2009-07-21, Žin., 2009, Nr. 93-3967 (2009-08-04)
  
 191 straipsnis. Valstybės ir savivaldybių
 turtinių ir neturtinių juridinio asmens dalyvio teisių atstovavimas
@@ -1015,8 +1035,8 @@ Nematerialusis turtas, ilgalaikis ir trumpalaikis materialusis turtas
 pripažįstamas nereikalingu arba netinkamu (negalimu) naudoti, kai:
 1) jis fiziškai
 nusidėvi;
-2) jis funkciškai
-(technologiškai) nusidėvi;
+2) jis
+funkciškai (technologiškai) nusidėvi;
 3) jis
 Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka pripažįstamas
 avariniu;
@@ -1075,12 +1095,12 @@ punkte nurodytą atvejį, galima šiais būdais:
 11 straipsniuose nustatytais atvejais ir tvarka;
 2) perduodant pagal panaudos sutartį šio
 Įstatymo 13 straipsnyje nustatytais atvejais ir tvarka;
-3) investuojant šio Įstatymo 19
-straipsnyje nustatytais atvejais ir tvarka;
-4) parduodant viešuose prekių aukcionuose
-(išskyrus nekilnojamuosius daiktus bei Lietuvos Respublikos diplomatinių
-atstovybių, konsulinių įstaigų ir atstovybių prie tarptautinių organizacijų
-valdomą turtą) Vyriausybės nustatyta tvarka;
+3) investuojant šio Įstatymo 19 straipsnyje
+nustatytais atvejais ir tvarka;
+4) parduodant viešuose prekių
+aukcionuose (išskyrus nekilnojamuosius daiktus bei Lietuvos Respublikos
+diplomatinių atstovybių, konsulinių įstaigų ir atstovybių prie tarptautinių
+organizacijų valdomą turtą) Vyriausybės nustatyta tvarka;
 5) nekilnojamuosius daiktus parduodant
 pagal Valstybės ir savivaldybių turto privatizavimo įstatymą;
 6) parduodant Lietuvos Respublikos
@@ -1285,8 +1305,8 @@ Nr.
 IX-1586,
 2003-05-27, Žin., 2003, Nr. 57-2534 (2003-06-13)
 VALSTYBĖS
-IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 19
-STRAIPSNIO PAKEITIMO ĮSTATYMAS
+IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 19 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
  
 11.
 Lietuvos
@@ -1363,16 +1383,25 @@ Nr.
 X-1714,
 2008-07-15, Žin., 2008, Nr. 87-3471 (2008-07-31)
 VALSTYBĖS
-IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 16(1)
-STRAIPSNIO PAKEITIMO ĮSTATYMAS
+IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 16(1) STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
  
-19.
+18.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. XI-279,
 2009-06-02, Žin., 2009, Nr. 71-2891 (2009-06-16)
 VALSTYBĖS
 IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 17, 23
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
+19.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-374,
+2009-07-21, Žin., 2009, Nr. 93-3967 (2009-08-04)
+VALSTYBĖS
+IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 17, 19
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 *** Pabaiga ***
@@ -1395,6 +1424,6 @@ Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2009-06-16)
+Aušra Bodin (2009-08-04)
                  
-autrap@lrs.lt
+aubodi@lrs.lt
