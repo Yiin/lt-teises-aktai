@@ -145,7 +145,7 @@ pagrindinės nuostatos
 1. Sprendimą dėl Vyriausybės grynojo skolinimosi limito Vyriausybės
 siūlymu priima Lietuvos Respublikos Seimas (toliau – Seimas), tvirtindamas
 atitinkamų metų valstybės biudžetą.
-2. Vyriausybės vertybinius popierius
+*2. Vyriausybės vertybinius popierius
 leidžia, paskolas valstybės vardu ima, valstybės garantijas teikia ir
 įsipareigojimus pagal kitus įsipareigojamuosius skolos dokumentus prisiima
 Vyriausybė, laikydamasi įstatymuose nustatytų limitų, šio
@@ -293,6 +293,14 @@ X-1217,
 Nr.
 X-1825,
 2008-11-14, Žin., 2008, Nr. 137-5374 (2008-11-29)
+Nr.
+XI-393,
+2009-07-22, Žin., 2009, Nr. 93-3985 (2009-08-04)(įstatymo 3 straipsnio 2
+dalies taikymas)
+*Pastaba: Jeigu pagal šį įstatymą
+skolinamasi ir (arba) teikiamos valstybės garantijos, Valstybės skolos įstatymo
+3 straipsnio 2 dalies, 5 straipsnio 1 ir 2 dalių, 6 straipsnio 1 ir 2
+dalių nuostatos netaikomos.
  
 4 straipsnis. Vyriausybės skolinimosi
 valstybės vardu ir valstybės garantijų suteikimo tikslai
@@ -303,30 +311,41 @@ biudžeto deficitui finansuoti bei valstybės piniginių išteklių srautams
 subalansuoti;
 2) valstybės
 investicijoms finansuoti;
-3) valstybės
-skolai dengti;
+3) valstybės skolai
+dengti;
 4) valstybės
 socialinės apsaugos fondų skoliniams įsipareigojimams dengti bei šių fondų
 pinigų srautams subalansuoti;
 5) kitiems
 tikslams, kai dėl to yra priimtas atskiras įstatymas.
 2. Vyriausybė
-valstybės vardu gali teikti valstybės garantijas dėl paskolų, naudojamų
-valstybės investicijoms finansuoti.
+valstybės vardu gali teikti valstybės garantijas dėl paskolų:
+1) naudojamų
+valstybės investicijoms finansuoti;
+2) naudojamų
+Lietuvos Respublikos finansinio tvarumo įstatyme numatytiems tikslams
+įgyvendinti;
+3) teikiamų
+studentams pagal Lietuvos Respublikos mokslo ir studijų įstatymą. Šiame punkte
+nurodytiems asmenims šio įstatymo 9 straipsnio nuostatos netaikomos.
+Straipsnio pakeitimai:
+Nr.
+XI-344,
+2009-07-15, Žin., 2009, Nr. 93-3960 (2009-08-04)
  
 5
 straipsnis. Skolinimasis valstybės vardu 
-1. Sprendimą skolintis valstybės vardu
-didesnę kaip 40 mln. litų sumą neviršijant įstatymų nustatytų limitų
+*1. Sprendimą skolintis valstybės
+vardu didesnę kaip 40 mln. litų sumą neviršijant įstatymų nustatytų limitų
 Vyriausybės siūlymu priima Seimas atskiru įstatymu. 
-2. Sprendimą skolintis
-valstybės vardu ne didesnę kaip 40 mln. litų sumą neviršijant
-Lietuvos Respublikos įstatymų nustatytų limitų priima Vyriausybė arba jos
-įgaliota institucija.
+*2. Sprendimą skolintis
+valstybės vardu ne didesnę kaip 40 mln. litų sumą neviršijant Lietuvos
+Respublikos įstatymų nustatytų limitų priima Vyriausybė arba jos įgaliota
+institucija.
 3. Sprendimą
 skolintis valstybės vardu neviršijant įstatymu nustatyto Vyriausybės grynojo
-skolinimosi limito, neatsižvelgdama į skolinimosi sumos dydį, priima
-Vyriausybei atstovaujanti Finansų ministerija, kai skolinamasi:
+skolinimosi limito, neatsižvelgdama į skolinimosi sumos dydį, priima Vyriausybei
+atstovaujanti Finansų ministerija, kai skolinamasi:
 1) valstybės
 biudžeto deficitui finansuoti ir valstybės piniginių išteklių srautams
 subalansuoti;
@@ -359,16 +378,24 @@ ministerija teisės aktų nustatyta tvarka turi teisę pasirinkti fiskalinį age
 Vyriausybės vertybinių popierių išleidimo į apyvartą operacijoms atlikti.
 Finansų ministerijai sutikus, fiskalinis agentas gali nustatyti šių operacijų
 vykdymo tvarką.
+Straipsnio pakeitimai:
+Nr.
+XI-393, 2009-07-22,
+Žin., 2009, Nr. 93-3985 (2009-08-04)(įstatymo 5 straipsnio 1 ir 2 dalių taikymas)
+*Pastaba: Jeigu pagal šį įstatymą
+skolinamasi ir (arba) teikiamos valstybės garantijos, Valstybės skolos įstatymo
+3 straipsnio 2 dalies, 5 straipsnio 1 ir 2 dalių, 6 straipsnio 1 ir 2
+dalių nuostatos netaikomos.
  
 6
 straipsnis. Paskola su valstybės garantija
-1. Sprendimą
+*1. Sprendimą
 suteikti valstybės garantiją dėl didesnės kaip 40 mln. litų paskolos
 Vyriausybės siūlymu priima Seimas. 
-2. Sprendimą suteikti valstybės garantiją dėl ne didesnės kaip 40 mln.
+*2. Sprendimą suteikti valstybės garantiją dėl ne didesnės kaip 40 mln.
 litų paskolos priima Vyriausybė, vadovaudamasi atitinkamų metų Lietuvos
-Respublikos valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
-patvirtinimo įstatymu arba kitais įstatymais.
+Respublikos valstybės biudžeto ir savivaldybių biudžetų finansinių
+rodiklių patvirtinimo įstatymu arba kitais įstatymais.
 3. Valstybės
 garantiją pasirašo finansų ministras, o kreditoriaus pageidavimu teikiamą
 teisinę išvadą dėl suteiktos garantijos pasirašo teisingumo ministras arba jo
@@ -385,6 +412,15 @@ arba likviduotas, kai su šiuo skolininku yra sudaroma Lietuvos Respublikos
 sutartis, ir kitais atvejais, kai valstybė už skolininką, už kurio
 įsipareigojimų įvykdymą ji garantuoja, nuolat (sistemingai) vykdo savo
 įsipareigojimus pagal garantiją. 
+Straipsnio pakeitimai:
+Nr.
+XI-393,
+2009-07-22, Žin., 2009, Nr. 93-3985 (2009-08-04)(įstatymo 6 straipsnio 1 ir
+2 dalių taikymas)
+*Pastaba: Jeigu pagal šį įstatymą
+skolinamasi ir (arba) teikiamos valstybės garantijos, Valstybės skolos įstatymo
+3 straipsnio 2 dalies, 5 straipsnio 1 ir 2 dalių, 6 straipsnio 1 ir 2
+dalių nuostatos netaikomos.
  
 7
 straipsnis. Valstybinė paskolų komisija
@@ -430,10 +466,10 @@ garantijų sąlygų nevykdantiems skolininkams.
 institucijos veiklos priežiūrą atlieka ir šios institucijos atskaitomybę
 nustato Vyriausybės įgaliota institucija.
  
-6 dalies redakcija
-iki tų metų, kurių
-ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
-sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
+6 dalies
+redakcija iki tų metų,
+kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal
+Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
 6. Garantijų
 institucija ne vėliau kaip per 4 mėnesius nuo finansinių metų pabaigos privalo
 pateikti Vyriausybei metinę finansinę atskaitomybę kartu su audito išvada.
@@ -453,8 +489,8 @@ Nr.
 X-1217,
 2007-06-26, Žin., 2007, Nr. 77-3049 (2007-07-12)
 Nr.
-X-1825, 2008-11-14,
-Žin., 2008, Nr. 137-5374 (2008-11-29)
+X-1825,
+2008-11-14, Žin., 2008, Nr. 137-5374 (2008-11-29)
  
 9 straipsnis.
 Skolininkų ir skolininkų, už kurių įsipareigojimų įvykdymą garantuoja valstybė,
@@ -528,13 +564,13 @@ dėl skolos išieškojimo iš skolininko arba skolininko, už kurio įsipareigoj
 kodekso nustatyta tvarka.
 3. Kai akcinė bendrovė Turto bankas
 administruoja Finansų ministerijos perduotas paskolas, valstybės garantijas ir
-kitus turtinius įsipareigojimus, ji turi teisę perimti savo nuosavybėn
-skolininko arba skolininko, už kurio įsipareigojimų įvykdymą garantuoja
-valstybė, arba trečiųjų asmenų turtą, jeigu nepavyko jo realizuoti Civilinio
-proceso kodekso ir (ar) Įmonių bankroto įstatymo nustatyta tvarka, ir jį
-realizuoti, kad būtų įvykdyti visi skolininkų turtiniai įsipareigojimai, taip
-pat atlygintos valstybės patirtos išlaidos, susijusios su reikalavimo įvykdyti
-prievolę pareiškimu. 
+kitus turtinius įsipareigojimus, ji turi teisę perimti savo nuosavybėn skolininko
+arba skolininko, už kurio įsipareigojimų įvykdymą garantuoja valstybė, arba
+trečiųjų asmenų turtą, jeigu nepavyko jo realizuoti Civilinio proceso kodekso
+ir (ar) Įmonių bankroto įstatymo nustatyta tvarka, ir jį realizuoti, kad būtų
+įvykdyti visi skolininkų turtiniai įsipareigojimai, taip pat atlygintos
+valstybės patirtos išlaidos, susijusios su reikalavimo įvykdyti prievolę
+pareiškimu. 
 4. Jeigu skolininkas arba skolininkas,
 už kurio įsipareigojimų įvykdymą garantuoja valstybė, laiku nevykdo turtinių
 įsipareigojimų pagal sutartis arba jei prievolės įvykdymo užtikrinimo priemonė
@@ -584,9 +620,9 @@ beviltiška pripažįstama likusi negauta paskolos arba skolos dalis;
 4) praėjus
 daugiau kaip vieniems metams nuo tos dienos, kurią buvo pradėti išieškojimo
 veiksmai, nerasta skolininko arba skolininko, už kurio įsipareigojimų įvykdymą
-garantuoja valstybė, turto arba rastas turtas yra nelikvidus (neįmanoma jo
-realizuoti), arba jei rasto turto pakanka tik daliai skolos padengti,
-beviltiška pripažįstama likusi skolos dalis;
+garantuoja valstybė, turto arba rastas turtas yra nelikvidus (neįmanoma jo realizuoti),
+arba jei rasto turto pakanka tik daliai skolos padengti, beviltiška
+pripažįstama likusi skolos dalis;
 5) skolininko
 arba skolininko, už kurio įsipareigojimų įvykdymą garantuoja valstybė – fizinio
 asmens, taip pat ūkininko, individualios įmonės savininko arba ūkinės bendrijos
@@ -628,10 +664,10 @@ pasiskolintų lėšų ir suteiktų valstybės garantijų ataskaitas ir kartu su 
 dėl metinės valstybės biudžeto įvykdymo apyskaitos teikia Seimui išvadą dėl
 valstybės skolos bei suteiktų paskolų iš valstybės vardu pasiskolintų lėšų ir
 suteiktų valstybės garantijų.
-12 straipsnio
-redakcija nuo tų metų,
-kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal
-Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
+12 straipsnio redakcija
+nuo tų metų, kurių
+ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
+sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
 12 straipsnis. Atskaitomybė
 1. Vyriausybė,
 pasibaigus biudžetiniams metams, kartu su metiniu valstybės biudžeto vykdymo
@@ -677,8 +713,8 @@ STRAIPSNIO PAKEITIMO IR PAPILDYMO 7(1) STRAIPSNIU ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-VIII-501, 97.11.11,
-Žin., 1997, Nr.107-2689 (97.11.26)
+VIII-501,
+97.11.11, Žin., 1997, Nr.107-2689 (97.11.26)
 LIETUVOS
 RESPUBLIKOS VALSTYBĖS SKOLOS ĮSTATYMO 2, 3, 7(1), 9, 10 STRAIPSNIŲ PAKEITIMO IR
 PAPILDYMO ĮSTATYMAS
@@ -727,8 +763,8 @@ VALSTYBĖS SKOLOS ĮSTATYMO PAKEITIMO IR PAPILDYMO
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1917,
-2003-12-18, Žin., 2004, Nr. 4-31 (2004-01-07)
+IX-1917, 2003-12-18,
+Žin., 2004, Nr. 4-31 (2004-01-07)
 VALSTYBĖS
 SKOLOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja
@@ -763,11 +799,35 @@ Nr. X-1825,
 VALSTYBĖS SKOLOS ĮSTATYMO
 3, 8, 12 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+11.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-344,
+2009-07-15, Žin., 2009, Nr. 93-3960 (2009-08-04)
+VALSTYBĖS
+SKOLOS ĮSTATYMO 4, 7 IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+ 
+12.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-393,
+2009-07-22, Žin., 2009, Nr. 93-3985 (2009-08-04)
+FINANSINIO
+TVARUMO ĮSTATYMAS
+Įstatymo
+taikymo nusakymas.
+Jeigu pagal šį įstatymą
+skolinamasi ir (arba) teikiamos valstybės garantijos, Valstybės skolos įstatymo
+3 straipsnio 2 dalies, 5 straipsnio 1 ir 2 dalių, 6 straipsnio 1 ir 2 dalių
+nuostatos netaikomos.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2008-12-02)
+Aušra Bodin (2009-08-05)
                  
-autrap@lrs.lt
+aubodi@lrs.lt
