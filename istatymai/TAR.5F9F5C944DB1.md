@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5F9F5C944DB1"
 
 # Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymas
 
-Suvestinė redakcija nuo 2004-08-07 iki 2009-09-30
+Suvestinė redakcija nuo 2009-10-01 iki 2010-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 102-2921, i. k. 0991010ISTAIII-1422
  
@@ -29,13 +29,23 @@ Vilnius
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas nustato žemės ūkio produkcijos pi
-pirkimo–pardavimo sutarties tipines sąlygas, atsiskaitymo už šią produkciją sąlygas ir tvarką.
+1. Šis įstatymas nustato žemės ūkio produkcijos pirkimo–pardavimo sutarties tipines sąlygas, atsiskaitymo už šią produkciją sąlygas ir tvarką, taip pat lėšų už patiektą žemės ūkio produkciją, nurodytą šiame įstatyme, nurašymo eiliškumą, kai žemės ūkio produkcijos pirkėjas visiems pareikštiems reikalavimams patenkinti vienu metu neturi pakankamai lėšų sąskaitoje. 
+Straipsnio dalies pakeitimai:
+Nr. XI-291, 2009-06-16, Žin., 2009, Nr. 77-3159 (2009-06-30), i. k. 1091010ISTA00XI-291
+ 
 
 
 
 
 2. Šio įstatymo nuostatos, reglamentuojančios atsiskaitymą už žemės ūkio produkciją, taikomos ūkio subjektams, išskyrus atvejus, kai kooperatinė bendrovė (kooperatyvas) perka iš savo narių jų pagamintą žemės ūkio produkciją.
+
+
+
+
+3. Šio įstatymo nuostatos, reglamentuojančios lėšų nurašymo eiliškumą, netaikomos vykdymo proceso ir Įmonių bankroto įstatymo nustatytais atvejais.
+Papildyta straipsnio dalimi:
+Nr. XI-291, 2009-06-16, Žin., 2009, Nr. 77-3159 (2009-06-30), i. k. 1091010ISTA00XI-291
+ 
 
 
 Straipsnio pakeitimai:
@@ -48,12 +58,12 @@ Nr. IX-486, 2001-08-02, Žin., 2001, Nr. 71-2516 (2001-08-17); Žin., 2001, Nr. 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Atsiskaitymas – grynųjų pinigų mokėjimo arba lėšų pervedimo per banką ar kitą kredito įstaigą (toliau – bankas) veiksmas, kurio metu pirkėjas visiškai įvykdo įsipareigojimą apmokėti pardavėjui priklausančią mokėti pinigų sumą.
+1. Atsiskaitymas – grynųjų pinigų mokėjimas arba lėšų pervedimas per komercinį banką ar kitą kredito įstaigą (toliau – bankas), kai pirkėjas visiškai įvykdo įsipareigojimą sumokėti pardavėjui mokėtiną pinigų sumą.
 
 
 
 
-2. Komercinio kredito palūkanų norma – Lietuvos banko kas ketvirtį skelbiama vidutinė per ketvirtį bankų rezidentams suteiktų trumpalaikių paskolų litais metų palūkanų norma.
+2. Komercinio kredito palūkanų norma – trijų paskutinių mėnesių paskolų palūkanų normų svertinis aritmetinis vidurkis, apskaičiuotas pagal Lietuvos banko kas mėnesį skelbiamas namų ūkiams suteiktas naujas paskolas kitiems tikslams (iki vienų metų trukmės, fiksuojant pradinę normą) litais ir šių paskolų palūkanų normas procentais.
 
 
 
@@ -63,51 +73,67 @@ Nr. IX-486, 2001-08-02, Žin., 2001, Nr. 71-2516 (2001-08-17); Žin., 2001, Nr. 
 
 
 
-4. Pavėluotas mokėjimas – mokėjimas vėliau, negu įstatymuose ar sutartyje nustatyta mokėti. 
+4. Mokėjimas už žemės ūkio produkciją (toliau – mokėjimas) – žemės ūkio produkcijos pirkėjo lėšų perdavimas žemės ūkio produkcijos pardavėjui tiesiogiai grynaisiais pinigais arba negrynųjų pinigų pervedimas per banką.
 
 
 
 
-5. Pavėluoto mokėjimo palūkanų norma – vieno mėnesio VILIBOR (vidutinės tarpbankinės palūkanų normos, kuriomis bankai pageidauja (yra pasirengę) paskolinti lėšų litais kitiems bankams) palūkanų norma, padidinta 7 procentiniais punktais.
+5. Mokėtina pinigų suma – už patiektą žemės ūkio produkciją apskaičiuota pinigų suma pridėjus komercinio kredito palūkanas ir pavėluoto mokėjimo palūkanas.
 
 
 
 
-6. Priklausanti mokėti pinigų suma – už patiektą žemės ūkio produkciją apskaičiuota pinigų suma, pagal teisės aktų reikalavimus pridėjus komercinio kredito palūkanas ir pavėluoto mokėjimo palūkanas.
+6. Paskolų palūkanų normų svertinis aritmetinis vidurkis – atskirais mėnesiais suteiktų paskolų litais ir palūkanų normų procentais sandaugų bendros sumos ir tais pačiais mėnesiais suteiktų paskolų litais bendros sumos santykis.
 
 
 
 
-7. Reguliariai parduodamos žemės ūkio produkcijos tiekimo laikotarpis – teisės aktais arba pirkimo–pardavimo sutartimi nustatytas laikotarpis (savaitės, vieno ar dviejų dešimtadienių, pirmosios ir antrosios mėnesio pusės ar mėnesio), už kurio metu patiektą produkciją apskaičiuojama pinigų suma.
+7. Pavėluotas mokėjimas – mokėjimas vėliau, negu įstatymuose ar sutartyje nustatyta mokėti.
 
 
 
 
-8. Už patiektą žemės ūkio produkciją apskaičiuota pinigų suma – pinigų suma, apskaičiuota pagal sutartą kainą, atsižvelgiant į patiektos produkcijos kokybę, atsiskaitymo terminą, priemoką už pagrindinius kokybės reikalavimus viršijančią produkciją bei nuoskaitą už produkcijos kokybės pagerinimą iki atitikties nustatytiems kokybės reikalavimams ir kitas sutartyje numatytas sąlygas.
+8. Pavėluoto mokėjimo palūkanų norma – vieno mėnesio VILIBOR (vidutinės tarpbankinės palūkanų normos, kuriomis bankai pageidauja (yra pasirengę) paskolinti lėšų litais kitiems bankams) palūkanų norma, padidinta 7 procentiniais punktais.
 
 
 
 
-9. Žemės ūkio produkcija – žemės ūkio produktai, taip pat perdirbamosios pramonės ir kitose įmonėse perdirbti žemės ūkio produktai ir iš jų pagaminti maisto produktai, kombinuotieji pašarai, linų pluoštas ir kiti tam tikru būdu apdoroti žemės ūkio produktai.
+9. Reguliariai parduodamos žemės ūkio produkcijos tiekimo laikotarpis – teisės aktais arba pirkimo–pardavimo sutartimi nustatytas reguliarus laikotarpis (savaitės, vieno ar dviejų dešimtadienių, pirmosios ir antrosios mėnesio pusės ar mėnesio), kurį už patiektą produkciją apskaičiuojama pinigų suma.
 
 
 
 
-10. Žemės ūkio produkcijos įkainojimo trukmė – laikotarpis, per kurį nustatoma žemės ūkio produkcijos kokybė ir apskaičiuojama priklausanti mokėti pinigų suma.
+10. Už patiektą žemės ūkio produkciją apskaičiuota pinigų suma – pinigų suma, apskaičiuota pagal sutartą kainą, atsižvelgiant į patiektos produkcijos kokybę, atsiskaitymo terminą, priemoką už pagrindinius kokybės reikalavimus viršijančią produkciją ir nuoskaitą už produkcijos kokybės pagerinimą iki atitikties nustatytiems kokybės reikalavimams ir kitas sutartyje numatytas sąlygas.
 
 
 
 
-11. Žemės ūkio produkcijos pardavėjai – ūkio subjektai, parduodantys žemės ūkio produktus, iš jų pagamintus maisto produktus, apdorotą ar perdirbtą kitą žemės ūkio produkciją.
+11. Žemės ūkio produkcija – žemės ūkio produktai, taip pat perdirbamosios pramonės ir kitose įmonėse perdirbti žemės ūkio produktai ir iš jų pagaminti maisto produktai, kombinuotieji pašarai, linų pluoštas ir kiti tam tikru būdu apdirbti žemės ūkio produktai.
 
 
 
 
-12. Žemės ūkio produkcijos pirkėjai – ūkio subjektai, tarp jų prekybos ir perdirbamosios pramonės įmonės, perkantys žemės ūkio produkciją perdirbti, apdoroti ar parduoti.
+12. Žemės ūkio produkcijos įkainojimo trukmė – laikotarpis, per kurį nustatoma žemės ūkio produkcijos kokybė ir apskaičiuojama pinigų suma.
+
+
+
+
+13. Žemės ūkio produkcijos pardavėjas – ūkio subjektas, parduodantis žemės ūkio produktus, iš jų pagamintus maisto produktus, apdirbtą ar perdirbtą kitą žemės ūkio produkciją.
+
+
+
+
+14. Žemės ūkio produkcijos pardavėjo pareikštas reikalavimas (toliau – pareikštas reikalavimas) – žemės ūkio produkcijos pardavėjo pagal žemės ūkio produkcijos pirkimo–pardavimo sutartį, į kurią įtrauktos tipinės sutarties sąlygos, iškeltas reikalavimas, dėl kurio atsiranda žemės ūkio produkcijos pirkėjo prievolė sumokėti žemės ūkio produkcijos pardavėjui mokėtiną pinigų sumą už žemės ūkio produkciją pagal bankui pateiktus mokėjimo dokumentus.
+
+
+
+
+15. Žemės ūkio produkcijos pirkėjas – prekybos ir perdirbamosios pramonės įmonė ar kitas ūkio subjektas, perkantis žemės ūkio produkciją apdirbti, perdirbti, naudoti savo ūkyje ar parduoti.
 
 
 Straipsnio pakeitimai:
 Nr. IX-2394, 2004-07-15, Žin., 2004, Nr. 124-4489 (2004-08-07), i. k. 1041010ISTA0IX-2394
+Nr. XI-291, 2009-06-16, Žin., 2009, Nr. 77-3159 (2009-06-30), i. k. 1091010ISTA00XI-291
  
 
 
@@ -183,7 +209,10 @@ Nr. IX-2394, 2004-07-15, Žin., 2004, Nr. 124-4489 (2004-08-07), i. k. 1041010IS
 
 
 
-3. Atsiskaitymo už žemės ūkio produkciją ir jos įkainojimo trukmė negali būti ilgesnė negu nustatyta Vyriausybės.
+3. Atsiskaitymo už žemės ūkio produkciją terminas, įskaitant į jį ir šios produkcijos įkainojimo trukmę, negali būti ilgesnis, negu nustatyta Vyriausybės. Atsiskaitymo už žemės ūkio produkciją, kuriai Vyriausybė nenustato atsiskaitymo terminų, terminai nustatomi šalių susitarimu žemės ūkio produkcijos pirkimo–pardavimo sutartyse. 
+Straipsnio dalies pakeitimai:
+Nr. XI-291, 2009-06-16, Žin., 2009, Nr. 77-3159 (2009-06-30), i. k. 1091010ISTA00XI-291
+ 
 
 
 
@@ -193,26 +222,29 @@ Nr. IX-2394, 2004-07-15, Žin., 2004, Nr. 124-4489 (2004-08-07), i. k. 1041010IS
 
 
 
-5. Jeigu žemės ūkio produkcijos pirkėjas neatsiskaito su jos pardavėju per 30 dienų po produkcijos gavimo bei įkainojimo, jis iki atsiskaitymo dienos, bet ne ilgiau kaip iki sutartyje numatyto atsiskaitymo termino pabaigos, moka pardavėjui komercinio kredito palūkanas. Komercinio kredito palūkanų dydis apskaičiuojamas taikant šio įstatymo 2 straipsnio 2 dalyje nurodytą palūkanų normą, galiojusią tą metų ketvirtį, per kurį žemės ūkio produkcijos pirkėjas privalo jas mokėti. Kiekvienam metų ketvirčiui galioja paskutinė paskelbta palūkanų norma, tai yra praėjusio ketvirčio palūkanų norma. 
+5. Jeigu žemės ūkio produkcijos pirkėjas neatsiskaito su jos pardavėju per 30 dienų po produkcijos gavimo, įskaitant į šį terminą ir šios produkcijos įkainojimo trukmę, jis iki atsiskaitymo dienos, bet ne ilgiau kaip iki sutartyje numatyto atsiskaitymo termino pabaigos, moka pardavėjui komercinio kredito palūkanas. Komercinio kredito palūkanų dydis apskaičiuojamas taikant šio įstatymo 2 straipsnio 2 dalyje nurodytą namų ūkiams suteiktų naujų paskolų kitiems tikslams (iki vienų metų trukmės, fiksuojant pradinę normą) litais palūkanų normų svertinį aritmetinį vidurkį, apskaičiuotą pagal tris paskutinius mėnesius, už kuriuos yra paskelbtos šios palūkanų normos ir kuriems pasibaigus žemės ūkio produkcijos pirkėjas privalo komercinio kredito palūkanas mokėti pardavėjui. 
 Straipsnio dalies pakeitimai:
 Nr. IX-2394, 2004-07-15, Žin., 2004, Nr. 124-4489 (2004-08-07), i. k. 1041010ISTA0IX-2394
+Nr. XI-291, 2009-06-16, Žin., 2009, Nr. 77-3159 (2009-06-30), i. k. 1091010ISTA00XI-291
  
 
 
 
 
-6. Jeigu iki sutartyje numatyto termino pabaigos neatsiskaitoma, žemės ūkio produkcijos pirkėjas už laikotarpį nuo kitos dienos po šio termino pabaigos iki atsiskaitymo dienos moka jos pardavėjui sutartyje numatyto dydžio pavėluoto mokėjimo palūkanas už kiekvieną pradelstą dieną. Palūkanų, kurias pirkėjas privalo sumokėti pardavėjui už pavėlavimą, dydis apskaičiuojamas taikant šio įstatymo 2 straipsnio 5 dalyje nurodytą palūkanų normą, galiojusią tą metų pusmetį, kurį pirkėjui atsirado pareiga mokėti pavėluoto mokėjimo palūkanas. Pirmąjį metų pusmetį galioja paskutinė pavėluoto mokėjimo palūkanų norma, paskelbta prieš pirmojo metų pusmečio pirmąją kalendorinę dieną, antrąjį metų pusmetį galioja paskutinė pavėluoto mokėjimo palūkanų norma, paskelbta prieš antrojo metų pusmečio pirmąją kalendorinę dieną. Pavėluoto mokėjimo palūkanų norma privalo būti įrašyta mokėjimo nurodyme arba grynųjų pinigų mokėjimui įforminti skirtuose dokumentuose. 
+6. Jeigu iki sutartyje numatyto termino pabaigos neatsiskaitoma, žemės ūkio produkcijos pirkėjas už laikotarpį nuo kitos dienos po šio termino pabaigos iki atsiskaitymo dienos moka jos pardavėjui sutartyje numatyto dydžio pavėluoto mokėjimo palūkanas už kiekvieną pradelstą dieną. Palūkanų, kurias pirkėjas privalo sumokėti pardavėjui už pavėlavimą, dydis apskaičiuojamas taikant šio įstatymo 2 straipsnio 8 dalyje nurodytą palūkanų normą, galiojusią tą metų pusmetį, kurį pirkėjui atsirado pareiga mokėti pavėluoto mokėjimo palūkanas. Pirmąjį metų pusmetį galioja paskutinė pavėluoto mokėjimo palūkanų norma, paskelbta prieš pirmojo metų pusmečio pirmąją kalendorinę dieną, antrąjį metų pusmetį galioja paskutinė pavėluoto mokėjimo palūkanų norma, paskelbta prieš antrojo metų pusmečio pirmąją kalendorinę dieną. Pavėluoto mokėjimo palūkanų norma privalo būti įrašyta mokėjimo nurodyme arba grynųjų pinigų mokėjimui įforminti skirtuose dokumentuose. 
 Straipsnio dalies pakeitimai:
 Nr. IX-2394, 2004-07-15, Žin., 2004, Nr. 124-4489 (2004-08-07), i. k. 1041010ISTA0IX-2394
+Nr. XI-291, 2009-06-16, Žin., 2009, Nr. 77-3159 (2009-06-30), i. k. 1091010ISTA00XI-291
  
 
 
 
 
-7. Jeigu už patiektą žemės ūkio produkciją pirkėjas negali atsiskaityti pirkimo – pardavimo sutartyje numatytu būdu per 30 dienų po produkcijos gavimo bei įkainojimo, gavęs raštišką prašymą jis privalo ne ilgesniam kaip 6 mėnesių laikotarpiui išduoti priklausančios mokėti pinigų sumos arba pardavėjo pageidaujamos šios sumos dalies banko akceptuotą ar laiduotą vekselį arba atsiskaitymą užtikrinti laidavimu, garantija ar įkeitimu (hipoteka), jei žemės ūkio produkcijos pardavėjo reikalavimai vienu iš šių būdų nebuvo užtikrinti anksčiau. Skolinio įsipareigojimo užtikrinimo priemonę pasirenka pirkėjas, jei ko kita nenumatyta žemės ūkio produkcijos pirkimo–pardavimo sutartyje. Palūkanos už vekselio sumą skaičiuojamos Įsakomųjų ir paprastųjų vekselių įstatymo nustatyta tvarka. 
+7. Jeigu už patiektą žemės ūkio produkciją pirkėjas negali atsiskaityti pirkimo–pardavimo sutartyje numatytu būdu per 30 dienų po produkcijos gavimo, įskaitant į šį terminą ir šios produkcijos įkainojimo trukmę, gavęs rašytinį prašymą jis privalo ne ilgesniam kaip 6 mėnesių laikotarpiui išduoti mokėtinos pinigų sumos arba pardavėjo pageidaujamos šios sumos dalies banko akceptuotą ar laiduotą vekselį arba atsiskaitymą užtikrinti laidavimu, garantija ar įkeitimu (hipoteka), jeigu žemės ūkio produkcijos pardavėjo reikalavimai vienu iš šių būdų nebuvo užtikrinti anksčiau. Skolinio įsipareigojimo užtikrinimo priemonę pasirenka pirkėjas, jeigu kitaip nenumatyta žemės ūkio produkcijos pirkimo–pardavimo sutartyje. Palūkanos už vekselio sumą skaičiuojamos Įsakomųjų ir paprastųjų vekselių įstatymo nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. IX-486, 2001-08-02, Žin., 2001, Nr. 71-2516 (2001-08-17); Žin., 2001, Nr. 72-0 (2001-08-22), i. k. 1011010ISTA00IX-486
 Nr. IX-2394, 2004-07-15, Žin., 2004, Nr. 124-4489 (2004-08-07), i. k. 1041010ISTA0IX-2394
+Nr. XI-291, 2009-06-16, Žin., 2009, Nr. 77-3159 (2009-06-30), i. k. 1091010ISTA00XI-291
  
 
 
@@ -246,7 +278,10 @@ Nr. IX-2394, 2004-07-15, Žin., 2004, Nr. 124-4489 (2004-08-07), i. k. 1041010IS
 
 
 
-4. Žemės ūkio produkcijos pardavėjų pateiktus mokėjimo nurodymus įvykdyti debeto pervedimus bankai priima, nors mokėtojų sąskaitose ir nėra pakankamai lėšų. 
+4. Žemės ūkio produkcijos pardavėjų pateiktus mokėjimo nurodymus įvykdyti debeto pervedimus bankai priima, nors žemės ūkio produkcijos pirkėjų sąskaitose ir nėra pakankamai lėšų.
+Straipsnio dalies pakeitimai:
+Nr. XI-291, 2009-06-16, Žin., 2009, Nr. 77-3159 (2009-06-30), i. k. 1091010ISTA00XI-291
+ 
 
 
 
@@ -264,7 +299,10 @@ Nr. IX-2394, 2004-07-15, Žin., 2004, Nr. 124-4489 (2004-08-07), i. k. 1041010IS
 7 straipsnis. Palūkanų apskaičiavimo ir mokėjimo tvarka
 
 
-1. Komercinio kredito palūkanos skaičiuojamos nuo visos už patiektą žemės ūkio produkciją apskaičiuotos mokėti pinigų sumos, jeigu per 30 dienų po produkcijos gavimo bei įkainojimo nebuvo už ją apmokėta, o pavėluoto mokėjimo palūkanos – nuo neapmokėtos pardavėjui pinigų sumos po įstatymuose ar sutartyje nustatyto mokėjimo termino pabaigos. Atsiskaitant dalimis, komercinio kredito palūkanos ir pavėluoto mokėjimo palūkanos apskaičiuojamos nuo neapmokėtos pinigų sumos teisės aktų nustatyta tvarka ir į mokėjimo bei grynųjų pinigų mokėjimui įforminti skirtus dokumentus įrašomos atskirai. Šiuose dokumentuose taip pat pažymima, kad atsiskaitoma dalimis.
+1. Komercinio kredito palūkanos skaičiuojamos nuo visos už patiektą žemės ūkio produkciją apskaičiuotos pinigų sumos, jeigu per 30 dienų po produkcijos gavimo, įskaitant į šį terminą ir šios produkcijos įkainojimo trukmę, nebuvo už ją apmokėta, o pavėluoto mokėjimo palūkanos – nuo neapmokėtos pardavėjui pinigų sumos po įstatymuose ar sutartyje nustatyto mokėjimo termino pabaigos. Atsiskaitant dalimis, komercinio kredito palūkanos ir pavėluoto mokėjimo palūkanos apskaičiuojamos nuo neapmokėtos pinigų sumos teisės aktų nustatyta tvarka ir į mokėjimo bei grynųjų pinigų mokėjimui įforminti skirtus dokumentus įrašomos atskirai. Šiuose dokumentuose taip pat pažymima, kad atsiskaitoma dalimis. 
+Straipsnio dalies pakeitimai:
+Nr. XI-291, 2009-06-16, Žin., 2009, Nr. 77-3159 (2009-06-30), i. k. 1091010ISTA00XI-291
+ 
 
 
 
@@ -274,12 +312,28 @@ Nr. IX-2394, 2004-07-15, Žin., 2004, Nr. 124-4489 (2004-08-07), i. k. 1041010IS
 
 
 
-3. Kai atsiskaitymo už žemės ūkio produkciją laikotarpis ilgesnis kaip mėnuo, komercinio kredito palūkanas žemės ūkio produkcijos pirkėjas apskaičiuoja kiekvienam mėnesio laikotarpiui po žemės ūkio produkcijos gavimo bei įkainojimo dienos atskirai ir mokėjimo nurodymą įvykdyti kredito pervedimą bankui pateikia ne vėliau kaip iki tarpusavio sutartyje numatyto laikotarpio pabaigos.
+3. Kai atsiskaitymo už žemės ūkio produkciją laikotarpis ilgesnis kaip mėnuo, komercinio kredito palūkanas žemės ūkio produkcijos pirkėjas apskaičiuoja kiekvienam mėnesio laikotarpiui po žemės ūkio produkcijos gavimo, įskaitant į šį terminą ir šios produkcijos įkainojimo trukmę, dienos atskirai ir mokėjimo nurodymą įvykdyti kredito pervedimą bankui pateikia ne vėliau kaip iki tarpusavio sutartyje numatyto laikotarpio pabaigos.
+Straipsnio dalies pakeitimai:
+Nr. XI-291, 2009-06-16, Žin., 2009, Nr. 77-3159 (2009-06-30), i. k. 1091010ISTA00XI-291
+ 
 
 
 
 
 4. Atsiskaitant grynaisiais pinigais, komercinio kredito palūkanas ir pavėluoto mokėjimo palūkanas apskaičiuoja žemės ūkio produkcijos pirkėjas, o jų suma privalo būti įrašyta grynųjų pinigų mokėjimui įforminti skirtame dokumente.
+
+
+
+
+71 straipsnis. Lėšų nurašymo eiliškumas
+
+
+Jeigu visiems pareikštiems reikalavimams patenkinti vienu metu nepakanka lėšų sąskaitoje, žemės ūkio produkcijos pirkėjas privalo nurodyti bankui už patiektą žemės ūkio produkciją mokėtinas pinigų sumas nurašyti iš jo sąskaitos pagal bankui pateiktus mokėjimo dokumentus dėl apmokėjimo už žemės ūkio produkciją ta pačia eile kaip ir Civilinio kodekso 6.923 straipsnio 2 dalies 3 punkte nurodytos nurašyti lėšos.
+
+
+Papildyta straipsniu:
+Nr. XI-291, 2009-06-16, Žin., 2009, Nr. 77-3159 (2009-06-30), i. k. 1091010ISTA00XI-291
+ 
 
 
 Straipsnio pakeitimai:
@@ -289,16 +343,37 @@ Nr. IX-2394, 2004-07-15, Žin., 2004, Nr. 124-4489 (2004-08-07), i. k. 1041010IS
 
 
 
-8 straipsnis. Atsiskaitymo kontrolė
+8 straipsnis. Atsiskaitymo kontrolė ir informacijos apie atsiskaitymo būklę teikimas
 
 
-Savivaldybės vykdomosios institucijos arba jų įgalioti asmenys turi teisę tikrinti, ar žemės ūkio produkcijos pirkėjai, laikydamiesi įstatymų ir kitų teisės aktų reikalavimų, sudaro rašytines žemės ūkio produkcijos pirkimo–pardavimo sutartis, apskaičiuoja komercinio kredito palūkanas bei pavėluoto mokėjimo palūkanas ir atsiskaito su produkcijos pardavėjais. Savivaldybės meras teikia siūlymus Vyriausybei dėl priemonių atsiskaitymų būklei gerinti. Žemės ūkio produkcijos pirkėjai savivaldybės merui teikia Vyriausybės įgaliotos institucijos nustatytą informaciją apie atsiskaitymų už žemės ūkio produkciją būklę.
+1. Valstybinė mokesčių inspekcija prie Finansų ministerijos tikrina, ar žemės ūkio produkcijos pirkėjai, laikydamiesi įstatymų ir kitų teisės aktų reikalavimų, atsiskaito su šios produkcijos pardavėjais.
+
+
+
+
+2. Žemės ūkio produkcijos pirkėjai kas mėnesį teikia teritorinėms valstybinėms mokesčių inspekcijoms informaciją apie atsiskaitymo už žemės ūkio produkciją būklę Valstybinės mokesčių inspekcijos prie Finansų ministerijos nustatyta tvarka:
+
+
+1) prekybos įmonės, kurių pajamos per paskutinius ataskaitinius metus yra 20 milijonų litų arba daugiau;
+
+
+
+
+2) perdirbamosios pramonės įmonės, kurių pajamos per paskutinius ataskaitinius metus yra 6 milijonai litų arba daugiau.
+
+
+
+
+
+
+3. Savivaldybės vykdomosios institucijos arba jų įgalioti asmenys turi teisę tikrinti, ar žemės ūkio produkcijos pirkėjai, laikydamiesi įstatymų ir kitų teisės aktų reikalavimų, sudaro rašytines žemės ūkio produkcijos pirkimo–pardavimo sutartis, apskaičiuoja komercinio kredito palūkanas bei pavėluoto mokėjimo palūkanas ir atsiskaito su produkcijos pardavėjais, taip pat teikia siūlymus Vyriausybei dėl priemonių atsiskaitymų būklei gerinti.
 
 
 Straipsnio pakeitimai:
 Nr. IX-486, 2001-08-02, Žin., 2001, Nr. 71-2516 (2001-08-17); Žin., 2001, Nr. 72-0 (2001-08-22), i. k. 1011010ISTA00IX-486
 Nr. IX-935, 2002-06-06, Žin., 2002, Nr. 64-2573 (2002-06-26), i. k. 1021010ISTA00IX-935
 Nr. IX-2394, 2004-07-15, Žin., 2004, Nr. 124-4489 (2004-08-07), i. k. 1041010ISTA0IX-2394
+Nr. XI-291, 2009-06-16, Žin., 2009, Nr. 77-3159 (2009-06-30), i. k. 1091010ISTA00XI-291
  
 
 
@@ -362,3 +437,8 @@ Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo 8 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2394, 2004-07-15, Žin., 2004, Nr. 124-4489 (2004-08-07), i. k. 1041010ISTA0IX-2394
 Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo 2, 4, 5, 6, 7 ir 8 straipsnių pakeitimo ir papildymo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-291, 2009-06-16, Žin., 2009, Nr. 77-3159 (2009-06-30), i. k. 1091010ISTA00XI-291
+Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymo 1, 2, 5, 6, 7, 8 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 7-1 straipsniu įstatymas
