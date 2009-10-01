@@ -1062,14 +1062,17 @@ numatytas pareigas paprastai ne ilgiau kaip trejiems metams, jeigu tarptautinė
 sutartis ar Europos Sąjungos teisės aktai nenustato kitaip.
 2. Prokuroro
 delegavimo į tarptautines, Europos Sąjungos institucijas ar užsienio valstybių
-institucijas laikotarpis įskaitomas į tarnybos prokuroru stažą, jam mokamas iki
-delegavimo nustatytas darbo užmokestis ir suteikiamos teisės aktų nustatytos su
-delegavimu susijusios socialinės garantijos. Delegavimo laikotarpiu prokurorui
-garantuojamos einamos pareigos.
+institucijas laikotarpis įskaitomas į tarnybos prokuroru stažą, jam mokamas
+nustatytas darbo užmokestis ir apmokamos kitos teisės aktų nustatytos su
+delegavimu susijusios išlaidos. Delegavimo laikotarpiu prokurorui garantuojamos
+einamos pareigos.
 Įstatymas papildytas straipsniu:
 Nr.
 X-1661,
 2008-07-01, Žin., 2008, Nr. 81-3173 (2008-07-17)
+Straipsnio pakeitimai:
+Nr. XI-338, 2009-07-14,
+Žin., 2009, Nr. 89-3800 (2009-07-28)
  
 38
 straipsnis. Prokurorų profesinė etika ir elgesys
@@ -1096,8 +1099,8 @@ dovana (iki penkių minimalių gyvenimo lygių dydžio vertės);
 (iki vieno pareigūno vidutinio darbo užmokesčio (VDU) pinigine išmoka;
 4) prokuroro
 garbės ženklo medaliu arba kitu pasižymėjimo ženklu;
-5) suteikiant aukštesnį
-kvalifikacinį rangą.
+5) suteikiant
+aukštesnį kvalifikacinį rangą.
 2. Už ypatingus
 nuopelnus Lietuvos valstybei prokuroras gali būti teikiamas valstybės
 apdovanojimui ir (ar) vardiniam ginklui gauti.
@@ -1141,11 +1144,10 @@ tarnybinio nusižengimo arba prokuroro vardą žeminančio poelgio požymių, ta
 pat kai prokuroras nušalinamas nuo pareigų, jei panaudojo šaunamąjį ginklą arba
 remiantis Generalinės prokuratūros ar teritorinės prokuratūros vyriausiojo
 prokuroro tarnybiniu pranešimu.
-4. Tarnybinis
-patikrinimas pradedamas nedelsiant, kai gaunama generalinio prokuroro (jo
-pavaduotojo) rezoliucija pradėti tarnybinį patikrinimą, ir atliekamas ne ilgiau
-kaip 30 kalendorinių dienų šio
-Įstatymo ir generalinio prokuroro nustatyta tvarka.
+4. Tarnybinis patikrinimas
+pradedamas nedelsiant, kai gaunama generalinio prokuroro (jo pavaduotojo)
+rezoliucija pradėti tarnybinį patikrinimą, ir atliekamas ne ilgiau kaip 30 kalendorinių dienų šio Įstatymo ir
+generalinio prokuroro nustatyta tvarka.
 5. Prokuroras
 tarnybinio patikrinimo metu turi pateikti rašytinį paaiškinimą. Tarnybinė
 nuobauda gali būti skiriama, nors prokuroras nepateikia rašytinio paaiškinimo
@@ -1227,8 +1229,8 @@ savo prašymu;
 tarnybinė nuobauda – atleidimas iš tarnybos;
 3) įsiteisėja
 apkaltinamasis teismo nuosprendis;
-4) netenka
-Lietuvos Respublikos pilietybės;
+4) netenka Lietuvos
+Respublikos pilietybės;
 5) nenutraukia
 dalyvavimo politinių partijų ar politinių organizacijų veikloje, kitaip
 pažeidžia šio Įstatymo 21 straipsnio 2 dalies reikalavimus;
@@ -1288,9 +1290,10 @@ išskyrus šio Įstatymo 44 straipsnio 1 dalies 1–4, 11 punktuose ir 2 dalies 
 punkte nustatytus atvejus, draudžiama. Jeigu prokuroras atleidžiamas iš
 tarnybos pažeidžiant šią nuostatą, jo atleidimo diena laikoma kita po atostogų
 ar laikino nedarbingumo pasibaigimo tarnybos diena. 
-3. Nėščią prokurorę
-atleisti iš tarnybos, išskyrus šio Įstatymo 44 straipsnio 1 dalies 1–6, 9–12
-punktuose ir 2 dalies 1, 3, 6, 8 punktuose nustatytus atvejus, draudžiama.
+3. Nėščią
+prokurorę atleisti iš tarnybos, išskyrus šio Įstatymo 44 straipsnio 1 dalies
+1–6, 9–12 punktuose ir 2 dalies 1, 3, 6, 8 punktuose nustatytus atvejus,
+draudžiama.
 4. Prokurorą,
 kuris vienas augina vaiką iki trejų metų, atleisti iš tarnybos, išskyrus šio
 Įstatymo 44 straipsnio 1 dalies 1–6, 8–12 punktuose ir 2 dalies 1–6, 8
@@ -1381,8 +1384,8 @@ užmokestį nustato Valstybės politikų ir valstybės pareigūnų darbo apmokė
 Straipsnio
 pakeitimai:
 Nr.
-X-1785, 2008-11-06,
-Žin., 2008, Nr. 131-5035 (2008-11-15)
+X-1785,
+2008-11-06, Žin., 2008, Nr. 131-5035 (2008-11-15)
  
 50
 straipsnis. Prokurorų atostogos
@@ -1601,8 +1604,8 @@ biudžeto. Prokuratūra turi išlaidų sąmatą, o prokuratūrai skirtų asignav
 valdytojas yra generalinis prokuroras. Generalinė prokuratūra gali sudaryti
 atskiras teritorinių prokuratūrų išlaidų sąmatas.
 2. Svarstant Seime, Vyriausybėje ir kitose valstybės
-institucijose valstybės biudžetą ar prokuratūrai skiriamus asignavimus, prokuratūrai atstovauja generalinis
-prokuroras (jo pavaduotojas).
+institucijose valstybės biudžetą ar prokuratūrai skiriamus asignavimus, prokuratūrai atstovauja generalinis prokuroras
+(jo pavaduotojas).
 3. Valstybė finansinėmis, organizacinėmis ir techninėmis
 priemonėmis užtikrina tinkamas prokurorų tarnybos sąlygas, prokuroro
 nepriklausomumo garantijas bei įstatymų nustatytas socialines garantijas.
@@ -1753,8 +1756,8 @@ Nr. X-666, 2006-06-08,
 Žin., 2006, Nr. 72-2682 (2006-06-28)
 PROKURATŪROS
 ĮSTATYMO 50 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-Šis
-įstatymas įsigalioja nuo 2006 m. liepos 1 d.
+Šis įstatymas
+įsigalioja nuo 2006 m. liepos 1 d.
  
 11.
 Lietuvos
@@ -1790,11 +1793,22 @@ Nr. X-1785,
 PROKURATŪROS
 ĮSTATYMO 49 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+15.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-338,
+2009-07-14, Žin., 2009, Nr. 89-3800 (2009-07-28)
+PROKURATŪROS
+ĮSTATYMO 37(1) STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis įstatymas
+įsigalioja nuo 2009 m. spalio 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2008-11-19)
+Vilija Tamaliūnienė (2009-07-28)
                  
-autrap@lrs.lt
+vitama@lrs.lt
