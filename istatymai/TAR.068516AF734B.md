@@ -870,8 +870,18 @@ Nr. X-1338,
 Motinystės (tėvystės) pašalpos dydis
 1.
 Motinystės (tėvystės) pašalpos dydis nuo nėštumo ir gimdymo atostogų pabaigos,
-kol vaikui sueis vieni metai, yra 100 procentų, o kol vaikui sueis dveji
-metai,  – 85 procentai pašalpos gavėjo kompensuojamojo uždarbio dydžio. 
+kol vaikui sueis vieni metai, yra 100 procentų, o kol vaikui sueis dveji metai,
+– 85 procentai pašalpos gavėjo kompensuojamojo uždarbio dydžio. 
+Pastaba.
+1 dalies nuostatos taikomos iki 2010 m. liepos 1 d.
+1. Motinystės
+(tėvystės) pašalpos dydis nuo nėštumo ir gimdymo atostogų pabaigos, kol vaikui
+sueis vieni metai, yra 90 procentų, o kol vaikui sueis dveji metai, – 75
+procentai pašalpos gavėjo kompensuojamojo uždarbio dydžio.
+Pastaba.
+1 dalies nuostatos taikomos nuo 2010 m. liepos 1 d. naujai skiriamoms
+motinystės (tėvystės) pašalpoms.
+ 
 2.
 Motinystės (tėvystės) pašalpa per mėnesį negali būti mažesnė nei vaiko
 priežiūros atostogų pradžios mėnesį galiojusių einamųjų metų draudžiamųjų
@@ -898,8 +908,8 @@ motinystės (tėvystės) pašalpa už šį laikotarpį iš naujo neskiriama.
 Straipsnio pakeitimai:
 Nr. IX-1247,
 2002-12-10, Žin., 2002, Nr. 123-5535 (2002-12-24)
-Nr. IX-1975,
-2004-01-27, Žin., 2004, Nr. 25-750 (2004-02-14)
+Nr. IX-1975, 2004-01-27,
+Žin., 2004, Nr. 25-750 (2004-02-14)
 Nr. X-659, 2006-06-08,
 Žin., 2006, Nr. 72-2676 (2006-06-28)
 Nr. X-1205,
@@ -910,6 +920,8 @@ Nr. X-1338,
 2007-12-04, Žin., 2007, Nr. 132-5346 (2007-12-15)
 Nr. X-1618,
 2008-06-17, Žin., 2008, Nr. 74-2864 (2008-06-30)
+Nr. XI-420,
+2009-09-22, Žin., 2009, Nr. 117-4992 (2009-10-01)
  
  
 Įstatymas papildomas nauju ketvirtuoju skirsniu nuo 2005 m. liepos 1 d.:
@@ -980,8 +992,8 @@ mokėjimo atnaujinimas
 Nutrauktos
 profesinės reabilitacijos pašalpos mokėjimas Vyriausybės patvirtintų Ligos ir
 motinystės socialinio draudimo pašalpų nuostatų nustatyta tvarka atnaujinamas
-nuo dienos, kurią asmuo pradėjo tęsti anksčiau pradėtą profesinės
-reabilitacijos programą.
+nuo dienos, kurią asmuo pradėjo tęsti anksčiau pradėtą profesinės reabilitacijos
+programą.
  
 PENKTASIS SKIRSNIS
 VALSTYBINIO
@@ -1014,8 +1026,8 @@ Nr. X-211, 2005-05-19,
 Nr. X-659, 2006-06-08,
 Žin., 2006, Nr. 72-2676 (2006-06-28)
  
-23 straipsnis. Valstybinio socialinio
-draudimo įmokų tarifai ligos ir motinystės 
+23 straipsnis. Valstybinio socialinio draudimo
+įmokų tarifai ligos ir motinystės 
 socialiniam draudimui
 Valstybinio socialinio draudimo įmokų tarifai ligos ir motinystės
 socialiniam draudimui tvirtinami Valstybinio socialinio draudimo fondo biudžeto
@@ -1193,8 +1205,7 @@ PAPILDYMO 18(1), 18(2), 18(3) STRAIPSNIAIS ĮSTATYMAS
 Šis Įstatymas įsigalioja nuo 2006 m. liepos 1 d.
  
 11.
-Lietuvos Respublikos Seimas,
-Įstatymas
+Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1205,
 2007-06-26, Žin., 2007, Nr. 77-3042 (2007-07-12)
 LIGOS IR MOTINYSTĖS SOCIALINIO
@@ -1255,7 +1266,8 @@ DRAUDIMO ĮSTATYMO 3 IR 4 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 įsigalioja 2008 m. sausio 1 d.
  
 14.
-Lietuvos Respublikos Seimas, Įstatymas
+Lietuvos Respublikos Seimas,
+Įstatymas
 Nr. X-1618,
 2008-06-17, Žin., 2008, Nr. 74-2864 (2008-06-30)
 LIGOS IR MOTINYSTĖS SOCIALINIO
@@ -1314,20 +1326,20 @@ pajamoms.
 pajamomis laikomos pajamos, nuo kurių 2009 ir 2010 metais įmokėtos sumažinto
 tarifo privalomojo ligos ir motinystės socialinio draudimo įmokos ir kurios
 apskaičiuotos proporcingai mokėtoms valstybinio socialinio draudimo įmokoms:
-atitinkamais metais gauta pajamų suma dauginama iš dydžio, kuris apskaičiuojamas
-atitinkamų metų sumažintą ligos ir motinystės socialinio draudimo įmokos
-tarifą, taikomą savarankiškai dirbančių asmenų gautoms pajamoms, dalijant iš tų
-metų bendrojo ligos ir motinystės socialinio draudimo įmokų tarifo, nustatyto
-savarankiškai dirbantiems asmenims.
+atitinkamais metais gauta pajamų suma dauginama iš dydžio, kuris
+apskaičiuojamas atitinkamų metų sumažintą ligos ir motinystės socialinio
+draudimo įmokos tarifą, taikomą savarankiškai dirbančių asmenų gautoms
+pajamoms, dalijant iš tų metų bendrojo ligos ir motinystės socialinio draudimo
+įmokų tarifo, nustatyto savarankiškai dirbantiems asmenims.
 Šio
 įstatymo baigiamosios nuostatos pakeistos:
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. XI-167,
 2009-02-17, Žin., 2009, Nr. 25-969 (2009-03-05)
-LIGOS IR
-MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 3, 4, 5, 6, 8, 9, 16, 18(1), 19
-STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+LIGOS IR MOTINYSTĖS
+SOCIALINIO DRAUDIMO ĮSTATYMO 3, 4, 5, 6, 8, 9, 16, 18(1), 19 STRAIPSNIŲ
+PAKEITIMO IR PAPILDYMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šio
 įstatymo nuostatos taikomos nuo 2009 m. sausio 1 d.
  
@@ -1347,8 +1359,8 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-237,
 2009-04-28, Žin., 2009, Nr. 49-1941 (2009-04-30)
 LIGOS IR
-MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 9, 10, 14, 21(1), 24 STRAIPSNIŲ PAKEITIMO
-IR PAPILDYMO ĮSTATYMAS
+MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 9, 10, 14, 21(1), 24 STRAIPSNIŲ
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Jeigu
 laikinasis nedarbingumas prasidėjo iki šio įstatymo įsigaliojimo dienos ir dėl
 šio nedarbingumo atsiranda teisė gauti ligos pašalpą, ši pašalpa apskaičiuojama
@@ -1358,10 +1370,18 @@ ir mokama iki šio įstatymo įsigaliojimo dienos galiojusia tvarka.
 ir 5
 straipsnius, galioja iki 2010 m. gruodžio 31 d.
  
+20.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-420,
+2009-09-22, Žin., 2009, Nr. 117-4992 (2009-10-01)
+LIGOS IR
+MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 21 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2009-05-05)
+(2009-10-01)
                  
 autrap@lrs.lt
