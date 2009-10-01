@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2009-08-04 iki 2012-06-29
+Suvestinė redakcija nuo 2009-10-01 iki 2012-06-29
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
  
@@ -470,6 +470,143 @@ Vilnius
 
 6. Šiame straipsnyje vartojamos sąvokos suprantamos taip, kaip jos yra apibrėžtos Atominės elektrinės įstatyme.
  
+
+
+
+
+
+
+7 straipsnis. Strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimas
+
+
+1. Potencialių įmonės dalyvių atitikties nacionalinio saugumo interesams įvertinimas atliekamas dėl strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei nacionaliniam saugumui užtikrinti svarbių įmonių, kuriose valstybei nuosavybės teise priklauso akcijų, potencialių įmonės dalyvių.
+
+
+
+
+2. Potencialaus įmonės dalyvio atitikties nacionalinio saugumo interesams įvertinimas atliekamas tais atvejais, kai jis:
+
+
+1) veikdamas savarankiškai ar Lietuvos Respublikos vertybinių popierių įstatymo nustatytais atvejais kartu su kitais sutartinai veikiančiais asmenimis, siekia įgyti akcijų, suteikiančių 1/20 ar daugiau balsų įmonėje;
+
+
+
+
+2) siekia įgyti akcijų, kurios kartu su jo turimu akcijų paketu arba kartu su kitų sutartinai veikiančių asmenų turimu akcijų paketu suteikia daugiau kaip 1/3 balsų įmonėje;
+
+
+
+
+3) siekia investuoti į strateginę reikšmę nacionaliniam saugumui turinčią įmonę ar jos numatomą steigti įmonę;
+
+
+
+
+4) siekia tapti strateginę reikšmę nacionaliniam saugumui turinčios įmonės ar įrenginio plėtros (technologijų įgijimo, svarbių žaliavų tiekimo, pagrindinių plėtros darbų vykdymo ir pan.) projekto dalyviu.
+
+
+
+
+
+
+3. Vyriausybė sudaro Strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimo komisiją (toliau – Komisija). Į šią Komisiją Vyriausybė skiria savo ir nacionalinio saugumo srityje kompetentingų institucijų atstovus, tvirtina Komisijos darbo tvarkos aprašą.
+
+
+
+
+4. Strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių valdymo organai dėl potencialių įmonės dalyvių atitikties nacionalinio saugumo interesams įvertinimo privalo kreiptis į Komisiją, apie potencialius įmonės dalyvius pateikdami Komisijos darbo tvarkos apraše nurodytus dokumentus ir informaciją.
+
+
+
+
+5. Strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimą Komisijoje gali inicijuoti Vyriausybė, taip pat valstybės arba savivaldybės institucija, kuri yra valstybei ar savivaldybei nuosavybės teise priklausančių akcinės bendrovės akcijų valdytoja (kuriai šios akcijos perduotos patikėjimo teise) arba kuri įgyvendina valstybės ar savivaldybės įmonės savininko teises ir pareigas.
+
+
+
+
+6. Vykdydami įmonės potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimą, Komisijai išvadas pagal savo kompetenciją teisės aktų nustatyta tvarka teikia Lietuvos Respublikos valstybės saugumo departamentas, Lietuvos Respublikos užsienio reikalų ministerija, Lietuvos Respublikos vidaus reikalų ministerija, Policijos departamentas prie Vidaus reikalų ministerijos, kitos ikiteisminio tyrimo įstaigos, Lietuvos Respublikos generalinė prokuratūra, Komisijos sprendimu – kitos institucijos.
+
+
+
+
+7. Sprendimą dėl strateginę ar svarbią reikšmę nacionaliniam saugumui turinčios įmonės potencialaus dalyvio atitikties nacionalinio saugumo interesams priima Komisija, įvertindama asmens atitiktį šio straipsnio 10 dalyje nustatytiems kriterijams ir įvertinime dalyvaujančių kompetentingų valstybės institucijų išvadas.
+
+
+
+
+8. Nacionalinio saugumo interesus atitinkančiu asmeniu laikomas potencialus įmonės dalyvis, dėl kurio šio straipsnio nustatytais pagrindais ir šio įstatymo įgyvendinamųjų teisės aktų nustatyta tvarka yra atliktas įvertinimas ir priimtas sprendimas, kad tikrinamas asmuo atitinka nacionalinio saugumo interesus.
+
+
+
+
+9. Kai asmuo yra juridinis asmuo, laikoma, kad jis atitinka Lietuvos nacionalinio saugumo interesus, jeigu juos atitinka jis pats ir asmenys, tiesiogiai ir (ar) netiesiogiai turintys ne mažiau kaip 2/3 balsų suteikiančių šios įmonės akcijų.
+
+
+
+
+10. Potencialus įmonės dalyvis pripažįstamas atitinkančiu nacionalinio saugumo interesus, jeigu jis atitinka visas šias sąlygas:
+
+
+1) atitinka šio įstatymo 8 straipsnyje nurodytus europinės ir transatlantinės integracijos kriterijus;
+
+
+
+
+2) nėra monopolinis kurios nors rūšies Lietuvos importuojamų iškastinių energijos išteklių tiekėjas, tokio tiekėjo kontroliuojamas arba su juo kooperacijos ar partnerystės ryšiais susijęs asmuo;
+
+
+
+
+3) neturi nacionaliniam saugumui galinčių didinti riziką ar kelti grėsmę ryšių su Europos Sąjungai ir Šiaurės Atlanto Sutarties Organizacijai nepriklausančių užsienio valstybių institucijomis ar tų valstybių asmenimis;
+
+
+
+
+4) nėra duomenų, kad asmuo gali būti susijęs su organizuotomis nusikalstamomis grupuotėmis, užsienio valstybių specialiosiomis tarnybomis ar grupuotėmis, susijusiomis su tarptautinėmis teroristinėmis organizacijomis ar palaikančiomis ryšius su asmenimis, įtariamais priklausymu joms;
+
+
+
+
+5) nėra padaręs Lietuvos Respublikos baudžiamojo kodekso specialiojoje dalyje nurodytų sunkių ir labai sunkių nusikaltimų ar dėl jo neatliekami procesiniai veiksmai dėl nurodytų nusikaltimų padarymo, taip pat juos atitinkančių veikų užsienio šalyse;
+
+
+
+
+6) teisės aktų nustatyta tvarka nėra pripažintas pažeidęs šio įstatymo ir kitų teisės aktų, reglamentuojančių strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių veiklą.
+
+
+
+
+
+
+11. Potencialiems įmonių dalyviams, kuriuos Komisija pripažįsta neatitinkančiais nacionalinio saugumo interesų, taikomi šio įstatymo nustatyti apribojimai įsigyti strateginę ar svarbią reikšmę nacionaliniam saugumui turinčios įmonės akcijų, investuoti į strateginę reikšmę nacionaliniam saugumui turinčią įmonę ar jos numatomą steigti įmonę, tapti strateginę reikšmę nacionaliniam saugumui turinčios įmonės ar įrenginio plėtros (technologijų įgijimo, svarbių žaliavų tiekimo, pagrindinių plėtros darbų vykdymo ir pan.) projekto dalyviu.
+ 
+
+
+
+
+
+
+8 straipsnis. Potencialaus įmonės dalyvio atitikties europinei ir transatlantinei integracijai kriterijai
+
+
+Komisija įvertina potencialaus įmonės dalyvio atitiktį šiems europinės ir transatlantinės integracijos kriterijams:
+
+
+1) ilgalaikės veiklos pobūdžio ir patirties atitinkamoje srityje Europos Sąjungos, Šiaurės Atlanto Sutarties Organizacijos valstybėse narėse, taip pat kitose Lietuvos nacionaliniam saugumui stiprinti svarbiose valstybėse, plėtojančiose saugumo ryšius su Europos Sąjungos ir Šiaurės Atlanto Sutarties Organizacijos valstybėmis narėmis;
+
+
+
+
+2) realių ketinimų, galimybių ir planuojamų būdų tiesiogiai prisidėti prie nacionaliniam saugumui svarbaus Lietuvos ūkio sektoriaus arba energetikos sistemos spartesnės integracijos į transatlantines ir europines rinkas;
+
+
+
+
+3) Lietuvos europinei ir transatlantinei integracijai palankius verslo kooperacijos ir partnerystės ryšius.
+ 
+
+
 
 
 
