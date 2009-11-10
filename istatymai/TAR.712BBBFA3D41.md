@@ -51,6 +51,9 @@ naudojami efektyviai.
  
 2 straipsnis. Pagrindinės šio Įstatymo
 sąvokos
+ 
+1
+dalies redakcija iki 2010 m. sausio 1 d.:
 1. Asignavimai
 – biudžete nustatyta biudžetinių įstaigų ir kitų biudžeto lėšas gaunančių
 subjektų, atliekančių viešojo administravimo funkcijas, (toliau – kiti
@@ -59,6 +62,21 @@ strateginėms atsargoms (toliau – turtui) įsigyti skirta lėšų suma, kurią
 asignavimų valdytojas turi teisę biudžetiniais metais gauti iš biudžete
 sukauptų lėšų, pateikęs paraišką valstybės iždą valdančiai institucijai arba
 savivaldybių administracijai, patvirtintoms programoms finansuoti.
+1
+dalies redakcija nuo 2010 m. sausio 1 d.:
+1. Asignavimai
+– biudžete nustatyta biudžetinių įstaigų ir kitų subjektų, kuriems galimybė
+biudžeto lėšas gauti numatyta jų veiklos sritį reglamentuojančiuose įstatymuose
+arba Vyriausybės nutarimuose, priimtuose vadovaujantis tiesiogiai taikomais
+Europos Sąjungos teisės aktais ir tarptautinėmis sutartimis, nustatančiais
+Europos Sąjungos ar atskirų valstybių finansinės paramos, teikiamos Lietuvai,
+administravimo tvarką, (toliau – kiti subjektai), išlaidoms ir ilgalaikiam
+materialiajam ir nematerialiajam turtui bei strateginėms atsargoms (toliau –
+turtas) įsigyti skirta lėšų suma, kurią asignavimų valdytojas turi teisę
+biudžetiniais metais gauti iš biudžete sukauptų lėšų, pateikęs paraišką
+valstybės iždą valdančiai institucijai arba savivaldybių administracijai,
+patvirtintoms programoms finansuoti.
+ 
 2. Asignavimai
 įsipareigojimams – lėšų suma, už kurią (jos neviršydamas) asignavimų
 valdytojas einamaisiais biudžetiniais metais turi teisę prisiimti
@@ -81,21 +99,21 @@ naudojamos vadovaujantis įstatymais arba Lietuvos Respublikos Vyriausybės
 dalies redakcija nuo 2010 m. sausio 1 d.:
 4. Biudžetinių
 įstaigų pajamos
-– biudžetinių įstaigų, atliekant funkcijas, numatytas jų veiklą reglamentuojančiuose
-dokumentuose, gaunamos lėšos (išskyrus valstybės rinkliavą ir žyminį mokestį)
-ir pajamos už trumpalaikio ir ilgalaikio materialiojo turto nuomą naudojamos
-vadovaujantis įstatymais arba Lietuvos Respublikos Vyriausybės (toliau –
-Vyriausybė) nutarimais šių įstaigų išlaidoms apmokėti ir kitiems įstaigos
-poreikiams.
+– biudžetinių įstaigų, atliekant funkcijas, numatytas jų veiklą
+reglamentuojančiuose dokumentuose, gaunamos lėšos (išskyrus valstybės rinkliavą
+ir žyminį mokestį) ir pajamos už trumpalaikio ir ilgalaikio materialiojo turto
+nuomą naudojamos vadovaujantis įstatymais arba Lietuvos Respublikos Vyriausybės
+(toliau – Vyriausybė) nutarimais šių įstaigų išlaidoms apmokėti ir kitiems
+įstaigos poreikiams.
  
 5. Biudžeto deficitas – skirtumas
 tarp biudžeto pajamų ir asignavimų, kai asignavimai viršija pajamas.
 6. Biudžeto perteklius –
 skirtumas tarp biudžeto pajamų ir asignavimų, kai pajamos viršija asignavimus.
 7. Ekonominė biudžeto pajamų ir
-asignavimų klasifikacija (toliau – ekonominė klasifikacija) –
-biudžeto pajamų ir asignavimų suskirstymas pagal bendrus ekonominius lėšų
-kaupimo ir skirstymo požymius.
+asignavimų klasifikacija (toliau – ekonominė klasifikacija) – biudžeto
+pajamų ir asignavimų suskirstymas pagal bendrus ekonominius lėšų kaupimo ir
+skirstymo požymius.
 8. Finansavimas
 – lėšų pervedimas į asignavimų valdytojų vadovaujamų biudžetinių įstaigų ir
 kitų subjektų sąskaitas jų programoms vykdyti arba tiesioginis biudžetinių
@@ -109,8 +127,8 @@ biudžetas – valstybės biudžeto ir savivaldybių biudžetų konsoliduota
 (neįskaitant savivaldybių biudžetams skirtų valstybės biudžeto asignavimų)
 visuma.
 11. Programos
-sąmata – dokumentas, kuriame pagal ekonominę ir funkcinę klasifikacijas
-nurodomos asignavimų sumos programai vykdyti.
+sąmata – dokumentas, kuriame pagal ekonominę ir funkcinę klasifikacijas nurodomos
+asignavimų sumos programai vykdyti.
 12. Savivaldybės
 biudžetas – savivaldybės tarybos tvirtinamas savivaldybės biudžeto pajamų
 ir asignavimų planas biudžetiniams metams.
@@ -129,6 +147,8 @@ Nr. X-1354,
 2007-12-06, Žin., 2007, Nr. 132-5357 (2007-12-15)
 Nr. XI-118,
 2008-12-23, Žin., 2008, Nr. 149-6038 (2008-12-30)
+Nr. XI-446,
+2009-10-22, Žin., 2009, Nr. 134-5831 (2009-11-10)
  
 3 straipsnis. Nacionalinis biudžetas
 1. Nacionalinio
@@ -156,10 +176,20 @@ X-1317,
 2007-11-08, Žin., 2007, Nr. 120-4882 (2007-11-22)
  
 4 straipsnis. Asignavimų valdytojai
+ 
+1
+dalies redakcija iki 2010 m. sausio 1 d.:
 1. Valstybės biudžeto asignavimų valdytojai yra biudžetinių įstaigų, nurodytų
 Seimo patvirtintame valstybės biudžete, vadovai (ministerijose – ministrai ar
 jų įgalioti asmenys, teismuose – teismų pirmininkai ar jų įgalioti teismų
 kancleriai).
+1
+dalies redakcija nuo 2010 m. sausio 1 d.:
+1. Valstybės biudžeto asignavimų valdytojai yra biudžetinių
+įstaigų ir kitų subjektų, nurodytų Seimo patvirtintame valstybės biudžete,
+vadovai (ministerijose – ministrai ar jų įgalioti asmenys, teismuose – teismų
+pirmininkai ar jų įgalioti teismų kancleriai).
+ 
 2. Savivaldybių biudžetų asignavimų valdytojai yra savivaldybių
 biudžetinių įstaigų ar savivaldybių administracijos padalinių, nurodytų
 savivaldybės tarybos patvirtintame savivaldybės biudžete, vadovai.
@@ -167,6 +197,8 @@ Straipsnio
 pakeitimai:
 Nr. X-1691,
 2008-07-03, Žin., 2008, Nr. 81-3191 (2008-07-17)
+Nr. XI-446,
+2009-10-22, Žin., 2009, Nr. 134-5831 (2009-11-10)
  
 5 straipsnis. Asignavimų valdytojų pareigos
 1. Biudžeto asignavimų valdytojai privalo:
@@ -211,8 +243,8 @@ X-1218,
 2007-06-26, Žin., 2007, Nr. 77-3050 (2007-07-12)
 Nr. X-1354,
 2007-12-06, Žin., 2007, Nr. 132-5357 (2007-12-15)
-Nr. X-1826,
-2008-11-14, Žin., 2008, Nr. 137-5375 (2008-11-29)
+Nr. X-1826, 2008-11-14,
+Žin., 2008, Nr. 137-5375 (2008-11-29)
  
 6 straipsnis. Asignavimų valdytojų teisės
 Biudžeto asignavimų valdytojas turi teisę:
@@ -280,14 +312,15 @@ drausmės įstatymas, Seimo statutas,
 Savivaldybių biudžetų pajamų nustatymo metodikos įstatymas, atitinkamų metų
 valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo
 įstatymas, Vyriausybės patvirtintos biudžetų sudarymo ir vykdymo taisyklės ir
-kiti biudžeto pajamų gavimą ir programų finansavimą reglamentuojantys teisės aktai.
+kiti biudžeto pajamų gavimą ir programų finansavimą reglamentuojantys teisės
+aktai.
 2. Savivaldybių
 biudžetų teisinis pagrindas yra atitinkamų savivaldybių tarybų priimti
 sprendimai dėl atitinkamų biudžetinių metų savivaldybių biudžetų patvirtinimo.
 3. Biudžeto
-asignavimų valdytojams pavaldžių biudžetinių įstaigų ir kitų subjektų asignavimų
-panaudojimo teisinis pagrindas yra asignavimų valdytojų patvirtintos šių
-įstaigų programų sąmatos.
+asignavimų valdytojams pavaldžių biudžetinių įstaigų ir kitų subjektų
+asignavimų panaudojimo teisinis pagrindas yra asignavimų valdytojų patvirtintos
+šių įstaigų programų sąmatos.
 4. Nacionalinio
 biudžeto sudarymo ir vykdymo metodikos klausimus tvarko Finansų ministerija.
 Straipsnio
@@ -310,9 +343,9 @@ kaip vieni metai ir grąžinimo terminas ne tais pačiais biudžetiniais metais)
 arba teikti garantijas dėl paskolų, naudojamų tik investicijų projektams
 finansuoti;
 2) imti trumpalaikes vidaus ir užsienio paskolas (kurių grąžinimo
-terminas tais pačiais biudžetiniais metais) biudžetiniais metais laikinam
-pajamų trūkumui padengti, kai nepakanka šiam tikslui savivaldybės biudžeto
-apyvartos lėšų.
+terminas tais pačiais biudžetiniais metais) biudžetiniais metais laikinam pajamų
+trūkumui padengti, kai nepakanka šiam tikslui savivaldybės biudžeto apyvartos
+lėšų.
 2. Vyriausybės nustatyta
 tvarka iš valstybės biudžeto apyvartos lėšų savivaldybėms gali būti teikiamos
 trumpalaikės paskolos laikinam pajamų trūkumui padengti, kai nepakanka šiam
@@ -323,8 +356,8 @@ tikslui savivaldybės biudžeto apyvartos lėšų.
  
 11 straipsnis. Informacijos apie biudžetus viešumas
 1. Informacija apie biudžeto sudarymą, priėmimą, vykdymą, vertinimą,
-kontrolę turi būti aiški ir vieša, išskyrus informaciją, kuri įstatymų nustatyta
-tvarka yra valstybės paslaptis.
+kontrolę turi būti aiški ir vieša, išskyrus informaciją, kuri įstatymų
+nustatyta tvarka yra valstybės paslaptis.
 2. Informacija
 apie patvirtintą valstybės biudžetą, jo pajamas ir asignavimus, jų vykdymą
 skelbiama oficialiame leidinyje „Valstybės žinios“ ir Finansų ministerijos
@@ -362,8 +395,8 @@ kitus teisės aktus;
 valstybės turto (išskyrus pajamas, gaunamas pagal Valstybės ir savivaldybių
 turto privatizavimo įstatymą ir Valstybės ir savivaldybių turto valdymo,
 naudojimo ir disponavimo juo įstatymo 16(1) straipsnyje nustatytą
-valstybės nekilnojamojo turto atnaujinimo organizatoriaus parduotą
-nekilnojamąjį turtą, įskaitant žemę);
+valstybės nekilnojamojo turto atnaujinimo organizatoriaus parduotą nekilnojamąjį
+turtą, įskaitant žemę);
 3) valstybės biudžetinių įstaigų pajamos;
 4) negrąžintina finansinė parama (piniginės lėšos);
 5) dotacijos;
@@ -405,8 +438,8 @@ patvirtinimo įstatymas nenustato kitaip.
 biudžetinius metus perkeliama ir gali būti naudojama viršijant Seimo
 patvirtintas bendras asignavimų sumas 2007–2013 metų Europos Sąjungos
 struktūrinės paramos ir susijusių bendrojo finansavimo lėšų nepanaudota
-programų asignavimų dalis, susijusi su projektais, dėl kurių priimtas sprendimas
-skirti paramą.
+programų asignavimų dalis, susijusi su projektais, dėl kurių priimtas
+sprendimas skirti paramą.
 Straipsnio
 pakeitimai:
 Nr. X-1354,
@@ -478,8 +511,8 @@ biudžetines įstaigas programoms įgyvendinti. Asignavimai skiriami išlaidoms,
 jų – darbo užmokesčiui, ir turtui įsigyti, išskyrus valstybės aukštąsias
 mokyklas, valstybės mokslinių tyrimų įstaigas, kurioms asignavimai išlaidoms
 skiriami neišskiriant iš jų darbo užmokesčio; 
-4) grynojo skolinimosi
-limitas;
+4) grynojo
+skolinimosi limitas;
 5) biudžetiniais metais pasirašomų valstybės garantijų limitas;
 6) savivaldybių
 biudžetams skiriamų dotacijų sumos, bendrosios dotacijos kompensacijų sumos;
@@ -533,29 +566,17 @@ svarstymas ir priėmimas Seime ir įstatymo įsigaliojimas
 1. Seimas svarsto Valstybės biudžeto ir savivaldybių biudžetų finansinių
 rodiklių patvirtinimo įstatymo projektą atsižvelgdamas į Seimo komitetų
 pasiūlymus bei išvadas ir papildomus pranešimus Seimo statute nustatyta tvarka.
- 
-2
-dalies redakcija iki 2009 m. kovo 1 d.:
-2. Valstybės
-biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas
-įsigalioja ne vėliau kaip iki biudžetinių metų pradžios. Jeigu Valstybės
-biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas
-laiku neįsigalioja, biudžetas vykdomas šio Įstatymo 29 straipsnyje nustatyta
-tvarka.
-2
-dalies redakcija nuo 2009 m. kovo 1 d.:
 2. Seimas
 valstybės biudžetą ir savivaldybių biudžetų finansinius rodiklius vieniems
 biudžetiniams metams tvirtina įstatymu ne vėliau kaip prieš 14 kalendorinių
 dienų iki biudžetinių metų pradžios. Jeigu Valstybės biudžeto ir savivaldybių
 biudžetų finansinių rodiklių patvirtinimo įstatymo projektas laiku nepriimamas,
 biudžetas vykdomas šio Įstatymo 29 straipsnyje nustatyta tvarka.
- 
 3. Valstybės biudžetas tvirtinamas pagal rodiklius, nurodytus šio
 Įstatymo 18 straipsnio 2 dalyje.
-4. Atitinkamų metų Valstybės biudžeto ir savivaldybių biudžetų
-finansinių rodiklių įstatyme gali būti tvirtinami ir kiti šio Įstatymo 18
-straipsnio 2 dalyje nenurodyti rodikliai.
+4. Atitinkamų metų Valstybės biudžeto ir savivaldybių biudžetų finansinių
+rodiklių įstatyme gali būti tvirtinami ir kiti šio Įstatymo 18 straipsnio 2
+dalyje nenurodyti rodikliai.
 5. Atitinkamų
 metų Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
 patvirtinimo įstatyme gali būti nustatyti valstybės biudžeto mėnesinių
@@ -626,8 +647,8 @@ savivaldybės biudžetą. Savivaldybės administracijos direktoriaus rezervo lė
 skirsto savivaldybės administracijos direktorius.
 2. Rezervo lėšos naudojamos tik toms reikmėms, kurių negalima numatyti
 sudarant ir tvirtinant savivaldybės biudžetą. Šios lėšos naudojamos ekstremalių
-situacijų padariniams likviduoti ir kitoms reikmėms pagal savivaldybių tarybų nustatytas
-taisykles.
+situacijų padariniams likviduoti ir kitoms reikmėms pagal savivaldybių tarybų
+nustatytas taisykles.
  
 26 straipsnis. Savivaldybių
 biudžetų rengimas ir tvirtinimas
@@ -637,8 +658,8 @@ savivaldybių biudžetų finansiniais rodikliais, Vyriausybės patvirtintomis
 biudžetų sudarymo ir vykdymo taisyklėmis, valstybinės statistikos duomenimis,
 socialinėmis ir ekonominėmis programomis, taip pat savivaldybių biudžetų
 asignavimų valdytojų programomis ir jų sąmatų projektais. 
-2. Savivaldybių vykdomosios institucijos parengtus biudžetų projektus teikia
-savivaldybių taryboms savivaldybių tarybų reglamento nustatyta tvarka.
+2. Savivaldybių vykdomosios institucijos parengtus biudžetų projektus
+teikia savivaldybių taryboms savivaldybių tarybų reglamento nustatyta tvarka.
 3. Savivaldybių tarybos svarsto biudžetų projektus atsižvelgdamos į
 savivaldybių vykdomųjų institucijų pranešimus, tarybos komitetų pasiūlymus ir
 išvadas.
@@ -699,8 +720,8 @@ kitos gaunamos finansinės paramos lėšos) bei
 įsiskolinimams dengti.
 Straipsnio
 pakeitimai:
-Nr. X-1354,
-2007-12-06, Žin., 2007, Nr. 132-5357 (2007-12-15)
+Nr. X-1354, 2007-12-06,
+Žin., 2007, Nr. 132-5357 (2007-12-15)
  
 30
 straipsnis. Biudžeto gautų viršplaninių pajamų naudojimas
@@ -813,8 +834,8 @@ biudžeto apyvartos ir skolintas lėšas;
 Vyriausybės vertybinius popierius ir imti paskolas valstybės vardu išlaidoms,
 susijusioms su valstybės skola, apmokėti ir valstybės skolai dengti, valstybės
 investicijoms finansuoti, biudžeto deficitui dengti, valstybės pinigų fondų
-skoliniams įsipareigojimams dengti bei šių fondų pinigų srautams subalansuoti ir
-kitiems tikslams, kai tam yra atskiras Lietuvos Respublikos įstatymas;
+skoliniams įsipareigojimams dengti bei šių fondų pinigų srautams subalansuoti
+ir kitiems tikslams, kai tam yra atskiras Lietuvos Respublikos įstatymas;
 5) laisvus valstybės pinigų fondų ir kitus piniginius išteklius
 grąžintinai naudoti valstybės biudžete numatytoms programoms finansuoti,
 valstybės skolai valdyti, investuoti į valstybės vertybinius popierius,
@@ -837,11 +858,11 @@ Nr. X-1354,
  
 34 straipsnis. Valstybės
 biudžeto ir savivaldybių biudžetų tarpusavio atsiskaitymai
-Seimui priėmus įstatymus arba Vyriausybei priėmus nutarimus vykdant
-įstatymus, dėl kurių keičiasi valstybės ir savivaldybių biudžetų einamųjų
-biudžetinių metų įsipareigojimai, Finansų ministerija bei savivaldybių
-vykdomosios institucijos įstatymų nustatyta tvarka patikslina valstybės
-biudžeto ir savivaldybių biudžetų tarpusavio atsiskaitymus. 
+Seimui priėmus įstatymus arba Vyriausybei priėmus nutarimus vykdant įstatymus,
+dėl kurių keičiasi valstybės ir savivaldybių biudžetų einamųjų biudžetinių metų
+įsipareigojimai, Finansų ministerija bei savivaldybių vykdomosios institucijos
+įstatymų nustatyta tvarka patikslina valstybės biudžeto ir savivaldybių
+biudžetų tarpusavio atsiskaitymus. 
  
 35 straipsnio redakcija iki tų metų, kurių ataskaitų
 rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
@@ -978,11 +999,11 @@ asignavimus nepadaryta teisės aktų pažeidimų, taip pat kiek pasiekti program
 nustatyti tikslai.
  
 3 dalies redakcija iki tų metų, kurių ataskaitų
-rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
-sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
+rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo sektoriaus
+atskaitomybės įstatymą, sausio 1 dieną:
 3. Savivaldybių biudžetų vykdymo, savivaldybių biudžetų asignavimų
-valdytojų programų sąmatų, savivaldybių biudžetų lėšų apskaitos ir finansinės atskaitomybės
-auditą atlieka savivaldybių kontrolierių tarnybos.
+valdytojų programų sąmatų, savivaldybių biudžetų lėšų apskaitos ir finansinės
+atskaitomybės auditą atlieka savivaldybių kontrolierių tarnybos.
 3 dalies redakcija nuo tų metų, kurių ataskaitų
 rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo
 sektoriaus atskaitomybės įstatymą, sausio 1 dieną:
@@ -1068,10 +1089,10 @@ I-1080,
 1995.10.31, Žin., 1995, Nr. 92-2056 (1995.11.10)
 DĖL
 KAI KURIŲ LIETUVOS RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS AKTŲ, SUSIJUSIŲ SU
-LIETUVOS RESPUBLIKOS ĮSTATYMU "DĖL VAŽIAVIMO KELEIVINIU TRANSPORTU
-LENGVATŲ IR KAI KURIŲ KATEGORIJŲ PAREIGŪNŲ, TARNAUTOJŲ BEI KITŲ ASMENŲ
-VAŽIAVIMO KELEIVINIU TRANSPORTU IŠLAIDŲ KOMPENSAVIMO TVARKOS", PAKEITIMO
-IR PAPILDYMO
+LIETUVOS RESPUBLIKOS ĮSTATYMU "DĖL VAŽIAVIMO KELEIVINIU TRANSPORTU LENGVATŲ
+IR KAI KURIŲ KATEGORIJŲ PAREIGŪNŲ, TARNAUTOJŲ BEI KITŲ ASMENŲ VAŽIAVIMO
+KELEIVINIU TRANSPORTU IŠLAIDŲ KOMPENSAVIMO TVARKOS", PAKEITIMO IR
+PAPILDYMO
  
 7.
 Lietuvos
@@ -1180,8 +1201,8 @@ SANDAROS ĮSTATYMO 32 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 18.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-1946,
-2003-12-23, Žin., 2004, Nr. 4-47 (2004-01-07)
+Nr. IX-1946, 2003-12-23,
+Žin., 2004, Nr. 4-47 (2004-01-07)
 BIUDŽETO
 SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja
@@ -1249,8 +1270,8 @@ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 25.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. X-1428,
-2008-01-18, Žin., 2008, Nr. 15-511 (2008-02-05)
+Nr. X-1428, 2008-01-18,
+Žin., 2008, Nr. 15-511 (2008-02-05)
 BIUDŽETO
 SANDAROS ĮSTATYMO 18 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
@@ -1286,9 +1307,19 @@ SANDAROS ĮSTATYMO 2 IR 32 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja 2010 m. sausio 1 d.
  
+29.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. XI-446,
+2009-10-22, Žin., 2009, Nr. 134-5831 (2009-11-10)
+BIUDŽETO SANDAROS ĮSTATYMO 2 IR 4
+STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2010 m. sausio 1 d.
  
 ***
 Pabaiga ***
+ 
  
 Konstitucinio Teismo nutarimai:
  
@@ -1304,12 +1335,11 @@ STRAIPSNIŲ, LIETUVOS RESPUBLIKOS BIUDŽETO SANDAROS ĮSTATYMO 18 STRAIPSNIO 2
 DALIES IR LIETUVOS RESPUBLIKOS SEIMO STATUTO 172 STRAIPSNIO 1 DALIES ATITIKTIES
 LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
- 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2009-01-07)
+Aušrinė Trapinskienė (2009-11-12)
                  
 autrap@lrs.lt
