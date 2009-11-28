@@ -162,8 +162,11 @@ straipsnis. Fondo biudžeto pajamos
 biudžeto pajamų pagrindą sudaro draudėjų, apdraustųjų, savarankiškai dirbančių
 asmenų, asmenų, apsidraudusių valstybiniu savanoriškuoju socialiniu draudimu
 (toliau – savanoriškasis socialinis draudimas), valstybės biudžeto už valstybės
-lėšomis draudžiamus asmenis įmokos, taip pat asignavimai iš valstybės biudžeto
-ir (ar) kitų valstybės piniginių išteklių.
+lėšomis draudžiamus asmenis įmokos, asignavimai iš valstybės biudžeto ir (ar)
+kitų valstybės piniginių išteklių, taip pat lėšos už Europos Sąjungos
+institucijų pensijų sistemoje asmens įgytas pensines teises, pervedamos į Fondo
+biudžetą pagal Lietuvos Respublikos Europos Sąjungos institucijų darbuotojų ir
+Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymą.
 2. Į Fondo
 biudžeto pajamas taip pat įtraukiamos baudos ir delspinigiai, atgautos į
 ankstesnių metų Fondo biudžeto išlaidas iškeltos abejotinai atgautinos sumos,
@@ -187,8 +190,10 @@ dalis, viršijanti jo likutinę vertę, ir kt.);
 4) pajamos iš
 valstybės biudžeto ir (ar) kitų šaltinių už Fondo administravimo įstaigoms
 pavestų funkcijų vykdymą;
-5) kitos
-pajamos.
+5) kitos pajamos.
+Straipsnio pakeitimas:
+Nr. XI-475,
+2009-11-12, Žin., 2009, Nr. 141-6198 (2009-11-28)
  
 4
 straipsnis. Fondo biudžeto pajamų planavimas kitiems biudžetiniams metams
@@ -205,8 +210,8 @@ ir apdraustųjų skaičiaus kitimą per paskutinius dvejus metus;
 dirbančių asmenų įmokos – atsižvelgiant į šių asmenų socialiniam draudimui
 deklaruotų pajamų ir šių asmenų skaičiaus kitimą per paskutinius dvejus metus,
 kitiems biudžetiniams metams numatomus valstybinės socialinio draudimo
-pagrindinės pensijos dalies (toliau – bazinė pensija) ir minimaliosios
-mėnesinės algos (toliau – MMA) dydžius;
+pagrindinės pensijos dalies (toliau – bazinė pensija) ir minimaliosios mėnesinės
+algos (toliau – MMA) dydžius;
 3)
 savanoriškuoju socialiniu draudimu apsidraudusių asmenų įmokos – atsižvelgiant
 į šių asmenų socialiniam draudimui deklaruotų draudžiamųjų pajamų ir
@@ -220,9 +225,9 @@ metams numatomus bazinės pensijos ir MMA dydžius.
 2. Fondo
 biudžeto pajamos iš valstybės biudžeto ir (ar) kitų valstybės piniginių
 išteklių, skirtos padengti šio biudžeto išlaidoms dėl pensijų socialinio
-draudimo įmokų dalies pervedimo pensijų kaupimo bendrovėms, planuojamos atsižvelgiant
-į šio straipsnio 1 dalies 1 punkte ir 6 straipsnio 1 dalies 2 punkte numatytus
-rodiklius.
+draudimo įmokų dalies pervedimo pensijų kaupimo bendrovėms, planuojamos
+atsižvelgiant į šio straipsnio 1 dalies 1 punkte ir 6 straipsnio 1 dalies 2
+punkte numatytus rodiklius.
 3. Kitos Fondo
 biudžeto pajamos planuojamos taip:
 1) baudos ir
@@ -319,12 +324,12 @@ draudimu apsidraudusių asmenų socialiniam draudimui deklaruotų pajamų sumų,
 apdraustųjų ir socialinio draudimo išmokų gavėjų skaičiaus kitimą per
 paskutinius dvejus metus;
 2) lėšos,
-pervedamos į pensijų fondus, – atsižvelgiant į šalies ūkio plėtros
-makroekonomines prognozes, kitiems biudžetiniams metams patvirtintą pensijų
-socialinio draudimo įmokų tarifą pensijų kaupimui, draudžiamųjų pajamų bazės,
-savarankiškai dirbančių asmenų socialiniam draudimui deklaruotų pajamų sumų ir
-asmenų, sudariusių pensijų kaupimo sutartis, skaičiaus kitimą per paskutinius
-dvejus metus, naujai sudarytų pensijų kaupimo sutarčių, įsigaliojančių kitais
+pervedamos į pensijų fondus, – atsižvelgiant į šalies ūkio plėtros makroekonomines
+prognozes, kitiems biudžetiniams metams patvirtintą pensijų socialinio draudimo
+įmokų tarifą pensijų kaupimui, draudžiamųjų pajamų bazės, savarankiškai
+dirbančių asmenų socialiniam draudimui deklaruotų pajamų sumų ir asmenų,
+sudariusių pensijų kaupimo sutartis, skaičiaus kitimą per paskutinius dvejus
+metus, naujai sudarytų pensijų kaupimo sutarčių, įsigaliojančių kitais
 biudžetiniais metais, skaičių;
 3) neatgautinos
 ir abejotinai atgautinos sumos – atsižvelgiant į neatgautinų ir abejotinai
@@ -332,9 +337,9 @@ atgautinų sumų nuvertėjimo nuostolių sumą bei jos kitimo tendencijas per
 paskutinius dvejus metus; 
 4) Fondo veiklos
 sąnaudos – atsižvelgiant į Fondo administravimo įstaigų valstybės tarnautojų ir
-darbuotojų darbo užmokesčio kitimo prognozes, numatomus pokyčius Fondo
-administravimo įstaigų sistemoje ir veiklos sąnaudų kitimo per paskutinius
-dvejus metus tendencijas.
+darbuotojų darbo užmokesčio kitimo prognozes, numatomus pokyčius Fondo administravimo
+įstaigų sistemoje ir veiklos sąnaudų kitimo per paskutinius dvejus metus
+tendencijas.
 2.
 Administravimo išlaidų kompensavimas už išmokas, finansuojamas iš valstybės
 biudžeto ir (ar) kitų šaltinių, kurias teisės aktai paveda skirti, mokėti ir
@@ -346,8 +351,8 @@ asignavimų valdytojų.
 straipsnis. Fondo biudžeto piniginės įplaukos ir išlaidos 
 1. Fondo
 biudžeto piniginių įplaukų ir išlaidų straipsnyje parodomos šio biudžeto
-faktiškai gautos pinigų įplaukos ir faktinės išlaidos atitinkamais biudžetiniais
-metais.
+faktiškai gautos pinigų įplaukos ir faktinės išlaidos atitinkamais
+biudžetiniais metais.
 2. Fondo
 biudžeto piniginės įplaukos ir išlaidos planuojamos ir registruojamos
 apskaitoje pagal veiklos pobūdį, išskiriant įprastinę, investicinę bei
@@ -429,8 +434,8 @@ tvarka ne vėliau kaip likus 75 kalendorinėms dienoms iki einamųjų biudžetin
 metų pabaigos pateikia jį Seimui. Kartu su Fondo biudžeto rodiklių patvirtinimo
 įstatymo projektu teikiami Fondo biudžeto projekto aiškinamasis raštas ir kitų
 dvejų biudžetinių metų numatomų Fondo rodiklių prognozė, Fondo tarybos išvada,
-draudėjų ir apdraustųjų įmokų tarifų atskiroms socialinio draudimo rūšims dydžių
-pagrindimas ir kiti būtini dokumentai.
+draudėjų ir apdraustųjų įmokų tarifų atskiroms socialinio draudimo rūšims
+dydžių pagrindimas ir kiti būtini dokumentai.
  
 10
 straipsnis. Fondo biudžeto tvirtinimas 
@@ -612,10 +617,19 @@ VALSTYBINIO
 SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMO 1
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-475,
+2009-11-12, Žin., 2009, Nr. 141-6198 (2009-11-28)
+VALSTYBINIO
+SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMO 1
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2009-07-10)
+(2009-12-02)
                  
 autrap@lrs.lt
