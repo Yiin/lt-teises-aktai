@@ -339,7 +339,7 @@ registruoti arba atsisakyti registruoti objektą, kaupia, apdoroja, sistemina,
 saugo, naudoja registro duomenis, taiso registre padarytas klaidas, išduoda
 registravimo pažymėjimą, atlieka kitus registro duomenų tvarkymo veiksmus,
 numatytus registro nuostatuose;
- 2) teikia registro duomenis, registruoja registro
+2) teikia registro duomenis, registruoja registro
 duomenų gavėjus, priima užklausas, į jas atsako, tvarko registro duomenų gavimo
 ir perdavimo apskaitą – fiksuoja registro duomenų teikėjus, gavėjus, perduotus
 duomenis, jų perdavimo laiką, turinį ir tikslą;
@@ -562,10 +562,13 @@ teikiamų duomenų kiekiu.
 apie šiuos asmenis kartą per kalendorinius metus;
 2) susijusiems registrams – pagal duomenų teikimo
 sutartis;
-3) mokesčių administravimo (išskyrus Juridinių asmenų
-registro duomenis) ir teisėtvarkos institucijoms – jų tiesioginėms funkcijoms
-atlikti; 
+3) mokesčių administravimo (išskyrus
+Juridinių asmenų registro duomenis), teisėtvarkos institucijoms ir teismams –
+jų tiesioginėms funkcijoms atlikti;
 4) kitais registro nuostatų nustatytais atvejais.
+Straipsnio pakeitimai:
+Nr. XI-484,
+2009-11-12, Žin., 2009, Nr. 141-6204 (2009-11-28)
  
 18 straipsnis. Registro
 duomenų perdavimas į užsienio valstybes
@@ -580,8 +583,8 @@ V SKYRIUS
 REGISTRŲ VALSTYBINĖ PRIEŽIŪRA. REGISTRŲ DUOMENŲ SAUGOS
 UŽTIKRINIMAS IR ATSAKOMYBĖ
  
-19 straipsnis. Registrų priežiūros
-institucijos
+19 straipsnis. Registrų
+priežiūros institucijos
 1. Registrų sistemos bei atskirų registrų steigimo,
 kūrimo, tvarkymo, reorganizavimo bei likvidavimo priežiūrą atlieka įstatymų
 nustatytos arba Vyriausybės įgaliotos valstybės institucijos. 
@@ -595,7 +598,8 @@ reikalavimus, rengia teisės aktų, nustatančių registrų sistemos veiklą,
 registrų sąveiką, registro duomenų saugą bei registro duomenų teikimą registro
 duomenų gavėjams, projektus;
 3) nustato ir įgyvendina registrų techninės bazės,
-programinių ir technologinių priemonių formavimo ir veikimo bendruosius reikalavimus;
+programinių ir technologinių priemonių formavimo ir veikimo bendruosius
+reikalavimus;
 4) derina steigiamų registrų nuostatus ir registrų
 kūrimo darbų kalendorinius grafikus, registrų techninių aprašų (specifikacijų)
 ir registro nuostatų atitiktį, registrų kūrimo ir infrastruktūros plėtros
@@ -622,10 +626,10 @@ ir apsaugoti nuo atsitiktinio ar neteisėto sunaikinimo, pakeitimo, atskleidimo,
 taip pat nuo bet kokio kito neteisėto tvarkymo. 
 3. Kad būtų užtikrinta registro duomenų sauga,
 vadovaujantis Vyriausybės patvirtintais bendraisiais duomenų saugos
-reikalavimais, rengiami ir vadovaujančiosios registro tvarkymo įstaigos
-tvirtinami registro duomenų saugos nuostatai. Juose nustatomos reikiamos
-registro duomenų saugos priemonės, registro duomenų saugaus tvarkymo
-reikalavimai ir jų įgyvendinimas. 
+reikalavimais, rengiami ir vadovaujančiosios registro tvarkymo įstaigos tvirtinami
+registro duomenų saugos nuostatai. Juose nustatomos reikiamos registro duomenų
+saugos priemonės, registro duomenų saugaus tvarkymo reikalavimai ir jų
+įgyvendinimas. 
 4. Registro tvarkytojai privalo registro duomenų
 saugos nuostatų nustatyta tvarka užtikrinti reikiamas administracines,
 technines ir organizacines duomenų saugos priemones ir tokių priemonių
@@ -659,9 +663,7 @@ registrų įstatymo
 2003 m. lapkričio 17 d. Europos Parlamento ir Tarybos
 direktyva 2003/98/EB „Dėl viešojo sektoriaus informacijos pakartotinio
 naudojimo.
- 
 _______________
- 
 Pakeitimai: 
 1. 
 Lietuvos Respublikos Seimas, Įstatymas 
@@ -679,12 +681,16 @@ REGISTRŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja
 įstatymo redakcija
  
-***
-Pabaiga ***
+3.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. XI-484, 2009-11-12,
+Žin., 2009, Nr. 141-6204 (2009-11-28)
+VALSTYBĖS REGISTRŲ ĮSTATYMO 17
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
- 
-Redagavo:
-Aušra Bodin (2004-08-09)
-                 
-aubodi@lrs.lt
+*** Pabaiga ***
+Redagavo Aušrinė Trapinskienė
+(2009-11-30)
+                  autrap@lrs.lt
 
