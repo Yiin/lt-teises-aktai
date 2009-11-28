@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AAC3F61596EE"
 
 # Lietuvos Respublikos operatyvinės veiklos įstatymas
 
-Suvestinė redakcija nuo 2003-06-04 iki 2009-11-27
+Suvestinė redakcija nuo 2009-11-28 iki 2010-07-19
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2633, i. k. 1021010ISTA00IX-965
  
@@ -292,7 +292,10 @@ Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010IST
 
 10 straipsnis. Pašto siuntų, dokumentų siuntų, pašto perlaidų bei jų dokumentų slapta kontrolė, techninių priemonių naudojimas specialia tvarka ir informacijos gavimas iš telekomunikacijų operatorių ir telekomunikacijų paslaugų teikėjų
 
-1. Pašto siuntų, dokumentų siuntų, pašto perlaidų bei jų dokumentų slaptą kontrolę, techninių priemonių naudojimą specialia tvarka motyvuota nutartimi sankcionuoja apygardų teismų pirmininkai ar šių teismų Baudžiamųjų bylų skyrių pirmininkai pagal generalinio prokuroro ar jo įgalioto generalinio prokuroro pavaduotojo arba apygardų prokuratūrų vyriausiųjų prokurorų ar jų įgaliotų vyriausiųjų prokurorų pavaduotojų motyvuotus teikimus, parengtus pagal operatyvinės veiklos subjektų vadovų ar jų įgaliotų vadovų pavaduotojų pateiktus duomenis.
+1. Pašto siuntų, dokumentų siuntų, pašto perlaidų ir jų dokumentų slaptą kontrolę, techninių priemonių naudojimą specialia tvarka sankcionuoja apygardų teismų pirmininkai, šių teismų Baudžiamųjų bylų skyrių pirmininkai ir (ar) Vilniaus apygardos teismo pirmininko pavedimu du Baudžiamųjų bylų skyriaus teisėjai pagal generalinio prokuroro ar jo įgalioto generalinio prokuroro pavaduotojo arba apygardų prokuratūrų vyriausiųjų prokurorų ar jų įgaliotų vyriausiųjų prokurorų pavaduotojų motyvuotus teikimus, parengtus pagal operatyvinės veiklos subjektų vadovų ar jų įgaliotų vadovų pavaduotojų pateiktus duomenis. 
+Straipsnio dalies pakeitimai:
+Nr. XI-479, 2009-11-12, Žin., 2009, Nr. 141-6202 (2009-11-28), i. k. 1091010ISTA00XI-479
+ 
 
 2. Neatidėliotinais atvejais, kai iškyla pavojus žmogaus gyvybei, sveikatai, nuosavybei, visuomenės ar valstybės saugumui, leidžiama atlikti šio straipsnio 1 dalyje nurodytus veiksmus remiantis šio straipsnio 1 dalyje išvardytų prokurorų nutarimu. Tokiu atveju prokuroras, priėmęs šį nutarimą, per 24 valandas šio straipsnio 1 dalyje nurodytam teisėjui pateikia teikimą dėl veiksmų teisėtumo ar pagrįstumo patvirtinimo motyvuota nutartimi. Jei terminas baigiasi poilsio ar švenčių dieną, teikimas pateikiamas kitą dieną po poilsio ar švenčių dienos. Teisėjui nepatvirtinus minėtų veiksmų pagrįstumo motyvuota nutartimi, jie nutraukiami, o jų metu gauta informacija nedelsiant sunaikinama.
 
@@ -322,7 +325,10 @@ Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010IST
 
 8. Jei prokuroras atsisako teikti teikimą dėl veiksmų, nustatytų šio straipsnio 1 dalyje, sankcionavimo, operatyvinės veiklos subjekto vadovas ar jo įgaliotas vadovo pavaduotojas turi teisę kreiptis į aukštesnįjį prokurorą iš nurodytų šio straipsnio 1 dalyje, turintį įgaliojimus teikti teikimus sankcionuoti šiuos veiksmus. Prokuroro atsisakymas turi būti motyvuotas raštu. Sprendimą atsisakyti teikti teikimą sankcionuoti nurodytus veiksmus priėmęs prokuroras apie atsisakymą praneša generaliniam prokurorui ar jo įgaliotam generalinio prokuroro pavaduotojui. Aukštesniojo prokuroro sprendimas yra galutinis.
 
-9. Jei apygardos teismo Baudžiamųjų bylų skyriaus pirmininkas priima motyvuotą nutartį atsisakyti sankcionuoti šio straipsnio 1 dalyje nustatytus veiksmus, teikimą teikiantis prokuroras gali apskųsti nutartį apygardos teismo pirmininkui. Apygardos teismo pirmininko sprendimas yra galutinis.
+9. Jei apygardos teismo Baudžiamųjų bylų skyriaus pirmininkas ar apygardos teismo pirmininko įgaliotas šio skyriaus teisėjas atsisako sankcionuoti šio straipsnio 1 dalyje nustatytus veiksmus, teikimą teikiantis prokuroras gali apskųsti sprendimą apygardos teismo pirmininkui. Apygardos teismo pirmininko sprendimas yra galutinis.
+Straipsnio dalies pakeitimai:
+Nr. XI-479, 2009-11-12, Žin., 2009, Nr. 141-6202 (2009-11-28), i. k. 1091010ISTA00XI-479
+ 
 
 10. Teismui priėmus nutartį, o neatidėliotinais atvejais šio straipsnio 1 dalyje nurodytam prokurorui priėmus nutarimą, Vyriausybės įgaliota institucija praneša telekomunikacijų operatoriui ar telekomunikacijų paslaugų teikėjui apie jo tinkle vykdomą techninių priemonių panaudojimą specialia tvarka, nurodydama teikimo numerį, nutarties priėmimo datą ir nutartį priėmusį teismą, ar prokuroro nutarimo datą, jį priėmusį prokurorą bei operatyvinių veiksmų taikymo trukmę. Už pranešimo, skirto telekomunikacijų operatoriui ar telekomunikacijų paslaugų teikėjui, turinio atitikimą teismo nutarčiai įstatymų nustatyta tvarka atsako pranešimą teikiantis pareigūnas. Telekomunikacijų operatorius ar telekomunikacijų paslaugų teikėjas privalo sudaryti techninę galimybę vykdyti telekomunikacijos priemonėmis perduodamos informacijos kontrolę.
 
@@ -340,9 +346,10 @@ Nr. IX-1222, 2002-12-05, Žin., 2002, Nr. 123-5515 (2002-12-24), i. k. 1021010IS
 
 11 straipsnis. Slaptas patekimas į gyvenamąsias ir negyvenamąsias patalpas, transporto priemones bei jų apžiūra, laikinas dokumentų paėmimas ir apžiūra, medžiagų, žaliavų ir produkcijos pavyzdžių bei kitų objektų paėmimas tirti neskelbiant apie jų paėmimą
 
-1. Slaptą patekimą į gyvenamąsias ir negyvenamąsias patalpas, transporto priemones, taip pat jų apžiūrą, laikiną dokumentų paėmimą ir apžiūrą, medžiagų, žaliavų ir produkcijos pavyzdžių bei kitų objektų paėmimą tirti neskelbiant apie jų paėmimą motyvuota nutartimi sankcionuoja apygardų teismų pirmininkai ar šių teismų Baudžiamųjų bylų skyrių pirmininkai pagal generalinio prokuroro ar jo įgalioto generalinio prokuroro pavaduotojo arba apygardų prokuratūrų vyriausiųjų prokurorų ar jų įgaliotų vyriausiųjų prokurorų pavaduotojų motyvuotus teikimus, parengtus pagal operatyvinės veiklos subjektų vadovų ar jų įgaliotų vadovų pavaduotojų pateiktus duomenis. 
+1. Slaptą patekimą į gyvenamąsias ir negyvenamąsias patalpas, transporto priemones, taip pat jų apžiūrą, laikiną dokumentų paėmimą ir apžiūrą, medžiagų, žaliavų ir produkcijos pavyzdžių bei kitų objektų paėmimą tirti neskelbiant apie jų paėmimą sankcionuoja apygardų teismų pirmininkai, šių teismų Baudžiamųjų bylų skyrių pirmininkai ir (ar) Vilniaus apygardos teismo pirmininko pavedimu du Baudžiamųjų bylų skyriaus teisėjai pagal generalinio prokuroro ar jo įgalioto generalinio prokuroro pavaduotojo arba apygardų prokuratūrų vyriausiųjų prokurorų ar jų įgaliotų vyriausiųjų prokurorų pavaduotojų motyvuotus teikimus, parengtus pagal operatyvinės veiklos subjektų vadovų ar jų įgaliotų vadovų pavaduotojų pateiktus duomenis. 
 Straipsnio dalies pakeitimai:
 Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+Nr. XI-479, 2009-11-12, Žin., 2009, Nr. 141-6202 (2009-11-28), i. k. 1091010ISTA00XI-479
  
 
 2. Neatidėliotinais atvejais, kai iškyla pavojus žmogaus gyvybei, sveikatai, nuosavybei, visuomenės ar valstybės saugumui, leidžiama atlikti šio straipsnio 1 dalyje nurodytus veiksmus remiantis šio straipsnio 1 dalyje išvardytų prokurorų nutarimu. Tokiu atveju prokuroras, priėmęs šį nutarimą, per 24 valandas šio straipsnio 1 dalyje nurodytam teisėjui pateikia teikimą dėl veiksmų teisėtumo ar pagrįstumo patvirtinimo motyvuota nutartimi. Jei terminas baigiasi poilsio ar švenčių dieną, teikimas pateikiamas kitą dieną po poilsio ar švenčių dienos. Teisėjui nepatvirtinus minėtų veiksmų teisėtumo ar pagrįstumo, jie nutraukiami, o jų metu gauta informacija nedelsiant sunaikinama. 
@@ -378,9 +385,10 @@ Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010IST
 
 8. Jei prokuroras atsisako teikti teikimą dėl šio straipsnio 1 dalyje nustatytų veiksmų sankcionavimo, operatyvinės veiklos subjekto vadovas ar jo įgaliotas vadovo pavaduotojas turi teisę kreiptis į aukštesnįjį prokurorą iš nurodytų šio straipsnio 1 dalyje, turintį įgaliojimus teikti teikimus sankcionuoti šiuos veiksmus. Prokuroro atsisakymas turi būti motyvuotas raštu. Sprendimą atsisakyti teikti teikimą sankcionuoti nurodytus veiksmus priėmęs prokuroras apie atsisakymą praneša generaliniam prokurorui ar jo įgaliotam generalinio prokuroro pavaduotojui. Aukštesniojo prokuroro sprendimas yra galutinis.
 
-9. Jei apygardos teismo Baudžiamųjų bylų skyriaus pirmininkas priima motyvuotą nutartį atsisakyti sankcionuoti šio straipsnio 1 dalyje nustatytus veiksmus, teikimą teikiantis prokuroras gali apskųsti sprendimą apygardos teismo pirmininkui. Apygardos teismo pirmininko sprendimas yra galutinis.
+9. Jei apygardos teismo Baudžiamųjų bylų skyriaus pirmininkas ar apygardos teismo pirmininko įgaliotas šio skyriaus teisėjas atsisako sankcionuoti šio straipsnio 1 dalyje nustatytus veiksmus, teikimą teikiantis prokuroras gali apskųsti sprendimą apygardos teismo pirmininkui. Apygardos teismo pirmininko sprendimas yra galutinis.
 Straipsnio dalies pakeitimai:
 Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+Nr. XI-479, 2009-11-12, Žin., 2009, Nr. 141-6202 (2009-11-28), i. k. 1091010ISTA00XI-479
  
 
 10. Draudžiama atlikti šiame straipsnyje nustatytus operatyvinius veiksmus, kurie kelia tiesioginį pavojų žmogaus gyvybei, sveikatai arba gali sukelti kitų sunkių pasekmių.
@@ -678,4 +686,9 @@ Lietuvos Respublikos operatyvinės veiklos įstatymo 3, 5, 9, 11, 17, 19 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1563, 2003-05-20, Žin., 2003, Nr. 54-2369 (2003-06-04), i. k. 1031010ISTA0IX-1563
 Lietuvos Respublikos operatyvinės veiklos įstatymo 23 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-479, 2009-11-12, Žin., 2009, Nr. 141-6202 (2009-11-28), i. k. 1091010ISTA00XI-479
+Lietuvos Respublikos operatyvinės veiklos įstatymo 10 ir 11 straipsnių pakeitimo įstatymas
 
