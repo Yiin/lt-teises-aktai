@@ -358,7 +358,12 @@ valstybės ar savivaldybės institucija suteikė lėšų arba perdavė turto.
 3. Valstybės kontrolė taip pat atlieka valstybės
 biudžeto, Valstybinio socialinio draudimo fondo biudžeto ir Privalomojo
 sveikatos draudimo fondo biudžeto vykdymo valstybinį auditą.
-4. Seimas nutarimu gali pavesti Valstybės kontrolei
+4. Valstybės kontrolė gali atlikti Lietuvos banko
+įstatyme nustatytos vykdomos veiklos auditą tiek, kiek tai neprieštarauja
+Europos Sąjungos teisės aktams ir juose įtvirtintiems Europos centrinių bankų
+sistemos tikslams ir uždaviniams, ir jeigu tai nepažeidžia Europos centrinių
+bankų sistemos konfidencialumo ir nepriklausomumo režimo.
+5. Seimas nutarimu gali pavesti Valstybės kontrolei
 atlikti valstybinį auditą pagal jos kompetenciją.
 Straipsnio
 pakeitimai
@@ -367,6 +372,8 @@ IX-1851,
 2003-11-25, Žin., 2003, Nr. 116-5257 (2003-12-12)
 Nr. X-468, 2005-12-22,
 Žin., 2006, Nr. 4-101 (2006-01-12)
+Nr. XI-497, 2009-11-19, Žin.,
+2009, Nr. 144-6349 (2009-12-05)
  
 15 straipsnis. Audituojamo
 subjekto teisės ir pareigos 
@@ -391,10 +398,10 @@ audito dokumentai
 audito dokumentai yra darbo dokumentai, valstybinio audito ataskaita ir valstybinio
 audito išvada.
 2. Darbo dokumentai
-yra Valstybės kontrolės nuosavybė ir negali būti perduodami tretiesiems asmenims
-be Valstybės kontrolės sutikimo, išskyrus atvejus, kai įstatymų nustatyta
-tvarka teismas reikalauja pateikti rašytinius įrodymus; įstatymų nustatyta
-tvarka teisėsaugos institucijos paima valstybinio audito dokumentus. 
+yra Valstybės kontrolės nuosavybė ir negali būti perduodami tretiesiems
+asmenims be Valstybės kontrolės sutikimo, išskyrus atvejus, kai įstatymų
+nustatyta tvarka teismas reikalauja pateikti rašytinius įrodymus; įstatymų
+nustatyta tvarka teisėsaugos institucijos paima valstybinio audito dokumentus. 
 3. Valstybinio audito dokumentai saugomi Archyvų
 įstatymo nustatyta tvarka. 
 Straipsnio pakeitimai:
@@ -416,19 +423,21 @@ Nr. X-468, 2005-12-22,
 Žin., 2006, Nr. 4-101 (2006-01-12)
  
 18
-straipsnis. Valstybės kontrolieriaus ir jo pavaduotojų teisės priimant sprendimus pagal valstybinio audito ataskaitas
+straipsnis. Valstybės kontrolieriaus ir jo pavaduotojų teisės priimant
+sprendimus pagal valstybinio
+audito ataskaitas
 Valstybės kontrolierius ar jo
 pavaduotojai, priimdami sprendimus pagal audito ataskaitas, turi teisę:
 1)
 nurodyti audituotų subjektų vadovams reikšmingus teisės aktų pažeidimus ir
 įpareigoti juos pašalinti;
-2) įpareigoti
-audituotų subjektų vadovus ar aukštesniųjų institucijų vadovus įstatymų
-nustatyta tvarka išieškoti valstybei, savivaldybei ar kitam juridiniam asmeniui
-padarytą žalą;
+2)
+įpareigoti audituotų subjektų vadovus ar aukštesniųjų institucijų
+vadovus įstatymų nustatyta tvarka išieškoti valstybei, savivaldybei ar kitam
+juridiniam asmeniui padarytą žalą;
 3)
-įpareigoti audituotų subjektų vadovus ar aukštesniųjų institucijų vadovus įstatymų
-nustatyta tvarka traukti asmenis tarnybos ar drausminėn atsakomybėn; 
+įpareigoti audituotų subjektų vadovus ar aukštesniųjų institucijų vadovus
+įstatymų nustatyta tvarka traukti asmenis tarnybos ar drausminėn atsakomybėn; 
 4)
 įpareigoti audituotų subjektų vadovus grąžinti į valstybės ar
 savivaldybių biudžetus arba atitinkamus valstybės pinigų
@@ -865,7 +874,8 @@ gyvenamąsias patalpas suteikia valstybės kontrolierius.
 RESPUBLIKOS
 PREZIDENTAS                                 ALGIRDAS BRAZAUSKAS 
 
-________________
+_______________
+ 
 Pakeitimai:
  
 1.
@@ -1009,11 +1019,17 @@ Nr. X-1827, 2008-11-14,
 VALSTYBĖS KONTROLĖS ĮSTATYMO 2 IR
 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
  
-***
-Pabaiga ***
+15.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. XI-497, 2009-11-19, Žin.,
+2009, Nr. 144-6349 (2009-12-05)
+VALSTYBĖS
+KONTROLĖS ĮSTATYMO 14 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+ 
+*** Pabaiga ***
  
  
-Redagavo
-Aušrinė Trapinskienė (2008-12-02)
-                 
-autrap@lrs.lt
+Redagavo Aušrinė Trapinskienė
+(2009-12-07)
+                  autrap@lrs.lt
