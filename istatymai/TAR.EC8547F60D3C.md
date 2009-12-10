@@ -52,10 +52,9 @@ išsiaiškinti ir nustatyti, ar buvo atlikti veiksmai, priimti sprendimai dėl
 klausimų, kuriuos jai pavesta ištirti, taip pat išsiaiškinti kitas su tiriamu
 klausimu susijusias aplinkybes. Komisijos nustatytos aplinkybės turi būti
 patvirtinamos dokumentais ar kitais įrodymais.
-2. Komisija, tirdama jai pavestą klausimą ir
-įgyvendindama savo teises, nesikiša į teismo, teisėjo, prokuroro, ikiteisminio
-tyrimo pareigūno veiklą, kai jie atlieka ikiteisminį tyrimą ar nagrinėja bylą
-teisme.
+2. Komisija, tirdama jai pavestą klausimą ir įgyvendindama
+savo teises, nesikiša į teismo, teisėjo, prokuroro, ikiteisminio tyrimo
+pareigūno veiklą, kai jie atlieka ikiteisminį tyrimą ar nagrinėja bylą teisme.
 Straipsnio pakeitimai:
 Nr.
 IX-1471,
@@ -109,22 +108,29 @@ Seimui pasiūlymus dėl komisijos nario pašalinimo iš komisijos už šio įsta
 pažeidimus.
 2. Tais
 atvejais, kai atsisakoma pateikti šio straipsnio 1 dalies 1 punkte nurodytus
-komisijos reikalaujamus dokumentus, medžiagą, komisija turi teisę pasitelkti
-policijos pareigūnus ir paimti šiuos dokumentus, medžiagą, išskyrus atvejus, kai
-tokie dokumentai, medžiaga yra baudžiamojoje, operatyvinės įskaitos byloje arba
+komisijos reikalaujamus dokumentus, medžiagą, komisija turi teisę pasitelkti policijos
+pareigūnus ir paimti šiuos dokumentus, medžiagą, išskyrus atvejus, kai tokie
+dokumentai, medžiaga yra baudžiamojoje, operatyvinės įskaitos byloje arba
 kortelėje, civilinėje ar administracinėje byloje, taip pat Baudžiamojo proceso
 kodekso nustatyta tvarka yra daromo patikrinimo medžiaga. Asmenys,
 paimantys dokumentus, medžiagą, surašo jų paėmimo aktą (protokolą) ir palieka
 dokumentų, medžiagos kopijas. Jeigu nėra galimybės palikti kopijų, protokole
 surašomi visi paimtų dokumentų, medžiagos rekvizitai.
 3. Šio
-straipsnio 1 dalies 2, 3 ir 4 punktuose nurodyti asmenys, teikiantys komisijai
-paaiškinimus, negali būti verčiami teikti paaiškinimus prieš save, savo šeimos
-narius ar artimus giminaičius.
+straipsnio 1 dalies 2, 3 ir 4 punktuose nurodyti asmenys raštu įspėjami
+dėl baudžiamosios atsakomybės už melagingų pranešimų, paaiškinimų, informacijos
+ar duomenų teikimą komisijai, taip pat dėl administracinės atsakomybės už
+komisijos reikalavimų nevykdymą. Asmenys, teikiantys komisijai paaiškinimus, negali
+būti verčiami teikti paaiškinimus prieš save, savo šeimos narius ar artimus
+giminaičius,
+tačiau, jiems sutikus duoti paaiškinimus, šie asmenys turi būti įspėti dėl
+atsakomybės už melagingus parodymus.
 Straipsnio pakeitimai:
 Nr.
 IX-1471,
 2003-04-03, Žin., 2003, Nr. 38-1716 (2003-04-24)
+Nr. XI-522,
+2009-12-03, Žin., 2009, Nr. 146-6485 (2009-12-10)
  
 5
 straipsnis. Komisijos narių pareigos
@@ -133,9 +139,9 @@ nariai privalo:
 1) vadovautis
 Lietuvos Respublikos Konstitucija, įstatymais, kitais teisės aktais;
 2) laikyti
-paslaptyje duomenis ar žinias, kuriuos jie sužinojo vykdydami tyrimą, jeigu tokie
-duomenys ar žinios sudaro valstybės, komercinę, banko, tarnybinę arba kitą
-įstatymų saugomą paslaptį;
+paslaptyje duomenis ar žinias, kuriuos jie sužinojo vykdydami tyrimą, jeigu
+tokie duomenys ar žinios sudaro valstybės, komercinę, banko, tarnybinę arba
+kitą įstatymų saugomą paslaptį;
 3) nenaudoti
 šios dalies 2 punkte nurodytų duomenų ar žinių asmeninei ar kitų asmenų naudai;
 4) iki komisija
@@ -177,9 +183,9 @@ su komisijos sprendimu komisijos nariai turi teisę pareikšti atskirąją nuomo
 kuri pridedama prie sprendimo.
 6. Jeigu nagrinėjamas klausimas yra susijęs su
 valstybės paslaptimi, komisijos posėdžiai uždari visiems asmenims, išskyrus
-kviestuosius. Kviečiamųjų asmenų sąrašas sudaromas pagal komisijos narių pageidavimus.
-Kitais atvejais komisija rengti uždarus posėdžius gali tik gavusi Seimo
-pritarimą.
+kviestuosius. Kviečiamųjų asmenų sąrašas sudaromas pagal komisijos narių
+pageidavimus. Kitais atvejais komisija rengti uždarus posėdžius gali tik gavusi
+Seimo pritarimą.
 7. Po kiekvieno komisijos posėdžio gali būti
 parengiamas pranešimas visuomenės informavimo priemonėms. Pranešimą raštu arba
 žodžiu gali pateikti tik komisijos pirmininkas ar komisijos įgaliotas jos narys
@@ -197,14 +203,14 @@ išaiškintos aplinkybės, surinkti įrodymai bei pateikiamas situacijos teisini
 įvertinimas. 
 2. Apsvarsčiusi
 išvados projektą, komisija gali:
-1) nuspręsti perduoti
-medžiagą ikiteisminio tyrimo įstaigoms ar prokuratūrai;
+1) nuspręsti
+perduoti medžiagą ikiteisminio tyrimo įstaigoms ar prokuratūrai;
 2) pasiūlyti
 valstybės valdymo, savivaldos institucijoms patraukti pažeidimus padariusius
 asmenis drausminėn atsakomybėn arba spręsti, ar šie asmenys tinka einamoms
 pareigoms;
-3) konstatuoti, kad,
-komisijos nuomone, nebuvo atlikti veiksmai ar priimti sprendimai, kuriuos
+3) konstatuoti,
+kad, komisijos nuomone, nebuvo atlikti veiksmai ar priimti sprendimai, kuriuos
 komisijai pavesta ištirti, taip pat, kad atlikti veiksmai ar priimti sprendimai
 neprieštarauja įstatymams ir kitiems teisės aktams. 
 3. Komisijos
@@ -216,7 +222,8 @@ ir informuoti komisiją apie nagrinėjimo rezultatus.
 5. Komisija,
 pateikusi Seimui išvadą ir priimtą sprendimą, apie tai praneša visuomenės
 informavimo priemonėms. Neskelbiami duomenys ar žinios, kurie yra valstybės,
-komercinė, banko, tarnybinė, privataus gyvenimo ar kita įstatymų saugoma paslaptis.
+komercinė, banko, tarnybinė, privataus gyvenimo ar kita įstatymų saugoma
+paslaptis.
 6. Informaciją
 visuomenės informavimo priemonėms komisijos vardu teikia jos pirmininkas ar
 komisijos įgaliotas narys. Komisijos nariai, posėdyje pareiškę atskirąją
@@ -229,16 +236,15 @@ IX-1471,
 9
 straipsnis. Baigiamosios nuostatos
 1. Vykdydami
-tyrimą, komisijos nariai ir jos pasitelkti asmenys netrikdo valstybės institucijų,
-kitų įmonių, įstaigų ar organizacijų darbo ir privalo susilaikyti nuo
-preliminarių vertinimų bei išvadų, kol nebus baigtas tyrimas ir nėra komisijos
-išvados.
+tyrimą, komisijos nariai ir jos pasitelkti asmenys netrikdo valstybės
+institucijų, kitų įmonių, įstaigų ar organizacijų darbo ir privalo susilaikyti
+nuo preliminarių vertinimų bei išvadų, kol nebus baigtas tyrimas ir nėra
+komisijos išvados.
 2. Šį įstatymą
 pažeidę komisijos nariai ir kiti asmenys atsako įstatymų nustatyta tvarka.
  
 Skelbiu šį Lietuvos Respublikos Seimo
 priimtą įstatymą.
- 
  
 
 
@@ -273,11 +279,17 @@ Nr. IX-1806,
 SEIMO
 LAIKINŲJŲ TYRIMO KOMISIJŲ ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
-***
-Pabaiga ***
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-522,
+2009-12-03, Žin., 2009, Nr. 146-6485 (2009-12-10)
+SEIMO LAIKINŲJŲ
+TYRIMO KOMISIJŲ ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+*** Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2003-11-13)
+Redagavo Aušrinė Trapinskienė
+(2009-12-10)
                  
 autrap@lrs.lt
