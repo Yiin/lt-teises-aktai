@@ -22,7 +22,7 @@ PILIETYBĖS
 2002 m. rugsėjo 17 d. Nr. IX-1078
 Vilnius
 Nauja įstatymo redakcija (galioja
-iki 2010 m. sausio 1 d.):
+iki 2010 m. liepos 1 d.):
 Nr.
 X-1709,
 2008-07-15, Žin., 2008, Nr. 83-3293 (2008-07-22)
@@ -742,7 +742,7 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS
 ADAMKUS
-________________
+______________
  
 Pakeitimai:
 1.
@@ -770,11 +770,11 @@ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 2, 4, 5, 6 ir 7 dalys įsigalioja nuo 2005 m. sausio 1 d.
 Šio įstatymo 3 straipsnyje asmenims
 nustatyti gyvenimo bendrai su sutuoktiniu, kuris yra Lietuvos Respublikos
-pilietis, Lietuvos Respublikos teritorijoje terminai netaikomi asmenims, sudariusiems
-santuoką su Lietuvos Respublikos piliečiais iki šio įstatymo 3 straipsnio
-įsigaliojimo. Šiems asmenims yra taikomi 2002 m. rugsėjo 17 d. priimto Lietuvos
-Respublikos pilietybės įstatymo 14 straipsnyje nustatyti gyvenimo Lietuvos
-Respublikos teritorijoje terminai.
+pilietis, Lietuvos Respublikos teritorijoje terminai netaikomi asmenims,
+sudariusiems santuoką su Lietuvos Respublikos piliečiais iki šio įstatymo 3
+straipsnio įsigaliojimo. Šiems asmenims yra taikomi 2002 m. rugsėjo 17 d.
+priimto Lietuvos Respublikos pilietybės įstatymo 14 straipsnyje nustatyti
+gyvenimo Lietuvos Respublikos teritorijoje terminai.
 Šis įstatymas, išskyrus šio straipsnio 1 dalyje
 nurodytus atvejus ir šio įstatymo 3 ir 15 straipsnius, įsigalioja nuo 2006 m.
 balandžio 1 d.
@@ -805,8 +805,15 @@ Nr. X-1709,
 PILIETYBĖS
 ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija
-Šis įstatymas galioja iki 2010 m. sausio
+Šis įstatymas galioja iki 2010 m. liepos
 1 d.
+Įstatymo galiojimas pakeistas:
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-508,
+2009-12-01, Žin., 2009, Nr. 147-6551 (2009-12-12)
+PILIETYBĖS
+ĮSTATYMO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -837,7 +844,7 @@ ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
  
 Redagavo Aušrinė Trapinskienė
-(2009-04-06)
+(2009-12-14)
                  
 autrap@lrs.lt
 
