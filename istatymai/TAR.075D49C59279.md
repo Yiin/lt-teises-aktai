@@ -725,15 +725,7 @@ perduoti, suteikti nuosavybėn neatlygintinai ir parduoti valstybinę žemę pri
 apskričių viršininkai arba kita įstatymų nustatyta institucija. Valstybinė žemė
 išnuomojama ar perduodama naudotis Civilinio kodekso ir Žemės įstatymo
 nustatyta tvarka. 
-2. Valstybinė žemės ūkio paskirties žemė kaimo
-vietovėje žemės reformos metu išnuomojama be aukciono Vyriausybės nustatyta
-tvarka. Valstybinė žemės ūkio paskirties žemė, grąžintina pagal įstatymus,
-reglamentuojančius piliečių nuosavybės teisės į išlikusį nekilnojamąjį turtą
-atkūrimą, išnuomojama iki sprendimo atkurti nuosavybės teises priėmimo. Jeigu
-valstybinės žemės nuomos sutartyje tokia sąlyga nenustatyta, apskrities
-viršininkui priėmus sprendimą atkurti nuosavybės teises, valstybinės žemės
-nuomos sutartis nuomotojo reikalavimu nutraukiama prieš terminą.
-3. Žemės
+2. Žemės
 reformos žemėtvarkos projektų rengimui ir žemės privatizavimo darbams kaimo
 vietovėse ir miestuose metodiškai vadovauja ir juos kontroliuoja Vyriausybės
 įgaliota institucija. Žemės reformos žemėtvarkos projektų sudarymo techninių
@@ -741,7 +733,7 @@ instrukcijų, normatyvų ir standartų parengimą, projektų autorių aprūpinim
 žemėtvarkos, dirvožemių bei kitų tyrinėjimų kartografine ir geodezine medžiaga,
 taip pat žemės reformos informacijos kaupimą organizuoja Vyriausybės įgaliota
 institucija. 
-4. Žemės
+3. Žemės
 reformos žemėtvarkos projektus rengia konkursą laimėję fiziniai ir juridiniai
 asmenys, Lietuvos Respublikoje įsteigti Europos Sąjungos valstybių narių ir
 kitų Europos ekonominės erdvės susitarimą pasirašiusių valstybių įmonių
@@ -760,6 +752,8 @@ IX-1171,
 2002-11-05, Žin., 2002, Nr. 112-4975 (2002-11-22)
 Nr. X-540, 2006-03-30,
 Žin., 2006, Nr. 42-1503 (2006-04-15)
+Nr. XI-545,
+2009-12-10, Žin., 2009, Nr. 153-6885 (2009-12-28)
  
 17 straipsnis.
 Prašymų įsigyti valstybinės žemės ar ja naudotis nagrinėjimas 
@@ -803,11 +797,12 @@ panaudos sandorius, privalo kontroliuoti, kaip vykdomos sandorių sąlygos, o
 nustačiusi, kad kita sandorio šalis jų nevykdo, – inicijuoti sandorio
 nutraukimą įstatymų nustatyta tvarka arba taikyti kitus įstatymų numatytus
 šalių teisių ir interesų gynimo būdus. Vyriausybės įgaliotos institucijos turi
-teisę ginčyti sandorius dėl valstybinės žemės perleidimo, mainų, nuomos ar perdavimo
-naudotis, sudarytus sprendimų, priimtų pažeidžiant įstatymų ir kitų teisės aktų
-reikalavimus, pagrindu, taip pat atstovauti bylose dėl valstybinės žemės
-sandorių, kai šalys nevykdo sandorio sąlygų, nutraukimo, jeigu institucija,
-atstovaujanti valstybei šiuose sandoriuose, nesiima veiksmų sandorį nutraukti.
+teisę ginčyti sandorius dėl valstybinės žemės perleidimo, mainų, nuomos ar
+perdavimo naudotis, sudarytus sprendimų, priimtų pažeidžiant įstatymų ir kitų
+teisės aktų reikalavimus, pagrindu, taip pat atstovauti bylose dėl valstybinės
+žemės sandorių, kai šalys nevykdo sandorio sąlygų, nutraukimo, jeigu
+institucija, atstovaujanti valstybei šiuose sandoriuose, nesiima veiksmų
+sandorį nutraukti.
 Straipsnio
 pakeitimai:
 Nr. VIII-1757,
@@ -832,14 +827,13 @@ tvirtinami Vyriausybės nustatyta tvarka pagal žemės ūkio ministro patvirtint
 metodiką.
 2.
 Žemės reformos žemėtvarkos projektai, kuriuose projektuojami žemės sklypai
-piliečių nuosavybės teisėms atkurti ir naudojami asmeninio ūkio žemės sklypai,
-rengiami ir įgyvendinami valstybės lėšomis, o kitais atvejais – fizinių ir
-juridinių asmenų lėšomis. Žemės reformos žemėtvarkos projektai, kuriuose
-suprojektuoti žemės sklypai piliečių nuosavybės teisėms atkurti ir naudojami
-asmeninio ūkio žemės sklypai, fizinių asmenų pageidavimu gali būti įgyvendinami
-jų lėšomis. Fizinių ir juridinių asmenų lėšomis atliekamų žemės reformos
-žemėtvarkos projektų rengimo ir įgyvendinimo darbų apmokėjimo tvarką nustato
-Vyriausybė.
+piliečių nuosavybės teisėms atkurti ir naudojami asmeninio ūkio žemės sklypai, rengiami
+ir įgyvendinami valstybės lėšomis, o kitais atvejais – fizinių ir juridinių
+asmenų lėšomis. Žemės reformos žemėtvarkos projektai, kuriuose suprojektuoti
+žemės sklypai piliečių nuosavybės teisėms atkurti ir naudojami asmeninio ūkio
+žemės sklypai, fizinių asmenų pageidavimu gali būti įgyvendinami jų lėšomis.
+Fizinių ir juridinių asmenų lėšomis atliekamų žemės reformos žemėtvarkos
+projektų rengimo ir įgyvendinimo darbų apmokėjimo tvarką nustato Vyriausybė.
 3. Žemės sklypų, suprojektuotų grąžinti natūra bendrosios
 nuosavybės teise, padalijimo projektai rengiami piliečių lėšomis Žemės
 ūkio ministerijos nustatyta tvarka.
@@ -881,10 +875,10 @@ Nr. VIII-1757,
 Nr. IX-496,
 2001-08-03, Žin., 2001, Nr. 71-2524 (2001-08-17)
 Nr.
-IX-1171,
-2002-11-05, Žin., 2002, Nr. 112-4975 (2002-11-22)
-Nr. XI-312, 2009-06-22, Žin., 2009, Nr. 81-3358
-(2009-07-09)
+IX-1171, 2002-11-05,
+Žin., 2002, Nr. 112-4975 (2002-11-22)
+Nr. XI-312,
+2009-06-22, Žin., 2009, Nr. 81-3358 (2009-07-09)
  
 20
 straipsnis. Žemės reformos žemėtvarkos projektų svarstymo, derinimo ir
@@ -893,8 +887,7 @@ tvarka
 Žemės reformos
 žemėtvarkos projektai svarstomi ir derinami pagal Teritorijų planavimo įstatymą
 ir žemės reformos žemėtvarkos projektų rengimo metodikos nustatyta tvarka.
-Suderintus žemės reformos žemėtvarkos projektus tvirtina apskrities
-viršininkas.
+Suderintus žemės reformos žemėtvarkos projektus tvirtina apskrities viršininkas.
  
 21 straipsnis. Žemės sklypų ženklinimas ir žemės
 nuosavybės bei žemės naudojimo teisės 
@@ -903,7 +896,8 @@ išdavimas
 1. Žemės reformos žemėtvarkos projektuose ir
 kituose teritorijų planavimo dokumentuose suprojektuoti žemės sklypai, numatomi
 įsigyti nuosavybėn ar naudojimuisi, vietovėje ženklinami, matuojami ir jų
-plotai apskaičiuojami pagal Vyriausybės įgaliotos institucijos patvirtintą metodiką.
+plotai apskaičiuojami pagal Vyriausybės įgaliotos institucijos patvirtintą
+metodiką.
 2. Žemės
 savininkams ir žemės naudotojams išduodami žemės nuosavybę ir žemės naudojimo
 teisę patvirtinantys dokumentai. Šie dokumentai parengiami ir išduodami
@@ -931,8 +925,8 @@ kitai paskirčiai, teritorijų planavimo dokumentus (detaliuosius planus).
 žemės sklypų naudotojai, kuriems žemės sklypai suteikti teisės aktų nustatyta
 tvarka arba kuriems žemę administruojančių institucijų sprendimais leista žeme
 naudotis žemės reformos metu, Lietuvos Respublikos Vyriausybės nustatyta tvarka
-už naudojimąsi žeme iki nuomos ar pirkimo–pardavimo sutarčių sudarymo moka
-žemės nuomos mokestį, išskyrus už žemę, perduotą naudotis panaudai.
+už naudojimąsi žeme iki nuomos ar pirkimo–pardavimo sutarčių sudarymo moka žemės
+nuomos mokestį, išskyrus už žemę, perduotą naudotis panaudai.
 Straipsnio
 pakeitimai:
 Nr. VIII-1757,
@@ -1089,8 +1083,8 @@ REFORMOS ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 15.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-1170, 2002-11-05,
-Žin., 2002, Nr. 112-4974 (2002-11-22)
+Nr. IX-1170,
+2002-11-05, Žin., 2002, Nr. 112-4974 (2002-11-22)
 ŽEMĖS
 REFORMOS ĮSTATYMO 2, 5, 7, 8, 9, 10, 11, 15, 17, 18 STRAIPSNIŲ PAKEITIMO IR
 PAPILDYMO ĮSTATYMAS
@@ -1171,9 +1165,19 @@ REFORMOS ĮSTATYMO 7 STRAIPSNIO 1 DALIES 1 PUNKTO PRIPAŽINIMO NETEKUSIU GALIOS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XI-312, 2009-06-22, Žin., 2009, Nr. 81-3358 (2009-07-09)
+XI-312,
+2009-06-22, Žin., 2009, Nr. 81-3358 (2009-07-09)
 ŽEMĖS
 REFORMOS ĮSTATYMO 19 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+25.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-545,
+2009-12-10, Žin., 2009, Nr. 153-6885 (2009-12-28)
+ŽEMĖS
+REFORMOS ĮSTATYMO 16 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
  
 ***
@@ -1199,6 +1203,6 @@ Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2009-07-09)
+Aušrinė Trapinskienė (2009-12-30)
                  
 autrap@lrs.lt
