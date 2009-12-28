@@ -13,23 +13,27 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6C5599DD9A1"
 
 # Lietuvos Respublikos mokėjimų įstatymas
 
-Suvestinė redakcija nuo 2007-12-15 iki 2009-12-27
+Suvestinė redakcija nuo 2009-12-28 iki 2011-05-02
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 97-2775, i. k. 0991010ISTAIII-1370
  
-Nauja redakcija nuo 2003-07-01:
-Nr. IX-1596, 2003-06-05, Žin. 2003, Nr. 61-2753 (2003-06-27), i. k. 1031010ISTA0IX-1596
+TAR pastaba. Lietuvos Respublikos mokėjimų įstatymo 14, 15, 18, 35 straipsniai ir 36 straipsnio 2 dalis pradedami taikyti teikiant įmokų surinkimo paslaugą (kai mokėtojų sumokėtas lėšas surenka mokėtojo mokėjimo paslaugų teikėjas ir perveda gavėjui vienu mokėjimu) nuo 2010 m. birželio 15 d.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-550, 2009-12-10, Žin., 2009, Nr. 153-6888 (2009-12-28), i. k. 1091010ISTA00XI-550
+Lietuvos Respublikos mokėjimų įstatymo pakeitimo įstatymas
+ 
+Nauja redakcija nuo 2009-12-28:
+Nr. XI-550, 2009-12-10, Žin. 2009, Nr. 153-6888 (2009-12-28), i. k. 1091010ISTA00XI-550
  
 LIETUVOS RESPUBLIKOS
-MOKĖJIMŲ ĮSTATYMO PAKEITIMO
-Į S T A T Y M A S
+MOKĖJIMŲ
+ĮSTATYMAS
  
-2003 m. birželio 5 d. Nr. IX-1596
-Vilnius
+1999 m. spalio 28 d. Nr. VIII-1370 Vilnius
  
 
 
-PIRMASIS SKIRSNIS
+I SKYRIUS
 BENDROSIOS NUOSTATOS
  
 
@@ -37,22 +41,12 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis Įstatymas nustato:
-
-
-1) kredito įstaigų ir klientų santykius atliekant mokėjimus;
+1. Šis įstatymas reglamentuoja mokėjimo paslaugų teikėjų veiklą ir atsakomybę, mokėjimo paslaugas, jų teikimo sąlygas ir informavimo apie šias sąlygas reikalavimus, mokėjimo paslaugų vartotojų ir mokėjimo paslaugų teikėjų teises ir pareigas, susijusias su mokėjimo paslaugomis, kai mokėjimo paslaugų teikimas yra verslas.
 
 
 
 
-2) mokėjimų tvarką.
-
-
-
-
-
-
-2. Įstatymas skirtas užtikrinti šio Įstatymo priede nurodytų Europos Sąjungos teisės aktų taikymą.
+2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktu, nurodytu Įstatymo priede.
  
 
 
@@ -60,140 +54,190 @@ BENDROSIOS NUOSTATOS
 
 
 
-2 straipsnis. Pagrindinės šio Įstatymo sąvokos
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Autentiškumo patvirtinimo procedūra – kredito įstaigos arba kredito įstaigos ir kliento susitarimu numatyta procedūra, kurios metu nustatoma, ar tikrai mokėjimo nurodymą, mokėjimo nurodymo pakeitimą arba mokėjimo nurodymo atšaukimą pateikė asmuo, kuris mokėjimo nurodyme yra įvardytas kaip mokėtojas arba gavėjas. Elektroninėmis mokėjimo priemonėmis sudarytų mokėjimo nurodymų autentiškumas nustatomas naudojant tapatybės patvirtinimo priemones.
+1. Bendroji mokėjimo paslaugų sutartis (toliau – bendroji sutartis) – sutartis, kuria reglamentuojamas atskirų ir paskesnių mokėjimo operacijų vykdymas ir kurioje gali būti nustatyta pareiga atidaryti mokėjimo sąskaitą ir jos atidarymo sąlygos.
 
 
 
 
-2. Banko darbo diena – diena, kurios metu kredito įstaiga vykdo mokėjimo nurodymus. 
+2. Buveinės valstybė narė – valstybė narė, kurioje yra registruota mokėjimo paslaugų teikėjo buveinė. Jei kitoje valstybėje narėje įsteigtas mokėjimo paslaugų teikėjas pagal tos valstybės narės teisę neturi registruotos buveinės, – valstybė narė, kurioje yra mokėjimo paslaugų teikėjo buveinė.
 
 
 
 
-3. Debeto pervedimas – gavėjo inicijuotas sandoris, kai mokėtojo arba gavėjo kredito įstaigai pateiktas mokėjimo nurodymas vykdomas mokėtojo lėšoms pervesti gavėjui į jo sąskaitą kredito įstaigoje. Gavėjas turi teisę pateikti mokėjimo nurodymą, jeigu turi rašytinį mokėtojo sutikimą nurašyti lėšas iš jo sąskaitos ir šis sutikimas yra pateiktas mokėtojo kredito įstaigai. 
+3. Darbo diena – mokėjimo paslaugų teikėjo nustatyta diena, kurią mokėtojo mokėjimo paslaugų teikėjas arba gavėjo mokėjimo paslaugų teikėjas, dalyvaujantis vykdant mokėjimo operaciją, dirba vykdydamas mokėjimo operacijai atlikti būtiną veiklą.
 
 
 
 
-4. Elektroninės mokėjimo priemonės – nuotolinės prieigos mokėjimo priemonės ir elektroniniai pinigai. 
+4. Elektroniniai pinigai – išleidžiami gavus lėšų pinigai, išreikšti kaip reikalavimas jų emitentui ir atitinkantys šiuos požymius:
 
 
+1) yra laikomi elektroninėse ar magnetinėse laikmenose kaip piniginė vertė;
 
 
-5. Elektroninės mokėjimo priemonės naudotojas (toliau – naudotojas) – kredito įstaigos klientas, kuriam kredito įstaiga suteikia elektroninę mokėjimo priemonę. 
 
 
+2) vykdant mokėjimo operacijas priimami asmenų, kurie nėra tų elektroninių pinigų emitentai.
 
 
-6. Elektroniniai pinigai – piniginė vertė, kaip naudotojo reikalavimo kredito įstaigai išraiška, saugoma kredito įstaigos išleistoje priemonėje (kortelės, kompiuterio ar kitos įrangos atmintyje). Panaudojus tapatybės patvirtinimo priemonę, jie gali būti panaudoti mokėjimams bet kuriam gavėjui, galinčiam priimti tokius mokėjimus, ir (ar) naudotojui gryniesiems pinigams gauti. 
 
 
 
 
-7. Finansinis padengimas – mokėjimo nurodymui įvykdyti reikalingų lėšų buvimas mokėtojo sąskaitoje, esančioje mokėtojo kredito įstaigoje, arba grynųjų pinigų įmokėjimas kredito įstaigai ir (ar) mokėtojo kredito įstaigos įsipareigojimas suteikti mokėtojui kreditą mokėjimo nurodymui įvykdyti.
+5. Gavėjas – fizinis arba juridinis asmuo, kuris gauna mokėjimo operacijos lėšas.
 
 
 
 
-8. Gavėjas – asmuo, kuriam mokėtojas perduoda lėšas.
+6. Grupė – kaip ši sąvoka apibrėžta Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme.
 
 
 
 
-9. Gavėjo kredito įstaiga – kredito įstaiga, kuri į mokėjimo nurodyme nurodyto gavėjo sąskaitą, tvarkomą toje kredito įstaigoje, turi įskaityti mokėtojo lėšas. 
+7. Įskaitymo arba nurašymo data (toliau – įskaitymo data arba nurašymo data) – data, kurią naudoja mokėjimo paslaugų teikėjas apskaičiuodamas palūkanas už lėšas, įskaitomas į mokėjimo sąskaitą arba nurašomas iš jos.
 
 
 
 
-10. Klientas – mokėtojas arba gavėjas.
+8. Komisinis atlyginimas – mokėjimo paslaugų teikėjo imamas atlyginimas už mokėjimo operaciją ir (ar) su ja susijusias paslaugas.
 
 
 
 
-11. Komisinis atlyginimas – už mokėjimo nurodymų vykdymą mokėtinas kliento atlyginimas kredito įstaigai. 
+9. Kredito įstaiga – kaip ši sąvoka apibrėžta Lietuvos Respublikos finansų įstaigų įstatyme.
 
 
 
 
-12. Kredito pervedimas – mokėtojo inicijuotas sandoris, kai mokėtojo kredito įstaigai pateiktas mokėjimo nurodymas vykdomas mokėtojo lėšoms pervesti gavėjui į jo sąskaitą kredito įstaigoje. 
+10. Kredito pervedimas – mokėjimo paslauga, kai mokėtojo iniciatyva lėšos pervedamos į gavėjo mokėjimo sąskaitą.
 
 
 
 
-13. Mokėjimas – mokėtojo lėšų perdavimas gavėjui tiesiogiai grynaisiais pinigais arba negrynųjų pinigų pervedimas per pasirinktas kredito įstaigas. Pervedant lėšas mokėtojas ir gavėjas gali būti tas pats asmuo. Lėšos apima tiek grynuosius, tiek negrynuosius pinigus.
+11. Lėšos – grynieji pinigai (banknotai ir monetos), pinigai sąskaitoje ir elektroniniai pinigai.
 
 
 
 
-14. Mokėjimo nurodymas (mokėjimo pavedimas) – mokėtojo arba gavėjo raštu arba elektroninėmis mokėjimo priemonėmis sudarytas nurodymas kredito įstaigai pervesti lėšas gavėjui.
+12. Mokėjimo įstaiga – Lietuvos Respublikos mokėjimo įstaigų įstatyme apibrėžta mokėjimo įstaiga ir kitos valstybės narės mokėjimo įstaiga.
 
 
 
 
-15. Mokėjimo nurodymo pateikėjas – mokėtojas arba gavėjas, kuris mokėjimo nurodymą pateikia tiesiogiai mokėtojo kredito įstaigai, arba gavėjo kredito įstaiga, kuri gavėjo mokėjimo nurodymą persiunčia mokėtojo kredito įstaigai ar pagal gavėjo nurodymą sudaro mokėjimo nurodymą ir pateikia jį mokėtojo kredito įstaigai.
+13. Mokėjimo nurodymas – mokėtojo arba gavėjo nurodymas savo mokėjimo paslaugų teikėjui įvykdyti mokėjimo operaciją.
 
 
 
 
-16. Mokėjimo nurodymo priėmimas – momentas, kai mokėtojo kredito įstaiga prisiima įsipareigojimą vykdyti mokėjimo nurodymą.
+14. Mokėjimo operacija – mokėtojo arba gavėjo inicijuotas lėšų įmokėjimas, pervedimas arba išėmimas neatsižvelgiant į mokėtojo ir gavėjo pareigas, kuriomis grindžiama operacija.
 
 
 
 
-17. Mokėjimo sistema – sistema, apibrėžta Atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatyme.
+15. Mokėjimo operacijos autentiškumo patvirtinimas (toliau – autentiškumo patvirtinimas) – procedūra, kurią atlikdamas mokėjimo paslaugų teikėjas tikrina mokėjimo priemonės, įskaitant jos personalizuotus saugumo požymius, naudojimą.
 
 
 
 
-18. Mokėtojas – asmuo, kuris perduoda lėšas gavėjui.
+16. Mokėjimo paslauga – bet kuri šio įstatymo 5 straipsnyje nurodyta paslauga.
 
 
 
 
-19. Mokėtojo kredito įstaiga – kredito įstaiga, kuriai mokėtojas paveda įvykdyti savo arba gavėjo pateiktą mokėjimo nurodymą.
+17. Mokėjimo paslaugų teikėjai – šio įstatymo 6 straipsnyje nurodyti subjektai, kurie teikia šio įstatymo 5 straipsnyje nustatytas mokėjimo paslaugas.
 
 
 
 
-20. Naudotojo inicijuota operacija – operacija, inicijuota elektronine mokėjimo priemone, panaudojus tapatybės patvirtinimo priemonę (-es), arba inicijuota be elektroninės mokėjimo priemonės pateikimo ir neatsižvelgiant į tai, ar buvo panaudota tapatybės patvirtinimo priemonė, operacija, dėl kurios įvykdymo naudotojas nepateikė prieštaravimų naudotojo ir kredito įstaigos sudarytoje sutartyje nustatyta tvarka ir terminais arba kredito įstaiga įrodo, kad tai naudotojo inicijuota operacija.
+18. Mokėjimo paslaugų teikėjo ir mokėjimo paslaugų vartotojo susitarimas (toliau – susitarimas) – rašytine ar kita forma sudarytas šalių susitarimas, nustatytas bendrojoje mokėjimo paslaugų sutartyje, vienkartinio mokėjimo sutartyje, mokėjimo paslaugų teikėjo nustatytose mokėjimo paslaugų teikimo sąlygose arba kituose dokumentuose, įpareigojančiuose mokėjimo paslaugų teikėją ir kitą susitariančią šalį.
 
 
 
 
-21. Nuotolinės prieigos mokėjimo priemonės – priemonės, leidžiančios naudotojui elektroniniu būdu sudaryti nurodymus kredito įstaigai dėl disponavimo toje kredito įstaigoje jo sąskaitoje turimomis lėšomis. Naudojantis šiomis priemonėmis (naudotojo kompiuteryje įdiegta kredito įstaigos programine įranga, programine įranga, esančia kredito įstaigos interneto tarnybinėje stotyje, telefono ryšio įranga, kredito įstaigos išleista kortele (debeto, kredito ar kt.) ir kitomis priemonėmis), paprastai reikia tapatybės patvirtinimo. 
+19. Mokėjimo paslaugų vartotojas – fizinis arba juridinis asmuo, kuris naudojasi mokėjimo paslaugomis kaip mokėtojas ir (arba) gavėjas.
 
 
 
 
-22. Palūkanų norma – Lietuvos banko kas mėnesį skelbiamas rezidentams komercinių bankų suteiktų paskolų nacionaline valiuta aritmetinis svertinis metinių palūkanų normų vidurkis. 
+20. Mokėjimo priemonė – personalizuota priemonė ir (arba) tam tikros procedūros, dėl kurių susitaria mokėjimo paslaugų vartotojas ir mokėjimo paslaugų teikėjas ir kurias mokėjimo paslaugų vartotojas naudoja mokėjimo nurodymui inicijuoti.
 
 
 
 
-23. Tapatybės patvirtinimo priemonės – elektroninės mokėjimo priemonės naudotojo parašas, jam suteiktas asmens tapatybės nustatymo kodas (PIN) arba kredito įstaigos suteiktos kitos priemonės (slaptažodžiai, slapti kodai, raktai, biometrinės priemonės ir pan.), skirtos elektroninės mokėjimo priemonės naudotojo tapatybei patvirtinti. 
+21. Mokėjimo sąskaita – vieno ar kelių mokėjimo paslaugų vartotojų vardu atidaryta sąskaita, naudojama mokėjimo operacijoms vykdyti.
 
 
 
 
-24. Tarpininkas – kredito įstaiga, kuri nėra nei mokėtojo kredito įstaiga, nei gavėjo kredito įstaiga, bet dalyvauja vykdant mokėjimo nurodymus. 
+22. Mokėjimo sistema – lėšų pervedimo sistema, kuri tvarkoma pagal bendras tos sistemos taisykles ir kuriai nustatyta standartizuota mokėjimo operacijų apdorojimo, tarpuskaitos ir (arba) atsiskaitymų tvarka.
 
 
 
 
-25. Tarptautinis kredito pervedimas – kredito pervedimas, kai lėšos per tam tikroje valstybėje esančią kredito įstaigą arba jos skyrių pervedamos gavėjui į kredito įstaigą arba jos skyrių kitoje valstybėje. 
+23. Mokėtojas – fizinis arba juridinis asmuo, kuris turi mokėjimo sąskaitą ir leidžia vykdyti mokėjimo nurodymą iš tos mokėjimo sąskaitos arba, nesant mokėjimo sąskaitos, fizinis arba juridinis asmuo, kuris pateikia mokėjimo nurodymą.
 
 
 
 
-26. Valstybė narė – valstybė Europos Sąjungos narė arba Europos laisvosios prekybos asociacijos valstybė. 
+24. Nuotolinio ryšio priemonė – priemonė, kurią galima naudoti mokėjimo paslaugų sutarčiai per atstumą sudaryti, kai mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas sudarydami sutartį kartu fiziškai nedalyvauja.
 
 
 
 
-27. Vartotojas – fizinis asmuo, kuris su kredito įstaiga sudaro sutartį, kad ši teiks paslaugas asmeniniams, šeimos arba namų ūkio poreikiams, nesusijusiems su jo profesija ar verslu, tenkinti. 
+25. Pagrindinė palūkanų norma – palūkanų norma, kurią nurodo abiem mokėjimo paslaugų sutarties šalims viešai prieinamas šaltinis ir pagal kurią apskaičiuojama palūkanų suma.
+
+
+
+
+26. Pagrindinis valiutos keitimo kursas – valiutos keitimo kursas, kurį nurodo mokėjimo paslaugų teikėjas arba skelbia viešai prieinamas šaltinis ir pagal kurį keičiama valiuta.
+
+
+
+
+27. Patvarioji laikmena – laikmena, kurioje asmeniškai mokėjimo paslaugų vartotojui skirta informacija saugoma taip, kad su ta informacija būtų galima susipažinti informacijos paskirtį atitinkančiu laikotarpiu ir iš kurios laikoma informacija atgaminama jos nepakeičiant.
+
+
+
+
+28. Pinigų perlaida – mokėjimo paslauga, kai lėšos gaunamos iš mokėtojo, neatidarant mokėjimo sąskaitos mokėtojo arba gavėjo vardu, tam, kad tam tikra suma būtų pervesta gavėjui ar gavėjo vardu veikiančiam mokėjimo paslaugų teikėjui, ir (ar) kai tokios lėšos gaunamos gavėjo vardu ir tampa jam prieinamos.
+
+
+
+
+29. Priimančioji valstybė narė – valstybė narė, kuri nėra buveinės valstybė narė ir kurioje mokėjimo paslaugų teikėjas yra įsteigęs filialą, turi tarpininką arba teikia mokėjimo paslaugas nesteigdamas filialo.
+
+
+
+
+30. Tiesioginis debetas – mokėjimo paslauga, kurią teikiant lėšos nurašomos iš mokėtojo mokėjimo sąskaitos, kai mokėjimo operaciją inicijuoja gavėjas, remdamasis gavėjui, gavėjo mokėjimo paslaugų teikėjui arba mokėtojo mokėjimo paslaugų teikėjui duotu mokėtojo sutikimu.
+
+
+
+
+31. Unikalus identifikatorius – raidžių, skaičių ar simbolių derinys, kurį mokėjimo paslaugų teikėjas suteikia mokėjimo paslaugų vartotojui ir pagal kurį vienareikšmiškai atpažįstamas mokėjimo operacijoje dalyvaujantis mokėjimo paslaugų vartotojas ir (arba) mokėjimo operacijoje naudojama jo mokėjimo sąskaita.
+
+
+
+
+32. Užsienio valstybė – valstybė ne Europos Sąjungos valstybė narė ir ne Europos ekonominės erdvės valstybė.
+
+
+
+
+33. Valstybė narė – Europos Sąjungos valstybė narė, taip pat Europos ekonominės erdvės valstybė.
+
+
+
+
+34. Vartotojas – fizinis asmuo, kuris pagal mokėjimo paslaugų sutartis, kurioms taikomas šis įstatymas, veikia siekdamas tikslų, nesusijusių su jo verslu ar profesine veikla.
+
+
+
+
+35. Vienkartinio mokėjimo sutartis – sutartis, kuria reglamentuojamas vienkartinių mokėjimo operacijų vykdymas. Vienkartinėms mokėjimo operacijoms vykdyti nesudaroma bendroji sutartis.
  
 
 
@@ -201,33 +245,169 @@ BENDROSIOS NUOSTATOS
 
 
 
-3 straipsnis. Įstatymo taikymo sritis 
+3 straipsnis. Įstatymo taikymo sritis
 
 
-1. Šio Įstatymo 5 straipsnio 2 ir 4 dalys, 7 straipsnio 7 ir 9 dalys bei 10 ir 12 straipsniai netaikomi vykdant tarptautinius kredito pervedimus. Šio Įstatymo 6 straipsnio 2 dalis netaikoma vykdant kredito ir debeto pervedimus Lietuvos Respublikoje. Jeigu kredito įstaiga klientui suteikia galimybę sudaryti mokėjimo nurodymus elektroninėmis mokėjimo priemonėmis, vykdant kredito ir debeto pervedimus bei tarptautinius kredito pervedimus, kredito įstaigoms papildomai taikomi šio Įstatymo 17–21 straipsniuose nustatyti reikalavimai. 
-Straipsnio dalies pakeitimai:
-Nr. X-1351, 2007-12-05, Žin., 2007, Nr. 132-5355 (2007-12-15), i. k. 1071010ISTA00X-1351
+1. Šis įstatymas taikomas Lietuvos Respublikoje, į kitas valstybes nares, užsienio valstybes arba iš jų vykdomoms mokėjimo operacijoms.
+
+
+
+
+2. Mokėjimo paslaugų teikėjai ir mokėjimo paslaugų vartotojai gali susitarti visai ar iš dalies netaikyti šio įstatymo nuostatų mokėjimo operacijoms užsienio valstybių valiutomis, taip pat gali susitarti netaikyti šio įstatymo nuostatų, išskyrus šio įstatymo 39 straipsnį, mokėjimo operacijoms valstybių narių valiutomis, vykdomoms į užsienio valstybes arba iš jų.
+
+
+
+
+3. Mokėjimo paslaugų teikėjai ir mokėjimo paslaugų vartotojai, išskyrus vartotojus, mokėjimo operacijoms valstybių narių valiutomis, vykdomoms Lietuvos Respublikoje, į kitas valstybes nares arba iš jų, gali susitarti netaikyti visų ar dalies šio įstatymo III skyriaus nuostatų, taip pat visai ar iš dalies netaikyti šio įstatymo 4 straipsnio 1, 2 ir 3 punktuose, 9 straipsnio 1 ir 2 dalyse, 23 straipsnio 3 dalyje, 28, 30, 31, 34 ir 41 straipsniuose nustatytų reikalavimų, taip pat gali susitarti dėl kito termino, negu nustatyta šio įstatymo 27 straipsnyje.
+
+
+
+
+4. Šio įstatymo 29 ir 30 straipsniai netaikomi elektroniniams pinigams, jeigu mokėtojo mokėjimo paslaugų teikėjas negali įšaldyti mokėjimo sąskaitos ar blokuoti mokėjimo priemonės.
+
+
+
+
+5. Tais atvejais, kai taikomas ir Lietuvos Respublikos vartotojų teisių apsaugos įstatymas, vietoj jo 36 straipsnio 5–9 dalyse nustatytų informacijos reikalavimų, išskyrus 36 straipsnio 7 dalies 3–8 punktus, 36 straipsnio 8 dalies 1, 4 ir 5 punktus ir 36 straipsnio 9 dalies 2 punktą, taikomos šio įstatymo 10 ir 17 straipsnių nuostatos.
+
+
+
+
+6. Šio įstatymo nuostatos, susijusios su vartotojams teikiamais kreditais, taikomos tiek, kiek kiti įstatymai, reglamentuojantys vartotojams teikiamus kreditus, nenustato kitaip.
+
+
+
+
+7. Šis įstatymas netaikomas:
+
+
+1) mokėjimo operacijoms, kurios atliekamos tik grynaisiais pinigais iš mokėtojo tiesiogiai gavėjui be tarpininkų;
+
+
+
+
+2) mokėjimo operacijoms, kurios atliekamos iš mokėtojo gavėjui per prekybos agentą, kuris mokėtojo arba gavėjo vardu yra įgaliotas derėtis arba sudaryti prekių ar paslaugų pardavimo ar pirkimo sutartį;
+
+
+
+
+3) profesionaliam banknotų ir monetų fiziniam transportavimui, įskaitant surinkimą, tvarkymą ir pristatymą;
+
+
+
+
+4) neprofesionaliam grynųjų pinigų rinkimui ir pristatymui, užsiimant labdara arba vykdant veiklą, kuria nesiekiama pelno;
+
+
+
+
+5) paslaugoms, kai, mokant už perkamas prekes ar paslaugas, prieš pat mokėjimo operacijos įvykdymą ir gavus aiškų mokėjimo paslaugų vartotojo prašymą, kaip mokėjimo operacijos dalį gavėjas suteikia mokėtojui grynųjų pinigų;
+
+
+
+
+6) pinigų keitimo veiklai – grynųjų pinigų operacijoms, kai lėšos nelaikomos mokėjimo sąskaitoje;
+
+
+
+
+7) mokėjimo operacijoms, vykdomoms pagal bet kurį iš šių mokėjimo paslaugų teikėją įpareigojančių popierinių dokumentų siekiant perduoti lėšas gavėjui: čekius, kuriuos reglamentuoja Lietuvos Respublikos čekių įstatymas arba valstybių narių, kurios nėra 1931 m. Ženevos konvencijos dėl Vieningo čekių įstatymo šalys, teisės aktai; vekselius, kuriuos reglamentuoja Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatymas arba valstybių narių, kurios nėra 1930 m. birželio 7 d. Ženevos konvencijos dėl Vieningo įsakomųjų ir paprastųjų vekselių įstatymo šalys, teisės aktai; pagrindimo dokumentus; kelionių čekius; pašto perlaidas, kaip jas apibrėžusi Pasaulinė pašto sąjunga;
+
+
+
+
+8) mokėjimo operacijoms, vykdomoms mokėjimo arba vertybinių popierių atsiskaitymo sistemoje arba tarp atsiskaitymų tarpininkų, pagrindinių sandorio šalių, tarpuskaitos namų ir (arba) centrinių bankų, kitų sistemos dalyvių ir mokėjimo paslaugų teikėjų, išskyrus šio įstatymo 8 straipsnį, kuris taikomas šiame punkte nurodytoms mokėjimo operacijoms;
+
+
+
+
+9) mokėjimo operacijoms, susijusioms su vertybinių popierių operacijų tvarkymu, įskaitant dividendų, pajamų ir kitų lėšų paskirstymą, arba vertybinių popierių išpirkimu ar pardavimu, kurias atlieka šios dalies 8 punkte nurodyti asmenys arba finansų maklerio įmonės, kredito įstaigos, kolektyvinio investavimo subjektai ar valdymo įmonės, teikiantys investicines paslaugas, ir kiti subjektai, kuriems leidžiama saugoti finansines priemones;
+
+
+
+
+10) paslaugoms, kurias teikia techninių paslaugų teikėjai, užtikrinantys mokėjimo paslaugų teikimą, bet niekada negaunantys pervedamų lėšų, įskaitant duomenų tvarkymą ir saugojimą, patikėjimo ir privatumo apsaugos paslaugas, duomenų ir subjekto autentiškumo patvirtinimą, informacinių technologijų ir ryšių tinklo suteikimą, mokėjimo paslaugoms teikti naudojamų terminalų, prietaisų suteikimą ir techninę jų priežiūrą;
+
+
+
+
+11) paslaugoms priemonėmis, kurias galima naudoti prekėms ar paslaugoms įsigyti tik jų išdavėjo naudojamose patalpose arba pagal komercinį susitarimą su išdavėju ribotame paslaugų teikėjų tinkle ar tik tam tikroms prekėms ar paslaugoms įsigyti;
+
+
+
+
+12) mokėjimo operacijoms, kurios vykdomos naudojant telekomunikacijų galinius įrenginius, skaitmeninius ar informacinių technologijų įrenginius, jeigu įsigytos prekės tiekiamos ar paslaugos teikiamos į telekomunikacijų galinius įrenginius, skaitmeninius ar informacinių technologijų įrenginius ir jomis naudojamasi juos pasitelkiant, tuo atveju, kai telekomunikacijų, skaitmeninių paslaugų ar informacinių technologijų operatorius veikia ne tik kaip tarpininkas tarp mokėjimo paslaugų vartotojo ir prekių tiekėjo arba paslaugų teikėjo;
+
+
+
+
+13) mokėjimo operacijoms, vykdomoms tarp mokėjimo paslaugų teikėjų, jų tarpininkų ar filialų jų sąskaita;
+
+
+
+
+14) mokėjimo operacijoms, vykdomoms tarp patronuojančios įmonės ir jos dukterinės įmonės arba tarp tos pačios patronuojančios įmonės dukterinių įmonių, netarpininkaujant mokėjimo paslaugų teikėjui, kuris nėra tai pačiai grupei priklausanti įmonė;
+
+
+
+
+15) paslaugoms, susijusioms su grynųjų pinigų išdavimu iš bankomatų, kurias teikia paslaugų teikėjai, veikiantys vieno ar daugiau kortelių išdavėjų vardu ir nesantys bendrosios sutarties su mokėjimo paslaugų vartotoju, paimančiu pinigus iš mokėjimo sąskaitos, šalimi, tuo atveju, kai šie paslaugų teikėjai neteikia kitų mokėjimo paslaugų;
+
+
+
+
+16) priverstiniam lėšų išieškojimui (nurašymui) teisės aktų nustatyta tvarka.
  
 
 
 
 
-2. Šio Įstatymo nuostatos taikomos atliekant tarptautinius kredito pervedimus valstybių narių nacionalinėmis valiutomis ir eurais, kai ekvivalento sumos ne didesnės kaip 50000 eurų. Šie pervedimai atliekami norint pervesti lėšas gavėjui per vienos valstybės narės kredito įstaigą arba jos skyrių į kredito įstaigą arba jos skyrių kitoje valstybėje narėje. Pervedimus atlikti paveda kiti asmenys, o ne kredito įstaigos, draudimo įmonės, investicinės bendrovės ir finansų maklerio įmonės. Taikant šio Įstatymo 14, 15 ir 16 straipsnių reikalavimus, valstybės narės kredito įstaigos skyriai, teikiantys paslaugas skirtingose valstybėse narėse, laikomi savarankiškomis kredito įstaigomis.
 
 
 
 
-3. Šio Įstatymo nuostatos, išskyrus 13–16 straipsnius, taikomos atliekant ir kitus, nei nurodyta šio straipsnio 2 dalyje, tarptautinius kredito pervedimus. Šio Įstatymo 13–16 straipsnių nuostatos taikomos tada, kai kliento ir kredito įstaigos sutartis arba kredito įstaigos veiklos taisyklės nenustato ko kita.
+4 straipsnis. Išimtys dėl mažos vertės mokėjimo priemonių ir elektroninių pinigų
+
+
+Kai mokėjimo priemonės pagal bendrąją sutartį yra susijusios tik su atskiromis mokėjimo operacijomis, kurios neviršija 30 eurų ekvivalento litais arba kurioms įvykdyti nustatytas 150 eurų ekvivalento litais išlaidų limitas, arba kurių elektroninėse laikmenose saugoma ne didesnė kaip 150 eurų ekvivalento litais suma bet kuriuo metu:
+
+
+1) mokėjimo paslaugų teikėjas turi teisę mokėtojui pateikti tik informaciją apie pagrindines mokėjimo paslaugos savybes, įskaitant mokėjimo priemonės naudojimo instrukciją, atsakomybę, taikomą komisinį atlyginimą ir kitą svarbią informaciją, taip pat nurodyti, kur lengvai prieinamu būdu galima susipažinti su kitomis šio įstatymo 10 straipsnio 2–8 dalyse nustatytomis mokėjimo paslaugų teikimo sąlygomis;
 
 
 
 
-4. Šio Įstatymo 17–21 straipsniuose nustatyti reikalavimai kredito įstaigoms netaikomi, kai jos elektronines mokėjimo priemones suteikia kitoms kredito įstaigoms, draudimo įmonėms, investicinėms bendrovėms ir finansų maklerio įmonėms.
+2) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad iš mokėjimo paslaugų teikėjo nereikalaujama bendrosios sutarties sąlygų pakeitimų siūlyti raštu arba naudojant kitą patvariąją laikmeną;
 
 
 
 
-5. Šis Įstatymas netaikomas, kai Civilinio proceso kodekso ir (arba) kitų teisės aktų nustatyta tvarka vykdomas priverstinis lėšų išieškojimas (nurašymas) iš kredito įstaigoje esančios mokėtojo sąskaitos. 
+3) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad, atlikęs mokėjimo operaciją, mokėjimo paslaugų teikėjas pateikia tik nuorodą arba sudaro sąlygas susipažinti su tokia nuoroda, pagal kurią mokėjimo paslaugų vartotojas gali nustatyti mokėjimo operaciją, jos sumą, taikytą komisinį atlyginimą, o kai tam pačiam gavėjui atliktos kelios tokios pat rūšies mokėjimo operacijos, – tik informaciją apie visą sumą ir komisinį atlyginimą už šias mokėjimo operacijas. Mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad iš mokėjimo paslaugų teikėjo nereikalaujama teikti šios informacijos arba sudaryti sąlygų su ja susipažinti, jeigu mokėjimo priemonė naudojama anonimiškai arba jeigu mokėjimo paslaugų teikėjas dėl techninių priežasčių negali jos pateikti. Tačiau mokėjimo paslaugų teikėjas turi suteikti mokėtojui galimybę patikrinti laikomų lėšų sumą;
+
+
+
+
+4) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad šio įstatymo 25 straipsnio 1 dalies 2 punktas, 26 straipsnio 1 dalies 3 ir 4 punktai ir 30 straipsnio 3 ir 4 dalys jiems netaikomi, jei negalima mokėjimo priemonės blokuoti arba užkirsti kelią tolesniam jos naudojimui;
+
+
+
+
+5) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad šio įstatymo 28, 29 straipsniai ir 30 straipsnio 1 ir 2 dalys jiems netaikomi, jeigu mokėjimo priemonė naudojama anonimiškai arba jeigu mokėjimo paslaugų teikėjas negali įrodyti, kad mokėjimo operacija buvo autorizuota dėl specifinių mokėjimo priemonės savybių;
+
+
+
+
+6) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad mokėjimo paslaugų teikėjas nepraneštų mokėjimo paslaugų vartotojui apie atsisakymą vykdyti mokėjimo nurodymą, jeigu akivaizdu, kad mokėjimo nurodymas nebus įvykdytas;
+
+
+
+
+7) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad mokėtojas negali atšaukti mokėjimo nurodymo po to, kai mokėjimo nurodymas perduotas arba sutikimas atlikti mokėjimo operaciją duotas gavėjui;
+
+
+
+
+8) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad bus taikomi kiti mokėjimo operacijos įvykdymo terminai, negu nustatyti šio įstatymo 36 ir 37 straipsniuose.
  
 
 
@@ -235,15 +415,546 @@ Nr. X-1351, 2007-12-05, Žin., 2007, Nr. 132-5355 (2007-12-15), i. k. 1071010IST
 
 
 
-4 straipsnis. Mokėjimų tvarka
-
-
-1. Mokėjimai grynaisiais pinigais atliekami mokėtojo ir gavėjo susitarimu nustatytomis sąlygomis ir tvarka. 
 
 
 
 
-2. Mokėjimai negrynaisiais pinigais atliekami šio Įstatymo nustatyta tvarka. 
+II skyrius
+Mokėjimo paslaugos ir MOKĖJIMO PASLAUGŲ teikėjai
+ 
+
+
+5 straipsnis. Mokėjimo paslaugos
+
+
+Mokėjimo paslaugas sudaro:
+
+
+1) paslaugos, kurias teikiant sudaromos sąlygos grynuosius pinigus įmokėti į mokėjimo sąskaitą, ir visos su mokėjimo sąskaitos tvarkymu susijusios operacijos;
+
+
+
+
+2) paslaugos, kurias teikiant sudaromos sąlygos grynuosius pinigus išimti iš mokėjimo sąskaitos, ir visos su mokėjimo sąskaitos tvarkymu susijusios operacijos;
+
+
+
+
+3) mokėjimo operacijos, įskaitant lėšų, esančių mokėjimo sąskaitoje, atidarytoje mokėjimo paslaugų vartotojo mokėjimo paslaugų teikėjo arba kito mokėjimo paslaugų teikėjo įstaigoje, pervedimą: tiesioginio debeto pervedimai, įskaitant vienkartinius tiesioginio debeto pervedimus, mokėjimo operacijos naudojantis mokėjimo kortele arba panašia priemone ir (arba) kredito pervedimai, įskaitant periodinius pervedimus;
+
+
+
+
+4) mokėjimo operacijos, kai mokėjimo paslaugų vartotojui lėšos suteiktos pagal kredito liniją: tiesioginio debeto pervedimai, įskaitant vienkartinius tiesioginio debeto pervedimus, mokėjimo operacijos naudojantis mokėjimo kortele arba panašia priemone ir (arba) kredito pervedimai, įskaitant periodinius pervedimus;
+
+
+
+
+5) mokėjimo priemonių išdavimas ir (arba) priėmimas;
+
+
+
+
+6) pinigų perlaidos;
+
+
+
+
+7) mokėjimo operacijos, kai mokėtojo sutikimas vykdyti mokėjimo operaciją duodamas naudojant telekomunikacijų galinį įrenginį, skaitmeninį ar informacinių technologijų įrenginį ir mokėjimas atliekamas telekomunikacijų tinklo arba informacinių technologijų sistemos operatoriui, kuris yra tik tarpininkas tarp prekių tiekėjo ar paslaugų teikėjo ir mokėjimo paslaugų vartotojo.
+ 
+
+
+
+
+
+
+
+
+6 straipsnis. Mokėjimo paslaugų teikėjai
+
+
+Mokėjimo paslaugų teikėjai yra:
+
+
+1) kredito įstaigos;
+
+
+
+
+2) mokėjimo įstaigos;
+
+
+
+
+3) pašto pinigų persiuntimo sistemų (žiro) įstaigos, įstatymų nustatyta tvarka turinčios teisę teikti mokėjimo paslaugas;
+
+
+
+
+4) Europos centrinis bankas ir valstybių narių centriniai bankai, kai jie teikia mokėjimo paslaugas, nesusijusias su jų, kaip pinigų ar valstybės institucijų, funkcijomis;
+
+
+
+
+5) valstybių narių valstybės, regionų ir savivaldybių institucijos, kai jos teikia mokėjimo paslaugas, nesusijusias su jų, kaip valstybės, regionų ar savivaldybių institucijų, funkcijomis.
+ 
+
+
+
+
+
+
+
+
+7 straipsnis. Draudimas ne mokėjimo paslaugų teikėjams teikti mokėjimo paslaugas
+
+
+1. Fiziniams arba juridiniams asmenims, kurie nėra mokėjimo paslaugų teikėjai, draudžiama teikti šio įstatymo 5 straipsnyje nustatytas mokėjimo paslaugas.
+
+
+
+
+2. Šio įstatymo 6 straipsnio 3, 4 ir 5 punktuose nurodyti mokėjimo paslaugų teikėjai turi teisę teikti mokėjimo paslaugas be licencijos, suteikiančios teisę teikti mokėjimo paslaugas.
+ 
+
+
+
+
+
+
+8 straipsnis. Teisė naudotis mokėjimo sistemomis
+
+
+1. Teisę naudotis mokėjimo sistemomis turi visi licenciją turintys mokėjimo paslaugų teikėjai. Mokėjimo sistemų taisyklėse, reglamentuojančiose mokėjimo paslaugų teikėjų teisę naudotis mokėjimo sistemomis:
+
+
+1) nustatyti naudojimosi mokėjimo sistemomis reikalavimai turi būti objektyvūs ir nešališki, kad nebūtų varžoma tam tikros mokėjimo paslaugų teikėjų grupės teisė naudotis mokėjimo sistemomis;
+
+
+
+
+2) negali būti diskriminuojama viena mokėjimo paslaugų teikėjų grupė kitų mokėjimo paslaugų teikėjų atžvilgiu, numatant skirtingą teisę ir sąlygas naudotis mokėjimo sistemomis;
+
+
+
+
+3) nustatyti naudojimosi mokėjimo sistemomis reikalavimai turi būti proporcingi ir juose negali būti nuostatų, varžančių mokėjimo paslaugų teikėjų teisę naudotis mokėjimo sistemomis daugiau, negu būtina apsisaugoti nuo konkrečių rizikų (pavyzdžiui, atsiskaitymo, operacinės, veiklos rizikos) ir užtikrinti mokėjimo sistemos finansinį ir veiklos stabilumą.
+
+
+
+
+
+
+2. Mokėjimo sistemos taisyklėse mokėjimo paslaugų teikėjams, mokėjimo paslaugų vartotojams ar kitoms mokėjimo sistemoms negali būti nustatyta:
+
+
+1) apribojimų veiksmingai dalyvauti kitose mokėjimo sistemose;
+
+
+
+
+2) mokėjimo sistemų dalyvių teisių, pareigų ir teisių į turtą taisyklių, diskriminuojančių leidimą turinčius mokėjimo paslaugų teikėjus;
+
+
+
+
+3) apribojimų remiantis mokėjimo paslaugų teikėjo teisine forma.
+
+
+
+
+
+
+3. Šio straipsnio 1 ir 2 dalys netaikomos:
+
+
+1) Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatyme nustatytoms mokėjimo sistemoms;
+
+
+
+
+2) mokėjimo sistemoms, kuriose dalyvauja tik kapitalu susieti mokėjimo paslaugų teikėjai ir kiti subjektai, kai vienas iš susietų subjektų vykdo kito susieto subjekto kontrolę;
+
+
+
+
+3) mokėjimo sistemoms, kai vienintelis mokėjimo paslaugų teikėjas, veikdamas atskirai ar kaip grupė, veikia arba gali veikti kaip mokėjimo paslaugų teikėjas mokėtojui ir gavėjui ir yra išimtinai atsakingas už sistemos valdymą ir kai tas mokėjimo paslaugų teikėjas duoda leidimą kitiems mokėjimo paslaugų teikėjams dalyvauti sistemoje, o pastarieji neturi teisės derėtis dėl dalyvavimo mokėjimo sistemoje įkainių, nors jie gali nustatyti savo komisinį atlyginimą, taikomą mokėtojui ir gavėjui.
+ 
+
+
+
+
+
+
+
+
+9 straipsnis. Komisinio atlyginimo taikymo ypatumai
+
+
+1. Mokėjimo paslaugų teikėjas negali iš mokėjimo paslaugų vartotojo imti komisinio atlyginimo už informacijos pateikimą pagal šio įstatymo III skyrių. Mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti dėl komisinio atlyginimo už mokėjimo paslaugų vartotojo prašymu teikiamą papildomą ar dažnesnį informavimą arba už informacijos perdavimą kitomis ryšio priemonėmis, negu nurodytos bendrojoje sutartyje. Tokiu atveju komisinis atlyginimas turi būti pagrįstas ir atitikti mokėjimo paslaugų teikėjo išlaidas.
+
+
+
+
+2. Mokėjimo paslaugų teikėjas negali iš mokėjimo paslaugų vartotojo imti komisinio atlyginimo už informavimo pareigų vykdymą ar taisomąsias ir prevencines priemones pagal šio įstatymo IV, V ir VI skyrius, išskyrus atvejus, numatytus šio įstatymo 33 straipsnio 2 dalyje, 34 straipsnio 4 dalyje ir 40 straipsnio 2 dalyje. Tokiais atvejais mokėjimo paslaugų vartotojas ir mokėjimo paslaugų teikėjas turi susitarti dėl komisinio atlyginimo, kuris turi būti pagrįstas ir atitikti mokėjimo paslaugų teikėjo išlaidas.
+
+
+
+
+3. Jeigu vykdant mokėjimo operaciją valiuta nėra keičiama, gavėjas moka jo mokėjimo paslaugų teikėjo nustatytą komisinį atlyginimą, o mokėtojas moka jo mokėjimo paslaugų teikėjo nustatytą komisinį atlyginimą.
+
+
+
+
+4. Mokėjimo paslaugų teikėjas negali gavėjui trukdyti mokėtojui siūlyti nuolaidą, siekiančiam naudoti tam tikrą mokėjimo priemonę. Tačiau gavėjui draudžiama reikalauti iš mokėtojo atlyginimo už tam tikros mokėjimo priemonės naudojimą.
+
+
+
+
+5. Mokėtojo mokėjimo paslaugų teikėjas negali imti komisinio atlyginimo už tai, kad kredito pervedimui įvykdyti mokėtojas pateikia mokėjimo paslaugų teikėjui grynuosius pinigus.
+ 
+
+
+
+
+
+
+
+
+III SKYRIUS
+Mokėjimo paslaugų TEIKIMO SĄLYGOS IR INFORMAVIMO REIKALAVIMAI
+ 
+
+
+PIRMASIS SKIRSNIS
+BENDROJI SUTARTIS
+ 
+
+
+10 straipsnis. Mokėjimo paslaugų sąlygos
+
+
+1. Iki bendrosios sutarties sudarymo arba prieš pateikdamas pasiūlymą sudaryti tokią sutartį, mokėjimo paslaugų teikėjas mokėjimo paslaugų vartotojui raštu arba naudodamas kitą patvariąją laikmeną nurodo mokėjimo paslaugų teikimo sąlygas. Mokėjimo paslaugų teikimo sąlygos mokėjimo paslaugų vartotojui turi būti pateikiamos prieš protingą laikotarpį, pakankamą susipažinti ir įvertinti pateiktą informaciją, iki mokėjimo paslaugų vartotojas taps įpareigotas laikytis mokėjimo paslaugų teikimo sąlygų. Mokėjimo paslaugų teikimo sąlygos išdėstomos lietuvių kalba, lengvai suprantamais žodžiais, aiškia ir suprantama forma. Šios sąlygos pateikiamos papildomai ir kita kalba, jei dėl to susitarė mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas.
+
+
+
+
+2. Mokėjimo paslaugų teikimo sąlygose apie mokėjimo paslaugų teikėją turi būti nurodyta:
+
+
+1) mokėjimo paslaugų teikėjo pavadinimas, jo buveinės adresas ir jo filialo, įsteigto valstybėje narėje, kurioje siūloma mokėjimo paslauga, ar tarpininko adresas, taip pat kiti adresai, įskaitant elektroninio pašto adresą, kuriais galima susisiekti su mokėjimo paslaugų teikėju;
+
+
+
+
+2) priežiūros institucijų ir mokėjimo paslaugų teikėjo buveinės valstybės narės viešojo mokėjimo įstaigų sąrašo ar kito atitinkamo valstybės ir (arba) žinybinio registro, kuriame įregistruota mokėjimo paslaugų teikėjo veiklos licencija, duomenys ir registracijos numeris arba lygiavertės atpažinties tame registre priemonės.
+
+
+
+
+
+
+3. Mokėjimo paslaugų teikimo sąlygose dėl mokėjimo paslaugų naudojimo turi būti nurodyta:
+
+
+1) pagrindinės mokėjimo paslaugos savybės;
+
+
+
+
+2) tiksli informacija arba unikalus identifikatorius, kuriuos turi nurodyti mokėjimo paslaugų vartotojas, kad mokėjimo nurodymas būtų tinkamai įvykdytas;
+
+
+
+
+3) mokėtojo sutikimo įvykdyti mokėjimo operaciją davimo ir tokio sutikimo panaikinimo forma ir procedūra;
+
+
+
+
+4) laikas, kada laikoma, kad mokėjimo paslaugų teikėjas gavo mokėjimo nurodymą, taip pat laikas, po kurio mokėjimo paslaugų teikėjo gautas mokėjimo nurodymas būtų laikomas gautu kitą mokėjimo paslaugų teikėjo darbo dieną (jei toks laikas nustatomas);
+
+
+
+
+5) ilgiausia teikiamos mokėjimo paslaugos įvykdymo trukmė;
+
+
+
+
+6) ar galima susitarti dėl mokėjimo operacijų, vykdomų pagal mokėjimo priemonę, išlaidų limito.
+
+
+
+
+
+
+4. Mokėjimo paslaugų teikimo sąlygose dėl komisinio atlyginimo, palūkanų normos ir valiutos keitimo kurso turi būti nurodyta:
+
+
+1) mokėjimo paslaugų vartotojo mokėtinas komisinis atlyginimas ir kaip išskaidyta komisinio atlyginimo suma;
+
+
+
+
+2) taikoma palūkanų norma ir valiutos keitimo kursas. Tuo atveju, jeigu būtų taikoma pagrindinė palūkanų norma ir pagrindinis valiutos keitimo kursas, turi būti nurodytas faktinių palūkanų apskaičiavimo metodas ir pagrindinės palūkanų normos ar pagrindinio valiutos keitimo kurso nustatymo data ir indeksas ar pagrindas;
+
+
+
+
+3) kad bus nedelsiant taikoma pasikeitusi pagrindinė palūkanų norma ar pagrindinis valiutos keitimo kursas ir informuojama apie šiuos pasikeitimus. Tokia nuostata kartu su mokėjimo paslaugų teikimo sąlygomis nurodoma tik tada, jei mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas susitarė, kad pasikeitusi pagrindinė palūkanų norma ar pagrindinis valiutos keitimo kursas taikomi nedelsiant.
+
+
+
+
+
+
+5. Mokėjimo paslaugų teikimo sąlygose dėl bendravimo tarp mokėjimo paslaugų teikėjo ir mokėjimo paslaugų vartotojo turi būti nurodyta:
+
+
+1) ryšio priemonės, įskaitant techninius reikalavimus atitinkančią mokėjimo paslaugų vartotojo įrangą, kurias mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas susitaria naudoti informacijai ar pranešimams perduoti;
+
+
+
+
+2) informacijos teikimo arba sąlygų susipažinti su ja sudarymo būdas ir dažnumas;
+
+
+
+
+3) kalba ar kelios kalbos, kuria (kuriomis) bus sudaroma bendroji sutartis ir siunčiami pranešimai;
+
+
+
+
+4) mokėjimo paslaugų vartotojo teisė raštu arba naudojant kitą patvariąją laikmeną gauti informaciją apie bendrosios sutarties ir mokėjimo paslaugų teikimo sąlygas.
+
+
+
+
+
+
+6. Mokėjimo paslaugų teikimo sąlygose dėl apsaugos ir taisomųjų priemonių turi būti nurodyta:
+
+
+1) veiksmai, kurių privalu imtis mokėjimo paslaugų vartotojui, kad būtų apsaugota mokėjimo priemonė, ir mokėjimo paslaugų teikėjo informavimo apie mokėjimo priemonės praradimą, vagystę arba neteisėtą įgijimą ar neautorizuotą jos naudojimą būdas;
+
+
+
+
+2) sąlygos, kuriomis mokėjimo paslaugų teikėjas pasilieka teisę blokuoti mokėjimo priemonę, kaip tai nustatyta šio įstatymo 24 straipsnyje. Blokuoti mokėjimo priemonę galima tik tuo atveju, kai yra mokėjimo paslaugų teikėjo ir mokėjimo paslaugų vartotojo susitarimas;
+
+
+
+
+3) mokėtojo atsakomybė už neautorizuotą mokėjimo priemonės naudojimą, įskaitant informavimą apie mokėtojui tenkančią nuostolių sumą;
+
+
+
+
+4) kaip ir per kokį terminą mokėjimo paslaugų vartotojas turi pranešti mokėjimo paslaugų teikėjui apie neautorizuotą ar netinkamai įvykdytą mokėjimo operaciją, taip pat mokėjimo paslaugų teikėjo atsakomybė už neautorizuotas mokėjimo operacijas;
+
+
+
+
+5) mokėjimo paslaugų teikėjo atsakomybė už tinkamą mokėjimo operacijų įvykdymą;
+
+
+
+
+6) gavėjo ar per gavėją inicijuotų mokėjimo operacijų sumų grąžinimo mokėtojui sąlygos.
+
+
+
+
+
+
+7. Mokėjimo paslaugų teikimo sąlygose dėl bendrosios sutarties pakeitimų ir nutraukimo turi būti nurodyta:
+
+
+1) kad laikoma, jog mokėjimo paslaugų vartotojas sutinka su bendrosios sutarties sąlygų pakeitimais, jeigu jis iki siūlomos pakeitimų įsigaliojimo dienos mokėjimo paslaugų teikėjui nepraneša, kad su pakeitimais nesutinka. Tokia nuostata kartu su mokėjimo paslaugų teikimo sąlygomis nurodoma tik tada, jeigu šią nuostatą taikyti susitarė mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas;
+
+
+
+
+2) bendrosios sutarties galiojimo terminas;
+
+
+
+
+3) mokėjimo paslaugų vartotojo teisė nutraukti bendrąją sutartį ir bendrosios sutarties nutraukimo sąlygos.
+
+
+
+
+
+
+8. Mokėjimo paslaugų teikimo sąlygose dėl teisių gynimo turi būti nurodyta:
+
+
+1) sutartinė nuostata dėl bendrajai sutarčiai taikytinos teisės ir (arba) jurisdikcijos;
+
+
+
+
+2) ginčų sprendimo ir teisių gynimo ne teismo tvarka procedūros, kuriomis gali naudotis mokėjimo paslaugų vartotojas.
+
+
+
+
+
+
+9. Jeigu bendroji sutartis mokėjimo paslaugų vartotojo prašymu sudaroma naudojant nuotolinio ryšio priemones, kuriomis mokėjimo paslaugų teikėjui nesudaroma galimybė laikytis šio straipsnio 1 dalyje nustatytų pareigų, mokėjimo paslaugų teikėjas įvykdo šias pareigas iš karto po bendrosios sutarties sudarymo.
+
+
+
+
+10. Šio straipsnio 1 dalyje nustatytos pareigos taip pat gali būti įvykdytos pateikus bendrosios sutarties projektą, kuriame pateikiama šio straipsnio 2–8 dalyse nurodyta informacija.
+ 
+
+
+
+
+
+
+11 straipsnis. Informacijos ir bendrųjų sutarties sąlygų prieinamumas
+
+
+Esant sutartiniams santykiams, mokėjimo paslaugų vartotojas turi teisę bet kada, pateikęs prašymą, papildomai gauti informaciją apie bendrojoje sutartyje nustatytas sąlygas ir šio įstatymo 10 straipsnyje nustatytą informaciją raštu ar naudojant kitą patvariąją laikmeną.
+ 
+
+
+
+
+
+
+12 straipsnis. Bendrosios sutarties pakeitimai ir nutraukimas
+
+
+1. Mokėjimo paslaugų teikėjas bendrosios sutarties ir (arba) šio įstatymo 10 straipsnyje nurodytų sąlygų pakeitimus siūlo raštu arba naudodamas kitą patvariąją laikmeną ne vėliau kaip likus šešiasdešimt kalendorinių dienų iki pakeitimų įsigaliojimo dienos. Kai taikomas šio įstatymo 10 straipsnio 7 dalies 1 punktas, mokėjimo paslaugų teikėjas bendrojoje sutartyje nustatytu būdu praneša mokėjimo paslaugų vartotojui, kad laikoma, jog mokėjimo paslaugų vartotojas sutinka su šiais pakeitimais, jeigu jis iki pakeitimų įsigaliojimo dienos mokėjimo paslaugų teikėjui nepraneša, kad su jais nesutinka. Šiuo atveju mokėjimo paslaugų teikėjas nurodo, kad mokėjimo paslaugų vartotojas turi teisę nedelsdamas ir nemokėdamas jokio komisinio atlyginimo nutraukti bendrąją sutartį iki dienos, kurią bus pradėti taikyti pakeitimai. Jeigu mokėjimo paslaugų vartotojas nepasinaudoja teise nutraukti bendrąją sutartį iki pakeitimų įsigaliojimo, laikoma, kad mokėjimo paslaugų vartotojas sutinka su bendrosios sutarties pakeitimais.
+
+
+
+
+2. Palūkanų normos ar valiutos keitimo kurso pakeitimai taikomi nedelsiant ir be atskiro įspėjimo, jei taip numatyta bendrojoje sutartyje ir jei pakeitimai yra susiję su sutarta pagrindine palūkanų norma ar pagrindiniu valiutos keitimo kursu. Mokėjimo paslaugų vartotojas informuojamas raštu arba naudojant kitą patvariąją laikmeną apie bet kokį palūkanų normos pakeitimą kaip įmanoma greičiau, išskyrus atvejus, kai mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas susitaria dėl konkretaus informacijos pateikimo ar sąlygų su ja susipažinti sudarymo būdo ar dažnumo. Palūkanų normos ar valiutos keitimo kurso pakeitimai, kurie yra palankesni mokėjimo paslaugų vartotojui, gali būti taikomi be įspėjimo.
+
+
+
+
+3. Mokėjimo operacijoms taikomos palūkanų normos ar valiutos keitimo kurso pakeitimai atliekami ir apskaičiuojami nešališkai, nediskriminuojant mokėjimo paslaugų vartotojų.
+
+
+
+
+4. Mokėjimo paslaugų vartotojas gali nutraukti bendrąją sutartį bet kuriuo metu, išskyrus atvejus, kai mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas susitaria dėl įspėjimo pateikimo termino. Šis terminas negali būti ilgesnis negu trisdešimt kalendorių dienų iki bendrosios sutarties nutraukimo.
+
+
+
+
+5. Mokėjimo paslaugų vartotojas, nutraukdamas ilgesniam negu 12 mėnesių ar neapibrėžtam terminui sudarytą bendrąją sutartį, praėjus 12 mėnesių nuo sutarties sudarymo, nemoka jokio komisinio atlyginimo. Visais kitais atvejais komisinis atlyginimas už sutarties nutraukimą turi būti pagrįstas ir atitikti mokėjimo paslaugų teikėjo išlaidas.
+
+
+
+
+6. Jeigu tai numatyta bendrojoje sutartyje, mokėjimo paslaugų teikėjas gali nutraukti neapibrėžtam terminui sudarytą bendrąją sutartį, pranešimą apie nutraukimą pateikdamas raštu arba naudodamas kitą patvariąją laikmeną, ne vėliau kaip prieš šešiasdešimt kalendorinių dienų iki bendrosios sutarties nutraukimo.
+
+
+
+
+7. Reguliariai už mokėjimo paslaugas imamą komisinį atlyginimą mokėjimo paslaugų vartotojas moka proporcingai iki bendrosios sutarties nutraukimo dienos. Jei komisinis atlyginimas buvo sumokėtas iš anksto, jis proporcingai grąžinamas.
+ 
+
+
+
+
+
+
+13 straipsnis. Informacija prieš vykdant atskirą mokėjimo operaciją
+
+
+Mokėjimo paslaugų teikėjas iki mokėtojo pagal bendrąją sutartį inicijuotos atskiros mokėjimo operacijos vykdymo pradžios mokėtojo prašymu privalo suteikti informaciją apie ilgiausią tos mokėjimo operacijos vykdymo laiką, mokėtiną komisinį atlyginimą ir kaip išskaidyta komisinio atlyginimo suma.
+ 
+
+
+
+
+
+
+14 straipsnis. Mokėtojui teikiama informacija apie atskiras mokėjimo operacijas
+
+
+1. Nurašęs atskiros mokėjimo operacijos sumą iš mokėtojo sąskaitos arba, kai mokėtojas nenaudoja mokėjimo sąskaitos, gavęs mokėjimo nurodymą, mokėtojo mokėjimo paslaugų teikėjas mokėtojui nedelsdamas raštu arba naudodamas kitą patvariąją laikmeną:
+
+
+1) pateikia informaciją, leidžiančią mokėtojui atpažinti kiekvieną mokėjimo operaciją ir su gavėju susijusią informaciją;
+
+
+
+
+2) nurodo mokėjimo operacijos sumą valiuta, kuria suma nurašoma iš mokėtojo mokėjimo sąskaitos arba mokėjimo nurodyme nurodyta valiuta;
+
+
+
+
+3) nurodo komisinio atlyginimo už mokėjimo operaciją sumą ir kaip išskaidyta komisinio atlyginimo suma arba mokėtojo mokamas palūkanas;
+
+
+
+
+4) nurodo mokėtojo mokėjimo paslaugų teikėjo taikytą valiutos keitimo kursą ir mokėjimo operacijos sumą po valiutos keitimo, jeigu vykdant mokėjimo operaciją buvo keičiama valiuta;
+
+
+
+
+5) nurodo nurašymo iš sąskaitos datą arba mokėjimo nurodymo gavimo datą.
+
+
+
+
+
+
+2. Bendrojoje sutartyje gali būti nustatyta, kad šio straipsnio 1 dalyje nurodyta informacija turi būti pateikta ar sąlygos su ja susipažinti sudaromos reguliariai, ne rečiau kaip kartą per mėnesį, ir sutartu būdu, kad mokėtojas galėtų saugoti ir atkurti nepakitusią informaciją.
+ 
+
+
+
+
+
+
+15 straipsnis. Gavėjui teikiama informacija apie atskiras mokėjimo operacijas
+
+
+1. Įvykdęs mokėjimo operaciją, gavėjo mokėjimo paslaugų teikėjas gavėjui nedelsdamas raštu arba naudodamas kitą patvariąją laikmeną:
+
+
+1) pateikia informaciją, leidžiančią gavėjui atpažinti mokėjimo operaciją ir mokėtoją, taip pat kartu su mokėjimo operacija persiųstus duomenis;
+
+
+
+
+2) nurodo mokėjimo operacijos sumą ta valiuta, kuria suma įskaitoma į gavėjo mokėjimo sąskaitą;
+
+
+
+
+3) nurodo komisinio atlyginimo už mokėjimo operaciją sumą ir kaip išskaidyta komisinio atlyginimo suma arba gavėjo mokamas palūkanas;
+
+
+
+
+4) nurodo gavėjo mokėjimo paslaugų teikėjo taikytą valiutos keitimo kursą ir mokėjimo operacijos sumą iki valiutos keitimo, jeigu vykdant mokėjimo operaciją buvo keičiama valiuta;
+
+
+
+
+5) nurodo įskaitymo datą.
+
+
+
+
+
+
+2. Bendrojoje sutartyje gali būti nustatyta, kad šio straipsnio 1 dalyje nurodyta informacija turi būti pateikta arba sąlygos su ja susipažinti sudaromos reguliariai, ne rečiau kaip kartą per mėnesį, ir sutartu būdu, kad gavėjas galėtų saugoti ir atkurti nepakitusią informaciją.
  
 
 
@@ -254,29 +965,14 @@ Nr. X-1351, 2007-12-05, Žin., 2007, Nr. 132-5355 (2007-12-15), i. k. 1071010IST
 
 
 ANTRASIS SKIRSNIS
-KREDITO IR DEBETO PERVEDIMŲ ATLIKIMAS 
+VIENKARTINĖS MOKĖJIMO OPERACIJOS
  
 
 
-5 straipsnis. Mokėjimo nurodymų vykdymo bendrosios sąlygos
+16 straipsnis. Bendrosios informavimo reikalavimų sąlygos
 
 
-1. Kredito įstaigos vykdo klientų mokėjimo nurodymus kredito ir debeto pervedimus atlikti kliento ir kredito įstaigos banko sąskaitos sutartyje ir (ar) kredito įstaigos veiklos taisyklėse nustatytomis sąlygomis. Banko sąskaitos sutartyje ir kredito įstaigos veiklos taisyklėse negali būti sąlygų, kurios pablogintų kliento padėtį, palyginti su ta, kurią nustato šis Įstatymas.
-
-
-
-
-2. Kredito įstaigos bendru susitarimu gali patvirtinti mokėjimo nurodymų vykdymo tarp kredito įstaigų Lietuvos Respublikoje tvarką, tačiau ši tvarka negali sumažinti šiame Įstatymo skirsnyje nustatytų kredito įstaigų įsipareigojimų klientams. 
-
-
-
-
-3. Būtini mokėjimo nurodymo turinio rekvizitai: lėšų suma, jos mokėtojas ir gavėjas bei mokėtojo ir gavėjo sąskaitos kredito įstaigoje. Kai mokėtojas įmoka į mokėtojo kredito įstaigą grynuosius pinigus, jo sąskaita mokėjimo nurodyme nenurodoma. Kredito įstaigos bendru susitarimu gali nustatyti ir kitus Lietuvos Respublikoje naudojamų mokėjimo nurodymų turinio rekvizitus, o raštu sudaromiems mokėjimo nurodymams gali nustatyti vienodą formą. Mokėjimo nurodymo forma ir turinys turi atitikti šio Įstatymo ir kredito įstaigų veiklos taisyklių nustatytus reikalavimus. 
-
-
-
-
-4. Žemės ūkio produkcijos pirkėjų mokėjimo nurodymuose, be šio straipsnio 3 dalyje išvardytų rekvizitų, nurodomi ir Atsiskaitymo už žemės ūkio produkciją įstatyme nustatyti rekvizitai.
+Kai mokėjimo nurodymas įvykdyti vienkartinę mokėjimo operaciją perduodamas naudojant bendrojoje sutartyje numatytą mokėjimo priemonę, mokėjimo paslaugų teikėjas neprivalo pateikti tos informacijos arba sudaryti sąlygų susipažinti su ta informacija, kuri mokėjimo paslaugų vartotojui jau pateikta remiantis su kitu mokėjimo paslaugų teikėju sudaryta bendrąja sutartimi arba kuri jam bus pateikta pagal tą bendrąją sutartį.
  
 
 
@@ -284,75 +980,50 @@ KREDITO IR DEBETO PERVEDIMŲ ATLIKIMAS
 
 
 
-6 straipsnis. Informavimas apie mokėjimo nurodymų vykdymą 
+17 straipsnis. Vienkartinių mokėjimo operacijų vykdymo sąlygos
 
 
-1. Kredito įstaigos savo klientams privalo sudaryti sąlygas susipažinti su raštu išdėstytomis aiškiomis ir lengvai suprantamomis mokėjimo nurodymų vykdymo sąlygomis, o jei yra galimybė, skelbti jas elektroninėmis ryšio priemonėmis. Šiose sąlygose turi būti nurodyta: 
-
-
-1) už mokėjimo nurodymo vykdymą kliento mokėtinas komisinis atlyginimas arba jo apskaičiavimo metodas ir mokėjimo būdas; 
+1. Iki vienkartinio mokėjimo sutarties sudarymo arba prieš pateikdamas pasiūlymą sudaryti tokią sutartį, mokėjimo paslaugų teikėjas mokėjimo paslaugų vartotojui sudaro galimybę lengvai prieinamu būdu susipažinti su šių paslaugų teikimo sąlygomis. Mokėjimo paslaugų vartotojo prašymu mokėjimo paslaugų teikėjas vienkartinių mokėjimo operacijų vykdymo sąlygas nurodo raštu arba naudodamas kitą patvariąją laikmeną. Vienkartinių mokėjimo operacijų vykdymo sąlygos išdėstomos lietuvių kalba, lengvai suprantamais žodžiais, aiškia ir suprantama forma. Šios sąlygos pateikiamos papildomai ir kita kalba, jei dėl to susitarė mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas.
 
 
 
 
-2) terminas, per kurį turi būti įvykdytas mokėtojo mokėjimo nurodymas, ir konkreti termino pradžia;
+2. Vienkartinių mokėjimo operacijų vykdymo sąlygose turi būti nurodyta:
+
+
+1) tiksli informacija arba unikalus identifikatorius, kuriuos turi nurodyti mokėjimo paslaugų vartotojas, kad mokėjimo nurodymas būtų tinkamai įvykdytas;
 
 
 
 
-3) terminas, per kurį gavėjo kredito įstaiga pagal gavėjo nurodymą sudarytą mokėjimo nurodymą turi pateikti mokėtojo kredito įstaigai; 
+2) ilgiausia teikiamos mokėjimo paslaugos įvykdymo trukmė;
 
 
 
 
-4) terminas, per kurį gavėjo kredito įstaiga gautas lėšas turi įskaityti į gavėjo sąskaitą; 
+3) mokėjimo paslaugų vartotojo mokėtinas komisinis atlyginimas ir kaip išskaidyta komisinio atlyginimo suma;
 
 
 
 
-5) kuo remiantis nustatomas užsienio valiutos keitimo santykis, jeigu operacijos metu būtų keičiama valiuta; 
+4) taikytinas arba pagrindinis valiutos keitimo kursas, jei vykdant mokėjimo operaciją būtų keičiama valiuta;
 
 
 
 
-6) kokiais atvejais ir iki kada mokėtojas arba gavėjas gali pakeisti ar atšaukti mokėjimo nurodymą; 
-
-
-
-
-7) terminas, per kurį klientas gali pateikti skundą kredito įstaigai, taip pat žalos atlyginimo bei ginčų nagrinėjimo tvarka. 
+5) kitos mokėjimo paslaugų teikėjo siūlomos šio įstatymo 10 straipsnyje nurodytos mokėjimo paslaugų teikimo sąlygos.
 
 
 
 
 
 
-2. Kredito įstaigos apie įvykdytą mokėjimo nurodymą aiškiai ir lengvai suprantamai informuoja savo klientus raštu arba elektroninėmis ryšio priemonėmis, jei klientas raštu tokios informacijos neatsisako. Į šią informaciją įeina:
-
-
-1) nuoroda, leidžianti klientui atpažinti mokėjimo nurodymą;
+3. Jeigu vienkartinio mokėjimo sutartis mokėjimo paslaugų vartotojo prašymu sudaroma naudojant nuotolinio ryšio priemones, kuriomis mokėjimo paslaugų teikėjui nesudaroma galimybė laikytis šio straipsnio 1 dalyje nustatytų pareigų, mokėjimo paslaugų teikėjas įvykdo šias pareigas iš karto po vienkartinės mokėjimo operacijos įvykdymo.
 
 
 
 
-2) mokėjimo nurodymo suma;
-
-
-
-
-3) komisinio atlyginimo suma;
-
-
-
-
-4) valiutos keitimo santykis, jeigu operacijos metu buvo keičiama valiuta. 
-
-
-
-
-
-
-3. Jeigu mokėtojas į mokėtojo kredito įstaigą įmoka grynuosius pinigus, šio straipsnio 2 dalyje nurodytą informaciją kredito įstaigos teikia kliento pareikalavimu.
+4. Šio straipsnio 1 dalyje nustatytos pareigos taip pat gali būti įvykdytos pateikus vienkartinio mokėjimo sutarties projektą ar mokėjimo nurodymo ruošinį, kuriuose nurodomos mokėjimo paslaugų teikimo sąlygos.
  
 
 
@@ -360,63 +1031,40 @@ KREDITO IR DEBETO PERVEDIMŲ ATLIKIMAS
 
 
 
-7 straipsnis. Kredito įstaigų ir klientų pareigos vykdant mokėjimo nurodymus
+18 straipsnis. Mokėtojui teikiama informacija po mokėjimo nurodymo gavimo
 
 
-1. Kredito įstaigos ir klientai privalo laikytis autentiškumo patvirtinimo procedūros. 
+1. Gavęs mokėjimo nurodymą, mokėtojo mokėjimo paslaugų teikėjas mokėtojui nedelsdamas sudaro galimybę lengvai prieinamu būdu susipažinti su:
 
 
-
-
-2. Jeigu mokėjimo nurodymo, mokėjimo nurodymo pakeitimo, mokėjimo nurodymo atšaukimo autentiškumas patikrintas remiantis autentiškumo patvirtinimo procedūra, laikoma, kad nurodymą pateikė klientas. 
-
-
-
-
-3. Šio straipsnio 2 dalis netaikoma, jeigu klientas įrodo, kad kredito įstaigos gautą mokėjimo nurodymą, mokėjimo nurodymo pakeitimą, mokėjimo nurodymo atšaukimą pateikė kitas asmuo, o ne:
-
-
-1) dabartinis kliento darbuotojas;
+1) informacija, leidžiančia mokėtojui atpažinti mokėjimo operaciją, ir su gavėju susijusia informacija;
 
 
 
 
-2) asmuo, kurio santykiai su klientu suteikė jam galimybę pasinaudoti autentiškumo procedūra.
+2) mokėjimo operacijos suma mokėjimo nurodyme nurodyta valiuta;
+
+
+
+
+3) už mokėjimo operaciją mokėtojo mokamo komisinio atlyginimo suma ir kaip išskaidyta komisinio atlyginimo suma;
+
+
+
+
+4) mokėtojo mokėjimo paslaugų teikėjo taikytu valiutos keitimo kursu arba nuoroda į jį ir mokėjimo operacijos suma po valiutos keitimo, jeigu vykdant mokėjimo operaciją buvo keičiama valiuta;
+
+
+
+
+5) mokėjimo nurodymo gavimo data.
 
 
 
 
 
 
-4. Kai kredito įstaiga įrodo, kad dėl kliento kaltės autentiškumo patvirtinimo procedūra pasinaudojo tokios teisės neturintis asmuo, kredito įstaigos gautas mokėjimo nurodymas, mokėjimo nurodymo pakeitimas, mokėjimo nurodymo atšaukimas laikomi kliento pateiktais ir šio straipsnio 3 dalis nėra taikoma.
-
-
-
-
-5. Mokėjimo nurodymo pateikėjas atsako už kredito įstaigai pateikto mokėjimo nurodymo rekvizitų teisingumą. Jeigu kredito įstaiga ir klientas susitarė dėl klaidų mokėjimo nurodymo rekvizituose nustatymo procedūros ir kredito įstaiga pagal šią procedūrą privalėjo nustatyti klaidas mokėjimo nurodymo rekvizituose, kredito įstaiga atsako už klaidingo mokėjimo nurodymo įvykdymo padarinius.
-
-
-
-
-6. Mokėtojas įsipareigoja pateikti mokėtojo kredito įstaigai finansinį padengimą mokėjimo nurodymui įvykdyti ne vėliau kaip mokėjimo nurodyme nurodytą mokėjimo nurodymo įvykdymo datą.
-
-
-
-
-7. Atsiskaitymo už žemės ūkio produkciją įstatyme nustatytu atveju žemės ūkio produkcijos pardavėjo pateiktas mokėjimo nurodymas įvykdyti debeto pervedimą priimamas, nors mokėtojo sąskaitoje ir nėra pakankamai lėšų. 
-Straipsnio dalies pakeitimai:
-Nr. IX-2404, 2004-07-15, Žin., 2004, Nr. 116-4336 (2004-07-27), i. k. 1041010ISTA0IX-2404
- 
-
-
-
-
-8. Mokėtojo kredito įstaiga negali imti atlyginimo už tai, kad mokėjimo nurodymui įvykdyti mokėtojas įmoka grynuosius pinigus. 
-
-
-
-
-9. Mokėtojo kredito įstaiga negali išskaičiuoti komisinio atlyginimo už mokėjimo nurodymo vykdymą iš mokėjimo nurodymo sumos. Jeigu mokėtojo kredito įstaiga pažeidė šį reikalavimą, ji mokėtojo reikalavimu privalo pervesti visą išskaičiuotą sumą gavėjui, jeigu mokėtojas nepareikalauja, kad ta suma būtų perduota jam arba įskaityta į jo sąskaitą.
+2. Mokėtojo prašymu šio straipsnio 1 dalyje nurodyta informacija jam turi būti pateikta raštu ar naudojant kitą patvariąją laikmeną.
  
 
 
@@ -424,159 +1072,40 @@ Nr. IX-2404, 2004-07-15, Žin., 2004, Nr. 116-4336 (2004-07-27), i. k. 1041010IS
 
 
 
-8 straipsnis. Mokėjimo nurodymo priėmimas arba atmetimas
+19 straipsnis. Gavėjui teikiama informacija po mokėjimo operacijos įvykdymo
 
 
-1. Atlikdama debeto pervedimus, gavėjo kredito įstaiga, gavusi gavėjo mokėjimo nurodymą, privalo įsitikinti, ar mokėjimo nurodymas turi visus būtinus rekvizitus, ar įvykdytos kitos gavėjo kredito įstaigos sąlygos, jeigu jos yra nustatytos.
+1. Po mokėjimo operacijos įvykdymo gavėjo mokėjimo paslaugų teikėjas gavėjui nedelsdamas sudaro galimybę lengvai prieinamu būdu susipažinti su:
 
 
+1) informacija, leidžiančia gavėjui atpažinti mokėjimo operaciją ir mokėtoją, taip pat kartu su mokėjimo operacija persiųstais duomenimis;
 
 
-2. Atlikdama debeto pervedimus, gavėjo kredito įstaiga, jeigu gavėjo ir mokėtojo kredito įstaigos nesutampa, gautą gavėjo mokėjimo nurodymą privalo pateikti mokėtojo kredito įstaigai gavėjo kredito įstaigos ir gavėjo sutartais terminais. Gavėjo kredito įstaiga gali įsipareigoti pranešti gavėjui, kad mokėjimo nurodymą gavo. 
 
 
+2) mokėjimo operacijos suma ta valiuta, kuria lėšos suteikiamos gavėjui;
 
 
-3. Atlikdama debeto pervedimus, gavėjo kredito įstaiga, kuri gavo gavėjo mokėjimo nurodymą, neatitinkantį šio straipsnio 1 dalyje nurodytų reikalavimų, privalo apie tai pranešti gavėjui ir nurodyti priežastį tą pačią banko darbo dieną, išskyrus atvejį, kai nepakanka turimos informacijos gavėjui atpažinti.
 
 
+3) už mokėjimo operaciją gavėjo mokamo komisinio atlyginimo suma ir kaip išskaidyta komisinio atlyginimo suma;
 
 
-4. Mokėtojo arba gavėjo mokėjimo nurodymas laikomas mokėtojo kredito įstaigos priimtu, kai mokėjimo nurodymas, gautas mokėtojo kredito įstaigos, turi visus rekvizitus, būtinus jį įvykdyti, mokėtojas pateikė finansinį padengimą (išskyrus šio Įstatymo 7 straipsnio 7 dalyje nustatytą atvejį) ir mokėtojo kredito įstaiga šio straipsnio 5 dalyje nustatyta tvarka nepranešė mokėjimo nurodymo pateikėjui, kad atsisako priimti mokėjimo nurodymą. Mokėtojo kredito įstaiga gali įsipareigoti pranešti mokėtojui apie mokėjimo nurodymo priėmimą. 
 
 
+4) gavėjo mokėjimo paslaugų teikėjo mokėjimo operacijai taikytu valiutos keitimo kursu ir mokėjimo operacijos suma iki valiutos keitimo, jeigu vykdant mokėjimo operaciją buvo keičiama valiuta;
 
 
-5. Mokėtojo kredito įstaiga, kuri atsisako priimti mokėjimo nurodymą, privalo su mokėjimo nurodymo pateikėju sutarta forma pranešti mokėjimo nurodymo pateikėjui apie mokėjimo nurodymo atmetimą ir nurodyti priežastį tą pačią banko darbo dieną, išskyrus atvejį, kai nepakanka turimos informacijos nurodymo pateikėjui atpažinti. 
 
 
+5) įskaitymo data.
 
 
-6. Mokėtojo kredito įstaiga, kuri gauna mokėjimo nurodymą vėliau negu toje kredito įstaigoje nustatytas laikas priimti tokius nurodymus, turi teisę laikyti, kad mokėjimo nurodymas gautas kitą banko darbo dieną. 
- 
 
 
 
 
-
-
-9 straipsnis. Mokėjimo nurodymo įvykdymas
-
-
-1. Mokėjimo nurodymas laikomas įvykdytu, kai kredito įstaiga įrašo lėšas į gavėjo sąskaitą, jeigu mokėtojo ir gavėjo kredito įstaiga yra ta pati. Jeigu mokėtojo ir gavėjo kredito įstaigos yra skirtingos, mokėjimo nurodymas laikomas įvykdytu, kai gavėjo kredito įstaiga pagal mokėjimo nurodymą gauna lėšas iš mokėtojo kredito įstaigos. 
-
-
-
-
-2. Įvykdžius mokėjimo nurodymą, pasibaigia mokėtojo mokėjimo nurodymo sumos dydžio piniginė prievolė gavėjui.                 
-
-
-
-
-3. Kredito įstaiga neatsako už mokėtojų ir gavėjų tarpusavio pretenzijas dėl atsiskaitymo prievolių, kai nėra kredito įstaigos kaltės.
- 
-
-
-
-
-
-
-10 straipsnis. Mokėjimo nurodymo įvykdymo terminai
-
-
-1. Mokėtojo kredito įstaiga, priėmusi mokėjimo nurodymą, turi jį įvykdyti tą pačią banko darbo dieną, jeigu mokėtojo ir gavėjo kredito įstaiga yra ta pati. Jeigu mokėtojo ir gavėjo kredito įstaigos skirtingos, mokėtojo kredito įstaiga, priėmusi mokėjimo nurodymą iki 12 valandos, turi jį įvykdyti tą pačią banko darbo dieną. Jeigu kredito įstaiga priėmė mokėjimo nurodymą po 12 valandos, jį privalo įvykdyti ne vėliau kaip kitą banko darbo dieną po mokėjimo nurodymo priėmimo. Jeigu mokėjimo nurodyme nurodyta vėlesnė jo vykdymo data, mokėjimo nurodymą kredito įstaiga privalo įvykdyti jame nurodytą banko darbo dieną.
-
-
-
-
-2. Šio straipsnio 1 dalyje nustatyti terminai netaikomi šio Įstatymo 7 straipsnio 7 dalyje nustatytu atveju tol, kol mokėtojas nepateikia finansinio padengimo.
-
-
-
-
-3. Gavėjo kredito įstaiga, jeigu mokėtojo ir gavėjo kredito įstaigos yra skirtingos, gavusi lėšas pagal mokėjimo nurodymą iš mokėtojo kredito įstaigos, privalo tą pačią banko darbo dieną įskaityti lėšas į gavėjo sąskaitą.
-
-
-
-
-4. Jeigu informacija (duomenys) apie gavėją yra netikslūs, klaidingi arba pateiktos informacijos nepakanka gavėjui atpažinti (nustatyti), gavėjo kredito įstaiga ne vėliau kaip kitą banko darbo dieną po pasibaigusio mokėjimo nurodymo vykdymo termino praneša apie tai mokėtojo kredito įstaigai. Jeigu mokėtojo kredito įstaiga per dvi banko darbo dienas nepatikslina gavėjo informacijos, gavėjo kredito įstaiga grąžina lėšas mokėtojo kredito įstaigai. Gavėjo kredito įstaiga, grąžindama lėšas mokėtojo kredito įstaigai, iš mokėjimo nurodymo sumos gali išskaičiuoti komisinį atlyginimą.
- 
-
-
-
-
-
-
-11 straipsnis. Mokėjimo nurodymo atšaukimas
-
-
-1. Mokėjimo nurodymą gali mokėjimo nurodymo pateikėjas atšaukti tiktai tuo atveju, kai:
-
-
-1) mokėtojo kredito įstaiga ir mokėjimo nurodymo pateikėjas susitarė, kad mokėtojo kredito įstaigos priimtas mokėjimo nurodymas gali būti atšauktas; ir
-
-
-
-
-2) mokėtojo kredito įstaiga gavo nurodymą mokėjimo nurodymą atšaukti iki mokėjimo nurodymo įvykdymo momento. 
-
-
-
-
-
-
-2. Jeigu mokėtojo kredito įstaiga naudojasi mokėjimo sistemos paslaugomis, į sistemą perduotų kredito įstaigos nurodymų atšaukimo tvarką nustato šios sistemos taisyklės.
-
-
-
-
-3. Atlikdama debeto pervedimus gavėjo kredito įstaiga, gavusi gavėjo nurodymą atšaukti mokėjimo nurodymą, privalo mokėtojo kredito įstaigai pateikti nurodymą atšaukti gavėjo mokėjimo nurodymą. 
-
-
-
-
-4. Mokėtojo kredito įstaiga, iki šio straipsnio 1 dalies 2 punkte nurodyto momento gavusi nurodymą mokėjimo nurodymą atšaukti, neturi teisės vykdyti mokėjimo pagal gautą mokėjimo nurodymą. Jeigu, nepaisant nurodymo mokėjimo nurodymą atšaukti, mokėjimo nurodymas įvykdomas, mokėtojo kredito įstaiga grąžina mokėtojui finansinio padengimo sumą, pateiktą mokėjimo nurodymui įvykdyti. Mokėtojo kredito įstaiga turi teisę reikalauti, kad gavėjas grąžintų įvykdyto mokėjimo nurodymo sumą.               
-
-
-
-
-5. Šiame straipsnyje numatytos taisyklės taikomos ir mokėjimo nurodymo pakeitimo atveju.
- 
-
-
-
-
-
-
-12 straipsnis. Mokėjimo nurodymo neįvykdymas, klaidingas įvykdymas arba įvykdymo uždelsimas
-
-
-1. Jeigu pasibaigus mokėjimo nurodymo įvykdymo terminui dėl mokėtojo kredito įstaigos nemokumo arba kitų priežasčių mokėtojo kredito įstaiga neįvykdo priimto mokėjimo nurodymo, ji privalo įskaityti į mokėtojo sąskaitą finansinio padengimo, pateikto mokėjimo nurodymui įvykdyti, sumą, palūkanas už laikotarpį nuo finansinio padengimo pateikimo kredito įstaigai dienos iki lėšų įskaitymo į mokėtojo sąskaitą dienos ir mokėtojo sumokėtą komisinį atlyginimą. 
-
-
-
-
-2. Jeigu mokėtojo kredito įstaigos įvykdyto mokėjimo nurodymo suma mažesnė už mokėtojo kredito įstaigos priimtą mokėjimo nurodymo sumą, mokėtojo kredito įstaiga privalo lėšų gavėjui sumokėti susidariusį skirtumą.
-
-
-
-
-3. Jeigu mokėjimo nurodymas įvykdomas, tačiau mokėtojo kredito įstaigos įvykdyto mokėjimo nurodymo suma yra didesnė už šios kredito įstaigos priimto mokėjimo nurodymo sumą, mokėtojo kredito įstaiga turi teisę reikalauti, kad lėšų gavėjas sumokėtų skirtumą.
-
-
-
-
-4. Jeigu mokėjimo nurodymas įvykdomas, tačiau mokėtojo kredito įstaiga laiku nevykdė šio Įstatymo 10 straipsnio 1 dalyje nurodytų įsipareigojimų, mokėtojo kredito įstaiga privalo už praleistą terminą mokėtojui sumokėti palūkanas. Palūkanos skaičiuojamos nuo mokėjimo nurodymo sumos už laikotarpį nuo banko darbo dienos, einančios po dienos, kurią mokėjimo nurodymas turėjo būti įvykdytas laikantis 10 straipsnio 1 dalyje nurodyto termino, iki mokėjimo nurodymo įvykdymo dienos. Jeigu termino praleidimas yra susijęs tik su dalimi mokėjimo nurodymo sumos, kredito įstaiga privalo sumokėti palūkanas tik už tą sumos dalį, kuri buvo pervesta praleidus terminą.
-
-
-
-
-5. Gavėjo kredito įstaiga, laiku neįvykdžiusi 10 straipsnio 2 dalyje nurodyto reikalavimo, privalo už praleistą terminą gavėjui sumokėti palūkanas. Palūkanos skaičiuojamos nuo mokėjimo nurodymo sumos už laikotarpį nuo banko darbo dienos, einančios po lėšų gavimo gavėjo kredito įstaigoje dienos, iki lėšų įskaitymo į gavėjo sąskaitą dienos. Jeigu termino praleidimas susijęs tik su dalimi sumos, tai gavėjo kredito įstaiga privalo sumokėti palūkanas tik už tą sumos dalį, kuri buvo įskaityta į gavėjo sąskaitą praleidus terminą.
-
-
-
-
-6. Šio straipsnio 1, 2, 3, 4, 5 dalys nepanaikina kitų teisių, kurias turi klientai ir kredito įstaigos, dalyvavusios vykdant mokėjimo nurodymą.                
+2. Gavėjo prašymu šio straipsnio 1 dalyje nurodyta informacija jam turi būti pateikta raštu ar naudojant kitą patvariąją laikmeną.
  
 
 
@@ -586,56 +1115,20 @@ Nr. IX-2404, 2004-07-15, Žin., 2004, Nr. 116-4336 (2004-07-27), i. k. 1041010IS
 
 
 
-TREČIASIS SKIRSNIS 
-TARPTAUTINIŲ KREDITO PERVEDIMŲ ATLIKIMO YPATUMAI 
+TREČIASIS SKIRSNIS
+INFORMACIJA APIE PAPILDOMĄ KOMISINĮ ATLYGINIMĄ IR NUOLAIDAS. VALIUTos keitimaS IR SU INFORMAVIMU SUSIJUSI ĮRODINĖJIMO PAREIGA
  
 
 
-13 straipsnis. Išskirtiniai kredito įstaigos įsipareigojimai
+20 straipsnis. Informacija apie papildomą komisinį atlyginimą ir nuolaidas
 
 
-Jeigu klientas reikalauja, kredito įstaiga sutartyje su klientu ar kredito įstaigos veiklos taisyklėse nustatyta tvarka privalo prisiimti įsipareigojimą dėl mokėjimo nurodymo įvykdymo tikslaus termino ir kliento mokėtino tikslaus komisinio atlyginimo dydžio.
- 
-
-
+1. Jeigu už tam tikros mokėjimo priemonės naudojimą gavėjas pasiūlo nuolaidą, jis mokėtoją apie tai turi informuoti iki mokėjimo operacijos pradžios.
 
 
 
 
-14 straipsnis. Kredito įstaigų įsipareigojimai dėl mokėjimo nurodymų įvykdymo termino
-
-
-1. Mokėtojo kredito įstaiga turi užtikrinti, kad priimtas mokėtojo mokėjimo nurodymas būtų įvykdytas per sutartą su mokėtoju terminą, jeigu dėl tokio termino susitarta 13 straipsnyje nustatyta tvarka. 
-
-
-
-
-2. Jeigu sutarto termino nesilaikoma arba toks terminas nenustatytas ir jeigu penktąją banko darbo dieną, einančią po mokėjimo nurodymo priėmimo, mokėjimo nurodymas nebuvo įvykdytas, mokėtojo kredito įstaiga moka mokėtojui palūkanas. Palūkanos skaičiuojamos nuo mokėjimo nurodymo sumos už laikotarpį nuo banko darbo dienos, einančios po sutarto termino pabaigos, arba, jeigu toks terminas nenustatytas, nuo šeštosios banko darbo dienos, einančios po mokėjimo nurodymo priėmimo dienos, iki mokėjimo nurodymo įvykdymo datos. Jeigu termino nesilaikymas susijęs tik su mokėjimo nurodymo sumos dalimi, tai kredito įstaiga privalo sumokėti palūkanas tik už tą sumos dalį, kuri buvo pervesta praleidus terminą.
-
-
-
-
-3. Jeigu per sutartą terminą arba, jeigu toks terminas nenustatytas, penktąją banko darbo dieną, einančią po mokėjimo nurodymo priėmimo, mokėjimo nurodymas nebuvo įvykdytas dėl tarpininko kaltės, mokėtojo kredito įstaiga gali reikalauti tarpininko atlyginti nuostolius. 
-
-
-
-
-4. Gavėjo kredito įstaiga turi įskaityti į gavėjo sąskaitą gautas lėšas per sutartą su gavėju terminą, jeigu dėl tokio termino susitarta 13 straipsnyje nustatyta tvarka. 
-
-
-
-
-5. Jeigu sutarto termino nesilaikoma arba toks terminas nenustatytas ir jeigu kitą banko darbo dieną, einančią po lėšų gavimo gavėjo kredito įstaigoje dienos, lėšos neįskaitomos į gavėjo sąskaitą, gavėjo kredito įstaiga gavėjui moka palūkanas. Palūkanos skaičiuojamos nuo mokėjimo nurodymo sumos už laikotarpį nuo banko darbo dienos, einančios po sutarto termino pabaigos, arba, jeigu toks terminas nenustatytas, nuo antrosios banko darbo dienos, einančios po lėšų gavimo gavėjo kredito įstaigoje dienos, iki lėšų įskaitymo į gavėjo sąskaitą datos. Jeigu termino nesilaikymas susijęs tik su mokėjimo nurodymo sumos dalimi, tai gavėjo kredito įstaiga privalo sumokėti palūkanas tik už tą sumos dalį, kuri buvo pervesta praleidus terminą.
-
-
-
-
-6. Palūkanos pagal šio straipsnio 2 ir 5 dalis nemokamos, jeigu mokėtojo arba gavėjo kredito įstaiga įrodo, kad dėl termino nesilaikymo kaltas mokėtojas arba gavėjas.
-
-
-
-
-7. Šio straipsnio 2, 5 ir 6 dalys nepanaikina kitų teisių, kurias turi klientai ir kredito įstaigos, dalyvavusios vykdant mokėjimo nurodymą. 
+2. Jeigu už tam tikros mokėjimo priemonės naudojimą mokėjimo paslaugų teikėjas ar trečioji šalis pareikalauja komisinio atlyginimo, jis arba ji mokėjimo paslaugų vartotoją apie tai turi informuoti iki mokėjimo operacijos pradžios.
  
 
 
@@ -643,35 +1136,15 @@ Jeigu klientas reikalauja, kredito įstaiga sutartyje su klientu ar kredito įst
 
 
 
-15 straipsnis. Reikalavimai kredito įstaigoms dėl komisinio atlyginimo už mokėjimo nurodymo vykdymą išskaičiavimo 
+21 straipsnis. Valiuta ir valiutos keitimas
 
 
-1. Mokėtojo kredito įstaiga, tarpininkas ir (ar) gavėjo kredito įstaiga turi pervesti visą mokėjimo nurodyme nurodytą sumą, jeigu mokėtojas nenurodo, kad komisinį atlyginimą už mokėjimo nurodymo vykdymą turi visiškai arba iš dalies padengti gavėjas. Jeigu mokėtojas nurodo, kad komisinį atlyginimą už mokėjimo nurodymo vykdymą visiškai arba iš dalies padengs gavėjas, gavėjo kredito įstaiga, įskaičiusi lėšas į gavėjo sąskaitą, privalo 6 straipsnio 2 dalyje numatytoje informacijoje nurodyti iš gavėjo išskaičiuotą sumą. 
-
-
-
-
-2. Gavėjo kredito įstaiga negali imti atlyginimo už lėšų įskaitymą į gavėjo sąskaitą.
+1. Mokėjimai atliekami valiuta, dėl kurios susitarė šalys.
 
 
 
 
-3. Šio straipsnio 1 ir 2 dalys neatima iš gavėjo kredito įstaigos teisės reikalauti atlyginimo iš gavėjo pagal banko sąskaitos sutartį už jo sąskaitos tvarkymą. Gavėjo kredito įstaiga negali už gavėjo sąskaitos tvarkymą imti tokio atlyginimo, kurį nustatant būtų pažeisti šio straipsnio 1 ir 2 dalių reikalavimai. 
-
-
-
-
-4. Jeigu mokėtojo kredito įstaiga arba tarpininkas išskaičiavo komisinį atlyginimą iš mokėjimo nurodymo sumos pažeisdami šio straipsnio 1 dalyje nustatytą reikalavimą, mokėtojo kredito įstaiga mokėtojo reikalavimu turi pervesti gavėjui visą išskaičiuotą sumą, jeigu mokėtojas nepareikalauja, kad ta suma būtų perduota jam arba įskaityta į jo sąskaitą.
-
-
-
-
-5. Jeigu tarpininkas išskaičiavo komisinį atlyginimą pažeisdamas šio straipsnio 1 dalyje nustatytą reikalavimą, jis turi pervesti visą išskaičiuotą sumą mokėtojo kredito įstaigai arba, jeigu mokėtojo kredito įstaiga to reikalauja, gavėjui. 
-
-
-
-
-6. Jeigu reikalavimas įvykdyti mokėtojo mokėjimo nurodymą pažeidžiamas dėl gavėjo kredito įstaigos kaltės, įstaiga atsako už visos neteisingai išskaičiuotos sumos grąžinimą gavėjui. 
+2. Jeigu valiutos keitimo paslauga siūloma iki mokėjimo operacijos pradžios ir jeigu ši paslauga siūloma pardavimo vietoje arba ją siūlo gavėjas, valiutos keitimo paslaugą siūlanti šalis mokėtojui turi nurodyti komisinį atlyginimą ir valiutos keitimo kursą, kuris taikomas keičiant mokėjimo operacijos valiutą. Valiutos keitimo paslauga šiuo pagrindu teikiama mokėtojo sutikimu.
  
 
 
@@ -679,325 +1152,11 @@ Jeigu klientas reikalauja, kredito įstaiga sutartyje su klientu ar kredito įst
 
 
 
-16 straipsnis. Reikalavimas kredito įstaigoms grąžinti lėšas, jeigu mokėjimo nurodymas nėra įvykdytas
+22 straipsnis. Su informavimu susijusi įrodinėjimo pareiga
 
 
-1. Jeigu pasibaigus mokėtojo kredito įstaigos ir mokėtojo sutartam terminui arba, jeigu toks terminas nenustatytas, pasibaigus 14 straipsnio 2 dalyje nustatytam mokėtojo kredito įstaigos priimtam mokėjimo nurodymo įvykdymo terminui, mokėjimo nurodymas nėra įvykdytas, mokėtojo reikalavimu mokėtojo kredito įstaiga, išliekant mokėtojo teisei pareikšti kitas pretenzijas, turi įskaityti į mokėtojo sąskaitą:
-
-
-1) mokėjimo nurodymo sumą mokėjimo valiuta, kurios ekvivalentas neviršytų 12500 eurų;
-
-
-
-
-2) palūkanas, apskaičiuotas nuo mokėjimo nurodymo sumos už laikotarpį nuo mokėjimo nurodymo priėmimo iki lėšų įskaitymo į mokėtojo sąskaitą datos; 
-
-
-
-
-3) mokėtojo sumokėtą komisinį atlyginimą. 
-
-
-
-
-
-
-2. Mokėtojo kredito įstaiga šio straipsnio 1 dalyje nurodytas sumas turi įskaityti į mokėtojo sąskaitą ne vėliau kaip per 14 banko darbo dienų po mokėtojo reikalavimo pateikimo datos, jeigu per tą laiką mokėjimo nurodymas neįvykdomas. 
-
-
-
-
-3. Mokėtojas reikalavimą įskaityti į jo sąskaitą šio straipsnio 1 dalyje nustatytas sumas gali pateikti tik pasibaigus mokėtojo kredito įstaigos ir mokėtojo sutartam terminui arba, jeigu toks terminas nenustatytas, pasibaigus 14 straipsnio 2 dalyje nustatytam mokėjimo nurodymo įvykdymo terminui. 
-
-
-
-
-4. Šio straipsnio 1 dalyje mokėtojo kredito įstaigai nustatyti reikalavimai taip pat taikomi ir tarpininkams. Priėmęs mokėjimo nurodymą, tarpininkas turi kredito įstaigai, jam nurodžiusiai įvykdyti mokėjimo nurodymą, kompensuoti mokėjimo nurodymo sumą, įskaitant su pervedimu susijusias išlaidas ir palūkanas. Jeigu mokėjimo nurodymas nebuvo įvykdytas dėl klaidų arba neišsamių rekvizitų minėtos kredito įstaigos pateiktuose nurodymuose, tarpininkas turi imtis protingų pastangų grąžinti šiai įstaigai mokėjimo nurodymo sumą. 
-
-
-
-
-5. Šio straipsnio 1 dalies nuostatos netaikomos, jeigu mokėjimo nurodymas nebuvo įvykdytas dėl gavėjo kredito įstaigos pasirinkto tarpininko kaltės. Šiuo atveju gavėjo kredito įstaiga privalo sumokėti gavėjui mokėjimo nurodymo sumą mokėjimo valiuta, kurios ekvivalentas neviršytų 12500 eurų. 
-
-
-
-
-6. Šio straipsnio 1 dalies nuostatos netaikomos, jeigu mokėjimo nurodymas nebuvo įvykdytas dėl klaidos arba neišsamių rekvizitų mokėtojo mokėjimo nurodymuose, pateiktuose mokėtojo kredito įstaigai, arba jeigu mokėjimo nurodymo neįvykdė mokėtojo konkrečiai pasirinktas tarpininkas. Mokėtojo kredito įstaiga arba kita kredito įstaiga, dalyvavusi vykdant šį mokėjimo nurodymą, turi imtis protingų pastangų grąžinti mokėjimo nurodymo sumą. Mokėtojo kredito įstaiga atgautą sumą privalo įskaityti į mokėtojo sąskaitą. Kredito įstaigos, grąžindamos atgautas sumas, neprivalo grąžinti komisinio atlyginimo bei susikaupusių palūkanų ir gali išskaičiuoti su lėšų susigrąžinimu susijusias išlaidas. 
+Kilus ginčui, mokėjimo paslaugų teikėjas turi įrodyti, kad jis įvykdė šiame skyriuje nustatytus informavimo reikalavimus.
  
-
-
-
-
-
-
-
-
-KETVIRTASIS SKIRSNIS 
-ELEKTRONINĖS MOKĖJIMO PRIEMONĖS 
- 
-
-
-17 straipsnis. Kredito įstaigos ir kliento sutartis dėl elektroninių mokėjimo priemonių naudojimo
-
-
-Mokėjimo nurodymus dėl sąskaitoje esančių lėšų klientai gali teikti elektroninėmis mokėjimo priemonėmis. Klientai ir kredito įstaigos sutartį dėl elektroninių mokėjimo priemonių suteikimo ir naudojimo disponuojant sąskaitoje esančiomis lėšomis turi sudaryti rašytine arba jai prilyginta forma. 
- 
-
-
-
-
-
-
-18 straipsnis. Informacijos apie elektroninių mokėjimo priemonių suteikimo ir naudojimo sutarties sąlygas pateikimas 
-
-
-1. Sudarydamos elektroninių mokėjimo priemonių suteikimo ir naudojimo sutartį, kredito įstaigos turi supažindinti naudotoją su elektroninių mokėjimo priemonių suteikimo ir naudojimo sąlygomis, o jeigu sąlygos neaptartos sutartyje, pateikti jas naudotojui per protingą terminą iki elektroninės mokėjimo priemonės suteikimo. Aiškios ir lengvai suprantamos sąlygos turi būti pateiktos raštu arba elektroninėmis ryšio priemonėmis. 
-
-
-
-
-2. Elektroninių mokėjimo priemonių suteikimo ir naudojimo sutartyje turi būti: 
-
-
-1) apibūdinta elektroninė mokėjimo priemonė ir nurodytas paros laikas, kada naudotojas gali naudotis priemone, bei nustatyti ryšio, techninės ir programinės įrangos reikalavimai, jei tokie būtini; 
-
-
-
-
-2) nustatytas bet kokių pirminių ir periodinių įmokų, komisinio atlyginimo ir kitų mokėjimų, kuriuos turės mokėti naudotojas, dydis, taip pat palūkanų už kredito įstaigos kreditą, skirtą naudotojui mokėjimams atlikti, norma bei jų skaičiavimo būdas; 
-
-
-
-
-3) nustatytas terminas, jeigu jis žinomas kredito įstaigai, per kurį lėšos po operacijos inicijavimo bus nurašytos iš naudotojo sąskaitos kredito įstaigoje arba įskaitytos į ją;
-
-
-
-
-4) nustatytas terminas, per kurį naudotojas gali pateikti prieštaravimus dėl įvykdytos operacijos, taip pat skundų dėl nuostolių atlyginimo nagrinėjimo tvarka; 
-
-
-
-
-5) nustatyta tvarka ir būdas, kaip naudotojas 20 straipsnio 1 dalies 2 punkte nurodytais atvejais pateikia pranešimą kredito įstaigai arba jos nurodytam asmeniui; 
-
-
-
-
-6) nustatyta, kokiais atvejais ir iki kada naudotojas gali atšaukti elektronine mokėjimo priemone sudarytą mokėjimo nurodymą. 
-
-
-
-
-
-
-3. Jeigu elektroninė mokėjimo priemonė naudojama operacijoms užsienyje atlikti, papildomai turi būti nurodyta:
-
-
-1) kredito įstaigos imamų įmokų, komisinio atlyginimo ir kitų mokėjimų už operacijas užsienio valiuta dydis; 
-
-
-
-
-2) kuo remiantis nustatomas užsienio valiutos keitimo santykis, taip pat jo nustatymo data. 
- 
-
-
-
-
-
-
-
-
-19 straipsnis. Informacijos apie elektroninės mokėjimo priemonės naudojimą pateikimas 
-
-
-Kredito įstaiga, suteikusi elektroninę mokėjimo priemonę, turi sutartyje numatytais terminais raštu arba elektroninėmis ryšio priemonėmis pateikti naudotojui aiškią ir lengvai suprantamą informaciją apie elektroninėmis mokėjimo priemonėmis atliktas operacijas. Informacijoje turi būti nurodyta:
-
-
-1) operacijos turinys, atlikimo data ir, jeigu taikytina bei įmanoma, priemonės panaudojimo vieta;
-
-
-
-
-2) operacijos metu iš naudotojo sąskaitos nurašyta lėšų suma sąskaitoje esančia valiuta ir, jeigu taikytina, lėšų suma mokėjimo valiuta; 
-
-
-
-
-3) įmokos, komisinis atlyginimas ir kiti mokėjimai, išskaičiuoti už atliktas operacijas;
-
-
-
-
-4) valiutos keitimo santykis, jeigu operacijos metu buvo keičiama valiuta.
- 
-
-
-
-
-
-
-
-
-20 straipsnis. Elektronines mokėjimo priemones suteikiančių kredito įstaigų ir šių priemonių naudotojų pareigos
-
-
-1. Elektronines mokėjimo priemones suteikianti kredito įstaiga privalo: 
-
-
-1) suteiktas tapatybės patvirtinimo priemones atskleisti tik elektroninės mokėjimo priemonės naudotojui; 
-
-
-
-
-2) priimti naudotojo žodinį ir (ar) raštišką pranešimą arba nurodyti asmenį, kuris priims tokį pranešimą, kai: elektroninė mokėjimo priemonė prarandama kitam asmeniui ją užvaldžius, pametama ar dėl kitų priežasčių naudotojas negali jos valdyti (toliau – prarandama); naudotojas įtaria, kad jam suteiktos tapatybės patvirtinimo priemonės neužtikrina operacijų saugumo; ataskaitoje arba kitoje pateiktoje informacijoje naudotojas aptinka jo neinicijuotų arba klaidingai atliktų operacijų; 
-
-
-
-
-3) priimti šios dalies 2 punkte nurodytus pranešimus bet kuriuo paros metu. Jeigu naudotojas pranešė žodžiu, kredito įstaiga privalo sudaryti galimybę naudotojui įrodyti, kad jis tokį pranešimą pateikė;
-
-
-
-
-4) gavusi šios dalies 2 punkte nurodytą naudotojo pranešimą, imtis priemonių, kad būtų nutrauktas tolesnis elektroninės mokėjimo priemonės naudojimas; 
-
-
-
-
-5) kilus ginčui su naudotoju, teikti įrodymus, kad operacija teisingai parodyta sąskaitose ir kad jos nepaveikė techniniai arba kitokie trikdžiai; 
-
-
-
-
-6) neužsakytos elektroninės mokėjimo priemonės nesiųsti paštu, išskyrus atvejį, kai kredito įstaiga keičia naudotojo turimą elektroninę mokėjimo priemonę.
-
-
-
-
-
-
-2. Kredito įstaiga, elektroninės mokėjimo priemonės galiojimo metu nusprendusi pasiūlyti keisti elektroninės mokėjimo priemonės suteikimo ir naudojimo sutarties sąlygas, privalo iš anksto kredito įstaigos ir naudotojo sutartu būdu pranešti apie tai naudotojui ir nustatyti ne mažesnį kaip 30 dienų terminą atsakyti. 
-
-
-
-
-3. Šio straipsnio 2 dalies nuostata dėl atsakymui skirto 30 dienų termino netaikoma, kai keičiama palūkanų už kredito įstaigos kreditą naudotojui mokėjimams atlikti norma, o nauja palūkanų norma įsigalioja nuo pranešime nurodytos datos. Šiuo atveju, nepanaikindama naudotojo teisės nutraukti sutartį, kredito įstaiga nedelsdama informuoja naudotoją (asmeniškai) apie numatomą palūkanų normos pakeitimą.
-
-
-
-
-4. Elektroninėmis mokėjimo priemonėmis atliktas operacijas, taip pat šio straipsnio 1 dalies 2 punkte nurodytus naudotojo pranešimus kredito įstaigos turi registruoti naudodamos procedūras ir priemones, užtikrinančias saugų ir teisingą registruotos informacijos atkūrimą bei užkertančias kelią galimybei tokią informaciją suklastoti. Registruotą informaciją ir visus dokumentus, susijusius su elektroninių mokėjimo priemonių finansinėmis operacijomis, kredito įstaigos privalo saugoti laikydamosi Lietuvos Respublikos teisės aktuose nustatytų apskaitos dokumentų saugojimo terminų.
-
-
-
-
-5. Kredito įstaigos, naudotojui suteikiančios teisę naudoti programinę įrangą kaip elektroninę mokėjimo priemonę, privalo: 
-
-
-1) išmokyti arba kitaip paaiškinti, kaip naudotis programine įranga, ir informuoti apie riziką, susijusią su įrangos saugumu;
-
-
-
-
-2) sudaryti galimybę naudotojui registruoti kiekvieną jo inicijuotą finansinę operaciją ar (ir) iš karto po operacijos atlikimo gauti (atsispausdinti) patvirtinimą, kad operacija atlikta, ir pasinaudoti tuo kaip įrodymu kilus ginčams su kredito įstaiga dėl įvykusios operacijos. Kiekviena operacija privalo būti savitai identifikuojama;
-
-
-
-
-3) įgyvendinti priemones, kurios verstų naudotoją papildomai patvirtinti jo inicijuotą operaciją, jeigu operacijos suma viršija didžiausią kredito įstaigos nustatytą sumą, kuriai toks patvirtinimas nėra būtinas; 
-
-
-
-
-4) turėti galimybę nustatyti ir registruoti su programinės įrangos saugumo pažeidimais susijusius įvykius arba veiksmus bei atitinkamą informaciją (naudojimosi laiką, būdą ir pan.) ir pranešti naudotojui, kad yra tokia galimybė; 
-
-
-
-
-5) sudaryti galimybę naudotojui kiekvienu momentu nustatyti apsaugos priemonių būklę, kai saugumą užtikrina speciali programinė įranga. 
-
-
-
-
-
-
-6. Kredito įstaigos, suteikiančios elektroninius pinigus, privalo: 
-
-
-1) nustatyti didžiausią leistiną priemonėje saugomų elektroninių pinigų likutį;
-
-
-
-
-2) turėti galimybę sekti (stebėti) priemonėse saugomus elektroninių pinigų likučius, kad būtų galima palyginti juos su priemonės naudotojų iš anksto apmokėtomis ir gavėjams išmokėtomis lėšomis;
-
-
-
-
-3) suteikti galimybę naudotojui patikrinti ne mažiau kaip penkias paskutines priemone atliktas operacijas bei joje saugomą elektroninių pinigų likutį;
-
-
-
-
-4) naudotojo reikalavimu keisti priemonėje saugomus elektroninius pinigus į tos pačios valiutos grynuosius pinigus nominaliąja verte.
-
-
-
-
-
-
-7. Elektroninės mokėjimo priemonės naudotojas privalo:
-
-
-1) elektroninę mokėjimo priemonę naudoti laikantis elektroninės mokėjimo priemonės suteikimo ir naudojimo sąlygų;
-
-
-
-
-2) nedelsiant informuoti kredito įstaigą arba jos nurodytą asmenį šio straipsnio 1 dalies 2 punkte numatytais atvejais; 
-
-
-
-
-3) saugoti elektroninę mokėjimo priemonę ir kredito įstaigos suteiktas tapatybės patvirtinimo priemones; nerašyti asmens tapatybės nustatymo ar kitų kredito įstaigos suteiktų kodų ir slaptažodžių ant elektroninės mokėjimo priemonės ar ant kartu su ja laikomų daiktų;
-
-
-
-
-4) neatšaukti elektronine mokėjimo priemone pateikto mokėjimo nurodymo, išskyrus atvejus, kai kredito įstaiga ir elektroninės mokėjimo priemonės naudotojas susitarė, kad mokėjimo nurodymas gali būti atšauktas, arba kai naudotojui pateikiant mokėjimo nurodymą nebuvo nurodyta mokėjimo nurodymo suma.
- 
-
-
-
-
-
-
-
-
-21 straipsnis. Civilinės atsakomybės nustatymo principai 
-
-
-Kredito įstaigos ir elektroninės mokėjimo priemonės naudotojo sutartyje turi būti detaliai išdėstyta šalių civilinė atsakomybė už sutartinių įsipareigojimų nevykdymą. Nustatant šalių atsakomybę, būtina laikytis šių principų: 
-
-
-1) nuostoliai, susiję su elektroninės mokėjimo priemonės praradimu arba suteiktų tapatybės patvirtinimo priemonių atskleidimu, tenka naudotojui. Nuostolius, kurie atsirado po 20 straipsnio 1 dalies 2 punkte numatyto pranešimo pateikimo momento, išskyrus atvejį, kai įrodoma, kad nuostoliai atsirado dėl naudotojo tyčios arba didelio neatsargumo, atlygina kredito įstaiga; 
-
-
-
-
-2) pagal šio straipsnio 1 punktą naudotojui tenkančių nuostolių, susijusių su elektroninės mokėjimo priemonės praradimu, atsiradusių iki 20 straipsnio 1 dalies 2 punkte numatyto pranešimo pateikimo momento, suma neturi viršyti 150 eurų ekvivalento litais. Kai įrodoma, kad nuostoliai atsirado dėl naudotojo tyčios arba didelio neatsargumo, pažeidus 20 straipsnio 7 dalies nuostatas, naudotojui tenkančių 150 eurų ekvivalento litais nuostolių riba netaikoma;
-
-
-
-
-3) kredito įstaiga naudotojui atlygina nuostolius, naudojantis elektronine mokėjimo priemone atsiradusius dėl neįvykdytų arba ne dėl naudotojo kaltės klaidingai įvykdytų operacijų, ne naudotojo inicijuotų operacijų, klaidų arba netikslumų, priskirtinų kredito įstaigai tvarkant naudotojo sąskaitą;
-
-
-
-
-4) kredito įstaiga elektroninių pinigų naudotojui atlygina su elektroninių pinigų praradimu susijusius nuostolius, taip pat nuostolius, atsiradusius dėl naudotojo operacijos, įvykdytos su trūkumais, kurie atsirado dėl kredito įstaigos įrangos arba suteiktos naudoti priemonės netinkamo veikimo, jeigu kredito įstaiga neįrodo, kad netinkamas veikimas buvo tyčia naudotojo sukeltas. 
  
 
 
@@ -1009,62 +1168,929 @@ Kredito įstaigos ir elektroninės mokėjimo priemonės naudotojo sutartyje turi
 
 
 
-PENKTASIS SKIRSNIS
+IV SKYRIUS
+MOKĖJIMO OPERACIJŲ AUTORIZAVIMAS
+ 
+
+
+23 straipsnis. Sutikimas įvykdyti mokėjimo operaciją ir sutikimo įvykdyti mokėjimo operaciją panaikinimas
+
+
+1. Mokėjimo operacija laikoma autorizuota tik tada, kai mokėtojas duoda sutikimą ją įvykdyti. Mokėtojas ir jo mokėjimo paslaugų teikėjas turi susitarti dėl sutikimo davimo formos ir tvarkos. Mokėtojas gali autorizuoti mokėjimo operaciją iki jos įvykdymo arba ją įvykdžius, jeigu taip susitarė mokėtojas ir jo mokėjimo paslaugų teikėjas.
+
+
+
+
+2. Jeigu šio straipsnio 1 dalyje nurodyto sutikimo nėra, laikoma, kad mokėjimo operacija yra neautorizuota.
+
+
+
+
+3. Mokėtojas bet kuriuo metu iki šio įstatymo 34 straipsnyje nustatyto neatšaukiamumo momento gali panaikinti sutikimą įvykdyti mokėjimo operaciją. Sutikimas įvykdyti kelias mokėjimo operacijas taip pat gali būti panaikintas, tokiu atveju visos būsimos mokėjimo operacijos laikomos neautorizuotomis.
+ 
+
+
+
+
+
+
+24 straipsnis. Mokėjimo priemonės naudojimo ribojimas
+
+
+1. Mokėtojas ir jo mokėjimo paslaugų teikėjas gali susitarti dėl išlaidų limito mokėjimo operacijoms, jeigu sutikimas įvykdyti tas mokėjimo operacijas duodamas naudojant mokėjimo priemonę, kuriai galima nustatyti išlaidų limitą.
+
+
+
+
+2. Mokėjimo paslaugų teikėjas gali pasilikti teisę blokuoti mokėjimo priemonę, jei dėl to yra susitarta bendrojoje sutartyje. Tokiu atveju mokėjimo priemonė gali būti blokuojama dėl objektyviai pagrįstų priežasčių, susijusių su mokėjimo priemonės saugumu, įtariamu neautorizuotu ar nesąžiningu mokėjimo priemonės naudojimu arba, jei naudojama mokėjimo priemonė su kredito linija, su labai padidėjusia rizika, kad mokėtojas gali negalėti įvykdyti savo mokėjimo įsipareigojimo.
+
+
+
+
+3. Šio straipsnio 2 dalyje nustatytais atvejais mokėjimo paslaugų teikėjas sutartu būdu informuoja mokėtoją apie mokėjimo priemonės blokavimą ir blokavimo priežastis, jei įmanoma, iki blokuodamas mokėjimo priemonę ir ne vėliau kaip tuoj pat ją užblokavęs, išskyrus atvejus, kai tokia informacija susilpnintų saugumo priemones ar būtų draudžiama pagal kitus teisės aktus.
+
+
+
+
+4. Mokėjimo paslaugų teikėjas panaikina mokėjimo priemonės blokavimą ar ją pakeičia nauja mokėjimo priemone, kai nebelieka mokėjimo priemonės blokavimo priežasčių.
+ 
+
+
+
+
+
+
+25 straipsnis. Mokėjimo paslaugų vartotojo pareigos, susijusios su mokėjimo priemonėmis
+
+
+1. Mokėjimo paslaugų vartotojas, turintis teisę naudotis mokėjimo priemone, turi šias pareigas:
+
+
+1) naudotis mokėjimo priemone pagal mokėjimo priemonės išdavimą ir naudojimą reglamentuojančias sąlygas;
+
+
+
+
+2) sužinojęs apie mokėjimo priemonės praradimą, vagystę arba neteisėtą įgijimą ar neautorizuotą jos naudojimą, nedelsdamas apie tai pranešti mokėjimo paslaugų teikėjui arba nurodytam subjektui.
+
+
+
+
+
+
+2. Mokėjimo paslaugų vartotojas, gavęs mokėjimo priemonę, privalo imtis veiksmų, kad būtų apsaugoti mokėjimo priemonės personalizuoti saugumo požymiai.
+ 
+
+
+
+
+
+
+26 straipsnis. Mokėjimo paslaugų teikėjo pareigos, susijusios su mokėjimo priemonėmis
+
+
+1. Mokėjimo paslaugų teikėjas, išduodamas mokėjimo priemonę, turi šias pareigas:
+
+
+1) užtikrinti, kad, be mokėjimo priemonės vartotojo, turinčio teisę naudoti mokėjimo priemonę, tos mokėjimo priemonės personalizuotais saugumo požymiais negalėtų naudotis kiti asmenys;
+
+
+
+
+2) nesiųsti neužsakytos mokėjimo priemonės, išskyrus atvejus, kai mokėjimo paslaugų vartotojui anksčiau išduota mokėjimo priemonė turi būti pakeista;
+
+
+
+
+3) užtikrinti, kad visada būtų prieinamos tinkamos priemonės, kuriomis naudodamasis mokėjimo paslaugų vartotojas galėtų pateikti šio įstatymo 25 straipsnio 1 dalies 2 punkte nurodytą pranešimą, ar pareikalauti, kad mokėjimo priemonės blokavimas būtų panaikintas, kai nebelieka mokėjimo priemonės blokavimo priežasčių. Mokėjimo paslaugų vartotojo prašymu mokėjimo paslaugų teikėjas turi suteikti mokėjimo paslaugų vartotojui priemones, kuriomis per 18 mėnesių nuo pranešimo pateikimo jis gali įrodyti, kad yra pateikęs tokį pranešimą;
+
+
+
+
+4) užkirsti kelią mokėjimo priemonės naudojimui, kai mokėjimo paslaugų vartotojas pateikė pranešimą šio įstatymo 25 straipsnio 1 dalies 2 punkte nustatyta tvarka.
+
+
+
+
+
+
+2. Mokėjimo paslaugų teikėjas atsako už mokėjimo priemonės ir mokėjimo priemonės personalizuotų saugumo požymių siuntimą mokėtojui.
+ 
+
+
+
+
+
+
+27 straipsnis. Pranešimas apie neautorizuotas ar netinkamai įvykdytas mokėjimo operacijas
+
+
+1. Mokėjimo paslaugų teikėjas grąžina nurašytas lėšas mokėjimo paslaugų vartotojui tik tuo atveju, jei mokėjimo paslaugų vartotojas, sužinojęs apie neautorizuotas ar netinkamai įvykdytas mokėjimo operacijas, dėl kurių šio įstatymo nustatyta tvarka gali būti pateikiami reikalavimai, praneša savo mokėjimo paslaugų teikėjui nedelsdamas, bet ne vėliau kaip per 13 mėnesių nuo nurašymo iš sąskaitos dienos.
+
+
+
+
+2. Šio straipsnio 1 dalyje nustatytas terminas netaikomas, kai mokėjimo paslaugų teikėjas nepateikė informacijos mokėjimo paslaugų vartotojui apie neautorizuotą ar netinkamai įvykdytą mokėjimo operaciją ar nesudarė sąlygų su ja susipažinti šio įstatymo nustatyta tvarka.
+ 
+
+
+
+
+
+
+28 straipsnis. Mokėjimo operacijų autentiškumo patvirtinimo ir įvykdymo įrodymas
+
+
+1. Jeigu mokėjimo paslaugų vartotojas neigia autorizavęs mokėjimo operaciją, kuri buvo įvykdyta, ar teigia, kad mokėjimo operacija buvo įvykdyta netinkamai, jo mokėjimo paslaugų teikėjas turi įrodyti, kad mokėjimo operacijos autentiškumas buvo patvirtintas, ji buvo tinkamai užregistruota, įrašyta į sąskaitas ir jos nepaveikė techniniai arba kiti trikdžiai.
+
+
+
+
+2. Kai mokėjimo paslaugų vartotojas neigia autorizavęs mokėjimo operaciją, kuri yra įvykdyta, mokėjimo paslaugų teikėjo užregistruotas mokėjimo priemonės naudojimas nebūtinai yra pakankamas įrodymas, kad mokėtojas autorizavo mokėjimo operaciją ar veikė nesąžiningai arba tyčia ar dėl didelio neatsargumo neįvykdė vienos ar kelių šio įstatymo 25 straipsnyje nustatytų pareigų.
+ 
+
+
+
+
+
+
+29 straipsnis. Mokėjimo paslaugų teikėjo atsakomybė už neautorizuotas mokėjimo operacijas
+
+
+Mokėtojo mokėjimo paslaugų teikėjas nedelsdamas mokėtojui sugrąžina neautorizuotos mokėjimo operacijos sumą ir atkuria mokėjimo sąskaitos, iš kurios ta suma nurašyta, likutį, kuris būtų, jeigu neautorizuota mokėjimo operacija nebūtų buvusi atlikta, išskyrus šio įstatymo 30 straipsnyje nustatytus atvejus.
+ 
+
+
+
+
+
+
+30 straipsnis. Mokėtojo atsakomybė už neautorizuotą mokėjimo priemonės naudojimą
+
+
+1. Mokėtojui tenka dėl neautorizuotų mokėjimo operacijų atsiradę nuostoliai iki 150 eurų ekvivalento litais, kai tie nuostoliai patirti dėl:
+
+
+1) prarastos ar pavogtos mokėjimo priemonės panaudojimo;
+
+
+
+
+2) neteisėto mokėjimo priemonės įgijimo, jei mokėtojas neapsaugojo personalizuotų saugumo požymių.
+
+
+
+
+
+
+2. Mokėtojui tenka visi dėl neautorizuotų mokėjimo operacijų atsiradę nuostoliai, jei mokėtojas juos patyrė veikdamas nesąžiningai arba dėl didelio neatsargumo ar tyčios neįvykdęs vienos ar kelių šio įstatymo 25 straipsnyje nustatytų pareigų. Šiais atvejais šio straipsnio 1 dalies nuostatos netaikomos.
+
+
+
+
+3. Mokėtojas neturi patirti jokių nuostolių dėl prarastos, pavogtos ar neteisėtai įgytos mokėjimo priemonės po to, kai pateikia šio įstatymo 25 straipsnio 1 dalies 2 punkte nurodytą pranešimą, išskyrus atvejus, kai mokėtojas veikė nesąžiningai.
+
+
+
+
+4. Jeigu mokėjimo paslaugų teikėjas nesudaro sąlygų bet kuriuo metu pranešti apie prarastą, pavogtą arba neteisėtai įgytą mokėjimo priemonę, nuostoliai, atsiradę dėl mokėjimo priemonės neautorizuoto naudojimo, tenka mokėjimo paslaugų teikėjui, išskyrus atvejus, kai mokėtojas veikė nesąžiningai.
+ 
+
+
+
+
+
+
+31 straipsnis. Gavėjo ar per gavėją inicijuotų mokėjimo operacijų sumų grąžinimas
+
+
+1. Mokėtojas iš savo mokėjimo paslaugų teikėjo turi teisę atgauti visą gavėjo ar per gavėją inicijuotos autorizuotos ir jau įvykdytos mokėjimo operacijos sumą, jeigu tenkinamos šios sąlygos:
+
+
+1) autorizuojant mokėjimo operaciją nebuvo nurodyta tiksli mokėjimo operacijos suma;
+
+
+
+
+2) mokėjimo operacijos suma yra didesnė už sumą, kurios pagrįstai galėjo tikėtis mokėtojas, atsižvelgdamas į savo ankstesnes išlaidas, bendrosios sutarties sąlygas ir kitas aplinkybes, išskyrus aplinkybes, susijusias su valiutos keitimu, kai vykdant mokėjimo operaciją buvo taikomas valiutos keitimo kursas, dėl kurio mokėtojas susitarė su savo mokėjimo paslaugų teikėju šio įstatymo nustatyta tvarka.
+
+
+
+
+
+
+2. Mokėjimo paslaugų teikėjo prašymu mokėtojas pateikia duomenis apie šio straipsnio 1 dalyje nurodytas sąlygas.
+
+
+
+
+3. Mokėtojas su mokėjimo paslaugų teikėju bendrojoje sutartyje gali susitarti, kad esant tiesioginiam debetui mokėtojas iš savo mokėjimo paslaugų teikėjo turi teisę atgauti sumas ir nesant šio straipsnio 1 dalyje nustatytų sąlygų.
+
+
+
+
+4. Mokėtojas ir mokėjimo paslaugų teikėjas bendrojoje sutartyje gali susitarti, kad mokėtojas neturi teisės į gavėjo ar per gavėją inicijuotų mokėjimo operacijų sumų grąžinimą, jei mokėtojas davė sutikimą įvykdyti mokėjimo operaciją tiesiogiai savo mokėjimo paslaugų teikėjui ir mokėjimo paslaugų teikėjas arba gavėjas mokėtojui sutartu būdu pateikė informaciją apie būsimą mokėjimo operaciją ar sudarė sąlygas su ja susipažinti ne mažiau kaip prieš keturias savaites iki numatyto mokėjimo operacijos įvykdymo.
+
+
+
+
+5. Mokėtojas turi teisę prašyti mokėjimo paslaugų teikėjo grąžinti gavėjo ar per gavėją inicijuotos autorizuotos mokėjimo operacijos sumą per aštuonias savaites nuo dienos, kai lėšos buvo nurašytos iš sąskaitos.
+
+
+
+
+6. Mokėjimo paslaugų teikėjas, gavęs prašymą grąžinti mokėjimo operacijos sumą, per dešimt darbo dienų grąžina visą sumą arba nurodo priežastis, dėl kurių jis atsisako ją grąžinti, o jei mokėtojas yra vartotojas, – ir tokio atsisakymo apskundimo tvarką. Sudarius šio straipsnio 3 dalyje nurodytą susitarimą, mokėjimo paslaugų teikėjas neturi teisės atsisakyti grąžinti mokėjimo operacijos sumą.
+ 
+
+
+
+
+
+
+
+
+V SKYRIUS
+MOKĖJIMO OPERACIJŲ VYKDYMAS
+ 
+
+
+32 straipsnis. Mokėjimo nurodymo gavimo momentas
+
+
+1. Mokėjimo nurodymo gavimo momentu laikomas momentas, kai mokėtojo mokėjimo paslaugų teikėjas gauna mokėjimo nurodymą, tiesiogiai perduotą mokėtojo arba netiesiogiai gautą iš gavėjo ar per gavėją. Jeigu mokėjimo nurodymo gavimo momentas nėra mokėtojo mokėjimo paslaugų teikėjo darbo diena, laikoma, kad mokėjimo nurodymas gautas kitą darbo dieną. Mokėjimo paslaugų teikėjas gali nustatyti laiką baigiantis darbo dienai, po kurio bet kuris gautas mokėjimo nurodymas laikomas gautu kitą darbo dieną.
+
+
+
+
+2. Mokėjimo nurodymą inicijuojantis mokėjimo paslaugų vartotojas ir jo mokėjimo paslaugų teikėjas gali susitarti, kad mokėjimo nurodymas būtų pradėtas vykdyti konkrečią dieną ar tam tikro laikotarpio pabaigoje arba dieną, kai mokėtojas pateikia lėšas savo mokėjimo paslaugų teikėjui. Tokiu atveju laikoma, kad mokėjimo nurodymo gavimo momentas yra tą sutartą dieną. Jeigu sutarta diena nėra mokėjimo paslaugų teikėjo darbo diena, laikoma, kad mokėjimo nurodymas gautas kitą darbo dieną.
+ 
+
+
+
+
+
+
+33 straipsnis. Atsisakymas vykdyti mokėjimo nurodymą
+
+
+1. Jeigu mokėjimo paslaugų teikėjas atsisako vykdyti mokėjimo nurodymą, apie tai turi būti pranešta mokėjimo paslaugų vartotojui nurodant ir atsisakymo priežastis, ir tai, kaip turi būti ištaisytos klaidos, dėl kurių atsisakyta vykdyti mokėjimo nurodymą, išskyrus atvejus, kai toks pranešimas techniškai neįmanomas arba tai draudžia kiti teisės aktai.
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytą pranešimą mokėjimo paslaugų teikėjas nedelsdamas sutartu būdu pateikia mokėjimo paslaugų vartotojui arba sudaro sąlygas su juo susipažinti ne vėliau kaip per šio įstatymo 36 straipsnyje nustatytus terminus. Bendrojoje sutartyje gali būti nustatyta, kad mokėjimo paslaugų teikėjas ima komisinį atlyginimą už tokį pranešimą, jeigu atsisakymas vykdyti mokėjimo nurodymą yra objektyviai pagrįstas.
+
+
+
+
+3. Kai įvykdytos visos mokėtojo ir mokėjimo paslaugų teikėjo bendrojoje sutartyje nustatytos sąlygos, mokėtojo mokėjimo paslaugų teikėjas negali atsisakyti įvykdyti autorizuoto mokėjimo nurodymo, nesvarbu, ar mokėjimo nurodymas inicijuotas mokėtojo, gavėjo ar per gavėją, išskyrus atvejus, kai tai draudžia kiti teisės aktai.
+
+
+
+
+4. Mokėjimo nurodymas, kurį atsisakyta vykdyti šio įstatymo nustatyta tvarka, laikomas negautu.
+ 
+
+
+
+
+
+
+34 straipsnis. Mokėjimo nurodymo neatšaukiamumas
+
+
+1. Mokėjimo paslaugų vartotojas negali atšaukti mokėjimo nurodymo po to, kai jį gauna mokėtojo mokėjimo paslaugų teikėjas, išskyrus šiame straipsnyje nustatytas išimtis.
+
+
+
+
+2. Kai mokėjimo operacija inicijuojama gavėjo ar per gavėją, mokėtojas negali atšaukti mokėjimo nurodymo po to, kai mokėjimo nurodymas išsiųstas arba mokėtojas gavėjui davė sutikimą atlikti mokėjimo operaciją. Tačiau jei atliekamas tiesioginis debetas, mokėtojas gali atšaukti mokėjimo nurodymą vėliausiai iki darbo dienos, einančios prieš dieną, kurią susitarta nurašyti lėšas iš sąskaitos, pabaigos.
+
+
+
+
+3. Šio įstatymo 32 straipsnio 2 dalyje nustatytu atveju mokėjimo paslaugų vartotojas gali atšaukti mokėjimo nurodymą vėliausiai iki darbo dienos, einančios prieš sutartą dieną, pabaigos.
+
+
+
+
+4. Pasibaigus šio straipsnio 1, 2 ir 3 dalyse nustatytiems terminams, mokėjimo nurodymas gali būti atšauktas tik tuo atveju, kai dėl to susitaria mokėjimo paslaugų vartotojas ir jo mokėjimo paslaugų teikėjas, o šio straipsnio 2 dalyje numatytais atvejais būtinas ir gavėjo sutikimas. Mokėjimo paslaugų teikėjas gali imti komisinį atlyginimą už mokėjimo nurodymo atšaukimą, jeigu tai numatyta bendrojoje sutartyje.
+ 
+
+
+
+
+
+
+35 straipsnis. Pervestos ir gautos sumos
+
+
+1. Mokėtojo mokėjimo paslaugų teikėjas, gavėjo mokėjimo paslaugų teikėjas ir mokėjimo paslaugų teikėjų tarpininkai perveda visą mokėjimo operacijos sumą ir neatskaito komisinio atlyginimo iš pervestos sumos, išskyrus šio straipsnio 2 dalyje nustatytą išimtį.
+
+
+
+
+2. Gavėjas ir jo mokėjimo paslaugų teikėjas gali susitarti, kad mokėjimo paslaugų teikėjas atskaito tiesiogiai su mokėjimo operacija susijusį komisinį atlyginimą iš pervedamos sumos prieš įskaitydamas ją į gavėjo sąskaitą. Tokiu atveju teikiant informaciją gavėjui visa mokėjimo operacijos suma ir komisinis atlyginimas nurodomi atskirai.
+
+
+
+
+3. Jeigu iš pervestos sumos atskaitomas kitas, negu šio straipsnio 2 dalyje nurodytas, komisinis atlyginimas, mokėtojo mokėjimo paslaugų teikėjas užtikrina, kad gavėjas gautų visą mokėtojo inicijuotos mokėjimo operacijos sumą. Kai mokėjimo operacija inicijuojama gavėjo ar per gavėją, jo mokėjimo paslaugų teikėjas užtikrina, kad gavėjas gautų visą mokėjimo operacijos sumą.
+ 
+
+
+
+
+
+
+36 straipsnis. Mokėjimo į mokėjimo sąskaitas operacijų įvykdymo terminai
+
+
+1. Mokėtojo mokėjimo paslaugų teikėjas užtikrina, kad po mokėjimo nurodymo gavimo momento mokėjimo operacijos suma būtų įskaityta į gavėjo mokėjimo paslaugų teikėjo sąskaitą ne vėliau kaip iki kitos darbo dienos pabaigos. Iki 2012 m. sausio 1 d. mokėtojas ir jo mokėjimo paslaugų teikėjas gali susitarti dėl ne ilgesnio kaip trijų darbo dienų termino. Šie laikotarpiai gali būti pratęsti dar viena darbo diena, jei mokėjimo operacija inicijuojama popieriniu dokumentu. Ši dalis taikoma:
+
+
+1) Lietuvos Respublikoje ir į kitas valstybes nares vykdomoms mokėjimo operacijoms eurais, litais ir kitomis ne euro zonos valstybių narių valiutomis, išskyrus šio straipsnio 2 ir 3 dalyse nustatytus atvejus;
+
+
+
+
+2) mokėjimo operacijoms, kurias vykdant atliekamas tik vienas valiutos keitimas tarp euro ir lito ir toks valiutos keitimas atliekamas Lietuvos Respublikoje, o jeigu vykdomos mokėjimo operacijos į kitas valstybes nares, lėšos pervedamos eurais;
+
+
+
+
+3) Lietuvos Respublikoje ir į kitas valstybes nares bei užsienio valstybes vykdomoms mokėjimo operacijoms užsienio valstybių valiutomis, taip pat į užsienio valstybes vykdomoms mokėjimo operacijoms eurais, litais ir kitomis ne euro zonos valstybių narių valiutomis, jeigu mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas nesusitaria dėl kito termino.
+
+
+
+
+
+
+2. Kai kredito pervedimai Lietuvos Respublikoje atliekami nacionaline valiuta, mokėtojo mokėjimo paslaugų teikėjas užtikrina, kad po mokėjimo nurodymo gavimo momento mokėjimo operacijos suma būtų įskaityta į gavėjo mokėjimo paslaugų teikėjo sąskaitą tą pačią darbo dieną, jeigu mokėjimo nurodymo gavimo momentas yra tą darbo dieną iki 12 valandos. Jeigu mokėjimo nurodymo gavimo momentas yra po 12 valandos, mokėtojo mokėjimo paslaugų teikėjas užtikrina, kad mokėjimo operacijos suma būtų įskaityta į gavėjo mokėjimo paslaugų teikėjo sąskaitą ne vėliau kaip kitą darbo dieną. Šio įstatymo 32 straipsnio 2 dalyje numatytu atveju mokėtojo mokėjimo paslaugų teikėjas užtikrina, kad mokėjimo operacijos suma būtų įskaityta į gavėjo mokėjimo paslaugų teikėjo sąskaitą mokėjimo nurodymo vykdymo dieną, o kai mokėjimo nurodymo vykdymo diena nėra mokėjimo paslaugų teikėjo darbo diena, – kitą darbo dieną.
+
+
+
+
+3. Mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti dėl kito, negu nustatyta šio straipsnio 1 dalyje, mokėjimo operacijos įvykdymo termino, tačiau toks terminas negali viršyti keturių darbo dienų nuo mokėjimo nurodymo gavimo momento. Ši dalis taikoma Lietuvos Respublikoje vykdomoms mokėjimo operacijoms ne euro zonos valstybių narių valiutomis, išskyrus litus, ir į kitas valstybes nares vykdomoms mokėjimo operacijoms ne euro zonos valstybių narių valiutomis.
+
+
+
+
+4. Gavėjo mokėjimo paslaugų teikėjas, gavęs mokėjimo operacijos sumą, nustato jos įskaitymo datą ir sudaro galimybę gavėjui naudotis mokėjimo operacijos suma gavėjo sąskaitoje šio įstatymo 39 straipsnyje nustatyta tvarka.
+
+
+
+
+5. Gavėjo mokėjimo paslaugų teikėjas mokėtojo mokėjimo paslaugų teikėjui perduoda gavėjo ar per gavėją inicijuotą mokėjimo nurodymą per gavėjo ir jo mokėjimo paslaugų teikėjo sutartą terminą. Mokėjimo nurodymas atlikti tiesioginį debetą turi būti perduotas per sutartą terminą, kad būtų sudaryta galimybė atsiskaitymą atlikti sutartą dieną.
+ 
+
+
+
+
+
+
+37 straipsnis. Mokėjimas, kai gavėjas neturi mokėjimo sąskaitos mokėjimo paslaugų teikėjo įstaigoje
+
+
+Kai gavėjas neturi mokėjimo sąskaitos mokėjimo paslaugų teikėjo įstaigoje, mokėjimo paslaugų teikėjas, kuris gauna gavėjui skirtas lėšas, sudaro galimybę gavėjui jomis disponuoti šio įstatymo 36 straipsnyje nustatytais terminais.
+ 
+
+
+
+
+
+
+38 straipsnis. Į mokėjimo sąskaitą įmokėti grynieji pinigai
+
+
+Kai mokėjimo paslaugų vartotojas, kuris nėra vartotojas, įmoka grynuosius pinigus į mokėjimo sąskaitą mokėjimo paslaugų teikėjo įstaigoje tos mokėjimo sąskaitos valiuta, mokėjimo paslaugų teikėjas užtikrina, kad lėšomis būtų galima disponuoti ir jų įskaitymo data būtų ne vėlesnė kaip kita darbo diena gavus lėšas. Jeigu mokėjimo paslaugų vartotojas yra vartotojas, mokėjimo paslaugų teikėjas turi užtikrinti, kad lėšomis būtų galima disponuoti ir jų įskaitymo data būtų iš karto gavus lėšas.
+ 
+
+
+
+
+
+
+39 straipsnis. Įskaitymo data ir disponavimas lėšomis
+
+
+1. Įskaitymo data į gavėjo mokėjimo sąskaitą yra ne vėlesnė negu darbo diena, kurią mokėjimo operacijos suma įskaitoma į gavėjo mokėjimo paslaugų teikėjo sąskaitą.
+
+
+
+
+2. Gavėjo mokėjimo paslaugų teikėjas užtikrina, kad gavėjas galėtų naudotis mokėjimo operacijos suma iš karto, kai ta suma įskaitoma į gavėjo mokėjimo paslaugų teikėjo sąskaitą.
+
+
+
+
+3. Nurašymo iš mokėtojo mokėjimo sąskaitos data yra ne ankstesnė negu momentas, kai mokėjimo operacijos suma nurašoma iš tos mokėjimo sąskaitos.
+ 
+
+
+
+
+
+
+40 straipsnis. Klaidingi unikalūs identifikatoriai
+
+
+1. Jeigu mokėjimo nurodymui įvykdyti mokėjimo paslaugų vartotojas nurodo unikalų identifikatorių, toks mokėjimo nurodymas laikomas tinkamai įvykdytu unikaliu identifikatoriumi nurodyto gavėjo ir (arba) jo mokėjimo sąskaitos atžvilgiu.
+
+
+
+
+2. Jeigu mokėjimo paslaugų vartotojo pateiktas unikalus identifikatorius yra klaidingas, mokėjimo paslaugų teikėjas neatsako pagal šio įstatymo 41 straipsnį už mokėjimo operacijos neįvykdymą ar netinkamą įvykdymą, tačiau privalo imtis visų įmanomų priemonių, kad atsektų mokėjimo operaciją, ir privalo siekti atgauti mokėjimo operacijos lėšas. Mokėjimo paslaugų teikėjas gali iš mokėjimo paslaugų vartotojo imti komisinį atlyginimą už lėšų grąžinimą, jeigu tai numatyta bendrojoje sutartyje.
+
+
+
+
+3. Jeigu mokėjimo paslaugų vartotojas pateikia ne tik šio įstatymo 10 straipsnio 3 dalies 2 punkte arba 17 straipsnio 2 dalies 1 punkte nurodytą informaciją, bet ir papildomą informaciją, mokėjimo paslaugų teikėjas atsako tik už mokėjimo operacijų vykdymą pagal mokėjimo paslaugų vartotojo pateiktą unikalų identifikatorių.
+ 
+
+
+
+
+
+
+41 straipsnis. Mokėjimo operacijos neįvykdymas arba netinkamas įvykdymas
+
+
+1. Kai mokėjimo nurodymą inicijuoja mokėtojas, jo mokėjimo paslaugų teikėjas atsako mokėtojui už tinkamą mokėjimo operacijos įvykdymą. Kai mokėtojo mokėjimo paslaugų teikėjas gali įrodyti mokėtojui ir tam tikrais atvejais gavėjo mokėjimo paslaugų teikėjui, kad gavėjo mokėjimo paslaugų teikėjas gavo mokėjimo operacijos sumą, gavėjo mokėjimo paslaugų teikėjas yra atsakingas gavėjui už tinkamą mokėjimo operacijos įvykdymą.
+
+
+
+
+2. Kai mokėtojo mokėjimo paslaugų teikėjui atsakomybė tenka pagal šio straipsnio 1 dalį, jis nedelsdamas grąžina mokėtojui neįvykdytos arba netinkamai įvykdytos mokėjimo operacijos sumą arba atkuria mokėjimo sąskaitos, iš kurios ta suma nurašyta, likutį, kuris būtų, jeigu netinkamai įvykdyta mokėjimo operacija nebūtų buvusi atlikta.
+
+
+
+
+3. Kai gavėjo mokėjimo paslaugų teikėjui atsakomybė tenka pagal šio straipsnio 1 dalį, jis nedelsdamas įskaito mokėjimo operacijos sumą į gavėjo mokėjimo sąskaitą ir (arba) sudaro gavėjui galimybę ja disponuoti.
+
+
+
+
+4. Jeigu mokėtojui inicijavus mokėjimo nurodymą mokėjimo operacija neįvykdoma arba įvykdoma netinkamai, mokėtojo mokėjimo paslaugų teikėjas visais atvejais mokėtojo reikalavimu nedelsdamas turi imtis priemonių atsekti mokėjimo operaciją ir pranešti mokėtojui paieškos rezultatus.
+
+
+
+
+5. Kai mokėjimo nurodymą inicijuoja gavėjas arba mokėjimo nurodymas inicijuojamas per gavėją, gavėjo mokėjimo paslaugų teikėjas mokėjimo nurodymą nedelsdamas perduoda mokėtojo mokėjimo paslaugų teikėjui. Gavėjo mokėjimo paslaugų teikėjas atsako gavėjui už tinkamą mokėjimo nurodymo perdavimą mokėtojo mokėjimo paslaugų teikėjui.
+
+
+
+
+6. Gavėjo mokėjimo paslaugų teikėjas atsako gavėjui už mokėjimo operacijos tvarkymą pagal šio įstatymo 39 straipsnio nuostatas.
+
+
+
+
+7. Kai mokėjimo operacija, už kurią gavėjo mokėjimo paslaugų teikėjas neatsako pagal šio straipsnio 5 ir 6 dalis, neįvykdoma arba netinkamai įvykdoma, mokėtojui atsako mokėtojo mokėjimo paslaugų teikėjas. Atsakingas mokėtojo mokėjimo paslaugų teikėjas nedelsdamas grąžina mokėtojui neįvykdytos arba netinkamai įvykdytos mokėjimo operacijos sumą arba atkuria mokėjimo sąskaitos, iš kurios ta suma nurašyta, likutį, kuris būtų, jeigu netinkamai įvykdyta mokėjimo operacija nebūtų buvusi atlikta.
+
+
+
+
+8. Jeigu gavėjui ar per gavėją inicijavus mokėjimo nurodymą mokėjimo operacija neįvykdoma arba įvykdoma netinkamai, gavėjo mokėjimo paslaugų teikėjas visais atvejais gavėjo reikalavimu nedelsdamas turi imtis priemonių atsekti mokėjimo operaciją ir pranešti gavėjui paieškos rezultatus.
+
+
+
+
+9. Mokėjimo paslaugų teikėjai atlygina savo mokėjimo paslaugų vartotojams visą komisinį atlyginimą ir palūkanas, kurie tenka mokėjimo paslaugų vartotojams dėl mokėjimo operacijos neįvykdymo ar netinkamo įvykdymo.
+ 
+
+
+
+
+
+
+42 straipsnis. Papildomas nuostolių atlyginimas
+
+
+Kiti teisės aktai, taikomi mokėjimo paslaugų teikėjo ir mokėjimo paslaugų vartotojo sudarytai sutarčiai, gali numatyti papildomą nuostolių, nenumatytų šio įstatymo 40 ir 41 straipsniuose, atlyginimą.
+ 
+
+
+
+
+
+
+43 straipsnis. Atgręžtinio reikalavimo teisė
+
+
+1. Jeigu už mokėjimo operacijos neįvykdymą arba netinkamą įvykdymą atsakingas ne mokėtojo mokėjimo paslaugų teikėjas, o kitas mokėjimo paslaugų teikėjas ar tarpininkas, atsakingas mokėjimo paslaugų teikėjas ar tarpininkas kompensuoja visus mokėtojo mokėjimo paslaugų teikėjo patirtus nuostolius arba pagal šio įstatymo 41 straipsnį sumokėtą sumą.
+
+
+
+
+2. Papildoma kompensacija gali būti nustatyta pagal mokėjimo paslaugų teikėjų ir (arba) tarpininkų susitarimus ir šiems susitarimams taikomą teisę.
+ 
+
+
+
+
+
+
+44 straipsnis. Duomenų apsauga
+
+
+Mokėjimo sistemų operatoriai ir mokėjimo paslaugų teikėjai turi teisę tvarkyti asmens duomenis, kai tai būtina mokėjimo paslaugoms teikti, ir siekdami užtikrinti sukčiavimo atliekant mokėjimus prevenciją, tyrimą ir nustatymą. Asmens duomenys tvarkomi Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo nustatyta tvarka.
+ 
+
+
+
+
+
+
+
+
+VI SKYRIUS
+ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS IR PRAŠYMŲ (SKUNDŲ) NAGRINĖJIMO TVARKA
+ 
+
+
+45 straipsnis. Atsakomybė už šio įstatymo pažeidimus
+
+
+Asmenys, pažeidę šio įstatymo reikalavimus, atsako šio ir kitų įstatymų nustatyta tvarka.
+ 
+
+
+
+
+
+
+46 straipsnis. Už prašymų (skundų) nagrinėjimą ir poveikio priemonių taikymą atsakinga institucija
+
+
+1. Vartotojų prašymus (skundus) dėl Lietuvos Respublikoje įsisteigusių, turinčių tarpininką arba filialą mokėjimo paslaugų teikėjų teikiamų mokėjimo paslaugų Lietuvos Respublikoje nagrinėja ir šio įstatymo 52 straipsnyje nustatytas poveikio priemones taiko Valstybinė vartotojų teisių apsaugos tarnyba (toliau – Tarnyba).
+
+
+
+
+2. Prašymų (skundų) nagrinėjimo ir šio įstatymo 52 straipsnyje nustatytų poveikio priemonių taikymo tvarką nustato šis įstatymas ir Tarnybos patvirtintos taisyklės.
+ 
+
+
+
+
+
+
+47 straipsnis. Tarnybos funkcijos
+
+
+Tarnyba, kiek tai susiję su vartotojų teisių apsauga:
+
+
+1) stebi, ar mokėjimo paslaugų teikėjai tinkamai laikosi šiame įstatyme nustatytų reikalavimų;
+
+
+
+
+2) taiko šio įstatymo 52 straipsnyje nustatytas poveikio priemones mokėjimo paslaugų teikėjams, pažeidusiems šį įstatymą;
+
+
+
+
+3) nagrinėja šio įstatymo 49 straipsnio 1 dalyje nurodytus prašymus (skundus) dėl šio įstatymo pažeidimo (toliau – prašymas (skundas);
+
+
+
+
+4) savo iniciatyva nagrinėja galimus šio įstatymo pažeidimus;
+
+
+
+
+5) bendradarbiauja su mokėjimo paslaugų teikėjų priežiūros institucija;
+
+
+
+
+6) iškilus tarptautiniams ginčams, bendradarbiauja su valstybių narių ir užsienio valstybių atitinkamomis institucijomis;
+
+
+
+
+7) atlieka kitas šiame ir kituose įstatymuose nustatytas funkcijas.
+ 
+
+
+
+
+
+
+
+
+48 straipsnis. Mokėjimo paslaugų vartotojų ir mokėjimo paslaugų teikėjų ginčų sprendimas
+
+
+1. Mokėjimo paslaugų vartotojų prašymus (skundus) dėl mokėjimo paslaugų teikėjo veiksmų, kuriais mokėjimo paslaugų teikėjas galėjo pažeisti šio įstatymo reikalavimus ir (ar) mokėjimo paslaugų vartotojo teisėtus interesus, nagrinėja mokėjimo paslaugų teikėjas. Mokėjimo paslaugų teikėjas privalo išnagrinėti rašytinius mokėjimo paslaugų vartotojo prašymus (skundus) ir raštu jam atsakyti per trisdešimt kalendorinių dienų nuo prašymo (skundo) gavimo dienos.
+
+
+
+
+2. Mokėjimo paslaugų vartotojų prašymus (skundus) mokėjimo paslaugų teikėjas nagrinėja nemokamai.
+
+
+
+
+3. Jeigu mokėjimo paslaugų teikėjo atsakymas į mokėjimo paslaugų vartotojo prašymą (skundą) netenkina mokėjimo paslaugų vartotojo ar jam nebuvo atsakyta, mokėjimo paslaugų vartotojas turi teisę kreiptis į teismą įstatymų nustatyta tvarka arba, jei mokėjimo paslaugų vartotojas yra vartotojas, – į Tarnybą šio įstatymo nustatyta tvarka.
+ 
+
+
+
+
+
+
+49 straipsnis. Šio įstatymo pažeidimų nagrinėjimo iniciatyvos teisė
+
+
+1. Teisę kreiptis į Tarnybą su prašymu (skundu) turi:
+
+
+1) vartotojai;
+
+
+
+
+2) vartotojų asociacijos;
+
+
+
+
+3) valstybės ir savivaldybių institucijos ir įstaigos – dėl vartotojų prašymų (skundų).
+
+
+
+
+
+
+2. Jeigu Tarnyba, nagrinėdama prašymus (skundus) kitų įstatymų nustatyta tvarka, nustato pakankamai duomenų apie galimą šio įstatymo pažeidimą, ji privalo pradėti šio įstatymo pažeidimo nagrinėjimo procedūrą.
+
+
+
+
+3. Tarnyba turi teisę pradėti galimų šio įstatymo pažeidimų nagrinėjimą savo iniciatyva. Tokiu atveju mutatis mutandis taikomos šio įstatymo 50 straipsnio 4 dalies, 51 ir 52 straipsnių nuostatos.
+ 
+
+
+
+
+
+
+50 straipsnis. Prašymo (skundo) pateikimas Tarnybai ir jo nagrinėjimo tvarka
+
+
+1. Prašymas (skundas) Tarnybai pateikiamas raštu, jame turi būti nurodytas pareiškėjo vardas, pavardė ir adresas. Prašymas (skundas) turi būti pasirašytas pareiškėjo arba jo atstovo. Prašyme (skunde) nurodomos pareiškėjui žinomos įtariamo šio įstatymo nuostatų pažeidimo faktinės aplinkybės. Prie prašymo (skundo) pridedami pareiškėjo turimi jų patvirtinimo dokumentai.
+
+
+
+
+2. Pradėti prašymo (skundo) nagrinėjimo procedūrą atsisakoma, jeigu:
+
+
+1) prašyme (skunde) nurodyti faktiniai duomenys jau buvo patikrinti ir dėl jų priimtas nutarimas, ginčą nagrinėja teismas arba yra įsigaliojęs teismo sprendimas dėl tų pačių šalių ginčo, dėl to paties dalyko ir tuo pačiu pagrindu;
+
+
+
+
+2) nėra faktinių duomenų, kurie leistų pagrįstai įtarti šio įstatymo pažeidimą;
+
+
+
+
+3) nuo dienos, kai šio įstatymo 49 straipsnio 1 dalyje nurodytas asmuo sužinojo arba turėjo sužinoti apie prašyme (skunde) nurodytą šio įstatymo pažeidimą, iki prašymo (skundo) padavimo yra praėję daugiau kaip šeši mėnesiai, bet visais atvejais – daugiau kaip treji metai nuo pažeidimo padarymo dienos;
+
+
+
+
+4) Tarnyba teisės aktų nustatyta tvarka nėra įgaliota priimti sprendimo dėl prašyme (skunde) nurodyto reikalavimo.
+
+
+
+
+
+
+3. Tarnyba per trisdešimt kalendorinių dienų nuo prašymo (skundo) pateikimo dienos informuoja pareiškėją apie prašymo (skundo) nagrinėjimo procedūrą arba apie priežastis, dėl kurių atsisakoma pradėti prašymo (skundo) nagrinėjimo procedūrą.
+
+
+
+
+4. Tarnyba šio įstatymo pažeidimus nagrinėja ir baudas arba įspėjimus skiria ne vėliau kaip per keturis mėnesius nuo prašymo (skundo) pateikimo dienos.
+ 
+
+
+
+
+
+
+51 straipsnis. Prašymo (skundo) nagrinėjimo procedūroje dalyvaujantys asmenys
+
+
+1. Tarnyba į savo posėdį dėl prašymo (skundo) nagrinėjimo turi teisę kviesti:
+
+
+1) mokėjimo paslaugų teikėją, dėl kurio veiksmų (neveikimo) vykdoma prašymo (skundo) nagrinėjimo procedūra;
+
+
+
+
+2) jeigu prašymo (skundo) nagrinėjimo procedūra pradėta remiantis vartotojo prašymu, – vartotoją;
+
+
+
+
+3) jeigu prašymo (skundo) nagrinėjimo procedūra pradėta remiantis vartotojų asociacijos pašymu, – jos atstovą;
+
+
+
+
+4) valstybės ir savivaldybių institucijų, įstaigų atstovus ir kitus asmenis, kurių kompetencija arba interesai susiję su svarstomu klausimu.
+
+
+
+
+
+
+2. Asmenims, nurodytiems šio straipsnio 1 dalies 1, 2 ir 3 punktuose, per prašymo (skundo) nagrinėjimo procedūrą gali atstovauti jų atstovai.
+ 
+
+
+
+
+
+
+52 straipsnis. Nutarimai, priimami išnagrinėjus prašymą (skundą)
+
+
+1. Tarnyba, išnagrinėjusi prašymą (skundą), priima nutarimą:
+
+
+1) įpareigoti mokėjimo paslaugų teikėją, pažeidusį šio įstatymo reikalavimus, vykdyti Tarnybos nurodymus nutraukti neteisėtus veiksmus, atkurti ankstesnę padėtį;
+
+
+
+
+2) įpareigoti mokėjimo paslaugų teikėją, pažeidusį šio įstatymo reikalavimus, atlyginti padarytą žalą;
+
+
+
+
+3) skirti šio įstatymo nustatytas baudas arba įspėjimą;
+
+
+
+
+4) atsisakyti skirti baudas arba įspėjimą, kai nėra šio įstatymo nustatyto pagrindo.
+
+
+
+
+
+
+2. Nutarime turi būti nurodyta:
+
+
+1) nutarimą priėmusios institucijos pavadinimas;
+
+
+
+
+2) nutarimo priėmimo data ir vieta;
+
+
+
+
+3) asmens, dėl kurio veiksmų (neveikimo) buvo priimtas nutarimas, duomenys;
+
+
+
+
+4) nustatytos šio įstatymo nuostatų pažeidimo faktinės aplinkybės;
+
+
+
+
+5) pažeidimo fakto patvirtinimo duomenys, kuriais grindžiamas nutarimas;
+
+
+
+
+6) šio įstatymo straipsnis, nustatantis atsakomybę už pažeidimą;
+
+
+
+
+7) mokėjimo paslaugų teikėjo, dėl kurio veiksmų (neveikimo) buvo priimtas nutarimas, paaiškinimai ir jų įvertinimas;
+
+
+
+
+8) priimtas sprendimas;
+
+
+
+
+9) sprendimo apskundimo terminai ir tvarka.
+
+
+
+
+
+
+3. Tarnybos nutarimas per tris darbo dienas nuo jo priėmimo dienos registruotu paštu išsiunčiamas asmenims, nurodytiems šio įstatymo 49 straipsnio 1 dalyje, ir mokėjimo paslaugų teikėjui, dėl kurio šis nutarimas priimtas.
+
+
+
+
+4. Tarnyba, nutarime konstatavusi, kad mokėjimo paslaugų teikėjas pažeidė šio įstatymo nuostatas, apie tokį pažeidimą skelbia viešai savo interneto tinklalapyje praėjus trisdešimčiai kalendorinių dienų nuo nutarimo priėmimo dienos. Jeigu per trisdešimt kalendorinių dienų nuo nutarimo priėmimo dienos mokėjimo paslaugų teikėjas apskundžia Tarnybos nutarimą teismui, Tarnyba apie šio įstatymo nuostatų pažeidimą viešai savo interneto tinklalapyje skelbia pasibaigus teismo procesui.
+
+
+
+
+5. Tarnybos priimti nutarimai dėl žalos atlyginimo mokėjimo paslaugų teikėjui privalomi.
+ 
+
+
+
+
+
+
+53 straipsnis. Tarnybos nutarimų apskundimas
+
+
+1. Mokėjimo paslaugų teikėjai ir vartotojai, nesutinkantys su Tarnybos nutarimais, turi teisę per trisdešimt kalendorinių dienų nuo nutarimo priėmimo dienos apskųsti nutarimą teismui įstatymų nustatyta tvarka.
+
+
+
+
+2. Kreipimasis į teismą nesustabdo įpareigojimų, numatytų šio įstatymo 52 straipsnio 1 dalies 1 ir 2 punktuose ir nustatytų Tarnybos nutarimu, vykdymo, jeigu teismas nenustato kitaip.
+ 
+
+
+
+
+
+
+54 straipsnis. Piniginės baudos už šio įstatymo pažeidimus
+
+
+1. Už šio įstatymo nuostatų pažeidimus mokėjimo paslaugų teikėjams Tarnyba gali skirti nuo vieno tūkstančio iki 30 tūkstančių litų baudą. Tais atvejais, kai pažeidimai buvo padaryti šio straipsnio 4 dalyje nurodytomis atsakomybę sunkinančiomis aplinkybėmis, mokėjimo paslaugų teikėjams gali būti skiriama didesnė – nuo 30 iki 120 tūkstančių litų – bauda. Tais atvejais, kai pažeidimas yra mažareikšmis, juo nepadaroma esminės žalos šio įstatymo saugomiems mokėjimo paslaugų vartotojų interesams, Tarnyba, vadovaudamasi teisingumo ir protingumo kriterijais, mokėjimo paslaugų teikėjams gali taikyti nuobaudą – įspėjimą, neskirdama baudos.
+
+
+
+
+2. Skiriamos baudos dydis nustatomas pagal mažiausios ir didžiausios baudų, nustatytų šio straipsnio 1 dalies pirmame sakinyje, vidurkį. Skiriant konkrečią baudą, atsižvelgiama į šio straipsnio 3 ir 4 dalyse nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą. Baudos dydžio mažinimas ar didinimas turi būti motyvuojamas Tarnybos nutarime.
+
+
+
+
+3. Atsakomybę lengvinančiomis aplinkybėmis laikomos aplinkybės, kai padarę pažeidimą mokėjimo paslaugų teikėjai savo noru užkirto kelią žalingoms pažeidimo pasekmėms, bendradarbiavo su Tarnyba tyrimo metu, atlygino nuostolius ir (ar) pašalino padarytą žalą.
+
+
+
+
+4. Atsakomybę sunkinančiomis aplinkybėmis laikomos aplinkybės, kai padarę pažeidimą mokėjimo paslaugų teikėjai kliudė atlikti tyrimą, slėpė padarytą pažeidimą, tęsė pažeidimą, nepaisydami Tarnybos nutarimu paskirtos baudos, įspėjimo, arba pakartotinai padarė pažeidimą, už kurį jau buvo paskirta šio įstatymo nustatyta bauda.
+
+
+
+
+5. Mokėjimo paslaugų teikėjui, kuris nepateikia informacijos ar dokumentų, reikalingų šio įstatymo pažeidimui tirti (neteisingos informacijos pateikimas taip pat laikomas informacijos nepateikimu), Tarnyba gali skirti iki 10 tūkstančių litų baudą.
+ 
+
+
+
+
+
+
+55 straipsnis. Piniginių baudų išieškojimas
+
+
+Bauda turi būti sumokama į valstybės biudžetą ne vėliau kaip per trisdešimt kalendorinių dienų nuo dienos, kai šio įstatymo pažeidėjams įteikiamas nutarimas skirti baudą. Nutarimas skirti baudą vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
+ 
+
+
+
+
+
+
+
+
+VII SKYRIUS
 BAIGIAMOSIOS NUOSTATOS
  
 
 
-22 straipsnis. Klientų ir kredito įstaigos ginčų sprendimas
+56 straipsnis. Mokėjimo paslaugų teikėjų teisė nustatyti palankesnes sąlygas mokėjimo paslaugų vartotojams ir komisinių bei kitų atlyginimų nustatymas
 
 
-1. Klientų prašymus (skundus) dėl kredito įstaigos veiksmų, kuriais kredito įstaiga pažeidžia šio Įstatymo reikalavimus ir (ar) kliento teisėtus interesus, nagrinėja kredito įstaiga. Kredito įstaiga privalo išnagrinėti raštiškus kliento prašymus (skundus) ir raštu atsakyti klientui per 30 dienų nuo prašymo gavimo dienos. Klientų prašymus (skundus) kredito įstaiga nagrinėja nemokamai.
-
-
-
-
-2. Kredito įstaigai ir klientui nesusitarus, klientas turi teisę kreiptis į teismą Lietuvos Respublikos įstatymų nustatyta tvarka.
- 
+1. Mokėjimo paslaugų teikėjai turi teisę nustatyti palankesnes sąlygas mokėjimo paslaugų vartotojams, negu nustatytos šiame įstatyme.
 
 
 
 
-
-
-23 straipsnis. Vartotojo ir kredito įstaigos ginčų sprendimas
-
-
-1. Jeigu kredito įstaigos atsakymas į šio Įstatymo 22 straipsnio 1 dalyje nurodytą vartotojo prašymą (skundą) netenkina vartotojo ar jam nebuvo atsakyta, vartotojas ne vėliau kaip per šešis mėnesius nuo vartotojo prašymo (skundo) pateikimo kredito įstaigai dienos turi teisę kreiptis į Nacionalinę vartotojų teisių apsaugos tarybą prie Teisingumo ministerijos (toliau – Nacionalinė vartotojų teisių apsaugos taryba). Nacionalinė vartotojų teisių apsaugos taryba skundus nagrinėja savo nustatyta tvarka.
-
-
-
-
-2. Nacionalinė vartotojų teisių apsaugos taryba vartotojo skundą privalo išnagrinėti ne vėliau kaip per keturis mėnesius nuo skundo pateikimo dienos. Nacionalinė vartotojų teisių apsaugos taryba į savo posėdžius turi teisę kviesti Lietuvos banko ir kitų valstybės institucijų, kredito įstaigų atstovus bei kitus asmenis, kurių kompetencija arba interesai susiję su svarstomu klausimu. 
-
-
-
-
-3. Nacionalinės vartotojų teisių apsaugos tarybos priimti sprendimai dėl nuostolių atlyginimo yra kredito įstaigai privalomi, jeigu kredito įstaiga per vieną mėnesį nuo sprendimo priėmimo dienos nepareiškė prieštaravimo Nacionalinei vartotojų teisių apsaugos tarybai.
-
-
-
-
-4. Nacionalinė vartotojų teisių apsaugos taryba skundus nagrinėja nemokamai.
-
-
-
-
-5. Jeigu kredito įstaiga ir vartotojas nesusitaria, vartotojas turi teisę kreiptis į teismą Lietuvos Respublikos įstatymų nustatyta tvarka.
- 
-
-
-
-
-
-
-24 straipsnis. Palūkanos
-
-
-Palūkanų, kurias kredito įstaiga pagal šį Įstatymą privalo sumokėti klientui už įsipareigojimų nevykdymą, dydis apskaičiuojamas taikant palūkanų normą, galiojusią prieš tą mėnesį, kurį kredito įstaigai atsiranda pareiga mokėti palūkanas. Kredito įstaiga ir klientas gali susitarti ir dėl kitokio palūkanų dydžio, bet jis negali būti mažesnis, nei nustatyta šiame Įstatyme
+2. Mokėjimo paslaugų teikėjai nustato komisinius ir kitus atlyginimus nepiktnaudžiaudami ir taip, kad jie atitiktų teikiamos mokėjimo paslaugos pobūdį, būtų ekonomiškai pagrįsti ir teisingi
  
 
 
@@ -1085,6 +2111,21 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
  
+
+
+
+
+Lietuvos Respublikos
+mokėjimų įstatymo
+priedas
+ 
+ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS AKTAS
+ 
+
+
+2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos direktyva 2007/64/EB dėl mokėjimo paslaugų vidaus rinkoje, iš dalies keičianti direktyvas 97/7/EB, 2002/65/EB, 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 97/5/EB (OL 2007 L 319, p. 1).
+
+
  
  
 Pakeitimai:
@@ -1103,3 +2144,8 @@ Lietuvos Respublikos mokėjimų įstatymo 7 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1351, 2007-12-05, Žin., 2007, Nr. 132-5355 (2007-12-15), i. k. 1071010ISTA00X-1351
 Lietuvos Respublikos mokėjimų įstatymo 3 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-550, 2009-12-10, Žin., 2009, Nr. 153-6888 (2009-12-28), i. k. 1091010ISTA00XI-550
+Lietuvos Respublikos mokėjimų įstatymo pakeitimo įstatymas
