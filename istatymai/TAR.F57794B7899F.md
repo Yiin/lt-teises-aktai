@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2009-08-01 iki 2009-12-27
+Suvestinė redakcija nuo 2009-12-28 iki 2009-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -116,140 +116,286 @@ BENDROSIOS NUOSTATOS
 
 
 
-14. Nacionalinė balansavimo funkcija – balanso tarp elektros energijos gamybos ir vartojimo užtikrinimas pagal sistemos patikimumo ir elektros energijos kokybės kriterijus energetikos sistemos mastu.
-
-
-
-
-15. Nepriklausomas tiekėjas – asmuo, tiekiantis elektros energiją laisviesiems vartotojams ir turintis atitinkamą licenciją vykdyti šią veiklą. 
-
-
-
-
-16. Normatyvinis pelnas – paslaugos teikėjo pelnas prieš apmokestinimą iš licencijuojamos veiklos, kuris užtikrinamas kainos viršutinės ribos nustatymu, kad būtų patikimai, saugiai, kokybiškai, efektyviai, atsižvelgiant į tinklų naudotojų poreikius, vykdoma licencijuojama veikla ir užtikrinta pakankama ir teisinga pridėtinė vertė (grąža) asmenų, vykdančių perdavimo, skirstymo ir visuomeninio tiekimo veiklą, dalyviams. 
-Straipsnio dalies pakeitimai:
-Nr. XI-198, 2009-03-19, Žin., 2009, Nr. 38-1437 (2009-04-04), i. k. 1091010ISTA00XI-198
+14. Leistinoji naudoti galia – didžiausia galia, kuri nurodyta prijungimo sutartyje tarp perdavimo sistemos ar skirstomųjų tinklų operatoriaus ir vartotojo ir kurią vartotojas gali naudoti iš operatoriaus tinklų bet kuriuo metu. Lokaliojo tinklo, maitinančio galutinius vartotojus, leistinoji naudoti galia yra transformatorinės pastotės (transformatoriaus) galingumas atėmus galios nuostolius lokaliajame tinkle. 
+TAR pastaba. 14 dalies nuostata „Lokaliojo tinklo, maitinančio galutinius vartotojus, leistinoji naudoti galia yra transformatorinės pastotės (transformatoriaus) galingumas atėmus galios nuostolius lokaliajame tinkle“ įsigalioja 2010-07-01.
+Papildyta straipsnio dalimi:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
  
 
 
 
 
-17. Perdavimas – elektros energijos persiuntimas perdavimo tinklais. 
+15. Nacionalinė balansavimo funkcija – balanso tarp elektros energijos gamybos ir vartojimo užtikrinimas pagal sistemos patikimumo ir elektros energijos kokybės kriterijus energetikos sistemos mastu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-18. Perdavimo sistemos operatorius – juridinis asmuo, nuosavybės ar kita teise valdantis perdavimo tinklus, atliekantis nacionalinę balansavimo ir sisteminių paslaugų teikimo funkcijas.
+16. Nepriklausomas tiekėjas – asmuo, tiekiantis elektros energiją laisviesiems vartotojams ir turintis atitinkamą licenciją vykdyti šią veiklą. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-19. Perdavimo tinklų įmonė – įmonė, nuosavybės ar kita teise valdanti perdavimo tinklus.
+17. Normatyvinis pelnas – paslaugos teikėjo pelnas prieš apmokestinimą iš licencijuojamos veiklos, kuris užtikrinamas kainos viršutinės ribos nustatymu, kad būtų patikimai, saugiai, kokybiškai, efektyviai, atsižvelgiant į tinklų naudotojų poreikius, vykdoma licencijuojama veikla ir užtikrinta pakankama ir teisinga pridėtinė vertė (grąža) asmenų, vykdančių perdavimo, skirstymo ir visuomeninio tiekimo veiklą, dalyviams. 
+Straipsnio dalies pakeitimai:
+Nr. XI-198, 2009-03-19, Žin., 2009, Nr. 38-1437 (2009-04-04), i. k. 1091010ISTA00XI-198
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-20. Persiuntimo paslauga – elektros energijos perdavimas ir (ar) skirstymas iki sutartyje nustatytos ribos.
+18. Perdavimas – elektros energijos persiuntimas perdavimo tinklais. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-21. Reguliavimo energija – perdavimo sistemos operatoriaus dispečerinio centro nurodymu nupirkta ir (ar) parduota elektros energija, reikalinga nacionalinei balansavimo funkcijai atlikti.
+19. Perdavimo sistemos operatorius – asmuo, nuosavybės teise ar kitais teisėtais pagrindais valdantis perdavimo tinklus, atliekantis nacionalinę balansavimo ir sisteminių paslaugų teikimo funkcijas ir turintis atitinkamą licenciją vykdyti šią veiklą. 
+Straipsnio dalies pakeitimai:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-22. Reguliavimo periodas – laikotarpis, kuriam nustatomos viršutinės perdavimo, skirstymo, visuomeninio tiekimo paslaugų ir (ar) visuomeninės elektros energijos kainų ribos.
+20. Perdavimo tinklų įmonė – asmuo, nuosavybės ar kita teise valdantis perdavimo tinklus. 
+Straipsnio dalies pakeitimai:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-23. Reguliuojamasis trečiosios šalies dalyvavimas – procesas, kai gamintojai, tiekėjai ir laisvieji vartotojai naudojasi perdavimo ar skirstomaisiais tinklais elektros energijai persiųsti viešai paskelbtomis sąlygomis.
+21. Persiuntimo paslauga – elektros energijos perdavimas ir (ar) skirstymas iki sutartyje nustatytos ribos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-24. Rezervinė galia – elektros energijos gamybos potencialas, kuris naudojamas dažnio ir energetikos sistemos srautų balansui reguliuoti ir elektros energijai gaminti nenumatytais gamybos sumažėjimo ar vartojimo padidėjimo atvejais. 
+22. Reguliavimo energija – perdavimo sistemos operatoriaus dispečerinio centro nurodymu nupirkta ir (ar) parduota elektros energija, reikalinga nacionalinei balansavimo funkcijai atlikti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-25. Rinkos dalyvis – asmuo, perkantis ir (ar) parduodantis elektros energiją pagal sutartis, taip pat kitais Prekybos elektros energija taisyklėse numatytais būdais.
+23. Reguliavimo periodas – laikotarpis, kuriam nustatomos viršutinės perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų ribos. 
+Straipsnio dalies pakeitimai:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-26. Rinkos operatorius – juridinis asmuo, organizuojantis prekybą elektros energija ir atsiskaitymus tarp gamintojų, tiekėjų bei vartotojų. 
+24. Reguliuojamasis trečiosios šalies dalyvavimas – procesas, kai gamintojai, tiekėjai ir laisvieji vartotojai naudojasi perdavimo ar skirstomaisiais tinklais elektros energijai persiųsti viešai paskelbtomis sąlygomis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-27. Sisteminės paslaugos – paslaugos, kurios užtikrina energetikos sistemos darbo stabilumą ir patikimumą, sisteminių avarijų prevenciją ir likvidavimą, reikiamą galios rezervą bei pralaidumą perdavimo tinklais laikantis nustatytų elektros energijos tiekimo kokybės ir patikimumo ribų.
+25. Rezervinė galia – elektros energijos gamybos potencialas, kuris naudojamas dažnio ir energetikos sistemos srautų balansui reguliuoti ir elektros energijai gaminti nenumatytais gamybos sumažėjimo ar vartojimo padidėjimo atvejais. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-28. Skirstymas – elektros energijos persiuntimas skirstomaisiais tinklais. 
+26. Rinkos dalyvis – asmuo, perkantis ir (ar) parduodantis elektros energiją pagal sutartis, taip pat kitais Prekybos elektros energija taisyklėse numatytais būdais.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-29. Skirstomųjų tinklų įmonė – įmonė, nuosavybės ar kita teise valdanti skirstomuosius tinklus.
+27. Rinkos operatorius – asmuo, organizuojantis prekybą elektros energija ir turintis atitinkamą licenciją vykdyti šią veiklą. 
+Straipsnio dalies pakeitimai:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-30. Skirstomųjų tinklų operatorius – juridinis asmuo, nuosavybės ar kita teise valdantis, eksploatuojantis, prižiūrintis ir plėtojantis skirstomuosius tinklus, esančius jo veiklos licencijoje nurodytoje teritorijoje, pagal skirstomųjų tinklų naudotojų poreikius. 
+28. Sisteminės paslaugos – paslaugos, kurios užtikrina energetikos sistemos darbo stabilumą ir patikimumą, sisteminių avarijų prevenciją ir likvidavimą, reikiamą galios rezervą bei pralaidumą perdavimo tinklais laikantis nustatytų elektros energijos tiekimo kokybės ir patikimumo ribų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-31. Tiekimas – elektros energijos pardavimas vartotojui.
+29. Skirstymas – elektros energijos persiuntimas skirstomaisiais tinklais. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-32. Tiesioginė linija – elektros energijos linija, jungianti gamybos ir vartojimo vietas, neprijungtas prie perdavimo ar skirstomųjų tinklų.
+30. Skirstomųjų tinklų įmonė – asmuo, nuosavybės ar kita teise valdantis skirstomuosius tinklus. 
+Straipsnio dalies pakeitimai:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-33. Tinklų naudotojas – asmuo, kurio įrenginiai yra prijungti prie perdavimo ar skirstomųjų tinklų ir kuris naudojasi elektros energijos persiuntimo paslauga. 
+31. Skirstomųjų tinklų operatorius – asmuo, nuosavybės teise ar kitais teisėtais pagrindais valdantis, eksploatuojantis, prižiūrintis ir plėtojantis skirstomuosius tinklus, esančius jo veiklos licencijoje nurodytoje teritorijoje, pagal skirstomųjų tinklų naudotojų poreikius. 
+Straipsnio dalies pakeitimai:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-34. Tinklų priežiūros darbai – tinklų įrenginių darbo stabilumą, patikimumą ir kokybę užtikrinantys veiksmai.
+32. Tiekėjas – visuomeninis ar nepriklausomas tiekėjas, turintis atitinkamą licenciją vykdyti šią veiklą. 
+Papildyta straipsnio dalimi:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-35. Vartotojas – asmuo, kurio įrenginiai yra prijungti prie perdavimo arba skirstomųjų tinklų ar tiesioginės linijos ir kuris perka elektros energiją vartojimo tikslams.
+33. Tiekimas – elektros energijos pardavimas vartotojui.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-36. Vertikaliosios integracijos įmonė – įmonė, kuri verčiasi bent viena iš elektros energijos perdavimo ar skirstymo veiklos rūšių ir bent viena elektros energijos tiekimo ar gamybos veiklos rūšių arba gali kontroliuoti tiekimo ar gamybos veikla besiverčiančias įmones, arba būti jų kontroliuojama.
+34. Tiesioginė linija – elektros energijos linija, jungianti gamybos ir vartojimo vietas, neprijungtas prie perdavimo ar skirstomųjų tinklų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-37. Viešieji interesai elektros energetikos sektoriuje – veikla ar neveikimas elektros energetikos sektoriuje, tiesiogiai ar netiesiogiai susiję su visuomenės saugumu ir aplinkos apsauga, taip pat elektros energijos gamyba naudojant atsinaujinančius energijos išteklius kombinuotojo elektros energijos bei šilumos gamybos ciklo elektrinėse.
+35. Tinklų naudotojas – asmuo, kurio įrenginiai yra prijungti prie perdavimo ar skirstomųjų tinklų ir kuris naudojasi elektros energijos persiuntimo paslauga. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-38. Viešuosius interesus atitinkančios paslaugos – elektros energetikos įmonių teikiamos paslaugos, kurių sąrašą, teikėjus ir teikimo tvarką nustato Vyriausybė arba jos įgaliota institucija, vadovaudamasi viešaisiais interesais elektros energetikos sektoriuje.
+36. Tinklų priežiūros darbai – tinklų įrenginių darbo stabilumą, patikimumą ir kokybę užtikrinantys veiksmai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-39. Visuomeninė elektros energijos kaina – visuomeninio tiekėjo vartotojams parduodamos elektros energijos kaina.
+37. Vartotojas – asmuo, kurio įrenginiai yra prijungti prie perdavimo arba skirstomųjų tinklų ar tiesioginės linijos ir kuris perka elektros energiją vartojimo tikslams.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-40. Visuomeninis tiekėjas – juridinis asmuo, įpareigotas tiekti elektros energiją jo veiklos licencijoje nurodytoje teritorijoje esantiems vartotojams pagal šio įstatymo 40 straipsnyje nustatytus elektros rinkos liberalizavimo etapus ir laisviesiems vartotojams, kurie nepasirinko nepriklausomo tiekėjo. 
+38. Vartotojo objektas – vartotojui nuosavybės teise ar kitais teisėtais pagrindais priklausantis konkretus objektas, kuriame vartojama elektros energija. 
+Papildyta straipsnio dalimi:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
+
+
+
+
+39. Vertikaliosios integracijos įmonė – įmonė, kuri verčiasi bent viena iš elektros energijos perdavimo ar skirstymo veiklos rūšių ir bent viena elektros energijos tiekimo ar gamybos veiklos rūšių arba gali kontroliuoti tiekimo ar gamybos veikla besiverčiančias įmones, arba būti jų kontroliuojama.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
+
+
+
+
+40. Viešieji interesai elektros energetikos sektoriuje – veikla ar neveikimas elektros energetikos sektoriuje, tiesiogiai ar netiesiogiai susiję su visuomenės saugumu ir aplinkos apsauga, taip pat elektros energijos gamyba naudojant atsinaujinančius energijos išteklius kombinuotojo elektros energijos bei šilumos gamybos ciklo elektrinėse.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
+
+
+
+
+41. Viešuosius interesus atitinkančios paslaugos – elektros energetikos įmonių teikiamos paslaugos, kurių sąrašą, teikėjus ir teikimo tvarką nustato Vyriausybė arba jos įgaliota institucija, vadovaudamasi viešaisiais interesais elektros energetikos sektoriuje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
+
+
+
+
+42. Visuomeninė elektros energijos kaina – visuomeninio tiekėjo šio įstatymo 25 straipsnyje nurodytiems vartotojams parduodamos elektros energijos kaina. 
+Straipsnio dalies pakeitimai:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
+
+
+
+
+43. Visuomeninis tiekėjas – asmuo, įpareigotas tiekti elektros energiją jo veiklos licencijoje nurodytoje teritorijoje esantiems šio įstatymo 25 straipsnyje nurodytiems vartotojams ir užtikrinti elektros energijos tiekimą vartotojams tuo atveju, kai jų esamas nepriklausomas tiekėjas nevykdo savo įsipareigojimo tiekti elektros energiją ir jie negali pasirinkti kito nepriklausomo tiekėjo. 
+Straipsnio dalies pakeitimai:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
+
+
+
+
+44. Bendrai naudojamo elektros energetikos objekto – elektros tinklo avarinė būklė – tokia būklė, kai:
+
+
+1) daugiau kaip 30 procentų elektros linijų atramų yra pažeistos;
+
+
+
+
+2) daugiau kaip 30 procentų elektros linijų laidų yra mažesnio skerspjūvio, negu numatyta projekte;
+
+
+
+
+3) daugiau kaip 30 procentų kabelių spintų pažeistos korozijos (spintos viduje sumontuota aparatūra neapsaugota nuo atmosferos poveikio, pažeistas įžeminimo kontūras);
+
+
+
+
+4) yra statinių po elektros linijomis;
+
+
+
+
+5) kabelių linijos, kertančios važiuojamąją kelio dalį, nėra apsaugotos nuo mechaninio pažeidimo. 
+TAR pastaba. Papildymas 44 dalimi įsigalioja 2010-07-01.
+
+
+Papildyta straipsnio dalimi:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
+
+
+
+
+45. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip nurodyta Lietuvos Respublikos energetikos įstatyme (toliau – Energetikos įstatymas). 
+Papildyta straipsnio dalimi:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
  
 
 
@@ -429,7 +575,7 @@ Nr. XI-198, 2009-03-19, Žin., 2009, Nr. 38-1437 (2009-04-04), i. k. 1091010ISTA
 
 
 
-6) skaidrumo ir konkurencijos laipsnį. 
+6) skaidrumo ir konkurencijos laipsnį; 
 Straipsnio punkto pakeitimai:
 Nr. XI-198, 2009-03-19, Žin., 2009, Nr. 38-1437 (2009-04-04), i. k. 1091010ISTA00XI-198
  
@@ -530,60 +676,337 @@ Valstybė, nustatydama įpareigojimus teikti viešuosius interesus atitinkančia
 
 
 
-2. Licencijavimo taisykles tvirtina Vyriausybė ar jos įgaliota institucija.
+2. Veiklos elektros energetikos sektoriuje licencijavimo taisykles (toliau – Licencijavimo taisyklės) tvirtina Vyriausybė.
 
 
 
 
-3. Licencijų išdavimo kriterijai privalo būti objektyvūs ir nediskriminuojantys, atitikti šio įstatymo 3 straipsnyje nurodytus tikslus.
+3. Asmenims, siekiantiems vykdyti elektros energetikos licencijuojamą veiklą, licencijos išduodamos vadovaujantis veiklos saugumo, patikimumo ir nediskriminavimo principais neterminuotam laikui.
 
 
 
 
-4. Šio straipsnio 1 dalyje nurodytos veiklos licencijas išduoda bei licencijuojamą veiklą kontroliuoja Komisija.
+4. Elektros energijos rinkos operatoriaus, perdavimo, skirstymo ir visuomeninio tiekimo licencijose nurodoma teritorija, kurioje jie turi išskirtines licencijoje nurodytos veiklos vykdymo teises ir pareigas.
 
 
 
 
-5. Elektros energijos skirstymo ir visuomeninio tiekimo licencijose nurodoma teritorija, kurioje skirstomųjų tinklų operatorius ar visuomeninis tiekėjas turi išskirtines veiklos vykdymo teises.
+5. Licencijos išduodamos asmenims, turintiems pakankamus technologinius, finansinius ir vadybinius pajėgumus, leidžiančius tinkamai vykdyti licencijuojamos veiklos sąlygas. Elektros energetikos įmonių technologinius, finansinius ir vadybinius pajėgumus ir jų įvertinimo tvarką nustato Komisija.
 
 
 
 
-6. Leidimai išduodami šiai veiklai:
-
-
-1) elektros energijai gaminti;
+6. Elektros energijos rinkos operatoriaus, perdavimo, skirstymo ir visuomeninio tiekimo licencijos išduodamos Lietuvos Respublikoje įsteigtam juridiniam asmeniui arba kitos valstybės narės juridinio asmens ar kitos organizacijos padaliniui, įsteigtam Lietuvos Respublikoje.
 
 
 
 
-2) elektros energijos gamybos pajėgumams plėtoti;
+7. Asmenys, kurie eksploatuoja elektros energijos perdavimo ar skirstymo tinklus, privalo turėti Energetikos įstatymo nustatyta tvarka išduotą atestatą, suteikiantį teisę eksploatuoti elektros įrenginius.
 
 
 
 
-3) elektros energijai eksportuoti;
+8. Elektros energijos perdavimo licencija išduodama asmeniui, atitinkančiam šio straipsnio 5, 6 ir 7 dalyse nustatytus reikalavimus ir nuosavybės teise turinčiam ar kitais teisėtais pagrindais valdančiam perdavimo tinklus Lietuvos Respublikos teritorijoje.
 
 
 
 
-4) elektros energijai importuoti; 
+9. Elektros energijos skirstymo licencija išduodama asmeniui, atitinkančiam šio straipsnio 5, 6 ir 7 dalyse nustatytus reikalavimus ir nuosavybės teise turinčiam ar kitais teisėtais pagrindais valdančiam skirstomuosius tinklus, tiesiogiai sujungtus su perdavimo tinklais.
 
 
 
 
-5) tiesioginei linijai tiesti.
+10. Elektros energijos rinkos operatoriaus licencija išduodama asmeniui, atitinkančiam šio straipsnio 5 ir 6 dalyse nustatytus reikalavimus ir valdančiam technines priemones, reikalingas prisijungti prie perdavimo sistemos operatoriaus informacinio komplekso, ir programinę įrangą bei ryšių priemones, reikalingas elektros prekybai ir atsiskaitymams organizuoti.
+
+
+
+
+11. Asmenys, kurie vykdo šio straipsnio 1 dalyje nurodytas licencijuojamos veiklos rūšis, neturi teisės įgalioti kitų asmenų vykdyti licencijoje nurodytą veiklą ir privalo laikytis šių veiklos sąlygų:
+
+
+1) Licencijavimo taisyklių nustatyta tvarka teikti Komisijai ir Energetikos ministerijai informaciją, reikalingą įstatymų ir kitų teisės aktų nustatytoms pareigoms vykdyti;
+
+
+
+
+2) teikti viešuosius interesus atitinkančias paslaugas;
+
+
+
+
+3) užtikrinti vienodas ir nediskriminacines sąlygas visiems elektros energijos vartotojams, tiekėjams ir gamintojams;
+
+
+
+
+4) informuoti ir konsultuoti vartotojus teisės aktų nustatyta tvarka;
+
+
+
+
+5) užtikrinti kitų šiuo įstatymu ir kitais įstatymais nustatytų pareigų ir teisės aktais nustatytų reikalavimų laikymąsi.
 
 
 
 
 
 
-7. Leidimų veiklai elektros energetikos sektoriuje išdavimo taisykles tvirtina Vyriausybės įgaliota institucija. Sprendimas dėl leidimo išdavimo priimamas ne vėliau kaip per 30 dienų nuo dokumentų pateikimo Vyriausybės įgaliotai institucijai.
+12. Elektros energijos perdavimo ir skirstymo licencijos turėtojas, be šio straipsnio 11 dalyje nustatytų sąlygų, privalo vykdyti atitinkamai šio įstatymo 17 ir 21 straipsniuose nustatytas licencijuojamos veiklos sąlygas ir:
+
+
+1) derinti su licenciją išdavusia institucija valdomo turto priežiūros ir eksploatavimo planus;
+
+
+
+
+2) tvarkyti atskirą nuo kitų veiklos rūšių elektros energijos perdavimo ar skirstymo pajamų ir sąnaudų apskaitą, atlikti licencijuojamos veiklos sąnaudų auditą ir viešai skelbti duomenis apie elektros energijos persiuntimo sąnaudas.
+
+
+
+
+
+
+13. Elektros energijos visuomeninio tiekimo licencijos turėtojas, be šio straipsnio 11 dalyje nustatytų sąlygų, privalo vykdyti šio įstatymo 24 ir 25 straipsniuose nustatytas licencijuojamos veiklos sąlygas ir:
+
+
+1) tiekti elektros energiją šio įstatymo 44 straipsnyje nustatyta tvarka patvirtintomis visuomeninėmis elektros energijos kainomis;
+
+
+
+
+2) tvarkyti atskirą nuo kitų veiklos rūšių elektros energijos visuomeninio tiekimo pajamų ir sąnaudų apskaitą, atlikti licencijuojamos veiklos sąnaudų auditą ir viešai skelbti duomenis apie elektros energijos visuomeninio tiekimo sąnaudas.
+
+
+
+
+
+
+14. Elektros energijos rinkos operatoriaus licencijos turėtojas, be šio straipsnio 11 dalyje nustatytų sąlygų, privalo vykdyti šio įstatymo 39 straipsnyje nustatytas licencijuojamos veiklos sąlygas, atlikti licencijuojamos veiklos sąnaudų auditą ir viešai skelbti duomenis apie rinkos operatoriaus sąnaudas.
+
+
+
+
+15. Šio straipsnio 1 dalyje nurodytos veiklos licencijas išduoda, sustabdo jų galiojimą, panaikina galiojimo sustabdymą, panaikina licencijų galiojimą, keičia, tikslina, išduoda licencijų dublikatus ir licencijuojamą veiklą kontroliuoja Komisija.
+
+
+
+
+16. Leidimai išduodami šiai veiklai:
+
+
+1) gaminti elektros energiją;
+
+
+
+
+2) plėtoti elektros energijos gamybos pajėgumus;
+
+
+
+
+3) tiesti tiesioginę liniją;
+
+
+
+
+4) eksportuoti elektros energiją į valstybes, kurios nėra valstybės narės;
+
+
+
+
+5) importuoti elektros energiją iš valstybių, kurios nėra valstybės narės.
+
+
+
+
+
+
+17. Veiklos elektros energetikos sektoriuje leidimų išdavimo taisykles tvirtina Vyriausybės įgaliota institucija.
+
+
+
+
+18. Leidimai veiklai elektros energetikos sektoriuje išduodami neterminuotam laikui, išskyrus leidimus plėtoti elektros energijos gamybos pajėgumus ir tiesti tiesioginę liniją. Konkretūs šių leidimų galiojimo terminai nustatyti Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse.
+
+
+
+
+19. Leidimai gaminti elektros energiją, plėtoti elektros energijos gamybos pajėgumus ir tiesti tiesioginę liniją išduodami fiziniams asmenims, turintiems teisę gyventi Lietuvos Respublikoje, arba Lietuvos Respublikoje įsteigtiems juridiniams asmenims, kitų valstybių narių juridinių asmenų ar kitų organizacijų padaliniams, įsteigtiems Lietuvos Respublikoje.
+
+
+
+
+20. Leidimas gaminti elektros energiją išduodamas asmenims, atitinkantiems šio straipsnio 19 dalyje nustatytą reikalavimą ir:
+
+
+1) pateikusiems dokumentus, įrodančius, kad pastatytas naujas ar rekonstruotas elektros energetikos objektas pripažintas tinkamu naudoti;
+
+
+
+
+2) kurie yra pajėgūs kaupti ar palaikyti rezervinio kuro atsargas, jeigu technologiniai elektros energijos gamybos pajėgumai viršija suminę (elektrinę ir šiluminę) 10 MW galią.
+
+
+
+
+
+
+21. Leidimas plėtoti elektros energijos gamybos pajėgumus išduodamas asmenims, atitinkantiems šio straipsnio 19 dalyje nustatytą reikalavimą bei šio įstatymo 14 straipsnio 2 dalyje nustatytus reikalavimus ir:
+
+
+1) pateikusiems dokumentus, įrodančius galimybę prisijungti prie perdavimo ar skirstomųjų tinklų;
+
+
+
+
+2) nuosavybės teise turintiems ar kitais teisėtais pagrindais valdantiems žemės sklypą teritorijoje, kurioje numatoma verstis leidimais reglamentuojama veikla.
+
+
+
+
+
+
+22. Leidimas tiesti tiesioginę liniją išduodamas asmenims, atitinkantiems šio straipsnio 19 dalyje nustatytą reikalavimą ir šio įstatymo 45 straipsnio nustatytus reikalavimus.
+
+
+
+
+23. Leidimas eksportuoti elektros energiją į valstybes, kurios nėra valstybės narės, išduodamas asmenims, kurie turi teisės aktų nustatyta tvarka išduotą nepriklausomo tiekimo licenciją ar leidimą elektros energijai gaminti.
+
+
+
+
+24. Leidimas importuoti elektros energiją iš valstybių, kurios nėra valstybės narės, išduodamas asmenims, kurie turi teisės aktų nustatyta tvarka išduotą nepriklausomo tiekimo licenciją.
+
+
+
+
+25. Asmenys, kurie verčiasi šio straipsnio 16 dalyje nurodyta veikla, neturi teisės įgalioti kitų asmenų verstis leidime nurodyta veikla arba perduoti jiems šią teisę pagal sutartį ir privalo laikytis šių veiklos sąlygų:
+
+
+1) teisės aktų nustatyta tvarka teikti Energetikos ministerijai ar kitoms valstybės institucijoms informaciją apie leidimais reglamentuojamą veiklą;
+
+
+
+
+2) eksportuoti ar importuoti elektros energiją gali tik pagal sutartis su užsienio valstybių įmonėmis;
+
+
+
+
+3) elektros energiją gaminantys, eksportuojantys ir (ar) importuojantys asmenys privalo sudaryti sutartis dėl elektros energijos persiuntimo su tinklų operatoriais;
+
+
+
+
+4) teisės aktų nustatyta tvarka eksploatuoti elektros energetikos įrenginius arba sudaryti sutartį dėl minėtų įrenginių eksploatavimo su asmeniu, turinčiu atestatą, suteikiantį teisę eksploatuoti šiuos įrenginius;
+
+
+
+
+5) užtikrinti kitų šiame ir kituose įstatymuose nustatytų pareigų ir teisės aktuose nustatytų reikalavimų laikymąsi.
+
+
+
+
+
+
+26. Asmuo, siekiantis gauti licenciją ar leidimą veiklai elektros energetikos sektoriuje, Licencijavimo taisyklėse ir Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka pateikia licenciją ar leidimą išduodančiai institucijai prašymą ir šiose taisyklėse nustatytus dokumentus.
+
+
+
+
+27. Licencija ar leidimas išduodami arba rašytinis motyvuotas atsisakymas išduoti licenciją ar leidimą pateikiamas pareiškėjui ne vėliau kaip per 30 kalendorinių dienų nuo Licencijavimo taisyklėse ir Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka pateikto prašymo ir dokumentų gavimo licencijas ar leidimus išduodančioje institucijoje dienos. Jeigu į tinkamai pateiktą prašymą išduoti licenciją ar leidimą neatsakoma per šioje dalyje nurodytą terminą, laikoma, kad yra priimtas teigiamas sprendimas, išskyrus atvejus, kai vyksta teisminiai ginčai su trečiaisiais asmenimis dėl licencijuojamos veiklos sąlygų (teritorijos) ar kitų priežasčių, pateisinamų svarbiais visuomenės interesais, ir pareiškėjas apie tai yra informuotas Licencijavimo taisyklėse ir Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka.
+
+
+
+
+28. Už licencijuojamos veiklos, leidimus turinčių asmenų veiklos sąlygų ir reikalavimų pažeidimus asmenys, turintys licencijas ir (ar) leidimus atitinkamai energetikos veiklai, teisės aktų nustatyta tvarka įspėjami apie galimą licencijų ar leidimų galiojimo sustabdymą ar panaikinimą.
+
+
+
+
+29. Licencijos ar leidimo galiojimas sustabdomas licenciją ar leidimą išduodančios institucijos sprendimu. Jame nurodomi nustatyti veiklos sąlygų pažeidimai, licencijos ar leidimo galiojimo sustabdymo data ir laikotarpis, per kurį turėtų būti pašalinti nurodyti veiklos sąlygų pažeidimai. Licencijos ar leidimo galiojimas sustabdomas licenciją ar leidimą išduodančios institucijos sprendimu, jeigu:
+
+
+1) išdavus licenciją ar leidimą, paaiškėja, kad prašyme išduoti licenciją ar leidimą pateikti klaidingi duomenys, ir po įspėjimo per licenciją ar leidimą išduodančios institucijos nustatytą laikotarpį licenciją ar leidimą turintis asmuo nepateikia patikslintų duomenų;
+
+
+
+
+2) licenciją ar leidimą turintis asmuo daugiau kaip vieną kartą per metus pažeidžia veiklos, kuriai išduota licencija ar leidimas, sąlygas ir po įspėjimo per licenciją ar leidimą išduodančios institucijos nustatytą laikotarpį nepašalina nurodytų pažeidimų;
+
+
+
+
+3) licenciją ar leidimą turintis asmuo nebeatitinka reikalavimų, kuriuos atitiko, kai licencija ar leidimas buvo išduoti.
+
+
+
+
+
+
+30. Kai asmuo nustatyta tvarka pateikia dokumentus, įrodančius, kad pažeidimai (trūkumai) pašalinti, licenciją ar leidimą išdavusios institucijos sprendimu ne vėliau kaip per 30 kalendorinių dienų nuo dokumentų gavimo dienos licencijas ar leidimus išduodančioje institucijoje licencijos ar leidimo galiojimo sustabdymas panaikinamas.
+
+
+
+
+31. Licencijos ar leidimo galiojimas panaikinamas licenciją ar leidimą išduodančios institucijos sprendimu, jeigu:
+
+
+1) asmuo, kurio licencijos ar leidimo galiojimas sustabdytas, per licenciją ar leidimą išduodančios institucijos nustatytą terminą nepašalina pažeidimų, dėl kurių buvo sustabdytas licencijos ar leidimo galiojimas;
+
+
+
+
+2) asmuo, kurio licencijos ar leidimo galiojimas sustabdytas, vykdo licencijoje ar leidime nurodytą veiklą;
+
+
+
+
+3) asmuo, kurio licencijos ar leidimo galiojimas jau buvo sustabdytas, pakartotinai per 12 mėnesių nuo jam išduotos licencijos ar leidimo galiojimo sustabdymo datos pažeidžia veiklos, kuriai išduota licencija ar leidimas, sąlygas;
+
+
+
+
+4) licenciją ar leidimą turintis asmuo kreipėsi dėl licencijos ar leidimo galiojimo panaikinimo;
+
+
+
+
+5) licenciją ar leidimą turintis juridinis asmuo pasibaigė jį likvidavus ar reorganizavus;
+
+
+
+
+6) licenciją ar leidimą turintis fizinis asmuo miršta.
+
+
+
+
+
+
+32. Elektros energijos rinkos operatoriaus, perdavimo, skirstymo ir visuomeninio tiekimo licencijuojamą veiklą nutraukti numatantis asmuo privalo ne vėliau kaip prieš 6 mėnesius informuoti apie tai licenciją išdavusią instituciją.
+
+
+
+
+33. Jeigu sprendimas dėl licencijos galiojimo sustabdymo ar panaikinimo turi įtakos saugiam vartotojų aprūpinimui elektros energija, jis gali įsigalioti ne anksčiau kaip po 2 mėnesių nuo sprendimo priėmimo dienos. Apie tai, kad numatoma priimti tokį sprendimą, Komisija privalo informuoti Energetikos ministeriją ir Lietuvos Respublikos Vyriausybę.
+
+
+
+
+34. Išduotos licencijos ar leidimai gali būti keičiami jas išdavusios institucijos iniciatyva, pasikeitus šiame įstatyme, Licencijavimo taisyklėse ir (ar) Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nurodytoms licencijuojamos ar leidimais reglamentuojamos veiklos sąlygoms, arba asmens, turinčio licenciją ar leidimą iniciatyva, pasikeitus asmens rekvizitams ar teritorijai, kurioje vykdoma licencijuojama ar leidimais reglamentuojama veikla.
+
+
+
+
+35. Už licencijos ar leidimo išdavimą, pakeitimą, patikslinimą ir licencijos ar leidimo dublikato išdavimą mokama teisės aktų nustatyto dydžio valstybės rinkliava. 
+
+
+Straipsnio pakeitimai:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
  
-
-
 
 
 
@@ -2001,3 +2424,8 @@ Lietuvos Respublikos elektros energetikos įstatymo 2, 5, 6, 43, 44 ir 48 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-345, 2009-07-15, Žin., 2009, Nr. 91-3912 (2009-07-31), i. k. 1091010ISTA00XI-345
 Lietuvos Respublikos elektros energetikos įstatymo 42, 44 straipsnių papildymo ir pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+Lietuvos Respublikos elektros energetikos įstatymo 2, 5, 6, 10, 14, 22, 23, 24, 25, 28, 32, 36, 38, 39, 41, 43, 44, 45 straipsnių pakeitimo ir Įstatymo papildymo 42-1 straipsniu įstatymas
