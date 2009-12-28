@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B3CC2C0B9BD2"
 
 # Lietuvos Respublikos vandens įstatymas
 
-Suvestinė redakcija nuo 2004-04-30 iki 2009-12-27
+Suvestinė redakcija nuo 2009-12-28 iki 2016-07-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 104-2615, i. k. 0971010ISTAVIII-474
  
@@ -84,20 +84,20 @@ BENDROSIOS NUOSTATOS
 
 
 
-3 straipsnis. Pagrindinės šio Įstatymo sąvokos 
+3 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 
-1. Dirbtinis vandens telkinys – techninėmis priemonėmis sukurtas paviršinis vandens telkinys (kanalas, tvenkinys, rekultivuotame karjere įrengtas vandens telkinys, kūdra), išskyrus vandens talpyklas, kuriose esantis vanduo nelaidžiomis medžiagomis atskirtas nuo aplinkos grunto (baseinai, rezervuarai ir pan.).
-
-
-
-
-2. Ekologinė būklė – ekosistemų, susijusių su paviršiniais vandens telkiniais, funkcionavimo ir struktūros kokybės išraiška, vertinama pagal vandens telkinio biologinius, hidromorfologinius, fizinius ir cheminius kokybės elementus.
+1. Abonentas – kaip apibrėžta Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatyme.
 
 
 
 
-3. Ekosistema – funkcinė gyvųjų ir negyvųjų elementų sistema, kurios sudedamąsias dalis jungia tarpusavio ryšiai, medžiagų apykaitos bei energijos pasikeitimo procesai.
+2. Dirbtinis vandens telkinys – techninėmis priemonėmis sukurtas paviršinis vandens telkinys (kanalas, tvenkinys, rekultivuotame karjere įrengtas vandens telkinys, kūdra), išskyrus vandens talpyklas, kuriose esantis vanduo nelaidžiomis medžiagomis atskirtas nuo aplinkos grunto (baseinai, rezervuarai ir pan.).
+
+
+
+
+3. Ekosistema – funkcinė gyvųjų ir negyvųjų elementų sistema, kurios sudedamąsias dalis jungia tarpusavio ryšiai, medžiagų apykaitos ir energijos pasikeitimo procesai.
 
 
 
@@ -107,128 +107,130 @@ BENDROSIOS NUOSTATOS
 
 
 
-5. Gera ekologinė būklė – tokia paviršinio vandens telkinio būklė, kai jame esančias ekosistemas apibrėžiančių parametrų vertės atitinka vertes, būdingas žmogaus ūkinės veiklos nepaveiktiems tokio tipo paviršiniams vandens telkiniams. 
+5. Gera paviršinio vandens telkinio būklė – paviršinio vandens telkinio būklė, kai jo ekologinė ir cheminė būklė pagal teisės aktuose nustatytus kriterijus vertinama gerai arba labai gerai.
 
 
 
 
-6. Gera paviršinio vandens telkinio būklė – tokia paviršinio vandens telkinio būklė, kai telkinys yra geros ekologinės būklės ir kai teršalų koncentracija vandenyje neviršija nustatytų normų. 
+6. Gera požeminio vandens telkinio būklė – požeminio vandens telkinio būklė, kai jo kiekybinė ir cheminė būklė pagal teisės aktuose nustatytus kriterijus vertinama gerai.
 
 
 
 
-7. Gera požeminio vandens būklė – požeminio vandens telkinio būklė, kai jame esančio vandens kiekis ir kokybė nekliudo pasiekti vandensaugos tikslų ir nekenkia ekosistemoms, tiesiogiai priklausančioms nuo požeminio vandens telkinio. 
+7. Hidromorfologinės sąlygos – hidrologinės ir morfologinės – geometrinės vandens telkinio charakteristikos.
 
 
 
 
-8. Geras ekologinis potencialas – nustatyti labai pakeisto ar dirbtinio vandens telkinio būklės biologiniai, hidromorfologiniai, fiziniai ir cheminiai kokybės parametrai, atitinkantys tokio tipo vandens telkiniams keliamus vandensaugos tikslus. 
+8. Hidrotechnikos statiniai – statiniai ir įrenginiai vandeniui naudoti ir aplinkai nuo žalingo vandens poveikio saugoti (užtvankos, krantinės, pralaidos, siurblinės, hidroelektrinės, molai, laivybos statiniai ir pan.).
 
 
 
 
-9. Hidromorfologinės sąlygos – hidrologinės ir morfologinės – geometrinės vandens telkinio charakteristikos.
+9. Institucija, atsakinga už upių baseinų administravimą, – institucija, atsakinga už upių baseinų rajono aplinkosaugos administracinių priemonių koordinavimą ir aplinkosaugos valdymo planų rengimą.
 
 
 
 
-10. Hidrotechnikos statiniai – statiniai ir įrenginiai vandeniui naudoti ir aplinkai nuo žalingo vandens poveikio saugoti (užtvankos, krantinės, pralaidos, siurblinės, hidroelektrinės, molai, laivybos statiniai ir pan.).
+10. Išleidžiamųjų teršalų kontrolė – teršalų išleidimo į aplinką ribojimas nustatant išleidžiamųjų teršalų ribines vertes ir (arba) nustatant reikalavimus išleidžiamųjų teršalų poveikiui, pobūdžiui ar kitoms jų charakteristikoms arba veiklos sąlygoms, kurios turi įtakos teršalų išleidimui.
 
 
 
 
-11. Institucija, atsakinga už upių baseinų administravimą – institucija, atsakinga už upių baseinų rajono aplinkosaugos administracinių priemonių koordinavimą ir aplinkosaugos valdymo planų rengimą.
+11. Išleidžiamųjų teršalų ribinė vertė – didžiausia leidžiama išleisti teršalų koncentracija ir (arba) didžiausias leidžiamas išleisti teršalų kiekis, kurios (kurio) negalima viršyti per tam tikrą laikotarpį.
 
 
 
 
-12. Išleidžiamų teršalų kontrolė – teršalų išleidimo į aplinką ribojimas nustatant išleidžiamų teršalų ribines vertes ir (arba) nustatant reikalavimus išleidžiamų teršalų poveikiui, pobūdžiui ar kitoms jų charakteristikoms arba veiklos sąlygoms, kurios turi įtakos teršalų išleidimui.
+12. Labai pakeistas vandens telkinys – paviršinis vandens telkinys, kurio hidromorfologinė, fizinė ir cheminė būklė dėl žmogaus veiklos yra pakitusi taip, kad nėra galimybių pasiekti gerą ekologinę būklę.
 
 
 
 
-13. Išleidžiamų teršalų ribinė vertė – didžiausia leidžiama išleisti teršalų koncentracija ir (arba) didžiausias leidžiamas išleisti teršalų kiekis. Išleidžiamų teršalų ribinės vertės gali būti nustatomos atskiroms medžiagoms arba tam tikroms medžiagų grupėms, šeimoms ar kategorijoms.
+13. Nuotekos – žmogaus buityje, ūkinėje ar gamybinėje veikloje naudotas ir papildomai užterštas, taip pat į teritorijas patenkantis kritulių vanduo, kurį naudotojas arba teritorijų savininkas, naudotojas ar valdytojas tam skirtais inžineriniais įrenginiais išleidžia į gamtinę aplinką arba kitiems asmenims priklausančią nuotekų surinkimo sistemą.
 
 
 
 
-14. Labai pakeistas vandens telkinys – paviršinis vandens telkinys, kurio hidromorfologinė, fizinė ir cheminė būklė dėl žmogaus veiklos yra pakitusi taip, kad nėra galimybių pasiekti gerą ekologinę būklę.
+14. Nuotekų valymo įrenginiai – inžinerinių įrenginių kompleksas, skirtas nuotekoms valyti.
 
 
 
 
-15. Nuotekos – žmogaus buityje, ūkinėje ar gamybinėje veikloje naudotas ir papildomai užterštas, taip pat į teritorijas patenkantis kritulių vanduo, kurį naudotojas arba teritorijų savininkas, naudotojas ar valdytojas tam skirtais inžineriniais įrenginiais išleidžia į gamtinę aplinką arba kitiems asmenims priklausančią nuotekų surinkimo sistemą.
+15. Pabaseinis – upės baseino dalis, iš kurio paviršinis vanduo viena upe nuteka į kitą upę arba ežerą.
 
 
 
 
-16. Nuotekų valymo įrenginiai – inžinerinių įrenginių kompleksas, skirtas nuotekoms valyti. 
-
-
-
-
-17. Pabaseinis – upės baseino dalis, iš kurio paviršinis vanduo viena upe nuteka į kitą upę arba ežerą.
-
-
-
-
-18. Paviršinis vandens telkinys – identifikuota reikšminga vandens aplinkos dalis, esanti žemės paviršiuje, tai yra: upė ar jos dalis, kanalas, ežeras, tvenkinys, kūdra, rekultivuotas į vandens telkinį karjeras. Prie paviršinių vandens telkinių taip pat priskiriami tarpinių ir pakrantės vandenų plotai. 
-Straipsnio dalies pakeitimai:
-Nr. IX-2194, 2004-04-29, Žin., 2004, Nr. 73-2528 (2004-04-30), i. k. 1041010ISTA0IX-2194
+16. Patvenktas ežeras – ežeras, kurio vandens lygis reguliuojamas ežero ištakose įrengtais patvenkiamaisiais hidrotechnikos statiniais. 
+Papildyta straipsnio dalimi:
+Nr. XI-580, 2009-12-17, Žin., 2009, Nr. 154-6955 (2009-12-28), i. k. 1091010ISTA00XI-580
  
 
 
 
 
-19. Paviršinis vanduo – paviršiniuose vandens telkiniuose esantis vanduo.
+16. Paviršiniai vandenys – tekantis arba susikaupęs žemės paviršiuje vanduo, esantis vidaus (išskyrus požeminį vandenį), tarpiniuose ir priekrantės vandenyse. Paviršinių vandenų sąvoka apima ir teritorinę jūrą, kai kalbama apie jos cheminę būklę.
 
 
 
 
-20. Pavojingos medžiagos – medžiagos arba medžiagų grupės, kurios yra toksiškos, patvarios ir linkusios biologiškai kauptis, taip pat kitos medžiagos, kurios vadovaujantis Cheminių medžiagų ir preparatų įstatymu priskirtos prie vandens aplinkai kenksmingų medžiagų.
+17. Paviršinio vandens telkinio būklė – bendra paviršinio vandens telkinio kokybė, nustatoma įvertinus jo ekologinę ir cheminę būklę ir tapatinama su blogiau įvertinta.
 
 
 
 
-21. Plaukiojimo priemonės – laivai ir kiti plaukiojimui naudojami įrenginiai.
+18. Paviršinis vandens telkinys – identifikuota reikšminga vandens aplinkos dalis, esanti žemės paviršiuje, tai yra: upė ar jos dalis, kanalas, ežeras, tvenkinys, kūdra, rekultivuotas į vandens telkinį karjeras. Prie paviršinių vandens telkinių taip pat priskiriami tarpinių ir priekrantės vandenų plotai.
 
 
 
 
-22. Požeminis vandens telkinys – požeminis vandeningasis sluoksnis ar keli sluoksniai, apibrėžti sąlyginėmis ribomis.
+19. Pavojingos medžiagos – toksiškos, patvarios ir linkusios biologiškai kauptis medžiagos arba medžiagų grupės, taip pat kitos panašių savybių ir (arba) panašaus poveikio medžiagos arba medžiagų grupės.
 
 
 
 
-23. Požeminis vanduo – požeminiuose vandens telkiniuose esantis vanduo.
+20. Plaukiojimo priemonės – laivai, kiti plaukiojimui naudojami (įskaitant ir plūduriuojančius) įrenginiai arba priemonės.
 
 
 
 
-24. Pakrantės vandenys – Baltijos jūros dalis nuo kranto iki linijos, kurios kiekvienas taškas nutolęs vieną jūrmylę jūros link nuo vidaus ir teritorinius vandenis skiriančios linijos. 
-Straipsnio dalies pakeitimai:
-Nr. IX-2194, 2004-04-29, Žin., 2004, Nr. 73-2528 (2004-04-30), i. k. 1041010ISTA0IX-2194
- 
+21. Požeminiai vandenys – vanduo, kuris yra po žeme drėgnojoje zonoje ir liečiasi su uolienomis arba podirviu.
 
 
 
 
-25. Prioritetinės pavojingos medžiagos – pavojingos medžiagos, kurių kontrolei veiksmų būtina imtis pirmiausia ir kurių išleidimas ar kitoks patekimas į vandens telkinius turi būti laipsniškai nutrauktas. Prioritetinių pavojingų medžiagų sąrašą tvirtina aplinkos ministras. 
+22. Požeminio vandens telkinio būklė – bendra požeminio vandens telkinio kokybė, nustatoma įvertinus jo kiekybinę ir cheminę būklę ir tapatinama su blogiau įvertinta.
 
 
 
 
-26. Tarpiniai vandenys – prie upių žiočių esanti jūros dalis, kurioje vanduo yra iš dalies sūrus ir kuriam didelę įtaką turi įtekantis gėlas vanduo. Prie tarpinių vandenų priskiriama Lietuvos Respublikos teritorijoje esanti Kuršių marių dalis.
+23. Požeminio vandens telkinys – sąlygines ribas turinti vandeningojo sluoksnio ar sluoksnių dalis, kurioje yra susitelkęs pakankamas kiekis požeminio vandens, kurio per dieną būtų galima išgauti 10 m3.
 
 
 
 
-27. Tarpvalstybiniai vandens telkiniai – paviršiniai ir požeminiai vandens telkiniai, išsidėstę daugiau nei vienos valstybės teritorijoje.
+24. Priekrantės vandenys – jūros dalis nuo kranto iki linijos, kurios kiekvienas taškas nutolęs vieną jūrmylę jūros link nuo vidaus vandenis ir teritorinę jūrą skiriančios linijos.
 
 
 
 
-28. Tarša – dėl žmogaus veiklos tiesioginis ar netiesioginis medžiagų ar energijos išleidimas į vandenį ar žemę, galintis turėti žalingą poveikį žmonių sveikatai ar ekosistemoms, dėl ko gali būti padaryta žala materialiam turtui ir aplinkai.
+25. Prioritetinės pavojingos medžiagos – pavojingos medžiagos, kurių kontrolei veiksmų būtina imtis pirmiausia ir kurių išleidimas ar kitoks patekimas į vandens telkinius turi būti laipsniškai nutrauktas. Prioritetinių pavojingų medžiagų sąrašą tvirtina aplinkos ministras.
+
+
+
+
+26. Tarpiniai vandenys – prie upių žiočių esanti jūros dalis, kurioje vanduo yra iš dalies sūrus ir jam didelę įtaką turi įtekantis gėlas vanduo. Prie tarpinių vandenų priskiriama Lietuvos Respublikos teritorijoje esanti Kuršių marių dalis.
+
+
+
+
+27. Tarpvalstybiniai vandens telkiniai – paviršiniai ir požeminiai vandens telkiniai, išsidėstę daugiau negu vienos valstybės teritorijoje.
+
+
+
+
+28. Tarša – dėl žmogaus veiklos tiesioginis ar netiesioginis medžiagų ar energijos patekimas į vandenį, orą ar žemę, galintis padaryti žalingą poveikį žmonių sveikatai, vandens ar žemės ekosistemų, priklausomų nuo vandens ekosistemų, kokybei, taip pat galintis padaryti žalą materialiajam turtui ir (arba) aplinkai ir (arba) apriboti galimybes teisėtai naudotis aplinka.
 
 
 
@@ -243,15 +245,12 @@ Nr. IX-2194, 2004-04-29, Žin., 2004, Nr. 73-2528 (2004-04-30), i. k. 1041010IST
 
 
 
-31. Upių baseinų rajonas – šio Įstatymo nustatyta tvarka sudarytas pagrindinis vandens apsaugos ir valdymo teritorinis vienetas iš vieno ar kelių gretimų upių baseinų kartu su visais susijusiais požeminiais vandens telkiniais bei tarpiniais ir pakrančių vandenimis.
-Straipsnio dalies pakeitimai:
-Nr. IX-2194, 2004-04-29, Žin., 2004, Nr. 73-2528 (2004-04-30), i. k. 1041010ISTA0IX-2194
- 
+31. Upių baseinų rajonas – šio Įstatymo nustatyta tvarka sudarytas pagrindinis vandens apsaugos ir valdymo teritorinis vienetas iš vieno ar kelių gretimų upių baseinų kartu su visais susijusiais požeminiais vandens telkiniais bei tarpiniais ir priekrantės vandenimis.
 
 
 
 
-32. Vandens kokybė – vandens savybių ir sudėties charakteristika, rodanti, kiek jis atitinka vandensaugos tikslus ir (arba) kiek tinka konkrečioms vandens naudojimo sritims. 
+32. Vandens kokybė – vandens savybių ir sudėties charakteristika, rodanti, kiek jis atitinka vandensaugos tikslus ir (arba) kiek tinka konkrečioms vandens naudojimo sritims.
 
 
 
@@ -261,12 +260,12 @@ Nr. IX-2194, 2004-04-29, Žin., 2004, Nr. 73-2528 (2004-04-30), i. k. 1041010IST
 
 
 
-34. Vandens naudojimas – bet kokia veikla, daranti poveikį vandens telkinio ir jame esančio vandens būklei, pavyzdžiui, vandens telkinio naudojimas vandeniui išgauti, nuotekoms išleisti, rekreacijai, laivybai, žuvininkystei, žvejybai bei kitiems tikslams. Vandens naudojimu taip pat laikoma hidrotechnikos statinių statyba ir naudojimas.
+34. Vandens naudojimas – bet kokia veikla, daranti poveikį vandens telkinio ir jame esančio vandens būklei, pavyzdžiui, vandens telkinio naudojimas vandeniui išgauti, nuotekoms išleisti, rekreacijai, laivybai, žuvininkystei, žvejybai ir kitiems tikslams. Vandens naudojimu taip pat laikoma hidrotechnikos statinių statyba ir naudojimas.
 
 
 
 
-35. Vandens paslaugos – paslaugos, susijusios su paviršinio arba požeminio vandens išgavimu, saugojimu, užtvenkimu, kokybės gerinimu, tiekimu, nuotekų surinkimu, valymu ir šalinimu.
+35. Vandens paslaugos – paslaugos, susijusios su paviršinio arba požeminio vandens išgavimu, kaupimu, užtvenkimu, apdorojimu (gerinimu, paruošimu) ir tiekimu, taip pat nuotekų tvarkymu.
 
 
 
@@ -292,9 +291,16 @@ Nr. IX-2194, 2004-04-29, Žin., 2004, Nr. 73-2528 (2004-04-30), i. k. 1041010IST
 
 
 40. Vanduo – aplinkos dalis, apimanti Lietuvos Respublikos paviršiniuose ir požeminiuose vandens telkiniuose esantį vandenį.
+
+
+
+
+41. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos vidaus vandenų transporto kodekse.
+
+
+Straipsnio pakeitimai:
+Nr. XI-580, 2009-12-17, Žin., 2009, Nr. 154-6955 (2009-12-28), i. k. 1091010ISTA00XI-580
  
-
-
 
 
 
@@ -309,15 +315,72 @@ VANDENS TELKINIŲ NUOSAVYBĖ. VANDENS NAUDOTOJŲ TEISĖS IR PAREIGOS
 4 straipsnis. Nuosavybės teisė į vandens telkinius
 
 
-1. Valstybei išimtine nuosavybės teise priklauso požeminiai vandens telkiniai ir valstybinės reikšmės paviršiniai vandens telkiniai, kurių sąrašą nustato Vyriausybė. 
+1. Valstybei išimtine nuosavybės teise priklauso požeminiai vandens telkiniai ir valstybinės reikšmės paviršiniai vandens telkiniai.
 
 
 
 
-2. Šio straipsnio 1 dalyje nenurodyti vandens telkiniai įstatymų nustatyta tvarka gali būti privačios nuosavybės teisės objektai. Tačiau upės, kurių baseino plotas ne mažesnis kaip 25 km(2), taip pat ežerai, iš kurių tokios upės išteka arba pro kuriuos prateka, gali tapti privačios nuosavybės teisės objektais ne kitaip, kaip įstatymų nustatyta tvarka atkuriant nuosavybės teises į vandens telkinius. 
+2. Kriterijai, kuriais vadovaujantis paviršiniai vandens telkiniai priskiriami valstybinės reikšmės paviršiniams vandens telkiniams, yra šie:
+
+
+1) ežerai ir tvenkiniai, kurių plotas didesnis kaip 50 ha;
+
+
+
+
+2) upės, kurių baseino plotas didesnis kaip 50 km2;
+
+
+
+
+3) tvenkiniai, įrengti upėse, kurios įrašytos į valstybinės reikšmės upių sąrašą, ir ežerai, kuriuos jungia valstybinės reikšmės upės;
+
+
+
+
+4) paviršiniai vandens telkiniai, esantys valstybiniuose rezervatuose ir valstybinių parkų rezervatuose;
+
+
+
+
+5) paviršiniai vandens telkiniai, svarbūs vertingų gamtinių kompleksų ir biologinės įvairovės išsaugojimo požiūriu bei turintys įtaką su jais susijusių upelių, pelkių ir kitų aplinkos komponentų ekologinės pusiausvyros stabilumui ir dėl šios savo savybės įtraukti į valstybinius draustinius ir valstybinius parkus arba turintys gamtos paveldo objekto statusą;
+
+
+
+
+6) paviršiniai vandens telkiniai, esantys teritorijose, kurios atitinka teisės aktų nustatytus Europos ekologinio tinklo Natura 2000 teritorijų atrankos kriterijus;
+
+
+
+
+7) paviršiniai vandens telkiniai, jungiantys vandens turizmo trasas į bendrą sistemą;
+
+
+
+
+8) paviršiniai vandens telkiniai, esantys valstybinėje žemėje arba su ja besiribojantys, ir rekreacijai (poilsiui ir (ar) turizmui) svarbūs paviršiniai vandens telkiniai, kurie teritorijų planavimo dokumentais arba savivaldybių tarybų sprendimais priskirti rekreacinėms teritorijoms;
+
+
+
+
+9) paviršiniai vandens telkiniai, iki 1940 m. priklausę valstybei nuosavybės teise.
+
+
+
+
+
+
+3. Paviršinių vandens telkinių įrašymo į valstybinės reikšmės paviršinių vandens telkinių sąrašą ir išbraukimo iš šio sąrašo tvarką nustato ir valstybinės reikšmės paviršinių vandens telkinių sąrašą tvirtina Vyriausybė pagal šio įstatymo ir kitų teisės aktų reikalavimus. Į valstybinės reikšmės paviršinių vandens telkinių sąrašą neįtraukiami paviršiniai vandens telkiniai, kurie nors ir atitinka šio straipsnio 2 dalyje nurodytus kriterijus, tačiau teisės aktų nustatyta tvarka yra įgyti privačion nuosavybėn iki šio įstatymo įsigaliojimo.
+
+
+
+
+4. Šio straipsnio 1 dalyje nenurodyti vandens telkiniai įstatymų nustatyta tvarka gali būti privačios nuosavybės teisės objektai. Tačiau upės, kurių baseino plotas ne mažesnis kaip 25 km2, taip pat ežerai, iš kurių tokios upės išteka arba pro kuriuos tokios upės prateka, gali tapti privačios nuosavybės teisės objektais tik įstatymų nustatyta tvarka atkuriant nuosavybės teises į vandens telkinius.
+
+
+Straipsnio pakeitimai:
+Nr. XI-580, 2009-12-17, Žin., 2009, Nr. 154-6955 (2009-12-28), i. k. 1091010ISTA00XI-580
  
-
-
 
 
 
@@ -639,7 +702,10 @@ Nr. IX-2089, 2004-03-30, Žin., 2004, Nr. 54-1833 (2004-04-15), i. k. 1041010IST
 
 
 
-2. Išleidžiamose į paviršinius vandens telkinius nuotekose negali būti viršytos aplinkos ministro patvirtinta tvarka nustatytos teršalų ribinės vertės. 
+2. Išleidžiamose į paviršinius vandens telkinius nuotekose negali būti viršytos aplinkos ministro patvirtinta tvarka nustatytos išleidžiamųjų teršalų ribinės vertės. Išleidžiamųjų teršalų ribinės vertės gali būti nustatomos atskiroms medžiagoms arba tam tikroms medžiagų grupėms, šeimoms ar kategorijoms (Išleidžiamųjų teršalų ribinės vertės nustatomos taške, kuriame teršalai išleidžiami iš įrenginio (jas nustatant nekreipiama dėmesio į atskiedimo laipsnį). Kai teršalai su nuotekomis išleidžiami į nuotekų surinkimo sistemą, nustatant išleidžiamųjų teršalų ribines vertes, galima atsižvelgti į bendrų nuotekų valymo įrenginių veiksmingumą, jeigu tai garantuoja lygiavertį visos aplinkos apsaugos lygį ir nesukelia didesnės aplinkos taršos.).
+Straipsnio dalies pakeitimai:
+Nr. XI-580, 2009-12-17, Žin., 2009, Nr. 154-6955 (2009-12-28), i. k. 1091010ISTA00XI-580
+ 
 
 
 
@@ -734,9 +800,10 @@ Vandens apsauga ir valdymas organizuojami upių baseinų rajonų pagrindu. Šiuo
 
 
 
-4. Pakrančių vandenys identifikuojami ir priskiriami artimiausiam arba valdymo požiūriu tinkamiausiam upių baseinų rajonui ar rajonams.
+4. Priekrantės vandenys identifikuojami ir priskiriami artimiausiam arba valdymo požiūriu tinkamiausiam upių baseinų rajonui ar rajonams.
 Straipsnio dalies pakeitimai:
 Nr. IX-2194, 2004-04-29, Žin., 2004, Nr. 73-2528 (2004-04-30), i. k. 1041010ISTA0IX-2194
+Nr. XI-580, 2009-12-17, Žin., 2009, Nr. 154-6955 (2009-12-28), i. k. 1091010ISTA00XI-580
  
 
 
@@ -785,7 +852,10 @@ Upių baseinų rajono gamtinės būklės vertinimo, žmogaus veiklos poveikio va
 
 
 
-2. Vandensaugos tikslų nustatymo tvarką nustato aplinkos ministras, vadovaudamasis šiuo ir kitais įstatymais bei kitais teisės aktais ir atsižvelgdamas į šio Įstatymo priede nurodytos Europos Sąjungos direktyvos nuostatas. Vandensaugos tikslai konkretiems vandens telkiniams nustatomi priemonių programose. 
+2. Vandensaugos tikslų ir vandens telkinių būklės nustatymo metodiką, kurioje nustatomi ir kriterijai, pagal kuriuos vertinama vandens telkinio būklė, nustato aplinkos ministras, vadovaudamasis šiuo ir kitais įstatymais bei kitais teisės aktais ir atsižvelgdamas į šio Įstatymo priede nurodytos Europos Sąjungos direktyvos nuostatas. Vandensaugos tikslai konkretiems vandens telkiniams nustatomi priemonių programose.
+Straipsnio dalies pakeitimai:
+Nr. XI-580, 2009-12-17, Žin., 2009, Nr. 154-6955 (2009-12-28), i. k. 1091010ISTA00XI-580
+ 
 
 
 
@@ -956,13 +1026,15 @@ Vandens naudotojai aplinkos ministro nustatyta tvarka privalo vykdyti naudojamo 
 
 
 
-29 straipsnis. Informacijos teikimas visuomenei 
+29 straipsnis. Informacijos teikimas visuomenei
 
 
-Institucija, atsakinga už upių baseinų rajono ar jo dalies, esančios Lietuvos Respublikos teritorijoje, administravimą, ir kitos institucijos, turinčios informacijos apie upių baseinų rajonus, Vyriausybės nustatyta tvarka teikia informaciją apie upių baseinų rajonus visuomenei, vandens naudotojams ir kitiems suinteresuotiems asmenims.
+Institucija, atsakinga už upių baseinų rajono ar jo dalies, esančios Lietuvos Respublikos teritorijoje, administravimą, ir kitos institucijos, turinčios informacijos apie upių baseinų rajonus, aplinkos ministro nustatyta tvarka teikia informaciją apie upių baseinų rajonus visuomenei, vandens naudotojams ir kitiems suinteresuotiems asmenims.
+
+
+Straipsnio pakeitimai:
+Nr. XI-580, 2009-12-17, Žin., 2009, Nr. 154-6955 (2009-12-28), i. k. 1091010ISTA00XI-580
  
-
-
 
 
 
@@ -993,22 +1065,28 @@ SĄNAUDŲ SUSIGRĄŽINIMAS IR VALSTYBĖS PARAMA
 31 straipsnis. Sąnaudų susigrąžinimas
 
 
-1. Sąnaudas, patirtas siekiant įgyvendinti vandensaugos tikslus ir teikiant vandens paslaugas, turi padengti vandens naudotojai.
+1. Vandens naudotojai ir abonentai turi padengti sąnaudas, patirtas siekiant įgyvendinti vandensaugos tikslus ir teikiant vandens paslaugas, įskaitant sąnaudas aplinkos apsaugai, vadovaujantis principu „teršėjas moka“, Geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymu ir aplinkos ministro nustatyta tvarka atlikta ekonomine analize. Įgyvendinant sąnaudų susigrąžinimo principą, turi būti užtikrinta, kad:
+
+
+1) vandens kainų politika skatintų naudoti vandenį racionaliai ir taip padėtų siekti pagal šį Įstatymą ir kitus teisės aktus nustatytų vandensaugos tikslų;
 
 
 
 
-2. Įgyvendinant sąnaudų susigrąžinimo principą, iki 2009 m. gruodžio 31 d. turi būti užtikrinta, kad:
+2) būtų padengiamos sąnaudos, turėtos teikiant vandens paslaugas įvairiose vandens naudojimo srityse, kurių išskirtos bent trys – pramonė, namų ūkio sektorius ir žemės ūkis. 
 
 
-1) vandens kainų politika skatintų vandens naudotojus naudoti vandenį racionaliai ir taip padėtų siekti pagal šį Įstatymą nustatytų vandensaugos tikslų;
+Straipsnio dalies pakeitimai:
+Nr. XI-580, 2009-12-17, Žin., 2009, Nr. 154-6955 (2009-12-28), i. k. 1091010ISTA00XI-580
+ 
 
 
 
 
-2) būtų padengiamos sąnaudos, patirtos teikiant vandens paslaugas.
-
-
+2. Neteko galios nuo 2009-12-28
+Straipsnio dalies naikinimas:
+Nr. XI-580, 2009-12-17, Žin. 2009, Nr. 154-6955 (2009-12-28), i. k. 1091010ISTA00XI-580
+ 
 
 
 
@@ -1042,27 +1120,57 @@ Pažeidus šio Įstatymo reikalavimus, atsakomybė taikoma įstatymų nustatyta 
 33 straipsnis. Įstatymo įgyvendinimas
 
 
-1. Šio Įstatymo 21 straipsnyje nurodyta upių baseinų rajono būklės analizė ir įvertinimai kiekviename upių baseinų rajone arba tarpvalstybinio upių baseinų rajono dalyje, esančioje Lietuvos Respublikos teritorijoje, turi būti atlikta ne vėliau kaip iki 2004 m. gruodžio 31 d. Atlikta analizė ir įvertinimai peržiūrimi ir prireikus atnaujinami po 13 metų, o vėliau – kas šešeri metai.
+1. Šio Įstatymo 21 straipsnyje nurodyta upių baseinų rajono būklės analizė ir įvertinimai kiekviename upių baseinų rajone arba tarpvalstybinio upių baseinų rajono dalyje, esančioje Lietuvos Respublikos teritorijoje, turi būti peržiūrimi ir atnaujinami iki 2013 m. gruodžio 22 d., o vėliau – kas šešeri metai. 
+Straipsnio dalies pakeitimai:
+Nr. XI-580, 2009-12-17, Žin., 2009, Nr. 154-6955 (2009-12-28), i. k. 1091010ISTA00XI-580
+ 
 
 
 
 
-2. Šio Įstatymo 22 straipsnyje nurodyti vandensaugos tikslai turi būti pasiekti iki 2014 m. gruodžio 31 d. Jeigu vandens telkinio būklės pagerėjimo negalima pasiekti dėl to, kad techninės priemonės gali būti taikomos tik etapais, kurie yra ilgesni už nustatytą terminą, arba kai užbaigti vandens telkinio būklės pagerinimą per nustatytą laiką per daug brangu, arba kai pagerinti vandens telkinio būklės laiku negalima dėl gamtinių sąlygų, leidžiama pratęsti šį terminą ir siekti vandensaugos tikslų etapais su sąlyga, kad vandens telkinio būklė toliau neprastėtų. Termino pratęsimas ir jo priežastys nurodomi ir paaiškinami upių baseinų rajono valdymo plane, kuriame nustatomas naujas terminas vandensaugos tikslams pasiekti. Terminas pratęsiamas ilgiausiai iki 2020 m. gruodžio 31 d., išskyrus atvejus, kai per tokį laiką keliamų tikslų pasiekti negalima dėl gamtinių sąlygų. 
+2. Šio Įstatymo 22 straipsnyje nurodyti vandensaugos tikslai turi būti pasiekti iki 2015 m. gruodžio 22 d. Jeigu vandens telkinio būklės pagerėjimo negalima pasiekti dėl to, kad techninės priemonės gali būti taikomos tik etapais, kurie yra ilgesni už nustatytą terminą, arba kai užbaigti vandens telkinio būklės pagerinimą per nustatytą laiką per daug brangu, arba kai pagerinti vandens telkinio būklės laiku negalima dėl gamtinių sąlygų, leidžiama pratęsti šį terminą ir siekti vandensaugos tikslų etapais su sąlyga, kad vandens telkinio būklė toliau neprastėtų. Termino pratęsimas ir jo priežastys nurodomi ir paaiškinami upių baseinų rajono valdymo plane, kuriame nustatomas naujas terminas vandensaugos tikslams pasiekti. Terminas pratęsiamas ilgiausiai iki 2027 m. gruodžio 22 d., išskyrus atvejus, kai per tokį laiką keliamų tikslų pasiekti negalima dėl gamtinių sąlygų. 
+Straipsnio dalies pakeitimai:
+Nr. XI-580, 2009-12-17, Žin., 2009, Nr. 154-6955 (2009-12-28), i. k. 1091010ISTA00XI-580
+ 
 
 
 
 
-3. Šio Įstatymo 24 straipsnyje nurodytos priemonių programos kiekvienam upių baseinų rajonui arba jo daliai, esančiai Lietuvos Respublikos teritorijoje, turi būti parengtos ne vėliau kaip iki 2009 m. gruodžio 31 d., o visos programose numatytos priemonės pradedamos taikyti ne vėliau kaip iki 2012 m. gruodžio 31 d. Priemonių programos pirmą kartą peržiūrimos ir prireikus atnaujinamos iki 2014 m. gruodžio 31 d., o vėliau – kas šešeri metai.
+3. Šio Įstatymo 23 straipsnyje nurodytiems upių baseinų rajonuose esantiems saugomiems plotams keliami tikslai turi būti pasiekti ne vėliau kaip iki 2015 m. gruodžio 22 d., jeigu Europos bendrijos teisės aktuose, pagal kuriuos buvo nustatytos atskiros saugomos teritorijos, nenurodyta kitaip. 
+Papildyta straipsnio dalimi:
+Nr. XI-580, 2009-12-17, Žin., 2009, Nr. 154-6955 (2009-12-28), i. k. 1091010ISTA00XI-580
+ 
 
 
 
 
-4. Šio Įstatymo 25 straipsnyje nurodyti upių baseinų rajonų valdymo planai kiekvienam upių baseinų rajonui arba jo daliai, esančiai Lietuvos Respublikos teritorijoje, turi būti parengti ir paskelbti visuomenei ne vėliau kaip iki 2009 m. gruodžio 31 d. 
+4. Šio Įstatymo 24 straipsnyje nurodytos priemonių programos kiekvienam upių baseinų rajonui arba jo daliai, esančiai Lietuvos Respublikos teritorijoje, turi būti parengtos ne vėliau kaip iki 2009 m. gruodžio 22 d., o visos programose numatytos priemonės pradedamos taikyti ne vėliau kaip iki 2012 m. gruodžio 22 d. Priemonių programos pirmą kartą peržiūrimos ir atnaujinamos iki 2015 m. gruodžio 22 d., o vėliau – kas šešeri metai. 
+Straipsnio dalies pakeitimai:
+Nr. XI-580, 2009-12-17, Žin., 2009, Nr. 154-6955 (2009-12-28), i. k. 1091010ISTA00XI-580
+ 
 
 
 
 
-5. Šio Įstatymo 26 straipsnyje nurodyta stebėsena (monitoringas) turi būti pradėta ne vėliau kaip iki 2006 m. gruodžio 31 d.
+5. Šio Įstatymo 25 straipsnyje nurodyti upių baseinų rajonų valdymo planai kiekvienam upių baseinų rajonui arba jo daliai, esančiai Lietuvos Respublikos teritorijoje, turi būti parengti ir paskelbti visuomenei ne vėliau kaip iki 2009 m. gruodžio 22 d. Upių baseinų rajonų valdymo planai pirmą kartą peržiūrimi ir atnaujinami iki 2015 m. gruodžio 22 d., o vėliau – kas šešeri metai. 
+Straipsnio dalies pakeitimai:
+Nr. XI-580, 2009-12-17, Žin., 2009, Nr. 154-6955 (2009-12-28), i. k. 1091010ISTA00XI-580
+ 
+
+
+
+
+6. Šio Įstatymo 26 straipsnyje nurodyta stebėsena (monitoringas) turi būti pradėta ne vėliau kaip iki 2006 m. gruodžio 31 d.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-580, 2009-12-17, Žin., 2009, Nr. 154-6955 (2009-12-28), i. k. 1091010ISTA00XI-580
+ 
+
+
+
+
+7. Šio Įstatymo 31 straipsnio 1 dalyje nurodytas sąnaudų susigrąžinimo principas turi būti įgyvendintas ne vėliau kaip iki 2009 m. gruodžio 31 d.
+Papildyta straipsnio dalimi:
+Nr. XI-580, 2009-12-17, Žin., 2009, Nr. 154-6955 (2009-12-28), i. k. 1091010ISTA00XI-580
  
 
 
@@ -1097,15 +1205,20 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
-Lietuvos Respublikos
-vandens įstatymo priedas
-
-
+Lietuvos Respublikos vandens įstatymo
+priedas
  
-Lietuvos Respublikos vandens įstatymas yra suderintas su 2000 m. spalio 23 d. Europos Parlamento ir Tarybos direktyva 2000/60/EB, nustatančia Bendrijos veiksmų vandens politikos srityje pagrindus.
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
+2000 m. spalio 23 d. Europos Parlamento ir Tarybos direktyva 2000/60/EB, nustatanti Bendrijos veiksmų vandens politikos srityje pagrindus (OL 2004 m. specialusis leidimas, 15 skyrius, 5 tomas, p. 275).
+ 
+
+
+Priedo pakeitimai:
+Nr. XI-580, 2009-12-17, Žin., 2009, Nr. 154-6955 (2009-12-28), i. k. 1091010ISTA00XI-580
+ 
  
  
 Pakeitimai:
@@ -1134,3 +1247,13 @@ Lietuvos Respublikos vandens įstatymo 14 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2194, 2004-04-29, Žin., 2004, Nr. 73-2528 (2004-04-30), i. k. 1041010ISTA0IX-2194
 Lietuvos Respublikos vandens įstatymo 3 ir 19 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-580, 2009-12-17, Žin., 2009, Nr. 154-6955 (2009-12-28), i. k. 1091010ISTA00XI-580
+Lietuvos Respublikos vandens įstatymo 3, 4, 16, 19, 22, 29, 31, 33 straipsnių ir priedo pakeitimo ir papildymo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2309, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10417
+Lietuvos Respublikos vandens įstatymo Nr. VIII-474 1, 2, 3 ir 14 straipsnių pakeitimo įstatymas
