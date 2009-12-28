@@ -34,8 +34,7 @@ S
 1997 m. birželio 19 d. Nr. VIII-275
 Vilnius
 Nauja įstatymo redakcija (keistas įstatymo
-pavadinimas), 9
-straipsnio 4 dalis ir 16 straipsnio 5 dalis įsigalioja 2008 m. birželio 1 d.:
+pavadinimas):
 Nr.
 X-1419,
 2008-01-17, Žin., 2008, Nr. 10-335 (2008-01-24)
@@ -85,9 +84,10 @@ bankas – juridinis asmuo, turintis teisę verstis vienos ar daugiau rūšių
 kredito įstaigos veikla, bet faktinės veiklos nevykdantis, neturintis realiai
 veikiančių valdymo ir vadovavimo organų ir nepriklausantis valdomai finansų
 grupei.
-7. Finansų įstaigos – Lietuvos
-Respublikos finansų įstaigų įstatyme apibrėžtos kredito įstaigos ir finansų
-įmonės, taip pat investicinės kintamojo kapitalo bendrovės.
+7. Finansų įstaigos – Lietuvos Respublikos
+finansų įstaigų įstatyme apibrėžtos kredito įstaigos ir finansų įmonės,
+Lietuvos Respublikos mokėjimo įstaigų įstatyme apibrėžtos mokėjimo įstaigos, taip pat
+investicinės kintamojo kapitalo bendrovės.
 8. Kiti subjektai:
 1) auditoriai;
 2) draudimo
@@ -245,6 +245,10 @@ nustatytiems reikalavimams.
 pinigai, vertybiniai popieriai, kitos finansinės priemonės, kitas turtas bei
 turtinės teisės, intelektinės veiklos rezultatai, informacija, veiksmai ir
 veiksmų rezultatai, taip pat kitos turtinės ir neturtinės vertybės.
+Straipsnio
+pakeitimas:
+Nr. XI-559,
+2009-12-10, Žin., 2009, Nr. 153-6897 (2009-12-28)
  
 ANTRASIS
 SKIRSNIS
@@ -272,19 +276,18 @@ teroristų finansavimo prevenciją.
 straipsnis. Už pinigų plovimo ir (ar) teroristų finansavimo prevenciją
 atsakingų institucijų pareigos 
 1. Lietuvos
-bankas patvirtina kredito įstaigoms skirtus nurodymus, kuriais siekiama
-užkirsti kelią pinigų plovimui ir (ar) teroristų finansavimui, prižiūri kredito
-įstaigų veiklą, susijusią su pinigų plovimo ir (ar) teroristų finansavimo
-prevencijos priemonių įgyvendinimu, konsultuoja kredito įstaigas minėtų
-nurodymų įgyvendinimo klausimais.
+bankas patvirtina kredito ir mokėjimo įstaigoms skirtus nurodymus, kuriais
+siekiama užkirsti kelią pinigų plovimui ir (ar) teroristų finansavimui,
+prižiūri kredito ir mokėjimo įstaigų veiklą, susijusią su pinigų plovimo ir
+(ar) teroristų finansavimo prevencijos priemonių įgyvendinimu, konsultuoja
+kredito ir mokėjimo įstaigas minėtų nurodymų įgyvendinimo klausimais.
 2. Kultūros
 paveldo departamentas patvirtina asmenims, kurie verčiasi ūkine komercine
-veikla, susijusia su prekyba kilnojamosiomis kultūros vertybėmis ir (ar)
-antikvariniais daiktais, skirtus nurodymus, kuriais siekiama užkirsti kelią
-pinigų plovimui ir (ar) teroristų finansavimui, prižiūri šių subjektų veiklą,
-susijusią su pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių
-įgyvendinimu, konsultuoja šiuos subjektus minėtų nurodymų įgyvendinimo
-klausimais.
+veikla, susijusia su prekyba kilnojamosiomis kultūros vertybėmis ir (ar) antikvariniais
+daiktais, skirtus nurodymus, kuriais siekiama užkirsti kelią pinigų plovimui ir
+(ar) teroristų finansavimui, prižiūri šių subjektų veiklą, susijusią su pinigų
+plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimu,
+konsultuoja šiuos subjektus minėtų nurodymų įgyvendinimo klausimais.
 3. Lietuvos
 Respublikos draudimo priežiūros komisija patvirtina draudimo įmonėms ir
 draudimo brokerių įmonėms skirtus nurodymus, kuriais siekiama užkirsti kelią
@@ -308,10 +311,10 @@ pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių
 klausimais.
 6. Lietuvos advokatūra patvirtina
 advokatams ir advokatų padėjėjams skirtus nurodymus, kuriais siekiama užkirsti
-kelią pinigų plovimui ir (ar) teroristų finansavimui, prižiūri advokatų ir
-advokatų padėjėjų veiklą, susijusią su pinigų plovimo ir (ar) teroristų
-finansavimo prevencijos priemonių įgyvendinimu, konsultuoja advokatus ir
-advokatų padėjėjus minėtų nurodymų įgyvendinimo klausimais.
+kelią pinigų plovimui ir (ar) teroristų finansavimui, prižiūri advokatų ir advokatų
+padėjėjų veiklą, susijusią su pinigų plovimo ir (ar) teroristų finansavimo
+prevencijos priemonių įgyvendinimu, konsultuoja advokatus ir advokatų padėjėjus
+minėtų nurodymų įgyvendinimo klausimais.
 7. Notarų rūmai
 patvirtina notarams skirtus nurodymus, kuriais siekiama užkirsti kelią pinigų
 plovimui ir (ar) teroristų finansavimui, prižiūri notarų veiklą, susijusią su
@@ -358,6 +361,10 @@ straipsnio 1–10 dalyse nurodytos institucijos ir Finansinių nusikaltimų tyri
 tarnyba tarpusavyje nustatyta tvarka bendradarbiauja ir keičiasi informacija
 apie atliktų subjektų veiklos, susijusios su pinigų plovimo ir (ar) teroristų
 finansavimo prevencijos priemonių įgyvendinimu, patikrinimų rezultatus.
+Straipsnio
+pakeitimas:
+Nr. XI-559,
+2009-12-10, Žin., 2009, Nr. 153-6897 (2009-12-28)
  
 5 straipsnis. Finansinių nusikaltimų tyrimo tarnybos
 funkcijos įgyvendinant pinigų plovimo ir (ar) teroristų finansavimo prevencijos
@@ -381,7 +388,8 @@ sistemos apsaugos nuo jos panaudojimo pinigų plovimui ir teroristų finansavimu
 Vyriausybės nustatyta tvarka teikia teisėsaugos ir kitoms valstybės
 institucijoms informaciją apie kliento pinigines operacijas ir sandorius;
 4)
-atlieka ikiteisminį tyrimą dėl nusikalstamu būdu įgytų pinigų ar turto legalizavimo;
+atlieka ikiteisminį tyrimą dėl nusikalstamu būdu įgytų pinigų ar turto
+legalizavimo;
 5)
 bendradarbiauja ir keičiasi informacija su užsienio valstybių institucijomis,
 tarptautinėmis organizacijomis, įgyvendinančiomis pinigų plovimo ir (ar) teroristų
@@ -396,8 +404,8 @@ prevenciją atsakingoms institucijoms dėl pinigų plovimo ir (ar) teroristų
 finansavimo prevencijos sistemos tobulinimo;
 8)
 informuoja finansų įstaigas ir kitus subjektus, teisėsaugos ir kitas valstybės
-institucijas apie jų pranešimų apie įtartinas ar neįprastas pinigines operacijas
-ir sandorius, apie pastebėtus galimo pinigų plovimo ir (ar) teroristų
+institucijas apie jų pranešimų apie įtartinas ar neįprastas pinigines
+operacijas ir sandorius, apie pastebėtus galimo pinigų plovimo ir (ar) teroristų
 finansavimo požymius ar šio įstatymo pažeidimus, analizės ir tyrimų rezultatus.
  
 6 straipsnis. Valstybės saugumo departamento funkcijos
@@ -433,8 +441,7 @@ finansavimo
 prevencijos priemonių įgyvendinimu;
 3) koordinuoti
 institucijų (išskyrus Valstybės saugumo departamento) veiklą, susijusią su
-pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių
-įgyvendinimu;
+pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimu;
 4)
 nurodyti institucijoms, finansų įstaigoms ir kitiems subjektams aplinkybes ir
 sąlygas, sudarančias galimybes pažeisti įstatymus ir kitus teisės aktus,
@@ -443,8 +450,8 @@ priemonių įgyvendinimu. Institucijos, finansų įstaigos ir kiti subjektai
 privalo išnagrinėti Finansinių nusikaltimų tyrimo tarnybos nurodymus ir ne
 vėliau kaip per 7 darbo dienas po nurodymo gavimo pranešti Finansinių
 nusikaltimų tyrimo tarnybai apie priemones, kurių imtasi;
-5)
-nurodyti finansų įstaigoms ir kitiems subjektams, išskyrus notarus ar asmenis, turinčius teisę
+5) nurodyti
+finansų įstaigoms ir kitiems subjektams, išskyrus notarus ar asmenis, turinčius teisę
 atlikti notarinius veiksmus, advokatus ar advokatų padėjėjus ir antstolius arba teisę atlikti
 antstolių veiksmus turinčius asmenis, iki 5 darbo dienų sustabdyti atliekamas įtartinas ar neįprastas pinigines operacijas ar sandorius.
 2. Finansinių
@@ -692,16 +699,16 @@ procedūras, kurių pagrindu nustatoma, ar klientas ir naudos gavėjas yra
 politikoje dalyvaujantis fizinis asmuo. 
 6.
 Kredito įstaigoms draudžiama pradėti ir
-tęsti korespondentinės
-bankininkystės ar kitokius santykius su fiktyviu banku ar banku, kai
-žinoma, kad šis leidžia savo sąskaitomis naudotis fiktyviems bankams. 
+tęsti korespondentinės bankininkystės
+ar kitokius santykius su fiktyviu banku ar banku, kai žinoma, kad šis
+leidžia savo sąskaitomis naudotis fiktyviems bankams. 
 7. Finansų
 įstaigos ir kiti subjektai privalo skirti dėmesį bet kokiai pinigų plovimo ir
 (ar) teroristų finansavimo grėsmei, galinčiai kilti dėl sandorių, kuriuose
 siekiama nuslėpti kliento ar naudos gavėjo tapatybę, taip pat dėl
 dalykinių santykių ar sandorių su klientu, kurio tapatybė nebuvo akivaizdžiai
-nustatyta, ir prireikus nedelsiant imtis priemonių, kad būtų užkirstas
-kelias pinigus panaudoti pinigų plovimui ir (ar) teroristų finansavimui.
+nustatyta, ir prireikus nedelsiant imtis priemonių, kad būtų užkirstas kelias
+pinigus panaudoti pinigų plovimui ir (ar) teroristų finansavimui.
 8.
 Sustiprinto kliento tapatybės nustatymo tvarką ir kriterijus, kuriais
 vadovaujantis laikoma, kad yra didelė pinigų plovimo ir (ar) teroristų
@@ -771,8 +778,8 @@ atlieka įtartiną piniginę operaciją ar sandorį, privalo tą operaciją ar s
 sustabdyti ir ne vėliau kaip per 3 darbo valandas apie šią operaciją ar sandorį
 pranešti Finansinių nusikaltimų tyrimo tarnybai, nepaisydami piniginės
 operacijos ar sandorio sumos.
-3. Finansinių
-nusikaltimų tyrimo tarnyba per 5 darbo dienas nuo šio straipsnio 2 dalyje nurodytos
+3. Finansinių nusikaltimų
+tyrimo tarnyba per 5 darbo dienas nuo šio straipsnio 2 dalyje nurodytos
 informacijos gavimo arba nuo šio straipsnio 5 dalyje nurodyto nurodymo davimo
 nedelsdama atlieka veiksmus, būtinus abejonėms dėl tariamai kliento vykdomos ar
 vykdytos nusikalstamos veikos pagrįsti arba paneigti.
@@ -917,18 +924,21 @@ dienos.
  
 17 straipsnis. Informacijos pateikimas Finansinių
 nusikaltimų tyrimo tarnybai
-1.
-Finansų įstaigos, atliekančios piniginę operaciją, privalo kliento tapatybę patvirtinančius duomenis ir informaciją apie
-atliktą piniginę
-operaciją pateikti
-Finansinių nusikaltimų tyrimo tarnybai, jeigu kliento vienkartinės operacijos
-su grynaisiais pinigais arba kelių tarpusavyje susijusių operacijų su
-grynaisiais pinigais suma viršija 15 000 eurų arba ją atitinkančią sumą užsienio
-valiuta. Finansinių nusikaltimų tyrimo tarnybai pateikiamoje informacijoje
-nurodomi kliento tapatybę patvirtinantys duomenys, o jeigu piniginė operacija atliekama per atstovą, – ir atstovo
-tapatybę patvirtinantys duomenys, piniginės operacijos suma, valiuta, kuria atlikta piniginė operacija, piniginės operacijos atlikimo data, piniginės
-operacijos atlikimo
-būdas, subjektas, kurio naudai atlikta piniginė operacija.
+1. Finansų
+įstaigos, atliekančios piniginę
+operaciją, privalo
+kliento tapatybę patvirtinančius duomenis ir informaciją apie atliktą piniginę operaciją pateikti Finansinių nusikaltimų
+tyrimo tarnybai, jeigu kliento vienkartinės operacijos su grynaisiais pinigais
+arba kelių tarpusavyje susijusių operacijų su grynaisiais pinigais suma viršija
+15 000 eurų arba ją atitinkančią sumą užsienio valiuta. Finansinių nusikaltimų
+tyrimo tarnybai pateikiamoje informacijoje nurodomi kliento tapatybę
+patvirtinantys duomenys, o jeigu piniginė operacija atliekama per atstovą, – ir atstovo tapatybę patvirtinantys
+duomenys, piniginės
+operacijos suma,
+valiuta, kuria atlikta piniginė
+operacija, piniginės operacijos atlikimo data, piniginės operacijos atlikimo būdas, subjektas, kurio naudai
+atlikta piniginė
+operacija.
 2.
 Notarai ar asmenys, turintys teisę atlikti notarinius veiksmus, ir antstoliai ar teisę atlikti antstolių veiksmus turintys asmenys
 privalo kliento tapatybę patvirtinančius duomenis ir informaciją apie
@@ -984,8 +994,9 @@ straipsnis. Muitinės įstaigų veikla
 1. Muitinės
 įstaigos atlieka į Europos Bendriją per Lietuvos Respubliką iš trečiųjų šalių,
 kaip jos reglamentuotos Lietuvos Respublikos muitinės įstatyme (toliau šiame
-straipsnyje – trečiosios šalys), įvežamų ir iš Europos Bendrijos per Lietuvos Respubliką
-į trečiąsias šalis išvežamų grynųjų pinigų sumų kontrolę vadovaudamosi 2005 m. spalio 
+straipsnyje – trečiosios šalys), įvežamų ir iš Europos Bendrijos per Lietuvos
+Respubliką į trečiąsias šalis išvežamų grynųjų pinigų sumų kontrolę
+vadovaudamosi 2005 m. spalio 
 26 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1889/2005 dėl grynųjų
 pinigų, įvežamų į Bendriją ar išvežamų iš jos, kontrolės (toliau – Reglamentas
 (EB) 
@@ -1014,9 +1025,9 @@ Finansinių nusikaltimų tyrimo tarnybai, šiame įstatyme nurodytos informacijo
 saugojimu, rizikos įvertinimu, rizikos (atsižvelgiant į kliento, dalykinių
 santykių, produkto ar sandorio tipą ir pan.) valdymu, reikalavimų vykdymo
 valdymu ir komunikacija, kurios užkirstų kelią su pinigų plovimu ir (ar)
-teroristų finansavimu susijusioms piniginėms operacijoms ir sandoriams, ir
-užtikrinti, kad finansų įstaigų ir kitų subjektų darbuotojai būtų tinkamai pasirengę
-ir supažindinti su pinigų plovimo ir (ar) teroristų finansavimo prevencijos
+teroristų finansavimu susijusioms piniginėms operacijoms ir sandoriams, ir užtikrinti,
+kad finansų įstaigų ir kitų subjektų darbuotojai būtų tinkamai pasirengę ir
+supažindinti su pinigų plovimo ir (ar) teroristų finansavimo prevencijos
 priemonėmis, nurodytomis šiame įstatyme ir kituose teisės aktuose.
 2. Finansų
 įstaigos ir kiti subjektai, išskyrus advokatus ar advokatų padėjėjus, privalo
@@ -1229,6 +1240,15 @@ procedūroms taikomus techninius kriterijus bei išimtis, suteikiamas dėl to, k
 finansine veikla verčiamasi retai arba labai ribotai (OL 2006, L 214, p. 29).
 4. 2006 m. lapkričio 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1781/2006 dėl mokėtojo
 informacijos, pateikiamos pervedant lėšas (OL 2006, L 345, p. 1).
+5. 2007 m.
+lapkričio 13 d. Europos Parlamento ir Tarybos direktyva 2007/64/EB dėl mokėjimo
+paslaugų vidaus rinkoje, iš dalies keičianti direktyvas 97/7/EB, 2002/65/EB,
+2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 97/5/EB (OL 2007 L 319, p. 1).
+Priedo
+pakeitimas:
+Nr. XI-559,
+2009-12-10, Žin., 2009, Nr. 153-6897 (2009-12-28)
+ 
 __________________
  
 Pakeitimai:
@@ -1334,8 +1354,8 @@ Nr.
 X-1107,
 2007-05-03, Žin., 2007, Nr. 55-2123 (2007-05-19)
 PINIGŲ
-PLOVIMO PREVENCIJOS ĮSTATYMO 14 STRAIPSNIO PAKEITIMO IR ĮSTATYMO PRIEDO PAPILDYMO
-ĮSTATYMAS
+PLOVIMO PREVENCIJOS ĮSTATYMO 14 STRAIPSNIO PAKEITIMO IR ĮSTATYMO PRIEDO
+PAPILDYMO ĮSTATYMAS
 Šis
 įstatymas, išskyrus 4 straipsnį, įsigalioja nuo 2007 m. birželio 15 d.
  
@@ -1358,12 +1378,21 @@ subjektai taiko ir šio įstatymo įsigaliojimo momentu esamiems klientams.
 straipsnyje išdėstyto Pinigų plovimo ir teroristų finansavimo prevencijos
 įstatymo 9 straipsnio 4 dalis ir 16 straipsnio 5 dalis įsigalioja 2008 m. birželio 1 d.
  
+12.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-559,
+2009-12-10, Žin., 2009, Nr. 153-6897 (2009-12-28)
+PINIGŲ PLOVIMO IR TERORISTŲ
+FINANSAVIMO PREVENCIJOS ĮSTATYMO 2, 4 STRAIPSNIŲ PAKEITIMO IR PRIEDO PAPILDYMO
+ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2008-01-24)
+Redagavo
+Aušrinė Trapinskienė (2009-12-30)
                  
 autrap@lrs.lt
