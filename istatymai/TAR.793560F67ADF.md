@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.793560F67ADF"
 
 # Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymas
 
-Suvestinė redakcija nuo 2009-01-01 iki 2009-12-31
+Suvestinė redakcija nuo 2010-01-01 iki 2010-11-26
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 67-0; Žin. 1991, Nr.11-274, i. k. 0911010ISTA00I-1163
  
@@ -80,12 +80,18 @@ MOKESČIO UŽ VALSTYBINIUS GAMTOS IŠTEKLIUS
 Mokesčio objektas yra šie išgaunami valstybiniai gamtos ištekliai:
 
 
-1) naudingosios iškasenos, nurodytos šio įstatymo 1 ir 4 prieduose, išskyrus angliavandenilius ir durpes, naudojamas gydymo įstaigose;
+1) naudingosios iškasenos, nurodytos šio įstatymo 1 priede, išskyrus angliavandenilius ir durpes, naudojamas gydymo įstaigose; 
+Straipsnio punkto pakeitimai:
+Nr. XI-400, 2009-07-23, Žin., 2009, Nr. 93-3989 (2009-08-04), i. k. 1091010ISTA00XI-400
+ 
 
 
 
 
-2) vanduo, išskyrus mineralinį vandenį, naudojamą gydymo įstaigose, ir statybinis gruntas, nurodyti šio įstatymo 2 priede;
+2) vanduo ir statybinis gruntas, nurodyti šio įstatymo 2 priede; 
+Straipsnio punkto pakeitimai:
+Nr. XI-400, 2009-07-23, Žin., 2009, Nr. 93-3989 (2009-08-04), i. k. 1091010ISTA00XI-400
+ 
 
 
 
@@ -119,25 +125,27 @@ Mokesčio objektas yra šie išgaunami valstybiniai gamtos ištekliai:
 6 straipsnis. Mokesčio tarifų nustatymas ir jų indeksavimas
 
 
-1. Mokesčio už valstybinius gamtos išteklius tarifai nustatyti šio įstatymo 1,2 ir 3 prieduose. Tuo atveju, kai ištekliai išžvalgyti paties mokesčio mokėtojo lėšomis, vietoj šio įstatymo 1 priede nustatytų mokesčio už naudingąsias iškasenas tarifų taikomi 4 priede nustatyti tarifai.
+1. Mokesčio už valstybinius gamtos išteklius tarifai nustatyti šio įstatymo 1, 2 ir 3 prieduose.
 
 
 
 
-2. Už nedeklaruotą ar deklaruotą mažesnį nei išgautas gamtos išteklių kiekį ir (ar) be leidimo išgautą gamtos išteklių kiekį taikomas didesnis mokesčio tarifas. Jis apskaičiuojamas šio įstatymo 1, 2, 3 ir 4 prieduose nustatytus tarifus dauginant iš koeficiento 10.
+2. Už nedeklaruotą ar deklaruotą mažesnį negu išgautas gamtos išteklių kiekį ir (ar) be leidimo išgautą gamtos išteklių kiekį taikomas didesnis mokesčio tarifas. Jis apskaičiuojamas šio įstatymo 1, 2 ir 3 prieduose nustatytus tarifus dauginant iš koeficiento 10.
 
 
 
 
-3. Šio įstatymo 1, 2, 3 ir 4 prieduose nustatyti tarifai mokesčio mokėtojo indeksuojami pagal Statistikos departamento prie Lietuvos Respublikos Vyriausybės skelbiamą mokestinių metų vartotojų kainų indeksą. Indeksas nustatomas palyginus mokestinių metų gruodžio mėnesio kainas su 2005 metų gruodžio mėnesio kainomis. Indeksavimo koeficientas, kurį taikant indeksuojami mokesčio už valstybinius gamtos išteklius tarifai, nustatomas vartotojų kainų indeksą dalijant iš šimto.
+3. Šio įstatymo 1, 2 ir 3 prieduose nustatyti tarifai mokesčio mokėtojo indeksuojami pagal Statistikos departamento prie Lietuvos Respublikos Vyriausybės skelbiamą mokestinių metų vartotojų kainų indeksą. Indeksas nustatomas palyginus mokestinių metų gruodžio mėnesio kainas su 2005 metų gruodžio mėnesio kainomis. Indeksavimo koeficientas, kurį taikant indeksuojami mokesčio už valstybinius gamtos išteklius tarifai, nustatomas vartotojų kainų indeksą dalijant iš šimto.
 
 
 
 
-4. Indeksuoti mokesčio tarifai įsigalioja nuo kalendorinių metų, einančių po mokestinio laikotarpio, sausio 1 dienos.
+4. Indeksuoti mokesčio tarifai įsigalioja nuo kalendorinių metų, einančių po mokestinio laikotarpio, sausio 1 dienos. 
+
+
+Straipsnio pakeitimai:
+Nr. XI-400, 2009-07-23, Žin., 2009, Nr. 93-3989 (2009-08-04), i. k. 1091010ISTA00XI-400
  
-
-
 
 
 
@@ -150,7 +158,10 @@ Mokesčio objektas yra šie išgaunami valstybiniai gamtos ištekliai:
 
 
 
-2. Mokesčio už valstybinius gamtos išteklius, išskyrus mokestį už medžiojamųjų gyvūnų išteklius, mokėtojai, mokestinio laikotarpio mokesčio deklaracijoje taikydami indeksuotą šio įstatymo 1, 2 ar 4 prieduose nustatytą tarifą, apskaičiuoja ir moka mokestį už visą per tą mokestinį laikotarpį išgautą gamtos išteklių kiekį.
+2. Mokesčio už valstybinius gamtos išteklius, išskyrus mokestį už medžiojamųjų gyvūnų išteklius, mokėtojai, mokestinio laikotarpio mokesčio deklaracijoje taikydami indeksuotą šio įstatymo 1 ar 2 prieduose nustatytą tarifą, apskaičiuoja ir moka mokestį už visą per tą mokestinį laikotarpį išgautą gamtos išteklių kiekį. 
+Straipsnio dalies pakeitimai:
+Nr. XI-400, 2009-07-23, Žin., 2009, Nr. 93-3989 (2009-08-04), i. k. 1091010ISTA00XI-400
+ 
 
 
 
@@ -160,7 +171,10 @@ Mokesčio objektas yra šie išgaunami valstybiniai gamtos ištekliai:
 
 
 
-4. Mokesčio mokėtojai, mokestiniam laikotarpiui pasibaigus, privalo užpildyti metines mokesčio už valstybinius gamtos išteklius deklaracijas ir jas pateikti tai teritorinei valstybinei mokesčių inspekcijai, kurios teritorijoje įregistruotas mokesčio mokėtojas, ir atitinkamai Aplinkos ministerijos ar įgaliotai institucijai, išdavusiai leidimą, bei sumokėti mokestį iki kalendorinių metų, einančių po mokestinio laikotarpio, vasario 1 dienos.
+4. Mokesčio mokėtojai, mokestiniam laikotarpiui pasibaigus, privalo užpildyti metines mokesčio už valstybinius gamtos išteklius deklaracijas ir jas pateikti tai teritorinei valstybinei mokesčių inspekcijai, kurios veiklos teritorijoje jie yra arba privalo būti įregistruoti mokesčio mokėtojais, ir sumokėti mokestį iki kalendorinių metų, einančių po mokestinio laikotarpio, vasario 1 dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XI-400, 2009-07-23, Žin., 2009, Nr. 93-3989 (2009-08-04), i. k. 1091010ISTA00XI-400
+ 
 
 
 
@@ -269,53 +283,47 @@ Nr. I-1163
 
 
 
- 
- 
  
 Lietuvos Respublikos
-mokesčio už valstybinius gamtos išteklius 
-įstatymo
+mokesčio už valstybinius
+gamtos išteklius įstatymo
 1 priedas
  
-MOKESČIO UŽ NAUDINGĄSIAS IŠKASENAS TARIFAI
+MokesčiO už naudingąsias IŠKASENas tarifai
  
 
 
 
- Eil. Nr.  
+ Eil. Nr. 
  Ištekliai 
  Matavimo vnt. 
- Tarifas Lt 
+ Tarifas (Lt) 
 
 
  1. 
  Anhidritas 
  m3 
- 1,52 
+ 3,04 
 
 
  2. 
  Dolomitas 
  m3 
- 0,65 
+ 1,3 
 
 
  3. 
- Durpės: mažaskaidės  
+ Durpės 
  m3 
- 0,54 
+ 0,62 
 
 
-   
- Kitos 
-   
- 0,2 
 
 
  4. 
  Gintaras 
  kg 
- 34,9 
+ 69,8 
 
 
  5. 
@@ -327,37 +335,19 @@ MOKESČIO UŽ NAUDINGĄSIAS IŠKASENAS TARIFAI
  6. 
  Kreidos mergelis 
  m3 
- 1,13 
+ 2,26 
 
 
  7. 
- Molis: 
+ Molis:devono periodotriaso periodokitas 
  m3 
-   
-
-
-   
- devono periodo  
-   
- 0,98 
-
-
-   
- triaso periodo  
-   
- 0,65  
-
-
-   
- kitas 
-   
- 0,39 
+ 1,961,30,78 
 
 
  8. 
  Opoka 
  m3 
- 0,9 
+ 1,8 
 
 
  9. 
@@ -369,100 +359,109 @@ MOKESČIO UŽ NAUDINGĄSIAS IŠKASENAS TARIFAI
  10. 
  Smėlis moliui liesinti 
  m3 
- 0,33 
+ 0,66 
 
 
  11. 
  Smėlis stiklui gaminti 
  m3 
- 2,0 
+ 4,0 
 
 
  12. 
- Smėlis silikatiniams dirbiniams 
+ Smėlis silikatiniams dirbiniams  
  m3 
- 0,3 
+ 0,6 
 
 
  13. 
- Kitas smėlis 
+ Kitas smėlis  
  m3 
- 0,25 
+ 0,5 
 
 
  14. 
  Žvyras 
  m3 
- 0,3 
+ 0,6 
 
 
 
-______________
+ 
+Priedo pakeitimai:
+Nr. XI-400, 2009-07-23, Žin., 2009, Nr. 93-3989 (2009-08-04), i. k. 1091010ISTA00XI-400
  
 
 
 
 
- 
  
-Lietuvos Respublikos 
-mokesčio už valstybinius 
-gamtos išteklius įstatymo 
+Lietuvos Respublikos
+mokesčio už valstybinius
+gamtos išteklius įstatymo
 2 priedas
  
-MOKESČIO UŽ VANDENĮ IR STATYBINĮ GRUNTĄ TARIFAI
+MOKESČIO UŽ VANDENĮ ir statybinį gruntą tarifai 
  
 
 
 
- Eil. Nr.  
+ Eil. Nr. 
  Ištekliai 
- Tarifas Lt/m3 
+ Tarifas (Lt/m3) 
+
+
 
 
  1. 
- Požeminis vanduo, išskyrus mineralinį 
+ Požeminis vanduo, išskyrus mineralinį  
  0,06 
 
 
  2. 
- Mineralinis vanduo 
- 5,4 
+ Mineralinis vanduo, išskyrus mineralinį vandenį, naudojamą gydymo įstaigose 
+ 10,8 
 
 
  3. 
+ Mineralinis vanduo, naudojamas gydymo ?staigose 
+ 5,4 
+
+
+ 4. 
  Paviršinis vanduo pramonei ir žemės ūkiui 
  0,007 
 
 
- 4. 
+ 5. 
  Paviršinis vanduo kondensacinėms šiluminėms elektrinėms aušinti 
  0,0007 
 
 
- 5. 
+ 6. 
  Paviršinis vanduo žuvininkystei 
  0,0005 
 
 
- 6. 
+ 7. 
  Paviršinis vanduo hidroenergetikai 
  0,00003 
 
 
- 7. 
+ 8. 
  Paviršinis vanduo atominei elektrinei 
  0,001 
 
 
- 8. 
- Statybinis gruntas 
- 0,2 
+ 9. 
+ Statybinis gruntas  
+ 0,4 
 
 
 
-______________
  
+Priedo pakeitimai:
+Nr. XI-400, 2009-07-23, Žin., 2009, Nr. 93-3989 (2009-08-04), i. k. 1091010ISTA00XI-400
  
 
 
@@ -542,133 +541,9 @@ ______________
 Lietuvos Respublikos mokesčio už 
 valstybinius gamtos išteklius įstatymo 
 4 priedas
- 
-MOKESČIO UŽ NAUDINGĄSIAS IŠKASENAS TARIFAI, KAI IŠTEKLIAI IŠŽVALGYTI PATIES MOKESČIO MOKĖTOJO LĖŠOMIS
- 
-
-
-
- Eil. Nr.  
- Ištekliai 
- Matavimo vienetas 
- Tarifai Lt 
-
-
- 1. 
- Anhidritas 
- m3 
- 1,34 
-
-
- 2. 
- Dolomitas 
- m3 
- 0,59 
-
-
- 3. 
- Durpės: 
-   
-   
-
-
-   
- Mažaskaidės 
- m3 
- 0,48 
-
-
-   
- Kitos 
-   
- 0,14 
-
-
- 4. 
- Gintaras 
- kg 
- 34,8 
-
-
- 5. 
- Klintis 
- m3 
- 1,6 
-
-
- 6. 
- Kreidos mergelis 
- m3 
- 1,00 
-
-
- 7. 
- Molis: 
-   
-   
-
-
-   
- devono periodo 
- m3 
- 0,92 
-
-
-   
- triaso periodo 
-   
- 0,54 
-
-
-   
- Kitas 
-   
- 0,33 
-
-
- 8. 
- Opoka 
- m3 
- 0,8 
-
-
- 9. 
- Sapropelis 
- m3 
- 0,79 
-
-
- 10. 
- Smėlis moliui liesinti 
- m3 
- 0,27 
-
-
- 11. 
- Smėlis stiklui gaminti 
- m3 
- 6,00 
-
-
- 12. 
- Smėlis silikatiniams dirbiniams 
- m3 
- 0,24 
-
-
- 13. 
- Kitas smėlis 
- m3 
- 0,19 
-
-
- 14. 
- Žvyras 
- m3 
- 0,24“ 
-
-
-
+4 priedas neteko galios nuo 2010-01-01
+Priedo pakeitimai:
+Nr. XI-400, 2009-07-23, Žin., 2009, Nr. 93-3989 (2009-08-04), i. k. 1091010ISTA00XI-400
  
  
  
@@ -703,3 +578,8 @@ Lietuvos Respublikos mokesčių už valstybinius gamtos išteklius įstatymo pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1658, 2008-07-01, Žin., 2008, Nr. 81-3170 (2008-07-17), i. k. 1081010ISTA00X-1658
 Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymo 11 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-400, 2009-07-23, Žin., 2009, Nr. 93-3989 (2009-08-04), i. k. 1091010ISTA00XI-400
+Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymo 4, 6, 7 straipsnių ir 1, 2 priedų pakeitimo bei 4 priedo pripažinimo netekusiu galios įstatymas
