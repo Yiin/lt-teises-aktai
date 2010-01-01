@@ -13,19 +13,38 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E0EA485657C8"
 
 # Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas
 
-Suvestinė redakcija nuo 1999-05-28 iki 2009-12-31
+Suvestinė redakcija nuo 2010-01-01 iki 2010-06-30
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1736, i. k. 0971010ISTAVIII-375
  
-Nauja redakcija nuo 1999-05-28:
-Nr. VIII-1167, 1999-05-11, Žin. 1999, Nr. 47-1468 (1999-05-28), i. k. 0991010ISTAIII-1167
+Nauja redakcija nuo 2010-01-01:
+Nr. XI-408, 2009-07-23, Žin. 2009, Nr. 95-4033 (2009-08-08), i. k. 1091010ISTA00XI-408
  
-LIETUVOS RESPUBLIKOS ŠAULIŲ SĄJUNGOS
-Į S T A T Y M A S
+LIETUVOS RESPUBLIKOS
+LIETUVOS ŠAULIŲ SĄJUNGOS
+ĮSTATYMAS
+ 
+Įstatymo pavadinimo pakeitimas:
+Nr. XI-408, 2009-07-23, Žin., 2009, Nr. 95-4033 (2009-08-08), i. k. 1091010ISTA00XI-408
  
 1997 m. liepos 2 d. Nr. VIII-375
 Vilnius
  
+PREAMBULĖ
+ 
+
+
+Lietuvos Respublikos Seimas,
+pažymėdamas istorinį Lietuvos šaulių sąjungos ir jos narių vaidmenį atkuriant Lietuvos valstybę, ginant jos laisvę nepriklausomybės kovose 1919–1920 metais, organizuojant ir vykdant Klaipėdos krašto sukilimą 1923 metais, ginklu priešinantis Sovietų Sąjungos okupacijai 1944–1953 metais ir ginant atkurtąją Lietuvos Respublikos nepriklausomybę 1991 metais;
+konstatuodamas, kad Lietuvos šaulių sąjunga tęsia 1919 m. birželio 27 d. įkurtos organizacijos veiklą;
+vertindamas Lietuvos šaulių sąjungos indėlį į šalies nacionalinio saugumo užtikrinimą;
+pabrėždamas būtinybę tobulinti Lietuvos šaulių sąjungos veiklos teisinius pagrindus atsižvelgiant į kintančius nacionalinio saugumo užtikrinimo poreikius, šalies narystę NATO ir Europos Sąjungoje;
+matydamas tarnybą Lietuvos šaulių sąjungoje kaip vieną iš būdų Lietuvos Respublikos piliečiams pasirengti vykdyti savo konstitucinę teisę ir pareigą ginti Tėvynę, įtvirtintą Lietuvos Respublikos Konstitucijos 139 straipsnio pirmojoje dalyje;
+siekdamas stiprinti Lietuvos šaulių sąjungą kaip jungiamąją visuomenės ir Lietuvos kariuomenės bei kitų ginkluotųjų pajėgų grandį, policijos ir kitų valstybės institucijų talkininkę, pilietinio ir tautinio ugdymo subjektą,
+priima šį įstatymą.
+ 
+
+
 
 
 PIRMASIS SKIRSNIS
@@ -36,7 +55,7 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas nustato Šaulių sąjungos (toliau – Sąjunga), tęsiančios iki 1940 m. birželio 15 d. veikusios organizacijos veiklą, valdymą, narystę, teisę į išlikusį nekilnojamąjį turtą ir jos likvidavimo tvarką.
+Šis įstatymas nustato Lietuvos šaulių sąjungos (toliau – LŠS) ir jos narių statusą ir veiklą.
  
 
 
@@ -47,77 +66,32 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Sąjungos dalinys (rinktinė) (toliau – Sąjungos rinktinė) – Sąjungos struktūrinis vienetas, sudarytas iš apskrities teritorijoje veikiančių ne mažiau kaip dviejų kuopų. Be kuopų, Sąjungos rinktinėje gali būti ir atskirieji būriai, kurių skaičius neribojamas.
+1. Jaunasis šaulys – šaulys nuo 11 iki 18 metų.
 
 
 
 
-2. Sąjungos padaliniai – Sąjungos mažesni struktūriniai vienetai (kuopos, atskirieji būriai, būriai, skyriai, grandys), į kuriuos veiklos ir valdymo patogumui skirstomos Sąjungos rinktinės.
+2. Lietuvos šaulių sąjunga – valstybės remiama ir padedanti užtikrinti nacionalinį saugumą savanoriška sukarinta pilietinės savigynos asociacija, veikianti pagal šį įstatymą ir savo statutą.
 
 
 
 
-3. Kuopa – teritoriniu principu suformuotas Sąjungos rinktinės padalinys. Kuopą sudaro viename rajone ar mieste esantys būriai, skyriai ir grandys.
+3. Lietuvos šaulių sąjungos koviniai būriai – rinktinių padaliniai, savanoriškumo pagrindu sudaromi iš pilnamečių šaulių, kurie yra tinkami tikrajai karo tarnybai, bet jos neatlieka. 
 
 
 
 
-4. Atskirasis būrys – teritoriniu principu suformuotas Sąjungos rinktinės padalinys, nepriklausantis kuopai ir tiesiogiai pavaldus rinktinės vadui.
+4. Šaulio tarnyba – šio įstatymo, Lietuvos šaulių sąjungos statuto ir vidaus teisės aktų nustatytų šaulio teisių ir pareigų, mokymo ir tarnybos užduočių vykdymas įgyvendinant šio įstatymo nustatytus Lietuvos šaulių sąjungos tikslus, uždavinius, funkcijas ir teises.
 
 
 
 
-5. Būrys – teritoriniu principu suformuotas kuopos padalinys, kurį sudaro vienoje teritorijoje (mieste, rajone, kaime, gyvenvietėje) esantys skyriai ir grandys.
+5. Šaulys – Lietuvos šaulių sąjungos narys.
 
 
 
 
-6. Skyrius – teritoriniu principu suformuotas šaulių padalinys, kurį sudaro vienoje teritorijoje (mieste, kaime, gyvenvietėje) esančios grandys.
-
-
-
-
-7. Grandis – teritoriniu principu suformuotas mažiausias šaulių padalinys, kurį sudaro vienoje teritorijoje (mieste, kaime, gyvenvietėje) gyvenantys šauliai.
-
-
-
-
-8. Sąjungos štabas – Sąjungos valdymo, veiklos organizavimo bei kontrolės institucija, įgyvendinanti Sąjungos vado ir Centro valdybos sprendimus.
-
-
-
-
-9. Sąjungos rinktinės štabas – Sąjungos rinktinės valdymo, veiklos organizavimo institucija, įgyvendinanti Sąjungos rinktinės vado ir rinktinės valdybos sprendimus.
-
-
-
-
-10. Aktyvusis kariuomenės rezervas – kariuomenės rezervo dalis, kurią sudaro atsargos kariai, tarnavę kariuomenėje ar kitokiu būdu įgiję reikiamą pagrindinį karinį pasirengimą, įrašyti į kariuomenės atsargos personalo įskaitą ir iki įstatymo nustatyto amžiaus periodiškai šaukiami į karinius mokymus bei pratybas.
-
-
-
-
-11. Karinis vienetas – bet kokio dydžio patvirtintos struktūros kiekvienas kariuomenės vienetas, turintis bendrą užduotį.
-
-
-
-
-12. Rikiuotės šauliai – nuo 18 iki 45 metų įrašyti į aktyviojo rezervo atsargos karių įskaitą šauliai, pagal sveikatos būklę ir fizinį pasirengimą tinkantys karo tarnybai ir Krašto apsaugos savanorių pajėgose nesantys kariai savanoriai.
-
-
-
-
-13. Ne rikiuotės šauliai – šauliai, kurie nuo 18 metų dėl amžiaus, sveikatos būklės, šeimyninių, darbo ar kitų aplinkybių negali būti rikiuotės šauliais. Ne rikiuotės šauliai sudaro nekovinius Sąjungos padalinius, kuriems gali būti skiriamos pagalbinės teritorinės gynybos užduotys.
-
-
-
-
-14. Garbės šauliai – Lietuvai ir Sąjungai nusipelnę asmenys.
-
-
-
-
-15. Jaunieji šauliai – šauliai nuo 12 iki 18 metų.
+6. Šaulių rinktinė (toliau – rinktinė) – Lietuvos šaulių sąjungos padalinys, jungiantis aukštesniųjų administracinių vienetų centruose ir (ar) kitose aukštesniųjų administracinių vienetų teritorijose veikiančius Lietuvos šaulių sąjungos padalinius.
  
 
 
@@ -125,20 +99,20 @@ BENDROSIOS NUOSTATOS
 
 
 
-3 straipsnis. Sąjungos samprata
+3 straipsnis. LŠS veiklos teisiniai pagrindai
 
 
-1. Sąjunga yra savanoriška, pilietinės savigynos savaveiksmė visuomenės organizacija, stiprinanti valstybės gynybinę galią, ugdanti pilietiškumą ir tautinį sąmoningumą, plėtojanti valstybės gynybos švietėjišką veiklą, teikianti pagalbą policijai bei civilinės saugos ir gelbėjimo sistemos institucijoms.
-
-
-
-
-2. Sąjunga yra ne pelno organizacija. Jos veiklos tikslas nėra pelno siekimas.
+1. LŠS savo veiklą grindžia Lietuvos Respublikos Konstitucija, Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymu, šiuo ir kitais Lietuvos Respublikos įstatymais, taip pat LŠS statutu, Šaulių etikos kodeksu ir kitais teisės aktais.
 
 
 
 
-3. Sąjungos buveinė pagal tradiciją yra Kaune.
+2. Lietuvos Respublikos asociacijų įstatymas LŠS taikomas tiek, kiek jis neprieštarauja šiam įstatymui.
+
+
+
+
+3. Ginkluotos gynybos nuo agresijos (karo) ir mokymų bei pratybų su Lietuvos kariuomenės (toliau – kariuomenė) vienetais metu LŠS koviniams būriams taikomi tarnybą kariuomenėje reglamentuojantys statutai.
  
 
 
@@ -146,10 +120,120 @@ BENDROSIOS NUOSTATOS
 
 
 
-4 straipsnis. Sąjungos veiklos teisinis pagrindas
+4 straipsnis. LŠS statutas
 
 
-Sąjunga savo veiklą grindžia Lietuvos Respublikos Konstitucija, Nacionalinio saugumo pagrindų, šiuo ir kitais įstatymais, Vyriausybės nutarimais, Sąjungos statutu bei kitais teisės aktais.
+1. LŠS statute reglamentuojama:
+
+
+1) LŠS ir jos rinktinių tipinė struktūra;
+
+
+
+
+2) rinktinių ir jų padalinių sudarymo tvarka;
+
+
+
+
+3) LŠS suvažiavimo sušaukimo ir rinktinių atstovų į suvažiavimą išrinkimo, taip pat LŠS suvažiavimo darbo tvarka;
+
+
+
+
+4) LŠS centrinių institucijų darbo tvarka;
+
+
+
+
+5) rinktinių ir jų padalinių vadų skyrimo ir atleidimo tvarka, kolegialių institucijų formavimo ir darbo organizavimo tvarka, kompetencija ir atsakomybė;
+
+
+
+
+6) LŠS veiklos kontrolės tvarka;
+
+
+
+
+7) asmenų priėmimo į LŠS, išstojimo ir pašalinimo iš LŠS tvarka, taip pat narystės LŠS sustabdymo pagrindai ir tvarka;
+
+
+
+
+8) šaulio priesaika ir jaunojo šaulio iškilmingas pasižadėjimas;
+
+
+
+
+9) bendrosios šaulių teisės ir pareigos;
+
+
+
+
+10) šaulio tarnybos tvarka ir drausmė;
+
+
+
+
+11) jaunojo šaulio tarnyba;
+
+
+
+
+12) LŠS kovinių būrių sudarymas ir šaulio tarnyba koviniame būryje;
+
+
+
+
+13) stojamojo ir LŠS nario mokesčio ir tikslinių įmokų mokėjimo tvarka;
+
+
+
+
+14) šaulių uniformos ir skiriamieji ženklai, jų dėvėjimo ir nešiojimo tvarka;
+
+
+
+
+15) šaulių skatinimas ir apdovanojimas už nepriekaištingą ir pavyzdingą šaulio pareigų vykdymą, kitų asmenų, nusipelniusių LŠS, apdovanojimas;
+
+
+
+
+16) šaulių drausminė atsakomybė;
+
+
+
+
+17) LŠS vėliava ir ženklas, LŠS vėliavos ir ženklo naudojimo tvarka;
+
+
+
+
+18) rinktinių vėliavų etalonų tvirtinimo ir vėliavų naudojimo tvarka;
+
+
+
+
+19) garbės šaulio vardo suteikimo ir atėmimo tvarka, taip pat garbės šaulių teisės dalyvauti LŠS veikloje;
+
+
+
+
+20) LŠS santykiai ir bendradarbiavimas su išeivijos šauliais bei jų susivienijimais;
+
+
+
+
+21) LŠS buveinė.
+
+
+
+
+
+
+2. LŠS statutą įsakymu tvirtina krašto apsaugos ministras. Prieš tvirtindamas ar keisdamas LŠS statutą, krašto apsaugos ministras turi pateikti LŠS suvažiavimui atitinkamą projektą ir įvertinti jo pateiktus siūlymus. LŠS statuto ir jo pakeitimo projektus rengia Krašto apsaugos ministerija kartu su LŠS vado įgaliotais šauliais.
  
 
 
@@ -157,30 +241,20 @@ Sąjunga savo veiklą grindžia Lietuvos Respublikos Konstitucija, Nacionalinio 
 
 
 
-5 straipsnis. Sąjungos statusas
+5 straipsnis. LŠS teisinis statusas
 
 
-1. Sąjunga ir Sąjungos rinktinės yra juridiniai asmenys. Centro valdybos sprendimu juridinio asmens teises gali turėti kuopos ir atskirieji būriai. Sąjunga, rinktinės bei padaliniai, turintys juridinio asmens statusą, turi antspaudą su savo pavadinimu bei atsiskaitomąją ir einamąją sąskaitas nacionaline valiuta bei gali turėti atsiskaitomąją sąskaitą užsienio valiuta viename iš Lietuvos Respublikoje registruotų bankų. Sąjunga gali turėti vieną atsiskaitomąją sąskaitą užsienio valiuta kitoje valstybėje.
-
-
-
-
-2. Sąjunga turi vėliavą, ženklą – Vyčio skydą, nariai – uniformą. Vėliavas turi ir Sąjungos rinktinės.
+1. LŠS yra ribotos civilinės atsakomybės viešasis juridinis asmuo. LŠS teisinė forma yra asociacija. LŠS padaliniai juridinio asmens teisių neturi.
 
 
 
 
-3. Sąjunga atsako už savo prievoles visu jai priklausančiu turtu. Sąjungos rinktinės ir Sąjungos padaliniai, turintys juridinio asmens teises, už savo prievoles kiekvienas atsako visu savo turtu. Sąjunga neatsako pagal savo rinktinių ir padalinių, turinčių juridinio asmens teises, prievoles, taip pat Sąjungos rinktinės ir Sąjungos padaliniai neatsako už Sąjungos prievoles. Sąjunga, jos rinktinės ir padaliniai neatsako už savo narių prievoles, o nariai – už Sąjungos arba jos rinktinių ir padalinių prievoles.
+2. LŠS, kaip viešojo juridinio asmens, teises ir pareigas įgyvendina ir jai atstovauja LŠS vadas.
 
 
 
 
-4. Kai Vyriausybė patvirtina Sąjungos statutą, Sąjungos vadas teikia prašymą Teisingumo ministerijai, o ši, nurodydama identifikavimo kodą, per 5 dienas išduoda Sąjungos juridinio asmens teisių įgijimą patvirtinantį pažymėjimą.
-
-
-
-
-5. Sąjungos įsteigtos rinktinės ir Sąjungos padaliniai įgyja juridinio asmens teises, kai jų vadovybė pateikia prašymą ir Sąjungos vado patvirtintus Sąjungos rinktinės įstatus apskrities viršininkui, o Sąjungos padalinių (kuopų, atskirųjų būrių ir kt.) įstatus – vietos savivaldos institucijai pagal jų veiklos teritoriją, jie (suteikdami identifikavimo kodą) per 5 dienas išduoda Sąjungos rinktinės ar padalinio juridinio asmens teisių įgijimą patvirtinantį pažymėjimą.
+3. LŠS vadas su LŠS Centro valdybos pritarimu gali įgalioti LŠS vado pavaduotojus ir rinktinių vadus pagal jų pareigas atstovauti LŠS, kaip viešajam juridiniam asmeniui, ir sudaryti sandorius LŠS vardu tokia apimtimi, kokios reikia LŠS centrinių institucijų ir rinktinių veiklai vykdyti.
  
 
 
@@ -188,71 +262,30 @@ Sąjunga savo veiklą grindžia Lietuvos Respublikos Konstitucija, Nacionalinio 
 
 
 
-6 straipsnis. Sąjungos statutas
+6 straipsnis. LŠS atributika
 
 
-1. Sąjungos statutas nustato Sąjungos, jos rinktinių ir padalinių struktūrą, jų steigimo, vidaus, reorganizavimo bei likvidavimo tvarką, vėliavos, ženklo, uniformos bei kitų atributų patvirtinimo ir naudojimo tvarką, priesaikos bei jaunojo šaulio iškilmingo pasižadėjimo tekstą, priėmimo į Sąjungos narius, pašalinimo iš jų tvarką ir atsakomybę už statutinius nusižengimus, taip pat Sąjungos rinktinių atstovų suvažiavimo kvotą ir jų rinkimo tvarką, rinktinių padalinių atstovų suvažiavimo ir Sąjungos padalinių susirinkimų darbo tvarką ir kompetenciją, Sąjungos rinktinių ir kuopų valdybų bei rinktinių revizijos komisijų kompetenciją, jų sudarymo ir darbo tvarką, Sąjungos narių mokymo ir tarnybos užduočių vykdymo tvarką, padalinių vadų skyrimo tvarką, rinktinių bei padalinių vadų funkcijas ir atsakomybę. 
-
-
-
-
-2. Sąjungos statuto projektą, Statuto pakeitimo ir papildymo projektus, pritarus Sąjungos rinktinių atstovų suvažiavime, Krašto apsaugos ministerija teikia tvirtinti Vyriausybei.
- 
+1. LŠS turi savo vėliavą. LŠS vėliavos etalonas suderinamas su Lietuvos heraldikos komisija. Jį tvirtina krašto apsaugos ministras, tvirtindamas LŠS statutą.
 
 
 
 
-
-
-7 straipsnis. Sąjungos tikslai ir uždaviniai
-
-
-1. Sąjunga taikos metu:
-
-
-1) stiprina Lietuvos valstybės nepriklausomybę;
+2. Rinktinių vėliavų etalonai suderinami su Lietuvos heraldikos komisija ir tvirtinami LŠS statuto nustatyta tvarka.
 
 
 
 
-2) rengiasi pilietinei savigynai ir ginkluotai krašto gynybai;
+3. LŠS ženklas yra Vyčio kryžius. Vyčio kryžiaus etalonas suderinamas su Lietuvos heraldikos komisija. Jį tvirtina krašto apsaugos ministras, tvirtindamas LŠS statutą.
 
 
 
 
-3) ugdo pilietiškumą, pagarbą Lietuvos Respublikos Konstitucijai ir pasitikėjimą nacionaliniais institutais;
+4. Šaulių uniformų ženklų etalonai suderinami su Lietuvos heraldikos komisija. Juos tvirtina krašto apsaugos ministras, tvirtindamas LŠS statutą.
 
 
 
 
-4) puoselėja tautos etninę kultūrą;
-
-
-
-
-5) dalyvauja rengiant piliečius visuotiniam pilietiniam ir ginkluotam pasipriešinimui karo grėsmės ir okupacijos atveju;
-
-
-
-
-6) padeda krašto apsaugos struktūroms rengti mobilizacinį rezervą;
-
-
-
-
-7) Sąjungos sudarytose su policija bendradarbiavimo sutartyse nustatyta tvarka teikia pagalbą policijai palaikant viešąją tvarką, kovojant su nusikalstamumu bei sustiprinant valstybės sienų apsaugą;
-
-
-
-
-8) Sąjungos sudarytose su civilinės saugos ir gelbėjimo sistemos institucijomis bendradarbiavimo sutartyse nustatyta tvarka teikia pagalbą civilinės saugos ir gelbėjimo sistemos institucijoms atliekant gelbėjimo darbus bei likviduojant ekstremalių įvykių sukeltus padarinius.
-
-
-
-
-
-
-2. Karo padėties metu Sąjungos nariai, jos rinktinės bei padaliniai dalyvauja ginkluotame ir pilietiniame pasipriešinime.
+5. LŠS atributika negali būti naudojama politinių partijų organizuojamuose susirinkimuose, rinkimų ir referendumų agitacijos kampanijose.
  
 
 
@@ -263,24 +296,14 @@ Sąjunga savo veiklą grindžia Lietuvos Respublikos Konstitucija, Nacionalinio 
 
 
 ANTRASIS SKIRSNIS
-SĄJUNGOS RINKTINIŲ IR PADALINIŲ STEIGIMAS BEI SĄJUNGOS VEIKLA
+LŠS VEIKLA
  
 
 
-8 straipsnis. Sąjungos struktūra ir jos rinktinių bei padalinių steigimas
+7 straipsnis. LŠS tikslai
 
 
-1. Sąjungą sudaro teritoriniu principu suformuotos Sąjungos rinktinės ir padaliniai: kuopos, atskirieji būriai, būriai, skyriai ir grandys.
-
-
-
-
-2. Sąjungos, jos rinktinių bei padalinių struktūrą nustato Sąjungos statutas. 
-
-
-
-
-3. Sąjungos rinktinės ir padaliniai steigiami Sąjungos statuto nustatyta tvarka.
+LŠS tikslai – stiprinti Lietuvos Respublikos nacionalinį saugumą telkiant Lietuvos Respublikos piliečius aktyviai prisidėti prie valstybės gynybinės galios didinimo, viešojo saugumo užtikrinimo, visuomenės pilietinio, patriotinio ir tautinio ugdymo, taip pat ugdyti pasitikinčius savimi, kūrybingus, motyvuotus, drausmingus Lietuvos Respublikos piliečius, pasirengusius ginti Tėvynę ir padėti nelaimės atveju kitiems.
  
 
 
@@ -288,53 +311,33 @@ SĄJUNGOS RINKTINIŲ IR PADALINIŲ STEIGIMAS BEI SĄJUNGOS VEIKLA
 
 
 
-9 straipsnis. Sąjungos veikla
+8 straipsnis. LŠS uždaviniai
 
 
-1. Sąjunga, siekdama savo tikslų ir vykdydama uždavinius, veikia pagal programą, patvirtintą Sąjungos rinktinių atstovų visuotiniame suvažiavime, bei pagal metinius Sąjungos vado patvirtintus veiklos planus.
+Siekdama šio įstatymo 7 straipsnyje nustatytų tikslų, LŠS įgyvendina šiuos uždavinius:
 
 
-
-
-2. Sąjunga vykdo visuomenės rengimo pilietiniam pasipriešinimui programas. Šių programų rengimo bei vykdymo tvarką nustato nacionalinį saugumą reglamentuojantys įstatymai.
-
-
-
-
-3. Sąjunga taikos metu:
-
-
-1) vykdo rikiuotės šaulių kovinio rengimo užduotis, užtikrina jų, kaip aktyviojo rezervo karių, dalyvavimą bendruose su kariuomene mokymuose ir pratybose;
+1) rengia šaulius ginkluotai valstybės gynybai ir pilietiniam pasipriešinimui, o ginkluotos gynybos nuo agresijos (karo) metu dalyvauja ginkluotoje valstybės gynyboje ir pilietiniame pasipriešinime;
 
 
 
 
-2) iš ne rikiuotės šaulių, kurie pagal fizinės ir psichinės sveikatos būklę bei fizinį pasirengimą pripažįstami tinkamais, formuoja padalinius ir rengia juos pagalbinėms teritorinės gynybos užduotims vykdyti. Užduotis planuoja kariuomenės teritorinės gynybos štabai. Padaliniai gali būti šaukiami į kariuomenės rezervo pratybas ir mokymus. Jų metu ne rikiuotės šauliams taikomas rezervo kario statusas ir teisės aktų nustatytos rezervo karių tarnybos sąlygos;
+2) prisideda prie savanoriško Lietuvos Respublikos piliečių karinio rengimo ir padeda kariuomenei atrinkti Lietuvos Respublikos piliečius į profesinę ir savanorių karo tarnybą;
 
 
 
 
-3) organizuoja įvairią kultūrinę švietėjišką ir sportinę veiklą;
+3) stiprina visuomenės ryšius su krašto apsaugos sistemos institucijomis, prisideda prie kariuomenės autoriteto ir karo tarnybos prestižo didinimo;
 
 
 
 
-4) pilietiškai – patriotiškai auklėja jaunimą ir rengia jį karo tarnybai.
+4) puoselėja ir skleidžia Lietuvos šaulių sąjungos idėjas, ugdo pilietines ir tautines vertybes, puoselėja tautinę kultūrą, propaguoja sveiką gyvenseną ir dalyvauja įgyvendinant jaunimo politiką;
 
 
 
 
-
-
-4. Karo metu:
-
-
-1) rikiuotės šauliai, kaip aktyviojo rezervo kariai, ir jų kariniai vienetai pavaldūs ginkluotųjų pajėgų vadui; 
-
-
-
-
-2) ne rikiuotės šaulių padaliniai vykdo pagalbines gynybos užduotis. 
+5) padeda krašto apsaugos sistemos institucijoms, kitoms valstybės ir savivaldybių institucijoms ir įstaigoms vykdyti jų uždavinius.
  
 
 
@@ -344,95 +347,58 @@ SĄJUNGOS RINKTINIŲ IR PADALINIŲ STEIGIMAS BEI SĄJUNGOS VEIKLA
 
 
 
-10 straipsnis. Sąjungos teisės ir pareigos
+9 straipsnis. LŠS funkcijos
 
 
-1. Sąjunga ir jos nariai įstatymų nustatyta tvarka gali būti ginklų, šaudmenų ir kitų saugos priemonių nuosavybės ir valdymo teisės subjektais.
+1. Vykdydama šio įstatymo 8 straipsnyje nustatytus uždavinius, LŠS:
 
 
+1) organizuoja ir vykdo šaulių karinį rengimą, taip pat prisideda prie kariuomenės organizuojamų kitų Lietuvos Respublikos piliečių savanoriškų karinio rengimo mokymų ir pratybų;
 
 
-2. Šiame įstatyme numatytai veiklai įgyvendinti Sąjunga įstatymų nustatyta tvarka turi teisę:
 
 
-1) nekliudomai raštu, žodžiu ar kitais būdais skleisti informaciją apie savo veiklą, propaguoti Sąjungos tikslus ir uždavinius;
+2) propaguoja kariuomenę ir karo tarnybą visuomenėje, motyvuoja šaulius ir kitus Lietuvos Respublikos piliečius pasirinkti tikrąją karo tarnybą;
 
 
 
 
-2) pirkti ar kitaip įsigyti šaunamuosius ginklus ir šaudmenis bei kitą savo veiklai reikalingą turtą, jį naudoti, valdyti ir juo disponuoti;
+3) vykdo ir dalyvauja įgyvendinant pilietinio ir tautinio ugdymo bei kitas neformaliojo švietimo programas;
 
 
 
 
-3) sudaryti sutartis su juridiniais ir fiziniais asmenimis, padedančiais įgyvendinti Sąjungos tikslus ir uždavinius;
+4) organizuoja ir vykdo šaulių pilietinį ir tautinį ugdymą bei sveiką gyvenseną propaguojančią veiklą;
 
 
 
 
-4) steigti visuomenės informavimo priemones, verstis leidyba;
+5) šio įstatymo nustatytais atvejais ir tvarka teikia pagalbą kariuomenei, policijai, Valstybės sienos apsaugos tarnybai prie Vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba), civilinės saugos ir gelbėjimo sistemos pajėgoms ir švietimo įstaigoms;
 
 
 
 
-5) organizuoti susirinkimus: procesijas, įvairias eitynes, kitokius taikius beginklius masinius renginius;
+6) bendradarbiauja su valstybės ir savivaldybių institucijomis bei įstaigomis, sporto organizacijomis ir klubais, kultūros centrais, asociacijomis ir viešosiomis įstaigomis;
 
 
 
 
-6) užmegzti tarptautinius ryšius ir bendradarbiauti su panašia veikla užsiimančiomis organizacijomis;
+7) saugo LŠS priklausančius ar jos naudojamus objektus ir teritorijas, taip pat krašto apsaugos ministro įsakymais ar sutarčių pagrindu LŠS priskirtus objektus ir teritorijas.
 
 
 
 
-7) stoti į tarptautines organizacijas bei dalyvauti jų veikloje;
 
 
+2. Ginkluotos gynybos nuo agresijos (karo) metu LŠS dalyvauja valstybės ginkluotoje gynyboje ir pilietiniame pasipriešinime:
 
 
-8) samdyti asmenis Sąjungos statute numatytai veiklai vykdyti;
+1) paskelbus mobilizaciją, LŠS koviniai būriai integruojami į kariuomenės karinius vienetus ir ginklu gina valstybę, o mobilizacijos neįvykdžius – ginklu gina valstybę veikdami kaip savarankiški ginkluotųjų pajėgų vienetai;
 
 
 
 
-9) gauti lėšų ar kitokio turto iš tarptautinių organizacijų, fondų bei asmenų;
-
-
-
-
-10) organizuoti mokamus kultūrinius renginius;
-
-
-
-
-11) steigti įmones, viešąsias įstaigas, registruojamas ir veikiančias pagal Lietuvos Respublikos įstatymus;
-
-
-
-
-12) steigti fondus įstatymų nustatyta tvarka;
-
-
-
-
-13) vykdyti objektų ginkluotą apsaugą pagal saugos sutartis;
-
-
-
-
-14) organizuoti ir vykdyti šaulių kovinį rengimą.
-
-
-
-
-
-
-3. Sąjunga privalo tvarkyti buhalterinę apskaitą, teikti finansinę-buhalterinę ir statistinę informaciją valstybės institucijoms.
-
-
-
-
-4. Sąjunga gali turėti kitų teisių ir pareigų, jeigu tai neprieštarauja Lietuvos Respublikos Konstitucijai, šiam bei kitiems įstatymams.
+2) netinkantys tikrajai karo tarnybai šauliai ir LŠS padaliniai atlieka pagalbines gynybos užduotis, taip pat organizuoja ir vykdo pilietinį pasipriešinimą.
  
 
 
@@ -440,10 +406,93 @@ SĄJUNGOS RINKTINIŲ IR PADALINIŲ STEIGIMAS BEI SĄJUNGOS VEIKLA
 
 
 
-11 straipsnis. Sąjungos šaunamųjų ginklų ir šaudmenų įsigijimo, registravimo, saugojimo, išdavimo, apskaitos ir naudojimo tvarka
 
 
-Sąjunga šaunamuosius ginklus ir šaudmenis įsigyja, registruoja, saugo, išduoda, tvarko jų apskaitą ir naudoja įstatymų bei kitų teisės aktų nustatyta tvarka.
+10 straipsnis. LŠS veiklos organizavimas ir vykdymas
+
+
+LŠS veikla organizuojama ir vykdoma remiantis LŠS veiklos strategija ir jos pagrindu tvirtinamais metiniais LŠS ir rinktinių veiklos planais, taip pat tikslinėmis veiklos programomis ir bendradarbiavimo su valstybės ir savivaldybių institucijomis bei įstaigomis, asociacijomis ir viešosiomis įstaigomis sutartimis.
+ 
+
+
+
+
+
+
+11 straipsnis. LŠS teisės
+
+
+1. Vykdydama savo veiklą, LŠS turi šias teises:
+
+
+1) įstatymų nustatyta tvarka turėti sąskaitų bankuose;
+
+
+
+
+2) valdyti, naudoti jai priklausantį turtą ir juo disponuoti;
+
+
+
+
+3) sudaryti sandorius, taip pat bendradarbiavimo su valstybės ir savivaldybių institucijomis bei įstaigomis, asociacijomis ir viešosiomis įstaigomis sutartis;
+
+
+
+
+4) įstatymų nustatyta tvarka steigti įmones ir viešąsias įstaigas;
+
+
+
+
+5) jungtis į asociacijų sąjungas (konfederacijas) ir tarptautines nevyriausybines organizacijas;
+
+
+
+
+6) teisės aktų nustatyta tvarka teikti asmens ir turto saugos paslaugas;
+
+
+
+
+7) organizuoti, vykdyti ir dalyvauti vykdant šaulių karinio rengimo bei rengimo pilietiniam pasipriešinimui, jaunųjų šaulių rengimo karo tarnybai, civilinės saugos ir kitus mokymus;
+
+
+
+
+8) padėti valstybės ir savivaldybių institucijoms bei įstaigoms rengti ir įgyvendinti pilietinio ir tautinio ugdymo bei kitas neformaliojo švietimo programas;
+
+
+
+
+9) vykdyti leidybos veiklą, turėti visuomenės informavimo priemonių;
+
+
+
+
+10) skleisti informaciją apie savo veiklą, krašto apsaugą ir karo tarnybą;
+
+
+
+
+11) organizuoti ir rengti LŠS tikslus ir uždavinius atitinkančius susirinkimus, sporto varžybas ir renginius, kultūros renginius;
+
+
+
+
+12) įsigyti, turėti ir naudoti šaunamuosius ginklus ir šaudmenis bei specialiąsias priemones, taip pat gauti iš kariuomenės ir kitų valstybės institucijų bei įstaigų šaunamuosius ginklus ir šaudmenis, specialiąsias ir technines priemones. LŠS šaunamieji ginklai ir šaudmenys registruojami, saugomi, išduodami šauliams ir jų apskaita tvarkoma teisės aktų nustatyta tvarka;
+
+
+
+
+13) teisės aktų nustatyta tvarka iš valstybės ir savivaldybių institucijų bei įstaigų gauti LŠS uždaviniams ir funkcijoms vykdyti būtiną informaciją.
+
+
+
+
+
+
+2. Šio straipsnio 1 dalyje nustatytomis teisėmis LŠS naudojasi tiek, kiek to reikia jos tikslams siekti, uždaviniams įgyvendinti ir funkcijų atlikimui užtikrinti.
  
 
 
@@ -454,74 +503,35 @@ Sąjunga šaunamuosius ginklus ir šaudmenis įsigyja, registruoja, saugo, išdu
 
 
 TREČIASIS SKIRSNIS
-VALDYMAS
+LŠS SANTYKIAI SU VALSTYBĖS IR SAVIVALDYBIŲ 
+INSTITUCIJOMIS BEI ĮSTAIGOMIS
  
 
 
-12 straipsnis. Sąjungos rinktinių atstovų visuotinis suvažiavimas
+12 straipsnis. LŠS santykiai su Krašto apsaugos ministerija
 
 
-1. Sąjungos rinktinių atstovų visuotinis suvažiavimas (toliau – suvažiavimas) yra aukščiausiasis Sąjungos valdymo organas. Suvažiavimai yra eiliniai ir neeiliniai. Centro valdyba eilinius suvažiavimus šaukia kartą per 3 metus. Šiais atvejais prieš 2 mėnesius iki suvažiavimo Sąjungos rinktinėms pranešama suvažiavimo data, pateikiama darbotvarkė ir ne vėliau kaip prieš 15 dienų – Sąjungos vado kandidatūra. Prireikus Sąjungos vadas šaukia neeilinius suvažiavimus. Juos gali šaukti ir Centro valdyba. Sąjungos rinktinių atstovų į suvažiavimą kvotą ir rinkimo tvarką nustato Sąjungos statutas. 
-
-
-
-
-2. Suvažiavimas laikomas teisėtu, jeigu jame dalyvauja 2/3 visų išrinktų suvažiavimo delegatų. Jeigu atvyko mažiau kaip 2/3 delegatų, po savaitės pakartotinai šaukiamas suvažiavimas, kuris laikomas teisėtu, jeigu jame dalyvauja daugiau kaip pusė visų delegatų. Suvažiavimui vadovauti renkamas pirmininkas, o suvažiavimo darbui organizuoti – sekretoriatas, mandatinė ir balsų skaičiavimo komisijos.
+1. Krašto apsaugos ministras yra LŠS skiriamų valstybės biudžeto asignavimų valdytojas.
 
 
 
 
-3. Suvažiavimas:
-
-
-1) išklauso Sąjungos vado, Centro revizijos komisijos ir Garbės teismo ataskaitas bei pranešimus;
+2. Krašto apsaugos ministerija administruoja krašto apsaugos sistemos bendradarbiavimą su LŠS. Krašto apsaugos sistemos bendradarbiavimą su LŠS koordinuoja krašto apsaugos ministro įgaliota krašto apsaugos sistemos institucija. LŠS vado prašymu teisės aktų nustatyta tvarka krašto apsaugos sistemos institucijose tarnaujantiems kariams, valstybės tarnautojams ir pagal darbo sutartis dirbantiems asmenims gali būti skiriamos užduotys, susijusios su pagalba LŠS veiklos administravimo srityje.
 
 
 
 
-2) krašto apsaugos ministro teikimu, suderintu su Seimo Nacionalinio saugumo ir gynybos komitetu, tvirtina Sąjungos vadą 3 metams;
+3. Krašto apsaugos ministras šio įstatymo nustatyta tvarka skiria į pareigas, atleidžia iš jų ir nušalina nuo pareigų LŠS vadą, taip pat LŠS vado teikimu skiria į pareigas, atleidžia iš jų ir nušalina nuo pareigų LŠS vado pavaduotojus ir rinktinių vadus arba įgalioja LŠS vadą skirti į pareigas, atleisti iš jų ir nušalinti nuo pareigų LŠS vado pavaduotojus ir rinktinių vadus. Jeigu LŠS vadas, jo pavaduotojas ar rinktinės vadas nėra profesinės karo tarnybos karys, įstatymų ir krašto apsaugos ministro nustatyta tvarka jis sudaro terminuotą darbo sutartį su Krašto apsaugos ministerija. Darbo užmokestis LŠS vadui, jo pavaduotojams ir rinktinių vadams mokamas iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų.
 
 
 
 
-3) Sąjungos vado teikimu tvirtina vado pirmąjį pavaduotoją;
+4. Krašto apsaugos ministro įgaliota krašto apsaugos sistemos institucija atlieka LŠS vidaus auditą.
 
 
 
 
-4) tvirtina Sąjungos programą;
-
-
-
-
-5) tvirtina Garbės teismo statutą, jo pakeitimus ir papildymus;
-
-
-
-
-6) renka Centro valdybą, Centro revizijos komisiją ir Garbės teismą;
-
-
-
-
-7) pritaria Sąjungos statuto projektui, Statuto pakeitimo ir papildymo projektui;
-
-
-
-
-8) svarsto ir sprendžia kitus Sąjungai aktualius klausimus.
-
-
-
-
-
-
-4. Visi klausimai suvažiavime sprendžiami paprasta balsų dauguma, išskyrus šio įstatymo 23 straipsnio 2 dalies 2 punkte numatytą atvejį.
-
-
-
-
-5. Rinktinių padalinių atstovų suvažiavimo darbo tvarką ir kompetenciją, taip pat Sąjungos padalinių susirinkimų darbo tvarką ir kompetenciją nustato Sąjungos statutas.
+5. Krašto apsaugos ministras gali pavesti krašto apsaugos generaliniam inspektoriui atlikti LŠS vykdomo karinio rengimo ir pasirengimo bendriems su kariuomene gynybos veiksmams patikrinimą, taip pat tirti galimus LŠS vado, jo pavaduotojų ar rinktinių vadų drausminius nusižengimus.
  
 
 
@@ -529,100 +539,50 @@ VALDYMAS
 
 
 
-13 straipsnis. Sąjungos valdymas
+13 straipsnis. Kariuomenės pagalba LŠS
 
 
-1. Sąjungai vadovauja vadas. Operatyviam veiklos organizavimui ir kontrolei Sąjungos vadas sudaro Sąjungos štabą.
+1. Kariuomenė padeda LŠS:
 
 
+1) planuoti, organizuoti ir vykdyti šaulių karinį rengimą, pasirengimą pagalbinėms gynybos užduotims vykdyti ir pilietiniam pasipriešinimui;
 
 
-2. Sąjungos rinktinėms vadovauja rinktinių vadai, kuriuos skiria Sąjungos vadas. Operatyviam rinktinės veiklos organizavimui ir kontrolei rinktinės vadas sudaro Sąjungos rinktinės štabą. Sąjungos rinktinių vadų funkcijas ir atsakomybę nustato Sąjungos statutas.
 
 
+2) propaguoti krašto apsaugą, kariuomenę ir karo tarnybą, vykdyti pilietinio ir tautinio ugdymo bei jaunimo politikos įgyvendinimo programas;
 
 
-3. Sąjungos padaliniams vadovauja padalinių vadai, kurių skyrimo tvarką, funkcijas ir atsakomybę nustato Sąjungos statutas.
 
 
+3) organizuoti ir vykdyti LŠS renginius;
 
 
-4. Sąjungos vadas:
 
 
-1) teikia suvažiavimui tvirtinti Sąjungos vado pirmojo pavaduotojo kandidatūrą, skiria ir atleidžia Sąjungos vado pavaduotoją, Sąjungos štabo pareigūnus, Sąjungos rinktinių vadus;
+4) atrinkti tikrajai karo tarnybai tinkamus šaulius;
 
 
 
 
-2) šaukia Centro valdybos posėdžius ir jiems pirmininkauja;
+5) atrinkti šaulius, kurie gali naudoti šaunamuosius ginklus ir specialiąsias priemones, taip pat organizuoti ir vykdyti jiems šaunamųjų ginklų ir specialiųjų priemonių naudojimo taisyklių egzaminus;
 
 
 
 
-3) leidžia raštiškus įsakymus, kurie privalomi visiems Sąjungos nariams, ir kontroliuoja šių įsakymų vykdymą;
+6) aprūpinti LŠS kovinių būrių šaulius lauko uniforma ir ekipuote.
 
 
 
 
-4) tvirtina Sąjungos vidaus tvarką, struktūrą, drausmę ir veiklą reglamentuojančius dokumentus;
 
 
+2. Kariuomenės vienetų ir LŠS padalinių sąveikai gerinti organizuojamos bendros karinių vienetų ir LŠS padalinių pratybos, taip pat šauliai dalyvauja karinių vienetų kovinio parengimo pratybose.
 
 
-5) teikia Seimo Nacionalinio saugumo ir gynybos komitetui metinę ataskaitą bei suvažiavimui ataskaitą už laikotarpį tarp suvažiavimų;
 
 
-
-
-6) vykdo kitas Sąjungos statute numatytas funkcijas.
-
-
-
-
-
-
-5. Sąjungos vado pirmasis pavaduotojas:
-
-
-1) kai Sąjungos vado nėra, vykdo visas Sąjungos vadui priskirtas funkcijas;
-
-
-
-
-2) vykdo Sąjungos statute Sąjungos vado pirmajam pavaduotojui numatytas funkcijas.
-
-
-
-
-
-
-6. Krašto apsaugos ministras turi teisę atšaukti teikimą ir sustabdyti Sąjungos vado įgaliojimus, o Sąjungos vadas turi teisę atšaukti teikimą dėl Sąjungos vado pirmojo pavaduotojo ir sustabdyti jo įgaliojimus.
-
-
-
-
-7. Jeigu krašto apsaugos ministras atšaukia teikimą ir sustabdo Sąjungos vado įgaliojimus arba suvažiavimas nepatvirtina teikiamos vado kandidatūros, Sąjungos vado pareigas eina pirmasis pavaduotojas, o jeigu jo nėra – krašto apsaugos ministras skiria laikinai einantį Sąjungos vado pareigas. Šiais atvejais neeilinis suvažiavimas šaukiamas ne vėliau kaip po 3 mėnesių.
-
-
-
-
-8. Jeigu suvažiavimas nepatvirtina teikiamos Sąjungos vado pirmojo pavaduotojo kandidatūros, tuomet Sąjungos vadas turi teisę tame pačiame suvažiavime pateikti kitą kandidatūrą. Jeigu suvažiavimas nepatvirtina nė vienos iš dviejų kandidatūrų ar Sąjungos vadas atšaukia teikimą, vado pirmojo pavaduotojo pareigas eina pavaduotojas. Šiais atvejais neeilinis suvažiavimas šaukiamas ne vėliau kaip po 3 mėnesių.
-
-
-
-
-9. Jeigu profesinės karo tarnybos karininkas paskiriamas Sąjungos vadu, vado pirmuoju pavaduotoju, pavaduotoju, Sąjungos rinktinės ar padalinio vadu, jam taikomi krašto apsaugos sistemos organizavimą ir karo tarnybą reglamentuojantys įstatymai.
-
-
-
-
-10. Krašto apsaugos ministerija skiria karininką ryšiams su Sąjunga palaikyti.
-
-
-
-
-11. Karo padėties metu Sąjungos vadas vadovauja tik ne rikiuotės šaulių padaliniams.
+3. LŠS veiklai vykdyti gali būti naudojamos kariuomenei priskirtos karinio mokymo teritorijos ir infrastruktūros objektai.
  
 
 
@@ -630,60 +590,30 @@ VALDYMAS
 
 
 
-14 straipsnis. Sąjungos centro, rinktinių ir kuopų valdybos
+14 straipsnis. LŠS pagalba kariuomenei, kai ši teikia pagalbą kitoms valstybės ir savivaldybių institucijoms bei įstaigoms
 
 
-1. Sąjungos centro, rinktinių ir kuopų valdybos yra kolegialios Sąjungos, jos rinktinių ir padalinių valdymo institucijos, suvažiavimų ar susirinkimų įgaliotos įgyvendinti Sąjungos tikslus ir uždavinius.
-
-
-
-
-2. Centro valdyba renkama 3 metams. Ją sudaro Sąjungos vadas, jo pirmasis pavaduotojas ir 11 suvažiavime išrinktų narių. Centro valdybai vadovauja Sąjungos vadas arba jo pavedimu Sąjungos statuto nustatytais atvejais Sąjungos vado pirmasis pavaduotojas.
+1. LŠS padeda kariuomenei, kai ši teikia pagalbą kitoms valstybės ir savivaldybių institucijoms bei įstaigoms Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio 1 dalies 1, 2, 3, 5 ir 7 punktuose nustatytais atvejais.
 
 
 
 
-3. Centro valdyba:
-
-
-1) rengia Sąjungai reikalingų dokumentų, statutų, nutarimų, taisyklių projektus;
+2. Kai Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio 1 dalies 2, 3 ir 7 punktuose nustatytais atvejais kariuomenė teikia pagalbą kitoms valstybės ar savivaldybių institucijoms ar įstaigoms, LŠS pagalba kariuomenei teikiama LŠS vado įsakymu, gavus kariuomenės vado prašymą.
 
 
 
 
-2) rengia Sąjungos metinių darbų plano ir biudžeto projektus;
+3. Kai Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio 1 dalies 1 ir 5 punktuose nustatytais atvejais kariuomenė teikia pagalbą kitoms valstybės ar savivaldybių institucijoms ar įstaigoms, LŠS pagalba kariuomenei teikiama LŠS vado ar jo įgalioto rinktinės vado įsakymu, gavus kariuomenės vado ar jo įgalioto atitinkamoje apskrityje veikiančio kariuomenės dalinio, kuriam priklausantis karinis vienetas teikia pagalbą civilinės saugos ir gelbėjimo sistemos pajėgoms ar policijai, vado prašymą.
 
 
 
 
-3) rūpinasi Sąjungos lėšomis ir savo narių teisine bei materialine būkle;
+4. LŠS padaliniai, pagal šį straipsnį teikiantys pagalbą kariuomenei, priskiriami karinių vienetų, teikiančių pagalbą valstybės ar savivaldybių institucijoms ar įstaigoms, vadų operaciniam vadovavimui. LŠS pagalba kariuomenei teikiama pagal rinktinių vadų ir atitinkamose apskrityse veikiančių kariuomenės dalinių vadų parengtus planus.
 
 
 
 
-4) prireikus kartu su Sąjungos vadu ir Centro revizijos komisija šaukia neeilinius suvažiavimus;
-
-
-
-
-5) tikrina rinktinių valdybų veiklą.
-
-
-
-
-
-
-4. Centro valdybos sprendimai yra patariamieji Sąjungos vadui.
-
-
-
-
-5. Centro valdybos sprendimai yra teisėti, jei posėdyje dalyvauja daugiau kaip pusė narių. Sąjungos centro valdybos sprendimai priimami paprasta balsų dauguma. Jeigu balsai pasiskirsto po lygiai, lemia posėdžio pirmininko balsas.
-
-
-
-
-6. Sąjungos rinktinių ir kuopų valdybų kompetenciją, jų sudarymo ir darbo tvarką nustato Sąjungos statutas.
+5. Kai LŠS pagal šį straipsnį teikia pagalbą kariuomenei, šauliai gali naudoti specialiąsias priemones ir ginklus tik tiek, kiek tai būtina pagalbos tikslams pasiekti.
  
 
 
@@ -691,38 +621,10 @@ VALDYMAS
 
 
 
-15 straipsnis. Sąjungos centro ir rinktinių revizijos komisijos
+15 straipsnis. Vidaus reikalų statutinių įstaigų pagalba LŠS
 
 
-1. Sąjungos, jos rinktinių ir padalinių veiklai, turtinei ir finansinei būklei prižiūrėti renkamos Sąjungos centro revizijos komisija ir rinktinių revizijos komisijos. Rinktinių revizijos komisijų kompetenciją, jų sudarymo ir darbo tvarką nustato Sąjungos statutas. 
-
-
-
-
-2. Centro revizijos komisiją sudaro 5 nariai. Jos posėdis yra teisėtas, jeigu posėdyje dalyvauja daugiau kaip pusė narių. Centro revizijos komisijos sprendimai priimami paprasta balsų dauguma. Jeigu balsai pasiskirsto po lygiai, lemia posėdžio pirmininko balsas.
-
-
-
-
-3. Centro revizijos komisija:
-
-
-1) ne rečiau kaip kartą per metus tikrina Sąjungos štabo veiklą, Sąjungos turtinę bei finansinę būklę ir išvadas teikia Sąjungos vadui;
-
-
-
-
-2) Sąjungos vado pavedimu atlieka rinktinių patikrinimus;
-
-
-
-
-3) svarsto rinktinių revizijos komisijų pateiktus duomenis;
-
-
-
-
-4) teikia ataskaitas suvažiavimui.
+Policijos, Valstybės sienos apsaugos tarnybos, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos ir kitos vidaus reikalų statutinės įstaigos teikia pagalbą LŠS, kai šauliai mokomi atlikti šio įstatymo 9 straipsnio 1 dalies 5 punkte nustatytas LŠS funkcijas, susijusias su pagalba policijai, Valstybės sienos apsaugos tarnybos ir civilinės saugos ir gelbėjimo sistemos pajėgoms, vykdant su tokiu mokymu susijusias veiklos programas, taip pat kitokią bendradarbiavimo su LŠS sutartyse numatytą pagalbą.
  
 
 
@@ -730,52 +632,25 @@ VALDYMAS
 
 
 
+16 straipsnis. LŠS pagalba policijai užtikrinant viešąjį saugumą
 
 
-16 straipsnis. Garbės teismas
-
-
-1. Garbės teismas yra dviejų pakopų: Sąjungos garbės teismas ir Sąjungos rinktinės garbės teismas.
-
-
-
-
-2. Sąjungos garbės teismą ir Sąjungos rinktinės garbės teismą sudaro po 7 narius. Garbės teismų posėdžiai yra teisėti, jeigu posėdžiuose dalyvauja daugiau kaip pusė narių. Garbės teismų sprendimai priimami paprasta balsų dauguma. Jeigu balsai pasiskirsto po lygiai, lemia posėdžių pirmininkų balsai.
+1. LŠS gali padėti policijai užtikrinti viešąją tvarką, taip pat vykdyti atskiras policijos priemones. Pagalba policijai teikiama rinktinės vado įsakymu, gavus atitinkamoje apskrityje veikiančios teritorinės policijos įstaigos vadovo ar jo pavaduotojo prašymą.
 
 
 
 
-3. Sąjungos garbės teismo nariai renkami Sąjungos rinktinių atstovų visuotiniame suvažiavime 3 metams iš ne mažiau kaip 10 asmenų, kurių kandidatūras pateikia Sąjungos vadas.
+2. Pagal šio straipsnio 1 dalį policijai padedantiems LŠS padaliniams vadovauja teritorinės policijos įstaigos arba policijos komisariato, atsakingo už viešąją tvarką atitinkamoje teritorijoje, vadovas ar jo įgaliotas policijos pareigūnas arba policijos priemonei vadovaujantis policijos pareigūnas.
 
 
 
 
-4. Sąjungos rinktinės garbės teismo nariai renkami Sąjungos rinktinės padalinių atstovų suvažiavime 3 metams iš ne mažiau kaip 10 asmenų, kurių kandidatūras, suderinęs su Sąjungos vadu, pateikia Sąjungos rinktinės vadas.
+3. Šio straipsnio 1 dalyje nenustatytais atvejais šauliai gali padėti policijai įstatymų nustatyta tvarka tapę policijos rėmėjais.
 
 
 
 
-5. Garbės teismas vadovaujasi Garbės teismo statutu, patvirtintu Sąjungos rinktinių atstovų visuotiniame suvažiavime, bei Sąjungos garbės teismo patvirtintu darbo reglamentu.
-
-
-
-
-6. Sąjungos garbės teismo sprendimų vykdymas yra privalomas visiems Sąjungos nariams.
-
-
-
-
-7. Sąjungos rinktinės garbės teismo sprendimų vykdymas yra privalomas visiems Sąjungos rinktinės nariams.
-
-
-
-
-8. Sąjungos garbės teismo sprendimai neskundžiami.
-
-
-
-
-9. Sąjungos rinktinės garbės teismo sprendimai gali būti skundžiami Sąjungos garbės teismui. Apskundimo tvarka reglamentuojama Garbės teismo statute.
+4. Šauliai gali įspėti viešosios tvarkos pažeidėjus, taip pat privalo pranešti policijos pareigūnams apie vykdomą viešosios tvarkos pažeidimą.
  
 
 
@@ -783,25 +658,85 @@ VALDYMAS
 
 
 
-17 straipsnis. Atsakomybė
+17 straipsnis. LŠS pagalba Valstybės sienos apsaugos tarnybai
 
 
-1. Sąjungos vadas tiesiogiai atsako už Sąjungos tikslų ir uždavinių įgyvendinimą, teisės aktų laikymąsi, vidaus tvarką, šaulių karinį bei fizinį parengimą, jų drausmingumą, už Sąjungos lėšų ir turto teisėtą ir tikslinį paskirstymą bei naudojimą.
-
-
-
-
-2. Sąjungos rinktinių ir padalinių vadai vykdo Sąjungos vado įsakymus ir tiesiogiai atsako už teisės aktų laikymąsi jiems pavaldžiose rinktinėse bei padaliniuose, jų vidaus tvarką, šaulių karinį parengimą, drausmę, skirtas lėšas ir turtą.
+1. LŠS gali padėti Valstybės sienos apsaugos tarnybai prireikus vykdyti skubias operacijas, skirtas Lietuvos Respublikos valstybės sienos apsaugai užtikrinti. Ši pagalba teikiama rinktinės vado įsakymu, gavus atitinkamoje apskrityje veikiančios Valstybės sienos apsaugos tarnybos rinktinės vado prašymą.
 
 
 
 
-3. Už statutinius nusižengimus šauliai atsako statutų nustatyta tvarka.
+2. Pagal šio straipsnio 1 dalį Valstybės sienos apsaugos tarnybai padedantiems LŠS padaliniams vadovauja Valstybės sienos apsaugos tarnybos rinktinės, kuriai teikiama pagalba, vado įgaliotas pareigūnas.
+ 
 
 
 
 
-4. Už priesaikos sulaužymą, neleistiną ginklo panaudojimą ir kitus nusikaltimus šauliai atsako įstatymų nustatyta tvarka.
+
+
+18 straipsnis. LŠS pagalba civilinės saugos ir gelbėjimo sistemos pajėgoms
+
+
+1. LŠS gali padėti civilinės saugos ir gelbėjimo sistemos pajėgoms šalinti ekstremalių įvykių padarinius ir teikti pagalbą nukentėjusiesiems, taip pat padėti vykdyti atskiras užduotis ekstremalių situacijų metu.
+
+
+
+
+2. Šio straipsnio 1 dalyje nustatyta pagalba civilinės saugos ir gelbėjimo sistemos pajėgoms teikiama apskrityje, kurios teritorijoje įvyko ar vyksta ekstremalus įvykis ar susidarė ekstremali situacija, veikiančios rinktinės vado įsakymu, gavus Vyriausybės Ekstremalių situacijų komisijos pirmininko, atitinkamos apskrities viršininko arba atitinkamos savivaldybės administracijos direktoriaus rašytinį prašymą.
+
+
+
+
+3. Pagal šio straipsnio 1 dalį civilinės saugos ir gelbėjimo sistemos pajėgoms padedantiems LŠS padaliniams vadovauja civilinės saugos operacijos vadovas.
+ 
+
+
+
+
+
+
+19 straipsnis. Švietimo ir mokslo ministerijos pagalba LŠS
+
+
+Švietimo ir mokslo ministerija padeda LŠS bendradarbiauti su švietimo įstaigomis, taip pat teikia kitokią bendradarbiavimo su LŠS sutartyje numatytą pagalbą.
+ 
+
+
+
+
+
+
+20 straipsnis. LŠS pagalba švietimo įstaigoms
+
+
+LŠS padeda švietimo įstaigoms įgyvendinti pilietinio ir tautinio ugdymo bei kitas neformaliojo švietimo programas, rengti mokinius ir studentus tikrajai karo tarnybai ir pilietiniam pasipriešinimui, supažindinti juos su kariuomene ir karo tarnyba.
+ 
+
+
+
+
+
+
+21 straipsnis. Bendradarbiavimo sutartys
+
+
+LŠS bendradarbiavimą su valstybės ir savivaldybių institucijomis bei įstaigomis, švietimo įstaigomis išsamiau reglamentuoja LŠS ir atitinkamų valstybės ir savivaldybių institucijų bei įstaigų, švietimo įstaigų bendradarbiavimo sutartys.
+ 
+
+
+
+
+
+
+22 straipsnis. LŠS pareiga teikti informaciją apie savo veiklą valstybės ir savivaldybių institucijoms bei įstaigoms
+
+
+1. LŠS privalo teikti Krašto apsaugos ministerijai visą informaciją apie savo veiklą, taip pat leisti krašto apsaugos ministro įgaliotiems pareigūnams ją tikrinti.
+
+
+
+
+2. Kitoms valstybės ir savivaldybių institucijoms bei įstaigoms LŠS privalo teikti informaciją apie savo veiklą, kuri yra susijusi su bendradarbiavimo sutarčių su atitinkamomis valstybės ar savivaldybių institucijomis ar įstaigomis įgyvendinimu, taip pat LŠS veiklos programų, finansuojamų iš atitinkamoms valstybės ar savivaldybių institucijoms ar įstaigoms skirtų valstybės ar savivaldybės biudžeto asignavimų ar jų administruojamų Europos Sąjungos struktūrinių fondų paramos lėšų, vykdymu.
  
 
 
@@ -812,47 +747,29 @@ VALDYMAS
 
 
 KETVIRTASIS SKIRSNIS
-SĄJUNGOS NARIAI
+LŠS STRUKTŪRA IR CENTRINĖS INSTITUCIJOS
  
 
 
-18 straipsnis. Sąjungos nariai
+23 straipsnis. LŠS struktūros organizavimo pagrindai
 
 
-1. Šauliais gali būti tik Lietuvos Respublikos piliečiai.
-
-
-
-
-2. Sąjungos nariai vadinami šauliais. Jie skirstomi į jaunuosius, rikiuotės, ne rikiuotės ir garbės šaulius.
+1. LŠS sudaro LŠS centrinės institucijos, taip pat rinktinės ir jų padaliniai.
 
 
 
 
-3. Šauliais negali būti asmenys:
-
-
-1) jaunesni kaip 12 metų;
+2. LŠS centrinės institucijos organizuoja, koordinuoja ir kontroliuoja LŠS veiklą visoje Lietuvos Respublikos teritorijoje.
 
 
 
 
-2) kuriems teismine tvarka apribotas veiksnumas;
+3. Rinktinės organizuoja, koordinuoja ir kontroliuoja LŠS veiklą aukštesniųjų administracinių vienetų centruose ir (ar) kitoje aukštesniųjų administracinių vienetų teritorijoje. 
 
 
 
 
-3) dalyvavę veikloje, nukreiptoje prieš Lietuvos valstybę;
-
-
-
-
-4) teisti pagal Lietuvos Respublikos įstatymus, jeigu teistumas nėra išnykęs įstatymų nustatyta tvarka;
-
-
-
-
-5) tarnavę krašto apsaugos, vidaus reikalų arba valstybės saugumo sistemose ir atleisti iš jų už šių tarnybų statutų ar etikos pažeidimus.
+4. Rinktines sudaro pagal administracinį teritorinį principą įsteigti LŠS padaliniai (kuopos, atskiri būriai ir juos sudarantys mažesni padaliniai).
  
 
 
@@ -860,17 +777,38 @@ SĄJUNGOS NARIAI
 
 
 
+24 straipsnis. LŠS centrinės institucijos
 
 
-19 straipsnis. Priesaika
+LŠS centrinės institucijos yra:
 
 
-1. Kiekvienas asmuo, stodamas į Sąjungą, prisiekia būti ištikimas Lietuvos Respublikai.
+1) LŠS suvažiavimas;
 
 
 
 
-2. Šaulio priesaikos bei jaunojo šaulio iškilmingo pasižadėjimo tekstą ir priėmimo į Sąjungos narius bei pašalinimo iš jų tvarką nustato Sąjungos statutas.
+2) LŠS vadas;
+
+
+
+
+3) LŠS Centro valdyba;
+
+
+
+
+4) LŠS Centro kontrolės komisija;
+
+
+
+
+5) LŠS Garbės teismas;
+
+
+
+
+6) kitos šio straipsnio 1–5 punktuose nurodytų institucijų įsteigtos jų patariamosios ir pagalbinės institucijos.
  
 
 
@@ -878,80 +816,446 @@ SĄJUNGOS NARIAI
 
 
 
-20 straipsnis. Šaulių socialinės garantijos
 
 
-1. Darbdavys, mokslo ar mokymo įstaigos vadovas privalo šaulį išleisti iš darbo, mokslo ar mokymo įstaigos ir išsaugoti jam darbo vietą Sąjungos rinktinių bei padalinių pratybų, mokymų metu, jeigu šaulys pateikia pateisinamąjį dokumentą. Ne rikiuotės šauliams pratybos, mokymai organizuojami 2 kartus per metus ir trunka ne daugiau kaip 7 dienas per metus. Už pratybų, mokymų darbo dienas jiems iš Sąjungos lėšų Darbo apmokėjimo įstatymo nustatyta tvarka kompensuojamas darbo užmokestis.
+25 straipsnis. LŠS suvažiavimas
 
 
-
-
-2. Rikiuotės šaulių, kaip aktyviojo rezervo karių, statusą ir socialines garantijas nustato krašto apsaugos sistemos organizavimą ir karo tarnybą reglamentuojantys įstatymai.
+1. LŠS suvažiavimas yra aukščiausioji LŠS institucija, sudaryta iš suvažiavimo dalyvių: išrinktų rinktinių atstovų ir pagal pareigas suvažiavime dalyvaujančių šaulių. Kiekvienos rinktinės atstovų suvažiavime skaičių, proporcingą rinktinėse esančių šaulių skaičiui, iš anksto nustato LŠS Centro valdyba LŠS vado siūlymu. Pagal pareigas su balso teise LŠS suvažiavime dalyvauja LŠS vadas ir jo pavaduotojai, LŠS Centro valdybos nariai, LŠS Centro kontrolės komisijos pirmininkas, LŠS Garbės teismo pirmininkas ir rinktinių vadai.
 
 
 
 
-3. Ne rikiuotės šauliui valstybė išmoka vienkartinę pašalpą, jei vykdydamas gynybos užduotis, teikdamas pagalbą civilinės saugos ir gelbėjimo sistemos institucijoms, buvo sužeistas, suluošintas ir tapo:
-
-
-1) I ar II grupės invalidu – 60 minimalių gyvenimo lygių (MGL) dydžio;
+2. LŠS suvažiavimas gali būti eilinis ir neeilinis. Eiliniai suvažiavimai šaukiami kartą per trejus metus.
 
 
 
 
-2) III grupės invalidu – 30 minimalių gyvenimo lygių (MGL) dydžio.
+3. Eilinį LŠS suvažiavimą šaukia LŠS vadas. Neeilinį LŠS suvažiavimą LŠS vadas šaukia krašto apsaugos ministro, LŠS Centro valdybos arba ne mažiau kaip penkių rinktinių visuotinių susirinkimų siūlymu.
+
+
+
+
+4. LŠS suvažiavimas laikomas teisėtu, jeigu jame dalyvauja ne mažiau kaip 2/3 visų suvažiavimo dalyvių. Į suvažiavimą atvykus mažiau kaip 2/3 dalyvių, per 10 dienų suvažiavimas sušaukiamas antrą kartą. Antrą kartą sušauktas LŠS suvažiavimas laikomas teisėtu, jeigu jame dalyvauja daugiau kaip pusė visų jo dalyvių.
+
+
+
+
+5. LŠS suvažiavimas:
+
+
+1) svarsto LŠS statuto ir jo pakeitimo projektus, teikia krašto apsaugos ministrui išvadas dėl šių projektų;
+
+
+
+
+2) LŠS Garbės teismo pirmininko teikimu priima ir keičia Šaulių etikos kodeksą ir LŠS Garbės teismo reglamentą;
+
+
+
+
+3) LŠS statuto nustatytais atvejais priima kitus LŠS veiklą reglamentuojančius LŠS vidaus teisės aktus;
+
+
+
+
+4) LŠS vado teikimu tvirtina ir keičia LŠS veiklos strategiją;
+
+
+
+
+5) krašto apsaugos ministro teikimu pritaria arba nepritaria LŠS vado skyrimui, taip pat pareikšdamas nepasitikėjimą LŠS vadu teikia siūlymą krašto apsaugos ministrui atleisti LŠS vadą iš pareigų nepasibaigus jo įgaliojimų terminui;
+
+
+
+
+6) LŠS vado siūlymu tvirtina LŠS vado pavaduotojų skaičių;
+
+
+
+
+7) LŠS statuto nustatyta tvarka renka ir atleidžia LŠS Centro valdybos, LŠS Centro kontrolės komisijos ir LŠS Garbės teismo narius ir jų pavaduotojus;
+
+
+
+
+8) svarsto LŠS vado, LŠS Centro kontrolės komisijos ir LŠS Garbės teismo ataskaitas ir pranešimus;
+
+
+
+
+9) svarsto kitus LŠS aktualius klausimus ir priima dėl jų pareiškimus, rezoliucijas ir kitus dokumentus.
 
 
 
 
 
 
-4. Jei ne rikiuotės šaulys, vykdydamas gynybos užduotis, žuvo, jo šeimos nariams (sutuoktiniui, nepilnamečiams vaikams (įvaikiams), vaikams, gimusiems po jo mirties) ir nedarbingiems žuvusiojo išlaikomiems ar jo žuvimo dieną turėjusiems teisę gauti jo išlaikymą asmenims išmokama lygiomis dalimis 120 minimalių gyvenimo lygių (MGL) dydžio vienkartinė pašalpa.
-
-
-
-
-5. Pašalpos susižalojusiam ne rikiuotės šauliui ar žuvusio ne rikiuotės šaulio šeimos nariams ir nedarbingiems asmenims, nurodytiems šio straipsnio 4 dalyje, nemokamos, jeigu:
-
-
-1) ne rikiuotės šaulys žuvo ar susižalojo darydamas tyčinį nusikaltimą;
-
-
-
-
-2) ne rikiuotės šaulio žuvimo ar sužalojimo priežastis buvo apsvaigimas nuo alkoholio, narkotinių, psichotropinių ar toksinių medžiagų;
-
-
-
-
-3) ne rikiuotės šaulys nusižudė, kėsinosi nusižudyti ar tyčia save sužalojo;
-
-
-
-
-4) ne rikiuotės šaulio žuvimo ar susižalojimo priežastis buvo transporto priemonės vairavimas neturint teisės jos vairuoti arba perdavimas vairuoti asmeniui, apsvaigusiam nuo alkoholio, narkotinių, psichotropinių ar toksinių medžiagų arba neturinčiam teisės jos vairuoti;
-
-
-
-
-5) ne rikiuotės šaulio sveikata sutriko ar jis mirė dėl ligos ir jei tai nesusiję su gynybos užduoties vykdymu.
+6. Visi klausimai LŠS suvažiavime sprendžiami paprasta suvažiavime dalyvaujančių LŠS narių balsų dauguma.
+ 
 
 
 
 
 
 
-6. Karo metu šiame straipsnyje nurodytos šaulių socialinės garantijos negalioja.
+26 straipsnis. LŠS vadas
+
+
+1. LŠS vadas yra aukščiausiasis LŠS pareigūnas, vadovaujantis LŠS veiklai ir atstovaujantis LŠS. LŠS vadas užtikrina LŠS tikslų ir uždavinių įgyvendinimą ir funkcijų vykdymą, taip pat LŠS veiklos strategijos ir kitų LŠS suvažiavimo sprendimų vykdymą, LŠS vidaus tvarką, teisėtą ir ekonomišką LŠS turto ir lėšų naudojimą.
 
 
 
 
-7. Vienkartinės pašalpos ne rikiuotės šauliams mokamos iš valstybės biudžete Sąjungai patvirtintų bendrųjų asignavimų. Šių pašalpų mokėjimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+2. LŠS vadu gali būti skiriamas aukštąjį išsilavinimą ir ne žemesnį kaip majoro (komandoro leitenanto) laipsnį turintis profesinės ar savanorių karo tarnybos arba atsargos karys LŠS narys. 
 
 
 
 
-8. Šauliams, vykdantiems pagalbos policijai užduotis pagal Sąjungos ir policijos bendradarbiavimo sutartis, taikomas policijos rėmėjų statusas ir teisės aktų jiems suteiktos teisės bei socialinės garantijos.
+3. LŠS vadu paskirtas asmuo privalo sustabdyti narystę politinėje partijoje.
+
+
+
+
+4. LŠS vadas be krašto apsaugos ministro leidimo negali dirbti kito mokamo darbo ir eiti kitų pareigų.
+
+
+
+
+5. LŠS vadas skiriamas trejiems metams. Tas pats asmuo gali būti skiriamas LŠS vadu ne daugiau kaip du kartus iš eilės.
+
+
+
+
+6. LŠS vadas skiriamas krašto apsaugos ministro įsakymu su Seimo Nacionalinio saugumo ir gynybos komiteto ir LŠS suvažiavimo pritarimu.
+
+
+
+
+7. Jeigu į LŠS vado pareigas skiriamas šaulys yra profesinės karo tarnybos karys, jis perkeliamas į šias pareigas ir pasibaigus įgaliojimų terminui atleidžiamas iš jų Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatyta tvarka. Nesibaigus įgaliojimų terminui, LŠS vadas, kuris yra profesinės karo tarnybos karys, atleidžiamas iš LŠS vado pareigų krašto apsaugos ministro įsakymu, nutraukus su juo profesinės karo tarnybos sutartį Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme nustatytais pagrindais, taip pat LŠS vadui išstojus iš LŠS, pašalinus jį iš LŠS ar LŠS suvažiavimui pareiškus nepasitikėjimą LŠS vadu.
+
+
+
+
+8. Jeigu į LŠS vado pareigas skiriamas šaulys yra savanorių karo tarnybos ar atsargos karys, LŠS vado įgaliojimų terminui jis sudaro terminuotą darbo sutartį su Krašto apsaugos ministerija. Pasibaigus įgaliojimų terminui, darbo sutartis su LŠS vadu nutraukiama ir krašto apsaugos ministro įsakymu jis atleidžiamas iš pareigų. Nepasibaigus įgaliojimų terminui, darbo sutartis su LŠS vadu gali būti nutraukta ir jis atleidžiamas iš pareigų krašto apsaugos ministro įsakymu Darbo kodekse nustatytais pagrindais, taip pat LŠS vadui išstojus iš LŠS, pašalinus jį iš LŠS ar LŠS suvažiavimui pareiškus nepasitikėjimą LŠS vadu.
+
+
+
+
+9. Jeigu LŠS vadas yra profesinės karo tarnybos karys, jis gali būti nušalintas nuo pareigų krašto apsaugos ministro įsakymu Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme nustatytais atvejais. Jeigu LŠS vadas yra karys savanoris arba atsargos karys, jis krašto apsaugos ministro įsakymu gali būti nušalintas nuo pareigų Darbo kodekse nustatytais atvejais.
+
+
+
+
+10. Jeigu LŠS vadas yra karys savanoris arba atsargos karys, jam mokamo pagrindinio darbo užmokesčio dydis yra lygus atitinkamo laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui, tačiau jis negali būti mažesnis, negu mokamas bet kuriam rinktinės vadui.
+
+
+
+
+11. Kai LŠS vado nėra arba jis negali eiti pareigų, arba yra nušalintas nuo pareigų, LŠS vado pareigas laikinai eina vienas iš jo pavaduotojų. Kai LŠS vadas atleidžiamas ar nušalinamas nuo pareigų, LŠS vado pavaduotojui laikinai eiti LŠS vado pareigas paveda krašto apsaugos ministras, kitais atvejais – LŠS vadas.
+
+
+
+
+12. LŠS vadas:
+
+
+1) organizuoja LŠS veiklos strategijos rengimą ir krašto apsaugos ministrui pritarus teikia ją tvirtinti LŠS suvažiavimui;
+
+
+
+
+2) vadovaudamasis LŠS veiklos strategija, tvirtina metinius LŠS veiklos planus ir organizuoja jų vykdymą, taip pat pritaria rinktinių vadų teikiamiems metiniams rinktinių veiklos planams;
+
+
+
+
+3) tvirtina LŠS vidaus tvarkos, drausmės, struktūros ir veiklos klausimus reglamentuojančius LŠS vidaus teisės aktus;
+
+
+
+
+4) siūlo LŠS suvažiavimui nustatyti LŠS vado pavaduotojų skaičių;
+
+
+
+
+5) teikia krašto apsaugos ministrui siūlymus dėl LŠS vado pavaduotojų ir rinktinių vadų skyrimo, jų atleidimo iš pareigų ir jų įgaliojimų sustabdymo arba krašto apsaugos ministro įgaliojimu skiria LŠS vado pavaduotojus ir rinktinių vadus, juos atleidžia iš pareigų ir sustabdo jų įgaliojimus;
+
+
+
+
+6) skiria, atleidžia ir nušalina nuo pareigų rinktinių vadų pavaduotojus ir šaulius LŠS štabo pareigūnus, o LŠS statute numatytais atvejais – ir kitus šaulius;
+
+
+
+
+7) LŠS statute nustatytais atvejais ir tvarka skatina šaulius ir skiria jiems drausmines nuobaudas;
+
+
+
+
+8) vadovauja LŠS štabo veiklai, šaukia LŠS Centro valdybos posėdžius ir jiems pirmininkauja;
+
+
+
+
+9) vykdo LŠS Garbės teismo sprendimus;
+
+
+
+
+10) kontroliuoja rinktinių vadų ir kitų jam tiesiogiai pavaldžių šaulių veiklą, svarsto rinktinių vadų teikiamas rinktinių veiklos ataskaitas;
+
+
+
+
+11) LŠS Centro valdybos teikimu tvirtina metinį LŠS biudžetą, taip pat teikia LŠS Centro valdybai tvirtinti LŠS metų finansines ataskaitas;
+
+
+
+
+12) teikia krašto apsaugos ministrui siūlymus dėl valstybės biudžeto asignavimų pagal LŠS programą planavimo ir dėl šios programos sąmatos;
+
+
+
+
+13) įgyvendina LŠS Centro kontrolės komisijos, vidaus ir atestuotų auditorių rekomendacijas;
+
+
+
+
+14) atlieka kitas šiame įstatyme ir LŠS statute nustatytas funkcijas.
+
+
+
+
+
+
+13. Vykdydamas savo įgaliojimus, LŠS vadas leidžia įsakymus, kurie privalomi visiems šauliams, ir kontroliuoja, kaip šie įsakymai yra vykdomi.
+
+
+
+
+14. Operatyviam veiklos organizavimui, vykdymui ir kontrolei LŠS vadas sudaro sau pavaldžią administracinę instituciją – LŠS štabą. Prireikus LŠS vadas sudaro kitas patariamąsias institucijas.
+
+
+
+
+15. LŠS vadas yra tiesiogiai pavaldus krašto apsaugos ministrui. Jis taip pat yra atskaitingas LŠS suvažiavimui. LŠS vadas teikia LŠS veiklos ataskaitas kiekvienam eiliniam LŠS suvažiavimui, taip pat neeiliniam suvažiavimui, jeigu LŠS veiklos ataskaita yra LŠS statuto nustatyta tvarka įtraukta į neeilinio suvažiavimo darbotvarkę. Metinę LŠS veiklos ataskaitą LŠS vadas teikia krašto apsaugos ministrui ir Seimo Nacionalinio saugumo ir gynybos komitetui. Krašto apsaugos ministro ir Seimo Nacionalinio saugumo ir gynybos komiteto reikalavimu LŠS vadas teikia informaciją ir atsako į jam pateiktus klausimus.
+
+
+
+
+16. LŠS statute ir LŠS vidaus teisės aktuose gali būti nustatyta LŠS vado šaulio tarnybos ypatumų, susijusių su darbo laiko struktūra, trukme ir režimu. Kai tai būtina LŠS pratyboms, mokymams ar kitiems renginiams organizuoti, jiems vadovauti ar juose dalyvauti, kasdienė LŠS vado darbo laiko trukmė gali viršyti aštuonias darbo valandas.
+ 
+
+
+
+
+
+
+27 straipsnis. LŠS Centro valdyba
+
+
+1. LŠS Centro valdyba yra kolegiali vykdomoji LŠS institucija, padedanti LŠS vadui vadovauti LŠS veiklai tarp LŠS suvažiavimų.
+
+
+
+
+2. LŠS Centro valdyba sudaroma trejiems metams. Į LŠS Centro valdybą pagal pareigas įeina LŠS vadas ir jo pavaduotojai. Kitus devynis Centro valdybos narius ir jų pavaduotojus renka LŠS suvažiavimas. Jie negali būti skiriami rinktinių vadais ir jų pavaduotojais.
+
+
+
+
+3. LŠS Centro valdybai vadovauja LŠS vadas.
+
+
+
+
+4. LŠS Centro valdybos posėdis yra teisėtas, jeigu jame dalyvauja ne mažiau kaip 2/3 Centro valdybos narių. LŠS Centro valdybos sprendimai priimami posėdyje dalyvaujančių jos narių balsų dauguma. Jeigu šis įstatymas ir LŠS statutas nenustato kitaip, LŠS Centro valdybos sprendimai LŠS vadui yra rekomendaciniai.
+
+
+
+
+5. LŠS Centro valdyba:
+
+
+1) svarsto LŠS veiklos strategijos, metinių LŠS veiklos ir rinktinių veiklos planų, LŠS vidaus teisės aktų, LŠS metų biudžeto, valstybės biudžeto asignavimų pagal LŠS programą planavimo ir jos sąmatos projektus;
+
+
+
+
+2) tvirtina LŠS metų finansines ataskaitas;
+
+
+
+
+3) svarsto LŠS Centro kontrolės komisijos, vidaus ir atestuotų auditorių patikrinimų rezultatus, išvadas ir pasiūlymus;
+
+
+
+
+4) svarsto ir vertina rinktinių ir jų valdymo institucijų veiklą;
+
+
+
+
+5) nustato stojamojo ir LŠS nario mokesčio dydį, taip pat tikslinių įmokų nustatymo tvarką;
+
+
+
+
+6) atlieka kitas šiame įstatyme ir LŠS statute nustatytas funkcijas.
+ 
+
+
+
+
+
+
+
+
+28 straipsnis. LŠS Centro kontrolės komisija
+
+
+1. LŠS Centro kontrolės komisija yra kolegiali institucija, atliekanti LŠS vidaus kontrolės, įskaitant finansų kontrolę, funkcijas.
+
+
+
+
+2. LŠS Centro kontrolės komisija sudaroma trejiems metams. Ją sudaro penki nariai, turintys aukštąjį išsilavinimą. Paprastai bent du Centro kontrolės komisijos nariai ir bent du jų pavaduotojai turi turėti aukštąjį ekonominį, vadybinį ar teisinį išsilavinimą. Centro kontrolės komisijos nariais ir jų pavaduotojais negali būti LŠS vadas ir jo pavaduotojai, rinktinių vadai ir jų pavaduotojai, LŠS Centro valdybos nariai ir jų pavaduotojai, LŠS Garbės teismo nariai ir jų pavaduotojai.
+
+
+
+
+3. Tris LŠS Centro kontrolės komisijos narius ir jų pavaduotojus renka LŠS suvažiavimas, du narius ir jų pavaduotojus skiria krašto apsaugos ministras. LŠS Centro kontrolės komisijos pirmininką skiria krašto apsaugos ministras.
+
+
+
+
+4. LŠS Centro kontrolės komisijos posėdis yra teisėtas, jeigu jame dalyvauja daugiau kaip pusė Centro kontrolės komisijos narių. Komisijos sprendimai priimami posėdyje dalyvaujančių jos narių balsų dauguma. LŠS Centro kontrolės komisijos sprendimai privalomai svarstomi LŠS institucijose.
+
+
+
+
+5. LŠS Centro kontrolės komisija:
+
+
+1) ne rečiau kaip kartą per metus tikrina LŠS štabo veiklą ir LŠS turto būklę;
+
+
+
+
+2) tikrina LŠS metų finansines ataskaitas ir buhalterinės apskaitos dokumentus;
+
+
+
+
+3) tikrina, kaip LŠS veikloje laikomasi teisės aktų;
+
+
+
+
+4) LŠS suvažiavimo arba LŠS vado pavedimu atlieka kitus LŠS veiklos patikrinimus;
+
+
+
+
+5) svarsto ir vertina LŠS veiklos strategijos ir metinių veiklos planų bei veiklos programų vykdymą;
+
+
+
+
+6) teikia LŠS vadui rekomendacijas dėl LŠS veiklos ir jos kontrolės tobulinimo, nustatytų trūkumų ir klaidų šalinimo;
+
+
+
+
+7) rengia ir teikia LŠS vadui metų, o LŠS suvažiavimui – trejų metų LŠS vidaus kontrolės ataskaitas.
+ 
+
+
+
+
+
+
+
+
+29 straipsnis. LŠS Garbės teismas
+
+
+1. LŠS Garbės teismas yra LŠS institucija, nagrinėjanti bylas dėl šaulių ginčų, susijusių su LŠS veikla, taip pat šaulių drausminių nusižengimų, įskaitant šaulių etikos pažeidimus ir šaulio priesaikos ar jaunojo šaulio iškilmingo pasižadėjimo sulaužymą. Kilus ginčui dėl to, ar tam tikrą bylą gali nagrinėti LŠS Garbės teismas, šį klausimą sprendžia pats Garbės teismas.
+
+
+
+
+2. LŠS Garbės teismą sudaro šeši nepriekaištingos reputacijos šauliai. Paprastai ne mažiau kaip 1/3 Garbės teismo narių ir jų pavaduotojų turi turėti teisinį išsilavinimą. LŠS Garbės teismo nariais ir jų pavaduotojais negali būti LŠS vadas ir jo pavaduotojai, rinktinių vadai ir jų pavaduotojai, LŠS Centro valdybos nariai ir jų pavaduotojai, LŠS Centro kontrolės komisijos nariai ir jų pavaduotojai, rinktinių garbės teismų nariai ir jų pavaduotojai.
+
+
+
+
+3. LŠS Garbės teismo narius ir jų pavaduotojus renka LŠS suvažiavimas, kas trejus metus išrinkdamas po tris Garbės teismo narius ir jų pavaduotojus. LŠS Garbės teismo pirmininką trejiems metams renka Garbės teismo nariai.
+
+
+
+
+4. LŠS Garbės teismo posėdis yra teisėtas, jeigu jame dalyvauja ne mažiau kaip keturi Garbės teismo nariai. LŠS Garbės teismo sprendimai priimami ne mažiau kaip keturių Garbės teismo narių balsų dauguma. Garbės teismo narys negali nagrinėti bylos, kurioje skundžiami jo veiksmai arba siekiama nustatyti, ar jis nepadarė drausminio nusižengimo.
+
+
+
+
+5. LŠS Garbės teismas:
+
+
+1) nagrinėja šaulių skundus dėl LŠS vado ir jo pavaduotojų, LŠS štabo šaulių, LŠS Centro valdybos narių ir jų pavaduotojų, LŠS Centro kontrolės komisijos narių ir jų pavaduotojų, LŠS Garbės teismo narių ir jų pavaduotojų, rinktinių vadų ir jų pavaduotojų veiksmų ar galimų jų drausminių nusižengimų;
+
+
+
+
+2) nagrinėja rinktinių garbės teismų perduotas drausminių nusižengimų bylas, susijusias su galimu šaulio priesaikos arba jaunojo šaulio iškilmingo pasižadėjimo sulaužymu;
+
+
+
+
+3) nagrinėja kitas bylas, kurias spręsti perduoda LŠS vadas, krašto apsaugos ministras ar krašto apsaugos generalinis inspektorius;
+
+
+
+
+4) nagrinėja skundus dėl rinktinių garbės teismų sprendimų;
+
+
+
+
+5) apibendrina LŠS garbės teismų praktiką ir teikia ją formuojančias rekomendacijas rinktinių garbės teismams;
+
+
+
+
+6) tvirtina ir keičia pavyzdinį rinktinių garbės teismų reglamentą;
+
+
+
+
+7) rengia Šaulių etikos kodekso projektą ir pakeitimus.
+
+
+
+
+
+
+6. LŠS Garbės teismo sprendimai jo nagrinėjamose bylose yra privalomi kitoms LŠS institucijoms ir visiems šauliams.
+
+
+
+
+7. Bylų nagrinėjimas LŠS Garbės teisme gali vykti rašytinio ir žodinio proceso arba tik rašytinio proceso tvarka. Bylų nagrinėjimo tvarką nustato Garbės teismo reglamentas.
+
+
+
+
+8. Šio straipsnio 5 dalyje nustatyta LŠS Garbės teismo kompetencija neriboja įstatymų nustatytų krašto apsaugos ministro, krašto apsaugos generalinio inspektoriaus, krašto apsaugos sistemos vadų (viršininkų) teisių užtikrinti karių, kurie yra LŠS nariai, drausmę, tirti jų drausmės pažeidimus ir skirti jiems drausmines nuobaudas. Šio straipsnio 5 dalyje nustatyta LŠS Garbės teismo kompetencija taip pat neriboja krašto apsaugos ministro ir krašto apsaugos generalinio inspektoriaus teisių tirti LŠS vado, jo pavaduotojų ir rinktinių vadų drausminių nusižengimų ir traukti šiuos asmenis drausminėn atsakomybėn.
  
 
 
@@ -962,59 +1266,97 @@ SĄJUNGOS NARIAI
 
 
 PENKTASIS SKIRSNIS
-TURTAS IR LĖŠOS
+ŠAULIAI
  
 
 
-21 straipsnis. Sąjungos turtas
+30 straipsnis. Narystė LŠS
 
 
-1. Sąjungos turtą sudaro:
-
-
-1) iki 1940 m. birželio 15 d. Lietuvos šaulių sąjungos turėtasis ir Vyriausybės ar savivaldybių nutarimais grąžintas nekilnojamasis turtas;
+1. Šauliais gali būti tik Lietuvos Respublikos piliečiai, mokantys valstybinę kalbą.
 
 
 
 
-2) Sąjungos lėšos ir už jas įgytos vertybės;
+2. Priimant į LŠS jaunuosius šaulius, kurie nėra pripažinti visiškai veiksniais, būtinas rašytinis tėvų arba to iš tėvų, su kuriuo vaikas gyvena, globėjų ar rūpintojų sutikimas.
 
 
 
 
-3) valstybės ir savivaldybių perduotas turtas;
+3. Šauliais negali būti šie Lietuvos Respublikos piliečiai:
+
+
+1) jaunesni kaip 11 metų;
 
 
 
 
-4) juridinių ar fizinių asmenų dovanotas turtas;
+2) teismo tvarka pripažinti neveiksniais ar ribotai veiksniais;
 
 
 
 
-5) palikimai pagal testamentus;
+3) dalyvavę veikloje prieš Lietuvos valstybę, taip pat buvę SSRS Valstybės saugumo komiteto kadriniai darbuotojai ir SSRS specialiųjų tarnybų slaptieji bendradarbiai;
 
 
 
 
-6) kitas teisėtai įgytas turtas;
+4) įstatymų nustatyta tvarka uždraustų organizacijų nariai;
 
 
 
 
-7) perduotas neatlygintinai naudotis panaudos pagrindais turtas.
+5) teisti už tyčinius nusikaltimus;
+
+
+
+
+6) per paskutinius penkerius metus dėl priežasčių, susijusių su priesaikos sulaužymu, pašalinti iš valstybės politiko pareigų, atleisti iš profesinės karo tarnybos, savanorių karo tarnybos ar valstybės tarnybos arba pašalinti iš karo mokymo įstaigos;
+
+
+
+
+7) per paskutinius 10 metų pašalinti iš LŠS už šiurkščius drausminius nusižengimus.
 
 
 
 
 
 
-2. Vyriausybė, jos įgaliota institucija ar savivaldybės Centro valdybos prašymu grąžina iki 1940 m. birželio 15 d. Sąjungos turėtąjį ir išlikusį Lietuvos teritorijoje nekilnojamąjį turtą. Sąjungos nuosavybės teisės į išlikusį nekilnojamąjį turtą atkūrimą, turto grąžinimo ar išpirkimo tvarką nustato atskiras įstatymas.
+4. Narystė LŠS gali baigtis išstojus iš LŠS, pašalinus iš LŠS, šauliui mirus ir šio įstatymo 31 straipsnio 5 dalyje nurodytu atveju.
 
 
 
 
-3. Sąjungos turtas tvarkomas, traukiamas į apskaitą ir naudojamas įstatymų, Vyriausybės nutarimų ir kitų teisės aktų bei Sąjungos centro valdybos nustatyta tvarka. 
+5. Asmuo šalinamas iš LŠS:
+
+
+1) netekus Lietuvos Respublikos pilietybės;
+
+
+
+
+2) atsiradus arba paaiškėjus bet kuriai iš šio straipsnio 3 dalies 2–6 punktuose nustatytų aplinkybių;
+
+
+
+
+3) LŠS statuto nustatyta tvarka įsigaliojus LŠS vado ar jo įgalioto rinktinės vado įsakymui pašalinti asmenį iš LŠS už šiurkštų drausminį nusižengimą arba įsigaliojus rinktinės garbės teismo ar LŠS Garbės teismo sprendimui, kuriuo patvirtinamas tokio LŠS vado ar jo įgalioto rinktinės vado įsakymo pagrįstumas ir teisėtumas;
+
+
+
+
+4) įsigaliojus LŠS Garbės teismo sprendimui, kuriuo pripažįstama, kad asmuo sulaužė šaulio priesaiką ar jaunojo šaulio pasižadėjimą;
+
+
+
+
+5) LŠS vadas, jo pavaduotojas ar rinktinės vadas – krašto apsaugos ministro įsakymu pašalinti iš LŠS už šiurkštų drausminį nusižengimą arba patvirtinus krašto apsaugos generalinio inspektoriaus išvadą, kad asmuo, eidamas LŠS vado, jo pavaduotojo ar rinktinės vado pareigas, sulaužė šaulio priesaiką;
+
+
+
+
+6) nesumokėjus nario mokesčio už daugiau kaip vienų metų laikotarpį.
  
 
 
@@ -1022,71 +1364,125 @@ TURTAS IR LĖŠOS
 
 
 
-22 straipsnis. Sąjungos lėšos
 
 
-1. Sąjungos lėšos yra:
+31 straipsnis. Šaulio priesaika ir jaunojo šaulio iškilmingas pasižadėjimas
 
 
-1) valstybės ir savivaldybių biudžetų skiriamos tikslinės lėšos. Šios lėšos gali būti numatomos tiesiogiai valstybės biudžete kaip organizacijai, prisidedančiai prie gynybos stiprinimo, arba taip pat gali būti gaunamos iš ministerijų ir savivaldybių, kai jos finansuoja atskiras programas (kultūros, švietimo, sporto, darbo su jaunimu ar kitokias tikslines) pagal pateiktas sąmatas;
-
-
-
-
-2) lėšos, kurias Sąjunga gauna iš savo veiklos, ar kitos teisėtai įgytos lėšos.
+1. Kiekvienas pilnametis Lietuvos Respublikos pilietis, stodamas į LŠS, duoda šaulio priesaiką. Šaulio priesaiką taip pat duoda sulaukę pilnametystės LŠS nariai.
 
 
 
 
-
-
-2. Sąjungos gautas lėšas iš savo veiklos ir kitas teisėtai įgytas lėšas sudaro:
-
-
-1) nario mokesčiai;
+2. Lietuvos Respublikos piliečiai, priimami į LŠS jaunaisiais šauliais, duoda jaunojo šaulio iškilmingą pasižadėjimą. LŠS narys laikomas jaunuoju šauliu tol, kol sulaukęs pilnametystės duoda šaulio priesaiką.
 
 
 
 
-2) lėšos, gaunamos už patalpų nuomą;
+3. Duodami šaulio priesaiką arba jaunojo šaulio iškilmingą pasižadėjimą, šauliai prisiekia būti ištikimi Lietuvos valstybei, ginti ir saugoti jos nepriklausomybę, teritorijos vientisumą ir konstitucinę santvarką, laikytis Lietuvos Respublikos Konstitucijos ir įstatymų, sąžiningai vykdyti šaulio pareigas. Šaulio priesaikos ir jaunojo šaulio iškilmingo pasižadėjimo tekstą nustato LŠS statutas.
 
 
 
 
-3) juridinių ir fizinių asmenų, labdaros fondų bei organizacijų dovanotos ar kitaip perduotos lėšos;
+4. Atsisakęs duoti šaulio priesaiką ar jaunojo šaulio pasižadėjimą, taip pat davęs šaulio priesaiką ar jaunojo šaulio pasižadėjimą su išlygomis asmuo negali būti priimamas į LŠS.
 
 
 
 
-4) kredito įstaigų palūkanos už saugomas Sąjungos lėšas;
-
-
-
-
-5) pajamos, gautos iš kultūrinių renginių ir įmonių veiklos;
-
-
-
-
-6) tarptautinių organizacijų perduotos lėšos;
-
-
-
-
-7) kitos teisėtai įgytos lėšos.
-
-
-
-
-
-
-3. Sąjunga gautas lėšas iš valstybės ir savivaldybių biudžetų laiko atskirose Sąjungos sąskaitose.
-
-
-
-
-4. Visos Sąjungos lėšos tvarkomos ir naudojamos įstatymų nustatyta tvarka.
+5. Jeigu sulaukęs pilnametystės jaunasis šaulys atsisako duoti šaulio priesaiką arba duoda ją su išlygomis, jo narystė LŠS nutrūksta. 
  
+
+
+
+
+
+
+32 straipsnis. Šaulių teisė naudoti šaunamuosius ginklus ir specialiąsias priemones
+
+
+1. Atlikdami šaulio tarnybą šauliai turi teisę naudoti šaunamuosius ginklus ir specialiąsias priemones tokia pat tvarka ir atvejais, kokie yra nustatyti Lietuvos Respublikos kovinių ginklų naudojimo krašto apsaugos sistemoje statute.
+
+
+
+
+2. Teisę naudoti šaunamuosius ginklus ir specialiąsias priemones, išskyrus savigynos atvejį, turi tik pilnamečiai šauliai, išlaikę šaunamųjų ginklų ir specialiųjų priemonių naudojimo taisyklių egzaminus.
+ 
+
+
+
+
+
+
+33 straipsnis. Šaulių teisės ir pareigos, kai LŠS teikia pagalbą policijai, Valstybės sienos apsaugos tarnybai bei civilinės saugos ir gelbėjimo sistemos pajėgoms
+
+
+1. Kai LŠS teikia šio įstatymo 16 straipsnio 1 dalyje nustatytą pagalbą policijai, 17 straipsnio 1 dalyje nustatytą pagalbą Valstybės sienos apsaugos tarnybai ar 18 straipsnio 1 dalyje nustatytą pagalbą civilinės saugos ir gelbėjimo sistemos pajėgoms, šauliai turi šias teises:
+
+
+1) įstatymų ir kitų teisės aktų nustatyta tvarka kartu su vidaus tarnybos sistemos pareigūnais panaudoti specialiąsias priemones;
+
+
+
+
+2) reikalauti, kad asmenys laikytųsi viešosios tvarkos ir nepažeidinėtų įstatymų;
+
+
+
+
+3) įstatymų nustatytais atvejais padėti vidaus tarnybos sistemos pareigūnams sulaikyti ir pristatyti asmenį į vidaus reikalų statutinę įstaigą;
+
+
+
+
+4) kartu su vidaus tarnybos sistemos pareigūnais įstatymų nustatyta tvarka įeiti į gyvenamąsias ir kitas patalpas, kad būtų užkirstas kelias nusikalstamai veikai ar sulaikytas nusikaltėlis, taip pat įvykus stichinei nelaimei ar kitam ypatingam įvykiui, keliančiam grėsmę žmonių gyvybei, sveikatai ar turtui;
+
+
+
+
+5) jei įtariama, kad yra padaryta nusikalstama veika ar administracinis teisės pažeidimas, kartu su vidaus tarnybos sistemos pareigūnais stabdyti transporto priemones.
+
+
+
+
+
+
+2. Kai LŠS teikia šio įstatymo 16 straipsnio 1 dalyje nustatytą pagalbą policijai, 17 straipsnio 1 dalyje nustatytą pagalbą Valstybės sienos apsaugos tarnybai ar 18 straipsnio 1 dalyje nustatytą pagalbą civilinės saugos ir gelbėjimo sistemos pajėgoms, šauliai privalo:
+
+
+1) gerbti žmogaus teises ir laisves;
+
+
+
+
+2) gavę pranešimą apie daromą nusikalstamą veiką ar kitokį teisės pažeidimą, pastebėję rengiamą ar daromą nusikalstamą veiką ar kitokį teisės pažeidimą, imtis priemonių užkirsti tam kelią, nedelsdami pranešti apie tai policijos ar kitiems vidaus tarnybos sistemos pareigūnams, įstatymų įgaliotiems tirti nusikalstamą veiką ar kitokį teisės pažeidimą, organizuoti įvykio vietos apsaugą, kol atvyks policijos ar kiti vidaus tarnybos sistemos pareigūnai, įstatymų įgalioti tirti nusikalstamą veiką ar kitokį teisės pažeidimą, nustatyti liudytojus, suteikti kitokią pagalbą policijos ar kitiems vidaus tarnybos sistemos pareigūnams, tiriantiems nusikalstamos veikos ar kitokio teisės pažeidimo aplinkybes;
+
+
+
+
+3) suteikti neatidėliotiną medicinos pagalbą nukentėjusiems, bejėgiškos būklės asmenims;
+
+
+
+
+4) imtis visų galimų priemonių turtui gelbėti įvykus stichinei nelaimei, katastrofai, avarijai ar kitiems ypatingiems įvykiams;
+
+
+
+
+5) laikyti paslaptyje konfidencialią informaciją ar patikėtas tarnybos paslaptis;
+
+
+
+
+6) atlikdami pavestas užduotis, prisistatyti ir pateikti šaulio pažymėjimą;
+
+
+
+
+7) laikytis įstatymų, kitų teisės aktų, patikėtas užduotis atlikti laiku ir tiksliai.
+ 
+
+
 
 
 
@@ -1096,55 +1492,433 @@ TURTAS IR LĖŠOS
 
 
 ŠEŠTASIS SKIRSNIS
+ŠAULIŲ SOCIALINĖS GARANTIJOS
+ 
+
+
+34 straipsnis. Kompensacijos ir vienkartinės pašalpos šaulio žūties ar sveikatos sutrikdymo atvejais
+
+
+1. Jeigu šaulys žuvo atlikdamas šaulio tarnybą, susijusią su padidėjusiu pavojumi ar padidėjusia rizika jo gyvybei ar sveikatai, taip pat tais atvejais, kai šaulys buvo nužudytas dėl šaulio tarnybos atlikimo ar šaulio statuso, neatsižvelgiant į draudimo išmokas jo šeimai, šio straipsnio 2 dalyje nurodytiems asmenims išmokama 120 Vyriausybės nustatytų minimaliųjų mėnesinių algų, bet ne mažesnė negu po 50 Vyriausybės nustatytų minimaliųjų mėnesinių algų kiekvienam šaulio išlaikytiniui ir ne didesnė negu 350 000 litų dydžio kompensacija. Kitais atvejais šauliui žuvus dėl priežasčių, susijusių su šaulio tarnyba, šio straipsnio 2 dalyje nurodytiems asmenims išmokama 60 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio kompensacija.
+
+
+
+
+2. Šio straipsnio 1 dalyje nustatyta kompensacija lygiomis dalimis išmokama žuvusiojo sutuoktiniui (sugyventiniui), tėvui, motinai ir kiekvienam iš žuvusio šaulio išlaikytinių. Išlaikytiniai yra nedarbingi asmenys, kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti iš jo išlaikymą, taip pat žuvusiojo vaikai, gimę po jo mirties, nepilnamečiai vaikai (įvaikiai), kol jiems sukaks 18 metų, o vaikai, kurie mokosi pagal dienines ir nuolatines mokymo formas, – kol jiems sukaks 24 metai.
+
+
+
+
+3. Šauliui, kuris buvo sužalotas, susižalojo ar jo sveikata buvo kitaip sutrikdyta atliekant šaulio tarnybą, susijusią su padidėjusiu pavojumi ar padidėjusia rizika šaulio gyvybei ar sveikatai, taip pat šauliui, kuris buvo sužalotas ar jo sveikata kitaip sutrikdyta dėl šaulio tarnybos atlikimo ar šaulio statuso, atsižvelgiant į netekto darbingumo ir sveikatos sutrikdymo laipsnį, išmokama ši kompensacija:
+
+
+1) netekusiam 75–100 procentų darbingumo šauliui – 60 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
+
+
+
+
+2) netekusiam 60–70 procentų darbingumo šauliui – 48 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
+
+
+
+
+3) netekusiam 45–55 procentų darbingumo šauliui – 36 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
+
+
+
+
+4) sunkaus sveikatos sutrikdymo atveju – 24 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
+
+
+
+
+5) apysunkio sveikatos sutrikdymo atveju – 18 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
+
+
+
+
+6) lengvo sveikatos sutrikdymo atveju – 12 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio.
+
+
+
+
+
+
+4. Šauliui, kuris buvo sužalotas, susižalojo ar jo sveikata buvo kitaip sutrikdyta atliekant šaulio tarnybą kitais, negu nurodyta šio straipsnio 3 dalyje, atvejais, atsižvelgiant į netekto darbingumo ir sveikatos sutrikdymo laipsnį, išmokama ši kompensacija:
+
+
+1) netekusiam 75–100 procentų darbingumo šauliui – 30 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
+
+
+
+
+2) netekusiam 60–70 procentų darbingumo šauliui – 24 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
+
+
+
+
+3) netekusiam 45–55 procentų darbingumo šauliui – 18 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
+
+
+
+
+4) sunkaus sveikatos sutrikdymo atveju – 12 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
+
+
+
+
+5) apysunkio sveikatos sutrikdymo atveju – 9 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio;
+
+
+
+
+6) lengvo sveikatos sutrikdymo atveju – 6 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio.
+
+
+
+
+
+
+5. Šio straipsnio 1, 3 ir 4 dalyse nurodytos kompensacijos nemokamos šiais atvejais:
+
+
+1) jeigu šaulys žuvo, susižalojo, buvo sužalotas ar jo sveikata buvo kitaip sutrikdyta jam darant tyčinę nusikalstamą veiką ar nevykdant teisėto įsakymo;
+
+
+
+
+2) jeigu šaulio mirties, sužalojimo, susižalojimo ar kitokio sveikatos sutrikdymo priežastis buvo su tarnybos pareigų atlikimu nesusijęs apsvaigimas nuo alkoholio, narkotinių, psichotropinių arba kitų psichiką veikiančių medžiagų;
+
+
+
+
+3) jeigu šaulys nusižudė, kėsinosi nusižudyti ar tyčia susižalojo;
+
+
+
+
+4) jeigu šaulys žuvo, susižalojo, buvo sužalotas ar jo sveikata buvo kitaip sutrikdyta eismo įvykio metu, kai jis vairavo transporto priemonę neturėdamas teisės ją vairuoti arba perdavė ją vairuoti asmeniui, apsvaigusiam nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų ar neturinčiam teisės ją vairuoti;
+
+
+
+
+5) šaulio sveikata sutriko ar jis mirė dėl ligos ir tai nesusiję su šaulio tarnybos atlikimu;
+
+
+
+
+6) šaulio mirties ar susižalojimo priežastis buvo sąmoningas saugos taisyklių pažeidimas, nesusijęs su būtinumu vykdyti šaulio tarnybą.
+
+
+
+
+
+
+6. Šaulio sveikatos sutrikdymo laipsnį nustato kariuomenės Karinė medicinos ekspertizės komisija, sudaroma ir veikianti Vyriausybės nustatyta tvarka. Ar šaulio mirtis, susižalojimas, sužalojimas ar kitoks sveikatos sutrikdymas yra susijęs su šaulio tarnyba ar šaulio statusu, taip pat ar šaulio tarnyba buvo susijusi su padidėjusiu pavojumi ar padidėjusia rizika šaulio gyvybei ar sveikatai, nustato tarnybinio tyrimo komisija. Ją sudaro ir jos darbo tvarką nustato krašto apsaugos ministras.
+
+
+
+
+7. Šio straipsnio 6 dalyje nurodytų tarnybinio tyrimo ir karinės medicinos ekspertizės komisijų sprendimai gali būti apskundžiami teismui per 10 dienų nuo išvadų įteikimo šauliui arba kitiems šio straipsnio 2 dalyje nurodytiems asmenims ar jų atstovams.
+
+
+
+
+8. Šio straipsnio 1, 3 ir 4 dalyse nurodytos kompensacijos mokamos iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų. Krašto apsaugos ministro nustatyta tvarka jos gali būti išmokamos dalimis, bet ne vėliau kaip per 12 mėnesių.
+
+
+
+
+9. Šauliui mirus dėl priežasčių, nesusijusių su šaulio tarnyba, šaulio šeimai gali būti išmokėta iki 12 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio vienkartinė pašalpa. Sutrikus šaulio sveikatai dėl priežasčių, nesusijusių su šaulio tarnyba, jam gali būti išmokėta iki 6 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio vienkartinė pašalpa.
+
+
+
+
+10. Šio straipsnio 9 dalyje nurodytos vienkartinės pašalpos mokamos iš LŠS lėšų. Joms mokėti negali būti naudojamos valstybės biudžeto lėšos. Pašalpų mokėjimo tvarką nustato LŠS vadas su LŠS Centro valdybos pritarimu.
+
+
+
+
+11. Šis straipsnis netaikomas ginkluotos gynybos nuo agresijos (karo) metu.
+ 
+
+
+
+
+
+
+35 straipsnis. Kitos šaulių garantijos
+
+
+1. Jeigu šaulys atlieka šaulio tarnybą ir pateikia tai patvirtinančią LŠS vado, jo pavaduotojo arba rinktinės vado išduotą pažymą, darbdavys, švietimo ar studijų įstaigos vadovas privalo šaulį išleisti iš darbo, švietimo ar studijų įstaigos ir išsaugoti jam darbo, mokslo ar studijų vietą, tačiau ne daugiau kaip 10 darbo, mokslo ar studijų dienų per metus.
+
+
+
+
+2. Darbo metu atliekantiems šaulio tarnybą šauliams jų vidutinis darbo užmokestis kompensuojamas krašto apsaugos ministro nustatyta tvarka.
+
+
+
+
+3. Ilgiau negu parą nepertraukiamai šaulio tarnybą atliekantiems šauliams, jeigu jie nėra aprūpinami maistu, LŠS vado nustatyta tvarka mokami krašto apsaugos ministro nustatyto dydžio dienpinigiai.
+
+
+
+
+4. Šauliai aprūpinami kasdiene uniforma LŠS vado nustatyta tvarka. Asmuo privalo grąžinti šaulio uniformą LŠS arba atlyginti LŠS jos vertę, jeigu išstoja iš LŠS per penkerius metus nuo jo priėmimo į LŠS, yra pašalinamas iš LŠS arba jo narystė LŠS nutrūksta šio įstatymo 31 straipsnio 5 dalyje nustatytu atveju. Atlygintina uniformos vertė lygi naujos šaulio uniformos vertei asmens narystės LŠS pasibaigimo dieną.
+
+
+
+
+5. Šaulys, kuris žuvo atlikdamas šaulio tarnybą, laidojamas iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų. Valstybės finansuojamų laidojimo išlaidų aprašą tvirtina Vyriausybė arba jos įgaliota institucija.
+
+
+
+
+6. Šauliui, kuris žuvo atlikdamas šaulio tarnybą, iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų pastatomas krašto apsaugos ministro patvirtinto pavyzdžio antkapinis paminklas, o jeigu žuvusiojo artimieji nusprendžia statyti kitokį paminklą, apmokama krašto apsaugos ministro nustatyto dydžio paminklo statymo išlaidų dalis.
+
+
+
+
+7. Jeigu šaulio mirtis nėra susijusi su jo tarnyba, jam gali būti pastatytas krašto apsaugos ministro patvirtinto pavyzdžio antkapinis paminklas, bet jo statymo išlaidos gali būti apmokamos iš LŠS lėšų tik LŠS vado įsakymu su LŠS Centro valdybos pritarimu. Šiam tikslui negali būti naudojamos valstybės biudžeto lėšos.
+
+
+
+
+8. Šio straipsnio 1, 2 ir 3 dalyse nustatytos garantijos netaikomos LŠS vadui ir šauliams, einantiems šio įstatymo 36 straipsnyje nurodytas pareigas.
+ 
+
+
+
+
+
+
+
+
+SEPTINTASIS SKIRSNIS
+ŠAULIŲ STATUSO YPATYBĖS
+ 
+
+
+36 straipsnis. LŠS vado pavaduotojų, rinktinių vadų, kitų nuolatinės šaulio tarnybos pareigas vykdančių šaulių statuso ypatybės 
+
+
+1. LŠS vado pavaduotojais ir rinktinių vadais 3 metams skiriami turintys aukštąjį išsilavinimą šauliai, kurie yra ne žemesnio kaip leitenanto laipsnio profesinės ar savanorių karo tarnybos arba atsargos kariai. Krašto apsaugos ministrui sutikus, LŠS vado pavaduotoju ir rinktinės vadu gali būti skiriamas šaulys, turintis aukštąjį išsilavinimą, bet nesantis profesinės ar savanorių karo tarnybos arba atsargos kariu.
+
+
+
+
+2. Skiriant į LŠS vado pavaduotojo ar rinktinės vado pareigas šaulį, kuris yra profesinės karo tarnybos karys, būtinas krašto apsaugos ministro įsakymas LŠS vado prašymu Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatyta tvarka perkelti profesinės karo tarnybos karį į šias pareigas. Pasibaigus įgaliojimų laikui, LŠS vado pavaduotojas ar rinktinės vadas, kuris yra profesinės karo tarnybos karys, atleidžiamas iš pareigų ir Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatyta tvarka perkeliamas į kitas profesinės karo tarnybos kario pareigas ar laikinąjį profesinės karo tarnybos personalo rezervą. Nepasibaigus įgaliojimų terminui, LŠS vado pavaduotojas ar rinktinės vadas, kuris yra profesinės karo tarnybos karys, atleidžiamas iš pareigų nutraukus su juo profesinės karo tarnybos sutartį Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme nustatytais pagrindais, taip pat jam išstojus iš LŠS, pašalinus jį iš LŠS ar praradus LŠS vado pasitikėjimą. Jeigu LŠS vado pavaduotojas ar rinktinės vadas, kuris yra profesinės karo tarnybos karys, atleidžiamas iš pareigų nepasibaigus jo įgaliojimų terminui, bet jo profesinės karo tarnybos sutartis nenutraukiama, jis Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatyta tvarka perkeliamas į kitas profesinės karo tarnybos kario pareigas ar laikinąjį profesinės karo tarnybos personalo rezervą.
+
+
+
+
+3. Jeigu skiriamas į LŠS vado pavaduotojo ar rinktinės vado pareigas šaulys nėra profesinės karo tarnybos karys, įgaliojimų terminui jis sudaro darbo sutartį su Krašto apsaugos ministerija. Pasibaigus įgaliojimų terminui, darbo sutartis su LŠS vado pavaduotoju ar rinktinės vadu nutraukiama ir jis atleidžiamas iš pareigų. Nepasibaigus įgaliojimų terminui, LŠS vado pavaduotojas ar rinktinės vadas, kuris nėra profesinės karo tarnybos karys, atleidžiamas iš pareigų Krašto apsaugos ministerijai nutraukus su juo darbo sutartį Darbo kodekse nustatytais pagrindais. LŠS vado pavaduotojas ar rinktinės vadas, kuris nėra profesinės karo tarnybos karys, taip pat atleidžiamas iš pareigų ir Krašto apsaugos ministerija nutraukia su juo darbo sutartį nesibaigus įgaliojimų terminui jam išstojus iš LŠS, pašalinus jį iš LŠS ar praradus LŠS vado pasitikėjimą.
+
+
+
+
+4. Jeigu LŠS vado pavaduotojas ar rinktinės vadas yra profesinės karo tarnybos karys, jis gali būti nušalinamas nuo pareigų Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme nustatytais atvejais. Jeigu LŠS vado pavaduotojas ar rinktinės vadas nėra profesinės karo tarnybos karys, jis gali būti nušalinamas nuo pareigų Darbo kodekse nustatytais atvejais ar krašto apsaugos ministro iniciatyva.
+
+
+
+
+5. Jeigu LŠS vado pavaduotojas ar rinktinės vadas yra karys savanoris arba atsargos karys, turintis ne žemesnį kaip leitenanto laipsnį, jam mokamo atlyginimo dydis yra lygus atitinkamą laipsnį turinčiam profesinės karo tarnybos kariui pirmaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui. 
+
+
+
+
+6. Jeigu LŠS vado pavaduotojas ar rinktinės vadas yra atsargos karys, turintis žemesnį kaip leitenanto laipsnį, arba yra civilis, neturintis atsargos kario laipsnio, jam mokamo pagrindinio darbo užmokesčio dydis yra lygus leitenanto laipsnį turinčiam profesinės karo tarnybos kariui pirmaisiais tarnybos metais priklausančiam tarnybiniam atlyginimui.
+
+
+
+
+7. LŠS vado pavaduotojai ir rinktinių vadai yra tiesiogiai pavaldūs LŠS vadui, taip pat atskaitingi LŠS vadui ir krašto apsaugos ministrui.
+
+
+
+
+8. Kitoms negu LŠS vado pavaduotojo ir rinktinės vado nuolatinės šaulio tarnybos pareigoms vykdyti šauliai gali būti skiriami LŠS vado įsakymu, sudarant darbo sutartis su LŠS. Tokių pareigų sąrašą su LŠS Centro valdybos pritarimu ir suderinęs su krašto apsaugos ministru nustato LŠS vadas.
+
+
+
+
+9. LŠS statute ir LŠS vidaus teisės aktuose gali būti nustatyti LŠS vado pavaduotojų, rinktinių vadų, taip pat pagal darbo sutartis su LŠS dirbančių šaulių šaulio tarnybos ypatumai, susiję su darbo laiko struktūra, trukme ir režimu. Kai tai būtina LŠS pratyboms, mokymams ar kitiems renginiams organizuoti ar jiems vadovauti, kasdienė LŠS vado pavaduotojų, rinktinių vadų, taip pat pagal darbo sutartis su LŠS dirbančių šaulių darbo laiko trukmė gali viršyti aštuonias darbo valandas.
+ 
+
+
+
+
+
+
+37 straipsnis. Jaunųjų šaulių šaulio tarnybos apribojimai
+
+
+1. Jaunieji šauliai negali būti skiriami atlikti šaulio tarnybą į LŠS kovinius būrius.
+
+
+
+
+2. Jaunieji šauliai negali būti skiriami atlikti šaulio tarnybą vykdant šio įstatymo 9 straipsnio 1 dalies 5, 7 punktuose ir 2 dalyje nustatytas LŠS funkcijas.
+
+
+
+
+3. Draudžiamas jaunųjų šaulių karinis rengimas kovos veiksmams.
+
+
+
+
+4. Jaunųjų šaulių, kurie nėra pripažinti visiškai veiksniais, dalyvavimui ilgesnėse negu paros LŠS pratybose ir mokymuose bei kituose renginiuose būtinas rašytinis tėvų arba to iš tėvų, su kuriuo vaikas gyvena, globėjų ar rūpintojų sutikimas.
+
+
+
+
+5. Kitas jaunųjų šaulių šaulio tarnybos ypatybes nustato LŠS statutas ir LŠS vidaus teisės aktai.
+ 
+
+
+
+
+
+
+38 straipsnis. Apribojimai uniformuotiems šauliams dalyvauti politinėje veikloje
+
+
+Uniformuoti šauliai negali dalyvauti politinių partijų organizuojamuose susirinkimuose, taip pat rinkimų ir referendumų agitacijos kampanijose.
+ 
+
+
+
+
+
+
+
+
+AŠTUNTASIS SKIRSNIS
+LŠS TURTAS
+ 
+
+
+39 straipsnis. LŠS turtas
+
+
+LŠS turtą sudaro:
+
+
+1) valstybės ar savivaldybių institucijų sprendimais grąžinti išlikę LŠS nekilnojamieji daiktai, kuriuos ji nuosavybės teise turėjo iki 1940 m. birželio 15 d.;
+
+
+
+
+2) LŠS lėšos ir už jas įsigytas turtas;
+
+
+
+
+3) dovanotas LŠS turtas;
+
+
+
+
+4) gautas kaip palikimas pagal testamentą turtas;
+
+
+
+
+5) kitais teisėtais būdais įgytas turtas.
+ 
+
+
+
+
+
+
+
+
+40 straipsnis. LŠS lėšos
+
+
+1. LŠS lėšos gaunamos kaip:
+
+
+1) valstybės ir savivaldybių biudžetų lėšos;
+
+
+
+
+2) teisės aktų nustatyta tvarka gauta parama, įskaitant Europos Sąjungos struktūrinių fondų paramą;
+
+
+
+
+3) LŠS stojamieji ir nario mokesčiai bei tikslinės įmokos;
+
+
+
+
+4) pajamos iš LŠS įmonių, viešųjų įstaigų ir visuomenės informavimo priemonių;
+
+
+
+
+5) pajamos už asmens ir turto saugos paslaugų teikimą, iš LŠS turto nuomos ir kitų sandorių;
+
+
+
+
+6) pajamos iš LŠS renginių ir kitos teisėtos veiklos;
+
+
+
+
+7) kredito įstaigų palūkanos, mokamos už jose saugomas LŠS lėšas, išskyrus palūkanas, mokamas už valstybės biudžeto lėšas;
+
+
+
+
+8) pagal testamentą tenkantys palikimai, dovanotos ir kitais teisėtais būdais gautos lėšos.
+
+
+
+
+
+
+2. Valstybės biudžeto asignavimai LŠS veiklai finansuoti teisės aktų nustatyta tvarka skiriami per Krašto apsaugos ministerijai priskirtą LŠS programą.
+
+
+
+
+3. Kitus, negu nurodyta šio straipsnio 2 dalyje, tikslinius valstybės ir savivaldybių biudžetų asignavimus teisės aktų nustatyta tvarka LŠS gauna iš valstybės ar savivaldybių biudžetų asignavimų valdytojų, kai valstybės ar savivaldybių biudžetų lėšomis finansuojamos tikslinės veiklos programos, kurias vykdo arba kuriose dalyvauja LŠS.
+ 
+
+
+
+
+
+
+41 straipsnis. LŠS turto patikėjimo teise ar panaudos pagrindais valdomas ir naudojamas valstybės ir savivaldybių turtas
+
+
+Įstatymų nustatyta tvarka valstybės ir savivaldybių turtas gali būti perduodamas LŠS valdyti ir naudotis turto patikėjimo teise ar panaudos pagrindais.
+ 
+
+
+
+
+
+
+
+
+DEVINTASIS SKIRSNIS
 BAIGIAMOSIOS NUOSTATOS
  
 
 
-23 straipsnis. Sąjungos likvidavimas, Sąjungos rinktinių ir padalinių reorganizavimas bei likvidavimas
+42 straipsnis. LŠS reorganizavimas ir likvidavimas
 
 
-1. Sąjunga gali būti likviduojama atskiru įstatymu.
-
-
-
-
-2. Sąjungą likviduoti siūlo:
-
-
-1) įstatymo leidybos iniciatyvos teisę turintys subjektai;
-
-
-
-
-2) krašto apsaugos ministras savo arba suvažiavimo 3/4 balsų dauguma priimtu sprendimu.
-
-
-
-
-
-
-3. Jeigu likviduojama Sąjunga, krašto apsaugos ministro įsakymu skiriamas likvidatorius, taip pat nustatomas likvidavimo terminas, inventorizacijos ir turto perėmimo tvarka. Nuo likvidatoriaus paskyrimo dienos suvažiavimas bei Sąjungos valdymo organai netenka įgaliojimų, jų funkcijas atlieka likvidatorius.
-
-
-
-
-4. Likvidavus Sąjungą, likęs turtas ir lėšos, patenkinus visų likviduojamos Sąjungos kreditorių reikalavimus, atsiskaičius su asmenimis, dirbusiais pagal darbo sutartis, perduodami kitai ar kitoms įregistruotoms Lietuvos Respublikoje organizacijoms, kurių tikslai ir uždaviniai yra artimi Sąjungos tikslams. Likviduotos Sąjungos dokumentai saugomi Krašto apsaugos ministerijoje Archyvų įstatymo nustatyta tvarka.
-
-
-
-
-5. Likvidatorius, atstovaudamas Sąjungai, dalyvauja valstybės valdžios ir valdymo institucijose, teisme ir kitais su juridiniais asmenimis susijusiais atvejais.
-
-
-
-
-6. Likvidatorius yra atsakingas už nuostolius, susidariusius dėl jo kaltės.
-
-
-
-
-7. Sąjungos rinktinės ir padaliniai reorganizuojami bei likviduojami Sąjungos statuto nustatyta tvarka.
- 
+LŠS gali būti reorganizuojama ir likviduojama tik atskiru įstatymu.
  
 
 
@@ -1168,4 +1942,9 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1167, 1999-05-11, Žin., 1999, Nr. 47-1468 (1999-05-28), i. k. 0991010ISTAIII-1167
+Lietuvos Respublikos šaulių sąjungos įstatymo pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-408, 2009-07-23, Žin., 2009, Nr. 95-4033 (2009-08-08), i. k. 1091010ISTA00XI-408
 Lietuvos Respublikos šaulių sąjungos įstatymo pakeitimo įstatymas
