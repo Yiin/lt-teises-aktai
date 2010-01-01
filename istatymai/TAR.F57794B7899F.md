@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2009-12-28 iki 2009-12-31
+Suvestinė redakcija nuo 2010-01-01 iki 2010-10-01
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -527,9 +527,18 @@ Nr. XI-198, 2009-03-19, Žin., 2009, Nr. 38-1437 (2009-04-04), i. k. 1091010ISTA
 
 
 
-7) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
+7) nustato standartines naujų buitinių vartotojų elektros įrenginių prijungimo prie elektros tinklų sutarčių sąlygas, suderinusi su Valstybine vartotojų teisių apsaugos tarnyba; 
+Papildyta straipsnio punktu:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
+
+
+
+
+8) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XI-198, 2009-03-19, Žin., 2009, Nr. 38-1437 (2009-04-04), i. k. 1091010ISTA00XI-198
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
  
 
 
@@ -578,6 +587,22 @@ Nr. XI-198, 2009-03-19, Žin., 2009, Nr. 38-1437 (2009-04-04), i. k. 1091010ISTA
 6) skaidrumo ir konkurencijos laipsnį; 
 Straipsnio punkto pakeitimai:
 Nr. XI-198, 2009-03-19, Žin., 2009, Nr. 38-1437 (2009-04-04), i. k. 1091010ISTA00XI-198
+ 
+
+
+
+
+7) kad būtų užtikrintas efektyvus elektros energijos rinkos veikimas ir užkertamas kelias ūkio subjektams piktnaudžiauti dominuojančia padėtimi rinkoje; 
+Papildyta straipsnio punktu:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
+
+
+
+
+8) kaip laikomasi Prekybos elektros energija taisyklių. 
+Papildyta straipsnio punktu:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
  
 
 
@@ -1149,7 +1174,10 @@ ELEKTROS ENERGIJOS GAMYBA
 
 
 
-3. Leidimai plėtoti elektros energijos gamybos pajėgumus išduodami pagal Leidimų veiklai elektros energetikos sektoriuje išdavimo taisykles. 
+3. Leidimai plėtoti elektros energijos pajėgumus išduodami pagal Veiklos elektros energetikos sektoriuje leidimų išdavimo taisykles. 
+Straipsnio dalies pakeitimai:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
@@ -1492,11 +1520,12 @@ Skirstomųjų tinklų operatorius privalo:
 22 straipsnis. Atsiskaitymo už elektros energijos persiuntimą garantijos
 
 
-Laisvieji vartotojai, kurių įrenginiai yra prijungti prie skirstomųjų tinklų ir kurie yra sudarę elektros energijos tiekimo sutartį su nepriklausomu tiekėju, privalo laiku atsiskaityti su skirstomųjų tinklų operatoriumi už elektros energijos persiuntimą perdavimo ir skirstomaisiais tinklais. Laisvasis vartotojas, pažeidęs su skirstomųjų tinklų operatoriumi sudarytą sutartį, privalo skirstomųjų tinklų operatoriaus reikalavimu pateikti visų savo prievolių tinkamo įvykdymo užtikrinimą.
- 
- 
+Laisvieji vartotojai, kurių įrenginiai yra prijungti prie perdavimo ar skirstomųjų tinklų ir kurie yra sudarę su nepriklausomu tiekėju elektros energijos tiekimo sutartį, privalo sudaryti sutartį su perdavimo sistemos ar skirstomųjų tinklų operatoriumi ir laiku atsiskaityti už elektros energijos persiuntimą perdavimo ir skirstomaisiais tinklais. Nepriklausomas tiekėjas, turintis sutartį su perdavimo sistemos ar skirstomųjų tinklų operatoriumi dėl atsiskaitymo už vartotojui suteiktas persiuntimo paslaugas, ir laisvasis vartotojas, pažeidęs su perdavimo sistemos ar skirstomųjų tinklų operatoriumi sudarytą sutartį, privalo perdavimo sistemos ar skirstomųjų tinklų operatoriaus reikalavimu pateikti visų savo prievolių tinkamo įvykdymo užtikrinimą. 
 
 
+Straipsnio pakeitimai:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
@@ -1511,7 +1540,10 @@ ELEKTROS ENERGIJOS TIEKIMAS
 23 straipsnis. Tiekimo veiklos principai
 
 
-1. Laisvieji vartotojai gali pirkti elektros energiją iš visuomeninių ar nepriklausomų tiekėjų, taip pat Prekybos elektros energija taisyklėse nustatytais būdais.
+1. Laisvieji vartotojai perka elektros energiją iš nepriklausomų tiekėjų. Laisvieji vartotojai gali pirkti elektros energiją iš visuomeninių tiekėjų šio įstatymo 25 straipsnyje nustatytais atvejais ir tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
@@ -1542,7 +1574,10 @@ ELEKTROS ENERGIJOS TIEKIMAS
 24 straipsnis. Visuomeninis tiekėjas
 
 
-1. Skirstomųjų tinklų įmonė, kai jos turimoje elektros energijos skirstymo licencijoje nurodytoje teritorijoje kitam asmeniui neišduota visuomeninio tiekimo licencija, privalo vykdyti ir elektros energijos visuomeninio tiekimo veiklą. 
+1. Skirstomųjų tinklų operatorius, kai jo turimoje elektros energijos skirstymo licencijoje nurodytoje teritorijoje kitam asmeniui neišduota visuomeninio tiekimo licencija, privalo vykdyti ir elektros energijos visuomeninio tiekimo veiklą. Tuo atveju, jei skirstomųjų tinklų operatorius nėra sudaręs su vartotoju atskiros sutarties dėl elektros energijos persiuntimo paslaugų teikimo, skirstomųjų tinklų operatoriaus ir vartotojo sudaryta elektros energijos pirkimo–pardavimo sutartis laikoma ir elektros energijos persiuntimo paslaugų teikimo konkrečiam vartotojui sutartimi. 
+Straipsnio dalies pakeitimai:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
@@ -1570,13 +1605,70 @@ ELEKTROS ENERGIJOS TIEKIMAS
 
 
 
-25 straipsnis. Visuomeninio tiekėjo pareiga tiekti elektros energiją pagal pareikalavimą 
+25 straipsnis. Visuomeninio tiekėjo pareiga tiekti elektros energiją pagal pareikalavimą
 
 
-Visuomeninis tiekėjas privalo sudaryti sutartis ir tiekti elektros energiją visiems jam išduotoje licencijoje nustatytoje teritorijoje esantiems ir to pareikalavusiems vartotojams, nepasirinkusiems nepriklausomo tiekėjo. 
+1. Iki 2010 m. gruodžio 31 d. visuomeninis tiekėjas privalo sudaryti sutartis ir tiekti elektros energiją visiems jam išduotoje licencijoje nustatytoje teritorijoje esantiems ir to pareikalavusiems buitiniams vartotojams, taip pat vartotojų objektams, atitinkantiems bet kurį iš šių kriterijų:
+
+
+1) vartotojo objekto leistinoji naudoti galia 2009 m. liepos 31 d. yra mažesnė kaip 400 kW;
+
+
+
+
+2) vartotojo objekto, naujai prijungto prie perdavimo arba skirstomojo tinklo po 2009 m. liepos 31 d., leistinoji naudoti galia yra mažesnė kaip 400 kW.
+
+
+
+
+
+
+2. Iki 2011 m. gruodžio 31 d. visuomeninis tiekėjas privalo sudaryti sutartis ir tiekti elektros energiją visiems jam išduotoje licencijoje nustatytoje teritorijoje esantiems ir to pareikalavusiems buitiniams vartotojams, taip pat vartotojų objektams, atitinkantiems bet kurį iš šių kriterijų:
+
+
+1) vartotojo objekto leistinoji naudoti galia 2010 m. liepos 31 d. yra mažesnė kaip 100 kW;
+
+
+
+
+2) vartotojo objekto, naujai prijungto prie perdavimo arba skirstomojo tinklo po 2010 m. liepos 31 d., leistinoji naudoti galia yra mažesnė kaip 100 kW.
+
+
+
+
+
+
+3. Iki 2012 m. gruodžio 31 d. visuomeninis tiekėjas privalo sudaryti sutartis ir tiekti elektros energiją visiems jam išduotoje licencijoje nustatytoje teritorijoje esantiems ir to pareikalavusiems buitiniams vartotojams, taip pat vartotojų objektams, atitinkantiems bet kurį iš šių kriterijų:
+
+
+1) vartotojo objekto leistinoji naudoti galia 2011 m. liepos 31 d. yra mažesnė kaip 30 kW;
+
+
+
+
+2) vartotojo objekto, naujai prijungto prie perdavimo arba skirstomojo tinklo po 2011 m. liepos 31 d., leistinoji naudoti galia yra mažesnė kaip 30 kW.
+
+
+
+
+
+
+4. Nuo 2013 m. sausio 1 d. visuomeninis tiekėjas privalo sudaryti sutartis ir tiekti elektros energiją visiems jam išduotoje licencijoje nustatytoje teritorijoje esantiems ir to pareikalavusiems buitiniams vartotojams.
+
+
+
+
+5. Visuomeninis tiekėjas 6 mėnesius nuo šio įstatymo įsigaliojimo dienos tiekia elektros energiją pagal iki 2009 m. gruodžio 31 d. sudarytas sutartis jam išduotoje licencijoje nustatytoje teritorijoje esantiems vartotojams, kurie neatitinka šio straipsnio 1 dalyje nurodytų kriterijų, tačiau nepasirinko nepriklausomo tiekėjo. Tokiems vartotojams taikoma elektros energijos kaina yra lygi faktinės visuomeninio tiekėjo vartotojų, kurie neatitinka šio straipsnio 1 dalyje nustatytų kriterijų, suvartotos elektros energijos įsigijimo kainos, elektros energijos persiuntimo, viešuosius interesus atitinkančių paslaugų ir visuomeninio tiekimo paslaugų kainų sumai.
+
+
+
+
+6. Visuomeninis tiekėjas privalo užtikrinti elektros energijos tiekimą jam išduotoje licencijoje nustatytoje teritorijoje esantiems vartotojams tuo atveju, kai jų esamas nepriklausomas tiekėjas nevykdo savo įsipareigojimo tiekti elektros energiją ir jie negali pasirinkti kito nepriklausomo tiekėjo. Elektros energijos tiekimas šiuo atveju užtikrinamas ne ilgiau kaip 3 mėnesius, o tokiems vartotojams taikoma elektros energijos kaina yra lygi faktinės visuomeninio tiekėjo elektros energijos įsigijimo, elektros energijos persiuntimo, viešuosius interesus atitinkančių paslaugų ir visuomeninio tiekimo paslaugų kainų sumai. 
+
+
+Straipsnio pakeitimai:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
  
-
-
 
 
 
@@ -1616,22 +1708,33 @@ Visuomeninis tiekėjas privalo sudaryti sutartis ir tiekti elektros energiją vi
 
 
 
-2. Nepriklausomas tiekėjas prieš sudarydamas arba nutraukdamas elektros energijos tiekimo sutartį su laisvuoju vartotoju, esančiu visuomeninio tiekėjo licencijoje nurodytoje teritorijoje, privalo prieš 30 kalendorinių dienų apie tai raštu pranešti visuomeniniam tiekėjui.
+2. Asmuo, tiekiantis elektros energiją, prieš sudarydamas arba nutraukdamas elektros energijos pirkimo–pardavimo sutartį su laisvuoju vartotoju, esančiu skirstomųjų tinklų operatoriaus licencijoje nurodytoje teritorijoje, privalo prieš 30 kalendorinių dienų apie tai raštu pranešti skirstomųjų tinklų operatoriui. 
+Straipsnio dalies pakeitimai:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-3. Laisvasis vartotojas, esantis visuomeninio tiekėjo licencijoje nurodytoje teritorijoje, prieš sudarydamas arba nutraukdamas elektros energijos tiekimo sutartį su nepriklausomu tiekėju, privalo prieš 30 kalendorinių dienų apie tai raštu pranešti visuomeniniam tiekėjui.
+3. Laisvasis vartotojas, esantis skirstomųjų tinklų operatoriaus licencijoje nurodytoje teritorijoje, prieš sudarydamas arba nutraukdamas elektros energijos pirkimo–pardavimo sutartį su tiekėju, privalo prieš 30 kalendorinių dienų apie tai raštu pranešti skirstomųjų tinklų operatoriui. 
+Straipsnio dalies pakeitimai:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-4. Laisvieji vartotojai, kurių įrenginiai prijungti prie skirstomųjų tinklų, pirkdami elektros energiją iš nepriklausomo tiekėjo, privalo skirstomųjų tinklų operatoriui apmokėti už elektros energijos persiuntimą perdavimo ir skirstomaisiais tinklais, už sistemines paslaugas bei už viešuosius interesus atitinkančias paslaugas. 
+4. Laisvieji vartotojai, kurių įrenginiai prijungti prie skirstomųjų tinklų, pirkdami elektros energiją iš nepriklausomo tiekėjo, privalo skirstomųjų tinklų operatoriui apmokėti už elektros energijos persiuntimą perdavimo ir skirstomaisiais tinklais, už sistemines paslaugas ir už viešuosius interesus atitinkančias paslaugas. Laisvasis vartotojas, likdamas atsakingas skirstomųjų tinklų operatoriui, šioje dalyje nurodytas laisvojo vartotojo pinigines prievoles gali pavesti vykdyti nepriklausomam tiekėjui. 
+Straipsnio dalies pakeitimai:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-5. Laisvieji vartotojai, kurių įrenginiai prijungti prie perdavimo tinklo, pirkdami elektros energiją iš nepriklausomo tiekėjo, privalo perdavimo sistemos operatoriui apmokėti už elektros energijos persiuntimą perdavimo tinklais ir už viešuosius interesus atitinkančias paslaugas elektros energetikos sektoriuje. 
+5. Laisvieji vartotojai, kurių įrenginiai prijungti prie perdavimo tinklo, pirkdami elektros energiją iš nepriklausomo tiekėjo, privalo perdavimo sistemos operatoriui apmokėti už elektros energijos persiuntimą perdavimo tinklais, už sistemines paslaugas ir už viešuosius interesus atitinkančias paslaugas elektros energetikos sektoriuje. Laisvasis vartotojas, likdamas atsakingas perdavimo sistemos operatoriui, šioje dalyje nurodytas laisvojo vartotojo pinigines prievoles gali pavesti vykdyti nepriklausomam tiekėjui. 
+Straipsnio dalies pakeitimai:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
  
 
 
@@ -1712,40 +1815,67 @@ BUHALTERINĖS APSKAITOS IR VEIKLOS ELEKTROS ENERGETIKOS SEKTORIUJE SKAIDRUMAS
 32 straipsnis. Veiklos rūšių išskyrimas
 
 
-1. Perdavimo, skirstymo ir nepriklausomo tiekėjo licencijuojama veikla kiekviena atskirai turi būti vykdoma atskirų juridinių asmenų. Šių rūšių veiklai vykdyti naudojamas turtas gali priklausyti šioje dalyje nurodytiems juridiniams asmenims bendrosios nuosavybės teise.
+1. Kai perdavimo sistemos operatorius yra vertikaliosios integracijos įmonės dalis, jis savo teisine forma, organizacine struktūra ir priimdamas sprendimus turi būti nepriklausomas nuo kitų vertikaliosios integracijos įmonės veiklos rūšių, nesusijusių su perdavimu. Siekiant užtikrinti perdavimo sistemos operatoriaus nepriklausomumą, turi būti laikomasi šių reikalavimų:
+
+
+1) sprendimus, susijusius su perdavimo veiklai vykdyti ir perdavimo sistemai eksploatuoti, prižiūrėti ir plėtoti reikalingo turto panaudojimu, perdavimo sistemos operatorius priima nepriklausomai nuo vertikaliosios integracijos įmonės;
 
 
 
 
-2. Kai šio straipsnio 1 dalyje nurodytų rūšių veiklą vykdo vertikaliosios integracijos įmonė, tokios įmonės arba kontroliuojančiosios bei kontroliuojamųjų įmonių steigimo dokumentuose turi būti nustatytas kiekvienos įmonės nepriklausomas veiklos organizavimas ir sprendimų priėmimas, užtikrinantis, kad:
-
-
-1) perdavimo, skirstymo ir nepriklausomo tiekėjo licencijuojamą veiklą vykdančių juridinių asmenų vadovai veikia savarankiškai ir negali dalyvauti daugiau nei vienos šiame punkte išvardytos veiklos valdyme;
+2) perdavimo sistemos operatoriaus valdymo organų nariai ir kiti asmenys, atsakingi už perdavimo sistemos operatoriaus valdymą, nedalyvauja vertikaliosios integracijos įmonės, tiesiogiai ar netiesiogiai atsakingos už kasdienę elektros energijos gamybos, skirstymo ir tiekimo veiklą, valdymo organuose;
 
 
 
 
-2) sprendimus, susijusius su turto panaudojimu, kuris reikalingas perdavimo, skirstymo ir nepriklausomo tiekėjo licencijuojamai veiklai vykdyti ar plėtoti, šią veiklą vykdantys juridiniai asmenys priima savarankiškai.
+3) turi būti imamasi tinkamų priemonių, užtikrinančių, kad į atsakingų už perdavimo sistemos operatoriaus valdymą asmenų profesinius interesus būtų atsižvelgiama taip, kad jie galėtų veikti savarankiškai;
+
+
+
+
+4) vertikaliosios integracijos įmonė patvirtina, atsižvelgdama į Komisijos nustatytas perdavimo paslaugų viršutines ribas, tik perdavimo sistemos operatoriaus metinį finansinį planą ar bet kurį lygiavertį dokumentą, metinę turto grąžos normą ir maksimalų skolinių įsipareigojimų dydį ir perdavimo sistemos operatoriui neduoda nurodymų dėl perdavimo sistemos valdymo, taip pat dėl sprendimų, susijusių su perdavimo linijų statyba ar atnaujinimu, jeigu tie sprendimai neviršija patvirtinto metinio finansinio plano ar bet kurio lygiaverčio dokumento;
+
+
+
+
+5) perdavimo sistemos operatorius patvirtina programą, nustatančią darbuotojams įpareigojimus ir priemones, kuriomis siekiama užkirsti kelią diskriminuojančiam elgesiui, ir užtikrina tinkamą nustatytų priemonių ir įpareigojimų laikymosi priežiūrą, kiekvienais metais parengia, paskelbia viešai ir Komisijai pateikia priemonių, kurių buvo imtasi vykdant šią programą, ataskaitą.
 
 
 
 
 
 
-3. Kai šio straipsnio 1 dalyje nurodytų rūšių veiklą vykdo vertikaliosios integracijos įmonė, kontroliuojantysis juridinis asmuo turi teisę šio straipsnio 1 dalyje nurodytą veiklą vykdantiems kontroliuojamiesiems juridiniams asmenims, atsižvelgdamas į Komisijos nustatytas perdavimo ir skirstymo paslaugų viršutines kainų ribas, nustatyti tik metinį finansinį planą, metinę turto grąžos normą ir maksimalų skolinių įsipareigojimų dydį.
+2. Kai skirstomųjų tinklų operatorius yra vertikaliosios integracijos įmonės, aptarnaujančios ne mažiau kaip 100 000 vartotojų, dalis, skirstomųjų tinklų operatorius savo teisine forma, organizacine struktūra ir priimdamas sprendimus turi būti nepriklausomas nuo kitų vertikaliosios integracijos įmonės, aptarnaujančios ne mažiau kaip 100 000 vartotojų, veiklos rūšių, nesusijusių su skirstymu. Siekiant užtikrinti skirstomųjų tinklų operatoriaus nepriklausomumą, turi būti laikomasi šių reikalavimų:
+
+
+1) sprendimus, susijusius su skirstymo veiklai vykdyti ir skirstymo sistemai eksploatuoti, prižiūrėti ir plėtoti reikalingo turto panaudojimu, skirstomojo tinklo operatorius priima nepriklausomai nuo vertikaliosios integracijos įmonės;
 
 
 
 
-4. Kai šio straipsnio 1 dalyje nurodytų rūšių veiklą vykdo vertikaliosios integracijos įmonė, kontroliuojantysis juridinis asmuo kontroliuojamiesiems juridiniams asmenims, vykdantiems perdavimo ir skirstymo veiklą, negali duoti nurodymų dėl perdavimo sistemos ir skirstomųjų tinklų operatorių veiklos bei energetikos sistemos valdymo.
+2) skirstomųjų tinklų operatoriaus valdymo organų nariai ir kiti asmenys, atsakingi už skirstomųjų tinklų operatoriaus valdymą, nedalyvauja vertikaliosios integracijos įmonės, tiesiogiai ar netiesiogiai atsakingos už kasdienę elektros energijos gamybos, perdavimo ir tiekimo veiklą, valdymo organuose;
 
 
 
 
-5. Šio straipsnio 1, 2, 3 ir 4 dalyse nurodytos nuostatos turi būti įgyvendintos ne vėliau kaip iki 2007 m. liepos 1 d.
+3) reikia imtis atitinkamų priemonių, užtikrinančių, kad į atsakingų už skirstomųjų tinklų operatoriaus valdymą asmenų profesinius interesus būtų atsižvelgiama taip, kad jie galėtų veikti savarankiškai;
+
+
+
+
+4) vertikaliosios integracijos įmonė patvirtina, atsižvelgdama į Komisijos nustatytas skirstymo paslaugų viršutines ribas, tik skirstomųjų tinklų operatoriaus metinį finansinį planą ar bet kurį lygiavertį dokumentą, metinę turto grąžos normą ir maksimalų skolinių įsipareigojimų dydį ir skirstomųjų tinklų operatoriui neduoda nurodymų dėl skirstomojo tinklo valdymo, taip pat dėl sprendimų, susijusių su skirstomųjų linijų statyba ar atnaujinimu, jeigu tie sprendimai neviršija patvirtinto metinio finansinio plano ar bet kurio lygiaverčio dokumento;
+
+
+
+
+5) skirstomųjų tinklų operatorius patvirtina programą, nustatančią darbuotojams įpareigojimus ir priemones, kuriomis siekiama užkirsti kelią diskriminuojančiam elgesiui, ir užtikrina tinkamą nustatytų priemonių ir įpareigojimų laikymosi priežiūrą, kiekvienais metais parengia, paskelbia viešai ir Komisijai pateikia priemonių, kurių buvo imtasi vykdant šią programą, ataskaitą. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
  
-
-
 
 
 
@@ -1858,12 +1988,18 @@ ELEKTROS ENERGIJOS RINKA
 
 
 
-2. Standartines elektros energijos pirkimo-pardavimo sutarčių su buitiniais vartotojais sąlygas tiekėjų teikimu tvirtina Vyriausybės įgaliota institucija, suderinusi su Nacionaline vartotojų teisių apsaugos taryba prie Teisingumo ministerijos. 
+2. Standartinių elektros energijos pirkimo–pardavimo sutarčių su buitiniais vartotojais sąlygų aprašą tiekėjų teikimu, Standartinių elektros energijos persiuntimo paslaugos teikimo sutarčių su buitiniais vartotojais sąlygų aprašą skirstomųjų tinklų operatorių teikimu tvirtina Energetikos ministerija, suderinusi su Valstybine vartotojų teisių apsaugos tarnyba. 
+Straipsnio dalies pakeitimai:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-3. Kiekvienas gamintojas ir tiekėjas yra atsakingas už elektros energijos gamybos kiekio, būtino pirkėjų poreikiams patenkinti, ir kiekio, nurodyto elektros energijos pirkimo-pardavimo grafikuose, pirkimo ar pardavimo atitikimą. Balansavimo energijos tiekėjai turi nupirkti arba parduoti balansavimo energiją pagal Prekybos elektros energija taisykles. 
+3. Kiekvienas gamintojas ir tiekėjas yra atsakingas už elektros energijos gamybos kiekio, būtino pirkėjų poreikiams patenkinti, ir kiekio, nurodyto elektros energijos pirkimo–pardavimo grafikuose, pirkimo ar pardavimo atitikimą. Prekyba balansavimo ir reguliavimo energija vykdoma pagal Prekybos elektros energija taisykles. 
+Straipsnio dalies pakeitimai:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
@@ -1900,7 +2036,10 @@ Elektros energijos gamintoju gali tapti kiekvienas asmuo, gavęs šio įstatymo 
 
 
 
-2. Tiekėjai turi teisę sudaryti su gamintojais tiesiogines elektros energijos tiekimo sutartis. Vartotojo įrenginių visuma, esanti vienoje geografinėje vietoje ir savarankiškai prijungta prie skirstomųjų ar perdavimo tinklų, gali gauti elektros energiją tik iš vieno – arba nepriklausomo, arba visuomeninio – tiekėjo.
+2. Tiekėjai turi teisę sudaryti su gamintojais tiesiogines elektros energijos pirkimo–pardavimo sutartis Prekybos elektros energija taisyklėse nustatyta tvarka. Vartotojo įrenginių visuma, esanti vienoje geografinėje vietoje ir savarankiškai prijungta prie skirstomųjų ar perdavimo tinklų, gali gauti elektros energiją iš vartotojo laisvai pasirinktų tiekėjų Elektros energijos tiekimo ir naudojimo taisyklėse nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
@@ -1926,9 +2065,10 @@ Elektros energijos gamintoju gali tapti kiekvienas asmuo, gavęs šio įstatymo 
 
 
 
-2. Rinkos operatorius yra atsakingas už balansavimo elektros energijos pirkimo-pardavimo kainos, susidariusios pasibaigus prekybos laikotarpiui, viešą skelbimą pagal Prekybos elektros energija taisykles ir (ar) energetikos ministro patvirtintas Prekybos elektros energija aukcione taisykles, taip pat už rinkos operatoriaus prekiaujamos elektros energijos atsiskaitymo procedūros organizavimą. 
+2. Rinkos operatorius yra atsakingas už balansavimo elektros energijos pirkimo–pardavimo kainos, susidariusios pasibaigus prekybos laikotarpiui, viešą skelbimą pagal Prekybos elektros energija taisykles, taip pat už elektros energijos prekybos biržoje atsiskaitymo procedūros organizavimą. 
 Straipsnio dalies pakeitimai:
 Nr. XI-131, 2009-01-12, Žin., 2009, Nr. 10-353 (2009-01-27), i. k. 1091010ISTA00XI-131
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
  
 
 
@@ -1960,15 +2100,17 @@ Elektros energijos rinka šalyje kuriama etapais, laipsniškai suteikiant reguli
 41 straipsnis. Laisvųjų vartotojų, tiekėjų ir gamintojų teisės sudaryti tiekimo sutartis
 
 
-1. Laisvieji vartotojai turi teisę sudaryti elektros energijos tiekimo sutartis su tiekėjais ir gamintojais, turinčiais elektros energijos nepriklausomo tiekėjo licenciją, veikiančiais ir Lietuvos Respublikos teritorijoje, ir kitose valstybėse. 
+1. Laisvieji vartotojai turi teisę sudaryti elektros energijos pirkimo–pardavimo sutartis su tiekėjais ir gamintojais, turinčiais elektros energijos nepriklausomo tiekimo licenciją ir veikiančiais Lietuvos Respublikos teritorijoje arba kitose valstybėse.
 
 
 
 
-2. Laisvieji vartotojai, su tiekėjais sudarydami tiekimo sutartis, sudaro sutartis dėl elektros energijos persiuntimo paslaugos su perdavimo sistemos arba skirstomųjų tinklų operatoriais, priklausomai nuo to, prie kurio operatoriaus tinklų yra prijungti vartotojo įrenginiai.
+2. Laisvieji vartotojai, su tiekėjais sudarydami pirkimo–pardavimo sutartis, sudaro sutartis dėl elektros energijos persiuntimo paslaugos su perdavimo sistemos arba skirstomųjų tinklų operatoriais, atsižvelgiant į tai, prie kurio operatoriaus tinklų yra prijungti vartotojo įrenginiai. Laisvojo vartotojo ir tiekėjo sudaromoje pirkimo–pardavimo sutartyje gali būti numatyta nepriklausomo tiekėjo teisė vykdyti laisvojo vartotojo pinigines prievoles, susijusias su apmokėjimu už elektros energijos persiuntimo paslaugą perdavimo ir skirstomaisiais tinklais. 
+
+
+Straipsnio pakeitimai:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
  
-
-
 
 
 
@@ -2001,7 +2143,48 @@ Nr. XI-345, 2009-07-15, Žin., 2009, Nr. 91-3912 (2009-07-31), i. k. 1091010ISTA
 
 
 
-43 straipsnis. Viršutinių perdavimo, skirstymo, visuomeninio tiekimo paslaugų ir visuomeninės elektros energijos kainų ribų nustatymas
+421 straipsnis. Elektros energijos rinkos priežiūra
+
+
+1. Elektros energijos rinkos priežiūrą ir stebėseną bei perdavimo sistemos operatoriaus prekybos balansavimo ir reguliavimo energija priežiūrą atlieka Komisija.
+
+
+
+
+2. Komisija viešai skelbia elektros energijos rinkos stebėsenos ataskaitas Komisijos nustatyta tvarka ir terminais.
+
+
+
+
+3. Konkurencijos priežiūrą elektros energijos rinkoje atlieka Komisija, išskyrus antikonkurencinių susitarimų ir koncentracijų atvejus, kai konkurencijos priežiūrą pagal Konkurencijos įstatymą atlieka Konkurencijos taryba.
+
+
+
+
+4. Rinkos operatorius pagal Prekybos elektros energija taisykles atlieka elektros energijos prekybos priežiūrą.
+
+
+
+
+5. Rinkos operatorius ir perdavimo sistemos operatorius pagal savo kompetenciją informuoja Komisiją ir Vyriausybės įgaliotą instituciją elektros energetikos sektoriuje apie licencijų ir (ar) leidimų turėtojams nustatytų veiklos sąlygų pažeidimus.
+
+
+
+
+6. Komisija išimtinėmis aplinkybėmis (kai nėra veiksmingos konkurencijos ir (ar) netinkamai užtikrinami paslaugų gavėjų interesai) turi teisę nedelsdama imtis proporcingų laikinųjų priemonių, t. y. nustatyti viršutines elektros energijos aukciono kainos ribas arba nustatyti reguliuojamas gamintojų ir nepriklausomų tiekėjų elektros energijos kainas, nustatyti ūkio subjektus, turinčius didelę įtaką atitinkamoje rinkoje, ar jų nenustatyti ir (ar) nustatyti ar panaikinti šiems subjektams Komisijos nurodytus įpareigojimus, sustabdyti Komisijos išduotų licencijų galiojimą. Šios laikinosios priemonės gali būti nustatomos ne ilgesniam kaip 6 mėnesių laikotarpiui. Tokiu atveju Komisija privalo nedelsdama pranešti Energetikos ministerijai apie šias priemones, kartu jas pagrįsdama. 
+
+
+Papildyta straipsniu:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
+
+
+
+
+43 straipsnis. Viršutinių perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų ribų nustatymas 
+Pakeistas straipsnio pavadinimas:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 1. Viršutines kainų ribas, vadovaudamasi Energetikos įstatymu, šiuo įstatymu bei viršutinių kainų ribų nustatymo metodika, nustato Komisija. Viršutinių kainų ribų nustatymo metodiką rengia ir tvirtina Komisija. 
@@ -2009,7 +2192,10 @@ Nr. XI-345, 2009-07-15, Žin., 2009, Nr. 91-3912 (2009-07-31), i. k. 1091010ISTA
 
 
 
-2. Viršutinės perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų ribos nustatomos trejų metų reguliavimo periodui, viršutinė visuomeninės elektros energijos kainos riba – vienų metų reguliavimo periodui. 
+2. Viršutinės perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų ribos nustatomos trejų metų reguliavimo periodui. 
+Straipsnio dalies pakeitimai:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
@@ -2048,20 +2234,19 @@ Nr. XI-198, 2009-03-19, Žin., 2009, Nr. 38-1437 (2009-04-04), i. k. 1091010ISTA
 
 
 
-4. Visuomeninės elektros energijos kainos viršutinę ribą sudaro Komisijos nustatytos prognozuojamos gamintojų elektros energijos pardavimo kainos, perdavimo paslaugos, skirstymo paslaugos bei visuomeninio tiekimo paslaugos viršutinių kainų ribų suma. Pasikeitus šioms viršutinės visuomeninės elektros energijos kainos ribos sudedamosioms dalims, atitinkamai keičiama ir viršutinė visuomeninės elektros energijos kainos riba.
-
-
-
-
-5. Komisijos nustatytos viršutinės perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų ribos perskaičiuojamos kas metai, jeigu pasikeitė parduotos ar persiųstos elektros energijos kiekio, nustatytų elektros energijos persiuntimo patikimumo ir paslaugų kokybės rodiklių, metinio infliacijos dydžio, Komisijos nustatyto veiklos efektyvumo, įmonių įgyvendintų ir su Komisija suderintų investicijų, paslaugų teikėjo mokėtinų mokesčių, kitų nuo paslaugos teikėjo nepriklausančių veiksnių, turinčių įtakos viršutinių kainų ribų skaičiavimui, prognozės ar duomenys, kuriais vadovaujantis buvo nustatytos šios viršutinės kainų ribos arba buvo viršytas Komisijos nustatytas normatyvinis pelnas. 
+4. Komisijos nustatytos viršutinės perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų ribos perskaičiuojamos kas metai, jeigu pasikeitė parduotos ar persiųstos elektros energijos kiekio, nustatytų elektros energijos persiuntimo patikimumo ir paslaugų kokybės rodiklių, metinio infliacijos dydžio, Komisijos nustatyto veiklos efektyvumo, įmonių įgyvendintų ir su Komisija suderintų investicijų, paslaugų teikėjo mokėtinų mokesčių, kitų nuo paslaugos teikėjo nepriklausančių veiksnių, turinčių įtakos viršutinių kainų ribų skaičiavimui, prognozės ar duomenys, kuriais vadovaujantis buvo nustatytos šios viršutinės kainų ribos arba buvo viršytas Komisijos nustatytas normatyvinis pelnas. 
 Straipsnio dalies pakeitimai:
 Nr. XI-198, 2009-03-19, Žin., 2009, Nr. 38-1437 (2009-04-04), i. k. 1091010ISTA00XI-198
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
  
 
 
 
 
-6. Viršutinė perdavimo paslaugos kainos riba turi būti nustatyta ar perskaičiuota ne vėliau kaip likus trims mėnesiams, viršutinės skirstymo, visuomeninio tiekimo paslaugų ir visuomeninės elektros energijos kainų ribos – ne vėliau kaip likus dviem mėnesiams iki reguliavimo periodo arba atitinkamų reguliavimo periodo metų pradžios.
+5. Viršutinė perdavimo paslaugos kainos riba turi būti nustatyta ar perskaičiuota ne vėliau kaip likus 3 mėnesiams, viršutinės skirstymo ir visuomeninio tiekimo paslaugų kainų ribos – ne vėliau kaip likus 2 mėnesiams iki reguliavimo periodo arba atitinkamų reguliavimo periodo metų pradžios. 
+Straipsnio dalies pakeitimai:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
  
 
 
@@ -2072,45 +2257,71 @@ Nr. XI-198, 2009-03-19, Žin., 2009, Nr. 38-1437 (2009-04-04), i. k. 1091010ISTA
 44 straipsnis. Perdavimo, skirstymo, visuomeninio tiekimo paslaugų ir visuomeninės elektros energijos kainų ir tarifų nustatymas
 
 
-1. Komisijai nustačius viršutines kainų ribas, konkrečias perdavimo, skirstymo, visuomeninio tiekimo paslaugų ir visuomeninės elektros energijos kainas ir tarifus nustato ir keičia paslaugų teikėjai. Paslaugų teikėjo nustatytų kainų ir tarifų svertinis vidurkis kiekvienais reguliavimo periodo metais neturi viršyti atitinkamų viršutinių kainų ribų.
-
-
-
-
-2. Perdavimo paslaugos kaina, išskyrus viešuosius interesus atitinkančių paslaugų kainos dalį, gali būti diferencijuojama į elektros energijos ir galios dedamąsias. 
-
-
-
-
-3. Persiuntimo paslaugos kaina ir visuomeninė elektros energijos kaina gali būti diferencijuojamos į elektros energijos ir galios dedamąsias bei tarifų rūšis pagal vartotojų kategorijas ar grupes, elektros energijos vartojimo laiką, sunaudotos elektros energijos kiekį, nustatytą galią, taip pat pagal kitus paslaugos teikėjo pasirinktus objektyvius požymius, kurie sudarytų galimybę nustatant skirtingas tarifų rūšis siekti didesnio veiklos efektyvumo. Nustatant ir diferencijuojant kainas ir tarifus, draudžiama diskriminuoti vartotojus. Visuomeninė elektros energijos kaina buitiniams vartotojams į elektros energijos ir galios dedamąsias nediferencijuojama. Žemės ūkio veiklos subjektams, kurių metinės pajamos iš žemės ūkio veiklos sudaro daugiau kaip 50 procentų visų gautų pajamų ir kurių žemės ūkio valdos įregistruotos Lietuvos Respublikos žemės ūkio ir kaimo verslo registre, kurių ekonominis dydis pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus už praėjusių metų mokestinį laikotarpį nuo sausio 1 dienos iki gruodžio 31 dienos yra lygus 14 europinio dydžio vienetų arba mažesnis, nustatomų vadovaujantis 2008 m. gruodžio 8 d. Komisijos reglamentu (EB) Nr. 1242/2008, kuriuo nustatoma Bendrijos žemės ūkio valdų tipologija (OL 2008 L 335, p. 3), taikomos tokios pat elektros energijos kainos ir tarifai kaip ir buitiniams vartotojams. 
+1. Komisijai nustačius viršutines kainų ribas, konkrečias perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainas ir tarifus nustato ir keičia paslaugų teikėjai. Paslaugų teikėjo nustatytų kainų ir tarifų svertinis vidurkis kiekvienais reguliavimo periodo metais neturi viršyti atitinkamų viršutinių kainų ribų. 
 Straipsnio dalies pakeitimai:
-Nr. XI-345, 2009-07-15, Žin., 2009, Nr. 91-3912 (2009-07-31), i. k. 1091010ISTA00XI-345
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
  
 
 
 
 
-4. Paslaugos teikėjo nustatytas kainas ir tarifus per 30 kalendorinių dienų nuo paslaugos teikėjo prašymo gavimo dienos skelbia Komisija, prieš tai patikrinusi, ar nustatant kainas ir tarifus nebuvo pažeisti kainų ir tarifų nustatymo reikalavimai, ar nediskriminuojami vartotojai. Komisija, nustačiusi, kad paslaugos teikėjo pateiktos paslaugų kainos ir tarifai nustatyti nesilaikant kainų ir tarifų nustatymo reikalavimų arba yra diskriminuojami vartotojai, nurodo paslaugų teikėjui klaidas, kurias paslaugų teikėjas turi ištaisyti ir ne vėliau kaip per 10 kalendorinių dienų nuo Komisijos pastabų gavimo pateikti Komisijai pataisytas paslaugų kainas ir tarifus. Komisija ne vėliau kaip per 30 kalendorinių dienų nuo pataisytų paslaugų kainų ir tarifų pateikimo juos paskelbia arba, paslaugų teikėjui per nustatytą terminą neištaisius nurodytų klaidų, paslaugų kainas ir tarifus nustato vienašališkai ir juos paskelbia. 
+2. Visuomeninę elektros energijos kainą ir tarifus nustato visuomeniniai tiekėjai pusei kalendorinių metų. Visuomeninę elektros energijos kainą sudaro Komisijos prognozuojamos elektros energijos įsigijimo kainos, kurią moka visuomeninis tiekėjas, Komisijos paskelbtos perdavimo paslaugos, viešuosius interesus atitinkančių paslaugų, skirstymo paslaugos, visuomeninio tiekimo paslaugos kainų ir ankstesnio laikotarpio prognozuotų ir faktinių elektros energijos įsigijimo kainos, kurią faktiškai mokėjo visuomeninis tiekėjas, skirtumo, suma. Visuomeninių tiekėjų nustatytas visuomenines elektros energijos kainas ir tarifus tikrina Komisija šio straipsnio 5 dalyje nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
+
+
+
+
+3. Perdavimo paslaugos kaina, išskyrus viešuosius interesus atitinkančių paslaugų kainos dalį, gali būti diferencijuojama į elektros energijos ir galios dedamąsias. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
+
+
+
+
+4. Persiuntimo paslaugos kaina ir visuomeninė elektros energijos kaina gali būti diferencijuojamos į elektros energijos ir galios dedamąsias bei tarifų rūšis pagal vartotojų kategorijas ar grupes, elektros energijos vartojimo laiką, sunaudotos elektros energijos kiekį, nustatytą galią, taip pat pagal kitus paslaugos teikėjo pasirinktus objektyvius požymius, kurie sudarytų galimybę nustatant skirtingas tarifų rūšis siekti didesnio veiklos efektyvumo. Nustatant ir diferencijuojant kainas ir tarifus, draudžiama diskriminuoti vartotojus. Visuomeninė elektros energijos kaina buitiniams vartotojams į elektros energijos ir galios dedamąsias nediferencijuojama. Žemės ūkio veiklos subjektams, kurių metinės pajamos iš žemės ūkio veiklos sudaro daugiau kaip 50 procentų visų gautų pajamų ir kurių žemės ūkio valdos įregistruotos Lietuvos Respublikos žemės ūkio ir kaimo verslo registre, kurių ekonominis dydis pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus už praėjusių metų mokestinį laikotarpį nuo sausio 1 dienos iki gruodžio 31 dienos yra lygus 14 europinio dydžio vienetų arba mažesnis, nustatomų vadovaujantis 2008 m. gruodžio 8 d. Komisijos reglamentu (EB) Nr. 1242/2008, kuriuo nustatoma Bendrijos žemės ūkio valdų tipologija (OL 2008 L 335, p. 3), taikomos tokios pat elektros energijos kainos ir tarifai kaip ir buitiniams vartotojams. 
+Straipsnio dalies pakeitimai:
+Nr. XI-345, 2009-07-15, Žin., 2009, Nr. 91-3912 (2009-07-31), i. k. 1091010ISTA00XI-345
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
+
+
+
+
+5. Paslaugos teikėjo nustatytas kainas ir tarifus per 30 kalendorinių dienų nuo paslaugos teikėjo prašymo gavimo dienos skelbia Komisija, prieš tai patikrinusi, ar nustatant kainas ir tarifus nebuvo pažeisti kainų ir tarifų nustatymo reikalavimai, ar nediskriminuojami vartotojai. Komisija, nustačiusi, kad paslaugos teikėjo pateiktos paslaugų kainos ir tarifai nustatyti nesilaikant kainų ir tarifų nustatymo reikalavimų arba yra diskriminuojami vartotojai, nurodo paslaugų teikėjui klaidas, kurias paslaugų teikėjas turi ištaisyti ir ne vėliau kaip per 10 kalendorinių dienų nuo Komisijos pastabų gavimo pateikti Komisijai pataisytas paslaugų kainas ir tarifus. Komisija ne vėliau kaip per 30 kalendorinių dienų nuo pataisytų paslaugų kainų ir tarifų pateikimo juos paskelbia arba, paslaugų teikėjui per nustatytą terminą neištaisius nurodytų klaidų, paslaugų kainas ir tarifus nustato vienašališkai ir juos paskelbia. 
 Straipsnio dalies pakeitimai:
 Nr. XI-198, 2009-03-19, Žin., 2009, Nr. 38-1437 (2009-04-04), i. k. 1091010ISTA00XI-198
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
  
 
 
 
 
-5. Gamintojų, kurių parduodamos elektros energijos ir rezervinės galios kainos yra reguliuojamos, elektros energijos pardavimo kaina ir perdavimo sistemos operatoriaus perdavimo paslaugos kainos ir tarifai įsigalioja praėjus dviem mėnesiams nuo jų paskelbimo. Skirstomųjų tinklų operatoriaus skirstymo paslaugos kainos bei tarifai ir visuomeninės elektros energijos kainos bei tarifai įsigalioja praėjus mėnesiui nuo jų paskelbimo.
+6. Gamintojų, kurių parduodamos elektros energijos ir rezervinės galios kainos yra reguliuojamos, elektros energijos pardavimo kaina ir perdavimo sistemos operatoriaus perdavimo paslaugos kainos ir tarifai įsigalioja praėjus dviem mėnesiams nuo jų paskelbimo. Skirstomųjų tinklų operatoriaus skirstymo paslaugos kainos bei tarifai ir visuomeninės elektros energijos kainos bei tarifai įsigalioja praėjus mėnesiui nuo jų paskelbimo.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-6. Pasibaigus kiekvieniems reguliavimo periodo metams, Komisija kontroliuoja, ar paslaugos teikėjo nustatytų kainų ir tarifų metinis svertinis vidurkis neviršijo viršutinių kainų ribų. Nustačiusi, kad paslaugos teikėjo nustatytų kainų ir tarifų svertinis vidurkis per praėjusius reguliavimo periodo metus viršijo atitinkamą nustatytą viršutinę kainos ribą, Komisija turi teisę įpareigoti paslaugos teikėją nustatyti atitinkamai mažesnes kainas ir tarifus.
+7. Pasibaigus kiekvieniems reguliavimo periodo metams, Komisija kontroliuoja, ar paslaugos teikėjo nustatytų kainų ir tarifų metinis svertinis vidurkis neviršijo viršutinių kainų ribų. Nustačiusi, kad paslaugos teikėjo nustatytų kainų ir tarifų svertinis vidurkis per praėjusius reguliavimo periodo metus viršijo atitinkamą nustatytą viršutinę kainos ribą, Komisija turi teisę įpareigoti paslaugos teikėją nustatyti atitinkamai mažesnes kainas ir tarifus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
+ 
 
 
 
 
-7. Žemės ūkio veiklos subjektams, kurių metinės pajamos iš žemės ūkio veiklos sudaro daugiau kaip 50 procentų visų gautų pajamų ir kurių žemės ūkio valdos įregistruotos Lietuvos Respublikos žemės ūkio ir kaimo verslo registre, kurių ekonominis dydis pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus už praėjusių metų mokestinį laikotarpį nuo sausio 1 dienos iki gruodžio 31 dienos yra didesnis negu 14 europinio dydžio vienetų, nustatomų vadovaujantis 2008 m. gruodžio 8 d. Komisijos reglamentu (EB) Nr. 1242/2008, kuriuo nustatoma Bendrijos žemės ūkio valdų tipologija OL 2008 L 335, p. 3), ir pripažintoms žemės ūkio kooperatinėms bendrovėms (kooperatyvams), gaunančioms (gaunantiems) elektros energiją iš žemosios įtampos elektros tinklų, atitinkamo tarifo galios dedamoji taikoma tik rugpjūčio, rugsėjo ir spalio mėnesiais. 
+8. Žemės ūkio veiklos subjektams, kurių metinės pajamos iš žemės ūkio veiklos sudaro daugiau kaip 50 procentų visų gautų pajamų ir kurių žemės ūkio valdos įregistruotos Lietuvos Respublikos žemės ūkio ir kaimo verslo registre, kurių ekonominis dydis pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus už praėjusių metų mokestinį laikotarpį nuo sausio 1 dienos iki gruodžio 31 dienos yra didesnis negu 14 europinio dydžio vienetų, nustatomų vadovaujantis 2008 m. gruodžio 8 d. Komisijos reglamentu (EB) Nr. 1242/2008, kuriuo nustatoma Bendrijos žemės ūkio valdų tipologija OL 2008 L 335, p. 3), ir pripažintoms žemės ūkio kooperatinėms bendrovėms (kooperatyvams), gaunančioms (gaunantiems) elektros energiją iš žemosios įtampos elektros tinklų, atitinkamo tarifo galios dedamoji taikoma tik rugpjūčio, rugsėjo ir spalio mėnesiais. 
 Papildyta straipsnio dalimi:
 Nr. XI-345, 2009-07-15, Žin., 2009, Nr. 91-3912 (2009-07-31), i. k. 1091010ISTA00XI-345
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
  
 
 
@@ -2151,7 +2362,9 @@ Nr. XI-345, 2009-07-15, Žin., 2009, Nr. 91-3912 (2009-07-31), i. k. 1091010ISTA
 
 
 
-7. Leidimas tiesti tiesioginę liniją gali būti keičiamas, jo galiojimas gali būti sustabdytas ar panaikintas Leidimų veiklai elektros energetikos sektoriuje išdavimo taisyklėse nustatyta tvarka.
+7. Leidimas tiesti tiesioginę liniją gali būti keičiamas, jo galiojimas gali būti sustabdytas ar panaikintas Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
  
 
 
