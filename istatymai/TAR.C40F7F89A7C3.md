@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C40F7F89A7C3"
 
 # Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymas
 
-Suvestinė redakcija nuo 2008-09-01 iki 2009-12-31
+Suvestinė redakcija nuo 2010-01-01 iki 2011-09-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 46-1116, i. k. 0961010ISTA00I-1324
  
@@ -77,9 +77,10 @@ Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010IS
 
 
 
-6. Įgaliota įrenginių techninės būklės tikrinimo įstaiga (toliau – įgaliota įstaiga) – pagal Viešųjų įstaigų įstatymą veikianti akredituota viešoji įstaiga, kuriai valstybės institucija suteikė įgaliojimus tikrinti įrenginių techninę būklę ir į kurios kolegialų valdymo organą (tarybą ar (ir) valdybą) įeina viešosios įstaigos dalininkai (savininkas), valstybės institucijos, suteikusios įgaliojimus tikrinti įrenginių techninę būklę, bei įrenginių savininkų atstovas (atstovai). 
+6. Įgaliota įrenginių techninės būklės tikrinimo įstaiga (toliau – įgaliota įstaiga) – Lietuvos Respublikoje įsteigtas juridinis asmuo, bet kurioje Europos Sąjungos valstybėje narėje ar valstybėje, pasirašiusioje Europos ekonominės erdvės susitarimą, (toliau – valstybėje narėje) įsteigtas juridinis asmuo ar kita organizacija, ar jų filialai, įsteigti Lietuvos Respublikoje ar valstybėje narėje, akredituoti kaip kontrolės įstaigos, kurioms valstybės institucija suteikė įgaliojimus tikrinti įrenginių techninę būklę. 
 Straipsnio dalies pakeitimai:
 Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
+Nr. XI-591, 2009-12-21, Žin., 2009, Nr. 159-7201 (2009-12-31), i. k. 1091010ISTA00XI-591
  
 
 
@@ -93,7 +94,10 @@ Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010IS
 
 
 
-8. Įrenginių naudojimo ir priežiūros teisės norminiai aktai (toliau – įrenginių priežiūros norminiai aktai) – nustatyta tvarka priimti, patvirtinti ir paskelbti teisės aktai (įstatymai, Seimo, Vyriausybės nutarimai, ministro (ministrų) įsakymais patvirtintos įrenginių priežiūros taisyklės, techniniai reglamentai, socialinės apsaugos ir darbo ministro įsakymu patvirtinti darbo įrenginių naudojimo bendrieji nuostatai, vyriausiojo valstybinio darbo inspektoriaus patvirtintos darbų saugos taisyklės ir tipinės instrukcijos), nustatantys įrenginių priežiūros tvarką. 
+8. Įrenginių naudojimo ir priežiūros teisės norminiai aktai (toliau – įrenginių priežiūros norminiai aktai) – nustatyta tvarka priimti, patvirtinti ir paskelbti teisės aktai (įstatymai, Seimo, Vyriausybės nutarimai, ministro (ministrų) įsakymais patvirtintos įrenginių priežiūros taisyklės ir kiti teisės aktai, nustatantys įrenginių naudojimo reikalavimus, jų priežiūros atlikimo terminus, tvarką ir vykdymo kontrolę. 
+Straipsnio dalies pakeitimai:
+Nr. XI-591, 2009-12-21, Žin., 2009, Nr. 159-7201 (2009-12-31), i. k. 1091010ISTA00XI-591
+ 
 
 
 
@@ -223,12 +227,18 @@ Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010IS
 
 
 
-4) nustato įgaliojimų tikrinti įrenginių techninę būklę suteikimo viešosioms įstaigoms tvarką;
+4) nustato įgaliojimų tikrinti įrenginių techninę būklę suteikimo akredituotoms kontrolės įstaigoms tvarką; 
+Straipsnio punkto pakeitimai:
+Nr. XI-591, 2009-12-21, Žin., 2009, Nr. 159-7201 (2009-12-31), i. k. 1091010ISTA00XI-591
+ 
 
 
 
 
-5) nustato įgaliotų įstaigų kolegialių valdymo organų, nurodytų šio įstatymo 2 straipsnio 6 dalyje, sudarymo tvarką;
+5) Neteko galios nuo 2010-01-01
+Straipsnio punkto naikinimas:
+Nr. XI-591, 2009-12-21, Žin. 2009, Nr. 159-7201 (2009-12-31), i. k. 1091010ISTA00XI-591
+ 
 
 
 
@@ -269,7 +279,10 @@ Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010IS
 Valstybės institucijos, atsakingos už atskirų kategorijų įrenginių priežiūros organizavimą:
 
 
-1) Vyriausybės nustatyta tvarka suteikia viešosioms įstaigoms įgaliojimus tikrinti atskirų kategorijų įrenginių techninę būklę arba juos panaikina;
+1) Vyriausybės nustatyta tvarka suteikia akredituotoms kontrolės įstaigoms įgaliojimus tikrinti atskirų kategorijų įrenginių techninę būklę arba juos panaikina; 
+Straipsnio punkto pakeitimai:
+Nr. XI-591, 2009-12-21, Žin., 2009, Nr. 159-7201 (2009-12-31), i. k. 1091010ISTA00XI-591
+ 
 
 
 
@@ -299,6 +312,119 @@ Nr. X-1699, 2008-07-14, Žin. 2008, Nr. 87-3459 (2008-07-31), i. k. 1081010ISTA0
 
 Straipsnio pakeitimai:
 Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
+ 
+
+
+
+
+51 straipsnis. Įgaliojimų suteikimas akredituotoms kontrolės įstaigoms
+
+
+1. Akredituota kontrolės įstaiga, siekianti tapti įgaliota įstaiga, turi atitikti šiuos pagrindinius reikalavimus:
+
+
+1) privalo būti akredituota kaip A tipo kontrolės įstaiga pagal tarptautinį standartą LST EN ISO/IEC 17020 „Bendrieji įvairių tipų kontrolės įstaigų veikimo kriterijai“;
+
+
+
+
+2) įstaigos vadovas, padalinių vadovai ir asmenys, kurie tikrins įrenginių techninę būklę, turi būti reikiamos kvalifikacijos ir jų veiklos objektyvumui ir tikrinimo rezultatams negali daryti įtakos jokie išoriniai komerciniai, finansiniai ar kitokie veiksniai; 
+
+
+
+
+3) turėti įrangą, reikalingą įrenginių techninei būklei vertinti;
+
+
+
+
+4) Lietuvos Respublikoje įsteigto juridinio asmens steigimo dokumentuose turi būti nurodyta veikla, susijusi su įrenginių techninės būklės tikrinimu, o valstybėje narėje įsteigtas juridinis asmuo ar kita organizacija, ar jų filialai, įsteigti Lietuvos Respublikoje ar valstybėje narėje, turi teisę atlikti įrenginių techninės būklės tikrinimus, jeigu pateikę atitinkamus dokumentus jie gali įrodyti, kad valstybės narės, kurioje jie yra įsteigti, teisės aktais jiems suteikta tokia teisė.
+
+
+
+
+
+
+2. Akredituota kontrolės įstaiga, siekianti tapti įgaliota įstaiga, valstybės institucijai, atsakingai už atskirų kategorijų įrenginių priežiūros organizavimą, pateikia paraišką (prašymą), nurodydama įrenginių, kurių techninės būklės tikrinimus norima atlikti, grupės (grupių) pavadinimą (pavadinimus). Paraiškoje (prašyme) turi būti nurodytas akredituotos kontrolės įstaigos pavadinimas, teisinė forma, kodas, buveinės adresas, telefono ir fakso numeriai. 
+
+
+
+
+3. Kartu su paraiška (prašymu) akredituota kontrolės įstaiga turi pateikti:
+
+
+1) informaciją apie savo vidinę organizacinę struktūrą;
+
+
+
+
+2) civilinės atsakomybės draudimo sutarties kopiją.
+
+
+
+
+
+
+4. Valstybės institucija, gavusi paraišką (prašymą) suteikti įgaliojimus, per 5 darbo dienas nuo paraiškos (prašymo) gavimo išsiunčia pareiškėjui patvirtinimą, kad paraiška (prašymas) suteikti įgaliojimus yra gauta (gautas). Gavimo patvirtinime nurodomas terminas, per kurį paraiška (prašymas) privalo būti išnagrinėta (išnagrinėtas), ir galimos pareiškėjo teisių gynimo priemonės. 
+
+
+
+
+5. Sprendimą dėl įgaliojimų tikrinti įrenginių techninę būklę suteikimo priima valstybės institucija, įsitikinusi, kad akredituota kontrolės įstaiga atitinka šio straipsnio 1 dalyje nustatytus reikalavimus. 
+
+
+
+
+6. Sprendimas dėl įgaliojimų suteikimo ar motyvuotas atsisakymas juos suteikti turi būti priimtas ne vėliau kaip per 30 dienų nuo paraiškos (prašymo) gavimo. Laikotarpis, per kurį pareiškėjas pateikia trūkstamus duomenis, neįskaitomas į sprendimo priėmimo laikotarpį, tačiau ir tokiu atveju sprendimas turi būti priimtas ne vėliau kaip per 30 dienų nuo visų dokumentų pateikimo. Atsakymo dėl įgaliojimų tikrinti įrenginių techninę būklę nepateikimas nelaikomas įgaliojimų suteikimu. Jeigu įstaiga, siekianti gauti įgaliojimus, prašo pakeisti ar patikslinti pateiktus dokumentus, laikotarpis, per kurį šie dokumentai pakeičiami arba priimamas motyvuotas sprendimas neleisti jų pakeisti, turi būti ne ilgesnis kaip įgaliojimų suteikimo ar atsisakymo juos suteikti laikotarpis.
+
+
+
+
+7. Valstybės institucija, priėmusi sprendimą suteikti akredituotai kontrolės įstaigai įgaliojimus, per 5 darbo dienas nuo sprendimo priėmimo išduoda akredituotai kontrolės įstaigai įgaliojimus ir raštu praneša apie tai Potencialiai pavojingų įrenginių valstybės registro tvarkymo įstaigai.
+
+
+
+
+8. Valstybės institucijos sprendimas dėl įgaliojimų suteikimo akredituotai kontrolės įstaigai skelbiamas „Valstybės žinių“ priede „Informaciniai pranešimai“, nurodant potencialiai pavojingų įrenginių, kurių techninę būklę tikrinti suteikti įgaliojimai, grupių pavadinimus.
+
+
+
+
+9. Įgaliojimus gavusi akredituota kontrolės įstaiga savo veikloje privalo:
+
+
+1) laikytis tarptautinio standarto LST EN ISO/IEC 17020 „Bendrieji įvairių tipų kontrolės įstaigų veikimo kriterijai“ reikalavimų;
+
+
+
+
+2) laikytis šio įstatymo, įrenginių priežiūros norminių aktų ir įrenginių techniniuose dokumentuose nurodytų reikalavimų, užtikrinti laiku ir kokybiškai atliekamą įrenginių techninės būklės tikrinimą, vartotojų apsaugą ir aplinkos apsaugos reikalavimų laikymąsi, nepažeisti sąžiningos konkurencijos, veiklos viešumo ir informavimo principų, atsakingai priimti su įrenginių technine būkle susijusius sprendimus;
+
+
+
+
+3) teikti valstybės institucijoms, atsakingoms už atskirų kategorijų įrenginių priežiūros organizavimą, informaciją apie savo veiklą – kasmet iki kovo 15 dienos pateikti metinę įstaigos veiklos ataskaitą Vyriausybės nustatyta tvarka;
+
+
+
+
+4) pranešti įgaliojimus suteikusiai valstybės institucijai apie teisinės formos, statuso ar kitus pasikeitimus, dėl kurių nebevykdomos įgaliojimų suteikimo sąlygos. 
+
+
+
+
+
+
+10. Įgaliotų įstaigų priežiūrą dėl akreditavimo sąlygų laikymosi atlieka Nacionalinis akreditacijos biuras prie Lietuvos Respublikos aplinkos ministerijos ir apie jos rezultatus informuoja įgaliojimus suteikusią valstybės instituciją.
+
+
+
+
+11. Valstybės institucija, nustačiusi, kad įgaliota įstaiga nesilaiko šio straipsnio 9 dalyje nustatytų reikalavimų, raštu informuoja apie nustatytus pažeidimus, nurodydama, per kokį laikotarpį nustatyti pažeidimai turi būti pašalinti. Jeigu per nustatytą laikotarpį įgaliota įstaiga pažeidimų nepašalina, jos įgaliojimai panaikinami. Valstybės institucijos sprendimas dėl įstaigos įgaliojimų panaikinimo skelbiamas „Valstybės žinių“ priede „Informaciniai pranešimai“ ir raštu pranešama Potencialiai pavojingų įrenginių valstybės registro tvarkymo įstaigai. 
+
+
+Papildyta straipsniu:
+Nr. XI-591, 2009-12-21, Žin., 2009, Nr. 159-7201 (2009-12-31), i. k. 1091010ISTA00XI-591
  
 
 
@@ -550,7 +676,7 @@ Nr. X-1170, 2007-06-07, Žin., 2007, Nr. 69-2721 (2007-06-23), i. k. 1071010ISTA
 101 straipsnis. Nuolatinės įrenginių priežiūros licencijavimas ir atestavimas
 
 
-1. Nuolatinę įrenginių priežiūrą gali vykdyti juridinis asmuo, taip pat užsienio valstybės juridinio asmens filialas (toliau – juridinis asmuo), turintis nuolatinės įrenginių priežiūros licenciją arba turintis atestatą vykdyti energetikos įrenginių eksploatavimą ir apsidraudęs civilinės atsakomybės draudimu.
+1. Nuolatinę įrenginių priežiūrą gali vykdyti Lietuvos Respublikoje įsteigtas juridinis asmuo, valstybėje narėje įsteigtas juridinis asmuo ar kita organizacija, ar jų filialai (toliau – juridinis asmuo), jeigu jie atitinka valstybės narės, kurioje yra įsteigti, teisės aktų reikalavimus, turinti nuolatinės įrenginių priežiūros licenciją arba atestatą vykdyti energetikos įrenginių eksploatavimą ir yra apsidraudę civilinės atsakomybės draudimu.
 
 
 
@@ -560,20 +686,20 @@ Nr. X-1170, 2007-06-07, Žin., 2007, Nr. 69-2721 (2007-06-23), i. k. 1071010ISTA
 
 
 
-3. Vadovaudamasi Vyriausybės patvirtintomis Nuolatinės potencialiai pavojingų įrenginių priežiūros licencijavimo taisyklėmis, licencijas išduoda, sustabdo jų galiojimą, panaikina galiojimo sustabdymą ir panaikina galiojimą, prižiūri ir kontroliuoja, kaip laikomasi licencijuojamos veiklos sąlygų, valstybės institucija, atsakinga už atskirų kategorijų įrenginių priežiūros organizavimą.
+3. Vadovaudamasi Vyriausybės patvirtintomis Nuolatinės potencialiai pavojingų įrenginių priežiūros licencijavimo taisyklėmis, valstybės institucija, atsakinga už atskirų kategorijų įrenginių priežiūros organizavimą, ar kita Vyriausybės įgaliota institucija išduoda licencijas, sustabdo jų galiojimą, panaikina galiojimo sustabdymą ir panaikina galiojimą, prižiūri ir kontroliuoja, kaip laikomasi licencijuojamos veiklos sąlygų.
 
 
 
 
-4. Juridinis asmuo, siekiantis vykdyti nuolatinę įrenginių priežiūrą, privalo atitikti šias licencijavimo sąlygas ir reikalavimus:
+4. Juridinis asmuo, siekiantis vykdyti nuolatinę įrenginių priežiūrą, privalo atitikti šias licencijuojamos veiklos sąlygas ir reikalavimus:
 
 
-1) juridinio asmens steigimo dokumentuose turi būti numatyta juridinio asmens veiklos tikslai – teikti nuolatinės įrenginių priežiūros paslaugas;
+1) Lietuvos Respublikoje įsteigto juridinio asmens steigimo dokumentuose turi būti nurodyta veikla, susijusi su įrenginių nuolatine priežiūra, o valstybėje narėje įsteigtas juridinis asmuo ar kita organizacija, ar jų filialai, įsteigti Lietuvos Respublikoje ar kitoje valstybėje narėje, turi teisę vykdyti įrenginių nuolatinę priežiūrą, jeigu pateikę atitinkamus dokumentus jie gali įrodyti, kad valstybės narės, kurioje jie yra įsteigti, teisės aktais jiems suteikta tokia teisė;
 
 
 
 
-2) darbuotojai turi būti atestuoti pagal atitinkamas potencialiai pavojingų įrenginių priežiūros meistrų ar darbuotojų, valdančių (naudojančių) potencialiai pavojingus įrenginius, mokymo programas ir privalo turėti socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro patvirtintuose Mokymo ir atestavimo darbuotojų saugos ir sveikatos klausimais bendruosiuose nuostatuose nurodytus mokymo programos baigimo ir atestacijos pažymėjimus;
+2) darbuotojai turi būti atestuoti pagal atitinkamas potencialiai pavojingų įrenginių priežiūros meistrų ar darbuotojų, valdančių (naudojančių) potencialiai pavojingus įrenginius, mokymo programas ir privalo turėti socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro patvirtintuose Mokymo ir atestavimo darbuotojų saugos ir sveikatos klausimais bendruosiuose nuostatuose nurodytus mokymo programos baigimo ir atestacijos pažymėjimus. Tais atvejais, kai šie darbuotojai reikiamas žinias ir įgūdžius yra įgiję kitoje valstybėje narėje, jie turi pateikti tai įrodančius dokumentus; 
 
 
 
@@ -583,39 +709,54 @@ Nr. X-1170, 2007-06-07, Žin., 2007, Nr. 69-2721 (2007-06-23), i. k. 1071010ISTA
 
 
 
-4) turėti įrenginių, kuriems siekia licencijos, nuolatinei priežiūrai atlikti reikalingą įrangą, prietaisus bei kitas darbui reikalingas priemones.
+4) turėti įrenginių, kuriems siekia licencijos, nuolatinei priežiūrai atlikti reikalingą įrangą, prietaisus ir kitas darbui reikalingas priemones.
 
 
 
 
 
 
-5. Juridinis asmuo, norintis gauti licenciją, turi pateikti paraišką (prašymą) ir joje nurodyti bendrą informaciją apie pareiškėją, pridėti darbuotojų kvalifikaciją ir darbo patirtį įrodančių dokumentų kopijas, informaciją apie turimą įrangą, prietaisus bei kitas darbui reikalingas priemones, pateikti kitus dokumentus, nurodytus Nuolatinės potencialiai pavojingų įrenginių priežiūros licencijavimo taisyklėse. Paraiškoje (prašyme) nurodoma, kokių įrenginių nuolatinei priežiūrai prašoma licencijos. Už paraiškoje (prašyme) pateiktos informacijos ir kitų duomenų teisingumą atsako pareiškėjas.
+5. Juridinis asmuo, norintis gauti licenciją, turi pateikti paraišką (prašymą) ir joje (jame) nurodyti bendrą informaciją apie pareiškėją, pridėti darbuotojų kvalifikaciją įrodančių dokumentų kopijas, informaciją apie turimą įrangą, prietaisus ir kitas darbui reikalingas priemones. Paraiškoje (prašyme) nurodoma, kokių įrenginių nuolatinei priežiūrai prašoma licencijos. Paraišką (prašymą) ir pridedamus dokumentus galima pateikti ir elektroninėmis priemonėmis. Už paraiškoje (prašyme) pateiktos informacijos ir kitų duomenų teisingumą atsako pareiškėjas.
 
 
 
 
-6. Valstybės institucija, atsakinga už atskirų kategorijų įrenginių priežiūros organizavimą, priima sprendimą išduoti licenciją tik įsitikinusi, kad juridinio asmens pateikti duomenys ir informacija atitinka šio straipsnio 4 dalyje nustatytus reikalavimus.
+6. Valstybės institucija, atsakinga už atskirų kategorijų įrenginių priežiūros organizavimą, ar kita Vyriausybės įgaliota institucija priima sprendimą išduoti licenciją tik įsitikinusi ir patikrinusi, ar juridinio asmens pateikti duomenys ir informacija atitinka šio straipsnio 4 dalyje nustatytus reikalavimus, o prireikus – juos patikrinusi ir juridinio asmens buveinėje. Valstybės institucija, gavusi paraišką (prašymą) išduoti licenciją, per 5 darbo dienas nuo paraiškos (prašymo) gavimo išsiunčia pareiškėjui patvirtinimą, kad paraiška (prašymas) išduoti licenciją yra gauta (gautas). Gavimo patvirtinime nurodomas terminas, per kurį paraiška (prašymas) privalo būti išnagrinėta (išnagrinėtas), ir galimos pareiškėjo teisių gynimo priemonės.
 
 
 
 
-7. Sprendimas dėl licencijos išdavimo ar motyvuotas atsisakymas ją išduoti turi būti pateiktas juridiniam asmeniui ne vėliau kaip per 30 dienų nuo paraiškos (prašymo) gavimo. Laikas, per kurį pareiškėjas pateikia trūkstamus duomenis, neįskaitomas į sprendimo priėmimo laikotarpį, tačiau tokiu atveju sprendimas turi būti priimtas ne vėliau kaip per 45 dienas nuo paraiškos (prašymo) gavimo. Jei licencijos turėtojas prašo pakeisti dokumentus, pateiktus licencijai gauti, laikotarpis, per kurį pakeičiami šie dokumentai arba priimamas motyvuotas sprendimas atsisakyti pakeisti, turi būti ne ilgesnis kaip išduodant ar atsisakant išduoti licenciją.
+7. Sprendimas dėl licencijos išdavimo ar motyvuotas atsisakymas ją išduoti turi būti pateiktas juridiniam asmeniui ne vėliau kaip per 30 dienų nuo paraiškos (prašymo) gavimo. Laikotarpis, per kurį pareiškėjas pateikia trūkstamus duomenis, neįskaitomas į sprendimo priėmimo laikotarpį, tačiau ir tokiu atveju sprendimas turi būti priimtas ne vėliau kaip per 30 dienų nuo visų dokumentų pateikimo. Atsakymo dėl licencijos išdavimo nepateikimas nelaikomas licencijos išdavimu. Jeigu juridinis asmuo prašo pakeisti dokumentus, pateiktus licencijai gauti, laikotarpis, per kurį pakeičiami šie dokumentai arba priimamas motyvuotas sprendimas neleisti jų pakeisti, turi būti ne ilgesnis kaip išduodant ar atsisakant išduoti licenciją.
 
 
 
 
-8. Valstybės institucija, atsakinga už atskirų kategorijų įrenginių priežiūros organizavimą, privalo atskirti licencijų išdavimo ir licencijos sąlygų laikymosi priežiūros funkcijas. Jeigu licencijas išduoda ir licencijuojamos veiklos priežiūrą atlieka tas pats struktūrinis padalinys, šios funkcijos perduodamos atskiriems valstybės tarnautojams, kurie sprendimo dėl licencijos išdavimo priėmimo požiūriu yra nepriklausomi.
+8. Valstybės institucija, atsakinga už atskirų kategorijų įrenginių priežiūros organizavimą, ar kita Vyriausybės įgaliota institucija privalo atskirti licencijų išdavimo ir licencijos sąlygų laikymosi priežiūros funkcijas. Jeigu licencijas išduoda ir licencijuojamos veiklos priežiūrą atlieka tas pats struktūrinis padalinys, šios funkcijos perduodamos atskiriems valstybės tarnautojams. 
 
 
 
 
-9. Nuolatinės įrenginių priežiūros licencija išduodama neterminuotam laikui.
+9. Nuolatinės įrenginių priežiūros licencija išduodama neterminuotam laikui. Už licencijos išdavimą mokama Vyriausybės apskaičiuoto dydžio valstybės rinkliava.
 
 
 
 
-10. Už licencijos išdavimą mokama Vyriausybės nustatyto dydžio valstybės rinkliava.
+10. Licencijos turėtojas privalo laikytis šių licencijuojamos veiklos sąlygų:
+
+
+1) vykdyti šio straipsnio 4 dalyje nustatytas licencijavimo sąlygas ir reikalavimus, laikytis įrenginių priežiūros norminių aktų ir įrenginių techniniuose dokumentuose pateiktų reikalavimų, užtikrinti laiku ir kokybiškai atliekamą prižiūrimų įrenginių remontą, vartotojų apsaugą ir aplinkos apsaugos reikalavimus, nepažeisti sąžiningos konkurencijos, veiklos viešumo ir informavimo principų, atsakingai priimti su licencijuojama veikla susijusius sprendimus;
+
+
+
+
+2) neįgalioti kitų juridinių asmenų vykdyti licencijose nurodytą veiklą ir neperduoti jiems šios teisės pagal sutartį;
+
+
+
+
+3) pranešti licenciją išdavusiai institucijai apie pasikeitusią padėtį, dėl kurios nevykdomos licencijuojamos veiklos sąlygos.
+
+
 
 
 
@@ -633,53 +774,68 @@ Nr. X-1170, 2007-06-07, Žin., 2007, Nr. 69-2721 (2007-06-23), i. k. 1071010ISTA
 
 
 
-3) juridiniam asmeniui buvo panaikintas licencijos galiojimas ir nuo licencijos galiojimo panaikinimo nepraėjo 6 mėnesiai.
+3) juridinio asmens licencijos galiojimas buvo panaikintas ir nuo licencijos galiojimo panaikinimo nepraėjo 6 mėnesiai.
 
 
 
 
 
 
-12. Valstybės institucija, atsakinga už atskirų kategorijų įrenginių priežiūros organizavimą, gali priimti sprendimą sustabdyti licencijos galiojimą arba panaikinti licencijos galiojimą šiais atvejais:
+12. Valstybės institucija, atsakinga už atskirų kategorijų įrenginių priežiūros organizavimą, ar kita Vyriausybės įgaliota institucija gali priimti sprendimą sustabdyti licencijos galiojimą šiais atvejais:
 
 
-1) juridinio asmens prašymu;
-
-
-
-
-2) jeigu paaiškėja, kad juridinis asmuo valstybės institucijai, atsakingai už atskirų kategorijų įrenginių priežiūros organizavimą, pateikė neteisingus ar suklastotus dokumentus;
+1) licencijos turėtojo prašymu;
 
 
 
 
-3) jeigu nustatoma, kad juridinis asmuo nesilaiko šio įstatymo, Nuolatinės potencialiai pavojingų įrenginių priežiūros licencijavimo taisyklių ir (ar) licencijuojamos veiklos sąlygų;
+2) jeigu paaiškėja, kad licencijos turėtojas valstybės institucijai, atsakingai už atskirų kategorijų įrenginių priežiūros organizavimą, ar kitai Vyriausybės įgaliotai institucijai pateikė neteisingus ar suklastotus dokumentus;
 
 
 
 
-4) jeigu juridinis asmuo, kuriam licencijos galiojimas buvo sustabdytas, per nustatytą laiką nepašalina pažeidimų, dėl kurių licencijos galiojimas buvo sustabdytas;
+3) jeigu nustatoma, kad licencijos turėtojas nesilaiko licencijuojamos veiklos sąlygų;
 
 
 
 
-5) kai juridinis asmuo įgyja likviduojamo ar reorganizuojamo juridinio asmens teisinį statusą.
+4) kai licencijos turėtojas įgyja reorganizuojamo juridinio asmens teisinį statusą.
 
 
 
 
 
 
-13. Licencijos galiojimo sustabdymas panaikinamas, kai valstybės institucija, atsakinga už atskirų kategorijų įrenginių priežiūros organizavimą, gavusi juridinio asmens raštišką pranešimą apie pašalintus licencijuojamos veiklos sąlygų pažeidimus, nustato, kad juridinis asmuo iš tikrųjų pašalino nurodytus pažeidimus.
+13. Valstybės institucija, atsakinga už atskirų kategorijų įrenginių priežiūros organizavimą, ar kita Vyriausybės įgaliota institucija gali priimti sprendimą panaikinti licencijos galiojimą šiais atvejais:
+
+
+1) licencijos turėtojo prašymu;
 
 
 
 
-14. Valstybės institucija, atsakinga už atskirų kategorijų įrenginių priežiūros organizavimą, apie licencijų išdavimą, galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ar licencijos panaikinimą praneša Juridinių asmenų registrui Juridinių asmenų registro nuostatuose nustatyta tvarka, skelbia „Valstybės žinių“ priede „Informaciniai pranešimai“ ir valstybės institucijos, atsakingos už atskirų kategorijų įrenginių priežiūrą, interneto svetainėje. Valstybės institucija, atsakinga už atskirų kategorijų įrenginių priežiūros organizavimą, panaikinusi ar sustabdžiusi licencijos galiojimą, apie tai nedelsdama, ne vėliau kaip per 3 darbo dienas, raštu praneša juridiniam asmeniui ir nurodo priežastis. Sprendimas dėl licencijos galiojimo sustabdymo ar panaikinimo įsigalioja po 10 darbo dienų nuo jo priėmimo. 
+2) jeigu licencijos turėtojas, kurio licencijos galiojimas buvo sustabdytas, per nustatytą laikotarpį nepašalina pažeidimų, dėl kurių licencijos galiojimas buvo sustabdytas;
 
 
-Papildyta straipsniu:
-Nr. X-1170, 2007-06-07, Žin., 2007, Nr. 69-2721 (2007-06-23), i. k. 1071010ISTA00X-1170
+
+
+3) kai licencijos turėtojas įgyja likviduojamo juridinio asmens teisinį statusą.
+
+
+
+
+
+
+14. Licencijos galiojimo sustabdymas panaikinamas, kai valstybės institucija, atsakinga už atskirų kategorijų įrenginių priežiūros organizavimą, ar kita Vyriausybės įgaliota institucija, gavusi juridinio asmens rašytinį pranešimą apie pašalintus licencijuojamos veiklos sąlygų pažeidimus, nustato, kad juridinis asmuo iš tikrųjų juos pašalino.
+
+
+
+
+15. Valstybės institucija, atsakinga už atskirų kategorijų įrenginių priežiūros organizavimą, ar kita Vyriausybės įgaliota institucija apie licencijų išdavimą, galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ar licencijos panaikinimą praneša Juridinių asmenų registrui Juridinių asmenų registro nuostatuose nustatyta tvarka, skelbia „Valstybės žinių“ priede „Informaciniai pranešimai“ ir valstybės institucijos, atsakingos už atskirų kategorijų įrenginių priežiūrą, ar kitos Vyriausybės įgaliotos institucijos interneto svetainėje. Valstybės institucija, atsakinga už atskirų kategorijų įrenginių priežiūros organizavimą, ar kita Vyriausybės įgaliota institucija, panaikinusi ar sustabdžiusi licencijos galiojimą, apie tai nedelsdama, ne vėliau kaip per 3 darbo dienas, raštu praneša juridiniam asmeniui ir nurodo priežastis. Sprendimas dėl licencijos galiojimo sustabdymo ar panaikinimo įsigalioja praėjus 10 darbo dienų nuo jo priėmimo. 
+
+
+Straipsnio pakeitimai:
+Nr. XI-591, 2009-12-21, Žin., 2009, Nr. 159-7201 (2009-12-31), i. k. 1091010ISTA00XI-591
  
 
 
@@ -742,3 +898,8 @@ Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1699, 2008-07-14, Žin., 2008, Nr. 87-3459 (2008-07-31), i. k. 1081010ISTA00X-1699
 Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo 1, 3, 4, 5 ir 8 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-591, 2009-12-21, Žin., 2009, Nr. 159-7201 (2009-12-31), i. k. 1091010ISTA00XI-591
+Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo 2, 4, 5, 10-1 straipsnių pakeitimo ir įstatymo papildymo 5-1 straipsniu įstatymas
