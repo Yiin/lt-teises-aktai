@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE6CFE9E2EE"
 
 # Lietuvos Respublikos šalpos pensijų įstatymas
 
-Suvestinė redakcija nuo 2008-02-14 iki 2009-12-31
+Suvestinė redakcija nuo 2010-01-01 iki 2011-12-29
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1873, i. k. 0941010ISTA000I-675
  
@@ -865,7 +865,9 @@ Nr. X-1394, 2007-12-20, Žin., 2007, Nr. 138-5649 (2007-12-29), i. k. 1071010IST
 
 
 
-6. Asmens, kuriam buvo paskirta šalpos išmoka, mirties atveju jį laidojusiems fiziniams ar juridiniams asmenims (toliau šioje dalyje – laidoję asmenys) išmokama šalpos išmoka už tą mėnesį, kurį šalpos gavėjas mirė. Laidojusiems asmenims taip pat išmokama iki mirties dienos asmens negauta praėjusio mėnesio šalpos išmoka. Šalpos pensijų, šalpos našlaičių pensijų, šalpos kompensacijų ir socialinių pensijų gavėjų mirties atvejais juos laidojusiems asmenims dar išmokama mirusiajam asmeniui mirties mėnesį priklausiusio atitinkamos pensijos ar šalpos kompensacijos dydžio dviejų mėnesių suma. Kai miręs asmuo laidojamas valstybės ar savivaldybės biudžeto lėšomis, šalpos pensijos, šalpos našlaičių pensijos, šalpos kompensacijos bei socialinės pensijos dydžio dviejų mėnesių suma nemokama. 
+6. Asmens, kuriam buvo paskirta šalpos išmoka, mirties atveju jį laidojusiems fiziniams ar juridiniams asmenims (toliau šioje dalyje – laidoję asmenys) išmokama šalpos išmoka už tą mėnesį, kurį šalpos gavėjas mirė. Laidojusiems asmenims taip pat išmokama iki mirties dienos asmens negauta praėjusio mėnesio šalpos išmoka. Šalpos pensijų, šalpos našlaičių pensijų, šalpos kompensacijų ir socialinių pensijų gavėjų mirties atvejais juos laidojusiems asmenims dar išmokama mirusiajam asmeniui mirties mėnesį priklausiusio atitinkamos pensijos ar šalpos kompensacijos dydžio vieno mėnesio suma. Kai miręs asmuo laidojamas valstybės ar savivaldybės biudžeto lėšomis, šalpos pensijos, šalpos našlaičių pensijos, šalpos kompensacijos ir socialinės pensijos vieno mėnesio dydžio suma nemokama.
+Straipsnio dalies pakeitimai:
+Nr. XI-533, 2009-12-08, Žin., 2009, Nr. 151-6780 (2009-12-22), i. k. 1091010ISTA00XI-533
  
 
 
@@ -1189,3 +1191,8 @@ Lietuvos Respublikos valstybinių šalpos išmokų įstatymo 6 ir 19 straipsnių
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1448, 2008-02-01, Žin., 2008, Nr. 19-676 (2008-02-14), i. k. 1081010ISTA00X-1448
 Lietuvos Respublikos valstybinių šalpos išmokų įstatymo 3, 14 straipsnių papildymo ir pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-533, 2009-12-08, Žin., 2009, Nr. 151-6780 (2009-12-22), i. k. 1091010ISTA00XI-533
+Lietuvos Respublikos valstybinių šalpos išmokų įstatymo 22 straipsnio pakeitimo įstatymas
