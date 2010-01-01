@@ -207,30 +207,20 @@ ir specialiesiems planams rengti;
 4) nustatyta
 tvarka rengia sąlygas apskrities ir savivaldybių teritorijų planavimo
 dokumentams;
-5) nustatyta tvarka organizuoja savivaldybių
-teritorijų planavimo, statinių projektavimo, statybos, statinių
-pripažinimo tinkamais naudoti ir griovimo valstybinės priežiūros
-vykdymą; nustatyta tvarka išduoda statybos leidimus (išskyrus tuos, kurių
-išdavimas įstatymų pavestas savivaldybės administracijos direktoriui);
-5 punktas netenka galios nuo
-2010 m. sausio 1 d.
- 
+5) (neteko galios nuo 2010 m. sausio 1 d.);
 6) nustatyta
 tvarka organizuoja teritorijų planavimo priežiūrą;
-7) koordinuoja savivaldybių
-ir valstybės institucijų veiklą vykdant geodezijos, topografijos, kartografijos
-ir geoinformatikos darbus, nustatyta tvarka organizuoja šių darbų
-valstybinės priežiūros vykdymą;
+7) koordinuoja
+savivaldybių ir valstybės institucijų veiklą vykdant geodezijos, topografijos,
+kartografijos ir geoinformatikos darbus, nustatyta tvarka organizuoja šių
+darbų valstybinės priežiūros vykdymą;
 8) atlieka
 kultūros vertybių ir paminklų apsaugą, tvarko jų apskaitą ir organizuoja
 paminklotvarkos priežiūrą;
 9) atlieka apskričiai priskirtų objektų statybos
 užsakovo funkcijas;
-10) atlieka
-ypatingų statinių, taip pat valstybinės reikšmės ir rizikos objektuose esančių
-statinių naudojimo priežiūrą Statybos įstatymo nustatyta tvarka.
-10 punktas netenka galios nuo
-2010 m. sausio 1 d.
+10) (neteko galios
+nuo 2010 m. sausio 1 d.).
 Straipsnio pakeitimai:
 Nr. VIII-33,
 96.12.12, Žin., 1996, Nr.126-2938 (96.12.31)
@@ -278,15 +268,15 @@ kitaip perleidžia privačion nuosavybėn valstybinę žemę, išskyrus
 privatizuojamiems nekilnojamojo turto objektams ir valstybės nekilnojamajam
 turtui, kuris teisės aktų nustatyta tvarka įtrauktas į Vyriausybės patvirtintą
 atnaujinamo valstybės nekilnojamojo turto sąrašą ir perduotas Valstybės ir
-savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme nustatytam
-valstybės nekilnojamojo turto atnaujinimo organizatoriui patikėjimo teise,
-priskirtus žemės sklypus; atstovauja valstybei paveldint žemę pagal įstatymus
-ar testamentą ir perleidžiant privačią žemę valstybės nuosavybėn, išskyrus
+savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme nustatytam valstybės
+nekilnojamojo turto atnaujinimo organizatoriui patikėjimo teise, priskirtus
+žemės sklypus; atstovauja valstybei paveldint žemę pagal įstatymus ar
+testamentą ir perleidžiant privačią žemę valstybės nuosavybėn, išskyrus
 atvejus, kai Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo
 juo įstatyme nustatytas valstybės nekilnojamojo turto atnaujinimo
 organizatorius veikia valstybės vardu įsigyjant privačią žemę valstybės
-nuosavybėn, kai privati žemė įsigyjama valstybės nekilnojamojo turto
-atnaujinimo tikslais;
+nuosavybėn, kai privati žemė įsigyjama valstybės nekilnojamojo turto atnaujinimo
+tikslais;
 9) sprendžia
 žemės paėmimo visuomenės poreikiams ir pagrindinės tikslinės žemės naudojimo
 paskirties keitimo klausimus.
@@ -326,9 +316,9 @@ teritorijose ir dalyvauja valdant kitas valstybės saugomas teritorijas
 išteklių naudojimo limitams nustatyti; 
 3) rengia apskrities aplinkos apsaugos valstybines
 programas, investicijų projektus, organizuoja, koordinuoja jų įgyvendinimą; 
-4) pagal savo kompetenciją organizuoja vandens
-telkinių apsaugos zonų ir pakrantės apsaugos juostų tvarkymą bei vandens
-telkinių valdymą; 
+4) pagal savo kompetenciją organizuoja vandens telkinių
+apsaugos zonų ir pakrantės apsaugos juostų tvarkymą bei vandens telkinių
+valdymą; 
 5) pagal savo kompetenciją atlieka valstybinę miškų
 būklės, naudojimo, atkūrimo ir apsaugos kontrolę; 
 6) organizuoja ekologinį švietimą.
@@ -359,9 +349,8 @@ teritorijoje esančioje miesto ar kaimo gyvenamojoje vietovėje, įstatus;
 saugaus eismo priemonių valstybinių programų įgyvendinimą visoje apskrities
 teritorijoje;
 5) (neteko galios);
-6) organizuoja
-stichinių nelaimių, avarijų padarinių likvidavimą, paieškos ir gelbėjimo
-darbus;
+6) (neteko
+galios nuo 2010 m. sausio 1 d.);
 7) steigia,
 reorganizuoja, likviduoja valstybės įmones, valdo apskričių viršininkams
 perduotų įmonių valstybei priklausančias akcijas;
@@ -374,9 +363,8 @@ komisijos narių kandidatūras, tarp jų - ir pirmininko kandidatūrą;
 10) Regioninės
 plėtros įstatymo nustatyta tvarka vykdo regionų plėtros institucijos funkcijas;
 11) kartu su
-savivaldybėmis organizuoja apskrities informacinės visuomenės plėtros
-programos, kurią tvirtina regiono plėtros taryba, rengimą ir koordinuoja jos
-įgyvendinimą.
+savivaldybėmis organizuoja apskrities informacinės visuomenės plėtros programos,
+kurią tvirtina regiono plėtros taryba, rengimą ir koordinuoja jos įgyvendinimą.
             Apskrities
 viršininkas atlieka ir kitus Lietuvos Respublikos įstatymuose ir Vyriausybės
 nutarimuose numatytus įgaliojimus.
@@ -398,6 +386,8 @@ Nr. IX-681,
 Nr.
 IX-1413,
 2003-04-01, Žin., 2003, Nr. 38-1659 (2003-04-24)
+Nr. XI-636,
+2009-12-22, Žin., 2009, Nr. 159-7210 (2009-12-31)
  
             13 straipsnis. Apskrities viršininko
 teisės
@@ -447,8 +437,8 @@ Nr. VIII-896,
 98.10.15, Žin., 1998, Nr.96-2655 (98.11.04)
 Nr. VIII-2055, 2000 10 17, Žin., 2000, Nr.
 92-2886 (2000 10 31)
-Nr. IX-619,
-2001-11-27, Žin., 2001, Nr. 104-3702 (2001-12-12)
+Nr. IX-619, 2001-11-27,
+Žin., 2001, Nr. 104-3702 (2001-12-12)
  
             14 straipsnis. Neteko galios.
 Įstatymas papildytas
@@ -499,9 +489,10 @@ viršininkui apie savo veiklą apskrityje.
 viršininkas praneša atitinkamai Lietuvos Respublikos Seimui ar Vyriausybei apie
 valstybės valdymo institucijų padalinių apskrityje veiklą ir sprendimus, jei
 jie neatitinka Lietuvos Respublikos įstatymų, Vyriausybės nutarimų arba
-pažeidžia piliečių ar organizacijų teises. Jei ginčijamo sprendimo nepanaikina ar
-nepakeičia jį priėmęs valstybės valdymo institucijos padalinys ar aukštesnioji
-valstybės valdymo institucija, galutinį sprendimą priima Vyriausybė.
+pažeidžia piliečių ar organizacijų teises. Jei ginčijamo sprendimo nepanaikina
+ar nepakeičia jį priėmęs valstybės valdymo institucijos padalinys ar
+aukštesnioji valstybės valdymo institucija, galutinį sprendimą priima
+Vyriausybė.
 Straipsnio žymėjimas
 pakeistas:
 Nr. VIII-33,
@@ -749,8 +740,8 @@ GALIOS ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-2055, 2000 10 17, Žin., 2000, Nr.
 92-2886 (2000 10 31)
-APSKRITIES VALDYMO ĮSTATYMO 5, 10, 12, 13, 16, 17, 19, 20 STRAIPSNIŲ PAKEITIMO
-IR PAPILDYMO ĮSTATYMAS
+APSKRITIES VALDYMO ĮSTATYMO 5, 10, 12, 13, 16, 17, 19, 20 STRAIPSNIŲ
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 14.
 Lietuvos
@@ -839,8 +830,8 @@ X-495,
 2006-01-19, Žin., 2006, Nr. 17-591 (2006-02-11)
 APSKRITIES
 VALDYMO ĮSTATYMO 7, 20 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-Šio įstatymo 1 straipsnis įsigalioja
-nuo 2006 m. liepos 1 d.
+Šio įstatymo 1 straipsnis
+įsigalioja nuo 2006 m. liepos 1 d.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-688, 2006-06-13,
 Žin., 2006, Nr. 73-2757 (2006-06-30)
@@ -867,8 +858,20 @@ APSKRITIES VALDYMO ĮSTATYMO 9
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2010 m. sausio 1 d.
  
+25.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. XI-636,
+2009-12-22, Žin., 2009, Nr. 159-7210 (2009-12-31)
+APSKRITIES VALDYMO ĮSTATYMO 12
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja 2010 m.
+sausio 1 d. ir galioja iki 2010 m. birželio 30 d.
+ 
 *** Pabaiga ***
+ 
+ 
 Redagavo Aušrinė Trapinskienė
-(2009-12-07)
+(2010-01-05)
                   autrap@lrs.lt
 
