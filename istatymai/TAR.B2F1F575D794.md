@@ -65,8 +65,8 @@ vizas nagrinėjimą);
 laiko pratęsimą; 
 4) dokumentų dėl Lietuvos Respublikos pilietybės ir
 dėl teisės į Lietuvos Respublikos pilietybę išsaugojimo priėmimą ir perdavimą;
-5) dokumentų dėl paso išdavimo ir keitimo priėmimą ir
-perdavimą;
+5) paso išdavimą, keitimą arba dokumentų dėl paso
+išdavimo ir keitimo priėmimą ir perdavimą;
 6) dokumentų dėl leidimo gyventi Lietuvos Respublikoje
 išdavimo priėmimą ir perdavimą;
 7) dokumentų legalizavimą ir tvirtinimą pažyma (Apostille);
@@ -85,6 +85,9 @@ Lietuvos Respublikos užsienio reikalų ministerijos ar konsulinių įstaigų
 sąskaitomis pervedimą, jei to reikia konsulinei pagalbai suteikti ir
 nukentėjusiam asmeniui dėl svarbių priežasčių negalima pervesti pinigų kitais
 būdais.
+Straipsnio pakeitimas:
+Nr. XI-468,
+2009-11-12, Žin., 2009, Nr. 141-6191 (2009-11-28)
  
 4 straipsnis. Mokesčio dydis
 1. Konsulinis mokestis yra ne mažesnis kaip 2 eurai ir ne didesnis kaip
@@ -93,8 +96,8 @@ būdais.
 kurias patiria Lietuvos Respublikos valstybės ir savivaldybių institucijos ar
 įstaigos vykdydamos konsulinių įstaigų prašymus dėl su konsulinių veiksmų atlikimu susijusių paslaugų
 teikimo;
-2) išlaidas darbui, susijusiam su
-konsulinių įstaigų atliekamais konsuliniais veiksmais, apmokėti;
+2) išlaidas darbui, susijusiam su konsulinių
+įstaigų atliekamais konsuliniais veiksmais, apmokėti;
 3) Europos Sąjungos teisės aktų
 reikalavimus;
 4) išlaidas teisės aktų nustatytų
@@ -116,8 +119,8 @@ legalizavimą užsienio valstybių juridiniams ir fiziniams asmenims,
 atsižvelgdama į tai, kokio dydžio mokestį šios valstybės ima iš Lietuvos
 Respublikos juridinių ir fizinių asmenų. 
  
-6 straipsnis. Mokesčio
-lengvatos
+6 straipsnis. Mokesčio lengvatos
+1.
 Konsulinis mokestis neimamas už:
 1) leidimo parvežti mirusiojo palaikus į Lietuvą
 išdavimą;
@@ -127,10 +130,10 @@ legalizavimą, konsulinių pažymų išdavimą, civilinės būklės aktų įregi
 ir dokumentų išdavimą, atliekamus notarinius veiksmus, dokumentų pareikalavimą
 iš Lietuvos Respublikos ar buvimo valstybių institucijų, pinigų pasinaudojant
 Lietuvos Respublikos užsienio reikalų ministerijos ar konsulinių įstaigų
-sąskaitomis pervedimą) asmenims, kurie dėl svarbių priežasčių (nelaimingas
-atsitikimas, liga, nukentėjimas nuo nusikalstamos veikos) negali sumokėti
+sąskaitomis pervedimą) asmenims, kurie dėl svarbių priežasčių (nelaimingo
+atsitikimo, ligos, nukentėjimo nuo nusikalstamos veikos) negali sumokėti
 konsulinio mokesčio ir pateikia šių svarbių priežasčių buvimo faktą
-patvirtinantį dokumentą; 
+patvirtinantį dokumentą;
 3) asmens grįžimo pažymėjimo išdavimą ar kitus
 atliekamus konsulinius veiksmus, kurių reikia užsienio valstybėje likusiems be
 tėvų globos vaikams, kuriems buvo išduotas Lietuvos Respublikos pilietybę
@@ -146,7 +149,7 @@ piliečių šeimos nariams nagrinėjimą;
 nagrinėjimą;
 6) prašymų išduoti vizas mokiniams, studentams ir juos
 lydintiems mokytojams ar dėstytojams, keliaujantiems mokymosi ar švietimo
-tikslais, pateikusiems tai patvirtinančius dokumentus, nagrinėjimą; 
+tikslais, pateikusiems tai patvirtinančius dokumentus, nagrinėjimą;
 7) prašymų išduoti vizas tyrėjams, keliaujantiems
 Europos Sąjungoje ir Europos laisvosios prekybos asociacijos valstybėse narėse
 mokslinių tyrimų vykdymo tikslais, pateikusiems tai patvirtinančius dokumentus,
@@ -167,7 +170,7 @@ teritorijoje, pateikusiems tai patvirtinančius dokumentus, nagrinėjimą;
 11) prašymų išduoti vizas lietuvių kilmės asmenims,
 pateikusiems tai patvirtinančius dokumentus arba Lietuvos Respublikos užsienio
 reikalų ministro patvirtinta tvarka konsulinės įstaigos išduotą lietuvių kilmę
-patvirtinantį pažymėjimą, nagrinėjimą; 
+patvirtinantį pažymėjimą, nagrinėjimą;
 12) prašymų išduoti vizas asmenims, išsaugojusiems
 teisę į Lietuvos Respublikos pilietybę, pateikusiems tai patvirtinančius
 dokumentus, nagrinėjimą;
@@ -179,7 +182,7 @@ vystomojo bendradarbiavimo skatinimo ar kitais visuomenei svarbiais tikslais
 arba dėl humanitarinių priežasčių;
 14) prašymų išduoti (D) vizas užsieniečiams, dėl kurių
 priimtas sprendimas išduoti leidimą gyventi Lietuvos Respublikoje, nagrinėjimą
-konsulinėse įstaigose; 
+konsulinėse įstaigose;
 15) prašymų išduoti supaprastinto tranzito
 geležinkeliu dokumentą, numatytą 
 2003 m. balandžio 14 d. Tarybos reglamente (EB) Nr. 693/2003, nustatančiame
@@ -191,16 +194,33 @@ Respublikoje išdavimo priėmimą ir perdavimą vaikams iki 16 metų;
 17) dokumentų dėl leidimo gyventi Lietuvos
 Respublikoje išdavimo priėmimą ir perdavimą lietuvių kilmės asmenims ir
 asmenims, išsaugojusiems teisę į Lietuvos Respublikos pilietybę, pateikusiems
-tai patvirtinančius dokumentus (tarp jų ir šios dalies 11 punkte nurodytą dokumentą),
-ir kartu gyventi į Lietuvos Respubliką atvykstantiems šių asmenų šeimos
-nariams;
+tai patvirtinančius dokumentus (tarp jų ir šios dalies 11 punkte nurodytą
+dokumentą), ir kartu gyventi į Lietuvos Respubliką atvykstantiems šių asmenų
+šeimos nariams;
 18) mirties įregistravimą ir mirties liudijimo
 išdavimą;
 19) dokumentų, susijusių su alimentų išieškojimu,
 pareikalavimą ir legalizavimą;
 20) konsulinių pažymų apie atsisakymą atlikti
 notarinius veiksmus ir konsulinės pažymos, kad asmens, kuris kreipėsi į
-konsulinę įstaigą, prašymas netenkintinas, išdavimą.
+konsulinę įstaigą, prašymas netenkintinas, išdavimą;
+21) paso išdavimą, keitimą arba dokumentų dėl paso
+išdavimo ir keitimo priėmimą ir perdavimą vaikams, kuriems nustatyta globa ar
+rūpyba, užsienio valstybių išlaikomiems stacionariose globos įstaigose
+asmenims, vienišiems asmenims, sukakusiems senatvės pensijos amžių, asmenims,
+kuriems nustatytas 0–40 procentų darbingumo lygis, asmenims iki 18 metų,
+kuriems nustatytas neįgalumo lygis, asmenims, kuriems pagal Lietuvos
+Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso
+įstatymą pripažįstamas nuo okupacijų nukentėjusio – represuoto asmens teisinis
+statusas.
+2. Konsulinio mokesčio už paso išdavimą, keitimą arba
+dokumentų dėl paso išdavimo ir keitimo priėmimą ir perdavimą bendra tvarka
+Lietuvos Respublikos piliečiams, kuriems nesukako 18 metų, taip pat kuriems
+sukako senatvės pensijos amžius, nustatytas Lietuvos Respublikos valstybinių
+socialinio draudimo pensijų įstatyme, dydis sumažinamas 50 procentų.
+Straipsnio pakeitimas:
+Nr. XI-468,
+2009-11-12, Žin., 2009, Nr. 141-6191 (2009-11-28)
  
 7 straipsnis. Mokesčio
 mokėjimas 
@@ -244,15 +264,15 @@ PREZIDENTAS                                  ALG
 Respublikos 
                                                                                     konsulinio
 mokesčio įstatymo
-                                                                                    priedas
+                                                                                    priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 1. 2003 m. balandžio 14 d. Tarybos reglamentas (EB) Nr. 693/2003,
 nustatantis specialų supaprastinto tranzito dokumentą (STD) ir supaprastinto
-tranzito geležinkeliu dokumentą (STGD) ir iš dalies pakeičiantis Bendrąją konsulinę
-instrukciją ir Bendrąjį vadovą (OL 2004 m. specialusis leidimas, 19 skyrius, 6
-tomas, p. 138).
+tranzito geležinkeliu dokumentą (STGD) ir iš dalies pakeičiantis Bendrąją
+konsulinę instrukciją ir Bendrąjį vadovą (OL 2004 m. specialusis leidimas, 19
+skyrius, 6 tomas, p. 138).
 2. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva
 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir
 gyventi valstybių narių teritorijoje, iš dalies keičianti Reglamentą Nr.
@@ -264,7 +284,7 @@ m. specialusis leidimas, 5 skyrius, 5 tomas, p. 46).
 Bendrojo vadovo 14a priedą dėl taikytinų mokesčių, atitinkančių prašymų išduoti
 vizą tvarkymo administracines išlaidas (OL 2006 L 175, p. 77).
  
-__________________
+_______________
  
 Pakeitimai:
  
@@ -310,8 +330,8 @@ Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-2139, 2004-04-15,
-Žin., 2004, Nr. 61-2188 (2004-04-27)
+IX-2139,
+2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
 ĮMONIŲ
 IR ORGANIZACIJŲ NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR
 PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ
@@ -352,11 +372,19 @@ MOKESČIO ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja
 įstatymo redakcija
  
-***
-Pabaiga ***
+9.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-468,
+2009-11-12, Žin., 2009, Nr. 141-6191 (2009-11-28)
+KONSULINIO
+MOKESČIO ĮSTATYMO 3, 6 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis įstatymas, išskyrus 4 straipsnį, įsigalioja 2010 m.
+sausio 1 d.
+ 
+*** Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2007-11-08)
-                 
-autrap@lrs.lt
+Redagavo Aušrinė Trapinskienė
+(2009-12-03)
+                  autrap@lrs.lt
