@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F617B8D97E05"
 
 # Lietuvos Respublikos konsulinis statutas
 
-Suvestinė redakcija nuo 2006-10-01 iki 2009-12-31
+Suvestinė redakcija nuo 2010-01-01 iki 2010-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 43-1047, i. k. 0951010ISTA000I-886
  
@@ -105,7 +105,10 @@ BENDROJI DALIS
 4 straipsnis. Konsulinės įstaigos steigimas ir konsulinės veiklos ribos
 
 
-1. Konsulines įstaigas, išskyrus vadovaujamas garbės konsulinių pareigūnų, Lietuvos Respublikos užsienio reikalų ministro teikimu, iš anksto apsvarsčius Seimo Užsienio reikalų komitete ir pritarus priimančiajai valstybei, steigia Lietuvos Respublikos Vyriausybė. Konsulinių įstaigų aptarnaujamas konsulines apygardas, gavus priimančiosios valstybės sutikimą, nustato Lietuvos Respublikos užsienio reikalų ministras.
+1. Konsulines įstaigas, išskyrus vadovaujamas garbės konsulinių pareigūnų, Lietuvos Respublikos užsienio reikalų ministro teikimu, iš anksto apsvarsčius Seimo Užsienio reikalų komitete, steigia arba likviduoja Lietuvos Respublikos Vyriausybė. Konsulinių įstaigų aptarnaujamas konsulines apygardas, gavus priimančiosios valstybės sutikimą, nustato Lietuvos Respublikos užsienio reikalų ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XI-467, 2009-11-12, Žin., 2009, Nr. 141-6190 (2009-11-28), i. k. 1091010ISTA00XI-467
+ 
 
 
 
@@ -431,20 +434,27 @@ Konsulinis pareigūnas padeda nusikaltimų aukomis tapusiems Lietuvos Respubliko
 20 straipsnis. Pagalba asmenims, praradusiems kelionės dokumentus, kelionės dokumentui tapus netinkamu naudoti ar pasibaigus jo galiojimo laikui
 
 
-1. Konsulinis pareigūnas, Lietuvos Respublikos piliečiui praradus kelionės dokumentą, jam tapus netinkamu naudoti ar pasibaigus jo galiojimo laikui Lietuvos Respublikos piliečiui laikinai esant užsienio valstybėje, Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka išduoda asmens grįžimo pažymėjimą.
+1. Konsulinis pareigūnas, Lietuvos Respublikos piliečiui praradus kelionės dokumentą, jam tapus netinkamu naudoti ar pasibaigus jo galiojimo laikui Lietuvos Respublikos piliečiui esant užsienio valstybėje, Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka išduoda asmens grįžimo pažymėjimą.
 
 
 
 
-2. Konsulinis pareigūnas, gavęs Lietuvos Respublikos užsienio reikalų ministerijos leidimą, gali išduoti asmens grįžimo pažymėjimus buvimo valstybėje gimusiems nepilnamečiams vaikams, kurių tėvai ar vienas iš tėvų yra Lietuvos Respublikos piliečiai.
+2. Konsulinis pareigūnas Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka išduoda asmens grįžimo pažymėjimus užsienio valstybėje gimusiems nepilnamečiams vaikams, kurių tėvai ar vienas iš tėvų yra Lietuvos Respublikos piliečiai.
 
 
 
 
-3. Šie pažymėjimai Lietuvos Respublikos tarptautinių sutarčių nustatytais atvejais gali būti išduoti užsieniečiams.
+3. Konsulinis pareigūnas asmenims be pilietybės, turintiems leidimą gyventi Lietuvos Respublikoje, praradus kelionės dokumentą, jam tapus netinkamu naudoti ar pasibaigus jo galiojimo laikui, šiems asmenims esant užsienio valstybėje, Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka išduoda asmens grįžimo pažymėjimą.
+
+
+
+
+4. Šie pažymėjimai Lietuvos Respublikos tarptautinių sutarčių nustatytais atvejais gali būti išduoti užsieniečiams. 
+
+
+Straipsnio pakeitimai:
+Nr. XI-467, 2009-11-12, Žin., 2009, Nr. 141-6190 (2009-11-28), i. k. 1091010ISTA00XI-467
  
-
-
 
 
 
@@ -535,7 +545,7 @@ KITOS KONSULINĖS FUNKCIJOS
 
 
 
-25 straipsnis. Prašymų dėl Lietuvos Respublikos pilietybės ir dėl teisės į Lietuvos Respublikos pilietybę išsaugojimo ir dėl paso išdavimo ar keitimo priėmimas, perdavimas ir pasų įteikimas
+25 straipsnis. Pasų išdavimas, keitimas ir pilietybės klausimai
 
 
 1. Konsulinis pareigūnas Lietuvos Respublikos pilietybės įstatymo ir kitų teisės aktų nustatyta tvarka priima asmenų prašymus dėl Lietuvos Respublikos pilietybės ir dėl teisės į Lietuvos Respublikos pilietybę išsaugojimo ir perduoda juos bei susijusius dokumentus Lietuvos Respublikos vidaus reikalų ministrui ar jo įgaliotai institucijai, ar kitai Lietuvos Respublikos institucijai, kuri pagal įstatymą turi kompetenciją nagrinėti ir spręsti Lietuvos Respublikos pilietybės klausimus.
@@ -543,25 +553,27 @@ KITOS KONSULINĖS FUNKCIJOS
 
 
 
-2. Konsulinis pareigūnas Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka priima Lietuvos Respublikos piliečių prašymus ir kitus reikalingus dokumentus dėl paso išdavimo ar keitimo ir perduoda juos Lietuvos Respublikos vidaus reikalų ministrui ar jo įgaliotai institucijai.
+2. Konsulinis pareigūnas Lietuvos Respublikos vidaus reikalų ministro ir Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka priima Lietuvos Respublikos piliečių prašymus ir kitus reikalingus dokumentus dėl paso išdavimo ar keitimo ir perduoda juos Lietuvos Respublikos vidaus reikalų ministro įgaliotai institucijai, o jeigu prašyme išduoti (pakeisti) pasą nurodyti piliečio duomenys, kurie įrašomi į pasą, sutampa su duomenimis, esančiais Lietuvos Respublikos gyventojų registro duomenų centrinėje bazėje, ir abejonių dėl piliečio duomenų ir tapatybės nekyla, – išduoda arba keičia pasą. 
 
 
 
 
-3. Konsulinis pareigūnas, gavęs asmens tapatybę patvirtinančius dokumentus ar teisės į Lietuvos Respublikos pilietybę išsaugojimo pažymėjimus, Lietuvos Respublikos teisės aktų nustatyta tvarka įteikia juos jų prašiusiam asmeniui ar jo įgaliotam atstovui ir apie dokumentų įteikimą praneša Lietuvos Respublikos vidaus reikalų ministrui ar jo įgaliotai institucijai.
+3. Konsulinis pareigūnas, gavęs asmens tapatybę ir pilietybę patvirtinančius dokumentus ar teisės į Lietuvos Respublikos pilietybę išsaugojimo pažymėjimus, Lietuvos Respublikos teisės aktų nustatyta tvarka įteikia juos jų prašiusiam asmeniui ar jo įgaliotam atstovui. 
 
 
 
 
-4. Konsulinis pareigūnas priima iš Lietuvos Respublikos piliečių pranešimus apie prarastus asmens tapatybę ir pilietybę patvirtinančius dokumentus ir perduoda juos Lietuvos Respublikos vidaus reikalų ministrui ar jo įgaliotai institucijai.
+4. Konsulinis pareigūnas Lietuvos Respublikos teisės aktų nustatyta tvarka priima iš Lietuvos Respublikos piliečių pranešimus apie prarastus asmens tapatybę ir pilietybę patvirtinančius dokumentus, šiuos dokumentus paskelbia negaliojančiais arba Lietuvos Respublikos piliečių pranešimus perduoda kompetentingoms Lietuvos Respublikos institucijoms. 
 
 
 
 
-5. Konsulinis pareigūnas Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka paima iš Lietuvos Respublikos piliečių negaliojančius asmens tapatybę ir pilietybę patvirtinančius dokumentus ir perduoda juos Lietuvos Respublikos vidaus reikalų ministrui ar jo įgaliotai institucijai.
+5. Konsulinis pareigūnas Lietuvos Respublikos įstatymų nustatytais atvejais paima iš Lietuvos Respublikos piliečių negaliojančius asmens tapatybę ir pilietybę patvirtinančius dokumentus ir Lietuvos Respublikos teisės aktų nustatyta tvarka perduoda juos Lietuvos Respublikos vidaus reikalų ministro įgaliotai institucijai. 
+
+
+Straipsnio pakeitimai:
+Nr. XI-467, 2009-11-12, Žin., 2009, Nr. 141-6190 (2009-11-28), i. k. 1091010ISTA00XI-467
  
-
-
 
 
 
@@ -606,18 +618,15 @@ Konsulinis pareigūnas priima asmens prašymą išduoti leidimą gyventi Lietuvo
 
 
 
-28 straipsnis. Gyvenamosios vietos deklaracijų priėmimas ir perdavimas
+28 straipsnis. Gyvenamosios vietos deklaracijų priėmimas ir gyvenamosios vietos deklaravimo duomenų tvarkymas
 
 
-1. Konsulinis pareigūnas priima gyvenamosios vietos deklaracijas iš užsienio valstybėje gyvenančių asmenų Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo ir kitų teisės aktų nustatyta tvarka.
+Konsulinis pareigūnas priima gyvenamosios vietos deklaracijas iš užsienio valstybėje gyvenančių asmenų ir tvarko šių asmenų gyvenamosios vietos deklaravimo duomenis Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo ir kitų teisės aktų nustatyta tvarka. 
 
 
-
-
-2. Duomenų apie užsienio valstybėje gyvenančių asmenų gyvenamąją vietą pateikimo tvarką nustato Lietuvos Respublikos vidaus reikalų ministras, suderinęs su Lietuvos Respublikos užsienio reikalų ministru.
+Straipsnio pakeitimai:
+Nr. XI-467, 2009-11-12, Žin., 2009, Nr. 141-6190 (2009-11-28), i. k. 1091010ISTA00XI-467
  
-
-
 
 
 
@@ -646,7 +655,10 @@ Konsulinis pareigūnas tvarko Lietuvos Respublikos piliečių tikrosios karo ir 
 
 
 
-3. Dokumentų legalizavimo ar tvirtinimo pažyma (Apostille) nereikalaujama, kai pagal Lietuvos Respublikos tarptautines sutartis ar Europos Sąjungos teisės aktus dokumentas yra atleistas nuo legalizavimo ar tvirtinimo pažyma (Apostille).
+3. Dokumentų legalizavimo ar tvirtinimo pažyma (Apostille) nereikalaujama, kai pagal Lietuvos Respublikos tarptautines sutartis ar Europos Sąjungos teisės aktus dokumentas yra atleistas nuo legalizavimo ar tvirtinimo pažyma (Apostille). Dokumentų legalizavimo nereikalaujama, kai dokumentai yra sudaryti ar (ir) išduoti Lietuvos Respublikoje reziduojančių užsienio valstybių diplomatinių atstovybių ar konsulinių įstaigų. 
+Straipsnio dalies pakeitimai:
+Nr. XI-467, 2009-11-12, Žin., 2009, Nr. 141-6190 (2009-11-28), i. k. 1091010ISTA00XI-467
+ 
 
 
 
@@ -678,7 +690,10 @@ Konsulinis pareigūnas tvarko Lietuvos Respublikos piliečių tikrosios karo ir 
 32 straipsnis. Konsulinių pareigūnų atliekami notariniai veiksmai
 
 
-1. Konsuliniai pareigūnai, vadovaudamiesi Lietuvos Respublikos teisės aktais, atlieka Lietuvos Respublikos notariato įstatymo 27 straipsnyje numatytus notarinius veiksmus Lietuvos Respublikos piliečiams, esantiems užsienio valstybėje.
+1. Konsuliniai pareigūnai, vadovaudamiesi Lietuvos Respublikos teisės aktais, atlieka Lietuvos Respublikos notariato įstatymo numatytus notarinius veiksmus Lietuvos Respublikos piliečiams, esantiems užsienio valstybėje. 
+Straipsnio dalies pakeitimai:
+Nr. XI-467, 2009-11-12, Žin., 2009, Nr. 141-6190 (2009-11-28), i. k. 1091010ISTA00XI-467
+ 
 
 
 
