@@ -346,11 +346,11 @@ tvarko šių asmenų įskaitos duomenis;“.
 straipsnis. Baigiamosios nuostatos
 1.
 Šis įstatymas įsigalioja 2009 m. sausio 1 d.
-*2. Už 2008
-metus savarankiškai dirbančių asmenų valstybinio socialinio draudimo įmokos
+2. Už 2008 metus
+savarankiškai dirbančių asmenų valstybinio socialinio draudimo įmokos
 apskaičiuojamos ir mokamos iki 2009 m. sausio 1 d. galiojusių Valstybinio
 socialinio draudimo įstatymo nuostatų nustatyta tvarka.
-*3. Valstybinio
+3. Valstybinio
 socialinio draudimo įmokų tarifas už ūkininkus ir jų partnerius, kurių žemės
 ūkio valdos, įregistruotos Lietuvos Respublikos žemės ūkio ir kaimo verslo
 registre, ekonominis dydis pagal valstybės įmonės Žemės ūkio informacijos ir
@@ -390,10 +390,13 @@ draudimo įstatymo 7 straipsnio 2 dalyje nurodytų šių asmenų gautų pajamų
 metinės sumos, neviršijančios keturių Lietuvos Respublikos Vyriausybės
 patvirtintų einamųjų metų draudžiamųjų pajamų dydžių sumos per mėnesį.
 6.
-Šio straipsnio 3 ir 4 dalyse išvardytų asmenų socialinio draudimo įmokų tarifas
-2010 metais didinamas dvigubai, nei buvo numatyta 2009 metams, o nuo 2011 m. sausio 
-1 d. socialinio draudimo įmokos mokamos pagal bendrąjį tarifą, nustatytą
-Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatyme.
+Ūkininkų ir jų partnerių bei asmenų, gavusių pajamas iš sporto veiklos, asmenų,
+gavusių pajamas iš atlikėjo veiklos, ir asmenų, gavusių pajamas pagal autorines
+sutartis iš draudėjo, su kuriuo jie yra susiję darbo santykiais arba jų esmę
+atitinkančiais santykiais, socialinio draudimo įmokų tarifas 2010 metais
+didinamas dvigubai, negu buvo numatyta 2009 metams, o nuo 2011 m. sausio 1 d.
+socialinio draudimo įmokos mokamos pagal bendrąjį tarifą, nustatytą Valstybinio
+socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatyme.
 7.
 Lietuvos Respublikos Vyriausybė iki 2009 m. liepos 1 d. Lietuvos Respublikos Seimui pateikia teisės aktų pakeitimus, numatančius advokatų, advokatų
 padėjėjų, notarų ir antstolių socialinio draudimo sistemą, atsižvelgiant į šių
@@ -402,11 +405,11 @@ Straipsnio
 pakeitimas:
 Nr. XI-171,
 2009-02-17, Žin., 2009, Nr. 25-973 (2009-03-05)
-*Pastaba: nuostatos
-taikomos nuo 2009 m. sausio 1 d.
 Nr.
 XI-390,
 2009-07-22, Žin., 2009, Nr. 93-3982 (2009-08-04)
+Nr. XI-527,
+2009-12-08, Žin., 2009, Nr. 151-6774 (2009-12-22)
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -423,9 +426,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-171,
 2009-02-17, Žin., 2009, Nr. 25-973 (2009-03-05)
-VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO
-2, 3, 4, 5, 7, 8, 9, 29, 31 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 10
-STRAIPSNIO PAKEITIMO ĮSTATYMAS
+VALSTYBINIO
+SOCIALINIO DRAUDIMO ĮSTATYMO 2, 3, 4, 5, 7, 8, 9, 29, 31 STRAIPSNIŲ PAKEITIMO
+IR PAPILDYMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šio įstatymo nuostatos taikomos nuo 2009
 m. sausio 1 d.
  
@@ -438,11 +441,21 @@ VALSTYBINIO
 SOCIALINIO DRAUDIMO ĮSTATYMO 2, 3, 4, 5, 7, 8, 9, 29, 31 STRAIPSNIŲ PAKEITIMO
 IR PAPILDYMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
-***
-Pabaiga ***
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-527,
+2009-12-08, Žin., 2009, Nr. 151-6774 (2009-12-22)
+VALSTYBINIO
+SOCIALINIO DRAUDIMO ĮSTATYMO 2, 3, 4, 5, 7, 8, 9, 29, 31 STRAIPSNIŲ PAKEITIMO
+IR PAPILDYMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja 2010 m. sausio
+1 d.
+ 
+*** Pabaiga ***
  
  
-Redagavo
-Aušra Bodin (2009-08-05)
+Redagavo Aušrinė Trapinskienė
+(2009-12-22)
                  
-aubodi@lrs.lt
+autrap@lrs.lt
