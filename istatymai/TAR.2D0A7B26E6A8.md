@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8"
 
 # Lietuvos Respublikos pensijų sistemos reformos įstatymas
 
-Suvestinė redakcija nuo 2009-07-01 iki 2009-12-31
+Suvestinė redakcija nuo 2010-01-01 iki 2010-07-12
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 123-5511, i. k. 1021010ISTA0IX-1215
  
@@ -36,9 +36,10 @@ Straipsnio dalies pakeitimai:
 Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010ISTA0IX-1708
  
 
-2. Dalyvis – asmuo, privalomai draudžiamas valstybiniu socialiniu pensijų draudimu pagrindinei ir papildomai pensijos daliai gauti, pagal šį Įstatymą pasirinkęs kaupti pensijų įmoką pensijų kaupimo bendrovėje ir su pensijų kaupimo bendrove yra sudaręs pensijų kaupimo sutartį.
+2. Dalyvis – asmuo, pagal šį Įstatymą pasirinkęs kaupti pensijų įmoką pensijų kaupimo bendrovėje ir su pensijų kaupimo bendrove sudaręs pensijų kaupimo sutartį, kuri įregistruota Valstybinio socialinio draudimo fondo valdybos administruojamame Lietuvos Respublikos pensijų kaupimo sutarčių registre (toliau – Pensijų kaupimo sutarčių registras).
 Straipsnio dalies pakeitimai:
 Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010ISTA0IX-1708
+Nr. XI-478, 2009-11-12, Žin., 2009, Nr. 141-6201 (2009-11-28), i. k. 1091010ISTA00XI-478
  
 
 3. Gyvybės draudimo įmonė – įmonė, įsteigta ir veikianti Akcinių bendrovių ir Draudimo įstatymų nustatyta tvarka.
@@ -83,16 +84,18 @@ Nr. IX-2541, 2004-11-04, Žin., 2004, Nr. 171-6301 (2004-11-26), i. k. 1041010IS
 
 3 straipsnis. Dalyvavimas kaupiant pensijas 
 
-1. Asmenys, privalomai draudžiami valstybiniu socialiniu pensijų draudimu pagrindinei ir papildomai pensijos daliai gauti, išskyrus asmenis, kurie yra sulaukę senatvės pensijos amžiaus, turi teisę jų pačių pasirinkimu tapti pensijų fondo dalyviais ir kaupti šio Įstatymo nustatytą pensijų įmoką pensijų kaupimo bendrovėse. Asmenims, pasirinkusiems būti pensijų kaupimo dalyviais, tolesnis dalyvavimas negali būti nutrauktas, išskyrus Pensijų kaupimo įstatymo nustatytus atvejus.
+1. Asmenys, turintys draudžiamųjų pajamų, nuo kurių privalomai skaičiuojamos valstybinio socialinio draudimo įmokos pagrindinei ir papildomai pensijos daliai gauti, taip pat asmenys, pagal Lietuvos Respublikos Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymą pasirinkę pensines teises perkelti į Valstybinio socialinio draudimo fondą ir pensijų fondą, veikiantį pagal Lietuvos Respublikos pensijų kaupimo įstatymą, išskyrus asmenis, kurie yra sulaukę senatvės pensijos amžiaus, turi teisę jų pačių pasirinkimu tapti pensijų fondo dalyviais ir kaupti šio Įstatymo nustatytą pensijų įmoką pensijų kaupimo bendrovėse. Asmenų, pasirinkusių būti pensijų kaupimo dalyviais, tolesnis dalyvavimas negali būti nutrauktas, išskyrus Pensijų kaupimo įstatymo nustatytus atvejus.
 Straipsnio dalies pakeitimai:
 Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010ISTA0IX-1708
 Nr. IX-2255, 2004-06-01, Žin., 2004, Nr. 96-3522 (2004-06-19), i. k. 1041010ISTA0IX-2255
+Nr. XI-478, 2009-11-12, Žin., 2009, Nr. 141-6201 (2009-11-28), i. k. 1091010ISTA00XI-478
  
 
-2. Asmenys, nurodyti šio straipsnio 1 dalyje, jeigu jie nėra sudarę pensijų kaupimo sutarties su pensijų kaupimo bendrovėmis, turi teisę sudaryti šias sutartis iki 2003 m. gruodžio 1 d., o visais kitais kalendoriniais metais – nuo sausio 1 d. iki liepos 1 d., išskyrus naujus atėjusius į darbo rinką ir pirmą kartą gavusius socialinio draudimo pažymėjimą asmenis, kurie turi teisę sudaryti šias sutartis iki spalio 1 d. Tokia pensijų kaupimo sutartis įsigalioja ir pensijų įmokos pradedamos skaičiuoti nuo kitų metų sausio 1 d., jeigu pensijų kaupimo sutartis norminių teisės aktų nustatyta tvarka buvo įregistruota Valstybinio socialinio draudimo fondo valdybos administruojamame pensijų kaupimo dalyvių ir pensijų kaupimo sutarčių registre.
+2. Asmenys, nurodyti šio straipsnio 1 dalyje, jeigu jie nėra sudarę pensijų kaupimo sutarties su pensijų kaupimo bendrovėmis, turi teisę sudaryti šias sutartis iki 2003 m. gruodžio 1 d., o visais kitais kalendoriniais metais – nuo sausio 1 d. iki liepos 1 d., išskyrus naujus atėjusius į darbo rinką ir pirmą kartą gavusius socialinio draudimo pažymėjimą asmenis, kurie turi teisę sudaryti šias sutartis iki spalio 1 d. Tokia pensijų kaupimo sutartis įsigalioja ir pensijų įmokos pradedamos skaičiuoti nuo kitų metų sausio 1 d., jeigu pensijų kaupimo sutartis norminių teisės aktų nustatyta tvarka buvo įregistruota Pensijų kaupimo sutarčių registre. Asmenims, turintiems teisę perkelti pensines teises iš Europos Sąjungos institucijų pensijų sistemos pagal Lietuvos Respublikos Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymą, šioje dalyje nurodyti pensijų kaupimo sutarčių sudarymo terminai netaikomi. Šių asmenų sudaryta pensijų kaupimo sutartis įsigalioja įregistravus ją Pensijų kaupimo sutarčių registre.
 Straipsnio dalies pakeitimai:
 Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010ISTA0IX-1708
 Nr. IX-2255, 2004-06-01, Žin., 2004, Nr. 96-3522 (2004-06-19), i. k. 1041010ISTA0IX-2255
+Nr. XI-478, 2009-11-12, Žin., 2009, Nr. 141-6201 (2009-11-28), i. k. 1091010ISTA00XI-478
  
 
 3. Dalyviai turi teisę laisvai pasirinkti pensijų kaupimo bendrovę. Vienu metu dalyvis gali turėti pensijų sąskaitą, kurioje kaupiama šio Įstatymo nustatyta pensijų įmoka, tik vienoje pensijų kaupimo bendrovėje. Jeigu dalyvis pereina į kitą pensijų kaupimo bendrovę, jo pensijų sąskaita buvusioje pensijų kaupimo bendrovėje uždaroma, o joje sukauptos lėšos pervedamos į kitoje bendrovėje atidarytą pensijų sąskaitą.
@@ -253,4 +256,9 @@ Lietuvos Respublikos pensijų sistemos reformos įstatymo 4 straipsnio pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-238, 2009-04-28, Žin., 2009, Nr. 54-2136 (2009-05-12), i. k. 1091010ISTA00XI-238
 Lietuvos Respublikos pensijų sistemos reformos įstatymo 4 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-478, 2009-11-12, Žin., 2009, Nr. 141-6201 (2009-11-28), i. k. 1091010ISTA00XI-478
+Lietuvos Respublikos pensijų sistemos reformos įstatymo 2 ir 3 straipsnių pakeitimo įstatymas
 
