@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.791BF9249C9C"
 
 # Lietuvos Respublikos sporto įstatymas
 
-Suvestinė redakcija nuo 2008-04-24 iki 2009-12-31
+Suvestinė redakcija nuo 2010-01-01 iki 2010-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 9-215, i. k. 0951010ISTA00I-1151
  
@@ -423,7 +423,9 @@ Lietuvos Respublikos Vyriausybė:
 
 
 
-4) nustato premijų didelio meistriškumo sportininkams dydžius ir mokėjimo tvarką.
+4) nustato premijų didelio meistriškumo sportininkams ir kitiems rinktinių nariams dydžius.
+Straipsnio punkto pakeitimai:
+Nr. XI-493, 2009-11-19, Žin., 2009, Nr. 144-6346 (2009-12-05), i. k. 1091010ISTA00XI-493
  
 
 
@@ -610,7 +612,7 @@ Apskrities viršininkas, plėtodamas kūno kultūrą ir sportą regione:
 
 
 
-4. Savivaldybės administracijos direktorius arba jo įgaliota savivaldybės įstaiga, įgyvendindama kūno kultūros ir sporto politiką savivaldybės teritorijoje:
+4. Savivaldybės administracijos direktorius arba jo įgaliotas kitas savivaldybės administracijos padalinys ar savivaldybės įstaiga, įgyvendindami kūno kultūros ir sporto politiką savivaldybės teritorijoje:
 
 
 1) rengia ir įgyvendina kūno kultūros ir sporto plėtojimo savivaldybėje programas;
@@ -634,9 +636,11 @@ Apskrities viršininkas, plėtodamas kūno kultūrą ir sportą regione:
 
 
 5) tvirtina miestų ir (ar) savivaldybių sporto šakų rinktines.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XI-493, 2009-11-19, Žin., 2009, Nr. 144-6346 (2009-12-05), i. k. 1091010ISTA00XI-493
  
-
-
 
 
 
@@ -695,7 +699,10 @@ NEVYRIAUSYBINIŲ ORGANIZACIJŲ KOMPETENCIJA PLĖTOJANT KŪNO KULTŪRĄ IR SPORT�
 
 
 
-2. Kūno kultūros ir sporto departamentas pripažįsta tik vieną teisės aktų nustatyta tvarka Juridinių asmenų registre įregistruotą nacionalinę sporto (šakos) federaciją, kurios pavadinime vartojamas Lietuvos vardas ir kuri jungia trijose skirtingose Lietuvos apskrityse veikiančias sporto (šakos) asociacijas. Nacionalinių sporto (šakų) federacijų pripažinimo tvarką ir kitus kriterijus nustato Kūno kultūros ir sporto departamentas.
+2. Kūno kultūros ir sporto departamentas pripažįsta tik vieną teisės aktų nustatyta tvarka Juridinių asmenų registre įregistruotą nacionalinę sporto (šakos) federaciją, kurios pavadinime vartojamas Lietuvos vardas ir kuri jungia ne mažiau kaip trijose skirtingose Lietuvos apskrityse veikiančias to sporto (tos šakos) kūno kultūros ir sporto organizacijas. Nacionalinių sporto (šakų) federacijų pripažinimo tvarką ir kitus kriterijus nustato Kūno kultūros ir sporto departamentas.
+Straipsnio dalies pakeitimai:
+Nr. XI-493, 2009-11-19, Žin., 2009, Nr. 144-6346 (2009-12-05), i. k. 1091010ISTA00XI-493
+ 
 
 
 
@@ -1486,28 +1493,38 @@ SPORTININKŲ IR KŪNO KULTŪROS IR SPORTO SPECIALISTŲ GARANTIJOS
 
 
 
-41 straipsnis. Rentos buvusiems sportininkams mokėjimo sąlygos ir tvarka
+41 straipsnis. Rentos sportininkams mokėjimo sąlygos ir tvarka
 
 
-1. Sportininkas, Lietuvos Respublikos pilietis, baigęs sportininko karjerą, nedalyvaujantis olimpinėse žaidynėse, pasaulio ir Europos čempionatuose, turi teisę gauti 1,5 vidutinio darbo užmokesčio dydžio rentą per mėnesį, jeigu jis yra:
+1. Sportininkas, Lietuvos Respublikos pilietis, baigęs sportininko karjerą, nedalyvaujantis olimpinėse žaidynėse, pasaulio ir Europos čempionatuose, turi teisę gauti 1,5 Statistikos departamento prie Lietuvos Respublikos Vyriausybės paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio dydžio rentą per mėnesį, jeigu jis, turėdamas Lietuvos Respublikos pilietybę ir atstovaudamas Lietuvos Respublikai, tapo arba iki šio įstatymo įsigaliojimo įgijo Lietuvos Respublikos pilietybę ir iki pilietybės įgijimo yra tapęs:
 
 
-1) olimpinių žaidynių čempionas ir prizininkas (aukso, sidabro ar bronzos medalių laimėtojas);
-
-
-
-
-2) olimpinės sporto šakos olimpinės rungties Europos ir (ar) pasaulio čempionas;
+1) olimpinių žaidynių čempionu ar prizininku (aukso, sidabro ar bronzos medalių laimėtoju);
 
 
 
 
-3) olimpinės sporto šakos olimpinės rungties Europos ir (ar) pasaulio čempionato, olimpinių žaidynių rekordininkas;
+2) olimpinės sporto šakos olimpinės rungties Europos ar pasaulio čempionu;
 
 
 
 
-4) parolimpinių ir kurčiųjų žaidynių nugalėtojas.
+3) rungties, kuri iki rezultato pasiekimo buvo išbraukta iš olimpinių žaidynių programos arba įtraukta į ją po rezultato pasiekimo, pasaulio ar Europos čempionu iki 1990 m. kovo 11 d.;
+
+
+
+
+4) olimpinės sporto šakos olimpinės rungties Europos ar pasaulio, olimpinių žaidynių rekordininku;
+
+
+
+
+5) parolimpinių ar kurčiųjų žaidynių nugalėtoju;
+
+
+
+
+6) olimpinės sporto šakos neolimpinės rungties ir pasaulio čempionu, ir pasaulio rekordininku.
 
 
 
@@ -1517,27 +1534,27 @@ SPORTININKŲ IR KŪNO KULTŪROS IR SPORTO SPECIALISTŲ GARANTIJOS
 2. Sportininkui renta neskiriama, o paskirtoji nemokama, jeigu:
 
 
-1) jis turi draudžiamųjų pajamų, išskyrus pajamas, gaunamas už darbą kūno kultūros ir sporto srityje;
+1) jis turi draudžiamųjų pajamų, išskyrus pajamas, gaunamas už darbą kūno kultūros ir sporto srityje; 
 
 
 
 
-2) sportininkui yra įsiteisėjęs apkaltinamasis teismo nuosprendis už tyčinio nusikaltimo padarymą (kol išnyksta teistumas);
+2) sportininkas neteko Lietuvos Respublikos pilietybės;
 
 
 
 
-3) sportininkas gauna valstybinę pensiją;
+3) sportininkui yra įsiteisėjęs apkaltinamasis teismo nuosprendis už tyčinio nusikaltimo padarymą (kol išnyksta teistumas);
 
 
 
 
-4) sportininkas buvo diskvalifikuotas dėl dopingo preparatų vartojimo ar sporto organizacijų uždraustų metodų taikymo ir jo sportiniai rezultatai, numatyti šio straipsnio 1 dalyje, buvo anuliuoti;
+4) sportininkas gauna valstybinę pensiją;
 
 
 
 
-5) sportininkas yra kūno kultūros ir sporto organizacijos, kuri nepripažįsta ir nesilaiko dopingo kontrolės taisyklių, narys.
+5) sportininkas buvo diskvalifikuotas dėl dopingo preparatų vartojimo ar sporto organizacijų uždraustų metodų taikymo ir jo sportiniai rezultatai, numatyti šio straipsnio 1 dalyje, buvo anuliuoti.
 
 
 
@@ -1545,10 +1562,16 @@ SPORTININKŲ IR KŪNO KULTŪROS IR SPORTO SPECIALISTŲ GARANTIJOS
 
 
 3. Vyriausybės nustatyta tvarka rentas išmoka Kūno kultūros ir sporto departamentas iš valstybės biudžeto lėšų.
-TAR pastaba. 41 straipsnis įsigalioja 2009-01-01.
+
+
+
+
+4. Sportininkas privalo pranešti jam rentą mokančiai institucijai apie šio straipsnio 2 dalyje nurodytų aplinkybių atsiradimą per 5 darbo dienas nuo jų atsiradimo. Jeigu apie nurodytas aplinkybes laiku nepranešama ir dėl to renta permokama, permokėtos rentos suma išieškoma iš rentos gavėjo įstatymų nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XI-493, 2009-11-19, Žin., 2009, Nr. 144-6346 (2009-12-05), i. k. 1091010ISTA00XI-493
  
-
-
 
 
 
@@ -1645,7 +1668,10 @@ SPORTO VARŽYBOS IR RENGINIAI
 44 straipsnis. Sporto varžybų organizavimas ir vykdymas
 
 
-1. Už visų lygių sporto varžybų organizavimą ir vykdymą atsako Kūno kultūros ir sporto departamento pripažinta nacionalinė atitinkamos sporto šakos federacija.
+1. Sporto (šakos) varžybų sistemos Lietuvoje įgyvendinimą ir organizavimą koordinuoja Kūno kultūros ir sporto departamento pripažinta nacionalinė atitinkamo (atitinkamos) sporto (šakos) federacija.
+Straipsnio dalies pakeitimai:
+Nr. XI-493, 2009-11-19, Žin., 2009, Nr. 144-6346 (2009-12-05), i. k. 1091010ISTA00XI-493
+ 
 
 
 
@@ -1841,3 +1867,8 @@ Lietuvos Respublikos kūno kultūros ir sporto įstatymo 41 straipsnio pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1501, 2008-04-17, Žin., 2008, Nr. 47-1752 (2008-04-24), i. k. 1081010ISTA00X-1501
 Lietuvos Respublikos kūno kultūros ir sporto įstatymo pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-493, 2009-11-19, Žin., 2009, Nr. 144-6346 (2009-12-05), i. k. 1091010ISTA00XI-493
+Lietuvos Respublikos kūno kultūros ir sporto įstatymo 7, 12, 15, 41 ir 44 straipsnių pakeitimo įstatymas
