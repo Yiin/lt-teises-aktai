@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FAA1DD73CF"
 
 # Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas
 
-Suvestinė redakcija nuo 2009-03-05 iki 2009-12-31
+Suvestinė redakcija nuo 2010-01-01 iki 2010-12-31
  
 Įstatymas paskelbtas: Žin. 2005, Nr. 76-2741, i. k. 1051010ISTA000X-233
  
@@ -277,7 +277,10 @@ Nr. X-878, 2006-10-24, Žin., 2006, Nr. 119-4549 (2006-11-07), i. k. 1061010ISTA
 
 
 
-10) neįgaliųjų draugijų ir jų įmonių nekilnojamasis turtas;
+10) neįgaliųjų asociacijų, įmonių ir įstaigų, kurių dalyviai yra tik neįgaliųjų asociacijos, nekilnojamasis turtas; 
+Straipsnio punkto pakeitimai:
+Nr. XI-576, 2009-12-17, Žin., 2009, Nr. 154-6954 (2009-12-28), i. k. 1091010ISTA00XI-576
+ 
 
 
 
@@ -756,4 +759,9 @@ Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio papild
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-177, 2009-02-19, Žin., 2009, Nr. 25-979 (2009-03-05), i. k. 1091010ISTA00XI-177
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-576, 2009-12-17, Žin., 2009, Nr. 154-6954 (2009-12-28), i. k. 1091010ISTA00XI-576
 Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio pakeitimo įstatymas
