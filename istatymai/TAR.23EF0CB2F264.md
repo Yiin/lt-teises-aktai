@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.23EF0CB2F264"
 
 # Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo įstatymas
 
-Suvestinė redakcija nuo 2009-02-01 iki 2009-12-31
+Suvestinė redakcija nuo 2010-01-01 iki 2012-03-26
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 64-2331; Žin. 2001, Nr.65-0, i. k. 1011010ISTA00IX-466
  
@@ -108,19 +108,22 @@ Nr. XI-135, 2009-01-12, Žin., 2009, Nr. 10-357 (2009-01-27), i. k. 1091010ISTA0
 
 1. Finansų ministerija tvarko Fondo lėšų įplaukų ir išmokų apskaitą Finansų ministerijos nustatyta tvarka.
 
-2. Energetikos ministerija Fondo lėšų apskaitą tvarko vadovaudamasi apskaitą ir atskaitomybę reglamentuojančiais teisės aktais. 
+2. Ūkio ministerija Fondo lėšų apskaitą tvarko vadovaudamasi apskaitą ir atskaitomybę reglamentuojančiais teisės aktais. 
 Straipsnio dalies pakeitimai:
 Nr. XI-135, 2009-01-12, Žin., 2009, Nr. 10-357 (2009-01-27), i. k. 1091010ISTA00XI-135
+Nr. X-1832, 2008-11-14, Žin., 2008, Nr. 137-5381 (2008-11-29), i. k. 1081010ISTA00X-1832
  
 
-3. Finansų ministerija ir Fondo administratorius teikia Energetikos ministerijai informaciją, kurios reikia Fondo ataskaitų rinkiniams, nustatytiems Viešojo sektoriaus atskaitomybės įstatyme ir kituose teisės aktuose, rengti. 
+3. Finansų ministerija ir Fondo administratorius teikia Ūkio ministerijai informaciją, kurios reikia Fondo ataskaitų rinkiniams, nustatytiems Viešojo sektoriaus atskaitomybės įstatyme ir kituose teisės aktuose, rengti. 
 Straipsnio dalies pakeitimai:
 Nr. XI-135, 2009-01-12, Žin., 2009, Nr. 10-357 (2009-01-27), i. k. 1091010ISTA00XI-135
+Nr. X-1832, 2008-11-14, Žin., 2008, Nr. 137-5381 (2008-11-29), i. k. 1081010ISTA00X-1832
  
 
-4. Energetikos ministerija rengia Fondo lėšų sąmatos vykdymo ataskaitą ir Viešojo sektoriaus atskaitomybės įstatyme nustatytą finansinių ataskaitų rinkinį. Kasmet, ne vėliau kaip iki balandžio 1 dienos, audito įmonė atlieka Fondo lėšų sąmatos vykdymo ataskaitos patikrinimą, pateikdama išvadą apie Fondo lėšų sąmatos vykdymo ataskaitos patikrinimą ir Fondo finansinių ataskaitų rinkinio auditą, parengdama auditoriaus išvadą. Energetikos ministerija Fondo lėšų sąmatos vykdymo ataskaitą kartu su išvada apie Fondo lėšų sąmatos vykdymo ataskaitos patikrinimą teikia Vyriausybei. Fondo lėšų sąmatos vykdymo ataskaitą Vyriausybė kartu su atitinkamų metų valstybės biudžeto vykdymo ataskaitų rinkiniu teikia tvirtinti Seimui.
+4. Ūkio ministerija rengia Fondo lėšų sąmatos vykdymo ataskaitą ir Viešojo sektoriaus atskaitomybės įstatyme nustatytą finansinių ataskaitų rinkinį. Kasmet, ne vėliau kaip iki balandžio 1 dienos, audito įmonė atlieka Fondo lėšų sąmatos vykdymo ataskaitos patikrinimą, pateikdama išvadą apie Fondo lėšų sąmatos vykdymo ataskaitos patikrinimą ir Fondo finansinių ataskaitų rinkinio auditą, parengdama auditoriaus išvadą. Ūkio ministerija Fondo lėšų sąmatos vykdymo ataskaitą kartu su išvada apie Fondo lėšų sąmatos vykdymo ataskaitos patikrinimą teikia Vyriausybei. Fondo lėšų sąmatos vykdymo ataskaitą Vyriausybė kartu su atitinkamų metų valstybės biudžeto vykdymo ataskaitų rinkiniu teikia tvirtinti Seimui.
 Straipsnio dalies pakeitimai:
 Nr. XI-135, 2009-01-12, Žin., 2009, Nr. 10-357 (2009-01-27), i. k. 1091010ISTA00XI-135
+Nr. X-1832, 2008-11-14, Žin., 2008, Nr. 137-5381 (2008-11-29), i. k. 1081010ISTA00X-1832
  
 
 5. Fondo lėšų naudojimo valstybinį auditą atlieka Valstybės kontrolė.
@@ -156,4 +159,14 @@ Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės eksploa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-135, 2009-01-12, Žin., 2009, Nr. 10-357 (2009-01-27), i. k. 1091010ISTA00XI-135
 Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo įstatymo 2, 5, 6 ir 7 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1223, 2007-06-26, Žin., 2007, Nr. 77-3055 (2007-07-12), i. k. 1071010ISTA00X-1223
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo įstatymo 7 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. X-1832, 2008-11-14, Žin., 2008, Nr. 137-5381 (2008-11-29), i. k. 1081010ISTA00X-1832
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo įstatymo 7 straipsnio pakeitimo įstatymo pakeitimo įstatymas
 
