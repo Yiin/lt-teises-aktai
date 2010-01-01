@@ -142,11 +142,8 @@ straipsnis. Fondo biudžeto pajamos
 biudžeto pajamų pagrindą sudaro draudėjų, apdraustųjų, savarankiškai dirbančių
 asmenų, asmenų, apsidraudusių valstybiniu savanoriškuoju socialiniu draudimu
 (toliau – savanoriškasis socialinis draudimas), valstybės biudžeto už valstybės
-lėšomis draudžiamus asmenis įmokos, asignavimai iš valstybės biudžeto ir (ar)
-kitų valstybės piniginių išteklių, taip pat lėšos už Europos Sąjungos
-institucijų pensijų sistemoje asmens įgytas pensines teises, pervedamos į Fondo
-biudžetą pagal Lietuvos Respublikos Europos Sąjungos institucijų darbuotojų ir
-Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymą.
+lėšomis draudžiamus asmenis įmokos, taip pat asignavimai iš valstybės biudžeto
+ir (ar) kitų valstybės piniginių išteklių.
 2. Į Fondo
 biudžeto pajamas taip pat įtraukiamos baudos ir delspinigiai, atgautos į
 ankstesnių metų Fondo biudžeto išlaidas iškeltos abejotinai atgautinos sumos,
@@ -172,10 +169,6 @@ valstybės biudžeto ir (ar) kitų šaltinių už Fondo administravimo įstaigom
 pavestų funkcijų vykdymą;
 5) kitos
 pajamos.
-Straipsnio
-pakeitimas:
-Nr. XI-475, 2009-11-12,
-Žin., 2009, Nr. 141-6198 (2009-11-28)
  
 4
 straipsnis. Fondo biudžeto pajamų planavimas kitiems biudžetiniams metams
@@ -194,12 +187,12 @@ deklaruotų pajamų ir šių asmenų skaičiaus kitimą per paskutinius dvejus m
 kitiems biudžetiniams metams numatomus valstybinės socialinio draudimo
 pagrindinės pensijos dalies (toliau – bazinė pensija) ir minimaliosios
 mėnesinės algos (toliau – MMA) dydžius;
-3) savanoriškuoju
-socialiniu draudimu apsidraudusių asmenų įmokos – atsižvelgiant į šių asmenų
-socialiniam draudimui deklaruotų draudžiamųjų pajamų ir savanoriškojo
-socialinio draudimo sutarčių skaičiaus kitimą per paskutinius dvejus metus,
-numatomus savanoriškojo socialinio draudimo įmokų tarifus, kitiems
-biudžetiniams metams numatomus bazinės pensijos ir MMA dydžius;
+3)
+savanoriškuoju socialiniu draudimu apsidraudusių asmenų įmokos – atsižvelgiant
+į šių asmenų socialiniam draudimui deklaruotų draudžiamųjų pajamų ir
+savanoriškojo socialinio draudimo sutarčių skaičiaus kitimą per paskutinius
+dvejus metus, numatomus savanoriškojo socialinio draudimo įmokų tarifus,
+kitiems biudžetiniams metams numatomus bazinės pensijos ir MMA dydžius;
 4) valstybės
 biudžeto už valstybės lėšomis draudžiamus asmenis įmokos – atsižvelgiant į šių
 asmenų skaičiaus kitimą per paskutinius dvejus metus, kitiems biudžetiniams
@@ -210,8 +203,8 @@ išteklių, skirtos padengti šio biudžeto išlaidoms dėl pensijų socialinio
 draudimo įmokų dalies pervedimo pensijų kaupimo bendrovėms, planuojamos
 atsižvelgiant į šio straipsnio 1 dalies 1 punkte ir 6 straipsnio 1 dalies 2
 punkte numatytus rodiklius.
-3. Kitos Fondo
-biudžeto pajamos planuojamos taip:
+3. Kitos Fondo biudžeto
+pajamos planuojamos taip:
 1) baudos ir
 delspinigiai – atsižvelgiant į baudų ir delspinigių sumas, priskaičiuotas per
 paskutinius dvejus metus, taip pat kitiems biudžetiniams metams numatomus
@@ -255,8 +248,9 @@ motinystės socialiniam draudimui – Fondo biudžeto išlaidos socialinio draud
 pašalpoms, numatytoms Ligos ir motinystės socialinio draudimo įstatyme, ir
 savanoriškojo socialinio draudimo ligos ir motinystės pašalpoms;
 4) nedarbo
-socialiniam draudimui – Fondo biudžeto išlaidos nedarbo socialinio draudimo
-išmokoms ir išlaidoms, numatytoms Nedarbo socialinio draudimo įstatyme;
+socialiniam draudimui – gautos nedarbo socialinio draudimo įmokos, pervedamos
+Užimtumo fondui (nuo 2010 m. sausio 1 d. – Lietuvos darbo biržai prie
+Socialinės apsaugos ir darbo ministerijos);
 5) nelaimingų
 atsitikimų darbe ir profesinių ligų socialiniam draudimui (toliau – nelaimingų
 atsitikimų darbe socialinis draudimas) – Fondo biudžeto išlaidos visų rūšių
@@ -277,22 +271,18 @@ sąnaudos – Fondo administravimo įstaigų valstybės tarnautojų ir darbuotoj
 darbo užmokesčio ir už juos mokamų įmokų sumos, prekių ir paslaugų įsigijimo,
 ilgalaikio materialiojo turto ir nematerialiojo turto nusidėvėjimo
 (amortizacijos) sąnaudos, ilgalaikio turto likutinės vertės dalis, viršijanti
-pajamas, gautinas pardavus šį turtą, kitos Fondo sąnaudos (palūkanos,
-delspinigiai, nuostolis dėl į Fondo biudžeto apskaitą įtraukto turto vertės
-sumažėjimo ir kt.), patiriamos administruojant visų rūšių socialinį draudimą,
-socialinio draudimo išmokas, mokamas pagal tarptautines sutartis ar Europos
-Sąjungos reglamentus dėl socialinės apsaugos, Fondo valdybos administruojamus
-registrus, pensijų socialinio draudimo įmokų dalies pervedimą pensijų kaupimo
-bendrovėms, išmokų, finansuojamų iš Lietuvos Respublikos valstybės biudžeto ar
-kitų šaltinių, apskaičiavimą ir mokėjimą.
+pajamas, gautinas pardavus šį turtą, kitos Fondo sąnaudos (palūkanos, delspinigiai,
+nuostolis dėl į Fondo biudžeto apskaitą įtraukto turto vertės sumažėjimo ir
+kt.), patiriamos administruojant visų rūšių socialinį draudimą, socialinio
+draudimo išmokas, mokamas pagal tarptautines sutartis ar Europos Sąjungos
+reglamentus dėl socialinės apsaugos, Fondo valdybos administruojamus registrus,
+pensijų socialinio draudimo įmokų dalies pervedimą pensijų kaupimo bendrovėms,
+išmokų, finansuojamų iš Lietuvos Respublikos valstybės biudžeto ar kitų
+šaltinių, apskaičiavimą ir mokėjimą.
 3. Fondo
 išlaidos išmokoms, kurioms taikomos tarptautinės sutartys ar Europos Sąjungos
 reglamentai dėl socialinės apsaugos, priskiriamos Fondo išlaidoms atskiroms
 socialinio draudimo rūšims pagal šių išmokų pobūdį.
-Straipsnio
-pakeitimas:
-Nr. XI-308,
-2009-06-18, Žin., 2009, Nr. 77-3172 (2009-06-30)
  
 6
 straipsnis. Fondo biudžeto išlaidų planavimas kitiems biudžetiniams metams
@@ -683,31 +673,12 @@ Nr. X-1829,
 VALSTYBINIO SOCIALINIO DRAUDIMO
 FONDO BIUDŽETO SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija
-Naujos
-įstatymo redakcijos pakeitimas:
-1)
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-XI-308,
-2009-06-18, Žin., 2009, Nr. 77-3172 (2009-06-30)
-VALSTYBINIO
-SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMO 1
-STRAIPSNIO PAKEITIMO ĮSTATYMAS
-2)
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-XI-475,
-2009-11-12, Žin., 2009, Nr. 141-6198 (2009-11-28)
-VALSTYBINIO
-SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMO 1
-STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
-*** Pabaiga ***
+***
+Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė
-(2009-12-02)
+Redagavo
+Aušrinė Trapinskienė (2008-12-02)
                  
 autrap@lrs.lt
