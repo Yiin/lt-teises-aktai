@@ -30,7 +30,6 @@ Vilnius
 nustato asmens tapatybės kortelės paskirtį, jos išdavimo, keitimo, naudojimo ir
 galiojimo sąlygas, joje įrašomus duomenis.
  
-Įstatymas papildomas 11 straipsniu nuo 2009 m. sausio 1 d.:
 11 straipsnis. Pagrindinės šio Įstatymo sąvokos
 1. Asmens
 atpažinimo elektroninėje erdvėje sertifikatas – elektroninis
@@ -44,8 +43,8 @@ parašo įstatymo 2 straipsnio 15 dalyje ir kuriame gali būti įrašyti šio
 Įstatymo 4 straipsnio 1 dalyje nurodyti ir vidaus reikalų ministro nustatyti
 techniniai duomenys.
 Įstatymas papildytas straipsniu:
-Nr. X-1639, 2008-06-26, Žin., 2008, Nr. 76-3007
-(2008-07-05)
+Nr. X-1639,
+2008-06-26, Žin., 2008, Nr. 76-3007 (2008-07-05)
  
 2
 straipsnis. Asmens tapatybės kortelė ir jos paskirtis
@@ -55,19 +54,12 @@ tapatybę ir pilietybę ir skirtas naudoti Lietuvos Respublikoje.
 2. Asmens tapatybės kortelė gali būti naudojama vykti į užsienio
 valstybes, su kuriomis yra sudarytos atitinkamos tarptautinės sutartys ar
 susitarimai.
- 
-3
-dalies redakcija iki 2009 m. sausio 1 d.:
-3. Asmens tapatybės kortelėje gali būti techninė sudedamoji dalis,
-kurios naudojimą nustato kiti Lietuvos Respublikos įstatymai.
-3
-dalies redakcija nuo 2009 m. sausio 1 d.:
-*3. Asmens
+3. Asmens
 tapatybės kortelė gali būti naudojama asmens tapatybei elektroninėje erdvėje
 patvirtinti ar nustatyti
 ir elektroniniams duomenims pasirašyti.
-*Pastaba. 3
-dalies nuostatos netaikomos asmens tapatybės kortelėms, išduotoms iki nurodytų
+Pastaba. 3 dalies
+nuostatos netaikomos asmens tapatybės kortelėms, išduotoms iki nurodytų
 nuostatų įsigaliojimo dienos, t.y. iki 2009 m. sausio 1 d.
  
 4. Pilietis, kuriam
@@ -75,8 +67,8 @@ sukako 16 metų, per vieną mėnesį privalo kreiptis į įgaliotą instituciją
 asmens tapatybės kortelės išdavimo. Prireikus asmens tapatybės kortelė gali
 būti išduota ir piliečiui, nesulaukusiam 16 metų.
 Straipsnio pakeitimai:
-Nr. X-1639, 2008-06-26, Žin., 2008, Nr. 76-3007
-(2008-07-05)
+Nr. X-1639,
+2008-06-26, Žin., 2008, Nr. 76-3007 (2008-07-05)
  
 3
 straipsnis. Asmens tapatybės kortelės galiojimo terminas
@@ -100,15 +92,12 @@ registro (toliau – gyventojų registras) duomenų centrinės bazės duomenis
 Asmens tapatybės kortelėje turi būti piliečio veido atvaizdas ir piliečio
 parašas. Piliečiui, kuris nesugeba pasirašyti dėl fizinės negalios ar yra
 neveiksnus, asmens tapatybės kortelė gali būti išduota be jo parašo.
- 
-Straipsnis
-papildomas nauja 3 dalimi nuo 2009 m. sausio 1 d.:
 3.
 Asmens tapatybės kortelėje elektroniniu būdu fiksuojami šio straipsnio 1 dalyje
 nurodyti duomenys, piliečio veido atvaizdas ir pirštų atspaudai, asmens
 atpažinimo elektroninėje erdvėje sertifikatas ir kvalifikuotas sertifikatas.
-*Pastaba. 3
-dalies nuostatos netaikomos asmens tapatybės kortelėms, išduotoms iki nurodytų
+Pastaba. 3 dalies
+nuostatos netaikomos asmens tapatybės kortelėms, išduotoms iki nurodytų
 nuostatų įsigaliojimo dienos, t.y. iki 2009 m. sausio 1 d.
  
 4.
@@ -116,8 +105,8 @@ Be šio straipsnio 1 dalyje nurodytų duomenų, asmens tapatybės kortelėje tai
 pat įrašoma:
 1) asmens
 tapatybės kortelės išrašymo data;
-2) asmens tapatybės
-kortelę išdavusios įstaigos pavadinimas;
+2) asmens
+tapatybės kortelę išdavusios įstaigos pavadinimas;
 3) data, iki kurios
 galioja asmens tapatybės kortelė;
 4) asmens tapatybės
@@ -127,19 +116,19 @@ tapatybės kortelėje įrašomi lietuviškais rašmenimis, piliečio vardas (var
 ir pavardė – Lietuvos Respublikos teisės aktų, reglamentuojančių vardų ir
 pavardžių rašymą asmens dokumentuose, nustatyta tvarka.
 Straipsnio pakeitimai:
-Nr. X-1639, 2008-06-26, Žin., 2008, Nr. 76-3007
-(2008-07-05)
+Nr. X-1639,
+2008-06-26, Žin., 2008, Nr. 76-3007 (2008-07-05)
  
 5
 straipsnis. Asmens tapatybės kortelės išdavimas ir keitimas
 1. Asmens
 tapatybės kortelę išduoda ir keičia vidaus reikalų ministro įgaliotos
 institucijos (toliau – įgaliota institucija). 
-2. Pilietis dėl asmens tapatybės kortelės išdavimo ar keitimo turi pats
-atvykti į įgaliotą instituciją pagal gyventojų registre įrašytą jo
-gyvenamąją vietą (toliau – gyvenamoji vieta). Neveiksnus pilietis dėl asmens
-tapatybės kortelės išdavimo ar keitimo kreipiasi per savo globėją ar
-kitą teisėtą atstovą, o pilietis, kuris dėl fizinės negalios negali pats
+2. Pilietis dėl
+asmens tapatybės kortelės išdavimo ar keitimo turi pats atvykti į įgaliotą
+instituciją, kur jam yra patogiausia tai padaryti. Neveiksnus pilietis dėl
+asmens tapatybės kortelės išdavimo ar keitimo kreipiasi per savo globėją
+ar kitą teisėtą atstovą, o pilietis, kuris dėl fizinės negalios negali pats
 atvykti, – per įgaliotą asmenį.
 3. Vaikui iki 16 metų asmens tapatybės kortelė išduodama ar keičiama
 vieno iš tėvų (įtėvių) ar vaiko globėjo (rūpintojo) prašymu. Jeigu vaiko tėvai
@@ -148,9 +137,9 @@ išsituokę, asmens tapatybės kortelė išduodama ar keičiama vieno iš tėvų
 vaiko interesus, asmens tapatybės kortelė gali būti išduota ar pakeista be šio
 prašymo, tarpininkaujant valstybinei vaiko teisių apsaugos institucijai.
 4. Pilietis dokumentus dėl asmens tapatybės kortelės išdavimo įgaliotai
-institucijai pagal gyvenamąją vietą turi pateikti ne vėliau kaip per vieną
-mėnesį po to, kai jam sukako 16 metų. Jeigu yra svarbių priežasčių, šį terminą
-Vyriausybės įgaliota institucija gali pratęsti.
+institucijai šio straipsnio 2 dalyje nustatyta tvarka turi pateikti ne vėliau
+kaip per vieną mėnesį po to, kai jam sukako 16 metų. Jeigu yra svarbių
+priežasčių, šį terminą Vyriausybės įgaliota institucija gali pratęsti.
 5. Asmens tapatybės kortelė keičiama, jeigu:
 1) pilietis pakeičia šio Įstatymo 4 straipsnio 1 dalies 1–5 punktuose
 nurodytus duomenis;
@@ -173,9 +162,9 @@ patvirtinančius dokumentus.
 keičiama asmens tapatybės kortelė. Ji pažymima kaip negaliojanti ir grąžinama
 piliečiui arba jo įgaliotam asmeniui, o jeigu pilietis neveiksnus, – jo
 globėjui ar kitam teisėtam atstovui. Jeigu paimti grąžinamą negaliojančią
-asmens tapatybės kortelę atsisakoma, ji sunaikinama pagal vidaus reikalų ministro
-nustatytą asmens tapatybės kortelės išdavimo, keitimo, paskelbimo negaliojančia
-ir naikinimo tvarką.
+asmens tapatybės kortelę atsisakoma, ji sunaikinama pagal vidaus reikalų
+ministro nustatytą asmens tapatybės kortelės išdavimo, keitimo, paskelbimo
+negaliojančia ir naikinimo tvarką.
 9. Praradęs
 asmens tapatybės kortelę pilietis apie tai turi pranešti įgaliotai institucijai
 ar policijai arba Lietuvos Respublikos diplomatinei atstovybei ar konsulinei
@@ -199,8 +188,10 @@ ne vėliau kaip per vieną mėnesį nuo dokumentų gavimo dienos.
 14. Už asmens tapatybės kortelės išdavimą ir keitimą imama Vyriausybės
 nustatyto dydžio valstybės rinkliava. 
 Straipsnio pakeitimai:
-Nr. X-1639, 2008-06-26, Žin., 2008, Nr. 76-3007
-(2008-07-05)
+Nr. X-1639,
+2008-06-26, Žin., 2008, Nr. 76-3007 (2008-07-05)
+Nr. XI-472,
+2009-11-12, Žin., 2009, Nr. 141-6195 (2009-11-28)
  
 6 straipsnis. Asmens tapatybės kortelės negaliojimas
 1. Asmens tapatybės kortelė negalioja pasibaigus jos galiojimo laikui,
@@ -252,8 +243,6 @@ straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą
 įstatymą. 
- 
- 
 
  
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS
@@ -265,7 +254,8 @@ Pakeitimai:
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-1639, 2008-06-26, Žin., 2008, Nr. 76-3007 (2008-07-05)
+X-1639,
+2008-06-26, Žin., 2008, Nr. 76-3007 (2008-07-05)
 ASMENS
 TAPATYBĖS KORTELĖS ĮSTATYMO 2, 4, 5 STRAIPSNIŲ PAKEITIMO BEI PAPILDYMO IR
 ĮSTATYMO PAPILDYMO 11 STRAIPSNIU ĮSTATYMAS
@@ -275,13 +265,20 @@ straipsnio 2 dalis įsigalioja 2009 m. sausio 1 d.
 įstatymo 2 straipsnis ir 3 straipsnio 2 dalies nuostatos netaikomos asmens
 tapatybės kortelėms, išduotoms iki nurodytų nuostatų įsigaliojimo dienos.
  
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-472, 2009-11-12,
+Žin., 2009, Nr. 141-6195 (2009-11-28)
+ASMENS TAPATYBĖS KORTELĖS ĮSTATYMO 5
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja 2010 m. sausio
+1 d.
  
-***
-Pabaiga ***
+*** Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2008-07-08)
+Redagavo Aušrinė Trapinskienė
+(2009-12-03)
                  
 autrap@lrs.lt
 
