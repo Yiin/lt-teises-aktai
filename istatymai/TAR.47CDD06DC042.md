@@ -21,7 +21,7 @@ VALSTYBINIŲ SOCIALINIO DRAUDIMO SENATVĖS IR INVALIDUMO PENSIJŲ DALIES IŠMOK�
 ĮSTATYMAS
  
 2007 m. lapkričio 6 d. Nr. X-1313
-  Vilnius
+Vilnius
 
 
 
@@ -30,11 +30,11 @@ VALSTYBINIŲ SOCIALINIO DRAUDIMO SENATVĖS IR INVALIDUMO PENSIJŲ DALIES IŠMOK�
 1 straipsnis. Įstatymo paskirtis
 Šis įstatymas
 nustato valstybinių socialinio draudimo senatvės ir invalidumo pensijų dalies
-išmokėjimo sąlygas ir tvarką tiems šių pensijų
-gavėjams, kurie po pensijos paskyrimo laikotarpiu nuo 1995 m. sausio 1 d. iki 2002 m. gruodžio 31 d. (toliau – nurodytasis laikotarpis) turėjo draudžiamųjų
-pajamų, dėl kurių dydžio pagal tuo metu galiojusias Lietuvos Respublikos
-valstybinių socialinio draudimo pensijų įstatymo nuostatas jiems buvo mokama ne
-visa paskirta valstybinė socialinio draudimo senatvės ar invalidumo pensija. 
+išmokėjimo sąlygas ir tvarką tiems šių pensijų gavėjams, kurie po pensijos
+paskyrimo laikotarpiu nuo 1995 m. sausio 1 d. iki 2002 m. gruodžio 31 d. (toliau – nurodytasis laikotarpis) turėjo draudžiamųjų pajamų, dėl kurių
+dydžio pagal tuo metu galiojusias Lietuvos Respublikos valstybinių socialinio
+draudimo pensijų įstatymo nuostatas jiems buvo mokama ne visa paskirta
+valstybinė socialinio draudimo senatvės ar invalidumo pensija. 
  
 2 straipsnis. Valstybinės socialinio draudimo
 senatvės ar invalidumo pensijos dalis 
@@ -84,7 +84,7 @@ mokėjimui taikytus apribojimus dėl draudžiamųjų pajamų.
 5
 straipsnis. Senatvės ar invalidumo pensijos dalies sumos išmokėjimo tvarka
 1. Apskaičiuota
-senatvės ar invalidumo pensijos dalies suma asmeniui išmokama 2008–2010 metais
+senatvės ar invalidumo pensijos dalies suma asmeniui išmokama 2008–2012 metais
 Vyriausybės nustatyta tvarka. Valstybinio socialinio draudimo fondo valdybos
 prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinio socialinio
 draudimo fondo valdyba) teritoriniai skyriai ir Valstybinio socialinio draudimo
@@ -93,7 +93,10 @@ sumas pradeda išmokėti nuo 2008 m. liepos 1 d.
 2. Senatvės ar invalidumo pensijos dalies suma išmokama be asmens, turinčio teisę gauti senatvės ar invalidumo pensijos dalies sumą, prašymo.
 3. Apskaičiuota senatvės ar invalidumo
 pensijos dalies suma pervedama į asmens, turinčio teisę gauti šią sumą,
-sąskaitą Lietuvos Respublikos teritorijoje esančiame banke.   
+sąskaitą Lietuvos Respublikos teritorijoje esančiame banke.
+Straipsnio pakeitimai:
+Nr. XI-530,
+2009-12-08, Žin., 2009, Nr. 151-6777 (2009-12-22)
  
 6
 straipsnis. Senatvės ir invalidumo pensijos dalies ir kitų asmeniui
@@ -130,16 +133,19 @@ straipsnis. Senatvės ir invalidumo pensijų dalies sumų išmokėjimo finansavi
 šaltinis
 Senatvės ir invalidumo pensijų dalies sumoms išmokėti reikiamos lėšos finansuojamos iš Valstybinio socialinio draudimo fondo biudžeto.  9 straipsnis. Baigiamosios nuostatosVyriausybė ne vėliau kaip iki 2008 m. kovo 1 d. nustato senatvės ir invalidumo pensijų dalies sumų išmokėjimo tvarką. 10 straipsnis. Įstatymo įsigaliojimasŠis įstatymas įsigalioja 2008 m. sausio 1 d.
  
-Skelbiu
-šį Lietuvos Respublikos Seimo priimtą įstatymą. 
+Skelbiu šį
+Lietuvos Respublikos Seimo priimtą įstatymą. 
+ 
  
 
 
 
 
  
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
-________________
+RESPUBLIKOS PREZIDENTAS                                                           VALDAS
+ADAMKUS
+ 
+_____________
  
 Pakeitimai:
  
@@ -147,17 +153,27 @@ Pakeitimai:
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-1532,
-2008-05-08, Žin., 2008, Nr. 59-2204 (2008-05-24)
+X-1532, 2008-05-08,
+Žin., 2008, Nr. 59-2204 (2008-05-24)
 VALSTYBINIŲ
 SOCIALINIO DRAUDIMO SENATVĖS IR INVALIDUMO PENSIJŲ DALIES IŠMOKĖJIMO ĮSTATYMO 6
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
-***
-Pabaiga ***
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-530,
+2009-12-08, Žin., 2009, Nr. 151-6777 (2009-12-22)
+VALSTYBINIŲ
+SOCIALINIO DRAUDIMO SENATVĖS IR INVALIDUMO PENSIJŲ DALIES IŠMOKĖJIMO ĮSTATYMO 5
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis įstatymas,
+išskyrus šio straipsnio 1 dalį, įsigalioja 2010 m. sausio 1 d.
+ 
+*** Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2008-05-26)
+Redagavo Aušrinė Trapinskienė
+(2009-12-22)
                  
 autrap@lrs.lt
