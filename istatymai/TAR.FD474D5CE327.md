@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FD474D5CE327"
 
 # Lietuvos Respublikos sodininkų bendrijų įstatymas
 
-Suvestinė redakcija nuo 2009-06-06 iki 2010-01-04
+Suvestinė redakcija nuo 2010-01-05 iki 2010-09-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-40, i. k. 1031010ISTA0IX-1934
  
@@ -391,7 +391,10 @@ BENDRIJOS STEIGIMAS
 
 
 
-5. Steigiamasis susirinkimas turi patvirtinti bendrijos įstatus, išrinkti bendrijos narių susirinkimo renkamų bendrijos organų narius. 
+5. Steigiamasis susirinkimas turi patvirtinti bendrijos įstatus, išrinkti bendrijos narių susirinkimo renkamų bendrijos organų narius, priimti sprendimą dėl bendrijos buveinės. 
+Straipsnio dalies pakeitimai:
+Nr. XI-603, 2009-12-22, Žin., 2010, Nr. 1-14 (2010-01-05), i. k. 1091010ISTA00XI-603
+ 
 
 
 
@@ -430,7 +433,10 @@ BENDRIJOS STEIGIMAS
 
 
 
-3) bendrijos buveinė;
+3) bendrijos buveinės keitimo tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XI-603, 2009-12-22, Žin., 2010, Nr. 1-14 (2010-01-05), i. k. 1091010ISTA00XI-603
+ 
 
 
 
@@ -1537,3 +1543,8 @@ Lietuvos Respublikos sodininkų bendrijų įstatymo 2, 6, 7, 8, 12, 14, 15, 16, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-266, 2009-05-21, Žin., 2009, Nr. 67-2684 (2009-06-06), i. k. 1091010ISTA00XI-266
 Lietuvos Respublikos sodininkų bendrijų įstatymo 15, 16, 18 straipsnių pakeitimo ir papildymo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-603, 2009-12-22, Žin., 2010, Nr. 1-14 (2010-01-05), i. k. 1091010ISTA00XI-603
+Lietuvos Respublikos sodininkų bendrijų įstatymo 10 ir 11 straipsnių pakeitimo įstatymas
