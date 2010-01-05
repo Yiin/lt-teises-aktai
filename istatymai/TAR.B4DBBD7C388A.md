@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B4DBBD7C388A"
 
 # Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymas
 
-Suvestinė redakcija nuo 2007-01-01 iki 2010-01-04
+Suvestinė redakcija nuo 2010-01-05 iki 2021-09-06
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 89-1985, i. k. 0951010ISTA00I-1057
  
@@ -304,27 +304,50 @@ Norint registruoti religinės bendruomenės, bendrijos įstatus ar juos atitinka
 Pateikiamuose registruoti religinės bendruomenės, bendrijos įstatuose ar juos atitinkančiame dokumente turi būti nurodoma:
 
 
-1) religinės bendruomenės ar bendrijos pavadinimas ir jos buveinė;
+1) religinės bendruomenės ar bendrijos pavadinimas;
+Straipsnio punkto pakeitimai:
+Nr. XI-601, 2009-12-22, Žin., 2010, Nr. 1-12 (2010-01-05), i. k. 1091010ISTA00XI-601
+ 
 
 
 
 
-2) išpažįstamo religinio mokymo pagrindai, veiklos kryptys ir tikslai;
+2) religinės bendruomenės ar bendrijos buveinės keitimo tvarka; 
+Papildyta straipsnio punktu:
+Nr. XI-601, 2009-12-22, Žin., 2010, Nr. 1-12 (2010-01-05), i. k. 1091010ISTA00XI-601
+ 
 
 
 
 
-3) religinės bendruomenės ar bendrijos organizacinė struktūra, vadovybė;
+3) išpažįstamo religinio mokymo pagrindai, veiklos kryptys ir tikslai;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-601, 2009-12-22, Žin., 2010, Nr. 1-12 (2010-01-05), i. k. 1091010ISTA00XI-601
+ 
 
 
 
 
-4) religinei bendruomenei ar bendrijai priklausančio turto valdymo, naudojimo ir disponavimo juo tvarka;
+4) religinės bendruomenės ar bendrijos organizacinė struktūra, vadovybė;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-601, 2009-12-22, Žin., 2010, Nr. 1-12 (2010-01-05), i. k. 1091010ISTA00XI-601
+ 
 
 
 
 
-5) religinės bendruomenės ar bendrijos likvidavimo ir likusio turto paskirstymo ją likvidavus tvarka.
+5) religinei bendruomenei ar bendrijai priklausančio turto valdymo, naudojimo ir disponavimo juo tvarka;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-601, 2009-12-22, Žin., 2010, Nr. 1-12 (2010-01-05), i. k. 1091010ISTA00XI-601
+ 
+
+
+
+
+6) religinės bendruomenės ar bendrijos likvidavimo ir likusio turto paskirstymo ją likvidavus tvarka.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-601, 2009-12-22, Žin., 2010, Nr. 1-12 (2010-01-05), i. k. 1091010ISTA00XI-601
+ 
 
 
 
@@ -563,3 +586,8 @@ Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymo 14 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-981, 2006-12-12, Žin., 2006, Nr. 144-5463 (2006-12-30), i. k. 1061010ISTA000X-981
 Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymo 16 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-601, 2009-12-22, Žin., 2010, Nr. 1-12 (2010-01-05), i. k. 1091010ISTA00XI-601
+Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymo 11 straipsnio pakeitimo ir papildymo įstatymas
