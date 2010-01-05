@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4A9B29FE9E04"
 
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymas
 
-Suvestinė redakcija nuo 2005-01-01 iki 2010-01-04
+Suvestinė redakcija nuo 2010-01-05 iki 2010-10-01
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 80-0; Žin. 1991, Nr.13-328, i. k. 0911010ISTA00I-1222
  
@@ -95,6 +95,13 @@ BENDROSIOS NUOSTATOS
 
 
 5. Bendrovė privalo turėti savo pavadinimą, pagal kurį ją būtų galima atskirti nuo kitų juridinių asmenų.
+
+
+
+
+6. Bendrovės buveinė turi būti Lietuvos Respublikoje.
+Papildyta straipsnio dalimi:
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
  
 
 
@@ -205,7 +212,10 @@ Bendrovės steigimo dokumentai yra: steigimo sutartis, narių sąrašas, steigia
 
 
 
-2. Steigimo sutartyje nurodoma pajinių įnašų priėmimo tvarka, vieta ir laikas, atsakingi asmenys. 
+2. Steigimo sutartyje nurodoma pajinių įnašų priėmimo tvarka, vieta ir laikas, atsakingi asmenys, steigiamos bendrovės pavadinimas ir buveinė.
+Straipsnio dalies pakeitimai:
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+ 
 
 
 
@@ -316,62 +326,106 @@ Steigiamajam susirinkimui steigėjai parengia pranešimą, kuriame turi būti nu
 1. Bendrovės įstatuose turi būti nurodyta:
 
 
-1) bendrovės pavadinimas ir buveinės adresas. Buveinė turi būti Lietuvos Respublikos teritorijoje, nuolatinėje valdybos (administracijos) buvimo vietoje;
+1) bendrovės pavadinimas ir teisinė forma;
+Straipsnio punkto pakeitimai:
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+ 
 
 
 
 
-2) bendrovės tikslas, veiklos pobūdis ir trukmė;
+2) bendrovės buveinės keitimo tvarka; 
+Papildyta straipsnio punktu:
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+ 
 
 
 
 
-3) kapitalo didinimo ir mažinimo sąlygos bei tvarka; nepiniginių pajinių įnašų priėmimo ir įvertinimo tvarka;
+3) bendrovės tikslas, veiklos pobūdis ir trukmė;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+ 
 
 
 
 
-4) minimalus pajinio įnašo dydis, pajinių įnašų pasikeitimo, pardavimo ar perleidimo bendrovės nariams, pajininkams bei kitiems asmenims tvarka, uždarų aukcionų pajams pirkti ir parduoti organizavimo tvarka;
+4) kapitalo didinimo ir mažinimo sąlygos bei tvarka; nepiniginių pajinių įnašų priėmimo ir įvertinimo tvarka;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+ 
 
 
 
 
-5) valdymo ir kontrolės organų rinkimo tvarka, teisės ir pareigos;
+5) minimalus pajinio įnašo dydis, pajinių įnašų pasikeitimo, pardavimo ar perleidimo bendrovės nariams, pajininkams bei kitiems asmenims tvarka, uždarų aukcionų pajams pirkti ir parduoti organizavimo tvarka;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+ 
 
 
 
 
-6) narių susirinkimo kompetencija, jo šaukimo, balsavimo tvarka ir balsavimo teisės perleidimo tvarka;
+6) valdymo ir kontrolės organų rinkimo tvarka, teisės ir pareigos;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+ 
 
 
 
 
-7) darbo užmokesčio nustatymo tvarka ir pelno paskirstymo taisyklės;
+7) narių susirinkimo kompetencija, jo šaukimo, balsavimo tvarka ir balsavimo teisės perleidimo tvarka;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+ 
 
 
 
 
-8) atsargos (rezervinio) kapitalo fondo ir kitų fondų sudarymo ir naudojimo tvarka;
+8) darbo užmokesčio nustatymo tvarka ir pelno paskirstymo taisyklės;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+ 
 
 
 
 
-9) bendrovės reorganizavimo, pertvarkymo, likvidavimo ir turto paskirstymo kreditoriams bei pajininkams tvarka;
+9) atsargos (rezervinio) kapitalo fondo ir kitų fondų sudarymo ir naudojimo tvarka;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+ 
 
 
 
 
-10) bendrovės narių, bendrovės pajininkų ir samdomų asmenų teisės, atsakomybė bei pareigos;
+10) bendrovės reorganizavimo, pertvarkymo, likvidavimo ir turto paskirstymo kreditoriams bei pajininkams tvarka;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+ 
 
 
 
 
-11) bendrovės ir jos narių, pajininkų turtiniai bei darbo santykiai;
+11) bendrovės narių, bendrovės pajininkų ir samdomų asmenų teisės, atsakomybė bei pareigos;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+ 
 
 
 
 
-12) bendrovės atsiskaitymo su nariais ir pajininkais sąlygos, tvarka ir terminai. 
+12) bendrovės ir jos narių, pajininkų turtiniai bei darbo santykiai;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+ 
+
+
+
+
+13) bendrovės atsiskaitymo su nariais ir pajininkais sąlygos, tvarka ir terminai. 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+ 
 
 
 
@@ -1514,3 +1568,8 @@ Lietuvos Respublikos žemės ūkio bendrovių įstatymo 18, 19, 30, 33 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2538, 2004-11-04, Žin., 2004, Nr. 171-6298 (2004-11-26), i. k. 1041010ISTA0IX-2538
 Lietuvos Respublikos garantinio fondo įstatymo, Įmonių bankroto įstatymo, Laisvųjų ekonominių zonų pagrindų įstatymo, Žemės ūkio bendrovių įstatymo, Ūkininko ūkio įstatymo pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. 1091010ISTA00XI-607
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo 3, 7, 10 straipsnių pakeitimo ir papildymo įstatymas
