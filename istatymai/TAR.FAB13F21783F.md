@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FAB13F21783F"
 
 # Lietuvos Respublikos individualių įmonių įstatymas
 
-Suvestinė redakcija nuo 2009-07-28 iki 2010-01-04
+Suvestinė redakcija nuo 2010-01-05 iki 2012-08-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 112-4991, i. k. 1031010ISTA0IX-1805
  
@@ -108,7 +108,10 @@ Vilnius
 
 
 
-3) individualios įmonės buveinė;
+3) Neteko galios nuo 2010-01-05
+Straipsnio punkto naikinimas:
+Nr. XI-614, 2009-12-22, Žin. 2010, Nr. 1-25 (2010-01-05), i. k. 1091010ISTA00XI-614
+ 
 
 
 
@@ -163,7 +166,10 @@ Nr. XI-350, 2009-07-15, Žin., 2009, Nr. 89-3806 (2009-07-28), i. k. 1091010ISTA
 
 
 
-4. Individualios įmonės savininko kompetencijos, individualios įmonės vadovo skyrimo ir atšaukimo tvarkos bei kompetencijos individualios įmonės nuostatuose nurodyti nebūtina, jeigu ji nesiskiria nuo šiame Įstatyme nustatytos ir apie tai nurodoma pačiuose nuostatuose.
+4. Individualios įmonės savininko kompetencijos, vadovo skyrimo ir atšaukimo tvarkos ir kompetencijos, nuostatų keitimo tvarkos individualios įmonės nuostatuose nurodyti nebūtina, jeigu tai nesiskiria nuo šiame Įstatyme nustatytųjų ir apie tai nurodoma pačiuose nuostatuose.
+Straipsnio dalies pakeitimai:
+Nr. XI-614, 2009-12-22, Žin., 2010, Nr. 1-25 (2010-01-05), i. k. 1091010ISTA00XI-614
+ 
 
 
 
@@ -223,7 +229,10 @@ Be Civilinio kodekso 2.66 straipsnyje išvardytų duomenų, juridinių asmenų r
 
 
 
-4) finansinių metų pradžios ir pabaigos datos;
+4) Neteko galios nuo 2010-01-05
+Straipsnio punkto naikinimas:
+Nr. XI-614, 2009-12-22, Žin. 2010, Nr. 1-25 (2010-01-05), i. k. 1091010ISTA00XI-614
+ 
 
 
 
@@ -269,35 +278,60 @@ Be Civilinio kodekso 2.66 straipsnyje išvardytų duomenų, juridinių asmenų r
 
 
 
-2) paskirti individualios įmonės vadovu kitą asmenį, jei tai nustatyta individualios įmonės nuostatuose, jį atšaukti, individualios įmonės vardu sudaryti su juo darbo ar civilinę sutartį;
-
-
-
-
-3) tvirtinti metinių finansinių ataskaitų rinkinį, jeigu finansinių ataskaitų rinkinio sudarymas yra nustatytas individualios įmonės nuostatuose ir individualios įmonės vadovu yra paskirtas kitas asmuo; 
-Straipsnio punkto pakeitimai:
-Nr. XI-350, 2009-07-15, Žin., 2009, Nr. 89-3806 (2009-07-28), i. k. 1091010ISTA00XI-350
+2) pakeisti individualios įmonės buveinę; 
+Papildyta straipsnio punktu:
+Nr. XI-614, 2009-12-22, Žin., 2010, Nr. 1-25 (2010-01-05), i. k. 1091010ISTA00XI-614
  
 
 
 
 
-4) steigti filialus ir atstovybes, nutraukti jų veiklą ir tvirtinti filialų bei atstovybių nuostatus;
+3) paskirti individualios įmonės vadovu kitą asmenį, jei tai nustatyta individualios įmonės nuostatuose, jį atšaukti, individualios įmonės vardu sudaryti su juo darbo ar civilinę sutartį;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-614, 2009-12-22, Žin., 2010, Nr. 1-25 (2010-01-05), i. k. 1091010ISTA00XI-614
+ 
 
 
 
 
-5) pertvarkyti individualią įmonę;
+4) tvirtinti metinių finansinių ataskaitų rinkinį, jeigu finansinių ataskaitų rinkinio sudarymas yra nustatytas individualios įmonės nuostatuose ir individualios įmonės vadovu yra paskirtas kitas asmuo; 
+Straipsnio punkto pakeitimai:
+Nr. XI-350, 2009-07-15, Žin., 2009, Nr. 89-3806 (2009-07-28), i. k. 1091010ISTA00XI-350
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-614, 2009-12-22, Žin., 2010, Nr. 1-25 (2010-01-05), i. k. 1091010ISTA00XI-614
+ 
 
 
 
 
-6) reorganizuoti individualią įmonę, kai ji remiantis šiuo Įstatymu gali būti reorganizuojama;
+5) steigti filialus ir atstovybes, nutraukti jų veiklą ir tvirtinti filialų bei atstovybių nuostatus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-614, 2009-12-22, Žin., 2010, Nr. 1-25 (2010-01-05), i. k. 1091010ISTA00XI-614
+ 
 
 
 
 
-7) likviduoti individualią įmonę.
+6) pertvarkyti individualią įmonę;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-614, 2009-12-22, Žin., 2010, Nr. 1-25 (2010-01-05), i. k. 1091010ISTA00XI-614
+ 
+
+
+
+
+7) reorganizuoti individualią įmonę, kai ji remiantis šiuo Įstatymu gali būti reorganizuojama;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-614, 2009-12-22, Žin., 2010, Nr. 1-25 (2010-01-05), i. k. 1091010ISTA00XI-614
+ 
+
+
+
+
+8) likviduoti individualią įmonę.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-614, 2009-12-22, Žin., 2010, Nr. 1-25 (2010-01-05), i. k. 1091010ISTA00XI-614
+ 
 
 
 
@@ -641,3 +675,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-350, 2009-07-15, Žin., 2009, Nr. 89-3806 (2009-07-28), i. k. 1091010ISTA00XI-350
 Lietuvos Respublikos individualių įmonių įstatymo 4, 6, 7, 9, 11 straipsnių pakeitimo ir papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-614, 2009-12-22, Žin., 2010, Nr. 1-25 (2010-01-05), i. k. 1091010ISTA00XI-614
+Lietuvos Respublikos individualių įmonių įstatymo 4, 5, 6 straipsnių pakeitimo ir papildymo įstatymas
