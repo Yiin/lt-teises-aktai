@@ -44,94 +44,115 @@ suderinti su Europos Sąjungos teisės aktu, nurodytu šio Įstatymo priede.
  
 2
 straipsnis. Pagrindinės šio Įstatymo sąvokos
-1. Galutiniai
-atsiskaitymai – atlygis universaliųjų pašto paslaugų teikėjui už gaunamo
-tarptautinio pašto siuntų pristatymą.
-2. Išpirktinė pašto siunta –
+1. Asmuo –
+fizinis arba juridinis asmuo ar kita organizacija, taip pat jų filialai.
+2. Galutiniai
+atsiskaitymai –
+atlygis universaliųjų pašto paslaugų teikėjui už gaunamų tarptautinių pašto
+siuntų pristatymą.
+3. Gavėjas – asmuo, kuriam
+pašto ir (ar) pasiuntinių paslaugų teikėjas turi pristatyti ar įteikti siuntėjo
+pateiktą pašto siuntą.
+4. Išpirktinė pašto siunta –
 pašto siunta, įteikiama gavėjui, kai jis sumoka pašto paslaugų teikėjui
-siuntėjo nurodytą bei už pašto paslaugas priskaičiuotą pinigų sumą.
-3. Įvertintoji
-pašto siunta – pašto siunta, kurios sugadinimo
-ar dingimo atveju siuntėjui atlyginama jo nurodyta pašto siuntos vertė.
-4. Keitimasis
+siuntėjo nurodytą ir už pašto paslaugas priskaičiuotą pinigų sumą.
+5. Įvertintoji
+pašto siunta – pašto siunta, kurią sugadinus ar
+kuriai dingus siuntėjui atlyginama jo nurodyta pašto siuntos vertė.
+6. Keitimasis
 dokumentais – susitarusių asmenų savo pačių jėgomis keitimasis tarpusavyje
-pašto siuntomis.
-5. Korespondencijos
+pašto siuntomis. 
+7. Korespondencijos
 siunta
-– rašytinis pranešimas (laiškas (pašto siunta voke), atvirukas
-(atvirlaiškis), aerograma), užrašytas ant bet kokios fizinės medžiagos,
-siųstinas ir pristatytinas ant siuntos ar pakuotės siuntėjo nurodytu adresu.
-6. Leidimas
-– tai Ryšių reguliavimo tarnybos išduodamas nustatytos formos dokumentas,
-suteikiantis teisę teikti pašto paslaugas.
-7. Naudotojas
-– fizinis ar juridinis asmuo, kuris asmeniniams ar verslo tikslams
-naudojasi pašto ar pasiuntinių paslaugomis.
-8. Pasiuntinių paslaugos – pašto
+– rašytinis pranešimas (laiškas
+(pašto siunta voke), atvirukas (atvirlaiškis), aerograma), užrašytas ant bet
+kokios fizinės medžiagos, siųstinas ir pristatytinas ant siuntos ar pakuotės
+siuntėjo nurodytu adresu.
+8. Naudotojas
+– asmuo, kuris asmeniniams ar verslo tikslams naudojasi pašto ir (ar) pasiuntinių
+paslaugomis.
+9. Pasiuntinių paslaugos – pašto
 siuntų surinkimas, paskirstymas, vežimas ir pasirašytinas įteikimas gavėjams
 asmeniškai per pasiuntinį, suteikiant siuntėjo pageidaujamas papildomas
 paslaugas.
-9. Pašto ir (ar) pasiuntinių paslaugų
-teikėjas – pašto ir (ar) pasiuntinių paslaugas teikiantis asmuo.
-10. Pašto
-korespondencijos siunta – korespondencijos siunta, sekograma, taip pat spaudiniai,
-smulkūs paketai, siųstini ir pristatytini ant siuntos ar pakuotės siuntėjo
-nurodytu adresu. Pašto siuntos, priskirtos pašto korespondencijos siuntoms, yra
-suprantamos taip, kaip jos yra apibrėžtos Pasaulinės pašto sąjungos Pašto
-korespondencijos reglamente. 
-11. Pašto mokos ženklai –
+10. Pašto ir
+(ar) pasiuntinių paslaugų teikėjas – pašto ir (ar) pasiuntinių paslaugas
+teikiantis Lietuvos Respublikos ar kitos valstybės narės pilietis, kitas
+fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis
+judėjimo valstybėse narėse teisėmis, arba Lietuvos Respublikoje ar kitoje
+valstybėje narėje įsteigtas juridinis asmuo ar kita organizacija, taip pat jų
+filialai.
+11. Pašto
+korespondencijos siunta – korespondencijos siunta, sekograma, taip pat
+spaudiniai, smulkūs paketai, siųstini ir pristatytini ant siuntos ar pakuotės
+siuntėjo nurodytu adresu. Pašto siuntos, priskirtos pašto korespondencijos
+siuntoms, yra suprantamos taip, kaip jos yra apibrėžtos Pasaulinės pašto
+sąjungos Pašto korespondencijos reglamente. 
+12. Pašto mokos ženklai –
 galiojantys Lietuvos Respublikos pašto ženklai, pašto blokai, ženklinti vokai
-ir atvirukai (atvirlaiškiai) bei ženklintos aerogramos, ženklintuvų antspaudai
-ir specialūs patvirtinti mokėjimo spaudai. 
-12. Pašto
+ir atvirukai (atvirlaiškiai), ženklintos aerogramos, ženklintuvų antspaudai ir
+specialūs patvirtinti mokėjimo spaudai. 
+13. Pašto
 paslaugos – pašto siuntų surinkimas, paskirstymas, vežimas ir pristatymas
 ar įteikimas.
-13. Pašto
+14. Pašto
 paslaugų teikimo vietos – pašto infrastruktūros dalis, įskaitant viešam
 naudojimui skirtas pašto dėžutes, esančias šalia viešųjų kelių arba
 universaliųjų pašto paslaugų teikėjo patalpose. Per šias vietas naudotojai gali
 pateikti pašto siuntas viešajam pašto tinklui.
-14. Pašto
+15. Pašto
 siunta – adresuota ir išsiųsti paruošta siunta, kurią turi pristatyti pašto
 ar pasiuntinių paslaugų teikėjai. Tai pašto korespondencijos, reklaminė pašto
 siunta, taip pat siunta, kurioje siunčiami spaudiniai ir pašto siuntiniai. 
-15. Pašto
+16. Pašto
 siuntinys – paštu siunčiami daiktai (prekės), tarp jų ir neturintys
 komercinės vertės.
-16. Pašto
+17. Pašto
 siuntų paskirstymas – visuma veiksmų, kurie atliekami su pašto siuntomis
 nuo jų patekimo į rūšiavimo vietą iki pristatymo adresatams.
-17. Pašto
+18. Pašto
 siuntų surinkimas – visuma veiksmų, kurių metu pašto siuntos surenkamos iš
-pašto paslaugų naudotojų.
-18. Registruotoji
+naudotojų.
+19. Registruotoji
 pašto siunta – pašto siunta, kuriai suteikta pastovaus dydžio garantija
-pašto siuntos dingimo, vagystės ar sugadinimo atveju. Siuntėjo prašymu
-pateikiami įrodymai, kad ši pašto siunta buvo pristatyta ar įteikta gavėjui.
-19. Reklaminė
+pašto siuntos dingimo, vagystės ar sugadinimo atveju. Siuntėjo prašymu pateikiami
+įrodymai, kad ši pašto siunta buvo pristatyta ar įteikta gavėjui.
+20. Reklaminė
 pašto siunta – adresuota pašto siunta, kurią sudaro vieno siuntėjo paštu
 siunčiamas reklaminio, komercinio ar viešai skelbiamo pobūdžio vienodo turinio
 pranešimas (išskyrus sąskaitas, mokėjimo pranešimus, finansines ataskaitas ir
 kitokius nevienodo turinio pranešimus). Jei reklaminėje pašto siuntoje
 siunčiami kitokio pobūdžio pranešimai, ji nelaikoma reklamine pašto siunta. 
-20. Rezervuotosios pašto paslaugos –
+21. Rezervuotosios pašto paslaugos –
 pašto paslaugų dalis, kurių teikimas apribojamas laikantis nustatytų svorio ir
 kainų ribų, kad būtų užtikrintas universaliųjų pašto paslaugų teikimas.
-21. Tarptautinė pašto siunta –
-pašto siunta, siunčiama iš vienos valstybės į kitą. 
-22. Universaliosios pašto paslaugos –
-nenutrūkstamai visoje šalies teritorijoje teikiamos pašto paslaugos.
-23. Universaliųjų pašto paslaugų
-teikėjas – valstybės įmonė Lietuvos paštas ir (ar) kiti pašto paslaugų
-teikėjai, Vyriausybės įgalioti teikti universaliąsias pašto paslaugas šalies
-teritorijoje.
-24. Viešasis pašto tinklas –
-pašto infrastruktūra, kuria naudojasi universaliųjų pašto paslaugų teikėjas
-teikdamas pašto paslaugas: surinkdamas pašto siuntas, priskiriamas
-universaliosioms pašto paslaugoms, iš visoje teritorijoje esančių pašto
-paslaugų teikimo vietų; apdorodamas ir veždamas tokias pašto siuntas nuo
-paėmimo iš pašto paslaugų teikimo vietų iki rūšiavimo vietų; pristatydamas
-siuntas pagal adresus, nurodytus ant pašto siuntų.
+22. Siuntėjas – asmuo, kuris
+pašto ir (ar) pasiuntinių paslaugų teikėjui pateikia pristatyti ar įteikti jo
+nurodytam gavėjui pašto siuntą.
+23. Tarptautinė pašto siunta – pašto siunta,
+siunčiama iš vienos valstybės į kitą. 
+24. Universaliosios pašto paslaugos –
+nenutrūkstamai visoje Lietuvos Respublikos teritorijoje teikiamos pašto
+paslaugos.
+25. Universaliųjų pašto paslaugų
+teikėjas – akcinė bendrovė Lietuvos paštas ir (ar) kiti pašto paslaugas
+teikiantys Lietuvos Respublikos piliečiai ar asmenys, turintys leidimą nuolat
+gyventi Lietuvos Respublikoje, Lietuvos Respublikoje įsteigti juridiniai
+asmenys, taip pat kitos valstybės narės juridinių asmenų ar kitų organizacijų
+filialai įsteigti Lietuvos Respublikoje, Vyriausybės įgalioti teikti
+universaliąsias pašto paslaugas Lietuvos Respublikos teritorijoje.
+26. Valstybė narė – Europos
+Sąjungos valstybė narė ar Europos ekonominės erdvės valstybė. 
+27. Viešasis pašto tinklas – pašto
+infrastruktūra, kuria naudojasi universaliųjų pašto paslaugų teikėjas teikdamas
+pašto paslaugas: surinkdamas pašto siuntas, priskiriamas universaliosioms pašto
+paslaugoms, iš visoje teritorijoje esančių pašto paslaugų teikimo vietų;
+apdorodamas ir veždamas tokias pašto siuntas nuo paėmimo iš pašto paslaugų
+teikimo vietų iki rūšiavimo vietų; pristatydamas siuntas pagal adresus,
+nurodytus ant pašto siuntų.
+Straipsnio pakeitimai:
+Nr. XI-628,
+2009-12-22, Žin., 2010, Nr. 1-33 (2010-01-05)
  
 3
 straipsnis. Pašto veiklos reguliavimo institucijos
@@ -177,14 +198,10 @@ reguliavimo tarnybos statusą, veiklas, apibrėžtas šiame Įstatyme, finansavi
 šaltinius, sąlygas ir tvarką bei kitus veiklos aspektus nustato Elektroninių
 ryšių įstatymas.
 4. Ryšių reguliavimo tarnyba:
-1) rengia ir tvirtina bendrąsias pasiuntinių paslaugų
-teikimo sąlygas ir prižiūri, kaip jų
-laikomasi;
-2) vadovaudamasi Civilinio kodekso 2.78 ir 2.79
-straipsniais, rengia ir tvirtina leidimų pašto paslaugų teikėjams išdavimo ir
-pašto paslaugų teikimo taisykles ir išduoda leidimus, taip pat prižiūri, kaip
-laikomasi leidimų pašto paslaugų teikėjams išdavimo ir pašto paslaugų teikimo
-taisyklių reikalavimų; 
+1) rengia ir
+tvirtina pašto ir pasiuntinių paslaugų teikimo taisykles ir prižiūri, kaip
+laikomasi jose nustatytų reikalavimų;
+2) (neteko galios nuo 2010 m. sausio 5 d.);
 3) rengia ir teikia tvirtinti Vyriausybei ar jos
 įgaliotai institucijai nuostolingų universaliųjų pašto paslaugų kompensavimo
 taisykles;
@@ -227,15 +244,19 @@ užtikrinti tinkamą jos apsaugą;
 kitų teisės aktų nustatytas funkcijas.
 5. Ryšių reguliavimo tarnyba, įgyvendindama šio
 Įstatymo jai pavestas funkcijas, turi teisę:
-1) kontroliuoti, kaip laikomasi šio
-Įstatymo bei kitų teisės aktų, reglamentuojančių pašto veiklą, nuostatų;
+1) kontroliuoti,
+kaip laikomasi šio Įstatymo bei kitų teisės aktų, reglamentuojančių pašto ir
+pasiuntinių veiklą, nuostatų; 
 2) gauti iš valstybės ir savivaldybės
 institucijų, pašto bei pasiuntinių paslaugų teikėjų ir naudotojų, taip pat kitų
 asmenų visą jai reikalingą su pavestų uždavinių įgyvendinimu ir funkcijų
-vykdymu susijusią informaciją, taip pat ir finansinę, užtikrindama konfidencialios
-informacijos apsaugą;
+vykdymu susijusią informaciją, taip pat ir finansinę, užtikrindama
+konfidencialios informacijos apsaugą;
 3) atlikti kitus Lietuvos Respublikos
 įstatymuose ir kituose teisės aktuose nurodytus veiksmus. 
+Straipsnio pakeitimai:
+Nr. XI-628,
+2009-12-22, Žin., 2010, Nr. 1-33 (2010-01-05)
  
 4
 straipsnis. Pašto ir pasiuntinių veiklos
@@ -262,127 +283,189 @@ patalpas duoti paaiškinimus;
 tikrinamo pašto bei pasiuntinių paslaugų teikėjo ūkines operacijas iš kitų
 asmenų, neatsižvelgiant į jų pavaldumą, taip pat iš valstybės valdymo ir
 savivaldos institucijų;
-4) siekdami nustatyti, ar pašto bei pasiuntinių
-paslaugų teikėjai nepažeidžia šiame Įstatyme bei leidimų pašto paslaugų
-teikėjams išdavimo ir pašto paslaugų teikimo taisyklėse ar bendrosiose
-pasiuntinių paslaugų teikimo sąlygose nustatytų reikalavimų, tikrina pašto bei
-pasiuntinių paslaugų teikėjų ūkinę veiklą; išsamiai patikrina universaliųjų
-pašto paslaugų teikėjo (teikėjų) sąnaudas ir (ar) pajamų sistemą (sistemas);
+4)
+siekdami nustatyti, ar pašto ir pasiuntinių paslaugų teikėjai nepažeidžia šiame
+Įstatyme, pašto ir pasiuntinių paslaugų teikimo taisyklėse nustatytų
+reikalavimų, tikrina pašto ir pasiuntinių paslaugų teikėjų ūkinę veiklą;
+išsamiai patikrina universaliųjų pašto paslaugų teikėjo (teikėjų) sąnaudas ir
+(ar) pajamų sistemą (sistemas);
 5) laikinai – iki 30 dienų – paima dokumentus ir
 daiktus, kurie būtini ar turi įrodomąją reikšmę tiriant pažeidimą, palikdami
 motyvuotą sprendimą dėl dokumentų ir (ar) daiktų paėmimo bei paimtų
 dokumentų ir (ar) daiktų aprašą; išreikalauja padaryti nurodytų dokumentų
 kopijas;
 6) tyrimui pasitelkia specialistų ir ekspertų;
-7) atlieka kitus šiame
-ir kituose įstatymuose nurodytus veiksmus. 
+7) atlieka kitus šiame ir kituose įstatymuose
+nurodytus veiksmus.
 2. Ryšių reguliavimo tarnybos
 įgalioti pareigūnai, įgyvendindami jiems suteiktas teises, surašo dokumentus
 (aktus, protokolus, reikalavimus ir pan.). Jų formas ir užpildymo tvarką
-įsakymu patvirtina Ryšių reguliavimo tarnybos direktorius. 
+įsakymu patvirtina Ryšių reguliavimo tarnybos direktorius.
 3. Ryšių reguliavimo tarnybos
 įgaliotų pareigūnų, įgyvendinančių šiame straipsnyje nurodytas teises,
 reikalavimai yra privalomi asmenims ir jų valdymo organų bei administracijos
 darbuotojams. Už Ryšių reguliavimo tarnybos įgaliotų pareigūnų reikalavimų
-nevykdymą asmenys atsako įstatymų nustatyta tvarka. 
+nevykdymą asmenys atsako įstatymų nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. XI-628,
+2009-12-22, Žin., 2010, Nr. 1-33 (2010-01-05)
  
 6
-straipsnis. Teisė teikti pašto ir pasiuntinių paslaugas
-
-1. Asmenys turi teisę teikti pašto ir (ar) pasiuntinių paslaugas laikydamiesi
-šio Įstatymo ir kitų teisės aktų nustatytų reikalavimų. Ryšių reguliavimo
-tarnyba nustato, kokią informaciją ir dokumentus asmuo privalo pateikti
-norėdamas teikti pašto ir (ar) pasiuntinių paslaugas. 
-2. Pasiuntinių paslaugas asmenys
-turi teisę teikti be atskiro išankstinio valstybės institucijų leidimo, kai
-Ryšių reguliavimo tarnybos nustatyta
-tvarka ir sąlygomis praneša apie tai Ryšių reguliavimo tarnybai. Ryšių
-reguliavimo tarnyba, gavusi asmens pranešimą apie numatomą pasiuntinių paslaugų teikimo pradžią, ne vėliau kaip per 15 darbo
-dienų informuoja šį asmenį, kad pranešimą gavo, ir nurodo, ar pranešimo turinys
-ir forma atitinka bendrąsias pasiuntinių paslaugų teikimo sąlygas. 
-3. Teikti pašto paslaugas asmenys
-turi teisę tik turėdami leidimą. Ryšių reguliavimo tarnyba, gavusi asmens
-prašymą išduoti leidimą teikti pašto paslaugas, vadovaudamasi leidimų pašto
-paslaugų teikėjams išdavimo ir pašto paslaugų teikimo taisyklėmis, ne vėliau
-kaip per 30 dienų nuo prašymo pateikimo dienos išduoda leidimą. Leidimas
-įsigalioja paskelbus informaciją apie jo išdavimą „Valstybės žinių“ priede
-„Informaciniai pranešimai“. Leidimas neišduodamas, jeigu pateikiami ne visi
-dokumentai, kurių reikia leidimui gauti, dokumentai neatitinka nustatytų
-reikalavimų ar pateikiami klaidingi duomenys. Ryšių reguliavimo tarnyba,
-atsisakiusi asmeniui išduoti leidimą, nurodo tokio atsisakymo motyvus bei
-apskundimo tvarką. Pašalinus priežastis, dėl kurių leidimas neišduotas, asmuo
-gali pateikti prašymą jį išduoti. 
-4. Leidimo galiojimas
-panaikinamas, jeigu asmuo pateikia rašytinį prašymą panaikinti leidimo
-galiojimą, asmuo yra likviduotas, reorganizuotas (išskyrus jungimo būdu),
-leidimą gavo pateikęs klaidingus duomenis, suklastotus dokumentus, jeigu
-nuslėpė faktus, dėl kurių leidimas negalėjo būti išduotas, arba vienerius metus
-nuo leidimo įsigaliojimo dienos nepradėjo teikti pašto paslaugų. Leidimo
-galiojimas panaikinamas Ryšių reguliavimo tarnybos direktoriaus įsakymu. Apie
-leidimo galiojimo panaikinimą asmeniui per 5 darbo dienas pranešama raštu.
-Panaikinus leidimo galiojimą, asmuo leidimą per 10 dienų nuo pranešimo gavimo
-dienos turi grąžinti Ryšių reguliavimo tarnybai. 
-5. Asmenys, prieš nutraukdami pašto ir (ar) pasiuntinių paslaugų teikimą, privalo
-apie tai pranešti Ryšių reguliavimo tarnybai jos nustatyta tvarka ir sąlygomis.
+straipsnis. Teisė teikti pašto ir pasiuntinių paslaugas 
+1. Pašto ir (ar)
+pasiuntinių paslaugas galima teikti pateikus apie tai pranešimą Ryšių
+reguliavimo tarnybai. Ryšių reguliavimo tarnyba nustato pranešimo apie pašto ir
+pasiuntinių paslaugų teikimo pradžią pateikimo tvarką ir sąlygas pašto ir
+pasiuntinių paslaugų teikimo taisyklėse.
+2. Prieš
+pradedant teikti pašto ir (ar) pasiuntinių paslaugas, Ryšių reguliavimo
+tarnybai reikia pateikti: 
+1) Ryšių
+reguliavimo tarnybos nustatytos formos pranešimą apie pašto ir (ar) pasiuntinių
+paslaugų teikimo pradžią (toliau – pranešimas);
+2) juridinio asmens
+teisėtą įsisteigimą patvirtinančių dokumentų kopijas (išskyrus juridinius
+asmenis, įregistruotus Lietuvos Respublikos juridinių asmenų registre), jei
+pranešimą teikia juridinis asmuo.
+3. Ryšių
+reguliavimo tarnyba ne vėliau kaip per 5 darbo dienas nuo visų šio straipsnio 2
+dalyje nurodytų dokumentų gavimo dienos įrašo pašto ir (ar) pasiuntinių
+paslaugų teikėją į pašto ir (ar) pasiuntinių paslaugų teikėjų sąrašą ir apie
+tai paskelbia Ryšių reguliavimo tarnybos interneto svetainėje, taip pat praneša
+pašto ir (ar) pasiuntinių paslaugų teikėjui. 
+4. Pašto ir (ar)
+pasiuntinių paslaugų teikėjas išbraukiamas iš pašto ir (ar) pasiuntinių
+paslaugų teikėjų sąrašo ir netenka teisės teikti pašto ir (ar) pasiuntinių
+paslaugas, jeigu jis:
+1) pateikia
+pranešimą apie pašto ir (ar) pasiuntinių paslaugų teikimo pabaigą;
+2) miršta arba
+yra likviduotas; 
+3) yra
+pripažintas bankrutavusiu;
+4) teikdamas
+Ryšių reguliavimo tarnybai pranešimą, pateikė klaidingus duomenis, suklastotus
+dokumentus arba nuslėpė faktus, dėl kurių negalėjo pradėti teikti pašto ir (ar)
+pasiuntinių paslaugas ir būti įrašytas į pašto ir (ar) pasiuntinių paslaugų
+teikėjų sąrašą;
+5) vienus metus
+neteikė Ryšių reguliavimo tarnybai ataskaitų dėl suteiktų pašto ir (ar)
+pasiuntinių paslaugų arba vienus metus pašto ir (ar) pasiuntinių paslaugų
+teikėjo negalima surasti jo buveinėje, nurodytoje Juridinių asmenų registre.
+5. Pašto ir (ar)
+pasiuntinių paslaugų teikėjas netenka teisės teikti pašto ir (ar) pasiuntinių
+paslaugas kitą dieną po jo išbraukimo iš pašto ir (ar) pasiuntinių paslaugų
+teikėjų sąrašo. Apie pašto ir (ar) pasiuntinių paslaugų teikėjo išbraukimą iš
+pašto ir (ar) pasiuntinių paslaugų teikėjų sąrašo Ryšių reguliavimo tarnyba
+paskelbia savo interneto svetainėje ir praneša pašto ir (ar) pasiuntinių paslaugų
+teikėjui. 
+6. Pašto ir (ar)
+pasiuntinių paslaugų teikėjas, nutraukęs pašto ir (ar) pasiuntinių paslaugų
+teikimą, privalo apie tai pranešti Ryšių reguliavimo tarnybai jos nustatyta
+tvarka ir sąlygomis.
+Straipsnio pakeitimai:
+Nr. XI-628,
+2009-12-22, Žin., 2010, Nr. 1-33 (2010-01-05)
  
-7 straipsnis.
-Pašto ir
-pasiuntinių paslaugų teikimas 
-1. Pašto siuntų, siunčiamų
-viešuoju pašto tinklu, rūšys bei didžiausi ir
-mažiausi matmenys turi atitikti Pasaulinės pašto sąjungos Pasaulinėje pašto
-konvencijoje, Pašto korespondencijos ir Pašto siuntinių reglamentuose
-nustatytus reikalavimus. 
-2. Jei nustatoma, kad priimtoje
-pašto siuntoje yra teisės aktais draudžiamų siųsti daiktų (prekių), jie
-grąžinami siuntėjui arba konfiskuojami įstatymų nustatytais atvejais ir tvarka.
-3. Jei įstatymų nustatytais
-atvejais ir tvarka konfiskuojama pašto siunta kartu su draudžiamais siųsti
-daiktais (prekėmis), apie tai pašto paslaugos teikėjas praneša siuntėjui.
-Pranešime išvardijami konfiskuoti daiktai (prekės).
-4. Pašto siuntos vežamos pašto ar
-pasiuntinių paslaugų teikėjų arba kitų vežėjų, su kuriais sudarytos vežimo
-sutartys, transporto priemonėmis. Vežėjo atsakomybė už pašto siuntos
-neišsaugojimą (praradimą, apgadinimą, daiktų trūkumą jose) nustatoma vežimo
-sutartyje, vadovaujantis įstatymais bei Lietuvos Respublikos tarptautinėmis
-sutartimis.
-5. Pašto siuntas vežančioms
-transporto priemonėms, vežančioms tik pašto siuntas, ir jas lydintiems asmenims
-per pasienio kontrolės punktus, nuolatinėmis ir laikinomis jūrų, upių, kanalų
-ar kitų vandens telkinių perkėlomis leidžiama vykti be eilės. 
-6. Registruotoji pašto siunta
-įteikiama siuntėjo nurodytam gavėjui arba šio gavėjo įgaliotam asmeniui. 
-7. Pašto paslaugų teikėjai įdeda
-pašto siuntas į gaunamųjų laiškų dėžutes, o jei to padaryti negalima, apie tai
-praneša gavėjui. Pašto siunta, adresuota asmeniui į jo darbo, mokymosi vietą,
-bendrabutį, į karinės tarnybos vietą, ligoninę, sanatoriją, stovyklą ar
-įkalinimo vietą, pristatoma (įteikiama) administracijai arba jos įgaliotiems
-asmenims.
-8. Gaunamųjų laiškų dėžutės turi
-būti įrengtos lengvai prieinamoje vietoje daugiabučių namų kiekvienoje
-laiptinėje ne aukščiau kaip antrame aukšte; įmonėse, įstaigose, organizacijose
-– prie pagrindinių įėjimų; sodininkų bendrijose – prie pagrindinių įėjimų
-(įvažiavimų) į sodą. Individualių namų savininkai įrengia gaunamųjų laiškų
-dėžutes prie įėjimo į jų sklypus arba ant greta gatvės esančių namų sienų,
-tvorų, stovelių. Gaunamųjų laiškų dėžutes įrengia pašto siuntos gavėjas.
-9. Pasiuntinių paslaugų teikėjai siuntėjo pageidavimu gali teikti tokias papildomas
-paslaugas: surinkti pašto siuntas iš siuntėjų, garantuoti pašto siuntų
-pristatymą siuntėjo nustatytu laiku, suteikti galimybę pristatymo metu keisti
-gavėją, patvirtinti apie pašto siuntos įteikimą, sudaryti galimybę stebėti
-pašto siuntos pristatymą. 
-10. Pašto siunta, kurios
+7
+straipsnis. Pašto ir pasiuntinių paslaugų teikimas
+1. Pašto ir (ar) pasiuntinių paslaugų
+teikėjas privalo:
+1) pasitvirtinti pašto ir (ar)
+pasiuntinių paslaugų teikimo taisykles;
+2) užtikrinti susirašinėjimo slaptumą;
+3) atsakyti į naudotojo su pašto ir (ar)
+pasiuntinių paslaugų teikimu susijusį skundą per 10 dienų nuo skundo gavimo
+dienos; šis reikalavimas netaikomas universaliųjų pašto paslaugų teikėjui,
+kuris privalo vadovautis atitinkamais Europos standartais Lietuvos Respublikos
+Vyriausybės ar jos įgaliotos institucijos tvirtinamų Universaliųjų pašto
+paslaugų teikimo taisyklėse nustatyta tvarka;
+4) ant pašto siuntos nurodyti arba prie
+pašto siuntos pridėti duomenis, pagal kuriuos būtų galima nustatyti pašto ir
+(ar) pasiuntinių paslaugų teikėją, jo buveinės arba gyvenamosios vietos adresą,
+pašto siuntos priėmimo siųsti datą; pašto paslaugų teikėjas ant pašto siuntos
+privalo papildomai nurodyti pristatymo (įteikimo) gavėjui datą;
+5) teikti Ryšių reguliavimo tarnybai
+ataskaitas dėl suteiktų pašto ir (ar) pasiuntinių paslaugų.
+2. Be šio straipsnio 1 dalyje nustatytų
+reikalavimų, pašto paslaugų teikėjas privalo:
+1) aptarnaujamoje teritorijoje įrengti
+pašto paslaugų teikimo vietas;
+2) pašto siuntų surinkimo vietoje pašto
+siuntą pažymėti spaudu „Pašto paslaugos“ (šis reikalavimas netaikomas
+universaliųjų pašto paslaugų teikėjui);
+3) pašto siuntas įdėti į gaunamųjų laiškų
+dėžutes, o jei to padaryti negalima, – apie tai pranešti gavėjui; 
+4) pašto siuntas, adresuotas asmeniui į
+jo darbo, mokymosi vietą, bendrabutį, į karo tarnybos vietą, ligoninę,
+sanatoriją, stovyklą ar įkalinimo vietą, pristatyti (įteikti) administracijai
+arba jos įgaliotiems asmenims; 
+5) registruotąsias pašto siuntas įteikti
+siuntėjo nurodytam gavėjui arba gavėjo įgaliotam asmeniui;
+6) saugoti pašto siuntą, kurios
 neįmanoma pristatyti (įteikti) gavėjui ar grąžinti siuntėjui, kai siuntėjas
-(gavėjas) atsisako ją paimti arba kai nurodytu adresu
-gavėjas (siuntėjas) negyvena, saugoma Vyriausybės įgaliotos institucijos
-nustatytą laiką. Jeigu per nustatytą laiką siuntėjas (gavėjas) pašto siuntos
-neatsiėmė, nors jam buvo išsiųstas rašytinis perspėjimas, pašto paslaugų teikėjas Valstybinei mokesčių inspekcijai
-turi pranešti apie tokį turtą ir perduoti jį valstybės nuosavybėn. Prie
-pranešimo pridedama pašto paslaugų teikėjo žyma, kad siuntėjas (gavėjas)
-kviečiamas pašto siuntą atsiimti neatvyko arba pašto siuntos atsisakė. 
-11. Keitimasis dokumentais vyksta
-tarp susitarimą dėl keitimosi dokumentais sudariusių asmenų. Šie asmenys patys
+(gavėjas) atsisako ją paimti arba kai nurodytu adresu gavėjas (siuntėjas)
+negyvena, Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatytą
+laiką. Jeigu per nustatytą laiką siuntėjas (gavėjas) pašto siuntos neatsiima,
+nors jam buvo išsiųstas rašytinis perspėjimas, pašto paslaugų teikėjas
+Valstybinei mokesčių inspekcijai turi pranešti apie tokį turtą ir perduoti jį
+valstybės nuosavybėn. Prie pranešimo pridedama pašto paslaugų teikėjo žyma, kad
+siuntėjas (gavėjas) kviečiamas pašto siuntą atsiimti neatvyko arba pašto
+siuntos atsisakė.
+3. Be šio straipsnio 1 dalyje nustatytų
+reikalavimų, pasiuntinių paslaugų teikėjas privalo:
+1) įteikti pašto siuntą gavėjui
+asmeniškai pasirašytinai; jeigu įteikti pašto siuntos gavėjui asmeniškai
+pasirašytinai nėra galimybės (nerandama gavėjo siuntėjo nurodytu adresu ir
+pan.), pasiuntinių paslaugų teikėjas gali informuoti gavėją apie pašto siuntą
+palikdamas pranešimą gavėjo gaunamųjų laiškų dėžutėje;
+2) saugoti pašto ir pasiuntinių paslaugų
+teikimo taisyklėse nurodytus dokumentus, patvirtinančius pašto siuntų įteikimą,
+ne mažiau kaip 6 mėnesius nuo pašto siuntos įteikimo dienos;
+3) pašto siuntą, kurios neįmanoma
+įteikti gavėjui (gavėjas atsisako ją priimti, nebegyvena siuntėjo nurodytu
+adresu ir pan.), grąžinti siuntėjui.
+4. Pasiuntinių paslaugų teikėjai
+siuntėjo pageidavimu gali teikti tokias papildomas paslaugas: surinkti pašto
+siuntas iš siuntėjų; garantuoti pašto siuntų pristatymą siuntėjo nustatytu
+laiku; suteikti galimybę pristatymo metu keisti gavėją; patvirtinti apie pašto
+siuntos įteikimą; sudaryti galimybę stebėti pašto siuntos pristatymą; teikti
+kitas papildomas paslaugas. 
+5. Pašto ir (ar) pasiuntinių paslaugų
+teikimo sąlygos detalizuojamos Ryšių reguliavimo tarnybos patvirtintose pašto
+ir pasiuntinių paslaugų teikimo taisyklėse. 
+6. Pašto siuntų, siunčiamų viešuoju
+pašto tinklu, rūšys bei didžiausi ir mažiausi matmenys turi atitikti Pasaulinės
+pašto sąjungos Pasaulinėje pašto konvencijoje, Pašto korespondencijos ir Pašto
+siuntinių reglamentuose nustatytus reikalavimus. 
+7. Už pašto siuntos turinį atsakingas
+siuntėjas. Jei nustatoma, kad priimtoje pašto siuntoje yra teisės aktais
+draudžiamų siųsti daiktų (prekių), jie grąžinami siuntėjui arba konfiskuojami
+įstatymų nustatytais atvejais ir tvarka.
+8. Jeigu įstatymų nustatytais atvejais
+ir tvarka konfiskuojama pašto siunta kartu su draudžiamais siųsti daiktais
+(prekėmis), apie tai pašto ir (ar) pasiuntinių paslaugų teikėjas praneša
+siuntėjui. Pranešime išvardijami konfiskuoti daiktai (prekės). 
+9. Pašto siuntos vežamos pašto ir (ar)
+pasiuntinių paslaugų teikėjų arba kitų vežėjų, su kuriais sudarytos vežimo
+sutartys, transporto priemonėmis. Transporto priemonėms, vežančioms tik pašto
+siuntas, ir jas lydintiems asmenims per pasienio kontrolės punktus nuolatinėmis
+ir laikinomis jūrų, upių, kanalų ar kitų vandens telkinių perkėlomis leidžiama
+vykti be eilės. 
+10. Gaunamųjų laiškų dėžutės turi būti
+įrengtos lengvai prieinamoje vietoje daugiabučių namų kiekvienoje laiptinėje ne
+aukščiau kaip antrame aukšte; įmonėse, įstaigose, organizacijose – prie
+pagrindinių įėjimų; sodininkų bendrijose – prie pagrindinių įėjimų (įvažiavimų)
+į sodą. Individualių namų savininkai įrengia gaunamųjų laiškų dėžutes prie
+įėjimo į jų sklypus arba ant greta gatvės esančių namų sienų, tvorų, stovelių.
+Gaunamųjų laiškų dėžutes įrengia pašto siuntos gavėjas.
+11. Keitimasis dokumentais vyksta tarp
+susitarimą dėl keitimosi dokumentais sudariusių asmenų. Šie asmenys patys
 pristato ir pasiima pašto siuntas, naudodamiesi savo ar trečiųjų asmenų
 patalpomis, transportu.
+Straipsnio pakeitimai:
+Nr. XI-628,
+2009-12-22, Žin., 2010, Nr. 1-33 (2010-01-05)
  
 8
 straipsnis. Universaliosios pašto paslaugos
@@ -434,19 +517,19 @@ reikalavimus, tarp jų ir reikalavimą atlikti auditą; sąnaudų apskaitos
 sistemoje atskirti kiekvieną universaliąją pašto paslaugą bei rezervuotąsias
 pašto paslaugas;
 8) nacionalinės
-standartizacijos institucijos nustatyta tvarka taikyti Europos Sąjungos
-standartus;
+standartizacijos institucijos nustatyta tvarka taikyti Europos Sąjungos standartus;
 9) skaidriomis
 ir nediskriminacinėmis sąlygomis sudaryti sutartis su kitais pašto paslaugų
 teikėjais dėl galimybės naudotis viešuoju pašto tinklu;
 10) atliekant tarpvalstybinius
 galutinius atsiskaitymus už tarptautinio pašto paslaugas, laikytis tokių
 principų: nustatyti galutinių atsiskaitymų dydį atsižvelgiant į gaunamo
-tarptautinio pašto apdorojimo ir pristatymo sąnaudas; atsiskaitymus susieti su paslaugų
-kokybe; galutiniai atsiskaitymai turi būti skaidrūs ir nediskriminuojantys.
+tarptautinio pašto apdorojimo ir pristatymo sąnaudas; atsiskaitymus susieti su
+paslaugų kokybe; galutiniai atsiskaitymai turi būti skaidrūs ir
+nediskriminuojantys.
 4. Universaliųjų pašto paslaugų teikėjas turi teisę:
-1) sudaryti su klientais individualias
-sutartis dėl universaliųjų pašto paslaugų tarifų; 
+1) sudaryti
+individualias sutartis dėl universaliųjų pašto paslaugų tarifų;
 2) bendradarbiauti su kitų šalių
 universaliųjų pašto paslaugų teikėjais, pagal kompetenciją dalyvauti
 tarptautinių pašto organizacijų veikloje.
@@ -465,7 +548,10 @@ teikiamomis pašto paslaugomis. Tarifai turi būti vienodi visiems panašiomis
 sąlygomis siunčiantiems naudotojams.
 7. Valstybės įmonė Lietuvos paštas gali
 turėti antspaudą su Lietuvos valstybės herbu ir savo pavadinimu. Valstybės
-herbą taip pat gali naudoti iškabose, pašto ženkluose, dokumentų blankuose. 
+herbą taip pat gali naudoti iškabose, pašto ženkluose, dokumentų blankuose.
+Straipsnio pakeitimai:
+Nr. XI-628,
+2009-12-22, Žin., 2010, Nr. 1-33 (2010-01-05)
  
 9
 straipsnis. Rezervuotosios pašto paslaugos 
@@ -530,8 +616,8 @@ dėl ginčo per 30 dienų nuo jo priėmimo dienos gali būti skundžiamas teismu
 nustatyta tvarka.
  
 12
-straipsnis. Pašto ir pasiuntinių paslaugų teikėjų atsakomybė ir žalos atlyginimas
-
+straipsnis. Pašto ir pasiuntinių paslaugų teikėjų atsakomybė ir žalos
+atlyginimas 
 1.
 Siuntėjas dėl žalos atlyginimo už dingusią pašto siuntą, dingusius, trūkstamus
 ar apgadintus siųstus daiktus pretenziją gali pareikšti pašto paslaugų teikėjui
@@ -636,12 +722,11 @@ RESPUBLIKOS
 PREZIDENTAS                                                           VALDAS ADAMKUS
                                                                                                                                                 Lietuvos
 Respublikos 
-                                                                                                            pašto
+                                                                                                            pašto
 įstatymo
                                                                                                             priedas
-                                                                                                
-ĮGYVENDINAMI
-EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 1. 1997 m.
 gruodžio 15 d. Europos Parlamento ir Tarybos direktyva 97/67/EB dėl Bendrijos
@@ -682,12 +767,17 @@ Iki šio Įstatymo įsigaliojimo
 pašto bei pasiuntinių paslaugų teikėjams išduoti leidimai galioja tiek, kiek
 neprieštarauja šio Įstatymo nuostatoms.
  
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-628,
+2009-12-22, Žin., 2010, Nr. 1-33 (2010-01-05)
+PAŠTO ĮSTATYMO 2, 3, 5, 6, 7, 8
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
-***
-Pabaiga ***
+*** Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2004-04-28)
-        
-         autrap@lrs.lt
+Redagavo Aušrinė Trapinskienė
+(2010-01-21)
+   
+              autrap@lrs.lt
