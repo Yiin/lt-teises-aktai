@@ -3135,8 +3135,8 @@ Seimo nario įgaliojimus
 nutrūkusiais pripažįsta Vyriausioji rinkimų komisija, išskyrus šio įstatymo 95
 straipsnio 6 dalyje numatytus atvejus, ne vėliau kaip per 15 dienų po to, kai
 tam atsiranda vada:
-1) Seimo nariui mirus - pagal
-notariškai patvirtintą mirties liudijimo kopiją;
+1) Seimo nariui mirus − pagal
+Lietuvos Respublikos gyventojų registro duomenis;
 2) Seimo nariui atsistatydinus -
 pagal Seimo nario paties parašytą pareiškimą atsistatydinti. Šį pareiškimą
 Seimo narys pats turi pakartoti Vyriausiosios rinkimų komisijos posėdyje. Jeigu
@@ -3155,6 +3155,9 @@ netekimo;
 7) įstatymo nustatyta tvarka
 Seimo narys neprisiekė arba prisiekė lygtinai - pagal įsigaliojusį Seimo
 nutarimą.
+Straipsnio pakeitimai:
+Nr. XI-616,
+2009-12-22, Žin., 2010, Nr. 1-27 (2010-01-05)
  
 97 straipsnis. Laisvos Seimo
 nario vietos užėmimas
@@ -3186,10 +3189,10 @@ nario mandatų negavusių kandidatų nėra, Seimo nario mandatas perduodamas kit
 sąrašui pagal kandidatų sąrašų eilę, sudarytą po rinkimų mandatams paskirstyti
 liekanų metodu, tai yra tam sąrašui, kuris yra pirmasis po sąrašo, kuris
 paskutinis gavo mandatą pagal šią eilę. Seimo nariu tampa naujai mandatą
-gavusio sąrašo pirmasis Seimo nario mandato negavęs kandidatas. Vyriausioji rinkimų
-komisija sprendimą dėl Seimo nario mandato pripažinimo naujam Seimo nariui turi
-priimti ne vėliau kaip per 7 dienas po to, kai atsirado laisva Seimo nario
-vieta.
+gavusio sąrašo pirmasis Seimo nario mandato negavęs kandidatas. Vyriausioji
+rinkimų komisija sprendimą dėl Seimo nario mandato pripažinimo naujam Seimo
+nariui turi priimti ne vėliau kaip per 7 dienas po to, kai atsirado laisva
+Seimo nario vieta.
  
 98 straipsnis. Seimo nario mandato netekimas dėl rinkėjams
 nepaskelbto bendradarbiavimo su kitų valstybių specialiosiomis tarnybomis ir
@@ -3394,9 +3397,9 @@ Respublikos Seimas, Įstatymas
 Nr. IX-1912,
 2003-12-18, Žin., 2003, Nr. 123-5584 (2003-12-30)
 PROKURATŪROS
-ĮSTATYMO, VIEŠŲJŲ IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE ĮSTATYMO,
-SAVIVALDYBIŲ TARYBŲ RINKIMŲ ĮSTATYMO, PREZIDENTO RINKIMŲ ĮSTATYMO, SEIMO
-RINKIMŲ ĮSTATYMO, PINIGINĖS SOCIALINĖS PARAMOS MAŽAS PAJAMAS GAUNANČIOMS
+ĮSTATYMO, VIEŠŲJŲ IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE
+ĮSTATYMO, SAVIVALDYBIŲ TARYBŲ RINKIMŲ ĮSTATYMO, PREZIDENTO RINKIMŲ ĮSTATYMO,
+SEIMO RINKIMŲ ĮSTATYMO, PINIGINĖS SOCIALINĖS PARAMOS MAŽAS PAJAMAS GAUNANČIOMS
 ŠEIMOMS (VIENIEMS GYVENANTIEMS ASMENIMS) ĮSTATYMO, VALSTYBĖS GARANTUOJAMOS
 TEISINĖS PAGALBOS ĮSTATYMO IR VALSTYBĖS KONTROLĖS ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Šis
@@ -3480,11 +3483,18 @@ Nr. XI-219,
 SEIMO RINKIMŲ
 ĮSTATYMO 48 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-616,
+2009-12-22, Žin., 2010, Nr. 1-27 (2010-01-05)
+SEIMO RINKIMŲ ĮSTATYMO 96 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2009-04-27)
+(2010-01-22)
                  
 autrap@lrs.lt
 
