@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 2005-10-13 iki 2010-01-04
+Suvestinė redakcija nuo 2010-01-05 iki 2011-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
  
@@ -166,42 +166,74 @@ BENDROsios nuostatos
 
 
 
-3) skiria ir atšaukia įmonės vadovą, nustato darbo sutarties su įmonės vadovu sąlygas, įmonės vardu sudaro ir nutraukia darbo sutartį su įmonės vadovu, tvirtina įmonės vadovo pareigybės nuostatus. Sprendimas dėl savivaldybės įmonės vadovo skyrimo ir atšaukimo gali būti priimamas tik savivaldybės tarybai pritarus;
+3) priima sprendimą pakeisti įmonės buveinę; 
+Papildyta straipsnio punktu:
+Nr. XI-605, 2009-12-22, Žin., 2010, Nr. 1-16 (2010-01-05), i. k. 1091010ISTA00XI-605
+ 
 
 
 
 
-4) skiria ir atšaukia valdybos narius, jei sudaroma valdyba;
+4) skiria ir atšaukia įmonės vadovą, nustato darbo sutarties su įmonės vadovu sąlygas, įmonės vardu sudaro ir nutraukia darbo sutartį su įmonės vadovu, tvirtina įmonės vadovo pareigybės nuostatus. Sprendimas dėl savivaldybės įmonės vadovo skyrimo ir atšaukimo gali būti priimamas tik savivaldybės tarybai pritarus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-605, 2009-12-22, Žin., 2010, Nr. 1-16 (2010-01-05), i. k. 1091010ISTA00XI-605
+ 
 
 
 
 
-5) tvirtina įmonės metinę finansinę atskaitomybę ir pelno (nuostolių) paskirstymą;
+5) skiria ir atšaukia valdybos narius, jei sudaroma valdyba;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-605, 2009-12-22, Žin., 2010, Nr. 1-16 (2010-01-05), i. k. 1091010ISTA00XI-605
+ 
 
 
 
 
-6) parenka audito įmonę;
+6) tvirtina įmonės metinę finansinę atskaitomybę ir pelno (nuostolių) paskirstymą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-605, 2009-12-22, Žin., 2010, Nr. 1-16 (2010-01-05), i. k. 1091010ISTA00XI-605
+ 
 
 
 
 
-7) priima sprendimą reorganizuoti įmonę;
+7) parenka audito įmonę;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-605, 2009-12-22, Žin., 2010, Nr. 1-16 (2010-01-05), i. k. 1091010ISTA00XI-605
+ 
 
 
 
 
-8) priima sprendimą pertvarkyti įmonę, išskyrus šio Įstatymo nustatytas išimtis;
+8) priima sprendimą reorganizuoti įmonę;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-605, 2009-12-22, Žin., 2010, Nr. 1-16 (2010-01-05), i. k. 1091010ISTA00XI-605
+ 
 
 
 
 
-9) priima sprendimus likviduoti įmonę ir atšaukti įmonės likvidavimą;
+9) priima sprendimą pertvarkyti įmonę, išskyrus šio Įstatymo nustatytas išimtis;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-605, 2009-12-22, Žin., 2010, Nr. 1-16 (2010-01-05), i. k. 1091010ISTA00XI-605
+ 
 
 
 
 
-10) paskiria ir atleidžia įmonės likvidatorių.
+10) priima sprendimus likviduoti įmonę ir atšaukti įmonės likvidavimą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-605, 2009-12-22, Žin., 2010, Nr. 1-16 (2010-01-05), i. k. 1091010ISTA00XI-605
+ 
+
+
+
+
+11) paskiria ir atleidžia įmonės likvidatorių.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-605, 2009-12-22, Žin., 2010, Nr. 1-16 (2010-01-05), i. k. 1091010ISTA00XI-605
+ 
 
 
 
@@ -251,7 +283,10 @@ Antrasis skirsnis
 3. Šio straipsnio 1 ir 2 dalyse nurodytuose teisės aktuose, kuriais steigiama įmonė, be kita ko, turi būti nurodyta:
 
 
-1) įmonės pavadinimas;
+1) įmonės pavadinimas ir buveinė;
+Straipsnio punkto pakeitimai:
+Nr. XI-605, 2009-12-22, Žin., 2010, Nr. 1-16 (2010-01-05), i. k. 1091010ISTA00XI-605
+ 
 
 
 
@@ -307,7 +342,10 @@ Antrasis skirsnis
 
 
 
-3) įmonės buveinė;
+3) neteko galios nuo 2010-01-05;
+Straipsnio punkto pakeitimai:
+Nr. XI-605, 2009-12-22, Žin., 2010, Nr. 1-16 (2010-01-05), i. k. 1091010ISTA00XI-605
+ 
 
 
 
@@ -354,7 +392,10 @@ Antrasis skirsnis
 
 
 
-3. Įstatuose gali būti ir kitų nuostatų, neprieštaraujančių šiam ir kitiems įstatymams.
+3. Įmonės savininko teises ir pareigas įgyvendinančios institucijos kompetencijos, valdybos, jei ji sudaroma, kompetencijos, sudarymo ir atšaukimo tvarkos, vadovo kompetencijos, jo skyrimo ir atšaukimo tvarkos ir įmonės įstatų keitimo tvarkos nurodyti nereikia, jeigu tai nesiskiria nuo šiame Įstatyme nustatytųjų ir apie tai nurodoma pačiuose įstatuose. Įstatuose gali būti ir kitų nuostatų, neprieštaraujančių šiam ir kitiems įstatymams.
+Straipsnio dalies pakeitimai:
+Nr. XI-605, 2009-12-22, Žin., 2010, Nr. 1-16 (2010-01-05), i. k. 1091010ISTA00XI-605
+ 
 
 
 
@@ -431,7 +472,9 @@ Antrasis skirsnis
 
 
 
-2. Kai yra nuspręsta pakeisti juridinių asmenų registro duomenis ar įmonės įstatus, įmonės vadovas per 30 dienų nuo įmonės savininko teises ir pareigas įgyvendinančios institucijos sprendimo, kuriuo buvo pakeistas registro duomuo ar įstatai, juridinių asmenų registrui turi pateikti šį sprendimą patvirtinantį dokumentą ir kitus teisės aktų nustatytus dokumentus.
+2. Įmonės savininko teises ir pareigas įgyvendinančiai institucijai priėmus sprendimą, kuriuo buvo pakeistas registro duomuo ar įstatai, įmonės vadovas per įstatymų nustatytus terminus juridinių asmenų registrui turi pateikti šį sprendimą patvirtinantį dokumentą ir kitus teisės aktų nustatytus dokumentus.
+Straipsnio dalies pakeitimai:
+Nr. XI-605, 2009-12-22, Žin., 2010, Nr. 1-16 (2010-01-05), i. k. 1091010ISTA00XI-605
  
 
 
@@ -1522,3 +1565,8 @@ Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo pakeitimo į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-353, 2005-09-29, Žin., 2005, Nr. 122-4360 (2005-10-13); Žin., 2005, Nr. 127-0 (2005-10-27), i. k. 1051010ISTA000X-353
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 4, 11, 12, 13, 15, 19, 23 straipsnių pakeitimo ir papildymo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-605, 2009-12-22, Žin., 2010, Nr. 1-16 (2010-01-05), i. k. 1091010ISTA00XI-605
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo 4, 5, 6, 8 straipsnių pakeitimo ir papildymo įstatymas
