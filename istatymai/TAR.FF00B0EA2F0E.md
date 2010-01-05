@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF00B0EA2F0E"
 
 # Lietuvos Respublikos asociacijų įstatymas
 
+Suvestinė redakcija nuo 2010-01-05 iki 2010-12-27
+ 
+Įstatymas paskelbtas: Žin. 2004, Nr. 25-745, i. k. 1041010ISTA0IX-1969
+ 
+ 
 LIETUVOS RESPUBLIKOS
 ASOCIACIJŲ
 Į S T A T Y M A S
@@ -140,7 +145,15 @@ ASOCIACIJOS STEIGIMAS IR REGISTRAVIMAS
 
 
 
-3) steigimo sutarties sudarymo data.
+3) steigimo sutarties sudarymo data;
+
+
+
+
+4) steigiamos asociacijos buveinė. 
+Papildyta straipsnio punktu:
+Nr. XI-610, 2009-12-22, Žin., 2010, Nr. 1-21 (2010-01-05), i. k. 1091010ISTA00XI-610
+ 
 
 
 
@@ -208,18 +221,10 @@ ASOCIACIJOS STEIGIMAS IR REGISTRAVIMAS
 
 
 
-5. Be Civilinio kodekso 2.66 straipsnyje išvardytų duomenų, juridinių asmenų registre nurodomi šie asociacijos duomenys:
-
-
-1) veiklos laikotarpis, jei jis yra ribotas;
-
-
-
-
-2) finansinių metų pradžios ir pabaigos datos. 
+5. Be Civilinio kodekso 2.66 straipsnyje išvardytų duomenų, juridinių asmenų registre nurodomas asociacijos veiklos laikotarpis, jei jis yra ribotas.
+Straipsnio dalies pakeitimai:
+Nr. XI-610, 2009-12-22, Žin., 2010, Nr. 1-21 (2010-01-05), i. k. 1091010ISTA00XI-610
  
-
-
 
 
 
@@ -491,7 +496,10 @@ ASOCIACIJOS VEIKLA
 
 
 
-3) asociacijos buveinė;
+3) asociacijos buveinės keitimo tvarka;
+Straipsnio punkto pakeitimai:
+Nr. XI-610, 2009-12-22, Žin., 2010, Nr. 1-21 (2010-01-05), i. k. 1091010ISTA00XI-610
+ 
 
 
 
@@ -938,3 +946,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                 ROLANDAS PAKSAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-610, 2009-12-22, Žin., 2010, Nr. 1-21 (2010-01-05), i. k. 1091010ISTA00XI-610
+Lietuvos Respublikos asociacijų įstatymo 5, 6, 12 straipsnių pakeitimo ir papildymo įstatymas
