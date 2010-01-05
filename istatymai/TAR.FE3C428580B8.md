@@ -2921,14 +2921,15 @@ Europos
 Parlamento nario įgaliojimus nutrūkusiais pripažįsta Vyriausioji rinkimų
 komisija ne vėliau kaip per 15 dienų po to, kai tam atsiranda vada:
 1) Europos
-Parlamento nariui mirus, – pagal notaro patvirtintą mirties liudijimo kopiją;
+Parlamento nariui mirus, – pagal Lietuvos Respublikos gyventojų registro
+duomenis;
 2) Europos
 Parlamento nariui atsistatydinus, – pagal paties Europos Parlamento nario
 parašytą pareiškimą atsistatydinti. Šį pareiškimą Europos Parlamento narys pats
 turi pakartoti Vyriausiosios rinkimų komisijos posėdyje. Jeigu Europos
-Parlamento narys dėl sveikatos būklės negali pats atvykti į posėdį,
-Vyriausiosios rinkimų komisijos posėdis rengiamas Europos Parlamento nario
-buvimo Lietuvos Respublikoje vietoje;
+Parlamento narys dėl sveikatos būklės negali pats atvykti į posėdį, Vyriausiosios
+rinkimų komisijos posėdis rengiamas Europos Parlamento nario buvimo Lietuvos
+Respublikoje vietoje;
 3) teismui
 pripažinus Europos Parlamento narį neveiksniu, – pagal įsiteisėjusį teismo
 sprendimą;
@@ -2940,22 +2941,26 @@ Parlamento nario mandato netekus dėl rinkėjams nepaskelbto kandidato
 bendradarbiavimo su kitų valstybių specialiosiomis tarnybomis ar turėtos teismo
 nuosprendžiu paskirtos bausmės pagal šio Įstatymo 93 straipsnį arba Europos
 Parlamento mandato ir pareigų nesuderinamumo pagal šio Įstatymo 94 straipsnį.
+Straipsnio pakeitimai:
+Nr. XI-617,
+2009-12-22, Žin., 2010, Nr. 1-28 (2010-01-05)
  
 92
 straipsnis. Laisvos Europos Parlamento nario vietos užėmimas
-Jei Europos Parlamento nario įgaliojimai
-pripažinti nutrūkusiais, Europos Parlamente atsiranda laisva Europos Parlamento
-nario vieta. Ją užima kandidatų sąrašo, pagal kurį buvo išrinktas buvęs Europos
-Parlamento narys, pirmasis Europos Parlamento nario mandato negavęs kandidatas.
-Jeigu šiame kandidatų sąraše Europos Parlamento nario mandatų negavusių
-kandidatų nėra, Europos Parlamento nario mandatas perduodamas kitam sąrašui
-pagal kandidatų sąrašų eilę, sudarytą po rinkimų mandatams paskirstyti liekanų
-metodu, tai yra tam sąrašui, kuris yra pirmasis po sąrašo, kuris paskutinis
-gavo mandatą pagal šią eilę. Europos Parlamento nariu tampa naujai mandatą
-gavusio sąrašo pirmasis Europos Parlamento nario mandato negavęs kandidatas.
-Vyriausioji rinkimų komisija sprendimą dėl Europos Parlamento nario mandato
-pripažinimo naujam Europos Parlamento nariui turi priimti ne vėliau kaip per 7
-dienas po to, kai atsirado laisva Europos Parlamento nario vieta.
+Jei Europos Parlamento nario
+įgaliojimai pripažinti nutrūkusiais, Europos Parlamente atsiranda laisva
+Europos Parlamento nario vieta. Ją užima kandidatų sąrašo, pagal kurį buvo
+išrinktas buvęs Europos Parlamento narys, pirmasis Europos Parlamento nario
+mandato negavęs kandidatas. Jeigu šiame kandidatų sąraše Europos Parlamento
+nario mandatų negavusių kandidatų nėra, Europos Parlamento nario mandatas
+perduodamas kitam sąrašui pagal kandidatų sąrašų eilę, sudarytą po rinkimų
+mandatams paskirstyti liekanų metodu, tai yra tam sąrašui, kuris yra pirmasis
+po sąrašo, kuris paskutinis gavo mandatą pagal šią eilę. Europos Parlamento
+nariu tampa naujai mandatą gavusio sąrašo pirmasis Europos Parlamento nario
+mandato negavęs kandidatas. Vyriausioji rinkimų komisija sprendimą dėl Europos
+Parlamento nario mandato pripažinimo naujam Europos Parlamento nariui turi
+priimti ne vėliau kaip per 7 dienas po to, kai atsirado laisva Europos
+Parlamento nario vieta.
  
 93 straipsnis. Reikalavimas paskelbti rinkėjams apie
 kandidato bendradarbiavimą su kitų valstybių specialiosiomis tarnybomis ar
@@ -2970,22 +2975,22 @@ kandidato į Europos Parlamento narius anketoje. Vyriausiosios rinkimų komisijo
 leidžiamame plakate su kandidatų sąrašu prie kandidato pavardės turi būti
 pažymėta: „Ne pagal savo kilmės valstybės narės užduotis yra sąmoningai
 bendradarbiavęs su kitos valstybės specialiosiomis tarnybomis“.
-2. Jeigu kandidatas
-apie savo bendradarbiavimą su kitos valstybės specialiosiomis tarnybomis
-nenurodė ir galioja teismo sprendimas, kuriuo nustatytas juridinę reikšmę
-turintis faktas (arba šį faktą įstatymų nustatyta tvarka yra patvirtinęs pats
-kandidatas), kad šis asmuo ne pagal savo kilmės valstybės narės užduotis
-sąmoningai bendradarbiavo su kitos valstybės specialiosiomis tarnybomis
-(tarnyba), Vyriausioji rinkimų komisija jo neregistruoja kandidatu, o jeigu
-buvo jį įregistravusi, nedelsdama panaikina jo registraciją kandidatu. Jeigu
-kandidatas to nenurodė ir po rinkimų Lietuvos vyriausiasis administracinis
-teismas įstatymų nustatyta tvarka pripažįsta, kad asmuo ne pagal savo kilmės
-valstybės narės užduotis sąmoningai bendradarbiavo su kitos valstybės
-specialiosiomis tarnybomis (tarnyba), per 5 darbo dienas po teismo sprendimo
-įsiteisėjimo privalo pripažinti šį asmenį netekusiu Europos Parlamento nario
-mandato, apie tai paskelbti internete ir artimiausiame „Valstybės žinių“
-numeryje ir pranešti Europos Parlamentui. Laisva Europos Parlamento nario vieta
-užimama šio Įstatymo 92 straipsnyje nustatyta tvarka.
+2. Jeigu
+kandidatas apie savo bendradarbiavimą su kitos valstybės specialiosiomis
+tarnybomis nenurodė ir galioja teismo sprendimas, kuriuo nustatytas juridinę
+reikšmę turintis faktas (arba šį faktą įstatymų nustatyta tvarka yra
+patvirtinęs pats kandidatas), kad šis asmuo ne pagal savo kilmės valstybės
+narės užduotis sąmoningai bendradarbiavo su kitos valstybės specialiosiomis
+tarnybomis (tarnyba), Vyriausioji rinkimų komisija jo neregistruoja kandidatu,
+o jeigu buvo jį įregistravusi, nedelsdama panaikina jo registraciją kandidatu.
+Jeigu kandidatas to nenurodė ir po rinkimų Lietuvos vyriausiasis
+administracinis teismas įstatymų nustatyta tvarka pripažįsta, kad asmuo ne
+pagal savo kilmės valstybės narės užduotis sąmoningai bendradarbiavo su kitos
+valstybės specialiosiomis tarnybomis (tarnyba), per 5 darbo dienas po teismo
+sprendimo įsiteisėjimo privalo pripažinti šį asmenį netekusiu Europos
+Parlamento nario mandato, apie tai paskelbti internete ir artimiausiame
+„Valstybės žinių“ numeryje ir pranešti Europos Parlamentui. Laisva Europos
+Parlamento nario vieta užimama šio Įstatymo 92 straipsnyje nustatyta tvarka.
 3. Kiekvienas kandidatas turi
 viešai paskelbti, jeigu jis per 10 paskutinių metų iki nustatytosios dienos
 įsiteisėjusiu Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės
@@ -3004,17 +3009,17 @@ teismo nuosprendis, kuriuo asmuo pripažintas kaltu dėl nusikalstamos veikos
 padarymo, arba yra įsiteisėjęs teismo nuosprendis, kuriuo asmuo bet kada buvo
 pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo padarymo,
 Vyriausioji rinkimų komisija jo neregistruoja kandidatu, o jei buvo
-įregistravusi, nedelsdama panaikina jo registraciją kandidatu. Jei kandidatas
-to nenurodė ir po rinkimų nustatoma, kad per 10 paskutinių metų iki
-nustatytosios dienos yra įsiteisėjęs Lietuvos Respublikos ar kitos Europos
-Sąjungos valstybės narės teismo nuosprendis, kuriuo asmuo pripažintas kaltu dėl
-nusikalstamos veikos padarymo, arba yra įsiteisėjęs teismo nuosprendis, kuriuo
-asmuo bet kada buvo pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo
-padarymo, Vyriausioji rinkimų komisija per 15 dienų teismo nuosprendžio dėl
-asmens pripažinimo kaltu ir kandidato į Europos Parlamento narius anketos
-nuorašus perduoda Lietuvos vyriausiajam administraciniam teismui, kad šis
-priimtų sprendimą, kuriuo asmuo pripažįstamas pažeidusiu šio straipsnio 3
-dalies reikalavimą. Jeigu Lietuvos vyriausiasis administracinis teismas priima
+įregistravusi, nedelsdama panaikina jo registraciją kandidatu. Jei kandidatas to
+nenurodė ir po rinkimų nustatoma, kad per 10 paskutinių metų iki nustatytosios
+dienos yra įsiteisėjęs Lietuvos Respublikos ar kitos Europos Sąjungos valstybės
+narės teismo nuosprendis, kuriuo asmuo pripažintas kaltu dėl nusikalstamos
+veikos padarymo, arba yra įsiteisėjęs teismo nuosprendis, kuriuo asmuo bet kada
+buvo pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo padarymo,
+Vyriausioji rinkimų komisija per 15 dienų teismo nuosprendžio dėl asmens
+pripažinimo kaltu ir kandidato į Europos Parlamento narius anketos nuorašus
+perduoda Lietuvos vyriausiajam administraciniam teismui, kad šis priimtų
+sprendimą, kuriuo asmuo pripažįstamas pažeidusiu šio straipsnio 3 dalies
+reikalavimą. Jeigu Lietuvos vyriausiasis administracinis teismas priima
 sprendimą pripažinti asmenį pažeidusiu šio straipsnio 3 dalies reikalavimą,
 Vyriausioji rinkimų komisija per 5 darbo dienas po teismo sprendimo
 įsiteisėjimo privalo pripažinti šį asmenį netekusiu Europos Parlamento nario
@@ -3044,9 +3049,9 @@ arba ne vėliau kaip per 15 dienų nuo dienos, kurią Vyriausioji rinkimų komis
 priėmė sprendimą dėl jo mandato pripažinimo.
 3. Jeigu išrinktas į Europos
 Parlamentą asmuo per nustatytą terminą neatsistatydina arba šio straipsnio 1
-dalyje nurodytas asmuo pradėjo eiti Europos Parlamento nario pareigas,
-Vyriausioji rinkimų komisija per 5 darbo dienas po to, kai tapo žinoma apie
-Europos Parlamento nario mandato ir einamų pareigų nesuderinamumą, motyvuotu sprendimu
+dalyje nurodytas asmuo pradėjo eiti Europos Parlamento nario pareigas, Vyriausioji
+rinkimų komisija per 5 darbo dienas po to, kai tapo žinoma apie Europos
+Parlamento nario mandato ir einamų pareigų nesuderinamumą, motyvuotu sprendimu
 privalo pripažinti šį asmenį netekusiu Europos Parlamento nario mandato, apie
 tai paskelbti internete ir artimiausiame „Valstybės žinių“ numeryje ir pranešti
 Europos Parlamentui. Laisva Europos Parlamento nario vieta užimama šio Įstatymo
@@ -3058,11 +3063,12 @@ per 10 dienų nuo Vyriausiosios rinkimų komisijos sprendimo paskelbimo
 gavimo. Pavėluotai teismui paduoti skundai nenagrinėjami. Teismo sprendimai
 šiais klausimais įsigalioja nuo paskelbimo.
 Straipsnio pakeitimai:
-Nr. X-1530, 2008-05-08,
-Žin., 2008, Nr. 59-2202 (2008-05-24)
+Nr. X-1530,
+2008-05-08, Žin., 2008, Nr. 59-2202 (2008-05-24)
  
 Skelbiu
-šį Lietuvos Respublikos Seimo priimtą įstatymą. 
+šį Lietuvos Respublikos Seimo priimtą įstatymą.
+ 
  
 RESPUBLIKOS PREZIDENTAS                                                           ROLANDAS
 PAKSAS
@@ -3092,7 +3098,9 @@ atstovų į Europos Parlamentą rinkimų remiantis tiesiogine visuotine rinkimų
 teise.
 6. 2003 m. vasario mėn. Europos Parlamento reglamentas.
 _______________
+ 
 Pakeitimai:
+ 
 1.
 Lietuvos
 Respublikos Seimas, Įstatymas
@@ -3128,8 +3136,9 @@ IR 36 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-184,
 2009-03-10, Žin., 2009, Nr. 32-1239 (2009-03-24)
-RINKIMŲ Į EUROPOS
-PARLAMENTĄ ĮSTATYMO 12, 14, 16, 17, 29, 30 IR 54 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+RINKIMŲ Į
+EUROPOS PARLAMENTĄ ĮSTATYMO 12, 14, 16, 17, 29, 30 IR 54 STRAIPSNIŲ PAKEITIMO
+ĮSTATYMAS
  
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3138,9 +3147,17 @@ Nr. XI-221,
 RINKIMŲ Į EUROPOS PARLAMENTĄ ĮSTATYMO 47
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-617,
+2009-12-22, Žin., 2010, Nr. 1-28 (2010-01-05)
+RINKIMŲ Į EUROPOS PARLAMENTĄ ĮSTATYMO 91
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
-Redagavo Aušrinė Trapinskienė
-(2009-04-27)
+ 
+ 
+Redagavo Aušrinė Trapinskienė (2010-01-25)
                  
 autrap@lrs.lt
 
