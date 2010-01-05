@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0EC89509170B"
 
 # Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymas
 
-Suvestinė redakcija nuo 2004-02-14 iki 2010-01-04
+Suvestinė redakcija nuo 2010-01-05 iki 2012-06-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 20-449, i. k. 0951010ISTA000I-798
  
@@ -289,7 +289,10 @@ Nr. IX-1989, 2004-01-29, Žin., 2004, Nr. 25-758 (2004-02-14), i. k. 1041010ISTA
 
 
 
-6. Steigiamasis susirinkimas priima nutarimą įsteigti bendriją ir patvirtina jos įstatus. Įstatų projektą rengia ir steigiamajam susirinkimui pateikia bendrijos steigimo iniciatoriai.
+6. Steigiamasis susirinkimas priima nutarimą įsteigti bendriją, taip pat sprendimą dėl bendrijos buveinės ir patvirtina bendrijos įstatus. Įstatų projektą rengia ir steigiamajam susirinkimui pateikia bendrijos steigimo iniciatoriai.
+Straipsnio dalies pakeitimai:
+Nr. XI-613, 2009-12-22, Žin., 2010, Nr. 1-24 (2010-01-05); Žin., 2010, Nr. 37-0 (2010-03-31), i. k. 1091010ISTA00XI-613
+ 
 
 
 
@@ -313,53 +316,85 @@ Nr. IX-1989, 2004-01-29, Žin., 2004, Nr. 25-758 (2004-02-14), i. k. 1041010ISTA
 2. Bendrijos įstatuose turi būti nurodyta: 
 
 
-1) bendrijos pavadinimas, buveinė; 
+1) bendrijos pavadinimas, teisinė forma; 
 Straipsnio punkto pakeitimai:
 Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
+Nr. XI-613, 2009-12-22, Žin., 2010, Nr. 1-24 (2010-01-05); Žin., 2010, Nr. 37-0 (2010-03-31), i. k. 1091010ISTA00XI-613
  
 
 
 
 
-2) bendrijos veiklos tikslai ir uždaviniai;
-
-
-
-
-3) bendrijos narių teisės, pareigos ir atsakomybė pagal bendrijos prievoles;
-
-
-
-
-4) bendrijos narių susirinkimų ir (ar) bendrijos narių įgaliotinių delegavimo bei jų susirinkimų šaukimo, sprendimų priėmimo susirinkimuose tvarka, įstatų keitimo tvarka, taip pat sprendimų priėmimo balsuojant raštu tvarka; 
-Straipsnio punkto pakeitimai:
-Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
+2) buveinės keitimo tvarka; 
+Papildyta straipsnio punktu:
+Nr. XI-613, 2009-12-22, Žin., 2010, Nr. 1-24 (2010-01-05); Žin., 2010, Nr. 37-0 (2010-03-31), i. k. 1091010ISTA00XI-613
  
 
 
 
 
-5) bendrijos valdymo ir kontrolės organai, jų rinkimo tvarka, teisės ir pareigos bei atsakomybė;
+3) bendrijos veiklos tikslai ir uždaviniai;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-613, 2009-12-22, Žin., 2010, Nr. 1-24 (2010-01-05); Žin., 2010, Nr. 37-0 (2010-03-31), i. k. 1091010ISTA00XI-613
+ 
 
 
 
 
-6) bendrijos ūkinės veiklos organizavimo ir administravimo tvarka;
+4) bendrijos narių teisės, pareigos ir atsakomybė pagal bendrijos prievoles;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-613, 2009-12-22, Žin., 2010, Nr. 1-24 (2010-01-05); Žin., 2010, Nr. 37-0 (2010-03-31), i. k. 1091010ISTA00XI-613
+ 
 
 
 
 
-7) tikslinių, kaupiamųjų ir kitų, susijusių su bendrijos veikla, įmokų nustatymo ir mokėjimo tvarka, nepiniginių (turtinių) įnašų įvertinimo bei bendrijos narių ir jų šeimos narių darbo sąnaudų įskaitymo į įmokas tvarka;
+5) bendrijos narių susirinkimų ir (ar) bendrijos narių įgaliotinių delegavimo bei jų susirinkimų šaukimo, sprendimų priėmimo susirinkimuose tvarka, įstatų keitimo tvarka, taip pat sprendimų priėmimo balsuojant raštu tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. IX-532, 2001-10-09, Žin., 2001, Nr. 91-3187 (2001-10-26), i. k. 1011010ISTA00IX-532
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-613, 2009-12-22, Žin., 2010, Nr. 1-24 (2010-01-05); Žin., 2010, Nr. 37-0 (2010-03-31), i. k. 1091010ISTA00XI-613
+ 
 
 
 
 
-8) bendrijos lėšų naudojimo ir pajamų paskirstymo tvarka;
+6) bendrijos valdymo ir kontrolės organai, jų rinkimo tvarka, teisės ir pareigos bei atsakomybė;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-613, 2009-12-22, Žin., 2010, Nr. 1-24 (2010-01-05); Žin., 2010, Nr. 37-0 (2010-03-31), i. k. 1091010ISTA00XI-613
+ 
 
 
 
 
-9) bendrijos reorganizavimo ir likvidavimo tvarka.
+7) bendrijos ūkinės veiklos organizavimo ir administravimo tvarka;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-613, 2009-12-22, Žin., 2010, Nr. 1-24 (2010-01-05); Žin., 2010, Nr. 37-0 (2010-03-31), i. k. 1091010ISTA00XI-613
+ 
+
+
+
+
+8) tikslinių, kaupiamųjų ir kitų, susijusių su bendrijos veikla, įmokų nustatymo ir mokėjimo tvarka, nepiniginių (turtinių) įnašų įvertinimo bei bendrijos narių ir jų šeimos narių darbo sąnaudų įskaitymo į įmokas tvarka;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-613, 2009-12-22, Žin., 2010, Nr. 1-24 (2010-01-05); Žin., 2010, Nr. 37-0 (2010-03-31), i. k. 1091010ISTA00XI-613
+ 
+
+
+
+
+9) bendrijos lėšų naudojimo ir pajamų paskirstymo tvarka;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-613, 2009-12-22, Žin., 2010, Nr. 1-24 (2010-01-05); Žin., 2010, Nr. 37-0 (2010-03-31), i. k. 1091010ISTA00XI-613
+ 
+
+
+
+
+10) bendrijos reorganizavimo ir likvidavimo tvarka.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-613, 2009-12-22, Žin., 2010, Nr. 1-24 (2010-01-05); Žin., 2010, Nr. 37-0 (2010-03-31), i. k. 1091010ISTA00XI-613
+ 
 
 
 
@@ -1318,3 +1353,8 @@ Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1989, 2004-01-29, Žin., 2004, Nr. 25-758 (2004-02-14), i. k. 1041010ISTA0IX-1989
 Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo 11, 12, 32 ir 35 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-613, 2009-12-22, Žin., 2010, Nr. 1-24 (2010-01-05); Žin., 2010, Nr. 37-0 (2010-03-31), i. k. 1091010ISTA00XI-613
+Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo 12, 13 straipsnių pakeitimo ir papildymo įstatymas
