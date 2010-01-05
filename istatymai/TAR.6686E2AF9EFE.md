@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6686E2AF9EFE"
 
 # Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymas
 
-Suvestinė redakcija nuo 2007-12-29 iki 2010-01-04
+Suvestinė redakcija nuo 2010-01-05 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 48-2106, i. k. 1031010ISTA0IX-1541
  
@@ -32,15 +32,12 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis Įstatymas nustato valstybės įmonės Ignalinos atominės elektrinės (toliau – Ignalinos AE) darbuotojų, kurie atleidžiami ar yra atleisti iš darbo dėl jos pirmojo ir antrojo blokų eksploatavimo užbaigimo, bei jų šeimų narių papildomas užimtumo ir socialines garantijas. Tuo norima sušvelninti neigiamas socialines pasekmes, siekiant užtikrinti saugų bei nenutrūkstamą Ignalinos AE darbą iki eksploatavimo pabaigos.
+Šis Įstatymas nustato valstybės įmonės Ignalinos atominės elektrinės (toliau – Ignalinos AE) darbuotojų, priimtų į darbą Ignalinos AE iki Lietuvos Respublikos Vyriausybės sprendimo dėl Ignalinos AE antrojo bloko sustabdymo datos įsigaliojimo ir atleidžiamų arba atleistų iš darbo Ignalinos AE dėl jos pirmojo ir antrojo blokų eksploatavimo užbaigimo, ir šių asmenų šeimos narių papildomas užimtumo ir socialines garantijas, siekiant užtikrinti saugų ir nenutrūkstamą tolesnį Ignalinos AE eksploatavimą ir sušvelninti neigiamas atleidimo iš darbo socialines pasekmes.
 
 
-
-
-2. Asmenys, priimti Ignalinos AE eksploatavimo nutraukimo darbams, ir asmenys, dirbantys Ignalinos AE pasibaigus Ignalinos AE antrojo bloko eksploatavimo licencijai, į šio Įstatymo nustatytas papildomas užimtumo ir socialines garantijas neturi teisės.
+Straipsnio pakeitimai:
+Nr. XI-586, 2009-12-21, Žin., 2010, Nr. 1-3 (2010-01-05), i. k. 1091010ISTA00XI-586
  
-
-
 
 
 
@@ -48,7 +45,10 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės Įstatymo sąvokos
 
 
-1. Atleidžiami iš darbo darbuotojai – Ignalinos AE darbuotojai, kurie yra įspėti apie darbo sutarties nutraukimą Darbo kodekso 129 straipsnyje nustatytais pagrindais dėl Ignalinos AE pirmojo ir antrojo blokų eksploatavimo užbaigimo, išskyrus darbuotojus, kurie priimti Ignalinos AE eksploatavimo nutraukimo darbams.
+1. Atleidžiami iš darbo darbuotojai – Ignalinos AE darbuotojai, kurie yra įspėti apie darbo sutarties nutraukimą Darbo kodekso 129 straipsnyje nustatytais pagrindais dėl Ignalinos AE pirmojo ir antrojo blokų eksploatavimo užbaigimo. 
+Straipsnio dalies pakeitimai:
+Nr. XI-586, 2009-12-21, Žin., 2010, Nr. 1-3 (2010-01-05), i. k. 1091010ISTA00XI-586
+ 
 
 
 
@@ -63,12 +63,18 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Ignalinos AE eksploatavimo nutraukimas – teisinių, organizacinių ir techninių priemonių įgyvendinimas, siekiant saugiai dezaktyvuoti ir išmontuoti Ignalinos AE, pašalinti radioaktyviąsias medžiagas, atliekas, komponentus ir liekanas.
+4. Ignalinos AE eksploatavimo nutraukimas – teisinių, organizacinių ir techninių priemonių įgyvendinimas, siekiant saugiai dezaktyvuoti ir išmontuoti Ignalinos AE, sutvarkyti eksploatavimo nutraukimo atliekas ir liekanas, kai nusprendžiama, kad Ignalinos AE niekada nebebus naudojama pagal pagrindinę paskirtį. 
+Straipsnio dalies pakeitimai:
+Nr. XI-586, 2009-12-21, Žin., 2010, Nr. 1-3 (2010-01-05), i. k. 1091010ISTA00XI-586
+ 
 
 
 
 
-5. Ignalinos AE pirmojo ir antrojo blokų eksploatavimo užbaigimas – procesas, kurio pradžia yra Vyriausybės sprendimo dėl Ignalinos AE pirmojo bloko sustabdymo datos įsigaliojimas, o pabaiga – Valstybinės atominės energetikos saugos inspekcijos išduotos licencijos eksploatuoti Ignalinos AE antrąjį bloką galiojimo pabaiga.
+5. Ignalinos AE pirmojo ir antrojo blokų eksploatavimo užbaigimas – procesas, kurio pradžia yra Vyriausybės sprendimo dėl Ignalinos AE pirmojo bloko sustabdymo datos įsigaliojimas, o pabaiga – Valstybinės atominės energetikos saugos inspekcijos išduotos licencijos eksploatuoti Ignalinos AE antrąjį bloką galiojimo panaikinimo data.
+Straipsnio dalies pakeitimai:
+Nr. XI-586, 2009-12-21, Žin., 2010, Nr. 1-3 (2010-01-05), i. k. 1091010ISTA00XI-586
+ 
 
 
 
@@ -400,3 +406,8 @@ Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuot
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1373, 2007-12-13, Žin., 2007, Nr. 140-5752 (2007-12-29), i. k. 1071010ISTA00X-1373
 Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo 4, 5 ir 12 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-586, 2009-12-21, Žin., 2010, Nr. 1-3 (2010-01-05), i. k. 1091010ISTA00XI-586
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo 1 ir 2 straipsnių pakeitimo įstatymas
