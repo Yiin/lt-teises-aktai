@@ -54,9 +54,9 @@ Bendrieji nuostatai
             1
 straipsnis. Teisė jungtis į profesines sąjungas
 Asmenys, teisėtai dirbantys
-pagal darbo sutartį ar kitais įstatymų nustatytais pagrindais Lietuvos
-Respublikos teritorijoje, turi teisę laisvai jungtis į profesines sąjungas ir
-dalyvauti jų veikloje.
+pagal darbo sutartį ar kitais įstatymų nustatytais pagrindais Lietuvos Respublikos
+teritorijoje, turi teisę laisvai jungtis į profesines sąjungas ir dalyvauti jų
+veikloje.
             Šio įstatymo taikymo
 ypatybės krašto apsaugos, policijos, valstybės saugumo ir kitose organizacijose
 gali būti nustatytos šių organizacijų veiklą reglamentuojančiuose įstatymuose.
@@ -87,8 +87,8 @@ lygias teises. Jos turi teisę parengti savo veiklos įstatus ir reglamentus,
 laisvai rinkti savo atstovus, organizuoti savo aparatą ir veiklą bei formuoti
 savo veiklos programą.
             Valstybės organams,
-darbdaviams,jų įgaliotiesiems atstovams, įmonės, įstaigos, organizacijos
-valdymo organams, administracijai, pareigūnams, politinėms partijoms ir kitoms
+darbdaviams,jų įgaliotiesiems atstovams, įmonės, įstaigos, organizacijos valdymo
+organams, administracijai, pareigūnams, politinėms partijoms ir kitoms
 visuomeninėms organizacijoms draudžiama kištis į profesinių sąjungų vidaus
 reikalus. Asmenys, trukdantys teisėtą profesinių sąjungų veiklą, atsako pagal
 įstatymus.
@@ -106,9 +106,9 @@ organizacijos konvencijų, ir savo veiklą grindžia nustatyta tvarka
             5
 straipsnis. Profesinių sąjungų tarptautiniai ryšiai
             Profesinės sąjungos turi
-teisę palaikyti ryšius su kitų valstybių profesinėmis sąjungomis, tarptautinėmis
-ir kitokiomis organizacijomis, būti profesinių sąjungų tarptautinių
-organizacijų narėmis ir dalyvauti jų veikloje.
+teisę palaikyti ryšius su kitų valstybių profesinėmis sąjungomis,
+tarptautinėmis ir kitokiomis organizacijomis, būti profesinių sąjungų
+tarptautinių organizacijų narėmis ir dalyvauti jų veikloje.
  
 II skirsnis.
 Profesinių sąjungų steigimas, veiklos sustabdymas ir nutraukimas
@@ -127,10 +127,15 @@ mažiau kaip 3 darbuotojai;
             2) susirinkime patvirtintus
 įstatus (statutą);
             3) išrinktus
-vadovaujančiuosius organus.
+vadovaujančiuosius organus;
+4) priimtą sprendimą dėl buveinės.
             Profesinė sąjunga laikoma
 įsteigta nuo tos dienos, kai įvykdytos šio straipsnio antrojoje dalyje
 nurodytos sąlygos.
+Straipsnio
+pakeitimai:
+Nr. XI-599,
+2009-12-22, Žin., 2010, Nr. 1-10 (2010-01-05)
  
             7
 straipsnis. Profesinių sąjungų susivienijimai
@@ -147,14 +152,16 @@ susivienijimai, turi šio įstatymo nustatyta tvarka įregistruoti savo įstatus
 (statutus).
             Profesinės sąjungos
 įstatuose (statute) turi būti nurodoma:
-            1) profesinės sąjungos
-pavadinimas ir buveinė;
-            2) profesinės sąjungos
+1) profesinės
+sąjungos pavadinimas;
+2) profesinės
+sąjungos buveinės keitimo tvarka;
+            3) profesinės sąjungos
 organizacinė struktūra;
-            3) vadovaujantieji organai;
-            4) veiklos nutraukimo
+            4) vadovaujantieji organai;
+            5) veiklos nutraukimo
 tvarka;
-            5) profesinei sąjungai
+            6) profesinei sąjungai
 priklausančio turto valdymo, disponavimo ir naudojimo tvarka.
 Profesinių sąjungų, kurios nesijungia į teritorinius
 ir nacionalinius susivienijimus ir yra vienos savivaldybės teritorijoje,
@@ -162,8 +169,8 @@ ir nacionalinius susivienijimus ir yra vienos savivaldybės teritorijoje,
             Profesinių sąjungų, jų
 susivienijimų, kurie pagal savo įstatus (statutą) veikia daugiau kaip vienos
 savivaldybės teritorijoje ir kurių buveinė yra apskrities centre ar kitoje
-apskrities teritorijoje - miesto ar kaimo gyvenamojoje vietovėje, įstatus
-registruoja apskrities viršininkas.
+apskrities teritorijoje - miesto ar kaimo gyvenamojoje vietovėje, įstatus registruoja
+apskrities viršininkas.
             Profesinių sąjungų, jų
 susivienijimų, kurių veikla apima daugiau kaip vienos apskrities teritoriją,
 įstatus (statutą) registruoja Lietuvos Respublikos teisingumo ministerija.
@@ -177,13 +184,13 @@ susivienijimo įsteigimo.
 susivienijimai įgyja juridinio asmens teises nuo jų įstatų (statuto)
 įregistravimo dienos.
             Atsisakius registruoti
-profesinės sąjungos, jų susivienijimo įstatus (statutą), apie tai ne vėliau
-kaip per tris dienas nuo sprendimo priėmimo raštu pranešama steigėjams ir
-nurodoma, kokio Lietuvos Respublikos įstatymų akto neatitinka profesinės
-sąjungos, jų susivienijimo įstatai (statutas).
+profesinės sąjungos, jų susivienijimo įstatus (statutą), apie tai ne vėliau kaip
+per tris dienas nuo sprendimo priėmimo raštu pranešama steigėjams ir nurodoma,
+kokio Lietuvos Respublikos įstatymų akto neatitinka profesinės sąjungos, jų
+susivienijimo įstatai (statutas).
             Atsisakymas registruoti
-profesinės sąjungos, jų susivienijimų įstatus (statutą) gali būti apskųstas apylinkės
-teismui, kuris skundą išnagrinėja per dešimt dienų.
+profesinės sąjungos, jų susivienijimų įstatus (statutą) gali būti apskųstas
+apylinkės teismui, kuris skundą išnagrinėja per dešimt dienų.
 Straipsnio
 pakeitimai:
 Nr.
@@ -199,6 +206,8 @@ Nr. VIII-308,
 97.06.26, Žin., 1997, Nr.65-1539 (97.07.09)
 Nr. IX-230,
 2001 03 27, Žin., 2001, Nr. 28-901 (2001 03 30)
+Nr. XI-599,
+2009-12-22, Žin., 2010, Nr. 1-10 (2010-01-05)
  
             9
 straipsnis. Profesinės sąjungos, jų susivienijimų veiklos sustabdymas ar
@@ -213,8 +222,8 @@ susivienijimui pažeidus Lietuvos Respublikos Laikinąjį Pagrindinį Įstatymą
 (Konstituciją) ir šį įstatymą, ją įregistravęs organas apie pažeidimą raštu
 praneša profesinės sąjungos, susivienijimo vadovaujantiems organams ir nurodo
 terminą, per kurį pažeidimai turi būti pašalinti. Jei pažeidimai nepašalinti,
-profesinės sąjungos, jų susivienijimo įstatus (statutą) registravęs organas,
-taip pat prokuroras turi teisę kreiptis į teismą dėl profesinės sąjungos, jų
+profesinės sąjungos, jų susivienijimo įstatus (statutą) registravęs organas, taip
+pat prokuroras turi teisę kreiptis į teismą dėl profesinės sąjungos, jų
 susivienijimo veiklos sustabdymo.
             Teismo sprendimu profesinių
 sąjungų, jų susivienijimų veikla gali būti sustabdyta ne ilgesniam kaip 3
@@ -323,7 +332,7 @@ veiklai reikalingą informaciją darbo, ekonominiais ir socialiniais klausimais,
 kurią valstybės organai ir organizacijos privalo pateikti įstatymų nustatytais
 terminais.
             Valstybės organai skatina
-derybas tarp profesinių sąjungų irdarbdavių ar jų organizacijų.
+derybas tarp profesinių sąjungų ir darbdavių ar jų organizacijų.
             Valstybės organai,
 organizacijos gali teikti profesinėms sąjungoms paramą socialiniams ir kitiems
 tyrimams vykdyti.
@@ -533,11 +542,19 @@ IX-1803,
 PROFESINIŲ
 SĄJUNGŲ ĮSTATYMO PREAMBULĖS IR 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+7.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. XI-599,
+2009-12-22, Žin., 2010, Nr. 1-10 (2010-01-05)
+PROFESINIŲ SĄJUNGŲ ĮSTATYMO 6, 8
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2003-11-19)
+Redagavo
+Aušrinė Trapinskienė (2010-01-19)
                  
 autrap@lrs.lt
