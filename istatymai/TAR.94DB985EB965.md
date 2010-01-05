@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.94DB985EB965"
 
 # Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymas
 
-Suvestinė redakcija nuo 2008-11-25 iki 2010-01-04
+Suvestinė redakcija nuo 2010-01-05 iki 2010-10-01
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 20-488, i. k. 0931010ISTA000I-164
  
@@ -254,7 +254,10 @@ KOOPERATINIŲ BENDROVIŲ STEIGIMAS IR JŲ TEISĖS
 
 
 
-3) steigiamos kooperatinės bendrovės pavadinimas;
+3) steigiamos kooperatinės bendrovės pavadinimas ir buveinė; 
+Straipsnio punkto pakeitimai:
+Nr. XI-604, 2009-12-22, Žin., 2010, Nr. 1-15 (2010-01-05), i. k. 1091010ISTA00XI-604
+ 
 
 
 
@@ -306,7 +309,10 @@ KOOPERATINIŲ BENDROVIŲ STEIGIMAS IR JŲ TEISĖS
 
 
 
-5. Kooperatinės bendrovės steigimo sutartį privalo pasirašyti visi steigėjai: fiziniai asmenys ir (arba) juridinių asmenų įgalioti asmenys. Kooperatinės bendrovės steigimo sutartį pasirašiusių fizinių asmenų parašų tikrumas turi būti patvirtintas notaro.
+5. Kooperatinės bendrovės steigimo sutartį privalo pasirašyti visi steigėjai: fiziniai asmenys ir (arba) juridinių asmenų įgalioti asmenys. Kooperatinės bendrovės steigimo sutartį pasirašiusių fizinių asmenų parašų tikrumas notaro netvirtinamas.
+Straipsnio dalies pakeitimai:
+Nr. XI-604, 2009-12-22, Žin., 2010, Nr. 1-15 (2010-01-05), i. k. 1091010ISTA00XI-604
+ 
 
 
 
@@ -335,74 +341,123 @@ KOOPERATINIŲ BENDROVIŲ STEIGIMAS IR JŲ TEISĖS
 3. Kooperatinės bendrovės įstatuose turi būti nurodyta:
 
 
-1) kooperatinės bendrovės pavadinimas, buveinė;
+1) kooperatinės bendrovės pavadinimas; 
+Straipsnio punkto pakeitimai:
+Nr. XI-604, 2009-12-22, Žin., 2010, Nr. 1-15 (2010-01-05), i. k. 1091010ISTA00XI-604
+ 
 
 
 
 
-2) kooperatinės bendrovės veiklos tikslai;
+2) kooperatinės bendrovės buveinės keitimo tvarka; 
+Papildyta straipsnio punktu:
+Nr. XI-604, 2009-12-22, Žin., 2010, Nr. 1-15 (2010-01-05), i. k. 1091010ISTA00XI-604
+ 
 
 
 
 
-3) kooperatinės bendrovės veiklos laikotarpis, jei jis yra ribotas;
+3) kooperatinės bendrovės veiklos tikslai;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-604, 2009-12-22, Žin., 2010, Nr. 1-15 (2010-01-05), i. k. 1091010ISTA00XI-604
+ 
 
 
 
 
-4) stojamojo mokesčio, minimalaus ir maksimalaus pajų dydžiai, stojamojo mokesčio ir pajinio įnašo, papildomų pajinių įnašų įmokėjimo, nepiniginio pajinio įnašo įvertinimo tvarka;
+4) kooperatinės bendrovės veiklos laikotarpis, jei jis yra ribotas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-604, 2009-12-22, Žin., 2010, Nr. 1-15 (2010-01-05), i. k. 1091010ISTA00XI-604
+ 
 
 
 
 
-5) narystės kooperatinėje bendrovėje sąlygos, kooperatinės bendrovės narių teisės ir pareigos, disponavimo pajumi tvarka;
+5) stojamojo mokesčio, minimalaus ir maksimalaus pajų dydžiai, stojamojo mokesčio ir pajinio įnašo, papildomų pajinių įnašų įmokėjimo, nepiniginio pajinio įnašo įvertinimo tvarka;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-604, 2009-12-22, Žin., 2010, Nr. 1-15 (2010-01-05), i. k. 1091010ISTA00XI-604
+ 
 
 
 
 
-6) kooperatinės bendrovės valdymo ir kontrolės organai, jų kompetencija, rinkimo ir atšaukimo tvarka, reikalavimai valdybos nariui, jos pirmininkui, administracijos vadovui, revizijos komisijos nariui (revizoriui);
+6) narystės kooperatinėje bendrovėje sąlygos, kooperatinės bendrovės narių teisės ir pareigos, disponavimo pajumi tvarka;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-604, 2009-12-22, Žin., 2010, Nr. 1-15 (2010-01-05), i. k. 1091010ISTA00XI-604
+ 
 
 
 
 
-7) priėmimo į kooperatinės bendrovės narius, išstojimo ir pašalinimo iš kooperatinės bendrovės narių sąlygos ir tvarka, kooperatinės bendrovės narių registravimo kooperatinės bendrovės narių registre tvarka;
+7) kooperatinės bendrovės valdymo ir kontrolės organai, jų kompetencija, rinkimo ir atšaukimo tvarka, reikalavimai valdybos nariui, jos pirmininkui, administracijos vadovui, revizijos komisijos nariui (revizoriui);
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-604, 2009-12-22, Žin., 2010, Nr. 1-15 (2010-01-05), i. k. 1091010ISTA00XI-604
+ 
 
 
 
 
-8) kooperatinės bendrovės narių susirinkimo šaukimo ir balsavimo jame tvarka;
+8) priėmimo į kooperatinės bendrovės narius, išstojimo ir pašalinimo iš kooperatinės bendrovės narių sąlygos ir tvarka, kooperatinės bendrovės narių registravimo kooperatinės bendrovės narių registre tvarka;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-604, 2009-12-22, Žin., 2010, Nr. 1-15 (2010-01-05), i. k. 1091010ISTA00XI-604
+ 
 
 
 
 
-9) kooperatinės bendrovės bei jos narių prekių ir paslaugų apyvartos operacijų registravimo ir atlikimo tvarka, kooperatinės bendrovės metinės finansinės atskaitomybės sudarymo ir tvirtinimo tvarka;
+9) kooperatinės bendrovės narių susirinkimo šaukimo ir balsavimo jame tvarka;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-604, 2009-12-22, Žin., 2010, Nr. 1-15 (2010-01-05), i. k. 1091010ISTA00XI-604
+ 
 
 
 
 
-10) pelno (nuostolio) paskirstymo ir tvirtinimo tvarka;
+10) kooperatinės bendrovės bei jos narių prekių ir paslaugų apyvartos operacijų registravimo ir atlikimo tvarka, kooperatinės bendrovės metinės finansinės atskaitomybės sudarymo ir tvirtinimo tvarka;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-604, 2009-12-22, Žin., 2010, Nr. 1-15 (2010-01-05), i. k. 1091010ISTA00XI-604
+ 
 
 
 
 
-11) lėšų skolinimosi iš savo narių tvarka;
+11) pelno (nuostolio) paskirstymo ir tvirtinimo tvarka;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-604, 2009-12-22, Žin., 2010, Nr. 1-15 (2010-01-05), i. k. 1091010ISTA00XI-604
+ 
 
 
 
 
-12) kooperatinės bendrovės turto ir teikiamų paslaugų naudojimo sąlygos ir tvarka.
+12) lėšų skolinimosi iš savo narių tvarka;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-604, 2009-12-22, Žin., 2010, Nr. 1-15 (2010-01-05), i. k. 1091010ISTA00XI-604
+ 
+
+
+
+
+13) kooperatinės bendrovės turto ir teikiamų paslaugų naudojimo sąlygos ir tvarka.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-604, 2009-12-22, Žin., 2010, Nr. 1-15 (2010-01-05), i. k. 1091010ISTA00XI-604
+ 
 
 
 
 
 
 
-4. Kooperatinės bendrovės įstatuose gali būti ir kitų Lietuvos Respublikos įstatymams neprieštaraujančių nuostatų.
+4. Kooperatinės bendrovės narių susirinkimo kompetencijos ir šaukimo tvarkos, administracijos vadovo skyrimo ir atšaukimo tvarkos ir jo kompetencijos kooperatinės bendrovės įstatuose nurodyti nereikia, jeigu tai nesiskiria nuo šiame Įstatyme nustatytųjų ir apie tai nurodoma pačiuose įstatuose. Kooperatinės bendrovės įstatuose gali būti ir kitų Lietuvos Respublikos įstatymams neprieštaraujančių nuostatų. 
+Straipsnio dalies pakeitimai:
+Nr. XI-604, 2009-12-22, Žin., 2010, Nr. 1-15 (2010-01-05), i. k. 1091010ISTA00XI-604
+ 
 
 
 
 
-5. Kooperatinės bendrovės įstatus iki steigiamojo susirinkimo privalo pasirašyti visi steigėjai fiziniai asmenys ir (arba) juridinių asmenų įgalioti asmenys. Kooperatinės bendrovės įstatus pasirašiusio fizinio asmens parašo tikrumas turi būti patvirtintas notaro.
+5. Kooperatinės bendrovės įstatus iki steigiamojo susirinkimo privalo pasirašyti visi steigėjai fiziniai asmenys ir (arba) juridinių asmenų įgalioti asmenys. Kooperatinės bendrovės įstatus pasirašiusio fizinio asmens parašo tikrumas notaro netvirtinamas.
+Straipsnio dalies pakeitimai:
+Nr. XI-604, 2009-12-22, Žin., 2010, Nr. 1-15 (2010-01-05), i. k. 1091010ISTA00XI-604
  
 
 
@@ -1535,3 +1590,8 @@ Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 2 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1804, 2008-11-11, Žin., 2008, Nr. 135-5240 (2008-11-25), i. k. 1081010ISTA00X-1804
 Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 3-1 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-604, 2009-12-22, Žin., 2010, Nr. 1-15 (2010-01-05), i. k. 1091010ISTA00XI-604
+Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 4, 5 straipsnių pakeitimo ir papildymo įstatymas
