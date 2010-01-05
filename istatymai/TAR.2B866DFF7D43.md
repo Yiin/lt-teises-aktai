@@ -6118,33 +6118,41 @@ būdais, įrankiais, priemonėmis arba kitaip neteisėtai naudojo ar naikino
 laukinės gyvūnijos išteklius ir padarė didelės žalos gyvūnijai,
 baudžiamas bauda arba laisvės apribojimu, arba
 areštu, arba laisvės atėmimu iki dvejų metų.
-2. Tas, kas
-neteisėtai naikino, žalojo, gaudė ar kitaip įgijo, laikė, gabeno ar realizavo į
-ypač saugomų rūšių sąrašą įrašytus laukinius gyvūnus, 
+2.
+Tas, kas neteisėtai naikino, žalojo ar paėmė iš natūralios aplinkos ypatingai
+saugomų rūšių laukinius gyvūnus, juos įgijo, laikė, gabeno, realizavo ar
+komerciniais tikslais naudojo ypatingai saugomų rūšių laukinius gyvūnus, jų
+dalis ar gaminius iš jų, jeigu tokia veika nebuvo padaryta didelės žalos
+ypatingai saugomų rūšių laukinių gyvūnų rūšies apsaugos būklei ir tokia veika
+buvo susijusi su nedideliu ypatingai saugomų rūšių laukinių gyvūnų kiekiu,
 baudžiamas bauda
 arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 3. Tas, kas
-neteisėtai naikino, žalojo, gaudė ar kitaip įgijo, laikė, gabeno ar realizavo į
-Lietuvos raudonąją knygą įrašytus ar pagal tarptautinius susitarimus saugomus
-laukinius gyvūnus ir padarė didelės žalos gyvūnijai, 
+neteisėtai naikino, žalojo, paėmė iš natūralios aplinkos, gaudė ar kitaip
+įgijo, laikė, perdirbo, gabeno, realizavo ar kitaip naudojo didelį kiekį
+saugomų rūšių laukinių gyvūnų, jų dalių ar gaminių iš jų arba tokia veika
+padarė didelę žalą saugomų rūšių laukinių gyvūnų rūšies apsaugos būklei, arba
+tokią veiką padarė komerciniais tikslais,
 baudžiamas bauda
 arba areštu, arba laisvės atėmimu iki ketverių metų.
-4. Tas, kas
-neteisėtai gamino, įsigijo, laikė, gabeno ar realizavo elektros ar ultragarso
-žvejybos prietaisus, padarė baudžiamąjį nusižengimą ir
+4. Tas, kas neteisėtai
+gamino, įsigijo, laikė, gabeno ar realizavo elektros ar ultragarso žvejybos
+prietaisus, padarė baudžiamąjį nusižengimą ir
 baudžiamas bauda
 arba laisvės apribojimu, arba areštu.
 5. Už šiame straipsnyje numatytas veikas atsako ir
 juridinis asmuo. 
 6. Šio
-straipsnio 1 ir 3 dalyse numatytos veikos yra nusikalstamos ir tais atvejais,
-kai jos padarytos dėl neatsargumo.“
+straipsnio 1, 2 ir 3 dalyse numatytos veikos yra nusikalstamos ir tais
+atvejais, kai jos padarytos dėl neatsargumo.
 Straipsnio pakeitimai:
 Nr. IX-1495,
 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
 Nr.
 X-272,
 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)
+Nr. XI-579, 2009-12-17, Žin., 2010, Nr.
+1-1 (2010-01-05), įstatymo atitaisymas skelbtas: Žin., 2010, Nr. 2
  
 273 straipsnis. Neteisėtas miško kirtimas ar pelkių naikinimas
 1.
@@ -6159,27 +6167,33 @@ Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 grybų ar jų dalių rinkimas, naikinimas, realizavimas ar kitoks disponavimas
 jais 
 1. Tas, kas
-neteisėtai paėmė iš natūralios aplinkos ar kitaip rinko arba įgijo, naikino,
-žalojo, laikė, perdirbo, gabeno ar realizavo į Lietuvos raudonąją knygą
-įrašytus ar pagal tarptautinius susitarimus saugomus laukinius augalus, grybus
-ar jų dalis ir padarė didelės žalos jų populiacijai, 
+neteisėtai naikino, žalojo, paėmė iš natūralios aplinkos ar kitaip rinko arba įgijo, laikė,
+perdirbo, gabeno, realizavo ar kitaip naudojo didelį kiekį saugomų rūšių
+laukinių augalų, grybų, jų dalių ar gaminių iš jų arba tokia veika padarė
+didelę žalą saugomų rūšių laukinių augalų ar grybų rūšies apsaugos būklei, arba
+tokią veiką padarė komerciniais tikslais,
 baudžiamas bauda
 arba areštu, arba laisvės atėmimu iki trejų metų.
 2. Tas, kas
-neteisėtai paėmė iš natūralios aplinkos ar kitaip rinko arba įgijo, naikino,
-žalojo, laikė, perdirbo, gabeno ar realizavo į ypač saugomų rūšių sąrašą
-įrašytus laukinius augalus, grybus ar jų dalis, padarė baudžiamąjį nusižengimą
-ir 
-baudžiamas viešaisiais darbais arba bauda.
+neteisėtai naikino, žalojo, paėmė iš natūralios aplinkos ar kitaip rinko ypatingai saugomų rūšių laukinius augalus, grybus, įgijo, laikė, gabeno, realizavo ar komerciniais tikslais
+naudojo ypatingai saugomų rūšių laukinius augalus, grybus, jų dalis arba
+gaminius iš jų, jeigu tokia veika nebuvo padaryta didelės žalos ypatingai
+saugomų rūšių laukinių augalų ar grybų rūšies apsaugos būklei ir tokia veika
+buvo susijusi su nedideliu ypatingai saugomų rūšių laukinių augalų ar grybų
+kiekiu, padarė baudžiamąjį nusižengimą ir
+baudžiamas
+viešaisiais darbais arba bauda.
 3. Už šiame
 straipsnyje numatytas veikas atsako ir juridinis asmuo.
 4. Šio
-straipsnio 1 dalyje numatyta veika yra nusikalstama ir tais atvejais, kai ji
-padaryta dėl neatsargumo.
+straipsnio 1 ir 2 dalyse numatytos veikos yra nusikalstamos ir tais atvejais,
+kai jos padarytos dėl neatsargumo.
 Straipsnio pakeitimai:
 Nr.
 X-272,
 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)
+Nr. XI-579, 2009-12-17, Žin., 2010, Nr.
+1-1 (2010-01-05)
  
 275 straipsnis. Neteisėta farmacinė veikla
 1.
@@ -6203,8 +6217,8 @@ veikos padarytos dėl neatsargumo.
 5.
 Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
  
-276 straipsnis. Kenksmingų žmogaus
-sveikatai ar gyvybei produktų gamyba arba prekyba jais
+276 straipsnis. Kenksmingų žmogaus sveikatai
+ar gyvybei produktų gamyba arba prekyba jais
 1.
 Tas, kas turėdamas tikslą realizuoti pagamino maisto produktų iš akivaizdžiai
 netinkamos, kenksmingos žmogaus sveikatai ar gyvybei medžiagos arba su
@@ -6234,8 +6248,8 @@ Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 užkrečiamosiomis ligomis taisyklių pažeidimas
 1.
 Tas, kas pažeidė teisės aktų dėl sveikatos apsaugos reikalavimus ar
-užkrečiamųjų ligų profilaktikos kontrolės taisykles, jeigu dėl to išplito
-susirgimas ar kilo epidemija,
+užkrečiamųjų ligų profilaktikos kontrolės taisykles, jeigu dėl to išplito susirgimas
+ar kilo epidemija,
 baudžiamas
 bauda arba areštu arba laisvės atėmimu iki trejų metų.
 2.
@@ -6250,6 +6264,27 @@ Asmuo atsako pagal šį straipsnį tik tais atvejais, kai jame numatytos veikos
 yra padarytos dėl neatsargumo.
 4.
 Už šio straipsnio 1 dalyje numatytą veiką atsako ir juridinis asmuo.
+ 
+2771 straipsnis. Sąvokų
+išaiškinimas
+Ypatingai saugomi laukiniai gyvūnai, augalai ir grybai yra:
+1) Į Lietuvos raudonąją knygą įrašytų saugomų gyvūnų, augalų ir
+grybų rūšių sąraše nurodytų ir 0(Ex), 1(E), 2(V) kategorijoms priskirtų saugomų
+rūšių laukiniai gyvūnai, augalai ir grybai;
+2) 1996 m. gruodžio 9 d. Tarybos reglamento (EB) Nr. 338/97 dėl
+laukinės faunos ir floros rūšių apsaugos kontroliuojant jų prekybą A ir B
+prieduose nurodytų saugomų rūšių laukiniai gyvūnai ir augalai;
+3) 1992 m. gegužės 21 d. Tarybos direktyvos 92/43/EEB dėl
+natūralių buveinių ir laukinės faunos bei floros apsaugos IV priede nurodytų
+saugomų rūšių laukiniai gyvūnai ir augalai;
+4) 1979
+m. balandžio 2 d. Tarybos direktyvos 79/409/EEB dėl laukinių paukščių apsaugos
+I priede nurodyti ir šios direktyvos 4 straipsnio 2 dalyje nurodyti laukiniai
+paukščiai.
+Įstatymas papildytas
+straipsniu:
+Nr. XI-579, 2009-12-17, Žin., 2010, Nr.
+1-1 (2010-01-05)
  
 XXXIX
 SKYRIUS
@@ -6297,9 +6332,9 @@ bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
 280 straipsnis. Transporto priemonių ar
 kelių, juose esančių įrenginių sugadinimas
 1.
-Tas, kas išardė ar sugadino transporto priemonę ar kelią, dujotiekį,
-naftotiekį, elektros ar ryšių liniją, juose esantį įrenginį, ryšių ar
-signalizacijos priemonę, jeigu tai grėsė sunkiais padariniais,
+Tas, kas išardė ar sugadino transporto priemonę ar kelią, dujotiekį, naftotiekį,
+elektros ar ryšių liniją, juose esantį įrenginį, ryšių ar signalizacijos
+priemonę, jeigu tai grėsė sunkiais padariniais,
 baudžiamas
 areštu arba laisvės atėmimu iki trejų metų.
 2.
@@ -6383,8 +6418,8 @@ saugumo taisykles, jeigu dėl to žuvo žmogus arba buvo sunkiai sutrikdyta
 baudžiamas
 areštu arba laisvės atėmimu iki penkerių metų.
 2.
-Asmuo atsako pagal šį straipsnį tik tais atvejais, kai jame numatytos veikos padarytos
-dėl neatsargumo.
+Asmuo atsako pagal šį straipsnį tik tais atvejais, kai jame numatytos veikos
+padarytos dėl neatsargumo.
  
 XL
 SKYRIUS
@@ -6551,8 +6586,8 @@ Nr. X-61, 2004-12-22,
 Žin., 2004, Nr. 188-6995 (2004-12-31)
  
 293
-straipsnis. Lietuvos Respublikos piliečių kelionių į užsienį nelegaliai ten jiems
-pasilikti arba palikti be pagalbos organizavimas
+straipsnis. Lietuvos Respublikos piliečių kelionių į užsienį nelegaliai ten
+jiems pasilikti arba palikti be pagalbos organizavimas
 1. Tas, kas organizavo Lietuvos Respublikos piliečius ar
 nuolatinius gyventojus keliauti į užsienį prašytis prieglobsčio ar ten
 nelegaliai dirbti, ar dėl kitų priežasčių nelegaliai pasilikti užsienyje arba
@@ -6569,9 +6604,9 @@ ginčijamą arba pripažįstamą, bet nerealizuotą savo ar kito asmens tikrą a
 tariamą teisę ir padarė didelės žalos asmens teisėms ar teisėtiems interesams, 
 baudžiamas
 bauda arba areštu, arba laisvės atėmimu iki trejų metų.
-2. Tas,
-kas savavaldžiavo panaudodamas psichinę ar fizinę prievartą nukentėjusiam ar jo
-artimam asmeniui,
+2.
+Tas, kas savavaldžiavo panaudodamas psichinę ar fizinę prievartą nukentėjusiam
+ar jo artimam asmeniui,
 baudžiamas
 areštu arba laisvės atėmimu iki penkerių metų.
 3.
@@ -6584,8 +6619,8 @@ technikos įrengimas ar panaudojimas informacijai rinkti
 Tas,
 kas neteisėtai įrengė ar panaudojo specialią techniką žmogui sekti,
 informacijai apie valstybės, savivaldybės instituciją, įstaigą ar jų
-tarnautoją, politinę partiją, visuomeninę organizaciją ar jų narį, kitą
-juridinį ar fizinį asmenį rinkti,
+tarnautoją, politinę partiją, visuomeninę organizaciją ar jų narį, kitą juridinį
+ar fizinį asmenį rinkti,
 baudžiamas
 bauda arba areštu, arba laisvės atėmimu iki ketverių metų.
  
@@ -6643,9 +6678,9 @@ bauda arba areštu, arba laisvės atėmimu iki trejų metų.
 pasą, vairuotojo pažymėjimą ar valstybinio socialinio draudimo pažymėjimą arba
 suklastojo tikrą asmens tapatybės kortelę, pasą, vairuotojo pažymėjimą ar
 valstybinio socialinio draudimo pažymėjimą, arba žinomai netikrą ar žinomai
-suklastotą tikrą asmens tapatybės kortelę, pasą, vairuotojo pažymėjimą ar valstybinio
-socialinio draudimo pažymėjimą laikė, gabeno, siuntė,
-panaudojo ar realizavo,
+suklastotą tikrą asmens tapatybės kortelę, pasą, vairuotojo pažymėjimą ar
+valstybinio socialinio draudimo pažymėjimą laikė,
+gabeno, siuntė, panaudojo ar realizavo,
 baudžiamas
 areštu arba laisvės atėmimu iki ketverių metų.
 3.
@@ -6803,8 +6838,7 @@ IR BAUDŽIAMIEJI NUSIŽENGIMAI DOROVEI
  
 307 straipsnis. Pelnymasis iš kito asmens prostitucijos
 1.
-Tas, kas turėjo pajamų iš kito asmens prostitucijos arba sąvadavo
-prostitucijai,
+Tas, kas turėjo pajamų iš kito asmens prostitucijos arba sąvadavo prostitucijai,
 baudžiamas
 bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių
 metų.
@@ -7146,73 +7180,81 @@ kodekso
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
-1. 2000 m.
+1.
+1996 m. gruodžio 9 d. Tarybos reglamentas (EB) Nr. 338/97 dėl laukinės faunos
+ir floros rūšių apsaugos kontroliuojant jų prekybą (OL 2004 m. specialusis
+leidimas, 15 skyrius, 3 tomas, p. 136).
+2. 2000 m.
 gegužės 29 d. Tarybos pagrindų sprendimas 2000/383/TVR dėl apsaugos nuo
 padirbinėjimo griežtinimo kriminalinėmis bausmėmis ir kitokiomis sankcijomis
-ryšium su euro įvedimu (OL 2004 m. specialusis leidimas, 19 skyrius, 1 tomas,
-p. 187).
-2. 2001 m.
-gruodžio 6 d. Tarybos pagrindų sprendimas 2001/888/TVR, iš dalies keičiantis
+ryšium su euro įvedimu (OL 2004 m. specialusis leidimas, 19 skyrius, 1
+tomas, p. 187).
+3. 2001
+m. gruodžio 6 d. Tarybos pagrindų sprendimas 2001/888/TVR, iš dalies keičiantis
 Tarybos pagrindų sprendimą 2000/383/TVR dėl apsaugos nuo padirbinėjimo
 griežtinimo kriminalinėmis bausmėmis ir kitokiomis sankcijomis ryšium su euro
 įvedimu (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 182).
-3. 2001 m.
+4. 2001 m.
 gegužės 28 d. Tarybos pagrindų sprendimas 2001/413/TVR, skirtas kovai su
 sukčiavimu negrynosiomis mokėjimo priemonėmis ir jų klastojimu (OL 2004 m.
 specialusis leidimas, 15 skyrius, 6 tomas, p. 123).
-4. 2001 m.
+5. 2001 m.
 birželio 26 d. Tarybos pagrindų sprendimas 2001/500/TVR dėl pinigų plovimo,
 nusikaltimo priemonių ir nusikalstamu būdu įgytų pajamų nustatymo, paieškos,
-įšaldymo, areštavimo ir konfiskavimo (OL 2004 m. specialusis leidimas, 19
-skyrius, 4 tomas, p. 158).
-5. 2002 m.
+įšaldymo, areštavimo ir konfiskavimo (OL 2004 m. specialusis leidimas,
+19 skyrius, 4 tomas, p. 158).
+6. 2002 m.
 birželio 13 d. Tarybos pagrindų sprendimas 2002/475/TVR dėl kovos su terorizmu
 (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 18).
-6. 2002 m.
-birželio 13 d. Tarybos pagrindų sprendimas 2002/584/TVR dėl Europos arešto
+7. 2002
+m. birželio 13 d. Tarybos pagrindų sprendimas 2002/584/TVR dėl Europos arešto
 orderio ir perdavimo tarp valstybių narių tvarkos (OL 2004 m. specialusis
 leidimas, 19 skyrius, 6 tomas, p. 34).
-7. 2002 m.
-liepos 19 d. Tarybos pagrindų sprendimas 2002/629/TVR dėl kovos su prekyba
+8. 2002
+m. liepos 19 d. Tarybos pagrindų sprendimas 2002/629/TVR dėl kovos su prekyba
 žmonėmis (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 52).
-8. 2002 m.
-lapkričio 28 d. Tarybos direktyva 2002/90/EB, apibrėžianti padėjimą neteisėtai
-atvykti, vykti tranzitu ir apsigyventi (OL 2004 m. specialusis leidimas, 19
-skyrius, 6 tomas, p. 64).
 9. 2002 m.
+lapkričio 28 d. Tarybos direktyva 2002/90/EB, apibrėžianti padėjimą neteisėtai
+atvykti, vykti tranzitu ir apsigyventi (OL 2004 m. specialusis leidimas,
+19 skyrius, 6 tomas, p. 64).
+10. 2002 m.
 lapkričio 28 d. Tarybos pagrindų sprendimas 2002/946/TVR dėl bausmių sistemos
 stiprinimo siekiant užkirsti kelią padėjimui neteisėtai atvykti, vykti tranzitu
-ir apsigyventi (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 61).
-10. 2003 m.
-liepos 22 d. Tarybos pagrindų sprendimas 2003/568/TVR dėl kovos su korupcija
-privačiame sektoriuje (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p.
-182).
-11. 2003 m.
-gruodžio 22 d. Tarybos pagrindų sprendimas 2004/68/TVR dėl kovos su seksualiniu
-vaikų išnaudojimu ir vaikų pornografija (OL 2004 m. specialusis leidimas, 19
-skyrius, 7 tomas, p. 10).
-12. 2004 m. kovo
-31 d. Europos Parlamento ir Tarybos  direktyva 2004/23/EB, nustatanti žmogaus
-audinių ir ląstelių donorystės, įsigijimo, ištyrimo, apdorojimo, konservavimo,
-laikymo bei paskirstymo kokybės ir saugos standartus (OL 2004 m. specialusis
-leidimas, 15 skyrius, 8 tomas, p. 291).
-13. 2004 m.
-spalio 25 d. Tarybos pagrindų sprendimas 2004/757/TVR, nustatantis būtiniausias
-nuostatas dėl nusikalstamų veikų sudėties požymių ir bausmių neteisėtos
-prekybos narkotikais srityje (OL 2004 L 335, p. 8).
-14. 2005 m.
-vasario 24 d. Tarybos pagrindų sprendimas 2005/212/TVR dėl nusikalstamu būdu
+ir apsigyventi (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p.
+61).
+11. 2003
+m. liepos 22 d. Tarybos pagrindų sprendimas 2003/568/TVR dėl kovos su korupcija
+privačiame sektoriuje (OL 2004 m. specialusis leidimas, 19 skyrius, 6
+tomas, p. 182).
+12. 2003
+m. gruodžio 22 d. Tarybos pagrindų sprendimas 2004/68/TVR dėl kovos su
+seksualiniu vaikų išnaudojimu ir vaikų pornografija (OL 2004 m. specialusis
+leidimas, 19 skyrius, 7 tomas, p. 10).
+13. 2004
+m. kovo 31 d. Europos Parlamento ir Tarybos direktyva 2004/23/EB, nustatanti
+žmogaus audinių ir ląstelių donorystės, įsigijimo, ištyrimo, apdorojimo,
+konservavimo, laikymo bei paskirstymo kokybės ir saugos standartus (OL 2004 m.
+specialusis leidimas, 15 skyrius, 8 tomas, p. 291).
+14. 2004
+m. spalio 25 d. Tarybos pagrindų sprendimas 2004/757/TVR, nustatantis
+būtiniausias nuostatas dėl nusikalstamų veikų sudėties požymių ir bausmių
+neteisėtos prekybos narkotikais srityje (OL 2004 L 335, p. 8).
+15. 2005
+m. vasario 24 d. Tarybos pagrindų sprendimas 2005/212/TVR dėl nusikalstamu būdu
 įgytų lėšų, nusikaltimo priemonių ir turto konfiskavimo (OL 2005 L 68, p. 49).
-15. 2005 m.
-vasario 24 d. Tarybos pagrindų sprendimas 2005/222/TVR dėl atakų prieš
+16. 2005
+m. vasario 24 d. Tarybos pagrindų sprendimas 2005/222/TVR dėl atakų prieš
 informacines sistemas (OL 2005 L 69, p. 67).
-16. 2005 m.
+17. 2005 m.
 liepos 12 d. Tarybos pagrindų sprendimas 2005/667/TVR dėl baudžiamosios teisės
 sistemos stiprinimo įgyvendinant teršimui iš laivų taikomą teisę (OL 2005 L
 255, p. 164).
-17. 2005 m.
-rugsėjo 7 d. Europos Parlamento ir Tarybos direktyva 2005/35/EB dėl taršos iš
-laivų ir sankcijų už pažeidimus įvedimo (OL 2005 L 255, p. 11).
+18. 2005
+m. rugsėjo 7 d. Europos Parlamento ir Tarybos direktyva 2005/35/EB dėl taršos
+iš laivų ir sankcijų už pažeidimus įvedimo (OL 2005 L 255, p. 11).
+19.
+2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/99/EB dėl
+aplinkos apsaugos pagal baudžiamąją teisę (OL 2008 L 328, p. 28).
 Kodeksas papildytas priedu:
 Nr. IX-2169,
 2004-04-27, Žin., 2004, Nr. 72-2492 (2004-04-30)
@@ -7230,8 +7272,11 @@ X-1233,
 Nr.
 X-1527,
 2008-05-08, Žin., 2008, Nr. 59-2200 (2008-05-24)
+Nr. XI-579, 2009-12-17, Žin., 2010, Nr.
+1-1 (2010-01-05)
  
 _______________
+ 
 Pakeitimai:
  
 1.
@@ -7370,8 +7415,8 @@ PAPILDYMO 147(1), 199(1), 199(2), 267(1), 270(1), 308(1) STRAIPSNIAIS ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-511,
-2006-01-20, Žin., 2006, Nr. 17-605 (2006-02-11)
+X-511, 2006-01-20,
+Žin., 2006, Nr. 17-605 (2006-02-11)
 BAUDŽIAMOJO
 KODEKSO 300, 302 STRAIPSNIŲ PAKEITIMO IR KODEKSO PAPILDYMO 302(1) STRAIPSNIU
 ĮSTATYMAS
@@ -7458,10 +7503,20 @@ Nr. XI-521, 2009-12-03, Žin., 2009, Nr.
 BAUDŽIAMOJO KODEKSO 235 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
  
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-579, 2009-12-17, Žin., 2010, Nr.
+1-1 (2010-01-05)
+BAUDŽIAMOJO
+KODEKSO 272, 274 STRAIPSNIŲ IR PRIEDO PAKEITIMO IR PAPILDYMO, KODEKSO PAPILDYMO
+277(1) STRAIPSNIU ĮSTATYMAS
+Šio įstatymo atitaisymas skelbtas: Žin.,
+2010, Nr. 2 (2010-01-07)
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2009-12-10)
-                 
-autrap@lrs.lt
+(2010-01-12)
+              
+   autrap@lrs.lt
