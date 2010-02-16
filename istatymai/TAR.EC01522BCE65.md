@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC01522BCE65"
 
 # Lietuvos Respublikos Seimo kontrolierių įstatymas
 
-Suvestinė redakcija nuo 2008-11-15 iki 2010-02-15
+Suvestinė redakcija nuo 2010-02-16 iki 2010-05-30
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 110-3024, i. k. 0981010ISTAVIII-950
  
@@ -159,12 +159,18 @@ Seimo kontrolieriumi skiriamas nepriekaištingos reputacijos Lietuvos Respubliko
 7 straipsnis. Seimo kontrolierių skyrimas
 
 
-1. Seimo Pirmininko teikimu Seimas skiria 5 Seimo kontrolierius penkerių metų kadencijai.
+1. Seimo Pirmininko teikimu Seimas skiria 2 Seimo kontrolierius penkerių metų kadencijai.
+Straipsnio dalies pakeitimai:
+Nr. XI-667, 2010-01-21, Žin., 2010, Nr. 15-700 (2010-02-04), i. k. 1101010ISTA00XI-667
+ 
 
 
 
 
-2. Seimas skiria 2 Seimo kontrolierius valstybės institucijų ir įstaigų pareigūnų veiklai tirti ir 3 Seimo kontrolierius apskričių viršininkų administracijų bei savivaldybių institucijų ir įstaigų pareigūnų veiklai tirti.
+2. Seimas skiria vieną Seimo kontrolierių valstybės institucijų ir įstaigų pareigūnų veiklai tirti ir vieną Seimo kontrolierių apskričių viršininkų administracijų bei savivaldybių institucijų ir įstaigų pareigūnų veiklai tirti.
+Straipsnio dalies pakeitimai:
+Nr. XI-667, 2010-01-21, Žin., 2010, Nr. 15-700 (2010-02-04), i. k. 1101010ISTA00XI-667
+ 
 
 
 
@@ -697,7 +703,7 @@ Seimo kontrolierius ištiria skunde nurodytas aplinkybes ir surašo pažymą. Pa
 
 
 
-23 straipsnis.       Pareiga saugoti valstybės, profesines ir kitas įstatymų saugomas paslaptis ar duomenis
+23 straipsnis. Pareiga saugoti valstybės, profesines ir kitas įstatymų saugomas paslaptis ar duomenis
 
 
 Seimo kontrolieriai ir kiti Seimo kontrolierių įstaigos darbuotojai privalo išsaugoti valstybės, tarnybos, komercines ar banko paslaptis bei įstatymų saugomus asmens duomenis, kuriuos sužinojo eidami pareigas. 
@@ -726,7 +732,7 @@ Seimo kontrolierių įstaiga – valstybės biudžetinė įstaiga. Seimo kontrol
 
 
 
-25 straipsnis. Seimo kontrolierių įstaigos struktūra 
+25 straipsnis. Seimo kontrolierių įstaigos struktūra
 
 
 1. Seimo kontrolierių įstaigą sudaro Seimo kontrolieriai, valstybės tarnautojai ir kiti darbuotojai.
@@ -734,112 +740,38 @@ Seimo kontrolierių įstaiga – valstybės biudžetinė įstaiga. Seimo kontrol
 
 
 
-2. Seimo kontrolierių įstaigai vadovauja Seimo kontrolierių įstaigos vadovas. Jį pavaduoja vyriausias pagal amžių Seimo kontrolierius.
+2. Seimo kontrolierių įstaigai vadovauja Seimo kontrolierių įstaigos vadovas. Jį pavaduoja kitas Seimo kontrolierius.
 
 
 
 
-3. Seimo kontrolierių įstaiga turi Seimo kontrolierių įstaigos valdybą.
+3. Seimo kontrolierių įstaigos didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių skaičių tvirtina Seimo valdyba.
 
 
 
 
-4. Seimo kontrolierių įstaigos struktūrą tvirtina Seimo kontrolierių įstaigos valdyba.
+4. Seimo kontrolieriai turi patarėjų. Seimo kontrolieriaus patarėjas yra valstybės tarnautojas. Seimo kontrolieriaus patarėju gali būti Lietuvos Respublikos pilietis, turintis teisės bakalauro ir teisės magistro arba vienpakopį teisinį universitetinį išsilavinimą.
 
 
-
-
-5. Seimo kontrolierių įstaigos struktūrinių padalinių ir įstaigos darbuotojų funkcijas nustato Seimo kontrolierių įstaigos vadovas.
-
-
-
-
-6. Seimo kontrolieriai turi patarėjų. Seimo kontrolieriaus patarėjas yra valstybės tarnautojas. Seimo kontrolieriaus patarėju gali būti Lietuvos Respublikos pilietis, turintis teisės bakalauro ir teisės magistro arba vienpakopį teisinį universitetinį išsilavinimą.
+Straipsnio pakeitimai:
+Nr. XI-667, 2010-01-21, Žin., 2010, Nr. 15-700 (2010-02-04), i. k. 1101010ISTA00XI-667
  
 
 
 
 
-
-
-26 straipsnis. Seimo kontrolierių įstaigos valdyba
-
-
-1. Seimo kontrolierių įstaigos valdybą sudaro Seimo kontrolieriai.
-
-
-
-
-2. Seimo kontrolierių įstaigos valdyba svarsto svarbiausius Seimo kontrolierių veiklos klausimus.
-
-
-
-
-3. Seimo kontrolierių įstaigos valdyba:
-
-
-1) tvirtina Seimo kontrolierių pasiskirstymą veiklos sritimis;
-
-
-
-
-2) tvirtina Seimo kontrolierių įstaigos reglamentą;
-
-
-
-
-3) tvirtina Seimo kontrolierių įstaigos struktūrą, etatų skaičių, darbuotojų, dirbančių pagal darbo sutartis, atlyginimų ribas; 
-
-
-
-
-4) svarsto siūlymus dėl Seimo kontrolierių įstaigos asignavimų naudojimo;
-
-
-
-
-5) svarsto Seimo kontrolierių įstaigos valstybės tarnautojų ir kitų darbuotojų skatinimo, pašalpų mokėjimo tvarką;
-
-
-
-
-6) sprendžia klausimus dėl Seimo kontrolierių metinės veiklos ataskaitos parengimo ir pateikimo Seimui; 
-
-
-
-
-7) svarsto klausimus dėl Seimo kontrolierių, Seimo kontrolierių įstaigos valstybės tarnautojų bei kitų darbuotojų komandiruočių ar stažuočių užsienyje, taip pat dėl ilgesnių negu vienas mėnuo komandiruočių ar stažuočių Lietuvoje;
-
-
-
-
-8) teikia siūlymus Seimo kontrolierių įstaigos vadovui dėl Seimo kontrolierių įstaigos valstybės tarnautojų ir kitų darbuotojų kvalifikacijos kėlimo.
+26 straipsnis. Neteko galios nuo 2010-02-16
+Straipsnio naikinimas:
+Nr. XI-667, 2010-01-21, Žin. 2010, Nr. 15-700 (2010-02-04), i. k. 1101010ISTA00XI-667
  
 
 
 
 
-
-
-
-
-27 straipsnis. Seimo kontrolierių įstaigos valdybos darbo tvarka
-
-
-1. Seimo kontrolierių įstaigos valdybos posėdžiai šaukiami Seimo kontrolierių įstaigos vadovo arba daugiau kaip pusės valdybos narių iniciatyva. Valdybos posėdis yra teisėtas, jeigu jame dalyvauja ne mažiau kaip 3 Seimo kontrolieriai.
-
-
-
-
-2. Valdybos posėdžiams pirmininkauja Seimo kontrolierių įstaigos vadovas, o jeigu jo nėra, – vyriausias pagal amžių Seimo kontrolierius.
-
-
-
-
-3. Seimo kontrolierių įstaigos valdyba savo kompetencijos klausimais priima nutarimus visų valdybos narių balsų dauguma.
+27 straipsnis. Neteko galios nuo 2010-02-16
+Straipsnio naikinimas:
+Nr. XI-667, 2010-01-21, Žin. 2010, Nr. 15-700 (2010-02-04), i. k. 1101010ISTA00XI-667
  
-
-
 
 
 
@@ -865,7 +797,7 @@ Seimo kontrolierių įstaiga – valstybės biudžetinė įstaiga. Seimo kontrol
 
 
 
-2) teikia Seimo kontrolierių įstaigos valdybai tvirtinti Seimo kontrolierių įstaigos struktūrą;
+2) tvirtina Seimo kontrolierių įstaigos struktūrą, nustato Seimo kontrolierių įstaigos struktūrinių padalinių ir įstaigos darbuotojų funkcijas ir tvirtina Seimo kontrolierių įstaigos reglamentą; 
 
 
 
@@ -880,7 +812,7 @@ Seimo kontrolierių įstaiga – valstybės biudžetinė įstaiga. Seimo kontrol
 
 
 
-5) suteikia Seimo kontrolieriams, Seimo kontrolierių įstaigos valstybės tarnautojams ir kitiems darbuotojams atostogas, siunčia juos į komandiruotes;
+5) suteikia Seimo kontrolieriui, Seimo kontrolierių įstaigos valstybės tarnautojams ir kitiems darbuotojams atostogas, siunčia juos į komandiruotes, stažuotes;
 
 
 
@@ -890,24 +822,17 @@ Seimo kontrolierių įstaiga – valstybės biudžetinė įstaiga. Seimo kontrol
 
 
 
-7) šaukia valdybos posėdžius ir jiems pirmininkauja;
+7) skiria Seimo kontrolierių įstaigos valstybės tarnautojams ir kitiems darbuotojams tarnybines (drausmines) nuobaudas;
 
 
 
 
-8) skiria Seimo kontrolierių įstaigos valstybės tarnautojams ir kitiems darbuotojams tarnybines (drausmines) nuobaudas;
+8) organizuoja Seimo kontrolierių metinės veiklos ataskaitos parengimą ir pateikimą Seimui.
 
 
-
-
-9) paveda kitam Seimo kontrolieriui laikinai eiti pareigas to kontrolieriaus, kuris dėl ligos, atostogų, išvykos į užsienį ar kitų priežasčių negali eiti savo pareigų;
-
-
-
-
-10) paveda tirti konkretų skundą kitam Seimo kontrolieriui, jeigu tiriant šį skundą gali kilti interesų konfliktas.
-
-
+Straipsnio dalies pakeitimai:
+Nr. XI-667, 2010-01-21, Žin., 2010, Nr. 15-700 (2010-02-04), i. k. 1101010ISTA00XI-667
+ 
 
 
 
@@ -1013,3 +938,8 @@ Lietuvos Respublikos Seimo kontrolierių įstatymo 8 straipsnio pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1781, 2008-11-06, Žin., 2008, Nr. 131-5031 (2008-11-15), i. k. 1081010ISTA00X-1781
 Lietuvos Respublikos Seimo kontrolierių įstatymo 29 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-667, 2010-01-21, Žin., 2010, Nr. 15-700 (2010-02-04), i. k. 1101010ISTA00XI-667
+Lietuvos Respublikos Seimo kontrolierių įstatymo 7, 25, 28 straipsnių pakeitimo ir 26, 27 straipsnių pripažinimo netekusiais galios įstatymas
