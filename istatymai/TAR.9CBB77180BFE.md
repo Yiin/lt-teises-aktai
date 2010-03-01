@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9CBB77180BFE"
 
 # Lietuvos Respublikos priešgaisrinės saugos įstatymas
 
-Suvestinė redakcija nuo 2008-06-21 iki 2010-02-28
+Suvestinė redakcija nuo 2010-03-01 iki 2010-10-01
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 123-5518, i. k. 1021010ISTA0IX-1225
  
@@ -81,27 +81,49 @@ BENDROSIOS NUOSTATOS
 
 
 
-8. Priešgaisrinė sauga – veikla, kuria įgyvendinama gaisrų prevencija ir jų gesinimas, žmonių ir turto gelbėjimas gaisro metu.
+8. Objekto atitikties priešgaisrinę saugą reglamentuojantiems teisės aktams deklaravimas – Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos (toliau – Priešgaisrinės apsaugos ir gelbėjimo departamentas) nustatyta tvarka atliekamas veiksmas, kuriuo įmonės, įstaigos, organizacijos vadovas pareiškia, kad objektas atitinka priešgaisrinę saugą reglamentuojančius teisės aktus. 
+Papildyta straipsnio dalimi:
+Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00XI-623
+ 
 
 
 
 
-9. Priešgaisrinis režimas – konkrečiam objektui teisės aktais nustatytų priešgaisrinės saugos reikalavimų, būtinų jį saugiai eksploatuoti, visuma.
+9. Priešgaisrinė sauga – veikla, kuria įgyvendinama gaisrų prevencija ir jų gesinimas, žmonių ir turto gelbėjimas gaisro metu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00XI-623
+ 
 
 
 
 
-10. Valstybinė priešgaisrinė gelbėjimo tarnyba – Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos ir jam pavaldžios įstaigos.
+10. Priešgaisrinis režimas – konkrečiam objektui teisės aktais nustatytų priešgaisrinės saugos reikalavimų, būtinų jį saugiai eksploatuoti, visuma.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00XI-623
+ 
 
 
 
 
-11. Valstybinė priešgaisrinė priežiūra – valstybinės priešgaisrinės priežiūros pareigūnų vykdoma speciali valstybinė priežiūra, kurios tikslas – kontroliuoti, kaip Lietuvos Respublikos teritorijoje laikomasi teisės aktų reikalavimų, užtikrinančių gaisrų prevenciją, bei siekiama užkirsti kelią šių reikalavimų pažeidimams.
+11. Valstybinė priešgaisrinė gelbėjimo tarnyba – Priešgaisrinės apsaugos ir gelbėjimo departamentas ir jam pavaldžios įstaigos.
+Straipsnio dalies pakeitimai:
+Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00XI-623
+ 
 
 
 
 
-12. Valstybinės priešgaisrinės priežiūros pareigūnas – valstybinės priešgaisrinės gelbėjimo tarnybos statutinis valstybės tarnautojas, įgaliotas atlikti valstybinę priešgaisrinę priežiūrą.
+12. Valstybinė priešgaisrinė priežiūra – valstybinės priešgaisrinės priežiūros pareigūnų vykdoma speciali valstybinė priežiūra, kurios tikslas – kontroliuoti, kaip Lietuvos Respublikos teritorijoje laikomasi teisės aktų reikalavimų, užtikrinančių gaisrų prevenciją, bei siekiama užkirsti kelią šių reikalavimų pažeidimams.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00XI-623
+ 
+
+
+
+
+13. Valstybinės priešgaisrinės priežiūros pareigūnas – valstybinės priešgaisrinės gelbėjimo tarnybos statutinis valstybės tarnautojas, įgaliotas atlikti valstybinę priešgaisrinę priežiūrą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00XI-623
  
 
 
@@ -206,7 +228,10 @@ Vidaus reikalų ministerija, įgyvendindama šį Įstatymą:
 
 
 
-2) organizuoja Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos (toliau – Priešgaisrinės apsaugos ir gelbėjimo departamentas) strateginių veiklos planų įgyvendinimą;
+2) Neteko galios nuo 2010-03-01
+Straipsnio punkto naikinimas:
+Nr. XI-623, 2009-12-22, Žin. 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00XI-623
+ 
 
 
 
@@ -234,15 +259,15 @@ Vidaus reikalų ministerija, įgyvendindama šį Įstatymą:
 7 straipsnis. Priešgaisrinės apsaugos ir gelbėjimo departamentas
 
 
-Priešgaisrinės apsaugos ir gelbėjimo departamentas, įgyvendindamas šį Įstatymą:
+Priešgaisrinės apsaugos ir gelbėjimo departamentas, įgyvendindamas šį Įstatymą: 
 
 
-1) organizuoja ir vadovauja gaisrų gesinimui, žmonių bei turto gelbėjimui, gaisro padarinių mažinimui;
+1) pagal kompetenciją organizuoja gaisrų gesinimo, žmonių ir turto gelbėjimo, gaisrų padarinių mažinimo darbus ir jiems vadovauja; 
 
 
 
 
-2) organizuoja bei vykdo valstybinę priešgaisrinę priežiūrą;
+2) organizuoja valstybinę priešgaisrinę priežiūrą;
 
 
 
@@ -253,39 +278,80 @@ Priešgaisrinės apsaugos ir gelbėjimo departamentas, įgyvendindamas šį Įst
 
 
 4) tvirtina įmonių, įstaigų ir organizacijų vadovų ir atsakingų asmenų, kuriems pavesta kontroliuoti objekto priešgaisrinę būklę ir imtis priemonių priešgaisrinės saugos reikalavimams vykdyti, priešgaisrinės saugos mokymo programas ir mokymo tvarką;
-Straipsnio punkto pakeitimai:
-Nr. X-1575, 2008-06-05, Žin., 2008, Nr. 71-2704 (2008-06-21), i. k. 1081010ISTA00X-1575
+
+
+
+
+5) nustato minimalius priešgaisrinės saugos mokymo programų, pagal kurias įmonėse, įstaigose ir organizacijose mokomi valstybės tarnautojai ir darbuotojai, reikalavimus;
+
+
+
+
+6) nustato objekto atitikties priešgaisrinę saugą reglamentuojantiems teisės aktams deklaravimo tvarką; 
+
+
+
+
+7) nustato objektų atitikties priešgaisrinę saugą reglamentuojantiems teisės aktams patikrinimų atlikimo tvarką; 
+
+
+
+
+8) informuoja visuomenę priešgaisrinės saugos klausimais; 
+
+
+
+
+9) taiko mokslines ir technines naujoves priešgaisrinės saugos srityje, koordinuoja gaisrinės ir gelbėjimo technikos, gaisrinės saugos įrenginių, priešgaisrinių priemonių, gaisrinės automatikos įrenginių atitikties įvertinimą;
+
+
+
+
+10) skatina gyventojų, asociacijų, savanorių ugniagesių veiklą priešgaisrinės saugos srityje; 
+
+
+
+
+11) nustato savanorių ugniagesių, dalyvaujančių gesinant gaisrus, sveikatos reikalavimus, suderintus su Sveikatos apsaugos ministerija, taip pat jų bendrojo fizinio parengtumo reikalavimus, mokymo ir kvalifikacijos tobulinimo tvarką; 
+Papildyta straipsnio punktu:
+Nr. XII-1330, 2014-11-13, paskelbta TAR 2014-11-26, i. k. 2014-17985
  
 
 
 
 
-5) nustato minimalius priešgaisrinės saugos mokymo programų, pagal kurias įmonėse, įstaigose ir organizacijose yra mokomi valstybės tarnautojai ir darbuotojai, reikalavimus;
-
-
-
-
-6) informuoja visuomenę priešgaisrinės saugos klausimais, skleidžia priešgaisrinės saugos žinias;
-
-
-
-
-7) įgyvendina mokslinius, techninius laimėjimus priešgaisrinės saugos srityje;
-
-
-
-
-8) skatina gyventojų, visuomeninių organizacijų, savanorių ugniagesių veiklą priešgaisrinės saugos srityje;
-
-
-
-
-9) atlieka kitas teisės aktų nustatytas funkcijas.
+12) teikia savivaldybių priešgaisrinėms tarnyboms metodinę pagalbą; 
+Papildyta straipsnio punktu:
+Nr. XII-1330, 2014-11-13, paskelbta TAR 2014-11-26, i. k. 2014-17985
  
 
 
 
 
+13) vidaus reikalų ministrui pavedus (įgaliojus) prižiūri, kaip atliekama valstybės perduota savivaldybėms priešgaisrinės saugos funkcija, kaip vykdomi savivaldybių priešgaisrinėms tarnyboms vidaus reikalų ministro ar jo įgalioto Priešgaisrinės apsaugos ir gelbėjimo departamento direktoriaus nustatyti jų veiklos kokybiniai ir (ar) kiekybiniai rodikliai; 
+Papildyta straipsnio punktu:
+Nr. XII-1330, 2014-11-13, paskelbta TAR 2014-11-26, i. k. 2014-17985
+ 
+
+
+
+
+14) nustato tipinę savivaldybių priešgaisrinių tarnybų, savanorių ugniagesių veiklos atlikimo ir savanorių ugniagesių veiklos organizatoriaus funkcijų vykdymo tvarką; 
+Papildyta straipsnio punktu:
+Nr. XII-1330, 2014-11-13, paskelbta TAR 2014-11-26, i. k. 2014-17985
+ 
+
+
+
+
+11) atlieka kitas teisės aktų nustatytas funkcijas.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00XI-623
+ 
 
 
 
@@ -301,7 +367,10 @@ Ministerijos ir kitos valstybės institucijos bei įstaigos, įgyvendindamos š�
 
 
 
-2) teikia įgaliotiems vykdyti specialią valstybinę priežiūrą Valstybinės priešgaisrinės gelbėjimo tarnybos pareigūnams informaciją, reikalingą jų uždaviniams įgyvendinti bei funkcijoms atlikti;
+2) teikia valstybinės priešgaisrinės priežiūros pareigūnams informaciją, reikalingą jų uždaviniams įgyvendinti ir funkcijoms atlikti;
+Straipsnio punkto pakeitimai:
+Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00XI-623
+ 
 
 
 
@@ -326,13 +395,13 @@ Ministerijos ir kitos valstybės institucijos bei įstaigos, įgyvendindamos š�
 
 
 
-9 straipsnis. Savivaldybės
+9 straipsnis. Savivaldybių institucijos
 
 
-Savivaldybės, įgyvendindamos šį Įstatymą:
+Savivaldybių institucijos, įgyvendindamos šį Įstatymą:
 
 
-1) suderinusios su suinteresuotomis valstybės institucijomis ir įstaigomis, pagal kompetenciją turi teisę nustatyti savivaldybės teritorijoje griežtesnius priešgaisrinės saugos reikalavimus, negu numatyta priešgaisrinę saugą reglamentuojančiuose teisės aktuose;
+1) turi teisę pagal kompetenciją nustatyti savivaldybės teritorijoje griežtesnius priešgaisrinės saugos reikalavimus, negu nustatyta priešgaisrinę saugą reglamentuojančiuose teisės aktuose;
 
 
 
@@ -342,22 +411,24 @@ Savivaldybės, įgyvendindamos šį Įstatymą:
 
 
 
-3) teikia valstybinę priešgaisrinę priežiūrą vykdančiai įstaigai informaciją, reikalingą gaisrų prevencijos priemonėms įgyvendinti, ir paramą vykdant švietimą priešgaisrinės saugos srityje;
+3) teikia valstybinės priešgaisrinės priežiūros pareigūnams informaciją, reikalingą gaisrų prevencijos priemonėms įgyvendinti, ir pagalbą vykdant švietimą priešgaisrinės saugos srityje;
 
 
 
 
-4) organizuoja savivaldybės teritorijos gyventojų švietimą priešgaisrinės saugos klausimais;
+4) organizuoja savivaldybės gyventojų švietimą priešgaisrinės saugos klausimais;
 
 
 
 
-5) skatina savivaldybės teritorijos gyventojų, visuomeninių organizacijų, savanorių ugniagesių veiklą priešgaisrinės saugos srityje, pagal kompetenciją įgyvendina kitas gaisrų prevencijos priemones.
+5) skatina savivaldybės gyventojų, asociacijų, savanorių ugniagesių veiklą priešgaisrinės saugos srityje, pagal kompetenciją savivaldybės teritorijoje įgyvendina priešgaisrinę saugą reglamentuojančių teisės aktų reikalavimus ir kitas gaisrų prevencijos priemones.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00XI-623
  
-
-
-
-
 
 
 
@@ -446,7 +517,7 @@ PRIEŠGAISRINĖS SAUGOS SRITYJE
 
 
 
-11 straipsnis.       Įmonių, įstaigų, organizacijų ir jų vadovų teisės bei pareigos priešgaisrinės saugos srityje
+11 straipsnis. Įmonių, įstaigų, organizacijų ir jų vadovų teisės bei pareigos priešgaisrinės saugos srityje
 
 
 1. Lietuvos Respublikoje veikiančios įmonės, įstaigos ir organizacijos turi teisę:
@@ -482,7 +553,7 @@ PRIEŠGAISRINĖS SAUGOS SRITYJE
 
 
 
-4) gauti iš valstybės ir savivaldybių institucijų bei įstaigų informaciją priešgaisrinės saugos klausimais.
+4) gauti iš valstybės ir savivaldybių institucijų bei įstaigų informaciją priešgaisrinės saugos klausimais;
 
 
 
@@ -492,7 +563,10 @@ PRIEŠGAISRINĖS SAUGOS SRITYJE
 3. Lietuvos Respublikoje veikiančių įmonių, įstaigų ir organizacijų vadovai privalo:
 
 
-1) užtikrinti priešgaisrinę saugą reglamentuojančių teisės aktų reikalavimų vykdymą objekte bei nustatyti priešgaisrinį režimą jame;
+1) užtikrinti priešgaisrinę saugą reglamentuojančių teisės aktų vykdymą objekte ir nustatyti priešgaisrinį režimą jame; 
+Straipsnio punkto pakeitimai:
+Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00XI-623
+ 
 
 
 
@@ -507,7 +581,10 @@ PRIEŠGAISRINĖS SAUGOS SRITYJE
 
 
 
-4) nedelsdami šalinti nustatytus priešgaisrinės saugos pažeidimus;
+4) nedelsdami šalinti nustatytus priešgaisrinės saugos pažeidimus, apie juos informuoti įmonės, įstaigos, organizacijos valstybės tarnautojus ir darbuotojus; 
+Straipsnio punkto pakeitimai:
+Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00XI-623
+ 
 
 
 
@@ -517,7 +594,10 @@ PRIEŠGAISRINĖS SAUGOS SRITYJE
 
 
 
-6) organizuoti valstybės tarnautojų ir darbuotojų instruktavimą, mokymą ir atestavimą priešgaisrinės saugos klausimais, pagal kompetenciją tvirtinti priešgaisrinės saugos instrukcijas;
+6) organizuoti įmonės, įstaigos, organizacijos valstybės tarnautojų ir darbuotojų instruktavimą, mokymą ir atestavimą priešgaisrinės saugos klausimais, pagal kompetenciją rengti ir tvirtinti priešgaisrinės saugos instrukcijas; 
+Straipsnio punkto pakeitimai:
+Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00XI-623
+ 
 
 
 
@@ -562,24 +642,34 @@ PRIEŠGAISRINĖS SAUGOS SRITYJE
 
 
 
-15) nesudaryti savo veiksmais ar neveikimu sąlygų gaisrui kilti ir išsiplėsti.
+15) nesudaryti savo veiksmais ar neveikimu sąlygų gaisrui kilti ir išsiplėsti;
 
 
 
 
-
-
-4. Įmonėse, įstaigose ir organizacijose už objekto priešgaisrinę būklę yra atsakingi jų vadovai. Atlikdamas šią pareigą, vadovas privalo imtis būtinų objekto bei jame esančių arba galinčių būti žmonių apsaugos nuo gaisro priemonių. Įmonės, įstaigos ir organizacijos vadovas gali priešgaisrinę saugą reglamentuojančių teisės aktų reikalavimų vykdymą pavesti jo vadovaujamos įmonės, įstaigos ar organizacijos darbuotojui. 
-Straipsnio dalies pakeitimai:
-Nr. X-1575, 2008-06-05, Žin., 2008, Nr. 71-2704 (2008-06-21), i. k. 1081010ISTA00X-1575
+16) Priešgaisrinės apsaugos ir gelbėjimo departamento nustatyta tvarka deklaruoti objekto atitiktį priešgaisrinę saugą reglamentuojantiems teisės aktams. 
+Papildyta straipsnio punktu:
+Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00XI-623
  
 
 
 
 
-5. Priešgaisrinės saugos mokymo programos kursą turi baigti įmonės, įstaigos, organizacijos, kurių sąrašą pagal vidaus reikalų ministro patvirtintus kriterijus nustato Priešgaisrinės saugos ir gelbėjimo departamento direktorius, vadovas arba tokios įmonės, įstaigos, organizacijos darbuotojas, kuriam jos vadovas paveda vykdyti priešgaisrinę saugą reglamentuojančių teisės aktų reikalavimus. 
+
+
+4. Įmonėse, įstaigose ir organizacijose už objekto priešgaisrinę būklę yra atsakingi jų vadovai. Atlikdamas šią pareigą, vadovas privalo imtis būtinų objekto ir jame esančių arba galinčių būti žmonių apsaugos nuo gaisro priemonių. Įmonės, įstaigos ir organizacijos vadovas gali savo vadovaujamos įmonės, įstaigos ar organizacijos darbuotojui pavesti kontroliuoti objekto priešgaisrinę būklę ir imtis priemonių priešgaisrinės saugos reikalavimams vykdyti. 
 Straipsnio dalies pakeitimai:
 Nr. X-1575, 2008-06-05, Žin., 2008, Nr. 71-2704 (2008-06-21), i. k. 1081010ISTA00X-1575
+Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00XI-623
+ 
+
+
+
+
+5. Priešgaisrinės saugos mokymo programą turi išklausyti įmonės, įstaigos, organizacijos, kurios atitinka vidaus reikalų ministro patvirtintus kriterijus, vadovas arba tokios įmonės, įstaigos, organizacijos darbuotojas, kuriam jos vadovas paveda kontroliuoti objekto priešgaisrinę būklę ir imtis priemonių priešgaisrinės saugos reikalavimams vykdyti. 
+Straipsnio dalies pakeitimai:
+Nr. X-1575, 2008-06-05, Žin., 2008, Nr. 71-2704 (2008-06-21), i. k. 1081010ISTA00X-1575
+Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00XI-623
  
 
 
@@ -590,7 +680,8 @@ Nr. X-1575, 2008-06-05, Žin., 2008, Nr. 71-2704 (2008-06-21), i. k. 1081010ISTA
 
 
 
-7. Įmonės, įstaigos, organizacijos gali imtis priešgaisrinės įrangos gamybos ir jos techninės priežiūros turėdamos įstatymų nustatyta tvarka išduotą licenciją.
+Straipsnio dalies pakeitimai:
+Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00XI-623
  
 
 
@@ -609,10 +700,12 @@ GAISRŲ PREVENCIJOS ĮGYVENDINIMĄ
 12 straipsnis. Gaisrų prevencijos užtikrinimas
 
 
-Gaisrų prevencijai užtikrinti nustatomi statinių projektavimo, teritorijų planavimo bei objektų eksploatavimo reikalavimai, užkertantys kelią gaisrų kilimui bei sudarantys sąlygas gaisrams gesinti, žmonėms ir turtui gelbėti. Šie reikalavimai nustatomi laikantis įstatymų ir kitų teisės aktų, reglamentuojančių priešgaisrinę saugą, taip pat atsižvelgiant į patirtį gaisrų prevencijos ir gesinimo srityje bei daiktų, medžiagų, technologinių procesų, gaminių, konstrukcijų bei statinių gaisrinį pavojingumą.
+Gaisrų prevencijai užtikrinti nustatomi statinių projektavimo, teritorijų planavimo ir objektų eksploatavimo reikalavimai, užkertantys kelią gaisrams kilti ir sudarantys sąlygas gaisrams gesinti, žmonėms ir turtui gelbėti. Šie reikalavimai nustatomi vadovaujantis įstatymais ir kitais teisės aktais, taip pat atsižvelgiant į patirtį gaisrų prevencijos ir gesinimo srityje ir daiktų, medžiagų, technologinių procesų, gaminių, konstrukcijų bei statinių gaisrinį pavojingumą.
+
+
+Straipsnio pakeitimai:
+Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00XI-623
  
-
-
 
 
 
@@ -643,7 +736,18 @@ Gaisrų prevencijai užtikrinti nustatomi statinių projektavimo, teritorijų pl
 
 
 
-5) gaisro atžvilgiu pavojinguose objektuose turi būti įsteigti priešgaisriniai gelbėjimo padaliniai (žinybinės priešgaisrinės pajėgos), kad laiku ir adekvačiai reaguotų į galimą gaisrą, arba šiuo tikslu sudaromos sutartys su Priešgaisrinės apsaugos ir gelbėjimo departamentu. Kriterijus, pagal kuriuos tokio objekto savininkui (valdytojui) atsiranda pareiga steigti priešgaisrinius gelbėjimo padalinius (žinybines priešgaisrines pajėgas), nustato Vyriausybė ar jos įgaliota institucija, atsižvelgdama į konkretaus objekto gaisrinį pavojingumą bei galimų padarinių mastą.
+5) gaisro atžvilgiu pavojinguose objektuose turi būti įsteigti priešgaisriniai gelbėjimo padaliniai (žinybinės priešgaisrinės pajėgos), kad jie laiku ir adekvačiai reaguotų į galimą gaisrą, arba šiuo tikslu sudaromos sutartys su Priešgaisrinės apsaugos ir gelbėjimo departamentu. Kriterijus, pagal kuriuos tokio objekto savininkui (valdytojui) atsiranda pareiga steigti priešgaisrinį gelbėjimo padalinį (žinybines priešgaisrines pajėgas), arba atvejus, kai šiuo tikslu sudaroma sutartis su Priešgaisrinės apsaugos ir gelbėjimo departamentu, nustato Vyriausybė ar jos įgaliota institucija, atsižvelgdama į konkretaus objekto gaisrinį pavojingumą ir galimų padarinių mastą; 
+Straipsnio punkto pakeitimai:
+Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00XI-623
+ 
+
+
+
+
+6) statinių, esančių bendrosios nuosavybės teisės objektu, atitiktį priešgaisrinę saugą reglamentuojantiems teisės aktams kontroliuoja bendraturčių susitarimu paskirtas administratorius.
+Papildyta straipsnio punktu:
+Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00XI-623
+ 
 
 
 
@@ -664,39 +768,32 @@ Gaisrų prevencijai užtikrinti nustatomi statinių projektavimo, teritorijų pl
 1. Valstybinė priešgaisrinė priežiūra įgyvendinama:
 
 
-1) kontroliuojant objektų priešgaisrinę būklę;
+1) kontroliuojant objektų atitiktį priešgaisrinę saugą reglamentuojantiems teisės aktams;
 
 
 
 
-2) kontroliuojant, kaip projektiniai ir techniniai sprendimai atitinka priešgaisrinę saugą reglamentuojančių teisės aktų reikalavimus, užtikrinančius objektų ir juose dirbančių arba esančių žmonių apsaugą nuo gaisrų;
+2) kontroliuojant, kaip įgyvendinti projektiniai ir techniniai sprendimai atitinka priešgaisrinę saugą reglamentuojančių teisės aktų reikalavimus, užtikrinančius objektų ir juose dirbančių arba esančių žmonių apsaugą nuo gaisrų;
 
 
 
 
-3) skiriant priešgaisrines ekspertizes, kuriomis siekiama nustatyti, ar objektas atitinka priešgaisrinę saugą reglamentuojančių teisės aktų reikalavimus;
+4) vertinant produktų ir paslaugų atitiktį;
 
 
 
 
-4) licencijuojant šio Įstatymo 11 straipsnio 7 dalyje nurodytą veiklą;
+5) nustatant teritorijose, kuriose susidarė ekstremali situacija, griežtesnius priešgaisrinės saugos reikalavimus, negu nustatyta priešgaisrinę saugą reglamentuojančiuose teisės aktuose, kad būtų išvengta gaisrų;
 
 
 
 
-5) vertinant produktų ir paslaugų atitiktį;
+6) kitomis įstatymų ir kitų teisės aktų nustatytomis priemonėmis.
 
 
-
-
-6) nustatant teritorijose, kuriose susidarė ekstremali situacija, sugriežtintus priešgaisrinės saugos reikalavimus siekiant išvengti gaisrų;
-
-
-
-
-7) kitomis įstatymų bei kitų teisės aktų nustatytomis priemonėmis.
-
-
+Straipsnio dalies pakeitimai:
+Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00XI-623
+ 
 
 
 
@@ -780,7 +877,10 @@ GAISRŲ GESINIMO ORGANIZAVIMAS
 
 
 
-4. Savanoriška ugniagesių formuotė yra visuomeninė organizacija, kurios paskirtis – gesinti gaisrus, gelbėti žmones ir turtą gaisrų metu.
+4. Savanoriška ugniagesių formuotė yra asociacija, kurios paskirtis – gesinti gaisrus, gelbėti žmones ir turtą gaisrų metu.
+Straipsnio dalies pakeitimai:
+Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00XI-623
+ 
 
 
 
@@ -842,13 +942,15 @@ GAISRŲ GESINIMO ORGANIZAVIMAS
 
 
 
-4. Kilus dėl gaisro pavojui žmonių sveikatai, gyvybei, turtui ar aplinkai, gaisro gesinimo vadovas gali laikinai apriboti patekimą į tam tikrą teritoriją ar patalpą, duoti nurodymą evakuoti jose esančius žmones, sustabdyti atliekamus darbus, išjungti elektros ar kitokius įrenginius, apriboti ar uždrausti transporto priemonių eismą. 
+4. Kilus dėl gaisro pavojui žmonių sveikatai, gyvybei, turtui ar aplinkai, gaisro gesinimo vadovas gali laikinai apriboti patekimą į tam tikrą teritoriją ar patalpą, duoti nurodymą evakuoti jose esančius žmones, sustabdyti atliekamus darbus, išjungti elektros ar kitokius įrenginius, apriboti ar uždrausti transporto priemonių eismą, pašalinti kliūtis, trukdančias patekti prie gaisravietės ir gesinti gaisrą.
+Straipsnio dalies pakeitimai:
+Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00XI-623
+ 
 
 
 
 
 5. Gaisro gesinimo vadovas atsako už žmonių, turto gelbėjimą bei gaisro gesinimą, už priešgaisrinių gelbėjimo pajėgų valstybės tarnautojų ir darbuotojų, taip pat kitų žmonių, dalyvaujančių gesinant gaisrą, saugumą.
- 
 
 
 
@@ -936,6 +1038,7 @@ Vyriausybė iki 2003 m. balandžio 1 d.:
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
+ 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
 
@@ -947,3 +1050,23 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1575, 2008-06-05, Žin., 2008, Nr. 71-2704 (2008-06-21), i. k. 1081010ISTA00X-1575
 Lietuvos Respublikos priešgaisrinės saugos įstatymo 7 ir 11 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00XI-623
+Lietuvos Respublikos priešgaisrinės saugos įstatymo 2, 6, 7, 8, 9, 11, 12, 13, 14, 16, 18 straipsnių pakeitimo ir papildymo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1018, 2010-09-21, Žin., 2010, Nr. 118-5992 (2010-10-02), i. k. 1101010ISTA0XI-1018
+Lietuvos Respublikos priešgaisrinės saugos įstatymo 11 ir 14 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1095, 2010-11-04, Žin., 2010, Nr. 137-6996 (2010-11-23), i. k. 1101010ISTA0XI-1095
+Lietuvos Respublikos priešgaisrinės saugos įstatymo 19 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-1330, 2014-11-13, paskelbta TAR 2014-11-26, i. k. 2014-17985
+Lietuvos Respublikos priešgaisrinės saugos įstatymo Nr. IX-1225 1, 2, 7, 9, 10, 11, 14, 16, 17, 18 straipsnių pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas
