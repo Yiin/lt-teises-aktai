@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0120FD7BCFFC"
 
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas
 
-Suvestinė redakcija nuo 2009-04-04 iki 2010-04-09
+Suvestinė redakcija nuo 2010-04-10 iki 2010-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 60-1183, i. k. 0941010ISTA000I-558
  
@@ -53,7 +53,10 @@ Lietuvos Respublikos teritorijos administraciniai vienetai yra apskritys ir savi
 
 
 
-Lietuvos Respublikos gyvenamosios vietovės skirstomos į miesto ir kaimo gyvenamąsias vietoves. Miesto gyvenamosioms vietovėms priskiriami miestai, kaimo gyvenamosioms vietovėms priskiriami miesteliai ir kaimai.
+Lietuvos Respublikos gyvenamosios vietovės skirstomos į miesto ir kaimo gyvenamąsias vietoves. Miesto gyvenamosioms vietovėms priskiriami miestai, kaimo gyvenamosioms vietovėms priskiriami miesteliai, kaimai ir viensėdžiai. 
+Straipsnio dalies pakeitimai:
+Nr. XI-709, 2010-03-30, Žin., 2010, Nr. 41-1934 (2010-04-10), i. k. 1101010ISTA00XI-709
+ 
 
 
 
@@ -117,40 +120,37 @@ Miesteliai yra kompaktiškai užstatytos gyvenamosios vietovės, turinčios nuo 
 
 
 
-Kaimai yra kitos gyvenamosios vietovės, neturinčios miesto ir miestelio požymių. 
+Kaimai yra gyvenamosios vietovės, neturinčios miesto, miestelio ir viensėdžio požymių.
 
 
 
 
-Gyvenamosios vietovės, kuriose yra moksliškai ištirtų ir pripažintų gydomaisiais gamtinių gydomųjų veiksnių (mineralinių vandenų, gydomojo purvo, sveikatai palankus mikroklimatas, rekreacinių želdinių, vandens telkinių) ir išplėtota speciali infrastruktūra naudoti šiuos veiksnius gydymo, sveikatinimo, turizmo ir poilsio reikmėms, gali turėti kurorto statusą. 
-Straipsnio dalies pakeitimai:
-Nr. X-307, 2005-07-05, Žin., 2005, Nr. 88-3284 (2005-07-21), i. k. 1051010ISTA000X-307
- 
+Viensėdžiai yra istoriškai susiformavusios gyvenamosios vietovės, paprastai sudarytos arba kilusios iš vienos sodybos ir turinčios ne daugiau kaip 20 objektų skirtingu adresu.
 
 
 
 
-Kurorto statusą turi Birštonas, Druskininkai, Neringa, Palanga. 
+Gyvenamosios vietovės, kuriose yra moksliškai ištirtų ir pripažintų gydomaisiais gamtinių gydomųjų veiksnių (mineralinių vandenų, gydomojo purvo, sveikatai palankus mikroklimatas, rekreacinių želdinių, vandens telkinių) ir išplėtota speciali infrastruktūra naudoti šiuos veiksnius gydymo, sveikatinimo, turizmo ir poilsio reikmėms, gali turėti kurorto statusą.
 
 
 
 
-Gyvenamosios vietovės, kuriose yra gamtinių išteklių, galinčių turėti gydomųjų savybių, ir speciali infrastruktūra naudoti šiuos išteklius sveikatinimo, turizmo ir poilsio reikmėms, gali turėti kurortinės teritorijos statusą. Kurortinės teritorijos statusas suteikiamas vienai ar kelioms gyvenamosioms vietovėms arba jų dalims. 
-Papildyta straipsnio dalimi:
-Nr. X-307, 2005-07-05, Žin., 2005, Nr. 88-3284 (2005-07-21), i. k. 1051010ISTA000X-307
- 
+Kurorto statusą turi Birštonas, Druskininkai, Neringa, Palanga.
 
 
 
 
-Reikalavimus kurorto ir kurortinės teritorijos statusui suteikti nustato Lietuvos Respublikos Vyriausybė. 
-Papildyta straipsnio dalimi:
-Nr. X-307, 2005-07-05, Žin., 2005, Nr. 88-3284 (2005-07-21), i. k. 1051010ISTA000X-307
- 
+Gyvenamosios vietovės, kuriose yra gamtinių išteklių, galinčių turėti gydomųjų savybių, ir speciali infrastruktūra naudoti šiuos išteklius sveikatinimo, turizmo ir poilsio reikmėms, gali turėti kurortinės teritorijos statusą. Kurortinės teritorijos statusas suteikiamas vienai ar kelioms gyvenamosioms vietovėms arba jų dalims.
+
+
+
+
+Reikalavimus kurorto ir kurortinės teritorijos statusui suteikti nustato Lietuvos Respublikos Vyriausybė.
 
 
 Straipsnio pakeitimai:
 Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. 1041010ISTA0IX-2423
+Nr. XI-709, 2010-03-30, Žin., 2010, Nr. 41-1934 (2010-04-10), i. k. 1101010ISTA00XI-709
  
 
 
@@ -376,7 +376,10 @@ Seniūnijų aptarnaujamų teritorijų ribas nustato ir keičia savivaldybės tar
 
 
 
-Seniūnijų aptarnaujamų teritorijų ribų nustatymo ir keitimo, dokumentų pateikimo Lietuvos Respublikos adresų registro tvarkymo įstaigai tvarkos aprašą tvirtina Lietuvos Respublikos Vyriausybė. 
+Seniūnijų aptarnaujamų teritorijų ribų nustatymo ir keitimo, dokumentų pateikimo Lietuvos Respublikos adresų registro tvarkymo įstaigai tvarkos aprašą tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. 
+Straipsnio dalies pakeitimai:
+Nr. XI-709, 2010-03-30, Žin., 2010, Nr. 41-1934 (2010-04-10), i. k. 1101010ISTA00XI-709
+ 
 
 
 Papildyta straipsniu:
@@ -411,71 +414,45 @@ Savivaldybėms pavadinimus Lietuvos Respublikos Vyriausybės teikimu suteikia ir
 
 
 
-9 straipsnis. Pavadinimų bei statuso suteikimas gyvenamosioms vietovėms ir jose esantiems objektams bei jų keitimas 
-Pakeistas straipsnio pavadinimas:
-Nr. IX-299, 2001-04-26, Žin., 2001, Nr. 41-1420 (2001-05-16), i. k. 1011010ISTA00IX-299
- 
+9 straipsnis. Pavadinimų ir statuso suteikimas gyvenamosioms vietovėms ir jose esantiems objektams bei jų keitimas
 
 
-Gyvenamosios vietovės pavadinimą sudaro gyvenamosios vietovės vardas ir jos tipas (miestas, miestelis, kaimas). Gyvenamosioms vietovėms pavadinimus, atsižvelgdama į savivaldybės tarybos siūlymą, pateiktą įvertinus vietos gyventojų nuomonę, suteikia ir keičia Lietuvos Respublikos Vyriausybė. 
-Straipsnio dalies pakeitimai:
-Nr. X-307, 2005-07-05, Žin., 2005, Nr. 88-3284 (2005-07-21), i. k. 1051010ISTA000X-307
- 
+Gyvenamosios vietovės pavadinimą sudaro gyvenamosios vietovės vardas ir jos tipas (miestas, miestelis, kaimas, viensėdis). Gyvenamosioms vietovėms pavadinimus, atsižvelgdama į savivaldybės tarybos siūlymą, pateiktą įvertinus vietos gyventojų nuomonę, suteikia ir keičia Lietuvos Respublikos Vyriausybė.
 
 
 
 
-Gatvėms, pastatams, statiniams ir kitiems savivaldybių teritorijoje esantiems jų nuosavybės teisės objektams pavadinimai suteikiami ir keičiami atitinkamų savivaldybių tarybų sprendimais pagal Vyriausybės nustatytus kriterijus. 
-Straipsnio dalies pakeitimai:
-Nr. I-1040, 1995-09-14, Žin., 1995, Nr. 79-1819 (1995-09-27), i. k. 0951010ISTA00I-1040
-Nr. IX-1839, 2003-11-20, Žin., 2003, Nr. 115-5194 (2003-12-10), i. k. 1031010ISTA0IX-1839
- 
+Gatvėms, pastatams, statiniams ir kitiems savivaldybių teritorijose esantiems jų nuosavybės teisės objektams pavadinimai suteikiami ir keičiami atitinkamų savivaldybių tarybų sprendimais pagal Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytus kriterijus.
 
 
 
 
-Valstybės nuosavybės objektams pavadinimus suteikia ir juos keičia Lietuvos Respublikos Vyriausybė. 
-Straipsnio dalies pakeitimai:
-Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. 1041010ISTA0IX-2423
- 
+Valstybės nuosavybės objektams pavadinimus suteikia ir juos keičia Lietuvos Respublikos Vyriausybė.
 
 
 
 
-Gyvenamųjų vietovių gatvėms ar gyvenamosioms vietovėms priskirtų pastatų ir šių pastatų butų ar patalpų numerius suteikia ir keičia savivaldybės vykdomoji institucija. Numerių suteikimo, keitimo ir apskaitos tvarką nustato Lietuvos Respublikos Vyriausybė. 
-Papildyta straipsnio dalimi:
-Nr. I-1040, 1995-09-14, Žin., 1995, Nr. 79-1819 (1995-09-27), i. k. 0951010ISTA00I-1040
-Straipsnio dalies pakeitimai:
-Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. 1041010ISTA0IX-2423
- 
+Gyvenamųjų vietovių gatvėms ar gyvenamosioms vietovėms priskirtų pastatų ir šių pastatų butų ar patalpų numerius suteikia ir keičia savivaldybės vykdomoji institucija arba jos pavedimu seniūnai. Numerių suteikimo, keitimo ir apskaitos tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
 
 
 
-Gatvių, pastatų, statinių ir kitų objektų pavadinimai įtraukiami į apskaitą Lietuvos Respublikos Vyriausybės nustatyta tvarka.
-Papildyta straipsnio dalimi:
-Nr. I-1040, 1995-09-14, Žin., 1995, Nr. 79-1819 (1995-09-27), i. k. 0951010ISTA00I-1040
- 
+Gatvių, pastatų, statinių ir kitų objektų pavadinimai įtraukiami į apskaitą Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
 
 
 
-Gyvenamosioms vietovėms kurorto statusą suteikia ir panaikina Lietuvos Respublikos Seimas Lietuvos Respublikos Vyriausybės teikimu. 
-Papildyta straipsnio dalimi:
-Nr. IX-299, 2001-04-26, Žin., 2001, Nr. 41-1420 (2001-05-16), i. k. 1011010ISTA00IX-299
-Straipsnio dalies pakeitimai:
-Nr. X-307, 2005-07-05, Žin., 2005, Nr. 88-3284 (2005-07-21), i. k. 1051010ISTA000X-307
- 
+Gyvenamosioms vietovėms kurorto statusą suteikia ir panaikina Lietuvos Respublikos Seimas Lietuvos Respublikos Vyriausybės teikimu.
 
 
 
 
 Gyvenamosioms vietovėms arba jų dalims kurortinės teritorijos statusą suteikia ir panaikina Lietuvos Respublikos Vyriausybė savivaldybės tarybos siūlymu. 
-Papildyta straipsnio dalimi:
-Nr. X-307, 2005-07-05, Žin., 2005, Nr. 88-3284 (2005-07-21), i. k. 1051010ISTA000X-307
+
+
+Straipsnio pakeitimai:
+Nr. XI-709, 2010-03-30, Žin., 2010, Nr. 41-1934 (2010-04-10), i. k. 1101010ISTA00XI-709
  
-
-
 
 
 
@@ -529,10 +506,10 @@ Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. 1041010IS
 
 
 
-13 straipsnis. Pasiūlymų ir dokumentų administraciniams vienetams ir gyvenamųjų vietovių teritorijoms nustatyti bei riboms keisti nagrinėjimas 
+13 straipsnis. Pasiūlymų ir dokumentų administraciniams vienetams ir gyvenamųjų vietovių teritorijoms nustatyti bei riboms keisti nagrinėjimas
 
 
-Pasiūlymus steigti naujas savivaldybes, panaikinti esamas savivaldybes, nustatyti ir keisti jų teritorijų ribas ir centrus Lietuvos Respublikos Vyriausybei turi teisę teikti bendruomenės iniciatyvinė grupė ir savivaldybės taryba. Bendruomenės iniciatyvinės grupės sudarymo ir pasiūlymų teikimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+Pasiūlymus steigti naujas savivaldybes, panaikinti esamas savivaldybes, nustatyti ir keisti jų teritorijų ribas ir centrus Lietuvos Respublikos Vyriausybei turi teisę teikti gyventojų iniciatyvinė grupė ir savivaldybės taryba. Gyventojų iniciatyvinės grupės sudarymo ir pasiūlymų teikimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
 
 
@@ -542,12 +519,12 @@ Pasiūlymus steigti ar panaikinti savivaldybes, kitus Lietuvos Respublikos terit
 
 
 
-Vietos gyventojų apklausos tvarką steigiant ar panaikinant Lietuvos Respublikos teritorijos administracinius vienetus, nustatant ar keičiant jų teritorijų ribas bei centrus nustato Lietuvos Respublikos Vyriausybė.
+Vietos gyventojų apklausos tvarką steigiant ar panaikinant Lietuvos Respublikos teritorijos administracinius vienetus, nustatant ar keičiant jų teritorijų ribas bei centrus nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
 
 
 
-Dokumentų ir pasiūlymų, reikalingų Lietuvos Respublikos teritorijos administraciniams vienetams steigti ar panaikinti, jų ir gyvenamųjų vietovių pavadinimams suteikti ar keisti, teritorijų riboms nustatyti ar keisti ir kurorto arba kurortinės teritorijos statusui suteikti ar panaikinti, pateikimo ir nagrinėjimo tvarką ir konsultavimosi su vietos gyventojais dėl pavadinimų gyvenamosioms vietovėms suteikimo ar keitimo, jų teritorijų ribų nustatymo ar keitimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+Dokumentų ir pasiūlymų, reikalingų Lietuvos Respublikos teritorijos administraciniams vienetams steigti ar panaikinti, jų ir gyvenamųjų vietovių pavadinimams suteikti ar keisti, teritorijų riboms nustatyti ar keisti ir kurorto arba kurortinės teritorijos statusui suteikti ar panaikinti, pateikimo ir nagrinėjimo tvarką ir konsultavimosi su vietos gyventojais dėl pavadinimų gyvenamosioms vietovėms suteikimo ar keitimo, jų teritorijų ribų nustatymo ar keitimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. 
 
 
 Straipsnio pakeitimai:
@@ -555,6 +532,7 @@ Nr. VIII-316, 1997-06-26, Žin., 1997, Nr. 65-1544 (1997-07-09), i. k. 0971010IS
 Nr. VIII-1163, 1999-05-04, Žin., 1999, Nr. 43-1362 (1999-05-19), i. k. 0991010ISTAIII-1163
 Nr. X-307, 2005-07-05, Žin., 2005, Nr. 88-3284 (2005-07-21), i. k. 1051010ISTA000X-307
 Nr. XI-206, 2009-03-26, Žin., 2009, Nr. 38-1445 (2009-04-04), i. k. 1091010ISTA00XI-206
+Nr. XI-709, 2010-03-30, Žin., 2010, Nr. 41-1934 (2010-04-10), i. k. 1101010ISTA00XI-709
  
 
 
@@ -671,3 +649,8 @@ Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-206, 2009-03-26, Žin., 2009, Nr. 38-1445 (2009-04-04), i. k. 1091010ISTA00XI-206
 Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 7, 13 straipsnių pakeitimo ir papildymo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-709, 2010-03-30, Žin., 2010, Nr. 41-1934 (2010-04-10), i. k. 1101010ISTA00XI-709
+Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 1, 2, 3, 7-1, 9, 13 straipsnių pakeitimo ir papildymo įstatymas
