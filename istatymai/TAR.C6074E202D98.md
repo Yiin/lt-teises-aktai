@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6074E202D98"
 
 # Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymas
 
-Suvestinė redakcija nuo 2005-07-12 iki 2010-04-26
+Suvestinė redakcija nuo 2010-04-27 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 109-2474, i. k. 0961010ISTA00I-1591
  
@@ -94,94 +94,10 @@ Zonoje plėtojama transporto ir tarptautinio krovinių vežimo, prekybos, gamybo
 
 
 
-6 straipsnis. Konkurso sąlygos ir kriterijai geriausiam zonos verslo planui bei zonos  statutui parengti ir steigėjų grupei parinkti
-
-
-1. Tarptautinį konkursą organizuoja Kauno apskrities viršininko administracija, o konkurso komisiją ir nuostatus tvirtina Lietuvos Respublikos Vyriausybė. Į komisiją turi būti įtraukta ne mažiau kaip po 1 Kauno miesto tarybos, Kauno rajono tarybos ir Kauno apskrities viršininko skiriamą narį. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-334, 1997-06-26, Žin., 1997, Nr. 65-1556 (1997-07-09), i. k. 0971010ISTAVIII-334
+6 straipsnis. Neteko galios nuo 2010-04-27
+Straipsnio naikinimas:
+Nr. XI-738, 2010-04-13, Žin. 2010, Nr. 48-2288 (2010-04-27), i. k. 1101010ISTA00XI-738
  
-
-
-
-
-2. Tarptautinis konkursas turi būti paskelbtas ne vėliau kaip per mėnesį nuo šio įstatymo įsigaliojimo dienos.
-
-
-
-
-3. Konkurse gali dalyvauti Lietuvos Respublikos ar užsienio fiziniai ir juridiniai asmenys.
-
-
-
-
-4. Konkurso nugalėtojai nustatomi pagal šiuos kriterijus:
-
-
-1) zonos steigimo ir jos būsimos veiklos ekonominio pagrindimo realumą;
-
-
-
-
-2) investicijų realumą, šių investicijų dydį, jų dalį zonos infrastruktūrai plėtoti, investicijų atsipirkimo trukmę; 
-Straipsnio punkto pakeitimai:
-Nr. X-262, 2005-06-21, Žin., 2005, Nr. 84-3106 (2005-07-12), i. k. 1051010ISTA000X-262
- 
-
-
-
-
-3) Kauno transporto terminalo ekonominį pagrindimą;
-
-
-
-
-4) europinės vėžės geležinkelio Lenkija - Lietuvos siena (Šeštokai) - Kaunas techninį ir ekonominį pagrindimą;
-
-
-
-
-5) zonos veiklos naudos Kauno apskričiai ir Lietuvos Respublikai pagrindimą;
-
-
-
-
-6) darbo vietų sukūrimo zonoje skaičių ir pagrįstumą;
-
-
-
-
-7) zonos veiklos ir jos infrastruktūros pritaikymo etapus bei terminus;
-
-
-
-
-8) patirtį kuriant laisvąsias ekonomines zonas pasaulyje ir pasiūlyto zonos modelio palyginimą su jau egzistuojančiomis zonomis, įvertinant Lietuvos ir Kauno specifiką;
-
-
-
-
-9) zonos įtakos, skatinančios Kauno miesto ir regiono ekonominę plėtrą, pagrindimą ir priemonių, skatinančių vietinį verslą zonoje, planą;
-
-
-
-
-10) funkcinių ryšių su kitomis Lietuvoje kuriamomis laisvosiomis ekonominėmis zonomis pagrįstumą;
-
-
-
-
-11) bendradarbiavimą su Kauno miesto ir rajono savivaldybėmis, Kauno apskritimi ir vietinio verslo asocijuotomis struktūromis;
-
-
-
-
-12) zonos statuto teisinį pagrįstumą.
- 
-
-
-
-
 
 
 
@@ -209,7 +125,7 @@ Nr. X-262, 2005-06-21, Žin., 2005, Nr. 84-3106 (2005-07-12), i. k. 1051010ISTA0
 
 
 
-5. Zonos valdymo bendrovės valdybą sudaro 9 nariai. Į valdybą įeina:
+5. Zonos valdymo bendrovės valdybą sudaro 8 nariai. Į valdybą įeina:
 
 
 1) Vyriausybės skiriamas 1 narys;
@@ -217,27 +133,22 @@ Nr. X-262, 2005-06-21, Žin., 2005, Nr. 84-3106 (2005-07-12), i. k. 1051010ISTA0
 
 
 
-2) Kauno miesto tarybos skiriamas 1 narys;
+2) Kauno miesto savivaldybės tarybos skiriamas 1 narys;
 
 
 
 
-3) Kauno rajono tarybos skiriamas 1 narys;
+3) Kauno rajono savivaldybės tarybos skiriamas 1 narys;
 
 
 
 
-4) Kauno apskrities viršininko skiriamas 1 narys; 
-Straipsnio punkto pakeitimai:
-Nr. VIII-334, 1997-06-26, Žin., 1997, Nr. 65-1556 (1997-07-09), i. k. 0971010ISTAVIII-334
+4) visuotiniame akcininkų susirinkime išrinkti 5 nariai. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XI-738, 2010-04-13, Žin., 2010, Nr. 48-2288 (2010-04-27), i. k. 1101010ISTA00XI-738
  
-
-
-
-
-5) Visuotiniame akcininkų susirinkime išrinkti 5 nariai.
-
-
 
 
 
@@ -395,9 +306,10 @@ Nr. IX-671, 2001-12-18, Žin., 2001, Nr. 112-4087 (2001-12-30), i. k. 1011010IST
 
 
 
-2. Atsiradus įstatymo nustatytam pagrindui likviduoti zonos valdymo bendrovę, naujai zonos valdymo bendrovei sudaryti Vyriausybė priima sprendimą skelbti tarptautinį konkursą steigėjų grupei parinkti. Šį konkursą organizuoja Kauno apskrities viršininko administracija, o naują konkurso komisiją ir nuostatus tvirtina Vyriausybė. 
+2. Atsiradus įstatymo nustatytam pagrindui likviduoti zonos valdymo bendrovę, naujai zonos valdymo bendrovei sudaryti Vyriausybė priima sprendimą skelbti tarptautinį konkursą steigėjų grupei parinkti. Šį konkursą organizuoja Lietuvos Respublikos ūkio ministerija, o naują konkurso komisiją ir nuostatus tvirtina Vyriausybė. 
 Straipsnio dalies pakeitimai:
 Nr. VIII-334, 1997-06-26, Žin., 1997, Nr. 65-1556 (1997-07-09), i. k. 0971010ISTAVIII-334
+Nr. XI-738, 2010-04-13, Žin., 2010, Nr. 48-2288 (2010-04-27), i. k. 1101010ISTA00XI-738
  
 
 
@@ -506,3 +418,8 @@ Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 7, 10 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-262, 2005-06-21, Žin., 2005, Nr. 84-3106 (2005-07-12), i. k. 1051010ISTA000X-262
 Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 3, 4, 6, 7 straipsnių pakeitimo ir priedėlio pripažinimo netekusiu galios įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-738, 2010-04-13, Žin., 2010, Nr. 48-2288 (2010-04-27), i. k. 1101010ISTA00XI-738
+Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 7, 8 straipsnių pakeitimo ir 6 straipsnio pripažinimo netekusiu galios įstatymas
