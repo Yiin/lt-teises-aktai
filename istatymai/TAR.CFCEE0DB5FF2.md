@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CFCEE0DB5FF2"
 
 # Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymas
 
-Suvestinė redakcija nuo 2008-07-01 iki 2010-04-26
+Suvestinė redakcija nuo 2010-04-27 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 92-2143, i. k. 0961010ISTA00I-1516
  
@@ -94,89 +94,10 @@ Zonoje plėtojama prekybos, gamybos, eksporto ir importo, verslo veikla. Zonos v
 
 
 
-6 straipsnis. Konkurso sąlygos geriausiam zonos verslo planui ir zonos statutui parengti bei steigėjų grupei parinkti ir kriterijai nugalėtojams nustatyti
-
-
-1. Tarptautinį konkursą organizuoja Klaipėdos miesto savivaldybė, o konkurso komisiją ir nuostatus tvirtina Vyriausybė. Į komisiją turi būti įtraukta ne mažiau kaip po vieną Klaipėdos miesto tarybos ir Klaipėdos apskrities viršininko skiriamą narį. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-330, 1997-06-26, Žin., 1997, Nr. 65-1554 (1997-07-09), i. k. 0971010ISTAVIII-330
+6 straipsnis. Neteko galios nuo 2010-04-27
+Straipsnio naikinimas:
+Nr. XI-739, 2010-04-13, Žin. 2010, Nr. 48-2289 (2010-04-27), i. k. 1101010ISTA00XI-739
  
-
-
-
-
-2. Tarptautinis konkursas turi būti paskelbtas ne vėliau kaip per mėnesį nuo šio įstatymo įsigaliojimo dienos.
-
-
-
-
-3. Konkurso dalyviais gali būti Lietuvos Respublikos bei užsienio fiziniai ir juridiniai asmenys.
-
-
-
-
-4. Konkurso nugalėtojai nustatomi pagal šiuos kriterijus:
-
-
-1) zonos steigimo ir jos būsimos veiklos ekonominio pagrindimo realumas;
-
-
-
-
-2) investicijų realumas, šių investicijų dydis, jų dalis zonos infrastruktūrai plėtoti, investicijų atsipirkimo trukmė; 
-Straipsnio punkto pakeitimai:
-Nr. IX-2015, 2004-02-12, Žin., 2004, Nr. 32-1007 (2004-02-28), i. k. 1041010ISTA0IX-2015
- 
-
-
-
-
-3) zonos veiklos naudos Lietuvos Respublikai ir Klaipėdos miestui pagrindimas;
-
-
-
-
-4) darbo vietų sukūrimo zonoje skaičius ir pagrįstumas;
-
-
-
-
-5) zonos įtakos jūrų uosto apkrovimo didinimui įvertinimas;
-
-
-
-
-6) zonų verslo planų sudarymo patirtis kuriant laisvąsias ekonomines zonas pasaulyje ir pasiūlyto Klaipėdos zonos modelio palyginimas su jau egzistuojančiomis zonomis atsižvelgiant į Lietuvos ir Klaipėdos, kaip uosto, specifiką;
-
-
-
-
-7) esamos infrastruktūros pritaikymo trukmė, zonos veiklos etapai ir terminai;
-
-
-
-
-8) funkcinių ryšių su kitomis kuriamomis Lietuvoje laisvosiomis ekonominėmis zonomis pagrįstumas;
-
-
-
-
-9) bendradarbiavimas su Klaipėdos miesto savivaldybe, Klaipėdos apskritimi ir vietinio verslo asocijuotomis struktūromis;
-
-
-
-
-10) zonos įtakos, skatinančios Klaipėdos miesto ir regiono ekonominę plėtrą, pagrindimas ir priemonių, skatinančių vietinį verslą zonoje, planas bei jo pagrįstumas;
-
-
-
-
-11) zonos statuto teisinis pagrįstumas.
- 
-
-
-
-
 
 
 
@@ -459,3 +380,8 @@ Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo 3, 6 ir 7
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1613, 2008-06-17, Žin., 2008, Nr. 74-2863 (2008-06-30), i. k. 1081010ISTA00X-1613
 Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo 3 ir 4 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-739, 2010-04-13, Žin., 2010, Nr. 48-2289 (2010-04-27), i. k. 1101010ISTA00XI-739
+Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo 6 straipsnio pripažinimo netekusiu galios įstatymas
