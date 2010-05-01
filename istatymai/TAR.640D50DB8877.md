@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.640D50DB8877"
 
 # Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymas
 
-Suvestinė redakcija nuo 2008-01-01 iki 2010-04-30
+Suvestinė redakcija nuo 2010-05-01 iki 2010-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 109-2993, i. k. 0981010ISTAVIII-935
  
@@ -252,12 +252,18 @@ Vilnius
 
 
 
-9. Įmonė, dėl veiklos trukmės turinti patvirtintą tik vienų metų finansinę atskaitomybę ar kitus finansinius dokumentus, priskiriama vidutinei, mažai ar labai mažai įmonei pagal finansinių metų, už kuriuos finansinė atskaitomybė ar kiti finansiniai dokumentai patvirtinti, duomenis.
+9. Neteko galios nuo 2010-05-01
+Straipsnio dalies naikinimas:
+Nr. XI-701, 2010-03-23, Žin. 2010, Nr. 38-1775 (2010-04-03), i. k. 1101010ISTA00XI-701
+ 
 
 
 
 
-10. Daugiau kaip dvejus metus veikianti įmonė tampa vidutine, maža ar labai maža įmone, jei dvejus finansinius metus iš eilės fiksuojamas darbuotojų skaičius ir įmonės finansiniai duomenys atitinka šio straipsnio 1, 2 ar 3 dalyse nustatytas sąlygas. Vidutinė, maža ar labai maža įmonė atitinkamai praranda tokį statusą, jei dvejus finansinius metus iš eilės fiksuojamas darbuotojų skaičius ir įmonės finansiniai duomenys neatitinka šio straipsnio 1, 2 ar 3 dalyse nustatytų sąlygų.
+10. Neteko galios nuo 2010-05-01
+Straipsnio dalies naikinimas:
+Nr. XI-701, 2010-03-23, Žin. 2010, Nr. 38-1775 (2010-04-03), i. k. 1101010ISTA00XI-701
+ 
 
 
 
@@ -395,7 +401,10 @@ kn – koeficientas, parodantis, kokia dalis n-tosios partnerinės įmonės duom
 5 straipsnis. Valstybės paramos smulkiojo ir vidutinio verslo subjektams teikimas
 
 
-1. Valstybės parama smulkiojo ir vidutinio verslo subjektams teikiama pagal Vyriausybės, apskričių ar savivaldybių smulkiojo ir vidutinio verslo plėtros programas.
+1. Valstybės parama smulkiojo ir vidutinio verslo subjektams teikiama pagal Vyriausybės ar savivaldybių smulkiojo ir vidutinio verslo plėtros programas.
+Straipsnio dalies pakeitimai:
+Nr. XI-701, 2010-03-23, Žin., 2010, Nr. 38-1775 (2010-04-03), i. k. 1101010ISTA00XI-701
+ 
 
 
 
@@ -457,10 +466,12 @@ Smulkiojo ir vidutinio verslo subjektams gali būti taikomos šios valstybės pa
 7 straipsnis. Valstybės paramos smulkiojo ir vidutinio verslo subjektams apribojimai
 
 
-Vyriausybė, apskričių viršininkai, savivaldybės smulkiojo ir vidutinio verslo subjektams taikydami konkrečią paramos formą, atsižvelgdami į konkrečios paramos tikslą, šios paramos gavėjams gali nustatyti papildomas sąlygas, kurios privalo būti vienodos visiems šios paramos siekiantiems subjektams.
+Vyriausybė ar savivaldybės, smulkiojo ir vidutinio verslo subjektams taikydamos konkrečią paramos formą, atsižvelgdamos į konkrečios paramos tikslą, šios paramos gavėjams gali nustatyti papildomas sąlygas, kurios privalo būti vienodos visiems šios paramos siekiantiems subjektams.
+
+
+Straipsnio pakeitimai:
+Nr. XI-701, 2010-03-23, Žin., 2010, Nr. 38-1775 (2010-04-03), i. k. 1101010ISTA00XI-701
  
-
-
 
 
 
@@ -533,3 +544,8 @@ Lietuvos Respublikos smulkaus ir vidutinio verslo įstatymo 5 straipsnio pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1346, 2007-12-04, Žin., 2007, Nr. 132-5354 (2007-12-15), i. k. 1071010ISTA00X-1346
 Lietuvos Respublikos smulkaus ir vidutinio verslo įstatymo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-701, 2010-03-23, Žin., 2010, Nr. 38-1775 (2010-04-03), i. k. 1101010ISTA00XI-701
+Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo 3, 5 ir 7 straipsnių pakeitimo įstatymas
