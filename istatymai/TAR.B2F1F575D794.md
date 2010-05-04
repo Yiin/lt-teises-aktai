@@ -154,11 +154,11 @@ tikslais, pateikusiems tai patvirtinančius dokumentus, nagrinėjimą;
 Europos Sąjungoje ir Europos laisvosios prekybos asociacijos valstybėse narėse
 mokslinių tyrimų vykdymo tikslais, pateikusiems tai patvirtinančius dokumentus,
 nagrinėjimą;
-8) prašymų išduoti vizas užsieniečiams, turintiems
-diplomatinius ar tarnybinius pasus ar jiems prilygintus kelionės dokumentus,
-nagrinėjimą, kai jų atvykimas į Lietuvos Respubliką yra susijęs su kultūrinių,
-užsienio politikos srities, vystomojo bendradarbiavimo politikos ar kitų
-visuomenei svarbių sričių interesų skatinimu;
+8) prašymų išduoti nacionalines vizas užsieniečiams,
+turintiems diplomatinius ar tarnybinius pasus ar jiems prilygintus kelionės
+dokumentus, nagrinėjimą, kai jų atvykimas į Lietuvos Respubliką yra susijęs su
+kultūrinių, užsienio politikos srities, vystomojo bendradarbiavimo politikos ar
+kitų visuomenei svarbių sričių interesų skatinimu;
 9) prašymų išduoti vizas užsieniečiams, vykstantiems į
 Lietuvos Respubliką dalyvauti Respublikos Prezidento, Seimo, Vyriausybės ar
 ministerijų organizuotuose oficialiuose susitikimuose, nagrinėjimą;
@@ -212,7 +212,32 @@ kuriems nustatytas 0–40 procentų darbingumo lygis, asmenims iki 18 metų,
 kuriems nustatytas neįgalumo lygis, asmenims, kuriems pagal Lietuvos
 Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso
 įstatymą pripažįstamas nuo okupacijų nukentėjusio – represuoto asmens teisinis
-statusas.
+statusas;
+22) prašymų išduoti Šengeno vizas pelno nesiekiančių
+organizacijų atstovams, jaunesniems negu 25 metų, dalyvaujantiems seminaruose,
+konferencijose, sporto, kultūriniuose ar švietimo renginiuose, kuriuos
+organizuoja pelno nesiekiančios organizacijos, nagrinėjimą;
+23) prašymų išduoti Šengeno vizas vaikams nuo 6 iki 12
+metų nagrinėjimą, jeigu Europos Sąjungos valstybės narės, vykdydamos
+bendradarbiavimą Šengeno klausimais vietos lygiu, numatytą 2009 m. liepos 13 d.
+Europos Parlamento ir Tarybos reglamente (EB) Nr. 810/2009, nustatančiame
+Bendrijos vizų kodeksą (Vizų kodeksas), nėra priėmusios sprendimo imti
+konsulinį mokestį;
+24) prašymų išduoti Šengeno vizas užsieniečiams,
+turintiems diplomatinius ar tarnybinius pasus arba jiems prilygintus kelionės
+dokumentus, nagrinėjimą, jeigu Europos Sąjungos valstybės narės, vykdydamos
+bendradarbiavimą Šengeno klausimais vietos lygiu, numatytą 2009 m. liepos 13 d.
+Europos Parlamento ir Tarybos reglamente (EB) Nr. 810/2009, nustatančiame
+Bendrijos vizų kodeksą (Vizų kodeksas), nėra priėmusios sprendimo imti
+konsulinį mokestį;
+25) prašymų išduoti Šengeno vizas užsieniečiams,
+jaunesniems negu 25 metų, dalyvaujantiems seminaruose, konferencijose, sporto,
+kultūriniuose ar švietimo renginiuose, kuriuos organizuoja pelno nesiekiančios
+organizacijos, nagrinėjimą, jeigu Europos Sąjungos valstybės narės, vykdydamos
+bendradarbiavimą Šengeno klausimais vietos lygiu, numatytą 2009 m. liepos 13 d.
+Europos Parlamento ir Tarybos reglamente (EB) Nr. 810/2009, nustatančiame
+Bendrijos vizų kodeksą (Vizų kodeksas), yra priėmusios sprendimą neimti
+konsulinio mokesčio.
 2. Konsulinio mokesčio už paso išdavimą, keitimą arba
 dokumentų dėl paso išdavimo ir keitimo priėmimą ir perdavimą bendra tvarka
 Lietuvos Respublikos piliečiams, kuriems nesukako 18 metų, taip pat kuriems
@@ -221,6 +246,8 @@ socialinio draudimo pensijų įstatyme, dydis sumažinamas 50 procentų.
 Straipsnio pakeitimas:
 Nr. XI-468,
 2009-11-12, Žin., 2009, Nr. 141-6191 (2009-11-28)
+Nr. XI-773,
+2010-04-20, Žin., 2010, Nr. 51-2482 (2010-05-04)
  
 7 straipsnis. Mokesčio
 mokėjimas 
@@ -264,7 +291,7 @@ PREZIDENTAS                                  ALG
 Respublikos 
                                                                                     konsulinio
 mokesčio įstatymo
-                                                                                    priedas
+                                                                                    priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
@@ -279,10 +306,12 @@ gyventi valstybių narių teritorijoje, iš dalies keičianti Reglamentą Nr.
 1612/68/EEB ir naikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB,
 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB (OL 2004
 m. specialusis leidimas, 5 skyrius, 5 tomas, p. 46).
-3. 2006 m. birželio 1 d. Tarybos sprendimas
-2006/440/EB, iš dalies keičiantis Bendrųjų konsulinių instrukcijų 12 priedą ir
-Bendrojo vadovo 14a priedą dėl taikytinų mokesčių, atitinkančių prašymų išduoti
-vizą tvarkymo administracines išlaidas (OL 2006 L 175, p. 77).
+3. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos
+reglamentas (EB) 
+Nr. 810/2009, nustatantis Bendrijos vizų kodeksą (Vizų kodeksas) (OL 2009 L 243, p. 1).
+Priedo pakeitimas:
+Nr. XI-773,
+2010-04-20, Žin., 2010, Nr. 51-2482 (2010-05-04)
  
 _______________
  
@@ -382,9 +411,17 @@ MOKESČIO ĮSTATYMO 3, 6 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas, išskyrus 4 straipsnį, įsigalioja 2010 m.
 sausio 1 d.
  
+10.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. XI-773,
+2010-04-20, Žin., 2010, Nr. 51-2482 (2010-05-04)
+KONSULINIO
+MOKESČIO ĮSTATYMO 6 STRAIPSNIO IR PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2009-12-03)
+(2010-05-04)
                   autrap@lrs.lt
