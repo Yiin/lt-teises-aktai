@@ -240,22 +240,37 @@ vykdomos;
 aplinkos apsaugos schemų, kitų aplinkos apsaugos priemonių rengimą, taip pat
 rengia šias schemas ir priemones, numato jų įgyvendinimo (taikymo) mechanizmą,
 kontroliuoja, kaip jos vykdomos (taikomos);
+ 
+3 punkto redakcija iki 2010 m.
+liepos 1 d.:
 3) rengia įstatymų, Lietuvos Respublikos Vyriausybės
-nutarimų ir kitų teisės aktų aplinkos apsaugos ir gamtos išteklių naudojimo klausimais
-projektus, organizuoja bendrųjų, specialiųjų bei detaliųjų teritorinio
-planavimo dokumentų aplinkos apsaugos klausimais rengimą, pagal savo
-kompetenciją derina ministerijų, kitų Vyriausybės įstaigų, apskrities, vietos
-savivaldos, kitų institucijų teisės aktų, reguliuojančių ūkinę ir kitokią
-veiklą, galinčią turėti poveikio aplinkai, projektus bei teritorinio planavimo
-dokumentus, kad jie atitiktų aplinkos apsaugos įstatymus ir kitus teisės aktus;
+nutarimų ir kitų teisės aktų aplinkos apsaugos ir gamtos išteklių naudojimo
+klausimais projektus, organizuoja bendrųjų, specialiųjų bei detaliųjų
+teritorinio planavimo dokumentų aplinkos apsaugos klausimais rengimą, pagal
+savo kompetenciją derina ministerijų, kitų Vyriausybės įstaigų, apskrities,
+vietos savivaldos, kitų institucijų teisės aktų, reguliuojančių ūkinę ir
+kitokią veiklą, galinčią turėti poveikio aplinkai, projektus bei teritorinio
+planavimo dokumentus, kad jie atitiktų aplinkos apsaugos įstatymus ir kitus
+teisės aktus;
+3 punkto redakcija nuo 2010 m.
+liepos 1 d.:
+3) rengia įstatymų, Lietuvos Respublikos Vyriausybės
+nutarimų ir kitų teisės aktų aplinkos apsaugos ir gamtos išteklių naudojimo
+klausimais projektus, organizuoja bendrųjų, specialiųjų bei detaliųjų
+teritorinio planavimo dokumentų aplinkos apsaugos klausimais rengimą, pagal
+savo kompetenciją derina valstybės ir savivaldybių institucijų ir įstaigų
+teisės aktų, reguliuojančių ūkinę ir kitokią veiklą, galinčią turėti poveikio
+aplinkai, projektus bei teritorinio planavimo dokumentus, kad jie atitiktų
+aplinkos apsaugos įstatymus ir kitus teisės aktus;
+ 
 4) pagal savo kompetenciją rengia ir tvirtina aplinkos
 apsaugos ir gamtos išteklių naudojimo normas, normatyvus, standartus bei
 taisykles;
 5) pagal savo
 kompetenciją nustato gamtos išteklių naudojimo limitus ir sąlygas, leidimų
-išdavimo tvarką, reglamentuoja ir kontroliuoja gamtos išteklių apskaitą, organizuoja
-valstybinių kadastrų bei registrų, priskirtų ministerijos kompetencijai,
-sudarymą bei tvarkymą;
+išdavimo tvarką, reglamentuoja ir kontroliuoja gamtos išteklių apskaitą,
+organizuoja valstybinių kadastrų bei registrų, priskirtų ministerijos
+kompetencijai, sudarymą bei tvarkymą;
 6) teikia Lietuvos Respublikos Vyriausybei saugomų
 teritorijų steigimo projektus;
 7) reglamentuoja ir kontroliuoja veiklą saugomose
@@ -286,11 +301,11 @@ apsauga;
 14) nustatyta tvarka naudoja Aplinkos apsaugos rėmimo
 programos lėšas;
 15) nustatyta tvarka pagal savo kompetenciją palaiko
-ryšius su užsienio valstybių atitinkamomis institucijomis ir tarptautinėmis
-organizacijomis, rengia tarptautinių sutarčių projektus, pasirašo šias
-sutartis, organizuoja jų įgyvendinimą, taip pat Lietuvos Respublikos
-Vyriausybės ar Ministro Pirmininko pavedimu atstovauja Lietuvos Respublikai
-užsienio valstybėse ar tarptautinėse organizacijose;
+ryšius su užsienio valstybių atitinkamomis institucijomis ir tarptautinėmis organizacijomis,
+rengia tarptautinių sutarčių projektus, pasirašo šias sutartis, organizuoja jų
+įgyvendinimą, taip pat Lietuvos Respublikos Vyriausybės ar Ministro Pirmininko
+pavedimu atstovauja Lietuvos Respublikai užsienio valstybėse ar tarptautinėse
+organizacijose;
 16) rengia ataskaitas apie aplinkos būklę Lietuvos Respublikoje,
 koordinuoja ir pagal savo kompetenciją organizuoja visuomenės aplinkosauginį
 švietimą bei informavimą, rūpinasi aplinkos apsaugos specialistų kvalifikacijos
@@ -311,8 +326,8 @@ aplinkos apsaugos įstatymų, Vyriausybės bei Aplinkos ministerijos priimtų
 norminių aktų aplinkos apsaugos klausimais įgyvendinimą:
 1) valdo, naudoja ir saugo joms priskirtus gamtos
 išteklius ir aplinkosaugos objektus;
-2) paskirsto pagal savivaldybėms nustatytus limitus valstybinius
-gamtos išteklius;
+2) paskirsto pagal savivaldybėms nustatytus limitus
+valstybinius gamtos išteklius;
 3) rengia, tvirtina ir įgyvendina savivaldybių
 aplinkos apsaugos ir gamtos išteklių naudojimo programas, schemas ir kitas
 aplinkos apsaugos priemones;
@@ -349,6 +364,9 @@ Nr. IX-2113,
 2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
 Nr. X-147, 2005-03-24,
 Žin., 2005, Nr. 47-1558 (2005-04-12)
+Nr.
+XI-783, 2010-04-27,
+Žin., 2010, Nr. 54-2646 (2010-05-11)
  
 II SKYRIUS. LIETUVOS RESPUBLIKOS PILIEČIŲ,
 VISUOMENINIŲ ORGANIZACIJŲ, KITŲ JURIDINIŲ IR FIZINIŲ ASMENŲ TEISĖS IR PAREIGOS
@@ -529,8 +547,8 @@ Respublikos upių, ežerų ir tvenkinių kadastro objektus, nurodytus šios dali
 Įstatymas papildytas
 straipsniu:
 Nr.
-X-1744, 2008-10-06,
-Žin., 2008, Nr. 120-4550 (2008-10-18)
+X-1744,
+2008-10-06, Žin., 2008, Nr. 120-4550 (2008-10-18)
  
             14 straipsnis. Gamtos išteklių naudotojai
             Gamtos
@@ -607,8 +625,8 @@ ir Aplinkos ministerija.
 Straipsnio pakeitimai:
 Nr. I-1352,
 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
-Nr. VIII-1637, 00.04.18, Žin., 2000,
-Nr.39-1093 (00.05.12)
+Nr. VIII-1637, 00.04.18, Žin., 2000, Nr.39-1093
+(00.05.12)
  
             17 straipsnis. Ūkinės veiklos objektų
 statyba, rekonstravimas ir plėtimas
@@ -819,8 +837,8 @@ Nr. I-1352,
 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
 Nr. VIII-1637, 00.04.18, Žin., 2000,
 Nr.39-1093 (00.05.12)
-Nr. IX-2032, 2004-02-19,
-Žin., 2004, Nr. 36-1179 (2004-03-07)
+Nr. IX-2032,
+2004-02-19, Žin., 2004, Nr. 36-1179 (2004-03-07)
  
 VI SKYRIUS. EKONOMINIS APLINKOS
 APSAUGOS MECHANIZMAS
@@ -862,8 +880,8 @@ apsaugai skiriamos valstybės biudžeto lėšos naudojamos pagal Lietuvos
 Respublikos Vyriausybės nustatytas prioritetines kryptis ir programas.
 Aplinkos apsaugos rėmimo programos lėšos ir
 Savivaldybių aplinkos apsaugos rėmimo specialiosios programos lėšos yra
-papildomi aplinkos apsaugos finansavimo šaltiniai. Papildomas finansavimo
-šaltinis gali būti užsienio kreditai.
+papildomi aplinkos apsaugos finansavimo šaltiniai. Papildomas finansavimo šaltinis
+gali būti užsienio kreditai.
 Aplinkos apsaugos rėmimo programos lėšas bei jų
 panaudojimo tvarką nustato Lietuvos Respublikos aplinkos apsaugos rėmimo
 programos įstatymas.
@@ -886,8 +904,8 @@ Nr. I-1352,
             31 straipsnis. Valstybinė aplinkos
 apsaugos kontrolė
 Lietuvos Respublikoje valstybinę aplinkos apsaugos ir
-gamtos išteklių naudojimo kontrolę vykdo Aplinkos ministerijos sistemos
-pareigūnai – valstybiniai aplinkos apsaugos inspektoriai.
+gamtos išteklių naudojimo kontrolę vykdo Aplinkos ministerijos sistemos pareigūnai
+– valstybiniai aplinkos apsaugos inspektoriai.
             Vykdydami
 tarnybines pareigas, valstybiniai aplinkos apsaugos inspektoriai turi teisę:
             1)
@@ -936,8 +954,8 @@ apsaugos inspektorių institucijas, tvirtina jų nuostatus.
 Straipsnio pakeitimai:
 Nr. I-1352,
 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
-Nr. IX-2113, 2004-04-13,
-Žin., 2004, Nr. 60-2121 (2004-04-24)
+Nr. IX-2113,
+2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
 Nr. X-147, 2005-03-24,
 Žin., 2005, Nr. 47-1558 (2005-04-12)
  
@@ -1060,8 +1078,8 @@ dėl žalos atlyginimo
 Pareikšti ieškinius dėl padarytos žalos turi teisę:
 1) asmenys, kurių sveikatai, turtui ar interesams
 padaryta žalos;
-2) Aplinkos ministerijos pareigūnai, kiti įstatymų
-įgalioti pareigūnai, kai padaryta žalos valstybės interesams.
+2) Aplinkos ministerijos pareigūnai, kiti įstatymų įgalioti
+pareigūnai, kai padaryta žalos valstybės interesams.
 Aplinkos ministerija, jai pavaldžios ar kitos valstybės ar savivaldybių institucijos pagal kompetenciją ieškinius dėl žalos
 aplinkai bei kitų nuostolių, įskaitant prevencinių ir (arba) aplinkos atkūrimo
 priemonių vykdymą, atlyginimo gali pareikšti ūkio subjektui arba kitam
@@ -1281,11 +1299,21 @@ Nr. X-1744,
 APLINKOS
 APSAUGOS ĮSTATYMO PAPILDYMO 13(1) STRAIPSNIU ĮSTATYMAS
  
+11.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-783,
+2010-04-27, Žin., 2010, Nr. 54-2646 (2010-05-11)
+APLINKOS
+APSAUGOS ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Įstatymas
+įsigalioja 2010-07-01.
+ 
 ***
 Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2008-10-20)
+Redagavo
+Aušra Bodin (2010-05-11)
                  
-autrap@lrs.lt
+ aubodi@lrs.lt
