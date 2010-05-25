@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2008-11-15 iki 2010-05-24
+Suvestinė redakcija nuo 2010-05-25 iki 2010-06-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
  
@@ -83,7 +83,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-8. Neįgalusis – asmuo, kuriam šio Įstatymo nustatyta tvarka pripažintas neįgalumo lygis arba mažesnis negu 55 procentų darbingumo lygis ir (ar) nustatyta specialiųjų poreikių tenkinimo reikmė. 
+8. Neįgalusis – asmuo, kuriam šio Įstatymo nustatyta tvarka nustatytas neįgalumo lygis arba 55 procentų ir mažesnis darbingumo lygis, arba specialiųjų poreikių lygis.
+Straipsnio dalies pakeitimai:
+Nr. XI-791, 2010-04-29, Žin., 2010, Nr. 60-2958 (2010-05-25), i. k. 1101010ISTA00XI-791
+ 
 
 
 
@@ -1159,3 +1162,8 @@ Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo 15, 16, 17
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1778, 2008-11-06, Žin., 2008, Nr. 131-5028 (2008-11-15), i. k. 1081010ISTA00X-1778
 Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo 23 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-791, 2010-04-29, Žin., 2010, Nr. 60-2958 (2010-05-25), i. k. 1101010ISTA00XI-791
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo 2, 10, 15, 16 ir 22 straipsnių pakeitimo įstatymas
