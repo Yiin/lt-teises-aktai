@@ -13,6 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A719A97956F"
 
 # Lietuvos Respublikos informacinės visuomenės paslaugų įstatymas
 
+Suvestinė redakcija nuo 2010-05-25 iki 2012-12-31
+ 
+Įstatymas paskelbtas: Žin. 2006, Nr. 65-2380, i. k. 1061010ISTA000X-614
+ 
+ 
+ 
 LIETUVOS RESPUBLIKOS INFORMACINĖS VISUOMENĖS PASLAUGŲ ĮSTATYMAS
  
 2006 m. gegužės 25 d. Nr. X-614
@@ -254,7 +260,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2) Informacinės visuomenės plėtros komitetas prie Lietuvos Respublikos Vyriausybės (toliau – Informacinės visuomenės plėtros komitetas), gavęs kompetentingos institucijos prašymą (jei tokia institucija nėra pats Informacinės visuomenės plėtros komitetas), prieš kompetentingai institucijai kreipiantis į teismą su prašymu imtis tokių priemonių arba įstatymų numatytais atvejais prieš kompetentingai institucijai pačiai imantis tokių priemonių, kreipiasi į Europos Sąjungos valstybę narę, kurioje paslaugų teikėjas yra įsisteigęs, su prašymu imtis priemonių, jeigu ši tokių priemonių nesiėmė arba jos priemonės, kompetentingos institucijos nuomone, yra nepakankamos, taip pat kai Informacinės visuomenės plėtros komitetas pranešė Europos Bendrijų Komisijai ir Europos Sąjungos valstybei narei, kurioje paslaugų teikėjas yra įsisteigęs, apie kompetentingos institucijos ketinimą kreiptis į teismą su prašymu imtis priemonių arba ketinimą imtis priemonių.
+2) Informacinės visuomenės plėtros komitetas prie Susisiekimo ministerijos (toliau – Informacinės visuomenės plėtros komitetas), gavęs kompetentingos institucijos prašymą (jei tokia institucija nėra pats Informacinės visuomenės plėtros komitetas), prieš kompetentingai institucijai kreipiantis į teismą su prašymu imtis tokių priemonių arba įstatymų nustatytais atvejais prieš kompetentingai institucijai pačiai imantis tokių priemonių, kreipiasi į Europos Sąjungos valstybę narę, kurioje paslaugų teikėjas yra įsisteigęs, su prašymu imtis priemonių, jeigu ši tokių priemonių nesiėmė arba jos priemonės, kompetentingos institucijos nuomone, yra nepakankamos, taip pat kai Informacinės visuomenės plėtros komitetas pranešė Europos Bendrijų Komisijai ir Europos Sąjungos valstybei narei, kurioje paslaugų teikėjas yra įsisteigęs, apie kompetentingos institucijos ketinimą kreiptis į teismą su prašymu imtis priemonių arba ketinimą imtis priemonių.
+Straipsnio punkto pakeitimai:
+Nr. XI-800, 2010-05-11, Žin., 2010, Nr. 60-2959 (2010-05-25), i. k. 1101010ISTA00XI-800
+ 
 
 
 
@@ -731,13 +740,15 @@ INFORMACINĖS VISUOMENĖS PASLAUGŲ REGLAMENTAVIMAS IR PRIEŽIŪRA
  
 
 
-18 straipsnis. Informacinės visuomenės paslaugų teikimo politikos formavimo bei reguliavimo institucijos
+18 straipsnis. Informacinės visuomenės paslaugų teikimo politikos formavimo ir reguliavimo institucijos
 
 
-Informacinės visuomenės paslaugų teikimo ir kitos paslaugų teikėjų veiklos politiką Lietuvos Respublikoje formuoja Vyriausybė ar jos įgaliota institucija. Informacinės visuomenės paslaugų teikimą ir kitą paslaugų teikėjų veiklą reguliuoja Informacinės visuomenės plėtros komitetas.
+Informacinės visuomenės paslaugų teikimo ir kitos paslaugų teikėjų veiklos politiką Lietuvos Respublikoje formuoja ir įgyvendina bei tarpinstitucinį koordinavimą atlieka Susisiekimo ministerija. Informacinės visuomenės paslaugų teikimą ir kitą paslaugų teikėjų veiklą reguliuoja Informacinės visuomenės plėtros komitetas.
+
+
+Straipsnio pakeitimai:
+Nr. XI-800, 2010-05-11, Žin., 2010, Nr. 60-2959 (2010-05-25), i. k. 1101010ISTA00XI-800
  
-
-
 
 
 
@@ -745,15 +756,22 @@ Informacinės visuomenės paslaugų teikimo ir kitos paslaugų teikėjų veiklos
 19 straipsnis. Informacinės visuomenės plėtros komitetas
 
 
-1. Informacinės visuomenės plėtros komitetas -Lietuvos Respublikos Vyriausybės įstaiga, dalyvaujanti formuojant valstybės informacinės visuomenės plėtros politiką ir koordinuojanti jos įgyvendinimą pagal Lietuvos Respublikos Vyriausybės patvirtintus informacinės visuomenės plėtros planavimo dokumentus, koordinuojanti informacinės visuomenės plėtrą valstybėje, elektroninio turinio, informacinių ir ryšių technologijų infrastruktūros ir informacinių ir ryšių technologijų naujovių kūrimą ir diegimą bei prižiūrinti, kaip laikomasi šio įstatymo ir su jo įgyvendinimu susijusių teisės aktų.
+1. Informacinės visuomenės plėtros komitetas – įstaiga prie Susisiekimo ministerijos, dalyvaujanti formuojant valstybės informacinės visuomenės plėtros bei valstybės informacinių išteklių kūrimo ir funkcinio suderinamumo politiką ir koordinuojanti jos įgyvendinimą ir efektyvų informacinių išteklių panaudojimą pagal Lietuvos Respublikos Vyriausybės patvirtintus informacinės visuomenės plėtros planavimo dokumentus, koordinuojanti informacinės visuomenės plėtrą valstybėje, elektroninio turinio, informacinių ir ryšių technologijų infrastruktūros ir informacinių ir ryšių technologijų naujovių kūrimą ir diegimą bei prižiūrinti, kaip laikomasi šio įstatymo ir su jo įgyvendinimu susijusių teisės aktų reikalavimų.
 
 
 
 
-2. Informacinės visuomenės plėtros komitetas veikia pagal šį ir kitus Lietuvos Respublikos įstatymus, teisės aktus, tarptautinius įsipareigojimus, savo nuostatus, kuriuos tvirtina Lietuvos Respublikos Vyriausybė, ir yra finansuojamas iš valstybės biudžeto.
+2. Informacinės visuomenės plėtros komitetas veikia pagal šį ir kitus Lietuvos Respublikos įstatymus, teisės aktus, tarptautinius įsipareigojimus, savo nuostatus, kuriuos tvirtina Lietuvos Respublikos Vyriausybė ar jos pavedimu susisiekimo ministras, ir yra finansuojamas iš valstybės biudžeto. 
+
+
+
+
+3. Informacinės visuomenės plėtros komitete sudaromas kolegialus patariamasis organas – Informacinės visuomenės plėtros komiteto taryba, kurios personalinę sudėtį tvirtina susisiekimo ministras.
+
+
+Straipsnio pakeitimai:
+Nr. XI-800, 2010-05-11, Žin., 2010, Nr. 60-2959 (2010-05-25), i. k. 1101010ISTA00XI-800
  
-
-
 
 
 
@@ -941,3 +959,13 @@ priedas
 
 
 ______________
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-800, 2010-05-11, Žin., 2010, Nr. 60-2959 (2010-05-25), i. k. 1101010ISTA00XI-800
+Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo 4, 18, 19 straipsnių pakeitimo ir papildymo įstatymas
