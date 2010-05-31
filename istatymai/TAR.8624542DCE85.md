@@ -95,16 +95,18 @@ steigėjais ir nariais gali būti Lietuvos Respublikos piliečiai, sulaukę 18 m
 Politinės partijos steigėjai nuo politinės partijos įregistravimo juridinių asmenų
 registre tampa jos nariais. Tuo pačiu metu Lietuvos Respublikos pilietis gali būti
 tik vienos politinės partijos steigėju ar nariu. 
-3. Politinei partijai
-įsteigti būtina, kad ji Lietuvos Respublikoje turėtų ne mažiau kaip vieną tūkstantį
-steigėjų. Šie savo ar savo atstovų suvažiavime (susirinkime, konferencijoje) turi
-priimti politinės partijos įstatus, programą ir išrinkti valdymo organus, taip
-pat priimti sprendimą dėl buveinės. Steigėjas gali Lietuvos Respublikos civilinio kodekso nustatyta tvarka įgalioti kitą asmenį atstovauti
-jam politinės partijos steigiamajame suvažiavime (susirinkime, konferencijoje).
+3. Politinei
+partijai įsteigti būtina, kad ji Lietuvos Respublikoje turėtų ne mažiau kaip
+vieną tūkstantį steigėjų. Šie savo ar savo atstovų suvažiavime (susirinkime,
+konferencijoje) turi priimti politinės partijos įstatus, programą ir išrinkti
+valdymo organus, taip pat priimti sprendimą dėl buveinės. Steigėjas gali
+Lietuvos Respublikos civilinio kodekso nustatyta tvarka
+įgalioti kitą asmenį atstovauti jam politinės partijos steigiamajame
+suvažiavime (susirinkime, konferencijoje).
 Straipsnio
 pakeitimas:
-Nr. XI-600, 2009-12-22,
-Žin., 2010, Nr. 1-11 (2010-01-05)
+Nr. XI-600,
+2009-12-22, Žin., 2010, Nr. 1-11 (2010-01-05)
  
 6
 straipsnis. Politinės partijos steigimo dokumentas
@@ -159,8 +161,8 @@ partijos įstatus turi pasirašyti politinės partijos steigėjų įgaliotas ats
 įstatus pasirašiusių asmenų parašų tikrumas notariškai netvirtinamas.
 Straipsnio
 pakeitimas:
-Nr. XI-600, 2009-12-22,
-Žin., 2010, Nr. 1-11 (2010-01-05)
+Nr. XI-600,
+2009-12-22, Žin., 2010, Nr. 1-11 (2010-01-05)
  
 7
 straipsnis. Politinių partijų padaliniai
@@ -210,17 +212,36 @@ jų pakeitimų ir įstatymų reikalavimų atitikimą gali būti skundžiamas tei
 nustatyta tvarka.
 7. Politinės partijos laikomos įsteigtomis nuo jų įregistravimo juridinių
 asmenų registre.
-8. Politinės partijos,
-ketinančios dalyvauti rinkimuose, ne vėliau kaip prieš 65 dienas iki pirmųjų tais
-metais vyksiančių rinkimų Lietuvos Respublikos Vyriausybės nustatyta tvarka privalo
-pateikti Teisingumo ministerijai savo narių sąrašus. Jeigu pirmuosiuose tais metais
-rinkimuose partija neketina dalyvauti, minėtus sąrašus ji gali pateikti ne vėliau
-kaip prieš 65 dienas iki kitų tais metais vyksiančių rinkimų, kuriuose partija ketina
-dalyvauti. Sąrašuose turi būti nurodyta politinės partijos nario vardas, pavardė,
-gimimo data, gyvenamosios vietos adresas. Šie duomenys turi būti patvirtinti politinės
-partijos vadovo parašu. Teisingumo ministerijai pateikiama ir šių sąrašų kompiuterinė
-laikmena. Teisingumo ministerija praneša Vyriausiajai rinkimų komisijai, kad politinės
+ 
+8 dalies redakcija iki 2010 m. rugsėjo 15 d.:
+8. Politinės partijos, ketinančios dalyvauti rinkimuose, ne vėliau kaip
+prieš 65 dienas iki pirmųjų tais metais vyksiančių rinkimų Lietuvos Respublikos
+Vyriausybės nustatyta tvarka privalo pateikti Teisingumo ministerijai savo
+narių sąrašus. Jeigu pirmuosiuose tais metais rinkimuose partija neketina
+dalyvauti, minėtus sąrašus ji gali pateikti ne vėliau kaip prieš 65 dienas iki
+kitų tais metais vyksiančių rinkimų, kuriuose partija ketina dalyvauti.
+Sąrašuose turi būti nurodyta politinės partijos nario vardas, pavardė, gimimo
+data, gyvenamosios vietos adresas. Šie duomenys turi būti patvirtinti politinės
+partijos vadovo parašu. Teisingumo ministerijai pateikiama ir šių sąrašų
+kompiuterinė laikmena. Teisingumo ministerija praneša Vyriausiajai rinkimų
+komisijai, kad politinės partijos narių skaičius atitinka šio Įstatymo reikalavimus.
+8 dalies redakcija nuo 2010 m. rugsėjo 15 d.:
+8. Politinės partijos privalo
+kiekvienais metais, ne vėliau kaip iki kovo 1 dienos, Lietuvos Respublikos
+Vyriausybės nustatyta tvarka pateikti Teisingumo ministerijai savo politinių
+partijų narių sąrašus. Jeigu politinė partija įsisteigė po kovo 1 dienos, šiai
+partijai dėl rinkimų, vyksiančių iki kitų metų kovo 1 dienos, savo narių sąrašo
+pateikti nereikia. Teisingumo ministerijai teikiamuose politinių partijų narių sąrašuose turi būti nurodyta politinės partijos nario
+vardas, pavardė, asmens kodas, gyvenamosios vietos adresas. Šie duomenys turi
+būti patvirtinti politinės partijos vadovo parašu. Teisingumo ministerijai
+pateikiama ir šių sąrašų kompiuterinė laikmena. Teisingumo ministerija
+patikrina politinių partijų narių sąrašus ir ne vėliau kaip iki kiekvienų metų
+balandžio 1 dienos praneša Vyriausiajai rinkimų komisijai, ar politinės
 partijos narių skaičius atitinka šio Įstatymo reikalavimus.
+Straipsnio
+pakeitimas:
+Nr. XI-818,
+2010-05-18, Žin., 2010, Nr. 63-3096 (2010-05-31)
  
 9 straipsnis. Politinių partijų pertvarkymas ir pabaiga
 1. Politinės partijos
@@ -252,9 +273,20 @@ tvarka. Politinė partija likviduojama Lietuvos Respublikos civilinio kodekso nu
 tvarka, jeigu per šešis mėnesius po narių sumažėjimo politinės partijos nariai nenusprendžia
 politinės partijos reorganizuoti ar pertvarkyti.
  
+10 straipsnio redakcija iki 2010 m. rugsėjo 15 d.:
 10 straipsnis. Politinių partijų veiklos tyrimas 
-Politinės partijos veiklos tyrimo tvarką nustato Lietuvos Respublikos civilinis
-kodeksas.
+Politinės partijos veiklos tyrimo tvarką nustato Lietuvos Respublikos
+civilinis kodeksas.
+10 straipsnio redakcija nuo 2010 m. rugsėjo 15 d.:
+10 straipsnis. Politinių partijų veiklos tyrimas
+Politinės
+partijos veiklos tyrimo tvarką nustato Lietuvos Respublikos civilinis kodeksas ir
+Lietuvos Respublikos politinių partijų ir politinių kampanijų finansavimo bei
+finansavimo kontrolės įstatymas.
+Straipsnio
+pakeitimas:
+Nr. XI-818,
+2010-05-18, Žin., 2010, Nr. 63-3096 (2010-05-31)
  
 TREČIASIS SKIRSNIS
 POLITINIŲ PARTIJŲ
@@ -456,17 +488,28 @@ Iki
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XI-600, 2009-12-22,
-Žin., 2010, Nr. 1-11 (2010-01-05)
+XI-600,
+2009-12-22, Žin., 2010, Nr. 1-11 (2010-01-05)
 POLITINIŲ
 PARTIJŲ ĮSTATYMO 5 IR 6 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+ 
+10.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-818, 2010-05-18,
+Žin., 2010, Nr. 63-3096 (2010-05-31)
+POLITINIŲ
+PARTIJŲ ĮSTATYMO 8 IR 10 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas, išskyrus 2 straipsnį, įsigalioja 2010 m. rugsėjo 15 d.
  
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2010-01-19)
-                 
-autrap@lrs.lt
+Aušrinė Trapinskienė (2010-06-02)
+            
+     autrap@lrs.lt
 
