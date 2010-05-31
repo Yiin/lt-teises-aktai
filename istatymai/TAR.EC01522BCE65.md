@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC01522BCE65"
 
 # Lietuvos Respublikos Seimo kontrolierių įstatymas
 
-Suvestinė redakcija nuo 2010-02-16 iki 2010-05-30
+Suvestinė redakcija nuo 2010-05-31 iki 2010-06-30
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 110-3024, i. k. 0981010ISTAVIII-950
  
@@ -659,10 +659,12 @@ Skundas turi būti ištirtas ir pareiškėjui atsakyta per 3 mėnesius nuo skund
 21 straipsnis. Skundo tyrimas
 
 
-Seimo kontrolierius ištiria skunde nurodytas aplinkybes ir surašo pažymą. Pažymoje nurodoma tyrimo metu nustatytos aplinkybės, surinkti įrodymai bei pareigūno veikos juridinis įvertinimas. Pažymą pasirašo Seimo kontrolierius. Seimo kontrolieriaus pažyma pateikiama pareiškėjui. Pažyma taip pat gali būti pateikiama institucijos ar įstaigos, kurioje buvo atliekamas tyrimas, vadovui ar pareigūnui, kurio veiksmai buvo tiriami, o prireikus – ir aukštesnės pagal pavaldumą institucijos ar įstaigos vadovui, taip pat kitoms institucijoms ar įstaigoms. Tais atvejais, kai pažymoje yra informacijos, kuri pagal įstatymus yra valstybės, tarnybos, komercinė ar banko paslaptis, arba įstatymų saugomi asmens duomenys, pateikiama ne visa pažyma.
+Seimo kontrolierius ištiria skunde nurodytas aplinkybes ir surašo pažymą. Pažymoje nurodoma tyrimo metu nustatytos aplinkybės, surinkti įrodymai ir pareigūno veikos juridinis įvertinimas. Pažymą pasirašo Seimo kontrolierius. Seimo kontrolieriaus pažyma pateikiama pareiškėjui, taip pat skelbiama oficialiame Seimo kontrolierių įstaigos interneto tinklalapyje. Pažyma taip pat gali būti pateikiama institucijos ar įstaigos, kurioje buvo atliekamas tyrimas, vadovui ar pareigūnui, kurio veiksmai buvo tiriami, o prireikus – ir aukštesnės pagal pavaldumą institucijos ar įstaigos vadovui, taip pat – ir kitoms institucijoms ar įstaigoms. Tais atvejais, kai pažymoje yra informacijos, kuri pagal įstatymus yra valstybės, tarnybos, komercinė ar banko paslaptis, arba įstatymų saugomi asmens duomenys, pateikiama ir skelbiama ne visa pažyma.
+
+
+Straipsnio pakeitimai:
+Nr. XI-808, 2010-05-13, Žin., 2010, Nr. 63-3087 (2010-05-31), i. k. 1101010ISTA00XI-808
  
-
-
 
 
 
@@ -943,3 +945,8 @@ Lietuvos Respublikos Seimo kontrolierių įstatymo 29 straipsnio pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-667, 2010-01-21, Žin., 2010, Nr. 15-700 (2010-02-04), i. k. 1101010ISTA00XI-667
 Lietuvos Respublikos Seimo kontrolierių įstatymo 7, 25, 28 straipsnių pakeitimo ir 26, 27 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-808, 2010-05-13, Žin., 2010, Nr. 63-3087 (2010-05-31), i. k. 1101010ISTA00XI-808
+Lietuvos Respublikos Seimo kontrolierių įstatymo 21 straipsnio pakeitimo įstatymas
