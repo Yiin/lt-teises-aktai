@@ -75,7 +75,10 @@ Specialiųjų tyrimų tarnybos direktorių ir jo pavaduotojus bei policijos
 generalinį komisarą) bei pareigūnams;
 9) Seimo,
 Respublikos Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių
-(nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams.
+(nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams;
+3 dalis papildoma 10 punktu nuo 2010 m. liepos
+1 d.:
+10) Vyriausybės įstaigų vadovams.
 Straipsnio
 pakeitimai:
 Nr. VIII-2057, 00.10.17, Žin., 2000,
@@ -102,13 +105,15 @@ Nr.
 IX-1918,
 2003-12-18, Žin., 2003, Nr. 123-5589 (2003-12-30)
 Nr.
-X-789, 2006-07-19,
-Žin., 2006, Nr. 87-3400 (2006-08-08)
+X-789,
+2006-07-19, Žin., 2006, Nr. 87-3400 (2006-08-08)
 Nr. X-1688,
 2008-07-03, Žin., 2008, Nr. 81-3188 (2008-07-17)
 Nr.
 X-1773,
 2008-11-06, Žin., 2008, Nr. 131-5021 (2008-11-15)
+Nr. XI-865,
+2010-06-03, Žin., 2010, Nr. 71-3543 (2010-06-19)
  
 3 straipsnis. Valstybės politikų ir
 valstybės pareigūnų darbo užmokestis
@@ -149,12 +154,12 @@ Valstybės politikų ir valstybės pareigūnų pareiginės algos
 politikų ir valstybės pareigūnų pareiginės algos skaičiuojamos taikant
 pareiginės algos bazinį dydį (toliau – bazinis dydis), kurį Vyriausybės
 teikimu, įvertinus valstybės politikams ir valstybės pareigūnams atstovaujančių
-organizacijų pasiūlymus, praėjusių metų vidutinę metinę infliaciją
-(skaičiuojant nacionalinį vartotojų kainų indeksą) ir kitų vidutinio darbo
-užmokesčio viešajame sektoriuje dydžiui ir kitimui poveikį turinčių veiksnių
-įtaką, tvirtina Lietuvos Respublikos Seimas iki Seimo pavasario sesijos
-pabaigos. Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį
-dydį, išskyrus atvejus, kai iš esmės pablogėja valstybės ekonominė ir finansinė
+organizacijų pasiūlymus, praėjusių metų vidutinę metinę infliaciją (skaičiuojant
+nacionalinį vartotojų kainų indeksą) ir kitų vidutinio darbo užmokesčio
+viešajame sektoriuje dydžiui ir kitimui poveikį turinčių veiksnių įtaką,
+tvirtina Lietuvos Respublikos Seimas iki Seimo pavasario sesijos pabaigos.
+Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį dydį,
+išskyrus atvejus, kai iš esmės pablogėja valstybės ekonominė ir finansinė
 būklė.
 2. Pareiginė
 alga apskaičiuojama atitinkamą pareiginės algos koeficientą, nustatytą šio
@@ -180,18 +185,19 @@ Nr. XI-82, 2008-12-19,
  
 5 straipsnis. Priedas už ištarnautus
 Lietuvos valstybei metus
-1. Valstybės
-politikams ir valstybės pareigūnams mokamas priedas už ištarnautus Lietuvos
-valstybei metus nuo 1990 m. kovo 11 d., einant  pareigas, nurodytas Valstybės tarnybos įstatymo straipsnio 1–4 dalyse ir 5
-dalies 1–4 punktuose (išskyrus savivaldybės tarybos narius, kurie nebuvo merais
-ir mero pavaduotojais). Į ištarnautus metus įskaitomi laikotarpiai, nurodyti
-minėto įstatymo 42 straipsnio 1 dalyje.
+1. Valstybės politikams
+ir valstybės pareigūnams mokamas priedas už ištarnautus Lietuvos valstybei
+metus nuo 1990 m. kovo 11 d., einant  pareigas, nurodytas Valstybės
+tarnybos įstatymo straipsnio 1–4 dalyse ir 5 dalies 1–4 punktuose (išskyrus
+savivaldybės tarybos narius, kurie nebuvo merais ir mero pavaduotojais). Į
+ištarnautus metus įskaitomi laikotarpiai, nurodyti minėto įstatymo 42
+straipsnio 1 dalyje.
 2. Tarnybos
 stažo skaičiavimo tvarką nustato Vyriausybė.
-3. Priedą už ištarnautus
-valstybei metus sudaro 3 procentai valstybės politiko ar valstybės pareigūno
-pareiginės algos už kiekvienus trejus metus, tačiau priedo dydis neturi viršyti
-30 procentų pareiginės algos.
+3. Priedą už
+ištarnautus valstybei metus sudaro 3 procentai valstybės politiko ar valstybės
+pareigūno pareiginės algos už kiekvienus trejus metus, tačiau priedo dydis
+neturi viršyti 30 procentų pareiginės algos.
 Straipsnio
 pakeitimai:
 Nr. VIII-2057, 00.10.17, Žin., 2000,
@@ -220,8 +226,8 @@ procentų dydžio;
 6) vyriausiajam
 valstybiniam justicijos patarėjui – 40 procentų dydžio.
 Įstatymas papildytas straipsniu:
-Nr. IX-1520, 2003-04-22,
-Žin., 2003, Nr. 42-1920 (2003-05-01)
+Nr. IX-1520,
+2003-04-22, Žin., 2003, Nr. 42-1920 (2003-05-01)
 Straipsnio
 pakeitimai:
 Nr.
@@ -243,8 +249,8 @@ pareigūnų darbą, atsižvelgiant į šio straipsnio nuostatas sukonkretinamos 
 straipsnio 1 dalyje nurodytų priemokų dydžių nustatymo ir išmokėjimo sąlygos
 bei tvarka.
 Straipsnio pakeitimai:
-Nr. IX-1045,
-2002-07-05, Žin., 2002, Nr. 73-3104 (2002-07-19)
+Nr. IX-1045, 2002-07-05,
+Žin., 2002, Nr. 73-3104 (2002-07-19)
  
 7
 straipsnis. Neteko
@@ -253,8 +259,8 @@ Straipsnio
 pakeitimai:
 Nr. VIII-2057, 00.10.17, Žin., 2000,
 Nr.92-2887 (00.10.31)
-Nr. IX-231, 2001 03 27, Žin., 2001, Nr. 29-918
-(2001 04 04)
+Nr. IX-231, 2001 03 27, Žin., 2001, Nr.
+29-918 (2001 04 04)
 Lietuvos
 Respublikos Konstitucinis Teismas, Nutarimas
 2001-07-12, Žin.,
@@ -263,12 +269,12 @@ Nr. IX-667,
 2001-12-18, Žin., 2001, Nr. 111-4026 (2001-12-30)
 Nr. IX-841,
 2002-04-09, Žin., 2002, Nr. 43-1606 (2002-04-26)
-Nr. IX-1012, 2002-07-02,
-Žin., 2002, Nr. 72-3018 (2002-07-17)
+Nr. IX-1012,
+2002-07-02, Žin., 2002, Nr. 72-3018 (2002-07-17)
 Nr. IX-1240,
 2002-12-10, Žin., 2002, Nr. 123-5532 (2002-12-24)
-Nr. IX-1326, 2003-01-28,
-Žin., 2003, Nr. 17-703 (2003-02-19)
+Nr. IX-1326,
+2003-01-28, Žin., 2003, Nr. 17-703 (2003-02-19)
 Nr.
 X-1773,
 2008-11-06, Žin., 2008, Nr. 131-5021 (2008-11-15)
@@ -283,10 +289,10 @@ Nr.92-2887 (00.10.31)
  
 9
 straipsnis. Pasiūlymai Vyriausybei
-Lietuvos Respublikos
-Vyriausybė per du mėnesius nuo šio įstatymo paskelbimo „Valstybės žiniose“
-parengia ir pateikia Seimui įstatymų, susijusių su šiuo įstatymu, pakeitimų ir
-papildymų įstatymų projektus.
+Lietuvos
+Respublikos Vyriausybė per du mėnesius nuo šio įstatymo paskelbimo „Valstybės
+žiniose“ parengia ir pateikia Seimui įstatymų, susijusių su šiuo įstatymu,
+pakeitimų ir papildymų įstatymų projektus.
  
  
 Skelbiu šį
@@ -304,13 +310,13 @@ Respublikos
 politikų ir valstybės
                                                                                                 pareigūnų
 darbo apmokėjimo
-                                                                                                įstatymo
+                                                                                                įstatymo
 
                                                                                                 priedėlis
 
  
-I. VALSTYBĖS
-POLITIKŲ PAREIGINĖS ALGOS
+I. VALSTYBĖS POLITIKŲ
+PAREIGINĖS ALGOS
 (Baziniais dydžiais)
 
 
@@ -600,8 +606,7 @@ Merai
 5.2.
 
 
-Merų
-  pavaduotojai
+Merų pavaduotojai
 
 
 9,45
@@ -1363,6 +1368,22 @@ Lietuvos
 
 
 10,10
+
+
+
+
+ 
+13.
+
+
+IV skirsnis papildomas 13 punktu nuo
+  2010 m.liepos 1 d.:
+Vyriausybės
+  įstaigų vadovai
+
+
+ 
+12,3
 
 
 
@@ -2444,7 +2465,6 @@ Lietuvos
 Pastaba. Komisijų ir
 tarybų, kurių posėdžiai vyksta periodiškai, nariams pareiginės algos dydis
 apskaičiuojamas proporcingai dirbtam laikui.
- 
 Priedėlio
 pakeitimai:
 Nr. VIII-2057,
@@ -2493,8 +2513,11 @@ Nr. XI-157,
 Nr. XI-224,
 2009-04-23, Žin., 2009, Nr. 49-1935 (2009-04-30)
 Nr.
-XI-361, 2009-07-17,
-Žin., 2009, Nr. 91-3916 (2009-07-31)
+XI-361,
+2009-07-17, Žin., 2009, Nr. 91-3916 (2009-07-31)
+Nr. XI-865,
+2010-06-03, Žin., 2010, Nr. 71-3543 (2010-06-19)
+ 
 ________________
  
 Pakeitimai:
@@ -2572,8 +2595,8 @@ Nr.
 IX-1012,
 2002-07-02, Žin., 2002, Nr. 72-3018 (2002-07-17)
 VALSTYBĖS
-POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 7 STRAIPSNIŲ
-IR ĮSTATYMO PRIEDĖLIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 7
+STRAIPSNIŲ IR ĮSTATYMO PRIEDĖLIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 9.
 Lietuvos
@@ -2791,8 +2814,8 @@ Nr. XI-224,
 VALSTYBĖS
 POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
 ĮSTATYMAS
-Šio įstatymo 1 straipsnis įsigalioja
-2009 m. gegužės 1 d.
+Šio įstatymo 1 straipsnis įsigalioja 2009
+m. gegužės 1 d.
 Šio
 įstatymo 2 straipsnis įsigalioja 2011 m. sausio 1 d.
  
@@ -2806,6 +2829,17 @@ POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEI
 ĮSTATYMAS
 Šis įstatymas įsigalioja 2009 m. rugpjūčio 1 d. ir
 galioja iki 2010 m. gruodžio 31 d.
+ 
+29.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-865,
+2010-06-03, Žin., 2010, Nr. 71-3543 (2010-06-19)
+VALSTYBĖS
+POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2 STRAIPSNIO IR
+ĮSTATYMO PRIEDĖLIO IV SKIRSNIO PAPILDYMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2010 m. liepos 1 d.
  
 ***Pabaiga***
  
@@ -2821,23 +2855,25 @@ Respublikos Konstitucinis Teismas, Nutarimas
 DĖL LIETUVOS RESPUBLIKOS VALSTYBĖS POLITIKŲ, TEISĖJŲ IR
 VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 4 STRAIPSNIO 1 IR 2 DALIŲ, 5
 STRAIPSNIO 1 IR 3 DALIŲ, 7 STRAIPSNIO 3 DALIES 1 PUNKTO, 4, 5 IR 6 DALIŲ, ŠIO
-ĮSTATYMO PRIEDĖLIO II SKIRSNIO, LIETUVOS RESPUBLIKOS 2000 METŲ VALSTYBĖS
-BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO 6
-PRIEDĖLIO, LIETUVOS RESPUBLIKOS 2000 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ
-BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO PAKEITIMO ĮSTATYMO 9
-STRAIPSNIO, LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1991 M. LAPKRIČIO 29 D. NUTARIMO NR. 499 "DĖL VALSTYBINĖS VALDŽIOS, VALSTYBĖS VALDYMO IR
-TEISĖSAUGOS ORGANŲ VADOVŲ BEI KITŲ PAREIGŪNŲ LAIKINOS BANDOMOSIOS DARBO
-APMOKĖJIMO TVARKOS", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 24 D. NUTARIMO NR. 666 "DĖL LIETUVOS RESPUBLIKOS TEISMŲ TEISĖJŲ, PROKURATŪROS
-SISTEMOS IR LIETUVOS RESPUBLIKOS VALSTYBĖS SAUGUMO DEPARTAMENTO PAREIGŪNŲ BEI
-KITŲ DARBUOTOJŲ DARBO APMOKĖJIMO", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1999 M. GRUODŽIO 28 D. NUTARIMO NR. 1494 "DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 30 D. NUTARIMO NR. 689 "DĖL TEISĖTVARKOS, TEISĖSAUGOS IR KONTROLĖS INSTITUCIJŲ
+ĮSTATYMO PRIEDĖLIO II SKIRSNIO, LIETUVOS RESPUBLIKOS 2000 METŲ VALSTYBĖS BIUDŽETO
+IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO 6 PRIEDĖLIO,
+LIETUVOS RESPUBLIKOS 2000 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ
+FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO PAKEITIMO ĮSTATYMO 9 STRAIPSNIO,
+LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1991 M. LAPKRIČIO 29 D. NUTARIMO NR. 499
+"DĖL VALSTYBINĖS VALDŽIOS, VALSTYBĖS VALDYMO IR TEISĖSAUGOS ORGANŲ VADOVŲ
+BEI KITŲ PAREIGŪNŲ LAIKINOS BANDOMOSIOS DARBO APMOKĖJIMO TVARKOS",
+LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 24 D. NUTARIMO NR. 666
+"DĖL LIETUVOS RESPUBLIKOS TEISMŲ TEISĖJŲ, PROKURATŪROS SISTEMOS IR
+LIETUVOS RESPUBLIKOS VALSTYBĖS SAUGUMO DEPARTAMENTO PAREIGŪNŲ BEI KITŲ
+DARBUOTOJŲ DARBO APMOKĖJIMO", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1999 M. GRUODŽIO 28 D. NUTARIMO NR. 1494 "DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 30 D. NUTARIMO NR. 689 "DĖL TEISĖTVARKOS, TEISĖSAUGOS IR KONTROLĖS INSTITUCIJŲ
 VADOVAUJANČIŲJŲ PAREIGŪNŲ IR VALDININKŲ DARBO APMOKĖJIMO" DALINIO
 PAKEITIMO" ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
-***
-Pabaiga ***
+ 
+*** Pabaiga ***
  
  
-Redagavo
-Aušra Bodin (2009-08-03)
+Redagavo Aušrinė Trapinskienė
+(2010-06-19)
                  
-aubodi@lrs.lt
+autrap@lrs.lt
