@@ -118,16 +118,17 @@ straipsnis. Profesinių sąjungų steigimas
             Profesinės sąjungos gali
 steigtis profesiniu, pareiginiu, gamybiniu, teritoriniu ar kitais pačių
 profesinių sąjungų nustatytais principais.
-            Profesinei sąjungai įsteigti
-būtina, kad ji turėtų:
-            1) ne mažiau kaip 30
-steigėjų arba įmonėje, įstaigoje, organizacijoje būtų ne mažiau kaip 30
-steigėjų ar jie sudarytų ne mažiau kaip 1/5 dalį visų darbuotojų, tačiau ne
-mažiau kaip 3 darbuotojai;
-            2) susirinkime patvirtintus
-įstatus (statutą);
-            3) išrinktus
-vadovaujančiuosius organus;
+Profesinei
+sąjungai įsteigti būtina, kad ji turėtų:
+1) ne mažiau
+kaip 20 steigėjų arba įmonėje, įstaigoje, organizacijoje steigėjai sudarytų ne
+mažiau kaip 1/10 visų darbuotojų (o 1/10 visų darbuotojų būtų ne mažiau kaip
+trys darbuotojai), ir profesinės sąjungos susirinkime yra patvirtinti jos
+įstatai bei išrinkti valdymo organai; 
+2) susirinkime
+patvirtintus įstatus;
+3) išrinktus
+valdymo organus;
 4) priimtą sprendimą dėl buveinės.
             Profesinė sąjunga laikoma
 įsteigta nuo tos dienos, kai įvykdytos šio straipsnio antrojoje dalyje
@@ -136,6 +137,8 @@ Straipsnio
 pakeitimai:
 Nr. XI-599,
 2009-12-22, Žin., 2010, Nr. 1-10 (2010-01-05)
+Nr. XI-882, 2010-06-04, Žin., 2010, Nr. 71-3555
+(2010-06-19)
  
             7
 straipsnis. Profesinių sąjungų susivienijimai
@@ -150,8 +153,8 @@ ir dokumentų pateikimas Juridinių asmenų registrui
 Profesinės
 sąjungos arba jų susivienijimai teisės aktų nustatyta tvarka turi pateikti
 Juridinių asmenų registrui profesinės sąjungos įstatus (statutą) ir kitus
-dokumentus, patvirtinančius šio įstatymo 6 straipsnio 2 dalyje nurodytų
-aplinkybių buvimą.
+dokumentus, patvirtinančius šio įstatymo 6 straipsnio 2 dalyje nurodytų aplinkybių
+buvimą.
 Profesinės
 sąjungos įstatuose (statute) turi būti nurodyta:
 1) profesinės
@@ -226,8 +229,8 @@ Nr. VIII-308,
 97.06.26, Žin., 1997, Nr.65-1539 (97.07.09)
 Nr. IX-230,
 2001 03 27, Žin., 2001, Nr. 28-901 (2001 03 30)
-Nr. XI-599,
-2009-12-22, Žin., 2010, Nr. 1-10 (2010-01-05)
+Nr. XI-599, 2009-12-22,
+Žin., 2010, Nr. 1-10 (2010-01-05)
 Nr. XI-712, 2010-03-30, Žin., 2010, Nr. 41-1937
 (2010-04-10)
  
@@ -241,11 +244,11 @@ nustatyta tvarka;
             2) teismo sprendimu.
             Profesinei sąjungai, jų
 susivienijimui pažeidus Lietuvos Respublikos Laikinąjį Pagrindinį Įstatymą
-(Konstituciją) ir šį įstatymą, ją įregistravęs organas apie pažeidimą raštu
-praneša profesinės sąjungos, susivienijimo vadovaujantiems organams ir nurodo
-terminą, per kurį pažeidimai turi būti pašalinti. Jei pažeidimai nepašalinti,
-profesinės sąjungos, jų susivienijimo įstatus (statutą) registravęs organas,
-taip pat prokuroras turi teisę kreiptis į teismą dėl profesinės sąjungos, jų
+(Konstituciją) ir šį įstatymą, ją įregistravęs organas apie pažeidimą raštu praneša
+profesinės sąjungos, susivienijimo vadovaujantiems organams ir nurodo terminą,
+per kurį pažeidimai turi būti pašalinti. Jei pažeidimai nepašalinti, profesinės
+sąjungos, jų susivienijimo įstatus (statutą) registravęs organas, taip pat
+prokuroras turi teisę kreiptis į teismą dėl profesinės sąjungos, jų
 susivienijimo veiklos sustabdymo.
             Teismo sprendimu profesinių
 sąjungų, jų susivienijimų veikla gali būti sustabdyta ne ilgesniam kaip 3
@@ -280,8 +283,8 @@ teises bei interesus.
 profesinei sąjungai kolektyvinėje sutartyje nustatytą pinigų sumą.
             Jeigu yra profesinės
 sąjungos nario prašymas, darbdavys privalo kiekvieną mėnesį išskaičiuoti iš
-profesinės sąjungos nario darbo užmokesčio nustatyto dydžio nario mokestį ir pervesti
-jį į profesinės sąjungos sąskaitą.
+profesinės sąjungos nario darbo užmokesčio nustatyto dydžio nario mokestį ir
+pervesti jį į profesinės sąjungos sąskaitą.
 Straipsnio
 pakeitimai:
 Nr.
@@ -300,8 +303,8 @@ organizacijomis
             Profesinės sąjungos, jų
 susivienijimai turi teisę vesti derybas ir sudaryti sutartis (susitarimus) su
 darbdaviais, jų organizacijomis, susivienijimais dėl darbuotojų užimtumo,
-perkvalifikavimo, darbo organizavimo ir apmokėjimo, darbo ir gyvenimo sąlygų
-gerinimo bei kitų klausimų.
+perkvalifikavimo, darbo organizavimo ir apmokėjimo, darbo ir gyvenimo sąlygų gerinimo
+bei kitų klausimų.
  
             13
 straipsnis. Darbdavio pareigos santykiuose su profesinėmis sąjungomis
@@ -355,9 +358,9 @@ kurią valstybės organai ir organizacijos privalo pateikti įstatymų nustatyta
 terminais.
             Valstybės organai skatina
 derybas tarp profesinių sąjungų ir darbdavių ar jų organizacijų.
-            Valstybės organai, organizacijos
-gali teikti profesinėms sąjungoms paramą socialiniams ir kitiems tyrimams
-vykdyti.
+            Valstybės organai,
+organizacijos gali teikti profesinėms sąjungoms paramą socialiniams ir kitiems
+tyrimams vykdyti.
  
 V skirsnis.
 Profesinių sąjungų teisės.
@@ -400,8 +403,8 @@ atsisako jį patenkinti, profesinė sąjunga turi teisę kreiptis į teismą.
  
             19
 straipsnis. Profesinių sąjungų teisė siūlyti traukti atsakomybėn pareigūnus
-            Profesinės sąjungos turi teisę
-siūlyti traukti atsakomybėn pareigūnus, kurie pažeidžia darbo įstatymus,
+            Profesinės sąjungos turi
+teisę siūlyti traukti atsakomybėn pareigūnus, kurie pažeidžia darbo įstatymus,
 neužtikrina saugių darbo sąlygų, nevykdo kolektyvinės sutarties ar kitokių
 tarpusavio susitarimų.
  
@@ -417,9 +420,9 @@ profesinei sąjungai, privalo ją atlyginti įstatymų nustatyta tvarka.
 21
 straipsnis. Profesinių sąjungų narių darbo teisių garantijos
 Darbdavys negali atleisti iš darbo darbuotojo
-įmonėje veikiančios profesinės sąjungos renkamojo organo nario pagal Darbo sutarties
-įstatymo 29 straipsnio pirmosios dalies 2 punktą ir savo valia, negavęs tos
-profesinės sąjungos įmonėje renkamojo organo išankstinio sutikimo. 
+įmonėje veikiančios profesinės sąjungos renkamojo organo nario pagal Darbo
+sutarties įstatymo 29 straipsnio pirmosios dalies 2 punktą ir savo valia,
+negavęs tos profesinės sąjungos įmonėje renkamojo organo išankstinio sutikimo. 
 Šio straipsnio pirmojoje dalyje
 nurodytiems darbuotojams skiriant drausmines nuobaudas, išskyrus drausminę
 nuobaudą – atleidimą iš darbo, taip pat reikalingas išankstinis profesinės
@@ -559,8 +562,8 @@ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1803, 2003-11-03,
-Žin., 2003, Nr. 108-4816 (2003-11-19)
+IX-1803,
+2003-11-03, Žin., 2003, Nr. 108-4816 (2003-11-19)
 PROFESINIŲ
 SĄJUNGŲ ĮSTATYMO PREAMBULĖS IR 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
@@ -580,11 +583,19 @@ XI-712, 2010-03-30, Žin., 2010, Nr. 41-1937 (2010-04-10)
 PROFESINIŲ
 SĄJUNGŲ ĮSTATYMO 8 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+9.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-882, 2010-06-04, Žin., 2010, Nr. 71-3555 (2010-06-19)
+PROFESINIŲ
+SĄJUNGŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2010-04-12)
+Aušrinė Trapinskienė (2010-06-19)
                  
 autrap@lrs.lt
