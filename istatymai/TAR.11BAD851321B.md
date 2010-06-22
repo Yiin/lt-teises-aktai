@@ -13,6 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.11BAD851321B"
 
 # Lietuvos Respublikos mėgėjų žvejybos įstatymas
 
+Suvestinė redakcija nuo 2010-06-22 iki 2011-12-30
+ 
+Įstatymas paskelbtas: Žin. 2004, Nr. 118-4395, i. k. 1041010ISTA0IX-2389
+ 
+ 
+ 
 LIETUVOS RESPUBLIKOS
 MĖGĖJIŠKOS ŽŪKLĖS
 Į S T A T Y M A S
@@ -240,7 +246,10 @@ VANDENS TELKINIŲ NAUDOJIMAS MĖGĖJIŠKAI ŽŪKLEI
 
 
 
-4. Sprendimus išduoti leidimus naudoti žūklės plotus vandens telkiniuose, Vyriausybės nutarimais perduotuose patikėjimo teise savivaldybėms, priima savivaldybės tarybos, o kituose vandens telkiniuose – apskrities viršininkas. 
+4. Sprendimus suteikti teisę naudoti žūklės plotą priima vandens telkinio valdytojas, suderinęs su Aplinkos ministerija ar jos įgaliota institucija.
+Straipsnio dalies pakeitimai:
+Nr. XI-896, 2010-06-10, Žin., 2010, Nr. 72-3615 (2010-06-22), i. k. 1101010ISTA00XI-896
+ 
 
 
 
@@ -684,3 +693,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-896, 2010-06-10, Žin., 2010, Nr. 72-3615 (2010-06-22), i. k. 1101010ISTA00XI-896
+Lietuvos Respublikos mėgėjiškos žūklės įstatymo 4 straipsnio pakeitimo įstatymas
