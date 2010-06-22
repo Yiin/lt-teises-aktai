@@ -402,12 +402,12 @@ yra kvalifikuotas ir gali atlikti nurodytas funkcijas;
 6) valdymo
 įmonės pensijų fondo taisyklėse nurodyta, kokias funkcijas leista pavesti
 atlikti kitai įmonei.
-3. Valdymo įmonė neturi teisės pavesti
-kitiems asmenims tiek savo funkcijų, kad pačiai jų iš esmės nebeliktų.
-Draudžiama investicinių sprendimų priėmimo ir vykdymo (investicijų valdymo)
-funkciją pavesti depozitoriumui, kuris saugo tos valdymo įmonės valdomų pensijų
-fondų turtą, ar kitiems asmenims, turintiems priešingų interesų, galinčių
-susikirsti su valdymo įmonės ar dalyvių interesais.
+3. Valdymo įmonė
+neturi teisės pavesti kitiems asmenims tiek savo funkcijų, kad pačiai jų iš
+esmės nebeliktų. Draudžiama investicinių sprendimų priėmimo funkciją pavesti
+depozitoriumui, kuris saugo tos valdymo įmonės valdomų pensijų fondų turtą, ar
+kitiems asmenims, turintiems priešingų interesų, galinčių susikirsti su valdymo
+įmonės ar dalyvių interesais.
 4. Dalies
 funkcijų atlikimo pavedimas kitiems asmenims valdymo įmonės nuo atsakomybės
 neatleidžia.
@@ -416,59 +416,19 @@ Nr. X-622, 2006-05-25,
 Žin., 2006, Nr. 65-2386 (2006-06-10)
 Nr. X-1587,
 2008-06-05, Žin., 2008, Nr. 71-2713 (2008-06-21)
+Nr. XI-874,
+2010-06-03, Žin., 2010, Nr. 72-3610 (2010-06-22)
  
-11
-straipsnis. Valdymo įmonės akcijų paketo įsigijimas
-1. Fizinis ar
-juridinis asmuo, ketinantis tiesiogiai ar netiesiogiai įsigyti ar padidinti jau
-turimą valdymo įmonės akcijų paketą, jei dėl planuojamo akcijų įsigijimo
-asmeniui priklausančių balsavimo teisių ar kapitalo dalis pasiektų arba viršytų
-didėjimo tvarka 20, 33 ar 50 procentų, arba įmonė taptų to juridinio asmens
-dukterine įmone, turi gauti išankstinį Vertybinių popierių komisijos sutikimą.
-2. Šio
-straipsnio 1 dalyje minėtas fizinis ar juridinis asmuo turi pateikti Vertybinių
-popierių komisijai jos nustatyto turinio prašymą, o Vertybinių popierių
-komisija ne vėliau kaip per 3 mėnesius nuo prašymo gavimo dienos turi pranešti
-jam apie leidimą įsigyti akcijų paketą arba atsisakymą leisti jį įsigyti.
-3. Vertybinių
-popierių komisija gali atsisakyti leisti įsigyti akcijų paketą, jeigu:
-1) fizinis asmuo (juridinio asmens – vadovai ar kontroliuojantys asmenys)
-nėra nepriekaištingos reputacijos;
-2) fizinis asmuo
-negali įrodyti turto ar lėšų, už kurias įsigyjamos akcijos, legalumo;
-3) fizinis asmuo
-yra Lietuvos Respublikoje veikiančios reguliuojamos rinkos operatoriaus,
-Vertybinių popierių komisijos ar depozitoriumo, kuris saugo tos valdymo įmonės
-valdomų pensijų fondų turtą, darbuotojas;
-4) juridinis
-asmuo nepateikė informacijos apie savo dalyvius, veiklą ar finansinę būklę;
-5) išdavus
-leidimą, tarp fizinių ar juridinių asmenų atsirastų toks glaudus ryšys, kuris
-būtų pagrindas atsisakyti išduoti valdymo įmonės licenciją.
-4. Atsisakymas
-leisti įsigyti akcijų paketą turi būti motyvuotas raštu ir gali būti
-skundžiamas teismui. Jeigu Vertybinių popierių komisija sutinka leisti įsigyti
-akcijų paketą, ji turi nustatyti ketinimo įvykdymo terminą.
-5. Fizinis ar
-juridinis asmuo, ketinantis tiesiogiai ar netiesiogiai sumažinti jau turimą
-valdymo įmonės akcijų paketą, jei dėl planuojamo akcijų paketo sumažinimo
-asmeniui priklausančių balsavimo teisių ar kapitalo dalis taptų mažesnė kaip
-10, 20, 33 ar 50 procentų, arba valdymo įmonė nustotų buvusi to juridinio
-asmens dukterine įmone, apie tai taip pat turi pranešti Vertybinių popierių
-komisijai.
-6. Valdymo
-įmonė, sužinojusi apie akcijų paketo, peržengiančio šiame straipsnyje
-nustatytas ribas, įsigijimą ar perleidimą, apie tai turi nedelsdama informuoti
-Vertybinių popierių komisiją. Metinė informacija apie asmenis, turinčius akcijų
-paketus, ir tų paketų dydžius Vertybinių popierių komisijai pateikiama šios
-nustatyta tvarka. 
-7. Be Vertybinių
-popierių komisijos leidimo (kai jis buvo reikalingas) akcijų įsigijusio asmens
-turimos akcijos visuotiniame akcininkų susirinkime praranda balso teisę, kol
-bus gautas reikiamas leidimas.
+11 straipsnis. Valdymo įmonės akcijų paketo įsigijimas ir
+perleidimas
+Valdymo
+įmonės akcijų paketo įsigijimui ir perleidimui mutatis mutandis taikomi
+Kolektyvinio investavimo subjektų įstatymo 10 straipsnio reikalavimai.
 Straipsnio pakeitimai:
-Nr. X-1587, 2008-06-05,
-Žin., 2008, Nr. 71-2713 (2008-06-21)
+Nr. X-1587,
+2008-06-05, Žin., 2008, Nr. 71-2713 (2008-06-21)
+Nr. XI-874,
+2010-06-03, Žin., 2010, Nr. 72-3610 (2010-06-22)
  
 12 straipsnis.
 Vertybinių popierių komisijos išduodami leidimai 
@@ -490,8 +450,8 @@ fondui panaikinti;
 8) valdymo
 funkcijų dalį pavesti kitai įmonei.
 2. Vertybinių popierių komisija leidimo gali
-neišduoti tik tuo atveju, jei tai prieštarautų teisės aktams ar pažeistų
-dalyvių interesus.
+neišduoti tik tuo atveju, jei tai prieštarautų teisės aktams ar pažeistų dalyvių
+interesus.
             
 13
 straipsnis. Valdymo įmonės auditas
@@ -573,10 +533,10 @@ turi užtikrinti, kad šie asmenys būtų reikiamos kvalifikacijos. Vertybinių
 popierių komisija turi teisę nustatyti asmenų, teikiančių informaciją apie
 pensijų kaupimo veiklą ir (ar) sudarančių pensijų kaupimo sutartis valdymo
 įmonės vardu, kvalifikacinius reikalavimus.
-8. Teikti informaciją
-apie pensijų kaupimo veiklą ir (ar) sudaryti pensijų kaupimo sutartis valdymo
-įmonės vardu gali tik nepriekaištingos reputacijos ir pensijų kaupimo veiklą
-reglamentuojančius teisės aktus išmanantys asmenys.
+8. Teikti
+informaciją apie pensijų kaupimo veiklą ir (ar) sudaryti pensijų kaupimo
+sutartis valdymo įmonės vardu gali tik nepriekaištingos reputacijos ir pensijų
+kaupimo veiklą reglamentuojančius teisės aktus išmanantys asmenys.
 9. Asmenys,
 rengiantys ir (ar) platinantys viešam platinimui ar visuomenei skirtus
 tyrimus apie pensijų kaupimą pensijų fonduose ar kitą informaciją, kuria
@@ -593,28 +553,38 @@ IX-2270,
 Nr. X-622, 2006-05-25,
 Žin., 2006, Nr. 65-2386 (2006-06-10)
  
-16
-straipsnis. Valdymo įmonėms taikomos poveikio priemonės 
-Vertybinių popierių komisija turi
-teisę taikyti valdymo įmonėms šias poveikio priemones:
-1) įspėti dėl veiklos trūkumų bei
-pažeidimų ir nustatyti jų pašalinimo terminus;
-2) skirti
-administracines nuobaudas vadovams ar darbuotojams arba šio Įstatymo numatytas
-baudas;
-3) sustabdyti
-licencijos galiojimą;
-4) panaikinti
-licencijos galiojimą;
-5) apriboti
-teisę investuoti pinigus;
+16 straipsnis. Valdymo įmonėms taikomos poveikio priemonės
+1.
+Vertybinių popierių komisija turi teisę taikyti valdymo įmonėms šias poveikio
+priemones:
+1) įspėti dėl
+veiklos trūkumų bei pažeidimų ir nustatyti jų pašalinimo terminus;
+2) skirti šiame
+Įstatyme nustatytas baudas;
+3) apriboti
+teisę pensijų fondo sąskaita sudaryti sandorius dėl investicinių priemonių
+įsigijimo;
+4)
+paskirti laikinąjį Vertybinių popierių komisijos atstovą veiklos priežiūrai;
+5) įpareigoti
+pakeisti valdymo įmonės vadovą;
 6) įpareigoti
 valdymo įmonę pensijų fondo valdymą perduoti kitai valdymo įmonei;
-7) paskirti
-laikinąjį Vertybinių popierių komisijos atstovą veiklos priežiūrai.
+7)
+sustabdyti licencijos teikti vieną, kelias ar visas paslaugas galiojimą; 
+8)
+panaikinti licencijos teikti vieną, kelias ar visas paslaugas galiojimą.
+2. Vertybinių
+popierių komisija turi teisę skirti Administracinių teisės pažeidimų kodekse
+numatytas nuobaudas valdymo įmonės vadovams ar darbuotojams.
+3. Vertybinių
+popierių komisija turi teisę taikyti depozitoriumui šio straipsnio 1 dalies 1 ir
+2 punktuose nurodytas poveikio priemones.
 Straipsnio pakeitimai:
 Nr. X-622, 2006-05-25,
 Žin., 2006, Nr. 65-2386 (2006-06-10)
+Nr. XI-874,
+2010-06-03, Žin., 2010, Nr. 72-3610 (2010-06-22)
  
 17
 straipsnis. Poveikio priemonių taikymo pagrindas
@@ -633,17 +603,17 @@ Lietuvos Respublikos įstatymai ar kiti teisės aktai;
 5) valdymo įmonė
 nesugeba įvykdyti savo įsipareigojimų dalyviams arba yra duomenų, kad nesugebės
 to padaryti ateityje.
-2. Poveikio
-priemonė parenkama atsižvelgiant į pažeidimo, kurio pagrindu ji taikoma, turinį
-ir pažeidimo bei poveikio priemonės taikymo padarinius įmonei, dalyvių
-interesams ir finansų sistemos saugumui. Poveikio priemonių taikymo klausimas svarstomas
-iš anksto apie tai pranešus valdymo įmonei ir sudarius jai galimybes
-pasiaiškinti. Atstovo neatvykimas į klausimo svarstymą ar paaiškinimų
-nepateikimas nėra kliūtis priimti sprendimą taikyti poveikio priemones.
-3. Sprendimas
-taikyti poveikio priemones gali būti priimtas, jei praėjo ne daugiau kaip 2
-metai nuo pažeidimo įvykdymo dienos, o esant tęstiniam pažeidimui, – ne daugiau
-kaip 2 metai nuo paskutinių veiksmų atlikimo dienos.
+2. Vertybinių
+popierių komisija taiko poveikio priemones Finansinių priemonių rinkų įstatymo
+nustatyta tvarka.
+3. Sprendimas taikyti
+poveikio priemones gali būti priimtas, jeigu praėjo ne daugiau kaip 2 metai nuo
+pažeidimo įvykdymo dienos, o esant tęstiniam ar trunkamajam pažeidimui, – nuo
+paskutinių tęstinio pažeidimo veiksmų atlikimo dienos ar trunkamojo pažeidimo
+paaiškėjimo dienos.
+Straipsnio pakeitimai:
+Nr. XI-874,
+2010-06-03, Žin., 2010, Nr. 72-3610 (2010-06-22)
  
 18 straipsnis. Laikinasis
 atstovas veiklos
@@ -678,8 +648,8 @@ turėtojas pats raštu kreipiasi dėl licencijos galiojimo panaikinimo;
 turėtojas per 12 mėnesių nuo licencijos išdavimo nepradeda pensijų kaupimo
 veiklos ar daugiau kaip 6 mėnesiams nutraukia šią veiklą.
  
-20 straipsnis. Valdymo įmonės
-reorganizavimo, pertvarkymo proceso ypatumai
+20 straipsnis. Valdymo įmonės reorganizavimo,
+pertvarkymo proceso ypatumai
 1. Prieš
 priimant sprendimą reorganizuoti, pertvarkyti valdymo įmonę, turi būti gautas
 Vertybinių popierių komisijos leidimas. 
@@ -687,12 +657,11 @@ Vertybinių popierių komisijos leidimas.
 sąlygose, be kitos civilinio kodekso, akcinių bendrovių įstatymo reikalaujamos
 informacijos, turi būti nurodomas pensijų fondų ir jų dalyvių skaičius,
 pateikiami duomenys apie perduodamus ir priimamus valdyti pensijų fondus ir jų
-turtą, apie valdymo įmonės nuosavą turtą, depozitoriumą, taip pat valdymo
-įmonės prievolių perdavimo ir priėmimo sąlygos ir terminai, turtinės ir
-neturtinės pensijų fondų dalyvių teisės po reorganizavimo, šių teisių ir
-pareigų įgijimo terminai. reorganizavimo sąlygoms turi pritarti visuotinis
-reorganizuojamos valdymo įmonės akcininkų susirinkimas ir vertybinių popierių
-komisija.
+turtą, apie valdymo įmonės nuosavą turtą, depozitoriumą, taip pat valdymo įmonės
+prievolių perdavimo ir priėmimo sąlygos ir terminai, turtinės ir neturtinės
+pensijų fondų dalyvių teisės po reorganizavimo, šių teisių ir pareigų įgijimo
+terminai. reorganizavimo sąlygoms turi pritarti visuotinis reorganizuojamos
+valdymo įmonės akcininkų susirinkimas ir vertybinių popierių komisija.
 3. Apie
 reorganizavimą, pertvarkymą valdymo įmonė privalo paskelbti Vertybinių popierių
 komisijos nustatyta tvarka.
@@ -934,8 +903,8 @@ pinigų sąskaitos numeriui banke ir pan.) apie tai informuoti kitą šalį;
 6) pensijų įmokų dydis, mokėjimo būdas,
 tvarka ir terminai;
 7) pensijų išmokų mokėjimo sąlygos;
-8) valdymo įmonės atsakomybė už savo įsipareigojimų
-nevykdymą;
+8) valdymo įmonės atsakomybė už savo
+įsipareigojimų nevykdymą;
 9) sutarties pakeitimo tvarka ir
 sąlygos;
 10) sutarties nutraukimo tvarka ir
@@ -967,11 +936,11 @@ straipsnis. Pensijų įmokos
 įmokos mokamos tik pinigais.
 2. Darbdavys
 gali mokėti visą įmoką ar jos dalį darbuotojo naudai.
-3. Įmokų
-mokėjimo nutraukimas ar kiti mokėjimo pažeidimai negali būti pagrindas
-nutraukti pensijų kaupimo sutartį ar apriboti pensijų fondo dalyvių nuosavybės
-teisę į pensijų turtą. Tokiu atveju dalyvis turi visas teises, numatytas šio
-Įstatymo 26 straipsnio 1 dalyje.
+3. Įmokų mokėjimo
+nutraukimas ar kiti mokėjimo pažeidimai negali būti pagrindas nutraukti pensijų
+kaupimo sutartį ar apriboti pensijų fondo dalyvių nuosavybės teisę į pensijų
+turtą. Tokiu atveju dalyvis turi visas teises, numatytas šio Įstatymo 26
+straipsnio 1 dalyje.
 4. Tais
 atvejais, kai įmokas moka ne pats pensijų fondo dalyvis, įmokos tampa pensijų
 fondo dalyvio nuosavybe nuo to momento, kai į apskaitos vienetus konvertuotos
@@ -1351,18 +1320,28 @@ Straipsnio pakeitimai:
 Nr. X-622, 2006-05-25,
 Žin., 2006, Nr. 65-2386 (2006-06-10)
  
-43
-straipsnis. Pensijų turto valdymo perdavimas depozitoriumui
-Jei valdymo
-įmonės teisė valdyti pensijų fondą pasibaigia, o kitai valdymo įmonei jis
-neperduotas, pensijų turto valdymą laikinai perima jo depozitoriumas. Tokiu
-atveju depozitoriumas turi visas valdymo įmonės teises ir pareigas, jei
-įstatymai arba pensijų fondo taisyklės nenumato ko kita. Depozitoriumas pensijų
-turto valdymą kitai valdymo įmonei privalo perduoti per 3 mėnesius nuo valdymo
-perėmimo. Jei per 3 mėnesius pensijų turto valdymas kitai valdymo įmonei
-neperduodamas, pensijų fondas turi būti panaikinamas ir pensijų turtas
-padalijamas jo dalyviams šio Įstatymo 34 straipsnio 8 dalies bei Vertybinių
-popierių komisijos nustatyta tvarka.
+43 straipsnis. Pensijų turto valdymo perdavimas depozitoriumui
+1. Jeigu valdymo
+įmonės teisė valdyti pensijų fondą sustabdoma arba pasibaigia jo valdymas, o
+kitai valdymo įmonei jis neperduodamas, valdymo įmonė privalo pranešti
+depozitoriumui apie teisės valdyti turtą sustabdymą ar pasibaigimą. Tokiu
+atveju pensijų turto valdymą laikinai perima jo depozitoriumas, kuris turi
+visas valdymo įmonės teises ir pareigas, jeigu įstatymai arba pensijų fondo
+taisyklės nenumato ko kita. 
+2.
+Depozitoriumas perima pensijų turto valdymą laikotarpiui, kuriam sustabdoma
+valdymo įmonės teisė valdyti pensijų fondą. Tuo atveju, kai valdymo įmonės
+teisė valdyti pensijų fondą pasibaigia, depozitoriumas pensijų turto valdymą
+privalo perduoti kitai valdymo įmonei per 3 mėnesius nuo pensijų turto valdymo
+perėmimo dienos. Jeigu
+per 
+3 mėnesius pensijų turto valdymas kitai valdymo įmonei neperduodamas, pensijų
+fondas turi būti panaikinamas ir jo pensijų turtas padalijamas jo dalyviams šio
+Įstatymo 34 straipsnio 8 dalies ir Vertybinių popierių komisijos nustatyta
+tvarka.
+Straipsnio pakeitimai:
+Nr. XI-874,
+2010-06-03, Žin., 2010, Nr. 72-3610 (2010-06-22)
  
 44
 straipsnis. Valdymo įmonės atskyrimas nuo depozitoriumo
@@ -1415,10 +1394,10 @@ taisykles veikiančioje, pripažintoje, prižiūrimoje ir visuomenei prieinamoje
 rinkoje, jei ši rinka yra nurodyta pensijų fondo taisyklėse, ir (arba)
 3) išleidžiami
 nauji perleidžiamieji vertybiniai popieriai, jeigu emisijos sąlygose yra
-numatytas įsipareigojimas įtraukti šiuos vertybinius popierius į prekybą reguliuojamoje
-rinkoje ir jeigu bus įtraukta į prekybą ne vėliau kaip per 1 metus nuo
-išleidimo (jei tokia rinka yra šios dalies 2 punkte nurodytoje valstybėje, ji
-turi būti nurodyta pensijų fondo taisyklėse), ir (arba)
+numatytas įsipareigojimas įtraukti šiuos vertybinius popierius į prekybą
+reguliuojamoje rinkoje ir jeigu bus įtraukta į prekybą ne vėliau kaip per 1
+metus nuo išleidimo (jei tokia rinka yra šios dalies 2 punkte nurodytoje
+valstybėje, ji turi būti nurodyta pensijų fondo taisyklėse), ir (arba)
 4) ne ilgesniam
 kaip 12 mėnesių terminui padėti indėliai, kuriuos galima atsiimti pareikalavus,
 esantys kredito įstaigoje, kurios buveinė yra valstybėje narėje arba kitoje
@@ -1430,8 +1409,8 @@ straipsnio 2 dalyje nurodytos pinigų rinkos priemonės ir (arba)
 49 straipsnio 1 dalyje nurodytų kolektyvinio investavimo subjektų investiciniai
 vienetai ar akcijos.
 2. Į pinigų
-rinkos priemones, kurios nėra įtrauktos į prekybą reguliuojamoje rinkoje, leidžiama
-investuoti tik tuo atveju, jei tų priemonių emisija ar emitentas yra
+rinkos priemones, kurios nėra įtrauktos į prekybą reguliuojamoje rinkoje,
+leidžiama investuoti tik tuo atveju, jei tų priemonių emisija ar emitentas yra
 reguliuojami siekiant apsaugoti investuotojus ir jų santaupas ir jeigu tos
 priemonės:
 1) išleistos
@@ -1457,22 +1436,23 @@ naudojama banko paskolomis finansuojamiems vertybiniams popieriams išleisti, o
 investicijos į tokias pinigų rinkos priemones apsaugotos ne mažiau, kaip
 nurodyta šios dalies 1–3 punktuose.
 3. Pensijų turtas negali būti investuotas į
-nekilnojamąjį turtą, tauriuosius metalus arba į suteikiančius į juos teises
-perleidžiamuosius vertybinius popierius.
+nekilnojamąjį turtą, tauriuosius metalus arba į suteikiančius į juos teises perleidžiamuosius
+vertybinius popierius.
 4. Pensijų turtas gali būti investuotas į
 išvestines finansines priemones tik rizikai valdyti. Valdymo įmonė išvestines
-finansines priemones turi teisę naudoti tik tuo atveju, kai pensijų fondo taisyklėse
-yra nurodyta, kokiomis išvestinėmis finansinėmis priemonėmis ir kokiais
-tikslais valdymo įmonė ketina naudotis. Kiekviena išvestinė finansinė priemonė
-turi būti pagrįsta konkrečiu investiciniu sandoriu (investicine pozicija). Toks
-sandoris ir jo rizikos valdymui naudojama išvestinė finansinė priemonė turi
-būti nurodyti valdymo įmonės periodinėse ataskaitose.
+finansines priemones turi teisę naudoti tik tuo atveju, kai pensijų fondo
+taisyklėse yra nurodyta, kokiomis išvestinėmis finansinėmis priemonėmis ir
+kokiais tikslais valdymo įmonė ketina naudotis. Kiekviena išvestinė finansinė
+priemonė turi būti pagrįsta konkrečiu investiciniu sandoriu (investicine
+pozicija). Toks sandoris ir jo rizikos valdymui naudojama išvestinė finansinė
+priemonė turi būti nurodyti valdymo įmonės periodinėse ataskaitose.
 5. Vertybinių
 popierių komisija nustato tvarką, kuria valdymo įmonė, siekdama veiksmingai
 valdyti finansinių priemonių portfelį, turi teisę naudoti būdus ir finansines
 priemones, susijusias su perleidžiamaisiais vertybiniais popieriais ar pinigų
 rinkos priemonėmis. Tokių būdų ar finansinių priemonių naudojimas nereiškia,
-kad leidžiama nukrypti nuo pensijų fondo taisyklėse nustatytų investavimo tikslų.
+kad leidžiama nukrypti nuo pensijų fondo taisyklėse nustatytų investavimo
+tikslų.
 Straipsnio pakeitimai:
 Nr. X-622, 2006-05-25,
 Žin., 2006, Nr. 65-2386 (2006-06-10)
@@ -1493,21 +1473,22 @@ grynųjų aktyvų, su sąlyga, kad tokių investicijų bendra suma nebus didesn�
 3. Investicijos
 į indėlius vienoje kredito įstaigoje negali sudaryti daugiau kaip 20 procentų
 pensijų turtą sudarančių grynųjų aktyvų. 
-4. Bendra
-investicijų į vieno asmens išleistus perleidžiamuosius vertybinius popierius,
-pinigų rinkos priemones ar indėlius suma negali būti didesnė kaip 20 procentų
-pensijų turtą sudarančių grynųjų aktyvų. 
-5. Investicijos į valstybės narės ar jos savivaldybių,
-kitos valstybės ar tarptautinės organizacijos, kuriai priklauso bent viena
-valstybė narė, išleistus arba garantuotus vieno emitento perleidžiamuosius
-vertybinius popierius ar pinigų rinkos priemones negali būti didesnės kaip 35
-procentai pensijų turtą sudarančių grynųjų aktyvų vertės. Vertybinių popierių
-komisija į šioje dalyje numatytus perleidžiamuosius vertybinius popierius ar
-pinigų rinkos priemones gali leisti investuoti ir didesnę dalį grynųjų aktyvų,
-jei tokiu atveju dalyvių interesai būtų pakankamai apsaugoti, investuota į ne
-mažiau kaip 6 emisijų perleidžiamuosius vertybinius popierius ar pinigų rinkos
-priemones, o į vienos emisijos perleidžiamuosius vertybinius popierius ar
-pinigų rinkos priemones investuota ne daugiau kaip 30 procentų grynųjų aktyvų.
+4. Bendra investicijų
+į vieno asmens išleistus perleidžiamuosius vertybinius popierius, pinigų rinkos
+priemones ar indėlius suma negali būti didesnė kaip 20 procentų pensijų turtą
+sudarančių grynųjų aktyvų. 
+5. Investicijos į valstybės narės ar jos
+savivaldybių, kitos valstybės ar tarptautinės organizacijos, kuriai priklauso
+bent viena valstybė narė, išleistus arba garantuotus vieno emitento
+perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones negali būti
+didesnės kaip 35 procentai pensijų turtą sudarančių grynųjų aktyvų vertės.
+Vertybinių popierių komisija į šioje dalyje numatytus perleidžiamuosius
+vertybinius popierius ar pinigų rinkos priemones gali leisti investuoti ir
+didesnę dalį grynųjų aktyvų, jei tokiu atveju dalyvių interesai būtų pakankamai
+apsaugoti, investuota į ne mažiau kaip 6 emisijų perleidžiamuosius vertybinius
+popierius ar pinigų rinkos priemones, o į vienos emisijos perleidžiamuosius
+vertybinius popierius ar pinigų rinkos priemones investuota ne daugiau kaip 30
+procentų grynųjų aktyvų.
 6. Investicijos į obligacijas, išleistas
 tokios valstybėje narėje registruotą buveinę turinčios kredito įstaigos, kuri,
 siekiant apsaugoti obligacijų savininkų interesus, yra tos valstybės specialiai
@@ -1667,8 +1648,8 @@ pasirinkimo galimybes.
 Straipsnio pakeitimai:
 Nr. X-622, 2006-05-25,
 Žin., 2006, Nr. 65-2386 (2006-06-10)
-Nr. X-1587, 2008-06-05,
-Žin., 2008, Nr. 71-2713 (2008-06-21)
+Nr. X-1587,
+2008-06-05, Žin., 2008, Nr. 71-2713 (2008-06-21)
  
 52
 straipsnis. Apskaitos vieneto vertės skelbimas
@@ -1688,9 +1669,9 @@ pabaigos;
 finansinių metų pirmųjų 6 mėnesių (toliau − pusmečio) ataskaitą – per 2
 mėnesius nuo ataskaitinio pusmečio pabaigos.
 2. Vertybinių
-popierių komisijos reikalavimu valdymo įmonė privalo parengti nurodyto laikotarpio
-finansines ataskaitas ir pateikti jas Vertybinių popierių komisijai šios
-nustatyta tvarka.
+popierių komisijos reikalavimu valdymo įmonė privalo parengti nurodyto
+laikotarpio finansines ataskaitas ir pateikti jas Vertybinių popierių komisijai
+šios nustatyta tvarka.
 3. Metų
 ataskaitoje esantys apskaitos duomenys turi būti audituoti. Auditoriaus išvada,
 įskaitant išlygas, turi būti pateikiama kaip metų ataskaitos priedas.
@@ -1734,8 +1715,8 @@ VALDYMO
 55
 straipsnis. Apskaita ir atskaitomybė
 1. Valdymo
-įmonės nuosavo turto ir pensijų turto buhalterinės apskaitos ir finansinės atskaitomybės
-tvarką nustato Vyriausybė ar jos įgaliota institucija.
+įmonės nuosavo turto ir pensijų turto buhalterinės apskaitos ir finansinės
+atskaitomybės tvarką nustato Vyriausybė ar jos įgaliota institucija.
 2.
 Depozitoriumas, su kuriuo valdymo įmonė yra sudariusi pensijų turto saugojimo
 sutartį, privalo valdymo įmonei pateikti visus dokumentus, reikalingus
@@ -1760,8 +1741,8 @@ Nr. X-1587,
 komisijos funkcijos prižiūrint valdymo įmonių ir depozitoriumų veiklą
 1. Vertybinių
 popierių komisija atlieka šias funkcijas:
-1) rengia, tvirtina, keičia ir
-pripažįsta netekusiais galios šio Įstatymo numatytus teisės aktus;
+1) rengia, tvirtina, keičia ir pripažįsta
+netekusiais galios šio Įstatymo numatytus teisės aktus;
 2) teikia
 oficialius išaiškinimus ir rekomendacijas valdymo įmonių veiklos klausimais;
 3) išduoda
@@ -1785,66 +1766,87 @@ priežiūrai reikalinga informacija;
 popierių komisija, atstovaudama pensijų fondo dalyvių interesams, turi teisę
 kreiptis į teismą dėl viešojo intereso gynimo.
  
-58
-straipsnis. Vertybinių popierių komisijos teisė atlikti patikrinimus
+58 straipsnis. Vertybinių popierių komisijos teisės nagrinėjant
+pensijų kaupimo veiklą reglamentuojančių teisės aktų pažeidimus
 1. Vertybinių
-popierių komisija, siekdama nustatyti, kaip valdymo įmonės ir depozitoriumai
-laikosi šio Įstatymo ir jo pagrindu priimtų teisės aktų, turi teisę organizuoti
-ir atlikti patikrinimus.
+popierių komisija, siekdama nustatyti, kaip laikomasi šio Įstatymo ir jo
+pagrindu priimtų teisės aktų, turi teisę organizuoti ir atlikti patikrinimus.
 2. Atlikdami
-patikrinimą, Vertybinių popierių komisijos darbuotojai turi teisę:
-1) gauti žodžiu
-ar raštu asmenų, susijusių su tiriamais pažeidimais, paaiškinimus,
-reikalauti, kad šie asmenys atvyktų duoti paaiškinimų į patikrinimą atliekančio
-darbuotojo tarnybines patalpas;
-2) pateikę
-tarnybinį pažymėjimą ir Vertybinių popierių komisijos ar jos įgalioto
-darbuotojo motyvuotą sprendimą, atlikti patikrinimą (reviziją), laisvai įeiti į
-valdymo įmonių, depozitoriumų ir kitų juridinių asmenų, susijusių su galimais
-pažeidimais, patalpas, tikrinti dokumentus, apskaitos registrus bei kitus
-patikrinimui reikalingus informacijos šaltinius ir pagal tikrinimo medžiagą iš
-ekspertizės įstaigų gauti išvadas;
-3) reikalauti
-padaryti apskaitos dokumentų, sutarčių, įsakymų ir kitų dokumentų, kuriuos Vertybinių
-popierių komisija laiko svarbiais tyrimui, kopijas;
-4) laikinai
-paimti tikrinamų valdymo įmonių, depozitoriumų dokumentus, kurie gali būti
-panaudojami kaip pažeidimo įrodymai, palikdami motyvuotą sprendimą dėl
-dokumentų paėmimo ir paimtų dokumentų apyrašą;
-5) pateikę
-Vertybinių popierių komisijos motyvuotą sprendimą, gauti iš banko įstaigų
-duomenis, pažymas ir finansinių operacijų, susijusių su tikrinamuoju objektu,
-dokumentų kopijas.
-3. Šio
-straipsnio 2 dalyje numatytoms teisėms įgyvendinti Vertybinių popierių komisija
-gali pasitelkti policijos pareigūnus.
+patikrinimą, Vertybinių popierių komisijos darbuotojai turi Finansinių priemonių rinkų įstatymo 85 straipsnio 2 dalyje
+nustatytas teises. Šioms teisėms įgyvendinti Vertybinių popierių komisija gali
+pasitelkti policijos pareigūnus.
+3. Vertybinių popierių komisija,
+turėdama pagrindą įtarti, kad valdymo įmonės, depozitoriumo ar kitų asmenų
+atliekami veiksmai pažeidžia šio Įstatymo ar jo pagrindu priimtų Vertybinių
+popierių komisijos nutarimų nuostatas, ir siekdama išvengti esminės žalos ar
+nepataisomų pasekmių pensijų kaupimo dalyviams, turi teisę įpareigoti nutraukti
+tokią veiklą, kol bus atliktas tyrimas ir priimtas Vertybinių popierių
+komisijos sprendimas dėl įtariamo pažeidimo. Vertybinių
+popierių komisijos sprendimas įpareigoti nutraukti veiklą gali būti priimtas
+tik gavus Vilniaus apygardos administracinio teismo leidimą.
+4. Vertybinių
+popierių komisijos sprendimas įpareigoti nutraukti veiklą gali būti skundžiamas
+Vilniaus apygardos administraciniam teismui per vieną mėnesį nuo sprendimo
+priėmimo dienos. Skundo padavimas sprendimo vykdymo nesustabdo.
+5. Jeigu
+Vertybinių popierių komisija nustato teisės aktų, reglamentuojančių riziką
+ribojančius reikalavimus, pažeidimus arba jeigu valdymo įmonės veikla kelia
+grėsmę įmonės veiklos stabilumui ir patikimumui, Vertybinių popierių komisija
+turi teisę valdymo įmonei nustatyti individualius veiklos riziką ribojančių
+normatyvų dydžius ar papildomus reikalavimus dėl veiklos rizikos ribojimo.
+Straipsnio pakeitimai:
+Nr. XI-874,
+2010-06-03, Žin., 2010, Nr. 72-3610 (2010-06-22)
  
-59
-straipsnis. Piniginės baudos už Įstatymo pažeidimą
-Vertybinių
+59 straipsnis. Piniginės baudos už šio Įstatymo pažeidimą
+1. Vertybinių
 popierių komisija, vadovaudamasi Finansinių priemonių rinkų įstatymo 96 straipsnyje
 nustatyta tvarka, turi teisę skirti baudas:
 1) juridiniams
-asmenims, veikiantiems kaip valdymo įmonės, bet neturintiems šio Įstatymo
+asmenims, veikiantiems kaip valdymo įmonės, bet neturintiems šiame Įstatyme
 nustatytos licencijos, – iki 200 tūkstančių litų;
-2) valdymo
-įmonėms, kurios sudaro pensijų kaupimo sutartis neturėdamos patvirtintų pensijų
-fondo taisyklių, – iki 100 tūkstančių litų;
-3) valdymo
-įmonėms, pažeidusioms šiame Įstatyme nustatytą pensijų fondo turto investavimo
-tvarką, kai dėl to kyla grėsmė dalyvių turtiniams interesams, – iki 300
+2) juridiniams
+asmenims, pažeidusiems pensijų fondo turto investavimo tvarką, – iki 300
 tūkstančių litų;
-4) valdymo
-įmonėms, nevykdančioms arba netinkamai vykdančioms šio Įstatymo 6 straipsnyje
-nustatytas pareigas, – iki 100 tūkstančių litų;
+3) juridiniams
+asmenims, pažeidusiems šio Įstatymo ketvirtajame skirsnyje nustatytus
+reikalavimus, – iki 200 tūkstančių litų;
+4) juridiniams
+asmenims, nevykdantiems arba netinkamai vykdantiems šio Įstatymo 6 straipsnyje
+nustatytas pareigas, – iki 200 tūkstančių litų;
 5) juridiniams
-asmenims, pažeidusiems kitus šio Įstatymo reikalavimus, – iki 100 tūkstančių
-litų.
+asmenims, kurie sudaro pensijų kaupimo sutartis neturėdami patvirtintų pensijų
+fondo taisyklių, – iki 100 tūkstančių litų;
+6) juridiniams
+asmenims, pažeidusiems teisės aktų reikalavimus, nustatytus paslaugų siūlymui
+ir reklamai, – iki 100 tūkstančių litų;
+7) juridiniams
+asmenims, nevykdantiems Vertybinių popierių komisijos nurodymų, neteikiantiems
+Vertybinių popierių komisijai šiame ir kituose įstatymuose nurodytos
+informacijos arba trukdantiems Vertybinių popierių komisijai ar jos įgaliotiems
+asmenims atlikti tyrimus ar patikrinimus, – iki 100 tūkstančių litų;
+8) juridiniams
+asmenims, pažeidusiems kitus šiame Įstatyme ir jo įgyvendinamuosiuose teisės
+aktuose nustatytus reikalavimus, – iki 100 tūkstančių litų.
+2. Jeigu dėl šio
+straipsnio 1 dalies 1–6 punktuose išvardytų pažeidimų padarymo buvo neteisėtai
+gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir
+tokių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos
+dydis viršijo minėtuose punktuose nurodytų baudų dydžius, Vertybinių popierių
+komisija turi teisę skirti baudą iki dvigubo neteisėtai gautų pajamų, kitokios
+turtinės naudos, išvengtų nuostolių ar padarytos žalos dydžio.
+3. Šio straipsnio 1 dalyje nustatytų
+sankcijų taikymas juridiniams asmenims neatleidžia jų vadovų ar darbuotojų nuo
+įstatymų nustatytos civilinės, administracinės ir baudžiamosios atsakomybės,
+taip pat neužkerta kelio Vertybinių popierių komisijai svarstyti klausimą dėl
+jos išduotų licencijų galiojimo sustabdymo ar panaikinimo.
 Straipsnio pakeitimai:
 Nr. X-622, 2006-05-25,
 Žin., 2006, Nr. 65-2386 (2006-06-10)
 Nr. X-1587,
 2008-06-05, Žin., 2008, Nr. 71-2713 (2008-06-21)
+Nr. XI-874,
+2010-06-03, Žin., 2010, Nr. 72-3610 (2010-06-22)
  
 Skelbiu šį Lietuvos Respublikos
 Seimo priimtą įstatymą.
@@ -1861,8 +1863,8 @@ Pakeitimai:
 1.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-195, 2001 03 01, Žin., 2001, Nr. 25-825
-(2001 03 23)
+Nr. IX-195, 2001 03 01, Žin., 2001, Nr.
+25-825 (2001 03 23)
 PENSIJŲ
 FONDŲ ĮSTATYMO 2, 4, 5, 6, 7, 8, 9, 10, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25,
 26, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 39, 40, 41, 42 STRAIPSNIŲ PAKEITIMO
@@ -1930,11 +1932,16 @@ PAPILDOMO SAVANORIŠKO PENSIJŲ
 KAUPIMO ĮSTATYMO 2, 3, 4, 6, 7, 8, 10, 11, 14, 34, 46, 47, 48, 49, 50, 51, 56,
 59 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
-***
-Pabaiga ***
- 
- 
-Redagavo:
-Aušrinė Trapinskienė (2008-06-28)
+8.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-874,
+2010-06-03, Žin., 2010, Nr. 72-3610 (2010-06-22)
+PAPILDOMO
+SAVANORIŠKO PENSIJŲ KAUPIMO ĮSTATYMO 10, 11, 16, 17, 43, 58, 59 STRAIPSNIŲ
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+*** Pabaiga ***
+Redagavo Aušrinė Trapinskienė
+(2010-06-22)
                  
 autrap@lrs.lt
