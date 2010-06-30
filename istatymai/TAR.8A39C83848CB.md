@@ -3596,11 +3596,11 @@ nuo juridinio asmens.
 asmens pavadinimas neturi prieštarauti viešajai tvarkai ar gerai moralei ir
 klaidinti visuomenę dėl juridinio asmens steigėjo, dalyvio, buveinės, veiklos
 tikslo, teisinės formos, tapatumo ar panašumo į kitų juridinių asmenų
-pavadinimus, žinomesnių Lietuvos visuomenei užsienio įmonių, įstaigų ir organizacijų
-vardus, prekių ir paslaugų ženklus. Juridinio asmens pavadinimas neturi
-klaidinti dėl jo tapatumo ar panašumo į anksčiau už juridinį asmenį Lietuvos
-Respublikoje pateiktus registruoti, įregistruotus ar pripažintus žinomus prekių
-ir paslaugų ženklus.
+pavadinimus, žinomesnių Lietuvos visuomenei užsienio įmonių, įstaigų ir
+organizacijų vardus, prekių ir paslaugų ženklus. Juridinio asmens pavadinimas
+neturi klaidinti dėl jo tapatumo ar panašumo į anksčiau už juridinį asmenį
+Lietuvos Respublikoje pateiktus registruoti, įregistruotus ar pripažintus
+žinomus prekių ir paslaugų ženklus.
 4. Juridinio asmens pavadinimas atskirai neregistruojamas ir yra
 saugomas nuo tos dienos, kai juridinių asmenų registrui pateikiamas prašymas
 įregistruoti juridinį asmenį, arba nuo teisės akto priėmimo, jei taikoma šio
@@ -3632,9 +3632,10 @@ pavadinimas
 1. Juridinio
 asmens steigėjai gali kreiptis į juridinių asmenų registrą dėl steigiamo
 juridinio asmens pavadinimo laikino įtraukimo į juridinių asmenų registrą.
-2. Steigiamo juridinio
-asmens pavadinimui taikomos tokios pačios taisyklės kaip ir juridinio asmens
-pavadinimui, išskyrus šio kodekso 2.39 straipsnio 4 dalį ir 2.42 straipsnį.
+2. Steigiamo
+juridinio asmens pavadinimui taikomos tokios pačios taisyklės kaip ir juridinio
+asmens pavadinimui, išskyrus šio kodekso 2.39 straipsnio 4 dalį ir 2.42
+straipsnį.
 3. Steigiamo
 juridinio asmens pavadinimas įtraukiamas į juridinių asmenų registrą šešiems
 mėnesiams ir šiam terminui pasibaigus išbraukiamas nepranešus apie tai
@@ -3692,9 +3693,9 @@ kuriame kaupiami ir saugomi duomenys apie tą juridinį asmenį.
 2. Jeigu
 juridinis asmuo yra bankrutuojantis ar likviduojamas, apie tai taip pat turi
 būti pažymima šio straipsnio 1 dalyje nurodytuose dokumentuose.
-3. Jeigu juridinis
-asmuo yra pridėtinės vertės mokesčio mokėtojas, tai mokėtojo kodas turi būti
-taip pat pažymimas šio straipsnio 1 dalyje nurodytuose dokumentuose.
+3. Jeigu
+juridinis asmuo yra pridėtinės vertės mokesčio mokėtojas, tai mokėtojo kodas
+turi būti taip pat pažymimas šio straipsnio 1 dalyje nurodytuose dokumentuose.
 4. Jei šio
 straipsnio 1 dalyje nurodytuose dokumentuose yra minimas juridinio asmens
 kapitalas, tai turi būti nurodomas įstatinis kapitalas ir apmokėto įstatinio
@@ -3735,8 +3736,8 @@ būti notaro patvirtintas, išskyrus įstatymų nustatytas išimtis.
 1. Juridinio
 asmens įstatuose, o jeigu juridinis asmuo neturi įstatų, – steigimo sandoryje
 arba bendruosiuose nuostatuose, jeigu juridinis asmuo veikia pagal bendruosius
-nuostatus, arba teisės akte, jei viešasis juridinis asmuo veikia pagal teisės aktą,
-turi būti nurodyta:
+nuostatus, arba teisės akte, jei viešasis juridinis asmuo veikia pagal teisės
+aktą, turi būti nurodyta:
 1) juridinio
 asmens pavadinimas;
 2) juridinio
@@ -3785,10 +3786,10 @@ juridinio asmens buveinė, nurodyta juridinių asmenų registre ar sandoryje, ir
 jo nuolatinio valdymo organo buvimo vieta nesutampa, tai tretieji asmenys
 nuolatinio valdymo organo buvimo vietą turi teisę laikyti juridinio asmens
 buveine.
-3. Visas
-susirašinėjimas su juridiniu asmeniu yra laikomas tinkamu, kai jis vyksta
-juridinio asmens buveinės adresu, taip pat atsižvelgiant į šio straipsnio 2
-dalį, jeigu juridinis asmuo aiškiai nenurodė kitaip.
+3. Visas susirašinėjimas
+su juridiniu asmeniu yra laikomas tinkamu, kai jis vyksta juridinio asmens
+buveinės adresu, taip pat atsižvelgiant į šio straipsnio 2 dalį, jeigu
+juridinis asmuo aiškiai nenurodė kitaip.
 4. Sprendimą dėl
 juridinio asmens buveinės priima steigėjai. Sprendimas dėl juridinio asmens
 buveinės pakeitimo priimamas juridinio asmens steigimo dokumentų nustatyta
@@ -3796,22 +3797,22 @@ tvarka, jeigu kitaip nenumatyta atskirų juridinių asmenų veiklą
 reglamentuojančiuose įstatymuose.
 Straipsnio
 pakeitimai:
-Nr. XI-595, 2009-12-22,
-Žin., 2009, Nr. 159-7202 (2009-12-31)
+Nr. XI-595,
+2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)
  
 2.50 straipsnis. Juridinių asmenų atsakomybė pagal
 savo prievoles
 1. Juridinis
-asmuo atsako pagal savo prievoles jam nuosavybės ar patikėjimo teise
-priklausančiu turtu.
+asmuo atsako pagal savo prievoles jam nuosavybės ar patikėjimo teise priklausančiu
+turtu.
 2. Juridinis
 asmuo neatsako pagal juridinio asmens dalyvio prievoles, o pastarasis neatsako
 pagal juridinio asmens prievoles, išskyrus įstatymuose arba juridinio asmens
 steigimo dokumentuose numatytus atvejus.
 3. Kai juridinis
-asmuo negali įvykdyti prievolės dėl juridinio asmens dalyvio nesąžiningų veiksmų,
-juridinio asmens dalyvis atsako pagal juridinio asmens prievolę savo turtu
-subsidiariai.
+asmuo negali įvykdyti prievolės dėl juridinio asmens dalyvio nesąžiningų
+veiksmų, juridinio asmens dalyvis atsako pagal juridinio asmens prievolę savo
+turtu subsidiariai.
 4. Juridiniai
 asmenys skirstomi į ribotos ir neribotos civilinės atsakomybės asmenis. Jeigu
 prievolėms įvykdyti neužtenka neribotos civilinės atsakomybės juridinio asmens
@@ -3899,12 +3900,12 @@ juridinis asmuo ar kita organizacija.
 juridinis asmuo ar kita organizacija, įregistravę filialą, privalo informuoti
 juridinių asmenų registrą apie pateiktų registrui juridinio asmens ar kitos
 organizacijos dokumentų ir duomenų pasikeitimus ir apie juridinio asmens ar
-kitos organizacijos teisinį statusą, pateikti juridinio asmens, kitos organizacijos
-ar filialo metinių finansinių ataskaitų rinkinį, jeigu užsienio juridinio
-asmens ar kitos organizacijos metinių finansinių ataskaitų rinkinys sudaromas
-vadovaujantis skirtingais, negu taikomi Europos Sąjungoje, reikalavimais ir
-finansinė atskaitomybė būtina pagal Lietuvos Respublikos įstatymus, taikomus
-užsienio juridiniam asmeniui ar kitai organizacijai.
+kitos organizacijos teisinį statusą, pateikti juridinio asmens, kitos
+organizacijos ar filialo metinių finansinių ataskaitų rinkinį, jeigu užsienio
+juridinio asmens ar kitos organizacijos metinių finansinių ataskaitų rinkinys
+sudaromas vadovaujantis skirtingais, negu taikomi Europos Sąjungoje,
+reikalavimais ir finansinė atskaitomybė būtina pagal Lietuvos Respublikos
+įstatymus, taikomus užsienio juridiniam asmeniui ar kitai organizacijai.
 Straipsnio
 pakeitimai:
 Nr.
@@ -3924,8 +3925,8 @@ tik tarp užsienio juridinių asmenų ar kitų organizacijų, įsteigusių atsto
 arba su ja susijusių įmonių, įstaigų ar organizacijų ir atstovybės.
 3. Juridinio asmens atstovybė nėra juridinis asmuo.
  
-2.57 straipsnis. Juridinio asmens
-atstovybės nuostatai
+2.57 straipsnis. Juridinio
+asmens atstovybės nuostatai
 1. Juridinio
 asmens atstovybė veikia pagal juridinio asmens patvirtintus nuostatus, kuriuose
 turi būti nurodyta:
@@ -4026,8 +4027,8 @@ Vadovaujančiąją juridinių asmenų registro tvarkymo įstaigą ir registro tv
 įstaigą (registro tvarkytoją) nustato įstatymas.
 Straipsnio
 pakeitimai:
-Nr. XI-595, 2009-12-22,
-Žin., 2009, Nr. 159-7202 (2009-12-31)
+Nr. XI-595,
+2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)
  
 2.63 straipsnis. Juridinio asmens įsteigimo momentas
 1. Juridinis
@@ -4102,8 +4103,8 @@ asmens teisinė forma;
 asmens kodas; 
 4) juridinio
 asmens buveinė (adresas); 
-5) juridinio
-asmens organai; 
+5) juridinio asmens
+organai; 
 6) juridinio
 asmens valdymo organų nariai (vardas, pavardė, asmens kodas, gyvenamoji vieta);
 7) juridinio asmens valdymo organų nariai ir
@@ -4120,8 +4121,8 @@ asmens teisinis statusas;
 asmens pasibaigimas; 
 12) juridinio
 asmens registro duomenų ir dokumentų keitimo datos; 
-13) juridinio asmens
-finansiniai metai;
+13) juridinio
+asmens finansiniai metai;
 14) kiti
 įstatymų numatyti duomenys.
 2. Registruojant
@@ -4305,8 +4306,7 @@ veiksmais padarytus nuostolius.
 straipsnio 1 dalyje nurodytais veiksmais juridiniam asmeniui padarytus
 nuostolius, taip pat nuostolius kitiems asmenims, padarytus tvarkant juridinių
 asmenų registrą, atlygina valstybė. Žala išieškoma teismo tvarka. Valstybei
-civilinėse bylose dėl žalos atlyginimo atstovauja Vyriausybės įgaliota
-institucija.
+civilinėse bylose dėl žalos atlyginimo atstovauja Vyriausybės įgaliota institucija.
  
 VI SKYRIUS
 JURIDINIŲ ASMENŲ TEISNUMAS
@@ -4353,8 +4353,8 @@ licencijavimo taisykles, jeigu kiti įstatymai nenustato ko kita.
 taisyklėse nurodoma:
 1)
 licencijuojama veikla;
-2) licenciją išduodanti
-institucija ir jos įgaliojimai;
+2) licenciją
+išduodanti institucija ir jos įgaliojimai;
 3) licencijai
 gauti reikalingi dokumentai;
 4) pateiktų
@@ -4428,8 +4428,8 @@ steigimo dokumentus.
 2. Įstatymų ar
 steigimo dokumentų nustatytais atvejais juridinis asmuo gali įgyti civilines
 teises ir pareigas per savo dalyvius.
-3. Juridinio
-asmens dalyviai turi teisę kreiptis į teismą su ieškiniu, prašydami uždrausti
+3. Juridinio asmens
+dalyviai turi teisę kreiptis į teismą su ieškiniu, prašydami uždrausti
 juridinio asmens valdymo organams ateityje sudaryti sandorius,
 prieštaraujančius juridinio asmens veiklos tikslams ar peržengiančius juridinio
 asmens valdymo organo kompetenciją.
@@ -4496,8 +4496,8 @@ galo nepatenkina.
 2.84 straipsnis. Sandoriai, sudaryti
 pažeidžiant viešojo juridinio asmens valdymo organų kompetenciją
 1. Sandoriai,
-kuriuos sudarė viešojo juridinio asmens valdymo organai, pažeisdami savo kompetenciją,
-nesukelia prievolių juridiniam asmeniui.
+kuriuos sudarė viešojo juridinio asmens valdymo organai, pažeisdami savo
+kompetenciją, nesukelia prievolių juridiniam asmeniui.
 2. Jeigu
 juridinis asmuo vėliau pritaria sandoriui, sandoris pradeda galioti nuo jo
 sudarymo.
@@ -4576,10 +4576,10 @@ neturi teisės pačios balsuoti ar išduoti įgaliojimus kitiems asmenims balsuo
 juridinio asmens dalyvių susirinkime įgaliojime nurodytais klausimais.
 4. Vienai iš
 balsavimo sutarties šalių pažeidus balsavimo sutartį, teismas turi teisę
-įpareigoti perskaičiuoti juridinio asmens dalyvių susirinkimo balsavimo
-rezultatus pagal balsavimo sutartį arba pripažinti juridinio asmens dalyvių
-susirinkimo sprendimą negaliojančiu, jei balsavimas pažeidžiant sutartį turėjo
-lemiamos įtakos sprendimo priėmimui ar nepriėmimui.
+įpareigoti perskaičiuoti juridinio asmens dalyvių susirinkimo balsavimo rezultatus
+pagal balsavimo sutartį arba pripažinti juridinio asmens dalyvių susirinkimo
+sprendimą negaliojančiu, jei balsavimas pažeidžiant sutartį turėjo lemiamos
+įtakos sprendimo priėmimui ar nepriėmimui.
  
 2.89 straipsnis. Balsavimo teisės perleidimas
 1. Juridinio
@@ -4587,12 +4587,11 @@ asmens dalyvis gali perleisti teisę balsuoti juridinio asmens dalyvių
 susirinkime kitiems asmenims ir nustatyti balsavimo teisės įgyvendinimo tvarką
 ir būdus.
 2. Balsavimo
-teisės perleidimo sutartis įsigalioja nuo jos ir duomenų apie perleidžiamų
-balsų skaičių, perleidimo terminą, balsavimo teisės turėjimo pagrindą,
-juridinio asmens dalyvį, perleidžiantį balsavimo teisę, ir asmenį, įgaunantį
-balsavimo teisę, atskleidimo juridiniam asmeniui (tiek, kiek reikalauja
-juridinio asmens steigimo dokumentai, įstatymai ar nusistovėjusi juridinio
-asmens praktika).
+teisės perleidimo sutartis įsigalioja nuo jos ir duomenų apie perleidžiamų balsų
+skaičių, perleidimo terminą, balsavimo teisės turėjimo pagrindą, juridinio
+asmens dalyvį, perleidžiantį balsavimo teisę, ir asmenį, įgaunantį balsavimo
+teisę, atskleidimo juridiniam asmeniui (tiek, kiek reikalauja juridinio asmens
+steigimo dokumentai, įstatymai ar nusistovėjusi juridinio asmens praktika).
 3. Juridinis
 asmuo privalo balsavimo teises perleidžiančiam juridinio asmens dalyviui ir
 asmeniui, įgaunančiam balsavimo teisę, pranešti ir artimiausiame juridinio
@@ -4715,9 +4714,9 @@ organai, jei yra šios aplinkybės:
 1) juridinių asmenų reorganizavimo sąlygos yra paskelbtos, kaip
 nustatyta šio kodekso 2.99 straipsnio 2 dalyje, ne vėliau kaip likus
 trisdešimčiai dienų iki prijungiamo juridinio asmens dalyvių susirinkimo;
-2) bet kuris
-juridinio asmens dalyvis turi teisę susipažinti su šio straipsnio 4 dalyje
-nurodytais dokumentais;
+2) bet kuris juridinio
+asmens dalyvis turi teisę susipažinti su šio straipsnio 4 dalyje nurodytais
+dokumentais;
 3) vienas ar
 keli juridinio asmens dalyviai, turintys ne mažiau kaip 1/20 balsų juridinio
 asmens dalyvių susirinkime, turi teisę reikalauti, kad būtų sušauktas juridinio
@@ -4736,14 +4735,14 @@ reorganizavimo juridinio asmens dalyviai turi teisę susipažinti su
 reorganizavimo sąlygomis, po reorganizavimo tęsiančių veiklą ar naujai kuriamų
 juridinių asmenų steigimo dokumentais arba jų projektais ir visų reorganizavime
 dalyvaujančių juridinių asmenų valdymo organų parengtomis ataskaitomis,
-ekspertų vertinimais bei praėjusių trejų finansinių metų finansinėmis atskaitomybėmis.
-Jei reorganizavimo sąlygos buvo sudarytos praėjus šešiems mėnesiams po nors
-vieno dalyvaujančio reorganizavime juridinio asmens finansinių metų pabaigos,
-pagal tas pačias taisykles kaip ir prieš tai sudaryta finansinė atskaitomybė
-turi būti sudaroma ir juridinio asmens dalyviams pateikiama tarpinė finansinė
-atskaitomybė. Ji neturi būti sudaryta anksčiau nei likus trims mėnesiams iki
-reorganizavimo sąlygų sudarymo. Kiekvienas juridinio asmens dalyvis turi teisę
-gauti visų išvardytų dokumentų kopijas.
+ekspertų vertinimais bei praėjusių trejų finansinių metų finansinėmis
+atskaitomybėmis. Jei reorganizavimo sąlygos buvo sudarytos praėjus šešiems
+mėnesiams po nors vieno dalyvaujančio reorganizavime juridinio asmens
+finansinių metų pabaigos, pagal tas pačias taisykles kaip ir prieš tai sudaryta
+finansinė atskaitomybė turi būti sudaroma ir juridinio asmens dalyviams
+pateikiama tarpinė finansinė atskaitomybė. Ji neturi būti sudaryta anksčiau nei
+likus trims mėnesiams iki reorganizavimo sąlygų sudarymo. Kiekvienas juridinio
+asmens dalyvis turi teisę gauti visų išvardytų dokumentų kopijas.
 5. Juridinių
 asmenų valdymo organai privalo juridinių asmenų dalyviams pranešti apie visus
 esminius pasikeitimus, įvykusius po reorganizavimo sąlygų sudarymo ir iki
@@ -4753,13 +4752,13 @@ pasikeitimus juridinių asmenų dalyvių susirinkime.
  
 2.97 straipsnis. Juridinių asmenų reorganizavimo
 būdai 
-1. Juridiniai
-asmenys gali būti reorganizuojami jungimo ir skaidymo būdu. 
+1. Juridiniai asmenys
+gali būti reorganizuojami jungimo ir skaidymo būdu. 
 2. Galimi
 juridinių asmenų jungimo būdai yra prijungimas ir sujungimas.
 3. Prijungimas – tai vieno ar daugiau juridinių
-asmenų prijungimas prie kito juridinio asmens, kuriam pereina visos
-reorganizuojamo juridinio asmens teisės ir pareigos.
+asmenų prijungimas prie kito juridinio asmens, kuriam pereina visos reorganizuojamo
+juridinio asmens teisės ir pareigos.
 4. Sujungimas –
 tai dviejų ar daugiau juridinių asmenų susivienijimas į naują juridinį asmenį,
 kuriam pereina visos reorganizuotų juridinių asmenų teisės ir pareigos.
@@ -4790,9 +4789,9 @@ teisines formas, nustatytas išimtis.
 atsako pagal juridinio asmens prievoles, nepaisant reorganizavimo sąlygų,
 pasibaigusio reorganizuoto juridinio asmens dalyviai trejus metus yra
 subsidiariai atsakingi pagal pasibaigusio juridinio asmens prievoles,
-atsiradusias iki teisių ir pareigų perėjimo tęsiančiam veiklą juridiniam asmeniui.
-Jeigu juridinio asmens dalyvis netampa po reorganizavimo tęsiančio veiklą
-juridinio asmens dalyviu tiek reorganizavimo metu, tiek vėliau, jis
+atsiradusias iki teisių ir pareigų perėjimo tęsiančiam veiklą juridiniam
+asmeniui. Jeigu juridinio asmens dalyvis netampa po reorganizavimo tęsiančio
+veiklą juridinio asmens dalyviu tiek reorganizavimo metu, tiek vėliau, jis
 neatleidžiamas nuo šioje dalyje nurodytos atsakomybės.
  
 2.99 straipsnis. Reorganizavimo sąlygos ir
@@ -4816,15 +4815,15 @@ veiklą po reorganizavimo juridiniam asmeniui;
 asmens valdymo ir kitiems organams, administracijos darbuotojams ar šio kodekso
 2.100 straipsnyje nurodytiems ekspertams suteikiamos papildomos teisės.
 2.
-Reorganizavimo sąlygos turi būti paskelbtos pagal šio kodekso 2.101 straipsnio
-1 dalį ir pateiktos juridinių asmenų registrui ne vėliau kaip pirmą viešo
+Reorganizavimo sąlygos turi būti paskelbtos pagal šio kodekso 2.101 straipsnio 1
+dalį ir pateiktos juridinių asmenų registrui ne vėliau kaip pirmą viešo
 paskelbimo dieną, taikant šio kodekso 2.66 straipsnio 3 dalį mutatis
 mutandis.
 3. Kiekvieno
 reorganizavime dalyvaujančio juridinio asmens valdymo organai privalo parengti
-rašytines ataskaitas, kuriose turi būti nurodyti reorganizavimo tikslai, paaiškintos
-reorganizavimo sąlygos, juridinio asmens veiklos tęstinumas ir nurodyti
-reorganizavimo terminai bei ekonominiai pagrindai.
+rašytines ataskaitas, kuriose turi būti nurodyti reorganizavimo tikslai,
+paaiškintos reorganizavimo sąlygos, juridinio asmens veiklos tęstinumas ir
+nurodyti reorganizavimo terminai bei ekonominiai pagrindai.
 4. Šio straipsnio 3 dalis taikoma
 tik tuo atveju, kai reorganizavime dalyvauja akcinė bendrovė ar kiti juridiniai
 asmenys, kurių dalyviai, turintys ne mažiau kaip 1/20 visų balsų, to
@@ -4880,10 +4879,10 @@ pasibaigimo iki kreipimosi į teismą praėjo daugiau nei šeši mėnesiai.
 3. Jei įmanoma, teismas privalo suteikti protingą terminą ištaisyti
 klaidoms, dėl kurių reorganizavimas pripažintinas negaliojančiu.
 4. Teismo
-sprendimas pripažinti juridinio asmens reorganizavimą negaliojančiu nedaro negaliojančio
-tęsiančio veiklą po reorganizavimo ar naujai įkurto juridinio asmens iki
-atitinkamų duomenų juridinių asmenų registre pakeitimo. Pagal prievoles,
-kylančias iš tokių juridinių asmenų sandorių, solidariai atsako visi
+sprendimas pripažinti juridinio asmens reorganizavimą negaliojančiu nedaro
+negaliojančio tęsiančio veiklą po reorganizavimo ar naujai įkurto juridinio
+asmens iki atitinkamų duomenų juridinių asmenų registre pakeitimo. Pagal
+prievoles, kylančias iš tokių juridinių asmenų sandorių, solidariai atsako visi
 reorganizavime dalyvavę juridiniai asmenys.
  
 2.103 straipsnis. Supaprastintas juridinių asmenų
@@ -4914,8 +4913,8 @@ juridinius asmenis, mutatis mutandis taikomi šio kodekso 2.101
 straipsnio 2 dalis, 2.102 straipsnis, 2.107 straipsnio 1 dalis, 2.112
 straipsnio 1 ir 2 dalys.
 5. Juridinių
-asmenų pertvarkymo ypatumus gali nustatyti ir atskiras juridinių asmenų teisines
-formas reglamentuojantys įstatymai.
+asmenų pertvarkymo ypatumus gali nustatyti ir atskiras juridinių asmenų
+teisines formas reglamentuojantys įstatymai.
 Straipsnio
 pakeitimai:
 Nr. XI-595,
@@ -5005,13 +5004,13 @@ atšaukimas
 asmens dalyvių paskirtas juridinio asmens likvidatorius gali būti atšauktas
 paprasta juridinio asmens dalyvių, dalyvaujančių susirinkime, balsų dauguma.
 2. Juridinio
-asmens dalyviai, kurių balsai sudaro ne mažiau kaip 1/10 visų balsų, kreditorius,
-turintis ne mažesnę kaip penkiasdešimt tūkstančių litų vertės reikalavimo
-teisę, arba ne mažiau kaip 1/5 visų juridinio asmens darbuotojų turi teisę
-kreiptis į teismą prašydami pakeisti likvidatorių, jei šis veikia netinkamai,
-taip pat nesąžiningai atsiskaito su kreditoriais, juridinio asmens dalyviais,
-nesąžiningai atlieka kitas pareigas arba pažeidžia juridinio asmens dalyvių,
-kreditorių ar juridinio asmens darbuotojų teises.
+asmens dalyviai, kurių balsai sudaro ne mažiau kaip 1/10 visų balsų,
+kreditorius, turintis ne mažesnę kaip penkiasdešimt tūkstančių litų vertės
+reikalavimo teisę, arba ne mažiau kaip 1/5 visų juridinio asmens darbuotojų
+turi teisę kreiptis į teismą prašydami pakeisti likvidatorių, jei šis veikia
+netinkamai, taip pat nesąžiningai atsiskaito su kreditoriais, juridinio asmens
+dalyviais, nesąžiningai atlieka kitas pareigas arba pažeidžia juridinio asmens
+dalyvių, kreditorių ar juridinio asmens darbuotojų teises.
  
 2.110 straipsnis. Likvidatoriaus kompetencija
 1. Juridinio
@@ -5063,11 +5062,11 @@ garantija;
 4) trečiąja eile
 tenkinami visi likę kreditorių reikalavimai.
 2. Kiekvienos
-paskesnės eilės kreditorių (išieškotojų) reikalavimai tenkinami po to, kai
-visiškai patenkinti pirmesnės eilės kreditorių (išieškotojų) reikalavimai.
-Jeigu neužtenka lėšų visiems vienos eilės reikalavimams visiškai patenkinti,
-šie reikalavimai tenkinami proporcingai pagal priklausančią kiekvienam
-kreditoriui (išieškotojui) sumą.
+paskesnės eilės kreditorių (išieškotojų) reikalavimai tenkinami po to, kai visiškai
+patenkinti pirmesnės eilės kreditorių (išieškotojų) reikalavimai. Jeigu
+neužtenka lėšų visiems vienos eilės reikalavimams visiškai patenkinti, šie
+reikalavimai tenkinami proporcingai pagal priklausančią kiekvienam kreditoriui
+(išieškotojui) sumą.
  
 2.114 straipsnis. Juridinio asmens pripažinimas
 neteisėtai įsteigtu
@@ -5081,8 +5080,8 @@ sudaryti įstatymuose nustatyti steigimo dokumentai arba buvo pažeistos įstaty
 nustatytos imperatyviosios juridinio asmens steigimo taisyklės;
 3) tikrieji
 juridinio asmens steigimo tikslai neteisėti arba prieštarauja viešajai tvarkai;
-4) įstatymų
-nustatyta tvarka ir terminais nebuvo suformuotas minimalus įstatinis kapitalas;
+4) įstatymų nustatyta
+tvarka ir terminais nebuvo suformuotas minimalus įstatinis kapitalas;
 5) juridinio
 asmens steigimo dokumentuose nenurodytas jo pavadinimas, tikslai, įstatinio
 kapitalo ar dalyvių asmeninių įnašų dydis, jei to reikalauja atskiras juridinių
@@ -5163,9 +5162,9 @@ ribojimai
 sprendimo dėl priverstinio akcijų (dalių, pajų) pardavimo priėmimo dienos
 atsakovas be ieškovo sutikimo neturi teisės parduoti ar kitaip perleisti
 akcijas (dalis, pajus), jas įkeisti ar kitaip suvaržyti teises į jas, taip pat
-perleisti ar kitaip apriboti akcijų (dalių, pajų) suteikiamas teises, jeigu teismas
-nenutaria kitaip. Teismas turi teisę leisti atlikti šioje dalyje nurodytus
-veiksmus, jeigu ieškovas tokiems veiksmams sutikimo neduoda. 
+perleisti ar kitaip apriboti akcijų (dalių, pajų) suteikiamas teises, jeigu
+teismas nenutaria kitaip. Teismas turi teisę leisti atlikti šioje dalyje
+nurodytus veiksmus, jeigu ieškovas tokiems veiksmams sutikimo neduoda. 
 2. Nuo teismo
 sprendimo įsiteisėjimo dienos atsakovas neturi teisės parduoti, išskyrus pagal
 šį skirsnį, ar kitaip perleisti akcijas (dalis, pajus), jas įkeisti, ar kitaip
@@ -5202,10 +5201,10 @@ nutarties, nustatančios kainą, gali būti duodamas atskiras skundas.
 1. Kai
 įsiteisėja teismo nutartis dėl kainos nustatymo, atsakovas per dvi savaites
 turi perduoti ieškovo nuosavybėn akcijas (dalis, pajus), o ieškovas turi
-priimti akcijas (dalis, pajus) ir sumokėti nustatytą kainą. Kaina turi būti
-sumokama perduodant ieškovo nuosavybėn akcijas. Perdavimas atliekamas juridinio
-asmens, kurio akcijos (dalys, pajai) perduodamos, buveinėje arba kitoje ieškovo
-ir atsakovo sutartoje vietoje. 
+priimti akcijas (dalis, pajus) ir sumokėti nustatytą kainą. Kaina turi būti sumokama
+perduodant ieškovo nuosavybėn akcijas. Perdavimas atliekamas juridinio asmens,
+kurio akcijos (dalys, pajai) perduodamos, buveinėje arba kitoje ieškovo ir
+atsakovo sutartoje vietoje. 
 2. Jeigu
 atsakovas nevykdo pareigos perduoti akcijas (dalis, pajus), juridinis asmuo
 turi perduoti akcijas (dalis, pajus) atsakovo vardu ir išduoti ieškovui
@@ -5289,8 +5288,9 @@ kreiptis dėl juridinio asmens veiklos tyrimo turi šie asmenys:
 1) vienas ar
 keli akcininkai, kurių turimų ar valdomų akcijų nominali vertė yra ne mažesnė
 kaip 1/10 įstatinio kapitalo;
-2) vienas ar keli
-ūkinės bendrijos nariai, kurių dalys sudaro ne mažiau kaip 1/10 visų dalių;
+2) vienas ar
+keli ūkinės bendrijos nariai, kurių dalys sudaro ne mažiau kaip 1/10 visų
+dalių;
 3) vienas ar
 keli žemės ūkio bendrovės ar kooperatinės bendrovės (kooperatyvo) nariai, kurių
 pajai sudaro ne mažiau kaip 1/10 visų pajų;
@@ -5299,8 +5299,8 @@ asmens dalyviai, išskyrus šio kodekso 2.35 ir 2.37 straipsniuose nurodytų
 juridinių asmenų ir šios dalies 1, 2 ir 3 punktuose nurodytų asmenų dalyvius,
 turintys ne mažiau kaip 1/5 visų balsų;
 5) asmenys, taip
-pat ir juridinio asmens dalyviai, kuriems pagal steigimo dokumentus ar sudarytus
-su juridiniais asmenimis sandorius tokia teisė suteikta.
+pat ir juridinio asmens dalyviai, kuriems pagal steigimo dokumentus ar
+sudarytus su juridiniais asmenimis sandorius tokia teisė suteikta.
 2. Prokuroras,
 gindamas viešuosius interesus, tarp jų ir kai juridinio asmens, jo valdymo
 organų ar jų narių veikla prieštarauja visuomenės interesams, taip pat turi
@@ -5446,9 +5446,9 @@ nelaikomi asmenys, kurie veikia savo vardu, nors ir dėl kito asmens interesų
 2.133 straipsnis. Per atstovą sudaryto sandorio
 pasekmės
 1. Vieno asmens
-(atstovo) sudarytas sandoris kito asmens (atstovaujamojo) vardu, atskleidžiant
-atstovavimo faktą ir neviršijant suteiktų teisių, tiesiogiai sukuria, pakeičia
-ir panaikina atstovaujamojo civilines teises ir pareigas.
+(atstovo) sudarytas sandoris kito asmens (atstovaujamojo) vardu, atskleidžiant atstovavimo
+faktą ir neviršijant suteiktų teisių, tiesiogiai sukuria, pakeičia ir panaikina
+atstovaujamojo civilines teises ir pareigas.
 2. Atstovo
 teisės taip pat gali būti suprantamos iš aplinkybių, kuriomis atstovas veikia
 (pardavėjas mažmeninėje prekyboje, kasininkas ir pan.). Jeigu asmuo savo
@@ -5463,13 +5463,13 @@ aplinkybių turėjo suprasti, kad sandorį sudaro su atstovu, arba kai tai šali
 asmuo, su kuriuo sudaromas sandoris, neturėjo jokios reikšmės.
 4. Jeigu per
 atstovą sudaryto sandorio galiojimas ginčijamas dėl klaidos, apgaulės, smurto
-ar grasinimo, tai šių faktų egzistavimas ar neegzistavimas nustatomas
-atsižvelgiant į atstovo valią.
+ar grasinimo, tai šių faktų egzistavimas ar neegzistavimas nustatomas atsižvelgiant
+į atstovo valią.
 5. Jeigu
 atstovas sandorį sudarė pagal atstovaujamojo nurodymus, tai atstovaujamasis
 negali ginčyti tokio sandorio motyvuodamas tuo, kad sudarydamas sandorį
-atstovas ignoravo tam tikras aplinkybes, jeigu atstovaujamasis apie tas
-aplinkybes žinojo arba jas ignoravo dėl savo paties neatsargumo.
+atstovas ignoravo tam tikras aplinkybes, jeigu atstovaujamasis apie tas aplinkybes
+žinojo arba jas ignoravo dėl savo paties neatsargumo.
 6. Jeigu sandorį kito asmens vardu sudaro tokios
 teisės neturintis asmuo, tai sandoris sukelia teisines pasekmes atstovaujamajam
 tik tuo atveju, kai pastarasis tokį sandorį patvirtina. Kita sandorio šalis
@@ -5575,9 +5575,9 @@ patvirtinimas
 fizinis asmuo duoda korespondencijai (konkrečiai –siunčiamiems pinigams ir
 siuntiniams) gauti, taip pat darbo užmokesčiui ir kitoms su darbo santykiais
 susijusioms išmokoms, pensijoms, pašalpoms, stipendijoms gauti, gali
-patvirtinti organizacija, kurioje fizinis asmuo dirba ar mokosi, daugiabučių namų
-savininkų bendrijos, kurios name gyvena asmuo, pirmininkas arba esančio
-tolimajame plaukiojime jūrų laivo kapitonas.
+patvirtinti organizacija, kurioje fizinis asmuo dirba ar mokosi, daugiabučių
+namų savininkų bendrijos, kurios name gyvena asmuo, pirmininkas arba
+esančio tolimajame plaukiojime jūrų laivo kapitonas.
  
 2.140
 straipsnis. Juridinio asmens įgaliojimas
@@ -5686,17 +5686,18 @@ turėjo sužinoti, bet nesužinojo dėl savo pačių neatidumo.
 2.148
 straipsnis. Įgaliotojo pareiga pranešti apie įgaliojimo pasibaigimą
 1. Apie
-įgaliojimo panaikinimą, nurodytą šio kodekso 2.147 straipsnio 1 dalies 2
-punkte, įgaliotojas privalo pranešti įgaliotiniui, taip pat įgaliotojui
-žinomiems tretiesiems asmenims, su kuriais nustatant ir palaikant santykius
-atstovauti duotas įgaliojimas. Tokią pat pareigą turi įgaliotojo teisių
-perėmėjai, kai įgaliojimas pasibaigia šio kodekso 2.147 straipsnio 1 dalies 4
-ir 6 punktuose numatytais pagrindais.
+įgaliojimo panaikinimą, nurodytą šio kodekso 2.147 straipsnio 1 dalies 2 punkte,
+įgaliotojas privalo pranešti įgaliotiniui, taip pat įgaliotojui žinomiems
+tretiesiems asmenims, su kuriais nustatant ir palaikant santykius atstovauti
+duotas įgaliojimas. Tokią pat pareigą turi įgaliotojo teisių perėmėjai, kai
+įgaliojimas pasibaigia šio kodekso 2.147 straipsnio 1 dalies 4 ir 6 punktuose
+numatytais pagrindais.
 2. Įgaliotojo ir
 jo teisių perėmėjų teisės ir pareigos, atsiradusios kaip įgaliotinio veiksmų
 rezultatas iki to laiko, kai įgaliotinis sužinojo ar turėjo sužinoti apie
-įgaliojimo pasibaigimą, lieka galioti tretiesiems asmenims. Ši nuostata netaikoma,
-jeigu trečiasis asmuo žinojo ar turėjo žinoti, kad įgaliojimas pasibaigė.
+įgaliojimo pasibaigimą, lieka galioti tretiesiems asmenims. Ši nuostata
+netaikoma, jeigu trečiasis asmuo žinojo ar turėjo žinoti, kad įgaliojimas
+pasibaigė.
 3. Įgaliojimui
 pasibaigus, įgaliotinis ar jo teisių perėmėjai privalo tuojau grąžinti
 įgaliojimą įgaliotojui ar jo teisių perėmėjams.
@@ -5716,9 +5717,9 @@ atstovaujamajam už viską, ką yra gavęs vykdydamas pavedimą.
  
 2.151
 straipsnis. Atstovaujamojo pareiga atlyginti išlaidas bei sumokėti atlyginimą
-1. Atstovaujamasis
-turi atlyginti atstovo turėtas išlaidas, susijusias su pavedimo vykdymu, jeigu
-sutartis ar įstatymai nenumato ko kita.
+1.
+Atstovaujamasis turi atlyginti atstovo turėtas išlaidas, susijusias su pavedimo
+vykdymu, jeigu sutartis ar įstatymai nenumato ko kita.
 2. Atstovui
 už darbą atstovaujamasis turi sumokėti atlyginimą, išskyrus atvejus, kai
 sutartis ar įstatymai numato, kad atstovaujama neatlygintinai.
@@ -5817,8 +5818,8 @@ pavyzdžiais, reklamine medžiaga, standartinėmis sutarčių sąlygomis ir t. t
 pranešti prekybos agentui apie sutikimą ar atsisakymą sudaryti konkrečią
 sutartį ar ją vykdyti, taip pat apie sutarties sąlygų pakeitimą ar papildymą;
 3) nedelsdamas
-pranešti prekybos agentui apie sutarties, kurią prekybos agentas sudarė neturėdamas
-pavedimo, patvirtinimą ar nepatvirtinimą;
+pranešti prekybos agentui apie sutarties, kurią prekybos agentas sudarė
+neturėdamas pavedimo, patvirtinimą ar nepatvirtinimą;
 4) mokėti
 prekybos agentui sutartyje numatytą atlyginimą;
 5) suteikti
@@ -5837,14 +5838,14 @@ jeigu tas sandoris buvo sudarytas pasibaigus atstovavimo santykiams.
 gali būti numatyta, kad prekybos agento atlyginimas priklauso nuo
 atstovaujamojo pavedimo įvykdymo kokybės arba kad prekybos agentas atlyginimą
 gauna tik tada, kai trečiasis asmuo įvykdo sudarytą sutartį. Atlyginimas
-prekybos agentui taip pat mokamas už iš trečiųjų asmenų atstovaujamojo naudai
-išieškotas pinigų sumas.
+prekybos agentui taip pat mokamas už iš trečiųjų asmenų atstovaujamojo naudai išieškotas
+pinigų sumas.
 3. Jeigu
 prekybos agentas garantuoja atstovaujamajam, kad kita tam tikro sandorio šalis
 tinkamai įvykdys sutartį, tai prekybos agentas turi teisę gauti papildomą
-atlyginimą (del credere). Šalių susitarimas panaikinti tokią prekybos
-agento teisę negalioja. Teisė į papildomą atlyginimą (del credere)
-atsiranda nuo sandorio tinkamo įvykdymo.
+atlyginimą (del credere). Šalių susitarimas panaikinti tokią prekybos agento
+teisę negalioja. Teisė į papildomą atlyginimą (del credere) atsiranda
+nuo sandorio tinkamo įvykdymo.
 4. Jeigu
 prekybos agento atlyginimas sutartyje neaptartas, prekybos agentui turi būti
 mokamas atlyginimas, kuris mokamas prekybos agentams, paskirtiems tokio agento
@@ -5992,9 +5993,9 @@ nepranešė prekybos agentui apie svarbias sutarties nutraukimo priežastis;
 2) prekybos
 agentas sutartį nutraukė dėl svarbių priežasčių, už kurias atsako
 atstovaujamasis, ir apie šias priežastis nedelsdamas pranešė atstovaujamajam;
-3) atstovaujamojo
-ir prekybos agento sutartis nutraukta teismo sprendimu dėl priežasčių, už
-kurias atsako atstovaujamasis.
+3)
+atstovaujamojo ir prekybos agento sutartis nutraukta teismo sprendimu dėl
+priežasčių, už kurias atsako atstovaujamasis.
 7. Prekybos
 agento reikalavimu teismas turi teisę pripažinti visiškai ar iš dalies
 konkurenciją draudžiančią sutarties išlygą negaliojančia, jeigu atsižvelgiant į
@@ -6007,8 +6008,7 @@ padėtį, negalioja.
 straipsnis. Neapibrėžtam terminui sudarytos sutarties nutraukimas
 1. Neapibrėžtam
 terminui sudaryta sutartis gali būti bet kurios šalies iniciatyva nutraukta,
-jeigu apie sutarties nutraukimą iš anksto pranešta kitai šaliai per šiuos
-terminus:
+jeigu apie sutarties nutraukimą iš anksto pranešta kitai šaliai per šiuos terminus:
 1) prieš vieną
 mėnesį – jeigu sutartis tęsėsi ne ilgiau kaip vienerius metus;
 2) prieš du
@@ -6074,22 +6074,22 @@ sutarties pasibaigimo nepraneša atstovaujamajam apie ketinimą šią teisę
 įgyvendinti.
 5. Prekybos
 agentas neturi teisės į kompensaciją, jeigu:
-1) sutartis
-nutraukta prekybos agento iniciatyva, išskyrus atvejus, kai prekybos agentas
-sutartį nutraukia dėl neteisėtų atstovaujamojo veiksmų arba dėl savo ligos,
-amžiaus ar negalios, dėl kurių jis negali tinkamai atlikti savo pareigų;
+1) sutartis nutraukta
+prekybos agento iniciatyva, išskyrus atvejus, kai prekybos agentas sutartį
+nutraukia dėl neteisėtų atstovaujamojo veiksmų arba dėl savo ligos, amžiaus ar
+negalios, dėl kurių jis negali tinkamai atlikti savo pareigų;
 2) sutartis
 nutraukta atstovaujamojo iniciatyva dėl prekybos agento kaltės;
 3) prekybos
 agentas atstovaujamojo sutikimu perduoda savo teises ir pareigas pagal
 komercinio atstovavimo sutartį kitam asmeniui.
 6. Prekybos
-agentas turi teisę į nuostolių, kurių jis patiria dėl sutarties su
-atstovaujamuoju nutraukimo, atlyginimą, ypač jeigu prekybos agentas netenka
-komisinio atlyginimo, kurį būtų gavęs dėl tinkamo komercinio atstovavimo
-sutarties įvykdymo, o atstovaujamasis turi esminės naudos iš prekybos agento
-veiklos, arba (ir) kai yra neapmokėtos prekybos agento išlaidos, kurių jis
-turėjo vykdydamas atstovaujamojo nurodymus. Atlyginant nuostolius, taikomos šio
+agentas turi teisę į nuostolių, kurių jis patiria dėl sutarties su atstovaujamuoju
+nutraukimo, atlyginimą, ypač jeigu prekybos agentas netenka komisinio
+atlyginimo, kurį būtų gavęs dėl tinkamo komercinio atstovavimo sutarties
+įvykdymo, o atstovaujamasis turi esminės naudos iš prekybos agento veiklos,
+arba (ir) kai yra neapmokėtos prekybos agento išlaidos, kurių jis turėjo
+vykdydamas atstovaujamojo nurodymus. Atlyginant nuostolius, taikomos šio
 straipsnio 4 ir 5 dalys.
 Straipsnio
 pakeitimai:
@@ -6200,8 +6200,8 @@ neviršydamas.
 straipsnis. Atstovo veiksmų patvirtinimas
 1.
 Atstovaujamasis turi teisę patvirtinti veiksmus, kuriuos atliko asmuo,
-neturėdamas šios teisės ar ją viršydamas. Patvirtinimas gali būti bet kokios
-formos. Be to, jis gali būti numanomas iš atstovaujamojo elgesio. Patvirtinimas
+neturėdamas šios teisės ar ją viršydamas. Patvirtinimas gali būti bet kokios formos.
+Be to, jis gali būti numanomas iš atstovaujamojo elgesio. Patvirtinimas
 įsigalioja nuo to momento, kai pasiekia trečiąjį asmenį. Įsigaliojusio
 patvirtinimo nebegalima atšaukti.
 2. Jeigu
@@ -6213,9 +6213,9 @@ atstovaujamasis patvirtino atstovo veiksmus, bet tą padarė ne per protingumo
 kriterijų atitinkantį terminą, trečiasis asmuo gali atsisakyti sandorio apie
 tai nedelsiant pranešdamas atstovaujamajam.
 3. Jeigu
-trečiasis asmuo sandorio metu žinojo ar turėjo žinoti, kad atstovas neturi
-teisių ar jas viršija, tai trečiasis asmuo negali atsisakyti sandorio nei iki
-atstovo veiksmų patvirtinimo, nei po to.
+trečiasis asmuo sandorio metu žinojo ar turėjo žinoti, kad atstovas neturi teisių
+ar jas viršija, tai trečiasis asmuo negali atsisakyti sandorio nei iki atstovo
+veiksmų patvirtinimo, nei po to.
 4. Trečiasis
 asmuo visais atvejais gali atsisakyti priimti tik dalinį atstovo veiksmų
 patvirtinimą. 
@@ -6332,9 +6332,9 @@ nustatyta tvarka.
  
 2.182
 straipsnis. Prokuristo parašas
-Pasirašydamas atstovaujamojo
-vardu dokumentus, prokuristas privalo nurodyti, kad jis veikia kaip
-prokuristas, t. y. įrašyti žodį „prokuristas“ arba jo sutrumpinimą „pp“.
+Pasirašydamas
+atstovaujamojo vardu dokumentus, prokuristas privalo nurodyti, kad jis veikia
+kaip prokuristas, t. y. įrašyti žodį „prokuristas“ arba jo sutrumpinimą „pp“.
  
 2.183
 straipsnis. Prokuristo atsakomybė
@@ -6362,10 +6362,11 @@ straipsnio 1 dalies 4 ir 5 punktuose numatytus atvejus.
  
 2.185
 straipsnis. Veiksmai, kuriems atlikti prokūra nereikalinga
-1. Atstovaujamasis
-gali pavesti savo darbuotojams atlikti veiksmus, kurie tam tikroje verslo
-srityje yra kasdieniai ir įprastiniai, neišduodamas prokūros. Tokiais atvejais
-prokūrą reglamentuojančios šio kodekso normos taikomos pagal analogiją.
+1.
+Atstovaujamasis gali pavesti savo darbuotojams atlikti veiksmus, kurie tam
+tikroje verslo srityje yra kasdieniai ir įprastiniai, neišduodamas prokūros.
+Tokiais atvejais prokūrą reglamentuojančios šio kodekso normos taikomos pagal
+analogiją.
 2.
 Preziumuojama, kad parduotuvėje ar sandėlyje dirbantys darbuotojai be
 specialaus įgaliojimo turi teisę parduoti, išduoti ar priimti prekes, taip pat
@@ -6434,8 +6435,8 @@ ir kitokių veiksnių įtakos.
 3.4
 straipsnis. Įstatymo ar teisės analogija
 1. Jeigu šeimos
-santykiai nereglamentuoti šios knygos ar kitų Civilinio kodekso knygų normų, jiems
-taikomos kitų civilinių įstatymų, reglamentuojančių panašius teisinius
+santykiai nereglamentuoti šios knygos ar kitų Civilinio kodekso knygų normų,
+jiems taikomos kitų civilinių įstatymų, reglamentuojančių panašius teisinius
 santykius, normos. Draudžiama pagal analogiją taikyti specialias teisės normas,
 numatančias išimtis iš bendrųjų taisyklių.
 2. Kai nėra
@@ -6571,9 +6572,9 @@ metų.
 2. Norinčio
 tuoktis, tačiau neturinčio aštuoniolikos metų asmens prašymu teismas
 supaprastinto proceso tvarka turi teisę sumažinti tokio asmens santuokinį
-amžių, bet ne daugiau kaip trejais metais.
+amžių, bet ne daugiau kaip dvejais metais.
 3. Nėštumo
-atveju teismas gali leisti tuoktis asmeniui, nesulaukusiam penkiolikos metų.
+atveju teismas gali leisti tuoktis asmeniui, nesulaukusiam šešiolikos metų.
 4. Teismas,
 spręsdamas klausimą dėl santuokinio amžiaus sumažinimo, turi teismo posėdyje
 išklausyti norinčio tuoktis nepilnamečio tėvų, globėjų ar rūpintojų nuomonę ir
@@ -6584,6 +6585,11 @@ priežastis sumažinti santuokinį amžių.
 sprendžiamas klausimas dėl santuokinio amžiaus sumažinimo, valstybinė vaiko
 teisių apsaugos institucija privalo pateikti išvadą dėl santuokinio amžiaus
 sumažinimo tikslingumo ir ar tai atitinka nepilnamečio interesus.
+Straipsnio
+pakeitimai:
+Nr.
+XI-937,
+2010-06-22, Žin., 2010, Nr. 76-3873 (2010-06-30)
  
 3.15 straipsnis. Veiksnumas
 1. Asmuo,
@@ -6611,9 +6617,9 @@ Trečiasis skirsnis
 Santuokos sudarymas
  
 3.18 straipsnis. Prašymas įregistruoti santuoką
-Asmenys,
-norintys susituokti, paduoda prašymą įregistruoti santuoką šio kodekso 3.299
-straipsnio nustatyta tvarka.
+Asmenys, norintys
+susituokti, paduoda prašymą įregistruoti santuoką šio kodekso 3.299 straipsnio
+nustatyta tvarka.
  
 3.19 straipsnis. Prašymo įregistruoti santuoką
 viešas skelbimas
@@ -6625,8 +6631,8 @@ straipsnio nustatyta tvarka.
 patvirtinimas
 1. Norintys
 susituokti asmenys, paduodami prašymą įregistruoti santuoką, privalo raštu
-patvirtinti, kad yra įvykdytos visos šio kodekso 3.12–3.17 straipsniuose
-nustatytos santuokos sudarymo sąlygos.
+patvirtinti, kad yra įvykdytos visos šio kodekso 3.12–3.17 straipsniuose nustatytos
+santuokos sudarymo sąlygos.
 2. Civilinės
 metrikacijos įstaigos pareigūnai, prieš įregistruodami santuoką, privalo
 patikrinti, ar yra įvykdytos visos šio kodekso 3.12–3.17 straipsniuose
@@ -6676,7 +6682,8 @@ sutuoktinių tėvai ar prokuroras.
 1. Civilinės
 metrikacijos įstaiga, įregistravusi santuoką, išduoda santuokos liudijimą.
 2. Santuokos
-akto įrašas ir jo pagrindu išduotas santuokos liudijimas yra santuokos įrodymas.
+akto įrašas ir jo pagrindu išduotas santuokos liudijimas yra santuokos
+įrodymas.
  
 3.24 straipsnis. Santuokos sudarymas bažnyčios
 (konfesijų) nustatyta tvarka
@@ -6709,8 +6716,8 @@ Santuokos teisinės pasekmės
 1. Sudarę
 santuoką, sutuoktiniai įgyja šioje knygoje numatytas teises ir pareigas. 
 2. Sutuoktiniai
-turi lygias teises ir vienodą civilinę atsakomybę vienas kitam bei vaikams santuokos
-sudarymo, jos trukmės ir jos nutraukimo klausimais.
+turi lygias teises ir vienodą civilinę atsakomybę vienas kitam bei vaikams
+santuokos sudarymo, jos trukmės ir jos nutraukimo klausimais.
 3. Sutuoktiniai
 susitarimu negali atsisakyti teisių ar panaikinti pareigų, kurios pagal
 įstatymus atsiranda kaip santuokos pasekmė.
@@ -6801,8 +6808,8 @@ dienos, kai sutuoktinis sužinojo arba turėjo sužinoti apie tokį sandorį.
 3.35 straipsnis. Sutuoktinių teisės ir pareigos namų
 ūkyje
 1. Sutuoktinis
-be kito sutuoktinio sutikimo neturi teisės perleisti, įkeisti, išnuomoti ar kitokiu
-būdu suvaržyti teisę į kilnojamąjį daiktą, naudojamą šeimos namų ūkyje.
+be kito sutuoktinio sutikimo neturi teisės perleisti, įkeisti, išnuomoti ar
+kitokiu būdu suvaržyti teisę į kilnojamąjį daiktą, naudojamą šeimos namų ūkyje.
 2. Kilnojamuoju
 daiktu, naudojamu šeimos namų ūkyje, pripažįstami namų apyvokos daiktai,
 baldai, išskyrus meno kūrinius, kolekcijas ir namų bibliotekas.
@@ -6903,9 +6910,9 @@ paveiktas grasinimo, prievartos ar apgaulės.
 3. Sutuoktinis,
 davęs sutikimą sudaryti santuoką dėl esminės klaidos, gali reikalauti santuoką
 pripažinti negaliojančia. Klaida yra esminė, jeigu buvo suklysta dėl tokių su
-kitu sutuoktiniu susijusių aplinkybių, kurias žinodamas sutuoktinis nebūtų sutikęs
-sudaryti santuokos. Preziumuojama, kad klaida yra esminė, jeigu buvo suklysta
-dėl:
+kitu sutuoktiniu susijusių aplinkybių, kurias žinodamas sutuoktinis nebūtų
+sutikęs sudaryti santuokos. Preziumuojama, kad klaida yra esminė, jeigu buvo
+suklysta dėl:
 1) kito
 sutuoktinio sveikatos būklės ar lytinės anomalijos, dėl kurių normalus šeimos
 gyvenimas neįmanomas;
@@ -6948,11 +6955,11 @@ pripažinti negaliojančia santuoką, sudarytą neišreiškus tikrosios valios,
 galima per vienerių metų ieškinio senaties terminą, skaičiuojamą nuo
 aplinkybių, sudarančių pagrindą santuoką pripažinti negaliojančia, išnykimo
 arba paaiškėjimo dienos.
-3. Reikalauti
-pripažinti fiktyvią santuoką negaliojančia galima per vienerius metus nuo
-tokios santuokos sudarymo dienos. Šio kodekso 3.39 straipsnio nustatytu
-pagrindu prokuroras ieškinį dėl santuokos pripažinimo negaliojančia gali
-pareikšti per penkerius metus nuo santuokos sudarymo.
+3. Reikalauti pripažinti
+fiktyvią santuoką negaliojančia galima per vienerius metus nuo tokios santuokos
+sudarymo dienos. Šio kodekso 3.39 straipsnio nustatytu pagrindu prokuroras
+ieškinį dėl santuokos pripažinimo negaliojančia gali pareikšti per penkerius
+metus nuo santuokos sudarymo.
 4. Reikalavimams
 pripažinti santuoką negaliojančia kitais pagrindais ieškinio senatis netaikoma.
  
@@ -6982,9 +6989,9 @@ laikomi santuokiniais.
 2. Jeigu abu
 sutuoktiniai buvo sąžiningi, t. y. nežinojo ir negalėjo žinoti, kad yra kliūčių
 sudaryti santuoką, tai santuoka, nors ir pripažinta negaliojančia, sukelia
-jiems tokias pat teisines pasekmes, kaip ir galiojanti santuoka, išskyrus
-paveldėjimo teisę. Aplinkybės, patvirtinančios sutuoktinio sąžiningumą, turi
-būti nurodytos teismo sprendime.
+jiems tokias pat teisines pasekmes, kaip ir galiojanti santuoka, išskyrus paveldėjimo
+teisę. Aplinkybės, patvirtinančios sutuoktinio sąžiningumą, turi būti nurodytos
+teismo sprendime.
  
 3.46 straipsnis. Santuokos pripažinimo
 negaliojančia teisinės pasekmės, kai vienas arba abu sutuoktiniai buvo
@@ -7008,8 +7015,8 @@ nustatyto dydžio vienkartine pinigų suma. Jeigu pasikeičia vieno sutuoktinio
 turtinė padėtis, suinteresuotas sutuoktinis gali kreiptis į teismą dėl
 išlaikymo padidinimo, sumažinimo arba jo išieškojimo nutraukimo.
 3. Išlaikymo
-mokėjimas sąžiningam sutuoktiniui savaime nutrūksta, jei jis sudaro naują santuoką
-arba pasibaigus trejų metų terminui, per kurį išlaikymas buvo mokamas.
+mokėjimas sąžiningam sutuoktiniui savaime nutrūksta, jei jis sudaro naują
+santuoką arba pasibaigus trejų metų terminui, per kurį išlaikymas buvo mokamas.
  
 3.48 straipsnis. Privalomas globos (rūpybos)
 institucijų dalyvavimas
@@ -7085,15 +7092,15 @@ būti nurodytos priežastys, dėl kurių, sutuoktinių manymu, jų santuoka iši
 priima sprendimą santuoką nutraukti, jeigu įsitikina, kad santuoka faktiškai
 iširo. Santuoka laikoma iširusia, jeigu sutuoktiniai kartu bendrai nebegyvena
 ir negalima tikėtis, kad jie vėl pradės gyventi kartu.
-2. Preziumuojama,
-kad santuoka faktiškai iširo, jeigu daugiau nei metus sutuoktiniai netvarko
-bendro ūkio ir negyvena santuokinio gyvenimo.
+2.
+Preziumuojama, kad santuoka faktiškai iširo, jeigu daugiau nei metus
+sutuoktiniai netvarko bendro ūkio ir negyvena santuokinio gyvenimo.
 3. Teismas, savo
 sprendimu nutraukdamas santuoką, patvirtina ir sutuoktinių pateiktą sutartį dėl
-santuokos nutraukimo pasekmių, kurioje sutuoktiniai turi aptarti savo
-nepilnamečių vaikų ir vienas kito išlaikymo, nepilnamečių vaikų gyvenamosios
-vietos ir dalyvavimo juos auklėjant klausimus bei kitas savo turtines teises ir
-pareigas. Sutarties turinys įtraukiamas į teismo sprendimą. Iš esmės pasikeitus
+santuokos nutraukimo pasekmių, kurioje sutuoktiniai turi aptarti savo nepilnamečių
+vaikų ir vienas kito išlaikymo, nepilnamečių vaikų gyvenamosios vietos ir
+dalyvavimo juos auklėjant klausimus bei kitas savo turtines teises ir pareigas.
+Sutarties turinys įtraukiamas į teismo sprendimą. Iš esmės pasikeitus
 aplinkybėms (vieno buvusio sutuoktinio liga, nedarbingumas ir kt.), buvę
 sutuoktiniai arba vienas iš jų gali kreiptis į teismą dėl santuokos nutraukimo
 pasekmių sutarties sąlygų pakeitimo. 
@@ -7162,8 +7169,8 @@ kodekso 3.54 straipsnyje numatytos taikinimo priemonės netaikomos.
 3. Teismas,
 atsižvelgdamas į vieno sutuoktinio amžių, santuokos trukmę, sutuoktinių
 nepilnamečių vaikų interesus, gali atsisakyti nutraukti santuoką, jeigu
-santuokos nutraukimas padarytų esminės turtinės ar neturtinės žalos vienam
-sutuoktiniui ar jų nepilnamečiams vaikams.
+santuokos nutraukimas padarytų esminės turtinės ar neturtinės žalos vienam sutuoktiniui
+ar jų nepilnamečiams vaikams.
 4. Kitas
 sutuoktinis arba jo globėjas turi teisę pareikšti, kad santuoka iširo dėl
 prašymą padavusio sutuoktinio kaltės, ir reikalauti, kad teismas santuoką
@@ -7171,8 +7178,8 @@ nutrauktų dėl pareiškėjo kaltės. Jeigu tokį prašymą teismas pripažįsta
 pagrįstu, santuoka nutraukiama konstatuojant, kad ji iširo dėl santuokos
 nutraukimą inicijavusio sutuoktinio kaltės (šio kodekso 3.60 straipsnis).
  
-3.58 straipsnis. Privalomas globos (rūpybos) institucijos
-dalyvavimas
+3.58 straipsnis. Privalomas globos (rūpybos)
+institucijos dalyvavimas
 Jeigu vienas
 sutuoktinis yra neveiksnus, globos (rūpybos) institucija privalo pateikti
 teismui išvadą dėl neveiksnaus sutuoktinio turtinių teisių užtikrinimo
@@ -7202,8 +7209,8 @@ gyvenimas tapo negalimas.
 3.
 Preziumuojama, kad santuoka iširo dėl kito sutuoktinio kaltės, jeigu jis yra
 nuteisiamas už tyčinį nusikaltimą arba yra neištikimas, arba žiauriai elgiasi
-su kitu sutuoktiniu ar šeimos nariais, arba paliko šeimą ir daugiau kaip vienerius
-metus visiškai ja nesirūpina.
+su kitu sutuoktiniu ar šeimos nariais, arba paliko šeimą ir daugiau kaip
+vienerius metus visiškai ja nesirūpina.
  
 3.61 straipsnis. Abiejų sutuoktinių kaltė
 1. Sutuoktinis,
@@ -7264,9 +7271,9 @@ vieną sutuoktinį netrukdyti kitam sutuoktiniui naudotis tam tikru turtu;
 4) priteisti iš
 vieno sutuoktinio laikiną išlaikymą nepilnamečiams vaikams ar kitam
 sutuoktiniui;
-5) areštuoti
-turtą, kol bus išspręstas jo priklausomybės nuosavybės teise vienam
-sutuoktiniui klausimas, taip pat siekiant užtikrinti išlaikymo mokėjimą;
+5) areštuoti turtą,
+kol bus išspręstas jo priklausomybės nuosavybės teise vienam sutuoktiniui
+klausimas, taip pat siekiant užtikrinti išlaikymo mokėjimą;
 6) areštuoti
 vieno sutuoktinio turtą, kurio verte būtų galima užtikrinti teismo išlaidų
 atlyginimą kitam sutuoktiniui;
@@ -7290,8 +7297,8 @@ tris darbo dienas po teismo sprendimo nutraukti santuoką įsiteisėjimo dienos
 privalo išsiųsti sprendimo kopiją teismo buvimo vietos civilinės metrikacijos
 įstaigai, kuri įregistruoja santuokos nutraukimo faktą.
  
-3.67 straipsnis. Santuokos nutraukimo įtaka sutuoktinių
-turtinėms teisėms
+3.67 straipsnis. Santuokos nutraukimo įtaka
+sutuoktinių turtinėms teisėms
 1. Santuokos
 nutraukimas sutuoktinių turtinėms teisėms teisines pasekmes sukelia nuo
 santuokos nutraukimo bylos iškėlimo.
@@ -7314,10 +7321,11 @@ turtines teises, o trečiasis asmuo buvo nesąžiningas.
 1. Sutuoktinis
 po santuokos nutraukimo gali pasilikti savo santuokinę arba iki santuokos
 turėtą pavardę.
-2. Jeigu santuoka
-buvo nutraukta dėl vieno sutuoktinio kaltės, tai kito sutuoktinio reikalavimu
-teismas gali uždrausti kaltam dėl santuokos iširimo sutuoktiniui pasilikti
-santuokinę pavardę, išskyrus atvejus, kai sutuoktiniai turi bendrų vaikų.
+2. Jeigu
+santuoka buvo nutraukta dėl vieno sutuoktinio kaltės, tai kito sutuoktinio
+reikalavimu teismas gali uždrausti kaltam dėl santuokos iširimo sutuoktiniui
+pasilikti santuokinę pavardę, išskyrus atvejus, kai sutuoktiniai turi bendrų
+vaikų.
  
 3.70 straipsnis. Santuokos nutraukimo
 dėl vieno sutuoktinio kaltės teisinės pasekmės
@@ -7325,11 +7333,11 @@ dėl vieno sutuoktinio kaltės teisinės pasekmės
 santuoka nutraukta dėl vieno sutuoktinio kaltės, tai sutuoktinis, kaltas dėl
 santuokos nutraukimo, praranda tas teises, kurias įstatymai ar vedybų sutartis
 suteikia išsituokusiam asmeniui, įskaitant teisę į išlaikymą.
-2. Kitas
-sutuoktinis turi teisę reikalauti iš kalto dėl santuokos nutraukimo sutuoktinio
-atlyginti turtinę žalą, susijusią su santuokos nutraukimu, taip pat ir
-neturtinę žalą, padarytą dėl santuokos nutraukimo. Ši nuostata netaikoma, jeigu
-santuoka nutraukta dėl abiejų sutuoktinių kaltės.
+2. Kitas sutuoktinis
+turi teisę reikalauti iš kalto dėl santuokos nutraukimo sutuoktinio atlyginti
+turtinę žalą, susijusią su santuokos nutraukimu, taip pat ir neturtinę žalą,
+padarytą dėl santuokos nutraukimo. Ši nuostata netaikoma, jeigu santuoka
+nutraukta dėl abiejų sutuoktinių kaltės.
 3. Kaltas dėl
 santuokos nutraukimo sutuoktinis, kai yra kito sutuoktinio reikalavimas,
 privalo grąžinti iš jo gautas dovanas, išskyrus vestuvinį žiedą, jeigu vedybų
@@ -7362,10 +7370,10 @@ reikalingam buvusiam sutuoktiniui, jeigu išlaikymo klausimai nenustatyti
 sutuoktinių sudarytoje sutartyje dėl santuokos nutraukimo pasekmių. Sutuoktinis
 neturi teisės į išlaikymą, jeigu jo turimas turtas ar gaunamos pajamos yra
 pakankami visiškai save išlaikyti.
-2.
-Preziumuojama, kad sutuoktiniui reikalingas išlaikymas, jeigu jis augina bendrą
-savo ir buvusio sutuoktinio nepilnametį vaiką, yra nedarbingas dėl savo amžiaus
-ar sveikatos būklės.
+2. Preziumuojama,
+kad sutuoktiniui reikalingas išlaikymas, jeigu jis augina bendrą savo ir
+buvusio sutuoktinio nepilnametį vaiką, yra nedarbingas dėl savo amžiaus ar
+sveikatos būklės.
 3. Sutuoktinis,
 kuris dėl santuokos sudarymo ir bendrų šeimos interesų ar vaikų priežiūros
 negalėjo įgyti kvalifikacijos (baigti studijų), turi teisę reikalauti iš
@@ -7373,11 +7381,11 @@ buvusio sutuoktinio atlyginti mokymosi baigimo ar savo perkvalifikavimo
 išlaidas.
 4. Sutuoktinis,
 dėl kurio kaltės nutraukta santuoka, neturi teisės į išlaikymą.
-5. Teismas,
-spręsdamas išlaikymo priteisimo ir jo dydžio klausimus, privalo atsižvelgti į
-santuokos trukmę, išlaikymo reikalingumą, abiejų buvusių sutuoktinių turtinę
-padėtį, jų sveikatos būklę, amžių, taip pat į jų darbingumą, nedirbančio
-sutuoktinio įsidarbinimo galimybes bei kitas svarbias aplinkybes.
+5. Teismas, spręsdamas
+išlaikymo priteisimo ir jo dydžio klausimus, privalo atsižvelgti į santuokos
+trukmę, išlaikymo reikalingumą, abiejų buvusių sutuoktinių turtinę padėtį, jų
+sveikatos būklę, amžių, taip pat į jų darbingumą, nedirbančio sutuoktinio
+įsidarbinimo galimybes bei kitas svarbias aplinkybes.
 6. Išlaikymo
 dydis mažinamas ar priteisiamas tik laikinas išlaikymas arba atsisakoma
 priteisti išlaikymą, jeigu yra bent viena iš šių aplinkybių:
@@ -7393,8 +7401,8 @@ kaltais veiksmais;
 reikalaujantis sutuoktinis santuokos metu neprisidėjo prie bendro turto
 gausinimo ar tyčia kenkė kito sutuoktinio ar šeimos interesams.
 7. Teismas gali
-pareikalauti iš buvusio sutuoktinio, privalančio teikti išlaikymą kitam sutuoktiniui,
-pateikti adekvatų šios prievolės įvykdymo užtikrinimą.
+pareikalauti iš buvusio sutuoktinio, privalančio teikti išlaikymą kitam
+sutuoktiniui, pateikti adekvatų šios prievolės įvykdymo užtikrinimą.
 8. Išlaikymas
 priteisiamas nustatyto dydžio vienkartine pinigų suma arba periodinėmis
 išmokomis (renta), mokamomis kas mėnesį, arba priteisiamas tam tikras turtas.
@@ -7436,8 +7444,8 @@ GYVENIMAS SKYRIUM (SEPARACIJA)
 sutuoktinis gali kreiptis su prašymu į teismą dėl gyvenimo skyrium
 patvirtinimo, jeigu dėl tam tikrų aplinkybių, nors ir nepriklausančių nuo kito
 sutuoktinio, bendras jų gyvenimas tapo netoleruotinas (neįmanomas) arba gali iš
-esmės pakenkti jų nepilnamečių vaikų interesams, arba sutuoktiniai
-nesuinteresuoti tęsti bendrą gyvenimą.
+esmės pakenkti jų nepilnamečių vaikų interesams, arba sutuoktiniai nesuinteresuoti
+tęsti bendrą gyvenimą.
 2. Abu
 sutuoktiniai gali kreiptis su bendru prašymu į teismą dėl gyvenimo skyrium
 patvirtinimo, jeigu dėl gyvenimo skyrium pasekmių jie yra sudarę sutartį,
@@ -7492,10 +7500,10 @@ vieno sutuoktinio teisių ir teisėtų interesų. Patvirtinęs sutartį, teismas
 turinį įrašo į sprendimą.
 5. Jeigu po
 teismo sprendimo įsiteisėjimo iš esmės pasikeičia aplinkybės, reikšmingos
-sprendžiant sutuoktinių gyvenimo skyrium klausimus, bet kuris sutuoktinis turi
-teisę reikalauti, kad teismas apsvarstytų ankstesnį sprendimą ir,
-atsižvelgdamas į iš esmės pasikeitusias aplinkybes, šio straipsnio 1 dalyje
-išvardytus klausimus išspręstų kitaip.
+sprendžiant sutuoktinių gyvenimo skyrium klausimus, bet kuris sutuoktinis turi teisę
+reikalauti, kad teismas apsvarstytų ankstesnį sprendimą ir, atsižvelgdamas į iš
+esmės pasikeitusias aplinkybes, šio straipsnio 1 dalyje išvardytus klausimus
+išspręstų kitaip.
  
 3.77 straipsnis. Gyvenimo skyrium teisinės pasekmės
 1. Kai teismas
@@ -7503,8 +7511,8 @@ priima sprendimą dėl gyvenimo skyrium, baigiasi sutuoktinių bendras gyvenimas
 tačiau kitos sutuoktinių teisės ir pareigos išlieka, išskyrus šio kodekso
 numatytas išimtis.
 2. Gyvenimas
-skyrium neturi įtakos sutuoktinių teisėms ir pareigoms jų nepilnamečiams
-vaikams, išskyrus šio kodekso numatytas išimtis.
+skyrium neturi įtakos sutuoktinių teisėms ir pareigoms jų nepilnamečiams vaikams,
+išskyrus šio kodekso numatytas išimtis.
 3. Priimdamas
 sprendimą dėl sutuoktinių gyvenimo skyrium, visais atvejais teismas privalo
 išspręsti sutuoktinių bendro turto padalijimo klausimus, jeigu šie klausimai
@@ -7517,12 +7525,12 @@ sutuoktinių turtinėms teisėms teisines pasekmes sukėlė nuo tos dienos, kai 
 faktiškai nustojo kartu gyventi.
 5. Jeigu po
 teismo sprendimo dėl sutuoktinių gyvenimo skyrium vienas jų miršta, tai
-pergyvenęs sutuoktinis išsaugo visas teises, kurias įstatymai suteikia
-pergyvenusiam sutuoktiniui, išskyrus atvejus, kai pergyvenęs sutuoktinis teismo
-sprendimu yra pripažintas kaltu dėl gyvenimo skyrium. Ta pati taisyklė taikoma
-ir kai sprendimą dėl gyvenimo skyrium priima teismas pagal bendrą abiejų
-sutuoktinių prašymą, jeigu sutuoktinių sutartyje nenumatyta ko kita. Tačiau
-pergyvenęs sutuoktinis negali paveldėti mirusio sutuoktinio turto.
+pergyvenęs sutuoktinis išsaugo visas teises, kurias įstatymai suteikia pergyvenusiam
+sutuoktiniui, išskyrus atvejus, kai pergyvenęs sutuoktinis teismo sprendimu yra
+pripažintas kaltu dėl gyvenimo skyrium. Ta pati taisyklė taikoma ir kai
+sprendimą dėl gyvenimo skyrium priima teismas pagal bendrą abiejų sutuoktinių
+prašymą, jeigu sutuoktinių sutartyje nenumatyta ko kita. Tačiau pergyvenęs
+sutuoktinis negali paveldėti mirusio sutuoktinio turto.
  
 3.78 straipsnis. Sutuoktinių tarpusavio išlaikymas
 1. Teismas,
@@ -7647,8 +7655,8 @@ straipsnio nustatyta tvarka.
 Sutuoktinis, kuris yra nekilnojamojo daikto, priskirto šeimos turtui,
 savininkas, gali perleisti nuosavybės teisę į jį, įkeisti ar kitaip suvaržyti
 teises į jį tik gavęs kito sutuoktinio rašytinį sutikimą. Jeigu sutuoktiniai
-turi nepilnamečių vaikų, nekilnojamojo daikto, kuris yra šeimos turtas, sandoriams
-sudaryti būtinas teismo leidimas.
+turi nepilnamečių vaikų, nekilnojamojo daikto, kuris yra šeimos turtas,
+sandoriams sudaryti būtinas teismo leidimas.
 3. Iš šeimos
 turto negali būti išieškoma pagal kreditorių reikalavimus, jeigu kreditoriai
 žinojo arba turėjo žinoti, kad sandorio sudarymas nesusijęs su šeimos poreikių
@@ -7706,8 +7714,8 @@ sutuoktinių nuosavybė po santuokos sudarymo yra iš įmonės veiklos ar kitoki
 verslo gautos pajamos ir įmonės (verslo) vertės padidėjimas;
 5) pajamos,
 gautos po santuokos sudarymo iš sutuoktinių ar vieno jų darbinės ar
-intelektinės veiklos, dividendai, taip pat pensijos, pašalpos bei kitokios išmokos,
-išskyrus tikslinės paskirties išmokas (žalos, padarytos dėl sveikatos
+intelektinės veiklos, dividendai, taip pat pensijos, pašalpos bei kitokios
+išmokos, išskyrus tikslinės paskirties išmokas (žalos, padarytos dėl sveikatos
 sužalojimo, taip pat neturtinės žalos atlyginimas, gauta tikslinė materialinė
 parama, skirta tik vienam sutuoktiniui, ir kita).
 2.
@@ -7783,8 +7791,9 @@ iki santuokos sudarymo, pajamos, išskyrus lėšas, būtinas asmeninei sutuoktin
 įmonei (ūkiui, verslui) funkcionuoti, yra bendroji jungtinė nuosavybė, jeigu
 šis turtas ar pajamos yra santuokos nutraukimo momentu.
  
-3.92 straipsnis. Turto, kuris yra bendroji
-jungtinė sutuoktinių nuosavybė, valdymas, naudojimas ir disponavimas juo
+3.92 straipsnis. Turto, kuris yra
+bendroji jungtinė sutuoktinių nuosavybė, valdymas, naudojimas ir disponavimas
+juo
 1. Turtu, kuris
 yra bendroji jungtinė nuosavybė, sutuoktiniai naudojasi, jį valdo ir juo
 disponuoja bendru sutarimu.
@@ -7815,10 +7824,10 @@ dėl bendros įmonės perleidimo ar teisių į ją suvaržymo bei vertybinių po
 kurie yra bendroji jungtinė sutuoktinių nuosavybė, perleidimo ar teisių į juos
 suvaržymo gali sudaryti tik abu sutuoktiniai, išskyrus tuos atvejus, kai vienas
 iš sutuoktinių turi kito sutuoktinio išduotą įgaliojimą tokį sandorį sudaryti.
-5. Kiekvienas
-sutuoktinis turi teisę be kito sutuoktinio sutikimo atidaryti banko depozitinę
-sąskaitą savo vardu ir laisvai disponuoti joje esančiomis lėšomis, jeigu tos
-piniginės lėšos nebuvo perduotos bendrojon jungtinėn nuosavybėn.
+5. Kiekvienas sutuoktinis
+turi teisę be kito sutuoktinio sutikimo atidaryti banko depozitinę sąskaitą
+savo vardu ir laisvai disponuoti joje esančiomis lėšomis, jeigu tos piniginės
+lėšos nebuvo perduotos bendrojon jungtinėn nuosavybėn.
 6. Jeigu
 sandoris yra sudarytas be kito sutuoktinio sutikimo, tai sutikimo sudaryti
 sandorį nedavęs sutuoktinis gali tokį sandorį patvirtinti per vieną mėnesį nuo
@@ -7837,8 +7846,8 @@ sutuoktinio sutikimas, tai suinteresuotas sutuoktinis gali kreiptis į teismą
 prašydamas teismo leidimo tokį sandorį sudaryti.
 2. Teismas duoda
 leidimą sudaryti sandorį tik tuo atveju, jeigu suinteresuotas sutuoktinis
-įrodo, kad sandoris yra būtinas šeimos arba bendro sutuoktinių verslo
-poreikiams tenkinti.
+įrodo, kad sandoris yra būtinas šeimos arba bendro sutuoktinių verslo poreikiams
+tenkinti.
  
 3.94 straipsnis. Įgaliojimas tvarkyti turtą
 1. Vienas
@@ -7877,14 +7886,14 @@ sandorio šalis buvo nesąžininga.
 kuriems sudaryti buvo būtinas rašytinis kito sutuoktinio sutikimas arba kurie
 galėjo būti sudaryti tik abiejų sutuoktinių (šio kodekso 3.92 straipsnio 4
 dalis), gali būti pripažinti negaliojančiais, nesvarbu, ar kita sandorio šalis
-yra sąžininga ar nesąžininga, išskyrus atvejus, kai vienas arba abu sutuoktiniai
-sudarydami sandorį panaudojo apgaulę arba kai jie valstybės registrus
-tvarkančioms ar kitoms institucijoms ar pareigūnams suteikė neteisingų duomenų.
-Tokiais atvejais sandoris gali būti pripažintas negaliojančiu tik tada, jei
-kita sandorio šalis yra nesąžininga.
+yra sąžininga ar nesąžininga, išskyrus atvejus, kai vienas arba abu
+sutuoktiniai sudarydami sandorį panaudojo apgaulę arba kai jie valstybės
+registrus tvarkančioms ar kitoms institucijoms ar pareigūnams suteikė
+neteisingų duomenų. Tokiais atvejais sandoris gali būti pripažintas
+negaliojančiu tik tada, jei kita sandorio šalis yra nesąžininga.
  
-3.97 straipsnis. Turto, kuris yra
-asmeninė vieno sutuoktinio nuosavybė, tvarkymas
+3.97 straipsnis. Turto, kuris yra asmeninė
+vieno sutuoktinio nuosavybė, tvarkymas
 1. Turtu, kuris
 yra asmeninė vieno sutuoktinio nuosavybė, šis sutuoktinis naudojasi, jį valdo
 bei juo disponuoja savo nuožiūra. Turto, kurį šis kodeksas pripažįsta šeimos
@@ -8033,8 +8042,8 @@ bei kitus klausimus, susijusius su sutuoktinių tarpusavio turtiniais
 santykiais.
 5. Vedybų
 sutartyje numatytas sutuoktinių teises ir pareigas gali riboti tam tikras
-terminas, arba pareigų ir teisių atsiradimas ar pabaiga gali būti siejami su sutartyje
-numatytos sąlygos įvykdymu ar neįvykdymu.
+terminas, arba pareigų ir teisių atsiradimas ar pabaiga gali būti siejami su
+sutartyje numatytos sąlygos įvykdymu ar neįvykdymu.
  
 3.105 straipsnis. Negaliojančios vedybų sutarties
 sąlygos
@@ -8074,9 +8083,9 @@ panaudotas tik tada, jeigu vedybų sutarties pakeitimas ar nutraukimas yra
 sudarymo metu tretieji asmenys žinojo apie vedybų sutarties pakeitimą ar
 nutraukimą.
 3. Vieno
-sutuoktinio reikalavimu vedybų sutartis gali būti pakeista ar nutraukta teismo
-sprendimu, kai yra šio kodekso šeštojoje knygoje numatyti sutarties pakeitimo
-ar nutraukimo pagrindai.
+sutuoktinio reikalavimu vedybų sutartis gali būti pakeista ar nutraukta teismo sprendimu,
+kai yra šio kodekso šeštojoje knygoje numatyti sutarties pakeitimo ar
+nutraukimo pagrindai.
 4. Vieno ar
 abiejų sutuoktinių kreditoriai, kurių teises pažeidė vedybų sutarties
 pakeitimas ar nutraukimas, turi teisę per vienerius metus nuo tos dienos, kai
@@ -8131,12 +8140,11 @@ atsiradusios iš sandorių, kuriems sudaryti kito sutuoktinio sutikimo nereikėj
 jeigu jie buvo sudaryti šeimos interesais;
 6) solidariosios
 sutuoktinių prievolės.
-2. Kiekvienas
-sutuoktinis turi teisę sudaryti sandorius, būtinus išlaikyti šeimos namų ūkį ir
-užtikrinti vaikų auklėjimą bei švietimą. Pagal prievoles, kylančias iš tokių
-sandorių, sutuoktiniai atsako solidariai, nesvarbu, koks jų turto teisinis
-režimas, išskyrus atvejus, kai sandorio kaina yra aiškiai per didelė ir
-neprotinga.
+2. Kiekvienas sutuoktinis
+turi teisę sudaryti sandorius, būtinus išlaikyti šeimos namų ūkį ir užtikrinti
+vaikų auklėjimą bei švietimą. Pagal prievoles, kylančias iš tokių sandorių,
+sutuoktiniai atsako solidariai, nesvarbu, koks jų turto teisinis režimas,
+išskyrus atvejus, kai sandorio kaina yra aiškiai per didelė ir neprotinga.
 3. Solidarioji
 sutuoktinių prievolė neatsiranda, jeigu vienas sutuoktinis be kito sutuoktinio
 sutikimo ima paskolą ar perka prekių išsimokėtinai, kai tai nėra būtina
@@ -8229,16 +8237,16 @@ numatytais atvejais.
 3. Jeigu
 sutuoktiniui priteisto turto vertė viršija jo dalį iš bendro turto, tai šis
 sutuoktinis privalo kitam sutuoktiniui išmokėti kompensaciją. Pateikus adekvatų
-šios prievolės įvykdymo užtikrinimą, teismas kompensacijos išmokėjimą gali atidėti,
-bet ne ilgiau kaip dvejiems metams.
+šios prievolės įvykdymo užtikrinimą, teismas kompensacijos išmokėjimą gali
+atidėti, bet ne ilgiau kaip dvejiems metams.
 4. Vienam
 sutuoktiniui mirus, jo dalis iš bendro turto yra paveldima pagal šio kodekso
 penktosios knygos normų nustatytas taisykles.
  
 3.118 straipsnis. Turto balanso sudarymas
 1. Dalijant
-sutuoktinių bendrąją jungtinę nuosavybę, pirmiausia nustatomas bendras
-sutuoktinių turtas ir vieno ir kito asmeninis turtas.
+sutuoktinių bendrąją jungtinę nuosavybę, pirmiausia nustatomas bendras sutuoktinių
+turtas ir vieno ir kito asmeninis turtas.
 2. Iš bendro
 sutuoktinių turto pirmiausia turi būti sumokamos (priteisiamos) iš šio turto
 mokėtinos skolos, kurių mokėjimo terminas yra suėjęs. Jeigu iš bendro
@@ -8359,14 +8367,14 @@ dalis, jeigu galima taip padalyti. Jeigu natūra abiem sutuoktiniams turto
 padalyti negalima, turtas natūra priteisiamas vienam sutuoktiniui, kartu jį
 įpareigojant kompensuoti antram sutuoktiniui jo dalį pinigais. Parenkant turto
 padalijimo būdą ir padalijant turtą natūra, atsižvelgiama į nepilnamečių vaikų
-interesus, vieno sutuoktinio sveikatos būklę ar turtinę padėtį arba kitas
-svarbias aplinkybes.
+interesus, vieno sutuoktinio sveikatos būklę ar turtinę padėtį arba kitas svarbias
+aplinkybes.
  
 3.128 straipsnis. Sutuoktinių tarpusavio
 pareigos po turto padalijimo, kai santuoka nėra nutraukiama
 1. Sutuoktinis,
-kurio prašymu buvo padalytas turtas, privalo pagal galimybes prisidėti prie šeimos
-namų ūkio išlaikymo ir vaikų auklėjimo bei švietimo.
+kurio prašymu buvo padalytas turtas, privalo pagal galimybes prisidėti prie
+šeimos namų ūkio išlaikymo ir vaikų auklėjimo bei švietimo.
 2. Jeigu kitas
 sutuoktinis dėl objektyvių priežasčių negali prisidėti prie šeimos namų ūkio
 išlaikymo ir vaikų auklėjimo bei švietimo, visas šias išlaidas turi padengti
@@ -8409,22 +8417,22 @@ tėvai, vaikai, vaikaičiai, provaikaičiai ir t. t.).
 2. Giminystė,
 einanti iš palikuonio į protėvį, yra tiesioji aukštutinė giminystės linija
 (vaikaičiai, vaikai, tėvai, seneliai ir t. t.).
-3. Giminystė, einanti
-iš protėvio į palikuonį, yra tiesioji žemutinė giminystės linija (seneliai,
-tėvai, vaikai, vaikaičiai ir t. t.).
+3. Giminystė,
+einanti iš protėvio į palikuonį, yra tiesioji žemutinė giminystės linija
+(seneliai, tėvai, vaikai, vaikaičiai ir t. t.).
  
 3.133 straipsnis. Šoninė giminystės linija
 Giminystė tarp
-asmenų, kilusių iš bendro protėvio, yra šoninė giminystės linija (broliai ir seserys,
-pusbroliai ir pusseserės, dėdės arba tetos ir sūnėnai arba dukterėčios ir t.
-t.).
+asmenų, kilusių iš bendro protėvio, yra šoninė giminystės linija (broliai ir
+seserys, pusbroliai ir pusseserės, dėdės arba tetos ir sūnėnai arba dukterėčios
+ir t. t.).
  
 3.134 straipsnis. Giminystės laipsnis
 1. Giminystės
 laipsnis – tai skaičius gimimų, kurie sieja giminaičius, išskyrus bendro
 protėvio (protėvių) gimimą.
-2. Teisines pasekmes
-sukelia tik įstatymų numatytas giminystės artumo laipsnis.
+2. Teisines
+pasekmes sukelia tik įstatymų numatytas giminystės artumo laipsnis.
  
 3.135 straipsnis. Artimieji giminaičiai
 Artimaisiais
@@ -8534,8 +8542,8 @@ yra suėję dešimt metų, pareiškimas dėl tėvystės pripažinimo civilinės
 metrikacijos įstaigoje gali būti priimamas tik tuo atveju, kai yra vaiko
 rašytinis sutikimas.
 3. Jei tėvystę
-pripažįstantis asmuo yra nepilnametis, paduodant civilinės metrikacijos įstaigai
-pareiškimą dėl tėvystės pripažinimo, reikalaujamas jo tėvų, globėjų ar
+pripažįstantis asmuo yra nepilnametis, paduodant civilinės metrikacijos
+įstaigai pareiškimą dėl tėvystės pripažinimo, reikalaujamas jo tėvų, globėjų ar
 rūpintojų rašytinis sutikimas. Jeigu tėvai, globėjai ar rūpintojai tokio
 sutikimo neduoda, leidimą gali duoti teismas nepilnamečio prašymu.
  
@@ -8544,9 +8552,9 @@ vaikas
 1. Jei yra
 aplinkybių, dėl kurių vaikui gimus nebus galima paduoti pareiškimą dėl tėvystės
 pripažinimo, vyras, laikantis save pradėto, bet dar negimusio vaiko
-tėvu, kartu su būsima vaiko motina gali civilinės metrikacijos įstaigai pagal būsimos
-vaiko motinos gyvenamąją vietą paduoti pareiškimą dėl tėvystės pripažinimo
-vaiko motinos nėštumo laikotarpiu.
+tėvu, kartu su būsima vaiko motina gali civilinės metrikacijos įstaigai pagal
+būsimos vaiko motinos gyvenamąją vietą paduoti pareiškimą dėl tėvystės
+pripažinimo vaiko motinos nėštumo laikotarpiu.
 2. Paduodant
 pareiškimą dėl tėvystės pripažinimo, kol gims vaikas, kartu pateikiama
 medicinos įstaigos išduota pažyma apie nėštumą.
@@ -8609,9 +8617,9 @@ palikuonių.
 3.147 straipsnis. Asmenys, turintys teisę kreiptis
 dėl tėvystės nustatymo
 1. Jei vaikas
-gimė nesusituokusiai motinai ar nuginčyti vaiko gimimo įraše duomenys apie
-tėvą, ieškinį dėl tėvystės nustatymo gali pareikšti vyras, laikantis save vaiko
-tėvu. Atsakovai pagal tokį ieškinį yra vaikas ir jo motina.
+gimė nesusituokusiai motinai ar nuginčyti vaiko gimimo įraše duomenys apie tėvą,
+ieškinį dėl tėvystės nustatymo gali pareikšti vyras, laikantis save vaiko tėvu.
+Atsakovai pagal tokį ieškinį yra vaikas ir jo motina.
 2. Jei vaiko
 tėvas atsisako pripažinti tėvystę pareiškimu dėl tėvystės pripažinimo ar vaiko
 tėvas mirė, ieškinį dėl tėvystės nustatymo gali paduoti vaiko motina, vaikas,
@@ -8739,8 +8747,8 @@ nepilnamečiams vaikams atstovauja pateikę vaiko gimimo liudijimą.
 veiksnūs tėvai turi visas asmenines teises ir pareigas savo vaikams.
 2. Nepilnamečiai
 neveiksnūs ar ribotai veiksnūs tėvai turi teisę kartu su savo vaiku gyventi ir
-dalyvauti jį auklėjant. Tokiais atvejais vaikui yra skiriamas globėjas
-(rūpintojas) šios knygos nustatyta tvarka.
+dalyvauti jį auklėjant. Tokiais atvejais vaikui yra skiriamas globėjas (rūpintojas)
+šios knygos nustatyta tvarka.
 3. Sulaukę
 pilnametystės ar tapę veiksnūs, tėvai įgyja vaikams visas teises ir pareigas.
  
@@ -8997,9 +9005,9 @@ Tėvų valdžios apribojimas
 1. Tais atvejais, kai tėvai
 (tėvas ar motina) negyvena kartu su vaiku dėl susiklosčiusių objektyvių
 aplinkybių (dėl ligos ir pan.) ir reikia nuspręsti, kur turi gyventi vaikas,
-teismas gali nuspręsti atskirti vaiką nuo tėvų (tėvo ar motinos). Jei nepalankios
-aplinkybės susiklosto vienam iš tėvų, o kitas gali gyventi kartu su vaiku ir
-auklėti jį, vaikas atskiriamas tik nuo to iš tėvų.
+teismas gali nuspręsti atskirti vaiką nuo tėvų (tėvo ar motinos). Jei
+nepalankios aplinkybės susiklosto vienam iš tėvų, o kitas gali gyventi kartu su
+vaiku ir auklėti jį, vaikas atskiriamas tik nuo to iš tėvų.
 2. Atskirtam nuo
 tėvų vaikui išsaugomos visos asmeninės ir turtinės teisės bei pareigos,
 pagrįstos giminyste.
@@ -9043,7 +9051,8 @@ tėvai (tėvas ar motina) pakeitė savo elgesį ir gali auklėti vaiką, ir jei 
 valdžios apribojimo panaikinimas neprieštarauja vaiko interesams.
 3. Jei
 aplinkybės pasikeitė, tačiau nėra pakankamo pagrindo visiškai panaikinti
-neterminuotą tėvų valdžios apribojimą, jis gali būti pakeistas laikinu apribojimu.
+neterminuotą tėvų valdžios apribojimą, jis gali būti pakeistas laikinu
+apribojimu.
 4. Jei
 paaiškėja, kad panaikinus tėvų valdžios laikiną ar neterminuotą apribojimą
 lieka sąlygos, dėl kurių vaikas negali gyventi kartu su tėvais, tėvų valdžios
@@ -9056,8 +9065,8 @@ apribojimas.
 6. Tėvų valdžios
 apribojimą galima panaikinti tik tuomet, jei vaikas neįvaikintas.
  
-3.182 straipsnis. Asmenys, turintys
-teisę kreiptis dėl tėvų valdžios apribojimo ar apribojimo panaikinimo
+3.182 straipsnis. Asmenys, turintys teisę
+kreiptis dėl tėvų valdžios apribojimo ar apribojimo panaikinimo
 1. Prašymą dėl
 vaiko atskyrimo nuo tėvų (tėvo ar motinos) gali paduoti vaiko tėvai, artimieji
 giminaičiai, valstybinė vaikų teisių apsaugos institucija, prokuroras.
@@ -9088,8 +9097,8 @@ ir vaiko interesus.
 išklauso vaiko, galinčio suformuluoti savo pažiūras, nuomonę ir į tai
 atsižvelgia.
 4. Priėmęs
-sprendimą apriboti tėvų valdžią, teismas tuo pačiu sprendimu skiria vaikui
-globą (rūpybą) ir nustato jo gyvenamąją vietą.
+sprendimą apriboti tėvų valdžią, teismas tuo pačiu sprendimu skiria vaikui globą
+(rūpybą) ir nustato jo gyvenamąją vietą.
  
 3.184 straipsnis. Privalomas valstybinės
 vaikų teisių apsaugos institucijos dalyvavimas
@@ -9125,10 +9134,10 @@ darydami žalą nepilnamečio turtiniams interesams, valstybinė vaiko teisių
 apsaugos institucija arba prokuroras turi teisę kreiptis į teismą ir prašyti
 nušalinti tėvus nuo nepilnamečiui priklausančio turto tvarkymo. Jei yra
 pagrindas, teismas nušalina tėvus nuo jų nepilnamečio vaiko turto tvarkymo,
-panaikina tėvų uzufrukto teisę į vaiko turtą bei skiria kitą asmenį
-nepilnamečiui priklausančio turto administratoriumi. Kai išnyksta nušalinimo
-pagrindai, teismas gali leisti tėvams toliau tvarkyti jų nepilnamečių vaikų
-turtą uzufrukto teisėmis.
+panaikina tėvų uzufrukto teisę į vaiko turtą bei skiria kitą asmenį nepilnamečiui
+priklausančio turto administratoriumi. Kai išnyksta nušalinimo pagrindai,
+teismas gali leisti tėvams toliau tvarkyti jų nepilnamečių vaikų turtą
+uzufrukto teisėmis.
  
 3.186
 straipsnis. Tėvų pareigos tvarkant nepilnamečių vaikų turtą
@@ -9140,8 +9149,8 @@ naudoti šeimos reikmėms, atsižvelgdami į vaiko interesus.
 3. Nepilnamečio
 vaiko turtą tvarkantys tėvai neturi teisės tiesiogiai ar per tarpininkus
 įsigyti savo nuosavybėn šio turto ar teisių į jį. Ši nuostata taip pat taikoma
-parduodant nepilnamečio turtą ar teises į jį varžytynėse. Ieškinį dėl tokių sandorių
-pripažinimo negaliojančiais gali pareikšti vaikas ar jo įpėdiniai. 
+parduodant nepilnamečio turtą ar teises į jį varžytynėse. Ieškinį dėl tokių
+sandorių pripažinimo negaliojančiais gali pareikšti vaikas ar jo įpėdiniai. 
 4. Nepilnamečio
 vaiko tėvams draudžiama sudaryti reikalavimo perleidimo sutartį, pagal kurią
 jie įgytų reikalavimo teisę į savo nepilnamečio vaiko turtą ar jo teises.
@@ -9162,8 +9171,8 @@ uzufruktas.
 straipsnis. Sandoriai, susiję su nepilnamečio vaiko turtu
 1. Be
 išankstinio teismo leidimo tėvai neturi teisės:
-1) perleisti, įkeisti
-savo nepilnamečių vaikų turtą ar kitaip suvaržyti teises į jį;
+1) perleisti,
+įkeisti savo nepilnamečių vaikų turtą ar kitaip suvaržyti teises į jį;
 2) savo
 nepilnamečių vaikų vardu priimti ar atsisakyti priimti palikimą;
 3) sudaryti
@@ -9181,9 +9190,9 @@ sudarant sandorį kyla interesų konfliktas tarp tų pačių tėvų nepilnameči
 arba tarp nepilnamečio vaiko ir jo tėvų, bet kurio iš tėvų prašymu teismas tam
 sandoriui sudaryti skiria ad hoc globėją.
 3. Jeigu kyla
-interesų konfliktas tarp nepilnamečio vaiko ir vieno iš jo tėvų, vaiko
-interesams atstovauja ir sandorius sudaro tas iš tėvų, tarp kurio ir vaiko nėra
-interesų konflikto.
+interesų konfliktas tarp nepilnamečio vaiko ir vieno iš jo tėvų, vaiko interesams
+atstovauja ir sandorius sudaro tas iš tėvų, tarp kurio ir vaiko nėra interesų
+konflikto.
 4. Pažeidus šio
 straipsnio 1, 2 ir 3 dalyse nustatytas normas, sandoris gali būti pripažintas
 negaliojančiu pagal vaiko, vieno iš jo tėvų ar jų įpėdinių ieškinį.
@@ -9205,10 +9214,10 @@ uzufrukto teise tvarko tik šis tėvas arba motina. Ištuokos ar gyvenimo skyriu
 atveju turto tvarkymo teisė priklauso tam iš tėvų, su kuriuo lieka gyventi
 vaikas.
 2. Jei
-nepilnamečio vaiko tėvas (motina) sudaro naują santuoką, jis (ji) išsaugo
-uzufrukto teisę į nepilnamečio vaiko turtą, tačiau privalo pervesti į vaiko
-sąskaitą visas turto duodamas pajamas ir atskirai sutvarkyti vaisių apskaitą,
-kurie viršija išlaidas vaiko ugdymui (auklėjimui, lavinimui, materialiniam
+nepilnamečio vaiko tėvas (motina) sudaro naują santuoką, jis (ji) išsaugo uzufrukto
+teisę į nepilnamečio vaiko turtą, tačiau privalo pervesti į vaiko sąskaitą
+visas turto duodamas pajamas ir atskirai sutvarkyti vaisių apskaitą, kurie
+viršija išlaidas vaiko ugdymui (auklėjimui, lavinimui, materialiniam
 aprūpinimui). Jeigu naujas vaiko tėvo (motinos) sutuoktinis vaiką įvaikina, tai
 jis taip pat įgyja turto tvarkymo teisę.
  
@@ -9291,9 +9300,9 @@ sulaukė pilnametystės;
 4) vaikas
 miršta.
 5. Kai asmuo, iš
-kurio buvo priteistas išlaikymas, mirė, išlaikymo pareiga pereina jo
-įpėdiniams, kiek leidžia paveldimas turtas, nesvarbu, koks palikimo priėmimo
-būdas pagal šio kodekso penktosios knygos normas.
+kurio buvo priteistas išlaikymas, mirė, išlaikymo pareiga pereina jo įpėdiniams,
+kiek leidžia paveldimas turtas, nesvarbu, koks palikimo priėmimo būdas pagal
+šio kodekso penktosios knygos normas.
  
 *Pastaba.
 Pripažinti,
@@ -9337,8 +9346,8 @@ straipsnis. Priverstinis įkeitimas (hipoteka)
 Prireikus
 teismas, priimdamas sprendimą dėl išlaikymo priteisimo, nustato tėvų (ar vieno
 iš jų) turtui priverstinį įkeitimą (hipoteką). Jeigu teismo sprendimas dėl
-išlaikymo išieškojimo nevykdomas, tai išieškoma iš įkeisto turto įstatymų nustatyta
-tvarka.
+išlaikymo išieškojimo nevykdomas, tai išieškoma iš įkeisto turto įstatymų
+nustatyta tvarka.
  
 3.198 straipsnis. Išlaikymo priteisimas,
 kai išlaikymas turi būti mokamas dviem ar daugiau vaikų 
@@ -9370,10 +9379,10 @@ gali pagal vaiko, jo tėvo (motinos) arba valstybinės vaiko teisių apsaugos
 institucijos ar prokuroro ieškinį sumažinti arba padidinti priteisto išlaikymo
 dydį, jeigu po teismo sprendimo, kuriuo buvo priteistas išlaikymas, priėmimo iš
 esmės pasikeitė šalių turtinė padėtis.
-2. Priteisto išlaikymo
-dydis gali būti padidintas atsiradus papildomoms vaiko priežiūros išlaidoms
-(vaiko liga, sužalojimas, slaugymas ar nuolatinė priežiūra). Prireikus teismas
-gali priteisti atlyginti ir būsimas vaiko gydymo išlaidas.
+2. Priteisto
+išlaikymo dydis gali būti padidintas atsiradus papildomoms vaiko priežiūros
+išlaidoms (vaiko liga, sužalojimas, slaugymas ar nuolatinė priežiūra).
+Prireikus teismas gali priteisti atlyginti ir būsimas vaiko gydymo išlaidas.
 3. Teismas pagal
 šio straipsnio 1 dalyje nurodytų asmenų prašymą gali pakeisti priteisto
 išlaikymo formą.
@@ -9397,9 +9406,9 @@ straipsnis. Išlaikymo naudojimas
 skirtas išlaikymas privalo būti naudojamas tik jo interesams.
 2. Vaikui
 skirtas išlaikymas, kurį jo tėvai, globėjai (rūpintojai) panaudoja ne vaiko
-interesams, yra išieškomas iš asmens, panaudojusio išlaikymą ne vaiko interesams,
-turto pagal vaiko atstovų, valstybinės vaikų teisių apsaugos institucijos ar
-prokuroro ieškinį.
+interesams, yra išieškomas iš asmens, panaudojusio išlaikymą ne vaiko
+interesams, turto pagal vaiko atstovų, valstybinės vaikų teisių apsaugos
+institucijos ar prokuroro ieškinį.
  
 3.204
 straipsnis. Valstybės išlaikomi vaikai
@@ -9496,9 +9505,9 @@ nesusituokusiam asmeniui ar vienam iš sutuoktinių.
 3. Nesusituokę
 asmenys to paties vaiko įvaikinti negali.
 4. Įvaikintojai
-negali būti asmenys, teismo pripažinti neveiksniais arba ribotai veiksniais, asmenys,
-kuriems yra ar buvo apribota tėvų valdžia, buvę vaiko globėjai (rūpintojai),
-jei globa (rūpyba) panaikinta dėl jų kaltės.
+negali būti asmenys, teismo pripažinti neveiksniais arba ribotai veiksniais,
+asmenys, kuriems yra ar buvo apribota tėvų valdžia, buvę vaiko globėjai
+(rūpintojai), jei globa (rūpyba) panaikinta dėl jų kaltės.
 5. Asmenys,
 norintys įsivaikinti vaiką (išskyrus vaiko motinos (tėvo) sutuoktinį ir
 giminaičius), turi būti įtraukti į asmenų, norinčių įsivaikinti vaiką,
@@ -9520,9 +9529,9 @@ kurių šeimoje auklėjamas ir išlaikomas vaikas, kurį norima įvaikinti.
  
 3.211
 straipsnis. Amžiaus skirtumas tarp įvaikintojo ir įvaikinamo vaiko
-1. Amžiaus
-skirtumas tarp įvaikintojo ir įvaikinamo vaiko turi būti ne mažesnis kaip
-aštuoniolika metų.
+1. Amžiaus skirtumas
+tarp įvaikintojo ir įvaikinamo vaiko turi būti ne mažesnis kaip aštuoniolika
+metų.
 2. Įvaikinant
 savo sutuoktinio vaikus arba įvaikius, amžiaus skirtumas, nustatytas šio
 straipsnio 1 dalyje, teismo gali būti sumažintas iki penkiolikos metų.
@@ -9537,9 +9546,9 @@ globėjų (rūpintojų) rašytinis sutikimas, patvirtintas teismo. Jei įvaikina
 vaikas turi įstatymų nustatyta tvarka paskirtą globėją (rūpintoją) (išskyrus
 valstybinę globos instituciją), būtinas globėjo (rūpintojo) rašytinis
 sutikimas, patvirtintas teismo.
-3. Tėvai sutikimą
-įvaikinti vaiką konkrečiam įvaikintojui gali duoti tik tuo atveju, jei jis yra
-giminaitis.
+3. Tėvai
+sutikimą įvaikinti vaiką konkrečiam įvaikintojui gali duoti tik tuo atveju, jei
+jis yra giminaitis.
 4. Patvirtinęs
 tėvų (globėjų, rūpintojų) rašytinį sutikimą, teismas nutartimi tėvams
 (globėjams, rūpintojams) išaiškina šio kodekso 3.227 straipsnyje nustatytas
@@ -9587,7 +9596,8 @@ atsižvelgti į vaiko norą, jei jis neprieštarauja jo paties interesams.
 3.216
 straipsnis. Įvaikintojo sutuoktinio sutikimas įvaikinti
 1. Jeigu vaiką
-įvaikina vienas iš sutuoktinių, būtinas kito sutuoktinio rašytinis sutikimas įvaikinti.
+įvaikina vienas iš sutuoktinių, būtinas kito sutuoktinio rašytinis sutikimas
+įvaikinti.
 2. Kito
 sutuoktinio sutikimo įvaikinti nereikalaujama, jeigu teismas yra priėmęs
 sprendimą dėl sutuoktinių gyvenimo skyrium arba jei sutuoktinis yra paskelbtas
@@ -9598,10 +9608,10 @@ straipsnis. Pasirengimo įvaikinti patikrinimas
 1. Valstybinės
 įvaikinimo institucijos atestuoti socialiniai darbuotojai išsiaiškina, ar
 būsimiems įtėviams nėra šio kodekso trečiojoje knygoje numatytų kliūčių
-įvaikinti, ištiria jų gyvenimo sąlygas, būdą, surenka informaciją apie sveikatos
-būklę ir pateikia išvadą dėl būsimųjų įvaikintojų pasirengimo įvaikinti.
-Medicininių kontraindikacijų, kurioms esant asmenys negali būti įvaikintojai,
-sąrašą patvirtina Vyriausybė ar jos įgaliota institucija. 
+įvaikinti, ištiria jų gyvenimo sąlygas, būdą, surenka informaciją apie
+sveikatos būklę ir pateikia išvadą dėl būsimųjų įvaikintojų pasirengimo
+įvaikinti. Medicininių kontraindikacijų, kurioms esant asmenys negali būti
+įvaikintojai, sąrašą patvirtina Vyriausybė ar jos įgaliota institucija. 
 2. Jei būsimieji
 įtėviai nesutinka su atestuoto socialinio darbuotojo išvada dėl jų pasirengimo
 įvaikinti, jie gali šią išvadą apskųsti teismui.
@@ -9692,8 +9702,8 @@ vaiką į šeimą įsiteisėjimo. Teismas tai pažymi teismo sprendime.
 straipsnis. Pirmenybė įvaikinti
 1. Jeigu
 įvaikinti tą patį vaiką nori keli asmenys, pirmenybė suteikiama tokia eile:
-1) asmenims,
-įvaikinantiems savo sutuoktinio vaikus ir įvaikius;
+1) asmenims, įvaikinantiems
+savo sutuoktinio vaikus ir įvaikius;
 2) giminaičiams;
 3) asmenims,
 įvaikinantiems seseris ir brolius kartu;
@@ -9708,9 +9718,9 @@ straipsnis. Įvaikinimas užsienio valstybės piliečiui
 1. Užsienio
 valstybės piliečiui, įvaikinančiam vaiką, taikomos šio kodekso 3.209–3.221
 straipsniuose nustatytos taisyklės.
-2. Be šio kodekso
-3.209–3.221 straipsniuose nustatytų taisyklių, įvaikinimas užsienio valstybės
-piliečiams galimas, jeigu:
+2. Be šio
+kodekso 3.209–3.221 straipsniuose nustatytų taisyklių, įvaikinimas užsienio
+valstybės piliečiams galimas, jeigu:
 1) per šešis
 mėnesius nuo vaiko įrašymo į galimų įvaikinti vaikų sąrašą nėra Lietuvos
 Respublikos piliečių prašymų įvaikinti ar globoti vaiką;
@@ -9729,9 +9739,9 @@ nepateisinamos materialinės naudos.
 5. Sprendžiant
 klausimą dėl vaiko įvaikinimo užsienio valstybės piliečiui, privalo būti
 atsižvelgta į vaiko auklėjimo paveldimumą, etninę kilmę, religinę ir kultūrinę
-priklausomybę ir gimtąją kalbą, taip pat ar valstybės, į kurią vaikas įvaikinamas,
-teisė atitinka 1993 m. gegužės 29 d. Hagos konvencijos dėl vaikų apsaugos ir
-bendradarbiavimo tarptautinio įvaikinimo srityje, reikalavimus.
+priklausomybę ir gimtąją kalbą, taip pat ar valstybės, į kurią vaikas
+įvaikinamas, teisė atitinka 1993 m. gegužės 29 d. Hagos konvencijos dėl vaikų
+apsaugos ir bendradarbiavimo tarptautinio įvaikinimo srityje, reikalavimus.
  
 3.225
 straipsnis. Įvaikinimo, atlikto užsienyje, pripažinimas
@@ -9747,7 +9757,8 @@ skyriaus nustatyta tvarka, jeigu tarptautinėje sutartyje arba susitarime su
 atitinkama užsienio valstybe ir Lietuvos Respublika nėra nustatyta kitokia jų
 įvaikinimo tvarka.
 2. Užsienio
-valstybių piliečių prašymus įvaikinti vaikus nagrinėja Vilniaus apygardos teismas.
+valstybių piliečių prašymus įvaikinti vaikus nagrinėja Vilniaus apygardos
+teismas.
  
 XIV skyrius
 ĮVAIKINIMO
@@ -9835,8 +9846,8 @@ nuostatos.
 straipsnis. Bendrai įgyto ir naudojamo turto padalijimas
 Visas turtas,
 kurį sugyventiniai įgijo bendrai gyvendami ar naudojo bendrai, gali būti
-padalytas vieno sugyventinio reikalavimu teismo tvarka, pasibaigus jų bendram gyvenimui
-arba vienam mirus, jeigu sugyventiniai nebuvo sudarę notarine tvarka
+padalytas vieno sugyventinio reikalavimu teismo tvarka, pasibaigus jų bendram
+gyvenimui arba vienam mirus, jeigu sugyventiniai nebuvo sudarę notarine tvarka
 patvirtintos sutarties dėl turto padalijimo.
  
 3.233
@@ -9847,9 +9858,9 @@ kitokiu būdu perleisti, išnuomoti, įkeisti jų bendrai įgytą ir naudojamą 
 ar kitaip suvaržyti teises į jį.
 2. Šio
 straipsnio 1 dalis netaikoma, jeigu sugyventinis negali duoti tokio sutikimo
-dėl savo neveiksnumo arba jo sutikimo neįmanoma gauti dėl kitokių svarbių
-priežasčių. Tokiu atveju leidimą sudaryti sandorį kito sugyventinio prašymu
-gali duoti teismas.
+dėl savo neveiksnumo arba jo sutikimo neįmanoma gauti dėl kitokių svarbių priežasčių.
+Tokiu atveju leidimą sudaryti sandorį kito sugyventinio prašymu gali duoti
+teismas.
 3. Sandoriai,
 kurie buvo sudaryti pažeidus šio straipsnio 1 ir 2 dalyje nustatytas taisykles,
 gali būti pripažinti negaliojančiais pagal sutikimo nedavusio sugyventinio
@@ -10082,11 +10093,11 @@ pablogėjimo ar dėl kitų svarbių priežasčių.
 3. Jeigu
 globėjas ar rūpintojas netinkamai atlieka pareigas, neužtikrina globotinio ar
 rūpintinio teisių ir interesų apsaugos, naudojasi savo teisėmis savanaudiškais
-tikslais, jie gali būti teismo nutartimi nušalinti nuo globėjo ar rūpintojo pareigų.
-Jeigu šiais globėjo ar rūpintojo veiksmais buvo padaryta žala neveiksniam ar
-ribotai veiksniam asmeniui, globėjas ar rūpintojas privalo ją atlyginti.
-Kreiptis į teismą dėl globėjo ar rūpintojo nušalinimo turi teisę globos
-(rūpybos) institucijos arba prokuroras.
+tikslais, jie gali būti teismo nutartimi nušalinti nuo globėjo ar rūpintojo
+pareigų. Jeigu šiais globėjo ar rūpintojo veiksmais buvo padaryta žala
+neveiksniam ar ribotai veiksniam asmeniui, globėjas ar rūpintojas privalo ją
+atlyginti. Kreiptis į teismą dėl globėjo ar rūpintojo nušalinimo turi teisę
+globos (rūpybos) institucijos arba prokuroras.
  
 3.247
 straipsnis. Globos ir rūpybos pasibaigimas
@@ -10143,20 +10154,20 @@ reikalinga globa (rūpyba), nustatymas ir apskaita
 auklėjimo, sveikatos priežiūros, policijos ir kitokių institucijų darbuotojai,
 taip pat kiti asmenys, turintys duomenų apie nepilnamečius, likusius be tėvų
 globos, taip pat apie būtinumą ginti nepilnamečių teises ir interesus (žiaurus
-tėvų elgesys su vaikais, tėvų liga, mirtis, išvykimas ar dingimas, tėvų atsisakymas
-atsiimti vaikus iš mokymo, auklėjimo ar gydymo įstaigų ir t. t.), privalo apie
-tai nedelsdami informuoti valstybinę vaiko teisių apsaugos instituciją pagal
-vaiko ar savo gyvenamąją vietą.
+tėvų elgesys su vaikais, tėvų liga, mirtis, išvykimas ar dingimas, tėvų
+atsisakymas atsiimti vaikus iš mokymo, auklėjimo ar gydymo įstaigų ir t. t.),
+privalo apie tai nedelsdami informuoti valstybinę vaiko teisių apsaugos
+instituciją pagal vaiko ar savo gyvenamąją vietą.
 2. Vaikus,
 kuriems reikalinga globa (rūpyba), nustato ir tokių vaikų apskaitą tvarko ir
 užtikrina valstybinė vaiko teisių apsaugos institucija. Ši institucija, gavusi
 informaciją apie vaiką, kuriam reikalinga globa (rūpyba), privalo užtikrinti
 laikinosios globos (rūpybos) jam paskyrimą per tris dienas.
-3. Šio straipsnio
-1 dalyje numatytų institucijų vadovai ir kitokie pareigūnai už melagingos
-informacijos suteikimą, vaiko, kuriam reikalinga globa (rūpyba), slėpimą,
-kliudymą jam nustatyti globą (rūpybą) ar kitokius vaiko teisių ir interesų
-pažeidimus atsako įstatymų nustatyta tvarka.
+3. Šio
+straipsnio 1 dalyje numatytų institucijų vadovai ir kitokie pareigūnai už
+melagingos informacijos suteikimą, vaiko, kuriam reikalinga globa (rūpyba),
+slėpimą, kliudymą jam nustatyti globą (rūpybą) ar kitokius vaiko teisių ir
+interesų pažeidimus atsako įstatymų nustatyta tvarka.
  
 3.251
 straipsnis. Globos ir rūpybos nustatymas
@@ -10187,7 +10198,8 @@ straipsnis. Vaiko laikinoji globa (rūpyba)
 Vaiko laikinoji
 globa (rūpyba) – laikinai be tėvų globos likusio vaiko priežiūra, auklėjimas,
 jo teisių ir teisėtų interesų atstovavimas bei gynimas šeimoje, šeimynoje ar
-institucijoje. Vaiko laikinosios globos (rūpybos) tikslas – grąžinti vaiką į šeimą.
+institucijoje. Vaiko laikinosios globos (rūpybos) tikslas – grąžinti vaiką į
+šeimą.
  
 3.254
 straipsnis. Vaiko laikinosios globos (rūpybos) nustatymo pagrindai
@@ -10222,8 +10234,8 @@ straipsnis. Vaiko nuolatinė globa (rūpyba)
 Nuolatinė globa
 (rūpyba) nustatoma be tėvų globos likusiems vaikams, kurie esamomis sąlygomis
 negali grįžti į savo šeimą, ir jų priežiūra, auklėjimas, teisių bei teisėtų
-interesų atstovavimas ir gynimas pavedamas kitai šeimai, šeimynai ar vaikų globos
-(rūpybos) institucijai.
+interesų atstovavimas ir gynimas pavedamas kitai šeimai, šeimynai ar vaikų
+globos (rūpybos) institucijai.
  
 3.257
 straipsnis. Vaiko nuolatinės globos (rūpybos) nustatymas
@@ -10278,8 +10290,8 @@ skaičius gali būti didesnis, nei nurodyta šio straipsnio 1 dalyje, kai
 neišskiriami broliai ir seserys, arba mažesnis, jeigu yra globojamas neįgalus
 vaikas.
 3. Vaiko globą
-(rūpybą) šeimynoje nustato įstatymai, Vyriausybės patvirtinti šeimynų
-nuostatai, kiti teisės aktai.
+(rūpybą) šeimynoje nustato įstatymai, Vyriausybės patvirtinti šeimynų nuostatai,
+kiti teisės aktai.
 4. Vaiko globėjo
 (rūpintojo), įsteigusio šeimyną, darbo užmokestis ir kitos darbo apmokėjimo
 sąlygos nustatomos vadovaujantis įstatymais, Vyriausybės nutarimais bei kitais
@@ -10297,8 +10309,8 @@ institucijoje, kai nėra galimybės jo globoti šeimoje arba šeimynoje.
 straipsnis. Vaiko laikinosios globos (rūpybos) nustatymas
 1. Vaiko
 laikinoji globa (rūpyba) nustatoma nuo prašymo įregistravimo dienos rajono
-(miesto) savivaldybėje jos valdybos (mero) sprendimu (potvarkiu) pagal
-valstybinės vaiko teisių apsaugos institucijos teikimą.
+(miesto) savivaldybėje jos valdybos (mero) sprendimu (potvarkiu) pagal valstybinės
+vaiko teisių apsaugos institucijos teikimą.
 2. Vaikų
 laikinoji globa (rūpyba) organizuojama pagal vaikų laikinosios globos (rūpybos)
 nuostatus, kuriuos tvirtina Vyriausybė ar jos įgaliota valstybės institucija.
@@ -10378,8 +10390,8 @@ tėvų globos vaiku bei vaiko interesus.
 norintis tapti vaiko globėju (rūpintoju), rajono (miesto) valstybinei vaiko
 teisių apsaugos institucijai pateikia tokius dokumentus:
 1) prašymą,
-kuriame nurodoma pageidaujamų globoti ir auklėti vaikų skaičius, jų amžius,
-globos rūšis;
+kuriame nurodoma pageidaujamų globoti ir auklėti vaikų skaičius, jų amžius, globos
+rūšis;
 2) Vyriausybės
 įgaliotos institucijos nustatytos formos sveikatos pažymėjimą;
 3) kartu
@@ -10394,8 +10406,8 @@ dvidešimt vienerių metų, išskyrus atvejus, kai globoti pageidauja artimasis
 giminaitis;
 2) pripažintas
 neveiksniu arba ribotai veiksniu;
-3) nuo kurio buvo
-atskirtas vaikas;
+3) nuo kurio
+buvo atskirtas vaikas;
 4) buvęs įtėviu
 (įmote), jeigu jo tėvų valdžia buvo apribota dėl to, kad įtėvis (įmotė)
 netinkamai atliko savo pareigas arba jis buvo atskirtas nuo vaiko;
@@ -10407,9 +10419,9 @@ tyčinius nusikaltimus;
 7) sulaukęs
 šešiasdešimt penkerių metų arba vyresnis, išskyrus artimąjį giminaitį, jei jis
 nori laikinai globoti jaunesnį kaip dešimties metų vaiką;
-8) sergantis chronišku
-alkoholizmu, narkomanija, psichinėmis ar kitomis ligomis, kurių sąrašą tvirtina
-Vyriausybės įgaliota institucija.
+8) sergantis
+chronišku alkoholizmu, narkomanija, psichinėmis ar kitomis ligomis, kurių
+sąrašą tvirtina Vyriausybės įgaliota institucija.
  
 3.270
 straipsnis. Pasirengimas vaiko globai (rūpybai)
@@ -10600,8 +10612,7 @@ metrikacijos įstaigose registruojant civilinės būklės aktus, taip pat ištai
 ir keičiant aktų įrašus, valstybės rinkliava imama įstatymų nustatyta tvarka.
  
 XXI skyrius
- GIMIMO
-REGISTRAVIMAS
+ GIMIMO REGISTRAVIMAS
  
 3.289
 straipsnis. Gimimo registravimo tvarka
@@ -10644,8 +10655,8 @@ tėvą neįrašomi.
 3. Vaiko, kurio
 tėvai nežinomi, vardas ir pavardė įrašomi valstybinės vaiko teisių apsaugos
 institucijos nurodymu. Vaiko tautybė šiuo atveju neįrašoma.
-4. Įregistravus
-vaiko gimimą, išduodamas gimimo liudijimas.
+4. Įregistravus vaiko
+gimimą, išduodamas gimimo liudijimas.
  
 XXII skyrius
  TĖVYSTĖS
@@ -10654,11 +10665,11 @@ PRIPAŽINIMO IR TĖVYSTĖS NUSTATYMO REGISTRAVIMAS
 3.293
 straipsnis. Tėvystės pripažinimo registravimas
 1. Tėvystės
-pripažinimas registruojamas vaiko motinos gyvenamosios vietos civilinės
-metrikacijos įstaigoje remiantis motinos ir tėvo prašymais dėl tėvystės
-pripažinimo. Jeigu tėvystė pripažįstama po to, kai vaiko gimimas buvo
-įregistruotas, tėvystės pripažinimas registruojamas vaiko gimimą įregistravusioje
-civilinės metrikacijos įstaigoje.
+pripažinimas registruojamas vaiko motinos gyvenamosios vietos civilinės metrikacijos
+įstaigoje remiantis motinos ir tėvo prašymais dėl tėvystės pripažinimo. Jeigu
+tėvystė pripažįstama po to, kai vaiko gimimas buvo įregistruotas, tėvystės
+pripažinimas registruojamas vaiko gimimą įregistravusioje civilinės
+metrikacijos įstaigoje.
 2. Šio kodekso
 3.140 straipsnio 5 dalyje ir 3.144 straipsnyje numatytais atvejais tėvystės
 pripažinimas registruojamas pateikus teismo patvirtintą prašymą dėl tėvystės
@@ -11001,8 +11012,8 @@ teisės suvaržymais laikomi su daiktu susieti įsipareigojimai.
 teisės suvaržymai kartu su daiktu perleidžiami naujajam daikto savininkui.
 Jeigu daiktinės teisės suvaržymai turi būti registruojami, kartu su daiktu
 perleidžiami tik įregistruoti suvaržymai. Įstatymų numatytais atvejais arba
-asmenų susitarimu daiktinės teisės suvaržymai kartu su daiktu gali būti perleidžiami
-ir kitam asmeniui.
+asmenų susitarimu daiktinės teisės suvaržymai kartu su daiktu gali būti
+perleidžiami ir kitam asmeniui.
 3. Nekilnojamąjį
 daiktą padalijus arba sujungus su kitu nekilnojamuoju daiktu, viešame registre
 įregistruotos daiktinės teisės ir jų suvaržymai išlieka, jeigu įstatymas
@@ -11098,7 +11109,8 @@ II
 DALIS
 DAIKTINĖS TEISĖS
  
-III SKYRIUS
+III
+SKYRIUS
 BENDROSIOS
 NUOSTATOS
  
@@ -11254,7 +11266,8 @@ pametęs valdytojas negali jo rasti;
 3) valdytojas
 negali daikto valdyti dėl kitų priežasčių.
  
-4.33 straipsnis. Nekilnojamojo daikto valdymo pabaiga
+4.33 straipsnis. Nekilnojamojo daikto valdymo
+pabaiga
 1. Nekilnojamojo
 daikto valdymas baigiasi, kai valdytojas ne tik praranda galimybę paveikti
 daiktą pagal savo valią, bet ir kai nesiima jokių priemonių šią galimybę
@@ -11280,9 +11293,9 @@ kurie buvo padaryti dėl valdymo pažeidimo, atlyginimo.
 valdytojui turi būti atlygintos daikto išlaikymo išlaidos, išskyrus atvejus,
 kai jas padengia daikto pajamos. Sąžiningas valdytojas taip pat turi teisę
 pasilikti dalis, kuriomis buvo pagerintas daiktas, jeigu tai nepadarys žalos
-daiktui. Jeigu šių dalių atskirti negalima, sąžiningas valdytojas turi teisę reikalauti
-atlyginti padarytas dėl pagerinimo išlaidas, bet ne didesnes kaip daikto vertės
-padidėjimas.
+daiktui. Jeigu šių dalių atskirti negalima, sąžiningas valdytojas turi teisę
+reikalauti atlyginti padarytas dėl pagerinimo išlaidas, bet ne didesnes kaip
+daikto vertės padidėjimas.
  
 4.35 straipsnis. Valdymo pažeidimas
 1. Valdymas gali
@@ -11340,9 +11353,9 @@ turinys
 savininkui nuosavybės teise priklauso viršutinis žemės sklypo sluoksnis, ant
 žemės sklypo esantys statiniai bei jų priklausiniai, kiti nekilnojamieji
 daiktai, jeigu įstatymo ar sutarties nenustatyta kitaip.
-2. Žemės sklypo
-savininkas į virš jo sklypo esančią oro erdvę turi tokias teises, kiek jos
-neprieštarauja įstatymams ir kiek būtina naudoti žemės sklypą pagal paskirtį.
+2. Žemės sklypo savininkas
+į virš jo sklypo esančią oro erdvę turi tokias teises, kiek jos neprieštarauja
+įstatymams ir kiek būtina naudoti žemės sklypą pagal paskirtį.
 3. Žemės sklypo
 savininkas turi nuosavybės teisę į sklypo viršutinį žemės sluoksnį bei žemėje
 esančias naudingąsias iškasenas tiek, kiek ši teisė neprieštarauja įstatymams
@@ -11356,10 +11369,10 @@ jų laikymą reglamentuojančių įstatymų, kitų teisės aktų reikalavimų.
 4.42 straipsnis. Teisė į kaimyninio
 sklypo medžių, krūmų ir kitų augalų dalis bei jų vaisius
 1. Žemės sklypo
-savininkas turi teisę nupjauti ir pasilikti sau kaimyniniame žemės sklype
-augančių medžių, krūmų, kitų augalų šaknis ir šakas, esančias jo žemės sklype,
-prieš tai įspėjęs kaimyninio žemės sklypo savininką ir nustatęs terminą jas
-pašalinti, bet per nustatytą terminą nesulaukęs jų pašalinimo.
+savininkas turi teisę nupjauti ir pasilikti sau kaimyniniame žemės sklype augančių
+medžių, krūmų, kitų augalų šaknis ir šakas, esančias jo žemės sklype, prieš tai
+įspėjęs kaimyninio žemės sklypo savininką ir nustatęs terminą jas pašalinti,
+bet per nustatytą terminą nesulaukęs jų pašalinimo.
 2. Tokia teisė
 nesuteikiama žemės sklypo savininkui, jeigu kaimyniniame sklype augančių
 medžių, krūmų, kitų augalų šaknys ir šakos, esančios jo žemės sklype, netrukdo
@@ -11385,10 +11398,10 @@ būti atlyginti dėl kelio nutiesimo atsiradę nuostoliai.
 4.44 straipsnis. Neleistinumas laikinai
 pasinaudoti svetimu žemės sklypu susisiekimui
 Savininkas žemės
-sklypo, netekusio susisiekimo su viešuoju keliu, būtinu sklypui naudoti pagal paskirtį,
-negali reikalauti iš kaimynų, kad šie susisiekimo tikslui leistų jam naudotis
-savo žemės sklypais, jeigu jo paties tyčiniais veiksmais buvo nutrauktas jo
-žemės sklypo susisiekimas su viešuoju keliu.
+sklypo, netekusio susisiekimo su viešuoju keliu, būtinu sklypui naudoti pagal
+paskirtį, negali reikalauti iš kaimynų, kad šie susisiekimo tikslui leistų jam
+naudotis savo žemės sklypais, jeigu jo paties tyčiniais veiksmais buvo
+nutrauktas jo žemės sklypo susisiekimas su viešuoju keliu.
  
 4.45 straipsnis. Žemės sklypo ribų nustatymas
 1. Jeigu sklypų
@@ -11414,8 +11427,8 @@ nustatyti, kad šie objektai priklauso vienam konkrečiam savininkui.
 kuris bendrai naudojasi jo žemės sklypo ribas žyminčiais nekilnojamaisiais
 daiktais, turi teisę naudotis jais pagal paskirtį tiek, kiek toks naudojimasis
 netrukdo kaimyninio sklypo savininkui. Išlaidas minėtiems objektams išlaikyti
-ir išsaugoti kaimyninių sklypų savininkai apmoka lygiomis dalimis, jeigu
-nesusitaria kitaip.
+ir išsaugoti kaimyninių sklypų savininkai apmoka lygiomis dalimis, jeigu nesusitaria
+kitaip.
 3. Sklypų ribas
 žyminčių bendrai naudojamų nekilnojamųjų daiktų vienas sklypo savininkas negali
 pašalinti arba pakeisti be kito savininko sutikimo.
@@ -11450,7 +11463,8 @@ visuomenės poreikiams;
 10)
 konfiskuojant ar kitu būdu už pažeidimus paimant pagal įstatymą daiktus
 (turtą);
-11) įgyjamąja senatimi;
+11) įgyjamąja
+senatimi;
 12) kitais
 įstatymo nustatytais pagrindais.
  
@@ -11515,8 +11529,8 @@ pajamas
 duodami vaisiai, gyvulių prieauglis priklauso jų savininkui, jeigu įstatymai
 arba sutartis nenustato ko kita.
 2. Daikto ūkinio
-naudojimo rezultatai – produkcija ir pajamos – priklauso daikto savininkui,
-jeigu įstatymai ar sutartis nenustato ko kita.
+naudojimo rezultatai – produkcija ir pajamos – priklauso daikto savininkui, jeigu
+įstatymai ar sutartis nenustato ko kita.
  
 4.54 straipsnis. Daikto atsiradimas susijungus
 kilnojamiesiems daiktams
@@ -11525,8 +11539,8 @@ kilnojamieji kelių savininkų daiktai susijungė ir sudarė naują daiktą ir n
 galimybės vėl juos atskyrus grąžinti į pirminę būklę arba tai susiję su
 pernelyg didelėmis išlaidomis, kai savininkai nebuvo specialiai susitarę dėl
 daiktų sujungimo, tai šiuo būdu atsiradęs naujas kilnojamasis daiktas laikomas
-bendrąja daline nuosavybe, kurios kiekvienam bendraturčiui priklauso dalis,
-proporcinga jo susijungusio daikto vertei bendrame daikte. 
+bendrąja daline nuosavybe, kurios kiekvienam bendraturčiui priklauso dalis, proporcinga
+jo susijungusio daikto vertei bendrame daikte. 
 2. Jeigu keliems
 savininkams priklausančius kilnojamuosius daiktus vienas iš jų sujungė be kito
 (kitų) sutikimo ir žinios ir jeigu yra galimybė juos atskirti ir grąžinti į
@@ -11547,18 +11561,18 @@ asmens naudai ir išieškoti iš šio nuostolius.
  
 4.56 straipsnis. Daikto pagaminimas iš savos ir iš
 svetimos medžiagos
-1. Asmuo,
-pagaminęs naują daiktą iš savos ir iš svetimos medžiagos, tampa daikto
-savininku, jeigu darbo vertė ir savos medžiagos vertė yra didesnė už svetimos
-medžiagos vertę ir jeigu, be to, šis asmuo nežinojo ir neturėjo žinoti, kad
-medžiaga priklauso kitam. Šiuo atveju pasinaudojęs svetima medžiaga asmuo
-privalo atlyginti medžiagos savininkui jos vertę.
+1. Asmuo, pagaminęs
+naują daiktą iš savos ir iš svetimos medžiagos, tampa daikto savininku, jeigu
+darbo vertė ir savos medžiagos vertė yra didesnė už svetimos medžiagos vertę ir
+jeigu, be to, šis asmuo nežinojo ir neturėjo žinoti, kad medžiaga priklauso
+kitam. Šiuo atveju pasinaudojęs svetima medžiaga asmuo privalo atlyginti
+medžiagos savininkui jos vertę.
 2. Jeigu
 svetimos medžiagos vertė yra didesnė už darbo vertę ir savos medžiagos vertę,
-daikto savininku pripažįstamas svetimos medžiagos savininkas. Jam suteikiama
-teisė arba pasilikti daiktą sau ir apmokėti jo pagaminimo vertę bei
-pagaminusiam daiktą asmeniui priklausančios medžiagos vertę arba atsisakyti
-daikto jį pagaminusio asmens naudai ir išieškoti iš jo nuostolius.
+daikto savininku pripažįstamas svetimos medžiagos savininkas. Jam suteikiama teisė
+arba pasilikti daiktą sau ir apmokėti jo pagaminimo vertę bei pagaminusiam
+daiktą asmeniui priklausančios medžiagos vertę arba atsisakyti daikto jį
+pagaminusio asmens naudai ir išieškoti iš jo nuostolius.
  
 4.57 straipsnis. Bešeimininkis daiktas
 1. Bešeimininkiu
@@ -11586,9 +11600,9 @@ teisė į bešeimininkį daiktą negali būti įgyjama, jeigu tai draudžia įst
 arba tokio daikto pasisavinimu pažeidžiama kito asmens teisė pasisavinti daiktą
 (teisė į lobį, radinį ir pan.).
 4. Kilnojamieji
-daiktai, kurie niekam dar nepriklausė arba kurių savininkas atsisakė tiesiai tai
-išsakydamas arba juos išmesdamas, tampa tuos daiktus pradėjusio valdyti asmens
-nuosavybe.
+daiktai, kurie niekam dar nepriklausė arba kurių savininkas atsisakė tiesiai
+tai išsakydamas arba juos išmesdamas, tampa tuos daiktus pradėjusio valdyti
+asmens nuosavybe.
  
 4.59 straipsnis. Laukiniai gyvūnai
 Laisvėje esantys
@@ -11617,13 +11631,13 @@ sulaikęs bepriežiūrį ar priklydusį naminį gyvūną, privalo tuojau praneš
 tai gyvūno savininkui ir grąžinti jam gyvūną arba, jei jam nežinomas gyvūno
 savininkas ar jo adresas, per tris dienas pranešti apie gyvūno sulaikymą
 policijai ar savivaldybės institucijai.
-2. Policija ar
-savivaldybės institucija imasi priemonių naminio gyvūno savininkui surasti ir,
-laikydamosi veterinarijos taisyklių, ieškojimo laiku perduoda gyvūną išlaikyti
-bei naudotis sulaikiusiam asmeniui arba perduoda jį išlaikyti ir naudotis
-artimiausiam žemės ūkio veikla užsiimančiam ir tinkamai gyvūną išlaikyti
-galinčiam asmeniui, jei sulaikęs naminį gyvūną asmuo neužsiima žemės ūkio
-veikla arba neturi sąlygų gyvūną tinkamai išlaikyti.
+2. Policija ar savivaldybės
+institucija imasi priemonių naminio gyvūno savininkui surasti ir, laikydamosi
+veterinarijos taisyklių, ieškojimo laiku perduoda gyvūną išlaikyti bei naudotis
+sulaikiusiam asmeniui arba perduoda jį išlaikyti ir naudotis artimiausiam žemės
+ūkio veikla užsiimančiam ir tinkamai gyvūną išlaikyti galinčiam asmeniui, jei
+sulaikęs naminį gyvūną asmuo neužsiima žemės ūkio veikla arba neturi sąlygų
+gyvūną tinkamai išlaikyti.
 3. Jeigu
 bepriežiūrių ir priklydusių darbinių gyvulių bei galvijų (ir jų prieauglio)
 savininkas paaiškėja per vieną mėnesį, o smulkiųjų gyvūnų (ir jų prieauglio) –
@@ -11632,7 +11646,8 @@ grąžinamas savininkui. Šis privalo atlyginti išlaikiusiam gyvūną asmeniui 
 išlaikymo išlaidas, įskaitant naudą, gautą iš naudojimosi juo.
 4. Jeigu per
 nurodytą laiką gyvūno savininkas nepaaiškėjo, jis netenka nuosavybės teisės į
-tą gyvūną. Šiuo atveju gyvūnas neatlygintinai tenka jį išlaikiusio asmens nuosavybėn.
+tą gyvūną. Šiuo atveju gyvūnas neatlygintinai tenka jį išlaikiusio asmens
+nuosavybėn.
  
 4.62 straipsnis. Radinys
 1. Radiniu
@@ -11762,9 +11777,10 @@ senatimi nuosavybės teisė negali būti įgyjama į slaptai arba per prievartą
 užvaldytą daiktą, nepaisant, ar nuosavybės teisę į tą daiktą minėtu būdu
 pretenduoja įgyti pats slaptai, ar per prievartą daiktą užvaldęs asmuo ar kitas
 asmuo.
-3. Įgyjamąja senatimi
-negali būti įgyjama nuosavybės teisė į valstybei ar savivaldybei priklausančius
-daiktus bei į kito asmens (ne valdytojo) vardu registruotus daiktus.
+3. Įgyjamąja
+senatimi negali būti įgyjama nuosavybės teisė į valstybei ar savivaldybei
+priklausančius daiktus bei į kito asmens (ne valdytojo) vardu registruotus
+daiktus.
  
 4.70 straipsnis. Sąžiningai įgytas ir valdomas
 daiktas
@@ -11783,14 +11799,14 @@ teisė įgyjama per atstovą, tai sąžiningumo reikalaujama ir iš atstovo, ir 
 atstovaujamojo. 
  
 4.71 straipsnis. Nepertraukiamas daikto valdymas
-1. Daikto valdymas
-laikomas nepertraukiamu, kai asmuo daiktą nepertraukiamai valdė nuo valdymo
-teisės į daiktą įgijimo iki nuosavybės teisės į tą daiktą įgijimo įgyjamąja
-senatimi.
+1. Daikto
+valdymas laikomas nepertraukiamu, kai asmuo daiktą nepertraukiamai valdė nuo
+valdymo teisės į daiktą įgijimo iki nuosavybės teisės į tą daiktą įgijimo
+įgyjamąja senatimi.
 2. Jeigu per
-įgyjamosios senaties laiką daikto valdymas vienam iš kito perėjo keliems asmenims
-ir kiekvieno iš jų valdymas atitiko šio kodekso 4.68 straipsnyje nustatytus
-reikalavimus, tai tų asmenų valdymo laikas skaičiuojamas kartu. 
+įgyjamosios senaties laiką daikto valdymas vienam iš kito perėjo keliems
+asmenims ir kiekvieno iš jų valdymas atitiko šio kodekso 4.68 straipsnyje
+nustatytus reikalavimus, tai tų asmenų valdymo laikas skaičiuojamas kartu. 
 3. Įgyjamosios
 senaties nenutraukia daikto valdymo praradimas be valdytojo valios, jeigu per
 metus laiko daikto valdymas buvo susigrąžintas.
@@ -11851,8 +11867,8 @@ išsaugoti, mokesčiams, rinkliavoms ir kitoms įmokoms. Jeigu vienas iš
 bendraturčių nevykdo savo pareigos tvarkyti ir išlaikyti bendrą daiktą (turtą),
 tai kiti bendraturčiai turi teisę į nuostolių, kuriuos jie turėjo, atlyginimą. 
  
-4.77 straipsnis. Bendraturčių teisių
-pasikeitimas padidinus bendrąją dalinę nuosavybę
+4.77 straipsnis. Bendraturčių teisių pasikeitimas
+padidinus bendrąją dalinę nuosavybę
 1. Jeigu
 bendraturtis, turėdamas kitų bendraturčių sutikimą ir laikydamasis įstatymų
 nustatytų taisyklių, savo lėšomis padidina bendrąjį daiktą ar jo vertę, tai šio
@@ -11901,9 +11917,8 @@ daikto dalimi, įvykdymą kitiems bendraturčiams.
  
 4.80 straipsnis. Atidalijimas iš bendrosios dalinės
 nuosavybės
-1. Kiekvienas
-bendraturtis turi teisę reikalauti atidalyti jo dalį iš bendrosios dalinės
-nuosavybės.
+1. Kiekvienas bendraturtis
+turi teisę reikalauti atidalyti jo dalį iš bendrosios dalinės nuosavybės.
 2. Jeigu
 nesusitariama dėl atidalijimo būdo, tai pagal bet kurio bendraturčio ieškinį
 daiktas padalijamas natūra kiek galima be neproporcingos žalos jo paskirčiai;
@@ -11912,18 +11927,18 @@ pinigais.
 3. Bendraturčio
 kreditorius turi teisę reikalauti atidalyti skolininko dalį, kad būtų galima iš
 jos išieškoti. 
-4. Jeigu vienas iš
-bendraturčių yra neveiksnus ar nepilnametis, atidalijant dalį iš bendrosios
+4. Jeigu vienas
+iš bendraturčių yra neveiksnus ar nepilnametis, atidalijant dalį iš bendrosios
 dalinės nuosavybės turi dalyvauti globos (rūpybos) institucija.
  
 4.81 straipsnis. Naudojimosi namais,
-butais ar kitais nekilnojamaisiais daiktais, kurie yra bendroji dalinė nuosavybė,
-tvarka
+butais ar kitais nekilnojamaisiais daiktais, kurie yra bendroji dalinė
+nuosavybė, tvarka
 1. Namo, buto ar
 kito nekilnojamojo daikto bendraturčiai turi teisę tarpusavio susitarimu
 nustatyti tvarką, pagal kurią bus naudojamasi atskiromis izoliuotomis to namo,
-buto patalpomis ar kito nekilnojamojo daikto konkrečiomis dalimis, atsižvelgdami
-į savo dalį, turimą bendrosios dalinės nuosavybės teise.
+buto patalpomis ar kito nekilnojamojo daikto konkrečiomis dalimis,
+atsižvelgdami į savo dalį, turimą bendrosios dalinės nuosavybės teise.
 2. Jeigu šiame
 straipsnyje nurodytas susitarimas yra notariškai patvirtintas ir įregistruotas
 viešame registre, tai jis yra privalomas ir tam asmeniui, kuris vėliau įgyja
@@ -12023,9 +12038,9 @@ administravimo nuostatus tvirtina Vyriausybė arba jos įgaliota institucija.
 Administravimo išlaidas apmoka butų ir kitų patalpų savininkai proporcingai jų
 daliai bendrojoje dalinėje nuosavybėje.
 5.
-Administravimas pasibaigia šio kodekso 4.250 straipsnyje nustatytais
-pagrindais, taip pat įregistravus gyvenamojo namo butų ir kitų patalpų
-savininkų bendrijos įstatus arba sudarius jungtinės veiklos sutartį.
+Administravimas pasibaigia šio kodekso 4.250 straipsnyje nustatytais pagrindais,
+taip pat įregistravus gyvenamojo namo butų ir kitų patalpų savininkų bendrijos
+įstatus arba sudarius jungtinės veiklos sutartį.
 6.
 Administratoriaus veiklai mutatis mutandis taikomos šios knygos XIV
 skyriaus normos.
@@ -12077,16 +12092,16 @@ daiktą ar jo vertę, tai į padidintą daiktą ar jo vertę bendrosios jungtin�
 nuosavybės teises įgyja lygiai visi bendraturčiai.
  
 4.88 straipsnis. Bendraturčio teisė
-perleisti ar suvaržyti teisę į bendrosios jungtinės nuosavybės teise turimą savo
-dalį
+perleisti ar suvaržyti teisę į bendrosios jungtinės nuosavybės teise turimą
+savo dalį
 1. Daiktas
 (turtas), esantis bendrosios jungtinės nuosavybės teisės objektu, valdomas,
 naudojamas bei juo disponuojama tik esant bendraturčių sutikimui.
 2. Bendraturčių
-sutikimas būtinas nekilnojamajam daiktui perleisti kito asmens nuosavybėn, išnuomoti
-ar perduoti naudotis kitokiu būdu, įkeisti ar kitaip suvaržyti teisę į daiktą.
-Jeigu bendraturtis yra nepilnametis, sutikimą už jį gali duoti tėvai, globėjai
-ar rūpintojai.
+sutikimas būtinas nekilnojamajam daiktui perleisti kito asmens nuosavybėn,
+išnuomoti ar perduoti naudotis kitokiu būdu, įkeisti ar kitaip suvaržyti teisę
+į daiktą. Jeigu bendraturtis yra nepilnametis, sutikimą už jį gali duoti tėvai,
+globėjai ar rūpintojai.
 3. Bendraturtis
 neturi teisės perleisti kito asmens nuosavybėn bendrosios jungtinės nuosavybės
 teise turimos savo dalies, kol ši dalis nebus nustatyta konkrečiame bendrame
@@ -12192,9 +12207,9 @@ savininkas tokį daiktą prarado dėl kitų asmenų padaryto nusikaltimo.
 neatlygintinai įgytas iš asmens, kuris neturėjo teisės jo perleisti nuosavybėn,
 tai savininkas turi teisę išreikalauti daiktą visais atvejais. Ši taisyklė
 taikoma ir kilnojamiesiems, ir nekilnojamiesiems daiktams.
-4. Šio
-straipsnio taisyklės netaikomos, kai daiktas parduotas ar kitaip perleistas
-teismo sprendimams vykdyti nustatyta tvarka.
+4. Šio straipsnio
+taisyklės netaikomos, kai daiktas parduotas ar kitaip perleistas teismo
+sprendimams vykdyti nustatyta tvarka.
  
 4.97 straipsnis. Atsiskaitymai grąžinant daiktą iš
 neteisėto valdymo
@@ -12229,13 +12244,13 @@ valdymo netekimu.
  
 4.99 straipsnis. Žemės sklypo savininko
 teisių gynimas nuo galimų pažeidimų, nesusijusių su valdymo netekimu
-Žemės sklypo
-savininkas turi teisę reikalauti, kad kaimyniniuose žemės sklypuose nebūtų
-statomi nauji statiniai, perstatomi, rekonstruojami ir netgi išsaugomi
-nepakeisti esantys statiniai, jeigu galima padaryti įtikinamą prielaidą, kad
-tokių naujų statinių statymas ar esamų statinių pakeitimas ir netgi nepakeistų
-egzistavimas ar naudojimas padarys neigiamą neleistiną poveikį jo žemės sklypui
-ar jo žemės sklype esantys pastatai neteks stabilumo.
+Žemės sklypo savininkas
+turi teisę reikalauti, kad kaimyniniuose žemės sklypuose nebūtų statomi nauji
+statiniai, perstatomi, rekonstruojami ir netgi išsaugomi nepakeisti esantys
+statiniai, jeigu galima padaryti įtikinamą prielaidą, kad tokių naujų statinių
+statymas ar esamų statinių pakeitimas ir netgi nepakeistų egzistavimas ar
+naudojimas padarys neigiamą neleistiną poveikį jo žemės sklypui ar jo žemės
+sklype esantys pastatai neteks stabilumo.
  
 4.100 straipsnis. Nuosavybės paėmimas visuomenės
 poreikiams 
@@ -12253,9 +12268,9 @@ nuostolių sprendžia teismas.
 teisė į visuomenės poreikiams paimamą kilnojamąjį daiktą (turtą) valstybei
 pereina nuo atsiskaitymo su daikto (turto) savininku momento. Nuosavybės teisė
 į visuomenės poreikiams paimamą nekilnojamąjį daiktą valstybei pereina nuo
-nekilnojamojo daikto įregistravimo viešame registre momento, tačiau
-įregistruoti tokį daiktą kaip valstybės nuosavybę viešame registre galima tik
-nuo atsiskaitymo su nekilnojamojo daikto savininku momento.
+nekilnojamojo daikto įregistravimo viešame registre momento, tačiau įregistruoti
+tokį daiktą kaip valstybės nuosavybę viešame registre galima tik nuo
+atsiskaitymo su nekilnojamojo daikto savininku momento.
  
 4.101 straipsnis. Asmenų, kuriems
 nuosavybės teise priklausantys statiniais užstatyti žemės sklypai paimami
@@ -12324,9 +12339,8 @@ nurodyto reikalavimo, statinys teismo sprendimu nugriaunamas statytojo lėšomis
 6. Statybinės
 medžiagos, likusios statinius nugriovus, yra statytojo nuosavybė.
 7. Dėl
-normatyvinių statybos techninių dokumentų pažeidimo padaryta žala atlyginama
-šio kodekso šeštosios knygos XXII skyriaus trečiajame skirsnyje nustatyta
-tvarka.
+normatyvinių statybos techninių dokumentų pažeidimo padaryta žala atlyginama šio
+kodekso šeštosios knygos XXII skyriaus trečiajame skirsnyje nustatyta tvarka.
 Straipsnio
 pakeitimas:
 Nr.
@@ -12446,9 +12460,9 @@ nustatytas servitutas išlieka.
 suteikiamos servituto turėtojui konkrečios naudojimosi konkrečiu svetimu daiktu
 teisės arba atimamos iš tarnaujančiojo daikto savininko konkrečios naudojimosi
 daiktu teisės. 
-2. Kilus
-abejonių dėl servituto turinio ir nesant galimybių tiksliai jį nustatyti,
-laikoma, kad servitutas yra mažiausias.
+2. Kilus abejonių
+dėl servituto turinio ir nesant galimybių tiksliai jį nustatyti, laikoma, kad
+servitutas yra mažiausias.
 3. Jeigu
 nustatant servitutą ar vėliau nebuvo konkrečiai nustatytas servituto turinys,
 jį sąlygoja viešpataujančiojo daikto naudojimo pagal paskirtį poreikiai.
@@ -12466,9 +12480,9 @@ neįmanoma ar labai sudėtinga.
 1. Servituto
 suteikiamos teisės turi būti įgyvendinamos pagal tikslinę paskirtį, kad būtų
 kuo mažiau nepatogumų tarnaujančiojo daikto savininkui.
-2. Servituto turėtojas,
-įgyvendindamas servituto suteikiamas teises, privalo nepažeisti kitų savininkų
-teisių.
+2. Servituto
+turėtojas, įgyvendindamas servituto suteikiamas teises, privalo nepažeisti kitų
+savininkų teisių.
 3. Nustatant
 servitutą, gali būti nustatyta prievolė statyti statinius, sodinti augalus ar
 atlikti kitus darbus, kurie yra būtini servituto teisėms įgyvendinti.
@@ -12477,8 +12491,8 @@ atlikti kitus darbus, kurie yra būtini servituto teisėms įgyvendinti.
 pareiga tinkamai išlaikyti tarnaujantįjį daiktą
 1. Jeigu norint
 normaliai naudotis servituto suteiktomis teisėmis yra būtina remontuoti ir
-kitaip tinkamai išlaikyti tarnaujantįjį daiktą, servituto turėtojas privalo visa
-tai atlikti tinkamai ir laiku, jeigu sutartyje nenustatyta kitaip.
+kitaip tinkamai išlaikyti tarnaujantįjį daiktą, servituto turėtojas privalo
+visa tai atlikti tinkamai ir laiku, jeigu sutartyje nenustatyta kitaip.
 2. Tais
 atvejais, kai servituto turinį sudarančiomis teisėmis naudojasi ir pats
 tarnaujančiojo daikto savininkas, pareiga tinkamai išlaikyti tarnaujantįjį
@@ -12542,10 +12556,10 @@ neturi teisės sodinti krūmų ir medžių arčiau kaip trys metrai nuo kelio kr
 4.120 straipsnis. Kelio servitutas, suteikiantis
 teisę varyti galvijus
 1. Kai kelio
-servitutu suteikiama teisė varyti galvijus, papildomai nenustatant galimybės naudotis
-juo kitais tikslais bei nenustatant naudojimosi juo apribojimų, laikoma, kad
-tokiu keliu (taku) galima tik varyti galvijus bei servituto turėtojui naudotis
-juo kaip pėsčiųjų taku.
+servitutu suteikiama teisė varyti galvijus, papildomai nenustatant galimybės
+naudotis juo kitais tikslais bei nenustatant naudojimosi juo apribojimų,
+laikoma, kad tokiu keliu (taku) galima tik varyti galvijus bei servituto
+turėtojui naudotis juo kaip pėsčiųjų taku.
 2. Kelio
 servituto suteikta teisė varyti galvijus nesuteikia teisės ganyti galvijus
 šalikelėse ar ant tako ir šalia jo.
@@ -12572,9 +12586,9 @@ nustatomas statinių servitutas, suteikiantis teisę atremti viešpataujantįjį
 statinį į tarnaujantįjį daiktą arba pritvirtinti prie jo, įtvirtinti į
 tarnaujančiojo statinio sieną (konstrukciją) kablius ir kitokius pritvirtinimo
 dalykus bei naudotis jais, statyti ar montuoti statinių dalis, pakibusias virš
-tarnaujančiojo sklypo ar statinio, uždrausti tarnaujančiojo sklypo savininkui
-statyti statinius, kurie užstotų šviesą ar esamą vietovaizdį, taip pat atlikti
-kitus įstatymų neuždraustus veiksmus ar reikalauti iš tarnaujančiojo daikto
+tarnaujančiojo sklypo ar statinio, uždrausti tarnaujančiojo sklypo savininkui statyti
+statinius, kurie užstotų šviesą ar esamą vietovaizdį, taip pat atlikti kitus
+įstatymų neuždraustus veiksmus ar reikalauti iš tarnaujančiojo daikto
 savininko, kad jis susilaikytų nuo konkrečių veiksmų atlikimo.
  
 4.123 straipsnis. Kiti servitutai
@@ -12606,8 +12620,8 @@ savininkas.
 4.126 straipsnis. Servituto nustatymas teismo
 sprendimu
 1. Teismo
-sprendimu servitutas nustatomas, jeigu savininkai nesusitaria, o nenustačius
-servituto nebūtų įmanoma normaliomis sąnaudomis daikto naudoti pagal paskirtį.
+sprendimu servitutas nustatomas, jeigu savininkai nesusitaria, o nenustačius servituto
+nebūtų įmanoma normaliomis sąnaudomis daikto naudoti pagal paskirtį.
 2. Daikto
 savininkas ar valdytojas gali kreiptis į teismą dėl servituto nustatymo teismo
 sprendimu.
@@ -12624,7 +12638,8 @@ sprendimu.
 nustatomas servitutas
 1. Servitutas
 gali būti nustatomas nekilnojamajam daiktui, kuris savo pastoviomis savybėmis
-neterminuotam laikui gali užtikrinti viešpataujančiojo daikto tinkamą naudojimą.
+neterminuotam laikui gali užtikrinti viešpataujančiojo daikto tinkamą
+naudojimą.
 2. Nustačius
 servitutą viešpataujančiuoju ir tarnaujančiuoju tampantys daiktai nebūtinai
 privalo turėti bendrą ribą. Svarbiausia, kad dėl nustatyto servituto
@@ -12720,9 +12735,9 @@ daikto funkcijų, baigiasi ir servitutas.
 2. Dėl
 tarnaujančiojo daikto pablogėjimo pasibaigęs servitutas atnaujinamas, jeigu
 daiktas atgauna savybes, dėl kurių jis vėl gali atlikti tarnaujančiojo daikto
-funkcijas. Šiuo atveju neturi reikšmės netgi tai, kad per laiką, kurį pablogėjęs
-daiktas negalėjo atlikti tarnaujančiojo daikto funkcijų, servitutas būtų
-pasibaigęs dėl senaties.
+funkcijas. Šiuo atveju neturi reikšmės netgi tai, kad per laiką, kurį
+pablogėjęs daiktas negalėjo atlikti tarnaujančiojo daikto funkcijų, servitutas
+būtų pasibaigęs dėl senaties.
 3. Sprendimą dėl
 servituto pabaigos bei atnaujinimo priima tarnaujančiojo daikto savininkas ir
 viešpataujančiojo daikto savininkas tarpusavio susitarimu, o esant ginčui, –
@@ -12744,8 +12759,8 @@ nesusitaria, sprendimą dėl servituto pabaigos priima teismas.
 terminui
 1. Servitutas
 baigiasi suėjus senaties terminui, jeigu turintis teisę juo naudotis asmuo
-savanoriškai dešimt metų pats ar per kitus asmenis nesinaudojo servituto suteikiamomis
-teisėmis.
+savanoriškai dešimt metų pats ar per kitus asmenis nesinaudojo servituto
+suteikiamomis teisėmis.
 2. Laikas, kurį
 nebuvo naudojamasi servituto suteikiamomis teisėmis dėl nenugalimos jėgos ar
 dėl tarnaujančiojo daikto savininko ar valdytojo trukdymo, į senaties terminą
@@ -12766,11 +12781,11 @@ servituto pabaigos suėjus senaties terminui priima teismas.
  
 4.137 straipsnis. Statinių servitutų pabaiga dėl
 senaties
-Statinių servitutas
-dėl senaties baigiasi tik tada, kai viešpataujančiojo daikto savininkas dešimt
-metų pats ar per kitus asmenis nesinaudojo servituto suteikiamomis teisėmis ir
-tarnaujančiajam daiktui padarė ką nors tokio, kas nesuderinama su naudojimusi
-servituto suteikiamomis teisėmis.
+Statinių
+servitutas dėl senaties baigiasi tik tada, kai viešpataujančiojo daikto
+savininkas dešimt metų pats ar per kitus asmenis nesinaudojo servituto
+suteikiamomis teisėmis ir tarnaujančiajam daiktui padarė ką nors tokio, kas
+nesuderinama su naudojimusi servituto suteikiamomis teisėmis.
  
 4.138 straipsnis. Servituto turėtojo teisė
 reikalauti atlyginti nuostolius 
@@ -12787,10 +12802,11 @@ daikto naudojimo teises ir tuo pažeidžia tarnaujančiojo daikto savininko
 teises, tai tarnaujančiojo daikto savininkas turi teisę reikalauti pašalinti
 bet kokius pažeidimus, net ir nesusijusius su valdymo netekimu.
 2. Tais
-atvejais, kai servitutas suvaržo teisę į daikto dalį, tarnaujančiojo daikto savininkas
-turi teisę reikalauti pakeisti daikto dalį, teisę į kurią suvaržo servitutas,
-kita šio daikto dalimi, jeigu toks pakeitimas padės tarnaujančiojo daikto
-savininkui išvengti dėl servituto atsirandančių pernelyg didelių nuostolių.
+atvejais, kai servitutas suvaržo teisę į daikto dalį, tarnaujančiojo daikto
+savininkas turi teisę reikalauti pakeisti daikto dalį, teisę į kurią suvaržo
+servitutas, kita šio daikto dalimi, jeigu toks pakeitimas padės tarnaujančiojo
+daikto savininkui išvengti dėl servituto atsirandančių pernelyg didelių
+nuostolių.
 3. Pasibaigus
 servitutui, servituto turėtojas, jeigu tarnaujančiojo daikto savininkas
 reikalauja, turi grąžinti to daikto būklę į padėtį, buvusią iki servituto
@@ -12860,8 +12876,8 @@ priimti įmokas.
 neturi teisės perduoti uzufrukto kitam asmeniui, bet gali perduoti kitam
 asmeniui teisę įgyvendinti uzufruktą. Tokiu atveju abu subjektai atsako pagal
 prievoles solidariai. Laikas, kuriam perduodama kitam asmeniui teisė
-įgyvendinti uzufruktą, negali būti ilgesnis už laiką, kuriam nustatytas
-uzufruktas. 
+įgyvendinti uzufruktą, negali būti ilgesnis už laiką, kuriam nustatytas uzufruktas.
+
 7. Uzufruktorius
 neturi teisės perdirbti uzufrukto objekto arba kitokiu būdu iš esmės jo
 pakeisti be uzufrukto objekto savininko leidimo ar įstatymo numatytais atvejais
@@ -12878,11 +12894,11 @@ būklei užtikrinti.
 turimoms uzufrukto objekto naudojimo teisėms bei gaunamoms iš jo pajamoms
 uzufruktorius privalo mokėti mokesčius bei kitas su uzufrukto objektu
 susijusias įmokas, jeigu sutartis ar įstatymai nenustato kitaip.
-3. Jeigu uzufrukto
-objektas sugadinamas arba pažeidžiamas, arba būtina atlikti neeilinius jo
-gerinimo ir remonto darbus, apsaugoti jį nuo nenumatytų pavojų, arba tretieji
-asmenys pareiškia savo teises į uzufrukto objektą, uzufruktorius privalo tuojau
-pat pranešti apie tai savininkui.
+3. Jeigu
+uzufrukto objektas sugadinamas arba pažeidžiamas, arba būtina atlikti
+neeilinius jo gerinimo ir remonto darbus, apsaugoti jį nuo nenumatytų pavojų,
+arba tretieji asmenys pareiškia savo teises į uzufrukto objektą, uzufruktorius
+privalo tuojau pat pranešti apie tai savininkui.
 4. Uzufruktorius
 sutartyje, testamente ar įstatyme numatytais atvejais privalo apdrausti
 uzufrukto objektą. Jeigu uzufruktorius neapdraudžia uzufrukto objekto, tą gali
@@ -12921,14 +12937,14 @@ bei sandoriais.
 kylančios teisės į daiktą, kuriam privaloma teisinė registracija, ir pareigos
 subjektams atsiranda tik įregistravus uzufruktą, išskyrus atvejus, kai
 uzufruktą nustato įstatymas.
-3. Į kilnojamąjį daiktą, kuriam nėra nustatyta privaloma teisinė
-registracija, uzufruktas atsiranda nuo daikto perdavimo momento, jeigu kitaip
-nenumatyta įstatyme (kai uzufruktą nustato įstatymas), sandoryje (kai
-uzufruktas nustatomas sandoriu) ar teismo sprendimo (kai uzufruktas nustatomas
-teismo sprendimu).
-4. Nustatant
-uzufruktą, turi būti uzufruktoriumi tampančio asmens valia, išskyrus atvejus,
-kai uzufruktą nustato įstatymas.
+3. Į kilnojamąjį daiktą, kuriam nėra nustatyta privaloma teisinė registracija,
+uzufruktas atsiranda nuo daikto perdavimo momento, jeigu kitaip nenumatyta
+įstatyme (kai uzufruktą nustato įstatymas), sandoryje (kai uzufruktas
+nustatomas sandoriu) ar teismo sprendimo (kai uzufruktas nustatomas teismo
+sprendimu).
+4. Nustatant uzufruktą,
+turi būti uzufruktoriumi tampančio asmens valia, išskyrus atvejus, kai
+uzufruktą nustato įstatymas.
  
 4.148 straipsnis. Uzufrukto nustatymas sandoriais 
 Nustatyti
@@ -12948,7 +12964,8 @@ Uzufrukto PABAIGA
 momentas
 1. Uzufruktas
 baigiasi:
-1) jo atsisakius;
+1) jo
+atsisakius;
 2) mirus
 uzufruktoriui, likvidavus uzufruktorių juridinį asmenį ar praėjus trisdešimčiai
 metų nuo uzufrukto nustatymo juridiniam asmeniui;
@@ -13008,10 +13025,10 @@ nustatant uzufruktą buvo numatytas jo pabaigos terminas ar uzufrukto pabaiga
 buvo susieta su naikinančiąja sąlyga, tai, pasibaigus nustatytam terminui ar
 įvykus naikinančiojoje sąlygoje numatytam juridiniam faktui, uzufruktas
 pasibaigia.
-2. Jeigu uzufruktas
-buvo nustatytas laikotarpiui, kol trečiasis asmuo sukaks tam tikrą amžių,
-tačiau jis nesukakęs nustatyto amžiaus miršta, tai uzufruktas išlieka iki to
-laiko, kada šis asmuo būtų sukakęs nustatytą amžių.
+2. Jeigu
+uzufruktas buvo nustatytas laikotarpiui, kol trečiasis asmuo sukaks tam tikrą
+amžių, tačiau jis nesukakęs nustatyto amžiaus miršta, tai uzufruktas išlieka
+iki to laiko, kada šis asmuo būtų sukakęs nustatytą amžių.
 3. Jeigu
 uzufruktas buvo nustatytas laikotarpiui, kol atsiras su trečiuoju asmeniu
 susiję sąlygos, o trečiasis asmuo iki tų sąlygų atsiradimo miršta ir todėl
@@ -13174,8 +13191,8 @@ ilgalaikę nuomą nustatančiame akte nustatytus įsipareigojimus.
  
 4.166 straipsnis. Ilgalaikės nuomos atlygintinumas
 Ilgalaikę nuomą
-nustatančiame akte gali būti numatyta, kad nuomininkas turi sumokėti
-nekilnojamojo daikto nuomotojui vienkartinę sumą arba už jį mokėti periodiškai.
+nustatančiame akte gali būti numatyta, kad nuomininkas turi sumokėti nekilnojamojo
+daikto nuomotojui vienkartinę sumą arba už jį mokėti periodiškai.
  
 4.167 straipsnis. Ilgalaikės nuomos nustatymas
 Ilgalaikė nuoma
@@ -13186,10 +13203,10 @@ arba testamentu.
 1. Jeigu
 ilgalaikę nuomą nustatantis aktas nenustato kitaip, tai nuomininkas naudojasi
 išnuomotu nekilnojamuoju daiktu kaip savininkas, tik iš esmės nedidina jo
-vertės, taip pat neturi teisės keisti jo tikslinės paskirties be savininko
-sutikimo. Jeigu nuomos objektas yra žemės sklypas, ilgalaikę nuomą
-nustatančiame akte gali būti numatyta nuomininko teisė statyti statinius ar
-sodinti sodinius, reikalingus žemei naudoti pagal paskirtį.
+vertės, taip pat neturi teisės keisti jo tikslinės paskirties be savininko sutikimo.
+Jeigu nuomos objektas yra žemės sklypas, ilgalaikę nuomą nustatančiame akte
+gali būti numatyta nuomininko teisė statyti statinius ar sodinti sodinius,
+reikalingus žemei naudoti pagal paskirtį.
 2. Nuomininkas
 savo lėšomis privalo išlaikyti išnuomotą nekilnojamąjį daiktą ir jį remontuoti.
 3. Jeigu
@@ -13228,10 +13245,10 @@ prašymu ilgalaikė nuoma gali būti teismo sprendimu pakeista ar panaikinta,
 jeigu atsiranda nenumatytų aplinkybių, dėl kurių nebegalima naudotis daiktu
 ankstesnėmis sąlygomis.
 4. Pasibaigus
-ilgalaikei nuomai, nuomininkas privalo grąžinti nuomotojui nuomos objektą.
-Nuomininkui turi būti kompensuota ilgalaikės nuomos objekto pagerinimų vertė,
-jeigu pagerinta buvo nuomotojo sutikimu. Nuomininkas turi teisę sulaikyti
-ilgalaikės nuomos objekto perdavimą nuomotojui tol, kol nuomotojas nesumokės
+ilgalaikei nuomai, nuomininkas privalo grąžinti nuomotojui nuomos objektą. Nuomininkui
+turi būti kompensuota ilgalaikės nuomos objekto pagerinimų vertė, jeigu
+pagerinta buvo nuomotojo sutikimu. Nuomininkas turi teisę sulaikyti ilgalaikės
+nuomos objekto perdavimą nuomotojui tol, kol nuomotojas nesumokės
 kompensacijos. Nuomotojas gali sulaikyti nuomininkui priklausantį daiktą tol,
 kol nuomininkas su juo neatsiskaitys.
 5. Jeigu
@@ -13263,8 +13280,8 @@ kitaip.
 1. Hipotekos
 objektu gali būti atskiri viešame registre registruojami, iš civilinės
 apyvartos neišimti nekilnojamieji daiktai, kurie gali būti pateikti parduoti
-viešose varžytynėse. Nekilnojamojo daikto hipoteka neapima iš šio daikto
-gaunamų pajamų.
+viešose varžytynėse. Nekilnojamojo daikto hipoteka neapima iš šio daikto gaunamų
+pajamų.
 2. Kai įkeičiamas pagrindinis daiktas, laikoma, kad
 yra įkeičiami ir esantys bei būsimi daikto savininko valia prijungti ar dėl
 gamtinių įvykių prie pagrindinio daikto prisijungę priklausiniai.
@@ -13292,8 +13309,8 @@ bendraturčių sutikimas nereikalingas, tačiau įkeičiamoji dalis turi būti
 tiksliai nustatyta bendraturčių sudaryta ir notaro patvirtinta naudojimosi
 daiktu tvarkos nustatymo sutartimi.
 9. Daikto
-įkeitimas netrukdo perleisti jo kito asmens nuosavybėn. Perleidžiant įkeistą
-daiktą nuosavybėn kitam asmeniui, hipoteka seka paskui daiktą.
+įkeitimas netrukdo perleisti jo kito asmens nuosavybėn. Perleidžiant įkeistą daiktą
+nuosavybėn kitam asmeniui, hipoteka seka paskui daiktą.
 10. Įkeisto
 daikto savininkas neturi teisės sunaikinti, sužaloti daiktą ar kitaip sumažinti
 jo vertę, išskyrus daikto normalų nusidėvėjimą ar vertės sumažėjimą naudojant
@@ -13435,11 +13452,11 @@ hipotekos sutartyje nenustatyta, hipotekos kreditorius gali reikalauti skolos
 dydį fiksuoti bet kuriuo momentu, bet ne anksčiau kaip praėjus trejiems metams
 nuo hipotekos įregistravimo dienos.
 3. Skolos dydis
-fiksuojamas, kai kiti kreditoriai reikalauja parduoti įkeistą daiktą iš
-varžytynių, įkeistas daiktas areštuojamas, skolininkas arba kreditorius
-paskelbiami nemokiais ar jie likviduojami, kreditorius ar skolininkas miršta,
-jeigu jų turto paveldėtojai neperregistruoja hipotekos savo vardu per šešis
-mėnesius nuo palikimo atsiradimo dienos.
+fiksuojamas, kai kiti kreditoriai reikalauja parduoti įkeistą daiktą iš varžytynių,
+įkeistas daiktas areštuojamas, skolininkas arba kreditorius paskelbiami
+nemokiais ar jie likviduojami, kreditorius ar skolininkas miršta, jeigu jų
+turto paveldėtojai neperregistruoja hipotekos savo vardu per šešis mėnesius nuo
+palikimo atsiradimo dienos.
 4. Skolos dydžio
 fiksavimas panaikinamas, jei kreditoriai atšaukia reikalavimą parduoti daiktą
 iš varžytynių, jei panaikinamas nekilnojamojo daikto areštas arba atšaukiamas
@@ -13551,8 +13568,8 @@ reikalavimo perleidimas (hipotekos lakšto indosamentas) registruojamas
 hipotekos registre ta pačia tvarka kaip ir hipoteka.
  
 4.190 straipsnis. Hipotekos kreditoriaus
-teisė perleisti savo eilės pirmumą patenkinti reikalavimą iš įkeisto daikto
-vertės kitam hipotekos kreditoriui 
+teisė perleisti savo eilės pirmumą patenkinti reikalavimą iš įkeisto daikto vertės
+kitam hipotekos kreditoriui 
 Kai daiktas
 įkeistas kelis kartus, bet kuris hipotekos kreditorius gali perleisti savo
 eilės pirmumą patenkinti reikalavimą iš įkeisto daikto vertės kitam to paties
@@ -13649,9 +13666,10 @@ mirė;
 3) pradėta
 skolininko ar įkeisto daikto savininko (ne fizinio asmens) bankroto procedūra
 arba priimtas sprendimas jį likviduoti;
-4) įkeisto daikto
-vertė sumažėjo, o skolininkas neįvykdė įsipareigojimo dalies, kuria sumažėjo
-daikto vertė, kai šios įsipareigojimo dalies nepadengė gauta draudimo suma;
+4) įkeisto
+daikto vertė sumažėjo, o skolininkas neįvykdė įsipareigojimo dalies, kuria
+sumažėjo daikto vertė, kai šios įsipareigojimo dalies nepadengė gauta draudimo
+suma;
 5) įkeisto
 daikto draudimo sutartis nutraukta prieš terminą arba, pasibaigus draudimo
 sutarčiai, daiktas nebeapdraudžiamas. 
@@ -13744,9 +13762,9 @@ priklausinius bei neatskirtus vaisius.
 atsitiktinio žuvimo ar sugedimo rizika tenka įkaito davėjui, jeigu įstatymai ar
 sutartis nenustato ko kita.
 5. Įstatymo
-numatytais atvejais įkeitimo objektu taip pat gali būti daiktai, kurie taps
-įkaito davėjo nuosavybe ateityje. Išieškojimas į tokius daiktus gali būti
-nukreiptas tik įkaito davėjui įgijus šiuos daiktus nuosavybės teise.
+numatytais atvejais įkeitimo objektu taip pat gali būti daiktai, kurie taps įkaito
+davėjo nuosavybe ateityje. Išieškojimas į tokius daiktus gali būti nukreiptas
+tik įkaito davėjui įgijus šiuos daiktus nuosavybės teise.
 6. Įkeisti
 daiktą, kuris yra bendroji nuosavybė, galima tik rašytiniu visų bendraturčių
 sutikimu.
@@ -13843,10 +13861,9 @@ tvirtinamas notaro ir registruojamas hipotekos registre.
 straipsnio 1 ir 2 dalyse numatytų taisyklių nesilaikymas įkeitimo sutartį daro
 negaliojančia.
 4. Įkeitimo
-sutartį (lakštą) pasirašo įkaito davėjas, skolininkas, kreditorius ir asmuo,
-kuriam perduotas įkeitimo objektas. Jeigu įkeitimo objektas įkeičiamas
-vienašaliu jo savininko pareiškimu, įkeitimo lakštą pasirašo tik įkaito
-davėjas.
+sutartį (lakštą) pasirašo įkaito davėjas, skolininkas, kreditorius ir asmuo, kuriam
+perduotas įkeitimo objektas. Jeigu įkeitimo objektas įkeičiamas vienašaliu jo
+savininko pareiškimu, įkeitimo lakštą pasirašo tik įkaito davėjas.
 5. Daiktų
 įkeitimas gali būti atliekamas perduodant kreditoriui dokumentus, suteikiančius
 teisę į tą daiktą (konosamentus ir kt.).
@@ -13965,18 +13982,19 @@ hipotekos teisėją su prašymu areštuoti įkeistą daiktą ir perduoti jam.
 parduoda įkeistą daiktą kreditoriaus, skolininko ir įkaito davėjo (kai įkaito
 davėjas yra ne skolininkas) sutartu būdu arba bendru sutarimu įkeistas daiktas
 perduodamas kreditoriaus nuosavybėn, o nesutarus – parduodamas aukcione. Jeigu
-daiktas įkeistas kelis kartus, jis gali būti perduotas vieno iš kreditorių
-nuosavybėn tik visiems kreditoriams susitarus. Kreditorius įkeistus vertybinius
-popierius realizuoja įstatymų nustatyta tvarka. Pardavus įkeistą daiktą, gautos
-lėšos pervedamos į hipotekos įstaigos depozitą ir paskirstomos Civilinio
-proceso kodekso nustatyta tvarka.
+daiktas įkeistas kelis kartus, jis gali būti perduotas vieno iš kreditorių nuosavybėn
+tik visiems kreditoriams susitarus. Kreditorius įkeistus vertybinius popierius
+realizuoja įstatymų nustatyta tvarka. Pardavus įkeistą daiktą, gautos lėšos
+pervedamos į hipotekos įstaigos depozitą ir paskirstomos Civilinio proceso
+kodekso nustatyta tvarka.
 6. Jeigu sumos,
 gautos pardavus įkeistą daiktą, neužtenka įkaito turėtojo reikalavimui visiškai
 patenkinti, tai, jeigu įstatyme ar sutartyje nenurodyta kitaip, įkaito
-turėtojas turi teisę išieškoti trūkstamą sumą iš skolininko kito turto. Šiuo
-atveju įkaito turėtojas neturi pirmenybės prieš kitus kreditorius.
+turėtojas turi teisę išieškoti trūkstamą sumą iš skolininko kito turto. Šiuo atveju
+įkaito turėtojas neturi pirmenybės prieš kitus kreditorius.
  
-4.220 straipsnis. Įkeistų turtinių teisių realizavimas
+4.220 straipsnis. Įkeistų turtinių teisių
+realizavimas
 1. Jeigu
 įkeitimo objektas yra turtinės teisės, tai įkeitimo objektas realizuojamas
 perleidžiant kreditoriui įkaito davėjo reikalavimus, kylančius iš įkeistos
@@ -13990,10 +14008,10 @@ teisę nukreipti išieškojimą į įkeitimo objektą.
 reikalavimo iš įkeistų lėšų, esančių įkaito davėjo banko sąskaitoje, tenkinimo
 tvarka
 1. Kai prievolės
-įvykdymui užtikrinti buvo įkeistos lėšos, esančios įkaito davėjo banko
-sąskaitoje, įteikus skolininkui įspėjimą dėl išieškojimo, įkaito davėjo
-rašytiniu pareiškimu, o jei jis nesutinka, hipotekos teisėjo sprendimu,
-kreditoriui perduodama teisė tvarkyti įkaito davėjo banko sąskaitą.
+įvykdymui užtikrinti buvo įkeistos lėšos, esančios įkaito davėjo banko sąskaitoje,
+įteikus skolininkui įspėjimą dėl išieškojimo, įkaito davėjo rašytiniu
+pareiškimu, o jei jis nesutinka, hipotekos teisėjo sprendimu, kreditoriui
+perduodama teisė tvarkyti įkaito davėjo banko sąskaitą.
 2. Patenkinus reikalavimą iš įkaito davėjo sąskaitoje esančių ir į ją
 įplaukiančių lėšų, kreditoriaus teisė tvarkyti įkaito davėjo sąskaitą
 pasibaigia ir kreditorius privalo grąžinti įkaito davėjui įkeitimo lakštą su
@@ -14027,13 +14045,13 @@ hipotekos registre ta pačia tvarka kaip ir įkeitimas.
 teisė baigiasi:
 1) pasibaigus
 įkeitimu užtikrintai prievolei;
-2) žuvus įkeistam
-daiktui;
+2) žuvus
+įkeistam daiktui;
 3) įkaito
 turėtojui įgijus nuosavybės teisę į įkeistą daiktą arba įkeistoms teisėms
 perėjus įkaito turėtojui;
-4) pasibaigus
-teisės, esančios įkeitimo dalyku, galiojimo terminui;
+4) pasibaigus teisės,
+esančios įkeitimo dalyku, galiojimo terminui;
 5) kai
 kreditorius negali patenkinti savo reikalavimo iš įkeitimo dalyko dėl ieškinio
 senaties termino praleidimo;
@@ -14050,8 +14068,8 @@ davėjas turi teisę bet kuriuo metu nuo termino prievolei įvykdyti suėjimo ik
 įkeitimu užtikrintą prievolę.
 2. Jeigu
 įkeitimo užtikrinta prievolė gali būti įvykdyta dalimis, tai įkaito davėjas
-turi teisę sustabdyti įkeitimo dalyko išieškojimą įvykdydamas prievolės dalį,
-kurios įvykdymo terminas praleistas.
+turi teisę sustabdyti įkeitimo dalyko išieškojimą įvykdydamas prievolės dalį, kurios
+įvykdymo terminas praleistas.
 3. Įkaito
 davėjas turi teisę reikalauti, kad kreditorius atlygintų jo patirtus
 nuostolius, atsiradusius kreditoriui vykdant išieškojimą, taip pat nuostolius,
@@ -14078,8 +14096,8 @@ lombardui įkeičiamus daiktus, įkaito davėjui išduodamas įkeitimo bilietas.
 4.228 straipsnis. Lombardo teisės, pareigos ir
 atsakomybė
 1. Lombardas
-neturi teisės naudoti įkeistų daiktų bei jais disponuoti, išskyrus šio straipsnio
-3 dalyje numatytą atvejį.
+neturi teisės naudoti įkeistų daiktų bei jais disponuoti, išskyrus šio
+straipsnio 3 dalyje numatytą atvejį.
 2. Lombardas
 atsako už įkeistų daiktų praradimą (žuvimą) ir sužalojimą, jeigu neįrodo, kad
 daiktai prarasti (žuvo) arba sužaloti dėl nenugalimos jėgos.
@@ -14099,9 +14117,9 @@ DAIKTO
 SULAIKYMAS
  
 4.229 straipsnis. Daikto sulaikymo teisės turinys
-1. Kitam asmeniui
-priklausančio daikto teisėtas valdytojas, turintis reikalavimo teisę į daikto
-savininką, gali sulaikyti jo daiktą tol, kol bus patenkintas reikalavimas.
+1. Kitam
+asmeniui priklausančio daikto teisėtas valdytojas, turintis reikalavimo teisę į
+daikto savininką, gali sulaikyti jo daiktą tol, kol bus patenkintas reikalavimas.
 2. Sulaikymo
 teisė negali būti įgyvendinama, jeigu nėra suėjęs reikalavimo įvykdymo
 terminas.
@@ -14122,8 +14140,8 @@ sumokamos palūkanos, po to tenkinami reikalavimai, kylantys iš pagrindinės
 prievolės.
  
 4.232 straipsnis. Sulaikyto daikto laikymo sąlygos
-1. Daikto
-sulaikymo teisę turintis asmuo privalo daiktą saugoti ir laikyti taip, kad būtų
+1. Daikto sulaikymo
+teisę turintis asmuo privalo daiktą saugoti ir laikyti taip, kad būtų
 užtikrintas jo saugumas.
 2. Sulaikyto
 daikto sulaikymo teisę turintis asmuo negali išnuomoti, įkeisti, kitaip daikto
@@ -14135,8 +14153,8 @@ sulaikymo teisę turintis asmuo pažeidžia šio straipsnio 1 ir 2 dalyse
 nustatytas pareigas, skolininkas turi teisę kreiptis į teismą su prašymu
 perduoti daiktą jam.
  
-4.233 straipsnis. Išlaidų, susijusių su daikto sulaikymu,
-atlyginimas
+4.233 straipsnis. Išlaidų, susijusių su daikto
+sulaikymu, atlyginimas
 1. Jeigu daikto
 sulaikymo teisę turintis asmuo turėjo sulaikyto daikto išlaikymo išlaidų, jis
 gali reikalauti iš daikto savininko atlyginti šias išlaidas, išskyrus atvejus,
@@ -14167,14 +14185,14 @@ TURTO ADMINISTRAVIMAS
  
 4.236 straipsnis. Turto administravimo normų taikymo
 sritis
-1. Šio skyriaus
-normos reglamentuoja kiekvieno asmens, kuris administruoja kitam asmeniui
-nuosavybės teise priklausantį turtą, veiklą, išskyrus atvejus, kai šis kodeksas
-arba kiti įstatymai nustato kitokį turto administravimo būdą.
+1. Šio skyriaus normos
+reglamentuoja kiekvieno asmens, kuris administruoja kitam asmeniui nuosavybės
+teise priklausantį turtą, veiklą, išskyrus atvejus, kai šis kodeksas arba kiti
+įstatymai nustato kitokį turto administravimo būdą.
 2.
 Administravimas nustatomas teismo nutartimi, įstatymu arba sandoriu. Šio
-kodekso numatytais atvejais administravimas gali būti nustatomas administraciniu
-aktu.
+kodekso numatytais atvejais administravimas gali būti nustatomas
+administraciniu aktu.
 3. Nekilnojamojo daikto administravimo faktas
 registruojamas viešame registre ir nurodomas jo administratorius.
  
@@ -14219,20 +14237,21 @@ kad tai paprastasis administravimas.
 turinys
 1. Turto
 paprastojo administravimo atveju administratorius privalo priimti turto
-duodamus vaisius ir pajamas, registruoti skolas ir jas apmokėti iš administruojamo
-turto, taip pat įgyvendinti kitas teises, susijusias su turto valdymu ir
-naudojimu. Iš administruojamo turto gaunamas lėšas administratorius turi teisę
-saugiai investuoti pagal šio skyriaus normas.
+duodamus vaisius ir pajamas, registruoti skolas ir jas apmokėti iš
+administruojamo turto, taip pat įgyvendinti kitas teises, susijusias su turto
+valdymu ir naudojimu. Iš administruojamo turto gaunamas lėšas administratorius
+turi teisę saugiai investuoti pagal šio skyriaus normas.
 2. Jeigu
 administruojami vertybiniai popieriai, administratorius turi teisę balsuoti,
 taip pat kitas su vertybiniais popieriais susijusias teises ir pareigas.
 3.
 Administratorius neturi teisės keisti turto tikslinės paskirties, išskyrus
 atvejus, kai tokiems veiksmams leidimą išduoda teismas.
-4. Teismui leidus,
-administratorius gali turtą perleisti kitiems asmenims atlygintinai arba jį
-įkeisti, jeigu tai yra būtina skoloms apmokėti arba turto vertei išlaikyti.
-Greitai gendantį turtą administratorius gali realizuoti be teismo leidimo.
+4. Teismui
+leidus, administratorius gali turtą perleisti kitiems asmenims atlygintinai
+arba jį įkeisti, jeigu tai yra būtina skoloms apmokėti arba turto vertei
+išlaikyti. Greitai gendantį turtą administratorius gali realizuoti be teismo
+leidimo.
  
 4.241 straipsnis. Turto visiško administravimo
 turinys
@@ -14244,10 +14263,10 @@ tikslinę paskirtį.
 4.242 straipsnis. Turto administratoriaus prievolės
 naudos gavėjui
 1.
-Administratorius, vykdydamas savo prievoles, turi laikytis įstatymų ir
-administravimą nustatančio akto nustatytų taisyklių. Administratorius neatsako
-už turto normalų nusidėvėjimą, taip pat už turto vertės sumažėjimą ar turto
-žuvimą dėl nenugalimos jėgos.
+Administratorius, vykdydamas savo prievoles, turi laikytis įstatymų ir administravimą
+nustatančio akto nustatytų taisyklių. Administratorius neatsako už turto
+normalų nusidėvėjimą, taip pat už turto vertės sumažėjimą ar turto žuvimą dėl
+nenugalimos jėgos.
 2.
 Administratorius savo prievoles privalo vykdyti apdairiai, sąžiningai ir tik
 naudos gavėjo interesais. Administratorius negali jam suteiktų teisių panaudoti
@@ -14298,8 +14317,7 @@ patvirtino ar trečiasis asmuo žinojo, kad administratorius veikdamas viršijo
 savo įgaliojimus.
 3. Naudos
 gavėjas atsako tretiesiems asmenims už administratoriaus kaltais veiksmais
-vykdant funkcijas padarytą žalą tik ta suma, kurią jis gavo iš
-administratoriaus.
+vykdant funkcijas padarytą žalą tik ta suma, kurią jis gavo iš administratoriaus.
 4. Pripažįstama,
 kad administratorius viršijo savo įgaliojimus, jeigu jis vienas atliko tokius
 veiksmus, kuriuos galėjo atlikti tik su kitu asmeniu, išskyrus atvejus, kai
@@ -14336,8 +14354,8 @@ turto inventorizaciją iš naujo.
 4.246 straipsnis. Bendras turto administravimas
 1. Kai turtą
 administruoja keli administratoriai, visus su turto administravimu susijusius
-sprendimus priima administratorių dauguma, jeigu pagal įstatymą ar administravimo
-nustatymo aktą nereikia visų administratorių bendro sprendimo.
+sprendimus priima administratorių dauguma, jeigu pagal įstatymą ar
+administravimo nustatymo aktą nereikia visų administratorių bendro sprendimo.
 2. Jeigu keli
 administratoriai vengia priimti sprendimą, kiti gali kreiptis į teismą leidimo
 veikti pavieniui ar pakeisti sprendimų priėmimo tvarką.
@@ -14373,8 +14391,8 @@ pavedę juos atlikti, veiksmus.
  
 4.248 straipsnis. Administruojamo turto investavimas
 1.
-Administruojamas turtas investuojamas naudos gavėjo vardu, jeigu kitaip nenustato
-įstatymas ar administravimo nustatymo aktas.
+Administruojamas turtas investuojamas naudos gavėjo vardu, jeigu kitaip
+nenustato įstatymas ar administravimo nustatymo aktas.
 2.
 Preziumuojama, kad administratorius turtą investavo saugiai, jeigu:
 1) turtas
@@ -14386,8 +14404,8 @@ investavęs turtą administratorius atsako už visus nuostolius.
  
 4.249 straipsnis. Iš administruojamo
 turto gautų pajamų naudojimas ir apskaita
-1. Iš
-administruojamo turto gautų pajamų administratorius turi teisę:
+1. Iš administruojamo
+turto gautų pajamų administratorius turi teisę:
 1) sumokėti
 draudimo įmokas, susijusias su administruojamu turtu;
 2) apmokėti
@@ -14403,11 +14421,11 @@ Administratorius privalo tvarkyti pajamų ir išlaidų apskaitą. Pasibaigus
 kalendoriniams metams, administratorius privalo pateikti detalią savo veiklos
 ataskaitą. Jeigu yra keli turto administratoriai, jie privalo parengti bendrą
 ataskaitą, išskyrus atvejus, kai jų teisės buvo padalytos.
-3. Administratorius
-privalo leisti naudos gavėjui tikrinti sąskaitas ir kitus finansinės
-atskaitomybės dokumentus. Kiekvienas suinteresuotas asmuo gali kreiptis į
-teismą ir reikalauti paskirti administratoriaus veiklos ir pateiktos ataskaitos
-auditą.
+3.
+Administratorius privalo leisti naudos gavėjui tikrinti sąskaitas ir kitus
+finansinės atskaitomybės dokumentus. Kiekvienas suinteresuotas asmuo gali
+kreiptis į teismą ir reikalauti paskirti administratoriaus veiklos ir pateiktos
+ataskaitos auditą.
  
 4.250 straipsnis. Turto administravimo pabaiga
 Turto
@@ -14464,11 +14482,11 @@ perduoti turtą jo buvimo vietoje bei grąžinti viską, ką gavo vykdydamas
 pareigas, išskyrus atlyginimą už administravimą.
 2. Jeigu
 administratorius sudaro sandorį po administravimo panaikinimo apie
-administravimo panaikinimą nežinodamas ir negalėdamas žinoti, toks sandoris galioja
-ir yra privalomas naudos gavėjui. Ta pati taisyklė taikoma ir sandoriams, kurie
-buvo būtini administruojamam turtui išsaugoti. Naudos gavėjui taip pat
-privalomi sandoriai, kuriuos tretieji asmenys su administratoriumi sudarė
-nežinodami ir negalėdami žinoti apie administravimo pabaigą.
+administravimo panaikinimą nežinodamas ir negalėdamas žinoti, toks sandoris
+galioja ir yra privalomas naudos gavėjui. Ta pati taisyklė taikoma ir
+sandoriams, kurie buvo būtini administruojamam turtui išsaugoti. Naudos gavėjui
+taip pat privalomi sandoriai, kuriuos tretieji asmenys su administratoriumi
+sudarė nežinodami ir negalėdami žinoti apie administravimo pabaigą.
  
 XV
 SKYRIUS
@@ -14482,8 +14500,8 @@ yra suformuoti įstatymo nustatyta tvarka ir kurių įgijimo ir perleidimo
 pagrindų registravimą nustato teisės aktai.
 2. Šio
 straipsnio 1 dalyje nurodyti daiktai, teisių į juos suvaržymai, daiktinės
-teisės, o įstatymų numatytais atvejais – ir juridiniai faktai, turi būti registruojami
-viešame registre.
+teisės, o įstatymų numatytais atvejais – ir juridiniai faktai, turi būti
+registruojami viešame registre.
  
 4.254 straipsnis. Registruojami juridiniai faktai
 Viešame registre
@@ -14603,8 +14621,8 @@ asmenys:
 1) pateikė
 registro tvarkytojui neteisingus duomenis;
 2) per vieną
-mėnesį nuo sužinojimo apie netikslų ar neteisingą įrašą viešame registre nesiėmė
-įstatymų nustatytų priemonių pažeistoms teisėms apginti.
+mėnesį nuo sužinojimo apie netikslų ar neteisingą įrašą viešame registre
+nesiėmė įstatymų nustatytų priemonių pažeistoms teisėms apginti.
 3. Ginčus dėl
 žalos atlyginimo sprendžia teismas.
  
@@ -14691,8 +14709,8 @@ negalima nustatyti palikėjo gyvenamosios vietos pagal aplinkybes, nurodytas ši
 straipsnio 1 ir 2 dalyse, palikimo atsiradimo vieta gali būti nustatoma pagal
 palikėjo pilietybę, jo registraciją, jam priklausančių transporto priemonių
 registracijos vietą ir kitas aplinkybes.
-4. Kilus
-ginčui, palikimo atsiradimo vietą suinteresuotų asmenų prašymu nustato teismas,
+4. Kilus ginčui,
+palikimo atsiradimo vietą suinteresuotų asmenų prašymu nustato teismas,
 atsižvelgdamas į visas aplinkybes.
  
 II
@@ -14758,8 +14776,8 @@ pagrindas santuoką pripažinti negaliojančia, jeigu buvo pareikštas ieškinys
 santuokos pripažinimo negaliojančia. Šis punktas netaikomas sutuoktiniui,
 nekaltam dėl santuokos pripažinimo negaliojančia.
 2. Šio
-straipsnio 1 dalies 1 ir 3 punktuose numatytus pagrindus nutraukti santuoką nustato
-teismas iki palikimo atsiradimo momento arba jau atsiradus palikimui.
+straipsnio 1 dalies 1 ir 3 punktuose numatytus pagrindus nutraukti santuoką
+nustato teismas iki palikimo atsiradimo momento arba jau atsiradus palikimui.
  
 5.8
 straipsnis. Paveldėjimo teisės ginčijimas
@@ -14772,9 +14790,9 @@ asmuo.
  
 5.9
 straipsnis. Paveldėjimo teisės nuginčijimo pasekmės
-1. Kai įsiteisėja
-teismo sprendimas nepripažinti asmens, pretenduojančio į palikimą, įpėdiniu,
-turinčiu teisę į palikimą, laikoma, kad šis asmuo palikimo nepriėmė.
+1. Kai
+įsiteisėja teismo sprendimas nepripažinti asmens, pretenduojančio į palikimą,
+įpėdiniu, turinčiu teisę į palikimą, laikoma, kad šis asmuo palikimo nepriėmė.
 2. Jeigu ieškinį
 pareiškė įpėdinis, kuris turi teisę paveldėti, jis laikomas palikimą priėmusiu,
 išskyrus atvejus, jeigu ieškinys buvo pareikštas dėl kitų įpėdinių interesų.
@@ -14805,9 +14823,9 @@ pagal įstatymą įpėdiniai lygiomis dalimis yra:
 3) trečios eilės
 – palikėjo seneliai tiek iš tėvo, tiek iš motinos pusės, palikėjo
 provaikaičiai;
-4) ketvirtos eilės
-– palikėjo broliai ir seserys, proseneliai ir prosenelės tiek iš tėvo, tiek iš
-motinos pusės;
+4) ketvirtos
+eilės – palikėjo broliai ir seserys, proseneliai ir prosenelės tiek iš tėvo,
+tiek iš motinos pusės;
 5) penktos eilės
 – palikėjo brolio ir sesers vaikai (sūnėnai ir dukterėčios), taip pat palikėjo
 tėvo ir motinos broliai ir seserys (dėdės ir tetos);
@@ -14826,13 +14844,13 @@ kitų aukštutinės linijos giminaičių pagal kilmę, taip pat po savo brolių 
 seserų pagal kilmę mirties.
 4. Įtėviai ir jų
 giminaičiai, paveldintys po įvaikio ar jo palikuonių mirties, prilyginami
-tėvams ir kitiems giminaičiams pagal kilmę. Įvaikio tėvai ir kiti jo
-aukštutinės linijos giminaičiai pagal kilmę nepaveldi pagal įstatymą po įvaikio
-ar jo palikuonių mirties.
-5. Pagal įstatymą
-paveldi palikėjo vaikai, gimę susituokusiems tėvams arba tėvams, kurių santuoka
-pripažinta negaliojančia, taip pat nesantuokiniai vaikai, kurių tėvystė
-nustatyta pagal įstatymus.
+tėvams ir kitiems giminaičiams pagal kilmę. Įvaikio tėvai ir kiti jo aukštutinės
+linijos giminaičiai pagal kilmę nepaveldi pagal įstatymą po įvaikio ar jo
+palikuonių mirties.
+5. Pagal
+įstatymą paveldi palikėjo vaikai, gimę susituokusiems tėvams arba tėvams, kurių
+santuoka pripažinta negaliojančia, taip pat nesantuokiniai vaikai, kurių
+tėvystė nustatyta pagal įstatymus.
  
 5.12 straipsnis. Paveldėjimas atstovavimo teise
 Palikėjo
@@ -14898,9 +14916,9 @@ testamentas ar jo atskiros dalys būtų pripažintos negaliojančiomis.
 testamentą pripažinus negaliojančiu, anksčiau sudarytas testamentas netampa
 galiojančiu, išskyrus atvejus, kai vėlesnis testamentas pripažįstamas
 negaliojančiu dėl to, kad jis buvo sudarytas dėl smurto ar realaus grasinimo,
-taip pat asmens, teismo pripažinto neveiksniu, ar asmens, kurio veiksnumas teismo
-apribotas dėl piktnaudžiavimo alkoholiniais gėrimais, narkotikais, narkotinėmis
-ar toksinėmis medžiagomis.
+taip pat asmens, teismo pripažinto neveiksniu, ar asmens, kurio veiksnumas
+teismo apribotas dėl piktnaudžiavimo alkoholiniais gėrimais, narkotikais,
+narkotinėmis ar toksinėmis medžiagomis.
  
 5.18 straipsnis. Testamento sudarymo sąlygos
 1. Testamentą
@@ -14931,10 +14949,10 @@ testamentą, turtas tarp jų dalijamas lygiomis dalimis.
 5. Jeigu
 paveldimas turtas testamente paskirstytas taip, kad visos dalys, kartu paimtos,
 viršija viso turto dydį, kiekvieno įpėdinio dalis atitinkamai sumažinama.
-6. Jeigu dalių suma
-yra mažesnė už viso turto dydį, atsižvelgiant į testamento turinį, įpėdinių
-pagal testamentą paveldimos turto dalys proporcingai didinamos arba likęs
-turtas paveldimas pagal įstatymą.
+6. Jeigu dalių
+suma yra mažesnė už viso turto dydį, atsižvelgiant į testamento turinį,
+įpėdinių pagal testamentą paveldimos turto dalys proporcingai didinamos arba
+likęs turtas paveldimas pagal įstatymą.
  
 5.20 straipsnis. Teisė į privalomąją palikimo dalį
 1. Palikėjo
@@ -14987,8 +15005,7 @@ testamente nenurodytas testamentinės išskirtinės vykdytojas, testamentinė
 išskirtinė išskiriama iš paveldimo turto, kol bus nustatytos įpėdinių paveldimo
 turto dalys.
 6. Testamentinė
-išskirtinė netenka galios, jeigu jos gavėjas miršta prieš atsirandant
-palikimui.
+išskirtinė netenka galios, jeigu jos gavėjas miršta prieš atsirandant palikimui.
  
 5.24 straipsnis. Testamentinės išskirtinės priėmimas
 1. Testamentinės
@@ -15029,8 +15046,8 @@ daiktu ar jo dalimi arba perduoti iš šio turto gaunamas pajamas ar jų dalį.
 5. Jeigu
 testatorius testamentine išskirtine kam nors skyrė išlaikymą, nenurodydamas jo
 turinio, toks asmuo turi teisę į maistą, būstą, drabužius ir medicininį
-aptarnavimą, o tie, kurie mokosi, – į mokymosi išlaidų padengimą per visą
-mokymosi laiką, bet ne ilgiau, nei jiems sueis dvidešimt ketveri metai.
+aptarnavimą, o tie, kurie mokosi, – į mokymosi išlaidų padengimą per visą mokymosi
+laiką, bet ne ilgiau, nei jiems sueis dvidešimt ketveri metai.
  
 5.26
 straipsnis. Turto palikimas visuomenei naudingiems ir labdaros tikslams 
@@ -15086,8 +15103,8 @@ sanatorijose arba gyvena senelių ir invalidų namuose, testamentai, patvirtinti
 tų ligoninių, gydymo įstaigų, sanatorijų vyriausiųjų gydytojų, jų pavaduotojų
 medicinos reikalams arba budinčiųjų gydytojų, taip pat šių senelių ir invalidų
 namų direktorių ir vyriausiųjų gydytojų;
-2) asmenų,
-esančių plaukiojančiuose jūrų laivuose arba vidaus plaukiojimo laivuose,
+2) asmenų, esančių
+plaukiojančiuose jūrų laivuose arba vidaus plaukiojimo laivuose,
 plaukiojančiuose su Lietuvos valstybės vėliava, testamentai, patvirtinti tų
 laivų kapitonų;
 3) asmenų,
@@ -15099,8 +15116,8 @@ testamentai, patvirtinti dalinių, junginių, įstaigų ir karo mokyklų vadų
 5) asmenų,
 esančių laisvės atėmimo vietose, testamentai, patvirtinti laisvės atėmimo vietų
 viršininkų;
-6) testatoriaus
-gyvenamosios vietos seniūnų patvirtinti testamentai.
+6) testatoriaus gyvenamosios
+vietos seniūnų patvirtinti testamentai.
 7. Šio
 straipsnio 6 dalyje nurodyti asmenys privalo kiek įmanoma greičiau perduoti
 patvirtintus testamentus notarui teisingumo ministro nustatyta tvarka.
@@ -15208,8 +15225,8 @@ turi teisę savo sudarytą testamentą bet kada pakeisti, papildyti ar panaikint
 sudarydamas naują testamentą, arba jo nesudaryti.
 2. Vėliau
 sudarytas testamentas panaikina visą pirmesnį testamentą ar tą jo dalį, kuri
-prieštarauja vėliau sudarytam testamentui. Ši nuostata netaikoma bendrajam
-sutuoktinių testamentui.
+prieštarauja vėliau sudarytam testamentui. Ši nuostata netaikoma bendrajam sutuoktinių
+testamentui.
 3. Testatorius
 taip pat gali panaikinti oficialųjį testamentą, paduodamas pareiškimą sudaryto
 testamento saugotojui arba testamentą patvirtinusiai įstaigai. Pareiškime
@@ -15275,8 +15292,8 @@ tikros testamento dalies vykdymą, toks vykdytojas atsako tik už savo veiksmus.
 5. Testamento
 vykdymo išlaidos padengiamos iš paveldimo turto.
 6. Testamento
-vykdytojas atlieka savo pareigas neatlygintinai, jeigu testatorius nenustatė
-testamente atlyginimo.
+vykdytojas atlieka savo pareigas neatlygintinai, jeigu testatorius nenustatė testamente
+atlyginimo.
  
 5.39 straipsnis. Palikimo apyrašas
 1. Pradėjęs
@@ -15284,9 +15301,10 @@ tvarkyti palikimą, testamento vykdytojas ar palikimo administratorius privalo
 nedelsdamas sudaryti palikimo apyrašą, kur įvardijamas palikimą sudarantis
 turtas, palikėjo kreditorinis ir debitorinis įsiskolinimas. Įpėdinis, pareiškęs
 norą, turi teisę dalyvauti sudarant turto apyrašą.
-2. Testamento vykdytojas
-ar palikimo administratorius savo nuožiūra turi teisę, o įpėdinio reikalavimu
-privalo teismo prašyti palikimo apyrašo sudarymą perduoti teismo antstoliui.
+2. Testamento
+vykdytojas ar palikimo administratorius savo nuožiūra turi teisę, o įpėdinio
+reikalavimu privalo teismo prašyti palikimo apyrašo sudarymą perduoti teismo
+antstoliui.
 3. Palikimo
 apyrašo sudarymo išlaidos padengiamos iš palikimo lėšų.
  
@@ -15330,9 +15348,9 @@ privalomąją palikimo dalį (šio kodekso 5.20 straipsnis).
  
 5.44 straipsnis. Bendrojo sutuoktinių testamento
 sudarymas
-1. Bendrąjį sutuoktinių
-testamentą gali sudaryti tik sutuoktiniai. Tokį testamentą notaro ar kito
-asmens, tvirtinančio testamentą, akivaizdoje pasirašo abu sutuoktiniai.
+1. Bendrąjį
+sutuoktinių testamentą gali sudaryti tik sutuoktiniai. Tokį testamentą notaro
+ar kito asmens, tvirtinančio testamentą, akivaizdoje pasirašo abu sutuoktiniai.
 2. Bendrasis
 sutuoktinių testamentas sudaromas tik kaip oficialusis testamentas (šio kodekso
 5.28 straipsnis).
@@ -15370,8 +15388,8 @@ santuoką, arba sutuoktinis davė sutikimą išsituokti.
 5.47 straipsnis. Perduoto saugoti testamento
 išreikalavimas
 Testamentą
-patvirtinusi ar jį sauganti įstaiga testamentą gali išduoti tik abiejų
-sutuoktinių reikalavimu.
+patvirtinusi ar jį sauganti įstaiga testamentą gali išduoti tik abiejų sutuoktinių
+reikalavimu.
  
 5.48 straipsnis. Bendrojo sutuoktinių testamento
 paskelbimas
@@ -15410,8 +15428,8 @@ kreipėsi į palikimo atsiradimo vietos apylinkės teismą dėl turto apyrašo
 sudarymo arba kai įpėdinis padavė palikimo atsiradimo vietos notarui pareiškimą
 apie palikimo priėmimą.
 3. Šiame
-straipsnyje nurodyti veiksmai turi būti atliekami per tris mėnesius nuo palikimo
-atsiradimo dienos.
+straipsnyje nurodyti veiksmai turi būti atliekami per tris mėnesius nuo
+palikimo atsiradimo dienos.
 4. Asmenys,
 kuriems paveldėjimo teisė atsiranda tik tuo atveju, kai kiti įpėdiniai palikimo
 nepriima, gali pareikšti sutikimą priimti palikimą per tris mėnesius nuo teisės
@@ -15510,14 +15528,14 @@ administratorių arba paskirti palikimo administratorių ir spręsti klausimą d
 varžytynių ar bankroto bylos iškėlimo. Tokiu atveju palikėjo skolos padengiamos
 tik iš palikimo.
 2. Palikimo
-administravimas nustatomas palikimo atsiradimo vietos apylinkės teismo
-nutartimi. Šia nutartimi teismas paskiria palikimo administratorių ir nustato
-jo atlyginimą.
+administravimas nustatomas palikimo atsiradimo vietos apylinkės teismo nutartimi.
+Šia nutartimi teismas paskiria palikimo administratorių ir nustato jo
+atlyginimą.
 3. Palikimo
 administravimas nenustatomas, jeigu palikimas nėra didelis ir administravimo
-išlaidos viršytų palikimo vertę arba didžioji palikimo dalis būtų sunaudota
-administravimo išlaidoms padengti. Palikimo administravimas panaikinamas, jeigu
-paaiškėja, kad administravimo išlaidos viršytų palikimo vertę. 
+išlaidos viršytų palikimo vertę arba didžioji palikimo dalis būtų sunaudota administravimo
+išlaidoms padengti. Palikimo administravimas panaikinamas, jeigu paaiškėja, kad
+administravimo išlaidos viršytų palikimo vertę. 
 4. Palikimo
 administratorius turi tas pačias teises ir pareigas kaip ir testamento
 vykdytojas (šio kodekso 5.38 straipsnis), taip pat jam taikomos mutatis mutandis
@@ -15527,8 +15545,9 @@ keletas įpėdinių, jie paduoda bendrą prašymą nustatyti palikimo administra
 Įpėdiniams perėmus valdyti paveldimą turtą, palikimo administravimas
 nenustatomas. 
 6. Jeigu šiame
-straipsnyje numatytais atvejais palikimo administravimas nenustatomas arba panaikinamas,
-tai sudaromas turto apyrašas ir palikėjo skolos padengiamos tik iš palikimo. 
+straipsnyje numatytais atvejais palikimo administravimas nenustatomas arba
+panaikinamas, tai sudaromas turto apyrašas ir palikėjo skolos padengiamos tik
+iš palikimo. 
 7. Įpėdinių
 ginčus dėl palikimo administravimo sprendžia teismas, priimdamas atitinkamą
 nutartį.
@@ -15580,8 +15599,8 @@ sutvarkymo išlaidas;
 fizinius asmenis, kurie buvo palikėjo išlaikomi;
 3) užtikrinti
 normalų įmonės (ūkio) funkcionavimą;
-4) patenkinti
-reikalavimus, kylančius iš darbo santykių;
+4) patenkinti reikalavimus,
+kylančius iš darbo santykių;
 5) apsaugoti ir
 tvarkyti paveldimą turtą.
  
@@ -15594,11 +15613,11 @@ sąlygomis ir išlygomis arba dalies palikimo.
 atsisakymas turi tas pačias pasekmes kaip ir palikimo nepriėmimas.
 3. Įpėdinis
 atsisako palikimo, paduodamas pareiškimą palikimo atsiradimo vietos notarui. 
-4.
-Neleidžiama atsisakyti palikimo, jeigu įpėdinis padavė palikimo atsiradimo
-vietos notarui pareiškimą, kad jis priima palikimą arba prašo išduoti jam
-paveldėjimo teisės liudijimą, arba kreipėsi į palikimo atsiradimo vietos
-apylinkės teismą dėl turto apyrašo sudarymo.
+4. Neleidžiama
+atsisakyti palikimo, jeigu įpėdinis padavė palikimo atsiradimo vietos notarui
+pareiškimą, kad jis priima palikimą arba prašo išduoti jam paveldėjimo teisės
+liudijimą, arba kreipėsi į palikimo atsiradimo vietos apylinkės teismą dėl
+turto apyrašo sudarymo.
  
 5.61 straipsnis. Paveldėjimo dalių padidėjimas
 1. Jeigu
@@ -15620,8 +15639,8 @@ nepriėmusiam palikimo įpėdiniui yra paskirtas antrinis įpėdinis.
 turtas paveldėjimo teise pereina valstybei, jeigu:
 1) turtas
 testamentu paliktas valstybei;
-2) palikėjas neturi
-įpėdinių nei pagal įstatymą, nei pagal testamentą;
+2) palikėjas
+neturi įpėdinių nei pagal įstatymą, nei pagal testamentą;
 3) nė vienas
 įpėdinis nepriėmė palikimo;
 4) iš visų
@@ -15751,10 +15770,10 @@ išspręstas burtais.
 5.71 straipsnis. Ūkininko ūkio paveldėjimas
 Tais atvejais,
 kai ūkininko ūkio padalijimas gali suardyti ūkį, pirmenybės teisę gauti ūkį ir
-jam priklausantį inventorių turi tas įpėdinis, kuris daugiausia dirbo paveldimame
-ūkyje ir yra pasiryžęs bei pasiruošęs pats ūkininkauti. Tokiu atveju kilus
-ginčui, teismas kitiems įpėdiniams priklausančios kompensacijos už jiems
-priklausančias turto dalis išmokėjimą gali išdėstyti iki dešimties metų,
+jam priklausantį inventorių turi tas įpėdinis, kuris daugiausia dirbo
+paveldimame ūkyje ir yra pasiryžęs bei pasiruošęs pats ūkininkauti. Tokiu
+atveju kilus ginčui, teismas kitiems įpėdiniams priklausančios kompensacijos už
+jiems priklausančias turto dalis išmokėjimą gali išdėstyti iki dešimties metų,
 priimdamas sprendimą nustatyti priverstinę hipoteką visiems tokio įpėdinio
 nekilnojamiesiems daiktams.
  
@@ -15791,8 +15810,7 @@ dokumentų sprendžia teismas, atsižvelgdamas į dalių dydžius, nekilnojamojo
 daikto naudojimą, įpėdinių gyvenamąją vietą ir kitas aplinkybes.
  
 VIII SKYRIUS
- ATSKIRŲ TURTO RŪŠIŲ PAVELDĖJIMO
-YPATYBĖS
+ ATSKIRŲ TURTO RŪŠIŲ PAVELDĖJIMO YPATYBĖS
  
 5.75 straipsnis. Žemės paveldėjimas
 Jeigu žemę
@@ -15845,8 +15863,8 @@ pagal galiojančius įstatymus sukuria prievolinius santykius.
 6.3
 straipsnis. Prievolių dalykas
 1. Prievolės dalyku gali
-būti bet kokie veiksmai (veikimas, neveikimas), kurių nedraudžia įstatymai ir
-kurie neprieštarauja viešajai tvarkai ar gerai moralei.
+būti bet kokie veiksmai (veikimas, neveikimas), kurių nedraudžia įstatymai ir kurie
+neprieštarauja viešajai tvarkai ar gerai moralei.
 2. Prievolės dalyku taip pat gali būti bet koks turtas, taip pat ir
 tas, kuris bus sukurtas ateityje, apibūdintas pagal rūšį ar kiekį arba kurį
 galima apibūdinti pagal kitus kriterijus.
@@ -15877,9 +15895,9 @@ ar šalių susitarimu nustatytus atvejus.
  
 6.6
 straipsnis. Solidarioji skolininkų pareiga
-1. Solidarioji skolininkų
-prievolė nepreziumuojama, išskyrus įstatymų nustatytas išimtis. Ji atsiranda
-tik įstatymų ar šalių susitarimu nustatytais atvejais, taip pat kai prievolės
+1. Solidarioji skolininkų prievolė
+nepreziumuojama, išskyrus įstatymų nustatytas išimtis. Ji atsiranda tik
+įstatymų ar šalių susitarimu nustatytais atvejais, taip pat kai prievolės
 dalykas yra nedalus.
 2. Prievolė gali būti
 solidari nepaisant to, kad vieno skolininko pareiga pagal jos įvykdymo sąlygas
@@ -15911,12 +15929,13 @@ atžvilgiu.
 6.7
 straipsnis. Bendraskolių atsikirtimai kreditoriaus reikalavimams
 Kai pareiga
-solidarioji, skolininkas gali panaudoti prieš kreditoriaus reikalavimą tiek bendrus
-visiems skolininkams, tiek ir asmeninius atsikirtimus. Tačiau skolininkas
-neturi teisės atsikirsti kreditoriaus reikalavimui, kai atsikirtimas pagrįstas
-tokiais kitų bendraskolių teisiniais santykiais, kuriuose tas skolininkas
-nedalyvauja, taip pat negali naudoti prieš kreditorių tokių gynybos priemonių,
-kurias gali panaudoti tik asmeniškai vienas ar keli kiti bendraskoliai.
+solidarioji, skolininkas gali panaudoti prieš kreditoriaus reikalavimą tiek
+bendrus visiems skolininkams, tiek ir asmeninius atsikirtimus. Tačiau
+skolininkas neturi teisės atsikirsti kreditoriaus reikalavimui, kai atsikirtimas
+pagrįstas tokiais kitų bendraskolių teisiniais santykiais, kuriuose tas
+skolininkas nedalyvauja, taip pat negali naudoti prieš kreditorių tokių gynybos
+priemonių, kurias gali panaudoti tik asmeniškai vienas ar keli kiti
+bendraskoliai.
  
 6.8
 straipsnis. Kitos bendraskolių teisės ir pareigos
@@ -15944,10 +15963,10 @@ tenkančią dalį, jeigu ko kita nenumato įstatymai ar sutartis. Tai, ko vienas
 bendraskolių dėl savo nemokumo nesumoka solidariąją pareigą įvykdžiusiam
 skolininkui, turi padengti lygiomis dalimis kiti bendraskoliai, išskyrus
 atvejus, kai jų skolos dalys nelygios.
-2. Jeigu
-solidarioji prievolė yra nepiniginė, atgręžtinio reikalavimo atveju
-įvykdžiusiam solidariąją prievolę skolininkui kiti bendraskoliai išmoka
-piniginę kompensaciją.
+2. Jeigu solidarioji
+prievolė yra nepiniginė, atgręžtinio reikalavimo atveju įvykdžiusiam
+solidariąją prievolę skolininkui kiti bendraskoliai išmoka piniginę
+kompensaciją.
 3. Šio
 straipsnio 1 ir 2 dalyse nustatytos taisyklės taikomos paskirstant
 bendraskoliams solidariosios prievolės įvykdymo išlaidas.
@@ -15965,10 +15984,10 @@ skolininko laiduotojais.
  
 6.10 straipsnis. Solidariosios pareigos
 ir solidariojo reikalavimo perėjimas prievolės šalių įpėdiniams
-1. Jeigu
-įstatymai ar sutartys nenumato ko kita, solidarioji pareiga po skolininko
-mirties padalijama jo įpėdiniams pagal šio kodekso penktojoje knygoje
-nustatytas taisykles, išskyrus atvejus, kai prievolė yra nedali.
+1. Jeigu įstatymai
+ar sutartys nenumato ko kita, solidarioji pareiga po skolininko mirties
+padalijama jo įpėdiniams pagal šio kodekso penktojoje knygoje nustatytas
+taisykles, išskyrus atvejus, kai prievolė yra nedali.
 2. Šio straipsnio 1 dalyje
 nustatyta taisyklė taikoma ir kai kreditoriaus reikalavimas yra solidarusis.
  
@@ -15995,8 +16014,8 @@ sutapimas
 yra solidarioji, o skolininkas ir kreditorius tas pats, kitų bendraskolių
 prievolė šio skolininko dalyje pasibaigia.
 2. Šio
-straipsnio 1 dalyje nustatyta taisyklė taikoma ir kai yra solidarioji
-reikalavimo teisė.
+straipsnio 1 dalyje nustatyta taisyklė taikoma ir kai yra solidarioji reikalavimo
+teisė.
  
 6.14 straipsnis. Teismo sprendimo galia
 solidariosios pareigos atveju
@@ -16078,8 +16097,9 @@ jau yra pareiškęs ieškinį skolininkui dėl prievolės įvykdymo.
 6.20 straipsnis. Novacijos įtaka solidariajam
 reikalavimui
 Vieno iš
-kreditorių, turinčių solidariąją reikalavimo teisę, ir skolininko novacija taikoma
-tik šio kreditoriaus daliai ir negali būti panaudota prieš kitus bendraskolius.
+kreditorių, turinčių solidariąją reikalavimo teisę, ir skolininko novacija
+taikoma tik šio kreditoriaus daliai ir negali būti panaudota prieš kitus
+bendraskolius.
  
 6.21 straipsnis. Solidariosios reikalavimo teisės
 atsisakymas
@@ -16164,8 +16184,8 @@ AlternatyviosIOS prievolės
 1. Prievolė yra
 alternatyvioji, kai skolininkas turi atlikti vieną iš dviejų ar iš daugiau
 skirtingų veiksmų (pagrindinių prievolės įvykdymo būdų) savo, kreditoriaus ar
-trečiojo asmens pasirinkimu. Kai pasirinktas veiksmas atliktas, laikoma, kad prievolė
-visiškai įvykdyta.
+trečiojo asmens pasirinkimu. Kai pasirinktas veiksmas atliktas, laikoma, kad
+prievolė visiškai įvykdyta.
 2. Skolininkas
 negali reikalauti, kad kreditorius priimtų dalį įvykdytos prievolės vienu būdu
 ir dalį kitu būdu.
@@ -16206,13 +16226,14 @@ konkretaus veiksmo nepasirenka, pasirinkimo teisė pereina įkaito turėtojui.
 6.28 straipsnis. Negalėjimas įvykdyti alternatyviąją
 prievolę
 1. Jeigu
-vienas iš kelių prievolės įvykdymo būdų yra neįmanomas nuo pat prievolės atsiradimo
-arba tapo neįmanomas po prievolės atsiradimo, tai prievolė vykdoma likusiu
-būdu.
+vienas iš kelių prievolės įvykdymo būdų yra neįmanomas nuo pat prievolės
+atsiradimo arba tapo neįmanomas po prievolės atsiradimo, tai prievolė vykdoma
+likusiu būdu.
 2. Šio
 straipsnio 1 dalyje nustatyta taisyklė netaikoma, jeigu įvykdyti prievolę vienu
-iš kelių būdų neįmanoma dėl aplinkybių, už kurias atsako pasirinkimo teisės neturinti
-prievolės šalis. Šiuo atveju skolininkas atsako už prievolės neįvykdymą.
+iš kelių būdų neįmanoma dėl aplinkybių, už kurias atsako pasirinkimo teisės
+neturinti prievolės šalis. Šiuo atveju skolininkas atsako už prievolės
+neįvykdymą.
 3. Jeigu
 skolininkas turėjo pasirinkimo teisę ir vienas iš kelių prievolės įvykdymo būdų
 tapo neįmanomas ne dėl jo kaltės, skolininkas privalo įvykdyti prievolę likusiu
@@ -16271,9 +16292,10 @@ neatlikimas priklauso nuo skolininko.
 būti teisėta ir neprieštarauti viešajai tvarkai ir gerai moralei.
 2. Sąlyga gali
 būti tik tokia aplinkybė, kurios buvimas ar nebuvimas yra įmanomas.
-3. Jeigu sąlyga
-neteisėta, prieštarauja viešajai tvarkai ar gerai moralei arba yra neįmanoma,
-tai tokia sąlyga negalioja ir daro negaliojančią prievolę, kuri su ja susijusi.
+3. Jeigu
+sąlyga neteisėta, prieštarauja viešajai tvarkai ar gerai moralei arba yra
+neįmanoma, tai tokia sąlyga negalioja ir daro negaliojančią prievolę, kuri su
+ja susijusi.
  
 6.32 straipsnis. Sąlygos įvykdymo ar neįvykdymo
 terminai
@@ -16311,9 +16333,9 @@ susitarimai ir kuri pasibaigia šiam terminui suėjus.
 tikros aplinkybės nėra, prievolė su atidedamuoju terminu vykdytina nuo tos
 dienos, kurią ta aplinkybė normaliai turėjo atsirasti.
 2. Negalima
-išreikalauti to, kam atlikti nustatytas terminas, iki šio termino pabaigos. Tačiau
-to, kas buvo įvykdyta savanoriškai ir neklystant iki įvykdymo termino pabaigos,
-negalima reikalauti grąžinti.
+išreikalauti to, kam atlikti nustatytas terminas, iki šio termino pabaigos.
+Tačiau to, kas buvo įvykdyta savanoriškai ir neklystant iki įvykdymo termino
+pabaigos, negalima reikalauti grąžinti.
  
 6.35 straipsnis. Termino nustatymas
 1. Terminą gali
@@ -16325,8 +16347,7 @@ atsižvelgdamas į prievolės pobūdį ir bylos aplinkybes. Neatidėliotinais
 atvejais terminą gali nustatyti viena šalis. Terminas visais atvejais turi būti
 protingas.
 3. Teismas gali
-nustatyti terminą, jeigu to reikalauja prievolės prigimtis, o šalys nebuvo jo
-nustačiusios.
+nustatyti terminą, jeigu to reikalauja prievolės prigimtis, o šalys nebuvo jo nustačiusios.
 4.
 Preziumuojama, kad terminas nustatomas skolininko naudai, išskyrus įstatymų ar
 sutarties numatytus atvejus, taip pat kai, atsižvelgiant į prievolės esmę ir
@@ -16548,10 +16569,10 @@ dėl tokio išieškojimo gali netekti tam tikrų teisių į tą turtą, gali pat
 kreditoriaus reikalavimą. Tokia pat teisė priklauso valdančiam turtą asmeniui,
 jeigu šis dėl išieškojimo gali prarasti turto valdymo teisę. Tretysis asmuo,
 įvykdęs už skolininką prievolę, įgyja regreso teisę reikalauti iš skolininko.
-2.
-Kreditoriaus reikalavimas taip pat gali būti patenkintas įmokant pinigus į
-notaro, banko ar kitos kredito įstaigos depozitinę sąskaitą arba įskaitant
-priešpriešinius reikalavimus.
+2. Kreditoriaus
+reikalavimas taip pat gali būti patenkintas įmokant pinigus į notaro, banko ar
+kitos kredito įstaigos depozitinę sąskaitą arba įskaitant priešpriešinius
+reikalavimus.
  
 6.52 straipsnis. Prievolės įvykdymo vieta 
 1. Prievolė turi
@@ -16576,9 +16597,9 @@ atlyginti. Kreditoriaus reikalavimu piniginė prievolė gali būti įvykdyta ir
 kitoje valstybės, kurioje yra kreditoriaus gyvenamoji ar verslo vieta mokėjimo
 metu, ar valstybės, kurioje buvo kreditoriaus gyvenamoji vieta prievolės
 atsiradimo momentu, teritorijoje. Tačiau jeigu toks kreditoriaus reikalavimas
-iš esmės pasunkintų skolininko padėtį, skolininkas gali atsisakyti tenkinti kreditoriaus
-reikalavimą ir įvykdyti prievolę kreditoriaus gyvenamojoje ar verslo vietoje
-prievolės atsiradimo momentu;
+iš esmės pasunkintų skolininko padėtį, skolininkas gali atsisakyti tenkinti
+kreditoriaus reikalavimą ir įvykdyti prievolę kreditoriaus gyvenamojoje ar
+verslo vietoje prievolės atsiradimo momentu;
 5) visos kitos
 prievolės – skolininko gyvenamojoje ar verslo vietoje prievolės įvykdymo
 termino suėjimo momentu.
@@ -16587,9 +16608,9 @@ termino suėjimo momentu.
 1. Jeigu
 prievolės įvykdymo terminas nenustatytas arba apibrėžtas reikalavimo ją
 įvykdyti momentu, tai kreditorius turi teisę bet kada pareikalauti ją įvykdyti,
-o skolininkas turi teisę bet kada ją įvykdyti. Tačiau jeigu prievolės prigimtis,
-jos įvykdymo būdas ar įvykdymo vieta reikalauja tam tikro termino, tokios
-prievolės įvykdymo terminą gali nustatyti teismas vienos iš šalių reikalavimu.
+o skolininkas turi teisę bet kada ją įvykdyti. Tačiau jeigu prievolės
+prigimtis, jos įvykdymo būdas ar įvykdymo vieta reikalauja tam tikro termino,
+tokios prievolės įvykdymo terminą gali nustatyti teismas vienos iš šalių reikalavimu.
 2. Prievolę,
 kurios įvykdymo terminas neapibrėžtas, skolininkas privalo įvykdyti per
 septynias dienas nuo tos dienos, kurią kreditorius pareikalavo prievolę
@@ -16643,9 +16664,9 @@ produkciją ar teikti paslaugas, kiek tai neprieštarauja prievolės esmei.
  
 6.56 straipsnis. Prievolės įvykdymas sumokant skolą
 į depozitinę sąskaitą
-1. Skolininkas turi
-teisę įvykdyti piniginę prievolę sumokėdamas skolą į notaro, banko ar kitos
-kredito įstaigos depozitinę sąskaitą, jeigu:
+1. Skolininkas
+turi teisę įvykdyti piniginę prievolę sumokėdamas skolą į notaro, banko ar
+kitos kredito įstaigos depozitinę sąskaitą, jeigu:
 1) vietoje,
 kurioje turi būti įvykdyta prievolė, nėra kreditoriaus ar kito priimti
 prievolės įvykdymą įgalioto asmens;
@@ -16669,12 +16690,12 @@ terminą įvykdymui priimti. Jeigu per nustatytą terminą kreditorius prievolė
 įvykdymo nepriima, laikoma, kad jis pažeidė prievolę. Šiuo atveju skolininkas
 daiktą perduoda saugoti kreditoriaus sąskaita. Daikto atsitiktinio žuvimo ar
 sugedimo rizika tokiu atveju pereina kreditoriui. Jeigu daiktas yra greitai
-gendantis, skolininkas gali jį realizuoti, o gautą sumą įmokėti į depozitinę sąskaitą.
-Šios taisyklės taip pat taikomos, kai yra kitos šio straipsnio 1 dalyje
-nurodytos sąlygos, išskyrus pasiūlymą priimti įvykdymą.
-5. Prievolės
-įvykdymas pagal šio straipsnio taisykles atleidžia skolininką nuo palūkanų ar
-kitokių įmokų mokėjimo ateityje.
+gendantis, skolininkas gali jį realizuoti, o gautą sumą įmokėti į depozitinę
+sąskaitą. Šios taisyklės taip pat taikomos, kai yra kitos šio straipsnio 1
+dalyje nurodytos sąlygos, išskyrus pasiūlymą priimti įvykdymą.
+5. Prievolės įvykdymas
+pagal šio straipsnio taisykles atleidžia skolininką nuo palūkanų ar kitokių
+įmokų mokėjimo ateityje.
 6. Palūkanos ar
 kitos sumos, apskaičiuotos nuo pinigų sumokėjimo į depozitinę sąskaitą dienos,
 priklauso kreditoriui. Tačiau jeigu skolininkas tokiu būdu įvykdė prievolę
@@ -16685,10 +16706,9 @@ skolininkui.
 sąskaitą sumokėtas sumas skolininkas gali atsiimti tik iki tol, kol kreditorius
 nepriėmė įvykdymo. Jeigu skolininkas atsiima iš depozitinės sąskaitos įmoką,
 laikoma, kad jis neįvykdė prievolės. Jeigu pinigai į depozitinę sąskaitą
-įmokėti teismo proceso metu, skolininkas įmoką gali atsiimti tik teismui
-leidus. Be to, skolininkas neturi teisės atsiimti įmokų, jeigu tai pažeistų
-trečiųjų asmenų arba solidariąją pareigą turinčių skolininkų ar laiduotojų
-interesus.
+įmokėti teismo proceso metu, skolininkas įmoką gali atsiimti tik teismui leidus.
+Be to, skolininkas neturi teisės atsiimti įmokų, jeigu tai pažeistų trečiųjų
+asmenų arba solidariąją pareigą turinčių skolininkų ar laiduotojų interesus.
 8. Bankroto
 atveju depozitinėje sąskaitoje esančios piniginės lėšos neįtraukiamos į
 bankrutuojančio banko ar kitos kredito įstaigos turtą, iš kurio tenkinami
@@ -16704,8 +16724,8 @@ sutartis nenumato ko kita.
 sutartinės prievolės įvykdymas yra priešpriešinis, o prievolės šalis, kuri
 pirma turi atlikti veiksmus prievolei vykdyti, prievolės nevykdo arba yra
 aišku, jog nustatytu terminu jos neįvykdys, kita prievolės šalis turi teisę
-sustabdyti priešpriešinį savo prievolės vykdymą arba apskritai atsisakyti ją vykdyti,
-apie tai pranešti kitai šaliai ir pareikalauti atlyginti nuostolius.
+sustabdyti priešpriešinį savo prievolės vykdymą arba apskritai atsisakyti ją
+vykdyti, apie tai pranešti kitai šaliai ir pareikalauti atlyginti nuostolius.
 2. Prievolės šalis neturi
 teisės sustabdyti prievolės vykdymą, jeigu kita prievolės šalis:
 1) pateikė adekvatų savo
@@ -16726,7 +16746,8 @@ privalanti šalis, tai ši šalis privalo savo prievolę įvykdyti.
 sustabdyti dvišalės prievolės vykdymą baigiasi, kai kita prievolės šalis
 pateikia adekvatų savo prievolės įvykdymo užtikrinimą.
 6. Prievolės
-vykdymo sustabdymas gali būti panaudotas ir prieš kitos prievolės šalies kreditorius.
+vykdymo sustabdymas gali būti panaudotas ir prieš kitos prievolės šalies
+kreditorius.
 7. Teise
 sustabdyti prievolės vykdymą šalys privalo naudotis sąžiningai ir protingai.
  
@@ -16763,8 +16784,8 @@ neįvykdymo pasekmės
 skolininkas neįvykdo prievolės atlikti tam tikrą darbą, kreditorius turi teisę
 atlikti tą darbą skolininko sąskaita per protingą terminą ir už protingą kainą,
 jeigu ko kita nenumato įstatymai ar sutartis, arba reikalauti atlyginti
-nuostolius. Šiais atvejais kreditorius turi teisę kreiptis į teismą ir
-reikalauti, kad skolininkas avansu sumokėtų darbui atlikti reikalingas sumas.
+nuostolius. Šiais atvejais kreditorius turi teisę kreiptis į teismą ir reikalauti,
+kad skolininkas avansu sumokėtų darbui atlikti reikalingas sumas.
 2. Jeigu
 skolininkas neįvykdo prievolės atlikti tam tikrą darbą ar veiksmus, kuriuos
 atlikti gali tik jis pats, tai kreditoriaus reikalavimu teismas iš skolininko
@@ -16870,14 +16891,14 @@ kreditorius atsisako duoti pakvitavimą, grąžinti skolos dokumentą arba pažy
 pakvitavime, kad negali šio dokumento grąžinti, tai skolininkas turi teisę
 sustabdyti prievolės vykdymą, iki jam bus išduotas dokumentas, patvirtinantis
 prievolės įvykdymą.
-4. Jeigu skolininkas
-turėjo nuosekliai vykdyti vieną po kito kelis veiksmus ir išduotas pakvitavimas
-apie dviejų paskutinių veiksmų įvykdymą, preziumuojama, kad įvykdyti ir
-ankstesni veiksmai, išskyrus atvejus, kai sutartyje ar pakvitavime numatyta kas
-kita.
-5. Jeigu kreditorius
-išdavė pakvitavimą apie pagrindinės sumos sumokėjimą, preziumuojama, kad
-skolininkas sumokėjo palūkanas ir kitokias išlaidas.
+4. Jeigu
+skolininkas turėjo nuosekliai vykdyti vieną po kito kelis veiksmus ir išduotas
+pakvitavimas apie dviejų paskutinių veiksmų įvykdymą, preziumuojama, kad
+įvykdyti ir ankstesni veiksmai, išskyrus atvejus, kai sutartyje ar pakvitavime
+numatyta kas kita.
+5. Jeigu
+kreditorius išdavė pakvitavimą apie pagrindinės sumos sumokėjimą,
+preziumuojama, kad skolininkas sumokėjo palūkanas ir kitokias išlaidas.
  
 IV skyrius
 KREDITORIAUS
@@ -16905,8 +16926,8 @@ senaties terminą. Šis terminas pradedamas skaičiuoti nuo tos dienos, kurią
 kreditorius sužinojo arba turėjo sužinoti apie jo teises pažeidžiantį sandorį.
 4. Sandorio
 pripažinimas negaliojančiu sukelia teisines pasekmes tik ieškinį dėl sandorio
-pripažinimo negaliojančiu pareiškusiam kreditoriui ir tik tiek, kiek būtina kreditoriaus
-teisių pažeidimui pašalinti.
+pripažinimo negaliojančiu pareiškusiam kreditoriui ir tik tiek, kiek būtina
+kreditoriaus teisių pažeidimui pašalinti.
 5. Sandorio
 pripažinimas negaliojančiu neturi įtakos sąžiningų trečiųjų asmenų teisėms į
 turtą, kuris buvo pripažinto negaliojančiu sandorio objektas.
@@ -16932,8 +16953,8 @@ tėvas (motina) ar kitas artimasis giminaitis;
 kurį pagal tą sandorį turėjo atlikti skolininkas, vertė žymiai viršija kitos
 sandorio šalies pateiktą įvykdymą (priešpriešinių įsipareigojimų
 disproporcija);
-5) sandoris sudarytas
-dėl skolos, kurios mokėjimo terminas dar nebuvo suėjęs, mokėjimo;
+5) sandoris
+sudarytas dėl skolos, kurios mokėjimo terminas dar nebuvo suėjęs, mokėjimo;
 6) skolininkas –
 juridinis asmuo sudarė sandorį su fiziniu asmeniu, kuris pats arba jo
 sutuoktinis, vaikai, tėvai ar kiti artimieji giminaičiai, arba kartu su jais
@@ -17000,8 +17021,8 @@ Netesybos
 6.71 straipsnis. Netesybų samprata
 1. Netesybos –
 tai įstatymų, sutarties ar teismo nustatyta pinigų suma, kurią skolininkas
-privalo sumokėti kreditoriui, jeigu prievolė neįvykdyta arba netinkamai
-įvykdyta (bauda, delspinigiai).
+privalo sumokėti kreditoriui, jeigu prievolė neįvykdyta arba netinkamai įvykdyta
+(bauda, delspinigiai).
 2. Netesybos
 gali būti nurodytos konkrečia pinigų suma arba užtikrinamosios prievolės sumos
 procentu.
@@ -17071,8 +17092,8 @@ pakankamai turto prievolei įvykdyti turintį asmenį.
 pateikti laidavimą įstatymų ar teismo sprendimo pagrindu, vietoj laidavimo jis
 turi teisę pateikti kitą adekvatų prievolės įvykdymo užtikrinimo būdą.
 6. Ginčus dėl to, ar
-pakanka laiduotojo turto ir ar prievolės įvykdymo užtikrinimo būdas adekvatus, sprendžia
-teismas.
+pakanka laiduotojo turto ir ar prievolės įvykdymo užtikrinimo būdas adekvatus,
+sprendžia teismas.
  
 6.78 straipsnis. Laidavimu užtikrinamos prievolės
 1. Laidavimu
@@ -17140,23 +17161,22 @@ laiduotojui.
  
 6.83 straipsnis. Įvykdžiusio prievolę laiduotojo
 teisės
-1.
-Įvykdžiusiam prievolę laiduotojui pereina visos kreditoriaus teisės pagal šią
-prievolę.
-2. Jeigu laidavimas
-atsirado skolininko prašymu ar sutikimu, tai prievolę įvykdęs laiduotojas turi
-teisę papildomai reikalauti iš pagrindinio skolininko atlyginti visus su
-laidavimu susijusius nuostolius, taip pat reikalauti palūkanų už kreditoriui
-sumokėtą sumą, nors pagrindinė prievolė palūkanų ir nenumato. Jeigu laidavimas
-atsirado be skolininko žinios, laiduotojas turi teisę reikalauti tik to, ką
-skolininkas būtų privalėjęs sumokėti be laidavimo, įskaitant nuostolius.
+1. Įvykdžiusiam
+prievolę laiduotojui pereina visos kreditoriaus teisės pagal šią prievolę.
+2. Jeigu
+laidavimas atsirado skolininko prašymu ar sutikimu, tai prievolę įvykdęs
+laiduotojas turi teisę papildomai reikalauti iš pagrindinio skolininko
+atlyginti visus su laidavimu susijusius nuostolius, taip pat reikalauti
+palūkanų už kreditoriui sumokėtą sumą, nors pagrindinė prievolė palūkanų ir
+nenumato. Jeigu laidavimas atsirado be skolininko žinios, laiduotojas turi
+teisę reikalauti tik to, ką skolininkas būtų privalėjęs sumokėti be laidavimo,
+įskaitant nuostolius.
 3. Kiekvienas iš
 kelių laiduotojų turi teisę atgręžtinio reikalavimo būdu reikalauti iš
 skolininko savo sumokėtos sumos.
 4. Kai
-laiduotojas įvykdo prievolę, kreditorius privalo perduoti jam reikalavimą
-skolininkui patvirtinančius dokumentus, taip pat šį reikalavimą užtikrinančias
-teises.
+laiduotojas įvykdo prievolę, kreditorius privalo perduoti jam reikalavimą skolininkui
+patvirtinančius dokumentus, taip pat šį reikalavimą užtikrinančias teises.
 5. Jeigu įvykdęs
 prievolę laiduotojas nepraneša apie tai pagrindiniam skolininkui ir šis,
 nežinodamas apie prievolės įvykdymą, ją įvykdo pakartotinai, tai laiduotojas
@@ -17196,8 +17216,8 @@ teisėmis, kurių atsisakė.
 baigiasi tuo pačiu metu kaip ir juo užtikrinama prievolė.
 2. Laidavimas
 taip pat baigiasi, kai laiduotojas miršta.
-3. Kai skolininkas
-ir laiduotojas sutampa, laidavimas lieka galioti, jeigu kreditorius
+3. Kai
+skolininkas ir laiduotojas sutampa, laidavimas lieka galioti, jeigu kreditorius
 suinteresuotas, kad laidavimas išliktų.
 4. Laidavimas
 baigiasi, jeigu iš esmės pasikeičia prievolė ir dėl to be laiduotojo sutikimo
@@ -17272,8 +17292,8 @@ jo pridėti dokumentai neatitinka garantijos sąlygų arba pateikti pasibaigus
 garantijos terminui. Apie atsisakymą tenkinti reikalavimą garantas nedelsdamas
 turi pranešti kreditoriui.
 5. Jeigu
-garantas sužino, kad garantija užtikrinta pagrindinė prievolė įvykdyta ar
-pasibaigė kitais pagrindais arba pripažinta negaliojančia, apie tai jis privalo
+garantas sužino, kad garantija užtikrinta pagrindinė prievolė įvykdyta ar pasibaigė
+kitais pagrindais arba pripažinta negaliojančia, apie tai jis privalo
 nedelsdamas pranešti kreditoriui ir skolininkui. Po tokio pranešimo gavęs
 pakartotinį kreditoriaus reikalavimą įvykdyti prievolę, garantas reikalavimą
 turi patenkinti tik tuo atveju, kai kreditorius pateikia įrodymus, kad prievolė
@@ -17381,16 +17401,16 @@ numato įstatymai;
 skolininko laiduotojas arba įkaito davėjas, kurie nėra užtikrintos prievolės
 šalys, prievolę įvykdo už skolininką;
 4) kai regreso
-tvarka draudimo įmonei pereina kreditoriaus teisės, susijusios su skolininku, atsakingu
-už draudiminį įvykį;
+tvarka draudimo įmonei pereina kreditoriaus teisės, susijusios su skolininku,
+atsakingu už draudiminį įvykį;
 5) kitais
 įstatymų nustatytais atvejais.
 5. Be skolininko
 sutikimo kreditoriui draudžiama perleisti reikalavimą, jeigu kreditoriaus asmuo
 skolininkui turi esminės reikšmės.
  
-6.102 straipsnis. Atvejai, kuriais draudžiama perleisti
-reikalavimą
+6.102 straipsnis. Atvejai, kuriais draudžiama
+perleisti reikalavimą
 1. Draudžiama
 perleisti tokį reikalavimą, kurio atžvilgiu negalimas išieškojimas.
 2. Draudžiama
@@ -17398,8 +17418,8 @@ perleisti reikalavimą teisėjui, prokurorui ar advokatui, kurie dėl šio
 reikalavimo iškeltoje byloje atlieka savo tarnybines pareigas.
 3. Draudžiama
 perleisti reikalavimą, kuris neatsiejamai susijęs su kreditoriaus asmeniu
-(reikalavimą išlaikyti, reikalavimą atlyginti žalą, padarytą dėl sveikatos
-sužalojimo ar gyvybės atėmimo ir t. t.).
+(reikalavimą išlaikyti, reikalavimą atlyginti žalą, padarytą dėl sveikatos sužalojimo
+ar gyvybės atėmimo ir t. t.).
  
 6.103 straipsnis. Sutarties forma
 Reikalavimo
@@ -17418,9 +17438,9 @@ reikalavimas, kurio įvykdymas užtikrintas įkeitimu (hipoteka), tai tokio
 reikalavimo perleidimas turi būti pažymimas hipotekos registre. Šiuo atveju
 pradinis kreditorius su naujuoju kreditoriumi privalo imtis priemonių, kad būtų
 padaryti atitinkami įrašai hipotekos registre.
-3. Kai perleidžiamos
-visos reikalavimo teisės, pradinis kreditorius privalo perduoti turimą įkeistą
-turtą naujajam kreditoriui.
+3. Kai
+perleidžiamos visos reikalavimo teisės, pradinis kreditorius privalo perduoti
+turimą įkeistą turtą naujajam kreditoriui.
 4. Visas
 išlaidas, susijusias su šio straipsnio 1 ir 2 dalyse numatytų dokumentų
 įforminimu ir perdavimu, apmoka naujasis kreditorius, jeigu sutartis nenumato
@@ -17519,8 +17539,8 @@ kreditorius pranešė skolininkui apie reikalavimo perleidimą, jis nebeturi
 teisės skolininkui ginčyti perleidimo, nors reikalavimas iš tikrųjų nebūtų
 perleistas ar perleidimas būtų pripažintas negaliojančiu.
 5. Pranešimu
-apie reikalavimo perleidimą laikomas sutarties dėl reikalavimo perleidimo
-perdavimas naujajam kreditoriui ir šios sutarties pateikimas skolininkui.
+apie reikalavimo perleidimą laikomas sutarties dėl reikalavimo perleidimo perdavimas
+naujajam kreditoriui ir šios sutarties pateikimas skolininkui.
 6. Pranešimas
 apie reikalavimo perleidimą gali būti atšauktas tik tuo atveju, kai naujasis
 kreditorius sutinka.
@@ -17666,9 +17686,9 @@ skolininkas nekaltas.
  
 6.122 straipsnis. Turto arba juridinio asmens
 perėmimas
-1. Asmuo, perėmęs
-turtą arba įmonę su aktyvais ir pasyvais, prisiima su turtu ar įmone susijusias
-teises bei prievoles.
+1. Asmuo,
+perėmęs turtą arba įmonę su aktyvais ir pasyvais, prisiima su turtu ar įmone
+susijusias teises bei prievoles.
 2. Prievolių
 perėmimas juridinio asmens reorganizavimo atvejais nustatomas pagal šio kodekso
 antrosios knygos normas.
@@ -17683,9 +17703,9 @@ Bendrieji prievolių pabaigoS pagrindai
 1. Prievolė
 pasibaigia, kai tinkamai įvykdoma. Prievolė taip pat baigiasi, kai kreditorius
 vietoj reikiamo įvykdymo priima kitos rūšies įvykdymą.
-2. Kai kreditorius
-priėmė įvykdymą, pareiga įrodinėti, kad prievolė neįvykdyta ar įvykdyta
-netinkamai, tenka kreditoriui.
+2. Kai
+kreditorius priėmė įvykdymą, pareiga įrodinėti, kad prievolė neįvykdyta ar
+įvykdyta netinkamai, tenka kreditoriui.
 3. Kai prievolė
 baigiasi tinkamu įvykdymu, baigiasi ir visos iš šios prievolės atsiradusios
 papildomos teisės ir pareigos.
@@ -17774,19 +17794,20 @@ atlygintinis arba neatlygintinis.
 3. Atleidžiama
 nuo visos prievolės vykdymo, išskyrus atvejus, kai kreditorius aiškiai nurodo,
 kad atleidžia tik nuo prievolės dalies vykdymo.
-4. Preziumuojama, kad kreditorius
-atleidžia skolininką nuo prievolės įvykdymo, jeigu kreditorius savanoriškai
-grąžina skolininkui skolos dokumentą ir nėra kitokių aplinkybių, leidžiančių
-daryti išvadą, kad skolos dokumentas buvo grąžintas skolininkui, kai šis įvykdė
-prievolę.
+4. Preziumuojama, kad
+kreditorius atleidžia skolininką nuo prievolės įvykdymo, jeigu kreditorius
+savanoriškai grąžina skolininkui skolos dokumentą ir nėra kitokių aplinkybių,
+leidžiančių daryti išvadą, kad skolos dokumentas buvo grąžintas skolininkui,
+kai šis įvykdė prievolę.
 5. Skolininkui adresuotas
 kreditoriaus pasiūlymas atleisti jį nuo prievolės vykdymo už atlyginimą
 pripažįstamas priimtu, jeigu jį gavęs skolininkas nedelsdamas neatmetė.
 6. Kai prievolė
-solidarioji, vieno iš skolininkų atleidimas nuo prievolės įvykdymo kitus bendraskolius
-atleidžia tik nuo jo dalies vykdymo. Vieno iš solidariąją reikalavimo teisę
-turinčių kreditorių pareikštas skolininko atleidimas nuo prievolės įvykdymo
-atleidžia skolininką tik nuo to kreditoriaus reikalavimo dalies vykdymo.
+solidarioji, vieno iš skolininkų atleidimas nuo prievolės įvykdymo kitus
+bendraskolius atleidžia tik nuo jo dalies vykdymo. Vieno iš solidariąją
+reikalavimo teisę turinčių kreditorių pareikštas skolininko atleidimas nuo
+prievolės įvykdymo atleidžia skolininką tik nuo to kreditoriaus reikalavimo
+dalies vykdymo.
 7. Kreditoriaus pareikštas
 įkeitimo (hipotekos) ar kitokio prievolės įvykdymo užtikrinimo atsisakymas nėra
 pagrindas pripažinti, kad kreditorius atleido skolininką nuo pagrindinės
@@ -17963,8 +17984,8 @@ sandorį, iš kurio atsirado jo prievolė.
 pagrindinio skolininko novacija, skolininko laiduotojas atleidžiamas nuo
 prievolės vykdymo.
 3. Šio straipsnio 2 dalyje
-numatytu pagrindu prievolė nesibaigia, jeigu kreditorius reikalauja, kad novacijoje
-dalyvautų laiduotojas, o šis atsisako.
+numatytu pagrindu prievolė nesibaigia, jeigu kreditorius reikalauja, kad
+novacijoje dalyvautų laiduotojas, o šis atsisako.
  
 X
 skyrius
@@ -18080,8 +18101,8 @@ taisyklių.
  
 6.155 straipsnis. Taikymo ribos
 1. Šiame
-skyriuje įtvirtintos sutarčių teisės bendrosios normos taikomos visoms
-sutartims, atsižvelgiant į sutarčių prigimtį.
+skyriuje įtvirtintos sutarčių teisės bendrosios normos taikomos visoms sutartims,
+atsižvelgiant į sutarčių prigimtį.
 2. Atskirų rūšių
 sutarčių specialiosios normos gali būti nustatytos ir kituose įstatymuose.
  
@@ -18159,8 +18180,8 @@ paslaugas teikiantis ar prekes parduodantis juridinis asmuo (verslininkas)
 privalo sudaryti sutartį su bet kuriuo asmeniu, kai šis kreipiasi, išskyrus
 įstatymų nustatyta tvarka patvirtintas išimtis.
 3. Sudarydamas
-viešąsias sutartis, juridinis asmuo (verslininkas) neturi teisės kam nors suteikti
-privilegijų, išskyrus įstatymų nustatytus atvejus.
+viešąsias sutartis, juridinis asmuo (verslininkas) neturi teisės kam nors
+suteikti privilegijų, išskyrus įstatymų nustatytus atvejus.
 4. Viešosiose
 sutartyse nustatomos prekių ir paslaugų kainos bei kitos sąlygos turi būti
 vienodos visiems tos pačios kategorijos vartotojams, išskyrus įstatymų
@@ -18246,7 +18267,8 @@ kaltės jam nebuvo įmanoma gauti tokį pranešimą.
 sudaryti sutartį laikomas oferta, jeigu jis pakankamai apibūdintas ir išreiškia
 oferento ketinimą būti sutarties saistomam ir įsipareigojančiam akcepto atveju.
 2. Oferta gali
-būti adresuota konkrečiam asmeniui arba nenustatytam asmenų skaičiui (viešoji oferta).
+būti adresuota konkrečiam asmeniui arba nenustatytam asmenų skaičiui (viešoji
+oferta).
  
 6.168 straipsnis. Ofertos galiojimas
 1. Oferta
@@ -18277,8 +18299,8 @@ negauna atsakymo.
 6.171 straipsnis. Viešoji oferta
 1. Viešąja
 oferta laikomas visiems skirtas pasiūlymas sudaryti sutartį, taip pat prekių
-pažymėtomis kainomis išdėstymas parduotuvės vitrinoje ar lentynoje arba atlyginimo
-pažadėjimas už tam tikrų veiksmų atlikimą.
+pažymėtomis kainomis išdėstymas parduotuvės vitrinoje ar lentynoje arba
+atlyginimo pažadėjimas už tam tikrų veiksmų atlikimą.
 2. Viešoji
 oferta, atšaukta tokia pat forma, kaip buvo pareikšta, tampa negaliojanti, nors
 apie jos atšaukimą sužinojo ne visi asmenys, kuriems oferta buvo žinoma.
@@ -18299,16 +18321,15 @@ pareiškimas arba kitoks jo elgesys, kuriuo pareiškiamas ofertos priėmimas,
 laikomas akceptu. Tylėjimas arba neveikimas savaime nelaikomas akceptu.
 2. Akceptas
 sukelia teisines pasekmes nuo to momento, kai jį gauna oferentas.
-3. Jeigu
-ofertoje numatyta galimybė ją akceptuoti nepranešant apie tai oferentui
-(tylėjimu ar konkliudentiniais veiksmais) arba tokia išvada darytina
-atsižvelgiant į egzistuojančius šalių santykius arba papročius, tai akceptas
-sukelia teisines pasekmes nuo atitinkamų akceptanto valią reiškiančių veiksmų
-atlikimo.
+3. Jeigu ofertoje
+numatyta galimybė ją akceptuoti nepranešant apie tai oferentui (tylėjimu ar
+konkliudentiniais veiksmais) arba tokia išvada darytina atsižvelgiant į
+egzistuojančius šalių santykius arba papročius, tai akceptas sukelia teisines
+pasekmes nuo atitinkamų akceptanto valią reiškiančių veiksmų atlikimo.
  
 6.174 straipsnis. Akceptavimo terminas
-1. Oferta turi būti
-akceptuojama per oferento nurodytą terminą, o kai jis nenurodytas, – per
+1. Oferta turi
+būti akceptuojama per oferento nurodytą terminą, o kai jis nenurodytas, – per
 protingą terminą, atsižvelgiant į konkrečias aplinkybes, tarp jų – ir į šalių
 naudojamų ryšio priemonių galimybes.
 2. Žodinė oferta
@@ -18381,8 +18402,8 @@ ar sutartyje nenumatyta ko kita.
 3. Jeigu derybų
 metu viena iš šalių pareiškia, kad sutarties ji nelaikys sudaryta tol, kol
 nebus susitarta dėl tam tikrų sąlygų, arba tol, kol susitarimas nebus
-atitinkamai įformintas, sutartis laikoma nesudaryta tol, kol šalys dėl tų sąlygų
-nesusitaria arba savo susitarimo atitinkamai neįformina.
+atitinkamai įformintas, sutartis laikoma nesudaryta tol, kol šalys dėl tų
+sąlygų nesusitaria arba savo susitarimo atitinkamai neįformina.
 4. Jeigu pagal
 įstatymus sutartis turi būti tam tikros formos, ji laikoma sudaryta nuo to
 momento, kai šalių susitarimas pareikštas įstatymų reikalaujama forma.
@@ -18406,9 +18427,9 @@ kitų priemonių ar būdų joms nustatyti.
 sutartis, kurioje yra išlyga, kad sutartį pakeisti ar papildyti arba ją
 nutraukti galima tik raštu, negali būti pakeista, papildyta ar nutraukta
 kitokiu būdu.
-2. Viena sutarties
-šalis dėl savo elgesio gali prarasti teisę remtis šio straipsnio 1 dalyje
-numatyta sutarties išlyga, jeigu kita sutarties šalis atitinkamai veikė,
+2. Viena
+sutarties šalis dėl savo elgesio gali prarasti teisę remtis šio straipsnio 1
+dalyje numatyta sutarties išlyga, jeigu kita sutarties šalis atitinkamai veikė,
 remdamasi pirmosios elgesiu.
 3. Notarinės
 formos sutartis gali būti nutraukta, pakeista ar papildyta tik notarine forma.
@@ -18454,8 +18475,8 @@ standartines sąlygas parengusi šalis įteikia jas kitai šaliai raštu iki
 sutarties pasirašymo ar ją pasirašant;
 2) iki sutarties
 pasirašymo praneša kitai šaliai, kad sutartis bus sudaroma pagal sutarties
-standartines sąlygas, su kuriomis kita šalis gali susipažinti standartines
-sutarties sąlygas parengusios šalies nurodytoje vietoje;
+standartines sąlygas, su kuriomis kita šalis gali susipažinti standartines sutarties
+sąlygas parengusios šalies nurodytoje vietoje;
 3) pasiūlo kitai
 šaliai, jei ši pageidautų, atsiųsti tų sąlygų kopiją.
  
@@ -18463,19 +18484,19 @@ sutarties sąlygas parengusios šalies nurodytoje vietoje;
 standartinės sąlygos
 1. Negalioja
 netikėtos (siurprizinės) sutarčių standartinės sąlygos, t. y. tokios, kurių
-kita šalis negalėjo protingai tikėtis būsiant sutartyje. Netikėtomis (siurprizinėmis)
-nelaikomos sutarties sąlygos, su kuriomis šalis aiškiai sutiko, kai jos tai
-šaliai buvo tinkamai atskleistos.
+kita šalis negalėjo protingai tikėtis būsiant sutartyje. Netikėtomis
+(siurprizinėmis) nelaikomos sutarties sąlygos, su kuriomis šalis aiškiai
+sutiko, kai jos tai šaliai buvo tinkamai atskleistos.
 2. Sprendžiant,
 ar sąlyga yra netikėta (siurprizinė) ar ne, reikia atsižvelgti į jos turinį,
 formuluotę bei išraiškos būdą.
 3. Pagal kitos
 šalies pasiūlytas standartines sąlygas sudariusi sutartį prisijungimo būdu
-šalis turi teisę reikalauti ją nutraukti ar pakeisti, jeigu sutarties
-standartinės sąlygos nors ir neprieštarauja įstatymams, tačiau atima iš jos
-paprastai tokios rūšies sutarčių suteikiamas teises ar galimybes, panaikina ar
-apriboja sutarties standartines sąlygas parengusios šalies civilinę atsakomybę
-arba nustato sutarties šalių lygybės bei jų interesų pusiausvyros principus
+šalis turi teisę reikalauti ją nutraukti ar pakeisti, jeigu sutarties standartinės
+sąlygos nors ir neprieštarauja įstatymams, tačiau atima iš jos paprastai tokios
+rūšies sutarčių suteikiamas teises ar galimybes, panaikina ar apriboja
+sutarties standartines sąlygas parengusios šalies civilinę atsakomybę arba
+nustato sutarties šalių lygybės bei jų interesų pusiausvyros principus
 pažeidžiančias sąlygas, arba prieštarauja protingumo, sąžiningumo ar teisingumo
 kriterijams.
  
@@ -18518,18 +18539,18 @@ netinkamą įvykdymą;
 teisę pardavėjui ar paslaugų teikėjui vienašališkai nutraukti sutartį ar bet
 kada savo nuožiūra jos atsisakyti, o ši teisė vartotojui nesuteikiama arba
 pardavėjui ar paslaugų teikėjui suteikiama teisė negrąžinti iš vartotojo iki
-sutarties įvykdymo gautų sumų, kai pardavėjas ar paslaugų teikėjas vienašališkai
-nutraukia sutartį ar nuo jos atsisako;
+sutarties įvykdymo gautų sumų, kai pardavėjas ar paslaugų teikėjas
+vienašališkai nutraukia sutartį ar nuo jos atsisako;
 7) suteikia
 pardavėjui ar paslaugų teikėjui teisę be pakankamo pagrindo vienašališkai
 nutraukti neterminuotą sutartį apie numatomą sutarties nutraukimą iš anksto
 tinkamai neįspėjus vartotojo;
-8) suteikia pardavėjui
-ar paslaugų teikėjui teisę vienašališkai automatiškai pratęsti terminuotą
-sutartį arba numato, kad laikas, per kurį vartotojas turi pareikšti savo
-nuomonę dėl sutarties pratęsimo, yra neprotingai trumpas, arba kad apie savo
-sutikimą ar nesutikimą pratęsti sutartį vartotojas turi pranešti neprotingai
-anksti;
+8) suteikia
+pardavėjui ar paslaugų teikėjui teisę vienašališkai automatiškai pratęsti
+terminuotą sutartį arba numato, kad laikas, per kurį vartotojas turi pareikšti
+savo nuomonę dėl sutarties pratęsimo, yra neprotingai trumpas, arba kad apie
+savo sutikimą ar nesutikimą pratęsti sutartį vartotojas turi pranešti
+neprotingai anksti;
 9) įpareigoja
 vartotoją vykdyti sutarties sąlygas, su kuriomis jis neturėjo realios galimybės
 susipažinti iki sutarties sudarymo, be teisės jų atsisakyti;
@@ -18560,10 +18581,10 @@ pardavėjo ar paslaugų teikėjo pareigą vykdyti jų atstovų prisiimtus
 16) įpareigoja
 vartotoją įvykdyti visus įsipareigojimus pardavėjui ar paslaugų teikėjui net ir
 tuo atveju, kai šie neįvykdo savųjų arba nevisiškai juos įvykdo;
-17) suteikia
-teisę pardavėjui ar paslaugų teikėjui be vartotojo sutikimo perleisti savo
-teises ir prievoles, atsirandančias iš sutarties, kai tai gali sumažinti
-vartotojui teikiamas garantijas;
+17) suteikia teisę
+pardavėjui ar paslaugų teikėjui be vartotojo sutikimo perleisti savo teises ir
+prievoles, atsirandančias iš sutarties, kai tai gali sumažinti vartotojui
+teikiamas garantijas;
 18) panaikina
 arba suvaržo vartotojo teisę pareikšti ieškinį ar pasinaudoti kitais pažeistų
 teisių gynimo būdais (reikalauja perduoti spręsti ginčus tik arbitražui,
@@ -18579,9 +18600,9 @@ anksto parengtoje standartinėje sutartyje tam tikros sąlygos buvo aptartos
 individualiai, šio straipsnio taisyklės taikomos kitoms tokios sutarties
 sąlygoms. Pareiga įrodyti, kad tam tikra sutarties sąlyga buvo aptarta
 individualiai, tenka pardavėjui ar paslaugų teikėjui.
-5. Ar sutarties sąlyga nesąžininga,
-turi būti vertinama atsižvelgiant į sutartyje numatytų prekių ar paslaugų
-prigimtį bei visas sutarties sudarymo metu buvusias ir jos sudarymui turėjusias
+5. Ar sutarties sąlyga
+nesąžininga, turi būti vertinama atsižvelgiant į sutartyje numatytų prekių ar
+paslaugų prigimtį bei visas sutarties sudarymo metu buvusias ir jos sudarymui turėjusias
 įtakos aplinkybes ir visas kitas tos sutarties ar kitos sutarties, nuo kurios
 ji priklauso, sąlygas. Sutarties dalyką apibūdinančios sąlygos, taip pat su
 parduotos prekės ar suteiktos paslaugos ir jų kainos atitikimu susijusios
@@ -18653,8 +18674,8 @@ trečiasis asmuo atsisakė jam sutarties suteiktos teisės, tai šia teise
 pasinaudoti gali sudaręs sutartį asmuo, išskyrus atvejus, kada tai prieštarauja
 įstatymams, sutarčiai ar prievolės esmei.
 3. Trečiojo
-asmens naudai padariusi išlygą sutarties šalis gali atšaukti trečiojo asmens
-teisę iki to momento, kol šis asmuo pareiškia šią teisę priimąs.
+asmens naudai padariusi išlygą sutarties šalis gali atšaukti trečiojo asmens teisę
+iki to momento, kol šis asmuo pareiškia šią teisę priimąs.
 4. Jeigu
 prievolė turi būti įvykdyta trečiajam asmeniui tik po padariusios išlygą
 sutarties šalies mirties, tai ši šalis trečiojo asmens teisę gali panaikinti
@@ -18665,8 +18686,8 @@ atsikirtimus, kokius ji galėtų reikšti išlygą padariusiai šaliai.
  
 6.192 straipsnis. Sutarties forma
 1. Sutarties
-formai yra taikomos šio kodekso 1.71–1.77 straipsnių taisyklės,
-reglamentuojančios sandorių formą.
+formai yra taikomos šio kodekso 1.71–1.77 straipsnių taisyklės, reglamentuojančios
+sandorių formą.
 2. Kai pagal
 įstatymus ar šalių susitarimą sutartis turi būti paprastos rašytinės formos, ji
 gali būti sudaroma tiek surašant vieną šalių pasirašomą dokumentą, tiek ir
@@ -18676,9 +18697,9 @@ yra užtikrinta teksto apsauga ir galima identifikuoti jį siuntusios šalies
 parašą.
 3. Sutartis gali
 būti sudaroma priimant vykdyti užsakymą.
-4. Sutarties
-pakeitimas arba papildymas turi būti tokios pat formos, kokios turėjo būti
-sudaryta sutartis, išskyrus įstatymų ar sutarties nustatytus atvejus.
+4. Sutarties pakeitimas
+arba papildymas turi būti tokios pat formos, kokios turėjo būti sudaryta
+sutartis, išskyrus įstatymų ar sutarties nustatytus atvejus.
 5. Jeigu šalys
 susitarė dėl sudaromos sutarties formos, sutartis laikoma sudaryta tik tuo
 atveju, kai yra sutartos formos, nors pagal įstatymus tai sutarčių rūšiai tokia
@@ -18705,8 +18726,9 @@ priskiriama priimtiniausia, atsižvelgiant į tos sutarties prigimtį, esmę bei
 jos dalyką, reikšmė.
 4. Kai abejojama
 dėl sutarties sąlygų, jos aiškinamos tas sąlygas pasiūliusios šalies nenaudai
-ir jas priėmusios šalies naudai. Visais atvejais sutarties sąlygos turi būti aiškinamos
-vartotojų naudai ir sutartį prisijungimo būdu sudariusios šalies naudai.
+ir jas priėmusios šalies naudai. Visais atvejais sutarties sąlygos turi būti
+aiškinamos vartotojų naudai ir sutartį prisijungimo būdu sudariusios šalies
+naudai.
 5. Aiškinant
 sutartį, taip pat turi būti atsižvelgiama į šalių derybas dėl sutarties
 sudarymo, šalių tarpusavio santykių praktiką, šalių elgesį po sutarties
@@ -18740,8 +18762,7 @@ santykių pobūdį, sąžiningumo, protingumo ir teisingumo kriterijus.
 6.197 straipsnis. Sutarties dalyko kokybė
 Jeigu sutarties
 dalyko kokybė nei sutartyje, nei įstatymuose nenustatyta, tai ji turi atitikti
-protingą ir ne žemesnę už vidutinę kokybę, atsižvelgiant į konkrečias
-aplinkybes.
+protingą ir ne žemesnę už vidutinę kokybę, atsižvelgiant į konkrečias aplinkybes.
  
 6.198 straipsnis. Sutarties kaina
 1. Kai kaina ar
@@ -18793,9 +18814,9 @@ arba nelemia jos prigimtis ar aplinkybės.
 straipsnis. Valstybės institucijos leidimas
 1. Jeigu tam
 tikri įstatymai nustato, kad būtinas atitinkamos valstybės institucijos
-leidimas, turintis reikšmės sutarties galiojimui ar jos vykdymui, ir
-įstatymuose ar sutartyje nenumatyta ko kita, tai tokį leidimą privalo gauti
-valstybėje, kurios įstatymai nustato tokį reikalavimą, esanti sutarties šalis.
+leidimas, turintis reikšmės sutarties galiojimui ar jos vykdymui, ir įstatymuose
+ar sutartyje nenumatyta ko kita, tai tokį leidimą privalo gauti valstybėje,
+kurios įstatymai nustato tokį reikalavimą, esanti sutarties šalis.
 2. Jeigu abi
 sutarties šalys yra Lietuvoje ir šio straipsnio 1 dalyje nurodytą reikalavimą
 nustato Lietuvos Respublikos įstatymai, tai leidimą privalo gauti šalis, kuriai
@@ -18845,8 +18866,8 @@ nukentėjusi šalis negali kontroliuoti;
 šalį prašydama sutartį pakeisti. Šis prašymas turi būti pagrįstas ir pareikštas
 tuoj pat po sutarties įvykdymo suvaržymo. Kreipimasis dėl sutarties pakeitimo
 savaime nesuteikia nukentėjusiai šaliai teisės sustabdyti sutarties vykdymą.
-Jeigu per protingą terminą šalys nesutaria dėl sutarties pakeitimo, tai abi turi
-teisę kreiptis į teismą. Teismas gali:
+Jeigu per protingą terminą šalys nesutaria dėl sutarties pakeitimo, tai abi
+turi teisę kreiptis į teismą. Teismas gali:
 1) nutraukti
 sutartį ir nustatyti sutarties nutraukimo datą bei sąlygas;
 2) pakeisti
@@ -18896,9 +18917,9 @@ trūkumų pašalinimą pateisina konkrečios aplinkybės.
 pareiškimas apie sutarties nutraukimą nepanaikina teisės pašalinti įvykdymo
 trūkumus.
 3. Tinkamą
-pranešimą apie pasiūlymą pašalinti įvykdymo trūkumus gavusi šalis negali įgyvendinti
-savo teisių, kurios nesuderinamos su sutarties vykdymu, tol, kol nepasibaigęs
-įvykdymo trūkumams pašalinti nustatytas terminas.
+pranešimą apie pasiūlymą pašalinti įvykdymo trūkumus gavusi šalis negali
+įgyvendinti savo teisių, kurios nesuderinamos su sutarties vykdymu, tol, kol
+nepasibaigęs įvykdymo trūkumams pašalinti nustatytas terminas.
 4. Šalis gali
 sustabdyti savo prievolių įvykdymą tol, kol kita šalis pašalina įvykdymo
 trūkumus, bei reikalauti atlyginti nuostolius.
@@ -18942,9 +18963,9 @@ sutartis nenustato kitokio palūkanų dydžio.
 6.211 straipsnis. Atsakomybę naikinančios sąlygos
 Sutarties
 sąlygos, kurios panaikina ar apriboja šalies atsakomybę už sutarties neįvykdymą
-arba leidžia ją įvykdyti tokiu būdu, kuris iš esmės skiriasi nuo to, kurio protingai
-tikėjosi kita šalis, negalioja, jeigu tokios sąlygos atsižvelgiant į sutarties
-prigimtį bei kitas aplinkybes yra nesąžiningos.
+arba leidžia ją įvykdyti tokiu būdu, kuris iš esmės skiriasi nuo to, kurio
+protingai tikėjosi kita šalis, negalioja, jeigu tokios sąlygos atsižvelgiant į
+sutarties prigimtį bei kitas aplinkybes yra nesąžiningos.
  
 6.212 straipsnis. Nenugalima jėga (force majeure)
 1. Šalis
@@ -18965,9 +18986,9 @@ nurodytos aplinkybės atsiradimą bei jos įtaką sutarties įvykdymui. Jeigu š
 pranešimo kita šalis negauna per protingą laiką po to, kai sutarties
 neįvykdžiusi šalis sužinojo ar turėjo sužinoti apie tą aplinkybę, tai pastaroji
 šalis privalo atlyginti dėl pranešimo negavimo atsiradusius nuostolius.
-4. Šio straipsnio
-nuostatos neatima iš kitos šalies teisės nutraukti sutartį arba sustabdyti jos
-įvykdymą, arba reikalauti sumokėti palūkanas.
+4. Šio
+straipsnio nuostatos neatima iš kitos šalies teisės nutraukti sutartį arba
+sustabdyti jos įvykdymą, arba reikalauti sumokėti palūkanas.
  
 6.213 straipsnis. Reikalavimas įvykdyti sutartį
 1. Jeigu šalis
@@ -19074,12 +19095,12 @@ aplinkybių ji gali numanyti, kad kita šalis pažeis sutartį iš esmės.
 1. Šalis, kuri
 atsižvelgdama į aplinkybes tikisi, kad kita šalis gali iš esmės pažeisti
 sutartį, turi teisę iš pastarosios šalies pareikalauti patvirtinti, kad ši
-sutartį įvykdys tinkamai. Šalis gali sustabdyti savo sutartinių prievolių
-vykdymą tol, kol kita sutarties šalis patvirtina, kad ji sutartį tikrai įvykdys
+sutartį įvykdys tinkamai. Šalis gali sustabdyti savo sutartinių prievolių vykdymą
+tol, kol kita sutarties šalis patvirtina, kad ji sutartį tikrai įvykdys
 tinkamai.
-2. Jeigu šio straipsnio
-1 dalyje nurodyto patvirtinimo šalis negauna per protingą terminą, ji gali
-sutartį nutraukti.
+2. Jeigu šio
+straipsnio 1 dalyje nurodyto patvirtinimo šalis negauna per protingą terminą,
+ji gali sutartį nutraukti.
  
 6.221 straipsnis. Sutarties nutraukimo teisinės
 pasekmės
@@ -19153,9 +19174,8 @@ sutarties sąlygų negaliojimas nedaro negaliojančios visos sutarties, išskyru
 atvejus, kuriais šalys be tos sąlygos nebūtų sudariusios sutarties.
 2. Daugiašalės
 sutarties atveju, kai du ar daugiau asmenų turi įvykdyti prievolę, sutarties
-negaliojimas vienam iš šių asmenų nedaro negaliojančios visos sutarties,
-išskyrus atvejus, kai to asmens dalyvavimas buvo būtinas tai sutarčiai
-sudaryti.
+negaliojimas vienam iš šių asmenų nedaro negaliojančios visos sutarties, išskyrus
+atvejus, kai to asmens dalyvavimas buvo būtinas tai sutarčiai sudaryti.
  
 6.227 straipsnis. Teisė pareikšti ieškinį dėl
 sutarties negaliojimo
@@ -19200,8 +19220,8 @@ PAGRINDAIS ATSIRANDANČIOS PRIEVOLĖS
  
 XIX
 skyrius
-KITO ASMENS
-REIKALŲ TVARKYMAS
+KITO
+ASMENS REIKALŲ TVARKYMAS
  
 6.229 straipsnis. Asmens, tvarkančio kito asmens
 reikalus, pareigos
@@ -19225,9 +19245,10 @@ gautų pajamų, išlaidų bei nuostolių ataskaitą.
 4. Asmuo,
 tvarkantis kito asmens reikalus, turi veikti tiek rūpestingai ir apdairiai,
 kiek yra būtina atsižvelgiant į konkrečias aplinkybes, kuriomis jis veikia.
-5. Šio straipsnio
-normos netaikomos valstybės ir savivaldybės institucijų, veikiančių kitų asmenų
-interesais, veiksmams, jeigu šiuos veiksmus atlikti yra tų institucijų pareiga.
+5. Šio
+straipsnio normos netaikomos valstybės ir savivaldybės institucijų, veikiančių
+kitų asmenų interesais, veiksmams, jeigu šiuos veiksmus atlikti yra tų
+institucijų pareiga.
  
 6.230 straipsnis. Reikalų tvarkymas prieš kito
 asmens valią
@@ -19235,11 +19256,11 @@ asmens valią
 tvarko kito asmens reikalus prieš pastarojo valią tą žinodamas, tai jis privalo
 atlyginti savo veiksmais padarytus nuostolius asmeniui, prieš kurio valią
 veikė.
-2. Asmens
-sutikimas ar nesutikimas, kad jo reikalus tvarkytų kitas asmuo, neturi
-reikšmės, jeigu be tokio sutikimo visuomenės interesus atitinkanti prievolė ar
-prievolė išlaikyti kitą asmenį nebūtų laiku įvykdyta arba yra siekiama
-pašalinti asmens gyvybei gresiantį pavojų.
+2. Asmens sutikimas
+ar nesutikimas, kad jo reikalus tvarkytų kitas asmuo, neturi reikšmės, jeigu be
+tokio sutikimo visuomenės interesus atitinkanti prievolė ar prievolė išlaikyti
+kitą asmenį nebūtų laiku įvykdyta arba yra siekiama pašalinti asmens gyvybei
+gresiantį pavojų.
 3. Veiksmai, kuriuos asmuo
 atliko sužinojęs, kad asmuo, kurio interesais veikiama, šiems veiksmams
 nepritaria, nesukuria pastarajam asmeniui jokių prievolių nei tuos veiksmus
@@ -19253,10 +19274,10 @@ tyčiai ar dideliam neatsargumui.
  
 6.232 straipsnis. Veiksmų patvirtinimas
 Jeigu asmuo,
-kurio reikalus be pavedimo tvarkė kitas asmuo, vėliau pastarojo veiksmus patvirtina,
-tai šių asmenų tarpusavio santykiams taikomos normos, reglamentuojančios
-pavedimo sutartis arba kitas pagal esmę artimiausias atliktų veiksmų prigimčiai
-sutartis.
+kurio reikalus be pavedimo tvarkė kitas asmuo, vėliau pastarojo veiksmus
+patvirtina, tai šių asmenų tarpusavio santykiams taikomos normos,
+reglamentuojančios pavedimo sutartis arba kitas pagal esmę artimiausias atliktų
+veiksmų prigimčiai sutartis.
  
 6.233 straipsnis. Išlaidų atlyginimas
 1. Jeigu asmuo
@@ -19443,8 +19464,7 @@ atvejus. Su lošimu ir lažybomis susiję reikalavimai teisme neginami, išskyru
 įstatymų nustatytus atvejus.
 2. Jeigu pagal
 įstatymus lošimas ar lažybos draudžiamos, tai laimėjusi šalis negali reikalauti
-sumokėti sutartą sumą, o pralaimėjusi šalis negali sumokėtos sumos
-išreikalauti.
+sumokėti sutartą sumą, o pralaimėjusi šalis negali sumokėtos sumos išreikalauti.
 3. Pralaimėjusi
 šalis turi teisę išreikalauti sumokėtą sumą, jeigu ši šalis yra nepilnametis
 arba prieš ją buvo panaudota prievarta, grasinimas, apgaulė ar kitokie
@@ -19453,9 +19473,9 @@ nesąžiningi veiksmai.
 6.244 straipsnis. Loterija ir kiti žaidimai,
 grindžiami rizika ar atsitiktinumu
 1. Loterijos ar
-kitokių žaidimų, grindžiamų rizika ar atsitiktinumu, pagrindu prievolės atsiranda
-tik tuo atveju, jeigu loterija ar kitokie žaidimai buvo organizuoti ir įvyko
-įstatymų nustatyta tvarka. Priešingu atveju iš loterijos ar žaidimų
+kitokių žaidimų, grindžiamų rizika ar atsitiktinumu, pagrindu prievolės
+atsiranda tik tuo atveju, jeigu loterija ar kitokie žaidimai buvo organizuoti
+ir įvyko įstatymų nustatyta tvarka. Priešingu atveju iš loterijos ar žaidimų
 atsirandantiems reikalavimams taikomi šio kodekso 6.237 ir 6.242 straipsniai.
 2. Jeigu
 loterija ar kitoks žaidimas organizuojami įstatymų nustatyta tvarka, tai jų
@@ -19475,9 +19495,9 @@ kurie pagal loterijos ar kitokio žaidimo taisykles pripažįstami laimėtojais,
 organizatorius privalo išmokėti taisyklėse nustatyto dydžio ir formos (pinigais
 arba natūra) laimėjimą. Laimėjimas turi būti išmokėtas per taisyklėse nurodytą
 terminą, o jeigu toks terminas nenurodytas, – per mėnesį nuo loterijos ar
-kitokio žaidimo rezultatų nustatymo. Jeigu šios pareigos loterijos ar kitokio
-žaidimo organizatorius neįvykdo, laimėtojas turi teisę reikalauti iš
-organizatoriaus išmokėti laimėjimą bei atlyginti nuostolius.
+kitokio žaidimo rezultatų nustatymo. Jeigu šios pareigos loterijos ar kitokio žaidimo
+organizatorius neįvykdo, laimėtojas turi teisę reikalauti iš organizatoriaus
+išmokėti laimėjimą bei atlyginti nuostolius.
  
 XXII skyrius
 CIVILINĖ ATSAKOMYBĖ
@@ -19598,9 +19618,9 @@ nauda nepažeidžiant protingumo, sąžiningumo ir teisingumo kriterijų gali b�
 žala yra asmens fizinis skausmas, dvasiniai išgyvenimai, nepatogumai, dvasinis
 sukrėtimas, emocinė depresija, pažeminimas, reputacijos pablogėjimas,
 bendravimo galimybių sumažėjimas ir kita, teismo įvertinti pinigais.
-2. Neturtinė žala
-atlyginama tik įstatymų nustatytais atvejais. Neturtinė žala atlyginama visais
-atvejais, kai ji padaryta dėl nusikaltimo, asmens sveikatai ar dėl asmens
+2. Neturtinė
+žala atlyginama tik įstatymų nustatytais atvejais. Neturtinė žala atlyginama
+visais atvejais, kai ji padaryta dėl nusikaltimo, asmens sveikatai ar dėl asmens
 gyvybės atėmimo bei kitais įstatymų nustatytais atvejais. Teismas, nustatydamas
 neturtinės žalos dydį, atsižvelgia į jos pasekmes, šią žalą padariusio asmens
 kaltę, jo turtinę padėtį, padarytos turtinės žalos dydį bei kitas turinčias
@@ -19698,8 +19718,8 @@ padaryta eksploatuojant įmonę, įrenginį ar dėl kitokios ūkinės ar neūkin
 veiklos ir yra realus pavojus, jog dėl šios veiklos vėl gali būti padaryta
 žalos, tai teismas ieškovo prašymu gali įpareigoti atsakovą sustabdyti ar
 nutraukti tokią veiklą. Teismas gali atsisakyti tenkinti prašymą dėl tokios
-veiklos sustabdymo ar nutraukimo, jeigu veiklos nutraukimas ar sustabdymas prieštarautų
-viešajai tvarkai.
+veiklos sustabdymo ar nutraukimo, jeigu veiklos nutraukimas ar sustabdymas
+prieštarautų viešajai tvarkai.
 3. Teismo
 atsisakymas tenkinti prevencinį ieškinį neatima teisės reikalauti atlyginti dėl
 tos veiklos atsiradusią žalą.
@@ -19780,8 +19800,7 @@ straipsnyje nustatytos taisyklės atitinkamai taikomos ir tais atvejais, kai
 skolininkas pagal įstatymus arba sutartį atsako už prievolės neįvykdymą ar
 netinkamą jos įvykdymą nepaisant jo kaltės.
  
-6.260 straipsnis. Skolininko praleisto termino
-pasekmės
+6.260 straipsnis. Skolininko praleisto termino pasekmės
 1. Laikoma, kad
 skolininkas praleido terminą, jeigu jis prievolės neįvykdo per nustatytą
 terminą.
@@ -19811,11 +19830,11 @@ pasekmės
 kreditorius praleido įvykdymo terminą, jeigu jis atsisakė priimti skolininko
 pasiūlytą tinkamą prievolės įvykdymą ar neatliko veiksmų, iki kurių atlikimo
 skolininkas negalėjo įvykdyti savo prievolės.
-2. Kai
-kreditorius praleidžia terminą, skolininkas įgyja teisę į dėl termino
-praleidimo padarytų nuostolių atlyginimą, jeigu kreditorius neįrodo, kad
-terminas praleistas ne dėl jo paties kaltės ar ne dėl tų asmenų, kurie pagal
-įstatymus ar kreditoriaus pavedimą buvo įpareigoti priimti įvykdymą, kaltės.
+2. Kai kreditorius
+praleidžia terminą, skolininkas įgyja teisę į dėl termino praleidimo padarytų
+nuostolių atlyginimą, jeigu kreditorius neįrodo, kad terminas praleistas ne dėl
+jo paties kaltės ar ne dėl tų asmenų, kurie pagal įstatymus ar kreditoriaus
+pavedimą buvo įpareigoti priimti įvykdymą, kaltės.
 3. Pagal
 piniginę prievolę skolininkas neprivalo mokėti palūkanų už kreditoriaus
 praleisto termino laiką.
@@ -19836,17 +19855,17 @@ numatytais atvejais asmuo privalo atlyginti dėl kito asmens veiksmų atsiradusi
  
 6.264 straipsnis. Samdančio darbuotojus
 asmens atsakomybė už žalą, atsiradusią dėl jo darbuotojų kaltės
-1. Samdantis
-darbuotojus asmuo privalo atlyginti žalą, atsiradusią dėl jo darbuotojų,
-einančių savo darbines (tarnybines) pareigas, kaltės.
+1. Samdantis darbuotojus
+asmuo privalo atlyginti žalą, atsiradusią dėl jo darbuotojų, einančių savo
+darbines (tarnybines) pareigas, kaltės.
 2. Pagal šį
 straipsnį darbuotojais laikomi asmenys, atliekantys darbą darbo sutarties arba
 civilinės sutarties pagrindu, jeigu jie veikia atitinkamo juridinio ar fizinio
 asmens nurodymu ir jo kontroliuojami.
-3. Jeigu įstatymų numatytais
-atvejais samdantis darbuotojus asmuo ir darbuotojas už žalą atsako kartu, tai
-darbuotojas atsako jį nusamdžiusiam asmeniui tik tuo atveju, kai yra darbuotojo
-tyčia ar neatsargumas.
+3. Jeigu įstatymų
+numatytais atvejais samdantis darbuotojus asmuo ir darbuotojas už žalą atsako
+kartu, tai darbuotojas atsako jį nusamdžiusiam asmeniui tik tuo atveju, kai yra
+darbuotojo tyčia ar neatsargumas.
  
 6.265 straipsnis. Atsakomybė už kitų asmenų padarytą
 žalą
@@ -19865,9 +19884,9 @@ kelius, sugriuvimo ar dėl kitokių jų trūkumų, privalo atlyginti šių objek
 savininkas (valdytojas), jeigu neįrodo, kad buvo šio kodekso 6.270 straipsnio 1
 dalyje numatytos aplinkybės.
 2.
-Preziumuojama, kad pastatų, statinių, įrenginių ar kitokių konstrukcijų
-savininkas (valdytojas) yra asmuo, viešame registre nurodytas kaip jų
-savininkas (valdytojas). 
+Preziumuojama, kad pastatų, statinių, įrenginių ar kitokių konstrukcijų savininkas
+(valdytojas) yra asmuo, viešame registre nurodytas kaip jų savininkas
+(valdytojas). 
  
 6.267 straipsnis. Atsakomybė už gyvūnų padarytą žalą
 1. Naminių
@@ -19951,12 +19970,12 @@ straipsnyje terminas „valdžios institucija“ reiškia bet kokį viešosios t
 subjektą (valstybės ar savivaldybės instituciją, pareigūną, valstybės
 tarnautoją ar kitokį šių institucijų darbuotoją ir t. t.), taip pat privatų
 asmenį, atliekantį valdžios funkcijas.
-3. Šiame
-straipsnyje vartojamas terminas „aktas“ reiškia bet kokį valdžios institucijos
-ar jos darbuotojų veiksmą (veikimą, neveikimą), kuris tiesiogiai daro įtakos
-asmenų teisėms, laisvėms ir interesams (valstybės ar savivaldybės institucijų
-priimami teisės ar individualūs aktai, administraciniai aktai, fiziniai aktai
-ir t. t., išskyrus teismo nuosprendžius, sprendimus ir nutartis).
+3. Šiame straipsnyje
+vartojamas terminas „aktas“ reiškia bet kokį valdžios institucijos ar jos
+darbuotojų veiksmą (veikimą, neveikimą), kuris tiesiogiai daro įtakos asmenų
+teisėms, laisvėms ir interesams (valstybės ar savivaldybės institucijų priimami
+teisės ar individualūs aktai, administraciniai aktai, fiziniai aktai ir t. t.,
+išskyrus teismo nuosprendžius, sprendimus ir nutartis).
 4. Valstybės ar
 savivaldybės civilinė atsakomybė pagal šį straipsnį atsiranda, jeigu valdžios
 institucijų darbuotojai neveikė taip, kaip pagal įstatymus šios institucijos ar
@@ -19995,11 +20014,10 @@ atstovauja savivaldybės institucija, dėl kurios neteisėtų veiksmų atsirado
  
 6.274 straipsnis. Atsakomybė už žalą, atsiradusią
 dėl būtinojo reikalingumo 
-Teismas,
-atsižvelgdamas į žalos atsiradimo aplinkybes ir kitas aplinkybes, numatytas šio
-kodekso 6.253 straipsnio 6 dalyje, gali įpareigoti asmenį, kurio interesais
-veikė žalą padaręs asmuo, atlyginti žalą, atsiradusią dėl būtinojo
-reikalingumo.
+Teismas, atsižvelgdamas
+į žalos atsiradimo aplinkybes ir kitas aplinkybes, numatytas šio kodekso 6.253
+straipsnio 6 dalyje, gali įpareigoti asmenį, kurio interesais veikė žalą
+padaręs asmuo, atlyginti žalą, atsiradusią dėl būtinojo reikalingumo.
  
 6.275 straipsnis. Atsakomybė už
 nepilnamečių iki keturiolikos metų padarytą žalą
@@ -20024,10 +20042,10 @@ turi atlyginti jo tėvai ar rūpintojas, jeigu neįrodo, kad žala atsirado ne d
 jų kaltės. Tokios pat teisinės pasekmės atsiranda, jeigu nepilnametis nuo
 keturiolikos iki aštuoniolikos metų žalos padarymo metu buvo mokymo, auklėjimo,
 sveikatos priežiūros ar globos (rūpybos) institucijos prižiūrimas.
-3. Šio straipsnio
-2 dalyje nurodytų asmenų pareiga atlyginti žalą pasibaigia, kai padaręs žalą
-asmuo sulaukia pilnametystės, taip pat kai jis prieš pilnametystę įgyja turtą
-arba uždarbį, kurio pakanka žalai atlyginti.
+3. Šio
+straipsnio 2 dalyje nurodytų asmenų pareiga atlyginti žalą pasibaigia, kai
+padaręs žalą asmuo sulaukia pilnametystės, taip pat kai jis prieš pilnametystę
+įgyja turtą arba uždarbį, kurio pakanka žalai atlyginti.
  
 6.277 straipsnis. Tėvų, kurių valdžia
 apribota, civilinė atsakomybė už jų nepilnamečių vaikų padarytą žalą 
@@ -20071,10 +20089,10 @@ kurį jie yra atsakingi, rezultatas.
  
 6.280 straipsnis. Regreso teisė į žalos padariusį
 asmenį 
-1. Atlyginęs
-kito asmens padarytą žalą asmuo turi į padariusį žalą asmenį regreso
-(atgręžtinio reikalavimo) teisę tokio dydžio, kiek sumokėjo žalos atlyginimo,
-jeigu įstatymai nenustato kitokio dydžio.
+1. Atlyginęs kito
+asmens padarytą žalą asmuo turi į padariusį žalą asmenį regreso (atgręžtinio
+reikalavimo) teisę tokio dydžio, kiek sumokėjo žalos atlyginimo, jeigu
+įstatymai nenustato kitokio dydžio.
 2. Atlyginęs
 kelių asmenų bendrai padarytą žalą asmuo turi teisę iš kiekvieno reikalauti jų
 išmokėto žalos atlyginimo dalies, proporcingos jų kaltei. Kai neįmanoma
@@ -20184,8 +20202,8 @@ Asmuo, iš kurio
 priteistas dėl suluošinimo ar kitokio sveikatos sužalojimo atsiradusios žalos
 atlyginimas, turi teisę reikalauti atitinkamai sumažinti priteistą atlyginimą,
 jeigu nukentėjusio asmens darbingumas, palyginti su tuo, kuris jam buvo likęs
-tuo metu, kai priteistas žalos atlyginimas, padidėja, išskyrus atvejus, kai žala
-buvo atlyginta priteisiant konkrečią vienkartinę pinigų sumą.
+tuo metu, kai priteistas žalos atlyginimas, padidėja, išskyrus atvejus, kai
+žala buvo atlyginta priteisiant konkrečią vienkartinę pinigų sumą.
  
 6.288 straipsnis. Žalos atlyginimo mokėjimas
 1. Žala
@@ -20257,12 +20275,12 @@ teikėją).
 asmuo, kuris dėl savo verslo importuoja į Europos ekonominės erdvės valstybių
 teritoriją netinkamos kokybės produktą turėdamas tikslą jį parduoti,
 išnuomoti ar kitaip paskirstyti, atsako kaip gamintojas.
-4. Jeigu
-produkto gamintojo neįmanoma nustatyti, kiekvienas produktą realizavęs asmuo
-laikomas gamintoju, išskyrus atvejus, kai jis per protingą terminą praneša
-nukentėjusiam asmeniui apie produkto gamintoją arba apie produktą patiekusį
-asmenį. Ši taisyklė taikoma ir tais atvejais, kai produktas buvo importuotas
-nenurodant jo importuotojo, nors jo gamintojas žinomas.
+4. Jeigu produkto
+gamintojo neįmanoma nustatyti, kiekvienas produktą realizavęs asmuo laikomas
+gamintoju, išskyrus atvejus, kai jis per protingą terminą praneša nukentėjusiam
+asmeniui apie produkto gamintoją arba apie produktą patiekusį asmenį. Ši
+taisyklė taikoma ir tais atvejais, kai produktas buvo importuotas nenurodant jo
+importuotojo, nors jo gamintojas žinomas.
 5. Šio skirsnio
 normos taikomos tik tais atvejais, kai produktai (paslaugos) įsigyjami
 vartojimo, o ne verslo tikslais.
@@ -20280,15 +20298,15 @@ taip pat kilnojamąjį daiktą (turtą), kuris įeina į kitą kilnojamąjį ar
 nekilnojamąjį daiktą. Produktu laikoma ir elektros energija.
 2. Šiame
 skirsnyje vartojamas terminas „paslauga“ reiškia veiklą, kuria tenkinamas
-konkretus materialus ar nematerialus vartotojo poreikis, išskyrus sveikatos priežiūros,
-teisines, švietimo, šiluminės energijos, dujų, vandens tiekimo, nuotėkų
-šalinimo ir transporto paslaugas.
+konkretus materialus ar nematerialus vartotojo poreikis, išskyrus sveikatos
+priežiūros, teisines, švietimo, šiluminės energijos, dujų, vandens tiekimo,
+nuotėkų šalinimo ir transporto paslaugas.
  
 6.294 straipsnis. Netinkamos kokybės samprata
 1. Produktas
-(paslaugos) yra netinkamos kokybės, jeigu jis neatitinka saugos reikalavimų, kurių
-protingai gali tikėtis vartotojas. Ar produktas (paslaugos) yra tinkamos ar
-netinkamos kokybės, nustatoma atsižvelgiant į:
+(paslaugos) yra netinkamos kokybės, jeigu jis neatitinka saugos reikalavimų,
+kurių protingai gali tikėtis vartotojas. Ar produktas (paslaugos) yra tinkamos
+ar netinkamos kokybės, nustatoma atsižvelgiant į:
 1) nurodomas
 produkto (paslaugų) savybes (reklamą);
 2) tai, ar
@@ -20338,18 +20356,19 @@ metu;
 kokybė pablogėjo dėl atitinkamų valstybės institucijų nustatytų privalomų
 taisyklių laikymosi;
 5) mokslo ir
-techninių žinių lygis produkto išleidimo į apyvartą metu nebuvo toks, kad
-leistų nustatyti netinkamą kokybę;
+techninių žinių lygis produkto išleidimo į apyvartą metu nebuvo toks, kad leistų
+nustatyti netinkamą kokybę;
 6) jo pagamintas
 produktas buvo įkomponuotas į kitą produktą ir žala atsirado dėl kito produkto
 konstrukcijos arba dėl viso produkto gamintojo pateiktų vartojimo taisyklių.
 2. Gamintojo
 atsakomybė nemažinama, jeigu žala atsirado ir dėl netinkamos produkto kokybės,
 ir dėl trečiojo asmens veiksmų ar neveikimo.
-3. Gamintojo atsakomybė
-gali būti sumažinta arba jis gali būti visiškai atleistas nuo atsakomybės,
-jeigu atsižvelgiant į visas aplinkybes žala atsirado ir dėl netinkamos produkto
-kokybės, ir dėl nukentėjusio ar kito asmens, už kurį šis atsako, kaltės.
+3. Gamintojo
+atsakomybė gali būti sumažinta arba jis gali būti visiškai atleistas nuo
+atsakomybės, jeigu atsižvelgiant į visas aplinkybes žala atsirado ir dėl
+netinkamos produkto kokybės, ir dėl nukentėjusio ar kito asmens, už kurį šis
+atsako, kaltės.
 4. Įstatymai
 gali nustatyti kitas paslaugų teikėjo atleidimo nuo atsakomybės sąlygas, negu
 nustatyta šio straipsnio 1 dalyje.
@@ -20440,9 +20459,9 @@ ar paslaugas, arba panaudotus mokslinius ar profesinius terminus arba bandymų
 techninius ar statistinius duomenis ir pan.;
 3) prekių (paslaugų)
 įsigijimo ir vartojimo (naudojimo) sąlygas – kainą ar jos apskaičiavimo būdą,
-mokėjimo sąlygas, garantijas, pristatymo, keitimo, remonto, aptarnavimo, grąžinimo
-sąlygas, pardavimo ar tiekimo mastą, specialiosios ofertos priežastį ar tikslą
-ir pan.;
+mokėjimo sąlygas, garantijas, pristatymo, keitimo, remonto, aptarnavimo,
+grąžinimo sąlygas, pardavimo ar tiekimo mastą, specialiosios ofertos priežastį
+ar tikslą ir pan.;
 4) prekių ar
 paslaugų lyginimą (gretinimą) su kitomis prekėmis ar paslaugomis.
  
@@ -20462,10 +20481,9 @@ davėjas (gamintojas).
  
 6.303 straipsnis. Atsakomybės sąlygos
 Šio kodekso
-6.302 straipsnyje nurodyti asmenys atsako už žalą, atsiradusią dėl
-klaidinančios reklamos, jeigu neįrodo, kad paskleista informacija atitinka
-tikrovę ir kad dėl informacijos turinio arba jos paskelbimo ir atsiradusios
-žalos nėra jų kaltės.
+6.302 straipsnyje nurodyti asmenys atsako už žalą, atsiradusią dėl klaidinančios
+reklamos, jeigu neįrodo, kad paskleista informacija atitinka tikrovę ir kad dėl
+informacijos turinio arba jos paskelbimo ir atsiradusios žalos nėra jų kaltės.
  
 6.304 straipsnis. Klaidinančios reklamos uždraudimas
 ir paneigimas
@@ -20498,15 +20516,15 @@ jeigu kiti įstatymai nenustato specialių jų pirkimo–pardavimo taisyklių.
 3. Atskirų rūšių
 daiktų (prekių) pirkimo–pardavimo ypatumus gali nustatyti atitinkami įstatymai.
 4. Šio skyriaus
-normos taikomos turtinių teisių pirkimui – pardavimui tiek, kiek tai
-neprieštarauja šių teisių prigimčiai ir esmei.
+normos taikomos turtinių teisių pirkimui – pardavimui tiek, kiek tai neprieštarauja
+šių teisių prigimčiai ir esmei.
  
 6.306 straipsnis. Pirkimo–pardavimo sutarties
 dalykas
-1. Pirkimo–pardavimo
-sutarties dalyku gali būti neišimti iš apyvartos daiktai, kuriuos pardavėjas
-jau turi ar kurie gali būti sukurti ar pardavėjo įgyti ateityje, vertybiniai
-popieriai ir kitokie daiktai bei turtinės teisės.
+1.
+Pirkimo–pardavimo sutarties dalyku gali būti neišimti iš apyvartos daiktai,
+kuriuos pardavėjas jau turi ar kurie gali būti sukurti ar pardavėjo įgyti
+ateityje, vertybiniai popieriai ir kitokie daiktai bei turtinės teisės.
 2.
 Pirkimo–pardavimo sutarties dalyku taip pat gali būti prieauglis, derlius ir
 kiti atsirandantys daiktai. 
@@ -20519,11 +20537,11 @@ jeigu sutarties turinys leidžia nustatyti daikto (prekės) pavadinimą ir kiek�
  
 6.307 straipsnis. Pardavėjui nepriklausančio daikto
 pardavimas
-1.
-Pirkimo–pardavimo sutartis, pagal kurią pardavėjas parduoda jam nepriklausantį
-daiktą nebūdamas daikto savininko įgaliotas ar neturėdamas tam teisės pagal
-įstatymus, gali būti pripažinta negaliojančia pagal daikto savininko, valdytojo
-arba pirkėjo ieškinį. 
+1. Pirkimo–pardavimo
+sutartis, pagal kurią pardavėjas parduoda jam nepriklausantį daiktą nebūdamas
+daikto savininko įgaliotas ar neturėdamas tam teisės pagal įstatymus, gali būti
+pripažinta negaliojančia pagal daikto savininko, valdytojo arba pirkėjo
+ieškinį. 
 2. Tokia
 pirkimo–pardavimo sutartis nėra negaliojanti, jeigu pardavėjas
 pirkimo–pardavimo sutarties įvykdymo metu tapo parduodamo daikto savininku.
@@ -20634,8 +20652,8 @@ išskyrus atvejus, kai šalių susitarimas numato ką kita.
 4. Jeigu
 sutartyje nenumatyta ko kita, pirkėjas privalo iš karto sumokėti visą kainą.
 5. Kai pirkėjas
-laiku nesumoka už jam perduotus daiktus, pardavėjas turi teisę reikalauti iš pirkėjo
-sumokėti kainą bei įstatymų ar sutarties nustatytas palūkanas.
+laiku nesumoka už jam perduotus daiktus, pardavėjas turi teisę reikalauti iš
+pirkėjo sumokėti kainą bei įstatymų ar sutarties nustatytas palūkanas.
 6. Kai pirkėjas
 atsisako priimti daiktus ir už juos sumokėti, pardavėjas gali savo nuožiūra
 reikalauti sumokėti kainą arba atsisakyti vykdyti sutartį.
@@ -20698,8 +20716,8 @@ pašalintos bet kokios pirkėjo valdymo teisės kliūtys.
 5. Daiktų
 perdavimo išlaidos tenka pardavėjui, jeigu sutartis nenumato ko kita.
 6. Jeigu pirkimo-pardavimo
-sutartis numato, kad pirkėjas kainą sumoka tik po daiktų perdavimo, o po sutarties
-sudarymo jis tapo nemokus, tai pardavėjas perduoti daiktų neprivalo.
+sutartis numato, kad pirkėjas kainą sumoka tik po daiktų perdavimo, o po
+sutarties sudarymo jis tapo nemokus, tai pardavėjas perduoti daiktų neprivalo.
  
 6.318
 straipsnis. Daiktų ir dokumentų perdavimo vieta ir momentas
@@ -20729,9 +20747,9 @@ duodami vaisiai ir pajamos priklauso pirkėjui nuo daikto perdavimo.
  
 6.319
 straipsnis. Daiktų perdavimo terminas
-1. Pardavėjas
-privalo perduoti daiktus pirkėjui pirkimo–pardavimo sutartyje numatytu laiku.
-Jeigu perdavimo terminas sutartyje nenurodytas, daiktai turi būti perduoti per
+1. Pardavėjas privalo
+perduoti daiktus pirkėjui pirkimo–pardavimo sutartyje numatytu laiku. Jeigu
+perdavimo terminas sutartyje nenurodytas, daiktai turi būti perduoti per
 protingą terminą po sutarties sudarymo. Šiuo atveju atitinkamai taikomas šio
 kodekso 6.53 straipsnis.
 2. Laikoma, kad
@@ -20841,7 +20859,8 @@ neįspėja apie tai pirkėjo.
 straipsnis. Pareigos perduoti daiktus neįvykdymo pasekmės
 1. Jeigu
 pardavėjas nepagrįstai atsisako perduoti daiktus pirkėjui, šis turi teisę
-atsisakyti vykdyti pirkimo–pardavimo sutartį ir reikalauti atlyginti nuostolius.
+atsisakyti vykdyti pirkimo–pardavimo sutartį ir reikalauti atlyginti
+nuostolius.
 2. Kai
 pardavėjas atsisako perduoti pagal individualius požymius apibūdinamą daiktą,
 pirkėjas gali taikyti šio kodekso 6.60 ir 6.213 straipsniuose numatytas gynybos
@@ -20871,8 +20890,8 @@ jeigu sutartis nenumato ko kita.
 6.327
 straipsnis. Reikalavimai daiktui
 1. Parduodamų
-daiktų kokybė, kiekis ir kiti kriterijai turi atitikti sutarties sąlygas, o
-jeigu sutartyje nėra nurodymų, – įprastus reikalavimus.
+daiktų kokybė, kiekis ir kiti kriterijai turi atitikti sutarties sąlygas, o jeigu
+sutartyje nėra nurodymų, – įprastus reikalavimus.
 2. Pardavėjas
 neatsako pagal šio straipsnio 1 dalies reikalavimus už bet kokį daiktų
 neatitikimą, jeigu sutarties sudarymo metu pirkėjas žinojo arba negalėjo
@@ -20882,8 +20901,8 @@ pagal sutartį ir šį kodeksą atsako už bet kokį neatitikimą, kuris buvo
 nuosavybės teisės perėjimo pirkėjui momentu, net jeigu tas neatitikimas
 paaiškėja vėliau.
 4. Pardavėjas
-atsako už bet kokį neatitikimą, kuris atsiranda po šio straipsnio 3 dalyje
-nurodyto momento ir kuris yra bet kokios pardavėjo prievolės pažeidimo pasekmė,
+atsako už bet kokį neatitikimą, kuris atsiranda po šio straipsnio 3 dalyje nurodyto
+momento ir kuris yra bet kokios pardavėjo prievolės pažeidimo pasekmė,
 įskaitant garantijos, kad tam tikrą laiką prekės bus tinkamos naudoti pagal jų
 įprastą ar specialiai nurodytą paskirtį arba išlaikys aptartas savybes ar
 charakteristikas, pažeidimą.
@@ -20895,10 +20914,10 @@ nenurodo, kokių reikalavimų daiktas neatitinka.
 6.328
 straipsnis. Daiktų patikrinimo teisė 
 1. Jeigu šalys
-nesusitarė kitaip, pirkėjas nuo pirkimo–pardavimo sutarties sudarymo ar nuo ofertos
-pateikimo turi teisę prieš mokėdamas ar prieš priimdamas daiktus juos
-patikrinti bet kokioje vietoje, bet kokiu laiku ar metodu, kurie atitinka
-protingumo kriterijus.
+nesusitarė kitaip, pirkėjas nuo pirkimo–pardavimo sutarties sudarymo ar nuo
+ofertos pateikimo turi teisę prieš mokėdamas ar prieš priimdamas daiktus juos
+patikrinti bet kokioje vietoje, bet kokiu laiku ar metodu, kurie atitinka protingumo
+kriterijus.
 2. Jeigu šalys
 nesusitarė kitaip, daiktų patikrinimo išlaidos tenka pirkėjui. Pirkėjas turi
 teisę reikalauti, kad pardavėjas atlygintų patikrinimo išlaidas, jei
@@ -20980,8 +20999,8 @@ po jų gavimo nepraneša pardavėjui apie atsisakymą priimti daiktus.
 pirkėjas neatsisako priimti asortimento neatitinkančių daiktų, tai jis privalo
 už juos sumokėti su pardavėju suderintą kainą. Jeigu pardavėjas dėl savo kaltės
 per protingą terminą nesuderino kainos su pirkėju, tai pirkėjas turi sumokėti
-už daiktus tą kainą, kuri sutarties sudarymo metu įprastai buvo mokama
-atitinkančiomis aplinkybėmis už analogiškus daiktus.
+už daiktus tą kainą, kuri sutarties sudarymo metu įprastai buvo mokama atitinkančiomis
+aplinkybėmis už analogiškus daiktus.
 6. Šio
 straipsnio taisyklės taikomos tiek, kiek pirkimo–pardavimo sutartis nenumato
 kitokių taisyklių.
@@ -21030,9 +21049,9 @@ parduodami teismo sprendimams vykdyti nustatyta tvarka, tai pardavėjas
 neprivalo garantuoti jų kokybės, o pirkėjas negali remtis tuo, kad pardavėjas
 pardavė netinkamos kokybės daiktą, išskyrus atvejus, kai apie parduodamo daikto
 trūkumus pardavėjas žinojo.
-9. Kai parduodamos
-paveldėjimo teisės nenurodant konkretaus turto, pardavėjas privalo garantuoti
-tik tai, kad jis yra įpėdinis.
+9. Kai
+parduodamos paveldėjimo teisės nenurodant konkretaus turto, pardavėjas privalo
+garantuoti tik tai, kad jis yra įpėdinis.
 10. Šio
 straipsnio 2 dalyje numatytą daikto kokybės garantiją taip pat privalo duoti
 daiktų gamintojas, platintojas, tiekėjas, importuotojas ar bet koks kitas
@@ -21066,11 +21085,10 @@ paslėpto trūkumo daiktas žuvo, o pardavėjas apie tą trūkumą žinojo arba 
 žinoti, tai jis privalo ne tik grąžinti pirkėjui sumokėtą kainą, bet ir
 atlyginti nuostolius.
 4. Sutarties
-sąlygos, panaikinančios ar apribojančios pardavėjo atsakomybę už daiktų
-trūkumus, negalioja, išskyrus atvejus, kai jis pirkėjui atskleidė daikto
-trūkumus, kurie pardavėjui buvo ar turėjo būti žinomi, taip pat atvejus, kai
-pirkėjas savo rizika pirko daiktus iš asmens, kuris nėra profesionalus
-pardavėjas.
+sąlygos, panaikinančios ar apribojančios pardavėjo atsakomybę už daiktų trūkumus,
+negalioja, išskyrus atvejus, kai jis pirkėjui atskleidė daikto trūkumus, kurie
+pardavėjui buvo ar turėjo būti žinomi, taip pat atvejus, kai pirkėjas savo
+rizika pirko daiktus iš asmens, kuris nėra profesionalus pardavėjas.
  
 6.335
 straipsnis. Daiktų kokybės garantijos terminas
@@ -21122,10 +21140,10 @@ straipsnis. Daiktų kokybės patikrinimas
 1. Įstatymai ar
 pirkimo–pardavimo sutartis gali nustatyti privalomą daiktų kokybės patikrinimą
 ir jo tvarką bei terminus.
-2. Jeigu
-įstatymai ar sutartis nenustato daiktų kokybės patikrinimo tvarkos ir terminų,
-tai daiktų kokybė turi būti patikrinta per protingą terminą ir pagal įprastai
-taikomas daiktų kokybės patikrinimo sąlygas bei prekybos papročius.
+2. Jeigu įstatymai
+ar sutartis nenustato daiktų kokybės patikrinimo tvarkos ir terminų, tai daiktų
+kokybė turi būti patikrinta per protingą terminą ir pagal įprastai taikomas
+daiktų kokybės patikrinimo sąlygas bei prekybos papročius.
 3. Kai įstatymai
 ar pirkimo–pardavimo sutartis numato pardavėjo pareigą patikrinti pirkėjui
 perduodamų daiktų kokybę (išbandymas, apžiūra, matavimai ir 
@@ -21170,10 +21188,10 @@ straipsnis. Daiktų komplektiškumas
 1. Pardavėjas
 privalo perduoti pirkėjui daiktus, kurie atitinka pirkimo–pardavimo sutarties
 sąlygų, nustatančių daiktų komplektiškumą, reikalavimus.
-2. Jeigu sutartyje
-daiktų komplektiškumas neaptartas, pardavėjas privalo perduoti daiktus,
-sukomplektuotus taip, kad jie atitiktų prekybos papročių ir įprastai reiškiamus
-reikalavimus.
+2. Jeigu
+sutartyje daiktų komplektiškumas neaptartas, pardavėjas privalo perduoti
+daiktus, sukomplektuotus taip, kad jie atitiktų prekybos papročių ir įprastai
+reiškiamus reikalavimus.
  
 6.340
 straipsnis. Daiktų komplektas
@@ -21195,9 +21213,9 @@ pasirinkimu reikalauti:
 daikto kainą;
 2) kad
 pardavėjas per protingą terminą sukomplektuotų daiktus.
-2. Jeigu
-pardavėjas per protingą terminą nesukomplektuoja daiktų, tai pirkėjas turi
-teisę savo pasirinkimu:
+2. Jeigu pardavėjas
+per protingą terminą nesukomplektuoja daiktų, tai pirkėjas turi teisę savo
+pasirinkimu:
 1) reikalauti
 pakeisti nekomplektiškus daiktus komplektiškais;
 2) atsisakyti
@@ -21359,9 +21377,9 @@ fiziniam asmeniui pastarojo asmeniniams, šeimos ar namų ūkio poreikiams,
 nesusijusiems su verslu ar profesija, tenkinti, o pirkėjas įsipareigoja
 sumokėti kainą. Vyriausybė tvirtina mažmeninės prekybos taisykles.
 2. Vartojimo
-pirkimo–pardavimo sutartyse negali būti sąlygų, pasunkinančių vartotojo (pirkėjo)
-padėtį arba panaikinančių ar suvaržančių vartotojo (pirkėjo) teisę pareikšti
-ieškinį pardavėjui dėl sutarties sąlygų pažeidimo.
+pirkimo–pardavimo sutartyse negali būti sąlygų, pasunkinančių vartotojo
+(pirkėjo) padėtį arba panaikinančių ar suvaržančių vartotojo (pirkėjo) teisę
+pareikšti ieškinį pardavėjui dėl sutarties sąlygų pažeidimo.
 3. Pardavėjui
 vartojimo pirkimo–pardavimo sutarties atveju draudžiama:
 1) nustatyti,
@@ -21374,7 +21392,8 @@ priklausinius;
 3) veikti
 pirkėjus įkyriai siūlant daiktus ar paslaugas, nurodant kainoraščiuose, kainų
 etiketėse, parduotuvių vidaus ir lango vitrinose tariamą kainų sumažinimą bei
-kitais gerai moralei ir viešajai tvarkai prieštaraujančiais būdais ar priemonėmis.
+kitais gerai moralei ir viešajai tvarkai prieštaraujančiais būdais ar
+priemonėmis.
 4. Kai
 pardavėjas pažeidžia pirkėjo teises, pirkėjas įstatymų nustatyta tvarka turi
 teisę kreiptis dėl pažeistų teisių gynimo į vartotojų teises ginančias
@@ -21393,13 +21412,13 @@ straipsnis. Viešoji oferta
 nurodymas reklamoje, visiems skirtuose kataloguose ar aprašymuose laikomas
 viešąją oferta, jeigu yra nurodytos esminės pirkimo–pardavimo sutarties
 sąlygos.
-2. Daiktų
-išdėstymas vitrinose, ant prekystalio ar kitose jų pardavimo vietose, taip pat
-daiktų pavyzdžių demonstravimas arba informacijos apie parduodamus daiktus
-pateikimas (aprašymai, katalogai, nuotraukos ir kt.) jų pardavimo
-vietoje laikomi viešąja oferta nepaisant to, ar nurodyta daiktų kaina
-arba kitos pirkimo–pardavimo sutarties sąlygos, išskyrus atvejus, kai pardavėjas
-aiškiai ir nedviprasmiškai nurodo, kad tam tikri daiktai nėra skirti parduoti.
+2. Daiktų išdėstymas
+vitrinose, ant prekystalio ar kitose jų pardavimo vietose, taip pat daiktų
+pavyzdžių demonstravimas arba informacijos apie parduodamus daiktus pateikimas
+(aprašymai, katalogai, nuotraukos ir kt.) jų pardavimo vietoje laikomi
+viešąja oferta nepaisant to, ar nurodyta daiktų kaina arba kitos
+pirkimo–pardavimo sutarties sąlygos, išskyrus atvejus, kai pardavėjas aiškiai
+ir nedviprasmiškai nurodo, kad tam tikri daiktai nėra skirti parduoti.
  
 6.353
 straipsnis. Pardavėjo pareiga informuoti pirkėją
@@ -21632,8 +21651,8 @@ atvejus, kai sutartis numato, kad daiktai bus perduoti pirkėjui praėjus daugia
 kaip trims mėnesiams po sutarties sudarymo, o pardavėjas turi teisę
 vienašališkai per šį terminą padidinti daikto kainą.
 3. Kai
-pirkimo–pardavimo sutartis numato išankstinį mokėjimą už daiktus, o pirkėjas per
-sutartyje nustatytą terminą nesumoka kainos, laikoma, kad pirkėjas atsisakė
+pirkimo–pardavimo sutartis numato išankstinį mokėjimą už daiktus, o pirkėjas
+per sutartyje nustatytą terminą nesumoka kainos, laikoma, kad pirkėjas atsisakė
 sutarties, jeigu sutartyje nenumatyta kas kita.
 4. Jeigu daiktai
 perkami išsimokėtinai (kreditan), tai pirkėjas turi teisę sumokėti už daiktus
@@ -21736,9 +21755,9 @@ pardavimo.
  
 6.364
 straipsnis. Kainų skirtumo atlyginimas
-1. Jeigu pardavėjas
-pakeičia netinkamos kokybės daiktą tinkamos kokybės daiktu, tai jis neturi
-teisės reikalauti iš pirkėjo atlyginti vartojimo pirkimo–pardavimo sutartyje
+1. Jeigu
+pardavėjas pakeičia netinkamos kokybės daiktą tinkamos kokybės daiktu, tai jis
+neturi teisės reikalauti iš pirkėjo atlyginti vartojimo pirkimo–pardavimo sutartyje
 numatytos kainos ir daikto kainos, galiojusios jo pakeitimo ar teismo arba
 kitokios institucijos sprendimo, įpareigojančio pakeisti daiktą, priėmimo
 momentu, skirtumą.
@@ -21757,8 +21776,8 @@ dėl kainos sumažinimo priėmimo momentu.
 4. Pirkėjas,
 grąžindamas prastos kokybės daiktą pardavėjui, turi teisę reikalauti atlyginti
 nustatytos sutartyje kainos ir kainos, galiojančios jo reikalavimo patenkinimo
-momentu, o jeigu jo reikalavimo pardavėjas netenkina, – teismo arba kitokios institucijos
-sprendimo priėmimo momentu, skirtumą.
+momentu, o jeigu jo reikalavimo pardavėjas netenkina, – teismo arba kitokios
+institucijos sprendimo priėmimo momentu, skirtumą.
  
 6.365
 straipsnis. Pardavėjo atsakomybė ir prievolės įvykdymas natūra
@@ -21787,9 +21806,8 @@ būdu;
 kitų kasdieniam vartojimui skirtų daiktų pirkimo–pardavimo ir (arba)
 pristatymo;
 4) dėl apgyvendinimo,
-transporto, maitinimo ar laisvalaikio paslaugų, kai paslaugų teikėjas
-įsipareigoja pateikti šias paslaugas tam tikru laiku arba tam tikru
-laikotarpiu;
+transporto, maitinimo ar laisvalaikio paslaugų, kai paslaugų teikėjas įsipareigoja
+pateikti šias paslaugas tam tikru laiku arba tam tikru laikotarpiu;
 5) naudojant
 pardavimo automatus (šio kodekso 6.358 straipsnis);
 6) per ryšio priemonių
@@ -21857,8 +21875,7 @@ pristatymo dienos, – kai parduodamas daiktas;
 dienos, – kai teikiamos paslaugos.
 2. Jeigu šio kodekso 6.366
 straipsnio 6 dalyje nurodyta informacija pirkėjui nebuvo įteikta raštu, jis
-turi teisę atsisakyti sutarties per tris mėnesius nuo sutarties sudarymo
-dienos.
+turi teisę atsisakyti sutarties per tris mėnesius nuo sutarties sudarymo dienos.
 3. Draudžiama šiame
 straipsnyje numatytą pirkėjo teisę atsisakyti sutarties suvaržyti papildomais
 įsipareigojimais ar įmokomis arba bet kokiu kitu būdu apriboti ar panaikinti,
@@ -21880,10 +21897,10 @@ kurie buvo būtini norint apžiūrėti gautą daiktą, negali būti vertinami ka
 esminiai daikto išvaizdos pakeitimai. Kai kyla ginčas dėl daikto išvaizdos,
 gali būti skiriama ekspertizė. Jos išlaidas apmoka kaltoji šalis.
 6. Jeigu pirkėjas
-pasinaudoja teise atsisakyti sutarties, kai už daiktą visiškai ar iš dalies sumokama
-pagal tam tikslui pardavėjo ir pirkėjo arba pardavėjo ir trečiojo asmens
-sudarytą vartojimo kredito sutartį, tai ta vartojimo kredito sutartis turi būti
-nutraukiama be jokių papildomų įsipareigojimų pirkėjui.
+pasinaudoja teise atsisakyti sutarties, kai už daiktą visiškai ar iš dalies
+sumokama pagal tam tikslui pardavėjo ir pirkėjo arba pardavėjo ir trečiojo
+asmens sudarytą vartojimo kredito sutartį, tai ta vartojimo kredito sutartis
+turi būti nutraukiama be jokių papildomų įsipareigojimų pirkėjui.
 7. Pardavėjas, gavęs šio
 straipsnio 1 dalyje nurodytą pranešimą apie sutarties atsisakymą, per
 penkiolika dienų privalo atsiimti daiktą ir grąžinti pirkėjui už daiktą
@@ -21931,12 +21948,12 @@ sutarties
 tikru laiku naudotis gyvenamosiomis patalpomis pirkimo sutarties, iš anksto
 raštu apie tai pranešdamas pardavėjui per dešimt dienų nuo sutarties sudarymo
 dienos. Jeigu sutarties sudarymo metu pirkėjui neįteikiamas suteikiamų
-gyvenamųjų patalpų aprašymas arba jame nėra visų privalomų duomenų, pirkėjas
-turi teisę atsisakyti sutarties per keturis mėnesius nuo jos sudarymo dienos.
-Jeigu suteikiamų gyvenamųjų patalpų aprašymas, kuriame yra visi privalomi
-duomenys, įteikiamas per šiuos keturis mėnesius, tai pirkėjas turi teisę
-atsisakyti sutarties per dešimt dienų nuo suteikiamų gyvenamųjų patalpų
-aprašymo įteikimo dienos.
+gyvenamųjų patalpų aprašymas arba jame nėra visų privalomų duomenų, pirkėjas turi
+teisę atsisakyti sutarties per keturis mėnesius nuo jos sudarymo dienos. Jeigu
+suteikiamų gyvenamųjų patalpų aprašymas, kuriame yra visi privalomi duomenys,
+įteikiamas per šiuos keturis mėnesius, tai pirkėjas turi teisę atsisakyti
+sutarties per dešimt dienų nuo suteikiamų gyvenamųjų patalpų aprašymo įteikimo
+dienos.
 2. Jeigu pirkėjas
 pasinaudoja teise atsisakyti sutarties, kai už teisę naudotis tam tikru laiku
 gyvenamosiomis patalpomis visiškai ar iš dalies sumokama pagal tam tikslui
@@ -22002,7 +22019,8 @@ pagal tos transporto rūšies taisykles.
 straipsnis. Nepriimtų daiktų saugojimas
 1. Pirkėjas,
 atsisakęs priimti jam pagal sutartį perduotus daiktus, privalo juos saugoti
-(atsakingas saugojimas) ir nedelsdamas apie savo atsisakymą pranešti pardavėjui.
+(atsakingas saugojimas) ir nedelsdamas apie savo atsisakymą pranešti
+pardavėjui.
 2. Šios
 straipsnio 1 dalyje nurodytą pranešimą gavęs pardavėjas per protingą terminą
 daiktus turi atsiimti arba nurodyti pirkėjui, ką su jais daryti. Kai pardavėjas
@@ -22103,9 +22121,9 @@ Energijos pirkimo–pardavimo sutartys
 6.383
 straipsnis. Energijos pirkimo–pardavimo sutarties samprata
 1. Pagal
-energijos (ar energijos išteklių) pirkimo–pardavimo sutartį energijos tiekimo įmonė
-įsipareigoja patiekti abonentui (vartotojui) per prijungtą energijos tiekimo
-tinklą sutartyje numatytos rūšies energijos kiekį, o abonentas (vartotojas)
+energijos (ar energijos išteklių) pirkimo–pardavimo sutartį energijos tiekimo
+įmonė įsipareigoja patiekti abonentui (vartotojui) per prijungtą energijos
+tiekimo tinklą sutartyje numatytos rūšies energijos kiekį, o abonentas (vartotojas)
 įsipareigoja už patiektą energiją sumokėti ir laikytis sutartyje numatyto jos
 vartojimo režimo, užtikrinti jam priklausančių energijos tiekimo tinklų
 eksploatavimo saugumą bei naudojamų prietaisų ir įrenginių tvarkingumą.
@@ -22114,11 +22132,11 @@ pirkimo–pardavimo sutartis sudaroma su abonentu tik tuo atveju, kai jis turi
 energiją naudojančius įrenginius ar nustatytus techninius reikalavimus
 atitinkančius vidaus tinklus, kurie yra prijungti prie energijos tiekimo
 tinklų, ir kai įrengti energijos apskaitos prietaisai. Kai tiesiami nauji
-energijos tiekimo tinklai, sudaromoms išankstinėms energijos pirkimo–pardavimo sutartims
-šios dalies reikalavimai netaikomi. Šilumos energijos, karšto ir šalto vandens
-pirkimo–pardavimo sutartis su buitiniu vartotoju gali būti sudaroma ir tuo
-atveju, kai nėra tiesioginės šių energijos išteklių apskaitos tarp energijos
-tiekėjo ir vartotojo.
+energijos tiekimo tinklai, sudaromoms išankstinėms energijos pirkimo–pardavimo
+sutartims šios dalies reikalavimai netaikomi. Šilumos energijos, karšto ir
+šalto vandens pirkimo–pardavimo sutartis su buitiniu vartotoju gali būti sudaroma
+ir tuo atveju, kai nėra tiesioginės šių energijos išteklių apskaitos tarp
+energijos tiekėjo ir vartotojo.
 3. Energijos
 pirkimo–pardavimo sutartis yra viešoji sutartis (šio kodekso 6.161 straipsnis).
 4. Kai energijos
@@ -22128,8 +22146,8 @@ asmuo, kuris energiją perka asmeniniams, savo šeimos ar namų ūkio poreikiams
 šio kodekso 6.188 straipsnis ir kiti šio kodekso straipsniai, nustatantys
 vartojimo pirkimo–pardavimo sutarčių ypatumus.
  
-6.384 straipsnis. Energijos pirkimo–pardavimo
-sutarties sudarymas ir pratęsimas
+6.384 straipsnis. Energijos
+pirkimo–pardavimo sutarties sudarymas ir pratęsimas
 1. Jeigu pagal
 sutartį abonentas yra fizinis asmuo – vartotojas, naudojantis energiją savo
 buitinėms reikmėms, tai sutartis laikoma sudaryta nuo vartotojo įrenginių
@@ -22154,8 +22172,8 @@ energijos kiekis nustatomas pagal apskaitos prietaisų rodmenis arba kitu
 sutartyje nurodytu būdu.
 2. Sutartyje
 gali būti numatyta abonento teisė keisti priimamos energijos kiekį tuo atveju,
-jeigu abonentas atlygintų energijos tiekimo įmonės nuostolius, susijusius su sutartyje
-nenumatyto didesnio energijos kiekio tiekimo užtikrinimu.
+jeigu abonentas atlygintų energijos tiekimo įmonės nuostolius, susijusius su
+sutartyje nenumatyto didesnio energijos kiekio tiekimo užtikrinimu.
 3. Abonentas,
 kai jis yra fizinis asmuo – vartotojas, naudojantis energiją savo buitinėms
 reikmėms, gali naudoti tiek energijos, kiek jam reikia.
@@ -22225,11 +22243,11 @@ vienašališkai atsisakyti sutarties šio kodekso 6.217 straipsnyje numatytais
 pagrindais, jeigu sutartis nenumato ko kita.
 3. Energijos
 tiekimą nutraukti, sustabdyti ar apriboti leidžiama tik sutarties šalių
-susitarimu, išskyrus atvejus, kai valstybinės energetikos priežiūros
-institucijos nustato tokius abonento įrenginių trūkumus, dėl kurių gresia
-avarija ar kyla pavojus žmonių gyvybei ir saugumui. Apie energijos tiekimo
-nutraukimą, sustabdymą ar apribojimą energijos tiekimo įmonė privalo iš anksto
-pranešti abonentui.
+susitarimu, išskyrus atvejus, kai valstybinės energetikos priežiūros institucijos
+nustato tokius abonento įrenginių trūkumus, dėl kurių gresia avarija ar kyla
+pavojus žmonių gyvybei ir saugumui. Apie energijos tiekimo nutraukimą,
+sustabdymą ar apribojimą energijos tiekimo įmonė privalo iš anksto pranešti
+abonentui.
 4. Energijos tiekimą
 nutraukti, sustabdyti ar apriboti be suderinimo su abonentu ar be jo
 išankstinio įspėjimo leidžiama tik tais atvejais, kai tai būtina siekiant
@@ -22238,8 +22256,8 @@ išvengti avarijos ar likviduoti energijos tiekimo tinklų avariją. Tačiau ir
 tiekimo nutraukimą, sustabdymą ar apribojimą.
 5. Draudžiama nutraukti
 elektros ir šilumos energijos, vandens ir dujų tiekimą daugiabučiams
-gyvenamiesiems namams dėl namo atskirų butų savininkų (nuomininkų) skolų už
-sunaudotą energiją, vandenį ar dujas.
+gyvenamiesiems namams dėl namo atskirų butų savininkų (nuomininkų) skolų už sunaudotą
+energiją, vandenį ar dujas.
  
 6.391
 straipsnis. Taikymo ribos
@@ -22307,9 +22325,9 @@ straipsnis. Teisės į nekilnojamąjį daiktą parduodant žemės sklypą
 1. Parduodant
 žemės sklypą, kuriame yra pastatų, statinių, įrenginių, sodinių ar kitokių
 objektų, sutartyje turi būti aptartas nuosavybės teisės į juos perėjimo
-klausimas. Jeigu šis klausimas sutartyje neaptartas, laikoma, kad nuosavybės
-teisė į parduotame žemės sklype esančius pastatus, statinius, įrenginius,
-sodinius ir kitokius objektus perėjo žemės sklypo pirkėjui. 
+klausimas. Jeigu šis klausimas sutartyje neaptartas, laikoma, kad nuosavybės teisė
+į parduotame žemės sklype esančius pastatus, statinius, įrenginius, sodinius ir
+kitokius objektus perėjo žemės sklypo pirkėjui. 
 2. Jeigu žemės
 sklypas, kuriame yra pardavėjui nuosavybės teise priklausančių pastatų ar
 kitokių nekilnojamųjų daiktų, parduodamas neperduodant pirkėjui nuosavybės
@@ -22345,10 +22363,10 @@ kaina sutartyje nenurodyta, sutartis laikoma nesudaryta.
 parduodamas žemės sklypas, į jo kainą įeina ir jame esančių pastatų, statinių,
 įrenginių, sodinių ir kitokių objektų kaina, jeigu ko kita nenustato įstatymai
 ar sutartis. 
-3. Jeigu
-nekilnojamojo daikto pirkimo–pardavimo sutartyje nurodyta tik daikto ploto ar
-kitokio jo dydžio vieneto kaina, tai viso daikto kaina nustatoma pagal faktišką
-pirkėjui perduodamo nekilnojamojo daikto dydį.
+3. Jeigu nekilnojamojo
+daikto pirkimo–pardavimo sutartyje nurodyta tik daikto ploto ar kitokio jo
+dydžio vieneto kaina, tai viso daikto kaina nustatoma pagal faktišką pirkėjui
+perduodamo nekilnojamojo daikto dydį.
  
 6.398
 straipsnis. Daikto perdavimas
@@ -22363,10 +22381,10 @@ apie jo perdavimą pasirašymo.
 sutarties šalis vengia pasirašyti sutartyje nurodytą perdavimo dokumentą,
 laikoma, kad pirkėjas atsisako priimti, o pardavėjas atsisako perduoti daiktą.
 4. Aplinkybė,
-kad pirkėjas priėmė pirkimo–pardavimo sutarties sąlygų neatitinkantį nekilnojamąjį
-daiktą, nėra pagrindas atleisti pardavėją nuo atsakomybės už netinkamą
-sutarties įvykdymą net ir tais atvejais, kai toks neatitikimas buvo aptartas
-nekilnojamojo daikto perdavimo dokumente.
+kad pirkėjas priėmė pirkimo–pardavimo sutarties sąlygų neatitinkantį
+nekilnojamąjį daiktą, nėra pagrindas atleisti pardavėją nuo atsakomybės už
+netinkamą sutarties įvykdymą net ir tais atvejais, kai toks neatitikimas buvo
+aptartas nekilnojamojo daikto perdavimo dokumente.
  
 6.399
 straipsnis. Netinkamos kokybės daikto perdavimas
@@ -22391,15 +22409,14 @@ gali sudaryti preliminariąją nepastatyto gyvenamojo namo ar buto
 pirkimo–pardavimo sutartį, pagal kurią pardavėjas – juridinis asmuo
 įsipareigoja pats ar pasitelkęs kitus asmenis pastatyti preliminariojoje
 sutartyje numatytą gyvenamąjį namą ar butą ir po to sudaryti su pirkėju
-gyvenamojo namo ar buto pirkimo–pardavimo sutartį, o pirkėjas įsipareigoja
-pastatytą gyvenamąjį namą ar butą nupirkti už preliminariojoje sutartyje
-nurodytą kainą. 
+gyvenamojo namo ar buto pirkimo–pardavimo sutartį, o pirkėjas įsipareigoja pastatytą
+gyvenamąjį namą ar butą nupirkti už preliminariojoje sutartyje nurodytą kainą. 
 2. Preliminariojoje
 sutartyje privalo būti nurodyta:
 1) pirkėjo teisė per dešimt
 dienų nuo sutarties sudarymo dienos atsisakyti preliminariosios sutarties;
-2) būsimo
-gyvenamojo namo ar buto kaina ir jos patikslinimo ar pakeitimo sąlygos;
+2) būsimo gyvenamojo
+namo ar buto kaina ir jos patikslinimo ar pakeitimo sąlygos;
 3) sutarties
 dalyko aprašymai ir darbai, kuriuos privalo atlikti pardavėjas;
 4) gyvenamojo
@@ -22421,9 +22438,10 @@ preliminariosios sutarties dalis yra gyvenamojo namo ar buto projektas, jo
 sąmata ir kiti dokumentai.
 5. Preliminariojoje
 sutartyje gali būti numatyta, kad pirkėjas finansuoja gyvenamojo namo ar buto
-statybą sutartyje numatytomis sąlygomis, o pardavėjas atlieka užsakovo funkcijas.
-Šiuo atveju visišką nuosavybės teisę į gyvenamąjį namą ar butą pirkėjas įgyja
-nuo visos preliminariojoje sutartyje numatytos statybos kainos sumokėjimo.
+statybą sutartyje numatytomis sąlygomis, o pardavėjas atlieka užsakovo
+funkcijas. Šiuo atveju visišką nuosavybės teisę į gyvenamąjį namą ar butą
+pirkėjas įgyja nuo visos preliminariojoje sutartyje numatytos statybos kainos
+sumokėjimo.
 6. Viena
 preliminariosios sutarties šalis gali įkeisti nepastatytą gyvenamąjį namą ar
 butą tik tuo atveju, kai kita šalis raštu sutinka, jeigu preliminarioji
@@ -22444,14 +22462,14 @@ firmos vardą, prekių ar paslaugų ženklą ar į kitus pardavėją ar jo preke
 teikiamas paslaugas identifikuojančius žymenis, taip pat į teises, kurios
 pardavėjui priklauso pagal licencinę sutartį, pereina pirkėjui, jeigu ko kita
 nenumato sutartis.
-3. Pardavėjo teisės,
-kurias jis įgijo pagal leidimus (licencijas), perduodamos pirkėjui tik tuo
-atveju, jeigu tokio perdavimo galimybė numatyta įstatymuose ar leidime
-(licencijoje). Perdavimas kartu su įmone pirkėjui prievolių, kurių šis negali
-įvykdyti dėl to, kad neturi leidimo (licencijos) tokioms prievolėms vykdyti,
-neatleidžia pardavėjo nuo atsakomybės kreditoriams už tokių prievolių
-neįvykdymą. Šiais atvejais už prievolių neįvykdymą įmonės kreditoriams
-pardavėjas ir pirkėjas atsako solidariai.
+3. Pardavėjo
+teisės, kurias jis įgijo pagal leidimus (licencijas), perduodamos pirkėjui tik
+tuo atveju, jeigu tokio perdavimo galimybė numatyta įstatymuose ar leidime (licencijoje).
+Perdavimas kartu su įmone pirkėjui prievolių, kurių šis negali įvykdyti dėl to,
+kad neturi leidimo (licencijos) tokioms prievolėms vykdyti, neatleidžia
+pardavėjo nuo atsakomybės kreditoriams už tokių prievolių neįvykdymą. Šiais
+atvejais už prievolių neįvykdymą įmonės kreditoriams pardavėjas ir pirkėjas
+atsako solidariai.
  
 6.403
 straipsnis. Sutarties forma
@@ -22528,8 +22546,8 @@ pirkėjas tinkamai įvykdė šiame straipsnyje nustatytas savo pareigas, tai įm
 kreditoriai netenka teisės reikšti jam ar parduotos įmonės turtui jokių
 reikalavimų, tačiau išsaugo teisę reikalauti iš pardavėjo.
  
-6.406 straipsnis. Įmonės kreditorių
-teisių pažeidimo teisinės pasekmės
+6.406 straipsnis. Įmonės kreditorių teisių
+pažeidimo teisinės pasekmės
 1. Jeigu
 pirkėjas netinkamai įvykdė šio kodekso 6.405 straipsnyje nustatytas pareigas,
 tai įmonės pardavimo faktas negali būti panaudotas prieš įmonės kreditorius,
@@ -22563,8 +22581,8 @@ lėšomis, jeigu sutartis nenumato ko kita.
 pripažįstama perduota pirkėjui nuo to momento, kai jos perdavimo–priėmimo aktą
 pasirašo abi šalys.
 4. Atsitiktinio
-įmonės turto žuvimo ar sugedimo rizika pereina pirkėjui nuo įmonės perdavimo–priėmimo
-akto pasirašymo.
+įmonės turto žuvimo ar sugedimo rizika pereina pirkėjui nuo įmonės
+perdavimo–priėmimo akto pasirašymo.
 5. Jeigu
 sutartis numato, kad nuosavybės teisė į įmonę išlieka pardavėjui tol, kol
 pirkėjas sumoka visą kainą, arba iki kitokių aplinkybių įvykdymo, tai pirkėjas,
@@ -22609,9 +22627,9 @@ jeigu tai iš esmės nepažeidžia pardavėjo ir pirkėjo kreditorių teisių ir
  
 6.410
 straipsnis. Atvejai, kuriais šio skirsnio normos netaikomos
-Šio skirsnio normos,
-reglamentuojančios įmonės pirkimą–pardavimą, netaikomos tais atvejais, kai
-parduodamas įkeistas įmonės turtas, taip pat kai įmonės turtą parduoda jos
+Šio skirsnio
+normos, reglamentuojančios įmonės pirkimą–pardavimą, netaikomos tais atvejais,
+kai parduodamas įkeistas įmonės turtas, taip pat kai įmonės turtą parduoda jos
 administratorius ar teismo antstolis.
  
 Dešimtasis skirsnis
@@ -22651,9 +22669,9 @@ ir atsiskaitymo tvarka parduodant jį išsimokėtinai nustatoma šalių susitari
 Jeigu šalys sutartyje nenustatė kitaip, tai vėlesnis išsimokėtinai parduotų
 daiktų kainos pasikeitimas neturi įtakos šalių tarpusavio atsiskaitymui. Kai
 pirkėjas nesilaiko sutartyje nustatytų periodinių įmokų mokėjimo terminų, o
-nuosavybės teisė į daiktą išlieka pardavėjui, pardavėjas turi teisę pareikalauti
-sumokėti visą kainą iš karto arba atsiimti parduotą daiktą. Jeigu sutartyje
-nenumatyta kas kita, iš atsiėmusio daiktą pardavėjo pirkėjas turi teisę
+nuosavybės teisė į daiktą išlieka pardavėjui, pardavėjas turi teisę
+pareikalauti sumokėti visą kainą iš karto arba atsiimti parduotą daiktą. Jeigu
+sutartyje nenumatyta kas kita, iš atsiėmusio daiktą pardavėjo pirkėjas turi teisę
 reikalauti grąžinti savo įmokas. Kai pirkėjas yra sumokėjęs daugiau kaip pusę
 daiktų kainos, pardavėjas neturi teisės reikalauti grąžinti daiktus, jeigu
 sutartis nenumato ko kita. Iš grąžintinų įmokų atskaitomos sutartyje numatyto
@@ -22685,8 +22703,8 @@ sumokėjimo.
 pirkimo–pardavimo išsimokėtinai ypatumai, kai pirkėjas yra vartotojas
 Jeigu pirkėjas
 yra vartotojas, tai daiktų pirkimo–pardavimo išsimokėtinai sutarčiai
-atitinkamai taikomas šio kodekso 6.188 straipsnis ir kitos vartotojų teises ginančios
-teisės normos.
+atitinkamai taikomas šio kodekso 6.188 straipsnis ir kitos vartotojų teises
+ginančios teisės normos.
  
 Vienuoliktasis skirsnis
 Pirkimas–pardavimas su atpirkimo teise
@@ -22704,8 +22722,8 @@ perkami paslaugoms teikti arba įmonės verslui, gali būti panaudota prieš
 trečiuosius asmenis tik tuo atveju, jeigu ji įstatymų nustatyta tvarka
 įregistruota viešame registre.
 3. Pardavėjas
-atpirkimo teisę turi ne ilgiau kaip penkerius metus. Jeigu sutartis numato ilgesnį
-šios teisės terminą, jis sutrumpinamas iki penkerių metų.
+atpirkimo teisę turi ne ilgiau kaip penkerius metus. Jeigu sutartis numato
+ilgesnį šios teisės terminą, jis sutrumpinamas iki penkerių metų.
  
 6.418
 straipsnis. Atpirkimo teisės įgyvendinimas
@@ -22714,9 +22732,9 @@ norėdamas pasinaudoti atpirkimo teise, turi apie tai pranešti pirkėjui arba b
 kuriam kitam asmeniui, iš kurio jis žada atpirkti. Toks pranešimas turi būti
 viešai paskelbtas ne vėliau kaip prieš dvidešimt dienų iki pasinaudojimo
 atpirkimo teise dienos, jei daiktas yra kilnojamasis, ir ne vėliau kaip prieš
-šešiasdešimt dienų, – jei daiktas nekilnojamasis. Jeigu sutartis buvo įregistruota,
-apie pageidavimą pasinaudoti atpirkimo teise turi būti pranešta ir viešo
-registro tvarkytojui.
+šešiasdešimt dienų, – jei daiktas nekilnojamasis. Jeigu sutartis buvo
+įregistruota, apie pageidavimą pasinaudoti atpirkimo teise turi būti pranešta
+ir viešo registro tvarkytojui.
 2. Pardavėjas,
 įgyvendindamas atpirkimo teisę, daiktą atsiima be jokių teisės į tą daiktą
 suvaržymų ir apribojimų ar papildomų įmokų ir atlyginimo pirkėjui, jeigu
@@ -22786,8 +22804,8 @@ aukciono vedėjo registre apie pasiūlymą ir laimėtojo pavardė (pavadinimas) 
 sutarties sudarymo įrodymas. Jeigu toks įrašas nebuvo padarytas, sutarties
 sudarymo faktą galima įrodinėti remiantis liudytojų parodymais.
 3. Jeigu
-aukcione parduotas nekilnojamasis daiktas, tai per dešimt dienų nuo pardavimo
-pardavėjas ir pirkėjas turi sudaryti įstatymų reikalaujamos formos sutartį.
+aukcione parduotas nekilnojamasis daiktas, tai per dešimt dienų nuo pardavimo pardavėjas
+ir pirkėjas turi sudaryti įstatymų reikalaujamos formos sutartį.
 4. Jeigu
 aukcione parduodama įmonė, tai būtina laikytis ir šio kodekso 6.403–6.407
 straipsniuose numatytų reikalavimų.
@@ -22861,12 +22879,13 @@ notarai, teismo antstoliai, jų šeimos nariai ir artimieji giminaičiai. Šių
 asmenų sudarytos ginčijamų teisių pirkimo–pardavimo sutartys negalioja.
 3. Jeigu
 ginčijamos teisės parduotos, asmuo, iš kurio šios teisės išreikalaujamos,
-visiškai atleidžiamas nuo prievolės po to, kai sumoka pirkėjui pirkimo–pardavimo
-sutarties kainą, pirkimo–pardavimo sutarties sudarymo išlaidas ir palūkanas,
-skaičiuojamas nuo kainos. Ši išpirkimo teisė negali būti įgyvendinama, jeigu
-teisės parduotos kreditoriui kaip skolos grąžinimas arba vienam iš parduotos
-teisės įpėdinių ar bendraturčių. Išpirkimo teisė taip pat negali būti
-įgyvendinama, jeigu teismas priėmė sprendimą, pripažįstantį parduotą teisę.
+visiškai atleidžiamas nuo prievolės po to, kai sumoka pirkėjui
+pirkimo–pardavimo sutarties kainą, pirkimo–pardavimo sutarties sudarymo
+išlaidas ir palūkanas, skaičiuojamas nuo kainos. Ši išpirkimo teisė negali būti
+įgyvendinama, jeigu teisės parduotos kreditoriui kaip skolos grąžinimas arba
+vienam iš parduotos teisės įpėdinių ar bendraturčių. Išpirkimo teisė taip pat
+negali būti įgyvendinama, jeigu teismas priėmė sprendimą, pripažįstantį
+parduotą teisę.
  
 Keturioliktasis skirsnis
 Kitokių pirkimo–pardavimo sutarčių ypatumai
@@ -23060,14 +23079,14 @@ sutarties sudarymo metu rentos gavėjas buvo jau pradėtas ir gimė gyvas.
 kurioje renta nustatyta iki gyvos galvos paeiliui keliems asmenims, galioja tik
 tuo atveju, jeigu pirmasis iš tų asmenų sutarties sudarymo metu realiai buvo
 arba buvo jau pradėtas ir gimė gyvas.
-6. Visais atvejais
-rentos sutarties terminas negali būti ilgesnis nei šimtas metų nuo sutarties
-sudarymo dienos.
+6. Visais
+atvejais rentos sutarties terminas negali būti ilgesnis nei šimtas metų nuo
+sutarties sudarymo dienos.
  
 6.443
 straipsnis. Rentos sutarties forma
-1. Rentos
-sutartis turi būti notarinės formos.
+1. Rentos sutartis
+turi būti notarinės formos.
 2. Rentos
 sutartis, pagal kurią rentos gavėjas turi perleisti rentos mokėtojui
 nekilnojamąjį daiktą, gali būti panaudota prieš trečiuosius asmenis tik tuo
@@ -23137,9 +23156,9 @@ Neterminuota (nuolatinė) renta
 6.449
 straipsnis. Neterminuotos (nuolatinės) rentos gavėjai
 1. Neterminuotos
-(nuolatinės) rentos gavėjai gali būti tik fiziniai asmenys arba pelno nesiekiantys
-juridiniai asmenys, kurie verčiasi globa (rūpyba), jeigu tai neprieštarauja
-įstatymams ir jų veiklos dokumentams.
+(nuolatinės) rentos gavėjai gali būti tik fiziniai asmenys arba pelno
+nesiekiantys juridiniai asmenys, kurie verčiasi globa (rūpyba), jeigu tai
+neprieštarauja įstatymams ir jų veiklos dokumentams.
 2. Neterminuotos
 (nuolatinės) rentos gavėjo teisės gali būti perduotos reikalavimo perleidimo
 arba paveldėjimo būdu arba reorganizuojant juridinį asmenį, jeigu sutartis ar
@@ -23329,10 +23348,10 @@ straipsnis. Išlaikymo iki gyvos galvos nutraukimas
 išlaikyti asmenį iki gyvos galvos baigiasi po rentos gavėjo mirties.
 2. Jeigu rentos
 mokėtojas iš esmės pažeidžia sutartį, tai rentos gavėjas turi teisę reikalauti
-iš rentos mokėtojo, kad šis grąžintų perduotą nekilnojamąjį daiktą arba
-sumokėtų daikto išperkamąją kainą šio kodekso 6.454 straipsnyje numatytomis
-sąlygomis. Šiuo atveju rentos mokėtojas neturi teisės reikalauti atlyginti jam
-išlaidas, susijusias su rentos gavėjo išlaikymu.
+iš rentos mokėtojo, kad šis grąžintų perduotą nekilnojamąjį daiktą arba sumokėtų
+daikto išperkamąją kainą šio kodekso 6.454 straipsnyje numatytomis sąlygomis.
+Šiuo atveju rentos mokėtojas neturi teisės reikalauti atlyginti jam išlaidas,
+susijusias su rentos gavėjo išlaikymu.
  
 XXVII skyrius
 Dovanojimas
@@ -23376,9 +23395,9 @@ daryti kitokios išvados.
  
 6.467
 straipsnis. Dovanojimo su sąlyga sutartis
-1. Asmuo,
-dovanodamas turtą, gali nustatyti sąlygą, kad šis turtas turi būti naudojamas
-tam tikram tikslui nepažeidžiant kitų asmenų teisių ir teisėtų interesų.
+1. Asmuo, dovanodamas
+turtą, gali nustatyti sąlygą, kad šis turtas turi būti naudojamas tam tikram
+tikslui nepažeidžiant kitų asmenų teisių ir teisėtų interesų.
 2. Jeigu
 apdovanotasis nevykdo dovanojimo sutartyje nustatytos sąlygos, tai dovanotojas
 teismo tvarka turi teisę reikalauti, kad sąlyga būtų įvykdyta arba kad būtų
@@ -23395,10 +23414,10 @@ išskyrus atvejus, kai būsima skola ar prievolė sutartyje tiksliai apibrėžta
 straipsnis. Apdovanotojo teisė atsisakyti priimti dovaną 
 1. Apdovanotasis
 turi teisę bet kada iki dovanos perdavimo jam atsisakyti priimti dovaną.
-2. Jeigu
-dovanojimo sutartis buvo rašytinė, tai dovanotojas turi teisę reikalauti iš
-apdovanotojo, nepagrįstai atsisakiusio priimti dovaną, atlyginti dėl atsisakymo
-atsiradusius nuostolius.
+2. Jeigu dovanojimo
+sutartis buvo rašytinė, tai dovanotojas turi teisę reikalauti iš apdovanotojo,
+nepagrįstai atsisakiusio priimti dovaną, atlyginti dėl atsisakymo atsiradusius
+nuostolius.
  
 6.469
 straipsnis. Dovanojimo sutarties forma
@@ -23483,14 +23502,13 @@ reikšmės, elgiasi taip, kad kyla reali to turto žuvimo grėsmė.
 dovanojimas panaikinamas, apdovanotasis privalo grąžinti dovanotą turtą, jeigu
 jis dovanojimo panaikinimo metu yra išlikęs, dovanotojui pagal šios knygos
 normas, reglamentuojančias restituciją.
-4. Šiame
-straipsnyje numatytais pagrindais reikalauti panaikinti dovanojimą dovanotojas
-ar jo įpėdiniai gali per vienerių metų ieškinio senaties terminą, skaičiuojamą
-nuo tos dienos, kurią jie sužinojo arba turėjo sužinoti apie tokio pagrindo
+4. Šiame straipsnyje
+numatytais pagrindais reikalauti panaikinti dovanojimą dovanotojas ar jo
+įpėdiniai gali per vienerių metų ieškinio senaties terminą, skaičiuojamą nuo
+tos dienos, kurią jie sužinojo arba turėjo sužinoti apie tokio pagrindo
 atsiradimą.
-5. Šio
-straipsnio taisyklės netaikomos, kai dovana buvo buitinio pobūdžio ir nedidelės
-vertės.
+5. Šio straipsnio
+taisyklės netaikomos, kai dovana buvo buitinio pobūdžio ir nedidelės vertės.
  
 6.473
 straipsnis. Dovanotojo pareigos
@@ -23564,9 +23582,9 @@ mokėti nuomos mokestį.
 sutarties dalykas gali būti bet kokie nesunaudojamieji daiktai. Įstatymai gali
 nustatyti daiktų, kurių nuoma draudžiama arba ribojama, rūšis.
 3. Nuomos
-sutartyje turi būti nurodytas daiktas ar jo požymiai, leidžiantys nustatyti daiktą,
-kurį nuomotojas privalo perduoti nuomininkui. Jeigu tokie požymiai sutartyje
-nenurodyti ir nuomos sutarties dalyko negalima nustatyti remiantis kitais
+sutartyje turi būti nurodytas daiktas ar jo požymiai, leidžiantys nustatyti
+daiktą, kurį nuomotojas privalo perduoti nuomininkui. Jeigu tokie požymiai
+sutartyje nenurodyti ir nuomos sutarties dalyko negalima nustatyti remiantis kitais
 požymiais, tai nuomos sutartis laikoma nesudaryta.
 4. Nuomotojas
 gali būti išnuomojamo daikto savininkas arba asmenys, kuriems teisę išnuomoti
@@ -23574,8 +23592,8 @@ svetimą daiktą suteikia įstatymai ar to daikto savininkas.
  
 6.478
 straipsnis. Sutarties forma
-1. Nuomos
-sutartis ilgesniam kaip vienerių metų terminui turi būti rašytinė.
+1. Nuomos sutartis
+ilgesniam kaip vienerių metų terminui turi būti rašytinė.
 2.
 Nekilnojamųjų daiktų nuomos sutartis, sudaryta ilgesniam kaip vienerių metų
 terminui, prieš trečiuosius asmenis gali būti panaudota tik tuo atveju, jeigu
@@ -23595,8 +23613,8 @@ kitokius daikto, kuris yra valstybės nuosavybė, nuomos terminus.
 6.480
 straipsnis. Neterminuotos nuomos sutarties pasekmės
 Jeigu nuomos sutartis yra
-neterminuota, tai abi šalys turi teisę bet kada nutraukti sutartį įspėjusios apie
-tai viena kitą prieš vieną mėnesį iki nutraukimo, o kai nuomojami
+neterminuota, tai abi šalys turi teisę bet kada nutraukti sutartį įspėjusios
+apie tai viena kitą prieš vieną mėnesį iki nutraukimo, o kai nuomojami
 nekilnojamieji daiktai, – prieš tris mėnesius iki nutraukimo. Nuomos sutartyje
 gali būti nurodyti ir ilgesni įspėjimo terminai.
  
@@ -23621,12 +23639,11 @@ nuomos sutartį naujam terminui, jos sąlygos šalių susitarimu gali būti
 pakeistos.
 4. Jeigu
 nuomotojas atsisakė sudaryti su nuomininku sutartį naujam terminui, tačiau,
-praėjus ne daugiau kaip vieneriems metams po nuomos sutarties pabaigos,
-nepranešęs buvusiam nuomininkui sudaro to paties daikto nuomos sutartį su kitu
-asmeniu, tai buvęs nuomininkas savo pasirinkimu turi teisę reikalauti arba
-perduoti jam nuomininko teises ir pareigas pagal sudarytą nuomos sutartį, arba
-atlyginti dėl atsisakymo sudaryti sutartį naujam terminui atsiradusius
-nuostolius.
+praėjus ne daugiau kaip vieneriems metams po nuomos sutarties pabaigos, nepranešęs
+buvusiam nuomininkui sudaro to paties daikto nuomos sutartį su kitu asmeniu,
+tai buvęs nuomininkas savo pasirinkimu turi teisę reikalauti arba perduoti jam
+nuomininko teises ir pareigas pagal sudarytą nuomos sutartį, arba atlyginti dėl
+atsisakymo sudaryti sutartį naujam terminui atsiradusius nuostolius.
  
 Antrasis skirsnis
 Nuomos sutarties šalių teisės ir pareigos
@@ -23634,9 +23651,9 @@ Nuomos sutarties šalių teisės ir pareigos
 6.483
 straipsnis. Daikto perdavimas nuomininkui
 1. Nuomotojas
-privalo perduoti nuomininkui sutarties sąlygas bei daikto paskirtį
-atitinkančios būklės daiktą. Nuomotojas privalo garantuoti, kad daiktas bus
-tinkamas naudoti pagal paskirtį, kuriai jis išnuomojamas, visą nuomos terminą.
+privalo perduoti nuomininkui sutarties sąlygas bei daikto paskirtį atitinkančios
+būklės daiktą. Nuomotojas privalo garantuoti, kad daiktas bus tinkamas naudoti
+pagal paskirtį, kuriai jis išnuomojamas, visą nuomos terminą.
 2. Nuomotojas
 neatsako už tuos daikto trūkumus, kuriuos jis aptarė sudarydamas sutartį.
 3. Nuomotojas
@@ -23662,11 +23679,11 @@ atsako už išnuomoto daikto trūkumus, kurie visiškai ar iš dalies kliudo nau
 daiktą pagal paskirtį, net ir tais atvejais, kai nuomotojas sudarydamas sutartį
 apie tuos trūkumus nežinojo.
 2. Nuomininkas,
-jeigu paaiškėja šio straipsnio 1 dalyje numatytų trūkumų, turi teisę savo
-pasirinkimu:
+jeigu paaiškėja šio straipsnio 1 dalyje numatytų trūkumų, turi teisę savo pasirinkimu:
 1) reikalauti,
-kad nuomotojas neatlygintinai tuos trūkumus pašalintų arba atitinkamai sumažintų
-nuomos mokestį, arba atlygintų nuomininkui trūkumų pašalinimo išlaidas;
+kad nuomotojas neatlygintinai tuos trūkumus pašalintų arba atitinkamai
+sumažintų nuomos mokestį, arba atlygintų nuomininkui trūkumų pašalinimo
+išlaidas;
 2) išskaičiuoti
 iš nuomos mokesčio trūkumų pašalinimo išlaidas, jei apie tai iš anksto pranešė
 nuomotojui;
@@ -23726,10 +23743,10 @@ išnuomoti.
  4. Šalys gali
 susitarti dėl mišraus šių nuomos mokesčio nustatymo būdų taikymo arba gali
 nustatyti kitokį nuomos mokesčio apskaičiavimo būdą.
-5. Kai kas kita
-nenumatyta nuomos sutartyje, nuomos mokestis gali būti šalių susitarimu
-keičiamas jų suderintais terminais, bet ne dažniau kaip du kartus per metus,
-jeigu įstatymai nenustato ko kita.
+5. Kai kas kita nenumatyta
+nuomos sutartyje, nuomos mokestis gali būti šalių susitarimu keičiamas jų
+suderintais terminais, bet ne dažniau kaip du kartus per metus, jeigu įstatymai
+nenustato ko kita.
 6. Jeigu ko kita
 nenustato nuomos sutartis ir nuomininkas iš esmės pažeidė nuomos mokesčio
 mokėjimo terminus, tai nuomotojas turi teisę pareikalauti, kad nuomininkas per
@@ -23818,9 +23835,9 @@ privalo sudaryti visas sąlygas šio straipsnio 1 dalyje numatytai nuomotojo
 pareigai tinkamai įvykdyti.
 4. Nuomotojas,
 vykdydamas šio straipsnio 1 dalyje numatytą pareigą, turi teisę pareikalauti,
-kad nuomininkas laikinai atsisakytų naudotis išsinuomotu daiktu, jeigu kapitalinis
-remontas yra būtinas ir neatidėliotinas. Jeigu kapitalinis remontas nėra
-neatidėliotinas ir nuomininkas nesutinka laikinai atsisakyti teisės naudotis
+kad nuomininkas laikinai atsisakytų naudotis išsinuomotu daiktu, jeigu
+kapitalinis remontas yra būtinas ir neatidėliotinas. Jeigu kapitalinis remontas
+nėra neatidėliotinas ir nuomininkas nesutinka laikinai atsisakyti teisės naudotis
 daiktu, nuomotojas privalo gauti teismo leidimą laikinai apriboti nuomininko
 teisę naudotis išsinuomotu daiktu.
 5. Nuomininkas,
@@ -23842,7 +23859,8 @@ nuomotojas, gavęs nuomininko pranešimą, daikto trūkumų nepašalina, nuomini
 turi teisę pradėti būtinus daikto remonto darbus ir be teismo leidimo, kai tai
 būtina daiktui išsaugoti, apie tai pranešti nuomotojui ir vėliau pateikti
 atliktų darbų vertę patvirtinančius dokumentus bei pakeistas daikto dalis.
-Prireikus nuomininkas būtiną daikto remontą gali atlikti nuomos mokesčio sąskaita.
+Prireikus nuomininkas būtiną daikto remontą gali atlikti nuomos mokesčio
+sąskaita.
  
 6.494 straipsnis. Sutarties galiojimas
 daikto perėjimo kitam savininkui ar nuomininko mirties atvejais
@@ -23854,16 +23872,16 @@ registre.
 2. Nuomos
 sutartis lieka galioti ir tais atvejais, kai daiktas iš vienos valstybinės
 (savivaldybių) institucijos (nuomotojo) pereina kitai.
-3. Išnuomoto daikto
-nuosavybės perėjimas iš nuomotojo kitam asmeniui yra pagrindas nuomos sutarčiai
-pasibaigti, jeigu to reikalauja nuomininkas.
+3. Išnuomoto
+daikto nuosavybės perėjimas iš nuomotojo kitam asmeniui yra pagrindas nuomos
+sutarčiai pasibaigti, jeigu to reikalauja nuomininkas.
 4. Kai
 nuomininkas – fizinis asmuo, išsinuomavęs nekilnojamąjį daiktą, miršta, jo
 teisės ir pareigos pereina įpėdiniams, jeigu įstatymai ar nuomos sutartis
 nenustato ko kita. Šiais atvejais nuomotojas neturi teisės neleisti mirusio
 nuomininko įpėdiniui perimti nuomininko teises ir pareigas likusiam nuomos
-terminui, išskyrus atvejus, kai nuomos sutarties sudarymas buvo nulemtas nuomininko
-asmeninių savybių.
+terminui, išskyrus atvejus, kai nuomos sutarties sudarymas buvo nulemtas
+nuomininko asmeninių savybių.
 5. Daikto paėmimo
 visuomenės poreikiais (ekspropriacijos) atveju nuomos sutartis baigiasi nuo to
 momento, kai eksproprijuotą daiktą pradeda valdyti naujas jo savininkas
@@ -23938,10 +23956,10 @@ straipsnis. Daikto grąžinimas nuomotojui
 sutarčiai pasibaigus, nuomininkas privalo grąžinti nuomotojui daiktą tokios
 būklės, kokios gavo, atsižvelgiant į normalų nusidėvėjimą, arba sutartyje
 sulygtos būklės.
-2. Jeigu
-nuomininkas daiktą grąžina pavėluotai, tai nuomotojas turi teisę reikalauti,
-kad nuomininkas sumokėtų nuomos mokestį už visą laiką, kurį buvo pavėluota
-grąžinti daiktą bei atlyginti nuostolius.
+2. Jeigu nuomininkas
+daiktą grąžina pavėluotai, tai nuomotojas turi teisę reikalauti, kad
+nuomininkas sumokėtų nuomos mokestį už visą laiką, kurį buvo pavėluota grąžinti
+daiktą bei atlyginti nuostolius.
 3. Kai
 nuomininkas daikto negrąžina, jis turi atlyginti nuomotojui to daikto vertę,
 taip pat sumokėti nuomos mokestį bei atlyginti kitus nuomotojo patirtus
@@ -23962,8 +23980,8 @@ turėtų šiam tikslui būtinų išlaidų atlyginimą, išskyrus tuos atvejus, k
 įstatymai arba sutartis numato ką kita.
 2. Nuomininko
 padarytus be nuomotojo leidimo pagerinimus, jeigu juos galima atskirti be žalos
-išsinuomotam daiktui ir jeigu nuomotojas nesutinka atlyginti jų vertės,
-nuomininkas gali pasiimti.
+išsinuomotam daiktui ir jeigu nuomotojas nesutinka atlyginti jų vertės, nuomininkas
+gali pasiimti.
 3. Nuomininko
 padarytų be nuomotojo leidimo ir neatskiriamų be žalos išsinuomotam daiktui
 pagerinimų vertės neprivaloma atlyginti.
@@ -23975,9 +23993,9 @@ atsako už daikto praradimą, jeigu neįrodo, kad taip atsitiko ne dėl jo ar ki
 asmenų, kuriems jis nuomotojo leidimu suteikė naudojimosi teisę ar galimybę
 naudotis išsinuomotu daiktu, kaltės.
 2. Nuomininkas
-neatsako už nekilnojamojo daikto žuvimą dėl gaisro, jeigu neįrodoma, kad
-gaisras kilo dėl jo ar kitų asmenų, kuriems jis nuomotojo leidimu suteikė
-naudojimosi teisę ar galimybę naudotis išsinuomotu daiktu, kaltės.
+neatsako už nekilnojamojo daikto žuvimą dėl gaisro, jeigu neįrodoma, kad gaisras
+kilo dėl jo ar kitų asmenų, kuriems jis nuomotojo leidimu suteikė naudojimosi
+teisę ar galimybę naudotis išsinuomotu daiktu, kaltės.
  
 6.503
 straipsnis. Nuomojamo daikto išpirkimas
@@ -23986,9 +24004,9 @@ arba nuomos sutartis gali numatyti, kad išnuomotas daiktas pereina nuomininkui
 nuosavybės teise pasibaigus nuomos sutarties terminui arba iki šio pabaigos,
 jeigu nuomininkas sumoka visą sutartyje numatytą kainą (išperkamoji nuoma).
 2. Jeigu
-sutartyje daikto išpirkimo sąlyga nenumatyta, ji gali būti nustatyta šalių
-papildomu susitarimu, kuriame šalys gali nurodyti, kad anksčiau sumokėtas
-nuomos mokestis įskaitomas į daikto kainą.
+sutartyje daikto išpirkimo sąlyga nenumatyta, ji gali būti nustatyta šalių papildomu
+susitarimu, kuriame šalys gali nurodyti, kad anksčiau sumokėtas nuomos mokestis
+įskaitomas į daikto kainą.
 3. Įstatymai ar
 sutartis gali nustatyti draudimą išpirkti nuomojamą daiktą.
  
@@ -24044,9 +24062,9 @@ straipsnis. Išnuomoto daikto trūkumų pašalinimas
 1. Kai nustatoma
 išnuomoto daikto trūkumų, dėl kurių daiktu visiškai ar iš dalies negalima
 naudotis, nuomotojas privalo per dešimt dienų nuo tos dienos, kurią gavo
-nuomininko pranešimą apie trūkumus, jeigu sutartis nenustato trumpesnio
-termino, neatlygintinai pašalinti daikto trūkumus daikto buvimo vietoje arba
-pakeisti tą daiktą kitu analogišku tinkamu daiktu.
+nuomininko pranešimą apie trūkumus, jeigu sutartis nenustato trumpesnio termino,
+neatlygintinai pašalinti daikto trūkumus daikto buvimo vietoje arba pakeisti tą
+daiktą kitu analogišku tinkamu daiktu.
 2. Jeigu
 daikto trūkumų atsirado dėl to, kad nuomininkas pažeidė daikto naudojimo ir
 laikymo taisykles, tai nuomininkas turi atlyginti nuomotojui daikto remonto ir
@@ -24054,13 +24072,13 @@ gabenimo išlaidas.
  
 6.510
 straipsnis. Nuomos mokestis
-1. Nuomos mokestis
-nustatomas sutartyje pinigų suma, kuri sumokama iš karto arba periodiškai per
-kelis kartus.
+1. Nuomos
+mokestis nustatomas sutartyje pinigų suma, kuri sumokama iš karto arba
+periodiškai per kelis kartus.
 2. Jeigu
 nuomininkas daiktą grąžina nuomotojui prieš terminą, tai nuomotojas turi
-grąžinti nuomininkui atitinkamą gauto nuomos mokesčio dalį, apskaičiuotą nuo dienos,
-einančios po faktiško daikto grąžinimo dienos.
+grąžinti nuomininkui atitinkamą gauto nuomos mokesčio dalį, apskaičiuotą nuo
+dienos, einančios po faktiško daikto grąžinimo dienos.
 3. Nuomotojas
 neturi teisės vienašališkai padidinti nuomos mokestį po sutarties sudarymo.
  
@@ -24145,9 +24163,9 @@ neprieštarauja transporto priemonės naudojimo tikslams.
 6.519
 straipsnis. Atsakomybė už transporto priemonei padarytą žalą
 Kai nuomojama
-transporto priemonė žūva arba sugadinama, nuomininkas privalo atlyginti nuomotojui
-padarytus nuostolius, jeigu nuomotojas įrodo, kad transporto priemonė žuvo ar
-buvo sugadinta dėl aplinkybių, už kurias atsako nuomininkas.
+transporto priemonė žūva arba sugadinama, nuomininkas privalo atlyginti
+nuomotojui padarytus nuostolius, jeigu nuomotojas įrodo, kad transporto
+priemonė žuvo ar buvo sugadinta dėl aplinkybių, už kurias atsako nuomininkas.
  
 6.520
 straipsnis. Atsakomybė už tretiesiems asmenims padarytą žalą
@@ -24181,9 +24199,9 @@ taisyklės.
  
 6.523
 straipsnis. Sutarties forma
-Transporto
-priemonės nuomos neteikiant vairavimo ir techninės priežiūros paslaugų sutartis
-nepaisant jos termino turi būti rašytinė.
+Transporto priemonės
+nuomos neteikiant vairavimo ir techninės priežiūros paslaugų sutartis nepaisant
+jos termino turi būti rašytinė.
  
 6.524
 straipsnis. Pareiga prižiūrėti transporto priemonę
@@ -24218,8 +24236,9 @@ neprieštarauja transporto priemonės naudojimo tikslams.
  
 6.528
 straipsnis. Atsakomybė už tretiesiems asmenims padarytą žalą
-Už žalą, padarytą
-nuomojama transporto priemone tretiesiems asmenims, atsako nuomininkas.
+Už žalą,
+padarytą nuomojama transporto priemone tretiesiems asmenims, atsako
+nuomininkas.
  
 6.529 straipsnis. Atskirų rūšių
 transporto priemonių nuomos neteikiant vairavimo ir techninės priežiūros
@@ -24328,11 +24347,11 @@ kompleksu nuomininkui perduodamas žemės sklypas, pastatai, statiniai,
 įrengimai, mechanizmai bei kitos sutartyje numatytos gamybos priemonės,
 žaliavos, atsargos, apyvartinės lėšos, teisės naudotis žeme, vandeniu ir kitais
 gamtos ištekliais, pastatais, statiniais ar įrenginiais, kitos su įmone
-susijusios nuomotojo turtinės teisės, teisė į prekių ar paslaugų ženklą bei firmos
-vardą ir kitos išimtinės teisės, taip pat perleidžiamos reikalavimo teisės ir
-perkeliamos skolos, numatytos nuomos sutartyje. Teisė valdyti turtą, kuris yra
-kito asmens nuosavybė, ir juo naudotis, taip pat teisė valdyti žemės sklypą ir
-gamtos išteklius ir jais naudotis, perduodamos įstatymų nustatyta tvarka.
+susijusios nuomotojo turtinės teisės, teisė į prekių ar paslaugų ženklą bei
+firmos vardą ir kitos išimtinės teisės, taip pat perleidžiamos reikalavimo
+teisės ir perkeliamos skolos, numatytos nuomos sutartyje. Teisė valdyti turtą, kuris
+yra kito asmens nuosavybė, ir juo naudotis, taip pat teisė valdyti žemės sklypą
+ir gamtos išteklius ir jais naudotis, perduodamos įstatymų nustatyta tvarka.
 2. Nuomotojo
 teisės, įgytos jam išduoto leidimo (licencijos) pagrindu, pagal įmonės nuomos
 sutartį negali būti perduotos nuomininkui, išskyrus įstatymų ar sutarties
@@ -24406,9 +24425,9 @@ nenumato ko kita.
 6.542
 straipsnis. Įmonės pagerinimai
 1. Nuomininkas
-turi teisę į neatskiriamo įmonės pagerinimo išlaidų atlyginimą, jeigu buvo
-gautas nuomotojo sutikimas tokiam pagerinimui atlikti, išskyrus atvejus, kai
-įmonės nuomos sutartis nenumato ko kita.
+turi teisę į neatskiriamo įmonės pagerinimo išlaidų atlyginimą, jeigu buvo gautas
+nuomotojo sutikimas tokiam pagerinimui atlikti, išskyrus atvejus, kai įmonės
+nuomos sutartis nenumato ko kita.
 2. Nuomotojas
 gali būti atleistas nuo šio straipsnio 1 dalyje numatytų išlaidų atlyginimo,
 jeigu įrodo, kad dėl nuomininko išlaidų įmonės vertė padidėja neproporcingai
@@ -24421,7 +24440,8 @@ ir kitokių teisinių pasekmių atsiradimas įmonės nuomos sutartims
 taisyklės, nustatančios sandorių negaliojimo, sutarties nutraukimo ar pakeitimo
 teisines pasekmes, taip pat nustatančios turto grąžinimą ar išieškojimą natūra,
 taikomos įmonės nuomos sutartims, jeigu tai iš esmės nepažeidžia nuomotojo,
-nuomininko ar kitų asmenų teisių ir interesų ir neprieštarauja viešajai tvarkai.
+nuomininko ar kitų asmenų teisių ir interesų ir neprieštarauja viešajai
+tvarkai.
  
 6.544
 straipsnis. Išnuomotos įmonės grąžinimas
@@ -24498,8 +24518,8 @@ Nr. XI-747,
 6.549
 straipsnis. Žemės nuomos sutarties terminas
 1. Privačios
-žemės nuomos sutarties terminas nustatomas nuomotojo ir nuomininko susitarimu. Šalys
-gali sudaryti ir neterminuotą žemės nuomos sutartį.
+žemės nuomos sutarties terminas nustatomas nuomotojo ir nuomininko susitarimu.
+Šalys gali sudaryti ir neterminuotą žemės nuomos sutartį.
 2. Valstybinės
 žemės nuomos sutarties terminas nustatomas nuomotojo ir nuomininko susitarimu,
 bet ne ilgiau kaip devyniasdešimt devyneriems metams.
@@ -24590,8 +24610,7 @@ subnuomoti pagal žemės nuomos sutartyje nustatytus reikalavimus ir sąlygas.
 paskirties žemės kitai paskirčiai, negu numatyta žemės nuomos sutartyje,
 subnuomoti negalima.
 3. Žemės
-subnuomos sutartis sudaroma laikantis žemės nuomos sutarčiai nustatytų
-reikalavimų.
+subnuomos sutartis sudaroma laikantis žemės nuomos sutarčiai nustatytų reikalavimų.
  
 6.554 straipsnis. Nuomininko išlaidų
 žemės ūkio paskirties žemei pagerinti atlyginimas
@@ -24620,11 +24639,11 @@ išlaidas, būtinas išnuomoto turto funkcionavimui užtikrinti.
 išsaugoti dirvožemį ir jo kokybę, tvarkingai išlaikyti melioracijos įrenginius,
 kelius, tiltus, kitus inžinerinius įrenginius bei želdinius
 1. Nuomininkui
-išsinuomotame žemės sklype draudžiama atlikti veiksmus, kuriais būtų sunaikintas
-ar užterštas derlingasis dirvožemio sluoksnis. Nuomininkas privalo savo lėšomis
-atlikti nuomotojui priklausančių melioracijos įrenginių, kelių, tiltų, kitų
-inžinerinių įrenginių smulkius priežiūros darbus įstatymų nustatyta tvarka,
-saugoti apsauginius ir kitus ženklus, taip pat užtikrinti teritorijos
+išsinuomotame žemės sklype draudžiama atlikti veiksmus, kuriais būtų
+sunaikintas ar užterštas derlingasis dirvožemio sluoksnis. Nuomininkas privalo
+savo lėšomis atlikti nuomotojui priklausančių melioracijos įrenginių, kelių, tiltų,
+kitų inžinerinių įrenginių smulkius priežiūros darbus įstatymų nustatyta
+tvarka, saugoti apsauginius ir kitus ženklus, taip pat užtikrinti teritorijos
 aplinkosaugos reikalavimus, jeigu žemės nuomos sutartyje nenumatyta ko kita.
 Jeigu nuomininkas šių pareigų nevykdo, nuomotojas turi teisę iš nuomininko
 išieškoti lėšas nurodytiems darbams atlikti bei nuostolius, patirtus dėl šiame
@@ -24640,8 +24659,8 @@ kompensaciją už pastatytus pastatus, statinius ir įrenginius
 pastatytus pastatus, statinius ir įrenginius, kurių statybos galimybė buvo
 numatyta žemės nuomos sutartyje, nuomininkui žemės savininkas kompensuoja, o
 kai pastatai lieka buvusiam žemės nuomininkui nuosavybės teise, šis turi teisę
-į žemės servitutą, jeigu tai buvo numatyta žemės nuomos sutartyje arba papildomame
-rašytiniame susitarime.
+į žemės servitutą, jeigu tai buvo numatyta žemės nuomos sutartyje arba
+papildomame rašytiniame susitarime.
 2. Jeigu
 pastatai, statiniai ar įrenginiai pastatyti be leidimo arba pastatyti žemės
 nuomos sutartyje nenumatyti pastatai, statiniai ar įrenginiai, nuomininkas
@@ -24664,11 +24683,10 @@ turėtos teisės ir pareigos pereina naujam juridiniam asmeniui.
 6.559 straipsnis. Žemės nuomos sutarties
 galiojimas pasikeitus žemės nuomotojui
 Kai dėl žemės
-savininko mirties arba kitu teisiniu pagrindu žemės nuosavybės teisė pereina
-kitam savininkui, taip pat kai pasikeičia valstybinės žemės nuomotojas, žemės
-nuomos sutartis galioja naujajam žemės savininkui arba valstybinės žemės
-nuomotojui, jeigu sutartis buvo įstatymų nustatyta tvarka įregistruota viešame
-registre.
+savininko mirties arba kitu teisiniu pagrindu žemės nuosavybės teisė pereina kitam
+savininkui, taip pat kai pasikeičia valstybinės žemės nuomotojas, žemės nuomos
+sutartis galioja naujajam žemės savininkui arba valstybinės žemės nuomotojui,
+jeigu sutartis buvo įstatymų nustatyta tvarka įregistruota viešame registre.
  
 6.560
 straipsnis. Nuomotojo pareiga pranešti apie nuomos sutartį
@@ -24714,8 +24732,8 @@ nutraukimas prieš terminą nuomotojo reikalavimu
 1. Žemės nuomos
 sutartis prieš terminą nuomotojo reikalavimu gali būti nutraukta:
 1) jeigu žemės
-nuomininkas naudoja žemę ne pagal sutartį ar pagrindinę tikslinę žemės naudojimo
-paskirtį;
+nuomininkas naudoja žemę ne pagal sutartį ar pagrindinę tikslinę žemės
+naudojimo paskirtį;
 2) jeigu žemės
 nuomininkas ilgiau kaip tris mėnesius nuo žemės nuomos sutartyje nustatyto
 nuomos mokesčio mokėjimo termino šio mokesčio nesumoka;
@@ -24760,10 +24778,10 @@ straipsnis. Lizingo (finansinės nuomos) sutarties samprata
 (finansinės nuomos) sutartį viena šalis (lizingo davėjas) įsipareigoja įgyti
 nuosavybės teise iš trečiojo asmens kitos šalies (lizingo gavėjo) nurodytą
 daiktą ir perduoti jį lizingo gavėjui valdyti ir naudoti verslo tikslais už
-užmokestį su sąlyga, kad sumokėjus visą lizingo sutartyje numatytą kainą daiktas
-pereis lizingo gavėjui nuosavybės teise, jeigu sutartis nenumato ko kita. Šio
-skyriaus normos mutatis mutandis taikomos ir tais atvejais, kai lizingo
-davėjas yra nuomojamo turto savininkas.
+užmokestį su sąlyga, kad sumokėjus visą lizingo sutartyje numatytą kainą
+daiktas pereis lizingo gavėjui nuosavybės teise, jeigu sutartis nenumato ko
+kita. Šio skyriaus normos mutatis mutandis taikomos ir tais atvejais,
+kai lizingo davėjas yra nuomojamo turto savininkas.
 2. Lizingo
 davėjas pardavėją ir daiktą renkasi pagal lizingo gavėjo nurodymus ir neatsako
 už pardavėjo ir lizingo dalyko parinkimą, jeigu lizingo sutartis nenumato ko
@@ -24787,9 +24805,9 @@ nekeičia lizingo sutarties esmės.
 gavėjas gali perleisti teisę naudotis lizingo sutarties dalyku ar kitokią iš
 lizingo sutarties atsirandančią teisę tik gavęs išankstinį rašytinį lizingo
 davėjo sutikimą.
-4. Lizingo
-davėjas neturi teisės be lizingo gavėjo rašytinio sutikimo įkeisti lizingo
-dalyką, jeigu lizingo sutartis nenumato ko kita.
+4. Lizingo davėjas
+neturi teisės be lizingo gavėjo rašytinio sutikimo įkeisti lizingo dalyką,
+jeigu lizingo sutartis nenumato ko kita.
  
 6.569
 straipsnis. Lizingo davėjo pareiga pranešti apie lizingo sutartį
@@ -24806,8 +24824,8 @@ pardavėjas perduoda tiesiogiai lizingo gavėjui šio verslo vietoje.
 (lizingo sutarties dalykas) neperduodamas lizingo gavėjui per sutartyje
 nustatytą terminą, o jei terminas nenustatytas – per protingą terminą, lizingo
 gavėjas turi teisę nutraukti lizingo sutartį ir reikalauti atlyginti
-nuostolius, jeigu daiktas laiku neperduotas dėl aplinkybių, už kurias atsako lizingo
-davėjas.
+nuostolius, jeigu daiktas laiku neperduotas dėl aplinkybių, už kurias atsako
+lizingo davėjas.
 3. Lizingo
 gavėjas turi teisę sustabdyti periodinių įmokų mokėjimą tol, kol lizingo
 davėjas tinkamai įvykdo savo prievolę perduoti daiktą.
@@ -24857,10 +24875,10 @@ straipsnis. Pardavėjo atsakomybė
 gavėjas turi teisę pareikšti tiesiogiai pardavėjui visus reikalavimus,
 atsirandančius iš lizingo dalyko pirkimo–pardavimo sutarties (dėl turto kokybės
 ir komplektiškumo, perdavimo terminų ir kt.). Lizingo gavėjas turi visas šioje
-knygoje numatytas pirkėjo teises ir pareigas, išskyrus pareigą sumokėti už įsigytą
-turtą, taip, kaip jis jas turėtų, jeigu būtų pirkimo–pardavimo sutarties šalis.
-Tačiau lizingo gavėjas neturi teisės nutraukti pirkimo–pardavimo sutarties be
-lizingo davėjo sutikimo.
+knygoje numatytas pirkėjo teises ir pareigas, išskyrus pareigą sumokėti už
+įsigytą turtą, taip, kaip jis jas turėtų, jeigu būtų pirkimo–pardavimo
+sutarties šalis. Tačiau lizingo gavėjas neturi teisės nutraukti
+pirkimo–pardavimo sutarties be lizingo davėjo sutikimo.
 2. Lizingo
 davėjas ir lizingo gavėjas turi pardavėjui solidariosios prievolės kreditorių
 teises ir pareigas.
@@ -24915,9 +24933,9 @@ straipsnis. Sutarties sudarymo pagrindai
 1. Valstybės ar
 savivaldybių gyvenamųjų patalpų nuomos sutartys sudaromos remiantis valstybės
 ar savivaldybės institucijos sprendimu. Įmonių, įstaigų ar organizacijų savo
-darbuotojams nuomojamų gyvenamųjų patalpų nuomos sutartys sudaromos
-kolektyvinėje sutartyje, o jeigu tokia sutartis nesudaroma, – administracijos
-ir darbuotojų susitarimu numatytais pagrindais ir tvarka.
+darbuotojams nuomojamų gyvenamųjų patalpų nuomos sutartys sudaromos kolektyvinėje
+sutartyje, o jeigu tokia sutartis nesudaroma, – administracijos ir darbuotojų
+susitarimu numatytais pagrindais ir tvarka.
 2. Įmonių,
 įstaigų ar organizacijų ir fizinių asmenų komercinėmis sąlygomis (siekiant
 pelno) nuomojamų gyvenamųjų patalpų nuomos sutartys sudaromos šalių susitarimu.
@@ -24933,15 +24951,15 @@ nustatyta tvarka sudaro subnuomos sutartį.
 3. Nuomininkas
 yra fizinis asmuo, kuris savo vardu ir dėl savo, savo šeimos bei buvusių šeimos
 narių interesų sudaro gyvenamosios patalpos nuomos sutartį. Jeigu gyvenamojoje
-patalpoje liko nepilnametis, neturintis tėvų arba negalintis gyventi kartu su jais,
-gyvenamųjų patalpų nuomos sutartį jo vardu gali sudaryti įstatymų įgaliotas
-asmuo.
+patalpoje liko nepilnametis, neturintis tėvų arba negalintis gyventi kartu su
+jais, gyvenamųjų patalpų nuomos sutartį jo vardu gali sudaryti įstatymų
+įgaliotas asmuo.
 4. Nuomotojas
 neturi teisės atsisakyti sudaryti gyvenamosios patalpos nuomos sutartį su
 asmeniu, ją pratęsti arba nustatyti labiau nuomininką suvaržiančias sąlygas
 vien todėl, kad tas asmuo yra nėščia moteris arba tas asmuo turi nepilnamečių
-vaikų, išskyrus atvejus, kai tokį atsisakymą pateisina gyvenamosios patalpos
-dydis arba jos areštas (šio kodekso 6.587 straipsnio 2 dalis). 
+vaikų, išskyrus atvejus, kai tokį atsisakymą pateisina gyvenamosios patalpos dydis
+arba jos areštas (šio kodekso 6.587 straipsnio 2 dalis). 
 5. Juridiniams
 asmenims gyvenamoji patalpa gali būti suteikta valdymui ir (arba) naudojimui
 nuomos ar kitokios sutarties pagrindu. Tokią gyvenamąją patalpą juridinis asmuo
@@ -24953,8 +24971,8 @@ straipsnis. Sutarties forma
 patalpos nuomos sutartis, kai nuomotojas yra valstybė, savivaldybė ar juridinis
 asmuo, turi būti sudaroma raštu. Ją pasirašo įgaliotas pareigūnas ir
 nuomininkas.
-2. Nuomos
-sutartys tarp fizinių asmenų gali būti sudaromos žodžiu.
+2. Nuomos sutartys
+tarp fizinių asmenų gali būti sudaromos žodžiu.
 3. Terminuota
 gyvenamosios patalpos nuomos sutartis, nepaisant, kas yra jos šalis, turi būti
 sudaroma raštu.
@@ -25007,14 +25025,14 @@ didesnę nuomininko civilinę atsakomybę, nei faktiškai yra nuomotojui padaryt
 6.581
 straipsnis. Sutarties dalykas
 Gyvenamųjų
-patalpų nuomos sutarties dalyku gali būti tik tinkamas gyventi gyvenamasis
-namas ar jo dalis, atskiras butas arba izoliuota gyvenamoji patalpa iš vieno ar
-kelių kambarių ir su ja susijusių pagalbinių patalpų. Savarankiškos nuomos
-sutarties dalyku negali būti kambario dalis arba kambarys, susijęs su kitu
-kambariu bendru įėjimu (pereinamieji kambariai), taip pat pagalbinės patalpos
-(virtuvės, koridoriai, sandėliukai ir pan.). Butuose, kurie nuomojami pagal
-atskiras nuomos sutartis keliems nuomininkams, tokios pagalbinės patalpos gali
-būti išnuomojamos bendram naudojimui.
+patalpų nuomos sutarties dalyku gali būti tik tinkamas gyventi gyvenamasis namas
+ar jo dalis, atskiras butas arba izoliuota gyvenamoji patalpa iš vieno ar kelių
+kambarių ir su ja susijusių pagalbinių patalpų. Savarankiškos nuomos sutarties
+dalyku negali būti kambario dalis arba kambarys, susijęs su kitu kambariu
+bendru įėjimu (pereinamieji kambariai), taip pat pagalbinės patalpos (virtuvės,
+koridoriai, sandėliukai ir pan.). Butuose, kurie nuomojami pagal atskiras
+nuomos sutartis keliems nuomininkams, tokios pagalbinės patalpos gali būti
+išnuomojamos bendram naudojimui.
  
 6.582
 straipsnis. Sutarties terminas
@@ -25049,10 +25067,10 @@ sutartis nesudaroma, – administracijos ir darbuotojų susitarimu, tačiau
 maksimalus nuomos mokesčio dydis negali būti didesnis už Vyriausybės nustatyta
 tvarka patvirtintą maksimalų nuomos mokestį.
 4. Įmonių,
-įstaigų, organizacijų ir fizinių asmenų komercinėmis sąlygomis išnuomojamų
-gyvenamųjų patalpų nuomos mokesčio dydis nustatomas šalių susitarimu, tačiau
-maksimalus nuomos mokesčio dydis negali būti didesnis už Vyriausybės nustatyta
-tvarka patvirtintą maksimalų nuomos mokestį.
+įstaigų, organizacijų ir fizinių asmenų komercinėmis sąlygomis išnuomojamų gyvenamųjų
+patalpų nuomos mokesčio dydis nustatomas šalių susitarimu, tačiau maksimalus
+nuomos mokesčio dydis negali būti didesnis už Vyriausybės nustatyta tvarka
+patvirtintą maksimalų nuomos mokestį.
 5. Nuomotojas
 neturi teisės reikalauti mokėti nuomos mokestį iš anksto, išskyrus nuomos
 mokestį už pirmąjį nuomos mėnesį.
@@ -25078,10 +25096,10 @@ ir karštą vandenį, elektros energiją, dujas, šiluminę energiją ir komunal
 paslaugas mokamas Vyriausybės nustatyta tvarka iki šio kodekso 6.583 straipsnio
 2 dalyje nustatyto termino.
 2. Mokesčio už
-komunalines paslaugas dydžiai ir jų mokėjimo terminai bei tvarka, kai
-juridiniai asmenys nuomoja gyvenamąsias patalpas savo darbuotojams, nustatomi
-kolektyvine sutartimi, o jeigu organizacijose tokia sutartis nesudaroma, –
-administracijos ir darbuotojų susitarimu.
+komunalines paslaugas dydžiai ir jų mokėjimo terminai bei tvarka, kai juridiniai
+asmenys nuomoja gyvenamąsias patalpas savo darbuotojams, nustatomi kolektyvine
+sutartimi, o jeigu organizacijose tokia sutartis nesudaroma, – administracijos
+ir darbuotojų susitarimu.
 3. Jeigu
 juridiniai ir fiziniai asmenys gyvenamąsias patalpas išnuomoja komercinėmis
 sąlygomis, mokesčio už šaltą ir karštą vandenį, elektros energiją, dujas,
@@ -25180,8 +25198,8 @@ pilnamečiai vaikai ir jų sutuoktiniai (sugyventiniai), apsigyvendami
 nuomojamoje patalpoje, įgyja šeimos narių teises, jei jie su nuomininku turi
 bendrą ūkį ir jei nuomininkas bei jo šeimos nariai su tuo sutinka.
 6. Už nuomininko
-šeimos narių veiksmus, pažeidžiančius nuomos sutartį, nuomotojui atsako
-nuomininkas ir pilnamečiai jo šeimos nariai.
+šeimos narių veiksmus, pažeidžiančius nuomos sutartį, nuomotojui atsako nuomininkas
+ir pilnamečiai jo šeimos nariai.
 7. Gyvenamojoje
 patalpoje gyventi asmenų turi tiek, kad kiekvienas jų galėtų turėti normalias
 sanitarines sąlygas ir naudotis normaliais patogumais.
@@ -25199,10 +25217,10 @@ bei jo šeimos nariai.
 6.590
 straipsnis. Šeimos narių teisė apsigyventi nuomojamoje patalpoje
 1. Pagal nuomos
-sutartį gyvenamojoje patalpoje turi teisę apsigyventi tie nuomininko šeimos
-nariai ir buvę šeimos nariai, kurie yra įvardyti sutartyje. Jei šie asmenys per
-šešis mėnesius nuo sutarties sudarymo gyvenamojoje patalpoje neapsigyvena,
-teisę apsigyventi joje praranda. Laikinai išvykusiems šis terminas pradedamas
+sutartį gyvenamojoje patalpoje turi teisę apsigyventi tie nuomininko šeimos nariai
+ir buvę šeimos nariai, kurie yra įvardyti sutartyje. Jei šie asmenys per šešis
+mėnesius nuo sutarties sudarymo gyvenamojoje patalpoje neapsigyvena, teisę
+apsigyventi joje praranda. Laikinai išvykusiems šis terminas pradedamas
 skaičiuoti nuo šio kodekso 6.591 straipsnyje nustatyto laiko pasibaigimo, o jei
 šie asmenys sugrįžo anksčiau, – nuo jų sugrįžimo dienos.
 2. Valstybės ar
@@ -25216,9 +25234,9 @@ turi teisę tik nuomotojo leidimu. Tokio leidimo nereikia apgyvendinti
 nuomininko ar jo šeimos nario sutuoktiniui (sugyventiniui) ir nepilnamečiams jų
 vaikams. Gyvenamosios patalpos nuomos sutartyje gali būti numatomos ir kitos
 šeimos narių apgyvendinimo sąlygos.
-3. Apgyvendintas
-šeimos narys įgyja lygias su kitais nuomininko šeimos nariais ir buvusiais
-šeimos nariais teises į nuomojamą gyvenamąją patalpą ir pareigas, jei
+3.
+Apgyvendintas šeimos narys įgyja lygias su kitais nuomininko šeimos nariais ir
+buvusiais šeimos nariais teises į nuomojamą gyvenamąją patalpą ir pareigas, jei
 apsigyvendamas nebuvo susitaręs kitaip.
  
 6.591 straipsnis. Teisės naudotis
@@ -25324,9 +25342,9 @@ terminuotam, ir neterminuotam laikui, tačiau subnuomos sutarties terminas
 negali būti ilgesnis už nuomos sutarties terminą.
 2. Gyvenamosios
 patalpos subnuomos mokestis nustatomas šalių susitarimu.
-3. Pasibaigus subnuomos
-terminui, subnuomininkas neturi pirmumo teisės atnaujinti sutartį ir nuomininko
-reikalavimu turi patuštinti pagal nuomos sutartį turėtą patalpą. Jeigu
+3. Pasibaigus
+subnuomos terminui, subnuomininkas neturi pirmumo teisės atnaujinti sutartį ir
+nuomininko reikalavimu turi patuštinti pagal nuomos sutartį turėtą patalpą. Jeigu
 subnuomos sutartis sudaryta nenurodant termino, nuomininkas privalo prieš tris
 mėnesius įspėti subnuomininką apie subnuomos sutarties nutraukimą. Jeigu
 subnuomininkas atsisako patuštinti gyvenamąją patalpą, jis turi būti teismo
@@ -25407,11 +25425,11 @@ kai viena gyvenamoji patalpa keičiama į kelias
 savivaldybė, turėdama galimybių, ir nuomininkui, jo šeimos nariams bei
 buvusiems šeimos nariams sutikus, jų nuomojamą gyvenamąją patalpą gali pakeisti
 į kelias. Šiuo atveju kiekvienam šeimos nariui suteikiama ne daugiau kaip
-dešimt kvadratinių metrų sutartinio gyvenamosios patalpos ploto, o turėta gyvenamoji
-patalpa paliekama savivaldybei. Jeigu nuomininkas, pilnamečiai šeimos nariai ar
-buvę šeimos nariai pageidauja, viena savivaldybės gyvenamosios patalpos nuomos
-sutartis gali būti pakeista į kelias. Ginčus dėl sutarties pakeitimo, kai viena
-gyvenamoji patalpa pakeičiama į kelias, sprendžia teismas.
+dešimt kvadratinių metrų sutartinio gyvenamosios patalpos ploto, o turėta
+gyvenamoji patalpa paliekama savivaldybei. Jeigu nuomininkas, pilnamečiai
+šeimos nariai ar buvę šeimos nariai pageidauja, viena savivaldybės gyvenamosios
+patalpos nuomos sutartis gali būti pakeista į kelias. Ginčus dėl sutarties
+pakeitimo, kai viena gyvenamoji patalpa pakeičiama į kelias, sprendžia teismas.
 2. Naujas
 sutartis sudarę nuomininkai ir jų šeimų nariai, iki sutarties pakeitimo
 neturėję teisės į valstybės paramą, šią teisę gali įgyti praėjus penkeriems
@@ -25420,11 +25438,11 @@ metams po sutarties pakeitimo.
 6.601 straipsnis. Sutarties pakeitimas
 nuomininkams susijungus į vieną šeimą
 1. Keli pagal
-atskiras nuomos sutartis nuomojamame bute gyvenantys fiziniai asmenys
-(nuomininkai), susijungę į vieną šeimą, gali sudaryti vieną nuomojamą
-gyvenamųjų patalpų nuomos sutartį (sujungti butus), jeigu jų šeimos nariai ir
-nuomotojas su tuo sutinka. Sutartis sudaroma su susijungusių į vieną šeimą
-šeimos narių siūlomu nuomininku.
+atskiras nuomos sutartis nuomojamame bute gyvenantys fiziniai asmenys (nuomininkai),
+susijungę į vieną šeimą, gali sudaryti vieną nuomojamą gyvenamųjų patalpų
+nuomos sutartį (sujungti butus), jeigu jų šeimos nariai ir nuomotojas su tuo
+sutinka. Sutartis sudaroma su susijungusių į vieną šeimą šeimos narių siūlomu
+nuomininku.
 2. Nuomotojo
 atsisakymas sudaryti vieną nuomos sutartį gali būti nuginčijamas teismo tvarka.
  
@@ -25443,8 +25461,8 @@ kylantys dėl šeimos nario pripažinimo nuomininku, sprendžiami teismo tvarka.
 6.603
 straipsnis. Sutarties pakeitimas perdavus patuštintą kambarį
 1. Jeigu bute,
-kurį valstybė ar savivaldybė kaip savininkė nuomoja pagal atskiras nuomos
-sutartis keliems nuomininkams, patuštinamas gretimas, neizoliuotas nuo vieno iš
+kurį valstybė ar savivaldybė kaip savininkė nuomoja pagal atskiras nuomos sutartis
+keliems nuomininkams, patuštinamas gretimas, neizoliuotas nuo vieno iš
 nuomininkų gyvenamosios patalpos kambarys, jis šio nuomininko pageidavimu
 perduodamas jam naudotis.
 2. Jeigu
@@ -25459,14 +25477,13 @@ nuomos sutartis.
 6.604 straipsnis. Gyvenamosios patalpos
 nuomos sutarties pakeitimas nuomininkui nutraukus darbo santykius
 1. Jeigu
-nuomininkas nutraukia darbo santykius su juridiniu asmeniu, kurio gyvenamąją
-patalpą jis nuomoja, tai negali būti pagrindas nutraukti gyvenamosios patalpos
-nuomos sutartį. Šiuo atveju juridinis asmuo gyvenamosios patalpos nuomos
-sutartį gali pakeisti kolektyvinėje sutartyje, o organizacijoje, kurioje tokia
-sutartis nesudaroma, – administracijos ir darbuotojų susitarimu nustatytais
-pagrindais ir tvarka. Ginčas tarp juridinio asmens ir nuomininko, jo šeimos
-narių ar buvusių šeimos narių dėl tokio sutarties pakeitimo sprendžiamas teismo
-tvarka.
+nuomininkas nutraukia darbo santykius su juridiniu asmeniu, kurio gyvenamąją patalpą
+jis nuomoja, tai negali būti pagrindas nutraukti gyvenamosios patalpos nuomos
+sutartį. Šiuo atveju juridinis asmuo gyvenamosios patalpos nuomos sutartį gali
+pakeisti kolektyvinėje sutartyje, o organizacijoje, kurioje tokia sutartis
+nesudaroma, – administracijos ir darbuotojų susitarimu nustatytais pagrindais
+ir tvarka. Ginčas tarp juridinio asmens ir nuomininko, jo šeimos narių ar
+buvusių šeimos narių dėl tokio sutarties pakeitimo sprendžiamas teismo tvarka.
 2. Nuomininkui
 nutraukus darbo santykius su nuomotoju, gyvenamosios patalpos nuomos mokestis
 nustatomas šio kodekso 6.583 straipsnio 4 dalyje nustatyta tvarka.
@@ -25514,16 +25531,16 @@ kapitaliniam remontui ar rekonstrukcijai. Jei nuomininkas nesutinka nuomoti
 padidėjusią ar sumažėjusią gyvenamąją patalpą, taip pat kai dėl kapitalinio
 remonto ar rekonstrukcijos nuomojamoji patalpa neišlieka, nuomininkui
 suteikiama kita tinkamai įrengta gyvenamoji patalpa. Jeigu nuomininkas atsisako
-persikelti į suteikiamą kitą tinkamai įrengtą gyvenamąją patalpą, nuomotojas gali
-jį perkeldinti teismo tvarka.
+persikelti į suteikiamą kitą tinkamai įrengtą gyvenamąją patalpą, nuomotojas
+gali jį perkeldinti teismo tvarka.
 5. Įmonių,
 įstaigų, organizacijų ir fizinių asmenų komercinėmis sąlygomis nuomojamų
 gyvenamųjų patalpų patuštinimo kapitalinio remonto ar rekonstrukcijos laikui
 bei kiti su tuo susiję klausimai sprendžiami nuomotojo ir nuomininko
 susitarimu. Visais atvejais apie numatomus remonto darbus, dėl kurių
-nuomininkas turi būti laikinai perkeldintas, nuomininkui nuomotojas privalo
-pranešti ne vėliau kaip prieš keturiolika dienų prieš prasidedant darbams.
-Jeigu nuomotojas neturi galimybių laikinai perkeldinti nuomotojo remonto
+nuomininkas turi būti laikinai perkeldintas, nuomininkui nuomotojas privalo pranešti
+ne vėliau kaip prieš keturiolika dienų prieš prasidedant darbams. Jeigu
+nuomotojas neturi galimybių laikinai perkeldinti nuomotojo remonto
 laikotarpiui, iki perkeldinimo dienos jis privalo išmokėti nuomininkui
 adekvačią kompensaciją, kuri padengtų nuomininko laikino persikėlimo išlaidas.
 Šalių susitarimu nuomininko perkeldinimo remonto laikui išlaidos gali būti
@@ -25591,11 +25608,11 @@ sutartis įsigalioja nuo naujos gyvenamosios patalpos nuomos sutarties sudarymo
 paskutinės dienos, o jeigu ginčą sprendė teismas, – nuo teismo sprendimo
 įsiteisėjimo dienos.
 4. Jeigu šeimos
-nariai nesusitaria dėl keitimosi, o pakeitus gyvenamąsias patalpas būtų
-galimybė likviduoti šeimoje susidariusias konfliktines situacijas, tai bet
-kuris iš šeimos narių turi teisę reikalauti teismo tvarka prievarta pakeisti
-nuomojamą gyvenamąją patalpą į kitą gyvenamąją patalpą arba į patalpas
-skirtinguose namuose (butuose).
+nariai nesusitaria dėl keitimosi, o pakeitus gyvenamąsias patalpas būtų galimybė
+likviduoti šeimoje susidariusias konfliktines situacijas, tai bet kuris iš
+šeimos narių turi teisę reikalauti teismo tvarka prievarta pakeisti nuomojamą
+gyvenamąją patalpą į kitą gyvenamąją patalpą arba į patalpas skirtinguose
+namuose (butuose).
  
 Antrasis skirsnis
 Gyvenamosios patalpos nuomos sutarties pabaiga
@@ -25618,8 +25635,8 @@ gyvenamosios patalpos būklę, iš anksto pranešęs nuomininkui apie tikrinimo 
 ir laiką. Tokiu atveju nuomotojas taip pat turi teisę parodyti gyvenamąją
 patalpą būsimam nuomininkui, apie aprodymo datą ir laiką iš anksto pranešdamas
 nuomininkui. Išskyrus neatidėliotinus atvejus, nuomotojas neturi teisės
-tikrinti gyvenamosios patalpos ar jos rodyti būsimam nuomininkui nuo dvidešimt pirmos
-valandos iki devintos valandos.
+tikrinti gyvenamosios patalpos ar jos rodyti būsimam nuomininkui nuo dvidešimt
+pirmos valandos iki devintos valandos.
  
 6.610
 straipsnis. Sutarties nutraukimo ir asmenų iškeldinimo tvarka
@@ -25675,7 +25692,8 @@ juridinių asmenų gyvenamoji patalpa gresia sugriūti arba tampa netinkama
 gyventi, fiziniai asmenys iš jų iškeldinami pagal prokuroro sankciją ir jiems
 suteikiama kita tinkamai įrengta gyvenamoji patalpa. Šią patalpą suteikia
 pastato, kuriame yra gresianti sugriūti arba netinkama gyventi gyvenamoji
-patalpa, savininkas. Tokiais atvejais ankstesnė nuomos sutartis laikoma pasibaigusia.
+patalpa, savininkas. Tokiais atvejais ankstesnė nuomos sutartis laikoma
+pasibaigusia.
  
 6.616 straipsnis. Sutarties nutraukimas
 ir piliečių iškeldinimas suteikiant kitą tinkamai įrengtą gyvenamąją patalpą
@@ -25685,8 +25703,8 @@ darbuotojams išnuomotų gyvenamųjų patalpų ir jiems suteikiama kita tinkamai
 įrengta gyvenamoji patalpa, jeigu:
 1) namas,
 kuriame yra gyvenamoji patalpa, turi būti nugriautas;
-2) gyvenamoji
-patalpa neišlieka po kapitalinio remonto, rekonstrukcijos ar perplanavimo;
+2) gyvenamoji patalpa
+neišlieka po kapitalinio remonto, rekonstrukcijos ar perplanavimo;
 3) gyvenamosios
 patalpos pertvarkomos į kitos paskirties patalpas.
 2. Kitą
@@ -25742,10 +25760,10 @@ patalpų suteikimo ir jų naudojimo tvarka
 1. Sprendimą
 suteikti tarnybinę gyvenamąją patalpą priima: valstybės valdžios ar valdymo
 institucijos įgaliotas asmuo, savivaldybės vykdomoji institucija, juridinio
-asmens valdymo organas. Remiantis šiuo sprendimu, sudaroma tarnybinės
-gyvenamosios patalpos nuomos sutartis. Sudarant tokią sutartį, laikomasi šio
-kodekso nustatytos gyvenamosios patalpos nuomos sutarties sudarymo tvarkos,
-jeigu įstatymai nenustato kitaip.
+asmens valdymo organas. Remiantis šiuo sprendimu, sudaroma tarnybinės gyvenamosios
+patalpos nuomos sutartis. Sudarant tokią sutartį, laikomasi šio kodekso
+nustatytos gyvenamosios patalpos nuomos sutarties sudarymo tvarkos, jeigu
+įstatymai nenustato kitaip.
 2. Tarnybinių
 gyvenamųjų patalpų naudojimo ir apskaitos tvarką nustato Vyriausybė arba jos
 įgaliota institucija.
@@ -25810,14 +25828,14 @@ bendrabučių iškeldinama teismo tvarka.
 6.624
 straipsnis. Draudimas subnuomoti bendrabučių patalpas
 Bendrabučiuose
-gyvenantys nuomininkai neturi teisės subnuomoti savo nuomojamos gyvenamosios
-patalpos bei apgyvendinti laikinus gyventojus.
+gyvenantys nuomininkai neturi teisės subnuomoti savo nuomojamos gyvenamosios patalpos
+bei apgyvendinti laikinus gyventojus.
  
 6.625
 straipsnis. Laikinas perkeldinimas
-Nuomotojas prireikus
-(dėl remonto, avarijos ir kt.) turi teisę perkeldinti nuomininką iš vienos
-bendrabučio gyvenamosios patalpos į kitą bendrabučio gyvenamąją patalpą tiek
+Nuomotojas
+prireikus (dėl remonto, avarijos ir kt.) turi teisę perkeldinti nuomininką iš
+vienos bendrabučio gyvenamosios patalpos į kitą bendrabučio gyvenamąją patalpą tiek
 tame pačiame, tiek ir kitame pastate toje pat vietovėje be nuomininko sutikimo.
  
 Penktasis skirsnis
@@ -25837,9 +25855,8 @@ už gyvenimą viešbutyje, arba pažeidę naudojimosi jais tvarką, administraci
 teikimu iškeldinami pagal prokuroro sankciją nesuteikiant kitos gyvenamosios
 patalpos.
 4. Šis
-straipsnis taip pat taikomas gyvenamosios patalpos trumpalaikės nuomos (ne
-ilgiau kaip dviem mėnesiams) sutartims, sudaromoms atostogų ir poilsio
-tikslais.
+straipsnis taip pat taikomas gyvenamosios patalpos trumpalaikės nuomos (ne ilgiau
+kaip dviem mėnesiams) sutartims, sudaromoms atostogų ir poilsio tikslais.
  
 6.627
 straipsnis. Nakvynės namai
@@ -25865,13 +25882,13 @@ straipsnis. Panaudos sutarties samprata
 1.
 Neatlygintinio naudojimosi daiktu (panaudos) sutartimi viena šalis (panaudos
 davėjas) perduoda kitai šaliai (panaudos gavėjui) nesunaudojamąjį daiktą
-laikinai ir neatlygintinai valdyti ir juo naudotis, o panaudos gavėjas įsipareigoja
-grąžinti tą daiktą tokios būklės, kokios jis jam buvo perduotas atsižvelgiant į
-normalų susidėvėjimą arba sutartyje numatytos būklės.
-2.
-Neatlygintinio naudojimosi daiktu sutarčiai atitinkamai taikomos šio kodekso
-6.477 straipsnio 2 ir 3 dalių, 6.478, 6.479, 6.481, 6.489 straipsnio 1 ir 2
-dalių ir 6.501 straipsnio nuostatos.
+laikinai ir neatlygintinai valdyti ir juo naudotis, o panaudos gavėjas
+įsipareigoja grąžinti tą daiktą tokios būklės, kokios jis jam buvo perduotas
+atsižvelgiant į normalų susidėvėjimą arba sutartyje numatytos būklės.
+2. Neatlygintinio
+naudojimosi daiktu sutarčiai atitinkamai taikomos šio kodekso 6.477 straipsnio
+2 ir 3 dalių, 6.478, 6.479, 6.481, 6.489 straipsnio 1 ir 2 dalių ir 6.501
+straipsnio nuostatos.
  
 6.630 straipsnis. Neatlygintinio
 naudojimosi daiktu sutarties sudarymo apribojimai
@@ -25923,8 +25940,8 @@ atlygintų trūkumų šalinimo išlaidas, arba nutraukti sutartį ir atlyginti
 tiesioginius nuostolius.
 3. Panaudos
 davėjas, kuriam buvo pranešta apie panaudos gavėjo reikalavimus arba ketinimą
-pašalinti daikto trūkumus panaudos davėjo lėšomis, turi teisę nedelsdamas pakeisti
-netinkamos kokybės daiktą analogišku tinkamos kokybės daiktu.
+pašalinti daikto trūkumus panaudos davėjo lėšomis, turi teisę nedelsdamas
+pakeisti netinkamos kokybės daiktą analogišku tinkamos kokybės daiktu.
 4. Panaudos
 davėjas neatsako už perduoto daikto trūkumus, kuriuos jis aptarė sutarties
 sudarymo metu, taip pat už trūkumus, kurie panaudos gavėjui buvo žinomi iki
@@ -26034,8 +26051,8 @@ straipsnis. Teisė atsisakyti daikto neatlygintinio naudojimo sutarties
 daikto neatlygintinio naudojimo sutarties šalis bet kada turi teisę nutraukti
 neterminuotą panaudos sutartį, įspėjusi apie tai kitą šalį prieš tris mėnesius,
 jeigu sutartis nenustato kitokio termino.
-2. Jeigu ko kita
-nenustato sutartis, panaudos gavėjas turi teisę bet kada nutraukti ir
+2. Jeigu ko
+kita nenustato sutartis, panaudos gavėjas turi teisę bet kada nutraukti ir
 terminuotą panaudos sutartį, įspėjęs kitą šalį apie numatomą sutarties
 nutraukimą ne vėliau kaip prieš vieną mėnesį.
  
@@ -26044,10 +26061,10 @@ straipsnis. Šalių pasikeitimas daikto neatlygintinio naudojimo sutartyje
 1. Panaudos
 davėjas turi teisę daiktą parduoti ar perduoti jį atlygintinai naudotis
 trečiajam asmeniui. Tokiu atveju naujam daikto savininkui ar naudotojui pereina
-teisės ir pareigos pagal anksčiau sudarytą panaudos sutartį, jeigu registruotina
-panaudos sutartis buvo įstatymų nustatyta tvarka įregistruota viešame registre
-arba apie ją naujasis savininkas ir naudotojas sutarties sudarymo metu žinojo
-arba turėjo žinoti.
+teisės ir pareigos pagal anksčiau sudarytą panaudos sutartį, jeigu
+registruotina panaudos sutartis buvo įstatymų nustatyta tvarka įregistruota
+viešame registre arba apie ją naujasis savininkas ir naudotojas sutarties
+sudarymo metu žinojo arba turėjo žinoti.
 2. Panaudos
 davėjui mirus ar jį reorganizavus, jo teisės ir pareigos pereina jo teisių
 perėmėjams.
@@ -26219,8 +26236,8 @@ atlikti papildomų darbų arba dėl kitų svarbių priežasčių rangovui tenka 
 kai kurių darbų kainą, jis privalo apie tai laiku pranešti užsakovui. Jeigu
 užsakovas nesutinka padidinti kainą, rangovas turi teisę atsisakyti sutarties.
 Tokiu atveju rangovas turi teisę reikalauti iš užsakovo sumokėti už atliktus
-darbus. Jeigu rangovas laiku neįspėja užsakovo, kad yra būtina didinti darbų
-kainą, jis privalo įvykdyti sutartį už joje numatytą kainą.
+darbus. Jeigu rangovas laiku neįspėja užsakovo, kad yra būtina didinti darbų kainą,
+jis privalo įvykdyti sutartį už joje numatytą kainą.
 5. Jeigu
 sutartyje nurodyta konkreti darbų kaina, rangovas neturi teisės reikalauti ją
 padidinti, o užsakovas – sumažinti. Ši taisyklė taip pat taikoma ir tais
@@ -26293,9 +26310,9 @@ nuostolius tai, ką rangovas sutaupo dėl sutarties nutraukimo.
 5. Jeigu darbų
 priėmimo metu nustatomi darbo trūkumai, užsakovas turi teisę atskaityti iš
 sumų, priklausančių rangovui už atliktus darbus, sumą, reikalingą tiems
-trūkumams pašalinti. Šią teisę užsakovas turi ir tada, kai nustatomi paslėpti
-darbo trūkumai. Tačiau užsakovas neturi tokios teisės, jeigu rangovas
-pakankamai užtikrina savo prievolės įvykdymą.
+trūkumams pašalinti. Šią teisę užsakovas turi ir tada, kai nustatomi paslėpti darbo
+trūkumai. Tačiau užsakovas neturi tokios teisės, jeigu rangovas pakankamai
+užtikrina savo prievolės įvykdymą.
  
 6.659
 straipsnis. Aplinkybės, apie kurias rangovas privalo įspėti užsakovą
@@ -26354,9 +26371,9 @@ nuostolius.
 straipsnis. Atliktų darbų priėmimas
 1. Užsakovas
 privalo rangos sutartyje numatytais terminais ir tvarka dalyvaujant rangovui
-apžiūrėti ir priimti atliktą darbą (jo rezultatą). Užsakovas, pastebėjęs nukrypimus
-nuo sutarties sąlygų, bloginančius darbų rezultato kokybę, ar kitus trūkumus,
-privalo nedelsdamas apie tai pranešti rangovui. Atliktų darbų priėmimas
+apžiūrėti ir priimti atliktą darbą (jo rezultatą). Užsakovas, pastebėjęs
+nukrypimus nuo sutarties sąlygų, bloginančius darbų rezultato kokybę, ar kitus
+trūkumus, privalo nedelsdamas apie tai pranešti rangovui. Atliktų darbų priėmimas
 įforminamas aktu, kuriuo užsakovas be išlygų ar su išlygomis patvirtina
 priėmęs, o rangovas – perdavęs atliktus darbus.
 2. Užsakovas,
@@ -26410,9 +26427,9 @@ nei nustatyti privalomi, reikalavimus.
  
 6.664
 straipsnis. Darbų kokybės garantija
-1. Jeigu
-įstatymas ar rangos sutartis nustato darbų rezultato kokybės garantinį terminą,
-darbų rezultatas turi atitikti nustatytus kokybės reikalavimus visą garantinį
+1. Jeigu įstatymas
+ar rangos sutartis nustato darbų rezultato kokybės garantinį terminą, darbų
+rezultatas turi atitikti nustatytus kokybės reikalavimus visą garantinį
 terminą.
 2. Kokybės
 garantija taikoma visoms darbų rezultato sudėtinėms dalims, jeigu rangos
@@ -26445,10 +26462,10 @@ rangovui, jeigu jį grąžinti, atsižvelgiant į darbų pobūdį, yra įmanoma.
 rangovas sutarties pažeidimų ar kitokių trūkumų per protingą terminą nepašalina
 arba trūkumai yra esminiai ir nepašalinami, užsakovas turi teisę nutraukti
 sutartį ir reikalauti atlyginti nuostolius.
-4. Rangos sutarties
-sąlygos, panaikinančios rangovo atsakomybę už tam tikrus trūkumus, neatleidžia
-jo nuo atsakomybės, jeigu užsakovas įrodo, kad trūkumai atsirado dėl rangovo
-tyčios ar didelio neatsargumo.
+4. Rangos
+sutarties sąlygos, panaikinančios rangovo atsakomybę už tam tikrus trūkumus,
+neatleidžia jo nuo atsakomybės, jeigu užsakovas įrodo, kad trūkumai atsirado
+dėl rangovo tyčios ar didelio neatsargumo.
 5. Jeigu
 darbas buvo atliekamas iš rangovo medžiagos, už medžiagų kokybę rangovas atsako
 kaip pardavėjas pagal pirkimo–pardavimo sutartį.
@@ -26469,9 +26486,9 @@ nustatyti per garantinį terminą.
 4. Jeigu
 sutartis nustato trumpesnį nei dvejų metų garantinį terminą, o trūkumus
 užsakovas nustatė jau pasibaigus garantiniam terminui, bet nepraėjus dvejiems
-metams nuo darbų rezultato perdavimo momento, rangovas atsako už šiuos
-trūkumus, jei užsakovas įrodo, kad trūkumai atsirado iki darbų rezultato
-perdavimo užsakovui momento arba dėl priežasčių, atsiradusių iki šio momento.
+metams nuo darbų rezultato perdavimo momento, rangovas atsako už šiuos trūkumus,
+jei užsakovas įrodo, kad trūkumai atsirado iki darbų rezultato perdavimo
+užsakovui momento arba dėl priežasčių, atsiradusių iki šio momento.
 5. Jeigu rangos
 sutartis nenustato ko kita, garantinis terminas pradedamas skaičiuoti nuo to
 momento, kai darbų rezultatą priėmė arba turėjo priimti užsakovas.
@@ -26498,8 +26515,8 @@ straipsnis. Rangovo pareiga perduoti užsakovui informaciją
 Rangovas privalo
 kartu su darbų rezultatu perduoti užsakovui informaciją apie rangos sutarties
 dalyko naudojimą, jeigu tokia rangovo pareiga nustatyta rangos sutartyje arba
-informacijos pobūdis yra toks, kad be jos neįmanoma naudoti darbų rezultato pagal
-sutartyje nustatytą paskirtį.
+informacijos pobūdis yra toks, kad be jos neįmanoma naudoti darbų rezultato
+pagal sutartyje nustatytą paskirtį.
  
 6.669
 straipsnis. Šalių konfidencialumo pareiga
@@ -26522,7 +26539,8 @@ nutraukimo iki darbų rezultato perdavimo ir priėmimo teisinės pasekmės
 Jeigu įstatymo
 ar sutarties nustatytu pagrindu rangos sutartis nutraukiama iki darbų rezultato
 priėmimo, užsakovas turi teisę reikalauti perduoti jam atliktų darbų rezultatą,
-o rangovas turi teisę tokiu atveju reikalauti apmokėti už faktiškai atliktus darbus.
+o rangovas turi teisę tokiu atveju reikalauti apmokėti už faktiškai atliktus
+darbus.
  
 Antrasis skirsnis
 Vartojimo ranga
@@ -26534,9 +26552,9 @@ vartojimo rangos sutartį rangovas, kuris verčiasi tam tikru verslu,
 įsipareigoja pagal fizinio asmens (vartotojo) užsakymą atlikti tam tikrą darbą,
 skirtą tenkinti buitinius ar asmeninius užsakovo ar jo šeimos poreikius, o
 užsakovas įsipareigoja priimti darbo rezultatą ir už jį sumokėti.
-2. Vartojimo
-rangos sutarčiai mutatis mutandis taikomos šio kodekso 6.188,
-6.350–6.370 straipsniuose nustatytos taisyklės. 
+2. Vartojimo rangos
+sutarčiai mutatis mutandis taikomos šio kodekso 6.188, 6.350–6.370
+straipsniuose nustatytos taisyklės. 
 3. Vartojimo
 rangos santykiams, kurių šio kodekso normos nenustato, taikomi vartotojų teisių
 gynimo ir kiti su šių teisių gynimu susiję įstatymai.
@@ -26574,8 +26592,8 @@ rangovu atlikus darbą.
 2. Rangos
 sutartyje gali būti nustatyta, kada rangovas suteikia medžiagą kreditan, taip
 pat kad užsakovas už medžiagą sumokės išsimokėtinai.
-3. Jeigu po
-rangos sutarties sudarymo medžiagos kaina pasikeičia, rangovas neturi teisės
+3. Jeigu po rangos
+sutarties sudarymo medžiagos kaina pasikeičia, rangovas neturi teisės
 reikalauti ją perskaičiuoti.
  
 6.676
@@ -26613,8 +26631,8 @@ pareikštas nepaisant to, kada išaiškėjo trūkumai, taip pat, jei jie buvo
 nustatyti pasibaigus garantiniam laikui.
 3. Jeigu rangovas nevykdo
 šio straipsnio 2 dalyje numatyto užsakovo reikalavimo, užsakovas turi teisę per
-tą patį terminą reikalauti arba grąžinti dalį už darbą sumokėtos kainos, arba atlyginti
-trūkumų šalinimo išlaidas.
+tą patį terminą reikalauti arba grąžinti dalį už darbą sumokėtos kainos, arba
+atlyginti trūkumų šalinimo išlaidas.
  
 6.679 straipsnis. Užsakovo neatvykimo
 atsiimti darbų rezultato teisinės pasekmės
@@ -26633,8 +26651,8 @@ depozitinę sąskaitą.
 rangovas neatlieka ar netinkamai atlieka sutartyje numatytą darbą
 Jeigu rangovas
 neatlieka ar netinkamai atlieka vartojimo rangos sutartyje numatytą darbą,
-užsakovas turi teisę pasinaudoti šio kodekso 6.334 straipsnyje numatytomis
-pirkėjo teisėmis.
+užsakovas turi teisę pasinaudoti šio kodekso 6.334 straipsnyje numatytomis pirkėjo
+teisėmis.
  
 Trečiasis skirsnis
 Statybos ranga
@@ -26656,8 +26674,8 @@ rangos sutartyje gali būti numatyta rangovo pareiga užtikrinti pastatyto
 objekto aptarnavimą po jo priėmimo per sutartyje nustatytą terminą.
 4. Jeigu pagal
 statybos rangos sutartį darbai atliekami fizinio asmens (vartotojo)
-asmeniniams, šeimos ar namų ūkio poreikiams, nesusijusiems su jo verslu ar
-profesija, tenkinti, sutarčiai taikomos vartojimo rangos sutarties taisyklės.
+asmeniniams, šeimos ar namų ūkio poreikiams, nesusijusiems su jo verslu ar profesija,
+tenkinti, sutarčiai taikomos vartojimo rangos sutarties taisyklės.
  
 6.682
 straipsnis. Rizikos paskirstymas šalims
@@ -26679,8 +26697,8 @@ straipsnis. Statybos objekto draudimas
 1. Statybos
 rangos sutartis gali nustatyti šalies, kuriai tenka objekto atsitiktinio žuvimo
 ar sugadinimo rizika, pareigą apdrausti statybos objektą, medžiagas ar kitokį
-turtą, naudojamą statybos procese, taip pat pareigą apdrausti tos šalies civilinę
-atsakomybę už kitiems asmenims padarytą žalą.
+turtą, naudojamą statybos procese, taip pat pareigą apdrausti tos šalies
+civilinę atsakomybę už kitiems asmenims padarytą žalą.
 2. Šalis,
 privalanti drausti statybos objektą ar savo civilinę atsakomybę, turi pateikti
 kitai šaliai per sutartyje nustatytus terminus draudimo sutarties sudarymo
@@ -26747,14 +26765,14 @@ defektai, numatyti šio straipsnio 2 dalyje, yra nustatyti užsakovo pateiktose
 medžiagose ar įrengimuose ir užsakovas atsisako juos pakeisti, rangovas privalo
 nutraukti sutartį ir pareikalauti apmokėti už faktiškai atliktus darbus.
 4. Rangovas
-neturi teisės naudoti užsakovo pateiktų medžiagų savo poreikiams, jeigu rangos sutartis
-nenumato ko kita.
+neturi teisės naudoti užsakovo pateiktų medžiagų savo poreikiams, jeigu rangos
+sutartis nenumato ko kita.
  
 6.687
 straipsnis. Darbų apmokėjimas
 1. Užsakovas
-privalo apmokėti už atliktus statybos darbus statybos rangos sutartyje
-nustatytais terminais ir tvarka.
+privalo apmokėti už atliktus statybos darbus statybos rangos sutartyje nustatytais
+terminais ir tvarka.
 2. Šalys gali susitarti,
 kad darbai bus apmokami etapais arba visa sutarties kaina bus sumokėta po
 objekto priėmimo.
@@ -26773,8 +26791,8 @@ laikinus energijos ar vandens tiekimo tinklus, gauti reikalingus leidimus,
 suteikiančius teisę atlikti rangovui tam tikrus darbus, bei teikti kitas
 sutartyje numatytas paslaugas.
 3. Šio
-straipsnio 2 dalyje numatytos paslaugos apmokamos statybos rangos sutartyje numatytais
-atvejais ir tvarka.
+straipsnio 2 dalyje numatytos paslaugos apmokamos statybos rangos sutartyje
+numatytais atvejais ir tvarka.
  
 6.689
 straipsnis. Užsakovo teisė kontroliuoti ir prižiūrėti statybos darbus
@@ -26788,8 +26806,8 @@ nustatęs nukrypimus nuo sutarties sąlygų, kurie gali pabloginti statybos darb
 kokybę, ar kitus trūkumus, privalo apie tai nedelsdamas pranešti rangovui.
 Užsakovas, nepranešęs apie pastebėtus trūkumus, netenka teisės jais remtis
 ateityje.
-3. Rangovas
-privalo vykdyti statybos metu gautus užsakovo nurodymus, jeigu šie nurodymai
+3. Rangovas privalo
+vykdyti statybos metu gautus užsakovo nurodymus, jeigu šie nurodymai
 neprieštarauja statybos rangos sutarties sąlygoms ir normatyviniams statybos
 dokumentams bei nėra kišimasis į rangovo ūkinę komercinę veiklą.
 4. Rangovas,
@@ -26905,8 +26923,8 @@ būti atleistas nuo atsakomybės, jeigu įrodo, kad objektas sugriuvo dėl
 projektuotojo ar statybos techninio prižiūrėtojo, kuriuos pasirinko užsakovas,
 kaltės arba dėl užsakovo kaltų veiksmų.
 4. Jeigu
-negalima nustatyti, dėl kurių konkrečiai iš šio straipsnio 1 dalyje numatytų
-asmenų kaltės statinys sugriuvo, jie visi atsako solidariai.
+negalima nustatyti, dėl kurių konkrečiai iš šio straipsnio 1 dalyje numatytų asmenų
+kaltės statinys sugriuvo, jie visi atsako solidariai.
  
 6.697
 straipsnis. Darbų kokybės garantija
@@ -26915,8 +26933,8 @@ jeigu ko kita nenustato statybos rangos sutartis, per visą garantinį laiką
 užtikrina, kad statybos objektas atitinka normatyvinių statybos dokumentų
 nustatytus rodiklius ir yra tinkamas naudoti pagal sutartyje nustatytą
 paskirtį.
-2. Sutarties šalys
-turi teisę įstatymų nustatytą garantinį terminą savo susitarimu pratęsti.
+2. Sutarties
+šalys turi teisę įstatymų nustatytą garantinį terminą savo susitarimu pratęsti.
 3. Rangovas,
 projektuotojas ir statybos techninis prižiūrėtojas atsako už defektus,
 nustatytus per garantinį terminą, jeigu neįrodo, kad jie atsirado dėl objekto
@@ -26935,12 +26953,11 @@ straipsnis. Garantiniai terminai
 1. Rangovas,
 projektuotojas ar statybos techninis prižiūrėtojas atsako už objekto sugriuvimą
 ar defektus, jeigu objektas sugriuvo ar defektai buvo nustatyti per:
-1) penkerius
-metus;
+1) penkerius metus;
 2) dešimt metų –
 esant paslėptų statinio elementų (konstrukcijų, vamzdynų ir kt.);
-3) dvidešimt metų
-– esant tyčia paslėptų defektų.
+3) dvidešimt
+metų – esant tyčia paslėptų defektų.
 2. Šio
 straipsnio 1 dalyje nustatyti terminai pradedami skaičiuoti nuo darbų rezultato
 atidavimo naudoti dienos.
@@ -27046,8 +27063,8 @@ Penktasis skirsnis
 Rangos darbai, finansuojami iš valstybės
 ar savivaldybių biudžeto
  
-6.705 straipsnis. Statybos ir
-projektavimo darbų atlikimas valstybės ar savivaldybių reikmėms
+6.705 straipsnis. Statybos ir projektavimo
+darbų atlikimas valstybės ar savivaldybių reikmėms
 1. Statybos,
 projektavimo ar tyrinėjimo darbai, taip pat architektūrinė ir inžinerinė veikla
 bei su ja susijusios techninės konsultacijos valstybės ar savivaldybių
@@ -27090,9 +27107,9 @@ intelektinės nuosavybės.
 6.708
 straipsnis. Darbų atlikimas
 1. Vykdytojas
-mokslinio tyrimo darbus privalo atlikti pats. Pasitelkti trečiuosius asmenis
-mokslinio tyrimo darbams pagal sutartį atlikti vykdytojas turi teisę tik gavęs
-užsakovo rašytinį sutikimą.
+mokslinio tyrimo darbus privalo atlikti pats. Pasitelkti trečiuosius asmenis mokslinio
+tyrimo darbams pagal sutartį atlikti vykdytojas turi teisę tik gavęs užsakovo
+rašytinį sutikimą.
 2. Atlikdamas
 bandomuosius, konstravimo ar technologinius darbus, vykdytojas turi teisę
 pasitelkti trečiuosius asmenis, jeigu sutartis nenustato ko kita. Vykdytojo
@@ -27232,9 +27249,9 @@ labiausiai atitiktų kliento interesus.
 2. Atsižvelgiant
 į paslaugų rūšį, paslaugų teikėjas teikdamas paslaugas turi veikti laikydamasis
 nusistovėjusios praktikos ir atitinkamos profesijos standartų.
-3. Paslaugų teikėjas
-privalo teikti paslaugas pagal sutarties sąlygas ir kliento nurodymus. Jei
-kliento nurodymai prieštarauja įstatymams, nusistovėjusioms profesinės veiklos
+3. Paslaugų
+teikėjas privalo teikti paslaugas pagal sutarties sąlygas ir kliento nurodymus.
+Jei kliento nurodymai prieštarauja įstatymams, nusistovėjusioms profesinės veiklos
 taisyklėms, standartams, profesinės veiklos etikai ar sutarties sąlygoms,
 paslaugų teikėjas turi teisę atsisakyti vykdyti tokius nurodymus ir sutartį
 nutraukti.
@@ -27244,10 +27261,10 @@ pagal konkrečias aplinkybes tai būtina dėl kliento interesų ar užsakymui
 įvykdyti ir jeigu vykdytojas negalėjo iš anksto kliento atsiklausti. Šiuo
 atveju vykdytojas privalo pranešti klientui apie nukrypimus, kai tik pasidaro
 galima pranešti.
-5. Jeigu
-sutartis numato paslaugų teikėjo pareigą pasiekti tam tikrą rezultatą, paslaugų
-teikėjas gali būti atleistas nuo atsakomybės už šios pareigos neįvykdymą tik
-tuo atveju, jeigu įrodo, kad jos negalėjo įvykdyti dėl nenugalimos jėgos.
+5. Jeigu sutartis
+numato paslaugų teikėjo pareigą pasiekti tam tikrą rezultatą, paslaugų teikėjas
+gali būti atleistas nuo atsakomybės už šios pareigos neįvykdymą tik tuo atveju,
+jeigu įrodo, kad jos negalėjo įvykdyti dėl nenugalimos jėgos.
  
 6.719
 straipsnis. Paslaugų teikėjo pareiga suteikti informaciją
@@ -27289,9 +27306,9 @@ teikėjo turėtas išlaidas, jeigu sutartis nenustato ko kita.
 pat privalo atlyginti paslaugų teikėjui šio turėtas išlaidas dėl paslaugos
 suteikimo tiek, kiek tų išlaidų nepadengia paslaugų kaina. Klientas taip pat
 privalo atlyginti paslaugų teikėjo patirtus dėl paslaugos teikimo nuostolius,
-kurie atsirado teikiant paslaugas, susidarius nenumatytoms ypatingoms aplinkybėms,
-už kurias paslaugų teikėjas neatsako. Jeigu tam tikrų paslaugų teikimas yra jų
-teikėjo profesinė veikla (verslas), tai šio teikėjo patirtus nuostolius
+kurie atsirado teikiant paslaugas, susidarius nenumatytoms ypatingoms
+aplinkybėms, už kurias paslaugų teikėjas neatsako. Jeigu tam tikrų paslaugų
+teikimas yra jų teikėjo profesinė veikla (verslas), tai šio teikėjo patirtus nuostolius
 klientas privalo atlyginti tik tuo atveju, kai jie atsirado dėl ypatingų
 aplinkybių, kurių neapima normali rizika, būdinga atitinkamai profesijos ar
 verslo rūšiai.
@@ -27436,11 +27453,11 @@ rašytinis sutikimas.
 priežiūra ar (ir) slauga prieš vieno iš jo tėvų ar jo atstovo pagal įstatymą
 valią, jeigu įstatymų nenustatyta kitaip. Jeigu pacientas iki šešiolikos metų
 pagal savo amžių ir išsivystymą gali teisingai vertinti savo sveikatos būklę ir
-siūlomą gydymą, jis negali būti gydomas prieš jo valią, jeigu įstatymų
-nenustatyta kitaip. Įstatymai gali numatyti atvejus, kai asmens sveikatos
-priežiūrai atlikti yra būtinas nepilnamečio paciento vieno iš tėvų ar jo
-atstovo pagal įstatymą rašytinis sutikimas. Gydytojas turi parinkti gydymo
-metodus, kurie labiausiai atitiktų nepilnamečio interesus. 
+siūlomą gydymą, jis negali būti gydomas prieš jo valią, jeigu įstatymų nenustatyta
+kitaip. Įstatymai gali numatyti atvejus, kai asmens sveikatos priežiūrai
+atlikti yra būtinas nepilnamečio paciento vieno iš tėvų ar jo atstovo pagal
+įstatymą rašytinis sutikimas. Gydytojas turi parinkti gydymo metodus, kurie
+labiausiai atitiktų nepilnamečio interesus. 
 3. Paciento,
 psichikos ligonio, nesugebančio teisingai įvertinti savo sveikatos būklės,
 gydymo ypatumus nustato įstatymai.
@@ -27453,8 +27470,8 @@ priežiūros paslaugas), kuriems atlikti buvo duotas paciento sutikimas, įrašy
 į paciento medicinos dokumentus, o pacientas ar jo atstovas turi tai
 pasirašyti.
  
-6.731 straipsnis. Paciento
-bendradarbiavimas su asmens sveikatos priežiūros paslaugų teikėju 
+6.731 straipsnis. Paciento bendradarbiavimas
+su asmens sveikatos priežiūros paslaugų teikėju 
 Pacientas kiek
 įstengdamas turi suteikti asmens sveikatos priežiūros paslaugų teikėjui
 informacijos ir pagalbos, kuri pagrįstai yra reikalinga norinti įvykdyti
@@ -27463,9 +27480,9 @@ sutartį.
 6.732
 straipsnis. Rūpestingumo laipsnis
 Vykdydamas savo
-veiklą, asmens sveikatos priežiūros paslaugų teikėjas turi užtikrinti tokį rūpestingumo
-laipsnį, kokio tikimasi iš sąžiningo asmens sveikatos priežiūros paslaugų
-teikėjo. Jo veikla turi būti grindžiama atsakomybe, kurią nustato įstatymai,
+veiklą, asmens sveikatos priežiūros paslaugų teikėjas turi užtikrinti tokį
+rūpestingumo laipsnį, kokio tikimasi iš sąžiningo asmens sveikatos priežiūros
+paslaugų teikėjo. Jo veikla turi būti grindžiama atsakomybe, kurią nustato įstatymai,
 kiti teisės aktai ir sveikatos priežiūros paslaugų teikėjų profesijos
 standartai. 
  
@@ -27495,13 +27512,13 @@ išskyrus atvejus, kai tai gali pakenkti paciento sveikatai ar net sukelti
 pavojų jo gyvybei. Tokiais atvejais apie informacijos teikimo apribojimus turi
 būti pažymėta paciento medicinos dokumentuose.
 2. Pacientas
-turi teisę prašyti, kad jo lėšomis būtų padarytos jo medicinos dokumentų kopijos.
-Ši paciento teisė gali būti ribojama tik įstatymų nustatyta tvarka. Asmens
-sveikatos priežiūros paslaugų teikėjas privalo paaiškinti pacientui įrašų
-medicinos dokumentuose reikšmę. Jeigu paciento reikalavimas yra pagrįstas,
-gydytojas privalo ištaisyti, užbaigti, panaikinti, paaiškinti ir (ar) pakeisti
-netikslius, neišsamius, dviprasmiškus duomenis arba su diagnoze, gydymu ar
-slauga nesusijusius duomenis. 
+turi teisę prašyti, kad jo lėšomis būtų padarytos jo medicinos dokumentų
+kopijos. Ši paciento teisė gali būti ribojama tik įstatymų nustatyta tvarka.
+Asmens sveikatos priežiūros paslaugų teikėjas privalo paaiškinti pacientui
+įrašų medicinos dokumentuose reikšmę. Jeigu paciento reikalavimas yra
+pagrįstas, gydytojas privalo ištaisyti, užbaigti, panaikinti, paaiškinti ir
+(ar) pakeisti netikslius, neišsamius, dviprasmiškus duomenis arba su diagnoze,
+gydymu ar slauga nesusijusius duomenis. 
  
 6.736
 straipsnis. Informacijos teikimas
@@ -27509,13 +27526,13 @@ straipsnis. Informacijos teikimas
 sveikatos priežiūros paslaugų teikėjas negali jokiems kitiems asmenims be
 paciento sutikimo suteikti informacijos apie pacientą arba sudaryti sąlygų
 gauti oficialių dokumentų, nurodytų šio kodekso 6.733 straipsnyje, kopijas.
-Jeigu informacija kitiems asmenims vis tiek teikiama, ji gali būti teikiama tiek,
-kiek tai nedaro žalos paciento ar kito asmens privataus gyvenimo interesams.
-Informacija apie pacientą turi būti teikiama, jeigu tai yra privaloma pagal
-įstatymus.
+Jeigu informacija kitiems asmenims vis tiek teikiama, ji gali būti teikiama
+tiek, kiek tai nedaro žalos paciento ar kito asmens privataus gyvenimo
+interesams. Informacija apie pacientą turi būti teikiama, jeigu tai yra
+privaloma pagal įstatymus.
 2. Kitais
-asmenimis nėra laikomi asmenys, kurie tiesiogiai dalyvauja vykdant medicinos paslaugų
-teikimo sutartį, taip pat asmuo, kuris veikia kaip sveikatos priežiūrą
+asmenimis nėra laikomi asmenys, kurie tiesiogiai dalyvauja vykdant medicinos
+paslaugų teikimo sutartį, taip pat asmuo, kuris veikia kaip sveikatos priežiūrą
 vykdančio asmens pagalbininkas, jeigu informacija yra būtina jam veikiant kaip
 pagalbininkui.
 3. Šiai
@@ -27537,13 +27554,14 @@ tikslams reglamentuoja įstatymai.
 6.738
 straipsnis. Stebėtojai
 1. Asmens
-sveikatos priežiūros paslaugų teikėjas teikia sveikatos priežiūros paslaugas nedalyvaujant
-jokiems kitiems asmenims, išskyrus patį pacientą, nebent pacientas būtų
-sutikęs, kad teikiant sveikatos priežiūros paslaugas dalyvautų pašaliniai
-stebėtojai.
+sveikatos priežiūros paslaugų teikėjas teikia sveikatos priežiūros paslaugas
+nedalyvaujant jokiems kitiems asmenims, išskyrus patį pacientą, nebent
+pacientas būtų sutikęs, kad teikiant sveikatos priežiūros paslaugas dalyvautų
+pašaliniai stebėtojai.
 2. Šio
-straipsnio 1 dalyje minimais kitais asmenimis nėra laikomi asmenys, kurių profesinė
-pagalba reikalinga teikiant sveikatos priežiūros paslaugas pagal sutartį.
+straipsnio 1 dalyje minimais kitais asmenimis nėra laikomi asmenys, kurių
+profesinė pagalba reikalinga teikiant sveikatos priežiūros paslaugas pagal
+sutartį.
  
 6.739
 straipsnis. Teisė nutraukti sutartį
@@ -27566,16 +27584,15 @@ kokiu nors kitu pagrindu, kaip tai nustatyta sutartyje.
 6.741
 straipsnis. Sveikatos priežiūros įstaigos
 Jeigu asmens
-sveikatos priežiūros paslaugos pagal sutartį teikiamos sveikatos priežiūros
-įstaigoje, kuri nėra šios sutarties šalis, visais atvejais atsiranda ir
-sveikatos priežiūros įstaigos atsakomybė, analogiška sutarties šalies
-atsakomybei.
+sveikatos priežiūros paslaugos pagal sutartį teikiamos sveikatos priežiūros įstaigoje,
+kuri nėra šios sutarties šalis, visais atvejais atsiranda ir sveikatos
+priežiūros įstaigos atsakomybė, analogiška sutarties šalies atsakomybei.
  
 6.742
 straipsnis. Draudimas riboti ar panaikinti atsakomybę
 Asmens sveikatos priežiūros paslaugų teikėjo atsakomybė, o šio kodekso
-6.741 straipsnio numatytais atvejais – sveikatos priežiūros įstaigos atsakomybė,
-negali būti apribota arba panaikinama.
+6.741 straipsnio numatytais atvejais – sveikatos priežiūros įstaigos
+atsakomybė, negali būti apribota arba panaikinama.
  
 6.743
 straipsnis. Taikymo sritis
@@ -27769,9 +27786,9 @@ jis privalo pasiūlyti turistui naują tokios pat ar geresnės kokybės kelionę
 alternatyvią kelionę arba turistas pasiūlytos naujos kelionės atsisako, jis
 turi teisę reikalauti, kad jam būtų grąžinti už neįvykusią kelionę sumokėti
 pinigai.
-3. Kelionės
-organizatorius, atsisakęs sutarties, privalo atlyginti turistui turtinę žalą ir
-grąžinti pinigus už kelionę. Žala neatlyginama, kai:
+3. Kelionės organizatorius,
+atsisakęs sutarties, privalo atlyginti turistui turtinę žalą ir grąžinti
+pinigus už kelionę. Žala neatlyginama, kai:
 1) kelionės
 organizatorius atsisako sutarties dėl to, kad buvo gautas mažesnis, nei
 nustatytas minimalus paraiškų tokiai kelionei kiekis, o turistas buvo raštu
@@ -27883,10 +27900,10 @@ turistas, taip pat grąžinti turistui pinigus už nesuteiktas paslaugas.
 5. Jeigu dėl
 netinkamo sutarties vykdymo, už kurį atsako kelionės organizatorius, turisto
 pagrįsti ir protingi lūkesčiai neišsipildo ir dėl to turistas lieka kelione
-nepatenkintas, jis turi teisę reikalauti atlyginti ir neturtinę žalą.
-Atlygintinos neturtinės žalos dydis šiuo atveju negali viršyti trigubos
-kelionės kainos.
-Straipsnio pakeitimas:
+nepatenkintas, jis turi teisę reikalauti atlyginti ir neturtinę žalą. Atlygintinos
+neturtinės žalos dydis šiuo atveju negali viršyti trigubos kelionės kainos.
+Straipsnio
+pakeitimas:
 Nr. XI-447,
 2009-10-22, Žin., 2009, Nr. 134-5832 (2009-11-10)
  
@@ -27928,9 +27945,9 @@ vadinamas įgaliojimu.
 straipsnis. Sutarties dalykas
 1. Pavedimo
 sutartimi įgaliotojas gali pavesti įgaliotiniui atlikti teisinius veiksmus,
-susijusius su įgaliotojo gynimu, įgaliotojo viso ar dalies turto administravimu,
-procesinių veiksmų atlikimu įgaliotojo vardu teismo ir kitose institucijose,
-bei kitokius teisinius veiksmus.
+susijusius su įgaliotojo gynimu, įgaliotojo viso ar dalies turto
+administravimu, procesinių veiksmų atlikimu įgaliotojo vardu teismo ir kitose
+institucijose, bei kitokius teisinius veiksmus.
 2. Asmens
 sutikimas priimti jam duotą pavedimą gali būti išreikštas aiškiai arba,
 atsižvelgiant į konkrečias aplinkybes, – tylėjimu.
@@ -27965,8 +27982,8 @@ nurodymai privalo būti teisėti, įvykdomi ir konkretūs.
 turi teisę nukrypti nuo įgaliotojo nurodymų, jeigu, atsižvelgiant į konkrečias
 aplinkybes, tai yra būtina įgaliotojo interesais, o įgaliotinis negalėjo iš
 anksto atsiklausti įgaliotojo arba per protingą terminą negavo atsakymo į savo
-paklausimą. Šiuo atveju įgaliotinis privalo pranešti įgaliotojui apie nukrypimus,
-kai tik įmanoma apie tai pranešti.
+paklausimą. Šiuo atveju įgaliotinis privalo pranešti įgaliotojui apie
+nukrypimus, kai tik įmanoma apie tai pranešti.
 3. Jeigu
 įgaliotinis veikia kaip komercinis atstovas, tai įgaliotojas savo interesais
 gali suteikti jam teisę nukrypti nuo pavedimo ir be išankstinio paklausimo.
@@ -28052,10 +28069,10 @@ viena iš pavedimo sutarties šalių;
 šalių iškeliama bankroto byla;
 7) viena iš
 šalių pripažįstama neveiksnia, ribotai veiksnia ar nežinia kur esančia.
-2. Jeigu įgaliotojas
-tiems patiems veiksmams atlikti paskiria naują įgaliotinį, tai pavedimo
-sutartis laikoma pasibaigusia nuo to momento, kai pirmajam įgaliotiniui buvo
-pranešta apie naujo įgaliotinio paskyrimą.
+2. Jeigu
+įgaliotojas tiems patiems veiksmams atlikti paskiria naują įgaliotinį, tai
+pavedimo sutartis laikoma pasibaigusia nuo to momento, kai pirmajam įgaliotiniui
+buvo pranešta apie naujo įgaliotinio paskyrimą.
 3. Jeigu
 įgaliotojas dėl savo sveikatos būklės ar dėl kitų svarbių priežasčių negali
 savarankiškai panaikinti įgaliojimo, kiekvienas suinteresuotas asmuo, taip pat
@@ -28074,13 +28091,12 @@ pavedimą po to, kai sužinojo ar turėjo sužinoti, kad sutartis baigėsi.
 atsako už žalą, kurią patiria įgaliotojas dėl to, kad įgaliotinis atsisakė
 įgaliojimo be svarbių priežasčių ar netinkamu laiku.
 3. Komercinio
-atstovavimo atveju taikomos specialios taisyklės, nustatytos šio kodekso
-2.152–2.168 straipsniuose.
+atstovavimo atveju taikomos specialios taisyklės, nustatytos šio kodekso 2.152–2.168
+straipsniuose.
 4. Pasibaigus
 pavedimo sutarčiai, įgaliotinis privalo pateikti įgaliotojui ataskaitą ir
 grąžinti viską, ką yra gavęs pagal sutartį, bei atlikti visus veiksmus, kurie
-yra jo veiklos būtina pasekmė, kad būtų išvengta nuostolių padarymo
-įgaliotojui.
+yra jo veiklos būtina pasekmė, kad būtų išvengta nuostolių padarymo įgaliotojui.
  
 6.765
 straipsnis. Įgaliotinio įpėdinių ir likvidatoriaus pareigos
@@ -28102,8 +28118,8 @@ franšizė
 6.766
 straipsnis. Franšizės sutarties samprata
 1. Franšizės
-sutartimi viena šalis (teisių turėtojas) įsipareigoja perduoti už atlyginimą
-kitai šaliai (naudotojui) tam tikram terminui arba neterminuotai teisę naudotis
+sutartimi viena šalis (teisių turėtojas) įsipareigoja perduoti už atlyginimą kitai
+šaliai (naudotojui) tam tikram terminui arba neterminuotai teisę naudotis
 verslo tikslais išimtinių teisių, priklausančių teisių turėtojui, visuma (teise
 į firmos vardą, teise į prekių ar paslaugų ženklą, teise į saugomą komercinę
 (gamybinę) informaciją ir kt.), o kita šalis įsipareigoja už tai mokėti
@@ -28159,8 +28175,8 @@ nutraukiant neterminuotą franšizės sutartį.
 franšizės sutartis nenustato ko kita, naudotojas atsako teisių turėtojui už
 subnaudotojų veiksmus subsidiariai.
 6.
-Subfranšizės sutarčiai taikomos šio skyriaus taisyklės, jeigu subfranšizės ypatumai
-leidžia tą daryti.
+Subfranšizės sutarčiai taikomos šio skyriaus taisyklės, jeigu subfranšizės
+ypatumai leidžia tą daryti.
  
 6.769
 straipsnis. Atlyginimas pagal franšizės sutartį
@@ -28228,9 +28244,9 @@ straipsnis. Šalių teisių apribojimai
 1. Sutarties
 šalys gali sutartyje numatyti tik tokias konkurenciją ribojančias sąlygas,
 kurių nedraudžia konkurencijos teisė. 
-2. Jeigu įvykdytas
-šio straipsnio 1 dalies reikalavimas, franšizės sutartis gali numatyti šiuos
-šalių teisių apribojimus:
+2. Jeigu
+įvykdytas šio straipsnio 1 dalies reikalavimas, franšizės sutartis gali
+numatyti šiuos šalių teisių apribojimus:
 1) teisių
 turėtojo prievolę nesuteikti kitiems asmenims analogiškų išimtinių teisių
 visumos naudoti toje pačioje teritorijoje kaip ir naudotojas arba teisių
@@ -28260,8 +28276,8 @@ suteikiančios naudotojui teisę parduoti prekes, atlikti darbus ar teikti
 paslaugas tik tam tikros kategorijos pirkėjams (užsakovams) arba tik pirkėjams
 (užsakovams), gyvenantiems franšizės sutartyje nustatytoje teritorijoje.
  
-6.773 straipsnis. Teisių turėtojo atsakomybė
-pagal naudotojui pareikštus reikalavimus
+6.773 straipsnis. Teisių turėtojo
+atsakomybė pagal naudotojui pareikštus reikalavimus
 1. Teisių
 turėtojas subsidiariai atsako pagal naudotojui pareikštus reikalavimus dėl
 prekių (darbų, paslaugų), naudotojo parduotų pagal franšizės sutartį, kokybės.
@@ -28278,8 +28294,8 @@ terminui, sudaryti sutartį tokiomis pat sąlygomis naujam terminui.
 turėtojas turi teisę atsisakyti sudaryti franšizės sutartį naujam terminui,
 jeigu jis įsipareigoja, kad per trejus metus po sutarties pasibaigimo nesudarys
 su kitais asmenimis analogiškos franšizės sutarties, kuri galiotų toje pat
-teritorijoje kaip ir pasibaigusi sutartis. Jeigu nepraėjus trejiems metams
-teisių turėtojas nori suteikti tas pačias teises kitiems asmenims, jis privalo
+teritorijoje kaip ir pasibaigusi sutartis. Jeigu nepraėjus trejiems metams teisių
+turėtojas nori suteikti tas pačias teises kitiems asmenims, jis privalo
 pasiūlyti naudotojui sudaryti naują sutartį arba atlyginti nuostolius. Sudarius
 naują sutartį, jos sąlygos neturi būti naudotojui sunkesnės nei ankstesnės
 sutarties sąlygos.
@@ -28298,8 +28314,8 @@ franšizės sutartis sudaryta neterminuotam laikui, bet kuri šalis turi teisę 
 nutraukti pranešusi apie tai kitai šaliai prieš šešis mėnesius, jeigu sutartis
 nenustato ilgesnio termino.
 2. Franšizės
-sutarties nutraukimas (pabaiga) turi būti registruojamas šio kodekso 6.767 straipsnio
-2 dalies nustatyta tvarka.
+sutarties nutraukimas (pabaiga) turi būti registruojamas šio kodekso 6.767
+straipsnio 2 dalies nustatyta tvarka.
 3. Jeigu teisių
 turėtojas netenka teisės į firmos ar į prekių (paslaugų) ženklą ir vietoj jos
 neįgyja naujos analogiškos teisės, franšizės sutartis baigiasi.
@@ -28509,8 +28525,8 @@ straipsnis. Komisionieriaus ataskaita
 1. Įvykdęs
 pavedimą, komisionierius privalo pateikti komitentui ataskaitą ir perduoti jam
 visa, ką gavo pagal įvykdytą pavedimą, taip pat komitento reikalavimu perduoti
-visas teises, kurias komitentas įgijo trečiajam asmeniui, kylančias iš komisionieriaus
-sudaryto sandorio.
+visas teises, kurias komitentas įgijo trečiajam asmeniui, kylančias iš
+komisionieriaus sudaryto sandorio.
 2. Jeigu komitentas
 ataskaitai prieštarauja, jis privalo pranešti apie tai komisionieriui per tris
 mėnesius nuo ataskaitos gavimo dienos. Priešingu atveju, jeigu nėra kitokio
@@ -28522,9 +28538,9 @@ Komitentas
 privalo:
 1) priimti iš
 komisionieriaus visa, kas įvykdyta pagal pavedimą;
-2) apžiūrėti
-daiktą, kurį jam įgijo komisionierius, ir tuojau pranešti šiam apie pastebėtus
-to daikto trūkumus;
+2) apžiūrėti daiktą,
+kurį jam įgijo komisionierius, ir tuojau pranešti šiam apie pastebėtus to
+daikto trūkumus;
 3) atleisti komisionierių
 nuo įsipareigojimų, kuriuos šis, vykdydamas pavedimą, prisiėmė trečiajam
 asmeniui.
@@ -28535,9 +28551,9 @@ straipsnis. Pavedimo vykdymo išlaidų atlyginimas
 privalo kartu su komisiniu atlyginimu, o atitinkamais atvejais – ir atlyginimu
 už laidavimą (delkredere), atlyginti komisionieriui šio turėtas būtinas
 pavedimo vykdymo išlaidas, jeigu šalių susitarimo nenustatyta kitaip.
-2.
-Komisionierius neturi teisės reikalauti atlyginti esančio pas jį komitento
-daikto pasaugos išlaidas, jeigu įstatyme ar sutartyje nenustatyta kitaip.
+2. Komisionierius
+neturi teisės reikalauti atlyginti esančio pas jį komitento daikto pasaugos
+išlaidas, jeigu įstatyme ar sutartyje nenustatyta kitaip.
  
 6.792
 straipsnis. Komiso sutarties pabaiga
@@ -28548,12 +28564,12 @@ atsisako komiso sutarties;
 2)
 komisionierius atsisako komiso sutarties įstatymo ar sutarties numatytais
 atvejais;
-3) komisionierius
-miršta, pripažįstamas neveiksniu, ribotai veiksniu ar nežinia kur esančiu,
-likviduojamas arba tampa nemokus (iškeliama bankroto byla).
-2. Jeigu
-komisionieriui iškeliama bankroto byla, visos teisės ir pareigos pagal
-komitento nurodymu sudarytą sandorį pereina komitentui.
+3)
+komisionierius miršta, pripažįstamas neveiksniu, ribotai veiksniu ar nežinia
+kur esančiu, likviduojamas arba tampa nemokus (iškeliama bankroto byla).
+2. Jeigu komisionieriui
+iškeliama bankroto byla, visos teisės ir pareigos pagal komitento nurodymu
+sudarytą sandorį pereina komitentui.
  
 6.793
 straipsnis. Komisinio pavedimo panaikinimas
@@ -28601,9 +28617,9 @@ gavęs pranešimą apie komisionieriaus atsisakymą įvykdyti pavedimą, privalo
 vieną mėnesį nuo atsisakymo gavimo dienos duoti patvarkymą dėl esančio pas
 komisionierių savo turto.
 2. Jeigu
-komitentas per nurodytą terminą neduoda patvarkymo dėl esančio pas komisionierių
-savo daikto, komisionierius turi teisę perduoti šį daiktą saugoti komitento
-lėšomis arba, turėdamas tikslą patenkinti su komintentu susijusius savo
+komitentas per nurodytą terminą neduoda patvarkymo dėl esančio pas
+komisionierių savo daikto, komisionierius turi teisę perduoti šį daiktą saugoti
+komitento lėšomis arba, turėdamas tikslą patenkinti su komintentu susijusius savo
 reikalavimus, parduoti tą daiktą kuo naudingesne komitentui kaina.
  
 XXXIX skyrius
@@ -28741,9 +28757,9 @@ sutartas prekes tik distributoriui ir neparduoti prekių tiesiai vartotojams;
 distributoriaus darbuotojus;
 4) aprūpinti
 distributorių reklamine medžiaga;
-5) mokėti
-distributoriui sutartyje nustatytą atlyginimą už distributoriaus teikiamas
-papildomas paslaugas.
+5) mokėti distributoriui
+sutartyje nustatytą atlyginimą už distributoriaus teikiamas papildomas
+paslaugas.
  
 6.804
 straipsnis. Sutarties nutraukimas
@@ -28787,8 +28803,8 @@ Vežimas
  
 6.807
 straipsnis. Bendrosios vežimo nuostatos
-1. Kroviniai,
-keleiviai ir bagažas vežami pagal vežimo sutartis.
+1. Kroviniai, keleiviai
+ir bagažas vežami pagal vežimo sutartis.
 2. Vežimo
 sąlygas nustato šis kodeksas, atskirų transporto šakų kodeksai ir kiti
 įstatymai, Lietuvos Respublikos tarptautinės sutartys bei kiti transporto
@@ -28830,8 +28846,8 @@ straipsnis. Tiesioginis kombinuotas susisiekimas
 1. Transporto
 įmonių santykius, susijusius su krovinių, keleivių ar bagažo vežimu skirtingų
 transporto rūšių priemonėmis pagal vieną vežimo dokumentą (tiesioginis
-kombinuotas susisiekimas), taip pat tokių vežimų organizavimą reglamentuoja
-atitinkamų transporto organizacijų sudarytos sutartys.
+kombinuotas susisiekimas), taip pat tokių vežimų organizavimą reglamentuoja atitinkamų
+transporto organizacijų sudarytos sutartys.
 2. Kai vežėjas
 perduoda visas savo prievoles ar jų dalį kitam vežėjui, šis taip pat
 pripažįstamas vežimo sutarties šalimi. Siuntėjas (gavėjas), atsiskaitęs su
@@ -28839,10 +28855,10 @@ vienu iš kelių vežėjų, pripažįstamas įvykdžiusiu savo prievoles.
  
 6.812
 straipsnis. Vežimas viešuoju (bendrojo naudojimo) transportu
-1. Juridinis asmuo
-(verslininkas), teikiantis vežimo paslaugas, pripažįstamas teikiančiu viešojo
-transporto paslaugas, jeigu jis pagal įstatymą arba leidimą (licenciją) privalo
-vežti krovinius ar keleivius bet kurio asmens pageidavimu nustatytais
+1. Juridinis
+asmuo (verslininkas), teikiantis vežimo paslaugas, pripažįstamas teikiančiu
+viešojo transporto paslaugas, jeigu jis pagal įstatymą arba leidimą (licenciją)
+privalo vežti krovinius ar keleivius bet kurio asmens pageidavimu nustatytais
 maršrutais ir nustatytu laiku.
 2. Vežimo
 viešuoju transportu sutartis yra viešoji sutartis.
@@ -28908,9 +28924,9 @@ straipsnis. Atsakomybė už vežimo sutarties pažeidimą
 sutarties neįvykdymą ar netinkamą įvykdymą šalys atsako vežimo sutarties, šio
 kodekso, taip pat atskirų transporto šakų kodeksų ir kitų įstatymų nustatytais
 pagrindais ir tvarka.
-2. Vežimo sutarties
-sąlygos, panaikinančios ar ribojančios vežėjo civilinę atsakomybę, negalioja,
-išskyrus įstatymo nustatytas išimtis.
+2. Vežimo
+sutarties sąlygos, panaikinančios ar ribojančios vežėjo civilinę atsakomybę,
+negalioja, išskyrus įstatymo nustatytas išimtis.
  
 6.818 straipsnis. Atsakomybė už
 transporto priemonių nepateikimą ir jų nepanaudojimą
@@ -28919,8 +28935,8 @@ transporto priemonių nepateikimą, o siuntėjas – už krovinių nepateikimą 
 pateiktų transporto priemonių nepanaudojimą atsako vežimo sutarties ar įstatymų
 nustatytais pagrindais ir tvarka.
 2. Pervežėjas ir
-siuntėjas atleidžiami nuo atsakomybės už transporto priemonių nepateikimą arba jų
-nepanaudojimą, jeigu tai įvyko dėl:
+siuntėjas atleidžiami nuo atsakomybės už transporto priemonių nepateikimą arba
+jų nepanaudojimą, jeigu tai įvyko dėl:
 1) nenugalimos
 jėgos;
 2) krovinių
@@ -28938,9 +28954,9 @@ priemones), vežėjas moka keleiviui transporto įstatymuose nustatytas netesyba
 jeigu neįrodo, kad tai įvyko dėl nenugalimos jėgos, transporto priemonės
 gedimo, gresiančio keleivių sveikatai ar gyvybei, šalinimo arba kitokių nuo
 vežėjo nepriklausančių aplinkybių.
-2. Jeigu dėl transporto
-priemonės vėlavimo keleivis atsisako vežimo sutarties, vežėjas privalo grąžinti
-keleiviui jo sumokėtą vežimo mokestį.
+2. Jeigu dėl
+transporto priemonės vėlavimo keleivis atsisako vežimo sutarties, vežėjas
+privalo grąžinti keleiviui jo sumokėtą vežimo mokestį.
  
 6.820 straipsnis. Vežėjo atsakomybė už
 krovinio ar bagažo neišsaugojimą
@@ -28973,8 +28989,8 @@ vežėjui pareiškimą prieš kreipiantis į teismą.
 straipsnis. Vežimų organizavimo sutartys
 1. Jeigu
 kroviniai vežami nuolat ir reikia nustatyti transporto priemonių ir krovinių
-pateikimo terminus ir tvarką, vežėjas ir krovinių siuntėjas sudaro ilgalaikę vežimų
-organizavimo sutartį.
+pateikimo terminus ir tvarką, vežėjas ir krovinių siuntėjas sudaro ilgalaikę
+vežimų organizavimo sutartį.
 2. Vežimų
 organizavimo sutartimi vežėjas įsipareigoja sutartyje nustatytu laiku priimti,
 o siuntėjas – pateikti vežti sutartyje nustatyto dydžio krovinį. Vežimų
@@ -28983,11 +28999,10 @@ terminai, atsiskaitymų tvarka ir kitos sąlygos.
  
 6.823 straipsnis. Vežėjo atsakomybė už
 keleivio gyvybės atėmimą ar sveikatos sužalojimą
-Vežėjo
-atsakomybė už keleivio gyvybės atėmimą ar sveikatos sužalojimą nustatoma pagal
-šio kodekso XXII skyriaus trečiojo skirsnio (6.263–6.291 straipsniai)
-taisykles, jeigu įstatymas ar vežimo sutartis nenustato didesnės vežėjo
-civilinės atsakomybės.
+Vežėjo atsakomybė
+už keleivio gyvybės atėmimą ar sveikatos sužalojimą nustatoma pagal šio kodekso
+XXII skyriaus trečiojo skirsnio (6.263–6.291 straipsniai) taisykles, jeigu
+įstatymas ar vežimo sutartis nenustato didesnės vežėjo civilinės atsakomybės.
  
 XLI skyrius
 krovinių ekspedicija
@@ -29001,10 +29016,10 @@ numatyti krovinių ekspedijavimo sutartyje.
 – juridinis asmuo (verslininkas), sudaręs krovinių ekspedijavimo sutartį su
 užsakovu ir įsipareigojęs užsakovo (užsakovo kliento) lėšomis, jo ar savo vardu
 gabenti jam priklausantį krovinį ir atlikti kitus su tuo susijusius veiksmus.
-3. Krovinių ekspedicijos
-sutartimi viena šalis (ekspeditorius) įsipareigoja už atlyginimą kitos šalies –
-užsakovo (užsakovo kliento) – lėšomis teikti arba organizuoti sutartyje
-numatytas paslaugas, susijusias su krovinių vežimu.
+3. Krovinių ekspedicijos sutartimi
+viena šalis (ekspeditorius) įsipareigoja už atlyginimą kitos šalies – užsakovo
+(užsakovo kliento) – lėšomis teikti arba organizuoti sutartyje numatytas
+paslaugas, susijusias su krovinių vežimu.
 4. Krovinių ekspedicijos
 sutartis laikoma sudaryta nuo to momento, kai ekspeditorius patvirtina gautą
 užsakymą. 
@@ -29070,8 +29085,8 @@ kad užsakovas (užsakovo klientas) neįvykdė šiame straipsnyje nustatytų par
 6.828
 straipsnis. Trečiojo asmens pasitelkimas prievolei įvykdyti
 1. Ekspeditorius
-savo prievolei įvykdyti turi teisę pasitelkti trečiuosius asmenis, jeigu sutartis
-nenustato, kad sutartį ekspeditorius privalo įvykdyti asmeniškai.
+savo prievolei įvykdyti turi teisę pasitelkti trečiuosius asmenis, jeigu
+sutartis nenustato, kad sutartį ekspeditorius privalo įvykdyti asmeniškai.
 2. Sutarties
 vykdymo visiškas ar dalinis perdavimas tretiesiems asmenims neatleidžia
 ekspeditoriaus nuo atsakomybės užsakovui (užsakovo klientui) už sutarties
@@ -29126,8 +29141,8 @@ turi būti rašytinė visais atvejais.
 3. Pasaugos
 sutartis pripažįstama rašytine, jeigu daikto perdavimas saugotojui
 patvirtinamas:
-1) saugotojo išduotu
-davėjui kvitu ar kitu dokumentu;
+1) saugotojo
+išduotu davėjui kvitu ar kitu dokumentu;
 2) žetonu
 (numeriu) arba kitokiu ženklu.
 4. Paprastos
@@ -29157,12 +29172,12 @@ daiktą.
 6.833
 straipsnis. Pareigos perduoti saugoti daiktą vykdymas
 1. Saugotojas,
-įsipareigojęs priimti daiktą saugoti, neturi teisės reikalauti, kad daiktas
-būtų perduotas jam saugoti. Tačiau davėjas, neperdavęs daikto saugoti per
-sutartyje nustatytą terminą, turi atlyginti saugotojui nuostolius, kuriuos šis
-patyrė dėl to, kad daiktas saugoti nebuvo perduotas, jeigu sutartis nenustato
-ko kita. Davėjas atleidžiamas nuo šios atsakomybės, jeigu apie savo atsisakymą
-perduoti daiktą saugoti praneša saugotojui per protingą terminą.
+įsipareigojęs priimti daiktą saugoti, neturi teisės reikalauti, kad daiktas būtų
+perduotas jam saugoti. Tačiau davėjas, neperdavęs daikto saugoti per sutartyje
+nustatytą terminą, turi atlyginti saugotojui nuostolius, kuriuos šis patyrė dėl
+to, kad daiktas saugoti nebuvo perduotas, jeigu sutartis nenustato ko kita.
+Davėjas atleidžiamas nuo šios atsakomybės, jeigu apie savo atsisakymą perduoti
+daiktą saugoti praneša saugotojui per protingą terminą.
 2. Jeigu ko kita
 nenustato sutartis, saugotojas turi teisę atsisakyti priimti saugoti daiktą,
 jeigu jis jam nebuvo perduotas per sutartyje nustatytą terminą.
@@ -29175,10 +29190,10 @@ privalo saugoti daiktą sutartyje nustatytą pasaugos terminą.
 sutartyje pasaugos terminas nenustatytas ir negali būti nustatytas pagal
 sutarties sąlygas, saugotojas privalo saugoti daiktą, iki jį pareikalaus
 grąžinti davėjas ar kitas asmuo, turintis teisę jį atsiimti.
-3. Jeigu nustatoma,
-kad pasaugos terminas baigiasi nuo pareikalavimo momento, tai saugotojas,
-pasibaigus įprastiniam tokiomis sąlygomis saugojimo terminui, turi teisę
-pareikalauti, kad davėjas atsiimtų daiktą per protingą terminą po tokio
+3. Jeigu
+nustatoma, kad pasaugos terminas baigiasi nuo pareikalavimo momento, tai
+saugotojas, pasibaigus įprastiniam tokiomis sąlygomis saugojimo terminui, turi
+teisę pareikalauti, kad davėjas atsiimtų daiktą per protingą terminą po tokio
 pranešimo gavimo. Jeigu davėjas daikto neatsiima, taikomos šio kodekso 6.843
 straipsnyje nustatytos taisyklės.
  
@@ -29270,8 +29285,8 @@ atlyginimą pasibaigus saugojimui. Šalys gali susitarti, kad atlyginimas bus
 mokamas dalimis periodiškai, pasibaigus sutartyje nustatytam periodui.
 2. Jeigu
 susitarta atlyginimą mokėti periodiškai, davėjui nesumokėjus atlyginimo daugiau
-kaip už vieną periodą, saugotojas turi teisę atsisakyti sutarties ir pareikalauti,
-kad davėjas nedelsdamas atsiimtų daiktą.
+kaip už vieną periodą, saugotojas turi teisę atsisakyti sutarties ir
+pareikalauti, kad davėjas nedelsdamas atsiimtų daiktą.
 3. Jeigu
 pasaugos sutartis baigiasi prieš joje nustatytą terminą dėl aplinkybių, už
 kurias saugotojas neatsako, jis turi teisę į atlyginimo dalį, kuri atitinka
@@ -29498,8 +29513,8 @@ straipsnis. Sandėliavimo dokumentai
 1. Prekių
 sandėlis, priėmęs saugoti prekes, išduoda vieną iš šių sandėliavimo sutartį
 patvirtinančių dokumentų:
-1) dvigubą sandėliavimo
-liudijimą;
+1) dvigubą
+sandėliavimo liudijimą;
 2) paprastą
 sandėliavimo liudijimą;
 3) sandėlio
@@ -29534,8 +29549,8 @@ saugojimo terminas arba nurodymas, kad jos saugomos iki pareikalavimo;
 6) atlyginimo už
 pasaugą dydis arba tarifai, pagal kuriuos atlyginimas apskaičiuojamas, ir
 apmokėjimo tvarka;
-7) sandėliavimo
-liudijimo išdavimo data.
+7) sandėliavimo liudijimo
+išdavimo data.
 2. Dokumentas, kuriame nėra
 bent vieno iš šio straipsnio 1 dalyje nurodytų rekvizitų, nepripažįstamas
 dvigubu sandėliavimo liudijimu.
@@ -29586,9 +29601,9 @@ straipsnis. Paprastas sandėliavimo liudijimas
 sandėliavimo liudijimas yra pareikštinis dokumentas, suteikiantis teisę
 atsiimti prekes jį pateikusiam asmeniui.
 2. Paprastame
-sandėliavimo liudijime turi būti nurodyti rekvizitai, numatyti šio kodekso 6.857
-straipsnio 1 dalies 1, 2, 4–7 punktuose, bei nuoroda, kad šis liudijimas yra
-pareikštinis dokumentas.
+sandėliavimo liudijime turi būti nurodyti rekvizitai, numatyti šio kodekso
+6.857 straipsnio 1 dalies 1, 2, 4–7 punktuose, bei nuoroda, kad šis liudijimas
+yra pareikštinis dokumentas.
  
 6.862
 straipsnis. Prekių saugojimas su teise jomis disponuoti
@@ -29665,9 +29680,9 @@ straipsnio 1 dalį viešbutis atsako už daiktų praradimą, trūkumą ar sugadi
 kurie:
 1) asmens
 gyvenimo viešbutyje metu buvo viešbučio numeryje ar kitoje viešbučio vietoje;
-2) buvo
-viešbutyje apsigyvenusio asmens patikėti viešbučio darbuotojams saugoti pačiame
-viešbutyje ar už jo ribų;
+2) buvo viešbutyje
+apsigyvenusio asmens patikėti viešbučio darbuotojams saugoti pačiame viešbutyje
+ar už jo ribų;
 3) buvo
 viešbučio saugojami protingą terminą iki asmens apsigyvenimo viešbutyje ir po
 to, kai asmuo iš viešbučio išvyko.
@@ -29777,10 +29792,9 @@ vertę, nurodytą perduodant daiktus saugoti.
  
 6.869
 straipsnis. Daiktų saugojimas drabužinėse
-1.
-Preziumuojama, kad drabužinėse daiktai saugomi neatlygintinai, išskyrus
-atvejus, kai jie perduoti saugoti aiškiai sutarus, kad bus saugoma už
-atlyginimą.
+1. Preziumuojama,
+kad drabužinėse daiktai saugomi neatlygintinai, išskyrus atvejus, kai jie
+perduoti saugoti aiškiai sutarus, kad bus saugoma už atlyginimą.
 2. Nepaisant to,
 ar pasaugos sutartis atlygintinė ar ne, saugotojas privalo imtis visų nuo jo
 priklausančių priemonių užtikrinti drabužinei perduotų daiktų išsaugojimą.
@@ -29955,10 +29969,10 @@ Kreditavimas
 6.881
 straipsnis. Kreditavimo sutarties samprata
 1. Kreditavimo
-sutartimi bankas ar kita kredito įstaiga (kreditorius) įsipareigoja suteikti
-kredito gavėjui sutartyje nustatyto dydžio ir nustatytomis sąlygomis pinigines
-lėšas (kreditą), o kredito gavėjas įsipareigoja gautą sumą grąžinti kreditoriui
-ir mokėti palūkanas.
+sutartimi bankas ar kita kredito įstaiga (kreditorius) įsipareigoja suteikti kredito
+gavėjui sutartyje nustatyto dydžio ir nustatytomis sąlygomis pinigines lėšas
+(kreditą), o kredito gavėjas įsipareigoja gautą sumą grąžinti kreditoriui ir
+mokėti palūkanas.
 2. Kreditavimo
 santykiams šio skyriaus pirmojo skirsnio normos taikomos tiek, kiek tai
 neprieštarauja kreditavimo sutarties esmei ir šio skirsnio nustatytoms
@@ -29977,9 +29991,9 @@ turi teisę visiškai ar iš dalies atsisakyti suteikti kredito gavėjui sutarty
 numatytą kreditą, jeigu paaiškėjo aplinkybės, akivaizdžiai patvirtinančios, kad
 suteiktas kreditas nebus laiku grąžintas.
 2. Kredito
-gavėjas turi teisę atsisakyti visiškai ar iš dalies priimti kreditą, pranešdamas
-apie tai kreditoriui iki sutartyje nustatyto kredito suteikimo termino, jeigu
-sutartyje nenustatyta ko kita.
+gavėjas turi teisę atsisakyti visiškai ar iš dalies priimti kreditą,
+pranešdamas apie tai kreditoriui iki sutartyje nustatyto kredito suteikimo
+termino, jeigu sutartyje nenustatyta ko kita.
 3. Jeigu kredito
 gavėjas pažeidžia sutartyje nustatytą kredito tikslinio naudojimo pareigą (šio
 kodekso 6.877 straipsnis), kreditorius turi teisę atsisakyti toliau kredituoti
@@ -30060,9 +30074,9 @@ arba kredito limitas, jeigu toks yra;
 2) metinė kredito grąžinimo
 norma, palūkanų norma, mokesčiai ir kitos su kredito gavimu bei naudojimu
 susijusios kredito gavėjo išlaidos;
-3) kredito grąžinimo terminas
-arba, jeigu kreditas turi būti grąžinamas dalinėmis įmokomis, – kiekvienos
-įmokos suma ir mokėjimo laikas;
+3) kredito grąžinimo
+terminas arba, jeigu kreditas turi būti grąžinamas dalinėmis įmokomis, –
+kiekvienos įmokos suma ir mokėjimo laikas;
 4) daiktui ar paslaugai
 pirkti skirto kredito atveju – daikto (paslaugos) kaina ir bendra kredito suma;
 5) kredito gavėjo teisė
@@ -30142,8 +30156,8 @@ davėjas grąžintų jau sumokėtas įmokas.
 2. Kredito gavėjas gali
 pasinaudoti šio straipsnio 1 dalyje nustatytomis teisėmis tik po to, kai jis
 kreipėsi į pardavėją ar paslaugų teikėją su prašymu tinkamai įvykdyti sutartį,
-tačiau per protingą terminą po tokio kreipimosi pirkimo-pardavimo ar paslaugų sutarties
-sąlygos nebuvo įvykdytos.
+tačiau per protingą terminą po tokio kreipimosi pirkimo-pardavimo ar paslaugų
+sutarties sąlygos nebuvo įvykdytos.
 3. Kredito gavėjas, kurio
 teisės buvo pažeistos, turi teisę jas ginti teismo tvarka arba per vartotojų
 teises ginančias institucijas.
@@ -30173,9 +30187,9 @@ indėlius turi tik bankai ir kitos kredito įstaigos, turinčios tokiai veiklai
 įstatymo nustatyta tvarka išduotą leidimą (licenciją).
 2. Jeigu indėlį
 priėmė asmuo, neturintis tam teisės, arba indėlis buvo priimtas pažeidžiant
-nustatytas bankų veiklos taisykles, indėlininkas turi teisę reikalauti nedelsiant
-jam grąžinti visas įmokėtas sumas, įstatymo nustatytas palūkanas ir nuostolius,
-kiek jų nepadengia palūkanos.
+nustatytas bankų veiklos taisykles, indėlininkas turi teisę reikalauti
+nedelsiant jam grąžinti visas įmokėtas sumas, įstatymo nustatytas palūkanas ir
+nuostolius, kiek jų nepadengia palūkanos.
 3. Jeigu
 įstatymas nenustato ko kita, šio straipsnio 2 dalyje nustatytos teisinės
 pasekmės taip pat taikomos, kai:
@@ -30209,8 +30223,9 @@ kreditų įstaigų veiklą reglamentuojantys teisės aktai bei šalys susitarimu
 nustatyti ir kitokias indėlių rūšis.
 3. Nepaisant
 indėlio rūšies, bankas ar kita kredito įstaiga privalo išmokėti visą ar dalį
-indėlio pagal pirmą indėlininko pareikalavimą. Sutarties sąlyga, numatanti indėlininko
-atsisakymą teisės gauti indėlį pagal pirmą pareikalavimą, negalioja.
+indėlio pagal pirmą indėlininko pareikalavimą. Sutarties sąlyga, numatanti
+indėlininko atsisakymą teisės gauti indėlį pagal pirmą pareikalavimą,
+negalioja.
 4. Kai indėlis
 išmokamas indėlininkui prieš sueinant sutartyje nustatytam terminui ar prieš
 susidarant kitoms joje numatytoms aplinkybėms (išskyrus indėlius iki
@@ -30237,9 +30252,9 @@ vietoje.
 sutartis nenustato ko kita, bankas ar kita kredito įstaiga turi teisę
 vienašališkai keisti palūkanų, mokamų už indėlius iki pareikalavimo, dydį.
 Jeigu bankas ar kita kredito įstaiga sumažina palūkanų dydį, tai nauja palūkanų
-norma pradedama taikyti indėliams, kurie yra įmokėti iki pranešimo
-indėlininkams apie palūkanų dydžio sumažinimą, tik praėjus mėnesiui nuo šio
-pranešimo, jeigu ko kita nenustato sutartis.
+norma pradedama taikyti indėliams, kurie yra įmokėti iki pranešimo indėlininkams
+apie palūkanų dydžio sumažinimą, tik praėjus mėnesiui nuo šio pranešimo, jeigu
+ko kita nenustato sutartis.
 5. Palūkanų,
 mokamų už terminuotus ar kitokius indėlius, dydžio bankas ar kita kredito
 įstaiga vienašališkai mažinti neturi teisės, jeigu ko kita nenustato sutartis.
@@ -30248,8 +30263,8 @@ mokamų už terminuotus ar kitokius indėlius, dydžio bankas ar kita kredito
 straipsnis. Palūkanų apskaičiavimas ir mokėjimas
 1. Palūkanos už
 indėlius pradedamos skaičiuoti nuo kitos dienos po indėlio priėmimo dienos iki
-dienos, einančios prieš dieną, kai indėlis buvo išmokėtas ar nurašytas iš
-sąskaitos kitais pagrindais.
+dienos, einančios prieš dieną, kai indėlis buvo išmokėtas ar nurašytas iš sąskaitos
+kitais pagrindais.
 2. Jeigu
 sutartis nenustato ko kita, palūkanos išmokamos indėlininkui pagal jo
 reikalavimą, pasibaigus ketvirčiui, atskirai nuo indėlio sumos. Neišmokėtų
@@ -30268,9 +30283,9 @@ banko indėlio sutartį, bankas ar kita kredito įstaiga privalo suteikti
 indėlininkui informaciją apie indėlio grąžinimo užtikrinimą.
 3. Jeigu bankas
 ar kita kredito įstaiga nevykdo savo pareigos užtikrinti indėlio grąžinimą,
-taip pat praradus užtikrinimą arba jam pablogėjus, indėlininkas turi teisę reikalauti,
-kad bankas ar kita kredito įstaiga nedelsdami grąžintų indėlį, sumokėtų
-palūkanas ir atlygintų nuostolius.
+taip pat praradus užtikrinimą arba jam pablogėjus, indėlininkas turi teisę
+reikalauti, kad bankas ar kita kredito įstaiga nedelsdami grąžintų indėlį,
+sumokėtų palūkanas ir atlygintų nuostolius.
  
 6.899
 straipsnis. Trečiųjų asmenų teisė įmokėti pinigus į indėlininko sąskaitą
@@ -30310,9 +30325,9 @@ straipsnis. Indėlininko knygelė
 sutartis nenustato ko kita, banko indėlio sutartis įforminama indėlininko
 knygele. Indėlininko knygelė gali būti tik vardinė.
 2. Indėlininko
-knygelėje privalo būti nurodytas banko ar kitos kredito įstaigos pavadinimas,
-adresas ir kiti jų rekvizitai, indėlininkas, indėlio dydis, visos sutarties
-sąlygos, taip pat tvarkoma įmokėtų ir išmokėtų pinigų sumų apskaita, nurodomos
+knygelėje privalo būti nurodytas banko ar kitos kredito įstaigos pavadinimas, adresas
+ir kiti jų rekvizitai, indėlininkas, indėlio dydis, visos sutarties sąlygos,
+taip pat tvarkoma įmokėtų ir išmokėtų pinigų sumų apskaita, nurodomos
 apskaičiuotos ir išmokėtos palūkanos.
 3. Visos su
 indėliu susijusios operacijos atliekamos tik pateikus indėlininko knygelę.
@@ -30336,9 +30351,9 @@ Faktoringas
 straipsnis. Faktoringo sutarties samprata
 1. Faktoringo
 sutartimi viena šalis (finansuotojas) perduoda arba įsipareigoja perduoti kitai
-šaliai (klientui) pinigus mainais už kliento (kreditoriaus) piniginį reikalavimą,
-susijusį su prekių pardavimu, darbų atlikimu ar paslaugų teikimu, trečiajam
-asmeniui (skolininkui), o klientas perleidžia arba įsipareigoja perleisti
+šaliai (klientui) pinigus mainais už kliento (kreditoriaus) piniginį
+reikalavimą, susijusį su prekių pardavimu, darbų atlikimu ar paslaugų teikimu,
+trečiajam asmeniui (skolininkui), o klientas perleidžia arba įsipareigoja perleisti
 finansuotojui piniginį reikalavimą skolininkui (finansavimas su sąlyga
 perleisti piniginį reikalavimą) ir mokėti sutartyje nustatytą atlyginimą.
 2. Piniginį
@@ -30372,10 +30387,10 @@ sudarymo momentu būtų galima identifikuoti esamą reikalavimą, o būsimą
 reikalavimą – ne vėliau kaip jo atsiradimo momentu.
 3. Perleidžiant
 būsimą piniginį reikalavimą pripažįstama, kad jis perėjo finansuotojui po to,
-kai atsirado teisė reikalauti sutartyje nustatytų pinigų sumų iš skolininko.
-Jeigu piniginio reikalavimo perleidimas siejamas su tam tikru įvykiu,
-perleidimas pripažįstamas įvykusiu, kai tas įvykis įvyksta. Tokiais atvejais
-papildomai įforminti piniginio reikalavimo perleidimą nereikia.
+kai atsirado teisė reikalauti sutartyje nustatytų pinigų sumų iš skolininko. Jeigu
+piniginio reikalavimo perleidimas siejamas su tam tikru įvykiu, perleidimas
+pripažįstamas įvykusiu, kai tas įvykis įvyksta. Tokiais atvejais papildomai
+įforminti piniginio reikalavimo perleidimą nereikia.
  
 6.906
 straipsnis. Kliento atsakomybė finansuotojui
@@ -30383,9 +30398,9 @@ straipsnis. Kliento atsakomybė finansuotojui
 faktoringo sutartis nenustato ko kita, klientas atsako finansuotojui už
 perleidžiamo piniginio reikalavimo, esančio sutarties dalyku, galiojimą.
 2. Perleidžiamas
-piniginis reikalavimas yra galiojantis, jeigu klientas turi teisę šį
-reikalavimą perleisti ir perleidimo momentu jam nėra žinomos aplinkybės, dėl
-kurių skolininkas turėtų teisę to reikalavimo nevykdyti.
+piniginis reikalavimas yra galiojantis, jeigu klientas turi teisę šį reikalavimą
+perleisti ir perleidimo momentu jam nėra žinomos aplinkybės, dėl kurių
+skolininkas turėtų teisę to reikalavimo nevykdyti.
 3. Jeigu
 finansuotojas pareikalauja įvykdyti jam perleistą piniginį reikalavimą, o
 skolininkas jo neįvykdo ar įvykdo netinkamai, tai klientas neatsako už tokius
@@ -30445,9 +30460,10 @@ nepadengtą skolos dalį.
 straipsnis. Skolininko priešiniai reikalavimai
 1. Kai finansuotojas
 pareiškia reikalavimą skolininkui, kad šis sumokėtų pinigus, skolininkas turi
-teisę įskaityti savo priešinius piniginius reikalavimus, kylančius iš skolininko
-ir kliento sutarties, jeigu šiuos reikalavimus skolininkas jau turėjo tuo
-momentu, kai gavo pranešimą apie reikalavimo perleidimą finansuotojui.
+teisę įskaityti savo priešinius piniginius reikalavimus, kylančius iš
+skolininko ir kliento sutarties, jeigu šiuos reikalavimus skolininkas jau
+turėjo tuo momentu, kai gavo pranešimą apie reikalavimo perleidimą
+finansuotojui.
 2.
 Skolininkas negali savo gynybai naudoti finansuotojui tų reikalavimų, kuriuos
 skolininkas galėjo pareikšti klientui dėl to, kad klientas pažeidė draudimą
@@ -30489,8 +30505,8 @@ straipsnis. Banko sąskaitos sutarties sudarymas
 1. Sudarius
 banko sąskaitos sutartį, klientui ar jo nurodytam asmeniui banke atidaroma
 sąskaita sutartyje nustatytomis sąlygomis.
-2. Bankas
-privalo sudaryti banko sąskaitos sutartį su klientu, kuris kreipėsi su prašymu
+2. Bankas privalo
+sudaryti banko sąskaitos sutartį su klientu, kuris kreipėsi su prašymu
 atidaryti sąskaitą, pagal banko paskelbtas tam tikros sąskaitos rūšies
 atidarymo sąlygas, turinčias atitikti įstatymų ir bankų veiklą nustatančių
 teisės aktų reikalavimus.
@@ -30537,10 +30553,10 @@ sutartis nenustato ko kita.
 6.918
 straipsnis. Sąskaitos kreditavimas
 1. Jeigu bankas
-pagal banko sąskaitos sutartį išmoka pinigus iš kliento sąskaitos neatsižvelgdamas
-į tai, ar joje yra pinigų (sąskaitos kreditavimas), tai pripažįstama, kad
-bankas suteikia klientui atitinkamos sumos kreditą nuo pinigų išmokėjimo
-dienos.
+pagal banko sąskaitos sutartį išmoka pinigus iš kliento sąskaitos
+neatsižvelgdamas į tai, ar joje yra pinigų (sąskaitos kreditavimas), tai
+pripažįstama, kad bankas suteikia klientui atitinkamos sumos kreditą nuo pinigų
+išmokėjimo dienos.
 2. Banko ir
 kliento santykiams, susijusiems su sąskaitos kreditavimu mutatis mutandis,
 taikomos šios knygos XLIII normos, jeigu banko sąskaitos sutartis nenustato ko
@@ -30561,8 +30577,8 @@ straipsnis. Palūkanos už naudojimąsi sąskaitoje esančiomis lėšomis
 Bankas moka
 klientui sutartyje nustatytas palūkanas už naudojimąsi sąskaitoje esančiomis
 lėšomis, jeigu banko sąskaitos sutartis nenustato ko kita. Palūkanos pervedamos
-į kliento sąskaitą sutartyje nustatytais terminais, o jeigu šie terminai nenustatyti,
-– pasibaigus kiekvienam ketvirčiui.
+į kliento sąskaitą sutartyje nustatytais terminais, o jeigu šie terminai
+nenustatyti, – pasibaigus kiekvienam ketvirčiui.
  
 6.921
 straipsnis. Banko ir kliento tarpusavio reikalavimų įskaitymas
@@ -30593,8 +30609,8 @@ lėšos nurašomos pagal kliento nurodymų ir kitų dokumentų gavimo eilę
 pareikštiems reikalavimams patenkinti lėšų sąskaitoje nepakanka, skolininkas
 privalo nurodyti lėšas nurašyti iš sąskaitos šia eile:
 1) pirmąja eile
-nurašomos lėšos pagal vykdomuosius dokumentus dėl žalos, padarytos dėl sveikatos
-sužalojimo ar gyvybės atėmimo, atlyginimo ir išlaikymo išieškojimo;
+nurašomos lėšos pagal vykdomuosius dokumentus dėl žalos, padarytos dėl
+sveikatos sužalojimo ar gyvybės atėmimo, atlyginimo ir išlaikymo išieškojimo;
 2) antrąja eile
 nurašomos lėšos pagal vykdomuosius dokumentus dėl išmokų, kylančių iš darbo ir
 autorinių sutarčių;
@@ -30628,9 +30644,9 @@ straipsnis. Banko paslaptis
 privalo garantuoti banko sąskaitos, indėlio, visų su jais susijusių operacijų
 ir kliento slaptumą.
 2. Informacija,
-sudaranti banko paslaptį, gali būti atskleista tik patiems klientams ar jų
-atstovams, o įstatymų nustatytais atvejais ir tvarka – atitinkamoms valstybės
-valdžios institucijoms, pareigūnams ir kitiems asmenims.
+sudaranti banko paslaptį, gali būti atskleista tik patiems klientams ar jų atstovams,
+o įstatymų nustatytais atvejais ir tvarka – atitinkamoms valstybės valdžios
+institucijoms, pareigūnams ir kitiems asmenims.
 3. Jeigu bankas
 atskleidžia banko paslaptį, klientas turi teisę reikalauti, kad bankas
 atlygintų tuo padarytus nuostolius.
@@ -30653,8 +30669,8 @@ klientų sąskaitoje, suma sumažėja tiek, kad nesiekia sutartyje nustatytos
 minimalios sumos, ir per vieną mėnesį nuo banko išsiųsto pranešimo dienos
 klientas jos nepadidina;
 2) jeigu daugiau
-kaip metus su kliento sąskaita nebuvo atliekamos jokios operacijos ir jeigu
-banko sutartis nenustato ko kita.
+kaip metus su kliento sąskaita nebuvo atliekamos jokios operacijos ir jeigu banko
+sutartis nenustato ko kita.
 3. Lėšų likutis
 sąskaitoje išduodamas klientui arba jo nurodymu pervedamas į kitą sąskaitą ne
 vėliau kaip per penkias darbo dienas nuo atitinkamo rašytinio kliento
@@ -30708,11 +30724,11 @@ Atsiskaitymai mokėjimo pavedimais
 6.931
 straipsnis. Bendrosios nuostatos
 1. Atsiskaitant
-mokėjimo pavedimais bankas įsipareigoja pagal mokėtojo pavedimą pervesti
-nurodytą sumą iš mokėtojo sąskaitos į kitą mokėtojo nurodytą sąskaitą tame
-pačiame arba kitame banke per įstatymų ar įstatymų nustatyta tvarka nustatytus
-terminus, jeigu trumpesni terminai nėra nustatyti banko sąskaitos sutartyje ar
-banko veiklos taisyklėse.
+mokėjimo pavedimais bankas įsipareigoja pagal mokėtojo pavedimą pervesti nurodytą
+sumą iš mokėtojo sąskaitos į kitą mokėtojo nurodytą sąskaitą tame pačiame arba
+kitame banke per įstatymų ar įstatymų nustatyta tvarka nustatytus terminus,
+jeigu trumpesni terminai nėra nustatyti banko sąskaitos sutartyje ar banko
+veiklos taisyklėse.
 2. Šio skirsnio
 taisyklės taip pat taikomos atsiskaitymams, kai bankas lėšas perveda asmens,
 neturinčio sąskaitos tame banke, pavedimu, jeigu ko kita nenustato įstatymai ar
@@ -30778,16 +30794,16 @@ straipsnis. Bendrosios nuostatos
 akredityvais, bankas, atidaręs akredityvą ir veikiantis mokėtojo prašymu bei
 nurodymu arba savo vardu (bankas emitentas), įsipareigoja sumokėti pinigus lėšų
 gavėjui arba akceptuoti ir apmokėti įsakomąjį vekselį, išrašytą lėšų gavėjo,
-arba įgalioja kitą banką (vykdantįjį banką) sumokėti pinigus lėšų gavėjui arba akceptuoti
-ir suėjus mokėjimo terminui apmokėti įsakomąjį vekselį, arba įgalioja kitą
-banką pirkti dokumentus (negocijuoti), jeigu pateikti dokumentai atitinka
-akredityvo sąlygas. 
+arba įgalioja kitą banką (vykdantįjį banką) sumokėti pinigus lėšų gavėjui arba
+akceptuoti ir suėjus mokėjimo terminui apmokėti įsakomąjį vekselį, arba
+įgalioja kitą banką pirkti dokumentus (negocijuoti), jeigu pateikti dokumentai
+atitinka akredityvo sąlygas. 
 2. Paskirdamas
 kitą banką vykdančiuoju, bankas emitentas gali jį įgalioti nurašyti visą
 akredityvo dokumentuose nurodytą sumą nuo savo sąskaitos, esančios
-vykdančiajame banke, arba įsipareigoti pervesti, pareikalavus vykdančiajam
-bankui, į jo nurodytą sąskaitą, arba įgalioti vykdantįjį banką kreiptis į kitą
-nurodytą banką dėl apmokėjimo. 
+vykdančiajame banke, arba įsipareigoti pervesti, pareikalavus vykdančiajam bankui,
+į jo nurodytą sąskaitą, arba įgalioti vykdantįjį banką kreiptis į kitą nurodytą
+banką dėl apmokėjimo. 
 3. Atsiskaitymus
 akredityvais reglamentuoja įstatymai ir banko veiklos taisyklės.
  
@@ -30799,9 +30815,9 @@ emitentas be išankstinio lėšų gavėjo įspėjimo. Akredityvo pakeitimas ar
 atšaukimas lėšų gavėjui nesukelia jokių banko emitento prievolių.
 2. Bankas
 emitentas ar tvirtinantysis bankas (jei toks yra) privalo kompensuoti
-vykdančiajam bankui pagal atšaukiamą akredityvą, jeigu iki akredityvo panaikinimo
-ar sąlygų pakeitimo jam buvo pateikti akredityvo sąlygas atitinkantys
-dokumentai.
+vykdančiajam bankui pagal atšaukiamą akredityvą, jeigu iki akredityvo
+panaikinimo ar sąlygų pakeitimo jam buvo pateikti akredityvo sąlygas
+atitinkantys dokumentai.
  
 6.937
 straipsnis. Neatšaukiamas akredityvas
@@ -30843,11 +30859,11 @@ sąlygų, apie tai jis privalo nedelsdamas pranešti, nurodydamas atsisakymo
 priežastis, bankui, iš kurio buvo gauti dokumentai, arba lėšų gavėjui, jeigu
 dokumentai buvo gauti tiesiai iš jo.
 2. Jeigu bankas
-emitentas ar tvirtinantysis bankas (jei toks yra) nustato, kad dokumentai
-neatitinka akredityvo sąlygų, jis turi teisę atsisakyti juos priimti ir
-reikalauti iš vykdančiojo banko grąžinti sumą, šio sumokėtą lėšų gavėjui
-pažeidžiant akredityvo sąlygas, kartu su palūkanomis arba atsisakyti atlyginti
-išmokėtas sumas.
+emitentas ar tvirtinantysis bankas (jei toks yra) nustato, kad dokumentai neatitinka
+akredityvo sąlygų, jis turi teisę atsisakyti juos priimti ir reikalauti iš
+vykdančiojo banko grąžinti sumą, šio sumokėtą lėšų gavėjui pažeidžiant
+akredityvo sąlygas, kartu su palūkanomis arba atsisakyti atlyginti išmokėtas
+sumas.
  
 6.940
 straipsnis. Banko atsakomybė už akredityvo sąlygų pažeidimą
@@ -30870,8 +30886,8 @@ mokėtojo ir banko emitento sutartis nenustato ko kita.
 straipsnis. Akredityvo uždarymas
 Akredityvas
 uždaromas:
-1) kai pasibaigia
-akredityvo terminas;
+1) kai
+pasibaigia akredityvo terminas;
 2) kai bankas
 emitentas panaikina akredityvą; 
 3) kai bankas
@@ -30932,9 +30948,9 @@ straipsnis. Pranešimas apie atliktas operacijas
 inkasuojantis bankas negauna įmokos ir (arba) akcepto, privalo apie tai
 nedelsdamas pranešti instruktuojančiam bankui ir kartu nurodyti priežastis, dėl
 kurių įmoka negauta arba ją atsisakyta akceptuoti.
-2. Instruktuojantis
-bankas informaciją, gautą iš inkasuojančio banko, privalo nedelsdamas pranešti
-klientui ir pareikalauti jo nurodymų dėl tolesnių veiksmų.
+2.
+Instruktuojantis bankas informaciją, gautą iš inkasuojančio banko, privalo
+nedelsdamas pranešti klientui ir pareikalauti jo nurodymų dėl tolesnių veiksmų.
 3. Jeigu jokių
 nurodymų iš instruktuojančio banko per banko veiklos taisyklėse ar sutartyje
 nustatytus terminus, o jeigu jie nenustatyti, – per protingą terminą negaunama,
@@ -30948,8 +30964,8 @@ Viešas atlyginimo pažadėjimas
 straipsnis. Pareiga sumokėti atlyginimą
 1. Asmuo, viešai
 pažadėjęs sumokėti atlyginimą tam, kas atliks skelbime nurodytą teisėtą veiksmą
-per skelbime nurodytą terminą (surasti prarastą daiktą ir kt.), privalo
-sumokėti pažadėtą atlyginimą bet kuriam asmeniui, kuris tą veiksmą atliko.
+per skelbime nurodytą terminą (surasti prarastą daiktą ir kt.), privalo sumokėti
+pažadėtą atlyginimą bet kuriam asmeniui, kuris tą veiksmą atliko.
 2. Pareiga
 sumokėti atlyginimą atsiranda su sąlyga, jeigu viešo pažadėjimo turinys leidžia
 nustatyti asmenį, kuris pažadą duoda. Asmuo, atsiliepęs į viešą pažadėjimą,
@@ -30959,9 +30975,9 @@ kad atlyginimą pažadėjo ne tas asmuo, kuris nurodytas viešame skelbime.
 3. Jeigu viešame
 skelbime atlyginimo dydis nenurodytas, jis nustatomas šalių susitarimu, o joms
 nesusitarus, – teismo sprendimu.
-4. Pareiga sumokėti
-atlyginimą atsiranda neatsižvelgiant į tai, ar asmuo, atlikęs skelbime nurodytą
-veiksmą, padarė tai dėl viešo atlyginimo pažadėjimo, ar ne.
+4. Pareiga
+sumokėti atlyginimą atsiranda neatsižvelgiant į tai, ar asmuo, atlikęs skelbime
+nurodytą veiksmą, padarė tai dėl viešo atlyginimo pažadėjimo, ar ne.
 5. Jeigu
 skelbime nurodytą veiksmą atliko keli asmenys, teisę į atlyginimą įgyja tas iš
 jų, kuris tą veiksmą atliko pirmas. Kai neįmanoma nustatyti, kuris iš tų asmenų
@@ -31033,15 +31049,15 @@ termino pirmojoje pusėje.
 2. Apie konkurso
 sąlygų pakeitimą turi būti pranešama konkurso dalyviams ta pačia tvarka, kuria
 buvo paskelbtas konkursas.
-3. Pakeitus konkurso
-sąlygas ar jį atšaukus, konkurso organizatorius privalo atlyginti kiekvieno
-asmens, įvykdžiusio konkurso sąlygose numatytą darbą iki tol, kol jis sužinojo
-ar turėjo sužinoti apie konkurso sąlygų pakeitimą ar jo atšaukimą, turėtas
-išlaidas.
+3. Pakeitus
+konkurso sąlygas ar jį atšaukus, konkurso organizatorius privalo atlyginti
+kiekvieno asmens, įvykdžiusio konkurso sąlygose numatytą darbą iki tol, kol jis
+sužinojo ar turėjo sužinoti apie konkurso sąlygų pakeitimą ar jo atšaukimą,
+turėtas išlaidas.
 4. Konkurso
 organizatorius atleidžiamas nuo šio straipsnio 3 dalyje numatytų išlaidų
-atlyginimo, jeigu įrodo, kad atliktas darbas buvo nesusijęs su konkursu (dar
-iki konkurso paskelbimo) arba neatitinka konkurso sąlygų.
+atlyginimo, jeigu įrodo, kad atliktas darbas buvo nesusijęs su konkursu (dar iki
+konkurso paskelbimo) arba neatitinka konkurso sąlygų.
 5. Jeigu keičiant konkurso
 sąlygas ar jį atšaukiant buvo pažeisti šio straipsnio 1 ir 2 dalyse nustatyti
 reikalavimai, konkurso organizatorius privalo išmokėti atlyginimą tam, kuris
@@ -31242,11 +31258,11 @@ paties veiksmus.
 straipsnis. Patikėtinio atsakomybė
 1. Patikėtinis,
 kuris tinkamai nesirūpino jam perduotu turtu ir patikėtojo bei naudos gavėjo
-interesais, turi atlyginti naudos gavėjui arba patikėtojui nuostolius, padarytus
-dėl turto praradimo ar sugedimo, ir negautas pajamas.
+interesais, turi atlyginti naudos gavėjui arba patikėtojui nuostolius,
+padarytus dėl turto praradimo ar sugedimo, ir negautas pajamas.
 2. Patikėtinis
-atleidžiamas nuo nuostolių atlyginimo, jeigu įrodo, kad jie atsirado dėl
-nenugalimos jėgos arba patikėtojo ar naudos gavėjo veiksmų.
+atleidžiamas nuo nuostolių atlyginimo, jeigu įrodo, kad jie atsirado dėl nenugalimos
+jėgos arba patikėtojo ar naudos gavėjo veiksmų.
 3. Jeigu
 patikėtinis sudaro sandorį viršydamas jam suteiktus įgaliojimus arba
 pažeisdamas sutartyje nustatytus apribojimus, tai pagal tokį sandorį jis atsako
@@ -31271,16 +31287,17 @@ straipsnis. Turto patikėjimo sutarties pabaiga
 patikėjimo sutartis baigiasi šiais atvejais:
 1) kai miršta ar
 likviduojamas naudos gavėjas, jeigu sutartis nenustato ko kita;
-2) kai naudos gavėjas
-atsisako pagal sutartį gaunamos naudos, jeigu sutartis nenustato ko kita;
+2) kai naudos
+gavėjas atsisako pagal sutartį gaunamos naudos, jeigu sutartis nenustato ko
+kita;
 3) kai
 patikėtinis miršta, pripažįstamas neveiksniu, ribotai veiksniu ar nežinia kur
 esančiu ar jis likviduojamas;
 4) kai
 patikėtojui iškeliama bankroto byla;
-5) kai patikėtojas
-ar patikėtinis atsisako sutarties dėl to, kad patikėtinis nebegali pats vykdyti
-sutarties;
+5) kai
+patikėtojas ar patikėtinis atsisako sutarties dėl to, kad patikėtinis nebegali
+pats vykdyti sutarties;
 6) kai
 patikėtojas atsisako sutarties kitais pagrindais ir išmoka patikėtiniui
 sutartyje nustatytą atlyginimą bei atlygina būtinas išlaidas, padarytas dėl
@@ -31330,16 +31347,16 @@ nenustato ko kita. Įnašas įvertinamas pinigais visų partnerių susitarimu.
 6.971
 straipsnis. Partnerių bendroji nuosavybė
 1. Partnerių
-įneštas turtas, buvęs jų nuosavybe, taip pat jungtinės veiklos metu gauta produkcija,
-pajamos ir vaisiai yra visų partnerių bendroji dalinė nuosavybė, jeigu ko kita
-nenustato įstatymas ar jungtinės veiklos sutartis.
+įneštas turtas, buvęs jų nuosavybe, taip pat jungtinės veiklos metu gauta
+produkcija, pajamos ir vaisiai yra visų partnerių bendroji dalinė nuosavybė,
+jeigu ko kita nenustato įstatymas ar jungtinės veiklos sutartis.
 2. Jeigu įneštas
 turtas nebuvo partnerio nuosavybė, o juo partneris naudojasi kitokiu pagrindu,
 šis turtas yra naudojamas visų partnerių interesais ir taip pat yra
 pripažįstamas bendrai visų partnerių naudojamu turtu, jeigu įstatymas nenustato
 ko kita.
-3. Už bendro
-turto apskaitą atsakingas vienas iš partnerių, paskirtas visų partnerių bendru
+3. Už bendro turto
+apskaitą atsakingas vienas iš partnerių, paskirtas visų partnerių bendru
 sutarimu.
 4. Bendras
 turtas naudojamas, valdomas ir juo disponuojama visų partnerių bendru sutarimu.
@@ -31396,9 +31413,9 @@ padengimo, negalioja.
  
 6.975
 straipsnis. Partnerių atsakomybė pagal bendras prievoles
-1. Jeigu
-jungtinės veiklos sutartis nėra susijusi su ūkine komercine partnerių veikla,
-kiekvienas partneris atsako pagal bendras sutartines prievoles visu savo turtu
+1. Jeigu jungtinės
+veiklos sutartis nėra susijusi su ūkine komercine partnerių veikla, kiekvienas
+partneris atsako pagal bendras sutartines prievoles visu savo turtu
 proporcingai jo dalies dydžiui.
 2. Pagal bendras
 nesutartines prievoles partneriai atsako solidariai.
@@ -31549,8 +31566,7 @@ patvirtinta sutartis yra priverstinai vykdytinas dokumentas.
 straipsnis. Taikos sutarties pripažinimas negaliojančia
 1. Taikos
 sutartis gali būti pripažinta negaliojančia dėl esminės jos šalių nelygybės
-(šio kodekso 6.228 straipsnis), taip pat kitais sandorių negaliojimo
-pagrindais.
+(šio kodekso 6.228 straipsnis), taip pat kitais sandorių negaliojimo pagrindais.
 2. Jeigu taikos
 sutartis buvo sudaryta remiantis sandoriu, kuris taikos sutarties sudarymo metu
 negaliojo, tai tokia taikos sutartis negalioja.
@@ -31631,8 +31647,8 @@ suma, išskyrus atvejus, kai tikslus draudimo sumos dydis nenustatomas;
 įmoka ir jos mokėjimo terminai;
 8) draudimo
 rūšis;
-9) draudimo
-sutarties galiojimo terminas;
+9) draudimo sutarties
+galiojimo terminas;
 10) įrašas, kad
 draudėjas yra supažindintas su draudimo rūšies taisyklėmis ir jam yra įteikta
 jų kopija;
@@ -31670,10 +31686,10 @@ aplinkybėmis, apie kurias draudėjas privalo informuoti draudiką, pripažįsta
 aplinkybės, nurodytos standartinėse draudimo sutarties sąlygose (draudimo
 rūšies taisyklėse), taip pat aplinkybės, apie kurias draudikas raštu prašė
 draudėjo suteikti informaciją.
-3. Jeigu draudėjas
-neatsako į raštu pateiktą draudiko paklausimą apie tam tikras aplinkybes, o
-draudikas, neatsižvelgdamas į tai, sudarė draudimo sutartį, tai draudikas
-netenka teisės reikalauti nutraukti draudimo sutartį ar pripažinti ją
+3. Jeigu
+draudėjas neatsako į raštu pateiktą draudiko paklausimą apie tam tikras
+aplinkybes, o draudikas, neatsižvelgdamas į tai, sudarė draudimo sutartį, tai
+draudikas netenka teisės reikalauti nutraukti draudimo sutartį ar pripažinti ją
 negaliojančia remdamasis tuo, kad draudėjas jam nepateikė informacijos.
 4. Jeigu po
 draudimo sutarties sudarymo nustatoma, kad draudėjas suteikė draudikui žinomai
@@ -31698,19 +31714,19 @@ dalyje numatytą pareigą, santykiui.
 7. Jeigu
 draudikas, žinodamas aplinkybes, apie kurias draudėjas neinformavo dėl
 neatsargumo, nebūtų sudaręs draudimo sutarties, tai jis per du mėnesius nuo
-sužinojimo, kad draudėjas nepateikė šio straipsnio 1 dalyje nustatytos informacijos
-dėl neatsargumo, turi teisę reikalauti nutraukti draudimo sutartį. Įvykus
-draudiminiam įvykiui, draudikas turi teisę atsisakyti išmokėti draudimo išmoką
-tik įrodęs, kad nė vienas draudikas, žinodamas aplinkybes, kurių draudėjas
-nenurodė dėl neatsargumo, nebūtų sudaręs draudimo sutarties.
+sužinojimo, kad draudėjas nepateikė šio straipsnio 1 dalyje nustatytos
+informacijos dėl neatsargumo, turi teisę reikalauti nutraukti draudimo sutartį.
+Įvykus draudiminiam įvykiui, draudikas turi teisę atsisakyti išmokėti draudimo
+išmoką tik įrodęs, kad nė vienas draudikas, žinodamas aplinkybes, kurių
+draudėjas nenurodė dėl neatsargumo, nebūtų sudaręs draudimo sutarties.
 8. Sudarant
 draudimo sutartį ir jos galiojimo metu draudikas privalo suteikti draudėjui šią
 informaciją: draudiko pavadinimą, draudiko įmonės rūšį, adresą, draudiko
 padalinio ar draudiko atstovo adresą (jei draudimo sutartis sudaroma ne
 draudiko buveinėje), iš draudimo sutarties kylančių ar su ja susijusių ginčų
 sprendimo tvarką, draudiko elgesį, kai draudėjas pažeidžia draudimo sutarties
-sąlygas, galimus draudimo rizikos padidėjimo atvejus bei kitą draudimo veiklą reglamentuojančiuose
-teisės aktuose nurodytą informaciją.
+sąlygas, galimus draudimo rizikos padidėjimo atvejus bei kitą draudimo veiklą
+reglamentuojančiuose teisės aktuose nurodytą informaciją.
  
 6.994
 straipsnis. Draudiko teisė įvertinti draudimo riziką
@@ -31739,8 +31755,9 @@ straipsnis. Draudimo sutarties įsigaliojimas
 sutartis, jeigu joje nenustatyta ko kita, įsigalioja nuo to momento, kai
 draudėjas sumoka visą ar pirmą draudimo įmoką (premiją).
 2. Jeigu
-draudėjas nesumoka šio straipsnio 1 dalyje numatytos draudimo įmokos (premijos),
-tai draudimo sutartis nutrūksta, jeigu sutartyje nėra nustatyta ko kita.
+draudėjas nesumoka šio straipsnio 1 dalyje numatytos draudimo įmokos
+(premijos), tai draudimo sutartis nutrūksta, jeigu sutartyje nėra nustatyta ko
+kita.
 3. Draudimas
 taikomas visiems draudiminiams įvykiams, įvykusiems po draudimo sutarties
 įsigaliojimo, jeigu draudimo sutartyje nenustatyta ko kita. Jeigu draudimo
@@ -31770,11 +31787,11 @@ vertė arba buvo padaryta aritmetinė ar rašybos klaida.
  
 6.999
 straipsnis. Nevisiškas draudimas
-1. Jeigu ne gyvybės
-draudimo sutartyje, išskyrus įstatymų numatytus atvejus, nustatyta draudimo
-suma yra mažesnė už draudimo vertę, tai, įvykus draudiminiam įvykiui, draudikas
-privalo atlyginti draudėjui (naudos gavėjui) dalį jo patirtų nuostolių,
-proporcingą draudimo sumos ir draudimo vertės santykiui.
+1. Jeigu ne
+gyvybės draudimo sutartyje, išskyrus įstatymų numatytus atvejus, nustatyta
+draudimo suma yra mažesnė už draudimo vertę, tai, įvykus draudiminiam įvykiui,
+draudikas privalo atlyginti draudėjui (naudos gavėjui) dalį jo patirtų
+nuostolių, proporcingą draudimo sumos ir draudimo vertės santykiui.
 2. Draudimo sutartyje gali būti nustatyta ir didesnė draudimo išmoka,
 bet ne didesnė už draudimo vertę.
  
@@ -31784,8 +31801,8 @@ Jeigu ne gyvybės
 draudimo sutartyje, išskyrus įstatymų numatytus atvejus, yra apdrausta tik
 dalis turto ar rizikos (draudimo) vertės, draudėjas (naudos gavėjas) turi teisę
 papildomai juos apdrausti, sudarydamas papildomą draudimo sutartį su tuo pačiu
-ar kitu draudiku. Tačiau šiais atvejais bendra draudimo suma pagal visas draudimo
-sutartis negali viršyti draudimo vertės.
+ar kitu draudiku. Tačiau šiais atvejais bendra draudimo suma pagal visas
+draudimo sutartis negali viršyti draudimo vertės.
  
 6.1001
 straipsnis. Draudimo, viršijančio draudimo vertę, teisinės pasekmės
@@ -31871,8 +31888,8 @@ draudimo išmoką.
 vykdymas, kai yra ir draudėjas, ir naudos gavėjas
 1. Jeigu
 draudimo sutartis sudaryta trečiojo asmens (naudos gavėjo) naudai, tai
-atsakingas draudikui už sutarties vykdymą yra draudėjas, jeigu draudimo sutartis
-nenustato ko kita.
+atsakingas draudikui už sutarties vykdymą yra draudėjas, jeigu draudimo
+sutartis nenustato ko kita.
 2. Draudikas
 turi teisę reikalauti, kad draudimo sutartį įvykdytų naudos gavėjas, jeigu
 draudėjas sutarties neįvykdė, o naudos gavėjas pareiškia draudikui reikalavimą
@@ -31894,7 +31911,8 @@ straipsnis. Draudimo sutarties nutraukimas prieš terminą
 sutartis gali būti nutraukta prieš joje nustatytą jos galiojimo terminą, jeigu
 po sutarties įsigaliojimo išnyko galimybės įvykti draudiminiam įvykiui arba
 draudiminė rizika išnyko dėl aplinkybių, nesusijusių su draudiminiu įvykiu
-(draudimo objektas žuvo dėl priežasčių, nesusijusių su draudiminiu įvykiu ir kt.).
+(draudimo objektas žuvo dėl priežasčių, nesusijusių su draudiminiu įvykiu ir
+kt.).
 2. Draudėjas
 turi teisę nutraukti draudimo sutartį bet kokiu atveju.
 3. Jeigu
@@ -31907,24 +31925,24 @@ draudėjas nutraukia draudimo sutartį prieš terminą, sumokėta draudikui drau
  
 6.1010
 straipsnis. Draudimo rizikos padidėjimas ir sumažėjimas
-1. Jeigu draudimo
-sutarties galiojimo metu iš esmės pasikeičia draudimo sutartyje numatytos
-aplinkybės, dėl kurių padidėja ar gali padidėti draudimo rizika, apie tai
-draudėjas privalo pranešti draudikui tuoj pat, kai apie tokius pasikeitimus jis
-sužinojo.
+1. Jeigu
+draudimo sutarties galiojimo metu iš esmės pasikeičia draudimo sutartyje
+numatytos aplinkybės, dėl kurių padidėja ar gali padidėti draudimo rizika, apie
+tai draudėjas privalo pranešti draudikui tuoj pat, kai apie tokius pasikeitimus
+jis sužinojo.
 2. Draudikas,
 kuriam buvo pranešta apie draudimo rizikos padidėjimą, turi teisę reikalauti
-pakeisti draudimo sutarties sąlygas arba padidinti draudimo įmoką (premiją).
-Jeigu draudėjas tokiu atveju nesutinka pakeisti draudimo sutarties sąlygų ar
-mokėti didesnės draudimo įmokos (premijos), draudikas turi teisę kreiptis į
-teismą dėl draudimo sutarties nutraukimo ar pakeitimo iš esmės pasikeitus
-aplinkybėms (šio kodekso 6.204 straipsnis). 
+pakeisti draudimo sutarties sąlygas arba padidinti draudimo įmoką (premiją). Jeigu
+draudėjas tokiu atveju nesutinka pakeisti draudimo sutarties sąlygų ar mokėti
+didesnės draudimo įmokos (premijos), draudikas turi teisę kreiptis į teismą dėl
+draudimo sutarties nutraukimo ar pakeitimo iš esmės pasikeitus aplinkybėms (šio
+kodekso 6.204 straipsnis). 
 3. Jeigu
-draudėjas neįvykdo šio straipsnio 1 dalyje nustatytos pareigos, draudikas turi teisę
-reikalauti nutraukti sutartį ir atlyginti nuostolius tiek, kiek jų nepadengia
-gautos draudimo įmokos (premija). Tačiau draudikas neturi teisės reikalauti
-nutraukti draudimo sutartį, jeigu išnyko aplinkybės, galėjusios sukelti
-draudimo rizikos padidėjimą.
+draudėjas neįvykdo šio straipsnio 1 dalyje nustatytos pareigos, draudikas turi
+teisę reikalauti nutraukti sutartį ir atlyginti nuostolius tiek, kiek jų
+nepadengia gautos draudimo įmokos (premija). Tačiau draudikas neturi teisės
+reikalauti nutraukti draudimo sutartį, jeigu išnyko aplinkybės, galėjusios
+sukelti draudimo rizikos padidėjimą.
 4. Jeigu
 draudimo sutarties galiojimo metu iš esmės pasikeičia draudimo sutartyje
 nustatytos aplinkybės, dėl kurių sumažėja ar gali sumažėti draudimo rizika,
@@ -32168,10 +32186,19 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 12.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. XI-881, 2010-06-04, Žin.,
-2010, Nr. 71-3554 (2010-06-19)
+Nr. XI-881,
+2010-06-04, Žin., 2010, Nr. 71-3554 (2010-06-19)
 CIVILINIO KODEKSO 2.38 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
+ 
+13.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-937,
+2010-06-22, Žin., 2010, Nr. 76-3873 (2010-06-30)
+CIVILINIO
+KODEKSO 3.14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
  
 *** Pabaiga ***
@@ -32188,10 +32215,11 @@ DĖL LIETUVOS RESPUBLIKOS
 CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. LAPKRIČIO 11 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
  
-*** Pabaiga ***
+***
+Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė
-(2010-06-18)
+Redagavo
+Aušra Bodin (2010-06-30)
                  
-autrap@lrs.lt
+aubodi@lrs.lt
