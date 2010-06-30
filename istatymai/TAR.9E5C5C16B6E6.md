@@ -836,7 +836,8 @@ gėrimais švenčių ir masinių renginių dienomis.
 tarybos, atsižvelgdamos į prekybos alkoholiniais gėrimais vietą, gyventojų,
 bendrijų, bendruomenių ar jų atstovų, visuomeninių organizacijų ar kitų
 institucijų raštu pareikštą nuomonę, policijos komisariatų pasiūlymus, turi
-teisę riboti laiką, kuriuo leidžiama prekiauti alkoholiniais gėrimais.
+teisę riboti laiką, kuriuo leidžiama prekiauti alkoholiniais gėrimais, neišduoti
+licencijos verstis mažmenine prekyba alkoholiniais gėrimais.
 Straipsnio
 pakeitimai:
 Nr. IX-2542,
@@ -846,13 +847,16 @@ Nr. X-889, 2006-11-09,
 Nr. X-1198,
 2007-06-21, Žin., 2007, Nr. 77-3041 (2007-07-12)
 Nr.
-X-1508, 2008-04-18,
-Žin., 2008, Nr. 48-1771 (2008-04-26)
+X-1508,
+2008-04-18, Žin., 2008, Nr. 48-1771 (2008-04-26)
 Nr.
 X-1750,
 2008-10-14, Žin., 2008, Nr. 123-4660 (2008-10-25)
-Nr. XI-572, 2009-12-17,
-Žin., 2009, Nr. 154-6951 (2009-12-28)
+Nr. XI-572,
+2009-12-17, Žin., 2009, Nr. 154-6951 (2009-12-28)
+Nr.
+XI-909,
+2010-06-17, Žin., 2010, Nr. 76-3868 (2010-06-30)
  
 Įstatymas
 papildytas ketvirtuoju skirsniu:
@@ -922,9 +926,9 @@ panaikintas licencijos gaminti alkoholio produktus galiojimas pagal šio
 galiojimo panaikinimo dienos);
 2) įmonei buvo
 panaikintas licencijos gaminti alkoholio produktus galiojimas pagal šio
-Įstatymo 34 straipsnio 17 dalyje ir (ar) 20 dalies 3 punkte nustatytus
-reikalavimus (licencijos neišduodamos penkerius metus nuo anksčiau turėtos
-licencijos galiojimo panaikinimo dienos);
+Įstatymo 34 straipsnio 17 dalyje ir (ar) 20 dalies 3 punkte nustatytus reikalavimus
+(licencijos neišduodamos penkerius metus nuo anksčiau turėtos licencijos
+galiojimo panaikinimo dienos);
 3) norinčių
 įsigyti licencijas įmonių steigėjai arba vadovai yra buvę įmonių, kurioms buvo
 panaikintas licencijų gaminti alkoholio produktus galiojimas pagal šio Įstatymo
@@ -972,11 +976,21 @@ prekiaudama alkoholiniais gėrimais masiniuose renginiuose, parodose ir mugėse,
 pažeidė šio Įstatymo 18 straipsnio 4 dalies 3 punkto
 reikalavimą. Šiuo atveju vienerius metus nuo pažeidimo nustatymo dienos
 neišduodama vienkartinė licencija verstis mažmenine prekyba alkoholiniais
-gėrimais masiniuose renginiuose, parodose ir mugėse, rengiamuose toje
-savivaldybėje, kurioje nustatytas pažeidimas;
+gėrimais masiniuose renginiuose, parodose ir mugėse, rengiamuose toje savivaldybėje,
+kurioje nustatytas pažeidimas;
 4) įmonė nevykdo
 įsipareigojimų muitinei (taikoma įmonėms, norinčioms įsigyti licencijas verstis
-mažmenine prekyba alkoholiniais gėrimais neapmuitinamose parduotuvėse).
+mažmenine prekyba alkoholiniais gėrimais neapmuitinamose parduotuvėse);
+5) kai
+savivaldybės taryba, atsižvelgdama į prekybos alkoholiniais gėrimais vietą,
+gyventojų, bendrijų, bendruomenių ar jų atstovų, visuomeninių organizacijų ar
+kitų institucijų raštu pareikštą nuomonę, policijos komisariatų pasiūlymus,
+priima motyvuotą sprendimą neišduoti licencijos.
+Straipsnio
+pakeitimai:
+Nr.
+XI-909,
+2010-06-17, Žin., 2010, Nr. 76-3868 (2010-06-30)(papildyta 3 dalies 5 punktu)
  
 IV SKYRIUS
 ALKOHOLINIŲ
@@ -984,8 +998,8 @@ GĖRIMŲ VARTOJIMO MAŽINIMAS IR KONTROLĖ
  
 PIRMASIS
 SKIRSNIS
-ALKOHOLIO
-BENDROJO SUVARTOJIMO MAŽINIMO 
+ALKOHOLIO BENDROJO
+SUVARTOJIMO MAŽINIMO 
 ORGANIZACINĖS
 PRIEMONĖS
  
@@ -1034,8 +1048,8 @@ išskyrus viešojo maitinimo įmones, turinčias licencijas verstis mažmenine
 prekyba alkoholiniais gėrimais, ir parodose, mugėse bei masiniuose renginiuose,
 kuriuose savivaldybių tarybų nustatyta tvarka įmonėms yra išduotos licencijos
 prekiauti alkoholiniais gėrimais. 
-2. Lietuvos Respublikoje
-draudžiama asmenims iki 18 metų vartoti alkoholinius gėrimus ar jų turėti.
+2. Lietuvos Respublikoje draudžiama
+asmenims iki 18 metų vartoti alkoholinius gėrimus ar jų turėti.
 3. Įmonės,
 turinčios licencijas verstis mažmenine prekyba alkoholiniais gėrimais ir
 vykdančios viešojo maitinimo veiklą, privalo užtikrinti, kad prekybos
@@ -1048,8 +1062,8 @@ X-1750,
 skelbtas: Žin.,
 2008, Nr. 126
  
-23 straipsnis. Visuomenės informavimas apie alkoholį,
-jo vartojimo daromą žalą sveikatai ir ūkiui
+23 straipsnis. Visuomenės informavimas apie
+alkoholį, jo vartojimo daromą žalą sveikatai ir ūkiui
 1. Švietimo ir
 mokslo ministerija privalo parengti sveikatos ugdymo visose bendrojo lavinimo
 mokyklose bei kitose švietimo įstaigose programas ir įtraukti sveikatos ugdymo
@@ -1169,9 +1183,9 @@ Respublikoje draudžiama visų formų alkoholio reklama:
 vaikams ir paaugliams iki 18 metų;
 2) kurioje
 dalyvauja asmenys iki 18 metų;
-3) kurioje
-dalyvauja sportininkai, gydytojai, politikai, meno ir mokslo įžymybės, kiti
-garsūs visuomenės veikėjai, naudojamas jų asmuo, vardas, atvaizdas ir pan.;
+3) kurioje dalyvauja
+sportininkai, gydytojai, politikai, meno ir mokslo įžymybės, kiti garsūs
+visuomenės veikėjai, naudojamas jų asmuo, vardas, atvaizdas ir pan.;
 4) siejanti
 alkoholio vartojimą su fizinės būklės pagerėjimu;
 5) siejanti
@@ -1320,10 +1334,10 @@ institucijos. Jų įgaliojimus alkoholio kontrolės srityje nustato šis ir kiti
 31 straipsnis. Valstybės alkoholio kontrolės
 politikos vykdomųjų institucijų sistema
 Valstybės
-alkoholio kontrolę pagal kompetenciją atlieka ministerijos, Tarnyba, kitos valstybės
-institucijos, savivaldybių vykdomosios institucijos, policija, sveikatos
-priežiūros įstaigos. Jų kompetenciją alkoholio kontrolės srityje nustato šis ir
-kiti įstatymai bei teisės aktai. 
+alkoholio kontrolę pagal kompetenciją atlieka ministerijos, Tarnyba, kitos
+valstybės institucijos, savivaldybių vykdomosios institucijos, policija,
+sveikatos priežiūros įstaigos. Jų kompetenciją alkoholio kontrolės srityje
+nustato šis ir kiti įstatymai bei teisės aktai. 
  
 32
 straipsnis. Valstybinė tabako ir alkoholio kontrolės tarnyba
@@ -1345,17 +1359,17 @@ atsakomybė.
 Respublikoje parduodami, laikomi, gabenami kontrabandiniai, falsifikuoti
 alkoholio produktai, alkoholiniai gėrimai be specialių ženklų – banderolių, be
 nustatyta tvarka išduotos licencijos, taip pat alkoholio produktai, kurie
-neatitinka Lietuvos Respublikoje galiojančių kokybės reikalavimų ar kurių įsigijimas
-nepatvirtintas juridinę galią turinčiais dokumentais, Lietuvos Respublikos
-administracinių teisės pažeidimų kodekso (toliau – Administracinių teisės
-pažeidimų kodeksas) nustatyta tvarka konfiskuojami.
+neatitinka Lietuvos Respublikoje galiojančių kokybės reikalavimų ar kurių
+įsigijimas nepatvirtintas juridinę galią turinčiais dokumentais, Lietuvos
+Respublikos administracinių teisės pažeidimų kodekso (toliau – Administracinių
+teisės pažeidimų kodeksas) nustatyta tvarka konfiskuojami.
 3. Konfiskuoti
 alkoholio produktai sunaikinami arba panaudojami biodegalų gamybai Lietuvos
 Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 Straipsnio
 pakeitimai:
-Nr. X-1198,
-2007-06-21, Žin., 2007, Nr. 77-3041 (2007-07-12)
+Nr. X-1198, 2007-06-21,
+Žin., 2007, Nr. 77-3041 (2007-07-12)
  
 34
 straipsnis. Ekonominių sankcijų už Įstatymo pažeidimus taikymas
@@ -1421,10 +1435,10 @@ padarytam teisės pažeidimui ir dėl to neteisinga) ir vadovaudamasis teisingum
 protingumo kriterijais, turi teisę skirti mažesnę piniginę baudą nei šio
 straipsnio 2, 3, 4, 5 ir 6 dalyse nustatytos minimalios piniginės baudos.
 8. Atsakomybę
-lengvinančiomis aplinkybėmis laikoma tai, kad padarę pažeidimą juridiniai asmenys
-ir užsienio juridinių asmenų filialai bei atstovybės savo noru užkirto kelią
-žalingoms pažeidimo pasekmėms, padėjo kompetentingoms institucijoms tyrimo
-metu, atlygino nuostolius ar pašalino padarytą žalą. Skirianti baudą
+lengvinančiomis aplinkybėmis laikoma tai, kad padarę pažeidimą juridiniai
+asmenys ir užsienio juridinių asmenų filialai bei atstovybės savo noru užkirto
+kelią žalingoms pažeidimo pasekmėms, padėjo kompetentingoms institucijoms
+tyrimo metu, atlygino nuostolius ar pašalino padarytą žalą. Skirianti baudą
 institucija gali pripažinti atsakomybę lengvinančiomis aplinkybėmis ir kitas
 šioje dalyje nenurodytas aplinkybes.
 9. Atsakomybę
@@ -1493,11 +1507,11 @@ produktų pardavimą, gabenimą ar laikymą.
 turinčioms licencijas verstis mažmenine prekyba alkoholiniais gėrimais
 (išskyrus įmones, turinčias vienkartines licencijas verstis mažmenine prekyba
 alkoholiniais gėrimais masiniuose renginiuose, parodose ir mugėse), per trejus
-metus nuo šio straipsnio 4 dalyje nustatytos baudos už šio Įstatymo 18
-straipsnio 4 dalies 3 punkto reikalavimo pažeidimą pirmą kartą paskyrimo ir
-pažeidusioms šį reikalavimą toje pačioje prekybos vietoje pakartotinai,
-panaikinamas licencijos verstis mažmenine prekyba alkoholiniais gėrimais toje
-prekybos vietoje, kurioje nustatyti pažeidimai, galiojimas ir nauja licencija
+metus nuo šio straipsnio 4 dalyje nustatytos baudos už šio Įstatymo 18 straipsnio
+4 dalies 3 punkto reikalavimo pažeidimą pirmą kartą paskyrimo ir pažeidusioms
+šį reikalavimą toje pačioje prekybos vietoje pakartotinai, panaikinamas
+licencijos verstis mažmenine prekyba alkoholiniais gėrimais toje prekybos
+vietoje, kurioje nustatyti pažeidimai, galiojimas ir nauja licencija
 neišduodama vienerius metus nuo licencijos galiojimo panaikinimo dienos.
 20. Licencijos
 gaminti alkoholio produktus, verstis didmenine prekyba jais ar verstis
@@ -1538,8 +1552,8 @@ pateikia paraišką panaikinti licencijos galiojimą;
 8) įmonė
 likviduojama ar reorganizuojama, baigdama veiklą kaip savarankiškas juridinis
 asmuo;
-9) įmonė, kuri buvo
-įspėta apie galimą licencijos galiojimo panaikinimą, per nustatytą terminą
+9) įmonė, kuri
+buvo įspėta apie galimą licencijos galiojimo panaikinimą, per nustatytą terminą
 nepašalina nurodytų licencijuojamos veiklos pažeidimų.
 21. Licencijų
 panaikinimas neatleidžia įmonių nuo šio straipsnio 2, 3, 4, 5 ir 6 dalyse
@@ -1568,11 +1582,11 @@ didmenine prekyba alkoholio produktais ar mažmenine prekyba alkoholiniais
 gėrimais, įspėjamos apie galimą licencijų galiojimo sustabdymą ar panaikinimą,
 taip pat jų licencijų galiojimas sustabdomas Lietuvos Respublikos Vyriausybės
 patvirtintose Didmeninės ir mažmeninės prekybos alkoholio produktais
-licencijavimo taisyklėse nustatytais atvejais ir tvarka. Už licencijuojamos
-veiklos sąlygų pažeidimus įmonės, turinčios licencijas gaminti alkoholio
-produktus, įspėjamos apie galimą licencijų galiojimo panaikinimą Lietuvos
-Respublikos Vyriausybės patvirtintose Alkoholio produktų gamybos licencijavimo
-taisyklėse nustatytais atvejais ir tvarka.
+licencijavimo taisyklėse nustatytais atvejais ir tvarka. Už licencijuojamos veiklos
+sąlygų pažeidimus įmonės, turinčios licencijas gaminti alkoholio produktus,
+įspėjamos apie galimą licencijų galiojimo panaikinimą Lietuvos Respublikos
+Vyriausybės patvirtintose Alkoholio produktų gamybos licencijavimo taisyklėse
+nustatytais atvejais ir tvarka.
 Įstatymas
 papildytas straipsniu:
 Nr.
@@ -1686,9 +1700,9 @@ nutarimų dėl ekonominių sankcijų taikymo vykdymą.
 Respublikos alkoholio kontrolės įstatymo 41 straipsnis (2004 m. kovo 9 d. redakcija; Žin., 2004, Nr. 47-1548) ta apimtimi, kuria nėra numatyta
 galimybės įmonėms, kurioms už šio įstatymo 34 straipsnio 17 dalyje (2004 m. kovo 9 d., 2006 m. balandžio 25 d., 2007 m. birželio 21 d. redakcijos) nurodytus teisės
 pažeidimus buvo panaikintas licencijos galiojimas, apskųsti teismui sprendimus
-dėl minėtos sankcijos skyrimo, prieštarauja Lietuvos Respublikos
-Konstitucijos 30 straipsnio 1 daliai, konstituciniams teisingumo, teisinės
-valstybės principams, o ta apimtimi, kuria nėra numatyta galimybės teismui,
+dėl minėtos sankcijos skyrimo, prieštarauja Lietuvos Respublikos Konstitucijos
+30 straipsnio 1 daliai, konstituciniams teisingumo, teisinės valstybės
+principams, o ta apimtimi, kuria nėra numatyta galimybės teismui,
 atsižvelgiant į teisės pažeidimo pobūdį, jo mastą, atsakomybę lengvinančias bei
 kitas reikšmingas aplinkybes ir vadovaujantis teisingumo, protingumo
 kriterijais, nuspręsti, kad ši sankcija – licencijos galiojimo panaikinimas
@@ -1723,8 +1737,7 @@ TEISĖS AKTAI, SU KURIAIS SUDERINTAS LIETUVOS Respublikos
 alkoholio kontrolės įstatymas 
  
 Lietuvos Respublikos
-alkoholio kontrolės įstatymas suderintas su šiais Europos Sąjungos teisės
-aktais:
+alkoholio kontrolės įstatymas suderintas su šiais Europos Sąjungos teisės aktais:
 1) 1989 m. spalio 3 d. Tarybos direktyva 89/552/EEB dėl kai kurių valstybių narių įstatymuose ir kituose
 teisės aktuose išdėstytų nuostatų, susijusių su televizijos programų
 transliavimu, suderinimo (su paskutiniais pakeitimais, padarytais 1997 m. birželio 30 d. Europos Parlamento ir Tarybos direktyva 97/36/EB); 
@@ -1856,7 +1869,8 @@ PAKEITIMO ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-237,
 2001 04 05, Žin., 2001, Nr. 31-1016 (2001 04 11)
-ALKOHOLIO KONTROLĖS ĮSTATYMO 21 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ALKOHOLIO KONTROLĖS ĮSTATYMO 21 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
  
 13.
 Lietuvos
@@ -1965,8 +1979,8 @@ KONTROLĖS ĮSTATYMO 2, 17, 18 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-571,
-2006-04-25, Žin., 2006, Nr. 53-1928 (2006-05-13)
+X-571, 2006-04-25,
+Žin., 2006, Nr. 53-1928 (2006-05-13)
 ALKOHOLIO
 KONTROLĖS ĮSTATYMO 17, 34 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
@@ -2006,8 +2020,8 @@ KONTROLĖS ĮSTATYMO 18, 29 IR 34 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 28.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. X-1750, 2008-10-14,
-Žin., 2008, Nr. 123-4660 (2008-10-25)
+Nr. X-1750,
+2008-10-14, Žin., 2008, Nr. 123-4660 (2008-10-25)
 ALKOHOLIO
 KONTROLĖS ĮSTATYMO 2, 12, 16, 17, 18, 22, 29, 34 STRAIPSNIŲ PAKEITIMO IR
 PAPILDYMO, ĮSTATYMO PAPILDYMO III SKYRIAUS KETVIRTUOJU SKIRSNIU IR 34(1)
@@ -2029,7 +2043,14 @@ KONTROLĖS ĮSTATYMO 17 IR 18 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2010 m. sausio 1 d.
  
-*** Pabaiga ***
+30.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-909,
+2010-06-17, Žin., 2010, Nr. 76-3868 (2010-06-30)
+ALKOHOLIO
+KONTROLĖS ĮSTATYMO 18 STRAIPSNIO PAKEITIMO IR 18(2) STRAIPSNIO PAPILDYMO
+ĮSTATYMAS
  
  
 Konstitucinio
@@ -2081,11 +2102,12 @@ RESPUBLIKOS KONSTITUCIJAI, LIETUVOS RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO 3
 STRAIPSNIO 17 DALIAI (2006 M. BALANDŽIO 25 D., 2007 M. BIRŽELIO 21 D. REDAKCIJOS)
  
  
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2010-01-05)
+Aušra Bodin (2010-06-30)
                  
-autrap@lrs.lt
+aubodi@lrs.lt
