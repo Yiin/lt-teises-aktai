@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.955166852BD7"
 
 # Lietuvos Respublikos valstybės politikų elgesio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Valstybės politikų elgesio kodeksas
 
+Suvestinė redakcija nuo 2010-06-30 iki 2015-12-31
+ 
+Įstatymas paskelbtas: Žin. 2006, Nr. 102-3938, i. k. 1061010ISTA000X-816
+ 
 LIETUVOS RESPUBLIKOS VALSTYBĖS POLITIKŲ ELGESIO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR ĮGYVENDINIMO Į S T A T Y M A S
  
 2006 m. rugsėjo 19 d. Nr. X-816
@@ -184,7 +188,10 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS POLITIKŲ ELGESIO  KODEKSAS
 
 
 
-2. Europos Parlamento nariams šis kodeksas yra taikomas tiek, kiek jų elgesio nereglamentuoja Europos Parlamento priimti teisės aktai ir Lietuvos Respublikos įstatymai bei kiti teisės aktai.
+2. Europos Parlamento nariams kaip valstybės politikams šis kodeksas yra taikomas tiek, kiek jų veiksmų nereglamentuoja Europos Sąjungos teisės aktai ir Lietuvos Respublikos įstatymai bei kiti teisės aktai.
+Straipsnio dalies pakeitimai:
+Nr. XI-900, 2010-06-15, Žin., 2010, Nr. 76-3866 (2010-06-30), i. k. 1101010ISTA00XI-900
+ 
 
 
 
@@ -543,3 +550,14 @@ Vyriausioji tarnybinės etikos komisija:
 
 
 ______________
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-900, 2010-06-15, Žin., 2010, Nr. 76-3866 (2010-06-30), i. k. 1101010ISTA00XI-900
+Lietuvos Respublikos valstybės politikų elgesio kodekso 3 straipsnio pakeitimo įstatymas
