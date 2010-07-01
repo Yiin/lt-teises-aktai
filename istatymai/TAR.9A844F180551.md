@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9A844F180551"
 
 # Lietuvos Respublikos aplinkos oro apsaugos įstatymas
 
-Suvestinė redakcija nuo 2009-02-01 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2014-09-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 98-2813, i. k. 0991010ISTAIII-1392
  
@@ -143,7 +143,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-17. Nepalankios teršalų išsisklaidymo sąlygos – meteorologinės sąlygos, nepalankios išsisklaidyti į aplinkos orą patekusiems teršalams.
+17. Nepalankios teršalų išsisklaidymo sąlygos – aplinkos veiksniai, kuriems esant kyla grėsmė, kad bus viršijamos ribinės užterštumo vertės.
+Straipsnio dalies pakeitimai:
+Nr. XI-785, 2010-04-27, Žin., 2010, Nr. 54-2648 (2010-05-11), i. k. 1101010ISTA00XI-785
+ 
 
 
 
@@ -192,23 +195,30 @@ Aplinkos oro apsaugos prioritetai yra:
 
 
 
-4 straipsnis. Aplinkos oro kokybės valdymas 
+4 straipsnis. Aplinkos oro kokybės valdymas
 
 
-1. Aplinkos ir Sveikatos apsaugos ministerijos tvirtina sąrašą teršalų, kurių kiekis aplinkos ore ribojamas, ir nustato ribines bei siektinas užterštumo vertes, leistinus nukrypimo dydžius ir pavojaus slenksčius.
-
-
-
-
-2. Savivaldybės ir Aplinkos ministerija pagal savo kompetenciją privalo imtis reikiamų priemonių, kad ribinės ar kitos šiame įstatyme nurodytos užterštumo vertės bei pavojaus slenksčiai nebūtų viršyti.
+1. Aplinkos ministerija ir Sveikatos apsaugos ministerija tvirtina sąrašą teršalų, kurių kiekis aplinkos ore ribojamas, nustato ribines ir siektinas užterštumo vertes, leistinus nukrypimo dydžius ir pavojaus slenksčius, taip pat visuomenės, suinteresuotų institucijų ir įstaigų informavimo apie aplinkos oro užterštumo lygius tvarką.
 
 
 
 
-3. Savivaldybės rengia ir suderinusios su Aplinkos ministerija bei kitomis suinteresuotomis valstybės valdymo institucijomis rengia bei tvirtina programas ir numato priemones, kurių turi būti imamasi tose zonose ar aglomeracijose, kur gali kilti pavojus viršyti ribines užterštumo vertes ir pavojaus slenksčius. 
+2. Savivaldybės ir Aplinkos ministerija ar jos įgaliotos institucijos pagal savo kompetenciją privalo imtis reikiamų priemonių, kad ribinės ar kitos šiame įstatyme nurodytos užterštumo vertės ir pavojaus slenksčiai nebūtų viršyti.
+
+
+
+
+3. Savivaldybės vykdomoji institucija, siekdama užtikrinti, kad ribinės ar kitos šiame įstatyme nurodytos užterštumo vertės ir pavojaus slenksčiai nebūtų viršyti, rengia, tikslina ir derina su Aplinkos ministerija ar jos įgaliota institucija ir kitomis suinteresuotomis valstybės institucijomis ir įstaigomis aplinkos oro kokybės valdymo programą ir jos įgyvendinimo priemonių planą. Kokia informacija turi būti įtraukta į aplinkos oro kokybės valdymo programą ir jos įgyvendinimo priemonių planą, nustato Aplinkos ministerija kartu su Sveikatos apsaugos ministerija. Suderintą aplinkos oro kokybės valdymo programą ir jos įgyvendinimo priemonių planą tvirtina savivaldybės atstovaujamoji institucija. Aplinkos oro kokybės valdymo programa ir jos įgyvendinimo priemonių planas skelbiami viešai.
+
+
+
+
+4. Savivaldybės vykdomoji institucija Aplinkos ministerijos nustatyta tvarka Aplinkos ministerijai ar jos įgaliotai institucijai teikia ataskaitas apie aplinkos oro kokybės valdymo programos ir jos įgyvendinimo priemonių plano vykdymą.
+
+
+Straipsnio pakeitimai:
+Nr. XI-785, 2010-04-27, Žin., 2010, Nr. 54-2648 (2010-05-11), i. k. 1101010ISTA00XI-785
  
-
-
 
 
 
@@ -226,23 +236,30 @@ Aplinkos oro apsaugos prioritetai yra:
 
 
 
-3. Aplinkos ministerija:
+3. Aplinkos ministerija ar jos įgaliota institucija:
 
 
-1) kartu su suinteresuotomis institucijomis visoje šalies teritorijoje organizuoja oro kokybės rodiklių matavimus bei kitus tyrimus, reikalingus aplinkos oro kokybei įvertinti;
-
-
-
-
-2) nustato minimalų matavimų skaičių, įgalinantį gauti informaciją, reikalingą aplinkos oro būklei įvertinti;
+1) kartu su suinteresuotomis institucijomis visoje šalies teritorijoje organizuoja oro kokybės rodiklių matavimus ir kitus tyrimus, reikalingus aplinkos oro kokybei įvertinti;
 
 
 
 
-3) nustato aplinkos oro kokybės vertinimo tvarką. 
+2) nustato minimalų matavimų skaičių, leidžiantį gauti informaciją, reikalingą aplinkos oro būklei įvertinti;
+
+
+
+
+3) nustato aplinkos oro kokybės vertinimo tvarką; 
+
+
+
+
+4) nustato nepalankių teršalų išsisklaidymo sąlygų nustatymo kriterijus.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XI-785, 2010-04-27, Žin., 2010, Nr. 54-2648 (2010-05-11), i. k. 1101010ISTA00XI-785
  
-
-
 
 
 
@@ -260,7 +277,7 @@ Aplinkos oro kokybės ir taršos šaltinių monitoringas yra aplinkos monitoring
 
 
 
-7 straipsnis. Zonos ir aglomeracijos, kuriose užterštumo lygis viršija ribines užterštumo vertes
+7 straipsnis. Zonos ir aglomeracijos, kuriose užterštumo lygis viršija ribines ar siektinas užterštumo vertes
 
 
 1. Aplinkos ministerija kartu su Sveikatos apsaugos ministerija sudaro ir tikslina sąrašus zonų ir aglomeracijų, kuriose užterštumo vienu arba daugiau teršalų lygis:
@@ -271,22 +288,29 @@ Aplinkos oro kokybės ir taršos šaltinių monitoringas yra aplinkos monitoring
 
 
 
-2) viršija ribines užterštumo vertes, bet neviršija šių verčių kartu su leistinais nukrypimo dydžiais.
+2) viršija ribines užterštumo vertes, bet neviršija šių verčių kartu su leistinais nukrypimo dydžiais;
+
+
+
+
+3) viršija siektinas užterštumo vertes.
 
 
 
 
 
 
-2. Savivaldybės rengia ir suderinusios su Aplinkos ministerija šio straipsnio 1 dalyje nurodytoms zonoms bei aglomeracijoms tvirtina programas ribinėms užterštumo vertėms pasiekti ir užterštumo lygiui toliau mažinti. Programos turi būti viešos ir laisvai prieinamos visuomenei.
+2. Savivaldybės, kurios teritorijoje, remiantis valstybinio aplinkos monitoringo duomenimis, viršijama bent viena šio straipsnio 1 dalyje nurodyta ribinė ar siektina užterštumo vertė, vykdomoji institucija turi tikslinti aplinkos oro kokybės valdymo programą ir jos įgyvendinimo priemonių planą ir numatyti aplinkos oro kokybės valdymo priemones aplinkos oro užterštumo lygiui sumažinti iki nustatytos ribinės ar siektinos užterštumo vertės ir toliau mažinti aplinkos oro užterštumo lygį. Patikslintoje aplinkos oro kokybės valdymo programoje ir jos įgyvendinimo priemonių plane turi būti nustatytas konkretus laikotarpis aplinkos oro užterštumo lygiui sumažinti iki nustatytos ribinės ar siektinos užterštumo vertės. Patikslinta aplinkos oro kokybės valdymo programa ir jos įgyvendinimo priemonių planas šio įstatymo 4 straipsnio 3 dalyje nustatyta tvarka turi būti suderinti ir patvirtinti iki kitų metų, einančių po kalendorinių metų, kuriais savivaldybės teritorijoje buvo nustatytos viršytos ribinės ar siektinos užterštumo vertės, liepos 1 dienos ir apie tai turi būti informuojama Aplinkos ministerija.
 
 
 
 
-3. Jeigu kurio nors teršalo koncentracija viršija arba gali viršyti ribinę užterštumo vertę ir leistiną nukrypimo dydį arba pavojaus slenkstį dėl teršalų pernašos iš kitos valstybės, Aplinkos ministerija, remdamasi Lietuvos tarptautinėmis sutartimis, susijusiomis su aplinkos apsauga, dėl sprendimų taršai pašalinti arba jai sumažinti turi teisę konsultuotis su atsakingomis kitos valstybės institucijomis. 
+3. Jeigu kurio nors teršalo koncentracija viršija arba gali viršyti ribinę užterštumo vertę ir leistiną nukrypimo dydį arba pavojaus slenkstį dėl teršalų pernašos iš kitos valstybės, Aplinkos ministerija, remdamasi Lietuvos Respublikos ratifikuotomis tarptautinėmis sutartimis, susijusiomis su aplinkos apsauga, dėl sprendimų taršai pašalinti arba jai sumažinti bendradarbiauja ir konsultuojasi su atsakingomis kitos valstybės institucijomis.
+
+
+Straipsnio pakeitimai:
+Nr. XI-785, 2010-04-27, Žin., 2010, Nr. 54-2648 (2010-05-11), i. k. 1101010ISTA00XI-785
  
-
-
 
 
 
@@ -310,10 +334,12 @@ Aplinkos oro kokybės ir taršos šaltinių monitoringas yra aplinkos monitoring
 9 straipsnis. Pavojaus slenksčio viršijimas
 
 
-Jeigu viršijamas pavojaus slenkstis, savivaldybės, Aplinkos ministerija ar kitos suinteresuotos valstybės valdymo institucijos turi kuo skubiau informuoti apie tai visuomenę ir imtis priemonių, kad būtų sumažintas pavojus žmonių sveikatai ir aplinkai.
+Jeigu viršijamas pavojaus slenkstis, Aplinkos ministerijos ir Sveikatos apsaugos ministerijos nustatyta tvarka Aplinkos ministerijos ir Sveikatos apsaugos ministerijos įgaliotos institucijos turi kuo skubiau apie tai informuoti visuomenę ir savivaldybės vykdomoji institucija turi imtis priemonių, kad būtų sumažintas pavojus žmonių sveikatai ir aplinkai. 
+
+
+Straipsnio pakeitimai:
+Nr. XI-785, 2010-04-27, Žin., 2010, Nr. 54-2648 (2010-05-11), i. k. 1101010ISTA00XI-785
  
-
-
 
 
 
@@ -328,35 +354,67 @@ APLINKOS ORO TARŠOS VALDYMAS
 10 straipsnis. Aplinkos oro taršos reguliavimo priemonės
 
 
-1. Aplinkos ministerija nustato leistiną bendrą iš stacionarių taršos šaltinių išmetamų teršalų kiekį visoje Lietuvos Respublikos teritorijoje ir kiekvienoje apskrityje. 
+1. Aplinkos ministerija nustato leistiną bendrą iš stacionarių taršos šaltinių išmetamų teršalų kiekį visoje Lietuvos Respublikos teritorijoje ir kiekvienoje apskrityje.
 
 
 
 
-2. Savivaldybės rengia, tvirtina ir įgyvendina aplinkos oro taršos mažinimo programas.
+2. Siekdama apsaugoti žmonių sveikatą ir aplinką, kai susidaro nepalankios teršalų išsisklaidymo sąlygos arba kai viršijamos ribinės užterštumo vertės ar pavojaus slenksčiai, savivaldybės vykdomoji institucija turi teisę priimti sprendimą dėl transporto priemonių eismo laikino apribojimo arba uždraudimo tam tikroje savivaldybės teritorijoje.
 
 
 
 
-3. Siekdama apsaugoti žmonių sveikatą ir aplinką esant nepalankioms teršalų išsisklaidymo sąlygoms ar iškilus grėsmei, kad gali būti viršijamos ribinės užterštumo vertės, Aplinkos ministerija, suderinusi su savivaldybe, turi teisę laikinai:
-
-
-1) tam tikroje teritorijoje apriboti arba uždrausti transporto priemonių eismą; 
+3. Aplinkos apsaugos valstybinės kontrolės institucijos apie susidariusias nepalankias teršalų išsisklaidymo sąlygas arba apie tai, kad viršijamos ribinės užterštumo vertės ar pavojaus slenksčiai, taip pat apie tai, kad pasibaigė nepalankios teršalų išsisklaidymo sąlygos arba kad nebeviršijamos ribinės užterštumo vertės ar pavojaus slenksčiai, nedelsdamos informuoja atitinkamos savivaldybės vykdomąją instituciją.
 
 
 
 
-2) apriboti stacionarių taršos šaltinių veiklą;
+4. Sprendimą dėl transporto priemonių eismo laikino apribojimo arba uždraudimo tam tikroje savivaldybės teritorijoje savivaldybės vykdomoji institucija priima gavusi aplinkos apsaugos valstybinės kontrolės institucijos informaciją apie susidariusias nepalankias teršalų išsisklaidymo sąlygas arba apie tai, kad viršijamos ribinės užterštumo vertės ar pavojaus slenksčiai.
 
 
 
 
-3) taikyti kitas aplinkos oro taršos mažinimo priemones. 
+5. Savivaldybės vykdomosios institucijos priimtame sprendime dėl transporto priemonių eismo laikino apribojimo arba uždraudimo tam tikroje savivaldybės teritorijoje nurodoma:
+
+
+1) šio įstatymo straipsnis ir dalis, kuriais remiantis priimtas sprendimas;
+
+
+
+
+2) savivaldybės teritorija, kurioje apribojamas arba uždraudžiamas transporto priemonių eismas;
+
+
+
+
+3) priemonės ir būdai, kuriais apribojamas arba uždraudžiamas transporto priemonių eismas.
+
+
+
+
+
+
+6. Savivaldybės vykdomosios institucijos sprendimas dėl transporto priemonių eismo laikino apribojimo arba uždraudimo tam tikroje savivaldybės teritorijoje skelbiamas vietinėje spaudoje ir įsigalioja kitą dieną po jo paskelbimo arba kitą dieną po oficialaus informacinio pranešimo vietinėje spaudoje apie savivaldybės vykdomosios institucijos sprendimo dėl transporto priemonių eismo laikino apribojimo arba uždraudimo tam tikroje savivaldybės teritorijoje priėmimą ir viso sprendimo paskelbimo savivaldybės interneto tinklalapyje, jeigu pačiame sprendime nenustatyta vėlesnė jo įsigaliojimo data.
+
+
+
+
+7. Savivaldybės vykdomoji institucija, gavusi aplinkos apsaugos valstybinės kontrolės institucijos informaciją apie tai, kad pasibaigė nepalankios teršalų išsisklaidymo sąlygos arba kad nebeviršijamos ribinės užterštumo vertės ar pavojaus slenksčiai, priima sprendimą panaikinti sprendimą tam tikroje savivaldybės teritorijoje laikinai apriboti arba uždrausti transporto priemonių eismą. Savivaldybės vykdomosios institucijos sprendimas skelbiamas vietinėje spaudoje ir įsigalioja kitą dieną po jo paskelbimo arba kitą dieną po oficialaus informacinio pranešimo vietinėje spaudoje apie savivaldybės vykdomosios institucijos sprendimo panaikinti sprendimą dėl transporto priemonių eismo laikino apribojimo arba uždraudimo tam tikroje savivaldybės teritorijoje priėmimą ir viso sprendimo paskelbimo savivaldybės interneto svetainėje, jeigu pačiame sprendime nenustatyta vėlesnė jo įsigaliojimo data.
+
+
+
+
+8. Apie susidariusias arba pasibaigusias nepalankias teršalų išsisklaidymo sąlygas, aplinkos apsaugos valstybinės kontrolės institucijos informuoja stacionarių taršos šaltinių naudotojus, patenkančius į teritoriją, kurioje susidarė nepalankios teršalų išsisklaidymo sąlygos.
+
+
+
+
+9. Aplinkos apsaugos valstybinės kontrolės institucijos teisės aktų nustatyta tvarka kontroliuoja, kaip stacionarių taršos šaltinių naudotojai įgyvendina šio įstatymo 18 straipsnio 2 dalyje nurodytas aplinkos oro taršos mažinimo programas.
+
+
+Straipsnio pakeitimai:
+Nr. XI-785, 2010-04-27, Žin., 2010, Nr. 54-2648 (2010-05-11), i. k. 1101010ISTA00XI-785
  
-
-
-
-
 
 
 
@@ -369,7 +427,10 @@ APLINKOS ORO TARŠOS VALDYMAS
 
 
 
-2. Statant naujus objektus, kurie gali tapti aplinkos oro taršos šaltiniu, ar juos rekonstruojant, turi būti parinkti geriausi prieinami gamybos būdai. Taip pat turi būti numatomos priemonės aplinkos oro taršai mažinti.
+2. Statant naujus ūkinės veiklos objektus, kurie gali tapti aplinkos oro taršos šaltiniu, ar juos rekonstruojant, turi būti parinkti geriausi prieinami gamybos būdai. Vykdant statybos darbus taip pat turi būti taikomos priemonės aplinkos oro taršai mažinti.
+Straipsnio dalies pakeitimai:
+Nr. XI-785, 2010-04-27, Žin., 2010, Nr. 54-2648 (2010-05-11), i. k. 1101010ISTA00XI-785
+ 
 
 
 
@@ -568,7 +629,17 @@ Asmenys turi teisę Vyriausybės arba jos įgaliotos institucijos nustatyta tvar
 
 
 
-3. Taršos šaltinio naudotojas, vykdantis žemės gelmių turtų gavybos, sprogdinimo darbus, įrengiantis sąvartynus ar kitas atliekų saugyklas, privalo taikyti naujausias mažai taršias technologijas, kad būtų sumažintas teršalų išmetimas į aplinkos orą.
+3. Stacionaraus taršos šaltinio naudotojas, gavęs informaciją iš aplinkos apsaugos valstybinės kontrolės institucijos apie susidariusias nepalankias teršalų išsisklaidymo sąlygas, privalo įgyvendinti šio straipsnio 2 dalyje nurodytą aplinkos oro taršos mažinimo programą. 
+Papildyta straipsnio dalimi:
+Nr. XI-785, 2010-04-27, Žin., 2010, Nr. 54-2648 (2010-05-11), i. k. 1101010ISTA00XI-785
+ 
+
+
+
+
+4. Taršos šaltinio naudotojas, vykdantis žemės gelmių išteklių gavybos, sprogdinimo darbus, tvarkantis atliekas, privalo taikyti naujausias mažai taršias technologijas, kad būtų sumažintas teršalų išmetimas į aplinkos orą.
+Straipsnio dalies pakeitimai:
+Nr. XI-785, 2010-04-27, Žin., 2010, Nr. 54-2648 (2010-05-11), i. k. 1101010ISTA00XI-785
  
 
 
@@ -576,18 +647,20 @@ Asmenys turi teisę Vyriausybės arba jos įgaliotos institucijos nustatyta tvar
 
 
 
-19 straipsnis. Teršalų išmetimo į aplinkos orą apskaita 
+19 straipsnis. Teršalų išmetimo į aplinkos orą apskaita ir ataskaitų teikimas
 
 
-1. Leidimą teršalams į aplinkos orą išmesti turintis taršos šaltinio naudotojas privalo įstatymų ir kitų teisės aktų nustatyta tvarka tvarkyti žaliavų, kuro, energijos sąnaudų, produkcijos kiekio ir susidarančių bei išmetamų į aplinkos orą teršalų apskaitą.
+1. Taršos šaltinio naudotojas privalo įstatymų ir kitų teisės aktų nustatyta tvarka tvarkyti žaliavų, kuro, energijos sąnaudų, produkcijos kiekio, taršos šaltinių ir išmetamų į aplinkos orą teršalų apskaitą ir Aplinkos ministerijai ar jos įgaliotai institucijai teikti ataskaitas.
 
 
 
 
-2. Taršos šaltinio naudotojas leidimą teršalams į aplinkos orą išmesti išdavusiai institucijai privalo teikti ataskaitas. Ataskaitų teikimo tvarką, turinį bei formą nustato Aplinkos ministerija.
+2. Taršos šaltinių ir išmetamų į aplinkos orą teršalų apskaitos turinį ir formą bei žaliavų, kuro, energijos sąnaudų, produkcijos kiekio, taršos šaltinių ir išmetamų į aplinkos orą teršalų ataskaitų teikimo tvarką nustato Aplinkos ministerija.
+
+
+Straipsnio pakeitimai:
+Nr. XI-785, 2010-04-27, Žin., 2010, Nr. 54-2648 (2010-05-11), i. k. 1101010ISTA00XI-785
  
-
-
 
 
 
@@ -616,7 +689,10 @@ Asmenys turi teisę Vyriausybės arba jos įgaliotos institucijos nustatyta tvar
 
 
 
-2. Įvykus avarijai, susijusiai su galimu dideliu teršalų išmetimu į aplinkos orą, taršos šaltinio naudotojas privalo nedelsdamas pranešti apie tai savivaldybei, apskrities viršininkui, Aplinkos ministerijai ir Civilinės saugos departamentui, taip pat imtis priemonių avarijai likviduoti ir neigiamam poveikiui riboti.
+2. Taršos šaltinio naudotojo pareigas didelių pramoninių avarijų atveju nustato Vyriausybės tvirtinami Pramoninių avarijų prevencijos, likvidavimo ir tyrimo nuostatai.
+Straipsnio dalies pakeitimai:
+Nr. XI-785, 2010-04-27, Žin., 2010, Nr. 54-2648 (2010-05-11), i. k. 1101010ISTA00XI-785
+ 
 
 
 
@@ -644,7 +720,9 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-2. Taršos šaltinio naudotojas, neteisėta veika užteršęs aplinką, privalo atlyginti žalą ir esant galimybei atkurti aplinkos elemento būklę.
+2. Asmenys, padarę žalą aplinkai, teisės aktų nustatyta tvarka privalo ją atlyginti ir esant galimybei atkurti aplinkos elemento būklę.
+Straipsnio dalies pakeitimai:
+Nr. XI-785, 2010-04-27, Žin., 2010, Nr. 54-2648 (2010-05-11), i. k. 1101010ISTA00XI-785
  
 
 
@@ -707,3 +785,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-140, 2009-01-12, Žin., 2009, Nr. 10-362 (2009-01-27), i. k. 1091010ISTA00XI-140
 Lietuvos Respublikos aplinkos oro apsaugos įstatymo 13 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-785, 2010-04-27, Žin., 2010, Nr. 54-2648 (2010-05-11), i. k. 1101010ISTA00XI-785
+Lietuvos Respublikos aplinkos oro apsaugos įstatymo 2, 4, 5, 7, 9, 10, 11, 18, 19, 21 ir 22 straipsnių pakeitimo ir papildymo įstatymas
