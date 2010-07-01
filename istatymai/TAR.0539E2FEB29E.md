@@ -195,7 +195,7 @@ institucija;
 2) planuojamos
 ūkinės veiklos poveikio aplinkai vertinimo subjektai: valstybės institucijos,
 atsakingos už sveikatos apsaugą, priešgaisrinę apsaugą, kultūros vertybių
-apsaugą, ir apskričių bei savivaldybių institucijos;
+apsaugą, ir savivaldybių institucijos;
 3) planuojamos
 ūkinės veiklos organizatorius (užsakovas);
 4) poveikio
@@ -215,6 +215,9 @@ Straipsnio
 pakeitimai:
 Nr. X-1654,
 2008-06-30, Žin., 2008, Nr. 81-3167 (2008-07-17)
+Nr.
+XI-784,
+2010-04-27, Žin., 2010, Nr. 54-2647 (2010-05-11)
  
 6
 straipsnis. Poveikio aplinkai vertinimo proceso dalyvių funkcijos
@@ -363,8 +366,8 @@ aplinkai vertinimą be atrankos procedūros.
 straipsnis. Poveikio aplinkai vertinimo programa
 1. Poveikio
 aplinkai vertinimo programa rengiama, kai pagal šio įstatymo 7 straipsnio 1
-dalies nuostatas privaloma vertinti planuojamos ūkinės veiklos poveikį aplinkai.
-
+dalies nuostatas privaloma vertinti planuojamos ūkinės veiklos poveikį
+aplinkai. 
 2. Programą
 rengia poveikio aplinkai vertinimo dokumentų rengėjas, vadovaudamasis Aplinkos
 ministerijos patvirtintais poveikio aplinkai vertinimo programos ir ataskaitos
@@ -405,12 +408,12 @@ poveikio aplinkai vertinimo subjektams.
 aplinkai vertinimo subjektai programą išnagrinėja ir per 10 darbo dienų nuo jos
 gavimo dienos motyvuotas išvadas pateikia poveikio aplinkai vertinimo dokumentų
 rengėjui. Poveikio aplinkai vertinimo subjektai, atsakingi už priešgaisrinę
-apsaugą, kultūros vertybių apsaugą, ir apskričių institucijos, atsižvelgę į
-planuojamos ūkinės veiklos mastą, pobūdį ar vietos ypatumus, teikdami išvadas
-dėl programos, turi nurodyti, ar jie pageidauja nagrinėti ataskaitą. Jeigu
-poveikio aplinkai vertinimo subjektai, atsakingi už priešgaisrinę apsaugą,
-kultūros vertybių apsaugą, ir apskričių institucijos nurodo, kad nepageidauja
-nagrinėti ataskaitą, ataskaita jiems neteikiama.
+apsaugą, kultūros vertybių apsaugą, atsižvelgę į planuojamos ūkinės veiklos
+mastą, pobūdį ar vietos ypatumus, teikdami išvadas dėl programos, turi
+nurodyti, ar jie pageidauja nagrinėti ataskaitą. Jeigu poveikio aplinkai
+vertinimo subjektai, atsakingi už priešgaisrinę apsaugą, kultūros vertybių
+apsaugą, nurodo, kad nepageidauja nagrinėti ataskaitą, ataskaita jiems
+neteikiama.
 7. Poveikio
 aplinkai vertinimo subjektai turi teisę pateikti motyvuotus reikalavimus, kad
 poveikio aplinkai vertinimo dokumentų rengėjas papildytų ar pataisytų programą.
@@ -426,15 +429,15 @@ vertinimo subjektų išvadas pateikia atsakingai institucijai.
 programos patvirtinimo savivaldybės, kurios teritorijoje planuojama ūkinė
 veikla, taryba priima neigiamą motyvuotą sprendimą dėl planuojamos ūkinės
 veiklos galimybių, poveikio aplinkai vertinimo procedūros negali būti tęsiamos
-tol, kol galioja savivaldybės tarybos priimtas sprendimas, išskyrus atvejus, kai
-planuojama ūkinė veikla yra valstybinės reikšmės ir jos įgyvendinimas numatytas
-Lietuvos Respublikos Vyriausybės patvirtintuose valstybės strateginiuose
-planuose. Apie savivaldybės tarybos priimtą neigiamą sprendimą savivaldybės
-administracija nedelsdama (per 3 darbo dienas) informuoja atsakingą instituciją
-ir planuojamos ūkinės veiklos organizatorių (užsakovą) ir kartu pateikia
-savivaldybės tarybos sprendimą. Atsakinga institucija, gavusi savivaldybės
-tarybos sprendimą, apie tai informuoja visuomenę Aplinkos ministerijos
-nustatyta tvarka.
+tol, kol galioja savivaldybės tarybos priimtas sprendimas, išskyrus atvejus,
+kai planuojama ūkinė veikla yra valstybinės reikšmės ir jos įgyvendinimas
+numatytas Lietuvos Respublikos Vyriausybės patvirtintuose valstybės
+strateginiuose planuose. Apie savivaldybės tarybos priimtą neigiamą sprendimą
+savivaldybės administracija nedelsdama (per 3 darbo dienas) informuoja
+atsakingą instituciją ir planuojamos ūkinės veiklos organizatorių (užsakovą) ir
+kartu pateikia savivaldybės tarybos sprendimą. Atsakinga institucija, gavusi
+savivaldybės tarybos sprendimą, apie tai informuoja visuomenę Aplinkos
+ministerijos nustatyta tvarka.
 10. Atsakinga
 institucija, išnagrinėjusi programą, turi teisę pateikti motyvuotus
 reikalavimus poveikio aplinkai vertinimo dokumentų rengėjui papildyti ar
@@ -464,6 +467,9 @@ Straipsnio
 pakeitimai:
 Nr. X-1654,
 2008-06-30, Žin., 2008, Nr. 81-3167 (2008-07-17)
+Nr.
+XI-784,
+2010-04-27, Žin., 2010, Nr. 54-2647 (2010-05-11)
  
 9
 straipsnis. Poveikio aplinkai vertinimo ataskaita
@@ -504,14 +510,14 @@ aplinkai vertinimo subjektai išnagrinėja ataskaitą ir per 20 darbo dienų nuo
 jos gavimo dienos savo motyvuotas išvadas dėl ataskaitos ir planuojamos ūkinės
 veiklos galimybių pateikia poveikio aplinkai vertinimo dokumentų
 rengėjui. 
-5. Poveikio
-aplinkai vertinimo subjektai turi teisę pateikti motyvuotus reikalavimus, kad
-poveikio aplinkai vertinimo dokumentų rengėjas papildytų ar pataisytų
-ataskaitą. Poveikio aplinkai vertinimo dokumentų rengėjas turi papildyti ar
-pataisyti ataskaitą ir pakartotinai pateikti ją poveikio aplinkai vertinimo
-subjektams. Šie ataskaitą išnagrinėja ir per 10 darbo dienų nuo jos gavimo
-dienos motyvuotas išvadas dėl ataskaitos ir planuojamos ūkinės veiklos
-galimybių pateikia poveikio aplinkai vertinimo dokumentų rengėjui. 
+5. Poveikio aplinkai
+vertinimo subjektai turi teisę pateikti motyvuotus reikalavimus, kad poveikio
+aplinkai vertinimo dokumentų rengėjas papildytų ar pataisytų ataskaitą.
+Poveikio aplinkai vertinimo dokumentų rengėjas turi papildyti ar pataisyti
+ataskaitą ir pakartotinai pateikti ją poveikio aplinkai vertinimo subjektams.
+Šie ataskaitą išnagrinėja ir per 10 darbo dienų nuo jos gavimo dienos
+motyvuotas išvadas dėl ataskaitos ir planuojamos ūkinės veiklos galimybių
+pateikia poveikio aplinkai vertinimo dokumentų rengėjui. 
 6. Poveikio
 aplinkai vertinimo dokumentų rengėjas atsakingai institucijai pateikia
 ataskaitą, poveikio aplinkai vertinimo subjektų išvadas dėl ataskaitos ir
@@ -558,9 +564,9 @@ Konvenciją, atsakinga institucija, atsižvelgusi į tarpvalstybinių konsultaci
 rezultatus, sprendimą priima pasibaigus tarpvalstybinio poveikio aplinkai
 vertinimo procedūroms per šio straipsnio 1 dalyje nurodytą terminą. 
 3. Atsakinga
-institucija poveikio aplinkai vertinimo subjektams ir planuojamos ūkinės
-veiklos organizatoriui (užsakovui) ar poveikio aplinkai vertinimo dokumentų
-rengėjui sprendimą pateikia raštu. 
+institucija poveikio aplinkai vertinimo subjektams ir planuojamos ūkinės veiklos
+organizatoriui (užsakovui) ar poveikio aplinkai vertinimo dokumentų rengėjui
+sprendimą pateikia raštu. 
 4. Kai poveikio
 aplinkai vertinimo subjektų išvados dėl planuojamos ūkinės veiklos galimybių
 prieštarauja viena kitai ir (ar) atsakinga institucija yra gavusi
@@ -1347,14 +1353,25 @@ Poveikio
 aplinkai vertinimo procedūros, pradėtos iki šio įstatymo įsigaliojimo,
 baigiamos pagal tuo metu galiojusias teisės normas.
  
+6.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-784,
+2010-04-27, Žin., 2010, Nr. 54-2647 (2010-05-11)
+PLANUOJAMOS
+ŪKINĖS VEIKLOS POVEIKIO APLINKAI VERTINIMO ĮSTATYMO 5 IR 8 STRAIPSNIŲ PAKEITIMO
+ĮSTATYMAS
+Įstatymas
+įsigalioja 2010-07-01.
+ 
 ***
 Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2008-07-18)
+Redagavo
+Aušra Bodin (2010-05-11)
                  
-autrap@lrs.lt
+ aubodi@lrs.lt
  
 
 
