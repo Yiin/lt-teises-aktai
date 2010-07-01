@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0120FD7BCFFC"
 
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas
 
-Suvestinė redakcija nuo 2010-04-10 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 60-1183, i. k. 0941010ISTA000I-558
  
@@ -84,7 +84,10 @@ Nr. IX-2423, 2004-08-23, Žin., 2004, Nr. 135-4893 (2004-09-04), i. k. 1041010IS
 
 
 
-Apskritis yra Lietuvos Respublikos teritorijos aukštesnysis administracinis vienetas, kurio valdymą organizuoja Lietuvos Respublikos Vyriausybė pagal Lietuvos Respublikos apskrities valdymo įstatymą ir kitus įstatymus.
+Apskritis yra Lietuvos Respublikos teritorijos aukštesnysis administracinis vienetas, kuriame valdymą įstatymų nustatyta tvarka organizuoja Lietuvos Respublikos Vyriausybė. 
+Straipsnio dalies pakeitimai:
+Nr. XI-709, 2010-03-30, Žin., 2010, Nr. 41-1934 (2010-04-10), i. k. 1101010ISTA00XI-709
+ 
 
 
 
