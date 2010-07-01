@@ -13,14 +13,16 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5B55C0654B4A"
 
 # Lietuvos Respublikos pašarų įstatymas
 
-Suvestinė redakcija nuo 2004-04-30 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2010-11-22
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 34-952, i. k. 1001010ISTAIII-1610
  
-Nauja redakcija nuo 2004-04-30:
-Nr. IX-2210, 2004-04-29, Žin. 2004, Nr. 73-2541 (2004-04-30), i. k. 1041010ISTA0IX-2210
+Nauja redakcija nuo 2010-07-01:
+Nr. XI-654, 2010-01-14, Žin. 2010, Nr. 12-560 (2010-01-30), i. k. 1101010ISTA00XI-654
  
-LIETUVOS RESPUBLIKOS PAŠARŲ ĮSTATYMAS
+LIETUVOS RESPUBLIKOS
+PAŠARŲ
+ĮSTATYMAS
  
 2000 m. balandžio 6 d. Nr. VIII-1610
 Vilnius
@@ -36,12 +38,12 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis Įstatymas nustato pašarų gamybos, laikymo, pakavimo, gabenimo, naudojimo, tiekimo į apyvartą ir jų kokybės kontrolės teisinius pagrindus.
+1. Šis įstatymas nustato pašarų, išskyrus vaistinius pašarus, gamybos, laikymo, fasavimo, pakavimo, transportavimo, naudojimo, tiekimo rinkai ir valstybinės pašarų kontrolės teisinius pagrindus.
 
 
 
 
-2. Šiuo Įstatymu siekiama užtikrinti Europos Sąjungos teisės aktų, nurodytų šio Įstatymo priede, taikymą.
+2. Šiuo įstatymu siekiama užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, taikymą.
  
 
 
@@ -52,7 +54,7 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Įstatymo taikymo sritis
 
 
-Šis Įstatymas taikomas visiems pašarus gaminantiems, laikantiems, pakuojantiems, gabenantiems, naudojantiems, tiekiantiems į apyvartą ūkio subjektams bei pašarų kokybę ir saugą kontroliuojančioms institucijoms.
+Šis įstatymas taikomas visiems pašarus gaminantiems, laikantiems, fasuojantiems, pakuojantiems, transportuojantiems, naudojantiems, tiekiantiems rinkai ūkio subjektams, taip pat valstybinės pašarų kontrolės institucijoms.
  
 
 
@@ -60,155 +62,165 @@ BENDROSIOS NUOSTATOS
 
 
 
-3 straipsnis. Pagrindinės šio Įstatymo sąvokos
+3 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Atitikties deklaracija – tiekėjo išduotas dokumentas, liudijantis, kad reikiamu būdu identifikuotas pašaras atitinka tam tikrą normą.
+1. Fitosanitarinis sertifikatas – Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos išduodamas oficialus dokumentas, kuriuo pažymima, kad fitosanitarinė augalų, augalinių produktų ir kitų objektų būklė atitinka juos įvežančios šalies nustatytus reikalavimus.
 
 
 
 
-2. Baltyminiai vitamininiai (ar baltyminiai vitamininiai mineraliniai) papildai – pašarų mišiniai, sudaryti iš baltyminių ir (ar) mineralinių pašarinių žaliavų, vitaminų, mikroelementų ir kitų pašarų priedų. 
+2. Genetiškai modifikuotas pašaras – iš genetiškai modifikuotų organizmų pagamintas, iš jų susidedantis arba šių organizmų savo sudėtyje turintis pašaras.
 
 
 
 
-3. Fitosanitarinis sertifikatas – Lietuvos Respublikos valstybinės augalų apsaugos tarnybos išduodamas oficialus dokumentas, patvirtinantis, kad augalų, augalinių produktų fitosanitarinė būklė atitinka juos įvežančios šalies nustatytus reikalavimus.
+3. Gyvūnas – žmogaus poreikius tenkinantis naminis arba laukinis gyvūnas.
 
 
 
 
-4. Genetiškai modifikuoti pašarai – medžiagos ar produktai, kurių sudėtyje yra ar kurie susideda iš genetiškai modifikuotų organizmų, jų dalių ar iš genetiškai modifikuotų organizmų išskirtų medžiagų ir yra teikiami į rinką.
+4. Gyvūninis pašaras – natūralus, šviežias, konservuotas ar perdirbtas gyvūninis produktas, skirtas gyvūnams šerti arba pašarams gaminti.
 
 
 
 
-5. Gyvūnas – bet kuris stuburinis ar bestuburis gyvūnas (įskaitant žuvis, roplius ir amfibijas). 
+5. Kombinuotasis pašaras – pašarinių žaliavų mišinys su pašaro priedais arba be jų, naudojamas kaip visavertis pašaras ar pašaro papildas gyvūnams.
 
 
 
 
-6. Kenksmingos (nepageidautinos) medžiagos – medžiagos ar produktai, išskyrus patogeninius organizmus, esantys produktuose, skirtuose gyvūnų mitybai, ir (ar) ant jų bei keliantys pavojų gyvūnų ar žmonių sveikatai ar aplinkai, ar galintys daryti neigiamą įtaką gyvūniniams produktams.
+6. Melasinis papildas – pašaras iš melasos, turintis ne mažiau kaip 14 procentų cukraus, išreikšto sacharoze.
 
 
 
 
-7. Kombinuotieji pašarai – pašarinių žaliavų mišiniai su pašarų priedais ar be jų, naudojami kaip visaverčiai pašarai ar pašarų papildai gyvūnams. 
+7. Mineralinis papildas – pašaro papildas, turintis ne mažiau kaip 40 procentų žalių pelenų.
 
 
 
 
-8. Melasos papildai – pašarai iš melasos, turintys ne mažiau kaip 14 procentų cukraus, išreikšto sacharoze.
+8. Nepageidaujamos medžiagos pašaruose (toliau – nepageidaujamos medžiagos) – medžiagos, produktai ar augalinės priemaišos, išskyrus patogeninius organizmus, esantys pašaruose ir (arba) ant jų, keliantys pavojų gyvūnų, žmonių sveikatai ar aplinkai, galintys daryti neigiamą poveikį gyvūniniams produktams.
 
 
 
 
-9. Mineraliniai papildai – mineralinių pašarų mišiniai, turintys ne mažiau kaip 40 procentų žaliųjų pelenų.
+9. Paros davinys – vidutinis 12 procentų drėgnio pašarų kiekis, kurio reikia įvairių rūšių, amžiaus grupių ir produktyvumo gyvūnų mitybos poreikiams tenkinti.
 
 
 
 
-10. Nesaugūs pašarai – bet kurios paskirties pašarai, žmonių ir gyvūnų sveikatai bei aplinkai turintys didesnį neigiamą poveikį negu teisės aktais leistina rizika.
+10. Pašaras – natūralus, šviežias arba konservuotas augalinis ar gyvūninis produktas, iš jo pramoniniu būdu gautas produktas, taip pat šalutinis maisto produktas, skirti gyvūnams šerti tiesiogiai arba juos sumaišius, į juos pridėjus ar nepridėjus pašarų priedų.
 
 
 
 
-11. Paros davinys (racionas) – vidutinis 12 procentų drėgnio pašarų kiekis, kurio reikia įvairių rūšių, amžiaus grupių ir produktyvumo gyvūnų poreikiams tenkinti.
+11. Pašarinės žaliavos – natūralūs, švieži arba konservuoti augaliniai ir gyvūniniai produktai, iš jų pramoniniu būdu gauti produktai, organinės arba neorganinės medžiagos su pašarų priedais arba be jų, šeriami gyvūnams tiesiogiai arba perdirbti naudojami gaminant kombinuotuosius pašarus ar kaip premiksų užpildai.
 
 
 
 
-12. Pašarai – natūralios, iš dalies apdorotos, apdorotos medžiagos ir produktai bei pašarų priedai, skirti gyvūnų mitybai.
+12. Pašaro atitikties deklaracija (toliau – atitikties deklaracija) – tiekėjo išduodamas dokumentas, kuriuo patvirtinama, kad reikiamu būdu paženklintas pašaras atitinka tam tikras teisės aktų normas.
 
 
 
 
-13. Pašarai konkretiems mitybos tikslams (tarp jų dietiniai pašarai) – kombinuotieji pašarai, kurie skirti specifinėms mitybos reikmėms, yra kitokios sudėties ar apdorojimo nei paprastieji pašarai, produktai ir vaistiniai pašarai.
+13. Pašaro papildas – pašaro mišinys, turintis daug tam tikrų medžiagų, naudojamas gyvūnų paros daviniui papildyti derinant jį su kitais pašarais.
 
 
 
 
-14. Pašarinės žaliavos – natūralūs, švieži, apdoroti augaliniai ir gyvūniniai produktai ar pramoniniu būdu šie perdirbti produktai ir organinės bei neorganinės medžiagos su pašarų priedais ar be jų, skirtos gyvūnų mitybai kaip gryni pašarai ar kombinuotųjų pašarų sudedamosios dalys, ar užpildas pašarų priedams.
+14. Pašaro priedas – medžiaga, mikroorganizmas arba preparatas, išskyrus pašarines žaliavas ir premiksus, dedami į pašarus ar vandenį tam, kad atliktų bent vieną iš 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1831/2003 dėl priedų, skirtų naudoti gyvūnų mityboje, 5 straipsnio 3 dalyje nurodytų funkcijų.
 
 
 
 
-15. Pašarų kokybės valstybinė kontrolė – pašarų gamybos, laikymo, pakavimo, gabenimo, naudojimo, tiekimo į apyvartą sąlygų bei pašarų kokybės ir saugos kontrolės sistema. 
+15. Pašarų tiekimas rinkai – kaip apibrėžta 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 178/2002, nustatančio maistui skirtų teisės aktų bendruosius principus ir reikalavimus, įsteigiančio Europos maisto saugos tarnybą ir nustatančio su maisto saugos klausimais susijusias procedūras, 3 straipsnio 8 dalyje.
 
 
 
 
-16. Pašarų papildai – pašarų mišiniai, turintys didelį kai kurių medžiagų kiekį ir, derinant juos su kitais pašarais, naudojami gyvūnų paros daviniui papildyti.
+16. Pašarų tranzitas – pašarų vežimas per Europos Bendrijų muitų teritoriją iš ne Europos Sąjungos šalies į kitą ar į tą pačią ne Europos Sąjungos šalį.
 
 
 
 
-17. Pašarų priedai – medžiagos ar preparatai, gerinantys pašarų virškinimą, skatinantys gyvūnų produktyvumą ir tenkinantys jų mitybos poreikius įvairiais auginimo laikotarpiais bei mažinantys žalingą gyvūnų medžiagų apykaitos produktų ( fekalijų ir šlapimo) poveikį aplinkai. 
+17. Pašarų ūkio subjektas (toliau – ūkio subjektas) – asmuo, įstatymų nustatyta tvarka gaminantis, laikantis, fasuojantis, pakuojantis, transportuojantis, naudojantis ir tiekiantis rinkai pašarus.
 
 
 
 
-18. Pašarų tiekimas į apyvartą – pašarų pardavimas, laikymas ketinant juos parduoti, įskaitant siūlymą parduoti, taip pat siekiant už atitinkamą kainą ar nemokamai juos kuriuo nors kitu būdu perduoti tretiesiems asmenims, ir kiti perdavimo būdai. 
+18. Pieno pakaitalas – kombinuotasis pašaras gyvūnų jaunikliams, naudojamas sausas ar ištirpintas vandenyje gyvūnų prieaugliui šerti arba skerdimui skirtiems veršeliams girdyti.
 
 
 
 
-19. Pieno pakaitalai – kombinuotieji pašarai, skirti gyvūnų jaunikliams pokrekeniniu (pokolostraliniu) laikotarpiu, atskiesti tam tikru skysčio kiekiu, kaip natūralaus pieno pakaitalas arba sausi, kaip papildas penimiems veršeliams šerti.
+19. Pirminė pašarų gamyba – kaip apibrėžta 2005 m. sausio 12 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 183/2005, nustatančio pašarų higienos reikalavimus, 3 straipsnio f punkte.
 
 
 
 
-20. Premiksai – vieno ar kelių pašarų priedų su pašarinių žaliavų ar vandens užpildu mišiniai, neskirti tiesiogiai gyvūnams. 
+20. Premiksas – tiesiogiai gyvūnams šerti neskirtas pašarų priedų mišinys arba vieno ar kelių pašarų priedų ir pašarinių žaliavų ar vandens mišinys, naudojamas kaip tam tikrų medžiagų šaltinis kombinuotiesiems pašarams gaminti.
 
 
 
 
-21. Saugūs pašarai – bet kokie pašarai, naudojami įprastomis gamintojo nustatytomis ar galimomis iš anksto pagrįstai numatyti naudojimo sąlygomis, įskaitant ir kitokį gamintojo nurodytą naudojimą, nesukeliantys jokios rizikos arba keliantys gyvūnų gyvybei ir sveikatai ne didesnę riziką negu ta, kuri teisės aktuose nustatyta kaip leistina bei laikoma atitinkančia tinkamą šių gyvūnų apsaugą, kai įvertinta:
+21. Saugus pašaras – pašaras, naudojamas įprastomis gamintojo nustatytomis ar galimomis iš anksto pagrįstai numatyti naudojimo sąlygomis, įskaitant ir kitokį gamintojo nurodytą naudojimą, nesukelia jokios rizikos arba gali kelti gyvūnų gyvybei ir sveikatai ne didesnę riziką negu ta, kuri teisės aktų nustatyta kaip leidžiama ir laikoma atitinkančia tinkamą šių gyvūnų apsaugą, kai įvertinta:
 
 
-1) pašaro sandara, pakuotė, gamybos ir naudojimo tvarka, priežiūra vartojant;
+1) pašaro sudėtis, pakuotė ar fasuotė, gamybos ir naudojimo tvarka, priežiūra naudojant;
 
 
 
 
-2) poveikis kitiems pašarams, jei jie bus vartojami su kitais pašarais;
+2) poveikis kitiems pašarams, jeigu jie bus naudojami kartu;
 
 
 
 
-3) pašaro pateikimas vartotojui, vartojimo instrukcija ir kita gamintojo pateikta informacija;
+3) pašaro pateikimas naudotojui, naudojimo instrukcija ir kita gamintojo pateikta informacija;
 
 
 
 
-4) poveikis jauniems gyvūnams, kuriems tas pašaras gali būti kenksmingas;
+4) poveikis jautriems gyvūnams, kuriems tas pašaras gali būti kenksmingas;
 
 
 
 
-5) minimalus saugojimo terminas.
+5) pašaro tinkamumo naudoti terminas.
 
 
 
 
 
 
-22. Tranzitas – pašarų produktų gabenimas per Europos Sąjungos muitų teritoriją iš ne Europos Sąjungos valstybės narės į kitą ar į tą pačią ne Europos Sąjungos šalį.
+22. Sausasis pašaras – dehidratuotas ir (arba) natūraliai džiovintas pašaras.
 
 
 
 
-23. Užpildas – pridedama į premiksą kaip terpė, sudaryta iš vienos ar kelių organinių (kvietinių sėlenų, sojų rupinių, gyvūninių ar kitų pašarinių žaliavų) ir iš neorganinių (kreidos, fosfatų ar kitų) žaliavų ar vandens, dalis.
+23. Savikontrolės sistema – pašarų ūkio subjekto vykdoma kontrolės sistema, pagrįsta rizikos veiksnių analize ir svarbiųjų valdymo taškų kontrole ir užtikrinanti tvarkomų pašarų saugumą.
 
 
 
 
-24. Ūkio subjektai – asmenys, įstatymų nustatyta tvarka gaminantys, laikantys, pakuojantys, gabenantys, naudojantys, tiekiantys į apyvartą pašarus.
+24. Specialusis pašaras – dietinis kombinuotasis pašaras specialioms mitybos reikmėms, kuris yra kitokios sudėties ar kitaip apdorotas nei paprastasis pašaras.
 
 
 
 
-25. Visaverčiai pašarai – suderinti pašarų mišiniai, atitinkantys gyvūnų paros davinį.
+25. Užpildas – medžiaga, pridedama į premiksą kaip terpė, sudaryta iš vienos ar kelių organinių (kvietinių sėlenų, sojų rupinių, gyvūninių ar kitų pašarinių žaliavų) arba iš neorganinių (kreidos, fosfatų ar kitų) žaliavų ar vandens.
+
+
+
+
+26. Valstybinė pašarų kontrolė – kaip apibrėžta 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 882/2004 dėl oficialios kontrolės, kuri atliekama siekiant užtikrinti, kad būtų įvertinama, ar laikomasi pašarus ir maistą reglamentuojančių teisės aktų, gyvūnų sveikatos ir gerovės taisyklių, 2 straipsnio 1 punkte.
+
+
+
+
+27. Visavertis pašaras – suderintas pašarų mišinys, kurio sudėtis atitinka gyvūnų paros davinį.
  
 
 
@@ -219,74 +231,29 @@ BENDROSIOS NUOSTATOS
 
 
 ANTRASIS SKIRSNIS
-PAŠARŲ GAMYBA, LAIKYMAS, PAKAVIMAS, GABENIMAS, NAUDOJIMAS, TiekimAS į apyvartą
+PAŠARŲ GAMYBA, LAIKYMAS, FASAVIMAS, PAKAVIMAS, TRANSPORTAVIMAS, NAUDOJIMAS IR TiekimAS RINKAI
  
 
 
-4 straipsnis. Pašarų gamybos sąlygos 
+4 straipsnis. Pašarų gamybos sąlygos
 
 
-1. Gaminti, laikyti, pakuoti, tiekti į apyvartą pašarus Lietuvos Respublikoje šio straipsnio 3 dalies nurodytais atvejais leidžiama tik patvirtintiems ir (ar) įregistruotiems ūkio subjektams.
-
-
-
-
-2. Patvirtinti ūkio subjektai įtraukiami į patvirtintų pašarų ūkio subjektų registrą, įregistruoti – į įregistruotų pašarų ūkio subjektų sąrašą. Ūkio subjektų, kurie verčiasi pašarų veikla, patvirtinimo ir (ar) įregistravimo sąlygas nustato Žemės ūkio ministerija.
+1. Tik patvirtinti ir (arba) įregistruoti ūkio subjektai gali gaminti, laikyti, pakuoti, fasuoti, transportuoti, tiekti rinkai arba gaminti savo reikmėms, taip pat importuoti, eksportuoti pašarus, vadovaudamiesi 2005 m. sausio 12 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 183/2005, nustatančio pašarų higienos reikalavimus, 2005 m. kovo 7 d. Komisijos reglamento (EB) Nr. 382/2005, nustatančio Tarybos reglamento (EB) Nr. 1786/2003 dėl bendro sausųjų pašarų rinkos organizavimo taikymo išsamias taisykles, ir 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1831/2003 dėl priedų, skirtų naudoti gyvūnų mityboje, reikalavimais.
 
 
 
 
-3. Tik patvirtinti ir (ar) įregistruoti ūkio subjektai gali gaminti, laikyti, pakuoti, tiekti į apyvartą:
-
-
-1) baltymingas pašarines medžiagas, gautas iš mikroorganizmų rūšių – bakterijų, mielių, jūros dumblių, žemesniųjų grupių grybų, taip pat antibiotikų fermentacijos antrinius produktus ir kitas panašias medžiagas; 
+2. Pašarų gamybos, transportavimo, laikymo ir naudojimo įrangai, talpykloms, naudojimo priemonėms, vamzdynams ir paviršiams dezinfekuoti galima naudoti tik Lietuvos Respublikos sveikatos apsaugos ministerijos nustatyta tvarka autorizuotus biocidus.
 
 
 
 
-2) pašarų priedus ir premiksus;
+3. Patvirtinti ūkio subjektai, sumokėję valstybės rinkliavą, kaip nustatyta Lietuvos Respublikos rinkliavų įstatyme, įtraukiami į Lietuvos Respublikos patvirtintų pašarų ūkio subjektų registrą.
 
 
 
 
-3) kombinuotuosius pašarus, į kuriuos įdedama premiksų, pagamintų iš pašarų priedų;
-
-
-
-
-4) kombinuotuosius pašarus su pašarinėmis žaliavomis, išvardytomis šios dalies 1 punkte;
-
-
-
-
-5) kombinuotuosius pašarus iš pašarinių žaliavų, turinčių leistinus kenksmingų (nepageidautinų) medžiagų ir (ar) augalinių priemaišų likučių kiekius;
-
-
-
-
-6) savo reikmėms kombinuotuosius pašarus su pašarų priedais ir (ar) iš pašarinių žaliavų, kuriose yra leistinas kenksmingų (nepageidaujamų) medžiagų, produktų ir augalinių priemaišų likučių kiekis;
-
-
-
-
-7) sausuosius pašarus (žolės miltus ir (ar) sausas žolių sultis iš atitinkamų vienmečių ir daugiamečių žolių ir javų augalų);
-
-
-
-
-8) gyvūnines pašarines žaliavas;
-
-
-
-
-9) genetiškai modifikuotus pašarus. 
-
-
-
-
-
-
-4. Pašarai turi būti gaminami pagal veterinarijos ir higienos reikalavimus įrengtose patalpose ir atitikti teisės aktų, standartų, metodikų jiems nustatytus kokybės reikalavimus.
+4. Pašarai turi būti gaminami pagal patalpų veterinarijos ir higienos būklės reikalavimus įrengtose patalpose ir atitikti ūkio subjektams teisės aktuose, standartuose ir metodikose nustatytus reikalavimus. Pašarų saugai ir kokybei užtikrinti ūkio subjektai įdiegia ir taiko savikontrolės sistemas.
 
 
 
@@ -294,37 +261,37 @@ PAŠARŲ GAMYBA, LAIKYMAS, PAKAVIMAS, GABENIMAS, NAUDOJIMAS, TiekimAS į apyvart
 5. Žemės ūkio ministerija nustato:
 
 
-1) privalomuosius pašarų ženklinimo reikalavimus;
+1) privalomuosius pašarų ženklinimo ir kokybės deklaravimo reikalavimus;
 
 
 
 
-2) privalomuosius pašarų kokybės deklaravimo reikalavimus;
+2) patalpų veterinarijos ir higienos būklės reikalavimus;
 
 
 
 
-3) patalpų veterinarijos ir higienos būklės reikalavimus;
+3) draudžiamų naudoti medžiagų, pašarinių žaliavų sąrašą;
 
 
 
 
-4) draudžiamų naudoti medžiagų, pašarinių žaliavų ir pašarų priedų sąrašą;
+4) nepageidaujamų medžiagų, augalinių priemaišų ir pašarų priedų leistinus kiekius pašarinėse žaliavose, gaminamuose pašaruose ir leistinas nuokrypio normas (paklaidas);
 
 
 
 
-5) kenksmingų (nepageidautinų) medžiagų, augalinių priemaišų ir pašarų priedų leistinus likučių ar nustatytų normų kiekius gaminamuose pašaruose;
+5) genetiškai modifikuotų pašarų ženklinimo ir naudojimo taisykles;
 
 
 
 
-6) pašarų priedų gamybos, naudojimo, tiekimo į apyvartą taisykles;
+6) ūkio subjektų, kurie verčiasi su pašarais susijusia veikla, patvirtinimo ir įregistravimo taisykles;
 
 
 
 
-7) genetiškai modifikuotų pašarų ženklinimo ir naudojimo taisykles.
+7) pašarų, pripažintų pavojingais žmonių ar gyvūnų sveikatai, kenksmingumo pašalinimo ir (arba) šių pašarų sunaikinimo taisykles.
  
 
 
@@ -337,12 +304,7 @@ PAŠARŲ GAMYBA, LAIKYMAS, PAKAVIMAS, GABENIMAS, NAUDOJIMAS, TiekimAS į apyvart
 5 straipsnis. Pašarų laikymo sąlygos
 
 
-1. Pašarai turi būti laikomi supakuoti arba palaidi veterinarijos ir higienos reikalavimus atitinkančiuose sandėliuose bei talpyklose, nepažeidžiant pašarų sandėliavimo taisyklių.
-
-
-
-
-2. Pašarų sandėliavimo taisykles nustato Žemės ūkio ministerija.
+Pašarai turi būti laikomi supakuoti arba palaidi pagal veterinarijos ir higienos reikalavimus įrengtuose sandėliuose ir talpyklose, nepažeidžiant 2005 m. sausio 12 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 183/2005, nustatančio pašarų higienos reikalavimus.
  
 
 
@@ -350,20 +312,20 @@ PAŠARŲ GAMYBA, LAIKYMAS, PAKAVIMAS, GABENIMAS, NAUDOJIMAS, TiekimAS į apyvart
 
 
 
-6 straipsnis. Pašarų gabenimo, naudojimo, tiekimo į apyvartą reikalavimai
+6 straipsnis. Pašarų transportavimo, naudojimo ir tiekimo rinkai reikalavimai
 
 
-1. Pašarai turi atitikti tiekėjų atitikties deklaracijoje ir ženklinimo rekvizituose nurodytus duomenis, privalomuosius pašarų saugos ir ženklinimo reikalavimus. 
-
-
-
-
-2. Pašarų gabenimo priemonės turi būti parengtos taip, kad gabenant pašarus būtų užtikrintas jų kokybės išsaugojimas. 
+1. Pašarai turi atitikti tiekėjų atitikties deklaracijoje ir ženklinimo rekvizituose nurodytus duomenis ir būti paženklinti pagal privalomuosius pašarų saugos ir ženklinimo reikalavimus.
 
 
 
 
-3. Pašarai turi būti naudojami pagal prekės ženklinimo rekvizituose (tiekėjų atitikties deklaracijose) nurodytą paskirtį ir nepažeidžiant galiojimo termino. 
+2. Pašarai transportuojami nepažeidžiant 2005 m. sausio 12 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 183/2005, nustatančio pašarų higienos reikalavimus, kad būtų užtikrinta jų kokybė ir sauga.
+
+
+
+
+3. Pašarai turi būti naudojami pagal ženklinimo rekvizituose (atitikties deklaracijose) nurodytą paskirtį, nepažeidžiant tinkamumo naudoti termino.
  
 
 
@@ -378,15 +340,15 @@ PAŠARŲ EKSPORTO, IMPORTO IR TRANZITO REIKALAVIMAI
  
 
 
-7 straipsnis. Pašarų eksportas, importas ir tranzitas 
+7 straipsnis. Pašarų eksportas, importas ir tranzitas
 
 
-1. Pašarai eksportuojami ir importuojami vadovaujantis šio Įstatymo, 1992 m. spalio 12 d. Tarybos reglamento (EEB) Nr. 2913/1992, nustatančio Bendrijos muitinės kodeksą, ir 1993 m. liepos 2 d. Komisijos reglamento (EEB) Nr. 2454/1993, išdėstančio Tarybos reglamentą (EEB) Nr. 2913/1992, nustatančio Bendrijos muitinės kodekso įgyvendinimo nuostatas, Lietuvos Respublikos veterinarijos įstatymo, kitų įstatymų bei teisės aktų nuostatomis, taip pat tarptautinėmis sutartimis. Importuojami ir eksportuojami pašarai privalo turėti atitikties deklaraciją bei fitosanitarinį sertifikatą. 
+1. Pašarai eksportuojami ir importuojami vadovaujantis šio įstatymo, 2008 m. balandžio 23 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 450/2008, nustatančio Bendrijos muitinės kodeksą (OL 2008 L 145, p. 1), 1993 m. liepos 2 d. Komisijos reglamento (EEB) Nr. 2454/1993, išdėstančio Tarybos reglamentą (EEB) Nr. 2913/1992, nustatantį Bendrijos muitinės kodekso įgyvendinimo nuostatas, ir 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 882/2004 dėl oficialios kontrolės, kuri atliekama siekiant užtikrinti, kad būtų įvertinama, ar laikomasi pašarus ir maistą reglamentuojančių teisės aktų, gyvūnų sveikatos ir gerovės taisyklių, Lietuvos Respublikos veterinarijos įstatymo, kitų įstatymų ir teisės aktų nuostatomis, taip pat tarptautinėmis sutartimis. Importuojami ir eksportuojami pašarai privalo turėti atitikties deklaraciją, o eksportuojami pašarai, kai to reikalauja šalis gavėja, – fitosanitarinį sertifikatą.
 
 
 
 
-2. Lietuvos Respublikos valstybinė maisto ir veterinarijos tarnyba turi teisę uždrausti įvežti į Lietuvos Respubliką pašarus, jei jie:
+2. Valstybinė maisto ir veterinarijos tarnyba turi teisę uždrausti įvežti ir importuoti į Lietuvos Respubliką pašarus ir juos naudoti arba vežti per Lietuvos Respublikos teritoriją tranzitu, jeigu jie:
 
 
 1) neatitinka teisės aktuose pašarams nustatytų reikalavimų;
@@ -394,24 +356,14 @@ PAŠARŲ EKSPORTO, IMPORTO IR TRANZITO REIKALAVIMAI
 
 
 
-2) įvežami iš valstybės ar jos regiono, kuriame nustatyta pavojinga gyvūnų užkrečiamoji liga ar atsirado kitų veiksnių, kenkiančių pašarų saugai.
+2) įvežami iš valstybės ar jos regiono, kuriame nustatyta pavojinga gyvūnų užkrečiamoji liga ar yra kitų veiksnių, kenkiančių pašarų saugai.
 
 
 
 
 
 
-3. Importuojamų pašarų priedų ir premiksų atitikties įvertinimo taisykles nustato Žemės ūkio ministerija.
-
-
-
-
-4. Grėsmę keliančių pašarų tranzitas per Lietuvos Respublikos teritoriją draudžiamas.
-
-
-
-
-5. Importuojami ir eksportuojami genetiškai modifikuoti pašarai, kurie gali būti naudojami kaip sėklos ar dauginamoji medžiaga, privalo turėti Lietuvos Respublikos aplinkos ministerijos rizikos aplinkai vertinimo išvadą.
+3. Genetiškai modifikuoti pašarai importuojami ir eksportuojami vadovaujantis 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1829/2003 dėl genetiškai modifikuoto maisto ir pašarų ir 2003 m. liepos 15 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1946/2003 dėl genetiškai modifikuotų organizmų tarpvalstybinio judėjimo ir kitų teisės aktų nustatytais reikalavimais.
  
 
 
@@ -422,14 +374,14 @@ PAŠARŲ EKSPORTO, IMPORTO IR TRANZITO REIKALAVIMAI
 
 
 KETVIRTASIS SKIRSNIS
-PAŠARŲ GAMYBOS, PREKYBOS IR ATSARGŲ STATISTINĖS ATSKAITOMYBĖS TVARKA BEI PAŠARŲ KOKYBĖS VALSTYBINĖS KONTROLĖS IR ADMINISTRAVIMO NUOSTATOS 
+PAŠARŲ GAMYBOS, TIEKIMO RINKAI IR ATSARGŲ STATISTINĖS ATSKAITOMYBĖS, VALSTYBINĖS PAŠARŲ KONTROLĖS IR ADMINISTRAVIMO NUOSTATOS
  
 
 
 8 straipsnis. Atskaitomybė
 
 
-Pašarų gamybos, prekybos bei atsargų statistinės atskaitomybės tvarką bei duomenų pateikimo periodiškumą nustato Statistikos departamentas prie Lietuvos Respublikos Vyriausybės, suderinęs su Lietuvos Respublikos žemės ūkio ministerija.
+Pašarų gamybos, tiekimo rinkai ir atsargų statistinės atskaitomybės tvarką ir duomenų pateikimo periodiškumą nustato Statistikos departamentas prie Lietuvos Respublikos Vyriausybės, suderinęs su Lietuvos Respublikos žemės ūkio ministerija (toliau – Žemės ūkio ministerija).
  
 
 
@@ -437,40 +389,45 @@ Pašarų gamybos, prekybos bei atsargų statistinės atskaitomybės tvarką bei 
 
 
 
-9 straipsnis. Pašarų kokybės valstybinė kontrolė
+9 straipsnis. Valstybinė pašarų kontrolė
 
 
-1. Pašarų kokybės valstybinės kontrolės sistemą sudaro:
+1. Valstybinę pašarų kontrolės sistemą sudaro:
 
 
-1) importuojamų, eksportuojamų ir tranzitu per Lietuvos Respubliką vežamų pašarų pasienio kontrolė;
-
-
-
-
-2) pašarų gamybos, laikymo, pakavimo, naudojimo, tiekimo į apyvartą, patalpų veterinarijos ir higienos būklės, taip pat pašarų kokybės rodiklių ir saugos reikalavimų kontrolė;
+1) importuojamų, eksportuojamų ir tranzitu per Lietuvos Respubliką vežamų pašarų valstybinė veterinarinė kontrolė;
 
 
 
 
-3) pašarų tyrimo laboratorijų tinklas;
+2) pašarų gamybos, laikymo, fasavimo, pakavimo, naudojimo, tiekimo rinkai, patalpų veterinarijos ir higienos būklės, taip pat pašarų kokybės rodiklių ir saugos reikalavimų kontrolė;
 
 
 
 
-4) pašarų mėginių, kuriuos paėmė pašarų kokybės valstybinę kontrolę atliekantys pareigūnai, kokybės ir saugos rodiklių tyrimas;
+3) pašarų mėginių, kuriuos paėmė valstybinę pašarų kontrolę atliekantys pareigūnai, kokybės ir saugos rodiklių tyrimas akredituotose pašarų tyrimo laboratorijose;
 
 
 
 
-5) pašarų gamybos, laikymo, pakavimo ir tiekimo į apyvartą ūkio subjektų patvirtinimo ir (ar) įregistravimo kontrolė. 
+4) pašarų gamybos, laikymo, fasavimo, pakavimo ir tiekimo rinkai ūkio subjektų patvirtinimo ir (arba) įregistravimo kontrolė;
+
+
+
+
+5) ūkio subjektų savikontrolės sistemų tikrinimas (auditas), kaip nustatyta 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 882/2004 dėl oficialios kontrolės, kuri atliekama siekiant užtikrinti, kad būtų įvertinama, ar laikomasi pašarus ir maistą reglamentuojančių teisės aktų, gyvūnų sveikatos ir gerovės taisyklių.
 
 
 
 
 
 
-2. Pašarų kokybės valstybinės kontrolės vykdymo taisykles nustato Žemės ūkio ministerija. 
+2. Valstybinė pašarų kontrolė, pagrįsta rizikos vertinimu, atliekama reguliariai, be išankstinio įspėjimo, taip pat kilus įtarimui, kad buvo pažeisti šio įstatymo ir kitų teisės aktų reikalavimai.
+
+
+
+
+3. Valstybinės pašarų kontrolės vykdymo taisykles nustato Žemės ūkio ministerija.
  
 
 
@@ -478,40 +435,45 @@ Pašarų gamybos, prekybos bei atsargų statistinės atskaitomybės tvarką bei 
 
 
 
-10 straipsnis. Pašarų kokybės valstybinę kontrolę atliekančios institucijos
+10 straipsnis. Valstybinės pašarų kontrolės institucijos
 
 
-1. Lietuvos Respublikos valstybinė maisto ir veterinarijos tarnyba vykdo: 
+1. Valstybinė maisto ir veterinarijos tarnyba:
 
 
-1) importuojamų, eksportuojamų ir tranzitu per Lietuvos Respubliką vežamų pašarų pasienio kontrolę;
-
-
-
-
-2) pašarų gamybos, laikymo, pakavimo, naudojimo, tiekimo į apyvartą, patalpų veterinarijos ir higienos būklės, taip pat pašarų kokybės ir saugos reikalavimų kontrolę;
+1) vykdo importuojamų, eksportuojamų ir tranzitu per Lietuvos Respubliką vežamų pašarų valstybinę veterinarinę kontrolę;
 
 
 
 
-3) pašarų mėginių, kuriuos paėmė pašarų kokybės valstybinę kontrolę atliekantys pareigūnai, kokybės ir saugos rodiklių tyrimus.
+2) vykdo pašarų gamybos, įskaitant pirminę pašarų gamybą, laikymo, fasavimo, pakavimo, naudojimo, tiekimo rinkai, patalpų veterinarijos ir higienos būklės, taip pat pašarų kokybės ir saugos reikalavimų kontrolę;
+
+
+
+
+3) tvirtina ir (arba) registruoja ūkio subjektus, kurie verčiasi pirmine pašarų gamyba, pašarų priedų, premiksų, kombinuotųjų pašarų gamyba, laikymu, fasavimu, pakavimu, transportavimu ir tiekimu rinkai;
+
+
+
+
+4) atlieka valstybinei pašarų kontrolei atrinktų pašarų mėginių, kuriuos paėmė valstybinę veterinarinę pašarų kokybės kontrolę atliekantys pareigūnai, kokybės ir saugos rodiklių tyrimus Vyriausybės nustatyta tvarka akredituotose laboratorijose, kurios atlieka pašarų kokybės ir saugos rodiklių tyrimus, kaip tai nustatyta 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 882/2004 dėl oficialios kontrolės, kuri atliekama siekiant užtikrinti, kad būtų įvertinama, ar laikomasi pašarus ir maistą reglamentuojančių teisės aktų, gyvūnų sveikatos ir gerovės taisyklių;
+
+
+
+
+5) suteikia ūkio subjektams, naudojantiems pašarų gamybai gyvūninius produktus, veterinarinį patvirtinimą;
+
+
+
+
+6) tikrina pašarų ūkio subjektų savikontrolės sistemas, kaip nustatyta 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 882/2004 dėl oficialios kontrolės, kuri atliekama siekiant užtikrinti, kad būtų įvertinama, ar laikomasi pašarus ir maistą reglamentuojančių teisės aktų, gyvūnų sveikatos ir gerovės taisyklių.
 
 
 
 
 
 
-2. Valstybinė sėklų ir grūdų tarnyba prie Lietuvos Respublikos žemės ūkio ministerijos tvirtina ir (ar) registruoja ūkio subjektus, kurie verčiasi pašarų gamyba, laikymu, pakavimu ir tiekimu į apyvartą.
-
-
-
-
-3. Žemės ūkio ministerijos įgaliota institucija vykdo pašarų tyrimo laboratorijų tinklo kontrolę.
-
-
-
-
-4. Lietuvos Respublikos valstybinė augalų apsaugos tarnyba vykdo fitosanitarinę augalinių produktų kontrolę.
+2. Valstybinė augalininkystės tarnyba prie Žemės ūkio ministerijos vykdo pirminės pašarų gamybos, kuri apima trąšų ir augalų apsaugos priemonių tvarkingą saugojimą, naudojimą ir jų apskaitą, kontrolę.
  
 
 
@@ -519,15 +481,15 @@ Pašarų gamybos, prekybos bei atsargų statistinės atskaitomybės tvarką bei 
 
 
 
-11 straipsnis. Pašarų mokslo komitetas 
+11 straipsnis. Pašarų mokslo komitetas
 
 
-1. Pašarų mokslo komitetas sudaromas iš mokslo ir kitų institucijų atstovų. Komitetas teikia moksliškai pagrįstas rekomendacines išvadas pašarų saugos ir kokybės, naujų pašarų gamybos klausimais suinteresuotoms Lietuvos Respublikos institucijoms, taip pat teikia siūlymus dėl Europos Sąjungos pašarų teisės aktų projektų ir pagal kompetenciją bendradarbiauja su Europos Komisija.
+1. Pašarų mokslo komitetas yra visuomeniniais pagrindais veikianti institucija, sudaroma iš valstybės institucijų, įstaigų ir nevyriausybinių organizacijų atstovų. Komitetas teikia siūlymus dėl pašarų teisės aktų projektų, moksliškai pagrįstas rekomendacijas pašarų saugos ir kokybės, naujų pašarų gamybos klausimais, atlieka kitas Komiteto darbo reglamente nustatytas funkcijas.
 
 
 
 
-2. Pašarų mokslo komiteto sudėtį ir jo darbo reglamentą tvirtina Žemės ūkio ministerija. 
+2. Pašarų mokslo komiteto sudėtį ir jo darbo reglamentą tvirtina Žemės ūkio ministerija.
  
 
 
@@ -535,33 +497,33 @@ Pašarų gamybos, prekybos bei atsargų statistinės atskaitomybės tvarką bei 
 
 
 
-12 straipsnis. Pašarų kokybės valstybinę kontrolę atliekančių institucijų bei pareigūnų funkcijos ir teisės
+12 straipsnis. Valstybinę pašarų kontrolę atliekančių institucijų ir pareigūnų funkcijos ir teisės
 
 
-1. Pašarų kokybės valstybinę kontrolę atliekančios institucijos turi teisę:
+1. Valstybinės pašarų kontrolės institucijos turi teisę:
 
 
-1) kontroliuoti, kaip laikomasi pašarų gamybos, laikymo, pakavimo, gabenimo, naudojimo, tiekimo į apyvartą, pašarų kokybės bei patalpų veterinarijos ir higienos būklės reikalavimų; 
-
-
-
-
-2) laikinai sustabdyti ar uždrausti nesaugių pašarų gamybą ir tiekimą į apyvartą, kai gaminant pašarus naudojamos draudžiamos medžiagos ir (ar) pašarinės žaliavos ar kai pašaruose esančių kenksmingų (nepageidautinų) medžiagų, produktų, augalinių priemaišų, pesticidų ar pašarų priedų kiekiai viršija leistinus jų likučius ar nustatytas normas.
+1) kontroliuoti, kaip laikomasi pašarų gamybos, laikymo, fasavimo, pakavimo, transportavimo, naudojimo, tiekimo rinkai, pašarų kokybės ir saugos bei patalpų veterinarijos ir higienos būklės reikalavimų;
 
 
 
 
-
-
-2. Pašarų kokybės valstybinę kontrolę atliekantys pareigūnai turi teisę:
-
-
-1) nevaržomi patekti į pašarus gaminančių, laikančių, pakuojančių, naudojančių, juos tiekiančių ūkio subjektų patalpas;
+2) laikinai sustabdyti arba uždrausti gaminti, tiekti rinkai ir naudoti nesaugius pašarus.
 
 
 
 
-2) iš pašarus gaminančių, laikančių, pakuojančių, gabenančių, naudojančių ir juos tiekiančių ūkio subjektų gauti visus pašarų kokybės valstybinei kontrolei reikalingus dokumentus;
+
+
+2. Valstybinę pašarų kontrolę atliekantys pareigūnai turi teisę:
+
+
+1) nekliudomi patekti į pašarus gaminančių, laikančių, fasuojančių, pakuojančių, transportuojančių, naudojančių ir tiekiančių ūkio subjektų patalpas;
+
+
+
+
+2) iš pašarus gaminančių, laikančių, fasuojančių, pakuojančių, transportuojančių, naudojančių ir tiekiančių ūkio subjektų gauti visus valstybinei pašarų kokybės kontrolei reikalingus dokumentus;
 
 
 
@@ -571,14 +533,14 @@ Pašarų gamybos, prekybos bei atsargų statistinės atskaitomybės tvarką bei 
 
 
 
-4) imti pašarų bei jų gamyboje naudojamų medžiagų (valiklių, biocidų), kurios gali turėti įtakos pašarų kokybei ir saugai, mėginius laboratoriniams tyrimams.
+4) imti pašarų ir kitų medžiagų (valiklių, biocidų), kurios gali turėti įtakos pašarų kokybei ir saugai, mėginius laboratoriniams tyrimams.
 
 
 
 
 
 
-3. Pašarai, Lietuvos Respublikos valstybinės maisto ir veterinarijos tarnybos pripažinti pavojingais žmonių ir gyvūnų sveikatai bei aplinkai, padaromi nekenksmingais arba sunaikinami Žemės ūkio ministerijos nustatyta tvarka.
+3. Pašarai, valstybinę pašarų kontrolę atliekančių institucijų pripažinti pavojingais žmonių ir gyvūnų sveikatai ir aplinkai, taip pat galinčiais turėti įtakos gyvūninių maisto produktų kokybei ir saugai, padaromi nekenksmingi arba sunaikinami Žemės ūkio ministerijos nustatyta tvarka.
  
 
 
@@ -586,15 +548,15 @@ Pašarų gamybos, prekybos bei atsargų statistinės atskaitomybės tvarką bei 
 
 
 
-13 straipsnis. Pašarų kokybės valstybinę kontrolę atliekančių pareigūnų atsakomybė
+13 straipsnis. Valstybinę pašarų kontrolę atliekančių pareigūnų atsakomybė
 
 
-1. Pašarų kokybės valstybinę kontrolę atliekantys pareigūnai privalo saugoti pašarų gamybos technologines ir komercines paslaptis.
+1. Valstybinę pašarų kontrolę atliekantys pareigūnai privalo saugoti pašarų gamybos technologines ir komercines paslaptis, išskyrus įstatymų ir kitų teisės aktų nustatytus atvejus.
 
 
 
 
-2. Pašarų kokybės valstybinę kontrolę atliekančių pareigūnų veiksmai bei šią kontrolę atliekančių institucijų ir jų pareigūnų sprendimai gali būti skundžiami įstatymų nustatyta tvarka. 
+2. Valstybinę pašarų kontrolę atliekančių pareigūnų veiksmai, šią kontrolę atliekančių institucijų ir jų pareigūnų sprendimai gali būti skundžiami įstatymų nustatyta tvarka.
  
 
 
@@ -602,11 +564,10 @@ Pašarų gamybos, prekybos bei atsargų statistinės atskaitomybės tvarką bei 
 
 
 
-14 straipsnis. Ūkio subjektų, gaminančių, laikančių, pakuojančių, gabenančių, naudojančių pašarus ir juos tiekiančių į apyvartą, atsakomybė
+14 straipsnis. Ūkio subjektų, gaminančių, laikančių, fasuojančių, pakuojančių, transportuojančių, naudojančių ir tiekiančių rinkai pašarus, atsakomybė
 
 
-Ūkio subjektai, pažeidę šio Įstatymo reikalavimus ir padarę žalos kitam ūkio subjektui ar valstybei, atsako ir žalą atlygina įstatymų nustatyta tvarka.
- 
+Ūkio subjektai, pažeidę šio įstatymo reikalavimus ir padarę žalos kitam ūkio subjektui ar valstybei, atsako ir žalą atlygina įstatymų nustatyta tvarka.
 
 
 
@@ -623,7 +584,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
  
- 
 
 
  
@@ -631,6 +591,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
 Lietuvos Respublikos
 pašarų įstatymo
 priedas
@@ -639,72 +600,87 @@ priedas
  
 
 
-1. 1970 m. liepos 20 d. Tarybos direktyva 70/373/EEB dėl Bendrijos mėginių paėmimo ir analizės metodų, taikomų valstybinei pašarų kontrolei, įvedimo (su paskutiniaisiais pakeitimais, padarytais 2003 m. balandžio 14 d. Tarybos reglamentu (EB) Nr. 807/2003).
+1. 1979 m. balandžio 2 d. Tarybos direktyva 79/373/EEB dėl prekybos kombinuotaisiais pašarais (OL 2004 m. specialusis leidimas, 3 skyrius, 4 tomas, p. 50) su paskutiniais pakeitimais, padarytais 2009 m. kovo 11 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 219/2009 (OL 2009 L 87, p. 109).
 
 
 
 
-2. 1970 m. lapkričio 23 d. Tarybos direktyva 70/524/EEB dėl pašarų priedų (su paskutiniaisiais pakeitimais, padarytais 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1831/2003).
+2. 1982 m. birželio 30 d. Tarybos direktyva 82/471/EEB dėl tam tikrų produktų, naudojamų gyvūnams šerti (OL 2004 m. specialusis leidimas, 3 skyrius, 5 tomas, p. 151), su paskutiniais pakeitimais, padarytais 2009 m. kovo 11 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 219/2009 (OL 2009 L 87, p. 109).
 
 
 
 
-3. 1979 m balandžio 2 d. Tarybos direktyva 79/373/EEB dėl prekybos kombinuotaisiais pašarais rinkoje (su paskutiniaisiais pakeitimais, padarytais 2003 m. balandžio 14 d. Tarybos reglamentu (EB) Nr. 807/2003).
+3. 1993 m. rugsėjo 13 d. Tarybos direktyva 93/74/EEB dėl pašarų konkretiems mitybos tikslams (OL 2004 m. specialusis leidimas, 3 skyrius, 15 tomas, p. 74) su paskutiniais pakeitimais, padarytais 2003 m. balandžio 14 d. Tarybos reglamentu (EB) Nr. 806/2003 (OL 2004 m. specialusis leidimas, 1 skyrius, 4 tomas, p. 301).
 
 
 
 
-4. 1982 m. birželio 30 d. Tarybos direktyva 82/471/EEB dėl tam tikrų produktų, naudojamų gyvūnams šerti (su paskutiniaisiais pakeitimais, padarytais 2003 m. lapkričio 12 d. Komisijos direktyva 2003/104/EB).
+4. 1996 m. balandžio 29 d. Tarybos direktyva 96/25/EB dėl pašarinių žaliavų apyvartos, iš dalies keičianti Direktyvas 70/524/EEB, 74/63/EEB, 82/471/EEB ir 93/74/EEB ir panaikinanti Direktyvą 77/101/EEB (OL 2004 m. specialusis leidimas, 3 skyrius, 19 tomas, p. 96) su paskutiniais pakeitimais, padarytais 2009 m. kovo 11 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 219/2009 (OL 2009 L 87, p. 109).
 
 
 
 
-5. 1993 m. rugsėjo 13 d. Tarybos direktyva 93/74/EEB dėl pašarų, skirtų konkretiems mitybos tikslams (su paskutiniaisiais pakeitimais, padarytais 2003 m. balandžio 14 d. Tarybos reglamentu (EB) Nr. 806/2003).
+5. 1998 m. vasario 16 d. Europos Parlamento ir Tarybos direktyva 98/8/EB dėl biocidinių produktų pateikimo į rinką (OL 2004 m. specialusis leidimas, 3 skyrius, 3 tomas, p. 3).
 
 
 
 
-6. 1995 m. spalio 25 d. Tarybos direktyva 95/53/EB, nustatanti principus, reglamentuojančius gyvūnų mitybos srityje atliekamų oficialių patikrinimų organizavimą (su paskutiniaisiais pakeitimais, padarytais 2001 m. liepos 23 d. Europos Parlamento ir Tarybos direktyva 2001/46/EB).
+6. 2002 m. gegužės 7 d. Europos Parlamento ir Tarybos direktyva 2002/32/EB dėl nepageidaujamų medžiagų gyvūnų pašaruose (OL 2004 m. specialusis leidimas, 3 skyrius, 36 tomas, p. 3) su paskutiniais pakeitimais, padarytais 2009 m. kovo 11 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 219/2009 (OL 2009 L 87, p. 109).
 
 
 
 
-7. 1995 m. gruodžio 22 d. Tarybos direktyva 95/69/EB, nustatanti pašarų sektoriuje veikiančių tam tikrų įmonių ir tarpininkų patvirtinimo ir įregistravimo sąlygas ir tvarką ir iš dalies pakeičianti Direktyvas 70/524/EEB, 74/63/EEB, 79/373/EEB ir 82/471/EEB (su paskutiniaisiais pakeitimais, padarytais 2003 m. balandžio 14 d. Tarybos reglamentu (EB) Nr. 806/2003).
+7. 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 178/2002, nustatantis maistui skirtų teisės aktų bendruosius principus ir reikalavimus, įsteigiantis Europos maisto saugos tarnybą ir nustatantis su maisto saugos klausimais susijusias procedūras (OL 2004 m. specialusis leidimas, 15 skyrius, 6 tomas, p. 463), su paskutiniais pakeitimais, padarytais 2008 m. kovo 7 d. Komisijos reglamentu (EB) Nr. 208/2008 (OL 2008 L 60, p. 17).
 
 
 
 
-8. 1996 m. balandžio 29 d. Tarybos direktyva 96/25/EB dėl pašarinių žaliavų apyvartos, iš dalies pakeičianti Direktyvas 70/524/EEB, 74/63/EEB, 82/471/EEB ir 93/74/EEB ir panaikinanti Direktyvą 77/101/EEB (su paskutiniaisiais pakeitimais, padarytais 2003 m. balandžio 14 d. Tarybos reglamentu (EB) Nr. 806/2003).
+8. 2002 m. spalio 3 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1774/2002, nustatantis sveikatos taisykles gyvūninės kilmės šalutiniams produktams, neskirtiems vartoti žmonėms (OL 2004 m. specialusis leidimas, 3 skyrius, 37 tomas, p. 92), su paskutiniais pakeitimais, padarytais 2008 m. rugpjūčio 4 d. Komisijos reglamentu (EB) Nr. 717/2008 (OL 2008, L 207, p. 9).
 
 
 
 
-9. 2002 m. gegužės 7 d. Europos Parlamento ir Tarybos direktyva 2002/32/EB dėl nepageidaujamų medžiagų gyvūnų pašaruose (su paskutiniaisiais pakeitimais, padarytais 2003 m. spalio 31 d. Komisijos direktyva 2003/100/EB).
+9. 2003 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1946/2003 dėl genetiškai modifikuotų organizmų tarpvalstybinio judėjimo (OL 2004 m. specialusis leidimas, 15 skyrius, 7 tomas, p. 650).
 
 
 
 
-10. 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 178/2002, nustatantis maisto įstatymo bendruosius principus ir reikalavimus, įkuriantis Europos maisto saugos tarnybą ir nustatantis su maisto saugos klausimais susijusias procedūras.
+10. 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1829/2003 dėl genetiškai modifikuoto maisto ir pašarų (OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 432) su paskutiniais pakeitimais, padarytais 2008 m. kovo 11 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 298/2008 (OL 2008 L 97, p. 64).
 
 
 
 
-11. 2002 m. spalio 3 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1774/2002, nustatantis sveikatos taisykles gyvūninės kilmės šalutiniams produktams, neskirtiems vartoti žmonėms (su paskutiniaisiais pakeitimais, padarytais 2003 m. gegužės 12 d. Komisijos reglamentu (EB) Nr. 808/2003).
+11. 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1830/2003 dėl genetiškai modifikuotų organizmų ir iš jų pagamintų maisto produktų ir pašarų susekamumo ir ženklinimo ir iš dalies pakeičiantis Direktyvą 2001/18/EB (OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 455) su paskutiniais pakeitimais, padarytais 2008 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1137/2008 (OL 2008 L 311, p. 1).
 
 
 
 
-12. 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1829/2003 dėl genetiškai modifikuoto maisto ir pašarų. 
+12. 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1831/2003 dėl priedų, skirtų naudoti gyvūnų mityboje (OL 2004 m. specialusis leidimas, 3 skyrius, 40 tomas, p. 238), su paskutiniais pakeitimais, padarytais 2005 m. kovo 4 d. Komisijos reglamentu (EB) Nr. 378/2005 (OL 2005 L 59, p. 8).
 
 
 
 
-13. 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1830/2003 dėl genetiškai modifikuotų organizmų ir iš jų pagamintų maisto produktų ir pašarų susekamumo ir ženklinimo ir iš dalies pakeičiantis Direktyvą 2001/18/EB.
+13. 2004 m. sausio 14 d. Komisijos reglamentas (EB) Nr. 65/2004, nustatantis genetiškai modifikuotų organizmų unikalių identifikatorių sudarymo ir priskyrimo sistemą (OL 2004 m. specialusis leidimas, 13 skyrius, 33 tomas, p. 11).
 
 
 
 
-14. 2004 m. sausio 14 d. Komisijos reglamentas (EB) Nr. 65/2004, nustatantis sistemą unikalių genetiškai modifikuotų organizmų identifikuotojams sukurti ir paskirstyti.
+14. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 882/2004 dėl oficialios kontrolės, kuri atliekama siekiant užtikrinti, kad būtų įvertinama, ar laikomasi pašarus ir maistą reglamentuojančių teisės aktų, gyvūnų sveikatos ir gerovės taisyklių (OL 2004 m. specialusis leidimas, 3 skyrius, 45 tomas, p. 200), su paskutiniais pakeitimais, padarytais 2008 m. spalio 20 d. Komisijos reglamentu (EB) Nr. 1029/2008 (OL 2008 L 278, p. 6).
+
+
+
+
+15. 2005 m. sausio 12 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 183/2005, nustatantis pašarų higienos reikalavimus (OL 2005 L 35, p. 1), su paskutiniais pakeitimais, padarytais 2009 m. kovo 11 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 219/2009 (OL 2009 L 87, p. 109).
+
+
+
+
+16. 2005 m. kovo 7 d. Komisijos reglamentas (EB) Nr. 382/2005, nustatantis Tarybos reglamento (EB) Nr. 1786/2003 dėl bendro sausųjų pašarų rinkos organizavimo taikymo išsamias taisykles (OL 2005 L 61, p. 4), su paskutiniais pakeitimais, padarytais 2009 m. kovo 19 d. Komisijos reglamentu (EB) Nr. 230/2009 (OL 2009 L 74, p. 12).
+
+
+
+
+17. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 767/2009 dėl pašarų tiekimo rinkai ir naudojimo, iš dalies keičiantis Reglamentą (EB) Nr. 1831/2003 ir panaikinantis Direktyvas 79/373/EEB, 80/511/EEB, 82/471/EEB, 83/228/EB, 93/74/EEB, 93/113/EB, 96/25/EB bei Sprendimą 2004/217/EB (OL 2009 L 229, p. 1).
 
 
  
@@ -719,4 +695,9 @@ Lietuvos Respublikos pašarų įstatymo 3, 4, 8 straipsnių pakeitimo įstatymas
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2210, 2004-04-29, Žin., 2004, Nr. 73-2541 (2004-04-30), i. k. 1041010ISTA0IX-2210
+Lietuvos Respublikos pašarų įstatymo pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-654, 2010-01-14, Žin., 2010, Nr. 12-560 (2010-01-30), i. k. 1101010ISTA00XI-654
 Lietuvos Respublikos pašarų įstatymo pakeitimo įstatymas
