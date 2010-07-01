@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CE3B174CA7E6"
 
 # Lietuvos Respublikos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymas
 
+Suvestinė redakcija nuo 2010-07-01 iki 2014-12-31
+ 
+Įstatymas paskelbtas: Žin. 1998, Nr. 66-1909, i. k. 0981010ISTAVIII-822
+ 
+ 
 LIETUVOS RESPUBLIKOS NEFORMALIOJO SUAUGUSIŲJŲ ŠVIETIMO ĮSTATYMAS
  
 1998 m. birželio 30 d. Nr. VIII-822
@@ -291,7 +296,10 @@ Neformaliojo suaugusiųjų švietimo vykdytojai privalo:
 
 
 
-13 straipsnis.       Ministerijų, kitų Vyriausybės institucijų, apskričių viršininkų ir savivaldybių funkcijos
+13 straipsnis. Ministerijų, kitų Vyriausybės institucijų ir savivaldybių funkcijos 
+Pakeistas straipsnio pavadinimas:
+Nr. XI-751, 2010-04-13, Žin., 2010, Nr. 48-2301 (2010-04-27), i. k. 1101010ISTA00XI-751
+ 
 
 
 1. Švietimo ir mokslo ministerija:
@@ -354,7 +362,7 @@ Neformaliojo suaugusiųjų švietimo vykdytojai privalo:
 
 
 
-3. Kitos ministerijos, Vyriausybės institucijos, apskričių viršininkai, savivaldybės pagal savo kompetenciją:
+3. Kitos ministerijos, Vyriausybės institucijos, savivaldybės pagal savo kompetenciją:
 
 
 1) organizuoja ir koordinuoja savo reguliavimo sričiai priklausančių neformaliojo suaugusiųjų švietimo institucijų veiklą;
@@ -373,9 +381,11 @@ Neformaliojo suaugusiųjų švietimo vykdytojai privalo:
 
 
 4) tiria neformaliojo suaugusiųjų švietimo poreikius.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XI-751, 2010-04-13, Žin., 2010, Nr. 48-2301 (2010-04-27), i. k. 1101010ISTA00XI-751
  
-
-
 
 
 
@@ -519,3 +529,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-751, 2010-04-13, Žin., 2010, Nr. 48-2301 (2010-04-27), i. k. 1101010ISTA00XI-751
+Lietuvos Respublikos neformaliojo suaugusiųjų švietimo įstatymo 13 straipsnio pakeitimo įstatymas
