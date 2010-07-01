@@ -315,23 +315,25 @@ Nr. X-950, 2006-12-05,
  
         12
 straipsnis. Kitos uosto valdymo institucijos
-1. Uosto strategijai formuoti, santykiams tarp uosto,
-Klaipėdos miesto savivaldybės bei valstybės įstaigų koordinuoti Lietuvos
-Respublikos Vyriausybės nutarimu sudaroma Uosto plėtojimo taryba iš
-Susisiekimo, Finansų ir kitų suinteresuotų ministerijų, Klaipėdos apskrities
-viršininko administracijos, Klaipėdos miesto savivaldybės, mokslo įstaigų,
-Uosto direkcijos bei uosto naudotojų ir jų asociacijų atstovų.
+1. Uosto strategijai formuoti,
+santykiams tarp uosto, Klaipėdos miesto savivaldybės bei valstybės įstaigų
+koordinuoti Lietuvos Respublikos Vyriausybės nutarimu sudaroma Uosto
+plėtojimo taryba iš Susisiekimo, Finansų ir kitų suinteresuotų ministerijų,
+Klaipėdos miesto savivaldybės, mokslo įstaigų, Uosto direkcijos bei uosto
+naudotojų ir jų asociacijų atstovų.
         2. Uosto plėtojimo tarybos
 nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
-3. Uosto plėtros klausimams (programoms) rengti
-sudaroma Uosto taryba iš Susisiekimo ministerijos, Klaipėdos apskrities viršininko
-administracijos, Klaipėdos miesto savivaldybės, Uosto direkcijos, uosto
-naudotojų ir jų asociacijų bei įstaigų atstovų.
+3. Uosto plėtros klausimams (programoms)
+rengti sudaroma Uosto taryba iš Susisiekimo ministerijos, Klaipėdos miesto
+savivaldybės, Uosto direkcijos, uosto naudotojų ir jų asociacijų bei įstaigų
+atstovų.
 4. Uosto tarybos nuostatus tvirtina Susisiekimo
 ministerija.
 Straipsnio pakeitimai:
 Nr. IX-1226,
 2002-12-05, Žin., 2002, Nr. 123-5519 (2002-12-24)
+Nr. XI-715,
+2010-03-30, Žin., 2010, Nr. 41-1940 (2010-04-10)
  
 12(1) straipsnis.
 Uosto kapitonas
@@ -341,8 +343,8 @@ Uosto kapitoną skiria ir atleidžia Uosto direkcijos vadovas.
 gali eiti laivavedys, mokantis valstybinę ir anglų kalbas bei turintis aukštąjį
 jūrinį išsilavinimą ir ne mažesnį kaip penkerių metų plaukiojimo jūrų laivo,
 kurio bendroji talpa 3000 ir daugiau tonų, kapitonu stažą.
-3. Uosto kapitono veiklą nustato
-šis įstatymas, Lietuvos Respublikos saugios laivybos įstatymas bei Uosto kapitono nuostatai. Uosto kapitono nuostatus,
+3. Uosto kapitono veiklą
+nustato šis įstatymas, Lietuvos Respublikos saugios laivybos įstatymas bei Uosto kapitono nuostatai. Uosto kapitono nuostatus,
 suderintus su Lietuvos saugios laivybos administracija, tvirtina Uosto
 direkcijos vadovas.
 4. Jeigu yra nesumokėtos
@@ -381,8 +383,8 @@ straipsnis. Laisvojo uosto įrengimo sutartis
 1. Uosto žemės
 naudotojas, norėdamas pradėti veiklą laisvajame uoste, su Uosto direkcija
 sudaro laisvojo uosto įrengimo sutartį.
-2. Laisvojo
-uosto įrengimo tvarka nustatoma laisvojo uosto įrengimo sutartyje.
+2. Laisvojo uosto
+įrengimo tvarka nustatoma laisvojo uosto įrengimo sutartyje.
 3. Laisvojo
 uosto įrengimo sutarties formą nustato susisiekimo ministras, suderinęs su
 finansų ministru ir vidaus reikalų ministru.
@@ -463,9 +465,9 @@ laisvąjį uostą įleidžiami pateikę leidimus. Leidimų išdavimo tvarką ir
 pavyzdžius tvirtina susisiekimo ministras suderinęs su Muitinės departamentu
 prie Finansų ministerijos ir Valstybės sienos apsaugos tarnyba.
 2. Uosto direkcijos ir
-valstybės institucijų, vykdančių laisvojo uosto ar laivybos priežiūrą bei kontrolę,
-pareigūnai ir jų transporto priemonės į laisvąjį uostą įleidžiami pateikę
-tarnybinį pažymėjimą.
+valstybės institucijų, vykdančių laisvojo uosto ar laivybos priežiūrą bei
+kontrolę, pareigūnai ir jų transporto priemonės į laisvąjį uostą įleidžiami
+pateikę tarnybinį pažymėjimą.
 Straipsnio pakeitimai:
 Nr. VIII-1344, 99.10.05, Žin., 1999,
 Nr.86-2561 (99.10.15)
@@ -477,8 +479,8 @@ Nr.92-2869 (00.10.31)
 20 straipsnis. Muitai ir mokesčiai
 1.
 Prekėms, įvežamoms į Lietuvos Respubliką iš laisvojo uosto, taikomi Lietuvos
-Respublikos teisės aktų šioms prekėms nustatyti importo muitai ir mokesčiai,
-taip pat importo draudimai bei apribojimai.
+Respublikos teisės aktų šioms prekėms nustatyti importo muitai ir mokesčiai, taip
+pat importo draudimai bei apribojimai.
 2.
 Prekėms, išvežamoms iš Lietuvos Respublikos į laisvąjį uostą, taikomi Lietuvos
 Respublikos teisės aktų šioms prekėms nustatyti eksporto muitai ir mokesčiai,
@@ -501,10 +503,9 @@ vykdo uosto žemės naudotojai.
 Prekės iš Lietuvos Respublikos
 muitų teritorijos į laisvąjį uostą įvežamos ir iš laisvojo uosto į Lietuvos
 Respublikos muitų teritoriją išvežamos per tam tikslui įrengtas vietas. Postų
-ir muitinio tikrinimo vietų įrengimą organizuoja Vyriausybės įgaliota
-institucija, patalpų, muitinio tikrinimo vietų bei infrastruktūros projektus
-suderinusi su Muitinės departamentu prie Lietuvos Respublikos finansų
-ministerijos.
+ir muitinio tikrinimo vietų įrengimą organizuoja Vyriausybės įgaliota institucija,
+patalpų, muitinio tikrinimo vietų bei infrastruktūros projektus suderinusi su
+Muitinės departamentu prie Lietuvos Respublikos finansų ministerijos.
 3.
 Muitinė tikrina į laisvąjį uostą įvežamas, iš jo išvežamas ir jame laikomas
 prekes Muitinės kodekso nustatyta tvarka.
@@ -526,8 +527,8 @@ UOSTO ŽEMĖS NUOMA
 straipsnis. Uosto žemės plėtra
 1. Lietuvos Respublikos Vyriausybės nutarimu uostas
 gali būti plečiamas prijungiant rezervines uosto teritorijas ir kitas žemes.
-Tai įforminama žemės sandoriais. Tokius sandorius su žemės savininkais
-valstybės vardu sudaro Uosto direkcija, suderinusi su Susisiekimo ministerija.
+Tai įforminama žemės sandoriais. Tokius sandorius su žemės savininkais valstybės
+vardu sudaro Uosto direkcija, suderinusi su Susisiekimo ministerija.
 2. Ūkinės veiklos uosto rezervinėse teritorijose
 apribojimus, rezervinių teritorijų priežiūros bei tvarkymo tvarką nustato
 Lietuvos Respublikos Vyriausybė.
@@ -539,8 +540,8 @@ reikalavimus.
 Straipsnio pakeitimai:
 Nr. VIII-1344, 99.10.05, Žin., 1999,
 Nr.86-2561 (99.10.15)
-Nr. VIII-1898, 00.08.29, Žin., 2000,
-Nr.75-2265 (00.09.07)
+Nr. VIII-1898, 00.08.29, Žin., 2000, Nr.75-2265
+(00.09.07)
 Nr. VIII-1962, 00.09.26, Žin., 2000,
 Nr.82-2479 (00.09.29)
 Nr. IX-1226,
@@ -568,10 +569,10 @@ apskaičiavimo tvarka ir uosto žemės nuomos mokesčio dydžiai tvirtinami ne
 trumpesniam kaip 5 metų terminui. Uosto žemės nuomos mokesčio apskaičiavimo
 tvarkoje nustatoma, kad uosto žemės nuomos mokesčio dydis uosto žemės
 naudotojams gali būti didinamas arba mažinamas atsižvelgiant į uosto žemės
-naudotojo atliekamų krovos ar kitų darbų, susijusių su uosto funkcine paskirtimi,
-mastus (didėjant atliekamų krovos ar kitų darbų, susijusių su uosto funkcine
-paskirtimi, mastams, uosto žemės nuomos mokesčio dydis mažinamas, mažėjant –
-didinamas).
+naudotojo atliekamų krovos ar kitų darbų, susijusių su uosto funkcine
+paskirtimi, mastus (didėjant atliekamų krovos ar kitų darbų, susijusių su uosto
+funkcine paskirtimi, mastams, uosto žemės nuomos mokesčio dydis mažinamas,
+mažėjant – didinamas).
 3. Uosto žemė
 gali būti perduota laikinai neatlygintinai naudotis valstybės institucijoms,
 kurių veikla uoste privaloma pagal Lietuvos Respublikos įstatymus, taip pat
@@ -722,25 +723,8 @@ Nr. VIII-682,
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 Nr.75-2265 (00.09.07)
  
-Straipsnio
-redakcija iki 2008 m. liepos 1 d. 
-        31
-straipsnis. Privačios nuosavybės objektų, esančių uoste, paėmimas valstybės 
-poreikiams
-1. Uosto
-teritorijoje esantys privačios nuosavybės objektai Lietuvos Respublikos
-Vyriausybės nutarimu visuomenės poreikiams, jeigu tai būtina uosto
-infrastruktūros objektų statybai ir plėtrai ar uosto funkcionavimui užtikrinti,
-gali būti paimti tik teisingai už juos atlyginus.
-        2. Už paimamus privačios
-nuosavybės objektus jų savininkams atlyginama Lietuvos Respublikos Vyriausybės
-nustatyta tvarka. Ginčus dėl tokių objektų paėmimo ir turto vertės nustatymo
-sprendžia teismas.
-Straipsnio
-redakcija nuo 2008 m. liepos 1 d. 
-31
-straipsnis. Privačios nuosavybės nekilnojamųjų daiktų, esančių uoste, paėmimas
-visuomenės poreikiams
+31 straipsnis. Privačios nuosavybės nekilnojamųjų
+daiktų, esančių uoste, paėmimas visuomenės poreikiams
 1. Privačios nuosavybės nekilnojamieji
 daiktai, išskyrus žemę, esantys uosto teritorijoje, gali būti paimami
 visuomenės poreikiams Lietuvos Respublikos Vyriausybės nutarimu teisingai
@@ -752,8 +736,8 @@ pagal rinkos kainą, nustatomą vadovaujantis Lietuvos Respublikos turto ir
 verslo vertinimo pagrindų įstatymu.
 3. Už atsiradusius kitus nuostolius,
 susijusius su nekilnojamojo daikto paėmimu, kuriuos patiria nekilnojamojo
-daikto savininkas ir šio daikto naudotojas, atlyginama Lietuvos Respublikos Vyriausybės
-nustatyta tvarka.  
+daikto savininkas ir šio daikto naudotojas, atlyginama Lietuvos Respublikos
+Vyriausybės nustatyta tvarka.  
 4. Ginčus dėl nekilnojamųjų daiktų
 paėmimo ir vertės nustatymo bei dėl privačios nuosavybės paėmimo savininkui
 atsiradusių nuostolių sprendžia teismas.
@@ -1045,8 +1029,8 @@ UOSTO ĮSTATYMO 33 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
 5.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1898, 00.08.29, Žin., 2000, Nr.75-2265
-(00.09.07)
+Nr. VIII-1898, 00.08.29, Žin., 2000,
+Nr.75-2265 (00.09.07)
 KLAIPĖDOS VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO 2, 3,
 4, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 28, 30, 33, 34,
 36, 37, 38, 39 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, 6, 40, 41, 43 STRAIPSNIŲ
@@ -1070,8 +1054,8 @@ SKIRSNIO PAVADINIMO PAKEITIMO ĮSTATYMO 1, 6, 9, 10, 11, 13, 16, 17, 18, 19, 20,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-2017, 00.10.10, Žin., 2000,
 Nr.92-2869 (00.10.31)
-KLAIPĖDOS VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO 19 STRAIPSNIO
-PAKEITIMO ĮSTATYMAS
+KLAIPĖDOS VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO 19
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja nuo 2000 m. lapkričio 1 d.
  
@@ -1133,11 +1117,19 @@ VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO 31 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas, išskyrus 2 straipsnį, įsigalioja 2008 m. liepos 1 d. 
  
-***
-Pabaiga ***
+13.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-715,
+2010-03-30, Žin., 2010, Nr. 41-1940 (2010-04-10)
+KLAIPĖDOS
+VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis įstatymas
+įsigalioja 2010 m. liepos 1 d.
+ 
+*** Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2008-06-16)
-                 
-autrap@lrs.lt
+Redagavo Aušrinė Trapinskienė
+(2010-04-14)
+                  autrap@lrs.lt
