@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C70309CDEB7B"
 
 # Lietuvos Respublikos karo padėties įstatymas
 
-Suvestinė redakcija nuo 2004-07-24 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2011-01-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1482, i. k. 1001010ISTAIII-1721
  
@@ -290,7 +290,10 @@ Nr. IX-1422, 2003-04-03, Žin., 2003, Nr. 38-1667 (2003-04-24), i. k. 1031010IST
 
 
 
-2. Specialaus karo komendanto leidimo nereikia Respublikos Prezidentui, Seimo nariams, Vyriausybės nariams, taip pat atitinkamoje teritorijoje savo įgaliojimus vykdantiems apskričių viršininkams, savivaldybių tarybų ir valdybų nariams, merams, savivaldybių kontrolieriams, seniūnams, teisėjams, vidaus reikalų sistemos ir prokuratūros pareigūnams, kariniams pareigūnams ir šioje teritorijoje veikiančių karinių vienetų kariams.
+2. Specialaus karo komendanto leidimo nereikia Respublikos Prezidentui, Seimo nariams, Vyriausybės nariams, taip pat atitinkamoje teritorijoje savo įgaliojimus vykdantiems savivaldybių tarybų nariams, savivaldybių administracijų direktoriams, savivaldybių kontrolieriams, seniūnams, teisėjams, vidaus reikalų sistemos ir prokuratūros pareigūnams, kariniams pareigūnams ir šioje teritorijoje veikiančių karinių vienetų kariams.
+Straipsnio dalies pakeitimai:
+Nr. XI-757, 2010-04-13, Žin., 2010, Nr. 48-2306 (2010-04-27), i. k. 1101010ISTA00XI-757
+ 
 
 
 
@@ -553,13 +556,10 @@ Nr. VIII-2003, 2000-10-10, Žin., 2000, Nr. 92-2855 (2000-10-31), i. k. 1001010I
 
 
 
-23 straipsnis. Apskričių viršininkų ir jų administracijų funkcijų perėmimas
-
-
-Karo padėties metu Vyriausybė gali sustabdyti apskričių viršininkų įgaliojimus. Apskričių viršininkų ir jų administracijų funkcijas komendantūros teritorijoje atlieka karo komendantai.
+23 straipsnis. Neteko galios nuo 2010-07-01
+Straipsnio naikinimas:
+Nr. XI-757, 2010-04-13, Žin. 2010, Nr. 48-2306 (2010-04-27), i. k. 1101010ISTA00XI-757
  
-
-
 
 
 
@@ -583,13 +583,15 @@ Nr. IX-2258, 2004-06-01, Žin., 2004, Nr. 96-3524 (2004-06-19), i. k. 1041010IST
 
 
 
-25 straipsnis. Karo komendantų veiklos priežiūra
+25 straipsnis. Karo komendantų veiklos priežiūra
 
 
-Karo komendantų veiklą, atliekant vietos savivaldos institucijų, taip pat apskričių viršininkų funkcijas, prižiūri ginkluotųjų pajėgų vadas.
+Karo komendantų veiklą atliekant vietos savivaldos institucijų funkcijas prižiūri ginkluotųjų pajėgų vadas.
+
+
+Straipsnio pakeitimai:
+Nr. XI-757, 2010-04-13, Žin., 2010, Nr. 48-2306 (2010-04-27), i. k. 1101010ISTA00XI-757
  
-
-
 
 
 
@@ -940,3 +942,8 @@ Lietuvos Respublikos karo padėties įstatymo 14 ir 24 straipsnių pakeitimo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2330, 2004-07-08, Žin., 2004, Nr. 115-4273 (2004-07-24), i. k. 1041010ISTA0IX-2330
 Lietuvos Respublikos karo padėties įstatymo 37 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-757, 2010-04-13, Žin., 2010, Nr. 48-2306 (2010-04-27), i. k. 1101010ISTA00XI-757
+Lietuvos Respublikos karo padėties įstatymo 11, 25 straipsnių pakeitimo ir 23 straipsnio pripažinimo netekusiu galios įstatymas
