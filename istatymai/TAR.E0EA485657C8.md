@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E0EA485657C8"
 
 # Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas
 
-Suvestinė redakcija nuo 2010-01-01 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2011-08-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1736, i. k. 0971010ISTAVIII-375
  
@@ -682,7 +682,10 @@ Policijos, Valstybės sienos apsaugos tarnybos, Priešgaisrinės apsaugos ir gel
 
 
 
-2. Šio straipsnio 1 dalyje nustatyta pagalba civilinės saugos ir gelbėjimo sistemos pajėgoms teikiama apskrityje, kurios teritorijoje įvyko ar vyksta ekstremalus įvykis ar susidarė ekstremali situacija, veikiančios rinktinės vado įsakymu, gavus Vyriausybės Ekstremalių situacijų komisijos pirmininko, atitinkamos apskrities viršininko arba atitinkamos savivaldybės administracijos direktoriaus rašytinį prašymą.
+2. Šio straipsnio 1 dalyje nustatyta pagalba civilinės saugos ir gelbėjimo sistemos pajėgoms teikiama apskrityje, kurios teritorijoje įvyko ar vyksta ekstremalus įvykis ar susidarė ekstremali situacija, veikiančios LŠS rinktinės vado įsakymu, gavus Vyriausybės Ekstremalių situacijų komisijos pirmininko arba atitinkamos savivaldybės administracijos direktoriaus rašytinį prašymą.
+Straipsnio dalies pakeitimai:
+Nr. XI-758, 2010-04-13, Žin., 2010, Nr. 48-2307 (2010-04-27), i. k. 1101010ISTA00XI-758
+ 
 
 
 
@@ -1738,7 +1741,10 @@ SEPTINTASIS SKIRSNIS
 
 
 
-8. Kitoms negu LŠS vado pavaduotojo ir rinktinės vado nuolatinės šaulio tarnybos pareigoms vykdyti šauliai gali būti skiriami LŠS vado įsakymu, sudarant darbo sutartis su LŠS. Tokių pareigų sąrašą su LŠS Centro valdybos pritarimu ir suderinęs su krašto apsaugos ministru nustato LŠS vadas.
+8. Kitoms negu LŠS vado pavaduotojo ir rinktinės vado nuolatinės šaulio tarnybos pareigoms vykdyti šauliai gali būti skiriami LŠS vado įsakymu, sudarant darbo sutartis su LŠS. Nuolatinės šaulio tarnybos pareigų, kurias vykdantiems šauliams darbo užmokestis mokamas iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų, sąrašą tvirtina krašto apsaugos ministras LŠS vado teikimu, kuriam pritarė LŠS Centro valdyba. Kitų nuolatinės šaulio tarnybos pareigų, kurias vykdantiems šauliams darbo užmokestis mokamas ne iš valstybės biudžeto asignavimų, sąrašą su LŠS Centro valdybos pritarimu ir suderinęs su krašto apsaugos ministru nustato LŠS vadas.
+Straipsnio dalies pakeitimai:
+Nr. XI-796, 2010-04-29, Žin., 2010, Nr. 57-2811 (2010-05-18), i. k. 1101010ISTA00XI-796
+ 
 
 
 
@@ -1948,3 +1954,13 @@ Lietuvos Respublikos šaulių sąjungos įstatymo pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-408, 2009-07-23, Žin., 2009, Nr. 95-4033 (2009-08-08), i. k. 1091010ISTA00XI-408
 Lietuvos Respublikos šaulių sąjungos įstatymo pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-758, 2010-04-13, Žin., 2010, Nr. 48-2307 (2010-04-27), i. k. 1101010ISTA00XI-758
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo 18 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-796, 2010-04-29, Žin., 2010, Nr. 57-2811 (2010-05-18), i. k. 1101010ISTA00XI-796
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo 36 straipsnio pakeitimo įstatymas
