@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B8F45E398856"
 
 # Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymas
 
-Suvestinė redakcija nuo 2005-07-14 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2010-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 35-855, i. k. 0961010ISTA00I-1246
  
@@ -342,7 +342,10 @@ ODONTOLOGIJOS PRAKTIKA
 
 
 
-4. Dėl licencijų galiojimo panaikinimo į licencijas išduodančią instituciją turi teisę kreiptis Sveikatos apsaugos ministerija, Lietuvos bioetikos komitetas, Valstybinė medicininio audito inspekcija prie Sveikatos apsaugos ministerijos, Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos, Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos, apskrities gydytojas, savivaldybės gydytojas, asmens sveikatos priežiūros įstaigos vadovas, atitinkamos odontologų profesinės organizacijos, pacientų teises ginančios organizacijos.
+4. Dėl licencijos galiojimo panaikinimo į licencijas išduodančią instituciją turi teisę kreiptis Sveikatos apsaugos ministerija, Lietuvos bioetikos komitetas, Valstybinė medicininio audito inspekcija prie Sveikatos apsaugos ministerijos, Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos, Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos, savivaldybės gydytojas, asmens sveikatos priežiūros įstaigos vadovas, atitinkamos odontologų profesinės organizacijos, pacientų teises ginančios organizacijos. 
+Straipsnio dalies pakeitimai:
+Nr. XI-713, 2010-03-30, Žin., 2010, Nr. 41-1938 (2010-04-10), i. k. 1101010ISTA00XI-713
+ 
 
 
 
@@ -429,7 +432,9 @@ ODONTOLOGIJOS PRAKTIKA
 
 
 
-6. Dėl licencijos galiojimo sustabdymo į licencijas išduodančią instituciją turi teisę kreiptis Sveikatos apsaugos ministerija, Lietuvos bioetikos komitetas, Valstybinė medicininio audito inspekcija prie Sveikatos apsaugos ministerijos, Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos, Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos, apskrities gydytojas, savivaldybės gydytojas, asmens sveikatos priežiūros įstaigos vadovas, atitinkamos odontologų profesinės organizacijos, pacientų teises ginančios organizacijos.
+6. Dėl licencijos galiojimo sustabdymo į licencijas išduodančią instituciją turi teisę kreiptis Sveikatos apsaugos ministerija, Lietuvos bioetikos komitetas, Valstybinė medicininio audito inspekcija prie Sveikatos apsaugos ministerijos, Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos, Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos, savivaldybės gydytojas, asmens sveikatos priežiūros įstaigos vadovas, atitinkamos odontologų profesinės organizacijos, pacientų teises ginančios organizacijos. 
+Straipsnio dalies pakeitimai:
+Nr. XI-713, 2010-03-30, Žin., 2010, Nr. 41-1938 (2010-04-10), i. k. 1101010ISTA00XI-713
  
 
 
@@ -636,3 +641,8 @@ Lietuvos Respublikos stomatologinės priežiūros (pagalbos) įstatymo pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14), i. k. 1051010ISTA000X-298
 Lietuvos Respublikos medicinos praktikos įstatymo, Odontologijos praktikos įstatymo, Sveikatos sistemos įstatymo, Psichikos sveikatos priežiūros įstatymo, Narkologinės priežiūros įstatymo pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-713, 2010-03-30, Žin., 2010, Nr. 41-1938 (2010-04-10), i. k. 1101010ISTA00XI-713
+Lietuvos Respublikos odontologijos praktikos įstatymo 5 ir 7 straipsnių pakeitimo įstatymas
