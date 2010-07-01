@@ -21,6 +21,10 @@ LIETUVOS RESPUBLIKOS DAINŲ ŠVENČIŲ ĮSTATYMAS
  
 
 
+Suvestinė redakcija nuo 2010-07-01 iki 2023-06-30
+ 
+Įstatymas paskelbtas: Žin. 2007, Nr. 128-5212, i. k. 1071010ISTA00X-1334
+ 
 LIETUVOS RESPUBLIKOS
 DAINŲ ŠVENČIŲ
 Į S T A T Y M A S
@@ -69,47 +73,81 @@ BENDROSIOS NUOSTATOS
 
 
 
-5. Folkloro diena – Lietuvos dainų šventės dalis, kurios renginiuose dalyvauja Lietuvos etnografinių regionų, kraštų, miestų ir kaimų folkloro ansambliai, dainininkai, muzikantai, pasakotojai, liaudies menininkai ir amatininkai, tradicinės virtuvės žinovai, kitų etninės kultūros sričių puoselėtojai.
+5. Etnografinis regionas – istoriškai susiformavusi teritorijos dalis, kurioje išlaikyta savita tarmė, tradicijos ir papročiai, integruotas baltų genčių palikimas. 
+Papildyta straipsnio dalimi:
+Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA00XI-750
+ 
 
 
 
 
-6. Kūrybinė grupė – tikslingai suburta grupė, kuri savo idėjomis, kūrybinėmis, intelektinėmis pastangomis sukuria ir įgyvendina dainų šventės programą.
+6. Folkloro diena – Lietuvos dainų šventės dalis, kurios renginiuose dalyvauja Lietuvos etnografinių regionų, miestų ir kaimų folkloro ansambliai, dainininkai, muzikantai, pasakotojai, liaudies menininkai ir amatininkai, tradicinės virtuvės žinovai, kitų etninės kultūros sričių puoselėtojai. 
+Straipsnio dalies pakeitimai:
+Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA00XI-750
+ 
 
 
 
 
-7. Liaudies meno paroda – Lietuvos dainų šventės dalis – liaudies menininkų ir amatininkų darbų ekspozicija, sudaryta atrenkant darbus etapais pagal tradicijų ir meniškumo kriterijus iš rajoninių bei regioninių parodų.
+7. Kūrybinė grupė – tikslingai suburta grupė, kuri savo idėjomis, kūrybinėmis, intelektinėmis pastangomis sukuria ir įgyvendina dainų šventės programą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA00XI-750
+ 
 
 
 
 
-8. Lietuvos dainų šventė – tradiciškai susiklosčiusi meninių programų visuma, grindžiama geriausiais nacionalinės – tradicinės, mėgėjų ir profesionalios – kultūros kūriniais, susidedanti iš pagrindinių renginių (Liaudies meno parodos, Folkloro dienos, Ansamblių vakaro, Šokių dienos, Dainų dienos) ir kitų meninių programų, kultūrinių renginių, burianti Lietuvos ir Pasaulio lietuvių bendruomenės vaikų, jaunimo ir suaugusiųjų meno kolektyvus.
+8. Liaudies meno paroda – Lietuvos dainų šventės dalis – liaudies menininkų ir amatininkų darbų ekspozicija, sudaryta atrenkant darbus etapais pagal tradicijų ir meniškumo kriterijus iš rajoninių bei regioninių parodų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA00XI-750
+ 
 
 
 
 
-9. Lietuvos moksleivių dainų šventė – įvairių meno šakų, žanrų vaikų ir jaunimo kolektyvų meninės programos, iš kurių svarbiausios – Dainų diena ir Šokių diena – grindžiamos vertingiausiomis nacionalinės kultūros tradicijomis, šiuolaikinių autorių ir pačių vaikų kūryba.
+9. Lietuvos dainų šventė – tradiciškai susiklosčiusi meninių programų visuma, grindžiama geriausiais nacionalinės – tradicinės, mėgėjų ir profesionalios – kultūros kūriniais, susidedanti iš pagrindinių renginių (Liaudies meno parodos, Folkloro dienos, Ansamblių vakaro, Šokių dienos, Dainų dienos) ir kitų meninių programų, kultūrinių renginių, burianti Lietuvos ir Pasaulio lietuvių bendruomenės vaikų, jaunimo ir suaugusiųjų meno kolektyvus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA00XI-750
+ 
 
 
 
 
-10. Meno kolektyvo vadovas – asmuo, kuris turi vienos ar kitos meno šakos, žanro profesinį išsilavinimą arba darbo patirtį ir pagal darbo sutartį vadovauja meno kolektyvui, t. y. atsako už jo meninę, mokomąją, organizacinę veiklą ir jos rezultatus.
+10. Lietuvos moksleivių dainų šventė – įvairių meno šakų, žanrų vaikų ir jaunimo kolektyvų meninės programos, iš kurių svarbiausios – Dainų diena ir Šokių diena – grindžiamos vertingiausiomis nacionalinės kultūros tradicijomis, šiuolaikinių autorių ir pačių vaikų kūryba.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA00XI-750
+ 
 
 
 
 
-11. Regioninė dainų šventė – dainų šventė, organizuojama apskrities, krašto ar kitu mastu; sudėtinė rengimosi dainų šventėms dalis.
+11. Meno kolektyvo vadovas – asmuo, kuris turi vienos ar kitos meno šakos, žanro profesinį išsilavinimą arba darbo patirtį ir pagal darbo sutartį vadovauja meno kolektyvui, t. y. atsako už jo meninę, mokomąją, organizacinę veiklą ir jos rezultatus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA00XI-750
+ 
 
 
 
 
-12. Rengimasis dainų šventėms – nenutrūkstanti kultūros ir švietimo institucijų, mėgėjų ir profesionalių meno kolektyvų, jų vadovų, švenčių ir jų repertuaro kūrėjų, organizatorių veikla, garantuojanti dainų švenčių tradicijos tęstinumą.
+12. Regioninė dainų šventė – dainų šventė, organizuojama savivaldybės ar etnografinio regiono mastu; sudedamoji rengimosi dainų šventėms dalis.
+Straipsnio dalies pakeitimai:
+Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA00XI-750
+ 
 
 
 
 
-13. Šokių diena – Lietuvos dainų šventės dalis, kurios meninę programą sudaro įvairių amžiaus grupių liaudies šokių kolektyvų, ansamblių jungtiniai pasirodymai: atliekami autorių sukurti choreografiniai kūriniai, stilizuoti liaudies šokiai, rateliai ar žaidimai, autoriniai ar aranžuoti instrumentiniai kūriniai.
+13. Rengimasis dainų šventėms – nenutrūkstanti kultūros ir švietimo institucijų, mėgėjų ir profesionalių meno kolektyvų, jų vadovų, švenčių ir jų repertuaro kūrėjų, organizatorių veikla, garantuojanti dainų švenčių tradicijos tęstinumą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA00XI-750
+ 
+
+
+
+
+14. Šokių diena – Lietuvos dainų šventės dalis, kurios meninę programą sudaro įvairių amžiaus grupių liaudies šokių kolektyvų, ansamblių jungtiniai pasirodymai: atliekami autorių sukurti choreografiniai kūriniai, stilizuoti liaudies šokiai, rateliai ar žaidimai, autoriniai ar aranžuoti instrumentiniai kūriniai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA00XI-750
  
 
 
@@ -442,32 +480,10 @@ DAINŲ ŠVENČIŲ TRADICIJOS IŠSAUGOJIMO, VADOVAVIMO, ORGANIZAVIMO INSTITUCIJŲ
 
 
 
-6. Apskričių viršininkai:
-
-
-1) analizuoja ir vertina liaudies meno būklę regione, taiko priemones padėčiai gerinti, teikia išvadas ir pasiūlymus savivaldybių administracijoms, valstybės institucijoms;
-
-
-
-
-2) kuria ir įgyvendina biudžeto lėšomis finansuojamas tikslines programas, susijusias su dainų švenčių tradicijos tęstinumo užtikrinimu, meno kolektyvų, vadovų, liaudies meno kūrėjų kūrybinės veiklos rėmimu;
-
-
-
-
-3) rengia apskričių dainų šventes, festivalius, konkursus, liaudies meno parodas;
-
-
-
-
-4) telkia kultūros, švietimo darbuotojus, miestų, miestelių ir kaimų bendruomenes regiono kultūrinio savitumo palaikymui ir turtinimui, vaikų, mokinių ir jaunimo meniniam ugdymui.
-
-
-
-
-
-
-7. Savivaldybių institucijos:
+6. Savivaldybių institucijos:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA00XI-750
+ 
 
 
 1) rūpinasi meno kolektyvų steigimu, jų veiklos gerinimu, vaikų, jaunimo meniniu ugdymu;
@@ -495,7 +511,9 @@ DAINŲ ŠVENČIŲ TRADICIJOS IŠSAUGOJIMO, VADOVAVIMO, ORGANIZAVIMO INSTITUCIJŲ
 
 
 
-6) rengia miesto, rajono dainų šventes.
+6) rengia regionines dainų šventes.
+Straipsnio punkto pakeitimai:
+Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA00XI-750
  
 
 
@@ -662,7 +680,10 @@ DAINŲ ŠVENČIŲ FINANSAVIMAS
 14 straipsnis. Valstybės biudžeto lėšos
 
 
-1. Kiekvienais metais valstybės biudžete numatomos lėšos Kultūros ministerijai bei Švietimo ir mokslo ministerijai, apskričių viršininkų administracijoms – nuolatiniam rengimuisi Lietuvos dainų šventėms ir Lietuvos moksleivių dainų šventėms pagal Dainų švenčių tradicijos tęstinumo programą.
+1. Kiekvienais metais valstybės biudžete numatomos lėšos Kultūros ministerijai bei Švietimo ir mokslo ministerijai – nuolatiniam rengimuisi Lietuvos dainų šventėms ir Lietuvos moksleivių dainų šventėms pagal Dainų švenčių tradicijos tęstinumo programą.
+Straipsnio dalies pakeitimai:
+Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA00XI-750
+ 
 
 
 
@@ -747,3 +768,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-750, 2010-04-13, Žin., 2010, Nr. 48-2300 (2010-04-27), i. k. 1101010ISTA00XI-750
+Lietuvos Respublikos dainų švenčių įstatymo 2, 8, 14 straipsnių pakeitimo ir papildymo įstatymas
