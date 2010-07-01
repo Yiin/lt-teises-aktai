@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D0429A864011"
 
 # Lietuvos Respublikos melioracijos įstatymas
 
-Suvestinė redakcija nuo 2010-05-11 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 71-1326, i. k. 0931010ISTA000I-323
  
@@ -218,7 +218,10 @@ MELIORACIJOS PROJEKTAVIMAS, STATYBA, EKSPERTIZĖ, MELIORUOTOS ŽEMĖS IR MELIORA
 
 
 
-2. Melioracijos darbų ir melioracijos statinių naudojimo valstybinę priežiūrą atlieka apskrities viršininko administracija.
+2. Melioracijos darbų ir melioracijos statinių naudojimo valstybinę priežiūrą atlieka valstybės įmonė Valstybinis žemėtvarkos institutas.
+Straipsnio dalies pakeitimai:
+Nr. XI-787, 2010-04-27, Žin., 2010, Nr. 54-2650 (2010-05-11), i. k. 1101010ISTA00XI-787
+ 
 
 
 
