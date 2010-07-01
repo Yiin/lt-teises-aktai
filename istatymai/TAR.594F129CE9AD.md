@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.594F129CE9AD"
 
 # Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymas
 
-Suvestinė redakcija nuo 2008-11-15 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2011-07-12
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-310, i. k. 0991010ISTAIII-1031
  
@@ -62,17 +62,19 @@ Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0I
 
 
 
-2. Skundams (prašymams) dėl priimtų individualių administracinių aktų ar valstybės tarnautojų veiksmų (neveikimo) viešojo administravimo srityje ikiteismine tvarka nagrinėti steigiamos apskričių administracinių ginčų komisijos ir Vyriausioji administracinių ginčų komisija.
+2. Skundus (prašymus) dėl priimtų individualių administracinių aktų ar viešojo administravimo subjektų veiksmų (neveikimo) viešojo administravimo srityje ikiteismine tvarka nagrinėja Vyriausioji administracinių ginčų komisija. 
 Straipsnio dalies pakeitimai:
 Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0IX-1947
+Nr. XI-925, 2010-06-22, Žin., 2010, Nr. 76-3871 (2010-06-30), i. k. 1101010ISTA00XI-925
  
 
 
 
 
-3. Išskyrus išimtis, kurias nustato Administracinių bylų teisenos įstatymas arba kiti įstatymai, apskričių administracinių ginčų komisijos sprendžia ginčus, kurie priskirti apygardų administracinių teismų kompetencijai, o Vyriausioji administracinių ginčų komisija – ginčus, kurie priskirti Vilniaus apygardos administracinio teismo papildomai kompetencijai.
+3. Išskyrus Administracinių bylų teisenos įstatyme arba kituose įstatymuose nustatytas išimtis, Vyriausioji administracinių ginčų komisija sprendžia ginčus, kurie priskirti Vilniaus apygardos administracinio teismo papildomai kompetencijai.
 Straipsnio dalies pakeitimai:
 Nr. VIII-1930, 2000-09-19, Žin., 2000, Nr. 85-2569 (2000-10-11), i. k. 1001010ISTAIII-1930
+Nr. XI-925, 2010-06-22, Žin., 2010, Nr. 76-3871 (2010-06-30), i. k. 1101010ISTA00XI-925
  
 
 
@@ -80,53 +82,28 @@ Nr. VIII-1930, 2000-09-19, Žin., 2000, Nr. 85-2569 (2000-10-11), i. k. 1001010I
 
 
 
-3 straipsnis. Savivaldybės ir apskrities administracinių ginčų komisijos sudarymas
+3 straipsnis. Savivaldybės visuomeninės administracinių ginčų komisijos sudarymas
 
 
-1. Savivaldybės visuomeninė administracinių ginčų komisija sudaroma 4 metams savivaldybės tarybos sprendimu iš 5 narių, iš kurių bent pirmininkas ir sekretorius turi turėti aukštąjį teisinį išsilavinimą. Komisijos narių kandidatūras, iš jų komisijos pirmininko ir pirmininko pavaduotojo kandidatūras, savivaldybės tarybai teikia savivaldybės meras.
-Straipsnio dalies pakeitimai:
-Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0IX-1947
- 
+1. Savivaldybės visuomeninė administracinių ginčų komisija sudaroma 4 metams savivaldybės tarybos sprendimu tarybos kadencijos laikotarpiui iš 5 narių, iš kurių pirmininkas ir sekretorius turi turėti aukštąjį teisinį išsilavinimą. Komisijos narių kandidatūras, iš jų komisijos pirmininko ir pirmininko pavaduotojo kandidatūras, savivaldybės tarybai teikia savivaldybės meras.
 
 
 
 
-2. Apskrities administracinių ginčų komisija sudaroma 4 metams iš 5 narių, turinčių aukštąjį teisinį išsilavinimą. Komisijos narius, iš  jų komisijos pirmininką ir pirmininko pavaduotoją, skiria Vyriausybė. Komisijos narių, komisijos pirmininko ir pirmininko pavaduotojo kandidatūras Vyriausybei teikia regiono plėtros taryba.
-
-
-
-
-3. Komisijos pirmininkas, pirmininko pavaduotojas ir nariai turi teisę atsistatydinti. Motyvuotu teikimu regiono plėtros taryba gali siūlyti Vyriausybei, o savivaldybės meras – savivaldybės tarybai atleisti atitinkamos komisijos pirmininką, pirmininko pavaduotoją ar narį prieš laiką ir vietoj jų teikti naujas kandidatūras.
+2. Savivaldybės visuomeninės administracinių ginčų komisijos pirmininkas, pirmininko pavaduotojas ir nariai turi teisę atsistatydinti. Savivaldybės meras motyvuotu teikimu gali siūlyti savivaldybės tarybai atleisti savivaldybės visuomeninės administracinių ginčų komisijos pirmininką, pirmininko pavaduotoją ar narį prieš laiką ir vietoj jų teikti naujas kandidatūras likusios savivaldybės tarybos kadencijos laikotarpiui.
 
 
 Straipsnio pakeitimai:
 Nr. IX-948, 2002-06-11, Žin., 2002, Nr. 64-2578 (2002-06-26), i. k. 1021010ISTA00IX-948
+Nr. XI-925, 2010-06-22, Žin., 2010, Nr. 76-3871 (2010-06-30), i. k. 1101010ISTA00XI-925
  
 
 
 
 
-4 straipsnis. Apskrities administracinių ginčų komisijų statusas
-
-
-1. Apskrities administracinių ginčų komisijos nariais jų sutikimu gali būti valstybės tarnautojai, taip pat šio statuso neturintys asmenys.
-
-
-
-
-2. Apskrities administracinių ginčų komisiją aptarnauja apskrities viršininko administracija.
-
-
-
-
-3. Komisijos technines funkcijas (skundų registravimas, raštvedyba, susirašinėjimas ir kt.) atlieka apskrities viršininko paskirtas valstybės tarnautojas. Jis kartu yra ir atsakingasis komisijos sekretorius.
-
-
-
-
-4. Valstybės tarnautojams už darbą komisijoje nemokama, o kitiems komisijos nariams atlyginama Vyriausybės nustatyta tvarka.
-
-
+4 straipsnis. Neteko galios nuo 2010-07-01
+Straipsnio naikinimas:
+Nr. XI-925, 2010-06-22, Žin. 2010, Nr. 76-3871 (2010-06-30), i. k. 1101010ISTA00XI-925
 Straipsnio pakeitimai:
 Nr. VIII-1941, 2000-09-19, Žin., 2000, Nr. 85-2578 (2000-10-11), i. k. 1001010ISTAIII-1941
 Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0IX-1947
@@ -135,23 +112,15 @@ Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0I
 
 
 
-5 straipsnis. Savivaldybės ir apskrities administracinių ginčų komisijos kompetencija
+5 straipsnis. Savivaldybės visuomeninės administracinių ginčų komisijos kompetencija
 
 
-1. Savivaldybės visuomeninė ginčų komisija nagrinėja asmenų skundus dėl savivaldybių viešojo administravimo subjektų priimtų individualių administracinių aktų ir veiksmų teisėtumo, taip pat šių subjektų atsisakymo ar vilkinimo atlikti jų kompetencijai priskirtus veiksmus teisėtumo ir pagrįstumo.
-
-
-
-
-2. Apskrities administracinių ginčų komisija nagrinėja skundus (prašymus) dėl teritorinių valstybinio administravimo subjektų, t. y. dėl apskrityje esančių valstybės institucijų, įstaigų, tarnybų bei jų valstybės tarnautojų, taip pat apskrities teritorijoje esančių savivaldybių institucijų, įstaigų, tarnybų bei jų valstybės tarnautojų priimtų individualių administracinių aktų ir veiksmų teisėtumo, taip pat dėl šių subjektų atsisakymo ar vilkinimo atlikti jų kompetencijai priskirtus veiksmus teisėtumo ir pagrįstumo.
-Straipsnio dalies pakeitimai:
-Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0IX-1947
- 
+1. Savivaldybės visuomeninė administracinių ginčų komisija nagrinėja asmenų skundus dėl savivaldybių viešojo administravimo subjektų priimtų individualių administracinių aktų ir veiksmų teisėtumo, taip pat šių subjektų atsisakymo ar vilkinimo atlikti jų kompetencijai priskirtus veiksmus teisėtumo ir pagrįstumo.
 
 
 
 
-3. Savivaldybės ir apskrities administracinių ginčų komisijos nesprendžia: 
+2. Savivaldybės visuomeninės administracinių ginčų komisijos nesprendžia: 
 
 
 1) Administracinių bylų teisenos įstatymo 16 straipsnyje, 18 straipsnio 2 ir 3 dalyse, 19 straipsnyje ir 20 straipsnio 1 dalyje nurodytų ginčų (bylų), taip pat mokesčių bylų; 
@@ -159,22 +128,22 @@ Nr. IX-1947, 2003-12-23, Žin., 2004, Nr. 4-48 (2004-01-07), i. k. 1031010ISTA0I
 
 
 
-2) administracinių ginčų, kuriems nagrinėti įstatymai numato kitokią tvarką.
+2) administracinių ginčų, kuriems nagrinėti įstatymuose numatyta kitokia tvarka.
 
 
-Straipsnio dalies pakeitimai:
-Nr. VIII-1930, 2000-09-19, Žin., 2000, Nr. 85-2569 (2000-10-11), i. k. 1001010ISTAIII-1930
+
+
+Straipsnio pakeitimai:
+Nr. XI-925, 2010-06-22, Žin., 2010, Nr. 76-3871 (2010-06-30), i. k. 1101010ISTA00XI-925
  
 
 
 
 
+6 straipsnis. Savivaldybės visuomeninės administracinių ginčų komisijos darbo tvarka
 
 
-6 straipsnis. Savivaldybės ir apskrities administracinių ginčų komisijos darbo tvarka
-
-
-1. Komisijos posėdžiai vyksta iš anksto nustatytomis savaitės dienomis. Prireikus organizuojami išvažiuojamieji posėdžiai į savivaldybes.
+1. Savivaldybės visuomeninės administracinių ginčų komisijos posėdžiai vyksta iš anksto nustatytomis savaitės dienomis.
 
 
 
@@ -187,13 +156,9 @@ Nr. VIII-1930, 2000-09-19, Žin., 2000, Nr. 85-2569 (2000-10-11), i. k. 1001010I
 3. Už savo darbą savivaldybės visuomeninė administracinių ginčų komisija kartą per metus atsiskaito savivaldybės tarybai, taip pat yra atsakinga savivaldybės merui.
 
 
-
-
-4. Už savo darbą apskrities administracinių ginčų komisija kartą per metus atsiskaito regiono plėtros tarybai, taip pat yra atsakinga Vyriausiajai administracinių ginčų komisijai. 
-
-
 Straipsnio pakeitimai:
 Nr. IX-948, 2002-06-11, Žin., 2002, Nr. 64-2578 (2002-06-26), i. k. 1021010ISTA00IX-948
+Nr. XI-925, 2010-06-22, Žin., 2010, Nr. 76-3871 (2010-06-30), i. k. 1101010ISTA00XI-925
  
 
 
@@ -386,7 +351,10 @@ Administracinių ginčų komisija, nagrinėdama skundus (prašymus), nei turtin�
 18 straipsnis. Administracinių ginčų komisijos sprendimo apskundimas
 
 
-1. Savivaldybės ir apskrities administracinių ginčų komisijų sprendimas per 20 dienų nuo jo gavimo dienos gali būti apskųstas atitinkamos apygardos administraciniam teismui.
+1. Savivaldybės visuomeninės administracinių ginčų komisijos sprendimas per 20 dienų nuo jo gavimo dienos gali būti apskųstas atitinkamos apygardos administraciniam teismui.
+Straipsnio dalies pakeitimai:
+Nr. XI-925, 2010-06-22, Žin., 2010, Nr. 76-3871 (2010-06-30), i. k. 1101010ISTA00XI-925
+ 
 
 
 
@@ -488,3 +456,8 @@ Lietuvos Respublikos administracinių ginčų komisijų įstatymo 1, 2, 3, 4, 5,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1782, 2008-11-06, Žin., 2008, Nr. 131-5032 (2008-11-15), i. k. 1081010ISTA00X-1782
 Lietuvos Respublikos administracinių ginčų komisijų įstatymo 8 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-925, 2010-06-22, Žin., 2010, Nr. 76-3871 (2010-06-30), i. k. 1101010ISTA00XI-925
+Lietuvos Respublikos administracinių ginčų komisijų įstatymo 2, 3, 5, 6, 18 straipsnių pakeitimo ir 4 straipsnio pripažinimo netekusiu galios įstatymas
