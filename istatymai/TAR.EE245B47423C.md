@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EE245B47423C"
 
 # Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas
 
-Suvestinė redakcija nuo 2008-01-01 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2012-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 104-2363, i. k. 0961010ISTA00I-1553
  
@@ -206,7 +206,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-27. Valstybinė visuomenės sveikatos priežiūros tarnyba prie Sveikatos apsaugos ministerijos (toliau – Tarnyba) – Vyriausybės steigiama valstybės įstaiga, įgyvendinanti visuomenės sveikatos saugos kontrolę, užkrečiamųjų ligų profilaktikos bei kontrolės strategiją ir kitas šiame Įstatyme bei kituose teisės aktuose numatytas užkrečiamųjų ligų profilaktikos ir kontrolės funkcijas ir esanti Europos Bendrijos užkrečiamųjų ligų profilaktikos ir kontrolės tinklo nacionalinė institucija. 
+27. Neteko galios nuo 2010-07-01
+Straipsnio dalies naikinimas:
+Nr. XI-768, 2010-04-20, Žin. 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
 Straipsnio dalies pakeitimai:
 Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
  
@@ -222,9 +224,10 @@ Nr. X-1149, 2007-05-24, Žin. 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA0
 
 
 
-29. Teritorinės visuomenės sveikatos priežiūros įstaigos – Tarnybai pavaldžios teritorinės visuomenės sveikatos priežiūros įstaigos, įgyvendinančios šiame Įstatyme ir kituose teisės aktuose numatytas užkrečiamųjų ligų profilaktikos ir kontrolės funkcijas apskrityse. 
+29. Teritorinės visuomenės sveikatos priežiūros įstaigos – Valstybinei visuomenės sveikatos priežiūros tarnybai prie Sveikatos apsaugos ministerijos (toliau – Tarnyba) pavaldžios teritorinės visuomenės sveikatos priežiūros įstaigos, įgyvendinančios šiame Įstatyme ir kituose teisės aktuose numatytas užkrečiamųjų ligų profilaktikos ir kontrolės funkcijas apskrityse.
 Straipsnio dalies pakeitimai:
 Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
+Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
  
 
 
@@ -370,15 +373,19 @@ Nr. X-1149, 2007-05-24, Žin. 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA0
 3. Užkrečiamųjų ligų epidemiologinę analizę ir prognozę atlieka teritorinės visuomenės sveikatos priežiūros įstaigos. Šios analizės duomenis bei užkrečiamosiomis ligomis sergančiųjų sveikatos priežiūros vertinimą ne rečiau kaip kartą per metus pateikia:
 
 
-1) savivaldybėse savivaldybės gydytojas – savivaldybės administracijos direktoriui ir atitinkamos apskrities gydytojui;
+1) savivaldybėse savivaldybės gydytojas – savivaldybės administracijos direktoriui; 
 Straipsnio punkto pakeitimai:
 Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
+Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
  
 
 
 
 
-2) apskrityse apskrities gydytojas – atitinkamos apskrities viršininkui ir atitinkamos apskrities vyriausiajam epidemiologui;
+2) Neteko galios nuo 2010-07-01
+Straipsnio punkto naikinimas:
+Nr. XI-768, 2010-04-20, Žin. 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
+ 
 
 
 
@@ -832,14 +839,17 @@ Ypatingų epideminių situacijų nustatymo tvarką reglamentuoja šis Įstatymas
 3. Teritorijas skelbia užkrėstomis užkrečiamųjų ligų sukėlėjais ir tokius skelbimus atšaukia:
 
 
-1) visoje Lietuvos Respublikos teritorijoje ar keliose apskrityse – Vyriausybė sveikatos apsaugos ministro teikimu; 
+1) visoje Lietuvos Respublikos teritorijoje ar keliose savivaldybėse – Vyriausybė sveikatos apsaugos ministro teikimu; 
 
 
 
 
-2) vienos apskrities teritorijoje – Vyriausybė bendru apskrities viršininko ir sveikatos apsaugos ministro teikimu. 
+2) vienos savivaldybės teritorijoje – Vyriausybė bendru savivaldybės administracijos direktoriaus ir sveikatos apsaugos ministro teikimu.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
+ 
 
 
 
@@ -870,17 +880,20 @@ Ypatingų epideminių situacijų nustatymo tvarką reglamentuoja šis Įstatymas
 
 
 
-3. Teritorijų karantiną skelbia ir atšaukia, jo dydį, ribas, trukmę bei režimą tvirtina:
+3. Teritorijų karantiną skelbia ir atšaukia, jo dydį, ribas, trukmę ir režimą tvirtina:
 
 
-1) visoje Lietuvos Respublikos teritorijoje ar keliose apskrityse – Vyriausybė sveikatos apsaugos ministro teikimu;
+1) visoje Lietuvos Respublikos teritorijoje ar keliose savivaldybėse – Vyriausybė sveikatos apsaugos ministro teikimu;
 
 
 
 
-2) vienos apskrities teritorijoje – Vyriausybė bendru apskrities viršininko ir sveikatos apsaugos ministro teikimu. 
+2) vienos savivaldybės teritorijoje – Vyriausybė bendru savivaldybės administracijos direktoriaus ir sveikatos apsaugos ministro teikimu. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
+ 
 
 
 
@@ -890,9 +903,10 @@ Ypatingų epideminių situacijų nustatymo tvarką reglamentuoja šis Įstatymas
 
 
 
-5. Teritorijų karantino režimo priemonių įgyvendinimą turi organizuoti apskričių, kurioms priskiriamos savivaldybės, kurių teritorijoje skelbiamas karantinas, viršininkai bei šių savivaldybių administracijos direktoriai. 
+5. Teritorijų karantino režimo priemonių įgyvendinimą turi organizuoti savivaldybių, kurių teritorijoje skelbiamas karantinas, administracijų direktoriai.
 Straipsnio dalies pakeitimai:
 Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
+Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
  
 
 
@@ -972,40 +986,36 @@ UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKOS IR KONTROLĖS FORMAVIMAS IR ĮGYVENDINIMAS
  
 
 
-22 straipsnis. Pavojingų ir ypač pavojingų užkrečiamųjų ligų profilaktikos ir kontrolės strategijos tvirtinimas
+22 straipsnis. Užkrečiamųjų ligų profilaktikos ir kontrolės strateginių krypčių ir priemonių tvirtinimas ir įgyvendinimas
 
 
-Pavojingų ir ypač pavojingų užkrečiamųjų ligų profilaktikos ir kontrolės valstybinę strategiją ir jos įgyvendinimo priemonių planą tvirtina Vyriausybė.
+1. Užkrečiamųjų ligų profilaktikos ir kontrolės strateginės kryptys ir priemonės numatomos Lietuvos nacionalinėje visuomenės sveikatos priežiūros strategijoje ir jos įgyvendinimo priemonių plane. 
+
+
+
+
+2. Valstybės ir savivaldybių institucijos, vadovaudamosi Lietuvos nacionaline visuomenės sveikatos priežiūros strategija ir jos įgyvendinimo priemonių planu ir atsižvelgdamos į Lietuvos Respublikos administracinių teritorinių vienetų higieninę ir gyventojų sveikatos būklę, privalo pagal savo kompetenciją planuoti užkrečiamųjų ligų profilaktikos ir kontrolės organizacines, teisines ir ekonomines priemones, įgyvendinti valstybines ar rengti savivaldybių tikslines užkrečiamųjų ligų profilaktikos ir kontrolės programas ir užtikrinti jų įgyvendinimą.
+
+
+Straipsnio pakeitimai:
+Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
  
 
 
 
 
-
-
-23 straipsnis. Pavojingų ir ypač pavojingų užkrečiamųjų ligų profilaktikos ir kontrolės strategijos įgyvendinimas
-
-
-Vyriausybės institucijos, apskričių viršininkai ir savivaldybių merai, vadovaudamiesi Vyriausybės patvirtintu pavojingų ir ypač pavojingų užkrečiamųjų ligų profilaktikos ir kontrolės valstybinės strategijos priemonių planu, privalo pagal savo kompetenciją planuoti pavojingų ir ypač pavojingų užkrečiamųjų ligų profilaktikos ir kontrolės organizacines, teisines ir ekonomines priemones bei užtikrinti jų įgyvendinimą. Šių priemonių rengimą ir įgyvendinimą koordinuoja Valstybinė sveikatos reikalų komisija prie Lietuvos Respublikos Vyriausybės.
+23 straipsnis. Neteko galios nuo 2010-07-01
+Straipsnio naikinimas:
+Nr. XI-768, 2010-04-20, Žin. 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
  
 
 
 
 
-
-
-24 straipsnis. Pavojingų ir ypač pavojingų užkrečiamųjų ligų profilaktikos ir kontrolės valstybinės, apskričių ir savivaldybių tikslinės programos
-
-
-1. Užkrečiamųjų ligų profilaktikos ir kontrolės valstybinių privalomųjų programų sąrašas, jų rengimo bei įgyvendinimo terminai, rengėjai nustatomi užkrečiamųjų ligų profilaktikos ir kontrolės valstybinės strategijos priemonių plane.
-
-
-
-
-2. Apskričių viršininkai ir savivaldybių merai, vadovaudamiesi Vyriausybės patvirtintu užkrečiamųjų ligų profilaktikos ir kontrolės valstybinės strategijos priemonių planu bei atsižvelgdami į Lietuvos Respublikos administracinių teritorinių vienetų higieninę ir gyventojų sveikatos būklę, privalo pagal savo kompetenciją rengti apskričių ir savivaldybių tikslines pavojingų ir ypač pavojingų užkrečiamųjų ligų profilaktikos ir kontrolės programas bei užtikrinti jų įgyvendinimą.
+24 straipsnis. Neteko galios nuo 2010-07-01
+Straipsnio naikinimas:
+Nr. XI-768, 2010-04-20, Žin. 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
  
-
-
 
 
 
@@ -1025,7 +1035,10 @@ UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKOS IR KONTROLĖS VALDYMO INSTITUCIJOS
 
 
 
-2. Užkrečiamųjų ligų profilaktikos ir kontrolės valdymą apskrityse šio ir kitų įstatymų bei kitų teisės aktų nustatyta tvarka vykdo apskričių viršininkai ir apskričių gydytojai.
+2. Neteko galios nuo 2010-07-01
+Straipsnio dalies naikinimas:
+Nr. XI-768, 2010-04-20, Žin. 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
+ 
 
 
 
@@ -1035,12 +1048,18 @@ UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKOS IR KONTROLĖS VALDYMO INSTITUCIJOS
 
 
 
-4. Lietuvos Respublikoje užkrečiamųjų ligų profilaktikos ir kontrolės priemonių įgyvendinimo valstybinę priežiūrą koordinuoja Sveikatos apsaugos ministerija, o pagal savo kompetenciją vykdo Sveikatos apsaugos ministerijos įstaigos, Valstybinė maisto ir veterinarijos tarnyba, Lietuvos Respublikos vyriausiasis epidemiologas, apskričių gydytojai ir apskričių vyriausieji epidemiologai, savivaldybių gydytojai.
+4. Lietuvos Respublikoje užkrečiamųjų ligų profilaktikos ir kontrolės priemonių įgyvendinimo valstybinę priežiūrą koordinuoja Sveikatos apsaugos ministerija, o pagal savo kompetenciją vykdo Sveikatos apsaugos ministerijos įstaigos, Valstybinė maisto ir veterinarijos tarnyba, Lietuvos Respublikos vyriausiasis epidemiologas, apskričių vyriausieji epidemiologai, savivaldybių gydytojai. 
+Straipsnio dalies pakeitimai:
+Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
+ 
 
 
 
 
-5. Valstybinių tarnybų, vyriausiųjų epidemiologų, apskričių ir savivaldybių gydytojų funkcijas užkrečiamųjų ligų profilaktikos ir kontrolės priemonių valdymo bei šių priemonių įgyvendinimo priežiūros srityje reglamentuoja šis Įstatymas ir kiti teisės aktai.
+5. Valstybinių tarnybų, vyriausiųjų epidemiologų, savivaldybių gydytojų funkcijas užkrečiamųjų ligų profilaktikos ir kontrolės priemonių valdymo bei šių priemonių įgyvendinimo priežiūros srityje reglamentuoja šis Įstatymas ir kiti teisės aktai. 
+Straipsnio dalies pakeitimai:
+Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
+ 
 
 
 
@@ -1053,12 +1072,10 @@ UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKOS IR KONTROLĖS VALDYMO INSTITUCIJOS
 
 
 
-2) įstatymų nustatyta tvarka steigia valstybės valdymo institucijas, kurios įgyvendina užkrečiamųjų ligų profilaktikos ir kontrolės strategiją; 
-
-
-
-
-3) atlieka kitas šio ir kitų įstatymų nustatytas užkrečiamųjų ligų profilaktikos ir kontrolės funkcijas.
+2) atlieka kitas šio ir kitų įstatymų nustatytas užkrečiamųjų ligų profilaktikos ir kontrolės funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
+ 
 
 
 
@@ -1068,12 +1085,18 @@ UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKOS IR KONTROLĖS VALDYMO INSTITUCIJOS
 7. Sveikatos apsaugos ministerija, vykdydama užkrečiamųjų ligų profilaktikos ir kontrolės valdymą:
 
 
-1) pagal savo kompetenciją įgyvendina užkrečiamųjų ligų profilaktikos ir kontrolės valstybinę strategiją, rengia valstybines privalomąsias ir tikslines užkrečiamųjų ligų profilaktikos ir kontrolės programas ir kontroliuoja, kaip jos vykdomos;
+1) pagal savo kompetenciją įgyvendina priemones ir atlieka funkcijas užkrečiamųjų ligų profilaktikos ir kontrolės srityje, rengia valstybines privalomąsias ir tikslines užkrečiamųjų ligų profilaktikos ir kontrolės programas ir kontroliuoja, kaip jos vykdomos; 
+Straipsnio punkto pakeitimai:
+Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
+ 
 
 
 
 
-2) rengia užkrečiamųjų ligų profilaktikos ir kontrolės teisės aktų projektus, pagal savo kompetenciją atlieka ministerijų, kitų Vyriausybės įstaigų, apskrities, savivaldybių vykdomųjų, kitų institucijų teisės aktų, reguliuojančių sveikatos santykius užkrečiamųjų ligų profilaktikos ir kontrolės srityse ar galinčių turėti jiems poveikio, projektų ekspertizę; 
+2) rengia užkrečiamųjų ligų profilaktikos ir kontrolės teisės aktų projektus, pagal savo kompetenciją atlieka ministerijų, kitų Vyriausybės įstaigų, savivaldybių vykdomųjų, kitų institucijų teisės aktų, reguliuojančių sveikatos santykius užkrečiamųjų ligų profilaktikos ir kontrolės srityse ar galinčių turėti jiems poveikio, projektų ekspertizę; 
+Straipsnio punkto pakeitimai:
+Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
+ 
 
 
 
@@ -1110,28 +1133,10 @@ UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKOS IR KONTROLĖS VALDYMO INSTITUCIJOS
 
 
 
-8. Apskrities viršininkas, įgyvendindamas savo apskrities teritorijoje užkrečiamųjų ligų profilaktikos ir kontrolės valstybės politikos programą:
-
-
-1) organizuoja užkrečiamųjų ligų profilaktikos ir kontrolės valstybinių privalomųjų ir tikslinių programų įgyvendinimą;
-
-
-
-
-2) organizuoja užkrečiamųjų ligų profilaktikos ir kontrolės apskrities tikslinių programų rengimą ir įgyvendinimą; 
-
-
-
-
-3) analizuoja, kaip savivaldybių merai pagal šio ir kitų įstatymų nustatytą kompetenciją įgyvendina užkrečiamųjų ligų kontrolę ir profilaktiką;
-
-
-
-
-4) atlieka kitas šio ir kitų įstatymų nustatytas funkcijas užkrečiamųjų ligų profilaktikos ir kontrolės srityse.
+8. Neteko galios nuo 2010-07-01
+Straipsnio dalies naikinimas:
+Nr. XI-768, 2010-04-20, Žin. 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
  
-
-
 
 
 
@@ -1406,7 +1411,23 @@ Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA
 
 
 
-4) Lietuvos Respublikos vyriausiojo epidemiologo ar apskrities (regiono) vyriausiojo epidemiologo sprendimu, padedamas policijos, patekti į pavojinga ar ypač pavojinga užkrečiamąja liga susirgusio, įtariamo, kad serga, asmens būstą be jo sutikimo, kai reikia gelbėti šio asmens ir aplinkinių gyvybę ar sveikatą.
+4) Lietuvos Respublikos vyriausiojo epidemiologo ar apskrities (regiono) vyriausiojo epidemiologo sprendimu, padedamas policijos, patekti į pavojinga ar ypač pavojinga užkrečiamąja liga susirgusio, įtariamo, kad serga, asmens būstą be jo sutikimo, kai reikia gelbėti šio asmens ir aplinkinių gyvybę ar sveikatą;
+
+
+
+
+5) organizuoti privalomų valstybinių programų užkrečiamųjų ligų klausimais įgyvendinimą savivaldybėje, nagrinėti šių programų įgyvendinimo eigą; 
+Papildyta straipsnio punktu:
+Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
+ 
+
+
+
+
+6) koordinuoti savivaldybėje veikiančių sveikatos priežiūros įstaigų pasirengimą ir veiksmus užkrečiamųjų ligų ekstremaliosiose situacijose.
+Papildyta straipsnio punktu:
+Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
+ 
 
 
 
@@ -1421,27 +1442,9 @@ Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA
 
 
 
-30 straipsnis. Apskrities gydytojo teisės užkrečiamųjų ligų profilaktikos ir kontrolės srityje
-
-
-1. Apskrities gydytojas turi šias teises ir pareigas užkrečiamųjų ligų profilaktikos ir kontrolės srityje: 1) lankydamasis teritorijos asmens sveikatos priežiūros, švietimo ir socialinės rūpybos įstaigose, susipažinti su jų darbo organizavimu, apklausti sveikatos priežiūros įstaigų darbuotojus bei pacientus ir gauti kitą informaciją, kurios reikia vykdant priešepidemines priemones, vertinant medicininės pagalbos prieinamumą ir užkrečiamųjų ligų diagnostikos kokybę;
-
-
-2) organizuoti privalomų valstybinių programų užkrečiamųjų ligų klausimais vykdymą apskrityje, nagrinėti šių programų vykdymo eigą apskrities savivaldybėse;
-
-
-
-
-3) koordinuoti apskrityje veikiančių sveikatos priežiūros įstaigų pasirengimą ir veiksmus užkrečiamųjų ligų ekstremaliose situacijose.
-
-
-
-
-
-
-2. Apskrities gydytojas gali turėti ir kitų teisių bei pareigų užkrečiamųjų ligų profilaktikos ir kontrolės srityje, numatytų kituose Lietuvos Respublikos teisės aktuose.
-
-
+30 straipsnis. Neteko galios nuo 2010-07-01
+Straipsnio naikinimas:
+Nr. XI-768, 2010-04-20, Žin. 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
 Straipsnio pakeitimai:
 Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
  
@@ -1788,3 +1791,8 @@ Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA00X-1149
 Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo 2, 3, 4, 5, 7, 8, 21, 26, 27, 28, 29, 30, 31, 37 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-768, 2010-04-20, Žin., 2010, Nr. 51-2478 (2010-05-04), i. k. 1101010ISTA00XI-768
+Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo 2, 5, 20, 21, 22, 25, 29 straipsnių pakeitimo ir papildymo ir 23, 24, 30 straipsnių pripažinimo netekusiais galios įstatymas
