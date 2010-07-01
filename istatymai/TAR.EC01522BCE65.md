@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC01522BCE65"
 
 # Lietuvos Respublikos Seimo kontrolierių įstatymas
 
-Suvestinė redakcija nuo 2010-05-31 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2012-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 110-3024, i. k. 0981010ISTAVIII-950
  
@@ -167,9 +167,10 @@ Nr. XI-667, 2010-01-21, Žin., 2010, Nr. 15-700 (2010-02-04), i. k. 1101010ISTA0
 
 
 
-2. Seimas skiria vieną Seimo kontrolierių valstybės institucijų ir įstaigų pareigūnų veiklai tirti ir vieną Seimo kontrolierių apskričių viršininkų administracijų bei savivaldybių institucijų ir įstaigų pareigūnų veiklai tirti.
+2. Seimas skiria vieną Seimo kontrolierių valstybės institucijų ir įstaigų pareigūnų veiklai tirti ir vieną Seimo kontrolierių savivaldybių institucijų ir įstaigų pareigūnų veiklai tirti.
 Straipsnio dalies pakeitimai:
 Nr. XI-667, 2010-01-21, Žin., 2010, Nr. 15-700 (2010-02-04), i. k. 1101010ISTA00XI-667
+Nr. XI-741, 2010-04-13, Žin., 2010, Nr. 48-2291 (2010-04-27), i. k. 1101010ISTA00XI-741
  
 
 
@@ -540,7 +541,10 @@ Skundas turi būti ištirtas ir pareiškėjui atsakyta per 3 mėnesius nuo skund
 
 
 
-6) pasitelkti Vyriausybės įstaigų, taip pat ministerijų, apskričių bei savivaldybių pareigūnus, apskričių viršininkų administracijų ir savivaldybių institucijų ir įstaigų pareigūnus bei ekspertus;
+6) pasitelkti Vyriausybės įstaigų, taip pat ministerijų, savivaldybių pareigūnus, savivaldybių institucijų ir įstaigų pareigūnus bei ekspertus;
+Straipsnio punkto pakeitimai:
+Nr. XI-741, 2010-04-13, Žin., 2010, Nr. 48-2291 (2010-04-27), i. k. 1101010ISTA00XI-741
+ 
 
 
 
@@ -950,3 +954,8 @@ Lietuvos Respublikos Seimo kontrolierių įstatymo 7, 25, 28 straipsnių pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-808, 2010-05-13, Žin., 2010, Nr. 63-3087 (2010-05-31), i. k. 1101010ISTA00XI-808
 Lietuvos Respublikos Seimo kontrolierių įstatymo 21 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-741, 2010-04-13, Žin., 2010, Nr. 48-2291 (2010-04-27), i. k. 1101010ISTA00XI-741
+Lietuvos Respublikos Seimo kontrolierių įstatymo 7 ir 19 straipsnių pakeitimo įstatymas
