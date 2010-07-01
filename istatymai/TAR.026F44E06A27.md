@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.026F44E06A27"
 
 # Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymas
 
-Suvestinė redakcija nuo 1999-12-31 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2010-11-22
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 54-1048, i. k. 0931010ISTA000I-270
  
@@ -38,10 +38,12 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas nustato oficialiosios statistikos organizavimo bendruosius principus, fizinių ir juridinių asmenų bei juridinio asmens teisių neturinčių įmonių teises ir pareigas teikiant duomenis statistikos reikmėms, valstybės ir vietos savivaldos institucijų bei įstaigų teises ir pareigas tvarkant bei naudojant statistinius duomenis, jų apsaugą, taip pat atsakomybę už šio įstatymo pažeidimus.
+Šis įstatymas nustato oficialiosios statistikos organizavimo bendruosius principus, fizinių ir juridinių asmenų bei juridinio asmens teisių neturinčių įmonių teises ir pareigas teikiant duomenis statistikos reikmėms, valstybės ir savivaldybių institucijų bei įstaigų teises ir pareigas tvarkant bei naudojant statistinius duomenis, jų apsaugą, taip pat atsakomybę už šio įstatymo pažeidimus. 
+
+
+Straipsnio pakeitimai:
+Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA00XI-774
  
-
-
 
 
 
@@ -49,7 +51,10 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Oficialioji statistika – valstybės ir vietos savivaldos institucijų ir įstaigų valstybės reikmėms skirtų statistinių duomenų apie ekonominius, demografinius procesus, socialinius veiksnius ir visuomeninius bei aplinkos pokyčius rinkimo, tvarkymo ir statistinės informacijos skelbimo pagal Oficialiosios statistikos darbų programą sistema.
+1. Oficialioji statistika – valstybės ir savivaldybių institucijų ir įstaigų valstybės reikmėms skirtų statistinių duomenų apie ekonominius, demografinius procesus, socialinius veiksnius ir visuomeninius bei aplinkos pokyčius rinkimo, tvarkymo ir statistinės informacijos skelbimo pagal Oficialiosios statistikos darbų programą sistema. 
+Straipsnio dalies pakeitimai:
+Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA00XI-774
+ 
 
 
 
@@ -94,7 +99,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-10. Oficialiosios statistikos darbų programa – statistikos darbų (tyrimų), būtinų valstybės valdymui ir visuomenės reikmėms, pavedamų vykdyti Statistikos departamentui prie Lietuvos Respublikos Vyriausybės (toliau – Statistikos departamentas), jo teritorinėms įstaigoms, kitoms valstybės ir vietos savivaldos institucijoms bei įstaigoms, sąrašas, kuriame nurodoma už darbo atlikimą atsakinga institucija, darbo pavadinimas, atlikimo periodiškumas, būdas ir rezultatų pateikimo laikas.
+10. Oficialiosios statistikos darbų programa – statistikos darbų (tyrimų), būtinų valstybės valdymui ir visuomenės reikmėms, pavedamų vykdyti Statistikos departamentui prie Lietuvos Respublikos Vyriausybės (toliau – Statistikos departamentas), jo teritorinėms įstaigoms, kitoms valstybės ir savivaldybių institucijoms bei įstaigoms, sąrašas, kuriame nurodoma už darbo atlikimą atsakinga institucija, darbo pavadinimas, atlikimo periodiškumas, būdas ir rezultatų pateikimo laikas. 
+Straipsnio dalies pakeitimai:
+Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA00XI-774
  
 
 
@@ -108,7 +115,10 @@ BENDROSIOS NUOSTATOS
 Šis įstatymas taikomas:
 
 
-1) valstybės ir vietos savivaldos institucijoms ir įstaigoms;
+1) valstybės ir savivaldybių institucijoms ir įstaigoms; 
+Straipsnio punkto pakeitimai:
+Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA00XI-774
+ 
 
 
 
@@ -200,7 +210,10 @@ Pagrindiniai oficialiąją statistiką tvarkančių institucijų ir įstaigų u�
 
 
 
-4) teikti statistinę informaciją valstybės ir vietos savivaldos institucijoms ir įstaigoms, mokslo įstaigoms, Europos bendrijų statistikos tarnybai (EUROSTAT) ir kitoms tarptautinėms organizacijoms pagal tarptautinius susitarimus;
+4) teikti statistinę informaciją valstybės ir savivaldybių institucijoms ir įstaigoms, mokslo įstaigoms, Europos bendrijų statistikos tarnybai (EUROSTAT) ir kitoms tarptautinėms organizacijoms pagal tarptautinius susitarimus; 
+Straipsnio punkto pakeitimai:
+Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA00XI-774
+ 
 
 
 
@@ -238,7 +251,9 @@ Oficialiąją statistiką Lietuvos Respublikoje tvarko:
 
 
 
-3) ministerijos, kitos valstybės ir vietos savivaldos institucijos, įstaigos, taip pat Lietuvos bankas, jeigu tai numatyta Oficialiosios statistikos darbų programoje.
+3) ministerijos, kitos valstybės ir savivaldybių institucijos, įstaigos, taip pat Lietuvos bankas, jeigu tai numatyta Oficialiosios statistikos darbų programoje. 
+Straipsnio punkto pakeitimai:
+Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA00XI-774
  
 
 
@@ -275,7 +290,10 @@ Oficialiąją statistiką Lietuvos Respublikoje tvarko:
 Statistikos departamentas, atlikdamas statistinius tyrimus, turi teisę:
 
 
-1) iš valstybės ir vietos savivaldos institucijų ir įstaigų gauti informaciją apie numatomus statistinius tyrimus Oficialiosios statistikos darbų programai rengti;
+1) iš valstybės ir savivaldybių institucijų ir įstaigų gauti informaciją apie numatomus statistinius tyrimus Oficialiosios statistikos darbų programai rengti; 
+Straipsnio punkto pakeitimai:
+Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA00XI-774
+ 
 
 
 
@@ -326,7 +344,10 @@ Statistikos departamentas, atlikdamas statistinius tyrimus, turi teisę:
 2. Statistikos departamento teritorinės statistikos įstaigos:
 
 
-1) atlieka statistikos darbus, numatytus Oficialiosios statistikos darbų programoje, taip pat gali atlikti kitus statistikos darbus, kuriuos užsako ir finansuoja apskrities viršininko administracija ar vietos savivaldos institucija;
+1) atlieka statistikos darbus, numatytus Oficialiosios statistikos darbų programoje, taip pat gali atlikti kitus statistikos darbus, kuriuos užsako ir finansuoja savivaldybės institucija; 
+Straipsnio punkto pakeitimai:
+Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA00XI-774
+ 
 
 
 
@@ -336,7 +357,10 @@ Statistikos departamentas, atlikdamas statistinius tyrimus, turi teisę:
 
 
 
-3) teikia apskričių viršininkams ir vietos savivaldos institucijoms bei įstaigoms statistinę informaciją;
+3) teikia savivaldybių institucijoms bei įstaigoms statistinę informaciją; 
+Straipsnio punkto pakeitimai:
+Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA00XI-774
+ 
 
 
 
@@ -400,7 +424,9 @@ Statistikos departamentas, atlikdamas statistinius tyrimus, turi teisę:
 
 
 
-2. Statistikos tarybą sudaro valstybės ir vietos savivaldos institucijų, įstaigų, tvarkančių statistiką, mokslo įstaigų, visuomeninių organizacijų, įmonių, kitų respondentų bei visuomenės informavimo priemonių atstovai. Statistikos tarybos sudėtį ir nuostatus tvirtina Vyriausybė.
+2. Statistikos tarybą sudaro valstybės ir savivaldybių institucijų, įstaigų, tvarkančių statistiką, mokslo įstaigų, visuomeninių organizacijų, įmonių, kitų respondentų bei visuomenės informavimo priemonių atstovai. Statistikos tarybos sudėtį ir nuostatus tvirtina Vyriausybė. 
+Straipsnio dalies pakeitimai:
+Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA00XI-774
  
 
 
@@ -419,7 +445,10 @@ Statistikos departamentas, atlikdamas statistinius tyrimus, turi teisę:
 
 
 
-2) mokesčių, muitinių, švietimo, sveikatos, darbo biržos, socialinės apsaugos ir komunalinio ūkio, Lietuvos banko informacinės sistemos, valstybės registrai, taip pat apskričių viršininkų, vietos savivaldos institucijų ir įstaigų sukaupti administracinių tvarkomųjų bei asmens dokumentų duomenys.
+2) mokesčių, muitinių, švietimo, sveikatos, darbo biržos, socialinės apsaugos ir komunalinio ūkio, Lietuvos banko informacinės sistemos, valstybės registrai, taip pat savivaldybių institucijų ir įstaigų sukaupti administracinių tvarkomųjų bei asmens dokumentų duomenys. 
+Straipsnio punkto pakeitimai:
+Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA00XI-774
+ 
 
 
 
@@ -559,7 +588,10 @@ OFICIALIOSIOS STATISTINĖS INFORMACIJOS NAUDOJIMAS
 
 
 
-2. Statistikos departamento ir kitų statistiką tvarkančių institucijų, įstaigų leidiniuose paskelbti arba valstybės bei vietos savivaldos institucijoms pateikti duomenys negali būti skelbiami be nuorodos į duomenis pateikusią statistiką tvarkančią instituciją ar įstaigą.
+2. Statistikos departamento ir kitų statistiką tvarkančių institucijų, įstaigų leidiniuose paskelbti arba valstybės bei savivaldybių institucijoms pateikti duomenys negali būti skelbiami be nuorodos į duomenis pateikusią statistiką tvarkančią instituciją ar įstaigą. 
+Straipsnio dalies pakeitimai:
+Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA00XI-774
+ 
 
 
 
@@ -653,3 +685,8 @@ Lietuvos Respublikos statistikos įstatymo 8, 9, 10, 12 straipsnių pakeitimo į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1511, 1999-12-23, Žin., 1999, Nr. 114-3299 (1999-12-31), i. k. 0991010ISTAIII-1511
 Lietuvos Respublikos statistikos įstatymo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA00XI-774
+Lietuvos Respublikos statistikos įstatymo 1, 2, 3, 5, 6, 8, 9, 11, 12 ir 16 straipsnių pakeitimo įstatymas
