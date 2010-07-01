@@ -23,7 +23,6 @@ paskelbtas: Žin., 1996, Nr.
 14-352
 Neoficialus
 įstatymo tekstas
- 
 LIETUVOS
 RESPUBLIKOS
 KILNOJAMŲJŲ
@@ -48,11 +47,15 @@ straipsnis. Įstatymo paskirtis
 administravimą, kilnojamųjų kultūros vertybių apskaitą, saugojimą, kultūros
 objektų savininkų ir valdytojų pasikeitimą, kilnojamųjų kultūros vertybių ir
 antikvarinių daiktų išvežimą iš Lietuvos Respublikos ir įvežimą į Lietuvos
-Respubliką, neteisėtai išvežtų iš užsienio kilnojamųjų kultūros vertybių ir
-kitų kultūros objektų grąžinimą.
+Respubliką, neteisėtai išvežtų iš užsienio kultūros objektų grąžinimą.
 2. Šio įstatymo
 nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo
 priede.
+Straipsnio
+pakeitimai:
+Nr.
+XI-780,
+2010-04-27, Žin., 2010, Nr. 54-2643 (2010-05-11)
  
 2
 straipsnis. Pagrindinės šio įstatymo sąvokos
@@ -147,8 +150,8 @@ istorinių ar religinių objektų dalys;
 ir kino juostos, jų negatyvai;
 13) dokumentai,
 sukurti ant bet kokio pagrindo;
-14)
-antikvariniai daiktai.
+14) antikvariniai
+daiktai.
  
 ANTRASIS SKIRSNIS
 KILNOJAMŲJŲ
@@ -163,8 +166,8 @@ srityje nustato Valstybinės kultūros paveldo komisijos įstatymas.
 2. Lietuvos
 Respublikos kultūros ministerija (toliau – Kultūros ministerija):
 1) dalyvauja
-formuojant ir įgyvendinant kilnojamųjų kultūros vertybių apsaugos politiką,
-atsižvelgdama į Valstybinės kultūros paveldo komisijos teikiamus siūlymus; 
+formuojant ir įgyvendinant kilnojamųjų kultūros vertybių apsaugos politiką, atsižvelgdama
+į Valstybinės kultūros paveldo komisijos teikiamus siūlymus; 
 2) rengia įstatymų ir kitų teisės aktų, reglamentuojančių kilnojamųjų
 kultūros vertybių apsaugą, projektus;
 3) nustato siūlomų įrašyti į Kultūros vertybių registrą kilnojamųjų
@@ -180,8 +183,7 @@ atestavimo komisijos nuostatus ir jos sudėtį, Kilnojamųjų kultūros vertybi�
 išvežimo tarybos nuostatus ir jos sudėtį, Kilnojamųjų kultūros vertybių
 vertinimo komisijos nuostatus ir jos sudėtį;
 6) nustato kilnojamųjų kultūros vertybių (išskyrus Nacionalinio
-dokumentų fondo dokumentus) apskaitos, saugojimo, konservavimo, restauravimo
-tvarką; 
+dokumentų fondo dokumentus) tyrimo, konservavimo ir restauravimo tvarką;
 7) dalyvauja formuojant neteisėtai iš Lietuvos Respublikos ir užsienio
 valstybių išvežtų kilnojamųjų kultūros vertybių paieškos politiką, nustato
 paieškos darbų kryptis ir prioritetus; 
@@ -197,8 +199,8 @@ antikvariniams daiktams išpirkti;
 prie Kultūros ministerijos (toliau – Kultūros paveldo departamentas):
 1) įgyvendina valstybinę kilnojamųjų kultūros vertybių, įrašytų į
 Kultūros vertybių registrą, apsaugos politiką;
-2) rengia teisės aktų, reglamentuojančių į Kultūros vertybių registrą
-įrašytų kilnojamųjų kultūros vertybių apsaugą, projektus;
+2) rengia teisės aktų, reglamentuojančių į Kultūros vertybių registrą įrašytų
+kilnojamųjų kultūros vertybių apsaugą, projektus;
 3) vykdo
 Kultūros vertybių registro tvarkymo įstaigos funkcijas;
 4) rengia, tvirtina, pildo ir išduoda į Kultūros vertybių registrą
@@ -225,17 +227,18 @@ departamentui skiriamų valstybės biudžeto asignavimų. Šių darbų ar jų da
 įmonėms ir organizacijoms; 
 8) išduoda leidimus išvežti iš Lietuvos Respublikos kilnojamąsias
 kultūros vertybes ir antikvarinius daiktus;
-9) išduoda
-licencijas prekiauti antikvariniais daiktais;
+9) (neteko
+galios);
 10)
 kontroliuoja, kaip laikomasi prekybos antikvariniais daiktais taisyklių; 
 11)
 kontroliuoja, kaip saugomos į Kultūros vertybių registrą įrašytos kilnojamosios
 kultūros vertybės;
 12) kontroliuoja, kaip laikomasi į Kultūros vertybių registrą įrašytų
-kilnojamųjų kultūros vertybių restauravimo ir konservavimo tvarkos;
-13) dalyvauja kilnojamųjų kultūros vertybių ir antikvarinių daiktų
-pardavimo viešuose aukcionuose vertinimo komisijų darbe;
+kilnojamųjų kultūros vertybių tyrimo, konservavimo ir restauravimo tvarkos;
+13) teikia kilnojamųjų kultūros vertybių ir antikvarinių
+daiktų aukcionų rengėjams išvadas dėl aukcionuose parduodamų kultūros
+objektų išvežimo iš Lietuvos Respublikos sąlygų;
 14) organizuoja
 Lietuvos Respublikoje dingusių ar pavogtų kilnojamųjų kultūros vertybių ir
 antikvarinių daiktų įkainojimą, antikvarinių daiktų kultūrinės vertės
@@ -244,9 +247,10 @@ išvežtų kilnojamųjų kultūros vertybių įkainojimą;
 15) organizuoja
 paveldimų antikvarinių meno kūrinių, meno kūrinių, kilnojamųjų kultūros
 vertybių įkainojimą, kartu su Lietuvos prabavimo rūmais organizuoja paveldėtų
-antikvarinių tauriųjų metalų gaminių ir antikvarinių brangakmenių įkainojimą,
-išduoda asmenims Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų
-ministerijos nustatytos formos pažymą apie paveldėto turto vertę;
+antikvarinių tauriųjų metalų gaminių ir antikvarinių brangakmenių gaminių
+įkainojimą, išduoda asmenims Valstybinės mokesčių inspekcijos prie Lietuvos
+Respublikos finansų ministerijos nustatytos formos pažymą apie paveldėto turto
+vertę;
 16) organizuoja ir finansuoja Lietuvai reikšmingų kultūros objektų,
 esančių užsienyje, paiešką ir grąžinimą, istorinės apžvalgos rengimą, kaupia ir
 sistemina informaciją apie juos, organizuoja ir finansuoja leidinių apie
@@ -261,8 +265,7 @@ funkcijas.
 Respublikos Vyriausybės (toliau – Lietuvos archyvų departamentas) kompetenciją
 kilnojamųjų kultūros vertybių – dokumentų apsaugos srityje nustato Dokumentų ir
 archyvų įstatymas. 
-5. Apskrities viršininko kompetenciją kilnojamųjų
-kultūros vertybių apsaugos srityje nustato Apskrities valdymo įstatymas.
+5. (neteko galios).
 6. Savivaldybės kilnojamųjų kultūros vertybių
 apsaugos srityje:
 1) atsako už savivaldybei nuosavybės teise
@@ -272,9 +275,12 @@ nuosavybės teise priklausančių kilnojamųjų kultūros vertybių tyrimo,
 konservavimo, restauravimo ir apsaugos priemonių įrengimo programas;
 3) pagal kompetenciją atlieka kituose įstatymuose ir
 teisės aktuose nustatytas funkcijas.
+Straipsnio
+pakeitimai:
+Nr.
+XI-780,
+2010-04-27, Žin., 2010, Nr. 54-2643 (2010-05-11)
  
-
-
 TREČIASIS SKIRSNIS
 KILNOJAMŲJŲ KULTŪROS VERTYBIŲ APSKAITA
  
@@ -286,15 +292,15 @@ būti įtraukiami į valstybinę kilnojamųjų kultūros vertybių apskaitą, ku
 sudaro:
 1) muziejų ir bibliotekų kilnojamųjų kultūros vertybių apskaitos
 dokumentai;
-2) Nacionalinio dokumentų
-fondo apskaitos dokumentai;
+2) Nacionalinio
+dokumentų fondo apskaitos dokumentai;
 3) Kultūros
 vertybių registras.
 2. Kilnojamųjų kultūros vertybių, saugomų muziejuose ir bibliotekose,
 apskaitos tvarką nustato kultūros ministras.
-3. Dokumentų, kurie yra kilnojamosios kultūros vertybės ir priklauso Nacionaliniam
-dokumentų fondui, apskaitą ir saugojimą reglamentuoja Dokumentų ir archyvų
-įstatymas ir kiti teisės aktai.
+3. Dokumentų, kurie yra kilnojamosios kultūros vertybės ir priklauso
+Nacionaliniam dokumentų fondui, apskaitą ir saugojimą reglamentuoja Dokumentų
+ir archyvų įstatymas ir kiti teisės aktai.
 4. Kultūros vertybių registras tvarkomas Valstybės registrų įstatymo,
 Nekilnojamojo kultūros paveldo apsaugos įstatymo, šio įstatymo, Kultūros
 vertybių registro nuostatų, kuriuos tvirtina Vyriausybė, ir kitų teisės aktų
@@ -314,8 +320,8 @@ ministras, remdamasis Kilnojamųjų kultūros vertybių vertinimo komisijos išv
 pritarus Valstybinei kultūros paveldo komisijai, priima sprendimą įrašyti į
 Kultūros vertybių registrą arba išbraukti iš Kultūros vertybių registro šio
 įstatymo 3 straipsnyje išvardytus kilnojamuosius daiktus, atitinkančius
-Kultūros ministerijos nustatytus į Kultūros vertybių registrą įrašomų
-kilnojamųjų daiktų vertinimo kriterijus. 
+Kultūros ministerijos nustatytus į Kultūros vertybių registrą įrašomų kilnojamųjų
+daiktų vertinimo kriterijus. 
 2. Išimties atvejais, kai gresia šio įstatymo 3 straipsnyje nurodyto
 kilnojamojo daikto sunaikinimas ar kitoks jo praradimas, kultūros ministras
 turi teisę šį daiktą įrašyti į Kultūros vertybių registrą nesilaikydamas šio
@@ -323,10 +329,9 @@ straipsnio 1 dalies nustatytos tvarkos.
 3. Kilnojamąjį
 daiktą įrašyti į Kultūros vertybių registrą gali siūlyti savininkas, Valstybinė
 kultūros paveldo komisija, Kultūros ministerija, Kultūros paveldo
-departamentas, Lietuvos archyvų departamentas, apskrities viršininkas,
-savivaldybė. Jeigu kilnojamasis daiktas neįrašomas į Kultūros vertybių
-registrą, kultūros ministras siūlymą pateikusiam asmeniui ar institucijai turi
-duoti motyvuotą atsakymą.
+departamentas, Lietuvos archyvų departamentas, savivaldybė. Jeigu kilnojamasis
+daiktas neįrašomas į Kultūros vertybių registrą, kultūros ministras siūlymą
+pateikusiam asmeniui ar institucijai turi duoti motyvuotą atsakymą.
 4.
 Įrašytos į Kultūros vertybių registrą kilnojamosios kultūros vertybės
 savininkui išduodamas kilnojamosios kultūros vertybės apsaugos reglamentas ir
@@ -345,8 +350,13 @@ vertinimo komisija nustato, kad kilnojamoji kultūros vertybė:
 1) sunyko ar buvo sunaikinta;
 2) neturi arba neteko kultūrinės vertės.
 7. Kultūros vertybių registro duomenys yra vieši, išskyrus asmens
-duomenis. Kilnojamosios kultūros vertybės savininkas gali uždrausti skelbti
-esančios Kultūros vertybių registre kilnojamosios kultūros vertybės adresą.
+duomenis. Kilnojamosios kultūros vertybės savininkas gali uždrausti skelbti esančios
+Kultūros vertybių registre kilnojamosios kultūros vertybės adresą.
+Straipsnio
+pakeitimai:
+Nr.
+XI-780,
+2010-04-27, Žin., 2010, Nr. 54-2643 (2010-05-11)
  
 7 straipsnis. Juridinių asmenų kilnojamųjų daiktų,
 turinčių kultūrinę vertę, sąrašai
@@ -396,8 +406,8 @@ pritarus Valstybinei kultūros paveldo komisijai, Vyriausybė nutarimu skelbia
 kultūros paminklais.
 2. Sprendimas
 dėl kilnojamosios kultūros vertybės paskelbimo kultūros paminklu gali
-būti panaikintas Vyriausybės nutarimu, laikantis šio straipsnio 1 dalyje nustatytos
-tvarkos.
+būti panaikintas Vyriausybės nutarimu, laikantis šio straipsnio 1 dalyje
+nustatytos tvarkos.
  
 10 straipsnis. Kompensavimas kilnojamųjų kultūros vertybių savininkams 
 Į Kultūros
@@ -421,9 +431,13 @@ vertybės, kuri yra viena iš nekilnojamojo kultūros paveldo statinio vertingų
 savybių, ir dailės nekilnojamojo kultūros paveldo objektų tyrimo, konservavimo
 ir restauravimo programas, kontroliuoja darbų procesą ir kokybę ir priima
 darbą. 
-3. Kultūros
-ministerija nustato tyrimo, konservavimo ir restauravimo tvarką, o Kultūros
-paveldo departamentas kontroliuoja, kaip jos laikomasi.
+3. (neteko
+galios).
+Straipsnio
+pakeitimai:
+Nr.
+XI-780,
+2010-04-27, Žin., 2010, Nr. 54-2643 (2010-05-11)
  
 PENKTASIS
 SKIRSNIS
@@ -439,8 +453,8 @@ norėdamas ją parduoti ar kitaip perduoti, privalo įspėti būsimą savininką
 valdytoją apie šios vertybės statusą ir kilnojamosios kultūros vertybės
 apsaugos reglamento reikalavimus. Sudaręs sandorį, kilnojamosios kultūros
 vertybės buvęs savininkas per 15 dienų privalo raštu informuoti Kultūros
-paveldo departamentą apie savininko arba valdytojo pasikeitimą. Buvęs savininkas
-perduoda naujajam savininkui kilnojamosios kultūros vertybės pasą ir
+paveldo departamentą apie savininko arba valdytojo pasikeitimą. Buvęs
+savininkas perduoda naujajam savininkui kilnojamosios kultūros vertybės pasą ir
 kilnojamosios kultūros vertybės apsaugos reglamentą, o valdytojui – minėtų
 dokumentų kopijas. Perdavimo metu buvęs savininkas ir naujasis savininkas arba
 valdytojas surašo kilnojamosios kultūros vertybės būklės įvertinimo aktą.
@@ -453,41 +467,60 @@ kilnojamosios kultūros vertybės pasą.
 kilnojamosios kultūros vertybės pasą naująjį savininką ir jam išduoda šios
 vertybės apsaugos reglamentą.
 4. Visi žemėje, jos paviršiuje, vandenyje, pastatuose
-bei statiniuose arba jų dalyse rasti šio įstatymo 3 straipsnyje nurodyti
+ir statiniuose arba jų dalyse rasti šio įstatymo 3 straipsnyje nurodyti
 kilnojamieji daiktai, turintys kultūrinę vertę, kurių savininkas arba
-valdytojas negali būti nustatytas arba pagal įstatymą yra netekęs teisės į
-juos, pereina valstybės nuosavybėn. Asmeniui, radusiam ir perdavusiam šio
-įstatymo 3 straipsnyje nurodytus kilnojamuosius daiktus, Lietuvos Respublikos
-teisės aktų nustatyta tvarka išmokamas atlyginimas.
+valdytojas negali būti nustatytas arba pagal įstatymus yra netekęs teisės į
+juos, pereina valstybės nuosavybėn. Ieškoti tokių daiktų vykdant kasinėjimus ar
+naudojantis metalo ieškikliais arba bet kokia kita paieškos įranga galima tik
+Nekilnojamojo kultūros paveldo apsaugos įstatymo nustatyta tvarka gavus
+leidimą. Asmenys, atsitiktinai radę šio įstatymo 3 straipsnyje nurodytus
+kilnojamuosius daiktus, privalo per savaitę juos pateikti įvertinti Kultūros
+paveldo departamentui. Už istorinę, kultūrinę ar archeologinę vertę turinčius
+radinius Lietuvos Respublikos teisės aktų nustatytais atvejais ir tvarka
+išmokamas atlyginimas.
+Straipsnio
+pakeitimai:
+Nr.
+XI-780,
+2010-04-27, Žin., 2010, Nr. 54-2643 (2010-05-11)
  
 13
 straipsnis. Prekyba antikvariniais daiktais
-1. Juridinis asmuo, norintis gauti licenciją prekiauti antikvariniais
-daiktais, steigimo dokumentuose turi nurodyti šią veiklos rūšį ir turėti šiai
-veiklos rūšiai tinkamas patalpas. Prekiauti antikvariniais daiktais galima tik gavus
-Kultūros paveldo departamento išduotą licenciją. Licencijų išdavimo tvarką
-nustato Vyriausybė.
-2. Prekybos
-antikvariniais daiktais taisykles nustato Vyriausybė.
+1. Lietuvos Respublikos ar valstybės narės pilietis, kitas fizinis
+asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo
+Europos Sąjungos valstybėse narėse ar kitose Europos ekonominės erdvės
+valstybėse teisėmis, arba Lietuvos Respublikoje įsteigtas juridinis asmuo,
+Europos Sąjungos valstybėje narėje ar kitoje Europos ekonominės erdvės valstybėje
+įsteigtas juridinis asmuo ar kita organizacija, ar jų filialai ir (arba) kitose
+užsienio valstybėse įsteigtų juridinių asmenų ar kitų organizacijų filialai
+Lietuvos Respublikoje antikvarinių daiktų prekyba gali verstis laikydamiesi
+Vyriausybės nustatytų prekybos antikvariniais daiktais taisyklių. Prekiauti
+antikvariniais daiktais galima tik gavus Kultūros paveldo departamento išduotą licenciją.
+Licencijų išdavimo tvarką nustato Vyriausybė.
+2. (neteko
+galios).
 3. Kultūros
-paveldo departamentas turi teisę 15 dienų sustabdyti antikvarinio daikto pardavimą,
-jeigu kyla įtarimas dėl jo pardavimo teisėtumo arba svarbos Lietuvos kultūros
-paveldui. Jeigu per 15 dienų Kilnojamųjų kultūros vertybių vertinimo komisija
-nustato, kad antikvarinis daiktas yra svarbus Lietuvos kultūros paveldui, jis
-gali būti valstybės išperkamas arba savininkui sutikus įrašomas į Kultūros
-vertybių registrą.
+paveldo departamentas turi teisę 15 dienų sustabdyti antikvarinio daikto
+pardavimą, jeigu kyla įtarimas dėl jo pardavimo teisėtumo arba svarbos Lietuvos
+kultūros paveldui. Jeigu per 15 dienų Kilnojamųjų kultūros vertybių vertinimo
+komisija nustato, kad antikvarinis daiktas yra svarbus Lietuvos kultūros
+paveldui, jis gali būti valstybės išperkamas arba savininkui sutikus įrašomas į
+Kultūros vertybių registrą.
 4. Muziejams,
 bibliotekoms, kurių steigėjos yra valstybės ar savivaldybės institucijos, ir
 valstybinės archyvų sistemos įstaigoms Prekybos antikvariniais daiktais
 taisyklių nustatyta tvarka suteikiama pirmumo teisė įsigyti į Kultūros vertybių
-registrą įrašytas kilnojamąsias kultūros vertybes iš juridinių asmenų,
-prekiaujančių antikvariniais daiktais.
+registrą įrašytas kilnojamąsias kultūros vertybes iš asmenų, prekiaujančių
+antikvariniais daiktais.
 5. Prekyba
 kilnojamosiomis kultūros vertybėmis ir antikvariniais daiktais gali būti
-vykdoma aukcionuose. Juridiniai asmenys, norintys rengti kilnojamųjų kultūros
-vertybių ir antikvarinių daiktų aukcionus, turi būti registruoti Lietuvos
-Respublikoje ir turi nurodyti savo steigimo dokumentuose šią veiklos rūšį.
-Aukcionai vykdomi Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+vykdoma aukcionuose. Aukcionai vykdomi Vyriausybės ar jos įgaliotos
+institucijos nustatyta tvarka.
+Straipsnio
+pakeitimai:
+Nr.
+XI-780,
+2010-04-27, Žin., 2010, Nr. 54-2643 (2010-05-11)
  
 ŠEŠTASIS SKIRSNIS
 KILNOJAMŲJŲ
@@ -503,17 +536,17 @@ Lietuvos Respublikos tvarką.
 Vyriausybės patvirtintą sąrašą, gali būti išvežami tik turint leidimą. Leidimą
 išduoda Kultūros paveldo departamentas. Šių kilnojamųjų kultūros vertybių,
 išskyrus vertybes, įtrauktas į muziejų ir bibliotekų kilnojamųjų kultūros
-vertybių apskaitos dokumentus, ir antikvarinių daiktų įkainojimui bei
-antikvarinių daiktų kultūrinei vertei nustatyti ir išvadoms dėl leidimų juos
-išvežti išdavimo pateikti sudaroma Kilnojamųjų kultūros vertybių išvežimo
-taryba. Sprendimas dėl leidimo išvežti turi būti priimtas per 15 darbo dienų
-nuo rašytinio prašymo pateikimo dienos. Vyriausybės nustatyta tvarka terminas
-gali būti pratęstas iki 30 darbo dienų.
+vertybių apskaitos dokumentus, ir antikvarinių daiktų įkainojimui bei antikvarinių
+daiktų kultūrinei vertei nustatyti ir išvadoms dėl leidimų juos išvežti
+išdavimo pateikti sudaroma Kilnojamųjų kultūros vertybių išvežimo taryba.
+Sprendimas dėl leidimo išvežti turi būti priimtas per 15 darbo dienų nuo
+rašytinio prašymo pateikimo dienos. Vyriausybės nustatyta tvarka terminas gali
+būti pratęstas iki 30 darbo dienų.
 3. Jeigu
 Kilnojamųjų kultūros vertybių išvežimo taryba nustato, kad norimas
-išvežti kilnojamasis daiktas yra antikvarinis daiktas, kurio nebuvimas Lietuvoje
-nuskurdintų Lietuvos kultūros paveldą, leidimas negrąžinamai išvežti šį
-antikvarinį daiktą neišduodamas. Šiuo atveju antikvarinis daiktas,
+išvežti kilnojamasis daiktas yra antikvarinis daiktas, kurio nebuvimas
+Lietuvoje nuskurdintų Lietuvos kultūros paveldą, leidimas negrąžinamai išvežti
+šį antikvarinį daiktą neišduodamas. Šiuo atveju antikvarinis daiktas,
 turintis kultūrinę vertę, savininkui sutikus gali būti siūlomas įrašyti į
 Kultūros vertybių registrą arba Vyriausybės nustatyta tvarka per vienus metus
 valstybės išperkamas. Jeigu Kilnojamųjų kultūros vertybių išvežimo taryba
@@ -545,57 +578,66 @@ gali būti negrąžinamai išvežti iš Lietuvos Respublikos apeigų tikslams.
 15 straipsnis. Lietuvos
 Respublikos Vyriausybės ar jos įgaliotos institucijos rašytinis įsipareigojimas
 atlyginti nuostolius
-Laikinai įvežant užsienio valstybių kilnojamąsias kultūros vertybes parodoms
-Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija Vyriausybės
-nustatyta tvarka gali priimti rašytinį įsipareigojimą skirti lėšų valstybės ar
-savivaldybės įsteigtai biudžetinei įstaigai, veikiančiai pagal Muziejų
-įstatymą, Bibliotekų įstatymą ar Dokumentų ir archyvų įstatymą, atlyginti
-kilnojamosios kultūros vertybės savininko patirtiems pagrįstiems nuostoliams,
-atsiradusiems dėl parodų metu (organizuojant parodas) kilnojamųjų kultūros
-vertybių sužalojimo arba netekimo.
+Laikinai įvežant užsienio valstybių kilnojamąsias kultūros vertybes
+parodoms Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija
+Vyriausybės nustatyta tvarka gali priimti rašytinį įsipareigojimą skirti lėšų
+valstybės ar savivaldybės įsteigtai biudžetinei įstaigai, veikiančiai pagal
+Muziejų įstatymą, Bibliotekų įstatymą ar Dokumentų ir archyvų įstatymą,
+atlyginti kilnojamosios kultūros vertybės savininko patirtiems pagrįstiems
+nuostoliams, atsiradusiems dėl parodų metu (organizuojant parodas) kilnojamųjų
+kultūros vertybių sužalojimo arba netekimo.
  
 SEPTINTASIS
 SKIRSNIS
-NETEISĖTAI IŠVEŽTŲ IŠ UŽSIENIO KILNOJAMŲJŲ KULTŪROS
-VERTYBIŲ IR KITŲ KULTŪROS OBJEKTŲ GRĄŽINIMAS
+NETEISĖTAI IŠVEŽTŲ IŠ UŽSIENIO KULTŪROS OBJEKTŲ
+GRĄŽINIMAS
+Skirsnio
+pavadinimo pakeitimai:
+Nr.
+XI-780,
+2010-04-27, Žin., 2010, Nr. 54-2643 (2010-05-11)
  
-16 straipsnis. Kilnojamųjų kultūros vertybių
-grąžinimas Europos Sąjungos valstybėms narėms
-1. Neteisėtai išvežtų iš Europos Sąjungos valstybės narės teritorijos
-kilnojamųjų kultūros vertybių grąžinimo tvarką nustato Lietuvos
-Respublikos Vyriausybė.
-2. Neteisėtai iš Europos Sąjungos valstybių narių išvežtos į Lietuvos
-Respubliką kilnojamosios kultūros vertybės grąžinamos tai valstybei, kuri
-kreipiasi dėl jų grąžinimo, kai Lietuvos Respublikos teismas priima atitinkamą
-sprendimą. Prašančioji valstybė ieškinį teismui gali pareikšti praėjus ne
-daugiau kaip 30 metų nuo kilnojamosios kultūros vertybės neteisėto išvežimo iš
-besikreipiančios Europos Sąjungos valstybės narės teritorijos. 
+16 straipsnis. Kultūros objektų grąžinimas Europos
+Sąjungos valstybėms narėms
+1. Neteisėtai iš Europos Sąjungos valstybės narės teritorijos išvežtų
+kultūros objektų grąžinimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+2. Neteisėtai iš Europos Sąjungos valstybių narių išvežti į Lietuvos
+Respubliką kultūros objektai grąžinami tai valstybei, kuri kreipiasi dėl jų
+grąžinimo, kai Lietuvos Respublikos teismas priima atitinkamą sprendimą.
+Prašančioji valstybė ieškinį teismui gali pareikšti praėjus ne daugiau kaip 30
+metų nuo kultūros objekto neteisėto išvežimo iš besikreipiančios Europos
+Sąjungos valstybės narės teritorijos. 
 3. Ieškinys dėl grąžinimo gali būti pareikštas
 Lietuvos Respublikos teismui ne vėliau kaip per vienus metus nuo tos dienos,
-kai besikreipianti Europos Sąjungos valstybė narė nustatė kilnojamųjų kultūros
-vertybių buvimo vietą, jų savininką arba valdytoją. Prašančioji valstybė, kuri
-kreipiasi dėl kilnojamosios kultūros vertybės grąžinimo, kartu su ieškiniu turi
-pateikti:
-1) dokumentą, kuriame aprašomas daiktas ir kuriame
-konstatuojama, kad tai yra kilnojamoji kultūros vertybė;
-2) prašančiosios valstybės narės kompetentingų
-valdžios institucijų pareiškimą, kad ši kilnojamoji kultūros vertybė buvo
-neteisėtai išvežta iš jos teritorijos;
+kai besikreipianti Europos Sąjungos valstybė narė nustatė kultūros objektų
+buvimo vietą, jų savininką arba valdytoją. Prašančioji valstybė, kuri kreipiasi
+dėl kultūros objekto grąžinimo, kartu su ieškiniu turi pateikti:
+1) dokumentą, kuriame aprašomas daiktas ir
+kuriame konstatuojama, kad tai yra kultūros objektas;
+2) prašančiosios valstybės narės
+kompetentingų valdžios institucijų pareiškimą, kad šis kultūros objektas buvo
+neteisėtai išvežtas iš jos teritorijos;
 3) dokumentą (informaciją), patvirtinantį
-kilnojamosios kultūros vertybės buvimo vietą, savininką ar valdytoją.
-4. Valstybės
-narės ieškinys dėl kilnojamųjų kultūros vertybių grąžinimo gali būti reiškiamas
-praėjus ne daugiau kaip 75 metams nuo kilnojamosios kultūros vertybės neteisėto
+(patvirtinančią) kultūros objekto buvimo vietą, savininką ar valdytoją.
+4. Europos
+Sąjungos valstybės narės ieškinys dėl kultūros objektų grąžinimo gali būti
+pareiškiamas praėjus ne daugiau kaip 75 metams nuo kultūros objekto neteisėto
 išvežimo iš besikreipiančios Europos Sąjungos valstybės narės teritorijos tais
-atvejais, kai Europos Sąjungos valstybėse narėse kilnojamosios kultūros
-vertybės sudaro neatskiriamą valstybei narei, valstybės narės vietinei ar
-regioninei valdžios institucijai, pagal tos valstybės narės teisės aktus
-laikomai viešuoju juridiniu asmeniu, kurio dalyvė yra valstybė arba vietinė ar
-regioninė valdžios institucija, arba yra jų finansuojama, nuosavybės teise
-priklausančių kolekcijų, įtrauktų į muziejų, valstybinės archyvų sistemos
-įstaigų arba bibliotekų saugomų kolekcijų apskaitos dokumentus, dalį arba yra
-religinės kilnojamosios kultūros vertybės, kurioms taikomos ypatingos apsaugos
-nuostatos pagal atitinkamus Europos Sąjungos valstybės narės įstatymus.
+atvejais, kai Europos Sąjungos valstybėse narėse kultūros objektai sudaro
+neatskiriamą valstybei narei, valstybės narės vietinei ar regioninei valdžios
+institucijai arba valstybėje narėje esančiam ir pagal
+tos valstybės narės teisės aktus viešuoju laikomam juridiniam asmeniui,
+kurio dalyvė yra valstybė arba vietinė ar regioninė valdžios institucija, arba
+yra jų finansuojama, nuosavybės teise priklausančių kolekcijų, įtrauktų į
+muziejų, valstybinės archyvų sistemos įstaigų arba bibliotekų saugomų kolekcijų
+apskaitos dokumentus, dalį arba yra religiniai kultūros objektai, kuriems
+taikomos ypatingos apsaugos nuostatos pagal atitinkamus Europos Sąjungos
+valstybės narės įstatymus.
+Straipsnio
+pakeitimai:
+Nr.
+XI-780,
+2010-04-27, Žin., 2010, Nr. 54-2643 (2010-05-11)
  
 17
 straipsnis. Kultūros objektų grąžinimas kitoms užsienio valstybėms
@@ -610,37 +652,40 @@ straipsnis. Lietuvos Respublikos įgaliota institucija
 1. Kultūros
 ministerija yra Lietuvos Respublikos įgaliota institucija, priimanti šio
 įstatymo 16 ir 17 straipsniuose nurodytų užsienio valstybių prašymus dėl
-neteisėtai išvežtų kilnojamųjų kultūros vertybių ir kitų kultūros objektų
-grąžinimo.
+neteisėtai išvežtų kultūros objektų grąžinimo.
 2. Kultūros
 ministerija, išskyrus atvejus, kai Lietuvos Respublikos įstatymai ar
 tarptautinės sutartys, kurių šalys yra Lietuvos Respublika ir besikreipianti
 užsienio valstybė, nustato kitaip:
 1) imasi
-reikiamų priemonių, kad neteisėtai išvežta kilnojamoji kultūros vertybė būtų
-rasta ir nustatytas jos savininkas arba valdytojas;
+reikiamų priemonių, kad neteisėtai išvežtas kultūros objektas būtų surastas ir
+nustatytas jos savininkas arba valdytojas;
 2) praneša
 suinteresuotoms valstybėms apie Lietuvos Respublikos teritorijoje rastą
-kilnojamąją kultūros vertybę, jei yra pagrindas manyti, kad ji buvo neteisėtai
-išvežta iš užsienio valstybės teritorijos;
+kultūros objektą, jei yra pagrindas manyti, kad jis buvo neteisėtai išvežtas iš
+užsienio valstybės teritorijos;
 3) imasi
-reikiamų priemonių, kad neteisėtai išvežta kilnojamoji kultūros vertybė būtų
-išsaugota fiziškai;
-4) sudaro
-sąlygas prašančios užsienio valstybės kompetentingoms valdžios institucijoms
-patikrinti, ar atitinkamas kilnojamasis daiktas yra kilnojamoji kultūros
-vertybė;
+reikiamų priemonių, kad neteisėtai išvežtas kultūros objektas būtų išsaugotas
+fiziškai;
+4) sudaro sąlygas
+prašančios užsienio valstybės kompetentingoms valdžios institucijoms
+patikrinti, ar atitinkamas kilnojamasis daiktas yra kultūros objektas;
 5)
-bendradarbiauja su prašančiąja užsienio valstybe kilnojamųjų kultūros vertybių
-grąžinimo klausimais.
+bendradarbiauja su prašančiąja užsienio valstybe kultūros objektų grąžinimo
+klausimais.
 3. Kultūros
 ministerija turi teisę iš užsienio valstybės reikalauti kompensacijos už
-grąžinamas užsienio valstybei kilnojamąsias kultūros vertybes, įtrauktas į
-muziejų, bibliotekų ir Nacionalinio dokumentų fondo apskaitos dokumentus. 
+grąžinamus užsienio valstybei kultūros objektus, įtrauktus į muziejų,
+bibliotekų ir Nacionalinio dokumentų fondo apskaitos dokumentus. 
 4. Kultūros
 ministerija kreipiasi su prašymu į užsienio valstybės įgaliotą instituciją dėl
 neteisėtai iš Lietuvos Respublikos teritorijos išvežtų kilnojamųjų kultūros
 vertybių ir kitų kultūros objektų grąžinimo ir rūpinasi jų susigrąžinimu.
+Straipsnio
+pakeitimai:
+Nr.
+XI-780,
+2010-04-27, Žin., 2010, Nr. 54-2643 (2010-05-11)
  
 AŠTUNTASIS SKIRSNIS
 BAIGIAMOSIOS NUOSTATOS
@@ -727,8 +772,8 @@ PRIEDU ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1874, 2003-12-09,
-Žin., 2003, Nr. 123-5572 (2003-12-30)
+IX-1874,
+2003-12-09, Žin., 2003, Nr. 123-5572 (2003-12-30)
 KILNOJAMŲJŲ
 KULTŪROS VERTYBIŲ APSAUGOS ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
@@ -765,11 +810,22 @@ Nauja
 Šis
 įstatymas įsigalioja 2009 m. liepos 1 d.
  
+10.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-780,
+2010-04-27, Žin., 2010, Nr. 54-2643 (2010-05-11)
+KILNOJAMŲJŲ
+KULTŪROS VERTYBIŲ APSAUGOS ĮSTATYMO 1, 4, 6, 11, 12, 13, 16, 18 STRAIPSNIŲ IR
+SEPTINTOJO SKIRSNIO PAVADINIMO PAKEITIMO ĮSTATYMAS
+Įstatymas,
+išskyrus 10 straipsnio 2 dalį, įsigalioja 2010-07-01.
+ 
 ***
 Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2008-07-24)
+Redagavo
+Aušra Bodin (2010-05-11)
                  
-autrap@lrs.lt
+ aubodi@lrs.lt
