@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.845C6618A647"
 
 # Lietuvos Respublikos nepaprastosios padėties įstatymas
 
-Suvestinė redakcija nuo 2006-06-28 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2011-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2575, i. k. 1021010ISTA00IX-938
  
@@ -65,7 +65,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Specialus leidimas – viešosios tvarkos apsaugos komendantūros (apskrities viršininko ar savivaldybės mero) išduotas dokumentas, suteikiantis asmeniui ar transporto priemonei teisę būti tam tikru nustatytu laiku ir (ar) tam tikroje teritorijoje, kur yra įvesta nepaprastoji padėtis.
+4. Specialus leidimas – viešosios tvarkos apsaugos komendantūros (savivaldybės administracijos direktoriaus) išduotas dokumentas, suteikiantis asmeniui ar transporto priemonei teisę būti tam tikru nustatytu laiku ir (ar) tam tikroje teritorijoje, kur yra įvesta nepaprastoji padėtis.
+Straipsnio dalies pakeitimai:
+Nr. XI-755, 2010-04-13, Žin., 2010, Nr. 48-2304 (2010-04-27), i. k. 1101010ISTA00XI-755
+ 
 
 
 
@@ -347,12 +350,9 @@ Nepaprastosios padėties įstatymo vykdymą tiesiogiai užtikrina ir kontroliuoj
 
 
 
-3) apskričių viršininkai;
-
-
-
-
-4) savivaldybių merai.
+3) savivaldybių administracijų direktoriai.
+Straipsnio punkto pakeitimai:
+Nr. XI-755, 2010-04-13, Žin., 2010, Nr. 48-2304 (2010-04-27), i. k. 1101010ISTA00XI-755
  
 
 
@@ -380,7 +380,10 @@ Nepaprastosios padėties įstatymo vykdymą tiesiogiai užtikrina ir kontroliuoj
 
 
 
-4. Nepaprastosios padėties metu institucijai, atsakingai už ekstremalių situacijų valdymą, vadovauja Vyriausybės skiriamas asmuo. Jis užtikrina operatyvų vadovavimą visai šios institucijos veiklai. Institucijos, atsakingos už ekstremalių situacijų valdymą, vadovo pagal savo kompetenciją duoti teisėti nurodymai ir išleisti įsakymai yra privalomi visoms valstybės ir savivaldybių institucijoms, apskrities viršininkams, savivaldybių merams, viešosios tvarkos apsaugos komendantūroms bei fiziniams ir juridiniams asmenims. Asmenys, nevykdantys šios institucijos nurodymų arba įsakymų, atsako įstatymų nustatyta tvarka.
+4. Nepaprastosios padėties metu institucijai, atsakingai už ekstremalių situacijų valdymą, vadovauja Vyriausybės skiriamas asmuo. Jis užtikrina operatyvų vadovavimą visai šios institucijos veiklai. Institucijos, atsakingos už ekstremalių situacijų valdymą, vadovo pagal savo kompetenciją duoti teisėti nurodymai ir išleisti įsakymai yra privalomi visoms valstybės ir savivaldybių institucijoms, viešosios tvarkos apsaugos komendantūroms bei fiziniams ir juridiniams asmenims. Asmenys, nevykdantys šios institucijos nurodymų arba įsakymų, atsako įstatymų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XI-755, 2010-04-13, Žin., 2010, Nr. 48-2304 (2010-04-27), i. k. 1101010ISTA00XI-755
+ 
 
 
 
@@ -416,7 +419,10 @@ Nepaprastosios padėties įstatymo vykdymą tiesiogiai užtikrina ir kontroliuoj
 
 
 
-5. Komendantų teisėti nurodymai ir įsakymai dėl šiame Įstatyme nustatytų priemonių siekiant užtikrinti žmonių gyvybės, sveikatos ir turto, taip pat valstybės konstitucinės santvarkos apsaugą, garantuoti viešąją tvarką bei visuomenės rimtį nepaprastosios padėties metu yra privalomi visiems toje teritorijoje esantiems fiziniams ir juridiniams asmenims, taip pat apskričių viršininkams ir savivaldybių merams. Asmenys, nevykdantys komendantų teisėtų nurodymų ir įsakymų, atsako įstatymų nustatyta tvarka.
+5. Komendantų teisėti nurodymai ir įsakymai dėl šiame Įstatyme nustatytų priemonių siekiant užtikrinti žmonių gyvybės, sveikatos ir turto, taip pat valstybės konstitucinės santvarkos apsaugą, garantuoti viešąją tvarką bei visuomenės rimtį nepaprastosios padėties metu yra privalomi visiems toje teritorijoje esantiems fiziniams ir juridiniams asmenims, taip pat savivaldybių administracijų direktoriams. Asmenys, nevykdantys komendantų teisėtų nurodymų ir įsakymų, atsako įstatymų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XI-755, 2010-04-13, Žin., 2010, Nr. 48-2304 (2010-04-27), i. k. 1101010ISTA00XI-755
+ 
 
 
 
@@ -434,38 +440,40 @@ Nepaprastosios padėties įstatymo vykdymą tiesiogiai užtikrina ir kontroliuoj
 
 
 
-16 straipsnis. Apskrities viršininkas, savivaldybės meras
+16 straipsnis. Savivaldybės administracijos direktorius
 
 
-1. Šio Įstatymo normų vykdymą valstybės teritorijos administraciniuose vienetuose užtikrina ir už tai yra tiesiogiai atsakingi apskričių viršininkai bei savivaldybių merai (išskyrus atvejus, kai savivaldybės teritorijoje įvedamas tiesioginis valdymas).
-
-
-
-
-2. Apskrities viršininkas, savivaldybės meras įgyvendina institucijos, atsakingos už ekstremalių situacijų valdymą nurodytose vietose, nurodymus, organizuoja stichinių nelaimių, avarijų, masinių neramumų likvidavimo, paieškos ir gelbėjimo darbus bei taiko kitas nepaprastosios padėties priemones.
+1. Šio Įstatymo normų vykdymą savivaldybėse užtikrina ir už tai yra tiesiogiai atsakingi savivaldybių administracijų direktoriai.
 
 
 
 
-3. Savivaldybių merų veiksmus įgyvendinant nepaprastosios padėties priemones koordinuoja konkrečios apskrities viršininkas.
+2. Savivaldybės administracijos direktorius įgyvendina institucijos, atsakingos už ekstremalių situacijų valdymą nurodytose vietose, nurodymus, organizuoja stichinių nelaimių, avarijų, masinių neramumų likvidavimo, paieškos ir gelbėjimo darbus ir taiko kitas nepaprastosios padėties priemones.
 
 
 
 
-4. Apskrities viršininko, savivaldybės mero teisėti nurodymai bei įsakymai dėl žmonių gyvybės gelbėjimo, jų sveikatos ir turto apsaugos, viešosios tvarkos ir visuomenės rimties užtikrinimo nepaprastosios padėties metu yra privalomi visoms toje teritorijoje esančioms valstybės ir savivaldybių institucijoms, fiziniams bei juridiniams asmenims. Šio Įstatymo 15 straipsnio 5 dalyje nurodyti komendantų nurodymai apskričių viršininkams ir savivaldybių merams yra privalomi.
+3. Savivaldybių administracijų direktorių veiksmus įgyvendinant nepaprastosios padėties priemones koordinuoja institucijos, atsakingos už ekstremalių situacijų valdymą, vadovas ar jo įgaliotas asmuo.
 
 
 
 
-5. Asmenys, nevykdantys teisėtų apskrities viršininko, savivaldybės mero nurodymų arba įsakymų, atsako įstatymų nustatyta tvarka.
+4. Savivaldybės administracijos direktoriaus teisėti nurodymai ir įsakymai dėl žmonių gyvybės gelbėjimo, jų sveikatos ir turto apsaugos, viešosios tvarkos ir visuomenės rimties užtikrinimo nepaprastosios padėties metu yra privalomi visoms savivaldybės teritorijoje esančioms valstybės ir savivaldybių institucijoms, fiziniams ir juridiniams asmenims. Šio Įstatymo 15 straipsnio 5 dalyje nurodyti komendantų nurodymai savivaldybių administracijų direktoriams yra privalomi.
 
 
 
 
-6. Jei nepaprastosios padėties metu komendantūros nėra steigiamos, apskričių viršininkai ir savivaldybių merai turi teisę išduoti specialius leidimus, taip pat nustatyti privalomuosius darbus, nurodytus šio Įstatymo 27 straipsnyje.
+5. Asmenys, nevykdantys teisėtų savivaldybės administracijos direktoriaus nurodymų arba įsakymų, atsako įstatymų nustatyta tvarka.
+
+
+
+
+6. Jeigu nepaprastosios padėties metu komendantūros nėra steigiamos, savivaldybių administracijų direktoriai turi teisę išduoti specialius leidimus, taip pat nustatyti privalomuosius darbus, nurodytus šio Įstatymo 27 straipsnyje.
+
+
+Straipsnio pakeitimai:
+Nr. XI-755, 2010-04-13, Žin., 2010, Nr. 48-2304 (2010-04-27), i. k. 1101010ISTA00XI-755
  
-
-
 
 
 
@@ -561,7 +569,9 @@ Nr. IX-1416, 2003-04-03, Žin., 2003, Nr. 38-1661 (2003-04-24), i. k. 1031010IST
 
 
 
-3. Komendantūrų komendantai kontroliuoja, kaip laikomasi šiame straipsnyje nustatytų apribojimų. Jei nepaprastosios padėties metu komendantūros nėra steigiamos, apskričių viršininkai ir savivaldybių merai kontroliuoja, kaip laikomasi šiame straipsnyje nustatytų apribojimų.
+3. Komendantūrų komendantai kontroliuoja, kaip laikomasi šiame straipsnyje nustatytų apribojimų. Jei nepaprastosios padėties metu komendantūros nėra steigiamos, savivaldybių administracijų direktoriai kontroliuoja, kaip laikomasi šiame straipsnyje nustatytų apribojimų.
+Straipsnio dalies pakeitimai:
+Nr. XI-755, 2010-04-13, Žin., 2010, Nr. 48-2304 (2010-04-27), i. k. 1101010ISTA00XI-755
  
 
 
@@ -569,18 +579,20 @@ Nr. IX-1416, 2003-04-03, Žin., 2003, Nr. 38-1661 (2003-04-24), i. k. 1031010IST
 
 
 
-22 straipsnis. Laisvės kilnotis apribojimas
+22 straipsnis. Laisvės kilnotis apribojimas
 
 
-1. Nutarime dėl nepaprastosios padėties įvedimo ar atitinkamame Respublikos Prezidento dekrete gali būti numatyta, kad įvedus nepaprastąją padėtį visoje valstybės teritorijoje ar jos dalyje asmenys neturi teisės be specialaus leidimo pakeisti savo nuolatinės gyvenamosios vietos, išskyrus atvejus, kai pasitraukiama iš nepaprastosios padėties teritorijos arba šie asmenys evakuojami. Leidimus pakeisti nuolatinę gyvenamąją vietą nepaprastosios padėties metu išduoda komendantūrų komendantai, o jeigu komendantūros nesteigiamos – apskričių viršininkai arba savivaldybių merai.
+1. Nutarime dėl nepaprastosios padėties įvedimo ar atitinkamame Respublikos Prezidento dekrete gali būti numatyta, kad įvedus nepaprastąją padėtį visoje valstybės teritorijoje ar jos dalyje asmenys neturi teisės be specialaus leidimo pakeisti savo nuolatinės gyvenamosios vietos, išskyrus atvejus, kai pasitraukiama iš nepaprastosios padėties teritorijos arba šie asmenys evakuojami. Leidimus pakeisti nuolatinę gyvenamąją vietą nepaprastosios padėties metu išduoda komendantūrų komendantai, o jeigu komendantūros nesteigiamos, – savivaldybių administracijų direktoriai.
 
 
 
 
-2. Specialaus leidimo nereikia Respublikos Prezidentui, Seimo nariams, Vyriausybės nariams, taip pat atitinkamoje teritorijoje savo įgaliojimus vykdantiems apskričių viršininkams, savivaldybių tarybų ir valdybų nariams, merams, savivaldybių kontrolieriams, seniūnams, teisėjams, vidaus reikalų sistemos ir prokuratūros pareigūnams, krašto apsaugos sistemos institucijų kariams ir tarnautojams, Valstybės saugumo departamento, Specialiųjų tyrimų tarnybos pareigūnams.
+2. Specialaus leidimo nereikia Respublikos Prezidentui, Seimo nariams, Vyriausybės nariams, taip pat atitinkamoje teritorijoje savo įgaliojimus vykdantiems savivaldybių tarybų nariams, administracijų direktoriams, savivaldybių kontrolieriams, seniūnams, teisėjams, vidaus reikalų sistemos ir prokuratūros pareigūnams, krašto apsaugos sistemos institucijų kariams ir tarnautojams, Valstybės saugumo departamento, Specialiųjų tyrimų tarnybos pareigūnams.
+
+
+Straipsnio pakeitimai:
+Nr. XI-755, 2010-04-13, Žin., 2010, Nr. 48-2304 (2010-04-27), i. k. 1101010ISTA00XI-755
  
-
-
 
 
 
@@ -649,13 +661,15 @@ Nepaprastosios padėties metu asmenys su savimi visada privalo turėti asmens ta
 
 
 
-27 straipsnis. Privalomieji darbai nepaprastosios padėties metu
+27 straipsnis. Privalomieji darbai nepaprastosios padėties metu
 
 
-Vyriausiasis komendantas ar komendantai pagal savo kompetenciją nepaprastosios padėties metu darbingiems asmenims gali nustatyti privalomuosius gelbėjimo darbus, siekiant evakuoti gyventojus, gelbėti juos bei turtą, ir šių darbų organizavimo tvarką. Jeigu komendantūros nėra steigiamos, privalomuosius darbus nepaprastosios padėties metu gali nustatyti apskričių viršininkai ir savivaldybių merai. Už tokius darbus gali būti atlyginama teisės aktų nustatyta tvarka.
+Vyriausiasis komendantas ar komendantai pagal savo kompetenciją nepaprastosios padėties metu darbingiems asmenims gali nustatyti privalomuosius gelbėjimo darbus, siekiant evakuoti gyventojus, gelbėti juos bei turtą, ir šių darbų organizavimo tvarką. Jeigu komendantūros nėra steigiamos, privalomuosius darbus nepaprastosios padėties metu gali nustatyti savivaldybių administracijų direktoriai. Už tokius darbus gali būti atlyginama teisės aktų nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XI-755, 2010-04-13, Žin., 2010, Nr. 48-2304 (2010-04-27), i. k. 1101010ISTA00XI-755
  
-
-
 
 
 
@@ -681,9 +695,10 @@ Nepaprastosios padėties metu gali būti taikomos šios nepaprastosios priemonė
 
 
 
-4) draudimas išduoti leidimus ribotos civilinės apyvartos ginklams įsigyti bei jais prekiauti, taip pat laikyti šaunamuosius ginklus, šaudmenis, sprogstamąsias, radioaktyviąsias, nuodingąsias ir kitokias pavojingas medžiagas ar priemones, sprogmenis, laikinas jų paėmimas iš Lietuvos gyventojų, įstaigų ir organizacijų (išskyrus krašto apsaugos sistemos institucijų karius ir tarnautojus, prokuratūros, Specialiųjų tyrimų tarnybos, Valstybės saugumo departamento, vidaus reikalų sistemos pareigūnus, Lietuvos Respublikos ginklų fondą prie Lietuvos Respublikos Vyriausybės, Kalėjimų departamentą prie Teisingumo ministerijos ir Muitinės departamentą prie Finansų ministerijos bei Lietuvos banką);
+4) draudimas išduoti leidimus civilinės apyvartos ginklams įsigyti ir jais prekiauti, taip pat laikyti šaunamuosius ginklus, šaudmenis, sprogstamąsias, radioaktyviąsias, nuodingąsias ir kitokias pavojingas medžiagas ar priemones, sprogmenis, laikinas jų paėmimas iš Lietuvos gyventojų, įstaigų ir organizacijų (išskyrus krašto apsaugos sistemos institucijų karius ir tarnautojus, prokuratūros, Specialiųjų tyrimų tarnybos, Valstybės saugumo departamento, vidaus reikalų sistemos pareigūnus, Lietuvos Respublikos ginklų fondą prie Lietuvos Respublikos vidaus reikalų ministerijos, Kalėjimų departamentą prie Teisingumo ministerijos, Muitinės departamentą prie Finansų ministerijos ir Lietuvos banką);
 Straipsnio punkto pakeitimai:
 Nr. X-187, 2005-05-12, Žin., 2005, Nr. 67-2399 (2005-05-28), i. k. 1051010ISTA000X-187
+Nr. XI-650, 2010-01-14, Žin., 2010, Nr. 13-618 (2010-02-02), i. k. 1101010ISTA00XI-650
  
 
 
@@ -893,3 +908,13 @@ Lietuvos Respublikos nepaprastosios padėties įstatymo 28 straipsnio pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-677, 2006-06-08, Žin., 2006, Nr. 72-2692 (2006-06-28), i. k. 1061010ISTA000X-677
 Lietuvos Respublikos nepaprastosios padėties įstatymo 7 ir 17 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-650, 2010-01-14, Žin., 2010, Nr. 13-618 (2010-02-02), i. k. 1101010ISTA00XI-650
+Lietuvos Respublikos nepaprastosios padėties įstatymo 28 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-755, 2010-04-13, Žin., 2010, Nr. 48-2304 (2010-04-27), i. k. 1101010ISTA00XI-755
+Lietuvos Respublikos nepaprastosios padėties įstatymo 2, 13, 14, 15, 16, 21, 22 ir 27 straipsnių pakeitimo įstatymas
