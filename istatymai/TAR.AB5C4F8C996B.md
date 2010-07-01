@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AB5C4F8C996B"
 
 # Lietuvos Respublikos strateginių prekių kontrolės įstatymas
 
-Suvestinė redakcija nuo 2006-07-01 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2012-06-29
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 61-1533, i. k. 0951010ISTA00I-1022
  
@@ -193,7 +193,10 @@ Vyriausybė ar jos įgaliota institucija, vadovaudamasi Europos Sąjungos bendru
 
 
 
-4. Į Bendrąjį karinės įrangos sąrašą įtrauktų prekių importui, kai šias prekes importuoja Lietuvos Respublikos krašto apsaugos ministerija ir Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos Vyriausybės, Ūkio ministerijos licencija nereikalinga.
+4. Į Bendrąjį karinės įrangos sąrašą įtrauktų prekių importui, kai šias prekes importuoja Lietuvos Respublikos krašto apsaugos ministerija ir Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos vidaus reikalų ministerijos, Ūkio ministerijos licencija nereikalinga.
+Straipsnio dalies pakeitimai:
+Nr. XI-648, 2010-01-14, Žin., 2010, Nr. 13-616 (2010-02-02), i. k. 1101010ISTA00XI-648
+ 
 
 
 
@@ -502,3 +505,8 @@ Lietuvos Respublikos strateginių prekių eksporto, importo ir tranzito kontrol�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-545, 2006-04-06, Žin., 2006, Nr. 44-1586 (2006-04-22), i. k. 1061010ISTA000X-545
 Lietuvos Respublikos strateginių prekių kontrolės įstatymo 1, 3, 6, 7 straipsnių ir įstatymo priedo pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-648, 2010-01-14, Žin., 2010, Nr. 13-616 (2010-02-02), i. k. 1101010ISTA00XI-648
+Lietuvos Respublikos strateginių prekių kontrolės įstatymo 6 straipsnio pakeitimo įstatymas
