@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A92E17FDCD13"
 
 # Lietuvos Respublikos medžioklės įstatymas
 
-Suvestinė redakcija nuo 2009-07-18 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2013-09-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2634; Žin. 2002, Nr.112-0, i. k. 1021010ISTA00IX-966
  
@@ -308,7 +308,18 @@ Nr. XI-327, 2009-07-07, Žin., 2009, Nr. 85-3584 (2009-07-18), i. k. 1091010ISTA
 
 
 
-11) atlieka kitas teisės aktų nustatytas funkcijas.
+11) sudaro Aplinkos ministerijos regionų aplinkos apsaugos departamentų teisės medžioti suteikimo ir panaikinimo komisijas; 
+Papildyta straipsnio punktu:
+Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA00XI-824
+ 
+
+
+
+
+12) atlieka kitas teisės aktų nustatytas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA00XI-824
+ 
 
 
 
@@ -320,17 +331,10 @@ Nr. XI-327, 2009-07-07, Žin., 2009, Nr. 85-3584 (2009-07-18), i. k. 1091010ISTA
 
 
 
-4. Apskrities viršininko administracija:
-
-
-1) sudaro apskrities teisės medžioti suteikimo ir panaikinimo komisiją;
-
-
-
-
-2) tvirtina medžioklės plotų vienetų sudarymo bei ribų keitimo projektus.
-
-
+4. Neteko galios nuo 2010-07-01
+Straipsnio dalies naikinimas:
+Nr. XI-824, 2010-05-18, Žin. 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA00XI-824
+ 
 
 
 
@@ -338,7 +342,10 @@ Nr. XI-327, 2009-07-07, Žin., 2009, Nr. 85-3584 (2009-07-18), i. k. 1091010ISTA
 5. Savivaldybės:
 
 
-1) sudaro komisijas medžioklės plotų vienetams sudaryti bei jų riboms pakeisti ir organizuoja jų darbą;
+1) sudaro komisijas medžioklės plotų vienetams sudaryti bei jų riboms pakeisti ir organizuoja jų darbą, tvirtina šių komisijų parengtus medžioklės plotų vienetų sudarymo ir ribų keitimo projektus; 
+Straipsnio punkto pakeitimai:
+Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA00XI-824
+ 
 
 
 
@@ -398,7 +405,9 @@ Nr. XI-327, 2009-07-07, Žin., 2009, Nr. 85-3584 (2009-07-18), i. k. 1091010ISTA
 
 
 
-8) teikia apskrities teisės medžioti suteikimo ir panaikinimo komisijai siūlymus dėl asmenims suteiktos teisės medžioti panaikinimo.
+8) teikia Aplinkos ministerijos regiono aplinkos apsaugos departamento teisės medžioti suteikimo ir panaikinimo komisijai siūlymus dėl asmenims suteiktos teisės medžioti panaikinimo.
+Straipsnio punkto pakeitimai:
+Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA00XI-824
  
 
 
@@ -523,7 +532,10 @@ MEDŽIOKLĖS PLOTŲ VIENETAI IR TEISĖS NAUDOTI JUOSE MEDŽIOJAMŲJŲ GYVŪNŲ I
 
 
 
-3. Medžioklės plotų vienetų sudarymo ir jų ribų pakeitimo projektus kiekvienoje savivaldybėje rengia šios savivaldybės mero sudaryta komisija, susidedanti iš savivaldybės administracijos, aplinkos apsaugos, žemėtvarkos, valstybinių miškus prižiūrinčių institucijų, medžiotojų visuomeninių organizacijų, vienijančių medžiotojų klubus ir būrelius, žemės ir miško savininkų savivaldos organizacijų atstovų. Komisijos medžioklės plotų vienetams sudaryti bei jų riboms pakeisti nuostatus tvirtina Aplinkos ir Žemės ūkio ministerijos.
+3. Medžioklės plotų vienetų sudarymo ir jų ribų pakeitimo projektus kiekvienoje savivaldybėje rengia šios savivaldybės administracijos direktoriaus sudaryta komisija, susidedanti iš savivaldybės administracijos, aplinkos apsaugos, žemėtvarkos, valstybinių miškus prižiūrinčių institucijų, medžiotojų visuomeninių organizacijų, vienijančių medžiotojų klubus ir būrelius, žemės ir miško savininkų savivaldos organizacijų atstovų. Komisijos medžioklės plotų vienetams sudaryti bei jų riboms pakeisti nuostatus tvirtina Aplinkos ir Žemės ūkio ministerijos. 
+Straipsnio dalies pakeitimai:
+Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA00XI-824
+ 
 
 
 
@@ -597,16 +609,18 @@ Straipsnio dalies pakeitimai:
 
 
 
-10. Pasibaigus šio straipsnio 9 dalyje nustatytam terminui, komisija medžioklės plotų vienetams sudaryti bei jų riboms pakeisti, išnagrinėjusi gautus reikalavimus ar siūlymus ir įvertinusi, kad jie atitinka šio straipsnio 1 dalyje numatytus reikalavimus, priima sprendimą, ar tikslinga atsižvelgti į gautus siūlymus, prireikus koreguoja medžioklės plotų vieneto sudarymo ar ribų pakeitimo projektą, ir per 1 mėnesį šį projektą pateikia tvirtinti atitinkamos apskrities viršininkui. Neatsiejamos tvirtinamo medžioklės plotų vieneto sudarymo arba jo ribų pakeitimo projekto dalys yra medžioklės plotų vieneto planas su pažymėtomis teritorijomis, kuriose leidžiama medžioti ir kuriose medžioklė yra uždrausta, bei priedas apie medžioklės plotų dydį bei pasiskirstymą pagal tinkamumą medžiojamiesiems gyvūnams gyventi ir veistis.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos medžioklės įstatymo 8 straipsnio 10 dalis ta apimtimi, kuria nustatyta, jog komisija medžioklės plotų vienetams sudaryti bei jų riboms pakeisti gali ir neatsižvelgti į privačios žemės, miško, vandens telkinio savininko valią, kad jam nuosavybės teise priklausančiame žemės sklype, miške, vandens telkinyje nebūtų medžiojama, prieštarauja Lietuvos Respublikos Konstitucijos 23 straipsnio 1 ir 2 dalims.
+10. Pasibaigus šio straipsnio 9 dalyje nustatytam terminui, komisija medžioklės plotų vienetams sudaryti bei jų riboms pakeisti, išnagrinėjusi gautus reikalavimus ar siūlymus ir įvertinusi, kad jie atitinka šio straipsnio 1 dalyje numatytus reikalavimus, priima sprendimą, ar tikslinga atsižvelgti į gautus siūlymus, prireikus koreguoja medžioklės plotų vieneto sudarymo ar ribų pakeitimo projektą, ir per 1 mėnesį šį projektą pateikia tvirtinti atitinkamos savivaldybės administracijos direktoriui. Neatsiejamos tvirtinamo medžioklės plotų vieneto sudarymo arba jo ribų pakeitimo projekto dalys yra medžioklės plotų vieneto planas su pažymėtomis teritorijomis, kuriose leidžiama medžioti ir kuriose medžioklė yra uždrausta, bei priedas apie medžioklės plotų dydį bei pasiskirstymą pagal tinkamumą medžiojamiesiems gyvūnams gyventi ir veistis. 
 Straipsnio dalies pakeitimai:
 2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. 1051000NUTARG053456            
+Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA00XI-824
  
 
 
 
 
-11. Medžioklės plotų vienetų, siūlomų sudaryti daugiau kaip vienos savivaldybės teritorijoje, sudarymo projektai rengiami kartu su kitų savivaldybių atitinkamomis komisijomis. Jeigu medžioklės plotų vieneto ribos peržengia vienos apskrities ribas, tokio medžioklės plotų vieneto sudarymo projektas turi būti patvirtintas ir tose apskrityse, į kurių teritoriją jis įsiterpia.
+11. Medžioklės plotų vienetų, siūlomų sudaryti daugiau kaip vienos savivaldybės teritorijoje, sudarymo projektai rengiami kartu su kitų savivaldybių atitinkamomis komisijomis. Jeigu medžioklės plotų vieneto ribos peržengia vienos savivaldybės ribas, tokio medžioklės plotų vieneto sudarymo projektas turi būti patvirtintas visose savivaldybėse, į kurių teritoriją jis įsiterpia.
+Straipsnio dalies pakeitimai:
+Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA00XI-824
  
 
 
@@ -872,7 +886,7 @@ Nr. IX-1612, 2003-06-10, Žin., 2003, Nr. 61-2765 (2003-06-27), i. k. 1031010IST
 2. Privačios žemės sklypo savininkas, kurio žemė šio Įstatymo 8 straipsnyje nustatyta tvarka yra numatoma priskirti arba yra priskirta medžioklės plotų vienetui, turi teisę uždrausti medžioti jam priklausančioje žemėje, jeigu medžioklės metu žemės ūkio pasėliams arba miškui bus daroma žala. Medžioklės plotų vieneto sudarymo ar ribų pakeitimo projekto rengimo atveju apie tai jis privalo raštu pranešti šio Įstatymo 8 straipsnio nustatyta tvarka veikiančiai komisijai per šio Įstatymo 8 straipsnio 9 dalyje nustatytą terminą.
 TAR pastaba. Pripažinti, kad Lietuvos Respublikos medžioklės įstatymo 13 straipsnio 2 dalies nuostata „Privačios žemės sklypo savininkas, kurio žemė šio Įstatymo 8 straipsnyje nustatyta tvarka yra numatoma priskirti arba yra priskirta medžioklės plotų vienetui, turi teisę uždrausti medžioti jam priklausančioje žemėje, jeigu medžioklės metu žemės ūkio pasėliams arba miškui bus daroma žala“ ta apimtimi, kuria nenumatyta privačios žemės sklypo savininko teisė nevaržomai uždrausti medžioti jam priklausančioje žemėje ne tik jeigu medžioklės metu žemės ūkio pasėliams arba miškui bus daroma žala, bet ir visais kitais atvejais, prieštarauja Lietuvos Respublikos Konstitucijos 23 straipsnio 1 ir 2 dalims.
 Straipsnio dalies pakeitimai:
-2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. 1051000NUTARG053456            
+2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. 1051000NUTARG053456            
  
 
 
@@ -951,12 +965,15 @@ TEISĖ MEDŽIOTI. MEDŽIOTOJO BILIETAS
 
 
 
-3. Medžioklės egzaminą organizuoja ir teisę medžioti suteikia apskrities teisės medžioti suteikimo ir panaikinimo komisija, sudaryta apskrities viršininko. Į komisiją įtraukiami medžiotojai, turintys medžioklės trofėjų eksperto kvalifikaciją, specialų medžioklėtyros išsilavinimą arba ne trumpesnį kaip 5 metų medžioklės žinovo darbo stažą ar 5 metų darbo stažą aplinkosaugos, teisėsaugos, biologijos arba veterinarijos ir miškų ūkio srityse.
+3. Medžioklės egzaminą organizuoja ir teisę medžioti suteikia Aplinkos ministerijos regiono aplinkos apsaugos departamento teisės medžioti suteikimo ir panaikinimo komisija. Į komisiją įtraukiami medžiotojai, turintys medžioklės trofėjų eksperto kvalifikaciją, specialų medžioklėtyros išsilavinimą arba ne trumpesnį kaip 5 metų medžioklės žinovo darbo stažą ar 5 metų darbo stažą aplinkosaugos, teisėsaugos, biologijos arba veterinarijos ir miškų ūkio srityse. 
+Straipsnio dalies pakeitimai:
+Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA00XI-824
+ 
 
 
 
 
-4. Apskrities teisės medžioti suteikimo ir panaikinimo komisija:
+4. Aplinkos ministerijos regiono aplinkos apsaugos departamento teisės medžioti suteikimo ir panaikinimo komisija:
 
 
 1) Medžioklės Lietuvos Respublikos teritorijoje taisyklių nustatyta tvarka išduoda medžiotojų bilietus;
@@ -967,6 +984,9 @@ TEISĖ MEDŽIOTI. MEDŽIOTOJO BILIETAS
 2) šio Įstatymo 16 straipsnyje nustatyta tvarka panaikina asmenims suteiktą teisę medžioti ir paima medžiotojo bilietą.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA00XI-824
+ 
 
 
 
@@ -1037,7 +1057,9 @@ TEISĖ MEDŽIOTI. MEDŽIOTOJO BILIETAS
 
 
 
-3. Informacija apie teisės medžioti asmenims suteikimą, medžiotojams suteiktas kvalifikacijas, skirtas nuobaudas arba teisės medžioti asmenims panaikinimą ir medžiotojo bilieto paėmimą kaupiama medžiotojų sąvade. Jį tvarko ir duomenų pateikimo šiam sąvadui bei sąvade sukauptos informacijos teikimo apskrities teisės medžioti suteikimo bei panaikinimo komisijai bei kitoms institucijoms tvarką nustato Aplinkos ministerija.
+3. Informacija apie teisės medžioti asmenims suteikimą, medžiotojams suteiktas kvalifikacijas, skirtas nuobaudas arba teisės medžioti asmenims panaikinimą ir medžiotojo bilieto paėmimą kaupiama medžiotojų sąvade. Jį tvarko ir duomenų pateikimo šiam sąvadui bei sąvade sukauptos informacijos teikimo Aplinkos ministerijos regiono aplinkos apsaugos departamento teisės medžioti suteikimo ir panaikinimo komisijai bei kitoms institucijoms tvarką nustato Aplinkos ministerija.
+Straipsnio dalies pakeitimai:
+Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA00XI-824
  
 
 
@@ -1048,7 +1070,7 @@ TEISĖ MEDŽIOTI. MEDŽIOTOJO BILIETAS
 16 straipsnis. Teisės medžioti panaikinimas
 
 
-1. Teisę medžioti apskrities teisės medžioti suteikimo ir panaikinimo komisija panaikina:
+1. Teisę medžioti Aplinkos ministerijos regiono aplinkos apsaugos departamento teisės medžioti suteikimo ir panaikinimo komisija panaikina:
 
 
 1) asmenims, patekusiems į sveikatos priežiūros įstaigų įskaitą dėl alkoholizmo, narkomanijos ar psichinių susirgimų;
@@ -1056,14 +1078,20 @@ TEISĖ MEDŽIOTI. MEDŽIOTOJO BILIETAS
 
 
 
-2) asmenims, kuriems teisė medžioti buvo suteikta pažeidus šio Įstatymo reikalavimus.
+2) asmenims, kuriems teisė medžioti buvo suteikta pažeidus šio Įstatymo reikalavimus. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA00XI-824
+ 
 
 
 
 
-
-
-2. Apskrities teisės medžioti suteikimo ir panaikinimo komisijai pasiūlymą dėl teisės medžioti, suteiktos tam tikram asmeniui, panaikinimo gali pateikti Aplinkos ministerijos regionų aplinkos apsaugos departamentai, policija, atitinkamos gydymo įstaigos, Lietuvos medžiotojų ir žvejų draugija ir kitos medžiotojų visuomeninės organizacijos, kai paaiškėja šio straipsnio 1 dalyje nurodytos sąlygos.
+2. Aplinkos ministerijos regiono aplinkos apsaugos departamento teisės medžioti suteikimo ir panaikinimo komisijai pasiūlymą dėl teisės medžioti, suteiktos tam tikram asmeniui, panaikinimo gali pateikti Aplinkos ministerijos regionų aplinkos apsaugos departamentai, policija, atitinkamos gydymo įstaigos, Lietuvos medžiotojų ir žvejų draugija ir kitos medžiotojų visuomeninės organizacijos, kai paaiškėja šio straipsnio 1 dalyje nurodytos sąlygos. 
+Straipsnio dalies pakeitimai:
+Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA00XI-824
+ 
 
 
 
@@ -1073,7 +1101,9 @@ TEISĖ MEDŽIOTI. MEDŽIOTOJO BILIETAS
 
 
 
-4. Apskrities teisės medžioti suteikimo ir panaikinimo komisija informaciją apie priimtus sprendimus panaikinti asmenims suteiktą teisę medžioti ir kitos institucijos informaciją apie medžiotojams skirtas nuobaudas privalo pateikti Aplinkos ministerijai ir medžiotojų visuomeninėms organizacijoms, kurių nariai yra šie asmenys.
+4. Aplinkos ministerijos regiono aplinkos apsaugos departamento teisės medžioti suteikimo ir panaikinimo komisija informaciją apie priimtus sprendimus panaikinti asmenims suteiktą teisę medžioti ir kitos institucijos informaciją apie medžiotojams skirtas nuobaudas privalo pateikti Aplinkos ministerijai ir medžiotojų visuomeninėms organizacijoms, kurių nariai yra šie asmenys.
+Straipsnio dalies pakeitimai:
+Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA00XI-824
  
 
 
@@ -1343,3 +1373,8 @@ Dėl Lietuvos Respublikos medžioklės įstatymo 7 straipsnio 2 dalies, 8 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-327, 2009-07-07, Žin., 2009, Nr. 85-3584 (2009-07-18), i. k. 1091010ISTA00XI-327
 Lietuvos Respublikos medžioklės įstatymo 4 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA00XI-824
+Lietuvos Respublikos medžioklės įstatymo 5, 8, 14, 15, 16 straipsnių pakeitimo ir papildymo įstatymas
