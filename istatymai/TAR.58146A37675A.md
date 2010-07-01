@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.58146A37675A"
 
 # Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2006-01-17 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 82-2414, i. k. 0991010ISTAIII-1328
  
@@ -250,14 +250,11 @@ Nr. VIII-1847, 2000-07-13, Žin., 2000, Nr. 61-1838 (2000-07-26), i. k. 1001010I
 
 
 
-4) apskričių viršininkai;
-
-
-
-
-5) savivaldybių institucijos.
+4) savivaldybių institucijos.
 Straipsnio punkto pakeitimai:
 Nr. IX-2531, 2004-11-02, Žin., 2004, Nr. 170-6237 (2004-11-25), i. k. 1041010ISTA0IX-2531
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-749, 2010-04-13, Žin., 2010, Nr. 48-2299 (2010-04-27), i. k. 1101010ISTA00XI-749
  
 
 
@@ -281,17 +278,17 @@ Nr. VIII-1847, 2000-07-13, Žin., 2000, Nr. 61-1838 (2000-07-26), i. k. 1001010I
 
 
 
-3) regioninės etninės kultūros globos tarybos padeda apskričių viršininkams ir savivaldos institucijoms spręsti etnografinio regiono etninės kultūros globos klausimus;
+3) regioninės etninės kultūros globos tarybos padeda savivaldybių institucijoms spręsti etnografinio regiono etninės kultūros globos klausimus; 
+Straipsnio punkto pakeitimai:
+Nr. XI-749, 2010-04-13, Žin., 2010, Nr. 48-2299 (2010-04-27), i. k. 1101010ISTA00XI-749
+ 
 
 
 
 
-4) apskričių viršininkai rūpinasi visų į apskrities teritoriją įeinančių etnografinių regionų etninės kultūros problemų sprendimu, išlaiko esamas ir steigia naujas etninės kultūros globai reikalingas etninės kultūros institucijas ir jų padalinius, darbuotojų etatus;
-
-
-
-
-5) savivaldybės rūpinasi vietos etninės kultūros išsaugojimu ir stiprinimu, išlaiko esamas ir (ar) steigia naujas etninės kultūros globai reikalingas institucijas ar padalinius, darbuotojų etatus, organizuoja etninės kultūros vertybių rinkimą, fiksavimą bei tyrinėjimą, bendradarbiaudamos su šalies mokslinio tyrimo ir metodinėmis institucijomis bei organizacijomis.
+4) savivaldybės rūpinasi vietos etninės kultūros išsaugojimu ir stiprinimu, išlaiko esamas ir (ar) steigia naujas etninės kultūros globai reikalingas institucijas ar padalinius, darbuotojų etatus, organizuoja etninės kultūros vertybių rinkimą, fiksavimą bei tyrinėjimą, bendradarbiaudamos su šalies mokslinio tyrimo ir metodinėmis institucijomis bei organizacijomis.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-749, 2010-04-13, Žin., 2010, Nr. 48-2299 (2010-04-27), i. k. 1101010ISTA00XI-749
  
 
 
@@ -448,7 +445,10 @@ Nr. IX-2531, 2004-11-02, Žin., 2004, Nr. 170-6237 (2004-11-25), i. k. 1041010IS
 
 
 
-2) teikia metodinę ir organizacinę paramą etninės kultūros srityje apskričių bei savivaldybių institucijoms;
+2) teikia metodinę ir organizacinę paramą etninės kultūros srityje savivaldybių institucijoms; 
+Straipsnio punkto pakeitimai:
+Nr. XI-749, 2010-04-13, Žin., 2010, Nr. 48-2299 (2010-04-27), i. k. 1101010ISTA00XI-749
+ 
 
 
 
@@ -490,7 +490,10 @@ Nr. IX-2531, 2004-11-02, Žin., 2004, Nr. 170-6237 (2004-11-25), i. k. 1041010IS
 
 
 
-8. Valstybės ir savivaldos institucijos įstatymų nustatyta tvarka panaudos pagrindais gali suteikti patalpas ar kitą turtą, reikalingą etninės kultūros subjektų veiklai. 
+8. Valstybės ir savivaldybių institucijos įstatymų nustatyta tvarka panaudos pagrindais gali suteikti patalpas ar kitą turtą, reikalingą etninės kultūros subjektų veiklai.
+Straipsnio dalies pakeitimai:
+Nr. XI-749, 2010-04-13, Žin., 2010, Nr. 48-2299 (2010-04-27), i. k. 1101010ISTA00XI-749
+ 
 
 
 
@@ -587,7 +590,10 @@ Nr. X-484, 2006-01-09, Žin., 2006, Nr. 6-192 (2006-01-17), i. k. 1061010ISTA000
 
 
 
-3. Apskričių viršininkai ir savivaldybės išlaiko jų globai priskirtas etninės kultūros institucijas, finansuoja savo regiono etninės kultūros vertybių kaupimo, konservavimo, restauravimo, tyrimo bei populiarinimo programas.
+3. Savivaldybės išlaiko jų globai priskirtas etninės kultūros institucijas, finansuoja savivaldybių etninės kultūros vertybių kaupimo, konservavimo, restauravimo, tyrimo bei populiarinimo programas. 
+Straipsnio dalies pakeitimai:
+Nr. XI-749, 2010-04-13, Žin., 2010, Nr. 48-2299 (2010-04-27), i. k. 1101010ISTA00XI-749
+ 
 
 
 
@@ -602,12 +608,25 @@ Nr. X-484, 2006-01-09, Žin., 2006, Nr. 6-192 (2006-01-17), i. k. 1061010ISTA000
 
 
 
-6. Kultūros ministerija, apskričių administracijos ir savivaldybės finansuoja arba remia etnine kultūra pagrįstas regiono, miestų ir miestelių šventes, taip pat vietinius ir tarptautinius folkloro festivalius bei kitus etninės kultūros populiarinimui skirtus renginius.
+6. Kultūros ministerija finansuoja etnine kultūra pagrįstas etnografinių regionų šventes ir tarptautinius folkloro festivalius. 
+Straipsnio dalies pakeitimai:
+Nr. XI-749, 2010-04-13, Žin., 2010, Nr. 48-2299 (2010-04-27), i. k. 1101010ISTA00XI-749
+ 
 
 
 
 
-7. Spaudos, radijo ir televizijos rėmimo fondas, atsižvelgdamas į Etninės kultūros globos tarybos rekomendacijas, remia viešosios informacijos rengėjų programas, skirtas etninei kultūrai populiarinti, etninės kultūros periodinius leidinius.
+7. Savivaldybės finansuoja arba remia etnine kultūra pagrįstas miestų ir miestelių šventes, vietinius ir tarptautinius folkloro festivalius ir kitus etninės kultūros populiarinimui skirtus renginius. 
+Papildyta straipsnio dalimi:
+Nr. XI-749, 2010-04-13, Žin., 2010, Nr. 48-2299 (2010-04-27), i. k. 1101010ISTA00XI-749
+ 
+
+
+
+
+8. Spaudos, radijo ir televizijos rėmimo fondas, atsižvelgdamas į Etninės kultūros globos tarybos rekomendacijas, remia viešosios informacijos rengėjų programas, skirtas etninei kultūrai populiarinti, etninės kultūros periodinius leidinius.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-749, 2010-04-13, Žin., 2010, Nr. 48-2299 (2010-04-27), i. k. 1101010ISTA00XI-749
  
 
 
@@ -659,3 +678,8 @@ Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-484, 2006-01-09, Žin., 2006, Nr. 6-192 (2006-01-17), i. k. 1061010ISTA000X-484
 Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo 10 straipsnio pakeitimo ir 11 straipsnio bei IV skyriaus pripažinimo netekusiais galios įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-749, 2010-04-13, Žin., 2010, Nr. 48-2299 (2010-04-27), i. k. 1101010ISTA00XI-749
+Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo 5, 8, 10 straipsnių pakeitimo ir papildymo įstatymas
