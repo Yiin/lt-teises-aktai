@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5A04D7CC7EF6"
 
 # Lietuvos Respublikos bibliotekų įstatymas
 
-Suvestinė redakcija nuo 2004-08-03 iki 2010-06-30
+Suvestinė redakcija nuo 2010-07-01 iki 2013-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 51-1245, i. k. 0951010ISTA000I-920
  
@@ -154,7 +154,10 @@ Kultūros ministerija atlieka bibliotekų valstybinio valdymo institucijos funkc
 
 
 
-8) finansiškai gali remti bibliotekas, įgyvendinančias valstybines bibliotekų plėtros programas, neatsižvelgdama į jų teisinę formą ir statusą;
+8) gali finansuoti bibliotekas, įgyvendinančias valstybines bibliotekų plėtros programas, neatsižvelgdama į jų teisinę formą ir statusą; 
+Straipsnio punkto pakeitimai:
+Nr. XI-775, 2010-04-22, Žin., 2010, Nr. 53-2597 (2010-05-08), i. k. 1101010ISTA00XI-775
+ 
 
 
 
@@ -453,25 +456,32 @@ BIBLIOTEKŲ SISTEMA
 9 straipsnis. Apskrities viešoji biblioteka
 
 
-1. Apskrities viešoji biblioteka yra biudžetinė įstaiga. Jos steigėjas yra apskrities viršininkas. 
+1. Apskrities viešoji biblioteka yra biudžetinė įstaiga. Jos steigėja yra Lietuvos Respublikos kultūros ministerija (toliau – Kultūros ministerija). Kultūros ministerija nustato apskričių viešųjų bibliotekų veiklos teritoriją apskrityse (toliau – nustatyta teritorija), suderinusi su į šią teritoriją įeinančių savivaldybių tarybomis. 
 
 
 
 
-2. Apskrities viešoji biblioteka užtikrina valstybinių bibliotekininkystės plėtojimo programų vykdymą apskrityje, aptarnauja vartotojus, yra apskrities teritorijoje veikiančių viešųjų bibliotekų veiklos tyrimo, koordinavimo, metodinės pagalbos, tarpbibliotekinio abonemento, bibliografijos, kraštotyros ir informacijos centras.
+2. Apskrities viešoji biblioteka yra nustatytoje teritorijoje veikiančių bibliotekų veiklos tyrimo, koordinavimo, metodinės pagalbos, bibliotekininkų kvalifikacijos kėlimo, tarpbibliotekinio skolinimo paslaugų, bibliografijos, kraštotyros ir informacijos centras, kuris užtikrina valstybinių bibliotekininkystės plėtros programų vykdymą, aptarnauja vartotojus, suteikia galimybių tenkinti kultūros, savišvietos ir švietimo  poreikius, ugdyti etnografinių regionų tradicijas, didinti kultūros ir meno paslaugų sklaidą.
 
 
 
 
-3. Apskrities viešoji biblioteka kaupia ir saugo apskrities poreikius tenkinantį universalų dokumentų fondą, dalyvauja formuojant Lietuvos bibliotekų fondą ir kuriant bibliotekų informacijos sistemą.
+3. Apskrities viešoji biblioteka kaupia ir saugo nustatytos teritorijos poreikius tenkinantį universalų dokumentų fondą, dalyvauja sudarant Lietuvos bibliotekų fondą ir kuriant bibliotekų informacijos sistemą.
 
 
 
 
-4. Apskrities viešoji biblioteka apskrities ir savivaldybės sutartimi gali atlikti savivaldybės viešosios bibliotekos funkcijas.
+4. Apskrities viešoji biblioteka steigėjo ir savivaldybės sutartimi gali atlikti savivaldybės viešosios bibliotekos funkcijas.
+
+
+
+
+5. Apskrities viešoji biblioteka gali vykdyti Kultūros ministerijos nustatytas nacionalinio lygmens bibliotekų veiklos funkcijas. 
+
+
+Straipsnio pakeitimai:
+Nr. XI-775, 2010-04-22, Žin., 2010, Nr. 53-2597 (2010-05-08), i. k. 1101010ISTA00XI-775
  
-
-
 
 
 
@@ -494,7 +504,10 @@ BIBLIOTEKŲ SISTEMA
 
 
 
-4. Gali būti steigiami savivaldybės viešosios bibliotekos filialai miesto mikrorajonuose, miesteliuose ir (arba) kaimuose, taip pat filialai, aptarnaujantys vaikus ar kitas vartotojų grupes, bei mobiliosios bibliotekos.
+4. Gali būti steigiami savivaldybės viešosios bibliotekos filialai ir įkuriami struktūriniai padaliniai (toliau – filialai) miesto mikrorajonuose, miesteliuose ir (arba) kaimuose, taip pat filialai, aptarnaujantys vaikus ar kitas vartotojų grupes, bei mobiliosios bibliotekos. 
+Straipsnio dalies pakeitimai:
+Nr. XI-775, 2010-04-22, Žin., 2010, Nr. 53-2597 (2010-05-08), i. k. 1101010ISTA00XI-775
+ 
 
 
 
@@ -767,3 +780,8 @@ Lietuvos Respublikos bibliotekų įstatymo 16 straipsnio pakeitimo ir papildymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2378, 2004-07-15, Žin., 2004, Nr. 120-4431 (2004-08-03), i. k. 1041010ISTA0IX-2378
 Lietuvos Respublikos bibliotekų įstatymo pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-775, 2010-04-22, Žin., 2010, Nr. 53-2597 (2010-05-08), i. k. 1101010ISTA00XI-775
+Lietuvos Respublikos bibliotekų įstatymo 4, 9 ir 10 straipsnių pakeitimo įstatymas
