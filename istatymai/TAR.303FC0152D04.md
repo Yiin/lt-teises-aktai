@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.303FC0152D04"
 
 # Lietuvos Respublikos reklamos įstatymas
 
-Suvestinė redakcija nuo 2008-07-01 iki 2010-07-02
+Suvestinė redakcija nuo 2010-07-03 iki 2011-10-12
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1937, i. k. 1001010ISTAIII-1871
  
@@ -93,7 +93,9 @@ Nr. X-808, 2006-09-14, Žin., 2006, Nr. 107-4046 (2006-10-06), i. k. 1061010ISTA
 2 straipsnis. Pagrindinės šio įstatymo sąvokos 
 
 
-1. Asmuo – juridinis ar fizinis asmuo. 
+1. Neteko galios nuo 2010-07-03
+Straipsnio dalies naikinimas:
+Nr. XI-923, 2010-06-22, Žin. 2010, Nr. 79-4056 (2010-07-03), i. k. 1101010ISTA00XI-923
 Straipsnio dalies pakeitimai:
 Nr. IX-1212, 2002-12-03, Žin., 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
  
@@ -109,7 +111,10 @@ Nr. X-1414, 2008-01-11, Žin., 2008, Nr. 11-374 (2008-01-26); Žin., 2008, Nr. 1
 
 
 
-3. Išorinė reklama – reklama, kurios pateikimo priemonės yra ne patalpose. Šioms pateikimo priemonėms priskiriamos įvairios specialios (stendai, skydai, stulpai, vitrinos, iškabos ir pan.) ir pritaikytos (pastatų sienos, stogai, laikinieji statiniai, transporto priemonės, oro balionai ir pan.) reklamos pateikimo priemonės.
+3. Išorinė reklama – reklama, kurios įvairios specialios (stendai, skydai, stulpai, vitrinos, iškabos ir pan.) ir pritaikytos (pastatų sienos, stogai, laikinieji statiniai, transporto priemonės, oro balionai ir pan.) pateikimo priemonės yra ne patalpose. 
+Straipsnio dalies pakeitimai:
+Nr. XI-923, 2010-06-22, Žin., 2010, Nr. 79-4056 (2010-07-03), i. k. 1101010ISTA00XI-923
+ 
 
 
 
@@ -145,7 +150,10 @@ Nr. X-1414, 2008-01-11, Žin., 2008, Nr. 11-374 (2008-01-26); Žin., 2008, Nr. 1
 
 
 
-9. Reklamos gamintojas – reklamos gamybos paslaugas teikiantis asmuo.
+9. Reklamos gamintojas – reklamos paslaugų teikėjas, teikiantis reklamos gamybos paslaugas. 
+Straipsnio dalies pakeitimai:
+Nr. XI-923, 2010-06-22, Žin., 2010, Nr. 79-4056 (2010-07-03), i. k. 1101010ISTA00XI-923
+ 
 
 
 
@@ -155,42 +163,69 @@ Nr. X-1414, 2008-01-11, Žin., 2008, Nr. 11-374 (2008-01-26); Žin., 2008, Nr. 1
 
 
 
-11. Reklaminės veiklos subjektas – reklamos davėjas, gamintojas, tarpininkas ar skleidėjas.
-
-
-
-
-12. Reklamos savitvarkos institucija – reklaminės veiklos subjektų įsteigta savanoriškos kontrolės institucija, kuri vadovaujasi šiuo ir kitais įstatymais, reglamentuojančiais reklaminę veiklą, taip pat savo patvirtintomis taisyklėmis (kodeksu).
-
-
-
-
-13. Reklamos skleidėjas – bet kokiomis informacijos perteikimo priemonėmis reklamą skleidžiantis asmuo.
-
-
-
-
-14. Reklamos tarpininkas – asmuo, tarpininkaujantis užsakant reklamos skleidimo arba reklamos gamybos ir skleidimo paslaugas.
-
-
-
-
-15. Reklamos vartotojas – asmuo, kuriam skiriama arba kurį gali pasiekti reklama.
-
-
-
-
-16. Prekių ženklas – bet koks žymuo, kurio paskirtis – atskirti vieno asmens prekes arba paslaugas nuo kito asmens prekių ar paslaugų ir kurį galima pavaizduoti grafiškai. 
-Straipsnio dalies pakeitimai:
-Nr. IX-1212, 2002-12-03, Žin., 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
+11. Reklamos paslaugų teikėjas – Lietuvos Respublikos, kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės (toliau – valstybė narė) pilietis, kitas fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, Lietuvos Respublikoje įsteigtas juridinis asmuo arba kitoje valstybėje narėje įsteigtas juridinis asmuo, kita organizacija ar jų filialai, užsienio valstybės juridinio asmens ar kitos organizacijos filialas, įsteigtas Lietuvos Respublikoje, teikiantys reklamos gamintojo, reklamos skleidėjo ar (ir) reklamos tarpininko paslaugas. 
+Papildyta straipsnio dalimi:
+Nr. XI-923, 2010-06-22, Žin., 2010, Nr. 79-4056 (2010-07-03), i. k. 1101010ISTA00XI-923
  
 
 
 
 
-17. Šiame įstatyme vartojamos sąvokos „komercinis pasiūlymas“, „komercinės veiklos subjektas“, „sprendimas dėl sandorio“, „vartotojas“, „vidutinis vartotojas“ suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatyme. 
+12. Reklaminės veiklos subjektas – reklamos davėjas, reklamos paslaugų teikėjas. 
+Straipsnio dalies pakeitimai:
+Nr. XI-923, 2010-06-22, Žin., 2010, Nr. 79-4056 (2010-07-03), i. k. 1101010ISTA00XI-923
+ 
+
+
+
+
+13. Reklamos savitvarkos institucija – reklaminės veiklos subjektų įsteigta savanoriškos kontrolės institucija, kuri vadovaujasi teisės aktais, reglamentuojančiais reklaminę veiklą, taip pat savo patvirtintomis taisyklėmis (kodeksu). 
+Straipsnio dalies pakeitimai:
+Nr. XI-923, 2010-06-22, Žin., 2010, Nr. 79-4056 (2010-07-03), i. k. 1101010ISTA00XI-923
+ 
+
+
+
+
+14. Reklamos skleidėjas – reklamos paslaugų teikėjas, skleidžiantis reklamą bet kokiomis informacijos perteikimo priemonėmis. 
+Straipsnio dalies pakeitimai:
+Nr. XI-923, 2010-06-22, Žin., 2010, Nr. 79-4056 (2010-07-03), i. k. 1101010ISTA00XI-923
+ 
+
+
+
+
+15. Reklamos tarpininkas – reklamos paslaugų teikėjas, tarpininkaujantis užsakant reklamos skleidimo arba reklamos gamybos ir skleidimo paslaugas. 
+Straipsnio dalies pakeitimai:
+Nr. XI-923, 2010-06-22, Žin., 2010, Nr. 79-4056 (2010-07-03), i. k. 1101010ISTA00XI-923
+ 
+
+
+
+
+16. Reklamos vartotojas – asmuo, kuriam skiriama arba kurį gali pasiekti reklama.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-923, 2010-06-22, Žin., 2010, Nr. 79-4056 (2010-07-03), i. k. 1101010ISTA00XI-923
+ 
+
+
+
+
+17. Prekių ženklas – bet koks žymuo, kurio paskirtis – atskirti vieno asmens prekes arba paslaugas nuo kito asmens prekių ar paslaugų ir kurį galima pavaizduoti grafiškai. 
+Straipsnio dalies pakeitimai:
+Nr. IX-1212, 2002-12-03, Žin., 2002, Nr. 123-5508 (2002-12-24), i. k. 1021010ISTA0IX-1212
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-923, 2010-06-22, Žin., 2010, Nr. 79-4056 (2010-07-03), i. k. 1101010ISTA00XI-923
+ 
+
+
+
+
+18. Šiame įstatyme vartojamos sąvokos „komercinis pasiūlymas“, „komercinės veiklos subjektas“, „sprendimas dėl sandorio“, „vartotojas“, „vidutinis vartotojas“ suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatyme. 
 Papildyta straipsnio dalimi:
 Nr. X-1414, 2008-01-11, Žin., 2008, Nr. 11-374 (2008-01-26); Žin., 2008, Nr. 16-0 (2008-02-07), i. k. 1081010ISTA00X-1414
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-923, 2010-06-22, Žin., 2010, Nr. 79-4056 (2010-07-03), i. k. 1101010ISTA00XI-923
  
 
 
@@ -1125,3 +1160,8 @@ Lietuvos Respublikos reklamos įstatymo 1, 17, 19 straipsnių ir priedo pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1414, 2008-01-11, Žin., 2008, Nr. 11-374 (2008-01-26); Žin., 2008, Nr. 16-0 (2008-02-07), i. k. 1081010ISTA00X-1414
 Lietuvos Respublikos reklamos įstatymo 1, 2, 5, 6, 12, 17, 18, 22, 23, 24, 25 straipsnių ir priedo pakeitimo ir papildymo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-923, 2010-06-22, Žin., 2010, Nr. 79-4056 (2010-07-03), i. k. 1101010ISTA00XI-923
+Lietuvos Respublikos reklamos įstatymo 2 straipsnio pakeitimo ir papildymo įstatymas
