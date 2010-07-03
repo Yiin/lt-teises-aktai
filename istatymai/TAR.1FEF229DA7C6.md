@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1FEF229DA7C6"
 
 # Lietuvos Respublikos dokumentų ir archyvų įstatymas
 
-Suvestinė redakcija nuo 2008-04-30 iki 2010-07-02
+Suvestinė redakcija nuo 2010-07-03 iki 2010-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2389, i. k. 0951010ISTA00I-1115
  
@@ -690,23 +690,20 @@ Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000
 
 
 
-16 straipsnis. Likviduojamų valstybės ir savivaldybių institucijų, įstaigų ir įmonių veiklos dokumentų perdavimas
+16 straipsnis. Likviduojamų ar reorganizuojamų valstybės ir savivaldybių institucijų, įstaigų ir įmonių veiklos dokumentų perdavimas
 
 
-Likviduojamos valstybės ar savivaldybės institucijos, įstaigos ar įmonės veiklos dokumentai perduodami:
-
-
-1) nuolatinio saugojimo dokumentai – valstybės archyvui;
+1. Likviduojamos ar reorganizuojamos valstybės ar savivaldybės institucijos, įstaigos ar įmonės, kuri po reorganizavimo pasibaigia, nuolatinio saugojimo dokumentai perduodami valstybės archyvui. 
 
 
 
 
-2) dokumentai, kurių saugojimo terminas, nustatytas teisės norminiuose aktuose, nėra pasibaigęs, – likviduojamos institucijos, įstaigos ar įmonės funkcijų perėmėjui, o jeigu jo nėra, – steigėjo funkcijų vykdytojui.
+2. Likviduojamos valstybės ar savivaldybės institucijos, įstaigos ar įmonės dokumentai, kurių saugojimo terminas, nustatytas norminiuose teisės aktuose, nėra pasibaigęs, perduodami likviduojamos institucijos, įstaigos ar įmonės funkcijų perėmėjui, o jeigu jo nėra, – savininko teises ir pareigas įgyvendinančiai institucijai ar jos įgaliotai įstaigai arba, jeigu likviduojamos valstybės institucijos, įstaigos ar įmonės savininko teises ir pareigas įgyvendinanti institucija yra Lietuvos Respublikos Seimas arba Lietuvos Respublikos Vyriausybė, – savivaldybei, kurios teritorijoje buvo valstybės institucijos, įstaigos ar įmonės buveinė.
+
+
+Straipsnio pakeitimai:
+Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
  
-
-
-
-
 
 
 
@@ -1025,3 +1022,8 @@ Lietuvos Respublikos dokumentų ir archyvų įstatymo 1, 2, 3, 14, 20 straipsni�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1497, 2008-04-15, Žin., 2008, Nr. 50-1846 (2008-04-30), i. k. 1081010ISTA00X-1497
 Lietuvos Respublikos dokumentų ir archyvų įstatymo 10 ir 14 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
+Lietuvos Respublikos dokumentų ir archyvų įstatymo 1, 2, 4, 5, 6, 7, 8, 11, 12, 13, 14, 15, 16, 18 straipsnių, antrojo skirsnio pavadinimo pakeitimo, 9 straipsnio pripažinimo netekusiu galios ir Įstatymo priedo papildymo įstatymas
