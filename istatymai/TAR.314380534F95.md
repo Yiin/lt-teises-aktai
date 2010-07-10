@@ -389,14 +389,15 @@ apskaičiuojamos ir mokamos nuo Valstybinio socialinio
 draudimo įstatymo 7 straipsnio 2 dalyje nurodytų šių asmenų gautų pajamų
 metinės sumos, neviršijančios keturių Lietuvos Respublikos Vyriausybės
 patvirtintų einamųjų metų draudžiamųjų pajamų dydžių sumos per mėnesį.
-6.
-Ūkininkų ir jų partnerių bei asmenų, gavusių pajamas iš sporto veiklos, asmenų,
-gavusių pajamas iš atlikėjo veiklos, ir asmenų, gavusių pajamas pagal autorines
-sutartis iš draudėjo, su kuriuo jie yra susiję darbo santykiais arba jų esmę
-atitinkančiais santykiais, socialinio draudimo įmokų tarifas 2010 metais
-didinamas dvigubai, negu buvo numatyta 2009 metams, o nuo 2011 m. sausio 1 d.
-socialinio draudimo įmokos mokamos pagal bendrąjį tarifą, nustatytą Valstybinio
-socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatyme.
+6. Ūkininkų ir
+jų partnerių, asmenų, gavusių pajamas iš sporto ar atlikėjo veiklos iš
+draudėjo, su kuriuo jie yra susiję darbo santykiais arba jų esmę atitinkančiais
+santykiais, taip pat Valstybinio socialinio draudimo įstatymo 4
+straipsnio 1 dalyje nurodytų asmenų, gavusių pajamas pagal autorines sutartis,
+socialinio draudimo įmokų tarifas 2010 metais didinamas dvigubai, negu buvo
+numatyta 2009 metams, o nuo 2011 m. sausio 1 d. socialinio draudimo įmokos
+mokamos pagal bendrąjį tarifą, nustatytą Valstybinio socialinio draudimo fondo
+biudžeto rodiklių patvirtinimo įstatyme.
 7.
 Lietuvos Respublikos Vyriausybė iki 2009 m. liepos 1 d. Lietuvos Respublikos Seimui pateikia teisės aktų pakeitimus, numatančius advokatų, advokatų
 padėjėjų, notarų ir antstolių socialinio draudimo sistemą, atsižvelgiant į šių
@@ -410,6 +411,8 @@ XI-390,
 2009-07-22, Žin., 2009, Nr. 93-3982 (2009-08-04)
 Nr. XI-527,
 2009-12-08, Žin., 2009, Nr. 151-6774 (2009-12-22)
+Nr. XI-931,
+2010-06-22, Žin., 2010, Nr. 81-4225 (2010-07-10)
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -452,10 +455,24 @@ IR PAPILDYMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2010 m. sausio
 1 d.
  
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-931,
+2010-06-22, Žin., 2010, Nr. 81-4225 (2010-07-10)
+VALSTYBINIO
+SOCIALINIO DRAUDIMO ĮSTATYMO 2, 3, 4, 5, 7, 8, 9, 29, 31 STRAIPSNIŲ PAKEITIMO
+IR PAPILDYMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šio įstatymo nuostatos taikomos asmenų,
+kurie pagal Valstybinio socialinio draudimo įstatymo 4 straipsnio 1 dalies
+nuostatas privalomai draudžiami visomis socialinio draudimo rūšimis, mokamiems
+socialinio draudimo įmokų tarifams.
+ 
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2009-12-22)
+(2010-07-14)
                  
 autrap@lrs.lt
