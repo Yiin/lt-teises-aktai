@@ -28,16 +28,23 @@ PIRMASIS
 SKIRSNIS
 BENDROSIOS NUOSTATOS
  
-1
-straipsnis. Įstatymo paskirtis
-Šis įstatymas
-sudaro prielaidas įgyvendinti Lietuvos Respublikos Konstitucijos nuostatą, kad
-visos valdžios įstaigos tarnauja žmonėms; nustato viešojo administravimo
-principus, viešojo administravimo sritis, viešojo administravimo subjektų
-sistemą ir administracinės procedūros organizavimo pagrindus; garantuoja asmenų
-teisę apskųsti viešojo administravimo subjektų veiksmus, neveikimą ar
+1 straipsnis.
+Įstatymo paskirtis
+Šis įstatymas sudaro prielaidas
+įgyvendinti Lietuvos Respublikos Konstitucijos nuostatą, kad visos valdžios
+įstaigos tarnauja žmonėms; nustato viešojo administravimo principus, viešojo
+administravimo sritis, viešojo administravimo subjektų sistemą ir
+administracinės procedūros organizavimo pagrindus; garantuoja asmenų teisę
+apskųsti viešojo administravimo subjektų veiksmus, neveikimą ar
 administracinius sprendimus, taip pat teisę į įstatymais pagrįstą ir objektyvų
-asmenų prašymų, skundų ir pranešimų nagrinėjimą.
+asmenų prašymų, skundų ir pranešimų nagrinėjimą; įtvirtina kitas asmenų ir
+viešojo administravimo subjektų teises ir pareigas viešojo administravimo
+srityje.
+Straipsnio
+pakeitimai:
+Nr.
+XI-934, 2010-06-22,
+Žin., 2010, Nr. 81-4228 (2010-07-10)
  
 2
 straipsnis. Pagrindinės šio įstatymo sąvokos 
@@ -126,6 +133,17 @@ taip pat viešųjų paslaugų teikimo priežiūra ir kontrolė.
 21. Tarnybinė
 pagalba – viešojo administravimo subjekto veikla teikiant informacinę
 ir kitokią pagalbą kitam viešojo administravimo subjektui šio prašymu.
+22. Ūkio subjektas –
+fizinis ar juridinis asmuo arba kita organizacija, juridinio asmens ar kitos
+organizacijos filialas, Lietuvos Respublikos teritorijoje vykdantis teisės aktų
+reglamentuojamą ūkinę veiklą, kurią prižiūri šio ir kitų įstatymų nustatyta
+tvarka įgalioti atlikti viešąjį administravimą subjektai.
+23.
+Ūkio subjekto veiklos patikrinimas (toliau – veiklos patikrinimas) –
+teisės aktų reglamentuoti šio ir kitų įstatymų nustatyta tvarka įgaliotų
+atlikti viešąjį administravimą subjektų vykdomi veiksmai (ūkio subjekto
+dokumentų, darbų patikrinimas, tyrimas, inspektavimas, dokumentų poėmis ir
+kiti), kuriais tikrinama ūkio subjekto veikla.
 Straipsnio
 pakeitimai:
 Nr. X-1743,
@@ -133,6 +151,9 @@ Nr. X-1743,
 Nr.
 XI-283,
 2009-06-11, Žin., 2009, Nr. 75-3062 (2009-06-25)
+Nr.
+XI-934,
+2010-06-22, Žin., 2010, Nr. 81-4228 (2010-07-10)
  
 3 straipsnis.
 Viešojo administravimo principai
@@ -140,10 +161,10 @@ Viešojo
 administravimo subjektai savo veikloje vadovaujasi šiais principais:
 1) įstatymo viršenybės. Šis principas
 reiškia, kad viešojo administravimo subjektų įgaliojimai atlikti viešąjį
-administravimą turi būti nustatyti teisės aktuose, o veikla turi atitikti
-šiame įstatyme išdėstytus teisinius pagrindus. Administraciniai aktai, susiję
-su asmenų teisių ir pareigų įgyvendinimu, visais atvejais turi būti pagrįsti
-įstatymais;
+administravimą turi būti nustatyti teisės aktuose, o veikla turi
+atitikti šiame įstatyme išdėstytus teisinius pagrindus. Administraciniai aktai,
+susiję su asmenų teisių ir pareigų įgyvendinimu, visais atvejais turi būti
+pagrįsti įstatymais;
 2) objektyvumo.
 Šis principas reiškia, kad administracinio sprendimo priėmimas ir kiti
 oficialūs viešojo administravimo subjekto veiksmai turi būti nešališki ir
@@ -152,16 +173,16 @@ objektyvūs;
 proporcingumo. Šis principas reiškia, kad administracinio sprendimo mastas ir
 jo įgyvendinimo priemonės turi atitikti būtinus ir pagrįstus administravimo
 tikslus;
-4) nepiktnaudžiavimo
-valdžia. Šis principas reiškia, kad viešojo administravimo subjektams
-draudžiama atlikti viešojo administravimo funkcijas neturint šio įstatymo
-nustatyta tvarka suteiktų viešojo administravimo įgaliojimų arba priimti
-administracinius sprendimus, siekiant kitų, negu įstatymų ar kitų norminių
-teisės aktų nustatyta, tikslų;
+4)
+nepiktnaudžiavimo valdžia. Šis principas reiškia, kad viešojo administravimo
+subjektams draudžiama atlikti viešojo administravimo funkcijas neturint šio
+įstatymo nustatyta tvarka suteiktų viešojo administravimo įgaliojimų arba
+priimti administracinius sprendimus, siekiant kitų, negu įstatymų ar kitų
+norminių teisės aktų nustatyta, tikslų;
 5) tarnybinio
 bendradarbiavimo. Šis principas reiškia, kad viešojo administravimo subjektai,
-rengdami administracinius sprendimus, prireikus teikia vienas kitam
-reikalingą informacinę ir kitokią pagalbą;
+rengdami administracinius sprendimus, prireikus teikia vienas kitam reikalingą
+informacinę ir kitokią pagalbą;
 6) efektyvumo. Šis principas reiškia, kad viešojo administravimo
 subjektas, priimdamas ir įgyvendindamas sprendimus, jam skirtus išteklius
 naudoja ekonomiškai, rezultatų siekia kuo mažesnėmis sąnaudomis;
@@ -170,13 +191,14 @@ naudoja ekonomiškai, rezultatų siekia kuo mažesnėmis sąnaudomis;
 sprendimai turi būti priimami ir įgyvendinami tuo viešojo administravimo
 sistemos lygiu, kuriuo jie yra efektyviausi;
 8) „vieno
-langelio“. Šis principas reiškia, kad asmeniui informacija
-suteikiama, prašymas, skundas ar pranešimas priimamas ir atsakymas į juos pateikiamas vienoje darbo vietoje. Prašymą,
-skundą ar pranešimą nagrinėja ir informaciją iš savo administracijos padalinių,
-pavaldžių subjektų, prireikus – ir iš kitų viešojo administravimo subjektų
-gauna pats prašymą, skundą ar pranešimą nagrinėjantis ir administracinį
-sprendimą priimantis viešojo administravimo subjektas, neįpareigodamas tai
-atlikti prašymą, skundą ar pranešimą padavusį asmenį.
+langelio“. Šis principas reiškia, kad asmeniui informacija suteikiama,
+prašymas, skundas ar pranešimas priimamas ir atsakymas į
+juos pateikiamas vienoje darbo vietoje. Prašymą, skundą ar pranešimą
+nagrinėja ir informaciją iš savo administracijos padalinių, pavaldžių subjektų,
+prireikus – ir iš kitų viešojo administravimo subjektų gauna pats prašymą,
+skundą ar pranešimą nagrinėjantis ir administracinį sprendimą priimantis
+viešojo administravimo subjektas, neįpareigodamas tai atlikti prašymą, skundą
+ar pranešimą padavusį asmenį.
 Straipsnio
 pakeitimai:
 Nr.
@@ -230,9 +252,10 @@ suteikti:
 1)
 įstatymais, tiesiogiai taikomu Europos Sąjungos teisės aktu, ratifikuota
 Lietuvos Respublikos tarptautine sutartimi, kai tame teisės akte nurodomas
-konkretus veikiantis ar numatomas steigti subjektas (prireikus jo pavadinimas, paskirtis,
-teisinė forma, santykiai su kitais viešojo administravimo subjektais ir kt.) ir
-šiam subjektui nustatomi konkretūs viešojo administravimo įgaliojimai;
+konkretus veikiantis ar numatomas steigti subjektas (prireikus jo pavadinimas,
+paskirtis, teisinė forma, santykiai su kitais viešojo administravimo subjektais
+ir kt.) ir šiam subjektui nustatomi konkretūs viešojo administravimo
+įgaliojimai;
 2)
 įstatymų įgaliotos valstybės ar savivaldybių institucijos priimtu teisės aktu,
 kai tame teisės akte ši institucija, vadovaudamasi įstatymu, reglamentuojančiu
@@ -324,8 +347,8 @@ administracinis aktas turi būti pagrįstas objektyviais duomenimis (faktais) ir
 teisės aktų normomis, o taikomos poveikio priemonės turi būti motyvuotos.
 2.
 Individualiame administraciniame akte turi būti aiškiai suformuluotos
-nustatytos arba suteikiamos teisės ir pareigos ir nurodyta akto apskundimo
-tvarka. 
+nustatytos arba suteikiamos teisės ir pareigos ir nurodyta akto apskundimo tvarka.
+
 3. Individualus
 administracinis aktas turi būti pasirašytas jį priėmusio pareigūno ar valstybės
 tarnautojo arba viešojo administravimo subjekto vadovo, jo pavaduotojo ar
@@ -335,95 +358,32 @@ pakeitimai:
 Nr. X-1743,
 2008-10-06, Žin., 2008, Nr. 123-4657 (2008-10-25)
  
-9
-straipsnis. Administracinių aktų įgyvendinimo priežiūra ar kontrolė 
-1.
-Administracinių aktų įgyvendinimas turi būti prižiūrimas ar kontroliuojamas. 
-2. Priežiūros ar
-kontrolės subjektą ir formą nustato administracinį aktą išleidęs viešojo
-administravimo subjektas. Juo gali būti pats aktą išleidęs viešojo
-administravimo subjektas arba kitas jo įpareigotas ir jam atskaitingas viešojo
-administravimo subjektas.
+9 straipsnis.
+Administracinių aktų įgyvendinimo priežiūra ir kontrolė
+1. Administracinių aktų įgyvendinimas
+turi būti prižiūrimas ar kontroliuojamas. 
+2. Administracinių aktų įgyvendinimo
+priežiūra ir kontrolė atliekama tik pagal priežiūrą ir kontrolę atliekantiems
+viešojo administravimo subjektams šio įstatymo nustatyta tvarka suteiktus
+įgaliojimus, vadovaujantis šiuo ir kitais priežiūrą ir kontrolę
+reglamentuojančiais įstatymais ir jų
+įgyvendinamaisiais teisės aktais, Europos Sąjungos teisės aktų ir Lietuvos Respublikos tarptautinių sutarčių
+reikalavimais.
+3. Jeigu priežiūros ar kontrolės
+subjektas ir forma nenustatyti įstatymuose ir jų
+įgyvendinamuosiuose teisės aktuose, Europos Sąjungos teisės aktuose ar Lietuvos
+Respublikos tarptautinėse sutartyse, priežiūros ar kontrolės subjektą ir
+formą nustato administracinį aktą išleidęs viešojo administravimo subjektas
+arba kitas jo įpareigotas ir jam atskaitingas viešojo administravimo subjektas.
+Straipsnio
+pakeitimai:
+Nr.
+XI-934,
+2010-06-22, Žin., 2010, Nr. 81-4228 (2010-07-10)
  
 91
-straipsnis. Verslo subjektų veiklos priežiūra
-1.
-Verslu užsiimančių juridinių ir fizinių asmenų (toliau – verslo subjektai)
-veiklos priežiūra – šio įstatymo nustatyta tvarka įgaliotų atlikti šio
-straipsnio 2 dalyje nurodytus veiksmus viešojo administravimo subjektų veikla,
-skirta kontroliuoti, ar verslo subjektai laikosi įstatymuose ir kituose teisės
-aktuose nustatytų reikalavimų, ar tinkamai tuos reikalavimus vykdo, ir
-įgyvendinti priemones, mažinančias galimų pažeidimų skaičių.
-2. Verslo subjektų
-veiklos priežiūra apima:
-1) verslo
-subjektų veiklos patikrinimus;
-2) teisės aktų
-nustatyta tvarka gautos informacijos apie verslo subjektų veiklą vertinimą;
-3) prevencinių veiksmų, skirtų užkirsti kelią galimiems
-teisės pažeidimams, atlikimą ir poveikio priemonių verslo subjektams taikymą
-įstatymų ir jų pagrindu priimtų kitų  teisės aktų nustatyta tvarka.
-3. Verslą
-prižiūrinčių subjektų veikla, susijusi su verslo subjektų veiklos priežiūra,
-turi būti atliekama tik pagal verslą prižiūrintiems subjektams šio įstatymo
-nustatyta tvarka suteiktus įgaliojimus, vadovaujantis šiuo ir kitais verslo
-subjektų veiklos priežiūrą reglamentuojančiais įstatymais ir jų pagrindu
-priimtais kitais teisės aktais. Ši veikla turi būti planuojama ir turi kuo
-mažiau trikdyti verslo subjektų veiklą.
-4. Verslo subjektų veiklos patikrinimai
-gali būti planiniai ir neplaniniai.
-5. Planinis verslo subjektų veiklos patikrinimas atliekamas
-pagal verslą prižiūrinčio subjekto vadovo ar jo įgalioto asmens patvirtintą
-planą, kuris vadovo sprendimu gali būti koreguojamas. Tikrintini verslo
-subjektai atrenkami vadovaujantis verslą prižiūrinčio subjekto vadovo
-patvirtintomis verslo subjektų veiklos priežiūros atrankos taisyklėmis, o
-patikrinimų periodiškumas turi būti pagrįstas.
-6. Neplaninis verslo subjekto veiklos patikrinimas
-atliekamas verslą prižiūrinčio subjekto iniciatyva, jeigu verslą prižiūrinčio
-subjekto vadovas ar jo įgaliotas asmuo priima sprendimą atlikti šį
-patikrinimą. Neplaninis verslo subjekto veiklos patikrinimas gali būti atliekamas:
-1) atsiradus
-aplinkybių, kurių nebuvo galima numatyti tvirtinant verslo subjektų veiklos
-patikrinimų planą;
-2) gavus kito
-kompetentingo viešojo administravimo subjekto prašymą ar pavedimą atlikti
-verslo subjekto veiklos patikrinimą;
-3) turint informacijos apie verslo subjekto veiką, kuri
-gali prieštarauti teisės aktams ar neatitikti teisės aktų reikalavimų;
-4) siekiant užtikrinti verslo
-subjekto veiklos ankstesnio patikrinimo metu nustatytų teisės aktų
-pažeidimų pašalinimą ir priimtų sprendimų įgyvendinimą;
-5) esant bendram su kitomis
-valstybės įstaigomis ir institucijomis patikrinimui;
-6) operatyvaus patikrinimo, kuris
-atliekamas viešojo administravimo subjekto nustatyta tvarka, atveju, kai kyla
-įtarimas, kad pažeidžiami teisės aktai, už kurių įgyvendinimą yra atsakingas
-viešojo administravimo subjektas.
-7. Verslą
-prižiūrintis subjektas, pradėdamas verslo subjekto veiklos planinį patikrinimą,
-likus ne mažiau kaip 10 darbo dienų, privalo verslo subjektą raštu informuoti
-apie priimtą sprendimą atlikti patikrinimą, nurodyti atliekamo patikrinimo pagrindą,
-terminą, dalyką ir pateikti preliminarų dokumentų, kuriuos verslo subjektas
-turi pateikti verslą prižiūrinčiam subjektui, sąrašą. Verslą prižiūrintis
-subjektas turi teisę pradėti verslo subjekto planinį patikrinimą be pranešimo
-apie priimtą sprendimą atlikti patikrinimą tais atvejais, kai yra rizikos, kad
-verslo subjektas gali paslėpti ar sunaikinti patikrinimui atlikti reikalingus
-dokumentus, kitus įrodymus.
-8. Verslo
-subjektas turi teisę neteikti verslą prižiūrinčiam subjektui dokumentų, jei
-juos jis per einamuosius finansinius metus yra pateikęs nors vienam verslą
-prižiūrinčiam subjektui. Atsisakydamas teikti dokumentus, verslo
-subjektas turi raštu nurodyti, kokiam verslą prižiūrinčiam subjektui šie dokumentai
-yra pateikti. Verslą prižiūrintys subjektai Vyriausybės nustatyta tvarka
-tarpusavyje keičiasi jiems suteiktiems įgaliojimams įgyvendinti būtinais
-dokumentais, kuriuos jiems yra pateikę verslo subjektai.
-9. Pasibaigus
-kalendoriniams metams, verslą prižiūrintys subjektai aukštesniųjų pagal
-pavaldumą viešojo administravimo subjektų nustatyta tvarka rengia ir jiems
-teikia metines vykdytos veiklos ataskaitas, taip pat ataskaitas dėl verslo
-subjektams įstatymuose ir kituose teisės aktuose nustatytų reikalavimų
-nesilaikymo ar netinkamo vykdymo masto, priežasčių, taikytų prevencinių ir
-poveikio priemonių bei siūlymus keisti ar priimti naujus teisės aktus.
+straipsnis. Neteko
+galios nuo 2010 m. liepos 10 d.
 Įstatymas
 papildytas straipsniu:
 Nr. X-1743,
@@ -433,6 +393,9 @@ pakeitimai:
 Nr.
 XI-283,
 2009-06-11, Žin., 2009, Nr. 75-3062 (2009-06-25)
+Nr.
+XI-934,
+2010-06-22, Žin., 2010, Nr. 81-4228 (2010-07-10)
  
 10
 straipsnis. Viešojo administravimo kokybės valdymas
@@ -452,19 +415,20 @@ administravimo kontrolė.
 4. Viešojo
 administravimo subjekto veikla planuojama atsižvelgiant į Valstybės ilgalaikės
 raidos strategiją ir kitus strateginio planavimo dokumentus.
-5. Viešojo
-administravimo įstaigos, kurios vadovas yra valstybės ar savivaldybės biudžeto
-asignavimų valdytojas, veikla organizuojama vadovaujantis teisės aktų nustatyta
-tvarka patvirtintais strateginiais veiklos planais. Viešojo administravimo
-įstaigos, kurios vadovas nėra valstybės ar savivaldybės biudžeto asignavimų
+5. Viešojo administravimo
+įstaigos, kurios vadovas yra valstybės ar savivaldybės biudžeto asignavimų
 valdytojas, veikla organizuojama vadovaujantis teisės aktų nustatyta tvarka
-patvirtintais metiniais veiklos planais. Viešojo administravimo įstaigos
-strateginiai ar metiniai veiklos planai skelbiami šios įstaigos arba
-viešojo administravimo įstaigos, kuriai ji yra pavaldi, interneto tinklalapyje.
+patvirtintais strateginiais veiklos planais. Viešojo administravimo įstaigos,
+kurios vadovas nėra valstybės ar savivaldybės biudžeto asignavimų valdytojas,
+veikla organizuojama vadovaujantis teisės aktų nustatyta tvarka patvirtintais
+metiniais veiklos planais. Viešojo administravimo įstaigos strateginiai ar
+metiniai veiklos planai skelbiami šios įstaigos arba viešojo
+administravimo įstaigos, kuriai ji yra pavaldi, interneto tinklalapyje.
 6. Viešojo
 administravimo įstaigos strateginių ar metinių veiklos planų vykdymą vertina
 vidaus audito tarnyba.
-Straipsnio pakeitimai:
+Straipsnio
+pakeitimai:
 Nr. X-1725,
 2008-09-22, Žin., 2008, Nr. 117-4441 (2008-10-11)
  
@@ -475,10 +439,10 @@ galėtų tinkamai atlikti viešojo administravimo funkcijas.
 2. Viešojo
 administravimo įstaigos administracijos struktūrą nustato viešojo
 administravimo įstaigos vadovas ar viešojo administravimo įstaigos steigėjas,
-vadovaudamiesi įstatymais ar jų pagrindu priimtais teisės aktais ir
-atsižvelgdami į nustatytus viešojo administravimo įstaigos tikslus ir
-uždavinius, strateginius ar metinius veiklos planus ir patvirtintą
-valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis (toliau –
+vadovaudamiesi įstatymais ar jų pagrindu priimtais teisės aktais ir atsižvelgdami
+į nustatytus viešojo administravimo įstaigos tikslus ir uždavinius,
+strateginius ar metinius veiklos planus ir patvirtintą valstybės
+tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis (toliau –
 darbuotojai), pareigybių skaičių.
 3. Viešojo administravimo įstaigos administracijos
 padaliniais gali būti departamentas (valdyba), skyrius (biuras, tarnyba),
@@ -487,10 +451,10 @@ poskyris (grupė).
 administruojant pavestą sritį būtina spręsti sudėtingus uždavinius, atlikti
 įvairias funkcijas ir dėl to atsiranda poreikis koordinuoti jų įgyvendinimą.
 Departamentą (valdybą) sudaro ne mažiau kaip du skyriai (biurai, tarnybos).
-Departamentui vadovauja direktorius (valdybai – viršininkas). Direktorius (viršininkas)
-gali turėti pavaduotojų. Departamento (valdybos) veiklą reglamentuojančius
-teisės aktus (nuostatus, pareigybių aprašus ir kt.) tvirtina viešojo
-administravimo įstaigos vadovas.
+Departamentui vadovauja direktorius (valdybai – viršininkas). Direktorius
+(viršininkas) gali turėti pavaduotojų. Departamento (valdybos) veiklą
+reglamentuojančius teisės aktus (nuostatus, pareigybių aprašus ir kt.) tvirtina
+viešojo administravimo įstaigos vadovas.
 5. Skyrius (biuras, tarnyba) paprastai yra departamento
 (valdybos) struktūrinė dalis. Kai administruoti pavestoje srityje yra
 nepakankama uždavinių ir funkcijų įvairovė arba kai to reikalauja įstatymas,
@@ -558,8 +522,8 @@ arba vadovaujantis šiais teisės aktais priimti kiti teisės aktai.
 Straipsnio
 pakeitimai:
 Nr.
-XI-283, 2009-06-11,
-Žin., 2009, Nr. 75-3062 (2009-06-25)
+XI-283,
+2009-06-11, Žin., 2009, Nr. 75-3062 (2009-06-25)
  
 15
 straipsnis. Administracinių paslaugų teikimas
@@ -574,14 +538,14 @@ nustatytos viešojo administravimo subjekto turimos informacijos teikimas
 asmenims;
 4)
 administracinės procedūros vykdymas.
-2.
-Administracines paslaugas teikia tik viešojo administravimo subjektai.
+2. Administracines
+paslaugas teikia tik viešojo administravimo subjektai.
 3. Rinkliavas ar
 kitokį atlyginimą už administracines paslaugas nustato įstatymai ar jų pagrindu
 priimti teisės aktai. Rinkliava ar kitoks atlyginimas nėra nustatomi už šio
 straipsnio 1 dalies 4 punkte nurodytą administracinę paslaugą, taip pat už
-viešojo administravimo subjekto atliekamą asmenų prašymų suteikti administracinę
-paslaugą nagrinėjimą.
+viešojo administravimo subjekto atliekamą asmenų prašymų suteikti
+administracinę paslaugą nagrinėjimą.
  
 16 straipsnis.
 Viešųjų paslaugų teikimo administravimo reikalavimai
@@ -612,9 +576,9 @@ valstybinio administravimo subjektų viešųjų paslaugų teikimo reglamentavimo
 tačiau gali jiems teikti siūlymus dėl viešųjų paslaugų teikimo tvarkos
 tobulinimo ar naujos viešosios paslaugos nustatymo.
 4. Centriniai
-valstybinio administravimo subjektai negali reikalauti iš teritorinių valstybinio
-administravimo subjektų ir savivaldybių steigti viešąsias paslaugas teikiančias
-įstaigas, jeigu to nenumato įstatymai. 
+valstybinio administravimo subjektai negali reikalauti iš teritorinių
+valstybinio administravimo subjektų ir savivaldybių steigti viešąsias paslaugas
+teikiančias įstaigas, jeigu to nenumato įstatymai. 
 5. Už viešųjų
 paslaugų teikimo režimo laikymąsi ir teikiamų viešųjų paslaugų kokybę atsako
 paslaugas teikiančio subjekto vadovas.
@@ -697,11 +661,11 @@ Administracinę procedūrą pradeda viešojo administravimo subjekto vadovas arb
 jo įgaliotas pareigūnas ar valstybės tarnautojas rašytiniu pavedimu (įsakymu,
 potvarkiu, rezoliucija) per 3 darbo dienas nuo 21 straipsnyje nurodytų
 dokumentų gavimo dienos.
-2. Administracinei
-procedūrai pradėti reikalingą informaciją, kurią turi viešojo administravimo
-subjektas arba kuri yra valstybės registruose ar kitose valstybės ar
-savivaldybių informacinėse sistemose, surenka pats skundą gavęs viešojo
-administravimo subjektas.
+2.
+Administracinei procedūrai pradėti reikalingą informaciją, kurią turi viešojo
+administravimo subjektas arba kuri yra valstybės registruose ar kitose
+valstybės ar savivaldybių informacinėse sistemose, surenka pats skundą gavęs
+viešojo administravimo subjektas.
  
 23
 straipsnis. Skundo priėmimas ir nagrinėjimas
@@ -815,12 +779,12 @@ procedūroje nedalyvaujančių asmenų teisinį statusą, administracinė
 procedūra sustabdoma ir šiems asmenims raštu pranešama apie teisę dalyvauti
 šioje procedūroje, o asmeniui, dėl kurio pradėta administracinė procedūra, –
 apie administracinės procedūros sustabdymo pagrindą.
-2. Administracinė
-procedūra tęsiama, kai šio straipsnio 1 dalyje nurodyti asmenys pareiškia norą
-dalyvauti procedūroje arba raštu atsisako joje dalyvauti, arba jeigu per 10
-darbo dienų nuo rašto apie administracinės procedūros sustabdymą išsiuntimo
-dienos negautas iš jų atsakymas dėl pasiūlymo dalyvauti administracinėje
-procedūroje. 
+2.
+Administracinė procedūra tęsiama, kai šio straipsnio 1 dalyje nurodyti asmenys
+pareiškia norą dalyvauti procedūroje arba raštu atsisako joje dalyvauti, arba
+jeigu per 10 darbo dienų nuo rašto apie administracinės procedūros sustabdymą
+išsiuntimo dienos negautas iš jų atsakymas dėl pasiūlymo dalyvauti
+administracinėje procedūroje. 
  
 28
 straipsnis. Apklausa
@@ -875,13 +839,13 @@ pasirašytas. Rašytiniai paaiškinimai pridedami prie patikrinimo akto (išvado
 31
 straipsnis. Administracinės procedūros terminai
 Administracinė
-procedūra turi būti baigta ir administracinės procedūros sprendimas priimtas per
-20 darbo dienų nuo jos pradžios. Kai dėl objektyvių priežasčių per šį
-terminą administracinė procedūra negali būti baigta, administracinę procedūrą
-pradėjęs viešojo administravimo subjektas gali ją pratęsti, bet ne ilgiau kaip
-10 darbo dienų. Asmeniui apie administracinės procedūros termino pratęsimą
-pranešama raštu arba elektroniniu paštu (kai skundas gautas elektroniniu paštu)
-ir nurodomos pratęsimo priežastys.
+procedūra turi būti baigta ir administracinės procedūros sprendimas priimtas
+per 20 darbo dienų nuo jos pradžios. Kai dėl objektyvių priežasčių per
+šį terminą administracinė procedūra negali būti baigta, administracinę
+procedūrą pradėjęs viešojo administravimo subjektas gali ją pratęsti, bet ne
+ilgiau kaip 10 darbo dienų. Asmeniui apie administracinės procedūros termino
+pratęsimą pranešama raštu arba elektroniniu paštu (kai skundas gautas
+elektroniniu paštu) ir nurodomos pratęsimo priežastys.
  
 32 straipsnis.
 Administracinės procedūros kalba
@@ -914,11 +878,11 @@ Administracinė procedūra baigiama administracinės procedūros sprendimo
 priėmimu. Asmeniui, dėl kurio pradėta administracinė procedūra, ne vėliau kaip
 per 3 darbo dienas raštu pranešama apie priimtą administracinės procedūros
 sprendimą ir nurodoma sprendimo apskundimo tvarka. 
-2.
-Administracinės procedūros sprendimas parengiamas dviem egzemplioriais, vienas
-iš jų įteikiamas ar išsiunčiamas asmeniui, dėl kurio buvo
-pradėta administracinė procedūra, kitas lieka viešojo administravimo
-subjektui ir saugomas teisės aktų nustatyta tvarka.
+2. Administracinės
+procedūros sprendimas parengiamas dviem egzemplioriais, vienas iš jų įteikiamas
+ar išsiunčiamas asmeniui, dėl kurio buvo pradėta
+administracinė procedūra, kitas lieka viešojo administravimo subjektui
+ir saugomas teisės aktų nustatyta tvarka.
  
 35 straipsnis.
 Klaidų ištaisymo procedūra
@@ -945,9 +909,317 @@ apskųsti viešojo administravimo subjekto priimtą administracinės procedūros
 sprendimą savo pasirinkimu administracinių ginčų komisijai arba
 administraciniam teismui įstatymų nustatyta tvarka.
  
-KETVIRTASIS SKIRSNIS
+Įstatymas
+papildytas nauju ketvirtuoju skirsniu:
+Nr.
+XI-934,
+2010-06-22, Žin., 2010, Nr. 81-4228 (2010-07-10)
+KETVIRTASIS
+SKIRSNIS
+ŪKIO SUBJEKTŲ
+VEIKLOS PRIEŽIŪRA
+ 
+361
+straipsnis. Ūkio subjektų veiklos priežiūra
+1. Ūkio subjektų veiklos priežiūra – šio
+įstatymo nustatyta tvarka įgaliotų atlikti šio straipsnio 2 dalyje nurodytus
+veiksmus viešojo administravimo subjektų (toliau – priežiūrą atliekantys
+subjektai) veikla, skirta teikti metodinę pagalbą ūkio subjektams, prižiūrėti,
+kaip ūkio subjektai laikosi įstatymuose ir kituose teisės aktuose nustatytų
+reikalavimų, kontroliuoti, ar tinkamai tuos reikalavimus vykdo, ir įgyvendinti
+kitas priemones, užtikrinančias tinkamą teisės aktų reikalavimų laikymąsi ir
+mažinančias galimų pažeidimų skaičių.
+2. Ūkio subjektų veiklos priežiūra
+apima:
+1) ūkio subjektų konsultavimą priežiūrą
+atliekančio subjekto kompetencijos klausimais ir kitų prevencinių veiksmų,
+skirtų užkirsti kelią galimiems teisės aktų pažeidimams, atlikimą;
+2) ūkio subjektų veiklos patikrinimus;
+3) teisės aktų nustatyta tvarka gautos
+informacijos apie ūkio subjektų veiklą vertinimą;
+4) poveikio priemonių ūkio subjektams
+taikymą įstatymų ir jų pagrindu priimtų kitų teisės aktų nustatyta tvarka.
+ 
+362
+straipsnis. Ūkio subjektų veiklos priežiūros principai
+1. Ūkio subjektų veiklos priežiūra
+atliekama vadovaujantis šiais principais:
+1) minimalios ir proporcingos priežiūros
+naštos. Šis principas reiškia, kad priežiūrą
+atliekančių subjektų priežiūros veiksmai privalo būti proporcingi ir tinkami
+siekiamam tikslui įgyvendinti, proporcingi ūkio subjektų dydžiui ir
+administraciniams gebėjimams, atliekami siekiant kuo mažiau trikdyti ūkio
+subjektų veiklą; 
+2) nediskriminavimo. Šis principas
+reiškia, kad priežiūrą atliekantys subjektai negali
+vykdyti ūkio subjektų veiklos priežiūros, kuria būtų diskriminuojami ūkio
+subjektai dėl jų nuosavybės formos, pilietybės, gyvenamosios vietos ar
+valstybės, kurioje ūkio subjektas yra įsisteigęs, ar pagal kitus objektyvius
+šių subjektų požymius, jeigu kitos sąlygos, turinčios reikšmės ūkio subjekto
+veiklos rizikingumo laipsniui, iš esmės nesiskiria; 
+3) planavimo. Šis principas reiškia, kad
+ūkio subjektų veiklos priežiūra turi būti planuojama. Planavimo reikalavimas
+taikytinas šio įstatymo 361 straipsnio 2 dalies 1, 2 ir 3 punktuose
+nurodytoms veiklos rūšims. Šio įstatymo 361 straipsnio 2 dalies 4
+punkte nurodyta veikla ir šios veiklos rodikliai (poveikio priemonių skaičius,
+dydis, vertė) negali būti planavimo objektas;
+4) viešumo. Šis principas reiškia, kad
+informacija apie ūkio subjektų veiklos priežiūros atlikimo principus,
+procedūras ir rezultatus, atskleidžiamus apibendrinta forma, yra vieša. Šis
+principas netaikomas, jeigu informacijos atskleidimas trukdo siekti šio
+įstatymo 361 straipsnio 1 dalyje nurodytų ūkio subjektų veiklos
+priežiūros tikslų arba gali būti pažeisti kituose teisės aktuose nustatyti
+konfidencialumo reikalavimai;
+5) metodinės pagalbos teikimo. Šis
+principas reiškia, kad priežiūrą atliekantys subjektai bendradarbiauja su ūkio
+subjektais, konsultuoja ūkio subjektus priežiūrą atliekančio subjekto
+kompetencijos klausimais, įgyvendina kitas prevencinio pobūdžio priemones,
+padedančias ūkio subjektams laikytis teisės aktų reikalavimų, o poveikio
+priemones taiko kaip ultima ratio priemonę. Šis principas netaikomas
+ūkio subjektų veiklos patikrinimų metu, jeigu jo taikymas trukdo siekti ūkio
+subjektų veiklos priežiūros tikslų, susijusių su
+teisės aktų reikalavimų laikymosi priežiūra, laikytis specialiuosiuose
+priežiūrą reglamentuojančiuose įstatymuose ir jų
+įgyvendinamuosiuose teisės aktuose, Europos Sąjungos teisės aktuose ar Lietuvos Respublikos tarptautinėse sutartyse
+įtvirtintų atitinkamai priežiūrai keliamų reikalavimų; 
+6) funkcijų atskyrimo. Šis principas
+reiškia, kad šio įstatymo 361 straipsnio 2 dalies 2 ir 4 punktuose
+nurodytus veiksmus atlieka skirtingi priežiūrą atliekančio subjekto pareigūnai
+ar priežiūrą atliekančio subjekto padaliniai arba kad nurodytos funkcijos yra
+priskirtos skirtingiems viešojo administravimo subjektams. Šis principas
+netaikomas, jeigu kituose priežiūrą reglamentuojančiuose įstatymuose ir teisės
+aktuose patikrinimo ir poveikio priemonių taikymo funkcijos yra priskirtos
+vienam pareigūnui (padaliniui).
+2. Kituose įstatymuose, Europos Sąjungos
+teisės aktuose ir Lietuvos Respublikos tarptautinėse
+sutartyse gali būti nustatyta ir kitų ūkio subjektų veiklos priežiūros
+principų.
+ 
+363 straipsnis.
+Ūkio subjektų konsultavimas
+1. Ūkio subjektų konsultavimas yra
+neatsiejama ūkio subjektų veiklos priežiūros dalis.
+2. Jeigu ūkio subjektas vadovaujasi
+priežiūrą atliekančio subjekto vadovo, jo įgalioto asmens ar kolegialios
+priežiūrą atliekančio subjekto institucijos patvirtinta rašytine arba viešai
+paskelbta konsultacija, kuri vėlesne konsultacija, aukštesniojo pagal pavaldumą
+viešojo administravimo subjekto konsultacija ar kitu individualiu
+administraciniu aktu arba teismo sprendimu pripažįstama kaip neatitinkanti
+(klaidinga) teisės aktų reikalavimų, ūkio subjektui poveikio priemonės už
+netinkamą teisės aktų vykdymą, kurį lėmė klaidinga konsultacija, netaikomos.
+3. Šio straipsnio 2 dalyje nustatyta
+išlyga dėl klaidingos konsultacijos pasekmių netaikoma, jeigu yra bent viena iš šių sąlygų:
+1) po konsultacijos pateikimo buvo
+keičiamas teisinis reglamentavimas, dėl kurio buvo konsultuota;
+2) ūkio subjektas buvo informuotas, kad
+konsultacija klaidinga, ar kitu būdu turėjo realią galimybę gauti informaciją,
+kad konsultacija klaidinga, ir terminas nuo šios informacijos gavimo iki ūkio
+subjekto veiklos patikrinimo buvo pakankamas ūkio subjektui pažeidimams,
+kuriuos lėmė klaidinga konsultacija, ištaisyti;
+3) jeigu poveikio priemonės yra būtinos
+ir neišvengiamos siekiant užkirsti kelią žalos visuomenei ar kitų asmenų
+interesams arba aplinkai atsiradimui;
+4) jeigu kituose įstatymuose
+vadovavimasis klaidinga konsultacija yra numatytas kaip ūkio subjekto
+atsakomybę lengvinanti aplinkybė skiriant ir (ar) taikant poveikio priemones.
+ 
+364
+straipsnis. Ūkio subjektų veiklos patikrinimai
+1. Ūkio subjektų veiklos patikrinimai
+gali būti planiniai ir neplaniniai. Planinių patikrinimų pirminis tikslas –
+informacijos apie ūkio subjektą vertinimas ir metodinės pagalbos ūkio subjektui
+teikimas. 
+2. Priežiūrą atliekančio subjekto
+vadovas, jo įgaliotas asmuo ar kolegiali priežiūrą atliekančio subjekto
+institucija tvirtina:
+1) planuojamų tikrinti ūkio subjektų
+sąrašų sudarymo kriterijus, planinių patikrinimų atlikimo tvarką ir trukmę
+įtvirtinančias taisykles (toliau – planinių patikrinimų taisyklės), taip pat
+nustatytu laikotarpiu planuojamų tikrinti ūkio subjektų sąrašą (toliau –
+patikrinimų planas);
+2) neplaninių patikrinimų atlikimo
+pagrindus, tvarką ir trukmę, tikrinamų ūkio subjektų atrankos kriterijus
+įtvirtinančias taisykles (toliau – neplaninių patikrinimų taisyklės).
+3. Priežiūrą atliekantys subjektai savo
+veiklą organizuoja taip, kad patikrinimų planas būtų įgyvendintas. Patikrinimų
+plano keitimas galimas tik tuo atveju, kai yra motyvuotas priežiūrą atliekančio
+subjekto vadovo ar jo įgalioto asmens arba reikiamus įgaliojimus turinčios
+priežiūrą atliekančio subjekto kolegialios institucijos sprendimas. 
+4. Planinių patikrinimų
+taisyklės ir neplaninių patikrinimų taisyklės turi būti rengiamos vadovaujantis
+šio įstatymo 362 straipsnyje įtvirtintais minimalios ir proporcingos
+priežiūros naštos bei nediskriminavimo principais ir juos atitikti. 
+5. Planinių patikrinimų atlikimo
+periodiškumas turi būti pagrįstas.
+6. Patvirtintas patikrinimų planas ir jo
+pakeitimai skelbiami priežiūrą atliekančio subjekto interneto svetainėje arba į
+planą įtraukti ūkio subjektai informuojami individualiai ne vėliau kaip per 3 darbo dienas po patikrinimų
+plano patvirtinimo ar jo pakeitimo. Priežiūrą atliekantis subjektas, prieš
+pradėdamas ūkio subjekto veiklos planinį patikrinimą, likus ne mažiau kaip 10
+darbo dienų, privalo ūkio subjektą raštu arba elektroniniu būdu informuoti apie
+numatomą vykdyti patikrinimą, nurodyti atliekamo patikrinimo pagrindą, terminą,
+dalyką ir pateikti preliminarų dokumentų, kuriuos ūkio subjektas turi pateikti
+priežiūrą atliekančiam subjektui, sąrašą. 
+7. Pirmaisiais metais po ūkio subjekto
+veiklos, dėl kurios atliekama priežiūra, pradžios šiam subjektui už atliekamo
+pirmojo planinio patikrinimo metu nustatytus pažeidimus negali būti taikomos poveikio priemonės, susijusios su ūkio subjekto
+veiklos ribojimu (sustabdomos ar naikinamos veiklos licencijos, leidimai).
+Nustačius teisės aktų reikalavimų nesilaikymo, netinkamo taikymo faktą, ūkio
+subjektui nustatomas protingas (paprastai ne trumpesnis kaip vieno mėnesio)
+terminas pažeidimams ištaisyti. 
+8. Šio straipsnio 7 dalyje nustatyta
+išlyga netaikyti poveikio priemonių ir nustatyti terminą pažeidimams ištaisyti
+netaikoma, jeigu poveikio priemonės yra būtinos ir neišvengiamos siekiant
+užkirsti kelią žalos visuomenei ar kitų asmenų interesams arba aplinkai
+atsiradimui.
+9. Licencijas ar leidimus išduodantis
+priežiūrą atliekantis subjektas po licencijos ar leidimo išdavimo ūkio subjektui
+šešis mėnesius neatlieka šio subjekto planinių patikrinimų, išskyrus atvejus,
+kai licencija ar leidimas ūkio subjektui išduotas be patikrinimo. Ši nuostata
+netaikoma, jeigu priežiūrą atliekančio subjekto veiklos tikslams pasiekti
+būtini dažni planiniai patikrinimai, grindžiami potencialia pažeidimų rizika. 
+10. Vienu metu gali būti atliekami ne
+daugiau kaip du ūkio subjekto veiklos planiniai patikrinimai. Priežiūrą
+atliekantys subjektai, kurių priežiūros dalykas ir forma yra tarpusavyje
+susiję, gali atlikti bendrą dviejų ar daugiau priežiūrą atliekančių subjektų
+planinį patikrinimą, jeigu taip sumažėja priežiūros našta ūkio subjektui. 
+11. Ūkio subjekto veiklos
+neplaninis patikrinimas atliekamas priežiūrą atliekančio subjekto iniciatyva,
+kai priežiūrą atliekančio subjekto vadovas ar jo įgaliotas asmuo arba reikiamus
+įgaliojimus turinti priežiūrą
+atliekančio subjekto kolegiali institucija priima
+motyvuotą sprendimą atlikti šį patikrinimą. Neplaninis patikrinimas turi
+atitikti neplaninių patikrinimų taisykles ir turi būti atliekamas šio
+straipsnio 12 dalyje nurodytu pagrindu. Priežiūrą atliekantis subjektas,
+pradėdamas ūkio subjekto neplaninį patikrinimą, pateikia tikrinamam ūkio
+subjektui teisės aktų nustatyta tvarka patvirtintą sprendimo atlikti neplaninį
+patikrinimą kopiją. 
+12. Ūkio subjekto veiklos neplaninis patikrinimas
+gali būti atliekamas:
+1) gavus kito kompetentingo viešojo
+administravimo subjekto rašytinį motyvuotą prašymą ar pavedimą atlikti ūkio
+subjekto veiklos patikrinimą ar kitos valstybės kompetentingos institucijos
+prašymą;
+2) turint informacijos ar kilus pagrįstų
+įtarimų dėl ūkio subjekto veikos, kuri gali prieštarauti teisės aktams ar
+neatitikti teisės aktų reikalavimų;
+3) siekiant užtikrinti, kad buvo
+pašalinti ūkio subjekto veiklos ankstesnio patikrinimo metu nustatyti teisės
+aktų pažeidimai ir įgyvendinti priimti sprendimai;
+4) jeigu neplaninio
+patikrinimo atlikimo pagrindą nustato įstatymas ar Vyriausybės priimtas teisės
+aktas.
+13. Ūkio subjekto veiklos neplaninis
+patikrinimas pagal gautą anoniminį skundą dėl konkretaus ūkio subjekto veiksmų
+ar neveikimo atliekamas tik tuo atveju, kai yra motyvuotas priežiūrą
+atliekančio subjekto vadovo ar jo įgalioto asmens
+arba reikiamus įgaliojimus turinčios priežiūrą atliekančio subjekto kolegialios institucijos sprendimas dėl konkretaus
+anoniminio skundo tyrimo.
+14. Informacija apie atliekamą
+patikrinimą visuomenės informavimo priemonėms, kitiems su patikrinimu
+nesusijusiems asmenims neteikiama tol, kol patikrinimas nėra baigtas, išskyrus atvejus, kai priežiūrą atliekantis subjektas gali teikti
+informaciją apie atliekamo patikrinimo faktą, kai tai daroma ne
+priežiūrą atliekančio subjekto iniciatyva.
+15. Ūkio subjektas šio ar kitų įstatymų
+nustatyta tvarka gali skųsti priežiūrą atliekančio subjekto sprendimą atlikti
+neplaninį patikrinimą. Sprendimo atlikti neplaninį patikrinimą apskundimas
+nesustabdo patikrinimo atlikimo. 
+16. Šis
+straipsnis mokesčių administratoriui, muitinei ir licencines finansines
+paslaugas teikiančių įmonių, emitentų, investicinių bendrovių, draudimo,
+perdraudimo ir draudimo tarpininkavimo veiklos priežiūrą, taip pat
+konkurencijos priežiūrą atliekantiems subjektams netaikomas. Šioje dalyje
+nurodytiems subjektams šio straipsnio nuostatos yra rekomendacinės.
+ 
+365
+straipsnis. Ūkio subjektų veiklos priežiūros informacinė sistema 
+1. Priežiūrą atliekančių subjektų
+interaktyvus sąrašas skelbiamas Lietuvos Respublikos ūkio ministerijos
+interneto svetainėje. Kartu gali būti skelbiama kita ūkio subjektams aktuali,
+su ūkio subjektų veiklos priežiūra susijusi informacija.
+2. Priežiūrą atliekantis subjektas savo
+interneto svetainėje skelbia:
+1) nacionalinių, Europos Sąjungos ir
+kitų tarptautinių teisės aktų, nustatančių atitinkamą ūkio subjektų veiklos
+priežiūrą bei poveikio priemonių taikymą, įtvirtinančių priežiūrą atliekančio
+subjekto įgaliojimus, sąrašą;
+2) informaciją apie pagrindinius
+atitinkamos srities ūkio subjektų veiklos priežiūros reikalavimus;
+3) priežiūrą atliekančio subjekto
+priimtų sprendimų apskundimo tvarką;
+4) priežiūrą atliekančio
+subjekto konsultacijas, informaciją apie konsultavimą ir kitos metodinės
+pagalbos teikimą;
+5) šio įstatymo 364
+straipsnio 2 dalies 1 ir 2 punktuose nurodytas taisykles, patvirtintą
+patikrinimų planą ir jo pakeitimus, 367 straipsnio 2 dalies 1, 2, 3 ir
+4 punktuose nurodytą informaciją. 
+ 
+366
+straipsnis. Informacijos priežiūrą atliekantiems subjektams teikimas
+1. Ūkio subjektai teikia priežiūrą
+atliekantiems subjektams dokumentus, kuriuos privaloma rengti vadovaujantis
+teisės aktų reikalavimais, taip pat kitą informaciją ūkio subjekto turima
+forma. Priežiūrą atliekantis subjektas negali reikalauti ūkio subjekto pateikti
+konkrečios prašomos formos duomenų ar dokumentų, jeigu jų rengimas nenumatytas
+teisės aktuose, tam reikėtų sukurti dokumentus ar informacijos rinkmenas ir tai
+būtų susiję su neproporcingai didelėmis darbo ir laiko sąnaudomis.
+2. Ūkio subjektas turi teisę neteikti
+priežiūrą atliekančiam subjektui dokumentų, jeigu tuos pačius dokumentus jis
+yra pateikęs nors vienam priežiūrą atliekančiam subjektui. Atsisakydamas teikti
+dokumentus, ūkio subjektas turi raštu nurodyti, kokiam priežiūrą atliekančiam
+subjektui šie dokumentai yra pateikti.
+3. Priežiūrą atliekantys subjektai
+Vyriausybės ar jos įgaliotos institucijos
+nustatyta tvarka tarpusavyje keičiasi jiems suteiktiems įgaliojimams
+įgyvendinti būtinais dokumentais ir kita informacija, kuriuos jiems yra pateikę
+ūkio subjektai.
+ 
+367 straipsnis. Priežiūrą atliekančių
+subjektų veiklos vertinimas ir atskaitomybė
+1. Priežiūrą atliekančių
+subjektų ir šių subjektų pareigūnų, kitų valstybės tarnautojų ir darbuotojų
+veiklos
+efektyvumo ir rezultatyvumo vertinimo kriterijais negali būti paskirtų nuobaudų
+skaičius, baudų dydis ar kiti su sankcijų ūkio subjektams taikymu susiję
+rodikliai. 
+2. Pasibaigus kalendoriniams metams,
+priežiūrą atliekantys subjektai teisės aktų ar aukštesnių pagal pavaldumą
+viešojo administravimo subjektų nustatyta tvarka rengia ir aukštesniems pagal
+pavaldumą viešojo administravimo subjektams teikia metines vykdytos veiklos
+ataskaitas, kuriose pateikia informaciją apie:
+1) konsultavimo veiklą, išskirdami
+ataskaitinio laikotarpio aktualiausius ūkio subjektams klausimus, daugiausia
+aiškinimo reikalingas teisės aktų nuostatas;
+2) vykdytų patikrinimų skaičių, pobūdį,
+trukmę;
+3) ūkio subjektams įstatymuose ir
+kituose teisės aktuose nustatytų reikalavimų nesilaikymo ar netinkamo vykdymo
+mastą, priežastis, taikytas prevencines ir poveikio priemones, dažniausia
+pažeidžiamas teisės aktų nuostatas;
+4) siūlomus keisti ar priimti naujus
+teisės aktus, išskirdami priemones, kuriomis šalinamos teisinio reglamentavimo
+spragos, efektyviau organizuojama ūkio subjektų veiklos priežiūra, mažinama
+priežiūros našta ūkio subjektams.
+3. Priežiūrą atliekantys subjektai,
+nelaukdami ataskaitinio laikotarpio pabaigos, teikia aukštesniam pagal
+pavaldumą viešojo administravimo subjektui informaciją, susijusią su ūkio
+subjektų priežiūra, kai kyla abejonių dėl teisės aktų reikalavimų pagrįstumo.
+4. Ūkio subjektai turi teisę kreiptis
+dėl priežiūrą atliekančių subjektų korupcinio pobūdžio ar kitų teisės aktų
+reikalavimų neatitinkančių veikų į aukštesnius pagal pavaldumą viešojo
+administravimo subjektus, Specialiųjų tyrimų tarnybą, kitas institucijas šio ir
+kitų įstatymų nustatyta tvarka. Viešojo administravimo subjektai skundus
+nagrinėja šio įstatymo nustatyta tvarka. 
+ 
+PENKTASIS SKIRSNIS
 TARNYBINĖS
 PAGALBOS SĄLYGOS
+Skirsnio
+numeracijos pakeitimas:
+Nr.
+XI-934,
+2010-06-22, Žin., 2010, Nr. 81-4228 (2010-07-10)
  
 37
 straipsnis. Tarnybinės pagalbos prašymo atvejai
@@ -1006,9 +1278,14 @@ pakeitimai:
 Nr. XI-593,
 2009-12-21, Žin., 2010, Nr. 1-7 (2010-01-05)
  
-PENKTASIS SKIRSNIS
+ŠEŠTASIS SKIRSNIS
 BAIGIAMOSIOS
 NUOSTATOS
+Skirsnio
+numeracijos pakeitimas:
+Nr.
+XI-934,
+2010-06-22, Žin., 2010, Nr. 81-4228 (2010-07-10)
  
 41
 straipsnis. Trečiojo skirsnio nuostatų taikymas
@@ -1028,25 +1305,42 @@ nustatyta tvarka. Turtinė ir neturtinė žala, atsiradusi dėl viešojo
 administravimo subjektų neteisėtų aktų, atlyginama Civilinio kodekso ir kitų
 įstatymų nustatyta tvarka.
  
-43 straipsnis. Įstatymo nuostatų taikymas verslą prižiūrintiems
-subjektams
-Šio
-įstatymo nuostatos verslo
-subjektų veiklos priežiūrą, įskaitant dokumentų teikimą bei verslą prižiūrinčių
-subjektų metinių ataskaitų rengimą ir teikimą, vykdantiems viešojo
-administravimo subjektams taikomos, jei šios priežiūros nereglamentuoja kiti
-įstatymai.
-Įstatymas
-papildytas straipsniu:
+Straipsnio redakcija iki 2010 m. gruodžio 31 d.:
+43 straipsnis. Ketvirtojo skirsnio nuostatų taikymas
+Šio įstatymo ketvirtojo skirsnio
+nuostatos ūkio subjektų veiklos priežiūrą atliekantiems viešojo
+administravimo subjektams taikomos, jeigu šios priežiūros nereglamentuoja kiti
+įstatymai, Europos Sąjungos teisės aktai ar Lietuvos
+Respublikos tarptautinės sutartys.
+Straipsnio redakcija nuo 2011 m. sausio 1 d.:
+43 straipsnis. Ketvirtojo
+skirsnio nuostatų taikymas
+Jeigu kituose
+įstatymuose nustatyti ūkio subjektų veiklos priežiūrai taikytini reikalavimai
+prieštarauja šio įstatymo ketvirtojo skirsnio nuostatoms, taikomas šis įstatymas,
+išskyrus atvejus, kai kiti specialūs priežiūrą reglamentuojantys įstatymai
+įtvirtina privalomus Europos Sąjungos teisės aktų ar
+Lietuvos Respublikos tarptautinių sutarčių
+reikalavimus arba įtvirtina ūkio subjektams palankesnį
+reglamentavimą.
+Įstatymas papildytas
+straipsniu:
 Nr. X-1743,
 2008-10-06, Žin., 2008, Nr. 123-4657 (2008-10-25)
+Straipsnio
+pakeitimai:
+Nr.
+XI-934,
+2010-06-22, Žin., 2010, Nr. 81-4228 (2010-07-10)
+ 
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS
 PREZIDENTAS                                                     VALDAS ADAMKUS
-__________________
+ 
+_______________
  
 Pakeitimai:
  
@@ -1137,8 +1431,8 @@ išskyrus 7 straipsnį, įsigalioja 2009 m. sausio 1 d.
 9.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XI-283, 2009-06-11,
-Žin., 2009, Nr. 75-3062 (2009-06-25)
+Nr. XI-283,
+2009-06-11, Žin., 2009, Nr. 75-3062 (2009-06-25)
 VIEŠOJO
 ADMINISTRAVIMO ĮSTATYMO 2, 3, 4, 6, 9(1), 14 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO
 PAPILDYMO 4(1) STRAIPSNIU ĮSTATYMAS
@@ -1150,10 +1444,26 @@ Nr. XI-593,
 VIEŠOJO ADMINISTRAVIMO ĮSTATYMO 40
 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
-*** Pabaiga ***
+12.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-934,
+2010-06-22, Žin., 2010, Nr. 81-4228 (2010-07-10)
+VIEŠOJO
+ADMINISTRAVIMO ĮSTATYMO 1, 2, 9, 43 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO
+PAPILDYMO NAUJU KETVIRTUOJU SKIRSNIU IR 9(1) STRAIPSNIO PRIPAŽINIMO NETEKUSIU
+GALIOS ĮSTATYMAS
+Šio įstatymo 7
+straipsnio 1 dalis galioja iki 2010 m. gruodžio 31 d.
+Šio įstatymo 7
+straipsnio 2 dalis įsigalioja 2011 m. sausio 1 d.
  
  
-Redagavo Aušrinė Trapinskienė
-(2010-01-08)
+***
+Pabaiga ***
+ 
+ 
+Redagavo
+Aušrinė Trapinskienė (2010-07-15)
                  
 autrap@lrs.lt
