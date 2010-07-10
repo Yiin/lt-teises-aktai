@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0F470A65DFCA"
 
 # Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas
 
-Suvestinė redakcija nuo 2009-01-01 iki 2010-07-09
+Suvestinė redakcija nuo 2010-07-10 iki 2010-09-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2872, i. k. 1001010ISTAIII-2025
  
@@ -163,7 +163,10 @@ Nr. IX-1092, 2002-09-19, Žin., 2002, Nr. 96-4169 (2002-10-04), i. k. 1021010IST
 
 
 
-3) medžiojamųjų gyvūnų išteklių apsaugos ir gausinimo priemonėms; medžioklėtvarkos projektams rengti; medžiojamųjų gyvūnų ir medžioklės moksliniams tyrimams; medžiojamųjų gyvūnų, saugomų pagal Europos Sąjungos teisės aktų reikalavimus, monitoringui; priemonėms prieš brakonieriavimą; medžioklės plėtrą skatinančioms bei medžioklės kultūrą ir tradicijas puoselėjančioms priemonėms; retų ir nykstančių rūšių laukinių gyvūnų ir medžiojamųjų gyvūnų, kurių medžioklė uždrausta ištisus metus, padarytai žalai žemės, miško ir vandens telkinių sklypų, kuriuose nėra uždrausta medžioti, savininkams, valdytojams ir naudotojams kompensuoti bei šių gyvūnų daromos žalos prevencijos priemonėms – įplaukos pagal 3 straipsnio 8 punktą;
+3) medžiojamųjų gyvūnų išteklių apsaugos ir gausinimo priemonėms; medžioklėtvarkos projektams rengti; medžiojamųjų gyvūnų ir medžioklės moksliniams tyrimams; medžiojamųjų gyvūnų, saugomų pagal Europos Sąjungos teisės aktų reikalavimus, monitoringui; priemonėms prieš brakonieriavimą; medžioklės plėtrą skatinančioms bei medžioklės kultūrą ir tradicijas puoselėjančioms priemonėms; griežtai saugomų rūšių laukinių gyvūnų ir medžiojamųjų gyvūnų, kurių medžioklė uždrausta ištisus metus, padarytai žalai žemės, miško ir vandens telkinių sklypų, kuriuose nėra uždrausta medžioti, savininkams, valdytojams ir naudotojams kompensuoti bei šių gyvūnų daromos žalos prevencijos priemonėms – įplaukos pagal 3 straipsnio 8 punktą;
+Straipsnio punkto pakeitimai:
+Nr. XI-922, 2010-06-22, Žin., 2010, Nr. 81-4220 (2010-07-10), i. k. 1101010ISTA00XI-922
+ 
 
 
 
@@ -262,3 +265,8 @@ Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 3 ir 4 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1728, 2008-09-22, Žin., 2008, Nr. 117-4444 (2008-10-11), i. k. 1081010ISTA00X-1728
 Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 3 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-922, 2010-06-22, Žin., 2010, Nr. 81-4220 (2010-07-10), i. k. 1101010ISTA00XI-922
+Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 4 straipsnio pakeitimo įstatymas
