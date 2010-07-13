@@ -1275,7 +1275,7 @@ skaičiuojami nuo pareiginės algos bazinio dydžio:
 7) saugumo pulkininkui leitenantui - 3,4;
 8) saugumo pulkininkui - 3,7;
 9) saugumo generolui - 4.
-Dalies redakcija nuo 2009-08-01 iki 2010-12-31:
+3 dalies redakcija iki 2011-12-31:
 3.
 Saugumo pareigūnų priedai už kvalifikacinę kategoriją:
 1) V
@@ -1288,7 +1288,7 @@ kvalifikacinės kategorijos – 20 procentų pareiginės algos dydžio;
 kvalifikacinės kategorijos – 25 procentai pareiginės algos dydžio;
 5) I kvalifikacinės kategorijos – 30 procentų
 pareiginės algos dydžio.
-Dalies redakcija nuo 2011-01-01:
+3 dalies redakcija nuo 2012-01-01:
 3.
 Saugumo pareigūnų priedai už kvalifikacinę kategoriją:
 1) V
@@ -1312,13 +1312,13 @@ juos į pareigas.
 6. Laikinojo nedarbingumo bei nėštumo ir gimdymo
 atostogų laikotarpiu saugumo pareigūnams
 mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų darbo
-užmokestis, o vaiko priežiūros atostogų laikotarpiu nuo nėštumo ir gimdymo
-atostogų pabaigos už kiekvieną vaiką, kol vaikui sueis vieni metai, – 100
-procentų, o kol vaikui sueis dveji metai, – 85 procentai Vyriausybės nustatyta
-tvarka apskaičiuoto vidutinio jų darbo užmokesčio. Išmokos vaiko priežiūros
-atostogų laikotarpiu mokamos neatsižvelgiant į tai, kurio vaiko priežiūrai
-suteiktos vaiko priežiūros atostogos. Jeigu saugumo pareigūnui gimsta du
-ir daugiau vaikų ir jis yra šių vaikų priežiūros atostogose, jam apskaičiuotas
+užmokestis, o vaiko priežiūros atostogų laikotarpiu nuo nėštumo ir gimdymo atostogų
+pabaigos už kiekvieną vaiką, kol vaikui sueis vieni metai, – 100 procentų, o
+kol vaikui sueis dveji metai, – 85 procentai Vyriausybės nustatyta tvarka
+apskaičiuoto vidutinio jų darbo užmokesčio. Išmokos vaiko priežiūros atostogų
+laikotarpiu mokamos neatsižvelgiant į tai, kurio vaiko priežiūrai suteiktos
+vaiko priežiūros atostogos. Jeigu saugumo pareigūnui gimsta du ir
+daugiau vaikų ir jis yra šių vaikų priežiūros atostogose, jam apskaičiuotas
 vidutinis darbo užmokestis didinamas atsižvelgiant į vienu metu gimusių vaikų
 skaičių (gimus dvynukams – 2 kartus, gimus trynukams – 3 kartus ir t. t.).
 Išmoka už nėštumo ir gimdymo laikotarpį didinama tokia pat tvarka. Kai
@@ -1326,11 +1326,11 @@ saugumo pareigūnei, gaunančiai išmoką vaiko priežiūros atostogų
 laikotarpiu, suteikiamos nėštumo ir gimdymo atostogos ir ji įgyja teisę gauti
 išmoką nėštumo ir gimdymo atostogų laikotarpiu, jai mokamos abi šios išmokos.
 7. Jeigu saugumo pareigūnas, kuris buvo ar yra
-išleistas vaiko priežiūros atostogų, kol vaikui sueis dveji metai, gauna darbo
-užmokestį, kuris yra mažesnis už vidutinį darbo užmokestį (bendrą vidutinių
-darbo užmokesčių sumą), nurodytą šio straipsnio 5 dalyje, laikotarpiu, kol
-vaikui sueis dveji metai, jam mokamas šio vidutinio darbo užmokesčio (bendros
-jų sumos) ir jo gaunamo atitinkamo mėnesio darbo užmokesčio skirtumas.
+išleistas vaiko priežiūros atostogų, kol vaikui sueis dveji metai, gauna darbo užmokestį,
+kuris yra mažesnis už vidutinį darbo užmokestį (bendrą vidutinių darbo
+užmokesčių sumą), nurodytą šio straipsnio 5 dalyje, laikotarpiu, kol vaikui
+sueis dveji metai, jam mokamas šio vidutinio darbo užmokesčio (bendros jų
+sumos) ir jo gaunamo atitinkamo mėnesio darbo užmokesčio skirtumas.
 8. Tėvystės atostogų laikotarpiu saugumo pareigūnui
 mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jo darbo
 užmokestis, jeigu jis pripažino tėvystę.
@@ -1355,11 +1355,13 @@ X-1819,
 Nr.
 XI-365,
 2009-07-17, Žin., 2009, Nr. 91-3920 (2009-07-31)
+Nr. XI-950,
+2010-06-30, Žin., 2010, Nr. 82-4304 (2010-07-13)
  
 44
 straipsnis. Kompensacijos
-1. Saugumo pareigūnui
-žuvus dėl tarnybos Saugumo departamente, jo šeimai -
+1. Saugumo
+pareigūnui žuvus dėl tarnybos Saugumo departamente, jo šeimai -
 nepilnamečiams vaikams (įvaikiams), taip pat besimokantiems nustatyta tvarka
 įregistruotų mokymo įstaigų dieniniuose skyriuose vaikams (įvaikiams), kol
 jiems sukaks 24 metai, sutuoktiniui, mirusiojo vaikams, gimusiems po jo
@@ -1401,9 +1403,9 @@ laipsnį, taip pat jei dėl sužeidimo liko sveikatos pakitimų ar sumažėjo jo
 tinkamumas tarnybai, teisės aktų nustatyta tvarka nustato Vidaus reikalų
 ministerijos įsteigtos asmens sveikatos priežiūros įstaigos Centrinė medicinos
 ekspertizės komisija.
-6. Ar saugumo pareigūno mirtis arba sveikatos sutrikdymas
-yra susijęs su tarnyba, nustatoma Saugumo departamento generalinio direktoriaus
-nustatyta tvarka atlikus tarnybinį tyrimą.
+6. Ar saugumo pareigūno mirtis arba sveikatos
+sutrikdymas yra susijęs su tarnyba, nustatoma Saugumo departamento generalinio
+direktoriaus nustatyta tvarka atlikus tarnybinį tyrimą.
 7. Šiame straipsnyje nustatytos kompensacijos
 nemokamos, jeigu:
 1) pareigūnas žuvo arba susižalojo darydamas
@@ -1479,7 +1481,8 @@ tarnauja iki Respublikos Prezidento dekreto dėl jų atleidimo iš pareigų
 pareigūno prašymu jo tarnybos laikas Saugumo departamento generalinio
 direktoriaus įsakymu gali būti pratęstas nurodant tarnybos pratęsimo terminą,
 bet ne ilgiau, negu kol pareigūnui sukanka 62 metai ir 6 mėnesiai.
-Straipsnio pakeitimai:
+Straipsnio
+pakeitimai:
 Nr. X-1740,
 2008-10-06, Žin., 2008, Nr. 120-4547 (2008-10-18)
  
@@ -1509,8 +1512,11 @@ Straipsnio
 pakeitimai:
 Nr. X-1740,
 2008-10-06, Žin., 2008, Nr. 120-4547 (2008-10-18)
+ 
 ________________
+ 
 Pakeitimai:
+ 
 1.
 Lietuvos
 Respublikos Seimas, Įstatymas
@@ -1539,8 +1545,7 @@ Respublikos Seimas, Įstatymas
 Nr. X-663, 2006-06-08,
 Žin., 2006, Nr. 74-2817 (2006-07-03)
 VALSTYBĖS
-SAUGUMO DEPARTAMENTO STATUTO 42 IR 43 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
-ĮSTATYMAS
+SAUGUMO DEPARTAMENTO STATUTO 42 IR 43 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2006 m. liepos 1 d.
 Įsigaliojus
 šiam įstatymui, Valstybės saugumo departamento pareigūnams, esantiems vaiko
@@ -1603,8 +1608,8 @@ SAUGUMO DEPARTAMENTO STATUTO 43 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 šiam įstatymui, Valstybės saugumo departamento pareigūnams iki tol mokamas
 vidutinis darbo užmokestis pagal Lietuvos Respublikos valstybės saugumo
 departamento statuto 43 straipsnio 5 dalį, vadovaujantis šio įstatymo
-nuostatomis, atitinkamai perskaičiuojamas, padidinamas ir (ar) pratęsiamas jo mokėjimo
-laikotarpis.
+nuostatomis, atitinkamai perskaičiuojamas, padidinamas ir (ar) pratęsiamas jo
+mokėjimo laikotarpis.
 Valstybės
 saugumo departamento pareigūnams, esantiems vaiko priežiūros atostogose
 (nepaisant to, ar vaiko priežiūros atostogos tęsiamos, ar suteikiamos iš
@@ -1616,8 +1621,8 @@ jeigu vaikui (vaikams) dar nėra suėję dveji metai.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-1619, 2008-06-17,
-Žin., 2008, Nr. 74-2865 (2008-06-30)
+X-1619,
+2008-06-17, Žin., 2008, Nr. 74-2865 (2008-06-30)
 VALSTYBĖS
 SAUGUMO DEPARTAMENTO STATUTO 43 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
@@ -1656,14 +1661,20 @@ SAUGUMO DEPARTAMENTO STATUTO 43 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šio
 įstatymo 1 straipsnis įsigalioja 2009 m. rugpjūčio 1 d.
 Šio
-įstatymo 2 straipsnis įsigalioja 2011 m. sausio 1 d.
+įstatymo 2 straipsnis įsigalioja 2012 m. sausio 1 d.
+Šio įstatymo galiojimas keistas:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-950,
+2010-06-30, Žin., 2010, Nr. 82-4304 (2010-07-13)
+VALSTYBĖS SAUGUMO DEPARTAMENTO STATUTO 43
+STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušra Bodin (2009-08-03)
+Aušrinė Trapinskienė (2010-07-19)
                  
-aubodi@lrs.lt
+autrap@lrs.lt
 
