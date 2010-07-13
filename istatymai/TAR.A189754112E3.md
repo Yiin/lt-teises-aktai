@@ -21,6 +21,10 @@ LIETUVOS RESPUBLIKOS SOCIALINĖS PARAMOS MOKINIAMS ĮSTATYMO 1, 5, 6, 7,
 
 
 
+Suvestinė redakcija nuo 2010-07-13
+ 
+Įstatymas paskelbtas: Žin. 2008, Nr. 149-6027, i. k. 1081010ISTA00XI-103
+ 
 LIETUVOS RESPUBLIKOS  SOCIALINĖS PARAMOS MOKINIAMS ĮSTATYMO 1, 5, 6, 7, 8, 10, 11 IR 14 STRAIPSNIŲ PAKEITIMO  ĮSTATYMAS
  
 2008 m. gruodžio 22 d. Nr. XI-103
@@ -341,7 +345,10 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 
 
 
-2. Šis įstatymas, išskyrus 4 ir 5 straipsnius ir 7 straipsnyje išdėstyto Socialinės paramos mokiniams įstatymo 11 straipsnio 2 dalies 2 punktą, galioja iki 2010 m. gruodžio 31 d.
+2. Neteko galios nuo 2010-07-13
+Straipsnio dalies naikinimas:
+Nr. XI-969, 2010-06-30, Žin. 2010, Nr. 82-4311 (2010-07-13), i. k. 1101010ISTA00XI-969
+ 
 
 
 
@@ -359,3 +366,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-969, 2010-06-30, Žin., 2010, Nr. 82-4311 (2010-07-13), i. k. 1101010ISTA00XI-969
+Lietuvos Respublikos socialinės paramos mokiniams įstatymo 1, 5, 6, 7, 8, 10, 11 ir 14 straipsnių pakeitimo įstatymo 9 straipsnio pakeitimo įstatymas
