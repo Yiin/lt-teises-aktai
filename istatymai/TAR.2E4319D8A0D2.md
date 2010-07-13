@@ -863,7 +863,7 @@ tarnybos įstatymas, šis statutas ir kiti teisės aktai.
 2. Statutinių
 tarnautojų darbo užmokestį nustato Valstybės tarnybos įstatymas ir šis
 statutas.
-Dalies redakcija nuo 2009-08-01 iki 2010-12-31:
+3 dalies redakcija iki 2011-12-31:
 3. Statutiniams
 tarnautojams mokami tokie pareiginės algos priedai už kvalifikacinę kategoriją:
 1) už pirmą kvalifikacinę
@@ -876,7 +876,7 @@ kategoriją – 30 procentų pareiginės algos dydžio priedas;
 pareiginės algos dydžio priedas;
 5) už penktą kvalifikacinę kategoriją – 38 procentų pareiginės algos
 dydžio priedas.
-Dalies redakcija nuo 2011-01-01:
+3 dalies redakcija nuo 2012-01-01:
 3. Statutiniams
 tarnautojams mokami tokie pareiginės algos priedai už kvalifikacinę kategoriją:
 1) už pirmą kvalifikacinę
@@ -894,6 +894,8 @@ pakeitimai:
 Nr.
 XI-368,
 2009-07-17, Žin., 2009, Nr. 91-3922 (2009-07-31)
+Nr. XI-945,
+2010-06-30, Žin., 2010, Nr. 82-4299 (2010-07-13)
  
 33 straipsnis. Departamento rezervas
 1. Departamente sudaromas karių ir statutinių
@@ -914,11 +916,11 @@ išmokos nemokamos ir socialinės garantijos netaikomos.
 4. Rezerve praleistas laikas įskaičiuojamas į tarnybos
 stažą tik tuo atveju, jei karys ar statutinis tarnautojas vėl paskiriamas į
 pareigas Departamente ir ten išdirba ne mažiau kaip vienus metus.
-5. Kariai ir statutiniai tarnautojai Departamento
-rezerve nepertraukiamai gali būti ne ilgiau kaip 4 metus. Esant tarnybiniam
-būtinumui, karių ir statutinių tarnautojų buvimo Departamento rezerve laikas
-gali būti pratęstas, tačiau bendras karių ir statutinių tarnautojų buvimo
-Departamento rezerve laikas per visą jų tarnybą negali viršyti 8 metų.
+5. Kariai ir statutiniai tarnautojai Departamento rezerve
+nepertraukiamai gali būti ne ilgiau kaip 4 metus. Esant tarnybiniam būtinumui,
+karių ir statutinių tarnautojų buvimo Departamento rezerve laikas gali būti
+pratęstas, tačiau bendras karių ir statutinių tarnautojų buvimo Departamento
+rezerve laikas per visą jų tarnybą negali viršyti 8 metų.
 6. Rezervo sudarymo, jo veiklos, karių ir statutinių
 tarnautojų perkėlimo į šį rezervą, buvimo rezerve pratęsimo tvarką nustato
 krašto apsaugos ministras.
@@ -1036,14 +1038,21 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šio
 įstatymo 1 straipsnis įsigalioja 2009 m. rugpjūčio 1 d.
 Šio
-įstatymo 2 straipsnis įsigalioja 2011 m. sausio 1 d.
+įstatymo 2 straipsnis įsigalioja 2012 m. sausio 1 d.
+Šio įstatymo įsigaliojimas keistas:
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-945, 2010-06-30,
+Žin., 2010, Nr. 82-4299 (2010-07-13)
+ANTROJO
+OPERATYVINIŲ TARNYBŲ DEPARTAMENTO PRIE KRAŠTO APSAUGOS MINISTERIJOS STATUTO 32
+STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
-***
-Pabaiga ***
+*** Pabaiga ***
  
  
-Redagavo
-Aušra Bodin (2009-08-03)
-                 
-aubodi@lrs.lt
+Redagavo Aušrinė Trapinskienė
+(2010-07-15)
+  
+               autrap@lrs.lt
 
