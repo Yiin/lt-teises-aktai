@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS TEISĖJŲ ATLYGINIMŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2009-08-01 iki 2010-07-12
+Suvestinė redakcija nuo 2010-07-13 iki 2011-02-16
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 131-5022, i. k. 1081010ISTA00X-1771
  
@@ -287,7 +287,7 @@ II. BENDROSIOS KOMPETENCIJOS IR SPECIALIZUOTŲ TEISMŲ TEISĖJŲ PAREIGINĖS ALG
 
  
  
-Priedėlio redakcija nuo 2011-01-01:
+Priedėlio redakcija nuo 2012-01-01:
 
 
 Lietuvos Respublikos 
@@ -409,6 +409,8 @@ II. BENDROSIOS KOMPETENCIJOS IR SPECIALIZUOTŲ TEISMŲ TEISĖJŲ PAREIGINĖS ALG
 Priedo pakeitimai:
 Nr. XI-235, 2009-04-28, Žin., 2009, Nr. 49-1940 (2009-04-30), i. k. 1091010ISTA00XI-235
 Nr. XI-362, 2009-07-17, Žin., 2009, Nr. 91-3917 (2009-07-31), i. k. 1091010ISTA00XI-362
+Nr. XI-952, 2010-06-30, Žin., 2010, Nr. 82-4306 (2010-07-13), i. k. 1101010ISTA00XI-952
+Nr. XI-953, 2010-06-30, Žin., 2010, Nr. 82-4307 (2010-07-13), i. k. 1101010ISTA00XI-953
  
  
  
@@ -428,3 +430,13 @@ Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-362, 2009-07-17, Žin., 2009, Nr. 91-3917 (2009-07-31), i. k. 1091010ISTA00XI-362
 Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-952, 2010-06-30, Žin., 2010, Nr. 82-4306 (2010-07-13), i. k. 1101010ISTA00XI-952
+Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-953, 2010-06-30, Žin., 2010, Nr. 82-4307 (2010-07-13), i. k. 1101010ISTA00XI-953
+Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas
