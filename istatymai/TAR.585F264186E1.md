@@ -2237,7 +2237,7 @@ Vyriausybės
 Pastaba. Komisijų ir
 tarybų, kurių posėdžiai vyksta periodiškai, nariams pareiginės algos dydis
 apskaičiuojamas proporcingai dirbtam laikui.
-2 straipsnio pakeitimai:
+Straipsnio pakeitimai:
 Nr. XI-866,
 2010-06-03, Žin., 2010, Nr. 71-3544 (2010-06-19)
  
@@ -2245,7 +2245,10 @@ Nr. XI-866,
 1. Šio įstatymo
 1 straipsnis įsigalioja 2009 m. gegužės 1 d.
 2. Šio įstatymo
-2 straipsnis įsigalioja 2011 m. sausio 1 d.
+2 straipsnis įsigalioja 2012 m. sausio 1 d.
+Straipsnio pakeitimai:
+Nr. XI-951,
+2010-06-30, Žin., 2010, Nr. 82-4305 (2010-07-13)
  
 Skelbiu šį Lietuvos Respublikos Seimo
 priimtą įstatymą. 
@@ -2269,9 +2272,18 @@ VALSTYBĖS
 POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
 ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-951,
+2010-06-30, Žin., 2010, Nr. 82-4305 (2010-07-13)
+VALSTYBĖS
+POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
+ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo Aušrinė
-Trapinskienė (2010-06-19)
-                  autrap@lrs.lt
+Redagavo Aušrinė Trapinskienė
+(2010-07-13)
+                 
+autrap@lrs.lt
