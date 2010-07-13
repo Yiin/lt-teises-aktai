@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DFEFEA5312DD"
 
 # Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto patvirtinimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2009-08-01 iki 2010-07-12
+Suvestinė redakcija nuo 2010-07-13 iki 2011-08-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3348, i. k. 1031010ISTA0IX-1669
  
@@ -388,7 +388,7 @@ DARBO UŽMOKESTIS IR DARBO TRUKMĖ,  SOCIALINĖS IR KITOS GARANTIJOS
 3) už trečiąją kvalifikacinę kategoriją – 20 procentų pareiginės algos;
 4) už ketvirtąją kvalifikacinę kategoriją – 25 procentai pareiginės algos;
 5) už penktąją kvalifikacinę kategoriją – 30 procentų pareiginės algos. 
-3 dalies redakcija nuo 2011-01-01:
+3 dalies redakcija nuo 2012-01-01:
 
 3. Statutiniams tarnautojams nustatomi šie priedai už kvalifikacinę kategoriją:
 1) už pirmąją kvalifikacinę kategoriją – 15 procentų pareiginės algos;
@@ -398,7 +398,7 @@ DARBO UŽMOKESTIS IR DARBO TRUKMĖ,  SOCIALINĖS IR KITOS GARANTIJOS
 5) už penktąją kvalifikacinę kategoriją – 55 procentai pareiginės algos.
 
 Straipsnio dalies pakeitimai:
-Nr. XI-366, 2009-07-17, Žin., 2009, Nr. 91-3921 (2009-07-31), i. k. 1091010ISTA00XI-366
+Nr. XI-946, 2010-06-30, Žin., 2010, Nr. 82-4300 (2010-07-13), i. k. 1101010ISTA00XI-946
  
 
 4. Statutiniams tarnautojams mokamos Valstybės tarnybos įstatymo nustatytos priemokos už darbą poilsio ir švenčių dienomis, nakties metu, kenksmingomis, labai kenksmingomis ir pavojingomis darbo sąlygomis, taip pat už įprastą darbo krūvį viršijančią veiklą ar papildomų užduočių, atliekamų viršijant nustatytą darbo trukmę, atlikimą. Papildomos užduotys statutiniam tarnautojui turi būti suformuluotos raštu. Priemokos už šioje dalyje nurodytas sąlygas negali viršyti 60 procentų pareiginės algos.
@@ -468,4 +468,9 @@ Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 7 straipsnio p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-366, 2009-07-17, Žin., 2009, Nr. 91-3921 (2009-07-31), i. k. 1091010ISTA00XI-366
 Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 20 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-946, 2010-06-30, Žin., 2010, Nr. 82-4300 (2010-07-13), i. k. 1101010ISTA00XI-946
+Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 20 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas
 
