@@ -963,15 +963,16 @@ tarnybos dieną kaip tris dienas, taikos palaikymo misijose ir patarėjų bei
 stebėtojų misijose – vieną tarnybos dieną kaip dvi dienas;
 11)
 laikotarpiai, numatyti Valstybės tarnybos įstatymo 42 straipsnyje.
-Dalies
-redakcija nuo 2009-08 01 iki 2010-12-31:
+ 
+4
+dalies redakcija iki 2011-12-31:
 4.
 Tarnybos pareigūnams priedas pagal Valstybės tarnybos įstatymą už 3-iąją
 kvalifikacinę kategoriją sudaro 10 procentų pareiginės algos, už 2-ąją
 kvalifikacinę kategoriją – 20 procentų pareiginės algos, už 1-ąją kvalifikacinę
 kategoriją – 30 procentų pareiginės algos.
-Dalies
-redakcija nuo 2011-01-01:
+4
+dalies redakcija nuo 2012-01-01:
 4. Tarnybos
 pareigūnams priedas pagal Valstybės tarnybos įstatymą už 3-iąją kvalifikacinę
 kategoriją sudaro 15 procentų pareiginės algos, už 2-ąją kvalifikacinę
@@ -984,18 +985,18 @@ viršijant nustatytą darbo trukmę, atlikimą, taip pat darbą naktį, poilsio 
 švenčių dienomis, kenksmingomis, labai kenksmingomis ir pavojingomis darbo
 sąlygomis mokamos Valstybės tarnybos įstatymo nustatyta tvarka. 
 6. Laikinojo
-nedarbingumo laikotarpiu bei nėštumo ir gimdymo atostogų laikotarpiu tarnybos
-pareigūnams mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų
-darbo užmokestis, o vaiko priežiūros atostogų laikotarpiu nuo nėštumo ir
-gimdymo atostogų pabaigos už kiekvieną vaiką, kol vaikui sueis vieni
-metai, – 100 procentų, o kol vaikui sueis dveji metai, – 85 procentai
-Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jų darbo užmokesčio.
-Išmokos vaiko priežiūros atostogų laikotarpiu mokamos neatsižvelgiant į tai,
-kurio vaiko priežiūrai suteiktos vaiko priežiūros atostogos. Jeigu tarnybos
-pareigūnui gimsta du ir daugiau vaikų ir jis yra šių vaikų priežiūros
-atostogose, jam apskaičiuotas vidutinis darbo užmokestis didinamas
-atsižvelgiant į vienu metu gimusių vaikų skaičių (gimus dvynukams – 2 kartus,
-gimus trynukams – 3 kartus ir 
+nedarbingumo laikotarpiu bei nėštumo ir gimdymo atostogų laikotarpiu tarnybos pareigūnams
+mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų darbo
+užmokestis, o vaiko priežiūros atostogų laikotarpiu nuo nėštumo ir gimdymo
+atostogų pabaigos už kiekvieną vaiką, kol vaikui sueis vieni metai, –
+100 procentų, o kol vaikui sueis dveji metai, – 85 procentai Vyriausybės
+nustatyta tvarka apskaičiuoto vidutinio jų darbo užmokesčio. Išmokos vaiko
+priežiūros atostogų laikotarpiu mokamos neatsižvelgiant į tai, kurio vaiko
+priežiūrai suteiktos vaiko priežiūros atostogos. Jeigu tarnybos pareigūnui
+gimsta du ir daugiau vaikų ir jis yra šių vaikų priežiūros atostogose, jam
+apskaičiuotas vidutinis darbo užmokestis didinamas atsižvelgiant į vienu metu
+gimusių vaikų skaičių (gimus dvynukams – 2 kartus, gimus trynukams – 3 kartus
+ir 
 t. t.). Išmoka už nėštumo ir gimdymo laikotarpį didinama tokia pat tvarka. Kai
 tarnybos pareigūnei, gaunančiai išmoką vaiko priežiūros atostogų laikotarpiu,
 suteikiamos nėštumo ir gimdymo atostogos ir ji įgyja teisę gauti išmoką nėštumo
@@ -1021,6 +1022,8 @@ X-1620,
 Nr.
 XI-364,
 2009-07-17, Žin., 2009, Nr. 91-3919 (2009-07-31)
+Nr. XI-949,
+2010-06-30, Žin., 2010, Nr. 82-4303 (2010-07-13)
  
 31
 straipsnis. Kompensacijos ir pašalpos
@@ -1039,9 +1042,9 @@ ar paskelbus žuvusiu, laikoma, kad jis yra pripažintas nežinia kur esančiu a
 paskelbtas žuvusiu dėl tarnybos, jeigu neįrodyta kitaip, ir jo šeimai bei
 nedarbingiems asmenims, kurie buvo jo išlaikomi arba nurodytą dieną turėjo
 teisę gauti jo išlaikymą, nuo tarnybos pareigūno pripažinimo nežinia kur
-esančiu ar jo paskelbimo žuvusiu dienos kas mėnesį lygiomis dalimis mokama jo vidutinio
-darbo užmokesčio pašalpa, neviršijant 120 mėnesių darbo užmokesčio dydžio
-sumos.
+esančiu ar jo paskelbimo žuvusiu dienos kas mėnesį lygiomis dalimis mokama jo
+vidutinio darbo užmokesčio pašalpa, neviršijant 120 mėnesių darbo užmokesčio
+dydžio sumos.
 3. Kai tarnybos
 pareigūnas, kuriam buvo sužalota sveikata atliekant
 tarnybines pareigas arba dėl tarnybos Specialiųjų tyrimų tarnyboje, pateikia
@@ -1252,15 +1255,23 @@ TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šio įstatymo
 1 straipsnis įsigalioja 2009 m. rugpjūčio 1 d.
 Šio įstatymo
-2 straipsnis įsigalioja 2011 m. sausio 1 d.
+2 straipsnis įsigalioja 2012 m. sausio 1 d.
+Įstatymo
+įsigaliojimas keistas:
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-949,
+2010-06-30, Žin., 2010, Nr. 82-4303 (2010-07-13)
+SPECIALIŲJŲ
+TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+ 
+*** Pabaiga ***
  
  
-***
-Pabaiga ***
- 
- 
-Redagavo
-Aušra Bodin (2009-08-03)
+Redagavo Aušrinė Trapinskienė
+(2010-07-16)
                  
-aubodi@lrs.lt
+autrap@lrs.lt
 
