@@ -1939,16 +1939,36 @@ ir gimdymo laikotarpį didinama tokia pat tvarka. Kai pareigūnei, gaunančiai
 išmoką vaiko priežiūros atostogų laikotarpiu, suteikiamos nėštumo ir gimdymo
 atostogos ir ji įgyja teisę gauti išmoką nėštumo ir gimdymo atostogų
 laikotarpiu, jai mokamos abi šios išmokos.
-4. Jeigu
-pareigūnas, kuris buvo ar yra išleistas vaiko priežiūros atostogų, kol vaikui
-sueis dveji metai, gauna darbo užmokestį, kuris yra mažesnis už vidutinį darbo
-užmokestį (bendrą vidutinių darbo užmokesčių sumą), nurodytą šio straipsnio 3
-dalyje, laikotarpiu, kol vaikui sueis dveji metai, jam mokamas šio vidutinio
-darbo užmokesčio (bendros jų sumos) ir jo gaunamo atitinkamo mėnesio darbo
-užmokesčio skirtumas.
+ 
+3 dalies nuostatos dėl laikinojo
+nedarbingumo laikotarpiu pareigūnams mokamų išmokų įsigalioja 2010 m. rugpjūčio
+1 d., nuostatos dėl nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko
+priežiūros atostogų laikotarpiais pareigūnams mokamų išmokų įsigalioja 2011 m.
+liepos 1 d.:
+3. Laikinojo
+nedarbingumo, nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko
+priežiūros atostogų laikotarpiais pareigūnams mokamas vidutinis jų darbo užmokestis
+arba jo dalis. Mokamo vidutinio darbo užmokesčio ar jo dalies dydis, maksimalus
+kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi vadovaujantis
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo
+nuostatomis.
+ 
+4. Jeigu pareigūnas,
+kuris buvo ar yra išleistas vaiko priežiūros atostogų, kol vaikui sueis dveji
+metai, gauna darbo užmokestį, kuris yra mažesnis už vidutinį darbo užmokestį
+(bendrą vidutinių darbo užmokesčių sumą), nurodytą šio straipsnio 3 dalyje,
+laikotarpiu, kol vaikui sueis dveji metai, jam mokamas šio vidutinio darbo
+užmokesčio (bendros jų sumos) ir jo gaunamo atitinkamo mėnesio darbo užmokesčio
+skirtumas.
+4 dalis netenka galios nuo 2011 m. liepos
+1 d.
+ 
 5. Tėvystės
 atostogų laikotarpiu pareigūnui mokamas Vyriausybės nustatyta tvarka
 apskaičiuotas vidutinis jo darbo užmokestis, jeigu jis pripažino tėvystę.
+5 dalis netenka galios nuo 2011 m. liepos
+1 d.
+ 
 6. Pareigūnų,
 kai jų laikinojo nedarbingumo trukmė atitinka nedarbingumo pažymėjimų išdavimo
 tvarkoje nustatytus maksimalius terminus arba anksčiau, nei šie terminai
@@ -1960,8 +1980,8 @@ Nr. IX-2526,
 Nr. IX-2536,
 2004-11-04, Žin., 2004, Nr. 171-6296 (2004-11-26)
 Nr.
-X-665,
-2006-06-08, Žin., 2006, Nr. 72-2681 (2006-06-28)
+X-665, 2006-06-08,
+Žin., 2006, Nr. 72-2681 (2006-06-28)
 Nr.
 X-804,
 2006-07-19, Žin., 2006, Nr. 87-3412 (2006-08-08)
@@ -1971,6 +1991,8 @@ X-1344,
 Nr.
 X-1621,
 2008-06-17, Žin., 2008, Nr. 74-2867 (2008-06-30)
+Nr. XI-985,
+2010-07-02, Žin., 2010, Nr. 86-4536 (2010-07-20)
  
 42 straipsnis. Pareigūnų medicininės reabilitacijos,
 sveikatos grąžinamojo ir antirecidyvinio gydymo išlaidų apmokėjimas
@@ -2106,9 +2128,9 @@ atskira tarnybine gyvenamąja patalpa). Už suteiktą tarnybinį butą (gyvenam�
 patalpas) pareigūnas moka Vyriausybės nustatyta tvarka apskaičiuotą
 gyvenamosios patalpos nuomos mokestį ir mokesčius už energijos, ryšių bei visas
 komunalines paslaugas pagal toje vietovėje galiojančius tarifus.
-2. Pareigūnas,
-perėjęs tarnauti į kitą vidaus reikalų įstaigą, dėl šios priežasties
-negali būti iškeldinamas iš anksčiau suteikto tarnybinio buto.
+2. Pareigūnas, perėjęs
+tarnauti į kitą vidaus reikalų įstaigą, dėl šios priežasties negali būti
+iškeldinamas iš anksčiau suteikto tarnybinio buto.
 3.
 Pareigūnas gali naudotis tarnybiniu butu (tarnybine gyvenamąja patalpa) tol,
 kol turi pareigūno statusą. Atleistas iš vidaus tarnybos pareigūnas privalo tarnybinį butą
@@ -2158,8 +2180,8 @@ profesinio ar įvadinio mokymo laikotarpiui valstybės biudžeto lėšomis
 privalomai draudžiama nuo nelaimingų atsitikimų profesinio ar įvadinio mokymo
 metu. Kursanto sveikatos ir gyvybės draudimo suma lygi draudiminio įvykio
 mėnesį Vyriausybės nustatytai minimaliai mėnesinei algai, padaugintai iš 12.
-3. Pareigūnų ir kursantų sveikatos ir
-gyvybės draudimo, draudiminių įvykių pripažinimo tvarką, draudimo išmokų dydžio
+3. Pareigūnų ir kursantų sveikatos ir gyvybės
+draudimo, draudiminių įvykių pripažinimo tvarką, draudimo išmokų dydžio
 nustatymo ir mokėjimo tvarką nustato Vyriausybė. Nelaimingų atsitikimų
 tarnyboje, nelaimingų atsitikimų, susijusių su tarnyba, nelaimingų atsitikimų
 vykstant į tarnybą ar grįžtant iš jos, taip pat nelaimingų atsitikimų
@@ -2205,8 +2227,8 @@ prašymu gali būti grąžinamas į vidaus tarnybą. Grąžinimo į vidaus tarny
 tvarką nustato vidaus reikalų ministras.
 Straipsnio
 pakeitimai:
-Nr. X-1705,
-2008-07-15, Žin., 2008, Nr. 87-3465 (2008-07-31)
+Nr. X-1705, 2008-07-15,
+Žin., 2008, Nr. 87-3465 (2008-07-31)
  
 52
 straipsnis. Kompensacijos, pašalpos ir kitos išmokos
@@ -2451,9 +2473,9 @@ apskaitai, pareigybių komplektavimui ir poreikio nustatymui.
 reikalų pareigūnų registras steigiamas ir tvarkomas Lietuvos Respublikos
 valstybės registrų, Asmens duomenų teisinės apsaugos įstatymų, kitų teisės aktų
 nustatyta tvarka. Vidaus reikalų pareigūnų registro paskirtį, jo objektus,
-registro tvarkymo įstaigas, jų teises ir pareigas, registro tvarkymą,
-reorganizavimą ir likvidavimą reglamentuoja Vidaus reikalų pareigūnų registro
-nuostatai. Šiuos nuostatus vidaus reikalų ministro teikimu tvirtina Vyriausybė.
+registro tvarkymo įstaigas, jų teises ir pareigas, registro tvarkymą, reorganizavimą
+ir likvidavimą reglamentuoja Vidaus reikalų pareigūnų registro nuostatai. Šiuos
+nuostatus vidaus reikalų ministro teikimu tvirtina Vyriausybė.
  
 ________________
  
@@ -2472,8 +2494,8 @@ TARNYBOS STATUTO 4 IR 13 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 2.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-2263, 2004-06-08,
-Žin., 2004, Nr. 98-3625 (2004-06-24)
+Nr. IX-2263,
+2004-06-08, Žin., 2004, Nr. 98-3625 (2004-06-24)
 VIDAUS
 TARNYBOS STATUTO 4 IR 13 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
@@ -2527,8 +2549,8 @@ TARNYBOS STATUTO 19, 52 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-163, 2005-04-21,
-Žin., 2005, Nr. 58-2001 (2005-05-07)
+X-163,
+2005-04-21, Žin., 2005, Nr. 58-2001 (2005-05-07)
 DARBO
 KODEKSO, ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO, BAUSMIŲ VYKDYMO KODEKSO,
 SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO, VIDAUS TARNYBOS STATUTO, SVEIKATOS DRAUDIMO
@@ -2619,9 +2641,9 @@ Respublikos vidaus tarnybos statuto 41 straipsnio 3 dalį, vadovaujantis
 šio įstatymo nuostatomis, atitinkamai perskaičiuojamas, padidinamas ir (ar)
 pratęsiamas jo mokėjimo laikotarpis.
 Vidaus tarnybos pareigūnams, esantiems
-vaiko priežiūros atostogose (nepaisant to, ar vaiko priežiūros atostogos
-tęsiamos, ar suteikiamos iš naujo), kuriems vidutinio darbo užmokesčio mokėjimo
-laikas buvo pasibaigęs, nes vaikui (vaikams) suėjo vieni metai, nuo 2008 m. sausio 1 d. mokėjimas tęsiamas, jeigu vaikui (vaikams) dar nėra suėję dveji metai. 
+vaiko priežiūros atostogose (nepaisant to, ar vaiko priežiūros atostogos tęsiamos,
+ar suteikiamos iš naujo), kuriems vidutinio darbo užmokesčio mokėjimo laikas
+buvo pasibaigęs, nes vaikui (vaikams) suėjo vieni metai, nuo 2008 m. sausio 1 d. mokėjimas tęsiamas, jeigu vaikui (vaikams) dar nėra suėję dveji metai. 
  
 16.
 Lietuvos
@@ -2640,8 +2662,8 @@ Nr. X-1621,
 2008-06-17, Žin., 2008, Nr. 74-2867 (2008-06-30)
 VIDAUS
 TARNYBOS STATUTO 41 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-Šis
-įstatymas įsigalioja 2008 m. liepos 1 d.
+Šis įstatymas
+įsigalioja 2008 m. liepos 1 d.
  
 18.
 Lietuvos
@@ -2680,10 +2702,18 @@ Nr. XI-795,
 VIDAUS TARNYBOS STATUTO 54 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
  
+22.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-985,
+2010-07-02, Žin., 2010, Nr. 86-4536 (2010-07-20)
+VIDAUS TARNYBOS
+STATUTO 41 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė
-(2010-05-18)
+Redagavo Aušrinė
+Trapinskienė (2010-07-27)
                  
 autrap@lrs.lt
