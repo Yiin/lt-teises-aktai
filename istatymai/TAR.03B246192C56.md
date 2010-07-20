@@ -54,7 +54,8 @@ TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ
 SĄRAŠAS
  
 I.
-2010 METŲ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
+2010–2011 METŲ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ
+PAREIGYBIŲ SĄRAŠAS
  
 
 Eil. Nr.
@@ -894,7 +895,7 @@ C
  
 
 II.
-2011 METŲ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS 
+2012 METŲ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS 
 
  Eil. Nr.
 
@@ -1227,8 +1228,8 @@ skyriaus
 komisariato
   viršininko pavaduotojas (taikoma ne įstaigos vadovo pavaduotojui),
 biuro
-  viršininko pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame
-  struktūriniame padalinyje),
+  viršininko pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame
+  padalinyje),
 posto
   viršininko pavaduotojas 
  
@@ -1557,8 +1558,8 @@ inspektorius,
 tyrėjas,
 būrininkas, 
   pamainos vadas,
-sargybos viršininkas,
-  
+sargybos
+  viršininkas, 
   vyresnysis budėtojas,
 vyresnysis
   dispečeris,
@@ -1733,7 +1734,7 @@ C
  
  
 III.
-NUO 2012 METŲ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS 
+NUO 2013 METŲ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS 
 
 Eil. Nr.
 
@@ -1879,8 +1880,7 @@ ambasadorius
 
 direktoriaus pavaduotojas,
 viršininko pavaduotojas,
-vado pavaduotojas (taikoma įstaigos vadovo
-  pavaduotojui),
+vado pavaduotojas (taikoma įstaigos vadovo pavaduotojui),
   štabo viršininkas, 
 direktorato direktorius
 
@@ -2575,32 +2575,42 @@ C
 Straipsnio pakeitimai:
 Nr. XI-851,
 2010-05-25, Žin., 2010, Nr. 67-3347 (2010-06-10)
+Nr. XI-979,
+2010-07-02, Žin., 2010, Nr. 86-4530 (2010-07-20)
  
-2 straipsnis. Įstatymo įgyvendinimas
-Jeigu
-pagal 2010 metų ir 2011 metų valstybės tarnautojų suvienodintų pareigybių
-sąrašus arba jeigu pagal nuo 2012 metų valstybės tarnautojų suvienodintų
+2
+straipsnis. Įstatymo įgyvendinimas
+Jeigu pagal
+2010–2011 metų ir 2012 metų valstybės tarnautojų suvienodintų pareigybių
+sąrašus arba jeigu pagal nuo 2013 metų valstybės tarnautojų suvienodintų
 pareigybių sąrašą turi būti nustatyta aukštesnė valstybės tarnautojo pareigybės
-kategorija, sprendimas dėl aukštesnės valstybės tarnautojo pareigybės kategorijos
-nustatymo turi įsigalioti kartu su atitinkamų metų valstybės tarnautojų
-suvienodintų pareigybių sąrašu.
+kategorija, sprendimas dėl aukštesnės valstybės tarnautojo pareigybės
+kategorijos nustatymo turi įsigalioti kartu su atitinkamų metų valstybės
+tarnautojų suvienodintų pareigybių sąrašu.
+Straipsnio pakeitimai:
+Nr. XI-979,
+2010-07-02, Žin., 2010, Nr. 86-4530 (2010-07-20)
  
-3 straipsnis. Įstatymo
+3
+straipsnis. Įstatymo
 įsigaliojimas
-1.
-Šis įstatymas, išskyrus 2011 metų valstybės tarnautojų suvienodintų pareigybių
-sąrašą ir nuo 2012 metų valstybės tarnautojų suvienodintų pareigybių sąrašą,
+1. Šis
+įstatymas, išskyrus 2012 metų valstybės tarnautojų suvienodintų pareigybių
+sąrašą ir nuo 2013 metų valstybės tarnautojų suvienodintų pareigybių sąrašą,
 įsigalioja 2010 m. sausio 1 d.
-2.
-2011 metų valstybės tarnautojų suvienodintų pareigybių sąrašas įsigalioja 2011
-m. sausio 1 d., o nuo 2012 metų valstybės tarnautojų suvienodintų pareigybių
-sąrašas įsigalioja 2012m. sausio 1 d.
+2. 2012 metų
+valstybės tarnautojų suvienodintų pareigybių sąrašas įsigalioja 2012 m. sausio
+1 d., o nuo 2013 metų valstybės tarnautojų suvienodintų pareigybių sąrašas
+įsigalioja 2013 m. sausio 1 d.
+Straipsnio pakeitimai:
+Nr. XI-979,
+2010-07-02, Žin., 2010, Nr. 86-4530 (2010-07-20)
  Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 
  
 RESPUBLIKOS
-PREZIDENTĖ                                                            DALIA
+PREZIDENTĖ                                                            DALIA
 GRYBAUSKAITĖ
  
 _________________
@@ -2617,10 +2627,20 @@ TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMA
 Šis įstatymas
 įsigalioja 2010 m. liepos 1 d.
  
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-979,
+2010-07-02, Žin., 2010, Nr. 86-4530 (2010-07-20)
+VALSTYBĖS
+TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMO 1, 2 IR 3 STRAIPSNIŲ PAKEITIMO
+ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo Aušrinė
-Trapinskienė (2010-06-10)
-                  autrap@lrs.lt
+Redagavo Aušrinė Trapinskienė
+(2010-07-20)
+                 
+autrap@lrs.lt
 
