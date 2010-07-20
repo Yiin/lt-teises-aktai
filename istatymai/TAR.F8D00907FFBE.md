@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F8D00907FFBE"
 
 # Lietuvos Respublikos asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, registracijos, prisipažinimo, įskaitos ir prisipažinusiųjų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2000-06-28 iki 2010-07-19
+Suvestinė redakcija nuo 2010-07-20 iki 2013-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 104-2976, i. k. 0991010ISTAIII-1436
  
@@ -151,47 +151,81 @@ Buvusios SSRS specialiosios tarnybos pagal šį įstatymą yra:
 
 
 
-11) Valstybės saugumo komitetas prie Lietuvos SSR Ministrų Tarybos, veikęs nuo 1954 m. balandžio 1 d. iki 1991 m. spalio 1 d.;
+11) Valstybės saugumo komitetas prie Lietuvos SSR Ministrų Tarybos, veikęs nuo 1954 m. balandžio 1 d. iki 1978 m. rugsėjo 14 d.; 
+Straipsnio punkto pakeitimai:
+Nr. XI-961, 2010-06-30, Žin., 2010, Nr. 86-4519 (2010-07-20), i. k. 1101010ISTA00XI-961
+ 
 
 
 
 
-12) SSRS NKVD GUGB 4 skyrius, veikęs nuo 1938 m. rugsėjo 29 d. iki 1941 m. vasario 8 d.;
+12) Lietuvos SSR valstybės saugumo komitetas, veikęs nuo 1978 m. rugsėjo 14 d. iki 1991 m. spalio 1 d.; 
+Papildyta straipsnio punktu:
+Nr. XI-961, 2010-06-30, Žin., 2010, Nr. 86-4519 (2010-07-20), i. k. 1101010ISTA00XI-961
+ 
 
 
 
 
-13) SSRS liaudies gynybos komisariato (NKO) 3 valdyba, Karinio jūrų laivyno liaudies komisariato (NKVMF) 3 valdyba ir SSRS NKVD 3 skyrius, veikę nuo 1941 m. vasario 8 d. iki 1941 m. liepos 17 d.;
+13) SSRS NKVD GUGB 4 skyrius, veikęs nuo 1938 m. rugsėjo 29 d. iki 1941 m. vasario 8 d.;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-961, 2010-06-30, Žin., 2010, Nr. 86-4519 (2010-07-20), i. k. 1101010ISTA00XI-961
+ 
 
 
 
 
-14) SSRS NKVD Ypatingųjų skyrių valdyba, veikusi nuo 1941 m. liepos 17 d. iki 1943 m. balandžio 19 d.;
+14) SSRS liaudies gynybos komisariato (NKO) 3 valdyba, Karinio jūrų laivyno liaudies komisariato (NKVMF) 3 valdyba ir SSRS NKVD 3 skyrius, veikę nuo 1941 m. vasario 8 d. iki 1941 m. liepos 17 d.;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-961, 2010-06-30, Žin., 2010, Nr. 86-4519 (2010-07-20), i. k. 1101010ISTA00XI-961
+ 
 
 
 
 
-15) SSRS NKO Vyriausioji kontržvalgybos valdyba „Smerč“, SSRS NKVMF Kontržvalgybos valdyba „Smerč“ ir SSRS NKVD Kontržvalgybos skyrius „Smerč“, veikę nuo 1943 m. balandžio 19 d. iki 1946 m. gegužės 4 d.;
+15) SSRS NKVD Ypatingųjų skyrių valdyba, veikusi nuo 1941 m. liepos 17 d. iki 1943 m. balandžio 19 d.;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-961, 2010-06-30, Žin., 2010, Nr. 86-4519 (2010-07-20), i. k. 1101010ISTA00XI-961
+ 
 
 
 
 
-16) SSRS MGB 3 vyriausioji valdyba ir SSRS MVD Kontržvalgybos skyrius, veikę nuo 1946 m. gegužės 4 d. iki 1953 m. kovo 14 d.;
+16) SSRS NKO Vyriausioji kontržvalgybos valdyba „Smerš“, SSRS NKVMF Kontržvalgybos valdyba „Smerš“ ir SSRS NKVD Kontržvalgybos skyrius „Smerš“, veikę nuo 1943 m. balandžio 19 d. iki 1946 m. gegužės 4 d.;
+Straipsnio punkto pakeitimai:
+Nr. XI-961, 2010-06-30, Žin., 2010, Nr. 86-4519 (2010-07-20), i. k. 1101010ISTA00XI-961
+ 
 
 
 
 
-17) SSRS MVD 3 valdyba, veikusi nuo 1953 m. kovo 14 d. iki 1954 m. kovo 18 d.;
+17) SSRS MGB 3 vyriausioji valdyba ir SSRS MVD Kontržvalgybos skyrius, veikę nuo 1946 m. gegužės 4 d. iki 1953 m. kovo 14 d.;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-961, 2010-06-30, Žin., 2010, Nr. 86-4519 (2010-07-20), i. k. 1101010ISTA00XI-961
+ 
 
 
 
 
-18) Informacijos komitetas prie SSRS Ministrų Tarybos, veikęs nuo 1947 m. kovo mėn. iki 1952 m. sausio mėn.;
+18) SSRS MVD 3 valdyba, veikusi nuo 1953 m. kovo 14 d. iki 1954 m. kovo 18 d.;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-961, 2010-06-30, Žin., 2010, Nr. 86-4519 (2010-07-20), i. k. 1101010ISTA00XI-961
+ 
 
 
 
 
-19) Vyriausioji žvalgybos valdyba prie Sovietų armijos generalinio štabo (GRU), veikusi nuo 1918 m. spalio mėn.
+19) Informacijos komitetas prie SSRS Ministrų Tarybos, veikęs nuo 1947 m. kovo mėn. iki 1952 m. sausio mėn.;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-961, 2010-06-30, Žin., 2010, Nr. 86-4519 (2010-07-20), i. k. 1101010ISTA00XI-961
+ 
+
+
+
+
+20) Vyriausioji žvalgybos valdyba prie Sovietų armijos generalinio štabo (GRU), veikusi nuo 1918 m. spalio mėn.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-961, 2010-06-30, Žin., 2010, Nr. 86-4519 (2010-07-20), i. k. 1101010ISTA00XI-961
  
 
 
@@ -357,6 +391,13 @@ Nr. VIII-1726, 2000-06-13, Žin., 2000, Nr. 52-1485 (2000-06-28), i. k. 1001010I
 
 
 4. Duomenys apie slaptą bendradarbiavimą su buvusios SSRS specialiosiomis tarnybomis skelbiami „Valstybės žiniose“ tuo atveju, jeigu asmuo, slapta bendradarbiavęs su buvusios SSRS specialiosiomis tarnybomis, per 6 mėnesius nuo Komisijos paskelbto registravimo ir prisipažinimų priėmimo pradžios neprisipažino slapta bendradarbiavęs su buvusios SSRS specialiosiomis tarnybomis, taip pat jei pateikė žinomai melagingas žinias apie save, kitus asmenis ir specialiųjų tarnybų veiklą ar tokią informaciją nuslėpė. Apie Komisijos priimtą sprendimą viešai paskelbti duomenis raštu pranešama asmeniui, slapta bendradarbiavusiam su buvusios SSRS specialiosiomis tarnybomis. Jis šį nutarimą per 15 dienų nuo pranešimo gavimo gali apskųsti administraciniam teismui. Nutarimo viešai paskelbti duomenis vykdymas sustabdomas iki teismo sprendimo įsiteisėjimo. 
+
+
+
+
+5. Šio straipsnio 4 dalyje nustatyta tvarka duomenys apie slaptą bendradarbiavimą su buvusios SSRS specialiosiomis tarnybomis neskelbiami ir šio įstatymo 9 straipsnyje nustatyti veiklos apribojimai netaikomi asmenims, kurie apie savo slaptą bendradarbiavimą su buvusios SSRS specialiosiomis tarnybomis prisipažino specialiosioms deputatų komisijoms, sudarytoms įgyvendinant Lietuvos Respublikos įstatymą „Dėl deputatų, įtariamų sąmoningu bendradarbiavimu su kitų valstybių specialiosiomis tarnybomis, mandatų patikrinimo“ arba specialiojoje Lietuvos Respublikos valstybinių įstaigų tarnautojų asmens duomenų pildymo anketoje, kurios forma nustatyta Lietuvos Respublikos Vyriausybės 1992 m. balandžio 6 d. potvarkiu  Nr. 351p.
+Papildyta straipsnio dalimi:
+Nr. XI-961, 2010-06-30, Žin., 2010, Nr. 86-4519 (2010-07-20), i. k. 1101010ISTA00XI-961
  
 
 
@@ -364,23 +405,75 @@ Nr. VIII-1726, 2000-06-13, Žin., 2000, Nr. 52-1485 (2000-06-28), i. k. 1001010I
 
 
 
-9 straipsnis. Neįrašytų į Valstybės saugumo departamento įskaitą asmenų veiklos apribojimas 
+9 straipsnis. Asmenų, pripažintų slapta bendradarbiavus su buvusios SSRS specialiosiomis tarnybomis, veiklos apribojimas
 
 
-1. Slapta su buvusios SSRS specialiosiomis tarnybomis bendradarbiavę asmenys, kurių duomenys viešai paskelbti šio įstatymo 8 straipsnio 3 arba 4 dalies nustatyta tvarka, nuo paskelbimo dienos 10 metų negali dirbti švietimo įstaigose pedagogais, auklėtojais ir šių įstaigų vadovais, eiti pareigų, susijusių su ginklo turėjimu, taip pat dirbti Lietuvos Respublikos valstybės pareigūnais arba tarnautojais valstybės valdžios ir valdymo, savivaldos institucijose, krašto apsaugos sistemoje, vidaus reikalų sistemoje, muitinėje, prokuratūroje, teismuose, Valstybės saugumo departamente, diplomatinėje tarnyboje, Valstybės kontrolėje ir kitose kontrolę bei priežiūrą vykdančiose valstybės institucijose, taip pat advokatais ir notarais, bankuose ir kitose kredito įstaigose, strateginiuose ūkio objektuose, ryšių sistemoje, saugos tarnybose ir jų struktūrose bei kitose tarnybose, teikiančiose detektyvų paslaugas.
+1. Asmenys, Komisijos pripažinti slapta bendradarbiavę su buvusios SSRS specialiosiomis tarnybomis negali:
 
 
-
-
-2. Jeigu Komisijos sprendimu „Valstybės žiniose“ ir kitose visuomenės informavimo priemonėse paskelbiami duomenys apie asmenis, slapta bendradarbiavusius su buvusios SSRS specialiosiomis tarnybomis, darbdavys ar jo įgaliotas asmuo privalo ne vėliau kaip kitą darbo dieną po šių duomenų paskelbimo atleisti darbuotoją iš darbo, nemokėdamas jam išeitinės pašalpos. Tokie darbuotojai atleidžiami iš darbo pagal Darbo sutarties įstatymo 26 straipsnio 14 punktą – kai darbo sutartis prieštarauja įstatymų reikalavimams (Darbo sutarties įstatymo 31 straipsnis), nepaisant to, kad toks atleidimo pagrindas nenustatytas šių asmenų atleidimą iš darbo reglamentuojančiuose specialiuose įstatymuose (statutuose). 
+1) eiti pareigų, į kurias skiria Seimas, Respublikos Prezidentas, Seimo Pirmininkas, Vyriausybė arba Ministras Pirmininkas, taip pat viceministro, ministerijos kanclerio, valstybės institucijos ar įstaigos vadovo, jo pavaduotojo, valstybinės ar savivaldybės mokyklos vadovo pareigų;
 
 
 
 
-3. Jeigu viešai paskelbiama informacija apie slapta bendradarbiavusį su buvusios SSRS specialiosiomis tarnybomis asmenį, kuris verčiasi advokato praktika, tai Lietuvos advokatų taryba panaikina sprendimą pripažinti asmenį advokatu. Pasibaigus 10 metų terminui, asmuo turi teisę įstatymo nustatyta tvarka būti pripažintas advokatu. 
+2) eiti prokurorų, valstybės kontrolės pareigūnų, statutinių valstybės tarnautojų pareigų;
+
+
+
+
+3) eiti valstybės tarnautojo ar civilio statutinio valstybės tarnautojo pareigų krašto apsaugos sistemoje, atlikti tikrosios karo tarnybos;
+
+
+
+
+4) eiti valstybės tarnautojo pareigų Valstybės saugumo departamente;
+
+
+
+
+5) eiti pareigų diplomatinėje tarnyboje;
+
+
+
+
+6) eiti pareigų, susijusių su Lietuvos Respublikos ir (arba) su užsienio valstybių ar tarptautinių organizacijų įslaptintos informacijos naudojimu ar tokios informacijos apsauga;
+
+
+
+
+7) eiti registro tvarkymo įstaigos vadovo, jo pavaduotojo pareigų arba pareigų, tiesiogiai susijusių su registrų duomenų valdymu ar tvarkymu, taip pat valstybės informacinę sistemą tvarkančios įstaigos vadovo pareigų ir pareigų, tiesiogiai susijusių su valstybės informacinių sistemų valdymu ar tvarkymu.
+
+
+
+
+
+
+2. Kai Komisijos sprendimu šio įstatymo 8 straipsnio 4 dalyje nustatyta tvarka „Valstybės žinių“ priede „Informaciniai pranešimai“ paskelbiami duomenys apie asmenis, slapta bendradarbiavusius su buvusios SSRS specialiosiomis tarnybomis, darbdavys ar valstybės tarnautoją į pareigas priimantis asmuo privalo ne vėliau kaip kitą darbo dieną po šių duomenų paskelbimo nutraukti darbo sutartį arba atleisti iš einamų pareigų įstatymų nustatyta tvarka, nepaisant to, kad toks atleidimo pagrindas nenustatytas šių asmenų atleidimą iš darbo ar pareigų reglamentuojančiuose specialiuose įstatymuose (statutuose).
+
+
+
+
+3. Respublikos Prezidento, Seimo, Vyriausybės nario, Konstitucinio Teismo, Lietuvos Aukščiausiojo Teismo ar Lietuvos apeliacinio teismo teisėjo, prokuroro pareigas einantys asmenys, neprisipažinę Lietuvos valstybei slapta bendradarbiavę su buvusios SSRS specialiosiomis tarnybomis, pateikę žinomai melagingas žinias apie save, kitus asmenis ir specialiųjų tarnybų veiklą ar tokią informaciją nuslėpę, už tai atsako kaip už priesaikos sulaužymą. Kitų teismų teisėjo pareigas einantys asmenys už šioje dalyje nurodytus veiksmus atsako kaip už teisėjo vardo pažeminimą.
+
+
+
+
+4. Europos Parlamento ar savivaldybės tarybos nario pareigas einančių asmenų, neprisipažinusių Lietuvos valstybei slapta bendradarbiavus su buvusios SSRS specialiosiomis tarnybomis, pateikusių žinomai melagingas žinias apie save, kitus asmenis ir specialiųjų tarnybų veiklą ar tokią informaciją nuslėpusių, įgaliojimai pripažįstami nutrūkusiais nepasibaigus nustatytam terminui. Vyriausioji rinkimų komisija atitinkamą sprendimą priima per 14 dienų nuo Komisijos sprendimo „Valstybės žinių“ priede „Informaciniai pranešimai“ paskelbti duomenis apie asmenis, slapta bendradarbiavusius su buvusios SSRS specialiosiomis tarnybomis, paskelbimo dienos.
+
+
+
+
+5. Asmuo, keliamas kandidatu į Respublikos Prezidento, Seimo, Europos Parlamento ar savivaldybės tarybos nario pareigas ir nepateikęs duomenų Vyriausiajai rinkimų komisijai apie tai, kad jis slapta bendradarbiavo su buvusios SSRS specialiosiomis tarnybomis, neregistruojamas kandidatu arba išbraukiamas iš kandidatų.
+
+
+
+
+6. Asmuo, siekiantis eiti teisėjo ar prokuroro pareigas, neprisipažinęs Lietuvos valstybei slapta bendradarbiavęs su buvusios SSRS specialiosiomis tarnybomis, pateikęs žinomai melagingas žinias apie save, kitus asmenis ir specialiųjų tarnybų veiklą ar tokią informaciją nuslėpęs, negali būti laikomas nepriekaištingos reputacijos ir teisėju ar prokuroru neskiriamas.
+
+
+Straipsnio pakeitimai:
+Nr. XI-961, 2010-06-30, Žin., 2010, Nr. 86-4519 (2010-07-20), i. k. 1101010ISTA00XI-961
  
-
-
 
 
 
@@ -431,3 +524,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1726, 2000-06-13, Žin., 2000, Nr. 52-1485 (2000-06-28), i. k. 1001010ISTAIII-1726
 Lietuvos Respublikos asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, registracijos, prisipažinimo, įskaitos ir prisipažinusiųjų apsaugos įstatymo 6, 8 straipsnių pakeitimo ir papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-961, 2010-06-30, Žin., 2010, Nr. 86-4519 (2010-07-20), i. k. 1101010ISTA00XI-961
+Lietuvos Respublikos asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, registracijos, prisipažinimo, įskaitos ir prisipažinusiųjų apsaugos įstatymo 3, 8, 9 straipsnių pakeitimo ir papildymo įstatymas
