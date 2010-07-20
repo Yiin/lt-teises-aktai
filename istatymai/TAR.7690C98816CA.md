@@ -1001,11 +1001,35 @@ t. t.). Išmoka už nėštumo ir gimdymo laikotarpį didinama tokia pat tvarka. 
 tarnybos pareigūnei, gaunančiai išmoką vaiko priežiūros atostogų laikotarpiu,
 suteikiamos nėštumo ir gimdymo atostogos ir ji įgyja teisę gauti išmoką nėštumo
 ir gimdymo atostogų laikotarpiu, jai mokamos abi šios išmokos.
-7. Jeigu tarnybos pareigūnas, kuris buvo ar yra išleistas vaiko priežiūros atostogų, kol vaikui sueis dveji metai, gauna darbo užmokestį, kuris yra mažesnis už vidutinį darbo užmokestį (bendrą vidutinių darbo užmokesčių sumą), nurodytą šio straipsnio 6 dalyje, laikotarpiu, kol vaikui sueis dveji metai, jam mokamas šio vidutinio darbo užmokesčio (bendros jų sumos) ir jo gaunamo atitinkamo mėnesio darbo užmokesčio skirtumas.
-8.
-Tėvystės atostogų laikotarpiu tarnybos pareigūnui mokamas Vyriausybės nustatyta
-tvarka apskaičiuotas vidutinis jo darbo užmokestis, jeigu jis pripažino
-tėvystę.
+ 
+6 dalies
+įstatymo nuostatos dėl laikinojo nedarbingumo laikotarpiu pareigūnams mokamų
+išmokų įsigalioja 2010 m. rugpjūčio 1 d., nuostatos dėl nėštumo ir gimdymo
+atostogų, tėvystės atostogų ir vaiko priežiūros atostogų laikotarpiais
+pareigūnams mokamų išmokų įsigalioja 2011 m. liepos 1 d.:
+6. Laikinojo
+nedarbingumo, nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko
+priežiūros atostogų laikotarpiais tarnybos pareigūnams mokamas Vyriausybės
+nustatyta tvarka apskaičiuotas vidutinis jų darbo užmokestis arba jo dalis.
+Mokamo vidutinio darbo užmokesčio ar jo dalies dydis, maksimalus
+kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi vadovaujantis
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo
+nuostatomis.
+ 
+7. Jeigu
+tarnybos pareigūnas, kuris buvo ar yra išleistas vaiko priežiūros atostogų, kol
+vaikui sueis dveji metai, gauna darbo užmokestį, kuris yra mažesnis už vidutinį
+darbo užmokestį (bendrą vidutinių darbo užmokesčių sumą), nurodytą šio straipsnio
+6 dalyje, laikotarpiu, kol vaikui sueis dveji metai, jam mokamas šio vidutinio
+darbo užmokesčio (bendros jų sumos) ir jo gaunamo atitinkamo mėnesio darbo
+užmokesčio skirtumas.
+7 dalis netenka
+galios nuo 2011 m. liepos 1 d.
+8. Tėvystės
+atostogų laikotarpiu tarnybos pareigūnui mokamas Vyriausybės nustatyta tvarka
+apskaičiuotas vidutinis jo darbo užmokestis, jeigu jis pripažino tėvystę.
+8 dalis netenka
+galios nuo 2011 m. liepos 1 d.
 Straipsnio pakeitimai:
 Nr. X-121, 2005-02-15,
 Žin., 2005, Nr. 28-873 (2005-02-26)
@@ -1024,6 +1048,8 @@ XI-364,
 2009-07-17, Žin., 2009, Nr. 91-3919 (2009-07-31)
 Nr. XI-949,
 2010-06-30, Žin., 2010, Nr. 82-4303 (2010-07-13)
+Nr.
+XI-986, 2010-07-02, Žin., 2010, Nr. 86-4537 (2010-07-20)
  
 31
 straipsnis. Kompensacijos ir pašalpos
@@ -1176,8 +1202,8 @@ nuo 2005 m. kovo 1 d.
 Jeigu pareigūnams,
 esantiems vaiko priežiūros, kol jam sueis vieni metai, atostogose, pagal šio
 įstatymo nuostatas apskaičiuota 70 procentų vidutinio jų darbo užmokesčio suma
-yra mažesnė nei mokėta iki šio įstatymo įsigaliojimo, toliau mokama anksčiau
-nustatyto dydžio suma.
+yra mažesnė nei mokėta iki šio įstatymo įsigaliojimo, toliau mokama anksčiau nustatyto
+dydžio suma.
  
 2.
 Lietuvos Respublikos Seimas,
@@ -1217,8 +1243,8 @@ m. rugsėjo 1 d.
 5.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. X-1340,
-2007-12-04, Žin., 2007, Nr. 132-5348 (2007-12-15)
+Nr. X-1340, 2007-12-04,
+Žin., 2007, Nr. 132-5348 (2007-12-15)
 SPECIALIŲJŲ TYRIMŲ TARNYBOS
 STATUTO 30 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2008 m. sausio 1 d.
@@ -1267,11 +1293,27 @@ SPECIALIŲJŲ
 TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
  
+8.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-986, 2010-07-02, Žin., 2010, Nr. 86-4537 (2010-07-20)
+SPECIALIŲJŲ
+TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šio įstatymo nuostatos dėl
+nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros atostogų
+laikotarpiais pareigūnams mokamų išmokų įsigalioja 2011 m. liepos 1 d. 
+Šio įstatymo nuostatos dėl
+laikinojo nedarbingumo laikotarpiu pareigūnams mokamų išmokų įsigalioja 2010 m.
+rugpjūčio 1 d. 
+Šio įstatymo nuostatos taikomos
+po šio įstatymo įsigaliojimo skiriamoms išmokoms.
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2010-07-16)
+(2010-07-28)
                  
 autrap@lrs.lt
 
