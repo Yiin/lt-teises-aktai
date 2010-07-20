@@ -76,8 +76,6 @@ generalinį komisarą) bei pareigūnams;
 9) Seimo,
 Respublikos Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių
 (nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams;
-3 dalis papildoma 10 punktu nuo 2010 m. liepos
-1 d.:
 10) Vyriausybės įstaigų vadovams.
 Straipsnio
 pakeitimai:
@@ -154,12 +152,12 @@ Valstybės politikų ir valstybės pareigūnų pareiginės algos
 politikų ir valstybės pareigūnų pareiginės algos skaičiuojamos taikant
 pareiginės algos bazinį dydį (toliau – bazinis dydis), kurį Vyriausybės
 teikimu, įvertinus valstybės politikams ir valstybės pareigūnams atstovaujančių
-organizacijų pasiūlymus, praėjusių metų vidutinę metinę infliaciją (skaičiuojant
-nacionalinį vartotojų kainų indeksą) ir kitų vidutinio darbo užmokesčio
-viešajame sektoriuje dydžiui ir kitimui poveikį turinčių veiksnių įtaką,
-tvirtina Lietuvos Respublikos Seimas iki Seimo pavasario sesijos pabaigos.
-Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį dydį,
-išskyrus atvejus, kai iš esmės pablogėja valstybės ekonominė ir finansinė
+organizacijų pasiūlymus, praėjusių metų vidutinę metinę infliaciją
+(skaičiuojant nacionalinį vartotojų kainų indeksą) ir kitų vidutinio darbo
+užmokesčio viešajame sektoriuje dydžiui ir kitimui poveikį turinčių veiksnių
+įtaką, tvirtina Lietuvos Respublikos Seimas iki Seimo pavasario sesijos
+pabaigos. Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį
+dydį, išskyrus atvejus, kai iš esmės pablogėja valstybės ekonominė ir finansinė
 būklė.
 2. Pareiginė
 alga apskaičiuojama atitinkamą pareiginės algos koeficientą, nustatytą šio
@@ -185,13 +183,12 @@ Nr. XI-82, 2008-12-19,
  
 5 straipsnis. Priedas už ištarnautus
 Lietuvos valstybei metus
-1. Valstybės politikams
-ir valstybės pareigūnams mokamas priedas už ištarnautus Lietuvos valstybei
-metus nuo 1990 m. kovo 11 d., einant  pareigas, nurodytas Valstybės
-tarnybos įstatymo straipsnio 1–4 dalyse ir 5 dalies 1–4 punktuose (išskyrus
-savivaldybės tarybos narius, kurie nebuvo merais ir mero pavaduotojais). Į
-ištarnautus metus įskaitomi laikotarpiai, nurodyti minėto įstatymo 42
-straipsnio 1 dalyje.
+1. Valstybės
+politikams ir valstybės pareigūnams mokamas priedas už ištarnautus Lietuvos
+valstybei metus nuo 1990 m. kovo 11 d., einant  pareigas, nurodytas Valstybės tarnybos įstatymo straipsnio 1–4 dalyse ir 5
+dalies 1–4 punktuose (išskyrus savivaldybės tarybos narius, kurie nebuvo merais
+ir mero pavaduotojais). Į ištarnautus metus įskaitomi laikotarpiai, nurodyti
+minėto įstatymo 42 straipsnio 1 dalyje.
 2. Tarnybos
 stažo skaičiavimo tvarką nustato Vyriausybė.
 3. Priedą už
@@ -249,8 +246,8 @@ pareigūnų darbą, atsižvelgiant į šio straipsnio nuostatas sukonkretinamos 
 straipsnio 1 dalyje nurodytų priemokų dydžių nustatymo ir išmokėjimo sąlygos
 bei tvarka.
 Straipsnio pakeitimai:
-Nr. IX-1045, 2002-07-05,
-Žin., 2002, Nr. 73-3104 (2002-07-19)
+Nr. IX-1045,
+2002-07-05, Žin., 2002, Nr. 73-3104 (2002-07-19)
  
 7
 straipsnis. Neteko
@@ -303,7 +300,7 @@ ADAMKUS
  
  
 Priedėlio
-redakcija nuo 2009 m. rugpjūčio 1 d. iki 2010 gruodžio 31 d. : 
+redakcija iki 2011 gruodžio 31 d. : 
                                                                                                 Lietuvos
 Respublikos
                                                                                                 valstybės
@@ -315,8 +312,8 @@ darbo apmokėjimo
                                                                                                 priedėlis
 
  
-I. VALSTYBĖS POLITIKŲ
-PAREIGINĖS ALGOS
+I. VALSTYBĖS
+POLITIKŲ PAREIGINĖS ALGOS
 (Baziniais dydžiais)
 
 
@@ -606,7 +603,8 @@ Merai
 5.2.
 
 
-Merų pavaduotojai
+Merų
+  pavaduotojai
 
 
 9,45
@@ -1372,17 +1370,13 @@ Lietuvos
 
 
 
- 
 13.
 
 
-IV skirsnis papildomas 13 punktu nuo
-  2010 m. liepos 1 d.:
 Vyriausybės
   įstaigų vadovai
 
 
- 
 12,3
 
 
@@ -2522,8 +2516,8 @@ Nr. IX-1520,
 2003-04-22, Žin., 2003, Nr. 42-1920 (2003-05-01)
 Nr. IX-1594,
 2003-06-03, Žin., 2003, Nr. 59-2639 (2003-06-20)
-Nr. IX-1738,
-2003-09-18, Žin., 2003, Nr. 94-4247 (2003-10-08)
+Nr. IX-1738, 2003-09-18,
+Žin., 2003, Nr. 94-4247 (2003-10-08)
 Nr. IX-1918,
 2003-12-18, Žin., 2003, Nr. 123-5589 (2003-12-30)
 Nr. X-128, 2005-02-15,
@@ -2556,6 +2550,8 @@ Nr. XI-866,
 2010-06-03, Žin., 2010, Nr. 71-3544 (2010-06-19)
 Nr. XI-951,
 2010-06-30, Žin., 2010, Nr. 82-4305 (2010-07-13)
+Nr. XI-980,
+2010-07-02, Žin., 2010, Nr. 86-4531 (2010-07-20)
  
 ________________
  
@@ -2624,8 +2620,8 @@ Nr.
 IX-841,
 2002-04-09, Žin., 2002, Nr. 43-1606 (2002-04-26)
 VALSTYBĖS
-POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 7
-STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMAS
+POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 7 STRAIPSNIŲ
+PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMAS
  
 8.
 Lietuvos
@@ -2641,8 +2637,8 @@ STRAIPSNIŲ IR ĮSTATYMO PRIEDĖLIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1045,
-2002-07-05, Žin., 2002, Nr. 73-3104 (2002-07-19)
+IX-1045, 2002-07-05,
+Žin., 2002, Nr. 73-3104 (2002-07-19)
 VALSTYBĖS
 POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 3, 6
 STRAIPSNIŲ IR ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMAS
@@ -2885,7 +2881,16 @@ VALSTYBĖS
 POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
 ĮSTATYMAS
 Šis įstatymas įsigalioja 2009 m. rugpjūčio 1 d. ir
-galioja iki 2010 m. gruodžio 31 d.
+galioja iki 2011 m. gruodžio 31 d.
+Įstatymo
+galiojimas keistas:
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-980,
+2010-07-02, Žin., 2010, Nr. 86-4531 (2010-07-20)
+VALSTYBĖS
+POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
+ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 29.
 Lietuvos
@@ -2913,17 +2918,15 @@ Respublikos Konstitucinis Teismas, Nutarimas
 DĖL LIETUVOS RESPUBLIKOS VALSTYBĖS POLITIKŲ, TEISĖJŲ IR
 VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 4 STRAIPSNIO 1 IR 2 DALIŲ, 5
 STRAIPSNIO 1 IR 3 DALIŲ, 7 STRAIPSNIO 3 DALIES 1 PUNKTO, 4, 5 IR 6 DALIŲ, ŠIO
-ĮSTATYMO PRIEDĖLIO II SKIRSNIO, LIETUVOS RESPUBLIKOS 2000 METŲ VALSTYBĖS BIUDŽETO
-IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO 6 PRIEDĖLIO,
-LIETUVOS RESPUBLIKOS 2000 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ
-FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO PAKEITIMO ĮSTATYMO 9 STRAIPSNIO,
-LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1991 M. LAPKRIČIO 29 D. NUTARIMO NR. 499
-"DĖL VALSTYBINĖS VALDŽIOS, VALSTYBĖS VALDYMO IR TEISĖSAUGOS ORGANŲ VADOVŲ
-BEI KITŲ PAREIGŪNŲ LAIKINOS BANDOMOSIOS DARBO APMOKĖJIMO TVARKOS",
-LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 24 D. NUTARIMO NR. 666
-"DĖL LIETUVOS RESPUBLIKOS TEISMŲ TEISĖJŲ, PROKURATŪROS SISTEMOS IR
-LIETUVOS RESPUBLIKOS VALSTYBĖS SAUGUMO DEPARTAMENTO PAREIGŪNŲ BEI KITŲ
-DARBUOTOJŲ DARBO APMOKĖJIMO", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1999 M. GRUODŽIO 28 D. NUTARIMO NR. 1494 "DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 30 D. NUTARIMO NR. 689 "DĖL TEISĖTVARKOS, TEISĖSAUGOS IR KONTROLĖS INSTITUCIJŲ
+ĮSTATYMO PRIEDĖLIO II SKIRSNIO, LIETUVOS RESPUBLIKOS 2000 METŲ VALSTYBĖS
+BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO 6
+PRIEDĖLIO, LIETUVOS RESPUBLIKOS 2000 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ
+BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO PAKEITIMO ĮSTATYMO 9
+STRAIPSNIO, LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1991 M. LAPKRIČIO 29 D. NUTARIMO NR. 499 "DĖL VALSTYBINĖS VALDŽIOS, VALSTYBĖS VALDYMO IR
+TEISĖSAUGOS ORGANŲ VADOVŲ BEI KITŲ PAREIGŪNŲ LAIKINOS BANDOMOSIOS DARBO
+APMOKĖJIMO TVARKOS", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 24 D. NUTARIMO NR. 666 "DĖL LIETUVOS RESPUBLIKOS TEISMŲ TEISĖJŲ, PROKURATŪROS
+SISTEMOS IR LIETUVOS RESPUBLIKOS VALSTYBĖS SAUGUMO DEPARTAMENTO PAREIGŪNŲ BEI
+KITŲ DARBUOTOJŲ DARBO APMOKĖJIMO", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1999 M. GRUODŽIO 28 D. NUTARIMO NR. 1494 "DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 30 D. NUTARIMO NR. 689 "DĖL TEISĖTVARKOS, TEISĖSAUGOS IR KONTROLĖS INSTITUCIJŲ
 VADOVAUJANČIŲJŲ PAREIGŪNŲ IR VALDININKŲ DARBO APMOKĖJIMO" DALINIO
 PAKEITIMO" ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
@@ -2932,6 +2935,6 @@ PAKEITIMO" ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
  
 Redagavo Aušrinė Trapinskienė
-(2010-07-13)
+(2010-07-20)
                  
 autrap@lrs.lt
