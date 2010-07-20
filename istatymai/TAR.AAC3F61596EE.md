@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AAC3F61596EE"
 
 # Lietuvos Respublikos operatyvinės veiklos įstatymas
 
-Suvestinė redakcija nuo 2009-11-28 iki 2010-07-19
+Suvestinė redakcija nuo 2010-07-20 iki 2010-07-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2633, i. k. 1021010ISTA00IX-965
  
@@ -51,75 +51,140 @@ Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010IST
 
 4. Operatyvinė informacija – operatyvinės veiklos subjektų operatyvinių veiksmų atlikimo metu, sprendžiant operatyvinės veiklos uždavinius, gauti ir teisės aktų nustatyta tvarka užfiksuoti duomenys.
 
-5. Operatyviniai veiksmai – operatyvinės veiklos priemonių, metodų, nusikalstamos veikos imitacijos modelio ar kontroliuojamojo gabenimo naudojimas. Operatyvinių veiksmų atlikimo pagrindas yra informacija apie operatyvinės veiklos objektus. Šie veiksmai atliekami tais atvejais, kai kitais būdais neįmanoma ar sudėtinga apginti asmens, visuomenės ir valstybės interesus.
+5. Įslaptinta informacija, parengta operatyvinės informacijos pagrindu, – operatyvinių veiksmų atlikimo metu gauta informacija, kurią kompetentingas operatyvinės veiklos subjektas patikrina, įvertina ir apibendrina. 
+Papildyta straipsnio dalimi:
+Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
+ 
 
-6. Operatyvinės veiklos priemonės – operatyvinėje veikloje naudojamos techninės priemonės ir operatyvinė įskaita.
+6. Operatyviniai veiksmai – operatyvinės veiklos priemonių, metodų, nusikalstamos veikos imitacijos modelio ar kontroliuojamojo gabenimo naudojimas. Operatyvinių veiksmų atlikimo pagrindas yra informacija apie operatyvinės veiklos objektus. Šie veiksmai atliekami tais atvejais, kai kitais būdais neįmanoma ar sudėtinga apginti asmens, visuomenės ir valstybės interesus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
+ 
 
-7. Techninių priemonių naudojimas operatyvinėje veikloje – techninių priemonių įrengimas, eksploatavimas ar išmontavimas, taip pat kiti su tuo susiję teisėti veiksmai. Techninės priemonės operatyvinėje veikloje gali būti naudojamos bendra ir specialia tvarka.
+7. Operatyvinės veiklos priemonės – operatyvinėje veikloje naudojamos techninės priemonės ir operatyvinė įskaita.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
+ 
 
-8. Techninių priemonių naudojimas specialia tvarka – motyvuota teismo nutartimi sankcionuotas techninių priemonių naudojimas operatyvinėje veikloje kontroliuojant ar fiksuojant asmenų pokalbius, kitokį susižinojimą ar veiksmus, kai nė vienam pokalbio, kitokio susižinojimo ar veiksmų dalyviui apie tokią kontrolę nėra žinoma ir tai vykdoma įstatymų nustatyta tvarka apribojant žmogaus privataus gyvenimo neliečiamumą. Telekomunikacijų tinklais perduodamos asmenų informacijos turinio kontrolė bei jos fiksavimas, net ir žinant apie tokią kontrolę vienam iš jų, reikalauja motyvuotos teismo nutarties, išskyrus atvejus, kai asmuo paprašo arba sutinka su tokia kontrole ar fiksavimu nesinaudojant telekomunikacijų operatorių paslaugomis ir įrenginiais.
+8. Techninių priemonių naudojimas operatyvinėje veikloje – techninių priemonių įrengimas, eksploatavimas ar išmontavimas, taip pat kiti su tuo susiję teisėti veiksmai. Techninės priemonės operatyvinėje veikloje gali būti naudojamos bendra ir specialia tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
+ 
+
+9. Techninių priemonių naudojimas specialia tvarka – motyvuota teismo nutartimi sankcionuotas techninių priemonių naudojimas operatyvinėje veikloje kontroliuojant ar fiksuojant asmenų pokalbius, kitokį susižinojimą ar veiksmus, kai nė vienam pokalbio, kitokio susižinojimo ar veiksmų dalyviui apie tokią kontrolę nėra žinoma ir tai vykdoma įstatymų nustatyta tvarka apribojant žmogaus privataus gyvenimo neliečiamumą. Telekomunikacijų tinklais perduodamos asmenų informacijos turinio kontrolė bei jos fiksavimas, net ir žinant apie tokią kontrolę vienam iš jų, reikalauja motyvuotos teismo nutarties, išskyrus atvejus, kai asmuo paprašo arba sutinka su tokia kontrole ar fiksavimu nesinaudojant telekomunikacijų operatorių paslaugomis ir įrenginiais.
 Straipsnio dalies pakeitimai:
 Nr. IX-1222, 2002-12-05, Žin., 2002, Nr. 123-5515 (2002-12-24), i. k. 1021010ISTA0IX-1222
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
  
 
-9. Techninių priemonių naudojimas bendra tvarka – techninių priemonių naudojimas operatyvinėje veikloje operatyvinės veiklos subjektų pagrindinių institucijų nustatyta tvarka šio straipsnio 8 dalyje neišvardytais atvejais, taip pat ir šio straipsnio 8 dalyje išvardytais atvejais, kai jos naudojamos operatyvinės veiklos subjektų patalpose ir transporto priemonėse tų pačių subjektų iniciatyva saugumui bei imunitetui užtikrinti, išskyrus patalpas, naudojamas įmonių, įstaigų ar organizacijų, įsteigtų pagal šio Įstatymo 7 straipsnio 3 dalies 2 punktą, taip pat pokalbių telefonu kontrolę.
+10. Techninių priemonių naudojimas bendra tvarka – techninių priemonių naudojimas operatyvinėje veikloje operatyvinės veiklos subjektų pagrindinių institucijų nustatyta tvarka šio straipsnio 8 dalyje neišvardytais atvejais, taip pat ir šio straipsnio 8 dalyje išvardytais atvejais, kai jos naudojamos operatyvinės veiklos subjektų patalpose ir transporto priemonėse tų pačių subjektų iniciatyva saugumui bei imunitetui užtikrinti, išskyrus patalpas, naudojamas įmonių, įstaigų ar organizacijų, įsteigtų pagal šio Įstatymo 7 straipsnio 3 dalies 2 punktą, taip pat pokalbių telefonu kontrolę.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
+ 
 
-10. Operatyvinė įskaita – operatyvinių veiksmų atlikimo metu gautų duomenų apie asmenis, įvykius ar kitus objektus tvarkymo sistema, skirta aprūpinti informacija operatyvinės veiklos subjektus.
+11. Operatyvinė įskaita – operatyvinių veiksmų atlikimo metu gautų duomenų apie asmenis, įvykius ar kitus objektus tvarkymo sistema, skirta aprūpinti informacija operatyvinės veiklos subjektus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
+ 
 
-11. Operatyvinės įskaitos duomenų tvarkymas – bet kuris su šiais duomenimis atliekamas veiksmas: rinkimas, užrašymas, kaupimas, saugojimas, klasifikavimas, grupavimas, jungimas, keitimas (papildymas ar taisymas), teikimas, paskelbimas, naudojimas, laikymas, loginės ir (arba) aritmetinės operacijos, paieška, skleidimas, naikinimas ar kitoks veiksmas arba veiksmų rinkinys. Operatyvinės įskaitos duomenys gali būti tvarkomi automatizuotai.
+12. Operatyvinės įskaitos duomenų tvarkymas – bet kuris su šiais duomenimis atliekamas veiksmas: rinkimas, užrašymas, kaupimas, saugojimas, klasifikavimas, grupavimas, jungimas, keitimas (papildymas ar taisymas), teikimas, paskelbimas, naudojimas, laikymas, loginės ir (arba) aritmetinės operacijos, paieška, skleidimas, naikinimas ar kitoks veiksmas arba veiksmų rinkinys. Operatyvinės įskaitos duomenys gali būti tvarkomi automatizuotai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
+ 
 
-12. Operatyvinės veiklos metodai – būdai gauti operatyvinę informaciją: operatyvinė apklausa, operatyvinė apžiūra, operatyvinis patikrinimas, operatyvinis sekimas, agentūrinis metodas, elektroninė žvalgyba. 
+13. Operatyvinės veiklos metodai – būdai gauti operatyvinę informaciją: operatyvinė apklausa, operatyvinė apžiūra, operatyvinis patikrinimas, operatyvinis sekimas, agentūrinis metodas, elektroninė žvalgyba. 
 Straipsnio dalies pakeitimai:
 Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
  
 
-13. Operatyvinė apklausa – operatyvinės veiklos metodas, kai informacija gaunama tiesiogiai bendraujant su informaciją turinčiu asmeniu. Slapta operatyvinė apklausa – operatyvinės apklausos rūšis, kai jos vykdytojo priklausomybė operatyvinės veiklos subjektui yra užšifruojama.
+14. Operatyvinė apklausa – operatyvinės veiklos metodas, kai informacija gaunama tiesiogiai bendraujant su informaciją turinčiu asmeniu. Slapta operatyvinė apklausa – operatyvinės apklausos rūšis, kai jos vykdytojo priklausomybė operatyvinės veiklos subjektui yra užšifruojama.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
+ 
 
-14. Operatyvinė apžiūra – operatyvinės veiklos metodas, kai informacija gaunama viešai, užšifruotai ar slapta apžiūrint daiktus, dokumentus, patalpas, transporto priemones, vietovę, asmenis ir kitus objektus.
+15. Operatyvinė apžiūra – operatyvinės veiklos metodas, kai informacija gaunama viešai, užšifruotai ar slapta apžiūrint daiktus, dokumentus, patalpas, transporto priemones, vietovę, asmenis ir kitus objektus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
+ 
 
-15. Operatyvinis patikrinimas – operatyvinės veiklos metodas, kai informacija gaunama atliekant slaptą operatyvinę apklausą bei užšifruotą operatyvinę apžiūrą.
+16. Operatyvinis patikrinimas – operatyvinės veiklos metodas, kai informacija gaunama atliekant slaptą operatyvinę apklausą bei užšifruotą operatyvinę apžiūrą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
+ 
 
-16. Operatyvinis sekimas – operatyvinės veiklos metodas, kai informacija gaunama slaptai, tiesiogiai stebint objektą. 
+17. Operatyvinis sekimas – operatyvinės veiklos metodas, kai informacija gaunama slaptai, tiesiogiai stebint objektą. 
 Straipsnio dalies pakeitimai:
 Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
  
 
-17. Agentūrinis metodas – operatyvinės veiklos metodas, kai iš asmens informacija gaunama įgyto pasitikėjimo pagrindu, panaudojant operatyvinės veiklos slaptuosius dalyvius.
+18. Agentūrinis metodas – operatyvinės veiklos metodas, kai iš asmens informacija gaunama įgyto pasitikėjimo pagrindu, panaudojant operatyvinės veiklos slaptuosius dalyvius.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
+ 
 
-18. Elektroninė žvalgyba – operatyvinės veiklos metodas, kai informacija gaunama elektroninėmis technikos priemonėmis.
+19. Elektroninė žvalgyba – operatyvinės veiklos metodas, kai informacija gaunama elektroninėmis technikos priemonėmis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
+ 
 
-19. Nusikalstamos veikos imitacijos modelis – sankcionuoti veiksmai, formaliai turintys nusikalstamos veikos ar kitokio teisės pažeidimo požymių, atliekami siekiant apginti nuo nusikalstamo kėsinimosi įstatymų saugomas asmens teises ir laisves, nuosavybę, visuomenės ir valstybės saugumą. 
+20. Nusikalstamos veikos imitacijos modelis – sankcionuoti veiksmai, formaliai turintys nusikalstamos veikos ar kitokio teisės pažeidimo požymių, atliekami siekiant apginti nuo nusikalstamo kėsinimosi įstatymų saugomas asmens teises ir laisves, nuosavybę, visuomenės ir valstybės saugumą. 
 Straipsnio dalies pakeitimai:
 Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
  
 
-20. Kontroliuojamasis gabenimas – sankcionuoti veiksmai, kurių metu leidžiama įvežti į Lietuvos Respublikos teritoriją, pervežti per ją arba išvežti iš jos neteisėtai gabenamas ar keliančias įtarimą prekes bei kitokius objektus, kontroliuojant operatyvinės veiklos subjektui, siekiant išaiškinti nusikalstamas veikas, jas rengiančius, darančius ar padariusius asmenis. Kontroliuojamasis gabenimas gali būti atliekamas tik tarptautinių sutarčių ar susitarimų pagrindu. 
+21. Kontroliuojamasis gabenimas – sankcionuoti veiksmai, kurių metu leidžiama įvežti į Lietuvos Respublikos teritoriją, pervežti per ją arba išvežti iš jos neteisėtai gabenamas ar keliančias įtarimą prekes bei kitokius objektus, kontroliuojant operatyvinės veiklos subjektui, siekiant išaiškinti nusikalstamas veikas, jas rengiančius, darančius ar padariusius asmenis. Kontroliuojamasis gabenimas gali būti atliekamas tik tarptautinių sutarčių ar susitarimų pagrindu. 
 Straipsnio dalies pakeitimai:
 Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
  
 
-21. Pasala – operatyvinių veiksmų visuma siekiant sulaikyti nusikalstamą veiką darančius ar padariusius asmenis, surinkti informaciją, galinčią turėti reikšmės nusikalstamai veikai tirti, kai turima informacijos apie tokius asmenis, nusikalstamos veikos padarymo vietą ir laiką. 
+22. Pasala – operatyvinių veiksmų visuma siekiant sulaikyti nusikalstamą veiką darančius ar padariusius asmenis, surinkti informaciją, galinčią turėti reikšmės nusikalstamai veikai tirti, kai turima informacijos apie tokius asmenis, nusikalstamos veikos padarymo vietą ir laiką. 
 Straipsnio dalies pakeitimai:
 Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
  
 
-22. Slaptoji operacija – operatyvinių veiksmų visuma siekiant sulaikyti nusikalstamą veiką darančius ar padariusius asmenis ir (ar) surinkti informaciją, galinčią turėti reikšmės nusikalstamai veikai tirti, kai turint informacijos apie kėsinimąsi padaryti nusikalstamą veiką ar daromą nusikalstamą veiką yra sudaromos sąlygos, kad kėsinimasis padaryti nusikalstamą veiką ar daroma nusikalstama veika vyktų numatytoje vietoje ir reikiamu laiku. 
+23. Slaptoji operacija – operatyvinių veiksmų visuma siekiant sulaikyti nusikalstamą veiką darančius ar padariusius asmenis ir (ar) surinkti informaciją, galinčią turėti reikšmės nusikalstamai veikai tirti, kai turint informacijos apie kėsinimąsi padaryti nusikalstamą veiką ar daromą nusikalstamą veiką yra sudaromos sąlygos, kad kėsinimasis padaryti nusikalstamą veiką ar daroma nusikalstama veika vyktų numatytoje vietoje ir reikiamu laiku. 
 Straipsnio dalies pakeitimai:
 Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
  
 
-23. Operatyvinis tyrimas – organizacinė taktinė operatyvinės veiklos forma, apimanti operatyvinius veiksmus, įskaitant ir tuos, kuriems atlikti reikia motyvuotos teismo nutarties ar prokuroro sankcijos. Atlikdami operatyvinį tyrimą, operatyvinės veiklos subjektai gali tvarkyti operatyvinio tyrimo bylas.
+24. Operatyvinis tyrimas – organizacinė taktinė operatyvinės veiklos forma, apimanti operatyvinius veiksmus, įskaitant ir tuos, kuriems atlikti reikia motyvuotos teismo nutarties ar prokuroro sankcijos. Atlikdami operatyvinį tyrimą, operatyvinės veiklos subjektai gali tvarkyti operatyvinio tyrimo bylas.
 Straipsnio dalies pakeitimai:
 Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
  
 
-24. Pašto siunta – siunčiama paštu pašto korespondencija, reklaminė pašto siunta, pašto siuntiniai.
+25. Pašto siunta – siunčiama paštu pašto korespondencija, reklaminė pašto siunta, pašto siuntiniai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
+ 
 
-25. Pašto korespondencija – siunčiami paštu laiškai, atvirukai (atvirlaiškiai), spaudiniai, smulkieji paketai, sekogramos, aerogramos.
+26. Pašto korespondencija – siunčiami paštu laiškai, atvirukai (atvirlaiškiai), spaudiniai, smulkieji paketai, sekogramos, aerogramos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
+ 
 
-26. Dokumentų siunta – siunta, kurią sudaro informacija bet kokioje laikmenoje, siunčiama įdėta į voką ar patvarią pakuotę bei pažymėta specialia žyma.
+27. Dokumentų siunta – siunta, kurią sudaro informacija bet kokioje laikmenoje, siunčiama įdėta į voką ar patvarią pakuotę bei pažymėta specialia žyma.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
+ 
 
-27. Pašto perlaida – pinigų siuntimas paštu.
+28. Pašto perlaida – pinigų siuntimas paštu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
  
 
 4 straipsnis. Operatyvinės veiklos principai
@@ -480,42 +545,33 @@ ASMENŲ DALYVAVIMAS OPERATYVINĖJE VEIKLOJE
  
 
 PENKTASIS SKIRSNIS
-ĮSLAPTINTOS OPERATYVINĖS BEI KITOS ĮSLAPTINTOS INFORMACIJOS
-PANAUDOJIMAS NE OPERATYVINĖJE VEIKLOJE IR ATSAKOMYBĖ UŽ ŠIO
-ĮSTATYMO REIKALAVIMŲ PAŽEIDIMUS
+ĮSLAPTINTOS OPERATYVINĖS IR JOS PAGRINDU PARENGTOS KITOS ĮSLAPTINTOS INFORMACIJOS PERDAVIMAS IR PANAUDOJIMAS. ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO REIKALAVIMŲ PAŽEIDIMUS 
+Pakeistas skirsnio pavadinimas:
+Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
  
 
-17 straipsnis. Įslaptintos operatyvinės bei kitos įslaptintos informacijos panaudojimas ne operatyvinėje veikloje ir šios informacijos atskleidimas
+17 straipsnis. Įslaptintos operatyvinės ir jos pagrindu parengtos kitos įslaptintos informacijos perdavimas ir panaudojimas
 
-1. Įslaptinta operatyvinė informacija įstatymų nustatyta tvarka gali būti išslaptinama ir panaudojama baudžiamajame procese. Jeigu tokia informacija panaudojama baudžiamajame procese, turi būti surašomas protokolas dėl operatyvinių veiksmų atlikimo. Protokole nurodoma: 
+1. Įslaptinta operatyvinė informacija gali būti panaudojama šiais atvejais:
 
-1) protokolo surašymo vieta, laikas;
+1) bendradarbiaujant operatyvinės veiklos subjektams;
 
-2) pareigūno, surašiusio protokolą, pareigos, vardas, pavardė;
+2) baudžiamajame procese;
 
-3) naudojamų operatyvinių veiksmų pavadinimai;
+3) šio straipsnio 3 dalyje numatytais atvejais.
 
-4) žinomi duomenys apie asmenis, kuriems buvo taikomi operatyviniai veiksmai, arba objekto apibūdinimas;
+2. Įslaptinta operatyvinė informacija gali būti panaudojama baudžiamajame procese. Jeigu tokia informacija panaudojama baudžiamajame procese, turi būti surašomas protokolas dėl operatyvinių veiksmų atlikimo. Operatyvinių veiksmų atlikimo protokolo turinys turi atitikti Baudžiamojo proceso kodekso 179 straipsnio 2 dalyje nustatytus reikalavimus.
 
-5) siekiamas rezultatas;
+3. Įslaptinta operatyvinė informacija teikiama susipažinti Lietuvos Respublikos Prezidentui, Seimo Pirmininkui, Ministrui Pirmininkui, taip pat operatyvinės veiklos kontrolę vykdančioms valstybės institucijoms ar šios veiklos kontrolę vykdyti įgaliotiems asmenims, esant motyvuotam jų rašytiniam prašymui, jeigu jiems teisės aktuose nustatytoms funkcijoms įgyvendinti ar sprendimams priimti nepakanka pateiktos susipažinti įslaptintos informacijos, parengtos operatyvinės informacijos pagrindu.
 
-6) operatyvinių veiksmų atlikimo metu užfiksuotos informacijos turinys;
+4. Kitoms valstybės institucijoms ar asmenims, nevykdantiems operatyvinės veiklos, Valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka gali būti teikiama tik įslaptinta informacija, parengta operatyvinės informacijos pagrindu.
 
-7) naudotų techninių priemonių techniniai duomenys, nurodant fiksuojamo įvykio vietą, laiką ir turinį (jeigu naudojamos techninės priemonės);
+5. Detalūs duomenys, galintys atskleisti įslaptintus operatyvinės veiklos metodus ir priemones, operatyvinių veiksmų atlikimo taktiką, sutrikdyti operatyvinę veiklą ar padaryti žalą nebaigtiems operatyviniams tyrimams, taip pat duomenys, galintys atskleisti operatyvinės veiklos slaptuosius dalyvius, neteikiami.
 
-8) priedai, garso ir vaizdo juostos, kompaktinės plokštelės ar kitos elektroninės informacijos laikmenos arba kiti materialūs objektai, kuriuose grafiniais ar kitais ženklais užfiksuota informacija, turinti reikšmės nusikalstamai veikai tirti ir nagrinėti. 
+6. Įslaptintos operatyvinės informacijos pateikimo tvarką nustato Vyriausybė.
 
-Straipsnio dalies pakeitimai:
-Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
- 
-
-2. Įstatymų nustatytais atvejais įslaptinta operatyvinė informacija gali būti panaudojama kitiems tikslams.
-
-3. Įslaptintos operatyvinės informacijos pateikimo valstybės institucijoms ir pareigūnams tvarką nustato Vyriausybė.
-
-4. Informaciją apie operatyvinės veiklos slaptųjų dalyvių tapatybę nustatančius duomenis, slaptųjų dalyvių bendradarbiavimą ar darbą operatyvinės veiklos subjektų sistemoje, taip pat kitokią įslaptintą informaciją galima atskleisti ir panaudoti baudžiamajame procese bei kitais įstatymų nustatytais atvejais tik Valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka.
-Straipsnio dalies pakeitimai:
-Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+Straipsnio pakeitimai:
+Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
  
 
 18 straipsnis. Atsakomybė už šio Įstatymo reikalavimų pažeidimus
@@ -691,4 +747,9 @@ Lietuvos Respublikos operatyvinės veiklos įstatymo 23 straipsnio pakeitimo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-479, 2009-11-12, Žin., 2009, Nr. 141-6202 (2009-11-28), i. k. 1091010ISTA00XI-479
 Lietuvos Respublikos operatyvinės veiklos įstatymo 10 ir 11 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
+Lietuvos Respublikos operatyvinės veiklos įstatymo 3, 17 straipsnių ir penktojo skirsnio pavadinimo pakeitimo ir papildymo įstatymas
 
