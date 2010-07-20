@@ -119,8 +119,8 @@ savybių visiškas ar dalinis atkūrimas, taip pat žemės gelmių išteklių
 racionalus naudojimas.
 7. Žemės
 gelmių ertmės – natūralios ertmės uolienose ir jų sluoksniuose bei
-dirbtinės ertmės, susidariusios išgaunant naudingąsias iškasenas arba specialiai
-tam įrengtos.
+dirbtinės ertmės, susidariusios išgaunant naudingąsias iškasenas arba
+specialiai tam įrengtos.
 8. Žemės
 gelmių geologinis tyrimas (toliau – žemės gelmių tyrimas) –
 geologinio kartografavimo, paieškos, žvalgybos ir kita veikla, kurios tikslas –
@@ -175,8 +175,8 @@ dujose.
 čia vykstančių procesų ypatybės, kurios yra natūralios ar antropogeninės
 ekosistemos elementai ir veikia žmogaus gyvenimo bei ūkinės veiklos sąlygas.
 16.
-Žemės sklypas – teritorijos dalis, turinti nustatytas ribas ir
-pagrindinę tikslinę žemės naudojimo paskirtį.
+Žemės sklypas – teritorijos dalis, turinti nustatytas ribas ir pagrindinę
+tikslinę žemės naudojimo paskirtį.
  
 ANTRASIS
 SKIRSNIS
@@ -200,22 +200,23 @@ ir nuotolinius žemės gelmių tyrimus, kuria, saugo ir valdo valstybinę geolog
 informacijos sistemą, atlieka kitas įstatymų ir kitų teisės aktų nustatytas
 funkcijas.
  
-5 straipsnis.
-Apskrities viršininko ir savivaldybių institucijų kompetencija
-1.
-Apskrities viršininkas pagal savo kompetenciją, nustatytą įstatymų bei kitų
-teisės aktų, sprendžia klausimus, susijusius su žemės, reikalingos žemės
-gelmėms naudoti, paėmimu visuomenės poreikiams, suteikimu naudotis, nuoma ir
-įsigijimu nuosavybėn, derina žemės gelmių naudojimą.
-2.
-Savivaldybių institucijos pagal savo kompetenciją, nustatytą įstatymų bei kitų
-teisės aktų, derina dokumentus, reglamentuojančius žemės gelmių naudojimą ir
-apsaugą.
+5
+straipsnis. Kitų
+viešojo administravimo institucijų kompetencija
+1. Nacionalinė
+žemės tarnyba prie Žemės ūkio ministerijos derina žemės gelmių naudojimą.
+2. Savivaldybių
+institucijos pagal savo kompetenciją, nustatytą įstatymų ir kitų teisės aktų,
+derina dokumentus, reglamentuojančius žemės gelmių naudojimą ir apsaugą.
+Straipsnio
+pakeitimai:
+Nr. XI-972,
+2010-06-30, Žin., 2010, Nr. 86-4526 (2010-07-20)
  
 TREČIASIS
 SKIRSNIS
-ŽEMĖS
-GELMIŲ TYRIMAS
+ŽEMĖS GELMIŲ
+TYRIMAS
  
 6
 straipsnis. Leidimai tirti žemės gelmes
@@ -256,11 +257,10 @@ tyrimai.
 straipsnis. Žemės gelmių tyrimo sąlygos
 1. Juridiniai ir
 fiziniai asmenys bei šių asmenų grupės, veikiančios pagal jungtinės veiklos
-sutartis, turintys leidimą tirti žemės gelmes, tyrimą atlieka pagal darbų
-projektą (arba techninę užduotį), laikydamiesi darbų kokybės, aplinkos
-apsaugos, darbų saugos ir kitų reikalavimų. Žemės gelmių tyrimo metu žemės
-gelmių ištekliai naudojami tik tais atvejais, kiekiais ir būdais, kurie
-numatyti darbų projekte.
+sutartis, turintys leidimą tirti žemės gelmes, tyrimą atlieka pagal darbų projektą
+(arba techninę užduotį), laikydamiesi darbų kokybės, aplinkos apsaugos, darbų
+saugos ir kitų reikalavimų. Žemės gelmių tyrimo metu žemės gelmių ištekliai
+naudojami tik tais atvejais, kiekiais ir būdais, kurie numatyti darbų projekte.
 2. Vyriausybės
 įgaliota institucija gali nurodyti juridiniams ir fiziniams asmenims bei
 šių asmenų grupėms, veikiančioms pagal jungtinės veiklos sutartis, turintiems
@@ -424,11 +424,12 @@ arba ertmių naudojimo projektas
 1.
 Naudoti žemės gelmių išteklius ir ertmes, išskyrus ertmes radioaktyviosioms ir
 toksiškoms medžiagoms laikyti ar laidoti, požeminį geriamąjį gėlą ir gamybinį
-vandenį, šiluminę energiją bei 12 straipsnio 8 dalyje numatytus atvejus, galima
+vandenį, šiluminę energiją ir 12 straipsnio 8 dalyje numatytus atvejus, galima
 tik pagal žemės gelmių išteklių arba ertmių naudojimo projektą (toliau –
-naudojimo projektas). Šis projektas turi būti suderintas su vietos savivaldos
-vykdomąja institucija, apskrities viršininku, valstybine darbo inspekcija ir
-patvirtintas Aplinkos ministerijos arba jos įgaliotos institucijos.
+naudojimo projektas). Šis projektas turi būti suderintas su savivaldybės
+vykdomąja institucija, Nacionaline žemės tarnyba prie Žemės ūkio ministerijos,
+valstybine darbo inspekcija ir patvirtintas Aplinkos ministerijos arba jos
+įgaliotos institucijos.
 2.
 Gręžinių geriamajam gėlam ir gamybiniam požeminiam vandeniui tiekti ir vandens
 šiluminei energijai vartoti įrengimo ir likvidavimo tvarką nustato Aplinkos
@@ -447,6 +448,8 @@ Straipsnio
 pakeitimai:
 Nr. IX-2516,
 2004-11-02, Žin., 2004, Nr. 167-6097 (2004-11-17)
+Nr. XI-972,
+2010-06-30, Žin., 2010, Nr. 86-4526 (2010-07-20)
  
 15 straipsnis. Žemės gelmių išteklių ir
 ertmių naudojimo sąlygos
@@ -469,10 +472,10 @@ ertmių naudojimo sutartyje, ir nustatyta tvarka teikti duomenis Žemės gelmių
 registrui.
 5.
 Žemės gelmių naudotojas, aptikęs mokslui ir kultūrai reikšmingus geologinius,
-archeologinius ir kitus objektus, apie tai turi pranešti leidimą išdavusiai
-institucijai ir įstatymų nustatyta tvarka kitoms valstybės ir savivaldybių
-įstaigoms bei sustabdyti atliekamus tam tikrame sklype darbus, jeigu jų tęsimas
-minėtiems objektams gali pakenkti. 
+archeologinius ir kitus objektus, apie tai turi pranešti leidimą išdavusiai institucijai
+ir įstatymų nustatyta tvarka kitoms valstybės ir savivaldybių įstaigoms bei
+sustabdyti atliekamus tam tikrame sklype darbus, jeigu jų tęsimas minėtiems
+objektams gali pakenkti. 
 Straipsnio
 pakeitimai:
 Nr. IX-2516,
@@ -498,8 +501,8 @@ išsenka ištekliai, kuriuos naudoti buvo gautas leidimas;
 leidimo galiojimas panaikinamas 18 straipsnyje numatytais atvejais.
  
 18
-straipsnis. Leidimo naudoti žemės gelmių išteklius ar ertmes galiojimo sustabdymas
-
+straipsnis. Leidimo naudoti žemės gelmių išteklius ar ertmes galiojimo
+sustabdymas 
 arba
 panaikinimas
 1.
@@ -647,8 +650,8 @@ negu penkeri metai nuo jų gavimo. Pasibaigus šiam terminui, duomenys naudojami
 pagal šio straipsnio 1 dalį.
 5.
 Vyriausybė gali riboti duomenų apie žemės gelmių išteklius skelbimą, platinimą,
-perdavimą trečiosioms šalims ar išvežimą iš Lietuvos Respublikos, nesvarbu, kieno
-lėšomis ir kada jie gauti, jeigu to reikia valstybės interesams.
+perdavimą trečiosioms šalims ar išvežimą iš Lietuvos Respublikos, nesvarbu,
+kieno lėšomis ir kada jie gauti, jeigu to reikia valstybės interesams.
 6.
 Jeigu leidimas tirti žemės gelmes ar naudoti žemės gelmių išteklius ir ertmes
 panaikinamas 9 ir 18 straipsniuose numatytais atvejais, duomenys turi būti
@@ -721,15 +724,16 @@ Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija atstovauja
 Lietuvos Respublikai, jeigu naudojant žemės gelmes Lietuvos Respublikoje
 padaryta žala kitoms valstybėms.
  
-30 straipsnis. Tarptautinis bendradarbiavimas
+30 straipsnis. Tarptautinis
+bendradarbiavimas
 Lietuvos
 Respublikos Vyriausybė siekia, kad žemės gelmių naudojimas ir kita ūkinė veikla
 kaimyninėse valstybėse neturėtų neigiamos įtakos Lietuvos Respublikos aplinkai,
 žemės gelmių vertingosioms savybėms ir ištekliams, nedarytų žalos gyventojams.
 To siekiama sudarant tarptautines sutartis dėl ūkinės veiklos ir žemės gelmių
 naudojimo reguliavimo pasienio teritorijose, keičiantis duomenimis apie žemės
-gelmių būklę, skatinant bendradarbiavimą tiriant žemės gelmes bei kitais
-tarptautine teise pagrįstais būdais.
+gelmių būklę, skatinant bendradarbiavimą tiriant žemės gelmes bei kitais tarptautine
+teise pagrįstais būdais.
  
 31 straipsnis. Tarptautinės sutartys
 Jei Lietuvos
@@ -799,11 +803,19 @@ IX-2516,
 GELMIŲ ĮSTATYMO 1, 2, 6, 8, 12, 13, 14, 15, 18, 23, 25, 26 IR 27 STRAIPSNIŲ
 PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS
  
+5.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. XI-972, 2010-06-30,
+Žin., 2010, Nr. 86-4526 (2010-07-20)
+ŽEMĖS GELMIŲ ĮSTATYMO 5 IR 14
+STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2004-11-23)
+Redagavo
+Aušrinė Trapinskienė (2010-07-23)
                  
 autrap@lrs.lt
