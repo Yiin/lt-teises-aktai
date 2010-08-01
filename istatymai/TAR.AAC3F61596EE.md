@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AAC3F61596EE"
 
 # Lietuvos Respublikos operatyvinės veiklos įstatymas
 
-Suvestinė redakcija nuo 2010-07-20 iki 2010-07-31
+Suvestinė redakcija nuo 2010-08-01 iki 2011-05-27
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2633, i. k. 1021010ISTA00IX-965
  
@@ -528,13 +528,18 @@ ASMENŲ DALYVAVIMAS OPERATYVINĖJE VEIKLOJE
 
 15 straipsnis. Operatyvinės veiklos slaptieji dalyviai
 
-1. Operatyvinės veiklos slaptieji dalyviai yra operatyvinės veiklos subjektų darbuotojai, kurių priklausomybė operatyvinės veiklos subjektui yra įslaptinta, ir slaptai su operatyvinės veiklos subjektais bendradarbiaujantys pilnamečiai asmenys, su kuriais operatyvinės veiklos subjekto darbuotojai sudarė susitarimą (žodžiu ar raštu) dėl slapto bendradarbiavimo. Operatyvinės veiklos subjekto darbuotojai tokio susitarimo negali sudaryti su asmenimis, kurie privalo išlaikyti išpažinties paslaptį. Susitarimų ypatumus nustato operatyvinės veiklos subjektų pagrindinės institucijos.
+1. Operatyvinės veiklos slaptieji dalyviai yra operatyvinės veiklos subjektų darbuotojai, kurių priklausomybė operatyvinės veiklos subjektui yra įslaptinta, ir slaptai su operatyvinės veiklos subjektais bendradarbiaujantys pilnamečiai asmenys, su kuriais operatyvinės veiklos subjektai sudarė rašytines slapto bendradarbiavimo sutartis arba operatyvinės veiklos subjekto darbuotojai sudarė žodinius slapto bendradarbiavimo susitarimus. Operatyvinės veiklos subjektai ir jų darbuotojai žodinių susitarimų ar rašytinių sutarčių negali sudaryti su asmenimis, kurie privalo išlaikyti išpažinties paslaptį. Žodinių slapto bendradarbiavimo susitarimų sudarymo tvarką ir sąlygas, rašytinių slapto bendradarbiavimo sutarčių sudarymo tvarką, sąlygas ir pavyzdines formas nustato operatyvinės veiklos subjektų pagrindinės institucijos. 
+Straipsnio dalies pakeitimai:
+Nr. XI-957, 2010-06-30, Žin., 2010, Nr. 86-4515 (2010-07-20), i. k. 1101010ISTA00XI-957
+ 
 
 2. Operatyvinės veiklos subjektų darbuotojai, kurių priklausomybė operatyvinės veiklos subjektui yra įslaptinta, vykdydami operatyvinės veiklos subjektų užduotis, gali pagal legendą dirbti kitose įmonėse, įstaigose ar organizacijose ir gauti už tai atlyginimą ar kitų piniginių lėšų, susijusių su jų įslaptintos veiklos atlikimu. Valstybės tarnybos ir kitų įstatymų ar statutų apribojimai dėl darbo kitose įmonėse, įstaigose ar organizacijose ir darbo užmokesčio gavimo jiems netaikomi.
 
 3. Operatyvinės veiklos slaptuosius dalyvius gina valstybė. Operatyvinės veiklos slaptųjų dalyvių tapatybę nustatantys duomenys, smulki informacija apie šių dalyvių kiekybinę ir personalinę sudėtį sudaro valstybės paslaptį. Kilus pavojui operatyvinės veiklos slaptųjų dalyvių arba jų šeimos narių gyvybei, sveikatai, nuosavybei, operatyvinės veiklos subjektai, vadovaudamiesi įstatymais ir kitais teisės aktais, imasi reikiamų priemonių šių asmenų apsaugai užtikrinti.
 
-4. Skundus dėl operatyvinės veiklos subjektų sudarytų susitarimų su asmenimis dėl slapto bendradarbiavimo nagrinėja operatyvinės veiklos subjektas, su kuriuo asmuo buvo sudaręs tokį susitarimą, arba šio subjekto pagrindinė institucija. Skundą privaloma išnagrinėti per 30 dienų nuo jo gavimo dienos.
+4. Skundus dėl operatyvinės veiklos subjektų sudarytų rašytinių slapto bendradarbiavimo sutarčių arba žodinių slapto bendradarbiavimo susitarimų su asmenimis nagrinėja operatyvinės veiklos subjektas, su kuriuo asmuo buvo sudaręs tokią sutartį arba tokį susitarimą, arba šio subjekto pagrindinė institucija. Skundą privaloma išnagrinėti per 30 dienų nuo jo gavimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XI-957, 2010-06-30, Žin., 2010, Nr. 86-4515 (2010-07-20), i. k. 1101010ISTA00XI-957
  
 
 16 straipsnis. Pagal legendą naudojamų procesinių dokumentų, būtinų taikant suimtiems asmenims agentūrinį metodą, rengimas
@@ -752,4 +757,9 @@ Lietuvos Respublikos operatyvinės veiklos įstatymo 10 ir 11 straipsnių pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
 Lietuvos Respublikos operatyvinės veiklos įstatymo 3, 17 straipsnių ir penktojo skirsnio pavadinimo pakeitimo ir papildymo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-957, 2010-06-30, Žin., 2010, Nr. 86-4515 (2010-07-20), i. k. 1101010ISTA00XI-957
+Lietuvos Respublikos operatyvinės veiklos įstatymo 15 straipsnio pakeitimo įstatymas
 
