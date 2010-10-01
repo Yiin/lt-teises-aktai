@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8C419218A5C0"
 
 # Lietuvos Respublikos Europos kooperatinių bendrovių įstatymas
 
+Suvestinė redakcija nuo 2010-10-01 iki 2024-12-31
+ 
+Įstatymas paskelbtas: Žin. 2006, Nr. 73-2764, i. k. 1061010ISTA000X-696
+ 
+ 
 LIETUVOS RESPUBLIKOS
 EUROPOS KOOPERATINIŲ BENDROVIŲ
 Į S T A T Y M A S
@@ -51,12 +56,18 @@ Vilnius
 
 
 
-2. Apie valdymo organo arba administravimo organo parengtą pasiūlymą dėl Europos kooperatinės bendrovės buveinės perkėlimo turi būti paskelbta įstatuose nurodytame dienraštyje 3 kartus ne mažesniais kaip 30 dienų intervalais arba viešai paskelbta įstatuose nurodytame dienraštyje vieną kartą ir pranešta visiems Europos kooperatinės bendrovės kreditoriams raštu. Skelbime ir pranešime turi būti nurodyti Europos kooperatinės bendrovės pavadinimas, buveinė ir kodas, Reglamento 7 straipsnio 2 dalies a ir e punktuose išvardyti duomenys, kur ir kada galima susipažinti su Reglamento 7 straipsnio 4 dalyje išvardytais dokumentais.
+2. Apie valdymo organo arba administravimo organo parengtą pasiūlymą dėl Europos kooperatinės bendrovės buveinės perkėlimo turi būti viešai paskelbta įstatuose nurodytame šaltinyje 3 kartus ne mažesniais kaip 30 dienų intervalais arba viešai paskelbta įstatuose nurodytame šaltinyje vieną kartą ir pranešta visiems Europos kooperatinės bendrovės kreditoriams raštu. Skelbime ir pranešime turi būti nurodyti Europos kooperatinės bendrovės pavadinimas, buveinė ir kodas, Reglamento 7 straipsnio 2 dalies a ir e punktuose išvardyti duomenys, kur ir kada galima susipažinti su Reglamento 7 straipsnio 4 dalyje išvardytais dokumentais. 
+Straipsnio dalies pakeitimai:
+Nr. XI-566, 2009-12-15, Žin., 2009, Nr. 154-6947 (2009-12-28), i. k. 1091010ISTA00XI-566
+ 
 
 
 
 
-3. Pasiūlymas dėl Europos kooperatinės bendrovės buveinės perkėlimo turi būti pateiktas juridinių asmenų registro tvarkytojui ne vėliau kaip pirmą parengto pasiūlymo dėl buveinės perkėlimo viešo paskelbimo dieną įstatuose nurodytame dienraštyje.
+3. Pasiūlymas dėl Europos kooperatinės bendrovės buveinės perkėlimo turi būti pateiktas juridinių asmenų registro tvarkytojui ne vėliau kaip pirmą parengto pasiūlymo dėl buveinės perkėlimo viešo paskelbimo dieną įstatuose nurodytame šaltinyje.
+Straipsnio dalies pakeitimai:
+Nr. XI-566, 2009-12-15, Žin., 2009, Nr. 154-6947 (2009-12-28), i. k. 1091010ISTA00XI-566
+ 
 
 
 
@@ -204,7 +215,10 @@ Vilnius
 
 
 
-4. Pertvarkymo sąlygų projektas turi būti pateikiamas juridinių asmenų registro tvarkytojui ne vėliau kaip pirmą viešo paskelbimo apie parengtą pertvarkymo sąlygų projektą dieną įstatuose nurodytame dienraštyje. Kartu su pertvarkymo sąlygų projektu juridinių asmenų registro tvarkytojui turi būti pateikiama audito įmonės parengta ataskaita ir valdymo arba administravimo organo ataskaita.
+4. Pertvarkymo sąlygų projektas turi būti pateikiamas juridinių asmenų registro tvarkytojui ne vėliau kaip pirmą viešo paskelbimo apie parengtą pertvarkymo sąlygų projektą dieną įstatuose nurodytame šaltinyje. Kartu su pertvarkymo sąlygų projektu juridinių asmenų registro tvarkytojui turi būti pateikiama audito įmonės parengta ataskaita ir valdymo arba administravimo organo ataskaita.
+Straipsnio dalies pakeitimai:
+Nr. XI-566, 2009-12-15, Žin., 2009, Nr. 154-6947 (2009-12-28), i. k. 1091010ISTA00XI-566
+ 
 
 
 
@@ -325,3 +339,13 @@ priedas
 
 
 ______________
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-566, 2009-12-15, Žin., 2009, Nr. 154-6947 (2009-12-28), i. k. 1091010ISTA00XI-566
+Lietuvos Respublikos Europos kooperatinių bendrovių įstatymo 2 ir 5 straipsnių pakeitimo įstatymas
