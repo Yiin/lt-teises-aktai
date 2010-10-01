@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FD474D5CE327"
 
 # Lietuvos Respublikos sodininkų bendrijų įstatymas
 
-Suvestinė redakcija nuo 2010-01-05 iki 2010-09-30
+Suvestinė redakcija nuo 2010-10-01
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-40, i. k. 1031010ISTA0IX-1934
  
@@ -176,9 +176,10 @@ SKLYPŲ TVARKYMAS BEI NAUDOJIMAS
 6 straipsnis. Mėgėjiško sodo teritorija ir jos tvarkymo bendrieji reikalavimai
 
 
-1. Mėgėjiško sodo teritoriją sudaro sodininkų ir kitų asmenų, įsigijusių mėgėjiško sodo teritorijoje sodo sklypą, naudojama nuosavybės ar kitomis teisėmis valdomų sklypų ir bendrojo naudojimo žemė, kuri teisės aktais buvo skirta mėgėjiškai sodininkystei plėtoti (kolektyviniams sodams steigti) arba priskirta pagal vėliau patikslintą bendrijos teritorijos žemėtvarkos projektą ar kitą teritorijų planavimo dokumentą. Bendrojo naudojimo žemę bendrijos gali nuomoti ar išsipirkti iš valstybės. 
+1. Mėgėjiško sodo teritoriją sudaro sodininkų ir kitų asmenų, įsigijusių mėgėjiško sodo teritorijoje sodo sklypą, naudojama nuosavybės ar kitomis teisėmis valdomų sklypų ir bendrojo naudojimo žemė, kuri teisės aktais buvo skirta mėgėjiškai sodininkystei plėtoti (kolektyviniams sodams steigti) arba priskirta pagal vėliau patikslintą bendrijos teritorijos žemėtvarkos projektą ar kitą teritorijų planavimo dokumentą. Bendrojo naudojimo žemę bendrijos gali nuomoti ar išsipirkti iš valstybės. Bendrojo naudojimo žemėje esančius vidaus kelius, atlikus jų kadastrinius matavimus, perima ir tvarko savivaldybės administracija, išskyrus atvejus, kai sodininkų bendrija šią bendrojo naudojimo teritorijos dalį išsiperka. Už sodininkų bendrijos vidaus kelių kadastrinių matavimų atlikimą apmoka sodininkų bendrija, jeigu savivaldybės administracijos ir sodininkų bendrijos susitarimu nenustatyta kitaip. 
 Straipsnio dalies pakeitimai:
 Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
+Nr. XI-996, 2010-07-02, Žin., 2010, Nr. 84-4405 (2010-07-15), i. k. 1101010ISTA00XI-996
  
 
 
@@ -197,67 +198,82 @@ Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010IST
 4. Sodo sklype statiniai statomi laikantis šių reikalavimų:
 
 
-1) pastatai turi būti statomi ne mažesniu kaip 3 m atstumu nuo sklypo ribos, tačiau visais atvejais – kad jie nedarytų žalos kaimyninio sklypo naudotojui. Mažesniu atstumu gali būti statomi esant rašytiniam kaimyninių sodo sklypų savininkų susitarimui;
+1) pastatai turi būti statomi ne mažesniu kaip 3 m atstumu nuo sklypo ribos, inžineriniai statiniai (išskyrus tvoras) – ne mažesniu kaip 1 m atstumu nuo sklypo ribos, tačiau visais atvejais – kad jie nedarytų žalos kaimyninio sklypo naudotojui. Mažesniu atstumu statiniai gali būti statomi turint rašytinį kaimyninio sklypo savininko ar sodininkų bendrijos (kai sklypas ribojasi su bendrojo naudojimo teritorija) valdybos ar pirmininko sutikimą; 
 
 
 
 
-2) atskirti sodo sklypą nuo kaimyninio sklypo tvora (gyvatvore) galima esant rašytiniam susitarimui, o kai sklypas ribojasi su bendrojo naudojimo teritorija – esant sodininkų bendrijos valdymo organo sutikimui. 
+2) tvoros tarp sklypų turi atitikti statybos techninių reglamentų nustatytus tvorų reikalavimus dėl kaimyninių sklypų insoliacijos. Norint statyti šių reikalavimų neatitinkančias tvoras, būtina turėti rašytinį kaimyninio sklypo savininko sutikimą. Atskirti sodo sklypą nuo sodininkų bendrijos bendrojo naudojimo teritorijos galima aklina tvora; 
 
 
 
 
-
-
-5. Medžius (vaismedžius) ir krūmus (vaiskrūmius) mėgėjiško sodo teritorijoje sodininkai tvarko ir prižiūri savo nuožiūra. Sodo sklype medžiai (vaismedžiai) ir krūmai (vaiskrūmiai) sodinami laikantis šių reikalavimų:
-
-
-1) aukštaūgiai medžiai (vaismedžiai), aukštesni kaip 3 m, sodinami ne mažesniu kaip 3 m atstumu nuo sklypo ribos;
-
-
-
-
-2) žemaūgiai medžiai (vaismedžiai), iki 3 m aukščio, sodinami ne mažesniu kaip 2 m atstumu nuo sklypo ribos; 
-
-
-
-
-3) krūmai (vaiskrūmiai) sodinami ne mažesniu kaip 1 m atstumu nuo sklypo ribos;
-
-
-
-
-4) sodiniai visais atvejais neturi daryti žalos kaimyninio sklypo naudotojams. Mažesniu atstumu jie gali būti sodinami esant rašytiniam kaimyninių sodo sklypų savininkų susitarimui.
-
-
-
-
-
-
-6. Asmenys, įsigiję mėgėjiško sodo teritorijoje sodo sklypą, nekeisdami pagrindinės tikslinės žemės naudojimo paskirties, nuosavybės teise ar kitomis teisėmis valdomame sodo sklype gali statyti ar rekonstruoti:
-
-
-1) Statybos įstatymo nustatyta tvarka parengę projektą ir gavę statybos leidimą, – vieną vienbutį gyvenamąjį namą ir vieną jo priklausinį. Nauji pastatai gali būti statomi ne mažesniame kaip 0,04 ha sodo sklype. Gyvenamieji namai ir jų priklausiniai turi būti projektuojami ir statomi taip, kad neblogintų kaimyninių sklypų savininkų ir naudotojų sąlygų verstis mėgėjiška sodininkyste;
-
-
-
-
-2) be statybos leidimo – sodo namą, sodo baldus ir mažosios architektūros bei smulkius rekreacinės paskirties statinius (suolelius, sporto aikšteles, židinius, skulptūras, dekoratyvines tvoreles, lieptus ir kitus laikinuosius statinius). 
+3) statyti tvorą ant sklypo ribos (kai tvoros konstrukcijos peržengia sklypo ribą) galima turint rašytinį kaimyninio sklypo savininko ar sodininkų bendrijos (kai sklypas ribojasi su bendrojo naudojimo teritorija) valdybos ar pirmininko sutikimą. 
 
 
 Straipsnio dalies pakeitimai:
-Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
+Nr. XI-996, 2010-07-02, Žin., 2010, Nr. 84-4405 (2010-07-15), i. k. 1101010ISTA00XI-996
  
 
 
 
 
-7. Mėgėjiško sodo teritorija turi būti tvarkoma taip, kad prireikus į ją galėtų patekti atlikdami pareigas priešgaisrinės saugos, policijos, greitosios pagalbos ir kitų specialiųjų tarnybų darbuotojai.
+5. Medžius ir krūmus mėgėjiško sodo teritorijoje sodininkai tvarko ir prižiūri savo nuožiūra. Atskirti sodo sklypą nuo kaimyninio sklypo gyvatvore per šių sklypų ribą galima turint rašytinį kaimyninio sklypo savininko sutikimą, o kai sklypas ribojasi su bendrojo naudojimo teritorija – rašytinį sodininkų bendrijos valdybos ar pirmininko sutikimą. Sodo sklype medžiai ir krūmai sodinami ir auginami laikantis šių reikalavimų: 
+
+
+1) aukštaūgiai medžiai, aukštesni kaip 3 m, sodinami ne mažesniu kaip 3 m atstumu nuo sklypo ribos; šiaurinėje sklypo dalyje arčiau kaip 5 m nuo kaimyninio sklypo ribos tokius medžius sodinti galima tik gavus rašytinį kaimyninio sklypo savininko sutikimą; 
 
 
 
 
-8. Vidaus tvarką mėgėjiško sodo teritorijoje nustato bendrijos vidaus tvarkos taisyklės.
+2) žemaūgiai medžiai, užaugantys iki 3 m aukščio, sodinami ne mažesniu kaip 2 m atstumu nuo sklypo ribos; 
+
+
+
+
+3) krūmai sodinami ne mažesniu kaip 1 m atstumu nuo sklypo ribos;
+
+
+
+
+4) mažesniais, negu nurodyta šios dalies 1, 2 ir 3 punktuose, atstumais sodiniai gali būti sodinami turint rašytinį kaimyninio sklypo savininko sutikimą. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XI-996, 2010-07-02, Žin., 2010, Nr. 84-4405 (2010-07-15), i. k. 1101010ISTA00XI-996
+ 
+
+
+
+
+6. Mėgėjiško sodo sklype Statybos įstatymo nustatyta tvarka galima statyti ar rekonstruoti vieną vienbutį gyvenamąjį namą ir jo priklausinius arba vieną sodo namą ir jo priklausinius nerengiant teritorijų planavimo dokumentų, nekeičiant pagrindinės žemės naudojimo paskirties ir nepažeidžiant trečiųjų asmenų teisėtų interesų. 
+Straipsnio dalies pakeitimai:
+Nr. X-1795, 2008-11-11, Žin., 2008, Nr. 135-5231 (2008-11-25), i. k. 1081010ISTA00X-1795
+Nr. XI-996, 2010-07-02, Žin., 2010, Nr. 84-4405 (2010-07-15), i. k. 1101010ISTA00XI-996
+ 
+
+
+
+
+9. Šio straipsnio 7 dalyje nurodyti rodikliai gali būti viršyti tik tuo atveju, jeigu yra patvirtinti atitinkami teritorijų planavimo dokumentai. 
+Papildyta straipsnio dalimi:
+Nr. XI-996, 2010-07-02, Žin., 2010, Nr. 84-4405 (2010-07-15), i. k. 1101010ISTA00XI-996
+ 
+
+
+
+
+10. Mėgėjiško sodo teritorija turi būti tvarkoma taip, kad prireikus į ją galėtų patekti atlikdami pareigas priešgaisrinės saugos, policijos, greitosios pagalbos ir kitų specialiųjų tarnybų darbuotojai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-996, 2010-07-02, Žin., 2010, Nr. 84-4405 (2010-07-15), i. k. 1101010ISTA00XI-996
+ 
+
+
+
+
+11. Vidaus tvarką mėgėjiško sodo teritorijoje nustato bendrijos vidaus tvarkos taisyklės.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-996, 2010-07-02, Žin., 2010, Nr. 84-4405 (2010-07-15), i. k. 1101010ISTA00XI-996
  
 
 
@@ -1548,3 +1564,8 @@ Lietuvos Respublikos sodininkų bendrijų įstatymo 15, 16, 18 straipsnių pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-603, 2009-12-22, Žin., 2010, Nr. 1-14 (2010-01-05), i. k. 1091010ISTA00XI-603
 Lietuvos Respublikos sodininkų bendrijų įstatymo 10 ir 11 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-996, 2010-07-02, Žin., 2010, Nr. 84-4405 (2010-07-15), i. k. 1101010ISTA00XI-996
+Lietuvos Respublikos sodininkų bendrijų įstatymo 6 straipsnio pakeitimo ir papildymo įstatymas
