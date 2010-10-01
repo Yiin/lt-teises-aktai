@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0F470A65DFCA"
 
 # Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas
 
-Suvestinė redakcija nuo 2010-07-10 iki 2010-09-30
+Suvestinė redakcija nuo 2010-10-01 iki 2013-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2872, i. k. 1001010ISTAIII-2025
  
@@ -38,7 +38,10 @@ Vilnius
 2 straipsnis. Bendrosios nuostatos
 
 
-1. Programos tikslas – finansuoti aplinkosaugos priemones, numatytas šio įstatymo 4 straipsnyje.
+1. Programos tikslas – finansuoti aplinkosaugos ir kitas priemones, numatytas šio įstatymo 4 straipsnyje.
+Straipsnio dalies pakeitimai:
+Nr. XI-1000, 2010-07-02, Žin., 2010, Nr. 84-4409 (2010-07-15), i. k. 1101010ISTA0XI-1000
+ 
 
 
 
@@ -135,9 +138,26 @@ Nr. IX-1092, 2002-09-19, Žin., 2002, Nr. 96-4169 (2002-10-04), i. k. 1021010IST
 
 
 
-11) kitos teisėtai gautos lėšos.
+11) lėšos iš sumokėtų Statybos įstatyme, Administracinių teisės pažeidimų kodekse nustatytų baudų už statinių statybą reglamentuojančių teisės aktų pažeidimus, taip pat lėšos iš sumokėtų įmokų už savavališkų statybų įteisinimą; 
+Papildyta straipsnio punktu:
+Nr. XI-1000, 2010-07-02, Žin., 2010, Nr. 84-4409 (2010-07-15), i. k. 1101010ISTA0XI-1000
+ 
+
+
+
+
+12) už savavališkai pastatytų ar savavališkai statomų statinių, statinių, pastatytų ar statomų pagal neteisėtai išduotus statybą leidžiančius dokumentus, nugriovimą, savavališkai ar pagal neteisėtai išduotus statybą leidžiančius dokumentus perstatytų ar pertvarkytų statinio dalių išardymą ar nugriauto kultūros paveldo statinio (jo dalies) atstatymą pagal teismo sprendimą iš kaltų asmenų išieškotos lėšos; 
+Papildyta straipsnio punktu:
+Nr. XI-1000, 2010-07-02, Žin., 2010, Nr. 84-4409 (2010-07-15), i. k. 1101010ISTA0XI-1000
+ 
+
+
+
+
+13) kitos teisėtai gautos lėšos.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. IX-1092, 2002-09-19, Žin., 2002, Nr. 96-4169 (2002-10-04), i. k. 1021010ISTA0IX-1092
+Nr. XI-1000, 2010-07-02, Žin., 2010, Nr. 84-4409 (2010-07-15), i. k. 1101010ISTA0XI-1000
  
 
 
@@ -153,57 +173,57 @@ Nr. IX-1092, 2002-09-19, Žin., 2002, Nr. 96-4169 (2002-10-04), i. k. 1021010IST
 1. Programos lėšos naudojamos:
 
 
-1) priemonėms, kuriomis kompensuojama aplinkai padaryta žala, kraštovaizdžio kompleksams ar elementams atkurti, aplinkosaugos objektams projektuoti, statyti, rekonstruoti, remontuoti, aplinkos teršimo šaltiniams pašalinti, gamtos ištekliams atkurti ir gausinti – ne mažiau kaip 30 procentų Programos metinių įplaukų (neįskaitant įplaukų pagal 3 straipsnio 5, 6, 7 ir 8 punktus);
+1) priemonėms, kuriomis kompensuojama aplinkai padaryta žala, kraštovaizdžio kompleksams ar elementams atkurti, aplinkosaugos objektams projektuoti, statyti, rekonstruoti, remontuoti, aplinkos teršimo šaltiniams pašalinti, gamtos ištekliams atkurti ir gausinti – ne mažiau kaip 30 procentų Programos metinių įplaukų (neįskaitant įplaukų pagal šio įstatymo 3 straipsnio 5, 6, 7, 8, 11 ir 12 punktus);
 
 
 
 
-2) žuvų ištekliams atkurti ir saugoti – įplaukos pagal 3 straipsnio 5, 6 ir 7 punktus;
+2) žuvų ištekliams atkurti ir saugoti – įplaukos pagal šio įstatymo 3 straipsnio 5, 6 ir 7 punktus;
 
 
 
 
-3) medžiojamųjų gyvūnų išteklių apsaugos ir gausinimo priemonėms; medžioklėtvarkos projektams rengti; medžiojamųjų gyvūnų ir medžioklės moksliniams tyrimams; medžiojamųjų gyvūnų, saugomų pagal Europos Sąjungos teisės aktų reikalavimus, monitoringui; priemonėms prieš brakonieriavimą; medžioklės plėtrą skatinančioms bei medžioklės kultūrą ir tradicijas puoselėjančioms priemonėms; griežtai saugomų rūšių laukinių gyvūnų ir medžiojamųjų gyvūnų, kurių medžioklė uždrausta ištisus metus, padarytai žalai žemės, miško ir vandens telkinių sklypų, kuriuose nėra uždrausta medžioti, savininkams, valdytojams ir naudotojams kompensuoti bei šių gyvūnų daromos žalos prevencijos priemonėms – įplaukos pagal 3 straipsnio 8 punktą;
-Straipsnio punkto pakeitimai:
-Nr. XI-922, 2010-06-22, Žin., 2010, Nr. 81-4220 (2010-07-10), i. k. 1101010ISTA00XI-922
- 
+3) medžiojamųjų gyvūnų išteklių apsaugos ir gausinimo priemonėms; medžioklėtvarkos projektams rengti; medžiojamųjų gyvūnų ir medžioklės moksliniams tyrimams; medžiojamųjų gyvūnų, saugomų pagal Europos Sąjungos teisės aktų reikalavimus, monitoringui; priemonėms prieš brakonieriavimą; medžioklės plėtrą skatinančioms bei medžioklės kultūrą ir tradicijas puoselėjančioms priemonėms; griežtai saugomų rūšių laukinių gyvūnų ir medžiojamųjų gyvūnų, kurių medžioklė uždrausta ištisus metus, padarytai žalai žemės, miško ir vandens telkinių sklypų, kuriuose nėra uždrausta medžioti, savininkams, valdytojams ir naudotojams kompensuoti bei šių gyvūnų daromos žalos prevencijos priemonėms – įplaukos pagal šio įstatymo 3 straipsnio 8 punktą;
 
 
 
 
-4) aplinkos apsaugos, gamtos išteklių naudojimo ir jų gausinimo programoms, schemoms, planams, įstatymų ir kitų teisės aktų projektams rengti;
+4) aplinkos apsaugos, gamtos išteklių naudojimo ir jų gausinimo programoms, schemoms, planams, įstatymų ir kitų teisės aktų projektams rengti (neįskaitant įplaukų pagal šio įstatymo 3 straipsnio 11 ir 12 punktus);
 
 
 
 
-5) moksliniams taikomiesiems darbams, aplinkos monitoringui, poveikio aplinkai vertinimui;
+5) moksliniams taikomiesiems darbams, aplinkos monitoringui, poveikio aplinkai vertinimui (neįskaitant įplaukų pagal šio įstatymo 3 straipsnio 11 ir 12 punktus);
 
 
 
 
-6) valstybinėms aplinkos apsaugos įstaigoms ir organizacijoms aprūpinti prietaisais, įrenginiais, medžiagomis ir kitomis materialinėmis priemonėmis jų aplinkosaugos veiklai vykdyti;
+6) valstybinėms aplinkos apsaugos įstaigoms ir organizacijoms aprūpinti prietaisais, įrenginiais, medžiagomis ir kitomis materialinėmis priemonėmis jų aplinkosaugos veiklai vykdyti (neįskaitant įplaukų pagal šio įstatymo 3 straipsnio 11 ir 12 punktus);
 
 
 
 
-7) aplinkosaugos srityje švietimui, mokymui, specialistų kvalifikacijai kelti, leidybai, aplinkosaugos informacijai skleisti, aplinkos apsaugos renginiams bei konkursams organizuoti, tarptautinių projektų ir sutarčių aplinkosaugos srityje įgyvendinimo išlaidoms apmokėti;
+7) aplinkosaugos srityje švietimui, mokymui, specialistų kvalifikacijai kelti, leidybai, aplinkosaugos informacijai skleisti, aplinkos apsaugos renginiams ir konkursams organizuoti, tarptautinių projektų ir sutarčių aplinkosaugos srityje įgyvendinimo išlaidoms apmokėti (neįskaitant įplaukų pagal šio įstatymo 3 straipsnio 11 ir 12 punktus);
 
 
 
 
-8) vardinėms premijoms skirti asmenims už nuopelnus aplinkosaugos srityje;
+8) vardinėms premijoms skirti asmenims už nuopelnus aplinkosaugos srityje (neįskaitant įplaukų pagal šio įstatymo 3 straipsnio 11 ir 12 punktus);
 
 
 
 
-9) neetatinių aplinkos apsaugos inspektorių skatinimui ir atliekamiems aplinkos apsaugos ir gamtos išteklių naudojimo kontrolės darbams bei rengiamoms programoms įgyvendinti – ne daugiau kaip 5 procentai Programos metinių įplaukų (neįskaitant įplaukų pagal 3 straipsnio 5, 6, 7 ir 8 punktus).
-Straipsnio punkto pakeitimai:
-Nr. X-268, 2005-06-23, Žin., 2005, Nr. 84-3107 (2005-07-12), i. k. 1051010ISTA000X-268
- 
+9) neetatiniams aplinkos apsaugos inspektoriams skatinti ir atliekamiems aplinkos apsaugos ir gamtos išteklių naudojimo kontrolės darbams bei rengiamoms programoms įgyvendinti – ne daugiau kaip 5 procentai Programos metinių įplaukų (neįskaitant įplaukų pagal šio įstatymo 3 straipsnio 5, 6, 7, 8, 11 ir 12 punktus); 
+
+
+
+
+10) savavališkai pastatytiems ar savavališkai statomiems statiniams, statiniams, pastatytiems ar statomiems pagal neteisėtai išduotus statybą leidžiančius dokumentus, nugriauti, savavališkai ar pagal neteisėtai išduotus statybą leidžiančius dokumentus perstatytoms ar pertvarkytoms statinio dalims išardyti ar nugriautam kultūros paveldo statiniui (jo daliai) atstatyti pagal teismo sprendimą; savavališkų statybų prevencijai; statinių ekspertizėms atlikti tais atvejais, kai šias ekspertizes būtina atlikti dėl statinių avarijų prevencijos ar pareiškiant ieškinius teismams; teritorijų planavimo valstybinės priežiūros ir statybos valstybinės priežiūros srityse švietimui, leidybai, specialistų mokymui, jų kvalifikacijai kelti; statybos valstybinę priežiūrą atliekantiems specialistams aprūpinti prietaisais, įrenginiais, medžiagomis ir kitomis materialinėmis priemonėmis jų veiklai statybos valstybinės priežiūros srityje vykdyti – įplaukos pagal šio įstatymo 3 straipsnio 11 ir 12 punktus.
 
 
 Straipsnio dalies pakeitimai:
 Nr. IX-1092, 2002-09-19, Žin., 2002, Nr. 96-4169 (2002-10-04), i. k. 1021010ISTA0IX-1092
+Nr. XI-1000, 2010-07-02, Žin., 2010, Nr. 84-4409 (2010-07-15), i. k. 1101010ISTA0XI-1000
  
 
 
@@ -270,3 +290,8 @@ Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 3 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-922, 2010-06-22, Žin., 2010, Nr. 81-4220 (2010-07-10), i. k. 1101010ISTA00XI-922
 Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 4 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1000, 2010-07-02, Žin., 2010, Nr. 84-4409 (2010-07-15), i. k. 1101010ISTA0XI-1000
+Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 2, 3, 4 straipsnių pakeitimo ir papildymo įstatymas
