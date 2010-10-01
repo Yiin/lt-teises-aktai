@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6444B13D3DC1"
 
 # Lietuvos Respublikos Europos bendrovių įstatymas
 
+Suvestinė redakcija nuo 2010-10-01 iki 2011-12-31
+ 
+Įstatymas paskelbtas: Žin. 2004, Nr. 78-2710, i. k. 1041010ISTA0IX-2199
+ 
+ 
 LIETUVOS RESPUBLIKOS
 EUROPOS BENDROVIŲ
 Į S T A T Y M A S
@@ -51,12 +56,18 @@ Vilnius
 
 
 
-2. Apie valdymo organo arba administravimo organo parengtą Europos bendrovės buveinės perkėlimo pasiūlymą turi būti paskelbta įstatuose nurodytame dienraštyje 3 kartus ne mažesniais kaip 30 dienų intervalais arba viešai paskelbta įstatuose nurodytame dienraštyje vieną kartą ir pranešta visiems bendrovės kreditoriams raštu. Skelbime ir pranešime turi būti nurodyti Europos bendrovės pavadinimas, buveinė ir kodas, Reglamento 8 straipsnio 2 dalies a ir d punktuose išvardyti duomenys, kur ir kada galima susipažinti su Reglamento 8 straipsnio 4 dalyje išvardytais dokumentais.
+2. Apie valdymo organo arba administravimo organo parengtą Europos bendrovės buveinės perkėlimo pasiūlymą turi būti viešai paskelbta įstatuose nurodytame šaltinyje 3 kartus ne mažesniais kaip 30 dienų intervalais arba viešai paskelbta įstatuose nurodytame šaltinyje vieną kartą ir pranešta visiems bendrovės kreditoriams raštu. Skelbime ir pranešime turi būti nurodyti Europos bendrovės pavadinimas, buveinė ir kodas, Reglamento 8 straipsnio 2 dalies a ir d punktuose išvardyti duomenys, kur ir kada galima susipažinti su Reglamento 8 straipsnio 4 dalyje išvardytais dokumentais. 
+Straipsnio dalies pakeitimai:
+Nr. XI-565, 2009-12-15, Žin., 2009, Nr. 154-6946 (2009-12-28), i. k. 1091010ISTA00XI-565
+ 
 
 
 
 
-3. Europos bendrovės buveinės perkėlimo pasiūlymas turi būti pateiktas juridinių asmenų registro tvarkytojui ne vėliau kaip pirmą viešo jo paskelbimo dieną įstatuose nurodytame dienraštyje.
+3. Europos bendrovės buveinės perkėlimo pasiūlymas turi būti pateiktas juridinių asmenų registro tvarkytojui ne vėliau kaip pirmą viešo jo paskelbimo dieną įstatuose nurodytame šaltinyje.
+Straipsnio dalies pakeitimai:
+Nr. XI-565, 2009-12-15, Žin., 2009, Nr. 154-6946 (2009-12-28), i. k. 1091010ISTA00XI-565
+ 
 
 
 
@@ -107,7 +118,10 @@ Vilnius
 
 
 
-4. Valdymo (holdingo) Europos bendrovės steigimo sąlygų projektas turi būti pateiktas juridinių asmenų registro tvarkytojui ne vėliau kaip pirmą viešo paskelbimo apie jų sudarymą dieną bendrovės, inicijuojančios valdymo (holdingo) Europos bendrovės steigimą, įstatuose nurodytame dienraštyje. Kartu su bendrovės steigimo sąlygų projektu turi būti pateikta audito įmonės parengta Europos bendrovės steigimo sąlygų projekto vertinimo ataskaita.
+4. Valdymo (holdingo) Europos bendrovės steigimo sąlygų projektas turi būti pateiktas juridinių asmenų registro tvarkytojui ne vėliau kaip pirmą viešo paskelbimo apie jų sudarymą dieną bendrovės, inicijuojančios valdymo (holdingo) Europos bendrovės steigimą, įstatuose nurodytame šaltinyje. Kartu su bendrovės steigimo sąlygų projektu turi būti pateikta audito įmonės parengta Europos bendrovės steigimo sąlygų projekto vertinimo ataskaita.
+Straipsnio dalies pakeitimai:
+Nr. XI-565, 2009-12-15, Žin., 2009, Nr. 154-6946 (2009-12-28), i. k. 1091010ISTA00XI-565
+ 
 
 
 
@@ -199,7 +213,11 @@ Vilnius
 
 
 
-4. Pertvarkymo sąlygų projektas turi būti pateikiamas juridinių asmenų registro tvarkytojui ne vėliau kaip pirmą viešo paskelbimo apie jo sudarymą dieną įstatuose nurodytame dienraštyje. Kartu su pertvarkymo sąlygų projektu juridinių asmenų registro tvarkytojui turi būti pateikiama audito įmonės ataskaita, patvirtinanti, kad Europos bendrovės nuosavo kapitalo dydis atitinka Reglamente nustatytus reikalavimus, ir akcinės bendrovės įstatai.
+4. Pertvarkymo sąlygų projektas turi būti pateikiamas juridinių asmenų registro tvarkytojui ne vėliau kaip pirmą viešo paskelbimo apie jo sudarymą dieną įstatuose nurodytame šaltinyje. Kartu su pertvarkymo sąlygų projektu juridinių asmenų registro tvarkytojui turi būti pateikiama audito įmonės ataskaita, patvirtinanti, kad Europos bendrovės nuosavo kapitalo dydis atitinka Reglamente nustatytus reikalavimus, ir akcinės bendrovės įstatai.
+ 
+Straipsnio dalies pakeitimai:
+Nr. XI-565, 2009-12-15, Žin., 2009, Nr. 154-6946 (2009-12-28), i. k. 1091010ISTA00XI-565
+ 
 
 
 
@@ -311,3 +329,13 @@ priedas
 
 
 ______________
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-565, 2009-12-15, Žin., 2009, Nr. 154-6946 (2009-12-28), i. k. 1091010ISTA00XI-565
+Lietuvos Respublikos Europos bendrovių įstatymo 2, 3 ir 5 straipsnių pakeitimo įstatymas
