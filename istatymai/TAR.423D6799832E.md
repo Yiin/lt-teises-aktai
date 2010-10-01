@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.423D6799832E"
 
 # Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2010-09-30
+Suvestinė redakcija nuo 2010-10-01 iki 2012-04-04
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 17-701, i. k. 1031010ISTA0IX-1315
  
@@ -71,89 +71,125 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Gamybos vieta – patalpos, teritorija, kuriose sprogmenų gamintojas pagal tai vietai suteiktą licenciją gamina sprogmenis. 
+4. Fizinis asmuo – Lietuvos Respublikos ar kitos valstybės narės pilietis. 
+Papildyta straipsnio dalimi:
+Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
+ 
+
+
+
+
+5. Gamybos vieta – patalpos, teritorija, kuriose sprogmenų gamintojas pagal tai vietai suteiktą licenciją gamina sprogmenis. 
 Papildyta straipsnio dalimi:
 Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
  
 
 
 
 
-5. Gamintojas – Lietuvos Respublikoje įregistruota įmonė, turinti Vyriausybės nustatyta tvarka išduotą licenciją gaminti sprogmenis.
+6. Gamintojas – Lietuvos Respublikoje įregistruota įmonė, turinti Vyriausybės nustatyta tvarka išduotą licenciją gaminti sprogmenis.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
  
 
 
 
 
-6. Prekybos sprogmenimis tarpininkas (toliau – prekybos tarpininkas) – asmuo, atstovaujantis gamintojo, prekiautojo ar naudotojo interesams, kai gamintojas, prekiautojas ar naudotojas sudaro sutartis dėl sprogmenų įsigijimo ar pardavimo.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+7. Juridinis asmuo – Lietuvos Respublikoje ar kitoje valstybėje narėje įsteigtas juridinis asmuo. 
+Papildyta straipsnio dalimi:
+Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
  
 
 
 
 
-7. Profesionalus sprogmenų naudotojas (toliau – profesionalus naudotojas) – įmonė, turinti Vyriausybės nustatyta tvarka išduotą licenciją naudoti sprogmenis.
+8. Prekybos sprogmenimis tarpininkas (toliau – prekybos tarpininkas) – asmuo, atstovaujantis gamintojo, prekiautojo ar naudotojo interesams, kai gamintojas, prekiautojas ar naudotojas sudaro sutartis dėl sprogmenų įsigijimo ar pardavimo.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
  
 
 
 
 
-8. Sprogdinimo priemonės – visuma papildomų įrengimų, įtaisų ar medžiagų, skirtų sprogdinimo darbams atlikti. 
+9. Profesionalus sprogmenų naudotojas (toliau – profesionalus naudotojas) – įmonė, turinti Vyriausybės nustatyta tvarka išduotą licenciją naudoti sprogmenis.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
  
 
 
 
 
-9. Sprogimas – medžiagos fizinio būvio pokytis, vykstantis ypač greitai ir lemiantis staigų didelio energijos kiekio ribotame tūryje atpalaidavimą. 
+10. Sprogdinimo priemonės – visuma papildomų įrengimų, įtaisų ar medžiagų, skirtų sprogdinimo darbams atlikti. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
  
 
 
 
 
-10. Sprogmenų apyvarta – sprogmenų gamyba, pardavimas, perdavimas, įgijimas, laikymas, saugojimas, gabenimas, naudojimas, paėmimas, realizavimas, sunaikinimas, taip pat importas, eksportas, gabenimas tranzitu per Lietuvos Respublikos teritoriją. 
+11. Sprogimas – medžiagos fizinio būvio pokytis, vykstantis ypač greitai ir lemiantis staigų didelio energijos kiekio ribotame tūryje atpalaidavimą. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
  
 
 
 
 
-11. Sprogmenų gamyba – sprogmenų gaminimas, bandymai, jų atitikties įvertinimas bei ženklinimas.
+12. Sprogmenų apyvarta – sprogmenų gamyba, pardavimas, perdavimas, įgijimas, laikymas, saugojimas, gabenimas, naudojimas, paėmimas, realizavimas, sunaikinimas, taip pat importas, eksportas, gabenimas tranzitu per Lietuvos Respublikos teritoriją. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
  
 
 
 
 
-12. Sprogmenų naudojimas – sprogmenų sprogdinimas siekiant panaudoti jų sprogstamąsias savybes.
+13. Sprogmenų gamyba – sprogmenų gaminimas, bandymai, jų atitikties įvertinimas bei ženklinimas.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
  
 
 
 
 
-13. Sprogmuo – įtaisas, specialiai pagamintas sprogimui tam tikromis sąlygomis sukelti.
+14. Sprogmenų naudojimas – sprogmenų sprogdinimas siekiant panaudoti jų sprogstamąsias savybes.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
  
 
 
 
 
-14. Sprogstamoji medžiaga – cheminis junginys ar mišinys, kuris veikiamas smūgio, kibirkšties, liepsnos, trinties ar kito išorinio impulso geba sprogti.
+15. Sprogmuo – įtaisas, specialiai pagamintas sprogimui tam tikromis sąlygomis sukelti.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
+ 
+
+
+
+
+16. Sprogstamoji medžiaga – cheminis junginys ar mišinys, kuris veikiamas smūgio, kibirkšties, liepsnos, trinties ar kito išorinio impulso geba sprogti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
+ 
+
+
+
+
+17. Valstybė narė – bet kuri Europos Sąjungos valstybė narė arba Europos ekonominės erdvės valstybė.
+Papildyta straipsnio dalimi:
+Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
  
 
 
@@ -528,33 +564,67 @@ SU sprogmenIMIS SUSIJUSI ŪKINĖ KOMERCINĖ VEIKLA
 
 
 
-2. Kiekvienai šio straipsnio 1 dalyje nurodytai veiklai yra išduodama atskira licencija.
+2. Kiekvienai šio straipsnio 1 dalyje nurodytai veiklai yra išduodama atskira licencija. Licencijas Vyriausybės nustatyta tvarka išduoda Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Ginklų fondas).
 
 
 
 
-3. Licencijas verstis šio straipsnio 1 dalyje nurodyta veikla gali gauti įstatymų ir kitų teisės aktų nustatyta tvarka Lietuvos Respublikoje įregistruotos įmonės ir Europos Sąjungos bei Europos ekonominės erdvės valstybėse įsteigtų įmonių filialai.
-Straipsnio dalies pakeitimai:
-Nr. IX-1965, 2004-01-20, Žin., 2004, Nr. 21-618 (2004-02-07), i. k. 1041010ISTA0IX-1965
+3. Lietuvos Respublikoje verstis šio straipsnio 1 dalies 2 ir 3 punktuose nurodyta veikla turi teisę kitų valstybių narių paslaugų teikėjai, pateikę Ginklų fondui savo registracijos valstybėje narėje gautas licencijas verstis šia veikla. Ginklų fondas, patikrinęs pateiktos licencijos galiojimą ir gavęs licenciją išdavusios valstybės narės patikrintų asmenų, kurie turi teisę tiesiogiai dirbti su sprogmenimis, sąrašus, išduoda rašytinį sutikimą vykdyti Lietuvos Respublikoje licencijuojamą veiklą. Toks sutikimas neišduodamas, jeigu gaunama duomenų, kad juridinio asmens registracija ar licencija negalioja, taip pat jeigu į patikrintų asmenų sąrašus yra įtraukti asmenys, neturintys teisės dirbti su sprogmenimis. Jeigu per 30 dienų nuo paklausimo negaunamas joks atsakymas, laikoma, kad priežasčių neišduoti sutikimo nėra.
+
+
+
+
+4. Licencijas verstis šio straipsnio 1 dalies 1 punkte nurodyta veikla turi teisę gauti tik juridiniai asmenys. Licencijas verstis šio straipsnio 1 dalies 2 ir 3 punktuose nurodytomis veiklomis turi teisę gauti fiziniai ir juridiniai asmenys.
+
+
+
+
+5. Sprendimas dėl licencijos išdavimo priimamas ne vėliau kaip per 30 kalendorinių dienų nuo visų dokumentų, reikalingų licencijai išduoti, pateikimo dienos.
+
+
+
+
+6. Gavęs prašymą išduoti licenciją, Ginklų fondas ne vėliau kaip per 5 darbo dienas išsiunčia pareiškėjui patvirtinimą, kad prašymas gautas. Patvirtinime taip pat nurodoma šio straipsnio 5 dalies terminas licencijai išduoti, sprendimo apskundimo tvarka ir terminai bei tai, kad pareiškėjui ar jo įgaliotam asmeniui per 30 kalendorinių dienų nuo visų dokumentų, reikalingų licencijai išduoti, pateikimo dienos negavus jokio atsakymo, yra laikoma, kad priimamas teigiamas sprendimas.
+
+
+
+
+7. Atsisakymas išduoti licenciją turi būti motyvuotas vadovaujantis Vyriausybės patvirtintose Sprogmenų civilinės apyvartos licencijavimo taisyklėse nustatytais reikalavimais. Pareiškėjas ar jo įgaliotas asmuo atsisakymą išduoti licenciją turi teisę ne vėliau kaip per 30 kalendorinių dienų nuo sprendimo gavimo dienos apskųsti teismui.
+
+
+
+
+8. Jeigu pareiškėjas ar jo įgaliotas asmuo per 30 kalendorinių dienų nuo visų dokumentų, reikalingų licencijai išduoti, pateikimo dienos negauna jokio atsakymo, yra laikoma, kad priimamas teigiamas sprendimas.
+
+
+
+
+9. Prašymas išduoti licenciją, prie jo pridedami dokumentai gali būti pateikiami, o licencija išduodama ir Lietuvos Respublikos teisės aktuose nustatytomis elektroninėmis priemonėmis.
+
+
+
+
+10. Kiekvienos ūkinės komercinės veiklos, nurodytos šio straipsnio 1 dalyje, licencijavimo taisykles tvirtina Vyriausybė.
+
+
+
+
+11. Sprendimas dėl sutikimo verstis licencijuojama veikla išdavimo ar neišdavimo paslaugų teikėjui, pateikusiam kitoje valstybėje narėje išduotą licenciją, priimamas ne vėliau kaip per 30 kalendorinių dienų nuo turimos licencijos pateikimo Ginklų fondui dienos. Jeigu paslaugų teikėjas per 30 kalendorinių dienų nuo licencijos pateikimo dienos negauna jokio atsakymo, yra laikoma, kad priimamas teigiamas sprendimas.
+
+
+
+
+12. Licencija turi būti patikslinta (papildyta), jeigu pasikeičia bent vienas juridinio (pavadinimas, teisinė forma, kodas, adresas) ar fizinio (vardas, pavardė, asmens kodas, licencijoje nurodytos vykdomos veiklos adresas) asmens, kuris verčiasi licencijuojama veikla, rekvizitas. Tokiu atveju juridinis ar fizinis asmuo, kuris verčiasi licencijuojama veikla, ne vėliau kaip per 15 kalendorinių dienų nuo duomenų pasikeitimo turi pateikti Ginklų fondui rašytinį prašymą patikslinti (papildyti) išduotą licenciją, turimą licencijos originalą (dublikatą) ir dokumentus, patvirtinančius pasikeitusius duomenis. Licencija patikslinama (papildoma) ir tada, kai buvo padaryta rašybos klaidų. Ginklų fondas per 10 darbo dienų nuo nurodytų dokumentų gavimo dienos patikslina (papildo) licenciją.
+
+
+
+
+13. Už licencijų išdavimą, patikslinimą (papildymą) ar dublikato išdavimą mokama valstybės rinkliava. Už licencijos patikslinimą, jeigu buvo padaryta rašybos klaidų, valstybės rinkliava neimama.
+
+
+Straipsnio pakeitimai:
+Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
  
-
-
-
-
-4. Sprendimas dėl licencijos išdavimo priimamas ne vėliau kaip per 60 kalendorinių dienų nuo būtinų dokumentų pateikimo dienos.
-
-
-
-
-5. Atsisakymas išduoti licenciją turi būti motyvuotas remiantis nustatytais reikalavimais ir patikimumo vertinimo kriterijais. Pareiškėjas ar jo įgaliotas asmuo atsisakymą išduoti licenciją turi teisę ne vėliau kaip per 30 kalendorinių dienų nuo sprendimo gavimo dienos apskųsti licenciją išduodančios institucijos vadovui. Pareiškėjas, per 30 kalendorinių dienų negavęs jį tenkinančio atsakymo ar visai negavęs atsakymo, sprendimą atsisakyti išduoti licenciją gali apskųsti teismui.
-
-
-
-
-6. Kiekvienos ūkinės komercinės veiklos, nurodytos šio straipsnio 1 dalyje, licencijavimo taisykles bei vertinimo kriterijus tvirtina Vyriausybė.
- 
-
-
 
 
 
@@ -562,7 +632,7 @@ Nr. IX-1965, 2004-01-20, Žin., 2004, Nr. 21-618 (2004-02-07), i. k. 1041010ISTA
 12 straipsnis. Teisės dirbti darbą, susijusį su licencijuojama veikla, apribojimai
 
 
-1. Įmonės, kuri verčiasi licencijuojama veikla, darbuotoju, tiesiogiai susijusiu su sprogmenų apyvarta, taip pat tokios įmonės administracijos vadovu negali būti:
+1. Įmonės, kuri verčiasi licencijuojama veikla, darbuotoju, tiesiogiai susijusiu su sprogmenų apyvarta, taip pat tokios įmonės administracijos vadovu ir fiziniu asmeniu, kuris verčiasi licencijuojama veikla, negali būti:
 
 
 1) asmuo, įrašytas į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo, narkomanijos arba prižiūrimas sveikatos priežiūros įstaigos dėl psichikos ligos ar sutrikimo;
@@ -592,10 +662,12 @@ Nr. IX-1965, 2004-01-20, Žin., 2004, Nr. 21-618 (2004-02-07), i. k. 1041010ISTA
 
 
 
-2. Šio straipsnio 1 dalyje nurodytų darbuotojų sveikatos būklės reikalavimai prilyginami asmenų, turinčių leidimą įsigyti ar turėti šaunamąjį ginklą, sveikatos būklės reikalavimams.
+2. Šio straipsnio 1 dalyje nurodytų asmenų sveikatos būklės reikalavimai prilyginami asmenų, turinčių leidimą įsigyti ar turėti šaunamąjį ginklą, sveikatos būklės reikalavimams.
+
+
+Straipsnio pakeitimai:
+Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
  
-
-
 
 
 
@@ -621,10 +693,11 @@ Nr. IX-1965, 2004-01-20, Žin., 2004, Nr. 21-618 (2004-02-07), i. k. 1041010ISTA
 
 
 
-4) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka teikti Lietuvos Respublikos ginklų fondui prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Ginklų fondas) duomenis apie pagamintus, importuotus, eksportuotus, parduotus, laikomus ir sunaudotus sprogmenis;
+4) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka teikti Ginklų fondui duomenis apie pagamintus, importuotus, eksportuotus, parduotus, laikomus ir sunaudotus sprogmenis; 
 Straipsnio punkto pakeitimai:
 Nr. X-186, 2005-05-12, Žin., 2005, Nr. 67-2398 (2005-05-28), i. k. 1051010ISTA000X-186
 Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. 1101010ISTA00XI-647
+Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
  
 
 
@@ -640,7 +713,10 @@ Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. 1101010ISTA0
 
 
 
-7) sudaryti sąlygas kontroliuojančiųjų institucijų darbuotojams tikrinti įmonės veiklą, susijusią su licencijuojama veikla;
+7) sudaryti sąlygas kontroliuojančiųjų institucijų darbuotojams tikrinti fizinio ir juridinio asmens veiklą, susijusią su licencijuojama veikla; 
+Straipsnio punkto pakeitimai:
+Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
+ 
 
 
 
@@ -655,7 +731,10 @@ Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. 1101010ISTA0
 
 
 
-10) sprogmenų apskaitos žurnalus ir kitus dokumentus saugoti ne mažiau kaip 10 metų nuo paskutinio įrašo padarymo dienos, neatsižvelgiant į tai, ar įmonė verčiasi licencijuojama veikla, ar ne (likvidavus įmonę, apskaitos dokumentai perduodami licenciją išdavusiai institucijai ar jos įgaliotai institucijai).
+10) sprogmenų apskaitos žurnalus, surinktus duomenis apie sprogmenis ir kitus dokumentus, taip pat duomenis saugoti 10 metų nuo paskutinio įrašo padarymo dienos (likvidavus juridinį asmenį ar fiziniam asmeniui nutraukus licencijuojamą veiklą arba jam mirus, apskaitos dokumentai perduodami Ginklų fondui).
+Straipsnio punkto pakeitimai:
+Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
+ 
 
 
 
@@ -778,28 +857,23 @@ Nr. IX-1965, 2004-01-20, Žin., 2004, Nr. 21-618 (2004-02-07), i. k. 1041010ISTA
 
 
 
-17 straipsnis. Su sprogmenų gabenimo Europos Sąjungoje priežiūra susijusių nuostatų taikymas 
+17 straipsnis. Su sprogmenų gabenimo Europos Sąjungoje priežiūra susijusių nuostatų taikymas
 
 
-1. Šio straipsnio nuostatos taikomos sprogmenų gabenimo priežiūrai, kai sprogmenys yra importuojami į Lietuvos Respublikos teritoriją, eksportuojami iš jos ar gabenami per ją tranzitu į valstybes Europos Sąjungos nares. 
-
-
-
-
-2. Lietuvos Respublikoje registruota įmonė, eksportuojanti sprogmenis į valstybę Europos Sąjungos narę, turi pateikti Lietuvos Respublikos Vyriausybės įgaliotai valstybės institucijai valstybės, į kurią ji numato eksportuoti sprogmenis, kompetentingos institucijos sutikimą įvežti sprogmenis, ir valstybių, per kurias bus vykdomas sprogmenų tranzitas, kompetentingų institucijų leidimus gabenti sprogmenis. 
+1. Šio straipsnio nuostatos taikomos sprogmenų gabenimo priežiūrai, kai sprogmenys yra importuojami į Lietuvos Respubliką, eksportuojami iš jos ar gabenami per ją tranzitu į Europos Sąjungos valstybes nares.
 
 
 
 
-3. Įmonė, registruota valstybėje Europos Sąjungos narėje, įsigydama sprogmenis Lietuvos Respublikoje ir juos eksportuodama į valstybę Europos Sąjungos narę, be šio straipsnio 2 dalyje nurodytų duomenų, turi pateikti Lietuvos Respublikos Vyriausybės įgaliotai valstybės institucijai valstybės, kurioje ji yra registruota, kompetentingos institucijos patvirtinimą, kad ši įmonė yra teisėtai įregistruota ir turi reikalingas licencijas ir leidimus verstis sprogmenų importu, eksportu ar prekyba. 
+2. Fizinis ar juridinis asmuo, eksportuojantis sprogmenis į Europos Sąjungos valstybę narę, turi pateikti Lietuvos Respublikos Vyriausybės įgaliotai valstybės institucijai valstybės, į kurią ji numato eksportuoti sprogmenis, kompetentingos institucijos sutikimą įvežti sprogmenis, ir valstybių, per kurias tranzitu bus gabenami sprogmenys, kompetentingų institucijų leidimus gabenti sprogmenis.
 
 
 
 
-4. Įmonė, eksportuojanti iš Lietuvos Respublikos sprogmenis į valstybę Europos Sąjungos narę, importuojanti juos iš valstybės Europos Sąjungos narės ar gabenanti per Lietuvos Respubliką tranzitu iš valstybės Europos Sąjungos narės į kitą valstybę narę, Lietuvos Respublikos Vyriausybės įgaliotai valstybės institucijai, be šio straipsnio 2 ir 3 dalyse nurodytų leidimų, turi nurodyti šiuos duomenis:
+3. Fizinis ar juridinis asmuo, eksportuojantis iš Lietuvos Respublikos sprogmenis į Europos Sąjungos valstybę narę, importuojantis juos iš Europos Sąjungos valstybės narės ar gabenantis per Lietuvos Respubliką tranzitu iš Europos Sąjungos valstybės narės į kitą valstybę narę, Ginklų fondui, be šio straipsnio 2 dalyje nurodytų dokumentų, turi nurodyti šiuos duomenis:
 
 
-1) sandoryje dalyvaujančių įmonių pavadinimus bei adresus. Ši informacija turi būti pakankamai išsami, kad būtų įmanoma susisiekti su šiomis įmonėmis ir gauti patvirtinimą, kad atitinkami asmenys teisėtai gauna konkrečią sprogmenų partiją;
+1) sandoryje dalyvaujančių fizinių ir juridinių asmenų rekvizitus. Ši informacija turi būti pakankamai išsami, kad būtų įmanoma susisiekti su šiais fiziniais ar juridiniais asmenimis ir gauti patvirtinimą, kad atitinkami asmenys teisėtai gauna konkrečią sprogmenų partiją;
 
 
 
@@ -809,17 +883,17 @@ Nr. IX-1965, 2004-01-20, Žin., 2004, Nr. 21-618 (2004-02-07), i. k. 1041010ISTA
 
 
 
-3) išsamų konkretaus sprogmens bei jo identifikavimo priemonių aprašymą, įskaitant Jungtinių Tautų Organizacijos identifikavimo kodą;
+3) išsamų konkretaus sprogmens ir jo identifikavimo priemonių aprašymą, įskaitant Jungtinių Tautų Organizacijos identifikavimo kodą;
 
 
 
 
-4) informaciją apie tai, kad sprogmuo atitinka reikalavimus, keliamus jo tiekimui į rinką (jei sprogmenis ketinama tiekti į Lietuvos rinką);
+4) informaciją apie tai, kad sprogmuo atitinka tiekimo rinkai reikalavimus (jeigu sprogmenis ketinama tiekti Lietuvos Respublikos rinkai);
 
 
 
 
-5) gabenimo būdus ir maršrutus;
+5) gabenimo būdus, priemones ir maršrutus;
 
 
 
@@ -836,15 +910,17 @@ Nr. IX-1965, 2004-01-20, Žin., 2004, Nr. 21-618 (2004-02-07), i. k. 1041010ISTA
 
 
 
-5. Lietuvos Respublikos Vyriausybės įgaliota valstybės institucija, išnagrinėjusi pateiktus duomenis ir sąlygas, kuriomis bus gabenami sprogmenys, išskirtinį dėmesį skirdama ypatingiems saugumo reikalavimams ir nustačiusi, kad yra pateikti visi reikiami duomenys, o saugumo reikalavimai yra patenkinti, išduoda leidimą gabenti, kuriame nurodomi šio straipsnio 4 dalyje išvardyti duomenys. Šis leidimas turi lydėti sprogmenis, kol jie pasieks paskyrimo vietą, ir turi būti pateikiamas to pareikalavus kompetentingoms institucijoms.
+4. Ginklų fondas, išnagrinėjęs pateiktus duomenis ir sąlygas, kuriomis gali būti gabenami sprogmenys, išskirtinį dėmesį skirdamas ypatingiems saugumo reikalavimams ir nustatęs, kad yra pateikti visi reikiami duomenys, o saugumo reikalavimai yra patenkinti, ne vėliau kaip per 15 kalendorinių dienų nuo visų dokumentų, reikalingų leidimui išduoti, pateikimo dienos išduoda leidimą išvežti iš Lietuvos Respublikos, įvežti į Lietuvos Respubliką, sprogmenis gabenti per Lietuvos Respubliką, kuriame nurodomi šio straipsnio 3 dalyje išvardyti duomenys. Šis leidimas turi lydėti sprogmenis, iki jie pasiekia paskyrimo vietą, ir turi būti pateikiamas kompetentingoms institucijoms jų pareikalavimu.
 
 
 
 
-6. Nė viena įmonė negali importuoti į Lietuvos Respublikos teritoriją, eksportuoti iš jos ar gabenti per ją tranzitu į valstybes Europos Sąjungos nares sprogmenų, kol negaus šiame straipsnyje nustatyta tvarka išduotų leidimų juos gabenti.
+5. Nė vienas fizinis ar juridinis asmuo negali importuoti į Lietuvos Respublikos teritoriją, eksportuoti iš jos ar gabenti per ją tranzitu į Europos Sąjungos valstybes nares sprogmenų, iki nėra gautas šiame straipsnyje nustatyta tvarka išduotas atitinkamas leidimas.
+
+
+Straipsnio pakeitimai:
+Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
  
-
-
 
 
 
@@ -852,7 +928,7 @@ Nr. IX-1965, 2004-01-20, Žin., 2004, Nr. 21-618 (2004-02-07), i. k. 1041010ISTA
 18 straipsnis. Prekyba sprogmenimis
 
 
-1. Įmonė, norinti pardavinėti sprogmenis, privalo turėti Vyriausybės įgaliotos institucijos išduotą licenciją.
+1. Fizinis ar juridinis asmuo, norintis prekiauti sprogmenimis, privalo turėti Ginklų fondo išduotą licenciją arba šio Įstatymo 11 straipsnio 3 dalyje nustatyta tvarka išduotą rašytinį sutikimą.
 
 
 
@@ -862,7 +938,7 @@ Nr. IX-1965, 2004-01-20, Žin., 2004, Nr. 21-618 (2004-02-07), i. k. 1041010ISTA
 
 
 
-3. Įmonės, prekiaujančios sprogmenimis, privalo:
+3. Fiziniai ir juridiniai asmenys, prekiaujantys sprogmenimis, privalo:
 
 
 1) turėti parduodamų sprogmenų dokumentus, kuriuose nurodyti jų techniniai duomenys;
@@ -875,20 +951,12 @@ Nr. IX-1965, 2004-01-20, Žin., 2004, Nr. 21-618 (2004-02-07), i. k. 1041010ISTA
 
 
 
-3) užtikrinti įsigyjamų ir parduodamų sprogmenų apskaitą, apsaugą, saugoti įsigijimo ir apskaitos dokumentus;
+3) registruoti sprogmenų pirkėjus Ginklų fondo nustatytos formos žurnale;
 
 
 
 
-4) registruoti sprogmenų pirkėjus nustatytos formos žurnale. Jo formą nustato licenciją išdavusi institucija;
-
-
-
-
-5) pateikti Ginklų fondui vieną kartą per ketvirtį duomenis apie visus parduotus sprogmenis pagal šios institucijos nustatytą formą.
-Straipsnio punkto pakeitimai:
-Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. 1101010ISTA00XI-647
- 
+4) pateikti Ginklų fondui vieną kartą per ketvirtį duomenis apie visus parduotus sprogmenis pagal šios institucijos nustatytą formą.
 
 
 
@@ -898,12 +966,12 @@ Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. 1101010ISTA0
 4. Draudžiama parduoti sprogmenis:
 
 
-1) fiziniams asmenims;
+1) fiziniams asmenims, kurie nesiverčia šio Įstatymo nustatyta licencijuojama veikla, išskyrus bedūmį paraką ir kapsules lygiavamzdžių ir graižtvinių šaunamųjų ginklų savininkams ir valdytojams, kurie gali įsigyti ir laikyti bedūmį paraką ir kapsules pagal Ginklų ir šaudmenų kontrolės įstatymo nuostatas;
 
 
 
 
-2) įmonėms, nepateikusioms dokumentų, patvirtinančių jų teisę įsigyti sprogmenis;
+2) fiziniams ir juridiniams asmenims, nepateikusiems licencijos prekiauti sprogmenimis ar licencijos naudoti sprogmenis;
 
 
 
@@ -920,35 +988,22 @@ Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. 1101010ISTA0
 
 
 
-5. Sprogmenis gali įsigyti:
-
-
-1) profesionalūs naudotojai;
+5. Sprogmenis gali įsigyti fiziniai ir juridiniai asmenys, turintys licencijas verstis šio Įstatymo 11 straipsnio 1 dalyje nurodyta veikla.
 
 
 
 
-2) įmonės, turinčios licencijas verstis veikla, nurodyta šio Įstatymo 11 straipsnio 1 dalies 1 ir 2 punktuose;
+6. Šio straipsnio 3 ir 4 dalių reikalavimai taip pat taikomi sprogmenų gamintojams, parduodantiems savo pagamintus sprogmenis.
 
 
 
 
-3) Krašto apsaugos ministerija, Vidaus reikalų ministerija, Valstybės saugumo departamentas ir jų valdymo sričiai priskirtos valstybės institucijos.
+7. Sprogmenų prekybos tarpininko veikla Lietuvoje draudžiama.
 
 
-
-
-
-
-6. Šio straipsnio 3 ir 4 dalių reikalavimai taip pat taikomi sprogmenų gamintojams, kurie verčiasi savo pagamintų sprogmenų prekyba.
-
-
-
-
-7. Sprogmenų prekybos tarpininko veikla Lietuvoje draudžiama. 
+Straipsnio pakeitimai:
+Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
  
-
-
 
 
 
@@ -956,15 +1011,17 @@ Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. 1101010ISTA0
 19 straipsnis. Sprogmenų naudojimas
 
 
-1. Profesionaliems naudotojams verstis sprogmenų naudojimu leidžiama tik nustatyta tvarka gavus Vyriausybės įgaliotos institucijos išduotą licenciją.
+1. Profesionaliems naudotojams verstis sprogmenų naudojimu leidžiama tik šio Įstatymo nustatyta tvarka gavus licenciją iš Ginklų fondo arba šio Įstatymo 11 straipsnio 3 dalyje nustatyta tvarka gavus rašytinį sutikimą.
 
 
 
 
 2. Licencija verstis sprogmenų naudojimu suteikia teisę įsigyti, laikyti, saugoti, gabenti ir naudoti sprogmenis.
+
+
+Straipsnio pakeitimai:
+Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
  
-
-
 
 
 
@@ -1307,3 +1364,8 @@ Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo 1, 2, 9, 13, 14, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. 1101010ISTA00XI-647
 Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo 9, 13, 18, 25 ir 26 straipsnių pakeitimo ir Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo 1, 2, 9, 13, 14, 18, 23 straipsnių ir įstatymo priedo pakeitimo ir papildymo įstatymo 3 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
+Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo 2, 11, 12, 13, 17, 18, 19 straipsnių pakeitimo ir papildymo įstatymas
