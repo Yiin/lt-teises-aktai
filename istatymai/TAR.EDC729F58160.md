@@ -21,6 +21,10 @@ ATSAKOMYBĖS BENDROVIŲ JUNGIMOSI ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2010-10-01 iki 2011-07-04
+ 
+Įstatymas paskelbtas: Žin. 2007, Nr. 140-5747, i. k. 1071010ISTA00X-1367
+ 
 LIETUVOS RESPUBLIKOS VIENOS VALSTYBĖS RIBAS PERŽENGIANČIO RIBOTOS ATSAKOMYBĖS BENDROVIŲ JUNGIMOSI  ĮSTATYMAS
  
 2007 m. gruodžio 13 d. Nr. X-1367
@@ -57,12 +61,26 @@ Vilnius
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Valstybė narė – Europos Sąjungos valstybė narė, taip pat Europos ekonominei erdvei priklausanti valstybė.
+1. Įstatuose nurodytas šaltinis – kaip tai apibrėžta Lietuvos Respublikos akcinių bendrovių įstatyme. 
+Papildyta straipsnio dalimi:
+Nr. XI-567, 2009-12-15, Žin., 2009, Nr. 154-6948 (2009-12-28), i. k. 1091010ISTA00XI-567
+ 
 
 
 
 
-2. Ribotos atsakomybės bendrovė (toliau – bendrovė):
+2. Valstybė narė – Europos Sąjungos valstybė narė, taip pat Europos ekonominei erdvei priklausanti valstybė. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-567, 2009-12-15, Žin., 2009, Nr. 154-6948 (2009-12-28), i. k. 1091010ISTA00XI-567
+ 
+
+
+
+
+3. Ribotos atsakomybės bendrovė (toliau – bendrovė):
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-567, 2009-12-15, Žin., 2009, Nr. 154-6948 (2009-12-28), i. k. 1091010ISTA00XI-567
+ 
 
 
 1) akcinė bendrovė, uždaroji akcinė bendrovė ar pagal kitų valstybių narių teisę įsteigta bendrovė, nurodyta 1968 m. kovo 9 d. Pirmosios Tarybos direktyvos 68/15 l/EEB dėl apsaugos priemonių, kurių valstybės narės, siekdamos suvienodinti tokias apsaugos priemones visoje Bendrijoje, reikalauja iš Sutarties 58 straipsnio antroje pastraipoje apibrėžtų bendrovių, jų narių ir kitų interesų apsaugai, koordinavimo (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 3) 1 straipsnyje, arba
@@ -77,12 +95,18 @@ Vilnius
 
 
 
-3. Bendrovės dalyvis – fizinis ar juridinis asmuo, kuris, vadovaujantis vienos iš valstybių narių teise, yra bendrovės vertybinių popierių ar dalių, išreiškiančių bendrovės kapitalą, savininkas.
+4. Bendrovės dalyvis – fizinis ar juridinis asmuo, kuris, vadovaujantis vienos iš valstybių narių teise, yra bendrovės vertybinių popierių ar dalių, išreiškiančių bendrovės kapitalą, savininkas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-567, 2009-12-15, Žin., 2009, Nr. 154-6948 (2009-12-28), i. k. 1091010ISTA00XI-567
+ 
 
 
 
 
-4. Vienos valstybės ribas peržengiantis bendrovių jungimasis (toliau – jungimasis) – veiksmas, kuriuo:
+5. Vienos valstybės ribas peržengiantis bendrovių jungimasis (toliau – jungimasis) – veiksmas, kuriuo:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-567, 2009-12-15, Žin., 2009, Nr. 154-6948 (2009-12-28), i. k. 1091010ISTA00XI-567
+ 
 
 
 1) viena ar kelios bendrovės, baigiančios savo veiklą be likvidavimo procedūros, (įsigyjamos bendrovės) prijungiamos prie kitos veikiančios bendrovės (įsigyjančios bendrovės), kuriai pereina visas įsigyjamų bendrovių turtas ir įsipareigojimai;
@@ -96,7 +120,6 @@ Vilnius
 
 
 3) viena ar kelios bendrovės, baigiančios savo veiklą be likvidavimo procedūros, (įsigyjamos bendrovės) prijungiamos prie kitos veikiančios bendrovės (įsigyjančios bendrovės), kuri turi visus įsigyjamų bendrovių vertybinius popierius ar dalis, išreiškiančias įsigyjamų bendrovių kapitalą, ir kuriai pereina visas įsigyjamų bendrovių turtas ir įsipareigojimai.
- 
 
 
 
@@ -251,20 +274,26 @@ Vilnius
 6 straipsnis. Informavimas apie jungimąsi
 
 
-1. Kiekviena besijungianti akcinė bendrovė ar uždaroji akcinė bendrovė apie parengtas jungimosi sąlygas turi viešai paskelbti įstatuose nurodytame dienraštyje tris kartus ne mažesniais kaip 30 dienų intervalais arba ne vėliau kaip likus 40 dienų iki visuotinio akcininkų susirinkimo, kurio darbotvarkėje numatyta priimti sprendimą dėl jungimosi, viešai paskelbti įstatuose nurodytame dienraštyje vieną kartą ir pranešti visiems bendrovės kreditoriams raštu. Skelbimui ar pranešimui mutatis mutandis taikomi Lietuvos Respublikos akcinių bendrovių įstatyme nustatyti skelbimo ar pranešimo apie numatomą reorganizavimą turinio reikalavimai.
+1. Kiekviena besijungianti akcinė bendrovė ar uždaroji akcinė bendrovė apie parengtas jungimosi sąlygas turi viešai paskelbti įstatuose nurodytame šaltinyje tris kartus ne mažesniais kaip 30 dienų intervalais arba ne vėliau kaip likus 40 dienų iki visuotinio akcininkų susirinkimo, kurio darbotvarkėje numatyta priimti sprendimą dėl jungimosi, viešai paskelbti įstatuose nurodytame šaltinyje vieną kartą ir pranešti visiems bendrovės kreditoriams raštu. Skelbimui ar pranešimui mutatis mutandis taikomi Lietuvos Respublikos akcinių bendrovių įstatyme nustatyti skelbimo ar pranešimo apie numatomą reorganizavimą turinio reikalavimai. 
+Straipsnio dalies pakeitimai:
+Nr. XI-567, 2009-12-15, Žin., 2009, Nr. 154-6948 (2009-12-28), i. k. 1091010ISTA00XI-567
+ 
 
 
 
 
-2. Nuo viešo paskelbimo apie jungimosi sąlygų parengimą įstatuose nurodytame dienraštyje dienos akcinė bendrovė ar uždaroji akcinė bendrovė, kuri po jungimosi pasibaigia, įgyja jungiamos, peržengiant vienos valstybės ribas, akcinės bendrovės ar uždarosios akcinės bendrovės statusą, o akcinė bendrovė ar uždaroji akcinė bendrovė, kuri po jungimosi tęsia veiklą, – dalyvaujančios vienos valstybės ribas peržengiančiame jungimesi akcinės bendrovės ar uždarosios akcinės bendrovės statusą.
+2. Nuo viešo paskelbimo apie jungimosi sąlygų parengimą įstatuose nurodytame šaltinyje dienos akcinė bendrovė ar uždaroji akcinė bendrovė, kuri po jungimosi pasibaigia, įgyja jungiamos, peržengiant vienos valstybės ribas, akcinės bendrovės ar uždarosios akcinės bendrovės statusą, o akcinė bendrovė ar uždaroji akcinė bendrovė, kuri po jungimosi tęsia veiklą, – dalyvaujančios vienos valstybės ribas peržengiančiame jungimesi akcinės bendrovės ar uždarosios akcinės bendrovės statusą. 
+Straipsnio dalies pakeitimai:
+Nr. XI-567, 2009-12-15, Žin., 2009, Nr. 154-6948 (2009-12-28), i. k. 1091010ISTA00XI-567
+ 
 
 
 
 
-3. Ne vėliau kaip pirmą viešo paskelbimo apie jungimosi sąlygų parengimą dieną įstatuose nurodytame dienraštyje jungimosi sąlygos kartu su po jungimosi veiksiančios bendrovės įstatais, jungimosi sąlygų vertinimo ataskaita ir jungimosi ataskaita turi būti pateiktos juridinių asmenų registro tvarkytojui. Kiekviena besijungianti akcinė bendrovė ar uždaroji akcinė bendrovė juridinių asmenų registro tvarkytojui taip pat pateikia ir informaciją apie:
+3. Ne vėliau kaip pirmą viešo paskelbimo apie jungimosi sąlygų parengimą dieną įstatuose nurodytame šaltinyje jungimosi sąlygos kartu su po jungimosi veiksiančios bendrovės įstatais, jungimosi sąlygų vertinimo ataskaita ir jungimosi ataskaita turi būti pateiktos juridinių asmenų registro tvarkytojui. Kiekviena besijungianti akcinė bendrovė ar uždaroji akcinė bendrovė juridinių asmenų registro tvarkytojui taip pat pateikia ir informaciją apie:
 
 
-1) registrus, kuriuose kaupiami kiekvienos besijungiančios bendrovės duomenys, nurodyti 1968 m. kovo 9 d. Pirmosios Tarybos direktyvos 68/151/EEB dėl apsaugos priemonių, kurių valstybės narės, siekdamos suvienodinti tokias apsaugos priemones visoje Bendrijoje, reikalauja iš Sutarties 58 straipsnio antroje pastraipoje apibrėžtų bendrovių jų narių ir kitų interesų apsaugai, koordinavimo 3 straipsnio 2 dalies nuostatas įgyvendinančiuose atitinkamų valstybių narių teisės aktuose, bei šių bendrovių registravimo numerius tuose registruose;
+1) registrus, kuriuose kaupiami kiekvienos besijungiančios bendrovės duomenys, nurodyti 1968 m. kovo 9 d. Pirmosios Tarybos direktyvos 68/151/EEB dėl apsaugos priemonių, kurių valstybės narės, siekdamos suvienodinti tokias apsaugos priemones visoje Bendrijoje, reikalauja iš Sutarties 58 straipsnio antroje pastraipoje apibrėžtų bendrovių, jų narių ir kitų interesų apsaugai, koordinavimo 3 straipsnio 2 dalies nuostatas įgyvendinančiuose atitinkamų valstybių narių teisės aktuose, bei šių bendrovių registravimo numerius tuose registruose;
 
 
 
@@ -272,6 +301,9 @@ Vilnius
 2) priemones, kurių besijungiančios bendrovės ėmėsi siekdamos įvykdyti ar papildomai užtikrinti prievoles kreditoriams, užtikrinti tokių bendrovių dalyvių mažumos teisių įgyvendinimą, taip pat kur ir kada galima neatlygintinai gauti visą su minėtomis priemonėmis susijusią informaciją.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XI-567, 2009-12-15, Žin., 2009, Nr. 154-6948 (2009-12-28), i. k. 1091010ISTA00XI-567
+ 
 
 
 
@@ -488,3 +520,13 @@ priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 2005 m. spalio 26 d. Europos Parlamento ir Tarybos direktyva 2005/56/EB dėl ribotos atsakomybės bendrovių jungimųsi, peržengiančių vienos valstybės ribas (OL 2005 L 310, p. 1).
+ 
+ 
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-567, 2009-12-15, Žin., 2009, Nr. 154-6948 (2009-12-28), i. k. 1091010ISTA00XI-567
+Lietuvos Respublikos vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi įstatymo 2, 6 straipsnių papildymo ir pakeitimo įstatymas
