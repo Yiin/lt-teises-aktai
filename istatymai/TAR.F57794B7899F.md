@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2010-01-01 iki 2010-10-01
+Suvestinė redakcija nuo 2010-10-02 iki 2012-02-06
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -2157,11 +2157,19 @@ Nr. XI-345, 2009-07-15, Žin., 2009, Nr. 91-3912 (2009-07-31), i. k. 1091010ISTA
 
 
 3. Konkurencijos priežiūrą elektros energijos rinkoje atlieka Komisija, išskyrus antikonkurencinių susitarimų ir koncentracijų atvejus, kai konkurencijos priežiūrą pagal Konkurencijos įstatymą atlieka Konkurencijos taryba.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos elektros energetikos įstatymo (2004 m. liepos 1 d. redakcija; Žin., 2004, Nr. 107-3964) 42 straipsnio 3 dalis tiek, kiek joje nėra įtvirtinti vartotojų įrenginių prijungimo prie tinklų įkainių nustatymo kriterijai, kuriais turėtų vadovautis Valstybinė kainų ir energetikos kontrolės komisija tvirtindama vartotojų įrenginių prijungimo prie tinklų įkainius, prieštarauja Lietuvos Respublikos Konstitucijos 46 straipsnio 3, 5 dalims, konstituciniam teisinės valstybės principui
+Straipsnio dalies pakeitimai:
+2010-09-29, Žin., 2010, Nr. 117-5967 (2010-10-02), i. k. 1101000NUTARG108199            
+ 
 
 
 
 
 4. Rinkos operatorius pagal Prekybos elektros energija taisykles atlieka elektros energijos prekybos priežiūrą.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos elektros energetikos įstatymo (2004 m. liepos 1 d. redakcija; Žin., 2004, Nr. 107-3964) 42 straipsnio 4 dalis (2009 m. liepos 15 d. redakcija; Žin., 2009, Nr. 91-3912) tiek, kiek joje nėra nustatyti kriterijai, kuriais vadovaujantis nustatomas skirstomųjų tinklų operatorių, vykdančių vartotojų įrenginių prijungimo paslaugą, būtinų sąnaudų dydis, prieštarauja Lietuvos Respublikos Konstitucijos 46 straipsnio 3, 5 dalims, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+2010-09-29, Žin., 2010, Nr. 117-5967 (2010-10-02), i. k. 1101000NUTARG108199            
+ 
 
 
 
@@ -2642,3 +2650,8 @@ Lietuvos Respublikos elektros energetikos įstatymo 42, 44 straipsnių papildymo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-641, 2009-12-22, Žin., 2009, Nr. 154-6962 (2009-12-28), i. k. 1091010ISTA00XI-641
 Lietuvos Respublikos elektros energetikos įstatymo 2, 5, 6, 10, 14, 22, 23, 24, 25, 28, 32, 36, 38, 39, 41, 43, 44, 45 straipsnių pakeitimo ir Įstatymo papildymo 42-1 straipsniu įstatymas
+ 
+8.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+2010-09-29, Žin., 2010, Nr. 117-5967 (2010-10-02), i. k. 1101000NUTARG108199                
+Dėl Lietuvos Respublikos elektros energetikos įstatymo pakeitimo įstatymo, Lietuvos Respublikos elektros energetikos įstatymo (2004 m. liepos 1 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai
