@@ -174,9 +174,17 @@ komisija, prieš išduodama licenciją organizuoti lošimus, turi gauti Valstyb�
 saugumo departamento, Specialiųjų tyrimų tarnybos, Finansinių nusikaltimų
 tyrimo tarnybos prie Vidaus reikalų ministerijos bei Policijos departamento
 prie Vidaus reikalų ministerijos išvadas.
+2 dalies redakcija nuo 2011 m. sausio 1 d.:
+2. Priežiūros
+komisija, prieš išduodama licenciją organizuoti lošimus, turi gauti Valstybės
+saugumo departamento, Finansinių nusikaltimų tyrimo tarnybos prie Vidaus
+reikalų ministerijos bei Policijos departamento prie Vidaus reikalų
+ministerijos išvadas.
 Straipsnio pakeitimai:
 Nr. IX-1698,
 2003-07-04, Žin., 2003, Nr. 74-3419 (2003-07-25)
+Nr. XI-1015,
+2010-09-21, Žin., 2010, Nr. 118-5990 (2010-10-02)
  
 5 straipsnis. Licencijų organizuoti lošimus rūšys
 1.
@@ -309,8 +317,8 @@ Draudžiama eksploatuoti neturinčius sertifikato ir nepaženklintus lošimų
 įrenginius, kaip tai numatyta šio įstatymo 16 straipsnio 1, 5 ir 6 dalyse.
 8. Draudžiama naudoti lošimų įrenginius kitais ne su
 azartinių lošimų organizavimu susijusiais tikslais, išskyrus personalo rengimą
-darbui su lošimo įrenginiais, kai mokymo organizatorius turi Vyriausybės
-įgaliotos institucijos išduotą licenciją mokyti.
+darbui su lošimo įrenginiais, kai mokymo organizatorius turi Vyriausybės įgaliotos
+institucijos išduotą licenciją mokyti.
 9.
 Lietuvos Respublikos teritorijoje draudžiama reklamuoti azartinius lošimus,
 išskyrus azartinius lošimus organizuojančių bendrovių, lošimo namų (kazino),
@@ -339,7 +347,8 @@ Lošimus organizuojančiai bendrovei draudžiama gaminti, taip pat rinkti iš da
 lošimo įrenginius, juos remontuoti, kurti naujas ar keisti esamas lošimo
 algoritmo programas.
 14.
-Lošimus organizuojančiai bendrovei draudžiama būti kitų įmonių steigėja ir akcininke.
+Lošimus organizuojančiai bendrovei draudžiama būti kitų įmonių steigėja ir
+akcininke.
 15.
 Licencija organizuoti lošimus negali būti parduota arba kitu būdu perleista
 kitoms bendrovėms.
@@ -369,8 +378,8 @@ Lošimus organizuojančios bendrovės steigėjais (akcininkais), taip pat juos
 kontroliuojančiais asmenimis, lošimus organizuojančios bendrovės stebėtojų
 tarybos, valdybos nariais ir administracijos vadovais, jų pavaduotojais,
 vyriausiaisiais finansininkais, lošimo namų (kazino), bingo, automatų salonų
-administracijos vadovais, jų pavaduotojais, vyriausiaisiais finansininkais,
-lošėjus aptarnaujančio personalo ir Priežiūros komisijos nariais bei valstybės
+administracijos vadovais, jų pavaduotojais, vyriausiaisiais finansininkais, lošėjus
+aptarnaujančio personalo ir Priežiūros komisijos nariais bei valstybės
 tarnautojais ir darbuotojais negali būti asmenys, dėl kurių pačių ar jų
 artimųjų giminaičių bei šeimos narių yra atliekamas operatyvinis tyrimas dėl
 neteisėto lošimo namų (kazino) laikymo ar lošimų organizavimo arba priklausymo
@@ -452,8 +461,8 @@ bendrovėms, organizuojančioms bingą, totalizatorių, lažybas, žirgų
 totalizatorių - ne
 mažiau kaip 25 proc. minimalaus reikalaujamo įstatinio kapitalo sumos.
 Straipsnio pakeitimai:
-Nr. IX-995,
-2002-06-27, Žin., 2002, Nr. 72-3010 (2002-07-17)
+Nr. IX-995, 2002-06-27,
+Žin., 2002, Nr. 72-3010 (2002-07-17)
 Nr.
 IX-1948,
 2003-12-23, Žin., 2004, Nr. 4-49 (2004-01-07)
@@ -641,8 +650,8 @@ pakeitimai:
 Nr. IX-412,
 2001-06-28, Žin., 2001, Nr. 56-1984 (2001-06-30),
 Nr.
-IX-1418, 2003-04-03,
-Žin., 2003, Nr. 38-1663 (2003-04-24)
+IX-1418,
+2003-04-03, Žin., 2003, Nr. 38-1663 (2003-04-24)
 Nr.
 IX-1843,
 2003-11-25, Žin., 2003, Nr. 116-5249 (2003-12-12)
@@ -719,22 +728,22 @@ Leidime atidaryti automatų ar bingo saloną arba lošimo namus (kazino) nurodom
 lošimus organizuojančios bendrovės pavadinimas, kodas, buveinės adresas,
 telefono numeris, lošimų organizavimo vietos adresas, organizuojamų lošimų
 rūšys, lošimo įrenginių skaičius, leidimo išdavimo data.
-8. Priežiūros komisija, išdavusi licenciją organizuoti lošimus
-ir leidimą atidaryti automatų ar bingo saloną arba lošimo namus (kazino), per 5
-darbo dienas nuo licencijos (leidimo) išdavimo praneša Finansinių nusikaltimų
-tyrimo tarnybai prie Vidaus reikalų ministerijos, teritorinėms valstybinėms
-mokesčių inspekcijoms ir teritorinėms policijos įstaigoms, kurių teritorijoje
-bus organizuojami lošimai, bendrovės, kuriai išduota licencija (leidimas),
-pavadinimą, kodą, buveinės adresą, telefono ir fakso numerius, licencijos rūšį,
-numerį, leidimo numerį, lošimų organizavimo adresą, organizuojamų lošimų rūšis,
-lošimo įrenginių skaičių.
+8. Priežiūros komisija, išdavusi licenciją organizuoti
+lošimus ir leidimą atidaryti automatų ar bingo saloną arba lošimo namus (kazino),
+per 5 darbo dienas nuo licencijos (leidimo) išdavimo praneša Finansinių
+nusikaltimų tyrimo tarnybai prie Vidaus reikalų ministerijos, teritorinėms
+valstybinėms mokesčių inspekcijoms ir teritorinėms policijos įstaigoms, kurių
+teritorijoje bus organizuojami lošimai, bendrovės, kuriai išduota licencija
+(leidimas), pavadinimą, kodą, buveinės adresą, telefono ir fakso numerius,
+licencijos rūšį, numerį, leidimo numerį, lošimų organizavimo adresą,
+organizuojamų lošimų rūšis, lošimo įrenginių skaičių.
 9.
 Leidimas atidaryti automatų ar bingo saloną arba lošimo namus (kazino)
 išduodamas sumokėjus nustatyto dydžio valstybės rinkliavą ir galioja
 neterminuotą laiką.
 Straipsnio pakeitimai:
-Nr. IX-995,
-2002-06-27, Žin., 2002, Nr. 72-3010 (2002-07-17)
+Nr. IX-995, 2002-06-27,
+Žin., 2002, Nr. 72-3010 (2002-07-17)
 Nr. IX-1193,
 2002-11-12, Žin., 2002, Nr. 116-5191 (2002-12-06)
  
@@ -816,8 +825,8 @@ Nr. IX-1193,
 atidaryti automatų ar bingo saloną arba lošimo namus 
 (kazino) galiojimo panaikinimas
 1.
-Leidimo atidaryti automatų ar bingo saloną arba lošimo namus (kazino)
-galiojimas panaikinamas, jeigu:
+Leidimo atidaryti automatų ar bingo saloną arba lošimo namus (kazino) galiojimas
+panaikinamas, jeigu:
 1)
 to prašo leidimą turinti bendrovė;
 2)
@@ -864,13 +873,13 @@ organizuojančių subjektų veiklą prižiūri ir kontroliuoja Priežiūros komi
 Priežiūros komisiją sudaro 6 asmenys, iš kurių po 2 asmenis penkeriems metams
 skiria ir iš jos atleidžia Respublikos Prezidentas, Seimo
 Pirmininkas ir Ministras Pirmininkas.
-2. Tas pats
-asmuo Priežiūros komisijos nariu gali būti skiriamas ne daugiau kaip 2
-kadencijoms iš eilės. Priežiūros komisijos pirmininką penkeriems metams
-komisijos nariai išsirenka iš savo tarpo. Priežiūros komisijos pirmininkas
-vieną Priežiūros komisijos narį skiria pirmininko pavaduotoju ir vieną –
-Priežiūros komisijos sekretoriumi. Priežiūros komisijos pirmininkas ir nariai
-privalo būti Lietuvos Respublikos piliečiai.
+2. Tas pats asmuo
+Priežiūros komisijos nariu gali būti skiriamas ne daugiau kaip 2 kadencijoms iš
+eilės. Priežiūros komisijos pirmininką penkeriems metams komisijos
+nariai išsirenka iš savo tarpo. Priežiūros komisijos pirmininkas vieną
+Priežiūros komisijos narį skiria pirmininko pavaduotoju ir vieną – Priežiūros
+komisijos sekretoriumi. Priežiūros komisijos pirmininkas ir nariai privalo būti
+Lietuvos Respublikos piliečiai.
 3. Pasibaigus
 įgaliojimų laikui, Priežiūros komisijos nariai savo pareigas eina tol, kol bus
 paskirti nauji nariai.
@@ -899,14 +908,13 @@ komisijos narys pareigas gali eiti tik Priežiūros komisijoje, taip pat dirbti
 mokslinį arba pedagoginį darbą.
 7. Priežiūros komisijos nariai yra skatinami, atsako, jiems teikiamos
 socialinės bei kitos garantijos Lietuvos Respublikos darbo kodekso ir kitų
-teisės aktų nustatyta tvarka. Priežiūros komisijos nariams už darbą mokama Lietuvos
-Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo
-nustatyta tvarka.
+teisės aktų nustatyta tvarka. Priežiūros komisijos nariams už darbą mokama
+Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo
+įstatymo nustatyta tvarka.
 8. Priežiūros
 komisijos funkcijoms atlikti sudaroma valstybės tarnautojų ir darbuotojų
 administracija. Jos struktūrą ir pareigybių sąrašą, neviršydamas lėšų,
-patvirtintų darbo užmokesčiui, tvirtina Priežiūros komisijos
-pirmininkas.
+patvirtintų darbo užmokesčiui, tvirtina Priežiūros komisijos pirmininkas.
 9. Priežiūros
 komisijos nuostatus tvirtina Vyriausybė.
 10.
@@ -1034,7 +1042,7 @@ RESPUBLIKOS
 PREZIDENTAS                                                           VALDAS
 ADAMKUS
  
-______________________
+________________
  
 Pakeitimai:
  
@@ -1048,15 +1056,15 @@ IR PAPILDYMO ĮSTATYMAS
 įstatymas įsigalioja nuo 2001 m. liepos 1 d.
  
 2.
-Lietuvos Respublikos
-Seimas, Įstatymas
+Lietuvos Respublikos Seimas,
+Įstatymas
 Nr. IX-995,
 2002-06-27, Žin., 2002, Nr. 72-3010 (2002-07-17)
 AZARTINIŲ LOŠIMŲ ĮSTATYMO
 2, 3, 5, 10, 12, 13, 14, 15, 16, 19, 21 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 ĮSTATYMAS
-Šis
-Įstatymas įsigalioja nuo 2002 m. rugsėjo 1 d.
+Šis Įstatymas
+įsigalioja nuo 2002 m. rugsėjo 1 d.
 Bendrovės, gavusios licencijas ir leidimus
 atidaryti automatų ir bingo salonus, lošimo namus (kazino) pagal Azartinių
 lošimų įstatymą, galiojusį iki šio Įstatymo įsigaliojimo, savo veiklą pagal šį
@@ -1099,8 +1107,8 @@ LOŠIMŲ ĮSTATYMO 11, 15 IR 20 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 6.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. IX-1698,
-2003-07-04, Žin., 2003, Nr. 74-3419 (2003-07-25)
+Nr. IX-1698, 2003-07-04,
+Žin., 2003, Nr. 74-3419 (2003-07-25)
 AZARTINIŲ LOŠIMŲ ĮSTATYMO 4, 6,
 11, 26 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
@@ -1108,8 +1116,8 @@ AZARTINIŲ LOŠIMŲ ĮSTATYMO 4, 6,
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1843,
-2003-11-25, Žin., 2003, Nr. 116-5249 (2003-12-12)
+IX-1843, 2003-11-25,
+Žin., 2003, Nr. 116-5249 (2003-12-12)
 AZARTINIŲ
 LOŠIMŲ ĮSTATYMO 10, 20 IR 29 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
@@ -1146,11 +1154,20 @@ X-1783,
 AZARTINIŲ
 LOŠIMŲ ĮSTATYMO 26 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
-***
-Pabaiga ***
+11.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. XI-1015,
+2010-09-21, Žin., 2010, Nr. 118-5990 (2010-10-02)
+AZARTINIŲ LOŠIMŲ ĮSTATYMO 4
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis įstatymas, išskyrus šio straipsnio 2 dalį,
+įsigalioja 2011 m. sausio 1 d.
+ 
+*** Pabaiga ***
  
  
-Redagavo
-Aušrinė Trapinskienė (2008-11-19)
+Redagavo Aušrinė Trapinskienė
+(2010-10-06)
                  
 autrap@lrs.lt
