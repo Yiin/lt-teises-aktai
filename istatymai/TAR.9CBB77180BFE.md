@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9CBB77180BFE"
 
 # Lietuvos Respublikos priešgaisrinės saugos įstatymas
 
-Suvestinė redakcija nuo 2010-03-01 iki 2010-10-01
+Suvestinė redakcija nuo 2010-10-02 iki 2010-11-22
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 123-5518, i. k. 1021010ISTA0IX-1225
  
@@ -680,6 +680,9 @@ Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00X
 
 
 
+7. Neteko galios nuo 2010-10-02
+Straipsnio dalies naikinimas:
+Nr. XI-1018, 2010-09-21, Žin. 2010, Nr. 118-5992 (2010-10-02), i. k. 1101010ISTA0XI-1018
 Straipsnio dalies pakeitimai:
 Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00XI-623
  
@@ -774,6 +777,14 @@ Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00X
 
 
 2) kontroliuojant, kaip įgyvendinti projektiniai ir techniniai sprendimai atitinka priešgaisrinę saugą reglamentuojančių teisės aktų reikalavimus, užtikrinančius objektų ir juose dirbančių arba esančių žmonių apsaugą nuo gaisrų;
+
+
+
+
+3) Neteko galios nuo 2010-10-02
+Straipsnio punkto naikinimas:
+Nr. XI-1018, 2010-09-21, Žin. 2010, Nr. 118-5992 (2010-10-02), i. k. 1101010ISTA0XI-1018
+ 
 
 
 
