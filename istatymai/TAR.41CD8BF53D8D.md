@@ -275,7 +275,8 @@ X-1277,
 Nr. X-1491,
 2008-04-15, Žin., 2008, Nr. 50-1840 (2008-04-30)
 Nr.
-X-1811, 2008-11-13, Žin., 2008, Nr. 135-5242 (2008-11-25)
+X-1811, 2008-11-13,
+Žin., 2008, Nr. 135-5242 (2008-11-25)
  
 61 straipsnis.
 Atleidimas nuo valstybės rinkliavos, kai yra sumokėtas konsulinis mokestis
@@ -311,10 +312,11 @@ Nr. X-1491,
 7 straipsnis. Valstybės
 rinkliavos lengvatos
 1. Valstybės
-rinkliavos už paso išdavimą, keitimą bendra tvarka Lietuvos Respublikos
-piliečiams, kuriems nesukako 18 metų, taip pat kuriems sukako senatvės pensijos
-amžius, nustatytas Lietuvos Respublikos valstybinių socialinio draudimo pensijų
-įstatyme, dydis sumažinamas 50 procentų.
+rinkliavos už paso, asmens tapatybės kortelės išdavimą, keitimą bendra tvarka
+Lietuvos Respublikos piliečiams, kuriems nesukako 18 metų, taip pat kuriems
+sukako senatvės pensijos amžius, nustatytas Lietuvos Respublikos valstybinių
+socialinio draudimo pensijų įstatyme, dydis sumažinamas 50 procentų jų
+pasirinkimu tik už vieno iš šių dokumentų išdavimą, keitimą bendra tvarka.
 2. Savivaldybės
 taryba turi teisę savo biudžeto sąskaita paskiriems valstybės rinkliavos
 mokėtojams sumažinti valstybės rinkliavos dydį arba iš viso nuo jos atleisti
@@ -325,6 +327,8 @@ X-1277,
 2007-09-18, Žin., 2007, Nr. 101-4107 (2007-09-27)
 Nr. X-1491,
 2008-04-15, Žin., 2008, Nr. 50-1840 (2008-04-30)
+Nr. XI-1061,
+2010-10-12, Žin., 2010, Nr. 125-6384 (2010-10-23)
  
 8
 straipsnis. Valstybės rinkliavos keitimas ar panaikinimas pariteto pagrindais
@@ -349,8 +353,8 @@ straipsnis. Valstybės rinkliavos grąžinimas
 valstybės rinkliava arba jos dalis grąžinama šiais atvejais:
 1) kai sumokėta
 daugiau negu Vyriausybės nustatytas rinkliavos dydis;
-2) jeigu paslaugos
-nesuteikiamos.
+2) jeigu
+paslaugos nesuteikiamos.
 2. Valstybės
 rinkliava grąžinama, jeigu prašymas dėl jos grąžinimo vietos mokesčio
 administratoriui pateiktas per Mokesčių administravimo įstatyme nustatytą
@@ -358,7 +362,8 @@ terminą.
 3. Valstybės
 rinkliavos grąžinimo tvarką nustato Vyriausybė.
  
-III SKYRIUS
+III
+SKYRIUS
 VIETINĖS
 RINKLIAVOS
  
@@ -629,8 +634,8 @@ RINKLIAVŲ
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-1301,
-2007-10-18, Žin., 2007, Nr. 114-4632 (2007-11-08)
+X-1301, 2007-10-18,
+Žin., 2007, Nr. 114-4632 (2007-11-08)
 RINKLIAVŲ
 ĮSTATYMO PAPILDYMO 6(1) STRAIPSNIU ĮSTATYMAS
 Šis
@@ -648,15 +653,23 @@ STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-1811, 2008-11-13, Žin., 2008, Nr. 135-5242 (2008-11-25)
+X-1811, 2008-11-13,
+Žin., 2008, Nr. 135-5242 (2008-11-25)
 RINKLIAVŲ
 ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
-***
-Pabaiga ***
+14.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. XI-1061,
+2010-10-12, Žin., 2010, Nr. 125-6384 (2010-10-23)
+RINKLIAVŲ ĮSTATYMO 7 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+ 
+*** Pabaiga ***
  
  
-Redagavo
-Aušrinė Trapinskienė (2008-11-25)
+Redagavo Aušrinė Trapinskienė
+(2010-10-25)
                  
 autrap@lrs.lt
