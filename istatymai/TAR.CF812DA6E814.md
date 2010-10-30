@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CF812DA6E814"
 
 # Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatymas
 
-Suvestinė redakcija nuo 2010-09-15 iki 2010-10-29
+Suvestinė redakcija nuo 2010-10-30 iki 2011-05-14
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 135-4894, i. k. 1041010ISTA0IX-2428
+ 
+TAR pastaba. Įstatymas Nr. XI-1071 netaikomas politinėms kampanijoms, prasidėjusioms iki šio įstatymo įsigaliojimo (2010-10-30)
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1071, 2010-10-26, Žin., 2010, Nr. 128-6524 (2010-10-30), i. k. 1101010ISTA0XI-1071
+Lietuvos Respublikos politinių partijų ir politinių kampanijų finansavimo bei finansavimo kontrolės įstatymo 5 ir 17 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2010-09-15:
 Nr. XI-813, 2010-05-18, Žin. 2010, Nr. 63-3091 (2010-05-31), i. k. 1101010ISTA00XI-813
@@ -130,7 +135,10 @@ BENDROSIOS NUOSTATOS
 
 5 straipsnis. Fizinio asmens ar politinės partijos įregistravimas savarankišku politinės kampanijos dalyviu
 
-1. Prasidėjus politinės kampanijos laikotarpiui, šio įstatymo 3 straipsnio 2 ir 3 dalyse nurodyti fiziniai asmenys ir politinės partijos ne vėliau kaip iki pareiškinių dokumentų pateikimo dienos turi teisę kreiptis į Vyriausiąją rinkimų komisiją registruoti juos savarankiškais politinės kampanijos dalyviais. 
+1. Vyriausioji rinkimų komisija šio įstatymo 3 straipsnio 2 ir 3 dalyse nurodytų fizinių asmenų ir politinių partijų prašymus registruoti savarankiškais politinės kampanijos dalyviais priimti pradeda prasidėjus politinės kampanijos laikotarpiui ir priimti baigia tą dieną (įskaitytinai), kurią pagal atitinkamus įstatymus pradedamas pareiškinių dokumentų įteikimas. Bet kuriuo atveju terminas, per kurį šie asmenys turi teisę kreiptis į Vyriausiąją rinkimų komisiją registruoti juos savarankiškais politinės kampanijos dalyviais, negali būti trumpesnis negu 10 darbo dienų. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1071, 2010-10-26, Žin., 2010, Nr. 128-6524 (2010-10-30), i. k. 1101010ISTA0XI-1071
+ 
 
 2. Asmenys, norintys užsiregistruoti savarankiškais politinės kampanijos dalyviais, turi būti sudarę sutartį su politinės kampanijos iždininku ir turėti Lietuvos Respublikoje registruotame banke sąskaitą, kuri bus naudojama kaip politinės kampanijos sąskaita.
 
@@ -140,13 +148,16 @@ BENDROSIOS NUOSTATOS
 
 2) privalo šio įstatymo nustatyta tvarka pateikti politinės partijos įgalioto asmens pasirašytą turto patikėjimo sutarties su politinės kampanijos iždininku nuorašą ir gali pateikti sutarties su politinės kampanijos audito įmone nuorašą;
 
-3) privalo pateikti dokumentą, patvirtinantį, kad politinė partija turi banko sąskaitą, kuri bus naudojama kaip politinės kampanijos sąskaita, ir pažymą, kad lėšų šioje sąskaitoje nėra;
+3) privalo pateikti dokumentą, patvirtinantį, kad politinė partija turi banko sąskaitą, kuri bus naudojama kaip politinės kampanijos sąskaita, ir ne anksčiau negu prieš 3 darbo dienas išduotą pažymą, kad lėšų šioje sąskaitoje nėra; 
+Straipsnio punkto pakeitimai:
+Nr. XI-1071, 2010-10-26, Žin., 2010, Nr. 128-6524 (2010-10-30), i. k. 1101010ISTA0XI-1071
+ 
 
 4) jeigu yra pateiktas teikimas (prašymas) registruoti kandidatą ar kandidatų sąrašą savarankišku politinės kampanijos dalyviu, turi būti pateikti atitinkamos sutarties su jo politinės kampanijos iždininku nuorašas ir dokumentas, patvirtinantis, kad yra banko sąskaita, kuri bus naudojama kaip politinės kampanijos sąskaita, ir pažyma, kad lėšų šioje sąskaitoje nėra, taip pat gali būti pateiktas sutarties su politinės kampanijos audito įmone nuorašas;
 
 5) gali pateikti atstovaujamų politinės kampanijos dalyvių sąrašą.
 
-4. Fizinis asmuo, norintis registruotis savarankišku politinės kampanijos dalyviu, apygardos rinkimų komisijai kartu su pareiškiniais dokumentais arba Vyriausiajai rinkimų komisijai ne vėliau kaip iki pareiškinių dokumentų pateikimo privalo pateikti:
+4. Fizinis asmuo, norintis registruotis savarankišku politinės kampanijos dalyviu, Vyriausiajai rinkimų komisijai privalo pateikti:
 
 1) prašymą registruotis savarankišku politinės kampanijos dalyviu;
 
@@ -156,9 +167,16 @@ BENDROSIOS NUOSTATOS
 
 4) iždininko asmens tapatybę patvirtinantį dokumentą;
 
-5) dokumentą, patvirtinantį, kad jo vardu yra atidaryta banko sąskaita, kuri bus naudojama kaip politinės kampanijos sąskaita, ir ne anksčiau negu prieš 3 darbo dienas išduotą pažymą, kad lėšų šioje sąskaitoje nėra.
+5) dokumentą, patvirtinantį, kad jo vardu yra atidaryta banko sąskaita, kuri bus naudojama kaip politinės kampanijos sąskaita, ir ne anksčiau negu prieš 3 darbo dienas išduotą pažymą, kad lėšų šioje sąskaitoje nėra. 
 
-5. Apygardos rinkimų komisija, gavusi šio straipsnio 4 dalyje nurodytus dokumentus, juos nedelsdama, bet ne vėliau kaip per 3 dienas, išsiunčia Vyriausiajai rinkimų komisijai.
+Straipsnio dalies pakeitimai:
+Nr. XI-1071, 2010-10-26, Žin., 2010, Nr. 128-6524 (2010-10-30), i. k. 1101010ISTA0XI-1071
+ 
+
+5. Netenka galios 2010-10-30.
+Straipsnio dalies pakeitimai:
+Nr. XI-1071, 2010-10-26, Žin., 2010, Nr. 128-6524 (2010-10-30), i. k. 1101010ISTA0XI-1071
+ 
 
 6. Sprendimą dėl registravimo savarankišku politinės kampanijos dalyviu ne vėliau kaip per 3 darbo dienas nuo visų šiame straipsnyje nurodytų dokumentų gavimo dienos priima Vyriausiosios rinkimų komisijos pirmininkas arba jo įgaliotas šios komisijos narys.
 
@@ -432,7 +450,10 @@ Politinės partijos turi teisę verstis leidybos, spaudos ir atributikos platini
 
 4) nekilnojamųjų ar kilnojamųjų daiktų, reikalingų vykdant politinę kampaniją, nuomai;
 
-5) politinei kampanijai naudojamoms transporto priemonėms įsigyti, nuomoti, eksploatuoti;
+5) politinei kampanijai naudojamoms transporto priemonėms nuomoti, eksploatuoti; 
+Straipsnio punkto pakeitimai:
+Nr. XI-1071, 2010-10-26, Žin., 2010, Nr. 128-6524 (2010-10-30), i. k. 1101010ISTA0XI-1071
+ 
 
 6) politinės kampanijos savanorių, politinės partijos ar kandidato atstovų rinkimams ar rinkimų (referendumo) stebėtojų ryšiui, maitinimui, apgyvendinimui ir transportui;
 
@@ -762,4 +783,9 @@ Lietuvos Respublikos politinių partijų ir politinių kampanijų finansavimo be
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-813, 2010-05-18, Žin., 2010, Nr. 63-3091 (2010-05-31), i. k. 1101010ISTA00XI-813
 Lietuvos Respublikos politinių partijų ir politinių kampanijų finansavimo bei finansavimo kontrolės įstatymo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1071, 2010-10-26, Žin., 2010, Nr. 128-6524 (2010-10-30), i. k. 1101010ISTA0XI-1071
+Lietuvos Respublikos politinių partijų ir politinių kampanijų finansavimo bei finansavimo kontrolės įstatymo 5 ir 17 straipsnių pakeitimo įstatymas
 
