@@ -1123,7 +1123,7 @@ SKIRSNIS
 KANDIDATŲ
 KĖLIMAS
  
-36
+*36
 straipsnis. Kandidatų kėlimas
 1. Kandidatus
 gali kelti partija, pagal Politinių partijų įstatymą įregistruota ne vėliau
@@ -1136,11 +1136,23 @@ patvirtintas partijos suvažiavimo ar konferencijos. Kandidatų sąraše
 (jungtiniame sąraše) negali būti mažiau kaip 5 kandidatai. Kandidatų skaičius
 sąraše (jungtiniame sąraše) negali daugiau nei du kartus viršyti Lietuvos
 Respublikoje renkamų Europos Parlamento narių skaičiaus.
+*Pastaba. Pripažinti, kad Lietuvos Respublikos rinkimų
+į Europos Parlamentą įstatymo 36 straipsnis (2009 m. vasario 12 d. redakcija; Žin., 2009, Nr. 19-743) ta
+apimtimi, kuria nustatyta, kad Lietuvos Respublikos piliečiai ir nuolat
+gyvenantys Lietuvoje kitų Europos Sąjungos valstybių narių piliečiai į Europos
+Parlamentą gali būti renkami būdami įrašyti tik į politinių partijų sudaromus
+kandidatų į Europos Parlamento narius sąrašus, prieštarauja Lietuvos
+Respublikos Konstitucijos 34 straipsnio 2 daliai, konstituciniam teisinės
+valstybės principui.
 Straipsnio pakeitimai:
 Nr. X-1530,
 2008-05-08, Žin., 2008, Nr. 59-2202 (2008-05-24)
 Nr. XI-165,
 2009-02-12, Žin., 2009, Nr. 19-743 (2009-02-19)
+Lietuvos Respublikos Konstitucinis
+Teismas, Nutarimas
+2010-11-09, Žin., 2010, Nr. 133-6800
+(2010-11-13)
  
 37
 straipsnis. Kandidatų iškėlimo pareiškiniai dokumentai
@@ -1148,9 +1160,8 @@ straipsnis. Kandidatų iškėlimo pareiškiniai dokumentai
 įteikti Vyriausiajai rinkimų komisijai šiuos pareiškinius dokumentus:
 1) pareiškimą
 dalyvauti rinkimuose;
-2) savo
-registracijos dokumentų nuorašą, taip pat gali pateikti partijos programą,
-rinkimų programą;
+2) savo registracijos
+dokumentų nuorašą, taip pat gali pateikti partijos programą, rinkimų programą;
 3) keliamų
 kandidatų sąrašą;
 4) kiekvieno
@@ -1168,34 +1179,14 @@ teisę pateikti įgaliojimus atstovauti partijai ir jos keliamiems kandidatams
 savivaldybių rinkimų komisijose;
 6) dokumentą,
 patvirtinantį, kad sumokėtas rinkimų užstatas;
- 
-7 ir 8 punktų redakcija iki
-2010 m. rugsėjo 15 d.:
-7) jeigu partija
-paskutiniuose Seimo, Europos Parlamento arba savivaldybių tarybų rinkimuose
-buvo iškėlusi kandidatus arba kandidatų sąrašus, ji turi teisę pateikti
-spaudoje paskelbtos vykdant Seimo rinkimų, Rinkimų į Europos Parlamentą,
-Savivaldybių tarybų rinkimų įstatymus lėšų šaltinių ir jų naudojimo rinkimų
-agitacijai ataskaitos kopiją;
-8) praėjusių
-metų finansinės veiklos deklaracijos, kuri vykdant Politinių partijų įstatymą
-turėjo būti pateikta mokesčių inspekcijai, kopiją, patvirtintą šios inspekcijos,
-bei informaciją apie laikotarpiu nuo einamųjų metų sausio 1 dienos iki
-dokumentų pateikimo mėnesio 1 dienos gautas ir kasoje bei banko sąskaitoje
-(sąskaitose) turimas lėšas. Be to, gali pateikti savo biudžeto pajamų, jų
-šaltinių ir išlaidų ataskaitos (pranešimo), kuri (kuris) turėjo būti viešai
-paskelbta pagal Politinių partijų įstatymą, kopiją.
-7 ir 8 punktų redakcija nuo
-2010 m. rugsėjo 15 d.:
 7) jeigu partija
 paskutiniuose Seimo, Europos Parlamento arba savivaldybių tarybų rinkimuose
 buvo iškėlusi kandidatus arba kandidatų sąrašus, ji turi teisę pateikti
 atitinkamos politinės kampanijos finansavimo ataskaitos kopiją;
 8) informaciją
-apie laikotarpiu nuo einamųjų metų sausio 1 dienos iki dokumentų pateikimo
-mėnesio 1 dienos gautas ir kasoje bei politinės partijos einamojoje banko
-sąskaitoje (sąskaitose) turimas lėšas.
- 
+apie laikotarpiu nuo einamųjų metų sausio 1 dienos iki dokumentų pateikimo mėnesio
+1 dienos gautas ir kasoje bei politinės partijos einamojoje banko sąskaitoje
+(sąskaitose) turimas lėšas.
 2. Kandidato į
 Europos Parlamento narius anketoje asmuo, keliamas kandidatu, pats turi įrašyti
 savo pavardę, vardą, paso ar kito pilietybę patvirtinančio dokumento numerį,
@@ -1210,8 +1201,9 @@ politinėje veikloje, taip pat atsakyti į šio Įstatymo 93 straipsnyje
 nurodytus klausimus ir pasirašyti. Kitos
 Europos Sąjungos valstybės narės pilietis, be šių duomenų, turi nurodyti kilmės
 valstybę narę, kad jis savo kilmės valstybėje narėje turi balsavimo teisę.
-Kandidato į Europos Parlamento narius anketoje gali būti pateikiama ir kitų Vyriausiosios
-rinkimų komisijos nustatytų papildomų klausimų, į kuriuos asmuo gali neatsakyti.
+Kandidato į Europos Parlamento narius anketoje gali būti pateikiama ir kitų
+Vyriausiosios rinkimų komisijos nustatytų papildomų klausimų, į kuriuos asmuo
+gali neatsakyti.
 3. Pareiškinių
 dokumentų įteikimas pradedamas likus 65 dienoms ir baigiamas 17 valandą likus
 34 dienoms iki rinkimų. Dokumentai, įteikti pasibaigus pareiškinių dokumentų
@@ -1244,17 +1236,6 @@ praneštų kandidatui registruoti reikšmingus duomenis. Toks Vyriausiosios
 rinkimų komisijos prašymas turi būti nagrinėjamas ypatingos skubos tvarka, o
 rašytinis atsakymas turi būti duotas per 7 dienas, bet ne vėliau kaip likus 32
 dienoms iki rinkimų.
- 
-4 dalies redakcija iki 2010
-m. rugsėjo 15 d.:
-4. Patikrinusi pateiktus pareiškinius dokumentus ir
-nustačiusi, kad jie atitinka šio Įstatymo reikalavimus, Vyriausioji rinkimų
-komisija sprendimą dėl kandidato registravimo turi priimti per 10 dienų nuo
-pareiškinių dokumentų pateikimo, bet ne vėliau kaip likus 31 dienai iki
-rinkimų. Jeigu yra pareiškinių dokumentų trūkumų, Vyriausioji rinkimų komisija
-turi apie tai nedelsdama pranešti atitinkamam atstovui rinkimams.
-4 dalies redakcija nuo 2010
-m. rugsėjo 15 d.:
 4. Patikrinusi pateiktus pareiškinius dokumentus ir
 nustačiusi, kad jie atitinka šio Įstatymo reikalavimus, o kandidatų į Europos
 Parlamento narius sąrašą iškėlusi partija yra įregistruota savarankiška
@@ -1263,7 +1244,6 @@ kandidato registravimo turi priimti per 10 dienų nuo pareiškinių dokumentų
 pateikimo, bet ne vėliau kaip likus 31 dienai iki rinkimų. Jeigu yra
 pareiškinių dokumentų trūkumų, Vyriausioji rinkimų komisija turi apie tai
 nedelsdama pranešti atitinkamam atstovui rinkimams.
- 
 5. Jeigu
 įteikiant pareiškinius dokumentus ar po kandidato įregistravimo Vyriausioji
 rinkimų komisija nustato, kad kandidatas neatitinka šio Įstatymo 3 straipsnyje
@@ -1294,8 +1274,8 @@ joms rinkimų komisijose Vyriausiajai rinkimų komisijai gali būti pateikti kit
 dieną po to, kai sudaryta atitinkama rinkimų komisija. Jeigu atstovo rinkimams
 kandidatūra atitinka šio Įstatymo reikalavimus, Vyriausioji rinkimų komisija ne
 vėliau kaip per 3 dienas įregistruoja jo įgaliojimą ir išduoda atstovo
-rinkimams pažymėjimą. Atstovo rinkimams įgaliojimas pasibaigia suėjus 20 dienų
-po galutinių rinkimų rezultatų paskelbimo.
+rinkimams pažymėjimą. Atstovo rinkimams įgaliojimas pasibaigia suėjus 20 dienų po
+galutinių rinkimų rezultatų paskelbimo.
 2. Iki rinkimų
 dienos partija įgaliojimą atstovauti gali bet kada atšaukti ir įgalioti kitą
 asmenį būti atstovu rinkimams. Šiuo atveju atstovas rinkimams turi būti
@@ -1303,43 +1283,16 @@ asmenį būti atstovu rinkimams. Šiuo atveju atstovas rinkimams turi būti
 registracija panaikinama ne vėliau kaip per 3 dienas nuo atitinkamo partijos
 įgaliojimo įteikimo Vyriausiajai rinkimų komisijai.
  
-40 straipsnio redakcija iki
-2010 m. rugsėjo 15 d.:
-40
-straipsnis. Rinkimų užstatas
-1. Rinkimų užstatas vienam
-kandidatų sąrašui įregistruoti yra paskutinio paskelbto šalies ūkio vidutinio
-mėnesinio darbo užmokesčio (toliau – VMDU) 20 dydžių. Pakeičiant kandidato
-vietą sąraše, įrašant į sąrašą naują kandidatą, užstato dydis – 1 VMDU,
-sujungiant kandidatų sąrašus – po 0,3 VMDU už kiekvieną sujungiamą sąrašą. Jei
-kandidato eilės numeris sąraše keičiasi dėl kito kandidato vietos sąraše
-pakeitimo ar naujo kandidato įrašymo, ar įrašyto kandidato išbraukimo, rinkimų
-užstatas neimamas.
-2. Partijai,
-kuri per paskutinius trejus Seimo, Europos Parlamento arba savivaldybių tarybų
-rinkimus nepateikė Politinių kampanijų finansavimo kontrolės įstatyme nustatytu
-laiku lėšų šaltinių ir jų naudojimo rinkimų agitacijai galutinių ataskaitų,
-arba jei buvo nustatyta, kad ataskaitose nėra nurodyti visi lėšų šaltiniai ar
-visos rinkimų agitacijos išlaidos, rinkimų užstatas vienam kandidatų sąrašui
-įregistruoti nustatomas tris kartus didesnis.
-3. Per 40 dienų
-po galutinių rinkimų rezultatų paskelbimo Vyriausioji rinkimų komisija grąžina
-rinkimų užstatą jį sumokėjusiai partijai, jeigu iškeltų kandidatų sąrašas
-(jungtinis sąrašas) įgijo teisę dalyvauti paskirstant mandatus ir partija
-pateikė lėšų šaltinių ir jų naudojimo rinkimų agitacijai ataskaitą.
-4. Negrąžintini
-rinkimų užstatai pervedami į valstybės biudžetą.
-40 straipsnio redakcija nuo
-2010 m. rugsėjo 15 d.:
-40 straipsnis. Rinkimų užstatas
+40 straipsnis. Rinkimų
+užstatas
 1. Rinkimų
 užstatas vienam kandidatų sąrašui įregistruoti yra paskutinio paskelbto šalies
 ūkio vidutinio mėnesinio darbo užmokesčio (toliau – VMDU) 10 dydžių. Pakeičiant
 kandidato vietą sąraše, įrašant į sąrašą naują kandidatą, užstato dydis – 1
-VMDU, sujungiant kandidatų sąrašus – po 0,3 VMDU už kiekvieną sujungiamą
-sąrašą. Jeigu kandidato eilės numeris sąraše keičiasi dėl kito kandidato vietos
-sąraše pakeitimo ar naujo kandidato įrašymo, ar įrašyto kandidato išbraukimo,
-rinkimų užstatas neimamas.
+VMDU, sujungiant kandidatų sąrašus – po 0,3 VMDU už kiekvieną sujungiamą sąrašą.
+Jeigu kandidato eilės numeris sąraše keičiasi dėl kito kandidato vietos sąraše
+pakeitimo ar naujo kandidato įrašymo, ar įrašyto kandidato išbraukimo, rinkimų
+užstatas neimamas.
 2. Partijai,
 kuri per paskutinius trejus Seimo, Europos Parlamento arba savivaldybių tarybų
 rinkimus nepateikė Politinių partijų ir politinių kampanijų finansavimo bei
@@ -1368,8 +1321,8 @@ Nr. XI-814,
 straipsnis. Dvigubo kandidatavimo išvengimo priemonės
 1. Kiekvienas kandidatas gali
 būti įrašytas tik į vieną kandidatų sąrašą Lietuvos Respublikoje ir būti
-kandidatu tik vienoje Europos Sąjungos valstybėje narėje vienų rinkimų į Europos
-Parlamentą metu – dvigubas kandidatavimas draudžiamas.
+kandidatu tik vienoje Europos Sąjungos valstybėje narėje vienų rinkimų į
+Europos Parlamentą metu – dvigubas kandidatavimas draudžiamas.
 2. Asmuo, kuris yra davęs
 sutikimą būti Lietuvos Respublikoje įrašytas daugiau kaip į vieną kandidatų
 sąrašą, išbraukiamas iš visų kandidatų sąrašų ir panaikinama jo registracija
@@ -1377,8 +1330,8 @@ kandidatu.
 3. Asmuo, kuris yra davęs
 sutikimą būti įrašytas į kandidatų sąrašą Lietuvos Respublikoje ir yra davęs
 sutikimą būti iškeltas kandidatu kitoje Europos Sąjungos valstybėje narėje,
-išbraukiamas iš kandidatų sąrašo ir panaikinama jo registracija kandidatu Lietuvos
-Respublikoje.
+išbraukiamas iš kandidatų sąrašo ir panaikinama jo registracija kandidatu
+Lietuvos Respublikoje.
 4. Kad būtų
 išvengta dvigubo kandidatavimo, Lietuvos Respublikos vyriausioji rinkimų
 komisija palaiko ryšius su kitų Europos Sąjungos valstybių narių
@@ -1396,11 +1349,11 @@ jos privalo Vyriausiajai rinkimų komisijai pateikti pareiškimą dėl kandidat�
 sąrašų sujungimo ir nurodyti koalicijos pavadinimą. Be to, pateikiamas
 jungtinis sąrašas, kuriame kandidatai surašyti pagal naujai sudarytą eilę, ir
 dokumentas, patvirtinantis, kad yra sumokėtas rinkimų užstatas kandidatų
-sąrašams sujungti. Jungtiniame sąraše gali būti tik asmenys, įrašyti jungiamuose
-sąrašuose. Koalicijos pavadinime turi būti žodis „koalicija“ ir negali būti
-nuorodų į partijų, nesudarančių šios koalicijos, pavadinimus. Jungtinis sąrašas
-laikomas vienu sąrašu. Ta pati partija negali dalyvauti daugiau kaip vienoje
-koalicijoje.
+sąrašams sujungti. Jungtiniame sąraše gali būti tik asmenys, įrašyti
+jungiamuose sąrašuose. Koalicijos pavadinime turi būti žodis „koalicija“ ir
+negali būti nuorodų į partijų, nesudarančių šios koalicijos, pavadinimus. Jungtinis
+sąrašas laikomas vienu sąrašu. Ta pati partija negali dalyvauti daugiau kaip
+vienoje koalicijoje.
  
 43
 straipsnis. Teisė atšaukti ar papildyti rinkimų pareiškinius dokumentus
@@ -1432,26 +1385,8 @@ kandidatai.
 atšaukimo ar kandidatų išbraukimo kandidatų sąraše (jungtiniame sąraše) lieka
 mažiau kaip 5 kandidatai, panaikinama viso šio sąrašo kandidatų registracija.
  
-44 straipsnio redakcija iki
-2010 m. rugsėjo 15 d.:
-44 straipsnis. Kandidatų ir kandidatų sąrašų
-paskelbimas, rinkimų agitacijos kampanijos pradžia
-1. Likus ne
-mažiau kaip 30 dienų iki rinkimų, Vyriausioji rinkimų komisija „Valstybės
-žiniose“ paskelbia: partijų ir koalicijų kandidatų sąrašų pavadinimus ir juose
-įrašytus kandidatus; kandidatų sąrašams burtais suteiktus rinkimų numerius;
-kandidatų sąrašuose įrašytų kandidatų rinkimų numerius. Vyriausioji rinkimų
-komisija kandidatų pažymėjimus su juose įrašytais kandidatų rinkimų numeriais
-perduoda atstovui rinkimams. Kandidato rinkimų numeris jo suteikimo metu yra
-tapatus kandidato eilės numeriui keliamų kandidatų sąraše (jungtiniame sąraše).
-Suteiktas kandidato rinkimų numeris negali būti keičiamas iki rinkimų rezultatų
-paskelbimo.
-2. Nuo kandidatų
-paskelbimo dienos prasideda rinkimų agitacijos kampanija.
-44 straipsnio redakcija nuo
-2010 m. rugsėjo 15 d.:
-44 straipsnis. Kandidatų ir kandidatų sąrašų
-paskelbimas
+44 straipsnis.
+Kandidatų ir kandidatų sąrašų paskelbimas
 Likus ne mažiau
 kaip 30 dienų iki rinkimų, Vyriausioji rinkimų komisija „Valstybės žiniose“
 paskelbia: partijų ir koalicijų kandidatų sąrašų pavadinimus ir juose įrašytus
@@ -1472,23 +1407,13 @@ SKIRSNIS
 KANDIDATŲ
 VEIKLOS GARANTIJOS
  
-45 straipsnis. Kandidatų teisė kalbėti susirinkimuose,
-naudotis visuomenės informavimo priemonėmis
- 
-1 dalies redakcija iki 2010
-m. rugsėjo 15 d.:
-1. Prasidėjus
-rinkimų agitacijos kampanijai, kandidatai turi lygią teisę kalbėti rinkėjų ir
-kitokiuose susirinkimuose, pasitarimuose, posėdžiuose, per nacionalines
-visuomenės informavimo priemones ir skelbti savo rinkimų programą.
-1 dalies redakcija nuo 2010
-m. rugsėjo 15 d.:
+45 straipsnis. Kandidatų teisė kalbėti
+susirinkimuose, naudotis visuomenės informavimo priemonėmis
 1. Vyriausiajai
 rinkimų komisijai paskelbus kandidatus ir kandidatų sąrašus, kandidatai turi
 lygią teisę kalbėti rinkėjų ir kitokiuose susirinkimuose, pasitarimuose,
 posėdžiuose, per nacionalines visuomenės informavimo priemones ir skelbti savo
 rinkimų programą.
- 
 2. Valstybės ir savivaldybių
 institucijų bei įstaigų vadovai, taip pat savivaldybių administracijų
 direktoriai ar jų tam įgalioti asmenys turi padėti kandidatams organizuoti
@@ -1514,35 +1439,18 @@ Straipsnio pakeitimai:
 Nr. X-1530,
 2008-05-08, Žin., 2008, Nr. 59-2202 (2008-05-24)
  
-47 straipsnio redakcija iki
-2010 m. rugsėjo 15 d.:
-47 straipsnis. Kandidato teisė
-būti atleistam nuo darbo ar tarnybinių pareigų rinkimų agitacijos kampanijos
-metu
-1. Kandidatas
-rinkimų agitacijos kampanijos metu, bet ne ilgiau kaip 30 dienų jo rašytiniu
-prašymu atleidžiamas nuo darbo ar tarnybinių pareigų. Prašymas
-atleisti nuo darbo ar tarnybinių pareigų pateikiamas asmeniui, turinčiam teisę
-suteikti atostogas.
-2.
-Šio straipsnio 1 dalies nuostatos netaikomos kandidatams, kurie eina
-Respublikos Prezidento, Europos Parlamento nario ar Seimo nario pareigas. Kandidato į Europos Parlamento narius,
-kuris eina Vyriausybės nario pareigas, atleidimo nuo tarnybinių pareigų tvarka
-nustatyta Vyriausybės įstatyme.
-47 straipsnio redakcija nuo
-2010 m. rugsėjo 15 d.:
-47 straipsnis. Kandidato teisė būti atleistam nuo
-darbo ar tarnybinių pareigų 
+47 straipsnis.
+Kandidato teisė būti atleistam nuo darbo ar tarnybinių pareigų 
 1.
 Vyriausiajai rinkimų komisijai paskelbus kandidatus ir kandidatų sąrašus,
 kandidatas ne ilgiau kaip 30 dienų jo rašytiniu prašymu atleidžiamas nuo darbo
 ar tarnybinių pareigų. Prašymas atleisti nuo darbo ar tarnybinių pareigų
 pateikiamas asmeniui, turinčiam teisę suteikti atostogas.
 2.
-Šio straipsnio 1 dalies nuostatos netaikomos kandidatams, kurie eina
-Respublikos Prezidento, Europos Parlamento nario ar Seimo nario pareigas.
-Kandidato į Europos Parlamento narius, kuris eina Vyriausybės nario pareigas,
-atleidimo nuo tarnybinių pareigų tvarka nustatyta Vyriausybės įstatyme.
+Šio straipsnio 1 dalies nuostatos netaikomos kandidatams, kurie eina Respublikos
+Prezidento, Europos Parlamento nario ar Seimo nario pareigas. Kandidato į
+Europos Parlamento narius, kuris eina Vyriausybės nario pareigas, atleidimo nuo
+tarnybinių pareigų tvarka nustatyta Vyriausybės įstatyme.
 Straipsnio pakeitimai:
 Nr. X-1530,
 2008-05-08, Žin., 2008, Nr. 59-2202 (2008-05-24)
@@ -1551,23 +1459,8 @@ Nr. XI-221,
 Nr. XI-814,
 2010-05-18, Žin., 2010, Nr. 63-3092 (2010-05-31)
  
-48 straipsnio redakcija iki
-2010 m. rugsėjo 15 d.:
-48
-straipsnis. Kandidato neliečiamybė
-1. Kandidatas
-rinkimų agitacijos kampanijos metu, taip pat iki pirmojo naujai išrinkto
-Europos Parlamento posėdžio be Vyriausiosios rinkimų komisijos sutikimo negali
-būti traukiamas baudžiamojon atsakomybėn, suimamas, negali būti kitaip varžoma
-jo laisvė.
-2. Šio
-straipsnio 1 dalies nuostatos netaikomos kandidatams, kurie eina Respublikos
-Prezidento, Europos Parlamento ar Seimo nario, Vyriausybės nario pareigas. Šių
-asmenų neliečiamybės klausimas rinkimų agitacijos kampanijos metu sprendžiamas
-Lietuvos Respublikos Konstitucijos ir įstatymų nustatyta tvarka.
-48 straipsnio redakcija nuo
-2010 m. rugsėjo 15 d.:
-48 straipsnis. Kandidato neliečiamybė
+48 straipsnis.
+Kandidato neliečiamybė
 1.
 Vyriausiajai rinkimų komisijai paskelbus kandidatus ir kandidatų sąrašus, taip
 pat iki pirmojo naujai išrinkto Europos Parlamento posėdžio kandidatas be
@@ -1590,23 +1483,7 @@ RINKIMŲ
 AGITACIJA
  
 49
-straipsnio redakcija iki 2010 m. rugsėjo 15 d.:
-49
 straipsnis. Rinkimų agitacijos pagrindai
-1. Pradėti
-rinkimų agitaciją partijoms ir kandidatams sudaromos šio Įstatymo nustatytos
-sąlygos nuo tos dienos, kada prasideda rinkimų agitacijos kampanija. Rinkimų
-agitacijos išlaidos ir politinės reklamos išlaidos, turėtos iki rinkimų
-agitacijos kampanijos pradžios, turi būti įstatymų nustatyta tvarka
-deklaruojamos ir negali viršyti pagal įstatymus nustatyto didžiausio leistino
-rinkimų agitacijos išlaidų dydžio.
-2. Rinkimų
-agitacija gali būti įvairių formų ir būdų, išskyrus tuos, kurie pažeidžia
-Lietuvos Respublikos Konstituciją ir įstatymus, prieštarauja moralei,
-teisingumui ar visuomenės darnai, neatitinka sąžiningų ir garbingų rinkimų.
-49 straipsnio redakcija nuo
-2010 m. rugsėjo 15 d.:
-49 straipsnis. Rinkimų agitacijos pagrindai
 1.
 Rinkimų agitaciją reglamentuojančios šio įstatymo nuostatos taikomos paskelbus
 rinkimų datą. Rinkimų agitacijos išlaidos ir politinės reklamos išlaidos turi
@@ -1625,97 +1502,7 @@ Nr. X-1530, 2008-05-08, Žin., 2008, Nr.
 Nr. XI-814, 2010-05-18,
 Žin., 2010, Nr. 63-3092 (2010-05-31)
  
-50 straipsnio redakcija iki
-2010 m. rugsėjo 15 d.:
-50 straipsnis. Naudojimosi visuomenės informavimo
-priemonėmis sąlygos ir tvarka
-1. Kandidatų
-sąrašus iškėlusioms partijoms suteikiama teisė nemokamai naudotis
-nacionalinėmis visuomenės informavimo priemonėmis. Lietuvos nacionalinis
-radijas ir televizija rinkimų agitacijai skirtas laidas rengia ir transliuoja
-iš tam skirtų valstybės biudžeto lėšų. Vyriausioji rinkimų komisija apmoka
-papildomas tokių laidų rengimo išlaidas. Rinkimų agitacijai skirtų laidų
-rengimo taisykles patvirtina, konkrečią Lietuvos nacionalinio radijo ir
-televizijos laidų trukmę ir laiką nustato Vyriausioji rinkimų komisija,
-suderinusi su Lietuvos nacionalinio radijo ir televizijos vadovu. Be to,
-Vyriausioji rinkimų komisija paskirsto laidų laiką taip, kad nebūtų pažeistas
-kandidatų sąrašų lygiateisiškumo principas. Kiekvienam kandidatų sąrašui
-skiriama ne mažiau kaip po vieną valandą nacionalinio radijo ir po vieną
-valandą nacionalinės televizijos laiko debatams su kito ar kitų kandidatų
-sąrašų atstovais. Debatuose dalyvaujančių kandidatų sąrašų atstovų grupės (2 ir
-daugiau) sudaromos tarpusavio susitarimu, o jeigu nesutariama, – burtais.
-2. Kandidatų sąrašo rinkimų
-programą per 20 dienų nuo pateikimo išspausdina Vyriausioji rinkimų komisija.
-Rinkimų programų spausdinimo tvarką nustato Vyriausioji rinkimų komisija.
-3. Agitaciją per
-komercines visuomenės informavimo priemones riboja tik rinkimų specialių
-sąskaitų dydis. Rinkimų agitacijos žymėjimo tvarką nurodant lėšų šaltinį arba
-tai, kad rinkimų agitacija skelbiama nemokamai, nustato Vyriausioji rinkimų
-komisija.
-4. Draudžiama
-įrengti ir skleisti išorinę politinę reklamą:
-1) ant statinių,
-kuriuose yra valstybės valdžios, teisėsaugos, kitos valstybės ir savivaldybių
-institucijos ir įstaigos;
-2) ant
-transporto priemonių ir viešajame transporte;
-3) automobilių
-keliuose ir jų sanitarinės apsaugos zonose, taip pat gatvėse ir prie jų, jeigu
-ji gali užstoti technines eismo reguliavimo priemones, kelio ženklus,
-pabloginti matomumą, akinti eismo dalyvius, atitraukti jų dėmesį ir taip kelti
-pavojų eismo dalyviams; taip pat draudžiama naudoti reklamą, imituojančią kelio
-ženklus;
-4) ant skulptūrų
-ir paminklų;
-5) 50 metrų atstumu aplink pastatą, kuriame yra balsavimo patalpa;
-6) neturint
-žemės, statinių ar kitų objektų, ant kurių ar kuriuose ji įrengiama, savininko
-sutikimo;
-7) vietose,
-nepatvirtintose savivaldybės rinkimų komisijos, kaip tai nustatyta šio
-straipsnio 7 dalyje.
-5.
-Išorinė politinė reklama saugomose teritorijose ir nekilnojamosiose kultūros
-vertybėse, taip pat jų teritorijose leidžiama tik suderinus su valstybės
-įstaiga, atsakinga už kultūros vertybių apsaugą, ir saugomos teritorijos
-steigėjo įgaliota įstaiga.
-6.
-Išorinei politinei reklamai skelbti laikantis kandidatų ir kandidatų sąrašų
-lygiateisiškumo principo skiriama ne mažiau kaip po vieną specialią vietą
-kiekvienos rinkimų apylinkės teritorijoje. Išorinė politinė reklama šiame
-Įstatyme suprantama kaip išorinės reklamos priemonėmis skleidžiama politinė
-reklama. Išorine politine reklama taip pat laikoma politinė reklama, skelbiama
-viešose vietose, pastatuose, transporto priemonėse. Išorinės politinės reklamos
-vietas savo lėšomis įrengia savivaldybė. Išorinė politinė reklama gaminama ir
-skelbiama savarankiškų politinės kampanijos dalyvių lėšomis. 
-7. Vietas, kuriose gali būti
-įrengta ir skleidžiama išorinė politinė reklama, savivaldybės teritorijoje
-privalo parinkti ir pateikti savivaldybės rinkimų komisijai tvirtinti
-savivaldybės administracijos direktorius ne vėliau kaip likus 35 dienoms iki
-rinkimų dienos. Jei išorinei politinei reklamai skleisti reikalingi šio
-straipsnio 4 ir 5 dalyse nurodyti arba pagal kitus įstatymus būtini sutikimai
-ar suderinimai, jų nuorašai pateikiami kartu su savivaldybės administratoriaus
-teikimu. Jeigu stendai, skydai ar kitos teikiamos vietos išorinei politinei
-reklamai netinkami arba netinkamai įrengti, savivaldybės rinkimų komisija
-pareikalauja, kad būtų teikiamos tinkamos vietos ar teikiamos vietos būtų
-tinkamai įrengtos. Kiekvienoje išorinei politinei reklamai skirtoje vietoje
-visiems kandidatų sąrašams (partijos išdėstomos pagal sąrašų numerius)
-skiriamas vienodas reklamos plotas, kurį nurodo apylinkės rinkimų komisijos
-pirmininkas. Šis plotas kiekvienam kandidatui ir kandidatų sąrašui turi būti ne
-didesnis kaip A2 formato. Išorinę politinę reklamą skelbia politinės partijos
-ar šių įgalioti asmenys tam skirtuose reklamos plotuose. Jeigu išorinė politinė
-reklama skelbiama nenustatytose vietose, savivaldybės administracijos
-direktorius užtikrina, kad ji būtų nedelsiant nuimta.
-8.
-Asmenys, pažeidę šiame straipsnyje nustatytus išorinės politinės reklamos
-įrengimo ir skleidimo tvarkos reikalavimus, atsako įstatymų nustatyta tvarka.
-9. Visus ginčus
-dėl rinkimų agitacijos sprendžia Vyriausioji rinkimų komisija, vadovaudamasi
-šiuo Įstatymu.
-50 straipsnio redakcija nuo
-2010 m. rugsėjo 15 d.:
-50
-straipsnis. Rinkimų agitacijos sąlygos ir tvarka 
+50 straipsnis. Rinkimų agitacijos sąlygos ir tvarka 
 1. Vyriausiajai
 rinkimų komisijai paskelbus rinkimuose dalyvaujančius kandidatus ir kandidatų
 sąrašus, kandidatams suteikiama teisė nemokamai naudotis nacionalinėmis
@@ -1774,9 +1561,9 @@ ir paminklų;
 sutikimo.
 9.
 Išorinė politinė reklama saugomose teritorijose ir nekilnojamosiose kultūros
-vertybėse, taip pat jų teritorijose leidžiama tik suderinus su valstybės įstaiga,
-atsakinga už kultūros vertybių apsaugą, ir saugomos teritorijos steigėjo
-įgaliota įstaiga.
+vertybėse, taip pat jų teritorijose leidžiama tik suderinus su valstybės
+įstaiga, atsakinga už kultūros vertybių apsaugą, ir saugomos teritorijos
+steigėjo įgaliota įstaiga.
 10.
 Pareiga nuimti išorinę politinę reklamą iki prasidedant įstatymų nustatytam
 laikui, kai rinkimų agitacija draudžiama, tenka išorinę politinę reklamą
@@ -1795,29 +1582,6 @@ Nr. XI-814,
  
 51 straipsnis. Kandidatą ar kandidatų sąrašą
 iškėlusią partiją kompromituojančios medžiagos skelbimas ir atsakomoji nuomonė
- 
-1 dalies redakcija iki 2010
-m. rugsėjo 15 d.:
-1. Jeigu rinkimų
-agitacijos kampanijos laikotarpiu visuomenės informavimo priemonė paskelbia
-kandidatą ar partiją, iškėlusią kandidatų sąrašą, kompromituojančią medžiagą
-(vėliausiai tokius duomenis galima skelbti: visuomenės informavimo priemonėje,
-kuri leidžiama daugiau kaip 3 kartus per savaitę, – likus 5 dienoms iki
-rinkimų, kitose visuomenės informavimo priemonėse – likus 10 dienų iki rinkimų,
-bet visais atvejais kandidatą ar partiją, iškėlusią kandidatų sąrašą,
-kompromituojanti medžiaga gali būti paskelbta ne vėliau kaip priešpaskutiniame
-iki rinkimų visuomenės informavimo priemonės leidinio numeryje), ji privalo
-suteikti galimybę kandidatui ar partijai pareikšti atsakomąją nuomonę.
-Atsakomąją nuomonę sudaro paskelbtos kompromituojančios medžiagos trumpas
-išdėstymas ir atsakymas. Ji paprastai negali būti daugiau kaip 3 kartus ilgesnė
-už kompromituojančią medžiagą. Visuomenės informavimo priemonė atsakomąją
-nuomonę turi paskelbti ne vėliau kaip per 7 dienas po to, kai ji buvo
-pareikšta, ir ne vėliau kaip likus 2 dienoms iki rinkimų agitacijos draudimo
-laikotarpio pradžios. Visuomenės informavimo priemonė, kuri negali per šio
-Įstatymo nustatytą laikotarpį pati paskelbti atsakomąją nuomonę, turi
-pasirūpinti savo lėšomis ją paskelbti per kitą visuomenės informavimo priemonę.
-1 dalies redakcija nuo 2010
-m. rugsėjo 15 d.:
 1. Jeigu,
 Vyriausiajai rinkimų komisijai paskelbus kandidatus ir kandidatų sąrašus, visuomenės
 informavimo priemonė paskelbia kandidatą ar partiją, iškėlusią kandidatų
@@ -1837,7 +1601,6 @@ dienoms iki rinkimų agitacijos draudimo laikotarpio pradžios. Visuomenės
 informavimo priemonė, kuri negali per šio Įstatymo nustatytą laikotarpį pati
 paskelbti atsakomąją nuomonę, turi pasirūpinti savo lėšomis ją paskelbti per
 kitą visuomenės informavimo priemonę.
- 
 2.
 Kompromituojanti medžiaga yra tokia medžiaga, kuria siekiama paveikti rinkėjus,
 kad šie nebalsuotų už konkrečios partijos iškeltus kandidatus (kandidatą) ir
@@ -3429,8 +3192,23 @@ PAKEITIMO ĮSTATYMAS
 *** Pabaiga ***
  
  
+Konstitucinio Teismo nutarimai:
+ 
+1.
+Lietuvos Respublikos Konstitucinis
+Teismas, Nutarimas
+2010-11-09, Žin., 2010, Nr. 133-6800
+(2010-11-13)
+DĖL LIETUVOS
+RESPUBLIKOS RINKIMŲ Į EUROPOS PARLAMENTĄ ĮSTATYMO 36 STRAIPSNIO (2008 M.
+GEGUŽĖS 8 D., 2009 M. VASARIO 12 D. REDAKCIJOS) ATITIKTIES LIETUVOS RESPUBLIKOS
+KONSTITUCIJAI
+ 
+*** Pabaiga ***
+ 
+ 
 Redagavo Aušrinė Trapinskienė
-(2010-06-04)
+(2010-11-15)
                  
 autrap@lrs.lt
 
