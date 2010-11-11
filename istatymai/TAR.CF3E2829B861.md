@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CF3E2829B861"
 
 # Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2007-03-01 iki 2010-11-10
+Suvestinė redakcija nuo 2010-11-11 iki 2013-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 8-161, i. k. 0981010ISTAVIII-602
  
@@ -94,15 +94,51 @@ Nr. X-905, 2006-11-16, Žin., 2006, Nr. 130-4888 (2006-11-30), i. k. 1061010ISTA
 
 
 
-
-
-3 straipsnis. Narkotinių ir psichotropinių medžiagų pavadinimai 
-
-
-Narkotinės ir psichotropinės medžiagos įrašomos į Sveikatos apsaugos ministerijos tvirtinamus kontroliuojamų medžiagų sąrašus tarptautiniais pavadinimais, o jeigu tarptautinių pavadinimų nėra, - cheminiais pavadinimais. Kartu gali būti nurodomas ir kitoks, vartotojams labiau žinomas, pavadinimas.
+8. Kontroliuojamų narkotinių ir psichotropinių medžiagų sąrašai (kontroliuojamų medžiagų sąrašai) – Sveikatos apsaugos ministerijos tvirtinami narkotinių ir psichotropinių medžiagų, kurioms taikomas šiuo įstatymu nustatytas kontrolės režimas, sąrašai. 
+Papildyta straipsnio dalimi:
+Nr. XI-1073, 2010-10-26, Žin., 2010, Nr. 132-6718 (2010-11-11), i. k. 1101010ISTA0XI-1073
  
 
 
+
+
+
+
+9. Narkotinės ar psichotropinės medžiagos darinys – junginys, kurio cheminė struktūra skiriasi nuo narkotinės ar psichotropinės medžiagos, įrašytos į kontroliuojamų narkotinių ir psichotropinių medžiagų sąrašus, struktūros funkcinėmis grupėmis ir (ar) radikalais. 
+Papildyta straipsnio dalimi:
+Nr. XI-1073, 2010-10-26, Žin., 2010, Nr. 132-6718 (2010-11-11), i. k. 1101010ISTA0XI-1073
+ 
+
+
+
+
+10. Narkotinės ar psichotropinės medžiagos darinių grupė – konkrečios narkotinės ar psichotropinės medžiagos darinių grupė.
+Papildyta straipsnio dalimi:
+Nr. XI-1073, 2010-10-26, Žin., 2010, Nr. 132-6718 (2010-11-11), i. k. 1101010ISTA0XI-1073
+ 
+
+
+
+
+3 straipsnis. Narkotinių ir psichotropinių medžiagų įrašymas į kontroliuojamų medžiagų sąrašus 
+
+
+1. Narkotinės ir psichotropinės medžiagos į kontroliuojamų medžiagų sąrašus įrašomos nurodant konkrečių medžiagų ar jų darinių grupės pavadinimus. 
+
+
+
+
+2. Jeigu į kontroliuojamų medžiagų sąrašus įrašomos konkrečios narkotinės ir psichotropinės medžiagos, nurodomi jų tarptautiniai pavadinimai, jeigu tarptautinių pavadinimų nėra, – cheminiai pavadinimai. Kartu su šiais pavadinimais gali būti nurodomas ir kitoks, vartotojams labiau žinomas, pavadinimas. 
+
+
+
+
+3. Jeigu į kontroliuojamų medžiagų sąrašus įrašoma narkotinės ar psichotropinės medžiagos darinių grupė, jos pavadinimas sudaromas remiantis medžiagos, iš kurios jis gautas, pavadinimu, nurodant konkrečius cheminės struktūros keitimus. Tokiu atveju suprantama, kad visiems dariniams, priskirtiniems šiai grupei, automatiškai taikomas tas pats kontrolės režimas, kaip ir pagrindiniam junginiui. 
+
+
+Straipsnio pakeitimai:
+Nr. XI-1073, 2010-10-26, Žin., 2010, Nr. 132-6718 (2010-11-11), i. k. 1101010ISTA0XI-1073
+ 
 
 
 
@@ -261,7 +297,10 @@ Nr. X-905, 2006-11-16, Žin., 2006, Nr. 130-4888 (2006-11-30), i. k. 1061010ISTA
 
 
 
-2. Licencijų gaminti, importuoti į Lietuvos Respubliką, eksportuoti iš Lietuvos Respublikos, verstis į II ir III sąrašus įtrauktų medžiagų didmenine ir mažmenine prekyba išdavimo, šių licencijų galiojimo sustabdymo, galiojimo panaikinimo, perregistravimo sąlygas ir tvarką, leidimų naudoti objektus ar patalpas išdavimo tvarką nustato licencijavimo taisyklės. Licencijavimo taisykles tvirtina ir licencijuojamos veiklos sąlygas nustato Lietuvos Respublikos Vyriausybė.
+2. Licencijų gaminti, importuoti į Lietuvos Respubliką, eksportuoti iš Lietuvos Respublikos, verstis į II ir III sąrašus įtrauktų medžiagų didmenine ir mažmenine prekyba išdavimo, šių licencijų galiojimo sustabdymo, galiojimo panaikinimo, leidimų naudoti objektus ar patalpas išdavimo tvarką nustato licencijavimo taisyklės. Licencijavimo taisykles tvirtina ir licencijuojamos veiklos sąlygas nustato Lietuvos Respublikos Vyriausybė. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1073, 2010-10-26, Žin., 2010, Nr. 132-6718 (2010-11-11), i. k. 1101010ISTA0XI-1073
+ 
 
 
 
@@ -274,7 +313,10 @@ Nr. X-905, 2006-11-16, Žin., 2006, Nr. 130-4888 (2006-11-30), i. k. 1061010ISTA
 
 
 
-4. Licencijas gaminti, importuoti į Lietuvos Respubliką, eksportuoti iš Lietuvos Respublikos, verstis į II ir III sąrašus įtrauktų medžiagų didmenine ir mažmenine prekyba išduoda, šių licencijų galiojimą sustabdo, galiojimą panaikina, licencijuojamą veiklą kontroliuoja Sveikatos apsaugos ministerija arba jos įgaliota institucija.
+4. Licencijas gaminti, importuoti į Lietuvos Respubliką, eksportuoti iš Lietuvos Respublikos, verstis į II ir III sąrašus įtrauktų medžiagų didmenine ir mažmenine prekyba išduoda, šių licencijų galiojimą sustabdo, galiojimo sustabdymą ir galiojimą panaikina Sveikatos apsaugos ministerija arba jos įgaliota institucija. Licencijos išduodamos neterminuotam laikui.
+Straipsnio dalies pakeitimai:
+Nr. XI-1073, 2010-10-26, Žin., 2010, Nr. 132-6718 (2010-11-11), i. k. 1101010ISTA0XI-1073
+ 
 
 
 
@@ -591,8 +633,29 @@ Nr. X-905, 2006-11-16, Žin., 2006, Nr. 130-4888 (2006-11-30), i. k. 1061010ISTA
 
 
 PENKTASIS SKIRSNIS
-NARKOTINIŲ IR PSICHOTROPINIŲ MEDŽIAGŲ APYVARTOS APSKAITA IR KONTROLĖ
+VEIKLOS, SUSIJUSIOS SU NARKOTINĖMIS IR PSICHOTROPINĖMIS MEDŽIAGOMIS, KONTROLĖ IR ŠIŲ MEDŽIAGŲ APYVARTOS APSKAITA 
  
+Pakeistas skirsnio pavadinimas:
+Nr. XI-1073, 2010-10-26, Žin., 2010, Nr. 132-6718 (2010-11-11), i. k. 1101010ISTA0XI-1073
+ 
+
+
+211 straipsnis. Veiklos, susijusios su narkotinėmis ir psichotropinėmis medžiagomis, kontrolė
+
+
+1. Narkotinių ir psichotropinių medžiagų kontrolę pagal kompetenciją vykdo Sveikatos apsaugos ministerija ar jos įgaliota institucija, policijos ir muitinės įstaigos, Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, vadovaudamosi šiuo įstatymu ir (ar) kitais jų veiklą reglamentuojančiais teisės aktais. 
+
+
+
+
+2. Sveikatos apsaugos ministerija ar jos įgaliota institucija kontroliuoja licencijuojamą veiklą, atlikdama tikrinimus sveikatos apsaugos ministro nustatyta tvarka. Juridiniai asmenys ir užsienio juridinių asmenų filialai, turintys licenciją verstis veikla, susijusia su narkotinėmis ir psichotropinėmis medžiagomis, turi būti tikrinami ne rečiau kaip kas penkeri metai.
+
+
+Papildyta straipsniu:
+Nr. XI-1073, 2010-10-26, Žin., 2010, Nr. 132-6718 (2010-11-11), i. k. 1101010ISTA0XI-1073
+ 
+
+
 
 
 22 straipsnis. Narkotinių ir psichotropinių medžiagų apskaitos tvarkymo ir kontrolės vykdymo subjektai
@@ -717,3 +780,8 @@ Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-905, 2006-11-16, Žin., 2006, Nr. 130-4888 (2006-11-30), i. k. 1061010ISTA000X-905
 Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo 1, 2, 8, 10, 12, 14, 16, 20, 23 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 8(1) straipsniu ir priedu įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1073, 2010-10-26, Žin., 2010, Nr. 132-6718 (2010-11-11), i. k. 1101010ISTA0XI-1073
+Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo 2, 3, 10 straipsnių, penktojo skirsnio pavadinimo pakeitimo ir papildymo ir Įstatymo papildymo 21-1 straipsniu įstatymas
