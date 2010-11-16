@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8E89798D5C4E"
 
 # Lietuvos Respublikos teisėjų valstybinių pensijų įstatymas
 
-Suvestinė redakcija nuo 2007-10-25 iki 2010-11-15
+Suvestinė redakcija nuo 2010-11-16 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3088, i. k. 1021010ISTA0IX-1011
  
@@ -147,6 +147,10 @@ Teisėjų darbo stažą teisėjų valstybinei pensijai gauti sudaro laikas nuo 1
 
 
 1. Asmenims, turintiems teisę gauti teisėjų valstybinę pensiją ir atitinkantiems šio Įstatymo 3 straipsnyje nustatytas sąlygas bei įgijusiems ne mažesnį kaip 20 metų teisėjo darbo stažą, teisėjų valstybinė pensija apskaičiuojama iš paskutinių 5, prieš nustojant eiti teisėjo pareigas, metų teisėjo gauto darbo užmokesčio vidurkio ir skiriama 45 procentų šio dydžio. 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos teisėjų valstybinių pensijų įstatymo 6 straipsnio 1 dalis (Žin., 2002, Nr. 73-3088) ta apimtimi, kuria įtvirtinant maksimalų teisėjų valstybinės pensijos dydį nėra atsižvelgta į atskirų teismų sistemų ypatumus, prieštarauja Lietuvos Respublikos Konstitucijos 109 straipsnio 2 daliai, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+2010-06-29, Žin., 2010, Nr. 134-6860 (2010-11-16); Žin., 2011, Nr. 33-0 (2011-03-19), i. k. 1101000NUTARG109450            
+ 
 
 
 
@@ -165,13 +169,21 @@ Teisėjų darbo stažą teisėjų valstybinei pensijai gauti sudaro laikas nuo 1
 
 
 3) asmenims, įgijusiems 5 ir daugiau metų teisėjo darbo stažą, teisėjų valstybinė pensija apskaičiuojama iš paskutinių 5, prieš nustojant eiti teisėjo pareigas, metų teisėjo gauto darbo užmokesčio vidurkio ir skiriama 10 procentų šio dydžio.
+ 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos teisėjų valstybinių pensijų įstatymo 6 straipsnio 2 dalis (Žin., 2002, Nr. 73-3088) prieštarauja Lietuvos Respublikos Konstitucijos 109 straipsnio 2 daliai, konstituciniam teisinės valstybės principui.
 
 
+Straipsnio dalies pakeitimai:
+2010-06-29, Žin., 2010, Nr. 134-6860 (2010-11-16); Žin., 2011, Nr. 33-0 (2011-03-19), i. k. 1101000NUTARG109450            
+ 
 
 
 
 
 3. Šio straipsnio 1 ir 2 dalyse nustatyta tvarka apskaičiuotos teisėjų valstybinės pensijos ir pagal kitus įstatymus paskirtų pensijų (valstybinių ir valstybinių socialinio draudimo pensijų) suma vienam asmeniui negali viršyti užpraeito ketvirčio prieš tą mėnesį, už kurį mokama teisėjų valstybinė pensija, Statistikos departamento paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio 1,5 dydžio. Pensijos dydžio ribojimą taiko teisėjų valstybines pensijas mokanti institucija. 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos teisėjų valstybinių pensijų įstatymo 6 straipsnio 3 dalis (Žin., 2002, Nr. 73-3088) prieštarauja Lietuvos Respublikos Konstitucijos 109 straipsnio 2 daliai, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+2010-06-29, Žin., 2010, Nr. 134-6860 (2010-11-16); Žin., 2011, Nr. 33-0 (2011-03-19), i. k. 1101000NUTARG109450            
  
 
 
@@ -375,5 +387,10 @@ Lietuvos Respublikos teisėjų valstybinių pensijų įstatymo 4 straipsnio pake
  
 4.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-2007-10-22, Žin., 2007, Nr. 110-4511 (2007-10-25); Žin., 2011, Nr. 33-0 (2011-03-19), i. k. 1071000NUTARG077101                
+2007-10-22, Žin., 2007, Nr. 110-4511 (2007-10-25); Žin., 2011, Nr. 33-0 (2011-03-19), i. k. 1071000NUTARG077101                
 Dėl Lietuvos Respublikos teisėjų valstybinių pensijų įstatymo 4 straipsnio (2002 m. liepos 2 d., 2004 m. lapkričio 4 d., 2005 m. gegužės 19 d., 2006 m. birželio 8 d. redakcijos) atitikties Lietuvos Respublikos Konstitucijai
+ 
+5.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+2010-06-29, Žin., 2010, Nr. 134-6860 (2010-11-16); Žin., 2011, Nr. 33-0 (2011-03-19), i. k. 1101000NUTARG109450                
+Dėl Lietuvos Respublikos teisėjų valstybinių pensijų įstatymo 5, 6 straipsnių, Lietuvos Respublikos valstybinių pensijų įstatymo 3 straipsnio 3 dalies (2009 m. gruodžio 8 d. redakcija), Lietuvos Respublikos socialinių išmokų perskaičiavimo ir mokėjimo laikinojo įstatymo 1 straipsnio 2 dalies 1 punkto, 16 straipsnio 4 dalies atitikties Lietuvos Respublikos Konstitucijai
