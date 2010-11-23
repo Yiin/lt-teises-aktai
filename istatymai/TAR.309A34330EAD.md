@@ -139,12 +139,16 @@ vandenimis, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos
 nustatyta tvarka privalo būti paskirtas pavojingų krovinių vežimo saugos
 specialistas, atsakingas už saugų pavojingų krovinių vežimą.
  
-6 straipsnis. Pavojingų krovinių
-vežimo statistika
+6
+straipsnis. Pavojingų krovinių vežimo statistika
 Visos įmonės, kurių veikla susijusi su pavojingų
-krovinių vežimu, privalo Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos
-nustatyta tvarka Statistikos departamentui prie Lietuvos Respublikos
-Vyriausybės teikti statistinius duomenis apie pavojingų krovinių vežimą.
+krovinių vežimu, privalo Lietuvos Respublikos Vyriausybės ar
+jos įgaliotos institucijos nustatyta tvarka Lietuvos statistikos departamentui
+teikti statistinius duomenis apie pavojingų krovinių
+vežimą.
+Straipsnio pakeitimai
+Nr. XI-1088, 2010-11-04,
+Žin., 2010, Nr. 137-6989 (2010-11-23)
  
 7
 straipsnis. Maršrutų pavojingiems kroviniams vežti nustatymas
@@ -157,8 +161,8 @@ su pavojingais kroviniais įrengimą.
 8
 straipsnis. Pavojingų krovinių vežimo kontrolė
 1. Pavojingų
-krovinių vežimo kontrolės tvarką nustato Lietuvos Respublikos
-Vyriausybė. 
+krovinių vežimo kontrolės tvarką nustato Lietuvos Respublikos Vyriausybė.
+
 2. Pavojingų
 krovinių vežimo kontrolę atlieka Lietuvos Respublikos Vyriausybės įgaliotos
 institucijos.
@@ -167,15 +171,8 @@ kuriais draudžiama vežti pavojingus krovinius, skelbiami Vyriausybės įgaliot
 institucijos nustatyta tvarka.
  
 9
-straipsnis. Pavojingų krovinių vežimo ekspertų komisija
-Lietuvos
-Respublikos Vyriausybė iš Aplinkos ministerijos, Sveikatos apsaugos ministerijos,
-Susisiekimo ministerijos ir Vidaus reikalų ministerijos atstovų sudaro
-Pavojingų krovinių vežimo ekspertų komisiją avarijų, susijusių su pavojingų
-krovinių vežimu ir sukėlusių sunkias pasekmes, ekspertizei atlikti. Jos
-nuostatus ir sudėtį tvirtina Vyriausybė.
-9 straipsnis netenka galios nuo 2008 m.
-liepos 1 d.
+straipsnis. Neteko
+galios nuo 2008 m. liepos 1 d.
 Straipsnio pakeitimai:
 Nr. X-1576, 2008-06-05, Žin., 2008, Nr.
 71-2705 (2008-06-21)
@@ -205,9 +202,8 @@ nuostatos
 12 straipsnis. Įstatymo įsigaliojimas
 Šis Įstatymas įsigalioja nuo 2002 m. kovo 1 d.
  
-13
-straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ar jos įgaliotai
-institucijai
+13 straipsnis.
+Pasiūlymas Lietuvos Respublikos Vyriausybei ar jos įgaliotai institucijai
 Pasiūlyti Lietuvos Respublikos Vyriausybei ar jos
 įgaliotai institucijai iki 2002 m. kovo 1 d. parengti ir
 patvirtinti šiam Įstatymui įgyvendinti reikalingus teisės aktus. 
@@ -239,11 +235,18 @@ KROVINIŲ VEŽIMO AUTOMOBILIŲ, GELEŽINKELIŲ IR VIDAUS VANDENŲ TRANSPORTU ĮS
 Šis įstatymas, išskyrus 2 straipsnį,
 įsigalioja 2008 m. liepos 1 d.
  
-***
-Pabaiga ***
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1088,
+2010-11-04, Žin., 2010, Nr. 137-6989 (2010-11-23)
+PAVOJINGŲ
+KROVINIŲ VEŽIMO AUTOMOBILIŲ, GELEŽINKELIŲ IR VIDAUS VANDENŲ TRANSPORTU ĮSTATYMO
+6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+*** Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2008-06-27)
+Redagavo Aušrinė Trapinskienė
+(2010-11-23)
                  
 autrap@lrs.lt
