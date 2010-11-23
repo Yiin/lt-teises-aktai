@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 2006-01-12 iki 2010-11-22
+Suvestinė redakcija nuo 2010-11-23 iki 2012-12-31
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
  
@@ -389,7 +389,10 @@ Nr. X-461, 2005-12-20, Žin., 2006, Nr. 4-96 (2006-01-12), i. k. 1051010ISTA000X
 
 
 
-3. Valstybinė mokesčių inspekcija šio straipsnio 1 ir 2 dalyse nurodytose ataskaitose pateiktą informaciją Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais pateikia Statistikos departamentui prie Lietuvos Respublikos Vyriausybės.
+3. Valstybinė mokesčių inspekcija šio straipsnio 1 ir 2 dalyse nurodytose ataskaitose pateiktą informaciją Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais pateikia Lietuvos statistikos departamentui.
+Straipsnio dalies pakeitimai:
+Nr. XI-1093, 2010-11-04, Žin., 2010, Nr. 137-6994 (2010-11-23), i. k. 1101010ISTA0XI-1093
+ 
 
 
 
