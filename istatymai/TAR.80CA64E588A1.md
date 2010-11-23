@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.80CA64E588A1"
 
 # Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymas
 
-Suvestinė redakcija nuo 2008-12-31 iki 2010-11-22
+Suvestinė redakcija nuo 2010-11-23 iki 2011-09-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3009, i. k. 1021010ISTA00IX-987
  
@@ -293,7 +293,7 @@ PARAMA ŽEMĖS ŪKIUI, MAISTO ŪKIUI IR KAIMO PLĖTRAI
  
 
 
-6 straipsnis.         Žemės ūkio, maisto ūkio ir kaimo plėtros paramos įgyvendinimo principai
+6 straipsnis. Žemės ūkio, maisto ūkio ir kaimo plėtros paramos įgyvendinimo principai
 
 
 Parama žemės ūkiui, maisto ūkiui ir kaimo plėtrai teikiama vadovaujantis šiais principais:
@@ -334,7 +334,7 @@ Parama žemės ūkiui, maisto ūkiui ir kaimo plėtrai teikiama vadovaujantis š
 
 
 
-7 straipsnis.         Žemės ūkio, maisto ūkio ir kaimo plėtros paramos įgyvendinimo šaltiniai ir priemonės
+7 straipsnis. Žemės ūkio, maisto ūkio ir kaimo plėtros paramos įgyvendinimo šaltiniai ir priemonės
 
 
 1. Parama žemės ūkiui, maisto ūkiui ir kaimo plėtrai teikiama iš Lietuvos Respublikos valstybės biudžeto lėšų, Europos Sąjungos fondų lėšų ir kitų lėšų.
@@ -442,10 +442,12 @@ KETVIRTASIS SKIRSNIS
 10 straipsnis. Žemės ūkio, maisto ūkio oficialioji statistika
 
 
-Žemės ūkio, maisto ūkio oficialiąją statistiką, vadovaudamiesi Lietuvos Respublikos statistikos įstatymu, tvarko Statistikos departamentas prie Lietuvos Respublikos Vyriausybės, Žemės ūkio ministerija, Vyriausybės įgaliotos institucijos ir kiti Lietuvos Respublikos statistikos įstatyme nurodyti juridiniai asmenys.
+Žemės ūkio, maisto ūkio oficialiąją statistiką, vadovaudamiesi Lietuvos Respublikos statistikos įstatymu, tvarko Lietuvos statistikos departamentas, Žemės ūkio ministerija, Vyriausybės įgaliotos institucijos ir kiti Lietuvos Respublikos statistikos įstatyme nurodyti juridiniai asmenys.
+
+
+Straipsnio pakeitimai:
+Nr. XI-1091, 2010-11-04, Žin., 2010, Nr. 137-6992 (2010-11-23), i. k. 1101010ISTA0XI-1091
  
-
-
 
 
 
@@ -536,3 +538,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1663, 2008-07-01, Žin., 2008, Nr. 81-3174 (2008-07-17), i. k. 1081010ISTA00X-1663
 Lietuvos Respublikos žemės ūkio ir kaimo plėtros įstatymo pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1091, 2010-11-04, Žin., 2010, Nr. 137-6992 (2010-11-23), i. k. 1101010ISTA0XI-1091
+Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo 10 straipsnio pakeitimo įstatymas
