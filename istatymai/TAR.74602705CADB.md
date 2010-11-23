@@ -173,9 +173,9 @@ sandėliuose (terminaluose);
 rezervuaruose;
 3) uostuose
 prisišvartavusiuose tanklaiviuose.
-2.
-Importuojama, atgabenama nafta ar naftos produktai gali būti priskirti
-atsargoms tik baigus įforminti importo ar atgabenimo procedūras.
+2. Importuojama,
+atgabenama nafta ar naftos produktai gali būti priskirti atsargoms tik baigus
+įforminti importo ar atgabenimo procedūras.
 3. Atsargoms
 negali būti priskiriama:
 1) dar neišgauta valstybės teritorijoje
@@ -217,11 +217,11 @@ Nr. IX-2145,
 2004-04-20, Žin., 2004, Nr. 63-2247 (2004-04-28)
  
 11 straipsnis. Atsargų reguliavimas
-1.
-Vyriausybės įgaliota institucija yra atsakinga už naftos, naftos produktų
-importo, atgabenimo, eksporto, prekybos, suvartojimo būklės analizę bei
-įvertinimą, tam reikalingos nuolat veikiančios informacinės sistemos sudarymą,
-taip pat šio Įstatymo numatytų priemonių įgyvendinimo koordinavimą.
+1. Vyriausybės
+įgaliota institucija yra atsakinga už naftos, naftos produktų importo,
+atgabenimo, eksporto, prekybos, suvartojimo būklės analizę bei įvertinimą, tam
+reikalingos nuolat veikiančios informacinės sistemos sudarymą, taip pat šio
+Įstatymo numatytų priemonių įgyvendinimo koordinavimą.
 2. Ekstremalią
 energetikos padėtį reglamentuoja kiti įstatymai.
 Straipsnio pakeitimai:
@@ -234,15 +234,13 @@ INFORMAVIMAS
  
 12
 straipsnis. Informacijos teikimas
-1. Įmonės, kurios
-verčiasi energijos ar energijos išteklių, naftos ar naftos produktų gavyba,
-gamyba, importu, eksportu, prekyba, atgabenimu, išgabenimu, vartojimu, taip pat
-Statistikos departamentas prie Lietuvos Respublikos Vyriausybės, Valstybinė mokesčių
-inspekcija ir Lietuvos Respublikos muitinė privalo teikti informaciją
-Vyriausybės įgaliotai institucijai šio Įstatymo nuostatoms įgyvendinti. Įmonių
-teikiamos informacijos apimtį bei jos teikimo tvarką nustato Vyriausybės
-įgaliota institucija ir Statistikos departamentas prie Lietuvos Respublikos
-Vyriausybės.
+1. Įmonės, kurios verčiasi energijos ar energijos
+išteklių, naftos ar naftos produktų gavyba, gamyba, importu, eksportu, prekyba,
+atgabenimu, išgabenimu, vartojimu, taip pat Lietuvos statistikos departamentas,
+Valstybinė mokesčių inspekcija ir Lietuvos Respublikos muitinė privalo teikti
+informaciją Vyriausybės įgaliotai institucijai šio Įstatymo nuostatoms
+įgyvendinti. Įmonių teikiamos informacijos apimtį ir jos teikimo tvarką nustato
+Vyriausybės įgaliota institucija ir Lietuvos statistikos departamentas.
 2. Duomenys apie
 konkrečios įmonės sukauptas atsargas yra tarnybos paslaptį sudaranti
 informacija, kuri įslaptinama, saugoma, naudojama ir išslaptinama įstatymų
@@ -253,6 +251,8 @@ tvarka.
 Straipsnio pakeitimai:
 Nr. IX-2145,
 2004-04-20, Žin., 2004, Nr. 63-2247 (2004-04-28)
+Nr. XI-1090,
+2010-11-04, Žin., 2010, Nr. 137-6991 (2010-11-23)
  
 PENKTASIS SKIRSNIS
 ATSAKOMYBĖ
@@ -273,15 +273,15 @@ tvarkymą kontroliuoja Valstybinė energetikos inspekcija prie Energetikos
 ministerijos (toliau – Valstybinė energetikos inspekcija). Atsargos yra
 kontroliuojamos bet kuriuo metu, neatsižvelgiant į nuosavybę, laikymo vietą ar
 sąlygas. Valstybinės energetikos inspekcijos pareigūnai pagal savo kompetenciją
-turi teisę įeiti į ūkio subjekto teritoriją, patalpas, tikrinti atsargas,
-patikrinti reikiamus dokumentus ir gauti jų kopijas. Patikrinimas įforminamas
-aktu. Akto formą ir užpildymo tvarką nustato Valstybinė energetikos inspekcija.
+turi teisę įeiti į ūkio subjekto teritoriją, patalpas, tikrinti atsargas, patikrinti
+reikiamus dokumentus ir gauti jų kopijas. Patikrinimas įforminamas aktu. Akto
+formą ir užpildymo tvarką nustato Valstybinė energetikos inspekcija.
 Patikrinime gali dalyvauti ir kitų valstybės institucijų atstovai.
 Straipsnio
 pakeitimai:
 Nr.
-IX-1334, 2003-01-28,
-Žin., 2003, Nr. 17-709 (2003-02-19)
+IX-1334,
+2003-01-28, Žin., 2003, Nr. 17-709 (2003-02-19)
 Nr. XI-137,
 2009-01-12, Žin., 2009, Nr. 10-359 (2009-01-27)
  
@@ -349,14 +349,14 @@ Nr.
 IX-2145,
 2004-04-20, Žin., 2004, Nr. 63-2247 (2004-04-28)
 NAFTOS
-PRODUKTŲ IR NAFTOS VALSTYBĖS ATSARGŲ ĮSTATYMO 1, 2, 3, 4, 8, 10, 11, 12 STRAIPSNIŲ
-PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS
+PRODUKTŲ IR NAFTOS VALSTYBĖS ATSARGŲ ĮSTATYMO 1, 2, 3, 4, 8, 10, 11, 12
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS
  
 3.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XI-115,
-2008-12-23, Žin., 2008, Nr. 149-6035 (2008-12-30)
+Nr. XI-115, 2008-12-23,
+Žin., 2008, Nr. 149-6035 (2008-12-30)
 NAFTOS
 PRODUKTŲ IR NAFTOS VALSTYBĖS ATSARGŲ ĮSTATYMO 4 IR 14 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -373,11 +373,17 @@ PRODUKTŲ IR NAFTOS VALSTYBĖS ATSARGŲ ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTAT
 Šis
 įstatymas įsigalioja 2009 m. vasario 1 d.
  
-***
-Pabaiga ***
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1090,
+2010-11-04, Žin., 2010, Nr. 137-6991 (2010-11-23)
+NAFTOS PRODUKTŲ
+IR NAFTOS VALSTYBĖS ATSARGŲ ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+*** Pabaiga ***
  
  
-Redagavo
-Aušrinė Trapinskienė (2009-01-28)
+Redagavo Aušrinė Trapinskienė
+(2010-11-23)
                  
 autrap@lrs.lt
