@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0F8C601D8592"
 
 # Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymas
 
-Suvestinė redakcija nuo 2007-12-06 iki 2010-11-22
+Suvestinė redakcija nuo 2010-11-23 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 42-1192, i. k. 1001010ISTAIII-1666
- 
-TAR pastaba. 2007-12-06 priimtas Europos Sąjungos Tarybos sprendimas, patikrinus pagal taikomas Šengeno vertinimo procedūras, ar būtinos sąlygos dėl viso atitinkamo acquis taikymo yra įvykdytos Lietuvos Respublikoje, įsigaliojo 2007-12-08.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. X-1016, 2007-01-12, Žin., 2007, Nr. 12-490 (2007-01-30), i. k. 1071010ISTA00X-1016
-Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo 2, 5, 8, 9, 11, 20, 26 straipsnių pakeitimo ir papildymo, 6 straipsnio pripažinimo netekusiu galios bei Įstatymo papildymo priedu įstatymas
  
  
 LIETUVOS RESPUBLIKOS VALSTYBĖS SIENOS IR JOS APSAUGOS ĮSTATYMAS
@@ -745,7 +740,9 @@ Nr. VIII-1998, 2000-10-10, Žin., 2000, Nr. 92-2850 (2000-10-31), i. k. 1001010I
 
 
 
-5. Draudžiama būti teritorijoje, kur galioja pasienio teisinis režimas, asmenims be asmens tapatybę patvirtinančių dokumentų.
+5. Draudžiama būti teritorijoje, kurioje galioja pasienio teisinis režimas, asmenims be asmens tapatybę patvirtinančių dokumentų. Šis draudimas netaikomas teritorijoje, kurioje galioja pasienio teisinis režimas, esančioje prie vidaus sienos, išskyrus atvejus, kai vidaus sienos kontrolė laikinai atnaujinama.
+Straipsnio dalies pakeitimai:
+Nr. XI-1100, 2010-11-09, Žin., 2010, Nr. 137-7001 (2010-11-23), i. k. 1101010ISTA0XI-1100
  
 
 
@@ -1181,3 +1178,8 @@ Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo 26 straipsnio p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1016, 2007-01-12, Žin., 2007, Nr. 12-490 (2007-01-30), i. k. 1071010ISTA00X-1016
 Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo 2, 5, 8, 9, 11, 20, 26 straipsnių pakeitimo ir papildymo, 6 straipsnio pripažinimo netekusiu galios bei Įstatymo papildymo priedu įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1100, 2010-11-09, Žin., 2010, Nr. 137-7001 (2010-11-23), i. k. 1101010ISTA0XI-1100
+Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo 17 straipsnio pakeitimo įstatymas
