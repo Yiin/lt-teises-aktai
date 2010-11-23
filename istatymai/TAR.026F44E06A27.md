@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.026F44E06A27"
 
 # Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2010-11-22
+Suvestinė redakcija nuo 2010-11-23 iki 2011-06-30
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 54-1048, i. k. 0931010ISTA000I-270
  
@@ -99,9 +99,10 @@ Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA
 
 
 
-10. Oficialiosios statistikos darbų programa – statistikos darbų (tyrimų), būtinų valstybės valdymui ir visuomenės reikmėms, pavedamų vykdyti Statistikos departamentui prie Lietuvos Respublikos Vyriausybės (toliau – Statistikos departamentas), jo teritorinėms įstaigoms, kitoms valstybės ir savivaldybių institucijoms bei įstaigoms, sąrašas, kuriame nurodoma už darbo atlikimą atsakinga institucija, darbo pavadinimas, atlikimo periodiškumas, būdas ir rezultatų pateikimo laikas. 
+10. Oficialiosios statistikos darbų programa – statistikos darbų (tyrimų), būtinų valstybės valdymui ir visuomenės reikmėms, pavedamų vykdyti Lietuvos statistikos departamentui (toliau – Statistikos departamentas), jo teritorinėms įstaigoms, kitoms valstybės ir savivaldybių institucijoms bei įstaigoms, sąrašas, kuriame nurodoma už darbo atlikimą atsakinga institucija, darbo pavadinimas, atlikimo periodiškumas, būdas ir rezultatų pateikimo laikas. 
 Straipsnio dalies pakeitimai:
 Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA00XI-774
+Nr. XI-1085, 2010-11-04, Žin., 2010, Nr. 137-6986 (2010-11-23), i. k. 1101010ISTA0XI-1085
  
 
 
@@ -266,7 +267,10 @@ Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA
 7 straipsnis. Statistikos departamentas
 
 
-1. Statistikos departamentas yra Lietuvos Respublikos vykdomosios valdžios institucija, finansuojama iš valstybės biudžeto. Statistikos departamentas yra juridinis asmuo, turintis sąskaitą banke ir antspaudą su Lietuvos valstybės herbu bei savo pavadinimu. Statistikos departamento nuostatus tvirtina Vyriausybė.
+1. Statistikos departamentas yra Vyriausybės įstaiga, dalyvaujanti formuojant valstybės politiką finansų ministrui priskirtoje statistikos valdymo srityje ir ją įgyvendinanti. Statistikos departamentas yra viešasis juridinis asmuo, turintis sąskaitą banke ir antspaudą su Lietuvos valstybės herbu ir savo pavadinimu „Lietuvos statistikos departamentas“. Statistikos departamentas yra iš valstybės biudžeto išlaikoma biudžetinė įstaiga. Statistikos departamento nuostatus tvirtina Vyriausybė. Statistikos departamento administracijos struktūrą tvirtina Vyriausybė arba paveda tvirtinti Statistikos departamento generaliniam direktoriui. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1085, 2010-11-04, Žin., 2010, Nr. 137-6986 (2010-11-23), i. k. 1101010ISTA0XI-1085
+ 
 
 
 
@@ -276,7 +280,9 @@ Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA
 
 
 
-3. Statistikos departamentui vadovauja generalinis direktorius, kurį skiria ir atleidžia Ministras Pirmininkas.
+3. Statistikos departamentui vadovauja generalinis direktorius – valstybės pareigūnas, kurį finansų ministro teikimu ketveriems metams į pareigas priima ir iš jų atleidžia Vyriausybė. Į Statistikos departamento generalinio direktoriaus pareigas gali būti priimamas asmuo, turintis aukštąjį universitetinį išsilavinimą (magistro kvalifikacinį laipsnį) arba jam prilygintą vientisųjų studijų aukštąjį universitetinį išsilavinimą ir ne mažesnį kaip 5 metų darbo statistikos srityje ir 5 metų vadovaujamo darbo viešojo administravimo srityje stažą. Statistikos departamento generalinis direktorius gali būti skiriamas eiti šias pareigas ne daugiau kaip dvi kadencijas iš eilės. Statistikos departamento generalinio direktoriaus įgaliojimų įgyvendinimas negali būti susietas su jokios politinės partijos veikla. Statistikos departamento generalinis direktorius yra atsakingas ir atskaitingas Vyriausybei ir finansų ministrui. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1085, 2010-11-04, Žin., 2010, Nr. 137-6986 (2010-11-23), i. k. 1101010ISTA0XI-1085
  
 
 
@@ -424,9 +430,10 @@ Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA
 
 
 
-2. Statistikos tarybą sudaro valstybės ir savivaldybių institucijų, įstaigų, tvarkančių statistiką, mokslo įstaigų, visuomeninių organizacijų, įmonių, kitų respondentų bei visuomenės informavimo priemonių atstovai. Statistikos tarybos sudėtį ir nuostatus tvirtina Vyriausybė. 
+2. Statistikos tarybą sudaro valstybės ir savivaldybių institucijų, įstaigų, tvarkančių statistiką, mokslo įstaigų, visuomeninių organizacijų, įmonių, kitų respondentų ir visuomenės informavimo priemonių atstovai. Statistikos tarybos sudėtį ir Statistikos tarybos nuostatus tvirtina Vyriausybė arba paveda juos tvirtinti finansų ministrui. 
 Straipsnio dalies pakeitimai:
 Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA00XI-774
+Nr. XI-1085, 2010-11-04, Žin., 2010, Nr. 137-6986 (2010-11-23), i. k. 1101010ISTA0XI-1085
  
 
 
@@ -690,3 +697,8 @@ Lietuvos Respublikos statistikos įstatymo pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-774, 2010-04-22, Žin., 2010, Nr. 53-2596 (2010-05-08), i. k. 1101010ISTA00XI-774
 Lietuvos Respublikos statistikos įstatymo 1, 2, 3, 5, 6, 8, 9, 11, 12 ir 16 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1085, 2010-11-04, Žin., 2010, Nr. 137-6986 (2010-11-23), i. k. 1101010ISTA0XI-1085
+Lietuvos Respublikos statistikos įstatymo 2, 6, 7, 11, 18 straipsnių pakeitimo ir 9 straipsnio pripažinimo netekusiu galios įstatymas
