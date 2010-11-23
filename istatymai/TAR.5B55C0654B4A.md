@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5B55C0654B4A"
 
 # Lietuvos Respublikos pašarų įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2010-11-22
+Suvestinė redakcija nuo 2010-11-23 iki 2020-07-09
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 34-952, i. k. 1001010ISTAIII-1610
  
@@ -381,10 +381,12 @@ PAŠARŲ GAMYBOS, TIEKIMO RINKAI IR ATSARGŲ STATISTINĖS ATSKAITOMYBĖS, VALSTY
 8 straipsnis. Atskaitomybė
 
 
-Pašarų gamybos, tiekimo rinkai ir atsargų statistinės atskaitomybės tvarką ir duomenų pateikimo periodiškumą nustato Statistikos departamentas prie Lietuvos Respublikos Vyriausybės, suderinęs su Lietuvos Respublikos žemės ūkio ministerija (toliau – Žemės ūkio ministerija).
+Pašarų gamybos, tiekimo rinkai ir atsargų statistinės atskaitomybės tvarką ir duomenų pateikimo periodiškumą nustato Lietuvos statistikos departamentas, suderinęs su Lietuvos Respublikos žemės ūkio ministerija (toliau – Žemės ūkio ministerija).
+
+
+Straipsnio pakeitimai:
+Nr. XI-1094, 2010-11-04, Žin., 2010, Nr. 137-6995 (2010-11-23), i. k. 1101010ISTA0XI-1094
  
-
-
 
 
 
@@ -701,3 +703,8 @@ Lietuvos Respublikos pašarų įstatymo pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-654, 2010-01-14, Žin., 2010, Nr. 12-560 (2010-01-30), i. k. 1101010ISTA00XI-654
 Lietuvos Respublikos pašarų įstatymo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1094, 2010-11-04, Žin., 2010, Nr. 137-6995 (2010-11-23), i. k. 1101010ISTA0XI-1094
+Lietuvos Respublikos pašarų įstatymo 8 straipsnio pakeitimo įstatymas
