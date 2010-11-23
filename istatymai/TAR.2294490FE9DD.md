@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2294490FE9DD"
 
 # Lietuvos Respublikos muitinės įstatymas
 
-Suvestinė redakcija nuo 2009-12-28 iki 2010-11-22
+Suvestinė redakcija nuo 2010-11-23 iki 2012-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2517, i. k. 1041010ISTA0IX-2183
  
@@ -1940,20 +1940,17 @@ MUITINĖS DEKLARACIJOS
 57 straipsnis. Asmenys, turintys teisę pateikti muitinės deklaraciją
 
 
-1. Deklarantas turi būti Bendrijos muitinės kodekso 64 straipsnyje nurodytas asmuo, muitinės įtrauktas į Muitinės prievolininkų registrą.
+1. Deklarantas, pateikiantis rašytinę muitinės deklaraciją arba muitinės deklaraciją, pateikiamą naudojantis duomenų apdorojimo techninėmis priemonėmis, turi būti Bendrijos muitinės kodekso 64 straipsnyje nurodytas asmuo, muitinės įtrauktas į Muitinės prievolininkų registrą arba turintis ekonominių operacijų vykdytojų registracijos ir identifikavimo kodą (EORI kodą), kurį vadovaudamasi Bendrijos muitinės kodekso įgyvendinimo nuostatų 4l straipsniu suteikė kitos Europos Sąjungos valstybės narės muitinė arba paskirtoji institucija.
 
 
 
 
-2. Deklarantas įtraukiamas į Muitinės prievolininkų registrą, kai jis pirmą kartą pateikia rašytinę muitinės deklaraciją arba muitinės deklaraciją, pateikiamą naudojantis duomenų apdorojimo techninėmis priemonėmis. Muitinės prievolininkų registrą, vadovaudamasis Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka, tvarko Muitinės departamentas arba Muitinės departamento generalinio direktoriaus įgaliota muitinės įstaiga.
+2. Muitinės departamentas arba Muitinės departamento generalinio direktoriaus įgaliotos muitinės įstaigos registruoja asmenis Muitinės prievolininkų registre, tvarko šį registrą ir įkelia jo duomenis į centrinę elektroninę informacijos ir ryšių sistemą, kurioje kaupiami visų Europos Sąjungos valstybių narių pateikti duomenys, Bendrijos muitinės kodekso įgyvendinimo nuostatų I dalies I antraštinės dalies 6 skyriuje ir Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. 
 
 
-
-
-3. Į Muitinės prievolininkų registrą privalomai netraukiami asmenys, nurodyti Bendrijos muitinės kodekso 64 straipsnio 2 dalies b punkte.
+Straipsnio pakeitimai:
+Nr. XI-1099, 2010-11-09, Žin., 2010, Nr. 137-7000 (2010-11-23), i. k. 1101010ISTA0XI-1099
  
-
-
 
 
 
@@ -3340,3 +3337,8 @@ Lietuvos Respublikos muitinės įstatymo 80 straipsnio pakeitimo ir priedo pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-575, 2009-12-17, Žin., 2009, Nr. 154-6953 (2009-12-28), i. k. 1091010ISTA00XI-575
 Lietuvos Respublikos muitinės įstatymo 11, 13, 16, 30, 31, 39, 79, 107 straipsnių ir priedo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1099, 2010-11-09, Žin., 2010, Nr. 137-7000 (2010-11-23), i. k. 1101010ISTA0XI-1099
+Lietuvos Respublikos muitinės įstatymo 57 straipsnio pakeitimo įstatymas
