@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2010-01-01 iki 2010-11-26
+Suvestinė redakcija nuo 2010-11-27 iki 2012-10-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
  
@@ -525,7 +525,10 @@ Nr. IX-2364, 2004-07-15, Žin., 2004, Nr. 124-4487 (2004-08-07), i. k. 1041010IS
 
 
 
-6) dėl ne mažesnių kaip 20 mln. litų, o rajonuose, kur nedarbo lygis didesnis už šalies vidurkį, oficialiai skelbiamą Statistikos departamento prie Lietuvos Respublikos Vyriausybės, dėl ne mažesnių kaip 5 mln. litų kapitalo investicijų Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija Lietuvos Respublikos civilinio kodekso nustatyta tvarka sudaro su investuotojais investicijų sutartis, kuriose nustatomos specialios investavimo ir verslo sąlygos;
+6) dėl ne mažesnių kaip 20 mln. litų, o rajonuose, kuriuose nedarbo lygis didesnis už šalies vidurkį, oficialiai skelbiamą Lietuvos statistikos departamento, dėl ne mažesnių kaip 5 mln. litų kapitalo investicijų Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija Lietuvos Respublikos civilinio kodekso nustatyta tvarka sudaro su investuotojais investicijų sutartis, kuriose nustatomos specialios investavimo ir verslo sąlygos; 
+Straipsnio punkto pakeitimai:
+Nr. XI-1116, 2010-11-12, Žin., 2010, Nr. 139-7100 (2010-11-27), i. k. 1101010ISTA0XI-1116
+ 
 
 
 
@@ -914,3 +917,8 @@ Lietuvos Respublikos investicijų įstatymo 8 ir 13 straipsnių pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-299, 2009-06-16, Žin., 2009, Nr. 77-3164 (2009-06-30), i. k. 1091010ISTA00XI-299
 Lietuvos Respublikos investicijų įstatymo 2, 4 straipsnių papildymo ir pakeitimo ir Įstatymo papildymo ketvirtuoju-1 skirsniu įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1116, 2010-11-12, Žin., 2010, Nr. 139-7100 (2010-11-27), i. k. 1101010ISTA0XI-1116
+Lietuvos Respublikos investicijų įstatymo 13 straipsnio pakeitimo įstatymas
