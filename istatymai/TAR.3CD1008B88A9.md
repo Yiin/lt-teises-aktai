@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3CD1008B88A9"
 
 # Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2010-11-26
+Suvestinė redakcija nuo 2010-11-27 iki 2011-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 116-2695, i. k. 0961010ISTA00I-1623
  
@@ -551,7 +551,9 @@ Nr. VIII-336, 1997-06-26, Žin., 1997, Nr. 66-1606 (1997-07-11), i. k. 0971010IS
 
 
 
-5) Krašto apsaugos ministerijos ir Statistikos departamento prie Lietuvos Respublikos Vyriausybės nustatyta tvarka teikia šioms institucijoms duomenis apie turimus materialinius, finansinius išteklius, gamybos pajėgumus ir kitus duomenis, reikalingus mobilizaciniams planams sudaryti.
+5) Krašto apsaugos ministerijos ir Lietuvos statistikos departamento nustatyta tvarka teikia šioms institucijoms duomenis apie turimus materialinius, finansinius išteklius, gamybos pajėgumus ir kitus duomenis, reikalingus mobilizaciniams planams sudaryti.
+Straipsnio punkto pakeitimai:
+Nr. XI-1119, 2010-11-12, Žin., 2010, Nr. 139-7103 (2010-11-27), i. k. 1101010ISTA0XI-1119
  
 
 
@@ -824,3 +826,8 @@ Lietuvos Respublikos mobilizacijos ir mobilizacinio rezervo rengimo įstatymo 2,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-756, 2010-04-13, Žin., 2010, Nr. 48-2305 (2010-04-27), i. k. 1101010ISTA00XI-756
 Lietuvos Respublikos mobilizacijos ir mobilizacinio rezervo rengimo įstatymo 6, 12, 14, 15 straipsnių pakeitimo ir papildymo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1119, 2010-11-12, Žin., 2010, Nr. 139-7103 (2010-11-27), i. k. 1101010ISTA0XI-1119
+Lietuvos Respublikos mobilizacijos ir mobilizacinio rezervo rengimo įstatymo 7 straipsnio pakeitimo įstatymas
