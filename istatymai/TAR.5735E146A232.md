@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5735E146A232"
 
 # Lietuvos Respublikos juridinių asmenų registro įstatymas
 
-Suvestinė redakcija nuo 2009-06-06 iki 2010-11-26
+Suvestinė redakcija nuo 2010-11-27 iki 2014-07-07
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 55-1940, i. k. 1011010ISTA00IX-368
  
@@ -79,7 +79,10 @@ Vilnius
 
 
 
-7) Statistikos departamente prie Lietuvos Respublikos Vyriausybės;
+7) Lietuvos statistikos departamente;
+Straipsnio punkto pakeitimai:
+Nr. XI-1117, 2010-11-12, Žin., 2010, Nr. 139-7101 (2010-11-27), i. k. 1101010ISTA0XI-1117
+ 
 
 
 
@@ -172,3 +175,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-271, 2009-05-21, Žin., 2009, Nr. 67-2689 (2009-06-06), i. k. 1091010ISTA00XI-271
 Lietuvos Respublikos juridinių asmenų registro įstatymo 3 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1117, 2010-11-12, Žin., 2010, Nr. 139-7101 (2010-11-27), i. k. 1101010ISTA0XI-1117
+Lietuvos Respublikos juridinių asmenų registro įstatymo 2 straipsnio pakeitimo įstatymas
