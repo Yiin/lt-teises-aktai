@@ -13,25 +13,30 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9F0B5321D2DB"
 
 # Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymas
 
-Suvestinė redakcija nuo 2005-07-01 iki 2010-12-17
+Suvestinė redakcija nuo 2010-12-18 iki 2011-12-29
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 101-4543, i. k. 1031010ISTA0IX-1789
  
  
-LIETUVOS RESPUBLIKOS LIETUVOS NEPRIKLAUSOMYBĖS AKTO SIGNATARŲ STATUSO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS  LIETUVOS NEPRIKLAUSOMYBĖS AKTO SIGNATARŲ IR  LIETUVOS LAISVĖS KOVOS SĄJŪDŽIO TARYBOS 1949 M. VASARIO 16 D. DEKLARACIJĄ PASIRAŠIUSIŲ ASMENŲ STATUSO  ĮSTATYMAS 
  
 2003 m. spalio 16 d. Nr. IX-1789
 Vilnius
+ 
+Pakeistas teisės akto pavadinimas:
+Nr. XI-1197, 2010-12-02, Žin., 2010, Nr. 148-7565 (2010-12-18), i. k. 1101010ISTA0XI-1197
  
 
 
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis Įstatymas nustato Lietuvos Respublikos Aukščiausiosios Tarybos – Atkuriamojo Seimo deputatų 1990 metų kovo 11 dienos Akto „Dėl Lietuvos nepriklausomos valstybės atstatymo“ signatarų (toliau – Lietuvos Nepriklausomybės Akto signatarų) statusą bei socialines garantijas.
+Šis Įstatymas nustato Lietuvos Respublikos Aukščiausiosios Tarybos – Atkuriamojo Seimo deputatų 1990 metų kovo 11 dienos Akto „Dėl Lietuvos nepriklausomos valstybės atstatymo“ signatarų (toliau – Lietuvos Nepriklausomybės Akto signatarai) ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos, vienintelės teisėtos valdžios okupuotoje Lietuvoje, 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statusą ir socialines garantijas.
+
+
+Straipsnio pakeitimai:
+Nr. XI-1197, 2010-12-02, Žin., 2010, Nr. 148-7565 (2010-12-18), i. k. 1101010ISTA0XI-1197
  
-
-
 
 
 
@@ -44,7 +49,9 @@ Vilnius
 
 
 
-2. Lietuvos Respublikos Aukščiausiosios Tarybos – Atkuriamojo Seimo deputatus, kuriems suteikiamas signataro statusas, nustato šis Įstatymas (Įstatymo priedėlis).
+2. Lietuvos Respublikos Aukščiausiosios Tarybos – Atkuriamojo Seimo deputatus ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusius asmenis, kuriems suteikiamas signataro statusas, nustato šis Įstatymas (Įstatymo priedėlis).
+Straipsnio dalies pakeitimai:
+Nr. XI-1197, 2010-12-02, Žin., 2010, Nr. 148-7565 (2010-12-18), i. k. 1101010ISTA0XI-1197
  
 
 
@@ -399,7 +406,7 @@ Lietuvos Respublikos
 įstatymo Nr. IX-1789
 priedėlis
  
-LIETUVOS NEPRIKLAUSOMYBĖS AKTO SIGNATARAI IR LIETUVOS RESPUBLIKOS AUKŠČIAUSIOSIOS TARYBOS-ATKURIAMOJO SEIMO DEPUTATAI, 1990 M. KOVO 11–14 DIENOMIS VYKDĘ SVARBIĄ VALSTYBINĘ UŽDUOTĮ MASKVOJE
+LIETUVOS NEPRIKLAUSOMYBĖS AKTO SIGNATARAI, LIETUVOS RESPUBLIKOS AUKŠČIAUSIOSIOS TARYBOS – ATKURIAMOJO SEIMO DEPUTATAI, 1990 M. KOVO 11–14 DIENOMIS VYKDĘ SVARBIĄ VALSTYBINĘ UŽDUOTĮ MASKVOJE, LIETUVOS LAISVĖS KOVOS SĄJŪDŽIO TARYBOS  1949 M. VASARIO 16 D. DEKLARACIJĄ PASIRAŠĘ ASMENYS
  
 
 
@@ -567,7 +574,7 @@ I. Lietuvos Nepriklausomybės Akto signatarai
 
 
 
-33. Romualda HOFERTIENĖ 
+33. Romualda HOFERTIENĖ
 
 
 
@@ -1030,7 +1037,7 @@ I. Lietuvos Nepriklausomybės Akto signatarai
 
 
 
-II. Lietuvos Respublikos Aukščiausiosios Tarybos-Atkuriamojo Seimo deputatai, 1990 m. kovo 11–14 dienomis vykdę svarbią valstybinę užduotį Maskvoje
+II. Lietuvos Respublikos Aukščiausiosios Tarybos – Atkuriamojo Seimo deputatai,  1990 m. kovo 11–14 dienomis vykdę svarbią valstybinę užduotį Maskvoje
  
 
 
@@ -1050,8 +1057,56 @@ II. Lietuvos Respublikos Aukščiausiosios Tarybos-Atkuriamojo Seimo deputatai, 
 
 
 
+
+
+III. Lietuvos Laisvės Kovos Sąjūdžio Tarybos  1949 m. vasario 16 d. deklaraciją pasirašę asmenys
+ 
+
+
+1. Jonas ŽEMAITIS-VYTAUTAS
+
+
+
+
+2. Adolfas RAMANAUSKAS-VANAGAS
+
+
+
+
+3. Juozas ŠIBAILA-MERAINIS
+
+
+
+
+4. Leonas GRIGONIS-UŽPALIS
+
+
+
+
+5. Aleksandras GRYBINAS-FAUSTAS
+
+
+
+
+6. Vytautas GUŽAS-KARDAS
+
+
+
+
+7. Bronius LIESYS-NAKTIS
+
+
+
+
+8. Petras BARTKUS-ŽADGAILA
+ 
+
+
+
+
 Priedo pakeitimai:
 Nr. IX-2564, 2004-11-11, Žin., 2004, Nr. 171-6313 (2004-11-26), i. k. 1041010ISTA0IX-2564
+Nr. XI-1197, 2010-12-02, Žin., 2010, Nr. 148-7565 (2010-12-18), i. k. 1101010ISTA0XI-1197
  
  
  
@@ -1066,3 +1121,8 @@ Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų statuso įstatym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. 1051010ISTA000X-208
 Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo, Valstybinių pensijų įstatymo, Mokslininkų valstybinių pensijų laikinojo įstatymo, Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymo, Teisėjų valstybinių pensijų įstatymo, Pensijų kaupimo įstatymo, Lietuvos nepriklausomybės akto signatarų statuso įstatymo pakeitimo ir papildymo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1197, 2010-12-02, Žin., 2010, Nr. 148-7565 (2010-12-18), i. k. 1101010ISTA0XI-1197
+Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų statuso įstatymo pavadinimo, 1, 2 straipsnių ir priedėlio pakeitimo įstatymas
