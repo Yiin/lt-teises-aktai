@@ -22,12 +22,13 @@ PILIETYBĖS
 2002 m. rugsėjo 17 d. Nr. IX-1078
 Vilnius
 Nauja įstatymo redakcija (galioja
-iki 2011 m. sausio 1 d.):
+iki 2011 m. balandžio 1 d.):
 Nr.
 X-1709,
 2008-07-15, Žin., 2008, Nr. 83-3293 (2008-07-22)
 I SKYRIUS
-BENDROSIOS NUOSTATOS
+BENDROSIOS
+NUOSTATOS
  
 1 straipsnis. Lietuvos Respublikos
 piliečiai
@@ -117,7 +118,8 @@ ar kitais Lietuvos Respublikos tarptautinių sutarčių numatytais pagrindais;
 straipsnis. Vaikų, kurių tėvai yra Lietuvos Respublikos piliečiai, pilietybė
 1. Vaikas, kurio
 abu tėvai yra Lietuvos Respublikos piliečiai, yra Lietuvos Respublikos
-pilietis, nesvarbu, ar jis gimė Lietuvos Respublikos teritorijoje, ar už jos ribų.
+pilietis, nesvarbu, ar jis gimė Lietuvos Respublikos teritorijoje, ar už jos
+ribų.
 2. Jeigu abu
 tėvai netenka Lietuvos Respublikos pilietybės, atitinkamai pasikeičia jų vaikų,
 nesukakusių 18 metų, pilietybė. Ši nuostata netaikoma, jeigu dėl tėvų
@@ -146,9 +148,9 @@ Respublikos teritorijoje, įgyja Lietuvos Respublikos pilietybę.
 11
 straipsnis. Vaikų, kurių tėvai nežinomi, pilietybė
 1. Lietuvos
-Respublikos teritorijoje rastas vaikas, kurio abu tėvai nežinomi, laikomas gimusiu
-Lietuvos Respublikos teritorijoje ir yra Lietuvos Respublikos pilietis, jeigu
-nepaaiškėja aplinkybės, dėl kurių vaikas įgytų kitokį statusą. 
+Respublikos teritorijoje rastas vaikas, kurio abu tėvai nežinomi, laikomas
+gimusiu Lietuvos Respublikos teritorijoje ir yra Lietuvos Respublikos pilietis,
+jeigu nepaaiškėja aplinkybės, dėl kurių vaikas įgytų kitokį statusą. 
 2. Lietuvos
 Respublikos teritorijoje rastas ar gyvenantis vaikas, kurio abu tėvai nežinomi,
 abu
@@ -265,10 +267,9 @@ asmuo, o Lietuvos Respublikos diplomatinėse atstovybėse ar konsulinėse įstai
 asmuo. 
 3. Asmuo
 prisiekia stovėdamas priešais priesaiką priimantį asmenį, skaito priesaikos
-tekstą padėjęs ranką ant Lietuvos Respublikos Konstitucijos. Baigęs skaityti
-priesaikos tekstą, asmuo pasirašo vardinį priesaikos lapą. Šioje dalyje
-nustatyti reikalavimai netaikomi asmenims, kurie dėl negalios to padaryti
-negali.
+tekstą padėjęs ranką ant Lietuvos Respublikos Konstitucijos. Baigęs skaityti priesaikos
+tekstą, asmuo pasirašo vardinį priesaikos lapą. Šioje dalyje nustatyti
+reikalavimai netaikomi asmenims, kurie dėl negalios to padaryti negali.
 4. Priesaikos
 tekstas netaisomas ir nekeičiamas. Šios nuostatos nesilaikymas, kaip ir
 atsisakymas pasirašyti vardinį priesaikos lapą arba pasirašymas su išlyga,
@@ -284,9 +285,9 @@ Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 7. Konsulinės
 įstaigos per 7 dienas praneša Respublikos Prezidento kanceliarijai ir vidaus
 reikalų ministro įgaliotai institucijai apie asmenis, prisiekusius šiose
-konsulinėse įstaigose. Vidaus reikalų ministro įgaliota institucija per 7
-dienas praneša Respublikos Prezidento kanceliarijai apie asmenis, prisiekusius
-Vidaus reikalų ministerijoje.
+konsulinėse įstaigose. Vidaus reikalų ministro įgaliota institucija per 7 dienas
+praneša Respublikos Prezidento kanceliarijai apie asmenis, prisiekusius Vidaus
+reikalų ministerijoje.
 8. Suteikus
 Lietuvos Respublikos pilietybę, Lietuvos Respublikos piliečio teisės ir
 pareigos atsiranda tik asmeniui prisiekus Lietuvos Respublikai.
@@ -312,8 +313,8 @@ Respublikos pilietybės suteikimas išimties tvarka savaime nesukelia teisinių
 pasekmių pilietybę įgijusio asmens šeimos nariams. Ši nuostata netaikoma
 pilietybę įgijusio asmens nepilnamečiam vaikui, kuris yra asmuo be pilietybės.
 Nepilnamečio vaiko, kuris yra asmuo be pilietybės, Lietuvos Respublikos
-pilietybės klausimas sprendžiamas pagal šio įstatymo 8 ar 9 straipsnio nuostatas.
-
+pilietybės klausimas sprendžiamas pagal šio įstatymo 8 ar 9 straipsnio
+nuostatas. 
 4. Asmeniui, netekusiam Lietuvos Respublikos pilietybės šio
 įstatymo 18 straipsnio 1 dalyje nustatytais pagrindais, Lietuvos Respublikos
 pilietybė išimties tvarka negali būti suteikiama. 
@@ -405,19 +406,20 @@ pilietis.
 18 metų, Lietuvos Respublikos pilietybė gali būti grąžinta, jei jis, sukakęs 18
 metų, apsisprendė dėl Lietuvos Respublikos pilietybės.
  
-21 straipsnis. Lietuvos Respublikos pilietybės įgijimo
-ar Lietuvos Respublikos pilietybės suteikimo akto pripažinimas negaliojančiu
+21 straipsnis. Lietuvos Respublikos pilietybės
+įgijimo ar Lietuvos Respublikos pilietybės suteikimo akto pripažinimas
+negaliojančiu
 1. Lietuvos
 Respublikos pilietybės suteikimo aktą teismas pripažįsta negaliojančiu, jeigu
-nustato, kad asmuo, įgijęs Lietuvos Respublikos pilietybę natūralizacijos ar
-optavimo būdu, įgijo Lietuvos Respublikos pilietybę pagal suklastotus
-dokumentus ar kitokios apgaulės būdu arba neatsisakė turimos kitos valstybės
-pilietybės, arba teismas nustato, kad jis iki pilietybės suteikimo ar po to
-rengėsi, kėsinosi padaryti ar padarė tarptautinius nusikaltimus – agresiją,
-genocidą, nusikaltimus žmoniškumui, karo nusikaltimus arba įstatymų nustatyta
-tvarka neturėjo teisės gauti dokumento, patvirtinančio teisę nuolat gyventi
-Lietuvos Respublikoje, arba rengėsi, kėsinosi padaryti ar padarė nusikalstamas
-veikas prieš Lietuvos Respubliką.
+nustato, kad asmuo, įgijęs Lietuvos Respublikos pilietybę natūralizacijos ar optavimo
+būdu, įgijo Lietuvos Respublikos pilietybę pagal suklastotus dokumentus ar
+kitokios apgaulės būdu arba neatsisakė turimos kitos valstybės pilietybės, arba
+teismas nustato, kad jis iki pilietybės suteikimo ar po to rengėsi, kėsinosi
+padaryti ar padarė tarptautinius nusikaltimus – agresiją, genocidą,
+nusikaltimus žmoniškumui, karo nusikaltimus arba įstatymų nustatyta tvarka
+neturėjo teisės gauti dokumento, patvirtinančio teisę nuolat gyventi Lietuvos
+Respublikoje, arba rengėsi, kėsinosi padaryti ar padarė nusikalstamas veikas
+prieš Lietuvos Respubliką.
 2. Lietuvos
 Respublikos pilietybės suteikimo aktą teismas pripažįsta negaliojančiu ir tuo
 atveju, kai nustato, kad konkretus asmuo po 1940 m. birželio 15 d. organizavo
@@ -438,8 +440,8 @@ tarnybai, poskyriui, grupei ar pasų poskyriui (toliau – migracijos tarnyba),
 arba konsulinei įstaigai.
 5. Lietuvos
 Respublikos pilietybės įgijimas pripažįstamas negaliojančiu, jeigu paaiškėja,
-kad sprendimas dėl asmens Lietuvos Respublikos pilietybės priimtas pažeidus šį ar
-kitus Lietuvos Respublikos įstatymus. 
+kad sprendimas dėl asmens Lietuvos Respublikos pilietybės priimtas pažeidus šį
+ar kitus Lietuvos Respublikos įstatymus. 
 6. Šio straipsnio 5 dalies nuostata
 netaikoma, jeigu paaiškėja, kad pagal kitos valstybės teisę asmuo buvo laikomas
 tos valstybės piliečiu jam nepareiškus valios tapti jos piliečiu ir jam nėra
@@ -805,17 +807,17 @@ Nr. X-1709,
 PILIETYBĖS
 ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija
-Šis įstatymas galioja iki 2011 m. sausio
+Šis įstatymas galioja iki 2011 m. balandžio
 1 d.
 Įstatymo galiojimas pakeistas:
-1.
+1)
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. XI-508,
 2009-12-01, Žin., 2009, Nr. 147-6551 (2009-12-12)
 PILIETYBĖS
 ĮSTATYMO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-2.
+2)
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
@@ -823,11 +825,18 @@ XI-910,
 2010-06-18, Žin., 2010, Nr. 75-3794 (2010-06-29)
 PILIETYBĖS ĮSTATYMO PAKEITIMO
 ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+3)
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-1207, 2010-12-07,
+Žin., 2010, Nr. 148-7570 (2010-12-18)
+PILIETYBĖS
+ĮSTATYMO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 6.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-205, 2009-03-19,
-Žin., 2009, Nr. 38-1444 (2009-04-04)
+Nr. XI-205,
+2009-03-19, Žin., 2009, Nr. 38-1444 (2009-04-04)
 PILIETYBĖS ĮSTATYMO 15 STRAIPSNIO
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
@@ -849,12 +858,11 @@ TEISĖS AKTŲ, REGULIUOJANČIŲ LIETUVOS RESPUBLIKOS PILIETYBĖS SANTYKIUS, NUOS
 ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
  
-***
-Pabaiga ***
+*** Pabaiga ***
  
  
-Redagavo
-Aušra Bodin (2010-06-29)
+Redagavo Aušrinė Trapinskienė
+(2010-12-20)
                  
-aubodi@lrs.lt
+autrap@lrs.lt
 
