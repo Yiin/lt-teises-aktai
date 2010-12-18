@@ -1228,7 +1228,7 @@ Pradedantiesiems vairuotojams išduodamas 2 metus galiojantis vairuotojo
 pažymėjimas. Pradedantysis vairuotojas gali pakeisti šį pažymėjimą į 10 metų
 galiojantį vairuotojo pažymėjimą tik užbaigęs papildomus vairuotojų mokymus
 pagal nustatytą tvarką.
-5. C1, C1E, C, CE,
+5. C1, C1E, C, CE,
 D1, D1E, D, DE kategorijų motorinių transporto priemonių vairuotojai privalo
 nustatyta tvarka baigti mokymus
 pradinei profesinei kvalifikacijai įgyti bei periodinius profesinius mokymus.
@@ -1427,14 +1427,14 @@ draudimą užtikrina transporto priemonės valdytojas ir vairuotojas.
 4. Draudžiama
 dalyvauti viešajame eisme motorinėms transporto priemonėms, kurios pritaikytos
 eismui kairiąja kelio puse ir (ar) turi vairą dešinėje pusėje, išskyrus tas,
-kurios buvo įregistruotos Lietuvos Respublikoje iki 1993 m. gegužės 1 d. arba kurios pagal konstrukciją ir įrangą yra skirtos specialioms darbo
-funkcijoms atlikti. Šis draudimas netaikomas laikinai (iki 90 dienų per metus)
-į Lietuvos Respubliką su užsienio valstybėje įregistruotomis transporto
-priemonėmis atvykusiems užsieniečiams, kurie neturi leidimo laikinai
-apsigyventi arba leidimo nuolat gyventi Lietuvos Respublikoje, taip pat
-Lietuvos Respublikos piliečiams, kurių nuolatinė gyvenamoji vieta yra užsienio
-valstybėje, taip pat transporto priemonėms, kurios teisės aktų nustatyta tvarka
-priskirtos istorinių motorinių transporto priemonių kategorijai.
+kurios buvo įregistruotos Lietuvos Respublikoje iki 1993 m. gegužės 1 d. arba kurios pagal konstrukciją ir įrangą yra skirtos specialioms darbo funkcijoms
+atlikti. Šis draudimas netaikomas laikinai (iki 90 dienų per metus) į Lietuvos
+Respubliką su užsienio valstybėje įregistruotomis transporto priemonėmis
+atvykusiems užsieniečiams, kurie neturi leidimo laikinai apsigyventi arba
+leidimo nuolat gyventi Lietuvos Respublikoje, taip pat Lietuvos Respublikos
+piliečiams, kurių nuolatinė gyvenamoji vieta yra užsienio valstybėje, taip pat
+transporto priemonėms, kurios teisės aktų nustatyta tvarka priskirtos istorinių
+motorinių transporto priemonių kategorijai.
 5.
 Transporto priemonėje draudžiama įrengti greitį matuoti trukdančias priemones
 ir daiktus.
@@ -1471,16 +1471,18 @@ pažymėtų transporto priemonių vairuotojams.
  
 27
 straipsnis. Transporto priemonių registravimas
-1.
-Lietuvos Respublikoje viešajame eisme dalyvauti leidžiama nustatyta tvarka
+1. Lietuvos
+Respublikoje viešajame eisme dalyvauti leidžiama nustatyta tvarka
 įregistruotoms motorinėms transporto priemonėms, priekaboms. Reikalavimas
-įregistruoti motorinę transporto priemonę Lietuvos Respublikoje netaikomas
-laikinai (iki 90 dienų per metus) su užsienio valstybėje įregistruota motorine
-transporto priemone į Lietuvos Respubliką atvykusiems užsieniečiams, kurie
-neturi leidimo laikinai gyventi ar leidimo nuolat gyventi Lietuvos Respublikoje
-arba kurie turi Europos Sąjungos valstybės narės piliečio leidimą gyventi, taip
-pat Lietuvos Respublikos piliečiams, kurių nuolatinė gyvenamoji vieta yra
-užsienio valstybėje.
+įregistruoti motorinę transporto priemonę, priekabą Lietuvos Respublikoje
+netaikomas su Europos Sąjungos valstybėse narėse ir Europos laisvosios prekybos asociacijos
+šalyse įregistruota motorine transporto priemone, priekaba į Lietuvos
+Respubliką atvykusiems asmenims. Reikalavimas įregistruoti motorinę transporto
+priemonę, priekabą Lietuvos Respublikoje taip pat netaikomas laikinai (iki 90
+dienų per metus) su užsienio valstybėje, kuri nėra Europos Sąjungos valstybė
+narė ir nėra Europos laisvosios
+prekybos asociacijos šalis, įregistruota motorine transporto
+priemone, priekaba į Lietuvos Respubliką atvykusiems asmenims.
 2. Motorinės
 transporto priemonės, priekabos, kurios dėl jų sugedimo ar susidėvėjimo baigtos
 eksploatuoti užsienyje, kai kompetentingos institucijos paima jų registravimo
@@ -1488,11 +1490,11 @@ dokumentus, taip pat motorinės transporto priemonės, pritaikytos eismui
 kairiąja kelio puse ir (ar) turinčios vairą dešinėje pusėje, išskyrus istorines
 motorines transporto priemones ir skirtas specialioms darbo funkcijoms atlikti
 motorines transporto priemones, Lietuvos Respublikoje neregistruojamos.
-3. Transporto
-priemonės, priekabos registruojamos Lietuvos Respublikos kelių transporto
-priemonių registre arba Lietuvos Respublikos traktorių, savaeigių ir žemės ūkio
-mašinų ir jų priekabų registre. Taktinės ir logistinės paskirties transporto
-priemonės registruojamos Lietuvos Respublikos taktinės ir logistinės paskirties
+3. Transporto priemonės,
+priekabos registruojamos Lietuvos Respublikos kelių transporto priemonių
+registre arba Lietuvos Respublikos traktorių, savaeigių ir žemės ūkio mašinų ir
+jų priekabų registre. Taktinės ir logistinės paskirties transporto priemonės
+registruojamos Lietuvos Respublikos taktinės ir logistinės paskirties
 transporto priemonių registre.
 4.
 Lietuvos Respublikos kelių transporto priemonių registrą tvarko vadovaujančioji
@@ -1507,6 +1509,8 @@ apsaugos ministerija ir registro tvarkymo įstaiga – Lietuvos kariuomenė.
 Straipsnio pakeitimai:
 Nr. XI-760,
 2010-04-15, Žin., 2010, Nr. 48-2308 (2010-04-27)
+Nr. XI-1198,
+2010-12-02, Žin., 2010, Nr. 148-7566 (2010-12-18)
  
 28 straipsnis. Motorinių transporto priemonių ir priekabų
 atitikties įvertinimas
@@ -1531,11 +1535,11 @@ apžiūros.
 Šio įstatymo 25 straipsnio 6 dalyje nurodytais atvejais motorinių transporto
 priemonių, priekabų valdytojai privalo pateikti jas privalomai neeilinei
 techninei apžiūrai. 
-4. Naujos
-motorinės transporto priemonės ir priekabos laikotarpiu nuo pirmos transporto
-priemonės registravimo datos iki pirmos techninės apžiūros dalyvauja viešajame
-eisme be privalomos techninės apžiūros (išskyrus vienetinės gamybos transporto
-priemones). 
+4.
+Naujos motorinės transporto priemonės ir priekabos laikotarpiu nuo pirmos
+transporto priemonės registravimo datos iki pirmos techninės apžiūros dalyvauja
+viešajame eisme be privalomos techninės apžiūros (išskyrus vienetinės gamybos
+transporto priemones). 
 5. Privalomas technines apžiūras atlieka įmonės, atitinkančios
 nustatytus reikalavimus ir gavusios leidimus verstis šia veikla. 
 6.
@@ -1568,11 +1572,12 @@ atsisakyta tai atlikti.
  
 31 straipsnis. Gelbėjimo darbai
 Jeigu eismo įvykyje buvo sužeistas arba (ir) žuvo žmogus, jei dėl
-eismo įvykio susidarė transporto grūstis, jei eismo įvykyje dalyvauja transporto
-priemonė, kuri veža pavojingą krovinį arba krovinį, kurio išsipylė (išsiliejo)
-ant kelio, ir taip sudaro pavojų eismui, Vyriausybės įgaliotų institucijų
-tarnybos privalo nedelsdamos atvykti į eismo įvykio vietą, suteikti
-neatidėliotiną pagalbą nukentėjusiesiems, neutralizuoti įvykio padarinius. 
+eismo įvykio susidarė transporto grūstis, jei eismo įvykyje dalyvauja
+transporto priemonė, kuri veža pavojingą krovinį arba krovinį, kurio išsipylė
+(išsiliejo) ant kelio, ir taip sudaro pavojų eismui, Vyriausybės įgaliotų
+institucijų tarnybos privalo nedelsdamos atvykti į eismo įvykio vietą,
+suteikti neatidėliotiną pagalbą nukentėjusiesiems, neutralizuoti įvykio
+padarinius. 
  
 SEPTINTASIS SKIRSNIS
 ATSAKOMYBĖ
@@ -1590,8 +1595,8 @@ Priverstinai transporto priemonė gali būti nuvežama į ūkio subjekto, kuris
 teisės aktų nustatyta tvarka turi teisę verstis tokia ūkine komercine veikla,
 transporto priemonių stovėjimo aikštelę arba uždraudžiama važiuoti, jei
 transporto priemonės valdytojas, naudodamas transporto priemonę, sukelia grėsmę
-eismo dalyvių ar kitų asmenų sveikatai ar gyvybei arba trukdo saugiam transporto
-priemonių ar pėsčiųjų eismui ir pažeidžia KET ar
+eismo dalyvių ar kitų asmenų sveikatai ar gyvybei arba trukdo saugiam
+transporto priemonių ar pėsčiųjų eismui ir pažeidžia KET ar
 kitų teisės aktų reikalavimus.
 2.
 Priverstinai transporto priemonė gali būti nuvežama iš vietų, kur leidžiama
@@ -1603,10 +1608,10 @@ susijusių su transporto priemonės priverstiniu nuvežimu.
 3.
 Sprendimą dėl priverstinio transporto priemonės nuvežimo ar uždraudimo toliau
 važiuoti, jei yra šio straipsnio 1 dalyje nustatyti pagrindai, gali priimti
-policijos ir Valstybinės kelių transporto inspekcijos prie Susisiekimo
-ministerijos pareigūnai, o jei yra šio straipsnio 2 dalyje nustatyti pagrindai,
-– policijos ir Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus
-reikalų ministerijos pareigūnai.
+policijos ir Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos
+pareigūnai, o jei yra šio straipsnio 2 dalyje nustatyti pagrindai, – policijos
+ir Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų
+ministerijos pareigūnai.
 4.
 Policijos pareigūnai, priėmę sprendimą dėl priverstinio transporto priemonės
 nuvežimo, praneša transporto priemonės savininkui (valdytojui) teisės aktų
@@ -1693,8 +1698,8 @@ STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, PENKTOJO SKIRSNIO PAVADINIMO PAKEITIMO IR
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1470, 2003-04-03, Žin.,
-2003, Nr. 38-1715 (2003-04-24)
+IX-1470, 2003-04-03,
+Žin., 2003, Nr. 38-1715 (2003-04-24)
 SAUGAUS
 EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 6 IR 25 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos
@@ -1754,8 +1759,8 @@ spalio 10 d.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-973, 2006-12-12, Žin.,
-2006, Nr. 141-5403 (2006-12-28)
+X-973, 2006-12-12,
+Žin., 2006, Nr. 141-5403 (2006-12-28)
 SAUGAUS
 EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 2 IR 19 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO
 ĮSTATYMAS
@@ -1773,8 +1778,8 @@ EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 16 STRAIPSNIO PAKEITIMO IR PAPILDYMO
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-1455, 2008-03-13,
-Žin., 2008, Nr. 36-1274 (2008-03-29)
+X-1455,
+2008-03-13, Žin., 2008, Nr. 36-1274 (2008-03-29)
 SAUGAUS
 EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 23 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
@@ -1782,8 +1787,8 @@ EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 23 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-1337,
-2007-11-22, Žin., 2007, Nr. 128-5213 (2007-12-07)
+X-1337, 2007-11-22,
+Žin., 2007, Nr. 128-5213 (2007-12-07)
 SAUGAUS
 EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija 
@@ -1824,9 +1829,8 @@ AUTOMOBILIŲ KELIAIS ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-760,
 2010-04-15, Žin., 2010, Nr. 48-2308 (2010-04-27)
-SAUGAUS EISMO
-AUTOMOBILIŲ KELIAIS ĮSTATYMO 2, 10, 25, 27 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
-ĮSTATYMAS
+SAUGAUS EISMO AUTOMOBILIŲ
+KELIAIS ĮSTATYMO 2, 10, 25, 27 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas, išskyrus šio straipsnio 2
 dalį, įsigalioja 2010 m. liepos 1 d.
  
@@ -1852,10 +1856,17 @@ AUTOMOBILIŲ KELIAIS ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas
 įsigalioja 2011 m. sausio 1 d.
  
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1198,
+2010-12-02, Žin., 2010, Nr. 148-7566 (2010-12-18)
+SAUGAUS EISMO
+AUTOMOBILIŲ KELIAIS ĮSTATYMO 27 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2010-12-06)
+(2010-12-20)
                  
 autrap@lrs.lt
