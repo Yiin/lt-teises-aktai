@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EEC13A0B85BA"
 
 # Lietuvos Respublikos socialinių įmonių įstatymas
 
-Suvestinė redakcija nuo 2008-01-01 iki 2010-12-27
+Suvestinė redakcija nuo 2010-12-28 iki 2011-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 96-3519, i. k. 1041010ISTA0IX-2251
  
@@ -90,7 +90,12 @@ Nr. X-1040, 2007-01-18, Žin., 2007, Nr. 17-629 (2007-02-08), i. k. 1071010ISTA0
 
 4) motina arba tėvas, viena (-as) faktiškai prižiūrinti (-is) ir auklėjanti (-is) vaiką iki aštuonerių metų, jei nedarbo trukmė nuo užsiregistravimo teritorinėje darbo biržoje dienos yra ilgesnė kaip šeši mėnesiai;
 
-5) asmenys, grįžę iš laisvės atėmimo vietų, kai laisvės atėmimo laikotarpis buvo ilgesnis kaip šeši mėnesiai, ne vėliau kaip per šešis mėnesius nuo jų paleidimo iš pataisos įstaigų dienos yra įsiregistravę teritorinėje darbo biržoje, ir jei šios registracijos trukmė yra ne trumpesnė kaip šeši mėnesiai.
+5) asmenys, grįžę iš laisvės atėmimo vietų, kai laisvės atėmimo laikotarpis buvo ilgesnis kaip šeši mėnesiai, ne vėliau kaip per šešis mėnesius nuo jų paleidimo iš pataisos įstaigų dienos yra įsiregistravę teritorinėje darbo biržoje, ir jei šios registracijos trukmė yra ne trumpesnė kaip šeši mėnesiai;
+
+6) asmenys, priklausomi nuo narkotinių, psichotropinių ir kitų psichiką veikiančių medžiagų, baigę psichologinės socialinės ir (ar) profesinės reabilitacijos programas, jei nedarbo trukmė nuo užsiregistravimo teritorinėje darbo biržoje dienos yra ilgesnė kaip šeši mėnesiai.
+Papildyta straipsnio punktu:
+Nr. XI-1231, 2010-12-14, Žin., 2010, Nr. 153-7798 (2010-12-28), i. k. 1101010ISTA0XI-1231
+ 
 
 2. Neįgalieji, turintys I, II ar III invalidumo grupę arba sunkų ar vidutinį neįgalumo lygį, ar neįgalieji, kuriems nustatytas neviršijantis 55 procentų darbingumo lygis arba didelių ar vidutinių specialiųjų poreikių lygis, siekiantys įsidarbinti socialinėje įmonėje, darbo biržoje įsiregistruoti neprivalo. Jie turi pateikti darbdaviui neįgalumo faktą patvirtinantį dokumentą.
 Straipsnio dalies pakeitimai:
@@ -538,4 +543,9 @@ Lietuvos Respublikos socialinių įmonių įstatymo 3, 4, 5, 8, 14, 18, 19 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1388, 2007-12-18, Žin., 2007, Nr. 138-5647 (2007-12-29), i. k. 1071010ISTA00X-1388
 Lietuvos Respublikos socialinių įmonių įstatymo 14 straipsnio pakeitimo ir papildymo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1231, 2010-12-14, Žin., 2010, Nr. 153-7798 (2010-12-28), i. k. 1101010ISTA0XI-1231
+Lietuvos Respublikos socialinių įmonių įstatymo 4 straipsnio papildymo įstatymas
 
