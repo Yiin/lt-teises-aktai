@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2C523B544966"
 
 # Lietuvos Respublikos referendumo įstatymas
 
-Suvestinė redakcija nuo 2008-04-30 iki 2010-12-27
+Suvestinė redakcija nuo 2010-12-28 iki 2012-09-21
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2570, i. k. 1021010ISTA00IX-929
  
@@ -969,7 +969,10 @@ Nr. X-1488, 2008-04-10, Žin., 2008, Nr. 50-1838 (2008-04-30), i. k. 1081010ISTA
 
 1. Balsuoti namuose gali tik šie piliečiai: neįgalieji, dėl ligos laikinai nedarbingi piliečiai, sukakę 70 metų ir vyresni piliečiai, jeigu jie dėl sveikatos būklės patys negali atvykti balsuoti balsavimo referendume dieną į referendumo apylinkę ir jeigu jie pateikė Vyriausiosios rinkimų komisijos nustatytos formos piliečio prašymą balsuoti namuose. Namuose balsuojančių piliečių sąrašus sudarančios ir tikslinančios referendumo komisijos turi teisę duomenis apie neįgalius asmenis gauti iš Valstybinio socialinio draudimo fondo valdybos ar jos teritorinių skyrių, o duomenis apie laikinai nedarbingus asmenis – iš sveikatos priežiūros įstaigų. Šių duomenų referendumo komisijos negali skleisti ir juos naudoja tik namuose balsuojančių piliečių sąrašų sudarymo ir tikslinimo tikslais.
 
-2. Balsuoti iš anksto gali piliečiai, kurie balsavimo referendume dieną negali atvykti balsuoti į referendumo apylinkę. Piliečių balsavimą iš anksto organizuoja miesto, rajono referendumo komisija. Balsavimas iš anksto turi vykti nuo 12 iki 20 valandos paskutinį trečiadienį ir ketvirtadienį iki balsavimo referendume dienos iš anksto parengtose ir balsavimui tinkamose patalpose, esančiose pastate, kuriame yra to miesto, rajono savivaldybės mero (administracijos direktoriaus) darbo vieta. Referendumo biuleteniams ir balsavimo vokams išduoti ir priimti balsuojant iš anksto miesto, rajono referendumo komisijos pirmininkas paskiria ne mažiau kaip du miesto, rajono referendumo komisijos ar apylinkių referendumo komisijų narius, kurie negali būti pasiūlyti tos pačios politinės partijos. Balsavimą iš anksto prižiūri miesto, rajono referendumo komisijos pirmininkas ar jo pavedimu miesto, rajono referendumo komisijos narys.
+2. Balsuoti iš anksto gali piliečiai, kurie balsavimo referendume dieną negali atvykti balsuoti į referendumo apylinkę. Piliečių balsavimą iš anksto organizuoja miesto, rajono referendumo komisija. Balsavimas iš anksto turi vykti nuo 8 iki 20 valandos paskutinį trečiadienį ir ketvirtadienį iki balsavimo referendume dienos iš anksto parengtose ir balsavimui tinkamose patalpose, esančiose pastate, kuriame yra to miesto, rajono savivaldybės mero (administracijos direktoriaus) darbo vieta. Referendumo biuleteniams ir balsavimo vokams išduoti ir priimti balsuojant iš anksto miesto, rajono referendumo komisijos pirmininkas paskiria ne mažiau kaip du miesto, rajono referendumo komisijos ar apylinkių referendumo komisijų narius, kurie negali būti pasiūlyti tos pačios politinės partijos. Balsavimą iš anksto prižiūri miesto, rajono referendumo komisijos pirmininkas ar jo pavedimu miesto, rajono referendumo komisijos narys. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1229, 2010-12-14, Žin., 2010, Nr. 153-7796 (2010-12-28), i. k. 1101010ISTA0XI-1229
+ 
 
 3. Piliečių prašymai balsuoti namuose pateikiami apylinkių referendumo komisijoms. Piliečių, gyvenančių konkrečios referendumo apylinkės teritorijoje, prašymai balsuoti namuose pradedami priimti įteikiant jiems rinkėjo pažymėjimus ir baigiami priimti paskutinį trečiadienį iki balsavimo referendume dienos. Piliečių, kurie laikinai apsistojo konkrečios referendumo apylinkės teritorijoje ir nėra įrašyti į šios referendumo apylinkės rinkėjų sąrašą, prašymai balsuoti namuose baigiami priimti paskutinį antradienį iki balsavimo referendume dienos. Pilietis, kuris dėl fizinių trūkumų pats negali užpildyti prašymo balsuoti namuose ar jo įteikti apylinkės referendumo komisijai, gali pavesti šiuos veiksmus už jį atlikti savo šeimos nariui, kaimynui ar asmeniui, kuris juo rūpinasi. Šie piliečio prašymą pasirašo ir nurodo savo vardą, pavardę ir asmens kodą.
 
@@ -1294,4 +1297,9 @@ Lietuvos Respublikos referendumo įstatymo 34 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1488, 2008-04-10, Žin., 2008, Nr. 50-1838 (2008-04-30), i. k. 1081010ISTA00X-1488
 Lietuvos Respublikos referendumo įstatymo 16,17, 20, 22, 25, 30, 31, 35, 37, 38, 39, 41, 42, 47, 49, 54, 55, 56, 57, 58, 59, 60, 61, 64, 65, 71 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 2(1), 60(1) straipsniais įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1229, 2010-12-14, Žin., 2010, Nr. 153-7796 (2010-12-28), i. k. 1101010ISTA0XI-1229
+Lietuvos Respublikos referendumo įstatymo 60-1 straipsnio pakeitimo įstatymas
 
