@@ -13,9 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.56935A08DD06"
 
 # Lietuvos Respublikos jūros aplinkos apsaugos įstatymas
 
-Suvestinė redakcija nuo 2009-01-01 iki 2010-12-27
+Suvestinė redakcija nuo 2010-12-28 iki 2015-04-30
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2731, i. k. 0971010ISTAVIII-512
+ 
+Nauja redakcija nuo 2010-12-28:
+Nr. XI-1205, 2010-12-07, Žin. 2010, Nr. 153-7780 (2010-12-28), i. k. 1101010ISTA0XI-1205
  
 LIETUVOS RESPUBLIKOS JŪROS APLINKOS APSAUGOS ĮSTATYMAS
  
@@ -32,17 +35,15 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo tikslas
 
 
-1. Šis įstatymas nustato jūros aplinkos apsaugos pagrindinius principus ir priemones, asmenų, kurie verčiasi ūkine veikla, turinčia ar galinčia turėti tiesioginės ar netiesioginės įtakos jūros aplinkai, teises ir pareigas, valstybės ir savivaldybių institucijų kompetenciją ir pagrindines funkcijas jūros aplinkos apsaugos valdymo srityje.
+1. Šis įstatymas nustato jūros aplinkos apsaugos pagrindinius principus ir priemones, teises ir pareigas asmenų, kurie verčiasi ūkine veikla, darančia ar galinčia daryti tiesioginį ar netiesioginį poveikį jūros aplinkai, taip pat valstybės ir savivaldybių institucijų kompetenciją ir pagrindines funkcijas jūros aplinkos apsaugos valdymo srityje.
 
 
 
 
-2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais Įstatymo priede.
-
-
-Straipsnio pakeitimai:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
+2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo 3 priede.
  
+
+
 
 
 
@@ -53,29 +54,178 @@ Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA
 Šis įstatymas taikomas:
 
 
-1) su Lietuvos Respublikos vėliava plaukiojantiems laivams ir vidaus vandenyse ir teritorinėje jūroje esantiems užsienio laivams;
+1) su Lietuvos Respublikos vėliava plaukiojantiems laivams, Lietuvos Respublikos jūros rajone esantiems užsienio laivams;
 
 
 
 
-2) užsienio laivams, esantiems už teritorinės jūros ribos tiek, kiek tai atitinka tarptautinę teisę;
+2) asmenims, kurie Lietuvos Respublikos sausumos ir jūros rajone verčiasi ūkine veikla, darančia ar galinčia daryti poveikį jūros aplinkai;
 
 
 
 
-3) asmenims, kurie Lietuvos Respublikos sausumos ir jūros rajone verčiasi ūkine veikla, turinčia ar galinčia turėti įtakos jūros aplinkai;
-
-
-
-
-4) valstybės ir savivaldybių institucijoms, kurių kompetencija ar pagrindinės funkcijos, susijusios su jūros aplinkos apsauga, nustatytos šiame įstatyme.
-
-
-
-
-Straipsnio pakeitimai:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
+3) valstybės ir savivaldybių institucijoms, kurių kompetencija ar pagrindinės funkcijos, susijusios su jūros aplinkos apsauga, nustatytos šiame įstatyme.
  
+
+
+
+
+
+
+
+
+3 straipsnis. Pagrindinės šio įstatymo sąvokos
+
+
+1. Atliekų deginimas jūroje (toliau – atliekų deginimas) – sąmoningas atliekų ar kitų medžiagų naikinimas jūroje ugnimi, išskyrus deginimą, būdingą laivų arba kitų jūros įrenginių įprastam naudojimui.
+
+
+
+
+2. Atliekų šalinimas į jūrą (toliau – atliekų šalinimas) – atliekų atsikratymas jūroje iš laivų, jūros įrenginių ar lėktuvų ir pačių laivų, jūros įrenginių arba lėktuvų palikimas jūroje, išskyrus išmetimą atliekų arba kitų medžiagų, būdingų arba susidarančių įprastai naudojant laivus, jūros įrenginius, ir lėktuvų, įrangos arba medžiagų palikimą jūroje kitiems tikslams, neprieštaraujantiems šio įstatymo reikalavimams.
+
+
+
+
+3. Baltijos jūros rajonas – Baltijos jūra ir įplauka į Baltijos jūrą, kuri matuojama nuo lygiagretės, einančios per Skageno iškyšulio Skagerake tašką, kurio koordinatės – 57° 44? 43? šiaurės platumos.
+
+
+
+
+4. Gera jūros aplinkos būklė – jūros aplinkos būklė, kai įprastomis sąlygomis jūros vandenys yra švarūs, sveiki, gyvybingi, jūros ekosistemos naudojamos saikingai ir išsaugomas potencialas ateities kartoms:
+
+
+1) jūros ekosistemų struktūra, funkcijos ir susiję geomorfologiniai, geografiniai, geologiniai ir klimato veiksniai sudaro sąlygas toms ekosistemoms tinkamai funkcionuoti, palaiko jų atsparumą žmonių sukeliamiems aplinkos pokyčiams. Jūrinės rūšys ir buveinės yra apsaugotos, užkirstas kelias žmonių sukeliamam biologinės įvairovės nykimui, o įvairių biologinių komponentų funkcionavimas yra subalansuotas;
+
+
+
+
+2) ekosistemų hidromorfologinės, fizinės ir cheminės savybės, įskaitant dėl žmonių veiklos atsiradusias savybes, palaiko tas ekosistemas. Antropogeninis medžiagų ir energijos, įskaitant triukšmą, patekimas į jūros aplinką nesukelia taršos poveikio.
+
+
+
+
+
+
+5. Helsinkio komisija – 1992 m. Helsinkio konvencijos dėl Baltijos jūros baseino jūrinės aplinkos apsaugos (toliau – Helsinkio konvencija) tikslams įsteigta Baltijos jūros aplinkos apsaugos komisija.
+
+
+
+
+6. Jūros aplinka – gyvosios ir negyvosios gamtos elementai, esantys jūroje, virš jūros ir žemės gelmėse po jūra (oras, vanduo, dugnas ir žemės gelmės po jūros dugnu, jų gamtos ištekliai).
+
+
+
+
+7. Jūros aplinkos būklė – jūros ekosistemų struktūra, funkcijos ir procesai, natūralios ir dėl žmogaus veiklos tam tikroje akvatorijoje ar už jos ribų susidarančios geomorfologinės, geografinės, biologinės, geologinės, klimatinės, fizinės, akustinės ir cheminės sąlygos.
+
+
+
+
+8. Jūros aplinkos apsaugos tikslai – kokybiniai ar kiekybiniai teiginiai apie pageidautiną įvairių jūros aplinkos komponentų būklę, pavojus ir poveikį, kuriais vadovaujantis siekiama geros jūros aplinkos būklės. Šie tikslai nustatomi remiantis atliktu jūros aplinkos būklės įvertinimu ir atsižvelgiant į šio įstatymo 1 priedo 2 lentelėje nurodytus pavojus ir poveikį.
+
+
+
+
+9. Jūros aplinkos būklės įvertinimas – jūros aplinkos būklės ir žmogaus veiklos poveikio jūros aplinkai nustatymas, kurį sudaro:
+
+
+1) jūros rajono pagrindinių savybių ir esamos jūros aplinkos būdingų savybių, nurodytų šio įstatymo 2 priedo 1 lentelėje, analizė;
+
+
+
+
+2) vyraujančių pavojų ir poveikio, nurodytų šio įstatymo 1 priedo 2 lentelėje, jūros aplinkos būklei analizė, apimanti kokybinį ir kiekybinį pavojų, pastebimų tendencijų, pagrindinio kaupiamojo (skirtingų pavojų ir poveikio jungtinis poveikis) ir sąveikiojo (pavojaus ar poveikio padidėjimas esant ar veikiant kitam pavojui ar problemai) poveikio apibūdinimą;
+
+
+
+
+3) ekonominė ir socialinė jūros rajono naudojimo ir dėl jūros aplinkos blogėjimo atsirandančių išlaidų analizė.
+
+
+
+
+
+
+10. Jūros įrenginys (toliau – įrenginys) – jūroje esantis stacionarus ar plūdrus įrenginys, konstrukcija ar platforma, išskyrus laivą.
+
+
+
+
+11. Jūros tarša – dėl žmogaus veiklos kylantis tiesioginis arba netiesioginis medžiagų ar energijos, taip pat žmogaus sukeliamo jūrų povandeninio triukšmo patekimas į jūros aplinką, kuris daro arba gali daryti neigiamą poveikį, žalą gyviesiems ištekliams ir jūros ekosistemoms, įskaitant biologinės įvairovės nykimą, pavojų žmogaus sveikatai, ir kuris trukdo arba gali trukdyti veiklai jūroje, įskaitant žvejybą, turizmą, rekreaciją ir kitą naudojimąsi jūros aplinka, ir blogina ar gali bloginti naudojimąsi jūros vandeniu, kelia ar gali kelti nepatogumų tausiai naudotis jūros prekėmis ir paslaugomis.
+
+
+
+
+12. Jūros teršimo incidentas (toliau – teršimo incidentas) – įvykis arba įvykiai, dėl kurių išmesta arba gali būti išmesta naftos ar kitų teršiančių medžiagų ir kurie kelia arba gali kelti pavojų jūros aplinkai ar pakrantei arba kenkti kaimyninių valstybių interesams.
+
+
+
+
+13. Kenksmingieji ir ligas sukeliantys vandens organizmai – vandens organizmai, kurie patekę į vandens telkinius gali kelti pavojų aplinkai, žmonių sveikatai, turtui ir ištekliams, pakenkti biologinei įvairovei ar kitaip trukdyti naudoti šiuos telkinius.
+
+
+
+
+14. Laivų krovinių liekanos – iškrovus ir išvalius laivus krovinių triumuose arba cisternose likusios krovinių liekanos, taip pat nutekėję iš triumų ar cisternų skysčiai. Prie krovinių liekanų priskiriami krovinių triumų ir cisternų plovimo vandenys, balastiniai vandenys, jeigu juose yra krovinių liekanų.
+
+
+
+
+15. Laivuose susidarančios atliekos – visos eksploatuojant laivus susidarančios atliekos, įskaitant naftos atliekas iš mašinų skyriaus, nuotekas ir šiukšles, kaip nustatyta 1973 m. Tarptautinės konvencijos dėl teršimo iš laivų prevencijos, papildytos 1978 m. protokolu (toliau – MARPOL 73/78), I, IV, V prieduose, tvarkant (kraunant, sandėliuojant) krovinį susidarančios papildomos atliekos – paklotai, padėklai ir pakavimo medžiagos, fanera, popierius, kartonas, vielos ir plieninės juostos.
+
+
+
+
+16. Lietuvos Respublikos išskirtinė ekonominė zona (toliau – išskirtinė ekonominė zona) – už teritorinės jūros ribų esanti Baltijos jūros dalis, kurioje Lietuvos Respublika turi tam tikras suverenias teises, jurisdikciją ir pareigas, nustatytas pagal Lietuvos Respublikos įstatymus ir tarptautinius susitarimus, ir kurios ribas su kaimyninėmis valstybėmis nustato Lietuvos Respublikos tarptautiniai susitarimai ir visuotinai pripažinti tarptautinės teisės principai ir normos.
+
+
+
+
+17. Lietuvos Respublikos jūros rajonas – Lietuvos Respublikos jūros rajono vidaus vandenų, Lietuvos Respublikos teritorinės jūros ir Lietuvos Respublikos išskirtinės ekonominės zonos vanduo, jūros dugnas ir po juo esantis gruntas.
+
+
+
+
+18. Lietuvos Respublikos jūros rajono vidaus vandenys (toliau – jūros rajono vidaus vandenys) – vandenys, esantys į sausumos pusę nuo bazinės linijos, nuo kurios išskiriama teritorinė jūra, iki sausumos. Lietuvos Respublikos jūros uostų akvatorijos yra jūros vidaus vandenų dalis.
+
+
+
+
+19. Lietuvos Respublikos teritorinė jūra (toliau – teritorinė jūra) – Lietuvos Respublikos pakrantės 12 jūrmylių pločio Baltijos jūros vandenų juosta, išskiriama nuo bazinės linijos, jungiančios labiausiai į jūrą nutolusius jūrų uostų molų taškus, kuri yra sudedamoji Lietuvos Respublikos teritorijos dalis ir kurios ribas su kaimyninėmis valstybėmis nustato Lietuvos Respublikos tarptautinės sutartys, visuotinai pripažinti tarptautinės teisės principai ir normos.
+
+
+
+
+20. Nafta – bet kokio pavidalo nafta, įskaitant gryną naftą, naftos kurą, naftos nuosėdas, naftos atliekas ir naftos produktus.
+
+
+
+
+21. Regioninis šalių bendradarbiavimas – Lietuvos Respublikos ir kitų Europos Sąjungos valstybių narių ir, kai įmanoma, Baltijos jūros baseino trečiųjų šalių bendradarbiavimas ir veiklos koordinavimas, siekiant parengti ir įgyvendinti Baltijos jūros aplinkos apsaugos strategijas.
+
+
+
+
+22. Teršiančios medžiagos – į jūros aplinką patekusios medžiagos, kurios gali kelti pavojų žmonių sveikatai, daryti žalos gyviesiems ištekliams, jūros gyvūnijai ir augalijai ar kitaip sukliudyti teisėtai naudotis jūros aplinka.
+
+
+
+
+23. Teršiančių medžiagų išmetimas į jūrą – teršiančių medžiagų arba nuotekų, turinčių tokių medžiagų, išleidimas iš laivo, jūros įrenginio, įskaitant bet kokį ištekėjimą, pašalinimą, išliejimą, prasisunkimą, išpumpavimą, išsiskyrimą arba ištuštinimą, neatsižvelgiant į priežastis, dėl kurių tai įvyko. Teršiančių medžiagų išmetimas į jūrą neapima atliekų šalinimo į jūrą.
+
+
+
+
+24. Uosto priėmimo įrenginys – stacionarus, plūdrus arba mobilus uosto įrenginys, galintis priimti laivuose susidarančias atliekas ir laivų krovinių liekanas.
+
+
+
+
+25. Kitos šio įstatymo sąvokos suprantamos, kaip jos apibrėžtos Lietuvos Respublikos aplinkos apsaugos įstatyme, Aplinkos monitoringo įstatyme, Aplinkos apsaugos valstybinės kontrolės įstatyme, Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, Prekybinės laivybos įstatyme, Saugios laivybos įstatyme, Saugomų teritorijų įstatyme, Vandens įstatyme, Žemės gelmių įstatyme.
+ 
+
+
 
 
 
@@ -83,109 +233,109 @@ Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA
 
 
 ANTRASIS SKIRSNIS
-PAGRINDINĖS SĄVOKOS
+BALTIJOS JŪROS APLINKOS APSAUGOS STRATEGIJA
  
 
 
-3 straipsnis. Pagrindinės šio įstatymo sąvokos
+4 straipsnis. Baltijos jūros aplinkos apsaugos strategija
 
 
-1. Baltijos jūros rajonas – Baltijos jūra, Suomijos įlanka, Botnijos įlanka, Zundo ir Beito sąsiauriai, jungiantys Baltijos jūrą su Šiaurės jūra nuo lygiagretės, einančios per Skageno iškyšulio tašką Skagerake, kurio koordinatės – 57° 44' 43“ šiaurės platumos.
+1. Atsižvelgiant į Baltijos jūros rajono aplinkos būklę, Lietuvos Respublikos jūros rajonui parengiama ir iki 2014 m. liepos 15 d. patvirtinama Baltijos jūros aplinkos apsaugos strategija (toliau – Strategija). Šios strategijos pagrindinis tikslas – pasiekti ir (ar) išlaikyti gerą jūros aplinkos būklę. Strategija siekiama:
 
 
+1) saugoti jūros aplinką, neleisti jai blogėti ir, jei įmanoma, atkurti jūros ekosistemas akvatorijose, kuriose ši aplinka neigiamai paveikta;
 
 
-2. Deginimas – sąmoningas atliekų ir kitų medžiagų deginimas jūroje norint jas sunaikinti terminiu būdu, išskyrus deginimą, būdingą laivų arba kitų įrenginių įprastam naudojimui.
 
 
+2) užkirsti kelią patekti į jūros aplinką taršai ar ją mažinti, užtikrinant, kad jūros biologinei įvairovei, jūros ekosistemoms, žmogaus sveikatai ar teisėtam naudojimuisi jūromis nebūtų poveikio ar didelės rizikos.
 
 
-3. Helsinkio komisija – 1992 m. Helsinkio konvencijos dėl Baltijos jūros baseino jūrinės aplinkos apsaugos (toliau – Helsinkio konvencija) tikslams įsteigta Baltijos jūros aplinkos apsaugos komisija.
 
 
 
 
-4. Įrenginys – kiekvienas jūros rajone esantis stacionarus ar plūduriuojantis įrenginys, konstrukcija ar platforma.
+2. Už Strategijos parengimą atsakinga Lietuvos Respublikos aplinkos ministerija (toliau – Aplinkos ministerija). Strategiją tvirtina Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė).
 
 
 
 
-5. Išmetimas – kenksmingų medžiagų arba nuotekų, turinčių tokių medžiagų, bet koks išleidimas iš laivo, įrenginio, įskaitant visokį ištekėjimą, pašalinimą, išliejimą, prasisunkimą, išpumpavimą, išsiskyrimą arba ištuštinimą, neatsižvelgiant į priežastis, dėl kurių tai įvyko. Išmetimas neapima šalinimo, aprašyto šio straipsnio 15 dalyje.
+3. Strategijoje turi būti:
 
 
+1) jūros aplinkos būklės įvertinimas;
 
 
-6. Išskirtinė ekonominė zona – už teritorinės jūros ribų esanti Baltijos jūros dalis, kurioje Lietuvos Respublika turi tam tikras suverenias teises, jurisdikciją ir pareigas, nustatytas pagal Lietuvos Respublikos įstatymus ir tarptautinius susitarimus, ir kurios ribas su kaimyninėmis valstybėmis nustato Lietuvos Respublikos tarptautinės sutartys ir visuotinai pripažinti tarptautinės teisės principai bei normos.
 
 
+2) nustatytos Baltijos jūros rajono geros jūros aplinkos būklės savybės;
 
 
-7. Jūros aplinka – gyvosios ir negyvosios gamtos elementai, esantys jūroje, virš jūros ir žemės gelmėse po jūra (oras, vanduo, dugnas ir žemės gelmės po jūros dugnu, jų gamtos ištekliai).
 
 
+3) nustatyti jūros aplinkos apsaugos tikslai;
 
 
-8. Jūros aplinkos apsauga – jūros aplinkos saugojimas nuo fizinio, cheminio, biologinio ir kitokio neigiamo poveikio ar pasekmių, atsirandančių įgyvendinant planus ir programas, vykdant ūkinę veiklą ar naudojant gamtos išteklius.
 
 
+4) numatytas jūros aplinkos būklės stebėsenos programos parengimas ir vykdymas;
 
 
-9. Jūros rajonas – Lietuvos Respublikos vidaus vandenys, teritorinė jūra ir išskirtinė ekonominė zona.
 
 
+5) Strategijos įgyvendinimo priemonių planas, kuriame nustatytos priemonės gerai jūros aplinkos būklei pasiekti ar išlaikyti.
 
 
-10. Jūros stebėsena – sistemingas jūros aplinkos, jos elementų būklės kitimo ir antropogeninio poveikio stebėjimas, vertinimas ir prognozė.
 
 
 
 
-11. Kenksmingosios medžiagos – medžiagos, kurios patekusios į jūrą gali ją užteršti.
-
-
-
-
-12. Laivas – bet kokio tipo laivas, neatsižvelgiant į jo vėliavą, plaukiojantis jūrų aplinkoje, įskaitant laivus su povandeniniais sparnais, laivus su oro pagalve, laivus, galinčius veikti po vandeniu, ir plūdriuosius aparatus.
-
-
-
-
-13. Nafta – bet kokio pavidalo nafta, įskaitant gryną naftą, naftos kurą, naftos nuosėdas, naftos atliekas ir naftos produktus.
-
-
-
-
-14. Skystos medžiagos – medžiagos, kurių garų slėgis esant 37,8 °C temperatūrai neviršija 2,8 kgf/sm2 (0,2746 MPa).
-
-
-
-
-15. Šalinimas – bet koks atliekų arba kitų medžiagų sąmoningas šalinimas į jūros aplinką iš laivų, įrenginių arba lėktuvų ir pačių laivų, įrenginių arba lėktuvų šalinimas į jūrą, išskyrus šalinimą atliekų arba kitų medžiagų, būdingų arba susidarančių įprastai naudojant laivus, įrenginius jūroje, ir lėktuvų, įrangos arba medžiagų palikimą jūroje kitiems tikslams, kurie neprieštarauja šio įstatymo reikalavimams.
-
-
-
-
-16. Tarša – dėl žmogaus ūkinės veiklos vykstantis medžiagų arba energijos tiesioginis arba netiesioginis patekimas į jūros aplinką, galintis sukelti pavojų žmogaus sveikatai, pakenkti gamtos ištekliams ir jūrinėms ekosistemoms, kliudyti verstis teisėta veikla jūroje, įskaitant žvejybą, pabloginti jūros vandens kokybę ir sumažinti poilsiavimo galimybes.
-
-
-
-
-17. Teritorinė jūra – Lietuvos Respublikos pakrantės 12 jūrmylių pločio Baltijos jūros vandenų juosta, kuri yra sudėtinė Lietuvos Respublikos teritorijos dalis ir kurios ribas su gretimomis valstybėmis nustato Lietuvos Respublikos tarptautinės sutartys ir visuotinai pripažinti tarptautinės teisės principai bei normos.
-
-
-
-
-18. Teršimo incidentas – įvykis arba seka įvykių, dėl kurių išmesta arba gali būti išmesta naftos ar kitų kenksmingųjų medžiagų ir kurie kelia arba gali sukelti pavojų jūros aplinkai ar pakrantei arba pakenkti kaimyninių valstybių interesams.
-
-
-
-
-19. Vidaus vandenys – Lietuvos Respublikos Kuršių marios ir jūros uostų akvatorijos į rytus nuo linijos, jungiančios labiausiai į jūrą nutolusius jūrų uostų molų taškus.
-
-
-Straipsnio pakeitimai:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
+4. Baltijos jūros rajono geros jūros aplinkos būklės kriterijus, jūros aplinkos būklės įvertinimo, Baltijos jūros rajono geros jūros aplinkos būklės savybių nustatymo, jūros aplinkos apsaugos tikslų, priemonių Baltijos jūros rajono gerai aplinkos būklei pasiekti ar išlaikyti nustatymo reikalavimus tvirtina aplinkos ministras.
  
+
+
+
+
+
+
+5 straipsnis. Stebėsenos programa
+
+
+1. Aplinkos būklei ir pokyčiams stebėti Lietuvos Respublikos jūros rajone atliekama stebėsena pagal Vyriausybės patvirtintą valstybinę aplinkos stebėsenos programą. Remiantis atliktu jūros aplinkos būklės įvertinimu, šio įstatymo 1 priede pateiktais jūros aplinkos būdingų savybių, pavojų ir poveikio sąrašais, šio įstatymo 2 priede nurodytais stebėsenos programos reikalavimais ir vadovaujantis nustatytais jūros aplinkos apsaugos tikslais, papildoma stebėsenos programa, skirta nuolat vertinti jūros aplinkos būklę.
+
+
+
+
+2. Valstybinė aplinkos stebėsenos programa rengiama vadovaujantis Aplinkos monitoringo įstatymu, šiuo įstatymu, kitais teisės aktais ir atsižvelgiant į atitinkamų Europos Sąjungos teisės aktų nuostatas. Valstybinės aplinkos stebėsenos programą tvirtina Vyriausybė.
+ 
+
+
+
+
+
+
+6 straipsnis. Regioninis šalių bendradarbiavimas
+
+
+1. Rengiant Strategiją, Aplinkos ministerija ar jos įgaliota institucija bendradarbiauja su kitomis Baltijos jūros valstybėmis, kad būtų užtikrintas Strategijos nuoseklumas ir koordinavimas su kitų Baltijos jūros valstybių aplinkos apsaugos strategijomis.
+
+
+
+
+2. Rengiant jūros aplinkos būklės įvertinimą ir šio įstatymo 5 straipsnyje nurodytą valstybinę aplinkos stebėsenos programą, siekiama užtikrinti, kad vertinimo metodai būtų suderinti su kitų Baltijos jūros valstybių vertinimo metodais ir būtų lengviau palyginti stebėsenos rezultatus, atsižvelgti į atitinkamą tarpvalstybinį poveikį ir veiksnius.
+
+
+
+
+3. Šio straipsnio 1 ir 2 dalyse nurodytas bendradarbiavimas ir derinimas vykdomas per Helsinkio komisiją ar kitą Baltijos jūros rajone veikiančią tarptautinę organizaciją. Bendradarbiaujant remiamasi esamomis programomis ir veikla, plėtojama pagal Lietuvos Respublikos tarptautinius susitarimus.
+
+
+
+
+4. Siekiant geros jūros aplinkos būklės, prireikus Strategijos rengimas ir įgyvendinimas koordinuojamas ir bendradarbiaujama su Baltijos jūros baseine esančiomis sausumos valstybėmis. Šis koordinavimas ir bendradarbiavimas vyksta per šio straipsnio 3 dalyje nurodytas organizacijas arba bendradarbiaujama tarpvalstybinių susitarimų dėl tarpvalstybinių upių baseinų rajonų, nurodytų Vandens įstatyme, pagrindu.
+ 
+
+
 
 
 
@@ -193,22 +343,14 @@ Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA
 
 
 TREČIASIS SKIRSNIS
-PAGRINDINIAI PRINCIPAI IR PRIEMONĖS
+TARŠOS PREVENCIJOS REIKALAVIMAI
  
 
 
-4 straipsnis. Pagrindiniai principai
+7 straipsnis. Taršos iš laivų prevencijos reikalavimai ir jų įgyvendinimo tvarka
 
 
-Fiziniai ir juridiniai asmenys turi imtis visų priemonių, padedančių išvengti teršimo bei jį likviduoti ir apsaugoti jūros rajoną nuo visokios veiklos žalingų pasekmių, taip pat atkurti užterštas jūros zonas. Visiems sausumoje ir jūros rajone esantiems taršos šaltiniams fiziniai ir juridiniai asmenys turi taikyti šiuos principus:
-
-
-1) prevencinį – imtis apsaugos priemonių, jei yra prielaidų manyti, kad medžiagos ar energija, tiesiogiai ar netiesiogiai patekusios į jūrą, gali sukelti pavojų žmonių sveikatai, pakenkti gyviesiems ištekliams, jūros ekosistemoms, poilsiavimui ar kliudyti kitai teisėtai veiklai jūroje, netgi tada, kai neįrodytas tokio patekimo ir jo poveikio priežastinis ryšys;
-
-
-
-
-2) geriausios esamos technologijos ir geriausios aplinkos apsaugos praktikos taip, kaip nustatyta Helsinkio konvencijos II priede.
+Susisiekimo ministras, vadovaudamasis šiuo įstatymu, Saugios laivybos įstatymu, Lietuvos Respublikos tarptautinių sutarčių ir Europos Sąjungos teisės aktų, reglamentuojančių taršos iš laivų prevenciją, nuostatomis, nustato taršos iš laivų prevencijos reikalavimus ir tokių reikalavimų įgyvendinimo Lietuvos Respublikoje tvarką.
  
 
 
@@ -216,12 +358,10 @@ Fiziniai ir juridiniai asmenys turi imtis visų priemonių, padedančių išveng
 
 
 
+8 straipsnis. Tarptautinių reikalavimų vykdymo užtikrinimas
 
 
-5 straipsnis. Pagrindinės priemonės
-
-
-Jūros apsaugai nuo taršos iš sausumos ir jūros rajone esančių šaltinių Vyriausybė arba jos įgaliota institucija, savivaldybės turi parengti programas bei numatyti priemones, jeigu reikia, nurodyti jų įvykdymo terminus bei užtikrinti visų Lietuvos Respublikos tarptautiniuose susitarimuose nustatytų Jūros aplinkos apaugos priemonių įgyvendinimą.
+Laivai, plaukiojantys su Lietuvos Respublikos valstybės vėliava, turi būti eksploatuojami laikantis MARPOL 73/78, Helsinkio konvencijos ir kitų Lietuvos Respublikos tarptautinių sutarčių bei Europos Sąjungos teisės aktų, reglamentuojančių taršos iš laivų prevenciją, šio įstatymo ir šio įstatymo pagrindu priimtų teisės aktų nustatytų reikalavimų.
  
 
 
@@ -229,10 +369,15 @@ Jūros apsaugai nuo taršos iš sausumos ir jūros rajone esančių šaltinių V
 
 
 
-6 straipsnis. Apsauga nuo taršos 
+9 straipsnis. Teršiančių medžiagų išmetimas
 
 
-Nustatant prioritetus ir vertinant programų pobūdį bei mastą ar kitai veiklai reikia taikyti jūros aplinkos apsaugos nuo taršos kenksmingomis medžiagomis reikalavimus taip, kaip nustatyta Helsinkio konvencijos I priede.
+1. Lietuvos Respublikos jūros rajone ar už jo ribų teršiančios medžiagos gali būti išmetamos tik vadovaujantis šio įstatymo, MARPOL 73/78 ir Helsinkio konvencijos reikalavimais.
+
+
+
+
+2. Užterštumui likviduoti ar užterštumui mažinti naudojamos teršiančios medžiagos negali būti išmetamos be Aplinkos ministerijos ar jos įgaliotos institucijos išduoto leidimo. Leidimų likviduoti užterštumą ar leidimų mažinti užterštumą išdavimo tvarkos aprašą tvirtina aplinkos ministras.
  
 
 
@@ -240,15 +385,82 @@ Nustatant prioritetus ir vertinant programų pobūdį bei mastą ar kitai veikla
 
 
 
-7 straipsnis. Priemonių kontrolė
+10 straipsnis. Apsauga nuo kenksmingųjų ir ligas sukeliančių vandens organizmų
 
 
-Aplinkos ministerija, išduodama leidimus kenksmingų medžiagų emisijoms į aplinką ar kitai veiklai, turi kontroliuoti 4 ir 5 straipsniuose nurodytų principų ir priemonių taikymą, taip pat reikalauti, kad emisijos į aplinką iš sausumoje ir jūros rajone esančių taršos šaltinių neviršytų Helsinkio konvencijoje nustatytų normų.
-
-
-Straipsnio pakeitimai:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
+Susisiekimo ministras kartu su aplinkos ministru ir sveikatos apsaugos ministru, atsižvelgdami į tarptautinius reikalavimus ir rekomendacijas, nustato laivų balastinių vandenų ir nuosėdų valdymo ir kontrolės priemones, skirtas išvengti kenksmingųjų ir ligas sukeliančių vandens organizmų.
  
+
+
+
+
+
+
+11 straipsnis. Taršos iš įrenginių prevencija
+
+
+Lietuvos Respublikos jūros rajone esantys įrenginiai turi būti eksploatuojami taip, kad būtų išvengta neigiamo poveikio jūros aplinkai. Angliavandenilių ir kitų žemės gelmių išteklių tyrimo (paieškos ir žvalgybos) ir naudojimo (gavybos) metu įrenginiuose susidarančios atliekos ir nuotekos turi būti tvarkomos sausumoje ar įrenginiuose vadovaujantis geriausiais prieinamais gamybos būdais ir praktika, MARPOL 73/78 reikalavimais, išvengiant teršiančių medžiagų išmetimo į jūros aplinką.
+ 
+
+
+
+
+
+
+12 straipsnis. Atliekų šalinimas ir deginimas
+
+
+1. Su Lietuvos Respublikos vėliava plaukiojantiems laivams Baltijos jūros rajone atliekas šalinti ir deginti draudžiama.
+
+
+
+
+2. Lietuvos Respublikos jūros rajone atliekas šalinti ir deginti draudžiama.
+
+
+
+
+3. Lietuvos Respublikos jūros rajone iškastam gruntui šalinti šio straipsnio 1 ir 2 dalyse nustatyti draudimai netaikomi.
+ 
+
+
+
+
+
+
+13 straipsnis. Grunto kasimas ir šalinimas jūroje
+
+
+1. Lietuvos Respublikos jūros rajone gruntas gali būti šalinamas vadovaujantis aplinkos ministro nustatyta tvarka gavus Aplinkos ministerijos įgaliotos institucijos leidimą. Prieš išduodant leidimą šalinti gruntą išskirtinėje ekonominėje zonoje, Aplinkos ministerija ar jos įgaliota institucija konsultuojasi su Helsinkio komisija.
+
+
+
+
+2. Leidimų kasti gruntą jūrų ir jūrų uostų akvatorijose ir šalinti iškastą gruntą jūroje išdavimo taisykles tvirtina aplinkos ministras.
+ 
+
+
+
+
+
+
+14 straipsnis. Pranešimai apie teršiančių medžiagų išmetimą, atliekų šalinimą ir deginimą jūroje
+
+
+1. Laivų kapitonai ir (ar) valdytojai privalo nedelsdami pranešti artimiausios pakrantės valstybės kompetentingai institucijai, jeigu plaukia Lietuvos Respublikos jūros rajone, – Lietuvos kariuomenės Karinių jūrų pajėgų Jūrų gelbėjimo koordinavimo centrui (toliau – Jūrų gelbėjimo koordinavimo centras) apie visus įvykius, susijusius su teršiančių medžiagų išmetimu ar galimu išmetimu, jeigu jie pažeidžia šio įstatymo nuostatas, apie kitus teršimo incidentus, taip pat apie kiekvieną susidūrimą ar užplaukimą ant seklumos.
+
+
+
+
+2. Laivų kapitonai ir (ar) valdytojai ir orlaivių vadai, įrenginių valdytojai privalo nedelsdami pranešti artimiausios pakrantės valstybės kompetentingai institucijai apie pastebėtą teršiančių medžiagų išmetimą, atliekų šalinimą ir deginimą, Lietuvos Respublikos jūros rajone – Jūrų gelbėjimo koordinavimo centrui, uosto akvatorijoje – to uosto administracijai.
+
+
+
+
+3. Jūrų gelbėjimo koordinavimo centras privalo nedelsdamas pranešti Aplinkos ministerijos įgaliotai institucijai apie visus šio straipsnio 1 ir 2 dalyse nurodytus įvykius ir taršos incidentus.
+ 
+
+
 
 
 
@@ -256,171 +468,79 @@ Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA
 
 
 KETVIRTASIS SKIRSNIS
-APSAUGA NUO TARŠOS IŠ LAIVŲ IR ĮRENGINIŲ 
-Pakeistas skirsnio pavadinimas:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
+LAIVUOSE SUSIDARANČIŲ ATLIEKŲ IR LAIVŲ KROVINIŲ LIEKANŲ TVARKYMAS
  
 
 
-8 straipsnis. Tarptautinių reikalavimų vykdymo užtikrinimas 
+15 straipsnis. Uosto priėmimo įrenginiai
 
 
-Laivų savininkai ar valdytojai užtikrina, kad laivai, plaukiojantys su Lietuvos valstybės vėliava ar registruoti Lietuvos Respublikos teritorijoje, vykdytų šio įstatymo, MARPOL 73/78, Helsinkio konvencijų reikalavimus.
- 
-
-
+1. Uostų administracijos, krovos kompanijos, laivų remonto ir statybos įmonės privalo užtikrinti, kad uostuose būtų prieinami laivuose susidarančių atliekų ir laivų krovinių liekanų priėmimo įrenginiai, kurie turėtų atitikti laivų, kurie naudojasi uostais, reikmes, ir kad laivai, kurie naudojasi šiais įrenginiais, nebūtų gaišinami.
 
 
 
 
-9 straipsnis. Kenksmingų medžiagų naudojimas
-
-
-Užterštumui kontroliuoti ar mažinti, taip pat ir moksliniams tyrimams kenksmingos medžiagos negali būti išmetamos be Aplinkos ministerijos leidimo.
-
-
-Straipsnio pakeitimai:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
+2. Uosto priėmimo įrenginiai turi būti tinkami, kad iš laivų, kurie naudojasi tuo uostu, galėtų priimti laivuose susidarančių atliekų ir laivų krovinių liekanų kiekį ir rūšis, atsižvelgiant į uosto naudotojų veiklos reikmes, uosto dydį ir geografinę padėtį, į uostą užsukančių laivų tipus ir šio įstatymo 18 straipsnyje nustatytas išimtis.
  
 
 
 
 
-10 straipsnis. Kenksmingų medžiagų išmetimas
 
 
-1. Jūros rajone kenksmingas medžiagas išmesti draudžiama, išskyrus šiame įstatyme nustatytus atvejus.
+16 straipsnis. Laivuose susidarančių atliekų pristatymas
+
+
+1. Į uostą atplaukusio laivo kapitonas, prieš išplaukdamas iš uosto, visas laive susidarančias atliekas pristato į uosto priėmimo įrenginius, išskyrus atvejus, kai iš pateikiamos informacijos paaiškėja, kad laive susidarančioms atliekoms skirta talpykla yra pakankama laikyti visoms laive susidarančioms atliekoms, susikaupusioms ir susikaupsiančioms laivui plaukiant numatomu maršrutu iki pristatymo uosto.
 
 
 
 
-2. Teritorinėje jūroje ir už teritorinės jūros ribų kenksmingos medžiagos, kurioms taikomi 1973 m. Tarptautinės konvencijos dėl teršimo iš laivų prevencijos, iš dalies pakeistos 1978 m. protokolu (toliau – MARPOL 73/78), I ar II priedo reikalavimai, gali būti išmetamos tik vadovaujantis MARPOL 73/781 ar II priedo reikalavimais.
-
-
-Straipsnio pakeitimai:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
+2. Jeigu yra pakankamas pagrindas manyti, kad numatomame pristatymo uoste tinkami uosto priėmimo įrenginiai neprieinami, arba jeigu tas uostas nežinomas ir dėl to yra pavojus, kad atliekos gali būti išmestos į jūrą, uosto administracija imasi priemonių užkirsti kelią jūros aplinkos teršimui reikalaudama, kad prieš išplaukdamas iš uosto laivo kapitonas pristatytų atliekas į uosto priėmimo įrenginius, išskyrus šio straipsnio 1 dalyje nurodytus atvejus.
  
 
 
 
 
-11 straipsnis. Neteko galios nuo 2007-05-19
-Straipsnio naikinimas:
-Nr. X-1109, 2007-05-03, Žin. 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
+
+
+17 straipsnis. Rinkliava už laivuose susidarančių atliekų priėmimo, tvarkymo paslaugas
+
+
+Rinkliava už laivuose susidarančių atliekų priėmimo, tvarkymo paslaugas yra įskaitoma į jūrų uosto sanitarinę rinkliavą, neatsižvelgiant į tai, ar laivas pristatė atliekas, ar ne.
  
 
 
 
 
-12 straipsnis. Neteko galios nuo 2007-05-19
-Straipsnio naikinimas:
-Nr. X-1109, 2007-05-03, Žin. 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
+
+
+18 straipsnis. Uosto administracijų suteikiamos išimtys
+
+
+Jeigu laivai plaukioja pagal tvarkaraštį, dažnai ir reguliariai užsuka į uostus, jeigu yra pakankamai įrodymų dėl priemonių, užtikrinančių, kad laivuose susidarančios atliekos bus pristatomos ir rinkliavos bus mokamos laivo maršrute esančiame uoste, uostų administracijos gali atleisti tokius laivus nuo šio įstatymo 16 ir 17 straipsniuose nurodytų prievolių.
  
 
 
 
 
-13 straipsnis. Neteko galios nuo 2007-05-19
-Straipsnio naikinimas:
-Nr. X-1109, 2007-05-03, Žin. 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
+
+
+19 straipsnis. Laivų krovinių liekanų pristatymas
+
+
+Į uostą atplaukiančio laivo kapitonas privalo užtikrinti, kad laivo krovinių liekanos į uosto priėmimo įrenginius būtų pristatomos vadovaujantis šio įstatymo ir MARPOL 73/78 nuostatomis. Visas išlaidas už laivų krovinių liekanų pristatymą sumoka priėmimo įrenginių naudotojas.
  
 
 
 
 
-14 straipsnis. Neteko galios nuo 2007-05-19
-Straipsnio naikinimas:
-Nr. X-1109, 2007-05-03, Žin. 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
- 
 
 
+20 straipsnis. Laivuose susidarančių atliekų ir laivų krovinių liekanų tvarkymo reikalavimų įgyvendinimas
 
 
-15 straipsnis. Neteko galios nuo 2007-05-19
-Straipsnio naikinimas:
-Nr. X-1109, 2007-05-03, Žin. 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
- 
-
-
-
-
-16 straipsnis. Nuotekų išmetimas
-
-
-Nuotekos gali būti išmetamos tik vadovaujantis MARPOL 73/78 IV priedo ir Helsinkio konvencijos IV priedo reikalavimais.
-
-
-Straipsnio pakeitimai:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
- 
-
-
-
-
-17 straipsnis. Šiukšlių išmetimas
-
-
-Vidaus vandenyse ir teritorinėje jūroje šiukšles išmesti draudžiama. Už teritorinės jūros ribų šiukšlės gali būti išmetamos tik vadovaujantis MARPOL 73/78 V priedo reikalavimais.
-
-
-Straipsnio pakeitimai:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
- 
-
-
-
-
-18 straipsnis. Neteko galios nuo 2007-05-19
-Straipsnio naikinimas:
-Nr. X-1109, 2007-05-03, Žin. 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
- 
-
-
-
-
-19 straipsnis. Emisijos į atmosferą
-
-
-Emisijų į atmosferą taisykles tvirtina Aplinkos ministerija.
-
-
-Straipsnio pakeitimai:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
- 
-
-
-
-
-20 straipsnis. Apsauga nuo nepageidaujamų organizmų
-
-
-Aplinkos ir Sveikatos apsaugos ministerijos nustato priemones ir procedūras, ribojančias jūros rajono taršą nepageidaujamais vandens ir patogeniniais organizmais, išmetamais su laivų balastiniu vandeniu ir nuosėdomis.
-
-
-Straipsnio pakeitimai:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
- 
-
-
-
-
-21 straipsnis. Specialūs aplinkosaugos reikalavimai
-
-
-Aplinkos ministerija gali nustatyti specialius eksploatacinių galimybių nepabloginančius aplinkosaugos reikalavimus Lietuvos Respublikos karo ir kitiems laivams, kurie yra valstybės nuosavybė ir naudojami tuo metu tik valstybės nekomerciniams tikslams.
-
-
-Straipsnio pakeitimai:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
- 
-
-
-
-
-22 straipsnis. Atliekų tvarkymas 
-
-
-Atliekų vežimo, jų saugojimo, nukenksminimo ir kitas tvarkymo procedūras Lietuvos Respublikoje nustato Aplinkos apsaugos įstatymas, kiti įstatymai ir teisės aktai.
+Šio įstatymo 15–19 straipsniuose nustatytų reikalavimų įgyvendinimo tvarką tvirtina susisiekimo ir aplinkos ministrai.
  
 
 
@@ -431,14 +551,29 @@ Atliekų vežimo, jų saugojimo, nukenksminimo ir kitas tvarkymo procedūras Lie
 
 
 PENKTASIS SKIRSNIS
-PRIĖMIMO ĮRENGINIAI
+TERŠIMO INCIDENTŲ LIKVIDAVIMAS
  
 
 
-23 straipsnis. Kenksmingų medžiagų priėmimas iš laivų
+21 straipsnis. Teršimo incidentų likvidavimas Lietuvos Respublikos jūros rajone ir Kuršių mariose
 
 
-Lietuvos Respublikos jūros uostų administracijos, naftos ir kitų kenksmingų medžiagų terminalai, laivų remonto įmonės bei kiti uostų objektai privalo turėti atitinkamus įrenginius arba kitaip užtikrinti, kad nedelsiant ir be apribojimo iš laivų būtų priimti, saugomi ir apdorojami naftos, kitų skystų ir kietų kenksmingų medžiagų likučiai, tarp jų nuotekos ir šiukšlės.
+1. Teršimo incidentų likvidavimo darbus Lietuvos Respublikos jūros rajone organizuoja, koordinuoja ir jiems vadovauja Lietuvos kariuomenė. Šiuos darbus Lietuvos kariuomenė organizuoja, koordinuoja ir jiems vadovauja per Jūrų gelbėjimo koordinavimo centrą.
+
+
+
+
+2. Teršimo incidentų likvidavimo darbus Lietuvos Respublikos jūros rajone, išskyrus jūros rajono vidaus vandenis, vykdo Lietuvos kariuomenė, Kuršių mariose – Vidaus reikalų ministerijos įgaliotos institucijos, jūrų uostų akvatorijose – uostų administracijos.
+
+
+
+
+3. Teršimo incidentų likvidavimo darbams vykdyti Jūrų gelbėjimo koordinavimo centro vadovo prašymu gali būti pasitelkiamos Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos, jūrų uostų administracijų, kitų valstybės ir savivaldybių institucijų pajėgos ir priemonės, priskirtos šiems darbams vykdyti pagal Teršimo incidentų likvidavimo jūros rajone darbų planą (toliau – Planas). Šį planą tvirtina krašto apsaugos, aplinkos ir vidaus reikalų ministrai. Jeigu teršimo incidentų likvidavimo darbams vykdyti pagal Planą priskirtų pajėgų ir priemonių neužtenka, turi būti pasitelkiamos papildomos, pagal Planą nurodytoms institucijoms nepriskirtos pajėgos ir priemonės.
+
+
+
+
+4. Šiame straipsnyje nurodytų institucijų pareigas ir įgaliojimus organizuojant, koordinuojant, vadovaujant ir vykdant teršimo incidentų likvidavimo darbus Lietuvos Respublikos jūros rajone nustato Vyriausybė. Šie darbai organizuojami, koordinuojami, jiems vadovaujama ir jie vykdomi remiantis Planu.
  
 
 
@@ -446,10 +581,10 @@ Lietuvos Respublikos jūros uostų administracijos, naftos ir kitų kenksmingų 
 
 
 
-24 straipsnis. Priėmimo įrenginių standartai 
+22 straipsnis. Teršimo incidentų likvidavimas pakrantėse
 
 
-Naftos, nuotekų priėmimo įrenginių bei laivų vamzdynų jungčių standartai turi atitikti MARPOL 73/78 reikalavimus.
+Nafta ar kitomis teršiančiomis medžiagomis užterštų Lietuvos Respublikos jūros rajono pakrančių valymą ir atkūrimą organizuoja savivaldybių administracijos.
  
 
 
@@ -457,15 +592,51 @@ Naftos, nuotekų priėmimo įrenginių bei laivų vamzdynų jungčių standartai
 
 
 
-25 straipsnis. Kenksmingų medžiagų likučių tvarkymo priemonės ir reikalavimai
+23 straipsnis. Teršimo incidentų likvidavimo lokaliniai planai
 
 
-Susisiekimo ministerija kartu su Aplinkos ministerija, bendradarbiaudamos su Helsinkio konvencijos šalimis, tarptautinėmis organizacijomis, įgyvendina reikiamas priemones ir reikalavimus (kontrolė ir pranešimai, atskiro mokesčio už teršalų priėmimą netaikymas, apskaita, taisyklės, žurnalai ir kt.), užtikrinančius, kad laivai atiduotų visus vežamų ir eksploatacijos metu susidarančių kenksmingų medžiagų likučius į priėmimo įrenginius uostuose ir būtų išvengta neteisėto jų išmetimo į jūrą.
-
-
-Straipsnio pakeitimai:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
+Įrenginiai, naftos ir cheminių medžiagų terminalai, kiti potencialūs teršimo šaltiniai, jūrų uostų administracijos ir savivaldybių administracijos privalo turėti su Vyriausybės įgaliotomis institucijomis suderintus teršimo incidentų likvidavimo lokalinius planus. Institucijų ir objektų, kurie privalo turėti teršimo incidentų likvidavimo lokalinius planus, sąrašą tvirtina aplinkos ministras. Teršimo incidentų likvidavimo lokalinių planų rengimo reikalavimai nustatomi Plane.
  
+
+
+
+
+
+
+24 straipsnis. Pasirengimas likviduoti teršimo incidentus
+
+
+Šio įstatymo 23 straipsnyje nurodytos institucijos ir objektų, išvardytų šio įstatymo 23 straipsnyje, valdytojai privalo būti nuolat pasirengę reaguoti į teršimo incidentus. Pasirengimas reaguoti į teršimo incidentus – apsirūpinimas Plane numatytais įrenginiais, laivais, kvalifikuota darbo jėga ir kita.
+ 
+
+
+
+
+
+
+25 straipsnis. Prevencinės priemonės
+
+
+Laivų kapitonai ir (ar) valdytojai, jūrų uostų administracijos, kitos šio įstatymo 23 straipsnyje nurodytos institucijos ir objektų, išvardytų šio įstatymo 23 straipsnyje, valdytojai privalo įgyvendinti būtinas priemones avarijoms išvengti arba sumažinti jų tikimybę iki minimumo.
+ 
+
+
+
+
+
+
+26 straipsnis. Ypatingos priemonės, taikomos teršimo incidento metu
+
+
+1. Kai Lietuvos Respublikos jūros rajone įvykusi laivo avarija ar teršimo incidentas kelia rimtą ir neišvengiamą grėsmę žmonėms, pakrantei ir su tuo susijusiems interesams, gali būti imamasi ypatingų priemonių (laivas pašalinamas, sudeginamas, paskandinamas), jeigu tai vienintelė išeitis pavojaus išvengti, jį sumažinti ar likviduoti. Sprendimas taikyti ypatingas priemones priimamas Vyriausybės nustatyta tvarka.
+
+
+
+
+2. Ypatingas priemones vykdo Lietuvos kariuomenė Lietuvos Respublikos jūros rajone, išskyrus jūros rajono vidaus vandenis, Vidaus reikalų ministerijos įgaliotos institucijos – Kuršių mariose, jūrų uostų administracijos – jūrų uostų akvatorijose. Ypatingoms priemonėms vykdyti atitinkamai Jūrų gelbėjimo koordinavimo centro, Vidaus reikalų ministerijos įgaliotos institucijos arba jūrų uosto administracijos vadovo prašymu gali būti pasitelkiamos kitų institucijų pajėgos ir priemonės.
+ 
+
+
 
 
 
@@ -473,66 +644,60 @@ Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA
 
 
 ŠEŠTASIS SKIRSNIS
-ŠALINIMAS IR DEGINIMAS
+KITOS VEIKLOS VALDYMAS LIETUVOS RESPUBLIKOS JŪROS RAJONE
  
 
 
-26 straipsnis. Atliekų šalinimas ir deginimas Baltijos jūros rajone ir atvirojoje jūroje
+27 straipsnis. Lietuvos Respublikos jūros rajone vykdomos veiklos reglamentavimas
 
 
-Baltijos jūros rajone ir atvirojoje jūroje atliekas ir kitas medžiagas šalinti ir deginti draudžiama: 
-
-
-1) Lietuvos Respublikos laivams, lėktuvams ir įrenginiams;
+1. Gamtos išteklių apsaugą, naudojimą ir kitą veiklą Lietuvos Respublikos jūros rajone nustato šis įstatymas, Aplinkos apsaugos, Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymai, kiti įstatymai ir teisės aktai.
 
 
 
 
-2) laivams, lėktuvams ir įrenginiams, kurie yra pakraunami Lietuvos Respublikos teritorijoje ar jos išskirtinėje ekonominėje zonoje.
- 
-
-
-
-
-
-
-
-
-27 straipsnis. Šalinimas ir deginimas
-
-
-Jūros rajone šalinimas ir deginimas draudžiamas.
-
-
-Straipsnio pakeitimai:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
+2. Hidrotechnikos statinių, vėjo elektrinių, žuvų fermų, uostų ar kitų infrastruktūros statinių statyba, rekonstrukcija, taip pat kasimo, gręžimo, sprogdinimo darbai, seisminiai tyrimai, karinės pratybos ir kita planuojama veikla, galinti turėti neigiamo poveikio jūros aplinkai, atliekama tik Aplinkos apsaugos, Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymų, kitų teisės aktų nustatyta tvarka.
  
 
 
 
 
-28 straipsnis. Grunto šalinimas
 
 
-Iškastam gruntui šalinti 26 ir 27 straipsniuose nustatyti draudimai netaikomi. Vidaus vandenyse ir teritorinėje jūroje gruntas gali būti šalinamas vadovaujantis aplinkos ministro nustatyta tvarka gavus Aplinkos ministerijos įgaliotos institucijos leidimą, o išskirtinėje ekonominėje zonoje – dar ir pasikonsultavus su Helsinkio komisija.
+28 straipsnis. Informavimas apie planuojamą veiklą
 
 
-Straipsnio pakeitimai:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
+Jeigu Lietuvos Respublikos jūros rajone planuojama veikla gali turėti reikšmingos neigiamos įtakos Baltijos jūros aplinkai, apie tai Aplinkos ministerija informuoja Helsinkio komisiją ir kaimynines valstybes, kurioms tokia veikla gali daryti neigiamą poveikį.
  
 
 
 
 
-29 straipsnis. Grunto šalinimo taisyklės
 
 
-Aplinkos ministerija nustato leidimų šalinti iškastą gruntą išdavimo taisykles.
+29 straipsnis. Saugomų teritorijų steigimas
 
 
-Straipsnio pakeitimai:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
+Lietuvos Respublikos jūros rajono vertingiems arba būdingiems gamtiniams kompleksams, natūralioms buveinėms ar rūšims, gyvūnų migracijos, žiemojimo, sezoninio susikaupimo, dauginimosi vietoms išsaugoti Saugomų teritorijų įstatymo nustatyta tvarka steigiamos saugomos teritorijos.
  
+
+
+
+
+
+
+30 straipsnis. Lietuvos Respublikos jūros rajono tyrimai
+
+
+1. Aplinkos ministerija ar jos įgaliota institucija koordinuoja Lietuvos Respublikos fizinių ir juridinių asmenų mokslinius tyrimus, susijusius su Lietuvos Respublikos jūros rajono gamtos ištekliais, jų naudojimu ir aplinkos apsauga, o suderinusi su Užsienio reikalų ministerija pagal Jūrų teisės konvencijos nuostatas nustato sąlygas ir išduoda leidimus užsienio šalių fiziniams ir juridiniams asmenims, jų filialams ar kitoms organizacijoms atlikti Lietuvos Respublikos jūros rajone mokslinius tyrimus. Jeigu tyrimai susiję su Helsinkio komisijos vykdoma Baltijos jūros stebėsenos programa išskirtinėje ekonominėje zonoje, leidimų tyrimams nereikia.
+
+
+
+
+2. Leidimų užsienio šalių fiziniams ir juridiniams asmenims, jų filialams ar kitoms organizacijoms atlikti Lietuvos Respublikos jūros rajone mokslinius tyrimus išdavimo tvarkos aprašą tvirtina aplinkos ministras ir užsienio reikalų ministras.
+ 
+
+
 
 
 
@@ -540,42 +705,14 @@ Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA
 
 
 SEPTINTASIS SKIRSNIS
-TERŠIMO INCIDENTŲ LIKVIDAVIMAS
+KONTROLĖ IR ATSAKOMYBĖ
  
 
 
-30 straipsnis. Teršimo incidentų likvidavimas
+31 straipsnis. Taršos prevencijos reikalavimų vykdymo kontrolė
 
 
-1. Teršimo incidentų likvidavimo darbus jūros rajone organizuoja, koordinuoja ir jiems vadovauja Lietuvos kariuomenė. Šiuos darbus Lietuvos kariuomenė organizuoja, koordinuoja ir jiems vadovauja per Lietuvos kariuomenės Karinių jūrų pajėgų Jūrų gelbėjimo koordinavimo centrą (toliau – Jūrų gelbėjimo koordinavimo centras).
-
-
-
-
-2. Teršimo incidentų likvidavimo darbus jūros rajone, išskyrus vidaus vandenis, vykdo Lietuvos kariuomenė, Kuršių mariose – Vidaus reikalų ministerijos įgaliotos institucijos, jūrų uostų akvatorijose – jūrų uostų administracijos.
-
-
-
-
-3. Teršimo incidentų likvidavimo darbams vykdyti Jūrų gelbėjimo koordinavimo centro vadovo prašymu gali būti pasitelkiamos Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos, jūrų uostų administracijų, kitų valstybės ir savivaldybių institucijų pajėgos ir priemonės, priskirtos šiems darbams vykdyti pagal Teršimo incidentų likvidavimo jūros rajone darbų planą (toliau – Planas), kurį tvirtina krašto apsaugos, aplinkos ir vidaus reikalų ministrai. Jeigu teršimo incidentų likvidavimo darbams vykdyti pagal Planą priskirtų pajėgų ir priemonių neužtenka, turi būti pasitelkiamos papildomos, t. y. pagal Planą nepriskirtos, minėtų institucijų pajėgos ir priemonės.
-
-
-
-
-4. Šiame straipsnyje nurodytų institucijų pareigas ir įgaliojimus organizuojant, koordinuojant, vadovaujant ir vykdant teršimo incidentų likvidavimo darbus jūros rajone nustato Vyriausybė. Šie darbai organizuojami, koordinuojami, jiems vadovaujama ir jie vykdomi remiantis Planu.
-
-
-Straipsnio pakeitimai:
-Nr. X-1560, 2008-05-22, Žin., 2008, Nr. 65-2459 (2008-06-07), i. k. 1081010ISTA00X-1560
- 
-
-
-
-
-31 straipsnis. Teršimo incidentų likvidavimas pakrantėse
-
-
-Nafta ar kitomis kenksmingomis medžiagomis užterštų Kuršių marių ir Baltijos jūros pakrančių valymą ir atkūrimą organizuoja savivaldybės.
+Aplinkos apsaugos valstybinę kontrolę vykdančios institucijos ir pareigūnai Aplinkos apsaugos valstybinės kontrolės įstatymo nustatyta tvarka kontroliuoja, ar asmenys vykdo šiame įstatyme ir kituose teisės aktuose nustatytus taršos iš laivų prevencijos ir kitus jūros aplinkos apsaugos ir gamtos išteklių naudojimo reikalavimus.
  
 
 
@@ -583,80 +720,13 @@ Nafta ar kitomis kenksmingomis medžiagomis užterštų Kuršių marių ir Balti
 
 
 
-32 straipsnis. Teršimo incidentų likvidavimo lokaliniai planai
+32 straipsnis. Atsakomybė už šio įstatymo pažeidimus
 
 
-Įrenginiai, laivai, naftos ir cheminių medžiagų terminalai, kiti potencialūs teršimo šaltiniai, jūrų uostų administracijos ir savivaldybės privalo turėti su Lietuvos Respublikos Vyriausybės įgaliota institucija suderintus teršimo incidentų likvidavimo lokalinius planus.
-
-
-Straipsnio pakeitimai:
-Nr. X-1560, 2008-05-22, Žin., 2008, Nr. 65-2459 (2008-06-07), i. k. 1081010ISTA00X-1560
+Pažeidus šio įstatymo reikalavimus, atsakomybė taikoma įstatymų nustatyta tvarka.
  
 
 
-
-
-33 straipsnis. Neteko galios nuo 2009-01-01
-Straipsnio naikinimas:
-Nr. X-1560, 2008-05-22, Žin. 2008, Nr. 65-2459 (2008-06-07), i. k. 1081010ISTA00X-1560
-Straipsnio pakeitimai:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
- 
-
-
-
-
-34 straipsnis. Teršimo incidentų likvidavimo planų parengimo nuorodos
-
-
-Aplinkos ministerija parengia nuorodas teršimo incidentų likvidavimo planams parengti arba jiems pakoreguoti bei nustato jų parengimo ar tikslinimo terminus.
-
-
-Straipsnio pakeitimai:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
- 
-
-
-
-
-35 straipsnis. Pasirengimas likviduoti teršimo incidentus
-
-
-Institucijos ir objektai, išvardyti šio įstatymo 30–32 straipsniuose, privalo būti nuolat pasirengę reaguoti į teršimų incidentus. Šis pasirengimas – tai apsirūpinimas Plane numatytais įrenginiais, laivais, kvalifikuota darbo jėga ir kita.
-
-
-Straipsnio pakeitimai:
-Nr. X-1560, 2008-05-22, Žin., 2008, Nr. 65-2459 (2008-06-07), i. k. 1081010ISTA00X-1560
- 
-
-
-
-
-36 straipsnis. Prevencinės priemonės
-
-
-Lietuvos Respublikos jūros uostų administracijos, laivų savininkai ar valdytojai, laivų kapitonai privalo įgyvendinti būtinas priemones avarijoms išvengti arba sumažinti jų tikimybę iki minimumo, didinti laivybos saugumą bei tobulinti jūros transporto eismą.
- 
-
-
-
-
-
-
-37 straipsnis. Ypatingos priemonės
-
-
-1. Kai jūros rajone įvykusi avarija ar teršimo incidentas kelia rimtą ir neišvengiamą grėsmę žmonėms, pakrantei ir su tuo susijusiems interesams, gali būti imamasi ypatingų priemonių (laivas pašalinamas, sudeginamas, paskandinamas ir kt.), jeigu tai vienintelė išeitis pavojui išvengti, sumažinti ar likviduoti. Sprendimas taikyti ypatingas priemones priimamas Vyriausybės nustatyta tvarka.
-
-
-
-
-2. Ypatingas priemones vykdo Lietuvos kariuomenė jūros rajone, išskyrus vidaus vandenis, Vidaus reikalų ministerijos įgaliotos institucijos Kuršių mariose, jūrų uostų administracijos jūrų uostų akvatorijose. Ypatingoms priemonėms vykdyti atitinkamai Jūrų gelbėjimo koordinavimo centro, Vidaus reikalų ministerijos įgaliotos institucijos arba jūrų uosto administracijos vadovo prašymu gali būti pasitelkiamos kitų institucijų pajėgos ir priemonės.
-
-
-Straipsnio pakeitimai:
-Nr. X-1560, 2008-05-22, Žin., 2008, Nr. 65-2459 (2008-06-07), i. k. 1081010ISTA00X-1560
- 
 
 
 
@@ -664,463 +734,14 @@ Nr. X-1560, 2008-05-22, Žin., 2008, Nr. 65-2459 (2008-06-07), i. k. 1081010ISTA
 
 
 AŠTUNTASIS SKIRSNIS
-PRANEŠIMAI
- 
-
-
-38 straipsnis. Privalomi pranešimai apie neteisėtus išmetimus
-
-
-Laivų savininkai ar valdytojai, kapitonai ar kiti pareigūnai, atsakingi už laivus, privalo tuojau pat pranešti artimiausios pakrantės valstybės kompetentingai institucijai, jei plaukia jūros rajone, – Jūrų gelbėjimo koordinavimo centrui apie visus įvykius, susijusius su kenksmingų medžiagų išmetimais ar galimais išmetimais, jeigu jie pažeidžia šio įstatymo ketvirtojo ir šeštojo skirsnių nuostatas, apie kitus teršimo incidentus, įskaitant ir atvejus, nurodytus 69 straipsnyje, taip pat apie kiekvieną susidūrimą ar užplaukimą ant seklumos.
-
-
-Straipsnio pakeitimai:
-Nr. X-1560, 2008-05-22, Žin., 2008, Nr. 65-2459 (2008-06-07), i. k. 1081010ISTA00X-1560
- 
-
-
-
-
-39 straipsnis. Privalomi pranešimai apie pastebėtus išmetimus
-
-
-38 straipsnyje nurodyti asmenys ir orlaivių vadai privalo tuojau pat pranešti artimiausios pakrantės valstybės kompetentingai institucijai, jei plaukia jūros rajone ar skrenda virš jūros rajono, – Jūrų gelbėjimo koordinavimo centrui, o jei yra uosto akvatorijoje ar skrenda virš uosto akvatorijos, – to uosto administracijai apie pastebėtus išmetimus.
-
-
-Straipsnio pakeitimai:
-Nr. X-1560, 2008-05-22, Žin., 2008, Nr. 65-2459 (2008-06-07), i. k. 1081010ISTA00X-1560
- 
-
-
-
-
-40 straipsnis. 38 ir 39 straipsnių taikymas užsienio laivams
-
-
-38 ir 39 straipsnių sąlygos turi būti taikomos jūros rajone esantiems užsienio laivams.
- 
-
-
-
-
-
-
-41 straipsnis. Privalomi pranešimai apie neteisėtą šalinimą ir deginimą
-
-
-Laivų valdytojai, kapitonai ar kiti už laivus atsakingi pareigūnai, orlaivių vadai, įrenginių valdytojai privalo tuojau pat pranešti apie kiekvieną neteisėtą šalinimą ir deginimą jūros rajone Jūrų gelbėjimo koordinavimo centrui.
-
-
-Straipsnio pakeitimai:
-Nr. X-1560, 2008-05-22, Žin., 2008, Nr. 65-2459 (2008-06-07), i. k. 1081010ISTA00X-1560
- 
-
-
-
-
-42 straipsnis. Privalomi pranešimai
-
-
-Jūrų gelbėjimo koordinavimo centras privalo nedelsdamas pranešti Aplinkos ministerijos įgaliotai institucijai apie visus 38–41 straipsniuose nurodytus įvykius.
-
-
-Straipsnio pakeitimai:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
-Nr. X-1560, 2008-05-22, Žin., 2008, Nr. 65-2459 (2008-06-07), i. k. 1081010ISTA00X-1560
- 
-
-
-
-
-43 straipsnis. Neteko galios nuo 2009-01-01
-Straipsnio naikinimas:
-Nr. X-1560, 2008-05-22, Žin. 2008, Nr. 65-2459 (2008-06-07), i. k. 1081010ISTA00X-1560
-Straipsnio pakeitimai:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
- 
-
-
-
-
-44 straipsnis. Informacija apie kraunamas ir vežamas medžiagas
-
-
-Jeigu Aplinkos ministerija reikalauja, prekybos agentai, importuotojai, eksportuotojai, krovinio gavėjai, siuntėjai, jūros uostų administracijos turi pateikti informaciją apie Lietuvos jūros uostuose pakraunamų, iškraunamų medžiagų sudėtį ir kiekį, kenksmingas medžiagas vežančius laivus dar prieš jų atvykimą.
-
-
-Straipsnio pakeitimai:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
- 
-
-
-
-
-
-
-DEVINTASIS SKIRSNIS
-KITOS VEIKLOS VALDYMAS JŪROS RAJONE
- 
-
-
-45 straipsnis. Veiklos jūros rajone reglamentavimas
-
-
-Gamtos išteklių apsaugą ir naudojimą bei kitą veiklą jūros rajone nustato šis įstatymas, Aplinkos apsaugos, Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymai bei kiti įstatymai ir teisės aktai.
- 
-
-
-
-
-
-
-46 straipsnis. Neteko galios nuo 2005-03-05
-Straipsnio naikinimas:
-Nr. X-118, 2005-02-15, Žin. 2005, Nr. 31-976 (2005-03-05), i. k. 1051010ISTA000X-118
- 
-
-
-
-
-47 straipsnis. Neteko galios nuo 2005-03-05
-Straipsnio naikinimas:
-Nr. X-118, 2005-02-15, Žin. 2005, Nr. 31-976 (2005-03-05), i. k. 1051010ISTA000X-118
- 
-
-
-
-
-48 straipsnis. Kitos veiklos reguliavimas
-
-
-Hidrotechnikos statinių, žuvų fermų, uostų statyba, rekonstrukcija, taip pat kasimo, gręžimo, sprogdinimo darbai, seisminiai tyrimai, karinės pratybos ir kita planuojama veikla, galinti turėti neigiamo poveikio jūros rajono aplinkai, atliekama tik Aplinkos apsaugos, Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymų, kitų teisės aktų nustatyta tvarka, t. y. gavus teigiamą Aplinkos ministerijos sprendimą. 
-
-
-Straipsnio pakeitimai:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
- 
-
-
-
-
-49 straipsnis. Informavimas apie planuojamą veiklą
-
-
-Jeigu jūros rajone planuojama veikla gali turėti didelės neigiamos įtakos Baltijos jūros aplinkai, apie tai Aplinkos ministerija informuoja Helsinkio komisiją ir kaimynines valstybes, kurioms tokia veikla gali turėti įtakos.
-
-
-Straipsnio pakeitimai:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
- 
-
-
-
-
-50 straipsnis. Jūros rajono tyrimai
-
-
-Aplinkos ministerija koordinuoja Lietuvos Respublikos fizinių ir juridinių asmenų mokslinius tyrimus, susijusius su jūros rajono gamtos ištekliais, jų naudojimu ir aplinkos apsauga, bei per Užsienio reikalų ministeriją pagal Jūrų teisės konvencijos nuostatas nustato sąlygas ir išduoda leidimus užsienio šalių fiziniams ir juridiniams asmenims arba Lietuvos ir užsienio šalių asmenims atlikti jūros rajone bendrus tyrimus. Jeigu tyrimai susiję su Helsinkio komisijos vykdoma Baltijos jūros stebėsenos programa išskirtinėje ekonominėje zonoje, leidimų užsienio asmenims arba Lietuvos ir užsienio asmenims atlikti bendrus tyrimus gauti nereikia.
-
-
-Straipsnio pakeitimai:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
- 
-
-
-
-
-51 straipsnis. Apleistų arba nuskendusių objektų tvarkymas
-
-
-Laivų, įrenginių, krovinių valdytojai arba savininkai, jų įgalioti asmenys privalo garantuoti, kad apleisti, nebenaudojami, atsitiktinai sudužę ar nuskendę laivai, įrenginiai bei pamesti kroviniai, kurie kelia grėsmę jūros aplinkai ar laivybos saugumui, būtų visiškai pašalinti iš jūros rajono ir atgabenti į krantą, o nenaudojami gręžiniai būtų likviduoti.
- 
-
-
-
-
-
-
-
-
-DEŠIMTASIS SKIRSNIS
-JŪROS RAJONO PAKRANTĖS APSAUGA
- 
-
-
-52 straipsnis. Saugomų teritorijų steigimas
-
-
-Jūros rajono pakrantės vertingiems arba būdingiems kompleksams bei rūšims, paukščių migracijos, žiemojimo, rinkimosi, žuvų neršto vietoms išsaugoti Saugomų teritorijų įstatymo nustatyta tvarka gali būti steigiamos saugomos teritorijos.
- 
-
-
-
-
-
-
-53 straipsnis. Pajūrio juostos ir jūros kranto zonos nustatymas
-
-
-Kad būtų išsaugota jūros rajono pakrantės aplinka, nustatomos dvi skirtingo apsaugos režimo teritorijos – pajūrio juosta ir jūros kranto zona. Jūros kranto zona gali būti nustatoma ir pakrantės akvatorijoje.
-
-
-Straipsnio pakeitimai:
-Nr. IX-1017, 2002-07-02, Žin., 2002, Nr. 73-3092 (2002-07-19), i. k. 1021010ISTA0IX-1017
- 
-
-
-
-
-54 straipsnis. Pajūrio juostos naudojimo režimas
-
-
-Jūros rajono pajūrio juostos naudojimo bei apsaugos režimą nustato Pajūrio juostos įstatymas, kiti teisės aktai.
-
-
-Straipsnio pakeitimai:
-Nr. IX-1017, 2002-07-02, Žin., 2002, Nr. 73-3092 (2002-07-19), i. k. 1021010ISTA0IX-1017
- 
-
-
-
-
-55 straipsnis. Įrenginių apsaugos juostos ir zonos 
-
-
-Gali būti formuojamos įrenginių, esančių jūros rajone ar jos pakrantėje, apsaugos juostos ir zonos, kurių režimą nustato Vyriausybė arba jos įgaliota institucija.
- 
-
-
-
-
-
-
-56 straipsnis. Jūros kranto zonos tvarkymo reglamentavimas
-
-
-Jūros kranto zonos tvarkymą reglamentuoja Krantų apsaugos ir naudojimo nuostatai, kuriuos tvirtina Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
-
-
-Straipsnio pakeitimai:
-Nr. IX-1017, 2002-07-02, Žin., 2002, Nr. 73-3092 (2002-07-19), i. k. 1021010ISTA0IX-1017
- 
-
-
-
-
-57 straipsnis. Pajūrio juostos ir jūros kranto zonos žymėjimas
-
-
-Pajūrio juostos ir jūros kranto zonos ribos pažymimos bei jų naudojimo ir apsaugos, kranto tvarkymo priemonės nustatomos visų lygių ir visų rūšių teritorijų planavimo dokumentuose, patvirtintuose Teritorijų planavimo įstatymo nustatyta tvarka.
-
-
-Straipsnio pakeitimai:
-Nr. IX-1017, 2002-07-02, Žin., 2002, Nr. 73-3092 (2002-07-19), i. k. 1021010ISTA0IX-1017
- 
-
-
-
-
-58 straipsnis. Kitos veiklos pakrantėje reglamentavimas
-
-
-Šiame įstatymo skirsnyje neaptartą ūkinę veiklą jūros pakrantės rajone reglamentuoja Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymas, kiti teisės aktai.
- 
-
-
-
-
-
-
-
-
-VIENUOLIKTASIS SKIRSNIS
-JŪROS APLINKOS BŪKLĖS ĮVERTINIMAS
- 
-
-
-59 straipsnis. Jūros rajono aplinkos būklės įvertinimas
-
-
-Jūros rajono aplinkos būklei įvertinti Aplinkos ministerija privalo:
-
-
-1) sukurti ir įgyvendinti nacionalinę jūros stebėsenos programą;
-
-
-
-
-2) įgyvendindama nacionalinę ir Baltijos jūros tarptautinę stebėsenos programą, bendradarbiauti su Helsinkio konvencijos šalimis, kompetentingomis tarptautinėmis organizacijomis;
-
-
-
-
-3) pateikti Lietuvos Respublikos Vyriausybei, Helsinkio komisijai ir kitoms kompetentingoms tarptautinėms organizacijoms duomenis ir metinį pranešimą apie jūros rajono būklę;
-
-
-
-
-4) vykdyti patvirtintus tarptautinius nurodymus stebėsenos duomenų kokybei užtikrinti ir dalyvauti atliekant tarptautinius kalibravimus;
-
-
-
-
-5) skatinti tyrimus, kurie būtini jūros rajono aplinkos būklei įvertinti, žinioms apie jūros aplinką plėsti ir moksliniam supratimui formuoti;
-
-
-
-
-6) atsižvelgti į mokslo pažangą, kuri gali būti naudinga jūros būklei įvertinti remiantis individualių tyrinėtojų ir tyrimo institucijų laimėjimais ir nacionalinių bei tarptautinių programų rezultatais;
-
-
-
-
-7) įvertinti kenksmingų medžiagų pobūdį ir kiekį, kuris patenka į juros rajoną iš sausumos šaltinių, įskaitant taršą iš atmosferos ir iškasto grunto šalinimą, sukurti ankstyvojo įspėjimo apie kritinę jūros aplinkos būklę sistemą;
-
-
-
-
-8) prieš išduodama leidimus, įvertinti planuojamos veiklos poveikį aplinkai ir kontroliuoti leistos veiklos poveikį;
-
-
-
-
-9) tirti ekologines ir ekonomines didelių avarinių naftos ir kitų kenksmingų medžiagų išmetimų pasekmes;
-
-
-
-
-10) atsižvelgdama į vandens, priekrančių ir pakrančių ekosistemų dinaminius procesus, tobulinti stebėsenos programą ir plėtoti tobulesnę, kompleksinę stebėjimo sistemą.
-
-
-
-
-Straipsnio pakeitimai:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
- 
-
-
-
-
-60 straipsnis. Jūros stebėsenos programos vykdymas
-
-
-Jūros stebėsenos programą gali vykdyti tik atestuotos laboratorijos. Laboratorijų atestavimo tvarką tvirtina Aplinkos ministerija.
-
-
-Straipsnio pakeitimai:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
- 
-
-
-
-
-
-
-DVYLIKTASIS SKIRSNIS
-TARPŽINYBINĖ KONSULTACINĖ JŪROS APLINKOS APSAUGOS TARYBA
- 
-
-
-61 straipsnis. Tarpžinybinės konsultacinės jūros aplinkos apsaugos tarybos sudarymas
-
-
-Jūros aplinkos ir pakrantės naudojimo ir apsaugos klausimams spręsti prie Aplinkos ministerijos sudaroma tarpžinybinė konsultacinė jūros aplinkos apsaugos taryba.
-
-
-Straipsnio pakeitimai:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
- 
-
-
-
-
-62 straipsnis. Tarpžinybinės konsultacinės jūros aplinkos apsaugos tarybos funkcijos
-
-
-Tarpžinybinės konsultacinės jūros aplinkos apsaugos tarybos svarbiausios funkcijos yra rengti ir analizuoti su jūros ir pakrančių aplinkos apsauga bei gamtos išteklių naudojimu susijusią medžiagą, kurią reikia aptarti tarptautinėse komisijose ir kitose pagal jūros aplinkos apsaugos susitarimus įkurtose organizacijose, taip pat teikti rekomendacijas.
- 
-
-
-
-
-
-
-
-
-TRYLIKTASIS SKIRSNIS
-KONTROLĖ IR ATSAKOMYBĖ
- 
-
-
-63 straipsnis. Taršos iš laivų reikalavimų vykdymo kontrolė
-
-
-Aplinkos apsaugos valstybinę kontrolę vykdančios institucijos ir pareigūnai Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo nustatyta tvarka kontroliuoja, ar asmenys vykdo šiame įstatyme ir kituose teisės aktuose nustatytus jūros aplinkos apsaugos ir gamtos išteklių naudojimo reikalavimus.
-
-
-Straipsnio pakeitimai:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
- 
-
-
-
-
-64 straipsnis. Kontroliuojančių pareigūnų teisės
-
-
-1. Neteko galios nuo 2007-05-19
-Straipsnio dalies naikinimas:
-Nr. X-1109, 2007-05-03, Žin. 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
- 
-
-
-
-
-
-
-65 straipsnis. Neteko galios nuo 2007-05-19
-Straipsnio naikinimas:
-Nr. X-1109, 2007-05-03, Žin. 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
- 
-
-
-
-
-66 straipsnis. Neteko galios nuo 2007-05-19
-Straipsnio naikinimas:
-Nr. X-1109, 2007-05-03, Žin. 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
- 
-
-
-
-
-67 straipsnis. Neteko galios nuo 2007-05-19
-Straipsnio naikinimas:
-Nr. X-1109, 2007-05-03, Žin. 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
- 
-
-
-
-
-68 straipsnis. Neteko galios nuo 2007-05-19
-Straipsnio naikinimas:
-Nr. X-1109, 2007-05-03, Žin. 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
- 
-
-
-
-
-
-
-KETURIOLIKTASIS SKIRSNIS
 ĮSTATYMO TAIKYMO YPATUMAI
  
 
 
-69 straipsnis. Ketvirtojo ir šeštojo skirsnių taikymo išlygos
+33 straipsnis. Šio įstatymo 7–13 straipsnių taikymo išimtys
 
 
-Šio įstatymo ketvirtojo ir šeštojo skirsnių nuostatos netaikomos, kai kenksmingų medžiagų išmetimo ar šalinimo tikslas yra žmonių gyvybės gelbėjimas ar laivų, įrenginių saugumo užtikrinimas.
+Šio įstatymo 7–13 straipsnių nuostatos netaikomos, kai teršiančių medžiagų išmetimo ar šalinimo tikslas yra žmonių gyvybės gelbėjimas ar laivų, įrenginių saugumo užtikrinimas.
  
 
 
@@ -1128,12 +749,56 @@ KETURIOLIKTASIS SKIRSNIS
 
 
 
-70 straipsnis. Leidimų keitimo ar panaikinimo sąlygos
+34 straipsnis. Leidimų, nurodytų šio įstatymo 9 straipsnio 2 dalyje, 13 straipsnyje, 30 straipsnyje, sustabdymo ir panaikinimo sąlygos
 
 
-Leidimai, kurie išduodami pagal šį įstatymą ar pagal normatyvinius dokumentus, išleistus remiantis šiuo įstatymu, gali būti keičiami ar panaikinami, jeigu tai daryti verčia jūros aplinkos apsaugos motyvai.
+1. Leidimų, nurodytų šio įstatymo 9 straipsnio 2 dalyje, 13 straipsnyje, 30 straipsnyje, (toliau – leidimai) galiojimas sustabdomas leidimą išduodančios institucijos sprendimu. Sprendime nurodomi leidimo galiojimo sustabdymo motyvai, leidimo galiojimo sustabdymo data ir laikotarpis, per kurį turėtų būti pašalinti nurodyti veiklos sąlygų pažeidimai. Leidimo galiojimas sustabdomas, jeigu:
+
+
+1) išdavus leidimą, paaiškėja, kad prašyme išduoti leidimą pateikti klaidingi duomenys, ir per leidimą išduodančios institucijos nurodytą laikotarpį leidimą turintis asmuo nepateikia patikslintų duomenų;
+
+
+
+
+2) leidimą turintis asmuo pažeidžia veiklos, kuriai išduotas leidimas, sąlygas ir po įspėjimo per leidimą išduodančios institucijos nustatytą laikotarpį nepašalina nurodytų pažeidimų;
+
+
+
+
+3) kyla pagrįstų įtarimų, kad veikla, kuriai išduotas leidimas, teršia jūros aplinką ar kitaip kenkia jūros gyviesiems ištekliams ar ekosistemoms ir apie tai nebuvo žinoma išduodant leidimą.
+
+
+
+
+
+
+2. Kai asmuo nustatyta tvarka pateikia dokumentus, įrodančius, kad pažeidimai pašalinti, leidimą išdavusios institucijos sprendimu ne vėliau kaip per 30 kalendorinių dienų nuo dokumentų gavimo dienos leidimus išduodančioje institucijoje leidimo galiojimo sustabdymas panaikinamas.
+
+
+
+
+3. Leidimų galiojimas panaikinamas leidimą išduodančios institucijos spendimu, jeigu:
+
+
+1) asmuo, kurio leidimo galiojimas sustabdytas, per leidimą išduodančios institucijos nustatytą terminą nepašalina pažeidimų, dėl kurių buvo sustabdytas leidimo galiojimas;
+
+
+
+
+2) asmuo, kurio leidimo galiojimas sustabdytas, vykdo leidime nurodytą veiklą;
+
+
+
+
+3) asmuo, kurio leidimo galiojimas jau buvo sustabdytas, pakartotinai per 12 mėnesių nuo jam išduoto leidimo galiojimo sustabdymo dienos pažeidžia veiklos, kuriai išduotas leidimas, sąlygas;
+
+
+
+
+4) pasitvirtina įtarimai, kad veikla, kuriai išduotas leidimas, teršia jūros aplinką ar kitaip kenkia jūros gyviesiems ištekliams ar ekosistemoms ir apie tai nebuvo žinoma išduodant leidimą.
  
- 
+
+
 
 
 
@@ -1149,20 +814,180 @@ RESPUBLIKOS PREZIDENTAS                            �
  
 
 
+ 
 
 
 
 
-Lietuvos Respublikos jūros aplinkos
-apsaugos įstatymo
-priedas
+ 
+ 
+ 
+Lietuvos Respublikos
+jūros aplinkos apsaugos
+įstatymo
+1 priedas
+ 
+JŪROS APLINKOS BŪDINGŲ SAVYBIŲ, PAVOJŲ IR POVEIKIO SĄRAŠAI
+1 lentelė
+
+
+
+ Būdingos savybės 
+
+
+ Fizinės ir cheminės savybės 
+ – Jūros dugno topografija ir batimetrija; – metinis ir sezoninis temperatūros režimas ir ledo danga; – srovių greitis, išplūdis, bangų poveikis, maišymosi savybės, drumstumas, aktyvumo trukmė; – druskingumo pasiskirstymas erdvės ir laiko atžvilgiu; – maistingųjų medžiagų ir deguonies pasiskirstymas erdvės ir laiko atžvilgiu; – informacija jūros vandens rūgštėjimui nustatyti. 
+
+
+ Buveinių tipai 
+ – Vyraujantis (vyraujantys) jūros dugno ir vandens buveinių tipas (tipai) su būdingų fizinių ir cheminių savybių apibūdinimu, pavyzdžiui, gylis, vandens temperatūros režimas, srovės ir kitas vandens judėjimas, druskingumas, struktūra ir dugno substrato sudėtis; – tam tikrų buveinių tipų nustatymas ir kartografavimas, ypač pagal Europos Sąjungos teisės aktus arba tarptautines konvencijas pripažintų arba nustatytų ypač įdomiais moksliniu arba biologinės įvairovės požiūriu; – buveinės zonose, kurios dėl savo savybių, vietos arba strateginės svarbos turėtų būti atskirai nurodytos. Tai gali būti veikiamos intensyvių arba specifinių pavojų teritorijos arba teritorijos, kuriose reikalingas specialus apsaugos režimas. 
+
+
+ Biologinės savybės 
+ – Biologinių bendrijų, susijusių su vyraujančiomis jūros dugno ir vandens storymės buveinėmis, aprašymas. Jame būtų informacija apie fitoplanktono ir zooplanktono bendrijas, įskaitant rūšis, sezoninį ir geografinį kintamumą; – informacija apie gaubtasėklius, didžiuosius dumblius, bestuburę dugno gyvūniją, įskaitant rūšinę sudėtį, biomasę ir metinį ir (arba) sezoninį kintamumą; – informacija apie žuvų populiacijų struktūrą, įskaitant populiacijų gausą, pasiskirstymą, amžiaus arba dydžio struktūrą; – populiacijų dinamikos, Baltijos jūros rajone pasitaikančių jūrų žinduolių ir roplių rūšių natūralaus pasiskirstymo ir būklės aprašymas; – populiacijų dinamikos, Baltijos jūros rajone pasitaikančių jūrų paukščių rūšių natūralaus pasiskirstymo ir būklės apibūdinimas; – populiacijų dinamikos, kitų Baltijos jūros rajone pasitaikančių jūrų paukščių rūšių, kurios yra Europos Sąjungos teisės aktų arba tarptautinių susitarimų reglamentavimo objektas, natūralaus pasiskirstymo ir būklės apibūdinimas; – Baltijos jūros rajone esančių svetimžemių rūšių arba prireikus genetiškai besiskiriančių vietinių rūšių laikino atsiradimo, gausumo ir geografinio pasiskirstymo aprašas. 
+
+
+ Kitos savybės 
+ – Su cheminėmis medžiagomis susijusios padėties, įskaitant susirūpinimą keliančias chemines medžiagas, nuosėdų užterštumo, židinių, sveikatos problemų, floros ir faunos (visų pirma skirtos žmonių maistui) užterštumo apibūdinimas; – kitų savybių, tipiškų ar būdingų Baltijos jūros rajonui, apibūdinimas. 
+
+
+   2 lentelė 
+
+
+ Pavojai ir poveikis 
+
+
+ Fizinis nykimas 
+ – Slopinimas (pvz., dirbtinėmis struktūromis gilinant dugną iškasto grunto šalinimu); – sandarinimas (pvz., ilgalaikėmis konstrukcijomis). 
+
+
+ Fizinė žala 
+ – Dumblėjimo pokyčiai (pvz., dėl nuotėkio, dugno gilinimo ir (arba) gilinant dugną iškasto grunto šalinimo); – krantų irimas (pvz., poveikis jūros dugnui dėl komercinės žvejybos, laivybos, inkaravimo); – pasirinktinė gavyba (pvz., jūros dugno ir po juo esančio grunto išteklių paieškos ir naudojimo). 
+
+
+ Kitas fizinis trikdymas 
+ – Triukšmas po vandeniu (pvz., dėl laivybos, akustinių povandeninių įtaisų); – jūros tarša šiukšlėmis. 
+
+
+ Kišimasis į hidrologinius procesus 
+ – Dideli terminio režimo pokyčiai (pvz., dėl nuotekų iš elektrinių); – dideli druskingumo režimo pokyčiai (pvz., dėl trikdančių vandens judėjimą konstrukcijų, vandens ėmimo). 
+
+
+ Užterštumas pavojingomis medžiagomis 
+ – Sintetinių junginių patekimas (pvz., su jūros aplinka susijusios prioritetinės medžiagos, pesticidai, organines apnašas šalinančios medžiagos, farmacijos produktai, patenkantys dėl taršos iš pasklidųjų taršos šaltinių, taršos iš laivų, atmosferos taršos ir biologiškai aktyvios medžiagos); – nesintetinių medžiagų ir junginių patekimas (pvz., sunkiųjų metalų, angliavandenilių, patenkančių dėl taršos iš laivų ir dėl naftos, dujų bei mineralų paieškos ir gavybos, atmosferos taršos su įtekančių upių vandeniu); – radionuklidų patekimas. 
+
+
+ Nuolatinis ir (arba) tyčinis teršalų išmetimas 
+ Pagal Europos Sąjungos teisės aktus ir (arba) tarptautines konvencijas leidžiamas kitų medžiagų (skysčių, kietųjų medžiagų arba dujų) patekimas į jūros vandenį dėl nuolatinio ir (arba) tyčinio jų išmetimo į jūros aplinką. 
+
+
+ Praturtinimas maistingomis ir organinėmis medžiagomis 
+ – Trąšų ir kitų azoto ir fosforo turinčių medžiagų patekimas (pvz., iš taškinių ir pasklidosios taršos šaltinių, įskaitant žemės ūkį, vandens ūkį, atmosferos taršą); – organinių medžiagų patekimas (pvz., komunalinės nuotekos, marikultūra, įtekančių upių poveikis). 
+
+
+ Biologinis trikdymas 
+ – Mikrobinių patogenų patekimas; – svetimžemių rūšių patekimas ir perkėlimas; – specializuota žvejyba, įskaitant šalutinį žvejybos laimikį (pvz., verslinė žvejyba ir rekreacinė žvejyba). 
+
+
+
+ 
+
+
+_________________
+ 
+
+
+
+
+
+
+Lietuvos Respublikos
+jūros aplinkos apsaugos
+įstatymo
+2 priedas
+ 
+STEBĖSENOS PROGRAMOS REIKALAVIMAI
+ 
+Stebėsenos programos (toliau – Programa) nuostatos turi būti tokios, kad:
+
+
+1) stebėsenos rezultatai suteiktų informaciją, kuri būtina jūros aplinkos būklei įvertinti ir nustatyti, kokia pažanga padaryta ir kokią dar reikia padaryti siekiant geros jūros aplinkos būklės;
+
+
+
+
+2) Programos įgyvendinimo metu gauta informacija būtų pakankama nustatyti jūros aplinkos apsaugos tikslams ir rodikliams;
+
+
+
+
+3) pagal stebėsenos rezultatus būtų galima įvertinti šio įstatymo 4 straipsnio 3 dalies 5 punkte nurodytų priemonių poveikį;
+
+
+
+
+4) remiantis stebėsenos rezultatais, būtų galima nustatyti aplinkos būklės pokyčio priežastį ir galimas korekcines priemones, kurių reikėtų siekiant atkurti gerą aplinkos būklę, nustačius nuokrypius nuo siekiamos būklės;
+
+
+
+
+5) stebėsenos rezultatai suteiktų informaciją apie cheminius teršalus žmonių maistui skirtose rūšyse komercinės žvejybos zonose;
+
+
+
+
+6) pagal stebėsenos rezultatus būtų galima patvirtinti korekcinių priemonių sukeliamus pageidaujamus pokyčius, o ne žalingą šalutinį poveikį;
+
+
+
+
+7) Programos įgyvendinimas padėtų kaupti informaciją apie Baltijos jūros rajono aplinkos būklę;
+
+
+
+
+8) įgyvendinant Programą naudojami jūros aplinkos būklės vertinimo būdai ir metodai būtų palyginami Baltijos jūros rajone ir Europos Sąjungoje;
+
+
+
+
+9) užtikrintų esamų regioniniu ir tarptautiniu lygiu parengtų stebėsenos programų suderinamumą, siekiant skatinti šių programų nuoseklumą ir išvengti veiklos, susijusios su jūros aplinkos būklės stebėsena dubliavimo, naudojant tuos stebėsenos būdus ir metodus, kurie yra aktualiausi Baltijos jūros rajonui.
+ 
+
+
+
+
+_________________
+ 
+ 
+
+
+
+
+
+
+Lietuvos Respublikos
+jūros aplinkos apsaugos
+įstatymo
+3 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
-2005 m. rugsėjo 7 d. Europos Parlamento ir Tarybos direktyva 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo (OL 2005 L 225, p. 11).
-Papildyta priedu:
-Nr. X-1109, 2007-05-03, Žin., 2007, Nr. 55-2125 (2007-05-19), i. k. 1071010ISTA00X-1109
- 
+
+
+1. 2000 m. lapkričio 27 d. Europos Parlamento ir Tarybos direktyva 2000/59/EB dėl uosto priėmimo įrenginių, skirtų laivuose susidarančioms atliekoms ir krovinių likučiams (OL 2000 L 332, p. 81), su pakeitimais, padarytais Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1137/2008 (OL 2008 L 311, p. 1).
+
+
+
+
+2. 2005 m. rugsėjo 7 d. Europos Parlamento ir Tarybos direktyva 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo (OL 2005 L 225, p. 11).
+
+
+
+
+3. 2008 m. birželio 17 d. Europos Parlamento ir Tarybos direktyva 2008/56/EB, nustatanti Bendrijos veiksmų jūrų apsaugos politikos srityje pagrindus (Jūrų strategijos pagrindų direktyva) (OL 2008 L 164, p. 19).
+
+
  
  
 Pakeitimai:
@@ -1186,3 +1011,8 @@ Lietuvos Respublikos jūros aplinkos apsaugos įstatymo pakeitimo ir Įstatymo p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1560, 2008-05-22, Žin., 2008, Nr. 65-2459 (2008-06-07), i. k. 1081010ISTA00X-1560
 Lietuvos Respublikos jūros aplinkos apsaugos įstatymo 30, 32, 35, 37, 38, 39, 41, 42 straipsnių pakeitimo ir papildymo bei 33 ir 43 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1205, 2010-12-07, Žin., 2010, Nr. 153-7780 (2010-12-28), i. k. 1101010ISTA0XI-1205
+Lietuvos Respublikos jūros aplinkos apsaugos įstatymo pakeitimo įstatymas
