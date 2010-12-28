@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.74D8B260CB90"
 
 # Lietuvos Respublikos Šventosios jūrų uosto įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2010-12-27
+Suvestinė redakcija nuo 2010-12-28 iki 2015-04-30
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 132-4987, i. k. 1061010ISTA000X-910
  
@@ -911,14 +911,20 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-27 straipsnis. Įstatymo įsigaliojimas
+27 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 
-Šis įstatymas įsigalioja nuo 2007 m. kovo 1 d.
+1. Šis įstatymas įsigalioja nuo 2007 m. kovo 1 d.
+
+
+
+
+2. Šiuo įstatymu valstybės įmonei Šventosios valstybinio jūrų uosto direkcijai pavestas funkcijas vykdo valstybės įmonė Klaipėdos valstybinio jūrų uosto direkcija.
+
+
+Straipsnio pakeitimai:
+Nr. XI-1218, 2010-12-09, Žin., 2010, Nr. 153-7787 (2010-12-28), i. k. 1101010ISTA0XI-1218
  
- 
-
-
 
 
 
@@ -940,3 +946,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-716, 2010-03-30, Žin., 2010, Nr. 41-1941 (2010-04-10), i. k. 1101010ISTA00XI-716
 Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo 9 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1218, 2010-12-09, Žin., 2010, Nr. 153-7787 (2010-12-28), i. k. 1101010ISTA0XI-1218
+Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo 27 straipsnio pakeitimo įstatymas
