@@ -134,15 +134,11 @@ finansavimas
 1. Šio įstatymo nustatytos išmokos
 mokamos iš valstybės biudžeto specialios tikslinės dotacijos savivaldybių
 biudžetams, o nuo 2007 m. sausio 1 d. – iš valstybės biudžeto lėšų.
-*2.
+2.
 Išmokoms administruoti skiriama nuo 2 iki 4 procentų šio įstatymo
 reglamentuotoms išmokoms mokėti skirtų lėšų. Konkretų išmokoms administruoti
 skiriamų lėšų procento dydį iki biudžetinių metų pradžios nustato socialinės
 apsaugos ir darbo ministras.
-*Pastaba. Nustatant konkretų išmokoms administruoti skiriamų lėšų
-procento dydį 2009 metams, netaikoma 2 dalies nuostata dėl
-termino iki biudžetinių metų pradžios.
- 
 3. Valstybės biudžeto lėšų išmokoms
 administruoti paskirstymo, pervedimo, tikslinimo, naudojimo, atsiskaitymo už
 jas ir kontrolės tvarką nustato socialinės apsaugos ir darbo ministras.
@@ -193,21 +189,21 @@ kiekvienam vaikui nuo 3 iki 18 metų ir vyresniam, kuris mokosi pagal bendrojo
 lavinimo programą ir (ar) pagal formaliojo profesinio mokymo programą pirmajai
 kvalifikacijai įgyti, bet ne ilgiau, kaip iki jam sukanka 21 metai, skiriama
 0,4 bazinės socialinės išmokos dydžio išmoka per mėnesį.
-4. Šeimoje, auginančioje tris
-ar daugiau vaikų, kiekvienam vaikui nuo 3 iki 18 metų ir vyresniam, jei jis
-mokosi pagal bendrojo lavinimo programą, pagal formaliojo profesinio mokymo
-programą pirmajai kvalifikacijai įgyti ar studijuoja aukštojoje mokykloje pagal
-dieninės studijų formos nuosekliųjų studijų programą ar nuolatinės studijų
-formos programą (įskaitant ir akademinių atostogų laikotarpį), bet ne ilgiau, kaip
-iki jam sukanka 24 metai, skiriama 0,75 bazinės socialinės išmokos dydžio
-išmoka per mėnesį.
+4. Šeimoje,
+auginančioje tris ar daugiau vaikų, kiekvienam vaikui nuo 3 iki 18 metų ir
+vyresniam, jei jis mokosi pagal bendrojo lavinimo programą, pagal formaliojo
+profesinio mokymo programą pirmajai kvalifikacijai įgyti ar studijuoja
+aukštojoje mokykloje pagal dieninės studijų formos nuosekliųjų studijų programą
+ar nuolatinės studijų formos programą (įskaitant ir akademinių atostogų
+laikotarpį), bet ne ilgiau, kaip iki jam sukanka 24 metai, skiriama 0,75
+bazinės socialinės išmokos dydžio išmoka per mėnesį.
 5. Kiekvienam
 globojamam vaikui skiriama 0,75 bazinės socialinės išmokos dydžio išmoka per
 mėnesį nuo gimimo dienos, iki jam sukanka 3 metai, o globojamam (rūpinamam)
 vaikui nuo 3 iki 18 metų ir vyresniam, kuris mokosi pagal bendrojo lavinimo
-programą ir (ar) pagal formaliojo profesinio mokymo programą pirmajai
-kvalifikacijai įgyti, bet ne ilgiau, kaip iki jam sukanka 21 metai, skiriama
-0,4 bazinės socialinės išmokos dydžio išmoka per mėnesį.
+programą ir (ar) pagal formaliojo profesinio mokymo programą pirmajai kvalifikacijai
+įgyti, bet ne ilgiau, kaip iki jam sukanka 21 metai, skiriama 0,4 bazinės
+socialinės išmokos dydžio išmoka per mėnesį.
 6. Baigusiam bendrojo lavinimo programą vyresniam kaip
 18 metų asmeniui išmoka vaikui mokama iki tų pačių metų rugsėjo 1 dienos. 
 7. Išmoka
@@ -249,8 +245,8 @@ auginanti motina nėra nuolatinė Lietuvos Respublikos gyventoja, išmoka mokama
 vaiko tėvui. 
 3.
 Vaikui, kuris nuolat arba darbo dienomis išlaikomas (nakvynė ir maistas)
-valstybės ar savivaldybės finansuojamoje įstaigoje, ir globojamam vaikui ši išmoka
-neskiriama.
+valstybės ar savivaldybės finansuojamoje įstaigoje, ir globojamam vaikui ši
+išmoka neskiriama.
 4.
 Išmokos privalomosios tarnybos kario vaikui gavėjas turi teisę gauti šio
 įstatymo 6 straipsnyje nustatytą išmoką vaikui. 
@@ -338,8 +334,8 @@ neišmokama, išskyrus atvejus, kai lieka
 nepanaudota mažesnė negu 1 bazinės socialinės išmokos dydžio išmokos dalis,
 kuri gali būti išmokama grynaisiais pinigais pačiam išmokos gavėjui. Vienkartinė išmoka įsikurti gali būti panaudota:
 1) būstui (gyvenamosioms patalpoms) pirkti;
-2) sumokėti daliai paskolos būstui statyti arba pirkti;
-
+2) sumokėti daliai paskolos būstui statyti arba
+pirkti; 
 3) būsto nuomai; 
 4) mokesčiams už nuomojamojo ar nuosavybės teise
 turimo būsto komunalines paslaugas;
@@ -433,16 +429,11 @@ gyvenantiems asmenims įstatymą ir (ar) socialinę paramą mokiniams pagal
 Lietuvos Respublikos socialinės paramos mokiniams įstatymą, išmoka vaikui
 skiriama pagal pajamas, kurios paskutinį kartą buvo nurodytos skiriant
 socialinę paramą.
-11.
-Pasibaigus kiekvienam kalendorinių metų ketvirčiui, paskyrusi išmoką
-vaikui savivaldybės administracija Valstybinei mokesčių inspekcijai prie
-Lietuvos Respublikos finansų ministerijos Išmokų vaikams skyrimo ir mokėjimo
-nuostatų nustatyta tvarka pateikia naujų išmokos vaikui gavėjų duomenis,
-išskyrus atvejus, kai išmoka vaikui skiriama vaikui iki 3 metų, vaikui iš
-šeimos, auginančios tris ir daugiau vaikų, arba globojamam (rūpinamam) vaikui,
-kuriam mokama globos (rūpybos) išmoka ir (ar) našlaičių pensija.
 10
-ir 11 dalys pripažįstamos netekusiomis galios nuo 2010 m. gruodžio 31 d.
+dalis pripažįstama netekusia galios nuo 2011 m. gruodžio 31 d.
+ 
+11. Neteko galios nuo 2010
+m. gruodžio 31 d.
 Straipsnio pakeitimai:
 Nr. IX-2470,
 2004-09-29, Žin., 2004, Nr. 152-5534 (2004-10-16)
@@ -459,12 +450,14 @@ Nr. XI-181,
 2009-02-19, Žin., 2009, Nr. 25-983 (2009-03-05)
 Nr. XI-708, 2010-03-30, Žin.,
 2010, Nr. 41-1933 (2010-04-10)
+Nr.
+XI-1238, 2010-12-16, Žin., 2010, Nr. 157-7972 (2010-12-31)
  
 13 straipsnis. Kreipimosi
 dėl išmokų ir jų mokėjimo terminai
 1. Vienkartinė išmoka gimusiam vaikui skiriama, jei
-dėl jos buvo kreiptasi ne vėliau kaip per 12 mėnesių nuo vaiko gimimo dienos. Vaiko
-globėjui ji mokama, jei jis kreipiasi per 6 mėnesius nuo globos nustatymo
+dėl jos buvo kreiptasi ne vėliau kaip per 12 mėnesių nuo vaiko gimimo dienos.
+Vaiko globėjui ji mokama, jei jis kreipiasi per 6 mėnesius nuo globos nustatymo
 dienos, bet ne vėliau kaip iki vaikui sukaks pusantrų metų, ir jeigu
 vienkartinė išmoka už šį vaiką anksčiau nebuvo išmokėta. Vienkartinė išmoka
 įvaikintam vaikui skiriama, jei dėl jos buvo kreiptasi ne vėliau kaip per 12
@@ -478,10 +471,11 @@ dalyje nustatytais atvejais išmoka vaikui skiriama 12 mėnesių, o pasibaigus
 paskirtos išmokos vaikui mokėjimo laikotarpiui, dėl tolesnio išmokos vaikui
 skyrimo asmuo turi kreiptis ir pateikti būtinus dokumentus išmokai gauti, taip
 pat nurodyti duomenis apie šeimos pajamas už praėjusius kalendorinius metus. Socialinę
-pašalpą pagal Lietuvos Respublikos piniginės socialinės
-paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymą ir (ar) socialinę paramą mokiniams pagal Lietuvos
-Respublikos socialinės paramos mokiniams įstatymą gaunančiai šeimai
-išmoka vaikui be atskiro prašymo skiriama ir mokama 12 mėnesių.
+pašalpą pagal Lietuvos Respublikos piniginės
+socialinės paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims
+įstatymą ir (ar) socialinę paramą mokiniams
+pagal Lietuvos Respublikos socialinės paramos mokiniams įstatymą gaunančiai
+šeimai išmoka vaikui be atskiro prašymo skiriama ir mokama 12 mėnesių.
 3. Vienkartinė išmoka įsikurti skiriama, jei prašymą
 šiai išmokai skirti savivaldybės administracijai asmuo pateikė, iki jam sukako
 25 metai. Išmoka turi būti panaudota per 24 mėnesius nuo sprendimo skirti
@@ -510,8 +504,8 @@ Nr. X-1664,
 Nr.
 XI-90,
 2008-12-19, Žin., 2008, Nr. 149-6016 (2008-12-30)
-Nr. XI-181, 2009-02-19,
-Žin., 2009, Nr. 25-983 (2009-03-05)
+Nr. XI-181,
+2009-02-19, Žin., 2009, Nr. 25-983 (2009-03-05)
  
 14 straipsnis. Išmokų
 neprimokėjimas, permokėjimas ir išskaitymas iš jų
@@ -525,10 +519,10 @@ sprendimu.
 turi būti grąžinama ar išskaičiuojama savivaldybės administracijos sprendimu.
 Iš gavėjui pagal šį įstatymą priklausančių išmokų išskaitoma ne daugiau kaip po
 20 procentų mokėtinos išmokos sumos per mėnesį, išskyrus atvejus, kai gavėjas
-sutinka, kad būtų išskaičiuojama daugiau kaip 20 procentų mokėtinos išmokos sumos,
-tol, kol bus visiškai padengta išieškoma suma. Jei išmokos mokėjimas gavėjui
-nutraukiamas, o visa permokėta išmokos suma negrąžinta arba neišskaičiuota,
-likęs įsiskolinimas išieškomas teismo tvarka.
+sutinka, kad būtų išskaičiuojama daugiau kaip 20 procentų mokėtinos išmokos
+sumos, tol, kol bus visiškai padengta išieškoma suma. Jei išmokos mokėjimas
+gavėjui nutraukiamas, o visa permokėta išmokos suma negrąžinta arba
+neišskaičiuota, likęs įsiskolinimas išieškomas teismo tvarka.
 Straipsnio pakeitimai:
 Nr. X-1664,
 2008-07-01, Žin., 2008, Nr. 81-3175 (2008-07-17)
@@ -711,8 +705,8 @@ PAŠALPŲ ŠEIMOMS, AUGINANČIOMS VAIKUS, ĮSTATYMO 5, 7, 8, 9 STRAIPSNIŲ PAKEI
  
 4.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1497, 99.12.23, Žin., 2000,
-Nr.1-5 (00.01.05)
+Nr. VIII-1497, 99.12.23, Žin., 2000, Nr.1-5
+(00.01.05)
 LIETUVOS RESPUBLIKOS VALSTYBINIŲ PAŠALPŲ ŠEIMOMS, AUGINANČIOMS
 VAIKUS, ĮSTATYMO 9 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2000 m. sausio 1 d.
@@ -845,15 +839,33 @@ Respublikos Seimas, Įstatymas
 Nr. XI-90, 2008-12-19,
 Žin., 2008, Nr. 149-6016 (2008-12-30)
 IŠMOKŲ
-VAIKAMS ĮSTATYMO 6, 8, 12, 13, 20 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR 22 STRAIPSNIO
-PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+VAIKAMS ĮSTATYMO 6, 8, 12, 13, 20 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR 22
+STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 Šis įstatymas, išskyrus Įstatymo
 1 straipsnio 1 ir 2 dalis, 3 straipsnio 3 ir 4 dalis, 4, 5 ir 6 straipsnį, įsigalioja
  2009 m. sausio 1 d.
 Šio įstatymo 1 straipsnio 1 ir 2
 dalys, 3 straipsnio 3 ir 4 dalys, 4, 5 ir 6 straipsniai įsigalioja 2009 m. kovo 1 d.
 Šio
-įstatymo 3 straipsnio 3 ir 4 dalis pripažinti netekusiomis galios nuo 2010 m. gruodžio 31 d.
+įstatymo 3 straipsnio 3 dalį pripažinti netekusia galios nuo 2011 m. gruodžio
+31 d., o 3 straipsnio 4 dalį – nuo 2010 m. gruodžio 31 d.
+Įstatymo pakeitimai:
+1)
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-181,
+2009-02-19, Žin., 2009, Nr. 25-983 (2009-03-05)
+IŠMOKŲ VAIKAMS ĮSTATYMO 6, 8, 12, 13, 20 STRAIPSNIŲ PAKEITIMO IR
+PAPILDYMO IR 22 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMO 3, 4, 7
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
+2)
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-1238, 2010-12-16, Žin., 2010, Nr. 157-7972 (2010-12-31)
+IŠMOKŲ VAIKAMS ĮSTATYMO 6, 8, 12, 13, 20 STRAIPSNIŲ PAKEITIMO IR
+PAPILDYMO IR 22 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMO 7 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
  
 15.
 Lietuvos Respublikos Seimas,
@@ -870,22 +882,12 @@ pradžios.
 16.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. XI-181,
-2009-02-19, Žin., 2009, Nr. 25-983 (2009-03-05)
-IŠMOKŲ
-VAIKAMS ĮSTATYMO 6, 8, 12, 13, 20 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR 22
-STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMO 3, 4, 7 STRAIPSNIŲ PAKEITIMO
-IR PAPILDYMO ĮSTATYMAS
- 
-17.
-Lietuvos Respublikos Seimas,
-Įstatymas
 Nr. XI-182,
 2009-02-19, Žin., 2009, Nr. 25-984 (2009-03-05)
 IŠMOKŲ VAIKAMS ĮSTATYMO 6
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
-18.
+17.
 Lietuvos Respublikos Seimas,
 Įstatymas
 Nr. XI-708, 2010-03-30, Žin.,
@@ -895,9 +897,10 @@ IR 20 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2010 m.
 gegužės 1 d.
  
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2010-04-12)
+(2010-12-31)
                   autrap@lrs.lt
