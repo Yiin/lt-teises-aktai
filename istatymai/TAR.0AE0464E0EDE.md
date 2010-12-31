@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0AE0464E0EDE"
 
 # Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymas
 
+Suvestinė redakcija nuo 2010-12-31 iki 2014-10-31
+ 
+Įstatymas paskelbtas: Žin. 2006, Nr. 82-3260, i. k. 1061010ISTA000X-764
+ 
+ 
 LIETUVOS RESPUBLIKOS
 GERIAMOJO VANDENS TIEKIMO IR NUOTEKŲ TVARKYMO
 Į S T A T Y M A S
@@ -294,7 +299,10 @@ Vandens tiekimą ir nuotekų tvarkymą šio ir kitų įstatymų nustatyta tvarka
 
 
 
-4) Valstybinė maisto ir veterinarijos tarnyba prie Lietuvos Respublikos Vyriausybės;
+4) Valstybinė maisto ir veterinarijos tarnyba; 
+Straipsnio punkto pakeitimai:
+Nr. XI-1246, 2010-12-22, Žin., 2010, Nr. 157-7978 (2010-12-31), i. k. 1101010ISTA0XI-1246
+ 
 
 
 
@@ -442,10 +450,10 @@ Sveikatos apsaugos ministerija:
 
 
 
-9 straipsnis.         Valstybinės maisto ir veterinarijos tarnybos prie Lietuvos Respublikos Vyriausybės kompetencija vandens tiekimo ir nuotekų tvarkymo reguliavimo srityje
+9 straipsnis. Valstybinės maisto ir veterinarijos tarnybos kompetencija vandens tiekimo ir nuotekų tvarkymo reguliavimo srityje
 
 
-Valstybinė maisto ir veterinarijos tarnyba prie Lietuvos Respublikos Vyriausybės:
+Valstybinė maisto ir veterinarijos tarnyba:
 
 
 1) Geriamojo vandens įstatymo nustatyta tvarka atlieka geriamojo vandens saugos ir kokybės kontrolę;
@@ -453,12 +461,14 @@ Valstybinė maisto ir veterinarijos tarnyba prie Lietuvos Respublikos Vyriausyb�
 
 
 
-2) atlieka kitas Geriamojo vandens įstatymo ir kitų įstatymų nustatytas ar Vyriausybės pavestas funkcijas.
+2) atlieka kitas Geriamojo vandens įstatymo ir kitų įstatymų nustatytas ar Lietuvos Respublikos žemės ūkio ministerijos pavestas funkcijas.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XI-1246, 2010-12-22, Žin., 2010, Nr. 157-7978 (2010-12-31), i. k. 1101010ISTA0XI-1246
  
-
-
-
-
 
 
 
@@ -570,23 +580,25 @@ Savivaldybių:
 
 
 
-12 straipsnis.       Nacionalinės vartotojų teisių apsaugos tarybos prie Teisingumo ministerijos kompetencija vandens tiekimo ir nuotekų tvarkymo reguliavimo srityje
+12 straipsnis. Valstybinės vartotojų teisių apsaugos tarnybos kompetencija vandens tiekimo ir nuotekų tvarkymo reguliavimo srityje
 
 
-Nacionalinė vartotojų teisių apsaugos taryba prie Teisingumo ministerijos:
+Valstybinė vartotojų teisių apsaugos tarnyba:
 
 
-1) išankstinio ginčų sprendimo ne teisme tvarka nagrinėja vartotojų skundus dėl geriamojo vandens pirkimo-pardavimo ir nuotekų tvarkymo paslaugų teikimo sutarčių nesąžiningų sąlygų taikymo, vandens apskaitos, vandentiekio avarijų, vandens tiekimo nutraukimo, sustabdymo ar ribojimo ir sąskaitų pateikimo;
+1) išankstinio ginčų sprendimo ne teisme tvarka nagrinėja vartotojų skundus dėl geriamojo vandens pirkimo–pardavimo ir nuotekų tvarkymo paslaugų teikimo sutarčių nesąžiningų sąlygų taikymo, vandens apskaitos, vandentiekio avarijų, vandens tiekimo nutraukimo, sustabdymo ar ribojimo ir sąskaitų pateikimo;
 
 
 
 
 2) pagal kompetenciją dalyvauja derinant įstatymų ir kitų teisės aktų projektus bei viešosios vandens tiekimo sutarties standartines sąlygas.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XI-1246, 2010-12-22, Žin., 2010, Nr. 157-7978 (2010-12-31), i. k. 1101010ISTA0XI-1246
  
-
-
-
-
 
 
 
@@ -1151,3 +1163,13 @@ BAIGIAMOSIOS NUOSTATOS
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1246, 2010-12-22, Žin., 2010, Nr. 157-7978 (2010-12-31), i. k. 1101010ISTA0XI-1246
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo 5, 9 ir 12 straipsnių pakeitimo įstatymas
