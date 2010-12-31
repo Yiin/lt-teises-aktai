@@ -2490,18 +2490,21 @@ kariai išbraukiami iš aktyviojo ar individualiojo rezervo tarnybos įskaitos i
 48
 straipsnis. Karo tarnybos ginčai ir jų sprendimas
 1.
-Ginčai dėl priėmimo į karo tarnybą, nušalinimo nuo pareigų, perkėlimo į kitas
-pareigas, dėl karių laipsnių, drausminių nuobaudų, kario tarnybos sutarties
-pratęsimo nagrinėjami krašto apsaugos ministro nustatyta tvarka. Sprendimas
-gali būti apskųstas pagal pavaldumą aukštesniajam vadui ar pareigūnui iki
-krašto apsaugos ministro imtinai. Teismai šių ginčų nesprendžia.
-2. Jei
-iš profesinės karo tarnybos ar kario savanorio tarnybos atleistas asmuo laiko
-savo atleidimą neteisėtu, Kariuomenės drausmės statuto nustatytomis sąlygomis
-ir tvarka jis gali atleidimą apskųsti aukštesniajam vadui ar pareigūnui iki
-krašto apsaugos ministro imtinai. Krašto apsaugos ministro sprendimas įstatymų
-nustatyta tvarka gali būti skundžiamas administraciniam teismui per 1 mėnesį
-nuo sprendimo gavimo ar pranešimo apie jį dienos.
+Ginčai
+dėl nušalinimo nuo pareigų, perkėlimo į kitas pareigas, dėl karių laipsnių,
+drausminių nuobaudų, kario tarnybos sutarties pratęsimo ir kiti karo tarnybos
+ginčai, išskyrus šio straipsnio 2 dalyje nurodytus ginčus, nagrinėjami
+Kariuomenės drausmės statuto nustatyta privaloma išankstine
+karo tarnybos ginčų nagrinėjimo ne teisme tvarka. Galutinis sprendimas,
+priimtas nagrinėjant ginčą Kariuomenės drausmės statuto nustatyta išankstine
+karo tarnybos ginčų nagrinėjimo ne teisme tvarka, gali būti skundžiamas
+apygardos administraciniam teismui įstatymų nustatyta tvarka per 20 dienų nuo
+sprendimo gavimo ar pranešimo apie jį dienos.
+2.
+Ginčus dėl priėmimo į karo tarnybą, dėl atleidimo iš profesinės karo tarnybos
+arba savanorių karo tarnybos, taip pat dėl pašalinimo iš karo mokymo įstaigos,
+nesant drausmės pažeidimo, nagrinėja administraciniai teismai Administracinių
+bylų teisenos įstatymo nustatyta tvarka.
 3. Jeigu teismas nustato, kad
 asmuo yra atleistas iš profesinės karo tarnybos ar kario savanorio tarnybos be
 šio įstatymo numatyto pagrindo, teismas gali jį grąžinti į profesinę karo
@@ -2528,6 +2531,9 @@ Konstitucinis Teismas, Nutarimas
 Nr.
 IX-1359,
 2003-03-13, Žin., 2003, Nr. 32-1308 (2003-04-02)
+Nr.
+XI-1236,
+2010-12-14, Žin., 2010, Nr. 157-7970 (2010-12-31)
  
 49
 straipsnis. Karių stažuočių ir mokymosi sąlygos 
@@ -2539,7 +2545,8 @@ karių, karių savanorių ir kariūnų tarnybos ir aprūpinimo stažuotės ar mo
 laikotarpiu sąlygas nustato Vyriausybė arba jos įgaliota institucija.
 3. Profesinės karo tarnybos
 kariai, pasiųsti stažuoti ar mokytis ilgiau kaip 3 mėnesiams, gali būti iš
-einamų pareigų perkelti į laikinąjį profesinės karo tarnybos personalo rezervą.
+einamų pareigų perkelti į laikinąjį profesinės karo tarnybos
+personalo rezervą.
 Straipsnio
 pakeitimai:
 Nr. IX-2560,
@@ -2553,21 +2560,20 @@ straipsnis. Pažymėjimas apie išleidžiamo į atsargą ar dimisiją kario tarn
 1. Kiekvienam kariui, kuris
 išleidžiamas į atsargą ar perkeliamas į dimisiją baigęs privalomąją ar
 profesinę karo tarnybą arba atleidžiamas iš profesinės karo tarnybos šio
-įstatymo numatytais atvejais, išduodamas pažymėjimas, liudijantis jo atliktą
-tarnybą, jos įvertinimą ir statusą tarnybą baigus. Pažymėjimo turinį, formą ir
-išdavimo tvarką nustato krašto apsaugos ministras.
+įstatymo numatytais atvejais, išduodamas pažymėjimas, liudijantis jo atliktą tarnybą,
+jos įvertinimą ir statusą tarnybą baigus. Pažymėjimo turinį, formą ir išdavimo
+tvarką nustato krašto apsaugos ministras.
 2. Kario, atlikusio tarnybą be
 šio straipsnio 3 ir 4 dalyse nurodytų drausmės ir teisės pažeidimų, pažymėjime
 įrašoma, kad jis išleidžiamas į atsargą (perkeliamas į dimisiją) atlikęs
 tarnybą garbingai.
 3. Jeigu kario tarnybos byloje
 yra įrašų apie drausmės pažeidimus, už kuriuos jis buvo baustas du ar daugiau
-kartų per vienus metus, arba jeigu karys atleidžiamas šio įstatymo 38
-straipsnio 2 dalies 6, 7, 8 ir 9 punktuose nustatytais atvejais, pažymėjime
-įrašoma, kad jis išleidžiamas į atsargą (perkeliamas į dimisiją) atlikęs
-tarnybą (praleidus žodį „garbingai“). Žodis „garbingai“ taip pat gali būti nerašomas,
-kai karys atleidžiamas šio įstatymo 38 straipsnio 2 dalies 12 punkte nustatytu
-atveju.
+kartų per vienus metus, arba jeigu karys atleidžiamas šio įstatymo 38 straipsnio
+2 dalies 6, 7, 8 ir 9 punktuose nustatytais atvejais, pažymėjime įrašoma, kad
+jis išleidžiamas į atsargą (perkeliamas į dimisiją) atlikęs tarnybą (praleidus
+žodį „garbingai“). Žodis „garbingai“ taip pat gali būti nerašomas, kai karys
+atleidžiamas šio įstatymo 38 straipsnio 2 dalies 12 punkte nustatytu atveju.
 4.
 Kario, kuris atleidžiamas iš tarnybos dėl drausmės pažeidimo, pažymėjime
 įrašomi žodžiai „atleistas dėl drausmės pažeidimo“.
@@ -2596,8 +2602,8 @@ straipsnis. Tarnybos ypatumai karo metu
 1. Karo metu kariams taikomas
 karo padėties įstatymas ir kiti ypatingiems atvejams priimti įstatymai bei kiti
 teisės aktai.
-2. Karo padėties, karo ir
-mobilizacijos atvejais karo tarnybos trukmė neribojama.
+2. Karo padėties, karo ir mobilizacijos
+atvejais karo tarnybos trukmė neribojama.
  
 PENKTASIS SKIRSNIS
 KARIŲ
@@ -2631,7 +2637,7 @@ karinių oro pajėgų karių                      Karinių j
  
 1)
 kareivių ir jūreivių
-eilinis                                                                                    jūreivis
+eilinis                                                                                    jūreivis
 grandinis                                                                               grandinis
  
 2)
@@ -2647,7 +2653,7 @@ viršila                                    �
 puskarininkių
 jaunesnysis puskarininkis                                                     jaunesnysis
 puskarininkis
-puskarininkis                                                                        puskarininkis
+puskarininkis                                                                        puskarininkis
 vyresnysis puskarininkis                                                       vyresnysis
 puskarininkis
  
@@ -2712,7 +2718,7 @@ seržantas                             vyresnysis ser
 specialistas                                                                            seržantas
 specialistas
 štabo seržantas, štabo
-seržantas                                                                 štabo
+seržantas                                                                 štabo
 laivūnas, štabo laivūnas
 specialistas                                                                            specialistas
 viršila                                                                                    laivūnas
@@ -2837,8 +2843,8 @@ apsaugos ministras.
 laipsniui gauti taikos metu dalyvauja kariai, ištarnavę profesinėje karo
 tarnyboje krašto apsaugos sistemoje:
  
-1-4 punktų redakcija
-iki 2011 m. sausio 1 d.:
+1-4 punktų
+redakcija iki 2011 m. sausio 1 d.:
 1) eiliniu, jūreiviu, grandiniu –
 ne mažiau kaip 3 mėnesius;
 2) jaunesniuoju seržantu,
@@ -2847,8 +2853,8 @@ seržantu – ne mažiau kaip 1 metus;
 laivūnu – ne mažiau kaip 2 metus;
 4) jaunesniuoju puskarininkiu,
 puskarininkiu – ne mažiau kaip 3 metus;
-1-4 punktų redakcija
-nuo 2011 m. sausio 1 d.:
+1-4 punktų
+redakcija nuo 2011 m. sausio 1 d.:
 1) jaunesniuoju eiliniu,
 jaunesniuoju jūreiviu – ne mažiau kaip 6 mėnesius;
 2) eiliniu, jūreiviu, vyresniuoju
@@ -2900,10 +2906,9 @@ atitinkančias pareigas.
 patvirtintą generolų bei admirolų skaičių ir laikantis šio straipsnio 4 dalyje
 nustatytų sąlygų, brigados generolo (flotilės admirolo) laipsnis gali būti
 suteikiamas karininkui, ištarnavusiam pulkininku (jūrų kapitonu) ne mažiau kaip
-3 metus ir atitinkančiam šio straipsnio 5 dalyje nustatytą reikalavimą,
-paskyrus jį Gynybos štabo viršininku, Jungtinio štabo viršininku, kariuomenės
-pajėgų rūšies vadu arba į kitas generolo (admirolo) laipsnį atitinkančias
-pareigas.
+3 metus ir atitinkančiam šio straipsnio 5 dalyje nustatytą reikalavimą, paskyrus
+jį Gynybos štabo viršininku, Jungtinio štabo viršininku, kariuomenės pajėgų
+rūšies vadu arba į kitas generolo (admirolo) laipsnį atitinkančias pareigas.
 9. Kariuomenės
 vadui, kai jis yra ištarnavęs generolu majoru (kontradmirolu) ne mažiau kaip 2
 metus, gali būti suteikiamas generolo leitenanto (viceadmirolo) laipsnis.
@@ -2940,11 +2945,11 @@ subordinacijai pagal karinį laipsnį užtikrinti, krašto apsaugos ministras tu
 teisę pirma laiko ir nesilaikydamas šiame bei 55 straipsnyje nustatytų bendrųjų
 aukštesniojo karinio laipsnio suteikimo sąlygų suteikti skiriamam vadui
 (viršininkui) laikinąjį vyresniojo karininko karinį laipsnį, vienu laipsniu
-aukštesnį už jo turimąjį. Krašto apsaugos ministras laikinąjį karinį laipsnį
-taip pat gali suteikti karininkui, skiriamam į pareigas užsienyje, jei tai
-būtina pagal skiriamas pareigas. Laikinąjį generolo (admirolo) laipsnį suteikia
-Respublikos Prezidentas krašto apsaugos ministro teikimu, kai to reikia pavaldinių
-subordinacijai užtikrinti arba būtina pagal skiriamas pareigas.
+aukštesnį už jo turimąjį. Krašto apsaugos ministras laikinąjį karinį laipsnį taip
+pat gali suteikti karininkui, skiriamam į pareigas užsienyje, jei tai būtina
+pagal skiriamas pareigas. Laikinąjį generolo (admirolo) laipsnį suteikia
+Respublikos Prezidentas krašto apsaugos ministro teikimu, kai to reikia
+pavaldinių subordinacijai užtikrinti arba būtina pagal skiriamas pareigas.
 17.
 Laikinasis karinis laipsnis galioja, kol karininkas eina pareigas, į kurias
 skiriant šis laipsnis jam buvo suteiktas. Nuolatinis aukštesnis karinis
@@ -3022,9 +3027,9 @@ apsaugos ministro įsakymu.
 departamente tarnaujantiems kariams aukštesnius karininkų laipsnius iki
 pulkininko leitenanto (komandoro) imtinai suteikia krašto apsaugos ministras.
 6. Šio įstatymo 54 straipsnio 12,
-14 ir 15 dalyse numatytais atvejais karininkų laipsnius iki pulkininko (jūrų kapitono)
-imtinai suteikia krašto apsaugos ministras kariuomenės vado teikimu, o
-priimamiems į profesinę karo tarnybą ar įrašomiems į kariuomenės aktyviojo
+14 ir 15 dalyse numatytais atvejais karininkų laipsnius iki pulkininko (jūrų
+kapitono) imtinai suteikia krašto apsaugos ministras kariuomenės vado teikimu,
+o priimamiems į profesinę karo tarnybą ar įrašomiems į kariuomenės aktyviojo
 rezervo įskaitą Lietuvos Respublikos piliečiams šio įstatymo 36 straipsnio 11
 dalyje numatytais atvejais – patariamosios komisijos teikimu.
 7. Karo kapelionams laipsnius
@@ -3063,9 +3068,9 @@ reikalingas tarnybos laikas aukštesniajam nei grąžintasis laipsniui suteikti
 skaičiuojamas nuo laipsnio grąžinimo kariui dienos.
 3. Krašto apsaugos ministras
 (pulkininkams, jūrų kapitonams, generolams ir admirolams – Respublikos
-Prezidentas) kario laipsnį gali atimti, jei karys atleidžiamas iš tarnybos
-pagal šio įstatymo 38 straipsnio 1 dalies 1, 2 ar 3 punktą arba 2 dalies 3, 4
-ar 8 punktą.
+Prezidentas) kario laipsnį gali atimti, jei karys atleidžiamas iš tarnybos pagal
+šio įstatymo 38 straipsnio 1 dalies 1, 2 ar 3 punktą arba 2 dalies 3, 4 ar 8
+punktą.
 Straipsnio
 pakeitimai:
 Nr. VIII-1289,
@@ -3158,8 +3163,8 @@ apsaugos ministro nustatytais atvejais ir tvarka.
 8. Profesinės karo tarnybos
 kariams dėl paskyrimo į šio įstatymo 42 straipsnio 3 dalyje nustatytas pareigas
 ar tarnybą gali būti suteikiamos iki 5 kalendorinių dienų persikėlimo
-atostogos. Šių atostogų metu profesinės karo tarnybos kariams mokamas
-Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų atlyginimas.
+atostogos. Šių atostogų metu profesinės karo tarnybos kariams mokamas Vyriausybės
+nustatyta tvarka apskaičiuotas vidutinis jų atlyginimas.
 9. Profesinės karo tarnybos
 kariams, grįžusiems iš tarnybos tarptautinėje operacijoje, atsižvelgiant į
 tarnybos tarptautinėje operacijoje trukmę ir pobūdį, gali būti suteikiamos iki
@@ -3179,16 +3184,15 @@ pobūdį, gali būti suteikiamos iki 15 kalendorinių dienų mokamos atostogos
 prevencinei reabilitacijai. Atostogų metu kariams savanoriams mokamas
 atitinkamo laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais
 nustatyto dydžio tarnybinis atlyginimas.
-12. Privalomosios pradinės karo
-tarnybos kariams du kartus per tarnybos metus suteikiama po 9 kalendorines
-dienas atostogų, įskaitant kelionės dienas. Privalomosios pradinės karo
-tarnybos kariui gali būti suteikiamos papildomos 7 kalendorinių dienų atostogos
-mirus jo sutuoktiniui ar artimiesiems giminaičiams, taip pat gimus vaikui.
-Atostogų dienomis privalomosios pradinės karo tarnybos kariai maistu
-neaprūpinami, už šias dienas jiems mokami Vyriausybės nustatyto dydžio
-dienpinigiai.
-13. Kariūnams atostogos suteikiamos
-karo mokymo įstaigos, kurioje jie studijuoja, nustatyta tvarka.
+12. Privalomosios pradinės karo tarnybos
+kariams du kartus per tarnybos metus suteikiama po 9 kalendorines dienas
+atostogų, įskaitant kelionės dienas. Privalomosios pradinės karo tarnybos
+kariui gali būti suteikiamos papildomos 7 kalendorinių dienų atostogos mirus jo
+sutuoktiniui ar artimiesiems giminaičiams, taip pat gimus vaikui. Atostogų
+dienomis privalomosios pradinės karo tarnybos kariai maistu neaprūpinami, už
+šias dienas jiems mokami Vyriausybės nustatyto dydžio dienpinigiai.
+13. Kariūnams atostogos
+suteikiamos karo mokymo įstaigos, kurioje jie studijuoja, nustatyta tvarka.
 14. Atostogų laikas įskaitomas į
 kario tarnybos laiką.
 15. Esant tarnybiniam būtinumui,
@@ -3197,8 +3201,8 @@ krašto apsaugos ministro nustatyta tvarka atostogas suteikęs vadas
 nėštumo ir gimdymo atostogų.
 16. Paskelbus karo ar
 nepaprastąją padėtį arba mobilizaciją, atostogaujantys kariai, išskyrus tuos,
-kuriems suteiktos nėštumo ir gimdymo atostogos, privalo nedelsdami grįžti į savo
-tarnybos vietą.
+kuriems suteiktos nėštumo ir gimdymo atostogos, privalo nedelsdami grįžti į
+savo tarnybos vietą.
 Straipsnio
 pakeitimai:
 Nr.
@@ -3282,8 +3286,8 @@ Nr.
 IX-1359,
 2003-03-13, Žin., 2003, Nr. 32-1308 (2003-04-02)
  
-62
-straipsnis. Karių uniformos ir skiriamieji ženklai
+62 straipsnis.
+Karių uniformos ir skiriamieji ženklai
 1. Karių uniformų ir skiriamųjų
 ženklų etalonus tvirtina Vyriausybė krašto apsaugos ministro teikimu. Tikrosios
 karo tarnybos karių uniformos dėvėjimo tvarką nustato krašto apsaugos ministras
@@ -3301,9 +3305,9 @@ perkėlimo į dimisiją turėjo teisę iškilmingomis progomis dėvėti uniform�
 pat progomis gali ją dėvėti ir būdami dimisijoje, tačiau tik su krašto apsaugos
 ministro nustatytais dimisijos kario skiriamaisiais ženklais.
 5.
-Atsargos ir dimisijos karių uniformos dėvėjimo tvarką nustato kariuomenės
-vadas. Drausmės statuto nustatytais atvejais atsargos ar dimisijos kario teisė
-dėvėti uniformą už drausmės pažeidimą gali būti atimta. 
+Atsargos ir dimisijos karių uniformos dėvėjimo tvarką nustato kariuomenės vadas.
+Drausmės statuto nustatytais atvejais atsargos ar dimisijos kario teisė dėvėti
+uniformą už drausmės pažeidimą gali būti atimta. 
 6. Kariai už savo lėšas
 gali įsigyti iškilmingoms progoms skirtas uniformas. Šių uniformų pavyzdžius
 tvirtina krašto apsaugos ministras.
@@ -3356,10 +3360,10 @@ teisę naudotis tol, kol eina atitinkamas pareigas. Perkėlus karį į kitas
 pareigas ar išleidus į atsargą, butą jis privalo palaisvinti ne vėliau kaip per
 30 dienų. 
 6.
-Karys, perkeliamas tarnauti į kitą vietovę, ne vėliau kaip per 30 dienų
-palaisvina ankstesnėje tarnybos vietovėje turėtą tarnybinį butą (tarnybinę
-gyvenamąją patalpą). Tarnybinis butas naujojoje vietovėje kariui suteikiamas
-šio straipsnio nustatytomis sąlygomis. 
+Karys, perkeliamas tarnauti į kitą vietovę, ne vėliau kaip per 30 dienų palaisvina
+ankstesnėje tarnybos vietovėje turėtą tarnybinį butą (tarnybinę gyvenamąją
+patalpą). Tarnybinis butas naujojoje vietovėje kariui suteikiamas šio
+straipsnio nustatytomis sąlygomis. 
 7. Karys
 gali naudotis tarnybiniu butu (tarnybine gyvenamąja patalpa) tol, kol jis
 tarnauja profesinėje karo tarnyboje. Atleistas iš krašto apsaugos tarnybos
@@ -3381,15 +3385,15 @@ viengungiams skirta atskira tarnybine gyvenamąja patalpa, kai jų šeimos gyven
 ne tarnybiniame bute kitoje vietovėje ir negali persikelti į kario tarnybos
 vietą, mokama Vyriausybės nustatyto dydžio butpinigių dalis. 
 10.
-Profesinės karo tarnybos karininkai ir puskarininkiai, su kuriais sudaryta
-neterminuota tarnybos sutartis ir kuriems iki šio įstatymo 45 straipsnyje
-nustatyto išleidimo į atsargą termino liko bent 10 metų, taip pat kiti
-profesinės karo tarnybos kariai, kurie be pertraukos ištarnavo krašto apsaugos
-sistemoje bent 5 metus, o jų profesinės karo tarnybos sutartis yra pratęsta, ir
-kuriems iki šio įstatymo 45 straipsnyje nustatyto išleidimo į atsargą termino
-(atsižvelgiant į galimą karinio laipsnio kėlimą) liko bent 10 metų, gali
-pasinaudoti Vyriausybės garantija ir jos nustatytomis lengvatomis gauti kreditą
-gyvenamajam būstui statyti ar pirkti.
+Profesinės karo tarnybos karininkai ir puskarininkiai, su kuriais sudaryta neterminuota
+tarnybos sutartis ir kuriems iki šio įstatymo 45 straipsnyje nustatyto
+išleidimo į atsargą termino liko bent 10 metų, taip pat kiti profesinės karo
+tarnybos kariai, kurie be pertraukos ištarnavo krašto apsaugos sistemoje bent 5
+metus, o jų profesinės karo tarnybos sutartis yra pratęsta, ir kuriems iki šio
+įstatymo 45 straipsnyje nustatyto išleidimo į atsargą termino (atsižvelgiant į
+galimą karinio laipsnio kėlimą) liko bent 10 metų, gali pasinaudoti Vyriausybės
+garantija ir jos nustatytomis lengvatomis gauti kreditą gyvenamajam būstui
+statyti ar pirkti.
 11. Privalomosios pradinės karo
 tarnybos kariai aprūpinami maistu pagal Vyriausybės arba jos įgaliotos
 institucijos nustatytas fiziologines mitybos normas. Tais atvejais, kai
@@ -3442,8 +3446,8 @@ važiavimo vieną kartą per savaitę į šeimos gyvenamąją vietovę ir atgal 
 kariams, kurie tarnybos vietoje yra aprūpinti tik viengungiams skirta atskira
 tarnybine gyvenamąja patalpa, kai jų šeimos gyvena ne tarnybiniame bute kitoje
 vietovėje. Šios išlaidos gali būti atlyginamos laikinai, iki kariui tarnybos
-vietovėje bus suteiktas tarnybinis butas. Kol kariui atlyginamos kelionės išlaidos,
-63 straipsnio 9 dalyje nustatyti butpinigiai jam nemokami.
+vietovėje bus suteiktas tarnybinis butas. Kol kariui atlyginamos kelionės
+išlaidos, 63 straipsnio 9 dalyje nustatyti butpinigiai jam nemokami.
 5. Profesinės karo tarnybos karį
 atšaukus iš atostogų, apmokamos jo kelionės iš atostogų vietos Lietuvos
 teritorijoje į tarnybos vietą išlaidos ir išlaidos atgal į atostogų vietą.
@@ -3544,9 +3548,9 @@ psichotropinių ar toksinių medžiagų, jei karys nusižudė, kėsinosi nusižu
 tyčia save sužalojo, ar kario žuvimo ar sveikatos sutrikimo priežastis buvo
 transporto priemonės vairavimas neturint teisės ją vairuoti arba perdavus ją
 vairuoti asmeniui, apsvaigusiam nuo alkoholio, narkotinių, psichotropinių ar
-toksinių medžiagų arba neturinčiam teisės ją vairuoti, draudimo išmokos
-nemokamos. Draudimo išmokos nemokamos ir kitais atvejais, kai Vyriausybės
-nustatyta tvarka įvykis pripažįstamas nedraudiminiu.
+toksinių medžiagų arba neturinčiam teisės ją vairuoti, draudimo išmokos nemokamos.
+Draudimo išmokos nemokamos ir kitais atvejais, kai Vyriausybės nustatyta tvarka
+įvykis pripažįstamas nedraudiminiu.
 3. Draudiminių įvykių karo
 tarnyboje pripažinimo sąlygas ir tvarką, pagal sveikatos sutrikimo laipsnį
 draudimo išmokų dydį, taip pat mokėjimo tvarką nustato Vyriausybė arba jos
@@ -3608,24 +3612,24 @@ nurodytiems asmenims ar jų atstovams.
 neįgaliam ir netekusiam 85–100 procentų darbingumo kariui mokama 60 atitinkamo
 laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto
 dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė kompensacija.
-Kariūnui mokama 60 profesinės karo tarnybos eiliniui pirmaisiais tarnybos metais
-nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė
+Kariūnui mokama 60 profesinės karo tarnybos eiliniui pirmaisiais tarnybos
+metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė
 kompensacija. Kompensacija gali būti išmokama dalimis, bet ne ilgiau kaip per
 30 mėnesių. 
 6. Dėl traumos ar ligos tapusiam
 neįgaliam ir netekusiam 65–80 procentų darbingumo kariui mokama 48 atitinkamo
 laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto
 dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė kompensacija.
-Kariūnui mokama 48 profesinės karo tarnybos eiliniui pirmaisiais tarnybos metais
-nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė
+Kariūnui mokama 48 profesinės karo tarnybos eiliniui pirmaisiais tarnybos
+metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė
 kompensacija. Kompensacija gali būti išmokama dalimis, bet ne ilgiau kaip per
 24 mėnesius. 
 7. Dėl traumos ar ligos tapusiam
 neįgaliam ir netekusiam 45–60 procentų darbingumo kariui mokama 36 atitinkamo
 laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto
 dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė kompensacija.
-Kariūnui mokama 36 profesinės karo tarnybos eiliniui pirmaisiais tarnybos metais
-nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė
+Kariūnui mokama 36 profesinės karo tarnybos eiliniui pirmaisiais tarnybos
+metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė
 kompensacija. Kompensacija gali būti išmokama dalimis, bet ne ilgiau kaip per
 18 mėnesių. 
 8. Jeigu sunkaus sveikatos
@@ -3664,12 +3668,12 @@ nustatomas praėjus 3 mėnesiams nuo išgydymo po patirtos traumos, kariui mokam
 metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė
 kompensacija. Jeigu lengvo sveikatos sutrikdymo dėl traumos atveju kariūnas
 netapo neįgalus, tačiau liko liekamųjų reiškinių ir pasikeitė jo tinkamumo karo
-tarnybai laipsnis, kuris nustatomas praėjus 3 mėnesiams nuo išgydymo po patirtos
-traumos, ir dėl šio laipsnio pasikeitimo kariūnas negali tęsti studijų karo
-mokymo įstaigoje, jam mokama 12 profesinės karo tarnybos eiliniui pirmaisiais
-tarnybos metais nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų)
-vienkartinė kompensacija. Kompensacija gali būti išmokama dalimis, bet ne
-ilgiau kaip per 12 mėnesių. 
+tarnybai laipsnis, kuris nustatomas praėjus 3 mėnesiams nuo išgydymo po
+patirtos traumos, ir dėl šio laipsnio pasikeitimo kariūnas negali tęsti studijų
+karo mokymo įstaigoje, jam mokama 12 profesinės karo tarnybos eiliniui
+pirmaisiais tarnybos metais nustatyto dydžio mėnesinių tarnybinių atlyginimų
+(be priedų) vienkartinė kompensacija. Kompensacija gali būti išmokama dalimis,
+bet ne ilgiau kaip per 12 mėnesių. 
 11. Kariui žuvus mokama 120
 atitinkamo laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais
 nustatyto dydžio mėnesinių tarnybinių atlyginimų (be priedų) vienkartinė
@@ -3717,35 +3721,11 @@ nustatytos su karo tarnyba susijusios socialinės ir kitokios garantijos bei jų
 suteikimo tvarka. Šiuo atveju netaikomi įstatymai, nustatantys socialines
 garantijas valstybės tarnautojams ir kitiems civiliams darbuotojams. Garantijos
 kariui taikomos pagal kitus įstatymus, jeigu šis įstatymas nenustato kitaip.
- 
-2
-dalies redakcija iki 2010 m. rugpjūčio 1 d.:
-2.
-Profesinės karo tarnybos kariams mokama ligos pašalpa:
-1) 100
-procentų kario tarnybinio atlyginimo su pareiginiu priedu dydžio pašalpa kario
-ligos (sveikatos sutrikimo) atveju, kai laikinas nedarbingumas trunka ne ilgiau
-kaip 14 kalendorinių dienų, o 100 procentų kario tarnybinio atlyginimo be
-pareiginio priedo dydžio pašalpa, kai laikinas nedarbingumas trunka ilgiau kaip
-14 kalendorinių dienų;
-2) 80 procentų kario tarnybinio
-atlyginimo dydžio pašalpa:
-a) kai
-karys slaugo sergantį šeimos narį – ne ilgiau kaip 7 kalendorines dienas;
-b) kai slaugo sergantį iki 7 metų
-vaiką – ne ilgiau kaip 14 kalendorinių dienų;
-c) kai
-stacionare slaugo sergantį vaiką iki 7 metų, taip pat vaiką iki 14 metų,
-sergantį onkohemotologine liga, po sudėtingos operacijos, traumos ar nudegimo –
-visą slaugymo laiką, bet ne ilgiau kaip 122 kalendorines dienas.
-2
-dalies redakcija nuo 2010 m. rugpjūčio 1 d.:
 2. Profesinės karo tarnybos
 kariams mokama ligos pašalpa vidutinio atlyginimo ar jo dalies dydžio,
 maksimalus kompensuojamojo uždarbio dydis ir mokėjimo trukmė bei kitos sąlygos
 nustatomos vadovaujantis Lietuvos Respublikos ligos ir motinystės socialinio
 draudimo įstatymo nuostatomis.
- 
 3. Tapusiam laikinai nedarbingu
 pašauktam į pratybas, mokymus arba kitų tarnybos užduočių vykdymo metu
 nedirbančiam ir neturinčiam kitų draudžiamųjų pajamų kariui savanoriui ar kitam
@@ -3764,10 +3744,10 @@ laidojimo išlaidų dydžio parama laidojimo išlaidoms iš dalies padengti.
 Tikrosios karo tarnybos metu dėl susijusių su tarnyba priežasčių žuvusiam arba
 tikrosios karo tarnybos metu dėl ligos mirusiam kariui, jeigu jo šeima
 (artimieji) sutinka, Krašto apsaugos ministerijos lėšomis pastatomas krašto
-apsaugos ministro patvirtinto pavyzdžio antkapinis paminklas. Jeigu kario
-artimieji palaidoja žuvusį ar mirusį karį šeimos kape ir stato kitokį nei kario
-paminklą, Krašto apsaugos ministerija apmoka paminklo išlaidų dalį,
-neviršijančią kario antkapinio paminklo vertės. 
+apsaugos ministro patvirtinto pavyzdžio antkapinis paminklas. Jeigu kario artimieji
+palaidoja žuvusį ar mirusį karį šeimos kape ir stato kitokį nei kario paminklą,
+Krašto apsaugos ministerija apmoka paminklo išlaidų dalį, neviršijančią kario
+antkapinio paminklo vertės. 
  
 6
 dalies redakcija iki 2011 m. liepos 1 d.:
@@ -3775,18 +3755,18 @@ dalies redakcija iki 2011 m. liepos 1 d.:
 numatytų nėštumo ir gimdymo atostogų laikotarpiu profesinės karo tarnybos
 kariams mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų
 atlyginimas, o vaiko priežiūros atostogų laikotarpiu nuo nėštumo ir gimdymo
-atostogų pabaigos už kiekvieną vaiką, kol vaikui sueis vieni metai, – 100 procentų,
-o kol vaikui sueis dveji metai, – 85 procentai šia tvarka apskaičiuoto
-vidutinio jų atlyginimo. Išmokos vaiko priežiūros atostogų laikotarpiu mokamos
-neatsižvelgiant į tai, kurio vaiko priežiūrai suteiktos vaiko priežiūros
-atostogos. Jeigu profesinės karo tarnybos kariui gimsta du ir daugiau vaikų ir
-jis yra šių vaikų priežiūros atostogose, išmoka didinama atsižvelgiant į vienu
-metu gimusių vaikų skaičių (gimus dvynukams – 2 kartus, gimus trynukams – 3
-kartus ir t. t.). Išmoka už nėštumo ir gimdymo laikotarpį didinama tokia pat
-tvarka. Kai profesinės karo tarnybos karei, gaunančiai išmoką vaiko priežiūros
-atostogų laikotarpiu, suteikiamos nėštumo ir gimdymo atostogos ir ji įgyja
-teisę gauti išmoką nėštumo ir gimdymo atostogų laikotarpiu, jai mokamos abi
-šios išmokos.
+atostogų pabaigos už kiekvieną vaiką, kol vaikui sueis vieni metai, – 100
+procentų, o kol vaikui sueis dveji metai, – 85 procentai šia tvarka
+apskaičiuoto vidutinio jų atlyginimo. Išmokos vaiko priežiūros atostogų
+laikotarpiu mokamos neatsižvelgiant į tai, kurio vaiko priežiūrai suteiktos
+vaiko priežiūros atostogos. Jeigu profesinės karo tarnybos kariui gimsta du ir
+daugiau vaikų ir jis yra šių vaikų priežiūros atostogose, išmoka didinama
+atsižvelgiant į vienu metu gimusių vaikų skaičių (gimus dvynukams – 2 kartus,
+gimus trynukams – 3 kartus ir t. t.). Išmoka už nėštumo ir gimdymo laikotarpį
+didinama tokia pat tvarka. Kai profesinės karo tarnybos karei, gaunančiai
+išmoką vaiko priežiūros atostogų laikotarpiu, suteikiamos nėštumo ir gimdymo
+atostogos ir ji įgyja teisę gauti išmoką nėštumo ir gimdymo atostogų
+laikotarpiu, jai mokamos abi šios išmokos.
 6
 dalies redakcija nuo 2011 m. liepos 1 d.:
 6. Šio įstatymo 59 straipsnyje
@@ -3823,15 +3803,15 @@ dalis buto (gyvenamojo namo) šilumos tiekimo ir su namo bendrosios dalinės
 nuosavybės išlaikymu susijusių išlaidų. Jei privalomosios pradinės karo
 tarnybos karys pateikia krašto apsaugos ministro nustatytos formos pažymą,
 pasirašytą karinio vieneto, kuriame jis tarnauja, vado, neskaičiuojami
-mokesčiai už komunalines paslaugas (šiukšlių išvežimą, liftą, bendro naudojimo
-patalpų ir teritorijos valymą ir kitas), kuriomis karys nesinaudoja.
+mokesčiai už komunalines paslaugas (šiukšlių išvežimą, liftą, bendro naudojimo patalpų
+ir teritorijos valymą ir kitas), kuriomis karys nesinaudoja.
 Straipsnio
 pakeitimai:
 Nr. VIII-1289,
 99.07.07, Žin., 1999, Nr.64-2069 (99.07.23)
 Nr.
-IX-1359, 2003-03-13,
-Žin., 2003, Nr. 32-1308 (2003-04-02)
+IX-1359,
+2003-03-13, Žin., 2003, Nr. 32-1308 (2003-04-02)
 Nr. X-123, 2005-02-15,
 Žin., 2005, Nr. 28-875 (2005-02-26)
 Nr.
@@ -3864,20 +3844,19 @@ taip pat į tarnybą policijoje, Valstybės saugumo departamente, pašto įstaig
 ir geležinkelyje. Jeigu kitos priėmimo sąlygos lygios, jie turi pirmenybę būti
 priimti į valstybines mokymo įstaigas.
  
-2 dalies redakcija
-iki 2012 m. sausio 1 d.:
-2. Karys, garbingai atlikęs
-privalomąją tarnybą ir ištarnavęs bent 2 metus liktiniu, išėjęs į atsargą gauna
-papildomų lengvatų, kurias nustato kiti įstatymai.
-2 dalies redakcija
-nuo 2012 m. sausio 1 d.:
+2 dalies
+redakcija iki 2012 m. sausio 1 d.:
+2. Karys, garbingai atlikęs privalomąją
+tarnybą ir ištarnavęs bent 2 metus liktiniu, išėjęs į atsargą gauna papildomų
+lengvatų, kurias nustato kiti įstatymai.
+2 dalies
+redakcija nuo 2012 m. sausio 1 d.:
 2. Karys, garbingai ištarnavęs
 bent 4 metus, išėjęs į atsargą gauna papildomų lengvatų, kurias nustato kiti
 įstatymai. Vyriausybės ar jos įgaliotos institucijos nustatytomis sąlygomis ir
 tvarka gali būti sumokamos įmokos ar jų dalis už ne ilgesnes kaip 4 metų
-trukmės jo studijas aukštosiose mokyklose, jeigu jis pirmą kartą studijuoja
-Lietuvos aukštojoje mokykloje pagal pagrindinių arba vientisųjų studijų
-programą.
+trukmės jo studijas aukštosiose mokyklose, jeigu jis pirmą kartą studijuoja Lietuvos
+aukštojoje mokykloje pagal pagrindinių arba vientisųjų studijų programą.
  
 3. Išleidžiamas į atsargą karys
 savanoris, kuris pavyzdingai ištarnavo savanoriu ne mažiau kaip 5 metus ir
@@ -3887,9 +3866,9 @@ ir neviršydamas šių maksimalių dydžių:
 1) kariui savanoriui,
 ištarnavusiam nuo 5 iki 10 metų, – iki 2 Vyriausybės nustatytų aktyvaus rezervo
 tarnybos kario mėnesinių tarnybinių atlyginimų dydžio; 
-2) kariui savanoriui, ištarnavusiam
-daugiau kaip 10 metų, – iki 3 Vyriausybės nustatytų aktyvaus rezervo tarnybos
-kario mėnesinių tarnybinių atlyginimų dydžio.
+2) kariui savanoriui,
+ištarnavusiam daugiau kaip 10 metų, – iki 3 Vyriausybės nustatytų aktyvaus
+rezervo tarnybos kario mėnesinių tarnybinių atlyginimų dydžio.
 Straipsnio
 pakeitimai:
 Nr.
@@ -3916,8 +3895,8 @@ SEPTINTASIS SKIRSNIS
 CIVILIŲ
 TARNYBOS KRAŠTO APSAUGOS SISTEMOJE YPATUMAI
  
-71 straipsnis.
-Civilių tarnyba krašto apsaugos sistemoje
+71
+straipsnis. Civilių tarnyba krašto apsaugos sistemoje
 1. Krašto apsaugos sistemos
 valstybės tarnautojai skirstomi į:
 1) statutinius valstybės tarnautojus, atliekančius civilinę krašto
@@ -3950,13 +3929,12 @@ Nr. IX-1727,
 straipsnis. Civilinės krašto apsaugos tarnybos ypatumai
 1.
 Tarnautojams, atliekantiems civilinę krašto apsaugos tarnybą:
-1)
-taikomos šio įstatymo 73 straipsnyje numatytos būtinosios sąlygos bei
-apribojimai ir civilinės krašto apsaugos tarnybos statuto nustatyti
-reikalavimai bei sąlygos. Antrajame operatyvinių tarnybų departamente prie
-Krašto apsaugos ministerijos atliekantiems civilinę krašto apsaugos tarnybą
-tarnautojams taikomi tarnybos šiame departamente statuto nustatyti reikalavimai
-ir sąlygos;
+1) taikomos
+šio įstatymo 73 straipsnyje numatytos būtinosios sąlygos bei apribojimai ir
+civilinės krašto apsaugos tarnybos statuto nustatyti reikalavimai bei sąlygos.
+Antrajame operatyvinių tarnybų departamente prie Krašto apsaugos ministerijos
+atliekantiems civilinę krašto apsaugos tarnybą tarnautojams taikomi tarnybos
+šiame departamente statuto nustatyti reikalavimai ir sąlygos;
 2) Civilinės krašto apsaugos tarnybos statuto arba Tarnybos Antrajame
 operatyvinių tarnybų departamente prie Krašto apsaugos ministerijos statuto
 nustatyta tvarka gali būti suteikiamos kvalifikacinės kategorijos;
@@ -3965,16 +3943,16 @@ taikomos tarnybos apmokėjimo sąlygos, nurodytos šio įstatymo 75 straipsnyje;
 4)
 taikomos šio įstatymo 76 straipsnyje nustatytos aprūpinimo tarnybine uniforma
 sąlygos.
-2.
-Tarnautojams, su kuriais sudaroma civilinės krašto apsaugos tarnybos sutartis,
-Vyriausybės nustatyta tvarka taikomos aprūpinimo sąlygos ir socialinės
-garantijos, kurios numatytos profesinės karo tarnybos kariams šio įstatymo 66
-straipsnyje ir 68 straipsnio 4 dalyje. Jiems taip pat gali būti taikomos 63
-straipsnio 4, 5, 6, 7 ir 8 dalyse numatytos aprūpinimo tarnybiniu butu
-sąlygos. Šiose dalyse numatytos aprūpinimo sąlygos ir socialinės
-garantijos taikomos tokia pat tvarka kaip ir profesinės karo tarnybos kariams,
-išskyrus nuomos mokestį už tarnybinį butą, kurį jie moka bendra valstybės
-tarnautojams nustatyta tvarka.
+2. Tarnautojams,
+su kuriais sudaroma civilinės krašto apsaugos tarnybos sutartis, Vyriausybės
+nustatyta tvarka taikomos aprūpinimo sąlygos ir socialinės garantijos, kurios
+numatytos profesinės karo tarnybos kariams šio įstatymo 66 straipsnyje ir 68
+straipsnio 4 dalyje. Jiems taip pat gali būti taikomos 63 straipsnio 4, 5, 6, 7
+ir 8 dalyse numatytos aprūpinimo tarnybiniu butu sąlygos. Šiose
+dalyse numatytos aprūpinimo sąlygos ir socialinės garantijos taikomos
+tokia pat tvarka kaip ir profesinės karo tarnybos kariams, išskyrus nuomos
+mokestį už tarnybinį butą, kurį jie moka bendra valstybės tarnautojams
+nustatyta tvarka.
 3. Asmenis, įstojusius
 į civilinę krašto apsaugos tarnybą tarptautinių operacijų kariniame
 vienete, darbdaviai
@@ -3986,13 +3964,13 @@ nustatytus atvejus.
 4. Asmenys, stojantys ar įstoję į
 civilinę krašto apsaugos tarnybą, krašto apsaugos sistemoje nustatyto turinio
 anketoje įstatymų ir kitų teisės aktų nustatyta tvarka privalo pateikti
-duomenis apie save, savo ryšius ir interesus, galinčius turėti reikšmės
-valstybės paslapčių apsaugai, tarnybos pareigų vykdymui ar galinčius būti
-interesų konflikto priežastimi. Šie duomenys tikrinami. Nuslėpęs ar sąmoningai
-pateikęs neteisingus duomenis asmuo traukiamas atsakomybėn pagal įstatymą. Su
-nuslėpusiuoju ar sąmoningai pateikusiuoju neteisingus duomenis gali būti nutraukta
-civilinės krašto apsaugos tarnybos sutartis ir jis atleistas iš tarnybos krašto
-apsaugos sistemoje.
+duomenis apie save, savo ryšius ir interesus, galinčius turėti reikšmės valstybės
+paslapčių apsaugai, tarnybos pareigų vykdymui ar galinčius būti interesų
+konflikto priežastimi. Šie duomenys tikrinami. Nuslėpęs ar sąmoningai pateikęs
+neteisingus duomenis asmuo traukiamas atsakomybėn pagal įstatymą. Su
+nuslėpusiuoju ar sąmoningai pateikusiuoju neteisingus duomenis gali būti
+nutraukta civilinės krašto apsaugos tarnybos sutartis ir jis atleistas iš
+tarnybos krašto apsaugos sistemoje.
 5. Siekiant užtikrinti valstybės
 ar tarnybos paslapčių apsaugą ar patikrinti į civilinę krašto apsaugos tarnybą
 įstojusio asmens pateiktą informaciją, gali būti naudojamas poligrafas, tačiau
@@ -4008,8 +3986,8 @@ Nr.42-1194 (00.05.24)
 Nr.
 IX-1359,
 2003-03-13, Žin., 2003, Nr. 32-1308 (2003-04-02)
-Nr. IX-1727,
-2003-09-11, Žin., 2003, Nr. 91(1)-4106 (2003-09-26)
+Nr. IX-1727, 2003-09-11,
+Žin., 2003, Nr. 91(1)-4106 (2003-09-26)
 Nr. X-1084,
 2007-04-12, Žin., 2007, Nr. 46-1718 (2007-04-26)
  
@@ -4063,8 +4041,8 @@ Nr. VIII-1668, 00.05.09, Žin., 2000,
 Nr.42-1194 (00.05.24)
 Nr. IX-1727,
 2003-09-11, Žin., 2003, Nr. 91(1)-4106 (2003-09-26)
-Nr. IX-2560,
-2004-11-11, Žin., 2004, Nr. 169-6215 (2004-11-23)
+Nr. IX-2560, 2004-11-11,
+Žin., 2004, Nr. 169-6215 (2004-11-23)
 Nr. X-1084,
 2007-04-12, Žin., 2007, Nr. 46-1718 (2007-04-26)
 Nr.
@@ -4104,15 +4082,15 @@ Nr. IX-1727,
 tarnybos tarnautojų aprūpinimas uniformomis
 1. Civilinės krašto apsaugos
 tarnybos tarnautojai, kuriems pagal krašto apsaugos ministro patvirtintą
-pareigų sąrašą priklauso dėvėti tarnybines uniformas, jomis aprūpinami iš
-valstybės biudžeto lėšų Vyriausybės nustatytomis sąlygomis ir tvarka.
+pareigų sąrašą priklauso dėvėti tarnybines uniformas, jomis aprūpinami iš valstybės
+biudžeto lėšų Vyriausybės nustatytomis sąlygomis ir tvarka.
 2. Civilinės krašto apsaugos
 tarnybos uniformų pavyzdžius tvirtina krašto apsaugos ministras.
  
 77
 straipsnis. Krašto apsaugos sistemos tarnautojų premijavimas
-1. Krašto apsaugos sistemos
-tarnautojai premijuojami bendra valstybės tarnautojų premijavimo tvarka.
+1. Krašto apsaugos sistemos tarnautojai
+premijuojami bendra valstybės tarnautojų premijavimo tvarka.
 2. Civilinės krašto apsaugos
 tarnybos tarnautojams du kartus per metus (Kalėdų ir Velykų švenčių progomis)
 išmokamos iki vieno pareiginio atlyginimo dydžio šventinės premijos iš Krašto
@@ -4143,8 +4121,8 @@ Nr. VIII-1289,
 99.07.07, Žin., 1999, Nr.64-2069 (99.07.23)
 Nr. VIII-1668, 00.05.09, Žin., 2000,
 Nr.42-1194 (00.05.24)
-Nr. IX-1727, 2003-09-11,
-Žin., 2003, Nr. 91(1)-4106 (2003-09-26)
+Nr. IX-1727,
+2003-09-11, Žin., 2003, Nr. 91(1)-4106 (2003-09-26)
 Nr. IX-2536,
 2004-11-04, Žin., 2004, Nr. 171-6296 (2004-11-26)
 Nr. X-507, 2006-01-20,
@@ -4186,8 +4164,8 @@ straipsnis. Netekę galios įstatymai
 pripažinti netekusiais galios:
 1) Lietuvos Respublikos
 savanoriškosios krašto apsaugos tarnybos įstatymas (Žin., 1991, Nr.4-106);
-2) Lietuvos Respublikos krašto apsaugos
-tarnybos įstatymas (Žin., 1996, Nr. 101-2302);
+2) Lietuvos Respublikos krašto
+apsaugos tarnybos įstatymas (Žin., 1996, Nr. 101-2302);
 3) Lietuvos Respublikos krašto
 apsaugos tarnybos įstatymo 6 straipsnio pakeitimo įstatymas (Žin., 1997, Nr.30-705);
 4) Lietuvos Respublikos krašto
@@ -4254,8 +4232,8 @@ PAKEITIMO ĮSTATYMAS
 6.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. IX-1135,
-2002-10-15, Žin., 2002, Nr. 102-4550 (2002-10-25)
+Nr. IX-1135, 2002-10-15,
+Žin., 2002, Nr. 102-4550 (2002-10-25)
 KRAŠTO APSAUGOS SISTEMOS
 ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 9 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
@@ -4407,8 +4385,8 @@ PAPILDYMO ĮSTATYMAS
 20.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. X-1343, 2007-12-04,
-Žin., 2007, Nr. 132-5351 (2007-12-15)
+Nr. X-1343,
+2007-12-04, Žin., 2007, Nr. 132-5351 (2007-12-15)
 KRAŠTO APSAUGOS SISTEMOS
 ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 68 STRAIPSNIO PAKEITIMO IR PAPILDYMO
 ĮSTATYMAS
@@ -4418,7 +4396,8 @@ ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 68 STRAIPSNIO PAKEITIMO IR PAPILDYMO
 įstatymui, profesinės karo tarnybos kariams iki tol mokama išmoka pagal
 Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos
 įstatymo 68 straipsnio 6 dalį, vadovaujantis šio įstatymo nuostatomis,
-atitinkamai perskaičiuojama, padidinama ir (ar) pratęsiamas jos mokėjimo laikotarpis.
+atitinkamai perskaičiuojama, padidinama ir (ar) pratęsiamas jos mokėjimo
+laikotarpis.
 Profesinės karo
 tarnybos kariams, esantiems vaiko priežiūros atostogose (nepaisant to, ar vaiko
 priežiūros atostogos tęsiamos, ar suteikiamos iš naujo), kuriems išmokos
@@ -4536,6 +4515,16 @@ nuostatos dėl laikinojo nedarbingumo laikotarpiu pareigūnams mokamų išmokų
 Šio įstatymo
 nuostatos taikomos po šio įstatymo įsigaliojimo skiriamoms išmokoms.
  
+31.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-1236,
+2010-12-14, Žin., 2010, Nr. 157-7970 (2010-12-31)
+KRAŠTO
+APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 48 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+ 
  
 ***
 Pabaiga ***
@@ -4559,6 +4548,6 @@ Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2010-07-27)
+Aušrinė Trapinskienė (2011-01-03)
                  
 autrap@lrs.lt
