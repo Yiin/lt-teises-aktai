@@ -13,10 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7083DB116A2E"
 
 # Lietuvos Respublikos radiacinės saugos įstatymas
 
-Suvestinė redakcija nuo 2004-05-01 iki 2010-12-31
+Suvestinė redakcija nuo 2011-01-01 iki 2011-09-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 11-239, i. k. 0991010ISTAIII-1019
- 
  
 LIETUVOS RESPUBLIKOS RADIACINĖS SAUGOS ĮSTATYMAS
  
@@ -33,7 +32,10 @@ PIRMASIS SKIRSNIS
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas reglamentuoja juridinių asmenų, įmonių, neturinčių juridinio asmens teisių, ir fizinių asmenų santykius, atsirandančius dėl veiklos su jonizuojančiosios spinduliuotės šaltiniais ir dėl radioaktyviųjų atliekų tvarkymo. Šis įstatymas nustato radiacinės saugos teisinius pagrindus, leidžiančius apsaugoti žmones ir aplinką nuo žalingo jonizuojančiosios spinduliuotės poveikio.
+1. Šis įstatymas reglamentuoja fizinių ir juridinių asmenų, kitų organizacijų, juridinių asmenų ir kitų organizacijų filialų santykius, atsirandančius dėl veiklos su jonizuojančiosios spinduliuotės šaltiniais ir dėl radioaktyviųjų atliekų tvarkymo. Šis įstatymas nustato radiacinės saugos teisinius pagrindus, leidžiančius apsaugoti žmones ir aplinką nuo žalingo jonizuojančiosios spinduliuotės poveikio.
+Straipsnio dalies pakeitimai:
+Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
+ 
 
 
 
@@ -49,95 +51,107 @@ PIRMASIS SKIRSNIS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Apšvita - procesas, kurio metu jonizuojančiosios spinduliuotės srautas apšvitina žmogų ar aplinką.
+1. Apšvita – procesas, kurio metu jonizuojančiosios spinduliuotės srautas apšvitina žmogų ar aplinką.
 
 
 
 
-2. Darbuotojas, dirbantis su jonizuojančiosios spinduliuotės šaltiniais (toliau - darbuotojas) - asmuo, dirbantis pagal darbo sutartį su jonizuojančiosios spinduliuotės šaltiniais arba jų veikiamas ir veikiamas apšvitos, kurios dozės gali viršyti gyventojams nustatytas ribas.
+2. Darbuotojas, dirbantis su jonizuojančiosios spinduliuotės šaltiniais (toliau – darbuotojas) – valstybės tarnautojas ar darbuotojas, dirbantis pagal darbo sutartį, dirbantys su jonizuojančiosios spinduliuotės šaltiniais arba jų veikiami ir veikiami apšvitos, kurios dozė gali viršyti gyventojams nustatytas ribas.
 
 
 
 
-3. Gyventojai - asmenys, išskyrus darbuotojus ir mokinius bei studentus, mokymosi metu naudojančius jonizuojančiosios spinduliuotės šaltinius, ir asmenis, kurie apšvitinami dėl jų pačių sveikatos priežiūros arba savanoriškai padėdami pacientams ar dalyvaudami medicininiuose bei biomedicininiuose moksliniuose tyrimuose.
+3. Gamtinė spinduliuotė – jonizuojančioji spinduliuotė, kurią sudaro kosminė spinduliuotė ir natūraliai pasiskirsčiusių gamtinių radionuklidų spinduliuotė.
 
 
 
 
-4. Jonizuojančioji spinduliuotė - spinduliuotė, kuriai veikiant biologinėje aplinkoje susidaro skirtingų krūvių jonai.
+4. Gyventojai – asmenys, išskyrus darbuotojus ir mokinius bei studentus, mokymosi metu naudojančius jonizuojančiosios spinduliuotės šaltinius, ir asmenis, kurie apšvitinami dėl jų pačių sveikatos priežiūros arba savanoriškai padėdami pacientams ar dalyvaudami medicininiuose bei biomedicininiuose moksliniuose tyrimuose.
 
 
 
 
-5. Jonizuojančiosios spinduliuotės generatoriai - įrenginiai bei jų dalys, neturintys radioaktyviųjų medžiagų, bet dėl techninių savybių galintys generuoti jonizuojančiąją spinduliuotę.
+5. Jonizuojančioji spinduliuotė – spinduliuotė, kuriai veikiant biologinėje aplinkoje susidaro skirtingų krūvių jonai.
 
 
 
 
-6. Jonizuojančiosios spinduliuotės šaltinis - aparatas, radioaktyvioji medžiaga, įrenginys, gaminys arba prekė, skleidžiantys arba galintys skleisti jonizuojančiąją spinduliuotę.
+6. Jonizuojančiosios spinduliuotės generatoriai – įrenginiai bei jų dalys, neturintys radioaktyviųjų medžiagų, bet dėl techninių savybių galintys generuoti jonizuojančiąją spinduliuotę.
 
 
 
 
-7. Leidimas - dokumentas, suteikiantis vienkartinę teisę įvežti, išvežti arba pervežti radioaktyviąsias medžiagas laikantis šiame įstatyme ir kituose teisės aktuose nustatytų sąlygų ir reikalavimų.
+7. Jonizuojančiosios spinduliuotės šaltinis – aparatas, radioaktyvioji medžiaga, įrenginys, gaminys arba prekė, skleidžiantys arba galintys skleisti jonizuojančiąją spinduliuotę.
 
 
 
 
-8. Licencija - dokumentas, suteikiantis teisę verstis licencijoje nurodyta veikla laikantis šiame ir kituose įstatymuose bei teisės aktuose nustatytų sąlygų bei reikalavimų.
+8. Laikinasis leidimas – dokumentas, suteikiantis teisę šio įstatymo 8 straipsnio 2 dalyje nurodytiems asmenims, turintiems valstybėje narėje išduotą dokumentą, suteikiantį teisę verstis veikla su jonizuojančiosios spinduliuotės šaltiniais, laikinai Lietuvos Respublikoje verstis laikinajame leidime nurodyta veikla, laikantis šiame ir kituose įstatymuose bei teisės aktuose nustatytų sąlygų ir reikalavimų. Vertimosi veikla laikinumą vertina ir laikinojo leidimo galiojimo terminą nustato Radiacinės saugos centras, atsižvelgdamas į veiklos vykdymo trukmę, reguliarumą, dažnumą ir tęstinumą.
 
 
 
 
-9. Medicininė apšvita - apšvita, kurią patiria pacientai jų sveikatos priežiūros metu, medicininių ir biomedicininių mokslinių tyrimų metu bei asmenys (išskyrus darbuotojus), kurie savanoriškai padeda pacientui.
+9. Leidimas vežti radioaktyviąsias medžiagas – dokumentas, suteikiantis vienkartinę teisę įvežti į Lietuvos Respubliką, išvežti iš jos, vežti tranzitu ar vežti šalies viduje radioaktyviąsias medžiagas laikantis šiame įstatyme ir kituose teisės aktuose nustatytų sąlygų ir reikalavimų.
 
 
 
 
-10. Gamtinė spinduliuotė - jonizuojančioji spinduliuotė, kurią sudaro kosminė spinduliuotė ir natūraliai pasiskirsčiusių gamtinių radionuklidų spinduliuotė.
+10. Licencija – dokumentas, suteikiantis teisę neterminuotą laiką verstis licencijoje nurodyta veikla laikantis šiame įstatyme ir kituose įstatymuose bei teisės aktuose nustatytų sąlygų ir reikalavimų.
 
 
 
 
-11. Nereguliuojamosios veiklos kriterijai - nustatyti dydžiai, kurių neviršijus, veiklai netaikomi radiacinę saugą reglamentuojančių teisės aktų reikalavimai ir nereikalinga licencija.
+11. Medicininė apšvita – apšvita, kurią patiria pacientai jų sveikatos priežiūros metu, medicininių ir biomedicininių mokslinių tyrimų metu bei asmenys (išskyrus darbuotojus), kurie savanoriškai padeda pacientui.
 
 
 
 
-12. Radiacinė avarija - situacija, kilusi dėl aparato gedimo arba technologinio proceso pažeidimų ar kitų priežasčių, kai dėl jų padarinių ar galimų padarinių reikia taikyti radiacinės saugos priemones.
+12. Nereguliuojamosios veiklos kriterijai – nustatyti dydžiai, kurių neviršijus, veiklai netaikomi radiacinę saugą reglamentuojančių teisės aktų reikalavimai ir nereikalinga licencija.
 
 
 
 
-13. Radiacinė sauga - visuma teisinių, techninių, technologinių, statybos, higienos bei darbų saugos, aplinkos apsaugos normų ir taisyklių bei priemonių, kuriomis užtikrinama žmonių ir aplinkos apsauga nuo žalingo jonizuojančiosios spinduliuotės poveikio.
+13. Radiacinė avarija – situacija, kilusi dėl aparato gedimo arba technologinio proceso pažeidimų ar kitų priežasčių, kai dėl jų padarinių ar galimų padarinių reikia taikyti radiacinės saugos priemones.
 
 
 
 
-14. Radioaktyviosios atliekos - radioaktyviosios medžiagos, kurių toliau naudoti yra netikslinga arba negalima.
+14. Radiacinė sauga – visuma teisinių, techninių, technologinių, statybos, higienos bei darbų saugos, aplinkos apsaugos normų ir taisyklių bei priemonių, kuriomis užtikrinama žmonių ir aplinkos apsauga nuo žalingo jonizuojančiosios spinduliuotės poveikio.
 
 
 
 
-15. Radioaktyvioji medžiaga - kiekviena medžiaga, kurioje yra vienas arba daugiau radionuklidų ir kurių savitasis aktyvumas viršija nustatytą dydį.
+15. Radioaktyvioji medžiaga – kiekviena medžiaga, kurioje yra vienas arba daugiau radionuklidų ir kurių savitasis aktyvumas viršija nustatytą dydį.
 
 
 
 
-16. Radioaktyvusis užterštumas - bet kurios medžiagos, paviršiaus ar aplinkos bei žmogaus užterštumas radioaktyviosiomis medžiagomis. Žmogaus radioaktyvusis užterštumas - tai ir išorinis odos užterštumas, ir vidinis užterštumas.
+16. Radioaktyviosios atliekos – radioaktyviosios medžiagos, kurių toliau naudoti yra netikslinga arba negalima.
 
 
 
 
-17. Valstybinė radiacinės saugos ekspertizė - radiacinės saugos duomenų analizė, jos raidos tendencijų prognozė, kurią atlieka šio įstatymo bei kitų Lietuvos Respublikos įstatymų ar Vyriausybės nutarimų įgaliotos valstybės institucijos.
+17. Radioaktyvusis užterštumas – bet kurios medžiagos, paviršiaus ar aplinkos bei žmogaus užterštumas radioaktyviosiomis medžiagomis. Žmogaus radioaktyvusis užterštumas – tai ir išorinis odos užterštumas, ir vidinis užterštumas.
 
 
 
 
-18. Veikla su jonizuojančiosios spinduliuotės šaltiniais (toliau - veikla) - juridinių asmenų ir įmonių, neturinčių juridinio asmens teisių, veikla su jonizuojančiosios spinduliuotės šaltiniais ar su radioaktyviosiomis atliekomis, kuri lemia papildomą darbuotojų ir gyventojų apšvitą arba dėl kurios padidėja apšvitintų žmonių skaičius ar jų apšvitos tikimybė.
+18. Valstybė narė – bet kuri Europos Sąjungos valstybė narė ar Europos ekonominės erdvės valstybė.
+
+
+
+
+19. Valstybinė radiacinės saugos ekspertizė – radiacinės saugos duomenų analizė, jos raidos tendencijų prognozė, kurią atlieka šio įstatymo bei kitų Lietuvos Respublikos įstatymų ar Vyriausybės nutarimų įgaliotos valstybės institucijos.
+
+
+
+
+20. Veikla su jonizuojančiosios spinduliuotės šaltiniais (toliau – veikla) – veikla su jonizuojančiosios spinduliuotės šaltiniais ar su radioaktyviosiomis atliekomis, kuri lemia arba gali lemti papildomą darbuotojų ir gyventojų apšvitą arba dėl kurios padidėja apšvitintų žmonių skaičius ar jų apšvitos tikimybė.
+
+
+Straipsnio pakeitimai:
+Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
  
-
-
 
 
 
@@ -211,13 +225,13 @@ Vyriausybė, įgyvendindama valstybės politiką radiacinės saugos valdymo srit
 
 
 
-5 straipsnis. Rajono (miesto) savivaldybės mero kompetencija radiacinės saugos valstybinio valdymo srityje 
+5 straipsnis. Savivaldybės administracijos direktoriaus kompetencija radiacinės saugos srityje
 
 
-Radiacinė sauga yra savivaldybei valstybės deleguota funkcija, už kurios vykdymą atsakingas savivaldybės meras. Rajono (miesto) savivaldybės meras:
+Radiacinė sauga yra valstybės perduota savivaldybei funkcija, už kurios vykdymą atsakingas savivaldybės administracijos direktorius. Savivaldybės administracijos direktorius:
 
 
-1) išreiškia savivaldybės nuomonę dalyvaudamas sprendžiant įmonių, kurios naudoja ar planuoja naudoti jonizuojančiosios spinduliuotės šaltinius, statybos, rekonstrukcijos ar veiklos nutraukimo klausimus;
+1) reiškia savivaldybės nuomonę, dalyvaudamas sprendžiant asmenų, kurie verčiasi ar planuoja verstis šio įstatymo 8 straipsnio 1 dalyje nurodyta veikla, statybos, rekonstrukcijos ar veiklos nutraukimo klausimus;
 
 
 
@@ -232,12 +246,14 @@ Radiacinė sauga yra savivaldybei valstybės deleguota funkcija, už kurios vykd
 
 
 
-4) atlieka kitas radiacinės saugos valstybinio valdymo funkcijas, kurias reglamentuoja kiti įstatymai bei teisės aktai.
+4) atlieka kitas radiacinės saugos valstybinio valdymo funkcijas, kurias reglamentuoja kiti įstatymai ir teisės aktai.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
  
-
-
-
-
 
 
 
@@ -284,12 +300,18 @@ Sveikatos apsaugos ministerija vykdo šias funkcijas radiacinės saugos valdymo 
 
 
 
-2) Vyriausybės nustatyta tvarka išduoda, perregistruoja, sustabdo, atnaujina ar panaikina licencijų verstis veikla, nurodyta šio įstatymo 8 straipsnio 1 dalyje, galiojimą;
+2) Vyriausybės patvirtintų licencijavimo taisyklių nustatyta tvarka išduoda licencijas ar laikinuosius leidimus verstis veikla, nurodyta šio įstatymo 8 straipsnio 1 dalyje, juos patikslina, sustabdo jų galiojimą, panaikina jų galiojimo sustabdymą ar panaikina jų galiojimą; 
+Straipsnio punkto pakeitimai:
+Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
+ 
 
 
 
 
-3) prižiūri ir kontroliuoja, kaip juridiniai asmenys ir įmonės, neturinčios juridinio asmens teisių, laikosi šiame įstatyme, licencijose ir radiacinės saugos teisės aktuose nustatytų reikalavimų, ir už šių reikalavimų pažeidimus taiko įstatymų numatytą atsakomybę;
+3) prižiūri, kaip fiziniai ir juridiniai asmenys, kitos organizacijos, juridinių asmenų ir kitų organizacijų filialai laikosi šiame įstatyme, licencijose, laikinuosiuose leidimuose ir radiacinę saugą reglamentuojančiuose teisės aktuose nustatytų reikalavimų, ir už šių reikalavimų pažeidimus taiko įstatymų numatytą atsakomybę;
+Straipsnio punkto pakeitimai:
+Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
+ 
 
 
 
@@ -346,15 +368,20 @@ VEIKLOS RADIACINĖS SAUGOS SRITYJE LICENCIJAVIMO SĄLYGOS
  
 
 
-8 straipsnis. Veiklos licencijavimas ir leidimų išdavimas, draudžiama veikla
+8 straipsnis. Veiklos licencijavimas, laikinųjų leidimų ir leidimų vežti radioaktyviąsias medžiagas išdavimas, draudžiama veikla
 
 
-1. Be Radiacinės saugos centro išduotos licencijos gaminti, naudoti, prekiauti, saugoti, montuoti, prižiūrėti, remontuoti, perdirbti, vežti jonizuojančiosios spinduliuotės šaltinius bei tvarkyti (surinkti, rūšiuoti, apdoroti, laikyti, perdirbti, transportuoti, saugoti, nukenksminti) radioaktyviąsias atliekas draudžiama, išskyrus atvejus, numatytus šio straipsnio 2 dalyje.
+1. Be Vyriausybės patvirtintų licencijavimo taisyklių nustatyta tvarka Radiacinės saugos centro išduotos licencijos ar laikinojo leidimo gaminti, naudoti, saugoti, montuoti, prižiūrėti, remontuoti, perdirbti jonizuojančiosios spinduliuotės šaltinius, prekiauti jais, vežti radioaktyviąsias medžiagas, tvarkyti (surinkti, rūšiuoti, apdoroti, laikyti, perdirbti, vežti, saugoti, nukenksminti) radioaktyviąsias atliekas ir neturint jonizuojančiosios spinduliuotės šaltinių verstis veikla jonizuojančiosios spinduliuotės aplinkoje pas kitą šio straipsnio 2 dalyje nurodytą asmenį, turintį licenciją, draudžiama, išskyrus atvejus, nurodytus šio straipsnio 3 dalyje.
 
 
 
 
-2. Licencija, nurodyta šio straipsnio 1 dalyje, nereikalinga:
+2. Šio straipsnio 1 dalyje nurodyta veikla gali verstis Lietuvos Respublikos ar kitos valstybės narės pilietis, kitas fizinis asmuo, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis, Lietuvos Respublikoje įsteigtas juridinis asmuo arba kitoje valstybėje narėje įsteigtas juridinis asmuo, kita organizacija ar jų filialai, taip pat kitos užsienio valstybės juridinio asmens ar kitos organizacijos filialai, įsteigti Lietuvos Respublikoje (toliau – asmuo).
+
+
+
+
+3. Licencija ar laikinasis leidimas, nurodyti šio straipsnio 1 dalyje, nereikalingi:
 
 
 1) verstis veikla su jonizuojančiosios spinduliuotės šaltiniais, kuriems taikomi nereguliuojamosios veiklos kriterijai;
@@ -362,50 +389,264 @@ VEIKLOS RADIACINĖS SAUGOS SRITYJE LICENCIJAVIMO SĄLYGOS
 
 
 
-2) jonizuojančiosios spinduliuotės generatoriams transportuoti ir saugoti.
+2) prekiauti, vežti ir saugoti jonizuojančiosios spinduliuotės generatorius;
+
+
+
+
+3) vežti radioaktyviąsias medžiagas nekontroliuojamose pakuotėse, nurodytose Lietuvos Respublikos tarptautinėse sutartyse, reglamentuojančiose pavojingų krovinių vežimą.
 
 
 
 
 
 
-3. Be Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka išduoto leidimo radioaktyviąsias medžiagas draudžiama įvežti į Lietuvos Respubliką, išvežti iš jos, vežti tranzitu ar pervežti joje.
+4. Licencijų rūšys yra šios:
+
+
+1) licencija gaminti, naudoti, saugoti, prižiūrėti, remontuoti, perdirbti jonizuojančiosios spinduliuotės šaltinius, tvarkyti (surinkti, rūšiuoti, apdoroti, laikyti, perdirbti, saugoti, nukenksminti) radioaktyviąsias atliekas;
 
 
 
 
-4. Radioaktyviųjų medžiagų, kurios priskirtos kontroliuojamosioms prekėms, importo, tranzito ir eksporto tvarką nustato Strateginių prekių ir technologijų importo, tranzito ir eksporto kontrolės įstatymas.
+2) licencija montuoti jonizuojančiosios spinduliuotės šaltinius;
 
 
 
 
-5. Specialiai dėti radioaktyviųjų medžiagų į maisto produktus, žaislus, papuošalus, kosmetiką ir tokius gaminius parduoti, importuoti, eksportuoti draudžiama.
+3) licencija prekiauti jonizuojančiosios spinduliuotės šaltiniais;
 
 
 
 
-6. Juridiniai ir fiziniai asmenys, įmonės, neturinčios juridinio asmens teisių, pažeidę šio straipsnio 1 dalies reikalavimus, atsako pagal Lietuvos Respublikos įstatymus.
+4) licencija vežti radioaktyviąsias medžiagas ir (ar) radioaktyviąsias atliekas;
+
+
+
+
+5) licencija verstis veikla jonizuojančiosios spinduliuotės aplinkoje pas kitą asmenį, turintį licenciją.
+
+
+
+
+
+
+5. Be Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka išduoto leidimo vežti radioaktyviąsias medžiagas draudžiama. Fiziniai ir juridiniai asmenys, kitos organizacijos, juridinių asmenų ir kitų organizacijų filialai, norintys gauti leidimą vežti radioaktyviąsias medžiagas, turi pateikti įstatymų nustatyta tvarka įgaliotai institucijai nustatytos formos paraišką. Atsakymo dėl leidimo vežti radioaktyviąsias medžiagas išdavimo nepateikimas nelaikomas leidimo vežti radioaktyviąsias medžiagas išdavimu. Jeigu fiziniai ir juridiniai asmenys, kitos organizacijos, juridinių asmenų ir kitų organizacijų filialai, turintys leidimą vežti radioaktyviąsias medžiagas, nesilaiko radiacinę saugą reglamentuojančių teisės aktų, įstatymų nustatyta tvarka įgaliota institucija panaikina leidimo vežti radioaktyviąsias medžiagas galiojimą.
+
+
+
+
+6. Už licencijos ar laikinojo leidimo išdavimą, jų patikslinimą, licencijos ar laikinojo leidimo dublikato išdavimą šio straipsnio 1 dalyje nurodytais atvejais, taip pat už leidimo vežti radioaktyviąsias medžiagas ir jo dublikato išdavimą šio straipsnio 5 dalyje nurodytais atvejais imama valstybės rinkliava.
+
+
+
+
+7. Radioaktyviųjų medžiagų, kurios priskirtos strateginėms prekėms, importo, tranzito ir eksporto tvarką nustato Strateginių prekių kontrolės įstatymas.
+
+
+
+
+8. Dėti radioaktyviųjų medžiagų į maisto produktus, žaislus, papuošalus, kosmetiką ir tokius gaminius parduoti, importuoti, eksportuoti draudžiama.
+
+
+
+
+9. Fiziniai ir juridiniai asmenys, kitos organizacijos, juridinių asmenų ir kitų organizacijų filialai, pažeidę šio straipsnio 1 dalies reikalavimus, atsako pagal Lietuvos Respublikos įstatymus.
+
+
+Straipsnio pakeitimai:
+Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
  
 
 
 
 
+81 straipsnis. Dokumentai, kurių reikia licencijai gauti
 
 
-9 straipsnis. Licencijas ir leidimus išduodančios institucijos
+Asmenys, norintys gauti bet kurios šio įstatymo 8 straipsnio 4 dalyje nustatytos rūšies licenciją, turi pateikti Radiacinės saugos centrui nustatytos formos paraišką (paraiškos formą nustato Radiacinės saugos centras) ir pridėti šiuos dokumentus:
 
 
-1. Licencijas veiklai, nurodytai šio įstatymo 8 straipsnio 1 dalyje, išskyrus licencijas, kurias išduoda Branduolinės energijos įstatyme nurodytos valstybės institucijos, išduoda, perregistruoja, jų galiojimą sustabdo, atnaujina ir panaikina Radiacinės saugos centras.
+1) motyvuotą būsimosios veiklos paaiškinimą;
 
 
 
 
-2. Leidimus radioaktyviąsias medžiagas, skirtas asmens ir visuomenės sveikatos priežiūros įstaigoms, įmonėms, mokslo ir mokymo įstaigoms bei valstybės ir savivaldybių institucijoms, įvežti į Lietuvos Respubliką, išvežti iš jos, vežti tranzitu ar pervežti joje išduoda Radiacinės saugos centras, o visais kitais atvejais – Sveikatos apsaugos ministerijos teikimu Vyriausybė.
-Straipsnio dalies pakeitimai:
-Nr. IX-2115, 2004-04-13, Žin., 2004, Nr. 60-2123 (2004-04-24), i. k. 1041010ISTA0IX-2115
+2) darbuotojų radiacinės saugos programą ir dokumentus, įrodančius, kad verčiantis veikla su jonizuojančiosios spinduliuotės šaltiniais bus užtikrinta žmonių ir aplinkos radiacinė sauga, kaip nustatyta Vyriausybės patvirtintose licencijavimo taisyklėse;
+
+
+
+
+3) išsamią informaciją apie jonizuojančiosios spinduliuotės šaltinius: sertifikatų ir kitų techninių dokumentų kopijas.
+
+
+
+
+Papildyta straipsniu:
+Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
  
 
 
+
+
+82 straipsnis. Dokumentai, kurių reikia laikinajam leidimui gauti
+
+
+Asmenys, turintys valstybėje narėje išduotą dokumentą, suteikiantį teisę verstis veikla su jonizuojančiosios spinduliuotės šaltiniais, norintys gauti laikinąjį leidimą, turi pateikti Radiacinės saugos centrui šiuos dokumentus:
+
+
+1) prašymą išduoti laikinąjį leidimą (prašymo formą nustato Radiacinės saugos centras);
+
+
+
+
+2) galiojančio dokumento, suteikiančio teisę verstis veikla su jonizuojančiosios spinduliuotės šaltiniais, išduoto valstybėje narėje, kopiją ir vertimą į lietuvių kalbą;
+
+
+
+
+3) darbuotojų radiacinės saugos programą ir dokumentus, įrodančius, kad verčiantis veikla su jonizuojančiosios spinduliuotės šaltiniais Lietuvos Respublikoje bus užtikrinta žmonių ir aplinkos radiacinė sauga, kaip nustatyta Vyriausybės patvirtintose licencijavimo taisyklėse.
+
+
+
+
+Papildyta straipsniu:
+Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
+ 
+
+
+
+
+83 straipsnis. Dokumentų, pateiktų licencijai ar laikinajam leidimui gauti, nagrinėjimas
+
+
+1. Radiacinės saugos centras per 30 kalendorinių dienų nuo visų licencijai ar laikinajam leidimui išduoti būtinų dokumentų gavimo dienos priima sprendimą išduoti licenciją ar laikinąjį leidimą arba motyvuotą atsisakymą išduoti licenciją ar laikinąjį leidimą ir apie tai raštu informuoja asmenį, kuris pateikė paraišką išduoti licenciją ar prašymą išduoti laikinąjį leidimą.
+
+
+
+
+2. Jeigu asmuo pateikė ne visus licencijai ar laikinajam leidimui išduoti būtinus dokumentus ir per Radiacinės saugos centro nustatytą terminą nepateikė trūkstamų dokumentų, Radiacinės saugos centras informuoja šį asmenį, kad paraiška išduoti licenciją ar prašymas išduoti laikinąjį leidimą paliekami nenagrinėti.
+
+
+
+
+3. Išduoti licenciją ar laikinąjį leidimą atsisakoma, jeigu:
+
+
+1) pateikti dokumentai neatitinka jiems keliamų reikalavimų;
+
+
+
+
+2) valstybinės radiacinės saugos priežiūros metu nustatyta, kad pateikti klaidingi, netikslūs, neišsamūs duomenys.
+
+
+
+
+
+
+4. Atsakymo dėl licencijos ar laikinojo leidimo išdavimo nepateikimas nelaikomas licencijos ar laikinojo leidimo išdavimu.
+
+
+Papildyta straipsniu:
+Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
+ 
+
+
+
+
+84 straipsnis. Licencijos ar laikinojo leidimo patikslinimas, dublikato išdavimas, galiojimo sustabdymas, galiojimo sustabdymo panaikinimas ir galiojimo panaikinimas
+
+
+1. Licencija ar laikinasis leidimas patikslinami, jeigu pasikeičia bent vienas iš šių licencijoje ar laikinajame leidime nurodytų duomenų: juridinio asmens, kitos organizacijos, jų filialo pavadinimas, teisinė forma, kodas, buveinės adresas arba fizinio asmens vardas, pavardė, asmens kodas, gyvenamosios vietos adresas. Apie šiuos pasikeitusius duomenis asmuo, turintis licenciją ar laikinąjį leidimą, privalo pranešti Radiacinės saugos centrui ne vėliau kaip per 10 darbo dienų nuo duomenų pasikeitimo įsigaliojimo dienos ir kartu su dokumentais, patvirtinančiais duomenų pasikeitimą, pateikti prašymą patikslinti licenciją ar laikinąjį leidimą.
+
+
+
+
+2. Asmuo, praradęs licencijos ar laikinojo leidimo originalą, Radiacinės saugos centrui turi pateikti rašytinį motyvuotą paaiškinimą ir prašymą išduoti licencijos ar laikinojo leidimo dublikatą. Radiacinės saugos centras, išnagrinėjęs turimą informaciją, išduoda licencijos ar laikinojo leidimo dublikatą.
+
+
+
+
+3. Licencijos ar laikinojo leidimo galiojimas sustabdomas, jeigu:
+
+
+1) vykdant veiklą pažeidžiami radiacinės saugos ar jonizuojančiosios spinduliuotės šaltinių fizinės saugos reikalavimai, dėl kurių kyla grėsmė žmonių sveikatai ar gyvybei, daroma žala aplinkai;
+
+
+
+
+2) asmuo, turintis licenciją ar laikinąjį leidimą, nustatyta tvarka laiku ir išsamiai neinformavo Radiacinės saugos centro apie įvykusią radiacinę avariją ir nesiėmė priemonių, kad būtų pašalintas jos kenksmingas poveikis žmonių sveikatai ir aplinkai bei padariniai;
+
+
+
+
+3) asmuo, turintis licenciją ar laikinąjį leidimą, Vyriausybės patvirtintų licencijavimo taisyklių nustatyta tvarka įspėtas dėl radiacinę saugą reglamentuojančių teisės aktų pažeidimų ir (ar) trūkumų, per Radiacinės saugos centro nurodytą laiką šių pažeidimų ir (ar) trūkumų nepašalina;
+
+
+
+
+4) asmuo, turintis licenciją ar laikinąjį leidimą, pats kreipiasi su prašymu sustabdyti licencijos ar laikinojo leidimo galiojimą.
+
+
+
+
+
+
+4. Licencijos ar laikinojo leidimo galiojimo sustabdymas panaikinamas, jeigu asmuo, turintis licenciją ar laikinąjį leidimą, pateikia Radiacinės saugos centrui:
+
+
+1) prašymą panaikinti licencijos ar laikinojo leidimo galiojimo sustabdymą;
+
+
+
+
+2) dokumentus ir kitą informaciją, patvirtinančius, kad radiacinę saugą reglamentuojančių teisės aktų pažeidimai ir (ar) trūkumai, dėl kurių sustabdytas licencijos ar laikinojo leidimo galiojimas, pašalinti (išskyrus šio straipsnio 3 dalies 4 punkte nurodytą atvejį).
+
+
+
+
+
+
+5. Licencijos ar laikinojo leidimo galiojimas panaikinamas, jeigu:
+
+
+1) asmuo, turintis licenciją ar laikinąjį leidimą, nusprendžia nutraukti veiklą ir raštu kreipiasi į Radiacinės saugos centrą su prašymu panaikinti licencijos ar laikinojo leidimo galiojimą;
+
+
+
+
+2) asmuo, turintis licenciją ar laikinąjį leidimą, per Radiacinės saugos centro nurodytą laiką nepašalina pažeidimų ir (ar) trūkumų, dėl kurių šio straipsnio 3 dalies 1, 2 ir 3 punktuose nustatytais pagrindais sustabdytas licencijos ar laikinojo leidimo galiojimas;
+
+
+
+
+3) juridinis asmuo, kita organizacija ar jų filialas, turintys licenciją ar laikinąjį leidimą, baigiasi likvidavimo arba reorganizavimo būdu, fizinis asmuo, turintis licenciją ar laikinąjį leidimą, mirė.
+
+
+
+
+Papildyta straipsniu:
+Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
+ 
+
+
+
+
+9 straipsnis. Licencijas, laikinuosius leidimus ir leidimus vežti radioaktyviąsias medžiagas išduodančios institucijos
+
+
+1. Licencijas ir laikinuosius leidimus veiklai, nurodytai šio įstatymo 8 straipsnio 1 dalyje, išskyrus licencijas, kurias išduoda Branduolinės energijos įstatyme nurodytos valstybės institucijos, išduoda, patikslina, jų galiojimą sustabdo, panaikina galiojimo sustabdymą ir panaikina jų galiojimą Radiacinės saugos centras Vyriausybės patvirtintų licencijavimo taisyklių nustatyta tvarka.
+
+
+
+
+2. Leidimus vežti radioaktyviąsias medžiagas, skirtas asmens ir visuomenės sveikatos priežiūros įstaigoms, įmonėms, mokslo ir mokymo įstaigoms bei valstybės ir savivaldybių institucijoms, išduoda Radiacinės saugos centras, o visais kitais atvejais – Sveikatos apsaugos ministerijos teikimu Vyriausybė.
+
+
+Straipsnio pakeitimai:
+Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
+ 
 
 
 
@@ -417,10 +658,10 @@ RADIACINĖS SAUGOS REIKALAVIMAI
  
 
 
-10 straipsnis. Juridinio asmens ar įmonės, neturinčios juridinio asmens teisių, turinčių licenciją, pareigos 
+10 straipsnis. Asmenų, turinčių licenciją ar laikinąjį leidimą, pareigos
 
 
-Juridinis asmuo ar įmonė, neturinti juridinio asmens teisių, turintys licenciją verstis šio įstatymo 8 straipsnio 1 dalyje nurodyta veikla ir vykdantys licencijoje nurodytą veiklą, privalo:
+Asmenys, turintys licenciją ar laikinąjį leidimą, privalo:
 
 
 1) užtikrinti jonizuojančiosios spinduliuotės šaltinių sąrašo sudarymą, tinkamą jų techninę būklę ir saugumą bei saugų naudojimą ir teisės aktų nustatyta tvarka perduoti informaciją apie turimus jonizuojančiosios spinduliuotės šaltinius Valstybės jonizuojančiosios spinduliuotės šaltinių ir darbuotojų apšvitos registrui;
@@ -428,17 +669,17 @@ Juridinis asmuo ar įmonė, neturinti juridinio asmens teisių, turintys licenci
 
 
 
-2) kiek įmanoma mažinti darbuotojų apšvitą;
+2) kiek įmanoma mažinti darbuotojų apšvitą; 
 
 
 
 
-3) jei ten, kur vyksta veikla, lankosi gyventojai arba laikinai dirba kitų įmonių, įstaigų ar organizacijų darbuotojai, užtikrinti radiacinę šių asmenų saugą pagal šio įstatymo ir kitų radiacinės saugos teisės aktų reikalavimus;
+3) jeigu ten, kur vyksta veikla, lankosi gyventojai arba laikinai dirba kitų įmonių, įstaigų ar organizacijų darbuotojai, užtikrinti radiacinę šių asmenų saugą pagal šio įstatymo ir kitų radiacinę saugą reglamentuojančių teisės aktų reikalavimus;
 
 
 
 
-4) šio įstatymo ir kitų radiacinės saugos teisės aktų reikalavimams įgyvendinti bei jų įgyvendinimo priežiūrai skirti išmokytus atsakingus asmenis arba steigti radiacinės saugos padalinius;
+4) šio įstatymo ir kitų radiacinę saugą reglamentuojančių teisės aktų reikalavimams įgyvendinti ir jų įgyvendinimo priežiūrai skirti išmokytus atsakingus asmenis arba steigti radiacinės saugos padalinius;
 
 
 
@@ -448,7 +689,7 @@ Juridinis asmuo ar įmonė, neturinti juridinio asmens teisių, turintys licenci
 
 
 
-6) atlikti darbuotojų apšvitos bei darbo vietų monitoringą Radiacinės saugos centro nustatyta tvarka;
+6) atlikti darbuotojų apšvitos ir darbo vietų monitoringą Radiacinės saugos centro nustatyta tvarka;
 
 
 
@@ -458,7 +699,7 @@ Juridinis asmuo ar įmonė, neturinti juridinio asmens teisių, turintys licenci
 
 
 
-8) savo iniciatyva ar įgaliotų valstybės valdymo, kontrolės ir savivaldos vykdomųjų institucijų reikalavimu nutraukti veiklą, kuri neatitinka radiacinės saugos reikalavimų;
+8) savo iniciatyva ar įgaliotų valstybės valdymo, kontrolės ir savivaldybių vykdomųjų institucijų reikalavimu nutraukti veiklą, kuri neatitinka radiacinę saugą reglamentuojančių teisės aktų reikalavimų; 
 
 
 
@@ -478,27 +719,34 @@ Juridinis asmuo ar įmonė, neturinti juridinio asmens teisių, turintys licenci
 
 
 
-12) imtis prevencinių radiacinės avarijos priemonių, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka laiku ir išsamiai informuoti Lietuvos Respublikos gyventojus bei valstybės valdymo ir kontrolės bei savivaldos vykdomąsias institucijas apie galimą veiklos pavojų, taip pat, įvykus radiacinei avarijai, imtis veiksmų ir priemonių , kad būtų pašalintos kenksmingos žmonių sveikatai ir aplinkai priežastys bei padariniai, šio bei kitų įstatymų nustatyta tvarka atlyginti už žalą, padarytą žmonių sveikatai ir aplinkai dėl radiacinės saugos teisės norminių aktų pažeidimo, dėl kurio kaltas juridinis asmuo ar įmonė, neturinti juridinio asmens teisių, turinti licenciją;
+12) imtis prevencinių radiacinės avarijos priemonių, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka laiku ir išsamiai informuoti Lietuvos Respublikos gyventojus ir valstybės valdymo ir kontrolės bei savivaldybių vykdomąsias institucijas apie galimą veiklos su jonizuojančiosios spinduliuotės šaltiniais pavojų, taip pat, įvykus radiacinei avarijai, imtis veiksmų ir priemonių, kad būtų pašalintos kenksmingo poveikio žmonių sveikatai ir aplinkai priežastys bei padariniai, šio ir kitų įstatymų nustatyta tvarka atlyginti žalą, padarytą žmonių sveikatai ir aplinkai dėl radiacinę saugą reglamentuojančių teisės aktų pažeidimo, dėl kurio kaltas asmuo, turintis licenciją ar laikinąjį leidimą;
 
 
 
 
-13) teisės aktų nustatyta tvarka paženklinti jonizuojančiosios spinduliuotės šaltinius ir konteinerius, kuriuose laikomi jonizuojančiosios spinduliuotės šaltiniai, bei pateikti jų vartotojams informaciją apie apsaugą nuo jonizuojančiosios spinduliuotės;
+13) teisės aktų nustatyta tvarka paženklinti jonizuojančiosios spinduliuotės šaltinius ir konteinerius, kuriuose laikomi jonizuojančiosios spinduliuotės šaltiniai, ir pateikti jų vartotojams informaciją apie apsaugą nuo jonizuojančiosios spinduliuotės;
 
 
 
 
-14) šio įstatymo ir kitų teisės aktų nustatyta tvarka turintieji teisę parduoti ar perduoti naudoti jonizuojančiosios spinduliuotės šaltinius įsitikinti, kad juridinis asmuo ar įmonė, neturinti juridinio asmens teisių, kuriai parduodami ar perduodami šie jonizuojančiosios spinduliuotės šaltiniai, turi licenciją juos naudoti;
+14) šio įstatymo ir kitų teisės aktų nustatyta tvarka turėdami teisę parduoti ar perduoti naudoti jonizuojančiosios spinduliuotės šaltinius, įsitikinti, kad jonizuojančiosios spinduliuotės šaltinių pirkėjas ar turėtojas, kuriems parduodami ar perduodami šie jonizuojančiosios spinduliuotės šaltiniai, turi licenciją ar laikinąjį leidimą juos naudoti;
 
 
 
 
-15) vykdyti kitas pareigas, nustatytas kituose įstatymuose bei teisės aktuose.
+15) kreiptis į Radiacinės saugos centrą dėl asmens, atsakingo už I, II, III pavojingumo kategorijos uždarųjų jonizuojančiosios spinduliuotės šaltinių fizinę saugą, ir darbuotojų, vežančių I, II, III pavojingumo kategorijos uždaruosius jonizuojančiosios spinduliuotės šaltinius, patikimumo patikrinimo organizavimo;
+
+
+
+
+16) vykdyti kitas pareigas, nustatytas kituose įstatymuose ir teisės aktuose.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
  
-
-
-
-
 
 
 
@@ -532,7 +780,10 @@ Darbuotojai privalo naudotis reikiama radiacinės saugos bei saugumo įranga, im
 
 
 
-13 straipsnis. Apribojimai paaugliams, nėščioms ir maitinančioms moterims dirbti darbus su jonizuojančiosios spinduliuotės šaltiniais
+13 straipsnis. Apribojimai paaugliams, nėščioms ir krūtimi maitinančioms moterims dirbti darbus su jonizuojančiosios spinduliuotės šaltiniais 
+Pakeistas straipsnio pavadinimas:
+Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
+ 
 
 
 1. Darbą, susijusį su jonizuojančiosios spinduliuotės šaltiniais, gali dirbti asmenys, vyresni kaip 18 metų.
@@ -545,12 +796,17 @@ Darbuotojai privalo naudotis reikiama radiacinės saugos bei saugumo įranga, im
 
 
 
-3. Darbdavys nėščiajai privalo suteikti tokį darbą, kad vaisiaus apšvita nėštumo metu neviršytų Sveikatos apsaugos ministerijos patvirtinto gyventojų apšvitos lygio, Žmonių saugos darbe bei Darbo sutarties įstatymų nustatyta tvarka.
+3. Darbdavys Darbo kodekso nustatyta tvarka privalo suteikti nėščiai moteriai tokį darbą, kad vaisiaus apšvita nėštumo metu neviršytų Sveikatos apsaugos ministerijos nustatyto gyventojų apšvitos lygio. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
+ 
 
 
 
 
-4. Darbdavys krūtimi maitinančiai moteriai privalo suteikti tokį darbą, kad nebūtų organizmo radioaktyviojo užteršimo pavojaus, Žmonių saugos darbe bei Darbo sutarties įstatymų nustatyta tvarka.
+4. Darbdavys Darbo kodekso nustatyta tvarka privalo suteikti krūtimi maitinančiai moteriai tokį darbą, kad nebūtų organizmo radioaktyviojo užteršimo pavojaus.
+Straipsnio dalies pakeitimai:
+Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
  
 
 
@@ -561,12 +817,18 @@ Darbuotojai privalo naudotis reikiama radiacinės saugos bei saugumo įranga, im
 14 straipsnis. Darbuotojų sveikatos tikrinimas
 
 
-1. Darbuotojams privalomas išankstinis (prieš įstojant į darbą) ir periodinis sveikatos patikrinimas. Į darbus, susijusius su jonizuojančiąja spinduliuote, asmenys gali būti priimami tik pasitikrinę sveikatą Sveikatos apsaugos ministerijos nustatyta tvarka ir turintys medicinos komisijos išvadas, kad sveikatos būklė jiems leidžia dirbti tokio pobūdžio darbus.
+1. Darbuotojams privalomas išankstinis (prieš pradedant dirbti) ir periodinis sveikatos patikrinimas. Į darbus, susijusius su jonizuojančiąja spinduliuote, asmenys gali būti priimami tik pasitikrinę sveikatą Sveikatos apsaugos ministerijos nustatyta tvarka ir turintys medicinos komisijos išvadas, kad sveikatos būklė jiems leidžia dirbti tokio pobūdžio darbus. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
+ 
 
 
 
 
-2. Jei darbuotojui konstatuoti ligos simptomai, kurie gali būti susiję su jonizuojančiosios spinduliuotės poveikiu, arba konstatuotas faktas ar įtarta, kad darbuotojo apšvita viršijo nustatytus lygius, tol, kol bus ištirtos ligos ar padidintos apšvitos priežastys bei aplinkybės ir Radiacinės saugos centras duos sutikimą darbuotojui tęsti darbą, darbdaviai privalo suteikti kitą darbą, nesusietą su veikla, Darbo sutarties ir Žmonių saugos darbe įstatymų nustatyta tvarka.
+2. Jei darbuotojui konstatuoti ligos simptomai, kurie gali būti susiję su jonizuojančiosios spinduliuotės poveikiu, arba konstatuotas faktas ar įtarta, kad darbuotojo apšvita viršijo nustatytus lygius, tol, kol bus ištirtos ligos ar padidintos apšvitos priežastys ir aplinkybės ir Radiacinės saugos centras duos sutikimą darbuotojui tęsti darbą, darbdavys privalo suteikti kitą darbą, nesusietą su veikla, Darbo kodekso nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
+ 
 
 
 
@@ -579,25 +841,39 @@ Darbuotojai privalo naudotis reikiama radiacinės saugos bei saugumo įranga, im
 
 
 
-15 straipsnis. Privalomasis darbuotojų bei valdininkų mokymas
+15 straipsnis. Privalomasis radiacinės saugos mokymas 
+Pakeistas straipsnio pavadinimas:
+Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
+ 
 
 
 1. Lietuvos Respublikoje radiacinės saugos turi būti mokomi:
 
 
-1) įmonių, įstaigų ir organizacijų darbuotojai, dirbantys su jonizuojančiosios spinduliuotės šaltiniais;
+1) juridinių asmenų, kitų organizacijų, jų filialų darbuotojai, dirbantys su jonizuojančiosios spinduliuotės šaltiniais;
 
 
 
 
-2) valstybės ir savivaldybių valdininkai, dirbantys ekstremalių situacijų valdymo srityje.
+2) valstybės ir savivaldybių institucijų ir įstaigų valstybės tarnautojai ir pagal darbo sutartis dirbantys darbuotojai, dirbantys ekstremalių situacijų valdymo srityje;
 
 
 
 
+3) darbuotojai, dirbantys pagal darbo sutartis, pareigūnai, įmonių, įstaigų, organizacijų vadovai ar jų įgalioti asmenys ir kiti asmenys, kurių darbas (veikla) susijęs (susijusi) su paliktųjų jonizuojančiosios spinduliuotės šaltinių ir radionuklidais užterštų objektų aptikimu. 
 
 
-2. Darbdaviai privalo savo lėšomis organizuoti šio straipsnio 1 dalyje nurodytų darbuotojų, o valstybės valdymo, kontrolės ir savivaldos vykdomosios institucijos - valdininkų mokymą. Šio straipsnio 1 dalies 1 punkte nurodytų darbuotojų mokymo ir žinių patikrinimo periodiškumą ir tvarką nustato Sveikatos apsaugos ministerija, o šio straipsnio 1 dalies 2 punkte nurodytų valdininkų – Civilinės saugos departamentas prie Krašto apsaugos ministerijos.
+Straipsnio dalies pakeitimai:
+Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
+ 
+
+
+
+
+2. Darbdaviai privalo savo lėšomis organizuoti šio straipsnio 1 dalies 1 ir 3 punktuose nurodytų asmenų radiacinės saugos mokymą Sveikatos apsaugos ministerijos nustatyta tvarka, o šio straipsnio 1 dalies 2 punkte nurodytų asmenų radiacinės saugos mokymą – Vyriausybės nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
+ 
 
 
 
@@ -652,7 +928,9 @@ Radioaktyviosios atliekos turi būti surenkamos, rūšiuojamos, apdorojamos, lai
 
 
 
-2. Juridinis asmuo ar įmonė, neturinti juridinio asmens teisių, turintys licenciją verstis veikla, nurodyta šio įstatymo 8 straipsnio 1 dalyje, privalo užtikrinti, kad jonizuojančiosios spinduliuotės generatoriai, baigus jų eksploataciją, būtų nepavojingi žmonių sveikatai.
+2. Asmenys, turintys licenciją ar laikinąjį leidimą, privalo užtikrinti, kad jonizuojančiosios spinduliuotės generatoriai, baigus jų eksploataciją, būtų nepavojingi žmonių sveikatai.
+Straipsnio dalies pakeitimai:
+Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
  
 
 
@@ -740,7 +1018,10 @@ MEDICININĖS APŠVITOS PROCEDŪRŲ RADIACINĖS SAUGOS REIKALAVIMAI
 22 straipsnis. Medicininės apšvitos procedūrų radiacinės saugos reikalavimai
 
 
-1. Juridinis asmuo ar įmonė, neturinti juridinio asmens teisių, besiverčiantys medicininę apšvitą lemiančia veikla, turi imtis priemonių, kad naudojama įranga, medžiagos, pagalbinės priemonės atitiktų nustatytus radiacinės saugos reikalavimus, personalas turėtų reikiamą kvalifikaciją bei būtų sukurtos ir vykdomos kokybės užtikrinimo programos, o pacientų apšvita būtų kuo mažesnė.
+1. Asmenys, turintys licenciją ar laikinąjį leidimą, besiverčiantys medicininę apšvitą lemiančia veikla, turi imtis priemonių, kad naudojama įranga, medžiagos, pagalbinės priemonės atitiktų nustatytus radiacinės saugos reikalavimus, personalas turėtų reikiamą kvalifikaciją bei būtų sukurtos ir vykdomos kokybės užtikrinimo programos, o pacientų apšvita būtų kuo mažesnė.
+Straipsnio dalies pakeitimai:
+Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
+ 
 
 
 
@@ -773,10 +1054,12 @@ ATSAKOMYBĖ
 23 straipsnis. Atsakomybė už teisės aktų, reglamentuojančių radiacinės saugos reikalavimus, pažeidimus
 
 
-Juridiniai ir fiziniai asmenys, įmonės, neturinčios juridinio asmens teisių, pažeidę radiacinę saugą reglamentuojančius teisės aktus, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
+Fiziniai ir juridiniai asmenys, kitos organizacijos, juridinių asmenų ir kitų organizacijų filialai, pažeidę radiacinę saugą reglamentuojančius teisės aktus, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
  
-
-
 
 
 
@@ -789,7 +1072,10 @@ Juridiniai ir fiziniai asmenys, įmonės, neturinčios juridinio asmens teisių,
 
 
 
-2. Rengiant Lietuvos Respublikos tarptautinių sutarčių ar atskirų jų nuostatų, susijusių su valstybės radiacinės saugos klausimais, projektus, privalo dalyvauti Aplinkos ministerijos, Civilinės saugos departamento prie Krašto apsaugos ministerijos, Radiacinės saugos centro, Valstybinės atominės energetikos saugos inspekcijos ir Vidaus reikalų ministerijos įgalioti atstovai.
+2. Rengiant Lietuvos Respublikos tarptautinių sutarčių ar atskirų jų nuostatų, susijusių su valstybės radiacinės saugos klausimais, projektus, privalo dalyvauti Aplinkos ministerijos, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos, Radiacinės saugos centro, Valstybinės atominės energetikos saugos inspekcijos ir Vidaus reikalų ministerijos įgalioti atstovai.
+Straipsnio dalies pakeitimai:
+Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
+ 
 
 
 
@@ -900,3 +1186,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2115, 2004-04-13, Žin., 2004, Nr. 60-2123 (2004-04-24), i. k. 1041010ISTA0IX-2115
 Lietuvos Respublikos radiacinės saugos įstatymo 9, 11 ir 19 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1019, 2010-09-21, Žin., 2010, Nr. 119-6043 (2010-10-07), i. k. 1101010ISTA0XI-1019
+Lietuvos Respublikos radiacinės saugos įstatymo 1, 2, 5, 7, 8, 9, 10, 13, 14, 15, 18, 22, 23, 24 straipsnių pakeitimo ir papildymo bei įstatymo papildymo 8-1, 8-2, 8-3 ir 8-4 straipsniais įstatymas
