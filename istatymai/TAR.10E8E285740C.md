@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.10E8E285740C"
 
 # Lietuvos Respublikos medicinos praktikos įstatymas
 
-Suvestinė redakcija nuo 2008-01-15 iki 2010-12-31
+Suvestinė redakcija nuo 2011-01-01 iki 2012-11-21
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2313, i. k. 0961010ISTA00I-1555
  
@@ -322,7 +322,10 @@ Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010IST
 
 
 
-11. Licencijas išduodanti institucija savo sprendimus išduoti licenciją, sustabdyti licencijos galiojimą, panaikinti licencijos galiojimo sustabdymą, panaikinti licencijos galiojimą skelbia „Valstybės žinių“ priede „Informaciniai pranešimai“.
+11. Licencijas išduodanti institucija informaciją apie savo sprendimus išduoti licenciją, sustabdyti licencijos galiojimą, panaikinti licencijos galiojimo sustabdymą, panaikinti licencijos galiojimą skelbia savo interneto svetainėje.
+Straipsnio dalies pakeitimai:
+Nr. XI-884, 2010-06-08, Žin., 2010, Nr. 71-3556 (2010-06-19), i. k. 1101010ISTA00XI-884
+ 
 
 
 
@@ -700,3 +703,8 @@ Lietuvos Respublikos medicinos praktikos įstatymo, Odontologijos praktikos įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010ISTA00X-1376
 Lietuvos Respublikos medicinos praktikos įstatymo 1, 2, 3, 4 straipsnių ir priedo pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-884, 2010-06-08, Žin., 2010, Nr. 71-3556 (2010-06-19), i. k. 1101010ISTA00XI-884
+Lietuvos Respublikos medicinos praktikos įstatymo 4 straipsnio pakeitimo įstatymas
