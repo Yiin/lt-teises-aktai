@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F617B8D97E05"
 
 # Lietuvos Respublikos konsulinis statutas
 
-Suvestinė redakcija nuo 2010-01-01 iki 2010-12-31
+Suvestinė redakcija nuo 2011-01-01 iki 2012-12-28
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 43-1047, i. k. 0951010ISTA000I-886
  
@@ -763,7 +763,9 @@ Nr. XI-467, 2009-11-12, Žin., 2009, Nr. 141-6190 (2009-11-28), i. k. 1091010IST
 
 
 
-6. Lietuvos Respublikos teismai ne vėliau kaip per 3 dienas nuo sprendimo, apribojančio fizinio asmens veiksnumą ar panaikinančio veiksnumo apribojimus, įsiteisėjimo privalo apie tokį sprendimą informuoti Lietuvos Respublikos užsienio reikalų ministeriją, o ši praneša konsuliniams pareigūnams apie ribotai veiksnius bei neveiksnius asmenis.
+6. Neteko galios nuo 2011-01-01
+Straipsnio dalies naikinimas:
+Nr. XI-1034, 2010-09-23, Žin. 2010, Nr. 126-6459 (2010-10-26), i. k. 1101010ISTA0XI-1034
  
 
 
