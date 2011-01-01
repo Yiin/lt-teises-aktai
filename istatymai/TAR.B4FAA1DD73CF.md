@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FAA1DD73CF"
 
 # Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas
 
-Suvestinė redakcija nuo 2010-01-01 iki 2010-12-31
+Suvestinė redakcija nuo 2011-01-01 iki 2011-12-31
  
 Įstatymas paskelbtas: Žin. 2005, Nr. 76-2741, i. k. 1051010ISTA000X-233
+ 
+TAR pastaba. Juridiniai asmenys, kuriems nuo 2011 m. sausio 1 d. atsiranda prievolė mokėti nekilnojamojo turto mokestį už įsigyjamą nekilnojamąjį turtą, avansinio mokesčio už šį nekilnojamąjį turtą 2011 metų mokestiniu laikotarpiu mokėti neprivalo.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 2, 3, 4, 6, 7, 8, 9, 10, 11, 12 straipsnių pakeitimo ir papildymo įstatymas
  
 LIETUVOS RESPUBLIKOS
 NEKILNOJAMOJO TURTO MOKESČIO
@@ -75,47 +80,81 @@ BENDROSIOS NUOSTATOS
 
 
 
-5. Juridinis asmuo – Lietuvos Respublikos teisės aktų nustatyta tvarka įregistruotas juridinis asmuo, užsienio valstybės juridinis asmuo, taip pat bet kokia užsienio valstybės organizacija, pagal Lietuvos Respublikos ar šios užsienio valstybės įstatymus pripažįstama teisės subjektu.
+5. Įsigyjamas nekilnojamasis turtas – pagal finansinės nuomos (lizingo) sutartį, kurioje numatytas nuosavybės teisės perėjimas, taip pat pagal pirkimo–pardavimo išsimokėtinai ar išperkamosios nuomos sutartį asmens valdomas nekilnojamasis turtas (ar jo dalis). 
+Papildyta straipsnio dalimi:
+Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
+ 
 
 
 
 
-6. Komercinio naudojimo nekilnojamasis turtas – administracinės, maitinimo, paslaugų, prekybos, viešbučių, poilsio, gydymo, kultūros, mokslo ir sporto paskirties statiniai (patalpos).
+6. Juridinis asmuo – Lietuvos Respublikos teisės aktų nustatyta tvarka įregistruotas juridinis asmuo, užsienio valstybės juridinis asmuo, taip pat bet kokia užsienio valstybės organizacija, pagal Lietuvos Respublikos ar šios užsienio valstybės įstatymus pripažįstama teisės subjektu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
+ 
 
 
 
 
-7. Nekilnojamasis turtas – Nekilnojamojo turto registre registruojami patalpos, inžineriniai ir kiti statiniai.
+7. Komercinio naudojimo nekilnojamasis turtas – administracinės, maitinimo, paslaugų, prekybos, viešbučių, poilsio, gydymo, kultūros, mokslo ir sporto paskirties statiniai (patalpos).
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
+ 
 
 
 
 
-8. Nekilnojamojo turto masinis vertinimas – procesas, kai per nustatytą laiką, taikant bendrą metodologiją ir automatizuotas Nekilnojamojo turto registro ir rinkos duomenų bazėse sukauptų duomenų analizės bei vertinimo technologijas, yra įvertinama panašių nekilnojamojo turto objektų grupė. Atlikus nekilnojamojo turto masinį vertinimą, parengiama bendra panašių nekilnojamojo turto objektų grupės vertinimo ataskaita, o kiekvieno nekilnojamojo turto vieneto ataskaita nerengiama.
+8. Nekilnojamasis turtas – Nekilnojamojo turto registre registruojami patalpos, inžineriniai ir kiti statiniai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
+ 
 
 
 
 
-9. Nekilnojamojo turto vidutinė rinkos vertė – tą pačią pagrindinę tikslinę naudojimo paskirtį turinčių nekilnojamojo turto objektų vertė, atspindinti nekilnojamojo turto vidutinę rinkos kainą nagrinėjamoje teritorijoje (zonoje) ir nustatyta masinio vertinimo būdu panaudojant Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme numatytus turto vertinimo metodus.
+9. Nekilnojamojo turto masinis vertinimas – nekilnojamojo turto vertinimo būdas, kai per nustatytą laiką, taikant bendrą metodologiją ir automatizuotas Nekilnojamojo turto registro ir rinkos duomenų bazėse sukauptų duomenų analizės ir vertinimo technologijas, yra įvertinama panašių nekilnojamojo turto objektų grupė. Atlikus nekilnojamojo turto masinį vertinimą, parengiama bendra tam tikroje teritorijoje esančio nekilnojamojo turto vertinimo ataskaita, o kiekvieno nekilnojamojo turto vieneto ataskaita nerengiama. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
+ 
 
 
 
 
-10. Švietimo darbas – veikla, kuri pagal Lietuvos Respublikos švietimo įstatymą laikoma švietimo darbu.
+10. Nekilnojamojo turto vidutinė rinkos vertė – nekilnojamojo turto vertė, nustatyta šio įstatymo 9 straipsnio 2 dalyje nurodytais turto vertinimo metodais ir būdais. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
+ 
 
 
 
 
-11. Turto vertintojas – turtą vertinanti įmonė, tvarkanti Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą.
+11. Švietimo darbas – veikla, kuri pagal Lietuvos Respublikos švietimo įstatymą laikoma švietimo darbu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
+ 
 
 
 
 
-12. Žuvininkystės statiniai – tvenkiniai bei jiems aptarnauti skirti statiniai ir įrenginiai, skirti žuvims veisti ir auginti.
+12. Turto vertintojas – turtą vertinanti įmonė, tvarkanti Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
+ 
 
 
 
 
-13. Šiame įstatyme nurodytos nekilnojamojo turto paskirtys atitinka nekilnojamojo turto paskirtis, nustatytas Nekilnojamojo turto kadastro nuostatuose.
+13. Žuvininkystės statiniai – tvenkiniai bei jiems aptarnauti skirti statiniai ir įrenginiai, skirti žuvims veisti ir auginti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
+ 
+
+
+
+
+14. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos (prioriteto tvarka) Lietuvos Respublikos mokesčių administravimo įstatyme, Lietuvos Respublikos civiliniame kodekse ir Lietuvos Respublikos statybos įstatyme. Šiame įstatyme nurodyta nekilnojamojo turto paskirtis atitinka nekilnojamojo turto paskirtį, nustatytą Nekilnojamojo turto kadastro nuostatuose ir statybą reglamentuojančiuose norminiuose teisės aktuose. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
  
 
 
@@ -126,10 +165,22 @@ BENDROSIOS NUOSTATOS
 3 straipsnis. Mokesčio mokėtojai
 
 
-Mokestį moka fiziniai ir juridiniai asmenys.
+1. Mokestį moka nekilnojamojo turto savininkai – fiziniai ir juridiniai asmenys, išskyrus šio straipsnio 2 ir 3 dalyse nurodytus atvejus.
+
+
+
+
+2. Mokestį už įsigyjamą nekilnojamąjį turtą moka šį turtą įsigyjantis fizinis ar juridinis asmuo, jeigu duomenys apie atitinkamą sandorį yra įrašyti viešajame valstybės registre.
+
+
+
+
+3. Nekilnojamojo turto mokestį už juridiniam asmeniui neterminuotai ar ilgesniam kaip vieno mėnesio laikotarpiui perduotą naudotis nekilnojamąjį turtą (arba jo dalį), nuosavybės teise priklausantį fiziniam asmeniui (asmenims) arba jo (jų) įsigyjamą, tuo laikotarpiu moka šis juridinis asmuo. 
+
+
+Straipsnio pakeitimai:
+Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
  
-
-
 
 
 
@@ -137,20 +188,27 @@ Mokestį moka fiziniai ir juridiniai asmenys.
 4 straipsnis. Mokesčio objektas
 
 
-Mokesčio objektas yra:
+Mokesčio objektas yra nekilnojamasis turtas, esantis Lietuvos Respublikoje, išskyrus:
 
 
-1) fiziniams asmenims nuosavybės teise priklausantis nekilnojamasis turtas (arba jo dalis), esantis Lietuvos Respublikos teritorijoje, išskyrus gyvenamosios, sodų, garažų, fermų, šiltnamių, ūkio, pagalbinio ūkio, mokslo, religinės, poilsio paskirties statinius (patalpas), žuvininkystės statinius bei inžinerinius statinius, jeigu jie nėra ekonominei ar individualiai veiklai naudojamas nekilnojamasis turtas arba nėra neterminuotai ar ilgesniam kaip vieno mėnesio laikotarpiui perduoti naudotis juridiniams asmenims;
+1) faktiškai nenaudojamą nekilnojamąjį turtą, kurio statyba neužbaigta Lietuvos Respublikos statybos įstatymo nustatyta tvarka;
 
 
 
 
-2) juridiniams asmenims nuosavybės teise priklausantis nekilnojamasis turtas, esantis Lietuvos Respublikoje.
+2) fiziniams asmenims nuosavybės teise priklausančius ir jų įsigyjamus gyvenamosios, sodų, garažų, fermų, šiltnamių, ūkio, pagalbinio ūkio, mokslo, religinės, poilsio paskirties statinius (patalpas), žuvininkystės statinius ir inžinerinius statinius, jeigu jie yra ekonominei ar individualiai veiklai nenaudojamas nekilnojamasis turtas arba yra neterminuotai ar ilgesniam kaip vieno mėnesio laikotarpiui neperduoti naudotis juridiniams asmenims;
+
+
+
+
+3) valdžios ir privataus subjektų partnerystės, kaip tai apibrėžta Lietuvos Respublikos investicijų įstatyme, pagrindu sukurtą ar įgytą nekilnojamąjį turtą, kol vykdoma atitinkama valdžios ir privataus subjektų partnerystės sutartis ir šis nekilnojamasis turtas naudojamas pagal toje sutartyje nustatytą paskirtį. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
  
-
-
-
-
 
 
 
@@ -174,16 +232,17 @@ Mokesčio mokestinis laikotarpis yra kalendoriniai metai.
 
 
 
-2. Konkretų mokesčio tarifą, kuris galios atitinkamos savivaldybės teritorijoje nuo kito mokestinio laikotarpio pradžios, savivaldybės taryba nustato iki einamojo mokestinio laikotarpio birželio 1 dienos. Savivaldybės taryba gali nustatyti ir kelis konkrečius mokesčių tarifus, kurie diferencijuojami tik atsižvelgiant į vieną arba kelis iš šių kriterijų: nekilnojamojo turto paskirtį, jo techninės priežiūros būklę, mokesčio mokėtojų kategorijas (dydį ar teisinę formą, ar socialinę padėtį) ar nekilnojamojo turto buvimo savivaldybės teritorijoje vietą (pagal strateginio planavimo ir teritorijų planavimo dokumentuose nustatytus prioritetus).
+2. Konkretų mokesčio tarifą, kuris galios atitinkamos savivaldybės teritorijoje nuo kito mokestinio laikotarpio pradžios, savivaldybės taryba nustato iki einamojo mokestinio laikotarpio birželio 1 dienos. Jeigu, vadovaujantis šio įstatymo 9 straipsnio 3 dalimi, nuo kito mokestinio laikotarpio mokestis už šio įstatymo 9 straipsnio 2 dalies 1 ir 2 punktuose nurodytą nekilnojamąjį turtą bus skaičiuojamas taikant naujai atlikto nekilnojamojo turto masinio vertinimo metu nustatytą vertę, kitą mokestinį laikotarpį galiosiantį mokesčio tarifą savivaldybės taryba gali nustatyti iki einamojo mokestinio laikotarpio gruodžio 1 dienos. Savivaldybės taryba gali nustatyti ir kelis konkrečius mokesčio tarifus, kurie diferencijuojami tik atsižvelgiant į vieną arba kelis iš šių kriterijų: nekilnojamojo turto paskirtį, naudojimą, teisinį statusą, jo technines savybes, priežiūros būklę, mokesčio mokėtojų kategorijas (dydį ar teisinę formą, ar socialinę padėtį) ar nekilnojamojo turto buvimo savivaldybės teritorijoje vietą (pagal strateginio planavimo ir teritorijų planavimo dokumentuose nustatytus prioritetus).
 
 
 
 
-3. Jeigu savivaldybės taryba iki birželio 1 dienos nenustato konkrečių mokesčio tarifų, kitą mokestinį laikotarpį taikomi praėjusio mokestinio laikotarpio mokesčio tarifai. 
+3. Jeigu savivaldybės taryba iki šio straipsnio 2 dalyje nurodytų terminų nenustato konkrečių mokesčio tarifų arba po šio straipsnio 2 dalyje nurodytų terminų keičia nustatytus mokesčio tarifus, atitinkamą mokestinį laikotarpį tos savivaldybės teritorijoje taikomas 0,3 procento mokesčio tarifas. 
 
 
 Straipsnio pakeitimai:
 Nr. X-618, 2006-05-25, Žin., 2006, Nr. 65-2384 (2006-06-10), i. k. 1061010ISTA000X-618
+Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
  
 
 
@@ -192,19 +251,15 @@ Nr. X-618, 2006-05-25, Žin., 2006, Nr. 65-2384 (2006-06-10), i. k. 1061010ISTA0
 7 straipsnis. Mokesčio lengvatos
 
 
-1. Mokesčiu neapmokestinamas šis fiziniams asmenims nuosavybės teise priklausantis nekilnojamasis turtas:
+1. Mokesčiu neapmokestinamas nekilnojamasis turtas, už kurį mokestį pagal šio įstatymo 3 straipsnį moka fizinis asmuo:
 
 
-1) nekilnojamasis turtas (arba jo dalis), fizinio asmens naudojamas kulto apeigų reikmenų gamybai, taip pat socialinei globai bei rūpybai;
+1) nekilnojamasis turtas (arba jo dalis), fizinio asmens naudojamas kulto apeigų reikmenų gamybai, taip pat socialinei globai ir socialinei priežiūrai;
 
 
 
 
-2) nekilnojamasis turtas (arba jo dalis), fizinio asmens naudojamas pajamoms iš žemės ūkio veiklos, kaip tai apibrėžta Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 2 straipsnio 33 dalyje, gauti (uždirbti); 
-TAR pastaba. 2 punkto nuostatos taikomos apskaičiuojant 2009 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokestį.
-Straipsnio punkto pakeitimai:
-Nr. XI-177, 2009-02-19, Žin., 2009, Nr. 25-979 (2009-03-05), i. k. 1091010ISTA00XI-177
- 
+2) nekilnojamasis turtas (arba jo dalis), fizinio asmens naudojamas pajamoms iš žemės ūkio veiklos, kaip tai apibrėžta Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 2 straipsnio 33 dalyje, gauti (uždirbti);
 
 
 
@@ -219,14 +274,17 @@ Nr. XI-177, 2009-02-19, Žin., 2009, Nr. 25-979 (2009-03-05), i. k. 1091010ISTA0
 
 
 
-5) nekilnojamasis turtas (arba jo dalis), fizinio asmens, turinčio meno kūrėjo statusą, naudojamas kaip kūrybinės dirbtuvės (studijos) individualiai kūrybinei veiklai.
+5) nekilnojamasis turtas (arba jo dalis), fizinio asmens, turinčio meno kūrėjo statusą, naudojamas kaip kūrybinės dirbtuvės (studijos) individualiai kūrybinei veiklai. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
+ 
 
 
 
 
-
-
-2. Mokesčiu neapmokestinamas šis juridiniams asmenims nuosavybės teise priklausantis nekilnojamasis turtas arba juridiniams asmenims neterminuotai arba ilgesniam kaip vieno mėnesio laikotarpiui perduotas naudotis nekilnojamasis turtas (arba jo dalis), nuosavybės teise priklausantis fiziniams asmenims:
+2. Mokesčiu neapmokestinamas nekilnojamasis turtas, už kurį mokestį pagal šio įstatymo 3 straipsnį moka juridinis asmuo:
 
 
 1) užsienio valstybių diplomatinių atstovybių ir konsulinių įstaigų, tarptautinių tarpvyriausybinių organizacijų ar jų atstovybių nekilnojamasis turtas;
@@ -239,17 +297,17 @@ Nr. XI-177, 2009-02-19, Žin., 2009, Nr. 25-979 (2009-03-05), i. k. 1091010ISTA0
 
 
 
-3) valstybės ir savivaldybės įmonių, veikiančių pagal Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymą, nekilnojamasis turtas;
+3) laisvųjų ekonominių zonų įmonių nekilnojamasis turtas;
 
 
 
 
-4) biudžetinių įstaigų, veikiančių pagal Lietuvos Respublikos biudžetinių įstaigų įstatymą, nekilnojamasis turtas;
+4) bankrutavusių įmonių nekilnojamasis turtas;
 
 
 
 
-5) laisvųjų ekonominių zonų įmonių nekilnojamasis turtas;
+5) tradicinių religinių bendruomenių, bendrijų ir centrų nekilnojamasis turtas, o kitų religinių bendruomenių, bendrijų ir centrų nekilnojamasis turtas (arba jo dalis), naudojamas tik nekomercinei veiklai arba kulto apeigų reikmenų gamybai;
 
 
 
@@ -259,98 +317,80 @@ Nr. XI-177, 2009-02-19, Žin., 2009, Nr. 25-979 (2009-03-05), i. k. 1091010ISTA0
 
 
 
-7) bankrutavusios įmonės nekilnojamasis turtas;
+7) nekilnojamasis turtas (arba jo dalis), naudojamas laidojimo paslaugoms arba esantis kapinių teritorijoje;
 
 
 
 
-8) tradicinių religinių bendruomenių, bendrijų ir centrų nekilnojamasis turtas, o kitų religinių bendruomenių, bendrijų ir centrų nekilnojamasis turtas (ar jo dalis), naudojamas tik nekomercinei veiklai arba kulto apeigų reikmenų gamybai; 
-Straipsnio punkto pakeitimai:
-Nr. X-878, 2006-10-24, Žin., 2006, Nr. 119-4549 (2006-11-07), i. k. 1061010ISTA000X-878
+8) neįgaliųjų asociacijų, įmonių ir įstaigų, kurių dalyviai yra tik neįgaliųjų asociacijos, nekilnojamasis turtas;
+
+
+
+
+9) juridinių asmenų, kurių daugiau kaip 50 procentų pajamų per mokestinį laikotarpį sudaro pajamos iš žemės ūkio veiklos, kaip tai apibrėžta Lietuvos Respublikos pelno mokesčio įstatymo 2 straipsnio 281 dalyje, nekilnojamasis turtas;
+
+
+
+
+10) daugiabučių namų savininkų bendrijų, namų statybos bendrijų, garažų eksploatavimo ir sodininkų bendrijų nekilnojamasis turtas (arba jo dalis), naudojamas tik nekomercinei veiklai; 
+
+
+
+
+11) labdaros ir paramos fondų, veikiančių pagal Lietuvos Respublikos labdaros ir paramos fondų įstatymą, nekilnojamasis turtas (arba jo dalis), naudojamas tik nekomercinei veiklai;
+
+
+
+
+12) mokslo ir studijų institucijų, nurodytų Lietuvos Respublikos mokslo ir studijų įstatyme, nekilnojamasis turtas;
+
+
+
+
+13) švietimo įstaigų, nurodytų Lietuvos Respublikos švietimo įstatyme, nekilnojamasis turtas;
+
+
+
+
+14) socialines paslaugas teikiančių įstaigų, veikiančių pagal Lietuvos Respublikos socialinių paslaugų įstatymą, nekilnojamasis turtas;
+
+
+
+
+15) profesinių sąjungų nekilnojamasis turtas (arba jo dalis), naudojamas tik nekomercinei profesinių sąjungų įstatuose numatytai veiklai;
+
+
+
+
+16) juridinių asmenų, veikiančių pagal Lietuvos Respublikos asociacijų įstatymą, nekilnojamasis turtas (arba jo dalis), naudojamas tik nekomercinei veiklai;
+
+
+
+
+17) Lietuvos banko nekilnojamasis turtas;
+
+
+
+
+18) juridinių asmenų, veikiančių pagal Lietuvos Respublikos meno kūrėjų ir meno kūrėjų organizacijų statuso įstatymą, nekilnojamasis turtas;
+
+
+
+
+19) nekilnojamasis turtas (arba jo dalis), naudojamas teikiant tik sveikatos priežiūros paslaugas. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
  
 
 
 
 
-9) nekilnojamasis turtas (ar jo dalis), naudojamas laidojimo paslaugoms arba esantis kapinių teritorijoje;
-
-
-
-
-10) neįgaliųjų asociacijų, įmonių ir įstaigų, kurių dalyviai yra tik neįgaliųjų asociacijos, nekilnojamasis turtas; 
-Straipsnio punkto pakeitimai:
-Nr. XI-576, 2009-12-17, Žin., 2009, Nr. 154-6954 (2009-12-28), i. k. 1091010ISTA00XI-576
+3. Neteko galios 2011-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
  
-
-
-
-
-11) juridinių asmenų, kurių daugiau kaip 50 procentų pajamų per mokestinį laikotarpį sudaro pajamos iš žemės ūkio veiklos, kaip tai apibrėžta Lietuvos Respublikos pelno mokesčio įstatymo 2 straipsnio 281 dalyje, nekilnojamasis turtas; 
-TAR pastaba. 11 punkto nuostatos taikomos apskaičiuojant 2009 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokestį.
-Straipsnio punkto pakeitimai:
-Nr. XI-177, 2009-02-19, Žin., 2009, Nr. 25-979 (2009-03-05), i. k. 1091010ISTA00XI-177
- 
-
-
-
-
-12) daugiabučių namų savininkų bendrijų, namų statybos bendrijų, garažų eksploatavimo ir sodininkų bendrijų nekilnojamasis turtas (ar jo dalis), naudojamas tik nekomercinei veiklai; 
-
-
-
-
-13) labdaros ir paramos fondų, veikiančių pagal Lietuvos Respublikos labdaros ir paramos fondų įstatymą, nekilnojamasis turtas (ar jo dalis), naudojamas tik nekomercinei veiklai;
-
-
-
-
-14) mokslo ir studijų institucijų, išvardytų Lietuvos Respublikos mokslo ir studijų įstatyme, nekilnojamasis turtas;
-
-
-
-
-15) švietimo įstaigų, išvardytų Lietuvos Respublikos švietimo įstatyme, nekilnojamasis turtas;
-
-
-
-
-16) socialines paslaugas teikiančių įstaigų, veikiančių pagal Lietuvos Respublikos socialinių paslaugų įstatymą, nekilnojamasis turtas;
-
-
-
-
-17) profesinių sąjungų nekilnojamasis turtas (ar jo dalis), naudojamas tik nekomercinei profesinių sąjungų įstatuose numatytai veiklai;
-
-
-
-
-18) juridinių asmenų, veikiančių pagal Lietuvos Respublikos asociacijų įstatymą, nekilnojamasis turtas (ar jo dalis), naudojamas tik nekomercinei veiklai;
-
-
-
-
-19) Lietuvos banko, Lietuvos darbo biržos prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos, Lietuvos darbo rinkos mokymo tarnybos prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos nekilnojamasis turtas;
-
-
-
-
-20) juridinių asmenų, veikiančių pagal Lietuvos Respublikos meno kūrėjų ir meno kūrėjų organizacijų statuso įstatymą, nekilnojamas turtas;
-
-
-
-
-21) nekilnojamasis turtas (arba jo dalis), naudojamas teikiant tik sveikatos priežiūros paslaugas.
-TAR pastaba. 21 punktas taikomas apskaičiuojant nekilnojamojo turto mokestį nuo 2009 m. sausio 1 d.
-Papildyta straipsnio punktu:
-Nr. X-1479, 2008-04-03, Žin., 2008, Nr. 45-1681 (2008-04-19), i. k. 1081010ISTA00X-1479
- 
-
-
-
-
-
-
-3. Mokesčiu taip pat neapmokestinami tinkamais naudoti nepripažinti statiniai, jeigu jie nėra faktiškai naudojami.
 
 
 
@@ -388,17 +428,27 @@ NEKILNOJAMOJO TURTO MOKESTINĖ VERTĖ
 8 straipsnis. Nekilnojamojo turto mokestinė vertė
 
 
-1. Nekilnojamojo turto mokestine verte laikoma nekilnojamojo turto vidutinė rinkos vertė bei šio įstatymo 9 straipsnio 2 dalies 3 ir 4 punktuose nurodyto nekilnojamojo turto vertė, nustatyta atkuriamosios vertės (kaštų) metodu.
+1. Nekilnojamojo turto mokestinė vertė yra nekilnojamojo turto vidutinė rinkos vertė:
+
+
+1) šio įstatymo 9 straipsnio 2 dalies 1 ir 2 punktuose nurodyto nekilnojamojo turto – nustatyta pagal vėliausius Lietuvos Respublikos Vyriausybės nustatyta tvarka patvirtintus nekilnojamojo turto masinio vertinimo dokumentus;
 
 
 
 
-2. Nekilnojamojo turto mokestine verte gali būti laikoma nekilnojamojo turto vertė, nustatyta atlikus nekilnojamojo turto individualų vertinimą pagal Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymą, jeigu individualus vertinimas, nepaisant to, kokiam vertinimo atvejui buvo parengta vertinimo ataskaita, buvo atliktas taikant nekilnojamajam turtui šio įstatymo 9 straipsnio 2 dalyje nurodytus vertės nustatymo metodus ir šioje vertinimo ataskaitoje nustatyta rinkos vertė atitinka panašaus turto vidutinę rinkos kainą, šioje ataskaitoje nurodytos sąlygos leidžia ją naudoti mokestinei vertei patikslinti, o vertinimo data įeina į šio įstatymo 10 straipsnio 1 dalyje nurodytą prašymų pateikimo laikotarpį. Mokesčio mokėtojai gali pateikti prašymą turto vertintojui nekilnojamojo turto mokestine verte laikyti nekilnojamojo turto vertę, nustatytą atlikus nekilnojamojo turto individualų vertinimą, jeigu nekilnojamojo turto vidutinė rinkos vertė, nustatyta atliekant masinį nekilnojamojo turto vertinimą, arba šio įstatymo 9 straipsnio 2 dalies 3 ir 4 punktuose nurodyto nekilnojamojo turto vertė, nustatyta atkuriamosios vertės (kaštų) metodu, skiriasi nuo nekilnojamojo turto vertės, nustatytos atliekant individualų vertinimą, daugiau kaip 10 procentų. 
-Straipsnio dalies pakeitimai:
-Nr. X-618, 2006-05-25, Žin., 2006, Nr. 65-2384 (2006-06-10), i. k. 1061010ISTA000X-618
+2) šio įstatymo 9 straipsnio 2 dalies 3 ir 4 punktuose nurodyto nekilnojamojo turto – nustatyta ne anksčiau kaip prieš 5 metus.
+
+
+
+
+
+
+2. Nekilnojamojo turto mokestine verte gali būti laikoma nekilnojamojo turto vertė, nustatyta atlikus nekilnojamojo turto individualų vertinimą pagal Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymą, jeigu šis individualus vertinimas buvo atliktas taikant šio įstatymo 9 straipsnio 2 dalyje nurodytus nekilnojamojo turto vertės nustatymo metodus, turto vertintojo nustatyta (patvirtinta) nekilnojamojo turto mokestinė vertė daugiau kaip 20 procentų skiriasi nuo šio nekilnojamojo turto vertės, nustatytos atlikus individualų vertinimą, ir nekilnojamojo turto individualaus vertinimo ataskaita atitinka Lietuvos Respublikos Vyriausybės nustatytus reikalavimus. Mokesčio mokėtojo (šio įstatymo 3 straipsnio 3 dalyje nurodytais atvejais – nekilnojamojo turto savininko) prašymas nekilnojamojo turto mokestine verte laikyti nekilnojamojo turto vertę, nustatytą atlikus nekilnojamojo turto individualų vertinimą, kartu su šio nekilnojamojo turto individualaus vertinimo ataskaita (toliau – prašymas) pateikiamas turto vertintojui ir nagrinėjamas šio įstatymo 10 straipsnio 2 dalyje nustatyta tvarka. Jeigu prašymas tenkinamas, nekilnojamojo turto individualaus vertinimo metu nustatyta vertė šio nekilnojamojo turto mokestine verte laikoma nuo to mokestinio laikotarpio, kurį pateiktas prašymas, pradžios tol, kol turto vertintojas šio įstatymo ir Lietuvos Respublikos Vyriausybės nustatyta tvarka nustato (patvirtina) naują šio turto mokestinę vertę, o šio įstatymo 9 straipsnio 2 dalies 3 ir 4 punktuose nurodyto turto atvejais – ne ilgiau negu šio įstatymo 9 straipsnio 3 dalyje nurodytą laikotarpį. 
+
+
+Straipsnio pakeitimai:
+Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
  
-
-
 
 
 
@@ -414,32 +464,34 @@ Nr. X-618, 2006-05-25, Žin., 2006, Nr. 65-2384 (2006-06-10), i. k. 1061010ISTA0
 2. Nekilnojamasis turtas vertinamas:
 
 
-1) komercinio naudojimo nekilnojamasis turtas – lyginamosios vertės (pardavimo kainų analogų) bei naudojimo pajamų vertės (pajamų kapitalizavimo arba pinigų srautų diskonto) metodais, taikant masinį nekilnojamojo turto vertinimą;
+1) komercinio naudojimo nekilnojamasis turtas – lyginamosios vertės (pardavimo kainų analogų) arba naudojimo pajamų vertės (pajamų kapitalizavimo arba pinigų srautų diskonto) metodu atliekant masinį nekilnojamojo turto vertinimą. Nekilnojamojo turto masinio vertinimo metodą, objektyviausiai atspindintį vertinamo nekilnojamojo turto vidutinę rinkos vertę, parenka turto vertintojas;
 
 
 
 
-2) gyvenamosios, sodų ir garažų (išskyrus pramoninius) paskirties nekilnojamasis turtas – lyginamosios vertės (pardavimo kainų analogų) metodu, taikant masinį nekilnojamojo turto vertinimą;
+2) gyvenamosios, sodų, garažų (automobilių garažų, atvirų ar uždarų požeminių, antžeminių automobilių saugyklų, elingų) ir pagalbinio ūkio (namų ūkio pastatų, esančių privačiame namų valdos žemės sklype, ūkininko sodybos žemės ūkio paskirties žemės sklype, sodo sklype ir skirtų ten gyvenančių žmonių būtiniausioms nuolatinėms reikmėms) paskirties nekilnojamasis turtas – lyginamosios vertės (pardavimo kainų analogų) metodu atliekant masinį nekilnojamojo turto vertinimą;
 
 
 
 
-3) inžineriniai statiniai – atkuriamosios vertės (kaštų) metodu (apskaičiuojant fizinio nusidėvėjimo procentą);
+3) inžineriniai statiniai – atkuriamosios vertės (kaštų) metodu (apskaičiuojant fizinio nusidėvėjimo procentą), naudojant Nekilnojamojo turto kadastro ir Nekilnojamojo turto registro duomenis, nekilnojamojo turto atkūrimo kaštų (statybinės vertės) kainynus ir statinių vidutinės naudojimo trukmės normatyvus;
 
 
 
 
-4) kitas šios dalies 1–3 punktuose nenurodytas nekilnojamasis turtas – atkuriamosios vertės (kaštų) metodu (apskaičiuojant fizinio nusidėvėjimo procentą), taikant vietovės pataisos koeficientą, įvertinantį nekilnojamojo turto buvimo vietos įtaką.
+4) kitas šios dalies 1, 2 ir 3 punktuose nenurodytas nekilnojamasis turtas – atkuriamosios vertės (kaštų) metodu (apskaičiuojant fizinio nusidėvėjimo procentą), taikant vietovės pataisos koeficientą, įvertinantį nekilnojamojo turto buvimo vietos įtaką, naudojant Nekilnojamojo turto kadastro ir Nekilnojamojo turto registro duomenis, nekilnojamojo turto atkūrimo kaštų (statybinės vertės) kainynus ir statinių vidutinės naudojimo trukmės normatyvus.
 
 
 
 
 
 
-3. Nekilnojamojo turto vertinimas atliekamas Lietuvos Respublikos Vyriausybės nustatyta tvarka ne rečiau kaip kas 5 metai pagal kalendorinių metų sausio 1 dienos būklę.
+3. Nekilnojamojo turto vertinimas atliekamas Lietuvos Respublikos Vyriausybės nustatyta tvarka ne rečiau kaip kas 5 metai. 
+
+
+Straipsnio pakeitimai:
+Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
  
-
-
 
 
 
@@ -447,25 +499,27 @@ Nr. X-618, 2006-05-25, Žin., 2006, Nr. 65-2384 (2006-06-10), i. k. 1061010ISTA0
 10 straipsnis. Skundai ir prašymai dėl nustatytos nekilnojamojo turto mokestinės vertės
 
 
-1. Mokesčio mokėtojų skundai dėl nustatytos nekilnojamojo turto mokestinės vertės (toliau – skundas) ir prašymai dėl individualiu vertinimo būdu nustatytos nekilnojamojo turto vertės naudojimo apskaičiuojant mokestinę vertę (toliau -prašymas) pateikiami turto vertintojui per tris mėnesius nuo nekilnojamojo turto mokestinės vertės nustatymo (išskyrus 2006 metų mokestinį laikotarpį, kai skundai ir prašymai turto vertintojui pateikiami per šešis mėnesius nuo nekilnojamojo turto mokestinės vertės nustatymo). Šiuos skundus ir prašymus turto vertintojas išnagrinėja per du mėnesius nuo skundo ar prašymo gavimo dienos ir priima sprendimą. Sprendimas gali būti skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. X-532, 2006-03-30, Žin., 2006, Nr. 39-1380 (2006-04-08), i. k. 1061010ISTA000X-532
+1. Mokesčio mokėtojų (šio įstatymo 3 straipsnio 3 dalyje nurodytais atvejais – nekilnojamojo turto savininkų) skundai dėl turto vertintojo nustatytos nekilnojamojo turto mokestinės vertės (toliau – skundas) pateikiami turto vertintojui per tris mėnesius nuo nekilnojamojo turto mokestinės vertės nustatymo. Šiuos skundus turto vertintojas išnagrinėja ir sprendimą priima per du mėnesius nuo skundo gavimo dienos. Turto vertintojo sprendimas gali būti skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+
+
+
+2. Mokesčio mokėtojai (šio įstatymo 3 straipsnio 3 dalyje nurodytais atvejais – nekilnojamojo turto savininkai) vieną kartą per mokestinį laikotarpį, per tris mėnesius nuo mokestinio laikotarpio pradžios, turto vertintojui gali pateikti prašymą nekilnojamojo turto mokestine verte laikyti nekilnojamojo turto vertę, nustatytą atlikus nekilnojamojo turto individualų vertinimą. Šiuos prašymus turto vertintojas išnagrinėja ir sprendimą priima per tris mėnesius (tuo mokestiniu laikotarpiu, kai įsigalioja nauji Lietuvos Respublikos Vyriausybės nustatyta tvarka patvirtinti nekilnojamojo turto masinio vertinimo dokumentai, – per keturis mėnesius) nuo prašymo gavimo dienos. Turto vertintojo sprendimas gali būti skundžiamas Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+
+
+
+3. Turto vertintojas apie mokesčio mokėtojo skundo ar prašymo gavimą ir priimtą dėl skundo ar prašymo sprendimą informuoja vietos mokesčių administratorių ne vėliau kaip per vieną darbo dieną nuo atitinkamai skundo ar prašymo gavimo dienos arba sprendimo priėmimo dienos.
+
+
+
+
+4. Mokesčio mokėtojo skundo ar prašymo pateikimas turto vertintojui mokesčio ir su juo susijusių sumų (išskyrus avansinį mokestį ir su juo susijusias sumas) išieškojimą sustabdo iki turto vertintojo sprendimo dėl skundo ar prašymo priėmimo arba teismo sprendimo (nutarties) įsiteisėjimo dienos, jeigu mokesčio mokėtojas turto vertintojo sprendimą apskundė Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka, tačiau tai nėra kliūtis taikyti mokestinės prievolės užtikrinimo priemones, nurodytas Lietuvos Respublikos mokesčių administravimo įstatymo 95 straipsnyje, arba pagrindas jas naikinti. 
+
+
+Straipsnio pakeitimai:
+Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
  
-
-
-
-
-2. Turto vertintojas apie mokesčio mokėtojo skundo ar prašymo gavimą ir priimtą dėl skundo ar prašymo sprendimą informuoja vietos mokesčių administratorių ne vėliau kaip per vieną darbo dieną nuo atitinkamai skundo ar prašymo gavimo dienos arba sprendimo priėmimo dienos.
-
-
-
-
-3. Mokesčio mokėtojo skundo ar prašymo pateikimas turto vertintojui mokesčio ir su juo susijusių sumų (išskyrus avansinį mokestį ir su juo susijusias sumas) išieškojimą sustabdo iki turto vertintojo sprendimo dėl skundo ar prašymo priėmimo arba teismo sprendimo (nutarties) įsiteisėjimo dienos, jeigu mokesčio mokėtojas turto vertintojo sprendimą apskundė Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka, tačiau tai nėra kliūtis taikyti mokestinės prievolės užtikrinimo priemones, nurodytas Lietuvos Respublikos mokesčių administravimo įstatymo 95 straipsnyje, arba pagrindas jas naikinti. 
-Straipsnio dalies pakeitimai:
-Nr. X-532, 2006-03-30, Žin., 2006, Nr. 39-1380 (2006-04-08), i. k. 1061010ISTA000X-532
- 
-
-
 
 
 
@@ -490,7 +544,9 @@ MOKESČIO MOKĖJIMAS
 
 
 
-3. Mokesčio mokėtojo prašymu turto vertintojas Lietuvos Respublikos nekilnojamojo turto registro įstatymo nustatyta tvarka parengia Nekilnojamojo turto registro išrašą, kuriame nurodoma nekilnojamojo turto mokestinė vertė. Fiziniams asmenims šie išrašai parengiami ir įteikiami arba išsiunčiami nemokamai. 
+3. Mokesčio mokėtojo pageidavimu turto vertintojas Lietuvos Respublikos nekilnojamojo turto registro įstatymo nustatyta tvarka parengia Nekilnojamojo turto registro išrašą, kuriame nurodoma nekilnojamojo turto mokestinė vertė. Fizinių asmenų pageidavimu šie išrašai vieną kartą per mokestinį laikotarpį parengiami ir įteikiami nemokamai. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
  
 
 
@@ -501,68 +557,62 @@ MOKESČIO MOKĖJIMAS
 12 straipsnis. Mokesčio apskaičiavimas, deklaravimas ir mokėjimas
 
 
-1. Mokestį už fiziniams asmenims nuosavybės teise priklausantį nekilnojamąjį turtą (arba jo dalį), išskyrus nekilnojamąjį turtą (arba jo dalį), neterminuotai ar ilgesniam kaip vieno mėnesio laikotarpiui perduotą naudotis juridiniams asmenims, apskaičiuoja, deklaruoja ir sumoka fiziniai asmenys. Mokestį už juridiniams asmenims nuosavybės teise priklausantį nekilnojamąjį turtą (arba jo dalį) bei juridiniams asmenims neterminuotai ar ilgesniam kaip vieno mėnesio laikotarpiui perduotą naudotis nekilnojamąją turtą (arba jo dalį), nuosavybės teise priklausantį fiziniams asmenims, apskaičiuoja, deklaruoja ir sumoka juridiniai asmenys.
+1. Mokestį apskaičiuoja, deklaruoja ir sumoka šio įstatymo 3 straipsnyje mokesčio mokėtoju nurodytas asmuo.
 
 
 
 
-2. Bendraturčiai mokestį moka proporcingai jų turimai nekilnojamojo turto daliai. Mokestį už bendrosios jungtinės nuosavybės teise priklausantį nekilnojamąjį turtą gali apskaičiuoti, deklaruoti ir sumokėti vienas iš bendraturčių.
+2. Bendraturčiai mokestį moka proporcingai jiems tenkančiai (jų įsigyjamai) nekilnojamojo turto daliai. Mokestį už bendrosios jungtinės nuosavybės teise priklausantį (ar įsigyjamą) nekilnojamąjį turtą gali apskaičiuoti, deklaruoti ir sumokėti vienas iš bendraturčių.
 
 
 
 
-3. Juridiniai asmenys moka avansinį mokestį. Kiekvienas avansinis mokestis sudaro 1/4 sumos, apskaičiuotos taikant juridiniam asmeniui einamųjų kalendorinių metų sausio 1 dieną nuosavybės teise priklausančio nekilnojamojo turto mokestinei vertei šio įstatymo 6 straipsnyje nustatytą mokesčio tarifą. Avansiniai mokesčiai sumokami atitinkamai iki einamųjų kalendorinių metų kovo 31 dienos (išskyrus 2006 metų mokestinį laikotarpį, kai pirmasis avansinis mokestis sumokamas iki 2006 m. balandžio 30 d.), birželio 30 dienos ir rugsėjo 30 dienos. Jeigu suma, apskaičiuota taikant juridiniam asmeniui einamųjų kalendorinių metų sausio 1 dieną nuosavybės teise priklausančio nekilnojamojo turto mokestinei vertei šio įstatymo 6 straipsnyje nustatytą mokesčio tarifą, neviršija 1500 litų, juridinis asmuo avansinio mokesčio mokėti neprivalo. Jeigu einamaisiais kalendoriniais metais nekilnojamojo turto mokestinė vertė yra didesnė už praėjusiais kalendoriniais metais buvusią vertę, avansinis mokestis už tą nekilnojamąjį turtą gali būti skaičiuojamas nuo praėjusiais kalendoriniais metais buvusios nekilnojamojo turto mokestinės vertės. 
-Straipsnio dalies pakeitimai:
-Nr. X-532, 2006-03-30, Žin., 2006, Nr. 39-1380 (2006-04-08), i. k. 1061010ISTA000X-532
+3. Juridiniai asmenys moka avansinį mokestį. Kiekvienas avansinis mokestis sudaro 1/4 sumos, apskaičiuotos pagal einamųjų kalendorinių metų sausio 1 dieną juridinio asmens turimo apmokestinamojo nekilnojamojo turto, už kurį pagal šio įstatymo 3 straipsnio 1 ir 2 dalių nuostatas jis privalo mokėti mokestį, mokestinę vertę taikant šio įstatymo 6 straipsnyje nustatytą mokesčio tarifą. Avansiniai mokesčiai sumokami atitinkamai iki einamųjų kalendorinių metų kovo 31 dienos, birželio 30 dienos ir rugsėjo 30 dienos. Jeigu suma, apskaičiuota pagal einamųjų kalendorinių metų sausio 1 dieną juridinio asmens turimo apmokestinamojo nekilnojamojo turto, už kurį pagal šio įstatymo 3 straipsnio 1 ir 2 dalių nuostatas jis privalo mokėti mokestį, mokestinę vertę taikant šio įstatymo 6 straipsnyje nustatytą mokesčio tarifą, neviršija 1 500 litų, juridinis asmuo avansinio mokesčio neprivalo mokėti. Jeigu einamaisiais kalendoriniais metais nekilnojamojo turto mokestinė vertė yra didesnė už praėjusiais kalendoriniais metais buvusią mokestinę vertę, avansinis mokestis už tą nekilnojamąjį turtą gali būti skaičiuojamas pagal praėjusiais kalendoriniais metais buvusią nekilnojamojo turto mokestinę vertę.
+
+
+
+
+4. Mokesčio mokėtojai vietos mokesčių administratoriui atitinkamo mokestinio laikotarpio mokesčio deklaraciją pateikia iki kitų kalendorinių metų vasario 1 dienos. Mokesčio deklaracijos formą, jos pildymo ir pateikimo tvarką nustato centrinis mokesčių administratorius.
+
+
+
+
+5. Mokesčio mokėtojai mokesčio deklaracijoje mokestį apskaičiuoja pagal nekilnojamojo turto, už kurį pagal šio įstatymo 3 ir 4 straipsnių nuostatas tą mokestinį laikotarpį jie privalo mokėti mokestį ir kuriam netaikomos šio įstatymo 7 straipsnyje nustatytos mokesčio lengvatos, mokestinę vertę taikydami šio įstatymo 6 straipsnyje nustatytą tarifą.
+
+
+
+
+6. Jeigu nekilnojamasis turtas, už kurį pagal šio įstatymo 3 ir 4 straipsnių nuostatas mokesčio mokėtojas privalo apskaičiuoti mokestį, priklausė jam nuosavybės teise, buvo įsigyjamas, naudojamas ekonominei ar individualiai veiklai arba juridinio asmens buvo perimtas iš fizinio asmens ne visą mokestinį laikotarpį, mokestis apskaičiuojamas proporcingai tai mokestinio laikotarpio daliai (mėnesiais), kurią tas nekilnojamasis turtas priklausė nuosavybės teise, buvo įsigyjamas, naudojamas ekonominei ar individualiai veiklai arba juridinio asmens buvo perimtas iš fizinio asmens, laikantis šių taisyklių:
+
+
+1) juridiniai asmenys mokestį pradeda skaičiuoti nuo mėnesio, kurį įgyja nuosavybės teisę į nekilnojamąjį turtą, perima valdyti įsigyjamą nekilnojamąjį turtą, jiems grąžinamos teisės į įsigyjamą nekilnojamąjį turtą arba kurį nekilnojamasis turtas yra jiems perduodamas šio įstatymo 3 straipsnio 3 dalyje nurodytu atveju; fiziniai asmenys mokestį pradeda skaičiuoti nuo mėnesio, kurį įgyja nuosavybės teisę į nekilnojamąjį turtą, pradeda jį naudoti ekonominei ar individualiai veiklai, perima valdyti įsigyjamą nekilnojamąjį turtą, o šio įstatymo 3 straipsnio 3 dalyje nurodytu atveju – nuo mėnesio, kurį juridinis asmuo nekilnojamąjį turtą grąžina;
+
+
+
+
+2) juridiniai asmenys mokesčio nebeskaičiuoja nuo mėnesio, kurį nuosavybės teisę į nekilnojamąjį turtą perleidžia, perleidžia teises į įsigyjamą nekilnojamąjį turtą ar šių teisių netenka, o šio įstatymo 3 straipsnio 3 dalyje nurodytu atveju – nuo mėnesio, kurį nekilnojamąjį turtą grąžina; fiziniai asmenys mokesčio nebeskaičiuoja nuo mėnesio, kurį nuosavybės teisę į nekilnojamąjį turtą perleidžia, nustoja jį naudoti ekonominei ar individualiai veiklai, perleidžia teises į įsigyjamą nekilnojamąjį turtą ar šių teisių netenka, o šio įstatymo 3 straipsnio 3 dalyje nurodytu atveju – nuo mėnesio, kurį nekilnojamąjį turtą perduoda juridiniam asmeniui.
+
+
+
+
+
+
+7. Jeigu nekilnojamasis turtas išnyksta (nugriaunamas, sudega ar kitaip fiziškai prarandamas), mokestis nebemokamas nuo mėnesio, einančio po mėnesio, kurį nekilnojamasis turtas išnyko.
+
+
+
+
+8. Mokesčio deklaracijoje apskaičiuota mokesčio suma, o kai buvo mokėtas avansinis mokestis, apskaičiuotos mokesčio sumos ir sumokėto avansinio mokesčio skirtumas turi būti sumokėti į biudžetą ne vėliau kaip iki šio straipsnio 4 dalyje nurodytos paskutinės atitinkamo mokestinio laikotarpio deklaracijos pateikimo dienos. Mokesčio permoka grąžinama Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
+
+
+
+
+9. Mokesčio mokėtojai mokestį apskaičiuoja pagal šio įstatymo 11 straipsnio 3 dalyje nurodytų Nekilnojamojo turto registro išrašų duomenis. 
+
+
+Straipsnio pakeitimai:
+Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
  
-
-
-
-
-4. Mokesčio mokėtojai vietos mokesčių administratoriui atitinkamo mokestinio laikotarpio mokesčio deklaraciją pateikia iki kitų kalendorinių metų vasario 1 dienos. Deklaracijos formą, jos pildymo ir pateikimo tvarką nustato centrinis mokesčių administratorius.
-
-
-
-
-5. Fiziniai asmenys mokestinio laikotarpio deklaracijoje, taikydami šio įstatymo 6 straipsnyje nustatytą tarifą, apskaičiuoja mokestį už tą mokestinį laikotarpį fiziniam asmeniui nuosavybės teise priklausiusį nekilnojamąjį turtą (išskyrus tą nekilnojamąjį turtą, už kurį prievolė mokėti mokestį pagal šio straipsnio 1 dalį tenka jį perėmusiam juridiniam asmeniui).
-
-
-
-
-6. Juridiniai asmenys mokestinio laikotarpio deklaracijoje, taikydami šio įstatymo 6 straipsnyje nustatytą tarifą, apskaičiuoja mokestį už tą mokestinį laikotarpį juridiniam asmeniui nuosavybės teise priklausiusį nekilnojamąjį turtą ir tą mokestinį laikotarpį buvusį fiziniams asmenims nuosavybės teise priklausantį nekilnojamąjį turtą, gautą naudotis neterminuotai ar ilgesniam kaip vieno mėnesio laikotarpiui. 
-
-
-
-
-7. Jeigu nekilnojamasis turtas, už kurį pagal šio straipsnio 5 ar 6 dalių nuostatas mokesčio mokėtojas privalo apskaičiuoti mokestį, priklausė jam nuosavybės teise, buvo naudojamas ekonominei ar individualiai veiklai arba buvo perduotas juridiniam asmeniui (juridiniams asmenims neterminuotai ar ilgesniam kaip vieno mėnesio laikotarpiui perduoto naudotis nekilnojamojo turto, nuosavybės teise priklausančio fiziniams asmenims, atveju) ne visą mokestinį laikotarpį, mokestis apskaičiuojamas proporcingai tai mokestinio laikotarpio daliai (mėnesiais), kurią nekilnojamasis turtas priklausė nuosavybės teise, buvo naudojamas ekonominei ar individualiai veiklai arba buvo perduotas juridiniam asmeniui, laikantis šių taisyklių:
-
-
-1) mokestis pradedamas skaičiuoti nuo mėnesio, kurį įgyjama nuosavybės teisė į nekilnojamąjį turtą, nekilnojamasis turtas pradedamas naudoti ekonominei ar individualiai veiklai arba nekilnojamasis turtas juridinio asmens perimamas;
-
-
-
-
-2) mokestis neskaičiuojamas nuo mėnesio, einančio po mėnesio, kurį perleidžiama nuosavybės teisė į nekilnojamąjį turtą, nekilnojamasis turtas nebenaudojamas ekonominei ar individualiai veiklai arba nekilnojamasis turtas juridinio asmens grąžinamas, išskyrus atvejus, kai dėl nekilnojamojo turto perleidimo ar perdavimo atsiranda prievolė skaičiuoti mokestį pagal šios dalies 1 punktą, – šiuo atveju mokestis neskaičiuojamas nuo to paties mėnesio, kurį perleidžiama nuosavybės teisė, turtas perduodamas.
-
-
-
-
-
-
-8. Jeigu nekilnojamasis turtas išnyksta (nugriaunamas, sudega ar kitaip fiziškai prarandamas), mokestis nebemokamas nuo mėnesio, einančio po mėnesio, kurį nekilnojamasis turtas išnyko.
-
-
-
-
-9. Mokesčio deklaracijoje apskaičiuota mokesčio suma, o kai buvo mokėtas avansinis mokestis, apskaičiuotos mokesčio sumos ir sumokėto avansinio mokesčio skirtumas turi būti sumokėti į biudžetą ne vėliau kaip iki šio straipsnio 4 dalyje nurodytos paskutinės atitinkamo mokestinio laikotarpio deklaracijos pateikimo dienos. Mokesčio permoka grąžinama Lietuvos Respublikos mokesčių administravimo įstatymo nustatyta tvarka.
-
-
-
-
-10. Mokesčio mokėtojai mokestį apskaičiuoja pagal šio įstatymo 11 straipsnio 3 dalyje nurodyto Nekilnojamojo turto registro išrašo duomenis.
- 
-
-
 
 
 
@@ -765,3 +815,8 @@ Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-576, 2009-12-17, Žin., 2009, Nr. 154-6954 (2009-12-28), i. k. 1091010ISTA00XI-576
 Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 2, 3, 4, 6, 7, 8, 9, 10, 11, 12 straipsnių pakeitimo ir papildymo įstatymas
