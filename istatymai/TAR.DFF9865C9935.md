@@ -17,6 +17,8 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DFF9865C9935"
 
 Įstatymas skelbtas: Žin., 2001, Nr. 99-3524
 Neoficialus įstatymo tekstas
+Aktuali
+įstatymo redakcija nuo 2011 m. sausio 1 d.
  
 LIETUVOS
 RESPUBLIKOS
@@ -38,27 +40,43 @@ Nr. X-705, 2006-06-20,
  
 2 straipsnis.
 Pasas ir jo paskirtis
-1. Pasas yra
-Lietuvos Respublikos piliečio (toliau – pilietis) asmens dokumentas,
-patvirtinantis jo asmens tapatybę ir pilietybę ir skirtas vykti į užsienio
-valstybes. 
-2. Pasas gali būti naudojamas ir Lietuvos Respublikoje.
-3. Pasą turėti nėra
-privaloma, jis išduodamas piliečio pageidavimu. 
-4. Paso formą nustato vidaus reikalų ministras.
+1. Pasas yra Lietuvos Respublikos
+piliečio (toliau – pilietis) asmens dokumentas, patvirtinantis jo asmens
+tapatybę ir pilietybę ir skirtas vykti į užsienio valstybes arba naudoti
+Lietuvos Respublikoje.
+2. Pilietis nuo 16 metų privalo turėti
+pasą, jeigu jis neturi galiojančios asmens tapatybės kortelės, galiojančio
+Lietuvos Respublikos piliečio paso arba jeigu teisės aktų nustatyta tvarka
+nepateikė dokumentų dėl paso ar asmens tapatybės kortelės išdavimo ar keitimo.
+Pilietis, kuriam sukako 16 metų, dokumentus dėl paso išdavimo įgaliotai
+institucijai šio Įstatymo 5 straipsnio 2 dalyje nustatyta tvarka turi pateikti
+ne vėliau kaip per vieną mėnesį po to, kai jam sukako 16 metų. Piliečiams,
+gyvenantiems užsienio valstybėse, paso turėti neprivaloma.
+3. Piliečiui iki 16 metų, taip pat
+piliečiui, kuris turi galiojančią asmens tapatybės kortelę arba teisės aktų
+nustatyta tvarka pateikė dokumentus dėl asmens tapatybės kortelės išdavimo ar
+keitimo, taip pat piliečiui, gyvenančiam užsienio valstybėje, pasas išduodamas
+jo pageidavimu.
+4. Paso formą nustato vidaus reikalų
+ministras.
 Straipsnio pakeitimai:
 Nr.
 X-1706,
 2008-07-15, Žin., 2008, Nr. 87-3466 (2008-07-31)
 Nr. XI-470,
 2009-11-12, Žin., 2009, Nr. 141-6193 (2009-11-28)
+Nr. XI-1058,
+2010-10-12, Žin., 2010, Nr. 125-6381 (2010-10-23)
  
 3
 straipsnis. Paso galiojimo terminas
-1. Piliečiui iki 18
-metų išduotas pasas galioja ne ilgiau kaip 5 metus.
-2. Piliečiui nuo 18 metų išduotas pasas
-galioja 10 metų.
+1. Piliečiui iki 16 metų išduotas pasas
+galioja ne ilgiau kaip 5 metus.
+2. Piliečiui nuo 16
+metų išduotas pasas galioja 10 metų.
+Straipsnio pakeitimai:
+Nr. XI-1058,
+2010-10-12, Žin., 2010, Nr. 125-6381 (2010-10-23)
  
 4
 straipsnis. Įrašai pase
@@ -78,12 +96,15 @@ piliečio veido atvaizdas ir piliečio parašas. Piliečiui, kuris nesugeba
 pasirašyti dėl fizinės negalios ar yra neveiksnus, pasas gali būti išduotas be
 jo parašo.
 3. Pase elektroniniu būdu fiksuojami šio straipsnio 1
-dalyje išvardyti duomenys, taip pat piliečio veido atvaizdas ir pirštų atspaudai.
-Pastaba. 3 dalies nuostata dėl duomenų apie pilietį ir piliečio
-veido atvaizdo fiksavimo elektroniniu būdu į pasą įsigalioja nuo 2006 m. rugpjūčio 28 d., o dėl piliečio pirštų atspaudų – ne vėliau kaip per 36 mėnesius po to, kai
-Europos Komisija nustatys technines specifikacijas dėl pirštų atspaudų.
-3 dalies nuostatos
-netaikomos pasams, išduotiems iki nurodytų nuostatų įsigaliojimo dienos.
+dalyje išvardyti duomenys, taip pat piliečio veido atvaizdas ir pirštų
+atspaudai.
+Pastaba. 3 dalies
+nuostata dėl duomenų apie pilietį ir piliečio veido atvaizdo fiksavimo
+elektroniniu būdu į pasą įsigalioja nuo 2006 m. rugpjūčio 28 d., o dėl piliečio pirštų atspaudų – ne vėliau kaip per 36 mėnesius po to, kai Europos Komisija
+nustatys technines specifikacijas dėl pirštų atspaudų.
+3 dalies
+nuostatos netaikomos pasams, išduotiems iki nurodytų nuostatų įsigaliojimo
+dienos.
  
 4. Be šio straipsnio
 1 dalyje nurodytų duomenų, pase taip pat įrašoma:
@@ -107,8 +128,8 @@ X-1706,
 5
 straipsnis. Paso išdavimas ir keitimas
 1. Pasą piliečio prašymu išduoda ir keičia vidaus
-reikalų ministro įgaliotos institucijos (toliau – įgaliota institucija), o
-esant Lietuvos Respublikos konsulinio statuto nustatytoms sąlygoms, – Lietuvos
+reikalų ministro įgaliotos institucijos (toliau – įgaliota institucija), o esant
+Lietuvos Respublikos konsulinio statuto nustatytoms sąlygoms, – Lietuvos
 Respublikos diplomatinės atstovybės ar konsulinės įstaigos (toliau – Lietuvos
 Respublikos konsulinės įstaigos) pagal vidaus reikalų ministro ir užsienio
 reikalų ministro nustatytą tvarką.
@@ -134,14 +155,15 @@ piliečio tapatybe. Dokumentų dėl paso išdavimo ir keitimo pateikimo Lietuvos
 Respublikos konsulinėms įstaigoms, šių dokumentų perdavimo įgaliotai
 institucijai ir paso įteikimo piliečiui tvarką nustato vidaus reikalų ministras
 ir užsienio reikalų ministras.
-4. Piliečiui iki 18 metų pasas išduodamas ar keičiamas
-vieno iš tėvų (įtėvių) ar vaiko globėjo (rūpintojo) prašymu. Jeigu vaiko tėvai
-išsituokę, pasas išduodamas ar keičiamas vieno iš tėvų (įtėvių), su kuriuo
-nustatyta vaiko gyvenamoji vieta, prašymu. Atsižvelgiant į vaiko interesus,
-pasas gali būti išduotas ar pakeistas be šio prašymo, tarpininkaujant
-valstybinei vaiko teisių apsaugos institucijai. Pateikiant dokumentus dėl paso
-išdavimo ar keitimo piliečiui iki vienų metų, jo atvykimas į įgaliotą
-instituciją ar Lietuvos Respublikos konsulinę įstaigą nebūtinas.
+4. Piliečiui iki 16
+metų pasas išduodamas ar keičiamas vieno iš tėvų (įtėvių) ar vaiko globėjo
+(rūpintojo) prašymu. Jeigu vaiko tėvai išsituokę, pasas išduodamas ar keičiamas
+vieno iš tėvų (įtėvių), su kuriuo nustatyta vaiko gyvenamoji vieta, prašymu.
+Atsižvelgiant į vaiko interesus, pasas gali būti išduotas ar pakeistas be šio
+prašymo, tarpininkaujant valstybinei vaiko teisių apsaugos institucijai.
+Pateikiant dokumentus dėl paso išdavimo ar keitimo piliečiui iki vienų metų, jo
+atvykimas į įgaliotą instituciją ar Lietuvos Respublikos konsulinę įstaigą
+nebūtinas.
 5. Pasas keičiamas, jeigu:
 1) pilietis pakeičia
 šio Įstatymo 4 straipsnio 1 dalies 1–6 punktuose nurodytus duomenis;
@@ -169,25 +191,36 @@ pasą gali išsiųsti paštu ar kitu saugiu būdu. Toks pilietis apie
 naujo paso gavimą privalo informuoti Lietuvos Respublikos konsulinę įstaigą.
 Paso išsiuntimo paštu ar kitu saugiu būdu ir informavimo apie paso gavimą
 tvarką nustato vidaus reikalų ministras ir užsienio reikalų ministras.
-8. Atsiimant naują
-pasą, turi būti pateiktas keičiamas pasas, kuris pažymimas kaip negaliojantis
-ir grąžinamas piliečiui ar jo įgaliotam asmeniui, o jeigu pilietis neveiksnus,
-– jo globėjui ar kitam teisėtam atstovui. Jeigu paimti grąžinamą negaliojantį
-pasą atsisakoma, jis sunaikinamas pagal vidaus reikalų ministro ir užsienio
-reikalų ministro nustatytą tvarką. Šio straipsnio 7 dalyje numatytais atvejais,
-kai naujas pasas išsiunčiamas paštu ar kitu saugiu būdu, keičiamas pasas
-piliečiui gavus naują pasą Lietuvos Respublikos konsulinei įstaigai ar
-įgaliotai institucijai nepateikiamas.
-9. Praradęs pasą
-pilietis apie tai turi pranešti policijai ar įgaliotai institucijai arba
-Lietuvos Respublikos konsulinei įstaigai. Prarastas pasas skelbiamas
-negaliojančiu. Piliečio pageidavimu jam išduodamas naujas pasas.
+8. Atsiimant naują pasą, turi būti
+pateiktas keičiamas pasas. Atsiimant pasą su pakeistais asmens duomenimis, turi
+būti pateiktas turimas pasas ir turima asmens tapatybės kortelė su nepakeistais
+asmens duomenimis. Šie dokumentai pažymimi kaip negaliojantys ir grąžinami
+piliečiui ar jo įgaliotam asmeniui, o jeigu pilietis neveiksnus, – jo globėjui
+ar kitam teisėtam atstovui. Jeigu paimti grąžinamą negaliojantį pasą arba
+grąžinamą asmens tapatybės kortelę atsisakoma, jie sunaikinami vidaus reikalų
+ministro ir užsienio reikalų ministro patvirtintame Paso išdavimo, keitimo,
+paskelbimo negaliojančiu ir naikinimo tvarkos apraše nustatyta tvarka arba
+vidaus reikalų ministro patvirtintame Asmens tapatybės kortelės išdavimo,
+keitimo, paskelbimo negaliojančia ir naikinimo tvarkos apraše nustatyta tvarka.
+Šio straipsnio 7 dalyje nustatytais atvejais, kai naujas pasas išsiunčiamas
+paštu ar kitu saugiu būdu, keičiamas pasas piliečiui gavus naują pasą Lietuvos
+Respublikos konsulinei įstaigai ar įgaliotai institucijai nepateikiamas.
+9. Praradęs pasą pilietis apie tai turi
+pranešti policijai ar įgaliotai institucijai arba Lietuvos Respublikos
+konsulinei įstaigai. Prarastas pasas skelbiamas negaliojančiu. Piliečiui
+išduodamas naujas pasas.
+Gyvenančiam Lietuvos Respublikoje praradusiam pasą piliečiui gali būti
+išduodamas laikinasis pažymėjimas. Jo formą ir išdavimo tvarką nustato vidaus
+reikalų ministras. Jeigu pilietis turi galiojančią asmens tapatybės kortelę
+arba teisės aktų nustatyta tvarka pateikė dokumentus dėl asmens tapatybės
+kortelės išdavimo ar keitimo ir nepageidauja gauti paso, naujas pasas piliečiui
+neišduodamas.
 10. Jeigu pasas prarandamas, tampa netinkamas naudoti
 ar pasibaigia jo galiojimo laikas, piliečiui esant užsienio valstybėje,
-Lietuvos Respublikos konsulinė įstaiga gali išduoti dokumentą, leidžiantį
-grįžti į Lietuvos Respubliką, ar dokumentą, leidžiantį tęsti kelionę, jeigu
-pilietis neturi kito galiojančio kelionės dokumento. Šių dokumentų formas ir
-išdavimo tvarką nustato užsienio reikalų ministras.
+Lietuvos Respublikos konsulinė įstaiga gali išduoti dokumentą, leidžiantį grįžti
+į Lietuvos Respubliką, ar dokumentą, leidžiantį tęsti kelionę, jeigu pilietis
+neturi kito galiojančio kelionės dokumento. Šių dokumentų formas ir išdavimo
+tvarką nustato užsienio reikalų ministras.
 11. Asmuo, radęs
 kito piliečio pasą, jį turi atiduoti policijai ar įgaliotai institucijai arba
 Lietuvos Respublikos konsulinei įstaigai.
@@ -205,6 +238,8 @@ X-1706,
 2008-07-15, Žin., 2008, Nr. 87-3466 (2008-07-31)
 Nr. XI-470,
 2009-11-12, Žin., 2009, Nr. 141-6193 (2009-11-28)
+Nr. XI-1058,
+2010-10-12, Žin., 2010, Nr. 125-6381 (2010-10-23)
  
 6 straipsnis. Negaliojantis pasas 
 1. Pasas negalioja
@@ -233,10 +268,10 @@ turi grąžinti pasą įgaliotai institucijai ar Lietuvos Respublikos konsulinei
 vietos civilinės metrikacijos įstaigai ar Lietuvos Respublikos konsulinei
 įstaigai, o šios įstaigos pasą perduoda įgaliotai institucijai.
 5. Pasą paskelbia negaliojančiu įgaliota institucija arba Lietuvos
-Respublikos konsuliniame statute numatytu atveju – Lietuvos Respublikos konsulinė
-įstaiga. Paso paskelbimo negaliojančiu, negaliojančio paso perdavimo įgaliotai
-institucijai ir sunaikinimo tvarką nustato vidaus reikalų ministras ir užsienio
-reikalų ministras.
+Respublikos konsuliniame statute numatytu atveju – Lietuvos Respublikos
+konsulinė įstaiga. Paso paskelbimo negaliojančiu, negaliojančio paso perdavimo
+įgaliotai institucijai ir sunaikinimo tvarką nustato vidaus reikalų ministras
+ir užsienio reikalų ministras.
 Straipsnio pakeitimai:
 Nr.
 X-1706,
@@ -264,8 +299,8 @@ Straipsnio pakeitimai:
 Nr.
 X-1706,
 2008-07-15, Žin., 2008, Nr. 87-3466 (2008-07-31)
-Nr. XI-470, 2009-11-12,
-Žin., 2009, Nr. 141-6193 (2009-11-28)
+Nr. XI-470,
+2009-11-12, Žin., 2009, Nr. 141-6193 (2009-11-28)
  
 8
 straipsnis. Atsakomybė
@@ -342,12 +377,20 @@ PAPILDYMO ĮSTATYMAS
 Šis
 įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2010 m. sausio 1 d.
  
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1058,
+2010-10-12, Žin., 2010, Nr. 125-6381 (2010-10-23)
+PASO ĮSTATYMO 2, 3 IR 5 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2011 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2009-12-04)
+Aušrinė Trapinskienė (2010-10-26)
                  
 autrap@lrs.lt
 
