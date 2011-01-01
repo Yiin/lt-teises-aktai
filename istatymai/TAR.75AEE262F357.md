@@ -17,6 +17,8 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.75AEE262F357"
 skelbtas: Žin., 2001, Nr. 97-3417
 Neoficialus
 įstatymo tekstas
+Aktuali
+įstatymo redakcija nuo 2011 m. sausio 1 d.
  
 LIETUVOS RESPUBLIKOS
 ASMENS TAPATYBĖS KORTELĖS
@@ -48,9 +50,9 @@ Nr. X-1639,
  
 2
 straipsnis. Asmens tapatybės kortelė ir jos paskirtis
-1. Asmens tapatybės  kortelė yra pagrindinis Lietuvos Respublikos
-piliečio (toliau – pilietis) asmens dokumentas, patvirtinantis jo asmens
-tapatybę ir pilietybę ir skirtas naudoti Lietuvos Respublikoje. 
+1. Asmens tapatybės kortelė yra Lietuvos Respublikos piliečio (toliau –
+pilietis) asmens dokumentas, patvirtinantis jo asmens tapatybę ir pilietybę ir
+skirtas naudoti Lietuvos Respublikoje.
 2. Asmens tapatybės kortelė gali būti naudojama vykti į užsienio
 valstybes, su kuriomis yra sudarytos atitinkamos tarptautinės sutartys ar
 susitarimai.
@@ -62,13 +64,23 @@ Pastaba. 3 dalies
 nuostatos netaikomos asmens tapatybės kortelėms, išduotoms iki nurodytų
 nuostatų įsigaliojimo dienos, t.y. iki 2009 m. sausio 1 d.
  
-4. Pilietis, kuriam
-sukako 16 metų, per vieną mėnesį privalo kreiptis į įgaliotą instituciją dėl
-asmens tapatybės kortelės išdavimo. Prireikus asmens tapatybės kortelė gali
-būti išduota ir piliečiui, nesulaukusiam 16 metų.
+4. Pilietis nuo 16
+metų privalo turėti asmens tapatybės kortelę, jeigu jis neturi galiojančio
+Lietuvos Respublikos išduoto paso (toliau – pasas), Lietuvos Respublikos
+piliečio paso arba jeigu teisės aktų nustatyta tvarka nepateikė dokumentų dėl
+asmens tapatybės kortelės ar paso išdavimo ar keitimo. Pilietis, kuriam
+sukako 16 metų, dokumentus dėl asmens tapatybės kortelės išdavimo įgaliotai
+institucijai šio Įstatymo 5 straipsnio 2 dalyje nustatyta tvarka turi pateikti
+ne vėliau kaip per vieną mėnesį po to, kai jam sukako 16 metų.
+5. Piliečiui iki 16
+metų, taip pat piliečiui, kuris turi galiojantį pasą arba kuris teisės aktų
+nustatyta tvarka pateikė dokumentus dėl paso išdavimo ar keitimo, asmens
+tapatybės kortelė išduodama jo pageidavimu.
 Straipsnio pakeitimai:
 Nr. X-1639,
 2008-06-26, Žin., 2008, Nr. 76-3007 (2008-07-05)
+Nr. XI-1056,
+2010-10-12, Žin., 2010, Nr. 125-6379 (2010-10-23)
  
 3
 straipsnis. Asmens tapatybės kortelės galiojimo terminas
@@ -136,10 +148,7 @@ išsituokę, asmens tapatybės kortelė išduodama ar keičiama vieno iš tėvų
 (įtėvių), su kuriuo nustatyta vaiko gyvenamoji vieta, prašymu. Atsižvelgiant į
 vaiko interesus, asmens tapatybės kortelė gali būti išduota ar pakeista be šio
 prašymo, tarpininkaujant valstybinei vaiko teisių apsaugos institucijai.
-4. Pilietis dokumentus dėl asmens tapatybės kortelės išdavimo įgaliotai
-institucijai šio straipsnio 2 dalyje nustatyta tvarka turi pateikti ne vėliau
-kaip per vieną mėnesį po to, kai jam sukako 16 metų. Jeigu yra svarbių
-priežasčių, šį terminą Vyriausybės įgaliota institucija gali pratęsti.
+4. Neteko galios nuo 2011 m. sausio 1 d.
 5. Asmens tapatybės kortelė keičiama, jeigu:
 1) pilietis pakeičia šio Įstatymo 4 straipsnio 1 dalies 1–5 punktuose
 nurodytus duomenis;
@@ -149,9 +158,9 @@ nurodytus duomenis;
 5) to pageidauja pilietis, kai iki jos galiojimo laiko pabaigos lieka
 ne daugiau kaip vieneri metai.
 6. Pilietis, pateikdamas dokumentus dėl asmens tapatybės kortelės
-keitimo, įgaliotai institucijai pagal savo gyvenamąją vietą privalo
-pateikti keičiamą asmens tapatybės kortelę. Sutikrinus duomenis, ši kortelė jam
-grąžinama.
+keitimo, įgaliotai institucijai šio straipsnio 2 dalyje nustatyta tvarka
+privalo pateikti keičiamą asmens tapatybės kortelę. Sutikrinus duomenis, ši
+kortelė jam grąžinama.
 7. Naują asmens tapatybės kortelę atsiima pilietis arba jo įgaliotas
 asmuo. Jeigu asmens tapatybės kortelę atsiima piliečio įgaliotas asmuo, jis
 turi pateikti įgaliojimą ir asmens tapatybę patvirtinantį dokumentą, o jeigu
@@ -159,20 +168,29 @@ asmens tapatybės kortelę atsiima neveiksnaus piliečio globėjas ar kitas
 teisėtas atstovas, jis turi pateikti minėtas aplinkybes bei asmens tapatybę
 patvirtinančius dokumentus.
 8. Atsiimant naują asmens tapatybės kortelę, turi būti pateikta
-keičiama asmens tapatybės kortelė. Ji pažymima kaip negaliojanti ir grąžinama
-piliečiui arba jo įgaliotam asmeniui, o jeigu pilietis neveiksnus, – jo
-globėjui ar kitam teisėtam atstovui. Jeigu paimti grąžinamą negaliojančią
-asmens tapatybės kortelę atsisakoma, ji sunaikinama pagal vidaus reikalų
-ministro nustatytą asmens tapatybės kortelės išdavimo, keitimo, paskelbimo
-negaliojančia ir naikinimo tvarką.
+keičiama asmens tapatybės kortelė. Atsiimant asmens tapatybės kortelę su
+pakeistais asmens duomenimis, turi būti pateikta turima asmens tapatybės
+kortelė ir turimas pasas su nepakeistais asmens duomenimis. Šie dokumentai
+pažymimi kaip negaliojantys ir grąžinami piliečiui arba jo įgaliotam asmeniui,
+o jeigu pilietis neveiksnus, – jo globėjui ar kitam teisėtam atstovui. Jeigu
+paimti grąžinamą negaliojančią asmens tapatybės kortelę arba grąžinamą
+negaliojantį pasą atsisakoma, jie sunaikinami vidaus reikalų ministro
+patvirtintame Asmens tapatybės kortelės išdavimo, keitimo, paskelbimo negaliojančia
+ir naikinimo tvarkos apraše nustatyta tvarka arba vidaus reikalų
+ministro ir užsienio reikalų ministro patvirtintame Paso išdavimo, keitimo,
+paskelbimo negaliojančiu ir naikinimo tvarkos apraše nustatyta tvarka.
 9. Praradęs
 asmens tapatybės kortelę pilietis apie tai turi pranešti įgaliotai institucijai
 ar policijai arba Lietuvos Respublikos diplomatinei atstovybei ar konsulinei
 įstaigai užsienio valstybėje (toliau – Lietuvos Respublikos konsulinė įstaiga).
 Prarasta asmens tapatybės kortelė skelbiama negaliojančia. Piliečiui išduodama
-nauja asmens tapatybės kortelė.
-10. Praradusiam asmens tapatybės kortelę piliečiui gali būti išduodamas
-laikinasis pažymėjimas. Jo formą ir išdavimo tvarką nustato Vyriausybė.
+nauja asmens tapatybės kortelė. Jeigu pilietis turi galiojantį pasą arba teisės
+aktų nustatyta tvarka pateikė dokumentus dėl paso išdavimo ar keitimo ir
+nepageidauja gauti asmens tapatybės kortelės, nauja asmens tapatybės kortelė
+piliečiui neišduodama.
+10. Praradusiam
+asmens tapatybės kortelę piliečiui gali būti išduodamas laikinasis
+pažymėjimas. Jo formą ir išdavimo tvarką nustato vidaus reikalų ministras.
 11. Jeigu asmens
 tapatybės kortelė prarandama, tampa netinkama naudoti ar pasibaigia jos
 galiojimo laikas, piliečiui esant užsienio valstybėje, Lietuvos Respublikos
@@ -192,6 +210,8 @@ Nr. X-1639,
 2008-06-26, Žin., 2008, Nr. 76-3007 (2008-07-05)
 Nr. XI-472,
 2009-11-12, Žin., 2009, Nr. 141-6195 (2009-11-28)
+Nr. XI-1056,
+2010-10-12, Žin., 2010, Nr. 125-6379 (2010-10-23)
  
 6 straipsnis. Asmens tapatybės kortelės negaliojimas
 1. Asmens tapatybės kortelė negalioja pasibaigus jos galiojimo laikui,
@@ -202,7 +222,8 @@ paskelbus ją negaliojančia ar piliečiui mirus.
 3) pakeista šio Įstatymo 5 straipsnio 5 dalyje nustatytais pagrindais;
 4) piliečio neatsiimta per vienerius metus nuo išrašymo dienos;
 5) paaiškėjus aplinkybėms, dėl kurių ji negalėjo būti išduota;
-6) suklastota.
+6) suklastota;
+7) piliečiui išdavus pasą su pakeistais jo asmens duomenimis.
 3. Asmuo, netekęs Lietuvos Respublikos pilietybės, taip pat asmuo,
 kuriam išdavus asmens tapatybės kortelę paaiškėjo aplinkybės, dėl kurių ji
 negalėjo būti išduota, turi grąžinti asmens tapatybės kortelę įgaliotai
@@ -214,16 +235,19 @@ vietos arba mirties vietos civilinės metrikacijos įstaigai ar Lietuvos
 Respublikos konsulinei įstaigai, o šios įstaigos asmens tapatybės kortelę
 perduoda ją išdavusiai įgaliotai institucijai.
 5. Asmens tapatybės kortelė paskelbiama negaliojančia pagal vidaus
-reikalų ministro nustatytą asmens tapatybės kortelės išdavimo, keitimo,
-paskelbimo negaliojančia ir naikinimo tvarką.
+reikalų ministro nustatytą asmens tapatybės kortelės išdavimo, keitimo, paskelbimo
+negaliojančia ir naikinimo tvarką.
+Straipsnio pakeitimai:
+Nr. XI-1056,
+2010-10-12, Žin., 2010, Nr. 125-6379 (2010-10-23)
  
 7 straipsnis. Asmens tapatybės kortelės paėmimas
 1. Policija ar kita teisėsaugos institucija, o jeigu pilietis yra
 užsienyje, – Lietuvos Respublikos konsulinė įstaiga, nustačiusi, kad pilietis
-naudojasi šio Įstatymo 6 straipsnio 2 dalies 1, 2, 5 ir 6 punktuose
-nustatytais pagrindais paskelbta negaliojančia asmens tapatybės
-kortele arba kito piliečio asmens tapatybės kortele, privalo ją paimti ir
-perduoti ją išdavusiai įgaliotai institucijai.
+naudojasi šio Įstatymo 6 straipsnio 2 dalies 1, 2, 5, 6 ir 7 punktuose
+nustatytais pagrindais paskelbta negaliojančia asmens tapatybės kortele arba
+kito piliečio asmens tapatybės kortele, privalo ją paimti ir perduoti ją
+išdavusiai įgaliotai institucijai.
 2. Iš suimto piliečio, taip pat iš piliečio, nuteisto laisvės atėmimu
 arba kuriam paskirtas administracinis areštas, asmens tapatybės kortelę paima
 policija ar kita teisėsaugos institucija arba teismas. Piliečiui, paleistam iš
@@ -231,6 +255,9 @@ suėmimo, lygtinai paleistam iš laisvės atėmimo vietos, atlikusiam bausmę ar
 kuriam pasibaigė administracinis areštas, asmens tapatybės kortelė grąžinama.
 3. Paimti iš piliečio asmens tapatybės kortelę draudžiama, išskyrus šio
 ar kitų įstatymų nustatytais atvejais.
+Straipsnio pakeitimai:
+Nr. XI-1056,
+2010-10-12, Žin., 2010, Nr. 125-6379 (2010-10-23)
  
 8 straipsnis. Atsakomybė
 Asmenys, pažeidę šį Įstatymą, atsako įstatymų nustatyta tvarka. 
@@ -267,18 +294,26 @@ tapatybės kortelėms, išduotoms iki nurodytų nuostatų įsigaliojimo dienos.
  
 2.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-472, 2009-11-12,
-Žin., 2009, Nr. 141-6195 (2009-11-28)
+Nr. XI-472,
+2009-11-12, Žin., 2009, Nr. 141-6195 (2009-11-28)
 ASMENS TAPATYBĖS KORTELĖS ĮSTATYMO 5
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2010 m. sausio
 1 d.
  
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1056,
+2010-10-12, Žin., 2010, Nr. 125-6379 (2010-10-23)
+ASMENS TAPATYBĖS
+KORTELĖS ĮSTATYMO 2, 5, 6, 7 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis įstatymas,
+išskyrus šio straipsnio 2 dalį, įsigalioja 2011 m. sausio 1 d.
+ 
 *** Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė
-(2009-12-03)
-                 
-autrap@lrs.lt
+Redagavo Aušrinė
+Trapinskienė (2010-10-26)
+                  autrap@lrs.lt
 
