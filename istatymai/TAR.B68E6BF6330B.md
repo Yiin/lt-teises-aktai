@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B68E6BF6330B"
 
 # Lietuvos Respublikos mokesčio už valstybės turto naudojimą patikėjimo teise įstatymas
 
-Suvestinė redakcija nuo 2009-01-01 iki 2010-12-31
+Suvestinė redakcija nuo 2011-01-01 iki 2011-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 117-4369, i. k. 1041010ISTA0IX-2332
  
@@ -56,13 +56,15 @@ Vilnius
 
 
 
-3 straipsnis. Mokesčio mokėtojai 
+3 straipsnis. Mokesčio mokėtojai
 
 
-Mokestį moka valstybės įmonės.
+Mokestį moka valstybės įmonės, išskyrus valstybės įmonę Ignalinos atominę elektrinę.
+
+
+Straipsnio pakeitimai:
+Nr. XI-1161, 2010-11-23, Žin., 2010, Nr. 145-7418 (2010-12-11), i. k. 1101010ISTA0XI-1161
  
-
-
 
 
 
@@ -97,7 +99,10 @@ Taikomi šie mokesčio tarifai:
 
 
 
-3) valstybės įmonei Ignalinos atominei elektrinei – 0,5 procento;
+3) Neteko galios nuo 2011-01-01
+Straipsnio punkto naikinimas:
+Nr. XI-1161, 2010-11-23, Žin. 2010, Nr. 145-7418 (2010-12-11), i. k. 1101010ISTA0XI-1161
+ 
 
 
 
@@ -242,3 +247,8 @@ Lietuvos Respublikos mokesčio už valstybės turto naudojimą patikėjimo teise
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-81, 2008-12-19, Žin., 2008, Nr. 149-6007 (2008-12-30), i. k. 1081010ISTA000XI-81
 Lietuvos Respublikos mokesčio už valstybės turto naudojimą patikėjimo teise įstatymo 5 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1161, 2010-11-23, Žin., 2010, Nr. 145-7418 (2010-12-11), i. k. 1101010ISTA0XI-1161
+Lietuvos Respublikos mokesčio už valstybės turto naudojimą patikėjimo teise įstatymo 3 ir 5 straipsnių pakeitimo įstatymas
