@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.640D50DB8877"
 
 # Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymas
 
-Suvestinė redakcija nuo 2010-05-01 iki 2010-12-31
+Suvestinė redakcija nuo 2011-01-01 iki 2013-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 109-2993, i. k. 0981010ISTAVIII-935
  
@@ -448,7 +448,10 @@ Smulkiojo ir vidutinio verslo subjektams gali būti taikomos šios valstybės pa
 
 
 
-3) viešųjų paslaugų verslui teikimas verslo inkubatoriuose, verslo informacijos centruose, mokslo ir technologijų parkuose ir kituose juridiniuose asmenyse, kurių steigimo dokumentuose nustatytas šių paslaugų teikimas;
+3) viešųjų paslaugų verslui teikimas viešojoje įstaigoje „Eksportuojančioji Lietuva“, verslo inkubatoriuose, verslo informacijos centruose, mokslo ir technologijų parkuose ir kituose juridiniuose asmenyse, kurių steigimo dokumentuose nustatytas šių paslaugų teikimas;
+Straipsnio punkto pakeitimai:
+Nr. XI-1168, 2010-11-23, Žin., 2010, Nr. 145-7425 (2010-12-11), i. k. 1101010ISTA0XI-1168
+ 
 
 
 
@@ -549,3 +552,8 @@ Lietuvos Respublikos smulkaus ir vidutinio verslo įstatymo pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-701, 2010-03-23, Žin., 2010, Nr. 38-1775 (2010-04-03), i. k. 1101010ISTA00XI-701
 Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo 3, 5 ir 7 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1168, 2010-11-23, Žin., 2010, Nr. 145-7425 (2010-12-11), i. k. 1101010ISTA0XI-1168
+Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo 6 straipsnio pakeitimo įstatymas
