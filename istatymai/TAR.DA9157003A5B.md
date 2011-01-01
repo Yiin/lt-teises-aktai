@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DA9157003A5B"
 
 # Lietuvos Respublikos odontologų rūmų įstatymas
 
+Suvestinė redakcija nuo 2011-01-01 iki 2019-09-30
+ 
+Įstatymas paskelbtas: Žin. 2004, Nr. 4-35, i. k. 1031010ISTA0IX-1929
+ 
 LIETUVOS RESPUBLIKOS
 ODONTOLOGŲ RŪMŲ
 ĮSTATYMAS
@@ -292,7 +296,10 @@ RŪMŲ VALDYMAS
 
 6. Rūmų komisija, priėmusi sprendimą išduoti, sustabdyti ar panaikinti licencijos galiojimą, privalo per 5 darbo dienas šį sprendimą įrašyti į licencijų registrą. Informacija apie licencijos išdavimą, jos galiojimo sustabdymą ar panaikinimą teisės aktų nustatyta tvarka perduodama juridinių asmenų registrui.
 
-7. Duomenis apie licencijų išdavimą, galiojimo sustabdymą ar panaikinimą, taip pat apie odontologinės priežiūros (pagalbos) įstaigų akreditavimą teisės aktų nustatyta tvarka „Valstybės žinių“ priede „Informaciniai pranešimai“ skelbia Rūmų taryba.
+7. Duomenis apie licencijų išdavimą, galiojimo sustabdymą ar panaikinimą, taip pat apie odontologinės priežiūros (pagalbos) įstaigų akreditavimą Rūmų taryba skelbia Rūmų interneto tinklalapyje.
+Straipsnio dalies pakeitimai:
+Nr. XI-888, 2010-06-08, Žin., 2010, Nr. 71-3560 (2010-06-19), i. k. 1101010ISTA00XI-888
+ 
 
 8. Rūmų komisijų sprendimai gali būti skundžiami per vieną mėnesį nuo atitinkamo sprendimo gavimo dienos Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
 
@@ -416,4 +423,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                             ROLANDAS PAKSAS
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-888, 2010-06-08, Žin., 2010, Nr. 71-3560 (2010-06-19), i. k. 1101010ISTA00XI-888
+Lietuvos Respublikos odontologų rūmų įstatymo 13 straipsnio pakeitimo įstatymas
 
