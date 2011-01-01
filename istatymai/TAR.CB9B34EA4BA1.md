@@ -13,14 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CB9B34EA4BA1"
 
 # Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymas
 
-Suvestinė redakcija nuo 2005-03-15 iki 2010-12-31
+Suvestinė redakcija nuo 2011-01-01 iki 2016-09-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2002, i. k. 0961010ISTA00I-1494
  
-Nauja redakcija nuo 2005-03-15:
-Nr. IX-2454, 2004-09-28, Žin. 2004, Nr. 153-5573 (2004-10-19), i. k. 1041010ISTA0IX-2454
+Nauja redakcija nuo 2011-01-01:
+Nr. XI-1101, 2010-11-09, Žin. 2010, Nr. 137-7002 (2010-11-23), i. k. 1101010ISTA0XI-1101
  
-LIETUVOS RESPUBLIKOS MENO KŪRĖJO IR MENO KŪRĖJŲ ORGANIZACIJŲ STATUSO Į S T A T Y M A S
+LIETUVOS RESPUBLIKOS MENO KŪRĖJO IR MENO KŪRĖJŲ ORGANIZACIJŲ STATUSO ĮSTATYMAS
  
 1996 m. rugpjūčio 15 d. Nr. I-1494
 Vilnius
@@ -35,7 +35,7 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas nustato meno kūrėjo ir meno kūrėjų organizacijos statuso suteikimo ir panaikinimo pagrindus ir tvarką.
+Šis įstatymas nustato meno kūrėjo ir meno kūrėjų organizacijų statuso suteikimo ir panaikinimo pagrindus ir tvarką.
  
 
 
@@ -46,27 +46,32 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Meno kūrėjas – meno kūrinius kuriantis, taip pat juos meniškai atliekantis, interpretuojantis ir taip jiems suteikiantis naują meninę vertę fizinis asmuo, kuriam yra suteiktas meno kūrėjo statusas.
+1. Meno kūrėjas – meno kūrinius kuriantis, juos savitai atliekantis fizinis asmuo, kuriam už tai yra suteikiamas meno kūrėjo statusas.
 
 
 
 
-2. Meno kūrėjų organizacija – asociacija, kuriai yra suteiktas meno kūrėjų organizacijos statusas, vienijanti meno kūrėjus pagal meno sritis arba tokių sričių derinius. Jos tikslas yra vykdyti kūrybines programas, ginti meno kūrėjų kūrybines, profesines, socialines, autorių ir gretutines teises, įstatymų nustatyta tvarka atstovauti meno kūrėjams. 
+2. Meno kūrėjų organizacija – meno kūrėjus pagal meno sritis arba tokių sričių derinius vienijanti asociacija, kurios tikslai – vykdyti kūrybines programas, ginti meno kūrėjų kūrybines, profesines, socialines, autorių ir gretutines teises, įstatymų nustatyta tvarka atstovauti meno kūrėjams ir kuriai yra suteiktas meno kūrėjų organizacijos statusas.
 
 
 
 
-3. Meno kūrinys – originalus meno kūrybos rezultatas, nepaisant išraiškos būdo ir formos.
+3. Meno kūryba – asmens arba kolektyvo sukurtų arba savitai atliktų meno kūrinių visuma.
 
 
 
 
-4. Meno kūryba – veikla, kai sukuriami meno kūriniai arba juos meniškai atliekant, interpretuojant jiems suteikiama nauja meninė vertė.
+4. Meno kūrinys – originalus meninės veiklos rezultatas, bet kokio išraiškos būdo ar formos.
 
 
 
 
-5. Profesionalus meno vertintojas – asmuo, įgijęs aukštąjį universitetinį išsilavinimą ir atitinkamos meno srities vertintojo (menotyrininko, meno filosofo, estetiko) kvalifikaciją bei paskelbęs studijų, straipsnių, recenzijų šiuolaikinio meno klausimais Lietuvos ar užsienio valstybių meno leidiniuose.
+5. Profesionalusis meno vertintojas – aukštąjį universitetinį išsilavinimą turintis asmuo, plėtojantis pažinimą kultūros ir meno srityje ir skelbiantis šios veiklos rezultatus monografijose, studijose, recenzijose ir straipsniuose Lietuvoje ir (ar) užsienyje.
+
+
+
+
+6. Profesionalusis menas – originali aukšto meistriškumo ir meninio lygio kūryba, tokia pripažįstama profesionaliųjų meno vertintojų.
  
 
 
@@ -84,20 +89,20 @@ MENO KŪRĖJO IR MENO KŪRĖJŲ ORGANIZACIJOS STATUSO SUTEIKIMO IR PANAIKINIMO P
 3 straipsnis. Meno kūrėjo ir meno kūrėjų organizacijos statuso suteikimo pagrindai ir sąlygos
 
 
-1. Meno kūrėjo statusas suteikiamas profesionalų (aukšto meistriškumo) meną kuriančiam asmeniui, jeigu šio asmens meno kūryba atitinka bent vieną iš šių meno kūrėjo statuso suteikimo pagrindų:
+1. Meno kūrėjo statusas suteikiamas profesionalųjį meną kuriančiam asmeniui, jeigu šio asmens meno kūryba atitinka bent vieną iš šių meno kūrėjo statuso suteikimo pagrindų:
 
 
-1) asmens meno kūryba yra teigiamai įvertinta profesionalių meno vertintojų monografijose, studijose, straipsniuose arba recenzijose-rekomendacijose ir taip pripažinta profesionalia;
-
-
-
-
-2) asmens meno kūryba yra apibūdinta enciklopedijose arba įtraukta į švietimo ir mokslo ministro patvirtintas bendrojo lavinimo, profesinio mokymo, aukštesniųjų studijų ir aukštojo mokslo studijų programas; 
+1) asmens individuali ar kolektyvinė meno kūryba yra teigiamai įvertinta kaip profesionalusis menas profesionaliųjų meno vertintojų monografijose, recenzijose ar straipsniuose, paskelbtuose leidiniuose, ar rekomendacijose ir taip pripažinta profesionalia meno kūryba;
 
 
 
 
-3) asmens meno kūryba yra įvertinta Lietuvos nacionaline kultūros ir meno premija, Lietuvos Respublikos Vyriausybės meno premija, tarptautine meno premija arba profesionalaus meno konkurso laureato diplomu; 
+2) asmens meno kūryba yra įtraukta į įstatymų nustatyta tvarka patvirtintas bendrojo ugdymo, profesinio mokymo ir aukštojo mokslo studijų programas;
+
+
+
+
+3) asmens individuali ar kolektyvinė meno kūryba yra įvertinta Lietuvos nacionaline kultūros ir meno premija, Lietuvos Respublikos Vyriausybės meno premija, Kultūros ministerijos meno premija ar tarptautine meno premija, kitomis meno kūrėjų organizacijų teikiamomis premijomis ir apdovanojimais, profesionaliojo meno tarptautinio kūrėjų ir (arba) atlikėjų (išskyrus moksleivių ir studentų konkursus) konkurso laureato diplomu;
 
 
 
@@ -107,19 +112,29 @@ MENO KŪRĖJO IR MENO KŪRĖJŲ ORGANIZACIJOS STATUSO SUTEIKIMO IR PANAIKINIMO P
 
 
 
-5) asmeniui už meno kūrybą, atitinkančią šio straipsnio 1 dalies 1–4 punktuose nustatytus pripažinimo pagrindus, ar už meno kūrybą vertinančius straipsnius, recenzijas, paskelbtus Lietuvos ar užsienio valstybių meno leidiniuose, ir už tiriamąją (mokslinę) veiklą atitinkamoje meno srityje suteiktas daktaro, habilituoto daktaro vardas;
+5) asmuo ne mažiau kaip 5 metus skelbia meno kūrybą vertinančius straipsnius ir recenzijas Lietuvos ar užsienio leidiniuose, taip pat asmuo, kuriam už tiriamąją mokslinę veiklą atitinkamoje meno srityje yra suteiktas mokslo daktaro ar meno daktaro laipsnis;
 
 
 
 
-6) asmeniui, aukštųjų mokyklų meno studijų dėstytojui, už meno kūrybą ir pedagoginę veiklą suteiktas pedagoginis profesoriaus ir (ar) docento vardas. 
+6) asmuo, dėstantis meno studijų krypties dalykus ir einantis profesoriaus ar docento pareigas aukštojoje mokykloje, kurioje pagal meno studijų programas rengiami profesionalieji menininkai;
+
+
+
+
+7) asmuo individualiai ar su kūrėjų kolektyvu buvo atrinktas ir atstovavo Lietuvai tarptautinį pripažinimą turinčiuose profesionaliojo meno renginiuose.
 
 
 
 
 
 
-2. Meno kūrėjų organizacijos statusas suteikiamas asociacijai, jeigu ji atitinka visus meno kūrėjų organizacijos statuso suteikimo pagrindus:
+2. Meno kūrėjo statusas, kurį asmuo įgijo vienoje meno srityje, gali būti pripažintas ir kitoje srityje, jeigu jo kūryba atitinka šio straipsnio 1 dalies reikalavimus. Meno kūrėjo statusas gali būti suteiktas pagal šio įstatymo 5 straipsnyje nustatytas procedūras.
+
+
+
+
+3. Meno kūrėjų organizacijos statusas suteikiamas asociacijai, jeigu ji atitinka visus meno kūrėjų organizacijos statuso suteikimo pagrindus:
 
 
 1) asociaciją yra įsteigę ne mažiau kaip 25 meno kūrėjai;
@@ -127,12 +142,12 @@ MENO KŪRĖJO IR MENO KŪRĖJŲ ORGANIZACIJOS STATUSO SUTEIKIMO IR PANAIKINIMO P
 
 
 
-2) asociacijos nariai yra tik meno kūrėjai;
+2) asociacijos nariai yra tik meno kūrėjai ar meno kūrėjo statusą turinčios organizacijos, vienijančios ne mažiau kaip 5 narius – meno kūrėjų organizacijas;
 
 
 
 
-3) asociacija skatina profesionalią (aukšto meistriškumo) meno kūrybą, jos įvairovę ir sklaidą;
+3) asociacija skatina aukšto meistriškumo meno kūrybą, jos įvairovę ir sklaidą;
 
 
 
@@ -142,7 +157,12 @@ MENO KŪRĖJO IR MENO KŪRĖJŲ ORGANIZACIJOS STATUSO SUTEIKIMO IR PANAIKINIMO P
 
 
 
-5) asociacija rūpinasi meno kūrinių prieinamumu visuomenei.
+5) asociacija rūpinasi meno kūrinių prieinamumu visuomenei;
+
+
+
+
+6) asociacija atstovauja visos šalies (ne vieno regiono) meno kūrėjams.
  
 
 
@@ -155,7 +175,7 @@ MENO KŪRĖJO IR MENO KŪRĖJŲ ORGANIZACIJOS STATUSO SUTEIKIMO IR PANAIKINIMO P
 4 straipsnis. Meno kūrėjų organizacijos įstatai
 
 
-Meno kūrėjų organizacijos įstatuose, be privalomų duomenų, numatytų Civiliniame kodekse ir Asociacijų įstatyme, turi būti nurodyta, kad priimamų naujų narių meno kūryba turi atitikti šio įstatymo 3 straipsnio 1 dalyje nustatytus reikalavimus.
+Meno kūrėjų organizacijos įstatuose, be privalomų duomenų, numatytų Lietuvos Respublikos civiliniame kodekse (toliau – Civilinis kodeksas) ir Lietuvos Respublikos asociacijų įstatyme (toliau – Asociacijų įstatymas), turi būti nurodyta, kad į meno kūrėjų organizaciją priimamų naujų narių meno kūryba turi atitikti šio įstatymo 3 straipsnio  1 dalyje nustatytus reikalavimus.
  
 
 
@@ -166,22 +186,22 @@ Meno kūrėjų organizacijos įstatuose, be privalomų duomenų, numatytų Civil
 5 straipsnis. Meno kūrėjo statuso suteikimo būdai
 
 
-1. Meno kūrėjo statusas suteikiamas šiais būdais:
+1. Meno kūrėjo statusas suteikiamas:
 
 
-1) meno kūrėjų organizacijos sprendimu, šios organizacijos nariu priimant asmenį, kurio meno kūryba atitinka bent vieną iš meno kūrėjo statuso suteikimo pagrindų, nustatytų šio įstatymo 3 straipsnio 1 dalyje;
-
-
-
-
-2) jeigu asmuo nepriklauso meno kūrėjų organizacijai, šio įstatymo 7 straipsnyje nustatyta tvarka.
+1) meno kūrėjų organizacijos sprendimu – šios organizacijos nariu priimant asmenį, kurio meno kūryba atitinka bent vieną iš meno kūrėjo statuso suteikimo pagrindų, nustatytų šio įstatymo 3 straipsnio 1 dalyje;
 
 
 
 
+2) Meno kūrėjo ir meno kūrėjų organizacijos statuso suteikimo tarybos sprendimu – jeigu asmuo nepriklauso meno kūrėjų organizacijai, pripažintai tokia šio įstatymo 7 straipsnyje nustatyta tvarka.
 
 
-2. Meno kūrėjo statuso suteikimą tvirtina kultūros ministras.
+
+
+
+
+2. Meno kūrėjo ir meno kūrėjų organizacijos statuso suteikimo tarybos sprendimą suteikti meno kūrėjo statusą tvirtina kultūros ministras.
  
 
 
@@ -189,30 +209,30 @@ Meno kūrėjų organizacijos įstatuose, be privalomų duomenų, numatytų Civil
 
 
 
-6 straipsnis. Meno kūrėjo ir meno kūrėjų organizacijos statuso suteikimo taryba 
+6 straipsnis. Meno kūrėjo ir meno kūrėjų organizacijos statuso suteikimo taryba
 
 
-1. Kultūros ministerija sudaro Meno kūrėjo ir meno kūrėjų organizacijos statuso suteikimo tarybą (toliau – Taryba). Taryba, atlikdama eksperto ir konsultanto funkcijas, suteikia meno kūrėjo ar meno kūrėjų organizacijos statusą.
-
-
-
-
-2. Tarybą sudaro 15 narių. Tarybos kadencija – dveji metai. Meno kūrėjų organizacijos pateikia Kultūros ministerijai po vieną kandidatūrą į Tarybos narius. Kultūros ministras iš šių kandidatūrų skiria 12 Tarybos narių, atstovaujančių skirtingoms meno sritims, kitus 3 Tarybos narius – iš profesionalių meno vertintojų ir kompetentingų kitų sričių specialistų.
+1. Meno kūrėjo ir meno kūrėjų organizacijos statuso suteikimo tarybą (toliau – Taryba) sudaro kultūros ministras. Taryba yra visuomeninė institucija, kolegialiu sprendimu suteikianti meno kūrėjo ir meno kūrėjų organizacijos statusą.
 
 
 
 
-3. Tarybos nuostatus, sudėtį ir jos narių teikiamų paslaugų apmokėjimo taisykles tvirtina kultūros ministras.
+2. Taryba sudaroma iš 7 narių. Tarybos kadencija – 2 metai. Visos meno kūrėjų organizacijos statusą turinčios organizacijos Kultūros ministerijai pateikia po 1 kandidatą į Tarybos narius, iš kurių kultūros ministras skiria 5 Tarybos narius, atstovaujančius skirtingoms meno sritims, ir 2 narius – iš profesionaliųjų meno vertintojų.
 
 
 
 
-4. Taryba kartą per metus tikrina, ar meno kūrėjų organizacijų įstatai ir veikla atitinka šio įstatymo reikalavimus. Meno kūrėjų organizacijų tikrinimo taisykles tvirtina kultūros ministras.
+3. Tarybos nuostatus ir sudėtį tvirtina kultūros ministras.
 
 
 
 
-5. Tarybai atliekant tikrinimą, meno kūrėjų organizacija privalo jai pateikti savo įstatų nuorašą, narių sąrašą ir veiklos ataskaitą, parengtą pagal Asociacijų įstatymo 10 straipsnį.
+4. Jeigu meno kūrėjų organizacija pakeičia įstatus, ji per 30 dienų privalo juos pateikti Tarybai. Taryba įvertina, ar pakeisti įstatai atitinka šio įstatymo reikalavimus.
+
+
+
+
+5. Kai Taryba atlieka patikrinimą, meno kūrėjų organizacija privalo Tarybai pateikti savo įstatų kopiją, narių sąrašą ir veiklos ataskaitą, parengtą pagal Asociacijų įstatymo 10 straipsnį.
  
 
 
@@ -220,38 +240,38 @@ Meno kūrėjų organizacijos įstatuose, be privalomų duomenų, numatytų Civil
 
 
 
-7 straipsnis. Meno kūrėjo ir meno kūrėjų organizacijos statuso suteikimo tvarka 
+7 straipsnis. Meno kūrėjo ir meno kūrėjų organizacijos statuso suteikimo tvarka
 
 
-1. Asmenų prašymus dėl meno kūrėjo ar meno kūrėjų organizacijos statuso suteikimo, išskyrus šio straipsnio 6 dalyje numatytus atvejus, nagrinėja ir sprendimus priima Taryba Meno kūrėjo ir meno kūrėjų organizacijos statuso suteikimo taisyklių nustatyta tvarka. Šias taisykles tvirtina kultūros ministras.
-
-
-
-
-2. Fizinis asmuo, siekiantis meno kūrėjo statuso, kartu su prašymu Tarybai turi pateikti:
-
-
-1) asmens tapatybę patvirtinančio dokumento nuorašą;
+1. Asmenų prašymus dėl meno kūrėjo ar meno kūrėjų organizacijos statuso suteikimo, išskyrus šio straipsnio 6 dalyje nustatytus atvejus, nagrinėja ir sprendimus priima Taryba Meno kūrėjo ir meno kūrėjų organizacijos statuso suteikimo taisyklėse nustatyta tvarka. Šias taisykles tvirtina kultūros ministras.
 
 
 
 
-2) pagrindinių meno kūrinių ir bibliografijos sąrašą;
+2. Asmuo, siekiantis meno kūrėjo statuso, kartu su prašymu Tarybai turi pateikti:
+
+
+1) asmens tapatybę patvirtinančio dokumento kopiją;
 
 
 
 
-3) dokumentų nuorašus, patvirtinančius premijos, konkurso laureato vardo, mokslo laipsnio, pedagoginio vardo suteikimą;
+2) pagrindinių meno kūrinių ir publikacijų apie kūrybą ir (arba) kūrėją sąrašą;
 
 
 
 
-4) dokumentų nuorašus, patvirtinančius, kad jo sukurti kūriniai įtraukti į mokymo, studijų programas, jų yra įsigiję muziejai;
+3) dokumentų, patvirtinančių premijos, konkurso laureato vardo, mokslo laipsnio, pedagoginio vardo suteikimą, kopijas;
 
 
 
 
-5) dokumentų nuorašus, patvirtinančius, kad jo meno kūryba atitinka kitus šio įstatymo 3 straipsnio 1 dalyje nustatytus meno kūrėjo statuso suteikimo pagrindus.
+4) dokumentų, patvirtinančių, kad jo sukurti kūriniai įtraukti į mokymo, studijų programas, jų yra įsigiję muziejai, kopijas;
+
+
+
+
+5) dokumentų, patvirtinančių, kad jo meno kūryba atitinka kitus šio įstatymo 3 straipsnio 1 dalyje nustatytus meno kūrėjo statuso suteikimo pagrindus, kopijas.
 
 
 
@@ -261,22 +281,22 @@ Meno kūrėjų organizacijos įstatuose, be privalomų duomenų, numatytų Civil
 3. Asociacija, siekianti meno kūrėjų organizacijos statuso, kartu su prašymu Tarybai turi pateikti:
 
 
-1) asociacijos įstatų nuorašą; 
+1) asociacijos įstatų kopiją;
 
 
 
 
-2) asociacijos steigimo sutarties nuorašą;
+2) asociacijos steigimo sutarties kopiją;
 
 
 
 
-3) juridinio asmens registravimo pažymėjimo nuorašą;
+3) juridinio asmens registravimo pažymėjimo kopiją;
 
 
 
 
-4) asociacijos narių sąrašą ir kultūros ministro patvirtintų Tarybos arba meno kūrėjų organizacijos sprendimų nuorašus, įrodančius, kad nariams suteiktas meno kūrėjo statusas;
+4) asociacijos narių sąrašą ir kultūros ministro patvirtintų Tarybos arba meno kūrėjų organizacijos sprendimų, patvirtinančių, kad nariams suteiktas meno kūrėjo statusas, kopijas;
 
 
 
@@ -288,22 +308,22 @@ Meno kūrėjų organizacijos įstatuose, be privalomų duomenų, numatytų Civil
 
 
 
-4. Taryba, išnagrinėjusi prašymus ir nustačiusi, kad fizinio asmens meno kūryba, asociacijos įstatai, steigimo sutartis, narių sudėtis ir veikla atitinka šio įstatymo reikalavimus, priima sprendimą suteikti meno kūrėjo ar meno kūrėjų organizacijos statusą. Nustačiusi, kad fizinio asmens meno kūryba, asociacijos įstatai, steigimo sutartis, narių sudėtis ir veikla neatitinka šio įstatymo reikalavimų, Taryba priima sprendimą atsisakyti suteikti meno kūrėjo ar meno kūrėjų organizacijos statusą.
+4. Taryba, išnagrinėjusi prašymus ir nustačiusi, kad fizinio asmens meno kūryba, asociacijos įstatai, steigimo sutartis, asociacijos narių sudėtis ir veikla atitinka šio įstatymo reikalavimus, priima sprendimą suteikti meno kūrėjo ar meno kūrėjų organizacijos statusą. Taryba, nustačiusi, kad fizinio asmens meno kūryba, asociacijos įstatai, steigimo sutartis, asociacijos narių sudėtis ir veikla neatitinka šio įstatymo reikalavimų, priima sprendimą atsisakyti suteikti meno kūrėjo ar meno kūrėjų organizacijos statusą.
 
 
 
 
-5. Kultūros ministras tvirtina Tarybos sprendimą suteikti arba atsisakyti suteikti meno kūrėjo ar meno kūrėjų organizacijos statusą per 14 darbo dienų nuo šio sprendimo gavimo dienos. Apie tai suinteresuotiems asmenims pranešama raštu per 5 darbo dienas nuo Tarybos sprendimo patvirtinimo dienos. 
+5. Kultūros ministras Tarybos sprendimą suteikti arba atsisakyti suteikti meno kūrėjo ar meno kūrėjų organizacijos statusą patvirtina per 14 darbo dienų nuo atitinkamo Tarybos sprendimo gavimo dienos. Apie tai suinteresuotiems asmenims pranešama raštu per 5 darbo dienas nuo Tarybos sprendimo patvirtinimo dienos.
 
 
 
 
-6. Tais atvejais, kai meno kūrėjo statusas suteikiamas 5 straipsnio 1 dalies 1 punkte nustatytu būdu, kultūros ministras, atsižvelgdamas į meno kūrėjų organizacijų pateiktus meno kūrėjų sąrašus ir priimtus sprendimus suteikti meno kūrėjo statusą, tvirtina meno kūrėjo statuso suteikimą per 14 darbo dienų nuo šių dokumentų gavimo dienos. Apie tai meno kūrėjų organizacijoms pranešama raštu per 5 darbo dienas nuo meno kūrėjų organizacijos sprendimo patvirtinimo dienos.
+6. Tais atvejais, kai meno kūrėjo statusas suteikiamas šio įstatymo 5 straipsnio 1 dalies 1 punkte nustatytu būdu, kultūros ministras, atsižvelgdamas į meno kūrėjų organizacijų pateiktus meno kūrėjų sąrašus ir priimtus sprendimus suteikti meno kūrėjo statusą, patvirtina, kad meno kūrėjo statusas yra suteikiamas, per 14 darbo dienų nuo šių dokumentų gavimo dienos. Apie tai meno kūrėjų organizacijoms pranešama raštu per 5 darbo dienas nuo meno kūrėjų organizacijos sprendimo patvirtinimo dienos.
 
 
 
 
-7. Meno kūrėjo ar meno kūrėjų organizacijos statusas laikomas suteiktu nuo Tarybos ar meno kūrėjų organizacijos sprendimo patvirtinimo dienos. 
+7. Meno kūrėjo ar meno kūrėjų organizacijos statusas laikomas suteiktu nuo Tarybos ar meno kūrėjų organizacijos sprendimo patvirtinimo dienos.
  
 
 
@@ -317,22 +337,32 @@ Meno kūrėjų organizacijos įstatuose, be privalomų duomenų, numatytų Civil
 1. Meno kūrėjo statuso netenkama:
 
 
-1) meno kūrėjui mirus;
+1) kai Taryba nustato, kad asmuo meno kūrėjo statusą įgijo pateikęs neteisingus dokumentus apie savo kūrybą;
 
 
 
 
-2) Tarybai nustačius, kad asmuo meno kūrėjo statusą įgijo pateikęs neteisingus dokumentus apie savo kūrybą, ir priėmus sprendimą dėl meno kūrėjo statuso panaikinimo. Šį sprendimą tvirtina kultūros ministras.
+2) kai teismas nustato kūrybos plagijavimo faktą;
+
+
+
+
+3) kai meno kūrėjo kūrybinės veiklos rezultatų sklaida nepastebima visuomenės kultūros raidoje.
 
 
 
 
 
 
-2. Meno kūrėjų organizacijos statuso netenkama:
+2. Tarybos sprendimą dėl meno kūrėjo statuso netekimo tvirtina kultūros ministras.
 
 
-1) Tarybai nustačius, kad meno kūrėjų organizacija neatitinka Įstatymo 3 straipsnio 2 dalyje nustatytų pagrindų, ir priėmus sprendimą dėl meno kūrėjų organizacijos statuso panaikinimo. Šį sprendimą tvirtina kultūros ministras. Apie sprendimą panaikinti meno kūrėjų organizacijos statusą suinteresuotiems asmenims raštu pranešama per 5 darbo dienas nuo sprendimo patvirtinimo dienos;
+
+
+3. Meno kūrėjų organizacijos statuso netenkama:
+
+
+1) kai Taryba nustato, kad meno kūrėjų organizacija neatitinka šio įstatymo 3 straipsnio 3 dalyje nustatytų pagrindų, ir kai Taryba priima sprendimą dėl meno kūrėjų organizacijos statuso netekimo. Tarybos sprendimą dėl meno kūrėjų organizacijos statuso netekimo tvirtina kultūros ministras. Apie sprendimą dėl meno kūrėjų organizacijos statuso netekimo suinteresuotiems asmenims raštu pranešama per 5 darbo dienas nuo sprendimo patvirtinimo dienos;
 
 
 
@@ -350,7 +380,7 @@ Meno kūrėjų organizacijos įstatuose, be privalomų duomenų, numatytų Civil
 9 straipsnis. Duomenų apie meno kūrėjus ir meno kūrėjų organizacijas kaupimas
 
 
-1. Duomenys apie meno kūrėjus ir meno kūrėjų organizacijas kaupiami Kultūros ministerijos kompiuterizuotoje informacinėje sistemoje kultūros ministro nustatyta tvarka. Duomenis, išskyrus kultūros ministro įsakymus dėl meno kūrėjo ar meno kūrėjų organizacijos statuso suteikimo, pateikia Taryba ir meno kūrėjų organizacijos. 
+1. Duomenys apie meno kūrėjus ir meno kūrėjų organizacijas kaupiami meno kūrėjų ir meno kūrėjų organizacijų kompiuterizuotoje informacinėje sistemoje, kurią tvarko Vyriausybės įgaliota institucija. Duomenis, išskyrus kultūros ministro įsakymus dėl meno kūrėjo ar meno kūrėjų organizacijos statuso suteikimo, kompiuterizuotoje informacinėje sistemoje tvarkančiai Vyriausybės įgaliotai institucijai pateikia Taryba ir meno kūrėjų organizacijos.
 
 
 
@@ -358,17 +388,22 @@ Meno kūrėjų organizacijos įstatuose, be privalomų duomenų, numatytų Civil
 2. Į meno kūrėjų ir meno kūrėjų organizacijų kompiuterizuotą informacinę sistemą įrašomi šie meno kūrėjo duomenys:
 
 
-1) kultūros ministro įsakymo suteikti meno kūrėjo statusą data ir registravimo numeris;
+1) informacinės sistemos suteiktas meno kūrėjo registravimo numeris;
 
 
 
 
-2) meno kūrėjo vardas (vardai), pavardė (pavardės);
+2) kultūros ministro įsakymo dėl meno kūrėjo statuso suteikimo data ir įsakymo registravimo numeris;
 
 
 
 
-3) meno kūrėjo asmens kodas.
+3) meno kūrėjo vardas (vardai), pavardė (pavardės);
+
+
+
+
+4) meno kūrėjo asmens kodas.
 
 
 
@@ -378,27 +413,32 @@ Meno kūrėjų organizacijos įstatuose, be privalomų duomenų, numatytų Civil
 3. Į meno kūrėjų ir meno kūrėjų organizacijų kompiuterizuotą informacinę sistemą įrašomi šie meno kūrėjų organizacijos duomenys:
 
 
-1) kultūros ministro įsakymo suteikti meno kūrėjų organizacijos statusą data ir registravimo numeris;
+1) informacinės sistemos suteiktas meno kūrėjų organizacijos registravimo numeris;
 
 
 
 
-2) identifikavimo kodas;
+2) kultūros ministro įsakymo dėl meno kūrėjų organizacijos statuso suteikimo data ir įsakymo registravimo numeris;
 
 
 
 
-3) pavadinimas;
+2) įmonės kodas;
 
 
 
 
-4) buveinė (adresas), telefonas ir, jeigu yra, faksas, elektroninis paštas;
+4) pavadinimas;
 
 
 
 
-5) meno kūrėjų organizacijos narių vardai, pavardės ir asmens kodai.
+5) buveinė (adresas), telefonas ir, jeigu yra, faksas, elektroninis paštas;
+
+
+
+
+6) meno kūrėjų organizacijos narių vardai, pavardės ir asmens kodai.
  
 
 
@@ -411,14 +451,14 @@ Meno kūrėjų organizacijos įstatuose, be privalomų duomenų, numatytų Civil
 
 
 TREČIASIS SKIRSNIS
-MENO KŪRĖJŲ IR MENO KŪRĖJŲ ORGANIZACIJŲ KŪRYBINĖS VEIKLOS SKATINIMAS
+MENO KŪRĖJO IR MENO KŪRĖJŲ ORGANIZACIJŲ TEISĖS Į VALSTYBĖS PARAMĄ
  
 
 
-10 straipsnis. Meno kūrėjo ir meno kūrėjų organizacijų teisės į valstybės paramą
+10 straipsnis. Meno kūrėjų ir meno kūrėjų organizacijų kūrybinės veiklos skatinimas
 
 
-1. Meno kūrėjo kūrybinei veiklai skatinti skiriamos valstybės stipendijos, premijos.
+1. Meno kūrėjų kūrybinei veiklai skatinti skiriamos valstybės stipendijos ir premijos.
 
 
 
@@ -428,18 +468,196 @@ MENO KŪRĖJŲ IR MENO KŪRĖJŲ ORGANIZACIJŲ KŪRYBINĖS VEIKLOS SKATINIMAS
 
 
 
-3. Meno kūrėjas Vyriausybės nustatyta tvarka turi teisę įsivežti į Lietuvos Respubliką užsienio valstybių, ne Europos Sąjungos valstybių narių, renginiuose sukurtus savo kūrinius. 
+3. Meno kūrėjai Vyriausybės nustatyta tvarka turi teisę įsivežti į Lietuvos Respubliką užsienio valstybių, ne Europos Sąjungos valstybių narių, renginiuose sukurtus savo kūrinius.
 
 
 
 
-4. Kitas meno kūrėjo teises į valstybės paramą ir socialines garantijas nustato kiti įstatymai ir teisės aktai.
-
-
-
-
-5. Meno kūrėjų organizacijų kūrybinės programos finansuojamos iš Kultūros ministerijai skirtų valstybės biudžeto asignavimų.
+4. Meno kūrėjų organizacijų veikla ir kūrybinės programos finansuojamos iš Kultūros ministerijai skirtų valstybės biudžeto asignavimų.
  
+
+
+
+
+
+
+11 straipsnis. Meno kūrėjų socialinė apsauga
+
+
+1. Parama meno kūrėjams skiriama iš Meno kūrėjų socialinės apsaugos programos, kurią tvirtina Vyriausybė.
+
+
+
+
+2. Meno kūrėjų socialines garantijas nustato kiti įstatymai ir teisės aktai.
+ 
+
+
+
+
+
+
+12 straipsnis. Meno kūrėjų socialinės apsaugos programa
+
+
+1. Meno kūrėjų socialinės apsaugos programos paskirtis – skirti paramą mažas ir nereguliarias pajamas gaunantiems meno kūrėjams, taip pat meno kūrėjams, patiriantiems kūrybines prastovas.
+
+
+
+
+2. Meno kūrėjų socialinės apsaugos programą administruoja Vyriausybės įgaliota institucija Vyriausybės nustatyta tvarka. Visi meno kūrėjai turi vienodas teises į valstybės paramą.
+ 
+
+
+
+
+
+
+13 straipsnis. Meno kūrėjų socialinės apsaugos programos lėšų šaltiniai
+
+
+Meno kūrėjų socialinės apsaugos programos lėšas sudaro Vyriausybės įgaliotai institucijai numatyti tiksliniai valstybės biudžeto asignavimai.
+ 
+
+
+
+
+
+
+
+
+KETVIRTASIS SKIRSNIS
+MENO KŪRĖJŲ ORGANIZACIJŲ ASOCIACIJA
+ 
+
+
+14 straipsnis. Meno kūrėjų organizacijų asociacija
+
+
+1. Meno kūrėjų organizacijų asociacija – pagal Asociacijų įstatymą įsteigtas ribotos civilinės atsakomybės viešasis juridinis asmuo, kuris vienija meno kūrėjų organizacijos statusą turinčias asociacijas ir kurio tikslas – įgyvendinti kultūros politiką profesionaliosios meno kūrybos srityje, ginti meno kūrėjų interesus.
+
+
+
+
+2. Meno kūrėjų organizacijų asociacija savo veikloje vadovaujasi Asociacijų įstatymu, Civiliniu kodeksu, šiuo ir kitais įstatymais, savo įstatais ir kitais teisės aktais.
+ 
+
+
+
+
+
+
+15 straipsnis. Meno kūrėjų organizacijų asociacijos funkcijos ir teisės
+
+
+1. Meno kūrėjų organizacijų asociacijos funkcijos:
+
+
+1) atlikti meno kūrėjų socialinės padėties stebėseną;
+
+
+
+
+2) atlikti meno kūrybos plėtros ir sklaidos stebėseną;
+
+
+
+
+3) atlikti eksperto funkcijas profesionaliojo meno klausimais teismuose ir kitose institucijose;
+
+
+
+
+4) teikti išvadas Vyriausybės ar jos įgaliotoms institucijoms rengiant teisės aktų projektus;
+
+
+
+
+5) kaupti informaciją ir statistinius duomenis, susijusius su meno kūrėjais, jų organizacijomis Lietuvoje ir užsienyje.
+
+
+
+
+
+
+2. Meno kūrėjų organizacijų asociacija turi teisę:
+
+
+1) atstovauti savo narių interesams ir juos ginti;
+
+
+
+
+2) teikti pasiūlymus dėl galiojančių teisės aktų keitimo;
+
+
+
+
+3) dalyvauti sprendžiant profesionaliojo meno plėtros ir sklaidos klausimus;
+
+
+
+
+4) bendradarbiauti su valstybės, savivaldybių institucijomis, kūrybinėmis, profesinėmis ir kitomis šalies bei užsienio organizacijomis;
+
+
+
+
+5) verstis įstatymų nedraudžiama ūkine komercine veikla, kuri yra neatsiejamai susijusi su jų veiklos tikslais;
+
+
+
+
+6) įgyvendinti kitas Meno kūrėjų organizacijų asociacijos įstatuose nurodytas teises.
+ 
+
+
+
+
+
+
+
+
+16 straipsnis. Meno kūrėjų organizacijų asociacijos turtas ir pajamų šaltiniai
+
+
+1. Meno kūrėjų organizacijų asociacijai nuosavybės teise gali priklausyti pastatai, transporto priemonės, įrenginiai ir kitas jų įstatuose numatytai veiklai reikalingas turtas, kuris gali būti įgytas iš šio straipsnio 2 dalyje nustatytų pajamų šaltinių.
+
+
+
+
+2. Meno kūrėjų organizacijų asociacijos pajamų šaltiniai:
+
+
+1) nario mokesčiai ir tiksliniai įnašai;
+
+
+
+
+2) valstybės ir savivaldybių biudžetų lėšos, skirtos pavestoms funkcijoms ir kūrybinėms programoms vykdyti;
+
+
+
+
+3) fizinių ir juridinių asmenų neatlygintinai perduotos lėšos ir turtas;
+
+
+
+
+4) palikimai, pagal testamentą tenkantys meno kūrėjų organizacijų asociacijai;
+
+
+
+
+5) kredito įstaigų palūkanos, mokamos už tose įstaigose saugomas lėšas;
+
+
+
+
+6) kitos teisėtai gautos lėšos.
+ 
+
+
 
 
 
@@ -469,3 +687,8 @@ Lietuvos Respublikos meno kūrėjų ir jų organizacijų įstatymo 2, 4, 9, 11, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2454, 2004-09-28, Žin., 2004, Nr. 153-5573 (2004-10-19), i. k. 1041010ISTA0IX-2454
 Lietuvos Respublikos meno kūrėjų ir jų organizacijų įstatymo pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1101, 2010-11-09, Žin., 2010, Nr. 137-7002 (2010-11-23), i. k. 1101010ISTA0XI-1101
+Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo pakeitimo įstatymas
