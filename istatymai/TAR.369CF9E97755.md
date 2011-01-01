@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.369CF9E97755"
 
 # Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymas
 
-Suvestinė redakcija nuo 2010-01-01 iki 2010-12-31
+Suvestinė redakcija nuo 2011-01-01 iki 2012-11-21
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 62-2224, i. k. 1011010ISTA00IX-413
  
@@ -253,7 +253,10 @@ Nr. XI-343, 2009-07-14, Žin., 2009, Nr. 89-3801 (2009-07-28), i. k. 1091010ISTA
 
 
 
-8. Licencijavimo institucija informaciją apie sprendimus išduoti licenciją, sustabdyti licencijos galiojimą, panaikinti licencijos galiojimo sustabdymą arba panaikinti licencijos galiojimą skelbia leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“ ir interneto svetainėje.
+8. Licencijavimo institucija informaciją apie sprendimus išduoti licenciją, sustabdyti licencijos galiojimą, panaikinti licencijos galiojimo sustabdymą arba panaikinti licencijos galiojimą skelbia savo interneto svetainėje.
+Straipsnio dalies pakeitimai:
+Nr. XI-885, 2010-06-08, Žin., 2010, Nr. 71-3557 (2010-06-19), i. k. 1101010ISTA00XI-885
+ 
 
 
 
