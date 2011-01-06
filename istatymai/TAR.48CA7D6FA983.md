@@ -166,12 +166,18 @@ reikšmę nacionaliniam saugumui turinčiuose objektuose;
 5) tiria Saugumo
 departamento kompetencijai priskirtus nusikaltimus ir kitus teisės pažeidimus,
 vykdo asmenų, įtariamų padarius tokius teisės pažeidimus, paiešką;
+5
+punktas netenka galios nuo 2011 m. vasario 1 d.
+ 
 6) tiria asmenų
 veikas, dėl kurių gali būti padaryta arba daroma žala valstybės saugumui, jos
 ekonominiams ir strateginiams interesams;
 7) organizuoja
 ir užtikrina vyriausybinį ryšį bei jo techninę apsaugą;
-8) kontroliuoja Lietuvos Respublikos įslaptintos informacijos, žymimos slaptumo žymomis „Visiškai slaptai“, „Slaptai“, „Konfidencialiai“, apsaugą valstybės viduje bei jos įstaigose užsienyje;
+8)
+kontroliuoja Lietuvos Respublikos įslaptintos informacijos, žymimos slaptumo
+žymomis „Visiškai slaptai“, „Slaptai“, „Konfidencialiai“, apsaugą valstybės
+viduje bei jos įstaigose užsienyje;
 9) savarankiškai
 arba kartu su kitomis įgaliotomis valstybės ar savivaldybių institucijomis
 ar įstaigomis rengia ir įgyvendina priemones užsienio diplomatinių įstaigų
@@ -188,6 +194,8 @@ Nr. IX-2182,
 2004-04-27, Žin., 2004, Nr. 73-2516 (2004-04-30)
 Nr. X-609, 2006-05-11,
 Žin., 2006, Nr. 61-2176 (2006-05-31)
+Nr. XI-1265,
+2010-12-23, Žin., 2011, Nr. 2-38 (2011-01-06)
  
 8(1)
 straipsnis. Oficialus įspėjimas asmeniui
@@ -222,26 +230,17 @@ straipsnis. Organizaciniai Saugumo departamento pagrindai
             Saugumo departamento
 struktūra formuojama, remiantis Saugumo departamento paskirtimi ir jam
 keliamais uždaviniais.
- 
-2 dalies redakcija iki 2009 m. sausio 1 d.:
 Saugumo
 departamento sistemą sudaro Saugumo departamento centrinis aparatas,
 teritorinės įstaigos ir specialios paskirties įstaigos prie Saugumo
 departamento. Saugumo departamento struktūrą sudaro Saugumo departamento
-centrinis aparatas (su struktūriniais padaliniais) bei teritorinės įstaigos.
-2 dalies redakcija nuo 2009 m. sausio 1 d.:
-Saugumo departamento
-sistemą sudaro Saugumo departamento centrinis aparatas, teritorinės įstaigos ir
-specialios paskirties įstaigos prie Saugumo departamento. Saugumo departamento
-struktūrą sudaro Saugumo departamento centrinis aparatas (su struktūriniais
-padaliniais) ir teritorinės įstaigos. Saugumo departamento struktūriniai
-padaliniai yra: direktoratai, valdybos, skyriai, poskyriai, grupės. Pareigybių
-skaičių struktūriniuose padaliniuose nustato Saugumo departamento generalinis
-direktorius.
- 
-            Saugumo departamento padalinius,
-išskyrus specialios paskirties įstaigas, steigia ir likviduoja, jų vidaus
-struktūrą nustato Saugumo departamento generalinis direktorius. 
+centrinis aparatas (su struktūriniais padaliniais) ir teritorinės įstaigos.
+Saugumo departamento struktūriniai padaliniai yra: direktoratai, valdybos,
+skyriai, poskyriai, grupės. Pareigybių skaičių struktūriniuose padaliniuose
+nustato Saugumo departamento generalinis direktorius.
+            Saugumo departamento
+padalinius, išskyrus specialios paskirties įstaigas, steigia ir likviduoja, jų
+vidaus struktūrą nustato Saugumo departamento generalinis direktorius. 
 Straipsnio
 pakeitimai:
 Nr.
@@ -276,9 +275,9 @@ Nr. X-1159,
  
             11
 straipsnis. Saugumo departamento teritorinės įstaigos
-            Saugumo departamento
-funkcijoms vykdyti, atsižvelgiant į Lietuvos Respublikos administracinį
-teritorinį suskirstymą, steigiamos Saugumo departamento teritorinės įstaigos. 
+            Saugumo departamento funkcijoms
+vykdyti, atsižvelgiant į Lietuvos Respublikos administracinį teritorinį
+suskirstymą, steigiamos Saugumo departamento teritorinės įstaigos. 
  
 12 straipsnis. Specialios paskirties įstaiga prie Saugumo departamento
 Saugumo
@@ -294,11 +293,11 @@ Vyriausybinio
 ryšio paslaugas valstybės ir savivaldybių institucijoms, valstybės įstaigoms ir
 Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių
 ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatyme
-nurodytoms valstybės įmonėms teikia specialios paskirties įstaiga
-Vyriausybinių ryšių centras prie Valstybės saugumo departamento. Konkretų tokių
-institucijų, įstaigų, įmonių ir pareigybių, kurias užimantiems asmenims
-suteikiama teisė naudotis vyriausybinio ryšio paslaugomis, sąrašą tvirtina
-Lietuvos Respublikos Vyriausybė.
+nurodytoms valstybės įmonėms teikia specialios paskirties įstaiga Vyriausybinių
+ryšių centras prie Valstybės saugumo departamento. Konkretų tokių institucijų,
+įstaigų, įmonių ir pareigybių, kurias užimantiems asmenims suteikiama teisė
+naudotis vyriausybinio ryšio paslaugomis, sąrašą tvirtina Lietuvos Respublikos
+Vyriausybė.
 Straipsnio
 pakeitimai:
 Nr.
@@ -312,17 +311,10 @@ Saugumo
 departamente tarnauja statutiniai valstybės tarnautojai (saugumo pareigūnai),
 kiti karjeros valstybės tarnautojai, taip pat dirba asmenys pagal darbo
 sutartis.
- 
-2 dalies redakcija iki 2009 m. sausio 1 d.:
 Saugumo departamente
-dirbantiems asmenims, kuriems suteikiami saugumo pareigūnų tarnybiniai rangai,
-taikomos šio Įstatymo, Saugumo departamento statuto ir kitų įstatymų nustatytos
-saugumo pareigūnų socialinės garantijos.
-2 dalies redakcija nuo 2009 m. sausio 1 d.:
-Saugumo
-departamente dirbantiems asmenims, kuriems suteikiami saugumo pareigūnų
-laipsniai, taikomos šio įstatymo, Saugumo departamento statuto ir kitų įstatymų
-nustatytos saugumo pareigūnų socialinės garantijos.
+dirbantiems asmenims, kuriems suteikiami saugumo pareigūnų laipsniai, taikomos
+šio įstatymo, Saugumo departamento statuto ir kitų įstatymų nustatytos saugumo
+pareigūnų socialinės garantijos.
 Straipsnio
 pakeitimai:
 Nr.
@@ -366,8 +358,8 @@ straipsnyje nustatytų priesaikos tekstų. Nustatomi šie priesaikos tekstai:
 1) „Aš, (vardas, pavardė), Jums liudijant:
 prisiekiu ištikimai ginti Lietuvos valstybę ir jos
 nepriklausomybę,
-sąžiningai vykdyti Lietuvos Respublikos įstatymus ir savo
-viršininkų įsakymus,
+sąžiningai vykdyti Lietuvos Respublikos įstatymus ir savo viršininkų
+įsakymus,
 dorai atlikti savo pareigas,
 tarnauti Lietuvos Respublikos žmonėms ir valstybei;
 prisiekiu saugoti visas man patikėtas valstybės ir tarnybos
@@ -430,25 +422,44 @@ Nr.
 IX-1043,
 2002-07-05, Žin., 2002, Nr. 73-3102 (2002-07-19)
  
-19 straipsnis. Saugumo departamento pareigūnų teisėsSaugumo departamento uždaviniams ir funkcijoms atlikti departamento pareigūnai turi teisę: 1) vykdyti operatyvinę veiklą, numatytą Lietuvos Respublikos operatyvinės veiklos įstatyme, naudodamiesi operatyvinės veiklos subjektams suteiktomis teisėmis; 2) kartu su vidaus reikalų ir krašto apsaugos sistemų padaliniais ir kitomis įgaliotomis valstybės ar savivaldybių institucijomis ar įstaigomis įgyvendinti bendras valstybės saugumą užtikrinančias priemones; 3) tirti Saugumo departamento kompetencijai priskirtus nusikaltimus bei kitus teisės pažeidimus;
+19 straipsnis. Saugumo departamento pareigūnų teisės
+Saugumo
+departamento uždaviniams ir funkcijoms atlikti departamento pareigūnai turi
+teisę: 
+1) vykdyti
+operatyvinę veiklą, numatytą Lietuvos Respublikos operatyvinės veiklos
+įstatyme, naudodamiesi operatyvinės veiklos subjektams suteiktomis teisėmis; 
+2) kartu su
+vidaus reikalų ir krašto apsaugos sistemų padaliniais ir kitomis įgaliotomis
+valstybės ar savivaldybių institucijomis ar įstaigomis įgyvendinti bendras
+valstybės saugumą užtikrinančias priemones; 
+3) tirti
+Saugumo departamento kompetencijai priskirtus nusikaltimus bei kitus teisės
+pažeidimus;
+3
+punktas netenka galios nuo 2011 m. vasario 1 d.
+ 
 4) naudotis
 policijos komisariatų areštinėmis, asmenų, įtariamų padarius Saugumo
 departamento tyrimo kompetencijai priskirtą nusikalstamą veiką, sulaikymui,
 taip pat prireikus savarankiškai arba su kitomis įgaliotomis institucijomis
 juos saugoti ir konvojuoti;
+4
+punktas netenka galios nuo 2011 m. vasario 1 d.
+ 
 5) šio Įstatymo
 nustatyta tvarka oficialiai įspėti asmenis;
 6) Saugumo
 departamento centrinio aparato valdybos, skyriaus ar teritorinės įstaigos
 vadovo raštišku reikalavimu neatlygintinai gauti iš valstybės ir savivaldybių
-institucijų, visų rūšių įmonių, įstaigų ir organizacijų bet kokiu būdu fiksuotą,
-tyrimui reikalingą informaciją. Informaciją, sudarančią valstybės, tarnybos,
-komercinę ar banko paslaptis, turi teisę gauti tik Saugumo departamento
-generalinio direktoriaus įgalioti pareigūnai jos pareikalavę raštu. Už tokiu
-būdu gautos informacijos konfidencialumą įstatymų nustatyta tvarka atsako
-atitinkami Saugumo departamento pareigūnai. Žala, padaryta neteisėtai
-atskleidus komercinę ar banko paslaptį sudarančią informaciją, atlyginama iš
-Saugumo departamento lėšų;
+institucijų, visų rūšių įmonių, įstaigų ir organizacijų bet kokiu būdu
+fiksuotą, tyrimui reikalingą informaciją. Informaciją, sudarančią valstybės,
+tarnybos, komercinę ar banko paslaptis, turi teisę gauti tik Saugumo
+departamento generalinio direktoriaus įgalioti pareigūnai jos pareikalavę
+raštu. Už tokiu būdu gautos informacijos konfidencialumą įstatymų nustatyta
+tvarka atsako atitinkami Saugumo departamento pareigūnai. Žala, padaryta
+neteisėtai atskleidus komercinę ar banko paslaptį sudarančią informaciją,
+atlyginama iš Saugumo departamento lėšų;
 7) iškviesti
 ir (ar) apklausti asmenis bei gauti jų žodinius, raštiškus paaiškinimus Saugumo
 departamento tiriamais klausimais;
@@ -473,16 +484,10 @@ IX-1043,
 Nr.
 IX-1451,
 2003-04-03, Žin., 2003, Nr. 38-1696 (2003-04-24)
+Nr. XI-1265,
+2010-12-23, Žin., 2011, Nr. 2-38 (2011-01-06)
  
-20 straipsnio redakcija iki 2009 m. sausio 1 d.:
-20
-straipsnis. Pareigūnų tarnybiniai rangai
-Saugumo
-departamento pareigūnams nustatomi šie saugumo pareigūnų tarnybiniai rangai: 
-1) saugumo instruktorius;2) saugumo jaunesnysis konsultantas;3) saugumo konsultantas;4) saugumo vyresnysis konsultantas;5) saugumo III rango patarėjas;6) saugumo II rango patarėjas;7) saugumo I rango patarėjas;8) saugumo vyresnysis valstybės patarėjas;9) saugumo vyriausiasis valstybės patarėjas.Saugumo departamento pareigūnų tarnybinių rangų suteikimo ir netekimo pagrindus bei tvarką nustato Saugumo departamento statutas.
-20 straipsnio redakcija nuo 2009 m. sausio 1 d.:
-20
-straipsnis. Pareigūnų laipsniai       
+20 straipsnis. Pareigūnų laipsniai 
 Saugumo
 departamento pareigūnams suteikiami šie pareigūnų laipsniai (toliau –
 laipsniai):
@@ -509,8 +514,8 @@ suteikiami pareigūnams, einantiems statutines pareigas Saugumo departamento
 sistemoje, taip pat pareigūnams, įtrauktiems į Saugumo departamento pareigūnų
 rezervą.
 Saugumo
-departamento pareigūnų laipsnių suteikimo ir netekimo pagrindus ir tvarką nustato
-Saugumo departamento statutas.
+departamento pareigūnų laipsnių suteikimo ir netekimo pagrindus ir tvarką
+nustato Saugumo departamento statutas.
 Straipsnio
 pakeitimai:
 Nr.
@@ -558,9 +563,9 @@ straipsnis. Saugumo departamento pareigūnų visuomeninė veikla
 pareigūnai gali dalyvauti visuomeninių organizacijų, draugijų, klubų ir kitų
 nepolitinių susivienijimų veikloje.
             Saugumo departamente
-draudžiama politinių partijų ir politinių organizacijų veikla. Saugumo
-departamento pareigūnai negali būti politinių partijų, politinių organizacijų
-bei visuomeninių politinių judėjimų nariais bei rėmėjais, negali dalyvauti jų
+draudžiama politinių partijų ir politinių organizacijų veikla. Saugumo departamento
+pareigūnai negali būti politinių partijų, politinių organizacijų bei
+visuomeninių politinių judėjimų nariais bei rėmėjais, negali dalyvauti jų
 veikloje.
             Saugumo departamento
 pareigūnams draudžiama streikuoti bei piketuoti. 
@@ -605,48 +610,16 @@ Nr.
 IX-1043,
 2002-07-05, Žin., 2002, Nr. 73-3102 (2002-07-19)
  
-28 straipsnio redakcija iki 2009 m. sausio 1 d.:
-28
-straipsnis. Saugumo departamento pareigūnų ištarnautas laikas
-Į Saugumo
-departamento pareigūno ištarnautą laiką, kuris suteikia teisę
-gauti Saugumo departamento pareigūno pensiją,
-iki Lietuvos Respublikos pareigūnų ir karių valstybinių
-pensijų įstatymo įsigaliojimo įskaitoma:
-1) tarnyba Saugumo departamento sistemoje nuo paskyrimo į
-pareigas dienos;
-2) darbo Saugumo departamento sistemoje Darbo
-sutarties įstatymo pagrindais laikas, jeigu vėliau tos pareigos priskirtos
-pareigūno statusui;
-3) tarnyba
-Lietuvos Respublikos vidaus reikalų, Krašto apsaugos ministerijų ir Lietuvos 
-muitinės sistemose, jeigu  ta tarnyba buvo organizuota statutiniais pagrindais;
-4) mokymosi
-stacionarinėse aukštosiose civilinėse mokymo įstaigose, taip pat stacionarinėse
-vidaus reikalų, krašto apsaugos ir kitose statutiniais pagrindais veikiančiose
-mokymo įstaigose laikas, jeigu jas baigę asmenys iš karto paskirti į šiame
-straipsnyje numatytas pareigas ir jas ėjo;
-5) darbo
-teisėjais, prokurorais, jų pavaduotojais ir tardytojais laikas;
-6) tarnyba
-Lietuvos Respublikos Aukščiausiosios Tarybos ar Seimo apsaugos skyriuose
-pareigūnais;
-7) mokslo
-tiriamojo darbo laikas mokslo tiriamojo darbo ir mokymo įstaigose;
-8) tarnyba
-užsienio šalių kariuomenėje, vidaus reikalų ir specialiosiose tarnybose
-Lietuvos Respublikos Vyriausybės nustatyta tvarka.
-28 straipsnio redakcija nuo 2009 m. sausio 1 d.:
-28
-straipsnis. Saugumo departamento sistemos pareigūnų tarnybos stažas
+28 straipsnis. Saugumo
+departamento sistemos pareigūnų tarnybos stažas
 Saugumo
 departamento sistemos pareigūnų tarnybos stažo pradžia laikoma saugumo
 pareigūno priėmimo į tarnybą Saugumo departamento sistemoje data. Į Saugumo
 departamento sistemos pareigūnų tarnybos stažą papildomai įskaitomi šie
 laikotarpiai (tarp jų ir laikotarpiai iki 1990 m. kovo 11 d.):
 1) faktinis
-tarnybos vidaus reikalų, krašto apsaugos, Saugumo departamento, prokuratūros sistemose,
-Specialiųjų tyrimų tarnyboje, Kalėjimų departamente prie Teisingumo
+tarnybos vidaus reikalų, krašto apsaugos, Saugumo departamento, prokuratūros
+sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente prie Teisingumo
 ministerijos, jam pavaldžiose įstaigose ir valstybės įmonėse bei Lietuvos
 muitinėje laikas nuo paskyrimo į pareigūno pareigas ar kario statuso įgijimo
 dienos;
@@ -685,8 +658,8 @@ vidurinėse, aukštesniosiose Lietuvos Respublikos policijos (vidaus reikalų) i
 karo mokyklose laikas. Mokymosi tokiose pat kitų valstybių mokyklose laikas
 įskaitomas į tarnybos stažą, jeigu yra teisės aktų nustatyta tvarka
 kompetentingos institucijos suteiktas profesinės kvalifikacijos pripažinimas. Į
-pareigūnų tarnybos stažą taip pat įskaitoma pusė mokymosi kitose aukštosiose
-švietimo įstaigose laiko, jeigu jas baigę asmenys yra priimti į tarnybą statutiniais
+pareigūnų tarnybos stažą taip pat įskaitoma pusė mokymosi kitose aukštosiose švietimo
+įstaigose laiko, jeigu jas baigę asmenys yra priimti į tarnybą statutiniais
 pagrindais per tris mėnesius po baigimo, pailginant šį laikotarpį ligos,
 nėštumo ir gimdymo, tėvystės atostogų, taip pat būtinosios tarnybos
 kariuomenėje ar dalyvavimo kariniuose mokymuose trukme;
@@ -771,8 +744,8 @@ IX-1043,
             32
 straipsnis. Saugumo departamento pareigūnų socialinis draudimas
             Saugumo departamento
-pareigūnai apdraudžiami valstybės lėšomis nuo jų paskyrimo į atitinkamas
-pareigas iki atleidimo iš jų dienos. 
+pareigūnai apdraudžiami valstybės lėšomis nuo jų paskyrimo į atitinkamas pareigas
+iki atleidimo iš jų dienos. 
  
             33
 straipsnis. Saugumo departamento pareigūnų aprūpinimas butais
@@ -795,8 +768,8 @@ skiriami biudžeto asignavimai.
 Straipsnio
 pakeitimai:
 Nr.
-I-1080, 95.10.31, Žin., 1995,
-Nr.92-2056 (95.11.10)
+I-1080, 95.10.31, Žin., 1995, Nr.92-2056
+(95.11.10)
  
 VI. SAUGUMO
 DEPARTAMENTO FINANSAVIMAS IR 
@@ -968,12 +941,24 @@ saugumo departamento įstatymo 28 straipsnyje nurodyti laikotarpiai, buvę iki
 šio įstatymo įsigaliojimo ir teisėtai įskaityti į Saugumo departamento sistemos
 pareigūnų tarnybos stažą, iš naujo nesvarstomi ir netikslinami.
  
+13.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-1265,
+2010-12-23, Žin., 2011, Nr. 2-38 (2011-01-06)
+VALSTYBĖS SAUGUMO DEPARTAMENTO
+ĮSTATYMO 8 IR 19 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2011 m. vasario 1 d.
+ 
+ 
 ***
 Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2008-10-21)
-              
-   autrap@lrs.lt
+Redagavo
+Aušrinė Trapinskienė (2011-01-10)
+                 
+autrap@lrs.lt
 
