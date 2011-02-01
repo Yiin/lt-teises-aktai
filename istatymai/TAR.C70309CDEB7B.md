@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C70309CDEB7B"
 
 # Lietuvos Respublikos karo padėties įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2011-01-31
+Suvestinė redakcija nuo 2011-02-01 iki 2011-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1482, i. k. 1001010ISTAIII-1721
  
@@ -599,11 +599,12 @@ Nr. XI-757, 2010-04-13, Žin., 2010, Nr. 48-2306 (2010-04-27), i. k. 1101010ISTA
 26 straipsnis. Ikiteisminio tyrimo įstaigos
 
 
-Kai ikiteisminio tyrimo įstaigos negali atlikti joms Lietuvos Respublikos baudžiamojo proceso kodekso pavestų funkcijų, jas atlieka karo policija, Valstybės saugumo departamento ikiteisminio tyrimo padaliniai, o jei savo funkcijų atlikti negali, – karo komendanto paskirti asmenys. Teritorijoje, kurioje karo policija ir karinės komendantūros negali atlikti savo funkcijų, ikiteisminį tyrimą atlieka šioje teritorijoje veikiančio ar dislokuoto karinio dalinio ar kito karinio vieneto vado paskirti asmenys. Ikiteisminio tyrimo pareigūnais, esant galimybei, turi būti paskirti asmenys, turintys teisinį išsilavinimą.
+Kai ikiteisminio tyrimo įstaigos negali atlikti joms Lietuvos Respublikos baudžiamojo proceso kodekso pavestų funkcijų, jas atlieka karo policija, Valstybės saugumo departamento padaliniai, o jei savo funkcijų atlikti negali, – karo komendanto paskirti asmenys. Teritorijoje, kurioje karo policija ir karinės komendantūros negali atlikti savo funkcijų, ikiteisminį tyrimą atlieka šioje teritorijoje veikiančio ar dislokuoto karinio dalinio ar kito karinio vieneto vado paskirti asmenys. Ikiteisminio tyrimo pareigūnais, esant galimybei, turi būti paskirti asmenys, turintys teisinį išsilavinimą.
 
 
 Straipsnio pakeitimai:
 Nr. IX-1422, 2003-04-03, Žin., 2003, Nr. 38-1667 (2003-04-24), i. k. 1031010ISTA0IX-1422
+Nr. XI-1268, 2010-12-23, Žin., 2011, Nr. 2-41 (2011-01-06), i. k. 1101010ISTA0XI-1268
  
 
 
@@ -947,3 +948,8 @@ Lietuvos Respublikos karo padėties įstatymo 37 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-757, 2010-04-13, Žin., 2010, Nr. 48-2306 (2010-04-27), i. k. 1101010ISTA00XI-757
 Lietuvos Respublikos karo padėties įstatymo 11, 25 straipsnių pakeitimo ir 23 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1268, 2010-12-23, Žin., 2011, Nr. 2-41 (2011-01-06), i. k. 1101010ISTA0XI-1268
+Lietuvos Respublikos karo padėties įstatymo 26 straipsnio pakeitimo įstatymas
