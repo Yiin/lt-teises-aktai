@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 2009-02-01 iki 2011-01-31
+Suvestinė redakcija nuo 2011-02-01 iki 2011-09-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
  
@@ -1074,9 +1074,10 @@ Nr. IX-1417, 2003-04-03, Žin., 2003, Nr. 38-1662 (2003-04-24), i. k. 1031010IST
 
 
 
-2) laikydamasis valstybės saugumo interesų, atlieka operatyvinius ir ikiteisminio tyrimo veiksmus nustatant ir tiriant veikas, kuriomis kėsinamasi į branduolinės energetikos objektus, branduolinius įrenginius bei įrengimus, taip pat branduolinės technologijos procesus;
+2) laikydamasis valstybės saugumo interesų, atlieka operatyvinius veiksmus nustatant veikas, kuriomis kėsinamasi į branduolinės energetikos objektus, branduolinius įrenginius bei įrengimus, taip pat branduolinės technologijos procesus; 
 Straipsnio punkto pakeitimai:
 Nr. IX-1417, 2003-04-03, Žin., 2003, Nr. 38-1662 (2003-04-24), i. k. 1031010ISTA0IX-1417
+Nr. XI-1267, 2010-12-23, Žin., 2011, Nr. 2-40 (2011-01-06), i. k. 1101010ISTA0XI-1267
  
 
 
@@ -2633,3 +2634,8 @@ Lietuvos Respublikos branduolinės energijos įstatymo 20, 21 ir 50 straipsnių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-134, 2009-01-12, Žin., 2009, Nr. 10-356 (2009-01-27), i. k. 1091010ISTA00XI-134
 Lietuvos Respublikos branduolinės energijos įstatymo 7, 9, 26, 29, 30, 37, 38, 71 ir 74 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1267, 2010-12-23, Žin., 2011, Nr. 2-40 (2011-01-06), i. k. 1101010ISTA0XI-1267
+Lietuvos Respublikos branduolinės energijos įstatymo 22 straipsnio pakeitimo įstatymas
