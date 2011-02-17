@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS TEISĖJŲ ATLYGINIMŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2010-07-13 iki 2011-02-16
+Suvestinė redakcija nuo 2011-02-17 iki 2011-12-07
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 131-5022, i. k. 1081010ISTA00X-1771
  
@@ -137,6 +137,10 @@ Nr. XI-83, 2008-12-19, Žin., 2008, Nr. 149-6009 (2008-12-30), i. k. 1081010ISTA
 
 
 1. Bendrosios kompetencijos ir specializuotų teismų teisėjams metų pabaigoje už viršvalandinį darbą, darbą poilsio ir švenčių dienomis atliekant teisėjo funkcijas, nurodytas Baudžiamojo proceso kodekse, Civilinio proceso kodekse bei kituose įstatymuose, išmokama ne didesnė kaip pareiginės algos dydžio vienkartinė priemoka. Ji mokama neviršijant atitinkamų metų Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme teismui nustatytų asignavimų darbo užmokesčiui. Jeigu šių lėšų nepakanka, taip pat jei teisėjas institucijoje nėra išdirbęs visų metų, priemokos dydis perskaičiuojamas proporcingai esamoms darbo užmokesčio lėšoms ir tais metais dirbtam laikui.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos teisėjų atlyginimų įstatymo 6 straipsnio 1 dalis (Žin., 2008, Nr. 131-5022) tiek, kiek ribojama teisėjų teisė gauti teisingą atlyginimą už viršvalandinį darbą, už darbą švenčių ir poilsio dienomis, prieštarauja Lietuvos Respublikos Konstitucijos 48 straipsnio 1 dalies nuostatai „Kiekvienas žmogus <...> turi teisę <...> gauti teisingą apmokėjimą už darbą <...>“, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+2011-02-14, Žin., 2011, Nr. 20-967 (2011-02-17), i. k. 1111000NUTARG111145            
+ 
 
 
 
@@ -440,3 +444,8 @@ Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-953, 2010-06-30, Žin., 2010, Nr. 82-4307 (2010-07-13), i. k. 1101010ISTA00XI-953
 Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+2011-02-14, Žin., 2011, Nr. 20-967 (2011-02-17), i. k. 1111000NUTARG111145                
+Dėl Lietuvos Respublikos teisėjų atlyginimų įstatymo (2008 m. lapkričio 6 d. redakcija) 4 straipsnio 2 dalies 2 punkto, 5 straipsnio 1 dalies, 6 straipsnio 1 dalies atitikties Lietuvos Respublikos Konstitucijai
