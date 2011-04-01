@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2A629A227788"
 
 # Lietuvos Respublikos cheminių medžiagų ir cheminių mišinių įstatymas
 
-Suvestinė redakcija nuo 2010-12-31 iki 2011-03-31
+Suvestinė redakcija nuo 2011-04-01 iki 2013-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 36-987, i. k. 1001010ISTAIII-1641
  
@@ -753,11 +753,12 @@ CHEMINIŲ MEDŽIAGŲ IR PREPARATŲ TVARKYMO VALSTYBINĖ KONTROLĖ
 19 straipsnis. Cheminių medžiagų ir preparatų tvarkymo valstybinė kontrolė
 
 
-Cheminių medžiagų ir preparatų tvarkymo valstybinę kontrolę vykdo Sveikatos apsaugos ministerija, Žemės ūkio ministerija, Ūkio ministerija ir jų įgaliotos institucijos, Aplinkos ministerijos įgaliota institucija, Valstybinė darbo inspekcija prie Socialinės apsaugos ir darbo ministerijos, Narkotikų kontrolės departamentas prie Lietuvos Respublikos Vyriausybės ir Muitinės departamento prie Finansų ministerijos įgaliotos muitinės įstaigos pagal kompetenciją, atsižvelgdami į jiems teisės aktų nustatytą veiklos sritį.
-TAR pastaba. 19 straipsnio nuostata dėl Narkotikų kontrolės departamento prie Lietuvos Respublikos Vyriausybės kompetencijos cheminių medžiagų ir preparatų tvarkymo valstybinės kontrolės srityje įsigalioja 2008 m. spalio 1 d.
+Cheminių medžiagų ir preparatų tvarkymo valstybinę kontrolę vykdo Sveikatos apsaugos ministerija, Žemės ūkio ministerija, Ūkio ministerija ir jų įgaliotos institucijos, Aplinkos ministerijos įgaliota institucija, Valstybinė darbo inspekcija prie Socialinės apsaugos ir darbo ministerijos, Narkotikų, tabako ir alkoholio kontrolės departamentas ir Muitinės departamento prie Finansų ministerijos įgaliotos muitinės įstaigos pagal kompetenciją, atsižvelgdami į jiems teisės aktų nustatytą veiklos sritį.
+
+
+Straipsnio pakeitimai:
+Nr. XI-1181, 2010-11-30, Žin., 2010, Nr. 145-7434 (2010-12-11), i. k. 1101010ISTA0XI-1181
  
-
-
 
 
 
