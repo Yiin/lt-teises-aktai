@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.810A3C4DB722"
 
 # Lietuvos Respublikos narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) kontrolės įstatymas
 
-Suvestinė redakcija nuo 2008-10-01 iki 2011-03-31
+Suvestinė redakcija nuo 2011-04-01 iki 2011-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 55-1764, i. k. 0991010ISTAIII-1207
  
@@ -62,7 +62,10 @@ Vilnius
 
 
 
-3. Licencija – Narkotikų kontrolės departamento prie Lietuvos Respublikos Vyriausybės išduotas dokumentas, suteikiantis teisę ją turinčiam subjektui vykdyti veiklą, susijusią su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais).
+3. Licencija – Narkotikų, tabako ir alkoholio kontrolės departamento išduotas dokumentas, suteikiantis teisę ją turinčiam subjektui vykdyti veiklą, susijusią su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais). 
+Straipsnio dalies pakeitimai:
+Nr. XI-1182, 2010-11-30, Žin., 2010, Nr. 145-7435 (2010-12-11), i. k. 1101010ISTA0XI-1182
+ 
 
 
 
@@ -77,7 +80,10 @@ Vilnius
 
 
 
-6. Specialioji licencija – Narkotikų kontrolės departamento prie Lietuvos Respublikos Vyriausybės vaistinėms, veterinarijos vaistinėms, policijos ir muitinės įstaigoms, valstybės institucijų, vykdančių veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), kontrolę, įgaliotoms laboratorijoms ir (arba) Lietuvos kariuomenei išduotas dokumentas, suteikiantis teisę jį turintiems subjektams vykdyti veiklą, susijusią su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), ar atlikti valstybės nustatytas funkcijas, susijusias su šiomis medžiagomis.
+6. Specialioji licencija – Narkotikų, tabako ir alkoholio kontrolės departamento vaistinėms, veterinarijos vaistinėms, policijos ir muitinės įstaigoms, valstybės institucijų, vykdančių veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), kontrolę, įgaliotoms laboratorijoms ir (arba) Lietuvos kariuomenei išduotas dokumentas, suteikiantis teisę jį turintiems subjektams vykdyti veiklą, susijusią su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), ar atlikti valstybės nustatytas funkcijas, susijusias su šiomis medžiagomis. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1182, 2010-11-30, Žin., 2010, Nr. 145-7435 (2010-12-11), i. k. 1101010ISTA0XI-1182
+ 
 
 
 
@@ -87,7 +93,10 @@ Vilnius
 
 
 
-8. Veiklos vietos registracijos pažymėjimas (registracijos pažymėjimas) – Narkotikų kontrolės departamento prie Lietuvos Respublikos Vyriausybės išduotas dokumentas, suteikiantis teisę jį turinčiam subjektui vykdyti veiklą nurodytu (-ais) adresu (-ais), susijusią su antros ir (arba) trečios kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005 ir Reglamento (EB) Nr. 1277/2005 nustatytais atvejais.
+8. Veiklos vietos registracijos pažymėjimas (registracijos pažymėjimas) – Narkotikų, tabako ir alkoholio kontrolės departamento išduotas dokumentas, suteikiantis teisę jį turinčiam subjektui vykdyti veiklą nurodytu (nurodytais) adresu (adresais), susijusią su antros ir (arba) trečios kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005 ir Reglamento (EB) Nr. 1277/2005 nustatytais atvejais.
+Straipsnio dalies pakeitimai:
+Nr. XI-1182, 2010-11-30, Žin., 2010, Nr. 145-7435 (2010-12-11), i. k. 1101010ISTA0XI-1182
+ 
 
 
 
@@ -103,20 +112,22 @@ Vilnius
 3 straipsnis. Veiklos, susijusios su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), licencijavimas
 
 
-1. Narkotikų kontrolės departamentas prie Lietuvos Respublikos Vyriausybės (toliau – Narkotikų kontrolės departamentas) Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005, Reglamento (EB) Nr. 1277/2005 ir Lietuvos Respublikos Vyriausybės nustatytais pagrindais ir tvarka veiklai, susijusiai su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), išduoda licencijas ir specialiąsias licencijas, sustabdo jų galiojimą, tikslina specialiąsias licencijas, panaikina licencijų ir specialiųjų licencijų galiojimo sustabdymą ir jų galiojimą.
+1. Narkotikų, tabako ir alkoholio kontrolės departamentas Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005, Reglamento (EB) Nr. 1277/2005 ir Lietuvos Respublikos Vyriausybės nustatytais pagrindais ir tvarka veiklai, susijusiai su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), išduoda licencijas ir specialiąsias licencijas, sustabdo jų galiojimą, tikslina specialiąsias licencijas, panaikina licencijų ir specialiųjų licencijų galiojimo sustabdymą ir jų galiojimą.
 
 
 
 
-2. Prieš priimdami sprendimą išduoti licenciją ar specialiąją licenciją, Narkotikų kontrolės departamento valstybės tarnautojai, atliekantys kontrolės veiksmus, turi nuvykti į subjekto veiklos vietą ir patikrinti, ar subjektas teisės aktų nustatyta tvarka yra pasirengęs vykdyti veiklą, susijusią su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais).
+2. Prieš priimdami sprendimą išduoti licenciją ar specialiąją licenciją, Narkotikų, tabako ir alkoholio kontrolės departamento valstybės tarnautojai, atliekantys kontrolės veiksmus, turi nuvykti į subjekto veiklos vietą ir patikrinti, ar subjektas teisės aktų nustatyta tvarka yra pasirengęs vykdyti veiklą, susijusią su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais).
 
 
 
 
 3. Už licencijos ar specialiosios licencijos išdavimą imama Lietuvos Respublikos Vyriausybės nustatyto dydžio valstybės rinkliava.
+
+
+Straipsnio pakeitimai:
+Nr. XI-1182, 2010-11-30, Žin., 2010, Nr. 145-7435 (2010-12-11), i. k. 1101010ISTA0XI-1182
  
-
-
 
 
 
@@ -129,12 +140,18 @@ Vilnius
 
 
 
-2. Narkotikų kontrolės departamentas Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005, Reglamento (EB) Nr. 1277/2005 ir Lietuvos Respublikos Vyriausybės nustatyta tvarka išduoda veiklos vietos registracijos pažymėjimus, tikslina, sustabdo jų galiojimą, panaikina registracijos pažymėjimų galiojimo sustabdymą ir jų galiojimą.
+2. Narkotikų, tabako ir alkoholio kontrolės departamentas Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005, Reglamento (EB) Nr. 1277/2005 ir Lietuvos Respublikos Vyriausybės nustatyta tvarka išduoda veiklos vietos registracijos pažymėjimus, tikslina, sustabdo jų galiojimą, panaikina registracijos pažymėjimų galiojimo sustabdymą ir jų galiojimą. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1182, 2010-11-30, Žin., 2010, Nr. 145-7435 (2010-12-11), i. k. 1101010ISTA0XI-1182
+ 
 
 
 
 
-3. Prieš priimdami sprendimą išduoti veiklos vietos registracijos pažymėjimą, Narkotikų kontrolės departamento valstybės tarnautojai, atliekantys kontrolės veiksmus, turi nuvykti į subjekto veiklos vietą ir patikrinti, ar subjektas teisės aktų nustatyta tvarka yra pasirengęs vykdyti veiklą, susijusią su antros ir (arba) trečios kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais).
+3. Prieš priimdami sprendimą išduoti veiklos vietos registracijos pažymėjimą, Narkotikų, tabako ir alkoholio kontrolės departamento valstybės tarnautojai, atliekantys kontrolės veiksmus, turi nuvykti į subjekto veiklos vietą ir patikrinti, ar subjektas teisės aktų nustatyta tvarka yra pasirengęs vykdyti veiklą, susijusią su antros ir (arba) trečios kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais).
+Straipsnio dalies pakeitimai:
+Nr. XI-1182, 2010-11-30, Žin., 2010, Nr. 145-7435 (2010-12-11), i. k. 1101010ISTA0XI-1182
+ 
 
 
 
@@ -155,7 +172,10 @@ Vilnius
 
 
 
-2. Narkotikų kontrolės departamentas Reglamento (EB) Nr. 111/2005, Reglamento (EB) Nr. 1277/2005 ir Lietuvos Respublikos Vyriausybės nustatyta tvarka išduoda importo arba eksporto leidimus, sustabdo jų galiojimą, panaikina importo arba eksporto leidimų galiojimo sustabdymą, pratęsia ir panaikina jų galiojimą.
+2. Narkotikų, tabako ir alkoholio kontrolės departamentas Reglamento (EB) Nr. 111/2005, Reglamento (EB) Nr. 1277/2005 ir Lietuvos Respublikos Vyriausybės nustatyta tvarka išduoda importo arba eksporto leidimus, sustabdo jų galiojimą, panaikina importo arba eksporto leidimų galiojimo sustabdymą, pratęsia ir panaikina jų galiojimą.
+Straipsnio dalies pakeitimai:
+Nr. XI-1182, 2010-11-30, Žin., 2010, Nr. 145-7435 (2010-12-11), i. k. 1101010ISTA0XI-1182
+ 
 
 
 
@@ -171,12 +191,12 @@ Vilnius
 6 straipsnis. Veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), kontrolė
 
 
-1. Veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), kontrolę pagal kompetenciją vykdo Narkotikų kontrolės departamentas, policijos ir muitinės įstaigos, Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, vadovaudamiesi šiuo įstatymu ir (ar) kitais jų veiklą reglamentuojančiais teisės aktais.
+1. Veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), kontrolę pagal kompetenciją vykdo Narkotikų, tabako ir alkoholio kontrolės departamentas, policijos ir muitinės įstaigos, Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, vadovaudamiesi šiuo įstatymu ir (arba) kitais jų veiklą reglamentuojančiais teisės aktais.
 
 
 
 
-2. Narkotikų kontrolės departamento valstybės tarnautojai, pagal kompetenciją atliekantys kontrolės veiksmus, turi teisę:
+2. Narkotikų, tabako ir alkoholio kontrolės departamento valstybės tarnautojai, pagal kompetenciją atliekantys kontrolės veiksmus, turi teisę:
 
 
 1) pateikę pažymėjimą ir institucijos vadovo ar jo įgalioto asmens pavedimą, atlikti patikrinimą be išankstinio perspėjimo subjekto darbo laiku, o kitu laiku – įstatymų nustatyta tvarka pasitelkę teisėsaugos įstaigų pareigūnus, įeiti į visas veiklai naudojamas subjekto patalpas, tikrinti subjekto veiklai naudojamas medžiagas, įrengimus, įrangą, atsargas, atliekamus veiksmus, veiklos dokumentus ir kompiuterinės apskaitos sistemas, siekdami nustatyti, ar laikomasi šio įstatymo ir kitų teisės aktų reikalavimų;
@@ -184,7 +204,7 @@ Vilnius
 
 
 
-2) reikalauti ir nemokamai gauti iš valstybės institucijų ar privačių asmenų, įskaitant pačius subjektus, duomenis (ir informaciją), būtinus Narkotikų kontrolės departamento uždaviniams įgyvendinti ir stebėsenai atlikti;
+2) reikalauti ir nemokamai gauti iš valstybės institucijų ar privačių asmenų, įskaitant pačius subjektus, duomenis (ir informaciją), būtinus Narkotikų, tabako ir alkoholio kontrolės departamento uždaviniams įgyvendinti ir stebėsenai atlikti;
 
 
 
@@ -211,20 +231,22 @@ Vilnius
 
 
 
-3. Narkotikų kontrolės departamentas, policijos ir muitinės įstaigos, Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos tiria veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), pažeidimus ir pagal kompetenciją skiria nuobaudas.
+3. Narkotikų, tabako ir alkoholio kontrolės departamentas, policijos ir muitinės įstaigos, Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos tiria veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), pažeidimus ir pagal kompetenciją skiria nuobaudas.
 
 
 
 
-4. Narkotikų kontrolės departamentas užtikrina, kad rekomendacijos (gairės), nurodytos Reglamento (EB) Nr. 273/2004 9straipsnio 1 dalyje ir Reglamento (EB) Nr. 111/2005 10 straipsnio 3 dalyje, ir į oficialų narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) sąrašą neįtrauktų medžiagų sąrašas būtų platinami subjektams, kurie vykdo veiklą, susijusią su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), ir kitiems chemijos pramonės subjektams, atsižvelgdamas į rekomendacijose (gairėse) nustatytus tikslus.
+4. Narkotikų, tabako ir alkoholio kontrolės departamentas užtikrina, kad rekomendacijos (gairės), nurodytos Reglamento (EB) Nr. 273/2004 9 straipsnio 1 dalyje ir Reglamento (EB) Nr. 111/2005 10 straipsnio 3 dalyje, ir į oficialų narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) sąrašą neįtrauktų medžiagų sąrašas būtų platinami subjektams, kurie vykdo veiklą, susijusią su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), ir kitiems chemijos pramonės subjektams, atsižvelgdamas į rekomendacijose (gairėse) nustatytus tikslus.
 
 
 
 
-5. Jeigu teisės aktų nustatyta tvarka sustabdomas narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) įvežimas ar išvežimas arba jie sulaikomi, apie tai Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, muitinės ir policijos įstaigos turi nedelsdamos informuoti Narkotikų kontrolės departamentą.
+5. Jeigu teisės aktų nustatyta tvarka sustabdomas narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) įvežimas ar išvežimas arba jie sulaikomi, apie tai Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, muitinės ir policijos įstaigos turi nedelsdamos informuoti Narkotikų, tabako ir alkoholio kontrolės departamentą.
+
+
+Straipsnio pakeitimai:
+Nr. XI-1182, 2010-11-30, Žin., 2010, Nr. 145-7435 (2010-12-11), i. k. 1101010ISTA0XI-1182
  
-
-
 
 
 
@@ -232,20 +254,22 @@ Vilnius
 7 straipsnis. Veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), stebėsena ir duomenų (informacijos) teikimas
 
 
-1. Narkotikų kontrolės departamentas teisės aktų nustatyta tvarka vykdo veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), stebėseną ir teikia su šia veikla susijusius duomenis (informaciją).
+1. Narkotikų, tabako ir alkoholio kontrolės departamentas teisės aktų nustatyta tvarka vykdo veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), stebėseną ir teikia su šia veikla susijusius duomenis (informaciją).
 
 
 
 
-2. Narkotikų kontrolės departamentas Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005 ir Reglamento (EB) Nr. 1277/2005 nustatytais atvejais teikia informaciją Europos Komisijai.
+2. Narkotikų, tabako ir alkoholio kontrolės departamentas Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005 ir Reglamento (EB) Nr. 1277/2005 nustatytais atvejais teikia informaciją Europos Komisijai.
 
 
 
 
-3. Aplinkos, Ūkio, Socialinės apsaugos ir darbo, Vidaus reikalų, Sveikatos apsaugos ministerijos ar jų įgaliotos institucijos, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos ar jo įgaliotos muitinės įstaigos pagal kompetenciją teisės aktų nustatyta tvarka teikia Narkotikų kontrolės departamentui informaciją, reikalingą narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) kontrolei ir stebėsenai vykdyti.
+3. Aplinkos, Ūkio, Socialinės apsaugos ir darbo, Vidaus reikalų, Sveikatos apsaugos ministerijos ar jų įgaliotos institucijos, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos ar jo įgaliotos muitinės įstaigos pagal kompetenciją teisės aktų nustatyta tvarka teikia Narkotikų, tabako ir alkoholio kontrolės departamentui informaciją, reikalingą narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) kontrolei ir stebėsenai vykdyti.
+
+
+Straipsnio pakeitimai:
+Nr. XI-1182, 2010-11-30, Žin., 2010, Nr. 145-7435 (2010-12-11), i. k. 1101010ISTA0XI-1182
  
-
-
 
 
 
@@ -323,3 +347,8 @@ Lietuvos Respublikos narkotinių ir psichotropinių medžiagų pirmtakų (prekur
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1556, 2008-05-22, Žin., 2008, Nr. 65-2455 (2008-06-07), i. k. 1081010ISTA00X-1556
 Lietuvos Respublikos narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) kontrolės įstatymo pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1182, 2010-11-30, Žin., 2010, Nr. 145-7435 (2010-12-11), i. k. 1101010ISTA0XI-1182
+Lietuvos Respublikos narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) kontrolės įstatymo 2, 3, 4, 5, 6 ir 7 straipsnių pakeitimo įstatymas
