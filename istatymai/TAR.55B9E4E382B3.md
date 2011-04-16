@@ -170,20 +170,10 @@ Respublikos Seimas, jam atskaitingos valstybės institucijos, Seimo
 kanceliarija;
 2) Respublikos
 Prezidentas ir Respublikos Prezidento kanceliarija;
- 
-3
-punkto redakcija iki 2010 m. liepos 1 d.:
-3) Lietuvos Respublikos
-Vyriausybė, ministerijos, Vyriausybės įstaigos, įstaigos prie ministerijų,
-apskričių viršininkų administracijos, Vyriausybės atstovai ir
-Vyriausybės įgaliotiniai;
-3
-punkto redakcija nuo 2010 m. liepos 1 d.:
 3) Lietuvos
 Respublikos Vyriausybė, Ministro Pirmininko tarnyba, ministerijos,
 Vyriausybės įstaigos, įstaigos prie ministerijų, Vyriausybės atstovai ir
 Vyriausybės įgaliotiniai;
- 
 4) Lietuvos
 Respublikos Konstitucinis Teismas;
 5) Lietuvos
@@ -269,9 +259,9 @@ Respublikos teismų pirmininkų darbo kabinetuose;
 11) Lietuvos
 Respublikos generalinio prokuroro darbo kabinete;
 12) Lietuvos banko valdybos pirmininko darbo kabinete;
-13) Lietuvos Respublikos
-kariuomenės vado, lauko pajėgų vado, Gynybos štabo viršininko ir karinių
-dalinių vadų darbo kabinetuose; 
+13) Lietuvos kariuomenės vado,
+Jungtinio štabo viršininko, kariuomenės pajėgų rūšių ir karinių dalinių vadų
+darbo kabinetuose;
 14) Lietuvos Respublikos diplomatinių atstovybių ir konsulinių įstaigų
 bei jų padalinių, specialiųjų misijų, esančių užsienio valstybėse, vadovų darbo
 kabinetuose.
@@ -284,12 +274,15 @@ Straipsnio
 pakeitimai:
 Nr. XI-745,
 2010-04-13, Žin., 2010, Nr. 48-2295 (2010-04-27)
+Nr.
+XI-1305,
+2011-03-31, Žin., 2011, Nr. 46-2157 (2011-04-16)
  
 6
 straipsnis. Lietuvos nacionaliniai simboliai
-1. Lietuvos istoriniai
-nacionaliniai simboliai yra dvigubas kryžius ir Gediminaičių stulpai. Jų
-etalonus Lietuvos heraldikos komisijos teikimu tvirtina Respublikos
+1. Lietuvos
+istoriniai nacionaliniai simboliai yra dvigubas kryžius ir Gediminaičių
+stulpai. Jų etalonus Lietuvos heraldikos komisijos teikimu tvirtina Respublikos
 Prezidentas.
 2. Dvigubas kryžius vaizduojamas
 geltonas (auksinis) mėlyname skyde ir yra sudedamoji Lietuvos valstybės herbo
@@ -306,20 +299,8 @@ TREČIASIS SKIRSNIS
 KITI
 HERBAI IR HERBINIAI ŽENKLAI
  
-7 straipsnio redakcija iki 2010
-m. liepos 1 d.:
-7 straipsnis. Apskrities herbas
-1. Apskrities herbą apskrities
-viršininkas ir jo įsteigtos įstaigos naudoja reprezentacinėms reikmėms, taip
-pat organizuojant apskrities renginius. 
-2. Kiti asmenys
-gali naudoti apskrities herbą  tik turėdami apskrities viršininko
-sutikimą, išskyrus atvejus, kai apskrities herbas ar jo atvaizdas naudojami
-leidybos, mokslo ir visuomenės informavimo srityse.
 7
-straipsnio redakcija nuo 2010 m. liepos 1 d.:
-7 straipsnis.
-Apskrities herbas
+straipsnis. Apskrities herbas
 1. Apskrities
 herbas naudojamas reprezentacinėms reikmėms, taip pat organizuojant apskrities
 renginius.
@@ -367,10 +348,10 @@ HERBINIŲ ŽENKLŲ ETALONAI IR PROJEKTAI
 ženklų, herbinių antspaudų etalonai ir projektai
 1. Šio įstatymo
 ir kitų teisės aktų nustatyta tvarka patvirtinti herbų, herbinių vėliavų,
-herbinių ženklų, herbinių antspaudų etalonai ir projektai yra oficialūs dokumentai,
-patvirtinantys herbų, herbinių vėliavų, herbinių ženklų, herbinių antspaudų
-tapatumą jų etalonams ir projektams. Jų  pagrindu gaminami atitinkami herbai,
-herbinės vėliavos, herbiniai ženklai, herbiniai antspaudai.
+herbinių ženklų, herbinių antspaudų etalonai ir projektai yra oficialūs
+dokumentai, patvirtinantys herbų, herbinių vėliavų, herbinių ženklų, herbinių
+antspaudų tapatumą jų etalonams ir projektams. Jų  pagrindu gaminami atitinkami
+herbai, herbinės vėliavos, herbiniai ženklai, herbiniai antspaudai.
 2. Vienas
 etalono ir projekto egzempliorius saugomas Lietuvos heraldikos komisijoje,
 kitas – pas herbo ar herbinio ženklo naudotoją. 
@@ -407,10 +388,10 @@ herbas ir (ar) savivaldybės herbas, derina šių dokumentų pavyzdžius su Liet
 heraldikos komisija.
 7. Valstybės ir
 savivaldybių institucijos, įstaigos ar kiti subjektai, savo uniformų
-skiriamuosiuose ženkluose naudojantys Lietuvos valstybės herbą, nacionalinius simbolius,
-kitus herbinius ženklus, taip pat garbės ar pasižymėjimo ženklus, numatytus
-įstatymuose ar kituose institucijų veiklą reglamentuojančiuose teisės aktuose,
-derina jų projektus su Lietuvos heraldikos komisija.
+skiriamuosiuose ženkluose naudojantys Lietuvos valstybės herbą, nacionalinius
+simbolius, kitus herbinius ženklus, taip pat garbės ar pasižymėjimo ženklus,
+numatytus įstatymuose ar kituose institucijų veiklą reglamentuojančiuose teisės
+aktuose, derina jų projektus su Lietuvos heraldikos komisija.
  
 11
 straipsnis. Patvirtintų etalonų patikslinimas arba pakeitimas
@@ -445,8 +426,8 @@ pateikia Respublikos Prezidentui ir viešai paskelbia.
 Prezidentas. Komisijos narių kadencijų skaičius neribojamas.
 2. Komisijos nariais gali būti skiriami tik nepriekaištingos
 reputacijos Lietuvos Respublikos piliečiai, turintys aukštąjį universitetinį
-išsilavinimą ir ne mažesnį kaip trejų metų heraldikos ar jai artimos srities 
-mokslinio ar praktinio darbo patirtį.
+išsilavinimą ir ne mažesnį kaip trejų metų heraldikos ar jai artimos srities  mokslinio
+ar praktinio darbo patirtį.
 3.
 Komisijos vadovas yra Komisijos pirmininkas. Pirmininko nesant jo pareigas eina
 Komisijos pirmininko pavaduotojas.
@@ -481,8 +462,8 @@ antspaudų ir kitų herbinių ženklų kūrimą;
 3) sprendžia bendruosius
 heraldikos norminimo klausimus, atsižvelgdama į Lietuvos heraldikos tradicijas,
 tarptautinę patirtį ir heraldikos mokslo tendencijas;
-4) ugdo pagarbą heraldikos
-simbolikai, propaguoja heraldikos žinias;
+4) ugdo pagarbą heraldikos simbolikai,
+propaguoja heraldikos žinias;
 5) nustato taisykles,
 reglamentuojančias herbų, herbinių vėliavų, herbinių ženklų ir herbinių
 antspaudų kūrimą; 
@@ -517,9 +498,9 @@ straipsnio 2 dalyje nustatytas funkcijas, turi teisę:
 neatlygintinai gauti ir rinkti informaciją iš visų Lietuvos
 Respublikos institucijų, įstaigų, įmonių, organizacijų apie heraldikos objektų
 naudojimą;
-2)
-neatlygintinai naudotis valstybės archyvuose, muziejuose ir bibliotekose
-saugoma istorine heraldikos medžiaga istoriniams herbams atkurti;
+2) neatlygintinai
+naudotis valstybės archyvuose, muziejuose ir bibliotekose saugoma istorine
+heraldikos medžiaga istoriniams herbams atkurti;
 3) teisės aktų
 nustatyta tvarka dalyvauti valstybės ir savivaldybių institucijų bei įstaigų,
 teismų, mokslo ir studijų institucijų, valstybės pareigūnų posėdžiuose ir
@@ -540,26 +521,6 @@ straipsnis. Įstatymo įgyvendinimo priežiūra
 direktorius ar jo įgalioti asmenys, krašto apsaugos ir vidaus reikalų sistemų
 savarankiškuose kariniuose daliniuose ir padaliniuose – atitinkamai krašto
 apsaugos ministras ar vidaus reikalų ministras arba jų įgalioti asmenys. 
- 
-2
-dalies redakcija iki 2010 m. liepos 1 d.:
-2. Už Lietuvos
-valstybės herbo, herbinių ženklų ir herbinių antspaudų naudojimą valstybės
-institucijose, įstaigose yra atsakingi:
-1) Lietuvos
-Respublikos Seime – Seimo kancleris;
-2) Respublikos Prezidento
-institucijoje – Respublikos Prezidento kanceliarijos kancleris;
-3) Lietuvos
-Respublikos Vyriausybėje – Ministro Pirmininko kancleris;
-4) Lietuvos Respublikos Konstituciniame Teisme, Lietuvos
-Aukščiausiajame Teisme, Lietuvos vyriausiajame administraciniame teisme –
-teismo kancleris, kituose teismuose – teismo pirmininkas;
-5) kitose
-valstybės institucijose ir įstaigose, Lietuvos Respublikos diplomatinėse
-atstovybėse, konsulinėse įstaigose ir specialiosiose misijose – jų vadovai.
-2
-dalies redakcija nuo 2010 m. liepos 1 d.:
 2. Už Lietuvos
 valstybės herbo, herbinių ženklų ir herbinių antspaudų naudojimą valstybės ir
 savivaldybių institucijose, įstaigose yra atsakingi:
@@ -767,10 +728,19 @@ HERBINIŲ ŽENKLŲ ĮSTATYMO 2, 5, 7, 15 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 Šis įstatymas, išskyrus 5
 straipsnį, įsigalioja 2010 m. liepos 1 d.
  
-*** Pabaiga ***
+9.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-1305, 2011-03-31,
+Žin., 2011, Nr. 46-2157 (2011-04-16)
+VALSTYBĖS
+HERBO, KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+***
+Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2010-04-29)
+Aušra Bodin (2011-04-20)
                  
-autrap@lrs.lt
+aubodi@lrs.lt
