@@ -17,7 +17,6 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7D36321FB46F"
 2006, Nr. 48-1699
 Neoficialus įstatymo tekstas
  
- 
 LIETUVOS RESPUBLIKOS
 LIETUVOS BANKO ĮSTATYMO 1, 6, 7, 8, 11, 12, 14, 19, 20, 25, 31, 33, 35,
 36, 38, 47, 49, 50, 53, 54, 54(1), 55 STRAIPSNIŲ, KETVIRTOJO IR
@@ -173,12 +172,12 @@ punktą ir jį išdėstyti taip:
 laikydamasi Europos Bendrijos steigimo sutarties
 reikalavimų, sprendžia banknotų ir monetų išleidimo, išėmimo iš apyvartos ir
 kitus su tuo susijusius klausimus;“.
-6. Pakeisti 11 straipsnio 16 punktą ir
-jį išdėstyti taip:
+6. Pakeisti 11
+straipsnio 1 dalies 16 punktą ir jį išdėstyti taip:
 „16) vadovaudamasi Europos centrinio
 banko teisės aktų reikalavimais, nustato Lietuvos banko finansinės apskaitos
-politiką, tvirtina metinę finansinę ataskaitą ir finansinių metų pelno
-paskirstymą, kaip nustatyta šio įstatymo 23 straipsnio 3 dalyje;”.
+politiką, tvirtina metinių finansinių ataskaitų rinkinį ir finansinių metų
+pelno paskirstymą, kaip nustatyta šio įstatymo 23 straipsnio 3 dalyje;“.
 7. Pakeisti 11 straipsnio 1 dalies 17
 punktą ir jį išdėstyti taip:
 „17)
@@ -192,6 +191,9 @@ rezultatyviausiomis priemonėmis, taip pat nustato pirkimų tvarką;“.
 banko valdyba gali dalį savo funkcijų pavesti vykdyti valdybos pirmininkui,
 išskyrus šio straipsnio 1 dalies 4, 6, 7, 9, 10, 12, 13, 14, 15, 16, 18 ir 19
 punktuose numatytas funkcijas.“
+Straipsnio pakeitimai:
+Nr. XI-1320,
+2011-04-14, Žin., 2011, Nr. 46-2159 (2011-04-16)
  
 6 straipsnis. 12
 straipsnio 4 dalies pakeitimas
@@ -203,9 +205,9 @@ sprendimą dėl atleidimo prieš terminą turi teisę per du mėnesius nuo spren
 paskelbimo dienos arba nuo pranešimo apie jį gavimo dienos, arba, jei to nebuvo
 padaryta, nuo tos dienos, kurią ieškovas apie jį sužinojo, apskųsti Europos
 Teisingumo Teismui, motyvuodamas Europos Bendrijos steigimo sutarties ar kitos
-teisės normos, susijusios su minėtos sutarties taikymu, pažeidimu. Lietuvos banko
-valdybos pirmininko pavaduotojai ir valdybos nariai sprendimą dėl atleidimo
-prieš terminą turi teisę apskųsti Vilniaus apygardos teismui.“ 
+teisės normos, susijusios su minėtos sutarties taikymu, pažeidimu. Lietuvos
+banko valdybos pirmininko pavaduotojai ir valdybos nariai sprendimą dėl
+atleidimo prieš terminą turi teisę apskųsti Vilniaus apygardos teismui.“ 
  
 7 straipsnis. 14
 straipsnio 2 dalies pakeitimas
@@ -238,8 +240,8 @@ interesams.“
 „3. Valstybės ir
 tarnybos paslaptis sudarančios informacijos detalius sąrašus tvirtina Lietuvos
 banko valdybos pirmininkas. Valstybės ir tarnybos paslaptis sudarančios
-informacijos detalūs sąrašai tvirtinami ir keičiami Lietuvos Respublikos valstybės
-ir tarnybos paslapčių įstatymo nustatyta tvarka.”
+informacijos detalūs sąrašai tvirtinami ir keičiami Lietuvos Respublikos
+valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka.”
 3. Pakeisti 19
 straipsnio 4 dalį ir ją išdėstyti taip:
 „4. Banko
@@ -267,8 +269,8 @@ POLITIKA“.
 pakeitimas 
 Pakeisti
 25 straipsnį ir jį išdėstyti taip:
-„25
-straipsnis. Sąskaitų atidarymas ir pinigų politikos priemonės
+„25 straipsnis.
+Sąskaitų atidarymas ir pinigų politikos priemonės
 1. Lietuvos
 bankas, veikdamas kaip sudėtinė Europos centrinių bankų sistemos dalis, vykdo
 nustatytą pinigų politiką.
@@ -282,9 +284,10 @@ kredito operacijų principus, įskaitant sąlygų, kuriomis jis pasirengęs atli
 tokius sandorius, paskelbimą, gali:
 1) veikti
 finansų rinkose pirkdamas ir parduodamas (sudarydamas neatidėliotinus ir
-išankstinius sandorius), įskaitant pirkimą ir pardavimą pagal atpirkimo sutartis,
-ir skolindamas arba skolindamasis skolos įsipareigojimus ir likvidžias rinkos
-priemones Bendrijos arba ne Bendrijos valiutomis, taip pat tauriuosius metalus;
+išankstinius sandorius), įskaitant pirkimą ir pardavimą pagal atpirkimo
+sutartis, ir skolindamas arba skolindamasis skolos įsipareigojimus ir
+likvidžias rinkos priemones Bendrijos arba ne Bendrijos valiutomis, taip pat
+tauriuosius metalus;
 2)
 atlikti kredito operacijas su kredito įstaigomis ir kitais rinkos dalyviais
 skolindamas lėšas, adekvačias pakankamam įkaitui.“
@@ -321,8 +324,8 @@ taip:
 „31
 straipsnis. Euro ir užsienio valiutų santykių nustatymas ir skelbimas
 1.
-Lietuvos bankas skelbia Lietuvos Respublikoje Europos centrinio banko
-paskelbtus orientacinius euro ir užsienio valiutų santykius.
+Lietuvos bankas skelbia Lietuvos Respublikoje Europos centrinio banko paskelbtus
+orientacinius euro ir užsienio valiutų santykius.
 2.
 Lietuvos bankas taip pat gali nustatyti ir skelbti Lietuvos Respublikoje kitus,
 šio straipsnio 1 dalyje nenurodytus, orientacinius euro ir užsienio valiutų
@@ -354,22 +357,30 @@ Lietuvos
 bankas užsienio atsargas valdo, naudoja ir jomis disponuoja pagal principus ir
 tvarką, atitinkančius Europos Sąjungos teisės reikalavimus.“
  
-21 straipsnis. 35
-straipsnio pakeitimas
-Pakeisti
-35 straipsnį ir jį išdėstyti taip:
-„35 straipsnis.
-Lietuvos banko operacijos
-Atlikdamas
+21
+straipsnis. 35 straipsnio pakeitimas 
+Pakeisti 35 straipsnį
+ir jį išdėstyti taip:
+„35
+straipsnis. Lietuvos banko operacijos
+1. Atlikdamas
 savo funkcijas, Lietuvos bankas turi teisę atlikti šias operacijas:
-1) atsidaryti sąskaitas ir padėti
-indėlius;
-2) atidaryti bei tvarkyti
-sąskaitas ir priimti indėlius;
-3) imti ir duoti paskolas;
-4) pirkti ir parduoti auksą bei
-turtą užsienio valiuta;
-5) atlikti kitas operacijas.“
+1) atsidaryti
+sąskaitas ir padėti indėlius;
+2) atidaryti ir
+tvarkyti sąskaitas ir priimti indėlius;
+3) imti ir duoti
+paskolas;
+4) pirkti ir
+parduoti auksą bei turtą užsienio valiuta;
+5) atlikti kitas
+operacijas.
+2. Užsienio valstybių centriniams
+bankams priklausančios užsienio atsargos, laikomos Lietuvos banko atidarytose
+sąskaitose, negali būti išieškojimo (teismo ar ne teismo būdu) objektas.“
+Straipsnio pakeitimai:
+Nr. XI-1320,
+2011-04-14, Žin., 2011, Nr. 46-2159 (2011-04-16)
  
 22 straipsnis. 36
 straipsnio pakeitimas
@@ -404,30 +415,37 @@ Straipsnio pakeitimas:
 Nr. XI-556,
 2009-12-10, Žin., 2009, Nr. 153-6894 (2009-12-28)
  
-26 straipsnis. 49 straipsnio
-pavadinimo ir 1 dalies pakeitimas
-1.
-Pakeisti 49 straipsnio pavadinimą ir jį išdėstyti taip:
+26 straipsnis. 49
+straipsnio pavadinimo ir 1 dalies pakeitimas
+1. Pakeisti 49
+straipsnio pavadinimą ir jį išdėstyti taip:
 „49
-straipsnis. Finansinė apskaita ir finansinė atskaitomybė“.
-2.
-Pakeisti 49 straipsnio 1 dalį ir ją išdėstyti taip:
+straipsnis. Finansinė apskaita ir metinių finansinių ataskaitų rinkinys“.
+2. Pakeisti 49
+straipsnio 1 dalį ir ją išdėstyti taip:
 „1.
-Lietuvos bankas finansinę apskaitą tvarko ir finansinę atskaitomybę rengia
-vadovaudamasis Europos centrinio banko teisės aktais, gairėmis ir nurodymais,
-reglamentuojančiais nacionalinių centrinių bankų vykdomų operacijų apskaitą ir
-atskaitomybę.“ 
+Lietuvos bankas finansinę apskaitą tvarko, metinių finansinių ataskaitų rinkinį
+(balansą, pelno (nuostolio) ataskaitą ir aiškinamąjį raštą) ir kitas finansines
+ataskaitas rengia vadovaudamasis Europos centrinio banko teisės aktais,
+gairėmis ir nurodymais, reglamentuojančiais nacionalinių centrinių bankų
+vykdomų operacijų apskaitą ir atskaitomybę.“
+Straipsnio pakeitimai:
+Nr. XI-1320,
+2011-04-14, Žin., 2011, Nr. 46-2159 (2011-04-16)
  
-27 straipsnis. 50 straipsnio
-pakeitimas
+27
+straipsnis. 50 straipsnio pakeitimas
 Pakeisti
 50 straipsnį ir jį išdėstyti taip:
 „50
-straipsnis. Lietuvos banko metinės finansinės ataskaitos auditas
+straipsnis. Lietuvos banko metinių finansinių ataskaitų rinkinių auditas
 Lietuvos
-banko metinės finansinės ataskaitos auditą atlieka Lietuvos banko parinkti
-nepriklausomi išorės auditoriai, kuriuos tvirtina Europos Sąjungos Taryba
-rekomendavus Europos centriniam bankui.“
+banko metinių finansinių ataskaitų rinkinių auditą atlieka Lietuvos
+banko parinkti nepriklausomi išorės auditoriai, kuriuos tvirtina Europos
+Sąjungos Taryba rekomendavus Europos centriniam bankui.“
+Straipsnio pakeitimai:
+Nr. XI-1320,
+2011-04-14, Žin., 2011, Nr. 46-2159 (2011-04-16)
  
 28
 straipsnis. 53 straipsnio 3 dalies pakeitimas
@@ -438,8 +456,8 @@ Jeigu skolininkas sutartyje nustatytu laiku neįvykdo prievolių, kurių įvykdy
 buvo užtikrintas finansiniu užstatu (įkaitu), Lietuvos bankas turi teisę
 perimti pateiktą finansinį užstatą (įkaitą) ir jį realizuoti teisės aktų
 nustatyta tvarka. Tokią teisę Lietuvos bankas gali įgyvendinti net ir tada, kai
-skolininkui iškelta bankroto byla ar draudžiama disponuoti pateiktu finansiniu užstatu
-(įkaitu).“
+skolininkui iškelta bankroto byla ar draudžiama disponuoti pateiktu finansiniu
+užstatu (įkaitu).“
  
 29
 straipsnis. 54 straipsnio pakeitimas
@@ -453,10 +471,10 @@ informaciją, reikalingą jo funkcijoms atlikti.
 2. Lietuvos
 bankas gali teikti informaciją Europos centriniam bankui, Europos Sąjungos
 valstybių centriniams bankams, tarptautinėms pinigų ir finansų institucijoms,
-valstybės ir savivaldybių institucijoms, jei ji reikalinga jų funkcijoms
-atlikti ir jei tokios informacijos teikimo nedraudžia šis ar kiti Lietuvos
-Respublikos įstatymai. Šis draudimas netaikomas, kai reikia teikti statistinę
-informaciją Europos centriniam bankui -
+valstybės ir savivaldybių institucijoms, jei ji reikalinga jų funkcijoms atlikti
+ir jei tokios informacijos teikimo nedraudžia šis ar kiti Lietuvos Respublikos
+įstatymai. Šis draudimas netaikomas, kai reikia teikti statistinę informaciją
+Europos centriniam bankui -
 šiuo atveju taikoma 1998 m. lapkričio 23 d. Tarybos reglamento (EB) 2533/98 dėl
 Europos centrinio banko renkamos statistinės informacijos 8 straipsnyje
 nustatyta konfidencialumo tvarka.“
@@ -496,11 +514,15 @@ Papildyti
 susitarimų dėl finansinio įkaito.“
  
 33
-straipsnis. Įstatymo įsigaliojimas 
+straipsnis. Įstatymo įsigaliojimas
 Šis
 įstatymas, išskyrus 6 ir 7 straipsnius, įsigalioja dieną, nuo kurios Europos
-Sąjungos Taryba panaikina išlygą dėl Lietuvos Respublikos pagal Europos
-Bendrijos steigimo sutarties 122 straipsnio 2 dalyje nustatytą procedūrą.
+Sąjungos Taryba panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl
+Europos Sąjungos veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies
+pirmojoje pastraipoje nustatytą procedūrą.
+Straipsnio pakeitimai:
+Nr. XI-1320,
+2011-04-14, Žin., 2011, Nr. 46-2159 (2011-04-16)
  
 Skelbiu
 šį Lietuvos Respublikos Seimo priimtą įstatymą. 
@@ -528,9 +550,18 @@ PAKEITIMO, 26, 27, 28, 29, 30, 32, 37 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIO
 IR ĮSTATYMO PRIEDO PAPILDYMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO IR 25 STRAIPSNIO
 PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
  
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1320,
+2011-04-14, Žin., 2011, Nr. 46-2159 (2011-04-16)
+LIETUVOS BANKO ĮSTATYMO 1, 6, 7, 8, 11,
+12, 14, 19, 20, 25, 31, 33, 35, 36, 38, 47, 49, 50, 53, 54, 54(1), 55
+STRAIPSNIŲ, KETVIRTOJO IR PENKTOJO SKIRSNIŲ PAVADINIMŲ PAKEITIMO, 26, 27, 28,
+29, 30, 32, 37 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS IR ĮSTATYMO PRIEDO
+PAPILDYMO ĮSTATYMO 5, 21, 26, 27 IR 33 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo Aušrinė
-Trapinskienė (2010-01-04)
-                  autrap@lrs.lt
+Redagavo Aušra Bodin (2011-04-21)
+                  aubodi@lrs.lt
