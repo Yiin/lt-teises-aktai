@@ -40,10 +40,9 @@ BENDROSIOS
 NUOSTATOS
  
 1 straipsnio
-redakcija iki dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija iki dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 1
 straipsnis. Lietuvos bankas
 1.
@@ -56,10 +55,9 @@ naudoja ir juo disponuoja šio įstatymo nustatytu mastu, tvarka ir sąlygomis.
 3. Lietuvos
 banką steigia ir likviduoja Seimas.
 1 straipsnio
-redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 1
 straipsnis. Lietuvos bankas 
 1. Lietuvos Respublikoje centrinis bankas yra
@@ -114,10 +112,10 @@ reikalingą veiklą, Lietuvos bankas, Lietuvos banko valdybos pirmininkas, jo
 pavaduotojai, valdybos nariai ir kiti Lietuvos banko tarnautojai (toliau –
 Lietuvos banko tarnautojai) turi nesiekti nurodymų ir jų nepriimti iš
 Europos Sąjungos institucijų ir organų, Europos Sąjungos valstybių narių
-vyriausybių ar iš jokios kitos institucijos ar organo. Lietuvos Respublikos Vyriausybė
-ir valstybės institucijos privalo gerbti Lietuvos banko nepriklausomumą ir
-nesiekti daryti įtaką Lietuvos bankui ir Lietuvos banko tarnautojams, kai jie
-vykdo savo pareigas.
+vyriausybių ar iš jokios kitos institucijos ar organo. Lietuvos Respublikos
+Vyriausybė ir valstybės institucijos privalo gerbti Lietuvos banko
+nepriklausomumą ir nesiekti daryti įtaką Lietuvos bankui ir Lietuvos banko
+tarnautojams, kai jie vykdo savo pareigas.
 Straipsnio pakeitimai:
 Nr. IX-1998,
 2004-02-05, Žin., 2004, Nr. 28-869 (2004-02-21)
@@ -139,45 +137,41 @@ tarptautinėmis finansų institucijomis.
 bankas gali atstovauti Lietuvos Respublikai tarptautinėse finansų
 institucijose.
  
-6 straipsnio pavadinimo
-redakcija iki dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+6 straipsnio
+pavadinimo redakcija iki dienos, nuo kurios Europos Sąjungos Taryba panaikina
+išlygą dėl Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122
+straipsnio 2 dalyje nustatytą procedūrą:
 6
 straipsnis. Išimtinė Lietuvos banko teisė leisti pinigus
 6 straipsnio
-pavadinimo redakcija nuo dienos, nuo kurios Europos Sąjungos
-Taryba panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos
-Sąjungos veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies
-pirmojoje pastraipoje nustatytą procedūrą:
+pavadinimo redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina
+išlygą dėl Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122
+straipsnio 2 dalyje nustatytą procedūrą:
 6
 straipsnis. Banknotų ir monetų išleidimas
  
 1 dalies
-redakcija iki dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija iki dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 1. Pinigų
 emisijos teisę turi tik Lietuvos bankas. Jis:
 1) įstatymų
 nustatyta tvarka išleidžia į apyvartą ir išima iš apyvartos Lietuvos
 Respublikos pinigus;
 2) nustato
-Lietuvos Respublikos pinigų nominalus, skiriamuosius, apsaugos ir mokumo požymius,
-išima iš apyvartos banknotus ir monetas, pakeičia juos kitais ir apie tai
-paskelbia viešai, organizuoja pinigų gaminimą, gabenimą bei saugojimą, nustato
-susidėvėjusių ir sugadintų pinigų išėmimo iš apyvartos, jų keitimo bei
+Lietuvos Respublikos pinigų nominalus, skiriamuosius, apsaugos ir mokumo
+požymius, išima iš apyvartos banknotus ir monetas, pakeičia juos kitais ir apie
+tai paskelbia viešai, organizuoja pinigų gaminimą, gabenimą bei saugojimą,
+nustato susidėvėjusių ir sugadintų pinigų išėmimo iš apyvartos, jų keitimo bei
 naikinimo tvarką, Lietuvos Respublikos banknotų ir monetų atvaizdų naudojimo
 tvarką, sudaro atsarginius banknotų ir monetų fondus, atlieka Lietuvos
 Respublikos pinigų ir Europos Sąjungos bendros valiutos banknotų ir monetų
 ekspertizę.
 1 dalies
-redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 1. Lietuvos
 bankas, laikydamasis Europos Bendrijos steigimo sutarties reikalavimų, turi
 teisę išleisti banknotus ir monetas.
@@ -192,10 +186,9 @@ Nr. X-569, 2006-04-25,
 Žin., 2006, Nr. 48-1699 (2006-04-29)
  
 7 straipsnio
-redakcija iki dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija iki dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 7
 straipsnis. Lietuvos banko pagrindinis tikslas
 1.
@@ -205,10 +198,9 @@ bankas pagal savo kompetenciją palaiko Lietuvos Respublikos Vyriausybės
 ekonominę politiką, kiek ji neprieštarauja Lietuvos
 banko pagrindiniam tikslui.
 7 straipsnio
-redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 7 straipsnis.
 Lietuvos banko pagrindinis tikslas
 1. Vadovaujantis Europos Bendrijos steigimo
@@ -227,10 +219,9 @@ Nr. X-569, 2006-04-25,
 Žin., 2006, Nr. 48-1699 (2006-04-29)
  
 8 straipsnio
-redakcija iki dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija iki dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 8
 straipsnis. Lietuvos banko funkcijos ir veikla
 1. Lietuvos
@@ -267,10 +258,9 @@ Lietuvos bankas vykdo veiklą, reikalingą šio straipsnio 1 dalyje numatytoms
 funkcijoms įgyvendinti ir tam reikalingai infrastruktūrai sukurti bei
 palaikyti.
 8 straipsnio
-redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 8
 straipsnis. Lietuvos banko funkcijos ir veikla
 1. Vykdydamas
@@ -311,10 +301,9 @@ investicijų balansus ir finansines sąskaitas;
 5) savo
 nustatyta tvarka, sąlygomis ir terminais gali duoti paskolas, užtikrintas
 įkeičiamu Lietuvos bankui pakankamu turtu, Lietuvos Respublikoje įregistruotoms
-kredito įstaigoms, jei tai neprieštarauja reikalavimams, kylantiems dėl
-Lietuvos banko dalyvavimo Europos centrinių bankų sistemoje, ypač
-reikalavimams, kylantiems dėl viešosios teisės subjektų vardu atliekamų
-operacijų;
+kredito įstaigoms, jei tai neprieštarauja reikalavimams, kylantiems dėl Lietuvos
+banko dalyvavimo Europos centrinių bankų sistemoje, ypač reikalavimams,
+kylantiems dėl viešosios teisės subjektų vardu atliekamų operacijų;
 6) išleidžia
 monetas, laikydamasis Europos Bendrijos steigimo sutarties reikalavimų, ir
 vykdo kitą su tuo susijusią veiklą.
@@ -351,9 +340,9 @@ straipsnis. Lietuvos banko valdyba
 1. Lietuvos
 bankui vadovauja Lietuvos banko valdyba. Valdybą sudaro Lietuvos banko
 valdybos pirmininkas, du jo pavaduotojai ir du valdybos nariai.
-2. Lietuvos banko valdybos
-pirmininku, jo pavaduotojais ir valdybos nariais gali būti tik Lietuvos
-Respublikos piliečiai, jeigu jiems iki paskyrimo dienos nesukakę 65 metai.
+2. Lietuvos banko valdybos pirmininku,
+jo pavaduotojais ir valdybos nariais gali būti tik Lietuvos Respublikos
+piliečiai, jeigu jiems iki paskyrimo dienos nesukakę 65 metai.
 3. Lietuvos
 banko valdybos pirmininkas, jo pavaduotojai ir valdybos nariai gali dalyvauti
 valdant tarptautines finansų institucijas, kurių narė yra Lietuvos Respublika
@@ -361,8 +350,8 @@ ar Lietuvos bankas.
 4. Lietuvos banko valdybos
 pirmininką penkeriems metams skiria ir atleidžia
 prieš terminą Seimas Respublikos Prezidento teikimu.
-*5. Lietuvos banko
-valdybos pirmininko pavaduotojus ir valdybos narius šešeriems metams
+*5. Lietuvos
+banko valdybos pirmininko pavaduotojus ir valdybos narius šešeriems metams
 skiria ir atleidžia prieš terminą Respublikos Prezidentas Lietuvos banko
 valdybos pirmininko teikimu.
 6. Lietuvos
@@ -370,9 +359,9 @@ banko valdybos pirmininkas į šias pareigas gali būti skiriamas neribojant
 kadencijų skaičiaus. Valdybos pirmininko pavaduotojai ir valdybos nariai į šias
 pareigas gali būti skiriami ne daugiau kaip dvi kadencijas iš eilės.
 *7. Lietuvos banko valdybos
-pirmininko pavaduotojų ir valdybos narių atlyginimo dydį, neviršijantį 90 procentų
-Lietuvos banko valdybos pirmininko atlyginimo dydžio, nustato Lietuvos banko
-valdyba.
+pirmininko pavaduotojų ir valdybos narių atlyginimo dydį, neviršijantį 90
+procentų Lietuvos banko valdybos pirmininko atlyginimo dydžio, nustato Lietuvos
+banko valdyba.
 Straipsnio pakeitimai:
 Nr. IX-1998,
 2004-02-05, Žin., 2004, Nr. 28-869 (2004-02-21)
@@ -394,24 +383,21 @@ nustato kitų pinigų politikos priemonių taikymo tvarką;
 3) nustato lito
 kurso reguliavimo sistemą ir oficialaus lito kurso skaičiavimo tvarką;
 1 dalies 1, 2 ir
-3 punktai netenka galios nuo dienos, nuo kurios
-Europos Sąjungos Taryba panaikina išlygą dėl Lietuvos Respublikos pagal
-Sutarties dėl Europos Sąjungos veikimo 140 straipsnio 1 dalies pirmajame
-sakinyje ir 2 dalies pirmojoje pastraipoje nustatytą procedūrą.
+3 punktai netenka galios nuo dienos, nuo kurios Europos Sąjungos Taryba
+panaikina išlygą dėl Lietuvos Respublikos pagal Europos Bendrijos steigimo
+sutarties 122 straipsnio 2 dalyje nustatytą procedūrą.
  
 1 dalies 4
-punkto redakcija iki dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+punkto redakcija iki dienos, nuo kurios Europos Sąjungos Taryba panaikina
+išlygą dėl Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122
+straipsnio 2 dalyje nustatytą procedūrą:
 4) nustato
 Lietuvos banko užsienio atsargų valdymo, naudojimo ir disponavimo jomis
 principus ir tvarką;
 1 dalies 4
-punkto redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+punkto redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina
+išlygą dėl Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122
+straipsnio 2 dalyje nustatytą procedūrą:
 4) nustato
 užsienio atsargų, kurios Europos Sąjungos teisės aktų nustatyta tvarka nebuvo
 perduotos Europos centriniam bankui, valdymo, naudojimo ir disponavimo jomis
@@ -421,11 +407,10 @@ taikomus nacionalinių centrinių bankų užsienio atsargoms;
 5) nustato
 Lietuvos banko išleidžiamų skolos vertybinių popierių emisijos ir apyvartos
 tvarką; 
-1 dalies 5
-punktas netenka galios nuo dienos, nuo kurios
-Europos Sąjungos Taryba panaikina išlygą dėl Lietuvos Respublikos pagal
-Sutarties dėl Europos Sąjungos veikimo 140 straipsnio 1 dalies pirmajame
-sakinyje ir 2 dalies pirmojoje pastraipoje nustatytą procedūrą.
+1 dalies 5 punktas
+netenka galios nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą
+dėl Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122
+straipsnio 2 dalyje nustatytą procedūrą.
  
 6) nustato
 kredito ir mokėjimo įstaigų riziką ribojančius normatyvus, jų dydžius ir
@@ -433,10 +418,9 @@ skaičiavimo metodiką ar kitus reikalavimus dėl veiklos rizikos ribojimo;
 7) priima nutarimus;
  
 1 dalies 8 ir 9
-punktų redakcija iki dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+punktų redakcija iki dienos, nuo kurios Europos Sąjungos Taryba panaikina
+išlygą dėl Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122
+straipsnio 2 dalyje nustatytą procedūrą:
 8) sprendžia klausimus dėl
 Lietuvos banko dalyvavimo tarptautiniuose bankuose ir kitose tarptautinėse
 finansų institucijose, jei tai susiję su Lietuvos banko funkcijomis;
@@ -444,16 +428,15 @@ finansų institucijose, jei tai susiję su Lietuvos banko funkcijomis;
 pinigų išleidimo ir išėmimo iš apyvartos bei kitus su tuo susijusius klausimus,
 nustatytus šio įstatymo 6 straipsnyje;
 1 dalies 8 ir 9
-punktų redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+punktų redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina
+išlygą dėl Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122
+straipsnio 2 dalyje nustatytą procedūrą:
 8) Europos
 centriniam bankui pritarus, sprendžia klausimus dėl Lietuvos banko dalyvavimo
 tarptautinėse pinigų institucijose;
-9) laikydamasi Europos Bendrijos steigimo sutarties
-reikalavimų, sprendžia banknotų ir monetų išleidimo, išėmimo iš apyvartos ir
-kitus su tuo susijusius klausimus;
+9) laikydamasi Europos Bendrijos steigimo sutarties reikalavimų,
+sprendžia banknotų ir monetų išleidimo, išėmimo iš apyvartos ir kitus su tuo
+susijusius klausimus;
  
 10) steigia
 Lietuvos banko skyrius, atstovybes, įmones ir įstaigas savo funkcijoms atlikti,
@@ -471,24 +454,22 @@ klausimus dėl bankroto bylų iškėlimo kredito ir mokėjimo įstaigoms;
 Lietuvos banko biudžetą;
  
 1 dalies 16 ir
-17 punktų redakcija iki dienos, nuo kurios Europos Sąjungos
-Taryba panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos
-Sąjungos veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+17 punktų redakcija iki dienos, nuo kurios Europos Sąjungos Taryba panaikina
+išlygą dėl Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122
+straipsnio 2 dalyje nustatytą procedūrą:
 16) nustato
 Lietuvos banko finansinės apskaitos politiką, tvirtina metinių finansinių
 ataskaitų rinkinį ir finansinių metų pelno paskirstymą;
 17) nustato Lietuvos banko turto valdymo,
 naudojimo ir disponavimo juo tvarką ir sąlygas, taip pat pirkimų tvarką;
 1 dalies 16 ir
-17 punktų redakcija nuo dienos, nuo kurios Europos Sąjungos
-Taryba panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos
-Sąjungos veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies
-pirmojoje pastraipoje nustatytą procedūrą:
+17 punktų redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina
+išlygą dėl Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122
+straipsnio 2 dalyje nustatytą procedūrą:
 16) vadovaudamasi Europos
 centrinio banko teisės aktų reikalavimais, nustato Lietuvos banko finansinės
-apskaitos politiką, tvirtina metinių finansinių ataskaitų rinkinį ir finansinių
-metų pelno paskirstymą, kaip nustatyta šio įstatymo 23 straipsnio 3 dalyje;
+apskaitos politiką, tvirtina metinę finansinę ataskaitą ir finansinių metų
+pelno paskirstymą, kaip nustatyta šio įstatymo 23 straipsnio 3 dalyje;.
 17)
 nustato Lietuvos banko turto valdymo, naudojimo ir disponavimo juo tvarką,
 kurios pagrindinis principas – siekti Europos centrinių bankų sistemos
@@ -507,19 +488,17 @@ sustabdymo ar sustabdymo atšaukimo;
 kitą veiklą, susijusią su Lietuvos banko pagrindinio tikslo įgyvendinimu.
  
 2 dalies
-redakcija iki dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija iki dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 2. Lietuvos
 banko valdyba gali dalį savo funkcijų pavesti vykdyti valdybos pirmininkui,
 išskyrus šio straipsnio 1 dalies 1, 2, 3, 4, 6, 7, 9, 10, 12, 13, 14, 15, 16,
 18 ir 19 punktuose numatytas funkcijas.
 2 dalies
-redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 2. Lietuvos
 banko valdyba gali dalį savo funkcijų pavesti vykdyti valdybos pirmininkui,
 išskyrus šio straipsnio 1 dalies 4, 6, 7, 9, 10, 12, 13, 14, 15, 16, 18 ir 19
@@ -528,12 +507,10 @@ Straipsnio pakeitimai:
 Nr. IX-1998,
 2004-02-05, Žin., 2004, Nr. 28-869 (2004-02-21)
 Nr.
-IX-2069, 2004-03-23,
-Žin., 2004, Nr. 54-1830 (2004-04-15)
+IX-2069,
+2004-03-23, Žin., 2004, Nr. 54-1830 (2004-04-15)
 Nr. X-569, 2006-04-25,
 Žin., 2006, Nr. 48-1699 (2006-04-29)
-Nr. XI-1320,
-2011-04-14, Žin., 2011, Nr. 46-2159 (2011-04-16)
 Nr. XI-202,
 2009-03-19, Žin., 2009, Nr. 38-1441 (2009-04-04)
 Nr. XI-557,
@@ -556,15 +533,14 @@ banko valdybos pirmininko teikimu.
 atleidimo priimamas per vieną mėnesį nuo teikimo Seimui ar Respublikos
 Prezidentui įteikimo dienos. Nepriėmus sprendimo per šį terminą, asmuo, dėl
 kurio buvo teikimas, toliau eina pareigas.
-4. Lietuvos banko valdybos
-pirmininkas sprendimą dėl atleidimo prieš terminą turi teisę per du mėnesius
-nuo sprendimo paskelbimo dienos arba nuo pranešimo apie jį gavimo dienos, arba,
-jei to nebuvo padaryta, nuo tos dienos, kurią ieškovas apie jį sužinojo,
-apskųsti Europos Teisingumo Teismui, motyvuodamas Europos Bendrijos steigimo
-sutarties ar kitos teisės normos, susijusios su minėtos sutarties taikymu,
-pažeidimu. Lietuvos banko valdybos pirmininko pavaduotojai ir valdybos nariai
-sprendimą dėl atleidimo prieš terminą turi teisę apskųsti Vilniaus apygardos
-teismui. 
+4. Lietuvos banko valdybos pirmininkas
+sprendimą dėl atleidimo prieš terminą turi teisę per du mėnesius nuo sprendimo
+paskelbimo dienos arba nuo pranešimo apie jį gavimo dienos, arba, jei to nebuvo
+padaryta, nuo tos dienos, kurią ieškovas apie jį sužinojo, apskųsti Europos
+Teisingumo Teismui, motyvuodamas Europos Bendrijos steigimo sutarties ar kitos
+teisės normos, susijusios su minėtos sutarties taikymu, pažeidimu. Lietuvos
+banko valdybos pirmininko pavaduotojai ir valdybos nariai sprendimą dėl
+atleidimo prieš terminą turi teisę apskųsti Vilniaus apygardos teismui. 
 Straipsnio pakeitimai:
 Nr. IX-1998,
 2004-02-05, Žin., 2004, Nr. 28-869 (2004-02-21)
@@ -577,9 +553,9 @@ straipsnis. Lietuvos banko valdybos narių atsistatydinimas
 banko valdybos pirmininkas gali atsistatydinti įteikęs prašymą Respublikos
 Prezidentui, o valdybos pirmininko pavaduotojai ir valdybos nariai – valdybos
 pirmininkui.
-2. Lietuvos banko
-valdybos pirmininko prašymą dėl atsistatydinimo svarsto Seimas, o pirmininko
-pavaduotojų ir valdybos narių – Respublikos Prezidentas.
+2. Lietuvos
+banko valdybos pirmininko prašymą dėl atsistatydinimo svarsto Seimas, o
+pirmininko pavaduotojų ir valdybos narių – Respublikos Prezidentas.
 3. Sprendimas
 dėl atsistatydinimo priimamas per vieną mėnesį nuo prašymo atsistatydinti
 įteikimo dienos.
@@ -590,8 +566,8 @@ nariai laikomi atsistatydinusiais po mėnesio nuo prašymo padavimo dienos.
 Kai priimamas sprendimas netenkinti prašymo, valdybos pirmininkas, valdybos
 pirmininko pavaduotojai ir valdybos nariai laikomi atsistatydinusiais po
 mėnesio nuo tokio sprendimo priėmimo dienos, jeigu jie per dvi savaites
-nuo sprendimo netenkinti prašymo priėmimo pateikia ankstesnį prašymą patvirtinantį
-prašymą. 
+nuo sprendimo netenkinti prašymo priėmimo pateikia ankstesnį prašymą
+patvirtinantį prašymą. 
  
 14
 straipsnis. Lietuvos banko valdybos posėdžiai
@@ -602,9 +578,9 @@ reglamentas.
 2. Lietuvos banko valdybos
 posėdžiai yra teisėti, kai juose dalyvauja ne mažiau kaip trys valdybos nariai.
 Lietuvos banko valdybos sprendimai priimami ne mažiau kaip trijų balsų dauguma.
-3. Lietuvos banko valdybos
-posėdžiams pirmininkauja valdybos pirmininkas arba vienas iš jo pavaduotojų
-valdybos darbo reglamento nustatyta tvarka.
+3. Lietuvos banko valdybos posėdžiams
+pirmininkauja valdybos pirmininkas arba vienas iš jo pavaduotojų valdybos darbo
+reglamento nustatyta tvarka.
 4. Lietuvos
 banko valdybos sprendimai įgyvendinami jos nutarimais arba valdybos pirmininko
 įsakymais. 
@@ -736,8 +712,9 @@ kad Lietuvos banko tarnautojai vengia viešųjų ir privačių interesų konflik
 nepasinaudoja valstybės, tarnybos ir banko paslaptį sudarančia informacija ir
 nesudaro galimybių kitiems asmenims pasinaudoti ja savo ar kitų asmenų
 interesams, gali nustatyti, kokią informaciją apie asmeninę ir šeimos finansinę
-veiklą jie privalo pateikti Lietuvos bankui, taip pat gali nustatyti apribojimus
-sudaryti atitinkamus finansinius sandorius ir verstis tam tikra veikla.
+veiklą jie privalo pateikti Lietuvos bankui, taip pat gali nustatyti
+apribojimus sudaryti atitinkamus finansinius sandorius ir verstis tam tikra
+veikla.
 Įstatymas papildytas straipsniu:
 Nr. IX-1998,
 2004-02-05, Žin., 2004, Nr. 28-869 (2004-02-21)
@@ -753,15 +730,15 @@ tarnautojų darbo santykiams su Lietuvos banku ar kitų asmenų bet kokiems
 kitiems ryšiams, susijusiems su Lietuvos banku.
  
 2, 3 ir 4 dalių
-redakcija iki dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija iki dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 2. Banko
 paslaptis – tai Lietuvos banko veikloje naudojama informacija, kuri pagal savo
 svarbą nesudaro valstybės ir tarnybos paslapties, tačiau kurios neteisėtas
 atskleidimas arba praradimas gali turėti neigiamų padarinių Lietuvos banko
-funkcionavimui ir jo vykdomai veiklai, pakenkti teisėtiems kitų asmenų interesams.
+funkcionavimui ir jo vykdomai veiklai, pakenkti teisėtiems kitų asmenų
+interesams.
 3. Valstybės,
 tarnybos ir banko paslaptis sudarančios informacijos detalius sąrašus tvirtina
 Lietuvos banko valdybos pirmininkas. Valstybės ir tarnybos paslaptis
@@ -771,18 +748,18 @@ Respublikos valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka.
 su banko paslaptį sudarančia informacija bei jos naudojimo tvarką tvirtina
 Lietuvos banko valdybos pirmininkas.
 2, 3 ir 4 dalių
-redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 2. Banko
 paslaptis
 – tai
 bet kokia nevieša su Europos centrinių bankų sistema susijusi informacija ir
 kita Lietuvos banko veikloje naudojama informacija, kuri pagal savo svarbą
 nesudaro valstybės ir tarnybos paslapties, tačiau kurios neteisėtas
-atskleidimas arba praradimas gali turėti neigiamų padarinių Lietuvos banko funkcionavimui
-ir jo vykdomai veiklai, pakenkti teisėtiems kitų asmenų interesams.
+atskleidimas arba praradimas gali turėti neigiamų padarinių Lietuvos banko
+funkcionavimui ir jo vykdomai veiklai, pakenkti teisėtiems kitų asmenų
+interesams.
 3.
 Valstybės ir tarnybos paslaptis sudarančios informacijos detalius sąrašus
 tvirtina Lietuvos banko valdybos pirmininkas. Valstybės ir tarnybos paslaptis
@@ -793,12 +770,11 @@ sudarančios informacijos naudojimo tvarką tvirtina Lietuvos
 banko valdybos pirmininkas.
  
 5. Nagrinėjant
-bylas teismuose, banko paslaptį sudarančios informacijos apsaugai taikomos
-Lietuvos Respublikos įstatymų nuostatos, užtikrinančios komercinės paslapties
-apsaugą.
+bylas teismuose, banko paslaptį sudarančios informacijos apsaugai taikomos Lietuvos
+Respublikos įstatymų nuostatos, užtikrinančios komercinės paslapties apsaugą.
 Straipsnio pakeitimai:
-Nr. IX-1998, 2004-02-05,
-Žin., 2004, Nr. 28-869 (2004-02-21)
+Nr. IX-1998,
+2004-02-05, Žin., 2004, Nr. 28-869 (2004-02-21)
 Nr. X-569, 2006-04-25,
 Žin., 2006, Nr. 48-1699 (2006-04-29)
  
@@ -807,8 +783,8 @@ SKIRSNIS
 LIETUVOS BANKO
 FINANSAI
 Skirsnio pavadinimas pakeistas:
-Nr. IX-1998,
-2004-02-05, Žin., 2004, Nr. 28-869 (2004-02-21)
+Nr. IX-1998, 2004-02-05,
+Žin., 2004, Nr. 28-869 (2004-02-21)
  
 20
 straipsnis. Lietuvos banko kapitalas
@@ -816,18 +792,16 @@ straipsnis. Lietuvos banko kapitalas
 banko kapitalą sudaro įstatinis kapitalas ir atsargos kapitalas.
  
 2 dalies
-redakcija iki dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija iki dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 2.
 Įstatinis kapitalas – 200 mln. litų. Jis sudaromas iš Lietuvos valstybės lėšų
 ir (ar) Lietuvos banko pelno.
 2 dalies
-redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 2.
 Įstatinis kapitalas – 60 mln. eurų. Jis sudaromas iš Lietuvos valstybės lėšų ir
 (ar) Lietuvos banko pelno.
@@ -896,40 +870,36 @@ Nr. IX-1998,
 
  
 Ketvirtojo
-skirsnio pavadinimo redakcija iki dienos, nuo kurios Europos
-Sąjungos Taryba panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl
-Europos Sąjungos veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies
-pirmojoje pastraipoje nustatytą procedūrą:
+skirsnio pavadinimo redakcija iki dienos, nuo kurios Europos Sąjungos Taryba
+panaikina išlygą dėl Lietuvos Respublikos pagal Europos Bendrijos steigimo
+sutarties 122 straipsnio 2 dalyje nustatytą procedūrą:
 KETVIRTASIS
 SKIRSNIS
 LIETUVOS BANKO
 PINIGŲ POLITIKA
 Ketvirtojo
-skirsnio pavadinimo redakcija nuo dienos, nuo kurios
-Europos Sąjungos Taryba panaikina išlygą dėl Lietuvos Respublikos pagal
-Sutarties dėl Europos Sąjungos veikimo 140 straipsnio 1 dalies pirmajame
-sakinyje ir 2 dalies pirmojoje pastraipoje nustatytą procedūrą:
+skirsnio pavadinimo redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba
+panaikina išlygą dėl Lietuvos Respublikos pagal Europos Bendrijos steigimo
+sutarties 122 straipsnio 2 dalyje nustatytą procedūrą:
 KETVIRTASIS SKIRSNIS
 PINIGŲ
 POLITIKA
  
 25 straipsnio
-redakcija iki dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija iki dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 25
 straipsnis. Pinigų politikos priemonės
 Vykdydamas
 pinigų politiką, Lietuvos bankas parenka ir nustato pinigų politikos priemones
 ir jų taikymo tvarką.
 25 straipsnio
-redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
-25 straipsnis. Sąskaitų atidarymas ir pinigų politikos
-priemonės
+redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
+25 straipsnis. Sąskaitų atidarymas ir pinigų
+politikos priemonės
 1. Lietuvos
 bankas, veikdamas kaip sudėtinė Europos centrinių bankų sistemos dalis, vykdo
 nustatytą pinigų politiką.
@@ -963,10 +933,9 @@ bankas turi teisę savo nustatyta tvarka ir sąlygomis rediskontuoti kredito
 bankas nustato bendrą sumą rediskonto operacijoms bei maksimalią sumą
 kiekvienai kredito įstaigai atskirai.
 26 straipsnis
-netenka galios nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina
-išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos veikimo
-140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje pastraipoje
-nustatytą procedūrą.
+netenka galios nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą
+dėl Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122
+straipsnio 2 dalyje nustatytą procedūrą.
 Straipsnio pakeitimai:
 Nr. X-569, 2006-04-25,
 Žin., 2006, Nr. 48-1699 (2006-04-29)
@@ -991,10 +960,9 @@ banko nustatytas sąlygas.
 pat gali būti užtikrinamos valstybės garantija ar kredito įstaigos laidavimu ar
 garantija.
 27 straipsnis
-netenka galios nuo dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą.
+netenka galios nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą
+dėl Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122
+straipsnio 2 dalyje nustatytą procedūrą.
 Straipsnio pakeitimai:
 Nr. X-569, 2006-04-25,
 Žin., 2006, Nr. 48-1699 (2006-04-29)
@@ -1002,22 +970,21 @@ Nr. X-569, 2006-04-25,
 28
 straipsnis. Indėliai Lietuvos banke
 Lietuvos bankas
-turi teisę savo nustatyta tvarka ir sąlygomis priimti indėlius litais iš Lietuvos
-Respublikoje įregistruotų kredito įstaigų.
+turi teisę savo nustatyta tvarka ir sąlygomis priimti indėlius litais iš
+Lietuvos Respublikoje įregistruotų kredito įstaigų.
 28 straipsnis
-netenka galios nuo dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą.
+netenka galios nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą
+dėl Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122
+straipsnio 2 dalyje nustatytą procedūrą.
 Straipsnio pakeitimai:
 Nr. X-569, 2006-04-25,
 Žin., 2006, Nr. 48-1699 (2006-04-29)
  
 29
 straipsnis. Atviros rinkos operacijos
-1. Atviros rinkos
-operacijos – tai Lietuvos banko iniciatyva atsargų bankų sistemoje didinimas ar
-mažinimas sudarant sandorius su bankais.
+1. Atviros
+rinkos operacijos – tai Lietuvos banko iniciatyva atsargų bankų sistemoje
+didinimas ar mažinimas sudarant sandorius su bankais.
 2. Lietuvos
 bankas savo nustatyta tvarka ir sąlygomis vykdo šias atviros rinkos operacijas:
 1) perka ir
@@ -1028,13 +995,12 @@ perka savo skolos vertybinius popierius ir atlieka su jais kitas operacijas bei
 nustato jų išleidimo ir apyvartos tvarką;
 3) priima
 terminuotuosius indėlius;
-4) perka ir
-parduoda užsienio valiutą, atlieka su ja kitas operacijas.
+4) perka ir parduoda
+užsienio valiutą, atlieka su ja kitas operacijas.
 29 straipsnis
-netenka galios nuo dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą.
+netenka galios nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą
+dėl Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122
+straipsnio 2 dalyje nustatytą procedūrą.
 Straipsnio pakeitimai:
 Nr. X-569, 2006-04-25,
 Žin., 2006, Nr. 48-1699 (2006-04-29)
@@ -1048,19 +1014,17 @@ apskaičiuoto nuo įsipareigojimų, laikytų kaip privalomąsias atsargas.
 atsargų normą, sudarymo ir laikymo tvarką, baudų ir delspinigių dydį už šių
 normų ir tvarkos nesilaikymą nustato Lietuvos bankas. 
 30 straipsnis
-netenka galios nuo dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą.
+netenka galios nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą
+dėl Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122
+straipsnio 2 dalyje nustatytą procedūrą.
 Straipsnio pakeitimai:
 Nr. X-569, 2006-04-25,
 Žin., 2006, Nr. 48-1699 (2006-04-29)
  
 31 straipsnio
-redakcija iki dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija iki dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 31
 straipsnis. Lito kurso reguliavimas
 Savo
@@ -1068,10 +1032,9 @@ pagrindiniam tikslui įgyvendinti Lietuvos bankas nustato lito kurso reguliavimo
 sistemą. Vadovaudamasis šia sistema, Lietuvos bankas nustato ir skelbia
 oficialų lito kursą užsienio valiutų atžvilgiu.
 31 straipsnio
-redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 31 straipsnis. Euro ir užsienio valiutų santykių
 nustatymas ir skelbimas
 1. Lietuvos bankas skelbia Lietuvos Respublikoje
@@ -1091,40 +1054,36 @@ Savo
 pagrindiniam tikslui įgyvendinti Lietuvos bankas gali nustatyti bei taikyti ir
 kitas pinigų politikos priemones.
 32 straipsnis
-netenka galios nuo dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą.
+netenka galios nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą
+dėl Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122
+straipsnio 2 dalyje nustatytą procedūrą.
 Straipsnio pakeitimai:
 Nr. X-569, 2006-04-25,
 Žin., 2006, Nr. 48-1699 (2006-04-29)
  
  
 Penktojo
-skirsnio pavadinimo redakcija iki dienos, nuo kurios
-Europos Sąjungos Taryba panaikina išlygą dėl Lietuvos Respublikos pagal
-Sutarties dėl Europos Sąjungos veikimo 140 straipsnio 1 dalies pirmajame
-sakinyje ir 2 dalies pirmojoje pastraipoje nustatytą procedūrą:
+skirsnio pavadinimo redakcija iki dienos, nuo kurios Europos Sąjungos Taryba
+panaikina išlygą dėl Lietuvos Respublikos pagal Europos Bendrijos steigimo
+sutarties 122 straipsnio 2 dalyje nustatytą procedūrą:
 PENKTASIS
 SKIRSNIS
 UŽSIENIO
 ATSARGOS IR OPERACIJOS
 SU UŽSIENIO FINANSŲ IR KREDITO ĮSTAIGOMIS
 Penktojo
-skirsnio pavadinimo redakcija nuo dienos, nuo kurios
-Europos Sąjungos Taryba panaikina išlygą dėl Lietuvos Respublikos pagal
-Sutarties dėl Europos Sąjungos veikimo 140 straipsnio 1 dalies pirmajame
-sakinyje ir 2 dalies pirmojoje pastraipoje nustatytą procedūrą:
+skirsnio pavadinimo redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba
+panaikina išlygą dėl Lietuvos Respublikos pagal Europos Bendrijos steigimo
+sutarties 122 straipsnio 2 dalyje nustatytą procedūrą:
 PENKTASIS
 SKIRSNIS
 UŽSIENIO
 ATSARGOS IR OPERACIJOS
  
 33 straipsnio
-redakcija iki dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija iki dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 33
 straipsnis. Užsienio atsargos
 Lietuvos bankas
@@ -1132,10 +1091,9 @@ valdo, naudoja Lietuvos banko užsienio atsargas ir jomis disponuoja
 įgyvendindamas Lietuvos banko pagrindinį tikslą ir užtikrindamas lito kurso
 reguliavimo sistemos patikimumą.
 33 straipsnio
-redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina
-išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos veikimo
-140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje pastraipoje
-nustatytą procedūrą:
+redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 33 straipsnis.
 Užsienio atsargos
 Lietuvos bankas
@@ -1160,10 +1118,9 @@ skolinimosi teisės (SST) ir atsargos Tarptautiniame valiutos fonde;
 visuotinai pripažįstamos tarptautinės atsargos.
  
 35 straipsnio
-redakcija iki dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija iki dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 35
 straipsnis. Operacijos su užsienio finansų ir kredito įstaigomis
 1. Atlikdamas
@@ -1185,16 +1142,16 @@ valstybių centriniams bankams priklausančios užsienio atsargos, laikomos
 Lietuvos banko atidarytose sąskaitose, negali būti išieškojimo (teismo ar ne
 teismo būdu) objektas.
 35 straipsnio
-redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
-35 straipsnis. Lietuvos banko operacijos
-1. Atlikdamas
-savo funkcijas, Lietuvos bankas turi teisę atlikti šias operacijas:
+redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
+35 straipsnis.
+Lietuvos banko operacijos
+Atlikdamas savo funkcijas, Lietuvos bankas turi
+teisę atlikti šias operacijas:
 1) atsidaryti
 sąskaitas ir padėti indėlius;
-2) atidaryti ir
+2) atidaryti bei
 tvarkyti sąskaitas ir priimti indėlius;
 3) imti ir duoti
 paskolas;
@@ -1202,23 +1159,16 @@ paskolas;
 parduoti auksą bei turtą užsienio valiuta;
 5) atlikti kitas
 operacijas.
-2. Užsienio
-valstybių centriniams bankams priklausančios užsienio atsargos, laikomos
-Lietuvos banko atidarytose sąskaitose, negali būti išieškojimo (teismo ar ne
-teismo būdu) objektas.
 Straipsnio pakeitimai:
 Nr. X-569, 2006-04-25,
 Žin., 2006, Nr. 48-1699 (2006-04-29)
-Nr. XI-1320,
-2011-04-14, Žin., 2011, Nr. 46-2159 (2011-04-16)
 Nr. XI-1319,
 2011-04-14, Žin., 2011, Nr. 46-2158 (2011-04-16)
  
 36 straipsnio
-redakcija iki dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija iki dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 36
 straipsnis. Atsiskaitymo sutartys
 Lietuvos bankas
@@ -1226,10 +1176,9 @@ gali savo vardu ar pagal susitarimą su Lietuvos Respublikos Vyriausybe jos
 vardu sudaryti atsiskaitymų sutartis su užsienio valstybinėmis ir (ar)
 privačiomis institucijomis.
 36 straipsnio
-redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 36 straipsnis.
 Atsiskaitymo sutartys
 Lietuvos bankas
@@ -1264,10 +1213,9 @@ valstybių Europos Sąjungos narių, kitų viešosios teisės subjektų ar kredi
 įsipareigojimų, išskyrus atvejus, kai tokį refinansavimą numato Europos
 Sąjungos teisės aktai.
 37 straipsnis
-netenka galios nuo dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą.
+netenka galios nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą
+dėl Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122
+straipsnio 2 dalyje nustatytą procedūrą.
 Straipsnio pakeitimai:
 Nr. IX-1998,
 2004-02-05, Žin., 2004, Nr. 28-869 (2004-02-21)
@@ -1275,20 +1223,18 @@ Nr. X-569, 2006-04-25,
 Žin., 2006, Nr. 48-1699 (2006-04-29)
  
 38 straipsnio
-redakcija iki dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija iki dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 38
 straipsnis. Valstybės institucijų sąskaitų atidarymas 
 Lietuvos bankas
 turi teisę atidaryti ir tvarkyti Lietuvos Respublikos iždo ir įstatymais ar
 nutarimais įsteigtų valstybės fondų sąskaitas litais ar (ir) užsienio valiuta.
 38 straipsnio
-redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 38 straipsnis. Valstybės
 iždo sąskaitų atidarymas
 Lietuvos bankas turi teisę atidaryti ir tvarkyti
@@ -1319,8 +1265,8 @@ SKIRSNIS
 KREDITO IR
 MOKĖJIMO ĮSTAIGŲ LICENCIJAVIMAS IR PRIEŽIŪRA
 Straipsnio pakeitimai:
-Nr. XI-557, 2009-12-10,
-Žin., 2009, Nr. 153-6895 (2009-12-28)
+Nr. XI-557,
+2009-12-10, Žin., 2009, Nr. 153-6895 (2009-12-28)
  
 42 straipsnis. Neteko galios nuo 2009 m.
 gruodžio 28 d.
@@ -1388,8 +1334,8 @@ kredito ir mokėjimo įstaigos veiklos turinį ir mastą;
 Straipsnio
 pakeitimai:
 Nr.
-IX-2069,
-2004-03-23, Žin., 2004, Nr. 54-1830 (2004-04-15)
+IX-2069, 2004-03-23,
+Žin., 2004, Nr. 54-1830 (2004-04-15)
 Nr. XI-557,
 2009-12-10, Žin., 2009, Nr. 153-6895 (2009-12-28)
  
@@ -1468,8 +1414,8 @@ Nr.
 IX-1465,
 2003-04-03, Žin., 2003, Nr. 38-1710 (2003-04-24)
 Nr.
-IX-2069, 2004-03-23,
-Žin., 2004, Nr. 54-1830 (2004-04-15)
+IX-2069,
+2004-03-23, Žin., 2004, Nr. 54-1830 (2004-04-15)
 Nr. X-569, 2006-04-25,
 Žin., 2006, Nr. 48-1699 (2006-04-29)
 Nr. XI-556,
@@ -1487,32 +1433,30 @@ finansiniai metai prasideda sausio mėnesio 1 dieną ir baigiasi gruodžio mėne
 31 dieną.
  
 49 straipsnio
-redakcija iki dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija iki dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 49
-straipsnis. Finansinė apskaita ir metinių finansinių ataskaitų rinkinys
+straipsnis. Finansinė apskaita ir metinių finansinių ataskaitų rinkinys 
 1. Lietuvos
 bankas finansinę apskaitą tvarko ir metinių finansinių ataskaitų rinkinį (balansą,
 pelno (nuostolio) ataskaitą ir aiškinamąjį raštą) rengia vadovaudamasis Europos
 centrinio banko rekomendacijomis, nustatytomis Europos centrinių bankų
 sistemoje dalyvaujantiems centriniams bankams.
-2. Metinių finansinių ataskaitų
-rinkinį kartu su auditoriaus išvada per keturis mėnesius nuo finansinių metų
-pabaigos Lietuvos bankas pateikia Seimui ir paskelbia jas viešai.
+2. Metinių
+finansinių ataskaitų rinkinį kartu su auditoriaus išvada per keturis mėnesius
+nuo finansinių metų pabaigos Lietuvos bankas pateikia Seimui ir paskelbia jas
+viešai.
 49 straipsnio
-redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
-49 straipsnis. Finansinė apskaita ir metinių
-finansinių ataskaitų rinkinys
-1. Lietuvos bankas finansinę apskaitą tvarko,
-metinių finansinių ataskaitų rinkinį (balansą, pelno (nuostolio) ataskaitą ir
-aiškinamąjį raštą) ir kitas finansines ataskaitas rengia vadovaudamasis Europos
-centrinio banko teisės aktais, gairėmis ir nurodymais, reglamentuojančiais
-nacionalinių centrinių bankų vykdomų operacijų apskaitą ir atskaitomybę.
+redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
+49 straipsnis.
+Finansinė apskaita ir finansinė atskaitomybė
+1. Lietuvos bankas finansinę apskaitą tvarko ir
+finansinę atskaitomybę rengia vadovaudamasis Europos centrinio banko teisės
+aktais, gairėmis ir nurodymais, reglamentuojančiais nacionalinių centrinių
+bankų vykdomų operacijų apskaitą ir atskaitomybę.
 2.
 Lietuvos banko metinę finansinę ataskaitą sudaro balansas, pelno (nuostolio)
 ataskaita ir aiškinamasis raštas.
@@ -1525,38 +1469,32 @@ Nr. IX-1998,
 2004-02-05, Žin., 2004, Nr. 28-869 (2004-02-21)
 Nr. X-569, 2006-04-25,
 Žin., 2006, Nr. 48-1699 (2006-04-29)
-Nr. XI-1320,
-2011-04-14, Žin., 2011, Nr. 46-2159 (2011-04-16)
 Nr. XI-1319,
 2011-04-14, Žin., 2011, Nr. 46-2158 (2011-04-16)
  
-50 straipsnio redakcija
-iki dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą
-dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos veikimo 140
-straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje pastraipoje
-nustatytą procedūrą:
+50 straipsnio
+redakcija iki dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 50
 straipsnis. Lietuvos banko metinių finansinių ataskaitų rinkinių auditas
 Lietuvos
 banko metinį auditą atlieka audito įmonė, kurią parenka Lietuvos bankas.
 50 straipsnio
-redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
-50 straipsnis. Lietuvos banko metinių finansinių ataskaitų rinkinių
-auditas
+redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
+50 straipsnis. Lietuvos banko metinės finansinės
+ataskaitos auditas
 Lietuvos banko
-metinių finansinių ataskaitų rinkinių auditą atlieka Lietuvos banko
-parinkti nepriklausomi išorės auditoriai, kuriuos tvirtina Europos Sąjungos
-Taryba rekomendavus Europos centriniam bankui.
+metinės finansinės ataskaitos auditą atlieka Lietuvos banko parinkti
+nepriklausomi išorės auditoriai, kuriuos tvirtina Europos Sąjungos Taryba
+rekomendavus Europos centriniam bankui.
 Straipsnio pakeitimai:
 Nr. IX-1998,
 2004-02-05, Žin., 2004, Nr. 28-869 (2004-02-21)
 Nr. X-569, 2006-04-25,
 Žin., 2006, Nr. 48-1699 (2006-04-29)
-Nr. XI-1320,
-2011-04-14, Žin., 2011, Nr. 46-2159 (2011-04-16)
 Nr. XI-1319,
 2011-04-14, Žin., 2011, Nr. 46-2158 (2011-04-16)
  
@@ -1599,10 +1537,9 @@ kitos įgaliotos institucijos sprendimo panaudoti Lietuvos banke finansų
 Lietuvos bankui įvykdyti. 
  
 3 dalies
-redakcija iki dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija iki dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 3.
 Jeigu skolininkas sutartyje nustatytu laiku neįvykdo prievolių, kurių įvykdymas
 buvo užtikrintas vertybinių popierių ar kito finansinio turto, išskyrus lėšų,
@@ -1611,10 +1548,9 @@ perimti įkeistą turtą ir jį realizuoti teisės aktų nustatyta tvarka. Toki�
 teisę Lietuvos bankas gali įgyvendinti net ir tada, kai skolininkui iškelta
 bankroto byla ar draudžiama disponuoti įkeistu turtu.
 3 dalies
-redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 3.
 Jeigu skolininkas sutartyje nustatytu laiku neįvykdo prievolių, kurių įvykdymas
 buvo užtikrintas finansiniu užstatu (įkaitu), Lietuvos bankas turi teisę
@@ -1624,28 +1560,26 @@ skolininkui iškelta bankroto byla ar draudžiama disponuoti pateiktu finansiniu
 užstatu (įkaitu).
 Straipsnio pakeitimai:
 Nr.
-IX-1598, 2003-06-05,
-Žin., 2003, Nr. 61-2755 (2003-06-27)
+IX-1598,
+2003-06-05, Žin., 2003, Nr. 61-2755 (2003-06-27)
 Nr. IX-2131,
 2004-04-15, Žin., 2004, Nr. 61-2187 (2004-04-27)
 Nr. X-569, 2006-04-25,
 Žin., 2006, Nr. 48-1699 (2006-04-29)
  
 54 straipsnio
-redakcija iki dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija iki dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 54
 straipsnis. Informacijos gavimas
 Lietuvos
 Respublikos valdžios ir valdymo institucijos, įmonės, įstaigos ir organizacijos
 privalo pateikti Lietuvos bankui informaciją, reikalingą jo funkcijoms atlikti.
 54 straipsnio
-redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 54 straipsnis. Informacijos gavimas ir teikimas
 1. Valstybės ir
 savivaldybių institucijos ir ūkio subjektai privalo teikti Lietuvos bankui
@@ -1656,19 +1590,17 @@ valstybių centriniams bankams, tarptautinėms pinigų ir finansų institucijoms
 valstybės ir savivaldybių institucijoms, jei ji reikalinga jų funkcijoms
 atlikti ir jei tokios informacijos teikimo nedraudžia šis ar kiti Lietuvos
 Respublikos įstatymai. Šis draudimas netaikomas, kai reikia teikti statistinę
-informaciją Europos centriniam bankui - šiuo
-atveju taikoma 1998 m. lapkričio 23 d. Tarybos reglamento (EB) 2533/98 dėl
-Europos centrinio banko renkamos statistinės informacijos 8 straipsnyje
-nustatyta konfidencialumo tvarka.
+informaciją Europos centriniam bankui - šiuo atveju taikoma 1998 m. lapkričio
+23 d. Tarybos reglamento (EB) 2533/98 dėl Europos centrinio banko renkamos
+statistinės informacijos 8 straipsnyje nustatyta konfidencialumo tvarka.
 Straipsnio pakeitimai:
 Nr. X-569, 2006-04-25,
 Žin., 2006, Nr. 48-1699 (2006-04-29)
  
 54(1)
-straipsnio redakcija iki dienos, nuo kurios Europos Sąjungos
-Taryba panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos
-Sąjungos veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies
-pirmojoje pastraipoje nustatytą procedūrą:
+straipsnio redakcija iki dienos, nuo kurios Europos Sąjungos Taryba panaikina
+išlygą dėl Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122
+straipsnio 2 dalyje nustatytą procedūrą:
 54(1) straipsnis. Poveikio priemonės, susijusios su statistinės informacijos pateikimo pažeidimais
 Lietuvos bankas
 turi teisę skirti baudas ir delspinigius finansų įstaigoms už Lietuvos banko nustatytos statistinės informacijos
@@ -1677,19 +1609,18 @@ susijusios medžiagos saugojimo terminus nustato Lietuvos bankas, vadovaudamasis
 tuo, kad poveikio priemonės turi būti objektyviai pagrįstos, nediskriminacinės
 ir proporcingos siekiamam tikslui bei pažeidimo pobūdžiui.
 54(1)
-straipsnio redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+straipsnio redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina
+išlygą dėl Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122
+straipsnio 2 dalyje nustatytą procedūrą:
 54(1) straipsnis. Poveikio
 priemonės, susijusios su statistinės informacijos pateikimo pažeidimais
 Lietuvos bankas
-turi teisę skirti baudas ir delspinigius ūkio subjektams už Lietuvos banko
-nustatytos statistinės informacijos, reikalingos Lietuvos banko funkcijoms,
-nesusijusioms su Europos centrinių bankų sistemos veikla, taip pat susijusioms
-su Europos centrinių bankų sistemos veikla, jei tokiems pažeidimams netaikoma
-Europos centrinio banko poveikio priemonių tvarka, atlikti teikimo pažeidimus.
-Baudų ir delspinigių dydį, jų taikymo tvarką ir su tuo susijusios medžiagos saugojimo
+turi teisę skirti baudas ir delspinigius ūkio subjektams už Lietuvos banko nustatytos
+statistinės informacijos, reikalingos Lietuvos banko funkcijoms, nesusijusioms
+su Europos centrinių bankų sistemos veikla, taip pat susijusioms su Europos
+centrinių bankų sistemos veikla, jei tokiems pažeidimams netaikoma Europos
+centrinio banko poveikio priemonių tvarka, atlikti teikimo pažeidimus. Baudų ir
+delspinigių dydį, jų taikymo tvarką ir su tuo susijusios medžiagos saugojimo
 terminus nustato Lietuvos bankas.
 Įstatymas papildytas straipsniu:
 Nr. IX-1998,
@@ -1698,20 +1629,18 @@ Nr. X-569, 2006-04-25,
 Žin., 2006, Nr. 48-1699 (2006-04-29)
  
 55 straipsnio
-redakcija iki dienos, nuo kurios Europos Sąjungos Taryba
-panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos
-veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą:
+redakcija iki dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 55
 straipsnis. Lietuvos banko duomenų skelbimas
 Lietuvos bankas
 ne rečiau kaip vieną kartą per mėnesį leidžia informacinius biuletenius apie
 pinigų ir finansų rinkos būklę.
-55 straipsnio redakcija
-nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą
-dėl Lietuvos Respublikos pagal Sutarties dėl Europos Sąjungos veikimo 140
-straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje pastraipoje
-nustatytą procedūrą:
+55 straipsnio
+redakcija nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl
+Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio
+2 dalyje nustatytą procedūrą:
 55 straipsnis. Informacijos skelbimas
 Lietuvos bankas
 ne rečiau kaip vieną kartą per mėnesį skelbia statistinę ir kitą informaciją.
@@ -1771,8 +1700,8 @@ reglamentas (EB) 3603/93, kuriame pateikti apibrėžimai, susiję su sutarties 1
 ir 104b (1) straipsniuose numatytų uždraudimų taikymu. 
 4. 1993 m. gruodžio 13 d. Tarybos
 reglamentas (EB) 3604/93, kuriame pateikiami apibrėžimai, susiję su sutarties
-104a straipsnyje numatytos privilegijuotos teisės naudotis finansinių
-institucijų teikiama parama, uždraudimo taikymu.
+104a straipsnyje numatytos privilegijuotos teisės naudotis finansinių institucijų
+teikiama parama, uždraudimo taikymu.
 5. 2001 m. birželio 28 d. Tarybos
 reglamentas (EB) 1338/2001, nustatantis priemones, būtinas euro apsaugai nuo
 padirbinėjimo.
@@ -1783,10 +1712,9 @@ veikimą toms valstybėms, kurios nėra priėmusios euro kaip savo bendros
 valiutos.
  
 Priedas
-papildomas 7 punktu nuo dienos, nuo kurios Europos Sąjungos
-Taryba panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos
-Sąjungos veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies
-pirmojoje pastraipoje nustatytą procedūrą:
+papildomas 7 punktu nuo dienos, nuo kurios Europos Sąjungos Taryba panaikina
+išlygą dėl Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122
+straipsnio 2 dalyje nustatytą procedūrą:
 7. 2002 m.
 birželio 6 d. Europos Parlamento ir Tarybos direktyva 2002/47/EB dėl susitarimų
 dėl finansinio įkaito.
@@ -1872,9 +1800,9 @@ Lietuvos Respublikos Seimas,
 Nr. IX-1998,
 2004-02-05, Žin., 2004, Nr. 28-869 (2004-02-21)
 LIETUVOS BANKO ĮSTATYMO 1, 3, 6,
-7, 10, 11, 12, 14, 16, 17, 18, 19, 20, 21, 23, 24, 37, 49, 50 STRAIPSNIŲ PAKEITIMO
-IR PAPILDYMO, ĮSTATYMO PAPILDYMO 18(1), 46(1) , 54(1) STRAIPSNIAIS, TREČIOJO
-SKIRSNIO PAVADINIMO PAKEITIMO IR ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS
+7, 10, 11, 12, 14, 16, 17, 18, 19, 20, 21, 23, 24, 37, 49, 50 STRAIPSNIŲ
+PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 18(1), 46(1) , 54(1) STRAIPSNIAIS,
+TREČIOJO SKIRSNIO PAVADINIMO PAKEITIMO IR ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS
 Šis Įstatymas įsigalioja nuo 2004
 m. gegužės 1 d. 
  
@@ -1908,8 +1836,8 @@ Nr. IX-2139,
 NEKILNOJAMOJO TURTO MOKESČIO ĮSTATYMO, KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS
 FINANSAVIMO ĮSTATYMO, GARANTINIO FONDO ĮSTATYMO, RINKLIAVŲ ĮSTATYMO, MOKESČIŲ
 UŽ PRAMONINĖS NUOSAVYBĖS OBJEKTŲ REGISTRAVIMĄ ĮSTATYMO, MOKESČIO UŽ APLINKOS
-TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS BANKO ĮSTATYMO PAKEITIMO
-IR PAPILDYMO ĮSTATYMAS
+TERŠIMĄ ĮSTATYMO, KONSULINIO MOKESČIO ĮSTATYMO, LIETUVOS BANKO ĮSTATYMO
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis Įstatymas įsigalioja nuo 2004
 m. gegužės 1 d.
  
@@ -1921,16 +1849,14 @@ Nr. X-569, 2006-04-25,
 LIETUVOS BANKO ĮSTATYMO 1, 6, 7,
 8, 11, 12, 14, 19, 20, 25, 31, 33, 35, 36, 38, 47, 49, 50, 53, 54, 54(1), 55
 STRAIPSNIŲ, KETVIRTOJO IR PENKTOJO SKIRSNIŲ PAVADINIMŲ PAKEITIMO, 26, 27, 28,
-29, 30, 32, 37 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS IR ĮSTATYMO PRIEDO PAPILDYMO
-ĮSTATYMAS
-Šis įstatymas,
-išskyrus 6 ir 7 straipsnius, įsigalioja dieną, nuo kurios Europos Sąjungos
-Taryba panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl Europos
-Sąjungos veikimo 140 straipsnio 1 dalies pirmajame sakinyje ir 2 dalies pirmojoje
-pastraipoje nustatytą procedūrą.
+29, 30, 32, 37 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS IR ĮSTATYMO PRIEDO
+PAPILDYMO ĮSTATYMAS
+Šis įstatymas, išskyrus
+6 ir 7 straipsnius, įsigalioja dieną, nuo kurios Europos Sąjungos Taryba
+panaikina išlygą dėl Lietuvos Respublikos pagal Europos Bendrijos steigimo
+sutarties 122 straipsnio 2 dalyje nustatytą procedūrą.
 Šio
-įstatymo pakeitimai:
-1.
+įstatymo pakeitimas:
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. XI-556,
@@ -1941,17 +1867,6 @@ BANKO ĮSTATYMO 1, 6, 7, 8, 11, 12, 14, 19, 20, 25, 31, 33, 35, 36, 38, 47, 49,
 PAKEITIMO, 26, 27, 28, 29, 30, 32, 37 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS
 IR ĮSTATYMO PRIEDO PAPILDYMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO IR 25 STRAIPSNIO
 PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
-2. (pakeista
-įstatymo įsigaliojimo sąlyga)
-Lietuvos Respublikos Seimas,
-Įstatymas
-Nr. XI-1320,
-2011-04-14, Žin., 2011, Nr. 46-2159 (2011-04-16)
-LIETUVOS BANKO ĮSTATYMO 1, 6, 7,
-8, 11, 12, 14, 19, 20, 25, 31, 33, 35, 36, 38, 47, 49, 50, 53, 54, 54(1), 55
-STRAIPSNIŲ, KETVIRTOJO IR PENKTOJO SKIRSNIŲ PAVADINIMŲ PAKEITIMO, 26, 27, 28,
-29, 30, 32, 37 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS IR ĮSTATYMO PRIEDO
-PAPILDYMO ĮSTATYMO 5, 21, 26, 27 IR 33 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1977,27 +1892,26 @@ PAKEITIMO IR 42 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
  
 16.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1118, 2010-11-12,
-Žin., 2010, Nr. 139-7102 (2010-11-27)
+Nr. XI-1118,
+2010-11-12, Žin., 2010, Nr. 139-7102 (2010-11-27)
 LIETUVOS BANKO ĮSTATYMO 17 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
  
-17.
+18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1319,
 2011-04-14, Žin., 2011, Nr. 46-2158 (2011-04-16)
 LIETUVOS BANKO ĮSTATYMO 10, 11, 16, 17, 35, 49 IR 50
 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-Pastaba: šio
-įstatymo 1 ir 3 straipsniai taikomi po šio įstatymo įsigaliojimo paskirtiems
-Lietuvos banko valdybos pirmininko pavaduotojams ir valdybos nariams; šio
-įstatymo 3 straipsnio ir 4 straipsnio 3 ir 4 dalių nuostatos taikomos šio
-įstatymo įsigaliojimo dieną ir po to pradedančiam eiti pareigas Lietuvos banko
-valdybos pirmininkui. 
- 
+Pastaba: šio įstatymo
+1 ir 3 straipsniai taikomi po šio įstatymo įsigaliojimo paskirtiems Lietuvos
+banko valdybos pirmininko pavaduotojams ir valdybos nariams; šio įstatymo 3
+straipsnio ir 4 straipsnio 3 ir 4 dalių nuostatos taikomos šio įstatymo
+įsigaliojimo dieną ir po to pradedančiam eiti pareigas Lietuvos banko valdybos
+pirmininkui. 
  
 *** Pabaiga ***
  
  
-Redagavo Aušra Bodin (2011-04-21)
-                  aubodi@lrs.lt
+Redagavo Aušra Bodin (2011-04-20)
+                  aubodi@lrs.lt
