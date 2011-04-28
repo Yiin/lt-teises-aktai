@@ -721,10 +721,18 @@ straipsnis. Kreipimųsi nagrinėjimo Konstituciniame Teisme terminai
 šio įstatymo nustatyta tvarka jam žinybingą kreipimąsi - prašymą ar paklausimą,
 - turi ne vėliau kaip per 7 dienas pradėti tyrimą, t.y. pavesti konkrečiam
 Konstitucinio Teismo teisėjui pradėti išankstinį tyrimą.
-            Bylos nagrinėjimas turi būti
-užbaigtas ir galutinis nutarimas ar išvada priimti ne vėliau kaip per 4
-mėnesius nuo prašymo ar paklausimo gavimo Konstituciniame Teisme dienos, jeigu
-Konstitucinis Teismas nenustato kitaip. 
+Bylos
+nagrinėjimas turi būti užbaigtas ir galutinis nutarimas ar išvada priimti ne
+vėliau kaip per 4 mėnesius nuo prašymo ar paklausimo gavimo Konstituciniame
+Teisme dienos, jeigu Konstitucinis Teismas nenustato kitaip. Konstitucinis
+Teismas negali pratęsti šioje dalyje nustatyto 4 mėnesių termino, kai nagrinėja
+bylą dėl įstatymo ar kito teisės akto, reglamentuojančio žemės paėmimą
+visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus, atitikties
+Konstitucijai.
+Straipsnio
+pakeitimai: 
+Nr. XI-1311,
+2011-04-12, Žin., 2011, Nr. 49-2366 (2011-04-28)
  
             30
 straipsnis. Konstitucinio Teismo teisminio nagrinėjimo ribos 
@@ -773,9 +781,9 @@ advokatai, mokslo laipsnius turintys teisininkai, taip pat teisinio darbo
 aukščiausiose valstybės institucijose patirtį turintys asmenys. Advokato
 įgaliojimai patvirtinami advokato orderiu. Kitiems nurodytiems asmenims
 įgaliojimus išduoda atitinkamų institucijų, kurioms jie atstovauja, vadovai
-arba Seimo narių grupės įstatyminis atstovas. Institucijos vadovas savo įstaigai
-atstovauti gali įpareigoti ir kitą tos įstaigos specialistą, išduodamas jam
-įgaliojimą.
+arba Seimo narių grupės įstatyminis atstovas. Institucijos vadovas savo
+įstaigai atstovauti gali įpareigoti ir kitą tos įstaigos specialistą,
+išduodamas jam įgaliojimą.
 Straipsnio
 pakeitimai: 
 Nr.
@@ -798,8 +806,8 @@ atsikirtimus, arba jų nesant.
 remiantis dalyvaujančių byloje asmenų paaiškinimais, liudytojų parodymais,
 rašytiniais įrodymais, daiktiniais įrodymais ir ekspertų išvadomis.
             Kiekvienas dalyvaujantis
-byloje asmuo turi įrodyti tas aplinkybes, kuriomis remiasi, keldamas savo reikalavimus
-ir atsikirsdamas.
+byloje asmuo turi įrodyti tas aplinkybes, kuriomis remiasi, keldamas savo
+reikalavimus ir atsikirsdamas.
             Įrodymus pateikia
 dalyvaujantys byloje asmenys. Teismas gali pasiūlyti jiems pateikti papildomų
 įrodymų.
@@ -908,9 +916,9 @@ Teismą;
 asmuo pažeidžia tvarką, neklauso posėdžio pirmininko reikalavimų laikytis
 tvarkos.
 Konstitucinis Teismas turi teisę skirti baudą
-piliečiams ir dalyvaujančių byloje asmenų atstovams – iki vieno paskutinio paskelbto
-šalies ūkio vidutinio mėnesinio darbo užmokesčio (toliau – VMDU) dydžio, o
-pareigūnams – iki 4 VMDU dydžio už kiekvieną pažeidimo atvejį.
+piliečiams ir dalyvaujančių byloje asmenų atstovams – iki vieno paskutinio
+paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio (toliau – VMDU)
+dydžio, o pareigūnams – iki 4 VMDU dydžio už kiekvieną pažeidimo atvejį.
             Kai šio straipsnio pirmojoje
 dalyje nurodyti pažeidimai padaromi posėdžio metu, Konstitucinio Teismo
 sprendimas dėl baudos paskyrimo priimamas posėdžio metu nedelsiant. Kitais
@@ -1055,8 +1063,8 @@ dalyvaujančių byloje asmenų pageidavimus ir juos išsprendžia.
  
             48
 straipsnis. Konstitucinio Teismo teisėjo nusišalinimas ir nušalinimas 
-            Konstitucinio Teismo
-teisėjas nusišalina ar gali būti nušalintas nuo bylos nagrinėjimo, jeigu:
+            Konstitucinio Teismo teisėjas
+nusišalina ar gali būti nušalintas nuo bylos nagrinėjimo, jeigu:
             1) jis yra dalyvaujančių
 byloje asmenų giminaitis, kai svarstomi paklausimai personaliniais klausimais;
             2) jis yra viešai pareiškęs,
@@ -1065,9 +1073,9 @@ kaip turi būti išspręsta Teisme nagrinėjama byla;
 aplinkybių, keliančių pagrįstų abejonių teisėjo nešališkumu.
             Jei yra aplinkybių, nurodytų
 šio straipsnio pirmojoje dalyje, prieš bylos nagrinėjimo pradžią teisėjas
-privalo raštu apie tai pareikšti ir prašyti Konstitucinio Teismo spręsti jo
-nušalinimo klausimą. Tais pačiais pagrindais ir tvarka motyvuotai nušalinimą
-gali pareikšti dalyvaujantys byloje asmenys.
+privalo raštu apie tai pareikšti ir prašyti Konstitucinio Teismo spręsti jo nušalinimo
+klausimą. Tais pačiais pagrindais ir tvarka motyvuotai nušalinimą gali
+pareikšti dalyvaujantys byloje asmenys.
             Jeigu yra pareikštas
 nušalinimas, Konstitucinis Teismas turi išklausyti dalyvaujančių byloje asmenų
 nuomones. Nusišalinimo ar nušalinimo klausimą Teismas išsprendžia pasitarimų
@@ -1093,9 +1101,9 @@ pasirašytinai paskelbti atvykusiems asmenims.
             Atidėdamas pradėtos bylos
 nagrinėjimą, Teismas gali apklausti atvykusius liudytojus, kurie iš naujo
 paprastai nebešaukiami.
-            Atnaujinęs atidėtos bylos
-nagrinėjimą, Teismas nusprendžia, ar ją pradėti nagrinėti iš pradžių ar nuo tos
-teismo proceso vietos, kurioje bylos nagrinėjimas buvo atidėtas. 
+            Atnaujinęs atidėtos bylos nagrinėjimą,
+Teismas nusprendžia, ar ją pradėti nagrinėti iš pradžių ar nuo tos teismo
+proceso vietos, kurioje bylos nagrinėjimas buvo atidėtas. 
  
             50
 straipsnis. Įrodymų tyrimas 
@@ -1107,8 +1115,8 @@ duomenys. Konstitucinio Teismo teisėjai gali užduoti klausimų pranešėjui.
 dalyvaujančių byloje asmenų paaiškinimai pradedant pareiškėju. Šie asmenys turi
 teisę užduoti vienas kitam klausimų, pasakyti savo nuomonę dėl kiekvieno kito
 asmens pareiškimo bei prašymo. Jiems klausimų gali užduoti ir Konstitucinio
-Teismo teisėjai. Posėdžio pirmininkas garsiai perskaito rašytinius tų
-dalyvaujančių byloje asmenų paaiškinimus, kurie neatvyko į posėdį.
+Teismo teisėjai. Posėdžio pirmininkas garsiai perskaito rašytinius tų dalyvaujančių
+byloje asmenų paaiškinimus, kurie neatvyko į posėdį.
             Prieš apklausdamas
 liudytojus, posėdžio pirmininkas nustato jų asmens tapatybę, pasirašytinai
 įspėja juos dėl atsakomybės už atsisakymą arba vengimą duoti parodymus bei už
@@ -1145,25 +1153,25 @@ I-1475,
 straipsnis. Teisminiai ginčai 
             Teisminiai ginčai susideda
 iš dalyvaujančių byloje asmenų kalbų.
-            Teisminiuose ginčuose pirmieji
-pasisako pareiškėjas ir jo atstovas, po to - suinteresuotas asmuo ir jo
-atstovas.
+            Teisminiuose ginčuose
+pirmieji pasisako pareiškėjas ir jo atstovas, po to - suinteresuotas asmuo ir
+jo atstovas.
             Po to dalyvaujantys byloje
 asmenys gali pasisakyti antrą kartą dėl to, kas pasakyta ginčuose. Paskutinio
 žodžio teisė visada priklauso suinteresuotam asmeniui ir jo atstovui.
-            Jeigu Konstitucinis Teismas
-teisminių ginčų metu pripažįsta, jog reikia išsiaiškinti naujas aplinkybes,
-turinčias reikšmės bylai, arba ištirti naujus įrodymus, jis priima sprendimą
-atnaujinti įrodymų tyrimą. Baigęs įrodymų tyrimą, Teismas vėl išklauso
-teisminius ginčus bendra tvarka. 
+            Jeigu Konstitucinis Teismas teisminių
+ginčų metu pripažįsta, jog reikia išsiaiškinti naujas aplinkybes, turinčias
+reikšmės bylai, arba ištirti naujus įrodymus, jis priima sprendimą atnaujinti
+įrodymų tyrimą. Baigęs įrodymų tyrimą, Teismas vėl išklauso teisminius ginčus
+bendra tvarka. 
  
             52
 straipsnis. Protokolavimas 
             Dėl kiekvieno Teismo
 posėdžio, taip pat kiekvieno atskiro procesinio veiksmo, atliekamo ne posėdyje,
 rašomas protokolas. Protokolus rašo posėdžių sekretorius.
-            Konstitucinio Teismo posėdžio
-protokole nurodoma:
+            Konstitucinio Teismo
+posėdžio protokole nurodoma:
             posėdžio vieta ir data, jo
 pradžios ir pabaigos laikas;
             posėdžio pirmininko vardas,
@@ -1208,9 +1216,9 @@ pateikti raštu. Jie pridedami prie protokolo.
             Garso įrašai, videoįrašai ar
 kino juostos, kuriuos posėdžio metu daro Konstitucinis Teismas, pridedami prie
 protokolo ir jame tai pažymima.
-            Protokolas turi būti
-surašytas per 2 dienas baigus ar atidėjus posėdį. Atspausdintą protokolą
-pasirašo Konstitucinio Teismo pirmininkas ir posėdžių sekretorius.
+            Protokolas turi būti surašytas
+per 2 dienas baigus ar atidėjus posėdį. Atspausdintą protokolą pasirašo
+Konstitucinio Teismo pirmininkas ir posėdžių sekretorius.
 Straipsnio
 pakeitimai: 
 Nr.
@@ -1261,8 +1269,8 @@ priimtas ne vėliau kaip per 1 mėnesį baigus nagrinėti bylą.
             Nutarimas priimamas balsų
 dauguma. Jei balsai pasiskirsto po lygiai, lemia posėdžio pirmininko balsas.
 Teisėjai neturi teisės atsisakyti balsuoti arba susilaikyti.
-            Priimtas nutarimas išdėstomas
-raštu ir visų dalyvavusių teisėjų pasirašomas.
+            Priimtas nutarimas
+išdėstomas raštu ir visų dalyvavusių teisėjų pasirašomas.
             Pataisos nutarime turi būti
 aptartos raštu prieš teisėjų parašus. 
 Konstitucinio
@@ -1304,8 +1312,8 @@ pareigūno veiksmai ar sprendimas, kurių atitikimas Konstitucijai buvo tiriamas
             aplinkybės, kurias nustatė
 Konstitucinis Teismas;
             argumentai ir įrodymai,
-kuriais grindžiamas Konstitucinio Teismo priimtas sprendimas, o prireikus -
-argumentai, paneigiantys kitas nuomones;
+kuriais grindžiamas Konstitucinio Teismo priimtas sprendimas, o prireikus - argumentai,
+paneigiantys kitas nuomones;
             Konstitucijos norma, kuria
 vadovavosi Konstitucinis Teismas, vertindamas akto ar veiksmo atitikimą
 Konstitucijai;
@@ -1351,16 +1359,16 @@ nutarimas ne vėliau kaip per 2 dienas nuo jo priėmimo dienos išsiunčiamas:
 teisėjams;
             dalyvavusiems byloje
 asmenims;
-            Seimui, Respublikos Prezidentui,
-Vyriausybei;
+            Seimui, Respublikos
+Prezidentui, Vyriausybei;
             Aukščiausiojo Teismo
 pirmininkui, generaliniam prokurorui, teisingumo ministrui.
             Konstitucinio Teismo
 pirmininkas gali nurodyti, kad Konstitucinio Teismo nutarimas būtų išsiųstas
 kitoms institucijoms, pareigūnams ar piliečiams. 
  
-            61 straipsnis.
-Konstitucinio Teismo nutarimo aiškinimas 
+            61
+straipsnis. Konstitucinio Teismo nutarimo aiškinimas 
             Konstitucinio Teismo
 nutarimą oficialiai gali aiškinti tik pats Konstitucinis Teismas pagal
 dalyvavusių byloje asmenų, kitų institucijų ar asmenų, kuriems jis išsiųstas,
@@ -1421,21 +1429,20 @@ atitikimo Konstitucijai ir įstatymams.
 pirmojoje dalyje nurodytas bylas, Konstitucinis Teismas tiria tiek viso akto,
 tiek ir jo dalies atitikimą Konstitucijai ar įstatymams. 
  
-            64
-straipsnis. Bylų dėl teisės aktų atitikimo Konstitucijai nagrinėjimo pagrindai
-ir vada 
+            64 straipsnis.
+Bylų dėl teisės aktų atitikimo Konstitucijai nagrinėjimo pagrindai ir vada 
             Bylos dėl teisės akto
 atitikimo Konstitucijai nagrinėjimo Konstituciniame Teisme pagrindas yra
-teisiškai motyvuota abejonė, kad visas aktas ar jo dalis prieštarauja
-Konstitucijai pagal:
+teisiškai motyvuota abejonė, kad visas aktas ar jo dalis prieštarauja Konstitucijai
+pagal:
             1) normų turinį;
             2) reguliavimo apimtį;
             3) formą;
             4) Konstitucijoje nustatytą
 priėmimo, pasirašymo, paskelbimo ar įsigaliojimo tvarką.
             Vada nagrinėti bylą dėl
-teisės akto atitikimo Konstitucijai yra šio įstatymo nustatyta tvarka ir
-nustatytos formos prašymo padavimas Konstituciniam Teismui. 
+teisės akto atitikimo Konstitucijai yra šio įstatymo nustatyta tvarka ir nustatytos
+formos prašymo padavimas Konstituciniam Teismui. 
  
             65
 straipsnis. Prašymo ištirti teisės akto atitikimą Konstitucijai padavimas 
@@ -1461,13 +1468,13 @@ adresas;
 atstovą ir jo įgaliojimus, išskyrus atvejus, kai atstovaujama pagal pareigas;
             4) valstybės institucijos,
 priėmusios ginčijamą teisės aktą, pavadinimas ir adresas;
-            5) Konstitucijos ir šio
-įstatymo normos, suteikiančios teisę kreiptis su prašymu į Konstitucinį Teismą;
+            5) Konstitucijos ir šio įstatymo
+normos, suteikiančios teisę kreiptis su prašymu į Konstitucinį Teismą;
             6) tikslus ginčijamo teisės
 akto pavadinimas, numeris, priėmimo data ir kiti jam identifikuoti būtini
 duomenys, jo paskelbimo šaltinis (jeigu buvo skelbtas);
-            7) konkretūs bylos
-nagrinėjimo pagrindai su nuorodomis į šio įstatymo normas;
+            7) konkretūs bylos nagrinėjimo
+pagrindai su nuorodomis į šio įstatymo normas;
             8) pareiškėjo pozicija dėl
 teisės akto atitikimo Konstitucijai ir tos pozicijos juridinis pagrindimas su
 nuorodomis į įstatymus;
@@ -1490,15 +1497,15 @@ atstovaujama pagal pareigas;
             3) visų dokumentų ir kitos
 medžiagos, surašytų ne lietuvių kalba, notaro patvirtinti vertimai į lietuvių
 kalbą.
-            Prie prašymo gali būti
-pridedamas siūlomų iškviesti į Konstitucinio Teismo posėdį liudytojų ir
-ekspertų sąrašas, specialistų išvados bei kiti dokumentai ir medžiaga. Prie
-kiekvieno liudytojo pavardės nurodoma, kokias aplinkybes jis gali patvirtinti.
-            Prašymas ir šio straipsnio
-trečiojoje dalyje nurodyti priedai pateikiami Konstituciniam Teismui su
-nuorašais po 30 egzempliorių. Konstitucinio Teismo pirmininkas prireikus gali
-įpareigoti pareiškėją pateikti ir kitų priedų nuorašus - iki 30 egzempliorių
-kiekvieno iš jų. 
+            Prie prašymo gali būti pridedamas
+siūlomų iškviesti į Konstitucinio Teismo posėdį liudytojų ir ekspertų sąrašas,
+specialistų išvados bei kiti dokumentai ir medžiaga. Prie kiekvieno liudytojo
+pavardės nurodoma, kokias aplinkybes jis gali patvirtinti.
+            Prašymas ir šio straipsnio trečiojoje
+dalyje nurodyti priedai pateikiami Konstituciniam Teismui su nuorašais po 30
+egzempliorių. Konstitucinio Teismo pirmininkas prireikus gali įpareigoti
+pareiškėją pateikti ir kitų priedų nuorašus - iki 30 egzempliorių kiekvieno iš
+jų. 
  
             67
 straipsnis. Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo,
@@ -1568,10 +1575,11 @@ pradėjęs nagrinėti bylą dėl to paties dalyko;
 teisiniais motyvais.
             Konstitucinis Teismas,
 atsisakydamas nagrinėti prašymą ištirti teisės akto atitikimą Konstitucijai,
-priima motyvuotą sprendimą, kurio nuorašas įteikiamas arba išsiunčiamas pareiškėjui.
-            Jeigu atsisakymo nagrinėti
-prašymą pagrindai buvo nustatyti pradėjus nagrinėti bylą Konstitucinio Teismo
-posėdyje, priimamas sprendimas nutraukti bylą.
+priima motyvuotą sprendimą, kurio nuorašas įteikiamas arba išsiunčiamas
+pareiškėjui.
+            Jeigu atsisakymo nagrinėti prašymą
+pagrindai buvo nustatyti pradėjus nagrinėti bylą Konstitucinio Teismo posėdyje,
+priimamas sprendimas nutraukti bylą.
             Ginčijamo teisės akto
 panaikinimas yra pagrindas priimti sprendimą pradėtai teisenai nutraukti. Jeigu
 tai paaiškėja iki teisminio posėdžio pradžios, Konstitucinis Teismas šį
@@ -1716,8 +1724,8 @@ nuorašų - iki 30 egzempliorių kiekvieno iš jų.
 straipsnis. Paklausimas dėl rinkimų įstatymų pažeidimo 
             Su paklausimu, ar nebuvo
 pažeisti rinkimų įstatymai per Respublikos Prezidento ar Seimo narių rinkimus,
-šio įstatymo 74 straipsnyje nurodytos institucijos kreipiasi į Konstitucinį Teismą
-ne vėliau kaip per 3 dienas po to, kai paskelbiami oficialūs rinkimų
+šio įstatymo 74 straipsnyje nurodytos institucijos kreipiasi į Konstitucinį
+Teismą ne vėliau kaip per 3 dienas po to, kai paskelbiami oficialūs rinkimų
 rezultatai.
 Konstitucinis
 Teismas tiria ir vertina tik Vyriausiosios rinkimų komisijos sprendimus arba
@@ -1744,8 +1752,8 @@ komisijos išvada. Esant reikalui, pridedami kiti sveikatos būklę apibūdinant
 įrodymai. 
 Straipsnio
 pakeitimai:
-Nr. IX-1797,
-2003-10-28, Žin., 2003, Nr. 108-4815 (2003-11-19)
+Nr. IX-1797, 2003-10-28,
+Žin., 2003, Nr. 108-4815 (2003-11-19)
  
             79
 straipsnis. Paklausimo atšaukimas 
@@ -1779,9 +1787,9 @@ straipsnis. Paklausimo sugrąžinimas pareiškėjui
 pirmininkas savo iniciatyva arba teisėjo siūlymu grąžina paklausimą
 pareiškėjui, jeigu paklausimas arba jo priedai neatitinka šio įstatymo 76
 straipsnyje nustatytų reikalavimų.
-            Paklausimo grąžinimas
-neatima teisės kreiptis į Konstitucinį Teismą bendra tvarka, kai bus pašalinti
-buvę trūkumai. 
+            Paklausimo grąžinimas neatima
+teisės kreiptis į Konstitucinį Teismą bendra tvarka, kai bus pašalinti buvę
+trūkumai. 
  
             82
 straipsnis. Paklausimų nagrinėjimo Konstituciniame Teisme tvarka 
@@ -1809,11 +1817,11 @@ paskelbimas ir
 įsigaliojimas
 Konstitucinio Teismo
 nutarimai, išvados, taip pat sprendimai priimti nagrinėti prašymą ar
-paklausimą, sprendimai atsisakyti nagrinėti prašymą ar paklausimą, sprendimai nutraukti
-bylą (teiseną), sprendimai dėl Konstitucinio Teismo nutarimo išaiškinimo,
-Konstitucinio Teismo pirmininko potvarkiai šio įstatymo 25 straipsnio pirmosios
-dalies 1 ir 2 punktuose nurodytais klausimais oficialiai skelbiami „Valstybės
-žiniose“, atskirame skyriuje.
+paklausimą, sprendimai atsisakyti nagrinėti prašymą ar paklausimą, sprendimai
+nutraukti bylą (teiseną), sprendimai dėl Konstitucinio Teismo nutarimo
+išaiškinimo, Konstitucinio Teismo pirmininko potvarkiai šio įstatymo 25
+straipsnio pirmosios dalies 1 ir 2 punktuose nurodytais klausimais oficialiai
+skelbiami „Valstybės žiniose“, atskirame skyriuje.
 Šio straipsnio pirmojoje
 dalyje nurodyti Konstitucinio Teismo aktai skelbiami ir Konstitucinio Teismo
 interneto tinklalapyje. Prireikus Konstitucinis Teismas leidžia savo nutarimų,
@@ -1828,8 +1836,8 @@ data.
 Konstitucinio
 Teismo aktai, kurie nepaskelbiami šio straipsnio ketvirtojoje dalyje nustatytu
 laiku, įsigalioja jų paskelbimo Konstitucinio Teismo leidinyje dieną.
-Konstitucinio Teismo
-pirmininko potvarkiai šio įstatymo 25 straipsnio pirmosios dalies 1 ir 2
+Konstitucinio
+Teismo pirmininko potvarkiai šio įstatymo 25 straipsnio pirmosios dalies 1 ir 2
 punktuose nurodytais klausimais įsigalioja kitą dieną po jų paskelbimo
 „Valstybės žiniose“, jeigu pačiuose potvarkiuose nenustatyta kita jų
 įsigaliojimo data.
@@ -1862,8 +1870,8 @@ Teismo kancleris, Konstitucinio Teismo aparato valstybės tarnautojai ir kiti
 darbuotojai į pareigas priimami įstatymų nustatyta tvarka.
 Straipsnio
 pakeitimai:
-Nr. IX-1797,
-2003-10-28, Žin., 2003, Nr. 108-4815 (2003-11-19)
+Nr. IX-1797, 2003-10-28,
+Žin., 2003, Nr. 108-4815 (2003-11-19)
  
             87
 straipsnis. Konstitucinio Teismo apsauga 
@@ -1954,9 +1962,9 @@ Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
 64-2328 (2001-07-25)
 VALSTYBĖS KONTROLĖS ĮSTATYMO, TEISMŲ ĮSTATYMO,
 KONSTITUCINIO TEISMO ĮSTATYMO, SEIMO KONTROLIERIŲ ĮSTATYMO, SEIMO NARIŲ DARBO
-SĄLYGŲ ĮSTATYMO, PROKURATŪROS ĮSTATYMO, TARNYBOS LIETUVOS RESPUBLIKOS
-PROKURATŪROJE STATUTO, MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO, VAIKO TEISIŲ
-APSAUGOS KONTROLIERIAUS ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+SĄLYGŲ ĮSTATYMO, PROKURATŪROS ĮSTATYMO, TARNYBOS LIETUVOS RESPUBLIKOS PROKURATŪROJE
+STATUTO, MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO, VAIKO TEISIŲ APSAUGOS
+KONTROLIERIAUS ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 7.
 Lietuvos
@@ -1980,8 +1988,8 @@ TEISMO ĮSTATYMO 48 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 9.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. X-1686,
-2008-07-03, Žin., 2008, Nr. 81-3187 (2008-07-17)
+Nr. X-1686, 2008-07-03,
+Žin., 2008, Nr. 81-3187 (2008-07-17)
 KONSTITUCINIO
 TEISMO ĮSTATYMO 8 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
@@ -2003,8 +2011,18 @@ KONSTITUCINIO
 TEISMO ĮSTATYMO 5, 8, 10, 15, 16, 53, 55 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR
 ĮSTATYMO PAPILDYMO 16(1) STRAIPSNIU ĮSTATYMAS
  
+12.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-1311, 2011-04-12,
+Žin., 2011, Nr. 49-2366 (2011-04-28)
+KONSTITUCINIO
+TEISMO ĮSTATYMO 29 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
+ 
  
 Konstitucinio
 Teismo nutarimai:
@@ -2026,6 +2044,5 @@ Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2008-11-24)
-                 
-autrap@lrs.lt
+Aušrinė Trapinskienė (2011-04-28)
+                  ausrine.trapinskiene@lrs.lt
