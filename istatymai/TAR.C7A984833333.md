@@ -52,153 +52,170 @@ ministras.
 4. Šio įstatymo nuostatos yra suderintos su Įstatymo
 priede pateiktais Europos Sąjungos teisės aktais.
  
-2 straipsnis. Pagrindinės
-šio įstatymo sąvokos
-1. Agentūra – Europos geležinkelių agentūra.
-2. Bendrieji geležinkelių transporto eismo saugos
-būdai (toliau – bendrieji eismo saugos būdai) – būdai, kuriais
-nustatoma, kaip turi būti vertinamas geležinkelių transporto eismo saugos
-lygis, siekiama bendrųjų geležinkelių transporto eismo saugos tikslų ir
-laikomasi geležinkelių transporto eismo saugos reikalavimų.
-3. Bendrieji geležinkelių transporto eismo saugos
-tikslai (toliau – bendrieji eismo saugos tikslai) – pavojaus
-priimtinumo kriterijais išreikšti geležinkelių transporto eismo saugos lygiai,
-kuriuos turi atitikti bent jau skirtingos geležinkelių sistemos dalys ir visa
-geležinkelių sistema.
-4. Europos bendrijos atitikties arba tinkamumo
-naudoti deklaracija – dokumentas, parengtas Lietuvos Respublikos
-paskelbtosios (notifikuotos) įstaigos, vadovaujantis Lietuvos Respublikos
-susisiekimo ministro nustatyta tvarka ir atitinkamomis Europos Sąjungos
-techninės sąveikos specifikacijomis, įrodantis sąveikos sudedamosios dalies
-atitiktį esminiams reikalavimams. Lietuvos Respublikoje galioja bet kurioje
-Europos Sąjungos valstybėje narėje išduota Europos bendrijos (EB) atitikties
-arba tinkamumo naudoti deklaracija.
-5. Europos bendrijos patikros deklaracija –
-dokumentas, parengtas Lietuvos Respublikos paskelbtosios (notifikuotos)
-įstaigos, vadovaujantis Lietuvos Respublikos susisiekimo ministro nustatyta
-tvarka ir atitinkamomis Europos Sąjungos techninės sąveikos specifikacijomis,
-įrodantis geležinkelių sistemos posistemio atitiktį esminiams reikalavimams.
-Lietuvos Respublikoje galioja bet kurioje Europos Sąjungos valstybėje narėje
-išduota Europos bendrijos (EB) patikros arba tinkamumo naudoti deklaracija.
-6. Eismo įvykio ar rikto priežastys – teisėta
-ar neteisėta veika, įvykiai, sąlygos arba jų visuma, dėl kurių įvyko eismo
-įvykis ar riktas.
-7. Eismo įvykio ar rikto tyrimas – procedūra,
-atliekama įvykus eismo įvykiui ar riktui siekiant užkirsti kelią kitam eismo
-įvykiui ar riktui, apimanti informacijos apie eismo įvykį ar riktą rinkimą ir
-analizę, išvadų pateikimą ir įvertinimą, eismo įvykio ar rikto priežasčių ir
-(ar) asmenų, pažeidusių geležinkelių transporto eismo saugos reikalavimus,
-nustatymą ir geležinkelių transporto eismo saugos rekomendacijų pateikimą.
-8. Eismo saugos valdymo sistema –
-geležinkelių infrastruktūros valdytojo ir (ar) geležinkelio įmonės (vežėjo)
-nustatytos priemonės, kuriomis siekiama užtikrinti geležinkelių transporto
-eismo saugą šiems asmenims vykdant savo veiklą.
-9. Esminiai reikalavimai – Lietuvos
-Respublikos susisiekimo ministro nustatyti reikalavimai, kuriuos turi atitikti
-geležinkelių sistema, jos posistemiai, sąveikos sudedamosios dalys ir sąsajos.
-10. Europos Sąjungos techninės sąveikos
-specifikacijos (toliau – TSS) – kiekvienam posistemiui
-ar jo daliai taikomi detalūs reikalavimai, būtini esminiams reikalavimams
-įvykdyti ir geležinkelių sistemos sąveikai užtikrinti. Europos Sąjungos
-oficialiajame leidinyje paskelbtos ir įsigaliojusios TSS yra taikomos
-tiesiogiai. Kai yra patvirtintos tam tikro posistemio ar jo dalies TSS, Lietuvos Respublikos teisės aktai tam posistemiui ar jo daliai netaikomi, išskyrus šiame
-įstatyme nustatytus atvejus.
-11. Geležinkelių riedmenys – geležinkelių
-transporto priemonės, važiuojančios geležinkelių keliais, naudojančios trauką
-arba jos nenaudojančios. Geležinkelių riedmenis sudaro vienas ar keli
-struktūriniai ir funkciniai posistemiai ar tokių posistemių dalys.
-12. Geležinkelių riedmenų valdymas –
-traukinio mašinisto, turinčio teisę valdyti geležinkelių riedmenis, veiksmai,
-kuriais valdomi važiuojantys geležinkelių riedmenys.
-13. Geležinkelių riedmenų techninė priežiūra
-– atitinkamuose geležinkelių riedmenų naudojimo ir priežiūros teisės aktuose ir
-gamintojo pateiktose geležinkelių riedmenų techninės priežiūros taisyklėse ir
-(ar) instrukcijose nustatyta techninių paslaugų, teisinių ir organizacinių
-priemonių (geležinkelių riedmenų techninės būklės tikrinimai, remontas ir kiti
-veiksmai), skirtų užtikrinti, kad naudojami geležinkelių riedmenys būtų saugūs
-ir nekeltų pavojaus žmonėms, geležinkelių infrastruktūrai, turtui ir aplinkai,
-visuma. 
-14. Geležinkelių sistema – struktūrinių ir
-funkcinių posistemių visuma ir visos sistemos valdymas ir eksploatavimas.
-15. Geležinkelių transporto eismas –
-traukinių eismas ir manevrai (geležinkelių riedmenų judėjimas geležinkelių
-keliais).
-16. Geležinkelių
-transporto eismo įvykis (toliau – eismo įvykis) – nepageidaujamas
-arba netyčinis netikėtas įvykis arba tokių įvykių virtinė, sukelianti žalingus
-padarinius, kai geležinkelių riedmenys susiduria su kitais geležinkelių
-riedmenimis, statiniais ar įrenginiais; geležinkelių riedmenys nurieda nuo
-bėgių; geležinkelių riedmenys pervažose susiduria su pervažą kertančiomis
-transporto priemonėmis, pėsčiaisiais ar pervažoje esančiais objektais; dėl
-judančių geležinkelių riedmenų nukenčia bent vienas žmogus; kyla gaisras
-geležinkelių riedmenyse.
-17. Geležinkelių transporto eismo sauga (toliau
-– eismo sauga) – visuma techninių ir organizacinių priemonių,
-kurios užtikrina, kad keleiviai, kiti geležinkelių transporto eismo dalyviai ir
-kiti asmenys, taip pat geležinkelių infrastruktūra, geležinkelių riedmenys bei
-vežami kroviniai ir bagažas būtų apsaugoti nuo eismo įvykių ir jų padarinių.
-18. Katastrofa – tai bet kokie geležinkelių
-riedmenų susidūrimai ar geležinkelių riedmenų nuriedėjimai nuo bėgių, kai žūva vienas ar daugiau žmonių arba
-sužalojami penki ar daugiau žmonių arba dėl to, katastrofų tyrimų vadovo
-išankstiniu vertinimu, padaryta ne mažesnė kaip 2 milijonų eurų žala
-geležinkelių infrastruktūrai, geležinkelių riedmenims, aplinkai arba asmenų
-turtui, taip pat bet kuris kitas panašus riedmenų susidūrimas ar geležinkelių
-riedmenų nuriedėjimas nuo bėgių, padaręs akivaizdų poveikį eismo saugos
-kontrolei ar valdymui.
-19. Mokymo centras – šio įstatymo ir kitų
-teisės aktų nustatyta tvarka eismo saugos institucijos pripažintas asmuo,
-turintis teisę mokyti ir egzaminuoti traukinio mašinistus. 
-20. Mokymo pajėgumai – traukinio mašinistų ir
-traukinius lydinčio personalo mokymo priemonės ir mokymai apie geležinkelių
-kelius, jų eksploatavimą, signalizacijos ir kontrolės komandų sistemą, taip pat
-kiti teisės aktuose nustatyti mokymai.
-21. Nacionalinės eismo saugos taisyklės –
-Lietuvos Respublikos teisės aktai, nustatantys eismo saugos reikalavimus ir
-taikomi daugiau negu vienai geležinkelio įmonei (vežėjui).
-22. Paskelbtoji (notifikuota) įstaiga –
-įstaiga, paskirta atsakinga už sąveikos sudedamųjų dalių atitikties arba
-tinkamumo naudoti įvertinimą arba už posistemių EB patikros procedūros
-atlikimą.
-23. Posistemio eismo saugos auditas – teisės
-aktų nustatyta tvarka atliekamas išsamus techninis posistemio eismo saugos
-užtikrinimo charakteristikų patikrinimas visais posistemio projekto rengimo ir
-įgyvendinimo etapais, nuo planavimo iki posistemio priežiūros darbų, taip pat
-eksploatuojamo posistemio būklės įvertinimas eismo saugos užtikrinimo požiūriu.
-24. Posistemis – Lietuvos Respublikos
-susisiekimo ministro nustatytos geležinkelių sistemos struktūrinės ar funkcinės
-dalys (geležinkelių infrastruktūra, geležinkelių riedmenys, geležinkelių
-transporto eismo organizavimas, valdymas ir kt.). 
-25. Riktas – bet koks įvykis, kuris kilo dėl
-geležinkelių riedmenų eksploatavimo, turėjo neigiamą poveikį eismo saugos
-kontrolei ir valdymui, bet nesukėlė katastrofos ir eismo įvykių padarinių.
-26. Sąveika – geležinkelių
-sistemos gebėjimas sudaryti sąlygas saugiam ir nenutrūkstamam geležinkelių
-transporto eismui. Šis gebėjimas priklauso nuo visų norminių, techninių ir
-eksploatacinių sąlygų, kurių turi būti laikomasi, kad būtų įvykdyti esminiai
-reikalavimai. 
-27. Sąveikos sudedamosios dalys – bet
-kuri nedaloma sudedamoji dalis, sudedamųjų dalių grupė, mazgas, sukomplektuotas
-blokas, įtraukti arba ketinami įtraukti į posistemį, nuo kurių tiesiogiai ar
-netiesiogiai priklauso geležinkelių sistemos sąveika. Ši sąvoka apima ir
-materialiuosius, ir nematerialiuosius objektus.
-28. Traukinių eismas – traukinių važiavimas
-geležinkelių linijomis.
+2 straipsnis.
+Pagrindinės šio įstatymo sąvokos
+1. Agentūra –
+Europos geležinkelių agentūra.
+2. Bendrieji
+geležinkelių transporto eismo saugos būdai (toliau – bendrieji eismo
+saugos būdai) – būdai, kuriais nustatoma, kaip turi būti vertinamas
+geležinkelių transporto eismo saugos lygis, siekiama bendrųjų geležinkelių
+transporto eismo saugos tikslų ir laikomasi geležinkelių transporto eismo
+saugos reikalavimų.
+3. Bendrieji
+geležinkelių transporto eismo saugos tikslai (toliau – bendrieji eismo
+saugos tikslai) – pavojingumo kriterijais reiškiamos geležinkelių
+transporto eismo saugos užduotys, kurias turi įvykdyti visa geležinkelių
+sistema ar jos dalys.
+4. Europos
+bendrijos atitikties arba tinkamumo naudoti deklaracija – vadovaujantis
+Lietuvos Respublikos susisiekimo ministro nustatyta tvarka ir atitinkamomis
+geležinkelių techninio sąveikumo specifikacijomis Lietuvos Respublikos
+paskelbtosios įstaigos parengtas dokumentas, kuriuo patvirtinama geležinkelių
+sistemos sąveikaujančios dalies atitiktis esminiams reikalavimams. Lietuvos
+Respublikoje galioja bet kurioje Europos Sąjungos valstybėje narėje išduota
+Europos bendrijos (EB) atitikties arba tinkamumo naudoti deklaracija.
+5. Europos
+bendrijos patikros deklaracija – vadovaujantis Lietuvos
+Respublikos susisiekimo ministro nustatyta tvarka ir atitinkamomis geležinkelių
+techninio sąveikumo specifikacijomis Lietuvos Respublikos paskelbtosios
+įstaigos parengtas dokumentas, kuriuo patvirtinama geležinkelių posistemio
+atitiktis esminiams reikalavimams. Lietuvos Respublikoje galioja bet kurioje
+Europos Sąjungos valstybėje narėje išduota Europos bendrijos (EB) patikros
+deklaracija.
+6. Esminiai
+reikalavimai – Lietuvos Respublikos susisiekimo ministro nustatyti
+reikalavimai, kuriuos turi atitikti geležinkelių sistema, geležinkelių
+posistemiai, sąveikaujančios dalys ir sąsajos.
+7. Geležinkelių posistemis – Lietuvos
+Respublikos susisiekimo ministro nustatyta geležinkelių sistemos struktūrinė ar
+funkcinė dalis (geležinkelių infrastruktūra, geležinkelių riedmenys, eismo
+organizavimas, valdymas ir kitos). 
+8. Geležinkelių
+riedmenys – geležinkelių transporto priemonės, judančios geležinkelių
+keliais, naudojančios trauką arba jos nenaudojančios, traukiamos kitų
+geležinkelių riedmenų ar traukiančios kitus geležinkelių riedmenis
+(lokomotyvai, vagonai ir kita). Geležinkelių riedmenis sudaro vienas ar keli
+struktūriniai ir funkciniai geležinkelių posistemiai ar tokių geležinkelių
+posistemių dalys.
+9. Geležinkelių
+riedmenų naudotojas – asmuo, kuris yra geležinkelių riedmenų savininkas ar
+turi teisę juos naudoti kitu teisėtu pagrindu, naudoja juos pagal paskirtį ir
+yra įregistruotas geležinkelių riedmenų naudotoju Lietuvos Respublikos
+geležinkelių riedmenų registre.
+10. Geležinkelių
+riedmenų techninė priežiūra – techninės paslaugos (geležinkelių riedmenų
+techninės būklės tikrinimai, geležinkelių riedmenų remontas ir kiti veiksmai)
+ir įgyvendinamos teisinės ir organizacinės priemonės siekiant užtikrinti, kad
+naudojami geležinkelių riedmenys būtų saugūs ir nekeltų pavojaus žmonėms,
+geležinkelių infrastruktūrai, turtui ir aplinkai.
+11. Geležinkelių
+riedmenų valdymas – traukinio mašinisto, turinčio teisę valdyti
+geležinkelių riedmenis, veiksmai, kuriais valdomi judantys geležinkelių
+riedmenys.
+12. Geležinkelių sistema –
+struktūrinių ir funkcinių geležinkelių posistemių visuma, jų valdymas ir
+eksploatavimas.
+13. Geležinkelių
+sistemos sąveikaujanti dalis – bet kuri nedaloma geležinkelių sistemos dalis, jų grupė,
+mazgas, sukomplektuotas blokas, įtraukti arba ketinami įtraukti į geležinkelių
+posistemį, nuo kurių tiesiogiai ar netiesiogiai priklauso geležinkelių sistemos
+sąveikumas. Ši sąvoka apima ir materialiuosius, ir nematerialiuosius objektus.
+14. Geležinkelių sistemos sąveikumas
+– geležinkelių sistemos gebėjimas sudaryti sąlygas saugiam ir nenutrūkstamam
+geležinkelių transporto eismui. Šis gebėjimas priklauso nuo visų norminių,
+techninių ir eksploatacinių sąlygų, kurių turi būti laikomasi, kad būtų
+įvykdyti esminiai reikalavimai. 
+15. Geležinkelių techninio
+sąveikumo specifikacijos (toliau – TSS) – kiekvieno geležinkelių
+posistemio ar jo dalies charakteristikos detalūs reikalavimai, skirti esminių
+reikalavimų atitikčiai ir geležinkelių sistemos sąveikai užtikrinti. Europos
+Sąjungos oficialiajame leidinyje paskelbtos ir įsigaliojusios TSS yra taikomos
+tiesiogiai. Kai yra patvirtintos tam tikro geležinkelių posistemio ar jo dalies
+TSS, Lietuvos Respublikos teisės aktai tam geležinkelių posistemiui ar jo
+daliai netaikomi, išskyrus šiame įstatyme nustatytus atvejus.
+16. Geležinkelių transporto eismas – geležinkelių riedmenų judėjimas geležinkelių keliais.
+17. Geležinkelių
+transporto eismo įvykis (toliau – eismo įvykis) –
+nepageidaujamas arba netyčinis netikėtas įvykis arba keli įvykiai, sukėlę
+žalingus padarinius, kai geležinkelių riedmenys susiduria su kitais
+geležinkelių riedmenimis, statiniais ar įrenginiais, nurieda nuo bėgių,
+susiduria su pervažą kertančiomis transporto priemonėmis ar pervažoje esančiais
+objektais, taip pat kai dėl judančių geležinkelių riedmenų nukenčia bent vienas
+žmogus ar geležinkelių riedmenyse kyla gaisras ir kiti panašaus pobūdžio
+žalingus padarinius sukėlę įvykiai.
+18. Geležinkelių transporto eismo sauga (toliau – eismo sauga) – visuma geležinkelių
+transporto techninių ir organizacinių priemonių, skirtų užtikrinti, kad
+keleiviai, kiti geležinkelių transporto eismo dalyviai ir kiti asmenys, taip
+pat geležinkelių infrastruktūra, geležinkelių riedmenys ir vežami kroviniai bei
+bagažas būtų apsaugoti nuo geležinkelių transporto katastrofų, geležinkelių
+transporto eismo įvykių, geležinkelių transporto riktų ir jų padarinių.
+19. Geležinkelių transporto
+eismo saugos valdymo sistema (toliau – eismo saugos valdymo sistema)
+– visuma geležinkelių infrastruktūros valdytojo ir (ar) geležinkelio įmonės
+(vežėjo) nustatytų priemonių, kuriomis siekiama užtikrinti eismo saugumą šiems
+asmenims vykdant savo veiklą.
+20. Geležinkelių
+transporto katastrofa (toliau – katastrofa) – geležinkelių riedmenų
+susidūrimas ar nuriedėjimas nuo bėgių, kai žūsta
+vienas ar daugiau žmonių arba sužalojami penki ar daugiau žmonių arba,
+katastrofų tyrimų vadovo išankstiniu vertinimu, padaryta ne mažesnė kaip 2
+milijonų eurų žala geležinkelių infrastruktūrai, geležinkelių riedmenims,
+aplinkai arba asmenų turtui, taip pat bet kuris kitas panašius padarinius
+sukėlęs eismo įvykis, padaręs akivaizdų poveikį eismo saugos kontrolei ar valdymui.
+21. Geležinkelių
+transporto riktas (toliau – riktas) – įvykis eksploatuojant
+geležinkelių riedmenis, turėjęs neigiamą poveikį eismo saugos kontrolei ir
+valdymui, bet nesukėlęs geležinkelių transporto katastrofos ar geležinkelių
+transporto eismo įvykio padarinių.
+22.
+Katastrofos, eismo įvykio ar rikto priežastys – teisėta ar neteisėta veika,
+įvykiai, sąlygos arba jų visuma, kurie lėmė katastrofą, eismo įvykį ar riktą.
+23. Katastrofos, eismo
+įvykio ar rikto tyrimas – procedūra, atliekama po katastrofos, eismo įvykio
+ar rikto siekiant užkirsti kelią kitai katastrofai, eismo įvykiui ar riktui,
+apimanti informacijos apie katastrofą, eismo įvykį ar riktą rinkimą ir analizę,
+išvadų pateikimą ir įvertinimą, katastrofos, eismo įvykio ar rikto priežasčių
+ir (ar) asmenų, pažeidusių eismo saugos reikalavimus, nustatymą ir geležinkelių
+transporto eismo saugos rekomendacijų pateikimą.
+24. Mokymo pajėgumai –
+traukinio mašinistų ir traukinius lydinčio personalo mokymo priemonės ir
+geležinkelio kelių, jų eksploatavimo, signalizacijos ir kontrolės komandų
+sistemų, taip pat kitų teisės aktuose nustatytų mokymų programos.
+25. Nacionalinės geležinkelių eismo saugos taisyklės – Lietuvos Respublikos teisės aktuose nustatyti
+geležinkelių eismo saugos reikalavimai, taikomi daugiau negu vienai
+geležinkelio įmonei (vežėjui).
+26. Paskelbtoji įstaiga –
+įstaiga, kuri paskirta atsakinga už geležinkelių sistemos sąveikaujančių dalių
+atitikties arba tinkamumo naudoti įvertinimą arba už geležinkelių posistemių
+Europos bendrijos (EB) patikros procedūros atlikimą ir apie kurią pranešama
+Europos Komisijai ir Europos ekonominės erdvės valstybėms.
+27. Traukinių eismas
+– traukinių judėjimas geležinkelių linijomis.
+28.
+Traukinio mašinistas – asmuo, turintis traukinio mašinisto pažymėjimą,
+traukinio mašinisto sertifikatą ir valdantis geležinkelių riedmenis.
 29. Traukinio
-mašinistas – asmuo, turintis traukinio mašinisto pažymėjimą, traukinio
-mašinisto sertifikatą ir valdantis geležinkelių riedmenis.
-30. Traukinio mašinisto pažymėjimas – šio
-įstatymo ir kitų teisės aktų nustatyta tvarka išduotas dokumentas,
-kuriuo patvirtinama traukinio mašinisto sveikatos, išsilavinimo ir profesinių
-įgūdžių atitiktis teisės aktų nustatytiems reikalavimams.
-31. Traukinio mašinisto sertifikatas – šio
-įstatymo ir kitų teisės aktų nustatyta tvarka išduotas dokumentas, kuriuo
-patvirtinama traukinio mašinisto teisė valdyti sertifikate nurodytus
-geležinkelių riedmenis nurodytoje geležinkelių infrastruktūroje.
-32. Trečioji valstybė – valstybė, kuri nėra
-Europos Sąjungos valstybė narė.
-33. Kitos šio įstatymo sąvokos vartojamos taip, kaip
-jos apibrėžtos Lietuvos Respublikos geležinkelių transporto kodekse, Lietuvos
-Respublikos transporto veiklos pagrindų įstatyme ir kituose įstatymuose.
+mašinisto pažymėjimas – dokumentas, kuriuo patvirtinama traukinio mašinisto
+sveikatos, išsilavinimo ir profesinių įgūdžių atitiktis teisės aktų
+nustatytiems reikalavimams.
+30. Traukinio
+mašinisto sertifikatas – dokumentas, kuriuo patvirtinama traukinio
+mašinisto teisė valdyti sertifikate nurodytus geležinkelių riedmenis nurodytoje
+geležinkelių infrastruktūroje.
+31. Traukinio mašinistų
+mokymo centras – eismo saugos institucijos pripažintas asmuo, turintis
+teisę mokyti traukinio mašinistus.
+32. Trečioji valstybė
+– valstybė, kuri nėra Europos Sąjungos valstybė narė ar nėra Europos ekonominės
+erdvės valstybė.
+33. Kitos šio įstatymo sąvokos
+suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos geležinkelių
+transporto kodekse, Lietuvos Respublikos transporto veiklos pagrindų įstatyme
+ir kituose įstatymuose.
+Straipsnio pakeitimai:
+Nr. XI-1334,
+2011-04-19, Žin., 2011, Nr. 52-2509 (2011-05-03)
  
 3 straipsnis. Eismo saugos
 užtikrinimo principai
@@ -260,9 +277,9 @@ iki tol, kol bus priimtas atitinkamas Europos Komisijos sprendimas.
 posistemio ar jo dalies, kuriai netaikoma TSS (reikiama TSS dar nėra
 patvirtinta, Lietuvos Respublikos susisiekimo ministro nustatyta tvarka yra
 pranešta Europos Komisijai apie išlygą dėl TSS taikymo arba numatytas
-specifinis atvejis), detalūs reikalavimai, būtini esminiams reikalavimams
-vykdyti ir geležinkelių sistemos sąveikai užtikrinti, nustatomi posistemio
-techninėse taisyklėse.
+specifinis atvejis), detalūs reikalavimai, būtini esminiams reikalavimams vykdyti
+ir geležinkelių sistemos sąveikai užtikrinti, nustatomi posistemio techninėse
+taisyklėse.
 7. Posistemių
 techninėms taisyklėms priskiriama: 
 1) posistemių
@@ -295,9 +312,9 @@ nustatyta tvarka parengti ir priimti posistemių tinkamumo naudoti nustatymo
 dokumentai. Jie rengiami, kai nėra parengtų atitinkamų Lietuvos ar Europos
 standartų arba kai neplanuojama šių standartų rengti;
 7) metodiniai
-nurodymai ir rekomendacijos – projektavimo ir statybos įmonių, mokslo ir studijų
-institucijų paskelbti savanoriškai taikomi dokumentai, kuriuose nurodyti
-posistemių techninių reglamentų įgyvendinimo būdai ir metodai.
+nurodymai ir rekomendacijos – projektavimo ir statybos įmonių, mokslo ir
+studijų institucijų paskelbti savanoriškai taikomi dokumentai, kuriuose
+nurodyti posistemių techninių reglamentų įgyvendinimo būdai ir metodai.
 8. Posistemių
 techniniai reglamentai yra privalomi visiems asmenims, kuriems taikomas šis
 įstatymas. Tuo atveju, kai posistemių techniniuose reglamentuose nustatytus
@@ -351,42 +368,37 @@ užtikrinantys subjektai
 eismo saugą užtikrina šie subjektai: Lietuvos Respublikos Vyriausybė, Lietuvos
 Respublikos susisiekimo ministerija, Lietuvos Respublikos sveikatos apsaugos
 ministerija ir eismo saugos institucija.
-2. Eismo saugos politiką formuoja Lietuvos Respublikos
-Vyriausybė. Šios politikos įgyvendinimą koordinuoja Lietuvos Respublikos
-susisiekimo ministerija.
+2. Bendrųjų eismo saugos
+tikslų įgyvendinimo priemones nustato Lietuvos Respublikos Vyriausybė arba jos
+įgaliota institucija.
 3. Lietuvos Respublikos susisiekimo ministerija:
 1) nustato geležinkelių sistemos struktūrines ir
 funkcines dalis, posistemių, sąveikos sudedamųjų dalių ir jų tarpusavio sąsajų
 esminius reikalavimus;
-*2) nustato traukinio mašinisto pažymėjimų išdavimo,
+2) nustato traukinio mašinisto pažymėjimų išdavimo,
 galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo atšaukimo
 tvarką;
-*3) nustato teisės valdyti geležinkelių riedmenis
+3) nustato teisės valdyti geležinkelių riedmenis
 įgijimo ir teisės valdyti geležinkelių riedmenis suteikimo dokumentų, išduotų
 kitose valstybėse, pripažinimo Lietuvos Respublikoje tvarką;
-*Pastaba. 5 straipsnio 3 dalies 2 ir 3 punktai
-įsigalioja nuo 2010 m. liepos 1 d. 
  
-*4) ne rečiau kaip kas 5 metai organizuoja ir (ar)
+4) ne rečiau kaip kas 5 metai organizuoja ir (ar)
 atlieka asmenų, pageidaujančių gauti traukinio mašinisto pažymėjimus ir
 traukinio mašinisto sertifikatus, mokymo ir egzaminavimo nepriklausomą
 vertinimą ir apie šio vertinimo rezultatus informuoja eismo saugos instituciją.
 Šis nepriklausomas vertinimas neatliekamas, jeigu atlikti nepriklausomą
 vertinimą yra numatyta atitinkamos įmonės eismo saugos valdymo sistemose;
-*Pastaba. 5 straipsnio 3 dalies 4 punktas įsigalioja
+Pastaba. 5 straipsnio 3 dalies 4 punktas įsigalioja
 nuo 2013 m. rugsėjo 1 d. 
  
-*5) nustato traukinio mašinistų mokymo programų
+5) nustato traukinio mašinistų mokymo programų
 reikalavimus;
-*Pastaba.
+Pastaba.
 5 straipsnio 3 dalies 5 punktas įsigalioja 2011 m. rugsėjo 1 d.
  
-*6) nustato atestatų, suteikiančių teisę sudaryti
+6) nustato atestatų, suteikiančių teisę sudaryti
 krovinių krovimo į geležinkelių riedmenis ir įtvirtinimo juose schemas,
 išdavimo asmenims tvarką;
-*Pastaba. 5 straipsnio 3 dalies 6 punktas įsigalioja
-nuo 2010 m. liepos 1 d. 
- 
 7) gali atlikti kitas šiame įstatyme ir kituose teisės
 aktuose nustatytas funkcijas, susijusias su eismo saugos užtikrinimu.
 4. Lietuvos Respublikos sveikatos apsaugos
@@ -396,9 +408,14 @@ darbas susijęs su geležinkelių transporto eismu, sveikatos tikrinimo
 reikalavimus ir tvarką;
 2) gali atlikti kitas šiame įstatyme ir kituose teisės
 aktuose nustatytas funkcijas, susijusias su eismo saugos užtikrinimu.
-5. Eismo saugos reikalavimus įgyvendina geležinkelių
-infrastruktūros valdytojai, geležinkelio įmonės (vežėjai) ir asmenys, kurių veikla
-susijusi su geležinkelių transporto eismu.
+5. Eismo saugos reikalavimus įgyvendina
+geležinkelių infrastruktūros valdytojai, geležinkelio įmonės (vežėjai),
+asmenys, atsakingi už geležinkelių riedmenų techninę priežiūrą (toliau –
+techniniai prižiūrėtojai), ir asmenys, kurių veikla susijusi su geležinkelių
+transporto eismu.
+Straipsnio pakeitimai:
+Nr. XI-1334,
+2011-04-19, Žin., 2011, Nr. 52-2509 (2011-05-03)
  
 6 straipsnis. Eismo saugos
 institucija
@@ -425,18 +442,15 @@ reikalavimų;
 4) prižiūri ir kontroliuoja eismo saugos valdymo
 sistemų įgyvendinimą, įpareigoja geležinkelių infrastruktūros valdytojus ir
 geležinkelio įmones (vežėjus) jas įgyvendinti ir tobulinti;
-*5) išduoda traukinio mašinisto pažymėjimus, jų
+5) išduoda traukinio mašinisto pažymėjimus, jų
 dublikatus, sustabdo pažymėjimų galiojimą, panaikina galiojimo sustabdymą ir
 atšaukia galiojimą;
-*Pastaba.
-6 straipsnio 3 dalies 5 punktas įsigalioja nuo 2010 m. liepos 1 d. 
- 
 6) tvarko Traukinio mašinistų registrą;
-*7) nustato mokymo centrų pripažinimo pažymėjimų
+7) nustato mokymo centrų pripažinimo pažymėjimų
 išdavimo, šių pažymėjimų galiojimo sustabdymo, galiojimo sustabdymo panaikinimo
 ir atšaukimo tvarką, taip pat išduoda mokymo centrų pripažinimo pažymėjimus,
 sustabdo jų galiojimą, panaikina galiojimo sustabdymą ir atšaukia galiojimą;
-*Pastaba.
+Pastaba.
 6 straipsnio 3 dalies 7 punktas įsigalioja 2011 m. rugsėjo 1 d.
  
 8) nustato asmenų, pageidaujančių gauti traukinio
@@ -449,15 +463,12 @@ eismo saugos gerinimo planą, kai nėra įgyvendinami bendrieji saugos tikslai;
 krovinio krovimo į geležinkelių riedmenis ir įtvirtinimo juose schemas,
 sustabdo šių atestatų galiojimą, panaikina galiojimo sustabdymą ir atšaukia
 galiojimą;
-*11)
+11)
 pagal kompetenciją rengia ir priima teisės aktus, taip pat dalyvauja rengiant
 teisės aktų projektus, susijusius su geležinkelių transporto eismo sauga,
 geležinkelių sistemos sąveika ir TSS įgyvendinimu, ir atlieka jų ekspertizę;
-*12)
+12)
 atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas funkcijas.
-*Pastaba.
-6 straipsnio 3 dalies 11 ir 12 punktai įsigalioja nuo 2010 m. liepos 1 d. 
- 
 4. Draudžiama šio straipsnio 3 dalyje nurodytas eismo
 saugos institucijos funkcijas perduoti vykdyti bet kokiam kitam asmeniui.
 5. Tais atvejais, kai posistemiui ar jo daliai
@@ -493,8 +504,8 @@ patalpose, pastatuose, teritorijoje atliekamas tikrinimas, veiklą;
 pavestomis funkcijomis;
 3) vykdyti kitas šiame įstatyme ir kituose teisės
 aktuose nustatytas pareigas.
-10. Eismo saugos institucija ir (ar) jos įgalioti
-valstybės tarnautojai, atlikdami jiems pavestas funkcijas, turi teisę:
+10. Eismo saugos institucija ir (ar) jos įgalioti valstybės
+tarnautojai, atlikdami jiems pavestas funkcijas, turi teisę:
 1) gauti reikalingą informaciją, visus reikalingus
 dokumentus ir geležinkelių infrastruktūros valdytojų techninę pagalbą;
 2) patekti į asmenų teritoriją, pastatus ir patalpas
@@ -549,14 +560,19 @@ informacija apie:
 rodiklius, kuriuos nustato Lietuvos Respublikos susisiekimo ministras;
 2) teisės aktų pakeitimus, susijusius su eismo sauga;
 3) saugos sertifikatų išdavimo geležinkelio įmonėms
-(vežėjams) ir įgaliojimų eismo saugos srityje suteikimo geležinkelių infrastruktūros
-valdytojams procedūrų tobulinimą;
-4) geležinkelių infrastruktūros valdytojų,
-geležinkelio įmonių (vežėjų) eismo saugos audito rezultatus ir su eismo sauga
-susijusią patirtį.
-19. Už eismo saugos institucijos pagal šį įstatymą
-išduodamų atestatų, pažymėjimų ir leidimų išdavimą ar pakeitimą imama valstybės
-rinkliava.
+(vežėjams) ir įgaliojimų eismo saugos srityje suteikimo geležinkelių
+infrastruktūros valdytojams procedūrų tobulinimą;
+4) geležinkelių infrastruktūros valdytojų, geležinkelio
+įmonių (vežėjų) eismo saugos audito rezultatus ir su eismo sauga susijusią
+patirtį;
+5) prekinių vagonų, kurie naudojami 1 520
+mm pločio vėžės geležinkelių tinkle, techninę priežiūrą.
+19. Už eismo saugos institucijos pagal šį
+įstatymą išduodamų atestatų, pažymėjimų, sertifikatų ir leidimų išdavimą ar
+pakeitimą imama valstybės rinkliava.
+Straipsnio pakeitimai:
+Nr. XI-1334,
+2011-04-19, Žin., 2011, Nr. 52-2509 (2011-05-03)
  
 7 straipsnis.
 Saugus geležinkelių sistemos naudojimas ir eismo saugos valdymo sistemos
@@ -611,10 +627,10 @@ atitikti TSS (pradedant juos naudoti, naudojant, tobulinant ar atnaujinant).
 posistemius, kuriems Lietuvos Respublikos susisiekimo ministro nustatyta tvarka
 išduoti leidimai pradėti eksploatuoti Lietuvos Respublikoje struktūrinius
 posistemius. Struktūriniai posistemiai, kuriems išduota EB patikros deklaracija
-arba šio įstatymo nustatytais atvejais išduotas atitikties sertifikatas,
-atitinka esminius reikalavimus ir užtikrina geležinkelių sistemos sąveiką.
-Struktūrinių posistemių EB patikros deklaracija arba atitikties sertifikatas
-išduodamas Lietuvos Respublikos susisiekimo ministro nustatyta tvarka.
+arba šio įstatymo nustatytais atvejais išduotas atitikties sertifikatas, atitinka
+esminius reikalavimus ir užtikrina geležinkelių sistemos sąveiką. Struktūrinių
+posistemių EB patikros deklaracija arba atitikties sertifikatas išduodamas
+Lietuvos Respublikos susisiekimo ministro nustatyta tvarka.
 3. Leidžiama pradėti naudoti tik tas sąveikos
 sudedamąsias dalis, kurios užtikrina geležinkelių sistemos sąveiką ir atitinka
 esminius reikalavimus. Sąveikos sudedamosios dalys, kurioms išduota EB
@@ -624,13 +640,11 @@ išduodama Lietuvos Respublikos susisiekimo ministro nustatyta tvarka.
 4. Prieš pradedant naudoti sąveikos sudedamąsias
 dalis, turi būti įvertinta jų atitiktis ir tinkamumas naudoti pagal atitinkamą TSS ir kitus teisės aktus. Visoms sąveikos sudedamosioms dalims turi būti išduotos atitinkamos
 deklaracijos.
-*5. Tais atvejais, kai nėra parengtos posistemio TSS,
-vykdant posistemio diegimo, modernizavimo ir rekonstravimo darbus, prieš tai
-turi būti atliekamas posistemio eismo saugos auditas eismo saugos institucijos
-nustatyta tvarka. Šis auditas – neatsiejama posistemio projekto įgyvendinimo
-dalis. Juo siekiama nustatyti ir pašalinti eismo saugai kylančius pavojus.
-*Pastaba.
-9 straipsnio 5 dalis įsigalioja nuo 2010 m. liepos 1 d. 
+5. Neteko
+galios juo 2011 m. gegužės 1 d.
+Straipsnio pakeitimai:
+Nr. XI-1334, 2011-04-19,
+Žin., 2011, Nr. 52-2509 (2011-05-03)
  
 10 straipsnis. Geležinkelių transporto eismo reikalavimai
 1. Geležinkelių transporto eismo tvarką nustato
@@ -648,48 +662,152 @@ infrastruktūros reikalavimai
 priežiūrą atlieka geležinkelių infrastruktūros valdytojai šio įstatymo,
 Lietuvos Respublikos statybos įstatymo, TSS ir kitų teisės aktų nustatyta
 tvarka.
-*2. Geležinkelių infrastruktūros valdytojas privalo
+2. Geležinkelių infrastruktūros valdytojas privalo
 atlyginti asmenims žalą, atsiradusią dėl to, kad geležinkelių infrastruktūros
 valdytojas neatliko ar netinkamai atliko teisės aktuose jam nustatytas
 pareigas.
-*Pastaba.
-11 straipsnio 2 dalis įsigalioja nuo 2010 m. liepos 1 d. 
  
-12 straipsnis. Geležinkelių
-riedmenų reikalavimai
-1. Geležinkelių transporto eismui leidžiama naudoti
-tik techniškai tvarkingus, teisės aktų nustatyta tvarka įregistruotus geležinkelių
-riedmenis, kurių techninė priežiūra vykdoma šio įstatymo, Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros
+12 straipsnis.
+Geležinkelių riedmenų reikalavimai
+1. Geležinkelių transporto eismui
+leidžiama naudoti tik techniškai tvarkingus, teisės aktų nustatyta tvarka
+įregistruotus geležinkelių riedmenis, kurių techninė priežiūra atliekama šio
+įstatymo, Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros
 įstatymo ir kitų teisės aktų nustatyta tvarka.
-2. Asmuo, kuriam geležinkelių riedmenys priklauso
-nuosavybės teise arba kuris valdo ir (ar) naudoja juos kitu teisėtu pagrindu,
-turi užtikrinti jo valdomų geležinkelių riedmenų atitiktį esminiams
-reikalavimams.
-3. Geležinkelių riedmenys turi būti techniškai
-prižiūrimi Lietuvos Respublikos susisiekimo ministro nustatyta tvarka.
-4. Įmonės, atliekančios geležinkelių riedmenų techninę
-priežiūrą, turi būti atestuotos Lietuvos Respublikos susisiekimo ministro
-nustatyta tvarka. 
-5. Trečiųjų valstybių geležinkelių riedmenys Lietuvos
-Respublikos teritorijoje naudojami vadovaujantis šiuo įstatymu, tarptautinėmis
-sutartimis ir tarptautiniais susitarimais.
-6. Lietuvos Respublikos teritorijoje leidžiama naudoti
-geležinkelių riedmenis, kurie pirmą kartą buvo pradėti naudoti trečiojoje
-valstybėje ir paženklinti pagal kitokią negu nustatyta Europos Sąjungoje
-tvarką. Duomenis apie tokius geležinkelių riedmenis, jų savininkus ir
-valdytojus privalo tvarkyti eismo saugos institucija Lietuvos Respublikos
-geležinkelių riedmenų registre ir teikti suinteresuotiems asmenims,
-geležinkelio įmonėms (vežėjams), naudojančioms
-šioje dalyje nurodytus geležinkelių riedmenis Lietuvos Respublikos geležinkelių
-riedmenų registro nuostatų, kuriuos tvirtina Lietuvos Respublikos Vyriausybė,
-nustatyta tvarka. Eismo saugos institucija neprivalo tvarkyti šių duomenų, kai
-juos galima gauti iš geležinkelio įmonių (vežėjų), naudojančių šioje dalyje
-nurodytus geležinkelių riedmenis.
+2. Geležinkelių riedmenų naudotojai turi
+užtikrinti jų naudojamų geležinkelių riedmenų atitiktį esminiams reikalavimams.
+3. Visiems geležinkelių riedmenims, prieš
+pradedant juos naudoti geležinkelių tinkle, geležinkelių riedmenų naudotojas
+turi paskirti techninį prižiūrėtoją, kuris Lietuvos Respublikos geležinkelių
+riedmenų registre įregistruotas kaip atsakingas už atitinkamų geležinkelių
+riedmenų techninę priežiūrą. Techniniu prižiūrėtoju gali būti geležinkelių
+infrastruktūros valdytojas, geležinkelio įmonė (vežėjas) arba geležinkelių
+riedmenų naudotojas.
+4.
+Techninis prižiūrėtojas, taikydamas pagal šio straipsnio 5 dalies reikalavimus
+nustatytą geležinkelių riedmenų techninės priežiūros sistemą, parengia
+techninės priežiūros technologiją ir atlieka geležinkelių riedmenų techninę
+priežiūrą, užtikrindamas, kad ji būtų atliekama šio įstatymo nustatyta tvarka.
+Parengti techninės priežiūros technologiją ir atlikti geležinkelių riedmenų
+techninę priežiūrą gali ir kiti asmenys, sudarę sutartį su techniniu
+prižiūrėtoju. Visais atvejais techninis prižiūrėtojas atsako už šioje dalyje
+nurodytų veiklų atlikimą ir užtikrina saugų geležinkelių riedmenų naudojimą
+geležinkelių sistemoje.
+5. Techninis prižiūrėtojas, išskyrus šio
+straipsnio 9 dalyje nustatytą atvejį, nustato geležinkelių riedmenų techninės
+priežiūros sistemą, vadovaudamasis:
+1) geležinkelių riedmenų gamintojo
+pateiktomis geležinkelių riedmenų techninės priežiūros taisyklėmis ir (ar)
+instrukcijomis;
+2) geležinkelių infrastruktūros valdytojo
+pateiktomis geležinkelių riedmenų techninės priežiūros taisyklėmis ir (ar)
+instrukcijomis;
+3) geležinkelių posistemių techninėmis
+taisyklėmis ir TSS nuostatomis.
+6. Prekinių vagonų techninis prižiūrėtojas
+turi turėti techninio prižiūrėtojo sertifikatą. Šis reikalavimas netaikomas
+prekinių vagonų, kurie nenaudojami ar jų neketinama naudoti viešojoje
+geležinkelių infrastruktūroje, techniniams prižiūrėtojams.
+7.
+Lietuvos Respublikoje galioja bet kurioje Europos Sąjungos valstybėje narėje ar
+Europos ekonominės erdvės valstybės teritorijoje išduoti prekinių vagonų
+techninio prižiūrėtojo sertifikatai.
+8.
+Techninio prižiūrėtojo sertifikatus išduoda, jų galiojimą sustabdo, galiojimo
+sustabdymą ir galiojimą panaikina eismo saugos institucija, vadovaudamasi
+nepriklausomumo, kompetencijos, nešališkumo principais, šio straipsnio 9–14
+dalyse ir techninio prižiūrėtojo sertifikavimo taisyklėse, kurias tvirtina
+Lietuvos Respublikos susisiekimo ministras, nustatyta tvarka.
+9.
+Techninis prižiūrėtojas, pageidaujantis gauti techninio prižiūrėtojo
+sertifikatą, privalo nustatyti prekinių vagonų techninės priežiūros sistemą,
+kuri turi atitikti techninio prižiūrėtojo sertifikavimo taisyklėse nustatytus
+reikalavimus. Jeigu prekinių vagonų techninis prižiūrėtojas yra geležinkelių
+infrastruktūros valdytojas ar geležinkelio įmonė (vežėjas), prekinių vagonų
+atitiktį šioje straipsnio dalyje nustatytiems reikalavimams patikrina eismo saugos
+institucija, teisės aktų nustatyta tvarka geležinkelių infrastruktūros
+valdytojams išduodama įgaliojimus eismo saugos srityje ar geležinkelio įmonėms
+(vežėjams) – saugos sertifikatus.
+10.
+Sprendimas dėl techninio prižiūrėtojo sertifikato išdavimo ar motyvuotas
+atsisakymas jį išduoti turi būti pateiktas techniniam prižiūrėtojui,
+pageidaujančiam gauti techninio prižiūrėtojo sertifikatą, ne vėliau kaip per 4
+mėnesius nuo prašymo gavimo dienos. Nustačiusi, kad techninio prižiūrėtojo,
+pageidaujančio gauti techninio prižiūrėtojo sertifikatą, nustatyta techninės
+priežiūros sistema neatitinka techninio prižiūrėtojo sertifikavimo taisyklėse
+nustatytų reikalavimų, pateikti ne visi reikiami dokumentai, dokumentai
+netinkamai įforminti, dokumentuose yra klaidingų ir (ar) netikslių duomenų,
+eismo saugos institucija per 10 darbo dienų nuo prašymo išduoti techninio
+prižiūrėtojo sertifikatą ir pridedamų dokumentų gavimo dienos apie tai
+informuoja techninį prižiūrėtoją, pageidaujantį gauti techninio prižiūrėtojo
+sertifikatą, ir nustato 30 dienų terminą trūkumams pašalinti. Šioje dalyje
+nurodytas terminas techninio prižiūrėtojo sertifikatui išduoti skaičiuojamas
+nuo to momento, kai techninis prižiūrėtojas, pageidaujantis gauti techninio
+prižiūrėtojo sertifikatą, nustato techninio prižiūrėtojo sertifikavimo
+taisyklėse nustatytus reikalavimus atitinkančią prekinių vagonų priežiūros
+sistemą ir apie tai informuoja eismo saugos instituciją, pateikdamas tai
+patvirtinančius dokumentus. Jeigu asmuo, pageidaujantis gauti techninio prižiūrėtojo
+sertifikatą, per eismo saugos institucijos nustatytą laiką nepašalina jo
+nustatytos prekinių vagonų techninės priežiūros sistemos trūkumų ir (ar)
+neprideda reikalaujamų dokumentų, prašymas išduoti techninio prižiūrėtojo
+sertifikatą paliekamas nenagrinėtas ir apie tai per 3 darbo dienas nuo
+sprendimo nenagrinėti šio prašymo dienos informuojamas techninis prižiūrėtojas,
+pageidaujantis gauti techninio prižiūrėtojo sertifikatą.
+11.
+Eismo saugos institucija priima sprendimą neišduoti techninio prižiūrėtojo
+sertifikato, jeigu techninio prižiūrėtojo nustatyta prekinių vagonų techninės
+priežiūros sistema neatitinka techninio prižiūrėtojo sertifikavimo taisyklėse
+nustatytų reikalavimų.
+12.
+Eismo saugos institucija priima sprendimą sustabdyti techninio prižiūrėtojo
+sertifikato galiojimą, jeigu ji nustato, kad techninio prižiūrėtojo, turinčio
+techninio prižiūrėtojo sertifikatą, taikoma prekinių vagonų techninės
+priežiūros sistema nebeatitinka techninio prižiūrėtojo sertifikavimo taisyklėse
+nustatytų reikalavimų.
+13.
+Eismo saugos institucija priima sprendimą panaikinti techninio prižiūrėtojo
+sertifikato galiojimo sustabdymą, jeigu nustatyti neatitikimai per eismo saugos
+institucijos nustatytą laiką pašalinami.
+14.
+Eismo saugos institucija priima sprendimą techninio prižiūrėtojo sertifikato
+galiojimą panaikinti, kai:
+1)
+techninis prižiūrėtojas pateikia prašymą panaikinti techninio prižiūrėtojo
+sertifikato galiojimą;
+2)
+per eismo saugos institucijos nustatytą laiką nepašalinami neatitikimai, dėl
+kurių buvo sustabdytas techninio prižiūrėtojo sertifikato galiojimas;
+3)
+paaiškėja, kad techninio prižiūrėtojo sertifikatui gauti buvo pateikti
+klaidingi ir (ar) netikslūs duomenys ar suklastoti dokumentai;
+4)
+prekinių vagonų techninis prižiūrėtojas likviduojamas;
+5)
+miršta techninio prižiūrėtojo sertifikato turėtojas.
+15. Asmenys, atliekantys geležinkelių
+riedmenų techninę priežiūrą, turi būti atestuoti Lietuvos Respublikos
+susisiekimo ministro nustatyta tvarka. Šis reikalavimas netaikomas asmenims,
+atliekantiems prekinių vagonų techninę priežiūrą.
+16. Trečiųjų valstybių geležinkelių
+riedmenys Lietuvos Respublikos teritorijoje naudojami vadovaujantis šiuo
+įstatymu, tarptautinėmis sutartimis ir tarptautiniais susitarimais.
+17. Lietuvos Respublikoje leidžiama
+naudoti geležinkelių riedmenis, kurie pirmą kartą buvo pradėti naudoti
+trečiojoje valstybėje. Šie geležinkelių riedmenys įregistruojami Lietuvos
+Respublikos geležinkelių riedmenų registre, jeigu įstatymai ar kiti teisės
+aktai nenustato kitaip.
+18. Geležinkelių riedmenys, kurie pirmą
+kartą buvo pradėti naudoti Lietuvos Respublikoje ir kuriuos ketinama naudoti
+trečiosiose valstybėse, gali būti paženklinti pagal kitokią, negu nustatyta
+TSS, tvarką.
+Straipsnio pakeitimai:
+Nr. XI-1334,
+2011-04-19, Žin., 2011, Nr. 52-2509 (2011-05-03)
  
 13 straipsnis. Geležinkelių
 riedmenų skiriamieji ženklai
-1. Visi geležinkelių riedmenys turi būti paženklinti tam
-skirtoje vietoje nurodytu Europos geležinkelių riedmenų numeriu. Geležinkelių
+1. Visi geležinkelių riedmenys turi būti paženklinti
+tam skirtoje vietoje nurodytu Europos geležinkelių riedmenų numeriu. Geležinkelių
 riedmenų ženklinimo tvarką reglamentuoja atitinkamos TSS ir kiti teisės aktai.
 2. Geležinkelių transporto eismui leidžiama naudoti
 geležinkelių riedmenis, vykstančius iš trečiųjų valstybių arba į trečiąsias
@@ -720,9 +838,9 @@ būklės negalintis dirbti darbo, susijusio su geležinkelių transporto eismu, 
 darbo nušalinamas.
 5. Traukinio mašinistų sveikatos patikrinimo prieš
 jiems išvykstant į reisą tvarką nustato darbdavys.
-6. Geležinkelių infrastruktūros valdytojai, geležinkelio
-įmonės (vežėjai) užtikrina, kad jų darbuotojai, kurių darbas susijęs su
-geležinkelių transporto eismu, turėtų lygias galimybes kelti kvalifikaciją.
+6. Geležinkelių infrastruktūros valdytojai,
+geležinkelio įmonės (vežėjai) užtikrina, kad jų darbuotojai, kurių darbas susijęs
+su geležinkelių transporto eismu, turėtų lygias galimybes kelti kvalifikaciją.
 Geležinkelių infrastruktūros valdytojai, geležinkelio įmonės (vežėjai) atsako
 už darbuotojų, kurių darbas susijęs su geležinkelių transporto eismu, mokymų
 lygį ir kvalifikaciją.
@@ -732,13 +850,11 @@ eismo saugos institucijos nustatyta tvarka.
  
 15 straipsnis. Krovinių
 krovimui ir tvirtinimui keliami reikalavimai 
-*1. Krovinių krovimo ir tvirtinimo reikalavimus,
+1. Krovinių krovimo ir tvirtinimo reikalavimus,
 atestatų, suteikiančių teisę sudaryti krovinio krovimo į geležinkelių riedmenis
 ir tvirtinimo juose schemas, išdavimo asmenims tvarką nustato Krovinių krovimo
 ir tvirtinimo taisyklės, kurias tvirtina Lietuvos Respublikos susisiekimo
 ministras.
-*Pastaba.
-15 straipsnio 1 dalis įsigalioja nuo 2010 m. liepos 1 d. 
 2. Asmenų, atsakingų už krovinių krovimą ir tvirtinimą
 vagonuose (darbų vadovų), žinios tikrinamos ir pažymėjimai jiems išduodami
 eismo saugos institucijos nustatyta tvarka.
@@ -763,13 +879,13 @@ tvarka gavęs traukinio mašinisto pažymėjimą ir traukinio mašinisto sertifi
 2. Traukinio
 mašinisto pažymėjimai ir traukinio mašinisto sertifikatai privalo atitikti
 Lietuvos Respublikos susisiekimo ministro nustatytus reikalavimus.
-*3. Eismo saugos institucija privalo užtikrinti
+3. Eismo saugos institucija privalo užtikrinti
 nuolatinę su traukinio mašinisto mokymu, traukinio mašinisto pažymėjimų ir
 traukinio mašinisto sertifikatų išdavimu susijusios veiklos stebėseną,
 atliekamą vadovaujantis eismo saugos institucijos nustatyta kokybės valdymo
 sistema. Šios stebėsenos eismo valdymo institucija neatlieka, jeigu atlikti
 tokios veiklos stebėseną numatyta eismo saugos valdymo sistemose. 
-*Pastaba. 17 straipsnio 3 dalis
+Pastaba. 17 straipsnio 3 dalis
 įsigalioja 2013 m. rugsėjo 1 d.
  
 18 straipsnis.
@@ -797,11 +913,11 @@ mašinisto pažymėjimą išduoda eismo saugos institucija. Šis dokumentas prik
 jo turėtojui. Traukinio mašinisto pažymėjimų išdavimo, galiojimo sustabdymo,
 galiojimo sustabdymo panaikinimo ir galiojimo atšaukimo tvarką nustato Lietuvos
 Respublikos susisiekimo ministras.
-*5. Traukinio mašinisto pažymėjimas
+5. Traukinio mašinisto pažymėjimas
 galioja 10 metų, jeigu traukinio mašinistas atitinka šiame įstatyme ir kituose
 teisės aktuose nustatytus reikalavimus, keliamus jo sveikatos būklei ir
 profesinei kompetencijai. 
-*Pastaba.
+Pastaba.
 18 straipsnio 5 dalis įsigalioja 2011 m. rugsėjo 1 d.
  
 6. Lietuvos Respublikoje galioja bet
@@ -853,10 +969,10 @@ ministras.
 mašinisto pažymėjimas išduodamas, jeigu asmuo, pageidaujantis gauti traukinio
 mašinisto pažymėjimą, išlaiko egzaminą, atitinkantį eismo saugos institucijos
 nustatytus reikalavimus. 
-*4. Duomenys
-apie mokymo centrus kaupiami Traukinio mašinistų registre įstatymų ir kitų
-teisės aktų nustatyta tvarka.
-*Pastaba.
+4. Duomenys apie
+mokymo centrus kaupiami Traukinio mašinistų registre įstatymų ir kitų teisės
+aktų nustatyta tvarka.
+Pastaba.
 20 straipsnio 4 dalis įsigalioja 2011 m. rugsėjo 1 d.
  
 5. Asmenis,
@@ -915,45 +1031,53 @@ traukinio mašinistas privalo įsitikinti, ar geležinkelių riedmenys yra
 tvarkingi, ar juose yra visos privalomos priemonės, taip pat valdydamas
 važiuojančius geležinkelių riedmenis stebėti geležinkelių riedmenų techninę
 būklę.
-*4. Traukinio mašinistas privalo su savimi turėti ir
-kompetentingos institucijos pareigūno ar valstybės tarnautojo reikalavimu
-pateikti traukinio mašinisto pažymėjimą, traukinio mašinisto sertifikato
-kopiją, patvirtintą teisės aktų nustatyta tvarka, geležinkelių riedmenų
-registravimo, privalomosios techninės apžiūros ir kitus Lietuvos Respublikos
-įstatymų ir kitų teisės aktų nustatytus dokumentus.
-*Pastaba.
-22 straipsnio 4 dalis įsigalioja nuo 2010 m. liepos 1 d. 
- 
-5. Geležinkelio įmonė (vežėjas) turi teisę nuspręsti,
-kad traukinio mašinistas gali dirbti neturėdamas traukinio mašinisto
-sertifikato, suteikiančio teisę valdyti geležinkelių riedmenis tam tikrose
-geležinkelių linijose, jeigu geležinkelių riedmenis valdant kartu yra traukinio
-mašinistas, turintis tokį traukinio mašinisto sertifikatą, kai yra bent viena
-iš šių sąlygų:
-1) kai dėl geležinkelių infrastruktūros gedimų yra
-būtina nukreipti geležinkelių riedmenis kita linkme ar atlikti geležinkelio
-kelio priežiūros darbus, jeigu to reikalauja geležinkelių infrastruktūros
-valdytojas;
-2) vykdant vežimus, kuriems naudojami istorinę reikšmę
-turintys traukiniai;
-3) pristatant naujus geležinkelių riedmenis;
-4) mokant traukinio mašinistus ar tikrinant jų
-praktines žinias.
+4. Traukinio mašinistas privalo su savimi turėti ir
+kompetentingos institucijos pareigūno ar valstybės tarnautojo reikalavimu pateikti
+traukinio mašinisto pažymėjimą, traukinio mašinisto sertifikato kopiją,
+patvirtintą teisės aktų nustatyta tvarka, geležinkelių riedmenų registravimo,
+privalomosios techninės apžiūros ir kitus Lietuvos Respublikos įstatymų ir kitų
+teisės aktų nustatytus dokumentus.
+5. Geležinkelio įmonė (vežėjas) turi teisę
+nuspręsti, kad traukinio mašinistas gali dirbti neturėdamas traukinio mašinisto
+sertifikato, suteikiančio teisę valdyti geležinkelių riedmenis tam tikroje
+geležinkelių infrastruktūroje, jeigu valdant geležinkelių riedmenis kartu yra
+traukinio mašinistas, turintis traukinio mašinisto sertifikatą, kai yra bent
+viena iš šių sąlygų:
+1) kai dėl geležinkelių infrastruktūros
+gedimų yra būtina nukreipti geležinkelių riedmenis kita linkme ar atlikti
+geležinkelio kelio priežiūros darbus, jeigu to reikalauja geležinkelių
+infrastruktūros valdytojas;
+2) vykdant vežimus, kuriems naudojami
+istorinę reikšmę turintys traukiniai;
+3) pristatant naujus geležinkelių
+riedmenis;
+4) mokant traukinio mašinistus ar
+tikrinant jų praktines žinias;
+5) geležinkelių infrastruktūros valdytojo
+sutikimu, kai teikiamos išskirtinės ar vienkartinės krovinių vežimo
+geležinkelių transportu paslaugos.
+6. Tuo atveju, kai geležinkelio įmonė
+(vežėjas) priima šio straipsnio 5 dalies 1–4 punktuose nurodytą sprendimą, apie
+tai ne vėliau kaip per 3 kalendorines dienas iki sprendimo įgyvendinimo ji
+privalo pranešti geležinkelių infrastruktūros valdytojui.
+Straipsnio pakeitimai:
+Nr. XI-1334,
+2011-04-19, Žin., 2011, Nr. 52-2509 (2011-05-03)
  
 23 straipsnis. Traukinio
 mašinistų darbo stebėsena
 1. Geležinkelių infrastruktūros valdytojai,
 geležinkelio įmonės (vežėjai) turi užtikrinti, kad:
 1) traukinio mašinistų, su kuriais jie yra sudarę
-darbo sutartis, traukinio mašinisto pažymėjimai ir traukinio mašinisto sertifikatai
-būtų galiojantys;
+darbo sutartis, traukinio mašinisto pažymėjimai ir traukinio mašinisto
+sertifikatai būtų galiojantys;
 2) būtų sukurta traukinio mašinistų darbo stebėjimo
 sistema, kuri turi būti geležinkelių infrastruktūros valdytojo,
 geležinkelio įmonės (vežėjo) eismo
 saugos valdymo sistemos dalis;
-3) valdant geležinkelių riedmenis, traukinio mašinistui
-būtų sudarytos tokios darbo sąlygos, kurios netrukdytų jam susikaupti, būti
-atidžiam ir nedarytų įtakos jo elgesiui. 
+3) valdant geležinkelių riedmenis, traukinio
+mašinistui būtų sudarytos tokios darbo sąlygos, kurios netrukdytų jam
+susikaupti, būti atidžiam ir nedarytų įtakos jo elgesiui. 
 2. Jeigu atliekant traukinio mašinistų darbo stebėseną
 pagal traukinio mašinistų darbo stebėsenos sistemą kyla abejonių dėl traukinio
 mašinisto kompetencijos valdyti geležinkelių riedmenis, geležinkelių
@@ -981,10 +1105,10 @@ mašinistų periodiniai patikrinimai ir jų kontrolė
 1. Eismo saugos institucija turi teisę bet kuriuo metu
 patikrinti, ar traukinio mašinistas darbo metu turi su savimi šio įstatymo 22
 straipsnio 4 dalyje nurodytus dokumentus.
-2. Atlikdama šio straipsnio 1 dalyje nurodytą patikrinimą
-ir nustačiusi aplaidumą darbe, eismo saugos institucija turi teisę patikrinti,
-ar traukinio mašinistas atitinka jam keliamus profesinės kompetencijos
-reikalavimus.
+2. Atlikdama šio straipsnio 1 dalyje nurodytą
+patikrinimą ir nustačiusi aplaidumą darbe, eismo saugos institucija turi teisę
+patikrinti, ar traukinio mašinistas atitinka jam keliamus profesinės
+kompetencijos reikalavimus.
 3. Eismo saugos institucija turi teisę atlikti
 patikrinimus, siekdama nustatyti, ar traukinio mašinistai, geležinkelių
 infrastruktūros valdytojai, geležinkelio įmonės (vežėjai) laikosi šio įstatymo
@@ -1001,8 +1125,8 @@ mašinistą ir jo darbdavį;
 traukinio mašinisto pažymėjimą išdavė kitos Europos Sąjungos valstybės narės
 kompetentinga institucija, eismo saugos institucija kreipiasi į tą instituciją
 su prašymu atlikti išsamesnį tyrimą arba sustabdyti traukinio mašinisto
-pažymėjimo galiojimą. Eismo saugos institucija, gavusi iš kitos Europos
-Sąjungos valstybės narės kompetentingos institucijos prašymą atlikti išsamesnį tyrimą
+pažymėjimo galiojimą. Eismo saugos institucija, gavusi iš kitos Europos Sąjungos
+valstybės narės kompetentingos institucijos prašymą atlikti išsamesnį tyrimą
 arba sustabdyti traukinio mašinisto pažymėjimo galiojimą, apie tai nedelsdama
 informuoja Europos Komisiją ir kitas suinteresuotas kompetentingas
 institucijas, išnagrinėja prašymą per keturias savaites nuo prašymo gavimo
@@ -1014,7 +1138,7 @@ kompetentingos institucijos, į kurią buvo kreiptasi su prašymu, atsakymas; tu
 atveju, kai eismo saugos institucija mano, kad kitos Europos Sąjungos valstybės
 narės kompetentingos institucijos sprendimas yra nepagrįstas, šis klausimas
 perduodamas svarstyti Europos Komisijai;
-*3) jeigu tai susiję su traukinio mašinisto
+3) jeigu tai susiję su traukinio mašinisto
 sertifikatu, eismo saugos institucija kreipiasi į šį dokumentą išdavusį asmenį
 su prašymu atlikti išsamesnį tyrimą arba sustabdyti traukinio mašinisto
 sertifikato galiojimą. Prašymą gavęs asmuo privalo nedelsdamas imtis priemonių,
@@ -1023,25 +1147,24 @@ sprendimą informuoti eismo saugos instituciją. Eismo saugos institucija turi
 teisę neleisti traukinio mašinistui dirbti tol, kol bus gautas atsakymas, ir
 turi apie tai informuoti Europos Komisiją ir kitas susijusias kompetentingas
 institucijas.
-*Pastaba.
+Pastaba.
 24 straipsnio 4 dalies 2 ir 3 punktai įsigalioja 2011 m. rugsėjo 1 d.
  
-*5. Jeigu eismo saugos institucija nustato, kad
+5. Jeigu eismo saugos institucija nustato, kad
 traukinio mašinisto veiksmai, neveikimas ar sveikatos būklė kelia pagrįstą
 grėsmę eismo saugai, ji nedelsdama imasi reikiamų priemonių (reikalauja, kad
 geležinkelių infrastruktūros valdytojas sustabdytų traukinį ir nušalina
 traukinio mašinistą nuo geležinkelių riedmenų valdymo) ir apie tokį savo
 sprendimą informuoja Europos Komisiją ir kitas susijusias kompetentingas
 institucijas.
-*6. Visais šiame straipsnyje nustatytais atvejais
-eismo saugos institucija privalo pakeisti ir (ar) papildyti Traukinio mašinistų
+6. Visais šiame straipsnyje nustatytais atvejais eismo
+saugos institucija privalo pakeisti ir (ar) papildyti Traukinio mašinistų
 registro duomenis.
-*Pastaba.
+Pastaba.
 24 straipsnio 5 ir 6 dalys įsigalioja 2011 m. rugsėjo 1 d.
  
-*25
-straipsnis. Traukinio mašinistų registras ir traukinio mašinisto sertifikatų
-sąrašai
+25 straipsnis.
+Traukinio mašinistų registras ir traukinio mašinisto sertifikatų sąrašai
 1. Duomenys apie traukinio mašinistus ir
 traukinio mašinisto pažymėjimus tvarkomi Traukinio mašinistų registre įstatymų,
 Traukinio mašinistų registro nuostatų, kuriuos tvirtina Lietuvos Respublikos
@@ -1068,8 +1191,8 @@ valdytojai, geležinkelio įmonės (vežėjai) ar įmonės, vežančios kroviniu
 savo geležinkelių riedmenimis ir sąskaita, privalo:
 1) kaupti duomenis apie traukinio
 mašinistus, kuriems jie yra išdavę traukinio mašinistų sertifikatus, sudaryti
-traukinio mašinisto sertifikatų sąrašą ir užtikrinti šio sąrašo duomenų nuolatinį
-atnaujinimą;
+traukinio mašinisto sertifikatų sąrašą ir užtikrinti šio sąrašo duomenų
+nuolatinį atnaujinimą;
 2) bendradarbiauti su eismo saugos
 institucija, keistis su ja informacija apie traukinio mašinistus ir leisti jai
 susipažinti su reikiamais duomenimis;
@@ -1077,17 +1200,17 @@ susipažinti su reikiamais duomenimis;
 mašinisto sertifikatuose nurodytus duomenis kitų Europos Sąjungos valstybių
 narių kompetentingoms institucijoms, kai jos tokios informacijos prašo ir kai
 tai reikalinga jų vykdomai tarptautinei veiklai.
-6. Traukinio mašinistui turi būti
-suteikta galimybė susipažinti su apie jį kaupiamais duomenimis, tvarkomais
-Traukinio mašinistų registre ir sudaromuose traukinio mašinistų sertifikatų
-sąrašuose. Traukinio mašinistui pareikalavus, turi būti pateiktas išrašas iš
-Traukinio mašinistų registro arba traukinio mašinistų sertifikatų sąrašo su
-apie jį kaupiamais duomenimis.
+6. Traukinio mašinistui turi būti suteikta
+galimybė susipažinti su apie jį kaupiamais duomenimis, tvarkomais Traukinio
+mašinistų registre ir sudaromuose traukinio mašinistų sertifikatų sąrašuose.
+Traukinio mašinistui pareikalavus, turi būti pateiktas išrašas iš Traukinio
+mašinistų registro arba traukinio mašinistų sertifikatų sąrašo su apie jį
+kaupiamais duomenimis.
 7. Eismo saugos institucija
 bendradarbiauja su Agentūra, siekdama užtikrinti Traukinio mašinistų registro
 ir traukinio mašinistų sertifikatų sąrašų duomenų
 suderinamumą.
-*Pastaba.
+Pastaba.
 25 straipsnis įsigalioja 2011 m. rugsėjo 1 d.
  
 V SKYRIUS
@@ -1120,10 +1243,10 @@ atlikimą.
 katastrofų ir riktų tyrimo tvarką, eismo įvykių, katastrofų ir riktų apskaitą,
 eismo įvykių, katastrofų ir riktų ataskaitų rengimo tvarką, geležinkelių
 infrastruktūros valdytojų, geležinkelio įmonių (vežėjų) katastrofų tyrimų
-vadovo ir eismo saugos institucijos pareigas ir teises reglamentuoja Lietuvos
-Respublikos susisiekimo ministro patvirtinti Geležinkelių transporto eismo
-įvykių, katastrofų ir riktų tyrimo ir jų padarinių likvidavimo nuostatai ir
-kiti teisės aktai.
+vadovo ir eismo saugos institucijos pareigas ir teises reglamentuoja Lietuvos Respublikos
+susisiekimo ministro patvirtinti Geležinkelių transporto eismo įvykių,
+katastrofų ir riktų tyrimo ir jų padarinių likvidavimo nuostatai ir kiti teisės
+aktai.
 4. Eismo įvykių,
 katastrofų ir riktų, įvykusių Lietuvos Respublikos teritorijoje dėl kitose
 valstybėse įregistruotų geležinkelio įmonių (vežėjų) kaltės ar kitų valstybių
@@ -1172,6 +1295,19 @@ teritorijoje, sertifikavimo (OL 2007 L 315, p. 51).
 birželio 17 d. Europos Parlamento ir Tarybos direktyva 2008/57/EB dėl
 geležinkelių sistemos sąveikos Bendrijoje (nauja redakcija) (OL 2008 L 191,
 p. 1).
+4. 2007 m.
+lapkričio 9 d. Komisijos sprendimas 2007/756/EB, kuriuo priimama bendra
+nacionalinio geležinkelių riedmenų registro specifikacija, kaip numatyta
+Direktyvų 96/48/EB ir 2001/16/EB 14 straipsnio 4 ir 5 dalyse (OL 2007 L 305, p.
+30).
+5. 2009 m.
+balandžio 24 d. Komisijos reglamentas (EB) Nr. 352/2009 dėl bendrojo saugos
+būdo, susijusio su Europos Parlamento ir Tarybos direktyvos 2004/49/EB 6
+straipsnio 3 dalies a punkte nurodyta pavojaus analize ir įvertinimu (OL 2009 L
+108, p. 4).
+Priedo pakeitimai:
+Nr. XI-1334,
+2011-04-19, Žin., 2011, Nr. 52-2509 (2011-05-03)
  
 _________________
  
@@ -1211,10 +1347,21 @@ eismo saugos įstatymo 5 straipsnio 3 dalies 4 punktas, 17 straipsnio 3 dalis į
 Nauja įstatymo redakcija
 Šio įstatymo atitaisymas skelbtas: Žin., 2010, Nr. 15 (2010-02-04)
  
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-1334,
+2011-04-19, Žin., 2011, Nr. 52-2509 (2011-05-03)
+GELEŽINKELIŲ
+TRANSPORTO EISMO SAUGOS ĮSTATYMO 2, 5, 6, 9, 12, 22 STRAIPSNIŲ IR ĮSTATYMO
+PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis
+įstatymas, išskyrus 8 straipsnį, įsigalioja 2011 m. gegužės 1 d.
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2010-02-01)
+(2011-05-04)
                  
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
