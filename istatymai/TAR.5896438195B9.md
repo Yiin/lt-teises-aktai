@@ -21,6 +21,10 @@ PAKEITIMO ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2011-05-03
+ 
+Įstatymas paskelbtas: Žin. 2010, Nr. 12-557; Žin. 2010, Nr.15-0, i. k. 1101010ISTA00XI-642
+ 
 LIETUVOS RESPUBLIKOS GELEŽINKELIŲ TRANSPORTO EISMO SAUGOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
  
 2010 m. sausio 14 d. Nr. XI-642
@@ -1289,12 +1293,18 @@ TEISĖS VALDYTI GELEŽINKELIŲ RIEDMENIS SUTEIKIMAS,
 
 
 
-2) jeigu tai susiję su traukinio mašinistu, kuriam traukinio mašinisto pažymėjimą išdavė kitos Europos Sąjungos valstybės narės kompetentinga institucija, eismo saugos institucija kreipiasi į tą instituciją su prašymu atlikti išsamesnį tyrimą arba sustabdyti traukinio mašinisto pažymėjimo galiojimą. Eismo saugos institucija, gavusi iš kitos Europos Sąjungos valstybės narės kompetentingos institucijos prašymą atlikti išsamesnį tyrimą arba sustabdyti traukinio mašinisto pažymėjimo galiojimą, apie tai nedelsdama informuoja Europos Komisiją ir kitas suinteresuotas kompetentingas institucijas, išnagrinėja prašymą per keturias savaites nuo prašymo gavimo dienos ir apie savo sprendimą informuoja prašymą pateikusią kompetentingą instituciją, Europos Komisiją ir kitas suinteresuotas Europos Sąjungos valstybių narių kompetentingas institucijas. Eismo saugos institucija turi teisę neleisti traukinio mašinistui dirbti tol, kol bus gautas susijusios kompetentingos institucijos, į kurią buvo kreiptasi su prašymu, atsakymas; tuo atveju, kai eismo saugos institucija mano, kad kitos Europos Sąjungos valstybės narės kompetentingos institucijos sprendimas yra nepagrįstas, šis klausimas perduodamas svarstyti Europos Komisijai;
+2) jeigu tai susiję su traukinio mašinistu, kuriam traukinio mašinisto pažymėjimą išdavė kitos Europos Sąjungos valstybės narės kompetentinga institucija, eismo saugos institucija kreipiasi į tą instituciją su prašymu atlikti išsamesnį tyrimą arba sustabdyti traukinio mašinisto pažymėjimo galiojimą. Eismo saugos institucija apie savo prašymą atlikti išsamesnį tyrimą arba sustabdyti traukinio mašinisto pažymėjimo galiojimą nedelsdama informuoja Europos Komisiją ir kitas Europos Sąjungos valstybių narių suinteresuotas kompetentingas institucijas. Tuo atveju, kai prašymą atlikti išsamesnį tyrimą arba sustabdyti traukinio mašinisto pažymėjimo galiojimą iš kitos Europos Sąjungos valstybės narės kompetentingos institucijos gauna eismo saugos institucija, šį prašymą ji išnagrinėja per keturias savaites nuo prašymo gavimo dienos ir apie savo sprendimą informuoja prašymą pateikusią kompetentingą instituciją, Europos Komisiją ir kitas suinteresuotas Europos Sąjungos valstybių narių kompetentingas institucijas. Eismo saugos institucija turi teisę neleisti traukinio mašinistui dirbti tol, kol bus gautas susijusios kompetentingos institucijos, į kurią buvo kreiptasi su prašymu, atsakymas; tuo atveju, kai eismo saugos institucija mano, kad kitos Europos Sąjungos valstybės narės kompetentingos institucijos sprendimas yra nepagrįstas, šis klausimas perduodamas svarstyti Europos Komisijai
+Straipsnio punkto pakeitimai:
+Nr. XI-1333, 2011-04-19, Žin., 2011, Nr. 52-2508 (2011-05-03), i. k. 1111010ISTA0XI-1333
+ 
 
 
 
 
-3) jeigu tai susiję su traukinio mašinisto sertifikatu, eismo saugos institucija kreipiasi į šį dokumentą išdavusį asmenį su prašymu atlikti išsamesnį tyrimą arba sustabdyti traukinio mašinisto sertifikato galiojimą. Prašymą gavęs asmuo privalo nedelsdamas imtis priemonių, per keturias savaites nuo prašymo gavimo dienos jį išnagrinėti ir apie savo sprendimą informuoti eismo saugos instituciją. Eismo saugos institucija turi teisę neleisti traukinio mašinistui dirbti tol, kol bus gautas atsakymas, ir turi apie tai informuoti Europos Komisiją ir kitas susijusias kompetentingas institucijas.
+3) jeigu tai susiję su traukinio mašinisto sertifikatu, eismo saugos institucija kreipiasi į šį dokumentą išdavusį asmenį su prašymu atlikti išsamesnį tyrimą arba sustabdyti traukinio mašinisto sertifikato galiojimą. Prašymą gavęs Lietuvos Respublikoje įregistruotas asmuo privalo nedelsdamas imtis priemonių, per keturias savaites nuo prašymo gavimo dienos jį išnagrinėti ir apie savo sprendimą informuoti eismo saugos instituciją. Eismo saugos institucija turi teisę neleisti traukinio mašinistui dirbti tol, kol bus gautas atsakymas, ir turi apie tai informuoti Europos Komisiją ir kitas susijusias kompetentingas institucijas.
+Straipsnio punkto pakeitimai:
+Nr. XI-1333, 2011-04-19, Žin., 2011, Nr. 52-2508 (2011-05-03), i. k. 1111010ISTA0XI-1333
+ 
 
 
 
@@ -1322,7 +1332,10 @@ TEISĖS VALDYTI GELEŽINKELIŲ RIEDMENIS SUTEIKIMAS,
 
 
 
-2. Traukinio mašinistų registrą steigia Lietuvos Respublikos susisiekimo ministerija, kuri yra ir vadovaujančioji šio registro įstaiga. Traukinio mašinistų registro tvarkymo įstaigos funkcijas atlieka eismo saugos institucija.
+2. Traukinio mašinistų registrą steigia Lietuvos Respublikos susisiekimo ministerija. Vadovaujančioji šio registro tvarkymo įstaiga yra Susisiekimo ministerija arba jos įgaliota institucija, Traukinio mašinistų registro tvarkymo įstaiga – eismo saugos institucija.
+Straipsnio dalies pakeitimai:
+Nr. XI-1333, 2011-04-19, Žin., 2011, Nr. 52-2508 (2011-05-03), i. k. 1111010ISTA0XI-1333
+ 
 
 
 
@@ -1493,3 +1506,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1333, 2011-04-19, Žin., 2011, Nr. 52-2508 (2011-05-03), i. k. 1111010ISTA0XI-1333
+Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo pakeitimo įstatymo 1 straipsnio pakeitimo įstatymas
