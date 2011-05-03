@@ -20,8 +20,12 @@ LIETUVOS RESPUBLIKOS MOKĖJIMO ĮSTAIGŲ ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2011-05-03 iki 2013-12-31
+ 
+Įstatymas paskelbtas: Žin. 2009, Nr. 153-6887, i. k. 1091010ISTA00XI-549
+ 
 LIETUVOS RESPUBLIKOS 
-MOKĖJIMO ĮSTAIGŲ
+MOKĖJIMO ĮSTAIGŲ 
 ĮSTATYMAS
  
 2009 m. gruodžio 10 d. Nr. XI-549
@@ -775,7 +779,7 @@ MOKĖJIMO ĮSTAIGOS NUOSAVO KAPITALO IR APSAUGOS REIKALAVIMAI
 1. Mokėjimo įstaigos minimalų nuosavą kapitalą sudaro:
 
 
-1) įstatinis kapitalas (sumažintas supirktų savų akcijų verte) be privilegijuotųjų akcijų su kaupiamuoju dividendu vertės;
+1) įstatinis kapitalas (sumažintas supirktų savų akcijų verte) be privilegijuotųjų akcijų vertės;
 
 
 
@@ -785,12 +789,12 @@ MOKĖJIMO ĮSTAIGOS NUOSAVO KAPITALO IR APSAUGOS REIKALAVIMAI
 
 
 
-3) kapitalo rezervas (emisinis skirtumas);
+3) kapitalo rezervas (emisinis skirtumas) be su privilegijuotųjų akcijų išleidimu susijusios sumos;
 
 
 
 
-4) nepaskirstytasis pelnas arba nuostoliai;
+4) nepaskirstytasis pelnas (atėmus einamųjų metų tarpinio nepaskirstytojo pelno arba paskutinių praėjusių metų nepaskirstytojo pelno, dėl kurio dar nepriimtas eilinio visuotinio akcininkų susirinkimo sprendimas, sumą, jei audito įmonė nėra atlikusi atitinkamo laikotarpio finansinių ataskaitų rinkinių audito ir priežiūros institucijai nepateikti duomenys, įrodantys, kad pelno suma yra teisinga ir iš jos atimti visi numatomi mokesčiai ar dividendai) arba nuostoliai;
 
 
 
@@ -803,6 +807,9 @@ MOKĖJIMO ĮSTAIGOS NUOSAVO KAPITALO IR APSAUGOS REIKALAVIMAI
 6) kiti rezervai.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XI-1341, 2011-04-21, Žin., 2011, Nr. 52-2516 (2011-05-03), i. k. 1111010ISTA0XI-1341
+ 
 
 
 
@@ -1784,3 +1791,14 @@ priedas
 ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS AKTAS
  
 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos direktyva 2007/64/EB dėl mokėjimo paslaugų vidaus rinkoje, iš dalies keičianti direktyvas 97/7/EB, 2002/65/EB, 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 97/5/EB (OL 2007 L 319, p. 1).
+ 
+ 
+ 
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1341, 2011-04-21, Žin., 2011, Nr. 52-2516 (2011-05-03), i. k. 1111010ISTA0XI-1341
+Lietuvos Respublikos mokėjimo įstaigų įstatymo 13 straipsnio pakeitimo įstatymas
