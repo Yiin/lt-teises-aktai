@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D22016A0EC70"
 
 # Lietuvos Respublikos žuvininkystės įstatymas
 
-Suvestinė redakcija nuo 2010-11-27 iki 2011-05-02
+Suvestinė redakcija nuo 2011-05-03 iki 2011-06-03
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 56-1648, i. k. 1001010ISTAIII-1756
  
@@ -1094,7 +1094,9 @@ KETVIRTASIS SKIRSNIS
 
 
 
-2. Lietuvos Respublikos žvejybos laivo įgulą (įskaitant laivo kapitoną ir laivo kapitono vyriausiąjį padėjėją) turi sudaryti ne mažiau kaip du trečdaliai Europos Sąjungos valstybių piliečių ar nuolatinių Lietuvos Respublikos gyventojų. Laivo kapitono ir laivo kapitono vyriausiojo padėjėjo pareigas gali eiti tik Lietuvos Respublikos piliečiai.
+2. Lietuvos Respublikos žvejybos laivo įgula sudaroma Lietuvos Respublikos prekybinės laivybos įstatyme nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XI-1351, 2011-04-21, Žin., 2011, Nr. 52-2525 (2011-05-03), i. k. 1111010ISTA0XI-1351
  
 
 
@@ -2327,3 +2329,8 @@ Lietuvos Respublikos žuvininkystės įstatymo 2, 26 straipsnių pakeitimo ir į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr. 142-0 (2010-12-04), i. k. 1101010ISTA0XI-1141
 Lietuvos Respublikos žuvininkystės įstatymo 2, 3, 4, 10, 12, 14, 18, 22, 23, 24, 26, 26-1, 26-2, 26-3, 26-5, 26-11, 26-14, 26-15, 26-17, 26-18, 26-19, 27, 29 straipsnių pakeitimo ir papildymo, Įstatymo papildymo 22-1 straipsniu ir Įstatymo priedo pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1351, 2011-04-21, Žin., 2011, Nr. 52-2525 (2011-05-03), i. k. 1111010ISTA0XI-1351
+Lietuvos Respublikos žuvininkystės įstatymo 17 straipsnio pakeitimo įstatymas
