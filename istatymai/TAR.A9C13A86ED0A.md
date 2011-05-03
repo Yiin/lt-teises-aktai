@@ -672,22 +672,25 @@ labui programą arba kartu su NATO, Europos Sąjungos ar Vakarų Europos Sąjung
 valstybėmis rengiamose pratybose. Ši sąlyga netaikoma Lietuvos kariams ir
 civiliams krašto apsaugos sistemos tarnautojams, kuriuos pratybas rengianti
 šalis yra pakvietusi stebėtojais.
-*5. NVS šalių
+5. NVS šalių
 kariniai vienetai, kariai ir karinėms pajėgoms priskirti civiliai tarnautojai
 gali dalyvauti Lietuvos Respublikos teritorijoje organizuojamuose kituose
-renginiuose, jeigu vienu metu bendras NVS valstybių karių ir karinėms pajėgoms
-priskirtų civilių tarnautojų skaičius yra mažesnis negu Lietuvos kariuomenės
-dalinio (bent dviejų kuopų) karių ir civilių krašto apsaugos sistemos
-tarnautojų skaičius. NVS šalių kariniai vienetai gali atvykti į Lietuvos
-Respublikoje organizuojamus kitus renginius ne daugiau kaip dviem savaitėms.
-*Pastaba. Pripažinti, kad
-Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio
-bendradarbiavimo renginių įstatymo (2002 m. sausio 15 d. redakcija; Žin., 2002,
-Nr. 13-465) 14 straipsnio 5 dalis prieštarauja Lietuvos Respublikos
-konstitucinio akto „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų
-sąjungas“ 3 straipsniui.
+renginiuose, kurie organizuojami plėtojant Lietuvos Respublikos tarptautinį karinį
+bendradarbiavimą Lietuvos valstybės ir kitų kolektyvinės gynybos sutarties
+šalių bei tarptautinio ar regioninio saugumo užtikrinimo tikslais ir yra
+valdomi bei kontroliuojami Lietuvos Respublikos. Bendras NVS valstybių karių ir
+karinėms pajėgoms priskirtų civilių tarnautojų, vienu metu dalyvaujančių
+kituose renginiuose Lietuvos Respublikoje, skaičius turi būti mažesnis, negu
+Lietuvos kariuomenės dalinio (bent dviejų kuopų) karių ir civilių krašto
+apsaugos sistemos tarnautojų skaičius. NVS šalių kariniai vienetai gali atvykti
+į Lietuvos Respublikoje organizuojamus kitus renginius ir būti Lietuvos
+Respublikos teritorijoje tik to renginio metu.
+Straipsnio
+pakeitimai:
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2011-03-15, Žin., 2011, Nr. 32-1503 (2011-03-17)
+Nr. XI-1331,
+2011-04-19, Žin., 2011, Nr. 52-2506 (2011-05-03)
  
 V SKYRIUS
 BAIGIAMOSIOS
@@ -736,7 +739,9 @@ LIETUVOS
 RESPUBLIKOS ĮSTATYMO “DĖL LIETUVOS KARIUOMENĖS PADALINIŲ DALYVAVIMO
 TARPTAUTINĖSE OPERACIJOSE” PAKEITIMO ĮSTATYMAS
 Nauja
-įstatymo redakcija (keistas įstatymo pavadinimas)
+įstatymo redakcija
+Keistas
+įstatymo pavadinimas
  
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -758,14 +763,15 @@ TARPTAUTINIŲ
 OPERACIJŲ, KARINIŲ PRATYBŲ IR KITŲ RENGINIŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja
 įstatymo redakcija
-(keistas įstatymo pavadinimas)
+Keistas
+įstatymo pavadinimas
  
 5.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1994, 2004-01-29,
-Žin., 2004, Nr. 25-762 (2004-02-14)
+IX-1994,
+2004-01-29, Žin., 2004, Nr. 25-762 (2004-02-14)
 TARPTAUTINIŲ
 OPERACIJŲ, PRATYBŲ IR KITŲ KARINIO BENDRADARBIAVIMO RENGINIŲ ĮSTATYMO 4
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
@@ -794,6 +800,16 @@ IR KITŲ KARINIO BENDRADARBIAVIMO RENGINIŲ ĮSTATYMO 4 STRAIPSNIO PAPILDYMO
 Įstatymas
 įsigalioja 2009 m. liepos 1 d.
  
+8.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-1331,
+2011-04-19, Žin., 2011, Nr. 52-2506 (2011-05-03)
+TARPTAUTINIŲ OPERACIJŲ, PRATYBŲ
+IR KITŲ KARINIO BENDRADARBIAVIMO RENGINIŲ ĮSTATYMO 14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+ 
 ***
 Pabaiga ***
  
@@ -807,15 +823,17 @@ Respublikos Konstitucinis Teismas, Nutarimas
 Žin., 2011, Nr. 32-1503 (2011-03-17)
 DĖL LIETUVOS RESPUBLIKOS
 TARPTAUTINIŲ OPERACIJŲ, PRATYBŲ IR KITŲ KARINIO BENDRADARBIAVIMO RENGINIŲ
-ĮSTATYMO (2002 M. SAUSIO 15 D. REDAKCIJA) 5 STRAIPSNIO 1, 2, 3, 4 DALIŲ, 6 STRAIPSNIO
-2, 3, 4 DALIŲ, 10 STRAIPSNIO (2005 M. GEGUŽĖS 12 D. REDAKCIJA) 1, 2, 3 DALIŲ,
-14 STRAIPSNIO 2, 3, 5 DALIŲ ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+ĮSTATYMO (2002 M. SAUSIO 15 D. REDAKCIJA) 5 STRAIPSNIO 1, 2, 3, 4 DALIŲ, 6
+STRAIPSNIO 2, 3, 4 DALIŲ, 10 STRAIPSNIO (2005 M. GEGUŽĖS 12 D. REDAKCIJA) 1, 2,
+3 DALIŲ, 14 STRAIPSNIO 2, 3, 5 DALIŲ ATITIKTIES LIETUVOS RESPUBLIKOS
+KONSTITUCIJAI
+ 
  
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2011-03-21)
+Aušrinė Trapinskienė (2011-05-04)
                  
 ausrine.trapinskiene@lrs.lt
