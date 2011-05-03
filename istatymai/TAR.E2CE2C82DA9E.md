@@ -368,9 +368,9 @@ nurodytais bendraisiais apskaitos principais ir pinigų principu.
 4
 straipsnis. Subjekto principas
 1. Kiekvienas
-viešojo sektoriaus subjektas, sudarantis finansinių ataskaitų ir biudžeto
-vykdymo ataskaitų rinkinius (toliau – ataskaitų rinkiniai arba ataskaitos),
-laikomas atskiru apskaitos vienetu. 
+viešojo sektoriaus subjektas, sudarantis finansinių ataskaitų ir (arba)
+biudžeto vykdymo ataskaitų rinkinius (toliau – ataskaitų rinkiniai arba
+ataskaitos), laikomas atskiru apskaitos vienetu.
 2. Apskaitoje
 registruojamas tik to viešojo sektoriaus subjekto nuosavas ir patikėjimo teise
 valdomas, naudojamas ir disponuojamas valstybės ar savivaldybės turtas,
@@ -390,6 +390,8 @@ perduotas funkcijas.
 Straipsnio pakeitimas:
 Nr. X-1821,
 2008-11-14, Žin., 2008, Nr. 137-5370 (2008-11-29)
+Nr. XI-1343,
+2011-04-21, Žin., 2011, Nr. 52-2518 (2011-05-03)
  
 5
 straipsnis. Veiklos tęstinumo principas
@@ -546,9 +548,9 @@ paskutinės dienos duomenis.
 2. Finansinės
 ataskaitos sudaromos vadovaujantis šiuo įstatymu ir Viešojo sektoriaus
 apskaitos ir finansinės atskaitomybės standartais.
-3. Biudžeto vykdymo
-ataskaitos sudaromos vadovaujantis Biudžeto sandaros įstatymu, Valstybės iždo
-įstatymu, šiuo įstatymu ir kitais teisės aktais. 
+3. Biudžeto
+vykdymo ataskaitos sudaromos vadovaujantis Biudžeto sandaros įstatymu,
+Valstybės iždo įstatymu, šiuo įstatymu ir kitais teisės aktais. 
 4. Valstybinio
 socialinio draudimo fondo bei šio fondo administravimo įstaigų biudžeto vykdymo
 ataskaitos ir Privalomojo sveikatos draudimo fondo bei šio fondo administravimo
@@ -580,16 +582,16 @@ sumomis.
 11. Ataskaitos
 pasirašomos šio įstatymo 31 straipsnyje nustatyta tvarka. 
 Straipsnio pakeitimai:
-Nr. X-1821, 2008-11-14,
-Žin., 2008, Nr. 137-5370 (2008-11-29)
+Nr. X-1821,
+2008-11-14, Žin., 2008, Nr. 137-5370 (2008-11-29)
 Nr. XI-842,
 2010-05-25, Žin.,
 2010, Nr. 67-3341 (2010-06-10)
  
 20
 straipsnis. Ataskaitų įforminimo reikalavimai
-1. Viešojo sektoriaus subjekto ataskaitos
-pradžioje turi būti nurodyta: 
+1. Viešojo sektoriaus subjekto
+ataskaitos pradžioje turi būti nurodyta: 
 1) viešojo sektoriaus subjekto
 pavadinimas, kodas, buveinės adresas;
 2) paskutinė
@@ -627,8 +629,8 @@ Nr. XI-842,
 straipsnis. Papildomi reikalavimai finansinėms ataskaitoms
 1. Viešojo
 sektoriaus subjektai sudaro atitinkamų metų pirmo ketvirčio, pusmečio, devynių
-mėnesių tarpines ataskaitas, o prireikus arba kitų teisės aktų nustatytais
-atvejais – kitų ataskaitinių laikotarpių.
+mėnesių tarpines ataskaitas, o prireikus arba kitų teisės aktų nustatytais atvejais
+– kitų ataskaitinių laikotarpių.
 2. Įregistruoti
 nauji viešojo sektoriaus subjektai parengia veiklos pradžios viešojo sektoriaus
 subjekto finansinės būklės ataskaitą (toliau – finansinės būklės ataskaita),
@@ -644,8 +646,8 @@ faktinio likvidavimo ar reorganizavimo dienos duomenis.
 ataskaitinių ir praėjusių finansinių metų finansinių ataskaitų straipsnių dėl
 apskaitos principų, ataskaitos formos pakeitimo arba kitų priežasčių neįmanoma
 palyginti, praėjusių finansinių metų pabaigos likučiai taisomi, kad juos būtų
-galima palyginti. Finansinių ataskaitų aiškinamajame rašte nurodoma taisymo
-priežastis, skaičiavimo metodas ir atsiradę skirtumai.
+galima palyginti. Finansinių ataskaitų aiškinamajame rašte nurodoma taisymo priežastis,
+skaičiavimo metodas ir atsiradę skirtumai.
 5. Kai šio
 įstatymo reikalavimų bei Viešojo sektoriaus apskaitos ir finansinės
 atskaitomybės standartų nepakanka, kad finansinės ataskaitos teisingai parodytų
@@ -664,8 +666,8 @@ aiškinamajame rašte.
 Straipsnio pakeitimai:
 Nr. X-1821,
 2008-11-14, Žin., 2008, Nr. 137-5370 (2008-11-29)
-Nr. XI-842, 2010-05-25,
-Žin.,
+Nr. XI-842,
+2010-05-25, Žin.,
 2010, Nr. 67-3341 (2010-06-10)
  
 22
@@ -782,9 +784,8 @@ aukštesniojo lygio finansinių ataskaitų formas ir jų sudarymo tvarką nustat
 Viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartai.
  
 27 straipsnis. Konsoliduotųjų finansinių ataskaitų rinkinio ir
-nacionalinio finansinių 
-                        ataskaitų
-rinkinio sudėtis
+nacionalinio 
+finansinių ataskaitų rinkinio sudėtis
 Žemesniojo ir
 aukštesniojo lygio metinių konsoliduotųjų finansinių ataskaitų rinkinį ir
 nacionalinį finansinių ataskaitų rinkinį sudaro šio įstatymo 26
@@ -823,8 +824,8 @@ lygio biudžeto vykdymo ataskaitų aiškinamasis raštas.
 sudarymo tvarkos reikalavimus viešojo sektoriaus subjektams nustato Finansų
 ministerija.
  
-29 straipsnis.
-Konsoliduotųjų biudžeto vykdymo ataskaitų rinkinio sudėtis
+29 straipsnis. Konsoliduotųjų
+biudžeto vykdymo ataskaitų rinkinio sudėtis
 Žemesniojo lygio
 konsoliduotųjų biudžeto vykdymo ataskaitų rinkinį sudaro šio įstatymo 28
 straipsnio 1 dalyje nurodytos konsoliduotosios ataskaitos, o aukštesniojo lygio
@@ -868,11 +869,9 @@ nustatyto (nustatytų) viešojo sektoriaus subjekto (subjektų) vadovas (vadovai
 arba jo (jų) įgaliotas (įgalioti) administracijos vadovas (vadovai) teisės aktų
 nustatyta tvarka.
 3. Savivaldybės
-konsoliduotųjų ataskaitų rinkinį (toliau – savivaldybės konsoliduotosios
-ataskaitos) pasirašo savivaldybės administracijos direktorius.
+konsoliduotąsias ataskaitas pasirašo savivaldybės administracijos direktorius.
 4. Valstybės
-konsoliduotųjų ataskaitų rinkinį (toliau – valstybės konsoliduotosios
-ataskaitos) pasirašo finansų ministras.
+konsoliduotąsias ataskaitas pasirašo finansų ministras.
 5. Nacionalinio
 ataskaitų rinkinio ataskaitas pasirašo Vyriausybės įgaliotos jas rengti
 institucijos vadovas.
@@ -882,6 +881,8 @@ Nr. X-1821,
 Nr. XI-842,
 2010-05-25, Žin.,
 2010, Nr. 67-3341 (2010-06-10)
+Nr. XI-1343,
+2011-04-21, Žin., 2011, Nr. 52-2518 (2011-05-03)
  
 32
 straipsnis. Ataskaitų rinkinių teikimas 
@@ -912,19 +913,33 @@ pasibaigus finansiniams metams, ne vėliau kaip iki kitų metų balandžio 15
 dienos.
 4. Valstybinio
 socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo
-ministerijos ir Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos
-savo metines konsoliduotąsias ataskaitas teikia Vyriausybės įgaliotai
-institucijai, atsakingai už nacionalinio ataskaitų rinkinio parengimą, pasibaigus
-finansiniams metams, ne vėliau kaip iki kitų metų balandžio 15 dienos.
+ministerijos Valstybinio socialinio draudimo fondo metinių konsoliduotųjų
+ataskaitų rinkinį ir Valstybinė ligonių kasa prie Sveikatos apsaugos
+ministerijos Privalomojo sveikatos draudimo fondo metinių konsoliduotųjų
+ataskaitų rinkinį teikia Vyriausybės įgaliotai institucijai, atsakingai už
+nacionalinio ataskaitų rinkinio parengimą, pasibaigus finansiniams metams, ne
+vėliau kaip iki kitų metų balandžio 15 dienos.
 5. Vyriausybė
 nacionalinį ataskaitų rinkinį kartu su audito išvada teikia Lietuvos
 Respublikos Seimui iki kitų finansinių metų spalio 1 dienos.
+6. 2010 metų valstybės,
+savivaldybės, Privalomojo sveikatos draudimo fondo,  Valstybinio socialinio
+draudimo fondo metinių biudžeto vykdymo ataskaitų rinkiniai, viešojo sektoriaus
+subjektų grupių metinių konsoliduotųjų biudžeto vykdymo ataskaitų rinkiniai
+teikiami teisės aktų nustatyta tvarka.
+7. 2010 metų
+valstybės, savivaldybės, Privalomojo sveikatos draudimo fondo, Valstybinio
+socialinio draudimo fondo metinių konsoliduotųjų finansinių ataskaitų rinkiniai
+teikiami šio straipsnio 2, 3, 4 dalyse nurodytiems subjektams ne vėliau kaip
+iki 2011 m. spalio 1 d.
 Straipsnio pakeitimai:
 Nr. X-1821,
 2008-11-14, Žin., 2008, Nr. 137-5370 (2008-11-29)
 Nr. XI-842,
 2010-05-25, Žin.,
 2010, Nr. 67-3341 (2010-06-10)
+Nr. XI-1343,
+2011-04-21, Žin., 2011, Nr. 52-2518 (2011-05-03)
  
 33 straipsnis. Ataskaitų rinkinių skelbimas
 1. Viešojo
@@ -960,9 +975,9 @@ Ataskaitų
 rinkiniai saugomi Dokumentų ir archyvų įstatymo nustatyta tvarka.
  
 35
-straipsnis. Atsakomybė už ataskaitų rinkinių parengimą, pateikimą ir paskelbimą
-
-                        laiku
+straipsnis. Atsakomybė už ataskaitų rinkinių parengimą, pateikimą ir 
+paskelbimą
+laiku
 1. Asmenys,
 pažeidę šio įstatymo reikalavimus, atsako teisės aktų nustatyta tvarka.
 2. Už viešojo
@@ -1059,9 +1074,19 @@ VIEŠOJO
 SEKTORIAUS ATSKAITOMYBĖS ĮSTATYMO 1, 2, 15, 17, 19, 20, 21, 27, 29, 30, 31, 32,
 33, 35, 36 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-1343,
+2011-04-21, Žin., 2011, Nr. 52-2518 (2011-05-03)
+VIEŠOJO
+SEKTORIAUS ATSKAITOMYBĖS ĮSTATYMO 4, 31, 32 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
+ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė (2010-06-10)
+Redagavo Aušrinė
+Trapinskienė (2011-05-06)
                  
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
