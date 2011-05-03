@@ -409,14 +409,15 @@ LAIVO ĮGULA
 11 straipsnis. Laivo įgulos
 sudėtis
 1. (Neteko galios nuo 2000 m. spalio 1 d.)
-2.
-Laivo įgulą (įskaitant laivo kapitoną ir laivo kapitono vyriausiąjį padėjėją)
-turi sudaryti ne mažiau kaip du trečdaliai Europos ekonominės erdvės valstybių
-ar Šveicarijos Konfederacijos piliečių ar nuolatinių Lietuvos Respublikos
-gyventojų. Laivo kapitono ir laivo kapitono vyriausiojo padėjėjo pareigas gali
-eiti tik Europos ekonominės erdvės valstybių ar Šveicarijos Konfederacijos
-piliečiai. Laivo kapitonas ar bent vienas iš kapitono padėjėjų turi
-mokėti lietuvių kalbą.
+2. Laivo įgulą (įskaitant laivo kapitoną
+ir laivo kapitono vyresnįjį padėjėją) turi sudaryti ne mažiau kaip du
+trečdaliai Lietuvos Respublikos, kitų Europos Sąjungos valstybių narių ar kitų
+Europos ekonominės erdvės valstybių ir Šveicarijos Konfederacijos (toliau –
+valstybė narė) piliečių ir kitų fizinių asmenų, kurie naudojasi Europos
+Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis.
+Laivo kapitono ir laivo kapitono vyresniojo padėjėjo pareigas gali eiti tik
+valstybės narės piliečiai. Laivo kapitonas ar bent vienas iš laivo
+kapitono padėjėjų turi mokėti lietuvių kalbą.
 Straipsnio pakeitimai:
 Nr. VIII-1255,
 99.06.22, Žin., 1999, Nr.60-1951 (99.07.09) 
@@ -428,6 +429,8 @@ Nr. IX-1680,
 2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 Nr. X-1628,
 2008-06-19, Žin., 2008, Nr. 75-2922 (2008-07-03)
+Nr. XI-1352,
+2011-04-21, Žin., 2011, Nr. 52-2526 (2011-05-03)
  
             12 straipsnis. Laivo kapitonas
 1.
@@ -447,8 +450,8 @@ Nr. IX-595,
             13 straipsnis. Laivo kapitono teisės,
 pareigos ir atsakomybė
             1.
-Laivo kapitonas vadovauja laivui vienvaldiškai. Jam pavaldūs laivo įgulos nariai
-ir keleiviai. Laivo kapitonas atsako už laivo, laivo įgulos, keleivių ir
+Laivo kapitonas vadovauja laivui vienvaldiškai. Jam pavaldūs laivo įgulos
+nariai ir keleiviai. Laivo kapitonas atsako už laivo, laivo įgulos, keleivių ir
 krovinių saugumą.
             2.
 Laivo kapitonas vadovaujasi Lietuvos Respublikos įstatymais, kitais teisės
@@ -500,9 +503,9 @@ laivo kapitono, pasirašo du liudytojai, laivo gydytojas arba felčeris, jeigu
 jie yra laivo įgulos nariai. Apie žmogaus mirtį laive įrašoma laivo žurnale.
 Prie mirties akto pridedamas mirusiojo turto ir dokumentų, esančių laive,
 apyrašas. Laivo kapitonas pasirūpina, kad mirusiojo turtas būtų išsaugotas.
-Atplaukęs į Lietuvos Respublikos uostą, laivo kapitonas perduoda mirties aktą
-civilinės metrikacijos įstaigai, o testamentą ir turto apyrašą - notarų biurui.
-Jei laivas ilgą laiką turi išbūti atviroje jūroje ir lavonas negali būti
+Atplaukęs į Lietuvos Respublikos uostą, laivo kapitonas perduoda mirties aktą civilinės
+metrikacijos įstaigai, o testamentą ir turto apyrašą - notarų biurui. Jei
+laivas ilgą laiką turi išbūti atviroje jūroje ir lavonas negali būti
 išsaugotas, laivo kapitonas turi teisę palaidoti mirusįjį jūroje pagal jūrų
 papročius ir surašyti atitinkamą aktą, taip pat apie tai įrašyti laivo žurnale.
 12. Jeigu laivo reiso metu laivo kapitonas mirė arba
@@ -530,9 +533,9 @@ KETVIRTASIS SKIRSNIS
 KROVINIŲ VEŽIMO JŪRA SUTARTIS
  
 14 straipsnis. Krovinių vežimas jūra
-1.
-Krovinių vežimo jūra sutarties sudarymo faktas ir jos turinys patvirtinamas
-konosamentu ar kitu dokumentu.
+1. Krovinių
+vežimo jūra sutarties sudarymo faktas ir jos turinys patvirtinamas konosamentu
+ar kitu dokumentu.
 2. Kroviniai jūra vežami vadovaujantis 1924 m. tarptautine konvencija dėl teisės normų, susijusių su konosamentais, suvienodinimo (Hagos
 taisyklės), iš dalies pakeista 1968 m. Briuselio protokolu, iš dalies
 pakeičiančiu Tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su
@@ -590,9 +593,9 @@ Nr. IX-1680,
             
             20 straipsnis. Krovinių įpakavimas
             Kroviniai,
-kuriems reikalingas įpakavimas, apsaugantis juos, vežėjui pateikiami
-tvarkingoje taroje ir įpakuoti pagal tarptautinius standartus, technines
-sąlygas ar sąlygas, kurios yra numatytos krovinių vežimo jūra sutartyje.
+kuriems reikalingas įpakavimas, apsaugantis juos, vežėjui pateikiami tvarkingoje
+taroje ir įpakuoti pagal tarptautinius standartus, technines sąlygas ar
+sąlygas, kurios yra numatytos krovinių vežimo jūra sutartyje.
             
 21 straipsnis. Krovinio
 perkrovimas į kitą laivą
@@ -601,8 +604,8 @@ kroviniai turi būti vežami tam tikru laivu, jie gali būti pakrauti į kitą l
 tik krovinių siuntėjui sutikus, išskyrus krovinių perkrovimą dėl techninio
 būtinumo, atsiradusio pradėjus krovimo darbus.
 Straipsnio pakeitimai:
-Nr. IX-1680, 2003-07-03,
-Žin., 2003, Nr. 73-3355 (2003-07-23)
+Nr. IX-1680,
+2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
             
             22 straipsnis. Krovinių sukrovimas laive
             1.
@@ -685,8 +688,8 @@ kontrastalijos laikas arba laivas išplaukė iš uosto.
             2.
 Jeigu krovinių siuntėjas krovinių vežimo jūra sutarties atsisako iki laivui
 išplaukiant iš uosto, vežėjas išduoda jam krovinius neatsižvelgdamas į tai, kad
-krovinių iškrovimas iš laivo gali laivą uoste sulaikyti ilgiau už nustatytą laivo
-stovėjimo terminą.
+krovinių iškrovimas iš laivo gali laivą uoste sulaikyti ilgiau už nustatytą
+laivo stovėjimo terminą.
             3.
 Jeigu krovinių siuntėjas krovinių vežimo jūra sutarties atsisako laivo reiso
 metu, jis turi teisę reikalauti išduoti krovinius tik tame uoste, į kurį laivas
@@ -695,8 +698,8 @@ reikalo.
             4.
 Jeigu pagal krovinių vežimo jūra sutartį krovinių siuntėjui buvo suteiktas ne
 visas laivas, tai sutarties galima atsisakyti tik su sąlyga, kad bus sumokėtas
-visas frachtas, užmokestis už laivo prastovą, jeigu ji buvo, taip pat vežėjo išlaidos,
-susijusios su kroviniais ir neįtrauktos į frachtą. Krovinių siuntėjo
+visas frachtas, užmokestis už laivo prastovą, jeigu ji buvo, taip pat vežėjo
+išlaidos, susijusios su kroviniais ir neįtrauktos į frachtą. Krovinių siuntėjo
 reikalavimu vežėjas privalo išduoti krovinius prieš juos atgabenant į
 paskirties uostą tik tuo atveju, jeigu dėl to nebus padaryta žalos vežėjui ir
 kitiems krovinių siuntėjams.
@@ -837,9 +840,9 @@ laivas būtų tinkamai aprūpintas ir sukomplektuota laivo įgula;
 tinkamai sutvarkytos laivo patalpos ir vietos, skirtos keleiviams vežti, juos
 įlaipinti į laivą ir išlaipinti iš laivo;
             4)
-sudarytas atvykusių į laivą keleivių sąrašas ir įrašyti duomenys apie juos į
-keleivių registrą. Keleivių registras tvarkomas pagal Keleivių ir bagažo vežimo
-jūra taisykles.
+sudarytas atvykusių į laivą keleivių sąrašas ir įrašyti duomenys apie juos į keleivių
+registrą. Keleivių registras tvarkomas pagal Keleivių ir bagažo vežimo jūra
+taisykles.
             2.
 Vežėjas turi teisę atidėti laivo reisą, pakeisti keleivių vežimo jūra maršrutą,
 keleivių išlaipinimo iš laivo arba įlaipinimo į laivą vietą, jeigu tokie veiksmai
@@ -906,11 +909,11 @@ tvarką ir ribas, vadovaujamasi šiomis sutartimis.
             3.
 Vežėjas atsako už priimto vežti bagažo praradimą, trūkumą ir sužalojimą, taip
 pat už pavėlavimą jį atvežti, jeigu neįrodo, kad dėl to nėra vežėjo kaltės. Už
-rankinio bagažo praradimą, trūkumą arba sužalojimą vežėjas atsako tik tuo
-atveju, jeigu keleivis įrodo, kad rankinio bagažo praradimas, trūkumas arba
-sužalojimas yra vežėjo tyčios arba neatsargumo rezultatas. Bagažas, neatsiimtas
-per tris mėnesius nuo laivo atplaukimo į paskirties uostą dienos, gali būti
-parduotas Keleivių ir bagažo vežimo jūra taisyklių nustatyta tvarka.
+rankinio bagažo praradimą, trūkumą arba sužalojimą vežėjas atsako tik tuo atveju,
+jeigu keleivis įrodo, kad rankinio bagažo praradimas, trūkumas arba sužalojimas
+yra vežėjo tyčios arba neatsargumo rezultatas. Bagažas, neatsiimtas per tris
+mėnesius nuo laivo atplaukimo į paskirties uostą dienos, gali būti parduotas
+Keleivių ir bagažo vežimo jūra taisyklių nustatyta tvarka.
             4.
 Vežėjas atsako:
             1)
@@ -983,8 +986,9 @@ jų atstovai.
 Pagal laivo frachtavimo sutartį (čarterį) laivo valdytojas frachtuotojui laivą
 suteikia kartu su įgula. Frachtuotojas laivo kapitonui turi teisę duoti
 nurodymus dėl laivo naudojimo laivo frachtavimo sutartyje (čarteryje)
-numatytiems tikslams, tačiau frachtuotojas laivo kapitonui neturi teisės duoti nurodymų
-dėl tvarkos laive, laivo įgulos komplektavimo, taip pat dėl laivo valdymo.
+numatytiems tikslams, tačiau frachtuotojas laivo kapitonui neturi teisės duoti
+nurodymų dėl tvarkos laive, laivo įgulos komplektavimo, taip pat dėl laivo
+valdymo.
 4.
 Šiame skirsnyje nurodytos taisyklės taikomos, jei šalių susitarimu nenustatyta
 kitaip.
@@ -1340,7 +1344,9 @@ Nr. VIII-1963, 00.09.26, Žin., 2000,
 Nr.85-2584 (00.10.11)
  
             50 straipsnis. Nuostolių ir išlaidų,
-atlyginamų bendrosios avarijos dalijimo tvarka, nustatymas
+atlyginamų bendrosios avarijos dalijimo 
+                                    tvarka,
+nustatymas
             1.
 Bendrosios avarijos dalijimo tvarka atlyginami nuostoliai, padaryti dėl laivo,
 jo mašinų arba laivo priklausinių sužalojimo, nustatomi:
@@ -1499,8 +1505,9 @@ narių kaltės, kiekvienos laivų susidūrimo šalies atsakomybė nustatoma
 proporcingai jų kaltės dydžiui. Jei negalima nustatyti kiekvienos laivų
 susidūrimo šalies kaltės dydžio, atsakomybė paskirstoma lygiomis dalimis.
             5.
-Šio straipsnio 4 dalyje nurodytu atveju laivų valdytojai solidariai atsako tretiesiems
-asmenims už nuostolius dėl žmonių mirties arba jų sveikatos sužalojimo.
+Šio straipsnio 4 dalyje nurodytu atveju laivų valdytojai solidariai atsako
+tretiesiems asmenims už nuostolius dėl žmonių mirties arba jų sveikatos
+sužalojimo.
             6.
 Laivo valdytojas atsako ir jei laivų susidūrimas įvyko dėl locmano kaltės.
             7.
@@ -1510,9 +1517,9 @@ Lietuvos Respublikos įstatymų nustatyta tvarka.
 57(1) straipsnis. Nuostolių, atsiradusių
 siekiant išvengti povandeninio kabelio ar vamzdyno pažeidimo, atlyginimas
 1. Povandeninio kabelio ar
-vamzdyno savininkas privalo atlyginti nuostolius, patirtus laivų savininkų,
-kurie įrodo, jog patyrė nuostolius (prarado inkarą, tinklą ar kitą žvejybos
-įrangą) siekdami išvengti povandeninio kabelio ar vamzdyno pažeidimo.
+vamzdyno savininkas privalo atlyginti nuostolius, patirtus laivų savininkų, kurie
+įrodo, jog patyrė nuostolius (prarado inkarą, tinklą ar kitą žvejybos įrangą)
+siekdami išvengti povandeninio kabelio ar vamzdyno pažeidimo.
 2. Šio straipsnio 1 dalyje nustatyta prievolė
 atlyginti nuostolius atsiranda  tik tuomet, jei  laivo savininkai ėmėsi visų
 protingų priemonių, kad būtų išvengta nuostolių.
@@ -1606,12 +1613,14 @@ Reikalavimai, nurodyti 1 dalyje tenkinami eilės tvarka, proporcingai bendrųjų
 reikalavimų dydžiui.
             5.
 Reikalavimai, atsiradę dėl laivo paskutinio reiso, tenkinami pirmiau už tokius
-pat reikalavimus, atsiradusius dėl laivo ankstesnių reisų. Šio straipsnio 2 dalies
-1 punkte nurodyti reikalavimai, atsiradę dėl kelių laivo reisų, prilyginami
-tokiems pat reikalavimams, atsiradusiems dėl laivo paskutinio reiso.
+pat reikalavimus, atsiradusius dėl laivo ankstesnių reisų. Šio straipsnio 2
+dalies 1 punkte nurodyti reikalavimai, atsiradę dėl kelių laivo reisų,
+prilyginami tokiems pat reikalavimams, atsiradusiems dėl laivo paskutinio
+reiso.
             
             63 straipsnis. Turtas ir piniginės lėšos,
-iš kurių tenkinami privilegijuoti reikalavimai
+iš kurių tenkinami privilegijuoti 
+                                    reikalavimai
             1.
 Šio įstatymo 62 straipsnio 2 dalies 1-6 punktuose nurodyti reikalavimai turi
 būti tenkinami pirmiausia iš:
@@ -1631,8 +1640,8 @@ atlyginimo, priklausančio laivo valdytojui už išgelbėjimą iki laivo reiso
 pabaigos, atskaičius sumas, kurias laivo valdytojas turi sumokėti įgulos
 nariams ir kitiems asmenims, dalyvavusiems gelbėjant.
             2.
-Šio įstatymo 62 straipsnio 2 dalies 2, 3, 5 ir 7 punktuose nurodyti
-reikalavimai turi būti tenkinami pirmiausia iš:
+Šio įstatymo 62 straipsnio 2 dalies 2, 3, 5 ir 7 punktuose nurodyti reikalavimai
+turi būti tenkinami pirmiausia iš:
             1)
 krovinių gavėjui neatiduotų krovinių vertės;
             2)
@@ -1731,8 +1740,8 @@ pristatytų vežtinų krovinių kiekį ir vertę.
 Pretenzijų, kylančių iš keleivių vežimo jūra sutarties, pareiškimo ir
 nagrinėjimo tvarką nustato Keleivių ir bagažo vežimo jūra taisyklės.
 Straipsnio pakeitimai:
-Nr. IX-1680,
-2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
+Nr. IX-1680, 2003-07-03,
+Žin., 2003, Nr. 73-3355 (2003-07-23)
             
             71 straipsnis. Neteko galios nuo 2004 m. birželio 2 d.
 Straipsnio pakeitimai:
@@ -1763,8 +1772,8 @@ ieškinio senaties terminai, nustatyti šio straipsnio 6 ir 7 dalyse.
 Pretenzijos vežėjui dėl keleivių ar bagažo vežimų pareiškiamos per pirmuosius 
 3 ieškinio senaties termino mėnesius.
 3.
-Pretenzijos dėl krovinių vežimo pareiškiamos prieš perduodant krovinį ar
-krovinio perdavimo metu. Tais atvejais, kai krovinio trūkumas ar sužalojimas
+Pretenzijos dėl krovinių vežimo pareiškiamos prieš perduodant krovinį ar krovinio
+perdavimo metu. Tais atvejais, kai krovinio trūkumas ar sužalojimas
 neakivaizdus, – per tris dienas.
 4.
 Pretenzijos dėl dispačo ar demeredžo išmokėjimo pareiškiamos per pirmąsias 45
@@ -1807,8 +1816,8 @@ nustatytas Lietuvos Respublikos civiliniame kodekse.
 Straipsnio pakeitimai:
 Nr. VIII-1899, 00.08.29, Žin., 2000,
 Nr.75-2266 (00.09.07)
-Nr. VIII-1963, 00.09.26, Žin., 2000,
-Nr.85-2584 (00.10.11)
+Nr. VIII-1963, 00.09.26, Žin., 2000, Nr.85-2584
+(00.10.11)
 Nr. IX-1680,
 2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
  
@@ -1853,8 +1862,8 @@ Nr. VIII-1899, 00.08.29, Žin., 2000,
 Nr.75-2266 (00.09.07)
 Nr. VIII-1963, 00.09.26, Žin., 2000,
 Nr.85-2584 (00.10.11)
-Nr. IX-595,
-2001-11-13, Žin., 2001, Nr. 99-3527 (2001-11-28)
+Nr. IX-595, 2001-11-13,
+Žin., 2001, Nr. 99-3527 (2001-11-28)
  
 79 straipsnis. Laivo
 įkeitimas 
@@ -1873,8 +1882,8 @@ hipotekos registravimas
 Prašymas įregistruoti, pakeisti ar baigti laivo
 hipoteką pateikiamas Klaipėdos miesto apylinkės teismo Hipotekos skyriui. 
  
-81 straipsnis. Įkeisto
-laivo išregistravimas
+81 straipsnis. Įkeisto laivo
+išregistravimas
 1. Įkeistas laivas negali būti išregistruotas iš
 Lietuvos Respublikos jūrų laivų registro iki laivo hipotekos baigimo arba iki
 nebus pateiktas notariškai patvirtintas visų hipotekos kreditorių sutikimas tai
@@ -1889,18 +1898,18 @@ išregistruotas anksčiau negu po 3 mėnesių nuo hipotekos kreditorių įspėji
 Šio reikalavimo galima nepaisyti, jei yra pateiktas notariškai patvirtintas
 visų hipotekos kreditorių sutikimas tai padaryti anksčiau.
 Straipsnio pakeitimai:
-Nr. VIII-1899, 00.08.29, Žin., 2000,
-Nr.75-2266 (00.09.07)
+Nr. VIII-1899, 00.08.29, Žin., 2000, Nr.75-2266
+(00.09.07)
 Nr. VIII-1963, 00.09.26, Žin., 2000,
 Nr.85-2584 (00.10.11)
  
 82 straipsnis. Laikinas
 laivo vėliavos pakeitimas 
-1. Leidimas laikinai plaukioti su užsienio valstybės vėliava
-laivui, įregistruotam Lietuvos Respublikos jūrų laivų registre, negali būti
-išduotas tol, kol nebaigtos visos hipotekos. Šio reikalavimo galima nepaisyti,
-jei yra pateiktas notariškai patvirtintas visų hipotekos kreditorių sutikimas
-tokį leidimą išduoti.
+1. Leidimas laikinai plaukioti su užsienio valstybės
+vėliava laivui, įregistruotam Lietuvos Respublikos jūrų laivų registre, negali
+būti išduotas tol, kol nebaigtos visos hipotekos. Šio reikalavimo galima
+nepaisyti, jei yra pateiktas notariškai patvirtintas visų hipotekos kreditorių
+sutikimas tokį leidimą išduoti.
 2. Laivas, kurio nuolatinė registracijos vieta yra
 užsienio valstybėje ir kuriam suteikta teisė laikinai plaukioti su Lietuvos
 valstybės vėliava, negali būti įkeičiamas Lietuvos Respublikoje. Visi su tokio
@@ -1933,8 +1942,8 @@ kitas lieka laivo valdytojui. Sutarties kopija įteikiama laivo kapitonui.
 Kiekvienam jūrininkui Susisiekimo ministerijos nustatyta tvarka išduodama
 jūrininko knygelė.
             2.
-Laivo valdytojas gali suteikti teisę laivo kapitonui laivo valdytojo vardu
-pasirašyti darbo sutartis su jūrininkais.
+Laivo valdytojas gali suteikti teisę laivo kapitonui laivo valdytojo vardu pasirašyti
+darbo sutartis su jūrininkais.
             3.
 Asmenys iki 16 metų dirbti laive nepriimami. Dirbti laive leidžiama asmenims,
 kurie Sveikatos apsaugos ministerijos nustatyta tvarka pripažinti tam tinkami
@@ -2051,8 +2060,10 @@ ligos ar sužalojimo jūrininkas apdraustas draudimo organizacijoje.
             Skelbiu
 šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
+ 
 RESPUBLIKOS PREZIDENTAS         
                        ALGIRDAS BRAZAUSKAS 
+ 
  
 Lietuvos Respublikos 
                                                                                                 1996 m. rugsėjo 12 d.
@@ -2150,9 +2161,9 @@ IX-1680,
 PREKYBINĖS
 LAIVYBOS ĮSTATYMO 1, 2, 3, 4, 8, 11, 14, 15, 21, 27, 70, 75, 85, 86 STRAIPSNIŲ
 PAKEITIMO IR PAPILDYMO, 16, 17, 18, 19, 28, 30, 69, 71, 72, 73, 74, 77
-STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS, ŠEŠTOJO IR DEVINTOJO SKIRSNIŲ
-PAVADINIMŲ PAKEITIMO, ĮSTATYMO PAPILDYMO 40(1) IR 57(1) STRAIPSNIAIS BEI
-ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS
+STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS, ŠEŠTOJO IR DEVINTOJO SKIRSNIŲ PAVADINIMŲ
+PAKEITIMO, ĮSTATYMO PAPILDYMO 40(1) IR 57(1) STRAIPSNIAIS BEI ĮSTATYMO
+PAPILDYMO PRIEDU ĮSTATYMAS
 Šio Įstatymo 6 straipsnis
 įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos.
 Šio Įstatymo 7, 8, 9, 10, 11,
@@ -2201,11 +2212,17 @@ X-1628,
 PREKYBINĖS
 LAIVYBOS ĮSTATYMO 11 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
-***
-Pabaiga ***
+10.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. XI-1352,
+2011-04-21, Žin., 2011, Nr. 52-2526 (2011-05-03)
+PREKYBINĖS LAIVYBOS ĮSTATYMO 11
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+*** Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2008-07-03)
-                 
-autrap@lrs.lt
+Redagavo Aušrinė Trapinskienė
+(2011-05-05)
+                  ausrine.trapinskiene@lrs.lt
