@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B8B6AFC2BFF1"
 
 # Lietuvos Respublikos konkurencijos įstatymas
 
-Suvestinė redakcija nuo 2010-01-01 iki 2011-05-02
+Suvestinė redakcija nuo 2011-05-03 iki 2011-10-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 30-856, i. k. 0991010ISTAIII-1099
  
@@ -257,6 +257,14 @@ Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA
 19. Neteko galios nuo 2004-05-01
 Straipsnio dalies naikinimas:
 Nr. IX-2126, 2004-04-15, Žin. 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA0IX-2126
+ 
+
+
+
+
+19. Ūkio subjekto vadovas – fizinis asmuo, kuris vadovauja juridiniam asmeniui ir yra vienasmenis jo valdymo organas. 
+Papildyta straipsnio dalimi:
+Nr. XI-1347, 2011-04-21, Žin., 2011, Nr. 52-2522 (2011-05-03), i. k. 1111010ISTA0XI-1347
  
 
 
@@ -1874,7 +1882,32 @@ Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA
 
 
 
-3. Ūkio subjektai gali būti patraukti atsakomybėn už šio įstatymo pažeidimus ne vėliau kaip per trejus metus nuo pažeidimo įvykdymo dienos, o esant tęstiniam pažeidimui, – nuo paskutinių veiksmų atlikimo dienos. 
+3. Sankcijos ūkio subjektams už šio įstatymo pažeidimus gali būti taikomos ne vėliau kaip per penkerius metus nuo pažeidimo padarymo dienos, o esant tęstiniam ar trunkamajam pažeidimui – nuo paskutinių veiksmų atlikimo ar nutraukimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1347, 2011-04-21, Žin., 2011, Nr. 52-2522 (2011-05-03), i. k. 1111010ISTA0XI-1347
+ 
+
+
+
+
+4. Šio straipsnio 3 dalyje nurodytas sankcijų taikymo terminas yra sustabdomas, kai:
+
+
+1) Konkurencijos taryba atlieka tyrimą. Sankcijų taikymo terminas šiuo atveju sustabdomas nuo Konkurencijos tarybos sprendimo tirti įstatymo pažeidimus priėmimo dienos iki Konkurencijos tarybos sprendimo tyrimą nutraukti ar nutarimo, nurodyto šio įstatymo 36 straipsnyje, priėmimo dienos;
+
+
+
+
+2) teismo sprendimu sustabdomas Konkurencijos tarybos atliekamas tyrimas. Sankcijų skyrimo terminas šiuo atveju sustabdomas tol, kol yra sustabdytas Konkurencijos tarybos tyrimas;
+
+
+
+
+3) teisme nagrinėjamas ginčas dėl Konkurencijos tarybos sprendimo taikyti sankcijas. Sankcijų skyrimo terminas šiuo atveju sustabdomas nuo skundo padavimo teismui dienos iki teismo sprendimo įsiteisėjimo dienos. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XI-1347, 2011-04-21, Žin., 2011, Nr. 52-2522 (2011-05-03), i. k. 1111010ISTA0XI-1347
  
 
 
@@ -1945,7 +1978,15 @@ Nr. IX-2126, 2004-04-15, Žin. 2004, Nr. 63-2244 (2004-04-28), i. k. 1041010ISTA
 
 
 
-5) kiekvieno ūkio subjekto įtaką pažeidimo padarymui, kai pažeidimą padaro keli ūkio subjektai.
+5) kiekvieno ūkio subjekto įtaką pažeidimo padarymui, kai pažeidimą padaro keli ūkio subjektai;
+
+
+
+
+6) ūkio subjekto prekių, tiesiogiai ir netiesiogiai susijusių su pažeidimu, pardavimų vertę. 
+Papildyta straipsnio punktu:
+Nr. XI-1347, 2011-04-21, Žin., 2011, Nr. 52-2522 (2011-05-03), i. k. 1111010ISTA0XI-1347
+ 
 
 
 
@@ -2048,6 +2089,132 @@ Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA
  
 
 
+
+
+
+
+441 straipsnis. Ūkio subjektų vadovams skiriamos sankcijos
+
+
+1. Ūkio subjekto vadovui už prisidėjimą prie ūkio subjekto sudaryto draudžiamo konkurentų susitarimo ar piktnaudžiavimo dominuojančia padėtimi gali būti apribojama teisė nuo trejų iki penkerių metų eiti viešojo ir (arba) privataus juridinio asmens vadovo pareigas, būti viešojo ir (arba) privataus juridinio asmens kolegialaus priežiūros ir (arba) valdymo organo nariu. Ūkio subjekto vadovui už prisidėjimą prie ūkio subjekto sudaryto draudžiamo konkurentų susitarimo ar piktnaudžiavimo dominuojančia padėtimi, be šioje dalyje nustatyto teisės apribojimo, papildomai gali būti skiriama piniginė bauda iki 50 000 litų.
+
+
+
+
+2. Ūkio subjekto vadovas laikomas prisidėjusiu prie pažeidimo padarymo, kai jis:
+
+
+1) tiesiogiai prisidėjo prie pažeidimo padarymo;
+
+
+
+
+2) tiesiogiai neprisidėjo prie pažeidimo padarymo, tačiau turėjo pagrindą įtarti, kad jo vadovaujamas ūkio subjektas daro pažeidimą, bet nesiėmė veiksmų užkirsti kelią šiam pažeidimui;
+
+
+
+
+3) nežinojo, nors privalėjo žinoti, kad jo vadovaujamas ūkio subjektas padarė ar daro pažeidimą.
+
+
+
+
+
+
+3. Šio straipsnio 1 dalyje nurodytos sankcijos negali būti skiriamos ūkio subjekto, atleisto nuo baudos šio įstatymo 43 straipsnyje nustatyta tvarka, vadovui. Ši nuostata dėl sankcijų neskyrimo gali būti netaikoma, jeigu ūkio subjektas nutraukė darbo santykius su ūkio subjekto vadovu dėl jo prisidėjimo prie pažeidimo padarymo ir kreipėsi į Konkurencijos tarybą dėl atleidimo nuo baudos.
+
+
+
+
+4. Darbo santykių tarp ūkio subjekto vadovo ir ūkio subjekto, įvykdžiusio pažeidimą, ar tokio ūkio subjekto vadovo įgaliojimų pasibaigimas iki Konkurencijos tarybos nutarimo dėl pažeidimo priėmimo nepanaikina ūkio subjekto vadovo atsakomybės pagal šį straipsnį.
+
+
+
+
+5. Skiriant ūkio subjekto vadovui šio straipsnio 1 dalyje nustatytas sankcijas, mutatis mutandis taikomos šio įstatymo 40 straipsnio 3 ir 4 dalys. 
+
+
+Papildyta straipsniu:
+Nr. XI-1347, 2011-04-21, Žin., 2011, Nr. 52-2522 (2011-05-03), i. k. 1111010ISTA0XI-1347
+ 
+
+
+
+
+442 straipsnis. Prašymo teismui dėl sankcijų ūkio subjektų vadovams skyrimo pateikimas ir jo nagrinėjimas teisme
+
+
+1. Konkurencijos taryba, nustačiusi, kad egzistuoja šio įstatymo 441 straipsnio 1 ir 2 dalyse nurodytos aplinkybės, priima sprendimą kreiptis į Vilniaus apygardos administracinį teismą su prašymu taikyti šio įstatymo 441 straipsnio 1 dalyje nustatytas sankcijas.
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytame prašyme teismui nurodomos aplinkybės, kuriomis grindžiamas prašymas, ir pridedami jas patvirtinantys įrodymai, taip pat nurodomas motyvuotas siūlymas dėl šio įstatymo 441 straipsnio 1 dalyje nustatytų sankcijų taikymo ir jų dydžio. Teismas, priimdamas sprendimą taikyti sankcijas, nėra saistomas Konkurencijos tarybos siūlymo dėl sankcijų ir jų dydžio.
+
+
+
+
+3. Konkurencijos taryba turi teisę kreiptis į teismą su šio straipsnio 1 dalyje nurodytu prašymu įsiteisėjus Konkurencijos tarybos nutarimui dėl šio įstatymo 441 straipsnio 1 dalyje nurodyto pažeidimo arba įsiteisėjus nutarimo daliai, kuria konstatuotas ūkio subjekto, kurio vadovui prašoma taikyti sankciją, pažeidimas, nurodytas šio įstatymo 441 straipsnio 1 dalyje. Toks prašymas turi būti pateiktas ne vėliau kaip per tris mėnesius nuo šioje dalyje nurodyto Konkurencijos tarybos nutarimo ar jo dalies įsiteisėjimo.
+
+
+
+
+4. Teismas, išnagrinėjęs Konkurencijos tarybos prašymą, priima vieną iš šių sprendimų:
+
+
+1) taikyti šio įstatymo 441 straipsnio 1 dalyje nustatytas sankcijas;
+
+
+
+
+2) atmesti prašymą.
+
+
+
+
+
+
+5. Teismas, skirdamas ūkio subjekto vadovui šio įstatymo 441 straipsnio 1 dalyje nustatytas sankcijas, vadovaujasi teisingumo, protingumo, sąžiningumo principais ir atsižvelgia į:
+
+
+1) ūkio subjekto padaryto pažeidimo pavojingumą;
+
+
+
+
+2) ūkio subjekto padaryto pažeidimo trukmę;
+
+
+
+
+3) ūkio subjekto vadovo prisidėjimo prie ūkio subjekto padaryto pažeidimo pobūdį;
+
+
+
+
+4) ūkio subjekto vadovo elgesį Konkurencijos tarybos tyrimo dėl ūkio subjekto padaryto pažeidimo metu;
+
+
+
+
+5) kitas reikšmingas aplinkybes.
+
+
+
+
+
+
+6. Asmenų, kuriems įsiteisėjusiu teismo sprendimu paskirtos šio įstatymo 441 straipsnio 1 dalyje nustatytos sankcijos, sąrašas skelbiamas Konkurencijos tarybos interneto svetainėje.
+
+
+
+
+7. Konkurencijos taryba, nustačiusi, kad nevykdomas įsiteisėjęs teismo sprendimas, kuriuo paskirtos šio įstatymo 441 straipsnio 1 dalyje nustatytos sankcijos, pateikia teismo sprendimą vykdyti antstoliui Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. 
+
+
+Papildyta straipsniu:
+Nr. XI-1347, 2011-04-21, Žin., 2011, Nr. 52-2522 (2011-05-03), i. k. 1111010ISTA0XI-1347
+ 
 
 
 
@@ -2260,3 +2427,8 @@ Lietuvos Respublikos konkurencijos įstatymo 1, 3, 4, 10, 13, 14, 19, 20, 23, 24
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-434, 2009-09-24, Žin., 2009, Nr. 121-5195 (2009-10-10), i. k. 1091010ISTA00XI-434
 Lietuvos Respublikos konkurencijos įstatymo 3 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1347, 2011-04-21, Žin., 2011, Nr. 52-2522 (2011-05-03), i. k. 1111010ISTA0XI-1347
+Lietuvos Respublikos konkurencijos įstatymo 3, 40, 42 straipsnių papildymo ir pakeitimo ir Įstatymo papildymo 44-1, 44-2 straipsniais įstatymas
