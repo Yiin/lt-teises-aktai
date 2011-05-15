@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CF812DA6E814"
 
 # Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatymas
 
-Suvestinė redakcija nuo 2010-10-30 iki 2011-05-14
+Suvestinė redakcija nuo 2011-05-15 iki 2011-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 135-4894, i. k. 1041010ISTA0IX-2428
- 
-TAR pastaba. Įstatymas Nr. XI-1071 netaikomas politinėms kampanijoms, prasidėjusioms iki šio įstatymo įsigaliojimo (2010-10-30)
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1071, 2010-10-26, Žin., 2010, Nr. 128-6524 (2010-10-30), i. k. 1101010ISTA0XI-1071
-Lietuvos Respublikos politinių partijų ir politinių kampanijų finansavimo bei finansavimo kontrolės įstatymo 5 ir 17 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2010-09-15:
 Nr. XI-813, 2010-05-18, Žin. 2010, Nr. 63-3091 (2010-05-31), i. k. 1101010ISTA00XI-813
@@ -108,6 +103,11 @@ BENDROSIOS NUOSTATOS
 4) referendumo iniciatoriai;
 
 5) referendumo oponentai.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos politinių partijų ir politinių kampanijų finansavimo bei finansavimo kontrolės įstatymo (2010 m. gegužės 18 d. redakcija; Žin., 2010, Nr. 63-3091) 3 straipsnio 2 dalis tiek, kiek, įstatymų leidėjui pasirinkus vien proporcinę savivaldybių tarybų rinkimų sistemą, joje nenustatyta, kad savarankiškais politinės kampanijos dalyviais gali būti ne tik politinės partijos, bet ir kiti įstatymų leidėjo nustatytus reikalavimus atitinkantys kolektyviniai subjektai, kurių nariais gali būti Lietuvos Respublikos teritorijos administracinių vienetų nuolatiniai gyventojai, prieštarauja Lietuvos Respublikos Konstitucijos 119 straipsnio 2 daliai.
+
+Straipsnio dalies pakeitimai:
+2011-05-11, Žin., 2011, Nr. 58-2771 (2011-05-14), i. k. 1111000NUTARG113717            
+ 
 
 3. Politinės partijos iškeltas kandidatas Seimo vienmandatėje rinkimų apygardoje ar kandidatų sąrašas rinkimuose į savivaldybių tarybas arba Europos Parlamentą (toliau – kandidatas ar kandidatų sąrašas), kai yra juos iškėlusios politinės partijos teikimas (prašymas), gali būti registruojamas savarankišku politinės kampanijos dalyviu.
 
@@ -788,4 +788,9 @@ Lietuvos Respublikos politinių partijų ir politinių kampanijų finansavimo be
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1071, 2010-10-26, Žin., 2010, Nr. 128-6524 (2010-10-30), i. k. 1101010ISTA0XI-1071
 Lietuvos Respublikos politinių partijų ir politinių kampanijų finansavimo bei finansavimo kontrolės įstatymo 5 ir 17 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+2011-05-11, Žin., 2011, Nr. 58-2771 (2011-05-14), i. k. 1111000NUTARG113717                
+Dėl Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo (2010 m. birželio 30 d. redakcija) 34 straipsnio, 83 straipsnio 2, 3, 4, 5 dalių, Lietuvos Respublikos politinių partijų ir politinių kampanijų finansavimo bei finansavimo kontrolės įstatymo (2010 m. gegužės 18 d. redakcija) 3 straipsnio 2 dalies atitikties Lietuvos Respublikos Konstitucijai
 
