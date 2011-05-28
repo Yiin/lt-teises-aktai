@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AAC3F61596EE"
 
 # Lietuvos Respublikos operatyvinės veiklos įstatymas
 
-Suvestinė redakcija nuo 2010-08-01 iki 2011-05-27
+Suvestinė redakcija nuo 2011-05-28 iki 2011-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2633, i. k. 1021010ISTA00IX-965
  
@@ -71,14 +71,17 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
  
 
-9. Techninių priemonių naudojimas specialia tvarka – motyvuota teismo nutartimi sankcionuotas techninių priemonių naudojimas operatyvinėje veikloje kontroliuojant ar fiksuojant asmenų pokalbius, kitokį susižinojimą ar veiksmus, kai nė vienam pokalbio, kitokio susižinojimo ar veiksmų dalyviui apie tokią kontrolę nėra žinoma ir tai vykdoma įstatymų nustatyta tvarka apribojant žmogaus privataus gyvenimo neliečiamumą. Telekomunikacijų tinklais perduodamos asmenų informacijos turinio kontrolė bei jos fiksavimas, net ir žinant apie tokią kontrolę vienam iš jų, reikalauja motyvuotos teismo nutarties, išskyrus atvejus, kai asmuo paprašo arba sutinka su tokia kontrole ar fiksavimu nesinaudojant telekomunikacijų operatorių paslaugomis ir įrenginiais.
+9. Techninių priemonių naudojimas specialia tvarka – motyvuota teismo nutartimi sankcionuotas techninių priemonių naudojimas operatyvinėje veikloje kontroliuojant ar fiksuojant asmenų pokalbius, kitokį susižinojimą ar veiksmus, kai nė vienam pokalbio, kitokio susižinojimo ar veiksmų dalyviui apie tokią kontrolę nėra žinoma ir tai vykdoma įstatymų nustatyta tvarka apribojant žmogaus teisę į privataus gyvenimo neliečiamumą. Elektroninių ryšių tinklais perduodamos asmenų informacijos turinio kontrolė ir jos fiksavimas, net ir žinant apie tokią kontrolę vienam iš jų, reikalauja motyvuotos teismo nutarties, išskyrus atvejus, kai asmuo paprašo arba sutinka su tokia kontrole ar fiksavimu nesinaudojant ūkio subjektų, teikiančių elektroninių ryšių tinklus ir (ar) paslaugas, paslaugomis ir įrenginiais. 
 Straipsnio dalies pakeitimai:
 Nr. IX-1222, 2002-12-05, Žin., 2002, Nr. 123-5515 (2002-12-24), i. k. 1021010ISTA0IX-1222
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
  
 
-10. Techninių priemonių naudojimas bendra tvarka – techninių priemonių naudojimas operatyvinėje veikloje operatyvinės veiklos subjektų pagrindinių institucijų nustatyta tvarka šio straipsnio 8 dalyje neišvardytais atvejais, taip pat ir šio straipsnio 8 dalyje išvardytais atvejais, kai jos naudojamos operatyvinės veiklos subjektų patalpose ir transporto priemonėse tų pačių subjektų iniciatyva saugumui bei imunitetui užtikrinti, išskyrus patalpas, naudojamas įmonių, įstaigų ar organizacijų, įsteigtų pagal šio Įstatymo 7 straipsnio 3 dalies 2 punktą, taip pat pokalbių telefonu kontrolę.
+10. Techninių priemonių naudojimas bendra tvarka – techninių priemonių naudojimas operatyvinėje veikloje operatyvinės veiklos subjektų pagrindinių institucijų nustatyta tvarka šio straipsnio 9 dalyje neišvardytais atvejais, taip pat ir šio straipsnio 9 dalyje išvardytais atvejais, kai jos naudojamos operatyvinės veiklos subjektų patalpose ir transporto priemonėse tų pačių subjektų iniciatyva saugumui ir imunitetui užtikrinti, išskyrus patalpas, naudojamas įmonių, įstaigų ar organizacijų, įsteigtų pagal šio Įstatymo 7 straipsnio 3 dalies 2 punktą, taip pat pokalbių telefonu kontrolę.
+Straipsnio dalies pakeitimai:
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-964, 2010-06-30, Žin., 2010, Nr. 86-4521 (2010-07-20), i. k. 1101010ISTA00XI-964
  
@@ -295,18 +298,35 @@ Nr. IX-1222, 2002-12-05, Žin., 2002, Nr. 123-5515 (2002-12-24), i. k. 1021010IS
 
 4. Operatyvinės veiklos subjektai, esant šio Įstatymo 9 straipsnyje numatytiems operatyvinio tyrimo pagrindams, gavę šio Įstatymo 10, 11, 12 arba 13 straipsniuose nustatytą sankciją, turi teisę:
 
-1) slapta kontroliuoti pašto siuntas, dokumentų siuntas, pašto perlaidas bei jų dokumentus;
-
-2) specialia tvarka naudoti technines priemones ir gauti informaciją iš telekomunikacijų operatorių ir telekomunikacijų paslaugų teikėjų;
+1) slapta kontroliuoti pašto siuntas, dokumentų siuntas, pašto perlaidas ir jų dokumentus, gauti informaciją apie fizinio ar juridinio asmens ūkines, finansines operacijas, finansinių ir (ar) mokėjimo priemonių panaudojimą; 
 Straipsnio punkto pakeitimai:
-Nr. IX-1222, 2002-12-05, Žin., 2002, Nr. 123-5515 (2002-12-24), i. k. 1021010ISTA0IX-1222
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
  
 
-3) slaptai patekti į gyvenamąsias ir negyvenamąsias patalpas, transporto priemones bei jas apžiūrėti, laikinai paimti ir apžiūrėti dokumentus, imti tyrimui medžiagų, žaliavų ir produkcijos pavyzdžių bei kitų objektų neskelbdami apie jų paėmimą;
+2) specialia tvarka naudoti technines priemones ir gauti informaciją iš ūkio subjektų, teikiančių elektroninių ryšių tinklus ir (ar) paslaugas; 
+Straipsnio punkto pakeitimai:
+Nr. IX-1222, 2002-12-05, Žin., 2002, Nr. 123-5515 (2002-12-24), i. k. 1021010ISTA0IX-1222
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
+ 
 
-4) naudoti nusikalstamos veikos imitacijos modelį;
+3) gauti informaciją iš Lietuvos banko Vyriausybės suderinus su Lietuvos banku nustatyta tvarka, o iš komercinių bankų, kitų kredito ir finansų įstaigų, taip pat kitų juridinių asmenų – Vyriausybės nustatyta tvarka; 
+Papildyta straipsnio punktu:
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
+ 
 
-5) atlikti kontroliuojamąjį gabenimą.
+4) slaptai patekti į gyvenamąsias ir negyvenamąsias patalpas, transporto priemones bei jas apžiūrėti, laikinai paimti ir apžiūrėti dokumentus, imti tyrimui medžiagų, žaliavų ir produkcijos pavyzdžių bei kitų objektų neskelbdami apie jų paėmimą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
+ 
+
+5) naudoti nusikalstamos veikos imitacijos modelį;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
+ 
+
+6) atlikti kontroliuojamąjį gabenimą.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
  
 
 8 straipsnis. Operatyvinės veiklos subjektų pareigos
@@ -334,9 +354,10 @@ OPERATYVINIS TYRIMAS
 
 Operatyvinis tyrimas atliekamas, kai:
 
-1) nusikalstamos veikos požymiai nėra nustatyti, bet turima informacijos apie rengiamą, daromą ar padarytą labai sunkų ar sunkų nusikaltimą arba apie apysunkius nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 131 straipsnyje, 145 straipsnio 2 dalyje, 146 straipsnio 2 ir 3 dalyse, 150 straipsnio 1 dalyje, 151 straipsnio 2 dalyje, 162 straipsnyje, 178 straipsnio 2 dalyje, 180 straipsnio 1 dalyje, 181 straipsnio 1 dalyje, 187 straipsnio 2 dalyje, 189 straipsnio 2 dalyje, 198 straipsnio 2 dalyje, 213 straipsnio 1 dalyje, 214 ir 215 straipsniuose, 225 straipsnio 2 dalyje, 227 straipsnio 2 dalyje, 228 straipsnio 2 dalyje, 240 straipsnyje, 253 straipsnio 1 dalyje, 256 straipsnio 1 dalyje, 300 straipsnio 2 dalyje, 301 straipsnio 2 dalyje, 302 straipsnio 2 dalyje, 307 straipsnio 1 ir 2 dalyse, arba apie nusikaltimą rengiantį, darantį ar padariusį asmenį; 
+1) nusikalstamos veikos požymiai nėra nustatyti, bet turima informacijos apie rengiamą, daromą ar padarytą labai sunkų ar sunkų nusikaltimą arba apie apysunkius nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 131 straipsnyje, 145 straipsnio 2 dalyje, 146 straipsnio 2 ir 3 dalyse, 151 straipsnio 2 dalyje, 162 straipsnyje, 178 straipsnio 2 dalyje, 180 straipsnio 1 dalyje, 181 straipsnio 1 dalyje, 187 straipsnio 2 dalyje, 189 straipsnio 2 dalyje, 1891 straipsnio 1 dalyje, 198 straipsnio 2 dalyje, 213 straipsnio 1 dalyje, 214 ir 215 straipsniuose, 225 straipsnio 1 dalyje, 226 straipsnio 1 ir 2 dalyse, 227 straipsnio 1 ir 2 dalyse, 228 straipsnio 1 dalyje, 2281 straipsnyje, 240 straipsnyje, 253 straipsnio 1 dalyje, 256 straipsnio 1 dalyje, 300 straipsnio 2 ir 3 dalyse, 301 straipsnio 2 dalyje, 302 straipsnio 2 dalyje, 307 straipsnio 1 ir 2 dalyse, arba apie nusikaltimą rengiantį, darantį ar padariusį asmenį;
 Straipsnio punkto pakeitimai:
 Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
  
 
 2) yra informacijos apie kitų valstybių specialiųjų tarnybų veiklą;
@@ -355,55 +376,90 @@ Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010IST
 7) turima informacijos apie veikas, keliančias grėsmę valstybės konstitucinei santvarkai, jos nepriklausomybei, ekonominiam saugumui, valstybės gynybinės galios užtikrinimui ar kitiems svarbiems nacionalinio saugumo interesams.
  
 
-10 straipsnis. Pašto siuntų, dokumentų siuntų, pašto perlaidų bei jų dokumentų slapta kontrolė, techninių priemonių naudojimas specialia tvarka ir informacijos gavimas iš telekomunikacijų operatorių ir telekomunikacijų paslaugų teikėjų
+10 straipsnis. Pašto siuntų, dokumentų siuntų, pašto perlaidų ir jų dokumentų, fizinio ar juridinio asmens ūkinių, finansinių operacijų, finansinių ir (ar) mokėjimo priemonių panaudojimo slapta kontrolė, techninių priemonių naudojimas specialia tvarka ir informacijos gavimas iš ūkio subjektų, teikiančių elektroninių ryšių tinklus ir (ar) paslaugas, Lietuvos banko, komercinių bankų, kitų kredito ir finansų įstaigų, taip pat kitų juridinių asmenų 
+Pakeistas straipsnio pavadinimas:
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
+ 
 
-1. Pašto siuntų, dokumentų siuntų, pašto perlaidų ir jų dokumentų slaptą kontrolę, techninių priemonių naudojimą specialia tvarka sankcionuoja apygardų teismų pirmininkai, šių teismų Baudžiamųjų bylų skyrių pirmininkai ir (ar) Vilniaus apygardos teismo pirmininko pavedimu du Baudžiamųjų bylų skyriaus teisėjai pagal generalinio prokuroro ar jo įgalioto generalinio prokuroro pavaduotojo arba apygardų prokuratūrų vyriausiųjų prokurorų ar jų įgaliotų vyriausiųjų prokurorų pavaduotojų motyvuotus teikimus, parengtus pagal operatyvinės veiklos subjektų vadovų ar jų įgaliotų vadovų pavaduotojų pateiktus duomenis. 
+1. Pašto siuntų, dokumentų siuntų, pašto perlaidų ir jų dokumentų, fizinio ar juridinio asmens ūkinių, finansinių operacijų, finansinių ir (ar) mokėjimo priemonių panaudojimo slaptą kontrolę, techninių priemonių naudojimą specialia tvarka sankcionuoja apygardų teismų pirmininkai ar jų įgalioti teisėjai pagal generalinio prokuroro ar jo įgaliotų Generalinės prokuratūros ar apygardų prokuratūrų prokurorų, koordinuojančių ir kontroliuojančių operatyvinių veiksmų teisėtumą, motyvuotus teikimus, parengtus pagal operatyvinės veiklos subjektų vadovų ar jų įgaliotų vadovų pavaduotojų pateiktus duomenis. 
 Straipsnio dalies pakeitimai:
 Nr. XI-479, 2009-11-12, Žin., 2009, Nr. 141-6202 (2009-11-28), i. k. 1091010ISTA00XI-479
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
  
 
 2. Neatidėliotinais atvejais, kai iškyla pavojus žmogaus gyvybei, sveikatai, nuosavybei, visuomenės ar valstybės saugumui, leidžiama atlikti šio straipsnio 1 dalyje nurodytus veiksmus remiantis šio straipsnio 1 dalyje išvardytų prokurorų nutarimu. Tokiu atveju prokuroras, priėmęs šį nutarimą, per 24 valandas šio straipsnio 1 dalyje nurodytam teisėjui pateikia teikimą dėl veiksmų teisėtumo ar pagrįstumo patvirtinimo motyvuota nutartimi. Jei terminas baigiasi poilsio ar švenčių dieną, teikimas pateikiamas kitą dieną po poilsio ar švenčių dienos. Teisėjui nepatvirtinus minėtų veiksmų pagrįstumo motyvuota nutartimi, jie nutraukiami, o jų metu gauta informacija nedelsiant sunaikinama.
 
 3. Konspiracijos tikslais motyvuota nutartis dėl šio straipsnio 1 dalyje nurodytų operatyvinių veiksmų atlikimo gali būti priimta bet kuriame apygardos teisme.
 
-4. Teikime nurodoma: 
+4. Teikime nurodoma:
 
 1) teikimą pateikusio pareigūno vardas, pavardė, pareigos;
 
-2) duomenys apie asmenis (vardas ir pavardė, asmens kodas), kuriems bus taikomi operatyviniai veiksmai arba objekto apibūdinimas; 
+2) turimi duomenys apie operatyvinės veiklos objektus;
 
-3) duomenys (motyvai), pagrindžiantys būtinumą atlikti operatyvinius veiksmus; 
+3) duomenys (motyvai), pagrindžiantys būtinumą atlikti operatyvinius veiksmus;
 
-4) telekomunikacijų tinklais perduodamos informacijos kontroliuojamo abonento numeris (kai siekiama kontroliuoti telekomunikacijų tinklais perduodamą informaciją);
+4) numatomos kontroliuoti fizinio ar juridinio asmens ūkinės, finansinės operacijos ir (ar) sąskaitos numeris, finansinės ir (ar) mokėjimo priemonės;
 
-5) numatomos kontroliuoti pašto siuntos, dokumentų siuntos, pašto perlaidos bei jų dokumentai (kai siekiama juos kontroliuoti);
+5) numatomos kontroliuoti pašto siuntos, dokumentų siuntos, pašto perlaidos ir jų dokumentai (kai siekiama juos kontroliuoti);
 
 6) operatyvinių veiksmų taikymo trukmė;
 
-7) siekiamas rezultatas.
+7) siekiamas rezultatas. 
 
-5. Pašto siuntų, dokumentų siuntų, pašto perlaidų bei jų dokumentų slapta kontrolė, techninių priemonių naudojimas specialia tvarka sankcionuojami ne ilgesniam kaip 3 mėnesių laikotarpiui. Šis laikotarpis gali būti pratęstas.
+Straipsnio dalies pakeitimai:
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
+ 
+
+5. Pašto siuntų, dokumentų siuntų, pašto perlaidų ir jų dokumentų, fizinio ar juridinio asmens ūkinių, finansinių operacijų, finansinių ir (ar) mokėjimo priemonių panaudojimo slapta kontrolė, techninių priemonių naudojimas specialia tvarka sankcionuojami ne ilgesniam kaip 3 mėnesių laikotarpiui. Šis laikotarpis gali būti pratęstas, tačiau ne daugiau kaip tris kartus iš eilės. Bendras laikotarpis negali būti ilgesnis negu 12 mėnesių. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
+ 
 
 6. Šio straipsnio 5 dalyje numatytas veiksmų pratęsimas sankcionuojamas ta pačia tvarka kaip ir šių veiksmų skyrimas. Pratęsimų skaičius neribojamas, tačiau kiekvienu atveju pratęsti galima ne ilgesniam nei šio straipsnio 5 dalyje nustatytam laikotarpiui.
 
-7. Priėmus motyvuotą nutartį dėl pašto siuntų, dokumentų siuntų, pašto perlaidų bei jų dokumentų slaptos kontrolės, techninių priemonių naudojimo specialia tvarka arba dėl šių veiksmų pratęsimo, operatyvinės veiklos subjekto vadovas ar jo įgaliotas vadovo pavaduotojas vieną nutarties egzempliorių nedelsdamas išsiunčia generaliniam prokurorui ar jo įgaliotam generalinio prokuroro pavaduotojui. 
+7. Priėmus motyvuotą nutartį dėl pašto siuntų, dokumentų siuntų, pašto perlaidų ir jų dokumentų, fizinio ar juridinio asmens ūkinių, finansinių operacijų, finansinių ir (ar) mokėjimo priemonių panaudojimo slaptos kontrolės, techninių priemonių naudojimo specialia tvarka arba dėl šių veiksmų pratęsimo, operatyvinės veiklos subjekto vadovas ar jo įgaliotas vadovo pavaduotojas vieną nutarties egzempliorių ne vėliau kaip kitą darbo dieną po nutarties gavimo išsiunčia generaliniam prokurorui ar jo įgaliotam generalinio prokuroro pavaduotojui. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
+ 
 
 8. Jei prokuroras atsisako teikti teikimą dėl veiksmų, nustatytų šio straipsnio 1 dalyje, sankcionavimo, operatyvinės veiklos subjekto vadovas ar jo įgaliotas vadovo pavaduotojas turi teisę kreiptis į aukštesnįjį prokurorą iš nurodytų šio straipsnio 1 dalyje, turintį įgaliojimus teikti teikimus sankcionuoti šiuos veiksmus. Prokuroro atsisakymas turi būti motyvuotas raštu. Sprendimą atsisakyti teikti teikimą sankcionuoti nurodytus veiksmus priėmęs prokuroras apie atsisakymą praneša generaliniam prokurorui ar jo įgaliotam generalinio prokuroro pavaduotojui. Aukštesniojo prokuroro sprendimas yra galutinis.
 
-9. Jei apygardos teismo Baudžiamųjų bylų skyriaus pirmininkas ar apygardos teismo pirmininko įgaliotas šio skyriaus teisėjas atsisako sankcionuoti šio straipsnio 1 dalyje nustatytus veiksmus, teikimą teikiantis prokuroras gali apskųsti sprendimą apygardos teismo pirmininkui. Apygardos teismo pirmininko sprendimas yra galutinis.
+9. Jei šio straipsnio 1 dalyje nurodytas teisėjas priima motyvuotą nutartį atsisakyti sankcionuoti šio straipsnio 1 dalyje nustatytus veiksmus, teikimą teikiantis prokuroras gali apskųsti sprendimą apygardos teismo pirmininkui. Apygardos teismo pirmininko sprendimas yra galutinis. 
 Straipsnio dalies pakeitimai:
 Nr. XI-479, 2009-11-12, Žin., 2009, Nr. 141-6202 (2009-11-28), i. k. 1091010ISTA00XI-479
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
  
 
-10. Teismui priėmus nutartį, o neatidėliotinais atvejais šio straipsnio 1 dalyje nurodytam prokurorui priėmus nutarimą, Vyriausybės įgaliota institucija praneša telekomunikacijų operatoriui ar telekomunikacijų paslaugų teikėjui apie jo tinkle vykdomą techninių priemonių panaudojimą specialia tvarka, nurodydama teikimo numerį, nutarties priėmimo datą ir nutartį priėmusį teismą, ar prokuroro nutarimo datą, jį priėmusį prokurorą bei operatyvinių veiksmų taikymo trukmę. Už pranešimo, skirto telekomunikacijų operatoriui ar telekomunikacijų paslaugų teikėjui, turinio atitikimą teismo nutarčiai įstatymų nustatyta tvarka atsako pranešimą teikiantis pareigūnas. Telekomunikacijų operatorius ar telekomunikacijų paslaugų teikėjas privalo sudaryti techninę galimybę vykdyti telekomunikacijos priemonėmis perduodamos informacijos kontrolę.
+10. Jei teismas priima nutartį, o neatidėliotinais atvejais šio straipsnio 1 dalyje nurodytas prokuroras priima nutarimą, Vyriausybės įgaliota institucija praneša ūkio subjektui, teikiančiam elektroninių ryšių tinklus ir (ar) paslaugas, apie jo tinkle vykdomą techninių priemonių panaudojimą specialia tvarka, nurodydama teikimo numerį, nutarties priėmimo datą ir nutartį priėmusį teismą ar prokuroro nutarimo datą, jį priėmusį prokurorą ir operatyvinių veiksmų taikymo trukmę. Už pranešimo, skirto ūkio subjektui, teikiančiam elektroninių ryšių tinklus ir (ar) paslaugas, turinio atitiktį teismo nutarčiai įstatymų nustatyta tvarka atsako pranešimą teikiantis pareigūnas. Ūkio subjektas, teikiantis elektroninių ryšių tinklus ir (ar) paslaugas, privalo sudaryti techninę galimybę atlikti elektroninių ryšių priemonėmis perduodamos informacijos kontrolę. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
+ 
 
-11. Į telekomunikacijų operatoriaus tinklą siunčiamos techninės komandos pradėti ar nutraukti pasiklausymą ar kitą telekomunikacijų tinklais perduodamos informacijos kontrolę saugomos taip, kad siųstų ir gautų komandų duomenų negalėtų pakeisti komandą siuntęs operatyvinės veiklos subjektas ar komandą gavęs telekomunikacijų operatorius. Vyriausybės įgaliota institucija privalo sudaryti galimybę generaliniam prokurorui ar jo įgaliotam prokurorui prieiti prie duomenų laikmenos, kurioje užfiksuotos šios komandos. 
+11. Į ūkio subjekto, teikiančio elektroninių ryšių tinklus ir (ar) paslaugas, tinklą siunčiamos techninės komandos pradėti ar nutraukti pasiklausymą ar kitą elektroninių ryšių tinklais perduodamos informacijos kontrolę saugomos taip, kad siųstų ir gautų komandų duomenų negalėtų pakeisti komandą siuntęs operatyvinės veiklos subjektas ar komandą gavęs ūkio subjektas, teikiantis elektroninių ryšių tinklus ir (ar) paslaugas. Vyriausybės įgaliota institucija privalo sudaryti galimybę generaliniam prokurorui ar jo įgaliotam prokurorui prieiti prie duomenų laikmenos, kurioje užfiksuotos šios komandos. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
+ 
 
-12. Operatyviniam tyrimui reikalingą konkrečią informaciją apie buvusius telekomunikacijų įvykius iš telekomunikacijų operatorių ir telekomunikacijų paslaugų teikėjų operatyvinės veiklos subjektai turi teisę gauti motyvuota apylinkės teismo teisėjo nutartimi, priimta pagal operatyvinės veiklos subjektų vadovų ar jų įgaliotų vadovų pavaduotojų motyvuotus teikimus. 
+12. Operatyviniam tyrimui reikalingą konkrečią informaciją apie buvusius elektroninių ryšių įvykius iš ūkio subjektų, teikiančių elektroninių ryšių tinklus ir (ar) paslaugas, taip pat informaciją apie konkrečias operacijas su sąskaitose esančiomis lėšomis iš Lietuvos banko, komercinių bankų, kitų kredito ir finansų įstaigų, taip pat kitų juridinių asmenų operatyvinės veiklos subjektai turi teisę gauti motyvuota apylinkės teismo pirmininko ar jo įgalioto teisėjo nutartimi, priimta pagal operatyvinės veiklos subjektų vadovų ar jų įgaliotų vadovų pavaduotojų motyvuotus teikimus. Neatidėliotinais atvejais, kai iškyla pavojus žmogaus gyvybei, sveikatai, nuosavybei, visuomenės ar valstybės saugumui, leidžiama atlikti šioje dalyje nurodytus veiksmus pagal operatyvinės veiklos subjektų vadovų ar jų įgaliotų vadovų pavaduotojų nutarimus. Tokiu atveju operatyvinės veiklos subjektų vadovai ar jų įgalioti vadovų pavaduotojai per 24 valandas apylinkės teismo pirmininkui ar jo įgaliotam teisėjui pateikia teikimą dėl veiksmų teisėtumo ar pagrįstumo patvirtinimo motyvuota nutartimi. Jeigu terminas baigiasi poilsio ar švenčių dieną, teikimas pateikiamas ne vėliau kaip kitą dieną po poilsio ar švenčių dienos. Jeigu teisėjas nepatvirtina nurodytų veiksmų pagrįstumo motyvuota nutartimi, gauta informacija nedelsiant sunaikinama. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
+ 
 
-13. Siekiant gauti šio straipsnio 12 dalyje nurodytą informaciją, telekomunikacijų operatoriams ar telekomunikacijų paslaugų teikėjams pateikiamas pranešimas, kuriame nurodomi teikimo numeris, nutarties priėmimo data ir nutartį priėmęs teismas. Už šio pranešimo turinio atitikimą teismo nutarčiai įstatymų nustatyta tvarka atsako pranešimą teikiantis pareigūnas. 
+13. Siekiant gauti šio straipsnio 12 dalyje nurodytą informaciją, ūkio subjektams, teikiantiems elektroninių ryšių tinklus ir (ar) paslaugas, Lietuvos bankui, komerciniams bankams, kitoms kredito ar finansų įstaigoms ar kitiems juridiniams asmenims pateikiamas pranešimas, kuriame nurodomi teikimo numeris, nutarties priėmimo data ir nutartį priėmęs teismas. Už šio pranešimo turinio atitiktį teismo nutarčiai įstatymų nustatyta tvarka atsako pranešimą teikiantis pareigūnas. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
+ 
 
-14. Informacijai, tiesiogiai susijusiai su abonentų turimais telefono numeriais ar tinklo galiniais įrenginiais, telefono numerio ar tinklo galinio įrenginio priklausomybe, gauti teismo nutartis nereikalinga. Konkreti informacija apie telekomunikacijų įvykius, tiesiogiai susijusius su asmeniu, gali būti renkama ir šio asmens prašymu ar sutikimu. Ši informacija teikiama pagal operatyvinės veiklos subjektų pareigūnų prašymus. Kai dėl informacijos kreipiamasi asmens prašymu ar sutikimu, pateikiamas ir šio asmens prašymo ar sutikimo nuorašas, patvirtintas prašymą pateikti informaciją pateikiančio pareigūno.
+14. Informacijai, tiesiogiai susijusiai su abonentų turimais telefono numeriais ar tinklo galiniais įrenginiais, telefono numerio ar tinklo galinio įrenginio priklausomybe, su fizinio ar juridinio asmens sąskaitų numeriais ar banko sąskaitų arba finansinių ir (ar) mokėjimo priemonių priklausomybe bei asmenimis, kuriems suteikta teisė ja disponuoti, gauti teisės aktų nustatyta tvarka teismo nutartis nereikalinga. Konkreti informacija apie elektroninių ryšių įvykius, ūkines, finansines operacijas, finansinių ir (ar) mokėjimo priemonių panaudojimą, tiesiogiai susijusius su asmeniu, gali būti renkama ir šio asmens prašymu ar sutikimu. Ši informacija teikiama pagal operatyvinės veiklos subjektų pareigūnų prašymus. Kai dėl informacijos kreipiamasi asmens prašymu ar sutikimu, pateikiamas ir šio asmens prašymo ar sutikimo nuorašas, patvirtintas prašymą pateikti informaciją pateikiančio pareigūno. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
+ 
+
+15. Operatyvinės veiklos subjekto vadovas ar jo įgaliotas vadovo pavaduotojas nustatyta tvarka praneša šio straipsnio 1 dalyje nurodytam prokurorui apie operatyvinės veiklos subjekto per teismo sankcionuotą laikotarpį nustatytus ir pradėtus slapta kontroliuoti asmens naudojamus abonento numerius, tinklo galinius įrenginius, sąskaitas, finansines ir (ar) mokėjimo priemones. Operatyvinės veiklos subjekto pranešime nurodoma teismo nutarties data, numeris, sankcijos terminas, duomenys apie asmenį, pradėtus slapta kontroliuoti abonento numerius, tinklo galinius įrenginius, finansines ir (ar) mokėjimo priemones. Pranešimas išsiunčiamas ne vėliau kaip per 24 valandas po to, kai operatyvinės veiklos subjekto vadovo ar jo įgalioto pavaduotojo sprendimu pradėta abonento numerių, tinklo galinių įrenginių, sąskaitų, finansinių ir (ar) mokėjimo priemonių slapta kontrolė ir fiksavimas. Jeigu terminas baigiasi poilsio ar švenčių dieną, pranešimas išsiunčiamas ne vėliau kaip kitą dieną po poilsio ar švenčių dienos.
+Papildyta straipsnio dalimi:
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
+ 
 
 Straipsnio pakeitimai:
 Nr. IX-1222, 2002-12-05, Žin., 2002, Nr. 123-5515 (2002-12-24), i. k. 1021010ISTA0IX-1222
@@ -411,10 +467,11 @@ Nr. IX-1222, 2002-12-05, Žin., 2002, Nr. 123-5515 (2002-12-24), i. k. 1021010IS
 
 11 straipsnis. Slaptas patekimas į gyvenamąsias ir negyvenamąsias patalpas, transporto priemones bei jų apžiūra, laikinas dokumentų paėmimas ir apžiūra, medžiagų, žaliavų ir produkcijos pavyzdžių bei kitų objektų paėmimas tirti neskelbiant apie jų paėmimą
 
-1. Slaptą patekimą į gyvenamąsias ir negyvenamąsias patalpas, transporto priemones, taip pat jų apžiūrą, laikiną dokumentų paėmimą ir apžiūrą, medžiagų, žaliavų ir produkcijos pavyzdžių bei kitų objektų paėmimą tirti neskelbiant apie jų paėmimą sankcionuoja apygardų teismų pirmininkai, šių teismų Baudžiamųjų bylų skyrių pirmininkai ir (ar) Vilniaus apygardos teismo pirmininko pavedimu du Baudžiamųjų bylų skyriaus teisėjai pagal generalinio prokuroro ar jo įgalioto generalinio prokuroro pavaduotojo arba apygardų prokuratūrų vyriausiųjų prokurorų ar jų įgaliotų vyriausiųjų prokurorų pavaduotojų motyvuotus teikimus, parengtus pagal operatyvinės veiklos subjektų vadovų ar jų įgaliotų vadovų pavaduotojų pateiktus duomenis. 
+1. Slaptą patekimą į gyvenamąsias ir negyvenamąsias patalpas, transporto priemones, taip pat jų apžiūrą, laikiną dokumentų paėmimą ir apžiūrą, medžiagų, žaliavų ir produkcijos pavyzdžių ir kitų objektų paėmimą tirti neskelbiant apie jų paėmimą motyvuota nutartimi sankcionuoja apygardų teismų pirmininkai ar jų įgalioti teisėjai pagal generalinio prokuroro ar jo įgaliotų Generalinės prokuratūros ar apygardų prokuratūrų prokurorų, koordinuojančių ir kontroliuojančių operatyvinių veiksmų teisėtumą, motyvuotus teikimus, parengtus pagal operatyvinės veiklos subjektų vadovų ar jų įgaliotų vadovų pavaduotojų pateiktus duomenis. 
 Straipsnio dalies pakeitimai:
 Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
 Nr. XI-479, 2009-11-12, Žin., 2009, Nr. 141-6202 (2009-11-28), i. k. 1091010ISTA00XI-479
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
  
 
 2. Neatidėliotinais atvejais, kai iškyla pavojus žmogaus gyvybei, sveikatai, nuosavybei, visuomenės ar valstybės saugumui, leidžiama atlikti šio straipsnio 1 dalyje nurodytus veiksmus remiantis šio straipsnio 1 dalyje išvardytų prokurorų nutarimu. Tokiu atveju prokuroras, priėmęs šį nutarimą, per 24 valandas šio straipsnio 1 dalyje nurodytam teisėjui pateikia teikimą dėl veiksmų teisėtumo ar pagrįstumo patvirtinimo motyvuota nutartimi. Jei terminas baigiasi poilsio ar švenčių dieną, teikimas pateikiamas kitą dieną po poilsio ar švenčių dienos. Teisėjui nepatvirtinus minėtų veiksmų teisėtumo ar pagrįstumo, jie nutraukiami, o jų metu gauta informacija nedelsiant sunaikinama. 
@@ -443,17 +500,19 @@ Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010IST
 
 6. Šio straipsnio 5 dalyje numatytas veiksmų pratęsimas sankcionuojamas ta pačia tvarka kaip ir šių veiksmų skyrimas. Pratęsimų skaičius neribojamas, tačiau kiekvienu atveju pratęsti galima ne ilgesniam nei šio straipsnio 5 dalyje nustatytam laikotarpiui.
 
-7. Priėmus motyvuotą nutartį dėl slapto patekimo į gyvenamąsias ir negyvenamąsias patalpas, transporto priemones bei jų apžiūros, laikino dokumentų paėmimo ir apžiūros, medžiagų, žaliavų ir produkcijos pavyzdžių bei kitų objektų paėmimo tirti neskelbiant apie jų paėmimą arba dėl šių veiksmų pratęsimo, operatyvinės veiklos subjekto vadovas ar jo įgaliotas vadovo pavaduotojas vieną motyvuotos teismo nutarties egzempliorių nedelsdamas išsiunčia generaliniam prokurorui arba jo įgaliotam generalinio prokuroro pavaduotojui. 
+7. Priėmus motyvuotą nutartį dėl slapto patekimo į gyvenamąsias ir negyvenamąsias patalpas, transporto priemones ir jų apžiūros, laikino dokumentų paėmimo ir apžiūros, medžiagų, žaliavų ir produkcijos pavyzdžių ir kitų objektų paėmimo tirti neskelbiant apie jų paėmimą arba dėl šių veiksmų pratęsimo, operatyvinės veiklos subjekto vadovas ar jo įgaliotas vadovo pavaduotojas vieną motyvuotos teismo nutarties egzempliorių ne vėliau kaip kitą darbo dieną po nutarties gavimo išsiunčia generaliniam prokurorui arba jo įgaliotam generalinio prokuroro pavaduotojui. 
 Straipsnio dalies pakeitimai:
 Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
  
 
 8. Jei prokuroras atsisako teikti teikimą dėl šio straipsnio 1 dalyje nustatytų veiksmų sankcionavimo, operatyvinės veiklos subjekto vadovas ar jo įgaliotas vadovo pavaduotojas turi teisę kreiptis į aukštesnįjį prokurorą iš nurodytų šio straipsnio 1 dalyje, turintį įgaliojimus teikti teikimus sankcionuoti šiuos veiksmus. Prokuroro atsisakymas turi būti motyvuotas raštu. Sprendimą atsisakyti teikti teikimą sankcionuoti nurodytus veiksmus priėmęs prokuroras apie atsisakymą praneša generaliniam prokurorui ar jo įgaliotam generalinio prokuroro pavaduotojui. Aukštesniojo prokuroro sprendimas yra galutinis.
 
-9. Jei apygardos teismo Baudžiamųjų bylų skyriaus pirmininkas ar apygardos teismo pirmininko įgaliotas šio skyriaus teisėjas atsisako sankcionuoti šio straipsnio 1 dalyje nustatytus veiksmus, teikimą teikiantis prokuroras gali apskųsti sprendimą apygardos teismo pirmininkui. Apygardos teismo pirmininko sprendimas yra galutinis.
+9. Jei šio straipsnio 1 dalyje nurodytas teisėjas priima motyvuotą nutartį atsisakyti sankcionuoti šio straipsnio 1 dalyje nustatytus veiksmus, teikimą teikiantis prokuroras gali apskųsti sprendimą apygardos teismo pirmininkui. Apygardos teismo pirmininko sprendimas yra galutinis.
 Straipsnio dalies pakeitimai:
 Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
 Nr. XI-479, 2009-11-12, Žin., 2009, Nr. 141-6202 (2009-11-28), i. k. 1091010ISTA00XI-479
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
  
 
 10. Draudžiama atlikti šiame straipsnyje nustatytus operatyvinius veiksmus, kurie kelia tiesioginį pavojų žmogaus gyvybei, sveikatai arba gali sukelti kitų sunkių pasekmių.
@@ -461,7 +520,10 @@ Nr. XI-479, 2009-11-12, Žin., 2009, Nr. 141-6202 (2009-11-28), i. k. 1091010IST
 
 12 straipsnis. Nusikalstamos veikos imitacijos modelis
 
-1. Nusikalstamos veikos imitacijos modelį sankcionuoja generalinis prokuroras ar jo įgaliotas generalinio prokuroro pavaduotojas arba apygardų prokuratūrų vyriausieji prokurorai ar jų įgalioti vyriausiųjų prokurorų pavaduotojai pagal operatyvinės veiklos subjekto vadovo ar jo įgalioto vadovo pavaduotojo motyvuotą teikimą.
+1. Nusikalstamos veikos imitacijos modelį sankcionuoja generalinis prokuroras ar jo įgalioti Generalinės prokuratūros ar apygardų prokuratūrų prokurorai, koordinuojantys ir kontroliuojantys operatyvinių veiksmų teisėtumą, pagal operatyvinės veiklos subjekto vadovo ar jo įgalioto vadovo pavaduotojo motyvuotą teikimą. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
+ 
 
 2. Teikime nurodoma:
 
@@ -483,7 +545,10 @@ Nr. XI-479, 2009-11-12, Žin., 2009, Nr. 141-6202 (2009-11-28), i. k. 1091010IST
 
 4. Šio straipsnio 3 dalyje numatytas nusikalstamos veikos imitacijos modelio pratęsimas sankcionuojamas ta pačia tvarka kaip ir nusikalstamos veikos imitacijos modelio skyrimas. Pratęsimų skaičius neribojamas, tačiau kiekvienu atveju pratęsti galima ne ilgesniam nei šio straipsnio 3 dalyje nustatytam laikotarpiui.
 
-5. Sankcionavus nusikalstamos veikos imitacijos modelį arba jo pratęsimą, operatyvinės veiklos subjekto vadovas arba jo įgaliotas vadovo pavaduotojas vieną teikimo egzempliorių nedelsdamas išsiunčia generaliniam prokurorui arba jo įgaliotam generalinio prokuroro pavaduotojui.
+5. Sankcionavus nusikalstamos veikos imitacijos modelį arba jo pratęsimą, operatyvinės veiklos subjekto vadovas arba jo įgaliotas vadovo pavaduotojas vieną teikimo egzempliorių ne vėliau kaip kitą darbo dieną po sankcionavimo išsiunčia generaliniam prokurorui arba jo įgaliotam generalinio prokuroro pavaduotojui.
+Straipsnio dalies pakeitimai:
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
+ 
 
 6. Jei prokuroras atsisako sankcionuoti šio straipsnio 1 dalyje nustatytus veiksmus, operatyvinės veiklos subjekto vadovas ar jo įgaliotas vadovo pavaduotojas turi teisę kreiptis dėl teikimo sankcionavimo į aukštesnįjį prokurorą iš nurodytų šio straipsnio 1 dalyje, turintį įgaliojimus sankcionuoti šiuos veiksmus. Prokuroro atsisakymas turi būti motyvuotas raštu. Sprendimą atsisakyti sankcionuoti nurodytus veiksmus priėmęs prokuroras apie atsisakymą praneša generaliniam prokurorui ar jo įgaliotam generalinio prokuroro pavaduotojui. Aukštesniojo prokuroro sprendimas yra galutinis.
 
@@ -492,7 +557,10 @@ Nr. XI-479, 2009-11-12, Žin., 2009, Nr. 141-6202 (2009-11-28), i. k. 1091010IST
 
 13 straipsnis. Kontroliuojamasis gabenimas
 
-1. Kontroliuojamąjį gabenimą sankcionuoja generalinis prokuroras ar jo įgaliotas generalinio prokuroro pavaduotojas arba apygardų prokuratūrų vyriausieji prokurorai ar jų įgalioti vyriausiųjų prokurorų pavaduotojai pagal operatyvinės veiklos subjekto vadovo ar jo įgalioto vadovo pavaduotojo motyvuotą teikimą.
+1. Kontroliuojamąjį gabenimą sankcionuoja generalinis prokuroras ar jo įgalioti Generalinės prokuratūros ar apygardų prokuratūrų prokurorai, koordinuojantys ir kontroliuojantys operatyvinių veiksmų teisėtumą, pagal operatyvinės veiklos subjekto vadovo ar jo įgalioto vadovo pavaduotojo motyvuotą teikimą. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
+ 
 
 2. Teikime nurodoma:
 
@@ -508,7 +576,10 @@ Nr. XI-479, 2009-11-12, Žin., 2009, Nr. 141-6202 (2009-11-28), i. k. 1091010IST
 
 6) siekiamas rezultatas, taip pat kontroliuojamojo gabenimo tarpiniai ir galutiniai tikslai.
 
-3. Sankcionavus kontroliuojamąjį gabenimą, operatyvinės veiklos subjekto vadovas ar jo įgaliotas vadovo pavaduotojas vieną teikimo egzempliorių nedelsdamas išsiunčia generaliniam prokurorui arba jo įgaliotam generalinio prokuroro pavaduotojui.
+3. Sankcionavus kontroliuojamąjį gabenimą, operatyvinės veiklos subjekto vadovas ar jo įgaliotas vadovo pavaduotojas vieną teikimo egzempliorių ne vėliau kaip kitą darbo dieną po sankcionavimo išsiunčia generaliniam prokurorui arba jo įgaliotam generalinio prokuroro pavaduotojui.
+Straipsnio dalies pakeitimai:
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
+ 
 
 4. Jei prokuroras atsisako sankcionuoti šio straipsnio 1 dalyje nustatytus veiksmus, operatyvinės veiklos subjekto vadovas ar jo įgaliotas vadovo pavaduotojas turi teisę kreiptis dėl teikimo sankcionavimo į aukštesnįjį prokurorą iš nurodytų šio straipsnio 1 dalyje, turintį įgaliojimus sankcionuoti šiuos veiksmus. Prokuroro atsisakymas turi būti motyvuotas raštu. Sprendimą atsisakyti sankcionuoti nurodytus veiksmus priėmęs prokuroras apie atsisakymą praneša generaliniam prokurorui ar jo įgaliotam generalinio prokuroro pavaduotojui. Aukštesniojo prokuroro sprendimas yra galutinis.
 
@@ -619,7 +690,10 @@ OPERATYVINĖS VEIKLOS KONTROLĖ, KOORDINAVIMAS IR PRIEŽIŪRA
 
 21 straipsnis. Operatyvinių veiksmų koordinavimas ir teisėtumo kontrolė
 
-Operatyvinės veiklos subjektų operatyvinius veiksmus koordinuoja ir jų teisėtumą kontroliuoja generalinis prokuroras ir jo įgaliotas generalinio prokuroro pavaduotojas, apygardų prokuratūrų vyriausieji prokurorai bei šių prokurorų įgalioti vyriausiųjų prokurorų pavaduotojai, rengdami motyvuotus teikimus, numatytus šio Įstatymo 10 ir 11 straipsniuose, sankcionuodami ar atsisakydami sankcionuoti veiksmus, nustatytus šio Įstatymo 12 ir 13 straipsniuose, ir gaudami informaciją apie veiksmų, nustatytų šio Įstatymo 10, 11, 12 ir 13 straipsniuose, atlikimo eigą ir rezultatus bei tirdami asmenų skundus dėl operatyvinės veiklos subjektų veiksmų.
+Operatyvinės veiklos subjektų operatyvinius veiksmus koordinuoja ir jų teisėtumą kontroliuoja generalinis prokuroras ar jo įgalioti Generalinės prokuratūros ar apygardų prokuratūrų prokurorai, rengdami motyvuotus teikimus, numatytus šio Įstatymo 10 ir 11 straipsniuose, sankcionuodami ar atsisakydami sankcionuoti veiksmus, nustatytus šio Įstatymo 12 ir 13 straipsniuose, ir gaudami informaciją apie veiksmų, nustatytų šio Įstatymo 10, 11, 12 ir 13 straipsniuose, atlikimo eigą ir rezultatus, ir tirdami asmenų skundus dėl operatyvinės veiklos subjektų veiksmų. Generalinis prokuroras nustato šio Įstatymo 10, 11, 12 ir 13 straipsniuose nustatytų veiksmų koordinavimo ir teisėtumo kontrolės tvarką.
+
+Straipsnio pakeitimai:
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
  
 
 22 straipsnis. Vyriausybės kontrolė
@@ -657,9 +731,10 @@ Nr. IX-1563, 2003-05-20, Žin., 2003, Nr. 54-2369 (2003-06-04), i. k. 1031010IST
 
 2) savo darbe pasitelkti profesionalius ekspertus, turinčius leidimus susipažinti su valstybės paslaptį sudarančia informacija;
 
-3) reikalauti ir gauti iš valstybės ir savivaldybių institucijų, organizacijų, operatyvinės veiklos subjektų, telekomunikacijų operatorių ir telekomunikacijų paslaugų teikėjų dokumentų, paaiškinimų ir kitos informacijos, reikalingos kontrolei atlikti;
+3) reikalauti ir gauti iš valstybės ir savivaldybių institucijų, organizacijų, operatyvinės veiklos subjektų, ūkio subjektų, teikiančių elektroninių ryšių tinklus ir (ar) paslaugas, dokumentų, paaiškinimų ir kitos informacijos, reikalingos kontrolei atlikti;
 Straipsnio punkto pakeitimai:
 Nr. IX-1222, 2002-12-05, Žin., 2002, Nr. 123-5515 (2002-12-24), i. k. 1021010ISTA0IX-1222
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
  
 
 4) kviesti į posėdžius pareigūnus, kitus asmenis, juos išklausyti bei reikalauti iš pareigūnų, kad būtų pateikti žodiniai ar rašytiniai paaiškinimai dėl šio Įstatymo bei kitų teisės aktų reikalavimų nevykdymo arba pažeidimo.
@@ -730,7 +805,7 @@ Pakeitimai:
  
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-2002-09-19, Žin., 2002, Nr. 93-4000 (2002-09-25), i. k. 1021000NUTARG023218                
+2002-09-19, Žin., 2002, Nr. 93-4000 (2002-09-25), i. k. 1021000NUTARG023218                
 Dėl Lietuvos Respublikos telekomunikacijų įstatymo (2000 m. liepos 11 d. redakcija) 27 straipsnio 2 dalies, Lietuvos Respublikos telekomunikacijų įstatymo 27 straipsnio pakeitimo įstatymo 2 straipsnio 1 dalies, Lietuvos Respublikos telekomunikacijų įstatymo (2002 m. liepos 5 d. redakcija) 57 straipsnio 4 dalies, Lietuvos Respublikos operatyvinės veiklos įstatymo (1997 m. gegužės 22 d. redakcija) 7 straipsnio 3 dalies 4 punkto, Lietuvos Respublikos operatyvinės veiklos įstatymo (2002 m. birželio 20 d. redakcija) 7 straipsnio 3 dalies 6 punkto, Lietuvos Respublikos baudžiamojo proceso kodekso 48 straipsnio 1 dalies (1961 m. birželio 26 d. redakcija) ir 75 straipsnio 1 dalies (1975 m. sausio 29 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai
  
 2.
@@ -762,4 +837,9 @@ Lietuvos Respublikos operatyvinės veiklos įstatymo 3, 17 straipsnių ir penkto
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-957, 2010-06-30, Žin., 2010, Nr. 86-4515 (2010-07-20), i. k. 1101010ISTA00XI-957
 Lietuvos Respublikos operatyvinės veiklos įstatymo 15 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
+Lietuvos Respublikos operatyvinės veiklos įstatymo 3, 7, 9, 10, 11, 12, 13, 21, 23 straipsnių pakeitimo ir papildymo įstatymas
 
