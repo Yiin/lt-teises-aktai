@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2CCC6F1CC7CE"
 
 # Dėl kai kurių Lietuvos Respublikos įstatymų, reglamentuojančių įmonių veiklą, pakeitimo ir papildymo
 
-Suvestinė redakcija nuo 2004-01-01 iki 2011-06-03
+Suvestinė redakcija nuo 2011-06-04
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 62-1169, i. k. 0931010ISTA000I-300
  
@@ -33,16 +33,10 @@ Pakeisti ir papildyti kai kuriuos Lietuvos Respublikos įstatymus, reglamentuoja
 
 
 
-1. Lietuvos Respublikos įstatymo „Dėl ūkinių subjektų piniginių lėšų skolinimo fiziniams bei juridiniams asmenims“ (Žin., 1993, Nr. 31-714) 3 straipsnį išdėstyti taip:
-
-
-
-
-„3 straipsnis. Valstybinė mokesčių inspekcija turi tikrinti, ar ūkiniai subjektai nepažeidžia šio įstatymo, ir teikti įmonių rejestro tvarkytojams pasiūlymus dėl įregistravimo atšaukimo.“
-
-
-
-
+1. Neteko galios nuo 2011-06-04
+Punkto naikinimas:
+Nr. XI-1387, 2011-05-19, Žin. 2011, Nr. 68-3218 (2011-06-04), i. k. 1111010ISTA0XI-1387
+ 
 
 
 
@@ -134,3 +128,8 @@ Lietuvos Respublikos ūkinių bendrijų įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1890, 2003-12-11, Žin., 2003, Nr. 123-5575 (2003-12-30), i. k. 1031010ISTA0IX-1890
 Lietuvos Respublikos įmonių rejestro įstatymo, jį keitusių, papildžiusių bei su juo susijusių įstatymų pripažinimo netekusiais galios įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1387, 2011-05-19, Žin., 2011, Nr. 68-3218 (2011-06-04), i. k. 1111010ISTA0XI-1387
+Lietuvos Respublikos įstatymo "Dėl kai kurių Lietuvos Respublikos įstatymų, reglamentuojančių įmonių veiklą, pakeitimo ir papildymo" 1 dalies pripažinimo netekusia galios įstatymas
