@@ -163,12 +163,8 @@ arba kartu su kitomis įgaliotomis valstybės ar savivaldybių institucijomis
 ar įstaigomis rengia ir įgyvendina priemones valstybei pavojingoms veikoms
 užkirsti energetikos, svarbiausių komunikacijų, ryšių bei kituose strateginę
 reikšmę nacionaliniam saugumui turinčiuose objektuose;
-5) tiria Saugumo
-departamento kompetencijai priskirtus nusikaltimus ir kitus teisės pažeidimus,
-vykdo asmenų, įtariamų padarius tokius teisės pažeidimus, paiešką;
-5
-punktas netenka galios nuo 2011 m. vasario 1 d.
- 
+5) (neteko galios
+nuo 2011 m. vasario 1 d.);
 6) tiria asmenų
 veikas, dėl kurių gali būti padaryta arba daroma žala valstybės saugumui, jos
 ekonominiams ir strateginiams interesams;
@@ -205,9 +201,9 @@ Lietuvos Respublikos Konstitucijos ir įstatymų, nevaržyti kitų žmonių teis
 laisvių, nedaryti kitų teisės pažeidimų ir supažindinimas su galimomis
 teisinėmis pasekmėmis.
 Oficialus įspėjimas gali būti
-taikomas, kai iš nustatyta tvarka gautų duomenų yra pakankamas pagrindas
-manyti, kad asmuo gali daryti teisės pažeidimus, galinčius pakenkti valstybės
-saugumo interesams.
+taikomas, kai iš nustatyta tvarka gautų duomenų yra pakankamas pagrindas manyti,
+kad asmuo gali daryti teisės pažeidimus, galinčius pakenkti valstybės saugumo
+interesams.
 Oficialų įspėjimą asmeniui turi
 teisę pareikšti Saugumo departamento generalinis direktorius, jo pavaduotojai,
 centrinio aparato valdybų ir skyrių viršininkai arba teritorinių įstaigų
@@ -250,6 +246,8 @@ Nr.
 X-1741,
 2008-10-06, Žin., 2008, Nr. 120-4548 (2008-10-18)
  
+[10
+straipsnio redakcija iki 2012-01-01]
             10
 straipsnis. Saugumo departamento vadovybė
 Saugumo
@@ -264,20 +262,51 @@ pavaduotojus skiria ir atleidžia Respublikos Prezidentas generalinio
 direktoriaus teikimu.
             Saugumo departamente
 sudaroma kolegija. Saugumo departamento kolegija yra generalinio direktoriaus
-patariamoji institucija. Jos veiklą reglamentuoja Saugumo departamento
+patariamoji institucija. Jos veiklą reglamentuoja Saugumo departamento kolegijos
+nuostatai, kuriuos tvirtina Saugumo departamento generalinis direktorius, o
+pagrindinius veiklos principus nustato Saugumo departamento statutas. 
+[10
+straipsnio redakcija nuo 2012-01-01]
+10 straipsnis. Saugumo departamento vadovybė ir
+struktūrinių padalinių vadovai 
+Saugumo
+departamentui vadovauja generalinis direktorius, kurį 5 metų kadencijai Seimo
+pritarimu skiria ir atleidžia Respublikos Prezidentas. Generalinis direktorius
+šias pareigas gali eiti ne daugiau kaip dvi kadencijas iš eilės.
+Nesibaigus
+kadencijai, Saugumo departamento generalinis direktorius ir jo pavaduotojai
+gali būti atleisti iš pareigų Valstybės saugumo departamento statute
+nustatytais bendraisiais saugumo pareigūnų atleidimo iš tarnybos pagrindais.
+Generalinio
+direktoriaus pavaduotojus 5 metų kadencijai skiria ir atleidžia Respublikos
+Prezidentas generalinio direktoriaus teikimu. Generalinio direktoriaus
+pavaduotojai šias pareigas gali eiti ne daugiau kaip dvi kadencijas iš eilės.
+Į statutines
+Saugumo departamento centrinio aparato struktūrinių padalinių, nesančių kitame
+struktūriniame padalinyje, Saugumo departamento teritorinių įstaigų, specialios
+paskirties įstaigų prie Saugumo departamento ir šių įstaigų struktūrinių
+padalinių, nesančių kitame struktūriniame padalinyje, vadovų ir jų pavaduotojų
+pareigas asmenys skiriami 5 metų laikotarpiui. Į šias pareigas asmenys 5 metų
+tarnybos laikotarpiui gali būti skiriami pakartotinai, tačiau tų pačių pareigų
+negali eiti ilgiau kaip 10 metų iš eilės.
+Saugumo departamente sudaroma kolegija. Saugumo
+departamento kolegija yra Saugumo departamento generalinio direktoriaus
+patariamoji institucija. Kolegijos veiklą reglamentuoja Saugumo departamento
 kolegijos nuostatai, kuriuos tvirtina Saugumo departamento generalinis
 direktorius, o pagrindinius veiklos principus nustato Saugumo departamento
-statutas. 
+statutas.
 Straipsnio
 pakeitimai:
 Nr. X-1159,
 2007-06-05, Žin., 2007, Nr. 67-2601 (2007-06-16)
+Nr. XI-1388,
+2011-05-19, Žin., 2011, Nr. 68-3219 (2011-06-04)
  
             11
 straipsnis. Saugumo departamento teritorinės įstaigos
-            Saugumo departamento funkcijoms
-vykdyti, atsižvelgiant į Lietuvos Respublikos administracinį teritorinį
-suskirstymą, steigiamos Saugumo departamento teritorinės įstaigos. 
+            Saugumo departamento
+funkcijoms vykdyti, atsižvelgiant į Lietuvos Respublikos administracinį
+teritorinį suskirstymą, steigiamos Saugumo departamento teritorinės įstaigos. 
  
 12 straipsnis. Specialios paskirties įstaiga prie Saugumo departamento
 Saugumo
@@ -293,11 +322,11 @@ Vyriausybinio
 ryšio paslaugas valstybės ir savivaldybių institucijoms, valstybės įstaigoms ir
 Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių
 ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatyme
-nurodytoms valstybės įmonėms teikia specialios paskirties įstaiga Vyriausybinių
-ryšių centras prie Valstybės saugumo departamento. Konkretų tokių institucijų,
-įstaigų, įmonių ir pareigybių, kurias užimantiems asmenims suteikiama teisė
-naudotis vyriausybinio ryšio paslaugomis, sąrašą tvirtina Lietuvos Respublikos
-Vyriausybė.
+nurodytoms valstybės įmonėms teikia specialios paskirties įstaiga
+Vyriausybinių ryšių centras prie Valstybės saugumo departamento. Konkretų tokių
+institucijų, įstaigų, įmonių ir pareigybių, kurias užimantiems asmenims
+suteikiama teisė naudotis vyriausybinio ryšio paslaugomis, sąrašą tvirtina
+Lietuvos Respublikos Vyriausybė.
 Straipsnio
 pakeitimai:
 Nr.
@@ -311,10 +340,10 @@ Saugumo
 departamente tarnauja statutiniai valstybės tarnautojai (saugumo pareigūnai),
 kiti karjeros valstybės tarnautojai, taip pat dirba asmenys pagal darbo
 sutartis.
-Saugumo departamente
-dirbantiems asmenims, kuriems suteikiami saugumo pareigūnų laipsniai, taikomos
-šio įstatymo, Saugumo departamento statuto ir kitų įstatymų nustatytos saugumo
-pareigūnų socialinės garantijos.
+Saugumo
+departamente dirbantiems asmenims, kuriems suteikiami saugumo pareigūnų
+laipsniai, taikomos šio įstatymo, Saugumo departamento statuto ir kitų įstatymų
+nustatytos saugumo pareigūnų socialinės garantijos.
 Straipsnio
 pakeitimai:
 Nr.
@@ -358,8 +387,8 @@ straipsnyje nustatytų priesaikos tekstų. Nustatomi šie priesaikos tekstai:
 1) „Aš, (vardas, pavardė), Jums liudijant:
 prisiekiu ištikimai ginti Lietuvos valstybę ir jos
 nepriklausomybę,
-sąžiningai vykdyti Lietuvos Respublikos įstatymus ir savo viršininkų
-įsakymus,
+sąžiningai vykdyti Lietuvos Respublikos įstatymus ir savo
+viršininkų įsakymus,
 dorai atlikti savo pareigas,
 tarnauti Lietuvos Respublikos žmonėms ir valstybei;
 prisiekiu saugoti visas man patikėtas valstybės ir tarnybos
@@ -383,16 +412,16 @@ asmuo po priesaikos tekstu pasirašo.
 Straipsnio
 pakeitimai:
 Nr.
-IX-1043,
-2002-07-05, Žin., 2002, Nr. 73-3102 (2002-07-19)
+IX-1043, 2002-07-05,
+Žin., 2002, Nr. 73-3102 (2002-07-19)
 Nr.
 X-422,
 2005-11-22, Žin., 2005, Nr. 143-5184 (2005-12-08)
  
             18
 straipsnis. Saugumo departamento pareigūno teisinė padėtis
-            Saugumo departamento
-pareigūnų tarnybą reglamentuoja Saugumo departamento statutas.
+            Saugumo departamento pareigūnų
+tarnybą reglamentuoja Saugumo departamento statutas.
             Saugumo departamento
 pareigūno gyvybę, sveikatą, garbę ir orumą bei teises gina Lietuvos Respublikos
 įstatymai.
@@ -403,10 +432,9 @@ tarnybinę veiklą.
 pareigūnai, atlikdami tarnybines pareigas, vadovaujasi įstatymais ir kitais
 norminiais aktais.
             Jei Saugumo departamento
-pareigūnas gauna įstatymams prieštaraujantį įsakymą ar nurodymą, jis turi
-vadovautis įstatymu, o apie neteisėtą įsakymą ar nurodymą pranešti Saugumo
-departamento vadovybei. Neteisėto įsakymo vykdymas neatleidžia pareigūno nuo
-atsakomybės.
+pareigūnas gauna įstatymams prieštaraujantį įsakymą ar nurodymą, jis turi vadovautis
+įstatymu, o apie neteisėtą įsakymą ar nurodymą pranešti Saugumo departamento
+vadovybei. Neteisėto įsakymo vykdymas neatleidžia pareigūno nuo atsakomybės.
             Kiekvienas Saugumo
 departamento pareigūnas asmeniškai atsako už savo veiksmus bei jų pasekmes.
 Už įstatymų
@@ -433,20 +461,10 @@ operatyvinę veiklą, numatytą Lietuvos Respublikos operatyvinės veiklos
 vidaus reikalų ir krašto apsaugos sistemų padaliniais ir kitomis įgaliotomis
 valstybės ar savivaldybių institucijomis ar įstaigomis įgyvendinti bendras
 valstybės saugumą užtikrinančias priemones; 
-3) tirti
-Saugumo departamento kompetencijai priskirtus nusikaltimus bei kitus teisės
-pažeidimus;
-3
-punktas netenka galios nuo 2011 m. vasario 1 d.
- 
-4) naudotis
-policijos komisariatų areštinėmis, asmenų, įtariamų padarius Saugumo
-departamento tyrimo kompetencijai priskirtą nusikalstamą veiką, sulaikymui,
-taip pat prireikus savarankiškai arba su kitomis įgaliotomis institucijomis
-juos saugoti ir konvojuoti;
-4
-punktas netenka galios nuo 2011 m. vasario 1 d.
- 
+3) (neteko galios nuo 2011 m.
+vasario 1 d.);
+4) (neteko galios
+nuo 2011 m. vasario 1 d.);
 5) šio Įstatymo
 nustatyta tvarka oficialiai įspėti asmenis;
 6) Saugumo
@@ -503,8 +521,8 @@ vyresniojo leitenanto;
 kapitono;
 6) saugumo
 majoro;
-7) saugumo
-pulkininko leitenanto;
+7) saugumo pulkininko
+leitenanto;
 8) saugumo
 pulkininko;
 9) saugumo
@@ -563,9 +581,9 @@ straipsnis. Saugumo departamento pareigūnų visuomeninė veikla
 pareigūnai gali dalyvauti visuomeninių organizacijų, draugijų, klubų ir kitų
 nepolitinių susivienijimų veikloje.
             Saugumo departamente
-draudžiama politinių partijų ir politinių organizacijų veikla. Saugumo departamento
-pareigūnai negali būti politinių partijų, politinių organizacijų bei
-visuomeninių politinių judėjimų nariais bei rėmėjais, negali dalyvauti jų
+draudžiama politinių partijų ir politinių organizacijų veikla. Saugumo
+departamento pareigūnai negali būti politinių partijų, politinių organizacijų
+bei visuomeninių politinių judėjimų nariais bei rėmėjais, negali dalyvauti jų
 veikloje.
             Saugumo departamento
 pareigūnams draudžiama streikuoti bei piketuoti. 
@@ -658,10 +676,10 @@ vidurinėse, aukštesniosiose Lietuvos Respublikos policijos (vidaus reikalų) i
 karo mokyklose laikas. Mokymosi tokiose pat kitų valstybių mokyklose laikas
 įskaitomas į tarnybos stažą, jeigu yra teisės aktų nustatyta tvarka
 kompetentingos institucijos suteiktas profesinės kvalifikacijos pripažinimas. Į
-pareigūnų tarnybos stažą taip pat įskaitoma pusė mokymosi kitose aukštosiose švietimo
-įstaigose laiko, jeigu jas baigę asmenys yra priimti į tarnybą statutiniais
-pagrindais per tris mėnesius po baigimo, pailginant šį laikotarpį ligos,
-nėštumo ir gimdymo, tėvystės atostogų, taip pat būtinosios tarnybos
+pareigūnų tarnybos stažą taip pat įskaitoma pusė mokymosi kitose aukštosiose
+švietimo įstaigose laiko, jeigu jas baigę asmenys yra priimti į tarnybą
+statutiniais pagrindais per tris mėnesius po baigimo, pailginant šį laikotarpį
+ligos, nėštumo ir gimdymo, tėvystės atostogų, taip pat būtinosios tarnybos
 kariuomenėje ar dalyvavimo kariniuose mokymuose trukme;
 9) pareigūno
 laikinojo nedarbingumo laikas, kasmetinių, papildomų, nėštumo ir gimdymo,
@@ -744,8 +762,8 @@ IX-1043,
             32
 straipsnis. Saugumo departamento pareigūnų socialinis draudimas
             Saugumo departamento
-pareigūnai apdraudžiami valstybės lėšomis nuo jų paskyrimo į atitinkamas pareigas
-iki atleidimo iš jų dienos. 
+pareigūnai apdraudžiami valstybės lėšomis nuo jų paskyrimo į atitinkamas
+pareigas iki atleidimo iš jų dienos. 
  
             33
 straipsnis. Saugumo departamento pareigūnų aprūpinimas butais
@@ -768,8 +786,8 @@ skiriami biudžeto asignavimai.
 Straipsnio
 pakeitimai:
 Nr.
-I-1080, 95.10.31, Žin., 1995, Nr.92-2056
-(95.11.10)
+I-1080, 95.10.31, Žin., 1995,
+Nr.92-2056 (95.11.10)
  
 VI. SAUGUMO
 DEPARTAMENTO FINANSAVIMAS IR 
@@ -789,9 +807,9 @@ IX-1043,
  
             36
 straipsnis. Saugumo departamento aprūpinimas patalpomis
-            Saugumo departamentui
-skiriamos tarnybinės patalpos, kurios perduodamos į jo balansą. Šių patalpų
-techninį eksploatavimą, šildymą ir apšvietimą užtikrina savivaldybės iš Saugumo
+            Saugumo departamentui skiriamos
+tarnybinės patalpos, kurios perduodamos į jo balansą. Šių patalpų techninį
+eksploatavimą, šildymą ir apšvietimą užtikrina savivaldybės iš Saugumo
 departamento lėšų.
             Saugumo departamentas gali
 turėti tarnybinį gyvenamąjį plotą. Šis plotas įgyjamas Lietuvos Respublikos
@@ -952,13 +970,18 @@ VALSTYBĖS SAUGUMO DEPARTAMENTO
 Šis
 įstatymas įsigalioja 2011 m. vasario 1 d.
  
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1388,
+2011-05-19, Žin., 2011, Nr. 68-3219 (2011-06-04)
+VALSTYBĖS SAUGUMO DEPARTAMENTO ĮSTATYMO 10 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+Šis įstatymas, išskyrus šio straipsnio 2, 3 ir 4 dalis,
+įsigalioja 2012 m. sausio 1 d.
  
-***
-Pabaiga ***
+*** Pabaiga ***
  
  
-Redagavo
-Aušrinė Trapinskienė (2011-01-10)
-                 
-autrap@lrs.lt
+Redagavo Aušra Bodin (2011-06-06)
+                  aubodi@lrs.lt
 
