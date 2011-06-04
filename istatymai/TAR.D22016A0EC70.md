@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D22016A0EC70"
 
 # Lietuvos Respublikos žuvininkystės įstatymas
 
-Suvestinė redakcija nuo 2011-05-03 iki 2011-06-03
+Suvestinė redakcija nuo 2011-06-04 iki 2012-09-27
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 56-1648, i. k. 1001010ISTAIII-1756
  
@@ -500,7 +500,10 @@ Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr
 4 straipsnis. Žvejojančių jūrų vandenyse laivų duomenų sistema
 
 
-1. Lietuvos Respublikos žvejybos laivai, žvejojantys jūrų vandenyse, turi būti įtraukti į žvejojančių jūrų vandenyse laivų duomenų sistemą, kuri yra Bendrijos žvejybos laivyno registro dalis. Įtraukimo į žvejojančių jūrų vandenyse laivų duomenų sistemą tvarką nustato Žemės ūkio ministerija ar jos įgaliota institucija.
+1. Lietuvos Respublikos žvejybos laivai, žvejojantys jūrų vandenyse, turi būti įtraukti į žvejojančių jūrų vandenyse laivų duomenų sistemą, kuri yra Bendrijos žvejybos laivyno registro dalis. Įtraukimo į žvejojančių jūrų vandenyse laivų duomenų sistemą tvarką nustato Žemės ūkio ministerija ar jos įgaliota institucija. Įtraukus laivą į žvejojančių jūrų vandenyse laivų duomenų sistemą, išduodamas Lietuvos Respublikos žvejybos laivo liudijimas. Už Lietuvos Respublikos žvejybos laivo liudijimo išdavimą imama valstybės rinkliava.
+Straipsnio dalies pakeitimai:
+Nr. XI-1408, 2011-05-24, Žin., 2011, Nr. 68-3227 (2011-06-04), i. k. 1111010ISTA0XI-1408
+ 
 
 
 
@@ -603,7 +606,10 @@ Nr. X-1436, 2008-01-29, Žin., 2008, Nr. 18-629 (2008-02-12), i. k. 1081010ISTA0
 
 
 
-2. Verslinės žvejybos leidimus žvejoti jūrų vandenyse išduoda ir panaikina Žemės ūkio ministerijos įgaliota institucija.
+2. Verslinės žvejybos jūrų vandenyse leidimus išduoda ir panaikina Žemės ūkio ministerijos įgaliota institucija. Už verslinės žvejybos jūrų vandenyse leidimų išdavimą, patikslinimą arba dublikato išdavimą imama valstybės rinkliava.
+Straipsnio dalies pakeitimai:
+Nr. XI-1408, 2011-05-24, Žin., 2011, Nr. 68-3227 (2011-06-04), i. k. 1111010ISTA0XI-1408
+ 
 
 
 
@@ -618,7 +624,10 @@ Nr. X-1436, 2008-01-29, Žin., 2008, Nr. 18-629 (2008-02-12), i. k. 1081010ISTA0
 
 
 
-5. Verslinės žvejybos leidimus vidaus vandenyse, išskyrus privačius žuvininkystės vandens telkinius, išduoda ir panaikina Aplinkos ministerijos įgaliotos institucijos.
+5. Verslinės žvejybos vidaus vandenyse leidimus, išskyrus privačius žuvininkystės vandens telkinius, išduoda ir panaikina Aplinkos ministerijos įgaliotos institucijos. Už verslinės žvejybos vidaus vandenyse leidimų, išskyrus privačius žuvininkystės vandens telkinius, išdavimą, patikslinimą arba dublikato išdavimą imama valstybės rinkliava.
+Straipsnio dalies pakeitimai:
+Nr. XI-1408, 2011-05-24, Žin., 2011, Nr. 68-3227 (2011-06-04), i. k. 1111010ISTA0XI-1408
+ 
 
 
 
@@ -655,12 +664,18 @@ Nr. X-1436, 2008-01-29, Žin., 2008, Nr. 18-629 (2008-02-12), i. k. 1081010ISTA0
 
 
 
-2. Specialiosios žvejybos leidimus žvejoti jūrų vandenyse pagal Žemės ūkio ministerijos nustatytą specialiosios žvejybos tvarką jūrų vandenyse išduoda ir panaikina Žemės ūkio ministerijos įgaliota institucija. Specialiosios žvejybos leidimus žvejoti vidaus vandenyse pagal Aplinkos ministerijos nustatytą specialiosios žvejybos tvarką vidaus vandenyse išduoda ir panaikina Aplinkos ministerijos įgaliota institucija.
+2. Specialiosios žvejybos jūrų vandenyse leidimus pagal Žemės ūkio ministerijos nustatytą specialiosios žvejybos jūrų vandenyse tvarką išduoda ir panaikina Žemės ūkio ministerijos įgaliota institucija. Specialiosios žvejybos vidaus vandenyse leidimus pagal Aplinkos ministerijos nustatytą specialiosios žvejybos vidaus vandenyse tvarką išduoda ir panaikina Aplinkos ministerijos įgaliota institucija. Už specialiosios žvejybos jūrų vandenyse leidimo išdavimą, patikslinimą arba dublikato išdavimą imama valstybės rinkliava. Už specialiosios žvejybos vidaus vandenyse leidimo išdavimą, patikslinimą arba dublikato išdavimą imama valstybės rinkliava.
+Straipsnio dalies pakeitimai:
+Nr. XI-1408, 2011-05-24, Žin., 2011, Nr. 68-3227 (2011-06-04), i. k. 1111010ISTA0XI-1408
+ 
 
 
 
 
-3. Specialiosios žvejybos leidimai žvejoti žuvininkystės tvenkiniuose, privačiuose žuvininkystės vandens telkiniuose ar telkiniuose, į kuriuos išduoti leidimai naudoti žvejybos plotą, išduodami tik gavus šių vandens telkinių valdytojų ar žvejybos ploto naudotojų raštišką sutikimą.
+3. Specialiosios žvejybos leidimai žuvininkystės tvenkiniuose, privačiuose žuvininkystės vandens telkiniuose arba telkiniuose, į kuriuos išduoti leidimai naudoti žvejybos plotą, išduodami tik gavus šių vandens telkinių valdytojų arba žvejybos ploto naudotojų rašytinį sutikimą.
+Straipsnio dalies pakeitimai:
+Nr. XI-1408, 2011-05-24, Žin., 2011, Nr. 68-3227 (2011-06-04), i. k. 1111010ISTA0XI-1408
+ 
 
 
 
@@ -1190,7 +1205,10 @@ Nr. XI-1141, 2010-11-16, Žin., 2010, Nr. 139-7116 (2010-11-27); Žin., 2010, Nr
 
 
 
-2. Pirminį žuvininkystės produktų supirkimą vykdo Žemės ūkio ministerijos ar jos įgaliotos institucijos registruoti pirminiai žuvininkystės produktų supirkėjai.
+2. Pirminį žuvininkystės produktų supirkimą vykdo Žemės ūkio ministerijos ar jos įgaliotos institucijos registruoti pirminiai žuvininkystės produktų supirkėjai. Už pirminio žuvininkystės produktų supirkėjo pažymėjimo išdavimą arba patikslinimą imama valstybės rinkliava.
+Straipsnio dalies pakeitimai:
+Nr. XI-1408, 2011-05-24, Žin., 2011, Nr. 68-3227 (2011-06-04), i. k. 1111010ISTA0XI-1408
+ 
 
 
 
@@ -2334,3 +2352,8 @@ Lietuvos Respublikos žuvininkystės įstatymo 2, 3, 4, 10, 12, 14, 18, 22, 23, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1351, 2011-04-21, Žin., 2011, Nr. 52-2525 (2011-05-03), i. k. 1111010ISTA0XI-1351
 Lietuvos Respublikos žuvininkystės įstatymo 17 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1408, 2011-05-24, Žin., 2011, Nr. 68-3227 (2011-06-04), i. k. 1111010ISTA0XI-1408
+Lietuvos Respublikos žuvininkystės įstatymo 4, 7, 9 ir 22 straipsnių pakeitimo įstatymas
