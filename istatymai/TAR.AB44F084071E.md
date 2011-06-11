@@ -55,15 +55,17 @@ reglamentavimą suderinti su Europos Sąjungos teisės aktais, nurodytais šio
 įstatymo priede.
  
 2 straipsnis. Įstatymo taikymas
-1. Šis įstatymas taikomas akcinėms bendrovėms
-ir uždarosioms akcinėms bendrovėms, galinčioms daryti tiesioginį ar
-netiesioginį lemiamą poveikį vienam ar keliems pelno siekiantiems juridiniams asmenims (toliau – įmonės).
-2. Finansų
-įstaigoms jų veiklą reglamentuojantys įstatymai ir kiti teisės aktai gali
-nustatyti papildomų reikalavimų dėl konsoliduotųjų finansinių ataskaitų.
-3. Bankams, kitoms kredito įstaigoms, draudimo
-įmonėms ir perdraudimo įmonėms šis įstatymas taikomas tiek, kiek
-neprieštarauja jų veiklą reglamentuojantiems įstatymams.
+1. Šis
+įstatymas taikomas akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms,
+galinčioms daryti tiesioginį ar netiesioginį lemiamą poveikį vienam ar keliems
+pelno siekiantiems juridiniams asmenims (toliau – įmonės).
+2. Bankams, kitoms kredito ir finansų įstaigoms,
+reguliuojamos rinkos operatoriui, Lietuvos centriniam vertybinių popierių
+depozitoriumui, draudimo įmonėms ir perdraudimo įmonėms šis įstatymas taikomas
+tiek, kiek jų veiklą reglamentuojantys įstatymai nenustato kitaip.
+Straipsnio pakeitimai:
+Nr. XI-1404,
+2011-05-24, Žin., 2011, Nr. 71-3366 (2011-06-11)
  
 3 straipsnis.
 Pagrindinės šio įstatymo sąvokos
@@ -71,9 +73,10 @@ Pagrindinės šio įstatymo sąvokos
 gali daryti tiesioginį ar netiesioginį lemiamą poveikį.
 2. Įmonių grupė – patronuojanti įmonė
 ir jos dukterinės įmonės.
-3. Įmonių grupės finansinių ataskaitų konsolidavimas
-– įmonių grupės finansinių ataskaitų sujungimas taikant verslo apskaitos
-standartuose arba tarptautiniuose apskaitos standartuose nustatytus metodus.
+3. Įmonių grupės finansinių ataskaitų
+konsolidavimas – įmonių grupės finansinių ataskaitų sujungimas taikant
+verslo apskaitos standartuose arba tarptautiniuose apskaitos standartuose
+nustatytus metodus.
 4. Įmonių grupės konsoliduotasis metinis
 pranešimas (toliau – konsoliduotasis metinis pranešimas) – įmonių
 grupės metinių konsoliduotųjų finansinių ataskaitų rinkinį papildanti
@@ -82,10 +85,10 @@ metų veiklos ir numatomos veiklos duomenys.
 5. Įmonių grupės konsoliduotoji finansinė
 atskaitomybė – įmonių grupės finansinės būklės, veiklos rezultatų,
 pinigų srautų duomenų ir jų aiškinimo rengimas nustatyta forma.
-6. Įmonių grupės konsoliduotųjų finansinių
-ataskaitų rinkinys (toliau – konsoliduotųjų finansinių ataskaitų
-rinkinys) – įmonių grupės finansinių ataskaitų rinkinys, sudaromas kaip
-vienos įmonės finansinių ataskaitų rinkinys.
+6. Įmonių grupės konsoliduotųjų finansinių ataskaitų
+rinkinys (toliau – konsoliduotųjų finansinių ataskaitų rinkinys) –
+įmonių grupės finansinių ataskaitų rinkinys, sudaromas kaip vienos įmonės
+finansinių ataskaitų rinkinys.
 7. Įmonių grupės metinių konsoliduotųjų finansinių
 ataskaitų rinkinys (toliau – metinės konsoliduotosios
 finansinės ataskaitos) – įmonių grupės finansinių ataskaitų rinkinys,
@@ -97,7 +100,8 @@ nustatytų sąlygų.
 9. Patronuojanti įmonė – įmonė, kuri kitai
 įmonei gali daryti tiesioginį ar netiesioginį lemiamą poveikį.
 10. Tiesioginis lemiamas poveikis įmonei –
-lemiamas poveikis kitai įmonei, atsirandantis dėl bent vienos iš šių sąlygų:
+lemiamas poveikis kitai įmonei, atsirandantis dėl bent vienos iš šių
+sąlygų:
 1) įmonė turi kitos įmonės
 daugiau kaip pusę dalyvių balsavimo teisių;
 2) įmonė, būdama
@@ -139,8 +143,9 @@ grynosios pajamos per ataskaitinius finansinius metus (neatskaitant tarpusavio
 pardavimo pajamų) – 30 mln. litų;
 2) bendra balanse
 nurodyto turto vertė (neatskaitant tarpusavio sandorių) – 18 mln. litų;
-3) vidutinis metinis
-darbuotojų skaičius pagal sąrašą per ataskaitinius finansinius metus – 75.
+3) vidutinis
+metinis darbuotojų skaičius pagal sąrašą per ataskaitinius finansinius metus –
+75.
 5. Šio straipsnio 4 dalies nuostata, leidžianti
 nesudaryti konsoliduotųjų finansinių ataskaitų, nustojama taikyti tada, kai ne
 mažiau kaip du bendri įmonių grupės metinių finansinių ataskaitų rodikliai
@@ -203,8 +208,8 @@ grynosios pajamos per ataskaitinius metus neviršija 5 procentų patronuojančio
 jeigu toje pačioje įmonių grupėje yra keletas tokių dukterinių įmonių ir jų
 finansinių ataskaitų nekonsolidavus būtų pažeistas reikšmingumo principas ir
 reikalavimas teisingai parodyti įmonių grupės finansinę būklę, jos veiklos
-rezultatus ir pinigų srautus. Patronuojanti įmonė, turinti tik dukterines
-įmones, kurių kiekviena atskirai ir visos kartu yra nereikšmingos,
+rezultatus ir pinigų srautus. Patronuojanti įmonė, turinti tik
+dukterines įmones, kurių kiekviena atskirai ir visos kartu yra nereikšmingos,
 konsoliduotųjų finansinių ataskaitų gali nesudaryti.
 Straipsnio pakeitimai:
 Nr. XI-1098,
@@ -221,8 +226,7 @@ sudaro šios konsoliduotosios finansinės ataskaitos:
 1) konsoliduotasis balansas;
 2) konsoliduotoji pelno (nuostolių) ataskaita;
 3) konsoliduotoji pinigų srautų ataskaita;
-4) konsoliduotoji nuosavo kapitalo pokyčių
-ataskaita;
+4) konsoliduotoji nuosavo kapitalo pokyčių ataskaita;
 5) konsoliduotųjų finansinių ataskaitų aiškinamasis
 raštas.
 2. Visos šio straipsnio 1 dalyje išvardytos
@@ -250,14 +254,14 @@ nepakanka, kad konsoliduotosios finansinės ataskaitos tikrai ir teisingai
 parodytų įmonių grupės turtą, nuosavą kapitalą, įsipareigojimus, pajamas ir
 sąnaudas, pinigų srautus, konsoliduotojų finansinių ataskaitų aiškinamajame
 rašte turi būti pateikta papildoma informacija.
-5. Išskirtiniais atvejais, kai pagal apskaitos standartus
-sudarytos konsoliduotosios finansinės ataskaitos prieštarauja šio straipsnio 1
-dalies reikalavimams, galima nukrypti nuo apskaitos standartų, kad būtų
-įvykdytas šio straipsnio 1 dalies reikalavimas tikrai ir teisingai parodyti
-įmonių grupės turtą, nuosavą kapitalą, įsipareigojimus, pajamas ir sąnaudas,
-pinigų srautus. Kiekvienas toks atvejis, jo priežastys ir poveikis įmonių
-grupės turtui, nuosavam kapitalui, įsipareigojimams, pajamoms ir sąnaudoms,
-pinigų srautams turi būti nurodyti aiškinamajame rašte.
+5. Išskirtiniais atvejais, kai pagal apskaitos
+standartus sudarytos konsoliduotosios finansinės ataskaitos prieštarauja šio
+straipsnio 1 dalies reikalavimams, galima nukrypti nuo apskaitos standartų, kad
+būtų įvykdytas šio straipsnio 1 dalies reikalavimas tikrai ir teisingai
+parodyti įmonių grupės turtą, nuosavą kapitalą, įsipareigojimus, pajamas ir
+sąnaudas, pinigų srautus. Kiekvienas toks atvejis, jo priežastys ir poveikis
+įmonių grupės turtui, nuosavam kapitalui, įsipareigojimams, pajamoms ir
+sąnaudoms, pinigų srautams turi būti nurodyti aiškinamajame rašte.
 6. Konsoliduotosiose finansinėse
 ataskaitose turi būti nurodytas visas įmonių grupės turtas, įsipareigojimai ir
 nuosavas kapitalas, turimi paskutinę ataskaitinio laikotarpio, kurio
@@ -528,10 +532,17 @@ Pagal šį įstatymą sudaromas 2010 m. sausio 1 d. ir vėliau prasidedančių
 ataskaitinių laikotarpių įmonių grupės metinių konsoliduotųjų finansinių
 ataskaitų rinkinys.
  
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1404,
+2011-05-24, Žin., 2011, Nr. 71-3366 (2011-06-11)
+ĮMONIŲ GRUPIŲ KONSOLIDUOTOSIOS FINANSINĖS ATSKAITOMYBĖS ĮSTATYMO 2
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė
-Trapinskienė (2010-11-26)
-                  autrap@lrs.lt
+Trapinskienė (2011-06-13)
+                  ausrine.trapinskiene@lrs.lt
 
