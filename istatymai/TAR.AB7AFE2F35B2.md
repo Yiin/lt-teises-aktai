@@ -293,19 +293,26 @@ daugiašalės prekybos sistemos administravimas.
 14. Investuotojas
 – asmuo, nuosavybės teise turintis finansinių priemonių arba ketinantis jų
 įsigyti.
-15. Klientas
+15.
+Jungtinė (konsoliduota) priežiūra – kaip tai apibrėžta Finansų įstaigų
+įstatyme.
+16. Klientas
 – fizinis ar juridinis asmuo, kuriam finansų maklerio įmonė teikia investicines
 paslaugas ir (arba) papildomas paslaugas.
-16. Kolektyvinio
+17. Kolektyvinio
 investavimo subjekto valdymo įmonė (toliau – valdymo įmonė) – kaip tai
 apibrėžta Kolektyvinio investavimo subjektų įstatyme.
-17. Kontrolė
+18. Kontrolė
 – tiesioginis ir (arba) netiesioginis lemiamas
 poveikis įmonei, kaip tai apibrėžta Įmonių grupių konsoliduotosios
 finansinės atskaitomybės įstatyme.
-18. Kredito
+19. Kredito
 įstaiga – kaip tai apibrėžta Finansų įstaigų įstatyme.
-19. Nepriekaištingos
+20. Kredito
+reitingų agentūra – kaip tai apibrėžta 2009 m. rugsėjo 16 d. Europos
+Parlamento ir Tarybos reglamente (EB) Nr. 1060/2009 (toliau – reglamentas
+(EB) Nr. 1060/2009).
+21. Nepriekaištingos
 reputacijos asmenys – tai fiziniai ir juridiniai asmenys:
 1) kurie nėra
 teisti už labai sunkų ar sunkų nusikaltimą arba nusikaltimą ar nusižengimą
@@ -323,13 +330,13 @@ juridiniai asmenys yra nepriekaištingos reputacijos;
 5) jeigu
 nėra kitų reikšmingų aplinkybių, dėl kurių asmens reputacija negali būti
 laikoma nepriekaištinga.
-20. Neprofesionalusis
+22. Neprofesionalusis
 klientas – klientas, kuris nepriskiriamas nei prie profesionaliųjų klientų,
 nei prie tinkamų sandorio šalių.
-21. Pagrindinė
+23. Pagrindinė
 sutarties šalis – kaip tai apibrėžta Atsiskaitymų baigtinumo
 mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatyme.
-22. Papildomos
+24. Papildomos
 paslaugos:
 1)
 finansinių priemonių saugojimas, apskaita ir valdymas klientų sąskaita,
@@ -358,13 +365,13 @@ išvestinės finansinės priemonės, nurodytos šio straipsnio 4 dalies 5, 6, 7 
 10 punktuose, su sąlyga, kad teikiamos investicinės paslaugos ar papildomos
 paslaugos arba vykdoma investicinė veikla yra susijusi su šiomis išvestinėmis
 finansinėmis priemonėmis. 
-23. Patronuojanti
+25. Patronuojanti
 įmonė – kaip tai apibrėžta Įmonių grupių konsoliduotosios finansinės
 atskaitomybės įstatyme.
-24. Pavedimų
+26. Pavedimų
 vykdymas klientų sąskaita – veikla, kuria siekiama kliento sąskaita
 sudaryti pirkimo–pardavimo sandorius dėl vienos ar kelių finansinių priemonių.
-25. Perleidžiamieji
+27. Perleidžiamieji
 vertybiniai popieriai – kapitalo rinkoje galintys cirkuliuoti vertybiniai
 popieriai (išskyrus mokėjimo priemones), įskaitant, bet neapsiribojant šiais
 vertybiniais popieriais:
@@ -381,73 +388,74 @@ perleidžiamuosius vertybinius popierius arba lemiantys piniginius
 atsiskaitymus, nustatomus atsižvelgiant į perleidžiamuosius vertybinius
 popierius, valiutas, palūkanų normas, pajamingumą, biržos prekes arba kitus
 indeksus ar priemones.
-26. Finansinių
+28. Finansinių
 priemonių portfelio valdymas – klientų portfelių, į kurių sudėtį įeina
 viena ar daugiau finansinių priemonių, valdymas savo nuožiūra pagal individualų
 kiekvieno kliento pavedimą.
-27. Priežiūros
-institucija – Lietuvos Respublikos vertybinių popierių komisija, taip pat
-kitų valstybių narių kompetentingos institucijos, vykdančios analogiškas
-funkcijas.
-28. Priimančioji
+29. Priežiūros
+institucija – Lietuvos Respublikos vertybinių popierių komisija (toliau –
+Vertybinių popierių komisija), taip pat kitų valstybių narių kompetentingos
+institucijos, vykdančios analogiškas funkcijas.
+30. Priimančioji
 valstybė narė – valstybė narė, kuri nėra buveinės valstybė narė ir kurioje
 finansų maklerio įmonė yra įsteigusi filialą arba teikia investicines paslaugas
 ir (arba) vykdo investicinę veiklą nesteigdama filialo, arba ta valstybė narė,
 kurioje reguliuojama rinka aprūpina savo nutolusius narius ar dalyvius,
 įsteigtus toje valstybėje narėje, priemonėmis, kurios palengvina prieigą prie
 reguliuojamos rinkos prekybos sistemos.
-29. Profesionalusis
-klientas – klientas, kuris turi pakankamai žinių, įgūdžių ir patirties pagrįstiems
-investiciniams sprendimams savarankiškai priimti, gali tinkamai įvertinti su
-tuo susijusią riziką ir atitinka profesionaliesiems klientams nustatytus
-kriterijus, nurodytus šio įstatymo II skyriaus trečiajame skirsnyje. 
-30. Reguliuojama
+31. Profesionalusis
+klientas – klientas, kuris turi pakankamai žinių, įgūdžių ir patirties
+pagrįstiems investiciniams sprendimams savarankiškai priimti, gali tinkamai
+įvertinti su tuo susijusią riziką ir atitinka profesionaliesiems klientams
+nustatytus kriterijus, nurodytus šio įstatymo II skyriaus trečiajame skirsnyje.
+
+32. Reguliuojama
 rinka – rinkos operatoriaus valdoma ir (arba) administruojama nuolat
 veikianti daugiašalė licencijuota sistema, kurioje pagal neleidžiančias veikti
 savo nuožiūra taisykles palengvinama suderinti arba yra suderinami trečiųjų
 asmenų ketinimai pirkti ir parduoti finansines priemones, sąlygojantys sandorių
 dėl finansinių priemonių, kurios įtrauktos į prekybą šioje sistemoje ir (arba)
 kuriomis prekiaujama pagal šios sistemos taisykles, sudarymą. 
-31. Reguliuojamos
+33. Reguliuojamos
 rinkos operatorius (toliau – rinkos operatorius) – asmuo ar asmenys, kurie
 valdo ir (arba) administruoja reguliuojamą rinką. Rinkos operatorius gali būti
 pati reguliuojama rinka.
-32. Ribinis
+34. Ribinis
 pavedimas – pavedimas pirkti ar parduoti pavedime nurodytą finansinę
 priemonę už pavedime nurodytą ar geresnę kainą ir pavedime nurodytais kiekiais.
-33. Rinkos
+35. Rinkos
 formuotojas – asmuo, kuris nuolat veikia finansų rinkose įsipareigodamas
 savo sąskaita ir savo lėšomis sudaryti pirkimo–pardavimo sandorius dėl
 finansinių priemonių savo paties nustatytomis kainomis.
-34. Sandorių
+36. Sandorių
 sudarymas savo sąskaita – sandorių dėl vienos ar kelių finansinių priemonių
 sudarymas savo lėšomis. 
-35. Sisteminę
+37. Sisteminę
 prekybą vykdanti finansų maklerio įmonė – finansų maklerio įmonė, kuri,
 vykdydama klientų pavedimus už reguliuojamos rinkos ar daugiašalės prekybos
 sistemos ribų, organizuotai, nuolatos ir sistemingai sudaro sandorius savo
 sąskaita.
-36. Sisteminė
+38. Sisteminė
 rizika – tikimybė, kad vienos finansų maklerio įmonės, kredito įstaigos ar
 investuotojo nemokumas turės neigiamos įtakos daugelio finansų maklerio įmonių,
 kredito įstaigų ar investuotojų interesams.
-37. Suderintasis
+39. Suderintasis
 kolektyvinio investavimo subjektas – kaip tai apibrėžta Kolektyvinio
 investavimo subjektų įstatyme.
-38. Trečioji
+40. Trečioji
 šalis – valstybė
 ne Europos Sąjungos narė arba Europos ekonominei erdvei nepriklausanti
 valstybė.
-39. Trečiosios
+41. Trečiosios
 šalies priežiūros institucija – priežiūros institucija, vykdanti finansinių
 priemonių rinkų priežiūros funkcijas ne valstybėje narėje.
-40. Valstybė
+42. Valstybė
 narė – Europos Sąjungos valstybė narė, taip pat Europos ekonominei erdvei
 (EEE) priklausanti valstybė.
-41. Vertybinių
+43. Vertybinių
 popierių komisija – Lietuvos Respublikos finansinių priemonių rinkų
 reguliavimo ir priežiūros institucija.
-42. Viešai
+44. Viešai
 neatskleista informacija – tiesiogiai ar netiesiogiai su vienu ar keliais emitentais
 ar finansinėmis priemonėmis susijusi tikslaus pobūdžio informacija apie
 planuojamus ar įvykusius esminius įvykius ir kita informacija, kurios
@@ -463,15 +471,17 @@ suteikta tikslaus pobūdžio informacija, susijusi su jo pavedimais, tiesiogiai
 ar netiesiogiai susijusi su vienu ar keliais emitentais ar finansinėmis
 priemonėmis, kurios atskleidimas gali turėti didelės įtakos šių finansinių
 priemonių ar su jomis susietų išvestinių priemonių kainai.
-43. Viešas
+45. Viešas
 paskelbimas – informacijos skelbimas, teikimas Vertybinių popierių
 komisijos interneto tinklalapyje, jeigu šis įstatymas nenumato kitaip.
 Straipsnio
 pakeitimai:
-Nr. XI-199, 2009-03-19,
-Žin., 2009, Nr. 38-1438 (2009-04-04)
+Nr. XI-199,
+2009-03-19, Žin., 2009, Nr. 38-1438 (2009-04-04)
 Nr. XI-875,
 2010-06-03, Žin., 2010, Nr. 71-3551 (2010-06-19)
+Nr.
+XI-1402, 2011-05-24, Žin., 2011, Nr. 71-3364 (2011-06-11)
  
 II
 SKYRIUS
@@ -524,12 +534,11 @@ patarėjo įmonės licenciją turinti bendrovė vadinama finansų patarėjo įmo
 vedinius gali vartoti savo pavadinime ir reklamoje tik tos įmonės, kurios turi
 teisę verstis finansų patarėjo įmonės veikla.
 7. Finansų
-patarėjo įmonė turi teisę teikti Lietuvos Respublikoje šio įstatymo 3
-straipsnio 13 dalies 1 ir 5 punktuose numatytas investicines paslaugas dėl
-perleidžiamųjų vertybinių popierių ir kolektyvinio investavimo subjektų
-vertybinių popierių, su sąlyga, kad įmonė nesaugo klientų lėšų ir finansinių
-priemonių ir dėl to negali tapti klientų skolininke, o klientų pavedimus gali
-perduoti tik:
+patarėjo įmonė turi teisę teikti Lietuvos Respublikoje šio įstatymo 3 straipsnio
+13 dalies 1 ir 5 punktuose numatytas investicines paslaugas dėl perleidžiamųjų
+vertybinių popierių ir kolektyvinio investavimo subjektų vertybinių popierių,
+su sąlyga, kad įmonė nesaugo klientų lėšų ir finansinių priemonių ir dėl to
+negali tapti klientų skolininke, o klientų pavedimus gali perduoti tik:
 1) valstybėje
 narėje licencijuotoms finansų maklerio įmonėms;
 2) valstybėje
@@ -552,15 +561,19 @@ nustatyti reikalavimai, taikomi finansų maklerio įmonėms, išskyrus išimtis,
 numatytas šiame įstatyme ir Vertybinių popierių komisijos priimtuose teisės
 aktuose. 
 9. Finansų
-patarėjo įmonei netaikomi kapitalo reikalavimai, tačiau ji privalo apdrausti
-savo profesinę civilinę atsakomybę. Draudimo suma turi būti ne mažesnė kaip 100
-tūkstančių litų vienam draudiminiam įvykiui ir 500 tūkstančių litų visiems
-draudiminiams įvykiams per metus. Finansų patarėjo įmonė privalo turėti
-draudimo apsaugą visą savo veiklos laiką.
+patarėjo įmonei netaikomi šio įstatymo 12 ir 15 straipsnių reikalavimai, tačiau
+ji privalo apdrausti savo profesinę civilinę atsakomybę. Draudimo suma turi
+būti ne mažesnė kaip 100 tūkstančių litų vienam draudžiamajam įvykiui ir 500
+tūkstančių litų visiems draudžiamiesiems įvykiams per metus. Finansų patarėjo
+įmonė privalo turėti draudimo apsaugą visą savo veiklos laiką.
 10. Finansų
 patarėjo įmonė turi teisę teikti licencijoje nurodytas investicines paslaugas
 ir jas reklamuoti tik Lietuvos Respublikoje. Finansų patarėjo įmonei
 nesuteikiamos šio įstatymo II skyriaus penktajame skirsnyje nustatytos teisės.
+Straipsnio
+pakeitimai:
+Nr.
+XI-1402, 2011-05-24, Žin., 2011, Nr. 71-3364 (2011-06-11)
  
 5
 straipsnis. Finansų maklerio įmonės licencijos apimtis
@@ -584,9 +597,9 @@ Vertybinių popierių komisija pateikia Lietuvos bankui išvadą apie kredito
 įstaigos pasirengimą, įkūrus specializuotą vidaus struktūrinį padalinį, teikti
 investicines paslaugas. 
 4. Finansų
-maklerio įmonė ar kredito įstaiga, ketinanti teikti investicines paslaugas ir
-(arba) papildomas paslaugas, kurios nėra numatytos jai išduotoje licencijoje,
-turi kreiptis į licenciją išdavusią priežiūros instituciją su prašymu papildyti
+maklerio įmonė ar kredito įstaiga, ketinanti teikti investicines paslaugas ir (arba)
+papildomas paslaugas, kurios nėra numatytos jai išduotoje licencijoje, turi
+kreiptis į licenciją išdavusią priežiūros instituciją su prašymu papildyti
 galiojančią licenciją ketinamomis teikti investicinėmis ir (arba) papildomomis
 paslaugomis.
 5. Lietuvos
@@ -602,9 +615,9 @@ prašymu turi būti pateikiama numatomos vykdyti veiklos programa (verslo
 planas), kurioje, be kita ko, aprašomos numatomos vykdyti veiklos sritys ir
 įmonės organizacinė struktūra, taip pat informacija apie juridinį asmenį, jo
 dalyvius, vadovus, veiklą, kapitalo reikalavimų tenkinimą ir kita Vertybinių
-popierių komisijos nustatyta informacija, kurią išnagrinėjusi Vertybinių popierių
-komisija galėtų konstatuoti, kad įmonė atitinka šiame skirsnyje nustatytus
-reikalavimus finansų maklerio įmonės licencijai gauti. Valstybės ir
+popierių komisijos nustatyta informacija, kurią išnagrinėjusi Vertybinių
+popierių komisija galėtų konstatuoti, kad įmonė atitinka šiame skirsnyje
+nustatytus reikalavimus finansų maklerio įmonės licencijai gauti. Valstybės ir
 savivaldybių institucijos Vertybinių popierių komisijos prašymu privalo
 pateikti visą savo turimą informaciją apie pretendento akcininkus, jų finansinę
 būklę, veiklą, nustatytus įstatymų ir kitų teisės aktų pažeidimus, atliktų
@@ -622,8 +635,8 @@ ir informacijos pateikimo.
 popierių komisija turi teisę reikalauti, kad būtų pateikta papildomų duomenų ar
 paaiškinimų. Šiuo atveju prašymo nagrinėjimo terminas skaičiuojamas nuo
 paskutinių dokumentų ar duomenų pateikimo. 
-5.
-Apie licencijos išdavimą ar galiojimo panaikinimą Vertybinių popierių komisija
+5. Apie
+licencijos išdavimą ar galiojimo panaikinimą Vertybinių popierių komisija
 praneša juridinių asmenų registro tvarkytojui ir paskelbia Vertybinių popierių
 komisijos interneto tinklalapyje.
  
@@ -635,13 +648,13 @@ licenciją, jeigu:
 1) duomenys
 (dokumentai) neatitinka nustatytų reikalavimų arba pateikti ne visi ar
 tikrovės neatitinkantys duomenys;
-2) įmonės vadovai
-nėra nepriekaištingos reputacijos arba neturi pakankamos patirties;
+2) įmonės
+vadovai nėra nepriekaištingos reputacijos arba neturi pakankamos patirties;
 3) planuojami
 įmonės vadovų pasikeitimai kelia grėsmę patikimam ir skaidriam įmonės valdymui;
 4) įmonė
-nepateikė informacijos apie įmonės akcininkus, jų tiesiogiai ar netiesiogiai valdomus
-akcijų paketus ir šių paketų dydį;
+nepateikė informacijos apie įmonės akcininkus, jų tiesiogiai ar netiesiogiai
+valdomus akcijų paketus ir šių paketų dydį;
 5) yra pagrindas
 manyti, kad įmonės akcijų paketo savininkai neužtikrins patikimo ir skaidraus
 įmonės valdymo;
@@ -649,9 +662,10 @@ manyti, kad įmonės akcijų paketo savininkai neužtikrins patikimo ir skaidrau
 siejantys glaudūs ryšiai su kitais fiziniais ar juridiniais asmenimis gali
 trukdyti Vertybinių popierių komisijai veiksmingai vykdyti priežiūros
 funkcijas;
-7) bent vienas
-įmonės darbuotojas yra Lietuvos Respublikoje veikiančios reguliuojamos rinkos
-ar Lietuvos centrinio vertybinių popierių depozitoriumo darbuotojas;
+7)
+bent vienas įmonės darbuotojas yra Lietuvos Respublikoje veikiančios
+reguliuojamos rinkos ar Lietuvos centrinio vertybinių popierių depozitoriumo (toliau
+– Centrinis depozitoriumas) darbuotojas;
 8) turimos ar nuomojamos patalpos ar įranga nėra tinkamos
 investicinių paslaugų teikimo veiklai vykdyti;
 9) Lietuvos Respublikoje įsteigtos įmonės nuolatinio
@@ -682,6 +696,8 @@ Straipsnio
 pakeitimai:
 Nr. XI-199,
 2009-03-19, Žin., 2009, Nr. 38-1438 (2009-04-04)
+Nr.
+XI-1402, 2011-05-24, Žin., 2011, Nr. 71-3364 (2011-06-11)
  
 8
 straipsnis. Licencijos galiojimo panaikinimo pagrindai
@@ -691,7 +707,8 @@ licencijos galiojimą, jei finansų maklerio įmonė:
 1) pati kreipėsi
 dėl licencijos galiojimo panaikinimo;
 2) per 12
-mėnesių nuo licencijos išdavimo nepradėjo teikti licencijoje nustatytų paslaugų;
+mėnesių nuo licencijos išdavimo nepradėjo teikti licencijoje nustatytų
+paslaugų;
 3) per
 paskutinius 6 mėnesius neteikė investicinių paslaugų ir nevykdė investicinės
 veiklos;
@@ -730,12 +747,12 @@ Naujai išrinkti finansų maklerio įmonės vadovai gali pradėti eiti pareigas 
 po to, kai Vertybinių popierių komisija pritaria jų kandidatūroms.
 4. Vertybinių
 popierių komisija turi teisę nepritarti naujai išrinktų vadovų kandidatūroms,
-jei išrinkti vadovai nėra nepriekaištingos reputacijos, neturi pakankamos patirties
-arba yra kitų objektyvių pagrindų manyti, kad planuojami įmonės vadovų
-pasikeitimai kelia grėsmę patikimam ir skaidriam įmonės valdymui. Vertybinių
-popierių komisija priima sprendimą dėl naujai išrinktų vadovų kandidatūrų
-tinkamumo ne vėliau kaip per vieną mėnesį nuo visų reikalingų dokumentų gavimo
-dienos. 
+jei išrinkti vadovai nėra nepriekaištingos reputacijos, neturi pakankamos
+patirties arba yra kitų objektyvių pagrindų manyti, kad planuojami įmonės
+vadovų pasikeitimai kelia grėsmę patikimam ir skaidriam įmonės valdymui.
+Vertybinių popierių komisija priima sprendimą dėl naujai išrinktų vadovų
+kandidatūrų tinkamumo ne vėliau kaip per vieną mėnesį nuo visų reikalingų
+dokumentų gavimo dienos. 
 5. Finansų
 maklerio įmonėje turi būti vienasmenis valdymo organas – bendrovės vadovas ir
 kolegialus valdymo organas – valdyba.
@@ -751,12 +768,11 @@ balsavimo teisių ar įstatinio kapitalo dalis pasiektų ar peržengtų didėjim
 tvarka 20, 30 ar 50 procentų arba įmonė taptų to juridinio asmens dukterine
 įmone (toliau šiame straipsnyje – siūlomas įsigijimas), turi gauti Vertybinių
 popierių komisijos sprendimą neprieštarauti siūlomam įsigijimui. Tokio
-reikalavimo nesilaikymas nepadaro sandorio negaliojančio, tačiau sukelia šio
-straipsnio 23 dalyje nustatytas pasekmes. Kartu veikiančiais asmenimis šiame
-straipsnyje laikomi du ar daugiau asmenų, kurie, remdamiesi savo aiškiai
-sudarytu ar numanomu žodiniu ar rašytiniu susitarimu, įgyvendina ar siekia
-įgyvendinti savo teises, suteikiamas turimo finansų maklerio įmonės akcijų
-paketo.
+reikalavimo nesilaikymas nepadaro sandorio negaliojančio, tačiau sukelia šio straipsnio
+23 dalyje nustatytas pasekmes. Kartu veikiančiais asmenimis šiame straipsnyje
+laikomi du ar daugiau asmenų, kurie, remdamiesi savo aiškiai sudarytu ar
+numanomu žodiniu ar rašytiniu susitarimu, įgyvendina ar siekia įgyvendinti savo
+teises, suteikiamas turimo finansų maklerio įmonės akcijų paketo.
 2. Nustatant, ar
 tenkinami finansų maklerio įmonės akcijų paketui pagal šį straipsnį taikomi
 kriterijai, neatsižvelgiama į balsavimo teises ar akcijas, kurias finansų
@@ -769,22 +785,22 @@ asmuo privalo pateikti Vertybinių popierių komisijai rašytinį pranešimą ap
 siūlomą įsigijimą, nurodydamas ketinamo įsigyti finansų maklerio įmonės akcijų
 paketo dydį, ir pateikti tai pagrindžiančius dokumentus bei kitą Vertybinių
 popierių komisijos nustatytą informaciją ir duomenis.
-4. Asmuo, nusprendęs
-tiesiogiai ar netiesiogiai perleisti arba sumažinti jam priklausantį finansų
-maklerio įmonės akcijų paketą, jei dėl planuojamo įmonės akcijų netekimo
-asmeniui priklausančių balsavimo teisių ar įstatinio kapitalo dalis pasiektų ar
-peržengtų mažėjimo tvarka 20, 30 ar 50 procentų arba įmonė nustotų būti to
-juridinio asmens dukterine įmone, turi pateikti Vertybinių popierių komisijai
-rašytinį pranešimą ir nurodyti ketinamo perleisti arba sumažinti finansų
-maklerio įmonės akcijų paketo dydį.
-5. Vertybinių popierių
-komisija nustato kartu su pranešimu apie siūlomą įsigijimą pateikiamų dokumentų
-ir duomenų, būtinų įsigyjančio asmens ir siūlomo įsigijimo vertinimui atlikti,
-sąrašą. Šiame sąraše nurodyti dokumentai ir duomenys turi būti proporcingi ir
-pritaikyti įsigyjančiam asmeniui ir siūlomam įsigijimui. Sąraše neturi būti
-nurodyta dokumentų ir duomenų, kurie nėra būtini įsigyjančio asmens ir siūlomo
-įsigijimo vertinimui pagal šio straipsnio 10 dalyje nustatytus kriterijus
-atlikti.
+4. Asmuo,
+nusprendęs tiesiogiai ar netiesiogiai perleisti arba sumažinti jam priklausantį
+finansų maklerio įmonės akcijų paketą, jei dėl planuojamo įmonės akcijų
+netekimo asmeniui priklausančių balsavimo teisių ar įstatinio kapitalo dalis
+pasiektų ar peržengtų mažėjimo tvarka 20, 30 ar 50 procentų arba įmonė nustotų
+būti to juridinio asmens dukterine įmone, turi pateikti Vertybinių popierių
+komisijai rašytinį pranešimą ir nurodyti ketinamo perleisti arba sumažinti
+finansų maklerio įmonės akcijų paketo dydį.
+5. Vertybinių
+popierių komisija nustato kartu su pranešimu apie siūlomą įsigijimą pateikiamų
+dokumentų ir duomenų, būtinų įsigyjančio asmens ir siūlomo įsigijimo vertinimui
+atlikti, sąrašą. Šiame sąraše nurodyti dokumentai ir duomenys turi būti
+proporcingi ir pritaikyti įsigyjančiam asmeniui ir siūlomam įsigijimui. Sąraše
+neturi būti nurodyta dokumentų ir duomenų, kurie nėra būtini įsigyjančio asmens
+ir siūlomo įsigijimo vertinimui pagal šio straipsnio 10 dalyje nustatytus
+kriterijus atlikti.
 6. Vertybinių
 popierių komisija, gavusi pranešimą apie siūlomą įsigijimą, taip pat vėliau
 gavusi šio straipsnio 8 dalyje nurodytus dokumentus ir duomenis, nedelsdama, ne
@@ -797,24 +813,24 @@ dalyje nustatytame sąraše, atlieka vertinimą (toliau šiame straipsnyje –
 vertinimo laikotarpis). 
 8. Vertinimo
 laikotarpiu Vertybinių popierių komisija prireikus, ne vėliau kaip
-penkiasdešimtą vertinimo laikotarpio darbo dieną, gali prašyti papildomų
-vertinimui užbaigti reikalingų dokumentų ir duomenų. Šis prašymas pateikiamas
-raštu ir nurodoma, kokios papildomos informacijos reikia. Vertinimo laikotarpio
-trukmės skaičiavimas stabdomas nuo dienos, kurią Vertybinių popierių komisija
-pateikia prašymą suteikti papildomų dokumentų ir duomenų, ir atnaujinamas tą
-dieną, kurią gaunamas įsigyjančio asmens atsakymas į prašymą. Sustabdyti
-vertinimo laikotarpio trukmės skaičiavimą galima ne ilgiau kaip 20 darbo dienų.
-Be to, Vertybinių popierių komisija turi teisę savo nuožiūra pakartotinai
-prašyti pateikti papildomų dokumentų ir duomenų ar juos patikslinti, tačiau dėl
-to vertinimo laikotarpio trukmės skaičiavimas nebegali būti stabdomas.
+penkiasdešimtą vertinimo laikotarpio darbo dieną, gali prašyti papildomų vertinimui
+užbaigti reikalingų dokumentų ir duomenų. Šis prašymas pateikiamas raštu ir
+nurodoma, kokios papildomos informacijos reikia. Vertinimo laikotarpio trukmės
+skaičiavimas stabdomas nuo dienos, kurią Vertybinių popierių komisija pateikia
+prašymą suteikti papildomų dokumentų ir duomenų, ir atnaujinamas tą dieną,
+kurią gaunamas įsigyjančio asmens atsakymas į prašymą. Sustabdyti vertinimo
+laikotarpio trukmės skaičiavimą galima ne ilgiau kaip 20 darbo dienų. Be to,
+Vertybinių popierių komisija turi teisę savo nuožiūra pakartotinai prašyti
+pateikti papildomų dokumentų ir duomenų ar juos patikslinti, tačiau dėl to
+vertinimo laikotarpio trukmės skaičiavimas nebegali būti stabdomas.
 9. Šio
-straipsnio 8 dalyje nurodytą vertinimo laikotarpio trukmės skaičiavimo
-sustabdymą Vertybinių popierių komisija gali pratęsti ne ilgiau kaip 30 darbo
-dienų tokiu atveju, kai įsigyjantis asmuo yra įsisteigęs ar jo veikla
-reglamentuojama trečiojoje šalyje arba kai įsigyjančiam asmeniui netaikoma
-priežiūra pagal valstybių narių teisės aktus, reglamentuojančius finansų
-maklerio įmonių, suderintųjų kolektyvinio investavimo subjektų valdymo įmonių,
-kredito įstaigų, draudimo įmonių ar perdraudimo įmonių veiklą. 
+straipsnio 8 dalyje nurodytą vertinimo laikotarpio trukmės skaičiavimo sustabdymą
+Vertybinių popierių komisija gali pratęsti ne ilgiau kaip 30 darbo dienų tokiu
+atveju, kai įsigyjantis asmuo yra įsisteigęs ar jo veikla reglamentuojama
+trečiojoje šalyje arba kai įsigyjančiam asmeniui netaikoma priežiūra pagal
+valstybių narių teisės aktus, reglamentuojančius finansų maklerio įmonių,
+suderintųjų kolektyvinio investavimo subjektų valdymo įmonių, kredito įstaigų,
+draudimo įmonių ar perdraudimo įmonių veiklą. 
 10. Nagrinėdama
 šio straipsnio 3 dalyje nurodytą pranešimą apie siūlomą įsigijimą ir dokumentus
 bei duomenis, būtinus įsigyjančio asmens ir siūlomo įsigijimo vertinimui
@@ -895,10 +911,10 @@ yra gautas įsigyjančio asmens sutikimas. Vertybinių popierių komisija turi
 teisę viešai neskelbti sprendimo ir jo motyvų tais atvejais, kai toks
 paskelbimas padarytų žalos rinkai ar padarytų neproporcingos žalos
 suinteresuotiems asmenims. 
-19. Jei
-Vertybinių popierių komisija gauna daugiau negu vieną pranešimą apie siūlomą
-įsigijimą toje pačioje finansų maklerio įmonėje, visi pranešimai nagrinėjami
-tokia pat tvarka, nediskriminuojant įsigyjančių asmenų.
+19. Jei Vertybinių
+popierių komisija gauna daugiau negu vieną pranešimą apie siūlomą įsigijimą
+toje pačioje finansų maklerio įmonėje, visi pranešimai nagrinėjami tokia pat
+tvarka, nediskriminuojant įsigyjančių asmenų.
 20. Jei finansų
 maklerio įmonei tampa žinoma apie jos akcijų įgijimą ar netekimą, dėl kurio
 įmonės akcininkų turimi akcijų paketai peržengia šio straipsnio 1 dalyje
@@ -924,12 +940,11 @@ popierių komisija turi teisę duoti privalomus nurodymus ir taikyti šiame
 peržengiant šiame straipsnyje numatytas ribas negavus Vertybinių popierių
 komisijos sprendimo neprieštarauti siūlomam įsigijimui arba nepasibaigus šio
 straipsnio 7 dalyje nustatytam terminui (išskyrus atvejį, kai anksčiau
-priimamas Vertybinių popierių komisijos sprendimas neprieštarauti siūlomam
-įsigijimui), visos turimos akcijos praranda balso teisę visuotiniame akcininkų
-susirinkime. Balso teisė vėl įgyjama tą dieną, kurią gaunamas Vertybinių
-popierių komisijos sprendimas neprieštarauti siūlomam įsigijimui arba jei
-Vertybinių popierių komisija vertinimo laikotarpiu nepareiškia prieštaravimo
-siūlomam įsigijimui.
+priimamas Vertybinių popierių komisijos sprendimas neprieštarauti siūlomam įsigijimui),
+visos turimos akcijos praranda balso teisę visuotiniame akcininkų susirinkime.
+Balso teisė vėl įgyjama tą dieną, kurią gaunamas Vertybinių popierių komisijos
+sprendimas neprieštarauti siūlomam įsigijimui arba jei Vertybinių popierių
+komisija vertinimo laikotarpiu nepareiškia prieštaravimo siūlomam įsigijimui.
 Straipsnio
 pakeitimai:
 Nr. XI-199,
@@ -948,17 +963,17 @@ draudimo įstatymo nustatyta tvarka.
 12
 straipsnis. Kapitalo reikalavimai 
 Įmonė, siekianti
-gauti finansų maklerio įmonės licenciją, privalo tenkinti kapitalo reikalavimus.
-Kapitalo reikalavimus nustato Vertybinių popierių komisija.
+gauti finansų maklerio įmonės licenciją, privalo tenkinti kapitalo
+reikalavimus. Kapitalo reikalavimus nustato Vertybinių popierių komisija.
  
 13
 straipsnis. Organizaciniai reikalavimai
 1. Finansų
-maklerio įmonė privalo turėti tinkamą veiklos organizavimo politiką ir
-procedūras, kurios užtikrintų, kad finansų maklerio įmonė, jos vadovai,
-darbuotojai ir agentai laikosi šiame įstatyme nustatytų reikalavimų, ir
-taisykles, reglamentuojančias finansų maklerio įmonės vadovų, darbuotojų ir
-agentų sandorių sudarymą savo sąskaita. 
+maklerio įmonė privalo turėti tinkamą veiklos organizavimo politiką ir procedūras,
+kurios užtikrintų, kad finansų maklerio įmonė, jos vadovai, darbuotojai ir
+agentai laikosi šiame įstatyme nustatytų reikalavimų, ir taisykles,
+reglamentuojančias finansų maklerio įmonės vadovų, darbuotojų ir agentų
+sandorių sudarymą savo sąskaita. 
 2. Finansų
 maklerio įmonė privalo įgyvendinti ir taikyti veiksmingas organizacines ir
 administracines priemones, skirtas užkirsti kelią interesų konfliktams, kurie
@@ -985,13 +1000,13 @@ sandorių dokumentų saugojimą, kad Vertybinių popierių komisija galėtų vyk
 veiksmingą priežiūrą – ypač tais atvejais, kai reikia įsitikinti, kad finansų
 maklerio įmonė laikosi šiame įstatyme nustatytų pareigų įmonės klientams ir
 potencialiems klientams. 
-7. Finansų maklerio
-įmonė, saugodama klientams priklausančias finansines priemones, privalo imtis
-priemonių, užtikrinančių klientų nuosavybės teisės apsaugą, ypač finansų
-maklerio įmonės nemokumo atveju. Finansų maklerio įmonė privalo atskirai
-įtraukti į apskaitą savo ir kiekvieno kliento finansines priemones. Finansų
-maklerio įmonė neturi teisės naudotis klientui priklausančiomis finansinėmis
-priemonėmis, jei nėra gautas aiškiai išreikštas kliento sutikimas.
+7. Finansų
+maklerio įmonė, saugodama klientams priklausančias finansines priemones,
+privalo imtis priemonių, užtikrinančių klientų nuosavybės teisės apsaugą, ypač
+finansų maklerio įmonės nemokumo atveju. Finansų maklerio įmonė privalo
+atskirai įtraukti į apskaitą savo ir kiekvieno kliento finansines priemones.
+Finansų maklerio įmonė neturi teisės naudotis klientui priklausančiomis
+finansinėmis priemonėmis, jei nėra gautas aiškiai išreikštas kliento sutikimas.
 8. Finansų
 maklerio įmonė, saugodama klientams priklausančias pinigines lėšas, privalo
 imtis priemonių, užtikrinančių klientų nuosavybės teisės apsaugą ir užkertančių
@@ -1056,21 +1071,38 @@ surengti maklerio peratestavimą, jei pasitvirtina jo klientų skundai arba
 patikrinimo duomenys kelia abejonių dėl tinkamos jo kvalifikacijos. Pagal
 peratestavimo rezultatus gali būti mažinama operacijų, kurias turi teisę
 atlikti makleris, o jeigu nustatoma, kad makleris visiškai prarado
-kvalifikaciją arba nedalyvauja peratestavime, – panaikinamas jo licencijos
-galiojimas.
-6. Apie maklerio licencijos išdavimą ar galiojimo panaikinimą
-Vertybinių popierių komisija paskelbia viešai ne vėliau kaip per 3 darbo
-dienas.
+kvalifikaciją arba nedalyvauja peratestavime, – panaikinamas jo licencijos galiojimas.
+6. Apie maklerio licencijos išdavimą ar galiojimo
+panaikinimą Vertybinių popierių komisija paskelbia viešai ne vėliau kaip per 3
+darbo dienas.
 Straipsnio
 pakeitimai:
-Nr. XI-199,
-2009-03-19, Žin., 2009, Nr. 38-1438 (2009-04-04)
+Nr. XI-199, 2009-03-19,
+Žin., 2009, Nr. 38-1438 (2009-04-04)
  
-15 straipsnis. Finansų maklerio įmonių auditas
-Finansų maklerio
-įmonių audito atlikimo tvarką, reikalavimus auditoriui ir audito įmonei,
-auditoriaus ir audito įmonių pareigas ir atsakomybę reglamentuoja Audito
-įstatymas, Finansų įstaigų įstatymas ir šio įstatymo 83 straipsnis.
+15 straipsnis.
+Finansų maklerio įmonių apskaita, auditas ir pelno paskirstymas
+1.
+Finansų maklerio įmonė privalo tvarkyti apskaitą ir sudaryti finansines
+ataskaitas vadovaudamasi Lietuvos Respublikos įstatymais, kitais teisės aktais
+ir tarptautiniais apskaitos standartais.
+2.
+Finansų maklerio įmonių audito atlikimo tvarką, reikalavimus auditoriui ir
+audito įmonei, auditoriaus ir audito įmonės pareigas ir atsakomybę
+reglamentuoja Audito įstatymas, Finansų įstaigų įstatymas ir šio įstatymo 83
+straipsnis.
+3.
+Šio straipsnio 1 dalis mutatis mutandis taikoma rinkos operatoriui ir
+Centriniam depozitoriumui.
+4. Finansų maklerio įmonės pelno paskirstymo
+tvarką reglamentuoja Finansų įstaigų įstatymas.
+Pastaba. Finansų maklerio įmonės, rinkos
+operatorius ir Centrinis depozitoriumas, vadovaudamiesi straipsniu, pagal tarptautinius apskaitos standartus sudaro 2012 m. sausio 1 d. ir vėliau prasidedančių
+ataskaitinių laikotarpių finansines ataskaitas.
+Straipsnio
+pakeitimai:
+Nr. XI-1402,
+2011-05-24, Žin., 2011, Nr. 71-3364 (2011-06-11)
  
 16 straipsnis. Papildomi reikalavimai
 finansų maklerio įmonėms ir rinkos operatoriams, administruojantiems daugiašalę
@@ -1104,8 +1136,8 @@ kliento sąskaita, vykdo jo pavedimus daugiašalėje prekybos sistemoje.
 maklerio įmonės ir rinkos operatoriai, administruojantys daugiašalę prekybos
 sistemą, turi patvirtinti ir įgyvendinti objektyviais kriterijais pagrįstas
 taisykles, nustatančias reikalavimus rinkos dalyviams, siekiantiems tapti
-sistemos nariais. Šios taisyklės turi atitikti šio įstatymo 56 straipsnio 3
-dalyje nustatytus reikalavimus.
+sistemos nariais. Šios taisyklės turi atitikti šio įstatymo 56 straipsnio 3 dalyje
+nustatytus reikalavimus.
 6. Finansų
 maklerio įmonės ir rinkos operatoriai, administruojantys daugiašalę prekybos
 sistemą, turi suteikti sistemos nariams visą reikalingą informaciją apie jų
@@ -1117,10 +1149,9 @@ sandorius, įskaitant ir susitarimus su pagrindine sutarties šalimi bei
 tarpuskaitos ir atsiskaitymų sistema.
 7. Jei
 perleidžiamaisiais vertybiniais popieriais, kurie buvo įtraukti į prekybą
-reguliuojamoje rinkoje, yra prekiaujama daugiašalėje prekybos sistemoje be jų
-emitento sutikimo, tai šių vertybinių popierių emitentui netaikomi pradinio,
-periodinio ir einamojo informacijos atskleidimo reikalavimai, taikomi toje
-sistemoje.
+reguliuojamoje rinkoje, yra prekiaujama daugiašalėje prekybos sistemoje be jų emitento
+sutikimo, tai šių vertybinių popierių emitentui netaikomi pradinio, periodinio
+ir einamojo informacijos atskleidimo reikalavimai, taikomi toje sistemoje.
 8. Finansų
 maklerio įmonės ir rinkos operatoriai, administruojantys daugiašalę prekybos
 sistemą, privalo nedelsdami vykdyti Vertybinių popierių komisijos nurodymus dėl
@@ -1179,13 +1210,17 @@ apie finansų maklerio įmonės akcijų paketo įgijimą ar netekimą ir praneš
 apie šiame įstatyme nustatytų akcijų suteikiamų balsavimo teisių ribų
 peržengimą pateikimo tvarką;
 4) finansų
-maklerio įmonių kapitalo reikalavimus;
+maklerio įmonių kapitalo ir kitus riziką ribojančius reikalavimus;
 5) finansų
 maklerio įmonių veiklos organizavimo taisykles, detalizuojančias šio įstatymo
 13 straipsnyje nustatytus organizacinius reikalavimus;
 6) finansų
 patarėjo įmonių licencijų išdavimo ir jų galiojimo panaikinimo bei veiklos
 organizavimo ir vykdymo taisykles.
+Straipsnio
+pakeitimai:
+Nr.
+XI-1402, 2011-05-24, Žin., 2011, Nr. 71-3364 (2011-06-11)
  
 ANTRASIS
 SKIRSNIS
@@ -1197,10 +1232,10 @@ pareiga nuolat laikytis reikalavimų licencijai gauti
 Respublikoje licencijuotos finansų maklerio įmonės privalo nuolat laikytis
 šiame įstatyme nustatytų reikalavimų finansų maklerio įmonės licencijai gauti. 
 2. Kaip
-laikomasi šio straipsnio 1 dalyje nustatytos pareigos, prižiūri Vertybinių
-popierių komisija. Finansų maklerio įmonė turi pranešti Vertybinių popierių
-komisijai apie visus aplinkybių, buvusių licencijos išdavimo metu, esminius
-pasikeitimus. 
+laikomasi šio straipsnio 1 dalyje nustatytos pareigos, prižiūri Vertybinių popierių
+komisija. Finansų maklerio įmonė turi pranešti Vertybinių popierių komisijai
+apie visus aplinkybių, buvusių licencijos išdavimo metu, esminius pasikeitimus.
+
 3. Šiame straipsnyje nustatyti reikalavimai licencijuotoms kredito įstaigoms taikomi mutatis mutandis. 
  
 20 straipsnis. Pareiga
@@ -1212,15 +1247,15 @@ paslaugas Lietuvos Respublikoje, taip pat kitoje valstybėje narėje licencijuot
 finansų maklerio įmonių filialai, teikiantys investicines paslaugas Lietuvos
 Respublikoje, privalo nuolat laikytis šiame skirsnyje nustatytų finansų
 maklerio įmonės veiklai keliamų reikalavimų. 
-2. Kaip
-laikomasi šio straipsnio 1 dalyje nustatytos pareigos, prižiūri Vertybinių
-popierių komisija. Vertybinių popierių komisija, vykdydama priežiūros
-funkcijas, naudojasi šio įstatymo 72 straipsnyje suteiktomis teisėmis.
-3. Finansų
-maklerio įmonės Vertybinių popierių komisijos nustatyta tvarka ir atvejais
-privalo pateikti kapitalo pakankamumo skaičiavimo ataskaitą, tarpines
-finansines ataskaitas, veiklos ataskaitą ir kitus Vertybinių popierių komisijos
-nustatytus dokumentus.
+2. Kaip laikomasi
+šio straipsnio 1 dalyje nustatytos pareigos, prižiūri Vertybinių popierių
+komisija. Vertybinių popierių komisija, vykdydama priežiūros funkcijas,
+naudojasi šio įstatymo 72 straipsnyje suteiktomis teisėmis.
+3.
+Finansų maklerio įmonės Vertybinių popierių komisijos nustatyta tvarka ir
+atvejais privalo pateikti kapitalo pakankamumo skaičiavimo ataskaitą,
+finansines ir priežiūrai skirtas ataskaitas, veiklos ataskaitą ir kitus
+Vertybinių popierių komisijos nustatytus dokumentus.
 4. Finansų
 maklerio įmonės privalo Vertybinių popierių komisijos nustatytais atvejais ir
 tvarka atskleisti visuomenei informaciją apie savo veiklą. 
@@ -1232,36 +1267,42 @@ Straipsnio
 pakeitimai:
 Nr. XI-199,
 2009-03-19, Žin., 2009, Nr. 38-1438 (2009-04-04)
+Nr.
+XI-1402, 2011-05-24, Žin., 2011, Nr. 71-3364 (2011-06-11)
  
 21
 straipsnis. Pareiga vengti interesų konfliktų
 1. Finansų
-maklerio įmonė privalo imtis visų reikalingų priemonių, skirtų nustatyti
-interesų konfliktus, kylančius tarp įmonės, jos vadovų, darbuotojų, agentų,
-taip pat kitų su įmone tiesiogiai ar netiesiogiai kontrolės ryšiais susijusių
-asmenų ir įmonės klientų arba vien tik tarp įmonės klientų, kai interesų
-konfliktai kyla įmonei teikiant investicines paslaugas, papildomas paslaugas
-arba jų derinį.
-2. Jei
-priemonės, kurių finansų maklerio įmonė ėmėsi vadovaudamasi šio įstatymo 13
-straipsnio 2 dalimi, yra nepakankamos užtikrinti žalos klientų interesams
-prevenciją, finansų maklerio įmonė, prieš pradėdama teikti investicines ir
-(arba) papildomas paslaugas, turi aiškiai atskleisti klientui interesų
-konflikto turinį ir šaltinį.
+maklerio įmonė privalo vengti interesų konfliktų ir imtis visų reikalingų
+priemonių, skirtų nustatyti interesų konfliktus, kylančius tarp įmonės, jos
+vadovų, darbuotojų, agentų, taip pat kitų su įmone tiesiogiai ar netiesiogiai
+kontrolės ryšiais susijusių asmenų ir įmonės klientų arba vien tik tarp įmonės
+klientų, kai interesų konfliktai kyla įmonei teikiant investicines paslaugas,
+papildomas paslaugas arba jų derinį.
+2. Jei priemonės,
+kurių finansų maklerio įmonė ėmėsi vadovaudamasi šio įstatymo 13 straipsnio 2
+dalimi, yra nepakankamos užtikrinti žalos klientų interesams prevenciją,
+finansų maklerio įmonė, prieš pradėdama teikti investicines ir (arba)
+papildomas paslaugas, turi aiškiai atskleisti klientui interesų konflikto
+turinį ir šaltinį.
 3. Šiame straipsnyje nustatyti reikalavimai licencijuotoms kredito įstaigoms taikomi mutatis mutandis. 
+Straipsnio
+pakeitimai:
+Nr.
+XI-1402, 2011-05-24, Žin., 2011, Nr. 71-3364 (2011-06-11)
  
 22 straipsnis. Finansų maklerio įmonės
 pareigos teikiant klientui investicines paslaugas
 1. Finansų
 maklerio įmonė, teikdama klientui investicines paslaugas ir (arba) papildomas
-paslaugas, turi sąžiningai, teisingai ir profesionaliai veikti geriausiomis
-klientui sąlygomis ir jo interesais, laikydamasi šiame straipsnyje nustatytų
+paslaugas, turi sąžiningai, teisingai ir profesionaliai veikti geriausiomis klientui
+sąlygomis ir jo interesais, laikydamasi šiame straipsnyje nustatytų
 reikalavimų.
-2. Visa informacija,
-kurią finansų maklerio įmonė teikia klientams ir (arba) potencialiems
-klientams, įskaitant reklaminio pobūdžio informaciją apie įmonės veiklą ir
-siūlomas paslaugas, turi būti teisinga, aiški ir neklaidinanti. Reklaminio
-pobūdžio informacija turi būti aiškiai atpažįstama.
+2. Visa
+informacija, kurią finansų maklerio įmonė teikia klientams ir (arba)
+potencialiems klientams, įskaitant reklaminio pobūdžio informaciją apie įmonės
+veiklą ir siūlomas paslaugas, turi būti teisinga, aiški ir neklaidinanti.
+Reklaminio pobūdžio informacija turi būti aiškiai atpažįstama.
 3. Finansų
 maklerio įmonė turi aiškiai ir suprantamai suteikti klientams ir potencialiems
 klientams visą reikalingą informaciją, kurios pagrindu jie galėtų suprasti
@@ -1301,12 +1342,12 @@ kliento interesus.
 7. Finansų
 maklerio įmonė, prieš pradėdama teikti investicines paslaugas, kitas nei
 nurodytos šio straipsnio 5 ir 10 dalyse, turi pasiūlyti klientui ar
-potencialiam klientui pateikti informaciją apie jo žinias ir patirtį investavimo
-srityje, susijusias su konkrečiomis investicinėmis paslaugomis ar finansinėmis
-priemonėmis, kurias siūlo finansų maklerio įmonė arba dėl kurių kreipiasi pats
-klientas ar potencialus klientas. Atsižvelgdama į gautą informaciją, finansų
-maklerio įmonė turi įvertinti, ar konkrečios investicinės paslaugos ir
-finansinės priemonės yra tinkamos klientui.
+potencialiam klientui pateikti informaciją apie jo žinias ir patirtį
+investavimo srityje, susijusias su konkrečiomis investicinėmis paslaugomis ar
+finansinėmis priemonėmis, kurias siūlo finansų maklerio įmonė arba dėl kurių
+kreipiasi pats klientas ar potencialus klientas. Atsižvelgdama į gautą
+informaciją, finansų maklerio įmonė turi įvertinti, ar konkrečios investicinės
+paslaugos ir finansinės priemonės yra tinkamos klientui.
 8. Jei finansų
 maklerio įmonė, įvertinusi šio straipsnio 7 dalyje nurodytą informaciją,
 nustato, kad investicinė paslauga ar finansinė priemonė konkrečiam klientui ar
@@ -1327,16 +1368,14 @@ vykdymą klientų sąskaita ir (arba) pavedimų priėmimą ir perdavimą,
 neatsižvelgiant į tai, ar yra teikiamos papildomos paslaugos, gali teikti šias
 paslaugas nesurinkusi informacijos apie kliento žinias ir patirtį investavimo
 srityje ir neįvertinusi, ar konkrečios investicinės paslaugos arba finansinės
-priemonės yra tinkamos klientui, su sąlyga, kad yra tenkinamos visos šios
-sąlygos:
+priemonės yra tinkamos klientui, su sąlyga, kad yra tenkinamos visos šios sąlygos:
 1) investicinės
 paslaugos yra teikiamos dėl akcijų, įtrauktų į prekybą reguliuojamoje rinkoje
 arba lygiavertėje rinkoje trečiojoje šalyje, taip pat pinigų rinkos priemonių,
-obligacijų ar kitokių įsiskolinimą patvirtinančių finansinių priemonių,
-išskyrus obligacijas ir kitas įsiskolinimą patvirtinančias priemones, kurios
-turi išvestinių finansinių priemonių požymių, suderintųjų kolektyvinio
-investavimo subjektų išleistų vertybinių popierių ir kitų nesudėtingų
-finansinių priemonių;
+obligacijų ar kitokių įsiskolinimą patvirtinančių finansinių priemonių, išskyrus
+obligacijas ir kitas įsiskolinimą patvirtinančias priemones, kurios turi
+išvestinių finansinių priemonių požymių, suderintųjų kolektyvinio investavimo
+subjektų išleistų vertybinių popierių ir kitų nesudėtingų finansinių priemonių;
 2) investicinė
 paslauga teikiama kliento ar potencialaus kliento iniciatyva;
 3) klientas ar
@@ -1358,12 +1397,12 @@ būti nustatomos nuorodos į kitus dokumentus ar teisės aktus būdu.
 maklerio įmonė turi teikti klientui tinkamus pranešimus apie jam suteiktas
 paslaugas. Šiuose pranešimuose turi būti pateikiama informacija apie išlaidas,
 susijusias su sandorių sudarymu ir paslaugų teikimu klientui.
-13. Tais atvejais,
-kai investicinė paslauga teikiama kaip dalis finansinio produkto, kuriam
-taikomi klientų rizikos įvertinimą ar informacijos pateikimą reglamentuojantys
-Europos Bendrijos teisės aktai ar bendrieji Europos standartai, susiję su
-kredito institucijomis ar vartojimo kreditais, šiame straipsnyje nustatyti
-reikalavimai netaikomi.
+13. Tais
+atvejais, kai investicinė paslauga teikiama kaip dalis finansinio produkto,
+kuriam taikomi klientų rizikos įvertinimą ar informacijos pateikimą
+reglamentuojantys Europos Bendrijos teisės aktai ar bendrieji Europos
+standartai, susiję su kredito institucijomis ar vartojimo kreditais, šiame
+straipsnyje nustatyti reikalavimai netaikomi.
 14. Šiame straipsnyje nustatyti reikalavimai licencijuotoms kredito įstaigoms taikomi mutatis mutandis. 
 Straipsnio
 pakeitimai:
@@ -1373,8 +1412,8 @@ Nr. XI-875,
 23 straipsnis. Investicinių paslaugų
 teikimas tarpininkaujant kitai finansų maklerio įmonei 
 1. Finansų
-maklerio įmonė, gavusi kitos finansų maklerio įmonės (tarpininkaujančios įmonės)
-pavedimą suteikti investicines ir (arba) papildomas paslaugas
+maklerio įmonė, gavusi kitos finansų maklerio įmonės (tarpininkaujančios
+įmonės) pavedimą suteikti investicines ir (arba) papildomas paslaugas
 tarpininkaujančios įmonės klientui, turi teisę vadovautis tarpininkaujančios
 įmonės perduota informacija apie klientą (įskaitant informaciją apie kliento
 žinias ir patirtį investavimo srityje, kliento finansinę padėtį, tikslus, kurių
@@ -1389,27 +1428,26 @@ tarpininkaujanti įmonė. Už klientui suteiktų rekomendacijų tinkamumą atsak
 tarpininkaujanti įmonė.
 3.
 Tarpininkaujančios įmonės pavedimą gavusi finansų maklerio įmonė atsako už
-investicinės paslaugos suteikimą ir (arba) sandorio sudarymą šio skirsnio
-nustatyta tvarka, kai paslauga yra teikiama arba sandoris yra sudaromas
-vadovaujantis informacija ar rekomendacijomis, kaip nustatyta šio straipsnio 1
-ir 2 dalyse.
+investicinės paslaugos suteikimą ir (arba) sandorio sudarymą šio skirsnio nustatyta
+tvarka, kai paslauga yra teikiama arba sandoris yra sudaromas vadovaujantis
+informacija ar rekomendacijomis, kaip nustatyta šio straipsnio 1 ir 2 dalyse.
 4. Šiame straipsnyje nustatyti reikalavimai licencijuotoms kredito įstaigoms taikomi mutatis mutandis. 
  
 24 straipsnis. Pareiga vykdyti kliento
 pavedimus geriausiomis klientui sąlygomis
 1. Finansų
 maklerio įmonė, vykdydama kliento pavedimą, privalo veikti taip, kad būtų
-pasiektas geriausias įmanomas rezultatas klientui, atsižvelgiant į finansinių
-priemonių kainą, pavedimo įvykdymo išlaidas, greitį, pavedimo įvykdymo ir
-atsiskaitymų tikimybę, pavedimo dydį, turinį ir kitas pavedimo įvykdymui
-svarbias aplinkybes. Tačiau jei klientas pateikia finansų maklerio įmonei
-konkretų nurodymą, toks kliento nurodymas turi būti vykdomas tiksliai ir
-nenukrypstant nuo nurodyme pateiktų sąlygų. 
-2. Finansų maklerio
-įmonė, vykdydama šio straipsnio 1 dalyje nustatytą pareigą, turi patvirtinti ir
-įgyvendinti pavedimų vykdymo politiką, pagal kurią kliento pavedimas būtų
-įvykdytas geriausiomis klientui sąlygomis, taip pat turėti ir naudoti
-veiksmingas priemones, skirtas pavedimų vykdymo politikai įgyvendinti.
+pasiektas geriausias įmanomas rezultatas klientui, atsižvelgiant į finansinių priemonių
+kainą, pavedimo įvykdymo išlaidas, greitį, pavedimo įvykdymo ir atsiskaitymų
+tikimybę, pavedimo dydį, turinį ir kitas pavedimo įvykdymui svarbias
+aplinkybes. Tačiau jei klientas pateikia finansų maklerio įmonei konkretų
+nurodymą, toks kliento nurodymas turi būti vykdomas tiksliai ir nenukrypstant
+nuo nurodyme pateiktų sąlygų. 
+2. Finansų
+maklerio įmonė, vykdydama šio straipsnio 1 dalyje nustatytą pareigą, turi
+patvirtinti ir įgyvendinti pavedimų vykdymo politiką, pagal kurią kliento
+pavedimas būtų įvykdytas geriausiomis klientui sąlygomis, taip pat turėti ir
+naudoti veiksmingas priemones, skirtas pavedimų vykdymo politikai įgyvendinti.
 3. Pavedimų
 vykdymo politikoje turi būti nurodyta informacija apie klientų pavedimų vykdymo
 vietas (atskirai kiekvienam finansinių priemonių tipui) ir priežastys,
@@ -1417,16 +1455,18 @@ lemiančios pavedimų vykdymo vietų pasirinkimą. Pavedimų vykdymo politikoje 
 būti nurodytos bent jau tos pavedimų vykdymo vietos, kuriose finansų maklerio
 įmonė gali nuolat pasiekti geriausią klientui rezultatą.
 4. Finansų
-maklerio įmonė privalo išsamiai supažindinti klientus su įmonės patvirtinta pavedimų
-vykdymo politika. Prieš pradėdama vykdyti kliento pavedimus, finansų maklerio
-įmonė turi gauti išankstinį kliento sutikimą dėl pavedimų vykdymo politikos.
+maklerio įmonė privalo išsamiai supažindinti klientus su įmonės patvirtinta
+pavedimų vykdymo politika. Prieš pradėdama vykdyti kliento pavedimus, finansų
+maklerio įmonė turi gauti išankstinį kliento sutikimą dėl pavedimų vykdymo
+politikos.
 5. Jei pavedimų
-vykdymo politika nustato, kad klientų pavedimai gali būti vykdomi už reguliuojamos
-rinkos ar daugiašalės prekybos sistemos ribų, finansų maklerio įmonė privalo
-apie šią galimybę pranešti klientui papildomai. Prieš pradėdama vykdyti kliento
-pavedimą už reguliuojamos rinkos ar daugiašalės prekybos sistemos ribų, finansų
-maklerio įmonė turi gauti aiškų išankstinį kliento sutikimą. Toks sutikimas
-gali būti bendro pobūdžio arba dėl kiekvieno sandorio atskirai. 
+vykdymo politika nustato, kad klientų pavedimai gali būti vykdomi už
+reguliuojamos rinkos ar daugiašalės prekybos sistemos ribų, finansų maklerio
+įmonė privalo apie šią galimybę pranešti klientui papildomai. Prieš pradėdama
+vykdyti kliento pavedimą už reguliuojamos rinkos ar daugiašalės prekybos
+sistemos ribų, finansų maklerio įmonė turi gauti aiškų išankstinį kliento
+sutikimą. Toks sutikimas gali būti bendro pobūdžio arba dėl kiekvieno sandorio
+atskirai. 
 6. Finansų
 maklerio įmonė privalo nuolat stebėti, ar pavedimų vykdymo politika veiksminga,
 o nustačiusi jos trūkumų – nedelsdama juos ištaisyti. Finansų maklerio įmonė
@@ -1453,10 +1493,10 @@ yra vykdomi laikantis jų gavimo finansų maklerio įmonėje laiko prioriteto.
 pateikia ribinį pavedimą (limit order) dėl akcijų, įtrauktų į
 prekybą reguliuojamoje rinkoje, ir šis pavedimas iš karto nėra įvykdomas
 įprastomis rinkos sąlygomis, finansų maklerio įmonė privalo, jei klientas nėra
-nurodęs kitaip, imtis priemonių, palengvinančių kuo greitesnį pavedimo
-įvykdymą, nedelsiant viešai paskelbdama apie šį kliento ribinį pavedimą tokiu
-būdu, kad informacija taptų lengvai prieinama kitiems rinkos dalyviams. Ši
-pareiga laikoma įvykdyta, jei kliento ribinis pavedimas pateikiamas įvykdyti
+nurodęs kitaip, imtis priemonių, palengvinančių kuo greitesnį pavedimo įvykdymą,
+nedelsiant viešai paskelbdama apie šį kliento ribinį pavedimą tokiu būdu, kad
+informacija taptų lengvai prieinama kitiems rinkos dalyviams. Ši pareiga
+laikoma įvykdyta, jei kliento ribinis pavedimas pateikiamas įvykdyti
 reguliuojamoje rinkoje ir (arba) daugiašalėje prekybos sistemoje.
 3. Šio
 straipsnio 2 dalyje numatyta pareiga netaikoma, jei kliento ribinis pavedimas
@@ -1493,13 +1533,13 @@ straipsnis. Profesionalieji klientai be atskiro pripažinimo
 Profesionaliaisiais klientais be atskiro pripažinimo laikomi:
 1) licencijuoti
 ir (arba) kitu būdu prižiūrimi subjektai, veikiantys finansų rinkose, – kredito
-įstaigos, finansų maklerio įmonės, kitos licencijuotos ir (arba) prižiūrimos
-finansų įstaigos, draudimo įmonės, kolektyvinio investavimo subjektai ir jų
-valdymo įmonės, pensijų fondai ir jų valdymo įmonės, prekiautojai biržos
-prekėmis ir išvestinėmis priemonėmis dėl biržos prekių, ateities sandoriais
-savo sąskaita prekiaujantys asmenys ir kiti instituciniai investuotojai. Šiame
-punkte nurodyti profesionalieji klientai apima Europos Sąjungos valstybėse
-narėse ir trečiosiose šalyse licencijuotus ir (arba) prižiūrimus subjektus;
+įstaigos, finansų maklerio įmonės, kitos licencijuotos ir (arba) prižiūrimos finansų
+įstaigos, draudimo įmonės, kolektyvinio investavimo subjektai ir jų valdymo
+įmonės, pensijų fondai ir jų valdymo įmonės, prekiautojai biržos prekėmis ir
+išvestinėmis priemonėmis dėl biržos prekių, ateities sandoriais savo sąskaita
+prekiaujantys asmenys ir kiti instituciniai investuotojai. Šiame punkte
+nurodyti profesionalieji klientai apima Europos Sąjungos valstybėse narėse ir
+trečiosiose šalyse licencijuotus ir (arba) prižiūrimus subjektus;
 2) didelės
 įmonės, atitinkančios bent 2 iš šių kriterijų: balanse nurodyto turto vertė –
 ne mažiau kaip 20 milijonų eurų; pardavimo grynosios pajamos – ne mažiau kaip
@@ -1528,11 +1568,11 @@ gali būti netaikomos visos ar dalis investuotojų apsaugos priemonių, nurodyt�
 maklerio įmonė privalo pranešti profesionaliajam klientui, kad jis turi teisę
 prašyti pakeisti investicinių paslaugų teikimo sutarties sąlygas siekiant
 aukštesnio kliento interesų apsaugos lygio.
-5. Šio
-straipsnio 1 dalyje nurodyti subjektai turi teisę kreiptis į finansų maklerio
-įmonę ir atsisakyti savo, kaip profesionaliojo kliento, statuso. Tokiu atveju
-finansų maklerio įmonė privalo jiems taikyti visas investuotojų apsaugos
-priemones, kurios taikomos neprofesionaliesiems klientams.
+5. Šio straipsnio
+1 dalyje nurodyti subjektai turi teisę kreiptis į finansų maklerio įmonę ir
+atsisakyti savo, kaip profesionaliojo kliento, statuso. Tokiu atveju finansų
+maklerio įmonė privalo jiems taikyti visas investuotojų apsaugos priemones,
+kurios taikomos neprofesionaliesiems klientams.
 6. Finansų
 maklerio įmonės klientas, kuris laikomas profesionaliuoju klientu, pats yra
 atsakingas už jam taikomo investuotojų apsaugos režimo pasirinkimą, jeigu, jo
@@ -1570,7 +1610,8 @@ klientai. Žinios ir patirtis gali būti įvertinama pasitelkiant tinkamumo test
 kuris taikomas finansų įstaigų vadovams. Mažų įmonių atveju analogiškai turi
 būti įvertinamas ir asmuo, įgaliotas sudaryti sandorius įmonės vardu.
 3. Siekiant
-asmenį pripažinti profesionaliuoju klientu, turi būti tenkinami bent 2 iš šių kriterijų:
+asmenį pripažinti profesionaliuoju klientu, turi būti tenkinami bent 2 iš šių
+kriterijų:
 1) per
 paskutinius keturis metų ketvirčius klientas kiekvieną ketvirtį atitinkamoje
 rinkoje yra vidutiniškai sudaręs po 10 didelių sandorių;
@@ -1674,9 +1715,9 @@ vientisumą.
 2. Finansų
 maklerio įmonė privalo ne mažiau kaip 10 metų saugoti visus duomenis ir
 dokumentus, susijusius su sandoriais dėl finansinių priemonių, kuriuos įmonė
-sudarė klientų vardu ar savo sąskaita taip, kad prireikus galėtų juos nedelsdama
-pateikti Vertybinių popierių komisijai. Jei sandoriai buvo sudaromi klientų
-vardu, papildomai turi būti saugomi kliento tapatybės duomenys ir ją
+sudarė klientų vardu ar savo sąskaita taip, kad prireikus galėtų juos
+nedelsdama pateikti Vertybinių popierių komisijai. Jei sandoriai buvo sudaromi
+klientų vardu, papildomai turi būti saugomi kliento tapatybės duomenys ir ją
 patvirtinantys dokumentai bei Pinigų plovimo prevencijos įstatymo reikalaujami
 duomenys ir informacija.
 3. Finansų
@@ -1694,9 +1735,9 @@ sandorio dalyku esančią finansinę priemonę, jos kiekį, sandorio sudarymo da
 ir laiką, sandorio kainą, taip pat duomenys apie pranešimą pateikiančią finansų
 maklerio įmonę.
 5. Pranešimą
-apie sudarytą sandorį gali pateikti finansų maklerio įmonė, jos vardu
-veikiantis trečiasis asmuo, Vertybinių popierių komisijos patvirtinta prekybos
-ar informacijos pateikimo sistema, taip pat reguliuojama rinka ar daugiašalė
+apie sudarytą sandorį gali pateikti finansų maklerio įmonė, jos vardu veikiantis
+trečiasis asmuo, Vertybinių popierių komisijos patvirtinta prekybos ar
+informacijos pateikimo sistema, taip pat reguliuojama rinka ar daugiašalė
 prekybos sistema, kuriose sandoris buvo sudarytas. Tais atvejais, kai apie
 sudarytus sandorius tiesiogiai praneša reguliuojama rinka, daugiašalė prekybos
 sistema arba Vertybinių popierių komisijos patvirtinta prekybos ar informacijos
@@ -1778,11 +1819,11 @@ visoje Europos Sąjungoje, neįskaitant pavedimų, kurie yra dideli, palyginti s
 įprastu tai akcijai rinkos dydžiu.
 6. Vertybinių
 popierių komisija, būdama labiausiai likvidumo aspektu susijusios rinkos (kaip
-tai nurodyta šio įstatymo 31 straipsnyje) priežiūros institucija ir atsižvelgdama
-į rinkoje įvykdytų pavedimų dėl akcijos aritmetinį vertės vidurkį, ne rečiau
-kaip kartą per metus nustato, kuriai akcijų klasei kiekviena akcija yra
-priskiriama. Ši informacija yra viešai paskelbiama visiems rinkos dalyviams
-Vertybinių popierių komisijos interneto tinklalapyje. 
+tai nurodyta šio įstatymo 31 straipsnyje) priežiūros institucija ir
+atsižvelgdama į rinkoje įvykdytų pavedimų dėl akcijos aritmetinį vertės
+vidurkį, ne rečiau kaip kartą per metus nustato, kuriai akcijų klasei kiekviena
+akcija yra priskiriama. Ši informacija yra viešai paskelbiama visiems rinkos
+dalyviams Vertybinių popierių komisijos interneto tinklalapyje. 
 7. Sisteminę
 prekybą vykdanti finansų maklerio įmonė privalo viešai skelbti nustatytas
 kotiruotes reguliariai ir nuolatos per visą įprastų prekybos valandų laiką.
@@ -1835,10 +1876,10 @@ duoti privalomus vykdyti nurodymus ir kitas šiame įstatyme ir kituose teisės
 aktuose nustatytas teises. 
 14. Sisteminę
 prekybą vykdanti finansų maklerio įmonė, vadovaudamasi savo verslo politika ir
-atsižvelgdama į objektyvius kriterijus, turi teisę nuspręsti, kuriems investuotojams
-bus suteikiama prieiga prie įmonės nustatytų kotiruočių. Šiuo tikslu įmonė turi
-patvirtinti taisykles, reglamentuojančias prieigos prie įmonės nustatytų
-kotiruočių suteikimą. 
+atsižvelgdama į objektyvius kriterijus, turi teisę nuspręsti, kuriems
+investuotojams bus suteikiama prieiga prie įmonės nustatytų kotiruočių. Šiuo
+tikslu įmonė turi patvirtinti taisykles, reglamentuojančias prieigos prie
+įmonės nustatytų kotiruočių suteikimą. 
 15. Sisteminę
 prekybą vykdanti finansų maklerio įmonė, atsižvelgdama į komercinio pobūdžio
 aplinkybes, tokias kaip investuotojo kreditingumo būklė, sandorio šalies ir
@@ -1861,21 +1902,22 @@ d. Europos Komisijos reglamento (EB) Nr. 1287/2006 nustatytų taisyklių.
 34 straipsnis. Finansų maklerio įmonių
 pareiga atskleisti poprekybinę informaciją
 1. Finansų
-maklerio įmonė, kliento vardu arba savo sąskaita sudariusi sandorį už reguliuojamos
-rinkos ar daugiašalės prekybos sistemos ribų dėl akcijų, įtrauktų į prekybą
-reguliuojamoje rinkoje, privalo viešai paskelbti sudaryto sandorio dydį, kainą
-ir sandorio sudarymo laiką. Ši informacija turi būti nedelsiant viešai
-paskelbiama įprastomis komercinėmis sąlygomis ir kuo mažiau nukrypstant nuo
-realaus laiko tokiu būdu, kad būtų lengvai prieinama kitiems rinkos dalyviams.
+maklerio įmonė, kliento vardu arba savo sąskaita sudariusi sandorį už
+reguliuojamos rinkos ar daugiašalės prekybos sistemos ribų dėl akcijų, įtrauktų
+į prekybą reguliuojamoje rinkoje, privalo viešai paskelbti sudaryto sandorio
+dydį, kainą ir sandorio sudarymo laiką. Ši informacija turi būti nedelsiant
+viešai paskelbiama įprastomis komercinėmis sąlygomis ir kuo mažiau nukrypstant
+nuo realaus laiko tokiu būdu, kad būtų lengvai prieinama kitiems rinkos
+dalyviams.
 2. Šio
 straipsnio 1 dalyje nurodyta informacija ir jos paskelbimo terminas neturi
 pažeisti šio įstatymo 59 straipsnyje nustatytų reikalavimų. Šio įstatymo 59
 straipsnio nuostatos, leidžiančios atidėti informacijos dėl tam tikrų sandorių
 rūšių paskelbimą, mutatis mutandis taikomos sandoriams, sudarytiems už
 reguliuojamos rinkos ar daugiašalės prekybos sistemos ribų. 
-3. Šiame straipsnyje
-nustatyti reikalavimai įgyvendinami laikantis 2006 m. rugpjūčio 10 d. Europos
-Komisijos reglamento (EB) Nr. 1287/2006 nustatytų taisyklių.
+3. Šiame
+straipsnyje nustatyti reikalavimai įgyvendinami laikantis 2006 m. rugpjūčio 10
+d. Europos Komisijos reglamento (EB) Nr. 1287/2006 nustatytų taisyklių.
 4. Šiame straipsnyje nustatyti reikalavimai licencijuotoms kredito įstaigoms taikomi mutatis mutandis. 
 35 straipsnis. Ikiprekybinės
 informacijos atskleidimo reikalavimai, taikomi daugiašalėms prekybos sistemoms
@@ -1891,8 +1933,8 @@ paklausos ir pasiūlos kainos lygius.
 2. Vertybinių
 popierių komisija, atsižvelgdama į rinkos modelį bei pavedimų tipą ir dydį,
 turi teisę nustatyti išimtis iš šio straipsnio 1 dalyje numatytos pareigos.
-Išimtys gali būti ypač taikomos pavedimams, kurie, palyginti su konkrečiai
-akcijai ar akcijų tipui įprastu rinkos dydžiu, yra dideli.
+Išimtys gali būti ypač taikomos pavedimams, kurie, palyginti su konkrečiai akcijai
+ar akcijų tipui įprastu rinkos dydžiu, yra dideli.
 3. Šiame
 straipsnyje nustatyti reikalavimai įgyvendinami laikantis 2006 m. rugpjūčio 10
 d. Europos Komisijos reglamento (EB) Nr. 1287/2006 nustatytų taisyklių.
@@ -1939,11 +1981,11 @@ apimtį, ir pateikti numatomos vykdyti veiklos programą, kurioje nurodomos
 planuojamos teikti investicinės ir papildomos paslaugos. 
 2. Vertybinių
 popierių komisija, gavusi šio straipsnio 1 dalyje nurodytą informaciją, per
-vieną mėnesį ją perduoda priimančiosios valstybės narės priežiūros
-institucijai. Finansų maklerio įmonė turi teisę pradėti teikti investicines
-paslaugas ir papildomas paslaugas kitoje valstybėje narėje nesteigdama filialo,
-praėjus vienam mėnesiui nuo visų reikalingų dokumentų ir informacijos
-Vertybinių popierių komisijai pateikimo.
+vieną mėnesį ją perduoda priimančiosios valstybės narės priežiūros institucijai.
+Finansų maklerio įmonė turi teisę pradėti teikti investicines paslaugas ir
+papildomas paslaugas kitoje valstybėje narėje nesteigdama filialo, praėjus
+vienam mėnesiui nuo visų reikalingų dokumentų ir informacijos Vertybinių
+popierių komisijai pateikimo.
 3. Jei šio
 straipsnio 1 dalyje nurodyti duomenys ir informacija keičiasi, finansų maklerio
 įmonė privalo apie numatomus pasikeitimus pranešti Vertybinių popierių
@@ -1966,12 +2008,13 @@ perduoda jai informaciją apie šios daugiašalės prekybos sistemos narius.
 38 straipsnis. Kitoje valstybėje narėje
 įsteigtų finansų maklerio įmonių teisė teikti investicines paslaugas Lietuvos
 Respublikoje nesteigiant filialo
-1. Kitoje valstybėje
-narėje įsteigta finansų maklerio įmonė turi teisę teikti investicines ir
-papildomas paslaugas Lietuvos Respublikoje nesteigdama filialo, su sąlyga, kad
-teisę teikti konkrečias investicines ar papildomas paslaugas suteikia įmonės
-priežiūros institucijos išduota licencija. Papildomos paslaugos gali būti
-teikiamos tik tuo atveju, jei teikiama bent viena investicinė paslauga.
+1. Kitoje
+valstybėje narėje įsteigta finansų maklerio įmonė turi teisę teikti
+investicines ir papildomas paslaugas Lietuvos Respublikoje nesteigdama filialo,
+su sąlyga, kad teisę teikti konkrečias investicines ar papildomas paslaugas
+suteikia įmonės priežiūros institucijos išduota licencija. Papildomos paslaugos
+gali būti teikiamos tik tuo atveju, jei teikiama bent viena investicinė
+paslauga.
 2. Kitoje
 valstybėje narėje įsteigta finansų maklerio įmonė turi teisę pradėti teikti
 investicines paslaugas Lietuvos Respublikoje nesteigdama filialo arba pakeisti
@@ -1979,9 +2022,9 @@ Lietuvos Respublikoje teikiamų investicinių paslaugų apimtį po to, kai
 Vertybinių popierių komisija gauna įmonės priežiūros institucijos pranešimą,
 kuriame nurodoma, kad finansų maklerio įmonė ketina Lietuvos Respublikoje
 teikti investicines paslaugas arba keisti jų apimtį, ir numatomos vykdyti
-veiklos programą, kurioje nurodomos planuojamos teikti investicinės ir
-papildomos paslaugos. Šią informaciją Vertybinių popierių komisija paskelbia
-viešai ne vėliau kaip per 3 darbo dienas.
+veiklos programą, kurioje nurodomos planuojamos teikti investicinės ir papildomos
+paslaugos. Šią informaciją Vertybinių popierių komisija paskelbia viešai ne
+vėliau kaip per 3 darbo dienas.
 3. Jei šio
 straipsnio 2 dalyje nurodyti duomenys ir informacija pasikeičia, finansų
 maklerio įmonė privalo apie numatomus pasikeitimus pranešti savo buveinės
@@ -2024,9 +2067,9 @@ priežiūros institucijai ir apie tai praneša pranešimą pateikusiai finansų
 maklerio įmonei, išskyrus atvejus, kai Vertybinių popierių komisija turi
 pagrindą abejoti įmonės valdymo struktūros ar finansinės padėties pakankamumu
 atsižvelgiant į numatomos vykdyti veiklos pobūdį. Be to, Vertybinių popierių
-komisija priimančiosios valstybės narės priežiūros institucijai perduoda informaciją
-apie oficialiai įsteigtą investuotojų draudimo sistemą, kurios narė yra filialą
-steigianti finansų maklerio įmonė. 
+komisija priimančiosios valstybės narės priežiūros institucijai perduoda
+informaciją apie oficialiai įsteigtą investuotojų draudimo sistemą, kurios narė
+yra filialą steigianti finansų maklerio įmonė. 
 4. Jei šio
 straipsnio 1 dalyje nurodyta informacija keičiasi, finansų maklerio įmonė
 privalo apie tai raštu pranešti Vertybinių popierių komisijai ne vėliau kaip
@@ -2037,16 +2080,16 @@ institucijai.
 Vertybinių popierių komisija nustato, kad finansų maklerio įmonės valdymo
 struktūra arba finansinė padėtis, atsižvelgiant į numatomos vykdyti veiklos
 pobūdį, yra nepakankama, Vertybinių popierių komisija atsisako perduoti šio
-straipsnio 1 dalyje nurodytą informaciją priimančiosios valstybės narės priežiūros
-institucijai ir apie tai per šio straipsnio 3 dalyje numatytą terminą praneša
-pranešimą pateikusiai finansų maklerio įmonei, nurodydama atsisakymo perduoti
-informaciją motyvus.
+straipsnio 1 dalyje nurodytą informaciją priimančiosios valstybės narės
+priežiūros institucijai ir apie tai per šio straipsnio 3 dalyje numatytą
+terminą praneša pranešimą pateikusiai finansų maklerio įmonei, nurodydama
+atsisakymo perduoti informaciją motyvus.
 6. Finansų
 maklerio įmonės filialas gali būti įsteigtas ir pradėti veiklą po to, kai įmonė
 gauna pranešimą iš priimančiosios valstybės narės priežiūros institucijos,
 kuriuo patvirtinama apie perduotos informacijos gavimą, arba kai per 2 mėnesius
-po to, kai Vertybinių popierių komisija perdavė informaciją, negaunama jokio pranešimo.
-
+po to, kai Vertybinių popierių komisija perdavė informaciją, negaunama jokio
+pranešimo. 
 7. Šio straipsnio 2 dalies nuostatos licencijuotoms kredito įstaigoms taikomos mutatis mutandis. 
  
 40 straipsnis. Kitose valstybėse narėse
@@ -2062,14 +2105,14 @@ jei teikiama bent viena investicinė paslauga.
 maklerio įmonės filialas gali būti įsteigtas ir pradėti veiklą Lietuvos
 Respublikoje po to, kai įmonės priežiūros institucija perduoda Vertybinių
 popierių komisijai pranešimą, kuriame pateikiama šio įstatymo 39 straipsnio 1
-dalyje nurodyta informacija. Gavusi šią informaciją, Vertybinių popierių
-komisija pasiruošia vykdyti priežiūrą, nurodo finansų maklerio įmonei, kurių
-veiklos reikalavimų, nustatytų viešo intereso sumetimais, ji privalės laikytis,
-ir apie tai ne vėliau kaip per 2 mėnesius praneša finansų maklerio įmonei.
-Filialas gali būti įsteigtas, kai finansų maklerio įmonė gauna tokį Vertybinių
-popierių komisijos pranešimą, o jei pranešimo negauna, – kai praeina 2 mėnesiai
-nuo tada, kai įmonės priežiūros institucija perdavė Vertybinių popierių
-komisijai šioje dalyje numatytą informaciją.
+dalyje nurodyta informacija. Gavusi šią informaciją, Vertybinių popierių komisija
+pasiruošia vykdyti priežiūrą, nurodo finansų maklerio įmonei, kurių veiklos
+reikalavimų, nustatytų viešo intereso sumetimais, ji privalės laikytis, ir apie
+tai ne vėliau kaip per 2 mėnesius praneša finansų maklerio įmonei. Filialas
+gali būti įsteigtas, kai finansų maklerio įmonė gauna tokį Vertybinių popierių
+komisijos pranešimą, o jei pranešimo negauna, – kai praeina 2 mėnesiai nuo
+tada, kai įmonės priežiūros institucija perdavė Vertybinių popierių komisijai
+šioje dalyje numatytą informaciją.
 3. Šio straipsnio nuostatos licencijuotoms kredito įstaigoms taikomos mutatis mutandis. 
  
 41 straipsnis. Finansų maklerio įmonės
@@ -2192,8 +2235,8 @@ rinkos licencija išduodama tik tuo atveju, jei Vertybinių popierių komisija y
 visiškai įsitikinusi, kad rinkos operatorius ir reguliuojamos rinkos prekybos
 ir kitos sistemos atitinka šiame skirsnyje nustatytus reikalavimus.
 3. Steigiama
-arba veikianti akcinė bendrovė, ketinanti verstis reguliuojamos rinkos operatoriaus
-veikla, Vertybinių popierių komisijai turi pateikti:
+arba veikianti akcinė bendrovė, ketinanti verstis reguliuojamos rinkos
+operatoriaus veikla, Vertybinių popierių komisijai turi pateikti:
 1) prašymą,
 kuriame nurodytas reguliuojamos rinkos operatoriaus steigimo tikslas,
 pavadinimas, buveinė, duomenys apie steigėjus (akcininkus) ir vadovus;
@@ -2238,8 +2281,8 @@ kitiems teisės aktams;
 2) pateiktuose
 dokumentuose nurodyta neteisinga informacija;
 3) pateikta
-reguliuojamos rinkos veiklos programa yra nepakankama, kad reguliuojama rinka
-tinkamai vykdytų savo funkcijas;
+reguliuojamos rinkos veiklos programa yra nepakankama, kad reguliuojama rinka tinkamai
+vykdytų savo funkcijas;
 4) pretendento
 akcijų paketo turėtojai neatitinka šio įstatymo 50 straipsnyje nustatytų
 sąlygų;
@@ -2322,26 +2365,26 @@ straipsnis. Reguliuojamos rinkos operatoriaus valdymas
 1. Reguliuojamos
 rinkos operatorius privalo turėti kolegialų valdymo organą – valdybą. 
 2. Vertybinių
-popierių komisijos atstovas turi teisę dalyvauti reguliuojamos rinkos operatoriaus
-valdymo organų posėdžiuose su patariamuoju balsu ir gauti posėdžio dalyviams
-pateikiamą medžiagą.
+popierių komisijos atstovas turi teisę dalyvauti reguliuojamos rinkos
+operatoriaus valdymo organų posėdžiuose su patariamuoju balsu ir gauti posėdžio
+dalyviams pateikiamą medžiagą.
  
 49
 straipsnis. Reguliuojamos rinkos operatoriaus vadovai
 1. Reguliuojamos
-rinkos operatoriaus vadovai turi būti nepriekaištingos reputacijos ir turėti pakankamą
-patirtį, kad būtų užtikrintas patikimas ir skaidrus reguliuojamos rinkos
-valdymas. Reguliuojamos rinkos operatorius privalo suteikti Vertybinių popierių
-komisijai informaciją apie reguliuojamos rinkos operatoriaus vadovus, taip pat
-pranešti apie vėlesnius pateiktos informacijos pasikeitimus. 
+rinkos operatoriaus vadovai turi būti nepriekaištingos reputacijos ir turėti
+pakankamą patirtį, kad būtų užtikrintas patikimas ir skaidrus reguliuojamos
+rinkos valdymas. Reguliuojamos rinkos operatorius privalo suteikti Vertybinių
+popierių komisijai informaciją apie reguliuojamos rinkos operatoriaus vadovus,
+taip pat pranešti apie vėlesnius pateiktos informacijos pasikeitimus. 
 2. Vertybinių
 popierių komisija turi teisę prieštarauti reguliuojamos rinkos operatoriaus
 vadovų kandidatūroms, jei yra pagrindas manyti, kad siūlomos vadovų
 kandidatūros kelia grėsmę skaidriam ir patikimam reguliuojamos rinkos valdymui
 ir veiklai.
-3.
-Preziumuojama, kad kol neįrodyta kitaip, licencijuotos reguliuojamos rinkos
-operatoriaus vadovai atitinka šio straipsnio 1 dalyje nustatytus reikalavimus. 
+3. Preziumuojama,
+kad kol neįrodyta kitaip, licencijuotos reguliuojamos rinkos operatoriaus
+vadovai atitinka šio straipsnio 1 dalyje nustatytus reikalavimus. 
  
 50 straipsnis. Reikalavimai asmenims,
 darantiems didelę įtaką reguliuojamos rinkos valdymui
@@ -2483,13 +2526,13 @@ Perleidžiamieji vertybiniai popieriai, kurie buvo įtraukti į prekybą
 reguliuojamoje rinkoje, gali būti papildomai įtraukiami į prekybą kitose
 reguliuojamose rinkose, neatsižvelgiant į tai, ar yra šių vertybinių popierių
 emitento sutikimas dėl tokio įtraukimo, su sąlyga, kad laikomasi kituose teisės
-aktuose nustatytų perleidžiamųjų vertybinių popierių įtraukimo į prekybą reguliuojamoje
-rinkoje reikalavimų. Reguliuojama rinka privalo informuoti vertybinių popierių
-emitentą, kad jo išleistais vertybiniais popieriais prekiaujama šioje
-reguliuojamoje rinkoje. Emitentas neturi pareigos tiesiogiai pateikti
-reguliuojamai rinkai šio straipsnio 3 ir 4 dalyse nurodytą informaciją, jei
-vertybiniai popieriai buvo įtraukti į prekybą šioje reguliuojamoje rinkoje be
-jų emitento sutikimo.
+aktuose nustatytų perleidžiamųjų vertybinių popierių įtraukimo į prekybą
+reguliuojamoje rinkoje reikalavimų. Reguliuojama rinka privalo informuoti
+vertybinių popierių emitentą, kad jo išleistais vertybiniais popieriais
+prekiaujama šioje reguliuojamoje rinkoje. Emitentas neturi pareigos tiesiogiai
+pateikti reguliuojamai rinkai šio straipsnio 3 ir 4 dalyse nurodytą
+informaciją, jei vertybiniai popieriai buvo įtraukti į prekybą šioje
+reguliuojamoje rinkoje be jų emitento sutikimo.
 8. Šiame
 straipsnyje nustatyti reikalavimai įgyvendinami laikantis 2006 m. rugpjūčio 10
 d. Europos Komisijos reglamento (EB) Nr. 1287/2006 nustatytų taisyklių.
@@ -2530,8 +2573,8 @@ pranešimą apie prekybos finansine priemone tos valstybės narės reguliuojamoj
 rinkoje sustabdymą ar nutraukimą, priima sprendimą sustabdyti ar nutraukti
 prekybą šia finansine priemone Lietuvos Respublikoje veikiančioje
 reguliuojamoje rinkoje ir Vertybinių popierių komisijos prižiūrimoje
-daugiašalėje prekybos sistemoje, išskyrus atvejus, kai tai galėtų padaryti
-didelės žalos investuotojų interesams arba sklandžiam rinkos veikimui.
+daugiašalėje prekybos sistemoje, išskyrus atvejus, kai tai galėtų padaryti didelės
+žalos investuotojų interesams arba sklandžiam rinkos veikimui.
 Straipsnio
 pakeitimai:
 Nr. XI-875,
@@ -2581,8 +2624,8 @@ straipsnio 13 dalies 2 ar 3 punkte.
 rinkos nariai neprivalo vienas kito atžvilgiu laikytis šio įstatymo 22, 24 ir
 25 straipsniuose nustatytų pareigų dėl toje reguliuojamoje rinkoje sudaromų
 sandorių. Tačiau reguliuojamos rinkos nariai laikosi šio įstatymo 22, 24 ir 25
-straipsniuose nustatytų reikalavimų savo klientų atžvilgiu, kai, veikdami savo klientų
-vardu, vykdo jų pavedimus toje reguliuojamoje rinkoje.
+straipsniuose nustatytų reikalavimų savo klientų atžvilgiu, kai, veikdami savo
+klientų vardu, vykdo jų pavedimus toje reguliuojamoje rinkoje.
 5. Narystę
 reguliuojamoje rinkoje ir prieigą prie jos reglamentuojančios taisyklės turi
 numatyti galimybę finansų maklerio įmonėms ir kredito įstaigoms tapti
@@ -2618,9 +2661,9 @@ reguliuojamos rinkos nariai laikosi rinkos operatoriaus nustatytų
 reikalavimų, ir taikyti reguliuojamos rinkos taisyklėse numatytas sankcijas už
 nustatytų reikalavimų nesilaikymą.
 11. Lietuvos
-Respublikoje veikiančios reguliuojamos rinkos operatorius privalo Vertybinių
-popierių komisijos nustatyta tvarka teikti informaciją apie savo
-administruojamos reguliuojamos rinkos narius. 
+Respublikoje veikiančios reguliuojamos rinkos operatorius privalo Vertybinių popierių
+komisijos nustatyta tvarka teikti informaciją apie savo administruojamos
+reguliuojamos rinkos narius. 
  
 57
 straipsnis. Prekyba finansinėmis priemonėmis reguliuojamoje rinkoje
@@ -2690,14 +2733,14 @@ popierių komisija, atsižvelgdama į reguliuojamoje rinkoje sudaromų sandorių
 rūšį ir dydį, turi teisę leisti atidėti šio straipsnio 1 dalyje nurodytos
 informacijos paskelbimą. Vertybinių popierių komisija turi teisę leisti atidėti
 informacijos paskelbimą bent jau dėl sandorių, kurie yra dideli, palyginti su
-konkrečiai akcijai ar akcijų tipui įprastu rinkos dydžiu. Reguliuojama rinka turi
-gauti išankstinį Vertybinių popierių komisijos sutikimą dėl priemonių, kurias
-ketinama naudoti atidedant informacijos paskelbimą, o informacija apie šias
-priemones turi būti iš anksto atskleista rinkos dalyviams ir kitiems
+konkrečiai akcijai ar akcijų tipui įprastu rinkos dydžiu. Reguliuojama rinka
+turi gauti išankstinį Vertybinių popierių komisijos sutikimą dėl priemonių,
+kurias ketinama naudoti atidedant informacijos paskelbimą, o informacija apie
+šias priemones turi būti iš anksto atskleista rinkos dalyviams ir kitiems
 investuotojams.
-4. Šiame straipsnyje
-nustatyti reikalavimai įgyvendinami laikantis 2006 m. rugpjūčio 10 d. Europos
-Komisijos reglamento (EB) Nr. 1287/2006 nustatytų taisyklių.
+4. Šiame
+straipsnyje nustatyti reikalavimai įgyvendinami laikantis 2006 m. rugpjūčio 10
+d. Europos Komisijos reglamento (EB) Nr. 1287/2006 nustatytų taisyklių.
  
 60 straipsnis. Reguliuojamos rinkos
 susitarimai su pagrindine sutarties šalimi ir tarpuskaitos bei atsiskaitymų
@@ -2748,8 +2791,9 @@ arba dėl buvimo emitento akcininku, ar dėl to, kad ją gavo nusikalstamu būdu
 draudžiama tiesiogiai ar netiesiogiai bandyti sudaryti ar sudaryti savo ar
 trečiojo asmens sąskaita sandorius dėl finansinių priemonių, su kuriomis
 informacija susijusi, kol ji bus viešai atskleista. Jeigu nurodytas asmuo yra
-juridinis asmuo, atitinkamas draudimas taip pat taikomas fiziniams asmenims, dalyvaujantiems
-priimant sprendimus dėl sandorių to juridinio asmens sąskaita sudarymo.
+juridinis asmuo, atitinkamas draudimas taip pat taikomas fiziniams asmenims,
+dalyvaujantiems priimant sprendimus dėl sandorių to juridinio asmens sąskaita
+sudarymo.
 2. Šio
 straipsnio 1 dalyje nurodytiems asmenims taip pat draudžiama: 
 1)
@@ -2760,12 +2804,11 @@ tarnybinę, profesinę veiklą arba pareigas;
 remiantis viešai neatskleista informacija rekomenduoti, paskatinti ar pasiūlyti
 kitam asmeniui sudaryti sandorį dėl finansinių priemonių, su kuriomis viešai
 neatskleista informacija yra susijusi.
-3.
-Draudimai, nustatyti šiame straipsnyje, taip pat taikomi kiekvienam viešai
-neatskleistą informaciją turinčiam asmeniui, kuris žino ar turi žinoti, kad ta
-informacija nėra viešai atskleista. Šio straipsnio 1 dalyje nustatyti draudimai
-netaikomi sandorių, sudarytų iki viešai neatskleistos informacijos sužinojimo,
-vykdymui. 
+3. Draudimai,
+nustatyti šiame straipsnyje, taip pat taikomi kiekvienam viešai neatskleistą
+informaciją turinčiam asmeniui, kuris žino ar turi žinoti, kad ta informacija
+nėra viešai atskleista. Šio straipsnio 1 dalyje nustatyti draudimai netaikomi
+sandorių, sudarytų iki viešai neatskleistos informacijos sužinojimo, vykdymui. 
 4.
 Emitento vadovai ir su jais glaudžiai susiję asmenys, kurių sąrašą nustato
 Vertybinių popierių komisija, šios nustatyta tvarka ir terminais turi pranešti
@@ -2783,21 +2826,22 @@ emitento vertybinių popierių ir dėl išvestinių ar kitų su tais vertybiniai
 popieriais susietų finansinių priemonių nuo ataskaitinio laikotarpio pabaigos
 iki ataskaitinio laikotarpio rezultatų paskelbimo, įskaitant rezultatų
 paskelbimo dieną, išskyrus atvejus, kai vykdomi išankstiniai įsipareigojimai,
-dėl kurių buvo sutarta anksčiau nei baigėsi ataskaitinis laikotarpis ar esant
-kitoms išskirtinėms aplinkybėms. Šioje dalyje vartojama sąvoka „ataskaitinis
+dėl kurių buvo sutarta anksčiau nei baigėsi ataskaitinis laikotarpis ar esant kitoms
+išskirtinėms aplinkybėms. Šioje dalyje vartojama sąvoka „ataskaitinis
 laikotarpis“ suprantama kaip laikotarpis, kuriam sudaromas įmonės metinių arba
 tarpinių finansinių ataskaitų rinkinys.
-6. Emitentas ar emitento
-vardu ar sąskaita veikiantis asmuo, kuris, atlikdamas įprastines tarnybines,
-profesines ar kitas pareigas, viešai neatskleistą informaciją atskleidžia bet
-kuriam trečiajam asmeniui, turi tuo pačiu metu (jei atskleidimas iš anksto
-neapgalvotas – tuoj pat po atskleidimo) veiksmingai paskelbti visą šią
-informaciją visuomenei. Šis reikalavimas netaikomas, jei informaciją sužinojęs
-asmuo privalo laikytis konfidencialumo pareigos, atsirandančios iš teisės aktų,
-įmonės įstatų ar sutarties. Emitentai ar asmenys, veikiantys emitentų vardu ar
-jų sąskaita, Vertybinių popierių komisijos nustatyta tvarka turi jai pranešti
-duomenis (įskaitant asmens kodus) apie asmenis, turinčius teisę sužinoti viešai
-neatskleistą informaciją darbo sutarčių ar kitokiais pagrindais.
+6. Emitentas ar
+emitento vardu ar sąskaita veikiantis asmuo, kuris, atlikdamas įprastines
+tarnybines, profesines ar kitas pareigas, viešai neatskleistą informaciją
+atskleidžia bet kuriam trečiajam asmeniui, turi tuo pačiu metu (jei
+atskleidimas iš anksto neapgalvotas – tuoj pat po atskleidimo) veiksmingai
+paskelbti visą šią informaciją visuomenei. Šis reikalavimas netaikomas, jei
+informaciją sužinojęs asmuo privalo laikytis konfidencialumo pareigos,
+atsirandančios iš teisės aktų, įmonės įstatų ar sutarties. Emitentai ar
+asmenys, veikiantys emitentų vardu ar jų sąskaita, Vertybinių popierių
+komisijos nustatyta tvarka turi jai pranešti duomenis (įskaitant asmens kodus)
+apie asmenis, turinčius teisę sužinoti viešai neatskleistą informaciją darbo
+sutarčių ar kitokiais pagrindais.
 7.
 Finansų maklerio įmonė ar kredito įstaiga, tarpininkaudama sudarant sandorį ir
 pagrįstai įtardama, kad sandoris vyktų pažeidžiant šio straipsnio 1, 2 ar 3
@@ -2819,12 +2863,12 @@ finansinių priemonių, kuriomis prekiaujama Lietuvos Respublikoje esančiose ar
 veikiančiose reguliuojamose rinkose ar daugiašalėse prekybos sistemose (arba
 dėl kurių įtraukimo į tokias rinkas ar sistemas yra kreiptasi), atžvilgiu
 taikomi tiek veiksmams, atliktiems Lietuvos Respublikos teritorijoje, tiek už
-jos ribų. Šiame straipsnyje ir 63 straipsnyje numatyti draudimai ir reikalavimai
-finansinių priemonių, kuriomis prekiaujama valstybių narių reguliuojamose
-rinkose ar daugiašalėse prekybos sistemose (arba dėl kurių įtraukimo į tokias
-rinkas ar sistemas yra kreiptasi), atžvilgiu taikomi veiksmams, atliktiems
-Lietuvos Respublikos teritorijoje, net jei atitinkamas sandoris yra sudarytas
-už tokios rinkos ar sistemos ribų.
+jos ribų. Šiame straipsnyje ir 63 straipsnyje numatyti draudimai ir
+reikalavimai finansinių priemonių, kuriomis prekiaujama valstybių narių
+reguliuojamose rinkose ar daugiašalėse prekybos sistemose (arba dėl kurių
+įtraukimo į tokias rinkas ar sistemas yra kreiptasi), atžvilgiu taikomi
+veiksmams, atliktiems Lietuvos Respublikos teritorijoje, net jei atitinkamas
+sandoris yra sudarytas už tokios rinkos ar sistemos ribų.
 11.
 Šiame straipsnyje numatyti draudimai taikomi ir finansinėms priemonėms,
 kuriomis nėra prekiaujama šio straipsnio 9 dalyje numatytose rinkose, jeigu šių
@@ -2833,8 +2877,8 @@ Straipsnio
 pakeitimai:
 Nr. XI-199,
 2009-03-19, Žin., 2009, Nr. 38-1438 (2009-04-04)
-Nr. XI-875,
-2010-06-03, Žin., 2010, Nr. 71-3551 (2010-06-19)
+Nr. XI-875, 2010-06-03,
+Žin., 2010, Nr. 71-3551 (2010-06-19)
  63 straipsnis. Draudimas manipuliuoti rinka 
 1.
 Visiems asmenims draudžiama:
@@ -2889,9 +2933,9 @@ nurodyti interesų konfliktus, susijusius su finansinėmis priemonėmis, su
 kuriomis susijusi ta informacija.
 4.
 Siekdama užtikrinti, kad būtų laikomasi šiame straipsnyje ir šio įstatymo 62
-straipsnyje nustatytų reikalavimų, Vertybinių popierių komisija imasi
-priemonių, leidžiančių užtikrinti tinkamą visuomenės informavimą (įskaitant bet
-kurios žinomos informacijos viešą paskelbimą).
+straipsnyje nustatytų reikalavimų, Vertybinių popierių komisija imasi priemonių,
+leidžiančių užtikrinti tinkamą visuomenės informavimą (įskaitant bet kurios
+žinomos informacijos viešą paskelbimą).
 5.
 Informaciją, kuri gali labai paveikti finansinių priemonių rinką, viešosios
 informacijos platintojai turi platinti laikydamiesi sąžiningumo ir skaidrumo
@@ -2915,18 +2959,20 @@ perdavimu įkaito turėtojui.
 3. Valstybėse narėse ar trečiosiose šalyse registruotų sąskaitų
 tvarkytojų klientų sąskaitos gali būti atidaromos sąskaitų tvarkytojų vardu,
 nurodant, kad jie veikia kaip sąskaitų tvarkytojai ir kad sąskaita yra
-atidaryta klientų naudai. Valstybių narių ar trečiųjų šalių sąskaitų
-tvarkytojai, kurių vardu yra atidarytos tokios sąskaitos, Vertybinių popierių
-komisijos ar Lietuvos centrinio vertybinių popierių depozitoriumo reikalavimu
-privalo nurodyti klientus, kurių naudai yra įgytos finansinės priemonės.
+atidaryta klientų naudai. Lietuvos Respublikoje registruoti sąskaitų
+tvarkytojai, tvarkantys valstybėse narėse ar trečiosiose šalyse registruotų
+sąskaitų tvarkytojų sąskaitų, atidarytų tų sąskaitų tvarkytojų klientų naudai,
+apskaitą, turi užtikrinti, kad Vertybinių popierių komisijos ar Centrinio
+depozitoriumo reikalavimu būtų nurodomi klientai, kurių naudai yra įgytos
+finansinės priemonės.
 4. Lietuvos Respublikoje registruotų sąskaitų tvarkytojų bendrosios
 klientų sąskaitos gali būti atidaromos sąskaitų tvarkytojų vardu pas kitą
 Lietuvos Respublikoje registruotą sąskaitų tvarkytoją, nurodant, kad jie veikia
-kaip sąskaitų tvarkytojai ir sąskaita yra atidaryta klientų naudai. Lietuvos
-Respublikoje registruoti sąskaitų tvarkytojai, kurių vardu yra atidarytos
-tokios sąskaitos, Vertybinių popierių komisijos ar Lietuvos centrinio
-vertybinių popierių depozitoriumo reikalavimu privalo nurodyti klientus, kurių
-naudai yra įgytos finansinės priemonės.
+kaip sąskaitų tvarkytojai ir kad sąskaita yra atidaryta klientų naudai.
+Lietuvos Respublikoje registruoti sąskaitų tvarkytojai, kurių vardu yra
+atidarytos tokios sąskaitos, Vertybinių popierių komisijos ar Centrinio
+depozitoriumo reikalavimu privalo nurodyti klientus, kurių naudai yra
+įgytos finansinės priemonės.
 5. Finansinės priemonės, įkeičiamos Europos centriniam bankui ar kitos
 valstybės narės centriniam bankui, gali būti fiksuojamos įrašais Lietuvos banko
 vardu Centriniame depozitoriume atidarytose sąskaitose, nurodant įkaito
@@ -2942,8 +2988,10 @@ Straipsnio
 pakeitimai:
 Nr. XI-199,
 2009-03-19, Žin., 2009, Nr. 38-1438 (2009-04-04)
-Nr. XI-875, 2010-06-03,
-Žin., 2010, Nr. 71-3551 (2010-06-19)
+Nr. XI-875,
+2010-06-03, Žin., 2010, Nr. 71-3551 (2010-06-19)
+Nr.
+XI-1402, 2011-05-24, Žin., 2011, Nr. 71-3364 (2011-06-11)
  
 65 straipsnis. Finansinių priemonių sąskaitų
 tvarkymas
@@ -2993,31 +3041,105 @@ tvarkytojai sutartyje numatytu būdu ir tvarka privalo pateikti ataskaitą apie
 finansinių priemonių sąskaitos būklę paskutinės praėjusių metų dienos
 pabaigoje.
  
-67
-straipsnis. Centrinis depozitoriumas
-1. Centrinis
-depozitoriumas yra akcinė bendrovė, veikianti pagal šį įstatymą ir savo
-įstatus.
-2. Centrinio depozitoriumo akcininkais gali būti tik
-Lietuvos Respublika, Lietuvos bankas ar Lietuvos Respublikoje, kitoje
-valstybėje narėje ar valstybėje, kuri yra pradėjusi oficialias derybas dėl
-narystės Europos Sąjungoje, licencijuotos kredito įstaigos, finansų maklerio
-įmonės, draudimo įmonės, investicinės kintamojo kapitalo bendrovės ir
-investicinių fondų valdymo įmonės, pensijų fondų valdymo įmonės, reguliuojamos
-rinkos operatoriai, centriniai depozitoriumai bei pagrindinės sutarties šalys.
+67 straipsnis. Centrinis depozitoriumas
+1.
+Centrinis depozitoriumas yra akcinė bendrovė, veikianti pagal šį įstatymą ir
+savo įstatus.
+2.
+Centrinio depozitoriumo stebėtojų tarybos nariai, valdybos nariai ar vadovas
+turi būti nepriekaištingos reputacijos, turėti Vertybinių popierių komisijos
+nustatytą kvalifikaciją ar darbo patirtį finansų ir joms prilygintose
+institucijose.
+3.
+Centrinio depozitoriumo akcininkais gali būti tik Lietuvos Respublika, Lietuvos
+bankas, Lietuvos Respublikoje ar kitoje valstybėje narėje licencijuotos kredito
+įstaigos, finansų maklerio įmonės, draudimo įmonės, valdymo įmonės, rinkos
+operatoriai, centriniai depozitoriumai bei pagrindinės sutarties šalys.
 Centrinis depozitoriumas gali išleisti tik paprastąsias vardines akcijas.
-3. Centrinio depozitoriumo stebėtojų tarybos nariai,
-valdybos nariai ar vadovas turi būti nepriekaištingos reputacijos, turėti Vertybinių
-popierių komisijos nustatytą kvalifikaciją ar darbo patirtį finansų ir joms
-prilygintose institucijose.
+4.
+Centrinio depozitoriumo akcijų paketu laikoma jo įstatinio kapitalo ar
+balsavimo teisių dalis, sudaranti ne mažiau kaip 1/10 įstatinio kapitalo ar
+balsavimo teisių arba leidžianti daryti esminę įtaką Centrinio depozitoriumo
+valdymui. 
+5.
+Juridinis asmuo arba kartu veikiantys asmenys, siekiantys įsigyti Centrinio
+depozitoriumo akcijų paketą arba padidinti turimą akcijų paketą (toliau šiame
+straipsnyje – įsigyjantis asmuo) tiek, kad būtų peržengtos šio įstatymo 10
+straipsnio 1 dalyje nurodytos ribos (toliau šiame straipsnyje – siūlomas
+įsigijimas), turi gauti Vertybinių popierių komisijos sprendimą neprieštarauti
+siūlomam įsigijimui. Kartu veikiančiais asmenimis šiame straipsnyje laikomi du
+ar daugiau juridinių asmenų, kurie, remdamiesi aiškiai sudarytu ar numanomu
+žodiniu ar rašytiniu susitarimu, įgyvendina ar siekia įgyvendinti savo teises,
+kurias suteikia jų turimas Centrinio depozitoriumo akcijų paketas.
+6.
+Įsigyjantis asmuo privalo pateikti Vertybinių popierių komisijai rašytinį
+pranešimą apie siūlomą įsigijimą ir jame nurodyti ketinamo įsigyti akcijų
+paketo dydį. Kartu su pranešimu apie siūlomą įsigijimą reikia pateikti
+dokumentus ir duomenis, būtinus įsigyjančio asmens ir siūlomo įsigijimo
+vertinimui atlikti. 
+7.
+Vertybinių popierių komisija nustato kartu su pranešimu apie siūlomą įsigijimą
+pateikiamų dokumentų ir duomenų, būtinų įsigyjančio asmens ir siūlomo įsigijimo
+vertinimui atlikti, sąrašą. Šiame sąraše nurodyti dokumentai ir duomenys turi
+būti proporcingi, pritaikyti įsigyjančiam asmeniui ir siūlomam įsigijimui ir
+būtini įsigyjančio asmens ir siūlomo įsigijimo vertinimui pagal šio įstatymo 10
+straipsnio 10 dalyje nustatytus kriterijus atlikti.
+8.
+Vertybinių popierių komisija, gavusi įsigyjančio asmens pranešimą apie siūlomą
+įsigijimą ir visus šio straipsnio 7 dalyje nustatytame sąraše nurodytus
+dokumentus ir duomenis:
+1)
+per 20 darbo dienų atlieka įsigyjančio asmens vertinimą (toliau šiame
+straipsnyje – vertinimo laikotarpis);
+2)
+vertinimo laikotarpiu prireikus gali raštu paprašyti papildomos vertinimui
+užbaigti reikalingos informacijos. Šiuo atveju vertinimo laikotarpis
+skaičiuojamas nuo papildomos informacijos gavimo dienos;
+3)
+vertinimo laikotarpiu turi teisę konsultuotis su Lietuvos Respublikos ir kitų
+valstybių narių priežiūros institucijomis, jeigu įsigyjantis asmuo yra
+valstybėje narėje licencijuota ir (arba) prižiūrima įmonė.
+9.
+Vertybinių popierių komisija, atlikusi įsigyjančio asmens vertinimą, priima
+vieną iš šių sprendimų:
+1) neprieštarauti siūlomam įsigijimui. Apie šį
+sprendimą Vertybinių popierių komisija per 2 darbo dienas nuo sprendimo
+priėmimo raštu praneša įsigyjančiam asmeniui; 
+2)
+prieštarauti siūlomam įsigijimui, vadovaujantis šio įstatymo 10 straipsnio 10
+dalyje nustatytais kriterijais arba tais atvejais, kai įsigyjantis asmuo
+pateikė ne visus šio straipsnio 7 dalyje nustatytame sąraše nurodytus
+dokumentus ir duomenis ar nepateikė šio straipsnio 8 dalies 2 punkte nurodytos
+papildomos informacijos arba kai yra pagrindas manyti, kad siūlomas įsigijimas
+turės neigiamą įtaką saugiam ir veiksmingam finansinių priemonių rinkų
+veikimui. Apie šį sprendimą Vertybinių popierių komisija per 2 darbo dienas nuo
+sprendimo priėmimo raštu praneša įsigyjančiam asmeniui, nurodydama sprendimo
+motyvus. 
+10.
+Jeigu Vertybinių popierių komisija per vertinimo laikotarpį nepriima sprendimo
+prieštarauti siūlomam įsigijimui, laikoma, kad Vertybinių popierių komisija
+siūlomam įsigijimui neprieštarauja. 
+11.
+Asmens, įsigijusio Centrinio depozitoriumo akcijų paketą arba padidinusio
+akcijų paketą daugiau negu šio įstatymo 10 straipsnio 1 dalyje numatytos ribos
+negavus Vertybinių popierių komisijos sprendimo neprieštarauti siūlomam
+įsigijimui arba nepasibaigus siūlomo įsigijimo vertinimui, visos turimos
+akcijos praranda balsavimo teisę visuotiniame akcininkų susirinkime. Balsavimo
+teisė vėl įgyjama tą dieną, kurią gaunamas Vertybinių popierių komisijos
+sprendimas neprieštarauti siūlomam įsigijimui, arba jeigu Vertybinių popierių
+komisija vertinimo laikotarpiu nepareiškia prieštaravimo įsigijimui.
+Straipsnio
+pakeitimai:
+Nr.
+XI-1402, 2011-05-24, Žin., 2011, Nr. 71-3364 (2011-06-11)
  
 68
 straipsnis. Centrinio depozitoriumo teisės ir pareigos
 1. Centrinis
 depozitoriumas privalo:
 1) rengti ir
-teikti Vertybinių popierių komisijai tvirtinti Finansinių priemonių ir
-jų apyvartos apskaitos taisykles;
+teikti Vertybinių popierių komisijai tvirtinti Finansinių priemonių ir jų
+apyvartos apskaitos taisykles;
 2) rengti ir
 tvirtinti finansinių priemonių ir jų apyvartos apskaitos dokumentus,
 išsamiai nustatančius atskiras taisyklėse numatytas procedūras, taip pat kitus
@@ -3031,8 +3153,8 @@ kito sąskaitų tvarkytojo finansinių priemonių sąskaitą;
 5) kontroliuoti, kad išleistų į apyvartą kiekvienos emisijos finansinių
 priemonių skaičius atitiktų faktiškai cirkuliuojančių šių finansinių priemonių
 skaičių;
-6) rengti ir
-diegti priemones, užtikrinančias finansinių priemonių apskaitos sistemos
+6) rengti ir diegti
+priemones, užtikrinančias finansinių priemonių apskaitos sistemos
 vientisumą ir saugumą;
 7) kontroliuoti,
 kaip sąskaitų tvarkytojai laikosi finansinių priemonių apskaitos taisyklių ir
@@ -3058,7 +3180,19 @@ naudoti priemones ir sistemas veiklos rizikai nustatyti ir turėti veiksmingų
 priemonių potencialiai rizikai sumažinti;
 14) turėti
 pakankamus finansinius išteklius, užtikrinančius tinkamą Centrinio
-depozitoriumo veikimą.
+depozitoriumo veikimą;
+15)
+turėti tinkamų priemonių ir nustatytų procedūrų, skirtų nustatyti ir valdyti
+situacijas, dėl kurių gali būti neigiamų pasekmių finansinių priemonių rinkų,
+atsiskaitymo sistemų veikimui ar jų dalyviams, taip pat skirtų nustatyti ir
+valdyti interesų konfliktus tarp Centrinio depozitoriumo, jo akcininkų ar kitų rinkos
+dalyvių, ypač tais atvejais, kai tokie interesų konfliktai galėtų turėti
+neigiamų pasekmių veiksmingam finansinių priemonių rinkų ar atsiskaitymo
+sistemų veikimui;
+16)
+teikti Lietuvos bankui finansinių priemonių saugojimo, apskaitos, pervedimo ir
+su tuo susijusias paslaugas, reikalingas Lietuvos bankui ir Europos centrinių
+bankų sistemos funkcijoms vykdyti.
 2. Centrinis depozitoriumas turi teisę:
 1) aptarnauti tarpuskaitą ir piniginius atsiskaitymus už
 finansinių priemonių
@@ -3068,7 +3202,12 @@ perimti finansinių priemonių
 apskaitos tvarkymą;
 3) teikti emitentams ir sąskaitų tvarkytojams kitas su
 finansinių priemonių
-ir jų apyvartos apskaita bei atsiskaitymais susijusias paslaugas.
+ir jų apyvartos apskaita bei atsiskaitymais susijusias paslaugas;
+4) sudaryti
+sandorius su kitais asmenimis, pagal kuriuos šiems asmenims būtų perduodamas su
+finansinių priemonių ir jų apyvartos apskaita ir finansinių priemonių pervedimu
+susijusių funkcijų techninis atlikimas, jeigu tam neprieštarauja Vertybinių
+popierių komisija.
 3. Vertybinių
 popierių komisijos atstovas su patariamuoju balsu turi teisę dalyvauti
 Centrinio depozitoriumo valdymo organų posėdžiuose ir gauti posėdžio dalyviams
@@ -3092,6 +3231,8 @@ Straipsnio
 pakeitimai:
 Nr. XI-875,
 2010-06-03, Žin., 2010, Nr. 71-3551 (2010-06-19)
+Nr.
+XI-1402, 2011-05-24, Žin., 2011, Nr. 71-3364 (2011-06-11)
  
 VI
 SKYRIUS
@@ -3100,19 +3241,22 @@ PRIEMONIŲ RINKŲ PRIEŽIŪRA
  
 PIRMASIS
 SKIRSNIS
-VERTYBINIŲ POPIERIŲ
-KOMISIJOS TEISINIS STATUSAS
+VERTYBINIŲ
+POPIERIŲ KOMISIJOS TEISINIS STATUSAS
  
 69 straipsnis. Vertybinių popierių
 komisija – finansinių priemonių rinkų priežiūros institucija
 1. Finansinių
-priemonių rinkas reguliuoja ir prižiūri Lietuvos Respublikos vertybinių
-popierių komisija (toliau – Vertybinių popierių komisija).
+priemonių rinkas reguliuoja ir prižiūri Vertybinių popierių komisija.
 2. Vertybinių
 popierių komisija yra juridinis asmuo, turi antspaudą su Lietuvos valstybės
 herbu ir sąskaitą banke.
 3. Vertybinių popierių komisiją steigia ir likviduoja Seimas
 Vyriausybės teikimu.
+Straipsnio
+pakeitimai:
+Nr.
+XI-1402, 2011-05-24, Žin., 2011, Nr. 71-3364 (2011-06-11)
  
 70
 straipsnis. Vertybinių popierių komisijos sudėtis ir sudarymo tvarka
@@ -3159,9 +3303,9 @@ Vertybinių popierių komisijos narių darbo apmokėjimą reglamentuoja Valstyb�
 politikų ir valstybės pareigūnų darbo apmokėjimo įstatymas. Vertybinių popierių
 komisijos nariams Darbo kodeksas taikomas tiek, kiek jų statuso nereglamentuoja
 kiti įstatymai. Vertybinių popierių komisijos pirmininkas ir nariai gali būti
-skatinami vienkartinėmis piniginėmis išmokomis, neviršijant darbo užmokesčiui skirtų
-lėšų. Vertybinių popierių komisijos pirmininkas ir nariai skatinami šiais
-atvejais: 
+skatinami vienkartinėmis piniginėmis išmokomis, neviršijant darbo užmokesčiui
+skirtų lėšų. Vertybinių popierių komisijos pirmininkas ir nariai skatinami
+šiais atvejais: 
 1) už
 labai gerą darbą kalendoriniais metais; 
 2)
@@ -3181,71 +3325,91 @@ Straipsnio pakeitimas:
 Nr.
 X-1776,
 2008-11-06, Žin., 2008, Nr. 131-5026 (2008-11-15)
- 71 straipsnis. Vertybinių popierių komisijos uždaviniai ir funkcijos
-1. Vertybinių
-popierių komisijos uždaviniai yra:
-1) prižiūrėti,
-kaip laikomasi sąžiningos prekybos taisyklių finansinių priemonių apyvartoje;
-2) imtis
-priemonių, užtikrinančių veiksmingą finansinių priemonių rinkų veikimą ir
+ 
+71 straipsnis. Vertybinių popierių
+komisijos uždaviniai ir funkcijos
+1.
+Vertybinių popierių komisijos uždaviniai yra:
+1)
+prižiūrėti, kaip laikomasi sąžiningos prekybos taisyklių finansinių priemonių
+apyvartoje;
+2)
+imtis priemonių, užtikrinančių veiksmingą finansinių priemonių rinkų veikimą ir
 investuotojų apsaugą;
-3) teikti
-pasiūlymus dėl valstybės ekonominės politikos, skatinančios finansinių
+3)
+teikti pasiūlymus dėl valstybės ekonominės politikos, skatinančios finansinių
 priemonių rinkų plėtrą, formavimo;
-4) skleisti
-informaciją apie finansinių priemonių rinkų veikimo principus;
-5) imtis kitų
-priemonių šiam įstatymui ir kitiems teisės aktams, susijusiems su finansinių
-priemonių rinka, įgyvendinti.
-2. Įgyvendindama
-šio straipsnio 1 dalyje nustatytus uždavinius, Vertybinių popierių komisija
-vykdo šias funkcijas:
-1) rengia,
-tvirtina, keičia ir pripažįsta negaliojančiomis taisykles, reglamentuojančias
-reguliuojamų rinkų, finansų maklerio įmonių, finansų patarėjo įmonių ir
-maklerių licencijavimą ir veiklą, finansinių priemonių apyvartą;
-2) teikia
-išaiškinimus ir rekomendacijas finansinių priemonių apyvartos klausimais;
+4)
+skleisti informaciją apie finansinių priemonių rinkų veikimo principus;
+5)
+imtis kitų priemonių šiam įstatymui ir kitiems teisės aktams, susijusiems su
+finansinių priemonių rinka, įgyvendinti.
+2.
+Įgyvendindama šio straipsnio 1 dalyje nustatytus uždavinius, Vertybinių popierių
+komisija atlieka šias funkcijas:
+1)
+rengia, tvirtina, keičia ir pripažįsta netekusiomis galios taisykles,
+reglamentuojančias reguliuojamų rinkų, finansų maklerio įmonių, finansų
+patarėjo įmonių ir maklerių licencijavimą ir veiklą, finansinių priemonių
+apyvartą;
+2)
+teikia išaiškinimus ir rekomendacijas finansinių priemonių apyvartos
+klausimais;
 3)
 reguliuojamoms rinkoms, finansų maklerio įmonėms, finansų patarėjo įmonėms,
 makleriams išduoda licencijas ar panaikina jų galiojimą;
-4) stebi,
-analizuoja, tikrina ir kitaip prižiūri finansų maklerio įmonių, finansų
-patarėjo įmonių,
-reguliuojamų rinkų ir jų narių, Centrinio depozitoriumo bei sąskaitų tvarkytojų
-veiklą;
-5) taiko šiame
-ir kituose Lietuvos Respublikos įstatymuose nustatytas sankcijas asmenims,
-pažeidusiems šį įstatymą ir Vertybinių popierių komisijos nutarimus;
-6) spausdina ar dalyvauja spausdinant leidinius apie
-finansinių priemonių rinkų veikimą ir reguliavimą;
-7) rengia egzaminus ir atestacijas finansų maklerių žinioms ir
-kompetencijai įvertinti;
+4)
+stebi, analizuoja, tikrina ir kitaip prižiūri finansų maklerio įmonių, finansų
+patarėjo įmonių, reguliuojamų rinkų ir jų narių, Centrinio depozitoriumo ir
+sąskaitų tvarkytojų veiklą;
+5)
+taiko šiame ir kituose Lietuvos Respublikos įstatymuose nustatytas sankcijas
+asmenims, pažeidusiems šį įstatymą ir Vertybinių popierių komisijos nutarimus;
+6)
+rengia ar dalyvauja rengiant leidinius apie finansinių priemonių rinkų veikimą
+ir reguliavimą;
+7)
+rengia egzaminus ir atestacijas finansų maklerių žinioms ir kompetencijai
+įvertinti;
 8)
 bendradarbiauja su finansų maklerio įmonių asociacijomis;
-9) sudaro susitarimus su kitų
-valstybių atitinkamomis institucijomis dėl bendradarbiavimo ir keitimosi
-informacija;
-10) bendradarbiauja ir keičiasi
-reikalinga informacija su kitų valstybių atitinkamomis institucijomis;
-11) bendradarbiauja
-ir keičiasi informacija su kredito įstaigų, draudimo įmonių ir draudimo įmonių
-tarpininkų, taip pat kitomis finansų įstaigų priežiūrą vykdančiomis
-institucijomis; 
-12) paskiria savo atstovą į Finansų įstaigų bei
-draudimo įmonių veiklos reglamentavimo ir priežiūros koordinavimo komisiją;
-13) vykdo kitas šiame ir kituose
-Lietuvos Respublikos įstatymuose nustatytas funkcijas.
-3. Vertybinių popierių komisija privalo rengti ir pateikti visuomenei
-ir Seimui metų darbo ataskaitą. Joje turi būti apibūdinta ir finansinių
-priemonių rinkų plėtra bei pagrindiniai ataskaitinio laikotarpio įvykiai.
-4. Vertybinių
+9)
+sudaro susitarimus su kitų valstybių atitinkamomis institucijomis dėl
+bendradarbiavimo ir keitimosi informacija;
+10)
+bendradarbiauja ir keičiasi reikalinga informacija su kitų valstybių
+atitinkamomis institucijomis;
+11)
+bendradarbiauja ir keičiasi informacija su kredito įstaigų, draudimo įmonių ir
+draudimo įmonių tarpininkų, taip pat kitomis finansų įstaigų priežiūrą
+vykdančiomis institucijomis;
+12)
+paskiria savo atstovą į Finansų įstaigų bei draudimo įmonių veiklos
+reglamentavimo ir priežiūros koordinavimo komisiją;
+13)
+atlieka jungtinę (konsoliduotą) priežiūrą; 
+14)
+atlieka kitas šiame ir kituose Lietuvos Respublikos įstatymuose nustatytas
+funkcijas.
+3.
+Nepažeisdama šio ir kitų įstatymų nuostatų, Vertybinių popierių komisija,
+įgyvendindama jai nustatytus uždavinius ir pavestas funkcijas, atsižvelgia į
+priežiūros priemonių ir praktikos taikant įstatymus ir kitus teisės aktus,
+priimtus įgyvendinant Europos Sąjungos teisės aktus, konvergenciją.
+4.
+Vertybinių popierių komisija privalo rengti ir pateikti visuomenei ir Seimui
+metinę savo veiklos ataskaitą. Šioje ataskaitoje turi būti apibūdinta ir
+finansinių priemonių rinkų plėtra, pagrindiniai ataskaitinio laikotarpio
+įvykiai.
+5. Vertybinių
 popierių komisijos veiksmai ar neveikimas gali būti skundžiami Administracinių
 bylų teisenos įstatymo nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr. XI-875,
 2010-06-03, Žin., 2010, Nr. 71-3551 (2010-06-19)
+Nr. XI-1402,
+2011-05-24, Žin., 2011, Nr. 71-3364 (2011-06-11)
  72 straipsnis. Vertybinių popierių komisijos teisės įgyvendinant jai pavestas funkcijas 
 1. Vertybinių
 popierių komisija, įgyvendindama jai pavestas funkcijas, turi teisę:
@@ -3315,17 +3479,17 @@ komisijos veiklos ataskaitas, tarp posėdžių duoda Vertybinių popierių komis
 nariams pavedimus ir tikrina, kaip jie vykdomi;
 2) pasirašo Vertybinių
 popierių komisijos sprendimus (nutarimus);
-3) tvirtina
-administracijos struktūrą ir etatus, neviršydamas Seimo nustatyto didžiausio
-leistino valstybės tarnautojų ir darbuotojų pareigybių skaičiaus ir metinio
-darbo apmokėjimo fondo;
+3) tvirtina administracijos
+struktūrą ir etatus, neviršydamas Seimo nustatyto didžiausio leistino valstybės
+tarnautojų ir darbuotojų pareigybių skaičiaus ir metinio darbo apmokėjimo
+fondo;
 4) vadovauja
 administracijai, jei nėra įgaliojęs tai daryti administracijos darbuotojo.
 3. Kiekvienas
 Vertybinių popierių komisijos narys yra atsakingas už jam pavestą veiklos sritį
 ir dalyvauja svarstant bei priimant sprendimus (nutarimus) visais Vertybinių
-popierių komisijos kompetencijai priklausančiais klausimais. Jei Vertybinių
-popierių komisijos posėdyje sprendžiamas klausimas, susijęs su nario privačiais
+popierių komisijos kompetencijai priklausančiais klausimais. Jei Vertybinių popierių
+komisijos posėdyje sprendžiamas klausimas, susijęs su nario privačiais
 interesais, keliančiais viešųjų ir privačių interesų konfliktą, narys apie tai
 raštu praneša prieš svarstymą ir neturi teisės dalyvauti svarstant ir priimant
 sprendimą (nutarimą).
@@ -3494,18 +3658,18 @@ turėdamos išankstinį kitos valstybės narės ar trečiosios šalies priežiū
 institucijos sutikimą perduoti suteiktą informaciją ir tik jame nurodytais
 tikslais, nebent informacijos perdavimas nesant tokio sutikimo ar kitais
 tikslais nei nurodyti būtų pateisinamas atsižvelgiant į susiklosčiusias
-aplinkybes – pastaruoju atveju turi būti pranešama Vertybinių popierių
-komisijai, kuri nedelsdama apie tai informuoja pranešimą pateikusią kitos
-valstybės narės ar trečiosios šalies priežiūros instituciją.
+aplinkybes – pastaruoju atveju turi būti pranešama Vertybinių popierių komisijai,
+kuri nedelsdama apie tai informuoja pranešimą pateikusią kitos valstybės narės
+ar trečiosios šalies priežiūros instituciją.
 4. Vertybinių
 popierių komisija ir kitos Lietuvos Respublikos institucijos, vykdančios
 kredito įstaigų, draudimo įmonių ar kitų finansų įstaigų priežiūrą, turi teisę
 naudoti šio straipsnio nustatyta tvarka gautą konfidencialią informaciją tik jų
 priežiūros funkcijoms vykdyti – tai yra:
 1) tikrinti, ar
-prižiūrimi subjektai tenkina sąlygas licencijai gauti, ir stebėti, kaip
-laikomasi organizacinių ir veiklos reikalavimų, ypatingą dėmesį skiriant
-kapitalo pakankamumo reikalavimams, valdymo ir apskaitos procedūroms bei vidaus
+prižiūrimi subjektai tenkina sąlygas licencijai gauti, ir stebėti, kaip laikomasi
+organizacinių ir veiklos reikalavimų, ypatingą dėmesį skiriant kapitalo
+pakankamumo reikalavimams, valdymo ir apskaitos procedūroms bei vidaus
 kontrolės vykdymo priežiūrai;
 2) stebėti, ar
 prekybos vietos veikia tinkamai;
@@ -3519,13 +3683,19 @@ nagrinėjant skundus dėl priežiūros institucijų priimtų sprendimų;
 6) nagrinėjant
 investuotojų ginčus neteisminėse (alternatyviose) ginčų sprendimo
 institucijose.
-5. Šio įstatymo
-76 ir 82 straipsnių bei šio straipsnio nuostatos neužkerta kelio Vertybinių
-popierių komisijai perduoti konfidencialią informaciją Lietuvos bankui, Europos
-centrinių bankų sistemai ir Europos centriniam bankui, kiek tai reikalinga jų
-monetarinėms funkcijoms vykdyti, taip pat kitoms valstybės institucijoms,
-prižiūrinčioms mokėjimų ir atsiskaitymų sistemas, kiek tai reikalinga jų
-priežiūros funkcijoms vykdyti. 
+5.
+Šio įstatymo 76 ir 82 straipsnių bei šio straipsnio nuostatos neužkerta kelio
+Vertybinių popierių komisijai perduoti konfidencialią informaciją Lietuvos
+bankui, Europos centrinių bankų sistemos centriniams bankams ir kitoms
+analogiškas funkcijas atliekančioms institucijoms, kai ši informacija
+reikalinga teisės aktuose nustatytoms jų funkcijoms (įskaitant pinigų politikos
+vykdymą ir likvidumo užtikrinimą, mokėjimo, kliringo ir atsiskaitymo sistemų
+priežiūrą ir finansinės sistemos stabilumo užtikrinimą) atlikti, taip pat
+Lietuvos Respublikos finansų ministerijai ir kitų valstybių narių centrinės
+valdžios institucijoms, dalyvaujančioms rengiant teisės aktus, susijusius su
+kredito įstaigų, finansų įstaigų, investicines ir draudimo paslaugas teikiančių
+bendrovių priežiūra, jeigu konfidenciali informacija reikalinga jų funkcijoms
+atlikti. 
 6. Šio
 straipsnio 5 dalyje nurodytos institucijos turi teisę perduoti konfidencialią
 informaciją Vertybinių popierių komisijai, jei informacija reikalinga šiame
@@ -3540,6 +3710,8 @@ Straipsnio
 pakeitimai:
 Nr. XI-199,
 2009-03-19, Žin., 2009, Nr. 38-1438 (2009-04-04)
+Nr.
+XI-1402, 2011-05-24, Žin., 2011, Nr. 71-3364 (2011-06-11)
  
 81
 straipsnis. Atsisakymas bendradarbiauti
@@ -3579,8 +3751,9 @@ popierių komisija taip pat turi teisę priežiūros funkcijų vykdymo tikslais
 sudaryti bendradarbiavimo susitarimus dėl keitimosi informacija su subjektais
 iš trečiųjų šalių, jei perduodamai konfidencialiai informacijai yra taikomi ne
 mažiau griežti konfidencialios informacijos saugojimo reikalavimai, nei
-nustatyta šio įstatymo 76 straipsnyje. Susitarimai gali būti sudaromi su priežiūros
-institucijomis, taip pat fiziniais ar juridiniais asmenimis, atsakingais už:
+nustatyta šio įstatymo 76 straipsnyje. Susitarimai gali būti sudaromi su
+priežiūros institucijomis, taip pat fiziniais ar juridiniais asmenimis,
+atsakingais už:
 1) kredito
 įstaigų, kitų finansų įstaigų, draudimo įmonių ir finansų rinkų priežiūrą;
 2) finansų
@@ -3598,8 +3771,8 @@ atliekančių teisės aktuose numatytą privalomą draudimo įmonių, kredito į
 finansų maklerio įmonių ir kitų finansų įstaigų finansinių ataskaitų auditą,
 priežiūrą.
 3. Jei
-trečiosios šalies priežiūros institucijos prašoma suteikti informacija yra
-gauta iš kitos valstybės narės, ji gali būti perduota tik gavus išankstinį
+trečiosios šalies priežiūros institucijos prašoma suteikti informacija yra gauta
+iš kitos valstybės narės, ji gali būti perduota tik gavus išankstinį
 informaciją suteikusios priežiūros institucijos sutikimą ir tik jame nurodytais
 informacijos naudojimo tikslais. 
 4. Šio
@@ -3628,11 +3801,10 @@ sąlyginę nuomonę.
 taip pat privalo pranešti Vertybinių popierių komisijai apie faktus ir
 aplinkybes, nurodytas šio straipsnio 1 dalies 1–3 punktuose, kurios paaiškėja
 atliekant įmonės, kurią sieja glaudūs ryšiai su finansų maklerio įmone, auditą.
-3. Šio
-straipsnio 1 ir 2 dalyse nurodytas Vertybinių popierių komisijos informavimas
-nelaikomas teisės aktuose ar sutartyje numatyto draudimo atskleisti
-konfidencialią informaciją pažeidimu ir todėl nesukelia auditoriui jokių
-neigiamų pasekmių.
+3. Šio straipsnio
+1 ir 2 dalyse nurodytas Vertybinių popierių komisijos informavimas nelaikomas
+teisės aktuose ar sutartyje numatyto draudimo atskleisti konfidencialią
+informaciją pažeidimu ir todėl nesukelia auditoriui jokių neigiamų pasekmių.
 Straipsnio
 pakeitimai:
 Nr. XI-199,
@@ -3651,8 +3823,8 @@ kelių valstybių narių jurisdikcijoms.
  
 TREČIASIS
 SKIRSNIS
-FINANSINIŲ PRIEMONIŲ
-RINKŲ PRIEŽIŪRA
+FINANSINIŲ
+PRIEMONIŲ RINKŲ PRIEŽIŪRA
  
 85 straipsnis. Vertybinių popierių
 komisijos teisės nagrinėjant finansinių priemonių rinkų veikimą
@@ -3668,13 +3840,13 @@ paaiškinimus, reikalauti, kad šie asmenys atvyktų duoti paaiškinimų į
 patikrinimą atliekančio pareigūno tarnybines patalpas;
 2) pateikę tarnybinį pažymėjimą ir Vertybinių popierių
 komisijos ar jos įgalioto darbuotojo motyvuotą sprendimą, atlikti patikrinimą
-(reviziją), laisvai įeiti į finansų maklerio įmonių, kredito įstaigų,
-reguliuojamų rinkų operatorių, Centrinio depozitoriumo, emitentų, valdymo
-įmonių, finansų patarėjų įmonių, investicinių bendrovių patalpas, tikrinti
-dokumentus, darbuotojų užrašus, apskaitos registrus ir kitus patikrinimui
-reikalingus informacijos šaltinius, gauti jų kopijas ir išrašus, kopijuoti juos
-bei kompiuteriuose ir bet kokiose laikmenose esančią informaciją ir pagal
-tikrinimo medžiagą iš ekspertizės įstaigų gauti išvadas; 
+(reviziją), laisvai įeiti į finansų maklerio įmonių, kredito įstaigų, rinkų
+operatorių, Centrinio depozitoriumo, emitentų, valdymo įmonių, finansų patarėjų
+įmonių, investicinių bendrovių patalpas, tikrinti dokumentus, darbuotojų
+užrašus, apskaitos registrus ir kitus patikrinimui reikalingus informacijos
+šaltinius, gauti jų kopijas ir išrašus, kopijuoti juos bei kompiuteriuose ir
+bet kokiose laikmenose esančią informaciją ir pagal tikrinimo medžiagą iš
+ekspertizės įstaigų gauti išvadas;
 3) įeiti ir
 atlikti patikrinimą kitų juridinių asmenų, susijusių su galimais pažeidimais,
 taip pat juridinių asmenų, kurių darbuotojai susiję su galimais pažeidimais,
@@ -3682,12 +3854,12 @@ patalpas, peržiūrėti tyrimui reikalingus juridinio asmens dokumentus, gauti j
 kopijas ir išrašus, susipažinti su juridinio asmens darbuotojų užrašais,
 kopijuoti juos bei kompiuteriuose ir bet kokiose laikmenose esančią
 informaciją;
-4) išreikalauti, kad būtų padarytos apskaitos
-dokumentų, sutarčių, įsakymų, memorandumų ir kitų dokumentų, kuriuos Vertybinių
-popierių komisija laiko svarbiais tyrimui, kopijos;
+4) išreikalauti, kad būtų padarytos apskaitos dokumentų,
+sutarčių, įsakymų, memorandumų ir kitų dokumentų, kuriuos Vertybinių popierių
+komisija laiko svarbiais tyrimui, kopijos;
 5) laikinai
-paimti tikrinamų finansų maklerio įmonių, kredito įstaigų, finansų patarėjo
-įmonių, reguliuojamų rinkų operatorių, Centrinio depozitoriumo, emitentų
+paimti tikrinamų finansų maklerio įmonių, kredito įstaigų, valdymo įmonių,
+finansų patarėjo įmonių, rinkų operatorių, Centrinio depozitoriumo, emitentų
 dokumentus, kurie gali būti panaudojami kaip pažeidimo įrodymai, palikdami
 motyvuotą sprendimą dėl dokumentų paėmimo ir paimtų dokumentų apyrašą;
 6) pateikę
@@ -3705,18 +3877,18 @@ popierių komisijai priėmus sprendimą dėl veiksmų, numatytų 72 straipsnio 1
 dalies 5 punkte, 85 straipsnio 2 dalies 3 punkte, 85 straipsnio 6
 dalies 1 punkte, jos įgaliotas pareigūnas pateikia teismui prašymą dėl teismo
 leidimo atlikti šiuos veiksmus. Prašymas pateikiamas Vilniaus apygardos
-administraciniam teismui. Prašyme turi būti nurodytas juridinio asmens
-pavadinimas, įtariamų pažeidimų pobūdis ir numatomi tyrimo veiksmai. Prie
-prašymo turi būti pridėti įrodymai, patvirtinantys įtariamus pažeidimus. Prašymą
+administraciniam teismui. Prašyme turi būti nurodytas juridinio asmens pavadinimas,
+įtariamų pažeidimų pobūdis ir numatomi tyrimo veiksmai. Prie prašymo
+turi būti pridėti įrodymai, patvirtinantys įtariamus pažeidimus. Prašymą
 dėl teismo leidimo išdavimo rašytinio proceso tvarka nagrinėja Vilniaus
 apygardos administracinio teismo teisėjas ir priima motyvuotą nutartį
 patenkinti prašymą arba jį atmesti. Prašymas turi būti išnagrinėtas ir priimta
 nutartis ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Jeigu
 Vertybinių popierių komisija nesutinka su Vilniaus apygardos administracinio
-teismo teisėjo sprendimu atmesti prašymą, ji turi teisę per 7 dienas apskųsti teisėjo
-nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis
-administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos
-administracinio teismo teisėjo nutarties ne vėliau kaip per 7 dienas.
+teismo teisėjo sprendimu atmesti prašymą, ji turi teisę per 7 dienas apskųsti
+teisėjo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos
+vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus
+apygardos administracinio teismo teisėjo nutarties ne vėliau kaip per 7 dienas.
 Vertybinių popierių komisijos atstovai turi teisę dalyvauti nagrinėjant skundą.
 Teismai, nagrinėdami prašymus ir skundus dėl teismo leidimo išdavimo, privalo
 užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
@@ -3739,9 +3911,10 @@ investicinių paslaugų teikimu;
 5) prašyti teismo (teisėjo) nutartimi laikinai areštuoti asmenų turtą.
 Vertybinių popierių komisijos prašymus dėl turto areštavimo nagrinėja Vilniaus
 apygardos administracinis teismas.
-7. Šio straipsnio
-6 dalies 1 punkte nurodyta teisė gali būti įgyvendinta tik turint teismo
-leidimą. Teismo leidimas gaunamas šio straipsnio 4 dalyje nustatyta tvarka. 
+7. Šio
+straipsnio 6 dalies 1 punkte nurodyta teisė gali būti įgyvendinta tik turint
+teismo leidimą. Teismo leidimas gaunamas šio straipsnio 4 dalyje nustatyta
+tvarka. 
 8. Šio
 straipsnio 6 dalies 1–4 punktuose nurodyti Vertybinių popierių komisijos
 sprendimai gali būti skundžiami Vilniaus apygardos administraciniam teismui per
@@ -3768,10 +3941,12 @@ Vertybinių popierių komisija gali apie tai pranešti Europos vertybinių popie
 reguliavimo institucijų komitetui.
 Straipsnio
 pakeitimai:
-Nr. XI-199,
-2009-03-19, Žin., 2009, Nr. 38-1438 (2009-04-04)
+Nr. XI-199, 2009-03-19,
+Žin., 2009, Nr. 38-1438 (2009-04-04)
 Nr. XI-875,
 2010-06-03, Žin., 2010, Nr. 71-3551 (2010-06-19)
+Nr.
+XI-1402, 2011-05-24, Žin., 2011, Nr. 71-3364 (2011-06-11)
  
 851 straipsnis. Vertybinių
 popierių komisijos tyrimo ar patikrinimo medžiagos slaptumas
@@ -3799,8 +3974,8 @@ laikinąjį Vertybinių popierių komisijos atstovą veiklos priežiūrai;
 finansų maklerio įmonę pakeisti vadovą;
 5) sustabdyti
 licencijos teikti vieną, kelias ar visas investicines paslaugas galiojimą;
-6) panaikinti
-licencijos teikti vieną, kelias ar visas investicines paslaugas galiojimą.
+6) panaikinti licencijos
+teikti vieną, kelias ar visas investicines paslaugas galiojimą.
 2. Vertybinių
 popierių komisija turi teisę licencijuotoms kredito įstaigoms, reguliuojamos
 rinkos operatoriams ir Centriniam depozitoriumui taikyti šio straipsnio 1
@@ -3886,6 +4061,28 @@ valdomose klientų sąskaitose kredito įstaigoje, ir įmonės klientų asmenini
 finansinių priemonių sąskaitų tvarkymą perduoda kliento nurodytam sąskaitų
 tvarkytojui.
  
+901 straipsnis. Jungtinė (konsoliduota)
+priežiūra
+
+1. Vertybinių
+popierių komisija atlieka finansinės grupės jungtinę (konsoliduotą) priežiūrą,
+jeigu:
+1) finansinės
+grupės patronuojanti įmonė yra finansų maklerio įmonė ar valdymo įmonė,
+turinčios Vertybinių popierių komisijos išduotą licenciją;
+2) finansų
+maklerio įmonės ar valdymo įmonės, turinčių Vertybinių popierių komisijos
+išduotą licenciją, patronuojanti įmonė yra patronuojanti finansų
+kontroliuojančioji (holdingo) bendrovė ir nė viena iš kontroliuojamų finansinės
+grupės įmonių nėra kredito įstaiga.
+2. Jungtinės
+(konsoliduotos) priežiūros atlikimo tvarką nustato Vertybinių popierių
+komisija.
+Įstatymas
+papildytas straipsniu:
+Nr.
+XI-1402, 2011-05-24, Žin., 2011, Nr. 71-3364 (2011-06-11)
+ 
 91 straipsnis. Vertybinių popierių
 komisijos įgaliojimai kitoje valstybėje narėje licencijuotų finansų maklerio
 įmonių filialams, įteigtiems Lietuvos Respublikoje
@@ -3908,11 +4105,11 @@ Lietuvos Respublikoje, laikosi šio įstatymo 22, 24, 25, 31, 33 ir 34 straipsni
 bei jų pagrindu priimtų kitų teisės aktų reikalavimų. Šiuo tikslu Vertybinių
 popierių komisija turi teisę vykdyti filialo patikrinimus siekdama nustatyti,
 ar laikomasi šių reikalavimų, ir reikalauti ištaisyti nustatytus pažeidimus. 
-5. Kitoje valstybėje
-narėje licencijuotos finansų maklerio įmonės, įsteigusios filialą Lietuvos
-Respublikoje, priežiūros institucija, prieš tai (raštu) pranešusi Vertybinių
-popierių komisijai, turi teisę vykdyti įmonės filialo, įsteigto Lietuvos
-Respublikoje, patikrinimus. 
+5. Kitoje
+valstybėje narėje licencijuotos finansų maklerio įmonės, įsteigusios filialą
+Lietuvos Respublikoje, priežiūros institucija, prieš tai (raštu) pranešusi
+Vertybinių popierių komisijai, turi teisę vykdyti įmonės filialo, įsteigto
+Lietuvos Respublikoje, patikrinimus. 
 6. Šiame straipsnyje nustatyti reikalavimai licencijuotoms kredito įstaigoms taikomi mutatis mutandis. 
  
 92 straipsnis. Atsargumo priemonės,
@@ -4012,6 +4209,27 @@ investicines paslaugas trečiojoje šalyje, licencijos galiojimą, Vertybinių
 popierių komisija nedelsdama apie tai praneša trečiosios šalies priežiūros
 institucijai.
  
+931
+straipsnis. Kredito
+reitingų agentūrų veiklos priežiūra
+1. Vertybinių popierių komisija yra Lietuvos
+Respublikos kompetentinga institucija, įgyvendinanti kredito reitingų agentūrų
+veiklos priežiūros ir kitas jai priskirtas funkcijas, nustatytas reglamente
+(EB) Nr. 1060/2009. 
+2. Vertybinių popierių komisija, atlikdama šio
+straipsnio 1 dalyje nurodytas funkcijas, turi reglamente (EB)
+Nr. 1060/2009 nustatytas teises, pareigas ir įgaliojimus, taip pat mutatis
+mutandis naudojasi šiame įstatyme nustatytomis teisėmis ir pareigomis.
+3. Vertybinių popierių komisija asmenims, nesilaikantiems
+reglamente (EB) Nr. 1060/2009 nustatytų reikalavimų, turi teisę šio
+įstatymo nustatyta tvarka taikyti šiame reglamente nustatytas priežiūros
+priemones ir reglamente bei šio įstatymo 86 straipsnio 
+1 dalies 1 ir 2 punktuose nurodytas poveikio priemones.
+Įstatymas
+papildytas straipsniu:
+Nr.
+XI-1402, 2011-05-24, Žin., 2011, Nr. 71-3364 (2011-06-11)
+ 
 KETVIRTASIS
 SKIRSNIS
 ATSAKOMYBĖ UŽ
@@ -4022,8 +4240,8 @@ straipsnis. Įstatymo pažeidimo pasekmės
 Asmenys, pažeidę
 šį įstatymą, privalo:
 1) vykdyti
-Vertybinių popierių komisijos nurodymus nutraukti veiksmus, atkurti ankstesnę padėtį,
-atlikti kitus įpareigojimus;
+Vertybinių popierių komisijos nurodymus nutraukti veiksmus, atkurti ankstesnę
+padėtį, atlikti kitus įpareigojimus;
 2) atlyginti
 padarytą žalą;
 3) vykdyti šiame
@@ -4047,8 +4265,8 @@ asmenims, nesilaikantiems šio įstatymo II skyriaus ketvirtajame skirsnyje ir
 III skyriaus antrajame skirsnyje nustatytų rinkos skaidrumo reikalavimų, – iki
 100 tūkstančių litų;
 5) juridiniams
-asmenims, kurie verčiasi reguliuojamos rinkos operatoriaus veikla be šiame įstatyme
-nustatytos licencijos, – iki 200 tūkstančių litų;
+asmenims, kurie verčiasi reguliuojamos rinkos operatoriaus veikla be šiame
+įstatyme nustatytos licencijos, – iki 200 tūkstančių litų;
 6) reguliuojamos
 rinkos operatoriams, nesilaikantiems kitų šio įstatymo III skyriuje nustatytų
 reikalavimų, – iki 100 tūkstančių litų; 
@@ -4065,7 +4283,8 @@ aktuose nustatytų reikalavimų, – iki 100 tūkstančių litų;
 asmenims, nevykdantiems Vertybinių popierių komisijos nurodymų, neteikiantiems
 Vertybinių popierių komisijai šiame ir kituose įstatymuose nurodytos
 informacijos arba trukdantiems Vertybinių popierių komisijai ar jos įgaliotiems
-asmenims atlikti tyrimus ar patikrinimus, – iki 100 tūkstančių litų.
+asmenims atlikti tyrimus ar patikrinimus, – iki 100 tūkstančių litų;
+11) juridiniams asmenims, nesilaikantiems reglamente (EB) Nr. 1060/2009 nustatytų reikalavimų, – iki 200 tūkstančių litų.
 2.
 Jeigu dėl šio straipsnio 1 dalies 1–8 punktuose išvardytų pažeidimų buvo
 neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar
@@ -4085,6 +4304,8 @@ Nr. XI-199,
 2009-03-19, Žin., 2009, Nr. 38-1438 (2009-04-04)
 Nr. XI-875,
 2010-06-03, Žin., 2010, Nr. 71-3551 (2010-06-19)
+Nr.
+XI-1402, 2011-05-24, Žin., 2011, Nr. 71-3364 (2011-06-11)
  
 96
 straipsnis. Poveikio priemonių skyrimo tvarka
@@ -4205,8 +4426,8 @@ nustatyta tvarka.
 rinkos operatorius, kurio administruojama sistema turi iki šio įstatymo
 įsigaliojimo Vertybinių popierių komisijos išduotą reguliuojamos rinkos
 licenciją ir atitinka šio įstatymo III skyriuje nustatytus reikalavimus, turi
-teisę verstis reguliuojamos rinkos veikla ir naudojasi kitomis šiame įstatyme nustatytomis
-teisėmis.
+teisę verstis reguliuojamos rinkos veikla ir naudojasi kitomis šiame įstatyme
+nustatytomis teisėmis.
 4. Reguliuojamos
 rinkos operatoriui, kurio administruojama sistema turi iki šio įstatymo
 įsigaliojimo Vertybinių popierių komisijos išduotą reguliuojamos rinkos
@@ -4223,9 +4444,9 @@ maklerio įmonės, iki šio įstatymo įsigaliojimo sudariusios sutartis su
 klientais dėl investicinių ir (arba) papildomų paslaugų teikimo, privalo iki
 2007 m. gruodžio 31 d. šias sutartis pakeisti taip, kad jos atitiktų šiame
 įstatyme nustatytus reikalavimus. Investicinės ir (arba) papildomos paslaugos
-po 2007 m. gruodžio 31 d. gali būti teikiamos tik tiems klientams, su kuriais
-yra sudarytos šio įstatymo reikalavimus atitinkančios sutartys dėl investicinių
-ir (arba) papildomų paslaugų teikimo.
+po 2007 m. gruodžio 31 d. gali būti teikiamos tik tiems klientams, su kuriais yra
+sudarytos šio įstatymo reikalavimus atitinkančios sutartys dėl investicinių ir
+(arba) papildomų paslaugų teikimo.
 7. Šio straipsnio 1, 2, 5 ir 6 dalių nuostatos licencijuotoms kredito įstaigoms taikomos mutatis mutandis. 
  
 99
@@ -4233,12 +4454,12 @@ straipsnis. Įstatymo nuostatų taikymas
 1. Šio įstatymo
 nuostatos, nustatančios naujus reikalavimus investicines paslaugas teikiantiems
 asmenims ir (arba) reguliuojamoms rinkoms ir jų operatoriams, kurie nebuvo
-nustatyti iki šio įstatymo įsigaliojimo galiojusiame Lietuvos Respublikos
-vertybinių popierių rinkos įstatyme, taikomos nuo 2007 m. lapkričio 1 d. Nuo
-šio įstatymo įsigaliojimo nuorodos į Lietuvos Respublikos vertybinių popierių
-rinkos įstatymą, atsižvelgiant į šio įstatymo reguliuojamą sritį, laikomos
-nuorodomis į šį įstatymą, o nuorodos į Lietuvos Respublikos vertybinių popierių
-rinkos įstatyme pateiktus apibrėžimus, laikomos nuorodomis į atitinkamus šiame
+nustatyti iki šio įstatymo įsigaliojimo galiojusiame Lietuvos Respublikos vertybinių
+popierių rinkos įstatyme, taikomos nuo 2007 m. lapkričio 1 d. Nuo šio įstatymo
+įsigaliojimo nuorodos į Lietuvos Respublikos vertybinių popierių rinkos
+įstatymą, atsižvelgiant į šio įstatymo reguliuojamą sritį, laikomos nuorodomis
+į šį įstatymą, o nuorodos į Lietuvos Respublikos vertybinių popierių rinkos
+įstatyme pateiktus apibrėžimus, laikomos nuorodomis į atitinkamus šiame
 įstatyme pateiktus apibrėžimus, išskyrus nuorodas į Lietuvos Respublikos
 vertybinių popierių rinkos įstatymą, kurios, atsižvelgiant į Lietuvos
 Respublikos vertybinių popierių įstatymo reguliuojamą sritį, laikytinos
@@ -4348,18 +4569,31 @@ finansinių priemonių rinkų, iš dalies keičianti Tarybos direktyvas 85/611/E
 93/6/EEB ir Europos Parlamento ir Tarybos direktyvą 2000/12/EB bei panaikinanti
 Tarybos direktyvą 93/22/EB (OL 2004 m. specialusis leidimas, 6 skyrius, 7
 tomas, p. 263).
-4. 2007 m.
+4. 2006
+m. birželio 14 d. Europos Parlamento ir Tarybos direktyva 2006/49/EB dėl
+investicinių įmonių ir kredito įstaigų kapitalo pakankamumo (nauja redakcija)
+(OL 2006 L 177, p. 201).
+5. 2006
+m. birželio 14 d. Europos Parlamento ir Tarybos direktyva 2006/48/EB dėl
+kredito įstaigų veiklos pradėjimo ir vykdymo (nauja redakcija) (OL 2006 L 177,
+p. 1).
+6. 2007 m.
 rugsėjo 5 d. Europos Parlamento ir Tarybos direktyva 2007/44/EB, iš dalies
 keičianti Tarybos direktyvą 92/49/EEB ir direktyvas 2002/83/EB, 2004/39/EB,
 2005/68/EB ir 2006/48/EB dėl riziką ribojančio vertinimo tvarkos taisyklių ir
 vertinimo kriterijų, taikomų akcijų paketų įsigijimui ir didinimui finansų
 sektoriuje (OL 2007 L 247, p. 1).
+7. 2009 m.
+rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl
+kredito reitingų agentūrų (OL 2009 L 302, p. 1).
 Priedo
 pakeitimai:
 Nr. XI-199,
 2009-03-19, Žin., 2009, Nr. 38-1438 (2009-04-04)
+Nr.
+XI-1402, 2011-05-24, Žin., 2011, Nr. 71-3364 (2011-06-11)
  
-_____________
+________________
  
 Pakeitimai:
  
@@ -4390,17 +4624,34 @@ metu galiojusių teisės aktų nustatyta tvarka.
 3.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. XI-875,
-2010-06-03, Žin., 2010, Nr. 71-3551 (2010-06-19)
+Nr. XI-875, 2010-06-03,
+Žin., 2010, Nr. 71-3551 (2010-06-19)
 FINANSINIŲ
 PRIEMONIŲ RINKŲ ĮSTATYMO 2, 3, 10, 22, 32, 47, 55, 62, 64, 68, 71, 72, 73, 85,
 86, 87, 95, 96 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 96(1)
 STRAIPSNIU ĮSTATYMAS
  
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-1402, 2011-05-24, Žin., 2011, Nr. 71-3364 (2011-06-11)
+FINANSINIŲ
+PRIEMONIŲ RINKŲ ĮSTATYMO 3, 4, 7, 15, 18, 20, 21, 64, 67, 68, 69, 71, 80, 85,
+95 STRAIPSNIŲ IR PRIEDO PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 90(1),
+93(1) STRAIPSNIAIS ĮSTATYMAS
+Finansų
+maklerio įmonės, rinkos
+operatorius ir Centrinis depozitoriumas, vadovaudamiesi šio įstatymo 4
+straipsniu, pagal tarptautinius apskaitos standartus sudaro 2012 m.
+sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių finansines
+ataskaitas.
+
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2010-06-21)
+(2011-06-13)
                  
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
