@@ -55,9 +55,10 @@ juridinių asmenų buhalterinės apskaitos tvarką nustato Vyriausybė arba jos
 3. Lietuvos banko, kitų kredito įstaigų, mokėjimo
 įstaigų, finansų maklerio įmonių, investicinių kintamojo kapitalo bendrovių ir
 jų valdymo įmonių, uždaro tipo investicinių bendrovių ir jų valdymo įmonių,
-pensijų fondų ir jų valdymo įmonių, investicinių fondų valdymo įmonių, draudimo
-įmonių buhalterinės apskaitos tvarkymą ir organizavimą nustato šis įstatymas,
-jei kiti Lietuvos Respublikos įstatymai nenustato kitaip.
+pensijų fondų ir jų valdymo įmonių, investicinių fondų valdymo įmonių, reguliuojamos
+rinkos operatoriaus, Lietuvos centrinio vertybinių popierių depozitoriumo,
+draudimo įmonių buhalterinės apskaitos tvarkymą ir organizavimą nustato šis
+įstatymas, jei kiti Lietuvos Respublikos įstatymai nenustato kitaip.
 4. Šio Įstatymo nuostatos suderintos su šio Įstatymo
 priede nurodytais Europos Sąjungos teisės aktais.
 Straipsnio
@@ -85,6 +86,8 @@ Nr. XI-552,
 2009-12-10, Žin., 2009, Nr. 153-6890 (2009-12-28)
 Nr. XI-724,
 2010-04-01, Žin., 2010, Nr. 41-1944 (2010-04-10)
+Nr. XI-1405,
+2011-05-24, Žin., 2011, Nr. 71-3367 (2011-06-11)
  
 2 straipsnis.
 Pagrindinės Įstatymo sąvokos
@@ -98,10 +101,10 @@ nurodytas dokumentas.
 ir ūkinių įvykių suvestinė, kurioje apibendrinti jų duomenys.
 3. Neteko galios nuo 2008 m. rugsėjo 1 d.
 4. Neteko galios nuo 2008 m. rugsėjo 1 d.
-5. Buhalterinė apskaita (toliau – apskaita) – ūkinių operacijų ir ūkinių
-įvykių, išreikštų pinigais, registravimo, grupavimo ir apibendrinimo sistema,
-skirta informacijai, reikalingai priimant ekonominius sprendimus, gauti ir
-(arba) finansinių ataskaitų rinkiniui (toliau – finansinės
+5. Buhalterinė apskaita (toliau – apskaita) – ūkinių operacijų ir
+ūkinių įvykių, išreikštų pinigais, registravimo, grupavimo ir apibendrinimo
+sistema, skirta informacijai, reikalingai priimant ekonominius sprendimus,
+gauti ir (arba) finansinių ataskaitų rinkiniui (toliau – finansinės
 ataskaitos) sudaryti.
 6. Buhalterinė sąskaita (toliau – sąskaita)
 – informacijos kaupimo ir grupavimo būdas ūkio subjekto turtui, nuosavam
@@ -120,13 +123,13 @@ dalis, likusi iš viso turto atėmus visus įsipareigojimus.
 11. Paprastasis įrašas – ūkinių operacijų ir
 ūkinių įvykių registravimo būdas, kai nedaromas dvejybinis įrašas.
 12. Pinigų apskaitos dokumentas – popierinis
-liudijimas, kuriame nurodomos grynųjų pinigų mokėjimo ar jų pervedimo operacijos,
-kai įvykdomas vieno ūkio subjekto įsipareigojimas kitam ūkio subjektui.
+liudijimas, kuriame nurodomos grynųjų pinigų mokėjimo ar jų pervedimo
+operacijos, kai įvykdomas vieno ūkio subjekto įsipareigojimas kitam ūkio
+subjektui.
 13. Neteko galios nuo 2007 m. birželio 21 d. 
 14. Sąskaitų planas –
 sąskaitų, kuriose sukaupiama informacija, parodanti ūkio subjekto turtą,
-nuosavą kapitalą, finansavimo sumas, įsipareigojimus, pajamas ir sąnaudas,
-sąrašas.
+nuosavą kapitalą, finansavimo sumas, įsipareigojimus, pajamas ir sąnaudas, sąrašas.
 15. Supaprastinta apskaita – apskaita, tvarkoma
 darant paprastąjį įrašą.
 16. Tarptautiniai
@@ -160,9 +163,9 @@ dalyje nurodytas valdymo organo pareigas.
 24. Vyriausiasis
 buhalteris (buhalteris) – fizinis asmuo, tvarkantis ūkio subjekto
 buhalterinę apskaitą.
-25. Kitos šiame įstatyme vartojamos sąvokos
-suprantamos taip, kaip jos vartojamos Įmonių finansinės atskaitomybės įstatyme,
-Viešojo sektoriaus atskaitomybės įstatyme ir kituose teisės aktuose.
+25. Kitos šiame įstatyme vartojamos sąvokos suprantamos
+taip, kaip jos vartojamos Įmonių finansinės atskaitomybės įstatyme, Viešojo
+sektoriaus atskaitomybės įstatyme ir kituose teisės aktuose.
 Straipsnio pakeitimai:
 Nr.
 IX-1668,
@@ -242,9 +245,9 @@ vartotojams.
  
 5 straipsnis.
 Piniginis matas
-1. Apskaita tvarkoma
-ir apskaitos dokumentai surašomi naudojant Lietuvos Respublikos piniginį
-vienetą – litą, o prireikus – ir litą, ir užsienio valiutą.
+1. Apskaita
+tvarkoma ir apskaitos dokumentai surašomi naudojant Lietuvos Respublikos
+piniginį vienetą – litą, o prireikus – ir litą, ir užsienio valiutą.
 2. Ūkiniai įvykiai ir ūkinės operacijos, kurių buvimas
 ir atlikimas ar rezultatų įforminimas Lietuvos Respublikos teisės aktų
 nustatyta tvarka susijęs su užsienio valiuta, apskaitoje perskaičiuojami į
@@ -274,9 +277,9 @@ praėjusiais ataskaitiniais metais, gali pasirinkti supaprastintą apskaitą.
 ir apskaitos registrai sudaromi lietuvių kalba, o prireikus – ir lietuvių, ir
 užsienio kalba. Gauti dokumentai, kurie surašyti užsienio kalba, prireikus turi
 būti išversti į lietuvių kalbą.
-5. Grynųjų pinigų
-priėmimo, išmokėjimo, jų apskaitos ir laikymo tvarką nustato Vyriausybė arba
-jos įgaliota institucija.
+5. Grynųjų
+pinigų priėmimo, išmokėjimo, jų apskaitos ir laikymo tvarką nustato Vyriausybė
+arba jos įgaliota institucija.
 6. Minimalią ilgalaikio materialiojo turto vertę
 viešojo sektoriaus subjektams, išskyrus įmones, priskiriamas viešojo sektoriaus
 subjektams, ir Lietuvos banką, nustato Vyriausybė.
@@ -339,8 +342,8 @@ Nr. X-1178,
 Nr. X-1679,
 2008-07-03, Žin., 2008, Nr. 82-3236 (2008-07-19)
  
-10 straipsnis.
-Apskaitos tvarkymas
+10 straipsnis. Apskaitos
+tvarkymas
 1. Ūkio subjekto apskaitą tvarko:
 1) ūkio subjekto struktūrinis padalinys arba
 vyriausiasis buhalteris (buhalteris);
@@ -938,9 +941,17 @@ APSKAITOS ĮSTATYMO 15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas
 įsigalioja 2011 m. sausio 1 d.
  
+15.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-1405,
+2011-05-24, Žin., 2011, Nr. 71-3367 (2011-06-11)
+BUHALTERINĖS
+APSKAITOS ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė
-Trapinskienė (2010-12-16)
-                  autrap@lrs.lt
+Trapinskienė (2011-06-13)
+                  ausrine.trapinskiene@lrs.lt
