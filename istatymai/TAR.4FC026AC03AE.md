@@ -1180,6 +1180,8 @@ PENKTASIS SKIRSNIS
 PAREIGŪNŲ
 ATSAKOMYBĖ IR JIEMS TAIKOMI PASKATINIMAI BEI APRIBOJIMAI
  
+Straipsnio redakcija iki 2011 m.
+rugsėjo 1 d.:
 23
 straipsnis. Paskatinimai ir apdovanojimai
 1. Už
@@ -1193,8 +1195,7 @@ Vyriausybės nustatyta tvarka;
 dovana;
 4) žinybiniu
 ženklu;
-5) vardiniu
-ginklu;
+5) vardiniu ginklu;
 6) suteikiant
 aukštesnį laipsnį šio Statuto 14 straipsnyje nustatyta tvarka.
 2. Pareigūnai už
@@ -1211,12 +1212,54 @@ turintys galiojančią tarnybinę nuobaudą, neskatinami ir neapdovanojami.
 skatinimo ir apdovanojimo tvarką, išskyrus vienkartinių piniginių išmokų
 skyrimą ir mokėjimą, nustato vidaus reikalų ministras.
 6. Duomenys apie
+pareigūno paskatinimus ir apdovanojimus įrašomi į jo tarnybos bylą ir pateikiami
+Vidaus reikalų pareigūnų registrui.
+Straipsnio redakcija nuo 2011 m.
+rugsėjo 1 d.:
+1. Už
+nepriekaištingą ir pavyzdingą tarnybinių pareigų atlikimą pareigūnai gali būti
+skatinami ir apdovanojami:
+1) padėka;
+2) ne didesne
+kaip pareigūno vidutinis darbo užmokestis (išskyrus šio straipsnio 
+2 dalyje nustatytus atvejus) vienkartine pinigine išmoka Vyriausybės nustatyta
+tvarka;
+3) vardine
+dovana;
+4) žinybiniu
+ženklu;
+5) vardiniu
+ginklu;
+6) suteikiant
+aukštesnį laipsnį šio Statuto 14 straipsnyje nustatyta tvarka.
+2. Pareigūnai,
+tiesiogiai dalyvavę atskleidžiant ar ištiriant nusikalstamas veikas ir kitus
+teisės pažeidimus, kuriais padaryta ar galėjo būti padaryta turtinė žala
+valstybei, Vyriausybės nustatyta tvarka gali būti skatinami ne didesne kaip
+pareigūno keturių vidutinių darbo užmokesčių dydžio vienkartine pinigine
+išmoka.
+3. Pareigūnai už
+ypatingus nuopelnus Lietuvos valstybei gali būti pristatomi valstybės
+apdovanojimui gauti.
+4. Vidaus
+reikalų ministras turi teisę skatinti ir apdovanoti visais šio straipsnio 1 ir
+2 dalyse išvardytais paskatinimais ir apdovanojimais, vidaus reikalų įstaigos
+vadovas – šio straipsnio 1 dalies 1–4, 6 punktuose ir 2 dalyje išvardytais
+paskatinimais ir apdovanojimais.
+5. Pareigūnai,
+turintys galiojančią tarnybinę nuobaudą, neskatinami ir neapdovanojami.
+6. Pareigūnų
+skatinimo ir apdovanojimo tvarką, išskyrus vienkartinių piniginių išmokų
+skyrimą ir mokėjimą, nustato vidaus reikalų ministras.
+7. Duomenys apie
 pareigūno paskatinimus ir apdovanojimus įrašomi į jo tarnybos bylą ir
 pateikiami Vidaus reikalų pareigūnų registrui.
 Straipsnio pakeitimai:
 Nr.
 X-1549,
 2008-05-20, Žin., 2008, Nr. 63-2385 (2008-06-03)
+Nr. XI-1424,
+2011-05-26, Žin., 2011, Nr. 72-3474 (2011-06-14)
  
 24
 straipsnis. Pareigūnui taikomi apribojimai
@@ -1271,10 +1314,10 @@ pareigūnai įstatymų nustatyta tvarka traukiami materialinėn atsakomybėn.
  
 26
 straipsnis. Tarnybinės nuobaudos ir jų skyrimas
-1. Už
-tarnybinius nusižengimus, atsižvelgiant į jų pobūdį, padarymo priežastis,
-nusižengusiojo kaltės laipsnį, asmenybę, sukeltus padarinius ir kitas
-aplinkybes, pareigūnui gali būti skiriama viena iš šių tarnybinių nuobaudų:
+1. Už tarnybinius
+nusižengimus, atsižvelgiant į jų pobūdį, padarymo priežastis, nusižengusiojo
+kaltės laipsnį, asmenybę, sukeltus padarinius ir kitas aplinkybes, pareigūnui
+gali būti skiriama viena iš šių tarnybinių nuobaudų:
 1) pastaba;
 2) papeikimas;
 3) griežtas
@@ -1304,6 +1347,19 @@ taikyta tarnybinė nuobauda – griežtas papeikimas ar griežtesnė nuobauda.
 nuobauda turi būti paskirta ne vėliau kaip per 30 dienų nuo tarnybinio
 nusižengimo išaiškėjimo dienos. Negalima skirti tarnybinės nuobaudos, jei nuo
 nusižengimo padarymo dienos praėjo vieni metai.
+3 dalies redakcija nuo 2011 m.
+rugsėjo 1 d.:
+3. Tarnybinė
+nuobauda turi būti paskirta ne vėliau kaip per 30 dienų nuo tarnybinio
+nusižengimo išaiškėjimo dienos. Negalima skirti tarnybinės nuobaudos, jei nuo
+tarnybinio nusižengimo padarymo dienos praėjo vieni metai, išskyrus atvejus,
+kai tarnybinio nusižengimo tyrimas sustabdomas šio straipsnio 7 dalyje
+numatytais atvejais arba kai tarnybinis nusižengimas nustatomas atliekant
+auditą, piniginių ar kitokių vertybių inventorizaciją arba kompetentingos
+institucijos atliekamą tarnybinį ar kitą patikrinimą. Šiais atvejais tarnybinė
+nuobauda turi būti paskirta ne vėliau kaip per 3 metus nuo tarnybinio
+nusižengimo padarymo dienos.
+ 
 4. Į šio
 straipsnio 3 dalyje nustatytą 30 dienų terminą neįskaitomas laikas, kai
 pareigūnas nebuvo tarnyboje dėl ligos ar atostogų, taip pat laikas, per kurį
@@ -1315,19 +1371,58 @@ tarnybinį nusižengimą galima skirti tik vieną tarnybinę nuobaudą.
 6. Esant duomenų
 apie pareigūno padarytą tarnybinį nusižengimą, atliekamas tarnybinis
 patikrinimas.
+6 dalies redakcija nuo 2011 m.
+rugsėjo 1 d.:
+6. Esant duomenų
+apie galimą pareigūno tarnybinį nusižengimą, atliekamas tarnybinis patikrinimas.
+Vidaus
+reikalų ministras, gavęs duomenų apie galimą pareigūno tarnybinį nusižengimą,
+gali pavesti Vidaus reikalų ministerijos administracijos padaliniui,
+atliekančiam tarnybinius tyrimus ir patikrinimus (toliau – tyrimų padalinys),
+atlikti tarnybinį patikrinimą dėl galimo pareigūno tarnybinio nusižengimo.
+Jeigu dėl šio tarnybinio nusižengimo vidaus reikalų įstaigoje, kurioje
+pareigūnas eina pareigas, jau yra pradėtas tarnybinis patikrinimas, vidaus
+reikalų ministro pavedimu šis tarnybinis patikrinimas perduodamas atlikti
+tyrimų padaliniui. Šiuo atveju tarnybinis patikrinimas vidaus reikalų įstaigoje
+nebeatliekamas. Vidaus reikalų ministras gali pavesti tyrimų padaliniui
+įvertinti vidaus reikalų įstaigose atliktų tarnybinių patikrinimų išvadų teisėtumą
+ir pagrįstumą. Pareigūną į pareigas skiriantis vadovas, priimdamas sprendimą
+dėl tarnybinės nuobaudos skyrimo pareigūnui, atsižvelgia į vidaus reikalų
+ministro patvirtintą tyrimų padalinio atlikto tarnybinio patikrinimo išvadą
+arba į vidaus reikalų įstaigose atliktų tarnybinių patikrinimų išvadų teisėtumo
+ir pagrįstumo įvertinimą, kuriam pritarė vidaus reikalų ministras.
+ 
 7. Jei
 paaiškėja, kad tarnybinis nusižengimas turi nusikalstamos veikos ar
 administracinio teisės pažeidimo požymių, tarnybinių nuobaudų skyrimo procedūra
 sustabdoma ir tarnybinio patikrinimo medžiaga perduodama tirti kompetentingai
 institucijai. Jeigu atsisakoma pradėti ikiteisminį tyrimą, bylos dėl
-administracinio teisės pažeidimo teiseną arba asmuo nėra patraukiamas
-baudžiamojon ar administracinėn atsakomybėn ir procesas yra pasibaigęs,
+administracinio teisės pažeidimo teiseną arba asmuo nėra patraukiamas baudžiamojon
+ar administracinėn atsakomybėn ir procesas yra pasibaigęs, tarnybinės nuobaudos
+skyrimo procedūra tęsiama ir tarnybinė nuobauda turi būti paskirta ne vėliau
+kaip per vieną mėnesį nuo šių sąlygų atsiradimo, jei po kompetentingos
+institucijos sprendimo atlikti ikiteisminį tyrimą ar tirti administracinio
+teisės pažeidimo bylą priėmimo nepraėjo daugiau kaip vieni metai. Jei šis
+terminas praėjo, tarnybinės nuobaudos skyrimo procedūra nutraukiama.
+7 dalies redakcija nuo 2011 m.
+rugsėjo 1 d.:
+7. Jeigu paaiškėja,
+kad tarnybinis nusižengimas turi nusikalstamos veikos ar administracinio teisės
+pažeidimo požymių, tarnybinių nuobaudų skyrimo procedūra sustabdoma ir
+tarnybinio patikrinimo medžiaga perduodama tirti kompetentingai institucijai.
+Tarnybinio nusižengimo tyrimas sustabdomas ir paaiškėjus, kad dėl šios
+pareigūno veikos yra pradėtas baudžiamasis procesas arba bylos dėl
+administracinio teisės pažeidimo teisena. Jeigu atsisakoma pradėti ikiteisminį
+tyrimą, bylos dėl administracinio teisės pažeidimo teiseną arba pasibaigia
+baudžiamasis procesas ar bylos dėl administracinio teisės pažeidimo teisena,
 tarnybinės nuobaudos skyrimo procedūra tęsiama ir tarnybinė nuobauda turi būti
-paskirta ne vėliau kaip per vieną mėnesį nuo šių sąlygų atsiradimo, jei po
-kompetentingos institucijos sprendimo atlikti ikiteisminį tyrimą ar tirti
-administracinio teisės pažeidimo bylą priėmimo nepraėjo daugiau kaip vieni
-metai. Jei šis terminas praėjo, tarnybinės nuobaudos skyrimo procedūra
-nutraukiama.
+paskirta ne vėliau kaip per vieną mėnesį nuo šių sąlygų atsiradimo. Kai pareigūno
+veika turi savarankiško tarnybinio nusižengimo požymių, pagal kuriuos akivaizdžiai galima šį tarnybinį
+nusižengimą atriboti nuo nusikalstamos veikos ar administracinio teisės
+pažeidimo, tarnybinio nusižengimo tyrimas tęsiamas
+neatsižvelgiant į baudžiamojo proceso ar bylos dėl administracinio teisės
+pažeidimo teisenos eigą.
+ 
 8. Tarnybines
 nuobaudas pareigūnams skiria vadovai, turintys teisę skirti į pareigas. 
 9. Duomenys apie
@@ -1344,6 +1439,8 @@ pakeitimai:
 Nr.
 X-804,
 2006-07-19, Žin., 2006, Nr. 87-3412 (2006-08-08)
+Nr. XI-1424,
+2011-05-26, Žin., 2011, Nr. 72-3474 (2011-06-14)
  
 27
 straipsnis. Tarnybinės nuobaudos išnykimas
@@ -1376,12 +1473,13 @@ nušalinamas Baudžiamojo proceso kodekso nustatyta tvarka, nušalinimo nuo
 pareigų laikotarpiu pareigūnui darbo užmokestis nemokamas. Šiais atvejais
 pareigūnui netaikomi šio Statuto 24 straipsnio 3 punkte nustatyti
 apribojimai.
-5. Šio straipsnio
-1, 2, 3 ir 4 dalyse nustatyta tvarka nušalintas nuo pareigų pareigūnas nuo
-nušalinimo momento grąžina pareigūno pažymėjimą, specialų ženklą, tarnybinį
-šaunamąjį ginklą, specialiąsias priemones ir sprogmenis vadovui, turinčiam
-teisę skirti į pareigas, arba jo įgaliotam pareigūnui, taip pat perduoda jam
-patikėtus tarnybinius dokumentus, inventorių, kitas darbo priemones.
+5. Šio
+straipsnio 1, 2, 3 ir 4 dalyse nustatyta tvarka nušalintas nuo pareigų
+pareigūnas nuo nušalinimo momento grąžina pareigūno pažymėjimą, specialų
+ženklą, tarnybinį šaunamąjį ginklą, specialiąsias priemones ir sprogmenis
+vadovui, turinčiam teisę skirti į pareigas, arba jo įgaliotam pareigūnui, taip
+pat perduoda jam patikėtus tarnybinius dokumentus, inventorių, kitas darbo
+priemones.
 6. Tarnybinio
 patikrinimo metu nustačius, kad pareigūnas nepadarė tarnybinio nusižengimo, kad
 nėra įstatymo nustatyta tvarka pripažintas kaltu dėl administracinio teisės
@@ -1461,8 +1559,8 @@ dirbti viršvalandinį darbą, kai būtina:
 2) užkirsti
 kelią stichinėms nelaimėms, gaisrams, avarijoms ar katastrofoms, taip pat
 likviduoti jų padarinius;
-3) užkirsti kelią
-masinėms riaušėms ar jas nutraukti;
+3) užkirsti
+kelią masinėms riaušėms ar jas nutraukti;
 4) užtikrinti
 viešąją tvarką masinių renginių metu;
 5) įvykdyti
@@ -1496,8 +1594,7 @@ aptartoje tarnybos vietovės vietoje – ne mažiau kaip pusei darbo laiko.
 kai viršijama darbo laiko trukmė, per artimiausią mėnesį pareigūnui privalo
 būti suteiktas poilsio laikas tokios pat trukmės kaip viršytas darbo laikas
 arba pareigūno pageidavimu šis poilsio laikas gali būti pridedamas prie
-kasmetinių atostogų, arba apmokama Valstybės tarnybos įstatymo nustatyta
-tvarka.
+kasmetinių atostogų, arba apmokama Valstybės tarnybos įstatymo nustatyta tvarka.
 4. Nėščios
 moterys, neseniai pagimdžiusios moterys ir krūtimi maitinančios moterys,
 pareigūnai, auginantys vaiką iki 3 metų, ir pareigūnai, vieni auginantys vaiką
@@ -1509,8 +1606,8 @@ Nr.
 X-804,
 2006-07-19, Žin., 2006, Nr. 87-3412 (2006-08-08)
 Nr.
-X-1820,
-2008-11-14, Žin., 2008, Nr. 137-5369 (2008-11-29)
+X-1820, 2008-11-14,
+Žin., 2008, Nr. 137-5369 (2008-11-29)
  
 32
 straipsnis. Kasmetinės atostogos
@@ -1541,8 +1638,8 @@ suteikiamos ne vėliau kaip kitų metų I ketvirtį.
 5. Pareigūnui, ligos, nelaimingo atsitikimo ar slaugos kasmetinių
 atostogų metu atveju gavusiam iš asmens sveikatos priežiūros įstaigų nustatytos
 formos laikinojo nedarbingumo pažymėjimą ir pateikusiam jį tiesioginiam vadovui
-(arba pranešusiam kitu būdu), kasmetinės atostogos pratęsiamos ar perkeliamos visam
-laikinojo nedarbingumo laikui.
+(arba pranešusiam kitu būdu), kasmetinės atostogos pratęsiamos ar perkeliamos
+visam laikinojo nedarbingumo laikui.
  
 33
 straipsnis. Kasmetinių atostogų nutraukimas
@@ -1660,9 +1757,9 @@ muitinėje laiką nuo paskyrimo į pareigūno pareigas ar kario statuso įgijimo
 dienos;
 2) darbo
 įstaigose bei organizacijose laiką, jeigu pareigūnas buvo nusiųstas dirbti į
-jas būdamas įtrauktas į Vidaus reikalų ministerijos, Valstybės saugumo departamento
-ar Krašto apsaugos ministerijos kadrų rezervą bei Specialiųjų tyrimų tarnybos
-personalo rezervą;
+jas būdamas įtrauktas į Vidaus reikalų ministerijos, Valstybės saugumo
+departamento ar Krašto apsaugos ministerijos kadrų rezervą bei Specialiųjų
+tyrimų tarnybos personalo rezervą;
 3) nuteisto
 pareigūno ar kario bausmės atlikimo laiką, jeigu vėliau šis asmuo
 reabilituotas;
@@ -1734,8 +1831,8 @@ Nr. X-1705,
 38 straipsnis. Priemokos ir apmokėjimas
 pareigūnams už darbą poilsio ir švenčių dienomis, nakties bei viršvalandinį
 darbą ir budėjimą
-1. Pareigūnams priemokos mokamos ir už darbą
-poilsio ir švenčių dienomis, nakties bei viršvalandinį darbą ir budėjimą
+1. Pareigūnams priemokos mokamos ir už
+darbą poilsio ir švenčių dienomis, nakties bei viršvalandinį darbą ir budėjimą
 apmokama Valstybės tarnybos įstatymo nustatyta tvarka.
 2. Pareigūnams, tarnaujantiems šio
 Statuto 19 straipsnio 1 dalyje nurodytose misijose už Lietuvos Respublikos
@@ -1754,8 +1851,8 @@ X-1820,
  
 AŠTUNTASIS
 SKIRSNIS
-PAREIGŪNŲ SVEIKATOS
-PRIEŽIŪRA IR SU TUO SUSIJUSIOS SOCIALINĖS GARANTIJOS
+PAREIGŪNŲ
+SVEIKATOS PRIEŽIŪRA IR SU TUO SUSIJUSIOS SOCIALINĖS GARANTIJOS
  
 39 straipsnis.
 Sveikatos priežiūra
@@ -1897,10 +1994,10 @@ sąmoningas, su tarnybiniu būtinumu nesusijęs saugumo taisyklių pažeidimas.
 7. Ginčai dėl atsisakymo mokėti kompensaciją nagrinėjami teisės aktų
 nustatyta tvarka.
 8. Pareigūno ar
-kursanto sveikatos sutrikdymo sunkumo mastą nustato Centrinė medicinos ekspertizės
-komisija, vadovaudamasi Vyriausybės tvirtinamu Vidaus tarnybos sistemos
-pareigūnų ar kursantų sunkių, apysunkių ir lengvų sužeidimų, traumų bei kitų
-sveikatos sutrikdymų sąrašu Vyriausybės nustatyta tvarka.
+kursanto sveikatos sutrikdymo sunkumo mastą nustato Centrinė medicinos
+ekspertizės komisija, vadovaudamasi Vyriausybės tvirtinamu Vidaus tarnybos
+sistemos pareigūnų ar kursantų sunkių, apysunkių ir lengvų sužeidimų, traumų
+bei kitų sveikatos sutrikdymų sąrašu Vyriausybės nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.
@@ -1947,27 +2044,27 @@ priežiūros atostogų laikotarpiais pareigūnams mokamų išmokų įsigalioja 2
 liepos 1 d.:
 3. Laikinojo
 nedarbingumo, nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko
-priežiūros atostogų laikotarpiais pareigūnams mokamas vidutinis jų darbo užmokestis
-arba jo dalis. Mokamo vidutinio darbo užmokesčio ar jo dalies dydis, maksimalus
-kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi vadovaujantis
+priežiūros atostogų laikotarpiais pareigūnams mokamas vidutinis jų darbo
+užmokestis arba jo dalis. Mokamo vidutinio darbo užmokesčio ar jo dalies dydis,
+maksimalus kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi vadovaujantis
 Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo
 nuostatomis.
  
-4. Jeigu pareigūnas,
-kuris buvo ar yra išleistas vaiko priežiūros atostogų, kol vaikui sueis dveji
-metai, gauna darbo užmokestį, kuris yra mažesnis už vidutinį darbo užmokestį
-(bendrą vidutinių darbo užmokesčių sumą), nurodytą šio straipsnio 3 dalyje,
-laikotarpiu, kol vaikui sueis dveji metai, jam mokamas šio vidutinio darbo
-užmokesčio (bendros jų sumos) ir jo gaunamo atitinkamo mėnesio darbo užmokesčio
-skirtumas.
-4 dalis netenka galios nuo 2011 m. liepos
-1 d.
+4. Jeigu
+pareigūnas, kuris buvo ar yra išleistas vaiko priežiūros atostogų, kol vaikui
+sueis dveji metai, gauna darbo užmokestį, kuris yra mažesnis už vidutinį darbo
+užmokestį (bendrą vidutinių darbo užmokesčių sumą), nurodytą šio straipsnio 3
+dalyje, laikotarpiu, kol vaikui sueis dveji metai, jam mokamas šio vidutinio
+darbo užmokesčio (bendros jų sumos) ir jo gaunamo atitinkamo mėnesio darbo
+užmokesčio skirtumas.
+4 dalis netenka galios nuo 2011 m.
+liepos 1 d.
  
 5. Tėvystės
 atostogų laikotarpiu pareigūnui mokamas Vyriausybės nustatyta tvarka
 apskaičiuotas vidutinis jo darbo užmokestis, jeigu jis pripažino tėvystę.
-5 dalis netenka galios nuo 2011 m. liepos
-1 d.
+5 dalis netenka galios nuo 2011 m.
+liepos 1 d.
  
 6. Pareigūnų,
 kai jų laikinojo nedarbingumo trukmė atitinka nedarbingumo pažymėjimų išdavimo
@@ -1980,8 +2077,8 @@ Nr. IX-2526,
 Nr. IX-2536,
 2004-11-04, Žin., 2004, Nr. 171-6296 (2004-11-26)
 Nr.
-X-665, 2006-06-08,
-Žin., 2006, Nr. 72-2681 (2006-06-28)
+X-665,
+2006-06-08, Žin., 2006, Nr. 72-2681 (2006-06-28)
 Nr.
 X-804,
 2006-07-19, Žin., 2006, Nr. 87-3412 (2006-08-08)
@@ -2118,19 +2215,19 @@ straipsnis. Aprūpinimas gyvenamosiomis patalpomis
 Pareigūnas, kuris pats, jo sutuoktinis, sugyventinis (partneris) vaikai ir
 įvaikiai pareigūno tarnybos vietovėje neturi nuosavybės teise priklausančio,
 techninius ir sanitarinius reikalavimus atitinkančio buto, namo ar jo dalies ir
-pastaruosius 5 metus nėra jo perleidę (išskyrus perleidimą dėl santuokos
-nutraukimo), iš Vidaus reikalų ministerijos ar atitinkamos vidaus reikalų
-centrinės įstaigos atitinkamoje vietovėje turimo tarnybinių butų fondo
-aprūpinami pagal tos gyvenamosios vietovės sąlygas įrengtu, techninius ir
-higienos reikalavimus atitinkančiu ir suremontuotu tarnybiniu butu (viengungis
-arba pareigūnas, kurio šeima negali persikelti į pareigūno tarnybos vietą –
-atskira tarnybine gyvenamąja patalpa). Už suteiktą tarnybinį butą (gyvenamąsias
-patalpas) pareigūnas moka Vyriausybės nustatyta tvarka apskaičiuotą
-gyvenamosios patalpos nuomos mokestį ir mokesčius už energijos, ryšių bei visas
-komunalines paslaugas pagal toje vietovėje galiojančius tarifus.
-2. Pareigūnas, perėjęs
-tarnauti į kitą vidaus reikalų įstaigą, dėl šios priežasties negali būti
-iškeldinamas iš anksčiau suteikto tarnybinio buto.
+pastaruosius 5 metus nėra jo perleidę (išskyrus perleidimą dėl santuokos nutraukimo),
+iš Vidaus reikalų ministerijos ar atitinkamos vidaus reikalų centrinės įstaigos
+atitinkamoje vietovėje turimo tarnybinių butų fondo aprūpinami pagal tos
+gyvenamosios vietovės sąlygas įrengtu, techninius ir higienos reikalavimus
+atitinkančiu ir suremontuotu tarnybiniu butu (viengungis arba pareigūnas, kurio
+šeima negali persikelti į pareigūno tarnybos vietą – atskira tarnybine
+gyvenamąja patalpa). Už suteiktą tarnybinį butą (gyvenamąsias patalpas)
+pareigūnas moka Vyriausybės nustatyta tvarka apskaičiuotą gyvenamosios patalpos
+nuomos mokestį ir mokesčius už energijos, ryšių bei visas komunalines paslaugas
+pagal toje vietovėje galiojančius tarifus.
+2. Pareigūnas,
+perėjęs tarnauti į kitą vidaus reikalų įstaigą, dėl šios priežasties
+negali būti iškeldinamas iš anksčiau suteikto tarnybinio buto.
 3.
 Pareigūnas gali naudotis tarnybiniu butu (tarnybine gyvenamąja patalpa) tol,
 kol turi pareigūno statusą. Atleistas iš vidaus tarnybos pareigūnas privalo tarnybinį butą
@@ -2157,9 +2254,9 @@ Pareigūnai specialių tarnybinių užduočių, susijusių su apribojimu
 palikti užduoties vietą, vykdymo laikotarpiu, taip pat atliekantys tarnybą
 lauko sąlygomis aprūpinami maistu pagal Vyriausybės ar jos įgaliotos
 institucijos nustatytas fiziologines mitybos normas arba jiems mokama
-Vyriausybės nustatyto dydžio maitinimosi išlaidų piniginė kompensacija.
-Aprūpinimo maistu tvarką ir maitinimosi išlaidų piniginės kompensacijos
-mokėjimo tvarką nustato vidaus reikalų centrinių įstaigų vadovai.
+Vyriausybės nustatyto dydžio maitinimosi išlaidų piniginė kompensacija. Aprūpinimo
+maistu tvarką ir maitinimosi išlaidų piniginės kompensacijos mokėjimo tvarką
+nustato vidaus reikalų centrinių įstaigų vadovai.
 Straipsnio
 pakeitimai:
 Nr.
@@ -2180,8 +2277,8 @@ profesinio ar įvadinio mokymo laikotarpiui valstybės biudžeto lėšomis
 privalomai draudžiama nuo nelaimingų atsitikimų profesinio ar įvadinio mokymo
 metu. Kursanto sveikatos ir gyvybės draudimo suma lygi draudiminio įvykio
 mėnesį Vyriausybės nustatytai minimaliai mėnesinei algai, padaugintai iš 12.
-3. Pareigūnų ir kursantų sveikatos ir gyvybės
-draudimo, draudiminių įvykių pripažinimo tvarką, draudimo išmokų dydžio
+3. Pareigūnų ir kursantų sveikatos ir
+gyvybės draudimo, draudiminių įvykių pripažinimo tvarką, draudimo išmokų dydžio
 nustatymo ir mokėjimo tvarką nustato Vyriausybė. Nelaimingų atsitikimų
 tarnyboje, nelaimingų atsitikimų, susijusių su tarnyba, nelaimingų atsitikimų
 vykstant į tarnybą ar grįžtant iš jos, taip pat nelaimingų atsitikimų
@@ -2209,13 +2306,13 @@ straipsnis. Pareigūnams valstybės garantuojama teisinė pagalba
 Pareigūnui,
 vykdžiusiam pavestus vidaus tarnybos uždavinius ir funkcijas bei viršijusiam
 tarnybinės rizikos ribas ir tuo padariusiam nusikalstamą veiką ar kitokį teisės
-pažeidimą arba nukentėjusiam vykdant tarnybines funkcijas ar dėl vidaus
-tarnybos, iš vidaus reikalų įstaigai darbo
-užmokesčiui skirtų lėšų gali būti kompensuojamos teisinės pagalbos
-išlaidos ar jų dalis. Kompensaciją skiria
-vidaus reikalų įstaigos vadovas iš vidaus reikalų įstaigai darbo užmokesčiui
-skirtų lėšų. Vidaus reikalų įstaigos vadovui pašalpa skiriama iš jo
-vadovaujamos vidaus reikalų įstaigos darbo užmokesčiui skirtų lėšų.
+pažeidimą arba nukentėjusiam vykdant tarnybines funkcijas ar dėl vidaus tarnybos,
+iš vidaus reikalų įstaigai darbo užmokesčiui
+skirtų lėšų gali būti kompensuojamos teisinės pagalbos išlaidos ar jų
+dalis. Kompensaciją skiria vidaus reikalų
+įstaigos vadovas iš vidaus reikalų įstaigai darbo užmokesčiui skirtų lėšų.
+Vidaus reikalų įstaigos vadovui pašalpa skiriama iš jo vadovaujamos vidaus
+reikalų įstaigos darbo užmokesčiui skirtų lėšų.
  
 51 straipsnis. Grąžinimas į vidaus tarnybą
 Pareigūnas,
@@ -2227,8 +2324,8 @@ prašymu gali būti grąžinamas į vidaus tarnybą. Grąžinimo į vidaus tarny
 tvarką nustato vidaus reikalų ministras.
 Straipsnio
 pakeitimai:
-Nr. X-1705, 2008-07-15,
-Žin., 2008, Nr. 87-3465 (2008-07-31)
+Nr. X-1705,
+2008-07-15, Žin., 2008, Nr. 87-3465 (2008-07-31)
  
 52
 straipsnis. Kompensacijos, pašalpos ir kitos išmokos
@@ -2429,8 +2526,8 @@ metų – du kartus, daugiau kaip 20 metų – tris kartus.
 Straipsnio
 pakeitimai:
 Nr.
-X-804,
-2006-07-19, Žin., 2006, Nr. 87-3412 (2006-08-08)
+X-804, 2006-07-19,
+Žin., 2006, Nr. 87-3412 (2006-08-08)
  
 58
 straipsnis. Atsiskaitymas su atleidžiamu iš vidaus tarnybos pareigūnu
@@ -2473,9 +2570,9 @@ apskaitai, pareigybių komplektavimui ir poreikio nustatymui.
 reikalų pareigūnų registras steigiamas ir tvarkomas Lietuvos Respublikos
 valstybės registrų, Asmens duomenų teisinės apsaugos įstatymų, kitų teisės aktų
 nustatyta tvarka. Vidaus reikalų pareigūnų registro paskirtį, jo objektus,
-registro tvarkymo įstaigas, jų teises ir pareigas, registro tvarkymą, reorganizavimą
-ir likvidavimą reglamentuoja Vidaus reikalų pareigūnų registro nuostatai. Šiuos
-nuostatus vidaus reikalų ministro teikimu tvirtina Vyriausybė.
+registro tvarkymo įstaigas, jų teises ir pareigas, registro tvarkymą,
+reorganizavimą ir likvidavimą reglamentuoja Vidaus reikalų pareigūnų registro
+nuostatai. Šiuos nuostatus vidaus reikalų ministro teikimu tvirtina Vyriausybė.
  
 ________________
  
@@ -2641,9 +2738,9 @@ Respublikos vidaus tarnybos statuto 41 straipsnio 3 dalį, vadovaujantis
 šio įstatymo nuostatomis, atitinkamai perskaičiuojamas, padidinamas ir (ar)
 pratęsiamas jo mokėjimo laikotarpis.
 Vidaus tarnybos pareigūnams, esantiems
-vaiko priežiūros atostogose (nepaisant to, ar vaiko priežiūros atostogos tęsiamos,
-ar suteikiamos iš naujo), kuriems vidutinio darbo užmokesčio mokėjimo laikas
-buvo pasibaigęs, nes vaikui (vaikams) suėjo vieni metai, nuo 2008 m. sausio 1 d. mokėjimas tęsiamas, jeigu vaikui (vaikams) dar nėra suėję dveji metai. 
+vaiko priežiūros atostogose (nepaisant to, ar vaiko priežiūros atostogos
+tęsiamos, ar suteikiamos iš naujo), kuriems vidutinio darbo užmokesčio mokėjimo
+laikas buvo pasibaigęs, nes vaikui (vaikams) suėjo vieni metai, nuo 2008 m. sausio 1 d. mokėjimas tęsiamas, jeigu vaikui (vaikams) dar nėra suėję dveji metai. 
  
 16.
 Lietuvos
@@ -2662,8 +2759,8 @@ Nr. X-1621,
 2008-06-17, Žin., 2008, Nr. 74-2867 (2008-06-30)
 VIDAUS
 TARNYBOS STATUTO 41 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-Šis įstatymas
-įsigalioja 2008 m. liepos 1 d.
+Šis
+įstatymas įsigalioja 2008 m. liepos 1 d.
  
 18.
 Lietuvos
@@ -2703,17 +2800,26 @@ VIDAUS TARNYBOS STATUTO 54 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
  
 22.
-Lietuvos
-Respublikos Seimas, Įstatymas
+Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-985,
 2010-07-02, Žin., 2010, Nr. 86-4536 (2010-07-20)
-VIDAUS TARNYBOS
-STATUTO 41 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+VIDAUS TARNYBOS STATUTO 41 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1424,
+2011-05-26, Žin., 2011, Nr. 72-3474 (2011-06-14)
+VIDAUS TARNYBOS STATUTO 23, 26
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis įstatymas, išskyrus šio straipsnio 2
+dalį, įsigalioja 2011 m. rugsėjo 1 d.
+ 
  
 *** Pabaiga ***
  
  
-Redagavo Aušrinė
-Trapinskienė (2010-07-27)
+Redagavo Aušrinė Trapinskienė
+(2011-06-17)
                  
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
