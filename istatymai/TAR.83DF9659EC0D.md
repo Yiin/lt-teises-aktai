@@ -64,18 +64,21 @@ Preambulės pakeitimai:
 Nr. IX-1455,
 2003-04-03, Žin., 2003, Nr. 38-1700 (2003-04-24)
  
-            1 straipsnis.
-(Neteko galios)
+1 straipsnis.
+Atsakomybę už Lietuvos gyventojų
+genocidą nustato Lietuvos Respublikos įstatymai.
 Straipsnio
 pakeitimai:
 Nr. VIII-708, 1998.04.21,
 Žin., 1998, Nr. 42-1140 (1998.05.06)
+Nr. XI-1440,
+2011-06-09, Žin., 2011, Nr. 74-3544 (2011-06-18)
  
             2 straipsnis.
-            Lietuvos žmonių žudymas ar kankinimas, jos
-gyventojų deportavimas, padaryti nacistinės Vokietijos ar SSRS okupacijos ir
-aneksijos Lietuvoje metais, atitinka tarptautinės teisės normose numatyto
-genocido nusikaltimo požymius.
+            Lietuvos žmonių žudymas ar kankinimas, jos gyventojų
+deportavimas, padaryti nacistinės Vokietijos ar SSRS okupacijos ir aneksijos
+Lietuvoje metais, atitinka tarptautinės teisės normose numatyto genocido
+nusikaltimo požymius.
  
             3 straipsnis.
 (Neteko galios)
@@ -141,6 +144,14 @@ Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir
 Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
 2003 m. gegužės 1 d.
  
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1440,
+2011-06-09, Žin., 2011, Nr. 74-3544 (2011-06-18)
+ĮSTATYMO "DĖL ATSAKOMYBĖS UŽ
+LIETUVOS GYVENTOJŲ GENOCIDĄ" PAPILDYMO 1 STRAIPSNIU ĮSTATYMAS
+ 
+ 
 *** Pabaiga ***
  
  
@@ -161,10 +172,11 @@ KONSTITUCIJAI
 Šio nutarimo atitaisymas
 skelbtas: Žin., 2011, Nr. 33 (2011-03-19)
  
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2010-12-02)
+(2011-06-20)
                  
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
