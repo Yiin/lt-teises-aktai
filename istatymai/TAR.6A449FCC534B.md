@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6A449FCC534B"
 
 # Lietuvos Respublikos koncesijų įstatymas
 
-Suvestinė redakcija nuo 2010-01-01 iki 2011-06-27
+Suvestinė redakcija nuo 2011-06-28 iki 2012-06-29
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 92-2141, i. k. 0961010ISTA00I-1510
  
@@ -830,22 +830,37 @@ Nr. X-749, 2006-07-11, Žin., 2006, Nr. 82-3251 (2006-07-27), i. k. 1061010ISTA0
 
 
 
-5) galiojanti koncesijos sutartis nutraukiama dėl to, kad koncesininkas nevykdo ar netinkamai vykdo koncesijos sutartį,  o tai yra esminis sutarties pažeidimas, ir sudaroma nauja koncesijos sutartis dėl to paties dalyko su kitu koncesininku, kurį bankai ar kitos finansinės institucijos, suteikusios paskolas įsipareigojimų nevykdančiam koncesininkui, pakvietė sudaryti koncesijos sutartį, ir vienas iš pagrindinių tokios naujos sutarties tikslų yra užtikrinti tokių paskolų grąžinimą iš lėšų, gaunamų naujojo koncesininko pagal koncesijos sutartį; 
-
-
-
-
-6) koncesijos projektas yra ne mažiau kaip 50 procentų finansuojamas užsienio institucijos ar valstybės palankesnėmis sąlygomis, negu koncesijos suteikimo metu Lietuvoje esančios rinkos sąlygos, ir tokia finansuojančioji institucija ar valstybė yra potencialiems koncesininkams nustačiusi reikalavimus, kuriuos atitinka tik tam tikra subjektų kategorija, bei reikalavimus, kokia tvarka turi būti parenkamas koncesininkas, ir tokia tvarka skiriasi nuo šio Įstatymo nustatytos konkurso tvarkos;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. X-749, 2006-07-11, Žin., 2006, Nr. 82-3251 (2006-07-27), i. k. 1061010ISTA000X-749
+5) šios dalies 4 punkte nustatytas šešių mėnesių terminas Lietuvos Respublikos Vyriausybės sprendimu gali būti pratęstas naujos atominės elektrinės statybai Lietuvoje; 
+TAR pastaba. 17 straipsnio papildymas nauju 5 punktu galioja vienus metus nuo įstatymo Nr. XI-1458 įsigaliojimo dienos (2016-06-28).
+Papildyta straipsnio punktu:
+Nr. XI-1458, 2011-06-16, Žin., 2011, Nr. 77-3726 (2011-06-28), i. k. 1111010ISTA0XI-1458
  
 
 
 
 
-7) kai dėl aplinkybių, kurių nebuvo galima numatyti, paaiškėja, kad yra reikalingi papildomi darbai arba paslaugos, kurie nebuvo įrašyti į pradinį projektą ar sudarytą koncesijos sutartį ir kurių techniškai ar ekonomiškai neįmanoma atskirti nuo pradinės koncesijos sutarties nesukeliant didelių nepatogumų suteikiančiajai institucijai, arba kai tokie darbai ar paslaugos, nors ir gali būti atskirti nuo pradinės koncesijos sutarties, yra būtinai reikalingi koncesijos sutarčiai užbaigti. Tokia sutartis dėl papildomų darbų ar paslaugų gali būti sudaroma tik su koncesininku, su kuriuo buvo sudaryta pradinė koncesijos sutartis, o visų kitų papildomai sudarytų sutarčių bendra kaina neturi viršyti 30 procentų pagrindinės koncesijos sutarties vertės.
+6) galiojanti koncesijos sutartis nutraukiama dėl to, kad koncesininkas nevykdo ar netinkamai vykdo koncesijos sutartį,  o tai yra esminis sutarties pažeidimas, ir sudaroma nauja koncesijos sutartis dėl to paties dalyko su kitu koncesininku, kurį bankai ar kitos finansinės institucijos, suteikusios paskolas įsipareigojimų nevykdančiam koncesininkui, pakvietė sudaryti koncesijos sutartį, ir vienas iš pagrindinių tokios naujos sutarties tikslų yra užtikrinti tokių paskolų grąžinimą iš lėšų, gaunamų naujojo koncesininko pagal koncesijos sutartį; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-1458, 2011-06-16, Žin., 2011, Nr. 77-3726 (2011-06-28), i. k. 1111010ISTA0XI-1458
+ 
+
+
+
+
+7) koncesijos projektas yra ne mažiau kaip 50 procentų finansuojamas užsienio institucijos ar valstybės palankesnėmis sąlygomis, negu koncesijos suteikimo metu Lietuvoje esančios rinkos sąlygos, ir tokia finansuojančioji institucija ar valstybė yra potencialiems koncesininkams nustačiusi reikalavimus, kuriuos atitinka tik tam tikra subjektų kategorija, bei reikalavimus, kokia tvarka turi būti parenkamas koncesininkas, ir tokia tvarka skiriasi nuo šio Įstatymo nustatytos konkurso tvarkos;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. X-749, 2006-07-11, Žin., 2006, Nr. 82-3251 (2006-07-27), i. k. 1061010ISTA000X-749
+Nr. XI-1458, 2011-06-16, Žin., 2011, Nr. 77-3726 (2011-06-28), i. k. 1111010ISTA0XI-1458
+ 
+
+
+
+
+8) kai dėl aplinkybių, kurių nebuvo galima numatyti, paaiškėja, kad yra reikalingi papildomi darbai arba paslaugos, kurie nebuvo įrašyti į pradinį projektą ar sudarytą koncesijos sutartį ir kurių techniškai ar ekonomiškai neįmanoma atskirti nuo pradinės koncesijos sutarties nesukeliant didelių nepatogumų suteikiančiajai institucijai, arba kai tokie darbai ar paslaugos, nors ir gali būti atskirti nuo pradinės koncesijos sutarties, yra būtinai reikalingi koncesijos sutarčiai užbaigti. Tokia sutartis dėl papildomų darbų ar paslaugų gali būti sudaroma tik su koncesininku, su kuriuo buvo sudaryta pradinė koncesijos sutartis, o visų kitų papildomai sudarytų sutarčių bendra kaina neturi viršyti 30 procentų pagrindinės koncesijos sutarties vertės.
 Papildyta straipsnio punktu:
 Nr. X-749, 2006-07-11, Žin., 2006, Nr. 82-3251 (2006-07-27), i. k. 1061010ISTA000X-749
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XI-1458, 2011-06-16, Žin., 2011, Nr. 77-3726 (2011-06-28), i. k. 1111010ISTA0XI-1458
  
 
 
@@ -1473,3 +1488,8 @@ Lietuvos Respublikos koncesijų įstatymo, Vietos savivaldos įstatymo pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-302, 2009-06-16, Žin., 2009, Nr. 77-3167 (2009-06-30), i. k. 1091010ISTA00XI-302
 Lietuvos Respublikos koncesijų įstatymo 28-1 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1458, 2011-06-16, Žin., 2011, Nr. 77-3726 (2011-06-28), i. k. 1111010ISTA0XI-1458
+Lietuvos Respublikos koncesijų įstatymo 17 straipsnio papildymo ir pakeitimo įstatymas
