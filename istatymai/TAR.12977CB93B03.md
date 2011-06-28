@@ -13,130 +13,159 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.12977CB93B03"
 
 # Lietuvos Respublikos paramos mirties atveju įstatymas
 
-Suvestinė redakcija nuo 2008-01-01 iki 2011-06-27
+Suvestinė redakcija nuo 2011-06-28 iki 2014-05-02
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 73-1371, i. k. 0931010ISTA000I-348
  
-LIETUVOS RESPUBLIKOS
-ĮSTATYMAS
+Nauja redakcija nuo 2011-06-28:
+Nr. XI-1435, 2011-06-09, Žin. 2011, Nr. 77-3722 (2011-06-28), i. k. 1111010ISTA0XI-1435
+ 
+LIETUVOS RESPUBLIKOS PARAMOS MIRTIES ATVEJU ĮSTATYMAS
  
 1993 m. gruodžio 23 d. Nr. I-348
 Vilnius
  
-DĖL PARAMOS MIRTIES ATVEJU
- 
- 
 
 
-1 straipsnis. Laidojimo pašalpa
+1 straipsnis. Įstatymo paskirtis
 
 
-Laidojimo pašalpa (toliau – pašalpa) mokama mirus:
-
-
-1) Lietuvos Respublikos piliečiui, kurio nuolatinė gyvenamoji vieta yra Lietuvos Respublikoje;
+1. Šis įstatymas nustato asmenų, turinčių teisę gauti laidojimo pašalpą, kategorijas, laidojimo pašalpos dydį, šių pašalpų mokėjimo ir finansavimo tvarką.
 
 
 
 
-2) Lietuvoje – užsieniečiui (užsienio valstybės pilietybę turinčiam asmeniui arba asmeniui be pilietybės), turinčiam leidimą nuolat gyventi Lietuvos Respublikoje;
-
-
-
-
-3) Lietuvoje – asmeniui, įstatymų nustatyta tvarka Lietuvos Respublikoje turinčiam pabėgėlio statusą.
-
-
-
-
-
-
-Pašalpa išmokama šio straipsnio 1 dalyje išvardytų mirusių asmenų šeimos nariui ar kitam juos laidojančiam asmeniui (toliau – laidojantis asmuo).
-
-
-
-
-Pašalpa taip pat mokama, kai Lietuvos Respublikos piliečio, kurio nuolatinė gyvenamoji vieta yra Lietuvos Respublikoje, turinčio leidimą nuolat gyventi Lietuvos Respublikoje užsieniečio, įstatymų nustatyta tvarka Lietuvos Respublikoje turinčio pabėgėlio statusą asmens vaikas gimsta negyvas (ne mažiau kaip 22 nėštumo savaičių kūdikis). Šiuo atveju pašalpa išmokama vienam iš gimusio negyvo vaiko tėvų arba jį laidojančiam asmeniui.
-
-
-
-
-Pašalpa nemokama, kai laidojama valstybės ar savivaldybės biudžeto lėšomis.
-
-
-Straipsnio pakeitimai:
-Nr. VIII-1704, 2000-05-23, Žin., 2000, Nr. 45-1298 (2000-06-02), i. k. 1001010ISTAIII-1704
+2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
  
 
 
 
 
-2 straipsnis. Pašalpos dydis
 
 
-Pašalpa yra 8 minimalių gyvenimo lygių (toliau – MGL) dydžio. Pašalpos dydis apskaičiuojamas pagal tą mėnesį, kurį atsirado teisė į pašalpą, galiojusio MGL dydį.
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-Straipsnio pakeitimai:
-Nr. VIII-1704, 2000-05-23, Žin., 2000, Nr. 45-1298 (2000-06-02), i. k. 1001010ISTAIII-1704
-Nr. X-213, 2005-05-19, Žin., 2005, Nr. 71-2559 (2005-06-07), i. k. 1051010ISTA000X-213
-Nr. X-1294, 2007-10-11, Žin., 2007, Nr. 110-4490 (2007-10-25), i. k. 1071010ISTA00X-1294
+1. Laidojantis asmuo – fizinis asmuo, juridinis asmuo, juridinio asmens statuso neturinti organizacija arba pastarųjų padalinys, organizuojantys palaikų laidojimą.
+
+
+
+
+2. Lietuvos Respublikoje nuolat gyvenantys asmenys – Lietuvos Respublikos piliečiai ir Lietuvos Respublikoje nuolat gyvenantys užsieniečiai, kurių duomenys apie gyvenamąją vietą Lietuvos Respublikoje, o neturinčių gyvenamosios vietos – apie savivaldybę, kurios teritorijoje gyvena, yra įrašyti į Lietuvos Respublikos gyventojų registrą.
  
 
 
 
 
-3 straipsnis. Pašalpos mokėjimo tvarka
 
 
-Pašalpa mokama iš tikslinių lėšų, numatytų savivaldybių biudžetams skaičiuojant jų finansinius rodiklius. Ji turi būti išmokėta besikreipiančiajam ne vėliau kaip per 24 valandas po kreipimosi. 
+3 straipsnis. Laidojimo pašalpa
+
+
+1. Laidojimo pašalpa mokama mirus:
+
+
+1) Lietuvos Respublikoje nuolat gyvenančiam asmeniui;
 
 
 
 
-Laidojantis asmuo dėl pašalpos gavimo turi kreiptis į savivaldybę pagal mirusio asmens buvusią gyvenamąją vietą arba laidojančio asmens gyvenamąją vietą ne vėliau kaip per šešis mėnesius nuo šios teisės atsiradimo dienos, pateikdamas prašymą, mirties liudijimą (išskyrus atvejus, kai vaikas gimė negyvas) ir pažymėjimą laidojimo pašalpai gauti.
-TAR pastaba. Jeigu teisė į pašalpą atsirado iki įstatymo Nr. X-213 įsigaliojimo (2005-06-07), o trijų mėnesių kreipimosi terminas nebuvo pasibaigęs ir pašalpa nebuvo išmokėta, taikomas šešių mėnesių kreipimosi terminas. 
-Straipsnio dalies pakeitimai:
-Nr. X-213, 2005-05-19, Žin., 2005, Nr. 71-2559 (2005-06-07), i. k. 1051010ISTA000X-213
+2) Lietuvos Respublikoje gyvenančiam užsieniečiui, kuriam leidimas laikinai gyventi išduotas kaip ketinančiam dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos reikalaujantį darbą, kaip ši sąvoka apibrėžta tai reglamentuojančiuose Lietuvos Respublikos teisės aktuose;
+
+
+
+
+3) Lietuvos Respublikoje gyvenančiam asmeniui, įstatymų nustatyta tvarka Lietuvos Respublikoje turinčiam pabėgėlio statusą;
+
+
+
+
+4) asmeniui, kuriam vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais turi būti taikomas šis įstatymas. 
+
+
+
+
+
+
+2. Laidojimo pašalpa išmokama šio straipsnio 1 dalyje nurodytus asmenis laidojančiam asmeniui.
+
+
+
+
+3. Laidojimo pašalpa taip pat mokama, kai šio straipsnio 1 dalyje nurodyto asmens vaikas gimsta negyvas. Šiuo atveju laidojimo pašalpa išmokama vienam iš gimusio negyvo vaiko tėvų arba kitam jį laidojančiam asmeniui.
+
+
+
+
+4. Laidojimo pašalpa nemokama, kai laidojama valstybės ar savivaldybės biudžeto lėšomis.
  
 
 
 
 
-Teisės į pašalpą atsiradimo diena yra asmens mirties data (rasto mirusio asmens – mirties liudijimo išdavimo data) 
-Papildyta straipsnio dalimi:
-Nr. X-213, 2005-05-19, Žin., 2005, Nr. 71-2559 (2005-06-07), i. k. 1051010ISTA000X-213
+
+
+4 straipsnis. Laidojimo pašalpos dydis
+
+
+Laidojimo pašalpa yra 8 bazinių socialinių išmokų dydžio. Laidojimo pašalpos dydis apskaičiuojamas pagal tą mėnesį, kurį atsirado teisė į laidojimo pašalpą, galiojusį bazinės socialinės išmokos dydį.
  
 
 
 
 
-Teismas gali atnaujinti šio straipsnio 2 dalyje nurodytą terminą, jei jis praleistas dėl priežasčių, kurias teismas pripažįsta svarbiomis. Tokiu atveju kartu su kitais šio straipsnio 2 dalyje nurodytais dokumentais savivaldybei pateikiamas teismo nutarties nuorašas
-Papildyta straipsnio dalimi:
-Nr. X-213, 2005-05-19, Žin., 2005, Nr. 71-2559 (2005-06-07), i. k. 1051010ISTA000X-213
+
+
+5 straipsnis. Laidojimo pašalpos mokėjimo tvarka
+
+
+1. Laidojantis asmuo dėl laidojimo pašalpos gavimo turi kreiptis į savivaldybės administraciją pagal mirusio asmens buvusią deklaruotą gyvenamąją vietą arba laidojančio asmens deklaruotą gyvenamąją vietą ne vėliau kaip per šešis mėnesius nuo šios teisės atsiradimo dienos, pateikdamas prašymą ir mirties liudijimą (tais atvejais, kai vaikas gimė negyvas, – gimimo įrašo nuorašą).
+
+
+
+
+2. Teisės į laidojimo pašalpą atsiradimo diena yra asmens mirties data (rasto mirusio asmens – mirties liudijimo išdavimo data). 
+
+
+
+
+3. Laidojimo pašalpa turi būti išmokėta laidojančiam asmeniui, kuris kreipiasi, ne vėliau kaip per 24 valandas nuo prašymo ir visų reikalingų laidojimo pašalpai gauti dokumentų gavimo savivaldybės administracijoje dienos. 
+
+
+
+
+4. Savivaldybės administracija, teikdama paramą mirties atveju, privalo teikti duomenis apie asmenis, kuriems mirus buvo išmokėta laidojimo pašalpa, ir šios pašalpos gavėjus arba laidojimo pašalpos neskyrimo priežastis Socialinės paramos šeimai informacinėje sistemoje (SPIS).
+
+
+
+
+5. Teismas gali atnaujinti šio straipsnio 1 dalyje nurodytą terminą, jeigu jis praleistas dėl priežasčių, kurias teismas pripažįsta svarbiomis. Tokiu atveju kartu su visais šio straipsnio 1 dalyje nurodytais dokumentais savivaldybės administracijai pateikiamas teismo nutarties nuorašas.
+
+
+
+
+6. Laidojantis asmuo bylose dėl šio straipsnio 1 dalyje nurodyto termino atnaujinimo nuo žyminio mokesčio mokėjimo atleidžiamas.
  
 
 
 
 
-Laidojantis asmuo bylose dėl šio straipsnio 2 dalyje nurodyto termino atnaujinimo nuo žyminio mokesčio mokėjimo atleidžiamas.
-Papildyta straipsnio dalimi:
-Nr. X-213, 2005-05-19, Žin., 2005, Nr. 71-2559 (2005-06-07), i. k. 1051010ISTA000X-213
- 
 
 
-Straipsnio pakeitimai:
-Nr. VIII-986, 1998-12-21, Žin., 1998, Nr. 115-3241 (1998-12-31), i. k. 0981010ISTAVIII-986
- 
+6 straipsnis. Laidojimo pašalpų finansavimas
+
+
+1. Laidojimo pašalpos mokamos iš valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams. 
 
 
 
 
-4 straipsnis. Baigiamoji nuostata
+2. Laidojimo pašalpoms administruoti iš valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams skiriama nuo 2 iki 4 procentų laidojimo pašalpoms skirtų lėšų. Konkretų laidojimo pašalpoms administruoti skiriamų lėšų procento dydį iki biudžetinių metų pradžios nustato socialinės apsaugos ir darbo ministras.
 
 
-Siūlyti Lietuvos Respublikos Vyriausybei suderinti priimtus nutarimus su šiuo įstatymu.
- 
+
+
+3. Valstybės biudžeto lėšų, skirtų specialioms tikslinėms dotacijoms laidojimo pašalpoms administruoti, naudojimo ir atsiskaitymo tvarką nustato socialinės apsaugos ir darbo ministras.
  
 
 
@@ -151,6 +180,25 @@ RESPUBLIKOS PREZIDENTAS                            �
  
 
 
+ 
+
+
+
+
+Lietuvos Respublikos 
+paramos mirties atveju įstatymo 
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+
+1. 2009 m. gegužės 25 d. Tarybos direktyva 2009/50/EB dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų siekiant dirbti aukštos kvalifikacijos darbą (OL 2009 L 155, p. 17).
+
+
+Papildyta priedu:
+Nr. XI-1435, 2011-06-09, Žin., 2011, Nr. 77-3722 (2011-06-28), i. k. 1111010ISTA0XI-1435
+ 
  
  
 Pakeitimai:
@@ -179,3 +227,8 @@ Lietuvos Respublikos įstatymo "Dėl paramos mirties atveju" 2, 3 straipsnių pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1294, 2007-10-11, Žin., 2007, Nr. 110-4490 (2007-10-25), i. k. 1071010ISTA00X-1294
 Lietuvos Respublikos įstatymo "Dėl paramos mirties atveju" 2 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1435, 2011-06-09, Žin., 2011, Nr. 77-3722 (2011-06-28), i. k. 1111010ISTA0XI-1435
+Lietuvos Respublikos įstatymo "Dėl paramos mirties atveju" pakeitimo įstatymas
