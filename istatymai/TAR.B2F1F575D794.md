@@ -110,14 +110,23 @@ metams pasibaigus patikslinti konkretų konsulinio mokesčio dydį, atsižvelgda
 į faktinį išlaidų, susijusių su konsulinių veiksmų atlikimu, padidėjimą arba
 sumažėjimą.
  
-5 straipsnis. Mokesčio
-dydžio ir lengvatų taikymas pariteto pagrindais
-Lietuvos Respublikos Vyriausybė tiek, kiek tai neprieštarauja Europos
-Sąjungos teisės aktams, turi teisę pariteto pagrindais padidinti, sumažinti
-arba neimti konsulinio mokesčio už vizas, dokumentų pareikalavimą ir jų
-legalizavimą užsienio valstybių juridiniams ir fiziniams asmenims,
-atsižvelgdama į tai, kokio dydžio mokestį šios valstybės ima iš Lietuvos
-Respublikos juridinių ir fizinių asmenų. 
+5 straipsnis.
+Mokesčio dydžio ir lengvatų taikymas pariteto pagrindais ir įgyvendinant
+Lietuvos Respublikos Seimo priimtus teisės aktus
+Lietuvos Respublikos Vyriausybė tiek, kiek tai
+neprieštarauja Europos Sąjungos teisės aktams, turi teisę padidinti, sumažinti
+arba neimti pagal šio įstatymo 4 straipsnį nustatyto konsulinio mokesčio:
+1) pariteto pagrindais už prašymų išduoti vizas
+nagrinėjimą, dokumentų pareikalavimą ir jų legalizavimą užsienio valstybių
+juridiniams ir fiziniams asmenims, atsižvelgiant į tai, kokio dydžio mokestį
+šios valstybės ima iš Lietuvos Respublikos juridinių ir fizinių asmenų;
+2) už prašymų išduoti vizas nagrinėjimą, kai tai
+būtina įgyvendinant Lietuvos Respublikos Seimo priimtuose teisės aktuose
+numatytus užsienio politikos ar nacionalinio saugumo tikslus. Jeigu konsulinis
+mokestis didinamas, jis negali būti didesnis kaip 500 eurų.
+Straipsnio pakeitimas:
+Nr. XI-1461,
+2011-06-20, Žin., 2011, Nr. 78-3800 (2011-06-30)
  
 6 straipsnis. Mokesčio lengvatos
 1.
@@ -177,9 +186,9 @@ dokumentus, nagrinėjimą;
 13) prašymų išduoti vizas nagrinėjimą konsulinės
 įstaigos vadovo, kai jis veikia kaip konsulinis pareigūnas, sprendimu
 išimtiniais, kitais, negu numatyta šio straipsnio 8–12 punktuose, atvejais, kai
-užsieniečiai atvyksta į Lietuvos Respubliką kultūros, užsienio politikos,
-vystomojo bendradarbiavimo skatinimo ar kitais visuomenei svarbiais tikslais
-arba dėl humanitarinių priežasčių;
+užsieniečiai atvyksta į Lietuvos Respubliką kultūros, užsienio politikos, vystomojo
+bendradarbiavimo skatinimo ar kitais visuomenei svarbiais tikslais arba dėl
+humanitarinių priežasčių;
 14) prašymų išduoti (D) vizas užsieniečiams, dėl kurių
 priimtas sprendimas išduoti leidimą gyventi Lietuvos Respublikoje, nagrinėjimą
 konsulinėse įstaigose;
@@ -191,10 +200,10 @@ geležinkeliu dokumentą (STGD) ir iš dalies pakeičiančiame Bendrąją konsul
 instrukciją ir Bendrąjį vadovą, nagrinėjimą;
 16) dokumentų dėl leidimo gyventi Lietuvos
 Respublikoje išdavimo priėmimą ir perdavimą vaikams iki 16 metų;
-17) dokumentų dėl leidimo gyventi Lietuvos
-Respublikoje išdavimo priėmimą ir perdavimą lietuvių kilmės asmenims ir
-asmenims, išsaugojusiems teisę į Lietuvos Respublikos pilietybę, pateikusiems
-tai patvirtinančius dokumentus (tarp jų ir šios dalies 11 punkte nurodytą
+17) dokumentų dėl leidimo gyventi Lietuvos Respublikoje
+išdavimo priėmimą ir perdavimą lietuvių kilmės asmenims ir asmenims,
+išsaugojusiems teisę į Lietuvos Respublikos pilietybę, pateikusiems tai
+patvirtinančius dokumentus (tarp jų ir šios dalies 11 punkte nurodytą
 dokumentą), ir kartu gyventi į Lietuvos Respubliką atvykstantiems šių asmenų
 šeimos nariams;
 18) mirties įregistravimą ir mirties liudijimo
@@ -419,9 +428,17 @@ Nr. XI-773,
 KONSULINIO
 MOKESČIO ĮSTATYMO 6 STRAIPSNIO IR PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+11.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-1461,
+2011-06-20, Žin., 2011, Nr. 78-3800 (2011-06-30)
+KONSULINIO
+MOKESČIO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2010-05-04)
-                  autrap@lrs.lt
+(2011-06-30)
+                  ausrine.trapinskiene@lrs.lt
