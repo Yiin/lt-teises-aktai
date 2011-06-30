@@ -55,27 +55,14 @@ diplomatinė tarnyba yra valstybės tarnybos dalis, kuri per Lietuvos Respubliko
 diplomatinės tarnybos institucijas įgyvendina ir vykdo Respublikos Prezidento,
 Lietuvos Respublikos Seimo (toliau – Seimas) ir Lietuvos Respublikos
 Vyriausybės (toliau – Vyriausybė) nustatytą užsienio politiką.
- 
-2 dalies
-redakcija iki 2010 m. rugsėjo 1 d.:
-2.
-Lietuvos Respublikos diplomatinė tarnyba yra vientisa. Ją sudaro Užsienio
-reikalų ministerijoje ir Užsienio reikalų ministerijai atskaitingose Lietuvos
-Respublikos diplomatinėse atstovybėse užsienio valstybėse, Lietuvos Respublikos
-atstovybėse prie tarptautinių organizacijų, konsulinėse įstaigose,
-specialiosiose misijose, Respublikos Prezidento kanceliarijoje, Seimo
-kanceliarijoje, Ministro Pirmininko tarnyboje, ministerijose, kitose valstybės
-institucijose ar įstaigose bei derybų grupėse ir derybų delegacijose dirbantys
-diplomatai.
-2 dalies
-redakcija nuo 2010 m. rugsėjo 1 d.:
 2. Lietuvos Respublikos
 diplomatinė tarnyba yra vientisa. Ją sudaro: 
 1) Užsienio
 reikalų ministerijoje ir Užsienio reikalų ministerijai atskaitingose Lietuvos
 Respublikos diplomatinėse atstovybėse užsienio valstybėse, Lietuvos Respublikos
-atstovybėse prie tarptautinių organizacijų, konsulinėse įstaigose, specialiosiose
-misijose, derybų grupėse ir derybų delegacijose dirbantys diplomatai;
+atstovybėse prie tarptautinių organizacijų, konsulinėse įstaigose,
+specialiosiose misijose, derybų grupėse ir derybų delegacijose dirbantys
+diplomatai;
 2) Respublikos
 Prezidento kanceliarijoje, Seimo kanceliarijoje, Ministro Pirmininko tarnyboje,
 ministerijose, kitose valstybės institucijose ar įstaigose dirbantys
@@ -87,9 +74,8 @@ ar Tarybos įsteigtoje institucijoje, Europos Komisijos ir Europos Sąjungos
 valstybių narių bendrai įsteigtoje organizacijoje (konsorciume), civilinėje
 tarptautinėje operacijoje ar misijoje (toliau – tarptautinė ir Europos Sąjungos
 institucija) ar užsienio valstybės institucijoje
-Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas
-ar užsienio valstybių institucijas įstatymo nustatyta tvarka.
- 
+Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos
+institucijas ar užsienio valstybių institucijas įstatymo nustatyta tvarka.
 3. Lietuvos Respublikos
 diplomatinei tarnybai vadovauja užsienio reikalų ministras pagal šio įstatymo
 bei kitų teisės aktų nustatytą kompetenciją. 
@@ -137,11 +123,10 @@ Užsienio reikalų ministerijos kolegija (toliau – Kolegija) yra užsienio rei
 ministro patariamoji institucija. Kolegijai vadovauja, jos sudėtį ir darbo
 reglamentą tvirtina užsienio reikalų ministras. Jis taip pat teikia klausimus
 Kolegijai svarstyti. Į Kolegiją pagal pareigas įeina užsienio reikalų
-ministras, užsienio reikalų viceministrai, ministerijos  kancleris,
-departamentų direktoriai. Užsienio reikalų ministras į Kolegiją gali paskirti
-ir kitus diplomatus. Į Kolegijos posėdžius kviečiamas Seimo Užsienio reikalų
-komiteto pirmininkas ar jo įgaliotas asmuo ir Respublikos Prezidento įgaliotas
-asmuo.
+ministras, užsienio reikalų viceministrai, ministerijos  kancleris, departamentų
+direktoriai. Užsienio reikalų ministras į Kolegiją gali paskirti ir kitus
+diplomatus. Į Kolegijos posėdžius kviečiamas Seimo Užsienio reikalų komiteto
+pirmininkas ar jo įgaliotas asmuo ir Respublikos Prezidento įgaliotas asmuo.
 2. Diplomatų atestacijos komisija (toliau – Atestacijos komisija)
 vertina diplomatų tarnybinę veiklą užsienio reikalų ministro nustatyta tvarka,
 svarsto diplomatų kandidatūras, ar diplomatai atitinka skiriamas ar einamas
@@ -188,13 +173,13 @@ valstybė gali atstovauti Lietuvos Respublikos interesams kitose valstybėse,
 jeigu šios valstybės sutinka. Sprendimą dėl tokio atstovavimo priima Vyriausybė
 užsienio reikalų ministro teikimu, Seimui pritarus.
  
-9 straipsnis. Lietuvos Respublikos
-diplomatinės atstovybės užsienio valstybėje funkcijos
+9 straipsnis. Lietuvos
+Respublikos diplomatinės atstovybės ir konsulinės įstaigos funkcijos
 1. Lietuvos Respublikos
 diplomatinė atstovybė užsienio valstybėje, kurioje ji akredituota, vykdo šias
 funkcijas:
-1) atstovauja Lietuvos
-Respublikai ir palaiko su valstybe oficialius santykius;
+1) atstovauja Lietuvos Respublikai
+ir palaiko su valstybe oficialius santykius;
 2) įgyvendina Lietuvos
 Respublikos užsienio politikos uždavinius;
 3) derasi su valstybės
@@ -205,17 +190,30 @@ piliečių, įmonių, kitų juridinių asmenų teises ir teisėtus interesus;
 ir perduoda Užsienio reikalų ministerijai informaciją apie valstybės politinį,
 ekonominį gyvenimą bei įvykius;
 6) skatina Lietuvos Respublikos
-ir šios valstybės draugiškus santykius ir dalyvauja plėtojant ekonominį,
-kultūrinį bei mokslinį bendradarbiavimą, taip pat Lietuvos Respublikos ir šios
-valstybės bendradarbiavimą dėl saugumo ir taikos užtikrinimo;
+ir šios valstybės draugiškus santykius ir dalyvauja plėtojant ekonominį, kultūrinį
+bei mokslinį bendradarbiavimą, taip pat Lietuvos Respublikos ir šios valstybės
+bendradarbiavimą dėl saugumo ir taikos užtikrinimo;
 7) platina informaciją apie
 Lietuvos Respubliką, jos politinę, socialinę ir ekonominę padėtį, kultūrą,
-papročius ir tradicijas.
+papročius ir tradicijas;
+8) rūpinasi šioje valstybėje
+gyvenančių lietuvių ryšių su Lietuva palaikymu ir stiprinimu.
 2. Lietuvos Respublikos
 diplomatinei atstovybei užsienio valstybėje užsienio reikalų ministras gali
 pavesti vykdyti konsulines ir kitas funkcijas, atitinkančias diplomatinės
 atstovybės statusą pagal 1961 m. Vienos konvenciją dėl diplomatinių santykių ir
 viešąją tarptautinę teisę.
+3. Lietuvos Respublikos
+konsulinės įstaigos gali atlikti šio straipsnio 1 dalyje nurodytas funkcijas,
+jeigu jų nedraudžia priimančiosios valstybės įstatymai ir kiti teisės aktai
+arba dėl kurių neprieštarauja priimančioji valstybė, arba kurios numatytos
+galiojančiose Lietuvos Respublikos ir priimančiosios valstybės tarptautinėse
+sutartyse.
+Straipsnio
+pakeitimai:
+Nr.
+XI-1445,
+2011-06-16, Žin., 2011, Nr. 78-3793 (2011-06-30)
  
 10 straipsnis. Lietuvos Respublikos
 atstovybės prie tarptautinės organizacijos funkcijos
@@ -290,19 +288,19 @@ asmenys ne diplomatai, kurie aptarnauja Lietuvos Respublikos diplomatinę
 atstovybę ar konsulinę įstaigą.
 2. Su Lietuvos Respublikos diplomatinės atstovybės ar konsulinės
 įstaigos darbuotojais, kurie nėra valstybės tarnautojai ar kariai, Užsienio
-reikalų ministerija ar jos įgaliotos Lietuvos Respublikos diplomatinės atstovybės
-užsienio valstybėse, Lietuvos Respublikos atstovybės prie tarptautinių
-organizacijų, konsulinės įstaigos, specialiosios misijos sudaro terminuotas
-darbo sutartis.
+reikalų ministerija ar jos įgaliotos Lietuvos Respublikos diplomatinės
+atstovybės užsienio valstybėse, Lietuvos Respublikos atstovybės prie
+tarptautinių organizacijų, konsulinės įstaigos, specialiosios misijos sudaro
+terminuotas darbo sutartis.
 3. Lietuvos
 Respublikos specialiųjų atašė, tarp jų ir Lietuvos Respublikos gynybos atašė,
 skyrimą ir veiklą reglamentuoja Vyriausybės patvirtinti Lietuvos Respublikos
 specialiųjų atašė nuostatai.
 4. Specialieji patarėjai – valstybės tarnautojai, laikinai perkelti
-dirbti į Lietuvos Respublikos atstovybę prie tarptautinės organizacijos, padedantys
-įgyvendinti Lietuvos Respublikos užsienio politiką daugiašalių santykių
-srityje. Kiekvienos atskiros srities specialiųjų patarėjų skyrimo tvarką, jų
-darbo užsienyje ypatumus ir sąlygas nustato Vyriausybė.
+dirbti į Lietuvos Respublikos atstovybę prie tarptautinės organizacijos,
+padedantys įgyvendinti Lietuvos Respublikos užsienio politiką daugiašalių
+santykių srityje. Kiekvienos atskiros srities specialiųjų patarėjų skyrimo
+tvarką, jų darbo užsienyje ypatumus ir sąlygas nustato Vyriausybė.
 Straipsnio
 pakeitimai:
 Nr.
@@ -321,12 +319,12 @@ nariai, akredituoti toje valstybėje, naudojasi privilegijomis ir imunitetais,
 numatytais 1961 m. Vienos konvencijoje dėl diplomatinių santykių, taip pat
 Lietuvos Respublikos ir valstybės, kurioje yra Lietuvos Respublikos diplomatinė
 atstovybė, susitarimuose.
-2. Vyriausybė, atsižvelgdama į konkrečias
-aplinkybes, gali vienašališkai aiškiai išreikšta forma atsisakyti tam tikram
-laikui imunitetų valstybės, kurioje yra Lietuvos Respublikos diplomatinė
-atstovybė, jurisdikcijos atžvilgiu arba pagal susitarimą su šia valstybe
-suteikti didesnius imunitetus ir daugiau privilegijų, negu numatyta 1961 m.
-Vienos konvencijoje dėl diplomatinių santykių.
+2. Vyriausybė, atsižvelgdama į
+konkrečias aplinkybes, gali vienašališkai aiškiai išreikšta forma atsisakyti
+tam tikram laikui imunitetų valstybės, kurioje yra Lietuvos Respublikos
+diplomatinė atstovybė, jurisdikcijos atžvilgiu arba pagal susitarimą su šia
+valstybe suteikti didesnius imunitetus ir daugiau privilegijų, negu numatyta
+1961 m. Vienos konvencijoje dėl diplomatinių santykių.
  
 16 straipsnis. Lietuvos Respublikos
 atstovybės prie tarptautinės organizacijos personalo 
@@ -363,20 +361,11 @@ PRIĖMIMAS
 18 straipsnis. Reikalavimai asmeniui,
 priimamam į Lietuvos Respublikos diplomatinę 
 tarnybą
-1 dalies
-redakcija iki 2010 m. rugsėjo 1 d.:
-1. Asmenys, išskyrus Lietuvos
-Respublikos diplomatinius atstovus bei asmenis, nurodytus šio įstatymo 23
-straipsnio 2, 3 ir 4 dalyse, į Lietuvos Respublikos diplomatinę tarnybą
-priimami konkurso būdu. Konkurso nuostatus tvirtina užsienio reikalų ministras.
-1 dalies
-redakcija nuo 2010 m. rugsėjo 1 d.:
 1. Asmenys, išskyrus Lietuvos
 Respublikos diplomatinius atstovus bei asmenis, nurodytus šio įstatymo 23
 straipsnio 2, 3, 4 ir 5 dalyse, į Lietuvos Respublikos diplomatinę
 tarnybą priimami konkurso būdu. Konkurso nuostatus tvirtina užsienio reikalų
 ministras.
- 
 2. Diplomatu gali tapti tik
 nepriekaištingos reputacijos ir tinkamos sveikatos Lietuvos Respublikos
 pilietis, mokantis ne mažiau kaip dvi užsienio kalbas, turintis leidimą dirbti
@@ -415,18 +404,18 @@ tvarka nusprendžia asmenį priimti į Lietuvos Respublikos diplomatinę
 tarnybą ir suteikti diplomatinį rangą arba raštu praneša, kad atsisakoma
 priimti jį į Lietuvos Respublikos diplomatinę tarnybą.
 4. Priimant asmenį į Lietuvos
-Respublikos diplomatinę tarnybą arba atsisakius jį priimti į Lietuvos
-Respublikos diplomatinę tarnybą, šio straipsnio 1 dalyje nurodyta terminuota 1
-metų darbo sutartis dėl darbo Užsienio reikalų ministerijoje nutraukiama pagal
-Lietuvos Respublikos darbo kodekso 126 straipsnio 1 dalį.
+Respublikos diplomatinę tarnybą arba atsisakius jį priimti į Lietuvos Respublikos
+diplomatinę tarnybą, šio straipsnio 1 dalyje nurodyta terminuota 1 metų darbo
+sutartis dėl darbo Užsienio reikalų ministerijoje nutraukiama pagal Lietuvos
+Respublikos darbo kodekso 126 straipsnio 1 dalį.
 Straipsnio
 pakeitimai:
 Nr.
 IX-1906, 2003-12-16,
 Žin., 2003, Nr. 123-5581 (2003-12-30)
  
-20 straipsnis.
-Darbo Lietuvos Respublikos diplomatinėje tarnyboje pradžia
+20
+straipsnis. Darbo Lietuvos Respublikos diplomatinėje tarnyboje pradžia
 1. Asmuo tampa diplomatu ir
 pradeda darbą Lietuvos Respublikos diplomatinėje tarnyboje, kai:
 1) pasibaigus parengiamajam
@@ -434,8 +423,8 @@ laikotarpiui, gauna pirmą diplomatinį rangą šio įstatymo 42 straipsnyje ir 
 straipsnio 1 dalyje nustatyta tvarka; ir
 2) prisiekia šio įstatymo 21
 straipsnyje nustatyta tvarka; ir
-3) sudaro diplomato tarnybos
-sutartį šio įstatymo 22 straipsnyje nustatyta tvarka.
+3) sudaro diplomato tarnybos sutartį
+šio įstatymo 22 straipsnyje nustatyta tvarka.
 2. Asmuo tampa diplomatu ir
 pradeda laikiną darbą Lietuvos Respublikos diplomatinėje tarnyboje, kai:
 1) gauna diplomatinį rangą šio
@@ -447,19 +436,17 @@ tarnybos sutartį šio įstatymo 23 straipsnyje nustatyta tvarka.
  
 21
 straipsnis. Diplomato priesaika
-1. Asmuo, gavęs pirmą diplomatinį rangą, prisiekia Lietuvos
-Respublikai. Prisiekiantis asmuo turi teisę pasirinkti vieną iš šių priesaikos
-tekstų:
+1. Asmuo, gavęs pirmą diplomatinį rangą, prisiekia Lietuvos Respublikai.
+Prisiekiantis asmuo turi teisę pasirinkti vieną iš šių priesaikos tekstų:
 1) „Aš, (vardas, pavardė), 
 prisiekiu ištikimai dirbti Lietuvos Respublikai, gerbti ir vykdyti
-jos Konstituciją ir įstatymus, sąžiningai vykdyti diplomato pareigas, saugoti
-valstybės ir tarnybos paslaptis. 
+jos Konstituciją ir įstatymus, sąžiningai vykdyti diplomato pareigas, saugoti valstybės
+ir tarnybos paslaptis. 
 Tepadeda man Dievas.“;
 2) „Aš, (vardas, pavardė), 
 prisiekiu ištikimai
 dirbti Lietuvos Respublikai, gerbti ir vykdyti jos Konstituciją ir įstatymus,
-sąžiningai vykdyti diplomato pareigas, saugoti valstybės ir tarnybos
-paslaptis.“
+sąžiningai vykdyti diplomato pareigas, saugoti valstybės ir tarnybos paslaptis.“
 2. (Neteko galios nuo 2005 m.
 gruodžio 8 d.)
 3. Prisiekiama Užsienio reikalų
@@ -497,11 +484,11 @@ užmokestį, išskyrus šio straipsnio 3 dalyje nurodytiems asmenims.
 diplomatiniu atstovu ir iki paskyrimo nesudariusiu su Užsienio reikalų
 ministerija diplomato tarnybos sutarties, su asmeniu, užsienio reikalų ministro
 skiriamu užsienio reikalų viceministru, bei su asmeniu, užsienio reikalų
-ministro skiriamu dirbti Lietuvos Respublikos diplomatinėje atstovybėje
-Lietuvos Respublikos laikinuoju reikalų patikėtiniu, konsulinės įstaigos vadovu
-ar ministru patarėju, jeigu jie iki šio paskyrimo dienos nėra sudarę su
-Užsienio reikalų ministerija diplomato tarnybos sutarties, sudaroma terminuota
-diplomato tarnybos sutartis.
+ministro skiriamu dirbti Lietuvos Respublikos diplomatinėje atstovybėje Lietuvos
+Respublikos laikinuoju reikalų patikėtiniu, konsulinės įstaigos vadovu ar
+ministru patarėju, jeigu jie iki šio paskyrimo dienos nėra sudarę su Užsienio
+reikalų ministerija diplomato tarnybos sutarties, sudaroma terminuota diplomato
+tarnybos sutartis.
 3. Jeigu
 Respublikos Prezidentas, Seimo Pirmininkas ar Ministras Pirmininkas siūlo
 priimti į Lietuvos Respublikos diplomatinę tarnybą asmenį, kuris dirba užsienio
@@ -518,23 +505,6 @@ kuriam pavedama atlikti funkcijas, susijusias su Šengeno acquis
 reikalavimų įgyvendinimu, gali būti sudaroma terminuota diplomato tarnybos
 sutartis. Terminuota diplomato tarnybos sutartis su šioje dalyje nurodytu
 asmeniu sudaroma vieniems metams.
- 
-5 ir 6 dalių
-redakcija iki 2010 m. rugsėjo 1 d.:
-5. Asmeniui, su kuriuo sudaryta
-terminuota diplomato tarnybos sutartis, nuo sutarties sudarymo dienos yra
-taikomos šiame įstatyme nurodytos diplomatui privalomos nuostatos, išskyrus
-rotacijos taisyklių laikymąsi ir kitus ypatumus, privalomus tik pagal diplomato
-tarnybos sutartį dirbantiems diplomatams. 
-6. Pasibaigus terminuotos
-diplomato tarnybos sutarties su šio straipsnio 2 ir 3 dalyse nurodytu
-asmeniu terminui, jeigu šis asmuo pageidauja, užsienio reikalų ministras,
-atsižvelgdamas į Atestacijos komisijos rekomendacijas, šio įstatymo nustatyta
-tvarka su juo gali sudaryti diplomato tarnybos sutartį ir skirti į jo
-diplomatinį rangą atitinkančias pareigas. 
-Straipsnis
-papildomas nauja 5 dalimi, buvusios 5 ir 6 dalys laikomos atitinkamai 6 ir 7
-dalimis nuo 2010 m. rugsėjo 1 d.:
 5. Su asmeniu, kuris priimamas į
 laikinai negalinčio eiti pareigų diplomato pareigas (žemesnes negu padalinio
 vadovo ar jo pavaduotojo), sudaroma terminuota diplomato tarnybos sutartis.
@@ -565,44 +535,8 @@ V SKYRIUS
 DIPLOMATO
 IR DIPLOMATO ŠEIMOS NARIŲ TEISINĖ PADĖTIS
  
-24 straipsnio
-redakcija iki 2010 m. rugsėjo 1 d.:
-24
-straipsnis. Darbas pagal diplomato tarnybos sutartį
-1. Diplomatų darbui taikomas
-rotacijos principas: priimtas į Lietuvos Respublikos diplomatinę tarnybą
-diplomatas Užsienio reikalų ministerijoje paprastai dirba 3 metus (į šį
-laikotarpį įskaičiuojamas parengiamasis laikotarpis); vėliau diplomatas
-paprastai 3 metams užsienio reikalų ministro įsakymu paskiriamas dirbti į
-Lietuvos Respublikos diplomatinę atstovybę ar konsulinę įstaigą, iš kurios
-užsienio reikalų ministro įsakymu grąžintas į Užsienio reikalų ministeriją (ar
-paskirtas dirbti į Lietuvos Respublikos diplomatinę atstovybę ar konsulinę
-įstaigą kitoje užsienio valstybėje) joje vėl paprastai dirba 3 metus iki kito
-paskyrimo. Ši rotacijos taisyklė netaikoma Lietuvos Respublikos diplomatiniams
-atstovams.
-2. Užsienio reikalų ministras
-įsakymu gali priimtą į Lietuvos Respublikos diplomatinę tarnybą diplomatą
-paskirti dirbti Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje
-įstaigoje, nors jis ir nėra išdirbęs šio straipsnio 1 dalyje nustatyto
-laikotarpio Užsienio reikalų ministerijoje, arba bet kurį diplomatą paskirti
-dirbti Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje,
-arba grąžinti iš jos į Užsienio reikalų ministeriją (ar paskirti dirbti į
-Lietuvos Respublikos diplomatinę atstovybę ar konsulinę įstaigą kitoje užsienio
-valstybėje) anksčiau arba vėliau, nei sueina 3 metai.
-3.
-Užsienio reikalų ministro įsakymu diplomatas, jeigu neprieštarauja, gali būti
-laikinai perkeltas iš Užsienio reikalų ministerijos į Respublikos Prezidento
-kanceliariją, Seimo kanceliariją, Ministro Pirmininko tarnybą, ministeriją ar
-kitą valstybės instituciją ar įstaigą. Dėl tokio perkėlimo nenutrūksta
-diplomato tarnybos sutartis, jam paliekamas turėtas diplomatinis rangas. Šiuo
-atveju priedas už diplomatinį rangą mokamas iš Užsienio reikalų ministerijos
-biudžeto.
-24 straipsnio
-redakcija nuo 2010 m. rugsėjo 1 d., straipsnio nuostatos, susijusios su
-diplomato laikinu perkėlimu į kitą valstybės instituciją ar įstaigą, įsigalioja
-nuo 2010 m. birželio 19 d.:
-24 straipsnis.
-Darbas pagal diplomato tarnybos sutartį
+24 straipsnis. Darbas pagal diplomato tarnybos
+sutartį
 1. Diplomatų darbui, išskyrus
 Lietuvos Respublikos diplomatinius
 atstovus, taikomi tokie rotacijos principai:
@@ -648,10 +582,10 @@ kitas pareigas diplomatas gali būti perkeltas iki 2 metų. Esant tarnybinei
 būtinybei, šis terminas gali būti pratęstas iki 1 metų ir bendras laikino
 perkėlimo laikas negali viršyti 3 metų. Perkėlimo laikas įskaitomas į
 diplomatinės tarnybos stažą. Laikinai perkeltam diplomatui paliekamas iki
-perkėlimo turėtas diplomatinis rangas. Perkėlimo laikotarpiu valstybės institucija
-ar įstaiga, į kurią diplomatas perkeltas, diplomatui moka darbo užmokestį,
-susidedantį iš pareiginės algos, nustatytos pareigybei, kurią jis ėjo iki
-perkėlimo, kai diplomatas perkeliamas į kitas tos pačios ar žemesnės
+perkėlimo turėtas diplomatinis rangas. Perkėlimo laikotarpiu valstybės
+institucija ar įstaiga, į kurią diplomatas perkeltas, diplomatui moka darbo
+užmokestį, susidedantį iš pareiginės algos, nustatytos pareigybei, kurią jis
+ėjo iki perkėlimo, kai diplomatas perkeliamas į kitas tos pačios ar žemesnės
 kategorijos pareigas, ir priedų, kurie jam buvo mokami iki perkėlimo, arba
 pareiginės algos, nustatytos pareigybei, į kurią jis perkeliamas, kai
 diplomatas perkeliamas į kitas aukštesnės kategorijos pareigas, ir priedų,
@@ -722,29 +656,20 @@ Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje kitoje užsie
 valstybėje dienos, bet ne ilgiau kaip 1 mėnesį, jam mokama tokio pat
 dydžio pareiginė alga, kokia buvo mokama iki atšaukimo dienos, bei priedas už
 diplomatinį rangą.
- 
-3 dalies
-redakcija iki 2010 m. rugsėjo 1 d.:
-3. Paskyrimas dirbti Lietuvos
-Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje ar grąžinimas į
-darbą Užsienio reikalų ministerijoje įforminamas užsienio reikalų ministro
-įsakymu. Diplomato tarnybos sutartyje padaromi įrašai apie sutarties pakeitimą.
-3 dalies
-redakcija nuo 2010 m. rugsėjo 1 d.:
 3.
 Paskyrimas dirbti Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje
 įstaigoje ar grąžinimas į darbą Užsienio reikalų ministerijoje įforminamas
 užsienio reikalų ministro įsakymu.
 Straipsnio
 pakeitimai:
-Nr. XI-870,
-2010-06-03, Žin., 2010, Nr. 71-3548 (2010-06-19)
+Nr. XI-870, 2010-06-03,
+Žin., 2010, Nr. 71-3548 (2010-06-19)
  
 26
 straipsnis. Darbas pagal terminuotą diplomato tarnybos sutartį
-1. Terminuotoje diplomato tarnybos
-sutartyje nurodomos pareigos, į kurias diplomatas yra skiriamas, taip pat
-nurodoma, kad sutartis pasibaigia diplomatą atšaukus šio įstatymo nustatyta
+1. Terminuotoje diplomato
+tarnybos sutartyje nurodomos pareigos, į kurias diplomatas yra skiriamas, taip
+pat nurodoma, kad sutartis pasibaigia diplomatą atšaukus šio įstatymo nustatyta
 tvarka arba pasibaigus sutarties terminui.
 2. Užsienio reikalų ministras
 turi teisę šio įstatymo 58 straipsnyje numatytais pagrindais nutraukti
@@ -766,8 +691,8 @@ nėra galimybės grąžinti į tas pačias pareigas, diplomatas per šioje dalyj
 nustatytą terminą turi teisę grįžti į kitas pareigas, apmokamas ne mažiau nei
 iki terminuotos diplomato sutarties sudarymo, toje pačioje valstybės ar
 savivaldybės institucijoje ar įstaigoje arba kitoje valstybės ar savivaldybės
-biudžetų finansuojamoje įstaigoje ar organizacijoje, kurioje dirbo iki
-terminuotos diplomato sutarties sudarymo.
+biudžetų finansuojamoje įstaigoje ar organizacijoje, kurioje dirbo iki terminuotos
+diplomato sutarties sudarymo.
 4. Jei terminuotai diplomato
 tarnybos sutarčiai pasibaigus asmenį Respublikos Prezidentas vėl skiria
 Lietuvos Respublikos diplomatiniu atstovu arba užsienio reikalų ministras
@@ -781,24 +706,6 @@ Nr. IX-2520, 2004-11-02,
 Žin., 2004, Nr. 170-6236 (2004-11-25)
  
 27 straipsnis. Šeimos nariai
-1 dalies
-redakcija iki 2010 m. rugsėjo 1 d.:
-1. Lietuvos Respublikos
-diplomatinėje atstovybėje ar konsulinėje įstaigoje dirbančio diplomato šeimos
-nariai yra jo sutuoktinis, nepilnamečiai vaikai (įvaikiai), jei jie nėra
-įstatymų nustatyta tvarka emancipuoti ar sudarę santuokos, arba pilnamečiai
-vaikai iki 20 metų, jei jie su diplomatu turi bendrą ūkį, nėra sudarę santuokos
-ir dar nėra įgiję vidurinio išsilavinimo, ir išlaikytiniai (nesvarbu, koks jų
-amžius), gyvenantys kartu su diplomatu.  Išlaikytiniais laikomi kartu su
-diplomatu gyvenantys nedarbingi dėl amžiaus ar neįgalumo asmenys, kurie buvo
-diplomato išlaikomi iki darbo Lietuvos Respublikos diplomatinėje atstovybėje ar
-konsulinėje įstaigoje pradžios, taip pat pripažįstami išlaikytiniais ir tapę
-nedarbingi po to, kai diplomatas pradėjo dirbti Lietuvos Respublikos
-diplomatinėje atstovybėje ar konsulinėje įstaigoje, kartu su diplomatu
-gyvenantys pilnamečiai vaikai, kurie tapo nedarbingi dėl neįgalumo, ir tėvai,
-kurie tapo nedarbingi dėl amžiaus ar neįgalumo.
-1 dalies
-redakcija nuo 2010 m. rugsėjo 1 d.:
 1. Lietuvos Respublikos
 diplomatinėje atstovybėje ar konsulinėje įstaigoje dirbančio diplomato šeimos
 nariai yra kartu gyvenantys: 
@@ -878,17 +785,15 @@ pakeitimai:
 Nr. IX-2520, 2004-11-02,
 Žin., 2004, Nr. 170-6236 (2004-11-25)
  
-Įstatymas
-papildomas 281 straipsniu nuo 2010 m. rugsėjo 1 d.:
 281 straipsnis. Diplomato
 sutuoktinio diplomato teisė atkurti diplomato statusą
 1. Diplomato sutuoktinis
-diplomatas, nutraukęs diplomato tarnybos sutartį pagal šio įstatymo 58
-straipsnio 6 dalį dėl to, kad išvyko kartu su sutuoktiniu diplomatu, paskirtu
-dirbti į Lietuvos Respublikos diplomatinę atstovybę ar konsulinę įstaigą arba
-perkeltu į pareigas tarptautinėje ir Europos Sąjungos institucijoje ar užsienio
-valstybės institucijoje, teisės aktų nustatyta tvarka turi teisę atkurti
-diplomato statusą – grįžti į eitas arba, jeigu nėra galimybės, kitas tos pačios
+diplomatas, nutraukęs diplomato tarnybos sutartį pagal šio įstatymo 58 straipsnio
+6 dalį dėl to, kad išvyko kartu su sutuoktiniu diplomatu, paskirtu dirbti į
+Lietuvos Respublikos diplomatinę atstovybę ar konsulinę įstaigą arba perkeltu į
+pareigas tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės
+institucijoje, teisės aktų nustatyta tvarka turi teisę atkurti diplomato
+statusą – grįžti į eitas arba, jeigu nėra galimybės, kitas tos pačios
 kategorijos pareigas Užsienio reikalų ministerijoje. Su šiuo asmeniu sudaroma
 diplomato tarnybos sutartis, užsienio reikalų ministro įsakymu jam grąžinamas
 iki diplomato tarnybos sutarties nutraukimo turėtas diplomatinis rangas. 
@@ -906,26 +811,10 @@ papildytas straipsniu:
 Nr. XI-870,
 2010-06-03, Žin., 2010, Nr. 71-3548 (2010-06-19)
  
-Straipsnio
-pavadinimo redakcija iki 2010 m. rugsėjo 1 d.:
-29
-straipsnis. Draudimas dirbti kitą darbą ir streikuoti
-Straipsnio
-pavadinimo redakcija nuo 2010 m. rugsėjo 1 d.:
-29
-straipsnis. Draudimai diplomatui
- 
-1 dalies
-redakcija iki 2010 m. rugsėjo 1 d.:
-1.
-Diplomatui draudžiama užsiimti su valstybės tarnautojo pareigomis nesuderinama
-veikla.
-1 dalies
-redakcija nuo 2010 m. rugsėjo 1 d.:
+29 straipsnis. Draudimai diplomatui
 1. Diplomatui pagal Lietuvos
 Respublikos valstybės tarnybos įstatymą draudžiama užsiimti su valstybės
 tarnautojo pareigomis nesuderinama veikla.
- 
 2.
 Diplomatui taip pat draudžiama:
 1) streikuoti;
@@ -979,18 +868,6 @@ Nr. IX-2520, 2004-11-02,
  
 32
 straipsnis. Paskyrimo Lietuvos Respublikos diplomatiniu atstovu terminas
-1 dalies
-redakcija iki 2010 m. rugsėjo 1 d.:
-1. Lietuvos Respublikos
-diplomatiniai atstovai skiriami neapibrėžtam laikui. Jei pagal šio įstatymo 23
-straipsnio nuostatas su skiriamu Lietuvos Respublikos diplomatiniu atstovu
-sudaroma terminuota diplomato tarnybos sutartis, ji pasibaigia Respublikos
-Prezidentui išleidus dekretą dėl diplomatinio atstovo atšaukimo. Jei Lietuvos
-Respublikos diplomatiniu atstovu skiriamas asmuo, su kuriuo yra sudaryta
-diplomato tarnybos sutartis, nauja sutartis nesudaroma ir jokių papildomų įrašų
-sutartyje nedaroma.
-1 dalies
-redakcija nuo 2010 m. rugsėjo 1 d.:
 1. Lietuvos Respublikos
 diplomatiniai atstovai dirbti į Lietuvos Respublikos diplomatinę atstovybę
 skiriami ne ilgesniam kaip 5 metų laikotarpiui. Šio įstatymo 36 straipsnyje
@@ -1008,7 +885,6 @@ sutartis, ji pasibaigia Respublikos Prezidentui išleidus dekretą dėl
 diplomatinio atstovo atšaukimo. Jeigu Lietuvos Respublikos diplomatiniu atstovu
 skiriamas asmuo, su kuriuo yra sudaryta diplomato tarnybos sutartis, nauja
 sutartis nesudaroma.
- 
 2. Kai Lietuvos Respublikos
 diplomatinis atstovas išdirba daugiau kaip 3 metus, Vyriausybė gali siūlyti
 Respublikos Prezidentui jį atšaukti. Išimties atveju Vyriausybė gali siūlyti
@@ -1042,8 +918,8 @@ tarptautinėje organizacijoje nustatyta tvarka.
  
 35 straipsnis. Lietuvos Respublikos
 diplomatinio atstovo funkcijų vykdymo pabaiga
-1. Lietuvos Respublikos
-diplomatinio atstovo funkcijos baigiasi:
+1. Lietuvos Respublikos diplomatinio
+atstovo funkcijos baigiasi:
 1) jį atšaukus šio įstatymo 36
 straipsnio 1 dalyje nustatyta tvarka;
 2) jam atsistatydinus;
@@ -1058,17 +934,6 @@ diplomatinio atstovo funkcijos laikinai sustabdomos jį laikinai atšaukiant ši
  
 36
 straipsnis. Lietuvos Respublikos diplomatinio atstovo atšaukimas
- 
-1 dalies
-redakcija iki 2010 m. rugsėjo 1 d.:
-1. Lietuvos Respublikos
-diplomatinį atstovą Vyriausybės teikimu atšaukia Respublikos Prezidentas
-dekretu, kurį taip pat pasirašo Ministras Pirmininkas. Užsienio valstybė ar
-tarptautinė organizacija, kurioje Lietuvos Respublikai atstovavo atšaukiamasis
-Lietuvos Respublikos diplomatinis atstovas, apie atšaukimą informuojama toje
-valstybėje ar tarptautinėje organizacijoje nustatyta tvarka.
-1 dalies
-redakcija nuo 2010 m. rugsėjo 1 d.:
 1. Iš
 anksto apsvarsčius Lietuvos Respublikos diplomatinio atstovo atšaukimo klausimą
 Seimo Užsienio reikalų komitete, Lietuvos Respublikos diplomatinį
@@ -1077,7 +942,6 @@ kurį taip pat pasirašo Ministras Pirmininkas. Užsienio valstybė ar tarptauti
 organizacija, kurioje Lietuvos Respublikai atstovavo atšaukiamasis Lietuvos
 Respublikos diplomatinis atstovas, apie atšaukimą informuojama toje valstybėje
 ar tarptautinėje organizacijoje nustatyta tvarka.
- 
 2. Lietuvos Respublikos
 diplomatinio atstovo, su kuriuo yra sudaryta diplomato tarnybos sutartis,
 atšaukimas yra prilyginamas diplomato grąžinimui į Užsienio reikalų ministeriją
@@ -1090,9 +954,9 @@ atvejais Lietuvos Respublikos diplomatiniam atstovui užsienio reikalų ministro
 įsakymu gali būti laikinai pavesta Užsienio reikalų ministerijoje atlikti kitas
 funkcijas. Dėl tokio laikino pavedimo diplomato tarnybos sutartis ar terminuota
 diplomato tarnybos sutartis nenutraukiama ir Lietuvos Respublikos diplomatiniam
-atstovui toliau mokamas darbo užmokestis. Laikinas pavedimas Lietuvos
-Respublikos diplomatiniam atstovui atlikti kitas funkcijas nutraukiamas
-užsienio reikalų ministro įsakymu.
+atstovui toliau mokamas darbo užmokestis. Laikinas pavedimas Lietuvos Respublikos
+diplomatiniam atstovui atlikti kitas funkcijas nutraukiamas užsienio reikalų
+ministro įsakymu.
 Straipsnio
 pakeitimai:
 Nr. IX-2520, 2004-11-02,
@@ -1124,8 +988,8 @@ Lietuvos Respublikos laikinasis
 reikalų patikėtinis atstovauja Lietuvos Respublikai užsienio valstybėje ar
 tarptautinėje organizacijoje ir vadovauja Lietuvos Respublikos diplomatinei
 atstovybei. Vadovaudamas Lietuvos Respublikos diplomatinei atstovybei, Lietuvos
-Respublikos laikinasis reikalų patikėtinis turi tokias pat teises ir pareigas kaip
-ir Lietuvos Respublikos diplomatinis atstovas.
+Respublikos laikinasis reikalų patikėtinis turi tokias pat teises ir pareigas
+kaip ir Lietuvos Respublikos diplomatinis atstovas.
  
 39 straipsnis. Lietuvos Respublikos
 laikinojo reikalų patikėtinio funkcijų vykdymo 
@@ -1162,10 +1026,10 @@ laikinojo reikalų patikėtinio funkcijos pasibaigia ir tada, kai Lietuvos
 Respublikos diplomatinis atstovas vėl pradeda eiti pareigas.
 2. Apie Lietuvos Respublikos
 laikinojo reikalų patikėtinio atšaukimą ir apie tai, kad Lietuvos Respublikos
-diplomatinis atstovas vėl pradėjo eiti pareigas, valstybė ar tarptautinė
-organizacija, kurioje Lietuvos Respublikos laikinasis reikalų patikėtinis
-atstovavo Lietuvos Respublikai, informuojama toje valstybėje ar tarptautinėje
-organizacijoje nustatyta tvarka.
+diplomatinis atstovas vėl pradėjo eiti pareigas, valstybė ar tarptautinė organizacija,
+kurioje Lietuvos Respublikos laikinasis reikalų patikėtinis atstovavo Lietuvos
+Respublikai, informuojama toje valstybėje ar tarptautinėje organizacijoje
+nustatyta tvarka.
  
 VIII SKYRIUS
 DIPLOMATINIAI
@@ -1188,11 +1052,11 @@ nepaprastasis pasiuntinys ir įgaliotasis ministras;
  
 42
 straipsnis. Diplomatinių rangų suteikimo tvarka
-1. Lietuvos Respublikos nepaprastojo
-ir įgaliotojo ambasadoriaus, Lietuvos Respublikos nepaprastojo pasiuntinio ir
-įgaliotojo ministro rangus užsienio reikalų ministro teikimu suteikia
-Respublikos Prezidentas dekretu, kurį taip pat pasirašo užsienio reikalų
-ministras. Šie diplomatiniai rangai suteikiami iki gyvos galvos.
+1. Lietuvos Respublikos
+nepaprastojo ir įgaliotojo ambasadoriaus, Lietuvos Respublikos nepaprastojo
+pasiuntinio ir įgaliotojo ministro rangus užsienio reikalų ministro teikimu
+suteikia Respublikos Prezidentas dekretu, kurį taip pat pasirašo užsienio
+reikalų ministras. Šie diplomatiniai rangai suteikiami iki gyvos galvos.
 2. Ministro patarėjo, patarėjo,
 pirmojo sekretoriaus, antrojo sekretoriaus, trečiojo sekretoriaus ir atašė
 rangus suteikia užsienio reikalų ministras įsakymu.
@@ -1205,30 +1069,21 @@ pasiuntinio ir įgaliotojo ministro rangus.
  
 43
 straipsnis. Diplomatinių rangų teikimo eilė
- 
-1 dalies
-redakcija iki 2010 m. rugsėjo 1 d.:
-1. Pirmasis diplomatinis rangas suteikiamas asmeniui, sėkmingai
-išdirbusiam parengiamąjį laikotarpį. Aukštesnis nei turėtas diplomatinis rangas
-paprastai suteikiamas po 4 metų, jei diplomatas neturi tarnybinių nuobaudų.
-1 dalies
-redakcija nuo 2010 m. rugsėjo 1 d.:
 1. Pirmasis diplomatinis rangas suteikiamas asmeniui, sėkmingai
 išdirbusiam parengiamąjį laikotarpį. Aukštesnis negu turėtas diplomatinis
 rangas paprastai suteikiamas po 4 metų, jeigu diplomatas neturi tarnybinių
 nuobaudų. Ši rangų teikimo tvarka taikoma ir diplomatams, laikinai perkeltiems
 dirbti į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybės
 institucijas.
- 
 2. Už ypač iniciatyvų, atsakingą
 ar sėkmingą darbą diplomatiniai rangai gali būti suteikiami ir nepraėjus šio
 straipsnio 1 dalyje nurodytam laikui.
 3. Asmeniui, skiriamam Lietuvos
 Respublikos diplomatiniu atstovu, taip pat asmeniui, su kuriuo sudaroma
 terminuota diplomato tarnybos sutartis, diplomatinis rangas suteikiamas
-neatsižvelgiant į šio straipsnio 1 ir 2 dalių nuostatas. Šiems asmenims
-diplomatinis rangas suteikiamas Atestacijos komisijos teikimu, atsižvelgus į jų
-einamas pareigas, kompetenciją ir darbo užsienio politikos srityje patirtį.
+neatsižvelgiant į šio straipsnio 1 ir 2 dalių nuostatas. Šiems asmenims diplomatinis
+rangas suteikiamas Atestacijos komisijos teikimu, atsižvelgus į jų einamas
+pareigas, kompetenciją ir darbo užsienio politikos srityje patirtį.
 Straipsnio
 pakeitimai:
 Nr. IX-2520, 2004-11-02,
@@ -1236,35 +1091,9 @@ Nr. IX-2520, 2004-11-02,
 Nr. XI-870,
 2010-06-03, Žin., 2010, Nr. 71-3548 (2010-06-19)
  
-44 straipsnio
-redakcija iki 2010 m. rugsėjo 1 d.:
-44 straipsnis. Asmens, išėjusio iš
-Lietuvos Respublikos diplomatinės tarnybos, 
-diplomatinis
-rangas
-1. Asmuo ministro patarėjo,
-patarėjo, pirmojo sekretoriaus, antrojo sekretoriaus, trečiojo sekretoriaus ar
-atašė diplomatinį rangą turi iki gyvos galvos, jeigu į pensiją išeina iš
-Lietuvos Respublikos diplomatinės tarnybos.
-2. Asmeniui, kuris iki išeidamas
-iš Lietuvos Respublikos diplomatinės tarnybos turėjo diplomatinį rangą,
-išskyrus Lietuvos Respublikos nepaprastojo ir įgaliotojo ambasadoriaus ar
-Lietuvos Respublikos nepaprastojo pasiuntinio ir įgaliotojo ministro
-diplomatinius rangus, turėtasis diplomatinis rangas gali būti grąžintas, jeigu
-per 5 metus šis asmuo sugrįžta į Lietuvos Respublikos diplomatinę tarnybą ir
-jei jis nebuvo atleistas iš Lietuvos Respublikos diplomatinės tarnybos šio
-įstatymo 58 straipsnio 1 dalyje ir 2 dalies 1, 6 ir 7 punktuose nustatytais pagrindais.
-3. Asmuo (išskyrus turintį
-Lietuvos Respublikos nepaprastojo ir įgaliotojo ambasadoriaus ar Lietuvos
-Respublikos nepaprastojo pasiuntinio ir įgaliotojo ministro diplomatinį rangą),
-dirbęs pagal terminuotą diplomato tarnybos sutartį, diplomatinio rango netenka
-terminuotai diplomato tarnybos sutarčiai pasibaigus ir šio straipsnio 2 dalies
-nuostatomis remtis negali.
-44 straipsnio
-redakcija nuo 2010 m. rugsėjo 1 d.:
-44 straipsnis. Asmens, išėjusio iš
-Lietuvos Respublikos diplomatinės tarnybos, diplomatinis rangas. Teisė atkurti
-diplomato statusą
+44 straipsnis. Asmens,
+išėjusio iš Lietuvos Respublikos diplomatinės tarnybos, diplomatinis rangas.
+Teisė atkurti diplomato statusą
 1. Asmuo ministro patarėjo,
 patarėjo, pirmojo sekretoriaus, antrojo sekretoriaus, trečiojo sekretoriaus ar
 atašė diplomatinį rangą turi iki gyvos galvos, jeigu į pensiją išeina iš
@@ -1272,13 +1101,12 @@ Lietuvos Respublikos diplomatinės tarnybos.
 2. Asmuo (išskyrus
 turintį Lietuvos Respublikos nepaprastojo ir įgaliotojo ambasadoriaus ar
 Lietuvos Respublikos nepaprastojo pasiuntinio ir įgaliotojo ministro
-diplomatinį rangą), dirbęs pagal terminuotą diplomato tarnybos sutartį,
-diplomatinio rango netenka pasibaigus terminuotai diplomato tarnybos sutarčiai.
-
+diplomatinį rangą), dirbęs pagal terminuotą diplomato tarnybos sutartį, diplomatinio
+rango netenka pasibaigus terminuotai diplomato tarnybos sutarčiai. 
 3. Diplomato statusas užsienio
 reikalų ministro nustatyta tvarka gali būti atkurtas buvusiems diplomatams
-(išskyrus dirbusius pagal terminuotas diplomato tarnybos sutartis), jeigu jie per
-5 metus nuo diplomato tarnybos sutarties nutraukimo pareiškia norą atkurti
+(išskyrus dirbusius pagal terminuotas diplomato tarnybos sutartis), jeigu jie
+per 5 metus nuo diplomato tarnybos sutarties nutraukimo pareiškia norą atkurti
 diplomato statusą ir diplomato tarnybos sutartis su jais nebuvo nutraukta šio
 įstatymo 58 straipsnio 1 dalyje ir 2 dalies 1, 5, 6, 7, 8 ir 9 punktuose
 nustatytais pagrindais.
@@ -1309,9 +1137,8 @@ Respublikos Konstitucijos 74 straipsnio nustatyta tvarka, o politinio
 (asmeninio) pasitikėjimo valstybės tarnautojo įgaliojimai nutrūko dėl jam paskirtos tarnybinės nuobaudos – atleidimo iš
 pareigų, prarastos Lietuvos Respublikos pilietybės ar įsiteisėjusio teismo
 nuosprendžio, kuriuo jam paskirta bausmė už sunkų ar labai sunkų nusikaltimą,
-nusikalstamą veiką valstybės tarnybai ir viešiesiems interesams ar korupcinio
-pobūdžio nusikalstamą veiką arba bausmė, dėl kurios jis negali eiti savo
-pareigų.
+nusikalstamą veiką valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio
+nusikalstamą veiką arba bausmė, dėl kurios jis negali eiti savo pareigų.
 Straipsnio
 pakeitimai:
 Nr. XI-870,
@@ -1328,8 +1155,8 @@ IX SKYRIUS
 DIPLOMATINIS
 PASAS
  
-46
-straipsnis. Diplomatinio paso paskirtis
+46 straipsnis.
+Diplomatinio paso paskirtis
 Lietuvos Respublikos diplomatinis
 pasas (toliau - diplomatinis pasas) - Užsienio reikalų ministerijos išduotas
 asmens dokumentas, patvirtinantis, kad jį gavęs asmuo yra Lietuvos Respublikos
@@ -1363,65 +1190,35 @@ valstybes su specialiąja misija;
 kurjeriams;
 12) specialiesiems atašė,
 specialiųjų atašė pavaduotojams;
-13) kariniam atstovui ir jo pavaduotojams;
+13) kariniam atstovui ir jo
+pavaduotojams;
 14) specialiesiems patarėjams ir
 jų pavaduotojams;
 15) Lietuvos Respublikos
 piliečiams, išrinktiems Europos Parlamento nariais;
-1 dalis
-papildoma 16 punktu nuo 2010 m. rugsėjo 1 d.:
 16) profesinės karo tarnybos
 kariams ir valstybės tarnautojams ginkluotės kontrolės inspektorių funkcijoms
 užsienio valstybėse atlikti.
- 
 2. Diplomatiniai pasai išduodami
 Respublikos Prezidento sutuoktiniui ir vaikams, Seimo Pirmininko sutuoktiniui,
 Ministro Pirmininko sutuoktiniui, užsienio reikalų ministro sutuoktiniui,
-Lietuvos Respublikos piliečių, išrinktų Europos Parlamento nariais,
-sutuoktiniams. Diplomatiniai pasai taip pat išduodami Seimo nario sutuoktiniui
-ir Lietuvos Respublikos specialiosios misijos vadovo sutuoktiniui, jei šių
-vykimą kartu su Seimo nariu ar specialiosios misijos vadovu į užsienį sąlygoja
-tarnybinės užduoties ar misijos specifika.
- 
-3 ir 4 dalių
-redakcija iki 2010 m. rugsėjo 1 d.:
-3. Diplomatiniai pasai
-Lietuvos Respublikos diplomatinėse atstovybėse ar konsulinėse įstaigose
-dirbančių diplomatų, specialiųjų
-atašė ar jų pavaduotojų, karinių atstovų ar jų pavaduotojų, specialiųjų
-patarėjų ar jų pavaduotojų
-prašymu gali būti išduodami kartu su jais gyvenantiems jų šeimos nariams,
-nurodytiems šio įstatymo 27 straipsnyje. Diplomatų, specialiųjų atašė ir jų
-pavaduotojų, karinių atstovų ir jų pavaduotojų, specialiųjų patarėjų ir jų
-pavaduotojų prašymu jų šeimos nariams, nevykstantiems į užsienio valstybę
-gyventi kartu su jais, gali būti išduodami diplomatiniai pasai kelionėms pas
-diplomatą, specialųjį atašė ar jo
-pavaduotoją, karinį atstovą ar jo pavaduotoją, specialųjį patarėją ar jo
-pavaduotoją.
-4. Diplomatinius pasus turi teisę
-turėti kadenciją baigę Respublikos Prezidentai, buvę Seimo pirmininkai,
-ministrai pirmininkai, užsienio reikalų ministrai, jei Seimo pirmininko Seimo
-nario mandatas nebuvo panaikintas apkaltos proceso tvarka ir jei ministras
-pirmininkas ir užsienio reikalų ministras nebuvo pašalinti iš pareigų apkaltos
-proceso tvarka, taip pat asmenys, turintys Respublikos Prezidento suteiktus diplomatinius
-rangus, kai jų diplomato tarnybos sutartys ar terminuotos diplomato tarnybos
-sutartys nutraukiamos remiantis šio įstatymo 58 straipsnio 1 dalies 5 punktu ar
-2 dalies 2 punktu arba kai jie atleidžiami iš valstybės tarnautojo pareigų
-remiantis Valstybės tarnybos įstatymo 44 straipsnio 1 dalies 6 ar 13 punktu.
-3 ir 4 dalių
-redakcija nuo 2010 m. rugsėjo 1 d.:
+Lietuvos Respublikos piliečių, išrinktų Europos Parlamento nariais, sutuoktiniams.
+Diplomatiniai pasai taip pat išduodami Seimo nario sutuoktiniui ir Lietuvos
+Respublikos specialiosios misijos vadovo sutuoktiniui, jei šių vykimą kartu su
+Seimo nariu ar specialiosios misijos vadovu į užsienį sąlygoja tarnybinės
+užduoties ar misijos specifika.
 3. Diplomatiniai pasai Lietuvos
-Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose dirbančių ar laikinai perkeltų į pareigas tarptautinėse
-ir Europos Sąjungos institucijose ar užsienio valstybių institucijose diplomatų,
-specialiųjų atašė ar jų pavaduotojų, karinių atstovų ar jų pavaduotojų,
-specialiųjų patarėjų ar jų pavaduotojų prašymu gali būti išduodami kartu su
-jais gyvenantiems jų šeimos nariams, nurodytiems šio įstatymo 27 straipsnyje.
-Diplomatų, specialiųjų atašė ir jų pavaduotojų, karinių atstovų ir jų
-pavaduotojų, specialiųjų patarėjų ir jų pavaduotojų prašymu jų šeimos nariams,
-nevykstantiems į užsienio valstybę gyventi kartu su jais, gali būti išduodami
-diplomatiniai pasai kelionėms pas diplomatą, specialųjį atašė ar jo
-pavaduotoją, karinį atstovą ar jo pavaduotoją, specialųjį patarėją ar jo
-pavaduotoją.
+Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose dirbančių ar laikinai perkeltų į pareigas
+tarptautinėse ir Europos Sąjungos institucijose ar užsienio valstybių
+institucijose diplomatų, specialiųjų atašė ar jų pavaduotojų, karinių
+atstovų ar jų pavaduotojų, specialiųjų patarėjų ar jų pavaduotojų prašymu gali
+būti išduodami kartu su jais gyvenantiems jų šeimos nariams, nurodytiems šio
+įstatymo 27 straipsnyje. Diplomatų, specialiųjų atašė ir jų pavaduotojų,
+karinių atstovų ir jų pavaduotojų, specialiųjų patarėjų ir jų pavaduotojų
+prašymu jų šeimos nariams, nevykstantiems į užsienio valstybę gyventi kartu su
+jais, gali būti išduodami diplomatiniai pasai kelionėms pas diplomatą,
+specialųjį atašė ar jo pavaduotoją, karinį atstovą ar jo pavaduotoją,
+specialųjį patarėją ar jo pavaduotoją.
 4. Diplomatinius pasus turi teisę
 turėti buvę Respublikos Prezidentai, Seimo pirmininkai, ministrai pirmininkai,
 užsienio reikalų ministrai, Seimo Užsienio reikalų ir Europos reikalų komitetų
@@ -1448,8 +1245,8 @@ Nr. XI-870,
  
 48
 straipsnis. Įrašai diplomatiniame pase
-1. Įrašai diplomatiniame pase turi
-atitikti Lietuvos Respublikos paso įstatymo 4 straipsnio reikalavimus.
+1. Įrašai diplomatiniame pase
+turi atitikti Lietuvos Respublikos paso įstatymo 4 straipsnio reikalavimus.
 2. Diplomatiniame pase taip pat
 nurodoma:
 1) paso savininko pareigos ir
@@ -1478,8 +1275,8 @@ diplomatinio paso pavyzdį tvirtina Vyriausybė.
 2. Lietuvos Respublikos
 diplomatinis pasas išduodamas nemokamai.
  
-50 straipsnis.
-Diplomatinių pasų grąžinimas
+50
+straipsnis. Diplomatinių pasų grąžinimas
 1. Diplomatinius pasus per 7
 dienas Užsienio reikalų ministerijai privalo grąžinti:
 1) asmenys, baigę eiti 47
@@ -1495,26 +1292,6 @@ užduotį vykdančiu specialiosios misijos vadovu;
 kuriam diplomatinis pasas buvo išduotas pagal šio įstatymo 47 straipsnį, grįžęs
 į Lietuvos Respubliką iš užsienio valstybės, kurioje buvo su tarnybinę užduotį
 atliekančiu Seimo nariu;
- 
-5 punkto
-redakcija iki 2010 m. rugsėjo 1 d.:
-5) šio įstatymo 27
-straipsnyje nurodyti diplomatų, specialiųjų
-atašė ar jų pavaduotojų, karinių atstovų ar jų pavaduotojų, specialiųjų
-patarėjų ar jų pavaduotojų šeimos
-nariai, kai diplomatai, specialieji
-atašė ar jų pavaduotojai, kariniai atstovai ar jų pavaduotojai, specialieji
-patarėjai ar jų pavaduotojai
-grįžta į Lietuvos Respubliką baigę darbą Lietuvos Respublikos diplomatinėse
-atstovybėse, konsulinėse įstaigose ar Lietuvos Respublikos diplomatinėje
-tarnyboje, taip pat grįžę iš kelionės diplomatų, specialiųjų atašė ar jų pavaduotojų, karinių atstovų
-ar jų pavaduotojų, specialiųjų patarėjų ar jų pavaduotojų šeimos nariai, jei diplomatinis pasas diplomato, specialiojo atašė ar jo pavaduotojo, karinio
-atstovo ar jo pavaduotojo, specialiojo patarėjo ar jo pavaduotojo prašymu jiems buvo išduotas kelionėms pas
-diplomatą, specialųjį atašė ar jo
-pavaduotoją, karinį atstovą ar jo pavaduotoją, specialųjį patarėją ar jo
-pavaduotoją;
-5 punkto
-redakcija nuo 2010 m. rugsėjo 1 d.:
 5) šio įstatymo 27 straipsnyje nurodyti diplomatų, specialiųjų atašė ar
 jų pavaduotojų, karinių atstovų ar jų pavaduotojų, specialiųjų patarėjų ar jų
 pavaduotojų šeimos nariai, kai diplomatai, specialieji atašė ar jų
@@ -1522,15 +1299,14 @@ pavaduotojai, kariniai atstovai ar jų pavaduotojai, specialieji patarėjai ar j
 pavaduotojai  grįžta į Lietuvos Respubliką baigę darbą Lietuvos Respublikos
 diplomatinėse atstovybėse, konsulinėse įstaigose, Lietuvos Respublikos
 diplomatinėje tarnyboje arba pasibaigus diplomatų laikino
-perkėlimo į pareigas tarptautinėse ir Europos Sąjungos institucijose ar
-užsienio valstybių institucijose laikui, taip pat grįžę iš kelionės
-diplomatų, specialiųjų atašė ar jų pavaduotojų, karinių atstovų ar jų pavaduotojų,
+perkėlimo į pareigas tarptautinėse ir Europos Sąjungos institucijose ar užsienio
+valstybių institucijose laikui, taip pat grįžę iš kelionės diplomatų,
+specialiųjų atašė ar jų pavaduotojų, karinių atstovų ar jų pavaduotojų,
 specialiųjų patarėjų ar jų pavaduotojų šeimos nariai, jeigu diplomatinis pasas
 diplomato, specialiojo atašė ar jo pavaduotojo, karinio atstovo ar jo
 pavaduotojo, specialiojo patarėjo ar jo pavaduotojo prašymu jiems buvo išduotas
 kelionėms pas diplomatą, specialųjį atašė ar jo pavaduotoją, karinį atstovą ar
 jo pavaduotoją, specialųjį patarėją ar jo pavaduotoją;
- 
 6) šio įstatymo 47 straipsnio 1
 dalyje nurodytų asmenų sutuoktiniai, kuriems diplomatiniai pasai išduodami
 pagal šio įstatymo 47 straipsnį, jeigu nutraukiama santuoka;
@@ -1651,28 +1427,6 @@ gyvena sutuoktinis, diplomatui kartu su pareigine alga mokama kompensacija,
 kurią sudaro 0,5 per mėnesį diplomato gaunamos su darbu užsienyje susijusių
 išlaidų kompensacijos. Sutuoktiniui, gaunančiam pajamas, susijusias su darbo
 santykiais, ši kompensacija nebemokama.
- 
-2, 3 ir 4 dalių
-redakcija iki 2010 m. rugsėjo 1 d.:
-2. Kai su diplomatu, dirbančiu
-Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje, kartu
-gyvena jo ir (ar) jo sutuoktinio nepilnamečiai vaikai (įvaikiai), jei jie nėra
-įstatymų nustatyta tvarka emancipuoti ar sudarę santuokos, už kiekvieną vaiką
-diplomatui kartu su pareigine alga mokama kompensacija, kurią sudaro, jeigu
-vaikas iki 6 metų, – 0,2 per mėnesį diplomato gaunamos su darbu užsienyje
-susijusių išlaidų kompensacijos ir jeigu vaikas yra 6 ir daugiau metų – 0,3 per
-mėnesį diplomato gaunamos su darbu užsienyje susijusių išlaidų kompensacijos.
-3. Kai su diplomatu, dirbančiu
-Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje, kartu
-gyvena vaikai, diplomatui, neviršijant Vyriausybės nustatytų normų, mokama
-kompensacija kompensuoti vaikų ikimokyklinio auklėjimo išlaidas.
-4. Kai su diplomatu, dirbančiu
-Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje, kartu
-gyvena ir mokosi vaikai, diplomatui, neviršijant Vyriausybės nustatytų normų,
-mokama kompensacija kompensuoti vaiko mokymosi išlaidas, kol jis įgis vidurinį
-išsilavinimą, bet ne ilgiau, iki vaikui sueis 20 metų.
-2, 3 ir 4 dalių
-redakcija nuo 2010 m. rugsėjo 1 d.:
 2. Kai su diplomatu, dirbančiu
 Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje, kartu
 gyvena šio įstatymo 27 straipsnio 1 dalies 2, 3, 4 ir 5 punktuose nurodyti
@@ -1697,18 +1451,16 @@ rūpintoju įstatymų nustatyta tvarka yra paskirtas diplomatas ar jo sutuoktini
 diplomatui, neviršijant Vyriausybės nustatytų normų, mokama kompensacija vaiko (įvaikio)
 paprastai nuo 6 metų mokymosi išlaidoms kompensuoti, kol jis įgis vidurinį
 išsilavinimą, bet ne ilgiau, iki jam sueis 20 metų.
- 
 5. Kai su diplomatu, dirbančiu
 Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje, kartu
 gyvena šio įstatymo 27 straipsnyje nurodyti išlaikytiniai, diplomatui kartu su
 pareigine alga už kiekvieną išlaikytinį mokama kompensacija, kurią sudaro 0,25
 diplomato per mėnesį gaunamos su darbu užsienyje susijusių išlaidų
 kompensacijos. 
-Straipsnis
-papildomas 6 dalimi nuo 2010 m. rugsėjo 1 d.:
-6. Diplomatų, perkeltų į tarptautines
-ir Europos Sąjungos institucijas ar užsienio valstybės institucijas, šeimos
-nariams mokamos kompensacijos ir taikomos socialinės garantijos, nustatytos  Lietuvos
+6. Diplomatų, perkeltų į
+tarptautines ir Europos Sąjungos institucijas ar užsienio valstybės
+institucijas, šeimos nariams mokamos kompensacijos ir taikomos socialinės garantijos,
+nustatytos  Lietuvos
 Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas
 ar užsienio valstybių institucijas įstatyme.
 Straipsnio
@@ -1720,32 +1472,8 @@ Nr. X-707, 2006-06-20,
 Nr. XI-870,
 2010-06-03, Žin., 2010, Nr. 71-3548 (2010-06-19)
  
-57 straipsnio
-redakcija iki 2011 m. sausio 1 d.:
-57
-straipsnis. Diplomatų aprūpinimas ir išlaidų apmokėjimas
-1. Lietuvos Respublikos
-diplomatinėje atstovybėje ar konsulinėje įstaigoje dirbančiam diplomatui
-suteikiamas jo rangą, pareigas ir šeimos narių skaičių atitinkantis butas, taip
-pat kompensuojamos diplomato ir jo šeimos narių persikėlimo iš Lietuvos
-Respublikos į užsienio valstybę ir iš užsienio valstybės į Lietuvos Respubliką
-(ar į kitą valstybę), diplomato ir jo šeimos narių kelionių į Lietuvos
-Respubliką ir atgal į valstybę, kurioje jie reziduoja, išlaidos. Kartą per kalendorinius
-metus užsienio valstybėje dirbančiam diplomatui ir jo šeimos nariams yra
-kompensuojamos kelionės išlaidos į Lietuvos Respubliką ir atgal, o kartu
-negyvenantiems šeimos nariams kompensuojamos kelionės išlaidos pas diplomatą ir
-atgal į Lietuvos Respubliką.
-2. Buto suteikimo, persikėlimo
-bei kelionių išlaidų kompensavimo tvarką nustato Vyriausybė.
-3. Diplomatui, siunčiamam dirbti
-Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje ar
-grąžinamam į darbą Užsienio reikalų ministerijoje, skiriamos 5 darbo dienos
-persikėlimo atostogų. Už šį laikotarpį diplomatui mokamas jo vidutinis darbo
-užmokestis, apskaičiuotas Vyriausybės nustatyta tvarka.
-57 straipsnio
-redakcija nuo 2011 m. sausio 1 d.:
-57
-straipsnis. Kitos diplomato ir jo šeimos narių garantijos 
+57 straipsnis. Kitos diplomato ir jo šeimos narių
+garantijos 
 1. Lietuvos Respublikos
 diplomatinėje atstovybėje ar konsulinėje įstaigoje dirbančiam diplomatui
 (išskyrus Lietuvos Respublikos diplomatinį atstovą) jo pasirinkimu kas mėnesį
@@ -1771,16 +1499,16 @@ išlaidų normą bei persikėlimo išlaidų kompensavimo tvarką nustato Vyriaus
 4.
 Diplomatui, paskirtam dirbti į Lietuvos Respublikos diplomatinę atstovybę ar
 konsulinę įstaigą, taip pat po darbo Lietuvos Respublikos diplomatinėje
-atstovybėje ar konsulinėje įstaigoje grąžinamam dirbti į Užsienio reikalų
-ministeriją, skiriamos 5 darbo dienos persikėlimo atostogų. Už šį laikotarpį
-diplomatui mokamas jo vidutinis darbo užmokestis, apskaičiuotas Vyriausybės
-nustatyta tvarka.
+atstovybėje ar konsulinėje įstaigoje grąžinamam dirbti į Užsienio reikalų ministeriją,
+skiriamos 5 darbo dienos persikėlimo atostogų. Už šį laikotarpį diplomatui
+mokamas jo vidutinis darbo užmokestis, apskaičiuotas Vyriausybės nustatyta
+tvarka.
 5. Diplomatui, paskirtam dirbti į
 Lietuvos Respublikos diplomatinę atstovybę ar konsulinę įstaigą, ir kartu su
 juo vyksiančiam sutuoktiniui užsienio reikalų ministro nustatyta tvarka gali
 būti apmokamos vienos iš oficialių valstybės, kurioje yra Lietuvos Respublikos
-diplomatinė atstovybė ar konsulinė įstaiga, kalbų ar kitos pagal poreikį
-užsienio kalbos mokymosi išlaidos.
+diplomatinė atstovybė ar konsulinė įstaiga, kalbų ar kitos pagal poreikį užsienio
+kalbos mokymosi išlaidos.
 Straipsnio
 pakeitimai:
 Nr. IX-2520, 2004-11-02,
@@ -1795,8 +1523,8 @@ nutraukimas
 terminuota diplomato tarnybos sutartis turi būti nutraukta, jei:
 1) diplomatas netenka Lietuvos
 Respublikos pilietybės;
-2) diplomatas atskleidžia valstybės
-paslaptis;
+2) diplomatas atskleidžia
+valstybės paslaptis;
 3) paaiškėja, kad priimant
 diplomatą į diplomatinę tarnybą jis pateikė suklastotus dokumentus arba nuslėpė
 ar pateikė tikrovės neatitinkančius duomenis, dėl kurių negalėjo būti priimtas
@@ -1858,14 +1586,13 @@ ministro įsakymui dėl paskyrimo dirbti Lietuvos Respublikos diplomatinėje
 atstovybėje ar konsulinėje įstaigoje ar grąžinimo į darbą Užsienio reikalų
 ministerijoje. 
 4. Diplomato tarnybos
-sutarties ir terminuotos diplomato tarnybos sutarties negalima nutraukti
-diplomato laikinojo nedarbingumo, komandiruotės, stažuotės ar atostogų metu,
-išskyrus dėl šio straipsnio 1 dalyje nurodytų priežasčių. Jei sutartis
-nutraukta pažeidžiant šią nuostatą, jos nutraukimo diena laikoma kita po
-laikinojo nedarbingumo, komandiruotės, stažuotės, atostogų pasibaigimo darbo
-diena.
-5. Viena diplomato tarnybos sutarties
-ar terminuotos diplomato tarnybos sutarties šalis (išskyrus Lietuvos
+sutarties ir terminuotos diplomato tarnybos sutarties negalima nutraukti diplomato
+laikinojo nedarbingumo, komandiruotės, stažuotės ar atostogų metu, išskyrus dėl
+šio straipsnio 1 dalyje nurodytų priežasčių. Jei sutartis nutraukta pažeidžiant
+šią nuostatą, jos nutraukimo diena laikoma kita po laikinojo nedarbingumo,
+komandiruotės, stažuotės, atostogų pasibaigimo darbo diena.
+5. Viena diplomato tarnybos
+sutarties ar terminuotos diplomato tarnybos sutarties šalis (išskyrus Lietuvos
 Respublikos diplomatinį atstovą) gali raštu pasiūlyti kitai šaliai nutraukti
 sutartį šalių susitarimu. Kita šalis, jei sutinka su pasiūlymu, per 5
 kalendorines dienas turi apie tai pranešti šaliai, pateikusiai siūlymą
@@ -1874,13 +1601,14 @@ sąlygų (kompensacijų, nepanaudotų atostogų suteikimo ir kt.). Jei antroji �
 per šioje dalyje nustatytą laiką nepraneša sutinkanti nutraukti sutartį,
 laikoma, kad pasiūlymas nutraukti sutartį šalių susitarimu yra atmestas.
 6. Diplomatas (išskyrus Lietuvos
-Respublikos diplomatinį atstovą) turi teisę nutraukti
-diplomato tarnybos sutartį ar terminuotą diplomato tarnybos sutartį, apie tai įspėjęs Užsienio reikalų ministeriją
-ne vėliau kaip prieš 30 kalendorinių dienų. Įspėjimo terminui pasibaigus,
-diplomatas turi teisę nutraukti darbą, o Užsienio reikalų ministerija privalo
-įforminti sutarties nutraukimą. Jei sutartį prašoma nutraukti dėl diplomato
-ligos ar neįgalumo, trukdančio tinkamai atlikti darbą, sutartis turi būti
-nutraukta nuo diplomato prašyme nurodytos datos.
+Respublikos diplomatinį atstovą) turi teisę nutraukti diplomato
+tarnybos sutartį ar terminuotą diplomato tarnybos
+sutartį, apie tai įspėjęs Užsienio reikalų ministeriją ne vėliau kaip prieš 30
+kalendorinių dienų. Įspėjimo terminui pasibaigus, diplomatas turi teisę
+nutraukti darbą, o Užsienio reikalų ministerija privalo įforminti sutarties
+nutraukimą. Jei sutartį prašoma nutraukti dėl diplomato ligos ar neįgalumo,
+trukdančio tinkamai atlikti darbą, sutartis turi būti nutraukta nuo diplomato
+prašyme nurodytos datos.
 7. Diplomatas turi teisę atsiimti
 prašymą nutraukti sutartį ne vėliau kaip per 3 kalendorines dienas nuo jo
 padavimo dienos. Po to jis gali atsiimti prašymą tik užsienio reikalų ministrui
@@ -1891,10 +1619,10 @@ terminuota diplomato tarnybos sutartis nutraukiama užsienio reikalų ministro
 9. Su Lietuvos Respublikos
 diplomatiniu atstovu sudaryta terminuota diplomato tarnybos sutartis
 nutraukiama, jei Lietuvos Respublikos diplomatinis atstovas atsistatydina.
-Lietuvos Respublikos diplomatinio atstovo, su kuriuo sudaryta diplomato
-tarnybos sutartis, atsistatydinimas iš Lietuvos Respublikos diplomatinio
-atstovo pareigų nenutraukia diplomato tarnybos sutarties. Tokiu atveju
-vadovaujamasi šio įstatymo 25 straipsnio nuostatomis. 
+Lietuvos Respublikos diplomatinio atstovo, su kuriuo sudaryta diplomato tarnybos
+sutartis, atsistatydinimas iš Lietuvos Respublikos diplomatinio atstovo pareigų
+nenutraukia diplomato tarnybos sutarties. Tokiu atveju vadovaujamasi šio
+įstatymo 25 straipsnio nuostatomis. 
 Straipsnio
 pakeitimai:
 Nr.
@@ -1965,9 +1693,9 @@ sutarties nutraukimo turi teisę raštu pareikalauti, kad jam būtų praneštos
 sutarties nutraukimo priežastys.
 2. Ne vėliau kaip per 5 dienas
 nuo prašymo gavimo Užsienio reikalų ministerija turi raštu pranešti konkrečias
-diplomato tarnybos sutarties ar terminuotos diplomato tarnybos sutarties
-nutraukimo priežastis, taip pat nurodyti, kuo pagrįstas atleidimas iš Lietuvos
-Respublikos diplomatinės tarnybos.
+diplomato tarnybos sutarties ar terminuotos diplomato tarnybos sutarties nutraukimo
+priežastis, taip pat nurodyti, kuo pagrįstas atleidimas iš Lietuvos Respublikos
+diplomatinės tarnybos.
 Straipsnio
 pakeitimai:
 Nr. IX-2520, 2004-11-02,
@@ -2008,13 +1736,13 @@ tvarka.
 2. Diplomatas, dirbantis Lietuvos
 Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje, ir šio įstatymo
 27 straipsnyje nurodyti jo šeimos nariai apdraudžiami sveikatos draudimu iš
+Užsienio reikalų ministerijai skirtų valstybės biudžeto asignavimų Vyriausybės nustatyta
+tvarka. Valstybėse, kuriose nėra galimybių apsidrausti sveikatos draudimu,
+visos išlaidos, susijusios su diplomato, dirbančio Lietuvos Respublikos
+diplomatinėje atstovybėje ar konsulinėje įstaigoje, ar šio įstatymo 27
+straipsnyje nurodytų jo šeimos narių asmens sveikatos priežiūra, apmokamos iš
 Užsienio reikalų ministerijai skirtų valstybės biudžeto asignavimų Vyriausybės
-nustatyta tvarka. Valstybėse, kuriose nėra galimybių apsidrausti sveikatos
-draudimu, visos išlaidos, susijusios su diplomato, dirbančio Lietuvos
-Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje, ar šio įstatymo
-27 straipsnyje nurodytų jo šeimos narių asmens sveikatos priežiūra, apmokamos
-iš Užsienio reikalų ministerijai skirtų valstybės biudžeto asignavimų
-Vyriausybės nustatyta tvarka.
+nustatyta tvarka.
  
 67
 straipsnis. Neteko galios nuo 2004 m. lapkričio 25 d.
@@ -2023,19 +1751,6 @@ pakeitimai:
 Nr. IX-2520, 2004-11-02,
 Žin., 2004, Nr. 170-6236 (2004-11-25)
  
-68 straipsnio
-redakcija iki 2010 m. rugsėjo 1 d.:
-68 straipsnis. Diplomato amžiaus apribojimas
-1. Diplomatu gali dirbti asmuo,
-ne vyresnis kaip 62 metų ir 6 mėnesių. 
-2. Respublikos Prezidentas
-išimties tvarka gali leisti asmenims, vyresniems 62 metų ir 6 mėnesių,
-nustatytą laikotarpį toliau dirbti Lietuvos Respublikos diplomatiniais
-atstovais. Kitiems diplomatams, sulaukusiems šio straipsnio 1 dalyje nurodyto
-amžiaus, išimties tvarka nustatytą laikotarpį dirbti Lietuvos Respublikos
-diplomatinėje tarnyboje gali leisti užsienio reikalų ministras.
-68 straipsnio
-redakcija nuo 2010 m. rugsėjo 1 d.:
 68 straipsnis. Diplomato amžiaus apribojimas 1. Diplomatu gali dirbti asmuo, ne vyresnis kaip 65 metų.
 2. Respublikos Prezidentas gali
 leisti asmenims, vyresniems kaip 65 metų, toliau dirbti diplomatiniais
@@ -2055,12 +1770,13 @@ Nr. XI-870,
  
 69 straipsnis.
 Diplomato socialinio ir sveikatos draudimo bei diplomato sutuoktinio
-valstybinio pensijų socialinio draudimo ir nedarbo socialinio draudimo reglamentavimas
+valstybinio pensijų socialinio draudimo ir nedarbo socialinio draudimo
+reglamentavimas
 1. Diplomato socialinį ir
 sveikatos draudimą bei diplomato sutuoktinio valstybinį pensijų socialinį
 draudimą ir nedarbo socialinį draudimą nustato šis įstatymas, taip pat
-Valstybinio socialinio draudimo, Sveikatos draudimo, Valstybinių socialinio draudimo
-pensijų, Nedarbo socialinio draudimo įstatymai ir kiti teisės aktai.
+Valstybinio socialinio draudimo, Sveikatos draudimo, Valstybinių socialinio
+draudimo pensijų, Nedarbo socialinio draudimo įstatymai ir kiti teisės aktai.
 2. Valstybinio pensijų socialinio
 draudimo ir nedarbo socialinio draudimo įmokos už diplomatų sutuoktinius tuo
 laikotarpiu, kurį diplomato sutuoktinis praleido užsienyje dėl to, kad jis ten
@@ -2077,46 +1793,28 @@ Nr. IX-2536, 2004-11-04,
 Nr. X-401, 2005-11-17,
 Žin., 2005, Nr. 144-5235 (2005-12-10)
  
-70 straipsnio
-redakcija iki 2010 m. rugsėjo 1 d.:
-70 straipsnis. Kompensacijos diplomato
-žūties ar sužalojimo atveju. Palaikų parvežimas
-1. Jei diplomatas žuvo ar buvo
-sužalotas dėl priežasčių, susijusių su tarnyba, iš Lietuvos Respublikos
-valstybės biudžeto išmokamos tokio dydžio kompensacijos:
-1) žuvusiojo šeimai - 2,5 metų jo
-darbo užmokesčio dydžio kompensacija, skaičiuojant pagal paskutinį darbo
-užmokestį;
-2) sužalotajam - nuo 1 iki 2,5
-metų darbo užmokesčio dydžio kompensacija, atsižvelgiant į sužalojimo laipsnį.
-Šios kompensacijos dydį ir mokėjimo tvarką nustato Vyriausybė.
-2. Diplomatas, žuvęs dėl
-susijusių su tarnyba priežasčių, laidojamas valstybės lėšomis.
-3. Mirusio užsienyje diplomato
-palaikų parvežimo į Lietuvą išlaidas apmoka valstybė teisės aktų nustatyta
-tvarka.
-70 straipsnio
-redakcija nuo 2010 m. rugsėjo 1 d.:
-70 straipsnis. Kompensacijos
-diplomato žūties ar sužalojimo atveju. Palaikų pervežimas
+70
+straipsnis. Kompensacijos diplomato žūties ar sužalojimo atveju. Palaikų
+pervežimas
 1. Jeigu diplomatas žuvo
-atlikdamas tarnybines pareigas arba mirė dėl priežasčių, susijusių su tarnybinių
-pareigų atlikimu, Vyriausybės nustatyta tvarka iš Lietuvos Respublikos
-valstybės biudžeto vaikams (įvaikiams, taip pat vaikams, gimusiems po jo
-mirties), iki jiems sukaks 18 metų, taip pat vaikams (įvaikiams), kurie mokosi
-nustatyta tvarka įregistruotų mokymo įstaigų dieniniuose skyriuose, – iki jiems
-sukaks 24 metai, sutuoktiniui, tėvui (įtėviui), motinai (įmotei) ir dėl amžiaus
-ar neįgalumo nedarbingiems asmenims, kurie buvo diplomato išlaikomi arba jo
-mirties dieną turėjo teisę gauti jo išlaikymą, lygiomis dalimis išmokama 48
-mėnesių diplomato gauto vidutinio darbo užmokesčio dydžio kompensacija.
-Kompensacija gali būti išmokama dalimis, bet ne ilgiau kaip per 2 metus.
+atlikdamas tarnybines pareigas arba mirė dėl priežasčių, susijusių su
+tarnybinių pareigų atlikimu, Vyriausybės nustatyta tvarka iš Lietuvos
+Respublikos valstybės biudžeto vaikams (įvaikiams, taip pat vaikams, gimusiems
+po jo mirties), iki jiems sukaks 18 metų, taip pat vaikams (įvaikiams), kurie
+mokosi nustatyta tvarka įregistruotų mokymo įstaigų dieniniuose skyriuose, –
+iki jiems sukaks 24 metai, sutuoktiniui, tėvui (įtėviui), motinai (įmotei) ir
+dėl amžiaus ar neįgalumo nedarbingiems asmenims, kurie buvo diplomato išlaikomi
+arba jo mirties dieną turėjo teisę gauti jo išlaikymą, lygiomis dalimis
+išmokama 48 mėnesių diplomato gauto vidutinio darbo užmokesčio dydžio
+kompensacija. Kompensacija gali būti išmokama dalimis, bet ne ilgiau kaip per 2
+metus.
 2. Diplomatas pripažįstamas
 žuvusiu atliekant tarnybines pareigas arba mirusiu dėl priežasčių, susijusių su
 tarnybinių pareigų atlikimu, jeigu įvykis, kuris buvo diplomato žūties
 (mirties) priežastis, įvyko jam atliekant jo pareigybės aprašyme nustatytas
 funkcijas arba dėl šių funkcijų atlikimo, išskyrus atvejus, kai diplomatas žuvo
-(mirė) darydamas tyčinę nusikalstamą veiką ar kitą teisės pažeidimą, taip pat
-jeigu diplomato žūties (mirties) priežastis buvo apsvaigimas nuo alkoholio,
+(mirė) darydamas tyčinę nusikalstamą veiką ar kitą teisės pažeidimą, taip pat jeigu
+diplomato žūties (mirties) priežastis buvo apsvaigimas nuo alkoholio,
 narkotinių, psichotropinių ar toksinių medžiagų arba jeigu diplomatas nusižudė
 dėl priežasčių, nesusijusių su tarnyba. Diplomatas pripažįstamas žuvusiu 
 atliekant tarnybines pareigas arba mirusiu dėl priežasčių, susijusių su
@@ -2133,10 +1831,10 @@ nuo 12 iki 48 mėnesių jo vidutinio darbo užmokesčio dydžio kompensacija.
 5. Paskirto dirbti į Lietuvos
 Respublikos diplomatinę atstovybę ar konsulinę įstaigą diplomato, žuvusio ar
 mirusio darbo užsienyje metu, taip pat užsienyje žuvusių ar mirusių kartu su
-Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje dirbančiu
-diplomatu gyvenusių jo šeimos narių, nurodytų šio įstatymo 27 straipsnyje,
-palaikų pervežimo į Lietuvą išlaidas apmoka valstybė teisės aktų nustatyta
-tvarka.
+Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje
+dirbančiu diplomatu gyvenusių jo šeimos narių, nurodytų šio įstatymo 27
+straipsnyje, palaikų pervežimo į Lietuvą išlaidas apmoka valstybė teisės aktų
+nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr. XI-870,
@@ -2173,128 +1871,7 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                     
 VALDAS ADAMKUS
-1
-priedėlio redakcija iki 2010 m. rugsėjo 1 d.:
-                                                                                                        Lietuvos
-Respublikos
-                                                                                                        1998
-m. gruodžio 29 d.
-                                                                                                        įstatymo
-Nr.VIII-1012
-                                                                                                        1
-priedėlis
- 
- 
-DIPLOMATO
-TARNYBOS SUTARTIS Nr.______
-                                                               
-                                                                                 
-____m.
-____________d.
- 
-Užsienio reikalų
-ministerija ____________________________________________________
-________________________________________________________________________
-                                                                                   (adresas)
-Užsienio reikalų
-ministras ar jo įgaliotas asmuo (toliau - darbdavys) _______________________
-________________________________________________________________________
-(vardas,
-pavardė, jeigu įgaliotas asmuo -  nurodyti pareigas)
- 
-ir priimamas į
-Lietuvos Respublikos diplomatinę tarnybą Lietuvos Respublikos pilietis (toliau
-- diplomatas)________________________________________________________________
- (vardas,
-pavardė)
-________________________________________________________________________
-(paso duomenys -
-gimimo metai, asmens kodas, valstybinio socialinio draudimo pažymėjimo serija,
-Nr.)
-________________________________________________________________________
-(gyvenamoji
-vieta)
- 
-Sudarė šią diplomato tarnybos
-sutartį:
- 
-1. Darbdavys įsipareigoja
-Lietuvos Respublikos diplomatinės tarnybos įstatymo nustatyta tvarka skirti
-diplomatą į pareigas ir mokėti jam šio įstatymo ir kitų teisės aktų nustatytą
-darbo užmokestį.
-2. Diplomatas įsipareigoja
-vykdyti diplomato pareigas, nustatytas Lietuvos Respublikos diplomatinės
-tarnybos įstatyme, kituose įstatymuose ir teisės aktuose.
-3. Kiti darbdavio
-įsipareigojimai, kurie neprivalomi pagal teisės aktus, bet jiems neprieštarauja
-________________________________________________________________
-                
-(papildomos garantijos, kompensacijos ir kt.) 
-___________________________________________________________________________
-4. Diplomato įsipareigojimai,
-kurie neprivalomi pagal teisės aktus, bet jiems neprieštarauja
-___________________________________________________________________________
-___________________________________________________________________________
-5. Ši diplomato tarnybos sutartis
-įsigalioja      _________________________________
-                                                          
-                                 (nurodyti datą )
-6. Diplomatas pradeda dirbti
-_________________________________________
-                                                                                             
-(nurodyti datą)
-7. Ginčai dėl šios diplomato
-tarnybos sutarties nagrinėjami Lietuvos Respublikos įstatymų nustatyta tvarka.
-8. Ši diplomato tarnybos sutartis
-gali būti nutraukta Lietuvos Respublikos diplomatinės tarnybos įstatymo
-nustatytais pagrindais.
-9. Diplomato tarnybos sutartis
-sudaryta dviem egzemplioriais - vienas jų saugomas Užsienio reikalų
-ministerijoje, kitas išduodamas diplomatui.
- 
- 
- 
-Diplomato
-tarnybos sutarties šalių parašai:
-Darbdavys                                                                  Diplomatas   
-___________________________                             __________________________
-(Vardas ir
-pavardė)  ( Parašas )                                   (Vardas ir pavardė)           (Parašas)
-                     
-                     A.
-V.
- 
- 
-Diplomato
-tarnybos sutartis nutraukta ____________________________________________
-                                                                                    (nurodyti
-datą  ir pagrindą)                   
-________________________________________________________________________
- 
-Diplomato
-tarnybos sutarties šalių parašai:
-Darbdavys                                                                      
-Diplomatas
-_________________________                                     
-_________________________    
-(Vardas ir
-pavardė) (Parašas)                                          (Vardas ir pavardė)
-(Parašas)
- 
-                     A.
-V.
- 
- 
-Diplomato
-pareigos:
-________________________________________________________________________
-(nurodyti
-įsakymo Nr., datą, pareigų pavadinimą, padalinį)
-________________________________________________________________________
- 
- 
-1 priedėlio
-redakcija nuo 2010 m. rugsėjo 1 d.:
+
                                                                                              Lietuvos Respublikos                                                                                            diplomatinės tarnybos įstatymo
                                                                                    1
 priedėlis
@@ -2308,9 +1885,9 @@ pareigos, vardas ir pavardė)
 diplomato tarnybos sąlygas.
 3. Diplomatas įsipareigoja
 atlikti Lietuvos Respublikos diplomatinės tarnybos įstatyme, kituose
-įstatymuose ir teisės aktuose nustatytas diplomato pareigas ir laikytis
-Lietuvos Respublikos diplomatinės tarnybos įstatyme, kituose įstatymuose ir
-teisės aktuose nustatytų diplomatinės tarnybos taisyklių.
+įstatymuose ir teisės aktuose nustatytas diplomato pareigas ir laikytis Lietuvos
+Respublikos diplomatinės tarnybos įstatyme, kituose įstatymuose ir teisės
+aktuose nustatytų diplomatinės tarnybos taisyklių.
 4. Kiti darbdavio
 įsipareigojimai, kurie neprivalomi pagal teisės aktus, bet jiems neprieštarauja
 ____________________________________________________________.
@@ -2320,7 +1897,7 @@ garantijos, kompensacijos ir kt.)
 kurie neprivalomi pagal teisės aktus, bet jiems neprieštarauja
 ____________________________________________________________________________
 ______________________________________________________________________________.
-6. Ši diplomato tarnybos sutartis įsigalioja ________________________________.                                                                                   (nurodyti datą)7. Diplomatas pradeda dirbti __________________________________________.                                                                                   (nurodyti datą)8. Ginčai dėl šios diplomato tarnybos sutarties nagrinėjami Lietuvos Respublikos įstatymų nustatyta tvarka.9. Ši diplomato tarnybos sutartis gali būti nutraukta Lietuvos Respublikos diplomatinės tarnybos įstatymo nustatytais pagrindais.10. Diplomato tarnybos sutartis sudaroma dviem egzemplioriais: vienas duodamas darbdaviui, kitas – diplomatui. Darbdavio atstovas           __________________               ____________________                                          (parašas)                                  (vardas ir pavardė)A. V.Diplomatas                        __________________              _______________________                                              (parašas)                                            (vardas ir pavardė) Diplomato tarnybos sutartis nutraukta __________________________________________                                                             (nurodyti datą ir teisinį pagrindą)________________________________________________________________________. Darbdavio atstovas               __________________               ________________________                                              (parašas)                                                  (vardas ir pavardė)A. V. Diplomatas                            __________________              ________________________                                              (parašas)                                                     (vardas ir pavardė)               
+6. Ši diplomato tarnybos sutartis įsigalioja ________________________________.                                                                                   (nurodyti datą)7. Diplomatas pradeda dirbti __________________________________________.                                                                                   (nurodyti datą)8. Ginčai dėl šios diplomato tarnybos sutarties nagrinėjami Lietuvos Respublikos įstatymų nustatyta tvarka.9. Ši diplomato tarnybos sutartis gali būti nutraukta Lietuvos Respublikos diplomatinės tarnybos įstatymo nustatytais pagrindais.10. Diplomato tarnybos sutartis sudaroma dviem egzemplioriais: vienas duodamas darbdaviui, kitas – diplomatui. Darbdavio atstovas           __________________               ____________________                                          (parašas)                                  (vardas ir pavardė)A. V.Diplomatas                        __________________              _______________________                                              (parašas)                                            (vardas ir pavardė) Diplomato tarnybos sutartis nutraukta __________________________________________                                                             (nurodyti datą ir teisinį pagrindą)________________________________________________________________________. Darbdavio atstovas               __________________               ________________________                                              (parašas)                                                  (vardas ir pavardė)A. V. Diplomatas                            __________________              ________________________                                              (parašas)                                                     (vardas ir pavardė)               
 Priedėlio
 pakeitimai:
 Nr. XI-870,
@@ -2329,150 +1906,6 @@ Nr. XI-870,
 
 
  
-2 priedėlio
-redakcija iki 2010 m. rugsėjo 1 d.:
-                                                                                                        Lietuvos
-Respublikos 
-                                                                                                        1998
-m. gruodžio 29 d.
-                                                                                                        įstatymo
-Nr.VIII-1012
-                                                                                                        2
-priedėlis
- 
-TERMINUOTA
-DIPLOMATO TARNYBOS SUTARTIS Nr.________
-                                                                                                                             
-_____m.
-______________d.
- 
- 
- Užsienio
-reikalų ministerija __________________________________________________
-_______________________________________________________________________
-                                                                                   (adresas)
-Užsienio reikalų
-ministras ar jo įgaliotas asmuo (toliau - darbdavys) ______________________
-________________________________________________________________________
-(vardas,
-pavardė, jeigu įgaliotas asmuo - nurodyti pareigas)
- 
-ir priimamas į
-Lietuvos Respublikos diplomatinę tarnybą Lietuvos Respublikos pilietis (toliau
-- diplomatas) 
-________________________________________________________________________
-(vardas,
-pavardė)
-________________________________________________________________________
-(paso
-duomenys - gimimo metai, asmens kodas, valstybinio socialinio draudimo
-pažymėjimo serija, Nr.)
-________________________________________________________________________
-                                                              (gyvenamoji
-vieta)
-Sudarė šią
-terminuotą diplomato tarnybos sutartį:
- 
-1.
-________________________________________________________________
-(priimamojo
-į terminuotą diplomatinę tarnybą vardas ir pavardė)
-priimamas į
-Lietuvos Respublikos diplomatinę tarnybą
-1. 1.
-______________________________________________________________
-                                                  (nurodyti
-padalinį)
-1. 2.
-______________________________________________________________
-(nurodyti
-pareigų pavadinimą)
- 
-2. Darbdavys įsipareigoja mokėti
-diplomatui šio įstatymo ir kitų teisės aktų nustatytą darbo užmokestį (išskyrus
-asmeniui, priimamam į Lietuvos Respublikos diplomatinę tarnybą Lietuvos
-Respublikos diplomatinės tarnybos įstatymo 23 straipsnio 2 dalyje nustatyta
-tvarka).
-3. Kiti darbdavio įsipareigojimai,
-kurie neprivalomi pagal teisės aktus, bet jiems neprieštarauja                     ______________________________________________________
-                                                           
-(papildomos garantijos, kompensacijos ir kt.)
-________________________________________________________________________
-4. Diplomato įsipareigojimai,
-kurie neprivalomi pagal teisės aktus, bet jiems neprieštarauja
-_________________________________________________________________________________
-_________________________________________________________________________________
- 
-5. Ši terminuota diplomato
-tarnybos sutartis įsigalioja ____________________________                                                                 
-                                                     (nurodyti datą)
-6. Diplomatas pradeda dirbti
-_____________________________________________
-                                                                                             
-(nurodyti datą)
-7. Ginčai dėl šios terminuotos
-diplomato tarnybos sutarties nagrinėjami Lietuvos Respublikos įstatymų
-nustatyta tvarka.          
-8. Ši terminuota diplomato
-tarnybos sutartis gali būti nutraukta Lietuvos Respublikos diplomatinės
-tarnybos įstatymo nustatytais pagrindais.
-9. Terminuota diplomato tarnybos
-sutartis sudaryta dviem egzemplioriais - vienas jų saugomas Užsienio reikalų
-ministerijoje, kitas išduodamas diplomatui.
- 
-Terminuotos
-diplomato tarnybos sutarties šalių parašai:
- 
-Darbdavys                                                                  Diplomatas   
-_________________________               
-                  _________________________                
-(Vardas ir
-pavardė) (Parašas)                                      (Vardas ir pavardė)
-(Parašas)
-                     
-                     A.
-V.
-Terminuota
-diplomato tarnybos sutartis pakeista _____________________________
-                                                                                    (nurodyti,
-kokios pirminės šios
-_______________________________________________________________________
-sutarties
-sąlygos pakeistos, datą)
- 
-Terminuotos
-diplomato tarnybos sutarties šalių parašai:
- 
-Darbdavys                                                                  Diplomatas
-_________________________                                 _________________________
-(Vardas ir
-pavardė) (Parašas)                                      (Vardas ir pavardė) 
-(Parašas)
-                     
-                     A.
-V.
- 
-Terminuota
-diplomato tarnybos sutartis nutraukta _____________________________
-                                                                                   (nurodyti
-datą  ir pagrindą)                    
-________________________________________________________________________
- 
-Terminuotos
-diplomato tarnybos sutarties šalių parašai:
- 
-Darbdavys                                                                  Diplomatas
-_________________________                                 
-_________________________
-(Vardas ir
-pavardė) ( Parašas)                                     (Vardas ir pavardė)
-(Parašas)
- 
-A.     V.
- 
- 
-2 priedėlio redakcija
-nuo 2010 m. rugsėjo 1 d.:
 Lietuvos Respublikos                                                                                                        diplomatinės tarnybos                                                                                                        įstatymo                                                                                                        2 priedėlis  TERMINUOTA DIPLOMATO TARNYBOS SUTARTIS  ______m. ____________d. Nr._____________________(sudarymo vieta) Užsienio reikalų ministerija, ______________________________________________________                                                                                                        (adresas)___________________________________________________________________________,
 (toliau – darbdavys),
 atstovaujama ____________________________________________,                                                                         (atstovo
@@ -2490,8 +1923,8 @@ eiti šios sutarties 1.1 punkte nurodytas pareigas ir t. t., – įrašyti reiki
 žodžius)
  
 2. Darbdavys įsipareigoja mokėti
-diplomatui įstatymų ir kitų teisės aktų nustatytą darbo užmokestį (išskyrus
-darbo užmokestį asmeniui, priimamam į Lietuvos Respublikos diplomatinę tarnybą
+diplomatui įstatymų ir kitų teisės aktų nustatytą darbo užmokestį (išskyrus darbo
+užmokestį asmeniui, priimamam į Lietuvos Respublikos diplomatinę tarnybą
 Lietuvos Respublikos diplomatinės tarnybos įstatymo 23 straipsnio 3 dalyje
 nustatyta tvarka).
 3. Diplomatas įsipareigoja
@@ -2802,8 +2235,8 @@ IX-1431, 2003-04-03,
 Žin., 2003, Nr. 38-1676 (2003-04-24)
 DIPLOMATINĖS
 TARNYBOS ĮSTATYMO 18 IR 58 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-Šis Įstatymas įsigalioja kartu su Lietuvos
-Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos
+baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos
 Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
 2003 m. gegužės 1 d. 
  
@@ -2929,11 +2362,23 @@ m. rugsėjo 1 d.
 Šio įstatymo 16
 straipsnis įsigalioja 2011 m. sausio 1 d.
 Šio
-įstatymo 6 straipsnis taikomas po šio įstatymo įsigaliojimo paskirtiems
-diplomatams dirbti į Lietuvos Respublikos diplomatines atstovybes ir konsulines
-įstaigas.
+įstatymo 6 straipsnis taikomas po šio įstatymo įsigaliojimo paskirtiems diplomatams
+dirbti į Lietuvos Respublikos diplomatines atstovybes ir konsulines įstaigas.
+ 
+15.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-1445,
+2011-06-16, Žin., 2011, Nr. 78-3793 (2011-06-30)
+DIPLOMATINĖS
+TARNYBOS ĮSTATYMO 9 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
+ 
+ 
 Redagavo
-Aušrinė Trapinskienė (2010-06-21)
-                  autrap@lrs.lt
+Aušrinė Trapinskienė (2011-06-30)
+                 
+ausrine.trapinskiene@lrs.lt
