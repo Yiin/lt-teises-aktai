@@ -290,9 +290,9 @@ už konsulinių veiksmų, numatytų Lietuvos Respublikos konsulinio mokesčio
 2. Nuo valstybės
 rinkliavos už dokumentų išduoti, pakeisti leidimą gyventi Lietuvos Respublikoje
 tvarkymą yra atleidžiami asmenys, kurie dėl dokumentų dėl leidimo gyventi
-Lietuvos Respublikoje išdavimo priėmimo ir perdavimo kreipiasi per Lietuvos Respublikos
-diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję
-konsulinį mokestį už konsulinių veiksmų, numatytų Lietuvos Respublikos
+Lietuvos Respublikoje išdavimo priėmimo ir perdavimo kreipiasi per Lietuvos
+Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra
+sumokėję konsulinį mokestį už konsulinių veiksmų, numatytų Lietuvos Respublikos
 konsulinio mokesčio įstatymo 3 straipsnio 6 punkte, atlikimą.
 3. Nuo valstybės
 rinkliavos už civilinės būklės aktų įregistravimą ir dokumentų išdavimą yra
@@ -330,13 +330,20 @@ Nr. X-1491,
 Nr. XI-1061,
 2010-10-12, Žin., 2010, Nr. 125-6384 (2010-10-23)
  
-8
-straipsnis. Valstybės rinkliavos keitimas ar panaikinimas pariteto pagrindais
+8 straipsnis. Valstybės
+rinkliavos keitimas ar neėmimas
 Tais atvejais,
-kai pariteto pagrindais didinamas, mažinamas ar panaikinamas konsulinis
-mokestis už vizų išdavimą užsienio valstybių piliečiams bei asmenims be
-pilietybės, taip pat keičiama ar panaikinama ir valstybės rinkliava už vizų
-išdavimą.
+kai pariteto pagrindais, taip pat kai tai būtina įgyvendinant
+Lietuvos Respublikos Seimo priimtuose teisės aktuose numatytus užsienio
+politikos ar nacionalinio saugumo tikslus, didinamas,
+mažinamas ar neimamas konsulinis mokestis už prašymų išduoti vizas ar joms
+prilygintus dokumentus priėmimą ir svarstymą, sprendimų dėl vizų ar joms
+prilyginto dokumento išdavimo ar atsisakymo išduoti priėmimą užsienio valstybių
+piliečiams bei asmenims be pilietybės, taip pat keičiama ar neimama ir
+valstybės rinkliava už vizų išdavimą.
+Straipsnio pakeitimai:
+Nr. XI-1462,
+2011-06-20, Žin., 2011, Nr. 78-3801 (2011-06-30)
  
 9
 straipsnis. Valstybės rinkliavos mokėjimas
@@ -400,8 +407,8 @@ miestui);
 savivaldybių tarybos nustatytomis vietomis automobiliams statyti (išskyrus
 vietas automobiliams statyti prie valstybinės reikšmės kelių, 5–15 m pažymėtoje
 atkarpoje prie valstybės įstaigų, institucijų ir tarnybų, taip pat vietas,
-kurias nustato Vyriausybė, atsižvelgdama į saugumą, tarptautinį protokolą ar
-kitus viešuosius interesus užtikrinančius reikalavimus);
+kurias nustato Vyriausybė, atsižvelgdama į saugumą, tarptautinį protokolą ar kitus
+viešuosius interesus užtikrinančius reikalavimus);
 7) gyvūnų (šunų,
 kačių) registravimą ir laikymą daugiabučiuose namuose;
 8) komunalinių
@@ -438,8 +445,8 @@ X-1277,
 straipsnis. Vietinių rinkliavų nustatymas
 Savivaldybės
 taryba savo sprendimu:
-1) nustato
-vietinę rinkliavą;
+1) nustato vietinę
+rinkliavą;
 2) tvirtina
 vietinės rinkliavos nuostatus;
 3) nustato
@@ -634,8 +641,8 @@ RINKLIAVŲ
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-1301, 2007-10-18,
-Žin., 2007, Nr. 114-4632 (2007-11-08)
+X-1301,
+2007-10-18, Žin., 2007, Nr. 114-4632 (2007-11-08)
 RINKLIAVŲ
 ĮSTATYMO PAPILDYMO 6(1) STRAIPSNIU ĮSTATYMAS
 Šis
@@ -653,8 +660,8 @@ STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-1811, 2008-11-13,
-Žin., 2008, Nr. 135-5242 (2008-11-25)
+X-1811,
+2008-11-13, Žin., 2008, Nr. 135-5242 (2008-11-25)
 RINKLIAVŲ
 ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
@@ -666,10 +673,18 @@ Nr. XI-1061,
 RINKLIAVŲ ĮSTATYMO 7 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
  
+15.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. XI-1462,
+2011-06-20, Žin., 2011, Nr. 78-3801 (2011-06-30)
+RINKLIAVŲ ĮSTATYMO 8 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2010-10-25)
-                 
-autrap@lrs.lt
+(2011-06-30)
+ 
+                ausrine.trapinskiene@lrs.lt
