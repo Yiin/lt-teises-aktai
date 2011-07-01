@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C5FBBA345223"
 
 # Lietuvos Respublikos visuomenės sveikatos stebėsenos (monitoringo) įstatymas
 
-Suvestinė redakcija nuo 2007-07-01 iki 2011-06-30
+Suvestinė redakcija nuo 2011-07-01 iki 2013-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3022, i. k. 1021010ISTA0IX-1023
  
@@ -92,7 +92,9 @@ Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA
 
 
 
-7. Ūkio subjektų visuomenės sveikatos stebėsena – juridinių ir fizinių asmenų, kurių veikla daro įtaką visuomenės sveikatai, įstatymų nustatyta tvarka vykdoma visuomenės sveikatos stebėsena.
+7. Neteko galios nuo 2011-07-01
+Straipsnio dalies naikinimas:
+Nr. XI-1300, 2011-03-24, Žin. 2011, Nr. 40-1920 (2011-04-05), i. k. 1111010ISTA0XI-1300
  
 
 
@@ -136,10 +138,12 @@ Pagrindiniai visuomenės sveikatos stebėsenos uždaviniai:
 4 straipsnis. Subjektai, vykdantys visuomenės sveikatos stebėseną
 
 
-Visuomenės sveikatos stebėsenos subjektai yra valstybės, savivaldybių, mokslo institucijos, ūkio subjektai, taip pat kiti juridiniai ir fiziniai asmenys, pagal šį Įstatymą ir kitų teisės aktų nustatyta tvarka tvarkantys visuomenės sveikatos duomenis.
+Visuomenės sveikatos stebėsenos subjektai yra valstybės, savivaldybių, mokslo institucijos, taip pat kiti juridiniai ir fiziniai asmenys, pagal šį Įstatymą ir kitų teisės aktų nustatyta tvarka tvarkantys visuomenės sveikatos duomenis.
+
+
+Straipsnio pakeitimai:
+Nr. XI-1300, 2011-03-24, Žin., 2011, Nr. 40-1920 (2011-04-05), i. k. 1111010ISTA0XI-1300
  
-
-
 
 
 
@@ -147,7 +151,10 @@ Visuomenės sveikatos stebėsenos subjektai yra valstybės, savivaldybių, moksl
 5 straipsnis. Visuomenės sveikatos stebėsenos sistema 
 
 
-1. Visuomenės sveikatos stebėsenos sistemą sudaro valstybės, savivaldybių ir ūkio subjektų visuomenės sveikatos stebėsenos, kurias vykdant kaupiami ir analizuojami duomenys apie populiacijos ar atskirų jos grupių sveikatai darančių poveikį veiksnių kitimus vietos, regiono ir valstybės mastu.
+1. Visuomenės sveikatos stebėsenos sistemą sudaro valstybės ir savivaldybių visuomenės sveikatos stebėsenos, kurias vykdant kaupiami ir analizuojami duomenys apie populiacijos ar atskirų jos grupių sveikatos būklės ir sveikatai darančių poveikį veiksnių kitimus vietos, regiono ir valstybės mastu.
+Straipsnio dalies pakeitimai:
+Nr. XI-1300, 2011-03-24, Žin., 2011, Nr. 40-1920 (2011-04-05), i. k. 1111010ISTA0XI-1300
+ 
 
 
 
@@ -171,7 +178,10 @@ Vykdant visuomenės sveikatos stebėseną, stebima, vertinama ir analizuojama:
 
 
 
-2) fizikiniai, cheminiai, biologiniai ir kiti fizinės aplinkos veiksniai ir jų ryšys su sveikata;
+2) fizikiniai, cheminiai, biologiniai, ergonominiai ir kiti fizinės aplinkos veiksniai ir jų ryšys su sveikata;
+Straipsnio punkto pakeitimai:
+Nr. XI-1300, 2011-03-24, Žin., 2011, Nr. 40-1920 (2011-04-05), i. k. 1111010ISTA0XI-1300
+ 
 
 
 
@@ -229,7 +239,10 @@ Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA
 
 
 
-4. Ūkio subjektų visuomenės sveikatos stebėsenos programas rengia, tvirtina ir įgyvendina pats ūkio subjektas, suderinęs su Sveikatos apsaugos ministerijos įgaliota institucija.
+4. Neteko galios nuo 2011-07-01
+Straipsnio dalies naikinimas:
+Nr. XI-1300, 2011-03-24, Žin. 2011, Nr. 40-1920 (2011-04-05), i. k. 1111010ISTA0XI-1300
+ 
 
 
 
@@ -306,7 +319,10 @@ Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA
 
 
 
-2) kuria valstybės visuomenės sveikatos informacines sistemas ir atlieka valstybės, savivaldybių bei ūkio subjektų stebėsenos duomenų apie visuomenės sveikatos būklę kompleksinę analizę;
+2) kuria valstybės visuomenės sveikatos informacines sistemas ir atlieka valstybės ir savivaldybių stebėsenos duomenų apie visuomenės sveikatos būklę kompleksinę analizę; 
+Straipsnio punkto pakeitimai:
+Nr. XI-1300, 2011-03-24, Žin., 2011, Nr. 40-1920 (2011-04-05), i. k. 1111010ISTA0XI-1300
+ 
 
 
 
@@ -316,7 +332,10 @@ Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA
 
 
 
-4) rengia ir (ar) tvirtina savivaldybių, ūkio subjektų visuomenės sveikatos stebėsenos vykdymo ir privalomojo atitikties įvertinimo tvarką;
+4) rengia ir (ar) tvirtina Savivaldybių visuomenės sveikatos stebėsenos vykdymo ir privalomojo atitikties įvertinimo tvarkos aprašą;
+Straipsnio punkto pakeitimai:
+Nr. XI-1300, 2011-03-24, Žin., 2011, Nr. 40-1920 (2011-04-05), i. k. 1111010ISTA0XI-1300
+ 
 
 
 
@@ -377,7 +396,10 @@ Nr. X-1152, 2007-05-24, Žin. 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA0
 
 
 
-4) analizuoja teritorijoje esančių ūkio subjektų visuomenės sveikatos stebėsenų duomenis;
+4) Neteko galios nuo 2011-07-01
+Straipsnio punkto naikinimas:
+Nr. XI-1300, 2011-03-24, Žin. 2011, Nr. 40-1920 (2011-04-05), i. k. 1111010ISTA0XI-1300
+ 
 
 
 
@@ -400,20 +422,22 @@ Nr. X-1152, 2007-05-24, Žin. 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA0
 11 straipsnis. Ūkio subjektų visuomenės sveikatos stebėsena 
 
 
-1. Ūkio subjektai, kurie verčiasi ekonomine veikla, keliančia pavojų ar darančia žalą visuomenės sveikatai, vykdo stebėseną. Duomenis apie ūkinės veiklos poveikį sveikatai ir stebėjimo duomenis šie subjektai teikia valstybės ir savivaldybių institucijoms bei visuomenei.
+1. Ūkio subjektai, kurie verčiasi ekonomine veikla, keliančia pavojų ar darančia žalą visuomenės sveikatai, vykdo visuomenės sveikatos stebėseną. Ūkio subjektų visuomenės sveikatos stebėsenos programas rengia, tvirtina ir įgyvendina pats ūkio subjektas, suderinęs su Sveikatos apsaugos ministerijos įgaliota institucija. Duomenis apie ūkinės veiklos poveikį sveikatai ir stebėjimo duomenis šie subjektai teikia valstybės ir savivaldybių institucijoms ir visuomenei.
 
 
 
 
-2. Sveikatos apsaugos ministerija nustato ūkio subjektų visuomenės sveikatos stebėsenos programos rengimo ir tvirtinimo tvarką, sudaro sąrašą ekonominės veiklos, kuria verčiantis visuomenės sveikatos stebėsena yra privaloma. Šis sąrašas pateikiamas tvirtinti Vyriausybei. 
+2. Sveikatos apsaugos ministerija nustato ūkio subjektų visuomenės sveikatos stebėsenos programų rengimo, tvirtinimo, įgyvendinimo ir duomenų teikimo tvarką, sudaro ekonominės veiklos ir kriterijų, kuriems esant visuomenės sveikatos stebėsena yra privaloma, sąrašą. Šį sąrašą tvirtina Vyriausybė. 
 
 
 
 
-3. Sveikatos apsaugos ministerijos nustatyta tvarka ūkio subjektai visuomenės sveikatos stebėsenos duomenis perduoda Valstybiniam visuomenės sveikatos stebėsenos duomenų fondui. 
+3. Ūkio subjektų visuomenės sveikatos stebėseną finansuoja juridiniai ir fiziniai asmenys savo lėšomis.
+
+
+Straipsnio pakeitimai:
+Nr. XI-1300, 2011-03-24, Žin., 2011, Nr. 40-1920 (2011-04-05), i. k. 1111010ISTA0XI-1300
  
-
-
 
 
 
@@ -434,7 +458,10 @@ Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA
 
 
 
-3. Ūkio subjektų visuomenės sveikatos stebėseną finansuoja juridiniai ir fiziniai asmenys savo lėšomis.
+3. Neteko galios nuo 2011-07-01
+Straipsnio dalies naikinimas:
+Nr. XI-1300, 2011-03-24, Žin. 2011, Nr. 40-1920 (2011-04-05), i. k. 1111010ISTA0XI-1300
+ 
 
 
 
@@ -450,11 +477,12 @@ Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA
 13 straipsnis. Visuomenės sveikatos stebėsenos kontrolė
 
 
-Valstybės, savivaldybių, atskirų visuomenės sveikatos sričių ir ūkio subjektų visuomenės sveikatos stebėsenų vykdymą, duomenų ir informacijos kokybę, ar jie atitinka norminius dokumentus, kontroliuoja Sveikatos apsaugos ministerija arba jos įgaliota institucija.
+Valstybės, savivaldybių, atskirų visuomenės sveikatos sričių ir ūkio subjektų visuomenės sveikatos stebėsenų vykdymą, duomenų ir informacijos kokybę, ar jie atitinka teisės aktus, kontroliuoja Sveikatos apsaugos ministerija arba jos įgaliota institucija. 
 
 
 Straipsnio pakeitimai:
 Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
+Nr. XI-1300, 2011-03-24, Žin., 2011, Nr. 40-1920 (2011-04-05), i. k. 1111010ISTA0XI-1300
  
 
 
@@ -515,7 +543,10 @@ Visuomenės sveikatos stebėsenos duomenų kokybei užtikrinti:
 
 
 
-2. Valstybės ir savivaldybių institucijos, organizacijos, kiti juridiniai ir fiziniai asmenys, vykdantys valstybės, savivaldybių, atskirų visuomenės sveikatos sričių ir ūkio subjektų visuomenės sveikatos stebėsenas, informaciją pateikia Valstybiniam visuomenės sveikatos stebėsenos duomenų fondui Visuomenės sveikatos stebėsenos nuostatų nustatyta tvarka.
+2. Valstybės ir savivaldybių institucijos, organizacijos, kiti juridiniai ir fiziniai asmenys, vykdantys valstybės, savivaldybių, atskirų visuomenės sveikatos sričių visuomenės sveikatos stebėsenas, informaciją pateikia Valstybiniam visuomenės sveikatos stebėsenos duomenų fondui Visuomenės sveikatos stebėsenos nuostatų nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1300, 2011-03-24, Žin., 2011, Nr. 40-1920 (2011-04-05), i. k. 1111010ISTA0XI-1300
+ 
 
 
 
@@ -533,9 +564,10 @@ Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA
 
 
 
-5. Valstybinį visuomenės sveikatos stebėsenos duomenų fondą tvarko, jo nuostatus tvirtina Sveikatos apsaugos ministerija.
+5. Valstybinį visuomenės sveikatos stebėsenos duomenų fondą tvarko Sveikatos apsaugos ministerijos įgaliota įstaiga, jo nuostatus tvirtina Sveikatos apsaugos ministerija.
 Straipsnio dalies pakeitimai:
 Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
+Nr. XI-1300, 2011-03-24, Žin., 2011, Nr. 40-1920 (2011-04-05), i. k. 1111010ISTA0XI-1300
  
 
 
@@ -666,3 +698,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1152, 2007-05-24, Žin., 2007, Nr. 64-2457 (2007-06-09), i. k. 1071010ISTA00X-1152
 Lietuvos Respublikos visuomenės sveikatos stebėsenos (monitoringo) įstatymo 2, 7, 9, 12, 13, 16 straipsnių pakeitimo ir IV skyriaus pripažinimo netekusiu galios įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1300, 2011-03-24, Žin., 2011, Nr. 40-1920 (2011-04-05), i. k. 1111010ISTA0XI-1300
+Lietuvos Respublikos visuomenės sveikatos stebėsenos (monitoringo) įstatymo 2, 4, 5, 6, 7, 9, 10, 11, 12, 13 ir 16 straipsnių pakeitimo įstatymas
