@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C70309CDEB7B"
 
 # Lietuvos Respublikos karo padėties įstatymas
 
-Suvestinė redakcija nuo 2011-02-01 iki 2011-06-30
+Suvestinė redakcija nuo 2011-07-01 iki 2012-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1482, i. k. 1001010ISTAIII-1721
  
@@ -82,7 +82,10 @@ Nr. IX-1422, 2003-04-03, Žin., 2003, Nr. 38-1667 (2003-04-24), i. k. 1031010IST
 
 
 
-7. Karo padėtis – Lietuvos Respublikos Konstitucijos ir šio įstatymo nustatyta ypatinga teisinė padėtis, kuri įvedama prireikus ginti Tėvynę ginkluoto užpuolimo ar jo grėsmės atveju, kai kyla grėsmė Lietuvos valstybės suverenumui ar jos teritoriniam vientisumui, arba prireikus vykdyti Lietuvos valstybės tarptautinius įsipareigojimus siekiant užtikrinti valstybės gynybą ir kitas svarbiausias valstybės funkcijas karo metu.
+7. Karo padėtis – Lietuvos Respublikos Konstitucijos ir šio įstatymo nustatyta ypatinga teisinė padėtis, kuri įvedama prireikus ginti Tėvynę ginkluoto užpuolimo ar jo grėsmės atveju, kai kyla grėsmė Lietuvos valstybės suverenumui ar jos teritorijos vientisumui, arba prireikus vykdyti Lietuvos valstybės tarptautinius įsipareigojimus siekiant užtikrinti valstybės gynybą ir kitas gyvybiškai svarbias valstybės funkcijas karo metu.
+Straipsnio dalies pakeitimai:
+Nr. XI-1414, 2011-05-26, Žin., 2011, Nr. 72-3465 (2011-06-14), i. k. 1111010ISTA0XI-1414
+ 
 
 
 
@@ -509,7 +512,10 @@ VALSTYBĖS VALDYMO PERTVARKYMAS
 21 straipsnis. Valstybės institucijų veiklos pertvarkymas
 
 
-1. Įvedus karo padėtį, valstybės institucijų veikla pertvarkoma siekiant užtikrinti svarbiausių valstybės funkcijų atlikimą. Ministerijoms, kitoms Vyriausybės įstaigoms ir valstybės institucijoms Seimas, Respublikos Prezidentas ar Vyriausybė gali pavesti tokių funkcijų, kurių nėra numatyta jų nuostatuose, bet yra numatytos mobilizaciniuose planuose arba būtinos karo padėties sąlygomis.
+1. Įvedus karo padėtį, valstybės, savivaldybės institucijų ir įstaigų veikla pertvarkoma siekiant užtikrinti gyvybiškai svarbių valstybės funkcijų atlikimą. Ministerijoms, kitoms valstybės ir savivaldybių institucijoms ir įstaigoms Seimas, Respublikos Prezidentas ar Vyriausybė gali pavesti tokias funkcijas, kurių nėra numatyta jų nuostatuose, bet yra numatytos mobilizacijos planuose arba būtinos karo padėties sąlygomis.
+Straipsnio dalies pakeitimai:
+Nr. XI-1414, 2011-05-26, Žin., 2011, Nr. 72-3465 (2011-06-14), i. k. 1111010ISTA0XI-1414
+ 
 
 
 
@@ -760,7 +766,10 @@ KARINĖS IR KITOS PRIEMONĖS
 32 straipsnis. Svarbiausių valstybės gynybos klausimų sprendimas
 
 
-1. Įvedus karo padėtį, Mobilizacijos ir mobilizacinio rezervo rengimo įstatymo nustatyta tvarka skelbiama ir vykdoma mobilizacija.
+1. Įvedus karo padėtį, Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo nustatyta tvarka skelbiama ir vykdoma mobilizacija, jeigu ji nebuvo paskelbta prieš karo padėties įvedimą.
+Straipsnio dalies pakeitimai:
+Nr. XI-1414, 2011-05-26, Žin., 2011, Nr. 72-3465 (2011-06-14), i. k. 1111010ISTA0XI-1414
+ 
 
 
 
@@ -776,10 +785,12 @@ KARINĖS IR KITOS PRIEMONĖS
 33 straipsnis. Saugotinų objektų sąrašas
 
 
-Saugotinų objektų, kurių veikla būtina norint užtikrinti svarbiausių valstybės funkcijų atlikimą arba kurių veiklos sutrikimai gali kelti pavojų aplinkai, žmonių gyvybei ar sveikatai, sąrašą nustato Vyriausybė.
+Saugotinų objektų, kurių veikla būtina norint užtikrinti gyvybiškai svarbių valstybės funkcijų atlikimą arba kurių veiklos sutrikimai gali kelti pavojų aplinkai, žmonių gyvybei ar sveikatai, sąrašą nustato Vyriausybė.
+
+
+Straipsnio pakeitimai:
+Nr. XI-1414, 2011-05-26, Žin., 2011, Nr. 72-3465 (2011-06-14), i. k. 1111010ISTA0XI-1414
  
-
-
 
 
 
@@ -847,24 +858,15 @@ Saugotinų objektų, kurių veikla būtina norint užtikrinti svarbiausių valst
 
 
 
-37 straipsnis.       Laikinas ginklų, šaudmenų, sprogmenų, sprogstamųjų, radioaktyviųjų, nuodingųjų ir stipriai veikiančių, narkotinių ar psichotropinių medžiagų, taip pat transporto priemonių bei kitų daiktų paėmimas ar rekvizicija
+37 straipsnis. Rekvizicijos ir (ar) laikinojo paėmimo vykdymas
 
 
-1. Karo padėties metu iš fizinių ir juridinių asmenų gali būti laikinai paimami jų teisėtai laikomi ginklai, šaudmenys, sprogmenys, sprogstamosios, radioaktyviosios ir stipriai veikiančios medžiagos, taip pat, karinei būtinybei esant, gali būti rekvizuojami teisėtai laikomi ginklai, šaudmenys, sprogmenys, sprogstamosios, nuodingosios ir stipriai veikiančios, narkotinės ir psichotropinės medžiagos, transporto priemonės ir kiti daiktai. Laikino paėmimo ir rekvizicijos, taip pat laikinai paimtų daiktų grąžinimo ar teisingo atlyginimo už juos, atšaukus karo padėtį, tvarką nustato Vyriausybė. 
-
-
-
-
-2. Laikiną ginklų, šaudmenų, sprogmenų, sprogstamųjų, nuodingųjų ir stipriai veikiančių, narkotinių ar psichotropinių medžiagų, taip pat transporto priemonių bei kitų daiktų paėmimą ar rekviziciją vykdo policija arba kariuomenė, laikiną radioaktyviųjų medžiagų paėmimą organizuoja ir koordinuoja Radiacinės saugos centras kartu su savivaldybėmis, o į teisės aktų nustatytas vietas laikinai paimamas radioaktyviąsias medžiagas pristato radioaktyviųjų medžiagų turėtojai.
-
-
-
-
-3. Asmuo, iš kurio laikinai paimami ginklai, šaudmenys, sprogmenys, sprogstamosios, radioaktyviosios, nuodingosios ir stipriai veikiančios, narkotinės ar psichotropinės medžiagos ar rekvizuojami ginklai, šaudmenys, sprogmenys, sprogstamosios, nuodingosios ir stipriai veikiančios, narkotinės ar psichotropinės medžiagos, transporto priemonės, taip pat kiti daiktai, supažindinamas su sprendimu paimti nurodytus daiktus. Šio straipsnio 2 dalyje nurodytos institucijos sudaro laikinai paimtų daiktų apyrašą. 
+Karo padėties metu turto rekvizicija ir (ar) laikinasis paėmimas gali būti vykdomi ir už rekvizuotą ir (ar) laikinai paimtą turtą atlyginama Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
 Nr. IX-2330, 2004-07-08, Žin., 2004, Nr. 115-4273 (2004-07-24), i. k. 1041010ISTA0IX-2330
+Nr. XI-1414, 2011-05-26, Žin., 2011, Nr. 72-3465 (2011-06-14), i. k. 1111010ISTA0XI-1414
  
 
 
@@ -953,3 +955,8 @@ Lietuvos Respublikos karo padėties įstatymo 11, 25 straipsnių pakeitimo ir 23
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1268, 2010-12-23, Žin., 2011, Nr. 2-41 (2011-01-06), i. k. 1101010ISTA0XI-1268
 Lietuvos Respublikos karo padėties įstatymo 26 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1414, 2011-05-26, Žin., 2011, Nr. 72-3465 (2011-06-14), i. k. 1111010ISTA0XI-1414
+Lietuvos Respublikos karo padėties įstatymo 2, 21, 32, 33 ir 37 straipsnių pakeitimo įstatymas
