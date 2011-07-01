@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5368B592234C"
 
 # Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2009-01-01 iki 2011-06-30
+Suvestinė redakcija nuo 2011-07-01 iki 2011-08-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 63-1479, i. k. 0961010ISTA00I-1374
- 
-TAR pastaba. Duomenų valdytojai, kurie įsigaliojus šiam įstatymui tęsia ypatingų asmens duomenų apie sveikatą tvarkymą automatiniu būdu  Asmens duomenų teisinės apsaugos įstatymo 10 straipsnyje nurodytais tikslais, privalo apie tai pranešti Valstybinei duomenų apsaugos inspekcijai Asmens duomenų teisinės apsaugos įstatymo 31 ir 33 straipsnių nustatyta tvarka ne vėliau kaip per 2 metus nuo šio įstatymo įsigaliojimo dienos (2009-01-01). Duomenų valdytojų pranešimas nesustabdo ir nenutraukia asmens duomenų tvarkymo veiksmų, jeigu Valstybinė duomenų apsaugos inspekcija nenustato kitaip.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. X-1444, 2008-02-01, Žin., 2008, Nr. 22-804 (2008-02-23), i. k. 1081010ISTA00X-1444
-Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo pakeitimo įstatymas
  
 Nauja redakcija nuo 2009-01-01:
 Nr. X-1444, 2008-02-01, Žin. 2008, Nr. 22-804 (2008-02-23), i. k. 1081010ISTA00X-1444
@@ -212,7 +207,7 @@ ASMENS DUOMENŲ TVARKYMAS
 
 
 
-5) saugomi tokia forma, kad duomenų subjektų tapatybę būtų galima nustatyti ne ilgiau, negu to reikia tiems tikslams, dėl kurių šie duomenys buvo surinkti ir tvarkomi.
+5) saugomi tokia forma, kad duomenų subjektų tapatybę būtų galima nustatyti ne ilgiau, negu to reikia tiems tikslams, dėl kurių šie duomenys buvo surinkti ir tvarkomi;
 
 
 
@@ -555,6 +550,19 @@ Asmens duomenys elektroninių ryšių srityje tvarkomi vadovaujantis Elektronini
  
 
 
+
+
+
+
+151 straipsnis. Asmens duomenų tvarkymas vykdant policijos ir teisminį bendradarbiavimą baudžiamosiose bylose, numatytą Sutarties dėl Europos Sąjungos veikimo trečiosios dalies V antraštinėjedalyje
+
+
+Asmens duomenys vykdant policijos ir teisminį bendradarbiavimą baudžiamosiose bylose, numatytą Sutarties dėl Europos Sąjungos veikimo trečiosios dalies V antraštinėje dalyje, tvarkomi vadovaujantis Asmens duomenų, tvarkomų vykdant policijos ir teisminį bendradarbiavimą baudžiamosiose bylose, teisinės apsaugos įstatymu ir šiuo įstatymu. 
+
+
+Papildyta straipsniu:
+Nr. XI-1372, 2011-05-12, Žin., 2011, Nr. 65-3046 (2011-05-28), i. k. 1111010ISTA0XI-1372
+ 
 
 
 
@@ -1765,7 +1773,7 @@ Anoniminiai skundai nenagrinėjami, jeigu Valstybinės duomenų apsaugos inspekc
 
 
 
-5) skundo tekstas yra neįskaitomas.
+5) skundo tekstas yra neįskaitomas;
 
 
 
@@ -2000,3 +2008,8 @@ Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 23 ir 26 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1444, 2008-02-01, Žin., 2008, Nr. 22-804 (2008-02-23), i. k. 1081010ISTA00X-1444
 Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1372, 2011-05-12, Žin., 2011, Nr. 65-3046 (2011-05-28), i. k. 1111010ISTA0XI-1372
+Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 1, 2, 3, 6, 20, 21, 22, 24, 25, 26, 27, 29, 33, 35, 36, 38, 40, 45, 53 straipsnių, ketvirtojo ir devintojo skirsnių pavadinimų pakeitimo ir papildymo ir Įstatymo papildymo 13-1, 15-1, 35-1, 41-1 straipsniais įstatymas
