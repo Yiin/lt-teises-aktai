@@ -21,6 +21,10 @@ LIETUVOS RESPUBLIKOS ŠVIETIMO ĮSTATYMO 2, 48 IR 69 STRAIPSNIŲ PAKEITIMO
 
 
 
+Suvestinė redakcija nuo 2011-07-01
+ 
+Įstatymas paskelbtas: Žin. 2009, Nr. 89-3802, i. k. 1091010ISTA00XI-346
+ 
 LIETUVOS RESPUBLIKOS ŠVIETIMO ĮSTATYMO 2, 48 IR 69 STRAIPSNIŲ PAKEITIMO  ĮSTATYMAS
  
 2009 m. liepos 15 d. Nr. XI-346
@@ -186,33 +190,10 @@ Pakeisti 69 straipsnio 7 dalį ir ją išdėstyti taip:
 
 
 
-4 straipsnis. Įstatymo įgyvendinimas
-
-
-1. Švietimo ir mokslo ministerija iki 2009 m. rugpjūčio 1 d. parengia ir patvirtina teisės aktą, reikalingą šio įstatymo 2 straipsnyje išdėstyto Švietimo įstatymo 48 straipsnio 2 dalies nuostatoms įgyvendinti.
-
-
-
-
-2. Mokytojai, šio įstatymo įsigaliojimo metu ugdantys pagal ikimokyklinio ugdymo, priešmokyklinio ugdymo ir bendrojo lavinimo programas, turintys aukštąjį arba aukštesnįjį (specialųjį vidurinį, įgytą iki 1995 metų) išsilavinimą ir neturintys pedagogo kvalifikacijos, ją privalo įgyti per 2 metus nuo šio įstatymo įsigaliojimo.
-
-
-
-
-3. Mokytojai, ugdantys pagal ikimokyklinio ugdymo, priešmokyklinio ugdymo ir bendrojo lavinimo programas ir studijuojantys aukštojoje mokykloje, aukštąjį išsilavinimą ir pedagogo kvalifikaciją privalo įgyti per 2 metus nuo šio įstatymo įsigaliojimo.
-
-
-
-
-4. Mokytojai per šio straipsnio 2 ir 3 dalyse nustatytą laikotarpį neįgiję pedagogo kvalifikacijos ir aukštojo išsilavinimo, atleidžiami Darbo kodekso nustatyta tvarka.
-
-
-
-
-5. Šio straipsnio 2–4 dalių reikalavimai netaikomi mokytojams, kuriems šio įstatymo įsigaliojimo dieną iki teisės gauti visą senatvės pensiją yra likę ne daugiau kaip 5 metai.
+4 straipsnis. Neteko galios nuo 2011-07-01
+Straipsnio naikinimas:
+Nr. XI-1281, 2011-03-17, Žin. 2011, Nr. 38-1804 (2011-03-31), i. k. 1111010ISTA0XI-1281
  
-
-
 
 
 
@@ -232,3 +213,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1281, 2011-03-17, Žin., 2011, Nr. 38-1804 (2011-03-31), i. k. 1111010ISTA0XI-1281
+Lietuvos Respublikos švietimo įstatymo pakeitimo įstatymas
