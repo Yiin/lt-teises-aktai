@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E"
 
 # Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2011-06-30
+Įstatymas netenka galios 2014-01-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2220, 2012-09-18, Žin., 2012, Nr. 110-5564 (2012-09-22), i. k. 1121010ISTA0XI-2220
+Lietuvos Respublikos teisėkūros pagrindų įstatymas
+ 
+Suvestinė redakcija nuo 2011-07-01 iki 2013-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 67-0; Žin. 1993, Nr.12-296, i. k. 0931010ISTA000I-119
  
@@ -130,14 +135,19 @@ Nr. IX-1796, 2003-10-28, Žin., 2003, Nr. 108-4814 (2003-11-19), i. k. 1031010IS
 
 1. Seimo priimti teisės aktai, išskyrus įstatymus, įsigalioja kitą dieną po jų paskelbimo „Valstybės žiniose“, jeigu pačiuose aktuose nenustatyta kita įsigaliojimo tvarka.
 
-2. Seimo nutarimas, kuriuo įvedama karo ar nepaprastoji padėtis, įsigalioja po to, kai jį pasirašo Seimo Pirmininkas ir jis oficialiai paskelbiamas visuomenės informavimo priemonėse.
+2. Seimo nutarimas, kuriuo skelbiama mobilizacija ar demobilizacija, įvedama karo ar nepaprastoji padėtis, įsigalioja po to, kai jį pasirašo Seimo Pirmininkas ir jis oficialiai paskelbiamas visuomenės informavimo priemonėse. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1420, 2011-05-26, Žin., 2011, Nr. 72-3471 (2011-06-14), i. k. 1111010ISTA0XI-1420
  
 
 8 straipsnis. Respublikos Prezidento dekretų įsigaliojimas
 
 1. Respublikos Prezidento dekretai įsigalioja kitą dieną po jų paskelbimo „Valstybės žiniose“, jeigu pačiuose dekretuose nenustatyta kita jų įsigaliojimo data.
 
-2. Respublikos Prezidento dekretas dėl karo ar nepaprastosios padėties įvedimo įsigalioja po jo paskelbimo visuomenės informavimo priemonėse.
+2. Respublikos Prezidento dekretas dėl mobilizacijos paskelbimo, karo ar nepaprastosios padėties įvedimo įsigalioja po jo paskelbimo visuomenės informavimo priemonėse. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1420, 2011-05-26, Žin., 2011, Nr. 72-3471 (2011-06-14), i. k. 1111010ISTA0XI-1420
+ 
 
 3. Respublikos Prezidento dekretas dėl Respublikos Prezidento pavadavimo įsigalioja nuo jo oficialaus paskelbimo „Valstybės žiniose“ ar kitose visuomenės informavimo priemonėse. 
 Papildyta straipsnio dalimi:
@@ -437,4 +447,9 @@ Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-748, 2010-04-13, Žin., 2010, Nr. 48-2298 (2010-04-27), i. k. 1101010ISTA00XI-748
 Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo 12 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1420, 2011-05-26, Žin., 2011, Nr. 72-3471 (2011-06-14), i. k. 1111010ISTA0XI-1420
+Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo 7 ir 8 straipsnių pakeitimo įstatymas
 
