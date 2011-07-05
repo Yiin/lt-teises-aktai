@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4DBDE27621A2"
 
 # Lietuvos Respublikos korupcijos prevencijos įstatymas
 
-Suvestinė redakcija nuo 2011-07-01 iki 2011-07-04
+Suvestinė redakcija nuo 2011-07-05 iki 2012-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 57-2297, i. k. 1021010ISTA00IX-904
  
@@ -53,9 +53,10 @@ Nr. IX-1483, 2003-04-03, Žin., 2003, Nr. 38-1728 (2003-04-24), i. k. 1031010IST
 
 
 
-2. Korupcinio pobūdžio nusikalstamos veikos – kyšininkavimas, tarpininko kyšininkavimas, papirkimas, kitos nusikalstamos veikos, jeigu jos padarytos viešojo administravimo sektoriuje arba teikiant viešąsias paslaugas siekiant sau ar kitiems asmenims naudos: piktnaudžiavimas tarnybine padėtimi arba įgaliojimų viršijimas, piktnaudžiavimas oficialiais įgaliojimais, dokumentų ar matavimo priemonių suklastojimas, sukčiavimas, turto pasisavinimas ar iššvaistymas, tarnybos paslapties atskleidimas, komercinės paslapties atskleidimas, neteisingų duomenų apie pajamas, pelną ar turtą pateikimas, nusikalstamu būdu įgytų pinigų ar turto legalizavimas, kišimasis į valstybės tarnautojo ar viešojo administravimo funkcijas atliekančio asmens veiklą ar kitos nusikalstamos veikos, kai tokių veikų padarymu siekiama ar reikalaujama kyšio, papirkimo arba nuslėpti ar užmaskuoti kyšininkavimą ar papirkimą.
+2. Korupcinio pobūdžio nusikalstamos veikos – kyšininkavimas, prekyba poveikiu, papirkimas, kitos nusikalstamos veikos, jeigu jos padarytos viešojo administravimo sektoriuje arba teikiant viešąsias paslaugas siekiant sau ar kitiems asmenims naudos: piktnaudžiavimas tarnybine padėtimi arba įgaliojimų viršijimas, piktnaudžiavimas oficialiais įgaliojimais, dokumentų ar matavimo priemonių suklastojimas, sukčiavimas, turto pasisavinimas ar iššvaistymas, tarnybos paslapties atskleidimas, komercinės paslapties atskleidimas, neteisingų duomenų apie pajamas, pelną ar turtą pateikimas, nusikalstamu būdu įgytų pinigų ar turto legalizavimas, kišimasis į valstybės tarnautojo ar viešojo administravimo funkcijas atliekančio asmens veiklą ar kitos nusikalstamos veikos, kai tokių veikų padarymu siekiama ar reikalaujama kyšio, papirkimo arba nuslėpti ar užmaskuoti kyšininkavimą ar papirkimą. 
 Straipsnio dalies pakeitimai:
 Nr. IX-1483, 2003-04-03, Žin., 2003, Nr. 38-1728 (2003-04-24), i. k. 1031010ISTA0IX-1483
+Nr. XI-1475, 2011-06-21, Žin., 2011, Nr. 81-3962 (2011-07-05), i. k. 1111010ISTA0XI-1475
  
 
 
@@ -985,3 +986,8 @@ Lietuvos Respublikos korupcijos prevencijos įstatymo 5 ir 8 straipsnių pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1367, 2011-04-28, Žin., 2011, Nr. 57-2703 (2011-05-12), i. k. 1111010ISTA0XI-1367
 Lietuvos Respublikos korupcijos prevencijos įstatymo 5, 9 straipsnių pakeitimo ir įstatymo papildymo 9-1 straipsniu įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1475, 2011-06-21, Žin., 2011, Nr. 81-3962 (2011-07-05), i. k. 1111010ISTA0XI-1475
+Lietuvos Respublikos korupcijos prevencijos įstatymo 2 straipsnio pakeitimo įstatymas
