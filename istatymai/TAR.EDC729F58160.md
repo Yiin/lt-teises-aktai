@@ -21,7 +21,7 @@ ATSAKOMYBĖS BENDROVIŲ JUNGIMOSI ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2010-10-01 iki 2011-07-04
+Suvestinė redakcija nuo 2011-07-05 iki 2012-06-30
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 140-5747, i. k. 1071010ISTA00X-1367
  
@@ -308,7 +308,41 @@ Nr. XI-567, 2009-12-15, Žin., 2009, Nr. 154-6948 (2009-12-28), i. k. 1091010IST
 
 
 
-4. Be Lietuvos Respublikos teisės normų, reglamentuojančių akcinių bendrovių ir uždarųjų akcinių bendrovių reorganizavimą, reikalaujamų paskelbti dokumentų, duomenų ir informacijos, juridinių asmenų registro tvarkytojas taip pat užtikrina kiekvienos besijungiančios bendrovės duomenų – pavadinimo, teisinės formos, buveinės – bei kiekvienos besijungiančios akcinės bendrovės ar uždarosios akcinės bendrovės pateiktų šio straipsnio 3 dalyje nurodytų duomenų skelbimą.
+4. Juridinių asmenų registro tvarkytojas paskelbia apie gautas jungimosi sąlygas. 
+Papildyta straipsnio dalimi:
+Nr. XI-1490, 2011-06-21, Žin., 2011, Nr. 81-3967 (2011-07-05), i. k. 1111010ISTA0XI-1490
+ 
+
+
+
+
+5. Šio straipsnio 4 dalyje nustatytas reikalavimas netaikomas, jeigu besijungianti akcinė bendrovė ar uždaroji akcinė bendrovė ne vėliau kaip pirmą viešo paskelbimo apie parengtas jungimosi sąlygas besijungiančios bendrovės įstatuose nurodytame šaltinyje dieną juridinių asmenų registro tvarkytojui kartu su šio straipsnio 3 dalyje nurodytais dokumentais pateikia besijungiančios bendrovės interneto svetainės, kurioje skelbiamos jungimosi sąlygos, nuorodą, suteikiančią prieigą prie šių jungimosi sąlygų ir jų paskelbimo besijungiančios bendrovės interneto svetainėje datos. Tokiu atveju juridinių asmenų registro tvarkytojas paskelbia besijungiančios bendrovės pateiktą interneto svetainės nuorodą. 
+Papildyta straipsnio dalimi:
+Nr. XI-1490, 2011-06-21, Žin., 2011, Nr. 81-3967 (2011-07-05), i. k. 1111010ISTA0XI-1490
+ 
+
+
+
+
+6. Šio straipsnio 5 dalyje nurodytu atveju besijungianti akcinė bendrovė ar uždaroji akcinė bendrovė visą laikotarpį, prasidedantį ne vėliau kaip pirmą viešo paskelbimo apie parengtas jungimosi sąlygas besijungiančios bendrovės įstatuose nurodytame šaltinyje dieną ir pasibaigiantį ne anksčiau kaip jungimosi užbaigimo dieną, jungimosi sąlygas privalo viešai ir neatlygintinai skelbti savo interneto svetainėje ir nurodyti jų paskelbimo šioje interneto svetainėje datą. 
+Papildyta straipsnio dalimi:
+Nr. XI-1490, 2011-06-21, Žin., 2011, Nr. 81-3967 (2011-07-05), i. k. 1111010ISTA0XI-1490
+ 
+
+
+
+
+7. Juridinių asmenų registro tvarkytojas informaciją apie gautas jungimosi sąlygas ar besijungiančios akcinės bendrovės ar uždarosios akcinės bendrovės pateiktą interneto svetainės nuorodą skelbia iki jungimosi užbaigimo. Su šia informacija ar nuoroda kiekvienas asmuo turi teisę susipažinti neatlygintinai. 
+Papildyta straipsnio dalimi:
+Nr. XI-1490, 2011-06-21, Žin., 2011, Nr. 81-3967 (2011-07-05), i. k. 1111010ISTA0XI-1490
+ 
+
+
+
+
+8. Be Lietuvos Respublikos teisės normų, reglamentuojančių akcinių bendrovių ir uždarųjų akcinių bendrovių reorganizavimą, reikalaujamų paskelbti dokumentų, duomenų ir informacijos, juridinių asmenų registro tvarkytojas taip pat užtikrina kiekvienos besijungiančios bendrovės duomenų – pavadinimo, teisinės formos, buveinės – bei kiekvienos besijungiančios akcinės bendrovės ar uždarosios akcinės bendrovės pateiktų šio straipsnio 3 dalyje nurodytų duomenų skelbimą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1490, 2011-06-21, Žin., 2011, Nr. 81-3967 (2011-07-05), i. k. 1111010ISTA0XI-1490
  
 
 
@@ -483,7 +517,9 @@ Nr. XI-567, 2009-12-15, Žin., 2009, Nr. 154-6948 (2009-12-28), i. k. 1091010IST
 
 
 
-2. Jei įsigyjanti bendrovė yra ne mažiau kaip 90 procentų įsigyjamos bendrovės dalių, išreiškiančių įsigyjamos bendrovės kapitalą, ar kitų vertybinių popierių, suteikiančių teisę balsuoti šios bendrovės visuotiniame dalyvių susirinkime, savininkė, šio įstatymo 4 straipsnyje nurodytos jungimosi sąlygų vertinimo ataskaitos nereikalaujama, jei pagal nors vienai iš besijungiančių bendrovių valstybės narės taikytiną teisę nenustatyta kitaip.
+2. Jeigu įsigyjanti bendrovė yra ne mažiau kaip 90 procentų įsigyjamos bendrovės dalių, išreiškiančių įsigyjamos bendrovės kapitalą, ar kitų vertybinių popierių, suteikiančių teisę balsuoti įsigyjamos bendrovės visuotiniame dalyvių susirinkime, savininkė, šio įstatymo 4 straipsnyje nurodytos jungimosi sąlygų vertinimo ataskaitos nereikalaujama, jeigu pagal nors vienai iš besijungiančių bendrovių valstybės narės taikytiną teisę nenustatyta kitaip.
+Straipsnio dalies pakeitimai:
+Nr. XI-1490, 2011-06-21, Žin., 2011, Nr. 81-3967 (2011-07-05), i. k. 1111010ISTA0XI-1490
  
 
 
@@ -514,13 +550,27 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
-Lietuvos Respublikos  vienos valstybės ribas peržengiančio  ribotos atsakomybės bendrovių  jungimosi įstatymo
+ 
+ 
+Lietuvos Respublikos vienos valstybės 
+ribas peržengiančio ribotos atsakomybės
+bendrovių jungimosi įstatymo 
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
-2005 m. spalio 26 d. Europos Parlamento ir Tarybos direktyva 2005/56/EB dėl ribotos atsakomybės bendrovių jungimųsi, peržengiančių vienos valstybės ribas (OL 2005 L 310, p. 1).
- 
+
+
+1. 2005 m. spalio 26 d. Europos Parlamento ir Tarybos direktyva 2005/56/EB dėl ribotos atsakomybės bendrovių jungimųsi, peržengiančių vienos valstybės ribas (OL 2005 L 310, p. 1).
+
+
+
+
+2. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/109/EB, iš dalies keičianti Tarybos direktyvų 77/91/EEB, 78/855/EEB ir 82/891/EEB bei Direktyvos 2005/56/EB nuostatas dėl ataskaitų bei dokumentų rengimo ir teikimo reikalavimų jungiant ir skaidant bendroves (OL 2009 L 259, p. 14).
+
+
+Priedo pakeitimai:
+Nr. XI-1490, 2011-06-21, Žin., 2011, Nr. 81-3967 (2011-07-05), i. k. 1111010ISTA0XI-1490
  
  
  
@@ -530,3 +580,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-567, 2009-12-15, Žin., 2009, Nr. 154-6948 (2009-12-28), i. k. 1091010ISTA00XI-567
 Lietuvos Respublikos vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi įstatymo 2, 6 straipsnių papildymo ir pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1490, 2011-06-21, Žin., 2011, Nr. 81-3967 (2011-07-05), i. k. 1111010ISTA0XI-1490
+Lietuvos Respublikos vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi įstatymo 6, 11 straipsnių pakeitimo ir papildymo, Įstatymo priedo pakeitimo įstatymas
