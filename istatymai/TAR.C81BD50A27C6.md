@@ -294,11 +294,6 @@ sprendimas atsisakyti išduoti (perregistruoti) licenciją, sustabdyti,
 atnaujinti ar panaikinti jos galiojimą gali būti įstatymų nustatyta tvarka
 apskųstas per trisdešimt kalendorinių dienų nuo sprendimo priėmimo dienos.
 Apskundimas Akreditavimo tarnybos sprendimų vykdymo nesustabdo.
-            16. Apie licencijos
-išdavimą, jos galiojimo sustabdymą, atnaujinimą ar panaikinimą Akreditavimo
-tarnyba skelbia “Valstybės žiniose”.
-16
-dalies redakcija nuo 2011 m. sausio 1 d.:
 16. Apie licencijos išdavimą, jos
 galiojimo sustabdymą, atnaujinimą ar panaikinimą Akreditavimo tarnyba skelbia
 savo interneto svetainėje.
@@ -465,10 +460,10 @@ straipsnis. Paslaugų kainų valstybinis reguliavimas
 įstaigų teikiamų paslaugų kainas nustato jų valdymo organai ar savininkai šių
 įstaigų įstatuose nustatyta tvarka.
 3. LNSS įstaigos
-privalo teikti fiziniams ir juridiniams asmenims rašytinę informaciją,
-įskaitant ir konfidencialią, apie pacientą ir jam suteiktas paslaugas Pacientų
-teisių ir žalos sveikatai atlyginimo įstatymo ir kitų teisės aktų nustatyta
-tvarka ir pagrindais.
+privalo teikti fiziniams ir juridiniams asmenims rašytinę informaciją, įskaitant
+ir konfidencialią, apie pacientą ir jam suteiktas paslaugas Pacientų teisių ir
+žalos sveikatai atlyginimo įstatymo ir kitų teisės aktų nustatyta tvarka ir
+pagrindais.
 4. Šio
 straipsnio 3 dalyje nurodytos informacijos teikimo ir šios paslaugos apmokėjimo
 tvarką nustato sveikatos apsaugos ministras.
@@ -506,9 +501,9 @@ darbą priimami viešo konkurso būdu. Universitetų ligoninių padalinių ir fi
 vadovai į darbą priimami viešo konkurso būdu penkeriems metams.Viešą konkursą
 organizuoja ir jo nuostatus tvirtina atitinkamos įstaigos vadovas. Įstaigos
 vadovas turi teisę organizuoti padalinių ir filialų vadovų atestaciją.
-3. LNSS
-biudžetinių ir viešųjų įstaigų, jų padalinių ir filialų vadovais gali būti asmenys,
-kurie atitinka Sveikatos apsaugos ministerijos patvirtintus kvalifikacinius
+3. LNSS biudžetinių
+ir viešųjų įstaigų, jų padalinių ir filialų vadovais gali būti asmenys, kurie
+atitinka Sveikatos apsaugos ministerijos patvirtintus kvalifikacinius
 reikalavimus. LNSS biudžetinių ir viešųjų įstaigų vadovai privalo periodiškai
 tobulinti vadovavimo įstaigai gebėjimus. Privalomo tobulinimosi tvarka
 nustatoma sveikatos apsaugos ministro įsakymu.
@@ -529,11 +524,91 @@ straipsnio 1–5 dalių nuostatos netaikomos tų LNSS biudžetinių ir viešųj�
 įstaigų, jų padalinių ir filialų vadovams, kurių steigėja yra Krašto apsaugos
 ministerija ar Vidaus reikalų ministerija.
 Straipsnio pakeitimai:
-Nr. X-1044, 2007-01-18,
-Žin., 2007, Nr. 17-630 (2007-02-08)
+Nr. X-1044,
+2007-01-18, Žin., 2007, Nr. 17-630 (2007-02-08)
 Nr.
 X-1204,
 2007-06-26, Žin., 2007, Nr. 72-2834 (2007-06-30)
+ 
+Įstatymas
+papildomas 151 straipsniu nuo 2012
+m. sausio 1 d.:
+151 straipsnis. LNSS viešųjų įstaigų vadovų ir jų
+pavaduotojų darbo apmokėjimo tvarka
+1. LNSS viešųjų įstaigų vadovų ir jų
+pavaduotojų (toliau – vadovaujantieji darbuotojai) darbo apmokėjimo sąlygos
+nustatomos šiame straipsnyje nustatyta tvarka. Vadovaujančiųjų darbuotojų
+mėnesinė alga susideda iš pastoviosios ir kintamosios algos dalių.
+2. LNSS stacionarinių viešųjų įstaigų,
+teikiančių asmens sveikatos priežiūros paslaugas, kurių išlaidos yra apmokamos
+(kompensuojamos) iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, vadovų
+mėnesinės algos pastoviosios dalies dydis nustatomas atsižvelgiant į įstaigos
+lygmenį ir apskaičiuojamas valstybės
+politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos
+(atlyginimo) bazinį dydį dauginant iš koeficiento:
+1) LNSS rajono lygmens viešųjų įstaigų
+vadovų – 12; 
+2) LNSS regiono lygmens viešųjų įstaigų
+vadovų – 13,8;
+3) LNSS respublikos lygmens viešųjų
+įstaigų (išskyrus universiteto ligonines) vadovų – 15,6; LNSS respublikos
+lygmens universiteto ligoninių vadovų – 17,6. 
+3. LNSS viešųjų įstaigų, kurios
+neskirstomos į Sveikatos sistemos įstatymo 
+12 straipsnio 3 dalyje nurodytus lygmenis, tačiau nurodytos šio įstatymo 39
+straipsnyje, vadovų mėnesinės algos pastoviosios dalies dydis nustatomas
+atsižvelgiant į praėjusių kalendorinių metų įstaigos vidutinį darbuotojų
+skaičių ir apskaičiuojamas valstybės
+politikų, teisėjų, valstybės pareigūnų ir valstybės tarnautojų pareiginės algos
+(atlyginimo) bazinį dydį dauginant iš koeficiento:
+1) LNSS viešųjų įstaigų, kuriose dirba iki
+10 darbuotojų, vadovų – 6; 
+2) LNSS viešųjų įstaigų, kuriose dirba nuo
+11 iki 100 darbuotojų, vadovų – 7; 
+3) LNSS viešųjų įstaigų, kuriose dirba nuo
+101 iki 200 darbuotojų, vadovų – 8; 
+4) LNSS viešųjų įstaigų, kuriose dirba nuo
+201 iki 300 darbuotojų, vadovų – 9; 
+5) LNSS viešųjų įstaigų, kuriose dirba nuo
+301 iki 500 darbuotojų, vadovų – 11; 
+6) LNSS viešųjų įstaigų, kuriose dirba
+daugiau negu 500 darbuotojų, vadovų – 13,8.
+4. Naujai įsteigtų šio straipsnio 3 dalyje nurodytų
+LNSS viešųjų įstaigų vadovų mėnesinės algos, mokamos pirmaisiais įstaigos
+veiklos metais, pastoviosios dalies dydį nustato steigėjas (steigėjai),
+atsižvelgdamas (atsižvelgdami) į šio straipsnio 3 dalyje nurodytus įstaigų
+skirstymo kriterijus.
+5.
+LNSS viešųjų įstaigų vadovų pavaduotojų mėnesinės algos pastoviosios dalies
+dydis nustatomas 20–50 procentų mažesnis už įstaigos vadovui nustatytą
+mėnesinės algos pastoviosios dalies dydį.
+6.
+LNSS viešųjų įstaigų vadovaujančių darbuotojų mėnesinės algos kintamosios
+dalies dydis priklauso nuo praėjusių kalendorinių metų įstaigos veiklos
+finansinių rezultatų ir nustatomas vieneriems metams. Įstaigos veiklos
+finansinių rezultatų vertinimo kiekybinius ir kokybinius rodiklius ir vadovaujančiųjų
+darbuotojų mėnesinės algos kintamosios dalies nustatymo tvarką tvirtina
+sveikatos apsaugos ministras. Visais atvejais mėnesinės algos kintamosios
+dalies dydis negali viršyti 20 procentų vadovaujančiajam darbuotojui nustatytos
+mėnesinės algos pastoviosios dalies dydžio. Mėnesinės algos kintamoji dalis
+negali būti nustatoma, jeigu praėjusių metų įstaigos veiklos finansiniai
+rezultatai yra neigiami.  
+7. LNSS viešųjų
+įstaigų vadovaujančiajam darbuotojui už gerus darbo rezultatus ir gerą darbo
+pareigų atlikimą paskutinį kalendorinių metų mėnesį iš sutaupytų viešosios
+įstaigos lėšų, skirtų darbo užmokesčiui, gali būti išmokama premija, kuri
+negali būti didesnė už tą mėnesį mokamos mėnesinės algos pastoviosios dalies
+dydį.
+8. LNSS viešųjų
+įstaigų vadovaujantiesiems darbuotojams, su kuriais nutraukiama darbo sutartis
+šalių susitarimu pagal Darbo
+kodekso 125 straipsnį, gali būti išmokamos
+kompensacijos, kurių suma negali viršyti trijų jų vidutinių mėnesinių darbo
+užmokesčių, apskaičiuotų Vyriausybės nustatyta tvarka.
+Įstatymas
+papildytas straipsniu:
+Nr. XI-1563,
+2011-06-30, Žin., 2011, Nr. 86-4177 (2011-07-13)
             
             16
 straipsnis. Įstaigų raštvedyba
@@ -606,10 +681,10 @@ LNSS įstaigos
  
             20 straipsnis. LNSS biudžetinės įstaigos
 samprata ir steigėjai
-            1. LNSS biudžetinė
-įstaiga yra iš valstybės ar savivaldybių biudžetų visiškai arba iš dalies
-išlaikoma įstaiga. Ji tai pat gali gauti lėšų iš privalomojo sveikatos draudimo
-fondo, sveikatos fondų, gauti kitų nebiudžetinių lėšų.
+            1. LNSS
+biudžetinė įstaiga yra iš valstybės ar savivaldybių biudžetų visiškai arba iš
+dalies išlaikoma įstaiga. Ji tai pat gali gauti lėšų iš privalomojo sveikatos
+draudimo fondo, sveikatos fondų, gauti kitų nebiudžetinių lėšų.
 2. LNSS
 biudžetinių įstaigų, išlaikomų iš valstybės biudžeto, steigėjai gali būti
 Vyriausybė, Sveikatos apsaugos ministerija, valstybinės tarnybos prie Sveikatos
@@ -702,8 +777,8 @@ aktų nustatyta tvarka.
 savivaldybių ir valstybės visuomenės sveikatos priežiūros biudžetinių įstaigų
 pavyzdinius nuostatus tvirtina Sveikatos apsaugos ministerija.
 Straipsnio pakeitimai:
-Nr. XI-767,
-2010-04-20, Žin., 2010, Nr. 51-2477 (2010-05-04)
+Nr. XI-767, 2010-04-20,
+Žin., 2010, Nr. 51-2477 (2010-05-04)
             
 25 straipsnis. Uždarosios biudžetinės įstaigos
 samprata, jos steigimo ir veiklos ypatumai
@@ -716,9 +791,9 @@ nustatytas paslaugas ir vykdanti sveikatos programas.
 esančių laisvės atėmimo ir kardomojo kalinimo vietose, policijos areštinėse,
 skirstymo punktuose, psichikos ligonių, padariusių visuomenei pavojingą veiką
 ir pripažintų nepakaltinamais, nelegalių imigrantų asmens sveikatos priežiūrai.
-Šios įstaigos taip pat vykdo visuomenės sveikatos priežiūros priemones,
-įrašytas į Vidaus reikalų ministerijos ar Krašto apsaugos ministerijos ir
-Sveikatos apsaugos ministerijos patvirtintą sąrašą. 
+Šios įstaigos taip pat vykdo visuomenės sveikatos priežiūros priemones, įrašytas
+į Vidaus reikalų ministerijos ar Krašto apsaugos ministerijos ir Sveikatos
+apsaugos ministerijos patvirtintą sąrašą. 
             3. Teisę steigti uždarąją
 biudžetinę įstaigą psichikos ligonių, padariusių visuomenei pavojingą veiką ir
 pripažintų nepakaltinamais, sveikatos priežiūrai turi Sveikatos apsaugos
@@ -748,7 +823,8 @@ pelno įstaiga. Gautų pajamų ji negali skirstyti steigėjams, o jas naudoja ti
 straipsnis. LNSS viešosios įstaigos steigėjai
             1. LNSS
 viešosios įstaigos steigėjais gali būti:
-            1) Sveikatos apsaugos ministerija;
+            1) Sveikatos apsaugos
+ministerija;
             2) (neteko galios nuo 2010
 m. liepos 1 d.);
             3) savivaldybių tarybos;
@@ -760,8 +836,8 @@ leidimą.
             2. LNSS įstaigų steigėjai jų
 kompetencijai priskirtas funkcijas gali įgalioti vykdyti ir kitas institucijas.
 Straipsnio pakeitimai:
-Nr. XI-767, 2010-04-20,
-Žin., 2010, Nr. 51-2477 (2010-05-04)
+Nr. XI-767,
+2010-04-20, Žin., 2010, Nr. 51-2477 (2010-05-04)
             
             28
 straipsnis. LNSS viešosios įstaigos steigėjo (steigėjų) kompetencija 
@@ -777,8 +853,8 @@ LNSS viešosios įstaigos veiklą;
 nustatyti ar dalyvauti nustatant paslaugų kainas bei jų apskaičiavimo
 metodikas;
             5) nustatyti LNSS viešosios
-įstaigos išlaidų, skirtų darbo užmokesčiui ir medikamentams, normatyvus arba
-pavesti juos patvirtinti pačiai LNSS viešajai įstaigai;
+įstaigos išlaidų, skirtų darbo užmokesčiui ir medikamentams, normatyvus arba pavesti
+juos patvirtinti pačiai LNSS viešajai įstaigai;
             6) organizuoti viešą
 konkursą LNSS viešosios įstaigos administracijos vadovo pareigoms eiti ir
 tvirtinti šio konkurso nuostatus. Sudaryti su konkursą laimėjusiu asmeniu darbo
@@ -802,7 +878,8 @@ dokumentas, kuriuo LNSS viešoji įstaiga vadovaujasi.
             1) įstaigos pavadinimas;
             2) buveinė;
             3) įstaigos steigėjai;
-            4) steigėjų teisės, pareigos;
+            4) steigėjų teisės,
+pareigos;
             5) įstaigos veiklos sritis,
 tikslai ir uždaviniai;
             6) steigėjų susirinkimo
@@ -897,14 +974,14 @@ vieno savivaldybės, kurios teritorijoje yra įstaiga, tarybos paskirto
 visuomenės atstovo ir įstaigos sveikatos priežiūros specialistų profesinių
 sąjungų paskirto vieno atstovo. 
             4. Valstybės aukštųjų
-mokyklų ar valstybinių mokslo įstaigų ir Sveikatos apsaugos ministerijos
-įsteigtų įstaigų stebėtojų taryba sudaroma iš dviejų Sveikatos apsaugos
-ministerijos paskirtų atstovų, valstybės aukštųjų mokyklų ar valstybinių mokslo
-įstaigų vadovų paskirtų dviejų atstovų; vieno savivaldybės, kurios teritorijoje
-yra valstybės aukštoji mokykla, tarybos paskirto tarybos nario; vieno
-savivaldybės, kurios teritorijoje yra valstybinė mokslo įstaiga, tarybos
-paskirto visuomenės atstovo ir vieno šios įstaigos sveikatos priežiūros
-specialistų profesinių sąjungų paskirto atstovo. 
+mokyklų ar valstybinių mokslo įstaigų ir Sveikatos apsaugos ministerijos įsteigtų
+įstaigų stebėtojų taryba sudaroma iš dviejų Sveikatos apsaugos ministerijos
+paskirtų atstovų, valstybės aukštųjų mokyklų ar valstybinių mokslo įstaigų
+vadovų paskirtų dviejų atstovų; vieno savivaldybės, kurios teritorijoje yra
+valstybės aukštoji mokykla, tarybos paskirto tarybos nario; vieno savivaldybės,
+kurios teritorijoje yra valstybinė mokslo įstaiga, tarybos paskirto visuomenės
+atstovo ir vieno šios įstaigos sveikatos priežiūros specialistų profesinių
+sąjungų paskirto atstovo. 
             5. Į stebėtojų tarybą negali
 įeiti asmenys, kurie dirba įstaigos administracijoje, Valstybinėje ar
 teritorinėje ligonių kasoje, taip pat sveikatos draudimo įmonėje.
@@ -948,10 +1025,10 @@ etikos komisijos pavyzdiniai nuostatai.
             
             36
 straipsnis. Viešosios įstaigos turtas
-            1. Viešosios
-įstaigos turtą sudaro ilgalaikis materialusis turtas, turtas, gautas kaip
-labdara ar parama, turtas, gautas pagal testamentą, finansiniai ištekliai ir
-kitas su įstaigos veikla susijęs teisėtai įgytas turtas.
+            1. Viešosios įstaigos
+turtą sudaro ilgalaikis materialusis turtas, turtas, gautas kaip labdara ar
+parama, turtas, gautas pagal testamentą, finansiniai ištekliai ir kitas su
+įstaigos veikla susijęs teisėtai įgytas turtas.
             2. Valstybės ir savivaldybių
 institucijos (steigėjai) turtą viešosioms įstaigoms perduoda panaudos pagrindu
 įstatymų ir Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
@@ -1025,8 +1102,8 @@ savivaldybių asmens sveikatos priežiūros viešųjų įstaigų nomenklatūra:
 1) pirminės
 sveikatos priežiūros centrai;
 2) poliklinikos;
-3) ambulatorijos;
-
+3)
+ambulatorijos; 
 4) psichikos
 sveikatos centrai;
 5) šeimos
@@ -1229,15 +1306,15 @@ paguldyti į stacionarinę įstaigą asmenį be jo sutikimo.
             2. Draudžiama paguldyti į
 stacionarinę įstaigą nepilnametį ar neveiksnų asmenį be jo įstatyminių atstovų
 sutikimo.
-            3. Paciento ar jo
-įstatyminių atstovų sutikimo nereikia:
+            3. Paciento ar jo įstatyminių
+atstovų sutikimo nereikia:
             1) kai yra grėsmė asmens
 gyvybei ir jis pats dėl to negali tokio sutikimo duoti;
             2) kai yra grėsmė
 nepilnamečio ar neveiksnaus asmens gyvybei, o jo įstatyminių atstovų negalima
 greitai surasti;
-            3) kitais įstatymų
-numatytais atvejais.
+            3) kitais įstatymų numatytais
+atvejais.
             4. Asmens skubaus paguldymo
 į įstaigą tvarką nustato Sveikatos apsaugos ministerija.
             
@@ -1259,8 +1336,8 @@ straipsnis. Asmens sveikatos priežiūros įstaigos pareigos pacientui mirus
 mirus, įstaiga privalo ne vėliau kaip per dvylika valandų pranešti apie tai jo
 šeimos nariams, jo įstatyminiams atstovams arba paciento prieš mirtį
 nurodytiems asmenims.
-            2. Paciento mirties įstaigoje
-patvirtinimo tvarką nustato Sveikatos apsaugos ministerija.
+            2. Paciento mirties
+įstaigoje patvirtinimo tvarką nustato Sveikatos apsaugos ministerija.
             3. Pacientui mirus
 įstaigoje, patologoanatominis jo lavono tyrimas daromas, jei:
             1) reikalauja mirusiojo
@@ -1353,21 +1430,20 @@ ministro paskirti pareigūnai;
             2) Valstybinė medicininio
 audito inspekcija - asmens sveikatos priežiūros paslaugų prieinamumo, kokybės
 (tinkamumo) ir ekonominio efektyvumo valstybinę kontrolę;
-            3) Valstybinė ir teritorinė
-ligonių kasos - asmens sveikatos priežiūros paslaugų, apmokamų iš privalomojo
-sveikatos draudimo fondo biudžeto, kiekio ir kokybės kontrolę ir privalomojo
-sveikatos draudimo fondo lėšų naudojimo finansinę bei ekonominę analizę
-įstaigose, kurios sudariusios sutartis su teritorinėmis ligonių kasomis dėl
-paslaugų teikimo ir kompensavimo;
+            3) Valstybinė ir teritorinė ligonių
+kasos - asmens sveikatos priežiūros paslaugų, apmokamų iš privalomojo sveikatos
+draudimo fondo biudžeto, kiekio ir kokybės kontrolę ir privalomojo sveikatos
+draudimo fondo lėšų naudojimo finansinę bei ekonominę analizę įstaigose, kurios
+sudariusios sutartis su teritorinėmis ligonių kasomis dėl paslaugų teikimo ir
+kompensavimo;
             4) Lietuvos medicinos etikos
 komitetas - asmens sveikatos priežiūros įstaigos teikiamų paslaugų atitikimo
 medicinos etikos reikalavimams valstybinę kontrolę;
-5) Valstybinė
-visuomenės sveikatos priežiūros tarnyba -
-paslaugų, teikiamų visuomenės sveikatos priežiūros įstaigose, prieinamumo,
-tinkamumo ir efektyvumo valstybinę kontrolę, sveikatos priežiūros, švietimo,
-socialinės globos ir rūpybos  įstaigų valstybinę visuomenės sveikatos saugos
-kontrolę.
+5) Valstybinė visuomenės
+sveikatos priežiūros tarnyba - paslaugų, teikiamų
+visuomenės sveikatos priežiūros įstaigose, prieinamumo, tinkamumo ir efektyvumo
+valstybinę kontrolę, sveikatos priežiūros, švietimo, socialinės globos ir
+rūpybos  įstaigų valstybinę visuomenės sveikatos saugos kontrolę.
             2. Valstybinė paslaugų
 kontrolė sveikatos priežiūros įstaigose, kurių steigėjai yra Krašto apsaugos ar
 Vidaus reikalų ministerijos, atliekama Vyriausybės ar jos įgaliotų institucijų
@@ -1376,8 +1452,8 @@ Straipsnio pakeitimai:
 Nr. VIII-1800, 2000.07.04, Žin., 2000,
 Nr.61-1811 (2000.07.26)
  
-53 straipsnis. Valstybės institucijų, kontroliuojančių
-paslaugų teikimą, teisės ir pareigos
+53 straipsnis. Valstybės institucijų,
+kontroliuojančių paslaugų teikimą, teisės ir pareigos
             1. Valstybės
 institucijų, nurodytų šio įstatymo 53 straipsnyje, vadovai ar jų paskirti
 pareigūnai (toliau - pareigūnai) turi teisę:
@@ -1400,11 +1476,11 @@ administracijos vadovo laikotarpiui iki vieno mėnesio nušalinti sveikatos
 priežiūros specialistus ir patikrinti jų profesinę kompetenciją, jei buvo
 nustatyti šių specialistų profesinės veiklos trūkumai, galėję lemti ar lėmę
 žalą ar pavojų pacientų sveikatai, arba jei sveikatos priežiūros specialistų
-kvalifikacija neatitinka nustatytų reikalavimų, arba šie specialistai dėl
-sveikatos būklės negali atlikti savo pareigų. Sveikatos priežiūros specialistų
-profesinės kompetencijos patikrinimo tvarką nustato Sveikatos apsaugos
-ministerija. Nušalinimo nuo darbo laikotarpiu sveikatos priežiūros specialistui
-darbo užmokesčio mokėjimas sustabdomas; 
+kvalifikacija neatitinka nustatytų reikalavimų, arba šie specialistai dėl sveikatos
+būklės negali atlikti savo pareigų. Sveikatos priežiūros specialistų profesinės
+kompetencijos patikrinimo tvarką nustato Sveikatos apsaugos ministerija.
+Nušalinimo nuo darbo laikotarpiu sveikatos priežiūros specialistui darbo
+užmokesčio mokėjimas sustabdomas; 
             6) įstatymų nustatyta tvarka
 patraukti įstaigos darbuotojus atsakomybėn už sveikatinimo įstatymų ir kitų
 teisės aktų pažeidimus.
@@ -1454,7 +1530,8 @@ nevykdantys priimtų pagal šį įstatymą sprendimų sustabdyti visų ar dalies
 paslaugų teikimą, atsako įstatymų nustatyta tvarka.
             4. Sustabdžius asmens
 sveikatos priežiūros įstaigoje paslaugų teikimą, įstaigos pacientai Sveikatos
-apsaugos ministerijos nustatyta tvarka perkeliami (perregistruojami) į kitas įstaigas.
+apsaugos ministerijos nustatyta tvarka perkeliami (perregistruojami) į kitas
+įstaigas.
             5. Įstaiga per šio
 straipsnio 1 dalyje nurodytų valstybės institucijų nustatytą terminą privalo
 pašalinti trūkumus. Pašalinus trūkumus, įstaigos veikla šio straipsnio 1 dalyje
@@ -1509,8 +1586,8 @@ valdymo organų nariais ir kitais darbuotojais.
 administratoriui neprivalomi įstaigos steigėjo ar savininko sprendimai,
 išskyrus šio straipsnio 5 dalyje nurodytus atvejus.
             5. Laikinasis
-administratorius be įstaigos steigėjo ar savininko įgaliojimų ar sutikimo
-negali parduoti ar kitaip perleisti, įkeisti turto, reorganizuoti ar likviduoti
+administratorius be įstaigos steigėjo ar savininko įgaliojimų ar sutikimo negali
+parduoti ar kitaip perleisti, įkeisti turto, reorganizuoti ar likviduoti
 įstaigos, spręsti kitų įstaigos steigėjo ar savininko išimtinei kompetencijai
 priklausančių klausimų.
             6. Apie administravimo eigą
@@ -1536,8 +1613,8 @@ laikinasis administratorius sveikatos apsaugos ministro įsakymu atšaukiamas
 prieš terminą, jeigu;
             1) Akreditavimo tarnyba
 nustato, kad įstaiga gali patikimai ir stabiliai veikti;
-            2) panaikintas įstaigos
-licencijos galiojimas.
+            2) panaikintas įstaigos licencijos
+galiojimas.
             
             58
 straipsnis. Įstaigų veiklą kontroliuojančių valstybės institucijų teisės
@@ -1596,12 +1673,12 @@ institucijų nustatyta tvarka.
  
 61
 straipsnis. Baigiamosios nuostatos
-1.Veikiančios
-asmens ir visuomenės sveikatos priežiūros įstaigos vykdomai sveikatos
-priežiūros veiklai turi gauti licencijas iki 2002 metų gruodžio 31 dienos pagal
-Lietuvos Respublikos sveikatos apsaugos ministerijos patvirtintą planą -
-grafiką. Šių įstaigų atliekama sveikatos priežiūra be licencijos nuo 2003 metų
-sausio 1 dienos yra neteisėta.
+1.Veikiančios asmens
+ir visuomenės sveikatos priežiūros įstaigos vykdomai sveikatos priežiūros
+veiklai turi gauti licencijas iki 2002 metų gruodžio 31 dienos pagal Lietuvos
+Respublikos sveikatos apsaugos ministerijos patvirtintą planą - grafiką. Šių
+įstaigų atliekama sveikatos priežiūra be licencijos nuo 2003 metų sausio 1
+dienos yra neteisėta.
 2. LNSS viešųjų
 ir biudžetinių įstaigų vadovai turi būti atestuojami per trejus metus nuo šio
 įstatymo įsigaliojimo.
@@ -1759,11 +1836,21 @@ XI-1122,
 SVEIKATOS
 PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+16.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-1563,
+2011-06-30, Žin., 2011, Nr. 86-4177 (2011-07-13)
+SVEIKATOS
+PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO PAPILDYMO 15(1) STRAIPSNIU ĮSTATYMAS
+Šis
+įstatymas, išskyrus 2 straipsnio 2 dalį, įsigalioja 2012 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2010-11-30)
-         
-        autrap@lrs.lt
+Aušrinė Trapinskienė (2011-07-28)
+                  ausrine.trapinskiene@lrs.lt
