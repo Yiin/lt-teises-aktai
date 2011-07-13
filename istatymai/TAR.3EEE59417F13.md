@@ -152,12 +152,6 @@ dalyje nurodytais atvejais finansuojama iš savivaldybės biudžeto lėšų.
 4. Piniginei socialinei paramai administruoti iš
 valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams
 skiriami 4 procentai socialinei pašalpai ir kompensacijoms skirtų lėšų.
-5. Nepanaudotos valstybės biudžeto specialios
-tikslinės dotacijos savivaldybių biudžetams lėšos piniginei socialinei paramai
-skaičiuoti ir mokėti gali būti naudojamos kitai socialinei paramai finansuoti
-Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
-Straipsnis papildomas
-nauja 5 dalimi, buvusi 5 dalis laikoma 6 dalimi nuo 2011 m. sausio 1 d.:
 5. Valstybės
 biudžeto lėšų, skirtų specialioms tikslinėms dotacijoms socialinei pašalpai ir
 kompensacijoms administruoti, naudojimo ir atsiskaitymo tvarką nustato
@@ -231,9 +225,9 @@ dėl darbuotojo kaltės, kasmetinių atostogų ir kitą dėl pateisinamų priež
 nedirbtą laiką, už kurį mokama įstatymų nustatyta tvarka), nustatytos Darbo
 kodekso 144 straipsnio 1 dalyje arba 145 straipsnyje, arba dirba ne visą darbo
 laiką Darbo
-kodekso 146 straipsnio 1 dalies 2–6 punktuose nustatytais atvejais, o jiems darbo
-užmokesčio apskaičiuojama ne mažiau už minimalią mėnesinę algą arba minimalų
-valandinį atlygį proporcingai dirbtam laikui arba atliktam darbui; 
+kodekso 146 straipsnio 1 dalies 2–6 punktuose nustatytais atvejais, o jiems
+darbo užmokesčio apskaičiuojama ne mažiau už minimalią mėnesinę algą arba
+minimalų valandinį atlygį proporcingai dirbtam laikui arba atliktam darbui; 
 2) asmenys mokosi dieninėse bendrojo lavinimo
 mokyklose ir kitų formaliojo švietimo įstaigų dieniniuose skyriuose, kol jiems
 sukaks 24 metai bei laikotarpiu nuo dieninės bendrojo lavinimo mokyklos
@@ -308,8 +302,8 @@ priteisimo bylos nagrinėjimo teisme laikotarpiu.
 gyvenančiam asmeniui neteikiama, jei jis yra: 
 1) nuolat arba darbo dienomis išlaikomas (nemokamai
 gauna nakvynę ir maistą) valstybės ar savivaldybės finansuojamoje įstaigoje;
-2) užsienio valstybėje besimokantis ir gyvenantis mokinys
-ar studentas iki 24 metų;
+2) užsienio valstybėje besimokantis ir gyvenantis
+mokinys ar studentas iki 24 metų;
 3) atliekantis bausmę, sulaikytas ar suimtas, jam
 paskelbta paieška ar teismo pripažintas nežinia kur esančiu;
 4) atliekantis privalomąją pradinę karo tarnybą;
@@ -326,17 +320,6 @@ dvi ir daugiau šeimų ir (arba) vienų gyvenančių asmenų, kurie už komunali
 paslaugas atsiskaito pagal vieną sąskaitą (atsiskaitomąją knygelę), tačiau bent
 viena (vienas) iš jų neturi teisės į kompensacijas, jos neskiriamos nė vienai
 iš šių šeimų ir nė vienam iš vienų gyvenančių asmenų.
-6. Jeigu daugiabučio namo butų savininkai įgyvendina
-daugiabučio namo atnaujinimo (modernizavimo) projektą pagal Vyriausybės
-patvirtintą Daugiabučių namų atnaujinimo (modernizavimo) programą ar ją
-atitinkančias savivaldybių patvirtintas programas, asmenims, turintiems teisę į
-būsto šildymo išlaidų kompensaciją pagal šiame įstatyme nustatytą energijos ar
-kuro sąnaudų normatyvą normatyviniam būsto ploto šildymui, šildymo ir nešildymo
-sezono metu apmokamas kreditas ir palūkanos per kredito sutartyje nustatytą
-kredito grąžinimo laikotarpį juos pervedant bendrojo naudojimo objektų
-valdytojui Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
-6 dalies
-redakcija nuo 2011 m. vasario 1 d.:
 6. Jeigu daugiabučio namo butų savininkai įgyvendino ar įgyvendina
 valstybės ir (ar) savivaldybės remiamą daugiabučio namo atnaujinimo
 (modernizavimo) projektą, asmenims, turintiems teisę į būsto šildymo išlaidų
@@ -395,8 +378,8 @@ vandeniui, energijos ir kuro sąnaudos įvertinamos pagal įstatymų nustatyta
 tvarka patvirtintas kainas, taikant vienanares centralizuotai teikiamos šilumos
 kainas, o kuro, už kurį atsiskaitoma kas mėnesį pagal apskaitos prietaisų
 rodmenis, – pagal nustatytas tiekėjų kainas; kietojo ar kitokio kuro, kurio
-faktinės sąnaudos kiekvieną mėnesį nenustatomos,– pagal savivaldybėse
-patvirtintas vidutines kainas. 
+faktinės sąnaudos kiekvieną mėnesį nenustatomos,– pagal savivaldybėse patvirtintas
+vidutines kainas. 
 5. Jei namui, kuriame gyvenamąją vietą yra
 deklaravę dvi ir daugiau šeimų ir (arba) vienų gyvenančių asmenų, šildyti ir
 (ar) karštam vandeniui paruošti yra įrengta bendra autonominė katilinė,
@@ -468,17 +451,8 @@ suma viršija 2 000 litų;
 9) gautos (negrąžintos) paskolos, jei jų bendra suma
 viršija 2 000 litų, išskyrus valstybės paskolas aukštųjų mokyklų studentams ir
 kreditus būstui atnaujinti (modernizuoti), jei daugiabučio namo butų savininkai
-įgyvendina daugiabučio namo atnaujinimo (modernizavimo) projektą pagal
-Vyriausybės patvirtintą Daugiabučių namų atnaujinimo (modernizavimo) programą
-ar ją atitinkančias savivaldybių patvirtintas programas;
-9 punkto
-redakcija nuo 2011 m. vasario 1 d.:
-9) gautos (negrąžintos) paskolos, jei jų bendra suma
-viršija 2 000 litų, išskyrus valstybės paskolas aukštųjų mokyklų studentams ir
-kreditus būstui atnaujinti (modernizuoti), jei daugiabučio namo butų savininkai
 įgyvendino ar įgyvendina valstybės ir (ar) savivaldybės remiamą daugiabučio
 namo atnaujinimo (modernizavimo) projektą;
- 
 10) kitiems asmenims paskolintos (negrąžintos)
 piniginės lėšos, jei jų bendra suma viršija 2 000 litų;.
 11) valstybės kompensacijos už valstybės išperkamą
@@ -523,7 +497,8 @@ didžiausios vertės žemės sklypo ploto normatyvas.
 neturintiems žemės sklypo, taikomas šio straipsnio 2 dalies 2 punkte nustatytas
 žemės sklypo ploto normatyvas.
  
-14 straipsnis. Turto vertės normatyvo apskaičiavimas
+14 straipsnis. Turto vertės normatyvo
+apskaičiavimas
 1. Šio įstatymo 13 straipsnyje nurodytas kiekvieno
 tipo (būsto ir žemės sklypo) nekilnojamojo turto vertės normatyvas šeimai arba
 vienam gyvenančiam asmeniui nustatomas atitinkamo tipo nekilnojamojo turto
@@ -569,9 +544,9 @@ mokymo įstaigose pagal bendrojo lavinimo programą ir (ar) pagal profesinio
 mokymo programą pirmajai kvalifikacijai įgyti, su darbo santykiais susijusias
 pajamas;
 2) autorinis atlyginimas;
-3) pensijos ir (ar) pensijų išmokos, šalpos išmokos,
-išskyrus slaugos ar priežiūros (pagalbos) išlaidų tikslines kompensacijas ir
-tikslinį priedą;
+3) pensijos ir (ar) pensijų išmokos, šalpos išmokos, išskyrus
+slaugos ar priežiūros (pagalbos) išlaidų tikslines kompensacijas ir tikslinį
+priedą;
 4) dividendai;
 5) palūkanos;
 6) individualios įmonės savininko pajamos, gautos iš
@@ -581,31 +556,56 @@ gautas verčiantis veikla pagal verslo liudijimą;
 8) pajamos iš žemės ūkio veiklos, išskyrus pajamas iš
 žemės ūkio naudmenų, kurių bendras plotas neviršija 1 hektaro;
 9) išmokos žemės ūkio veiklai;
-10) piniginės lėšos, gautos vaikui išlaikyti
-(alimentai);
+10) piniginės lėšos, gautos vaikui išlaikyti (alimentai);
+ 
+Punkto redakcija
+iki 2012-01-01:
 11) kas mėnesį gaunamos socialinio pobūdžio pajamos,
 išskyrus: transporto išlaidų kompensacijas neįgaliesiems; kompensacijas
 donorams; išmoką vaikui, mokamą pagal Išmokų vaikams įstatymą; socialinę
 stipendiją; pagalbos pinigus, mokamus pagal Socialinių paslaugų įstatymą;
+Punkto redakcija
+nuo 2012-01-01:
+11) kas mėnesį gaunamos socialinio pobūdžio pajamos,
+išskyrus: transporto išlaidų kompensacijas neįgaliesiems; kompensacijas
+donorams; išmoką vaikui, mokamą pagal Išmokų vaikams įstatymą; pagalbos
+pinigus, mokamus pagal Socialinių paslaugų įstatymą;
+ 
 12) išeitinė išmoka, išmokama nutraukiant darbo
 sutartį;
 13) išeitinė išmoka atleidžiamam iš pareigų valstybės
 tarnautojui;
-14) ligos, profesinės reabilitacijos, motinystės,
-tėvystės ir motinystės (tėvystės) pašalpa;
+14) ligos, profesinės reabilitacijos, motinystės, tėvystės
+ir motinystės (tėvystės) pašalpa;
 15) turtinės ar neturtinės žalos atlyginimas
 (įskaitant vienkartinę netekto darbingumo kompensaciją);
-16) labdara piniginėmis lėšomis, kurios bendra suma
-viršija 4 valstybės remiamų pajamų dydžius;
-17) gautos dovanų piniginės lėšos;
-18) paveldėtos piniginės lėšos;
-19) užsienyje ar iš užsienio valstybės gautos
+16) gautos dovanų piniginės lėšos;
+17) paveldėtos piniginės lėšos;
+18) užsienyje ar iš užsienio valstybės gautos
 piniginės lėšos;
-20) turto pardavimo pajamos, išskyrus įskaitomas į
+19) turto pardavimo pajamos, išskyrus įskaitomas į
 turtą;
-21) turto nuomos pajamos;
-22) loterijų ar kitų žaidimų laimėjimai, prizai;
-23) kitos faktiškai gaunamos pajamos.
+20) turto nuomos pajamos;
+21) loterijų ar kitų žaidimų laimėjimai, prizai;
+22) kitos faktiškai gaunamos pajamos, išskyrus labdarą
+piniginėmis lėšomis.
+ 
+Dalis papildoma
+nauju 22 punktu, buvęs 22 punktas laikomas 23 punktu nuo 2012-01-01:
+22) visų rūšių stipendijos, išskyrus stipendijas ir
+kitą materialinę paramą, teikiamą aukštųjų mokyklų pirmosios, antrosios pakopų,
+vientisųjų ir laipsnio nesuteikiančių studijų (išskyrus rezidentūros studijų
+studentus) studentams, studijuojantiems pagal dieninės, nuolatinės ar
+ištęstinės studijų formų programas (išskyrus asmenis, pakartotinai
+studijuojančius pagal tos pačios ar žemesnės pakopos studijų programas ir
+laipsnio nesuteikiančių studijų programas, jeigu daugiau kaip pusę tos studijų
+programos kreditų jie įgijo valstybės biudžeto lėšomis),
+ir stipendijas bei kitą materialinę paramą, teikiamą profesinių mokymo įstaigų
+mokiniams, kurie mokosi pagal profesinio mokymo programą pirmajai
+kvalifikacijai įgyti;
+23) kitos faktiškai gaunamos pajamos, išskyrus labdarą
+piniginėmis lėšomis.
+ 
 2. Šio straipsnio 1 dalyje nurodytos pajamos imamos
 išskaičiavus gyventojų pajamų mokestį ir valstybinio socialinio draudimo
 įmokas.
@@ -617,14 +617,6 @@ vandeniui ir karštam vandeniui kompensacijos į šeimos arba vieno gyvenančio
 asmens pajamas neįskaitomos.
 5. Piniginės lėšos, mokamos vaikui išlaikyti
 (alimentai), į jas mokančio asmens pajamas neįskaitomos. 
-6. Apskaičiuotas darbo užmokestis, užmokestis už
-prastovas ne dėl darbuotojo kaltės ir užmokestis už kasmetines atostogas,
-pensijos, pensijų išmokos, šalpos išmokos, kas mėnesį gaunamos pašalpos, ligos,
-profesinės reabilitacijos, motinystės, tėvystės ir motinystės (tėvystės)
-pašalpos, taip pat kitos kas mėnesį gaunamos pajamos įskaitomos į pajamas tų
-mėnesių, už kuriuos jos paskirtos.
-6 dalies
-redakcija nuo 2011 m. vasario 1 d.:
 6. Darbo
 užmokestis, užmokestis už prastovas ne dėl darbuotojo kaltės ir užmokestis už
 kasmetines atostogas, pensijos, pensijų išmokos, šalpos išmokos, kas mėnesį
@@ -632,12 +624,6 @@ gaunamos pašalpos, ligos, profesinės reabilitacijos, motinystės, tėvystės i
 motinystės (tėvystės) pašalpos, taip pat kitos kas mėnesį gaunamos pajamos
 įskaitomos į pajamas tų mėnesių, už kuriuos jos paskirtos, išskyrus šio
 straipsnio 7 dalyje numatytą atvejį.
- 
-7. Vienkartinės, už du ar daugiau mėnesių iš karto
-išmokėtos mėnesinės išmokos ir piniginės lėšos vaikui išlaikyti (alimentai)
-įskaitomos į pajamas tų mėnesių, kuriais jos buvo išmokėtos.
-7 dalies
-redakcija nuo 2011 m. vasario 1 d.:
 7. Darbo
 užmokestis, užmokestis už prastovas ne dėl darbuotojo kaltės ir užmokestis už
 kasmetines atostogas, pensijos, pensijų išmokos, šalpos išmokos, kas mėnesį
@@ -647,7 +633,6 @@ kurios buvo išmokėtos ne mažiau kaip vieną mėnesį pavėluotai, taip pat
 vienkartinės, už du ar daugiau mėnesių iš karto išmokėtos mėnesinės išmokos ir
 piniginės lėšos vaikui išlaikyti (alimentai) įskaitomos į pajamas tų mėnesių,
 kuriais jos buvo išmokėtos.
- 
 8. Vienam iš tėvų vaiko (vaikų) išlaikymui gavus
 teismo priteistą konkrečią pinigų sumą, vidutinė vaikui (vaikams) išlaikyti
 skirta suma per mėnesį apskaičiuojama gautą pinigų sumą padalijus iš mėnesių
@@ -715,10 +700,10 @@ gyvenančiam asmeniui kompensacijos apskaičiuojamos pagal pajamas, kurios
 paskutinį kartą buvo nurodytos skiriant socialinę pašalpą, įskaitant pagal šias
 pajamas paskirtos socialinės pašalpos dydį. 
 4. Jei šeima arba vienas gyvenantis asmuo turi teisę į
-kompensacijas pagal Lietuvos Respublikos kompensacijų nepriklausomybės gynėjams,
-nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos,
-bei jų šeimoms įstatymą, tai pagal šį įstatymą nustatytos kompensacijos
-apskaičiuojamos nuo likusios išlaidų dalies. 
+kompensacijas pagal Lietuvos Respublikos kompensacijų nepriklausomybės
+gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS
+agresijos, bei jų šeimoms įstatymą, tai pagal šį įstatymą nustatytos
+kompensacijos apskaičiuojamos nuo likusios išlaidų dalies. 
 5. Viename būste gyvenamąją vietą deklaravus dviem ir
 daugiau šeimų ir (arba) vienų gyvenančių asmenų, kurie už komunalines paslaugas
 atsiskaito pagal vieną sąskaitą (atsiskaitomąją knygelę), visų būste gyvenamąją
@@ -793,7 +778,8 @@ skiriama nuo prašymo-paraiškos pateikimo mėnesio.
 kurį šeima arba vienas gyvenantis asmuo įgijo teisę į kompensacijas, pirmos
 dienos, tačiau ne daugiau kaip už 2 praėjusius mėnesius iki prašymo-paraiškos
 pateikimo mėnesio, jei šeimos nariai arba vienas gyvenantis asmuo kreipimosi
-metu ir laikotarpį, už kurį skiriamos kompensacijos, turėjo teisę gauti kompensacijas.
+metu ir laikotarpį, už kurį skiriamos kompensacijos, turėjo teisę gauti
+kompensacijas.
 5. Jei pasibaigus paskirtos kompensacijos teikimo
 laikotarpiui dėl tolesnio jos skyrimo šeima arba vienas gyvenantis asmuo per 3
 mėnesius kreipiasi su prašymu-paraiška pateikdami naujus dokumentus ir duomenis
@@ -814,19 +800,19 @@ trumpesniam negu 3 mėnesių laikotarpiui, jei yra žinoma, kad per tą laikotar
 arba piniginės socialinės paramos dydis pasikeis (dėl šeimos sudėties, pajamų
 šaltinio (bet ne jo dydžio) pasikeitimo, šeimos nariui pradėjus gauti valstybės
 ar savivaldybės išlaikymą ir kita). 
-9. Jei piniginės socialinės paramos teikimo
-laikotarpiu socialinės paramos dydis pasikeitė (dėl šeimos sudėties,
-pajamų šaltinio (bet ne jo dydžio) pasikeitimo, šeimos nariui pradėjus gauti
-valstybės ar savivaldybės išlaikymą ir kita), paskirta piniginė
-socialinė parama skiriama iš naujo nuo kito mėnesio po įvykusio pasikeitimo,
-atsižvelgiant į to mėnesio šeimos arba vieno gyvenančio asmens pajamas. 
+9. Jei piniginės socialinės paramos teikimo laikotarpiu
+socialinės paramos dydis pasikeitė (dėl šeimos sudėties, pajamų šaltinio
+(bet ne jo dydžio) pasikeitimo, šeimos nariui pradėjus gauti valstybės ar
+savivaldybės išlaikymą ir kita), paskirta piniginė socialinė parama
+skiriama iš naujo nuo kito mėnesio po įvykusio pasikeitimo, atsižvelgiant į to
+mėnesio šeimos arba vieno gyvenančio asmens pajamas. 
 10. Jei dėl piniginės socialinės paramos
 kreipiamasi tą mėnesį, kurį bent vienas šeimos narys arba vienas gyvenantis
 asmuo įsidarbina ar atsiranda kitas pajamų šaltinis, įskaitant vienkartines, už
 du ar daugiau mėnesių iš karto išmokėtas mėnesines išmokas, piniginė socialinė
 parama šeimai arba vienam gyvenančiam asmeniui skiriama tik tam mėnesiui pagal
-to mėnesio pajamas. Nuo kito mėnesio socialinė pašalpa ir (ar) kompensacijos skiriamos
-16 straipsnio 1 dalies 2 punkte nustatyta tvarka. 
+to mėnesio pajamas. Nuo kito mėnesio socialinė pašalpa ir (ar) kompensacijos
+skiriamos 16 straipsnio 1 dalies 2 punkte nustatyta tvarka. 
 11. Sprendimas dėl socialinės pašalpos skyrimo ir (ar)
 kompensacijų skaičiavimo bei teikimo priimamas ne vėliau kaip per mėnesį nuo
 prašymo-paraiškos ir visų reikalingų dokumentų gavimo dienos savivaldybės
@@ -850,9 +836,9 @@ parduotuvėse, maitinimo talonais, apmokant vaikų maitinimo išlaidas mokyklose
 ar dienos centruose ir kt.).
 2. Kompensacijos gali būti teikiamos:
 1) pinigais; 
-2) apskaičiuotų kompensacijų sumą pervedant į
-energiją, kurą, šaltą bei karštą vandenį tiekiančių įmonių atsiskaitomąsias
-sąskaitas bankuose.
+2) apskaičiuotų kompensacijų sumą pervedant į energiją,
+kurą, šaltą bei karštą vandenį tiekiančių įmonių atsiskaitomąsias sąskaitas
+bankuose.
 3. Šeimai arba vienam gyvenančiam asmeniui pakeitus
 deklaruotą gyvenamąją vietą (jei gyvenamosios vietos neturi, – savivaldybę,
 kurioje gyvena), ankstesnėje savivaldybėje piniginės socialinės paramos
@@ -924,7 +910,8 @@ gyvenimo sąlygas, turimą turtą ir užimtumą, surašyti buities tyrimo aktą;
 duomenų apie turimą turtą ir gaunamas pajamas arba patikrinimo metu kilus
 įtarimui, kad yra pateikti neteisingi duomenys arba jie nuslepiami,
 pareikalauti, kad šeimos nariai arba vienas gyvenantis asmuo deklaruotų turtą
-(įskaitant gaunamas pajamas) Gyventojų turto deklaravimo įstatymo nustatyta tvarka;
+(įskaitant gaunamas pajamas) Gyventojų turto deklaravimo įstatymo nustatyta
+tvarka;
 5) nereikalauti iš piniginę socialinę paramą
 gaunančios šeimos arba vieno gyvenančio asmens kas 3 mėnesius iš naujo pateikti
 tų duomenų, kurie iki pakartotinio kreipimosi yra nepasikeitę;
@@ -932,8 +919,8 @@ tų duomenų, kurie iki pakartotinio kreipimosi yra nepasikeitę;
 vienam gyvenančiam asmeniui, nevykdantiems šio įstatymo 24 straipsnio 1 dalies
 1–4 punktuose nustatytų pareigų.
 3. Patikrinus šeimos gyvenimo sąlygas ir surašius
-buities tyrimo aktą, savivaldybės administracijai suteikiama teisė iš šio
-įstatymo 4 straipsnio 2 dalyje numatytų lėšų: 
+buities tyrimo aktą, savivaldybės administracijai suteikiama teisė iš šio įstatymo
+4 straipsnio 2 dalyje numatytų lėšų: 
 1) skirti socialinę pašalpą, jei šeimos arba vieno
 gyvenančio asmens pajamos yra mažesnės už valstybės remiamas pajamas šeimai
 arba vienam gyvenančiam asmeniui, tačiau šeima arba vienas gyvenantis asmuo
@@ -948,6 +935,20 @@ straipsnio 1 dalies 1 punkte, būsto ploto normatyvą;
 4) skirti socialinę pašalpą šeimai, kuri dėl vaiko
 materialinio išlaikymo arba dėl išlaikymo ir (ar) tėvystės nustatymo kreipėsi į
 teismą, bet tėvystė nebuvo nustatyta ir išlaikymas nebuvo priteistas.
+3 dalis papildyta
+5 punktu nuo 2011-07-13 iki 2011-12-31
+5) skirti socialinę pašalpą ir kompensacijas,
+į šeimos ar vieno gyvenančio asmens pajamas neįskaičiuojant gaunamų stipendijų ir kitos materialinės paramos,
+teikiamos aukštųjų mokyklų pirmosios, antrosios pakopų, vientisųjų ir laipsnio
+nesuteikiančių studijų (išskyrus rezidentūros studijų studentus) studentams,
+studijuojantiems pagal dieninės, nuolatinės ar ištęstinės studijų formų
+programas (išskyrus asmenis, pakartotinai studijuojančius pagal tos pačios ar
+žemesnės pakopos studijų programas ir laipsnio nesuteikiančių studijų
+programas, jeigu daugiau kaip pusę tos studijų programos kreditų jie įgijo
+valstybės biudžeto lėšomis), ir stipendijų bei
+kitos materialinės paramos, teikiamos profesinių mokymo įstaigų mokiniams,
+kurie mokosi pagal profesinio mokymo programą pirmajai kvalifikacijai įgyti.
+ 
 4. Savivaldybės tarybos nustatyta tvarka iš savivaldybės
 biudžeto lėšų socialinė parama gali būti skiriama ir kitais šio įstatymo
 nenustatytais atvejais (skiriama vienkartinė pašalpa; padengiamas įsiskolinimas
@@ -955,18 +956,20 @@ už būstą; kompensuojamos išlaidos už didesnį karšto ir šalto vandens kie
 negu šiame įstatyme nustatytas normatyvas; kompensuojamos šiame įstatyme
 nenurodytos būsto išlaikymo išlaidos ir kita). 
 Straipsnio pakeitimai:
-Nr. X-1611,
-2008-06-17, Žin., 2008, Nr. 74-2861 (2008-06-30)
+Nr. X-1611, 2008-06-17,
+Žin., 2008, Nr. 74-2861 (2008-06-30)
+Nr.
+XI-1502,
+2011-06-22, Žin., 2011, Nr. 86-4144 (2011-07-13)
  
 23 straipsnis. Informacijos
 teikimas
-1. Pažymas apie asmens, pageidaujančio gauti
-piniginę socialinę paramą, turimą turtą ir pajamas juridiniai ir fiziniai
+1. Pažymas apie asmens, pageidaujančio
+gauti piniginę socialinę paramą, turimą turtą ir pajamas juridiniai ir fiziniai
 asmenys nemokamai pateikia per 10 darbo dienų nuo prašymo gavimo dienos.
 2. Valstybės ir savivaldybių įmonės,
-institucijos, įstaigos ir organizacijos savivaldybių administracijų prašymu
-nemokamai teikia joms informaciją, reikalingą piniginei socialinei paramai
-skirti. 
+institucijos, įstaigos ir organizacijos savivaldybių administracijų prašymu nemokamai
+teikia joms informaciją, reikalingą piniginei socialinei paramai skirti. 
 3. Vyriausybės ar jos įgaliotos
 institucijos nustatyta tvarka savivaldybių administracijos teikia Socialinės
 apsaugos ir darbo ministerijai duomenis apie jų teritorijose gyvenančioms
@@ -1176,8 +1179,8 @@ NEPASITURINČIOMS ŠEIMOMS IR VIENIEMS GYVENANTIEMS ASMENIMS ĮSTATYMO 2, 4, 7, 
 11.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XI-1184,
-2010-11-30, Žin., 2010, Nr. 145-7437 (2010-12-11)
+Nr. XI-1184, 2010-11-30,
+Žin., 2010, Nr. 145-7437 (2010-12-11)
 PINIGINĖS
 SOCIALINĖS PARAMOS NEPASITURINČIOMS ŠEIMOMS IR VIENIEMS GYVENANTIEMS ASMENIMS
 ĮSTATYMO 4 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
@@ -1187,17 +1190,32 @@ sausio 1 d.
 12.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. XI-1230, 2010-12-14, Žin.,
-2010, Nr. 153-7797 (2010-12-28)
+Nr. XI-1230,
+2010-12-14, Žin., 2010, Nr. 153-7797 (2010-12-28)
 PINIGINĖS
 SOCIALINĖS PARAMOS NEPASITURINČIOMS ŠEIMOMS IR VIENIEMS GYVENANTIEMS ASMENIMS
 ĮSTATYMO 7, 12 IR 15 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas
 įsigalioja 2011 m. vasario 1 d.
  
-*** Pabaiga ***
+13.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-1502,
+2011-06-22, Žin., 2011, Nr. 86-4144 (2011-07-13)
+PINIGINĖS SOCIALINĖS PARAMOS
+NEPASITURINČIOMS ŠEIMOMS IR VIENIEMS GYVENANTIEMS ASMENIMS ĮSTATYMO 15, 22
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šio įstatymo 1 straipsnis,
+išskyrus 1 straipsnio 2, 3 ir 4 dalis, įsigalioja 2012-01-01; 2 straipsnis
+galioja iki 2011-12-31.
  
-Redagavo Aušrinė Trapinskienė
-(2010-12-30)
+***
+Pabaiga ***
+ 
+ 
+Redagavo
+Aušra Bodin (2011-07-13)
                  
-autrap@lrs.lt
+aubodi@lrs.lt
