@@ -1271,6 +1271,17 @@ profesinės karo tarnybos, privalomosios pradinės karo tarnybos ir aktyviojo
 rezervo karių, statutinių krašto apsaugos sistemos tarnautojų, kiekvieno
 laipsnio vyresniųjų karininkų, generolų ir admirolų skaičių, nuolatinių
 junginių, dalinių ir jiems prilygintų karinių vienetų skaičių.
+Antrosios
+pastraipos redakcija nuo 2011 m. rugsėjo 1 d.:
+Seimas, atsižvelgdamas į
+ilgalaikius nacionalinio saugumo užtikrinimo poreikius, įstatymu reglamentuoja
+krašto apsaugos sistemą, taip pat kiekvienais metais įstatymu nustato kitų metų
+principinę kariuomenės struktūrą ir ribinius karių, statutinių krašto apsaugos
+sistemos tarnautojų ir kiekvieno laipsnio vyresniųjų karininkų, generolų ir
+admirolų skaičius, taip pat principinės kariuomenės struktūros 6 metų
+planavimo gaires, karių ir civilinę krašto apsaugos tarnybą atliekančių
+statutinių valstybės tarnautojų ribinius skaičius.
+ 
 Seimas įgyvendina nacionalinio
 saugumo pagrindų nuostatas sukurdamas teisinę nacionalinio saugumo ir gynybos
 bazę – įstatymais reglamentuoja nacionalinį saugumą užtikrinančių institucijų
@@ -1284,6 +1295,9 @@ IX-1524,
 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
 Nr. IX-2030,
 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
+Nr.
+XI-1515,
+2011-06-23, Žin., 2011, Nr. 86-4157 (2011-07-13)
  
 AntrasIS
 skirsnis
@@ -1338,8 +1352,8 @@ pirmininkas. Tarybos sudarymą, veiklos tvarką ir įgaliojimus nustato įstatym
 Skyriaus
 pakeitimai:
 Nr.
-IX-1524,
-2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
+IX-1524, 2003-04-22,
+Žin., 2003, Nr. 42-1922 (2003-05-01)
 Nr. IX-2030,
 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
  
@@ -1379,8 +1393,8 @@ Nr. VIII-770,
 Nr.
 IX-1524,
 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
-Nr. IX-2030,
-2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
+Nr. IX-2030, 2004-02-19,
+Žin., 2004, Nr. 39-1270 (2004-03-13)
  
 18 skyrius
 KRAŠTO
@@ -1566,10 +1580,10 @@ saugumo departamento veiklą reglamentuoja įstatymai.
 Valstybės saugumo departamento
 detalus biudžetas, ištekliai ir kita įstatymų numatyta informacija yra
 valstybės paslaptis. 
-Seimas atlieka parlamentinę
-Valstybės saugumo departamento veiklos kontrolę. Ši kontrolė atliekama
-laikantis valstybės paslapčių apsaugos reikalavimų ir Seimo nustatytų specialių
-procedūrų.
+Seimas atlieka
+parlamentinę Valstybės saugumo departamento veiklos kontrolę. Ši kontrolė
+atliekama laikantis valstybės paslapčių apsaugos reikalavimų ir Seimo nustatytų
+specialių procedūrų.
 Skyriaus
 pakeitimai:
 Nr.
@@ -1625,14 +1639,14 @@ tiria korupcinio pobūdžio nusikaltimus ir baudžiamuosius nusižengimus, rengi
 ir įgyvendina korupcijos prevencijos priemones.
 Specialiųjų tyrimų tarnybos
 veiklą reglamentuoja įstatymai ir kiti teisės aktai.
-Seimas, laikydamasis
-valstybės paslapčių apsaugos reikalavimų ir jo nustatytų specialių procedūrų,
-atlieka parlamentinę Specialiųjų tyrimų tarnybos veiklos kontrolę.
+Seimas,
+laikydamasis valstybės paslapčių apsaugos reikalavimų ir jo nustatytų specialių
+procedūrų, atlieka parlamentinę Specialiųjų tyrimų tarnybos veiklos kontrolę.
 Skyriaus
 pakeitimai:
 Nr.
-IX-1524, 2003-04-22,
-Žin., 2003, Nr. 42-1922 (2003-05-01)
+IX-1524,
+2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
  
 23 SKYRIUS
 ALTERNATYVIOJI
@@ -1737,8 +1751,8 @@ Nr. IX-1457,
 NACIONALINIO SAUGUMO PAGRINDŲ
 ĮSTATYMO PRIEDĖLIO 18 IR 19 SKYRIŲ PAKEITIMO ĮSTATYMAS
 Šis Įstatymas įsigalioja kartu su Lietuvos
-Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir Lietuvos
-Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
+Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir
+Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
  2003 m. gegužės 1 d.
  
 7.
@@ -1767,8 +1781,8 @@ NACIONALINIO SAUGUMO PAGRINDŲ
 9.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. IX-2554,
-2004-11-09, Žin., 2004, Nr. 171-6308 (2004-11-26)
+Nr. IX-2554, 2004-11-09,
+Žin., 2004, Nr. 171-6308 (2004-11-26)
 NACIONALINIO SAUGUMO PAGRINDŲ
 ĮSTATYMO PRIEDĖLIO 18 SKYRIAUS PAKEITIMO ĮSTATYMAS
  
@@ -1849,9 +1863,21 @@ Nr. XI-1304,
 NACIONALINIO
 SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 19 SKYRIAUS PAKEITIMO ĮSTATYMAS
  
-*** Pabaiga ***
+19.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-1515,
+2011-06-23, Žin., 2011, Nr. 86-4157 (2011-07-13)
+NACIONALINIO
+SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 15 SKYRIAUS PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2011 m. rugsėjo 1 d.
+ 
+***
+Pabaiga ***
  
  
-Redagavo Aušra
-Bodin (2011-04-20)
-                  aubodi@lrs.lt
+Redagavo
+Aušrinė Trapinskienė (2011-07-26)
+                  ausrine.trapinskiene@lrs.lt
