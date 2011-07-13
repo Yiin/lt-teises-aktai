@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E8452AA51C0"
 
 # Lietuvos Respublikos viešojo saugumo tarnybos įstatymas
 
+Suvestinė redakcija nuo 2011-07-13 iki 2015-12-31
+ 
+Įstatymas paskelbtas: Žin. 2006, Nr. 102-3935, i. k. 1061010ISTA000X-813
+ 
+ 
 LIETUVOS RESPUBLIKOS VIEŠOJO SAUGUMO TARNYBOS Į S T A T Y M A S  
 2006 m. rugsėjo 19 d. Nr. X-813 Vilnius  
  
@@ -38,7 +43,10 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Ekstremali situacija – padėtis, kuri atsiranda dėl gamtinių, techninių, ekologinių ar socialinių priežasčių ar karo veiksmų ir sukelia staigų didelį pavojų žmonių gyvybei ar sveikatai, turtui, gamtai arba lemia žmonių žūtį, sužalojimą ar didelius turtinius nuostolius.
+1. Ekstremalioji situacija – kaip ši sąvoka apibrėžta Lietuvos Respublikos civilinės saugos įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1504, 2011-06-22, Žin., 2011, Nr. 86-4146 (2011-07-13), i. k. 1111010ISTA0XI-1504
+ 
 
 
 
@@ -64,6 +72,13 @@ BENDROSIOS NUOSTATOS
 
 
 6. Sulaikymas – Tarnybos funkcijas atliekančio Tarnybos pareigūno veiksmai, kuriais fiziškai apribojama nusikalstamos veikos padarymu įtariamo asmens ar ją padariusio asmens, pabėgusio iš laisvės atėmimo vietos ar konvojavimo metu, taip pat atsisakančio įvykdyti teisėtą reikalavimą padėti ginklą ar kitą daiktą, kuriuo galima sužaloti žmogų, laisvė siekiant nutraukti neteisėtus veiksmus ir perduoti tą asmenį policijos ar kitų kompetentingų įstaigų pareigūnams.
+
+
+
+
+7. Tarnybos teritorija – valstybinės žemės sklypai, kuriuose įrengta stacionari kovinio mokymo ir pratybų infrastruktūra, vykdomas Tarnybos pareigūnų specialusis rengimas atkurti ir (ar) užtikrinti viešąją tvarką ypatingų ir ekstremaliųjų situacijų atvejais ir pratybos ginkluotųjų pajėgų sudėtyje ginti valstybę (krašto apsaugos tikslais).
+Papildyta straipsnio dalimi:
+Nr. XI-1504, 2011-06-22, Žin., 2011, Nr. 86-4146 (2011-07-13), i. k. 1111010ISTA0XI-1504
  
 
 
@@ -74,7 +89,10 @@ BENDROSIOS NUOSTATOS
 3 straipsnis. Tarnybos teisinė forma ir veiklos teisiniai pagrindai
 
 
-1. Tarnyba – Lietuvos Respublikos vidaus reikalų ministrui atskaitinga nuolatinės specialiosios parengties valstybės įstaiga, kurios paskirtis – atkurti ir (ar) užtikrinti viešąją tvarką ypatingų ir ekstremalių situacijų atvejais, o karo metu ginkluotųjų pajėgų sudėtyje ginti valstybę, taip pat atlikti kitas šio ir kitų įstatymų nustatytas funkcijas.
+1. Tarnyba – Lietuvos Respublikos vidaus reikalų ministrui atskaitinga nuolatinės specialiosios parengties valstybės įstaiga, kurios paskirtis – atkurti ir (ar) užtikrinti viešąją tvarką ypatingų ir ekstremaliųjų situacijų atvejais, o karo metu ginkluotųjų pajėgų sudėtyje ginti valstybę, taip pat atlikti kitas šio ir kitų įstatymų nustatytas funkcijas.
+Straipsnio dalies pakeitimai:
+Nr. XI-1504, 2011-06-22, Žin., 2011, Nr. 86-4146 (2011-07-13), i. k. 1111010ISTA0XI-1504
+ 
 
 
 
@@ -132,12 +150,18 @@ TARNYBOS UŽDAVINIAI IR FUNKCIJOS
 Tarnybos uždaviniai:
 
 
-1) atkurti ir (ar) užtikrinti viešąją tvarką ypatingų ir ekstremalių situacijų atvejais;
+1) atkurti ir (ar) užtikrinti viešąją tvarką ypatingų ir ekstremaliųjų situacijų atvejais; 
+Straipsnio punkto pakeitimai:
+Nr. XI-1504, 2011-06-22, Žin., 2011, Nr. 86-4146 (2011-07-13), i. k. 1111010ISTA0XI-1504
+ 
 
 
 
 
-2) pagal savo kompetenciją likviduoti pavojus žmonių gyvybei ar sveikatai, turtui ypatingų ir ekstremalių situacijų atvejais;
+2) pagal savo kompetenciją likviduoti pavojus žmonių gyvybei ar sveikatai, turtui ypatingų ir ekstremaliųjų situacijų atvejais;
+Straipsnio punkto pakeitimai:
+Nr. XI-1504, 2011-06-22, Žin., 2011, Nr. 86-4146 (2011-07-13), i. k. 1111010ISTA0XI-1504
+ 
 
 
 
@@ -188,7 +212,10 @@ Tarnyba, įgyvendindama jai pavestus uždavinius:
 
 
 
-2) ypatingų ir ekstremalių situacijų atvejais užkerta kelią veiksmams, keliantiems pavojų žmonių gyvybei ar sveikatai, turtui, gamtai arba šiurkščiai pažeidžiantiems viešąją tvarką ar laisvės atėmimo vietos vidaus tvarką;
+2) ypatingų ir ekstremaliųjų situacijų atvejais užkerta kelią veiksmams, keliantiems pavojų žmonių gyvybei ar sveikatai, turtui, gamtai arba šiurkščiai pažeidžiantiems viešąją tvarką ar laisvės atėmimo vietos vidaus tvarką; 
+Straipsnio punkto pakeitimai:
+Nr. XI-1504, 2011-06-22, Žin., 2011, Nr. 86-4146 (2011-07-13), i. k. 1111010ISTA0XI-1504
+ 
 
 
 
@@ -228,12 +255,18 @@ Tarnyba, įgyvendindama jai pavestus uždavinius:
 
 
 
-10) padeda likviduoti ekstremalias situacijas ir jų padarinius;
+10) padeda likviduoti ekstremaliąsias situacijas ir jų padarinius; 
+Straipsnio punkto pakeitimai:
+Nr. XI-1504, 2011-06-22, Žin., 2011, Nr. 86-4146 (2011-07-13), i. k. 1111010ISTA0XI-1504
+ 
 
 
 
 
-11) dalyvauja Jungtinių Tautų ir kitų tarptautinių organizacijų pajėgų misijose;
+11) dalyvauja Jungtinių Tautų, kitų tarptautinių organizacijų, Europos Sąjungos, užsienio valstybių operacijose ir misijose Lietuvos Respublikos Vyriausybės nustatyta tvarka;
+Straipsnio punkto pakeitimai:
+Nr. XI-1504, 2011-06-22, Žin., 2011, Nr. 86-4146 (2011-07-13), i. k. 1111010ISTA0XI-1504
+ 
 
 
 
@@ -278,7 +311,9 @@ TARNYBOS STRUKTŪRA IR VALDYMAS
 
 
 
-3. Tarnybos padalinius steigia, reorganizuoja, pertvarko ar likviduoja vidaus reikalų ministras Tarnybos vado teikimu. Tarnybos padaliniai turi būti dislokuoti taip, kad būtų užtikrintas Tarnybos pareigūnų atvykimas į ypatingos ar ekstremalios situacijos vietą ne vėliau kaip per 2 valandas nuo vidaus reikalų ministro įsakymo dėl Tarnybos pareigūnų panaudojimo ypatingai ar ekstremaliai situacijai likviduoti priėmimo momento.
+3. Tarnybos padalinius steigia, reorganizuoja, pertvarko ar likviduoja vidaus reikalų ministras Tarnybos vado teikimu. Tarnybos padaliniai turi būti dislokuoti taip, kad būtų užtikrintas Tarnybos pareigūnų atvykimas į ypatingos ar ekstremaliosios situacijos vietą ne vėliau kaip per 2 valandas nuo vidaus reikalų ministro įsakymo dėl Tarnybos pareigūnų panaudojimo ypatingai ar ekstremaliajai situacijai likviduoti priėmimo momento.
+Straipsnio dalies pakeitimai:
+Nr. XI-1504, 2011-06-22, Žin., 2011, Nr. 86-4146 (2011-07-13), i. k. 1111010ISTA0XI-1504
  
 
 
@@ -364,7 +399,10 @@ IV SKYRIUS  TARNYBOS PAREIGŪNŲ TEISĖS IR PAREIGOS
 
 
 
-10) persekiodamas konvojavimo metu ar iš laisvės atėmimo vietos pabėgusį asmenį arba nusikalstamos veikos padarymu įtariamą asmenį, taip pat siekdamas užkirsti kelią daromai nusikalstamai veikai, bet kuriuo paros laiku įeiti į fiziniams ir juridiniams asmenims priklausančias gyvenamąsias ar negyvenamąsias patalpas, teritorijas, sustabdyti ir patekti į transporto priemones. Atsisakius paklusti, Tarnybos pareigūnas turi teisę visomis įmanomomis priemonėmis atidaryti patalpas ir transporto priemones. Ši teisė taip pat suteikiama ekstremalių situacijų atvejais. Apie tokius veiksmus per 24 valandas turi būti pranešta prokurorui;
+10) persekiodamas konvojavimo metu ar iš laisvės atėmimo vietos pabėgusį asmenį arba nusikalstamos veikos padarymu įtariamą asmenį, taip pat siekdamas užkirsti kelią daromai nusikalstamai veikai, bet kuriuo paros laiku įeiti į fiziniams ir juridiniams asmenims priklausančias gyvenamąsias ar negyvenamąsias patalpas, teritorijas, sustabdyti ir patekti į transporto priemones. Atsisakius paklusti, Tarnybos pareigūnas turi teisę visomis įmanomomis priemonėmis atidaryti patalpas ir transporto priemones. Ši teisė taip pat suteikiama ekstremaliųjų situacijų atvejais. Apie tokius veiksmus per 24 valandas turi būti pranešta prokurorui;
+Straipsnio punkto pakeitimai:
+Nr. XI-1504, 2011-06-22, Žin., 2011, Nr. 86-4146 (2011-07-13), i. k. 1111010ISTA0XI-1504
+ 
 
 
 
@@ -410,7 +448,10 @@ IV SKYRIUS  TARNYBOS PAREIGŪNŲ TEISĖS IR PAREIGOS
 
 
 
-4) imtis visų galimų priemonių žmonėms, turtui ir gamtai gelbėti ypatingų ir ekstremalių situacijų atvejais;
+4) imtis visų galimų priemonių žmonėms, turtui ir gamtai gelbėti ypatingų ir ekstremaliųjų situacijų atvejais;
+Straipsnio punkto pakeitimai:
+Nr. XI-1504, 2011-06-22, Žin., 2011, Nr. 86-4146 (2011-07-13), i. k. 1111010ISTA0XI-1504
+ 
 
 
 
@@ -670,22 +711,22 @@ V SKYRIUS
 
 
 VI SKYRIUS 
-TARNYBOS VEIKLOS ORGANIZAVIMAS YPATINGŲ IR EKSTREMALIŲ SITUACIJŲ METU
+TARNYBOS VEIKLOS ORGANIZAVIMAS YPATINGŲ IR EKSTREMALIŲJŲ SITUACIJŲ METU 
+ 
+Pakeistas skyriaus pavadinimas:
+Nr. XI-1504, 2011-06-22, Žin., 2011, Nr. 86-4146 (2011-07-13), i. k. 1111010ISTA0XI-1504
  
 
 
-17 straipsnis. Tarnybos veiklos organizavimas ypatingų ir ekstremalių situacijų metu
+17 straipsnis. Tarnybos pajėgų panaudojimas ir siuntimas likviduoti ypatingos situacijos
 
 
-1. Tarnybos pareigūnai gali būti siunčiami ypatingos ar ekstremalios situacijos likviduoti tik vidaus reikalų ministro įsakymu.
+Tarnybos pajėgos gali būti siunčiamos likviduoti ypatingos situacijos tik vidaus reikalų ministro įsakymu ir jos panaudojamos ypatingai situacijai likviduoti vidaus reikalų ministro nustatyta tvarka.
 
 
-
-
-2. Ypatingos ar ekstremalios situacijos metu Tarnybos pareigūnams, pasiųstiems į ypatingos ar ekstremalios situacijos vietą (toliau – Tarnybos pajėgos), tiesiogiai vadovauja Tarnybos vadas arba jo įgaliotas Tarnybos pareigūnas (toliau – operacijos vadovas).
+Straipsnio pakeitimai:
+Nr. XI-1504, 2011-06-22, Žin., 2011, Nr. 86-4146 (2011-07-13), i. k. 1111010ISTA0XI-1504
  
-
-
 
 
 
@@ -693,7 +734,10 @@ TARNYBOS VEIKLOS ORGANIZAVIMAS YPATINGŲ IR EKSTREMALIŲ SITUACIJŲ METU
 18 straipsnis. Vadovavimas ypatingos situacijos likvidavimui
 
 
-1. Operacijos vadovas tiesiogiai vadovauja Tarnybos pajėgoms, dalyvaujančioms likviduojant ypatingą situaciją. Operacijos vadovas nustato ypatingos situacijos likvidavimo tvarką, būdus, priemones, veiksmų mastą.
+1. Tarnybos pajėgoms, dalyvaujančioms likviduojant ypatingą situaciją, vadovauja Tarnybos vadas arba jo įgaliotas Tarnybos pareigūnas (toliau – operacijos vadovas). Operacijos vadovas nustato ypatingos situacijos likvidavimo tvarką, būdus, priemones, veiksmų mastą.
+Straipsnio dalies pakeitimai:
+Nr. XI-1504, 2011-06-22, Žin., 2011, Nr. 86-4146 (2011-07-13), i. k. 1111010ISTA0XI-1504
+ 
 
 
 
@@ -716,13 +760,15 @@ TARNYBOS VEIKLOS ORGANIZAVIMAS YPATINGŲ IR EKSTREMALIŲ SITUACIJŲ METU
 
 
 
-19 straipsnis. Tarnybos pajėgų pasitelkimas ekstremalių situacijų metu
+19 straipsnis. Tarnybos pajėgų pasitelkimas ekstremaliųjų situacijų metu
 
 
-Tarnybos pajėgų pasitelkimą ekstremalių situacijų metu reglamentuoja įstatymai ir kiti teisės aktai.
+Tarnybos pajėgų pasitelkimą ekstremaliųjų situacijų metu reglamentuoja įstatymai ir kiti teisės aktai.
+
+
+Straipsnio pakeitimai:
+Nr. XI-1504, 2011-06-22, Žin., 2011, Nr. 86-4146 (2011-07-13), i. k. 1111010ISTA0XI-1504
  
-
-
 
 
 
@@ -734,7 +780,10 @@ TARNYBOS FINANSAVIMAS, MATERIALINIS APRŪPINIMAS IR VEIKLOS KONTROLĖ
  
 
 
-20 straipsnis. Tarnybos finansavimas
+20 straipsnis. Tarnybos finansavimas ir materialinis aprūpinimas 
+Pakeistas straipsnio pavadinimas:
+Nr. XI-1504, 2011-06-22, Žin., 2011, Nr. 86-4146 (2011-07-13), i. k. 1111010ISTA0XI-1504
+ 
 
 
 1. Tarnyba finansuojama iš Lietuvos Respublikos valstybės biudžeto.
@@ -743,9 +792,29 @@ TARNYBOS FINANSAVIMAS, MATERIALINIS APRŪPINIMAS IR VEIKLOS KONTROLĖ
 
 
 2. Tarnybai finansuoti gali būti naudojamos ir kitos teisės aktų nustatyta tvarka gautos lėšos.
+
+
+
+
+3. Tarnyba aprūpinama materialinėmis ir techninėmis priemonėmis iš jai finansuoti skirtų asignavimų.
+Papildyta straipsnio dalimi:
+Nr. XI-1504, 2011-06-22, Žin., 2011, Nr. 86-4146 (2011-07-13), i. k. 1111010ISTA0XI-1504
  
 
 
+
+
+
+
+201 straipsnis. Tarnybos teritorija 
+
+
+Valstybinės žemės sklypų, sudarančių Tarnybos teritoriją, plotus ir jų ribas tvirtina Vyriausybė, o patekimo į Tarnybos teritoriją ir buvimo joje vidaus tvarką nustato Tarnybos vadas.
+
+
+Papildyta straipsniu:
+Nr. XI-1504, 2011-06-22, Žin., 2011, Nr. 86-4146 (2011-07-13), i. k. 1111010ISTA0XI-1504
+ 
 
 
 
@@ -831,3 +900,14 @@ Vyriausybė per 6 mėnesius nuo šio įstatymo įsigaliojimo:
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1504, 2011-06-22, Žin., 2011, Nr. 86-4146 (2011-07-13), i. k. 1111010ISTA0XI-1504
+Lietuvos Respublikos viešojo saugumo tarnybos įstatymo 2, 3, 6, 7, 8, 10, 11, 17, 18, 19, 20 straipsnių pakeitimo ir papildymo, VI skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 20-1 straipsniu įstatymas
