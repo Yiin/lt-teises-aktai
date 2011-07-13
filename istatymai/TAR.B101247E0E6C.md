@@ -369,6 +369,16 @@ Karo prievolės įstatymo nustatyta tvarka atlikę privalomąją pradinę karo
 tarnybą arba įstatymų nustatyta tvarka atleisti nuo jos bei tinkantys
 konkrečioms pareigoms pagal išsilavinimą, intelektą ir moralines savybes,
 dalykinį ir fizinį pasirengimą bei sveikatos būklę.
+1 dalies
+redakcija nuo 2011 m. rugsėjo 1 d.:
+1. Saugumo pareigūnais į tarnybą gali būti priimami
+nepriekaištingos reputacijos, ne jaunesni kaip 20 metų, mokantys valstybinę
+kalbą Lietuvos Respublikos piliečiai, Karo prievolės įstatymo nustatyta tvarka
+atlikę privalomąją pradinę karo tarnybą, kuriems ši tarnyba įskaityta, atidėta
+arba kurie atleisti nuo karo prievolės bei tinkantys konkrečioms pareigoms
+pagal išsilavinimą, intelektą ir moralines savybes, dalykinį ir fizinį
+pasirengimą bei sveikatos būklę.
+ 
 2. Tam tikroms
 pareigybėms Saugumo departamento generalinis direktorius gali nustatyti
 papildomus reikalavimus (išsilavinimo, profesinių įgūdžių, darbo patirties,
@@ -381,6 +391,9 @@ Straipsnio
 pakeitimai:
 Nr. X-1740,
 2008-10-06, Žin., 2008, Nr. 120-4547 (2008-10-18)
+Nr.
+XI-1517,
+2011-06-23, Žin., 2011, Nr. 86-4159 (2011-07-13)
  
 14
 straipsnis. Saugumo pareigūnų atranka
@@ -400,8 +413,7 @@ pagal sveikatos būklę.
 privalomų periodinių profilaktinių sveikatos patikrinimų tvarką nustato Saugumo
 departamento generalinis direktorius ir vidaus reikalų ministras, suderinę su
 sveikatos apsaugos ministru.
-Straipsnio
-pakeitimai:
+Straipsnio pakeitimai:
 Nr. X-1740,
 2008-10-06, Žin., 2008, Nr. 120-4547 (2008-10-18)
  
@@ -433,8 +445,8 @@ partijų, politinių organizacijų nariai ar rėmėjai arba asmenys, kitaip
 dalyvaujantys jų veikloje ar bet kokioje kitoje politinėje veikloje;
 7) buvę SSRS
 valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) kadriniai darbuotojai – pagal
-įstatymo „Dėl SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo ir
-šios organizacijos kadrinių darbuotojų dabartinės veiklos“ reikalavimus;
+įstatymo „Dėl SSRS valstybės saugumo komiteto (NKVD, NKGB, MGB, KGB) vertinimo
+ir šios organizacijos kadrinių darbuotojų dabartinės veiklos“ reikalavimus;
 8) kuriems yra
 taikomi veiklos apribojimai pagal Asmenų, slapta bendradarbiavusių su buvusios
 SSRS specialiosiomis tarnybomis, registracijos, prisipažinimo, įskaitos ir
@@ -453,9 +465,9 @@ straipsnis. Priėmimo į tarnybą tvarka, saugumo pareigūno priesaika
 išskyrus skiriamus Respublikos Prezidento dekretu, į tarnybą Saugumo
 departamente priimami ir į pareigas skiriami generalinio direktoriaus įsakymu.
 2. Saugumo
-pareigūnas pradeda eiti pareigas prisiekęs Lietuvos valstybei. Kiekvienas
-pareigūnas prisiekia asmeniškai ir pasirašo priesaikos tekstą. Šis tekstas
-saugomas pareigūno asmens byloje.
+pareigūnas pradeda eiti pareigas prisiekęs Lietuvos valstybei. Kiekvienas pareigūnas
+prisiekia asmeniškai ir pasirašo priesaikos tekstą. Šis tekstas saugomas
+pareigūno asmens byloje.
  
 18
 straipsnis. Bandomasis laikotarpis
@@ -499,9 +511,8 @@ perkeltas:
 2) Atestacijos komisijos siūlymu, kai saugumo
 pareigūno tarnybinė veikla įvertinta labai gerai; 
 3) esant tarnybiniam būtinumui - ne ilgiau kaip 3 mėnesiams. 
- 
-[3,
-4 ir 5 dalių redakcija iki 2012-01-01]
+3,
+4 ir 5 dalių redakcija iki 2012-01-01:
 3. Saugumo pareigūnas į lygiavertes pareigas gali būti
 perkeltas:
 1) paties prašymu ar sutikimu;
@@ -524,8 +535,8 @@ sutikimas yra būtinas šio straipsnio 2 dalies 2 punkte, 3 dalies 2 punkte, 4
 dalies 2 ir 3 punktuose nustatytais atvejais, taip pat šio straipsnio 3 dalies
 4 punkte nustatytais atvejais, kai saugumo pareigūnas perkeliamas į kitas
 pareigas kitoje gyvenamojoje vietovėje.
-[3,4
-ir 5 dalių redakcija nuo 2012-01-01]
+3,
+4 ir 5 dalių redakcija nuo 2012-01-01:
 3. Saugumo pareigūnas į lygiavertes pareigas gali būti
 perkeltas:
 1) paties prašymu ar sutikimu;
@@ -566,10 +577,10 @@ atšaukimo iš šių pareigų tvarką, laikinai perkeltų saugumo pareigūnų ta
 ypatumus nustato Vyriausybė.
 Straipsnio
 pakeitimai:
-Nr. X-1740,
-2008-10-06, Žin., 2008, Nr. 120-4547 (2008-10-18)
-Nr. XI-1389, 2011-05-19,
-Žin., 2011, Nr. 68-3220 (2011-06-04)
+Nr. X-1740, 2008-10-06,
+Žin., 2008, Nr. 120-4547 (2008-10-18)
+Nr. XI-1389,
+2011-05-19, Žin., 2011, Nr. 68-3220 (2011-06-04)
  
 21
 straipsnis. Laikinas pavedimas atlikti kitas pareigas
@@ -642,16 +653,16 @@ nustatytais atvejais į tarnybą grįžta pirmiau šias pareigas ėjęs pareigū
 įstatymų nustatyta tvarka atimamos specialiosios teisės, susijusios su jo
 tiesioginių pareigų atlikimu;
  
-[17
-punkto redakcija iki 2012-01-01]
+17
+punkto redakcija iki 2012-01-01:
 17) kai jis atsisako būti perkeltas į
 kitas pareigas šio Statuto 20 straipsnio 2 dalies 3 punkte, 3 dalies 3 punkte,
 4 dalies 3 ir 5 punktuose nustatytais atvejais, 20 straipsnio 3 dalies 4 punkte
 nustatytu atveju, kai saugumo pareigūną numatoma perkelti į kitas pareigas toje
 pačioje gyvenamojoje vietovėje, taip pat kai jis atsisako tarnauti pakeitus
 tarnybos sąlygas šio Statuto 21 straipsnio 1 dalyje nustatytu atveju;
-[17
-punkto redakcija nuo 2012-01-01]
+17
+punkto redakcija nuo 2012-01-01:
 17) kai jis
 atsisako būti perkeltas į kitas pareigas šio Statuto 20 straipsnio 2 dalies 3
 punkte, 3 dalies 3 punkte, 4 dalies 3 ir 5 punktuose nustatytais atvejais, 20
@@ -667,7 +678,8 @@ kaip 140 kalendorinių dienų per paskutinius 12 mėnesių, jeigu įstatymų
 nenustatyta, kad tam tikros ligos atveju pareigos paliekamos ilgesnį laiką, ir
 jeigu neatvykimas į darbą nesusijęs su kūno sužalojimu, suluošinimu ar kitu
 sveikatos sutrikimu, atsiradusiu einant tarnybines pareigas;
-19) šalių susitarimu.
+19) šalių
+susitarimu.
 2. Saugumo
 pareigūno vardo žeminimas – veika, kuria pareigūnas pažemina Saugumo
 departamento autoritetą, sudaro neigiamą klaidingą visuomenės nuomonę apie
@@ -737,8 +749,9 @@ Nr. X-1740,
 25
 straipsnis. Atleidimo iš tarnybos tvarka
 1. Saugumo
-pareigūnai iš tarnybos atleidžiami Saugumo departamento generalinio direktoriaus
-įsakymu, išskyrus pareigūnus, atleidžiamus Respublikos Prezidento dekretu.
+pareigūnai iš tarnybos atleidžiami Saugumo departamento generalinio
+direktoriaus įsakymu, išskyrus pareigūnus, atleidžiamus Respublikos Prezidento
+dekretu.
 2. Atleidžiamas iš
 tarnybos saugumo pareigūnas Saugumo departamento generalinio direktoriaus
 nustatyta tvarka privalo ne vėliau kaip atleidimo dieną grąžinti tarnybinį
@@ -760,12 +773,12 @@ pareigūnas, nesutinkantis su atleidimu iš tarnybos, per 1 mėnesį nuo atleidi
 patvirtinančio dokumento gavimo dienos turi teisę kreiptis į teismą.
 2. Teismui grąžinus
 neteisėtai atleistą saugumo pareigūną į ankstesnes pareigas, teismo sprendimu
-šiam pareigūnui išmokamas jo vidutinis mėnesinis darbo užmokestis už visą priverstinės
-pravaikštos laiką.
+šiam pareigūnui išmokamas jo vidutinis mėnesinis darbo užmokestis už visą
+priverstinės pravaikštos laiką.
 Straipsnio
 pakeitimai:
-Nr. X-1740,
-2008-10-06, Žin., 2008, Nr. 120-4547 (2008-10-18)
+Nr. X-1740, 2008-10-06,
+Žin., 2008, Nr. 120-4547 (2008-10-18)
  
 28 straipsnis. Saugumo
 pareigūnų rezervas
@@ -871,8 +884,8 @@ specialios paskirties įstaigų valdybų viršininkams ir jų pavaduotojams,
 ištarnavusiems saugumo majorais ne mažiau kaip 4 metus;
 3) saugumo majoro laipsnis - poskyrių viršininkams, vyriausiesiems specialistams, vyriausiesiems
 inspektoriams, specialios paskirties įstaigų skyrių viršininkams ir jų
-pavaduotojams, poskyrių viršininkams, vyriausiesiems specialistams,
-ištarnavusiems saugumo kapitonais ne mažiau kaip 3 metus;
+pavaduotojams, poskyrių viršininkams, vyriausiesiems specialistams, ištarnavusiems
+saugumo kapitonais ne mažiau kaip 3 metus;
 4) saugumo kapitono laipsnis - vyresniesiems inspektoriams, inspektoriams, vyresniesiems
 specialistams ir specialistams (išskyrus atliekančius fizinės apsaugos
 funkcijas), ištarnavusiems saugumo vyresniaisiais leitenantais ne mažiau kaip 3
@@ -902,8 +915,8 @@ nuosprendžiui arba pareigūnui netekus Lietuvos Respublikos pilietybės. Saugum
 pareigūno laipsnį atima jį suteikęs pareigūnas.
 Straipsnio
 pakeitimai:
-Nr. X-1740, 2008-10-06,
-Žin., 2008, Nr. 120-4547 (2008-10-18)
+Nr. X-1740,
+2008-10-06, Žin., 2008, Nr. 120-4547 (2008-10-18)
  
 31
 straipsnis. Kvalifikacinės kategorijos ir jų suteikimo tvarka
@@ -916,8 +929,7 @@ Kvalifikacinių kategorijų suteikimo nuostatai.
 3. Saugumo
 pareigūnams gali būti suteikiamos šios kvalifikacinės kategorijos: penktoji
 (V), ketvirtoji (IV), trečioji (III), antroji (II), pirmoji (I). Aukščiausia
-yra pirmoji kvalifikacinė kategorija, žemiausia – penktoji kvalifikacinė
-kategorija.
+yra pirmoji kvalifikacinė kategorija, žemiausia – penktoji kvalifikacinė kategorija.
 4. Saugumo departamento generaliniam direktoriui pagal
 pareigas suteikiama pirmoji kvalifikacinė kategorija. Generaliniam direktoriui
 pirmąją (I) kvalifikacinę kategoriją suteikia Respublikos Prezidentas,
@@ -953,8 +965,8 @@ straipsnio 4 dalies nuostatas.
 pareigūnai už ypatingus nuopelnus tarnyboje gali būti pristatyti valstybės
 apdovanojimui.
 3. Saugumo
-pareigūnų skatinimo tvarka nustatoma Saugumo departamento generalinio
-direktoriaus įsakymu.
+pareigūnų skatinimo tvarka nustatoma Saugumo departamento generalinio direktoriaus
+įsakymu.
 4. Saugumo
 departamento žinybinio pasižymėjimo ženklo nuostatus tvirtina Saugumo
 departamento generalinis direktorius.
@@ -985,8 +997,8 @@ pažeminimas;
 žemesnes pareigas;
 6) atleidimas iš
 tarnybos.
-2. Drausminė nuobauda – atleidimas iš tarnybos gali būti
-skiriama:
+2. Drausminė nuobauda – atleidimas iš tarnybos gali
+būti skiriama:
 1) už nebuvimą tarnybos vietoje vieną ar daugiau darbo
 dienų be pateisinamos priežasties;
 2) už buvimą darbo metu apsvaigusiam nuo alkoholio,
@@ -1162,9 +1174,9 @@ tokį ketinimą, suteikdamas asmeniui galimybę įvykdyti teisėtus reikalavimus
 išskyrus atvejus, kai delsimas kelia grėsmę pareigūno ar kito asmens gyvybei ar
 sveikatai arba toks įspėjimas neįmanomas.
 7. Atitinkamų
-padalinių saugumo pareigūnai turi būti specialiai parengti ir periodiškai
-tikrinami, ar gali veikti situacijose, kuriose naudojama fizinė prievarta,
-šaunamasis ginklas.
+padalinių saugumo pareigūnai turi būti specialiai parengti ir periodiškai tikrinami,
+ar gali veikti situacijose, kuriose naudojama fizinė prievarta, šaunamasis
+ginklas.
 8. Saugumo
 pareigūnas, nepažeisdamas šio Statuto reikalavimų panaudojęs prievartą ir
 padaręs žalą įstatymų saugomoms vertybėms, atsakomybėn netraukiamas.
@@ -1175,8 +1187,8 @@ prokurorui ar jo pavaduotojui.
 10. Šaunamąjį
 ginklą ir specialiąsias priemones iš saugumo pareigūno gali paimti Saugumo
 departamento generalinis direktorius, jo pavaduotojai, tiesioginis vadovas arba
-kitas generalinio direktoriaus įgaliotas pareigūnas, neaiškindami paėmimo priežasčių.
-Jei šaunamąjį ginklą ir specialiąsias priemones paėmė ne Saugumo departamento
+kitas generalinio direktoriaus įgaliotas pareigūnas, neaiškindami paėmimo
+priežasčių. Jei šaunamąjį ginklą ir specialiąsias priemones paėmė ne Saugumo departamento
 generalinis direktorius, jam apie tai nedelsiant pranešama raštu.
  
 40
@@ -1210,8 +1222,8 @@ sveikatai.
 41
 straipsnis. Šaunamojo ginklo naudojimas
 1. Saugumo
-pareigūnas turi teisę panaudoti šaunamąjį ginklą, kai kitos prievartos priemonės
-yra neveiksmingos.
+pareigūnas turi teisę panaudoti šaunamąjį ginklą, kai kitos prievartos
+priemonės yra neveiksmingos.
 2. Saugumo
 pareigūnas turi teisę panaudoti šaunamąjį ginklą prieš asmenį šiais atvejais:
 1) gindamas save,
@@ -1362,55 +1374,21 @@ nustatyta tvarka.
 5. Saugumo departamento generaliniam direktoriui ir jo
 pavaduotojams pareigybės kategoriją suteikia Respublikos Prezidentas, skirdamas
 juos į pareigas.
-6. Laikinojo nedarbingumo bei nėštumo ir gimdymo
-atostogų laikotarpiu saugumo pareigūnams
-mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų darbo
-užmokestis, o vaiko priežiūros atostogų laikotarpiu nuo nėštumo ir gimdymo
-atostogų pabaigos už kiekvieną vaiką, kol vaikui sueis vieni metai, – 100
-procentų, o kol vaikui sueis dveji metai, – 85 procentai Vyriausybės nustatyta
-tvarka apskaičiuoto vidutinio jų darbo užmokesčio. Išmokos vaiko priežiūros
-atostogų laikotarpiu mokamos neatsižvelgiant į tai, kurio vaiko priežiūrai
-suteiktos vaiko priežiūros atostogos. Jeigu saugumo pareigūnui gimsta du
-ir daugiau vaikų ir jis yra šių vaikų priežiūros atostogose, jam apskaičiuotas
-vidutinis darbo užmokestis didinamas atsižvelgiant į vienu metu gimusių vaikų
-skaičių (gimus dvynukams – 2 kartus, gimus trynukams – 3 kartus ir t. t.).
-Išmoka už nėštumo ir gimdymo laikotarpį didinama tokia pat tvarka. Kai
-saugumo pareigūnei, gaunančiai išmoką vaiko priežiūros atostogų
-laikotarpiu, suteikiamos nėštumo ir gimdymo atostogos ir ji įgyja teisę gauti
-išmoką nėštumo ir gimdymo atostogų laikotarpiu, jai mokamos abi šios išmokos.
- 
-6
-dalies nuostatos dėl laikinojo nedarbingumo laikotarpiu pareigūnams mokamų
-išmokų įsigalioja 2010 m. rugpjūčio 1 d., nuostatos dėl nėštumo ir gimdymo
-atostogų, tėvystės atostogų ir vaiko priežiūros atostogų laikotarpiais
-pareigūnams mokamų išmokų įsigalioja 2011 m. liepos 1 d.. 
-6. Laikinojo nedarbingumo, nėštumo ir gimdymo
-atostogų, tėvystės atostogų ir vaiko priežiūros atostogų laikotarpiais saugumo
+6. Laikinojo nedarbingumo, nėštumo ir gimdymo atostogų,
+tėvystės atostogų ir vaiko priežiūros atostogų laikotarpiais saugumo
 pareigūnams mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų
 darbo užmokestis arba jo dalis. Mokamo vidutinio darbo užmokesčio ar jo dalies
 dydis, maksimalus kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi
 vadovaujantis Lietuvos Respublikos ligos ir motinystės socialinio draudimo
 įstatymo nuostatomis.
- 
-7. Jeigu saugumo pareigūnas, kuris buvo ar yra
-išleistas vaiko priežiūros atostogų, kol vaikui sueis dveji metai, gauna darbo
-užmokestį, kuris yra mažesnis už vidutinį darbo užmokestį (bendrą vidutinių
-darbo užmokesčių sumą), nurodytą šio straipsnio 5 dalyje, laikotarpiu, kol
-vaikui sueis dveji metai, jam mokamas šio vidutinio darbo užmokesčio (bendros
-jų sumos) ir jo gaunamo atitinkamo mėnesio darbo užmokesčio skirtumas.
-7
-dalis netenka galios nuo 2011 m. liepos 1 d.
-8. Tėvystės atostogų laikotarpiu saugumo pareigūnui
-mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jo darbo
-užmokestis, jeigu jis pripažino tėvystę.
-8
-dalis netenka galios nuo 2011 m. liepos 1 d.
+7. Neteko galios nuo 2011 m. liepos 1 d.
+8. Neteko galios nuo 2011 m. liepos 1 d.
 Straipsnio pakeitimai:
 Nr. X-122, 2005-02-15,
 Žin., 2005, Nr. 28-874 (2005-02-26)
 Nr.
-X-663, 2006-06-08,
-Žin., 2006, Nr. 74-2817 (2006-07-03)
+X-663,
+2006-06-08, Žin., 2006, Nr. 74-2817 (2006-07-03)
 Nr.
 X-792,
 2006-07-19, Žin., 2006, Nr. 87-3403 (2006-08-08)
@@ -1463,8 +1441,8 @@ vidutinio darbo užmokesčio dydžio;
 darbingumo dėl sužalojimo ar susižalojimo - 48 mėnesių
 vidutinio darbo užmokesčio dydžio;
 3) netekusiems 45-55 procentų
-darbingumo dėl sužalojimo ar susižalojimo - 36 mėnesių vidutinio
-darbo užmokesčio dydžio;
+darbingumo dėl sužalojimo ar susižalojimo - 36 mėnesių
+vidutinio darbo užmokesčio dydžio;
 4) netekusiems iki 40 procentų darbingumo dėl
 sužalojimo ar susižalojimo ir dėl to pripažintiems netinkamais tarnybai Saugumo
 departamente - 30 mėnesių vidutinio darbo užmokesčio dydžio;
@@ -1481,8 +1459,8 @@ sutrikdymas yra susijęs su tarnyba, nustatoma Saugumo departamento generalinio
 direktoriaus nustatyta tvarka atlikus tarnybinį tyrimą.
 7. Šiame straipsnyje nustatytos kompensacijos
 nemokamos, jeigu:
-1) pareigūnas žuvo arba susižalojo darydamas
-nusikaltimą ar baudžiamąjį nusižengimą;
+1) pareigūnas žuvo arba susižalojo darydamas nusikaltimą
+ar baudžiamąjį nusižengimą;
 2) pareigūno žuvimo arba susižalojimo priežastis buvo
 su tarnybinių pareigų atlikimu nesusijęs apsvaigimas nuo alkoholio, narkotinių,
 toksinių, psichotropinių arba kitų svaigiųjų medžiagų;
@@ -1517,8 +1495,8 @@ Nr. X-1740,
  
 46
 straipsnis. Išmokos atleidžiamiems saugumo pareigūnams
-[1
-ir 2 dalių redakcija iki 2012-01-01]
+1
+ir 2 dalių redakcija iki 2012-01-01:
 1. Saugumo
 pareigūnui atleidžiamam iš tarnybos šio Statuto 22 straipsnio 1 dalies
 6, 13, 14, 15 ir 18 punktų nustatytais pagrindais, išmokama 2 mėnesių jo
@@ -1529,13 +1507,13 @@ atleistiems saugumo pareigūnams šio straipsnio 1 dalyje numatyta išeitinė
 išmoka didinama tokia tvarka: turintiems daugiau kaip 5 metų tarnybos Saugumo
 departamente stažą – pusantro karto, turintiems daugiau kaip 10 metų – du
 kartus, daugiau kaip 20 metų – tris kartus.
-[1
-ir 2 dalių redakcija nuo 2012-01-01]
+1
+ir 2 dalių redakcija nuo 2012-01-01:
 1. Saugumo
-pareigūnui, atleidžiamam iš tarnybos šio Statuto 22 straipsnio 1 dalies 6, 13, 14,
-15 ir 18 punktuose nustatytais pagrindais, taip pat 22 straipsnio 1 dalies 17
-punkte nustatytu pagrindu, kai jis atsisako būti perkeltas į kitas pareigas šio
-Statuto 20 straipsnio 3 dalies 5 punkte ir 4 dalies 6 punkte nustatytais
+pareigūnui, atleidžiamam iš tarnybos šio Statuto 22 straipsnio 1 dalies 6, 13,
+14, 15 ir 18 punktuose nustatytais pagrindais, taip pat 22 straipsnio 1 dalies
+17 punkte nustatytu pagrindu, kai jis atsisako būti perkeltas į kitas pareigas
+šio Statuto 20 straipsnio 3 dalies 5 punkte ir 4 dalies 6 punkte nustatytais
 atvejais, išmokama 2 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė
 išmoka.
 2. Šio Statuto 22
@@ -1554,7 +1532,8 @@ pareigūnams šio straipsnio 1 ir 2 dalyse nustatyta išeitinė išmoka pradedam
 mokėti praėjus mėnesiui nuo pareigūno atleidimo dienos ir mokama kas mėnesį
 lygiomis dalimis. Jos mokėjimas nutraukiamas, jei asmuo įsidarbina kitur.
 Kitais atvejais išeitinė išmoka mokama atleidimo iš pareigų dieną.
-Straipsnio pakeitimai:
+Straipsnio
+pakeitimai:
 Nr. XI-1389,
 2011-05-19, Žin., 2011, Nr. 68-3220 (2011-06-04)
  
@@ -1605,8 +1584,8 @@ užmokesčiui skirtų lėšų.
 išskyrus žuvusį atliekant tarnybines pareigas arba mirusį dėl priežasčių,
 susijusių su tarnybinių pareigų atlikimu, saugumo pareigūno šeimos nariams
 išmokama 1 mėnesio jo gauto vidutinio darbo užmokesčio dydžio pašalpa.
-[49
-straipsnis papildytas 3 dalimi nuo 2012-01-01]
+Straipsnis
+papildomas 3 dalimi nuo 2012-01-01:
 3. Saugumo
 pareigūnui, keičiančiam gyvenamąją vietą dėl perkėlimo į kitas pareigas ar
 laikino pavedimo atlikti kitas pareigas kitoje gyvenamojoje vietovėje, išmokama
@@ -1655,9 +1634,9 @@ SAUGUMO DEPARTAMENTO STATUTO 42 IR 43 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 Šis įstatymas įsigalioja nuo 2006 m. liepos 1 d.
 Įsigaliojus
 šiam įstatymui, Valstybės saugumo departamento pareigūnams, esantiems vaiko
-priežiūros, kol jam sueis vieni metai, atostogose, apskaičiuotos sumos perskaičiuojamos
-vadovaujantis šio įstatymo nuostatomis ir mokamos nuo šio įstatymo nuostatų
-įsigaliojimo dienos.
+priežiūros, kol jam sueis vieni metai, atostogose, apskaičiuotos sumos
+perskaičiuojamos vadovaujantis šio įstatymo nuostatomis ir mokamos nuo šio
+įstatymo nuostatų įsigaliojimo dienos.
  
 4.
 Lietuvos
@@ -1802,12 +1781,23 @@ SAUGUMO DEPARTAMENTO STATUTO 20, 22, 46, 49 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 ĮSTATYMAS
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.
  
+16.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-1517,
+2011-06-23, Žin., 2011, Nr. 86-4159 (2011-07-13)
+VALSTYBĖS
+SAUGUMO DEPARTAMENTO STATUTO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2011 m. rugsėjo 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušra Bodin (2011-06-06)
+Aušrinė Trapinskienė (2011-07-26)
                  
-aubodi@lrs.lt
+ausrine.trapinskiene@lrs.lt
 
