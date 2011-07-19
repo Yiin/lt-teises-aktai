@@ -256,6 +256,13 @@ toksinių ir radioaktyviųjų medžiagų gamybos, prekybos, importo, eksporto,
 transportavimo, naudojimo sąlygas, darbų su jonizuojančio spinduliavimo
 šaltiniais reikalavimus, radiacinio saugumo užtikrinimo sąlygas ir kontrolės
 tvarką;
+15
+punkto redakcija nuo 2011 m. spalio 1 d.:
+15) nuodų, kitų
+toksinių ir radioaktyviųjų medžiagų gamybos, prekybos, importo, eksporto,
+vežimo, naudojimo sąlygas, taip pat veiklos su jonizuojančiosios spinduliuotės
+šaltiniais ir radiacinės saugos teisinius pagrindus;
+ 
 16) užkrečiamųjų
 ligų profilaktikos sistemą, šių ligų profilaktikos ir kontrolės organizavimo ir
 valdymo teisinius pagrindus;
@@ -307,6 +314,8 @@ Nr. X-298, 2005-06-30,
 Žin., 2005, Nr. 85-3142 (2005-07-14)
 Nr. X-1151,
 2007-05-24, Žin., 2007, Nr. 64-2456 (2007-06-09)
+Nr. XI-1546,
+2011-06-28, Žin., 2011, Nr. 91-4323 (2011-07-19)
  
 4
 straipsnis. Sveikatinimo veiklos tikslai
@@ -316,8 +325,8 @@ veiklos tikslai:
 atskirų visuomenės socialinių ir profesinių grupių atsilikimą nuo kitų
 visuomenės grupių pagal sveikatos būklės rodiklius, nepabloginant bendrojo
 gyventojų sveikatos lygio;
-2) saugoti gyventojus
-nuo ligų, išvengiamos mirties ir neįgalumo;
+2) saugoti
+gyventojus nuo ligų, išvengiamos mirties ir neįgalumo;
 3) ilginti
 gyvenimo be ligų ir traumų laiką bei gerinti gyvenimo kokybę;
 4) didinti
@@ -408,7 +417,8 @@ ir teikiamos paslaugos.
 8
 straipsnis. LNSS vykdomieji subjektai 
 LNSS vykdomieji
-subjektai - tai sveikatos priežiūros ar farmacinės veiklos licencijas turinčios:
+subjektai - tai sveikatos priežiūros ar farmacinės veiklos licencijas
+turinčios:
 1) valstybės ir
 savivaldybių asmens ir visuomenės sveikatos priežiūros biudžetinės ir viešosios
 įstaigos;
@@ -459,8 +469,8 @@ savivaldybių įstaigų, įmonių, turinčių asmens ar visuomenės sveikatos
 priežiūros, farmacinės veiklos licenciją, specialistai ir kiti darbuotojai; 
 7) asmens ir
 visuomenės sveikatos informacijos duomenų bankai.
-2. LNSS
-išteklius reglamentuoja šis ir kiti įstatymai bei teisės aktai.
+2. LNSS išteklius
+reglamentuoja šis ir kiti įstatymai bei teisės aktai.
 3. Į biudžetinių
 sveikatos priežiūros įstaigų turtą ir lėšas negali būti nukreiptas
 išieškojimas.
@@ -512,8 +522,8 @@ priežiūros paslaugų lygiai yra:
 (pirminė sveikatos priežiūra);
 2) antrinis
 (antrinė sveikatos priežiūra);
-3) tretinis (tretinė
-sveikatos priežiūra).
+3) tretinis
+(tretinė sveikatos priežiūra).
 3. LNSS
 priklausančių stacionarinių asmens sveikatos priežiūros įstaigų, teikiančių
 sveikatos priežiūros paslaugas, finansuojamas iš Privalomojo sveikatos draudimo
@@ -532,9 +542,10 @@ vykdomosios institucijos taip pat įgyvendina įstatymo deleguotą valstybės
 funkciją – organizuoja antrinę asmens sveikatos priežiūrą. Savivaldybių
 vykdomosioms institucijoms gali būti deleguota valstybės funkcija organizuoti
 tretinę asmens sveikatos priežiūrą. Sprendimą dėl tretinės asmens sveikatos
-priežiūros organizavimo priima Sveikatos apsaugos ministerija, įvertinusi tretinės
-asmens sveikatos priežiūros poreikį tame regione. Antrinės ir tretinės asmens
-sveikatos priežiūros mastą ir profilius nustato Sveikatos apsaugos ministerija.
+priežiūros organizavimo priima Sveikatos apsaugos ministerija, įvertinusi
+tretinės asmens sveikatos priežiūros poreikį tame regione. Antrinės ir tretinės
+asmens sveikatos priežiūros mastą ir profilius nustato Sveikatos apsaugos
+ministerija.
 6. Sveikatos
 apsaugos ministerija ir jai pavaldžios valstybės institucijos pagal
 kompetenciją organizuoja nustatyto masto asmens ir visuomenės sveikatos
@@ -647,8 +658,8 @@ tinkamumas;
 sutikimas gauti sveikatos priežiūros paslaugas, išskyrus įstatymų numatytus
 atvejus, kai tokios paslaugos gali būti suteiktos be jo sutikimo.
 2. Sveikatinimo
-veikla apima tik Lietuvos Respublikos teritoriją, jeigu ko kita nenustato
-Lietuvos Respublikos tarptautinės sutartys.
+veikla apima tik Lietuvos Respublikos teritoriją, jeigu ko kita nenustato Lietuvos
+Respublikos tarptautinės sutartys.
 3. Sveikatinimo
 veiklos būtinąsias sąlygas turi užtikrinti visi sveikatinimo veiklos subjektai.
 Straipsnio
@@ -753,16 +764,16 @@ nustatyta tvarka aprobuotas diagnostikos ir gydymo metodikas bei technologijas.
 2. Sveikatos
 priežiūros specialistai gali panaudoti naujus, moksliškai pagrįstus, bet dar
 nustatyta tvarka neįregistruotus vaistus, neaprobuotus profilaktikos,
-diagnostikos ir gydymo metodus, medicinos aparatūrą ir instrumentus tik stengdamiesi
-pacientą išgydyti, išgelbėti ar pratęsti jo gyvybę. Šiuo atveju jie privalo
-gauti paciento, o jeigu jis yra nesąmoningos būsenos arba nepilnametis, - jo
-tėvų, artimųjų, globėjų ar jo atstovo, taip pat sveikatos priežiūros įstaigos
-medicinos etikos komisijos sutikimą. Sutikimas turi būti patvirtintas raštu.
-Kai pacientas yra nesąmoningos būsenos ir kai nėra jokių žinių apie jo
-artimuosius, tėvus, globėjus ar jo atstovą, šios technologijos gali būti
-taikomos tik raštiškai pritarus ne mažiau kaip dviejų atitinkamos specialybės
-gydytojų konsiliumui bei sveikatos priežiūros įstaigos medicinos etikos
-komisijai.
+diagnostikos ir gydymo metodus, medicinos aparatūrą ir instrumentus tik
+stengdamiesi pacientą išgydyti, išgelbėti ar pratęsti jo gyvybę. Šiuo atveju
+jie privalo gauti paciento, o jeigu jis yra nesąmoningos būsenos arba
+nepilnametis, - jo tėvų, artimųjų, globėjų ar jo atstovo, taip pat sveikatos
+priežiūros įstaigos medicinos etikos komisijos sutikimą. Sutikimas turi būti
+patvirtintas raštu. Kai pacientas yra nesąmoningos būsenos ir kai nėra jokių žinių
+apie jo artimuosius, tėvus, globėjus ar jo atstovą, šios technologijos gali
+būti taikomos tik raštiškai pritarus ne mažiau kaip dviejų atitinkamos
+specialybės gydytojų konsiliumui bei sveikatos priežiūros įstaigos medicinos
+etikos komisijai.
 3. Priverstinės
 hospitalizacijos, priverstinės diagnostikos bei priverstinio gydymo priemonių
 taikymas galimas tik įstatymų nustatytais pagrindais ir tvarka, kai yra reali
@@ -824,7 +835,8 @@ ir kiti teisės aktai.
 3. Sveikatos
 priežiūros įstaigų socialinių darbuotojų veiklos sveikatos priežiūros įstaigose
 nuostatus tvirtina, jų rengimo bei kvalifikacijos kėlimo tvarką nustato
-Socialinės apsaugos ir darbo ministerija kartu su Sveikatos apsaugos ministerija.
+Socialinės apsaugos ir darbo ministerija kartu su Sveikatos apsaugos
+ministerija.
  
 26
 straipsnis. Laikinojo nedarbingumo ekspertizė
@@ -844,8 +856,8 @@ galios)
 2.
 Specializuotosios medicininės ekspertizės organizavimo ir atlikimo tvarką pagal
 kompetenciją nustato Sveikatos apsaugos ministerija arba Vidaus reikalų
-ministerija, arba Krašto apsaugos ministerija, suderinusios su Sveikatos apsaugos
-ministerija.
+ministerija, arba Krašto apsaugos ministerija, suderinusios su Sveikatos
+apsaugos ministerija.
 Straipsnio
 pakeitimai:
 Nr. X-298, 2005-06-30,
@@ -864,12 +876,12 @@ IX-1472,
  
 29
 straipsnis. Teismo psichiatrijos ekspertizė
-Teismo
-psichiatrijos ekspertizė atliekama pagal ikiteisminio tyrimo teisėjo ar teismo
-nutartį. Ekspertizes atlieka Valstybinė teismo psichiatrijos tarnyba prie
-Sveikatos apsaugos ministerijos ir jai pavaldžios sveikatos priežiūros
-įstaigos. Šios ekspertizės organizavimo ir atlikimo tvarką nustato Vyriausybė
-ar jos įgaliota institucija.
+Teismo psichiatrijos
+ekspertizė atliekama pagal ikiteisminio tyrimo teisėjo ar teismo nutartį.
+Ekspertizes atlieka Valstybinė teismo psichiatrijos tarnyba prie Sveikatos
+apsaugos ministerijos ir jai pavaldžios sveikatos priežiūros įstaigos. Šios
+ekspertizės organizavimo ir atlikimo tvarką nustato Vyriausybė ar jos įgaliota
+institucija.
 Straipsnio
 pakeitimai:
 Nr.
@@ -915,8 +927,8 @@ sveikatos saugos ir stiprinimo, tarp jų ir šeimos planavimo klausimais.
 2. Sveikatos
 propagandą, remiančią sveikatos politikos iniciatyvas, per Lietuvos nacionalinį
 radiją ir televiziją bei kitas visuomenės informavimo priemones iš valstybės ar
-savivaldybių biudžetų lėšų pagal kompetenciją organizuoja Sveikatos apsaugos ministerija,
-kitos Vyriausybės įstaigos, savivaldybės vykdomoji institucija.
+savivaldybių biudžetų lėšų pagal kompetenciją organizuoja Sveikatos apsaugos
+ ministerija, kitos Vyriausybės įstaigos, savivaldybės vykdomoji institucija.
 3. Sveikatos
 mokymą sudaro savanoriško, privalomojo sveikatos mokymo ir kūno kultūros
 priemonių visuma.
@@ -964,8 +976,8 @@ leidimai-higienos pasai.
 technika, įranga, statybinės medžiagos, gyvenamųjų patalpų interjero elementai,
 maistas, jo pakuotė, tara bei kitos prekės, geriamasis vanduo neturi sukelti
 jokios rizikos sveikatai arba gali kelti jai tik minimalią riziką. Darbo,
-gyvenamosios bei gamtinės aplinkos, ūkinės ar kitokios veiklos, vartojimui skirtų
-produktų nekenksmingumo ir nepavojingumo sveikatai reikalavimus nustato
+gyvenamosios bei gamtinės aplinkos, ūkinės ar kitokios veiklos, vartojimui
+skirtų produktų nekenksmingumo ir nepavojingumo sveikatai reikalavimus nustato
 Sveikatos apsaugos ministerija.
 4. Neteko galios
 nuo 2007 m. liepos 1 d.
@@ -1101,8 +1113,8 @@ nelaimingų atsitikimų darbe ir susirgimų profesinėmis ligomis lėšos;
 sveikatos draudimo lėšos;
 5) šio įstatymo
 reglamentuojamų sveikatos fondų lėšos;
-6) lėšos už
-mokamas paslaugas;
+6) lėšos už mokamas
+paslaugas;
 7) palūkanos,
 mokamos už bankuose saugomas asmens ar visuomenės sveikatos priežiūros įstaigų
 lėšas.
@@ -1131,8 +1143,8 @@ valstybės biudžeto lėšų, kurios numatomos Sveikatos apsaugos ministerijai.
 Straipsnio pakeitimai:
 Nr. VIII-2036, 2000 10 12, Žin., 2000, Nr.
 92-2876 (2000 10 31)
-Nr. XI-1318,
-2011-04-14, Žin., 2011, Nr. 49-2372 (2011-04-28)
+Nr. XI-1318, 2011-04-14,
+Žin., 2011, Nr. 49-2372 (2011-04-28)
  
 41
 straipsnis. Savivaldybių visuomenės sveikatos rėmimo specialioji programa
@@ -1150,8 +1162,8 @@ kaip 0,3 procento privalomojo sveikatos draudimo fondo biudžeto, atsižvelgiant
 savivaldybių aplinkos apsaugos rėmimo specialiosios programos lėšų;
 4) savanoriškos
 fizinių ir juridinių asmenų įmokos;
-5) kitos teisėtai
-įgytos lėšos.
+5) kitos
+teisėtai įgytos lėšos.
 3. Savivaldybių
 visuomenės sveikatos rėmimo specialiosios programos lėšos kaupiamos atskiroje
 savivaldybės biudžeto sąskaitoje. Savivaldybių visuomenės sveikatos rėmimo
@@ -1258,12 +1270,12 @@ straipsnis. Sveikatinimo veiklos planavimas
 Vyriausybės teikimu tvirtina Lietuvos sveikatos programą, kurioje nurodomi
 sveikatinimo veiklos tikslai, valstybės siekiamo sveikatos lygio rodikliai ir
 sveikatinimo veiklos strategijos jiems pasiekti. 
-2. Lietuvos sveikatos
-programoje nustatytiems uždaviniams įgyvendinti Vyriausybė, ministerijos, kitos
-Vyriausybės įstaigos, savivaldybės organizuoja valstybės ir savivaldybių
-sveikatos programų ir įstatymų nustatytų planavimo dokumentų rengimą bei jų
-įgyvendinimą arba numato šių uždavinių įgyvendinimo priemones kitose socialinio
-ir ekonominio plėtojimo programose.
+2. Lietuvos
+sveikatos programoje nustatytiems uždaviniams įgyvendinti Vyriausybė,
+ministerijos, kitos Vyriausybės įstaigos, savivaldybės organizuoja valstybės ir
+savivaldybių sveikatos programų ir įstatymų nustatytų planavimo dokumentų
+rengimą bei jų įgyvendinimą arba numato šių uždavinių įgyvendinimo priemones
+kitose socialinio ir ekonominio plėtojimo programose.
 3. Sveikatos
 programų rengimo, finansavimo, įgyvendinimo ir kontrolės tvarką nustato
 Sveikatos apsaugos ministerija.
@@ -1335,8 +1347,8 @@ X-179,
 straipsnis. Savivaldybių remiama sveikatos priežiūra
 Savivaldybės
 remia savo teritorijos gyventojų sveikatos priežiūrą ją papildomai
-finansuodamos iš savivaldybių biudžetų lėšų. Savivaldybių remiamai sveikatos priežiūrai
-priskiriama:
+finansuodamos iš savivaldybių biudžetų lėšų. Savivaldybių remiamai sveikatos
+priežiūrai priskiriama:
 1) pirminio
 sveikatos priežiūros organizavimo lygio būtinoji medicinos pagalba;
 2) nėščiųjų
@@ -1375,10 +1387,10 @@ gyvenantys Lietuvoje (toliau - nuolatiniai gyventojai). Būtinoji medicinos
 pagalba LNSS įstaigose teikiama nemokamai visiems nuolatiniams gyventojams,
 neatsižvelgiant į tai, ar jie apdrausti privalomuoju sveikatos draudimu, taip
 pat neatsižvelgiant į paciento apsilankymų įstaigoje per kalendorinius metus
-skaičių ir jo gyvenamąją vietą. Užsienio šalių piliečiams, asmenims be pilietybės,
-nepriskiriamiems nuolatiniams gyventojams, LNSS įstaigos teikia būtinąją
-medicinos pagalbą Sveikatos apsaugos ministerijos nustatyta tvarka, jei kitaip
-nenustato Lietuvos Respublikos tarptautinės sutartys.
+skaičių ir jo gyvenamąją vietą. Užsienio šalių piliečiams, asmenims be
+pilietybės, nepriskiriamiems nuolatiniams gyventojams, LNSS įstaigos teikia
+būtinąją medicinos pagalbą Sveikatos apsaugos ministerijos nustatyta tvarka,
+jei kitaip nenustato Lietuvos Respublikos tarptautinės sutartys.
 2. Valstybės
 laiduojamų (nemokamų) asmens sveikatos priežiūros paslaugų teikimo LNSS
 įstaigose esminės sąlygos yra:
@@ -1434,9 +1446,9 @@ priežiūros ir farmacijos specialistai gali praktikuoti tik pagal įgytą
 specialybę. Įstatymų nustatytais atvejais arba kai asmens sveikatos priežiūros
 specialybė įtraukta į Lietuvos Respublikos Vyriausybės reglamentuojamų
 profesijų sąrašą, specialistai gali praktikuoti tik gavę licenciją.
-3. Sveikatos priežiūros
-įstaigų specialistai, dirbantys valstybės ar savivaldybių sveikatos priežiūros
-įstaigose, turi teisę privačiai praktikuoti tik už šių įstaigų ribų.
+3. Sveikatos
+priežiūros įstaigų specialistai, dirbantys valstybės ar savivaldybių sveikatos
+priežiūros įstaigose, turi teisę privačiai praktikuoti tik už šių įstaigų ribų.
 Straipsnio
 pakeitimai:
 Nr.
@@ -1447,8 +1459,8 @@ X-1505,
 2008-04-22, Žin., 2008, Nr. 50-1850 (2008-04-30)
  
 51
-straipsnis. Sveikatos priežiūros ir farmacijos specialistų profesinis tobulinimasis
-
+straipsnis. Sveikatos priežiūros ir farmacijos specialistų profesinis
+tobulinimasis 
 ir
 jo finansavimas
 1. Sveikatos
@@ -1502,13 +1514,13 @@ sveikatos priežiūros auditą pagal kompetenciją atlieka Sveikatos apsaugos
 ministerijos įgaliota institucija.
 Straipsnio
 pakeitimai:
-Nr. X-1151,
-2007-05-24, Žin., 2007, Nr. 64-2456 (2007-06-09)
+Nr. X-1151, 2007-05-24,
+Žin., 2007, Nr. 64-2456 (2007-06-09)
  
 54
 straipsnis. Asmens ir visuomenės sveikatos priežiūros technologijų įvertinimas
-1. Draudžiama naudoti
-neįvertintas ar neaprobuotas asmens sveikatos ir visuomenės sveikatos
+1. Draudžiama
+naudoti neįvertintas ar neaprobuotas asmens sveikatos ir visuomenės sveikatos
 priežiūros technologijas, išskyrus įstatymų numatytais atvejais.
 2. Asmens ir
 visuomenės sveikatos priežiūros technologijų įvertinimo ir aprobavimo tvarką
@@ -1597,15 +1609,15 @@ nustatomų šalių susitarimu.
  
 59
 straipsnis. Normatyvinių dokumentų privalomumas
-1. Ūkinės komercinės
-veiklos sąlygos, gyvenamoji ir darbo aplinka, žaliava, gaminiai, importuojamos
-ir realizuojamos prekės ir paslaugos turi atitikti visuomenės sveikatos saugos,
-užkrečiamųjų ligų profilaktikos ir kontrolės bei farmacinės veiklos
-normatyvinių dokumentų reikalavimus.
+1. Ūkinės
+komercinės veiklos sąlygos, gyvenamoji ir darbo aplinka, žaliava, gaminiai,
+importuojamos ir realizuojamos prekės ir paslaugos turi atitikti visuomenės
+sveikatos saugos, užkrečiamųjų ligų profilaktikos ir kontrolės bei farmacinės
+veiklos normatyvinių dokumentų reikalavimus.
 2. Normatyviniai
-dokumentai, reglamentuojantys visuomenės sveikatos saugos, užkrečiamųjų ligų
-profilaktikos ir kontrolės bei farmacinės veiklos reikalavimus, tampa privalomi
-įmonėms, įstaigoms ir fiziniams asmenims, patvirtinus juos Sveikatos apsaugos
+dokumentai, reglamentuojantys visuomenės sveikatos saugos, užkrečiamųjų ligų profilaktikos
+ir kontrolės bei farmacinės veiklos reikalavimus, tampa privalomi įmonėms,
+įstaigoms ir fiziniams asmenims, patvirtinus juos Sveikatos apsaugos
 ministerijos teisės aktais, ir įsigalioja kitą dieną po jų paskelbimo
 “Valstybės žiniose”, jeigu pačiuose teisės aktuose nenustatoma vėlesnė jų
 įsigaliojimo data.
@@ -1634,9 +1646,9 @@ tarpžinybinės sveikatinimo veiklos koordinavimą valstybiniu lygiu;
 4) rengia ir
 teikia Seimui svarstyti sveikatinimo veiklos įstatymų ir kitų teisės aktų
 projektus;
-5) pagal
-kompetenciją rengia ir priima teisės aktus kitais sveikatinimo veiklos
-reguliavimo klausimais;
+5) pagal kompetenciją
+rengia ir priima teisės aktus kitais sveikatinimo veiklos reguliavimo
+klausimais;
 6) steigia
 valstybines tarnybas ir inspekcijas ar kitas valstybės institucijas ir vykdo jų
 steigėjo funkcijas;
@@ -1674,10 +1686,10 @@ galios nuo 2008 m. balandžio 30 d.);
 7) rengia ir
 priima pagal kompetenciją teisės aktus sveikatinimo veiklos rūšių, išvardytų
 šiame straipsnyje, įgyvendinimo klausimais.
-2. Sveikatos apsaugos
-ministerija tvarko ir kitus sveikatinimo veiklos reikalus kartu su kitomis
-ministerijomis bei vykdo kitas valstybinio reguliavimo funkcijas, numatytas
-šiame įstatyme, kituose įstatymuose ir teisės aktuose, ministerijos
+2. Sveikatos
+apsaugos ministerija tvarko ir kitus sveikatinimo veiklos reikalus kartu su
+kitomis ministerijomis bei vykdo kitas valstybinio reguliavimo funkcijas,
+numatytas šiame įstatyme, kituose įstatymuose ir teisės aktuose, ministerijos
 nuostatuose.
 Straipsnio pakeitimai:
 Nr.
@@ -1723,10 +1735,9 @@ veiklą, kad būtų pašalintos visuomenės sveikatai ypatingos situacijos pasek
 12) plėtoja ir
 optimizuoja valstybinių sveikatos priežiūros įstaigų, tarnybų bei valstybinių
 farmacijos įmonių tinklą;
-13)
-kontroliuoja, kaip juridiniai ir fiziniai asmenys laikosi Sveikatos priežiūros
-įstatymų, vykdo sveikatos priežiūros standartizacijos norminių dokumentų
-reikalavimus;
+13) kontroliuoja,
+kaip juridiniai ir fiziniai asmenys laikosi Sveikatos priežiūros įstatymų,
+vykdo sveikatos priežiūros standartizacijos norminių dokumentų reikalavimus;
 14) teikia
 pasiūlymus Vyriausybei, kaip įstatymais nustatyti fizinių ir juridinių asmenų
 atsakomybę už sveikatinimo veiklos teisės aktų pažeidimus, už padarytą žalą
@@ -1776,8 +1787,8 @@ klausimais;
 11) vykdo
 įstatymų ir kitų teisės aktų nustatytus kitus sveikatinimo veiklos įgaliojimus.
 Straipsnio pakeitimai:
-Nr. IX-2555, 2004-11-09,
-Žin., 2004, Nr. 171-6309 (2004-11-26)
+Nr. IX-2555,
+2004-11-09, Žin., 2004, Nr. 171-6309 (2004-11-26)
  
 64 straipsnis. Savivaldybės administracijos
 direktoriaus kompetencija sveikatinimo veiklos klausimais
@@ -1824,8 +1835,8 @@ Nr. X-1151,
 Nr. XI-766,
 2010-04-20, Žin., 2010, Nr. 51-2476 (2010-05-04)
  
-65 straipsnis. Savivaldybės gydytojas ir jo kompetencijos
-sveikatinimo veiklos reikalų 
+65 straipsnis. Savivaldybės gydytojas ir jo
+kompetencijos sveikatinimo veiklos reikalų 
 klausimais
 nustatymas
 1. Savivaldybės
@@ -1843,8 +1854,8 @@ institucija.
 straipsnis. Netenka
 galios nuo 2010 m. liepos 1 d.
 Straipsnio pakeitimai:
-Nr. XI-766,
-2010-04-20, Žin., 2010, Nr. 51-2476 (2010-05-04)
+Nr. XI-766, 2010-04-20,
+Žin., 2010, Nr. 51-2476 (2010-05-04)
  
 II SKYRIUS
 SVEIKATINIMO
@@ -2026,8 +2037,8 @@ VEIKLOS SPECIALIEJI VALDYMO IR KONTROLĖS SUBJEKTAI
 straipsnis. Neteko
 galios nuo 2011 m. balandžio 1 d.
 Straipsnio pakeitimai:
-Nr. IX-1841, 2003-11-20,
-Žin., 2003, Nr. 115-5195 (2003-12-10)
+Nr. IX-1841,
+2003-11-20, Žin., 2003, Nr. 115-5195 (2003-12-10)
 Nr. XI-1129,
 2010-11-16, Žin., 2010, Nr. 139-7112 (2010-11-27)
  
@@ -2177,8 +2188,8 @@ jos nuostatus tvirtina Sveikatos apsaugos ministerija. Ši tarnyba yra juridinis
 asmuo. Jos veikla finansuojama iš valstybės biudžeto.
 2. Valstybinė
 teismo psichiatrijos tarnyba prie Sveikatos apsaugos ministerijos:
-1) atlieka teismo
-medicinos, teismo psichiatrijos ekspertizes teismams;
+1) atlieka
+teismo medicinos, teismo psichiatrijos ekspertizes teismams;
 2) vykdo kitas
 įstatymų ir šios tarnybos nuostatų nustatytas funkcijas.
 Straipsnio
@@ -2267,8 +2278,8 @@ priežiūros veiklą;
 įstatymų ir šių institucijų bei įstaigų nuostatuose numatytas kitas funkcijas.
 Straipsnio
 pakeitimai:
-Nr. X-1151,
-2007-05-24, Žin., 2007, Nr. 64-2456 (2007-06-09)
+Nr. X-1151, 2007-05-24,
+Žin., 2007, Nr. 64-2456 (2007-06-09)
  
 78
 straipsnis.
@@ -2287,8 +2298,8 @@ yra juridinis asmuo. Jos veikla yra finansuojama iš valstybės biudžeto.
 2. Valstybinė
 medicininio audito inspekcija prie Sveikatos apsaugos ministerijos:
 1) atlieka
-asmens sveikatos priežiūros paslaugų prieinamumo, kokybės (tinkamumo) ir
-ekonominio efektyvumo kontrolę;
+asmens sveikatos priežiūros paslaugų prieinamumo, kokybės (tinkamumo) ir ekonominio
+efektyvumo kontrolę;
 2) kontroliuoja,
 kaip fiziniai ir juridiniai asmenys laikosi standartizacijos norminių dokumentų
 reikalavimų sveikatos priežiūros kokybės klausimais;
@@ -2335,9 +2346,9 @@ IX-2165,
  
 81
 straipsnis. Asmens sveikatos priežiūros įstaigų medicinos etikos komisijos
-1. Asmens sveikatos
-priežiūros įstaigų medicinos etikos komisijos prižiūri, kaip asmens sveikatos
-priežiūros specialistai laikosi medicinos etikos reikalavimų.
+1. Asmens
+sveikatos priežiūros įstaigų medicinos etikos komisijos prižiūri, kaip asmens
+sveikatos priežiūros specialistai laikosi medicinos etikos reikalavimų.
 2. Asmens
 sveikatos priežiūros įstaigų medicinos etikos komisijos sudaromos ir veikia
 pagal Sveikatos apsaugos ministerijos patvirtintus pavyzdinius nuostatus.
@@ -2455,8 +2466,8 @@ darbuotojų sveikatos priežiūrą.
 įstaigos gali turėti ir kitų pareigų, jeigu jos neprieštarauja šiam ir kitiems
 įstatymams.
 3. Įmonių ir
-įstaigų teisių įgyvendinimas ir pareigų sveikatinimo veikloje vykdymas neturi pažeisti
-kitų fizinių ir juridinių asmenų teisių.
+įstaigų teisių įgyvendinimas ir pareigų sveikatinimo veikloje vykdymas neturi
+pažeisti kitų fizinių ir juridinių asmenų teisių.
 Straipsnio
 pakeitimai:
 Nr. X-1151,
@@ -2611,8 +2622,8 @@ SVEIKATOS SISTEMOS ĮSTATYMO 3 IR 24 STRAIPSNIŲ PAKEITIMO
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1110,
-2002-10-01, Žin., 2002, Nr. 101-4490 (2002-10-23)
+IX-1110, 2002-10-01,
+Žin., 2002, Nr. 101-4490 (2002-10-23)
 SVEIKATOS
 SISTEMOS ĮSTATYMO 39 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
  
@@ -2631,9 +2642,9 @@ Nr. IX-1472,
 2003-04-03, Žin., 2003, Nr. 38-1717 (2003-04-24)
 SVEIKATOS
 SISTEMOS ĮSTATYMO 28, 29, 73 IR 74 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos baudžiamuoju
-kodeksu (Žin., 2000, Nr. 89-2741)
-ir Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t. y.
+Šis Įstatymas įsigalioja kartu su Lietuvos Respublikos
+baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir
+Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t. y.
 nuo 2003 m. gegužės 1 d.
  
 14.
@@ -2711,9 +2722,9 @@ Nr.
 X-298,
 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14)
 MEDICINOS
-PRAKTIKOS ĮSTATYMO, ODONTOLOGIJOS PRAKTIKOS ĮSTATYMO, SVEIKATOS SISTEMOS
-ĮSTATYMO, PSICHIKOS SVEIKATOS PRIEŽIŪROS ĮSTATYMO, NARKOLOGINĖS PRIEŽIŪROS
-ĮSTATYMO PAKEITIMO ĮSTATYMAS
+PRAKTIKOS ĮSTATYMO, ODONTOLOGIJOS PRAKTIKOS ĮSTATYMO, SVEIKATOS SISTEMOS ĮSTATYMO,
+PSICHIKOS SVEIKATOS PRIEŽIŪROS ĮSTATYMO, NARKOLOGINĖS PRIEŽIŪROS ĮSTATYMO
+PAKEITIMO ĮSTATYMAS
  
 23.
 Lietuvos
@@ -2751,8 +2762,8 @@ SISTEMOS ĮSTATYMO 2, 16, 50, 57, 61 IR 72 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 26.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. XI-766,
-2010-04-20, Žin., 2010, Nr. 51-2476 (2010-05-04)
+Nr. XI-766, 2010-04-20,
+Žin., 2010, Nr. 51-2476 (2010-05-04)
 SVEIKATOS SISTEMOS ĮSTATYMO 9,
 12, 13, 32, 41, 46, 64, 68 STRAIPSNIŲ PAKEITIMO IR 66 STRAIPSNIO PRIPAŽINIMO
 NETEKUSIU GALIOS ĮSTATYMAS
@@ -2789,6 +2800,17 @@ STRAIPSNIO PAPILDYMO IR ĮSTATYMO I DALIES PAPILDYMO III SKYRIUMI ĮSTATYMAS
 Šis
 įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2011 m. rugpjūčio 1 d.
  
+30.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-1546,
+2011-06-28, Žin., 2011, Nr. 91-4323 (2011-07-19)
+SVEIKATOS
+SISTEMOS ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2011 m. spalio 1 d.
+ 
 ***
 Pabaiga ***
  
@@ -2812,6 +2834,6 @@ Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2011-06-20)
+Aušrinė Trapinskienė (2011-07-28)
                  
 ausrine.trapinskiene@lrs.lt
