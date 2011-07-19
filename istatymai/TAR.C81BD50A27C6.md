@@ -954,9 +954,9 @@ ministerijos įsteigtų įstaigų administracijos vadovai
             Viešą konkursą
 valstybės aukštųjų mokyklų, valstybinių mokslo įstaigų ir Sveikatos apsaugos
 ministerijos įsteigtų įstaigų administracijos vadovų pareigoms eiti organizuoja
-valstybės aukštoji mokykla ar mokslo įstaiga kartu su Sveikatos apsaugos
-ministerija. Darbo sutartį su konkursą laimėjusiu įstaigos vadovu sudaro ir ją
-nutraukia sveikatos apsaugos ministras.
+valstybės aukštoji mokykla ar mokslo įstaiga kartu su Sveikatos apsaugos ministerija.
+Darbo sutartį su konkursą laimėjusiu įstaigos vadovu sudaro ir ją nutraukia
+sveikatos apsaugos ministras.
             
             33
 straipsnis. LNSS viešosios įstaigos stebėtojų taryba
@@ -974,14 +974,14 @@ vieno savivaldybės, kurios teritorijoje yra įstaiga, tarybos paskirto
 visuomenės atstovo ir įstaigos sveikatos priežiūros specialistų profesinių
 sąjungų paskirto vieno atstovo. 
             4. Valstybės aukštųjų
-mokyklų ar valstybinių mokslo įstaigų ir Sveikatos apsaugos ministerijos įsteigtų
-įstaigų stebėtojų taryba sudaroma iš dviejų Sveikatos apsaugos ministerijos
-paskirtų atstovų, valstybės aukštųjų mokyklų ar valstybinių mokslo įstaigų
-vadovų paskirtų dviejų atstovų; vieno savivaldybės, kurios teritorijoje yra
-valstybės aukštoji mokykla, tarybos paskirto tarybos nario; vieno savivaldybės,
-kurios teritorijoje yra valstybinė mokslo įstaiga, tarybos paskirto visuomenės
-atstovo ir vieno šios įstaigos sveikatos priežiūros specialistų profesinių
-sąjungų paskirto atstovo. 
+mokyklų ar valstybinių mokslo įstaigų ir Sveikatos apsaugos ministerijos
+įsteigtų įstaigų stebėtojų taryba sudaroma iš dviejų Sveikatos apsaugos
+ministerijos paskirtų atstovų, valstybės aukštųjų mokyklų ar valstybinių mokslo
+įstaigų vadovų paskirtų dviejų atstovų; vieno savivaldybės, kurios teritorijoje
+yra valstybės aukštoji mokykla, tarybos paskirto tarybos nario; vieno
+savivaldybės, kurios teritorijoje yra valstybinė mokslo įstaiga, tarybos
+paskirto visuomenės atstovo ir vieno šios įstaigos sveikatos priežiūros
+specialistų profesinių sąjungų paskirto atstovo. 
             5. Į stebėtojų tarybą negali
 įeiti asmenys, kurie dirba įstaigos administracijoje, Valstybinėje ar
 teritorinėje ligonių kasoje, taip pat sveikatos draudimo įmonėje.
@@ -1025,10 +1025,10 @@ etikos komisijos pavyzdiniai nuostatai.
             
             36
 straipsnis. Viešosios įstaigos turtas
-            1. Viešosios įstaigos
-turtą sudaro ilgalaikis materialusis turtas, turtas, gautas kaip labdara ar
-parama, turtas, gautas pagal testamentą, finansiniai ištekliai ir kitas su
-įstaigos veikla susijęs teisėtai įgytas turtas.
+            1. Viešosios
+įstaigos turtą sudaro ilgalaikis materialusis turtas, turtas, gautas kaip
+labdara ar parama, turtas, gautas pagal testamentą, finansiniai ištekliai ir
+kitas su įstaigos veikla susijęs teisėtai įgytas turtas.
             2. Valstybės ir savivaldybių
 institucijos (steigėjai) turtą viešosioms įstaigoms perduoda panaudos pagrindu
 įstatymų ir Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
@@ -1037,9 +1037,9 @@ valstybės visuomenės sveikatos priežiūros viešosios įstaigos ilgalaikį
 materialųjį turtą parduoti, perleisti, išnuomoti, įkeisti, taip pat laiduoti ar
 garantuoti juo kitų subjektų prievolių įvykdymą gali tik raštiškai leidus
 steigėjui (steigėjams) Vyriausybės ar jos įgaliotos institucijos nustatyta
-tvarka. Tokį leidimą valstybės aukštųjų mokyklų ar valstybinių švietimo ir
-mokslo įstaigų ir Sveikatos apsaugos ministerijos įsteigtoms įstaigoms duoda
-Sveikatos apsaugos ministerija.
+tvarka. Tokį leidimą valstybės aukštųjų mokyklų ar valstybinių švietimo ir mokslo
+įstaigų ir Sveikatos apsaugos ministerijos įsteigtoms įstaigoms duoda Sveikatos
+apsaugos ministerija.
             4. Viešoji įstaiga,
 pardavusi susidėvėjusį ar jos veiklai nereikalingą materialųjį turtą bei
 vertybes, gautas pajamas naudoja įstatuose nustatyta tvarka.
@@ -1163,6 +1163,15 @@ pavojingoms užkrečiamosioms ligoms atsirasti ir paplisti, užkrečiamųjų lig
 protrūkiams ir epidemijoms likviduoti, taip pat užkirsti kelią radiacinių
 avarijų ir ekologinių nelaimių medicininėms pasekmėms atsirasti ir priemonės
 joms likviduoti; 
+5
+punkto redakcija nuo 2011 m. spalio 1d.:
+5) finansuojamos
+visuomenės sveikatos priežiūros priemonės, skirtos užkirsti kelią pavojingoms
+ir ypač pavojingoms užkrečiamosioms ligoms atsirasti ir paplisti, užkrečiamųjų
+ligų protrūkiams ir epidemijoms likviduoti, taip pat užkirsti kelią
+branduolinių ir radiologinių avarijų ir ekologinių nelaimių medicininėms
+pasekmėms atsirasti ir priemonės joms likviduoti;
+ 
             6) finansuojamos valstybinės
 sveikatos programos; 
             7) finansuojami medicinos
@@ -1193,7 +1202,9 @@ biudžetų ir per valstybės investicijų programas.
 Straipsnio pakeitimai:
 Nr. XI-767,
 2010-04-20, Žin., 2010, Nr. 51-2477 (2010-05-04)
-            
+Nr. XI-1545,
+2011-06-28, Žin., 2011, Nr. 91-4322 (2011-07-19)
+ 
             42
 straipsnis. LNSS įstaigų nemedicininės veiklos išlaidų apskaita
             Jei LNSS įstaiga
@@ -1253,8 +1264,8 @@ pacientą valstybės institucijoms ir kitoms įstaigoms Sveikatos apsaugos
 ministerijos nustatyta tvarka;
             6) užtikrinti lygias
 pacientų teises į teikiamas sveikatos priežiūros paslaugas;
-            7) atlyginti teikiant
-paslaugas paciento sveikatai padarytą žalą;
+            7) atlyginti teikiant paslaugas
+paciento sveikatai padarytą žalą;
             8) saugoti paciento
 medicininę paslaptį, išskyrus atvejus, kai asmens sveikatos priežiūros įstaiga
 privalo pateikti informaciją apie pacientą arba kai pacientas duoda sutikimą
@@ -1430,12 +1441,12 @@ ministro paskirti pareigūnai;
             2) Valstybinė medicininio
 audito inspekcija - asmens sveikatos priežiūros paslaugų prieinamumo, kokybės
 (tinkamumo) ir ekonominio efektyvumo valstybinę kontrolę;
-            3) Valstybinė ir teritorinė ligonių
-kasos - asmens sveikatos priežiūros paslaugų, apmokamų iš privalomojo sveikatos
-draudimo fondo biudžeto, kiekio ir kokybės kontrolę ir privalomojo sveikatos
-draudimo fondo lėšų naudojimo finansinę bei ekonominę analizę įstaigose, kurios
-sudariusios sutartis su teritorinėmis ligonių kasomis dėl paslaugų teikimo ir
-kompensavimo;
+            3) Valstybinė ir teritorinė
+ligonių kasos - asmens sveikatos priežiūros paslaugų, apmokamų iš privalomojo
+sveikatos draudimo fondo biudžeto, kiekio ir kokybės kontrolę ir privalomojo
+sveikatos draudimo fondo lėšų naudojimo finansinę bei ekonominę analizę
+įstaigose, kurios sudariusios sutartis su teritorinėmis ligonių kasomis dėl
+paslaugų teikimo ir kompensavimo;
             4) Lietuvos medicinos etikos
 komitetas - asmens sveikatos priežiūros įstaigos teikiamų paslaugų atitikimo
 medicinos etikos reikalavimams valstybinę kontrolę;
@@ -1476,11 +1487,11 @@ administracijos vadovo laikotarpiui iki vieno mėnesio nušalinti sveikatos
 priežiūros specialistus ir patikrinti jų profesinę kompetenciją, jei buvo
 nustatyti šių specialistų profesinės veiklos trūkumai, galėję lemti ar lėmę
 žalą ar pavojų pacientų sveikatai, arba jei sveikatos priežiūros specialistų
-kvalifikacija neatitinka nustatytų reikalavimų, arba šie specialistai dėl sveikatos
-būklės negali atlikti savo pareigų. Sveikatos priežiūros specialistų profesinės
-kompetencijos patikrinimo tvarką nustato Sveikatos apsaugos ministerija.
-Nušalinimo nuo darbo laikotarpiu sveikatos priežiūros specialistui darbo
-užmokesčio mokėjimas sustabdomas; 
+kvalifikacija neatitinka nustatytų reikalavimų, arba šie specialistai dėl
+sveikatos būklės negali atlikti savo pareigų. Sveikatos priežiūros specialistų
+profesinės kompetencijos patikrinimo tvarką nustato Sveikatos apsaugos
+ministerija. Nušalinimo nuo darbo laikotarpiu sveikatos priežiūros specialistui
+darbo užmokesčio mokėjimas sustabdomas; 
             6) įstatymų nustatyta tvarka
 patraukti įstaigos darbuotojus atsakomybėn už sveikatinimo įstatymų ir kitų
 teisės aktų pažeidimus.
@@ -1549,8 +1560,8 @@ Nr.61-1811 (2000.07.26)
 laikinojo administratoriaus 
 skyrimo
 tvarka
-            1. Įstaigos
-valdymo organai nušalinami ir laikinasis administratorius skiriamas, jeigu:
+            1. Įstaigos valdymo
+organai nušalinami ir laikinasis administratorius skiriamas, jeigu:
             1) įstaiga nepašalina
 nustatytų pažeidimų ar trūkumų ir dėl to iškyla grėsmė, kad jos teikiamos
 paslaugos bus netinkamos bei kenks pacientų sveikatai, tačiau dar yra reali
@@ -1637,10 +1648,9 @@ kontrolės priemones ir sankcijas, atsižvelgdamos į pažeidimo, kurio pagrindu
 taikoma kontrolės priemonė, turinį.
             3. Šiame įstatyme nurodytų
 įstaigų veiklą kontroliuojančių valstybės institucijų sprendimai dėl kontrolės
-priemonių ar sankcijų taikymo gali būti per trisdešimt dienų skundžiami
-įstatymo nustatyta tvarka. Apskundimas nesustabdo įstaigų veiklą
-kontroliuojančių valstybės institucijų, nurodytų šiame įstatyme, nutarimų
-vykdymo.
+priemonių ar sankcijų taikymo gali būti per trisdešimt dienų skundžiami įstatymo
+nustatyta tvarka. Apskundimas nesustabdo įstaigų veiklą kontroliuojančių
+valstybės institucijų, nurodytų šiame įstatyme, nutarimų vykdymo.
             
             59
 straipsnis. Įstaigų veiklos kontrolės priemonių taikymo pagrindai ir tvarka
@@ -1847,10 +1857,22 @@ PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO PAPILDYMO 15(1) STRAIPSNIU ĮSTATYMAS
 Šis
 įstatymas, išskyrus 2 straipsnio 2 dalį, įsigalioja 2012 m. sausio 1 d.
  
+17.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-1545,
+2011-06-28, Žin., 2011, Nr. 91-4322 (2011-07-19)
+SVEIKATOS
+PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO 41 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2011 m. spalio 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
 Aušrinė Trapinskienė (2011-07-28)
-                  ausrine.trapinskiene@lrs.lt
+                 
+ausrine.trapinskiene@lrs.lt
