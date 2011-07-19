@@ -873,8 +873,8 @@ nustatytą laikotarpį energetikos įmonė nepateikė patikslintų duomenų;
 įmonė du ar daugiau kaip du kartus per kalendorinius metus padaro nustatytų
 licencijuojamos veiklos sąlygų pažeidimus ir apie galimą licencijos, leidimo ar
 atestato galiojimo sustabdymą energetikos įmonė buvo įspėta šio straipsnio 16
-dalyje nustatyta tvarka ir per licenciją, leidimą ar atestatą išduodančios
-institucijos nustatytą laikotarpį nepašalina nurodytų pažeidimų;
+dalyje nustatyta tvarka ir per licenciją, leidimą ar atestatą
+išduodančios institucijos nustatytą laikotarpį nepašalina nurodytų pažeidimų;
 3) energetikos įmonės technologiniai, kvalifikaciniai
 ir vadybiniai pajėgumai neleidžia vykdyti licencijuojamos veiklos, leidimus
 turinčių energetikos įmonių veiklos bei atestuojamos veiklos ir apie galimą
@@ -911,18 +911,18 @@ vadovas ir savininkas, juridinio asmens dalyvis – fizinis asmuo, turintis ne
 mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, turi neišnykusį ar
 nepanaikintą teistumą arba dėl juridinio asmens dalyvio – juridinio asmens,
 turinčio ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, per
-pastaruosius 5 metus buvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis
-už šias nusikalstamas veikas: dalyvavimą nusikalstamame susivienijime,
-nusikalstamų susivienijimų organizavimą arba vadovavimą jiems, kyšininkavimą,
-tarpininko kyšininkavimą, papirkimą, sukčiavimą, kreditinį sukčiavimą,
-nusikalstamu būdu įgytų pinigų ar turto legalizavimą, neteisėtą vertimąsi
-ūkine, komercine, finansine ar profesine veikla, jeigu šios nusikalstamos
-veikos padarytos disponuojant naftos produktais;
+pastaruosius 5 metus buvo priimtas ir įsiteisėjęs apkaltinamasis teismo
+nuosprendis už šias nusikalstamas veikas: dalyvavimą nusikalstamame
+susivienijime, nusikalstamų susivienijimų organizavimą arba vadovavimą jiems,
+kyšininkavimą, tarpininko kyšininkavimą, papirkimą, sukčiavimą, kreditinį
+sukčiavimą, nusikalstamu būdu įgytų pinigų ar turto legalizavimą, neteisėtą
+vertimąsi ūkine, komercine, finansine ar profesine veikla, jeigu šios
+nusikalstamos veikos padarytos disponuojant naftos produktais;
 7) energetikos
-įmonė, turinti licenciją verstis mažmenine prekyba nefasuotais naftos produktais,
-nuosavybės teisę į degalinę perduoda kitiems asmenims arba pasibaigia sutartis,
-kurios pagrindu buvo naudojamasi degaline, arba nebevykdo veiklos šioje
-degalinėje;
+įmonė, turinti licenciją verstis mažmenine prekyba nefasuotais naftos
+produktais, nuosavybės teisę į degalinę perduoda kitiems asmenims arba
+pasibaigia sutartis, kurios pagrindu buvo naudojamasi degaline, arba nebevykdo
+veiklos šioje degalinėje;
 8) energetikos įmonė pateikė prašymą panaikinti
 licencijos, leidimo ar atestato galiojimą;
 9) fizinis asmuo, turėjęs licenciją, leidimą ar
@@ -1079,9 +1079,9 @@ straipsnis. Energetikos valstybinė kontrolė
 1. Energetikos objektų bei energetikos įrenginių valstybinė
 kontrolė atliekama visoje Lietuvos Respublikos teritorijoje neatsižvelgiant į
 nuosavybės valdymo formą. 
-2. Valstybinę energetikos kontrolę nustatyta
-tvarka atlieka Valstybinė energetikos inspekcija prie Energetikos ministerijos
-(toliau – Valstybinė energetikos inspekcija).
+2. Valstybinę energetikos kontrolę
+nustatyta tvarka atlieka Valstybinė energetikos inspekcija prie Energetikos
+ministerijos (toliau – Valstybinė energetikos inspekcija).
 3. Valstybinė energetikos inspekcija yra
 įstaiga
 prie ministerijos.
@@ -1119,14 +1119,25 @@ energetikos objektų saugos ir branduolinių medžiagų apskaitos kontrolę ir
 valstybinę priežiūrą atlieka Valstybinė atominės energetikos saugos inspekcija.
 Valstybinės atominės energetikos saugos inspekcijos kompetenciją nustato
 Branduolinės energijos įstatymas.
+6 dalies redakcija nuo 2011 m. spalio 1
+d.:
+6. Branduolinės
+energetikos objektų saugos ir branduolinių medžiagų apskaitos kontrolę ir
+valstybinę priežiūrą atlieka Valstybinė atominės energetikos saugos inspekcija.
+Valstybinės atominės energetikos saugos inspekcijos kompetenciją nustato
+Branduolinės energijos įstatymas, Branduolinės saugos įstatymas, Radiacinės
+saugos įstatymas ir Radioaktyviųjų atliekų tvarkymo įstatymas.
+ 
 7. Valstybinė
 energetikos inspekcija nekontroliuoja, ar darbuotojai laikosi saugos ir
 sveikatos teisės aktų nustatytų reikalavimų.
 Straipsnio pakeitimai:
 Nr. IX-1644,
 2003-06-24, Žin., 2003, Nr. 69-3118 (2003-07-10)
-Nr. XI-130, 2009-01-12,
-Žin., 2009, Nr. 10-352 (2009-01-27)
+Nr. XI-130,
+2009-01-12, Žin., 2009, Nr. 10-352 (2009-01-27)
+Nr. XI-1542,
+2011-06-28, Žin., 2011, Nr. 91-4319 (2011-07-19)
  
 19
 straipsnis. Informavimas
@@ -1136,11 +1147,12 @@ teisę gauti iš energetikos įmonių reikiamą informaciją. Energetikos įmon�
 nustatyta tvarka ir mastu teikia informaciją valstybės, savivaldybių
 institucijoms, įstaigoms, atitinkamoms asociacijoms ir trečiosioms šalims.
 2. Vyriausybė ar
-jos įgaliotos institucijos teikia informaciją apie energetiką Europos
-Komisijai, kitoms šalims ir tarptautinėms organizacijoms.
-3. Apie valstybinės svarbos energetikos objektų statybos ir
-naudojimo pradžią šiuos objektus nuosavybės teise turinčios ar kitais būdais
-valdančios energetikos įmonės privalo informuoti Energetikos ministeriją.
+jos įgaliotos institucijos teikia informaciją apie energetiką Europos Komisijai,
+kitoms šalims ir tarptautinėms organizacijoms.
+3. Apie
+valstybinės svarbos energetikos objektų statybos ir naudojimo pradžią šiuos
+objektus nuosavybės teise turinčios ar kitais būdais valdančios energetikos
+įmonės privalo informuoti Energetikos ministeriją.
 4. Energetikos
 įmonės savo veikimo teritorijoje Vyriausybės ar jos įgaliotos institucijos
 nustatyta tvarka ir mastu pagal kompetenciją energijos vartotojams ir
@@ -1191,8 +1203,7 @@ metus;
 sistemų, kuriose įrengti 20 kW ir didesnės vardinės atiduodamosios galios
 šildymo katilai, naudojantys neatsinaujinantį kietąjį ar skystąjį kurą, – vieną
 kartą, kai šildymo sistemoje įrengto katilo tikrinimo pagal šios dalies 1 ir 2
-punktų reikalavimus metu nuo šio katilo pagaminimo yra praėję daugiau kaip 15
-metų;
+punktų reikalavimus metu nuo šio katilo pagaminimo yra praėję daugiau kaip 15 metų;
 4) pastatuose įrengtų didesnės kaip 12 kW vardinės
 atiduodamosios galios oro kondicionavimo sistemų – kartą per trejus metus.
 Straipsnio pakeitimai:
@@ -1230,9 +1241,8 @@ Energetikos įmonės, turinčios daugiau kaip 5 MW galios
 šilumos ar elektros energijos gamybos objektų ir gaminančios parduoti skirtą
 šilumos ar elektros energiją, privalo turėti energijos išteklių rezervines
 atsargas. Energijos išteklių rezervinės atsargos kaupiamos, laikomos,
-atnaujinamos energetikos įmonių bei kitomis lėšomis. Energijos išteklių
-rezervinių atsargų kiekis turi būti ne mažesnis, negu yra suvartojama per 1
-mėnesį.
+atnaujinamos energetikos įmonių bei kitomis lėšomis. Energijos išteklių rezervinių
+atsargų kiekis turi būti ne mažesnis, negu yra suvartojama per 1 mėnesį.
  
 23 straipsnis. Energijos apskaita
 1. Pagaminta, perduodama, paskirstoma, parduodama,
@@ -1245,10 +1255,10 @@ Europos Sąjungos valstybėse naudojamų matavimo priemonių specifikacijas.
 3. Energijos matavimo priemones savo lėšomis įrengia
 ir eksploatuoja perdavimo, skirstymo ar laikymo energetikos objektus
 nuosavybės teise turinčios ar kitais būdais juos valdančios energetikos įmonės.
-4. Energijos matavimo priemones tarp energetikos
-objektų įrengia ir eksploatuoja energiją perduodančios energetikos objektus
-nuosavybės teise turinčios ar kitais būdais juos valdančios energetikos įmonės
-savo lėšomis.
+4. Energijos matavimo priemones tarp energetikos objektų
+įrengia ir eksploatuoja energiją perduodančios energetikos objektus nuosavybės
+teise turinčios ar kitais būdais juos valdančios energetikos įmonės savo
+lėšomis.
  
 24 straipsnis. Energijos tranzitas
 1. Energijos ar
@@ -1260,8 +1270,8 @@ prioritetinį šalies poreikių tenkinimą.
 2. Perdavimo objektus valdančios
 energetikos įmonės teikia Komisijai ir Energetikos ministerijai informaciją
 apie kiekvieną tranzito pareikalavimą, sudarytas tranzito sutartis ir
-atsisakymus jas sudaryti. Atsisakymas sudaryti tranzito sutartį turi būti
-tinkamai motyvuotas.
+atsisakymus jas sudaryti. Atsisakymas sudaryti tranzito sutartį
+turi būti tinkamai motyvuotas.
 Straipsnio pakeitimai:
 Nr. XI-130,
 2009-01-12, Žin., 2009, Nr. 10-352 (2009-01-27)
@@ -1279,9 +1289,10 @@ grėsmė gyventojų saugumui, sveikatai ar šalies ūkio veiklai.
 energetikos padėtis įvedama Vyriausybės nutarimu. Įstatymų nustatyta tvarka paskelbus nepaprastąją ar karo padėtį, be
 atskiro Vyriausybės nutarimo įvedama ir ekstremali
 energetikos padėtis.
-3. Energetikos įmonės nustatyta tvarka
-privalo pranešti savivaldybėms, Energetikos ministerijai apie energijos tiekimo
-sumažėjimą ir priemones tiekimui atnaujinti.
+3. Energetikos
+įmonės nustatyta tvarka privalo pranešti savivaldybėms, Energetikos
+ministerijai apie energijos tiekimo sumažėjimą ir priemones tiekimui
+atnaujinti.
 4. Įvedus ekstremalią energetikos padėtį, energijos
 bei energijos išteklių tiekimas vartotojams gali būti Vyriausybės ar jos
 įgaliotos institucijos nustatyta tvarka apribotas arba sustabdytas. Esant
@@ -1381,11 +1392,11 @@ lengvinančias ar sunkinančias aplinkybes.
 aplinkybėmis laikoma tai, kad pažeidimą padariusi energetikos įmonė savo noru
 užkirto kelią žalingoms pažeidimo pasekmėms, padėjo išaiškinti pažeidimo
 aplinkybes, nedelsdama ėmėsi priemonių pašalinti pažeidimą.
-4. Atsakomybę sunkinančiomis aplinkybėmis
-laikoma tai, kad energetikos įmonė kliudė nustatyti pažeidimo aplinkybes, slėpė
-įvykdytą pažeidimą, tęsė pažeidimą, nepaisydama Komisijos nurodymo nutraukti
-neteisėtą veiklą, arba įvykdė pažeidimą, dėl kurio energetikos įmonė buvo
-bausta pinigine bauda.
+4. Atsakomybę sunkinančiomis
+aplinkybėmis laikoma tai, kad energetikos įmonė kliudė nustatyti pažeidimo
+aplinkybes, slėpė įvykdytą pažeidimą, tęsė pažeidimą, nepaisydama Komisijos
+nurodymo nutraukti neteisėtą veiklą, arba įvykdė pažeidimą, dėl kurio energetikos
+įmonė buvo bausta pinigine bauda.
 5. Komisija, nustatydama piniginės
 baudos dydį, atsakomybę lengvinančiomis
 gali
@@ -1419,8 +1430,8 @@ skiriama tik viena piniginė bauda. Baudos skyrimas neatleidžia nuo pareigos, u
 kurios nevykdymą paskirta piniginė bauda, vykdymo.
 10. Komisijos paskirta piniginė bauda į
 valstybės biudžetą sumokama Komisijos nustatyta tvarka ir terminais. Komisijos
-nutarimas per 30 dienų nuo jo priėmimo dienos įstatymų nustatyta tvarka gali
-būti apskundžiamas teismui. Komisijos nutarimas dėl piniginės baudos skyrimo
+nutarimas per 30 dienų nuo jo priėmimo dienos įstatymų nustatyta tvarka gali būti
+apskundžiamas teismui. Komisijos nutarimas dėl piniginės baudos skyrimo
 įsigalioja po 30 dienų nuo nutarimo priėmimo dienos, jei per tą laiką įstatymų
 nustatyta tvarka nebuvo apskųstas teismui.
 11. Nesumokėta piniginė bauda išieškoma
@@ -1432,8 +1443,8 @@ pažeidė šį įstatymą, būtų akivaizdžiai per didelė, nes neproporcinga p
 teisės pažeidimui ir dėl to neteisinga) ir vadovaudamasis teisingumo,
 protingumo kriterijais, turi teisę skirti mažesnę piniginę baudą.
 Straipsnio pakeitimai:
-Nr. X-1767, 2008-11-06,
-Žin., 2008, Nr. 135-5228 (2008-11-25)
+Nr. X-1767,
+2008-11-06, Žin., 2008, Nr. 135-5228 (2008-11-25)
  
 SEPTINTASIS
 SKIRSNIS
@@ -1597,8 +1608,8 @@ vartojimo efektyvumo ir energetinių paslaugų, panaikinanti Tarybos direktyvą
 Priedo pakeitimai:
 Nr. X-1108,
 2007-05-03, Žin., 2007, Nr. 55-2124 (2007-05-19)
-Nr. X-1767,
-2008-11-06, Žin., 2008, Nr. 135-5228 (2008-11-25)
+Nr. X-1767, 2008-11-06,
+Žin., 2008, Nr. 135-5228 (2008-11-25)
 ________________
  
 Pakeitimai:
@@ -1664,10 +1675,19 @@ Nr. XI-827,
 ENERGETIKOS
 ĮSTATYMO 2, 6, 7(1), 16, 19, 21, 26 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1542,
+2011-06-28, Žin., 2011, Nr. 91-4319 (2011-07-19)
+ENERGETIKOS ĮSTATYMO 18 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja 2011 m. spalio
+1 d.
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2010-06-11)
+(2011-07-29)
                  
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
