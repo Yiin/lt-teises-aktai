@@ -251,20 +251,6 @@ vykdomos;
 aplinkos apsaugos schemų, kitų aplinkos apsaugos priemonių rengimą, taip pat
 rengia šias schemas ir priemones, numato jų įgyvendinimo (taikymo) mechanizmą,
 kontroliuoja, kaip jos vykdomos (taikomos);
- 
-3 punkto redakcija iki 2010 m.
-liepos 1 d.:
-3) rengia įstatymų, Lietuvos Respublikos Vyriausybės
-nutarimų ir kitų teisės aktų aplinkos apsaugos ir gamtos išteklių naudojimo
-klausimais projektus, organizuoja bendrųjų, specialiųjų bei detaliųjų
-teritorinio planavimo dokumentų aplinkos apsaugos klausimais rengimą, pagal
-savo kompetenciją derina ministerijų, kitų Vyriausybės įstaigų, apskrities,
-vietos savivaldos, kitų institucijų teisės aktų, reguliuojančių ūkinę ir
-kitokią veiklą, galinčią turėti poveikio aplinkai, projektus bei teritorinio
-planavimo dokumentus, kad jie atitiktų aplinkos apsaugos įstatymus ir kitus
-teisės aktus;
-3 punkto redakcija nuo 2010 m.
-liepos 1 d.:
 3) rengia įstatymų, Lietuvos Respublikos Vyriausybės
 nutarimų ir kitų teisės aktų aplinkos apsaugos ir gamtos išteklių naudojimo
 klausimais projektus, organizuoja bendrųjų, specialiųjų bei detaliųjų
@@ -273,7 +259,6 @@ savo kompetenciją derina valstybės ir savivaldybių institucijų ir įstaigų
 teisės aktų, reguliuojančių ūkinę ir kitokią veiklą, galinčią turėti poveikio
 aplinkai, projektus bei teritorinio planavimo dokumentus, kad jie atitiktų
 aplinkos apsaugos įstatymus ir kitus teisės aktus;
- 
 4) pagal savo kompetenciją rengia ir tvirtina aplinkos
 apsaugos ir gamtos išteklių naudojimo normas, normatyvus, standartus bei
 taisykles;
@@ -295,6 +280,13 @@ augalų ir gyvūnų rūšimis, taip pat gyvūnų laikymo nelaisvėje tvarką;
 paskleidžiamų) į aplinką teršalų (ir radioaktyviųjų medžiagų) normas bei
 apskaitos tvarką, nustato leidimų išmesti (išleisti, paskleisti) teršalus (ir
 radioaktyvąsias medžiagas) išdavimo tvarką;
+8 punkto redakcija nuo 2011 m.
+spalio 1 d.:
+8) nustato ir kontroliuoja išmetamų (išleidžiamų,
+paskleidžiamų) į aplinką teršalų (išskyrus radionuklidus) normas bei apskaitos
+tvarką, nustato leidimų išmesti (išleisti, paskleisti) teršalus (išskyrus
+radionuklidus) išdavimo tvarką;
+ 
 9) nustato pavojingų cheminių medžiagų ir pavojingų
 atliekų, genetiškai modifikuotų organizmų bei potencialių biologinės taršos
 šaltinių gamybos ir įvežimo, tranzito, išvežimo, naudojimo, saugojimo,
@@ -378,6 +370,8 @@ Nr. X-147, 2005-03-24,
 Nr.
 XI-783,
 2010-04-27, Žin., 2010, Nr. 54-2646 (2010-05-11)
+Nr. XI-1538,
+2011-06-28, Žin., 2011, Nr. 91-4315 (2011-07-19)
  
 II SKYRIUS. LIETUVOS RESPUBLIKOS PILIEČIŲ,
 SUINTERESUOTOS VISUOMENĖS, KITŲ JURIDINIŲ IR FIZINIŲ ASMENŲ TEISĖS IR PAREIGOS
@@ -425,8 +419,7 @@ reglamentuojančius teisę gauti informaciją apie aplinką.
 2. Suinteresuota visuomenė turi teisę
 Lietuvos Respublikos įstatymų nustatyta tvarka kreiptis į teismą dėl viešojo
 intereso gynimo užginčijant sprendimų, veiksmų ar neveikimo aplinkos ir jos
-apsaugos bei gamtos išteklių naudojimo srityje materialinį ar procesinį
-teisėtumą.
+apsaugos bei gamtos išteklių naudojimo srityje materialinį ar procesinį teisėtumą.
 Straipsnio pakeitimai:
 Nr. I-1352,
 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
@@ -636,15 +629,15 @@ aplinkai rengimo tvarką nustato Lietuvos Respublikos aplinkos ministerija.
 Straipsnio pakeitimai:
 Nr. I-1352,
 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
-Nr. VIII-1637, 00.04.18, Žin., 2000, Nr.39-1093
-(00.05.12)
+Nr. VIII-1637, 00.04.18, Žin., 2000,
+Nr.39-1093 (00.05.12)
  
             16 straipsnis. Ūkinės veiklos, galinčios
 turėti poveikio aplinkai, projektavimas
             Juridinių
 bei fizinių asmenų ūkinės veiklos, galinčios turėti poveikį aplinkai,
-teritorinis organizavimas ir aplinkos tvarkymo valstybinis reguliavimas vykdomas
-pagal bendrojo ir specialiojo teritorinio planavimo dokumentus.
+teritorinis organizavimas ir aplinkos tvarkymo valstybinis reguliavimas
+vykdomas pagal bendrojo ir specialiojo teritorinio planavimo dokumentus.
             Juridiniai
 ir fiziniai asmenys, projektuojantys objektų, galinčių turėti poveikio
 aplinkai, statybą, rekonstravimą ar plėtimą, rengiantys bendruosius ir
@@ -667,11 +660,10 @@ ir fiziniai asmenys gali statyti, rekonstruoti ar plėsti ūkinės veiklos
 objektus tik turėdami šio įstatymo 16 straipsnio reikalavimus atitinkančią
 projektinę dokumentaciją.
             Ūkinės
-veiklos objektų statyba, rekonstravimas ar plėtimas be projektinės
-dokumentacijos, numatytos šio įstatymo 16 straipsnyje, arba nesilaikant joje
-nustatytų aplinkos apsaugos reikalavimų, pažeidžiant statybos, rekonstravimo ar
-plėtimo darbų aplinkosauginius apribojimus užtraukia įstatymų numatytą
-atsakomybę.
+veiklos objektų statyba, rekonstravimas ar plėtimas be projektinės dokumentacijos,
+numatytos šio įstatymo 16 straipsnyje, arba nesilaikant joje nustatytų aplinkos
+apsaugos reikalavimų, pažeidžiant statybos, rekonstravimo ar plėtimo darbų
+aplinkosauginius apribojimus užtraukia įstatymų numatytą atsakomybę.
             Atsakomybės
 taikymas neužkerta kelio šio įstatymo 6 straipsnyje nurodytoms valstybinio
 aplinkos apsaugos valdymo ir kontrolės institucijoms arba jų pareigūnams
@@ -690,8 +682,8 @@ pateikiamos jų išvados.
 Straipsnio pakeitimai:
 Nr. I-1352,
 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
-Nr. IX-2113, 2004-04-13,
-Žin., 2004, Nr. 60-2121 (2004-04-24)
+Nr. IX-2113,
+2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
  
             19 straipsnis. Ūkinės veiklos objektų
 eksploatavimas
@@ -725,9 +717,9 @@ Nr. X-147, 2005-03-24,
 gamyba ir naudojimas
             Juridiniai
 ir fiziniai asmenys, naudodami pavojingas chemines medžiagas, privalo laikytis
-nustatytos šių medžiagų naudojimo, saugojimo, apskaitos, laidojimo, nukenksminimo,
-transportavimo, tranzito, įvežimo ir išvežimo tvarkos. Tokios medžiagos
-saugomos, laidojamos ir nukenksminamos jų gamintojo ar naudotojo lėšomis.
+nustatytos šių medžiagų naudojimo, saugojimo, apskaitos, laidojimo,
+nukenksminimo, transportavimo, tranzito, įvežimo ir išvežimo tvarkos. Tokios
+medžiagos saugomos, laidojamos ir nukenksminamos jų gamintojo ar naudotojo lėšomis.
 Pavojingų
 cheminių medžiagų naudojimo, saugojimo, apskaitos ir leidimų išdavimo,
 laidojimo, nukenksminimo, tranzito, įvežimo, išvežimo tvarką nustato Aplinkos
@@ -738,8 +730,8 @@ Respublikoje draudžiama cheminio ginklo gamyba, dislokavimas, tranzitas ir
 Straipsnio pakeitimai:
 Nr. I-1352,
 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
-Nr. IX-2113,
-2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
+Nr. IX-2113, 2004-04-13,
+Žin., 2004, Nr. 60-2121 (2004-04-24)
  
 21 straipsnis.
 Radioaktyviųjų medžiagų gamyba ir naudojimas
@@ -755,9 +747,22 @@ Lietuvos Respublikos teritorijoje draudžiama.
             Lietuvos
 Respublikoje draudžiama branduolinio ginklo gamyba, dislokavimas, tranzitas ir
 įvežimas.
+Straipsnio redakcija nuo 2011
+m. spalio 1 d.:
+21 straipsnis.
+Radioaktyviųjų medžiagų gamyba ir naudojimas
+Radioaktyviųjų medžiagų ir radioaktyviųjų atliekų bei
+kitų jonizuojančiosios spinduliuotės šaltinių naudojimo, saugojimo, apskaitos,
+dėjimo į radioaktyviųjų atliekų atliekynus, dezaktyvacijos, įvežimo, išvežimo,
+vežimo tranzitu ir vežimo Lietuvos Respublikoje tvarką nustato Lietuvos
+Respublikos branduolinės saugos įstatymas, Lietuvos Respublikos radiacinės
+saugos įstatymas ir Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo
+įstatymas.
 Straipsnio pakeitimai:
 Nr. I-1352,
 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
+Nr. XI-1538,
+2011-06-28, Žin., 2011, Nr. 91-4315 (2011-07-19)
  
             22 straipsnis. Biologiniai taršos
 šaltiniai
@@ -805,8 +810,8 @@ Nr. I-1352,
 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
 Nr. VIII-310,
 97.06.26, Žin., 1997, Nr.65-1540 (97.07.09)
-Nr. IX-2113,
-2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
+Nr. IX-2113, 2004-04-13,
+Žin., 2004, Nr. 60-2121 (2004-04-24)
 Nr. X-147, 2005-03-24,
 Žin., 2005, Nr. 47-1558 (2005-04-12)
  
@@ -1052,25 +1057,25 @@ poveikio žmonių sveikatai ar tolesnio jų pablogėjimo;
 straipsnio penktosios dalies nuostatas.
 Aplinkos ministerija arba jos įgaliota institucija bet
 kuriuo momentu turi teisę ir pareigą:
-1) reikalauti, kad ūkio subjektas pateiktų visą informaciją
-apie bet kurią situaciją, kurios metu atsirado žala aplinkai arba jos grėsmė
-arba kai įtariama, kad tokia situacija gali atsirasti;
+1) reikalauti, kad ūkio subjektas pateiktų visą
+informaciją apie bet kurią situaciją, kurios metu atsirado žala aplinkai arba
+jos grėsmė arba kai įtariama, kad tokia situacija gali atsirasti;
 2) reikalauti, kad ūkio subjektas imtųsi būtinų
 prevencinių ir (arba) aplinkos atkūrimo priemonių;
 3) reikalauti iš ūkio subjekto imtis arba duoti
 atitinkamam subjektui nurodymus dėl visų veiksmų, susijusių su teršalų
 surinkimu ir (arba) kitokių darančių žalą aplinkai veiksnių pašalinimu,
-kontrole ar kitokiu jų valdymu, kad būtų išvengta žalos arba sumažinta žala aplinkai
-ir neigiamas poveikis žmonių sveikatai;
+kontrole ar kitokiu jų valdymu, kad būtų išvengta žalos arba sumažinta žala
+aplinkai ir neigiamas poveikis žmonių sveikatai;
 4) duoti ūkio subjektui privalomus vykdyti nurodymus
 dėl prevencinių ir (arba) aplinkos atkūrimo priemonių taikymo;
 5) pati imtis būtinų prevencinių ir (arba) aplinkos
 atkūrimo priemonių šio straipsnio ketvirtojoje dalyje numatytais atvejais.
 Jeigu ūkio subjektas nevykdo šiame straipsnyje
 numatytų pareigų ar neprivalo atlyginti prevencinių ir (arba) aplinkos atkūrimo
-priemonių išlaidų arba nėra nustatytas atsakingas už žalą aplinkai asmuo,
-savivaldybės ir (arba) valstybės įgaliotos institucijos pagal kompetenciją
-pačios ar per trečiuosius asmenis vykdo būtinas priemones.
+priemonių išlaidų arba nėra nustatytas atsakingas už žalą aplinkai asmuo, savivaldybės
+ir (arba) valstybės įgaliotos institucijos pagal kompetenciją pačios ar per
+trečiuosius asmenis vykdo būtinas priemones.
 Aplinkos atkūrimo priemonės vykdomos tik turint
 Aplinkos ministerijos ar jos įgaliotos institucijos išankstinį pritarimą. Aplinkos atkūrimo priemonių parinkimo bei išankstinio
 pritarimo gavimo tvarką nustato aplinkos ministras.
@@ -1140,10 +1145,10 @@ Lietuvos Respublikos įstatymus.
 Ūkio subjektams taikoma civilinė atsakomybė,
 neatsižvelgiant į jų kaltę, už bet kokią žalą aplinkai arba realią jos grėsmę,
 atsiradusią dėl jų ūkinės veiklos, išskyrus šiame įstatyme numatytus atvejus.
-Šio straipsnio antrojoje dalyje nurodyta civilinė atsakomybė
-netaikoma asmenims, vykdantiems veiklą, kurios pagrindinė paskirtis – krašto
-apsauga arba tarptautinis saugumas bei kurios vienintelė paskirtis – apsauga
-nuo stichinių nelaimių.
+Šio straipsnio antrojoje dalyje nurodyta civilinė
+atsakomybė netaikoma asmenims, vykdantiems veiklą, kurios pagrindinė paskirtis
+– krašto apsauga arba tarptautinis saugumas bei kurios vienintelė paskirtis –
+apsauga nuo stichinių nelaimių.
             Ginčus
 aplinkos apsaugos ir gamtos išteklių naudojimo klausimais įstatymų nustatyta
 tvarka nagrinėja ir sprendžia Lietuvos Respublikos teismai.
@@ -1162,8 +1167,8 @@ VIII SKYRIUS. LIETUVOS RESPUBLIKOS TARPTAUTINIS
 BENDRADARBIAVIMAS 
 APLINKOS APSAUGOS SRITYJE
  
-            35 straipsnis. Lietuvos Respublikos
-tarptautinis bendradarbiavimas aplinkos 
+            35 straipsnis. Lietuvos Respublikos tarptautinis
+bendradarbiavimas aplinkos 
 apsaugos  klausimais
             Lietuvos
 Respublika, vadovaudamasi visuotinai pripažintais ir skelbiamais tarptautiniais
@@ -1195,8 +1200,8 @@ Respublikos įstatymai turi atitikti Lietuvos ratifikuotas tarptautines sutartis
 aplinkos apsaugos klausimais ir visuotinai pripažintas tarptautines aplinkos
 apsaugos normas.
             Lietuvos Respublikos
-tarptautinėse sutartyse aplinkos apsaugos klausimais įtvirtinamos taisyklės
-turi atitikti Lietuvos Respublikoje nustatytus aplinkos kokybės normatyvus ir
+tarptautinėse sutartyse aplinkos apsaugos klausimais įtvirtinamos taisyklės turi
+atitikti Lietuvos Respublikoje nustatytus aplinkos kokybės normatyvus ir
 standartus. 
  
  
@@ -1214,7 +1219,7 @@ I-2223
  
 Lietuvos
 Respublikos
-                                                                                                aplinkos
+                                                                                                aplinkos
 apsaugos įstatymo 
                                                                                                 priedas
  
@@ -1245,7 +1250,8 @@ ________________
 Pakeitimai:
  
 1.
-Lietuvos Respublikos Seimas, Įstatymas
+Lietuvos Respublikos Seimas,
+Įstatymas
 Nr. I-1352,
 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 LIETUVOS RESPUBLIKOS APLINKOS
@@ -1287,8 +1293,8 @@ PAKEITIMO IR ĮSTATYMO PAPILDYMO 22(1) STRAIPSNIU ĮSTATYMAS
 6.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-1610,
-2003-06-10, Žin., 2003, Nr. 61-2763 (2003-06-27)
+Nr. IX-1610, 2003-06-10,
+Žin., 2003, Nr. 61-2763 (2003-06-27)
 APLINKOS
 APSAUGOS ĮSTATYMO 6 IR 30 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
@@ -1349,15 +1355,25 @@ APSAUGOS ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 12.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. XI-858, 2010-05-28,
-Žin., 2010, Nr. 70-3472 (2010-06-17)
+Nr. XI-858,
+2010-05-28, Žin., 2010, Nr. 70-3472 (2010-06-17)
 APLINKOS
 APSAUGOS ĮSTATYMO 1, 7, 8, 9 STRAIPSNIŲ, II SKYRIAUS PAVADINIMO IR PRIEDO
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
+13.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. XI-1538,
+2011-06-28, Žin., 2011, Nr. 91-4315 (2011-07-19)
+APLINKOS APSAUGOS ĮSTATYMO 6 IR
+21 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja 2011 m.
+spalio 1 d.
  
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2010-06-17)
-                  autrap@lrs.lt
+(2011-08-02)
+                  ausrine.trapinskiene@lrs.lt
