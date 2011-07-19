@@ -1074,6 +1074,7 @@ departamento
   direktorius, valdybos direktoriaus,
   komisijos ar tarybos administracijos
   direktorius, 
+generalinis inspektorius,
 gynybos
   patarėjas, 
   vyriausiasis patarėjas,
@@ -1082,7 +1083,6 @@ gynybos
 
 ambasadorius
   ypatingiems pavedimams,
-generalinis inspektorius,
   įgaliotasis ministras, 
   laikinasis reikalų patikėtinis,
 departamento
@@ -1911,6 +1911,7 @@ departamento
   direktorius, valdybos direktorius,
   komisijos ar tarybos administracijos
   direktorius, 
+generalinis inspektorius,
 gynybos
   patarėjas, 
   vyriausiasis patarėjas,
@@ -1919,7 +1920,6 @@ gynybos
 
 ambasadorius
   ypatingiems pavedimams,
-generalinis inspektorius,
   įgaliotasis ministras, 
   laikinasis reikalų patikėtinis,
 departamento
@@ -2577,6 +2577,8 @@ Nr. XI-851,
 2010-05-25, Žin., 2010, Nr. 67-3347 (2010-06-10)
 Nr. XI-979,
 2010-07-02, Žin., 2010, Nr. 86-4530 (2010-07-20)
+Nr. XI-1555,
+2011-06-28, Žin., 2011, Nr. 91-4330 (2011-07-19)
  
 2
 straipsnis. Įstatymo įgyvendinimas
@@ -2603,8 +2605,8 @@ valstybės tarnautojų suvienodintų pareigybių sąrašas įsigalioja 2012 m. s
 1 d., o nuo 2013 metų valstybės tarnautojų suvienodintų pareigybių sąrašas
 įsigalioja 2013 m. sausio 1 d.
 Straipsnio pakeitimai:
-Nr. XI-979,
-2010-07-02, Žin., 2010, Nr. 86-4530 (2010-07-20)
+Nr. XI-979, 2010-07-02,
+Žin., 2010, Nr. 86-4530 (2010-07-20)
  Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 
@@ -2636,11 +2638,21 @@ VALSTYBĖS
 TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMO 1, 2 IR 3 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
  
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1555,
+2011-06-28, Žin., 2011, Nr. 91-4330 (2011-07-19)
+VALSTYBĖS
+TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šio įstatymo 1
+straipsnio 1 dalis įsigalioja 2012 m. sausio 1 d.
+Šio įstatymo 1 straipsnio 2 dalis
+įsigalioja 2013 m. sausio 1 d.
+ 
 *** Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė
-(2010-07-20)
+Redagavo Aušrinė Trapinskienė (2011-07-25)
                  
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
 
