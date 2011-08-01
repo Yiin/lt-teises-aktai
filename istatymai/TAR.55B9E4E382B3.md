@@ -74,22 +74,11 @@ išskirti subjektą, kuriam jis sukurtas.
 5. Herbinė
 vėliava – teisės aktų nustatyta tvarka sukurta ir patvirtinta vėliava,
 kurios pagrindą sudaro herbas arba herbo figūra ir jų spalvos.
- 
-6
-dalies redakcija iki 2010 m. liepos 1 d.:
-6. Herbinis
-antspaudas
-– šio įstatymo nustatyta tvarka patvirtintas ženklas su Lietuvos valstybės,
-apskrities, savivaldybės, miesto, miestelio ar kaimo herbu, skirtas šių
-subjektų dokumentų tikrumui ir juos išdavusiam subjektui patvirtinti.
-6
-dalies redakcija nuo 2010 m. liepos 1 d.:
 6. Herbinis
 antspaudas – šio įstatymo nustatyta tvarka patvirtintas ženklas su Lietuvos
 valstybės, apskrities, savivaldybės, miesto, miestelio ar kaimo herbu, skirtas
 valstybės ar savivaldybės subjektų dokumentų tikrumui ir juos išdavusiam
 subjektui patvirtinti.
- 
 7. Herbinis
 ženklas – teisės aktų nustatyta tvarka sukurtas ir patvirtintas teisėjo,
 prokuroro, mero ar seniūno skiriamasis ženklas, skirtas šių asmenų
@@ -141,8 +130,8 @@ dešinėje rankoje virš galvos iškeltą baltą (sidabrinį) kalaviją. Prie ra
 kairiojo peties kabo mėlynas skydas su dvigubu geltonu (auksiniu) kryžiumi.
 Žirgo balnas, gūnia, kamanos ir diržai mėlyni. Kalavijo rankena, kamanų žąslai,
 balno kilpa ir pentinas, makšties bei žirgo aprangos metaliniai sutvirtinimai
-ir pasagos geltoni (auksiniai). Lietuvos valstybės herbo etalono piešinys pateiktas
-šio įstatymo 1 priede.
+ir pasagos geltoni (auksiniai). Lietuvos valstybės herbo etalono piešinys
+pateiktas šio įstatymo 1 priede.
 2. Lietuvos heraldikos komisija rengia ir teikia
 Respublikos Prezidentui Lietuvos valstybės herbo etaloną, jį tvirtina Lietuvos
 Respublikos Seimas Respublikos Prezidento teikimu.  Lietuvos valstybės herbo
@@ -246,8 +235,8 @@ Respublikos Konstitucinio Teismo posėdžių salėje;
 Respublikos Aukščiausiojo Teismo, jo senato ir kitų teismų posėdžių salėse;
 5) Lietuvos
 Respublikos vyriausiosios rinkimų komisijos posėdžių salėje;
-6) Lietuvos
-Respublikos Seimo Pirmininko darbo kabinete; 
+6) Lietuvos Respublikos
+Seimo Pirmininko darbo kabinete; 
 7) Respublikos
 Prezidento rezidencijos darbo kabinete;
 8) Lietuvos
@@ -265,24 +254,27 @@ darbo kabinetuose;
 14) Lietuvos Respublikos diplomatinių atstovybių ir konsulinių įstaigų
 bei jų padalinių, specialiųjų misijų, esančių užsienio valstybėse, vadovų darbo
 kabinetuose.
-5. Lietuvos Respublikos įstatymuose gali būti numatyta ir kitų
-juridinių asmenų, turinčių teisę naudoti Lietuvos valstybės herbą, taip pat
-kitų Lietuvos valstybės herbo naudojimo atvejų. 
-6. Antspaudų su Lietuvos valstybės herbu apyvartos kontrolę nustato
+5. Lietuvos Respublikos įstatymuose gali būti numatyta ir kitų juridinių
+asmenų, turinčių teisę naudoti Lietuvos valstybės herbą, taip pat kitų Lietuvos
+valstybės herbo naudojimo atvejų. 
+6. Antspaudų su Lietuvos
+valstybės herbu apyvartą reglamentuoja Lietuvos Respublikos antspaudų apyvartos
 įstatymas.
-Straipsnio
-pakeitimai:
+Straipsnio pakeitimai:
 Nr. XI-745,
 2010-04-13, Žin., 2010, Nr. 48-2295 (2010-04-27)
 Nr.
 XI-1305,
 2011-03-31, Žin., 2011, Nr. 46-2157 (2011-04-16)
+Nr.
+XI-1396,
+2011-05-19, Žin., 2011, Nr. 68-3225 (2011-06-04)
  
 6
 straipsnis. Lietuvos nacionaliniai simboliai
 1. Lietuvos
-istoriniai nacionaliniai simboliai yra dvigubas kryžius ir Gediminaičių
-stulpai. Jų etalonus Lietuvos heraldikos komisijos teikimu tvirtina Respublikos
+istoriniai nacionaliniai simboliai yra dvigubas kryžius ir Gediminaičių stulpai.
+Jų etalonus Lietuvos heraldikos komisijos teikimu tvirtina Respublikos
 Prezidentas.
 2. Dvigubas kryžius vaizduojamas
 geltonas (auksinis) mėlyname skyde ir yra sudedamoji Lietuvos valstybės herbo
@@ -338,7 +330,14 @@ herbo naudojimo tvarką nustato savivaldybės taryba.
 6. Mero ženkle ir seniūno ženkle
 atvaizduojamas atitinkamos savivaldybės miesto, miestelio ar kaimo herbas.
 7. Antspaudų su
-savivaldybės herbu apyvartos kontrolę nustato įstatymas. 
+savivaldybės herbu apyvartą reglamentuoja Lietuvos Respublikos antspaudų
+apyvartos įstatymas.
+
+Straipsnio
+pakeitimai:
+Nr.
+XI-1396,
+2011-05-19, Žin., 2011, Nr. 68-3225 (2011-06-04)
  
 KETVIRTASIS SKIRSNIS
 HERBŲ IR
@@ -426,8 +425,8 @@ pateikia Respublikos Prezidentui ir viešai paskelbia.
 Prezidentas. Komisijos narių kadencijų skaičius neribojamas.
 2. Komisijos nariais gali būti skiriami tik nepriekaištingos
 reputacijos Lietuvos Respublikos piliečiai, turintys aukštąjį universitetinį
-išsilavinimą ir ne mažesnį kaip trejų metų heraldikos ar jai artimos srities  mokslinio
-ar praktinio darbo patirtį.
+išsilavinimą ir ne mažesnį kaip trejų metų heraldikos ar jai artimos srities 
+mokslinio ar praktinio darbo patirtį.
 3.
 Komisijos vadovas yra Komisijos pirmininkas. Pirmininko nesant jo pareigas eina
 Komisijos pirmininko pavaduotojas.
@@ -462,8 +461,8 @@ antspaudų ir kitų herbinių ženklų kūrimą;
 3) sprendžia bendruosius
 heraldikos norminimo klausimus, atsižvelgdama į Lietuvos heraldikos tradicijas,
 tarptautinę patirtį ir heraldikos mokslo tendencijas;
-4) ugdo pagarbą heraldikos simbolikai,
-propaguoja heraldikos žinias;
+4) ugdo pagarbą heraldikos
+simbolikai, propaguoja heraldikos žinias;
 5) nustato taisykles,
 reglamentuojančias herbų, herbinių vėliavų, herbinių ženklų ir herbinių
 antspaudų kūrimą; 
@@ -498,9 +497,9 @@ straipsnio 2 dalyje nustatytas funkcijas, turi teisę:
 neatlygintinai gauti ir rinkti informaciją iš visų Lietuvos
 Respublikos institucijų, įstaigų, įmonių, organizacijų apie heraldikos objektų
 naudojimą;
-2) neatlygintinai
-naudotis valstybės archyvuose, muziejuose ir bibliotekose saugoma istorine
-heraldikos medžiaga istoriniams herbams atkurti;
+2)
+neatlygintinai naudotis valstybės archyvuose, muziejuose ir bibliotekose
+saugoma istorine heraldikos medžiaga istoriniams herbams atkurti;
 3) teisės aktų
 nustatyta tvarka dalyvauti valstybės ir savivaldybių institucijų bei įstaigų,
 teismų, mokslo ir studijų institucijų, valstybės pareigūnų posėdžiuose ir
@@ -543,7 +542,7 @@ institucijose – savivaldybės vadovas.
 3. Herbų gamybą kontroliuoja
 Lietuvos Respublikos Vyriausybės įgaliotos institucijos, vadovaudamosi šiuo
 įstatymu ir kitais norminiais teisės aktais.
-Punkto pakeitimai:
+Straipsnio pakeitimai:
 Nr. XI-324,
 2009-07-07, Žin., 2009, Nr. 85-3581 (2009-07-18)
 Nr. XI-745,
@@ -731,16 +730,27 @@ straipsnį, įsigalioja 2010 m. liepos 1 d.
 9.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XI-1305, 2011-03-31,
-Žin., 2011, Nr. 46-2157 (2011-04-16)
+Nr. XI-1305,
+2011-03-31, Žin., 2011, Nr. 46-2157 (2011-04-16)
 VALSTYBĖS
 HERBO, KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+10.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-1396,
+2011-05-19, Žin., 2011, Nr. 68-3225 (2011-06-04)
+VALSTYBĖS
+HERBO, KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ ĮSTATYMO 5 IR 8 STRAIPSNIŲ PAKEITIMO
+ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2011 m. rugpjūčio 1 d.
  
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušra Bodin (2011-04-20)
+Aušra Bodin (2011-06-06)
                  
 aubodi@lrs.lt
