@@ -15,7 +15,6 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C"
 
 Įstatymas skelbtas: Žin., 2000, Nr. 89-2743
 Neoficialus įstatymo tekstas
-Įstatymo aktuali redakcija nuo 2011 m. sausio 1 d.
  
 LIETUVOS RESPUBLIKOS
 GAMTINIŲ DUJŲ
@@ -23,1205 +22,2843 @@ GAMTINIŲ DUJŲ
 2000 m. spalio 10 d. Nr. VIII-1973
 Vilnius
 Nauja
-įstatymo redakcija nuo 2007 m. balandžio 19 d.:
+įstatymo redakcija nuo 2011-08-01:
 Nr.
-X-1054,
-2007-03-20, Žin., 2007, Nr. 43-1626 (2007-04-19)
-PIRMASIS SKIRSNIS
-BENDROSIOS
-NUOSTATOS
+XI-1564,
+2011-06-30, Žin., 2011, Nr. 87-4186 (2011-07-14)
+PIRMASIS
+SKIRSNIS
+BENDROSIOS NUOSTATOS
  
-1
-straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo paskirtis 
 1. Šis įstatymas
-nustato bendruosius gamtinių dujų sektoriaus veiklos organizavimo ir
-funkcionavimo principus, dujų įmonių veiklą bei jų tarpusavio santykius ir
-santykius su vartotojais tiekiant, skirstant, perduodant, skystinant ir laikant
-gamtines dujas.
-2. Įstatymo
+nustato su gamtinių dujų perdavimu, skirstymu, laikymu, skystinimu ir tiekimu
+susijusius santykius. Šiame įstatyme įtvirtinamos taisyklės, susijusios su
+gamtinių dujų sektoriaus organizavimu ir funkcionavimu, gamtinių dujų patekimu
+į rinką, taip pat gamtinių dujų perdavimo, skirstymo, laikymo, skystinimo ir
+tiekimo licencijų, licencijų verstis rinkos operatoriaus veikla išdavimo
+kriterijai ir tvarka. Šis įstatymas taip pat nustato priemones, skirtas tinkamam
+gamtinių dujų tiekimo patikimumo lygiui užtikrinti ir bendrajai Europos
+Sąjungos vidaus rinkai kurti. Šio įstatymo nuostatos, taikomos veiklai,
+susijusiai su gamtinėmis dujomis, įskaitant suskystintas gamtines dujas, taip
+pat nediskriminuojant taikomos ir veiklai, susijusiai su biodujomis, iš
+biomasės pagamintomis dujomis ar kitų rūšių dujomis, jeigu tik šias dujas
+galima techniškai ir saugiai įleisti į gamtinių dujų sistemą ir ja
+transportuoti. Šio įstatymo nuostatos netaikomos biodujų gamybos skatinimo
+priemonėms, nustatytoms Lietuvos Respublikos atsinaujinančių išteklių
+energetikos įstatyme.
+2. Šio įstatymo
+tikslas – sukurti konkurencingą, ekonomiškai pagrįstą ir patikimą gamtinių dujų
+rinką, užtikrinančią vartotojų galimybę laisvai pasirinkti gamtinių dujų
+tiekėją ir garantuojančią veiksmingą vartotojų ir rinkos dalyvių teisių ir
+teisėtų interesų apsaugą.
+3. Šio įstatymo
 nuostatos yra suderintos su šio įstatymo priede nurodytais Europos Sąjungos
-teisės aktais.
+teisės aktais. 
  
 2
-straipsnis. Pagrindiniai  Įstatymo tikslai
-Pagrindiniai šio
-įstatymo tikslai:
-1) sukurti
-teisines sąlygas konkurencijai gamtinių dujų sektoriuje skatinti;
-2) užtikrinti
-galimybę laisviesiems vartotojams pasirinkti tiekimo įmonę;
-3) užtikrinti
-ekonomiškai pagrįstą gamtinių dujų perdavimo, skirstymo, laikymo ir tiekimo
-saugumą;
-4) užtikrinti
-vartotojų apsaugą.
- 
-3
 straipsnis. Pagrindinės šio įstatymo sąvokos
-1. Balansavimas
-– pristatomo ir paimamo gamtinių dujų (toliau – dujos) kiekio perdavimo ir (ar)
-skirstymo sistemose išlyginimas.
-2. Buitiniai
-vartotojai – fiziniai asmenys, perkantys dujas naudoti buitinėms reikmėms.
-3. Dujų įmonė
-– asmuo, kuris verčiasi bent viena iš šių veiklos rūšių: dujų gavybos,
-perdavimo, skirstymo, skystinimo, tiekimo ar laikymo ir yra atsakingas už
+1. Buitinis
+gamtinių dujų vartotojas (toliau – buitinis vartotojas) –
+fizinis asmuo, perkantis gamtines dujas asmeninėms, šeimos ar
+namų ūkio reikmėms, nesusijusioms su ūkine komercine ar profesine veikla. 
+2. Didmeninis
+gamtinių dujų vartotojas (toliau – didmeninis vartotojas) – asmuo,
+išskyrus perdavimo sistemos operatorių ar skirstymo sistemos operatorių,
+perkantis gamtines dujas perparduoti.
+3. Energetikos
+reguliavimo institucijų bendradarbiavimo agentūra – agentūra, įkurta
+2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentu (EB)
+Nr. 713/2009, įsteigiančiu Energetikos reguliavimo institucijų
+bendradarbiavimo agentūrą (OL 2009
+L 211, p. 1).
+4. Gamtinės
+dujos
+– iš žemės gelmių išgaunamų angliavandenilių mišinys, kuris normaliomis sąlygomis
+yra dujinės būsenos, taip pat suskystintos gamtinės dujos, biodujos, dujos,
+pagamintos iš biomasės, ir kitos nustatytus reikalavimus atitinkančios dujos,
+kurios gali būti tiekiamos į gamtinių dujų sistemą arba ja transportuojamos.
+5. Gamtinių
+dujų
+birža
+– didmeninės prekybos gamtinėmis
+dujomis sistema, organizuojama rinkos operatoriaus Prekybos gamtinėmis dujomis
+taisyklėse nustatyta tvarka ir sąlygomis. 
+6. Gamtinių
+dujų gavybos tinklas (toliau – gavybos tinklas) –
+vamzdynas ar vamzdynų tinklas, eksploatuojamas ir (arba) įrengtas kaip naftos
+ar gamtinių dujų gavybos objekto dalis arba naudojamas gamtinėms dujoms
+perduoti iš vieno ar kelių tokių objektų į perdirbimo gamyklą, galutinį
+pakrantės terminalą arba kitą terminalą.
+7. Gamtinių
+dujų įmonė
+– asmuo, kuris verčiasi bent viena iš šių veiklos rūšių: gamtinių dujų gavyba,
+perdavimu, skirstymu, skystinimu, tiekimu ir laikymu ir yra atsakingas už
 susijusius su šių rūšių veikla komercinius, techninius ir (arba) eksploatavimo
 įpareigojimus.
-4. Dujų
-laikymas vamzdyne – suspaustų dujų laikymas jas suspaudžiant dujų perdavimo
-sistemose.
-5. Dujų
-sektorius – energetikos sritis, tiesiogiai susijusi su gamtinių dujų
-tiekimu, skirstymu, perdavimu, skystinimu, laikymu ir tranzitu.
-6. Dujų
-tranzitas – dujų, kilusių iš valstybės ne Europos Sąjungos narės
-teritorijos ir skirtų tos ir (ar) trečiosios valstybės teritorijai,
-transportavimas per šalies teritoriją.
-7. Gamtinės
-dujos – iš žemės gelmių išgaunamų angliavandenilių mišinys, kuris
-normaliomis sąlygomis yra dujinės būsenos, taip pat suskystintos gamtinės
-dujos, biodujos, dujos, pagamintos iš biomasės, ir kitų tipų dujos, kurios gali
-būti techniškai ir saugiai patiektos į gamtinių dujų sistemą arba ja
-transportuojamos.
-8. Gamtinių
-dujų saugykla – dujų įmonei priklausantys ir (ar) dujų įmonės valdomi
-įrenginiai dujoms laikyti, įskaitant suskystintų gamtinių dujų įrenginių dalį,
-išskyrus gavybos operacijoms naudojamą dalį ir įrenginius, skirtus vien tik
-funkcijas atliekantiems perdavimo sistemos operatoriams.
-9. Horizontaliosios
-integracijos įmonė – įmonė, kuri verčiasi bent viena iš šių veiklos rūšių:
-dujų perdavimo, skirstymo, laikymo, gavybos ar tiekimo ir verčiasi kuria nors
-kita, su dujomis nesusijusia, veikla.
-10. Ilgalaikis
-planavimas – dujų įmonių ilgalaikio, ne mažiau kaip 3 metų, tiekimo ir
-transportavimo pajėgumų planavimas, siekiant patenkinti sistemos naudotojų dujų
-poreikius, įvairinti išteklius ir garantuoti tiekimą vartotojams.
-11. Integruotoji
-dujų įmonė – vertikaliosios arba horizontaliosios integracijos dujų įmonė.
-12. Jungiamasis
-vamzdynas – Europos Sąjungos valstybių narių sieną kertantis ar tarp
-Europos Sąjungos valstybių narių nutiestas dujų perdavimo vamzdynas, kurio
-vienintelė paskirtis – sujungti tų Europos Sąjungos valstybių narių
-nacionalines dujų perdavimo sistemas.
-13. Jungtinė
-sistema – keletas viena su kita sujungtų sistemų, neįskaitant vartotojų
+8. Gamtinių
+dujų įmonių paslaugos
+– gamtinių dujų įmonių teikiamos paslaugos sistemos naudotojams ir gamtinių
+dujų vartotojams: gamtinių dujų perdavimas, skirstymas, skystinimas, laikymas,
+vartotojų sistemų prijungimas, balansavimas ar kitos su gamtinėmis dujomis
+susijusios paslaugos.
+9. Gamtinių
+dujų kainų reguliavimo periodas – penkerių metų laikotarpis, kuriam
+yra nustatoma reguliuojamos gamtinių dujų kainos viršutinė riba ir principai,
+kuriais remiantis šios kainos viršutinė riba gali būti koreguojama iki
+reguliavimo periodo pabaigos.
+10. Gamtinių dujų
+laikymas – gamtinių dujų sandėliavimas gamtinių dujų saugykloje.
+11. Gamtinių
+dujų laikymas vamzdyne – suslėgtų gamtinių dujų laikymas jų perdavimo ir
+skirstymo sistemoje, išskyrus laikymą įrenginiuose, skirtuose perdavimo
+sistemos operatoriams, atliekantiems savo funkcijas.
+12. Gamtinių dujų laikymo
+sistemos operatorius (toliau – laikymo sistemos operatorius)
+– asmuo, kuris verčiasi gamtinių dujų laikymo veikla ir yra atsakingas už
+gamtinių dujų saugyklos eksploatavimą.
+13. Gamtinių
+dujų perdavimas
+(toliau – perdavimas) – gamtinių dujų transportavimas, išskyrus
+tiekimą, sistema, kurią paprastai sudaro aukšto slėgio vamzdynai, išskyrus
+gavybos tinklą ir aukšto slėgio vamzdynų dalį, daugiausia naudojamą paskirstyti
+gamtines dujas vietoje, siekiant pristatyti jas gamtinių dujų vartotojams.
+14. Gamtinių
+dujų perdavimo sistema (toliau – perdavimo sistema) – aukšto slėgio
+vamzdynai ir įrenginiai, įskaitant gamtinių dujų skirstymo stotis, dujoms iš
+įmonių, suskystintų gamtinių dujų sistemų perduoti į gamtinių dujų saugyklas,
+skirstomuosius dujotiekius arba į dujas naudojančius įrenginius, taip pat
+statiniai ir priemonės šiems vamzdynams veikti. Perdavimo sistema taip pat
+vadinama magistraliniu dujotiekiu.
+15. Gamtinių dujų perdavimo
+sistemos operatorius
+(toliau – perdavimo sistemos operatorius) – asmuo, kuris licencijoje nurodytoje teritorijoje verčiasi
+gamtinių dujų perdavimo veikla ir yra atsakingas už šių dujų perdavimo sistemos
+eksploatavimą, techninės priežiūros užtikrinimą, prireikus – už jos plėtrą
+konkrečioje teritorijoje ir sujungimą su kitomis sistemomis bei už tai, kad
+būtų užtikrintas ilgalaikis sistemos pajėgumas patenkinti pagrįstus gamtinių
+dujų transportavimo poreikius.
+16. Gamtinių
+dujų perdavimo sistemos savininkas – asmuo, kuriam nuosavybės teise
+priklauso gamtinių dujų perdavimo sistema (magistralinis dujotiekis). 
+17. Gamtinių
+dujų perdavimo sistemos valdytojas – asmuo, kuris valdo gamtinių
+dujų perdavimo sistemą (magistralinį dujotiekį) kitais negu nuosavybės
+teisė teisėtais pagrindais.
+18. Gamtinių
+dujų pristatymo vieta – vieta, kurioje baigiasi gamtinių dujų perdavimas
+magistraliniu dujotiekiu ar skirstymas skirstomuoju dujotiekiu ir kurioje
+perdavimo ar skirstymo sistemos operatorius pateikia gamtines dujas sistemos
+naudotojui ar gamtinių dujų vartotojui.
+19. Gamtinių dujų
+rinka
+– asmenų, vykdančių gamtinių dujų gavybą, perdavimą, skirstymą, tiekimą,
+skystinimą ir laikymą, santykių visuma, apimanti didmeninę ir mažmeninę prekybą
+gamtinėmis dujomis, paslaugų teikimą ir pagrįsta teisėtumo ir lygiateisiškumo
+principais bei reguliuojamojo trečiųjų asmenų dalyvavimo transportuojant
+gamtines dujas principu.
+20. Gamtinių
+dujų rinkos finansinė priemonė – finansinė priemonė, nurodyta Lietuvos
+Respublikos finansinių priemonių rinkų įstatymo 3 straipsnio 4 dalies
+5, 6, 7 punktuose, jeigu ta priemonė susijusi su gamtinėmis dujomis. 
+21. Gamtinių
+dujų rinkos operatorius (toliau – rinkos operatorius) –
+asmuo, organizuojantis prekybą gamtinėmis dujomis gamtinių dujų
+biržoje ir turintis šios veiklos licenciją.
+22. Gamtinių
+dujų saugykla (toliau – saugykla) – gamtinių dujų įmonei
+nuosavybės teise priklausantis ir (arba) jos eksploatuojamas įrenginys
+gamtinėms dujoms laikyti, įskaitant įrenginius suskystintoms gamtinėms dujoms
+laikyti, išskyrus tuos įrenginius ar įrenginių dalį, kurie naudojami gavybos
+operacijoms vykdyti, ir įrenginius, skirtus vien tik perdavimo sistemos
+operatoriams, atliekantiems savo funkcijas. 
+23. Gamtinių
+dujų sektorius – energetikos sritis, apimanti gamtinių dujų gavybą,
+perdavimą, skirstymą, tiekimą, didmeninę ir mažmeninę prekybą, skystinimą,
+laikymą ir tranzitą.
+24. Gamtinių
+dujų sistema
+– gamtinių dujų įmonei nuosavybės teise priklausantys ir (ar) gamtinių dujų
+įmonės valdomi magistraliniai dujotiekiai, skirstomieji dujotiekiai,
+suskystintų gamtinių dujų įrenginiai ir (arba) gamtinių dujų saugyklos,
+gamtinių dujų laikymo vamzdyne įrenginiai ir įrenginiai papildomoms paslaugoms
+teikti bei susijusių įmonių įrenginiai, kurie reikalingi suteikiant teisę naudotis
+perdavimo, skirstymo ir suskystintų gamtinių dujų sistema.
+25. Gamtinių
+dujų sistemos balansavimas (toliau – sistemos balansavimas) –
+pristatomo ir paimamo gamtinių dujų kiekio perdavimo ir (ar) skirstymo
+sistemose išlyginimas.
+26. Gamtinių
+dujų sistemos naudotojas (toliau – sistemos naudotojas) – su
+gamtinių dujų sistemos operatoriumi sudaręs sutartį asmuo, kuris tiekia
+gamtines dujas į sistemą arba kuriam jos tiekiamos iš sistemos.
+27. Gamtinių
+dujų sistemos pajėgumai (toliau – sistemos pajėgumai)
+– didžiausias gamtinių dujų srautas, kuris išreiškiamas kubiniais metrais per
+laiko vienetą arba energijos vienetu per laiko vienetą ir kuriuo gamtinių dujų
+sistemos naudotojas turi teisę naudotis pagal gamtinių dujų perdavimo ir (ar)
+skirstymo sutarties nuostatas.
+28. Gamtinių
+dujų skirstymas
+(toliau – skirstymas) – gamtinių dujų transportavimas
+skirstomuoju dujotiekiu siekiant pristatyti jas gamtinių dujų vartotojams,
+išskyrus tiekimą.
+29. Gamtinių
+dujų skirstymo sistema (toliau – skirstymo sistema) – žemo
+slėgio vamzdynai gamtinėms dujoms iš magistralinio dujotiekio gamtinių dujų
+skirstymo stočių pristatyti iki gamtinių dujų vartotojo sistemų, taip pat
+statiniai, įrenginiai ir priemonės šiems vamzdynams veikti. Gamtinių dujų
+skirstymo sistema taip pat vadinama skirstomuoju dujotiekiu.
+30. Gamtinių
+dujų skirstymo sistemos operatorius (toliau – skirstymo sistemos
+operatorius) – asmuo, kuris licencijoje nurodytoje teritorijoje verčiasi
+gamtinių dujų skirstymo veikla ir yra atsakingas už gamtinių dujų skirstymo
+sistemos eksploatavimą, techninės priežiūros užtikrinimą, prireikus – už jos
+plėtrą konkrečioje teritorijoje, sujungimą su kitomis sistemomis, taip pat už
+ilgalaikio sistemos pajėgumo užtikrinimą, pagrįstą gamtinių dujų skirstymo
+paklausa.
+31. Gamtinių
+dujų skystinimas
+(toliau – skystinimas) – gamtinių dujų vertimas skysčiu, taip pat
+suskystintų gamtinių dujų priėmimas, laikymas ir dujinimas.
+32. Gamtinių
+dujų tiekimas
+(toliau – tiekimas) – gamtinių dujų pardavimas ir (ar)
+perpardavimas gamtinių dujų vartotojams ir jų tiekimas į gamtinių dujų sistemą.
+33. Gamtinių
+dujų tiekimo įmonė (toliau
+– tiekimo įmonė) – asmuo, kuris verčiasi gamtinių dujų tiekimo
+veikla.
+34. Gamtinių
+dujų tiekimo rinkos dalis – asmens ar susijusių asmenų grupės perkamo ar
+parduodamo gamtinių dujų kiekio procentinis santykis su bendru perkamu ar
+parduodamu gamtinių dujų kiekiu atitinkamoje rinkoje.
+35. Gamtinių
+dujų tiekimo saugumas (toliau – tiekimo saugumas) – gamtinių dujų
+tiekimo patikimumas ir techninis saugumas.
+36. Gamtinių
+dujų tiekimo sutartis (toliau – tiekimo sutartis) –
+sutartis dėl gamtinių dujų tiekimo, išskyrus sutartis dėl gamtinių dujų rinkos
+finansinių priemonių.
+37. Gamtinių
+dujų tranzitas – gamtinių dujų, kilusių iš trečiosios valstybės ir skirtų
+tai ir (ar) kitai trečiajai valstybei, transportavimas per Lietuvos Respublikos
+teritoriją.
+38. Gamtinių
+dujų vartotojas
+(toliau – vartotojas) – asmuo, perkantis gamtines dujas.
+39. Garantinis
+gamtinių dujų tiekimas (toliau – garantinis tiekimas) –
+vartotojams užtikrinamas gamtinių dujų tiekimas, teikiant viešuosiuos interesus
+atitinkančias paslaugas. 
+40. Horizontaliai
+integruota gamtinių dujų įmonė – įmonė ar įmonių grupė, kuri verčiasi bent
+viena iš šių veiklos rūšių – gamtinių dujų gavybos, perdavimo, skirstymo,
+tiekimo ar laikymo – ir kartu verčiasi kuria nors kita, su gamtinėmis dujomis
+nesusijusia veikla.
+41. Įmonės
+kontrolė – teisės, susitarimai ar kitos priemonės, kurios kiekviena
+atskirai ar visos kartu, atsižvelgiant į atitinkamas faktines ir (ar) teisines
+aplinkybes, suteikia galimybę daryti lemiamą poveikį įmonei, visų pirma
+naudojantis:
+1) nuosavybės
+teise arba teise naudotis visu įmonės turtu ar jo dalimi;
+2) teisėmis
+arba susitarimais, turinčiais lemiamą įtaką sudarant įmonės valdymo organus,
+balsuojant arba priimant sprendimus.
+42. Integruota
+gamtinių dujų įmonė – vertikaliai ar horizontaliai integruota
+įmonė ar įmonių grupė.
+43. Įsipareigojimo
+mokėti už nepaimtą gamtinių dujų kiekį sutartis – gamtinių dujų tiekimo
+(pirkimo–pardavimo) sutartis, kurios viena pagrindinių sąlygų yra
+įsipareigojimas mokėti už numatytas pirkti, bet nepaimtas gamtines dujas. Įsipareigojimo
+mokėti už nepaimtą gamtinių dujų kiekį sutartis dar vadinama sutartimi „imk
+arba mokėk“.
+44. Jungiamasis
+gamtinių dujų vamzdynas (toliau – jungiamasis vamzdynas)
+– valstybių narių sienas kertantis ar tarp valstybių narių nutiestas
+gamtinių dujų perdavimo vamzdynas, kurio paskirtis – sujungti tų valstybių
+narių nacionalines gamtinių dujų perdavimo sistemas.
+45. Jungtinė
+gamtinių dujų sistema (toliau – jungtinė sistema)
+– keletas viena su kita sujungtų gamtinių dujų sistemų, neįskaitant vartotojų
 sistemų.
-14. Laikymas
-– dujų sandėliavimas ir laikymas gamtinių dujų saugykloje.
-15. Laikymo
-sistemos operatorius – dujų įmonė, kuri verčiasi dujų laikymo veikla ir yra
-atsakinga už gamtinių dujų saugyklos eksploatavimą.
-16. Laisvieji
-vartotojai – vartotojai, turintys teisę pirkti dujas iš jų pasirinktos
-tiekimo įmonės.
-17. Nauja
-dujofikuojama teritorija – šalies teritorija, kurioje nėra įrengtų sistemų
-ir nustatyta tvarka nėra išduota licencija verstis joje dujų perdavimo ar
-skirstymo veikla.
-18. Nebuitiniai
-vartotojai – vartotojai, perkantys dujas naudoti nebuitinėms reikmėms.
-19. Nepriklausomas tiekimas
-– dujų tiekimas laisviesiems vartotojams.
-20. Paskirtasis
-tiekimas – dujų tiekimas vykdant viešuosius interesus atitinkančius
-įpareigojimus. Paskirtasis tiekimas gali būti vykdomas buitiniams vartotojams.
-21. Paslaugos
-– dujų įmonių teikiamos paslaugos sistemos naudotojams ir vartotojams: dujų
-perdavimas, skirstymas, skystinimas, tiekimas, laikymas, vartotojų sistemų
-prijungimas, balansavimas ar kitos su dujomis susijusios paslaugos.
-22. Perdavimas
-– dujų transportavimas tinklu, kurį daugiausia sudaro aukšto slėgio vamzdynai,
-išskyrus gavybos proceso vamzdynų tinklą ir aukšto slėgio vamzdynų dalį,
-daugiausiai naudojamą gamtinių dujų vietiniam paskirstymui, siekiant pristatyti
-jas vartotojams, išskyrus tiekimą.
-23. Perdavimo
-sistema (magistralinis dujotiekis) – aukšto slėgio vamzdynai dujoms
-iš verslovių, SGD sistemų perduoti į gamtinių dujų saugyklas, skirstomuosius
-dujotiekius arba į dujas naudojančius įrenginius iki dujų skirstymo stočių
-imtinai, taip pat statiniai, įrenginiai ir priemonės šiems
-vamzdynams veikti.
-24. Perdavimo
-sistemos operatorius – dujų įmonė, kuri licencijoje nurodytoje teritorijoje
-verčiasi perdavimo veikla ir yra atsakinga už perdavimo sistemos eksploatavimą,
-o kai reikia, – ir už jos plėtrą bei už tai, kad būtų užtikrintos sistemos
-ilgalaikės galimybės patenkinti pagrįstus dujų transportavimo poreikius.
-25. Saugumas
-– dujų tiekimo patikimumas ir techninė sauga.
-26. SGD
-sistema (suskystintų gamtinių dujų įrenginiai) – terminalas
-gamtinėms dujoms skystinti arba suskystintoms dujoms importuoti, priimti,
-laikyti ir vėl jas dujinti, tarp jų papildomos paslaugos ir laikinosios
-saugyklos, būtinos dujinimo ir vėlesnio pateikimo į perdavimo sistemą procesui
-vykti, tačiau išskyrus bet kurią SGD terminalų dalį, naudojamą dujoms laikyti.
-27. SGD
-sistemos operatorius – dujų įmonė, kuri verčiasi dujų skystinimu arba
-suskystintų gamtinių dujų importu, priėmimu, laikymu bei kartotiniu jų dujinimu
-ir yra atsakinga už suskystintų gamtinių dujų įrenginių eksploatavimą.
-28. Sistema
-– dujų įmonei nuosavybės teise priklausantys ir (ar) dujų įmonės valdomi
-magistraliniai dujotiekiai, skirstomieji dujotiekiai, suskystintų gamtinių dujų
-įrenginiai ir (arba) gamtinių dujų saugyklos, tarp jų ir susijusių įmonių
-įrenginiai, kurie reikalingi suteikiant teisę naudotis perdavimu, skirstymu ir
-suskystintų gamtinių dujų sistema.
-29. Sistemos
-naudotojai – asmenys, tiekiantys dujas sistemai arba kuriems jos tiekiamos
-iš sistemos ir sudarę sutartis su sistemos operatoriumi.
-30. Skirstymas
-– dujų transportavimas skirstomuoju dujotiekiu, išskyrus tiekimą.
-31. Skirstymo
-sistema (skirstomasis dujotiekis) – žemo slėgio vamzdynai dujoms iš
-magistralinio dujotiekio dujų skirstymo stočių pristatyti iki vartotojo
-sistemų, taip pat statiniai, įrenginiai ir priemonės šiems vamzdynams veikti.
-32. Skirstymo
-sistemos operatorius – dujų įmonė, kuri licencijoje nurodytoje teritorijoje
-verčiasi skirstymo veikla ir yra atsakinga už skirstymo sistemos eksploatavimą,
-o kai reikia, – ir už jos plėtrą bei už tai, kad būtų užtikrintos sistemos
-ilgalaikės galimybės patenkinti pagrįstus dujų skirstymo poreikius.
-33. Skystinimas
-– gamtinių dujų skystinimas. Šiame įstatyme skystinimui priskiriamas ir
-suskystintų dujų priėmimas, laikymas bei dujinimas.
-34. Susijusios
-įmonės – kiekviena įmonė, kurią su dujų įmone sieja bendri dalyviai
-(dalyvavimas), kontrolė (kai turima 20 procentų ar daugiau akcijų arba
-balsavimo teisė, tačiau neįskaitant dukterinės įmonės) ar vadovai, nesvarbu,
-kokia jos teisinė forma, taip pat įmonės, priklausančios tiems patiems
-akcininkams.
-35. Sutartis
-„imk arba mokėk“ – dujų tiekimo (pirkimo–pardavimo) sutartis, kurios viena
-pagrindinių sąlygų yra įsipareigojimas mokėti už numatytas pirkti, bet
-nepaimtas dujas.
-36. Tiekimas
-– dujų pardavimas ir (ar) perpardavimas vartotojams bei jų patiekimas į
-sistemą.
-37. Tiekimo
-įmonė – dujų įmonė, kuri verčiasi dujų tiekimo veikla.
-38. Tiesioginis
-vamzdynas – dujų vamzdynas, papildantis jungtinę sistemą.
-39. Vadovaujantys
-darbuotojai – juridinio asmens valdymo organų nariai, vadovai, turintys
-teisę priimti sprendimus, duoti nurodymus ar pavedimus kitiems darbuotojams,
-kurių darbo pobūdis tiesiogiai susijęs su bent viena iš šių dujų įmonės
-vykdomos veiklos rūšių: dujų gavyba, perdavimu, skirstymu, skystinimu, tiekimu
-ir laikymu.
-40. Vartotojas
-– asmuo, perkantis dujas vartojimo tikslams.
-41. Vartotojo
-sistema – vartotojo žemės sklype ar nekilnojamame daikte įrengti vamzdynai
-ir įrenginiai dujoms iš magistralinio ar skirstomojo dujotiekio priimti ir
-saugiai panaudoti vartotojo reikmėms.
-42. Vertikaliosios
-integracijos įmonė – dujų įmonė ar grupė šių įmonių, kurių tarpusavio
-santykiai atitinka 1989 m. gruodžio 21 d. Tarybos reglamento (EEB) Nr. 4064/89
-dėl koncentracijų tarp įmonių kontrolės 3 straipsnio 3 dalyje pateiktą apibrėžimą,
-kai ta įmonė (grupė) atlieka bent vieną iš perdavimo, skirstymo, skystinimo ar
-laikymo funkcijų ir bent vieną iš gamtinių dujų gavybos ar tiekimo funkcijų.
-43. Vietinė
-bendrojo naudojimo sistema – asmeniui (asmenims) nuosavybės teise
-priklausanti arba jo (jų) valdoma ribotoje teritorijoje įrengta skirstymo
-sistemos dalis, kuria dujos tiekiamos ne mažiau kaip dviem vartotojams.
-44. Asmens
-sąvoka suprantama taip, kaip ji apibrėžta Lietuvos Respublikos energetikos
-įstatyme (toliau – Energetikos įstatymas). Kitos šiame įstatyme vartojamos
-sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame
-kodekse, Energetikos įstatyme ir kituose įstatymuose.
-Straipsnio pakeitimai:
-Nr. XI-1220,
-2010-12-14, Žin., 2010, Nr. 153-7789 (2010-12-28)
+46. Nebuitinis
+gamtinių dujų vartotojas (toliau – nebuitinis
+vartotojas) – vartotojas, perkantis gamtines dujas naudoti ne savo namų
+ūkio reikmėms.
+47. Nedujofikuota
+teritorija – šalies teritorija, kurioje nėra įrengtų sistemų ir nė vienai
+gamtinių dujų įmonei nustatyta tvarka nėra išduota licencija verstis gamtinių
+dujų perdavimo ar skirstymo veikla.
+48. Papildomos
+paslaugos – paslaugos, būtinos
+naudojantis perdavimo sistema, skirstymo sistema, suskystintų gamtinių dujų
+saugyklomis ir (arba) įrenginiais (išskyrus įrenginius, skirtus vien tik
+perdavimo sistemos operatoriams, atliekantiems savo funkcijas) ir juos
+eksploatuojant, įskaitant apkrovos balansavimo, maišymo ir inertinių dujų
+įleidimo paslaugas.
+49. Susijusi
+įmonė – bet kokios teisinės formos įmonė, kurią su gamtinių dujų įmone
+sieja bendri dalyviai (dalyvavimas), kontrolė (kai turima 20 procentų ar
+daugiau akcijų arba balsavimo teisė, arba teisė skirti valdymo organų narius)
+ar vadovai, taip pat įmonė, priklausanti tiems patiems akcininkams.
+50. Suskystintų
+gamtinių dujų sistema – terminalas gamtinėms dujoms skystinti,
+suskystintoms gamtinėms dujoms importuoti, priimti ir vėl joms dujinti, taip
+pat papildomoms paslaugoms teikti, įskaitant laikinąsias saugyklas, būtinas
+dujinimo ir vėlesnio pateikimo į perdavimo sistemą procesui vykti, tačiau
+išskyrus bet kurią suskystintų gamtinių dujų terminalų dalį, naudojamą
+gamtinėms dujoms laikyti. Suskystintų gamtinių dujų sistema (toliau
+– SGD sistema) dar vadinama suskystintų gamtinių dujų įrenginiais
+(toliau – SGD įrenginiai).
+51. Suskystintų
+gamtinių dujų sistemos operatorius – asmuo, kuris verčiasi gamtinių dujų
+skystinimu arba suskystintų gamtinių dujų importu, priėmimu ir kartotiniu jų
+dujinimu ir yra atsakingas už suskystintų gamtinių dujų įrenginių
+eksploatavimą.
+52. Tiesioginis
+gamtinių dujų vamzdynas (toliau – tiesioginis vamzdynas) –
+gamtinių dujų vamzdynas, papildantis jungtinę gamtinių dujų sistemą.
+53. Vartotojo
+gamtinių dujų sistema (toliau – vartotojo sistema) –
+vartotojo žemės sklype ar nekilnojamajame daikte įrengti vamzdynai ir
+įrenginiai gamtinėms dujoms iš magistralinio ar skirstomojo dujotiekio priimti
+ir saugiai panaudoti vartotojo reikmėms.
+54. Vertikaliai
+integruota gamtinių dujų įmonė (toliau – vertikaliai integruota
+įmonė) – gamtinių dujų įmonė ar jų grupė, kai tas pats asmuo ar tie patys
+asmenys turi teisę tiesiogiai arba netiesiogiai vykdyti gamtinių dujų įmonės ar
+jų grupės kontrolę ir kai gamtinių dujų įmonė ar jų grupė atlieka bent vieną iš
+gamtinių dujų perdavimo, skirstymo, laikymo ar skystinimo sistemos funkcijų ir
+bent vieną iš gamtinių dujų gavybos ar tiekimo funkcijų.
+55. Vietinė
+gamtinių dujų bendrojo naudojimo sistema (toliau –
+vietinė bendrojo naudojimo sistema) – asmeniui (asmenims) nuosavybės teise
+priklausanti arba jo (jų) valdoma ribotoje teritorijoje įrengta gamtinių dujų skirstymo
+sistemos dalis, kuria gamtinės dujos tiekiamos ne mažiau kaip dviem
+vartotojams.
+56. Kitos šiame įstatyme vartojamos sąvokos
+suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos energetikos įstatyme
+(toliau – Energetikos įstatymas) ir kituose teisės aktuose.
  
-ANTRASIS SKIRSNIS
-DUJŲ SEKTORIAUS
-VEIKLOS ORGANIZAVIMO BENDROSIOS TAISYKLĖS
+ANTRASIS
+SKIRSNIS
+GAMTINIŲ DUJŲ
+SEKTORIAUS KONTROLĖ, PRIEŽIŪRA IR REGULIAVIMAS
  
-4
-straipsnis. Dujų sektoriaus veiklos organizavimo bendrieji principai
-1. Vadovaudamosi
-šio įstatymo reikalavimais, dujų įmonės savo veikla turi siekti sukurti
-konkurencingą, saugią, subalansuotą dujų rinką ir nediskriminuoti kitų dujų
-įmonių bei vartotojų, atsižvelgdamos į jų teises ir pareigas.
-2. Dujų įmonės turi veikti
-efektyviai ir ekonomiškai, užtikrinti tiekimo patikimumą, reguliarumą, kokybę,
-vartotojų apsaugą ir aplinkosaugos reikalavimus.
+3
+straipsnis. Gamtinių dujų sektoriaus veiklos reguliavimo principai
+Gamtinių dujų
+sektoriaus veiklos valstybinis valdymas, reguliavimas, priežiūra ir kontrolė
+grindžiami šiais principais:
+1) gamtinių dujų
+tiekimo ir gamtinių dujų sistemos darbo saugumo ir patikimumo;
+2) gamtinių dujų
+vartojimo efektyvumo didinimo;
+3) neigiamo
+gamtinių dujų sektoriaus poveikio aplinkai mažinimo ir darnios sektoriaus
+plėtotės, įgyvendinant valstybės aplinkos apsaugos, ekonominės ir socialinės
+politikos tikslus;
+4) konkurencijos
+tarp gamtinių dujų rinkos dalyvių;
+5) gamtinių dujų
+prieinamumo ir pakankamumo vartotojams už ekonomiškai pagrįstą kainą ir
+pažeidžiamų vartotojų grupių teisių ir teisėtų interesų apsaugos;
+6)
+nediskriminavimo, skaidrumo ir teisinio tikrumo.
  
-5
-straipsnis. Viešuosius interesus atitinkantys įpareigojimai
-1. Vadovaudamasi
-bendrais ekonominiais interesais, Vyriausybė ar jos įgaliota institucija turi
-teisę paskirti dujų įmonėms viešuosius interesus atitinkančius įpareigojimus,
-susijusius su saugumu, įskaitant dujų pristatymo saugumą, reguliarumą, kokybę
-ir kainą, su aplinkos apsauga, įskaitant efektyvų energijos vartojimą, ir
-nustatyti šių įpareigojimų sąrašą, jų vykdymo ir finansavimo taisykles. Šių įpareigojimų
-įgyvendinimas finansuojamas iš lėšų, gautų už dujų perdavimą, skirstymą,
-laikymą ir (ar) tiekimą. Šiems įpareigojimams finansuoti gali būti naudojamos
-valstybės biudžeto ir kitos lėšos. Vyriausybė ar jos įgaliota institucija
-teikia informaciją Europos Komisijai apie dujų įmonėms paskirtus viešuosius
-interesus atitinkančius įpareigojimus. Šie įpareigojimai turi būti aiškiai
-apibrėžti, skaidrūs, nediskriminuojantys, patikrinami.
-2. Vyriausybė arba jos įgaliota institucija
-turi teisę priimti sprendimus dėl magistralinio dujotiekio, gamtinių dujų
-saugyklos ir SGD įrenginių, reikalingų saugumui užtikrinti, įrengimo ar
-išplėtimo. Dujų įmonės ir Valstybinė kainų ir energetikos kontrolės komisija
-(toliau – Komisija) tokius sprendimus privalo įgyvendinti.
+4 straipsnis. Gamtinių
+dujų sektoriaus veiklos valdymo institucijos
+1. Lietuvos
+Respublikos Vyriausybė (toliau – Vyriausybė) ar jos įgaliota institucija,
+įgyvendindama šį įstatymą ir laikydamasi šio įstatymo reikalavimų, formuoja ir
+įgyvendina valstybės politiką gamtinių dujų sektoriuje, taip pat organizuoja,
+koordinuoja ir kontroliuoja, kaip įgyvendinama valstybės politika gamtinių dujų
+sektoriuje, nustato veiklos rūšių Lietuvos Respublikos gamtinių dujų sektoriuje
+teisinius pagrindus ir sąlygas, taip pat prižiūri ir kontroliuoja tokią veiklą.
+2. Valstybinė
+kainų ir energetikos kontrolės komisija (toliau – Komisija) atlieka veiklos
+rūšių Lietuvos Respublikos gamtinių dujų sektoriuje valstybinio reguliavimo
+funkcijas ir užtikrina reguliuojamos veiklos vykdymo bei gamtinių dujų
+sektoriaus dalyvių ir vartotojų teisių bei pareigų tinkamo įgyvendinimo
+priežiūrą ir kontrolę. Komisijos funkcijos, uždaviniai, teisės ir pareigos
+gamtinių dujų sektoriuje ir finansavimo šaltiniai nustatomi Energetikos, šiame
+ir kituose įstatymuose, taip pat Komisijos nuostatuose.
+3. Valstybinė
+vartotojų teisių apsaugos tarnyba, įgyvendindama valstybės politiką vartotojų
+teisių apsaugos srityje, nagrinėja buitinių vartotojų skundus dėl gamtinių dujų
+pirkimo–pardavimo ar paslaugų teikimo sutarčių nesąžiningų sąlygų taikymo, taip
+pat buitinių vartotojų skundus ir ginčus dėl gamtinių dujų tiekimo įmonių
+nesąžiningos komercinės veiklos.
  
-6 straipsnis. Dujų įmonių,
-vartotojų ir sistemos naudotojų santykiai bei sudaromos sutartys
-1. Dujų įmonių
-santykiai su vartotojais ir sistemos naudotojais grindžiami sutartimis. Dujų
-įmonių sutartys su buitiniais vartotojais yra viešosios.
-2. Sutartyse nurodoma: dujų
-įmonės pavadinimas, teisinė forma, buveinė, kodas, dujų kiekis, kokybė, kaina,
-tiekimo tvarka, dujų tiekimo ribojimo ar nutraukimo sąlygos, informacijos apie
-dujų, teikiamų paslaugų kainas pateikimo tvarka, paslaugų teikimo sąlygos,
-šalių įsipareigojimai, atsakomybė, atsiskaitymo tvarka, sutarties terminas,
-pakeitimo bei nutraukimo sąlygos, ginčų nagrinėjimo tvarka. Dujų įmonės apie
-sutarčių sąlygas informuoja sistemos naudotojus ir vartotojus iš anksto, ne
-vėliau kaip prieš vieną mėnesį iki sutarčių sudarymo ar sutarčių sąlygų
-pakeitimo. Viešosios sutartys su buitiniais vartotojais turi būti sudaromos
-pagal abiem šalims privalomas standartines sąlygas.
-3. Vyriausybė ar jos įgaliota
-institucija, suderinusi su Valstybine vartotojų teisių apsaugos tarnyba,
-tvirtina dujų pirkimo–pardavimo sutarčių su buitiniais vartotojais standartines
-sąlygas.
-4. Draudžiama perduoti,
-skirstyti, tiekti ir vartoti dujas be sutarties arba nesilaikant sutarties
-sąlygų. Vartotojas ar sistemos naudotojas, neteisėtai vartojantis gamtines
-dujas, privalo atlyginti dujų įmonei padarytus nuostolius (žalą).
-Straipsnio pakeitimai:
-Nr. XI-353,
-2009-07-17, Žin., 2009, Nr. 91-3913 (2009-07-31)
+5 straipsnis. Vyriausybės ar jos įgaliotos
+institucijos funkcijos gamtinių dujų sektoriuje
+Vyriausybė
+ar jos įgaliota institucija gamtinių dujų sektoriuje:
+1)
+formuoja ir įgyvendina valstybės gamtinių dujų politiką;
+2)
+suderinusi su Valstybine vartotojų teisių apsaugos tarnyba, nustato sutarčių su
+buitiniais vartotojais dėl gamtinių dujų tiekimo, perdavimo ir skirstymo bei
+naujų buitinių vartotojų gamtinių dujų įrenginių prijungimo standartines
+sąlygas, kurios yra privalomos abiem sutarčių šalims;
+3)
+nustato perdavimo ir skirstymo sistemos, gamtinių dujų saugyklos, SGD įrenginių
+įrengimo, plėtros, eksploatavimo, priežiūros ir apsaugos reikalavimus;
+4)
+tvirtina gamtinių dujų įmonių veiklos licencijavimo taisykles; 
+5) tvirtina naudojimosi vietine bendrojo naudojimo
+sistema taisykles;
+6) nustato
+leidimų gamtinių dujų įrenginiams statyti, naujoms perdavimo ar skirstymo
+sistemoms nedujofikuotoje teritorijoje ir tiesioginiams vamzdynams įrengti
+išdavimo tvarką; 
+7)
+tvirtina techninius saugos kriterijus ir nediskriminacines technines taisykles,
+užtikrinančias sistemų sąveiką ir nustatančias būtiniausius techninės
+konstrukcijos ir eksploatavimo reikalavimus, taikomus prijungiant prie sistemos
+SGD įrenginius, saugyklas, kitas perdavimo ar skirstymo sistemas ir
+tiesioginius vamzdynus;
+8)
+priima sprendimą dėl gamtinių dujų tiekimo patikimumą užtikrinančių priemonių
+taikymo;
+9)
+nustato perdavimo, skirstymo ir SGD sistemų operatorių, tiekimo įmonių ir
+saugyklų metinių veiklos ir saugumo užtikrinimo ataskaitų turinį;
+10)
+pagal Komisijos atliktą ilgalaikės trukmės išlaidų ir naudos rinkai
+ekonominį vertinimą sprendžia dėl pažangių matavimo sistemų, kuriomis būtų
+padedama vartotojams aktyviai dalyvauti gamtinių dujų tiekimo rinkoje, įdiegimo
+darbotvarkės; 
+11)
+tvirtina Prekybos gamtinėmis dujomis taisykles;
+12)
+nustato gamtinių dujų atsargų kaupimo ir panaudojimo buitiniams vartotojams ir nebuitiniams vartotojams, kurie per metus
+suvartoja iki 20 000 kubinių metrų gamtinių dujų, tvarką;
+13) nustato
+proporcingas laikinąsias priemones, taikytinas staiga įvykus gamtinių dujų ar
+visos energetikos rinkos krizei ar iškilus grėsmei asmenų, gamtinių dujų
+įrenginių arba gamtinių dujų sistemos vientisumo saugumui;
+14)
+nustato pažeidžiamų gamtinių dujų vartotojų ir jų grupių sąrašą;
+15) atlieka
+kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
  
-7 straipsnis.
-Vartotojų apsauga
-1. Dujų įmonės
-turi užtikrinti saugų dujų perdavimą, laikymą, skirstymą ir tiekimą
-vartotojams. Dujų įmonės, perduodamos, laikydamos, skirstydamos ir tiekdamos
-dujas vartotojams, privalo laikytis nustatytų kainų, nurodytų šio įstatymo 23
-straipsnio 1 ir 2 dalyse.
-2. Vartotojai turi teisę
-reikalauti iš dujų įmonių kompensacijų, jeigu dujų įmonė neužtikrina dujų ir
-teikiamų paslaugų kokybės reikalavimų.
-3. Dujų įmonės informuoja
-vartotojus apie efektyvų dujų vartojimą, dujų įmonės teikiamas paslaugas,
-paslaugų teikimo sąlygas, dujų ir paslaugų kainas, prijungimo prie sistemų
-kainas bei sąlygas ir numatomus sutarčių sąlygų pakeitimus. Dujų įmonės ne
-vėliau kaip prieš vieną mėnesį iki sutarčių sąlygų ir kainų numatomų
-pasikeitimų tiesiogiai (raštu ar kitais būdais) informuoja vartotojus. Dujų
-įmonių informacija apie reguliuojamos veiklos sąnaudas, sistemų eksploatavimą,
-modernizavimą, plėtrą, investicijas į sistemos plėtrą, kainų ir tarifų
-struktūrą, paslaugų teikimo sąlygas yra vieša.
-4. Dujų įmonės privalo pasiūlyti
-vartotojams du ar daugiau atsiskaitymo būdų. Atsiskaitymo būdą pasirenka
-vartotojas.
-5. Vartotojai turi teisę:
-1) laisvai pasirinkti tiekimo
-įmonę. Buitiniai vartotojai turi teisę laisvai ir neatlygintinai pasirinkti
-tiekimo įmonę nuo 2007 m. liepos 1 d.;
-2) gauti iš dujų įmonių šią
-informaciją: dujų įmonės pavadinimas, buveinės adresas, kodas ir teisinė forma;
-teikiamos paslaugos ir jų teikimo sąlygos; dujų, paslaugų kainos ir pranešimų
-apie kainas pateikimo būdai; sutarčių terminai, jų sudarymo ir nutraukimo
-sąlygos; kompensacijų teikimo sąlygos; ginčų nagrinėjimo būdai;
-3) nutraukti sutartis, jei
-keičiamos sutarčių sąlygos ir jos vartotojams yra nepriimtinos. Buitiniai
-vartotojai turi teisę nutraukti sutartis vienašališkai ir neatlygintinai
-Civilinio kodekso 6.390 straipsnio 1 dalyje nustatytomis sąlygomis;
-4) gauti iš dujų įmonių
-pasiūlymus dėl atsiskaitymo būdų ir pasirinkti atsiskaitymo būdą.
-6. Dujų įmonė
-gali apriboti ar nutraukti dujų perdavimą, skirstymą ar tiekimą:
-1) kai
-nustatoma, kad vartotojo sistema kelia grėsmę žmonių gyvybei, sveikatai ar
-turtui;
-2) jeigu
-vartotojas ar sistemos naudotojas neapmoka nustatytu laiku už patiektas dujas
-ar suteiktas paslaugas;
-3) avarijos,
-ekstremalios energetikos padėties atvejais;
-4) dėl būtinų remonto ir kitų vartotojų sistemų
-prijungimo darbų, įspėjusi vartotojus sutartyse nustatyta tvarka;
-5) kai nutraukiamas ar apribojamas dujų tiekimas į
-Lietuvos Respublikos teritoriją.
-7. Vyriausybė ar jos įgaliota
-institucija nustato dujų įmonių teikiamų paslaugų kokybės reikalavimus ir turi
-teisę nustatyti vartotojų teisių apsaugos priemonių įgyvendinimo taisykles.
-Straipsnio pakeitimai:
-Nr. XI-353,
-2009-07-17, Žin., 2009, Nr. 91-3913 (2009-07-31)
+6
+straipsnis. Komisijos tikslai gamtinių dujų sektoriuje
+Komisija
+savo veikloje, prireikus bendradarbiaudama su Lietuvos Respublikos
+konkurencijos taryba ir kitomis institucijomis bei įstaigomis, atlikdama savo
+funkcijas ir pareigas, siekia, kad būtų: 
+1)
+sukurta ir plėtojama konkurencinga, saugi ir aplinką tausojanti Lietuvos
+Respublikos ir Europos Sąjungos gamtinių dujų rinka;
+2)
+užtikrinta, kad Lietuvos Respublikos rinka būtų veiksmingai atverta visiems
+Europos Sąjungos gamtinių dujų vartotojams ir tiekėjams ir būtų panaikinti
+prekybos gamtinėmis dujomis tarp Lietuvos Respublikos ir kitų Europos Sąjungos
+valstybių narių apribojimai; 
+3)
+užtikrintos tinkamos veiksmingo ir patikimo gamtinių dujų tinklų veikimo
+sąlygos;
+4)
+skatinama į vartotojus orientuotų, saugių, patikimų ir veiksmingų nediskriminacinių
+sistemų plėtra; 
+5)
+skatinamas sistemos pakankamumas, energijos vartojimo efektyvumas ir gamtinių
+dujų gavybos bei gavybos iš atsinaujinančių energijos išteklių integravimas;
+6)
+sudarytos palankesnės sąlygos naujų gamtinių dujų gavybos pajėgumų prieigai
+prie sistemos;
+7)
+skatinami aukšti viešųjų paslaugų teikimo gamtinių dujų sektoriuje standartai
+ir prisidedama prie pažeidžiamų vartotojų apsaugos.
+ 
+7
+straipsnis. Komisijos funkcijos ir pareigos gamtinių dujų
+sektoriuje
+1.
+Komisija gamtinių dujų sektoriuje, be kitų šiame įstatyme, Energetikos ir
+kituose Lietuvos Respublikos įstatymuose nustatytų funkcijų, prižiūri:
+1)
+kaip laikomasi sistemų operatorių licencijuojamos veiklos sąlygų;
+2)
+gamtinių dujų įmonių reguliuojamos veiklos sąnaudas;
+3) kad
+sistemų operatorių skelbiama informacija apie sąlygas, suteikiančias teisę
+suinteresuotosioms šalims naudotis sistemomis, jungiamaisiais vamzdynais ir
+gamtinių dujų saugyklomis, būtų išsami ir tinkamai pateikta;
+4) kaip
+suteikiamos teisės naudotis sistemomis; 
+5) apskaitų
+atskyrimą, siekiant išvengti veiklų kryžminio subsidijavimo;
+6) kaip
+laikomasi jungiamųjų vamzdynų valdymo ir jų pajėgumų skirstymo taisyklių; 
+7)
+kaip laikomasi gamtinių dujų tiekimo patikimumo ir paslaugų kokybės
+reikalavimų; 
+8)
+gamtinių dujų įmonių veiklos skaidrumą ir konkurenciją;
+9)
+kaip įgyvendinamos nacionalinės gamtinių dujų perdavimo tinklų perkrovos
+valdymo taisyklės; 
+10)
+kaip laikomasi gamtinių dujų sistemų saugumo ir patikimumo taisyklių; 
+11)
+kaip dujų įmonės užtikrina prieigą vartotojams prie duomenų apie jų suvartojamą
+gamtinių dujų kiekį ir kaip sukuria lengvai suprantamos formos duomenų sistemą;
+12)
+kaip įgyvendinamos Vyriausybės ar jos įgaliotos institucijos nustatytos
+laikinosios priemonės, taikomos staiga įvykus gamtinių dujų ar visos
+energetikos rinkos krizei ar iškilus grėsmei asmenų, gamtinių dujų įrenginių
+arba gamtinių dujų sistemos vientisumo saugumui; 
+13)
+kad nebūtų perdavimo, skirstymo, laikymo, skystinimo ir tiekimo veiklos
+kryžminio subsidijavimo.
+2.
+Komisija, įgyvendindama jai pavestas funkcijas, turi pareigą:
+1)
+vadovaudamasi skaidrumo kriterijais, poreikiu didinti energijos vartojimo
+efektyvumą, tiekimo saugumą, integruoti rinką, nustatyti ar patvirtinti
+perdavimo, skirstymo, laikymo ir skystinimo
+paslaugų kainų viršutines ribas, jų skaičiavimo metodikas ir nustatyti
+ar patvirtinti konkrečias sistemos balansavimo ir buitinių vartotojų prijungimo
+prie tinklo paslaugų kainas; 
+2)
+patvirtinti prekybos gamtinėmis dujomis priežiūros taisykles;
+3)
+tarpvalstybiniais klausimais bendradarbiauti su atitinkamų valstybių narių
+reguliavimo institucijomis ir Energetikos reguliavimo institucijų
+bendradarbiavimo agentūra (toliau – Agentūra);
+4)
+laikytis visų teisiškai privalomų Europos Komisijos ir Agentūros
+sprendimų;
+5)
+kiekvienais metais teikti savo veiklos ir pareigų vykdymo ataskaitą,
+informaciją apie nustatytas laikinąsias priemones įvykus energetikos krizei
+Europos Komisijai, Agentūrai ir atitinkamoms valstybių narių institucijoms; 
+6)
+nustatyti metodikas, pagal kurias apskaičiuojamos ar nustatomos sąlygos,
+susijusios su prijungimu ir prieiga prie perdavimo ir skirstymo sistemų,
+saugyklų ir SGD įrenginių, balansavimo paslaugų teikimu, prieiga prie
+tarpvalstybinių perdavimo jungčių; 
+7) nustatyti
+gamtinių dujų įmonių paslaugų kokybės, įskaitant patikimumo, rodiklius ir jų
+įvertinimo tvarką;
+8)
+nustatyti gamtinių dujų įmonių technologinio, finansinio ir vadybinio pajėgumo
+rodiklius ir jų įvertinimo tvarką;
+9)
+prižiūrėti buitiniams vartotojams taikomas kainas, išankstinio mokėjimo
+sistemas, tiekimo įmonę pakeitusių vartotojų ar nuo
+tinklo atjungtų vartotojų procentinę dalį, mokėjimus už priežiūros paslaugas ir
+jų vykdymą; 
+10)
+užtikrinti sutarties laisvės principo įgyvendinimą nutraukiamoms Europos
+Sąjungos ir Lietuvos Respublikos teisę atitinkančioms tiekimo sutartims;
+11)
+stebėti, per kiek laiko perdavimo ir skirstymo sistemos operatoriai sujungia
+vamzdynus ir atlieka remonto darbus, kaip
+suteikiama teisė naudotis saugyklomis, gamtinių dujų laikymo vamzdynuose ir
+kitomis papildomomis paslaugomis;
+12)
+imtis veiksmingų vartotojų apsaugos priemonių, prižiūrėti, kaip jos vykdomos; 
+13) reguliariai
+atlikti gamtinių dujų tiekimo rinkos tyrimus ir taip užtikrinti, kad būtų
+išvengta piktnaudžiavimo didele įtaka gamtinių dujų rinkoje atvejų, skelbti
+išvadas dėl gamtinių dujų kainų ir jas
+pateikti konkurencijos priežiūros institucijoms;
+14)
+nustatyti gamtinių dujų įmonių apskaitos atskyrimo standartines taisykles ir su apskaitos atskyrimu susijusius
+reikalavimus;
+15) patvirtinti
+balansavimo taisykles, jeigu sistemų operatorių parengti taisyklių projektai
+neatitinka šio įstatymo ir kitų teisės aktų reikalavimų;
+16) patvirtinti
+Lietuvos Respublikos gamtinių dujų perdavimo tinklo sujungimo su Europos
+Sąjungos gamtinių dujų tinklu projekto sąnaudų įtraukimo į perdavimo tinklo
+paslaugų teikimo sąnaudas metodiką;
+17) stebėti
+gamtinių dujų tranzito per Lietuvos Respublikos teritoriją srautus ir teikti
+metines ataskaitas Vyriausybei;
+18) įvykdyti
+Europos Komisijos įpareigojimą panaikinti Komisijos sprendimą,
+prieštaraujantį Europos Sąjungos kompetentingų institucijų priimtoms gairėms
+gamtinių dujų sektoriuje per du mėnesius nuo atitinkamo Europos Komisijos
+sprendimo priėmimo dienos;
+19)
+šio įstatymo, kitų Lietuvos Respublikos teisės aktų, Europos Sąjungos teisės
+reikalavimų ir Komisijos ar kompetentingos Europos Sąjungos institucijos
+nurodymų nevykdančioms gamtinių dujų įmonėms skirti šiame įstatyme, Energetikos
+įstatyme ir kituose teisės aktuose nustatytas veiksmingas, proporcingas ir
+atgrasančias sankcijas ir inicijuoti atsakingų asmenų patraukimą
+administracinėn ar baudžiamojon atsakomybėn. 
  
 8
-straipsnis. Ilgalaikis planavimas, sistemų plėtra ir naujų vartotojų
-prijungimas
-1.
-Vadovaudamiesi Nacionalinės energetikos strategijos nuostatomis, perdavimo,
-skirstymo, laikymo ir SGD sistemos operatoriai rengia metinius bei ilgalaikius,
-ne mažiau kaip 3 metams, perdavimo, skirstymo, SGD sistemų, gamtinių dujų
-saugyklų plėtojimo planus, atsižvelgdami į tiekimo patikimumo, reguliarumo,
-kokybės, vartotojų apsaugos ir aplinkosaugos reikalavimus. Dujų įmonės metinius
-sistemų plėtros planus su konkrečiu objektų sąrašu turi suderinti su Komisija.
-2. Įrengti ar
-plėtoti perdavimo, skirstymo sistemas operatoriaus licencijoje nurodytoje
-teritorijoje turi teisę tik licencijos turėtojas.
-3. Naujas
-perdavimo ar skirstymo sistemas naujoje dujofikuojamoje teritorijoje turi teisę
-įrengti juridiniai asmenys, įgiję šią teisę konkurso būdu. Sistemų operatoriai, prie kurių sistemų prijungiamos
-naujos dujų skirstymo sistemos, privalo prijungti šias sistemas. Sprendimą
-leisti įrengti naujas sistemas priima Komisija. Komisijos sprendimas leisti
-įrengti naujas perdavimo ar skirstymo sistemas yra privaloma sąlyga išduodant
-leidimą statyti šiuos objektus Statybos įstatymo nustatyta tvarka. Vyriausybė
-arba jos įgaliota institucija tvirtina naujų sistemų naujoje dujofikuojamoje
-teritorijoje įrengimo tvarkos taisykles.
-4. Perdavimo ar
-skirstymo sistemų operatoriai licencijoje nurodytoje teritorijoje privalo
-prijungti naujų vartotojų sistemas prie savo sistemų pagal Vyriausybės ar jos
-įgaliotos institucijos nustatytas taisykles. 
-5. Komisija
-parengia ir patvirtina prijungimo įkainių nustatymo metodiką. Komisija tvirtina
-naujų buitinių vartotojų sistemų prijungimo įkainius. Perdavimo ar skirstymo
-sistemų operatoriai turi teisę dalyvauti rengiant prijungimo įkainių nustatymo
-metodiką.
-6. Dujų įmonė
-padengia ekonomiškai pagrįstas sistemos plėtros ir naujų vartotojų prijungimo
-išlaidas. Nauji vartotojai padengia išlaidas, kurios viršija ekonomiškai
-pagrįstas naujų vartotojų prijungimo išlaidas. 
-7. Naujų vartotojų prijungimo prie esamų dujų sistemų išlaidos
-negali būti pripažintos pagrįstomis, jeigu dėl jų padidėtų kainos esamiems dujų
-vartotojams. Dujofikuojamoms naujoms teritorijoms gali būti nustatyta tokia
-dujų perdavimo ir skirstymo kaina, kuri padengtų investicijas.
-8. Dujų įmonės
-turi teisę tiekti laisviesiems vartotojams dujas tiesioginiu vamzdynu.
-Laisvieji vartotojai turi teisę gauti dujas iš dujų įmonių tiesioginiu
-vamzdynu, kai dujų įmonė atsisako suteikti teisę naudotis dujų sistema šio
-įstatymo 19 straipsnio 4 dalyje nustatytais atvejais. Dujų įmonei atsisakius
-suteikti teisę naudotis dujų sistema šio įstatymo 19 straipsnio 4 dalyje
-nustatytais atvejais, ginčą sprendžia Komisija. Sprendimą dėl tiesioginio
-vamzdyno įrengimo ir sąlygų priima Komisija. Komisijos priimti sprendimai dėl
-tiesioginių vamzdynų įrengimo yra privalomi vykdyti abiem šalims, jie turi būti
-pagrįsti, objektyvūs, skaidrūs ir nediskriminuojantys kitų vartotojų. Leidimai
-tiesioginiam vamzdynui įrengti neišduodami, jeigu nepanaudojami visi esami
-pajėgumai.
+straipsnis. Komisijos teisės ir įgaliojimai gamtinių dujų
+sektoriuje
+Komisija,
+siekdama šio įstatymo tikslų ir atlikdama šiame įstatyme jai nustatytas funkcijas,
+turi teisę:
+1) priimti
+gamtinių dujų įmonėms privalomus vykdyti sprendimus; 
+2) susipažinti
+su gamtinių dujų įmonių sudaromomis sutartimis, susijusiomis su reguliuojamomis
+veiklomis, ir pareikalauti, kad gamtinių dujų įmonės patikslintų tokias sutartis,
+kad šios atitiktų šio įstatymo ir kitų teisės aktų nustatytus reikalavimus.
+Jeigu gamtinių dujų įmonė neįvykdo šio reikalavimo, Komisija, gindama viešąjį
+interesą, turi teisę kreiptis į teismą dėl sutarties pakeitimo;
+3) reikalauti
+iš gamtinių dujų įmonių informacijos, kuri reikalinga šiame įstatyme
+nustatytoms Komisijos funkcijoms atlikti, ir nustatyti gamtinių dujų įmonių jai
+teikiamos informacijos ir teikiamų derinti dokumentų pateikimo protingus
+terminus;
+4) prašyti
+Agentūros pateikti nuomonę dėl Komisijos priimto sprendimo atitikties
+Europos Sąjungos kompetentingų institucijų priimtoms gairėms gamtinių dujų
+sektoriuje ir pranešti Europos Komisijai apie šioms gairėms
+prieštaraujantį kitos valstybės narės gamtinių dujų sektoriaus reguliavimo
+institucijos sprendimą.
  
-9
-straipsnis. Sistemų suderinamumas 
-1. Perdavimo ir
-skirstymo sistemos, gamtinių dujų saugyklos, SGD įrenginiai turi atitikti
-įrengimo, eksploatavimo reikalavimus, kad būtų užtikrintas sistemų, saugyklų,
-įrenginių suderinamumas ir saugi veikla. Turi būti užtikrintas perdavimo,
-skirstymo ir laikymo sistemų dispečerinis valdymas.
-2. Vyriausybė ar
-jos įgaliotos institucijos priima šio straipsnio 1 dalyje nurodytus
-reikalavimus nustatančius teisės aktus. Vyriausybė ar jos įgaliotos
-institucijos teikia informaciją Europos Komisijai apie taisykles,
-reglamentuojančias prisijungimą prie sistemų.
+TREČIASIS
+SKIRSNIS
+GAMTINIŲ
+DUJŲ SEKTORIAUS TAISYKLĖS
+ 
+9 straipsnis. Kainų reguliavimas
+1. Gamtinių dujų sektoriuje Komisija, nustatydama viršutines
+paslaugų kainų ribas, reguliuoja perdavimo, skirstymo, skystinimo, laikymo ir garantinio
+tiekimo paslaugų kainas.
+2. Gamtinių dujų sektoriuje Komisija, nustatydama konkrečias
+paslaugų kainas, reguliuoja gamtinių dujų sistemos balansavimo ir buitinių
+vartotojų prijungimo prie gamtinių dujų sistemos paslaugų kainas.
+3. Komisija rengia ir tvirtina šio straipsnio 1 ir 2 dalyse
+nurodytų paslaugų kainų nustatymo metodikas. 
+4. Komisija, nustatydama šio straipsnio 1 ir 2 dalyse nurodytas
+reguliuojamas kainas: 
+1) nustato reikalavimus gamtinių dujų įmonėms teikti paslaugas
+kainomis, pagrįstomis sąnaudomis, įskaitant protingumo kriterijų atitinkančią
+investicijų grąžą, ir turi teisę pareikalauti, kad gamtinių dujų įmonės įrodytų
+kainų pagrindimą sąnaudomis. Komisija turi teisę nustatyti privalomą protingumo
+kriterijų atitinkantį terminą šioms sąnaudoms pagrįsti. Jeigu per šį terminą
+asmuo neįrodo sąnaudų pagrįstumo, laikoma, kad asmens sąnaudos yra nepagrįstos;
+2) nustato reikalavimus sąnaudų apskaitos sistemoms, metodams ir
+(arba) modeliams, skirtiems konkrečioms paslaugų rūšims teikti. Tokią apskaitos
+sistemą, metodą ir (arba) modelį Komisija privalo paskelbti viešai savo interneto svetainėje;
+3) nustato sąnaudų padengimo mechanizmą, kuris turi skatinti
+efektyvumą ir, kiek įmanoma, padidinti ilgalaikę naudą vartotojams. Tuo tikslu
+Komisija turi atsižvelgti į kainų rodiklius, taikomus palyginamose
+rinkose.
+5. Nustatant šio straipsnio 1 ir 2 dalyse nurodytas reguliuojamas
+viršutines paslaugų kainų ribas ar konkrečias paslaugų kainas, turi būti
+numatytos būtinos investicijos, užtikrinančios efektyvią gamtinių dujų įmonės
+veiklą.
+6. Gamtinių
+dujų tiekimo kaina yra reguliuojama, kai Komisijos pagal šio įstatymo
+11 straipsnį atliekamo rinkos tyrimo metu yra nustatoma, kad dėl
+veiksmingos konkurencijos trūkumo asmuo taiko pernelyg dideles kainas, tai yra
+palyginamosios analizės metodu įvertintas vidutines kainas, viršijančias
+gamtinių dujų ir gamtinių dujų tiekimo paslaugos kainas, arba naudoja kainų
+spaudimą, tuo darydamas žalą rinkos dalyviams. 
+7. Komisija, pagal šio straipsnio 6 dalį reguliuodama gamtinių dujų
+tiekimo kainas, turi teisę dujų įmonei taikyti šio straipsnio 4 dalyje
+nurodytas priemones. 
+8. Kol asmuo per Komisijos nurodytą protingą terminą įgyvendina
+šio straipsnio 4 dalyje nustatytus reikalavimus, Komisija turi teisę
+nustatyti laikiną tiekimo kainos viršutinę ribą, atsižvelgdama į tiesioginiais
+ir netiesioginiais sąnaudų vertinimo metodais gautus duomenis apie atitinkamas
+sąnaudas. Nustatydama laikiną tiekimo kainos viršutinę ribą, Komisija lygina
+atitinkamų paslaugų kainų rodiklius, atsižvelgdama į kitų valstybių narių,
+panašaus išsivystymo užsienio valstybių ir Lietuvos Respublikos praktiką.
+Komisija, nustatydama tiekimo kainos viršutinę ribą, be šioje dalyje išvardytų
+kriterijų, vertina atitinkamų didmeninių ir mažmeninių kainų santykį. 
+9. Komisija, motyvuotai nusprendusi, kad, net ir įgyvendinus šio
+straipsnio 4 dalyje nustatytus reikalavimus, veiksminga konkurencija
+gamtinių dujų tiekimo rinkoje nebus užtikrinta, didelę įtaką gamtinių dujų
+tiekimo rinkoje turinčiam asmeniui gali nustatyti pagrįstus ir proporcingus
+įpareigojimus, įskaitant įpareigojimą nesudaryti kliūčių kitiems rinkos
+dalyviams patekti į rinką ar neriboti konkurencijos nustatant nepagrįstas
+kainas, nedaryti geresnių sąlygų atskiriems vartotojams ar nepagrįstai neteikti
+paslaugų, taip pat įpareigojimus užtikrinti Komisijos nustatytą paslaugų
+kokybę. Komisija, siekdama apsaugoti vartotojų interesus ir skatinti veiksmingą
+konkurenciją, turi teisę didelę įtaką dujų tiekimo rinkoje turinčiam asmeniui
+taikyti individualias kainų kontrolės priemones ir įpareigojimus kainas grįsti
+sąnaudomis ar kainomis, nustatomomis palyginamose rinkose.
+10. Gamtinių dujų įmonės, vykdydamos Komisijos joms nustatytą šio
+straipsnio 4 dalies 2 punkte nurodytą reikalavimą, privalo Komisijos
+patvirtintomis sąlygomis, tvarka ir terminais parengti sąnaudų apskaitos
+sistemą, jos aprašymą pateikti Komisijai ir laikytis šios sąnaudų apskaitos
+sistemos. Sąnaudų apskaitos sistema ir jos skelbimo būdas turi atitikti
+Komisijos nustatytas sąnaudų apskaitos taisykles.
+11. Asmenys privalo atlikti auditą dėl tvarkomos apskaitos
+atitikties jų parengtai ir (ar) Komisijos patvirtintai sąnaudų apskaitos
+sistemai ir (ar) metodui, ir (ar) modeliui ir sąnaudų apskaitos taisyklėse ir
+kituose teisės aktuose nustatytiems reikalavimams. Audito išvada turi būti
+skelbiama kartą per metus pagal Komisijos nustatytas taisykles.
+12. Asmenų, kuriems taikomi šio straipsnio 4 dalyje nurodyti
+reikalavimai, Komisijai teikiami duomenys šių asmenų lėšomis turi būti
+patikrinti nepriklausomo audito.
+13. Gamtinių dujų įmonės viešai savo
+interneto svetainėse skelbia šio straipsnio 1
+dalyje nurodytas Komisijos patikrintas ir šio straipsnio 2 dalyje nurodytas Komisijos nustatytas
+kainas.
+14. Gamtinių dujų perdavimo ir skirstymo kainos nustatomos neatsižvelgiant
+į gamtinių dujų transportavimo atstumą. Vartotojams (sistemos naudotojams)
+gamtinių dujų skirstymo kainos nustatomos atsižvelgiant į tai, koks gamtinių
+dujų kiekis yra tiekiamas į gamtinių dujų pristatymo vietą per vienų metų
+laikotarpį. Buitiniams vartotojams perdavimo ir skirstymo sistemų balansavimo
+paslauga teikiama gamtinių dujų įmonės lėšomis. Nebuitiniams vartotojams
+gamtinių dujų perdavimo ir skirstymo kainos nustatomos ir diferencijuojamos
+pagal gamtinių dujų kiekį ir sistemos pajėgumus. Buitiniams vartotojams
+gamtinių dujų skirstymo kainos diferencijuojamos pagal suvartojamą gamtinių
+dujų kiekį. Gamtinių dujų kiekio ir sistemos pajėgumų diferencijavimo principai
+nustatomi kainų nustatymo metodikose. Siekiant išvengti kryžminio subsidijavimo
+tarp vartotojų grupių, reguliuojamos kainos ir jų diferencijavimo taisyklės
+skelbiamos viešai gamtinių dujų įmonių interneto
+svetainėse, o jų nustatymo principai privalo būti pagrįsti, objektyvūs,
+skaidrūs ir nediskriminuojantys.
+15. Reguliuojamų kainų viršutinės ribos nustatomos penkerių metų gamtinių dujų
+kainų reguliavimo periodui. Reguliuojamų kainų
+viršutinės ribos Komisijos sprendimu kartą per metus gali būti koreguojamos
+pasikeitus infliacijos lygiui, importuojamų (atgabenamų) gamtinių dujų kainoms,
+mokesčiams, gamtinių dujų kiekiui, gamtinių dujų įmonių veiklą
+reglamentuojančių teisės aktų reikalavimams, gamtinių dujų įmonėms atlikus su
+Komisija suderintas investicijas, gamtinių dujų įmonėms nukrypus nuo Komisijos
+patvirtintose kainų viršutinių ribų skaičiavimo metodikose nustatytų rodiklių. 
+16. Konkrečias perdavimo, skystinimo, laikymo, skirstymo kainas,
+neviršijančias nustatytų kainų viršutinių ribų, kiekvienais metais nustato
+gamtinių dujų įmonės. Komisija, patikrinusi ir nustačiusi, kad kainos ir (ar)
+buitiniams vartotojams nustatyti tarifai apskaičiuoti nesilaikant kainų ir (ar)
+tarifų nustatymo reikalavimų, nustatytų kainų viršutinių ribų skaičiavimo
+metodikose, kad jos diskriminuoja vartotojus ir (ar) yra klaidingos, gamtinių
+dujų įmonėms pateikia nurodymus dėl konkrečių kainų ir tarifų skaičiavimo.
+Gamtinių dujų įmonės kainas ir (ar) tarifus privalo pakoreguoti per 15 dienų.
+Jeigu gamtinių dujų įmonės nevykdo Komisijos reikalavimo, Komisija
+vienašališkai nustato konkrečias kainas ir (ar) tarifus.
+17. Gamtinių dujų įmonės buitiniams vartotojams tarifus nustato
+kas pusę metų. Buitiniams vartotojams nustatytą tarifą sudaro prognozuojamų
+gamtinių dujų (produkto), konkrečių perdavimo, skirstymo, laikymo, skystinimo,
+tiekimo kainų ir skirtumo tarp ankstesnio tarifų galiojimo laikotarpio
+prognozuotų ir faktinių gamtinių dujų (produkto) kainų suma. Gamtinių dujų
+įmonės konkrečius tarifus pateikia tvirtinti Komisijai, kuri šiuos tarifus
+tikrina ir priima sprendimus dėl jų šiame straipsnyje nustatyta tvarka.
  
 10
-straipsnis. Licencijos ir atestatai dujų
-sektoriuje
-1. Asmenys,
-siekiantys verstis dujų perdavimo, skystinimo, laikymo, skirstymo sistemų operatorių
-ar dujų tiekimo veikla, privalo gauti atitinkamos veiklos licenciją.
-2. Dujų
-sektoriuje licencijuojama ši veikla:
-1) perdavimo;
-2) skirstymo;
-3) laikymo;
-4) skystinimo;
-5) tiekimo.
-3. Gamtinių dujų
-perdavimo, skirstymo, laikymo, skystinimo ir tiekimo licencijavimo taisykles
-(toliau – Licencijavimo taisyklės) tvirtina Vyriausybė. Dujų įmonių
-technologinius, finansinius ir vadybinius pajėgumus ir jų įvertinimo tvarką
-nustato, licencijas išduoda, sustabdo jų galiojimą, panaikina galiojimo
-sustabdymą, panaikina jų galiojimą, keičia, tikslina, išduoda licencijų
-dublikatus ir licencijuojamą veiklą kontroliuoja Komisija. Komisija teikia
-informaciją Vyriausybei, savivaldybei, kurios teritorijoje dujų įmonė Komisijos
-prašo išduoti skirstymo licenciją, taip pat teikia informaciją Europos
-Komisijai apie atsisakymo išduoti licencijas priežastis.
-4. Asmenims,
-siekiantiems gauti licenciją verstis dujų sektoriuje licencijuojama veikla,
-licencijos išduodamos vadovaujantis veiklos saugumo, patikimumo ir nediskriminavimo
-principais neterminuotam laikui. 
-5. Perdavimo,
-skirstymo, laikymo ar skystinimo veiklos licencijos konkurso būdu išduodamos
-tik vienam asmeniui tam tikroje toje licencijoje nurodytoje teritorijoje,
-kurioje tos licencijos turėtojas turi išskirtines veiklos vykdymo teises. 
-6. Dujų
-perdavimo ar skirstymo licencija išduodama teritorijoje, apbrėžtoje pagal
-Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymą.
-Perdavimo licencijoje mažiausia teritorija yra apskritis, o skirstymo licencijoje
-– savivaldybė. Išduotose perdavimo, skirstymo licencijose nurodytų teritorijų
-ribas išimtiniais atvejais dujų įmonės prašymu gali pakeisti Komisija,
-suderinusi jas su atitinkamomis dujų įmonėmis.
-7. Licencijos
-išduodamos asmenims, turintiems pakankamus technologinius, finansinius ir
-vadybinius pajėgumus, leidžiančius tinkamai laikytis dujų sektoriaus
-licencijuojamos veiklos sąlygų. 
-8. Perdavimo,
-skirstymo, laikymo ar skystinimo veiklos licencijos išduodamos Lietuvos
-Respublikoje įsteigtam juridiniam asmeniui arba kitos valstybės narės juridinio
-asmens ar kitos organizacijos padaliniui, įsteigtam Lietuvos Respublikoje. Šis
-reikalavimas netaikomas tik asmenims, siekiantiems gauti licenciją verstis
-tiekimo veikla.
-9. Dujų įmonės,
-kurios verčiasi licencijuojama veikla, privalo turėti ne mažesnį kaip vieno
-milijono litų įstatinį kapitalą arba pateikti finansų įstaigos garantiją arba
-laidavimą, arba draudimo sutartį, kuriuose nurodyta suma turi būti ne mažesnė
-kaip vienas milijonas litų. Šis reikalavimas netaikomas tik dujų skirstymo
-vietinėse bendrojo naudojimo sistemose veiklai.
-10. Asmenys,
-eksploatuojantys dujų perdavimo, skirstymo tinklus, dujų laikymo įrenginius ar
-SGD sistemas, privalo turėti Energetikos įstatymo nustatyta tvarka išduotą
-atitinkamą atestatą eksploatuoti dujų įrenginius. 
-11. Perdavimo
-licencija išduodama asmeniui, atitinkančiam šio straipsnio 7–10 dalyse
-nustatytus reikalavimus ir nuosavybės teise turinčiam ar kitais teisėtais
-pagrindais valdančiam pagal teisės aktų reikalavimus įrengtą gamtinių dujų
-perdavimo sistemą. Gamtinių dujų perdavimo sistema turi būti sujungta su
-veikiančia gamtinių dujų perdavimo sistema arba su gamtinių dujų saugykla, arba
-su SGD sistema.
-12. Skirstymo
-licencija išduodama asmeniui, atitinkančiam šio straipsnio 7–10 dalyse
-nustatytus reikalavimus ir nuosavybės teise turinčiam ar kitais teisėtais
-pagrindais valdančiam pagal teisės aktų reikalavimus įrengtą gamtinių dujų
-skirstymo sistemą. Gamtinių dujų skirstymo sistema turi būti sujungta su
-veikiančia gamtinių dujų perdavimo arba su skirstymo sistema, leidžiančia
-užtikrinti gamtinių dujų pristatymą vartotojams.
-13. Laikymo
-licencija išduodama asmeniui, atitinkančiam šio straipsnio 7–10 dalyse
-nustatytus reikalavimus ir nuosavybės teise turinčiam ar kitais teisėtais
-pagrindais valdančiam pagal teisės aktų reikalavimus įrengtą gamtinių dujų
-saugyklą, kurios įrenginiai sujungti su veikiančia gamtinių dujų perdavimo
-sistema. 
-14. Skystinimo
-licencija išduodama asmeniui, atitinkančiam šio straipsnio 7–10 dalyse nustatytus
-reikalavimus ir nuosavybės teise turinčiam ar kitais teisėtais pagrindais
-valdančiam pagal teisės aktų reikalavimus įrengtą SGD sistemą, kuri yra
-sujungta su veikiančia gamtinių dujų perdavimo sistema.
-15. Tiekimo
-licencija išduodama asmeniui, atitinkančiam šio straipsnio 7 ir 9 dalyse
-nustatytus reikalavimus. 
-16.
-Transportuoti dujas gamtinių dujų perdavimo sistemoje Komisijos sprendimu
-paskiriamas vienas perdavimo sistemos operatorius. Perdavimo sistemos
-operatorius yra atsakingas už perdavimo sistemos darbo stabilumą ir patikimumą,
-balansavimo funkcijos atlikimą, sistemos eksploatavimą, priežiūrą, valdymą ir
-plėtrą, atsižvelgiant į perdavimo sistemos naudotojų poreikius Lietuvos
-Respublikos teritorijoje.
-17. Dujų įmonės,
-kurios verčiasi šio straipsnio 2 dalyje nurodytomis licencijuojamos veiklos
-rūšimis, neturi teisės įgalioti kitų dujų įmonių verstis licencijoje nurodyta
-veikla arba perduoti joms šią teisę pagal sutartį ir privalo laikytis šių
-licencijuojamos veiklos sąlygų:
-1) efektyviai ir
-ekonomiškai vykdyti licencijuojamą veiklą, užtikrinti dujų tiekimo patikimumą,
-reguliarumą, kokybę, vartotojų apsaugą ir aplinkos apsaugą, nediskriminuoti
-vartotojų, kitų dujų įmonių ir sistemų naudotojų, laikytis sąžiningos
-konkurencijos, veiklos viešumo ir informavimo principų;
-2) metams
-pasibaigus, atlikti nepriklausomą licencijuojamos veiklos sąnaudų auditą ir
-apie rezultatus informuoti Komisiją;
-3) Licencijavimo
-taisyklėse nustatyta tvarka teikti Komisijai ir Energetikos ministerijai
-informaciją, reikalingą įstatymų ir kitų teisės aktų nustatytoms pareigoms
-atlikti;
-4) teikti
-viešuosius įpareigojimus atitinkančias paslaugas;
-5) užtikrinti
-vienodas ir nediskriminacines sąlygas visiems gamtinių dujų vartotojams ir
-sistemų naudotojams;
-6) informuoti ir
-konsultuoti vartotojus teisės aktų nustatyta tvarka;
-7) užtikrinti,
-kad būtų laikomasi kitų šiame ir kituose įstatymuose, taip pat teisės aktuose
-nustatytų pareigų ir reikalavimų.
-18. Perdavimo ir
-(ar) skirstymo licencijos turėtojas, be šio straipsnio 17 dalyje nustatytų
-reikalavimų, privalo:
-1) eksploatuoti, prižiūrėti ir
-plėtoti perdavimo ir (ar) skirstymo sistemas taip, kad jos veiktų saugiai,
-patikimai ir efektyviai, kad būtų užtikrinta aplinkos apsauga ir garantuotos
-ilgalaikės galimybės tenkinti pagrįstus dujų transportavimo poreikius;
-2) užtikrinti perdavimo ar
-skirstymo sutartyse nustatyto dujų kiekio ir kokybės perdavimą ir (ar)
-skirstymą;
-3) nediskriminuoti sistemų
-naudotojų, ypač su operatoriumi susijusių įmonių naudai;
-4) teikti bet kuriam kitam
-sistemos operatoriui, sistemos naudotojui, vartotojui informaciją, kuri būtina
-norint saugiai ir efektyviai naudotis sistema, taip pat jungtine sistema;
-5) suderinęs su Komisija,
-patvirtinti Gamtinių dujų perdavimo ir (ar) skirstymo sistemų balansavimo
-taisykles. Šiose taisyklėse nustatytos sistemų balansavimo sąlygos turi būti
-objektyvios, skaidrios ir nediskriminacinės. Gamtinių dujų perdavimo ir (ar)
-skirstymo sistemų balansavimo taisyklių reikalavimai privalomi vartotojams ir
-sistemos naudotojams, išskyrus buitinius vartotojus. Šios taisyklės skelbiamos
-viešai;
-6) teisės aktų nustatyta tvarka
-prijungti kitų įmonių ar vartotojų sistemas, esančias licencijos turėtojo
-teritorijoje, prie perdavimo ar skirstymo sistemų;
-7) įrengti ir eksploatuoti dujų
-apskaitos sistemas;
-8) užtikrinti saugų, efektyvų ir
-aplinką tausojantį dujų skirstymą iki patiektų dujų apskaitos prietaiso vietos.
-Vadovaudamasis šiais principais, skirstymo licencijos turėtojas teisės aktų
-nustatyta tvarka užtikrina daugiabučių namų bendrojo naudojimo gamtinių dujų
-sistemų techninę priežiūrą;
-9) pagal sutartis tarp dujų
-skirstymo sistemos operatoriaus ir vietinės bendrojo naudojimo sistemos
-savininko (jų pageidavimu) vykdyti skirstymo sistemos operatoriaus funkciją
-vietinėse bendrojo naudojimo sistemose, kurios prijungtos prie skirstymo
-sistemos;
-10) bendradarbiauti su kitais
-sistemų operatoriais ir dujų įmonėmis;
-11) sudaryti sutartis su tiekimo
-įmonėmis, tiekiančiomis dujas buitiniams vartotojams, dėl dujų perdavimo ir
-skirstymo paslaugų teikimo;
-12) kiekvienais metais teikti
-Komisijai apibendrintą informaciją apie sudarytas dujų perdavimo ir (ar)
-skirstymo sutartis, o Komisijai pareikalavus – pateikti patvirtintas sudarytų
-dujų perdavimo ir (ar) skirstymo sutarčių kopijas;
-13) kiekvienais metais rengti
-metines veiklos ir saugumo užtikrinimo ataskaitas ir pateikti jas Komisijai bei
-Energetikos ministerijai. Sistemų operatorių metinių veiklos ir saugumo
-užtikrinimo ataskaitų turinį nustato Energetikos ministerija.
-19. Laikymo licencijos turėtojas,
-be šio straipsnio 17 dalyje nustatytų reikalavimų, privalo:
-1) eksploatuoti, prižiūrėti ir
-plėtoti gamtinių dujų saugyklą taip, kad ji veiktų saugiai, patikimai ir
-efektyviai, kad būtų užtikrinta aplinkos apsauga ir užtikrintas laikymo
-sutartyje nustatyto dujų kiekio ir kokybės dujų laikymas saugykloje, įskaitant
-jų perdavimą į perdavimo sistemą ar priėmimą iš perdavimo sistemos;
-2) įrengti ir eksploatuoti dujų
-apskaitos sistemas, tvarkyti saugomų dujų kiekių apskaitą;
-3) nediskriminuoti sistemos
-naudotojų, ypač su laikymo sistemos operatoriumi susijusių įmonių naudai;
-4) bendradarbiauti su kitais
-sistemų operatoriais ir dujų įmonėmis;
-5) teikti bet kuriam kitam
-sistemos operatoriui ar sistemos naudotojui informaciją, kuri būtina norint
-saugiai ir efektyviai naudotis gamtinių dujų saugykla;
-6) kiekvienais metais rengti
-metines veiklos ir saugumo užtikrinimo ataskaitas ir pateikti jas Komisijai bei
-Energetikos ministerijai. Sistemų operatorių metinių veiklos ir saugumo
-užtikrinimo ataskaitų turinį nustato Energetikos ministerija.
-20. Skystinimo licencijos
-turėtojas, be šio straipsnio 17 dalyje nustatytų reikalavimų, privalo:
-1) eksploatuoti, prižiūrėti ir
-plėtoti SGD sistemas taip, kad jos veiktų saugiai, patikimai ir efektyviai, kad
-būtų užtikrinta aplinkos apsauga ir užtikrintas sutartyje nustatyto dujų kiekio
-ir kokybės dujų skystinimas, jų priėmimas, laikymas ir pakartotinis dujinimas;
-2) įrengti ir eksploatuoti dujų
-apskaitos sistemas, tvarkyti suskystintųjų ar importuotų suskystintųjų dujų
-kiekio apskaitą;
-3) nediskriminuoti sistemos
-naudotojų, ypač su SGD sistemos operatoriumi susijusių įmonių naudai;
-4) bendradarbiauti su kitais
-sistemų operatoriais ir dujų įmonėmis;
-5) teikti bet kuriam kitam
-sistemos operatoriui ar sistemos naudotojui informaciją, kuri būtina norint
-saugiai ir efektyviai naudotis SGD sistema;
-6) kiekvienais metais rengti
-metines veiklos ir saugumo užtikrinimo ataskaitas ir pateikti jas Komisijai bei
-Energetikos ministerijai. Sistemų operatorių metinių veiklos ir saugumo
-užtikrinimo ataskaitų turinį nustato Energetikos ministerija.
-21. Dujas
-vartotojams tiekia tiekimo įmonės, turinčios tiekimo licenciją. 
-22. Tiekimo
-licencija suteikia teisę tiekimo įmonei tiekti dujas vartotojams ir dujų
-įmonėms.
-23. Tiekimo licencijos turėtojas,
-be šio straipsnio 17 dalyje nustatytų reikalavimų, privalo:
-1) užtikrinti
-kokybės reikalavimus atitinkančių dujų patiekimą į sistemą, dujų tiekimo
-reguliarumą ir privalo dalyvauti balansuojant dujų srautus;
-2) sudaręs dujų tiekimo
-(pirkimo–pardavimo) sutartis su buitiniais vartotojais, pirmiausia aprūpinti
-dujomis buitinius vartotojus;
-3) vykdyti paskirtąjį tiekimą
-buitiniams vartotojams ir vartotojams į tuos objektus, kurių energijos gamybos
-galia mažesnė kaip 5 MW ir kuriuose nėra kuro rezervinių atsargų. Vartotojas turi
-teisę pasirinkti kitą nei paskirtąjį tiekimą vykdančią tiekimo įmonę.
-Paskirtoji tiekimo įmonė privalo sudaryti sutartis su sistemų operatoriais dėl
-dujų transportavimo ir yra atsakinga už dujų patiekimą iki vartotojų sistemų;
-4) bendradarbiauti su sistemų
-operatoriais ir vykdyti jų nurodymus, siekdamas užtikrinti subalansuotą sistemų
-veikimą;
-5) teikti informaciją Komisijai
-ir Energetikos ministerijai apie pagrindines sudarytų dujų tiekimo (pirkimo–pardavimo)
-sutarčių sąlygas dujų tiekimo patikimumo stebėsenai atlikti;
-6) kiekvienais metais rengti
-metines veiklos ir saugumo užtikrinimo ataskaitas ir pateikti jas Komisijai bei
-Energetikos ministerijai. Tiekimo įmonių metinių veiklos ir saugumo užtikrinimo
-ataskaitų turinį nustato Energetikos ministerija.
-24. Asmuo, siekiantis gauti
-licenciją verstis dujų sektoriuje licencijuojama veikla, Licencijavimo
-taisyklėse nustatyta tvarka pateikia licenciją išduodančiai institucijai
-prašymą ir Licencijavimo taisyklėse nustatytus dokumentus.
-25. Licencija
-išduodama arba rašytinis motyvuotas atsisakymas išduoti licenciją pateikiamas
-pareiškėjui ne vėliau kaip per 30 kalendorinių dienų nuo Licencijavimo
-taisyklėse nustatyta tvarka pateiktų prašymo ir dokumentų gavimo licencijas
-išduodančioje institucijoje dienos. Jeigu į tinkamai
-pateiktą prašymą išduoti licenciją, panaikinti licencijos galiojimo sustabdymą
-arba panaikinti licencijos galiojimą neatsakoma per šioje dalyje nurodytą
-terminą, laikoma, kad yra priimtas teigiamas sprendimas, išskyrus atvejus, kai
-vyksta teisminiai ginčai su trečiaisiais asmenimis dėl licencijuojamos veiklos
-sąlygų (teritorijos) ar kitų priežasčių, pateisinamų svarbiais visuomenės
-interesais, ir pareiškėjas apie tai yra informuojamas Licencijavimo taisyklėse
-nustatyta tvarka.
-26. Už licencijuojamos
-veiklos sąlygų ir reikalavimų pažeidimus dujų įmonėms, turinčioms licencijas
-tam tikrai licencijuojamai veiklai, teisės aktų nustatyta tvarka licenciją
-išduodanti institucija gali skirti pinigines baudas arba įspėti apie galimą
-licencijų galiojimo sustabdymą ar panaikinimą.
-27. Licencijos
-galiojimas sustabdomas licenciją išduodančios institucijos sprendimu, kuriame
-nurodoma licencijuojamos veiklos sąlygų ir reikalavimų pažeidimai, licencijos
-galiojimo sustabdymo data ir terminas, per kurį dujų įmonė turėtų pašalinti
-nustatytus licencijuojamos veiklos sąlygų ir reikalavimų pažeidimus. Licencijos
-galiojimas sustabdomas, jeigu: 
-1) išdavus
-licenciją, paaiškėja, kad prašyme išduoti licenciją pateikti klaidingi duomenys
-ir po įspėjimo per licenciją išduodančios institucijos nustatytą terminą
-licenciją turinti dujų įmonė nepateikia patikslintų duomenų;
-2) licenciją
-turinti dujų įmonė daugiau kaip vieną kartą per metus pažeidžia veiklos, kuriai
-išduota licencija, sąlygas ir po įspėjimo per licenciją išduodančios
-institucijos nustatytą terminą nepašalina nurodytų pažeidimų;
-3) licenciją
-turinti dujų įmonė nebeatitinka
-šio straipsnio 7
-ir 9 dalių
-reikalavimų;
-4) licenciją
-turintis fizinis asmuo miršta. Šiuo atveju licencija naujam asmeniui išduodama
-tik tuo atveju, kai mirusio licencijos
-turėtojo įpėdinis,
-atitinkantis šio straipsnio 7 ir 9 dalių reikalavimus, atsisako
-įsigyti licenciją arba jos neįsigijo per 6 mėnesius nuo licencijos turėtojo
-mirties.
-28. Jeigu dujų įmonė nustatyta
-tvarka pateikia dokumentus, įrodančius, kad pažeidimai pašalinti, licenciją
-išduodančios institucijos sprendimu ne vėliau kaip per 30 kalendorinių dienų
-nuo dokumentų gavimo licencijas išduodančioje institucijoje dienos licencijos
-galiojimo sustabdymas panaikinamas. 
-29. Licencijos
-galiojimas panaikinamas licenciją išduodančios institucijos sprendimu, jeigu: 
-1) dujų įmonė,
-kurios licencijos galiojimas sustabdytas, per licenciją išduodančios
-institucijos nustatytą terminą nepašalina veiklos, kuriai išduota licencija,
-sąlygų pažeidimų, dėl kurių buvo sustabdytas licencijos galiojimas;
-2) dujų įmonė,
-kurios licencijos galiojimas sustabdytas, vykdo licencijoje nurodytą veiklą;
-3) dujų įmonė,
-kurios licencijos galiojimas jau buvo sustabdytas, pakartotinai per
-kalendorinius metus pažeidžia veiklos, kuriai išduota licencija, sąlygas;
-4) licenciją
-turinti dujų įmonė kreipėsi dėl licencijos galiojimo panaikinimo;
-5) licenciją
-turintis juridinis asmuo pasibaigė jį likvidavus ar reorganizavus; 
-6) licenciją
-turintis fizinis asmuo miršta.
-30. Išduotos
-licencijos gali būti keičiamos jas išdavusios institucijos iniciatyva,
-pasikeitus šiame įstatyme, Licencijavimo taisyklėse nurodytoms licencijuojamos
-veiklos sąlygoms, arba asmens, turinčio licenciją, iniciatyva, pasikeitus
-asmens rekvizitams ar teritorijai, kurioje vykdoma licencijuojama veikla.
-31. Už
-licencijos išdavimą, pakeitimą, patikslinimą ir licencijos dublikato išdavimą
-mokama teisės aktų nustatyto dydžio valstybės rinkliava.
-32. Valstybinės priežiūros
-institucijos įstatymų nustatyta tvarka pagal kompetenciją kontroliuoja
-licencijas ar atestatus turinčių dujų įmonių veiklą ir prižiūri, kaip jos
-laikosi licencijuojamos veiklos sąlygų. Valstybinės priežiūros institucijos
-privalo nedelsdamos raštu informuoti licenciją ar atestatą išdavusią instituciją
-apie dujų įmonėse nustatytus licencijuojamos veiklos sąlygų pažeidimus.
-33. Dujų įmonė,
-kuri numato nutraukti licencijuojamą veiklą, privalo ne vėliau kaip prieš
-6 mėnesius informuoti apie tai licenciją išdavusią instituciją.
-34. Jeigu sprendimas dėl licencijos
-galiojimo sustabdymo ar panaikinimo turi įtakos saugiam vartotojų aprūpinimui
-dujomis, jis gali įsigalioti ne anksčiau kaip po 2 mėnesių nuo sprendimo
-priėmimo. Apie tai, kad numatoma priimti tokį sprendimą, Komisija privalo
-informuoti Energetikos ministeriją ir Vyriausybę.
-35. Kai dujų
-įmonė nutraukia savo veiklą ir (ar) kyla grėsmė saugiam vartotojų aprūpinimui
-dujomis, Vyriausybė, siekdama užtikrinti saugumą ir patenkinti visuomenės
-poreikius, turi teisę priimti sprendimą nušalinti šių įmonių valdymo organus ir
-įmonėms valdyti laikinai paskirti savo atstovus arba sprendimą dėl tos dujų
-įmonės turto išpirkimo. Vyriausybės atstovai, atlikdami įmonėse jų valdybų ir
-administracijos vadovų funkcijas, vadovaujasi Lietuvos Respublikos įstatymais
-ir Vyriausybės suteiktais įgaliojimais.
-Straipsnio pakeitimai:
-Nr. XI-353,
-2009-07-17, Žin., 2009, Nr. 91-3913 (2009-07-31)
-Nr. XI-1220,
-2010-12-14, Žin., 2010, Nr. 153-7789 (2010-12-28)
+straipsnis. Konkurencijos priežiūra energetinių išteklių rinkoje
+1.
+Komisija prižiūri, kad būtų sudarytos sąlygos veiksmingai konkurencijai
+energetinių išteklių rinkoje ir sąlygos, užkertančios kelią asmenims
+piktnaudžiauti didele įtaka gamtinių dujų rinkoje.
+2.
+Konkurencijos priežiūrą energetinių išteklių rinkoje pagal Lietuvos Respublikos
+konkurencijos įstatymą atlieka Konkurencijos taryba.
  
 11
-straipsnis. Dujų tranzitas
-Dujos
-transportuojamos tranzitu ūkio subjektų tarpusavio susitarimu, pagal sutartis
-ir atsižvelgiant į esamų perdavimo sistemų pajėgumą bei prioritetinį šalies
-sistemos naudotojų poreikių tenkinimą. Pasinaudojimo perdavimo sistema dujoms
-transportuoti tranzitu tvarka nustatoma šio įstatymo 18 straipsnio 2 dalyje
-nurodytose taisyklėse.
- 
-TREČIASIS SKIRSNIS
-VEIKLOS RŪŠIŲ ATSKYRIMAS IR BENDROJO NAUDOJIMO
-SISTEMOS
-Skirsnio pavadinimas keistas:
-Nr. XI-1220,
-2010-12-14, Žin., 2010, Nr. 153-7789 (2010-12-28)
+straipsnis.
+Energetinių išteklių rinkos tyrimas
+1.
+Komisija, atlikdama šio įstatymo 10 straipsnio 1 dalyje nurodytas pareigas,
+atlieka rinkos tyrimus, kuriais siekiama užtikrinti veiksmingą konkurenciją
+gamtinių dujų sektoriuje ir užkirsti kelią didelę įtaką turintiems asmenims ja
+piktnaudžiauti.
+2.
+Komisija nustato rinkos tyrimo taisykles.
+3. Komisija
+atlieka rinkos tyrimą:
+1) valstybės
+ar savivaldybės institucijų motyvuotu prašymu;
+2) suinteresuotų
+asmenų motyvuotu prašymu;
+3) savo
+iniciatyva.
+4.
+Rinkos tyrimo procedūrą sudaro šie etapai:
+1)
+rinkos apibrėžimas (produkto ar paslaugos ir geografinės teritorijos
+apibrėžimas);
+2) konkurencijos
+rinkoje veiksmingumo tyrimas;
+3) asmenų,
+turinčių didelę įtaką rinkoje, nustatymas;
+4) šio
+įstatymo 9 straipsnio 4 dalyje nurodytų įpareigojimų nustatymas,
+pakeitimas ir (ar) panaikinimas didelę įtaką rinkoje turintiems asmenims.
+5. Rinkos
+tyrimas atliekamas Komisijos patvirtintose rinkos tyrimo taisyklėse nustatyta
+tvarka ir sąlygomis. Rinkos tyrimas pradedamas Komisijos sprendimu. Komisija
+turi teisę atlikti ne visą rinkos tyrimo procedūrą, bet tik atskiras jos dalis,
+jeigu motyvuotai ir pagrįstai mano, kad nepasikeitus ankstesnių tyrimų
+duomenims kitas dalis atlikti nėra tikslinga.
+6.
+Komisija, tirdama rinką, vadovaujasi Lietuvos Respublikos teisės aktais,
+Europos Sąjungos teise ir atsižvelgia į Europos Komisijos nuorodas ir
+rekomendacijas.
+7.
+Komisija rinkos tyrimo procedūrą atlieka per 4 mėnesius nuo sprendimo pradėti
+rinkos tyrimą priėmimo, neįskaitant šio įstatymo 17 straipsnyje numatytų
+konsultacijų dėl rinkos tyrimo trukmės. Motyvuotu Komisijos sprendimu šis
+terminas gali būti pratęstas, tačiau ne daugiau kaip 3 kartus, kiekvieną kartą
+pratęsiant ne ilgiau kaip 3 mėnesiams. Komisija siekia, kad rinkos tyrimas būtų
+atliktas per įmanomai trumpiausią laiką. Rinkos tyrimas baigiamas Komisijos
+sprendimu dėl rinkos tyrimo rezultatų. Sprendime išdėstomi visų atliktų rinkos
+tyrimo etapų rezultatai.
+8. Komisija,
+prieš priimdama sprendimą, kuriuo būtų apibrėžta atitinkama produktų ar
+paslaugų rinka arba nustatyti ar nenustatyti asmenys, turintys didelę įtaką
+atitinkamoje rinkoje, ar nustatyti, nenustatyti ar panaikinti šio įstatymo
+9 straipsnio 4 dalyje nurodyti įpareigojimai, privalo atlikti viešąją
+konsultaciją pagal šio įstatymo 17 straipsnį.
+9. Komisija,
+prieš priimdama galutinį sprendimą, įvertina viešųjų konsultacijų metu gautas
+pastabas ir nuomones ir savo interneto svetainėje viešai paskelbia jų
+suvestinę. Priimtą galutinį sprendimą Komisija pateikia Vyriausybės įgaliotai
+institucijai.
+10. Atitinkamų
+rinkų, kuriose nustatyti didelę įtaką turintys asmenys, sąrašą ir didelę įtaką
+šiose rinkose turinčių asmenų sąrašą bei jiems nustatytus įpareigojimus, taip
+pat bet kuriuos tokios informacijos pasikeitimus Komisija skelbia savo
+interneto svetainėje.
+11. Atlikdama
+rinkos tyrimą, spręsdama, ar asmuo turi didelę įtaką rinkoje, ir nustatydama
+įpareigojimus didelę įtaką rinkoje turintiems asmenims, Komisija atsižvelgia
+į tarptautinių sutarčių ir (ar) susitarimų nuostatas ir pagal kompetenciją
+užtikrina, kad šių sutarčių ir (ar) susitarimų būtų laikomasi ir jie būtų
+įgyvendinami Lietuvos Respublikoje.
+12.
+Komisija, atlikdama rinkos tyrimą, konsultuojasi su Konkurencijos taryba.
  
 12
-straipsnis. Veiklos rūšių atskyrimas
-1. Dujų įmonėse
-perdavimo, skystinimo, laikymo, skirstymo veiklos rūšys ir tiekimo veikla turi
-būti atskirtos. Atskiriama įsteigiant dukterinę ar atskirą įmonę.
-2. Integruotoji
-dujų įmonė, tiekianti dujas mažiau kaip 100 000 vartotojų, neprivalo atskirti
-veiklos rūšių ir įsteigti dukterinę ar atskirą įmonę.
-3. Perdavimą, skystinimą,
-laikymą, skirstymą leidžiama vykdyti vienoje dujų įmonėje. Kita, su dujomis
-nesusijusi, veikla turi būti atskiriama įsteigiant dukterinę ar atskirą įmonę.
-Kitą, su dujomis nesusijusią, veiklą ir tiekimo veiklą leidžiama vykdyti
-vienoje dujų įmonėje.
-4. Vadovaujantys
-perdavimo, laikymo, skirstymo ar skystinimo veiklai darbuotojai veikia
-savarankiškai ir negali dalyvauti integruotosios dujų įmonės valdyme.
-5. Sprendimus dėl turto, kuris
-reikalingas sistemai eksploatuoti, prižiūrėti ar plėtoti, panaudojimo priima
-perdavimo, laikymo, skirstymo ar SGD sistemos operatorius savarankiškai.
-Patronuojanti įmonė turi teisę sistemos operatoriams nustatyti metinį finansinį
-planą, metinę turto grąžos normą ir įskolos dydį. Šios nuostatos neturi
-prieštarauti Komisijos nustatytiems reguliuojamos dujų įmonių veiklos
-rodikliams. Patronuojanti įmonė negali duoti nurodymų sistemų operatoriams dėl
-sistemų operatorių veiklos bei sistemų valdymo. Perdavimo veiklai
-vykdyti priskiriamas perdavimo sistemos turtas.
+straipsnis.
+Didelė įtaka atitinkamoje gamtinių dujų tiekimo rinkoje
+1.
+Asmuo laikomas turinčiu didelę įtaką atitinkamoje gamtinių dujų tiekimo
+rinkoje arba atitinkamoje gamtinių dujų tiekimo rinkos dalyje, jeigu jis vienas
+ar kartu su kitais susijusiais asmenimis užima padėtį, prilygintiną
+dominuojančiai, tai yra tokią ekonominės galios padėtį, kuri suteikia jam galią
+elgtis nepriklausomai nuo konkurentų ir paslaugų gavėjų (vartotojų). 
+2.
+Kai asmuo, veikiantis gamtinių dujų sektoriuje, turi didelę įtaką vienoje
+gamtinių dujų tiekimo rinkoje arba gamtinių dujų tiekimo rinkos dalyje, jis
+gali būti laikomas turinčiu didelę įtaką susijusioje gamtinių dujų tiekimo
+rinkoje arba gamtinių dujų tiekimo rinkos dalyje, jeigu sąsajos tarp šių dviejų
+rinkų leidžia vienoje gamtinių dujų tiekimo rinkoje turimą įtaką panaudoti
+kitoje gamtinių dujų tiekimo rinkoje ir taip sustiprinti savo įtaką susijusioje
+gamtinių dujų tiekimo rinkoje.
+3.
+Asmuo, veikiantis gamtinių dujų sektoriuje, laikomas turinčiu didelę įtaką
+atitinkamoje gamtinių dujų tiekimo rinkoje arba atitinkamoje gamtinių dujų
+tiekimo rinkos dalyje, kai, atlikus rinkos tyrimą, tai nustatoma Komisijos
+sprendimu. Toks sprendimas galioja tol, kol kito gamtinių dujų tiekimo rinkos
+tyrimo metu Komisijos sprendimu nustatoma, kad šis asmuo didelės įtakos
+atitinkamoje gamtinių dujų tiekimo rinkoje arba gamtinių dujų tiekimo rinkos
+dalyje neturi.
  
-13 straipsnis. Neteko galios
-nuo 2011 m. sausio 1 d.
-Straipsnio pakeitimai:
-Nr.
-XI-136,
-2009-01-12, Žin., 2009, Nr. 10-358 (2009-01-27)
-Nr. XI-1220,
-2010-12-14, Žin., 2010, Nr. 153-7789 (2010-12-28)
+13
+straipsnis. Žemės naudojimas gamtinių dujų sistemos objektams
+1.
+Tuo atveju, jeigu siekiant plėtoti tinkamos kokybės ir patikimą gamtinių dujų
+sistemą dalis gamtinių dujų perdavimo ar skirstymo vamzdyno arba bet koks kitas
+įrenginys, būtinas gamtinėms dujoms perduoti ar skirstyti, turi būti įrengiamas
+gamtinių dujų sistemos operatoriui nuosavybės teise nepriklausančioje ar kitais
+pagrindais teisėtai nevaldomoje žemėje, operatoriai turi teisę tokias sistemas
+įrengti tik sudarę sutartis su žemės savininkais ar gavę žemės savininko sutikimą
+arba Lietuvos Respublikos įstatymų nustatyta tvarka nustačius žemės servitutą. 
+2.
+Nuostoliai, kuriuos dėl naujų gamtinių dujų sistemų įrengimo, servitutų
+nustatymo ir asmenų veiklos aptarnaujant šias sistemas patiria žemės savininkas
+ar jos naudotojas, turi būti atlyginti Lietuvos Respublikos įstatymų nustatyta
+tvarka.
+3.
+Apsaugos zonų atstumai, apsaugos zonose galiojančios specialios žemės ir miško
+naudojimo sąlygos, apsaugos zonose ribojami darbai ir veiksmai, mažiausi
+leistini atstumai nuo vamzdynų ir kitų įrenginių iki statinių, žemės ir vandens
+paviršiaus nustatomi Vyriausybės ar jos įgaliotos institucijos patvirtintose
+gamtinių dujų vamzdynų ir kitų įrenginių apsaugos taisyklėse ir kituose teisės
+aktuose.
  
-14
-straipsnis. Vietinė bendrojo naudojimo sistema
-1. Vietinė
-bendrojo naudojimo sistema yra skirstymo sistemos sudėtinė dalis ir jai taikomi
-tie patys reikalavimai kaip ir skirstymo sistemai, išskyrus šiame įstatyme
-nustatytas išimtis.
-2. Vietinės bendrojo naudojimo
-sistemos savininkas (savininkai) privalo leisti naudotis sistema, prijungti
-kitų vartotojų sistemas ir užtikrinti saugią bei efektyvią sistemos veiklą.
-Vyriausybė ar jos įgaliota institucija nustato naudojimosi vietine bendrojo
-naudojimo sistema taisykles, kurios turi būti skelbiamos viešai kiekvienais
-metais arba sąlygoms pasikeitus. Taisyklėse nustatytos naudojimosi vietine
-bendrojo naudojimosi sistema sąlygos turi būti objektyvios ir nediskriminacinės.
-3. Vietinės bendrojo naudojimo
-sistemos savininkas (savininkai) turi teisę šio įstatymo nustatyta tvarka pats
-vykdyti skirstymo veiklą arba privalo sudaryti sutartį su skirstymo licenciją
-turinčia dujų įmone.
-Straipsnio pakeitimai:
-Nr. XI-353,
-2009-07-17, Žin., 2009, Nr. 91-3913 (2009-07-31)
+14 straipsnis. Gamtinių dujų įmonių,
+vartotojų ir sistemos naudotojų sudaromos sutartys
+1.
+Gamtinių dujų įmonių santykiai su vartotojais ir sistemos naudotojais
+grindžiami sutartimis. Perdavimo ir skirstymo paslaugų sutartys ir su
+buitiniais vartotojais sudaromos gamtinių dujų tiekimo sutartys yra viešosios
+sutartys. Bendrosios sutarčių sąlygos turi būti sąžiningos ir skaidrios,
+aiškiai ir suprantamai apibrėžtos, jose neturi būti kliūčių, trukdančių
+vartotojui naudotis savo teisėmis. Gamtinių dujų įmonėms draudžiama taikyti
+vartotojams nesąžiningus ar klaidinančius pardavimo metodus.
+2.
+Gamtinių dujų įmonių sutartyse su vartotojais nurodoma: gamtinių dujų įmonės
+pavadinimas, adresas, kodas, gamtinių dujų kiekis, kokybė, kaina, tiekimo,
+transportavimo tvarka, gamtinių dujų tiekimo, perdavimo, skirstymo ribojimo ar
+nutraukimo sąlygos, informacijos apie gamtinių dujų, teikiamų paslaugų kainas
+pateikimo tvarka, paslaugų teikimo sąlygos, šalių įsipareigojimai, atsakomybė,
+atsiskaitymo tvarka, sutarties terminas, pakeitimo ir nutraukimo sąlygos, ginčų
+nagrinėjimo tvarka. 
+3.
+Vyriausybė ar jos įgaliota institucija, suderinusi su Valstybine vartotojų
+teisių apsaugos tarnyba, nustato sutarčių su buitiniais vartotojais dėl
+gamtinių dujų tiekimo, perdavimo, skirstymo ir naujų buitinių vartotojų
+gamtinių dujų įrenginių prijungimo standartines sąlygas, kurias gamtinių dujų
+įmonės paskelbia įmonių interneto svetainėse ne vėliau kaip prieš vieną mėnesį
+iki sutarčių sudarymo ar sutarčių sąlygų pakeitimo.
  
-15
-straipsnis. Informacijos konfidencialumas
-Sistemų
-operatoriai užtikrina veiklos metu gautos komerciniu atžvilgiu svarbios
-informacijos konfidencialumą. Draudžiama neleistinai naudotis komerciniu
-atžvilgiu svarbia informacija ir diskriminuoti informacijos gavėjus.
+15 straipsnis. Gamtinių dujų įmonių,
+vartotojų ir sistemos naudotojų santykiai
+1.
+Draudžiama perduoti, skirstyti, tiekti ir vartoti gamtines dujas be gamtinių
+dujų tiekimo sutarties arba nesilaikant sutarties sąlygų. 
+2.
+Vartotojas ar sistemos naudotojas, neteisėtai vartojantys gamtines dujas,
+privalo atlyginti gamtinių dujų įmonei padarytus nuostolius (žalą).
+3.
+Vartotojai ir sistemos naudotojai, kurie yra sudarę sutartis su perdavimo ir
+(ar) skirstymo sistemos operatoriumi, privalo laiku atsiskaityti už dujų
+transportavimo, perdavimo ir (ar) skirstymo sistema paslaugas. Sistemos
+naudotojai, pažeidę su perdavimo ir (ar) skirstymo sistemos operatoriumi
+sudarytą sutartį dėl atsiskaitymo už sistemos naudotojui suteiktas perdavimo
+arba skirstymo paslaugas, privalo perdavimo arba skirstymo sistemos
+operatoriaus reikalavimu pateikti visų savo prievolių, kurios atsiranda iš su
+perdavimo arba skirstymo sistemos operatoriumi sudarytų sutarčių, tinkamo
+įvykdymo užtikrinimą.
+4.
+Vartotojai turi teisę pakeisti gamtinių dujų tiekimo įmonę. Prie gamtinių dujų
+sistemos prisijungę vartotojai turi teisę pirkti gamtines dujas iš bet kurioje
+valstybėje narėje registruotų gamtinių dujų tiekimo įmonių, kurios turi
+galimybę patiekti dujas vartotojui ir laikosi Lietuvos Respublikoje nustatytų
+Prekybos gamtinėmis dujomis taisyklių, balansavimo taisyklių ir tiekimo saugumo
+reikalavimų. 
+5.
+Gamtinių dujų įmonės optimizuoja gamtinių dujų vartojimą, teikdamos energijos
+valdymo paslaugas, kurdamos naujoviškas kainodaros formules, taikydamos
+pažangias matavimo sistemas, diegdamos pažangiuosius tinklus ir Vyriausybės ar
+jos įgaliotos institucijos nustatyta tvarka atlikdamos kitus gamtinių dujų
+vartojimo ekonomiškumą skatinančius veiksmus.
  
 16
-straipsnis. Neteko
-galios nuo 2011 m. sausio 1 d.
-Straipsnio pakeitimai:
-Nr.
-XI-136,
-2009-01-12, Žin., 2009, Nr. 10-358 (2009-01-27)
-Nr. XI-1220,
-2010-12-14, Žin., 2010, Nr. 153-7789 (2010-12-28)
+straipsnis. Sistemų suderinamumas 
+Perdavimo
+ir skirstymo sistemos, gamtinių dujų saugyklos, SGD įrenginiai turi atitikti
+Vyriausybės ar jos įgaliotos institucijos nustatytus įrengimo, eksploatavimo
+reikalavimus, skirtus užtikrinti perdavimo ir skirstymo sistemų, gamtinių dujų
+saugyklų, SGD įrenginių suderinamumą ir saugią jų veiklą. Turi būti užtikrintas
+perdavimo, skirstymo ir laikymo sistemų dispečerinis valdymas.
  
-KETVIRTASIS SKIRSNIS
-APSKAITOS
-ATSKYRIMAS IR VIEŠUMAS
- 
-17
-straipsnis. Dujų įmonės buhalterinė apskaita
-1. Dujų įmonės
-tvarko kiekvienos veiklos – perdavimo, skystinimo, skirstymo, laikymo, tiekimo
-nebuitiniams ir buitiniams vartotojams – atskirą buhalterinę apskaitą. Komisija
-turi teisę įpareigoti dujų įmones tvarkyti atskirą buhalterinę apskaitą,
-susijusią su viešuosius interesus atitinkančių įpareigojimų vykdymu ir su
-paskirtojo tiekimo veikla. Dujų įmonės, suderinusios su Komisija, nustato
-apskaitų atskyrimo taisykles. Taisyklės turi numatyti turto, įsipareigojimų,
-išlaidų, pajamų ir amortizacijos paskirstymą. Komisija turi teisę
-nustatyti konkrečias rekomendacijas, kaip atskirti apskaitas.
-2. Dujų įmonė tvarko apskaitą,
-kuri gali apimti kitas dujų veiklos rūšis, nesusijusias su šio straipsnio 1
-dalyje nurodytomis veiklos rūšimis, taip pat su kita veikla, nesusijusia su
-dujų veikla.
-3. Atskirų veiklos rūšių
-buhalterinė apskaita tvarkoma taip, kaip ji turėtų būti tvarkoma, jei šių rūšių
-veikla verstųsi atskiros įmonės su joms priskirtu turtu. Tvarkant buhalterinę
-apskaitą, parengiamos kiekvienos veiklos rūšies buhalterinio balanso, pelno
-(nuostolio) ataskaitos. Dujų įmonės šias ataskaitas skelbia viešai.
-4. Valstybės institucijos,
-įstatymų nustatyta tvarka atlikdamos joms pavestas įmonių veiklos kontrolės
-funkcijas, turi teisę susipažinti su dujų įmonių buhalterinės apskaitos
-dokumentais, tačiau privalo saugoti dujų įmonės pateiktą konfidencialią
-informaciją.
-5. Dujų įmonių ataskaitos turi
-būti patikrintos nepriklausomo audito, atkreipiant dėmesį į diskriminavimo ir kryžminio
-subsidijavimo aspektus. Auditorių išvados teikiamos Komisijai. Metinėje dujų
-įmonės finansinėje atskaitomybėje turi būti pateikta informacija apie 1
-milijono litų ir didesnės apimties sandorius, sudarytus su susijusiomis
-įmonėmis.
- 
-PENKTASIS SKIRSNIS
-DUJŲ
-RINKA
+17 straipsnis.
+Viešasis konsultavimasis
+1. Komisija
+šio įstatymo ar jo įgyvendinamųjų teisės aktų pagrindu priimdama gamtinių dujų
+rinkoje veiklą reglamentuojančius teisės aktus, išskyrus teisės aktus, kuriais
+sprendžiamas ginčas, teisės aktų nustatyta tvarka ir sąlygomis viešai paskelbia
+šių teisės aktų projektus ir nustato protingumo kriterijų atitinkantį terminą
+suinteresuotiems asmenims pateikti pastabas.
+2. Komisija
+savo nustatyta tvarka ir sąlygomis viešai Komisijos interneto svetainėje
+paskelbia Komisijos sprendimų dėl klausimų, susijusių su visomis gamtinių dujų
+sektoriaus dalyvių teisėmis, ypač kai šių klausimų sprendimas turi reikšmingą
+poveikį gamtinių dujų rinkai, projektus ir suteikia gamtinių dujų sektoriaus
+dalyviams protingumo kriterijų atitinkantį terminą pastaboms pateikti.
+3. Komisija
+nustato konsultavimosi taisykles, apibrėžiančias konsultacijų atvejus, tvarką
+ir sąlygas. Informacija, susijusi su visomis tuo metu vykstančiomis konsultacijomis,
+skelbiama Komisijos interneto svetainėje. Komisija skelbia konsultacijų
+rezultatus, išskyrus informaciją, kuri yra valstybės, tarnybos ar komercinė
+paslaptis.
+4. Komisija,
+atlikdama šiame įstatyme ir kituose teisės aktuose jai nustatytas funkcijas,
+šio straipsnio 3 dalyje nurodytose konsultavimosi taisyklėse nustatyta tvarka
+ir sąlygomis konsultuojasi su sistemų operatoriais, nepažeisdama jų
+nepriklausomumo ir nedarydama įtakos jų kompetencijai, taip pat su kitomis
+kompetentingomis institucijomis, įstaigomis ir (ar) sistemų naudotojais.
  
 18
-straipsnis. Teisė naudotis sistema
-1. Sistemų
-operatoriai laisviesiems vartotojams, dujų įmonėms ir asmenims, gabenantiems
-dujas tranzitu, suteikia teisę pagal sutartis naudotis sistema.
-2. Sistemų operatoriai, suderinę
-su Komisija, nustato naudojimosi sistema taisykles. Naudojimosi sistema
-taisykles sistemų operatoriai turi skelbti „Valstybės žinių“ priede
-„Informaciniai pranešimai“ kiekvienais metais arba, sąlygoms pasikeitus, ne
-vėliau kaip prieš mėnesį iki jų taikymo pradžios. Teisė naudotis sistemomis
-turi būti suteikiama objektyviai, nediskriminuojant sistemos naudotojų.
-3. Vartotojai turi teisę sudaryti naudojimosi
-sistema sutartis dėl tokio dujų kiekio, kurį sunaudoja jie patys.
+straipsnis. Gamtinių dujų tranzitas
+1.
+Gamtinės dujos transportuojamos tranzitu asmenų tarpusavio susitarimu, pagal
+sutartis ir atsižvelgiant į esamų perdavimo sistemų pajėgumą bei prioritetinį
+šalies sistemos naudotojų poreikių tenkinimą. 
+2.
+Pasinaudojimo perdavimo sistema gamtinėms dujoms transportuoti tranzitu tvarka
+nustatoma šio įstatymo 49 straipsnio 3 dalyje nurodytose taisyklėse.
+3.
+Vyriausybė ar jos įgaliota institucija gali nustatyti Lietuvos Respublikos
+gamtinių dujų sektoriaus saugumui ir patikimumui užtikrinti būtinas priemones,
+susijusias su gamtinių dujų transportavimo tranzitu per Lietuvos Respubliką.
+Dujų tiekimo sutrikimo atveju tranzitu transportuojamų dujų kiekiai ribojami
+proporcingai šalies vartotojams ribojamiems dujų kiekiams. Dujų tiekimo
+nutraukimo atveju dujų transportavimas tranzitu nutraukiamas nedelsiant.
  
 19
-straipsnis. Atsisakymas suteikti teisę naudotis sistema
-1. Dujų įmonė gali neleisti
-naudotis sistema, jeigu trūksta pajėgumo arba jeigu teisė naudotis sistema
-trukdytų jai vykdyti viešuosius interesus atitinkančius įpareigojimus, ar
-atsiranda didelių ekonominių ir finansinių sunkumų, susijusių su sudarytų
-sutarčių „imk arba mokėk“ vykdymu. Atsisakymo leisti naudotis sistema
-priežastys turi būti tinkamai pagrindžiamos. Atsisakymas, grindžiamas sutarčių
-„imk arba mokėk“ vykdymu, gali būti pripažintas tik gavus Komisijos pritarimą.
-2. Dujų įmonė, atsisakiusi
-patenkinti kitos dujų įmonės ar laisvojo vartotojo raštu pateiktą prašymą
-naudotis sistema dujoms transportuoti, apie šį savo sprendimą ir jo priežastis
-per 10 darbo dienų praneša Komisijai. 
-3. Komisija turi teisę įpareigoti
-dujų įmonę suteikti teisę pasinaudoti sistema.
-4. Dujų įmonė, atsisakiusi leisti
-naudotis sistema dėl pajėgumų trūkumo, sistemos naudotojų prašymu privalo
-padidinti sistemos našumą arba nutiesti naują dujotiekį, jeigu tai ekonomiškai
-pagrįsta arba jeigu prašytojas įsipareigoja padengti sistemos našumo didinimo
-išlaidas tiek, kiek jos viršija ekonomiškai pagrįstas sistemos našumo didinimo
-išlaidas.
+straipsnis. Techninių taisyklių, metodikų rengimas ir skelbimas
+1.
+Vyriausybė ar jos įgaliota institucija parengia ir teisės aktų nustatyta tvarka
+skelbia techninius saugos kriterijus ir nediskriminacines technines
+taisykles, užtikrinančias sistemų sąveiką ir nustatančias būtiniausius
+techninės konstrukcijos ir eksploatavimo reikalavimus, taikomus prijungiant
+prie sistemos SGD įrenginius, saugyklas, kitas perdavimo ar skirstymo sistemas
+ir tiesioginius vamzdynus. Apie tokias taisykles Komisija praneša Europos
+Komisijai per vieną mėnesį nuo jų paskelbimo datos.
+2.
+Komisija, priimdama šį įstatymą įgyvendinančias taisykles, kriterijus ar
+metodikas, vadovaujasi šiais kriterijais:
+1) sistemų
+naudotojų ir vartotojų nediskriminavimo;
+2) protingumo,
+teisingumo, sąžiningumo, objektyvumo ir sąnaudų pagrįstumo;
+3) naujiems
+vartotojams skirtų investicijų efektyvumo;
+4) sistemos
+naudotojų ir vartotojų diferencijavimo;
+5) naujiems
+vartotojams skirtų investicijų atsipirkimo laikotarpio ir jų pagrįstumo
+įvertinimo;
+6) galimybės
+panaudoti gamtinių dujų įmonių sistemas kitiems naujiems vartotojams prijungti
+įvertinimo;
+7) sistemos
+naudotojų įrenginiams veikti reikalingų investicijų poreikio įvertinimo; 
+8) naujiems
+vartotojams skirtų investicijų pagrįstumo įvertinimo;
+9) pažangiųjų
+gamtinių dujų tinklų technologijos plėtros;
+10) teisės
+aktų nustatytų lengvatų ir (ar) skatinimo priemonių, taikomų sistemos naudotojų
+prijungimui, įvertinimo.
+ 
+KETVIRTASIS
+SKIRSNIS
+LICENCIJOS,
+ATESTATAI IR LEIDIMAI GAMTINIŲ DUJŲ SEKTORIUJE
  
 20
-straipsnis. Išimtys dėl naujų sistemų įrengimo
-1. Naujų jungiamųjų vamzdynų tarp
-Europos Sąjungos valstybių narių, SGD sistemų ir gamtinių dujų saugyklų
-savininkai ar operatoriai, pateikę Komisijai prašymą, gali būti jos atleisti
-nuo šio įstatymo 18 straipsnyje nustatytų reikalavimų taikymo, jei laikomasi
-šių sąlygų:
-1) investicija
-skatina dujų tiekimo konkurenciją ir gerina tiekimo patikimumą;
-2)
-neinvestuojama, jeigu netaikomi atleidimai nuo nustatytų reikalavimų;
-3) naujos
-infrastruktūros savininkas teisine forma yra nepriklausomas nuo sistemos
-operatorių, kurių sistemose tą infrastruktūros objektą numatyta pastatyti;
-4) iš tos
-infrastruktūros vartotojų (naudotojų) imamas mokestis;
-5) atleidimas nuo
-reikalavimų netrukdo konkurencijai, dujų vidaus rinkos funkcionavimui arba
-sujungtos sistemos veiksmingam funkcionavimui.
-2. Šio straipsnio 1 dalies
-nuostatos taip pat gali būti taikomos didelio esamos infrastruktūros pajėgumo
-didinimo atvejais ir siekiant panaudoti naujus dujų tiekimo šaltinius.
-3. Sprendimą dėl šio straipsnio 1
-ir 2 dalyse bei šio įstatymo 8 straipsnyje nustatytų išimčių taikymo priima
-Komisija. Išimtys taikomos ribotą laikotarpį. Komisijos sprendimas turi būti
-tinkamai pagrįstas ir viešai paskelbtas. Komisija apie priimtą sprendimą teikia
-informaciją Europos Komisijai.
- 
-21
-straipsnis. Rinkos liberalizavimas
-1. Nuo šio įstatymo įsigaliojimo
-laisvieji vartotojai yra visi nebuitiniai vartotojai.
-2. Nuo 2007 m. liepos 1 d. laisvieji vartotojai yra visi vartotojai.
- 
-ŠEŠTASIS SKIRSNIS
-DUJŲ SEKTORIAUS
-KONTROLĖ IR REGULIAVIMAS
- 
-22
-straipsnis. Komisijos funkcijos dujų sektoriuje
-1. Komisija turi
-užtikrinti efektyvų dujų sektoriaus funkcionavimą, kad vartotojai, sistemų
-naudotojai ir dujų įmonės nebūtų diskriminuojami ir kad dujų rinkoje būtų
-pagrįsta konkurencija.
-2. Komisija dujų sektoriuje, be
-kitų šio įstatymo ir Energetikos įstatymo nustatytų funkcijų, kontroliuoja:
-1) sistemų operatorių
-licencijuojamos veiklos sąlygas;
-2) dujų įmonių
-reguliuojamos veiklos sąnaudas;
-3) sistemų operatorių
-skelbiamos informacijos apie sąlygas, suteikiančias teisę suinteresuotosioms
-šalims naudotis sistemomis, jungiamaisiais vamzdynais ir gamtinių dujų saugyklomis,
-išsamumą ir tinkamą pateikimą;
-4) kaip suteikiama teisė naudotis
-sistemomis;
-5) apskaitų
-atskyrimą, siekiant išvengti veiklų kryžminio subsidijavimo;
-6) kaip
-laikomasi jungiamųjų vamzdynų valdymo ir jų pajėgumo skirstymo taisyklių. Šią
-priežiūrą Komisija atlieka kartu su Europos Sąjungos valstybės narės, į kurią
-nutiestas jungiamasis vamzdynas, reguliavimo institucija;
-7) perdavimo
-ir skirstymo sistemos operatorių atliekamų prijungimo ir remonto darbų trukmę;
-8) kaip
-laikomasi dujų tiekimo patikimumo ir paslaugų kokybės reikalavimų;
-9) dujų įmonių
-veiklos skaidrumo ir konkurencijos lygį.
-3. Komisija turi teisę:
-1) susipažinti su dujų įmonių
-sudaromomis sutartimis ir pareikalauti, kad dujų įmonės patikslintų sutartis,
-kad šios atitiktų šio įstatymo ir kitų teisės aktų nustatytus reikalavimus.
-Jeigu dujų įmonė neįvykdo šio reikalavimo, Komisija, gindama viešąjį interesą,
-turi teisę kreiptis į teismą dėl sutarties pakeitimo;
-2) nustatyti dujų įmonių jai
-teikiamos informacijos ir teikiamų derinti dokumentų pateikimo terminus,
-atsižvelgdama į dujų įmonių galimybes;
-3) nustatyti tiekimo įmonės
-pasirinkimo taisykles;
-4) nustatyti atskirus perdavimo
-ir (ar) skirstymo tarifus pagal išimtis, numatytas šio įstatymo 8 ir 20
-straipsniuose;
-5) nustatyti sistemų balansavimo
-ir naudojimosi sistema taisykles, jei sistemų operatorių parengti taisyklių
-projektai neatitinka šio įstatymo ir kitų teisės aktų reikalavimų.
-4. Komisija, atlikdama savo
-funkcijas, bendradarbiauja su valstybės institucijomis, atsakingomis už energetikos
-sektoriaus reguliavimą. Komisijos rengiami ir (ar) derinami teisės
-aktai, skirti Europos Sąjungos teisės aktams įgyvendinti, turi būti derinami su
-valstybės valdymo institucijomis, atsakingomis už atitinkamų Europos Sąjungos
-teisės aktų nuostatų perkėlimą į nacionalinę teisę.
-5. Komisija nustato viršutines
-reguliuojamų kainų ribas arba konkrečias kainas.
-6. Komisija Europos Komisijai rengia dujų rinkos
-ataskaitas.
- 
-23
-straipsnis. Kainų reguliavimas
-1. Dujų
-sektoriuje reguliuojamos šios kainos, nustatant jų viršutines ribas:
+straipsnis. Licencijos ir atestatai gamtinių dujų sektoriuje
+1. Gamtinių
+dujų sektoriuje licencijuojama ši veikla:
 1)
 perdavimo;
 2)
-skystinimo;
+skirstymo;
 3)
 laikymo;
 4)
-skirstymo;
+skystinimo;
 5)
-tiekimo.
-2. Dujų
-sektoriuje reguliuojamos šių paslaugų kainos, nustatant konkrečias kainas:
-1) prijungimo
-(buitiniams vartotojams);
-2) sistemos
-balansavimo.
-3. Komisija parengia ir patvirtina
-šio straipsnio 1 ir 2 dalyse nurodytų kainų nustatymo metodikas.
-4. Šio straipsnio 1 ir 2 dalyse
-nurodytas kainas,
-Komisijai patikrinus, viešai paskelbia dujų įmonės.
-5. Reguliuojamų kainų nustatymo
-metodikose turi būti numatytos būtinos investicijos, užtikrinančios efektyvią,
-saugią sistemų veiklą, ir normatyvinis pelnas šiai veiklai užtikrinti. Nustatant
-(koreguojant) perdavimo, skirstymo, skystinimo ir laikymo kainų viršutines
-ribas, atsižvelgiama į dujų įmonės licencijuojamoje veikloje naudojamo turto
-vertę, kurią įvertina ir tvirtina Komisija, vadovaudamasi Komisijos parengtais
-ir Vyriausybės patvirtintais dujų įmonių licencijuojamoje veikloje naudojamo
-turto vertės nustatymo principais. Pelno prieš apmokestinimą norma, perdavimo,
-skirstymo, skystinimo ir laikymo veiklos rūšims skaičiuojama nuo dujų įmonės
-licencijuojamoje veikloje naudojamo turto vertės, kiekvienam reguliavimo
-periodui turi būti ne mažesnė kaip dešimties metų trukmės Vyriausybės
-vertybinių popierių aukcionų, įvykusių per praėjusius paskutinius 36
-kalendorinius mėnesius, metinės palūkanų normos procentais aritmetinis
-svertinis vidurkis, bet ne didesnis kaip 5 procentai. Dujų perdavimo ir
-skirstymo kainos nustatomos neatsižvelgiant į dujų transportavimo atstumą. Perdavimo
-sistemos naudotojai skirstomi į šias grupes: sistemos naudotojai, per metus į
-vieną dujų pristatymo vietą transportuojantys iki 1 milijardo kubinių metrų
-dujų, ir sistemos naudotojai, per metus į vieną dujų pristatymo vietą
-transportuojantys daugiau kaip 1 milijardą kubinių metrų dujų. Vartotojams
-(sistemos naudotojams) dujų skirstymo kainos nustatomos atsižvelgiant į tai,
-kiek patiekta per metus dujų į konkrečią dujų pristatymo vietą. Buitiniams
-vartotojams perdavimo ar skirstymo sistemų balansavimo paslauga teikiama iš
-įmonės lėšų. Nebuitiniams vartotojams dujų perdavimo ir skirstymo kainos
-nustatomos ir diferencijuojamos pagal dujų kiekį ir galią. Buitiniams
-vartotojams dujų skirstymo kainos diferencijuojamos pagal dujų vartojimo kiekį.
-Dujų kiekio ir galios diferencijavimo principai nustatomi kainų nustatymo
-metodikose. Reguliuojamos kainos, jų diferencijavimas, siekiant išvengti
-kryžminio subsidijavimo, tarp vartotojų grupių turi būti vieši, o jų nustatymo
-principai – pagrįsti, objektyvūs, skaidrūs ir nediskriminuojantys.
-6. Reguliuojamų kainų viršutinės
-ribos nustatomos penkerių metų reguliavimo periodui. Reguliuojamų kainų
-viršutinės ribos Komisijos sprendimu gali būti koreguojamos pasikeitus
-infliacijos lygiui, importuojamų (atgabenamų) dujų kainoms, mokesčiams, dujų
-kiekiui, teisės aktų reikalavimams, dujų įmonėms įgyvendinus su Komisija
-suderintas investicijas, dujų įmonėms nukrypus nuo Komisijos patvirtintose
-kainų viršutinių ribų skaičiavimo metodikose nustatytų rodiklių, tačiau
-ne dažniau kaip kartą per metus. Reguliuojamų paslaugų kainos gali būti
-koreguojamos ne dažniau kaip kartą per metus.
-7. Konkrečias
-perdavimo, skystinimo, laikymo, skirstymo, paskirtojo tiekimo kainas,
-neviršijančias nustatytų kainų viršutinių ribų, kiekvienais metais nustato dujų
-įmonės. Komisija, patikrinusi ir nustačiusi, kad kainos ir (ar) buitiniams
-vartotojams nustatyti tarifai apskaičiuoti nesilaikant kainų ir (ar) tarifų
-nustatymo reikalavimų, nustatytų kainų viršutinių ribų skaičiavimo metodikose,
-kad jos diskriminuoja vartotojus ir (ar) yra klaidingos, pateikia dujų įmonėms
-nurodymus dėl konkrečių kainų ir tarifų skaičiavimo. Dujų įmonės kainas ir (ar)
-tarifus privalo per 15 dienų pakoreguoti. Jei dujų įmonės nevykdo Komisijos
-reikalavimo, Komisija vienašališkai nustato konkrečias kainas ir (ar) tarifus.
-8. Dujų įmonės buitiniams
-vartotojams nustato tarifus kas pusę metų. Tarifą sudaro: prognozuojamų dujų
-(produkto), konkrečių perdavimo, skirstymo, laikymo, skystinimo, tiekimo kainų
-bei skirtumo tarp ankstesnio tarifų galiojimo laikotarpio prognozuotų ir
-faktinių dujų (produkto) kainų suma. Dujų įmonės konkrečius tarifus pateikia
-Komisijai, kuri šiuos tarifus tikrina ir priima sprendimus dėl jų šio
-straipsnio 7 dalyje nustatyta tvarka.
-Straipsnio pakeitimai:
-Nr. XI-353,
-2009-07-17, Žin., 2009, Nr. 91-3913 (2009-07-31)
+tiekimo;
+6)
+rinkos operatoriaus.
+2. Asmenims,
+siekiantiems gamtinių dujų sektoriuje vykdyti licencijuojamą veiklą, licencijos
+šio įstatymo ir Energetikos įstatymo nustatytomis sąlygomis ir tvarka
+išduodamos vadovaujantis veiklos saugumo, patikimumo ir nediskriminavimo
+principais, nesiekiant apriboti rinkos dalyvių skaičiaus ir neterminuotam
+laikui.
+3.
+Gamtinių dujų perdavimo, skirstymo, laikymo, skystinimo, tiekimo ir rinkos
+operatoriaus licencijavimo taisykles (toliau – Licencijavimo taisyklės)
+tvirtina Vyriausybė arba jos įgaliota institucija. Licencijas išduoda, sustabdo
+jų galiojimą, panaikina galiojimo sustabdymą, panaikina jų galiojimą, keičia,
+tikslina licencijas, prireikus išduoda licencijų dublikatus ir licencijuojamą
+veiklą kontroliuoja Komisija. Atsižvelgdama į įdiegtas technines priemones,
+Komisija licencijas išduoda ir kitus su licencijų išdavimu susijusius veiksmus
+atlieka elektroniniu būdu.
+4.
+Už licencijos išdavimą, jos pakeitimą, patikslinimą ar licencijos dublikato
+išdavimą mokama nustatyto dydžio valstybės rinkliava. 
+5.
+Perdavimo, skirstymo, laikymo ir skystinimo licencijos išduodamos Lietuvos
+Respublikoje įsteigtam juridiniam asmeniui arba kitos valstybės narės juridinio
+asmens ar kitos organizacijos padaliniui, įsteigtam Lietuvos Respublikoje.
+Licencijos išduodamos asmenims, turintiems pakankamus technologinius,
+finansinius ir vadybinius pajėgumus, leidžiančius tinkamai vykdyti
+licencijuojamos veiklos sąlygas. Asmenų technologinius, finansinius ir vadybinius
+pajėgumus ir jų įvertinimo tvarką nustato Komisija, atsižvelgdama į šiuos
+kriterijus:
+1) asmenys,
+siekiantys įgyti sistemų operatorių licencijas, privalo nuosavybės teise, kaip
+nurodyta šiame įstatyme, ar kitais teisėtais pagrindais valdyti perdavimo ar
+skirstymo sistemas;
+2) asmenys,
+siekiantys įgyti rinkos operatoriaus ar tiekimo įmonės licencijas, privalo
+nuosavybės teise ar kitais teisėtais pagrindais valdyti technines priemones,
+skirtas prisijungti prie perdavimo sistemos operatoriaus informacinio
+komplekso, ir programinę įrangą, kurios reikia licencijuojamai veiklai vykdyti;
+3) asmenys,
+siekiantys įgyti rinkos operatoriaus licenciją, privalo nuosavybės teise ar
+kitais teisėtais pagrindais valdyti ryšio priemones, reikalingas pranešimams iš
+rinkos dalyvių gauti ir jiems siųsti;
+4) asmenys,
+siekiantys įgyti skirstymo operatoriaus licenciją, privalo nuosavybės teise ar
+kitais teisėtais pagrindais valdyti pagal teisės aktų reikalavimus įrengtą
+gamtinių dujų skirstymo sistemą, kuri turi būti sujungta su veikiančia
+perdavimo ar skirstymo sistema, leidžiančią užtikrinti dujų pristatymą
+vartotojams;
+5) asmenys,
+siekiantys įgyti laikymo licenciją, privalo nuosavybės teise ar kitais
+teisėtais pagrindais valdyti pagal teisės aktų reikalavimus įrengtą gamtinių
+dujų saugyklą, kurios įrenginiai sujungti su veikiančia perdavimo sistema;
+6)
+asmenys, siekiantys įgyti skystinimo licenciją, privalo nuosavybės teise ar
+kitais teisėtais pagrindais valdyti pagal teisės aktų reikalavimus įrengtą SGD
+sistemą, kuri yra sujungta su veikiančia perdavimo sistema;
+7) pareiškėjo,
+siekiančio įgyti licenciją, finansinis pajėgumas vertinamas pagal jo dvejų
+paskutinių ataskaitinių finansinių metų (arba nuo pareiškėjo įregistravimo
+dienos, jeigu pareiškėjas vykdė veiklą mažiau negu dvejus finansinius metus)
+balanso ir pelno (nuostolių) ataskaitų duomenis, kuriems įvertinti taikomi
+Komisijos nustatyti finansinio pajėgumo rodikliai;
+8) pareiškėjas,
+siekiantis įgyti licenciją, privalo turėti darbuotojus licencijuojamai veiklai
+vykdyti ir ataskaitoms rengti, atskirai licencijuojamos veiklos apskaitai
+tvarkyti, vartotojams informuoti ir konsultuoti bei skundams dėl
+licencijuojamos veiklos nagrinėti.
+6.
+Perdavimo ir skirstymo licencijose nurodomos perdavimo ir skirstymo
+teritorijos, kuriose atitinkamą licenciją turintis asmuo turi išskirtines
+licencijoje nurodytos veiklos vykdymo teises ir pareigas. 
+7.
+Komisija teikia informaciją Europos Komisijai apie atsisakymo išduoti
+licencijas priežastis.
+8.
+Asmenys, statantys arba eksploatuojantys dujų
+perdavimo, skirstymo sistemas, dujų laikymo įrenginius ar SGD sistemas, arba
+atliekantys energijos vartojimo auditą, privalo turėti Energetikos įstatymo
+nustatyta tvarka išduotą atestatą eksploatuoti gamtinių dujų įrenginius.
+9.
+Asmenys, kurie vykdo šio straipsnio 1 dalyje nurodytą licencijuojamą veiklą,
+neturi teisės įgalioti kitų asmenų vykdyti licencijoje nurodytos veiklos ir
+privalo laikytis šių bendrųjų veiklos sąlygų:
+1)
+efektyviai ir ekonomiškai vykdyti licencijuojamą veiklą, užtikrinti dujų tiekimo
+patikimumą, reguliarumą, kokybę, vartotojų apsaugą ir aplinkosaugos
+reikalavimus, nediskriminuoti vartotojų, kitų dujų įmonių ir sistemų naudotojų,
+laikytis sąžiningos konkurencijos, veiklos viešumo ir informavimo principų;
+2)
+metams pasibaigus, atlikti nepriklausomą licencijuojamos veiklos sąnaudų auditą
+ir apie rezultatus informuoti Komisiją;
+3) Licencijavimo
+taisyklėse nustatyta tvarka teikti Komisijai ir Lietuvos Respublikos
+energetikos ministerijai (toliau – Energetikos ministerija) informaciją, reikalingą
+įstatymų ir kitų teisės aktų nustatytoms pareigoms vykdyti;
+4)
+užtikrinti nediskriminacines sąlygas visiems vartotojams, sistemų naudotojams
+ir kitiems rinkos dalyviams;
+5)
+informuoti ir konsultuoti vartotojus ir sistemų naudotojus teisės aktų nustatyta
+tvarka;
+6)
+užtikrinti, kad būtų laikomasi kitų šiame ir kituose įstatymuose nustatytų
+pareigų, licencijuojamos veiklos sąlygų ir reikalavimų. 
+10.
+Gamtinių dujų įmonės, vykdydamos licencijuojamą veiklą, privalo laikytis
+Europos Sąjungos teisės ir nacionalinės teisės reikalavimų ir principų bei
+šiame įstatyme nustatytų įpareigojimų.
+11. Dujų perdavimo ar skirstymo licencija išduodama
+teritorijoje, apibrėžtoje pagal Lietuvos Respublikos teritorijos
+administracinių vienetų ir jų ribų įstatymą. Perdavimo licencijoje mažiausia
+teritorija yra apskritis, skirstymo licencijoje – savivaldybė. Išduotose
+perdavimo ir skirstymo licencijose nurodytų teritorijų ribas išimtiniais
+atvejais gamtinių dujų įmonės prašymu gali pakeisti Komisija, suderinusi jas su
+atitinkamomis gamtinių dujų įmonėmis.
+ 
+21 straipsnis. Veiklos gamtinių dujų sektoriuje
+licencijų ir leidimų išdavimas, galiojimo sustabdymas, galiojimo sustabdymo
+panaikinimas, galiojimo panaikinimas ir keitimas
+1.
+Asmuo, siekiantis įgyti veiklos gamtinių dujų sektoriuje licenciją,
+Licencijavimo taisyklėse nustatyta tvarka pateikia Komisijai prašymą ir
+šiose taisyklėse nustatytus dokumentus.
+2.
+Licencija arba leidimas išduodami arba rašytinis motyvuotas atsisakymas
+pateikiamas pareiškėjui ne vėliau kaip per 30 dienų nuo Licencijavimo
+taisyklėse arba leidimų išdavimo tvarkos apraše nustatyta tvarka pateikto
+prašymo bei visų reikalingų ir tinkamai įformintų dokumentų gavimo dienos.
+Jeigu į tinkamai pateiktą prašymą išduoti licenciją arba leidimą neatsakoma per
+šioje dalyje nurodytą terminą, laikoma, kad yra priimtas teigiamas sprendimas
+dėl licencijos arba leidimo išdavimo.
+3.
+Šio straipsnio 2 dalyje nurodytas terminas netaikomas, kai vyksta teisminiai
+ginčai su trečiaisiais asmenimis dėl licencijuojamos veiklos sąlygų
+(teritorijos) ir kai yra prašoma išduoti perdavimo, skirstymo ar rinkos
+operatoriaus licenciją teritorijoje, kurioje jau yra išduota perdavimo,
+skirstymo ar rinkos operatoriaus licencija, ar dėl kitų priežasčių, pateisinamų
+svarbiais visuomenės interesais ar nustatytų kituose įstatymuose, ir
+pareiškėjas apie tai yra informuotas Licencijavimo taisyklėse nustatyta tvarka.
+Šiuo atveju licencija ar leidimas išduodami arba rašytinis motyvuotas
+atsisakymas pareiškėjui išduoti licenciją ar leidimą pateikiamas ne vėliau kaip
+per 30 dienų, pasibaigus atitinkamo teisminio ginčo nagrinėjimui ar nelikus
+kitų priežasčių, dėl kurių buvo atidėtas sprendimo dėl licencijos ar leidimo
+išdavimo priėmimas.
+4.
+Už licencijuojamos veiklos, leidimus turinčių asmenų veiklos sąlygų ir
+reikalavimų pažeidimus asmenys, turintys atitinkamos veiklos licencijas,
+įspėjami apie galimą licencijų ar leidimų galiojimo sustabdymą ar panaikinimą Energetikos
+įstatymo nustatyta tvarka ir sąlygomis. Licencijos ar leidimo galiojimas
+sustabdomas, galiojimo sustabdymas panaikinamas, licencijos ar leidimo
+galiojimas panaikinamas, taip pat licencija ar leidimas yra keičiami
+Energetikos įstatymo nustatyta tvarka ir sąlygomis.
+5.
+Gamtinių dujų įmonė, numatanti nutraukti licencijuojamą veiklą, privalo ne vėliau
+kaip prieš 6 mėnesius iki numatomo veiklos nutraukimo apie tai informuoti
+Komisiją. Tuo atveju, jeigu pranešime nurodomas asmuo, kuris ketina pasibaigus
+pranešime nurodytam terminui vykdyti licencijuojamą rinkos operatoriaus,
+perdavimo, skirstymo veiklą ir atitinka šiai veiklai keliamus reikalavimus,
+nustatytus šiame įstatyme ir kituose teisės aktuose, ir Komisijai pateikia
+įvertinti tokią atitiktį pagrindžiančius dokumentus, pranešimo apie veiklos
+nutraukimą terminas derinamas Komisijos, pranešimą teikiančio asmens ir
+licencijuojamą veiklą ketinančio vykdyti asmens sutarimu.
+6.
+Jeigu sprendimas dėl licencijos galiojimo sustabdymo ar panaikinimo turi įtakos
+saugiam vartotojų aprūpinimui gamtinėmis dujomis, jis gali įsigalioti ne
+anksčiau kaip po dviejų mėnesių nuo sprendimo priėmimo dienos. Apie tai, kad
+numatoma priimti tokį sprendimą, Komisija privalo informuoti Vyriausybę ir
+Energetikos ministeriją.
+7.
+Siekiant užtikrinti gamtinių dujų sistemos darbo saugumą, vartotojų aprūpinimo
+gamtinėmis dujomis patikimumą ir viešųjų interesų gamtinių dujų sektoriuje
+apsaugą, licencijuojamą veiklą vykdančio asmens veiklos patikrinimai gali būti
+atliekami ir įstatymų nustatytos poveikio priemonės už licencijuojamos veiklos
+sąlygų pažeidimus gali būti taikomos jau pirmaisiais atitinkamos veiklos
+gamtinių dujų sektoriuje vykdymo metais. Komisija ir (ar) kitos
+valstybės ar savivaldybių institucijos pagal kompetenciją užtikrina nuolatinę
+licencijuojamos veiklos gamtinių dujų sektoriuje priežiūrą ir kontrolę,
+vadovaudamosi teisingumo, protingumo, sąžiningumo ir rinkos dalyvių
+nediskriminavimo principais.
+ 
+22
+straipsnis. Leidimai gamtinių dujų sektoriuje
+1.
+Leidimai gamtinių dujų sektoriuje šio įstatymo ir Energetikos įstatymo
+nustatyta tvarka ir sąlygomis išduodami gamtinių dujų saugykloms, SGD įrenginiams, jungiamiesiems vamzdynams statyti,
+naujoms perdavimo ar skirstymo sistemoms nedujofikuotoje (naujai
+dujofikuojamoje) teritorijoje ir tiesioginiams vamzdynams įrengti. Komisija
+leidimus išduoda pagal Vyriausybės ar jos įgaliotos institucijos patvirtintą
+leidimų išdavimo tvarkos aprašą, kuriame atsižvelgiama į tiekimo patikimumo,
+reguliarumo, kokybės, vartotojų apsaugos ir aplinkosaugos reikalavimus.
+Komisijos išduotas leidimas nepanaikina asmens pareigos gauti visus Lietuvos
+Respublikos statybų įstatymo nustatytus leidimus ir laikytis statybų teisės
+reikalavimų.
+2.
+Dujų įmonės, prašančios išduoti šio straipsnio 1 dalyje nustatytą leidimą,
+turi parengti gamtinių dujų įrenginių statybos, naujų perdavimo ar skirstymo
+sistemų nedujofikuotoje teritorijoje ar tiesioginių vamzdynų investicijų
+projektus. Kai sistemų plėtra vykdoma licencijuotoje teritorijoje, Komisijai
+kartu pateikiamas plėtros planas. Plėtrą vykdant nelicencijuotoje teritorijoje,
+atliekamas rinkos tyrimas, įvertinantis dujų naudojimo prognozes dešimties metų
+laikotarpiui, ir organizuojamas konkursas. Konkurso metu geriausias pasiūlymas
+išrenkamas vadovaujantis šiais kriterijais: gamtinių dujų transportavimo kainos
+viršutinė riba nedujofikuotos teritorijos vartotojams; numatytu paskirstyti
+dujų kiekiu; investicijų mastu pagal numatomų pastatyti dujotiekio tinklų ilgį.
+ 3.
+Mažiausia teritorija, kuriai dujofikuoti įrengiant perdavimo sistemą gali būti
+išduodamas leidimas, yra apskritis, įrengiant skirstymo sistemą, – savivaldybė.
+4. Komisija,
+atsisakydama išduoti leidimą, pareiškėjui praneša objektyvias ir
+nediskriminacines leidimo neišdavimo priežastis. Tokio atsisakymo priežastis
+informaciniais tikslais Komisija per vieną mėnesį praneša Europos Komisijai.
+ 
+PENKTASIS
+SKIRSNIS
+GAMTINIŲ DUJŲ
+TIEKIMAS
+ 
+23
+straipsnis. Tiekimas
+1.
+Gamtines dujas vartotojams tiekia gamtinių dujų tiekimo įmonės, turinčios
+tiekimo licenciją. Tiekimo įmonė yra atsakinga už kokybės reikalavimus
+atitinkančių gamtinių dujų patiekimą į sistemą, už gamtinių dujų tiekimo
+reguliarumą ir privalo dalyvauti balansuojant gamtinių dujų srautus.
+2.
+Tiekimo licencija suteikia teisę tiekimo įmonei tiekti gamtines dujas
+vartotojams ir gamtinių dujų įmonėms.
+3.
+Tiekimo įmonė prekiauja gamtinėmis dujomis biržoje ir (ar) pagal dvišales
+sutartis, ir (ar) kitais būdais Vyriausybės ar jos įgaliotos institucijos
+patvirtintose Prekybos gamtinėmis dujomis taisyklėse nustatyta tvarka ir
+sąlygomis.
+4.
+Tiekimo įmonės, vykdydamos informacijos sklaidą, privalo:
+1) pateikti
+informaciją Komisijai apie pagrindines sudarytų gamtinių dujų
+tiekimo sutarčių sąlygas gamtinių dujų tiekimo patikimumo
+stebėsenai atlikti;
+2) parengti
+metines savo veiklos ir saugumo užtikrinimo ataskaitas ir pateikti jas
+Komisijai. Tiekimo įmonių metinių veiklos ir saugumo užtikrinimo ataskaitų
+turinį nustato Vyriausybė ar jos įgaliota institucija;
+3) pateikti
+savo vartotojams Europos Komisijos parengto energijos vartotojams skirto
+klausimų ir atsakymų sąrašo kopiją ir šį sąrašą paskelbti viešai įmonių interneto svetainėse.
+5.
+Didmeninis vartotojas, perkantis gamtines dujas, yra atsakingas perdavimo
+sistemos operatoriui už suvartotų, bet nenupirktų arba nesuvartotų, bet
+nupirktų gamtinių dujų kiekių subalansavimą pagal perdavimo sistemos
+operatoriaus parengtas ir su Komisija suderintas balansavimo taisykles.
+Tiekėjas, parduodantis gamtines dujas, yra atsakingas perdavimo sistemos
+operatoriui už parduotų, bet nepatiektų gamtinių dujų kiekių subalansavimą
+pagal perdavimo sistemos operatoriaus parengtas ir su Komisija suderintas
+balansavimo taisykles.
  
 24
-straipsnis. Saugumo užtikrinimas
-1. Dujų įmonės privalo
-būti nuolat pasirengusios veikti galimos ekstremalios energetikos padėties laikotarpiu
-ar galimo dujų tiekimo sutrikimo atveju ir planuoti
-prevencines priemones dujų tiekimo patikimumui bei techninei dujų sistemų saugai užtikrinti. Ekstremalios energetikos padėties
-laikotarpiu ar sumažėjus dujų tiekimui, kilus grėsmei sistemų
-saugumui, įvykus avarijai, iškilus grėsmei žmonių sveikatai ar saugumui, dujų įmonės privalo nedelsdamos imtis visų pagrįstų priemonių dujų tiekimo patikimumui bei techninei dujų
-sistemų saugai užtikrinti. Šios priemonės turi būti pagrįstos ir proporcingos. Dujų įmonės apie taikomas prevencines priemones praneša
-Energetikos ministerijai. Dujų tiekimo sutrikimo ar nutraukimo
-atveju vartotojams dujų tiekimą užtikrina tiekimo įmonė, kuri
-tiekė dujas prieš dujų tiekimo apribojimą ar nutraukimą.
-2. Dujų
-įmonės bei vartotojai, kurie turi didesnės kaip 5 MW galios energijos gamybos
-objektų, privalo planuoti būsimą dujų paklausą, dujų
-sistemų pajėgumą. Dujų įmonės privalo planuoti
-dujų sistemų techninės būklės lygį, priemones, kaip patenkinti paklausą,
-kai ji yra didžiausia, spręsti dujų trūkumo problemas,
-kylančias dėl vienos ar kelių tiekimo įmonių kaltės. Dujų
-įmonės ne vėliau kaip iki kiekvienų metų gegužės 1 dienos parengia saugumo
-užtikrinimo ataskaitas ir pateikia jas Energetikos ministerijai.
-3. Vyriausybė ar
-jos įgaliota institucija turi teisę nustatyti konkrečias saugumo užtikrinimo
-priemones, kurių vykdymas dujų įmonėms, vartotojams bei Komisijai yra
-privalomas. Priemonės turi būti nediskriminuojančios, aiškios ir viešai
-paskelbtos. Priemonės turi numatyti prioritetinį saugų dujų tiekimą, įskaitant
-atsargas dujų vamzdyne, buitiniams vartotojams ir vartotojams į tuos objektus,
-kurių energijos gamybos galia mažesnė kaip 5 MW, kuriuose nėra kuro rezervinių
-atsargų ir kuriems dujų tiekimo negalima nutraukti.
-4. Vyriausybė ar
-jos įgaliota institucija turi teisę nustatyti reikalavimą ar sąlygas dujų
-įmonėms bei nebuitiniams vartotojams naudotis gamtinių dujų saugyklomis. Dujų
-atsargos turi būti tiekiamos iš Europos Sąjungos valstybių narių teritorijoje
-esančių gamtinių dujų saugyklų.
-5. Nebuitiniai vartotojai, kurie
-naudoja dujas energijai gaminti, kai ta energija parduodama ar naudojama
-visuomeniniams ar gyventojų poreikiams tenkinti, privalo turėti 1 mėnesio
-energijos išteklių rezervines atsargas. Energijos išteklių rezervinių atsargų
-rūšį pasirenka patys vartotojai.
-6. Buitinių
-vartotojų nenutrūkstamo dujų tiekimo išlaidos įtraukiamos į dujų tiekimo kainą,
-nustačius atskirą tiekimo kainos dedamąją. Nebuitiniai vartotojai pagal
-sutartis nenutrūkstamo dujų tiekimo išlaidas padengia patys savo lėšomis.
-7. Valstybinė energetikos
-inspekcija prie Energetikos ministerijos kontroliuoja pagrindines dujų
-tiekimo sutarčių sąlygas ir dujų įmonių veiksmus dėl dujų tiekimo patikimumo užtikrinimo tarp dujų
-įmonių ir galutinių vartotojų, naudojančių dujas energijai gaminti, kai ta
-energija parduodama ar naudojama visuomeniniams ar gyventojų poreikiams
-tenkinti. Dujų įmonės ir galutiniai vartotojai Valstybinei
-energetikos inspekcijai prie Energetikos ministerijos teikia informaciją apie dujų saugumo užtikrinimo priemones ir pagrindines dujų
-tiekimo sutarčių sąlygas.
-8. Energetikos
-ministerija teikia informaciją apie dujų saugumo užtikrinimo
-priemones, nurodytas šio straipsnio 1 dalyje, Europos Komisijai ir Europos
-Sąjungos valstybėms narėms. Energetikos ministerija kiekvienais metais ne
-vėliau kaip iki liepos 31 dienos parengia ir paskelbia apibendrintą saugumo
-ataskaitą ir pateikia ją Europos Komisijai.
-Straipsnio pakeitimai:
-Nr.
-XI-136,
-2009-01-12, Žin., 2009, Nr. 10-358 (2009-01-27)
+straipsnis. Duomenų saugojimas 
+1.
+Tiekimo įmonės privalo penkerius metus saugoti ir prireikus pateikti visų su
+didmeniniais vartotojais, perdavimo sistemos, skirstymo sistemos, laikymo ir
+SGD sistemų operatoriais sudarytų sandorių duomenis apie šių sandorių trukmę,
+pristatymo ir apmokėjimo taisykles, kiekį, vykdymo datas ir terminus, sandorių
+vertę, didmeninių vartotojų nustatymo priemones. Papildomai tiekimo įmonės
+saugo ir Komisijos reikalavimu jai pateikia visą informaciją apie neįvykdytas
+gamtinių dujų tiekimo sutartis ir gamtinių dujų rinkos finansines priemones.
+2.
+Komisija, neatskleisdama informacijos, kuri laikoma komercine (gamybine) ar
+profesine paslaptimi, apie atskirus rinkos dalyvius ar atskirus sandorius,
+nuolat viešai Komisijos
+interneto svetainėje skelbia informaciją, užtikrinančią rinkos
+konkurencingumą ir kontrolę. 
+ 
+ŠEŠTASIS
+SKIRSNIS
+SISTEMŲ
+OPERATORIAI
  
 25
-straipsnis. Skundų nagrinėjimas
-1. Komisija išankstine neteismine
-skundų nagrinėjimo tvarka nagrinėja skundus dėl dujų įmonių veiklos ar
-neveikimo perduodant, skystinant, pakartotinai dujinant, skirstant, tiekiant,
-perkant ir laikant gamtines dujas, dėl teisės pasinaudoti sistema, vartotojų
-sistemos prijungimo tvarkos (metodikų, kainų), sistemų balansavimo, kainų
-taikymo, investicijų bei sutarčių sąlygų.
-2. Valstybinė
-energetikos inspekcija prie Energetikos ministerijos išankstine neteismine
-skundų nagrinėjimo tvarka nagrinėja skundus dėl įrenginių, apskaitos priemonių,
-sistemų įrengimo, eksploatavimo, avarijų ir sutrikimų, dujų
-apskaitos ir mokėjimo už sunaudotas dujas pažeidimų, vartotojų sistemų
-prijungimo sąlygų bei perdavimo, laikymo, skirstymo ar SGD sistemų techninės
-saugos ir patikimumo.
-3. Valstybinė
-vartotojų teisių apsaugos tarnyba išankstine skundų nagrinėjimo ne teismo
-tvarka nagrinėja buitinių vartotojų skundus dėl dujų pirkimo–pardavimo ar
-paslaugų teikimo sutarčių nesąžiningų sąlygų taikymo.
-4. Vyriausybė ar
-jos įgaliota institucija nustato šio straipsnio 1 ir 2 dalyse nustatytų skundų
-nagrinėjimo tvarką.
-Straipsnio pakeitimai:
-Nr.
-XI-136,
-2009-01-12, Žin., 2009, Nr. 10-358 (2009-01-27)
-Nr. XI-353,
-2009-07-17, Žin., 2009, Nr. 91-3913 (2009-07-31)
+straipsnis. Sistemų operatoriai
+1.
+Lietuvos Respublikoje yra paskiriami perdavimo, skirstymo, laikymo, SGD sistemų
+ir rinkos operatoriai. Šiuos operatorius šio įstatymo nustatyta tvarka paskiria
+ir vėliau kontroliuoja, ir prižiūri Komisija. 
+2.
+Ta pati gamtinių dujų įmonė, atitinkanti šio skirsnio reikalavimus, gali būti
+bendru perdavimo, laikymo, skirstymo ir SGD sistemos operatoriumi.
  
-26
+26 straipsnis. Perdavimo, laikymo ir (arba) SGD
+sistemos operatorių užduotys
+1.
+Kiekvienas perdavimo, laikymo ir (arba) SGD sistemos operatorius:
+1)
+ekonomiškai eksploatuoja, prižiūri ir plėtoja saugius, patikimus, efektyvius ir
+atvirą rinką užtikrinančius perdavimo, laikymo ir (arba) SGD įrenginius; 
+2)
+deramai atsižvelgdamas į aplinkos apsaugą, užtikrina tinkamas priemones
+paslaugų teikimo įpareigojimams vykdyti;
+3)
+nediskriminuoja sistemos naudotojų ar sistemos naudotojų kategorijų;
+4)
+bet kuriam kitam perdavimo sistemos operatoriui, laikymo sistemos operatoriui,
+SGD sistemos operatoriui ir (arba) skirstymo sistemos operatoriui pateikia
+pakankamai informacijos, kad užtikrintų reikalavimų dėl saugaus ir veiksmingo
+jungtinės sistemos eksploatavimo laikymąsi transportuojant ir laikant gamtines
+dujas;
+5)
+teikia sistemos naudotojams informaciją, reikalingą veiksmingai naudotis
+sistema.
+2.
+Perdavimo sistemos operatorius pastato pakankamus tarpvalstybinius pajėgumus,
+skirtus Europos Sąjungos perdavimo infrastruktūrai integruoti, atsižvelgdamas į
+visą ekonomiškai pagrįstą ir techniškai įmanomą pajėgumų paklausą ir į gamtinių
+dujų tiekimo saugumą.
+3.
+Perdavimo sistemos operatorius pagal Komisijos patvirtintą tvarką kaupia, sistemina
+ir reguliariai teikia informaciją Komisijai apie gamtinių dujų tranzitą
+Lietuvos Respublikos teritorijoje.
+4.
+Perdavimo sistemos operatorių priimtos taisyklės, kuriomis siekiama
+subalansuoti gamtinių dujų perdavimo sistemą, turi būti objektyvios, skaidrios
+ir nediskriminacinės. Sąlygos, kuriomis perdavimo sistemos operatoriai teikia
+tokias paslaugas, nustatomos nediskriminaciniu išlaidas atspindinčiu būdu ir
+skatinant sistemos naudotojus subalansuoti dujų srautus pagal Komisijos
+paskelbtą metodiką. Tokios sąlygos yra skelbiamos viešai perdavimo sistemos
+operatorių svetainėse.
+5.
+Komisija prižiūri, kad perdavimo sistemos operatoriai laikytųsi Vyriausybės ar
+jos įgaliotos institucijos nustatytų būtiniausių perdavimo sistemos priežiūros
+ir plėtros standartų.
+6.
+Savo funkcijoms atlikti reikalingą vartoti energiją perdavimo sistemos
+operatoriai įsigyja laikydamiesi skaidrios, nediskriminacinės ir rinkos
+pagrindu veikiančios tvarkos.
+7.
+Lietuvos Respublikos ar Europos Sąjungos perdavimo sistemų operatoriai, jeigu
+tai būtina jų funkcijoms atlikti, turi teisę, laikydamiesi Europos Sąjungos
+teisės aktų reikalavimų, naudotis kitų perdavimo sistemos operatorių tinklais.
+ 
+27
+straipsnis. Perdavimo sistemos operatorius
+1.
+Gamtinių dujų įmonė, kuriai nuosavybės teise priklauso perdavimo sistema ir
+kuri buvo paskirta perdavimo sistemos operatoriumi šio įstatymo 28 ir
+29 straipsniuose nustatyta tvarka, veikia kaip perdavimo sistemos
+operatorius.
+2.
+Komisija informuoja Europos Komisiją apie sprendimą paskirti perdavimo sistemos
+operatorių arba numanomą sprendimą nedelsdama, bet ne vėliau negu per vieną
+mėnesį nuo sprendimo priėmimo arba projekto patvirtinimo.
+3.
+Laikoma, kad įpareigojimas gamtinių dujų įmonei, nuosavybės teise valdančiai
+perdavimo sistemą, veikti kaip perdavimo sistemos operatoriui yra įvykdytas,
+jeigu dvi ar daugiau gamtinių dujų įmonių, kurioms nuosavybės teise priklauso
+perdavimo sistemos, įsteigia bendrą gamtinių dujų įmonę, atliekančią perdavimo
+sistemos operatoriaus funkcijas atitinkamai dviejose ar daugiau valstybių
+narių. Bendrai įmonei gali priklausyti tik tos įmonės, kurios atitinka
+reikalavimus, taikomus atitinkamoje valstybėje narėje nepriklausomam sistemos
+operatoriui ar nepriklausomam perdavimo operatoriui patvirtinti.
+ 
+28
+straipsnis. Perdavimo sistemos operatoriaus paskyrimas
+1. Jeigu
+gamtinių dujų įmonė įrodo, kad ji atitinka šio įstatymo ketvirtojo ir aštuntojo
+skirsnių reikalavimus, išduodant perdavimo sistemos operatoriaus licenciją, ta
+gamtinių dujų įmonė yra paskiriama perdavimo sistemos operatoriumi.
+2. Sprendimas
+dėl perdavimo sistemos operatoriaus paskyrimo ir licencijos išdavimo yra
+priimamas per keturių mėnesių laikotarpį nuo visų dokumentų, reikalingų
+licencijai išduoti, gavimo dienos. Jeigu Komisija nepriima jokio
+sprendimo iki šio laikotarpio pabaigos, laikoma, kad licencija yra išduota ir
+gamtinių dujų įmonė paskiriama perdavimo sistemos operatoriumi. 
+3. Priimdama
+sprendimą, Komisija atsižvelgia į Europos Komisijos poziciją, jeigu Europos
+Komisija ją pateikia. Jeigu Europos Komisija nepateikia nuomonės perdavimo
+sistemos operatoriaus paskyrimo klausimu, laikoma, kad ji neprieštarauja
+Komisijos sprendimui.
+4. Komisija
+ir Europos Komisija bet kuriuo procedūros metu gali prašyti, kad asmuo,
+siekiantis tapti perdavimo sistemos operatoriumi, pateiktų visą informaciją,
+svarbią sprendimui dėl perdavimo sistemos operatoriaus paskyrimo priimti. 
+5. Kiekvienas
+perdavimo sistemos operatorius Komisijai praneša apie visus planuojamus
+sandorius, kuriuos Komisijai gali reikėti įvertinti, siekiant nustatyti, ar
+perdavimo sistemos operatorius atitinka šio įstatymo ketvirtojo skirsnio
+reikalavimus.
+6.
+Komisija prižiūri, kad perdavimo sistemos operatorius visada atitiktų šio
+įstatymo ketvirtojo ir aštuntojo skirsnių reikalavimus. Komisija iš
+naujo įvertina perdavimo sistemos operatoriaus atitiktį šio įstatymo ketvirtojo
+skirsnio reikalavimams, kai:
+1)
+gaunamas perdavimo sistemos operatoriaus pranešimas pagal šio straipsnio
+5 dalį;
+2) sužino,
+kad dėl numatomo arba įvykusio teisių pasikeitimo arba poveikio perdavimo
+sistemos savininkams ar operatoriams gali arba galėjo būti pažeisti šio
+įstatymo ketvirtojo skirsnio reikalavimai;
+3) Europos
+Komisija kreipiasi į Komisiją prašydama įvertinti perdavimo
+sistemos operatoriaus atitiktį Europos Sąjungos teisės aktų reikalavimams.
+7.
+Nustačiusi, kad perdavimo sistemos operatorius nebeatitinka šio įstatymo
+aštuntojo skirsnio reikalavimų, Komisija gali skirti baudas, sudarančias iki 10
+procentų šios gamtinių dujų įmonės metinių pajamų, gaunamų iš perdavimo
+veiklos, laikinai apriboti tas asmens ar asmens dalyvių teises, kurių
+įgyvendinimas pažeidžia šio įstatymo aštuntojo skirsnio reikalavimus, ir
+įpareigoti šią gamtinių dujų įmonę per Komisijos nurodytą protingą laikotarpį
+pašalinti atsiradusius trūkumus. Baudos skiriamos ir diferencijuojamos
+Energetikos įstatymo nustatyta tvarka ir sąlygomis. Jeigu perdavimo sistemos
+operatorius per nurodytą protingą laikotarpį trūkumų nepašalina, Komisija
+pradeda naujo operatoriaus licencijavimo ir paskyrimo procedūrą.
+ 
+Pastaba.
+29 straipsnis įsigalioja 2013-03-03.
+29 straipsnis. Su trečiosiomis valstybėmis susijęs perdavimo
+sistemos operatoriaus paskyrimas 
+1.
+Jeigu perdavimo sistemos operatorius, kurį kontroliuoja asmuo ar asmenys iš
+trečiosios valstybės ar valstybių, prašo išduoti licenciją, Komisija apie tai
+praneša Europos Komisijai. Komisija informuoja Europos Komisiją ir apie visas
+kitas aplinkybes, kurių rezultatas būtų tas, kad asmuo ar asmenys iš trečiosios
+valstybės ar valstybių įgytų perdavimo sistemos ar perdavimo sistemos
+operatoriaus kontrolę. 
+2.
+Perdavimo sistemos operatorius praneša Komisijai apie visas aplinkybes, kurių
+rezultatas būtų tas, kad asmuo ar asmenys iš trečiosios valstybės ar valstybių
+įgytų perdavimo sistemos ar perdavimo sistemos operatoriaus kontrolę.
+3.
+Komisija, prieš priimdama sprendimą dėl licencijos išdavimo, gauna Europos
+Komisijos nuomonę, patvirtinančią, kad:
+1)
+tenkinami Europos Sąjungos teisės aktų reikalavimai dėl veiklų atskyrimo;
+2)
+išdavus licenciją, nekils pavojus Europos Sąjungoje vykstančiam energijos
+tiekimui.
+4. Komisija
+per du mėnesius nuo dienos, kai buvo gauta ar turėjo būti gauta, tačiau nebuvo
+pateikta, Europos Komisijos nuomonė, atsižvelgdama į Europos Komisijos
+poziciją, jeigu tokia buvo pateikta, priima galutinį sprendimą dėl perdavimo
+sistemos operatoriaus paskyrimo. Komisija paskiria operatorių, jeigu
+operatorius įrodo, kad:
+1)
+jis atitinka šio įstatymo ketvirtojo skirsnio reikalavimus;
+2)
+jo paskyrimas nesukelia pavojaus Lietuvos Respublikos arba kitos valstybės
+narės energijos tiekimui ir šio tiekimo saugumui;
+3)
+nepažeidžiami teisėti visuomenės saugumo interesai.
+5.
+Kartu su priimtu Komisijos sprendimu paskelbiama Europos Komisijos nuomonė,
+jeigu ji buvo pateikta. Jeigu Komisijos sprendimas skiriasi nuo Europos
+Komisijos nuomonės, Komisijos sprendime turi būti nurodomi tokio
+skirtumo motyvai.
+ 
+30
+straipsnis. Perdavimo sistemos operatoriaus statusas ir funkcijos
+1.
+Perdavimo sistemos operatoriai privalo turėti visus technologinius, finansinius
+ir vadybinius pajėgumus, kurie reikalingi gamtinių dujų perdavimo veiklai
+vykdyti, įskaitant kvalifikuotą personalą ir nuosavybės teise priklausančią ar
+kitais teisėtais pagrindais valdomą perdavimo sistemą. 
+2.
+Gamtinių dujų perdavimo veiklą, be šio įstatymo 26 straipsnyje išvardytų užduočių,
+sudaro:
+1)
+ryšių su trečiosiomis valstybėmis ir reguliavimo institucijomis palaikymas;
+2)
+aktyvi veikla Europos gamtinių dujų perdavimo sistemos operatorių tinkle
+(ENTSO-G);
+3)
+prieigos suteikimas trečiajai valstybei nediskriminuojant sistemos naudotojų ar
+tam tikrų sistemos naudotojų kategorijų ir tokios prieigos valdymas;
+4)
+visų su perdavimo sistema susijusių mokėjimų, įskaitant mokestį už prieigą,
+balansavimą ir papildomas paslaugas, rinkimas;
+5)
+saugios, veiksmingos ir ekonomiškos perdavimo sistemos eksploatavimas,
+priežiūra ir plėtojimas;
+6)
+investicijų planavimas užtikrinant ilgalaikį sistemos pajėgumą (įskaitant
+tarptautinius pajėgumus) tenkinti esamą ir prognozuojamą būsimą paklausą ir
+garantuojant tiekimo saugumą;
+7)
+regioninių kelių valstybių narių rinkų kūrimas arba palankesnių sąlygų
+liberalizavimo procesui sudarymas;
+8)
+kitos būtinos funkcijos saugiam ir patikimam gamtinių dujų transportavimui
+užtikrinti. 
+ 
+31 straipsnis. Perdavimo sistemos operatoriaus
+vykdoma tinklo plėtra ir įgaliojimai priimti sprendimus dėl investavimo
+1.
+Kiekvienais metais perdavimo sistemos operatorius, pasikonsultavęs su
+suinteresuotaisiais subjektais, Komisijai pateikia dešimties metų tinklo
+plėtros planą, kuris yra grindžiamas esama ir numatoma pasiūla bei paklausa.
+Tinklo plėtros plane nurodomos veiksmingos priemonės, skirtos sistemos pajėgumų
+pakankamumui ir tiekimo saugumui užtikrinti.
+2.
+Dešimties metų tinklo plėtros plane:
+1)
+rinkos dalyviams nurodoma svarbiausia perdavimo infrastruktūra, kurią reikia
+sukurti ar atnaujinti per artimiausius dešimt metų;
+2)
+nurodomos visos investicijos, dėl kurių jau priimtas sprendimas, ir nustatomos
+naujos investicijos, kurias reikės atlikti per artimiausius trejus metus; 
+3)
+nustatomas visų investicinių projektų terminas.
+3.
+Rengdamas dešimties metų tinklo plėtros planą, perdavimo sistemos operatorius
+daro pagrįstas prielaidas apie gamtinių dujų gavybos, tiekimo, vartojimo ir
+mainų su kitomis šalimis raidą, atsižvelgdamas į regioniniams kelių valstybių
+narių ir visos Europos Sąjungos tinklams skirtus investicijų planus, taip pat
+laikymo ir pakartotinio dujinimo SGD įrenginiams skirtus investicijų planus.
+4.
+Komisija dėl dešimties metų tinklo plėtros plano viešai konsultuojasi su visais
+esamais ar potencialiais sistemos naudotojais ir paskelbia konsultavimosi
+rezultatus.
+5.
+Komisija išnagrinėja, ar dešimties metų tinklo plėtros plane atsižvelgta į
+visus investavimo poreikius, kurie buvo nustatyti konsultavimosi metu, ir ar
+šis planas suderinamas su Europos Sąjungos dešimties metų tinklo plėtros planu.
+Jeigu iškyla abejonių dėl suderinamumo su Europos Sąjungos tinklo plėtros
+planu, Komisija konsultuojasi su Agentūra. Komisijos prašymu perdavimo sistemos
+operatorius privalo iš dalies pakeisti savo dešimties metų tinklo plėtros planą,
+jeigu jame neatsižvelgta į visus investavimo poreikius, kurie buvo nustatyti
+konsultavimosi metu, arba jeigu dešimties metų tinklo plėtros planas
+nesuderintas su Europos Sąjungos dešimties metų tinklo plėtros planu, arba
+jeigu plėtros planas neatitinka šio straipsnio 2 dalyje nustatytų dešimties
+metų tinklo plėtros plano turinio reikalavimų.
+6.
+Komisija atlieka dešimties metų tinklo plėtros plano įgyvendinimo stebėseną,
+jos vertinimą ir paskelbia gautus rezultatus. Dešimties metų tinklo plėtros
+plano nevykdantį perdavimo sistemos operatorių Komisija įpareigoja vykdyti
+dešimties metų tinklo plėtros planą ir gali skirti sankcijas Energetikos
+įstatymo nustatyta tvarka ir sąlygomis. 
+7.
+Tuo atveju, kai perdavimo sistemos operatorius dėl kitų ne nuo jo priklausančių
+svarbių priežasčių neatlieka investicijos, kuri pagal dešimties metų tinklo
+plėtros planą turėjo būti atlikta per artimiausius trejus metus, Komisija
+privalo imtis bent vienos iš toliau nurodytų priemonių tam, kad tokia
+investicija būtų atlikta, jeigu tokia investicija vis dar yra svarbi,
+atsižvelgdama į naujausią dešimties metų tinklo plėtros planą:
+1)
+reikalauti, kad perdavimo sistemos operatorius atliktų investiciją;
+2)
+dėl investicijos organizuoti konkursą, kuriame galėtų dalyvauti bet kurie investuotojai;
+
+3)
+įpareigoti perdavimo sistemos operatorių priimti sprendimą padidinti turimą
+kapitalą siekiant finansuoti reikiamas investicijas ir sudaryti sąlygas
+nepriklausomiems investuotojams dalyvauti kapitale.
+ 
+32
+straipsnis. Sistemos operatoriams taikomi konfidencialumo reikalavimai
+1.
+Nepažeisdamas teisės aktuose numatytų prievolių atskleisti informaciją,
+kiekvienas perdavimo, laikymo ir (arba) SGD sistemos operatorius privalo
+saugoti vykdydamas savo veiklą gautos informacijos, laikomos komercine (gamybine)
+ar profesine paslaptimi, konfidencialumą ir užtikrinti, kad komercinį pranašumą
+galinti suteikti informacija apie jų pačių veiklą nebūtų atskleista
+diskriminaciniu būdu. 
+2.
+Kai tas pats jungtinis operatorius vykdo perdavimo ir skirstymo veiklą, perdavimo
+sistemos operatoriui draudžiama naudotis bendromis tarnybomis su kitais įmonės
+padaliniais, išskyrus išimtinai administracines arba su informacinėmis
+technologijomis susijusias funkcijas atliekančius padalinius.
+3.
+Susijusioms įmonėms parduodant ar perkant gamtines dujas, perdavimo, laikymo ir
+(arba) SGD sistemos operatoriams draudžiama ne pagal paskirtį naudotis
+informacija, laikoma komercine (gamybine) ar profesine paslaptimi, kurią
+asmenys suteikė įgydami teisę naudotis sistema arba derėdamiesi dėl tokios
+teisės.
+4.
+Perdavimo, laikymo ir (arba) SGD sistemos operatoriai viešai savo interneto
+svetainėje skelbia informaciją, būtiną veiksmingai konkurencijai ir veiksmingam
+rinkos veikimui užtikrinti. Skelbtinos informacijos sąrašą nustato Komisija, atsižvelgdama
+į informacijos, laikomos komercine (gamybine) ar profesine paslaptimi,
+konfidencialumo apsaugą.
+ 
+33
+straipsnis. Perdavimo sistemos operatoriaus teisės 
+Perdavimo
+sistemos operatorius turi teisę: 
+1)
+gauti skirstymo sistemų operatorių, sistemos naudotojų ir vartotojų, kurių
+įrenginiai prijungti prie perdavimo tinklų, rodmenis ir kitą informaciją,
+reikalingą ilgalaikei plėtrai planuoti, balansavimo funkcijai ir kitoms
+pareigoms, nurodytoms šiame įstatyme, atlikti; 
+2)
+gauti iš perdavimo sistemos naudotojų informaciją, kuri reikalinga trečiajai
+valstybei naudotis perdavimo sistema;
+3)
+vadovaudamasis norminiais eksploatavimo dokumentais, nustatyti skirstymo
+sistemų ir vartotojų įrenginių, prijungtų prie perdavimo sistemos,
+funkcionavimo sąlygas, kurios užtikrintų perdavimo sistemos darbo saugumą,
+stabilumą ir patikimumą;
+4)
+siekdamas užtikrinti avarijų prevencijos priemonių ir avarijų prevencijos planų
+vykdymą, perdavimo sistemos darbo stabilumą ir patikimumą, reikalauti, kad visi
+rinkos dalyviai įgyvendintų būtinas avarijų prevencijos ir likvidavimo
+priemones;
+5)
+gavęs vartotojų, sistemų ar patalpų savininkų ar teisėtų valdytojų sutikimą,
+patekti į skirstymo sistemų, vartotojų teritorijas ir (ar) patalpas, kad
+įrengtų, prižiūrėtų ar keistų apskaitos prietaisus ar fiksuotų jų rodmenis;
+6) reikalauti
+iš sistemos naudotojų pateikti pakankamą prievolių įvykdymo užtikrinimą, kuriuo
+būtų užtikrintos būsimos ir (ar) esamos sistemos naudotojo prievolės nupirkti
+iš perdavimo sistemos operatoriaus suvartotas, tačiau iš tiekimo įmonės ar
+gamtinių dujų biržoje neįsigytas dujas ir atlyginti dėl to susidariusius
+nuostolius;
+7) teisės
+aktų nustatyta tvarka naudotis kitų perdavimo sistemos operatorių
+tinklu, jei tai būtina jų funkcijoms, įskaitant funkcijas, susijusias su
+tarpvalstybiniu perdavimu, atlikti.
+ 
+34
+straipsnis. Skirstymo sistemos operatorių užduotys
+1.
+Kiekvienas skirstymo sistemos operatorius yra atsakingas už ilgalaikį sistemos
+pajėgumą vykdyti pagrįstus gamtinių dujų skirstymo poreikius, ekonomiškai eksploatuojant,
+prižiūrint ir plėtojant saugią, patikimą ir veiksmingą sistemą, atsižvelgiant į
+aplinkos apsaugos reikalavimus ir energijos vartojimo efektyvumą.
+2.
+Bet kuriuo atveju skirstymo sistemos operatorius nediskriminuoja sistemos
+naudotojų ar sistemos naudotojų kategorijų, ypač su juo susijusių įmonių
+naudai.
+3.
+Kiekvienas skirstymo sistemos operatorius bet kuriam kitam skirstymo,
+perdavimo, SGD ir (arba) laikymo sistemos operatoriui pateikia pakankamai
+informacijos, kad užtikrintų reikalavimų dėl saugaus ir veiksmingo jungtinės
+sistemos eksploatavimo laikymąsi transportuojant ir laikant gamtines dujas.
+4.
+Kiekvienas skirstymo sistemos operatorius teikia sistemos naudotojams
+informaciją, kurios jiems reikia norint veiksmingai prisijungti prie sistemos ir
+naudotis ja.
+5.
+Jeigu skirstymo sistemos operatorius yra atsakingas už skirstymo sistemos
+subalansavimą ir šiuo tikslu priima taisykles, šios taisyklės turi būti
+objektyvios, skaidrios ir nediskriminacinės. Sąlygos, kuriomis skirstymo
+sistemos operatoriai teikia tokias paslaugas, įskaitant taisykles ir tarifus,
+nustatomos nediskriminaciniu išlaidas atspindinčiu būdu pagal Komisijos priimtą
+metodiką. Šios sąlygos paskelbiamos viešai skirstymo sistemos operatorių
+interneto svetainėse.
+ 
+35
+straipsnis. Skirstymo sistemos operatorių konfidencialumo įsipareigojimai
+1.
+Nepažeisdamas teisės aktų reikalavimų pateikti informaciją, kiekvienas
+skirstymo sistemos operatorius užtikrina verslo veiklos metu gautos
+informacijos, laikomos komercine (gamybine) ar profesine paslaptimi,
+konfidencialumą ir pasirūpina, kad komercinį pranašumą galinti suteikti
+informacija apie jo veiklą nebūtų atskleista diskriminaciniu būdu.
+2.
+Susijusioms įmonėms parduodant ar perkant gamtines dujas, skirstymo sistemos
+operatoriai nepiktnaudžiauja iš trečiųjų valstybių gauta informacija, laikoma
+komercine (gamybine) ar profesine paslaptimi, šioms suteikiant teisę naudotis
+sistema arba derantis dėl šios teisės.
+ 
+36
+straipsnis. Skirstymo sistemos operatoriaus teisės
+Skirstymo
+sistemos operatorius turi teisę: 
+1)
+iš sistemos naudotojų, vartotojų ar kitų dujų skirstymo įmonių, kurių
+įrenginiai prijungti prie skirstymo sistemos, ir perdavimo sistemos
+operatoriaus gauti dujų apskaitos prietaisų rodmenis ar kitą informaciją,
+reikalingą jų pareigoms ir funkcijoms, nustatytoms šiame įstatyme ir jo
+įgyvendinamuosiuose teisės aktuose, atlikti; 
+2)
+gavęs vartotojų, patalpų savininkų ar teisėtų valdytojų sutikimą, patekti į
+vartotojų teritorijas ir (ar) patalpas, kad įrengtų, prižiūrėtų ar keistų
+apskaitos prietaisus ar fiksuotų jų rodmenis;
+3)
+reikalauti iš esančių ir potencialių vartotojų informacijos, kuri reikalinga
+trečiajai valstybei naudotis skirstymo sistema.
+ 
+37 straipsnis. Perdavimo ir skirstymo sistemų
+operatorių vykdoma gamtinių dujų sistemų plėtra ir gamtinių dujų
+saugyklų, pakartotinio dujinimo SGD įrenginių ir naujų vartotojų prijungimas
+1.
+Perdavimo ir skirstymo sistemų operatoriai nustato ir, gavę Komisijos
+patvirtinimą, viešai savo interneto svetainėse paskelbia saugyklų, pakartotinio
+dujinimo SGD įrenginių ir vartotojų nediskriminacinio prijungimo prie perdavimo
+ir skirstymo sistemų skaidrias ir veiksmingas procedūras bei įkainius.
+2.
+Perdavimo sistemos operatorius neturi teisės atsisakyti prijungti naują
+saugyklą, pakartotinio dujinimo SGD įrenginį ar vartotoją, motyvuodamas turimų
+tinklo pajėgumų galimais apribojimais ateityje arba papildomomis išlaidomis,
+susijusiomis su būtinu pajėgumų didinimu. Perdavimo sistemos operatorius
+užtikrina naujos jungties pakankamą įeinamąjį ir išeinamąjį pajėgumą.
+3.
+Naujas perdavimo ar skirstymo sistemas nedujofikuotoje teritorijoje turi teisę
+įrengti asmenys, įgiję šią teisę konkurso būdu. Sistemų
+operatoriai, prie kurių sistemų prijungiamos naujos gamtinių dujų skirstymo
+sistemos, privalo prijungti šias sistemas. Sprendimą leisti įrengti naujas
+sistemas priima Komisija, vadovaudamasi Vyriausybės arba jos įgaliotos
+institucijos patvirtintomis naujų sistemų nedujofikuotoje (naujai
+dujofikuojamoje) teritorijoje įrengimo tvarkos taisyklėmis. Komisijos
+sprendimas leisti įrengti naujas perdavimo ar skirstymo sistemas yra privaloma
+sąlyga išduodant leidimą statyti šiuos objektus Lietuvos Respublikos statybos
+įstatymo nustatyta tvarka. 
+4.
+Perdavimo ar skirstymo sistemų operatoriai licencijoje nurodytoje teritorijoje
+privalo prijungti naujų vartotojų sistemas prie savo sistemų pagal Vyriausybės
+ar jos įgaliotos institucijos nustatytas taisykles. 
+5.
+Komisija parengia ir patvirtina prijungimo įkainių nustatymo metodiką. Komisija
+tvirtina naujų buitinių vartotojų sistemų prijungimo įkainius.
+6.
+Gamtinių dujų įmonė padengia ekonomiškai pagrįstas sistemos plėtros ir prie
+sistemos prijungiamų asmenų prijungimo išlaidas. Prie sistemos prijungiami
+asmenys padengia ekonomiškai pagrįstas prijungimo išlaidas viršijančias
+išlaidas. 
+7.
+Prijungimo prie esamų gamtinių dujų sistemų išlaidos negali būti pripažintos pagrįstomis,
+jeigu dėl jų padidėtų kainos esamiems sistemų naudotojams ir gamtinių dujų vartotojams. Naujai dujofikuojamoms teritorijoms
+atsipirkimo laikotarpiui gali būti nustatyta tokia gamtinių dujų perdavimo ir skirstymo kaina, kuri padengtų
+investicijas.
+ 
+38 straipsnis.
+Rinkos operatoriaus užduotys ir veikla
+1.
+Rinkos operatorius organizuoja prekybą gamtinėmis dujomis pagal Prekybos
+gamtinėmis dujomis taisykles ir administruoja atsiskaitymus tarp rinkos
+dalyvių.
+2. Rinkos
+operatoriaus veikloje patiriamoms gamtinių dujų rinkos administravimo ir
+susijusioms sąnaudoms padengti rinkos operatorius, suderinęs su Komisija,
+nustato prekybos gamtinių dujų biržoje įmokas. Tuo atveju, jeigu rinkos
+operatoriaus nustatytos įmokos nepadengia visų būtinų sąnaudų, likusį skirtumą
+rinkos operatoriui atlygina perdavimo sistemos operatorius. Nustatant perdavimo
+paslaugos viršutines kainos ribas, numatomos būtinos išlaidos, susijusios su
+gamtinių dujų rinkos administravimu.
+3.
+Rinkos operatorius pagal šio įstatymo 7 straipsnio 2 dalies
+2 punkte nurodytose taisyklėse nustatytą tvarką bendradarbiauja su
+Komisija ir nedelsdamas Komisijai pateikia su įtartinais prekybos gamtinėmis
+dujomis sandoriais susijusią informaciją ir bet kurią kitą aktualią
+informaciją, kuri būtų reikalinga gamtinių dujų biržos priežiūrai vykdyti, ypač
+apie licencijų ir (ar) leidimų turėtojams nustatytų veiklos sąlygų galimus
+pažeidimus.
+4. Rinkos
+operatorius, suderinęs su Komisija, turi teisę pavesti gamtinių dujų biržos
+techninio aptarnavimo ir (ar) organizavimo funkcijas teisės aktų nustatyta
+tvarka pasirinktam trečiajam asmeniui, jeigu tai yra pagrįstai reikalinga
+Lietuvos Respublikos gamtinių dujų rinkos integracijai ar bendrai gamtinių dujų
+rinkai sukurti. Tokiam trečiajam asmeniui pavedamos funkcijos, jų atlikimo
+tvarka ir sąlygos nustatomos rinkos operatoriaus ir trečiojo asmens sutartimi.
+Nepaisant trečiajam asmeniui pavestų funkcijų, rinkos operatorius ir toliau
+lieka tiesiogiai atsakingas už šiame įstatyme ir kituose teisės aktuose
+nustatytų licencijuojamos rinkos operatoriaus veiklos sąlygų tinkamą vykdymą.
+ 
+SEPTINTASIS
+SKIRSNIS
+GARANTINIS
+TIEKIMAS
+ 
+39
+straipsnis. Garantinis tiekimas 
+1.
+Kai tiekimo įmonė nevykdo prisiimtų įsipareigojimų tiekti gamtines dujas
+sutartomis su vartotojais sąlygomis arba kai tiekimo įmonei išduotos licencijos
+galiojimas yra sustabdomas ar panaikinamas, tokios tiekimo įmonės garantinis
+gamtinių dujų tiekimas vartotojams užtikrinamas šiame straipsnyje nustatyta
+tvarka ir sąlygomis.
+2.
+Garantinis tiekimas užtikrinamas buitiniams vartotojams ir nebuitiniams
+vartotojams, kurie per metus suvartoja iki 20 000 kubinių metrų
+gamtinių dujų.
+3.
+Skirstymo sistemos operatorius privalo užtikrinti garantinį tiekimą
+vartotojams, esantiems jam išduotoje skirstymo licencijoje nustatytoje
+teritorijoje.
+4.
+Garantinio tiekimo dujų kaina apskaičiuojama ribinių sąnaudų metodu. Garantinio
+tiekimo dujų kainą sudaro gamtinių dujų įsigijimo kaina ir garantinio tiekimo paslaugos
+kaina, į kurią įskaičiuojamos garantinio tiekimo veiklos sąnaudos ir garantinio
+tiekimo rizikos premija, kuri nustatoma pagal šio įstatymo 9 straipsnio 3
+dalyje nurodytą skaičiavimo metodiką.
+5.
+Garantinį tiekimą vykdanti gamtinių dujų įmonė privalo sudaryti visas
+reikalingas sutartis su sistemų operatoriais ir yra atsakinga už gamtinių dujų
+patiekimą iki vartotojų sistemų.
+6.
+Garantinis tiekimas šio straipsnio 2 dalyje nurodytiems vartotojams vykdomas
+laikantis šių sąlygų:
+1)
+gamtinių dujų tiekimas vykdomas tomis pačiomis sąlygomis, kurios yra numatytos
+vartotojų sutartyse su dujų tiekimo nebevykdančiu ankstesniu tiekėju, išskyrus
+gamtinių dujų kainą. Ankstesnis tiekėjas privalo nedelsdamas perduoti garantinį
+tiekimą vykdančiai gamtinių dujų įmonei su vartotojų sutartimis susijusią
+garantiniam tiekimui vykdyti reikalingą informaciją. Vartotojai, turėdami
+santykių su garantinį tiekimą vykdančia gamtinių dujų įmone, privalo laikytis
+sutartyse su dujų tiekimo nebevykdančiu ankstesniu tiekėju numatytų sąlygų ir
+apmokėjimo už paslaugas tvarkos iki to momento, kol sudaro sutartį su dujų
+įmone, vykdančia garantinį tiekimą;
+2)
+vartotojams taikoma garantinio tiekimo gamtinių dujų kaina nustatoma pagal šio
+straipsnio 4 dalies reikalavimus ir kartu su šia kaina nenustatomi jokie
+papildomi mokėjimai, išskyrus atsiskaitymus už dujų perdavimą, skirstymą ir
+įstatymų nustatytus mokesčius;
+3)
+pradėjus teikti garantinio tiekimo paslaugą, vartotojas ne vėliau kaip per 3
+savaites nuo garantinį tiekimą vykdančios gamtinių dujų įmonės rašytinio
+pranešimo apie teikiamą paslaugą gavimo dienos sudaro sutartį su garantinį
+tiekimą vykdančia gamtinių dujų įmone. Jeigu vartotojas sutarties nesudaro,
+garantinį tiekimą vykdanti gamtinių dujų įmonė įgyja teisę nutraukti gamtinių dujų
+tiekimą vartotojui ar jo objektams;
+4)
+garantinis tiekimas visą vartotojui nustatytą laikotarpį privalo būti vykdomas
+nepertraukiamai, jeigu vartotojas tinkamai vykdo šiame įstatyme ir kituose
+teisės aktuose, taip pat su garantinį tiekimą vykdančia gamtinių dujų įmone
+sudarytose sutartyse nustatytus įsipareigojimus;
+5)
+garantinis tiekimas vartotojui užtikrinamas ne ilgesniam kaip 6 mėnesių
+laikotarpiui, kuriam pasibaigus, garantinį tiekimą vykdanti gamtinių dujų įmonė
+įgyja teisę nutraukti gamtinių dujų tiekimą vartotojui ar jo objektams. Nepriklausomai
+nuo garantinio tiekimo, vartotojas turi teisę nevaržomai bet kuriuo metu
+sudaryti sutartį su kita tiekimo įmone ir nutraukti sutartį su garantinį
+tiekimą vykdančia gamtinių dujų įmone, ne vėliau kaip prieš 3 savaites raštu
+informavęs apie planuojamą sutarties nutraukimą;
+6)
+jeigu vartotojas, kuriam buvo suteikta garantinio tiekimo paslauga, per šios
+dalies 3 punkte nustatytą terminą nesudaro sutarties su garantinį tiekimą
+vykdančia gamtinių dujų įmone ir pasirenka kitą tiekimo įmonę, vartotojas
+privalo sumokėti gamtinių dujų įmonei, vykdančiai garantinį tiekimą, už
+suvartotas gamtines dujas pagal šios gamtinių dujų įmonės pateiktą mokėjimo
+dokumentą.
+7.
+Garantinį tiekimą vykdanti gamtinių dujų įmonė privalo atskirai tvarkyti
+garantinio tiekimo veiklos apskaitą.
+ 
+AŠTUNTASIS
+SKIRSNIS
+VEIKLŲ
+IR APSKAITOS ATSKYRIMAS
+ 
+40
+straipsnis. Atskiriamos veiklos
+1.
+Lietuvos Respublikoje vykdoma gamtinių dujų perdavimo veikla privalo būti
+atskirta nuo gamtinių dujų gavybos veiklos ir tiekimo veiklos, atskiriant
+perdavimo sistemos ir (arba) perdavimo sistemos operatoriaus nuosavybę nuo
+gavybos ir (arba) tiekimo veiklą vykdančių gamtinių dujų įmonių.
+2.
+Sprendimus dėl turto, kuris reikalingas sistemai eksploatuoti, prižiūrėti ar
+plėtoti, panaudojimo savarankiškai priima perdavimo, laikymo, skirstymo ar SGD
+sistemos operatorius. 
+3.
+Šio straipsnio 1 ir 2 dalių reikalavimai netaikomi integruotai gamtinių dujų
+įmonei, skirstančiai ir (arba) tiekiančiai gamtines dujas mažiau kaip 100
+tūkstančių vartotojų.
+ 
+41
+straipsnis. Neleistina kontrolė
+1.
+Tas pats asmuo ar asmenys neturi teisės:
+1)
+tiesiogiai arba netiesiogiai kontroliuoti įmonės, vykdančios gavybos ar tiekimo
+veiklą, ir tiesiogiai arba netiesiogiai kontroliuoti perdavimo sistemos
+operatoriaus ar pačios perdavimo sistemos arba įgyvendinti kontrolės ar valdymo
+teises perdavimo sistemos operatoriaus arba perdavimo sistemos atžvilgiu;
+2)
+tiesiogiai arba netiesiogiai kontroliuoti perdavimo sistemos operatoriaus ar
+perdavimo sistemos ir tiesiogiai arba netiesiogiai kontroliuoti įmonės,
+vykdančios gavybos ar tiekimo veiklą, arba įgyvendinti kontrolės ar valdymo
+teises tokios įmonės atžvilgiu;
+3)
+skirti perdavimo sistemos operatoriaus stebėtojų tarybos, valdybos arba įmonei
+atstovaujančių organų narius ir tiesiogiai arba netiesiogiai kontroliuoti
+įmonę, vykdančią gavybos ar tiekimo veiklą, arba turėti kontrolės ar valdymo
+teisių tokios įmonės atžvilgiu.
+2.
+Įmonė, atliekanti kurią nors iš gamtinių dujų gavybos ar tiekimo funkcijų bet
+kurioje kitoje valstybėje, kurios gamtinių dujų perdavimo sistema yra sujungta
+su Lietuvos Respublikos gamtinių dujų perdavimo sistema, neturi teisės
+tiesiogiai ar netiesiogiai kontroliuoti perdavimo sistemos operatoriaus ar
+turėti kokių nors kitų teisių jo atžvilgiu.
+3.
+Šio straipsnio 1 dalies 1 ir 2 punktuose nurodytos įmonės,
+atliekančios kurią nors iš gavybos ar tiekimo funkcijų, apima įmones,
+atliekančias kurią nors iš gamtinių dujų gavybos ar tiekimo ir elektros gamybos
+ar tiekimo funkcijų. Atitinkamai šio straipsnio 1 dalies 1 ir 2 punktuose
+nurodyti perdavimo sistemos operatoriai ir pačios perdavimo sistemos apima tiek
+gamtinių dujų, tiek elektros perdavimo sistemos operatorius ir perdavimo
+sistemas. 
+4.
+Šio straipsnio 1 ir 2 dalyse nurodytos teisės visų pirma apima:
+1) įgaliojimus
+naudotis balsavimo teisėmis;
+2) įgaliojimus
+skirti priežiūros organų, valdymo organų ir kito įmonei atstovaujančio organo
+narius;
+3) kontrolinio
+akcijų paketo valdymą ir disponavimą juo.
+5.
+Tuo atveju, jeigu šio straipsnio 1 dalyje ir šio įstatymo 42 straipsnyje
+nurodytas asmuo yra valstybė narė ar kitas viešasis subjektas, du atskiri
+viešieji subjektai, kontroliuojantys perdavimo sistemos operatorių ar perdavimo
+sistemą ir įmonę, atliekančią kurią nors iš gavybos ar tiekimo funkcijų, nėra
+laikomi tuo pačiu asmeniu ar asmenimis.
+ 
+42
+straipsnis. Gamtinių dujų įmonių
+organų nariai 
+Tas
+pats asmuo neturi teisės būti ir įmonės, vykdančios gavybos ar tiekimo veiklą,
+ir perdavimo sistemos operatoriaus stebėtojų tarybos, valdymo organo arba kito
+įmonei atstovaujančio organo nariu ar šių bendrovių vienasmeniu vadovu.
+ 
+ 
+43
+straipsnis. Skirstymo sistemos operatorių veiklos rūšių atskyrimas
+1.
+Kai skirstymo sistemos operatorius yra vertikaliai integruotos įmonės dalis
+(padalinys), jis savo teisine forma, organizacine struktūra ir priimdamas
+sprendimus turi būti nepriklausomas nuo kitų veiklos rūšių, nesusijusių su
+skirstymu. Ši nuostata nereiškia pareigos skirstymo sistemos turto nuosavybę
+atskirti nuo vertikaliai integruotos įmonės.
+2.
+Užtikrinant skirstymo sistemos operatoriaus nepriklausomumą, taikomi šie
+reikalavimai:
+1)
+skirstymo sistemos operatoriaus valdymo organų nariai negali dalyvauti
+integruotos gamtinių dujų įmonės, tiesiogiai ar netiesiogiai atsakingos už
+gamtinių dujų gavybos, perdavimo ir tiekimo kasdienį organizavimą, valdymo
+organuose;
+2)
+būtina imtis tinkamų priemonių siekiant užtikrinti, kad į skirstymo sistemos
+operatoriaus valdymo organų narių profesinius interesus būtų atsižvelgiama
+taip, kad jie galėtų veikti nepriklausomai;
+3)
+skirstymo sistemos operatorius turi turėti faktines teises nepriklausomai nuo
+integruotos gamtinių dujų įmonės priimti sprendimus, susijusius su turtu,
+reikalingu sistemai eksploatuoti, prižiūrėti ar plėtoti. Šioms užduotims
+atlikti skirstymo sistemos operatorius turi turėti būtinus išteklius, įskaitant
+technologinius, finansinius ir vadybinius pajėgumus;
+4)
+skirstymo sistemos operatorius, vadovaudamasis Komisijos patvirtintais
+standartiniais reikalavimais, turi parengti atitikties programą, kurioje nurodomos
+taikytinos priemonės siekiant išvengti diskriminacinio elgesio, ir užtikrinti
+tinkamą jos įgyvendinimo stebėseną. Atitikties programoje nustatomos konkrečios
+darbuotojų pareigos šiems tikslams pasiekti. 
+3.
+Komisija stebi ir kontroliuoja, kad skirstymo sistemos operatorius, esantis
+vertikaliai integruotos įmonės dalis (padalinys), negalėtų pasinaudoti
+vertikalios integracijos pranašumu konkurencijai iškraipyti. Vertikaliai
+integruoti skirstymo sistemos operatoriai, teikdami informaciją ir kurdami prekės
+ženklą, turi atskleisti, kad tiekimo veiklą vykdo vertikaliai integruotos
+įmonės dalis (padalinys).
+4.
+Šio straipsnio 1 dalis nedraudžia integruotai gamtinių dujų įmonei vykdyti
+perdavimo, skystinimo, laikymo ir skirstymo veiklą, jeigu laikomasi šio įstatymo
+40 straipsnio 1 dalies reikalavimų.
+ 
+ 
+44
+straipsnis. Gamtinių dujų įmonių
+apskaitos atskyrimas ir viešumas
+1.
+Gamtinių dujų įmonės kiekvienos gamtinių dujų veiklos (perdavimo, skystinimo,
+skirstymo, laikymo, tiekimo nebuitiniams ir buitiniams vartotojams) apskaitą
+tvarko atskirai. Atskirai tvarkoma ir su gamtinių dujų veikla nesusijusios
+veiklos rūšių apskaita. Gamtinių
+dujų įmonės savo metines finansines ataskaitas parengia, pateikia
+nepriklausomam auditui ir paskelbia Lietuvos Respublikos akcinių bendrovių
+įstatyme ir Lietuvos Respublikos buhalterinės apskaitos įstatyme nustatyta
+tvarka ir sąlygomis.
+2.
+Komisija nustato standartines gamtinių
+dujų įmonių apskaitos atskyrimo taisykles ir su apskaitos atskyrimu susijusius
+reikalavimus, įskaitant reikalavimą atlikti nepriklausomą auditą.
+3.
+Atskirų veiklos rūšių apskaita tvarkoma taip, kaip ji turėtų būti tvarkoma,
+jeigu šių rūšių veikla verstųsi atskiros įmonės su joms priskirtu turtu. 
+4.
+Valstybės institucijos, įstatymų nustatyta tvarka atlikdamos joms pavestas
+įmonių veiklos priežiūros funkcijas, turi teisę susipažinti su gamtinių dujų
+įmonių apskaitos dokumentais, tačiau privalo saugoti gamtinių dujų įmonės
+pateiktą konfidencialią informaciją.
+5.
+Gamtinių dujų įmonių metinės finansinės ataskaitos turi būti patikrintos
+nepriklausomo audito. Auditoriai išvadas teikia Komisijai. Gamtinių dujų įmonės
+metinėse finansinėse ataskaitose turi pateikti informaciją apie vieno milijono
+litų ir didesnės vertės sandorius, sudarytus su susijusiomis įmonėmis.
+ 
+ 
+DEVINTASIS
+SKIRSNIS
+GAMTINIŲ
+DUJŲ SEKTORIAUS PATIKIMUMAS
+ 
+45
+straipsnis. Atsakomybė už gamtinių dujų tiekimo saugumo užtikrinimą
+1.
+Už gamtinių dujų tiekimo saugumo užtikrinimą pagal savo kompetenciją bendrai
+atsako gamtinių dujų įmonės, nebuitiniai vartotojai, Vyriausybė, Energetikos
+ministerija, Komisija, atlikdami užduotis, susijusias su gamtinių dujų tiekimo
+saugumą užtikrinančių priemonių įgyvendinimu. 
+2.
+Vyriausybė nustato konkrečias saugumą užtikrinančias priemones, kurių
+įgyvendinimas Komisijai, gamtinių dujų įmonėms ir vartotojams yra privalomas.
+Priemonės turi apimti minimalius dujų tiekimo patikimumo reikalavimus,
+pažeidžiamų vartotojų apibrėžimą, dujų tiekimo prioritetus dujų tiekimo
+sutrikimo atveju, dujų tiekimo kontrolės ir finansavimo tvarką, jos turi būti
+nediskriminuojančios, aiškios ir paskelbtos teisės aktų nustatyta tvarka. Su
+gamtinių dujų tiekimo saugumą užtikrinančių priemonių įgyvendinimu susijusių
+dalyvių funkcijas ir atsakomybę Vyriausybė nustato taip, kad visų pirma veiksmų
+turėtų imtis gamtinių dujų įmonės ir nebuitiniai dujų vartotojai, o po to – valstybės
+ir Europos Sąjungos institucijos.
+3.
+Energetikos ministerija yra kompetentinga institucija, užtikrinanti gamtinių
+dujų tiekimo saugumą užtikrinančių priemonių įgyvendinimą Lietuvos
+Respublikoje.
+4.
+Energetikos ministerija gamtinių dujų tiekimo saugumo užtikrinimo srityje,
+atlikdama užduotis, susijusias su gamtinių dujų tiekimo saugumą užtikrinančių
+priemonių įgyvendinimu, užtikrina: 
+1)
+gamtinių dujų tiekimo sutrikimų rizikos vertinimo atlikimą;
+2)
+nacionalinio lygmens prevencinio ir ekstremaliųjų situacijų valdymo planų
+rengimą;
+3)
+esant susitarimų su kitomis valstybėmis narėmis, regioninio lygmens gamtinių
+dujų tiekimo sutrikimų rizikos vertinimo atlikimą;
+4)
+esant susitarimų su kitomis valstybėmis narėmis, regioninio lygmens prevencinio
+ir ekstremaliųjų situacijų valdymo planų rengimą;
+5)
+nuolatinę nacionalinio lygmens gamtinių dujų tiekimo saugumo stebėseną;
+6)
+infrastruktūros standarto įgyvendinimą;
+7)
+tiekimo standarto įgyvendinimą;
+8)
+fizinio pajėgumo transportuoti gamtines dujas abiem (priešpriešinėmis)
+kryptimis įgyvendinimą;
+9)
+kitų šiame įstatyme ir kituose teisės aktuose nustatytų užduočių, susijusių su
+gamtinių dujų tiekimo saugumą užtikrinančių priemonių įgyvendinimu, atlikimą.
+5.
+Komisija gamtinių dujų tiekimo saugumo užtikrinimo srityje prižiūri:
+1)
+tiekimo įmonių gamtinių dujų atsargų kaupimą ir laikymą;
+2)
+pagrindines gamtinių dujų tiekimo sutarčių sąlygas dėl gamtinių dujų tiekimo
+patikimumo užtikrinimo tarp gamtinių dujų tiekimo įmonių ir vartotojų ir
+gamtinių dujų įmonių veiksmus dėl dujų tiekimo patikimumo užtikrinimo tarp
+gamtinių dujų įmonių ir galutinių vartotojų, naudojančių gamtines dujas
+energijai gaminti, kai ta energija parduodama ar naudojama visuomeniniams ar
+gyventojų poreikiams tenkinti;
+3)
+kitų šiame įstatyme ir kituose teisės aktuose nustatytų užduočių, susijusių su
+gamtinių dujų tiekimo saugumą užtikrinančių priemonių įgyvendinimu, atlikimą.
+6.
+Siekdami gamtinių dujų tiekimo saugumo užtikrinimo, šio straipsnio
+1 dalyje nurodyti dalyviai tarpusavyje bendradarbiauja rengiant gamtinių
+dujų tiekimo sutrikimų rizikos vertinimą, rengiant nacionalinio ir regioninio
+lygmens prevencinių ir ekstremaliųjų situacijų valdymo planus, įgyvendinant
+infrastruktūros ir tiekimo standartus ir fizinį pajėgumą transportuoti gamtines
+dujas tarpvalstybinėmis jungtimis abiem (priešpriešinėmis) kryptimis.
+ 
+46
+straipsnis. Gamtinių dujų tiekimo
+saugumą užtikrinančios priemonės 
+1. Gamtinių dujų įmonės privalo
+būti nuolat pasirengusios veikti galimo dujų tiekimo sutrikimo atveju ir
+įgyvendinti nacionalinį prevencinį planą gamtinių dujų tiekimo
+patikimumui ir techninei gamtinių dujų sistemų saugai užtikrinti. Dujų tiekimo
+sutrikimo atveju ar sumažėjus gamtinių dujų tiekimui, kilus
+grėsmei sistemų saugumui, įvykus avarijai, iškilus grėsmei žmonių sveikatai ar
+saugumui, gamtinių dujų įmonės privalo įgyvendinti nacionalinį
+ekstremaliųjų situacijų valdymo planą ir nedelsdamos imtis visų pagrįstų
+priemonių gamtinių dujų tiekimo patikimumui ir techninei gamtinių dujų sistemų saugai užtikrinti. Šios priemonės turi būti
+pagrįstos ir proporcingos. Gamtinių dujų įmonės apie taikomas
+prevencines ir ekstremaliųjų situacijų valdymo priemones praneša Energetikos
+ministerijai. Gamtinių dujų tiekimo sutrikimo ar nutraukimo atveju
+vartotojams gamtinių dujų tiekimą užtikrina tiekimo įmonė,
+kuri tiekė gamtines dujas prieš gamtinių dujų tiekimo
+apribojimą ar nutraukimą.
+2.
+Gamtinių dujų įmonės ir vartotojai, kurie turi didesnės kaip 5
+MW galios energijos gamybos objektų, privalo planuoti būsimą gamtinių
+dujų paklausą, gamtinių dujų sistemų pajėgumą. Gamtinių dujų įmonės privalo planuoti gamtinių dujų
+sistemų techninės būklės lygį, priemones, kaip patenkinti paklausą, kai ji yra
+didžiausia, spręsti gamtinių dujų trūkumo problemas, kylančias
+dėl vienos ar kelių gamtinių dujų tiekimo įmonių kaltės. Gamtinių
+dujų įmonės ne vėliau kaip iki kiekvienų metų gegužės 1 dienos parengia
+saugumo užtikrinimo ataskaitas ir pateikia jas Energetikos ministerijai.
+3.
+Dujų tiekimo sutrikimo atveju ar sumažėjus gamtinių dujų tiekimui, Vyriausybė
+ar jos įgaliota institucija turi teisę pagal nacionalinį ekstremaliųjų
+situacijų valdymo planą nustatyti reikalavimą gamtinių dujų įmonėms ir
+nebuitiniams vartotojams naudotis gamtinių dujų saugyklomis ir šio reikalavimo
+sąlygas. Gamtinių dujų atsargos gali būti tiekiamos iš valstybių narių
+teritorijoje esančių gamtinių dujų saugyklų.
+4.
+Nebuitiniai vartotojai, kurie naudoja gamtines dujas energijai gaminti, kai ta
+energija parduodama ar naudojama visuomeniniams ar gyventojų poreikiams
+tenkinti, privalo turėti vieno mėnesio energijos išteklių rezervo atsargas.
+Energijos išteklių rezervo atsargų rūšį pasirenka patys vartotojai.
+5.
+Buitinių vartotojų nenutrūkstamo gamtinių dujų tiekimo saugumo išlaidos
+įtraukiamos apskaičiuojant gamtinių dujų tiekimo kainą kaip atskira tiekimo
+kainos dalis. Nebuitiniai vartotojai pagal sutartis nenutrūkstamo gamtinių dujų
+tiekimo saugumo išlaidas padengia savo lėšomis.
+6.
+Energetikos ministerija teikia informaciją apie gamtinių dujų
+saugumo užtikrinimo priemones Europos Komisijai ir kitoms Europos
+Sąjungos valstybėms narėms bei kiekvienais metais ne vėliau kaip iki liepos 31
+dienos parengia ir paskelbia apibendrintą gamtinių dujų tiekimo saugumo
+stebėsenos ataskaitą ir pateikia ją Europos Komisijai.
+7.
+Energetikos ministerija rengia ir viešai ministerijos interneto svetainėje
+paskelbia prevencinius ir ekstremaliųjų situacijų valdymo planus ir užtikrina
+nuolatinę jų įgyvendinimo stebėseną. Apie parengtus prevencinius ir
+ekstremaliųjų situacijų valdymo planus ir jų atnaujinimus Energetikos
+ministerija nedelsdama praneša Europos Komisijai. Vyriausybei paskelbus
+ekstremaliąją situaciją gamtinių dujų sektoriuje, gamtinių dujų įmonės,
+Vyriausybė, Energetikos ministerija, Komisija imasi iš anksto nustatytų
+veiksmų, apibūdintų ekstremaliųjų situacijų valdymo plane, ir nedelsdamos apie
+tai pranešama Europos Komisijai ir kitoms valstybėms narėms. Paskelbus
+ekstremaliąją situaciją gamtinių dujų sektoriuje, Vyriausybė su prašymu
+kreipiasi į Europos Komisiją ir Europos Komisijai atlikus patikrinimus gali
+būti paskelbta regioninio lygmens arba Europos Sąjungos lygmens ekstremalioji
+situacija gamtinių dujų sektoriuje. 
+ 
+47
+straipsnis. Gamtinių dujų atsargų
+kaupimas
+1.
+Siekiant patikimo gamtinių dujų tiekimo Lietuvos Respublikoje, gamtinių dujų
+tiekėjai privalo, o nebuitiniai vartotojai turi teisę kaupti gamtinių dujų
+atsargas, kurios gali būti panaudojamos tik laikantis
+Vyriausybės ar jos įgaliotos institucijos
+nustatytos tvarkos. 
+2. Gamtinių dujų tiekimo įmonės ir nebuitiniai vartotojai gamtinių dujų atsargas kaupia sudarydami sutartis su gamtinių dujų
+laikymo įmonėmis, registruotomis, veikiančiomis ir turinčiomis saugyklas bet
+kurioje valstybėje narėje, gamtinių dujų
+perdavimo sistema sujungtoje su Lietuvos Respublika. Gamtinių dujų tiekimo
+įmonės gamtinių dujų atsargas gali kaupti ir pačios. 
+3. Vyriausybė
+ar jos įgaliota institucija, atsižvelgdama į vidutinį
+buitinių vartotojų ir
+nebuitinių vartotojų, kurie per metus suvartoja iki 20 000 kubinių
+metrų gamtinių dujų, gamtinių dujų
+suvartojimą šaltuoju periodu ir į būtinybę užtikrinti nepertraukiamą gamtinių
+dujų tiekimą, nustato gamtinių dujų tiekėjams
+privalomą sukaupti gamtinių dujų kiekį ir šio kiekio sukaupimo terminus. 
+4. Gamtinių dujų atsargų kaupimo išlaidų įtraukimo į gamtinių dujų tiekimo sąnaudas metodiką patvirtina Komisija. 
+5. Jeigu nebuitiniai vartotojai nusprendžia kaupti gamtinių dujų
+atsargas arba jeigu šie vartotojai negali pakeisti gamtinių dujų kita kuro
+rūšimi, jie privalo turėti Vyriausybės ar jos įgaliotos institucijos nustatyto laikotarpio poreikį tenkinančias gamtinių dujų
+atsargas arba sudaryti sutartį su tiekimo įmone, turinčia gamtinių dujų
+atsargų.
+ 
+48 straipsnis. Gamtinių dujų
+perdavimo sistemos sujungimas su Europos Sąjungos gamtinių dujų
+perdavimo sistemomis 
+1.
+Vyriausybė arba jos įgaliota institucija turi teisę priimti sprendimus dėl
+dujotiekio, gamtinių dujų saugyklos ir SGD įrenginių, reikalingų saugumui
+užtikrinti, įrengimo, išplėtimo ir finansavimo. Dujų įmonės tokius sprendimus
+privalo įgyvendinti, o Komisija prižiūri tokių sprendimų įgyvendinimą.
+2. Lietuvos
+Respublikos gamtinių dujų perdavimo sistemos sujungimo su Europos Sąjungos
+gamtinių dujų sistemomis projekto sąnaudų įtraukimo į perdavimo sistemos
+paslaugų teikimo sąnaudas metodiką patvirtina Komisija.
+ 
+ 
+DEŠIMTASIS
+SKIRSNIS
+PRIEIGOS PRIE
+SISTEMOS ORGANIZAVIMAS
+ 
+49
+straipsnis. Teisė naudotis sistema
+1.
+Komisija ir sistemų operatoriai užtikrina galimybę asmenims naudotis perdavimo
+ir skirstymo sistema ir SGD įrenginiais paskelbtomis ir taikomomis visiems
+vartotojams kainomis, įskaitant tiekimo įmones, ir objektyvų šios sistemos
+taikymą nediskriminuojant sistemos naudotojų. Sistemų operatoriai užtikrina,
+kad šios kainos ir jų apskaičiavimo metodai būtų paremti Komisijos metodika. Ši
+metodika teisės aktų nustatyta tvarka paskelbiama iki jos įsigaliojimo.
+2.
+Sistemų operatoriai vartotojams, gamtinių dujų įmonėms ir asmenims,
+transportuojantiems gamtines dujas tranzitu, suteikia teisę pagal sutartis
+naudotis sistema.
+3.
+Sistemų operatoriai, vadovaudamiesi Komisijos paskelbtais reikalavimais,
+patvirtina naudojimosi sistema taisykles. Ne vėliau kaip prieš vieną mėnesį iki
+naudojimosi sistema taisyklių įsigaliojimo momento šias taisykles ir jų pakeitimus
+savo interneto svetainėje paskelbia Komisija ir sistemų operatoriai. Teisė
+naudotis sistemomis turi būti suteikiama objektyviai, nediskriminuojant
+sistemos naudotojų.
+4.
+Komisija turi teisę reikalauti, kad sistemos operatorius pakeistų patvirtintas
+naudojimosi sistema taisykles taip, kad jos atitiktų Komisijos paskelbtus
+reikalavimus.
+5.
+Šio įstatymo nuostatos nedraudžia sistemų valdytojams (operatoriams) ir jų
+naudotojams sudaryti ilgalaikių sutarčių dėl prieigos prie sistemos, jeigu jos
+neprieštarauja Europos Sąjungos konkurencijos taisyklėms.
+ 
+50
+straipsnis. Teisė naudotis saugyklomis
+1.
+Suteikiant teisę asmenims naudotis gamtinių dujų įmonių saugyklomis ir gamtinių
+dujų laikymo vamzdynuose paslaugomis, kai tai yra būtina dėl techninių ir
+(arba) ekonominių priežasčių, norint užtikrinti teisę veiksmingai naudotis
+tiekimo vartotojams sistema, ir suteikiant teisę naudotis papildomomis
+paslaugomis, Komisija gali nuspręsti taikyti kurį nors vieną arba abu šio
+straipsnio 4 ir 5 dalyse nurodytus būdus. Šios procedūros įgyvendinamos
+laikantis objektyvių, skaidrių ir nediskriminacinių kriterijų.
+2.
+Komisija apibrėžia ir paskelbia kriterijus, pagal kuriuos galima nustatyti,
+kuris teisės naudotis saugyklomis ir gamtinių dujų laikymo vamzdynuose
+paslaugomis būdas taikomas. Komisija paskelbia, kokios saugyklos ar tų saugyklų
+dalys ir atitinkamos gamtinių dujų laikymo vamzdyne paslaugos yra siūlomos
+pagal šio straipsnio 4 ir 5 dalyse nurodytus būdus.
+3.
+Šio straipsnio 1 dalies nuostatos netaikomos papildomoms ir laikinojo laikymo
+paslaugoms, kurios susijusios su SGD įrenginiais ir būtinos pakartotinio
+dujinimo procesui ir paskesniam pristatymui į perdavimo sistemą.
+4.
+Kai teisė naudotis saugykla, gamtinių dujų laikymo vamzdynuose paslaugomis ir
+kitomis papildomomis paslaugomis įgyvendinama derybų būdu, vartotojai ir
+sistemos naudotojai dėl sutarčių derasi su atitinkamu laikymo sistemos
+operatoriumi arba gamtinių dujų įmonėmis. Laikymo sistemos operatoriai ir
+gamtinių dujų įmonės kiekvienais metais paskelbia naudojimosi savo saugyklomis,
+gamtinių dujų laikymo vamzdynuose paslaugomis ir kitomis papildomomis
+paslaugomis pagrindines komercines sąlygas. Laikymo sistemos operatoriai ir
+gamtinių dujų įmonės šias sąlygas nustato pasikonsultavę su sistemos
+naudotojais. Šalys dėl teisės naudotis saugyklomis, gamtinių dujų laikymo
+vamzdynuose paslaugomis ir kitomis papildomomis paslaugomis privalo derėtis
+sąžiningai.
+5.
+Komisija imasi būtinų priemonių, kad gamtinių dujų įmonėms ir vartotojams būtų
+suteikta teisė naudotis saugyklomis, gamtinių dujų laikymo vamzdynuose
+paslaugomis ar kitomis papildomomis paslaugomis taikant iš anksto paskelbtus
+tarifus ir (arba) kitas naudojimosi šiomis saugyklomis ir gamtinių dujų laikymo
+vamzdynuose paslaugomis sąlygas ir pareigas. Komisija šiuos tarifus ir jų
+apskaičiavimo metodikas nustato, pasikonsultavusi su sistemos naudotojais. 
+ 
+51
+straipsnis. Teisė naudotis gavybos tinklais
+1.
+Komisija imasi būtinų priemonių, kad gamtinių dujų įmonės ir vartotojai,
+neatsižvelgiant į jų buvimo vietą, šiame straipsnyje nustatyta tvarka galėtų
+naudotis gavybos tinklais, įskaitant įrenginius, kuriais teikiamos tokiam
+naudojimuisi būtinos techninės paslaugos, išskyrus tokias tinklų ir įrenginių
+dalis, kurios naudojamos vietinei gavybos veiklai gamtinių dujų gavybos
+telkinio vietoje. Apie tokias taikomas priemones Komisija praneša Europos
+Komisijai.
+2.
+Šio straipsnio 1 dalyje nurodyta naudojimosi teisė suteikiama pagal Komisijos
+patvirtintą naudojimosi gavybos tinklais tvarkos aprašą. Naudojimosi gavybos
+tinklais tvarkos apraše nustatomi kriterijai, pagal kuriuos naudojimosi teisė
+suteikiama sąžiningai ir viešai, skatinant konkurencingą gamtinių dujų rinką ir
+išvengiant piktnaudžiavimo dominuojančia padėtimi, atsižvelgiant į tiekimo
+saugumą ir reguliarumą, turimus arba pagrįstai prieinamus pajėgumus ir aplinkos
+apsaugos reikalavimus.
+3.
+Komisija ginčus dėl naudojimosi gavybos tinklais sprendžia operatyviai ir
+vadovaudamasi Energetikos įstatymo ir kitų teisės aktų nustatyta tvarka.
+4.
+Kilus tarptautiniam ginčui, jo sprendimui taikoma valstybės narės, kurios
+jurisdikcijai priklauso gavybos tinklas, kuriuo atsisakoma leisti naudotis,
+arba tarptautiniuose susitarimuose numatyta teisė. Jei, kilus tarptautiniam
+ginčui, ginčijamas gavybos tinklas yra ne tik Lietuvos Respublikos, bet ir
+kitos valstybės narės teritorijoje, turi būti konsultuojamasi su atitinkama
+valstybe nare siekiant užtikrinti, kad Europos Sąjungos teisės aktų
+reikalavimai būtų taikomi nuosekliai.
+ 
+52
+straipsnis. Atsisakymas suteikti teisę naudotis sistema
+1.
+Gamtinių dujų įmonės, pateikdamos argumentuotus motyvus, gali atsisakyti
+suteikti teisę naudotis sistema, jeigu: 
+1)
+trūksta pajėgumų arba teisė naudotis sistema trukdytų joms vykdyti šiame
+įstatyme nurodytus viešųjų paslaugų teikimo įpareigojimus; 
+2)
+atsirado esminių ekonominių ir finansinių sunkumų, susijusių su sudarytų
+įsipareigojimo mokėti už nepaimtą gamtinių dujų kiekį sutarčių („imk arba
+mokėk“ sutarčių) vykdymu.
+2.
+Atsisakymas, grindžiamas įsipareigojimo mokėti už nepaimtą gamtinių dujų kiekį
+sutarčių („imk arba mokėk“ sutarčių) vykdymu, gali būti pripažintas tinkamu tik
+gavus Komisijos pritarimą.
+3.
+Gamtinių dujų įmonė, atsisakiusi patenkinti kitos gamtinių dujų įmonės ar
+vartotojo raštu pateiktą prašymą naudotis sistema gamtinėms dujoms transportuoti,
+apie šį savo sprendimą ir jo priežastis per 10 darbo dienų praneša Komisijai. 
+4.
+Komisija turi teisę įpareigoti gamtinių dujų įmonę suteikti teisę pasinaudoti
+sistema, jeigu nustato, kad gamtinių dujų įmonės atsisakymas yra nepagrįstas.
+5.
+Komisija turi teisę įpareigoti gamtinių dujų įmonę, atsisakiusią suteikti teisę
+naudotis sistema dėl pajėgumų ar jungčių trūkumo, atlikti būtinus ekonomiškai
+pagrįstus arba potencialaus vartotojo apmokamus patobulinimus.
+ 
+53
+straipsnis. Nauja infrastruktūra
+1.
+Gamtinių dujų įmonei, pateikusiai Vyriausybei arba jos įgaliotai institucijai
+prašymą įrengti naują stambią gamtinių dujų sistemą – tai yra įrenginius, kurie
+reikšmingai padidina gamtinių dujų sistemos pajėgumus arba leidžia plėtoti
+naujus gamtinių dujų tiekimo šaltinius, SGD įrenginius, saugyklas ar
+jungiamuosius vamzdynus, – Seimas Vyriausybės teikimu savo sprendimu gali
+leisti nustatytą laikotarpį, tačiau ne ilgiau negu iki dešimties metų,
+netaikyti šio įstatymo nuostatų, susijusių su veiklos rūšių atskyrimu, teise
+naudotis sistema, teise naudotis saugyklomis, teise naudotis gavybos tinklais,
+prijungimu ir prieiga prie nacionalinių sistemų, balansavimo paslaugų teikimu,
+prieiga prie tarpvalstybinių sistemų, energijos vartojimo efektyvumo didinimu,
+rinkos integracijos ir tiekimo saugumo skatinimu ir (arba) pareiga pakeisti
+netinkamas taikomas sąlygas, jeigu laikomasi šių sąlygų:
+1)
+investicija į naują stambią gamtinių dujų sistemą sukuria objektyvias galimybes
+skatinti gamtinių dujų tiekimo konkurenciją ir gerinti tiekimo saugumą;
+2)
+nesuteikus išimties, ši investicija objektyviai būtų negalima dėl jos rizikos;
+3)
+būsimas naujos stambios gamtinių dujų sistemos, išskyrus jungiamuosius
+vamzdynus, savininkas turi būti kitas asmuo, negu sistemos operatorius, kurių
+sistemose tą infrastruktūrą numatyta pastatyti;
+4)
+iš būsimų naujos stambios gamtinių dujų sistemos vartotojų turi būti imamas
+užmokestis už naudojimąsi šia sistema; 
+5)
+išimtis neturi kenkti konkurencijai ar veiksmingam gamtinių dujų vidaus rinkos
+funkcionavimui arba veiksmingam sistemos, su kuria ta infrastruktūra yra
+sujungta, funkcionavimui.
+2.
+Vyriausybė teikia Seimui priimti sprendimą dėl šio straipsnio 1 dalyje
+nurodytų išimčių taikymo. 
+3.
+Išimtį galima suteikti naujos infrastruktūros arba esamos infrastruktūros,
+kurios pajėgumas smarkiai padidėjo, visiems pajėgumams arba jų daliai.
+4.
+Priimant sprendimą suteikti išimtį, kiekvienu atskiru atveju atsižvelgiama į
+poreikį nustatyti sąlygas, susijusias su išimties galiojimo laikotarpiu ir
+nediskriminacine teise naudotis infrastruktūra. Nustatant šias sąlygas, visų
+pirma atsižvelgiama į planuojamus sukurti papildomus pajėgumus, esamų pajėgumų
+pakeitimus, projekto įgyvendinimo laikotarpį ir kitas reikšmingas aplinkybes.
+5.
+Sprendimas suteikti išimtį turi būti tinkamai pagrindžiamas ir paskelbiamas.
+6.
+Komisija nedelsdama perduoda Europos Komisijai kiekvieno Vyriausybei ar jos
+įgaliotai institucijai pateikto prašymo suteikti išimtį kopiją ir nedelsdama
+praneša apie sprendimą, kartu pateikdama visą svarbią su sprendimu susijusią
+informaciją. Komisija turi teisę šią informaciją pateikti apibendrintos formos,
+kad Europos Komisija galėtų priimti tinkamai pagrįstą sprendimą. Visų pirma
+pateikiama tokia informacija:
+1)
+išsamios priežastys, dėl kurių išimtis buvo suteikta arba buvo atsisakyta ją
+suteikti;
+2)
+išimties, jei ji būtų suteikta, poveikio konkurencijai ir veiksmingam gamtinių
+dujų vidaus rinkos funkcionavimui analizė;
+3)
+priežastys, į kurias atsižvelgiant buvo nustatyta išimties galiojimo trukmė ir
+visų gamtinių dujų sistemos pajėgumų dalis, kuriai suteikiama išimtis;
+4)
+kai išimtis susijusi su jungiamuoju vamzdynu, – konsultacijų su valstybių narių
+reguliavimo institucijomis rezultatai; 
+5)
+informacija apie tai, kaip infrastruktūra pasitarnaus įvairinant gamtinių dujų
+tiekimo šaltinius.
+7.
+Sprendimas suteikti išimtį netenka galios po dvejų metų nuo jo priėmimo, jeigu
+iki to laiko nepradedama infrastruktūros statyba, ir po penkerių metų nuo jo
+priėmimo, jeigu iki to laiko infrastruktūra nepradedama eksploatuoti, nebent
+Vyriausybė ar jos įgaliota institucija nuspręstų, kad vėluojama dėl kliūčių,
+kurių asmuo, kuriam suteikta išimtis, negali kontroliuoti.
+ 
+54
+straipsnis. Vietinė
+bendrojo naudojimo sistema
+1.
+Vietinė bendrojo naudojimo sistema yra skirstymo sistemos sudedamoji dalis ir
+jai taikomi tie patys reikalavimai kaip ir skirstymo sistemai, išskyrus šiame
+įstatyme nustatytas išimtis. 
+2.
+Vietinės bendrojo naudojimo sistemos savininkas (savininkai) privalo leisti
+asmenims naudotis sistema, prijungti kitų vartotojų sistemas ir užtikrinti
+saugią ir efektyvią sistemos veiklą. Naudojimosi vietine bendrojo naudojimo
+sistema taisyklės, jų patvirtinimas ir paskelbimas turi atitikti šio įstatymo
+49 straipsnio reikalavimus. Teisė naudotis bendrojo naudojimo sistemomis
+turi būti suteikiama objektyviai, nediskriminuojant sistemos naudotojų.
+3.
+Vietinės bendrojo naudojimo sistemos, kurioje
+gamtinės dujos netiekiamos buitiniams vartotojams, išskyrus buitinius
+vartotojus, turinčius darbo santykių su skirstymo sistemos savininku ar
+valdytoju ir esančius uždaros skirstymo sistemos aptarnaujamoje teritorijoje,
+savininkas ar valdytojas turi teisę šio įstatymo nustatyta tvarka pats
+vykdyti skirstymo veiklą arba privalo sudaryti skirstymo paslaugų teikimo
+sutartį su skirstymo licenciją turinčia gamtinių dujų įmone, prie kurios
+sistemos yra prijungta vietinė bendrojo naudojimo sistema.
+ 
+55
+straipsnis. Tiesioginiai vamzdynai
+1.
+Gamtinių dujų įmonės turi teisę tiekti vartotojams dujas tiesioginiu vamzdynu
+ir vartotojai turi teisę gauti gamtines dujas iš dujų įmonių tiesioginiu
+vamzdynu.
+2.
+Jeigu gamtinių dujų įmonė atsisako suteikti teisę naudotis gamtinių dujų
+sistema šio įstatymo 52 straipsnio nustatytais atvejais arba kyla ginčas dėl
+tokio atsisakymo suteikti teisę naudotis gamtinių dujų sistema, sprendimą dėl
+tiesioginio vamzdyno įrengimo ir sąlygų priima Komisija. Komisijos priimti
+sprendimai dėl tiesioginių vamzdynų įrengimo yra privalomi vykdyti abiem
+šalims, jie turi būti pagrįsti, objektyvūs, skaidrūs ir nediskriminuojantys
+kitų vartotojų. Leidimai tiesioginiam vamzdynui įrengti neišduodami, jeigu
+nepanaudojami visi esami pajėgumai.
+ 
+56 straipsnis. Pareigos suteikti tretiesiems
+asmenims prieigą prie sistemos išimtys 
+1.
+Jeigu gamtinių dujų įmonė susiduria su dideliais ekonominiais ir finansiniais
+sunkumais, atsirandančiais iš „imk arba mokėk“ įsipareigojimų, prisiimtų pagal
+vieną ar kelias gamtinių dujų pirkimo sutartis, arba jeigu kyla tokių sunkumų
+grėsmė, gamtinių dujų įmonė gali pateikti prašymą Komisijai laikinai netaikyti
+reikalavimų suteikti tretiesiems asmenims prieigą prie sistemos. Prašymai
+pateikiami kiekvienu konkrečiu atveju prieš atsisakant suteikti tretiesiems
+asmenims prieigą prie sistemos. 
+2.
+Prie prašymo pridedama visa svarbi informacija apie problemos pobūdį ir mastą
+bei gamtinių dujų įmonės įdėtas pastangas siekiant išspręsti problemą.
+3.
+Jeigu nėra pagrįstų alternatyvių sprendimų ir atsižvelgdama į šio straipsnio 5
+dalį, Komisija gali leisti netaikyti reikalavimų suteikti tretiesiems asmenims prieigą
+prie sistemos. Toks Komisijos sprendimas turi būti tinkamai pagrįstas.
+4.
+Komisija nedelsdama praneša Europos Komisijai apie sprendimą leisti netaikyti
+reikalavimų suteikti tretiesiems asmenims prieigą prie sistemos, pateikdama ir
+visą svarbią informaciją apie šį sprendimą. Jeigu per aštuonias savaites nuo
+pranešimo gavimo dienos Europos Komisija paprašo, kad Komisija iš dalies
+pakeistų arba atšauktų sprendimą leisti netaikyti reikalavimų suteikti tretiesiems
+asmenims prieigą prie sistemos, Komisija Europos Komisijos prašymą įvykdo per
+keturias savaites ir apie tai praneša Komisijai.
+5.
+Priimdama sprendimus dėl šio straipsnio 1 dalyje nurodytos išimties taikymo,
+Komisija visų pirma atsižvelgia į šiuos kriterijus:
+1)
+tikslą sukurti konkurencinę gamtinių dujų rinką;
+2)
+būtinybę užtikrinti viešųjų paslaugų teikimo įpareigojimų vykdymą ir garantuoti
+tiekimo saugumą;
+3)
+gamtinių dujų įmonės padėtį gamtinių dujų rinkoje ir faktinę konkurencijos
+padėtį toje rinkoje;
+4)
+ekonominių ir finansinių sunkumų, su kuriais susiduria gamtinių dujų įmonės ir
+perdavimo įmonės arba vartotojai, mastą;
+5)
+sutarties ar sutarčių pasirašymo datą ir sąlygas, įskaitant tai, kiek jos
+palankios pokyčiams rinkoje;
+6)
+pastangas rasti problemos sprendimo būdą;
+7)
+įmonės sugebėjimą „imk arba mokėk“ įsipareigojimų prisiėmimo metu numatyti šių
+didelių sunkumų atsiradimo tikimybę;
+8)
+sistemos sujungimą su kitomis sistemomis ir tų sistemų sąveiką; 
+9)
+poveikį, kurį sprendimas leisti netaikyti reikalavimų suteikti tretiesiems
+asmenims prieigą prie sistemos galėtų turėti šio įstatymo teisingam taikymui,
+kad gamtinių dujų vidaus rinka veiktų sklandžiai.
+6.
+Laikoma, kad didelių sunkumų nėra, jeigu gamtinių dujų pardavimas nesumažėja
+iki lygio, mažesnio už minimalias realizavimo garantijas, numatytas „imk arba
+mokėk“ gamtinių dujų pirkimo sutartyse, arba jei „imk arba mokėk“ gamtinių dujų
+pirkimo sutartį galima patikslinti, arba gamtinių dujų įmonė gali rasti
+alternatyvių realizavimo rinkų.
+7.
+Gamtinių dujų įmonė, kuriai nebuvo leista netaikyti reikalavimų suteikti tretiesiems
+asmenims prieigą prie sistemos, negali atsisakyti suteikti prieigos prie
+sistemos dėl gamtinių dujų tiekimo sutartyje prisiimtų „imk arba mokėk“
+įsipareigojimų. 
+8.
+„Imk arba mokėk“ įpareigojimo išimtimi nelaikoma tai, kad vartotojas gamtinių
+dujų biržoje perleidžia gamtinių dujų įsigijimo teisę, atsirandančią iš
+vartotojo ir tiekėjo sudarytos sutarties. Tokiu atveju yra laikoma, kad
+sutartyje su tiekėju gamtinių dujų įsigijimo teisės pirkėjas pakeičia gamtinių dujų
+įsigijimo teisės pardavėją.
+ 
+ 
+VIENUOLIKTASIS
+SKIRSNIS
+VARTOTOJŲ
+TEISIŲ APSAUGA
+ 
+57
+straipsnis. Vartotojų apsaugos priemonės
+1.
+Gamtinių dujų vartotojų teisių ir teisėtų interesų apsaugos valstybinę
+priežiūrą ir kontrolę pagal kompetenciją atlieka Komisija ir Valstybinė
+vartotojų teisių apsaugos tarnyba.
+2.
+Nepažeisdami vartotojų teisių pagal kitus teisės aktus, vartotojai turi teisę:
+1)
+su laisvai pasirinkta gamtinių dujų tiekimo įmone sudaryti sutartį, kurioje
+nurodoma tiekėją nurodantys duomenys ir adresas, teikiamos paslaugos, siūlomų
+paslaugų kokybės lygis ir pradinio prijungimo terminas, siūlomų techninės
+priežiūros paslaugų rūšys, priemonės, kurias naudojant galima gauti naujausią
+informaciją apie visus taikomus tarifus ir mokėjimus už techninę priežiūrą,
+sutarties galiojimo laikotarpis, paslaugų teikimo atnaujinimo ir nutraukimo bei
+sutarties pratęsimo ir nutraukimo sąlygos, taip pat tai, ar numatyta teisė nutraukti sutartį netaikant
+sankcijų, kompensavimas ir pinigų grąžinimas tuo atveju, kai paslaugų kokybė
+neatitinka sutartyje nurodyto lygio, įskaitant netikslias ir vėluojančias
+sąskaitas, metodas, kuriuo pradedamos neteisminės ginčų sprendimo procedūros,
+informacija apie vartotojų teises ir skundų nagrinėjimą. Visa šiame punkte
+nurodyta informacija skelbiama gamtinių dujų įmonės interneto svetainėje. Visos
+sąlygos turi būti sąžiningos ir pateiktos vartotojams susipažinti iš anksto
+prieš sudarant ar patvirtinant sutartį;
+2) iš
+tiekėjo gauti aiškią informaciją apie taikomas kainas, tarifus ir apie
+standartines sąlygas, susijusias su galimybe naudotis gamtinių dujų įmonių
+teikiamomis paslaugomis ir naudojimusi jomis. Tiekėjai savo vartotojams apie
+kainų ir kitų mokėjimų padidinimą turi pranešti tiesiogiai, skaidriai,
+suprantamai ir ne vėliau kaip likus vienam įprastam sąskaitų pateikimo
+laikotarpiui iki didesnių kainų ir kitų mokėjimų įsigaliojimo. Taip pat
+tiesiogiai, skaidriai, suprantamai tiekėjai informuoja vartotojus apie ketinimą
+pakeisti sutarties sąlygas ir iš to atsirandančią vartotojų teisę nutraukti
+sutartį ir teisę nesutikti
+pakeisti galiojančios sutarties sąlygų. Buitiniai vartotojai bet kada turi
+teisę nutraukti sutartis vienašališkai ir neatlygintinai Lietuvos Respublikos
+civilinio kodekso 6.390 straipsnio 1 dalyje nustatytomis sąlygomis;
+3) iš
+Komisijos ir Valstybinės vartotojų teisių apsaugos tarnybos gauti visą reikiamą
+informaciją apie savo teises, ginčų sprendimo būdus ir galiojančius gamtinių
+dujų sektorių reglamentuojančius teisės aktus; 
+4)
+pasirinkti iš kelių apmokėjimo būdų, kuriuos taikant vartotojai nebūtų diskriminuojami;
+5)
+nemokamai pakeisti tiekėją. Šį pakeitimą gamtinių dujų įmonės turi įvykdyti per
+tris savaites nuo prašymo pakeisti tiekėją pateikimo;
+6)
+naudotis vartotojų skundų nagrinėjimo procedūromis. Visi vartotojai turi teisę
+reikalauti, kad gamtinių dujų įmonė teiktų geros kokybės paslaugas ir tinkamai,
+sąžiningai bei operatyviai nagrinėtų skundus pagal patvirtintą tokių skundų
+nagrinėjimo tvarką, o prireikus kreiptis į Vartotojų teisių apsaugos tarnybą ar
+Komisiją;
+7)
+po prijungimo prie gamtinių dujų sistemos būti informuojami apie galiojančiuose
+nacionalinės teisės aktuose nustatytą jų teisę gauti nustatytos kokybės
+gamtines dujas pagrįstomis kainomis;
+8)
+gauti savo suvartojimo duomenis, o sudarius aiškų susitarimą nemokamai leisti
+bet kokiai registruotai tiekimo įmonei naudotis savo skaitiklių rodmenimis. Už
+duomenų tvarkymą atsakinga šalis privalo įmonei pateikti tuos duomenis.
+Komisija nustato duomenų formą ir tvarką, pagal kurią tiekėjams ir vartotojams
+suteikiama galimybė naudotis duomenimis. Už šią paslaugą papildomas mokestis
+vartotojui nenustatomas;
+9)
+be papildomo mokesčio gauti reguliarią ir tinkamą informaciją apie faktinį
+gamtinių dujų suvartojimą ir gamtinių dujų kainas, kuri sudaro vartotojui
+galimybę reguliuoti savo gamtinių dujų suvartojimą;
+10)
+pakeitus gamtinių dujų tiekėją, ne vėliau kaip per šešias savaites nuo tiekėjo
+pakeitimo gauti paskutinę sąskaitą;
+11)
+gamtinių dujų biržoje perleisti gamtinių dujų įsigijimo teisę.
+3.
+Vyriausybė ar jos įgaliota institucija pagal Komisijos atliktą ilgalaikės
+trukmės išlaidų ir naudos rinkai ekonominį vertinimą parengia pažangių matavimo
+sistemų, kuriomis būtų padedama aktyviam vartotojų dalyvavimui gamtinių dujų
+tiekimo rinkoje, įdiegimo terminus. Komisija užtikrina šių sistemų įdiegimą,
+matavimo sistemų sąveikos įgyvendinimą ir tinkamų standartų bei geriausios
+praktikos panaudojimą.
+4. Vartotojų
+teisių apsaugos priemonės nekliudo gamtinių dujų įmonei apriboti ar nutraukti
+gamtinių dujų perdavimo, skirstymo ar tiekimo tik šiame straipsnyje numatytais
+pagrindais.
+5.
+Gamtinių dujų įmonė be jokio išankstinio įspėjimo tol, kol išnyksta toliau
+išvardytos priežastys, gali nutraukti gamtinių dujų perdavimą, skirstymą ar
+tiekimą, kai:
+1) dėl
+vartotojų veiksmų kyla perdavimo ar skirstymo sistemų avarijos grėsmė arba
+kenkiama gamtinių dujų sistemos saugumui ir patikimumui;
+2)
+vartotojo sistema kelia grėsmę žmonių gyvybei, sveikatai ar turtui;
+3)
+kyla avarija ar ekstremalioji energetikos situacija, dėl kurių neįmanoma tęsti
+gamtinių dujų perdavimo, skirstymo ar tiekimo konkretiems vartotojams, jeigu
+tenkinami Energetikos įstatyme nustatyti apribojimų ekstremaliųjų energetikos
+situacijų metu taikymo pagrindai;
+4) nutraukiamas
+ar apribojamas gamtinių dujų tiekimas į Lietuvos Respublikos teritoriją ir
+gamtinių dujų įmonės neturi pakankamo gamtinių dujų atsargų rezervo.
+6.
+Gamtinių dujų įmonė, raštu įspėjusi vartotoją prieš 5 dienas, turi teisę
+nutraukti gamtinių dujų perdavimą, skirstymą ar tiekimą tuo atveju, kai:
+1) vartotojas,
+nepaisydamas gauto rašytinio dujų įmonės įspėjimo, savo veiksmais ar neveikimu
+kelia trikdžius ir neigiamai veikia gamtinių dujų kokybę;
+2) būtina
+atlikti remontą ar kitų vartotojų sistemų prijungimo darbus;
+3)
+vartotojas nesutinka įleisti perdavimo sistemos ar skirstomųjų sistemų
+operatoriaus į vartotojo teritoriją ir (ar) patalpas įrengti, prižiūrėti arba
+pakeisti gamtinių dujų apskaitos prietaisų ar fiksuoti jų rodmenis.
+7.
+Gamtinių dujų įmonė turi teisę nutraukti gamtinių dujų perdavimą, skirstymą ar
+tiekimą tiems vartotojams, kurie, gavę rašytinį įspėjimą, neapmokėjo sąskaitų
+už suvartotas gamtines dujas arba jų persiuntimą ir su tuo susijusias
+paslaugas: buitiniai vartotojai – per 15 dienų, o visi kiti vartotojai – per 10
+dienų nuo rašytiniame įspėjime nurodytos dienos.
+ 
+58
+straipsnis. Vartotojų teisių apsauga
+1.
+Siekdama užtikrinti tinkamą vartotojų teisių apsaugą, Komisija:
+1)
+prižiūri, kad būtų tinkamai įgyvendintos vartotojų apsaugos priemonės, taip
+užtikrinant vartotojų apsaugą. Svarbiausia Komisijos funkcija vartotojų teisių
+gynimo srityje – užtikrinti, kad būtų taikomos adekvačios pažeidžiamų vartotojų
+apsaugos priemonės; 
+2)
+imasi tinkamų priemonių prie gamtinių dujų sistemos prisijungusiems vartotojams
+atokiose vietovėse apsaugoti; 
+3)
+užtikrina aukštą vartotojų apsaugos lygį, ypač susijusį su sutarties sąlygų,
+bendros informacijos ir ginčų sprendimo būdų skaidrumu; 
+4)
+imasi tinkamų priemonių, kurios skirtos nustatyto energijos nepritekliaus
+klausimams spręsti. Šiuo tikslu Komisija teikia rekomendacijas
+Vyriausybei ar jos įgaliotai institucijai dėl platesnio masto kovos su skurdu
+nacionalinių energijos veiksmų planų rengimo, socialinės apsaugos sistemos
+lengvatų taikymo, energijos vartojimo efektyvumą didinančios paramos teikimo;
+5)
+užtikrina, kad visi prie gamtinių dujų sistemos prisijungę vartotojai turėtų
+teisę gauti gamtines dujas iš bet kurioje valstybėje registruoto šio įstatymo
+reikalavimus atitinkančio tiekėjo, kuris laikosi patvirtintų Prekybos
+gamtinėmis dujomis taisyklių, balansavimo taisyklių ir tiekimo saugumo reikalavimų;
+6)
+užtikrina, kad vartotojai turėtų teisę gauti savo suvartojimo duomenis ir
+laikydamiesi sutarties sąlygų galėtų pakeisti gamtinių dujų tiekėją trijų
+savaičių laikotarpiu;
+7)
+užtikrina, kad gamtinių dujų tiekėjai ar skirstymo sistemos operatoriai, bendradarbiaudami
+su Komisija, imtųsi reikiamų veiksmų viešai įmonių interneto svetainėse
+paskelbti Europos Komisijos parengtą aiškų ir glaustą klausimų ir
+atsakymų sąrašą, kuriame teikiama praktinė informacija apie energijos vartotojų
+teises.
+2.
+Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir sąlygomis prie
+Komisijos įsteigiamas bendrasis informacijos centras, skirtas teikti gamtinių
+dujų vartotojams visą reikiamą informaciją apie jų teises, galiojančius teisės
+aktus ir jiems prieinamus ginčų sprendimo būdus. Bendrasis informacijos centras
+yra Komisijos administracijos struktūrinis padalinys.
+3.
+Valstybinė vartotojų teisių apsaugos tarnyba atlieka gamtinių dujų buitinių
+vartotojų teisių ir teisėtų interesų apsaugos valstybinę priežiūrą ir kontrolę,
+vertina gamtinių dujų buitinių vartotojų sutarčių su gamtinių dujų įmonėmis
+standartines sąlygas ir ginčija nesąžiningas šių sutarčių nuostatas.
+ 
+DVYLIKTASIS
+SKIRSNIS
+TARPTAUTINIS
+BENDRADARBIAVIMAS
+ 
+59
+straipsnis. Tarptautinio bendradarbiavimo pareiga
+Komisija
+ir perdavimo sistemos operatorius privalo bendradarbiauti su
+kompetentingomis Europos Sąjungos institucijomis ar organizacijomis, valstybių
+narių reguliavimo institucijomis ir šių valstybių perdavimo sistemos
+operatoriais.
+ 
+60
+straipsnis. Komisijos tarptautinis bendradarbiavimas
+Vykdydama
+tarptautinį bendradarbiavimą, Komisija:
+1) rengia
+Europos Komisijai reikalingas gamtinių dujų rinkos ataskaitas;
+2) tarptautiniais
+klausimais bendradarbiauja su Agentūra ir valstybių narių reguliavimo
+institucijomis ir teikia joms visą užduotims vykdyti būtiną informaciją; 
+3)
+užtikrina tokį iš Agentūros ir valstybių narių reguliavimo institucijų gaunamos
+informacijos konfidencialumo lygį, kokio reikalauja informaciją perduodanti
+institucija;
+4) keičiasi
+duomenimis regioniniu lygmeniu, siekdama prisidėti prie svarbiausių rinkos
+procesų suderinimo;
+5) bendradarbiauja
+su valstybių narių reguliavimo institucijomis bent regioniniu lygmeniu,
+siekdama skatinti rengti eksploatacines priemones, bendras gamtinių dujų biržas
+ir tarpvalstybinių pajėgumų paskirstymą ir sudaryti sąlygas tinkamam sujungimo
+pajėgumų lygiui užtikrinti regione ir tarp regionų, sudarant galimybes plėtoti
+veiksmingą konkurenciją ir gerinti tiekimo saugumą. Komisija siekia koordinuoti
+visų perdavimo sistemos operatoriams ir kitiems rinkos dalyviams skirtų tinklo
+nuostatų ir perkrovos valdymo taisyklių rengimą. Visi šiame punkte išvardyti
+veiksmai yra atliekami konsultuojantis su kitomis nacionalinėmis institucijomis
+ir nedarant įtakos jų specialiajai kompetencijai;
+6)
+turi teisę tarpusavyje sudaryti bendradarbiavimo susitarimus su kitų valstybių
+narių reguliavimo institucijomis;
+7)
+teikia Vyriausybei ar jos įgaliotai institucijai informaciją apie tarptautinio
+bendradarbiavimo klausimus, tiesioginiai susijusius su Vyriausybės vykdoma
+užsienio politika.
+ 
+61 straipsnis. Perdavimo sistemos operatoriaus
+tarptautinis bendradarbiavimas
+Vykdydamas
+tarptautinį bendradarbiavimą, perdavimo sistemos operatorius privalo:
+1)
+turėti vieną ar daugiau regionų lygmeniu integruotų pajėgumų paskirstymo ir
+tinklo saugumo patikrinimo sistemų, apimančių dvi ar daugiau valstybių narių;
+2)
+veiksmingai eksploatuoti, prižiūrėti ir plėtoti saugius, patikimus ir
+efektyvius perdavimo įrenginius, skirtus atvirai rinkai užtikrinti, deramai
+atsižvelgiant į aplinkos apsaugos reikalavimus, užtikrinant tinkamas priemones
+paslaugų teikimo įpareigojimams vykdyti;
+3)
+pastatyti pakankamus tarpvalstybinius pajėgumus, skirtus Europos Sąjungos
+perdavimo infrastruktūrai integruoti, atsižvelgiant į visą ekonomiškai pagrįstą
+ir techniškai įmanomą pajėgumų paklausą ir dujų tiekimo saugumą.
+ 
+62
+straipsnis. Regioninis solidarumas
+1.
+Siekdamos užtikrinti patikimą tiekimo saugumą gamtinių dujų vidaus rinkoje ir
+integruoti nacionalinę Lietuvos Respublikos gamtinių dujų rinką, Lietuvos
+Respublika ir Komisija bendradarbiauja regioniniu lygmeniu su kaimyninėmis
+valstybėmis narėmis, skatindama regioninį ir dvišalį solidarumą.
+2.
+Bendradarbiavimas, vykdomas susidarius aplinkybėms, kurios sukelia ar per
+trumpą laiką gali sukelti didelį tiekimo sutrikimą, darantį poveikį bet kuriai
+bendradarbiaujančiai valstybei narei, apima:
+1) ekstremaliosios
+padėties nacionalinių priemonių, skirtų gamtinių dujų tiekimo patikimumui
+užtikrinti, koordinavimą;
+2) jungiamųjų
+gamtinių dujų vamzdynų nustatymą, plėtojimą ir atnaujinimą; 
+3) tarpusavio
+pagalbos teikimo sąlygas ir praktines priemones.
+3.
+Komisija skatina perdavimo sistemos operatorių bendradarbiavimą vieno ar kelių
+regionų lygmeniu, įskaitant bendradarbiavimą tarpvalstybiniais klausimais,
+siekiant sukurti konkurencingą gamtinių dujų vidaus rinką. 
+4.
+Komisija nuolat informuoja Europos Komisiją ir kitas valstybes
+nares apie tokį regioninį bendradarbiavimą.
+ 
+TRYLIKTASIS
+SKIRSNIS
+SKUNDŲ
+NAGRINĖJIMAS IR ATSAKOMYBĖ
+ 
+63
+straipsnis. Skundų ir ginčų nagrinėjimas
+1. Skundus
+ir ginčus, susijusius su paslaugomis gamtinių dujų sektoriuje, išankstine
+neprivaloma ginčų sprendimo ne teisme tvarka nagrinėja Komisija. Buitinių
+vartotojų skundus ir ginčus gamtinių dujų sektoriuje, išankstine neprivaloma
+ginčų sprendimo ne teisme tvarka Komisija nagrinėja tik tiek, kiek tai
+neprieštarauja Vartotojų teisių apsaugos tarnybos kompetencijai. Komisijos
+priimtas sprendimas yra privalomas ir vykdomas tol, kol kompetentingas Lietuvos
+Respublikos teismas nusprendžia kitaip įstatymų nustatyta tvarka.
+2. Gamtinių
+dujų buitinių vartotojų skundus ir ginčus dėl gamtinių dujų tiekimo ar paslaugų
+teikimo sutarčių nesąžiningų sąlygų taikymo, taip pat fizinių asmenų skundus
+dėl gamtinių dujų tiekėjų nesąžiningos komercinės veiklos išankstine ginčų
+sprendimo ne teisme tvarka nagrinėja Valstybinė vartotojų teisių apsaugos
+tarnyba Lietuvos Respublikos vartotojų teisių apsaugos įstatyme ir Lietuvos
+Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatyme nustatyta
+tvarka.
+3. Jeigu vartotojas, dėl prašymo dalyko prieš tai nesikreipęs
+į tiekėją, kreipiasi į skundus ir ginčus nagrinėjančią instituciją, ši imasi
+priemonių šalis sutaikyti. Ginčas nenagrinėjamas, jeigu tiekėjas per ginčus
+nagrinėjančios institucijos nustatytą terminą pasiūlo taikų ginčo sprendimo
+būdą ir vartotojas sutinka su tokiu ginčo sprendimo būdu arba per nustatytą
+terminą nenurodo, kad nesutinka su tokiu ginčo sprendimo būdu. Tiekėjas
+privalo pateikti vartotojui visą informaciją apie pasiūlytą ginčo sprendimo
+būdą ir paaiškinti, kad jeigu vartotojas nenurodys, kad jis nesutinka su taikiu
+ginčo sprendimo būdu, ginčas nebus nagrinėjamas.
+4. Skundai
+ir ginčai nagrinėjami Energetikos įstatymo nustatyta tvarka. 
+ 
+64
 straipsnis. Atsakomybė
-Asmenys už šio įstatymo
-pažeidimus atsako įstatymų nustatyta tvarka.
+Asmenys,
+pažeidę šio įstatymo reikalavimus, atsako įstatymų nustatyta tvarka.
  
-Skelbiu šį
-Lietuvos Respublikos Seimo priimtą įstatymą.
+Skelbiu
+šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS
-ADAMKUS
-Lietuvos Respublikos
-gamtinių dujų įstatymo
-priedas
+RESPUBLIKOS
+PREZIDENTĖ                                                       DALIA
+GRYBAUSKAITĖ
+Lietuvos
+Respublikos
+                                                                                    gamtinių
+dujų įstatymo
+                                                                                    priedas
  
 ĮGYVENDINAMI
 EUROPOS SĄJUNGOS TEISĖS AKTAI
  
-1. 2003 m.
-birželio 26 d. Europos Parlamento ir Tarybos direktyva 2003/55/EB dėl gamtinių
-dujų vidaus rinkos bendrųjų taisyklių, panaikinanti direktyvą 98/30/EB (OL 2004
-m. specialusis leidimas, 12 skyrius, 2 tomas, p. 230).
-2. 2004 m.
-balandžio 26 d. Tarybos direktyva 2004/67/EB dėl priemonių, skirtų gamtinių
-dujų tiekimo patikimumui užtikrinti (OL 2004 m. specialusis leidimas, 12
-skyrius, 3 tomas, p. 19).
-Priedo pakeitimai:
-Nr. XI-353, 2009-07-17,
-Žin., 2009, Nr. 91-3913 (2009-07-31)
- 
+1. 2009 m.
+liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/73/EB dėl
+gamtinių dujų vidaus rinkos bendrųjų taisyklių, panaikinanti Direktyvą
+2003/55/EB (OL 2009 L 211,
+p. 94).
+2. 2010 m. spalio 11 d. Europos
+Parlamento ir Tarybos reglamentas (ES) Nr. 994/2010 dėl dujų tiekimo
+saugumo užtikrinimo priemonių, kuriuo panaikinama Direktyva 2004/67/EB (OL 2010 L 295, p. 1).
 ________________
  
 Pakeitimai:
@@ -1246,26 +2883,27 @@ liepos 1 d.
 3.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-927,
+Nr.
+IX-927,
 2002-06-04, Žin., 2002, Nr. 62-2495 (2002-06-21)
 GAMTINIŲ
 DUJŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 4.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-IX-1334,
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. IX-1334,
 2003-01-28, Žin., 2003, Nr. 17-709 (2003-02-19)
-GAMTINIŲ
-DUJŲ ĮSTATYMO 20 STRAIPSNIO IR NAFTOS PRODUKTŲ IR NAFTOS VALSTYBĖS ATSARGŲ
-ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+GAMTINIŲ DUJŲ ĮSTATYMO 20
+STRAIPSNIO IR NAFTOS PRODUKTŲ IR NAFTOS VALSTYBĖS ATSARGŲ ĮSTATYMO 13 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
  
 5.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. X-1054, 2007-03-20,
-Žin., 2007, Nr. 43-1626 (2007-04-19)
+Nr.
+X-1054,
+2007-03-20, Žin., 2007, Nr. 43-1626 (2007-04-19)
 GAMTINIŲ
 DUJŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja
@@ -1274,7 +2912,8 @@ Nauja
 6.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XI-136,
+Nr.
+XI-136,
 2009-01-12, Žin., 2009, Nr. 10-358 (2009-01-27)
 GAMTINIŲ
 DUJŲ ĮSTATYMO 13, 16, 24 IR 25 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
@@ -1282,16 +2921,15 @@ DUJŲ ĮSTATYMO 13, 16, 24 IR 25 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 įstatymas įsigalioja 2009 m. vasario 1 d. 
  
 7.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-XI-353,
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. XI-353,
 2009-07-17, Žin., 2009, Nr. 91-3913 (2009-07-31)
-GAMTINIŲ
-DUJŲ ĮSTATYMO 6, 7, 10, 14, 23, 25 STRAIPSNIŲ IR PRIEDO PAKEITIMO ĮSTATYMAS
-Šio įstatymo 5
-straipsnio 1 dalyje išdėstyto Gamtinių dujų įstatymo 23 straipsnio 5 dalis
-įsigalioja 2009 m. rugpjūčio 1 d.
+GAMTINIŲ DUJŲ ĮSTATYMO 6, 7, 10,
+14, 23, 25 STRAIPSNIŲ IR PRIEDO PAKEITIMO ĮSTATYMAS
+Šio
+įstatymo 5 straipsnio 1 dalyje išdėstyto Gamtinių dujų įstatymo 23 straipsnio 5
+dalis įsigalioja 2009 m. rugpjūčio 1 d.
  
 8.
 Lietuvos
@@ -1301,12 +2939,28 @@ Nr. XI-1220,
 GAMTINIŲ DUJŲ
 ĮSTATYMO 3, 10 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, 13, 16 STRAIPSNIŲ PRIPAŽINIMO
 NETEKUSIAIS GALIOS IR ĮSTATYMO TREČIOJO SKIRSNIO PAVADINIMO PAKEITIMO ĮSTATYMAS
-Šis įstatymas, išskyrus šio straipsnio 2
+Šis įstatymas, išskyrus 6 straipsnio 2
 dalį, įsigalioja 2011 m. sausio 1 d.
  
-*** Pabaiga ***
+9.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-1564,
+2011-06-30, Žin., 2011, Nr. 87-4186 (2011-07-14)
+GAMTINIŲ DUJŲ ĮSTATYMO PAKEITIMO
+ĮSTATYMAS
+Nauja
+įstatymo redakcija nuo 2011-08-01.
+Šio įstatymo 1 straipsnyje išdėstyto
+Lietuvos Respublikos gamtinių dujų įstatymo 29 straipsnis įsigalioja 2013 m.
+kovo 3 d.
+ 
+***
+Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė (2010-12-28)
+Redagavo
+Aušra Bodin (2011-07-14)
                  
-autrap@lrs.lt
+aubodi@lrs.lt
