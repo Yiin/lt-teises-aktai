@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DFEFEA5312DD"
 
 # Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto patvirtinimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2010-07-13 iki 2011-08-31
+Suvestinė redakcija nuo 2011-09-01 iki 2011-12-07
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3348, i. k. 1031010ISTA0IX-1669
  
@@ -91,7 +91,10 @@ CIVILINĖS KRAŠTO APSAUGOS TARNYBOS ATLIKIMO SĄLYGOS
 
 1. Į civilinę krašto apsaugos tarnybą gali būti priimamas fizinis asmuo, atitinkantis Valstybės tarnybos įstatymo 9 straipsnio ir šiuos reikalavimus:
 
-1) yra karo prievolę atlikęs prievolininkas ir (ar) į kariuomenės atsargos personalo įskaitą įrašytas karys. Asmenys, nuo karo prievolės atleisti arba ne karo prievolininkai, gali būti priimami į civilinę krašto apsaugos tarnybą išėję krašto apsaugos ministro nustatytą specialųjį karinio parengimo kursą arba specialiai mokyti tarnauti civilinėje krašto apsaugos tarnyboje;
+1) yra pagrindinį karinį parengtumą įgijęs karo prievolininkas. Asmenys, kuriems privalomoji pradinė karo tarnyba atidėta arba kurie nuo karo prievolės atleisti, gali būti priimami į civilinę krašto apsaugos tarnybą išėję krašto apsaugos ministro nustatytą specialųjį karinio parengimo kursą arba specialiai mokyti tarnauti civilinėje krašto apsaugos tarnyboje; 
+Straipsnio punkto pakeitimai:
+Nr. XI-1522, 2011-06-23, Žin., 2011, Nr. 86-4164 (2011-07-13), i. k. 1111010ISTA0XI-1522
+ 
 
 2) turi įgijęs pakankamai specialių žinių ir patirties specifinėms gynybos specialisto funkcijoms ir pareigoms krašto apsaugos sistemoje atlikti. Pretendento į civilinę krašto apsaugos tarnybą įgytų specialių žinių lygį ir patirtį patikrina Krašto apsaugos ministerijoje veikianti Kvalifikacinės atrankos ir atestacijos komisija. Šios komisijos sudėtį ir jos darbo tvarką nustato krašto apsaugos ministras;
 
@@ -473,4 +476,9 @@ Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 20 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-946, 2010-06-30, Žin., 2010, Nr. 82-4300 (2010-07-13), i. k. 1101010ISTA00XI-946
 Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 20 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1522, 2011-06-23, Žin., 2011, Nr. 86-4164 (2011-07-13), i. k. 1111010ISTA0XI-1522
+Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 3 straipsnio pakeitimo įstatymas
 
