@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2011-05-03 iki 2011-08-31
+Suvestinė redakcija nuo 2011-09-01 iki 2011-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
  
@@ -280,67 +280,105 @@ Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA0
 
 
 
-23. Kredito įstaiga – įmonė, kuri turi licenciją verstis ir verčiasi indėlių ar kitų grąžintinų lėšų priėmimu iš neprofesionalių rinkos dalyvių ir jų skolinimu arba elektroninių pinigų išleidimu ir tvarkymu. 
+23. Kreditingumo vertinimo paslaugos – asmens mokumo, finansinės rizikos vertinimo ir įsiskolinimo valdymo tikslais atliekamas reikalingų duomenų tvarkymas, asmens mokumo ir finansinės rizikos vertinimas, taip pat asmens kreditingumo reitingo (balo), išskyrus kredito reitingus, kuriems taikomas Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų, nustatymas. 
+Papildyta straipsnio dalimi:
+Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
+ 
+
+
+
+
+24. Kredito įstaiga – įmonė, kuri turi licenciją verstis ir verčiasi indėlių ar kitų grąžintinų lėšų priėmimu iš neprofesionalių rinkos dalyvių ir jų skolinimu arba elektroninių pinigų išleidimu ir tvarkymu. 
 Straipsnio dalies pakeitimai:
 Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010ISTA0IX-2067
 Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
  
 
 
 
 
-24. Kvalifikuotoji įstatinio kapitalo ir (arba) balsavimo teisių dalis – tiesiogiai arba netiesiogiai valdoma įmonės įstatinio kapitalo ir (arba) balsavimo teisių dalis, kuri sudaro 10 procentų ar daugiau įmonės įstatinio kapitalo ir (arba) balsavimo teisių arba kuri suteikia galimybę daryti reikšmingą įtaką tos įmonės valdymui. 
+25. Kvalifikuotoji įstatinio kapitalo ir (arba) balsavimo teisių dalis – tiesiogiai arba netiesiogiai valdoma įmonės įstatinio kapitalo ir (arba) balsavimo teisių dalis, kuri sudaro 10 procentų ar daugiau įmonės įstatinio kapitalo ir (arba) balsavimo teisių arba kuri suteikia galimybę daryti reikšmingą įtaką tos įmonės valdymui. 
 Straipsnio dalies pakeitimai:
 Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
  
 
 
 
 
-25. Licencinės finansinės paslaugos – finansinės paslaugos, kurių teikimu galima verstis tik gavus įstatymų nustatyta tvarka išduotą licenciją.
+26. Licencinės finansinės paslaugos – finansinės paslaugos, kurių teikimu galima verstis tik gavus įstatymų nustatyta tvarka išduotą licenciją.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
+ 
 
 
 
 
-26. Likvidusis turtas – turtas, kuris su minimalia vertės praradimo rizika nedelsiant gali būti parduotas rinkos kaina arba jai artima kaina. Kaina, artima rinkos kainai, – tai maksimali kaina, už kurią su finansų įstaiga susijusios šalys, žinomos kaip ketinančios pirkti (parduoti) turtą, gali tiesiogiai (ne rinkoje) apsikeisti rinkoje prekiaujamu turtu.
+27. Likvidusis turtas – turtas, kuris su minimalia vertės praradimo rizika nedelsiant gali būti parduotas rinkos kaina arba jai artima kaina. Kaina, artima rinkos kainai, – tai maksimali kaina, už kurią su finansų įstaiga susijusios šalys, žinomos kaip ketinančios pirkti (parduoti) turtą, gali tiesiogiai (ne rinkoje) apsikeisti rinkoje prekiaujamu turtu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
+ 
 
 
 
 
-27. Mišrią veiklą vykdanti kontroliuojančioji (holdingo) bendrovė – globojanti (patronuojanti) įmonė (bet ne finansų kontroliuojančioji (holdingo) bendrovė, kredito įstaiga ar mišrios veiklos finansų kontroliuojančioji (holdingo) įmonė, apibrėžta Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme), kurios nors viena kontroliuojama įmonė yra kredito įstaiga. 
+28. Mišrią veiklą vykdanti kontroliuojančioji (holdingo) bendrovė – globojanti (patronuojanti) įmonė (bet ne finansų kontroliuojančioji (holdingo) bendrovė, kredito įstaiga ar mišrios veiklos finansų kontroliuojančioji (holdingo) įmonė, apibrėžta Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme), kurios nors viena kontroliuojama įmonė yra kredito įstaiga. 
 Straipsnio dalies pakeitimai:
 Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
  
 
 
 
 
-28. Nebalansinės pretenzijos – finansų įstaigos balansinėje ataskaitoje neparodytas turtas (pretenzijos): finansų įstaigos reikalavimo teisės į finansų įstaigai mokėtinas pinigų sumas, grąžintiną arba kitaip perleidžiamą kitokį turtą pagal būsimuosius, pasirinkimo ir kitokius sandorius. 
+29. Nebalansinės pretenzijos – finansų įstaigos balansinėje ataskaitoje neparodytas turtas (pretenzijos): finansų įstaigos reikalavimo teisės į finansų įstaigai mokėtinas pinigų sumas, grąžintiną arba kitaip perleidžiamą kitokį turtą pagal būsimuosius, pasirinkimo ir kitokius sandorius. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
+ 
 
 
 
 
-29. Neprofesionalūs rinkos dalyviai – visi asmenys, išskyrus Lietuvos banką, finansų įstaigas, draudimo įmones, taip pat kitus asmenis, kurie gali kvalifikuotai įvertinti skolinimosi riziką. 
+30. Neprofesionalūs rinkos dalyviai – visi asmenys, išskyrus Lietuvos banką, finansų įstaigas, draudimo įmones, taip pat kitus asmenis, kurie gali kvalifikuotai įvertinti skolinimosi riziką. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
+ 
 
 
 
 
-30. Netiesioginė kontrolė – kontrolė, atsirandanti per kitas kontroliuojamas įmones arba kontroliuojamų įmonių kontroliuojamas įmones.
+31. Netiesioginė kontrolė – kontrolė, atsirandanti per kitas kontroliuojamas įmones arba kontroliuojamų įmonių kontroliuojamas įmones.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
+ 
 
 
 
 
-31. Palūkanos – pinigų suma, mokama už suteiktą paskolą, padėtą indėlį, skolos vertybinius popierius, perduotą naudoti turtą ar kitą skolinį reikalavimą, t. y. sutartyje nustatytas procentas, skaičiuojamas nuo padėto indėlio, suteiktos paskolos dydžio, skolos vertybinių popierių nominalios vertės arba perduoto naudotis turto ar kito skolinio reikalavimo vertės. 
+32. Palūkanos – pinigų suma, mokama už suteiktą paskolą, padėtą indėlį, skolos vertybinius popierius, perduotą naudoti turtą ar kitą skolinį reikalavimą, t. y. sutartyje nustatytas procentas, skaičiuojamas nuo padėto indėlio, suteiktos paskolos dydžio, skolos vertybinių popierių nominalios vertės arba perduoto naudotis turto ar kito skolinio reikalavimo vertės. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
+ 
 
 
 
 
-32. Pasirinkimo sandoris – sandoris, suteikiantis teisę, bet ne įsipareigojimą pirkti arba parduoti sandorio objektą už sutartą kainą sutartą dieną arba iki jos.
+33. Pasirinkimo sandoris – sandoris, suteikiantis teisę, bet ne įsipareigojimą pirkti arba parduoti sandorio objektą už sutartą kainą sutartą dieną arba iki jos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
+ 
 
 
 
 
-33. Pasitikėtinė (subordinuota) paskola – ne trumpesniam kaip vienų metų laikotarpiui suteikta paskola, jeigu yra tenkinamos visos nurodytos sąlygos:
+34. Pasitikėtinė (subordinuota) paskola – ne trumpesniam kaip vienų metų laikotarpiui suteikta paskola, jeigu yra tenkinamos visos nurodytos sąlygos:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
+ 
 
 
 1) paskola yra gauta pinigais;
@@ -368,12 +406,18 @@ Nr. X-1037, 2007-01-18, Žin. 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00
 
 
 
-34. Pinigų tvarkymas – grynųjų pinigų inkasavimas, vežimas ir saugojimas, monetų ir banknotų skaičiavimas, jų tikrumo ir tinkamumo naudoti apyvartoje tikrinimas bei pakavimas prieš grąžinant į apyvartą. 
+35. Pinigų tvarkymas – grynųjų pinigų inkasavimas, vežimas ir saugojimas, monetų ir banknotų skaičiavimas, jų tikrumo ir tinkamumo naudoti apyvartoje tikrinimas bei pakavimas prieš grąžinant į apyvartą. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
+ 
 
 
 
 
-35. Rizikos prisiėmimas (sandoriai, turintys galimos rizikos požymių): 
+36. Rizikos prisiėmimas (sandoriai, turintys galimos rizikos požymių): 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
+ 
 
 
 1) skolinimas, skolos vertybinių popierių pirkimas; 
@@ -428,12 +472,18 @@ Nr. X-1037, 2007-01-18, Žin. 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00
 
 
 
-36. Seifo kamerų nuoma – seifo kamerų, esančių nuolat saugomose patalpose, nuoma asmenims, kurie patys jose laiko savo vertybes.
+37. Seifo kamerų nuoma – seifo kamerų, esančių nuolat saugomose patalpose, nuoma asmenims, kurie patys jose laiko savo vertybes.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
+ 
 
 
 
 
-37. Skolinimas: 
+38. Skolinimas: 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
+ 
 
 
 1) pinigų sumos perdavimas skolininkui pagal paskolos ar kreditavimo sutartį; 
@@ -448,12 +498,18 @@ Nr. X-1037, 2007-01-18, Žin. 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00
 
 
 
-38. Specialieji atidėjiniai (atidėjimai) – turto ir nebalansinių pretenzijų vertės sumažėjimo dydis, atitinkantis tikėtinų nuostolių galimybę.
+39. Specialieji atidėjiniai (atidėjimai) – turto ir nebalansinių pretenzijų vertės sumažėjimo dydis, atitinkantis tikėtinų nuostolių galimybę.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
+ 
 
 
 
 
-39. Tarpusavyje susijusių klientų grupė:
+40. Tarpusavyje susijusių klientų grupė:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
+ 
 
 
 1) du arba daugiau finansų įstaigos klientų, kurie, jeigu neįrodyta kitaip, sukelia vieną riziką, nes vienas iš jų tiesiogiai ar netiesiogiai kontroliuoja antrąjį arba kitus klientus, arba
@@ -471,7 +527,10 @@ Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010IST
 
 
 
-40. Tauriųjų metalų prekyba – prekyba: 
+41. Tauriųjų metalų prekyba – prekyba: 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
+ 
 
 
 1) grynu auksu (auksu, kurio grynumas yra ne mažesnis kaip 999,9/1000); 
@@ -496,7 +555,10 @@ Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010IST
 
 
 
-41. Valiutos keitimas (grynaisiais pinigais): 
+42. Valiutos keitimas (grynaisiais pinigais): 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
+ 
 
 
 1) užsienio valiutos pirkimas už litus; 
@@ -511,7 +573,10 @@ Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010IST
 
 
 
-42. Vertimasis finansinių paslaugų teikimu:
+43. Vertimasis finansinių paslaugų teikimu:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
+ 
 
 
 1) deklaravimas ūkinę veiklą reglamentuojančiuose dokumentuose (steigimo dokumentuose, licencijose, patentuose ir kt.), kad asmuo teikia finansines paslaugas;
@@ -593,7 +658,10 @@ Nr. XI-554, 2009-12-10, Žin., 2009, Nr. 153-6892 (2009-12-28), i. k. 1091010IST
 
 
 
-11) informacijos bei konsultacijų kredito teikimo ir mokėjimo klausimais teikimas; 
+11) kreditingumo vertinimo paslaugos; 
+Straipsnio punkto pakeitimai:
+Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
+ 
 
 
 
@@ -702,7 +770,10 @@ Nr. XI-554, 2009-12-10, Žin. 2009, Nr. 153-6892 (2009-12-28), i. k. 1091010ISTA
 4 straipsnis. Finansų įstaiga 
 
 
-1. Finansų įstaiga – finansų įmonė arba kredito įstaiga, kuri atitinka abu šio Įstatymo 2 straipsnio 42 dalyje nustatytus reikalavimus ir verčiasi bent vienos iš šio Įstatymo 3 straipsnyje nurodytų finansinių paslaugų teikimu. 
+1. Finansų įstaiga – finansų įmonė arba kredito įstaiga, kuri atitinka abu šio Įstatymo 2 straipsnio 43 dalyje nustatytus reikalavimus ir verčiasi bent vienos iš šio Įstatymo 3 straipsnyje nurodytų finansinių paslaugų teikimu. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
+ 
 
 
 
@@ -3042,3 +3113,8 @@ Lietuvos Respublikos finansų įstaigų įstatymo 1, 2, 3 straipsnių pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010ISTA0XI-1339
 Lietuvos Respublikos finansų įstaigų įstatymo 2, 23, 30, 43, 45, 46, 47, 50, 51 straipsnių ir Įstatymo priedo pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
+Lietuvos Respublikos finansų įstaigų įstatymo 2, 3, 4 straipsnių papildymo ir pakeitimo įstatymas
