@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.769B541DD7F7"
 
 # Lietuvos Respublikos ūkininko ūkio įstatymas
 
-Suvestinė redakcija nuo 2010-10-02 iki 2011-08-31
+Suvestinė redakcija nuo 2011-09-01 iki 2013-02-28
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 43-1358, i. k. 0991010ISTAIII-1159
  
@@ -435,7 +435,9 @@ Nr. XI-178, 2009-02-19, Žin., 2009, Nr. 25-980 (2009-03-05), i. k. 1091010ISTA0
 
 
 
-5. Vienintelis darbingas ūkininko partneris karinės prievolės atlikti nešaukiamas.
+5. Neteko galios nuo 2011-09-01.
+Straipsnio dalies pakeitimai:
+Nr. XI-1510, 2011-06-23, Žin., 2011, Nr. 86-4152 (2011-07-13), i. k. 1111010ISTA0XI-1510
  
 
 
@@ -505,3 +507,8 @@ Lietuvos Respublikos ūkininko ūkio įstatymo 10 straipsnio pakeitimo įstatyma
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1023, 2010-09-21, Žin., 2010, Nr. 118-5996 (2010-10-02), i. k. 1101010ISTA0XI-1023
 Lietuvos Respublikos ūkininko ūkio įstatymo 3 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1510, 2011-06-23, Žin., 2011, Nr. 86-4152 (2011-07-13), i. k. 1111010ISTA0XI-1510
+Lietuvos Respublikos ūkininko ūkio įstatymo 10 straipsnio pakeitimo įstatymas
