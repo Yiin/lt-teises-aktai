@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3081296EB949"
 
 # Lietuvos Respublikos Tarnybos Lietuvos Respublikos muitinėje statuto patvirtinimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2008-11-22 iki 2011-08-31
+Suvestinė redakcija nuo 2011-09-01 iki 2011-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2917; Žin. 2003, Nr.64-2881, i. k. 1001010ISTAIII-1986
  
@@ -1033,9 +1033,15 @@ Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000
 
 3) kai muitinės pareigūnai pagal kvietimą ar šaukimą yra išvykę į teismą arba į teisėsaugos ar kontrolės (priežiūros) funkcijas atliekančias institucijas;
 
-4) kai muitinės pareigūnai pagal šaukimą yra išvykę į naujokų šaukimo komisiją;
+4) kai muitinės pareigūnai yra išvykę karo prievolę administruojančios krašto apsaugos sistemos institucijos nurodymu; 
+Straipsnio punkto pakeitimai:
+Nr. XI-1524, 2011-06-23, Žin., 2011, Nr. 86-4166 (2011-07-13), i. k. 1111010ISTA0XI-1524
+ 
 
-5) kai muitinės pareigūnai yra pašaukti į pratybas, mokymus ar vykdyti tarnybinių užduočių pagal Karo prievolės įstatymą. Kai muitinės pareigūnas atlieka privalomąją pradinę karo tarnybą arba alternatyviąją krašto apsaugos tarnybą, jam garantuojamos tik einamos pareigos;
+5) Neteko galios nuo 2011-09-01
+Straipsnio punkto naikinimas:
+Nr. XI-1524, 2011-06-23, Žin. 2011, Nr. 86-4166 (2011-07-13), i. k. 1111010ISTA0XI-1524
+ 
 
 6) artimųjų giminaičių (tėvų (įtėvių), vaikų (įvaikių), brolių, seserų, senelių ir vaikaičių), sutuoktinio tėvų, vaikų (įvaikių), brolių ir seserų mirties atveju – iki 3 darbo dienų;
 
@@ -1060,7 +1066,10 @@ Nr. X-1770, 2008-11-06, Žin., 2008, Nr. 134-5176 (2008-11-22), i. k. 1081010IST
 
 8. Mirusio muitinės pareigūno šeimai, pilnamečiam vaikui (vaikams), įvaikiui (įvaikiams), tėvams (įtėviams) išmokama vieno mėnesio jo gauto vidutinio darbo užmokesčio dydžio pašalpa (neatsižvelgiant į kitų įstatymų nustatytas ir išmokėtas laidojimo pašalpas). Muitinės pareigūno, kuris žuvo arba mirė užsienyje atlikdamas tarnybines pareigas, palaikų pervežimo į Lietuvą išlaidas apmoka valstybė teisės aktų nustatyta tvarka. Muitinės pareigūno, mirusio užsienyje dėl priežasčių, nesusijusių su tarnybinių pareigų atlikimu, palaikų pervežimo į Lietuvą tvarką nustato Vyriausybė.
 
-9. Einamos pareigos garantuojamos, kai muitinės pareigūnas dėl privalomosios pradinės karo tarnybos arba alternatyviosios krašto apsaugos tarnybos atlikimo, atostogų kvalifikacijai tobulinti, nėštumo ir gimdymo atostogų ar atostogų vaikui prižiūrėti, kol šiam sueis treji metai, dėl laikino perkėlimo į kitas pareigas negali eiti pareigų.
+9. Einamos pareigos garantuojamos, kai muitinės pareigūnas dėl privalomosios karo tarnybos arba alternatyviosios krašto apsaugos tarnybos atlikimo, atostogų kvalifikacijai tobulinti, nėštumo ir gimdymo atostogų ar atostogų vaikui prižiūrėti, kol šiam sueis treji metai, dėl laikino perkėlimo į kitas pareigas negali eiti pareigų. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1524, 2011-06-23, Žin., 2011, Nr. 86-4166 (2011-07-13), i. k. 1111010ISTA0XI-1524
+ 
 
 10. Muitinės postų pareigūnui, pagal tarnybos pobūdį važinėjančiam tarnybiniais tikslais keleiviniu ar asmeniniu transportu, taip pat vykstančiam į tarnybos vietą ir iš jos, važiavimo išlaidos, išskyrus taksi, kompensuojamos finansų ministro nustatyta tvarka.
 
@@ -1215,4 +1224,9 @@ Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto 5, 8, 10, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1770, 2008-11-06, Žin., 2008, Nr. 134-5176 (2008-11-22), i. k. 1081010ISTA00X-1770
 Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto 5, 6, 15, 25, 46, 54, 55, 56 straipsnių pakeitimo ir papildymo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1524, 2011-06-23, Žin., 2011, Nr. 86-4166 (2011-07-13), i. k. 1111010ISTA0XI-1524
+Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto 54 straipsnio pakeitimo įstatymas
 
