@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.80CA64E588A1"
 
 # Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymas
 
-Suvestinė redakcija nuo 2010-11-23 iki 2011-09-30
+Suvestinė redakcija nuo 2011-10-01 iki 2015-09-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3009, i. k. 1021010ISTA00IX-987
  
@@ -58,7 +58,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Eksporto skatinimas – visuma priemonių, kuriomis siekiama sudaryti teisines ir ekonomines žemės ūkio ir maisto produktų eksporto plėtros ir užsienio prekybos balanso gerinimo prielaidas.
+3. Eksporto skatinimas – visuma priemonių, kuriomis siekiama sudaryti teisines ir ekonomines neperdirbtų žemės ūkio produktų, maisto produktų ir kitų perdirbtų žemės ūkio produktų eksporto plėtros ir užsienio prekybos balanso gerinimo prielaidas.
 
 
 
@@ -68,57 +68,59 @@ BENDROSIOS NUOSTATOS
 
 
 
-5. Intervencinės rinkos reguliavimo priemonės – teisės aktų nustatytos rinkos reguliavimo priemonės, kuriomis siekiama subalansuoti žemės ūkio ir maisto produktų pasiūlą ir paklausą rinkoje.
+5. Investicinė parama – teisės aktų nustatyta tvarka fiziniams ir juridiniams asmenims teikiama finansinė parama žemės ūkio, žemės ūkio produktų perdirbimo, maisto ūkio ir kaimo plėtros investicijoms.
 
 
 
 
-6. Investicinė parama – teisės aktų nustatyta tvarka fiziniams ir juridiniams asmenims teikiama finansinė parama žemės ūkio, maisto ūkio ir kaimo plėtros investicijoms.
+6. Kaimo bendruomenė – kaimo vietovės gyventojai, siejami bendrų gyvenimo kaimynystėje poreikių ir interesų. Kaimo bendruomenė, siekianti gauti finansinę paramą, turi Lietuvos Respublikos asociacijų įstatymo arba Lietuvos Respublikos viešųjų įstaigų įstatymo nustatyta tvarka įsteigti bendruomeninę organizaciją, kurios paskirtis – per iniciatyvas įgyvendinti viešuosius interesus, susijusius su gyvenimu kaimynystėje. 
 
 
 
 
-7. Kaimo bendruomenė – kaimo vietovės gyventojai, susieti bendrais gyvenimo kaimynystėje poreikiais ir interesais. Kaimo bendruomenė, siekianti gauti finansinę paramą, turi Lietuvos Respublikos asociacijų įstatymo arba Lietuvos Respublikos viešųjų įstaigų įstatymo nustatyta tvarka įsteigti bendruomeninę organizaciją, kurios paskirtis – per iniciatyvas įgyvendinti viešuosius interesus, susijusius su gyvenimu kaimynystėje.
+7. Kaimo plėtra – kaimo vietovių gyventojų gyvenimo ir darbo sąlygų kokybės gerinimas, kaimo vietovių ekonominės ir socialinės struktūros tobulinimas, bendruomeninių ryšių stiprinimas siekiant užtikrinti ekonominę ir socialinę sanglaudą, saugoti ir kurti darbo vietas, skatinti alternatyviąją veiklą kaime, saugoti ir puoselėti etninę kultūrą, kraštovaizdį ir gamtinę aplinką.
 
 
 
 
-8. Kaimo plėtra – kaimo vietovių gyventojų gyvenimo ir darbo sąlygų kokybės gerinimas, kaimo vietovių ekonominės ir socialinės struktūros tobulinimas, bendruomeninių ryšių stiprinimas siekiant užtikrinti ekonominę ir socialinę sanglaudą, saugoti ir kurti darbo vietas, skatinti alternatyviąją veiklą kaime, saugoti ir puoselėti etninę kultūrą, kraštovaizdį ir gamtinę aplinką.
+8. Kaimo vietovė – gyvenamoji vietovė, kurios gyventojų skaičius neviršija šešių tūkstančių.
 
 
 
 
-9. Kaimo vietovė – kaimas, miestelis ar miestas, kurio gyventojų skaičius neviršija šešių tūkstančių.
+9. Kompensacinė išmoka – teisės aktų nustatyta tvarka fiziniams ir juridiniams asmenims teikiama finansinė parama dėl nepalankių ūkininkavimo sąlygų, ekologinio ūkininkavimo įsipareigojimų, aplinkosaugos ar teisės aktų nustatytų kitų apribojimų vykdymo negautoms pajamoms ar turėtoms papildomoms išlaidoms kompensuoti.
 
 
 
 
-10. Kompensacinė išmoka – teisės aktų nustatyta tvarka fiziniams ir juridiniams asmenims teikiama finansinė parama dėl nepalankių ūkininkavimo sąlygų, ekologinio ūkininkavimo įsipareigojimų, aplinkosaugos ar teisės aktų nustatytų kitų apribojimų vykdymo negautoms pajamoms ar turėtoms papildomoms išlaidoms kompensuoti.
+10. Maisto ūkis – ūkio šaka, apimanti maisto produktų gamybą ir jų pateikimą rinkai.
 
 
 
 
-11. Maisto ūkis – ūkio šaka, apimanti maisto gamybą ir pateikimą vartotojams.
+11. Miškų ūkio veikla – veikla, apimanti miškų auginimą (įveisimą, atkūrimą, priežiūrą, apsaugą, tvarkymą) ir naudojimą. 
 
 
 
 
-12. Miškų ūkio veikla – veikla, apimanti miškų auginimą (įveisimą, atkūrimą, priežiūrą, apsaugą, tvarkymą) ir naudojimą.
+12. Paslaugos žemės ūkiui – Vyriausybės ar jos įgaliotos institucijos patvirtintame sąraše išvardytos su žemės ūkiu susijusios paslaugos.
+TAR pastaba. 2 straipsnio 12 dalis įsigalioja 2012-01-01.
+ 
 
 
 
 
-13. Paslaugos žemės ūkiui – Žemės ūkio ministerijos patvirtintame sąraše išvardytos su žemės ūkiu susijusios paslaugos.
+13. Pirminė gamyba – žemės ūkio produktų gamyba, įskaitant ir auginimą, derliaus nuėmimą, melžimą, gyvūnų veisimą.
 
 
 
 
-14. Pirminė gamyba – žemės ūkio produktų gamyba, įskaitant ir auginimą, derliaus nuėmimą, melžimą, gyvūnų veisimą.
+14. Pirminis perdirbimas – veikla: apdorojimas, apdirbimas, pirminis tvarkymas, kurios metu iš žemės ūkio produkto nekeičiant jo cheminės sudėties taip pat gaunamas žemės ūkio produktas.
 
 
 
 
-15. Pirminis perdirbimas – veikla: apdorojimas, apdirbimas, pirminis tvarkymas, kurios metu iš žemės ūkio produkto nekeičiant jo cheminės sudėties taip pat gaunamas žemės ūkio produktas.
+15. Rinkos reguliavimo priemonės – teisės aktų nustatytos rinkos reguliavimo priemonės, kuriomis siekiama subalansuoti žemės ūkio ir maisto produktų pasiūlą ir paklausą rinkoje.
 
 
 
@@ -128,40 +130,47 @@ BENDROSIOS NUOSTATOS
 
 
 
-17. Valstybės pagalba žemės ūkiui – bet kokia priemonė, atitinkanti Europos Bendrijos steigimo sutarties 87 straipsnyje nustatytus kriterijus ir teikiama su žemės ūkio ir maisto gamyba, perdirbimu, prekyba ir kaimo plėtra susijusioms veiklos rūšims.
+17. Valstybės pagalba žemės ūkiui – bet kokia priemonė, atitinkanti Sutarties dėl Europos Sąjungos veikimo 107 straipsnio 1 dalyje nustatytus kriterijus ir teikiama su žemės ūkio ir maisto produktų gamyba, perdirbimu, prekyba ir kaimo plėtra susijusioms veiklos rūšims.
 
 
 
 
-18. Žemės ūkio produktai – augalininkystės, gyvulininkystės, paukštininkystės, žvėrininkystės, bitininkystės ir žuvininkystės produktai ir iš jų gauti pirminio perdirbimo produktai.
+18. Žemės ūkio produktai – augalininkystės, gyvulininkystės, paukštininkystės, žvėrininkystės, bitininkystės, žuvininkystės produktai, užaugintos miško uogos, vaistažolės, grybai ir iš jų gauti pirminio perdirbimo produktai, skirti vartoti arba tolesnei maisto produktų ar ne maisto produktų gamybai.
 
 
 
 
-19. Žemės ūkio produktų gamyba – veikla, apimanti pirminę gamybą ir pirminį perdirbimą.
+19. Žemės ūkio produktų gamyba – veikla, apimanti pirminę gamybą ir (ar) jos metu gautų savo žemės ūkio produktų pirminį perdirbimą.
 
 
 
 
-20. Žemės ūkio valda – žemės ūkio veiklos subjekto ar alternatyviosios veiklos subjekto plėtojamos žemės ūkio veiklos ir (ar) alternatyviosios veiklos gamybos vienetų visuma, susijusi bendrais teisiniais, technologiniais ir ekonominiais santykiais.
+20. Žemės ūkio produktų perdirbimas – veikla, kurios metu pakeičiama žemės ūkio produktų pirminė fizinė ir (ar) cheminė sudėtis. 
 
 
 
 
-21. Žemės ūkio veikla – žemės ūkio produktų gamyba, paslaugų žemės ūkiui teikimas ir (arba) geros agrarinės ir aplinkosauginės žemės būklės palaikymas.
+21. Žemės ūkio valda – žemės ūkio veiklos ar alternatyviosios veiklos subjekto plėtojamos žemės ūkio veiklos ir (ar) alternatyviosios veiklos gamybos vienetų visuma, susijusi bendrais teisiniais, technologiniais ir ekonominiais santykiais.
 
 
 
 
-22. Žemės ūkio veiklos subjektas – žemės ūkio veikla arba žemės ūkio ir alternatyviąja veikla užsiimantis fizinis ar juridinis asmuo arba fizinių ar juridinių asmenų grupė, taip pat Lietuvoje registruotas užsienio juridinio asmens filialas, kurių žemės ūkio valda yra įregistruota Lietuvos Respublikos žemės ūkio ir kaimo verslo registre.
+22. Žemės ūkio veikla – veikla, apimanti žemės ūkio produktų gamybą, savos gamybos žemės ūkio produktų perdirbimą ir iš jų pagamintų maisto ar ne maisto produktų realizavimą, taip pat paslaugų žemės ūkiui teikimą ir (arba) geros agrarinės ir aplinkosauginės žemės būklės palaikymą. 
 
 
 
 
-23. Žemės ūkis – ūkio šaka, apimanti žemės ūkio veiklą.
+23. Žemės ūkio veiklos subjektas – žemės ūkio veikla arba žemės ūkio ir alternatyviąja veikla užsiimantis fizinis ar juridinis asmuo arba fizinių ar juridinių asmenų grupė, taip pat Lietuvoje registruotas užsienio juridinio asmens filialas, kurių žemės ūkio valda yra įregistruota Lietuvos Respublikos žemės ūkio ir kaimo verslo registre. 
+
+
+
+
+24. Žemės ūkis – ūkio šaka, apimanti žemės ūkio veiklą.
+
+
+Straipsnio pakeitimai:
+Nr. XI-1577, 2011-09-15, Žin., 2011, Nr. 119-5610 (2011-10-01), i. k. 1111010ISTA0XI-1577
  
-
-
 
 
 
@@ -252,7 +261,10 @@ ANTRASIS SKIRSNIS
 4 straipsnis. Žemės ūkio, maisto ūkio ir kaimo plėtros politikos įgyvendinimas
 
 
-1. Žemės ūkio, maisto ūkio ir kaimo plėtros politiką įgyvendina Vyriausybė, Žemės ūkio ministerija, kitos įstatymais ir kitais teisės aktais įgaliotos valstybės institucijos, įstaigos bei savivaldybių institucijos pagal įstatymų ir kitų teisės aktų nustatytą kompetenciją. Savivaldybių institucijos apie įstatymais priskirtų funkcijų įgyvendinimą žemės ūkio, maisto ūkio ir kaimo plėtros srityse teikia informaciją Žemės ūkio ministerijai Vyriausybės nustatyta tvarka.
+1. Žemės ūkio, maisto ūkio ir kaimo plėtros politiką įgyvendina Vyriausybė, Žemės ūkio ministerija, kitos įstatymais ir kitais teisės aktais įgaliotos valstybės institucijos, įstaigos, taip pat savivaldybių institucijos pagal įstatymų ir kitų teisės aktų nustatytą kompetenciją. Savivaldybių institucijos Žemės ūkio ministerijos nustatyta tvarka teikia jai informaciją apie įstatymais priskirtų funkcijų įgyvendinimą žemės ūkio, maisto ūkio ir kaimo plėtros srityse.
+Straipsnio dalies pakeitimai:
+Nr. XI-1577, 2011-09-15, Žin., 2011, Nr. 119-5610 (2011-10-01), i. k. 1111010ISTA0XI-1577
+ 
 
 
 
@@ -268,7 +280,7 @@ ANTRASIS SKIRSNIS
 5 straipsnis. Lietuvos kaimo tinklas
 
 
-1. Svarbiausiems žemės ūkio, maisto ūkio ir kaimo plėtros klausimams nagrinėti, informacijai apie kaimo plėtros priemones bei gerąją perduotiną praktiką kaupti ir analizuoti, jai viešinti, keitimuisi patirtimi ir žiniomis nacionaliniu ir tarptautiniu mastu organizuoti, pasiūlymams valstybės institucijoms ir įstaigoms kaimo plėtros ir su ja susijusiais klausimais teikti, mokymo programoms vietos veiklos grupėms, mokymo ir techninės pagalbos teritoriniam ir tarptautiniam bendradarbiavimui rengti iš susijusių su kaimo plėtra ir žemės ūkiu, maisto ūkiu valstybės institucijų, įstaigų bei žemės ūkio ir kaimo nevyriausybinių organizacijų sudaromas Lietuvos kaimo tinklas.
+1. Svarbiausiems žemės, maisto, miškų ūkių ir kaimo plėtros klausimams nagrinėti, informacijai apie kaimo plėtros priemones bei gerąją perduotiną praktiką kaupti ir analizuoti, jai viešinti, keitimuisi patirtimi ir žiniomis nacionaliniu ir tarptautiniu mastu organizuoti, pasiūlymams valstybės institucijoms ir įstaigoms kaimo plėtros ir su ja susijusiais klausimais teikti, mokymo programoms vietos veiklos grupėms rengti, techninei pagalbai teritoriniam ir tarptautiniam bendradarbiavimui teikti iš su kaimo plėtra ir žemės, maisto, miškų ūkiais susijusių valstybės ir savivaldybių institucijų ir įstaigų, taip pat kitų su kaimo plėtra ir žemės, maisto, miškų ūkiais susijusių viešųjų juridinių asmenų sudaromas Lietuvos kaimo tinklas.
 
 
 
@@ -278,10 +290,12 @@ ANTRASIS SKIRSNIS
 
 
 
-3. Lietuvos kaimo tinklo veiklai koordinuoti ir tinklo tikslams įgyvendinti Žemės ūkio ministerija iš Lietuvos kaimo tinkle dalyvaujančių su kaimo plėtra ir žemės ūkiu, maisto ūkiu susijusių valstybės institucijų, įstaigų bei žemės ūkio ir kaimo nevyriausybinių organizacijų atstovų sudaro visuomeniniais pagrindais veikiančią instituciją – Lietuvos kaimo tinklo tarybą, tvirtina jos sudėtį ir nuostatus.
+3. Lietuvos kaimo tinklo veiklai koordinuoti ir šio tinklo tikslams įgyvendinti Žemės ūkio ministerija iš Lietuvos kaimo tinkle dalyvaujančių su kaimo plėtra ir žemės, maisto, miškų ūkiais susijusių valstybės ir savivaldybių institucijų ir įstaigų, kitų viešųjų juridinių asmenų atstovų sudaro visuomeniniais pagrindais veikiančią instituciją – Lietuvos kaimo tinklo tarybą, tvirtina jos sudėtį ir nuostatus.
+
+
+Straipsnio pakeitimai:
+Nr. XI-1577, 2011-09-15, Žin., 2011, Nr. 119-5610 (2011-10-01), i. k. 1111010ISTA0XI-1577
  
-
-
 
 
 
@@ -355,7 +369,10 @@ Parama žemės ūkiui, maisto ūkiui ir kaimo plėtrai teikiama vadovaujantis š
 
 
 
-3) intervencinės rinkos reguliavimo priemonės;
+3) rinkos reguliavimo priemonės; 
+Straipsnio punkto pakeitimai:
+Nr. XI-1577, 2011-09-15, Žin., 2011, Nr. 119-5610 (2011-10-01), i. k. 1111010ISTA0XI-1577
+ 
 
 
 
@@ -380,7 +397,9 @@ Parama žemės ūkiui, maisto ūkiui ir kaimo plėtrai teikiama vadovaujantis š
 
 
 
-8) kitos Vyriausybės nustatytos priemonės.
+8) kitos Vyriausybės ar jos įgaliotos institucijos nustatytos priemonės.
+Straipsnio punkto pakeitimai:
+Nr. XI-1577, 2011-09-15, Žin., 2011, Nr. 119-5610 (2011-10-01), i. k. 1111010ISTA0XI-1577
  
 
 
@@ -393,7 +412,10 @@ Parama žemės ūkiui, maisto ūkiui ir kaimo plėtrai teikiama vadovaujantis š
 8 straipsnis. Paramos žemės ūkiui, maisto ūkiui ir kaimo plėtrai administravimas
 
 
-1. Valstybės ir Europos Sąjungos paramos priemones administruoja ir įgyvendina Žemės ūkio ministerija, Vyriausybės įgaliotos institucijos ir įstaigos, savivaldybių institucijos pagal įstatymų ir kitų teisės aktų nustatytą kompetenciją.
+1. Valstybės ir Europos Sąjungos paramos priemones administruoja ir įgyvendina Žemės ūkio ministerija, valstybės įmonė Žemės ūkio ir informacijos ir kaimo verslo centras, valstybės įmonė Lietuvos žemės ūkio ir maisto produktų rinkos reguliavimo agentūra, savivaldybių institucijos pagal įstatymų nustatytą kompetenciją. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1577, 2011-09-15, Žin., 2011, Nr. 119-5610 (2011-10-01), i. k. 1111010ISTA0XI-1577
+ 
 
 
 
@@ -409,6 +431,13 @@ Parama žemės ūkiui, maisto ūkiui ir kaimo plėtrai teikiama vadovaujantis š
 
 
 4. Valstybės ir Europos Sąjungos paramos lėšų naudojimo tvarką ir sąlygas nustato Žemės ūkio ministerija.
+
+
+
+
+5. Apie valstybės ir Europos Sąjungos paramos priemonių administravimo metu priimtą individualų administracinį aktą (sprendimą) asmeniui, kuriam šis individualus aktas (sprendimas) skirtas arba kurio teisėms ir pareigoms turi tiesioginį poveikį, ne vėliau kaip per 20 darbo dienų nuo šio individualus administracinio akto (sprendimo) priėmimo dienos yra pranešama raštu ir (arba) elektroniniu paštu ar per informacines sistemas, jeigu asmuo sutiko, kad informacija jam bus teikiama tokiu būdu.
+Papildyta straipsnio dalimi:
+Nr. XI-1577, 2011-09-15, Žin., 2011, Nr. 119-5610 (2011-10-01), i. k. 1111010ISTA0XI-1577
  
 
 
@@ -419,7 +448,10 @@ Parama žemės ūkiui, maisto ūkiui ir kaimo plėtrai teikiama vadovaujantis š
 9 straipsnis. Rizikos valdymo priemonės žemės ūkyje
 
 
-1. Žemės ūkio veiklos subjektų nuostoliai, patirti dėl stichinių meteorologinių reiškinių, nuo kurių nėra galimybės apsidrausti, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, suderinus su Europos Komisija, iš dalies kompensuojami.
+1. Neteko galios nuo 2011-10-01
+Straipsnio dalies naikinimas:
+Nr. XI-1577, 2011-09-15, Žin. 2011, Nr. 119-5610 (2011-10-01), i. k. 1111010ISTA0XI-1577
+ 
 
 
 
@@ -442,11 +474,12 @@ KETVIRTASIS SKIRSNIS
 10 straipsnis. Žemės ūkio, maisto ūkio oficialioji statistika
 
 
-Žemės ūkio, maisto ūkio oficialiąją statistiką, vadovaudamiesi Lietuvos Respublikos statistikos įstatymu, tvarko Lietuvos statistikos departamentas, Žemės ūkio ministerija, Vyriausybės įgaliotos institucijos ir kiti Lietuvos Respublikos statistikos įstatyme nurodyti juridiniai asmenys.
+Žemės ūkio, maisto ūkio oficialiąją statistiką, vadovaudamiesi Lietuvos Respublikos statistikos įstatymu, tvarko Lietuvos statistikos departamentas, Žemės ūkio ministerija ar valstybės įmonės, kurių savininko teises įgyvendina Žemės ūkio ministerija, Vyriausybės įgaliotos institucijos ir kiti Lietuvos Respublikos statistikos įstatyme nurodyti juridiniai asmenys.
 
 
 Straipsnio pakeitimai:
 Nr. XI-1091, 2010-11-04, Žin., 2010, Nr. 137-6992 (2010-11-23), i. k. 1101010ISTA0XI-1091
+Nr. XI-1577, 2011-09-15, Žin., 2011, Nr. 119-5610 (2011-10-01), i. k. 1111010ISTA0XI-1577
  
 
 
@@ -476,10 +509,17 @@ Nr. XI-1091, 2010-11-04, Žin., 2010, Nr. 137-6992 (2010-11-23), i. k. 1101010IS
 12 straipsnis. Žemės ūkio, maisto ūkio ir kaimo plėtros informacinės sistemos
 
 
-Valstybės ir Europos Sąjungos paramos lėšos administruojamos, žemės ūkio ir maisto produktų rinka reguliuojama bei žemės ūkio, maisto ūkio ir kaimo plėtros politikai formuoti reikiama informacija kaupiama informacinėse sistemose, kurias steigia Žemės ūkio ministerija.
+1. Valstybės ir Europos Sąjungos paramos lėšos administruojamos, žemės ūkio ir maisto produktų rinka reguliuojama, žemės ūkio, maisto ūkio ir kaimo plėtros politikai formuoti reikiama informacija kaupiama informacinėse sistemose, kurias steigia Žemės ūkio ministerija.
+
+
+
+
+2. Valstybės įmonė Žemės ūkio informacijos ir kaimo verslo centras, valstybės įmonė Žemės ūkio ir maisto produktų rinkos reguliavimo agentūra atlieka Žemės ūkio ir maisto produktų rinkos informacinės sistemos tvarkytojų funkcijas.
+
+
+Straipsnio pakeitimai:
+Nr. XI-1577, 2011-09-15, Žin., 2011, Nr. 119-5610 (2011-10-01), i. k. 1111010ISTA0XI-1577
  
-
-
 
 
 
@@ -487,15 +527,27 @@ Valstybės ir Europos Sąjungos paramos lėšos administruojamos, žemės ūkio 
 13 straipsnis. Duomenų teikimas ir naudojimas
 
 
-1. Žemės ūkio ministerija, Vyriausybės įgaliotos institucijos, įstaigos, savivaldybių institucijos ir kiti Vyriausybės įgalioti juridiniai asmenys įstatymų ir kitų teisės aktų nustatyta tvarka pagal kompetenciją turi teisę gauti iš žemės ūkio veiklos subjektų, alternatyviosios veiklos subjektų, kitų asmenų, gavusių valstybės ir Europos Sąjungos paramą, duomenis ir informaciją apie lėšų naudojimą, o iš valstybės registrų bei duomenų bazių – neatlygintinai duomenis ir informaciją, kurių reikia žemės ūkio, maisto ūkio ir kaimo plėtros informacinių sistemų ir registrų funkcionavimui užtikrinti.
+1. Žemės ūkio ministerija, Vyriausybės įgaliotos institucijos, įstaigos, savivaldybių institucijos ir kiti Vyriausybės įgalioti juridiniai asmenys įstatymų ir kitų teisės aktų nustatyta tvarka pagal kompetenciją turi teisę gauti iš žemės ūkio veiklos subjektų, alternatyviosios veiklos subjektų, kitų asmenų, gavusių valstybės ar Europos Sąjungos paramą, duomenis ir informaciją apie lėšų naudojimą, o iš valstybės registrų bei duomenų bazių – neatlygintinai duomenis ir informaciją, kurių reikia žemės ūkio, maisto ūkio ir kaimo plėtros informacinių sistemų ir registrų funkcionavimui užtikrinti.
 
 
 
 
-2. Žemės ūkio veiklos subjektai, alternatyviosios veiklos subjektai ir kiti asmenys, gavę valstybės ir Europos Sąjungos paramą, privalo teikti duomenis ir informaciją apie lėšų naudojimą šio straipsnio 1 dalyje nurodytoms institucijoms, įstaigoms ir juridiniams asmenims Žemės ūkio ministerijos ar jos įgaliotos institucijos nustatyta tvarka.
+2. Viešoji įstaiga Lietuvos žemės ūkio konsultavimo tarnyba Žemės ūkio ministerijos nustatyta tvarka renka, kaupia ir apdoroja duomenis, apibūdinančius žemės ūkio produkcijos gamintojų ūkinę finansinę veiklą ir jos rezultatus. Vadovaujantis Europos Sąjungos ir Lietuvos Respublikos teisės aktais, apibendrinti duomenys teikiami Europos Komisijai, kuri juos naudoja rengdama ataskaitas dėl padėties žemės ūkyje ir žemės ūkio rinkų bei ūkių pajamų Bendrijoje.
+
+
+
+
+3. Žemės ūkio subjektai, alternatyviosios veiklos subjektai ir kiti asmenys, gavę valstybės ir Europos Sąjungos paramą, privalo teikti duomenis ir informaciją apie lėšų naudojimą šio straipsnio 1 dalyje nurodytoms institucijoms, įstaigoms ir juridiniams asmenims Žemės ūkio ministerijos ar jos įgaliotos institucijos nustatyta tvarka.
+
+
+
+
+4. Siekdamos viešai ir skaidriai naudoti valstybės ir Europos Sąjungos paramą, Vyriausybės ar Žemės ūkio ministerijos įgaliotos institucijos ir įstaigos turi teisę skelbti paramos prašančių pareiškėjų ir paramos gavėjų sąrašus ir pinigų sumas, skirtas iš Lietuvos Respublikos valstybės biudžeto, Europos Sąjungos fondų ir (ar) kitų lėšų. 
+
+
+Straipsnio pakeitimai:
+Nr. XI-1577, 2011-09-15, Žin., 2011, Nr. 119-5610 (2011-10-01), i. k. 1111010ISTA0XI-1577
  
-
-
 
 
 
@@ -543,3 +595,8 @@ Lietuvos Respublikos žemės ūkio ir kaimo plėtros įstatymo pakeitimo įstaty
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1091, 2010-11-04, Žin., 2010, Nr. 137-6992 (2010-11-23), i. k. 1101010ISTA0XI-1091
 Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo 10 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1577, 2011-09-15, Žin., 2011, Nr. 119-5610 (2011-10-01), i. k. 1111010ISTA0XI-1577
+Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo 2, 4, 5, 7, 8, 9, 10, 12, 13 straipsnių pakeitimo ir papildymo įstatymas
