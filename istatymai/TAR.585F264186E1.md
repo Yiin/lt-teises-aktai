@@ -2007,9 +2007,9 @@ Vaiko teisių apsaugos kontrolierius
 
 Seimo, Seimo Pirmininko, Respublikos
   Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
-  tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Valstybinės
-  lošimų priežiūros komisijos, Vertybinių popierių komisijos, Vyriausiosios
-  rinkimų komisijos ir Vyriausiosios tarnybinės etikos komisijos:
+  tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Vertybinių
+  popierių komisijos, Vyriausiosios rinkimų komisijos ir Vyriausiosios
+  tarnybinės etikos komisijos:
 
 
  
@@ -2240,6 +2240,8 @@ apskaičiuojamas proporcingai dirbtam laikui.
 Straipsnio pakeitimai:
 Nr. XI-866,
 2010-06-03, Žin., 2010, Nr. 71-3544 (2010-06-19)
+Nr. XI-1582,
+2011-09-15, Žin., 2011, Nr. 119-5615 (2011-10-01)
  
 3 straipsnis. Įstatymo galiojimas
 1. Šio įstatymo
@@ -2280,10 +2282,18 @@ VALSTYBĖS
 POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
 ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1582,
+2011-09-15, Žin., 2011, Nr. 119-5615 (2011-10-01)
+VALSTYBĖS
+POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
+ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2010-07-13)
+(2011-10-04)
                  
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
