@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C40F7F89A7C3"
 
 # Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymas
 
-Suvestinė redakcija nuo 2010-01-01 iki 2011-09-30
+Suvestinė redakcija nuo 2011-10-01 iki 2018-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 46-1116, i. k. 0961010ISTA00I-1324
  
@@ -31,20 +31,17 @@ Vilnius
 1 straipsnis. Įstatymo paskirtis ir taikymas
 
 
-1. Šis įstatymas nustato naudojamų potencialiai pavojingų įrenginių, kurių grupės nurodytos šio įstatymo 3 straipsnyje, priežiūros ir jos atlikimo kontrolės bendruosius principus, siekiant užtikrinti saugų įrenginių darbą bei žmonių gyvybės, sveikatos ir aplinkos apsaugą nuo galimo įrenginių žalingo poveikio. Šis įstatymas taip pat taikomas įrenginių, sumontuotų ir naudojamų geležinkelių ar automobilių transporto priemonėse, priežiūrai. Pavojingų medžiagų talpykloms, gabenamoms geležinkeliu, šis įstatymas taikomas tik atliekant jų techninės būklės tikrinimą. 
-Straipsnio dalies pakeitimai:
-Nr. X-1699, 2008-07-14, Žin., 2008, Nr. 87-3459 (2008-07-31), i. k. 1081010ISTA00X-1699
+1. Šis įstatymas nustato naudojamų potencialiai pavojingų įrenginių, kurių grupės nurodytos šio įstatymo 3 straipsnyje, priežiūros ir jos atlikimo kontrolės bendruosius principus, siekiant užtikrinti saugų įrenginių darbą ir žmonių gyvybės, sveikatos ir aplinkos apsaugą nuo galimo žalingo šių įrenginių poveikio. Šis įstatymas taip pat taikomas branduolinės energetikos objektuose esantiems potencialiai pavojingiems įrenginiams, kurie branduolinės energetikos objekto projekte priskiriami prie neturinčių įtakos branduolinei saugai, ir įrenginių, sumontuotų ir naudojamų geležinkelių ar automobilių transporto priemonėse, priežiūrai. Pavojingų medžiagų talpykloms, gabenamoms geležinkeliu, šis įstatymas taikomas tik atliekant jų techninės būklės tikrinimą. 
+
+
+
+
+2. Šis įstatymas netaikomas įrenginiams, kurie projektuojami, įrengiami ir eksploatuojami pagal Branduolinės energijos įstatymo, Branduolinės saugos įstatymo, Radioaktyviųjų atliekų tvarkymo įstatymo, Radiacinės saugos įstatymo nuostatas ir kitų branduolinę ir radiacinę saugą reglamentuojančių teisės aktų reikalavimus, taip pat įrenginiams, naudojamiems išimtinai gynybos tikslams. 
+
+
+Straipsnio pakeitimai:
+Nr. XI-1543, 2011-06-28, Žin., 2011, Nr. 91-4320 (2011-07-19), i. k. 1111010ISTA0XI-1543
  
-
-
-
-
-2. Šis įstatymas netaikomas įrenginiams, kurių priežiūra nustatyta Branduolinės energijos, Radiacinės saugos, Radioaktyviųjų atliekų tvarkymo įstatymų, įrenginiams, naudojamiems išimtinai gynybos tikslams. 
-Straipsnio dalies pakeitimai:
-Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
- 
-
-
 
 
 
@@ -516,7 +513,10 @@ Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010IS
 
 
 
-6) nustačius, kad gali įvykti įrenginio avarija, atsirasti sutrikimų, kurie kelia pavojų darbuotojų ir kitų žmonių sveikatai, gyvybei, turtui ar aplinkai, apie tai nedelsiant raštu informuoti įrenginio savininką ir Valstybinę darbo inspekciją.
+6) nustačius, kad gali įvykti įrenginio avarija ar atsirasti sutrikimų, keliančių pavojų darbuotojų ir kitų žmonių sveikatai, gyvybei, turtui ar aplinkai, apie tai nedelsiant raštu informuoti įrenginio savininką ir Valstybinę darbo inspekciją, o jeigu tai susiję su potencialiai pavojingais įrenginiais, esančiais branduolinės energetikos objekte, – taip pat Valstybinę atominės energetikos saugos inspekciją. 
+Straipsnio punkto pakeitimai:
+Nr. XI-1543, 2011-06-28, Žin., 2011, Nr. 91-4320 (2011-07-19), i. k. 1111010ISTA0XI-1543
+ 
 
 
 
@@ -903,3 +903,8 @@ Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-591, 2009-12-21, Žin., 2009, Nr. 159-7201 (2009-12-31), i. k. 1091010ISTA00XI-591
 Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo 2, 4, 5, 10-1 straipsnių pakeitimo ir įstatymo papildymo 5-1 straipsniu įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1543, 2011-06-28, Žin., 2011, Nr. 91-4320 (2011-07-19), i. k. 1111010ISTA0XI-1543
+Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo 1 ir 8 straipsnių pakeitimo įstatymas
