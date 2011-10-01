@@ -13,105 +13,80 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 2011-02-01 iki 2011-09-30
+Suvestinė redakcija nuo 2011-10-01 iki 2013-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
  
-LIETUVOS RESPUBLIKOS BRANDUOLINĖS ENERGIJOS Į S T A T Y M A S
+Nauja redakcija nuo 2011-10-01:
+Nr. XI-1537, 2011-06-28, Žin. 2011, Nr. 91-4314 (2011-07-19) ; Žin. 2011, Nr. 109-0 (2011-09-03), i. k. 1111010ISTA0XI-1537
+ 
+LIETUVOS RESPUBLIKOS  BRANDUOLINĖS ENERGIJOS ĮSTATYMAS
  
 1996 m. lapkričio 14 d. Nr. I-1613
 Vilnius
  
+ 
 
 
 PIRMASIS SKIRSNIS
-
-
-
-
-BENDROJI DALIS
+BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo paskirtis ir tikslai
 
 
-1. Šis įstatymas reguliuoja visuomeninius santykius, atsirandančius naudojant branduolinę energiją elektros ir šilumos energijai gaminti. Jis sudaro fizinių ir juridinių asmenų veiklos branduolinėje energetikoje juridinį pagrindą. Įstatymo tikslas – užtikrinti branduolinę saugą, kai branduolinė energija naudojama taikiems poreikiams tenkinti, ir užkirsti kelią branduolinės ginkluotės plėtrai neleistinai disponuojant branduolinėmis medžiagomis (įskaitant branduolinį kurą ir branduolines atliekas). Šio įstatymo nuostatos atitinka Lietuvos Respublikos įsipareigojimus pagal Branduolinės saugos konvenciją ir užtikrina žmogaus bei aplinkos apsaugą nuo kenksmingo radiacijos poveikio.
-
-
-
-
-2. Šis įstatymas nustato:
-
-
-1) branduolinės energetikos valdymo pagrindus;
+1. Šis įstatymas nustato visuomeninius santykius, atsirandančius naudojant branduolinę energiją elektros ir šilumos energijai gaminti, taip pat kitiems taikiems tikslams. Įstatymas nustato branduolinės energetikos srities veiklos teisinį pagrindą, taip pat nustato valstybės ir savivaldybių institucijų įgaliojimus vykdant branduolinės energetikos politikos formavimo ir įgyvendinimo bei branduolinės energetikos srities veiklos valstybinio valdymo, reglamentavimo, priežiūros ir kontrolės funkcijas.
 
 
 
 
-2) branduolinės saugos ir radiacinės apsaugos valstybinio reguliavimo principus branduolinėje energetikoje; 
+2. Pagrindiniai šio įstatymo tikslai:
+
+
+1) nustatyti branduolinės energetikos sektoriuje veikiančių subjektų teises, pareigas ir tarpusavio santykius;
 
 
 
 
-3) licencijavimo branduolinėje energetikoje pagrindines sąlygas;
+2) nustatyti branduolinės energetikos srities veiklos valstybinio valdymo, reglamentavimo, priežiūros ir kontrolės teisinius pagrindus, valstybės ir savivaldybių institucijų funkcijas ir atsakomybę;
 
 
 
 
-4) ypatingas branduolinės energetikos objektų projektavimo ir statybos sąlygas;
+3) sukurti teisines sąlygas visuomenės ir aplinkos saugumu bei darnaus energetikos sektoriaus vystymosi principais pagrįstam branduolinės energijos naudojimui;
 
 
 
 
-5) branduolinės energetikos objektų eksploatavimo pagrindines sąlygas;
+4) užtikrinti, kad branduolinė energija būtų naudojama taikiems tikslams tenkinti, ir užkirsti kelią branduolinio ginklo platinimui neleistinai disponuojant branduolinėmis medžiagomis;
 
 
 
 
-6) branduolinių medžiagų bei įrengimų eksporto ir importo pagrindines sąlygas;
+5) užtikrinti Lietuvos Respublikos tarptautinių įsipareigojimų dėl saugaus branduolinės energijos naudojimo tinkamą vykdymą;
 
 
 
 
-7) branduolinių ir radioaktyviųjų medžiagų, naudojamų branduolinėje energetikoje, transportavimo ir sandėliavimo pagrindines sąlygas;
+6) sudaryti teisines prielaidas branduolinės energetikos Lietuvos Respublikoje plėtrai, užtikrinant Nacionalinėje energetikos strategijoje keliamus tikslus ir uždavinius;
 
 
 
 
-8) branduolinės energetikos objektų ir branduolinių medžiagų fizinės saugos pagrindinius reikalavimus; 
-Straipsnio punkto pakeitimai:
-Nr. IX-596, 2001-11-13, Žin., 2001, Nr. 99-3528 (2001-11-28), i. k. 1011010ISTA00IX-596
- 
-
-
-
-
-9) branduolinių ir radiacinių avarijų prevencijos bei likvidavimo tvarkos pagrindinius reikalavimus;
-
-
-
-
-10) atsakomybės branduolinėje energetikoje pagrindus;
-
-
-
-
-11) ekonomines ir finansines branduolinės energetikos veiklos pagrindines sąlygas;
-
-
-
-
-12) darbo santykių ypatumus branduolinėje energetikoje.
+7) sukurti tinkamas sąlygas investicijoms į branduolinės energetikos infrastruktūrą.
 
 
 
 
 
 
-3. Šio įstatymo devintojo skirsnio nuostatos taikomos ir kitose veiklos su branduolinėmis medžiagomis srityse.
-Papildyta straipsnio dalimi:
-Nr. IX-596, 2001-11-13, Žin., 2001, Nr. 99-3528 (2001-11-28), i. k. 1011010ISTA00IX-596
+3. Šis įstatymas nustato veiklos su branduolinėmis medžiagomis, kitos branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais ir branduolinio kuro ciklo medžiagų, įskaitant radioaktyviąsias atliekas, tvarkomų branduolinės energetikos objekte, tvarkymo bendruosius teisinius pagrindus. Branduolinės saugos, radiacinės saugos ir radioaktyviųjų atliekų tvarkymo saugos reglamentavimas ir priežiūra branduolinės energetikos srityje atliekami vadovaujantis šiuo įstatymu ir Lietuvos Respublikos branduolinės saugos įstatymu (toliau – Branduolinės saugos įstatymas), Lietuvos Respublikos radiacinės saugos įstatymu (toliau – Radiacinės saugos įstatymas) ir Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymu (toliau – Radioaktyviųjų atliekų tvarkymo įstatymas).
+
+
+
+
+4. Šio įstatymo nuostatos suderintos su šio įstatymo priede nurodytu Europos Sąjungos teisės aktu.
  
 
 
@@ -119,206 +94,190 @@ Nr. IX-596, 2001-11-13, Žin., 2001, Nr. 99-3528 (2001-11-28), i. k. 1011010ISTA
 
 
 
-2 straipsnis. Pagrindinės įstatyme vartojamos sąvokos
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Atominė elektrinė – visuma įrengimų ir pastatų, skirtų elektros arba elektros ir šilumos energijai gaminti naudojant branduolinį kurą.
+1. Asmuo – fizinis asmuo ir (ar) juridinis asmuo.
 
 
 
 
-2. Branduolinė avarija – grandininės branduolių dalijimosi reakcijos aktyviojoje reaktoriaus zonoje kontrolės ir valdymo sutrikimas; kritinės masės susidarymas pakraunant, perkraunant, pervežant ir saugojant branduolinį kurą; šilumos mainų sutrikimai, sukėlę kuro elementų pažeidimą ir (ar) personalo apšvitinimą, viršijantį leistinas ribas.
+2. Avarinė parengtis – gebėjimas veiksmingai sumažinti padarinius branduolinių ir (ar) radiologinių avarijų, taip pat bet kokių kitų įvykių, galinčių kelti pavojų žmonių sveikatai ir saugumui, jų turtui ir aplinkai ir atsitinkančių dėl branduolinės energetikos objektų veiklos ar branduolinių ir (ar) branduolinio kuro ciklo medžiagų naudojimo.
 
 
 
 
-3. Branduolinė energetika – energetikos šaka, kurioje branduolinė energija naudojama elektrai ir šilumai gaminti.
+3. Avarinės parengties zonos – zonos aplink branduolinės energetikos objektą, nustatomos įvertinus šio objekto pavojingumą, kurį lemia galimo radioaktyviojo užterštumo mastas ir padariniai, regiono geografinės, meteorologinės ir klimato charakteristikos, siekiant suplanuoti avarinės parengties priemones.
 
 
 
 
-4. Branduolinė sauga – branduolinės energetikos objekto savybė apriboti pagal nustatytas normas radiacijos poveikį žmogui bei aplinkai ir normalios eksploatacijos, ir avarinių situacijų atvejais.
+4. Branduolinė (atominė) elektrinė – visuma įrenginių ir statinių, skirtų elektros arba elektros ir šilumos energijai gaminti naudojant branduolinį kurą.
 
 
 
 
-5. Branduolinė žala – žmogaus mirtis ar pakenkimas sveikatai, turto netektis ar sugadinimas, nepalankios pasekmės aplinkai dėl radiacijos poveikio, susijusio su branduolinės energetikos objekto veikla ar branduoline (radiacine) avarija.
+5. Branduolinė avarija – grandininės branduolių dalijimosi reakcijos aktyviojoje branduolinio reaktoriaus zonoje kontrolės ir valdymo sutrikimas, kritinės masės susidarymas įkraunant, perkraunant, pervežant ir (ar) saugant branduolinį kurą ar kitas branduolines medžiagas, šilumos mainų sutrikimai, sukėlę branduolinio kuro elementų pažeidimą, neleistiną radionuklidų išmetimą ar jonizuojančiosios spinduliuotės sklidimą į darbo ar gamtinę aplinką ir (ar) ribines dozes viršijančią darbuotojų apšvitą ir (ar) galintys sukelti žalingą poveikį žmonėms ir (ar) gamtinei aplinkai. 
 
 
 
 
-6. Branduolinės energetikos objektas – atominė elektrinė, branduolinis reaktorius, branduolinių medžiagų ir radioaktyviųjų atliekų saugykla, jų perdirbimo objektas.
+6. Branduolinė energetika – energetikos šaka, kurioje energija, išsiskirianti branduolių dalijimosi metu, naudojama elektros ir šilumos energijai gaminti, taip pat kitiems taikiems tikslams.
 
 
 
 
-7. Branduolinės energetikos objekto eksploatacija – įvairiapusė veikla, kad būtų įgyvendinti objektui nustatyti tikslai, įskaitant energijos gamybą, kuro pakrovimą, reaktoriaus paleidimą, stabdymą, bandymą, techninį aptarnavimą, remontą, tikrinimą ir kitas su jo veikla susijusias operacijas.
+7. Branduolinė žala – jonizuojančiosios spinduliuotės, atsiradusios dėl branduolinės energetikos objekto veiklos, branduolinės ar radiologinės avarijos, sukelta žmogaus mirtis ar pakenkimas sveikatai, turto netektis ar sugadinimas, nepalankūs padariniai gamtinei aplinkai.
 
 
 
 
-8. Branduolinės energetikos objektą eksploatuojanti organizacija – ūkio subjektas, turintis licenciją bei materialinių ir finansinių išteklių eksploatuoti branduolinės energetikos objektą ir atsakingas už jo saugos būklę.
+8. Branduolinės (atominės) elektrinės energijos blokas – branduolinis reaktorius su priklausiniais, skirtas elektros arba elektros ir šilumos gamybai. Branduolinė (atominė) elektrinė gali būti sudaryta iš vieno ar kelių energijos blokų.
 
 
 
 
-9. Branduolinės energetikos objekto fizinė sauga – visuma organizacinių, teisinių, techninių ir specialiųjų priemonių, kurių tikslas yra apsaugoti branduolinius įrenginius ir branduolines bei radioaktyviąsias medžiagas nuo neteisėto jų užvaldymo ar pagrobimo ir nuo nesankcionuoto pašalinių asmenų patekimo į branduolinio objekto teritoriją. 
-Straipsnio dalies pakeitimai:
-Nr. IX-596, 2001-11-13, Žin., 2001, Nr. 99-3528 (2001-11-28), i. k. 1011010ISTA00IX-596
- 
+9. Branduolinės dvejopo naudojimo prekės – prekės, įskaitant programinę įrangą ir technologijas, kurios yra specialiai suprojektuotos ar parengtos branduolinėms medžiagoms gaminti, naudoti ar perdirbti ir kurios gali būti naudojamos ir civiliniams, ir kariniams tikslams.
 
 
 
 
-10. Branduolinės energetikos objekto rekonstrukcija – esminis objekto inžinerinis pertvarkymas (išplėtimas, laikančiųjų konstrukcijų pakeitimas, naujų technologijų taikymas ar naujo tipo reaktoriaus montavimas ir kt.), kuris gali turėti įtakos objekto branduolinei saugai.
+10. Branduolinės energetikos objektas – branduolinė (atominė) elektrinė, branduolinės (atominės) elektrinės energijos blokas, neenergetinis branduolinis reaktorius, branduolinių medžiagų saugykla, radioaktyviųjų atliekų tvarkymo įrenginys.
 
 
 
 
-11. Branduolinės energetikos objekto eksploatacijos nutraukimas – teisinių, organizacinių ir techninių priemonių įgyvendinimas siekiant sutvarkyti branduolinės energetikos objektą, kai nusprendžiama, kad objektas niekada nebebus naudojamas pagal savo pagrindinę paskirtį.
+11. Branduolinės energetikos objektą eksploatuojanti organizacija – asmuo, teisės aktų nustatyta tvarka turintis teisę eksploatuoti branduolinės energetikos objektą.
 
 
 
 
-12. Branduolinės medžiagos – plutonis, uranas (natūralus, prisodrintas urano 235 arba urano 233 izotopų ir nusodrintas) ir toris, esantys metalo lydinio, cheminio junginio ar koncentrato pavidalo arba kitų medžiagų mišinyje.
+12. Branduolinės energetikos objekto aikštelė – nustatytas ribas turinti teritorija, kurioje yra statomas (statybvietė), pastatytas, eksploatuojamas branduolinės energetikos objektas ar tiriama ir (ar) vertinama galimybė jį statyti arba kurioje vykdomas branduolinės energetikos objekto eksploatavimo nutraukimas ar uždaryto atliekyno priežiūra.
 
 
 
 
-13. Branduolinės paskirties prekės – branduolinės medžiagos, branduolinėje energetikoje naudojamos nebranduolinės medžiagos, branduolinė įranga ir technologija, taip pat dvigubos paskirties prekės, t.y. kurios gali būti naudojamos ir branduolinėje, ir kitoje, nebranduolinėje, veikloje.
+13. Branduolinės energetikos objekto, branduolinių ir branduolinio kuro ciklo medžiagų fizinė sauga (toliau – fizinė sauga) – visuma teisinių, organizacinių ir techninių priemonių bei branduolinės energetikos objektą eksploatuojančios organizacijos ar kitą veiklą su branduolinėmis ir (ar) branduolinio kuro ciklo medžiagomis vykdančių asmenų ir (ar) jų darbuotojų kompetencijų, kurių tikslas – užtikrinti branduolinės energetikos objekto, branduolinių ir (ar) branduolinio kuro ciklo medžiagų apsaugą nuo neteisėto jų užvaldymo ar pagrobimo, nesankcionuoto pašalinių asmenų patekimo į branduolinės energetikos objekto apsaugos zonas, apsaugoti branduolinės energetikos objektą, branduolines medžiagas ir (ar) branduolinio kuro ciklo medžiagas nuo veiksmų, kurie tiesiogiai arba netiesiogiai keltų riziką žmonių sveikatai ir saugumui dėl jonizuojančiosios spinduliuotės, išvengti branduolinės energetikos objektų normalios veiklos sutrikdymo, taip pat užtikrinti šių veiksmų prevenciją.
 
 
 
 
-14. Branduoliniai įrengimai – techninės konstrukcijos sudėtinės dalys (komponentai), kurios gali būti naudojamos branduolinėje technologijoje.
+14. Branduolinės energetikos objekto eksploatavimas – veikla, kurią vykdant įgyvendinami branduolinės energetikos objekto tikslai: energijos gamyba, branduolinio kuro įkrovimas ir perkrovimas, branduolinio reaktoriaus paleidimas, stabdymas, bandymai, techninė priežiūra, remontas, tikrinimas, radioaktyviųjų atliekų tvarkymas, galutinis sustabdymas ir kitos su objekto veikla susijusios operacijos.
 
 
 
 
-15. Branduolinis incidentas – kiekvienas sutrikimas (gedimas), eksploatacijos sąlygų ir ribų pažeidimas, galėjęs sukelti branduolinę avariją.
+15. Branduolinės energetikos objekto eksploatavimo nutraukimas – teisinių, organizacinių ir techninių priemonių įgyvendinimas branduolinės energetikos objekte nusprendus, kad jis niekada nebebus naudojamas pagal savo pagrindinę paskirtį.
 
 
 
 
-16. Branduolinis įrenginys – kiekviena techninė konstrukcija (mechanizmas, mašina ir kt.), kurioje susidaro arba gali būti perdirbamos, naudojamos ar saugomos branduolinės medžiagos.
+16. Branduolinės energetikos objekto modifikacija – branduolinės energetikos objekto projekto arba tokio objekto konstrukcijų, sistemų, komponentų arba jų savybių, programinės įrangos, eksploatavimo ribų ir sąlygų, licencijos turėtojo organizacinės struktūros pakeitimas.
 
 
 
 
-17. Branduolinis kuras – branduolinės medžiagos, naudojamos branduolinei energijai gaminti.
+17. Branduolinės energetikos objekto projektas – visuma nustatytų normatyvinių techninių dokumentų, kuriuose pateikiami branduolinės energetikos objekto sprendiniai (aiškinamoji dalis, statinio (statinių grupės) projektas, įrenginių projektai, skaičiavimai, brėžiniai, saugos analizės ataskaitos ir kt.) ir kurie skirti branduolinės energetikos objektui statyti ir eksploatuoti.
 
 
 
 
-18. Branduolinis reaktorius – įrenginys, kuriame gali vykti kontroliuojama savaiminė branduolių dalijimosi grandininė reakcija.
+18. Branduolinės energetikos objekto statiniai – prie ypatingų statinių kategorijos priskiriami branduolinės (atominės) elektrinės, branduolinės (atominės) elektrinės energijos bloko, neenergetinio branduolinio reaktoriaus, branduolinių medžiagų saugyklos, radioaktyviųjų atliekų tvarkymo įrenginio pastatai ir (ar) inžineriniai statiniai. 
 
 
 
 
-19. Branduolinių medžiagų apskaita – veikla, kurios tikslas – nustatyti branduolinių medžiagų kiekį ir nuolat fiksuoti to kiekio pakitimus.
+19. Branduolinio kuro ciklo medžiaga – branduolinės energetikos objekte naudojama arba tvarkoma branduolinė medžiaga, įskaitant branduolinį kurą, ar kita branduolinės energetikos srityje naudota medžiaga, tapusi radioaktyvi, įskaitant radioaktyviąsias atliekas.
 
 
 
 
-20. Branduolinių medžiagų saugykla – įrenginys ar statinys, skirtas branduolinėms medžiagoms saugoti.
+20. Branduolinis incidentas – branduolinės energetikos objekto eksploatavimo arba su branduolinėmis ir (ar) branduolinio kuro ciklo medžiagomis susijusios veiklos sutrikimas, keliantis pavojų žmonėms, turtui ar aplinkai, tačiau neatitinkantis branduolinės ar radiologinės avarijos kriterijų.
 
 
 
 
-21. Jonizuojančios spinduliuotės šaltinis – įrenginys, įrengimas ar radioaktyvioji medžiaga, skleidžiantys nustatyto dydžio jonizuojančią spinduliuotę.
+21. Branduolinis kuras – specialioje konstrukcijoje esanti branduolinė medžiaga, skirta energijai branduoliniame reaktoriuje gaminti.
 
 
 
 
-22. Leidimas – rašytinis kompetentingos valstybės valdymo institucijos sutikimas dirbti tam tikrus vienkartinius darbus.
+22. Branduolinis reaktorius – reaktorius, kuriame vyksta arba gali vykti valdomoji grandininė branduolių dalijimosi reakcija. 
 
 
 
 
-23. Licencija – valstybės valdymo institucijos išduotas oficialus dokumentas, suteikiantis teisę verstis tam tikra veikla branduolinės energetikos srityje laikantis nustatytų sąlygų bei reikalavimų.
+23. Branduolinių medžiagų saugykla – statinių, konstrukcijų, sistemų ir komponentų, skirtų branduolinėms medžiagoms saugoti, visuma.
 
 
 
 
-24. Radiacinė avarija – branduolinės energetikos objekto veiklos sutrikimas, dėl padidinto radiacijos poveikio sukėlęs žmonėms ir (ar) gamtinei aplinkai žalingas pasekmes.
+24. Fizinis asmuo – valstybės narės pilietis ar kitas fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo teisėmis.
 
 
 
 
-25. Radiacinė apsauga – teisės, technikos, technologijos, statybos, higienos normų, taisyklių bei priemonių visuma, garantuojanti žmonių ir gamtinės aplinkos apsaugą nuo branduolinės žalos.
+25. Juridinis asmuo – valstybėje narėje įsteigtas juridinis asmuo ar kita organizacija arba jų padalinys, teisės aktų nustatyta tvarka vykdantys ekonominę ir (ar) ūkinę komercinę veiklą Lietuvos Respublikoje, kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje.
 
 
 
 
-26. Radioaktyviosios atliekos – panaudotas branduolinis kuras ir kitos radioaktyviosios medžiagos, kurių tolesnis technologinis naudojimas yra netikslingas arba negalimas.
+26. Leidimas – įgaliotosios institucijos išduodamas dokumentas, kuriuo suteikiama teisė vykdyti šiame dokumente nurodytą veiklą ir (ar) darbus, laikantis teisės aktų reikalavimų ir šiame dokumente nurodytų sąlygų.
 
 
 
 
-27. Radioaktyviosios medžiagos – medžiagos, kurių savitasis aktyvumas viršija nustatytą dydį.
+27. Leidimo turėtojas – asmuo, kuriam teisės aktų nustatyta tvarka išduotas leidimas vykdyti leidime nurodytą veiklą ir (ar) darbus.
 
 
 
 
-28. Radioaktyviųjų atliekų saugykla – stacionarus įrenginys (statinys), skirtas radioaktyviosioms atliekoms laikinai ar nuolat saugoti.
+28. Licencija – įgaliotosios institucijos išduodamas dokumentas, kuriuo suteikiama teisė vykdyti šiame dokumente nurodytos rūšies veiklą, laikantis teisės aktų reikalavimų ir šiame dokumente nurodytų sąlygų.
 
 
 
 
-29. Radioaktyviųjų atliekų tvarkymas – veikla, susijusi su radioaktyviųjų medžiagų surinkimu, rūšiavimu, apdorojimu, perdirbimu, transportavimu, saugojimu ir laidojimu.
+29. Licencijos turėtojas – asmuo, kuriam teisės aktuose nustatyta tvarka išduota licencija tam tikros rūšies veiklai vykdyti ir kuris atsako už branduolinės energetikos objektą, branduolines medžiagas ir (ar) branduolinio kuro ciklo medžiagas, kaip nurodyta licencijoje.
 
 
 
 
-30. Sanitarinė apsaugos zona – tam tikra teritorija arba radioaktyviojo užteršimo vieta, kurioje apšvitinimo lygis branduolinės energetikos objekto normalaus eksploatavimo sąlygomis gali viršyti leistinas normas.
+30. Neenergetinis branduolinis reaktorius – branduolinis reaktorius, kurio pagrindinė paskirtis nėra gaminti elektros ir (ar) šilumos energiją.
 
 
 
 
-31. Stebėjimo zona – tam tikra teritorija, kurioje, neviršijant leistinų normų, galimas branduolinės energetikos objekto poveikis aplinkai dėl radioaktyviųjų medžiagų nuotekų ar emisijos.
+31. Numatoma grėsmė – galimų vidaus ir (ar) išorės pažeidėjų, kurie galėtų mėginti neteisėtai užvaldyti branduolinės energetikos objektą ir (ar) branduolines medžiagas arba įvykdyti teroro aktą, charakteristikų ir ketinimų visuma.
 
 
 
 
-32. Projektinė grėsmė – galimų vidaus ir (ar) išorės pažeidėjų, kurie galėtų mėginti neteisėtai užvaldyti branduolinės energetikos objektą ir (ar) branduolines medžiagas arba įvykdyti teroro aktą, charakteristikų ir ketinimų visuma. Užkirsti kelią šiems veiksmams yra projektuojama fizinės saugos sistema.
-Papildyta straipsnio dalimi:
-Nr. IX-596, 2001-11-13, Žin., 2001, Nr. 99-3528 (2001-11-28), i. k. 1011010ISTA00IX-596
-Straipsnio dalies pakeitimai:
-Nr. IX-1417, 2003-04-03, Žin., 2003, Nr. 38-1662 (2003-04-24), i. k. 1031010ISTA0IX-1417
- 
+32. Panaudotas branduolinis kuras – branduolinio reaktoriaus aktyviojoje zonoje apšvitintas ir visam laikui iš jo pašalintas branduolinis kuras. Panaudotas branduolinis kuras gali būti skirtas perdirbti siekiant naudoti pakartotinai arba skirtas tvarkyti kaip radioaktyviosios atliekos ir dėti į atliekyną.
 
 
 
 
+33. Pareiškėjas – asmuo, teisės aktų nustatyta tvarka pateikęs paraišką gauti licenciją ar leidimą.
 
 
-3 straipsnis. Veiklos branduolinėje energetikoje teisiniai principai
 
 
-1. Lietuvos Respublikoje veikla branduolinėje energetikoje galima tik pagal valstybės valdymo institucijos išduotą licenciją. Jeigu veikla branduolinėje energetikoje yra vykdoma be licencijos arba prieštarauja Lietuvos Respublikos įstatymams ar jos tarptautiniams įsipareigojimams, ji laikoma neteisėta ir užtraukia Lietuvos Respublikos įstatymų numatytą teisinę atsakomybę.
+34. Riboto patekimo zona – branduolinės energetikos objekto saugomos zonos perimetro išorinėje pusėje esanti zona, į kurią gali būti ribojamas asmenų įėjimas, transporto priemonių įvažiavimas ir kurioje gali būti ribojama ūkinė veikla. Riboto patekimo zona yra viena iš branduolinės energetikos objekto apsaugos zonų.
 
 
 
 
-2. Branduolinės energetikos objektą eksploatuojanti organizacija yra atsakinga už tai, kad jos vykdoma branduolinė veikla atitiktų šio įstatymo ir kitų Lietuvos Respublikos norminių aktų reikalavimus.
+35. Sanitarinė apsaugos zona – zona aplink branduolinės energetikos objektą, kurioje dėl galimo neigiamo jonizuojančiosios spinduliuotės poveikio žmonių sveikatai ir aplinkai galioja nustatytos specialiosios žemės naudojimo sąlygos.
 
 
 
 
-3. Kompetentinga institucija, išduodanti licencijas tam tikrai veiklai branduolinėje energetikoje, turi sukurti reikalavimų sistemą, garantuojančią:
+36. Saugoma zona – fizinės saugos tikslams įgyvendinti fiziniu barjeru pagal branduolinės energetikos objekto perimetrą apjuosta zona, į kurią įėjimas yra kontroliuojamas. Saugoma zona yra viena iš branduolinės energetikos objekto apsaugos zonų.
 
 
-1) branduolinę saugą;
 
 
-
-
-2) branduolinio ginklo neplatinimą;
-
-
-
-
-3) tik teisėtą branduolinių medžiagų naudojimą ir atliekų tvarkymą.
+37. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos branduolinės saugos įstatyme (toliau – Branduolinės saugos įstatymas), Lietuvos Respublikos radiacinės saugos įstatyme (toliau – Radiacinės saugos įstatymas) ir Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme (toliau – Radioaktyviųjų atliekų tvarkymo įstatymas).
  
 
 
@@ -326,22 +285,20 @@ Nr. IX-1417, 2003-04-03, Žin., 2003, Nr. 38-1662 (2003-04-24), i. k. 1031010IST
 
 
 
+3 straipsnis. Veiklos su branduolinėmis medžiagomis ir kitos branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais teisiniai pagrindai
 
 
-4 straipsnis. Branduolinės saugos garantijos
-
-
-1. Branduolinę saugą Lietuvos Respublikoje garantuoja valstybė.
-
-
-
-
-2. Už atskirų branduolinės energetikos objektų saugų eksploatavimą atsako tuos objektus eksploatuojančios organizacijos.
+1. Lietuvos Respublikoje veikla su branduolinėmis medžiagomis ir kita branduolinės energetikos srities veikla su jonizuojančiosios spinduliuotės šaltiniais galima tik turint įgaliotosios valstybės institucijos išduotą licenciją arba leidimą. Jeigu tokia veikla vykdoma be licencijos ar leidimo, ji laikoma neteisėta ir užtraukia Lietuvos Respublikos įstatymų numatytą teisinę atsakomybę.
 
 
 
 
-3. Vyriausybės ar jos įgaliotų valstybės institucijų patvirtintos branduolinės saugos ir radiacinės apsaugos normos bei taisyklės yra privalomos visoms valstybės valdymo, savivaldos institucijoms, įmonėms, įstaigoms, organizacijoms, jų susivienijimams, pareigūnams ir kitiems asmenims, kurių veikla susijusi su branduolinės energetikos objektų eksploatavimu ir branduolinių bei radioaktyviųjų medžiagų juose naudojimu ar tvarkymu. Saugos garantijos branduolinėje energetikoje grindžiamos Lietuvos Respublikos įstatymų, poįstatyminių aktų ir Lietuvos Respublikos tarptautinių sutarčių reikalavimais, taip pat Tarptautinės atominės energijos agentūros (TATENA), kitų tarptautinių organizacijų ar institucijų rekomendacijomis.
+2. Licencijos arba leidimo turėtojas yra atsakingas už tai, kad jo vykdoma veikla atitiktų šio įstatymo, Branduolinės saugos įstatymo, Radiacinės saugos įstatymo, Radioaktyviųjų atliekų tvarkymo įstatymo, kitų įstatymų ir teisės aktų reikalavimus.
+
+
+
+
+3. Pareiškėjas, pateikęs paraišką gauti licenciją arba leidimą, ir licencijos arba leidimo turėtojas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka informuoja valstybės ir (ar) savivaldybių institucijas, tarptautines organizacijas ir visuomenę apie ketinamą vykdyti ar vykdomą veiklą.
  
 
 
@@ -349,46 +306,102 @@ Nr. IX-1417, 2003-04-03, Žin., 2003, Nr. 38-1662 (2003-04-24), i. k. 1031010IST
 
 
 
-5 straipsnis. Branduolinės energetikos objektų ir branduolinių medžiagų nuosavybė
+4 straipsnis. Branduolinės ir radiacinės saugos garantijos ir reikalavimai branduolinės energijos naudojimui
 
 
-1. Branduolinės energetikos objektai nuosavybės teise priklauso valstybei ir (ar) turintiems šio įstatymo numatytas licencijas juridiniams asmenims.
+1. Branduolinę saugą ir radiacinę saugą Lietuvos Respublikoje garantuoja valstybė. Branduolinės energetikos srities saugos garantijos grindžiamos Lietuvos Respublikos įstatymų, kitų teisės aktų ir Lietuvos Respublikos tarptautinių sutarčių reikalavimais, taip pat Tarptautinės atominės energijos agentūros (toliau – TATENA), kitų tarptautinių organizacijų ar institucijų rekomendacijomis. 
 
 
 
 
-2. Branduolinės ir radioaktyviosios medžiagos nuosavybės teise gali priklausyti valstybei ir (ar) turintiems šio įstatymo numatytas licencijas juridiniams asmenims. 
+2. Lietuvos Respublikoje branduolinės energijos naudojimas ir su branduolinės energijos naudojimu susijusi veikla leidžiama tik taikiems tikslams. Branduolinėms medžiagoms yra taikomos TATENA ir Europos atominės energetikos bendrijos garantijos ir šioms garantijoms užtikrinti turi būti tvarkoma branduolinių medžiagų, nesvarbu, koks jų kiekis, apskaita ir vykdoma kontrolė.
 
 
-Straipsnio pakeitimai:
-Nr. IX-1021, 2002-07-02, Žin., 2002, Nr. 72-3020 (2002-07-17), i. k. 1021010ISTA0IX-1021
+
+
+3. Branduolines technologijas, medžiagas ir įrangą, taip pat branduolines dvejopo naudojimo prekes galima įvežti, išvežti ir naudoti laikantis Lietuvos Respublikos įstatymų ir tarptautinių įsipareigojimų, nustatytų 1968 m. Sutartyje dėl branduolinio ginklo neplatinimo ir kitose tarptautinėse sutartyse, kurių narė yra Lietuvos Respublika.
+
+
+
+
+4. Draudžiama iš Lietuvos Respublikos perduoti branduolines technologijas, medžiagas ir įrangą, taip pat branduolines dvejopo naudojimo prekes į valstybes, kurios neatitinka bent vienos iš šių sąlygų:
+
+
+1) nėra prisijungusios prie 1968 m. Sutarties dėl branduolinio ginklo neplatinimo arba neprisiėmusios įsipareigojimo valstybės branduolinėje veikloje taikyti TATENA patvirtintą garantijų sistemą;
+
+
+
+
+2) negarantuoja šių technologijų, medžiagų ir įrangos fizinės saugos;
+
+
+
+
+3) neprisiima įsipareigojimo neleisti šių technologijų, medžiagų ir įrangos reeksporto į valstybes, neatitinkančias bent vienos iš šios dalies 1 ir 2 punktuose nurodytų sąlygų.
  
+
+
+
+
+
+
+
+
+5 straipsnis. Reikalavimai, susiję su branduolinės energetikos objektų, branduolinių ir radioaktyviųjų medžiagų nuosavybe ir su branduolinių ir radioaktyviųjų medžiagų gamyba ir naudojimu
+
+
+1. Branduolinės energetikos objektai nuosavybės teise priklauso valstybei ir (ar) turintiems įstatymų nustatytas licencijas juridiniams asmenims. Branduolinės energetikos objektą nuosavybės teise valdantis juridinis asmuo gali eksploatuoti branduolinės energetikos objektą ir (ar) vykdyti kitą įstatymų nustatytą branduolinės energetikos srities veiklą tik turėdamas galiojančią licenciją ar leidimą.
+
+
+
+
+2. Branduolinės ir radioaktyviosios medžiagos nuosavybės teise gali priklausyti valstybei ir (ar) turintiems įstatymų nustatytas licencijas ir (ar) leidimus asmenims. Branduolines ar radioaktyviąsias medžiagas nuosavybės teise valdantis asmuo gali vykdyti veiklą su šiomis medžiagomis tik turėdamas galiojančią licenciją arba leidimą.
+
+
+
+
+3. Įstatymų nustatyta tvarka ir sąlygomis sustabdžius licencijos ar leidimo galiojimą arba panaikinus licencijos ar leidimo galiojimą, šio straipsnio 2 dalyje nurodytas asmuo, ketinantis tęsti veiklą su branduolinėmis ar radioaktyviosiomis medžiagomis, privalo atlikti visus veiksmus, reikalingus tam, kad licencijos ar leidimo galiojimo sustabdymas būtų panaikintas arba išduota nauja licencija ar leidimas.
+
+
+
+
+4. Jeigu asmuo šio straipsnio 3 dalyje nurodytais atvejais Branduolinės saugos įstatymo nustatyta tvarka ir terminais nesikreipia dėl licencijos ar leidimo galiojimo sustabdymo panaikinimo arba licencijos ar leidimo galiojimas yra panaikinamas, toks asmuo privalo nedelsdamas nuosavybės teise valdomas branduolines ar radioaktyviąsias medžiagas perduoti laikinai saugoti radioaktyviųjų atliekų tvarkytojui Radioaktyviųjų atliekų tvarkymo įstatymo nustatyta tvarka ir sąlygomis ir apie tai informuoti Valstybinę atominės energetikos saugos inspekciją. Nuosavybės teise asmens valdomas branduolines ar radioaktyviąsias medžiagas perdavus saugoti radioaktyviųjų atliekų tvarkytojui, jų savininkas ir toliau turi teisę Lietuvos Respublikos civiliniame kodekse (toliau – Civilinis kodeksas) nustatytais būdais perleisti šias medžiagas valdyti nuosavybės teise asmenims, turintiems įstatymų nustatytą licenciją ar leidimą.
+
+
+
+
+5. Gaminti radioaktyviąsias medžiagas, skirtas branduoliniam ginklui arba branduolinių (atominių) elektrinių kurui, taip pat perdirbti jau panaudotus tokio kuro elementus Lietuvos Respublikos teritorijoje draudžiama.
+
+
+
+
+6. Lietuvos Respublikos teritorijoje draudžiama branduolinio ginklo gamyba, dislokavimas, tranzitas ir įvežimas.
+ 
+
+
+
+
 
 
 
 
 ANTRASIS SKIRSNIS
-BRANDUOLINĖS ENERGETIKOS VALDYMAS
+BRANDUOLINĖS ENERGETIKOS VALSTYBINIS VALDYMAS
  
 
 
 6 straipsnis. Lietuvos Respublikos Seimo kompetencija
 
 
-Lietuvos Respublikos Seimas, vykdydamas valstybės valdžią branduolinėje energetikoje srityje:
+Lietuvos Respublikos Seimas (toliau – Seimas):
 
 
-1) formuoja valstybės politiką branduolinės energetikos srityje; 
-
-
-
-
-2) sprendžia principinius branduolinės energetikos plėtros Lietuvoje klausimus;
+1) sprendžia strateginius branduolinės energetikos plėtros Lietuvos Respublikoje klausimus;
 
 
 
 
-3) Vyriausybės teikimu priima įstatymą dėl naujos atominės elektrinės statybos ir jos vietos ar naujo branduolinio reaktoriaus įrengimo, taip pat dėl branduolinės energetikos objekto eksploatacijos nutraukimo. Įstatyme nustatomi pagrindiniai atominės elektrinės ar branduolinio reaktoriaus bei sanitarinės apsaugos ir stebėjimo zonų reikalavimai. 
+2) priima įstatymus dėl naujos branduolinės (atominės) elektrinės ar atskiro branduolinės (atominės) elektrinės energijos bloko, ar neenergetinio branduolinio reaktoriaus statybos, taip pat dėl branduolinės (atominės) elektrinės ar atskiro branduolinės (atominės) elektrinės energijos bloko, ar neenergetinio branduolinio reaktoriaus eksploatavimo nutraukimo.
  
 
 
@@ -398,103 +411,75 @@ Lietuvos Respublikos Seimas, vykdydamas valstybės valdžią branduolinėje ener
 
 
 
-7 straipsnis. Branduolinės energetikos valstybinis valdymas
+7 straipsnis. Lietuvos Respublikos Vyriausybės kompetencija
 
 
-Branduolinės energetikos valstybinį valdymą pagal savo kompetenciją atlieka:
+1. Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė):
 
 
-1) Lietuvos Respublikos Vyriausybė;
+1) formuoja valstybės politikos strategines kryptis branduolinės energetikos srityje;
 
 
 
 
-2) Lietuvos Respublikos energetikos ministerija; 
-Straipsnio punkto pakeitimai:
-Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
-Nr. XI-134, 2009-01-12, Žin., 2009, Nr. 10-356 (2009-01-27), i. k. 1091010ISTA00XI-134
- 
+2) įvertinusi branduolinės energetikos objekto statybos ekonominius ir visuomeninius poreikius, rengia ir teikia Seimui įstatymą dėl naujos branduolinės (atominės) elektrinės ar atskiro branduolinės (atominės) elektrinės energijos bloko, ar neenergetinio branduolinio reaktoriaus statybos, taip pat dėl branduolinės (atominės) elektrinės ar atskiro branduolinės (atominės) elektrinės energijos bloko, ar neenergetinio branduolinio reaktoriaus eksploatavimo nutraukimo;
 
 
 
 
-3) vietos savivaldos institucijos – tose joms priklausančiose teritorijose, kurių plotai yra branduolinės energetikos objekto sanitarinėje apsaugos ar stebėjimo zonose.
- 
+3) Lietuvos Respublikos įstatymų nustatyta tvarka priima nutarimą dėl naujos branduolinės (atominės) elektrinės ar atskiro branduolinės (atominės) elektrinės energijos bloko, ar neenergetinio branduolinio reaktoriaus statybos pradžios, taip pat priima nutarimą dėl kitų branduolinės energetikos objektų statybos;
 
 
 
 
+4) tvirtina branduolinės energetikos srities veiklos licencijų ir leidimų išdavimo taisykles arba paveda šias taisykles tvirtinti įgaliotai institucijai;
 
 
 
 
-8 straipsnis. Lietuvos Respublikos Vyriausybės kompetencija
+5) Lietuvos Respublikos vidaus reikalų ministerijos teikimu tvirtina valstybinį gyventojų apsaugos planą branduolinės avarijos atveju;
 
 
-1. Lietuvos Respublikos Vyriausybė:
 
 
-1) įstatymų nustatyta tvarka priima sprendimus dėl konkrečių branduolinės energetikos objektų statybos;
+6) vertina ir priima sprendimą dėl pritarimo Valstybinės atominės energetikos saugos inspekcijos veiklos ataskaitai;
 
 
 
 
-2) sudaro branduolinės energetikos objekto priėmimo ir perdavimo eksploatuoti komisiją;
+7) atlieka kitas šio įstatymo, kitų įstatymų ir teisės aktų nustatytas funkcijas.
 
 
 
 
-3) parengia branduolinės saugos ir radiacinės apsaugos reguliavimo sistemą ir priemones;
 
 
+2. Vyriausybė, prieš priimdama nutarimą dėl naujos branduolinės (atominės) elektrinės ar atskiro branduolinės (atominės) elektrinės energijos bloko, ar neenergetinio branduolinio reaktoriaus statybos pradžios, įvertina:
 
 
-4) steigia branduolinės energetikos kontrolės ir priežiūros institucijas ir tvirtina jų įstatus (nuostatus);
+1) įstatyme dėl naujos branduolinės (atominės) elektrinės ar atskiro branduolinės (atominės) elektrinės energijos bloko, ar neenergetinio branduolinio reaktoriaus statybos nustatytų reikalavimų įvykdymą;
 
 
 
 
-5) tvirtina norminius aktus, reglamentuojančius branduolinių ir radioaktyviųjų medžiagų įsigijimo, saugojimo, transportavimo ir laidojimo tvarką, bei paveda juos tvirtinti 14, 15 ir 16 straipsniuose numatytoms ministerijoms ir Vyriausybės įstaigoms šiuose straipsniuose numatytais atvejais;
+2) branduolinės (atominės) elektrinės ar atskiro branduolinės (atominės) elektrinės energijos bloko, ar neenergetinio branduolinio reaktoriaus projektuose dalyvaujančių asmenų atitiktį nacionalinio saugumo interesams ir nacionalinio saugumo interesus užtikrinančių specialiųjų saugumo priemonių įvykdymą Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatyme ir (ar) kituose įstatymuose nustatyta tvarka ir sąlygomis;
 
 
 
 
-6) nustato veiklos branduolinėje energetikoje licencijavimo tvarką;
+3) gamtinių išteklių naudojimo branduolinės energetikos objekto statybos ir (ar) eksploatavimo reikmėms pagrindines charakteristikas ir poveikį aplinkai;
 
 
 
 
-7) nustato sanitarinės apsaugos ir stebėjimo zonų specifines sąlygas, reikalavimus ir jų plėtros kryptis; 
+4) įstatymų nustatytas branduolinės saugos garantijas.
 
 
 
 
-8) koordinuoja ministerijų ir kitų valstybės institucijų veiklą rengiant branduolinių avarijų prevencijos ir likvidavimo planus.
 
 
-
-
-
-
-2. Lietuvos Respublikos Vyriausybė, priimdama nutarimą dėl konkretaus branduolinės energetikos objekto statybos, atsižvelgia:
-
-
-1) į ekonominius ir visuomeninius poreikius;
-
-
-
-
-2) gamtinių išteklių naudojimo pagrindines charakteristikas ir poveikį aplinkai;
-
-
-
-
-3) branduolinės saugos ir radiacinės apsaugos garantijas;
-
-
-
-
-4) vietos savivaldos institucijos, kurios teritorijoje numatoma objekto statyba, išreikštą nuomonę.
+3. Vyriausybė, prieš priimdama nutarimą dėl kito branduolinės energetikos objekto statybos, įvertina šio straipsnio 2 dalies 3 ir 4 punktuose nustatytus reikalavimus, taip pat tokio branduolinės energetikos objekto statybos ekonominius ir visuomeninius poreikius.
  
 
 
@@ -502,99 +487,332 @@ Nr. XI-134, 2009-01-12, Žin., 2009, Nr. 10-356 (2009-01-27), i. k. 1091010ISTA0
 
 
 
+8 straipsnis. Vyriausybės ekstremalių situacijų komisijos kompetencija
 
 
-9 straipsnis. Energetikos ministerijos kompetencija
+Vyriausybės ekstremalių situacijų komisija:
 
 
-Energetikos ministerija:
-
-
-1) įgyvendina branduolinės energetikos objektus eksploatuojančių organizacijų dalyvio teises ir pareigas;
-
-
-
-
-2) įgyvendina valstybės politiką branduolinės energetikos srityje;
+1) priima sprendimus, reikalingus gresiančiai ar kilusiai branduolinei ar radiologinei avarijai valdyti;
 
 
 
 
-3) organizuoja dvišalį ir daugiašalį tarptautinį bendradarbiavimą branduolinės energetikos srityje;
+2) teikia Vyriausybei siūlymus dėl valstybės rezervo civilinės saugos priemonių atsargų naudojimo branduolinių ir radiologinių avarijų metu;
 
 
 
 
-4) organizuoja branduolinių avarijų prevencijos, avarijų likvidavimo, tyrimo bei pasekmių šalinimo priemones jos kontroliuojamuose branduolinės energetikos objektuose;
-
-
-
-
-5) pagal kompetenciją atstovauja Lietuvos Respublikai tarptautinėse branduolinės energetikos organizacijose ir konferencijose;
-
-
-
-
-6) organizuoja naujos atominės elektrinės ar kitų valstybės branduolinės energetikos objektų statybos vietos parinkimo specialios schemos, kurioje nagrinėjamos kelios galimos statybos vietos, parengimą;
-
-
-
-
-7) po to, kai yra patvirtintas statybos teritorijos detalus planas, nustatyta tvarka organizuoja sklypo atominės elektrinės ar kitų valstybės branduolinės energetikos objektų statybai paėmimo visuomenės poreikiams įteisinimą;
-
-
-
-
-8) organizuoja atominės energetikos infrastruktūros Lietuvos Respublikoje plėtrą; steigia projektavimo, mokslo bei technikos (kartu su Švietimo ir mokslo ministerija) institucijas, tenkinančias objektus eksploatuojančių organizacijų poreikius;
-
-
-
-
-9) vykdo kitas šio įstatymo nustatytas ar Vyriausybės jai pavestas funkcijas. 
-
-
-
-
-Straipsnio pakeitimai:
-Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
-Nr. XI-134, 2009-01-12, Žin., 2009, Nr. 10-356 (2009-01-27), i. k. 1091010ISTA00XI-134
+3) atlieka kitas Lietuvos Respublikos civilinės saugos įstatyme (toliau – Civilinės saugos įstatymas), taip pat Vyriausybės nustatytas su civilinės saugos sistemos uždavinių įgyvendinimu susijusias funkcijas.
  
 
 
 
 
-10 straipsnis. Vietos savivaldos institucijų kompetencija
-
-
-Vietos savivaldos institucijos tose joms priklausančiose teritorijose, kurių plotai yra branduolinės energetikos objekto sanitarinėje apsaugos ar stebėjimo zonose, pagal savo kompetenciją:
-
-
-1) dalyvauja kontroliuojant atominių elektrinių, branduolinių reaktorių ir kitų branduolinės energetikos įrenginių, kuriems nustatytos sanitarinės apsaugos zonos, veiklą;
 
 
 
 
-2) kontroliuoja, kaip laikomasi branduolinio objekto kraštovaizdžio ir architektūros reikalavimų, branduolinio objekto ir teritorijos sanitarijos, higienos bei gamtos apsaugos reikalavimų;
+9 straipsnis. Lietuvos Respublikos energetikos ministerijos kompetencija
+
+
+Lietuvos Respublikos energetikos ministerija (toliau – Energetikos ministerija):
+
+
+1) formuoja valstybės politiką branduolinės energetikos srityje ir organizuoja, koordinuoja ir kontroliuoja, kaip ji įgyvendinama;
 
 
 
 
-3) dalyvauja sprendžiant branduolinės energetikos objektų jų teritorijoje statybos, objektų rekonstrukcijos ar veiklos nutraukimo klausimus;
+2) įgyvendina branduolinės energetikos objektus eksploatuojančių organizacijų organo nario teises ir pareigas, jeigu tokių organizacijų organo narė yra Lietuvos Respublika;
 
 
 
 
-4) gauna iš objekto eksploatavimo organizacijos informaciją apie reaktoriaus gedimus, stabdymus, radioaktyviųjų medžiagų išmetimus ir kitus incidentus;
+3) organizuoja dvišalį ir daugiašalį tarptautinį bendradarbiavimą branduolinės energetikos sektoriuje;
 
 
 
 
-5) rengia gyventojų apsaugos planus ir juos įgyvendina branduolinių avarijų atvejais;
+4) pagal kompetenciją atstovauja Lietuvos Respublikai tarptautinėse branduolinės energetikos organizacijose ir konferencijose;
 
 
 
 
-6) informuoja gyventojus apie radiacinę situaciją atominių elektrinių ir kitų branduolinės energetikos objektų buvimo vietose ir apie įgyvendinamas radiacinės apsaugos priemones.
+5) po to, kai yra patvirtintas branduolinės energetikos objekto statybos teritorijos detalusis planas, teisės aktų nustatyta tvarka inicijuoja sklypo branduolinės energetikos objekto statybai paėmimą visuomenės poreikiams;
+
+
+
+
+6) organizuoja branduolinės energetikos infrastruktūros Lietuvos Respublikoje plėtrą; 
+
+
+
+
+7) atlieka kitas šio įstatymo, kitų įstatymų ir teisės aktų nustatytas funkcijas.
+ 
+
+
+
+
+
+
+
+
+10 straipsnis. Lietuvos Respublikos sveikatos apsaugos ministerijos ar jos įgaliotų institucijų kompetencija
+
+
+Lietuvos Respublikos sveikatos apsaugos ministerija (toliau – Sveikatos apsaugos ministerija) ar jos įgaliota institucija:
+
+
+1) nustato branduolinės energetikos objektuose dirbančiųjų sveikatos tikrinimo reikalavimus bei prižiūri ir kontroliuoja, kaip jų laikomasi;
+
+
+
+
+2) pagal kompetenciją Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo (toliau – Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymas) nustatyta tvarka dalyvauja branduolinės energetikos objektų poveikio aplinkai vertinimo procese, vertinant branduolinės energetikos objektų galimą įtaką visuomenės sveikatai;
+
+
+
+
+3) atlieka kitas šio įstatymo, kitų įstatymų ir teisės aktų nustatytas funkcijas.
+ 
+
+
+
+
+
+
+
+
+11 straipsnis. Lietuvos Respublikos aplinkos ministerijos ar jos įgaliotų institucijų kompetencija
+
+
+Lietuvos Respublikos aplinkos ministerija (toliau – Aplinkos ministerija) ar jos įgaliota institucija:
+
+
+1) teisės aktų nustatyta tvarka atlieka branduolinės energetikos objektų statinių valstybinę statybos priežiūrą;
+
+
+
+
+2) rengia ir tvirtina jonizuojančiosios spinduliuotės padarytos žalos aplinkai apskaičiavimo ir kompensavimo metodikas; 
+
+
+
+
+3) periodiškai informuoja visuomenę ir valstybės ir savivaldybių institucijas apie šalies aplinkos radiologinę būklę;
+
+
+
+
+4) atlieka kitas šio įstatymo, kitų įstatymų ir teisės aktų nustatytas funkcijas.
+ 
+
+
+
+
+
+
+
+
+12 straipsnis. Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos ir jos įgaliotų institucijų kompetencija
+
+
+1. Lietuvos Respublikos socialinės apsaugos ir darbo ministerija (toliau – Socialinės apsaugos ir darbo ministerija) koordinuoja potencialiai pavojingų įrenginių priežiūrą, kurią atlieka įgaliotosios įrenginių techninės būklės tikrinimo įstaigos Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo nustatyta tvarka.
+
+
+
+
+2. Lietuvos Respublikos valstybinė darbo inspekcija kontroliuoja, kaip laikomasi darbo, darbų saugos ir su jais susijusių teisės aktų reikalavimų.
+ 
+
+
+
+
+
+
+13 straipsnis. Lietuvos Respublikos švietimo ir mokslo ministerijos kompetencija
+
+
+Lietuvos Respublikos švietimo ir mokslo ministerija organizuoja branduolinės energetikos srities specialistų, įskaitant specialistus, turinčius su branduolinės energetikos objekto sauga susijusių pareigų, švietimo, mokslo ir mokymo programų, taip pat kitų priemonių rengimą ir įgyvendinimą, be kita ko, siekiant palaikyti ir toliau plėtoti kompetenciją ir žinias branduolinės saugos srityje. 
+ 
+
+
+
+
+
+
+14 straipsnis. Lietuvos Respublikos krašto apsaugos ministerijos kompetencija
+
+
+Lietuvos Respublikos krašto apsaugos ministerija (toliau – Krašto apsaugos ministerija):
+
+
+1) dalyvauja sudarant ir vykdant branduolinės (atominės) elektrinės ir kitų branduolinės energetikos objektų antiteroristinės ir antiintervencinės tarpžinybinės sąveikos planus;
+
+
+
+
+2) teisės aktų nustatyta tvarka dalyvauja užtikrinant branduolinės energetikos objektų fizinę saugą;
+
+
+
+
+3) teisės aktų nustatyta tvarka padeda likviduoti branduolinių ir (ar) radiologinių avarijų padarinius;
+
+
+
+
+4) atlieka kitas šio įstatymo, kitų įstatymų ir teisės aktų nustatytas funkcijas.
+ 
+
+
+
+
+
+
+
+
+15 straipsnis. Lietuvos Respublikos vidaus reikalų ministerijos ar jos įgaliotų institucijų kompetencija
+
+
+Lietuvos Respublikos vidaus reikalų ministerija (toliau – Vidaus reikalų ministerija) ar jos įgaliotos institucijos:
+
+
+1) užtikrina branduolinės energetikos objektų priešgaisrinę saugą, atlieka gaisrų gesinimo, žmonių ir turto gelbėjimo, gaisrų padarinių mažinimo darbus ir jiems vadovauja;
+
+
+
+
+2) atlieka branduolinės energetikos objektų valstybinę priešgaisrinę priežiūrą;
+
+
+
+
+3) derina Valstybinės atominės energetikos saugos inspekcijos rengiamus branduolinės energetikos objektų saugai svarbių konstrukcijų, sistemų ir komponentų priešgaisrinės saugos reikalavimus; 
+
+
+
+
+4) derina branduolinės energetikos objektų darbuotojų priešgaisrinės saugos mokymo programas ir dalyvauja šių objektų vadovaujančių darbuotojų žinių patikrinimuose;
+
+
+
+
+5) vykdo ir užtikrina branduolinės (atominės) elektrinės, Lietuvos Respublikos pasienio ruože esančių kitų branduolinės energetikos objektų ir vežamų per Lietuvos Respublikos teritoriją branduolinių medžiagų, kurių kiekis viršija Branduolinės saugos įstatymo 1 priede nustatytą kiekį, krovinių fizinę apsaugą pagal Valstybinės atominės energetikos saugos inspekcijos viršininko nustatytus reikalavimus;
+
+
+
+
+6) vykdo branduolinės energetikos objektų ir vežamų per Lietuvos Respublikos teritoriją branduolinių medžiagų krovinių apsaugos reagavimo pajėgų funkcijas, įskaitant pagalbos prašymo priėmimą, įvertinimą, teiktinos pagalbos poreikio nustatymą, pagalbos išsiuntimą į įvykio vietą, pagalbos įvykio vietoje užtikrinimą, pagalbos veiksmų koordinavimą;
+
+
+
+
+7) sudaro, koordinuoja ir vykdo branduolinės (atominės) elektrinės ir kitų branduolinės energetikos objektų antiteroristinės ir antiintervencinės tarpžinybinės sąveikos planus;
+
+
+
+
+8) tiria ir kontroliuoja kriminogeninę padėtį branduolinės energetikos objektų regionuose;
+
+
+
+
+9) tiria branduolinių, radioaktyviųjų medžiagų, kitų branduolinių dvejopo naudojimo prekių grobimo ir neteisėto disponavimo jomis atvejus;
+
+
+
+
+10) branduolinės energetikos objektą eksploatuojančios organizacijos pateiktos branduolinių ir radiologinių avarijų rizikos analizės ir vertinimo pagrindu sudaro ir prireikus atnaujina bei teikia Vyriausybei tvirtinti valstybinį gyventojų apsaugos planą branduolinės avarijos atveju, pagal kurį savivaldybės vykdomoji institucija savivaldybių ekstremaliųjų situacijų valdymo planuose numato gyventojų apsaugos priemones ir veiksmus branduolinių ir (ar) radiologinių avarijų atvejais, o Ignalinos rajono, Zarasų rajono ir Visagino savivaldybių vykdomosios institucijos parengia ir patvirtina detaliuosius gyventojų evakavimo planus;
+
+
+
+
+11) pagal kompetenciją įgyvendina branduolinės ir radiologinės avarijos ir jos padarinių likvidavimo priemones, organizuoja ir vykdo radiacinę užterštos teritorijos žvalgybą ir radiacinę žvalgybą iš oro;
+
+
+
+
+12) kartu su kitomis valstybės institucijomis organizuoja gyventojų apsaugos branduolinių ir radiologinių avarijų atveju pratybas;
+
+
+
+
+13) atlieka kitas šio įstatymo, kitų įstatymų ir teisės aktų nustatytas funkcijas.
+ 
+
+
+
+
+
+
+
+
+16 straipsnis. Lietuvos Respublikos valstybės saugumo departamento kompetencija
+
+
+1. Lietuvos Respublikos valstybės saugumo departamentas (toliau – Valstybės saugumo departamentas):
+
+
+1) siekiant apsaugoti valstybės saugumo interesus, įstatymų ir kitų teisės aktų nustatyta tvarka, pagal kompetenciją renka, analizuoja ir teikia informaciją apie grėsmes branduolinės energetikos objektams;
+
+
+
+
+2) įstatymų ir kitų teisės aktų nustatyta tvarka ir pagrindais vertina ir teikia išvadas apie branduolinės energetikos objektuose įdarbinamus ir dirbančius asmenis arba kitose institucijose ar įmonėse įdarbinamus ar dirbančius asmenis, kurie dėl jiems priskirtų funkcijų ar pavesto darbo turi įgyti teisę be palydos patekti į branduolinės energetikos objektų apsaugos zonas, išskyrus riboto patekimo zoną, taip pat apie asmenis, turinčius dalyvauti vežant branduolinio kuro ciklo medžiagas; 
+
+
+
+
+3) dalyvauja kuriant ir vykdant branduolinės (atominės) elektrinės ir kitų branduolinės energetikos objektų antiteroristinės ir antiintervencinės tarpžinybinės sąveikos planus;
+
+
+
+
+4) derina pareigybių Valstybinėje atominės energetikos saugos inspekcijoje, į kurias priimami (perkeliami) asmenys tikrinami Valstybės saugumo departamento siekiant gauti išvadą, nurodytą šio įstatymo 24 straipsnio 2 dalyje, sąrašą;
+
+
+
+
+5) atlieka kitas šio įstatymo, kitų įstatymų ir teisės aktų nustatytas funkcijas.
+
+
+
+
+
+
+2. Šio straipsnio 1 dalies 2 punkte nurodytų asmenų tikrinimo tvarką nustato Valstybės saugumo departamento generalinis direktorius.
+ 
+
+
+
+
+
+
+17 straipsnis. Savivaldybių institucijų kompetencija 
+
+
+Savivaldybių institucijos pagal kompetenciją:
+
+
+1) Lietuvos Respublikos įstatymuose ir kituose teisės aktuose nustatyta tvarka gauna informaciją apie branduolinės energetikos objektų, esančių savivaldybės teritorijoje, veiklą ar eksploatavimo nutraukimą, įgaliotoms valstybės institucijoms teikia pasiūlymus dėl tokių branduolinės energetikos objektų statybos, veiklos, jos priežiūros ir kontrolės;
+
+
+
+
+2) vadovaudamosi Vyriausybės patvirtintu valstybiniu gyventojų apsaugos branduolinės avarijos atveju planu, parengties branduolinėms ir (ar) radiologinėms avarijoms pagrindimą ir numatomas prevencines priemones išdėsto savivaldybės ekstremaliųjų situacijų valdymo plane;
+
+
+
+
+3) branduolinės ir radiologinės avarijos atveju informuoja gyventojus apie radiacinę padėtį branduolinės energetikos objektų buvimo vietose ir apie įgyvendinamas civilinės saugos priemones;
+
+
+
+
+4) atlieka kitas šio įstatymo, kitų įstatymų ir teisės aktų nustatytas funkcijas.
  
 
 
@@ -607,216 +825,27 @@ Vietos savivaldos institucijos tose joms priklausančiose teritorijose, kurių p
 
 
 TREČIASIS SKIRSNIS
-BRANDUOLINĖS SAUGOS IR RADIACINĖS APSAUGOS IR BRANDUOLINIŲ MEDŽIAGŲ APSKAITOS BEI KONTROLĖS VALSTYBINIS REGULIAVIMAS
+BRANDUOLINĖS SAUGOS, RADIACINĖS SAUGOS, FIZINĖS SAUGOS, VEIKLOS SU BRANDUOLINĖMIS MEDŽIAGOMIS IR KITOS BRANDUOLINĖS ENERGETIKOS SRITIES VEIKLOS SU JONIZUOJANČIOSIOS SPINDULIUOTĖS ŠALTINIAIS VALSTYBINIS REGLAMENTAVIMAS
  
 
 
-11 straipsnis. Reguliavimo tikslai
+18 straipsnis. Branduolinės saugos, radiacinės saugos, fizinės saugos, veiklos su branduolinėmis medžiagomis ir kitos branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais valstybinio reglamentavimo tikslai
 
 
-1. Branduolinės energetikos saugos valstybinio reguliavimo pagrindiniai tikslai:
+Branduolinės saugos, radiacinės saugos, fizinės saugos, veiklos su branduolinėmis medžiagomis ir kitos branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais valstybinio reglamentavimo pagrindiniai tikslai yra:
 
 
-1) nustatyti saugaus branduolinės energijos naudojimo sąlygas ir kriterijus;
+1) nustatyti branduolinės saugos, radiacinės saugos, fizinės saugos, veiklos su branduolinėmis medžiagomis, kitos branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais sąlygas ir reikalavimus, jų vykdymo kontrolės ir priežiūros teisinius pagrindus;
 
 
 
 
-2) kontroliuoti bei prižiūrėti šių sąlygų ir kriterijų laikymosi tvarką;
+2) kontroliuoti ir prižiūrėti, kaip laikomasi vadovaujantis šio straipsnio 1 dalies 1 punktu nustatytų sąlygų ir reikalavimų;
 
 
 
 
-3) nustatyti poveikio priemones asmenims, pažeidusiems branduolinės saugos, radiacinės apsaugos, taip pat branduolinių medžiagų apskaitos ir kontrolės reikalavimus.
-
-
-
-
-
-
-2. Veiklą branduolinėje energetikoje, energetikos objektus ir jonizuojančios spinduliuotės šaltinius kontroliuoja valstybinį reguliavimą atliekančios valstybės institucijos.
- 
-
-
-
-
-
-
-12 straipsnis. Kontrolės ir priežiūros institucijos
-
-
-Branduolinės energetikos objektų saugos ir branduolinių medžiagų apskaitos kontrolės ir priežiūros funkcijas atlieka Lietuvos Respublikos valstybinė atominės energetikos saugos inspekcija (toliau – VATESI). Pagal savo kompetenciją branduolinės energetikos objektų priežiūrą ir kontrolę taip pat atlieka kitos šiame įstatyme nurodytos valstybės institucijos bei vietos savivaldos institucijos joms priklausančiose teritorijose.
-
-
-
-
-
-
-13 straipsnis. Valstybės kontrolę ir priežiūrą atliekančių institucijų veiklos pagrindai
-
-
-1. Valstybės kontrolę ir priežiūrą atliekančios institucijos vadovaujasi Lietuvos Respublikos įstatymais, poįstatyminiais aktais ir normomis bei taisyklėmis, reglamentuojančiomis branduolinėje energetikoje atliekamų operacijų tvarką. Norminiuose aktuose nustatyta tvarka ir terminais valstybės kontrolę bei priežiūrą atliekančios institucijos tikrina branduolinės energetikos objektų branduolinės saugos ir radiacinės apsaugos bei fizinės saugos būklę ir pagal savo kompetenciją imasi visų reikiamų priemonių pastebėtiems trūkumams pašalinti.
-
-
-
-
-2. Valstybės institucijų ir pareigūnų sprendimai, priimti pagal kompetenciją, yra privalomi visiems fiziniams bei juridiniams asmenims ir turi būti įvykdyti tiksliai juose nurodytu laiku ir nustatyta tvarka.
- 
-
-
-
-
-
-
-14 straipsnis. Valstybinės atominės energetikos saugos inspekcijos kompetencija
-
-
-1. Vykdydama branduolinės saugos, radiacinės apsaugos bei branduolinių medžiagų apskaitos ir kontrolės valstybinį reguliavimą branduolinėje energetikoje, VATESI:
-
-
-1) kartu su Aplinkos ministerija tvirtina branduolinės energetikos objektų projektavimo ir statybos techninius reglamentus; 
-Straipsnio punkto pakeitimai:
-Nr. VIII-1309, 1999-07-07, Žin., 1999, Nr. 65-2088 (1999-07-28); Žin., 1999, Nr. 68-0 (1999-08-11), i. k. 0991010ISTAIII-1309
-Nr. IX-1688, 2003-07-03, Žin., 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010ISTA0IX-1688
- 
-
-
-
-
-2) tvirtina branduolinės energetikos objektų eksploatacijos normas ir taisykles, branduolinių ir branduolinėje energetikoje naudojamų radioaktyviųjų medžiagų saugojimo bei jų atliekų laidojimo saugos normas ir taisykles, nustato jų rengimo tvarką;
-
-
-
-
-3) kontroliuoja, kaip laikomasi licencijose ir saugos taisyklėse bei normose nustatytų reikalavimų;
-
-
-
-
-4) vykdo branduolinių medžiagų apskaitos bei kontrolės valstybinę priežiūrą; 
-Straipsnio punkto pakeitimai:
-Nr. IX-1688, 2003-07-03, Žin., 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010ISTA0IX-1688
- 
-
-
-
-
-5) Neteko galios nuo 2004-05-01
-Straipsnio punkto naikinimas:
-Nr. IX-1688, 2003-07-03, Žin. 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010ISTA0IX-1688
- 
-
-
-
-
-6) Neteko galios nuo 2004-05-01
-Straipsnio punkto naikinimas:
-Nr. IX-1688, 2003-07-03, Žin. 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010ISTA0IX-1688
- 
-
-
-
-
-7) informuoja visuomenės informavimo priemones apie radiacinę situaciją ir saugos būklę branduolinės energetikos objektuose;
-
-
-
-
-8) rengia branduolinės energetikos objektų saugos būklės apžvalgas ir teikia jas Vyriausybei, savivaldybėms bei kitoms suinteresuotoms institucijoms;
-
-
-
-
-9) organizuoja ir remia branduolinės saugos ir radiacinės apsaugos tyrimo bei ekspertizės darbus, savarankiškai atlieka incidentų ir įvykių branduolinės energetikos objektuose tyrimus;
-
-
-
-
-10) derina ir kontroliuoja personalo ir gyventojų apsaugos priemones branduolinės avarijos objektuose atvejui, tikrina objekto parengties branduolinės avarijos atvejui būklę;
-
-
-
-
-11) taiko saugos taisyklių pažeidėjams norminiuose aktuose nustatytas sankcijas;
-
-
-
-
-12) organizuoja dvišalį ir daugiašalį tarptautinį bendradarbiavimą branduolinės saugos ir radiacinės apsaugos srityje.
-
-
-
-
-
-
-2. Vykdydama savo funkcijas, VATESI veikia savarankiškai, vadovaudamasi įstatymais, savo nuostatais, kitais teisiniais aktais. Kad būtų užkirstas kelias galimai branduolinei avarijai, VATESI gali taikyti bet kokias jos kompetencijai priklausančias prevencijos priemones, įskaitant ir laikiną objekto veiklos sustabdymą.
- 
-
-
-
-
-
-
-15 straipsnis. Sveikatos apsaugos ministerijos kompetencija
-
-
-Sveikatos apsaugos ministerija:
-
-
-1) rengia ir tvirtina dirbančiųjų branduolinės energetikos objektuose bei gyventojų, gyvenančių šių objektų stebėjimo zonose, higienos norminius aktus bei taisykles ir kontroliuoja, kaip jų laikomasi;
-
-
-
-
-2) atlieka radiacijos poveikio žmonėms bei juos supančios aplinkos higieninius tyrimus ir nustato higieninius apsaugos reikalavimus;
-
-
-
-
-3) derina žemės sklypų parinkimą branduolinės energetikos objektų statybai ir atlieka jų statybos projektų valstybinę higienos ekspertizę;
-
-
-
-
-4) dalyvauja priimant pastatytus ar rekonstruotus branduolinės energetikos objektus, išduoda higienos pasą darbui su radioaktyviosiomis medžiagomis ir kitais jonizuojančios spinduliuotės šaltiniais;
-
-
-
-
-5) nustato dirbančiųjų su radioaktyviosiomis medžiagomis ir jonizuojančios spinduliuotės šaltiniais sveikatos tikrinimo reikalavimus, periodiškumą, kontraindikacijas bei kontroliuoja, kaip to laikomasi;
-
-
-
-
-6) vykdo dirbančiųjų branduolinės energetikos objektuose bei gyventojų, gyvenančių branduolinės energetikos stebėjimo zonoje, sveikatos monitoringą;
-
-
-
-
-7) užtikrina sveikatos apsaugos sistemos įstaigų parengtį branduolinės avarijos pasekmėms likviduoti;
-
-
-
-
-8) nustato gyventojų radiacinio saugumo normas ir kontroliuoja, kaip jos vykdomos;
-
-
-
-
-9) organizuoja pajėgų, likviduojančių branduolinę avariją ir (ar) jos pasekmes, bei gyventojų apšvitos higieninę kontrolę ir teikia pasiūlymus apšvitai mažinti; 
-Straipsnio punkto pakeitimai:
-Nr. VIII-534, 1997-11-20, Žin., 1997, Nr. 112-2825 (1997-12-10), i. k. 0971010ISTAVIII-534
- 
-
-
-
-
-10) nustato profesines ligas branduolinės energetikos darbuotojams, tiria šių ligų priežastis;
-
-
-
-
-11) vykdo gyventojų sveikatos mokymą radiacinės apsaugos klausimais.
+3) nustatyti ir taikyti poveikio priemones asmenims, pažeidusiems sąlygas ir reikalavimus, nustatytus vadovaujantis šio straipsnio 1 dalies 1 punktu.
  
 
 
@@ -826,89 +855,25 @@ Nr. VIII-534, 1997-11-20, Žin., 1997, Nr. 112-2825 (1997-12-10), i. k. 0971010I
 
 
 
-16 straipsnis. Aplinkos ministerijos kompetencija
+19 straipsnis. Branduolinės saugos, radiacinės saugos, fizinės saugos, veiklos su branduolinėmis medžiagomis ir kitos branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais valstybinio reglamentavimo teisiniai pagrindai
 
 
-Aplinkos ministerija:
-
-
-1) suderinusi su Sveikatos apsaugos ministerija, nustato radionuklidų išmetimo į aplinką normas, kontroliuoja jų laikymąsi, nustato leidimų išmetimams išdavimo tvarką;
+1. Branduolinės saugos, radiacinės saugos, fizinės saugos, veiklos su branduolinėmis medžiagomis ir kitos branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais valstybinis reglamentavimas atliekamas šiame įstatyme, Branduolinės saugos įstatyme, Radiacinės saugos įstatyme ir Radioaktyviųjų atliekų tvarkymo įstatyme nustatyta tvarka ir pagrindais.
 
 
 
 
-2) kartu su Sveikatos apsaugos ministerija nustato aplinkos radiacines apsaugos normas ir kontroliuoja jų vykdymą;
+2. Branduolinės saugos, radiacinės saugos branduolinės energetikos srityje, branduolinių medžiagų apskaitos ir kontrolės, branduolinių medžiagų, kurių kiekis viršija Branduolinės saugos įstatymo 1 priede nustatytą kiekį, ir branduolinio kuro ciklo medžiagų fizinės saugos, kitos branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais valstybinio reglamentavimo ir priežiūros funkcijas atlieka Valstybinė atominės energetikos saugos inspekcija.
 
 
 
 
-3) įstatymų nustatyta tvarka koordinuoja poveikio aplinkai vertinimo procesą;
+3. Vykdant branduolinės saugos, radiacinės saugos, fizinės saugos, veiklos su branduolinėmis medžiagomis ir kitos branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais valstybinį reglamentavimą, vadovaujamasi Lietuvos Respublikos tarptautinėmis sutartimis, kurių narė yra Lietuvos Respublika, Europos Sąjungos teisės aktais, Lietuvos Respublikos įstatymais ir kitais teisės aktais, reglamentuojančiais branduolinės saugos, radiacinės saugos, fizinės saugos, veiklos su branduolinėmis medžiagomis, kitos veiklos branduolinės energetikos srityje sąlygas ir reikalavimus. Teisės aktuose nustatyta tvarka ir terminais Valstybinė atominės energetikos saugos inspekcija tikrina branduolinės energetikos objektų būklę, branduolinės saugos, radiacinės saugos ir fizinės saugos sąlygų ir reikalavimų vykdymą, veiklą su branduolinėmis medžiagomis, kitą branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais ir pagal kompetenciją imasi visų reikiamų priemonių pastebėtiems trūkumams pašalinti. Kitos valstybės institucijos pagal kompetenciją tikrina branduolinės energetikos objektų būklę, kitą branduolinės energetikos srities veiklą ir imasi visų reikiamų priemonių pastebėtiems trūkumams pašalinti.
 
 
 
 
-4) kartu su VATESI tvirtina branduolinės energetikos objektų projektavimo ir statybos techninius reglamentus;
-
-
-
-
-5)derina branduolinių ir su jų eksploatacija susijusių objektų statybos vietos parinkimo, rekonstravimo, plėtimo projektus; 
-
-
-
-
-6)dalyvauja vykdant branduolinės energetikos objektų (statinių) valstybinę projektavimo ir statybos priežiūrą Lietuvos Respublikos Vyriausybės nustatyta tvarka;
-
-
-
-
-7) išduoda leidimus gamtos ištekliams naudoti, organizuoja valstybinį radioekologinį monitoringą ir koordinuoja bei kontroliuoja branduolinės energetikos objektų radiologinį monitoringą;
-
-
-
-
-8) organizuoja ir koordinuoja branduolinių objektų poveikio aplinkai mokslinius tyrimus;
-
-
-
-
-9)rengia ir tvirtina radiacijos padarytos žalos aplinkai apskaičiavimo ir kompensavimo metodikas;
-
-
-
-
-10) periodiškai informuoja visuomenę ir valstybės valdymo bei vietos savivaldos institucijas apie šalies radiacinę būklę, taip pat ir branduolinės energetikos objektų aplinkoje; 
-
-
-
-
-11) branduolinės energetikos objektų valstybinę statybos kontrolę ir priežiūrą atliekančių institucijų teikimu arba savo iniciatyva panaikina leidimą statyti ar rekonstruoti branduolinės energetikos objektą, kai paaiškėja, kad toks leidimas išduotas neteisėtai. 
-Papildyta straipsnio punktu:
-Nr. IX-586, 2001-11-08, Žin., 2001, Nr. 99-3520 (2001-11-28), i. k. 1011010ISTA00IX-586
- 
-
-
-
-
-Straipsnio pakeitimai:
-Nr. VIII-1309, 1999-07-07, Žin., 1999, Nr. 65-2088 (1999-07-28); Žin., 1999, Nr. 68-0 (1999-08-11), i. k. 0991010ISTAIII-1309
- 
-
-
-
-
-17 straipsnis. Socialinės apsaugos ir darbo ministerijos kompetencija
-
-
-1. Socialinės apsaugos ir darbo ministerija koordinuoja potencialiai pavojingų įrenginių priežiūrą, kurią vykdo įgaliotos įrenginių techninės būklės tikrinimo įstaigos Potencialiai pavojingų įrenginių priežiūros įstatymo nustatyta tvarka, išskyrus tuos, kuriuos kontroliuoja Valstybinė atominės energetikos saugos inspekcija. 
-Straipsnio dalies pakeitimai:
-Nr. IX-1688, 2003-07-03, Žin., 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010ISTA0IX-1688
- 
-
-
-
-
-2. Valstybinė darbo inspekcija prie Socialinės apsaugos ir darbo ministerijos kontroliuoja, kaip laikomasi darbo, darbų saugos ir su jais susijusių norminių aktų reikalavimų.
+4. Valstybės institucijų ir pareigūnų sprendimai, priimti pagal kompetenciją, yra privalomi visiems asmenims ir turi būti įvykdyti tiksliai sprendimuose nurodytu laiku ir nustatyta tvarka.
  
 
 
@@ -916,23 +881,15 @@ Nr. IX-1688, 2003-07-03, Žin., 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010IST
 
 
 
-18 straipsnis. Susisiekimo ministerijos kompetencija
+20 straipsnis. Veiklos su branduolinėmis medžiagomis, kitos branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais ir radioaktyviųjų atliekų tvarkymo veiklos licencijų ir leidimų išdavimo teisiniai pagrindai
 
 
-Susisiekimo ministerija:
-
-
-1) dalyvauja rengiant įstatymus ir poįstatyminius aktus, reguliuojančius branduolinių ir radioaktyviųjų medžiagų transportavimą;
+1. Branduolinės energetikos srities veiklos, veiklos su branduolinėmis medžiagomis, kitos branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais ir radioaktyviųjų atliekų tvarkymo veiklos licencijų ir leidimų rūšis, jų išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo, galiojimo panaikinimo ir pakeitimo tvarką ir pagrindus, taip pat licencijuojamos veiklos sąlygas, licencijos turėtojo teises ir pareigas nustato Branduolinės saugos įstatymas, Radiacinės saugos įstatymas, Radioaktyviųjų atliekų tvarkymo įstatymas ir juos įgyvendinantys teisės aktai. 
 
 
 
 
-2) dalyvauja mokant ir atestuojant darbuotojus, atliekančius branduolinių ir radioaktyviųjų medžiagų transportavimo operacijas;
-
-
-
-
-3) organizuoja geležinkelių transportą gyventojams evakuoti iš pavojingos zonos branduolinės avarijos atveju.
+2. Už licencijos ir leidimo išdavimą ar jų pakeitimą licencijos ar leidimo turėtojo prašymu, už šiame įstatyme, Branduolinės saugos įstatyme ir Radioaktyviųjų atliekų tvarkymo įstatyme nustatytų saugos analizės ir pagrindimo dokumentų derinimą, taip pat už kitas įstatymuose nustatytas administracines paslaugas imama valstybės rinkliava Lietuvos Respublikos rinkliavų įstatyme nustatyta tvarka.
  
 
 
@@ -940,40 +897,30 @@ Susisiekimo ministerija:
 
 
 
+21 straipsnis. Valstybinė atominės energetikos saugos inspekcija
 
 
-19 straipsnis. Neteko galios nuo 1999-07-28
-Straipsnio naikinimas:
-Nr. VIII-1309, 1999-07-07, Žin. 1999, Nr. 65-2088 (1999-07-28) ; Žin. 1999, Nr. 68-0 (1999-08-11), i. k. 0991010ISTAIII-1309
- 
-
-
-
-
-20 straipsnis. Krašto apsaugos ministerijos kompetencija
-
-
-1. Krašto apsaugos ministerija:
-
-
-1) dalyvauja sudarant bei vykdant atominės elektrinės ir kitų branduolinės energetikos objektų antiteroristinės bei antiintervencinės apsaugos tarpžinybinės sąveikos planus;
+1. Valstybinė atominės energetikos saugos inspekcija – branduolinės energetikos srities veiklos, veiklos su branduolinėmis medžiagomis ir kitos branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais valstybinį reglamentavimą ir priežiūrą vykdanti savarankiška valstybės įstaiga, veikianti pagal šį ir kitus įstatymus ir savo nuostatus. Valstybinės atominės energetikos saugos inspekcijos savininkė – valstybė, jos teises ir pareigas įgyvendina Vyriausybė. Valstybinės atominės energetikos saugos inspekcijos nuostatus tvirtina Vyriausybė. Valstybinė atominės energetikos saugos inspekcija veikia pagal Vyriausybės patvirtintą strateginį veiklos planą ir pagal Valstybinės atominės energetikos saugos inspekcijos viršininko patvirtintą metinį veiklos planą.
 
 
 
 
-2) teisės aktų nustatyta tvarka dalyvauja užtikrinant atominės elektrinės fizinę saugą.
-Straipsnio punkto pakeitimai:
-Nr. X-928, 2006-11-28, Žin., 2006, Nr. 137-5202 (2006-12-16), i. k. 1061010ISTA000X-928
- 
+2. Valstybinė atominės energetikos saugos inspekcija yra iš valstybės biudžeto išlaikoma biudžetinė įstaiga, turinti sąskaitą banke, antspaudą su Lietuvos Respublikos valstybės herbu ir savo pavadinimu. Valstybinės atominės energetikos saugos inspekcijos lėšų šaltiniai yra valstybės biudžeto asignavimai ir kitos teisėtai gaunamos pajamos.
 
 
 
 
+3. Atlikdama įstatymų nustatytas funkcijas, Valstybinė atominės energetikos saugos inspekcija sprendimus priima savarankiškai. Valstybinės atominės energetikos saugos inspekcijos funkcijos yra atskirtos nuo kitų institucijų, įstaigų ar organizacijų, užsiimančių branduolinės energetikos plėtra ar branduolinės energijos panaudojimu, įskaitant elektros energijos gamybą, funkcijų. Valstybinės atominės energetikos saugos inspekcijos struktūra, kompetencija ir aprūpinimas ištekliais turi atitikti Lietuvos Respublikoje vykdomos ir planuojamos vykdyti branduolinės energetikos srities veiklos, veiklos su branduolinėmis medžiagomis ir kitos branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais pobūdį ir mastą. 
 
 
-2. Neteko galios nuo 2004-04-01
-Straipsnio dalies naikinimas:
-Nr. IX-2003, 2004-02-05, Žin. 2004, Nr. 28-874 (2004-02-21), i. k. 1041010ISTA0IX-2003
+
+
+4. Valstybinė atominės energetikos saugos inspekcija turi teisę suinteresuotiems asmenims jų prašymu teikti branduolinės saugos, radiacinės saugos, fizinės saugos, veiklos su branduolinėmis medžiagomis, kitos branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais tyrimų, bandymų, mokymų ir ekspertizės paslaugas. Paslaugų įkainius ir apmokėjimo už paslaugas tvarką, pagrįsdamas būtinomis veiklos sąnaudomis, nustato Valstybinės atominės energetikos saugos inspekcijos viršininkas, suderinęs su Vyriausybės įgaliota institucija. 
+
+
+
+
+5. Valstybinė atominės energetikos saugos inspekcija kiekvienais metais iki gegužės 1 dienos pateikia Lietuvos Respublikos Prezidentui (toliau – Prezidentas) ir Vyriausybei metinę Valstybinės atominės energetikos saugos inspekcijos veiklos ataskaitą ir finansinių ataskaitų rinkinį ir paskelbia viešai teisės aktų nustatyta tvarka. Prezidentas ir Vyriausybė gali kviestis Valstybinės atominės energetikos saugos inspekcijos viršininką pristatyti metinius Valstybinės atominės energetikos saugos inspekcijos veiklos ir finansinius rezultatus.
  
 
 
@@ -981,122 +928,90 @@ Nr. IX-2003, 2004-02-05, Žin. 2004, Nr. 28-874 (2004-02-21), i. k. 1041010ISTA0
 
 
 
-21 straipsnis. Vidaus reikalų ministerijos kompetencija
+22 straipsnis. Valstybinės atominės energetikos saugos inspekcijos kompetencija
 
 
-Vidaus reikalų ministerija:
+1. Valstybinė atominės energetikos saugos inspekcija:
 
 
-1) užtikrina atominės elektrinės ir kitų branduolinės energetikos objektų priešgaisrinę apsaugą, atlieka jų statybos bei rekonstrukcijos projektų valstybinę priešgaisrinę ekspertizę, derina šių objektų priešgaisrinių sistemų projektus;
+1) įstatymų nustatyta tvarka ir sąlygomis atlieka branduolinės saugos, branduolinės energetikos objektų, branduolinių medžiagų, kurių kiekis viršija Branduolinės saugos įstatymo 1 priede nustatytą kiekį, ir branduolinio kuro ciklo medžiagų fizinės saugos, branduolinių medžiagų apskaitos ir kontrolės, taip pat radiacinės saugos vykdant veiklą branduolinės energetikos objektuose valstybinio reglamentavimo ir priežiūros funkcijas;
 
 
 
 
-2) nustato branduolinės energetikos objektų priešgaisrinės apsaugos reikalavimus, kontroliuoja, kaip jų laikomasi, ir taiko priešgaisrinės apsaugos taisyklių pažeidėjams norminiuose aktuose nustatytas sankcijas;
+2) prižiūri, kaip laikomasi teisės aktų nustatytų reikalavimų branduolinės energetikos srities veiklai, kuriai išduodama licencija ar leidimas, ir kaip vykdomos licencijos ir (ar) leidimo turėtojų teisės ir pareigos;
 
 
 
 
-3) nedelsiant likviduoja gaisrų židinius, kilusius branduolinės energetikos objektuose, dalyvauja likviduojant branduolinę avariją ir jos padarinius, organizuoja radiacinę užterštos teritorijos žvalgybą;
+3) rengia ir Valstybinės atominės energetikos saugos inspekcijos viršininko įsakymu tvirtina branduolinės saugos, radiacinės saugos branduolinės energetikos srityje, branduolinių medžiagų apskaitos ir kontrolės, branduolinių medžiagų, kurių kiekis viršija Branduolinės saugos įstatymo 1 priede nustatytą kiekį, ir branduolinio kuro ciklo medžiagų fizinės saugos reikalavimus ir taisykles, privalomus visoms valstybės ir savivaldybių institucijoms, taip pat visiems asmenims, vykdantiems tokią veiklą;
 
 
 
 
-4) vykdo ir užtikrina atominės elektrinės ir gabenamų per šalies teritoriją branduolinių medžiagų krovinių fizinę apsaugą. 
-Straipsnio punkto pakeitimai:
-Nr. X-928, 2006-11-28, Žin., 2006, Nr. 137-5202 (2006-12-16), i. k. 1061010ISTA000X-928
- 
+4) prižiūri, kaip laikomasi branduolinę saugą, radiacinę saugą branduolinės energetikos srityje, branduolinės energetikos objektų, branduolinių ir branduolinio kuro ciklo medžiagų fizinę saugą, branduolinių medžiagų apskaitą ir kontrolę reglamentuojančių teisės aktų reikalavimų; 
 
 
 
 
-5) sudaro, koordinuoja ir vykdo atominės elektrinės ir kitų branduolinės energetikos objektų antiteroristinės bei antiintervencinės tarpžinybinės sąveikos planus;
+5) nagrinėja ir vertina pareiškėjų dokumentus, teikiamus gauti licenciją ar leidimą, taip pat licencijų ar leidimų turėtojų, pareiškėjų ar kitų asmenų teikiamus dokumentus, priima atitinkamus sprendimus dėl šių dokumentų, atlieka branduolinės saugos peržiūrą ir įvertinimą;
 
 
 
 
-6) tiria bei kontroliuoja kriminogeninę situaciją branduolinės energetikos objektų regionuose;
+6) prižiūri ir tikrina pareiškėjus, licencijų ir leidimų turėtojus ar jiems paslaugas teikiančius, prekes tiekiančius ar darbus atliekančius asmenis ar kitus su branduolinėmis ir (ar) branduolinio kuro ciklo medžiagomis susijusią veiklą vykdančius asmenis;
 
 
 
 
-7) tiria branduolinių, radioaktyviųjų medžiagų, kitų dvigubos paskirties prekių grobimo bei neteisėto disponavimo atvejus;
+7) įstatymų ir kitų teisės aktų nustatytais atvejais, tvarka ir sąlygomis Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimu išduoda licencijas ir leidimus, sustabdo jų galiojimą, panaikina galiojimo sustabdymą arba panaikina licencijų ir leidimų galiojimą, nustato ir keičia jų sąlygas, prižiūri, kaip šių sąlygų laikomasi;
 
 
 
 
-8) Neteko galios nuo 2007-01-01
-Straipsnio punkto naikinimas:
-Nr. X-928, 2006-11-28, Žin. 2006, Nr. 137-5202 (2006-12-16), i. k. 1061010ISTA000X-928
- 
+8) suderinusi su Sveikatos apsaugos ministerija, nustato radionuklidų išmetimo į aplinką iš branduolinės energetikos objektų normas, prižiūri, kaip laikomasi radionuklidų išmetimo į aplinką normų; 
 
 
 
 
+9) rengia ir Valstybinės atominės energetikos saugos inspekcijos viršininko įsakymu tvirtina branduolinės energetikos objekto modifikacijų kategorijas ir modifikacijų atlikimo tvarkos aprašą;
 
 
-2. Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos:
 
 
-1) sudaro valstybinį gyventojų radiacinės apsaugos planą branduolinės avarijos atveju, pagal kurį savus branduolinės avarijos prevencijos ir avarijų likvidavimo bei pasekmių šalinimo planus rengia kitos nustatyta tvarka įpareigotos institucijos;
+10) bendradarbiauja su užsienio šalių branduolinės energetikos sektoriaus valstybinio reglamentavimo ir priežiūros institucijomis, pagal kompetenciją dalyvauja tarptautinių organizacijų ir Europos Sąjungos institucijų, komitetų ir grupių veikloje;
 
 
 
 
-2) pagal savo kompetenciją įgyvendina avarijos ir jos pasekmių likvidavimo priemones;
+11) pagal kompetenciją teisės aktų nustatyta tvarka rengia ir (ar) teikia Vyriausybei Lietuvos Respublikos įstatymų ir kitų teisės aktų branduolinės saugos, branduolinės energetikos objektų, branduolinių ir branduolinio kuro ciklo medžiagų fizinės saugos, branduolinių medžiagų apskaitos ir kontrolės, taip pat radiacinės saugos vykdant branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais klausimais projektus;
 
 
 
 
-3) kartu su kitomis valstybės institucijomis organizuoja gyventojų apsaugos branduolinių avarijų atveju pratybas. 
+12) rengia ir teikia Vyriausybei ar jos įgaliotai institucijai pasiūlymus dėl valstybės politikos ir strategijos branduolinės energetikos sektoriuje ir jos įgyvendinimo;
 
 
-Straipsnio dalies pakeitimai:
-Nr. IX-2505, 2004-10-26, Žin., 2004, Nr. 163-5943 (2004-11-09); Žin., 2004, Nr. 164-0 (2004-11-11), i. k. 1041010ISTA0IX-2505
- 
 
 
+13) rengia ir teikia Vyriausybei ar jos įgaliotoms institucijoms pasiūlymus dėl branduolinės saugos, radiacinės saugos branduolinės energetikos srityje, branduolinės energetikos objektų, branduolinių ir branduolinio kuro ciklo medžiagų fizinės saugos, branduolinių medžiagų apskaitos ir kontrolės užtikrinimo sistemos tobulinimo; 
 
 
 
 
-22 straipsnis. Valstybės saugumo departamento kompetencija
+14) branduolinės ir (ar) radiologinės avarijos atveju suinteresuotoms valstybės ir savivaldybių institucijoms teikia skubią informaciją apie radiologinę padėtį branduolinės energetikos objekte, branduolinės ir (ar) radiologinės avarijos grėsmės prognozes ir kitą susijusią informaciją;
 
 
-Valstybės saugumo departamentas:
 
 
-1) vykdo teroro aktų ir kitokio pobūdžio nusikalstamų veikų, siekiančių pakenkti valstybės saugumo interesams branduolinės energetikos objektuose, jų aplinkoje, branduolinių ir radioaktyviųjų medžiagų transportavimo keliuose, prevenciją; 
-Straipsnio punkto pakeitimai:
-Nr. IX-1417, 2003-04-03, Žin., 2003, Nr. 38-1662 (2003-04-24), i. k. 1031010ISTA0IX-1417
- 
+15) atlieka kitas šio įstatymo, kitų įstatymų ir teisės aktų nustatytas funkcijas.
 
 
 
 
-2) laikydamasis valstybės saugumo interesų, atlieka operatyvinius veiksmus nustatant veikas, kuriomis kėsinamasi į branduolinės energetikos objektus, branduolinius įrenginius bei įrengimus, taip pat branduolinės technologijos procesus; 
-Straipsnio punkto pakeitimai:
-Nr. IX-1417, 2003-04-03, Žin., 2003, Nr. 38-1662 (2003-04-24), i. k. 1031010ISTA0IX-1417
-Nr. XI-1267, 2010-12-23, Žin., 2011, Nr. 2-40 (2011-01-06), i. k. 1101010ISTA0XI-1267
- 
 
 
-
-
-3) sprendžia apie asmenų, įdarbinamų ir dirbančių branduolinės energetikos objektuose ar skiriamų transportuoti branduolines ir radioaktyviąsias medžiagas, patikimumą; 
-Straipsnio punkto pakeitimai:
-Nr. VIII-534, 1997-11-20, Žin., 1997, Nr. 112-2825 (1997-12-10), i. k. 0971010ISTAVIII-534
- 
-
-
-
-
-4) kontroliuoja atominės elektrinės ir kitų branduolinės energetikos objektų fizinės saugos efektyvumą bei pasirengimą ekstremalioms situacijoms;
-
-
-
-
-5) dalyvauja kuriant ir vykdant atominės elektrinės ir kitų branduolinės energetikos objektų antiteroristinės bei antiintervencinės tarpžinybinės sąveikos planus.
+2. Valstybinės atominės energetikos saugos inspekcijos, jos viršininko ir viršininko pavaduotojų, taip pat Valstybinės atominės energetikos saugos inspekcijos viršininko įgaliotų Valstybinės atominės energetikos saugos inspekcijos pareigūnų teisės, pareigos, funkcijos, įgaliojimai ir atsakomybė vykdant branduolinės energetikos srities veiklos, kitos veiklos su branduolinėmis ir branduolinio kuro ciklo medžiagomis valstybinio reglamentavimo ir priežiūros funkcijas nustatomi šiame įstatyme, Branduolinės saugos įstatyme, Radiacinės saugos įstatyme, Radioaktyviųjų atliekų tvarkymo įstatyme, taip pat kituose įstatymuose ir detalizuojami Valstybinės atominės energetikos saugos inspekcijos nuostatuose.
  
 
 
@@ -1104,25 +1019,165 @@ Nr. VIII-534, 1997-11-20, Žin., 1997, Nr. 112-2825 (1997-12-10), i. k. 0971010I
 
 
 
+23 straipsnis. Valstybinės atominės energetikos saugos inspekcijos valdymas
 
 
-23 straipsnis. Vyriausybės Ekstremalių situacijų komisijos kompetencija
-
-
-Vyriausybės Ekstremalių situacijų komisija:
-
-
-1) vadovauja branduolinės avarijos likvidavimo ir jos padarinių šalinimo darbams;
+1. Valstybinei atominės energetikos saugos inspekcijai vadovauja viršininkas. Valstybinės atominės energetikos saugos inspekcijos viršininką šešeriems metams skiria Prezidentas Ministro Pirmininko teikimu. Pasibaigus Valstybinės atominės energetikos saugos inspekcijos viršininko kadencijai, iki bus paskirtas naujas Valstybinės atominės energetikos saugos inspekcijos viršininkas, bet ne ilgiau negu 3 mėnesius, viršininko pareigas eina kadenciją baigęs Valstybinės atominės energetikos saugos inspekcijos viršininkas. Valstybinės atominės energetikos saugos inspekcijos viršininkas už Valstybinės atominės energetikos saugos inspekcijos veiklą yra atsakingas ir atskaitingas Prezidentui ir Vyriausybei.
 
 
 
 
-2) telkia materialinius ir kitus išteklius, reikalingus branduolinei avarijai likviduoti;
+2. Valstybinės atominės energetikos saugos inspekcijos viršininko nesant, viršininko funkcijas laikinai atlieka Valstybinės atominės energetikos saugos inspekcijos viršininko pirmasis pavaduotojas, o jeigu šio nėra, viršininko funkcijas atlieka kiti viršininko pavaduotojai, vadovaudamiesi Valstybinės atominės energetikos saugos inspekcijos nuostatuose nustatyta tvarka. Valstybinės atominės energetikos saugos inspekcijos viršininkas ir viršininko pavaduotojai, kurių negali būti daugiau negu trys, yra valstybės pareigūnai. Valstybinės atominės energetikos saugos inspekcijos viršininko pavaduotojus šešeriems metams skiria Ministras Pirmininkas Valstybinės atominės energetikos saugos inspekcijos viršininko teikimu. Valstybinės atominės energetikos saugos inspekcijos viršininko teikimu vieną iš Valstybinės atominės energetikos saugos inspekcijos viršininko pavaduotojų Ministras Pirmininkas paskiria Valstybinės atominės energetikos saugos inspekcijos viršininko pirmuoju pavaduotoju. Pasibaigus Valstybinės atominės energetikos saugos inspekcijos viršininko pavaduotojo kadencijai, iki bus paskirtas naujas Valstybinės atominės energetikos saugos inspekcijos viršininko pavaduotojas, bet ne ilgiau negu 3 mėnesius, viršininko pavaduotojo pareigas eina kadenciją baigęs Valstybinės atominės energetikos saugos inspekcijos viršininko pavaduotojas.
 
 
 
 
-3) vykdo kitas šios komisijos nuostatuose numatytas užduotis ir funkcijas.
+3. Į Valstybinės atominės energetikos saugos inspekcijos viršininko ar viršininko pavaduotojų pareigas skiriami asmenys turi atitikti bendruosius reikalavimus, keliamus asmeniui, priimamam į valstybės tarnautojo pareigas. Valstybinės atominės energetikos saugos inspekcijos viršininku ar viršininko pavaduotojais negali būti skiriami asmenys, kuriems teisės aktų nustatyta tvarka ir pagrindais negali būti išduotas leidimas be palydos patekti į branduolinės energetikos objektų apsaugos zonas. 
+
+
+
+
+4. Valstybinės atominės energetikos saugos inspekcijos viršininko atlyginimas lygus keturiems, o viršininko pavaduotojų – trims ūkio subjektų, įstatymų nustatyta tvarka ir sąlygomis vykdančių branduolinės energetikos objekto (objektų) eksploatavimo, eksploatavimo nutraukimo ir (ar) uždarytų radioaktyviųjų atliekų saugyklų ar atliekynų priežiūros veiklą, darbuotojų vidutinių mėnesinių bruto darbo užmokesčių, kuriuos teisės aktų nustatyta tvarka apskaičiuoja ir skelbia Lietuvos statistikos departamentas, vidurkio dydžiams. Vadovaudamasis Lietuvos statistikos departamento skelbiama informacija, konkretų atlyginimo dydį Valstybinės atominės energetikos saugos inspekcijos viršininkui ir jo pavaduotojams kiekvieniems kalendoriniams metams tvirtina Ministras Pirmininkas. 
+
+
+
+
+5. Sprendimus dėl Valstybinės atominės energetikos saugos inspekcijos viršininko ir viršininko pavaduotojų atostogų ir komandiruočių priima Valstybinės atominės energetikos saugos inspekcijos viršininkas, ne vėliau kaip per tris darbo dienas nuo sprendimo dėl Valstybinės atominės energetikos saugos inspekcijos viršininko atostogų ar komandiruotės priėmimo apie priimtą sprendimą informuodamas Prezidentą ir Ministrą Pirmininką.
+
+
+
+
+6. Valstybinės atominės energetikos saugos inspekcijos viršininkui drausminės nuobaudos (išskyrus drausminę nuobaudą – atleidimą iš pareigų) gali būti skiriamos Ministro Pirmininko sprendimu įstatymuose nustatyta tvarka ir sąlygomis. Valstybinės atominės energetikos saugos inspekcijos viršininko pavaduotojams drausminės nuobaudos (išskyrus drausminę nuobaudą – atleidimą iš pareigų) gali būti skiriamos Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimu įstatymuose nustatyta tvarka ir sąlygomis. Drausminę nuobaudą – atleidimą iš pareigų Valstybinės atominės energetikos saugos inspekcijos viršininkui gali skirti Prezidentas Ministro Pirmininko teikimu, o Valstybinės atominės energetikos saugos inspekcijos viršininko pavaduotojui – Ministras Pirmininkas Valstybinės atominės energetikos saugos inspekcijos viršininko teikimu.
+
+
+
+
+7. Valstybinės atominės energetikos saugos inspekcijos viršininkas Ministro Pirmininko sprendimu, o viršininko pavaduotojai Valstybinės atominės energetikos saugos inspekcijos viršininko sprendimu už nepriekaištingą pareigų atlikimą gali būti skatinami padėka ir vardine dovana.
+
+
+
+
+8. Valstybinės atominės energetikos saugos inspekcijos viršininkas teisės aktų nustatyta tvarka atsako už Valstybinės atominės energetikos saugos inspekcijos veiklos teisėtumą, nepertraukiamą funkcijų atlikimą ir finansinį skaidrumą. Valstybinės atominės energetikos saugos inspekcijos viršininkas sprendžia visus Valstybinės atominės energetikos saugos inspekcijos kompetencijos klausimus. Valstybinės atominės energetikos saugos inspekcijos viršininkas:
+
+
+1) atstovauja ir (ar) įgalioja atstovauti Valstybinei atominės energetikos saugos inspekcijai Lietuvos Respublikoje ir užsienyje;
+
+
+
+
+2) tvirtina Valstybinės atominės energetikos saugos inspekcijos struktūrą, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis (toliau – darbuotojai), skaičių, padalinių nuostatus, pareigybių sąrašus ir aprašymus;
+
+
+
+
+3) tvirtina, suderinęs su Valstybės saugumo departamentu, pareigybių Valstybinėje atominės energetikos saugos inspekcijoje, į kurias priimami (perkeliami) asmenys tikrinami Valstybės saugumo departamento siekiant gauti išvadą, nurodytą šio įstatymo 24 straipsnio 2 dalyje, sąrašą;
+
+
+
+
+4) įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš pareigų Valstybinės atominės energetikos saugos inspekcijos valstybės tarnautojus ir darbuotojus, juos skatina ir skiria jiems nuobaudas;
+
+
+
+
+5) tvirtina Valstybinės atominės energetikos saugos inspekcijos metinį veiklos planą;
+
+
+
+
+6) tvirtina metinę Valstybinės atominės energetikos saugos inspekcijos veiklos ataskaitą ir finansinių ataskaitų rinkinį ir ne vėliau kaip iki kiekvienų metų gegužės 1 dienos teikia juos Prezidentui ir Vyriausybei ir paskelbia viešai;
+
+
+
+
+7) leidžia įsakymus ir tikrina, kaip jie vykdomi;
+
+
+
+
+8) užtikrina, kad Valstybinės atominės energetikos saugos inspekcijos veikla vyktų pagal įstatymus ir kitus teisės aktus; 
+
+
+
+
+9) vykdo kitus šio įstatymo ir kitų teisės aktų jam suteiktus įgaliojimus.
+
+
+
+
+
+
+9. Valstybinės atominės energetikos saugos inspekcijos viršininko ir viršininko pavaduotojų statusą reglamentuoja šis įstatymas. Lietuvos Respublikos valstybės tarnybos įstatymo (toliau – Valstybės tarnybos įstatymas) nuostatos taikomos reglamentuoti su valstybės tarnautojo pareigomis nesuderinamą veiklą, materialinę atsakomybę, kasmetines atostogas ir šiurkštaus pažeidimo sąvoką. Kitus Valstybinės atominės energetikos saugos inspekcijos viršininko ir viršininko pavaduotojų darbo santykius ir socialines garantijas, kurių nenustato šis įstatymas ir Valstybės tarnybos įstatymas, nustato Lietuvos Respublikos darbo kodeksas.
+
+
+
+
+10. Valstybinės atominės energetikos saugos inspekcijos viršininkas ir viršininko pavaduotojai, eidami pareigas, privalo veikti nepriklausomai nuo branduolinės energetikos sektoriuje veikiančių asmenų, taip pat kitų institucijų, įstaigų ar organizacijų, užsiimančių branduolinės energetikos plėtra ar branduolinės energijos panaudojimu, įskaitant elektros energijos gamybą. Veiklos nepriklausomumas reiškia draudimą eiti juridinio asmens organo nario pareigas, eiti kitas apmokamas ar visuomenines pareigas, teikti paslaugas ar konsultacijas, išskyrus atliekant tiesiogines savo pareigas Valstybinėje atominės energetikos saugos inspekcijoje, ar kitą veiklą, dėl kurios atitinkamas branduolinės energetikos sektoriuje veikiantis asmuo, kita institucija, įstaiga ar organizacija įgytų ar galėtų įgyti nepagrįstą konkurencinį pranašumą prieš kitus atitinkamą veiklą vykdančius asmenis. Šio reikalavimo pažeidimas laikomas šiurkščiu pareigų pažeidimu.
+
+
+
+
+11. Prezidentas Ministro Pirmininko teikimu Valstybinės atominės energetikos saugos inspekcijos viršininką atleidžia iš pareigų šiais atvejais:
+
+
+1) atsistatydinus savo noru;
+
+
+
+
+2) netekus Lietuvos Respublikos pilietybės;
+
+
+
+
+3) pasibaigus kadencijai ir šio straipsnio 1 dalyje nustatyta tvarka paskyrus į pareigas naują Valstybinės atominės energetikos saugos inspekcijos viršininką arba pasibaigus kadencijai ir nepaskyrus į pareigas naujo Valstybinės atominės energetikos saugos inspekcijos viršininko per šio straipsnio 1 dalyje nustatytą terminą;
+
+
+
+
+4) dalyvaujant su jo pareigomis nesuderinamoje veikloje, kaip tai nustatyta Valstybės tarnybos įstatyme;
+
+
+
+
+5) jeigu Vyriausybė nepritaria metinei Valstybinės atominės energetikos saugos inspekcijos veiklos ataskaitai;
+
+
+
+
+6) įsiteisėjus teismo nuosprendžiui, kuriuo jam paskirta bausmė už sunkų ar labai sunkų nusikaltimą, nusikalstamą veiką valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio nusikalstamą veiką, nusikalstamą veiką nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai ar finansų sistemai arba bausmė, dėl kurios jis negali eiti savo pareigų;
+
+
+
+
+7) paaiškėjus, kad skiriant į pareigas jis pateikė suklastotus dokumentus arba nuslėpė ar pateikė tikrovės neatitinkančius duomenis, dėl kurių negalėjo būti skiriamas į pareigas;
+
+
+
+
+8) jeigu jis šiurkščiai pažeidžia savo pareigas. Šiurkščiu pažeidimu laikomas toks Valstybinės atominės energetikos saugos inspekcijos viršininko ar viršininko pavaduotojų pareigų pažeidimas, kaip nustatyta Valstybės tarnybos įstatyme ir šio straipsnio 10 dalyje;
+
+
+
+
+9) įstatymų nustatyta tvarka atėmus specialiąją teisę ar teises, susijusias su jo tiesioginėmis pareigomis.
+
+
+
+
+
+
+12. Prezidentas Ministro Pirmininko teikimu gali atleisti Valstybinės atominės energetikos saugos inspekcijos viršininką iš pareigų, jeigu dėl laikinojo nedarbingumo jis nedirba ilgiau kaip 120 dienų iš eilės arba ilgiau kaip 140 dienų per paskutinius 12 mėnesių. Į šiuos laikotarpius neįskaitomas laikas, per kurį jis gavo ligos socialinio draudimo pašalpą sergantiems šeimos nariams slaugyti ir ligos pašalpą dėl užkrečiamųjų ligų protrūkių arba dėl epidemijų nušalintiems nuo darbo.
+
+
+
+
+13. Ministras Pirmininkas Valstybinės atominės energetikos saugos inspekcijos viršininko teikimu Valstybinės atominės energetikos saugos inspekcijos viršininko pavaduotojus atleidžia iš pareigų šio straipsnio 11 dalies 1, 2, 4, 6, 7, 8 ir 9 punktuose nurodytais atvejais, pasibaigus kadencijai ir į šias pareigas paskyrus naują Valstybinės atominės energetikos saugos inspekcijos viršininko pavaduotoją arba pasibaigus kadencijai ir nepaskyrus į pareigas naujo Valstybinės atominės energetikos saugos inspekcijos viršininko pavaduotojo per šio straipsnio 2 dalyje nustatytą terminą, taip pat gali atleisti iš pareigų šio straipsnio 12 dalyje nurodytu atveju ir pagrindais.
+
+
+
+
+14. Valstybinės atominės energetikos saugos inspekcijos vidaus darbo tvarką nustato Valstybinės atominės energetikos saugos inspekcijos viršininko tvirtinami Valstybinės atominės energetikos saugos inspekcijos vidaus darbo reglamentas ir kiti vidaus administravimo teisės aktai.
  
 
 
@@ -1130,17 +1185,23 @@ Vyriausybės Ekstremalių situacijų komisija:
 
 
 
+24 straipsnis. Valstybinės atominės energetikos saugos inspekcijos darbuotojai
 
 
-24 straipsnis. Apskrities viršininkas
+1. Valstybinėje atominės energetikos saugos inspekcijoje turi dirbti kvalifikuoti darbuotojai, turintys patirties ir specialiųjų žinių, būtinų šios institucijos funkcijoms atlikti, pagal atitinkamoms pareigybėms nustatytus kvalifikacijos, išsilavinimo ir kitus reikalavimus. Valstybinėje atominės energetikos saugos inspekcijoje turi būti sukurtos ir toliau plėtojamos tokios Valstybinės atominės energetikos saugos inspekcijos darbuotojų kompetencijos, kurios leistų daryti išvadas apie branduolinės energetikos objektų eksploatavimo ir kitos veiklos su branduolinėmis, branduolinio kuro ciklo medžiagomis ir (ar) kitos branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais susijusios veiklos saugos lygį ir jo atitiktį teisės aktų ir normatyvinių techninių dokumentų nustatytiems reikalavimams ir priimti reikiamus sprendimus reguliavimo srityje.
 
 
-Apskrities, kurios teritorijoje yra numatomas statyti arba pradėtas statyti branduolinės energetikos objektas, viršininkas, vykdydamas šio objekto priežiūrą ir kontrolę, veikia laikydamasis įgaliojimų, kuriuos jam suteikia Lietuvos Respublikos apskrities valdymo, šis ir kiti Lietuvos Respublikos įstatymai bei poįstatyminiai aktai. 
 
 
-Straipsnio pakeitimai:
-Nr. VIII-335, 1997-06-26, Žin., 1997, Nr. 66-1605 (1997-07-11), i. k. 0971010ISTAVIII-335
+2. Valstybinės atominės energetikos saugos inspekcijos viršininkas, viršininko pavaduotojai ir kiti asmenys į pareigas, nurodytas Valstybinės atominės energetikos saugos inspekcijos viršininko patvirtintame ir su Valstybės saugumo departamentu suderintame pareigybių sąraše, priimami (perkeliami) tik teisės aktų nustatyta tvarka gavus Valstybės saugumo departamento išvadą. Šie asmenys, įstatymų ir kitų teisės aktų nustatyta tvarka nesutinkantys būti tikrinami Valstybės saugumo departamento, negali būti priimami (perkeliami) į pareigas Valstybinėje atominės energetikos saugos inspekcijoje.
+
+
+
+
+3. Valstybinės atominės energetikos saugos inspekcijos viršininko įgaliotų Valstybinės atominės energetikos saugos inspekcijos darbuotojų įgaliojimai, vykdant veiklos branduolinės energetikos srityje, veiklos su branduolinėmis medžiagomis ir kitos branduolinės energetikos srities veiklos su jonizuojančiosios spinduliuotės šaltiniais valstybinį reglamentavimą ir priežiūrą, yra nustatyti šiame įstatyme, Branduolinės saugos įstatyme, kituose įstatymuose ir teisės aktuose.
  
+
+
 
 
 
@@ -1148,61 +1209,29 @@ Nr. VIII-335, 1997-06-26, Žin., 1997, Nr. 66-1605 (1997-07-11), i. k. 0971010IS
 
 
 KETVIRTASIS SKIRSNIS
-LICENCIJAVIMO BRANDUOLINĖJE ENERGETIKOJE PAGRINDINĖS SĄLYGOS
+BRANDUOLINĖS ENERGETIKOS OBJEKTŲ PROJEKTAVIMO IR STATYBOS SPECIALIOSIOS SĄLYGOS
  
 
 
-25 straipsnis. Licencijuojamos veiklos rūšys
+25 straipsnis. Branduolinės energetikos objektų projektavimo teisinės prielaidos
 
 
-Be Lietuvos Respublikos Vyriausybės nustatyta tvarka išduotos licencijos draudžiama:
-
-
-1) projektuoti, statyti ir rekonstruoti branduolinės energetikos objektus, įrenginius ir įrengimus;
+1. Branduolinės (atominės) elektrinės ar atskiro branduolinės (atominės) elektrinės energijos bloko, taip pat neenergetinio branduolinio reaktoriaus statyba vykdoma vadovaujantis įstatymu dėl naujos branduolinės (atominės) elektrinės ar atskiro branduolinės (atominės) elektrinės energijos bloko, ar neenergetinio branduolinio reaktoriaus statybos. Branduolinės (atominės) elektrinės ar atskiro branduolinės (atominės) elektrinės energijos bloko, ar neenergetinio branduolinio reaktoriaus projektas pradedamas rengti po to, kai Vyriausybė, įvertinusi šio įstatymo 7 straipsnio 2 dalyje nustatytus kriterijus, priima nutarimą dėl naujos branduolinės (atominės) elektrinės ar atskiro branduolinės (atominės) elektrinės energijos bloko, ar neenergetinio branduolinio reaktoriaus statybos pradžios, ir po to, kai statytojas (užsakovas) parengia ir su Valstybine atominės energetikos saugos inspekcija suderina atitinkamo objekto techninę specifikaciją. 
 
 
 
 
-2) eksploatuoti branduolinės energetikos objektus; 
-Straipsnio punkto pakeitimai:
-Nr. IX-1688, 2003-07-03, Žin., 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010ISTA0IX-1688
- 
+2. Kitų branduolinės energetikos objektų projektai rengiami po to, kai Vyriausybė Energetikos ministerijos teikimu priima nutarimą dėl branduolinės energetikos objekto statybos ir kai šio objekto statytojas (užsakovas) parengia ir su Valstybine atominės energetikos saugos inspekcija suderina branduolinės energetikos objekto techninę specifikaciją.
 
 
 
 
-3) saugoti branduolines ir radioaktyviąsias medžiagas bei jų atliekas; 
-Straipsnio punkto pakeitimai:
-Nr. IX-1688, 2003-07-03, Žin., 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010ISTA0IX-1688
- 
+3. Planuojamos ūkinės veiklos, susijusios su branduoline energetika, poveikis aplinkai vertinamas ir branduolinės energetikos objekto statybos vieta (aikštelė) parenkama vadovaujantis Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo, Lietuvos Respublikos teritorijų planavimo įstatymo ir kitų teisės aktų nustatyta tvarka. Prieš pradedant rengti branduolinės energetikos objekto projektą, pritaikytą konkrečiai statybos vietai, turi būti atliktas branduolinės energetikos objekto aikštelės vertinimas saugos požiūriu Branduolinės saugos įstatymo nustatyta tvarka.
 
 
 
 
-4) nutraukti branduolinės energetikos objekto eksploataciją;
-
-
-
-
-5) laidoti branduolines ir radioaktyviąsias medžiagas bei jų atliekas; 
-Straipsnio punkto pakeitimai:
-Nr. IX-1688, 2003-07-03, Žin., 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010ISTA0IX-1688
- 
-
-
-
-
-6) įsigyti, turėti ir transportuoti branduolines medžiagas;
-
-
-
-
-7) įsigyti, turėti ir transportuoti radioaktyviąsias medžiagas;
-
-
-
-
-8) eksportuoti, importuoti ir tranzitu gabenti per Lietuvos teritoriją branduolines, radioaktyviąsias ir kitas medžiagas, naudojamas branduolinėje energetikoje, branduolinę įrangą, taip pat dvigubos paskirties prekes, kurios gali būti panaudotos branduolinėje technologijoje.
+4. Šio straipsnio 1 ir 2 dalių reikalavimai netaikomi rengiant branduolinės energetikos objektų statinių rekonstravimo, kapitalinio remonto, paprastojo remonto ar griovimo projektus. Branduolinės energetikos objekto projektas turi atitikti Valstybinės atominės energetikos saugos inspekcijos viršininko įsakymu patvirtintus branduolinės saugos reikalavimus ir taisykles, taip pat kitų teisės aktų reikalavimus. Branduolinės energetikos objekto sauga pagrindžiama saugos analizės ataskaitoje, kuri turi atitikti Valstybinės atominės energetikos saugos inspekcijos viršininko įsakymu patvirtintus branduolinės saugos reikalavimus ir taisykles.
  
 
 
@@ -1210,69 +1239,25 @@ Nr. IX-1688, 2003-07-03, Žin., 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010IST
 
 
 
+26 straipsnis. Branduolinės energetikos objekto projekto derinimas 
 
 
-26 straipsnis. Licencijas išduodančios institucijos
-
-
-1. Veiklai, išvardytai 25 straipsnio 1 punkte, licencijas išduoda VATESI, suderinus su Aplinkos ministerija ar jos įgaliota institucija, Radiacinės saugos centru ir savivaldybės, kurios teritorija ar jos dalis yra branduolinės energetikos objekto sanitarinės apsaugos zonoje, administracijos direktoriumi.
-
-
-
-
-2. Veiklai, išvardytai 25 straipsnio 2–5 punktuose, licencijas išduoda VATESI, suderinus su Aplinkos ministerija ar jos įgaliota institucija ir Radiacinės saugos centru, o veiklai, išvardytai 6 punkte, licencijas išduoda VATESI, suderinus su Radiacinės saugos centru.
+1. Branduolinės energetikos objekto statinio projektas rengiamas Lietuvos Respublikos statybos įstatymo (toliau – Statybos įstatymas) ir jo lydimųjų teisės aktų nustatyta tvarka ir sąlygomis. Branduolinės energetikos objekto statinio projektas derinamas Vyriausybės nustatyta tvarka.
 
 
 
 
-3. Veiklai, išvardytai 25 straipsnio 7 punkte, licencijas išduoda Radiacinės saugos centras, suderinus su VATESI.
+2. Branduolinės energetikos objekto statinių statybos, rekonstravimo, kapitalinio remonto ir griovimo projektams privaloma ekspertizė, kuri atliekama vadovaujantis Statybos įstatymo nuostatomis ir vykdoma prieš projekto derinimą. 
 
 
 
 
-4. Veiklai, išvardytai 25 straipsnio 8 punkte, licencijas išduoda Energetikos ministerija, suderinusi su VATESI ir Radiacinės saugos centru. 
-Straipsnio dalies pakeitimai:
-Nr. XI-134, 2009-01-12, Žin., 2009, Nr. 10-356 (2009-01-27), i. k. 1091010ISTA00XI-134
- 
-
-
-Straipsnio pakeitimai:
-Nr. VIII-1309, 1999-07-07, Žin., 1999, Nr. 65-2088 (1999-07-28); Žin., 1999, Nr. 68-0 (1999-08-11), i. k. 0991010ISTAIII-1309
-Nr. IX-2114, 2004-04-13, Žin., 2004, Nr. 60-2122 (2004-04-24), i. k. 1041010ISTA0IX-2114
- 
+3. Branduolinės energetikos objekto projektui įvertinti įgaliotosios valstybės institucijos gali pasitelkti ekspertų, dėl kurių patirtas išlaidas sumoka statytojas (užsakovas) teisės aktų nustatyta tvarka. Įgaliotųjų valstybės institucijų, turinčių teisę pasitelkti ekspertus, sąrašą, minimalius reikalavimus ekspertų kvalifikacijai, ekspertinių paslaugų pirkimo specialiuosius reikalavimus, taip pat mokėjimo sąlygas, išlaidų pagrįstumo kriterijus, jų kontrolę ir kitus susijusius reikalavimus nustato Vyriausybė.
 
 
 
 
-27 straipsnis. Išduodančios licenciją valstybės valdymo institucijos veiklos principinės nuostatos
-
-
-1. Šio įstatymo 26 straipsnyje nurodytos išduodančios licencijas tam tikrai veiklai branduolinėje energetikoje institucijos privalo užtikrinti, kad įmonės, gavusios licenciją, garantuotų:
-
-
-1) licencijuojamos veiklos branduolinės saugos kultūrą;
-
-
-
-
-2) atsakomybę už branduolinę saugą;
-
-
-
-
-3) vidaus kontrolės sistemą, kuri užtikrintų tik leistiną branduolinių medžiagų bei atliekų naudojimą ir garantuotų Branduolinio ginklo neplatinimo sutarties nuostatų įgyvendinimą;
-
-
-
-
-4) atsakingų licencijuojamos veiklos darbuotojų gerą profesinę kvalifikaciją.
-
-
-
-
-
-
-2. Neprieštaraudama šio įstatymo ir atskirų jo dalių principinėms nuostatoms, licenciją išduodanti institucija gali nustatyti papildomus licencijuojamos veiklos reikalavimus.
+4. Suderintą branduolinės energetikos objekto projektą tvirtina branduolinės energetikos objekto statytojas (užsakovas).
  
 
 
@@ -1280,28 +1265,51 @@ Nr. IX-2114, 2004-04-13, Žin., 2004, Nr. 60-2122 (2004-04-24), i. k. 1041010IST
 
 
 
-28 straipsnis. Licencijų išdavimas
+27 straipsnis. Branduolinės energetikos objekto statinių statybos, rekonstravimo, kapitalinio remonto ar griovimo valstybinė priežiūra
 
 
-1. Veiklai, išvardytai šio įstatymo 25 straipsnyje, licencijos išduodamos Lietuvos Respublikos įstatymuose ir kituose norminiuose aktuose nustatyta tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. IX-1688, 2003-07-03, Žin., 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010ISTA0IX-1688
+1. Statytojas (užsakovas) turi gauti leidimą statyti, rekonstruoti, kapitališkai remontuoti ar griauti branduolinės energetikos objekto statinius. 
+
+
+
+
+2. Leidimą statyti, rekonstruoti branduolinės energetikos objekto statinius, kapitališkai remontuoti ir juos griauti išduoda Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos. Branduolinės energetikos objekto naujų statinių statyba pradedama tik turint Branduolinės saugos įstatymo 22 straipsnio 1 dalies 1 ar 3 punkte nustatytą licenciją.
+
+
+
+
+3. Licencijos turėtojo pareigų statant, rekonstruojant branduolinės energetikos objekto statinius, kapitališkai juos remontuojant, vykdant statinių priežiūros ar griovimo darbus tinkamo vykdymo priežiūrą pagal kompetenciją atlieka Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos ir Valstybinė atominės energetikos saugos inspekcija.
+
+
+
+
+4. Leidimų statyti, rekonstruoti, kapitališkai remontuoti ar griauti branduolinės energetikos objekto statinius išdavimo taisykles tvirtina Vyriausybė.
  
 
 
 
 
-2. Licenciją išduodanti institucija turi teisę vėliau nustatyti papildomas objekto saugaus eksploatavimo sąlygas bei reikalavimus, o jų nepaisymo atveju – sustabdyti licencijos galiojimą ir uždrausti tolesnę objekto eksploataciją tol, kol bus pašalinti visi nustatyti trūkumai. Licenciją išduodanti institucija bet kada gali panaikinti licencijos galiojimą, kai nustato, kad pažeistos branduolinės saugos sąlygos.
+
+
+28 straipsnis. Sanitarinė apsaugos zona
+
+
+1. Aplink branduolinės energetikos objektą nustatoma sanitarinė apsaugos zona, kurios ribos, tvarkymo režimai ir veiklos šioje zonoje reikalavimai nustatomi vadovaujantis šiuo įstatymu ir kitais teisės aktais. Sanitarinės apsaugos zonos ribos, vadovaujantis teritorijų planavimo dokumentais, pažymimos objekto statybos projektiniuose dokumentuose ir peržiūrimos pasikeitus branduolinės energetikos objekto charakteristikoms.
 
 
 
 
-3. Naujų saugos normų ir taisyklių taikymo eksploatuojamuose objektuose tvarką nustato licenciją išduodanti kompetentinga valstybės valdymo institucija.
+2. Prieš pirmą kartą įvežant branduolines ir (ar) branduolinio kuro ciklo medžiagas į branduolinės energetikos objekto aikštelę, iš sanitarinės apsaugos zonos teritorijos Vyriausybės nustatyta tvarka iškeldinami visi gyventojai. Joje draudžiama su branduolinės energetikos objekto eksploatavimu, eksploatavimo nutraukimu ar priežiūra nesusijusi veikla, statinių ir įrenginių statyba, išskyrus kitų naujų branduolinės energetikos objektų statybą, su jų eksploatavimu, eksploatavimo nutraukimu ir priežiūra susijusią veiklą ir jų eksploatavimui ar eksploatavimo nutraukimui reikalingų statinių ir įrenginių statybą šio įstatymo ir kitų teisės aktų nustatyta tvarka. Žemė, miškai ir vandens telkiniai, esantys sanitarinėje apsaugos zonoje, teisės aktų nustatyta tvarka gali būti naudojami kitai ūkinei komercinei veiklai tik gavus visų atitinkamoje teritorijoje veiklą vykdančių licencijų turėtojų rašytinį sutikimą ir suderinus su Sveikatos apsaugos ministerija, Valstybine atominės energetikos saugos inspekcija ir Aplinkos ministerija. 
 
 
 
 
-4. Atsisakymą išduoti licenciją, jos galiojimo sustabdymą ar panaikinimą arba objekto veiklos uždraudimą pareiškėjas gali apskųsti teismine tvarka.
+3. Aplinkos monitoringas ir visuomenės sveikatos stebėsena (monitoringas) sanitarinėje apsaugos zonoje ir už jos ribų vykdomi vadovaujantis Lietuvos Respublikos aplinkos monitoringo ir Lietuvos Respublikos visuomenės sveikatos stebėsenos (monitoringo) įstatymais.
+
+
+
+
+4. Sanitarinėje apsaugos zonoje licencijos turėtojas planuoja ir įgyvendina branduolinių ir radiologinių avarijų ir jų padarinių likvidavimo priemones, sudaro reikiamas sąlygas informacijai perduoti, taip pat užtikrina skubų sanitarinės apsaugos zonoje dirbančių darbuotojų įspėjimą branduolinių ir (ar) radiologinių avarijų atvejais.
  
 
 
@@ -1312,41 +1320,24 @@ Nr. IX-1688, 2003-07-03, Žin., 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010IST
 
 
 PENKTASIS SKIRSNIS
-BRANDUOLINĖS ENERGETIKOS OBJEKTŲ PROJEKTAVIMO IR STATYBOS YPATINGOS SĄLYGOS
+BRANDUOLINĖS ENERGETIKOS OBJEKTŲ EKSPLOATAVIMAS IR EKSPLOATAVIMO NUTRAUKIMAS
  
 
 
-29 straipsnis. Branduolinės paskirties objektų projektavimo teisinės prielaidos
+29 straipsnis. Branduolinės energetikos objekto eksploatavimas 
 
 
-1. Atominę elektrinę ir branduolinį reaktorių projektuoti galima tik po to, kai Lietuvos Respublikos Vyriausybė, remdamasi įstatymu dėl tokios elektrinės ar branduolinio reaktoriaus statybos, priima sprendimą.
-
-
-
-
-2. Kitus branduolinės energetikos objektus projektuoti ir atominę elektrinę rekonstruoti galima po Energetikos ministerijos teikimu priimto Lietuvos Respublikos Vyriausybės sprendimo. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
-Nr. XI-134, 2009-01-12, Žin., 2009, Nr. 10-356 (2009-01-27), i. k. 1091010ISTA00XI-134
- 
+1. Branduolinės energetikos objekto statinių statyba užbaigiama vadovaujantis Statybos įstatymu. Branduolinės energetikos objektą galima pradėti eksploatuoti tik turint Valstybinės atominės energetikos saugos inspekcijos teisės aktų nustatyta tvarka išduodamas licencijas ir leidimus.
 
 
 
 
-3. Konkretus branduolinės energetikos objekto projektas rengiamas po to, kai:
-
-
-1) Teritorijų planavimo įstatymo nustatyta tvarka, išnagrinėjus kelias galimas statybos vietas, parengta ir patvirtinta statybos vietos parinkimo speciali schema;
+2. Įvežti branduolinį kurą, branduolines ir radioaktyviąsias medžiagas ir (ar) radioaktyviąsias atliekas į branduolinės energetikos objekto statybos aikštelę arba vykdyti bet kokią kitą veiklą su jomis, neturint branduolinės energetikos objekto eksploatavimo licencijos, draudžiama.
 
 
 
 
-2) patvirtintas teritorijos detalus planas;
-
-
-
-
-3) nustatyta tvarka įteisintas statybos sklypui numatytos žemės paėmimas visuomenės poreikiams.
+3. Branduolinės energetikos objekto modifikacijos atliekamos Branduolinės saugos įstatymo nustatyta tvarka ir sąlygomis.
  
 
 
@@ -1354,88 +1345,55 @@ Nr. XI-134, 2009-01-12, Žin., 2009, Nr. 10-356 (2009-01-27), i. k. 1091010ISTA0
 
 
 
+30 straipsnis. Licencijos turėtojo pagrindinės pareigos
 
 
-30 straipsnis. Projekto derinimo tvarka
-
-
-Branduolinės energetikos objekto statybos ar rekonstravimo projektas suderinamas Lietuvos Respublikos Vyriausybės nustatyta tvarka su šiomis valstybės institucijomis:
-
-
-1) Aplinkos ministerija;
+1. Licencijos turėtojas yra atsakingas už tinkamą ir saugų veiklos vykdymą pagal įstatymuose ir kituose teisės aktuose, taip pat licencijos turėtojo įstatuose, vidaus darbo tvarkos taisyklėse ir jam išduotos licencijos sąlygose nustatytus reikalavimus. Licencijos turėtojas yra atsakingas už vykdomos veiklos ar branduolinės energetikos objekto saugą. 
 
 
 
 
-2) Krašto apsaugos ministerija;
+2. Branduolinės energetikos objektas turi būti naudojamas tik pagal tiesioginę jo paskirtį, nustatytą projekte. Branduolinės energetikos objektų paskirtis gali būti pakeista teisės aktų nustatyta tvarka.
 
 
 
 
-3) Socialinės apsaugos ir darbo ministerija;
+3. Licencijos turėtojas privalo:
+
+
+1) įtraukti į apskaitą ir kontroliuoti branduolinės energetikos objektui priklausančias ar veikloje naudojamas branduolines medžiagas taip, kad būtų galima užtikrinti Lietuvos Respublikos įsipareigojimų dėl TATENA garantijų ir Europos atominės energetikos bendrijos (toliau – Euratomas) garantijų vykdymą;
 
 
 
 
-4) Sveikatos apsaugos ministerija;
+2) įstatymuose ir kituose teisės aktuose nustatyta tvarka atlikti branduolinių ir (ar) radiologinių avarijų ir branduolinių incidentų tyrimus;
 
 
 
 
-5) Energetikos ministerija; 
-Straipsnio punkto pakeitimai:
-Nr. XI-134, 2009-01-12, Žin., 2009, Nr. 10-356 (2009-01-27), i. k. 1091010ISTA00XI-134
- 
+3) įstatymų ir kitų teisės aktų nustatyta tvarka informuoti Valstybinę atominės energetikos saugos inspekciją ir kitas suinteresuotas institucijas apie visus branduolinės saugos sąlygų bei reikalavimų pažeidimus ir visus branduolinės energetikos objekto saugą garantuojančių konstrukcijų, sistemų ir komponentų sutrikimus, taip pat nedelsdamas informuoti apie branduolinę ir (ar) radiologinę avariją ir pagal Tarptautinę branduolinių ir radiologinių įvykių skalę (INES) prognozuojamą branduolinės avarijos klasę ir rekomenduojamus gyventojų apsaugomuosius veiksmus;
 
 
 
 
-6) Vidaus reikalų ministerija;
+4) atlikti branduolinių ir radiologinių avarijų branduolinės energetikos objekte rizikos žmonėms, jų turtui ir aplinkai analizę ir vertinimą ir parengti ekstremaliųjų situacijų valdymo planą bei užtikrinti pasirengimą likviduoti branduolinės ar radiologinės avarijos padarinius branduolinės energetikos objekte;
 
 
 
 
-7) Valstybės saugumo departamentu;
+5) atlikti kitas šio įstatymo ir kitų įstatymų pagrindu nustatytas pareigas.
 
 
 
 
-8) Valstybine atominės energetikos saugos inspekcija (VATESI);
+
+
+4. Valstybinės atominės energetikos saugos inspekcijos viršininko, kito įgalioto Valstybinės atominės energetikos saugos inspekcijos pareigūno ar darbuotojo reikalavimu ir Valstybinės atominės energetikos saugos inspekcijos viršininko nustatyta tvarka licencijos turėtojas privalo pateikti išsamią informaciją ir ją patvirtinančius dokumentus apie vykdomos veiklos ir (ar) branduolinės energetikos objekto saugos būklę.
 
 
 
 
-9) vietos savivaldos institucija, kurios teritorija ar jos dalis yra objekto sanitarinės apsaugos zonoje. 
-
-
-
-
-Straipsnio pakeitimai:
-Nr. VIII-1309, 1999-07-07, Žin., 1999, Nr. 65-2088 (1999-07-28); Žin., 1999, Nr. 68-0 (1999-08-11), i. k. 0991010ISTAIII-1309
- 
-
-
-
-
-31 straipsnis. Projekto ekspertizė
-
-
-1. Branduolinės energetikos objektų statybos ar rekonstravimo, modernizavimo, išplėtimo, nugriovimo, taip pat veiklos nutraukimo projektams privaloma valstybinė kompleksinė ekspertizė. Šią ekspertizę organizuoja Aplinkos ministerija, gavusi užsakovo pateiktą projektą. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-1309, 1999-07-07, Žin., 1999, Nr. 65-2088 (1999-07-28); Žin., 1999, Nr. 68-0 (1999-08-11), i. k. 0991010ISTAIII-1309
- 
-
-
-
-
-2. Atominių elektrinių ir branduolinių reaktorių statybos projektai gali būti pateikiami papildomai tarptautinei ekspertizei, kurią organizuoja užsakovas. Šios ekspertizės išvados įtraukiamos į valstybinės kompleksinės ekspertizės išvadas. Ekspertizių išlaidas apmoka užsakovas.
-
-
-
-
-3. Neteko galios nuo 2003-07-23
-Straipsnio dalies naikinimas:
-Nr. IX-1688, 2003-07-03, Žin. 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010ISTA0IX-1688
+5. Branduolinės energetikos objekto veikla gali būti laikinai sustabdoma įvedus ekstremaliąją energetikos padėtį pagal Lietuvos Respublikos energetikos įstatymą arba įvykus ar gresiant branduolinei ar radiologinei avarijai, gresiant žalai aplinkai ar kilus pavojui žmonių sveikatai ar saugai, taip pat kitais Branduolinės saugos įstatymo ar kitų įstatymų nustatytais pagrindais ir sąlygomis. Sprendimą dėl laikino branduolinės energetikos objekto veiklos sustabdymo teisės aktų nustatyta tvarka pagal kompetenciją turi teisę priimti branduolinės energetikos objektą eksploatuojanti organizacija, Valstybinė atominės energetikos saugos inspekcija ir (ar) Vyriausybė.
  
 
 
@@ -1443,136 +1401,21 @@ Nr. IX-1688, 2003-07-03, Žin. 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010ISTA
 
 
 
-32 straipsnis. Branduolinės energetikos objektų statybos valstybinė kontrolė ir priežiūra
+31 straipsnis. Branduolinės energetikos objekto eksploatavimo nutraukimas
 
 
-1. Leidimą statyti ar rekonstruoti branduolinės energetikos objektą išduoda Vyriausybė ar jos įgaliota institucija. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-335, 1997-06-26, Žin., 1997, Nr. 66-1605 (1997-07-11), i. k. 0971010ISTAVIII-335
-Nr. IX-586, 2001-11-08, Žin., 2001, Nr. 99-3520 (2001-11-28), i. k. 1011010ISTA00IX-586
+1. Branduolinės (atominės) elektrinės ar atskiro branduolinės (atominės) elektrinės energijos bloko, ar neenergetinio branduolinio reaktoriaus eksploatavimas nutraukiamas vadovaujantis įstatymu dėl branduolinės (atominės) elektrinės ar atskiro branduolinės (atominės) elektrinės energijos bloko, ar neenergetinio branduolinio reaktoriaus eksploatavimo nutraukimo.
+
+
+
+
+2. Kitų branduolinės energetikos objektų eksploatavimas nutraukiamas vadovaujantis Vyriausybės nutarimu dėl šių objektų eksploatavimo nutraukimo.
+
+
+
+
+3. Branduolinės energetikos objekto eksploatavimo nutraukimą galima pradėti tik turint Valstybinės atominės energetikos saugos inspekcijos teisės aktų nustatyta tvarka išduodamas licencijas ir leidimus. Branduolinės energetikos objektų eksploatavimo nutraukimo saugos reikalavimus ir taisykles tvirtina Valstybinės atominės energetikos saugos inspekcijos viršininkas.
  
-
-
-
-
-2. Statytojas (užsakovas), norėdamas gauti leidimą statyti ar rekonstruoti branduolinės energetikos objektą, turi pateikti Vyriausybei ar jos įgaliotai institucijai:
-
-
-1) nustatytos formos prašymą;
-
-
-
-
-2) VATESI išduotą licenciją statyti branduolinės energetikos objektą;
-
-
-
-
-3) dokumentą, patvirtinantį statytojo (užsakovo) nuosavybės teisę ar kitokias teises į žemės sklypą;
-
-
-
-
-4) šio įstatymo 30 straipsnio nustatyta tvarka suderintą branduolinės energetikos objekto projektą;
-
-
-
-
-5) branduolinės energetikos objekto projekto ekspertizės, atliktos šio įstatymo 31 straipsnio nustatyta tvarka, išvadas;
-
-
-
-
-6) atsakingos institucijos sprendimą, kad planuojama ūkinė veikla poveikio aplinkai požiūriu pasirinktoje vietoje yra leistina;
-
-
-
-
-7) dokumentą dėl branduolinės energetikos objekto statybos techninės priežiūros vadovo paskyrimo; 
-
-
-
-
-8) branduolinės energetikos objekto kadastrinių matavimų ir teisinės registracijos pažymėjimą (kai branduolinės energetikos objektas rekonstruojamas) 
-
-
-Papildyta straipsnio dalimi:
-Nr. IX-586, 2001-11-08, Žin., 2001, Nr. 99-3520 (2001-11-28), i. k. 1011010ISTA00IX-586
- 
-
-
-
-
-3. Leidimą statyti ar rekonstruoti branduolinės energetikos objektą Vyriausybė ar jos įgaliota institucija išduoda ne vėliau kaip per 20 dienų nuo šio straipsnio 2 dalyje nurodytų dokumentų pateikimo dienos, juos patikrinusi ir nustačiusi, kad branduolinės energetikos objekto statyba atitinka teritorijų planavimo dokumentų nustatyto statybos sklypo režimo reikalavimus
-Papildyta straipsnio dalimi:
-Nr. IX-586, 2001-11-08, Žin., 2001, Nr. 99-3520 (2001-11-28), i. k. 1011010ISTA00IX-586
- 
-
-
-
-
-4. Jei leidimas statyti ar rekonstruoti branduolinės energetikos objektą neišduodamas, Vyriausybė ar jos įgaliota institucija per šio straipsnio 3 dalyje nurodytą laiką praneša apie tai raštu statytojui (užsakovui), nurodydama konkrečias minėto leidimo neišdavimo priežastis
-Papildyta straipsnio dalimi:
-Nr. IX-586, 2001-11-08, Žin., 2001, Nr. 99-3520 (2001-11-28), i. k. 1011010ISTA00IX-586
- 
-
-
-
-
-5. Leidimas statyti ar rekonstruoti branduolinės energetikos objektą netenka galios:
-
-
-1) teismo sprendimu;
-
-
-
-
-2) Aplinkos ministerijos sprendimu – paaiškėjus, kad jis išduotas neteisėtai;
-
-
-
-
-3) jei per 10 metų nuo leidimo išdavimo dienos branduolinės energetikos objektas neperduotas eksploatuoti
-
-
-Papildyta straipsnio dalimi:
-Nr. IX-586, 2001-11-08, Žin., 2001, Nr. 99-3520 (2001-11-28), i. k. 1011010ISTA00IX-586
- 
-
-
-
-
-6. Leidimų statyti ar rekonstruoti branduolinės energetikos objektą išdavimo taisykles nustato Vyriausybė
-Papildyta straipsnio dalimi:
-Nr. IX-586, 2001-11-08, Žin., 2001, Nr. 99-3520 (2001-11-28), i. k. 1011010ISTA00IX-586
- 
-
-
-
-
-7. Leidimų statyti ar rekonstruoti branduolinės energetikos objektus apskaitą, sąrašą bei statistikos atskaitomybę tvarko Vyriausybė ar jos įgaliota institucija. 
-Papildyta straipsnio dalimi:
-Nr. IX-586, 2001-11-08, Žin., 2001, Nr. 99-3520 (2001-11-28), i. k. 1011010ISTA00IX-586
- 
-
-
-
-
-8. Branduolinės energetikos objektų statybos valstybinė kontrolė ir priežiūra atliekama visose pagrindinėse darbų vykdymo stadijose: objekto projektavimo ir statybos metu, perduodant jį eksploatuoti, eksploatuojant ir nutraukiant eksploataciją.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. IX-586, 2001-11-08, Žin., 2001, Nr. 99-3520 (2001-11-28), i. k. 1011010ISTA00IX-586
- 
-
-
-
-
-9. Visose darbų vykdymo stadijose branduolinės saugos, radiacinės apsaugos ir kituose norminiuose aktuose nustatytų sąlygų bei reikalavimų įgyvendinimą kontroliuoja ir prižiūri pagal kompetenciją: VATESI, Sveikatos apsaugos ministerija, Aplinkos ministerija, Valstybinė darbo inspekcija prie Socialinės apsaugos ir darbo ministerijos, Vidaus reikalų ministerija, Valstybės saugumo departamentas, Radiacinės saugos centras ir apskrities viršininkas. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-335, 1997-06-26, Žin., 1997, Nr. 66-1605 (1997-07-11), i. k. 0971010ISTAVIII-335
-Nr. VIII-1309, 1999-07-07, Žin., 1999, Nr. 65-2088 (1999-07-28); Žin., 1999, Nr. 68-0 (1999-08-11), i. k. 0991010ISTAIII-1309
-Nr. IX-1688, 2003-07-03, Žin., 2003, Nr. 73-3356 (2003-07-23), i. k. 1031010ISTA0IX-1688
-Straipsnio dalies numeracijos pakeitimas:
-Nr. IX-586, 2001-11-08, Žin., 2001, Nr. 99-3520 (2001-11-28), i. k. 1011010ISTA00IX-586
  
 
 
@@ -1580,46 +1423,25 @@ Nr. IX-586, 2001-11-08, Žin., 2001, Nr. 99-3520 (2001-11-28), i. k. 1011010ISTA
 
 
 
-33 straipsnis. Sanitarinė apsaugos ir stebėjimo zonos
+32 straipsnis. Licencijos turėtojo pareigos rengiantis nutraukti branduolinės energetikos objekto eksploatavimą
 
 
-1. Aplink branduolinės energetikos objektus nustatomos sanitarinė apsaugos ir stebėjimo zonos, kurių plotas priklauso nuo objekto paskirties ir jo eksploatavimo saugumą garantuojančių normų bei taisyklių reikalavimų. Sanitarinės apsaugos ir stebėjimo zonų ribos pažymimos objekto statybos projektiniuose dokumentuose.
-
-
-
-
-2. Iki objekto eksploatacijos pradžios iš sanitarinės apsaugos zonos teritorijos Vyriausybės nustatyta tvarka iškeldinami visi gyventojai. Joje draudžiama su objekto eksploatacija ar priežiūra nesusijusi veikla ir įrenginių bei pastatų statyba. Žemė, miškai ir vandens telkiniai, esantys sanitarinėje apsaugos zonoje, gali būti naudojami ūkio reikmėms tik gavus objektą eksploatuojančios organizacijos sutikimą ir Aplinkos ministerijos bei Sveikatos apsaugos ministerijos leidimus
-Straipsnio dalies pakeitimai:
-Nr. VIII-1309, 1999-07-07, Žin., 1999, Nr. 65-2088 (1999-07-28); Žin., 1999, Nr. 68-0 (1999-08-11), i. k. 0991010ISTAIII-1309
- 
+1. Branduolinės energetikos objektą eksploatuojanti organizacija užtikrina lėšų, reikalingų saugiai nutraukti branduolinės energetikos objekto eksploatavimą ir tvarkyti radioaktyviąsias atliekas, kaupimą branduolinės energetikos objekto eksploatavimo nutraukimo fonde (toliau – eksploatavimo nutraukimo fondas). Branduolinės energetikos objektą eksploatuojanti organizacija turi teisę užtikrinti savo įsipareigojimus, susijusius su saugaus eksploatavimo nutraukimo ir radioaktyviųjų atliekų tvarkymo finansavimu, pateikdama Vyriausybei ar jos įgaliotai institucijai nustatyto dydžio garantiją. Garantijos ir jos pateikimo sąlygas, garantijos terminus, garantijos dydžio nustatymo tvarką ir kitus privalomus reikalavimus reglamentuoja šio įstatymo 48 straipsnio 1 dalyje nurodytas įstatymas dėl eksploatavimo nutraukimo fondo ir (ar) jį įgyvendinantys teisės aktai. Garantijos pateikimas neatleidžia branduolinės energetikos objektą eksploatuojančios organizacijos nuo atsakomybės kaupti lėšas eksploatavimo nutraukimo fonde pasibaigus nustatytam garantijos terminui.
 
 
 
 
-3. Aplinkos ministerija, Sveikatos apsaugos ministerija ir objektą eksploatuojanti organizacija sanitarinėje apsaugos ir stebėjimo zonose vykdo aplinkos užterštumo radioaktyviosiomis medžiagomis monitoringą ir atlieka kitus tyrimus. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-1309, 1999-07-07, Žin., 1999, Nr. 65-2088 (1999-07-28); Žin., 1999, Nr. 68-0 (1999-08-11), i. k. 0991010ISTAIII-1309
- 
+2. Eksploatavimo nutraukimo licencijos turėtojas atsako už eksploatavimo nutraukimo metu branduolinės energetikos objekte įvykusią branduolinę ir (ar) radiologinę avariją ir iš jo pasklidusių radioaktyviųjų medžiagų padarytą žalą žmonėms, jų turtui ir aplinkai šio įstatymo ir kitų įstatymų nustatyta tvarka.
 
 
 
 
-4. Sanitarinėje apsaugos ir stebėjimo zonose planuojamos ir įgyvendinamos branduolinės avarijos prevencijos priemonės, atominės elektrinės eksploatacijos nutraukimo programa, sudaromos reikiamos sąlygos informacijai perduoti bei evakuacijai. Vyriausybės nustatyta tvarka gali būti teikiamos lengvatos šiose zonose gyvenantiems gyventojams, sudaromi rėmimo fondai savivaldybėms, kurių visa teritorija arba jos dalis yra branduolinio objekto stebėjimo zonoje.
+3. Vyriausybė ar jos įgaliota institucija koordinuoja veiklą, susijusią su branduolinės (atominės) elektrinės, atskiro branduolinės (atominės) elektrinės energijos bloko, ar neenergetinio branduolinio reaktoriaus eksploatavimo nutraukimu. 
 
 
 
 
-5. Pagrindinius atominės elektrinės ar branduolinio reaktoriaus bei sanitarinės apsaugos ir stebėjimo zonų reikalavimus, eksploatacijos nutraukimo sąlygas nustato atominės elektrinės ar branduolinio reaktoriaus įstatymas.
-
-
-
-
-
-
-34 straipsnis. Objekto perdavimas eksploatuoti
-
-
-Baigus statybos ar rekonstravimo darbus, branduolinės energetikos objekto perdavimas eksploatuoti įforminamas Vyriausybės paskirtos priėmimo komisijos pasirašytu aktu, kuris kartu su kitais dokumentais yra pagrindas gauti iš VATESI licenciją jį eksploatuoti.
+4. Branduolinės energetikos objektą eksploatuojanti organizacija ne vėliau kaip prieš dvejus metus iki branduolinės energetikos objekto galutinio sustabdymo rengia galutinį branduolinės energetikos objekto eksploatavimo nutraukimo planą. Planas turi būti suderintas su Valstybine atominės energetikos saugos inspekcija, Aplinkos ministerija, Sveikatos apsaugos ministerija, Energetikos ministerija ir Socialinės apsaugos ir darbo ministerija. Galutinį branduolinės energetikos objekto eksploatavimo nutraukimo planą tvirtina Energetikos ministerija.
  
 
 
@@ -1630,37 +1452,32 @@ Baigus statybos ar rekonstravimo darbus, branduolinės energetikos objekto perda
 
 
 ŠEŠTASIS SKIRSNIS
-BRANDUOLINĖS ENERGETIKOS OBJEKTŲ EKSPLOATAVIMAS
+BRANDUOLINĖS ENERGETIKOS OBJEKTŲ, BRANDUOLINIŲ MEDŽIAGŲ IR BRANDUOLINIO KURO CIKLO MEDŽIAGŲ FIZINĖ SAUGA
  
 
 
-35 straipsnis. Eksploatavimo pradžia
+33 straipsnis. Fizinės saugos tikslai
 
 
-1. Atominę elektrinę ar kitą branduolinės energetikos objektą galima pradėti eksploatuoti tik turint priėmimo komisijos pasirašytą aktą ir Valstybinės atominės energetikos saugos inspekcijos išduotą licenciją.
+Fizinės saugos tikslai:
 
 
-
-
-2. Branduolinio reaktoriaus išbandymo metu VATESI, suderinus su Aplinkos ministerija ar jos įgaliota institucija ir Radiacinės saugos centru, išduoda atskirus leidimus:
-
-
-1) branduoliniam kurui įvežti į objekto aikštelę;
+1) garantuoti tinkamą branduolinės energetikos objekto, branduolinių medžiagų ir (ar) branduolinio kuro ciklo medžiagų apsaugą nuo neteisėto jų užvaldymo ar pagrobimo;
 
 
 
 
-2) pirmajam branduolinio kuro pakrovimui į reaktorių; 
+2) užtikrinti apsaugą nuo nesankcionuoto pašalinių asmenų patekimo į branduolinės energetikos objekto apsaugos zonas;
 
 
 
 
-3) pirmajam reaktoriaus paleidimui. 
+3) apsaugoti branduolinės energetikos objektą, branduolines medžiagas ir (ar) branduolinio kuro ciklo medžiagas nuo veiksmų, kurie tiesiogiai arba netiesiogiai keltų riziką žmonių sveikatai ir saugumui dėl jonizuojančiosios spinduliuotės, išvengti branduolinės energetikos objektų normalios veiklos sutrikdymo;
 
 
-Straipsnio dalies pakeitimai:
-Nr. VIII-1309, 1999-07-07, Žin., 1999, Nr. 65-2088 (1999-07-28); Žin., 1999, Nr. 68-0 (1999-08-11), i. k. 0991010ISTAIII-1309
-Nr. IX-2114, 2004-04-13, Žin., 2004, Nr. 60-2122 (2004-04-24), i. k. 1041010ISTA0IX-2114
+
+
+4) užtikrinti neteisėto branduolinės energetikos objekto, branduolinių medžiagų ir (ar) branduolinio kuro ciklo medžiagų užvaldymo ar pagrobimo, nesankcionuoto pašalinių asmenų patekimo į branduolinės energetikos objekto apsaugos zonas, taip pat veiksmų, kurie tiesiogiai arba netiesiogiai keltų riziką žmonių sveikatai ir saugumui dėl jonizuojančiosios spinduliuotės, ir branduolinės energetikos objektų normalios veiklos sutrikdymo prevenciją.
  
 
 
@@ -1668,45 +1485,12 @@ Nr. IX-2114, 2004-04-13, Žin., 2004, Nr. 60-2122 (2004-04-24), i. k. 1041010IST
 
 
 
-36 straipsnis. Objektą eksploatuojančios organizacijos pagrindinės pareigos
 
 
-1. Branduolinės energetikos objektas turi būti naudojamas tik pagal tiesioginę paskirtį.
+34 straipsnis. Branduolinės energetikos objekto apsaugos zonos
 
 
-
-
-2. Branduolinės energetikos objektą eksploatuojanti organizacija yra visiškai atsakinga už tinkamą ir saugų objekto eksploatavimą pagal Lietuvos Respublikos įstatymuose, poįstatyminiuose aktuose, branduolinės saugos bei radiacinės apsaugos normose ir taisyklėse, taip pat objektą eksploatuojančios organizacijos įstatuose, vidaus darbo drausmės bei režimo taisyklėse ir jam eksploatuoti išduotoje licencijoje nustatytus reikalavimus.
-
-
-
-
-3. Objektą eksploatuojanti organizacija privalo:
-
-
-1) tvarkyti objektui priklausančių branduolinių medžiagų apskaitą bei vykdyti kontrolę pagal Lietuvos Respublikos garantijų sutartyje su TATENA nustatytus reikalavimus;
-
-
-
-
-2) atlikti branduolinių avarijų ir incidentų tyrimus pagal norminių aktų nustatytą tvarką;
-
-
-
-
-3) informuoti VATESI ir kitas suinteresuotas institucijas apie visus saugaus eksploatavimo sąlygų bei reikalavimų pažeidimus ir visus objekto saugumą garantuojančių sistemų ir elementų sutrikimus;
-
-
-
-
-4) užtikrinti pasirengimą likviduoti radiacinės avarijos pasekmes.
-
-
-
-
-
-
-4. VATESI reikalavimu objektą eksploatuojanti organizacija privalo pateikti išsamią informaciją apie objekto ar jo dalių techninę būklę.
+Branduolinės energetikos objekto fizinės saugos tikslams įgyvendinti Vyriausybė ar jos įgaliota institucija, vadovaudamosi šio įstatymo 33 straipsnyje įtvirtintais fizinės saugos tikslais ir 36 straipsnyje nustatytomis prevencinėmis priemonėmis branduolinės energetikos objekto fizinei saugai užtikrinti, nustato branduolinės energetikos objekto apsaugos zonų rūšis ir jų apsaugos sąlygas. Šiose zonose teisės aktų nustatyta tvarka ir sąlygomis nustatomi specialūs apribojimai ir reikalavimai, įrengiamos specialios šiuos apribojimus ir reikalavimus atitinkančios techninės priemonės.
  
 
 
@@ -1714,57 +1498,91 @@ Nr. IX-2114, 2004-04-13, Žin., 2004, Nr. 60-2122 (2004-04-24), i. k. 1041010IST
 
 
 
-37 straipsnis. Eksploatacijos nutraukimas
+35 straipsnis. Fizinės saugos užtikrinimo pagrindai
 
 
-1. Atominės elektrinės eksploatacijos nutraukimo įstatymą įgyvendina Lietuvos Respublikos Vyriausybė ir jai pavaldžios valstybės institucijos.
+1. Įsigyjant, turint, naudojant ir vežant branduolines medžiagas, turi būti laikomasi šių medžiagų kategorijas atitinkančių fizinės saugos priemonių, taip pat turi būti užtikrinta visų branduolinės energetikos objektų fizinė sauga.
 
 
 
 
-2. Kitų branduolinės energetikos objektų eksploatacija gali būti nutraukta Vyriausybės sprendimu. Jų uždarymo tvarką nustato VATESI, suderinusi su Energetikos ministerija, Sveikatos apsaugos ministerija, Aplinkos ministerija ir Socialinės apsaugos ir darbo ministerija. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
-Nr. VIII-1309, 1999-07-07, Žin., 1999, Nr. 65-2088 (1999-07-28); Žin., 1999, Nr. 68-0 (1999-08-11), i. k. 0991010ISTAIII-1309
-Nr. XI-134, 2009-01-12, Žin., 2009, Nr. 10-356 (2009-01-27), i. k. 1091010ISTA00XI-134
+2. Licencijos turėtojai ir kiti branduolinėmis medžiagomis teisėtai disponuojantys asmenys, vadovaudamiesi įstatymais ir kitais teisės aktais ir atsižvelgdami į numatomą grėsmę, organizuoja ir užtikrina branduolinės energetikos objekto ir branduolinių medžiagų fizinę saugą.
+
+
+
+
+3. Branduolinių medžiagų, kurių kiekis viršija Branduolinės saugos įstatymo 1 priede nustatytą kiekį, kategorijas ir šių medžiagų ir branduolinės energetikos objektų fizinės saugos bendruosius reikalavimus ir taisykles nustato ir jų įgyvendinimą prižiūri Valstybinė atominės energetikos saugos inspekcija.
+
+
+
+
+4. Branduolinės energetikos objektų numatomą grėsmę ir numatomą grėsmę branduolinių medžiagų, kurių kiekis viršija Branduolinės saugos įstatymo 1 priede nustatytą kiekį, įsigijimui, turėjimui, naudojimui ir vežimui nustato ir ne rečiau kaip kartą per metus persvarsto Valstybinė atominės energetikos saugos inspekcija, dalyvaujant Valstybės saugumo departamentui, Krašto apsaugos ministerijai ir Vidaus reikalų ministerijai.
+
+
+
+
+5. Valstybės ir savivaldybių institucijos ir įstaigos, branduolinės energetikos objektus eksploatuojančios ir branduolinių medžiagų, kurių kiekis viršija Branduolinės saugos įstatymo 1 priede nustatytą kiekį, įsigijimą, turėjimą, naudojimą ir vežimą vykdančios ir kitos organizacijos bei asmenys teikia Valstybinei atominės energetikos saugos inspekcijai informaciją, kuri gali būti svarbi nustatant numatomas grėsmes ar gali daryti įtaką numatomų grėsmių pasikeitimams.
+
+
+
+
+6. Vyriausybė nustato numatomų grėsmių nustatymo ir persvarstymo bei informacijos teikimo Valstybinei atominės energetikos saugos inspekcijai tvarką.
  
 
 
 
 
-3. Laikinai branduolinės energetikos objekto veikla gali būti sustabdoma Lietuvos Respublikos Vyriausybės, VATESI ar objektą eksploatuojančios organizacijos sprendimu ir VATESI nustatyta tvarka.
- 
+
+
+36 straipsnis. Prevencinės priemonės branduolinės energetikos objekto fizinei saugai užtikrinti
+
+
+1. Kad būtų užtikrinta branduolinės energetikos objekto fizinė sauga, draudžiama asmenims ir transporto priemonėms be licencijos turėtojo išduoto galiojančio leidimo patekti į branduolinės energetikos objekto apsaugos zonas, atvežti ir išvežti krovinius, fotografuoti ir filmuoti branduolinės energetikos objekte esančius įrenginius ir įrangą. Be leidimo į branduolinės energetikos objekto apsaugos zonas patekusiems asmenims taikomos įstatymų nustatytos poveikio priemonės. Leidimų patekti į branduolinės energetikos objektų apsaugos zonas režimas privalo būti taikomas visoms branduolinės energetikos objekto apsaugos zonoms, išskyrus riboto patekimo zoną.
+
+
+
+
+2. Licencijos turėtojas užtikrina, kad TATENA, Euratomo inspektoriai ir Valstybinės atominės energetikos saugos inspekcijos ir kitų valstybinį reglamentavimą ir priežiūrą vykdančių institucijų pareigūnai, turintys įgaliojimus lankytis branduolinės energetikos objekte, be kliūčių patektų į branduolinės energetikos objekto apsaugos zonas, taip pat sudaro jiems tinkamas sąlygas pareigoms atlikti. Licencijos turėtojo darbuotojams, Valstybinės atominės energetikos saugos inspekcijos ir kitų valstybinį reglamentavimą ir priežiūrą vykdančių institucijų pareigūnams ir kitiems asmenims, kuriems teisės aktų nustatyta tvarka gali būti išduodamas leidimas be palydos patekti į branduolinės energetikos objekto apsaugos zonas, toks leidimas išduodamas tik gavus Valstybės saugumo departamento išvadą.
+
+
+
+
+3. Leidimas patekti į branduolinės energetikos objekto apsaugos zonas panaikinamas, kai:
+
+
+1) atsiranda ar paaiškėja kuri nors iš aplinkybių, nurodytų šio įstatymo 50 straipsnio 3 dalies 1–7 punktuose;
+
+
+
+
+2) su asmeniu nutraukiami darbo (tarnybos) santykiai teisės aktų nustatyta tvarka;
+
+
+
+
+3) nustatoma, kad asmuo, būdamas branduolinės energetikos objekto apsaugos zonose, kelia ar gali sukelti pavojų branduolinės energetikos objektui.
 
 
 
 
 
 
-38 straipsnis. Atominę elektrinę eksploatuojančios organizacijos pareigos rengiantis nutraukti objekto eksploataciją
-
-
-1. Įstatymų nustatyta tvarka nusprendus nutraukti atominės elektrinės ar jos atskiro bloko eksploataciją, būtina prieš 5 metus pateikti VATESI šio objekto eksploatacijos nutraukimo programą, suderintą su Energetikos ministerija, Aplinkos ministerija, Sveikatos apsaugos ministerija, Socialinės apsaugos ir darbo ministerija, apskrities viršininku bei vietos savivaldos institucija, kurios teritorija ar jos dalis yra objekto sanitarinėje apsaugos zonoje. Programoje turi būti numatytos įrenginių demontavimo, konservavimo, radioaktyviųjų medžiagų bei radioaktyviųjų atliekų tvarkymo ir objekto vėlesnės kontrolės bei priežiūros priemonės. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
-Nr. VIII-335, 1997-06-26, Žin., 1997, Nr. 66-1605 (1997-07-11), i. k. 0971010ISTAVIII-335
-Nr. VIII-1309, 1999-07-07, Žin., 1999, Nr. 65-2088 (1999-07-28); Žin., 1999, Nr. 68-0 (1999-08-11), i. k. 0991010ISTAIII-1309
-Nr. XI-134, 2009-01-12, Žin., 2009, Nr. 10-356 (2009-01-27), i. k. 1091010ISTA00XI-134
- 
+4. Licencijos turėtojas šio straipsnio 3 dalyje nurodytais atvejais branduolinės energetikos objekto darbuotojams ir kitiems asmenims, kuriems teisės aktų nustatyta tvarka išduotas leidimas patekti į branduolinės energetikos objekto apsaugos zonas, panaikina šį leidimą savo iniciatyva arba Valstybės saugumo departamento motyvuotu teikimu, o Valstybinės atominės energetikos saugos inspekcijos ir kitų valstybinį reglamentavimą ir priežiūrą vykdančių institucijų pareigūnams šio straipsnio 3 dalies 1 ir 3 punktuose nurodytais atvejais – tik Valstybės saugumo departamento motyvuotu teikimu. Šio straipsnio 3 dalies 2 punkte nurodytu atveju licencijos turėtojas panaikina leidimą Valstybinės atominės energetikos saugos inspekcijos ir kitų valstybinį reglamentavimą ir priežiūrą vykdančių institucijų pareigūnams, gavęs informaciją apie darbo (tarnybos) santykių pabaigą.
 
 
 
 
-2. Ne vėliau kaip prieš 3 metus iki eksploatacijos nutraukimo atominę elektrinę eksploatuojanti organizacija turi gauti iš VATESI licenciją eksploatacijai nutraukti.
+5. Valstybės saugumo departamentas privalo patikrinti asmens, pretenduojančio gauti leidimą be palydos patekti į branduolinės energetikos objekto apsaugos zonas, kandidatūrą per 40 darbo dienų.
 
 
 
 
-3. Objektą eksploatuojanti organizacija atsako už eksploatacijos nutraukimo metu objekte įvykusią avariją bei iš jo pasklidusios radiacijos kenksmingas pasekmes žmonėms ir gamtinei aplinkai Lietuvos Respublikos įstatymų nustatyta tvarka.
+6. Transporto priemonės ir asmenys (įskaitant ir branduolinės energetikos objekto darbuotojus), esantys branduolinės energetikos objekto apsaugos zonose, Vyriausybės nustatyta tvarka gali būti apžiūrimi ir tikrinami, ar neturi ginklų, šaudmenų, radioaktyviųjų medžiagų ir kitų daiktų, kuriuos būtų galima panaudoti teroro aktams ar kitiems nusikalstamiems tikslams. Branduolinės energetikos objekto apsaugos zonose asmenims ir transporto priemonėms gali būti apribotas įėjimas, įvažiavimas arba išėjimas, išvažiavimas, kai pažeidžiama licencijos turėtojo nustatyta vidaus tvarka ir (ar) teisės aktų nustatyti reikalavimai.
 
 
 
 
-4. Vyriausybė ar jos įgaliota institucija koordinuoja veiklą, susijusią su atominės elektrinės eksploatacijos nutraukimu, sudaro tam tikslui būtinus darinius ir telkia mokslinį techninį potencialą, nustato eksploatacijai nutraukti reikalingų lėšų kaupimo būdus.
+7. Visų rūšių orlaiviams ir kitiems skraidymo aparatams draudžiama skraidyti virš branduolinės (atominės) elektrinės ir Vyriausybės ar jos įgaliotos institucijos nustatytos neskraidymo zonos, išskyrus atvejus, kai skraidymas būtinas branduolinės (atominės) elektrinės ar atskiro branduolinės (atominės) elektrinės energijos bloko statybai, eksploatavimui, eksploatavimo nutraukimui arba branduolinei ar radiologinei avarijai likviduoti.
  
 
 
@@ -1775,43 +1593,19 @@ Nr. XI-134, 2009-01-12, Žin., 2009, Nr. 10-356 (2009-01-27), i. k. 1091010ISTA0
 
 
 SEPTINTASIS SKIRSNIS
-BRANDUOLINIŲ IR RADIOAKTYVIŲJŲ MEDŽIAGŲ BEI ĮRENGIMŲ EKSPORTAS IR IMPORTAS
+BRANDUOLINIŲ IR RADIOLOGINIŲ AVARIJŲ IR JŲ PADARINIŲ LIKVIDAVIMAS
  
 
 
-39 straipsnis. Branduolinių ir radioaktyviųjų medžiagų bei įrengimų eksporto ir importo teisiniai pagrindai
+37 straipsnis. Branduolinių ir radiologinių avarijų tyrimas
 
 
-1. Branduolinių ir radioaktyviųjų medžiagų bei įrengimų, naudojamų branduolinėje energetikoje, eksporto, importo ir tranzito tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota valstybės institucija. Šios kategorijos medžiagas bei įrengimus galima eksportuoti, importuoti ar vežti tranzitu laikantis Lietuvos Respublikos įstatymų ir tarptautinių įsipareigojimų, nustatytų 1970 m. branduolinio ginklo neplatinimo sutartyje ir kituose tarptautiniuose susitarimuose bei konvencijose, kurių dalyvė yra Lietuvos Respublika.
-
-
-
-
-2. Dvigubos paskirties medžiagų bei įrengimų eksportui ir importui Lietuvos Respublikos Vyriausybė gali nustatyti specialius reikalavimus.
- 
+1. Kiekvienos branduolinės ar radiologinės avarijos priežastis ir aplinkybes turi ištirti tam tikslui licencijos turėtojo sudaryta komisija. Į komisiją kviečiami reikiamų sričių ekspertai. Licencijos turėtojo sudarytos komisijos išvados, susiję dokumentai ir informacija teikiami Valstybinei atominės energetikos saugos inspekcijai Valstybinės atominės energetikos saugos inspekcijos viršininko įsakymu patvirtinta tvarka ir terminais.
 
 
 
 
-
-
-40 straipsnis. Branduolinių medžiagų bei įrengimų ir technologijų eksporto apribojimai
-
-
-Draudžiama eksportuoti branduolines medžiagas, įrengimus ir technologijas į šalis, kurios:
-
-
-1) yra neprisijungusios prie 1970 m. branduolinio ginklo neplatinimo sutarties ir neprisiėmusios įsipareigojimo taikyti branduolinėms medžiagoms TATENA’os patvirtintą garantijų sistemą;
-
-
-
-
-2) negarantuoja šių medžiagų bei įrengimų fizinės saugos;
-
-
-
-
-3) nustatyta tvarka neprisiėmė įsipareigojimo uždrausti šių medžiagų, įrengimų ir technologijų reeksportą į šalis, apibūdintas šio straipsnio 1 ir 2 punktuose.
+2. Valstybinė atominės energetikos saugos inspekcija ir (ar) kitos branduolinės energetikos srities veiklos priežiūrą vykdančios institucijos pagal kompetenciją atlieka nepriklausomus branduolinės ir radiologinės avarijos priežasčių ir aplinkybių tyrimus.
  
 
 
@@ -1819,27 +1613,25 @@ Draudžiama eksportuoti branduolines medžiagas, įrengimus ir technologijas į 
 
 
 
+38 straipsnis. Institucijos ir asmenys, atsakingi už branduolinės ir radiologinės avarijų ir jų padarinių likvidavimą
 
 
-41 straipsnis. Branduolinių ir radioaktyviųjų medžiagų, įrengimų ir technologijų radiacinė apsauga ir fizinė sauga atliekant eksporto ir importo operacijas
-
-
-1. Už radiacinę apsaugą ir fizinę saugą bei avarijos pasekmes atliekant branduolinių ir radioaktyviųjų medžiagų, įrengimų bei technologijų eksporto ir importo operacijas atsako:
-
-
-1) importuojant į Lietuvą – eksportuojanti šalis tol, kol atsakomybę už jų radiacinę bei fizinę apsaugą perima tų medžiagų ar įrengimų gavėjas Lietuvoje;
+1. Už branduolinių ir radiologinių avarijų valdymą ir jų padarinių likvidavimą branduolinės energetikos objekte ir sanitarinės apsaugos zonoje atsako licencijos turėtojas.
 
 
 
 
-2) eksportuojant iš Lietuvos – eksportuotojas, kol atsakomybę už jų radiacinę bei fizinę apsaugą perima importuojančios šalies gavėjas.
+2. Už branduolinių ir radiologinių avarijų padarinių sušvelninimą ir likvidavimą už branduolinės energetikos objekto sanitarinės apsaugos zonos ribų pagal kompetenciją atsako Vyriausybė ir kitos valstybės institucijos, taip pat savivaldybės, kurių teritorijoje yra branduolinės energetikos objektai arba kurių teritorijoje galimi žalingi avarijų padariniai.
 
 
 
 
+3. Vyriausybė yra atsakinga už Lietuvos Respublikos pasirengimą reaguoti į susidariusią ekstremaliąją situaciją branduolinės ir radiologinės avarijų atvejais Civilinės saugos įstatymo ir kitų teisės aktų, reglamentuojančių civilinės saugos teisinius ir organizacinius pagrindus, nustatyta tvarka.
 
 
-2. Branduolinių ir radioaktyviųjų medžiagų, įrengimų ir technologijų perdavimo tvarką, laiką ir vietą šalys nustato pirkimo–pardavimo sutartyse (kontraktuose).
+
+
+4. Valstybės ir savivaldybių institucijos, planuodamos gyventojų apsaugos priemones branduolinės ir radiologinės avarijų atvejais, vykdo Vidaus reikalų ministerijos nustatytus reikalavimus avarinės parengties zonoms.
  
 
 
@@ -1847,10 +1639,101 @@ Draudžiama eksportuoti branduolines medžiagas, įrengimus ir technologijas į 
 
 
 
-42 straipsnis. Draudimas įvežti radioaktyviąsias atliekas
+39 straipsnis. Branduolinių ir radiologinių avarijų ir jų padarinių likvidavimas 
 
 
-Draudžiama įvežti į Lietuvos Respublikos teritoriją radioaktyviąsias atliekas.
+1. Branduolinių ir radiologinių avarijų ir jų padarinių likvidavimo darbai atliekami vadovaujantis valstybiniu gyventojų apsaugos planu branduolinės avarijos atveju, šiame įstatyme nurodytų institucijų atitinkamais planais, branduolinės energetikos objekto avarinės parengties planu ir kitais susijusiais dokumentais.
+
+
+
+
+2. Institucijos ir asmenys, kurie pagal valstybinį gyventojų apsaugos planą branduolinės avarijos atveju privalo dalyvauti likviduojant avariją, sušvelninant ir likviduojant jos padarinius, rengia tam tikslui numatytas priemones ir jas įgyvendina.
+
+
+
+
+3. Šio straipsnio 1 ir 2 dalyse nustatyti planai rengiami vadovaujantis Civilinės saugos įstatymo ir kitų teisės aktų, reglamentuojančių civilinės saugos teisinius ir organizacinius pagrindus, nuostatomis.
+ 
+
+
+
+
+
+
+40 straipsnis. Užsienio valstybių ir tarptautinių organizacijų informavimas apie branduolinę ir radiologinę avariją
+
+
+1. Informacija apie Lietuvos Respublikoje įvykusią branduolinę ir radiologinę avariją ar padidėjusį jonizuojančiosios spinduliuotės lygį aplinkoje perduodama užsienio valstybėms ir tarptautinėms organizacijoms tokia tvarka ir tiek, kiek to reikalauja 1986 m. Konvencija dėl ankstyvo pranešimo apie branduolinę avariją, kitos Lietuvos Respublikos tarptautinės sutartys ir 1987 m. gruodžio 14 d. Tarybos sprendimas 87/600/Euratomas dėl Bendrijoje nustatomos skubaus pasikeitimo informacija radiologinės avarijos atveju tvarkos (OL 2004 m. specialusis leidimas, 15 skyrius, 1 tomas, p. 337).
+
+
+
+
+2. Įvykus branduolinei ir (ar) radiologinei avarijai, kurios metu išmetamos ar tikėtina, kad gali būti išmestos radioaktyviosios medžiagos, kurios sukelia ar gali sukelti tarptautinį tolimąjį išmetimą, kuris gali kelti radiologinės saugos problemų užsienio valstybei, Vyriausybės įgaliota institucija teisės aktų nustatyta tvarka ir sąlygomis:
+
+
+1) nedelsdama tiesiogiai ar per TATENA toms užsienio valstybėms, kurioms yra ar gali būti patiriamas šioje dalyje nurodytas poveikis, ir TATENA praneša apie įvykusią branduolinę ir (ar) radiologinę avariją, jos pobūdį, įvykimo laiką ir tikslią vietą;
+
+
+
+
+2) skubiai tiesiogiai ar per TATENA atitinkamoms užsienio valstybėms ir TATENA suteikia šio straipsnio 3 dalyje nurodytą turimą informaciją, kuri yra svarbi siekiant kuo labiau sumažinti radiologinius padarinius tose užsienio valstybėse.
+
+
+
+
+
+
+3. Teikdama informaciją pagal šio straipsnio 2 dalies 2 punktą, Vyriausybės įgaliota institucija pateikia jai žinomus duomenis apie:
+
+
+1) branduolinės ir (ar) radiologinės avarijos laiką, prireikus tikslią vietą ir pobūdį;
+
+
+
+
+2) su branduoline ir (ar) radiologine avarija susijusį branduolinės energetikos objektą ar veiklą;
+
+
+
+
+3) spėjamą ar nustatytą priežastį ir numatomą branduolinės ir (ar) radiologinės avarijos, susijusios su radioaktyviųjų medžiagų tolimuoju išmetimu, vystymąsi;
+
+
+
+
+4) radioaktyviojo išmetimo bendrąsias charakteristikas, įskaitant, kiek praktiškai įmanoma ir tikslinga, jo pobūdį, tikėtiną fizinį ir cheminį pavidalą ir kiekį, sudėtį ir veiksmingąjį aukštį;
+
+
+
+
+5) informaciją apie esamas ir numatomas meteorologines ir hidrologines sąlygas, būtiną radioaktyviųjų medžiagų tolimojo išmetimo prognozėms;
+
+
+
+
+6) aplinkos monitoringo, susijusio su radioaktyviųjų medžiagų tolimuoju išmetimu, rezultatus;
+
+
+
+
+7) planuojamas ar jau vykdomas apsaugos priemones už branduolinės energetikos objekto ribų;
+
+
+
+
+8) tikėtiną radioaktyviojo išmetimo poveikį.
+
+
+
+
+
+
+4. Šio straipsnio 3 dalyje nurodytą informaciją periodiškai būtina papildyti kita svarbia informacija apie avarinės situacijos eigą, įskaitant jos numatomą ar jau įvykusią pabaigą. Vyriausybės įgaliota institucija, teikianti atitinkamą informaciją, turi teisę nurodyti, kad teikiama konfidenciali informacija, kuri sudaro tarnybos paslaptį ir kurios praradimas arba neteisėtas atskleidimas gali pakenkti valstybės interesams arba padaryti žalos valstybės institucijų veiklai ar sudaryti prielaidas neteisėtam valstybės paslaptį sudarančios informacijos atskleidimui, ir nustatyti, kad tokia informacija privalo būti naudojama teisės aktų nustatyta tvarka ir sąlygomis užtikrinant jos apsaugą nuo neteisėto perleidimo ar kitokio atskleidimo.
+
+
+
+
+5. Valstybinį reglamentavimą ir priežiūrą vykdančių institucijų ir (ar) kitų subjektų pareiga teikti informaciją apie Lietuvos Respublikoje įvykusią branduolinę ir radiologinę avariją ar padidėjusį jonizuojančiosios spinduliuotės lygį aplinkoje nustatoma šiame įstatyme, kituose įstatymuose ir šio straipsnio 1 dalyje nurodytose tarptautinėse sutartyse bei kituose teisės aktuose.
  
 
 
@@ -1861,57 +1744,14 @@ Draudžiama įvežti į Lietuvos Respublikos teritoriją radioaktyviąsias atlie
 
 
 AŠTUNTASIS SKIRSNIS
-BRANDUOLINIŲ IR RADIOAKTYVIŲJŲ MEDŽIAGŲ TRANSPORTAVIMAS IR SANDĖLIAVIMAS
+CIVILINĖS ATSAKOMYBĖS PAGRINDAI BRANDUOLINĖS ENERGETIKOS SRITYJE
  
 
 
-43 straipsnis. Branduolinių ir radioaktyviųjų medžiagų transportavimo pagrindinės sąlygos
+41 straipsnis. Atsakomybė už branduolinę žalą
 
 
-Transportuojant branduolines ir radioaktyviąsias medžiagas, turi būti griežtai laikomasi Lietuvos Respublikos įstatymuose, poįstatyminiuose aktuose, transportavimo ir radiacinės apsaugos normose bei taisyklėse nustatytos tvarkos ir reikalavimų.
- 
-
-
-
-
-
-
-44 straipsnis. Licencijų branduolinėms ir radioaktyviosioms medžiagoms transportuoti išdavimo sąlygos
-
-
-1. Norėdamas gauti licenciją branduolinėms medžiagoms transportuoti, vežėjas VATESI privalo pateikti:
-
-
-1) branduolinių medžiagų transportavimo planą, apimantį jų fizinę saugą;
-
-
-
-
-2) sertifikatus, patvirtinančius, kad transporto priemonė ir tara, skirtos šioms medžiagoms gabenti, atitinka saugaus transportavimo reikalavimus;
-
-
-
-
-3) dokumentą, patvirtinantį, kad pervežimo operacijas atliekantys asmenys yra atestuoti pagal branduolinių ir radioaktyviųjų medžiagų transportavimo saugos reikalavimus;
-
-
-
-
-4) draudimo liudijimą (polisą) ar kitą dokumentą, garantuojantį žalos atlyginimą branduolinės ar radiacinės avarijos atveju;
-
-
-
-
-5) dokumentą, nustatantį krovinį lydinčio personalo veiksmus avarijos atveju (avarinę kortelę).
-
-
-
-
-
-
-2. Licencijas radioaktyviosioms medžiagoms transportuoti išduoda Radiacinės saugos centras, vadovaudamasis šio straipsnio 1 dalyje nurodytais reikalavimais. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-1309, 1999-07-07, Žin., 1999, Nr. 65-2088 (1999-07-28); Žin., 1999, Nr. 68-0 (1999-08-11), i. k. 0991010ISTAIII-1309
+Licencijos turėtojas atsako už veiklos, kuriai išduota licencija, ar su ta veikla susijusios veiklos metu padarytą branduolinę žalą.
  
 
 
@@ -1919,305 +1759,15 @@ Nr. VIII-1309, 1999-07-07, Žin., 1999, Nr. 65-2088 (1999-07-28); Žin., 1999, N
 
 
 
-45 straipsnis. Branduolinių ir radioaktyviųjų medžiagų tranzitas
+42 straipsnis. Žalos nustatymas
 
 
-Branduolinių ir radioaktyviųjų medžiagų tranzito per Lietuvos teritoriją tvarką nustato Lietuvos Respublikos tarptautinės sutartys, Lietuvos Respublikos įstatymai bei poįstatyminiai aktai, taip pat jų pagrindu parengtos bei nustatyta tvarka patvirtintos pavojingų medžiagų gabenimo per Lietuvos teritoriją taisyklės.
- 
+1. Nustatant branduolinės žalos dydį, vadovaujamasi Civiliniu kodeksu ir 1963 m. gegužės 21 d. Vienos konvencija dėl civilinės atsakomybės už branduolinę žalą (toliau – Vienos konvencija) bei jos pagrindu priimtu Lietuvos Respublikos įstatymu „Dėl 1963 m. gegužės 21 d. Vienos konvencijos dėl civilinės atsakomybės už branduolinę žalą ir bendro protokolo dėl Vienos konvencijos bei Paryžiaus konvencijos taikymo įsigaliojimo“.
 
 
 
 
-
-
-46 straipsnis. Branduolinių ir radioaktyviųjų medžiagų sandėliavimas
-
-
-Objektą eksploatuojanti organizacija privalo užtikrinti, kad visos jai priklausančios branduolinės ir radioaktyviosios medžiagos, įskaitant ir atliekas, būtų laikomos specialiai tam skirtose talpose ir specialiose saugyklose, kuriose garantuojama jų branduolinė sauga ir fizinė bei radiacinė apsauga. Konteinerių ir kitų talpų bei saugyklų techniniai parametrai bei medžiagų laikymo jose sąlygos turi atitikti šios paskirties įrenginiams nustatytus reikalavimus.
- 
-
-
-
-
-
-
-47 straipsnis. Radioaktyviųjų atliekų laidojimas
-
-
-Radioaktyviosios atliekos gali būti laidojamos Lietuvos teritorijoje tik Lietuvos Respublikos Vyriausybės nutarimu specialiai tam įrengtose vietose ir laikantis Lietuvos Respublikos įstatymų, poįstatyminių aktų, licencijų bei Lietuvos Respublikos tarptautinių sutarčių nustatytos tvarkos.
- 
-
-
-
-
-
-
-
-
-DEVINTASIS SKIRSNIS
-BRANDUOLINĖS ENERGETIKOS OBJEKTŲ IR BRANDUOLINIŲ MEDŽIAGŲ FIZINĖ SAUGA 
-Pakeistas skirsnio pavadinimas:
-Nr. IX-596, 2001-11-13, Žin., 2001, Nr. 99-3528 (2001-11-28), i. k. 1011010ISTA00IX-596
- 
-
-
-48 straipsnis. Fizinės saugos tikslai
-
-
-Branduolinės energetikos objektų ir branduolinių medžiagų fizinė sauga yra branduolinės saugos užtikrinimo dalis. Fizinės saugos tikslai:
-
-
-1) apsaugoti branduolinės energetikos objektą arba branduolines medžiagas nuo veiksmų, kurie tiesiogiai arba netiesiogiai sukeltų pavojų žmonių sveikatai ir saugumui dėl radioaktyvaus spinduliavimo, išvengti branduolinės energetikos objektų normalios veiklos sutrikdymo;
-
-
-
-
-2) užkirsti kelią branduolinių įrenginių ir branduolinių ar radioaktyviųjų medžiagų užvaldymui ar pagrobimui.
-
-
-
-
-Straipsnio pakeitimai:
-Nr. IX-596, 2001-11-13, Žin., 2001, Nr. 99-3528 (2001-11-28), i. k. 1011010ISTA00IX-596
- 
-
-
-
-
-49 straipsnis. Branduolinės energetikos objekto apsaugos zonos
-
-
-Branduolinės energetikos objektų fizinės saugos tikslams įgyvendinti Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija nustato branduolinės energetikos objektų teritorijos apsaugos zonas ir apsaugos sąlygas. Šiose zonose nustatomi specialūs apribojimai bei reikalavimai, įrengiama speciali šiuos apribojimus ir reikalavimus užtikrinanti technika ir skiriami atsakingi pareigūnai.
-
-
-Straipsnio pakeitimai:
-Nr. IX-596, 2001-11-13, Žin., 2001, Nr. 99-3528 (2001-11-28), i. k. 1011010ISTA00IX-596
- 
-
-
-
-
-50 straipsnis. Organizaciniai ir teisiniai fizinės saugos pagrindai
-
-
-1. Naudojant, saugant bei gabenant branduolines medžiagas, turi būti taikomos šių medžiagų kategoriją atitinkančios fizinės saugos priemonės, taip pat turi būti užtikrinta visų branduolinės energetikos objektų fizinė sauga.
-
-
-
-
-2. Branduolinės energetikos objektą eksploatuojanti organizacija kartu su Vidaus reikalų ministerija ir kitos branduolinėmis medžiagomis teisėtai disponuojančios įmonės, vadovaudamosi Lietuvos Respublikos įstatymais bei kitais norminiais aktais ir atsižvelgdamos į nustatytą projektinę grėsmę, organizuoja ir užtikrina branduolinės energetikos objekto ir branduolinių medžiagų fizinę saugą.
-
-
-
-
-3. Branduolinių medžiagų kategorijas bei branduolinės energetikos objektų ir branduolinių medžiagų fizinės saugos bendruosius reikalavimus nustato ir jų įgyvendinimą kontroliuoja VATESI.
-
-
-
-
-4. Branduolinės energetikos objektų projektinę grėsmę ir projektinę grėsmę branduolinių medžiagų gabenimui nustato ir ne rečiau kaip kartą per metus persvarsto Lietuvos Respublikos valstybės saugumo departamentas, dalyvaujant Krašto apsaugos ministerijai, Vidaus reikalų ministerijai, VATESI ir branduolinės energetikos objektą eksploatuojančiai organizacijai. 
-Straipsnio dalies pakeitimai:
-Nr. X-928, 2006-11-28, Žin., 2006, Nr. 137-5202 (2006-12-16), i. k. 1061010ISTA000X-928
- 
-
-
-Straipsnio pakeitimai:
-Nr. IX-596, 2001-11-13, Žin., 2001, Nr. 99-3528 (2001-11-28), i. k. 1011010ISTA00IX-596
- 
-
-
-
-
-51 straipsnis. Prevencinės priemonės branduolinės energetikos objekto fizinei saugai užtikrinti 
-Pakeistas straipsnio pavadinimas:
-Nr. IX-596, 2001-11-13, Žin., 2001, Nr. 99-3528 (2001-11-28), i. k. 1011010ISTA00IX-596
- 
-
-
-1. Kad būtų garantuota branduolinės energetikos objekto fizinė sauga, draudžiama asmenims ir transporto priemonėms be eksploatuojančios organizacijos išduoto galiojančio leidimo patekti į šio objekto saugomą teritoriją, atgabenti ir išgabenti krovinius, fotografuoti bei filmuoti ten esančius įrenginius ir įrengimus. Be leidimo į objekto teritoriją patekusiems asmenims taikomos įstatymų nustatytos poveikio priemonės. Eksploatuojanti organizacija užtikrina, kad TATENA inspektorius Lietuvai ir VATESI bei kitų valstybės kontrolę ir priežiūrą atliekančių organizacijų darbuotojai, turintys įgaliojimus lankytis šiame branduolinės energetikos objekte, laiku patektų į saugomą šio objekto teritoriją, taip pat sudaro jiems tinkamas sąlygas pareigoms atlikti.
-Straipsnio dalies pakeitimai:
-Nr. IX-596, 2001-11-13, Žin., 2001, Nr. 99-3528 (2001-11-28), i. k. 1011010ISTA00IX-596
- 
-
-
-
-
-2. Transporto priemonės ir asmenys (įskaitant ir įmonės darbuotojus), esantys objekto teritorijoje ar sanitarinėje apsaugos zonoje, Lietuvos Respublikos Vyriausybės nustatyta tvarka gali būti apžiūrimi bei tikrinami, ar neturi ginklų, šaudmenų, radioaktyviųjų medžiagų ir kitų daiktų, kuriuos būtų galima panaudoti teroro aktams ar kitiems nusikalstamiems tikslams.
-Straipsnio dalies pakeitimai:
-Nr. IX-1417, 2003-04-03, Žin., 2003, Nr. 38-1662 (2003-04-24), i. k. 1031010ISTA0IX-1417
- 
-
-
-
-
-3. Visų rūšių orlaiviams ir kitiems skraidymo aparatams draudžiama skraidyti virš atominės elektrinės ir jos sanitarinės apsaugos zonos, išskyrus atvejus, kai skraidymai būtini elektrinės eksploatacijai arba branduolinei avarijai ar branduoliniam incidentui likviduoti.
- 
-
-
-
-
-
-
-
-
-DEŠIMTASIS SKIRSNIS
-BRANDUOLINIŲ AVARIJŲ PREVENCIJA IR AVARIJŲ BEI JŲ PASEKMIŲ LIKVIDAVIMAS
- 
-
-
-52 straipsnis. Branduolinių avarijų klasifikavimas
-
-
-1. Informacijos perdavimo tikslais visi branduolinės energetikos objektų ir jų saugos sistemų sutrikimai klasifikuojami pagal TATENA'os patvirtintą Tarptautinę branduolinių įvykių skalę (INES).
-
-
-
-
-2. Kiekvienos branduolinės ar radiacinės avarijos arba branduolinio incidento priežastis ir aplinkybes turi ištirti tam tikslui sudaryta komisija.
- 
-
-
-
-
-
-
-53 straipsnis. Institucijos, atsakingos už branduolinės avarijos prevenciją ir avarijos bei jos pasekmių likvidavimą
-
-
-1. Už branduolinės avarijos prevenciją ir avarijos bei jos pasekmių likvidavimą pagal kompetenciją atsako branduolinės energetikos objektą eksploatuojanti organizacija, Lietuvos Respublikos Vyriausybė ir kitos valstybinės institucijos, taip pat vietos savivaldos institucijos, kurių teritorijoje dislokuoti branduolinės energetikos objektai, taip pat kurių teritorijoje galimos avarijos žalingos pasekmės.
-
-
-
-
-2. Lietuvos Respublikos Vyriausybė yra atsakinga už šalies parengtį branduolinės avarijos atvejui.
- 
-
-
-
-
-
-
-54 straipsnis. Branduolinės avarijos likvidavimas
-
-
-1. Branduolinės avarijos ir jos pasekmių likvidavimo darbai atliekami vadovaujantis Lietuvos Respublikos gyventojų apsaugos planu branduolinės avarijos atvejui, analogiškais kitų žinybų planais ir objekto personalo apsaugos planu bei instrukcijomis.
-
-
-
-
-2. Visų nuosavybės formų institucijos ir pajėgos, kurios privalo dalyvauti likviduojant branduolinę avariją ir jos pasekmes, vadovaujasi taip pat tam tikslui sudarytais savais branduolinės avarijos prevencijos bei avarijos pasekmių likvidavimo planais ir įgyvendina juose numatytas priemones.
- 
-
-
-
-
-
-
-55 straipsnis. Vyriausybės Ekstremalių situacijų komisijos veikla branduolinės avarijos atveju
-
-
-Įvykus branduolinei avarijai, Vyriausybės Ekstremalių situacijų komisija, vadovaudamasi Lietuvos Respublikos įstatymais ir savo nuostatais bei Lietuvos Respublikos gyventojų apsaugos avarijos atominėje elektrinėje atveju planu, atlieka šias funkcijas:
-
-
-1) organizuoja avarijos ir jos pasekmių likvidavimą;
-
-
-
-
-2) koordinuoja visų institucijų ir pajėgų, dalyvaujančių likviduojant branduolinę avariją ir jos pasekmes, veiklą;
-
-
-
-
-3) periodiškai informuoja Respublikos Prezidentą, Seimą ir Vyriausybę apie branduolinės avarijos likvidavimo bei jos pasekmių šalinimo eigą;
-
-
-
-
-4) įgyvendina Vyriausybės priimamus sprendimus ir duodamus šiuo reikalu nurodymus;
-
-
-
-
-5) organizuoja gyventojų evakavimą iš pavojingos zonos;
-
-
-
-
-6) informuoja suinteresuotas organizacijas, visuomenės informavimo priemones ir visuomenę apie avarijos likvidavimo bei jos pasekmių šalinimo eigą, jonizuojančios spinduliuotės keliamą pavojų ir instruktuoja gyventojus radiacinės apsaugos klausimais.
- 
-
-
-
-
-
-
-
-
-56 straipsnis. Objektą eksploatuojančios organizacijos kompetencija branduolinės avarijos atveju
-
-
-Branduolinės energetikos objektą eksploatuojančios organizacijos pagrindinės teisės, pareigos ir funkcijos branduolinės avarijos atveju nustatomos įmonės steigimo dokumentuose ir objekto eksploatavimo licencijoje. Jų įgyvendinimo priemones nustato ir konkretizuoja objektą eksploatuojančios organizacijos parengtas ir VATESI patvirtintas branduolinės avarijos prevencijos ir avarijos bei jos pasekmių likvidavimo planas, kuriame, be kita ko, nurodoma:
-
-
-1) Vyriausybės Ekstremalių situacijų komisijos ir kitų valstybės valdymo institucijų informavimo tvarka apie įvykusią branduolinę avariją ir jos likvidavimo eigą;
-
-
-
-
-2) radioaktyviųjų medžiagų emisijos į aplinką sustabdymo ar sumažinimo organizacinės ir techninės priemonės;
-
-
-
-
-3) veiksmų koordinavimo su kitomis institucijomis ir pajėgomis, dalyvaujančiomis likviduojant avariją ir jos pasekmes, tvarka.
- 
-
-
-
-
-
-
-
-
-57 straipsnis. Užsienio šalių informavimas apie branduolinę avariją
-
-
-Informacija apie Lietuvos Respublikoje įvykusią branduolinę avariją ar padidėjusią radiaciją perduodama užsienio šalims ir tarptautinėms organizacijoms tokia tvarka ir tiek, kiek to reikalauja 1986 m. konvencija dėl operatyvaus informavimo apie branduolinę avariją ir kitos Lietuvos Respublikos tarptautinės sutartys. Perduodant į užsienį tokio pobūdžio informaciją, taip pat vadovaujamasi Tarptautine branduolinių įvykių skale (INES).
- 
-
-
-
-
-
-
-
-
-VIENUOLIKTASIS SKIRSNIS
-CIVILINĖS ATSAKOMYBĖS PAGRINDAI BRANDUOLINĖJE ENERGETIKOJE
- 
-
-
-58 straipsnis. Objektą eksploatuojančios organizacijos civilinė atsakomybė
-
-
-Objektą eksploatuojanti organizacija atsako už pasklidusios iš jos valdomo objekto radiacijos žalą, padarytą fiziniams ir juridiniams asmenims, jų turtui ar gamtinei aplinkai.
- 
-
-
-
-
-
-
-59 straipsnis. Žalos nustatymas
-
-
-1. Nustatant branduolinės žalos dydį, vadovaujamasi Lietuvos Respublikos civiliniu kodeksu ir 1963 m. gegužės 21 d. Vienos konvencija dėl civilinės atsakomybės už branduolinę žalą (toliau – Vienos konvencija) bei jos pagrindu priimtu Lietuvos Respublikos įstatymu „Dėl 1963 m. gegužės 21 d. Vienos konvencijos dėl civilinės atsakomybės už branduolinę žalą ir bendro protokolo dėl Vienos konvencijos bei Paryžiaus konvencijos taikymo įsigaliojimo“.
-
-
-
-
-2. Objektą eksploatuojančios organizacijos materialinės atsakomybės dydis už branduolinę žalą apribojamas litų suma, ekvivalentiška minimaliam atsakomybės dydžiui, nustatytam Vienos konvencijos V straipsnyje. Jis apskaičiuojamas pagal oficialų lito ir JAV dolerio kursą, buvusį žalos padarymo dieną.
+2. Branduolinės energetikos objektą eksploatuojančios organizacijos materialinės atsakomybės dydis už branduolinę žalą, padarytą kiekvienos branduolinės ir (ar) radiologinės avarijos ar branduolinio incidento metu, apribojamas suma Lietuvos Respublikos litais, ekvivalentiška minimaliam atsakomybės dydžiui, nustatytam Vienos konvencijos V straipsnyje. Atsakomybės dydis apskaičiuojamas pagal oficialų Lietuvos Respublikos lito ir Jungtinių Amerikos Valstijų dolerio kursą, paskelbtą Lietuvos banko žalos padarymo dieną.
 
 
 
@@ -2230,10 +1780,10 @@ Objektą eksploatuojanti organizacija atsako už pasklidusios iš jos valdomo ob
 
 
 
-60 straipsnis. Branduolinės energetikos objekto netiesiogiai padarytos žalos atlyginimas
+43 straipsnis. Branduolinės energetikos objekto netiesiogiai padarytos žalos atlyginimas
 
 
-Jeigu kartu su branduolinės energetikos objekto padaryta branduoline žala atsiranda ir kitų nuostolių, kurių kilmės priežasties negalima aiškiai atskirti nuo branduolinės energetikos objekto padarytos žalos, jie atlyginami pagal šio įstatymo 59 straipsnyje nustatytą principą.
+Jeigu kartu su branduolinės energetikos objekto padaryta branduoline žala atsiranda ir kitų nuostolių, kurių kilmės priežasties negalima aiškiai atskirti nuo branduolinės energetikos objekto padarytos žalos, jie atlyginami šio įstatymo 42 straipsnyje nustatyta tvarka.
  
 
 
@@ -2241,15 +1791,15 @@ Jeigu kartu su branduolinės energetikos objekto padaryta branduoline žala atsi
 
 
 
-61 straipsnis. Žalos atlyginimo garantijos
+44 straipsnis. Žalos atlyginimo garantijos
 
 
-1. Branduolinės energetikos objektą eksploatuojanti organizacija privalo apdrausti jos valdomą objektą ar kitaip užsitikrinti lėšas, reikalingas branduolinei žalai atlyginti.
+1. Branduolinės energetikos objektą eksploatuojanti organizacija Vyriausybės nustatyta tvarka ir sąlygomis privalo apdrausti jos valdomą objektą ar kitaip užtikrinti lėšas, reikalingas branduolinei žalai atlyginti.
 
 
 
 
-2. Jeigu draudimo ir kitų turimų lėšų nepakanka branduolinei žalai atlyginti, trūkstamos sumos išmokėjimą garantuoja Vyriausybė, laikydamasi Lietuvos Respublikos  prisiimtų įsipareigojimų pagal Vienos konvenciją.
+2. Jeigu draudimo ir kitų turimų lėšų nepakanka branduolinei žalai atlyginti, trūkstamos sumos išmokėjimą garantuoja valstybė, laikydamasi Lietuvos Respublikos prisiimtų įsipareigojimų pagal Vienos konvenciją.
  
 
 
@@ -2257,10 +1807,10 @@ Jeigu kartu su branduolinės energetikos objekto padaryta branduoline žala atsi
 
 
 
-62 straipsnis. Asmenų, dalyvavusių likviduojant branduolinę avariją ar šalinant jos pasekmes, socialinės garantijos
+45 straipsnis. Asmenų, dalyvavusių likviduojant branduolinę avariją ar šalinant jos padarinius, socialinės garantijos
 
 
-Asmenims, dalyvavusiems likviduojant branduolinę avariją ar šalinant jos pasekmes ir nukentėjusiems nuo radiacijos, suteikiamos socialinės garantijos pagal Lietuvos Respublikos įstatymų teikiamas socialinių garantijų sąlygas.
+Asmenims, dalyvavusiems likviduojant branduolinę avariją ar šalinant jos padarinius ir nukentėjusiems nuo jonizuojančiosios spinduliuotės, suteikiamos socialinės garantijos pagal Lietuvos Respublikos įstatymų nustatomas socialinių garantijų sąlygas.
  
 
 
@@ -2268,10 +1818,10 @@ Asmenims, dalyvavusiems likviduojant branduolinę avariją ar šalinant jos pase
 
 
 
-63 straipsnis. Ieškininė senatis
+46 straipsnis. Ieškinio senatis
 
 
-Žala, padaryta radiacijos, pasklidusios iš branduolinės energetikos objekto ar iš gabenamų radioaktyviųjų medžiagų, gali būti išieškoma, jei ieškinys pateikiamas teismui ar arbitražui ne vėliau kaip per 10 metų nuo žalos atsiradimo momento.
+Ieškinys dėl žalos, padarytos jonizuojančiosios spinduliuotės, pasklidusios iš branduolinės energetikos objekto ar iš vežamų branduolinių ar radioaktyviųjų medžiagų, gali būti pareikštas teismui ne vėliau kaip per 10 metų nuo žalos atsiradimo momento.
  
 
 
@@ -2281,25 +1831,20 @@ Asmenims, dalyvavusiems likviduojant branduolinę avariją ar šalinant jos pase
 
 
 
-DVYLIKTASIS SKIRSNIS
+DEVINTASIS SKIRSNIS
 EKONOMINĖS IR FINANSINĖS BRANDUOLINĖS ENERGETIKOS OBJEKTŲ VEIKLOS SĄLYGOS
  
 
 
-64 straipsnis. Veiklos finansavimas
+47 straipsnis. Branduolinės energetikos objekto veiklos finansavimas
 
 
-1. Objektą eksploatuojanti organizacija privalo turėti būtinų materialinių ir finansinių išteklių savo funkcijoms vykdyti.
-
-
-
-
-2. Branduolinės energetikos saugos ir radiacinės apsaugos valstybinio reguliavimo tikslų įgyvendinimas, taip pat kontrolės ir priežiūros institucijų veikla finansuojama iš valstybės biudžeto.
+1. Branduolinės energetikos objektą eksploatuojanti organizacija privalo turėti būtinų materialinių, organizacinių, žmogiškųjų ir finansinių išteklių savo funkcijoms atlikti.
 
 
 
 
-3. Valstybė remia ir finansuoja branduolinės saugos ir radiacinės apsaugos mokslo ir technikos programų įgyvendinimą.
+2. Valstybė remia ir finansuoja branduolinės ir radiacinės saugos mokslo ir technikos programų įgyvendinimą.
  
 
 
@@ -2307,25 +1852,40 @@ EKONOMINĖS IR FINANSINĖS BRANDUOLINĖS ENERGETIKOS OBJEKTŲ VEIKLOS SĄLYGOS
 
 
 
-65 straipsnis. Eksploatacijos nutraukimo fondas
+48 straipsnis. Eksploatavimo nutraukimo fondas
 
 
-1. Vadovaujantis atominės elektrinės ar branduolinio reaktoriaus statybos įstatymu, sudaromas objekto eksploatacijos nutraukimo fondas.
+1. Pagrindinis eksploatavimo nutraukimo fondo tikslas – kaupti lėšas, reikalingas saugiai nutraukti branduolinės energetikos objekto eksploatavimą ir saugiai tvarkyti radioaktyviąsias atliekas, įskaitant panaudotą branduolinį kurą. Eksploatavimo nutraukimo fondas (ar fondai) steigiami įstatymu. Įstatymas dėl eksploatavimo nutraukimo fondo, be kita ko, nustato:
 
 
-
-
-2. Fondo lėšas sudaro atskaitymai nuo pajamų, gautų už atominės elektrinės realizuotą elektros energiją. Atskaitymų dydį ir tvarką nustato Vyriausybė. Šios lėšos įtraukiamos į elektros energijos gamybos savikainą.
-
-
-
-
-3. Eksploatacijos nutraukimo fondo lėšos gali būti naudojamos tik elektrinės eksploatacijos nutraukimo programoje numatytoms priemonėms finansuoti ir (esant reikalui) branduolinei žalai atlyginti.
+1) fondo lėšų kaupimo šaltinius;
 
 
 
 
-4. Eksploatacijos nutraukimo fondo nuostatus tvirtina Vyriausybė.
+2) užduotis, kurioms kaupiamos lėšos;
+
+
+
+
+3) lėšų kaupimo ir naudojimo valdymo ir kontrolės principus; 
+
+
+
+
+4) lėšų panaudojimo iki branduolinės energetikos objekto eksploatavimo nutraukimo pradžios principus, nepažeidžiant šio straipsnio 1 dalyje nustatyto pagrindinio eksploatavimo nutraukimo fondo tikslo ir šio straipsnio 2 dalies nuostatos;
+
+
+
+
+5) priemones lėšų kaupimo tęstinumui, kai branduolinės energetikos objekto eksploatavimas nutraukiamas dėl nenumatytų aplinkybių.
+
+
+
+
+
+
+2. Eksploatavimo nutraukimo fondo lėšos gali būti naudojamos tik toms priemonėms ir tiems uždaviniams, kuriems buvo kaupiamos pagal lėšų tikslinę paskirtį, įgyvendinti.
  
 
 
@@ -2333,10 +1893,17 @@ EKONOMINĖS IR FINANSINĖS BRANDUOLINĖS ENERGETIKOS OBJEKTŲ VEIKLOS SĄLYGOS
 
 
 
-66 straipsnis. Rėmimo fondas
 
 
-Vyriausybės nustatyta tvarka sudaromas vietos savivaldos institucijų, kurių teritorija ar jos dalis yra atominės elektrinės stebėjimo zonoje, rėmimo fondas. Į šį fondą atominė elektrinė kiekvieną mėnesį atskaito lėšas savivaldybėms.
+DEŠIMTASIS SKIRSNIS
+DARBO SANTYKIŲ YPATUMAI BRANDUOLINĖS ENERGETIKOS SRITYJE
+ 
+
+
+49 straipsnis. Darbo santykių teisiniai pagrindai
+
+
+Darbo santykius branduolinės energetikos objektuose reglamentuoja Lietuvos Respublikos darbo santykius reglamentuojantys teisės aktai ir šis įstatymas.
  
 
 
@@ -2344,57 +1911,15 @@ Vyriausybės nustatyta tvarka sudaromas vietos savivaldos institucijų, kurių t
 
 
 
-67 straipsnis. Kainos ir tarifai
+50 straipsnis. Darbo sutarties apribojimai
 
 
-Atominėje elektrinėje pagamintos elektros energijos kainos ir tarifai nustatomi Lietuvos Respublikos energetikos įstatymo nustatyta tvarka. Nustatant elektros energijos tarifus, atsižvelgiama į išlaidas kurui, elektrinės eksploatacijai, jos plėtrai, rekonstrukcijai, taip pat mokesčiams sumokėti bei įstatymų numatytiems fondams sukurti.
- 
-
-
+1. Licencijos turėtojo vadovaujančiais darbuotojais (organizacijos vadovais, administracijos vadovais, padalinių vadovais ir jų pavaduotojais) gali dirbti Europos Sąjungos valstybių narių, kitų Europos laisvosios prekybos asociacijos susitarimą pasirašiusių, taip pat Šiaurės Atlanto Sutarties Organizacijos valstybių narių ir (ar) kitų Lietuvos Respublikos nacionaliniam saugumui stiprinti svarbių valstybių, plėtojančių saugumo ryšius su Europos Sąjungos ir Šiaurės Atlanto Sutarties Organizacijos valstybėmis narėmis, piliečiai ir kiti fiziniai asmenys, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo teisėmis. 
 
 
 
 
-68 straipsnis. Užsienio investicijos
-
-
-Naujai statomuose ar rekonstruojamuose branduolinės energetikos objektuose užsienio kapitalo investicijų dalį nustato Lietuvos Respublikos Vyriausybė. Investavimo į Lietuvos Respublikos branduolinę energetiką tvarką reglamentuoja atominės elektrinės ar branduolinio reaktoriaus statybos įstatymas, Lietuvos Respublikos investicijų įstatymas. 
-
-
-Straipsnio pakeitimai:
-Nr. VIII-1309, 1999-07-07, Žin., 1999, Nr. 65-2088 (1999-07-28); Žin., 1999, Nr. 68-0 (1999-08-11), i. k. 0991010ISTAIII-1309
- 
-
-
-
-
-
-
-TRYLIKTASIS SKIRSNIS
-DARBO SANTYKIŲ YPATUMAI BRANDUOLINĖJE ENERGETIKOJE
- 
-
-
-69 straipsnis. Darbo santykių teisiniai pagrindai
-
-
-Darbo santykius branduolinės energetikos objektuose reguliuoja Lietuvos Respublikos darbo įstatymai, šis įstatymas, poįstatyminiai aktai, taip pat galiojančios branduolinės energetikos objektuose darbo tvarkos taisyklės ir drausmės statutai.
- 
-
-
-
-
-
-
-70 straipsnis. Darbo sutarties apribojimai
-
-
-1. Branduolinės energetikos objektą eksploatuojančios organizacijos vadovaujančiais darbuotojais gali dirbti tik Lietuvos Respublikos piliečiai. Branduolinės energetikos objekto vadovas į darbą skiriamas ir atleidžiamas Vyriausybės nutarimu.
-
-
-
-
-2. Branduolinės energetikos objektą eksploatuojančios organizacijos vadovo pavaduotoją saugos režimui skiria ir atleidžia šios organizacijos vadovas Valstybės saugumo departamento teikimu.
+2. Padalinio, branduolinės energetikos objekte atsakingo už fizinę saugą, vadovą ir jo pavaduotoją (ar pavaduotojus) skiria ir atleidžia licencijos turėtojo vadovas, suderinęs su Valstybės saugumo departamentu. 
 
 
 
@@ -2402,12 +1927,12 @@ Darbo santykius branduolinės energetikos objektuose reguliuoja Lietuvos Respubl
 3. Branduolinės energetikos objektuose negali dirbti asmenys:
 
 
-1) nustatyta tvarka pripažinti alkoholikais, narkomanais ar toksikomanais;
+1) piktnaudžiaujantys alkoholiu, vartojantys narkotines, psichotropines ar kitas psichiką veikiančias medžiagas;
 
 
 
 
-2) sergantys ligomis, kurių sąrašą tvirtina Sveikatos apsaugos ministerija;
+2) sergantys ligomis, kurių sąrašą tvirtina sveikatos apsaugos ministras;
 
 
 
@@ -2417,46 +1942,29 @@ Darbo santykius branduolinės energetikos objektuose reguliuoja Lietuvos Respubl
 
 
 
-4) užsienio valstybių piliečiai ir asmenys be pilietybės, neturintys Lietuvos Respublikos vizų ar leidimų nuolat gyventi Lietuvoje;
+4) užsieniečiai, teisės aktuose nustatyta tvarka neturintys teisės gyventi Lietuvos Respublikoje;
 
 
 
 
-5) teisti už tyčinius nusikaltimus.
+5) teisti už sunkius ir labai sunkius tyčinius nusikaltimus, nepaisant teistumo išnykimo ar panaikinimo;
+
+
+
+
+6) įstatymų ir kitų teisės aktų nustatyta tvarka gavę Valstybės saugumo departamento neigiamą išvadą;
+
+
+
+
+7) įstatymų ir kitų teisės aktų nustatyta tvarka nesutinkantys būti tikrinami Valstybės saugumo departamento. 
 
 
 
 
 
 
-4. Į darbą branduolinės energetikos objektuose asmenys priimami tik suderinus jų kandidatūras su Valstybės saugumo departamentu.
-
-
-
-
-5. Asmenys, kurių darbas susijęs su Lietuvos Respublikos valstybės paslaptį sudarančių žinių naudojimu ir apsauga, negali dirbti branduolinės energetikos objektuose, jeigu neturi Lietuvos Respublikos valstybės paslapčių ir jų apsaugos įstatymo nustatyta tvarka išduoto leidimo dirbti su valstybės paslaptį sudarančiomis žiniomis. Jeigu toks leidimas Lietuvos Respublikos valstybės paslapčių ir jų apsaugos įstatymo nustatyta tvarka anuliuojamas, asmuo atleidžiamas iš darbo (tarnybos). 
-
-
-Straipsnio pakeitimai:
-Nr. VIII-534, 1997-11-20, Žin., 1997, Nr. 112-2825 (1997-12-10), i. k. 0971010ISTAVIII-534
- 
-
-
-
-
-71 straipsnis. Užsienio valstybių piliečių ir asmenų be pilietybės darbo santykių ypatumai
-
-
-1. Užsienio valstybių piliečiai ir asmenys be pilietybės, turintys Lietuvos Respublikos vizą arba leidimą nuolat gyventi Lietuvos Respublikoje, įsidarbina branduolinės energetikos objektuose pritarus Lietuvos Respublikos energetikos ministerijai ir suderinus su Valstybės saugumo departamentu Lietuvos Respublikos Vyriausybės nustatyta tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
-Nr. XI-134, 2009-01-12, Žin., 2009, Nr. 10-356 (2009-01-27), i. k. 1091010ISTA00XI-134
- 
-
-
-
-
-2. Išimtys galimos tik branduolinių avarijų likvidavimo atvejais remiantis atskiru Lietuvos Respublikos Vyriausybės nutarimu ir pritarus Valstybės saugumo departamentui. 
+4. Asmenys, kurių darbas susijęs su įslaptintos informacijos naudojimu ar apsauga, negali dirbti branduolinės energetikos objektuose, jeigu neatitinka Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatyme nustatytų reikalavimų, būtinų išduodant leidimą ar suteikiant teisę dirbti ar susipažinti su įslaptinta informacija. Asmenų atitiktį nustatytiems reikalavimams teisės aktų nustatyta tvarka nustato Valstybės saugumo departamentas.
  
 
 
@@ -2464,18 +1972,7 @@ Nr. XI-134, 2009-01-12, Žin., 2009, Nr. 10-356 (2009-01-27), i. k. 1091010ISTA0
 
 
 
-72 straipsnis. Socialinis draudimas
-
-
-Branduolinės energetikos objekte dirbantys asmenys, kurių darbas susijęs su galimu radiacijos poveikiu sveikatai ar gyvybei (tokių darbų sąrašą tvirtina Sveikatos apsaugos ministerija ir Socialinės apsaugos ir darbo ministerija), gali būti papildomai draudžiami sveikatos draudimu bei draudimu nuo nelaimingų atsitikimų gamyboje už objektą eksploatuojančios organizacijos šiam reikalui skiriamas lėšas. Šios lėšos įskaitomos į elektros energijos gamybos savikainą.
- 
-
-
-
-
-
-
-73 straipsnis. Renginių apribojimai
+51 straipsnis. Draudimas streikuoti ir susirinkimų apribojimai
 
 
 1. Darbuotojams, dirbantiems branduolinės energetikos objektuose, streikuoti draudžiama.
@@ -2483,12 +1980,12 @@ Branduolinės energetikos objekte dirbantys asmenys, kurių darbas susijęs su g
 
 
 
-2. Branduolinės energetikos objekto teritorijoje ir sanitarinėje apsaugos zonoje draudžiama rengti mitingus, demonstracijas ir protesto bei nepaklusnumo renginius.
+2. Branduolinės energetikos objekto apsaugos zonose draudžiama rengti mitingus, demonstracijas, protesto renginius ir susirinkimus.
 
 
 
 
-3. Asmenys, nesilaikantys šio straipsnio apribojimų, traukiami atsakomybėn Lietuvos Respublikos įstatymų nustatyta tvarka.
+3. Asmenys, nesilaikantys šio straipsnio apribojimų, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
  
 
 
@@ -2498,39 +1995,20 @@ Branduolinės energetikos objekte dirbantys asmenys, kurių darbas susijęs su g
 
 
 
-KETURIOLIKTASIS SKIRSNIS
-TARPTAUTINIAI SANTYKIAI IR ĮSTATYMO ĮSIGALIOJIMAS
+VIENUOLIKTASIS SKIRSNIS
+TARPTAUTINIAI SANTYKIAI 
  
 
 
-74 straipsnis. Tarptautinių sutarčių sudarymo pagrindai
+52 straipsnis. Tarptautinių sutarčių sudarymo pagrindai
 
 
-1. Tarptautinės sutartys, reguliuojančios santykius Lietuvos branduolinėje energetikoje, sudaromos vadovaujantis tarptautinės teisės principais bei normomis ir Lietuvos Respublikos įstatymais, reglamentuojančiais tarptautinių sutarčių sudarymo tvarką.
-
-
-
-
-2. Rengiant ir sudarant tarptautines sutartis, susijusias su branduolinės energijos gamyba ar naudojimu, privalo dalyvauti Lietuvos Respublikos energetikos ministerijos įgalioti asmenys, o susijusias su branduoline sauga ir radiacine apsauga – įgalioti VATESI atstovai. 
-Straipsnio dalies pakeitimai:
-Nr. VIII-249, 1997-06-10, Žin., 1997, Nr. 59-1368 (1997-06-25), i. k. 0971010ISTAVIII-249
-Nr. XI-134, 2009-01-12, Žin., 2009, Nr. 10-356 (2009-01-27), i. k. 1091010ISTA00XI-134
- 
+1. Tarptautinės sutartys, reglamentuojančios santykius Lietuvos Respublikos branduolinės energetikos srityje, sudaromos vadovaujantis tarptautinės teisės principais bei normomis ir Lietuvos Respublikos įstatymais, reglamentuojančiais tarptautinių sutarčių sudarymą.
 
 
 
 
-
-
-75 straipsnis. Užsienio valstybių branduolinių laivų įplaukimo į Lietuvos Respublikos teritorinius vandenis sąlygos
-
-
-1. Užsienio valstybių laivai su branduoliniais varikliais ar gabenantys radioaktyviųjų medžiagų krovinį gali įplaukti į Lietuvos Respublikos teritorinę jūrą tik gavę Lietuvos Respublikos Vyriausybės leidimą.
-
-
-
-
-2. Lietuvos Respublikos Vyriausybė, išduodama leidimą įplaukti, kartu nustato užsienio valstybės branduolinio laivo arba gabenančio radioaktyviąsias medžiagas laivo buvimo Lietuvos Respublikos teritoriniuose vandenyse ar uoste sąlygas.
+2. Rengiant ir sudarant tarptautines sutartis, susijusias su branduolinės energijos naudojimu, privalo dalyvauti Energetikos ministerijos įgalioti asmenys, o susijusias su branduoline sauga, radiacine sauga, fizine sauga, branduolinių ir radioaktyviųjų medžiagų apskaita ir kontrole, – Valstybinės atominės energetikos saugos inspekcijos įgalioti atstovai.
  
 
 
@@ -2538,13 +2016,11 @@ Nr. XI-134, 2009-01-12, Žin., 2009, Nr. 10-356 (2009-01-27), i. k. 1091010ISTA0
 
 
 
-76 straipsnis. Įstatymo įsigaliojimas
+53 straipsnis. Užsienio valstybių laivų su branduoliniais reaktoriais ar užsienio valstybių laivų, vežančių radioaktyviųjų medžiagų krovinį, įplaukimo į Lietuvos Respublikos teritorinius vandenis sąlygos
 
 
-Šis įstatymas įsigalioja nuo 1997 m. sausio 1 d.
+Užsienio valstybių laivai su branduoliniais reaktoriais ar užsienio valstybių laivai, vežantys radioaktyviųjų medžiagų krovinį, gali įplaukti į Lietuvos Respublikos teritorinius vandenis tik gavę leidimą Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
  
-
-
 
 
 
@@ -2558,6 +2034,23 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+ 
+
+
+
+
+
+
+Lietuvos Respublikos 
+branduolinės energijos įstatymo
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+
+1. 2009 m. birželio 25 d. Tarybos direktyva 2009/71/Euratomas, kuria nustatoma Bendrijos branduolinių įrenginių branduolinės saugos sistema (OL 2009 L 172, p. 18).
  
 
 
@@ -2639,3 +2132,8 @@ Lietuvos Respublikos branduolinės energijos įstatymo 7, 9, 26, 29, 30, 37, 38,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1267, 2010-12-23, Žin., 2011, Nr. 2-40 (2011-01-06), i. k. 1101010ISTA0XI-1267
 Lietuvos Respublikos branduolinės energijos įstatymo 22 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1537, 2011-06-28, Žin., 2011, Nr. 91-4314 (2011-07-19); Žin., 2011, Nr. 109-0 (2011-09-03), i. k. 1111010ISTA0XI-1537
+Lietuvos Respublikos branduolinės energijos įstatymo pakeitimo įstatymas
