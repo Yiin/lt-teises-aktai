@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AD70BCE8F0A6"
 
 # Lietuvos Respublikos asmens ir turto apsaugos įstatymas
 
+Suvestinė redakcija nuo 2011-10-01 iki 2012-12-31
+ 
+Įstatymas paskelbtas: Žin. 2004, Nr. 116-4317, i. k. 1041010ISTA0IX-2327
+ 
+ 
 LIETUVOS RESPUBLIKOS
 ASMENS IR TURTO SAUGOS
 Į S T A T Y M A S
@@ -492,7 +497,17 @@ ASMENS IR TURTO SAUGOS ORGANIZAVIMO PAGRINDAI
 
 
 
-2. Apsaugos darbuotojo pažymėjimų išdavimo ir panaikinimo tvarką, reikalavimus pažymėjimui nustato Vyriausybė ar jos įgaliota institucija.
+2. Apsaugos darbuotojo pažymėjimus teritorinės policijos įstaigos išduoda per 20 darbo dienų nuo visų reikiamų dokumentų gavimo dienos. 
+Papildyta straipsnio dalimi:
+Nr. XI-1533, 2011-06-23, Žin., 2011, Nr. 86-4172 (2011-07-13), i. k. 1111010ISTA0XI-1533
+ 
+
+
+
+
+3. Apsaugos darbuotojo pažymėjimų išdavimo ir panaikinimo tvarką, reikalavimus pažymėjimui nustato Vyriausybė ar jos įgaliota institucija.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1533, 2011-06-23, Žin., 2011, Nr. 86-4172 (2011-07-13), i. k. 1111010ISTA0XI-1533
  
 
 
@@ -537,7 +552,10 @@ FIZINĖS PRIEVARTOS, SPECIALIŲJŲ PRIEMONIŲ IR ŠAUNAMŲJŲ GINKLŲ NAUDOJIMAS
 
 
 
-2. Apsaugos darbuotojui, panaudojusiam fizinę prievartą, specialiąsias priemones ar šaunamąjį ginklą, taikomi įstatymų, reglamentuojančių būtinąją gintį ir būtinąjį reikalingumą, reikalavimai.
+2. Apsaugos darbuotojui, panaudojusiam fizinę prievartą, specialiąsias priemones ar šaunamąjį ginklą, taikomi įstatymų, reglamentuojančių aplinkybes, šalinančias administracinę arba baudžiamąją atsakomybę, reikalavimai.
+Straipsnio dalies pakeitimai:
+Nr. XI-1533, 2011-06-23, Žin., 2011, Nr. 86-4172 (2011-07-13), i. k. 1111010ISTA0XI-1533
+ 
 
 
 
@@ -730,3 +748,13 @@ Asmenys, pažeidę šio įstatymo reikalavimus, atsako Lietuvos Respublikos įst
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1533, 2011-06-23, Žin., 2011, Nr. 86-4172 (2011-07-13), i. k. 1111010ISTA0XI-1533
+Lietuvos Respublikos asmens ir turto saugos įstatymo 12, 15 straipsnių pakeitimo ir papildymo įstatymas
