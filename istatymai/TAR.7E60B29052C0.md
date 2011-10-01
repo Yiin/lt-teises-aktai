@@ -2264,13 +2264,13 @@ Vaiko teisių apsaugos kontrolierius
 7.
 
 
-7 punkto redakcija iki 2011 m. kovo 1
+7 punkto redakcija iki 2012 m. kovo 1
   d.:
 Seimo, Seimo Pirmininko, Respublikos
   Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
-  tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Valstybinės
-  lošimų priežiūros komisijos, Vertybinių popierių komisijos, Vyriausiosios
-  rinkimų komisijos ir Vyriausiosios tarnybinės etikos komisijos:
+  tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Vertybinių
+  popierių komisijos, Vyriausiosios rinkimų komisijos ir Vyriausiosios
+  tarnybinės etikos komisijos:
 
 
  
@@ -2315,7 +2315,7 @@ nariai
 7.
 
 
-7 punkto redakcija nuo 2011 m. kovo 1
+7 punkto redakcija nuo 2012 m. kovo 1
   d.:
 Seimo, Seimo Pirmininko, Respublikos
   Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
@@ -2578,8 +2578,8 @@ Nr. IX-1918,
 Nr. X-128, 2005-02-15,
 Žin., 2005, Nr. 28-877 (2005-02-26)
 Nr.
-X-789,
-2006-07-19, Žin., 2006, Nr. 87-3400 (2006-08-08)
+X-789, 2006-07-19,
+Žin., 2006, Nr. 87-3400 (2006-08-08)
 Nr. X-1253,
 2007-07-03, Žin., 2007, Nr. 80-3223 (2007-07-19)
 Nr. X-1385,
@@ -2605,10 +2605,12 @@ Nr. XI-866,
 2010-06-03, Žin., 2010, Nr. 71-3544 (2010-06-19)
 Nr. XI-951,
 2010-06-30, Žin., 2010, Nr. 82-4305 (2010-07-13)
-Nr. XI-980, 2010-07-02,
-Žin., 2010, Nr. 86-4531 (2010-07-20)
+Nr. XI-980,
+2010-07-02, Žin., 2010, Nr. 86-4531 (2010-07-20)
 Nr. XI-1581,
 2011-09-15, Žin., 2011, Nr. 119-5614 (2011-10-01)
+Nr. XI-1582,
+2011-09-15, Žin., 2011, Nr. 119-5615 (2011-10-01)
  
 ________________
  
@@ -2750,8 +2752,8 @@ STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 5(1) STRAIPSNIU IR
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1594, 2003-06-03,
-Žin., 2003, Nr. 59-2639 (2003-06-20)
+IX-1594,
+2003-06-03, Žin., 2003, Nr. 59-2639 (2003-06-20)
 VALSTYBĖS
 POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 4
 STRAIPSNIŲ IR ĮSTATYMO PRIEDĖLIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
@@ -2801,8 +2803,8 @@ APMOKĖJIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-1253, 2007-07-03,
-Žin., 2007, Nr. 80-3223 (2007-07-19)
+X-1253,
+2007-07-03, Žin., 2007, Nr. 80-3223 (2007-07-19)
 VALSTYBĖS
 POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO IV
 SKIRSNIO PAPILDYMO ĮSTATYMAS
@@ -2911,7 +2913,8 @@ POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEI
 Šio
 įstatymo 2 straipsnis įsigalioja 2012 m. sausio 1 d.
 Šio
-įstatymo pakeitimas:
+įstatymo pakeitimai:
+1)
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. XI-866,
@@ -2919,15 +2922,24 @@ Nr. XI-866,
 VALSTYBĖS
 POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
 ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+2)
 Įstatymo Nr. XI-224 galiojimas
 pakeistas:
-Lietuvos
-Respublikos Seimas, Įstatymas
+Lietuvos Respublikos
+Seimas, Įstatymas
 Nr. XI-951,
 2010-06-30, Žin., 2010, Nr. 82-4305 (2010-07-13)
 VALSTYBĖS
 POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
 ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+3)
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-1582,
+2011-09-15, Žin., 2011, Nr. 119-5615 (2011-10-01)
+VALSTYBĖS
+POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
+ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 28.
 Lietuvos
@@ -2937,8 +2949,8 @@ Nr. XI-361,
 VALSTYBĖS
 POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
 ĮSTATYMAS
-Šis įstatymas įsigalioja 2009 m. rugpjūčio 1 d. ir galioja
-iki 2011 m. gruodžio 31 d.
+Šis įstatymas įsigalioja 2009 m. rugpjūčio 1 d. ir
+galioja iki 2011 m. gruodžio 31 d.
 Įstatymo
 galiojimas keistas:
 Lietuvos
