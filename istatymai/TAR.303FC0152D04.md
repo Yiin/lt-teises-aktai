@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.303FC0152D04"
 
 # Lietuvos Respublikos reklamos įstatymas
 
-Suvestinė redakcija nuo 2010-07-03 iki 2011-10-12
+Suvestinė redakcija nuo 2011-10-13 iki 2013-07-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1937, i. k. 1001010ISTAIII-1871
  
@@ -641,7 +641,7 @@ REIKALAVIMAI ATSKIRŲ PREKIŲ IR PASLAUGŲ REKLAMAI
 1. Reklamoje draudžiama:
 
 
-1) nurodyti ar užsiminti apie tas maisto savybes, kurių jis neturi, taip pat apie gydomąsias ar nuo ligų saugančias savybes, jei nėra Sveikatos apsaugos ministerijos nustatyta tvarka išduoto šią informaciją patvirtinančio specialios paskirties maisto produkto registravimo pažymėjimo;
+1) nurodyti ar užsiminti apie tas maisto savybes, kurių jis neturi, taip pat apie žmogaus ligų gydymo ar profilaktines savybes ir kitas savybes, jeigu tokios informacijos pateikimas neatitinka teisės aktuose nustatytų reikalavimų;
 
 
 
@@ -654,9 +654,26 @@ REIKALAVIMAI ATSKIRŲ PREKIŲ IR PASLAUGŲ REKLAMAI
 
 
 2. Motinos pieno pakaitalų reklama leidžiama tik sveikatos priežiūros specialistams skirtuose leidiniuose ir Lietuvos Respublikos teisės aktų nustatyta tvarka ant šių prekių pakuočių.
+
+
+
+
+3. Maisto reklamoje privalo būti nurodyta, kad maistas yra genetiškai modifikuotas, jeigu pagal teisės aktų nustatytus reikalavimus jį ženklinant turi būti pateikiama informacija apie tai, kad maistas – genetiškai modifikuoti organizmai, kad maisto sudėtyje arba jo sudedamosiose dalyse yra genetiškai modifikuotų organizmų, kad maistas pagamintas iš genetiškai modifikuotų organizmų arba jo sudėtyje yra iš genetiškai modifikuotų organizmų pagamintų dalių.
+
+
+
+
+4. Draudžiama nurodyti energinius gėrimus kaip rėmėjų gaminius ar kitaip juos reklamuoti ugdymo įstaigose, kurias lanko jaunesni kaip 18 metų asmenys.
+
+
+
+
+5. Draudžiama energinius gėrimus platinti reklamos tikslais jaunesniems kaip 18 metų asmenims. 
+
+
+Straipsnio pakeitimai:
+Nr. XI-1606, 2011-09-29, Žin., 2011, Nr. 123-5814 (2011-10-13), i. k. 1111010ISTA0XI-1606
  
-
-
 
 
 
@@ -1165,3 +1182,8 @@ Lietuvos Respublikos reklamos įstatymo 1, 2, 5, 6, 12, 17, 18, 22, 23, 24, 25 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-923, 2010-06-22, Žin., 2010, Nr. 79-4056 (2010-07-03), i. k. 1101010ISTA00XI-923
 Lietuvos Respublikos reklamos įstatymo 2 straipsnio pakeitimo ir papildymo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1606, 2011-09-29, Žin., 2011, Nr. 123-5814 (2011-10-13), i. k. 1111010ISTA0XI-1606
+Lietuvos Respublikos reklamos įstatymo 14 straipsnio pakeitimo ir papildymo įstatymas
