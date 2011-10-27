@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.07CAE5E6C2B3"
 
 # Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2011-10-26
+Suvestinė redakcija nuo 2011-10-27 iki 2013-04-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 132-0; Žin. 1991, Nr.20-517, i. k. 0911010ISTA00I-1497
  
@@ -129,7 +129,17 @@ Nr. XI-746, 2010-04-13, Žin., 2010, Nr. 48-2296 (2010-04-27), i. k. 1101010ISTA
 
 
 
-12. Gamintojas – Lietuvos Respublikos įstatymų ir kitų norminių teisės aktų nustatyta tvarka įregistruotas juridinis asmuo, užsienio valstybės fizinis bei juridinis asmuo, užsienio juridinio asmens filialas, turintys teisę gaminti vėliavas.
+12. Gamintojas – Lietuvos Respublikos ir užsienio valstybės fizinis ir juridinis asmuo ar kita organizacija. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1621, 2011-10-13, Žin., 2011, Nr. 129-6110 (2011-10-27), i. k. 1111010ISTA0XI-1621
+ 
+
+
+
+
+13. Valstybės švenčių dienos – su Lietuvos valstybingumu susijusios švenčių dienos, kurios yra įvykių, turėjusių išskirtinę reikšmę Lietuvos valstybės sukūrimui ir nepriklausomybei, datos: vasario 16-oji – Lietuvos valstybės atkūrimo diena, kovo 11-oji – Lietuvos nepriklausomybės atkūrimo diena, liepos 6-oji – Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena. 
+Papildyta straipsnio dalimi:
+Nr. XI-1621, 2011-10-13, Žin., 2011, Nr. 129-6110 (2011-10-27), i. k. 1111010ISTA0XI-1621
  
 
 
@@ -155,7 +165,9 @@ Nr. XI-746, 2010-04-13, Žin., 2010, Nr. 48-2296 (2010-04-27), i. k. 1101010ISTA
 
 
 
-4. Lietuvos valstybės vėliava ir Lietuvos valstybės istorinė vėliava gali būti ir kitokių Lietuvos Respublikos Vyriausybės nustatytų matmenų, tačiau šių vėliavų audeklo pločio ir ilgio santykis visada turi atitikti šio straipsnio 2 dalyje nustatytą santykį.
+4. Lietuvos valstybės vėliava ir Lietuvos valstybės istorinė vėliava gali būti ir kitokių matmenų, tačiau šių vėliavų audeklo pločio ir ilgio santykis visada turi atitikti šio straipsnio 2 dalyje nustatytą santykį. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1621, 2011-10-13, Žin., 2011, Nr. 129-6110 (2011-10-27), i. k. 1111010ISTA0XI-1621
  
 
 
@@ -322,9 +334,10 @@ Nr. XI-746, 2010-04-13, Žin., 2010, Nr. 48-2296 (2010-04-27), i. k. 1101010ISTA
 
 
 
-2. Švenčių dienomis: vasario 16-ąją – Lietuvos valstybės atkūrimo dieną, kovo 11-ąją – Lietuvos nepriklausomybės atkūrimo dieną, liepos 6-ąją – Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) dieną, Lietuvos valstybės vėliava keliama prie, virš ar ant šių pastatų: prie kitų valstybės ir savivaldybių institucijų bei įstaigų, kitų įstaigų, įmonių ir organizacijų, nesvarbu, kokia jų nuosavybės forma, taip pat gyvenamųjų namų. 
+2. Valstybės švenčių dienomis Lietuvos valstybės vėliava keliama prie, virš ar ant šių pastatų: prie kitų valstybės ir savivaldybių institucijų bei įstaigų, kitų įstaigų, įmonių ir organizacijų, nesvarbu, kokia jų nuosavybės forma, taip pat gyvenamųjų namų. 
 Straipsnio dalies pakeitimai:
 Nr. X-604, 2006-05-11, Žin., 2006, Nr. 60-2119 (2006-05-27), i. k. 1061010ISTA000X-604
+Nr. XI-1621, 2011-10-13, Žin., 2011, Nr. 129-6110 (2011-10-27), i. k. 1111010ISTA0XI-1621
  
 
 
@@ -758,58 +771,24 @@ PENKTASIS SKIRSNIS
 
 
 ŠEŠTASIS SKIRSNIS
-TEISĖ VERSTIS VĖLIAVŲ GAMYBA IR JOS KONTROLĖ
+VĖLIAVŲ GAMYBA IR JOS KONTROLĖ 
+Pakeistas skirsnio pavadinimas:
+Nr. XI-1621, 2011-10-13, Žin., 2011, Nr. 129-6110 (2011-10-27), i. k. 1111010ISTA0XI-1621
  
 
 
-14 straipsnis. Teisė gaminti vėliavas
-
-
-1. Gaminti šio įstatymo 2 straipsnyje, išskyrus 9 dalį, nurodytas vėliavas, taip pat Respublikos Prezidento vėliavą turi teisę Lietuvos Respublikos įstatymų ir kitų norminių teisės aktų nustatyta tvarka įregistruoti juridiniai asmenys, užsienio valstybės fiziniai bei juridiniai asmenys, užsienio juridinių asmenų filialai, turintys licenciją gaminti vėliavas.
-
-
-
-
-2. Licencijas gaminti vėliavas Lietuvos Respublikos Vyriausybės nustatyta tvarka išduoda, sustabdo jų galiojimą ar panaikina Lietuvos Respublikos Vyriausybės įgaliota institucija.
-
-
-
-
-3. Vėliavų gamybos licencijavimo taisykles tvirtina Lietuvos Respublikos Vyriausybė.
-
-
-
-
-4. Už licencijos išdavimą imama Lietuvos Respublikos Vyriausybės nustatyto dydžio valstybės rinkliava.
-
-
-
-
-5. Licencija gaminti vėliavas išduodama arba rašytinis motyvuotas atsisakymas išduoti licenciją pateikiamas Lietuvos Respublikos įstatymų ir kitų norminių teisės aktų nustatyta tvarka įregistruotam juridiniam asmeniui ar užsienio valstybės fiziniam bei juridiniam asmeniui, užsienio juridinio asmens filialui per 60 dienų nuo dokumentų, reikalingų licencijai išduoti, gavimo dienos.
-
-
-
-
-6. Atsisakymas išduoti licenciją, sustabdyti jos galiojimą ar ją panaikinti gali būti apskųstas įstatymų nustatyta tvarka.
+14 straipsnis. Neteko galios nuo 2011-10-27
+Straipsnio naikinimas:
+Nr. XI-1621, 2011-10-13, Žin. 2011, Nr. 129-6110 (2011-10-27), i. k. 1111010ISTA0XI-1621
  
 
 
 
 
-
-
-15 straipsnis. Leidimas užsakyti pagaminti vėliavas
-
-
-1. Valstybės institucijos, įstaigos ar asmenys, kurie turi teisę naudoti Lietuvos valstybės istorinę vėliavą, Respublikos Prezidento vėliavą gali užsakyti pagaminti šias vėliavas tik gavę Lietuvos Respublikos Vyriausybės įgaliotos institucijos leidimą.
-
-
-
-
-2. Leidimų užsakyti pagaminti Lietuvos valstybės istorinę vėliavą ir Respublikos Prezidento vėliavą išdavimo taisykles nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+15 straipsnis. Neteko galios nuo 2011-10-27
+Straipsnio naikinimas:
+Nr. XI-1621, 2011-10-13, Žin. 2011, Nr. 129-6110 (2011-10-27), i. k. 1111010ISTA0XI-1621
  
-
-
 
 
 
@@ -817,15 +796,12 @@ TEISĖ VERSTIS VĖLIAVŲ GAMYBA IR JOS KONTROLĖ
 16 straipsnis. Gamintojų pareigos
 
 
-1. Vėliavos gali būti gaminamos tik iš Lietuvos Respublikos Vyriausybės nustatytų medžiagų ir turi atitikti įstatymų ir kitų norminių teisės aktų nustatytus reikalavimus.
+Vėliavos gali būti gaminamos tik iš Lietuvos Respublikos Vyriausybės nustatytų medžiagų ir turi atitikti įstatymų ir kitų norminių teisės aktų nustatytus reikalavimus. 
 
 
-
-
-2. Valstybės institucijos, pagal kompetenciją kontroliuojančios vėliavų gamybą, reikalavimu gamintojai privalo Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka pateikti reikalaujamą informaciją, susijusią su licencijuojama veikla ar licencijos išdavimą lemiančiomis sąlygomis.
+Straipsnio pakeitimai:
+Nr. XI-1621, 2011-10-13, Žin., 2011, Nr. 129-6110 (2011-10-27), i. k. 1111010ISTA0XI-1621
  
-
-
 
 
 
@@ -833,7 +809,10 @@ TEISĖ VERSTIS VĖLIAVŲ GAMYBA IR JOS KONTROLĖ
 17 straipsnis. Valstybės institucijų, pagal kompetenciją kontroliuojančių vėliavų gamybą ir prekybą jomis, teisės
 
 
-1. Valstybės institucijos pagal kompetenciją tikrina, ar fizinių ir juridinių asmenų veiksmai, susiję su vėliavų gamyba, prekyba jomis, atitinka galiojančias teisės normas.
+1. Valstybės institucijos pagal kompetenciją tikrina, ar fizinių ir juridinių asmenų ir kitų organizacijų veiksmai, susiję su vėliavų gamyba, prekyba jomis, atitinka galiojančius teisės aktus. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1621, 2011-10-13, Žin., 2011, Nr. 129-6110 (2011-10-27), i. k. 1111010ISTA0XI-1621
+ 
 
 
 
@@ -851,7 +830,10 @@ TEISĖ VERSTIS VĖLIAVŲ GAMYBA IR JOS KONTROLĖ
 
 
 
-3) gauti iš gamintojų ar iš kitos kontroliuojančios institucijos informaciją, susijusią su licencijuojama vėliavų gamybos veikla ar licencijos išdavimą lemiančiomis sąlygomis;
+3) neteko galios 2011-10-27;
+Straipsnio punkto pakeitimai:
+Nr. XI-1621, 2011-10-13, Žin., 2011, Nr. 129-6110 (2011-10-27), i. k. 1111010ISTA0XI-1621
+ 
 
 
 
@@ -861,7 +843,9 @@ TEISĖ VERSTIS VĖLIAVŲ GAMYBA IR JOS KONTROLĖ
 
 
 
-5) nustatę gamintojų, prekybos vėliavomis vietų ar asmenų padarytus pažeidimus, siūlyti licenciją išdavusiai institucijai sustabdyti jos galiojimą ar ją panaikinti.
+5) neteko galios 2011-10-27.
+Straipsnio punkto pakeitimai:
+Nr. XI-1621, 2011-10-13, Žin., 2011, Nr. 129-6110 (2011-10-27), i. k. 1111010ISTA0XI-1621
  
 
 
@@ -924,7 +908,10 @@ Nr. XI-746, 2010-04-13, Žin., 2010, Nr. 48-2296 (2010-04-27), i. k. 1101010ISTA
 
 
 
-3. Medžiagas, iš kurių gali būti gaminamos vėliavos, vėliavų matmenis, prekybos jomis vietas nustato Lietuvos Respublikos Vyriausybė. 
+3. Medžiagas, iš kurių gali būti gaminamos vėliavos, ir prekybos vėliavomis vietas nustato Lietuvos Respublikos Vyriausybė. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1621, 2011-10-13, Žin., 2011, Nr. 129-6110 (2011-10-27), i. k. 1111010ISTA0XI-1621
+ 
 
 
 
@@ -1025,3 +1012,8 @@ Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo 18 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-746, 2010-04-13, Žin., 2010, Nr. 48-2296 (2010-04-27), i. k. 1101010ISTA00XI-746
 Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo 2, 5, 18 straipsnių pakeitimo ir papildymo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1621, 2011-10-13, Žin., 2011, Nr. 129-6110 (2011-10-27), i. k. 1111010ISTA0XI-1621
+Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo 2, 3, 5, 16, 17, 18 straipsnių, šeštojo skirsnio pavadinimo pakeitimo ir papildymo ir 14, 15 straipsnių pripažinimo netekusiais galios įstatymas
