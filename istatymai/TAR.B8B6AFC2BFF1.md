@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B8B6AFC2BFF1"
 
 # Lietuvos Respublikos konkurencijos įstatymas
 
-Suvestinė redakcija nuo 2011-05-03 iki 2011-10-31
+Suvestinė redakcija nuo 2011-11-01 iki 2012-04-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 30-856, i. k. 0991010ISTAIII-1099
  
@@ -145,9 +145,10 @@ Nr. XI-216, 2009-04-09, Žin., 2009, Nr. 46-1795 (2009-04-25), i. k. 1091010ISTA
 
 
 
-11. Dominuojanti padėtis – vieno ar daugiau ūkio subjektų padėtis atitinkamoje rinkoje, kai tiesiogiai nesusiduriama su konkurencija arba kuri įgalina daryti vienpusę lemiamą įtaką atitinkamoje rinkoje veiksmingai ribojant konkurenciją. Jeigu neįrodoma priešingai, laikoma, kad ūkio subjektas (išskyrus mažmenine prekyba besiverčiantį ūkio subjektą) užima dominuojančią padėtį atitinkamoje rinkoje, jeigu jo rinkos dalis sudaro ne mažiau kaip 40 procentų. Jeigu neįrodoma priešingai, laikoma, kad kiekvienas iš trijų ar mažesnio skaičiaus ūkio subjektų (išskyrus mažmenine prekyba besiverčiančius ūkio subjektus), kuriems tenka didžiausios atitinkamos rinkos dalys, kartu sudarančios 70 procentų ar didesnę atitinkamos rinkos dalį, užima dominuojančią padėtį. Jeigu neįrodoma priešingai, laikoma, kad mažmenine prekyba besiverčiantis ūkio subjektas užima dominuojančią padėtį atitinkamoje rinkoje, jeigu jo rinkos dalis sudaro ne mažiau kaip 30 procentų. Jeigu neįrodoma priešingai, laikoma, kad kiekvienas iš trijų ar mažesnio skaičiaus mažmenine prekyba besiverčiančių ūkio subjektų, kuriems tenka didžiausios atitinkamos rinkos dalys, kartu sudarančios 55 procentų ar didesnę atitinkamos rinkos dalį, užima dominuojančią padėtį. 
+11. Dominuojanti padėtis – vieno ar daugiau ūkio subjektų padėtis atitinkamoje rinkoje, kai tiesiogiai nesusiduriama su konkurencija arba kuri sudaro sąlygas daryti vienpusę lemiamą įtaką atitinkamoje rinkoje veiksmingai ribojant konkurenciją. Jeigu neįrodoma priešingai, laikoma, kad ūkio subjektas (išskyrus mažmenine prekyba, pastato šildymo ir karšto vandens sistemos prižiūrėtojo (eksploatuotojo) ar bendrojo naudojimo objektų administravimo veikla besiverčiantį ūkio subjektą) užima dominuojančią padėtį atitinkamoje rinkoje, jeigu jo rinkos dalis sudaro ne mažiau kaip 40 procentų. Jeigu neįrodoma priešingai, laikoma, kad kiekvienas iš trijų ar mažesnio skaičiaus ūkio subjektų (išskyrus mažmenine prekyba, pastato šildymo ir karšto vandens sistemos prižiūrėtojo (eksploatuotojo) ar bendrojo naudojimo objektų administravimo veikla besiverčiančius ūkio subjektus), kuriems tenka didžiausios atitinkamos rinkos dalys, kartu sudarančios 70 procentų ar didesnę atitinkamos rinkos dalį, užima dominuojančią padėtį. Jeigu neįrodoma priešingai, laikoma, kad mažmenine prekyba, pastato šildymo ir karšto vandens sistemos prižiūrėtojo (eksploatuotojo) ar bendrojo naudojimo objektų administravimo veikla besiverčiantis ūkio subjektas užima dominuojančią padėtį atitinkamoje rinkoje, jeigu jo rinkos dalis sudaro ne mažiau kaip 30 procentų. Jeigu neįrodoma priešingai, laikoma, kad kiekvienas iš trijų ar mažesnio skaičiaus mažmenine prekyba besiverčiančių ūkio subjektų, kiekvienas iš trijų ar mažesnio skaičiaus pastato šildymo ir karšto vandens sistemos prižiūrėtojo (eksploatuotojo) veikla besiverčiančių ūkio subjektų ar kiekvienas iš trijų ar mažesnio skaičiaus bendrojo naudojimo objektų administravimo veikla besiverčiančių ūkio subjektų, kuriems tenka didžiausios atitinkamos rinkos dalys, kartu sudarančios 55 procentų ar didesnę atitinkamos rinkos dalį, užima dominuojančią padėtį. Pastato šildymo ir karšto vandens sistemos prižiūrėtojo (eksploatuotojo) sąvoka ir bendrojo naudojimo objektų administravimo veikla suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos šilumos ūkio įstatyme ir Lietuvos Respublikos civiliniame kodekse.
 Straipsnio dalies pakeitimai:
 Nr. XI-434, 2009-09-24, Žin., 2009, Nr. 121-5195 (2009-10-10), i. k. 1091010ISTA00XI-434
+Nr. XI-1607, 2011-09-29, Žin., 2011, Nr. 123-5815 (2011-10-13), i. k. 1111010ISTA0XI-1607
  
 
 
@@ -2432,3 +2433,8 @@ Lietuvos Respublikos konkurencijos įstatymo 3 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1347, 2011-04-21, Žin., 2011, Nr. 52-2522 (2011-05-03), i. k. 1111010ISTA0XI-1347
 Lietuvos Respublikos konkurencijos įstatymo 3, 40, 42 straipsnių papildymo ir pakeitimo ir Įstatymo papildymo 44-1, 44-2 straipsniais įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1607, 2011-09-29, Žin., 2011, Nr. 123-5815 (2011-10-13), i. k. 1111010ISTA0XI-1607
+Lietuvos Respublikos konkurencijos įstatymo 3 straipsnio pakeitimo įstatymas
