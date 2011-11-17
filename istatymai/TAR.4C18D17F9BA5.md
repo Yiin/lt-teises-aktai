@@ -325,14 +325,20 @@ straipsnio 1 dalies 1 punkte nurodytas nedarbo prevencijos programas;
 4) nustato bedarbių ir įspėtų apie atleidimą iš darbo
 darbingo amžiaus asmenų neformaliojo profesinio mokymo programų reikalavimus ir
 atlieka mokymo kokybės stebėseną;
+4
+punkto redakcija nuo 2012-01-01: 
+4) atlieka profesinio mokymo kokybės stebėseną;
+ 
 5) atlieka kitas teisės aktų jai nustatytas funkcijas.
 5. Kitos
 valstybės institucijos dalyvauja, siekiant šio įstatymo nustatyto užimtumo
 rėmimo sistemos tikslo, įgyvendinant uždavinius ir užimtumo rėmimo priemones, vadovaudamosi
 šiuo įstatymu ir kitais teisės aktais.
 Straipsnio pakeitimai:
-Nr. XI-879, 2010-06-04,
-Žin., 2010, Nr. 71-3552 (2010-06-19)
+Nr. XI-879,
+2010-06-04, Žin., 2010, Nr. 71-3552 (2010-06-19)
+Nr. XI-1632,
+2011-11-03, Žin., 2011, Nr. 138-6530 (2011-11-17)
  
 9 straipsnis. Savivaldybių institucijų
 ir įstaigų kompetencija
@@ -442,11 +448,11 @@ vertinimo rezultatai skelbiami viešai.
  
 17
 straipsnis. Darbo rinkos stebėsenos rezultatų naudojimas
-Darbo rinkos stebėsenos
-rezultatai naudojami:
-1) užimtumo
-rėmimo, švietimo ir profesinio mokymo, ekonominei, socialinei ir regioninei
-politikai formuoti ir įgyvendinti;
+Darbo rinkos
+stebėsenos rezultatai naudojami:
+1) užimtumo rėmimo,
+švietimo ir profesinio mokymo, ekonominei, socialinei ir regioninei politikai
+formuoti ir įgyvendinti;
 2) lėšų,
 reikalingų užimtumo rėmimo priemonėms ir darbo rinkos paslaugoms finansuoti,
 poreikiui nustatyti;
@@ -528,8 +534,8 @@ darbdaviams – tinkamų darbuotojų.
 21 straipsnis. Individualios užimtumo
 veiklos planavimas
 Bedarbiams,
-įsiregistravusiems teritorinėse darbo biržose, sudaromi individualūs užimtumo veiklos
-planai. Šiuose planuose nurodomi bedarbio ir teritorinės darbo biržos
+įsiregistravusiems teritorinėse darbo biržose, sudaromi individualūs užimtumo
+veiklos planai. Šiuose planuose nurodomi bedarbio ir teritorinės darbo biržos
 įsipareigojimai dėl aktyvios darbo rinkos politikos priemonių ir darbo rinkos
 paslaugų bedarbiui taikymo.
  
@@ -551,9 +557,8 @@ vietoms steigti;
 4) bedarbių
 teritorinio judumo rėmimas.
  
-23 straipsnis.
-Bedarbių ir įspėtų apie atleidimą iš darbo darbingo amžiaus darbuotojų
-profesinis mokymas 
+23 straipsnis. Bedarbių ir įspėtų apie atleidimą iš
+darbo darbingo amžiaus darbuotojų profesinis mokymas 
 1. Bedarbių ir
 įspėtų apie atleidimą iš darbo darbingo amžiaus darbuotojų profesinį mokymą
 reglamentuoja šis ir Lietuvos Respublikos profesinio mokymo įstatymas. 
@@ -581,11 +586,10 @@ už ne ilgesnį, negu yra nustatyta mokymo programose, mokymosi laikotarpį moka
 stipendija. Bedarbio pasirinkimu mokymo stipendijos dydis prilyginamas nedarbo
 socialinio draudimo išmokos dydžiui, galiojančiam mokymo pradžios dieną. Mokymo
 stipendijos dydis, prilygintas nedarbo socialinio draudimo išmokai, mokymosi
-metu nustatomas ir apskaičiuojamas vadovaujantis Lietuvos Respublikos nedarbo
-socialinio draudimo įstatymu. Pasibaigus mokymo stipendijos, prilygintos
-nedarbo socialinio draudimo išmokai, trukmei, bedarbiui toliau mokama 0,7
-Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio mokymo
-stipendija.
+metu nustatomas ir apskaičiuojamas vadovaujantis Lietuvos Respublikos nedarbo socialinio
+draudimo įstatymu. Pasibaigus mokymo stipendijos, prilygintos nedarbo
+socialinio draudimo išmokai, trukmei, bedarbiui toliau mokama 0,7 Vyriausybės
+patvirtintos minimaliosios mėnesinės algos dydžio mokymo stipendija.
 6. Bedarbiams ir
 įspėtiems apie atleidimą iš darbo darbingo amžiaus darbuotojams apmokamos
 kelionės į mokymo vietą ir atgal išlaidos bei apgyvendinimo išlaidos.
@@ -598,6 +602,182 @@ teritorinės darbo biržos jam siūlomo tinkamo darbo, 6 mėnesius nuo atsisakym
 dienos nesiūloma dalyvauti aktyvios darbo rinkos politikos priemonėse.
 Svarbiomis priežastimis laikoma asmens liga, šeiminės aplinkybės, persikėlimas
 nuolat gyventi į kitą gyvenamąją vietovę šalies viduje ar kitoje valstybėje.
+23
+straipsnio redakcija nuo 2012-01-01: 
+23 straipsnis. Bedarbių ir įspėtų apie
+atleidimą iš darbo darbingo amžiaus darbuotojų profesinis mokymas
+1. Bedarbių ir
+įspėtų apie atleidimą iš darbo darbingo amžiaus darbuotojų profesinį mokymą
+reglamentuoja šis įstatymas ir Lietuvos Respublikos profesinio mokymo
+įstatymas.
+2. Bedarbių ir
+įspėtų apie atleidimą iš darbo darbingo amžiaus darbuotojų profesinio mokymo
+tikslas – padėti jiems įgyti ar tobulinti kvalifikaciją arba (ir) įgyti
+kompetencijų pagal formaliojo profesinio mokymo programas, įtrauktas į Studijų,
+mokymo programų ir kvalifikacijų registrą ar neformaliojo profesinio mokymo
+programas, jeigu tai reikalinga įsidarbinti į laisvas darbo vietas, pradėti
+dirbti savarankiškai ar įspėtiems apie atleidimą iš darbo darbingo amžiaus
+darbuotojams pasilikti dirbti jų darbovietėse. 
+3. Bedarbių ir
+įspėtų apie atleidimą iš darbo darbingo amžiaus darbuotojų profesinis mokymas organizuojamas
+pagal trišalėje sutartyje numatytas sąlygas. Trišalė sutartis sudaroma tarp
+teritorinės darbo biržos, darbdavio, kuris įdarbins ar paliks darbuotoją jo
+darbovietėje, ir bedarbio ar įspėto apie atleidimą iš darbo darbingo amžiaus
+darbuotojo dėl bedarbio įdarbinimo į laisvą darbo vietą ar įspėto apie
+atleidimą iš darbo darbingo amžiaus darbuotojo pasilikimo dirbti jo
+darbovietėje. Trišalėje sutartyje nustatoma:
+1) kvalifikacija
+arba kompetencijos, kurias bedarbis ar įspėtas apie atleidimą iš darbo darbingo
+amžiaus darbuotojas turi įgyti ar tobulinti;
+2) teritorinės
+darbo biržos skiriama lėšų suma profesiniam mokymui;
+3) profesinio
+mokymo apmokėjimo tvarka;
+4) darbo vieta,
+į kurią darbdavys įdarbins bedarbį ar įspėtą apie atleidimą iš darbo darbingo
+amžiaus darbuotoją arba įspėtą apie atleidimą iš darbo darbingo amžiaus
+darbuotoją paliks dirbti jo darbovietėje;
+5) darbdavio
+įsipareigojimas įdarbinti į numatytą darbo vietą bedarbį ar įspėtą apie
+atleidimą iš darbo darbingo amžiaus darbuotoją arba įspėtą apie atleidimą iš
+darbo darbingo amžiaus darbuotoją palikti dirbti jo darbovietėje, nustatant
+visą darbo laiko režimą arba ne visą darbo laiko režimą, tačiau ne visa
+darbo diena (pamaina) turi būti ne trumpesnė už pusę darbo dienos (pamainos), o
+ne visa darbo savaitė – už 3 darbo dienas per savaitę, ne trumpesniam
+negu 12 mėnesių laikotarpiui;
+6) bedarbio ar įspėto
+apie atleidimą iš darbo darbingo amžiaus darbuotojo įsipareigojimas dirbti
+numatytoje darbo vietoje ne trumpesnį negu 6 mėnesių laikotarpį;
+7) kitos
+sąlygos.
+4. Profesinis
+mokymas
+taip
+pat gali būti organizuojamas nukreipiant bedarbius ar įspėtus apie atleidimą iš
+darbo darbingo amžiaus darbuotojus mokytis pagal tas profesinio mokymo
+programas, kurias baigę jie galėtų įsidarbinti į Lietuvos darbo biržos atliktų
+darbo rinkos prognozių metu nustatytas būsimas darbo vietas, kurios nustatomos
+vadovaujantis Vyriausybės
+ar jos įgaliotos institucijos patvirtintame Darbo rinkos stebėsenos sąlygų ir
+tvarkos apraše nustatyta tvarka, jeigu į šias darbo vietas švietimo įstaigų
+planuojamas parengti specialistų kiekis nepakankamas. Tarp teritorinės darbo
+biržos ir bedarbio ar įspėto apie atleidimą iš darbo darbingo amžiaus
+darbuotojo sudaroma sutartis, kurioje nustatomos galimos pasirinkti
+kvalifikacijos arba kompetencijos, teritorinės darbo biržos skiriama lėšų suma
+profesiniam mokymui, profesinio mokymo apmokėjimo tvarka ir kitos sąlygos.
+5. Profesinis
+mokymas taip pat gali būti organizuojamas pagal sutartyje numatytas sąlygas.
+Sutartis sudaroma tarp teritorinės darbo biržos ir bedarbio ar įspėto apie
+atleidimą iš darbo darbingo amžiaus darbuotojo dėl jo pradėjimo dirbti
+savarankiškai. Sutartyje nustatoma kvalifikacija arba kompetencijos, kurias
+bedarbis ar įspėtas apie atleidimą iš darbo darbingo amžiaus darbuotojas turi
+įgyti ar tobulinti, teritorinės darbo biržos skiriama lėšų suma profesiniam
+mokymui, profesinio mokymo apmokėjimo tvarka, bedarbio ar įspėto apie atleidimą
+iš darbo darbingo amžiaus darbuotojo įsipareigojimas dirbti savarankiškai ne
+trumpesnį negu 6 mėnesių laikotarpį ir kitos sąlygos.
+6. Teritorinė
+darbo birža šio straipsnio 3, 4, 5 dalyse nurodytų sutarčių pagrindu bedarbiui
+ar įspėtam apie atleidimą iš darbo darbingo amžiaus darbuotojui išduoda
+dokumentą, kuriuo įsipareigoja sumokėti bedarbio ar įspėto apie atleidimą iš
+darbo darbingo amžiaus darbuotojo pasirinktam profesinio mokymo teikėjui nurodytą
+pinigų sumą už suteiktą profesinį mokymą.
+7. Bedarbių ir
+įspėtų apie atleidimą iš darbo darbingo amžiaus darbuotojų profesinis mokymas
+vykdomas profesinio mokymo teikėjo, kurį pasirenka pats bedarbis ar įspėtas
+apie atleidimą iš darbo darbingo amžiaus darbuotojas. Tarp pasirinkto
+profesinio mokymo teikėjo ir bedarbio ar įspėto apie atleidimą iš darbo darbingo
+amžiaus darbuotojo, vadovaujantis šio straipsnio 3, 4, 5 dalyse nurodytomis
+sutartimis, sudaroma
+sutartis, kurioje nustatoma profesinio mokymo teikėjo įsipareigojimas mokyti
+bedarbį ar įspėtą
+apie atleidimą iš darbo darbingo amžiaus darbuotoją, bedarbio ar įspėto apie
+atleidimą iš darbo darbingo amžiaus darbuotojo įsipareigojimas mokytis pas
+profesinio mokymo teikėją ir kitos sąlygos. Profesinio mokymo teikėjas, sudaręs
+sutartį su bedarbiu ar įspėtu apie atleidimą iš darbo darbingo amžiaus
+darbuotoju, kas mėnesį teritorinei darbo biržai teikia informaciją apie
+bedarbio ar įspėto apie atleidimą iš darbo darbingo amžiaus darbuotojo mokymo
+programos lankomumą.
+8. Profesinis
+mokymas pagal programas, kurios suteikia kvalifikaciją darbui pasitelkiant
+technologijas ir nėra įtrauktos į Studijų, mokymo programų ir kvalifikacijų
+registrą, gali būti organizuojamas ir kitose Europos Sąjungos valstybėse narėse
+pagal šių valstybių galiojančius teisės aktus, įgyvendinant projektus,
+finansuojamus iš Europos Sąjungos struktūrinių fondų.
+9. Bedarbio ar
+įspėto apie atleidimą iš darbo darbingo amžiaus darbuotojo profesinis mokymas
+gali būti finansuojamas iš šių šaltinių:
+1) Užimtumo
+fondo lėšų;
+2) valstybės
+biudžeto lėšų; 
+3) Europos
+Sąjungos struktūrinių fondų ir Europos prisitaikymo prie globalizacijos
+padarinių fondo lėšų;
+4) darbdavių
+lėšų;
+5) kitų
+šaltinių.
+10. Bedarbiui ar
+įspėtam apie atleidimą iš darbo darbingo amžiaus darbuotojui bendrai skiriama
+lėšų suma iš šio straipsnio 9 dalies 1, 2, 3 punktuose nurodytų šaltinių negali
+viršyti 6 Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių
+kvalifikacijai įgyti ir 3 Vyriausybės patvirtintos minimaliosios mėnesinės
+algos dydžių kvalifikacijai tobulinti ar kompetencijai įgyti. Į šias lėšas
+neįskaičiuojamos išlaidos, numatytos šio straipsnio 11 ir 12 dalyse. Lėšų
+nustatymo, skyrimo ir panaudojimo kontrolės tvarka, sutarčių ir
+dokumentų tipinės formos nustatomos Vyriausybės ar jos įgaliotos institucijos
+patvirtintame Aktyvios darbo rinkos politikos priemonių įgyvendinimo sąlygų ir
+tvarkos apraše.
+11. Bedarbiams
+ir įspėtiems apie atleidimą iš darbo darbingo amžiaus darbuotojams, dirbantiems
+ne visą darbo laiką, per visą profesinio mokymosi laikotarpį, kartą per mėnesį,
+mokama stipendija. Stipendija apskaičiuojama taip: 0,7 Vyriausybės patvirtintos
+minimaliosios mėnesinės algos padalijant iš to mėnesio profesinio mokymo
+valandų skaičiaus ir gautą rezultatą padauginant iš lankytų valandų skaičiaus.
+Bedarbiui, kuriam priklauso nedarbo socialinio draudimo išmoka, jo pasirinkimu
+vietoj mokymo stipendijos gali būti mokoma nedarbo socialinio draudimo išmoka.
+Nedarbo socialinio draudimo išmoka apskaičiuojama vadovaujantis Lietuvos
+Respublikos nedarbo socialinio draudimo įstatymu. Pasibaigus nedarbo socialinio
+draudimo išmokos mokėjimo terminui, likusį profesinio mokymo laikotarpį
+bedarbiui toliau mokama 0,7 Vyriausybės patvirtintos minimaliosios mėnesinės
+algos dydžio mokymo stipendija.
+12. Bedarbiams
+ir įspėtiems apie atleidimą iš darbo darbingo amžiaus darbuotojams Vyriausybės
+ar jos įgaliotos institucijos patvirtintame Aktyvios darbo rinkos politikos
+priemonių įgyvendinimo sąlygų ir tvarkos apraše nustatytomis sąlygomis ir
+tvarka apmokamos:
+1)
+važinėjantiems iš gyvenamosios vietos į profesinio mokymo vietą tolimojo ar
+(ir) vietinio (priemiestinio) susisiekimo maršruto transportu, taip pat nuosavu
+transportu, – kelionės į profesinio mokymo vietą ir atgal išlaidos;
+2) apgyvendinimo
+išlaidos, kai vykstama į profesinio mokymo vietą ne dažniau kaip vieną kartą
+per darbo savaitę;
+3) visos
+privalomojo sveikatos tikrinimo ir skiepijimo nuo užkrečiamųjų ligų, jeigu tai
+nustatyta darbuotojų saugą ir sveikatą darbe reglamentuojančiuose teisės
+aktuose, išlaidos.
+13. Bedarbiai ir
+įspėti apie atleidimą iš darbo darbingo amžiaus darbuotojai, dėl kurių kaltės
+buvo nutrauktas profesinis mokymas, darbdavys, atsisakęs įdarbinti ar per 12
+mėnesių panaikinęs darbo vietą, arba bedarbis ar įspėtas apie atleidimą iš
+darbo darbingo amžiaus darbuotojas, be svarbios priežasties atsisakęs
+įsidarbinti pagal šio straipsnio 3 dalyje nurodytą trišalę sutartį ar
+įsidarbinęs ir per 6 mėnesius nutraukęs darbo sutartį arba nepradėjęs
+savarankiškos veiklos ar per 6 mėnesius ją nutraukęs, teritorinei darbo biržai
+privalo atlyginti jos patirtas išlaidas, susijusias su profesiniu mokymu. Jei
+šios išlaidos nėra grąžinamos teritorinei darbo biržai, jos išieškomos įstatymų
+nustatyta tvarka. Bedarbiams ir įspėtiems apie atleidimą iš darbo
+darbingo amžiaus darbuotojams darbo paieška nevykdoma ir dalyvauti aktyvios
+darbo rinkos politikos priemonėse nesiūloma 6 mėnesius nuo profesinio mokymo
+nutraukimo dienos, nuo atsisakymo įsidarbinti dienos arba nuo darbo sutarties
+nutraukimo dienos, kai ji buvo nutraukta per 6 mėnesius nuo įsidarbinimo
+dienos. Svarbiomis priežastimis laikoma asmens liga ar kitos priežastys,
+nustatytos Vyriausybės ar jos įgaliotos institucijos patvirtintame Aktyvios
+darbo rinkos politikos priemonių įgyvendinimo sąlygų ir tvarkos apraše.
+Straipsnio pakeitimai:
+Nr. XI-1632,
+2011-11-03, Žin., 2011, Nr. 138-6530 (2011-11-17)
  
 24 straipsnis. Remiamasis įdarbinimas
 1. Remiamojo
@@ -619,21 +799,21 @@ privalomojo valstybinio socialinio draudimo įmokoms iš dalies kompensuoti
 sudaryta ne visam darbo laikui arba jis dirbo ne visą mėnesio darbo laiką,
 subsidijos darbo užmokesčiui dydis skaičiuojamas už faktiškai dirbtą laiką
 pagal apskaičiuotą ar darbo sutartyje nustatytą valandinį atlygį. Subsidijos
-darbo užmokesčiui dydis negali viršyti dviejų Vyriausybės patvirtintų
-minimaliosios mėnesinės algos dydžių. Subsidijos darbo užmokesčiui dydis, kai
-įdarbinami šio įstatymo 4 straipsnio 1 dalyje nurodyti asmenys, apskaičiuojamas
-procentais nuo įdarbinto asmens darbo užmokesčio ir nuo šio darbo užmokesčio
-apskaičiuotų draudėjo privalomojo valstybinio socialinio draudimo įmokos lėšų:
+darbo užmokesčiui dydis negali viršyti dviejų Vyriausybės patvirtintų minimaliosios
+mėnesinės algos dydžių. Subsidijos darbo užmokesčiui dydis, kai įdarbinami šio
+įstatymo 4 straipsnio 1 dalyje nurodyti asmenys, apskaičiuojamas procentais nuo
+įdarbinto asmens darbo užmokesčio ir nuo šio darbo užmokesčio apskaičiuotų
+draudėjo privalomojo valstybinio socialinio draudimo įmokos lėšų:
 1) 75 procentai
-apskaičiuotų lėšų, kai įdarbinami asmenys, nurodyti šio įstatymo 
-4 straipsnio 1 dalies 1 punkte;
+apskaičiuotų lėšų, kai įdarbinami asmenys, nurodyti šio įstatymo 4 straipsnio 1
+dalies 1 punkte;
 2) 60 procentų
-apskaičiuotų lėšų, kai įdarbinami asmenys, nurodyti šio įstatymo 
-4 straipsnio 1 dalies 2 punkte;
+apskaičiuotų lėšų, kai įdarbinami asmenys, nurodyti šio įstatymo 4 straipsnio 1
+dalies 2 punkte;
 3) 50 procentų
-apskaičiuotų lėšų, kai įdarbinami asmenys, nurodyti šio įstatymo 
-4 straipsnio 1 dalies 3–15 punktuose, ir įspėti apie atleidimą iš darbo
-darbingo amžiaus darbuotojai.
+apskaičiuotų lėšų, kai įdarbinami asmenys, nurodyti šio įstatymo 4 straipsnio 1
+dalies 3–15 punktuose, ir įspėti apie atleidimą iš darbo darbingo amžiaus
+darbuotojai.
 3. Darbo
 ieškantiems asmenims vienu metu gali būti taikoma tik viena iš šio straipsnio 1
 dalyje nurodytų remiamojo įdarbinimo priemonių.
@@ -656,10 +836,10 @@ teritorinėje darbo biržoje ir įgijusiems socialinių darbuotojų padėjėjų
 kvalifikaciją, padėti įsitvirtinti darbo rinkoje pagal įgytą kvalifikaciją, kai jų užimtumo rėmimas sudaro sąlygas kitiems bedarbiams,
 turintiems įsipareigojimų šeimai, dirbti;
 3) šio įstatymo
-4 straipsnio 1 dalies 1 punkte nurodytiems asmenims, registruotiems teritorinėje
-darbo biržoje ieškančiais darbo asmenimis, ir šio įstatymo 4 straipsnio 1
-dalies 2 punkte nurodytiems asmenims, registruotiems teritorinėje darbo biržoje
-bedarbiais, sudaryti specialias sąlygas išlikti darbo rinkoje.
+4 straipsnio 1 dalies 1 punkte nurodytiems asmenims, registruotiems
+teritorinėje darbo biržoje ieškančiais darbo asmenimis, ir šio įstatymo 4
+straipsnio 1 dalies 2 punkte nurodytiems asmenims, registruotiems teritorinėje
+darbo biržoje bedarbiais, sudaryti specialias sąlygas išlikti darbo rinkoje.
 2. Subsidijos
 darbo užmokesčiui, mokamos darbdaviams įdarbinant šio straipsnio 1 dalyje
 nurodytus asmenis, dydis apskaičiuojamas vadovaujantis šio įstatymo 24
@@ -684,8 +864,8 @@ Nr. XI-879,
  
 26
 straipsnis. Darbo įgūdžių įgijimo rėmimas
-1. Darbo įgūdžių įgijimo rėmimas tiesiogiai darbo
-vietoje trūkstamiems darbo įgūdžiams įgyti organizuojamas asmenims:
+1. Darbo įgūdžių įgijimo rėmimas tiesiogiai darbo vietoje
+trūkstamiems darbo įgūdžiams įgyti organizuojamas asmenims:
 1) nurodytiems šio įstatymo 4 straipsnio 1 dalies 5
 punkte; 
 2) nurodytiems
@@ -742,14 +922,14 @@ darbuotojams;
 įstaigų mokiniams jų atostogų metu;
 4) darbuotojams, dirbantiems ne visą darbo laiką
 ekonominių sunkumų patiriančiose įmonėse.
-2. Viešieji darbai – tai laikino pobūdžio darbai,
-Vyriausybės ar jos įgaliotos institucijos patvirtintame Aktyvios darbo rinkos
-politikos priemonių įgyvendinimo sąlygų ir tvarkos apraše nustatytomis
-sąlygomis ir tvarka atliekami įmonėse, įstaigose, organizacijose ar kitose
-organizacinėse struktūrose, teikiantys socialinę naudą vietos bendruomenei,
-padedantys palaikyti ir (ar) plėtoti vietos bendruomenės socialinę
-infrastruktūrą, taip pat viešieji darbai, atliekami ekonominių sunkumų
-patiriančiose įmonėse, siekiant išsaugoti jose darbo vietas. 
+2. Viešieji darbai – tai laikino pobūdžio darbai, Vyriausybės
+ar jos įgaliotos institucijos patvirtintame Aktyvios darbo rinkos politikos
+priemonių įgyvendinimo sąlygų ir tvarkos apraše nustatytomis sąlygomis ir
+tvarka atliekami įmonėse, įstaigose, organizacijose ar kitose organizacinėse
+struktūrose, teikiantys socialinę naudą vietos bendruomenei, padedantys
+palaikyti ir (ar) plėtoti vietos bendruomenės socialinę infrastruktūrą, taip
+pat viešieji darbai, atliekami ekonominių sunkumų patiriančiose įmonėse,
+siekiant išsaugoti jose darbo vietas. 
 3. Viešuosius darbus organizuoja teritorinės darbo
 biržos kartu su savivaldybėmis ir darbdaviais.
 4. Savivaldybė rengia viešųjų darbų programas ir jas
@@ -843,12 +1023,17 @@ reglamentuojančiuose teisės aktuose, išlaidas.
 darbai bedarbiams gali būti derinami su profesiniu mokymu, kai bedarbis neturi
 šiems darbams atlikti reikiamos kvalifikacijos, kompetencijos arba kai šie
 mokymai reikalingi įsidarbinti po viešųjų darbų pagal darbo sutartį.
+15
+dalis netenka galios nuo 2012-01-01. 
 Straipsnio pakeitimai:
 Nr. XI-879,
 2010-06-04, Žin., 2010, Nr. 71-3552 (2010-06-19)
+Nr.
+XI-1632,
+2011-11-03, Žin., 2011, Nr. 138-6530 (2011-11-17)
  
-29 straipsnis. Parama darbo vietoms
-steigti 
+29
+straipsnis. Parama darbo vietoms steigti 
 1. Darbo vietoms
 steigti yra teikiama parama:
 1) darbo vietų steigimo subsidijavimas;
@@ -859,19 +1044,19 @@ užimtumo rėmimas.
 2. Šio
 straipsnio 1 dalyje nurodyta parama teikiama darbdaviams šio įstatymo 30–32 straipsniuose
 nurodytais atvejais ir nustatyta tvarka, mokant darbdaviams subsidiją darbo
-vietoms steigti. Subsidijos darbo vietoms steigti dydis vienai darbo vietai
-steigti negali viršyti 40 Vyriausybės patvirtintos minimaliosios mėnesinės
-algos dydžių sumos. Darbdaviai privalo apmokėti ne mažiau kaip 35 procentus (už
-kiekvieną neįgalų darbuotoją, kuriam nustatytas sunkus neįgalumo lygis ar
-neviršijantis 25 procentų darbingumo lygis (iki 2005 m. liepos 1 d. – I grupės
-invalidą), – 20 procentų; už neįgalų darbuotoją, kuriam nustatytas vidutinis
-neįgalumo lygis ar 30–40 procentų darbingumo lygis (iki 2005 m. liepos 1 d. –
-II grupės invalidą), – 30 procentų) darbo vietoms įsteigti (pritaikyti)
-reikalingų išlaidų ir įsteigtą (pritaikytą) darbo vietą išlaikyti ne mažiau
-kaip 36 mėnesius nuo teritorinių darbo biržų siųstų asmenų įdarbinimo.
-Darbdavys savo sprendimu gali nustatyti didesnę nuosavų lėšų dalį, negu
-nurodyta šioje dalyje. Panaikinus tokią darbo vietą, darbdaviai turi
-teritorinei darbo biržai grąžinti:
+vietoms steigti. Subsidijos darbo vietoms steigti dydis vienai darbo vietai steigti
+negali viršyti 40 Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių
+sumos. Darbdaviai privalo apmokėti ne mažiau kaip 35 procentus (už kiekvieną
+neįgalų darbuotoją, kuriam nustatytas sunkus neįgalumo lygis ar neviršijantis
+25 procentų darbingumo lygis (iki 2005 m. liepos 1 d. – I grupės invalidą), –
+20 procentų; už neįgalų darbuotoją, kuriam nustatytas vidutinis neįgalumo lygis
+ar 30–40 procentų darbingumo lygis (iki 2005 m. liepos 1 d. – II grupės
+invalidą), – 30 procentų) darbo vietoms įsteigti (pritaikyti) reikalingų
+išlaidų ir įsteigtą (pritaikytą) darbo vietą išlaikyti ne mažiau kaip 36
+mėnesius nuo teritorinių darbo biržų siųstų asmenų įdarbinimo. Darbdavys savo
+sprendimu gali nustatyti didesnę nuosavų lėšų dalį, negu nurodyta šioje dalyje.
+Panaikinus tokią darbo vietą, darbdaviai turi teritorinei darbo biržai
+grąžinti:
 1) visą
 subsidiją, kai darbo vieta panaikinama per 12 mėnesių laikotarpį nuo jos
 įsteigimo (pritaikymo);
@@ -952,11 +1137,11 @@ asmenims, kurie verčiasi individualia veikla pagal verslo liudijimą, išlaidom
 iš dalies padengti. Subsidija individualiai veiklai pagal verslo liudijimą gali
 būti mokama, kai verslo liudijimas išduodamas ne trumpesniam kaip vieno mėnesio
 laikotarpiui, o jeigu jis tęsiamas, bendra trukmė ne ilgesnė kaip 12 mėnesių.
-Pakartotinai subsidija individualiai veiklai pagal verslo liudijimą gali būti skiriama
-ne anksčiau kaip po 12 mėnesių nuo paskutinės paskirtos subsidijos pasibaigimo
-dienos. Subsidijos individualiai veiklai pagal verslo liudijimą dydis už
-kiekvieną veiklos pagal verslo liudijimą mėnesį – 0,25 Vyriausybės patvirtintos
-minimaliosios mėnesinės algos dydžio.
+Pakartotinai subsidija individualiai veiklai pagal verslo liudijimą gali būti
+skiriama ne anksčiau kaip po 12 mėnesių nuo paskutinės paskirtos subsidijos
+pasibaigimo dienos. Subsidijos individualiai veiklai pagal verslo liudijimą
+dydis už kiekvieną veiklos pagal verslo liudijimą mėnesį – 0,25 Vyriausybės
+patvirtintos minimaliosios mėnesinės algos dydžio.
 6. Teritorinės
 darbo biržos darbo ieškantiems asmenims, siekiantiems savarankiško užimtumo,
 teikia informaciją apie verslo pradžios sąlygas, plėtrą, darbuotojų priėmimą į
@@ -969,9 +1154,8 @@ Nr. XI-879,
 33
 straipsnis. Bedarbių teritorinio judumo rėmimas
 1. Bedarbių teritorinio judumo rėmimas organizuojamas
-siekiant skatinti bedarbius įsidarbinti darbo vietose, nutolusiose nuo jų
-gyvenamosios vietos, kai teritorinė darbo birža negali pasiūlyti bedarbiams
-tinkamo darbo.
+siekiant skatinti bedarbius įsidarbinti darbo vietose, nutolusiose nuo jų gyvenamosios
+vietos, kai teritorinė darbo birža negali pasiūlyti bedarbiams tinkamo darbo.
 2. Bedarbiams, įsidarbinusiems įmonių, įstaigų,
 organizacijų ar kitų organizacinių struktūrų darbo vietose, nutolusiose nuo jų
 gyvenamosios vietos, kompensuojamos kelionės į darbą ir atgal bei apgyvendinimo
@@ -996,8 +1180,7 @@ remti rengiamos šios programos:
 prevencijos;
 2) teritorinės
 užimtumo rėmimo; 
-3) gyventojų teritorinio judumo
-skatinimo;
+3) gyventojų teritorinio judumo skatinimo;
 4) imigrantų,
 tautinių mažumų integravimo į darbo rinką; 
 5) šio įstatymo
@@ -1029,18 +1212,18 @@ organizavimas ir kontrolė
 rėmimo priemonės įgyvendinamos ir darbo rinkos paslaugos teikiamos šio įstatymo
 ir kitų teisės aktų nustatyta tvarka. 
 2. Socialinės
-apsaugos ir darbo ministerija, organizuodama užimtumo rėmimo priemonių įgyvendinimą
-ir darbo rinkos paslaugų teikimą, nustato metinius veiklos tikslus ir
-uždavinius užimtumo rėmimo politiką įgyvendinančioms įstaigoms, skiria lėšų
+apsaugos ir darbo ministerija, organizuodama užimtumo rėmimo priemonių
+įgyvendinimą ir darbo rinkos paslaugų teikimą, nustato metinius veiklos tikslus
+ir uždavinius užimtumo rėmimo politiką įgyvendinančioms įstaigoms, skiria lėšų
 nustatytiems tikslams pasiekti ir uždaviniams įgyvendinti, kontroliuoja, kaip
 naudojamos šios lėšos. 
 3. Lietuvos
-darbo birža įgyvendina socialinės apsaugos ir darbo ministro nustatytus
-metinius veiklos tikslus ir uždavinius, organizuodama teritorinių darbo biržų
-veiklą, kai šios įgyvendina užimtumo rėmimo priemones ir teikia darbo rinkos
-paslaugas, nustato teritorinėms darbo biržoms metinius veiklos tikslus ir
-uždavinius, skiria lėšų nustatytiems tikslams pasiekti ir uždaviniams
-įgyvendinti, kontroliuoja, kaip naudojamos šios lėšos.
+darbo birža įgyvendina socialinės apsaugos ir darbo ministro nustatytus metinius
+veiklos tikslus ir uždavinius, organizuodama teritorinių darbo biržų veiklą,
+kai šios įgyvendina užimtumo rėmimo priemones ir teikia darbo rinkos paslaugas,
+nustato teritorinėms darbo biržoms metinius veiklos tikslus ir uždavinius,
+skiria lėšų nustatytiems tikslams pasiekti ir uždaviniams įgyvendinti,
+kontroliuoja, kaip naudojamos šios lėšos.
 4. (Neteko
 galios nuo 2010 m. spalio 1 d.)
 5. Teritorinės
@@ -1116,8 +1299,8 @@ Užimtumo fondo lėšos įtraukiamos į kitų metų Užimtumo fondo lėšų sąm
 apsaugos ir darbo ministerijos sąskaitoje. 
 5. Šio
 straipsnio 1 dalies 2 punkte nurodytas lėšas užimtumo politiką įgyvendinančios
-įstaigos perveda į Užimtumo fondo sąskaitą už praėjusį ketvirtį iki kito
-ketvirčio pirmo mėnesio 15 dienos. 
+įstaigos perveda į Užimtumo fondo sąskaitą už praėjusį ketvirtį iki kito ketvirčio
+pirmo mėnesio 15 dienos. 
  
 39
 straipsnis. Užimtumo fondo administravimas
@@ -1160,12 +1343,12 @@ finansuoti skirtų valstybės lėšų (Užimtumo fondo, valstybės biudžeto ir 
 šaltinių) finansinę kontrolę atlieka Valstybės kontrolė ir kitos teisės aktų
 nustatyta tvarka įgaliotos valstybės institucijos.
 2. Socialinės
-apsaugos ir darbo ministerija ne vėliau kaip per 4 mėnesius, pasibaigus finansiniams
-metams, viešai skelbia informaciją apie valstybės lėšų panaudojimą, nurodydama
-šių lėšų panaudojimą atskiroms aktyvios darbo rinkos politikos priemonėms ir
-užimtumo rėmimo programoms įgyvendinti, nedarbo socialinio draudimo išmokoms
-mokėti, užimtumo rėmimo politiką įgyvendinančioms įstaigoms išlaikyti ir darbo
-rinkos paslaugoms teikti. 
+apsaugos ir darbo ministerija ne vėliau kaip per 4 mėnesius, pasibaigus
+finansiniams metams, viešai skelbia informaciją apie valstybės lėšų
+panaudojimą, nurodydama šių lėšų panaudojimą atskiroms aktyvios darbo rinkos
+politikos priemonėms ir užimtumo rėmimo programoms įgyvendinti, nedarbo
+socialinio draudimo išmokoms mokėti, užimtumo rėmimo politiką įgyvendinančioms
+įstaigoms išlaikyti ir darbo rinkos paslaugoms teikti. 
  SEPTINTASIS SKIRSNIS
 GINČŲ DĖL
 UŽIMTUMO RĖMIMO PRIEMONIŲ ĮGYVENDINIMO ir
@@ -1246,11 +1429,20 @@ Nr. XI-1123,
 UŽIMTUMO RĖMIMO ĮSTATYMO 15 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
  
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1632,
+2011-11-03, Žin., 2011, Nr. 138-6530 (2011-11-17)
+UŽIMTUMO RĖMIMO ĮSTATYMO 8, 23 IR 28
+STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis įstatymas, išskyrus šio straipsnio 2
+dalį, įsigalioja 2012 m. sausio 1 d.
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2010-11-30)
+(2011-11-21)
                  
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
 
