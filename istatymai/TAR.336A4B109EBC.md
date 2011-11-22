@@ -3083,7 +3083,7 @@ nedelsdama priima sprendimą pagal šio įstatymo 87 straipsnį ir
 89 straipsnis. Savivaldybės tarybos nario mandato
 netekimas dėl rinkėjams nepaskelbtos turėtos teismo nuosprendžiu (sprendimu)
 paskirtos bausmės
-1. Kiekvienas kandidatas
+*1. Kiekvienas kandidatas
 turi viešai paskelbti, jeigu jis po 1990 m. kovo 11 d. Lietuvos Respublikos ar
 užsienio valstybės teismo įsiteisėjusiu nuosprendžiu (sprendimu) buvo
 pripažintas kaltu dėl nusikalstamos veikos arba įsiteisėjusiu Lietuvos
@@ -3093,8 +3093,8 @@ kandidato į savivaldybės tarybos narius anketoje, nesvarbu, ar teistumas
 pasibaigęs ar panaikintas. Rinkimų komisijos leidžiamame kandidato plakate ar
 plakate su kandidatų sąrašu, prie kandidato pavardės turi būti pažymėta:
 „Teismo nuosprendžiu buvo pripažintas kaltu dėl nusikalstamos veikos“. Tai
-pažymėti neprivaloma, jeigu asmuo okupacinio režimo teismo buvo pripažintas
-kaltu dėl nusikaltimo valstybei.
+pažymėti neprivaloma, jeigu asmuo okupacinio režimo teismo buvo pripažintas kaltu
+dėl nusikaltimo valstybei.
 2. Jeigu kandidatas neįvykdė šio
 straipsnio 1 dalyje nustatytų reikalavimų ir yra po 1990 m. kovo 11 d.
 įsiteisėjęs teismo nuosprendis (sprendimas), kuriuo asmuo buvo pripažintas
@@ -3109,6 +3109,24 @@ dėl tam tikros nusikalstamos veikos, Vyriausioji rinkimų komisija per 15 dien�
 nutraukia jo savivaldybės tarybos nario įgaliojimus. Šie reikalavimai netaikomi
 ir rinkimų komisijos atitinkamų veiksmų nesiima, jeigu asmuo okupacinio režimo
 teismo buvo pripažintas kaltu dėl nusikaltimo valstybei.
+*Pastaba. Pripažinti, kad Lietuvos
+Respublikos savivaldybių tarybų rinkimų įstatymo (2010 m. birželio
+30 d. redakcija; Žin., 2010, Nr. 86-4523, Nr. 141) 89 straipsnio
+1 dalis tiek, kiek joje nenustatyta, kad savivaldybės rinkimų
+komisijos leidžiamame kandidato plakate ar plakate su kandidatų sąrašu prie
+kandidato pavardės neturi būti pažymėta: „Teismo nuosprendžiu buvo pripažintas
+kaltu dėl nusikalstamos veikos“, jeigu asmuo įsiteisėjusiu teismo nuosprendžiu
+(sprendimu) buvo pripažintas kaltu dėl nusikalstamos veikos, kuri vėliau
+dekriminalizuota, arba jeigu asmuo užsienio valstybės teismo buvo pripažintas
+kaltu dėl veikos, kuri pagal Lietuvos Respublikos teisę nėra ir nebuvo laikoma
+nusikalstama arba už kurią patraukimas baudžiamojon atsakomybėn laikomas
+politinio pobūdžio persekiojimu, prieštarauja Lietuvos Respublikos
+Konstitucijos 29 straipsniui, 34 straipsnio 2 daliai, konstituciniam teisinės
+valstybės principui.
+Lietuvos
+Respublikos Konstitucinis Teismas, Nutarimas
+2011-11-17,
+Žin., 2011, Nr. 141-6634 (2011-11-22)
  
 90
 straipsnis. Pareigos, nesuderinamos su savivaldybės tarybos nario pareigomis,
@@ -3116,8 +3134,8 @@ ir išrinkto savivaldybės tarybos nario mandato netekimas
 *1. Savivaldybės
 tarybos nario pareigos nesuderinamos su Respublikos Prezidento, Seimo nario,
 Europos Parlamento nario, Vyriausybės nario pareigomis, su Vyriausybės įstaigos
-ar įstaigos prie ministerijos vadovo, kurio veikla susijusi su savivaldybių
-veiklos priežiūra ir kontrole, pareigomis, su Vyriausybės atstovo apskrityje
+ar įstaigos prie ministerijos vadovo, kurio veikla susijusi su savivaldybių veiklos
+priežiūra ir kontrole, pareigomis, su Vyriausybės atstovo apskrityje
 pareigomis, su valstybės kontrolieriaus ir jo pavaduotojo pareigomis. Be to,
 savivaldybės tarybos nario pareigos nesuderinamos su tos savivaldybės mero
 politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigomis, tos
@@ -3134,9 +3152,9 @@ kontroliuojamos akcinės bendrovės vadovo pareigomis.
 kuris eina pareigas, pagal Konstituciją, šį ar kitus įstatymus nesuderinamas su
 savivaldybės tarybos nario pareigomis, išrenkamas savivaldybės tarybos nariu,
 jis turi apsispręsti ir atsisakyti tų pareigų arba išrinkto savivaldybės
-tarybos nario mandato. Išrinktas savivaldybės tarybos narys, apsisprendęs
-atsisakyti savivaldybės tarybos nario mandato, ne vėliau kaip likus 10 dienų
-iki savivaldybės tarybos pirmojo posėdžio dienos paduoda Vyriausiajai rinkimų
+tarybos nario mandato. Išrinktas savivaldybės tarybos narys, apsisprendęs atsisakyti
+savivaldybės tarybos nario mandato, ne vėliau kaip likus 10 dienų iki
+savivaldybės tarybos pirmojo posėdžio dienos paduoda Vyriausiajai rinkimų
 komisijai asmeniškai arba išsiunčia jai notarine tvarka patvirtintą pareiškimą
 dėl išrinkto savivaldybės tarybos nario mandato atsisakymo. Gavusi šį
 pareiškimą, Vyriausioji rinkimų komisija mandatų komisijos teisėmis ne vėliau
@@ -3160,6 +3178,19 @@ savivaldybės mero politinio (asmeninio) pasitikėjimo valstybės tarnautojo ir
 tos savivaldybės administracijos darbuotojo, dirbančio pagal darbo sutartį,
 pareigomis taikoma po šio įstatymo įsigaliojimo išrinktiems savivaldybių tarybų
 nariams.
+*Pastaba. Pripažinti, kad
+Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo (2010 m. birželio
+30 d. redakcija; Žin., 2010, Nr. 86-4523, Nr. 141) 90 straipsnio
+1 dalis tiek, kiek joje nenustatyta, kad savivaldybės tarybos nario
+pareigos yra nesuderinamos su tos savivaldybės tarybos sekretoriato vadovo, tos
+savivaldybės tarybos sekretoriato karjeros valstybės tarnautojo ir pagal darbo
+sutartį dirbančio darbuotojo pareigomis, prieštarauja Lietuvos Respublikos
+Konstitucijos 119 straipsnio 1, 4 dalims, konstituciniam teisinės
+valstybės principui.
+Lietuvos
+Respublikos Konstitucinis Teismas, Nutarimas
+2011-11-17,
+Žin., 2011, Nr. 141-6634 (2011-11-22)
  
  
 Skelbiu šį Lietuvos Respublikos Seimo
@@ -3227,8 +3258,7 @@ Nr.
 I-795,
 1995.02.15, Žin., 1995, Nr. 18-405
 DĖL
-LIETUVOS RESPUBLIKOS SAVIVALDYBIŲ TARYBŲ RINKIMŲ ĮSTATYMO 41 IR 45 STRAIPSNIŲ
-PAKEITIMO
+LIETUVOS RESPUBLIKOS SAVIVALDYBIŲ TARYBŲ RINKIMŲ ĮSTATYMO 41 IR 45 STRAIPSNIŲ PAKEITIMO
  
 5.
 Lietuvos
@@ -3303,8 +3333,8 @@ PAKEITIMO ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-274, 2001 04 19, Žin., 2001, Nr.
 39-1345 (2001 05 09)
-SAVIVALDYBIŲ TARYBŲ RINKIMŲ ĮSTATYMO 21 STRAIPSNIO
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+SAVIVALDYBIŲ TARYBŲ RINKIMŲ ĮSTATYMO 21 STRAIPSNIO PAKEITIMO
+IR PAPILDYMO ĮSTATYMAS
  
 13.
 Lietuvos
@@ -3341,8 +3371,8 @@ TARYBŲ RINKIMŲ ĮSTATYMO PAPILDYMO 89 STRAIPSNIU ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1340, 2003-01-28,
-Žin., 2003, Nr. 17-711 (2003-02-19)
+IX-1340,
+2003-01-28, Žin., 2003, Nr. 17-711 (2003-02-19)
 SAVIVALDYBIŲ
 TARYBŲ RINKIMŲ ĮSTATYMO 86, 87 STRAIPSNIŲ PAPILDYMO BEI PAKEITIMO IR ĮSTATYMO
 PAPILDYMO 88(1) STRAIPSNIU ĮSTATYMAS
@@ -3489,8 +3519,8 @@ Nr.
 X-1045,
 2007-01-18, Žin., 2007, Nr. 8-320 (2007-01-19)
 SAVIVALDYBIŲ
-TARYBŲ RINKIMŲ ĮSTATYMO 2, 14, 16, 29, 31, 55, 62, 64, 65, 67, 69, 73
-STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+TARYBŲ RINKIMŲ ĮSTATYMO 2, 14, 16, 29, 31, 55, 62, 64, 65, 67, 69, 73 STRAIPSNIŲ
+PAKEITIMO ĮSTATYMAS
  
 28.
 Lietuvos
@@ -3600,16 +3630,26 @@ Respublikos Konstitucinis Teismas, Nutarimas
 DĖL LIETUVOS RESPUBLIKOS
 SAVIVALDYBIŲ TARYBŲ RINKIMŲ ĮSTATYMO (2010 M. BIRŽELIO 30 D. REDAKCIJA) 34
 STRAIPSNIO, 83 STRAIPSNIO 2, 3, 4, 5 DALIŲ, LIETUVOS RESPUBLIKOS POLITINIŲ
-PARTIJŲ IR POLITINIŲ KAMPANIJŲ FINANSAVIMO BEI FINANSAVIMO KONTROLĖS ĮSTATYMO
-(2010 M. GEGUŽĖS 18 D. REDAKCIJA) 3 STRAIPSNIO 2 DALIES ATITIKTIES LIETUVOS
+PARTIJŲ IR POLITINIŲ KAMPANIJŲ FINANSAVIMO BEI FINANSAVIMO KONTROLĖS ĮSTATYMO (2010
+M. GEGUŽĖS 18 D. REDAKCIJA) 3 STRAIPSNIO 2 DALIES ATITIKTIES LIETUVOS
 RESPUBLIKOS KONSTITUCIJAI
+ 
+3.
+Lietuvos
+Respublikos Konstitucinis Teismas, Nutarimas
+2011-11-17,
+Žin., 2011, Nr. 141-6634 (2011-11-22)
+DĖL
+LIETUVOS RESPUBLIKOS SAVIVALDYBIŲ TARYBŲ RINKIMŲ ĮSTATYMO (2010 M. BIRŽELIO 30
+D. REDAKCIJA) 89 STRAIPSNIO 1 DALIES, 90 STRAIPSNIO 1 DALIES ATITIKTIES
+LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2011-05-16)
+Aušrinė Trapinskienė (2011-11-22)
                  
 ausrine.trapinskiene@lrs.lt
 
