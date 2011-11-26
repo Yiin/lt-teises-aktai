@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29CFE27F6B13"
 
 # Lietuvos Respublikos Lietuvos kariuomenės drausmės statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2011-09-01 iki 2011-11-25
+Suvestinė redakcija nuo 2011-11-26 iki 2012-07-11
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 51-1635, i. k. 0991010ISTAIII-1191
  
@@ -39,15 +39,16 @@ Patvirtinti Lietuvos Respublikos kariuomenės drausmės statutą (pridedamas).
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
-
-
-
-
-
-
-  
-KARIUOMENĖS DRAUSMĖS STATUTAS
+ 
  
+ 
+
+
+
+
+
+
+LIETUVOS KARIUOMENĖS DRAUSMĖS STATUTAS  
 
 
 I DALIS
@@ -56,17 +57,17 @@ BENDROSIOS NUOSTATOS
 
 
 I SKYRIUS
-KARIUOMENĖS DRAUSMĖS STATUTO PASKIRTIS  IR BENDROSIOS NUOSTATOS
+LIETUVOS KARIUOMENĖS DRAUSMĖS STATUTO PASKIRTIS IR BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Kariuomenės drausmės statuto paskirtis
+1 straipsnis. Lietuvos kariuomenės drausmės statuto paskirtis
 
 
-Kariuomenės drausmės statuto (toliau – Statuto) paskirtis:
+Lietuvos kariuomenės (toliau – kariuomenė) drausmės statuto (toliau – Statutas) paskirtis:
 
 
-1) stiprinti teisėtumą, auklėti karius, kad jie sąžiningai vykdytų savo pareigas, ginti jų teises ir laisves, sudaryti sąlygas karių drausmės pažeidimų (toliau – drausmės pažeidimai) prevencijai ir karių drausmei stiprinti;
+1) stiprinti teisėtumą, auklėti karius, kad jie sąžiningai atliktų pareigas, ginti jų teises ir laisves, sudaryti sąlygas karių drausmės pažeidimų (toliau – drausmės pažeidimai) prevencijai ir karių drausmei stiprinti;
 
 
 
@@ -86,7 +87,7 @@ Kariuomenės drausmės statuto (toliau – Statuto) paskirtis:
 
 
 
-5) nustatyti drausmės pažeidimų tyrimo tvarką;
+5) nustatyti drausmės pažeidimų ir skundų tyrimo tvarką;
 
 
 
@@ -96,7 +97,7 @@ Kariuomenės drausmės statuto (toliau – Statuto) paskirtis:
 
 
 
-7) nustatyti skundų padavimo ir nagrinėjimo tvarką.
+7) nustatyti išankstinę karo tarnybos ginčų nagrinėjimo ne teisme tvarka krašto apsaugos sistemoje tvarką.
  
 
 
@@ -109,7 +110,7 @@ Kariuomenės drausmės statuto (toliau – Statuto) paskirtis:
 2 straipsnis. Drausminės atsakomybės pagrindai
 
 
-1. Kariui gali būti skiriama drausminė nuobauda tik tuo atveju, jeigu jis savo padaryta veika pažeidė įstatymus, statutus, kitus teisės aktus, galiojusius drausmės pažeidimo metu, taip pat vadų (viršininkų) įsakymus, ir tokia veika atitiko šiame statute numatytus drausmės pažeidimo sudėties požymius.
+1. Kariui gali būti skiriama drausminė nuobauda tik tuo atveju, jeigu jis savo padaryta veika pažeidė įstatymus, statutus, kitus teisės aktus, galiojusius drausmės pažeidimo metu, taip pat vadų (viršininkų) įsakymus ir tokia veika atitiko šiame statute numatytus drausmės pažeidimo sudėties požymius.
 
 
 
@@ -119,12 +120,12 @@ Kariuomenės drausmės statuto (toliau – Statuto) paskirtis:
 
 
 
-3. Už baudžiamajame įstatyme apibrėžtą veiką karys traukiamas baudžiamojon atsakomybėn Baudžiamojo ir Baudžiamojo proceso kodeksų nustatyta tvarka.
+3. Už baudžiamajame įstatyme apibrėžtą veiką karys traukiamas baudžiamojon atsakomybėn Lietuvos Respublikos baudžiamojo kodekso ir Lietuvos Respublikos baudžiamojo proceso kodekso nustatyta tvarka.
 
 
 
 
-4. Karys, padaręs Administracinių teisės pažeidimų kodekse apibrėžtą veiką, už kurią numatyta atsakomybė pagal drausmės statutus, atsako tik pagal šį statutą. Už kitas Administracinių teisės pažeidimų kodekse apibrėžtas veikas karys traukiamas administracinėn atsakomybėn bendrais pagrindais.
+4. Karys, padaręs Lietuvos Respublikos administracinių teisės pažeidimų kodekse apibrėžtą veiką, traukiamas administracinėn atsakomybėn bendrais pagrindais.
  
 
 
@@ -139,15 +140,15 @@ STATUTO GALIOJIMAS
  
 
 
-3 straipsnis. Statuto galiojimo laikas 
+3 straipsnis. Statuto galiojimo laikas
 
 
-1. Karys, padaręs drausmės pažeidimą, atsako pagal Statutą, galiojusį pažeidimo metu. Drausmės pažeidimo padarymo laikas yra veikimo ar neveikimo laikas arba pasekmių atsiradimo laikas, jeigu karys norėjo, kad pasekmės atsirastų kitu laiku.
+1. Karys, padaręs drausmės pažeidimą, atsako pagal statutą, galiojusį pažeidimo metu. Drausmės pažeidimo padarymo laikas yra veikimo ar neveikimo laikas arba pasekmių atsiradimo laikas, jeigu karys norėjo, kad pasekmės atsirastų kitu laiku.
 
 
 
 
-2. Įstatymas, panaikinantis arba sušvelninantis atsakomybę už drausmės pažeidimus, turi grįžtamąją galią, t. y. taikomas kariams, padariusiems drausmės pažeidimų iki tokio įstatymo įsigaliojimo.
+2. Įstatymas, panaikinantis arba sušvelninantis atsakomybę už drausmės pažeidimus, turi grįžtamąją galią, tai yra taikomas kariams, padariusiems drausmės pažeidimų iki tokio įstatymo įsigaliojimo.
 
 
 
@@ -160,10 +161,10 @@ STATUTO GALIOJIMAS
 
 
 
-4 straipsnis. Statuto galiojimo vieta 
+4 straipsnis. Statuto galiojimo vieta
 
 
-Visi Lietuvos Respublikos kariai už drausmės pažeidimus, padarytus Lietuvos Respublikos teritorijoje ar užsienyje, atsako pagal šį statutą, jei tarptautiniai susitarimai nenustato kitaip.
+Visi Lietuvos Respublikos kariai už drausmės pažeidimus, padarytus Lietuvos Respublikos teritorijoje ar užsienyje, atsako pagal šį statutą, jeigu tarptautiniai susitarimai nenustato kitaip.
  
 
 
@@ -181,7 +182,7 @@ DRAUSMĖS PAŽEIDIMO IR DRAUSMINĖS ATSAKOMYBĖS SĄLYGOS
 5 straipsnis. Drausmės pažeidimas
 
 
-1. Drausmės pažeidimas yra šiame statute numatyta veika (veikimas ar neveikimas), pažeidžianti karių drausmę, už kurią šis statutas numato drausminę nuobaudą.
+1. Drausmės pažeidimas yra šiame statute numatyta karių drausmę pažeidžianti veika (veikimas ar neveikimas), už kurią šiame statute numatyta drausminė nuobauda.
 
 
 
@@ -191,7 +192,7 @@ DRAUSMĖS PAŽEIDIMO IR DRAUSMINĖS ATSAKOMYBĖS SĄLYGOS
 
 
 
-3. Šiurkštus drausmės pažeidimas yra šiame statute numatyta karių drausmę pažeidžianti veika (veikimas ar neveikimas), kuria padaroma esminė žala krašto apsaugos sistemos institucijoms arba nustatytai karo tarnybos tvarkai, už kurią šis statutas numato drausminę nuobaudą.
+3. Šiurkštus drausmės pažeidimas yra šiame statute numatyta karių drausmę pažeidžianti veika (veikimas ar neveikimas), kuria padaroma esminė žala krašto apsaugos sistemos institucijoms arba nustatytai karo tarnybos tvarkai ir už kurią šis statutas numato drausminę nuobaudą.
 
 
 
@@ -229,23 +230,17 @@ Drausmės pažeidimas laikomas padarytu dėl neatsargumo, jeigu jį padaręs kar
 8 straipsnis. Drausminės atsakomybės subjektai
 
 
-1. Drausminėn atsakomybėn traukiami kariai, atliekantys privalomąją ir profesinę karo tarnybą, taip pat kariūnai. 
-Straipsnio dalies pakeitimai:
-Nr. XI-1512, 2011-06-23, Žin., 2011, Nr. 86-4154 (2011-07-13), i. k. 1111010ISTA0XI-1512
- 
+1. Drausminėn atsakomybėn traukiami profesinės karo tarnybos kariai, kariai savanoriai ir kiti aktyviojo rezervo kariai, privalomosios karo tarnybos kariai (privalomosios pradinės karo tarnybos ir parengtojo rezervo kariai), taip pat kariūnai.
 
 
 
 
-2. Kariai savanoriai ir kiti aktyviojo rezervo kariai, taip pat parengtojo rezervo kariai, pagal vado (viršininko) įsakymą atvykę į tarnybos vietą, tiesiogiai vykdydami jiems pavestą užduotį, dalyvaudami karinėse operacijose, pratybose ir mokymuose, drausminėn atsakomybėn traukiami tokia pat tvarka kaip ir profesinės karo tarnybos kariai, atsižvelgiant į turimą kario laipsnį. Kitais atvejais kariai savanoriai ir kiti aktyviojo rezervo kariai, taip pat parengtojo rezervo kariai drausminėn atsakomybėn traukiami tokia pat tvarka kaip ir atsargos kariai.
-Straipsnio dalies pakeitimai:
-Nr. XI-1512, 2011-06-23, Žin., 2011, Nr. 86-4154 (2011-07-13), i. k. 1111010ISTA0XI-1512
- 
+2. Kariai savanoriai ir kiti aktyviojo rezervo kariai pagal vado (viršininko) įsakymą atvykę į tarnybos vietą, tiesiogiai vykdydami jiems pavestą užduotį, dalyvaudami karinėse operacijose, pratybose ir mokymuose, drausminėn atsakomybėn traukiami ta pačia tvarka kaip ir profesinės karo tarnybos kariai, atsižvelgiant į turimą kario laipsnį. Kitais atvejais kariai savanoriai ir kiti aktyviojo rezervo kariai drausminėn atsakomybėn traukiami ta pačia tvarka kaip ir atsargos kariai.
 
 
 
 
-3. Atsargos arba dimisijos kariai drausminėn atsakomybėn traukiami tik tais atvejais, kai drausmės pažeidimus padaro dėvėdami kario uniformą arba kai pažeidžia Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme jiems nustatytus apribojimus.
+3. Atsargos arba dimisijos kariai drausminėn atsakomybėn traukiami tik tais atvejais, kai drausmės pažeidimus padaro dėvėdami kario uniformą arba kai pažeidžia Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme (toliau – Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas) jiems nustatytus apribojimus.
  
 
 
@@ -261,12 +256,12 @@ Nr. XI-1512, 2011-06-23, Žin., 2011, Nr. 86-4154 (2011-07-13), i. k. 1111010IST
 
 
 
-2. Drausminės atsakomybės neužtraukia toks veikimas, kai būtinosios ginties ribos buvo peržengtos dėl didelio sumišimo ar išgąsčio, kurį sukėlė kėsinimasis, arba kai ginamasi nuo įsibrovimo į būstą ar karinę teritoriją.
+2. Drausminės atsakomybės neužtraukia toks veikimas, kai būtinosios ginties ribos buvo peržengtos dėl didelio sumišimo ar išgąsčio, kurį sukėlė kėsinimasis, arba kai ginamas būstas ar karinė teritorija nuo įsibrovimo.
 
 
 
 
-3. Drausminės atsakomybės neužtraukia būtinosios ginties ribų peržengimas, jeigu besikėsinančiajam padaryta žala dėl neatsargumo.
+3. Drausminės atsakomybės neužtraukia būtinosios ginties ribų peržengimas, jeigu besikėsinančiam asmeniui padaryta žala dėl neatsargumo.
  
 
 
@@ -277,7 +272,7 @@ Nr. XI-1512, 2011-06-23, Žin., 2011, Nr. 86-4154 (2011-07-13), i. k. 1111010IST
 10 straipsnis. Būtinasis reikalingumas
 
 
-1. Karys pagal šį statutą neatsako už veiksmus, padarytus esant būtinajam reikalingumui, t. y. siekiant pašalinti pavojų, gresiantį sau, kitiems asmenims ar jų teisėms, visuomenės ar valstybės interesams, jeigu šis pavojus negalėjo būti pašalintas kitomis priemonėmis.
+1. Karys pagal šį statutą neatsako už veiksmus, padarytus esant būtinajam reikalingumui, tai yra siekiant pašalinti pavojų, gresiantį jam, kitiems asmenims ar jų teisėms, visuomenės ar valstybės interesams, jeigu šis pavojus negalėjo būti pašalintas kitomis priemonėmis.
 
 
 
@@ -287,7 +282,7 @@ Nr. XI-1512, 2011-06-23, Žin., 2011, Nr. 86-4154 (2011-07-13), i. k. 1111010IST
 
 
 
-3. Būtinojo reikalingumo nėra, kai karys, atlikdamas savo pareigas, privalo veikti padidėjusio pavojaus sąlygomis. 
+3. Būtinojo reikalingumo nėra, kai karys, atlikdamas savo pareigas, privalo veikti padidėjusio pavojaus sąlygomis.
  
 
 
@@ -298,7 +293,7 @@ Nr. XI-1512, 2011-06-23, Žin., 2011, Nr. 86-4154 (2011-07-13), i. k. 1111010IST
 11 straipsnis. Įsakymo vykdymas ir atsakomybė
 
 
-1. Karys neatsako už žalą, padarytą tinkamai vykdant teisėtą įsakymą. 
+1. Karys neatsako už žalą, padarytą tinkamai vykdant teisėtą įsakymą.
 
 
 
@@ -308,7 +303,7 @@ Nr. XI-1512, 2011-06-23, Žin., 2011, Nr. 86-4154 (2011-07-13), i. k. 1111010IST
 
 
 
-3. Jeigu karys suprato, kad jam duotas neteisėtas įsakymas, jis neturi jo vykdyti ir privalo pranešti apie tai aukštesniam už neteisėtą įsakymą davusįjį vadui (viršininkui). Jeigu nuo kario nepriklausančių aplinkybių to negalima padaryti tuoj pat, tai jis privalo padaryti tokiai galimybei atsiradus.
+3. Jeigu karys suprato, kad jam duotas neteisėtas įsakymas, jis neturi jo vykdyti ir privalo pranešti apie tai aukštesniajam už neteisėtą įsakymą davusįjį vadui (viršininkui). Jeigu nuo kario nepriklausančių aplinkybių to negalima padaryti tuoj pat, tai jis privalo padaryti tokiai galimybei atsiradus.
 
 
 
@@ -324,7 +319,7 @@ Nr. XI-1512, 2011-06-23, Žin., 2011, Nr. 86-4154 (2011-07-13), i. k. 1111010IST
 
 
 IV SKYRIUS
-VADŲ (VIRŠININKŲ) PAREIGOS IR TEISĖS KARIŲ DRAUSMEI UŽTIKRINTI IR ŠIŲ TEISIŲ BEI PAREIGŲ ĮGYVENDINIMO TVARKA
+VADŲ (VIRŠININKŲ) PAREIGOS IR TEISĖS UŽTIKRINTI KARIŲ DRAUSMĘ IR ŠIŲ TEISIŲ IR PAREIGŲ ĮGYVENDINIMO TVARKA
  
 
 
@@ -339,17 +334,16 @@ VADŲ (VIRŠININKŲ) PAREIGOS IR TEISĖS KARIŲ DRAUSMEI UŽTIKRINTI IR ŠIŲ TE
 2. Vadas (viršininkas), sužinojęs apie daromą ar padarytą karių drausmės ar tarptautinės humanitarinės teisės normų pažeidimą, turi imtis visų įstatymuose, kituose teisės aktuose, kariuomenės statutuose ir vadų (viršininkų) įsakymuose numatytų priemonių, kad būtų nustatytas drausmės pažeidimo įvykis, kalti dėl jo padarymo asmenys ir užkirstas kelias žalingoms pasekmėms atsirasti.
  
  
- 
 
 
 
 
 
 
-13 straipsnis. Vado (viršininko) teisės karių drausmei užtikrinti
+13 straipsnis. Vado (viršininko) teisės užtikrinti karių drausmę
 
 
-1. Vado (viršininko) teisės karių drausmei užtikrinti yra šios:
+1. Vado (viršininko) teisės užtikrinti karių drausmę yra šios:
 
 
 1) reikalauti iš karių, pažeidžiančių karių drausmę, nutraukti neteisėtus veiksmus, o prireikus – įstatymų nustatyta tvarka ir atvejais panaudoti šaunamuosius ginklus ir specialiąsias priemones;
@@ -387,19 +381,19 @@ VADŲ (VIRŠININKŲ) PAREIGOS IR TEISĖS KARIŲ DRAUSMEI UŽTIKRINTI IR ŠIŲ TE
 
 
 
-8) nušalinti nuo transporto priemonių vairavimo karius, neturinčius teisės vairuoti transporto priemones, taip pat įtarus, kad karys yra apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų;
+8) nušalinti nuo transporto priemonių vairavimo karius, neturinčius teisės vairuoti transporto priemonių, taip pat įtarus, kad karys yra neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų;
 
 
 
 
-9) įtarus, kad karys yra apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, taikyti teisės aktų nustatytas priemones apsvaigimui nustatyti arba pristatyti juos medicininiam patikrinimui.
+9) įtarus, kad karys yra neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, taikyti teisės aktų nustatytas priemones apsvaigimui ir neblaivumui nustatyti arba pristatyti juos medicininei apžiūrai į sveikatos priežiūros įstaigą, siekiant nustatyti, ar karys yra neblaivus, ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų.
 
 
 
 
 
 
-2. Šio straipsnio 1 dalyje nustatytas teises vadas (viršininkas) įgyvendina tiesiogiai pats ar duodamas įsakymus kariams, taip pat pasitelkdamas karo policiją.
+2. Šio straipsnio 1 dalyje nustatytas teises vadas (viršininkas) įgyvendina tiesiogiai pats ar duodamas įsakymus kariams, taip pat pasitelkdamas Karo policiją.
 
 
 
@@ -414,7 +408,7 @@ VADŲ (VIRŠININKŲ) PAREIGOS IR TEISĖS KARIŲ DRAUSMEI UŽTIKRINTI IR ŠIŲ TE
 
 
 
-5. Karo policininkų teises karių drausmei užtikrinti nustato Karo policijos įstatymas.
+5. Karo policininkų teises užtikrinti karių drausmę nustato Lietuvos Respublikos karo policijos įstatymas.
  
 
 
@@ -425,12 +419,12 @@ VADŲ (VIRŠININKŲ) PAREIGOS IR TEISĖS KARIŲ DRAUSMEI UŽTIKRINTI IR ŠIŲ TE
 14 straipsnis. Kario sulaikymas
 
 
-1. Kario sulaikymas yra veiksmai, kuriais suvaržoma kario laisvė siekiant užkirsti kelią drausmės pažeidimui, apsaugoti karį nuo žalos padarymo sau ir aplinkiniams, taip pat užtikrinti, kad drausmės pažeidimas būtų laiku ištirtas. 
+1. Kario sulaikymas yra veiksmai, kuriais suvaržoma kario laisvė siekiant užkirsti kelią drausmės pažeidimui, apsaugoti karį nuo žalos padarymo sau ir aplinkiniams, taip pat užtikrinti, kad drausmės pažeidimas būtų laiku ištirtas.
 
 
 
 
-2. Karys sulaikomas esant šiems pagrindams:
+2. Karys gali būti sulaikomas, kai yra šie pagrindai:
 
 
 1) užkluptas darant arba įtariamas padaręs nusikalstamą veiką;
@@ -453,7 +447,7 @@ VADŲ (VIRŠININKŲ) PAREIGOS IR TEISĖS KARIŲ DRAUSMEI UŽTIKRINTI IR ŠIŲ TE
 
 
 
-5) yra apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų;
+5) yra neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų;
 
 
 
@@ -463,29 +457,29 @@ VADŲ (VIRŠININKŲ) PAREIGOS IR TEISĖS KARIŲ DRAUSMEI UŽTIKRINTI IR ŠIŲ TE
 
 
 
-7) neturi dokumentų, įrodančių jo asmenybę ir buvimo už karinio vieneto ribų teisėtumą (kario liudijimo, išleidžiamojo lapelio, komandiruotės ar atostogų liudijimo).
+7) neturi dokumentų, įrodančių jo tapatybę ir buvimo už karinio vieneto ribų teisėtumą (kario liudijimo, išleidžiamojo lapelio, komandiruotės ar atostogų liudijimo).
 
 
 
 
 
 
-3. Sulaikytasis karys nedelsiant pristatomas į jo karinį vienetą. Jei karys sulaikomas ne jo karinio vieneto dislokavimo vietoje, jis perduodamas karo policijai arba pristatomas į artimiausią karinį vienetą.
+3. Sulaikytas karys nedelsiant pristatomas į jo karinį vienetą. Jeigu karys sulaikomas ne jo karinio vieneto dislokavimo vietoje, jis perduodamas Karo policijai arba pristatomas į artimiausią karinį vienetą.
 
 
 
 
-4. Pristatytas į karinį vienetą sulaikytasis karys yra perduodamas karinio vieneto budėtojui. Šis surašo sulaikymo protokolą, nedelsdamas praneša sulaikytojo kario karinio vieneto vadui (viršininkui), taip pat imasi kitų neatidėliotinų priemonių drausmės pažeidimui ištirti ar kariui apsaugoti nuo žalos padarymo sau ir aplinkiniams.
+4. Pristatytas į karinį vienetą sulaikytas karys perduodamas karinio vieneto budėtojui. Budėtojas surašo sulaikymo protokolą, nedelsdamas praneša sulaikytojo kario karinio vieneto vadui (viršininkui), taip pat imasi kitų neatidėliotinų priemonių drausmės pažeidimui ištirti ar kariui apsaugoti nuo žalos padarymo sau ir aplinkiniams.
 
 
 
 
-5. Sulaikytasis karys laikomas specialiai tam pritaikytoje patalpoje. 
+5. Sulaikytas karys laikomas specialiai tam pritaikytoje patalpoje.
 
 
 
 
-6. Karys sulaikomas, kol išnyks sulaikymo pagrindas, bet ne ilgiau kaip 24 valandoms.
+6. Karys sulaikomas, iki išnyks sulaikymo pagrindas, bet ne ilgiau kaip 24 valandoms.
 
 
 
@@ -495,12 +489,12 @@ VADŲ (VIRŠININKŲ) PAREIGOS IR TEISĖS KARIŲ DRAUSMEI UŽTIKRINTI IR ŠIŲ TE
 
 
 
-8. Sulaikyti kareivius, seržantus ir viršilas, puskarininkius ir jaunesniuosius karininkus turi teisę kiekvienas karys, turintis karininko laipsnį, o vyresniuosius karininkus – vyresnieji karininkai.
+8. Sulaikyti kareivius (jūreivius), puskarininkius ir jaunesniuosius karininkus turi teisę kiekvienas karys, turintis karininko laipsnį, o vyresniuosius karininkus – vyresnieji karininkai.
 
 
 
 
-9. Sulaikytiesiems kariams turi būti užtikrintos jų teisės, teisėti interesai ir sveikatos apsauga.
+9. Turi būti užtikrintos sulaikytų karių teisės, teisėti interesai ir sveikatos apsauga.
  
 
 
@@ -511,7 +505,7 @@ VADŲ (VIRŠININKŲ) PAREIGOS IR TEISĖS KARIŲ DRAUSMEI UŽTIKRINTI IR ŠIŲ TE
 15 straipsnis. Kitos poveikio priemonės ir jų skyrimo ypatybės
 
 
-1. Kitos poveikio priemonės yra vado (viršininko) taikomos poveikio priemonės, ugdančios karių atsakomybę, įgūdžius ir valią. Jų paskirtis – užkirsti kelią galimiems drausmės pažeidimams, suteikti vadui (viršininkui) galimybę auklėti ir mokyti karius laikytis drausmės bei nepriekaištingai atlikti pareigas.
+1. Kitos poveikio priemonės yra vado (viršininko) taikomos poveikio priemonės, ugdančios karių atsakomybę, įgūdžius ir valią. Jų paskirtis – užkirsti kelią galimiems drausmės pažeidimams, suteikti vadui (viršininkui) galimybę auklėti ir mokyti karius laikytis drausmės ir nepriekaištingai atlikti pareigas.
 
 
 
@@ -536,7 +530,7 @@ VADŲ (VIRŠININKŲ) PAREIGOS IR TEISĖS KARIŲ DRAUSMEI UŽTIKRINTI IR ŠIŲ TE
 
 
 
-4. Papildomi kovinio rengimo pratimai yra poveikio priemonė, vado (viršininko) skiriama kariams, neįgijusiems pagal kovinio rengimo programą būtinų įgūdžių. Papildomų kovinio rengimo pratimų atlikimo tvarką ir leistiną maksimalią trukmę tvirtina kariuomenės vadas.
+4. Papildomi kovinio rengimo pratimai yra poveikio priemonė, vado (viršininko) skiriama kariams, neįgijusiems pagal kovinio rengimo programą būtinų įgūdžių. Papildomų kovinio rengimo pratimų atlikimo tvarką ir leistiną maksimalią trukmę tvirtina Lietuvos kariuomenės vadas.
 
 
 
@@ -552,22 +546,7 @@ VADŲ (VIRŠININKŲ) PAREIGOS IR TEISĖS KARIŲ DRAUSMEI UŽTIKRINTI IR ŠIŲ TE
 16 straipsnis. Kario nušalinimas nuo pareigų
 
 
-1. Karys, įtariamas drausmės pažeidimu, vado (viršininko) įsakymu gali būti nušalinamas nuo pareigų.
-
-
-
-
-2. Nušalinti karį nuo pareigų turi teisę tas vadas (viršininkas), kuriam pagal šį statutą suteikta teisė kariui skirti drausminę nuobaudą. 
-
-
-
-
-3. Nušalintas nuo pareigų profesinės karo tarnybos karys gali būti perkeliamas į laikinąjį profesinės karo tarnybos personalo rezervą.
-
-
-
-
-4. Nušalinimas nuo pareigų taikomas iki drausmės pažeidimo ištyrimo pabaigos ir 2 savaites po jo.
+Karys, įtariamas drausmės pažeidimu, gali būti nušalinamas nuo pareigų Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatyta tvarka.
  
 
 
@@ -578,17 +557,17 @@ VADŲ (VIRŠININKŲ) PAREIGOS IR TEISĖS KARIŲ DRAUSMEI UŽTIKRINTI IR ŠIŲ TE
 
 
 V SKYRIUS
-DRAUSMĖS PAŽEIDIMŲ TYRIMO TVARKA
+DRAUSMĖS PAŽEIDIMŲ IR SKUNDŲ TYRIMO TVARKA
  
 
 
-17 straipsnis. Drausmės pažeidimų tyrimo paskirtis
+17 straipsnis. Drausmės pažeidimų ir skundų tyrimo tikslas
 
 
-Drausmės pažeidimų tyrimo paskirtis:
+Drausmės pažeidimų ir skundų tyrimo tikslas:
 
 
-1) visapusiškai, nuodugniai ir objektyviai ištirti drausmės pažeidimus, jų padarymo priežastis ir sąlygas, nustatyti kaltus asmenis;
+1) visapusiškai, išsamiai ir objektyviai ištirti drausmės pažeidimus, jų padarymo priežastis ir sąlygas, nustatyti kaltus asmenis;
 
 
 
@@ -598,7 +577,12 @@ Drausmės pažeidimų tyrimo paskirtis:
 
 
 
-3) nustatyti drausmės stiprinimo ir drausmės pažeidimų prevencijos priemones.
+3) apginti pažeistas karių teises;
+
+
+
+
+4) nustatyti drausmės stiprinimo ir drausmės pažeidimų prevencijos priemones.
  
 
 
@@ -608,21 +592,54 @@ Drausmės pažeidimų tyrimo paskirtis:
 
 
 
-18 straipsnis. Pareiga atlikti drausmės pažeidimo tyrimą
+18 straipsnis. Drausmės pažeidimų ir skundų tyrimas
 
 
-1. Vadas (viršininkas), sužinojęs apie padarytą drausmės pažeidimą, nedelsdamas privalo pradėti jo tyrimą ir asmeniškai už jį atsako.
+1. Tarnybinis patikrinimas privalo būti pradėtas, kai:
+
+
+1) vadas (viršininkas) gauna informaciją apie kario galimai padarytą drausmės pažeidimą;
+
+
+
+
+2) vadas (viršininkas) ar krašto apsaugos generalinis inspektorius gauna kario skundą šio statuto I dalies VIII skyriuje nustatyta tvarka.
+
+
+
+
+
+
+2. Jeigu drausmės pažeidimo ar skundo tyrimo metu nustatoma nusikalstamos veikos požymių, vadas (viršininkas) nedelsdamas privalo informuoti Karo policiją ir suteikti jai visą ikiteisminiam tyrimui atlikti reikalingą medžiagą.
+
+
+
+
+3. Jeigu drausmės pažeidimo ar skundo tyrimo metu nustatoma administracinio teisės pažeidimo požymių, tyrimo medžiaga perduodama kompetentingiems organams (pareigūnams), įgaliotiems nagrinėti administracinių teisės pažeidimų bylas.
+
+
+
+
+4. Vadas (viršininkas) ar krašto apsaugos generalinis inspektorius, pažeidę drausmės pažeidimų ir skundų tyrimo tvarką, atsako šio statuto nustatyta tvarka.
  
 
 
 
 
-2. Drausmės pažeidimo tyrimo metu nustačius nusikalstamos veikos požymių, vadas (viršininkas) nedelsdamas privalo informuoti karo policiją ir suteikti jai visą ikiteisminiam tyrimui atlikti reikalingą medžiagą.
+
+
+19 straipsnis. Atvejai, kai tarnybinis patikrinimas neatliekamas
+
+
+Tarnybinis patikrinimas neatliekamas:
+
+
+1) dėl drausmės pažeidimų, numatytų šio statuto II dalies II skyriuje, jeigu jie yra akivaizdūs ir neginčijami. Dėl šių pažeidimų sprendimas skirti drausminę nuobaudą priimamas, kai yra drausmės pažeidimą padariusio kario rašytinis paaiškinimas, patvirtinantis drausmės pažeidimo faktą;
 
 
 
 
-3. Vadas (viršininkas), pažeidęs drausmės pažeidimų tyrimo tvarką, atsako šio statuto nustatyta tvarka.
+2) dėl skundo, kuriame pateiktas kario teisių pažeidimas yra akivaizdus ar neginčijamas.
  
 
 
@@ -630,51 +647,37 @@ Drausmės pažeidimų tyrimo paskirtis:
 
 
 
-19 straipsnis. Drausmės pažeidimų tyrimas
 
 
-1. Dėl šiurkščių drausmės pažeidimų, taip pat dėl kitų drausmės pažeidimų, kurie nėra akivaizdūs ar neginčijami, atliekamas tarnybinis patikrinimas.
+20 straipsnis. Tarnybinis patikrinimas
 
 
-
-
-2. Dėl kitų drausmės pažeidimų, kurie yra akivaizdūs ir neginčijami, tarnybinis patikrinimas neatliekamas. Dėl šių pažeidimų sprendimas skirti drausminę nuobaudą priimamas, kai yra drausmės pažeidimą padariusio kario raštiškas paaiškinimas, patvirtinantis drausmės pažeidimo faktą.
- 
+1. Tarnybinį patikrinimą rašytiniu pavedimu (įsakymu, nurodymu ar kt.) skiria vadai (viršininkai), kurie šio statuto nustatyta tvarka turi teisę skirti drausmines nuobaudas, pavesdami jį atlikti pavaldžiam karininkui.
 
 
 
 
-
-
-20 straipsnis. Tarnybinis patikrinimas 
-
-
-1. Tarnybinį patikrinimą dėl drausmės pažeidimo raštišku įsakymu arba raštišku nurodymu skiria vadai (viršininkai), kurie šio statuto nustatyta tvarka turi teisę skirti drausmines nuobaudas.
+2. Krašto apsaugos generalinis inspektorius rašytiniu pavedimu skiria tarnybinį patikrinimą dėl karšto apsaugos generaliniam inspektoriui adresuoto skundo, pavesdamas jį atlikti pavaldžiam karininkui.
 
 
 
 
-2. Tarnybinį patikrinimą atlieka vado (viršininko) įsakymu tam įgaliotas karininkas.
+3. Tarnybinį patikrinimą dėl karininko padarytos ar skundžiamos veikos atlieka to paties ar aukštesnio laipsnio karininkas.
 
 
 
 
-3. Karininko padaryto drausmės pažeidimo tarnybinį patikrinimą atlieka to paties ar aukštesnio laipsnio karininkas. 
+4. Išskirtiniais atvejais ne žemesnio kaip pajėgų vado sprendimu tarnybiniam patikrinimui dėl šiurkščių drausmės pažeidimų atlikti gali būti sudarytos laikinosios komisijos. Laikinosios komisijos nariais gali būti karininkai, turintys tokį patį kaip įvykio dalyvio ar aukštesnį kario laipsnį.
 
 
 
 
-4. Išskirtiniais atvejais ne žemesnio kaip pajėgų vado sprendimu tarnybiniam patikrinimui dėl šiurkščių drausmės pažeidimų atlikti gali būti sudarytos laikinosios tyrimo komisijos iš įvairių karinių vienetų karininkų.
+5. Tarnybinius patikrinimus dėl pulkininkų (jūrų kapitonų) ir generolų (admirolų) padarytų drausmės pažeidimų ar skundžiamų veikų krašto apsaugos ministro rašytiniu pavedimu (įsakymu, nurodymu ar kt.) atlieka krašto apsaugos generalinis inspektorius.
 
 
 
 
-5. Tarnybinius patikrinimus dėl pulkininkų (jūrų kapitonų) ir generolų (admirolų) padarytų drausmės pažeidimų krašto apsaugos ministro įsakymu atlieka Krašto apsaugos ministerijos generalinis inspektorius.
-
-
-
-
-6. Krašto apsaugos ministras generaliniam inspektoriui gali pavesti atlikti tarnybinį patikrinimą dėl kiekvieno laipsnio kario padaryto drausmės pažeidimo.
+6. Krašto apsaugos ministras krašto apsaugos generaliniam inspektoriui gali pavesti atlikti tarnybinį patikrinimą dėl kiekvieno laipsnio kario padaryto drausmės pažeidimo ar skundžiamos veikos. Vykdydamas krašto apsaugos ministro pavedimą, krašto apsaugos generalinis inspektorius gali pavesti jam pavaldžiam karininkui atlikti tyrimo veiksmus.
  
 
 
@@ -688,22 +691,22 @@ Drausmės pažeidimų tyrimo paskirtis:
 1. Karininkas, atliekantis tarnybinį patikrinimą, turi teisę:
 
 
-1) nuvykti į drausmės pažeidimo įvykio vietą ir atlikti jos apžiūrą. Įvykio vietos apžiūros metu galima sudaryti schemas, fotografuoti, filmuoti;
+1) nuvykti į tiriamo įvykio vietą ir ją apžiūrėti. Įvykio vietos apžiūros metu jis gali sudaryti schemas, fotografuoti, filmuoti;
 
 
 
 
-2) apklausti drausmės pažeidimo įvykio dalyvius ir liudytojus;
+2) apklausti tiriamo įvykio dalyvius ir liudytojus;
 
 
 
 
-3) gauti duomenis ir dokumentus (jų nuorašus, išrašus), raštiškus paaiškinimus ir pasitelkti specialistus, reikalingus patikrinimui atlikti;
+3) gauti duomenis ir dokumentus (jų nuorašus, išrašus), rašytinius paaiškinimus ir pasitelkti specialistus, reikalingus tarnybiniam patikrinimui atlikti;
 
 
 
 
-4) apklausti karinių vienetų vadus (viršininkus) dėl atskirų tiriamo drausmės pažeidimo aplinkybių.
+4) apklausti karinių vienetų vadus (viršininkus) dėl atskirų tiriamo įvykio aplinkybių.
 
 
 
@@ -713,47 +716,64 @@ Drausmės pažeidimų tyrimo paskirtis:
 2. Karininkas, atliekantis tarnybinį patikrinimą, privalo:
 
 
-1) visapusiškai, nuodugniai ir objektyviai ištirti drausmės pažeidimo aplinkybes;
+1) visapusiškai, išsamiai ir objektyviai ištirti tiriamo įvykio aplinkybes;
 
 
 
 
-2) tikrinamo drausmės pažeidimo įvykio dalyviams išaiškinti jų teises ir pareigas;
+2) tiriamo įvykio dalyviams išaiškinti jų teises ir pareigas;
 
 
 
 
-3) nedelsdamas informuoti vadą (viršininką), paskyrusį tarnybinį patikrinimą, apie patikrinimo metu nustatytą veiką, turinčią nusikalstamos veikos ar administracinio teisės pažeidimo požymių;
+3) tiriamo įvykio dalyviui atsisakius pateikti paaiškinimus, surašyti šį faktą patvirtinančią pažymą, kurią pasirašytinai patvirtina jis ir ne mažiau kaip du asmenys;
 
 
 
 
-4) saugoti valstybės ir tarnybos paslaptis, taip pat konfidencialias žinias apie asmenis, kurias sužinojo patikrinimo metu.
+4) nedelsdamas informuoti tarnybinį patikrinimą paskyrusį vadą (viršininką) apie patikrinimo metu nustatytą veiką, turinčią nusikalstamos veikos ar administracinio teisės pažeidimo požymių;
+
+
+
+
+5) saugoti valstybės ir tarnybos paslaptis, taip pat konfidencialias apie asmenis žinias, kurias sužinojo tarnybinio patikrinimo metu.
 
 
 
 
 
 
-3. Karininkui draudžiama atlikti tarnybinį patikrinimą, jei:
+3. Karininkui draudžiama atlikti tarnybinį patikrinimą, jeigu:
 
 
-1) jis yra tikrinamo drausmės pažeidimo įvykio dalyvis;
-
-
-
-
-2) jis yra tikrinamo drausmės pažeidimo įvykio dalyvio giminaitis ar šeimos narys;
+1) jis yra tiriamo įvykio dalyvis;
 
 
 
 
-3) jis yra pavaldus tikrinamo drausmės pažeidimo įvykio dalyviui;
+2) jis yra tiriamo įvykio dalyvio sutuoktinis (sugyventinis) arba juos sieja giminystės ar svainystės ryšys;
+
+
+
+
+3) jis yra pavaldus tiriamo įvykio dalyviui;
 
 
 
 
 4) yra kitų aplinkybių, dėl kurių tikrintojas gali būti neobjektyvus.
+
+
+
+
+
+
+4. Jeigu yra šio straipsnio 3 dalyje išdėstytų aplinkybių, karininkas, paskirtas atlikti tarnybinį patikrinimą, nedelsdamas apie tai praneša tarnybinį patikrinimą paskyrusiam vadui (viršininkui), o šis priima sprendimą dėl tikrintojo nušalinimo.
+
+
+
+
+5. Karininkas, atlikęs tarnybinį patikrinimą ir pažeidęs drausmės pažeidimų ir skundų tyrimo tvarką, atsako pagal šį statutą.
  
 
 
@@ -761,23 +781,10 @@ Drausmės pažeidimų tyrimo paskirtis:
 
 
 
-4. Jei yra šio straipsnio 3 dalyje išdėstytų aplinkybių, karininkas, paskirtas atlikti tarnybinį patikrinimą, nedelsdamas apie tai praneša vadui (viršininkui), paskyrusiam patikrinimą, o šis priima sprendimą dėl tikrintojo nušalinimo. 
+22 straipsnis. Tiriamo įvykio dalyviai, jų teisės
 
 
-
-
-5. Karininkas, atlikęs tarnybinį patikrinimą ir pažeidęs drausmės pažeidimų tyrimo tvarką, atsako pagal šį statutą.
- 
-
-
-
-
-
-
-22 straipsnis. Drausmės pažeidimo įvykio dalyviai, jų teisės
-
-
-1. Drausmės pažeidimo įvykio dalyviai yra asmenys, dalyvavę padarant tikrinamąjį drausmės pažeidimą, atlikę veiksmus ar atsakingi už juos, taip pat asmenys, prieš kuriuos buvo nukreiptas drausmės pažeidimas. Jie turi šias teises:
+1. Tiriamo įvykio dalyviai yra kariai, įtariami dalyvavę padarant drausmės pažeidimą ar kitą skundžiamą veiką, taip pat asmenys, į kuriuos buvo nukreiptas drausmės pažeidimas ar kitaip pažeistos jų teisės. Jie turi šias teises:
 
 
 1) teikti paaiškinimus, prašymus ir įrodymus;
@@ -785,24 +792,24 @@ Drausmės pažeidimų tyrimo paskirtis:
 
 
 
-2) pateikti tarnybinį patikrinimą skyrusiam vadui (viršininkui) motyvuotą raštišką prašymą dėl karininko, atliekančio tarnybinį patikrinimą, nušalinimo;
+2) pateikti tarnybinį patikrinimą paskyrusiam vadui (viršininkui) motyvuotą rašytinį prašymą dėl karininko, atliekančio tarnybinį patikrinimą, nušalinimo;
 
 
 
 
-3) susipažinti su tarnybinio patikrinimo medžiaga (su įslaptinta informacija asmenys supažindinami Valstybės ir tarnybos paslapčių įstatymo, taip pat kitų teisės aktų nustatyta tvarka);
+3) susipažinti su tarnybinio patikrinimo medžiaga (su įslaptinta informacija asmenys supažindinami Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo, taip pat kitų teisės aktų nustatyta tvarka);
 
 
 
 
-4) šio statuto nustatyta tvarka apskųsti karininko, atliekančio patikrinimą, veiksmus, taip pat ir tarnybinio patikrinimo rezultatus.
+4) šio statuto ir kitų teisės aktų nustatyta tvarka apskųsti karininko, atliekančio patikrinimą, veiksmus, taip pat ir tarnybinio patikrinimo rezultatus.
 
 
 
 
 
 
-2. Gavęs prašymą dėl karininko, atliekančio tarnybinį patikrinimą, nušalinimo, vadas (viršininkas) nedelsdamas įvertina motyvus ir priima prašymą tenkinantį arba atmetantį sprendimą. Apie vado (viršininko) sprendimą nedelsiant pranešama prašymą pateikusiam asmeniui.
+2. Gavęs prašymą dėl karininko, atliekančio tarnybinį patikrinimą, nušalinimo, vadas (viršininkas) nedelsdamas įvertina motyvus ir priima sprendimą tenkinti arba atmesti prašymą. Apie vado (viršininko) sprendimą nedelsiant pranešama prašymą pateikusiam asmeniui.
  
 
 
@@ -816,12 +823,12 @@ Drausmės pažeidimų tyrimo paskirtis:
 Tarnybinio patikrinimo metu nustatomos šios aplinkybės:
 
 
-1) drausmės pažeidimo įvykio laikas, vieta;
+1) tiriamo įvykio laikas, vieta;
 
 
 
 
-2) drausmės pažeidimo įvykio dalyviai ir jų veiksmai;
+2) tiriamo įvykio dalyviai ir jų veiksmai;
 
 
 
@@ -831,7 +838,7 @@ Tarnybinio patikrinimo metu nustatomos šios aplinkybės:
 
 
 
-4) kalti dėl drausmės pažeidimo padarymo asmenys, įrodymai, kaltės forma, veikos tikslai ir motyvai;
+4) kalti dėl drausmės ir (ar) karių teisių pažeidimo padarymo asmenys, įrodymai, kaltės forma, veikos tikslai ir motyvai;
 
 
 
@@ -846,12 +853,12 @@ Tarnybinio patikrinimo metu nustatomos šios aplinkybės:
 
 
 
-7) drausmės pažeidimo sąlygos ir priežastys;
+7) drausmės ir (ar) karių teisių pažeidimo sąlygos ir priežastys;
 
 
 
 
-8) drausmės pažeidimo pasekmės, padarytos žalos dydis.
+8) drausmės ir (ar) karių teisių pažeidimo pasekmės, padarytos žalos dydis.
  
 
 
@@ -864,12 +871,12 @@ Tarnybinio patikrinimo metu nustatomos šios aplinkybės:
 24 straipsnis. Liudytojas
 
 
-1. Liudytojas yra kiekvienas asmuo, kuriam yra žinomos drausmės pažeidimo tyrimui svarbios aplinkybės.
+1. Liudytojas yra kiekvienas asmuo, kuriam yra žinomos tyrimui svarbios aplinkybės.
 
 
 
 
-2. Liudytoju negali būti asmuo, kuris pagal sveikatos priežiūros įstaigos pažymą arba teismo psichiatro ar teismo mediko išvadą dėl fizinių ar psichinių trūkumų nesugeba teisingai suvokti reikšmingų bylai aplinkybių ir duoti dėl jų parodymus.
+2. Liudytoju negali būti asmuo, kuris pagal sveikatos priežiūros įstaigos pažymą arba teismo psichiatro ar teismo mediko išvadą dėl fizinių ar psichinių trūkumų nesugeba teisingai suvokti reikšmingų bylai aplinkybių ir duoti dėl jų parodymų.
  
 
 
@@ -880,7 +887,7 @@ Tarnybinio patikrinimo metu nustatomos šios aplinkybės:
 25 straipsnis. Įrodymai
 
 
-Drausmės pažeidimo įrodymai yra visi faktiniai duomenys, kuriais remiantis nustatoma, ar yra padarytas drausmės pažeidimas, dėl jo padarymo kaltas asmuo, taip pat kitos aplinkybės, turinčios reikšmės drausmės pažeidimui nustatyti.
+Įrodymai yra visi faktiniai duomenys, kuriais remiantis nustatoma, ar yra padarytas drausmės ir (ar) karių teisių pažeidimas, dėl jo padarymo kaltas asmuo, taip pat kitos aplinkybės, turinčios reikšmės drausmės pažeidimui nustatyti ir kario teisėms apginti.
  
 
 
@@ -891,23 +898,22 @@ Drausmės pažeidimo įrodymai yra visi faktiniai duomenys, kuriais remiantis nu
 26 straipsnis. Tarnybinio patikrinimo išvada
 
 
-1. Baigus tarnybinį patikrinimą dėl drausmės pažeidimo, surašoma tarnybinio patikrinimo išvada. 
+1. Baigus tarnybinį patikrinimą dėl drausmės pažeidimo ar skundo, rašoma tarnybinio patikrinimo išvada.
 
 
 
 
-2. Tarnybinio patikrinimo išvadoje nurodoma jos surašymo vieta ir laikas. Tarnybinio patikrinimo išvadą pasirašo patikrinimą atlikęs karininkas.
- 
+2. Tarnybinio patikrinimo išvadoje nurodoma jos rašymo vieta ir laikas. Tarnybinio patikrinimo išvadą pasirašo patikrinimą atlikęs karininkas.
 
 
 
 
-3. Tarnybinio patikrinimo išvada kartu su visa patikrinimo metu surinkta medžiaga perduodama patikrinimą skyrusiam vadui (viršininkui).
+3. Tarnybinio patikrinimo išvada kartu su visa patikrinimo metu surinkta medžiaga perduodama patikrinimą paskyrusiam vadui (viršininkui).
 
 
 
 
-4. Tarnybinio patikrinimo išvada susideda iš aprašomosios, rezoliucinės ir rekomendacinės dalių.
+4. Tarnybinio patikrinimo išvadą sudaro aprašomoji, rezoliucinė ir rekomendacinė dalys.
 
 
 
@@ -915,22 +921,22 @@ Drausmės pažeidimo įrodymai yra visi faktiniai duomenys, kuriais remiantis nu
 5. Tarnybinio patikrinimo išvados aprašomojoje dalyje išdėstoma:
 
 
-1) drausmės pažeidimo esmė, vieta, laikas, veikos būdai, tikslai, motyvai, pasekmės ir kitos esminės aplinkybės;
+1) tiriamo įvykio esmė, vieta, laikas, veikos būdai, tikslai, motyvai, pasekmės ir kitos esminės aplinkybės;
 
 
 
 
-2) įrodymai, patvirtinantys arba paneigiantys drausmės pažeidimo įvykį ir pažeidėjo kaltumą;
+2) įrodymai, patvirtinantys arba paneigiantys drausmės ir (ar) karių teisių pažeidimo įvykį ir pažeidėjo kaltumą;
 
 
 
 
-3) drausmės pažeidėjo paaiškinimai, jo nurodomi apsigynimo argumentai ir jų patikrinimo rezultatai;
+3) kario, įtariamo drausmės pažeidimo ar kitos skundžiamos veikos padarymu, paaiškinimai, jo apsigynimo argumentai ir jų patikrinimo rezultatai;
 
 
 
 
-4) drausmės pažeidėjo atsakomybę lengvinančios ir sunkinančios aplinkybės.
+4) atsakomybę lengvinančios ir sunkinančios aplinkybės.
 
 
 
@@ -940,37 +946,42 @@ Drausmės pažeidimo įrodymai yra visi faktiniai duomenys, kuriais remiantis nu
 6. Tarnybinio patikrinimo išvados rezoliucinėje dalyje išdėstoma:
 
 
-1) duomenys, apibūdinantys drausmės pažeidėją (vardas, pavardė, kario laipsnis, tarnybos vieta ir pareigos, turimos nuobaudos ir paskatinimai);
+1) kario, įtariamo drausmės pažeidimo ar kitos skundžiamos veikos padarymu, duomenys (vardas, pavardė, kario laipsnis, tarnybos vieta ir pareigos, turimos nuobaudos ir paskatinimai);
 
 
 
 
-2) šio statuto arba Administracinių teisės pažeidimų kodekso straipsnis, numatantis padarytą drausmės pažeidimą.
+2) šio statuto straipsnis, numatantis padarytą drausmės pažeidimą.
 
 
 
 
 
 
-7. Tarnybinio patikrinimo rekomendacinėje dalyje išdėstoma:
+7. Tarnybinio patikrinimo išvados rekomendacinėje dalyje išdėstoma:
 
 
-1) siūloma skirti drausminė nuobauda;
-
-
-
-
-2) siūlomos prevencinės priemonės drausmės pažeidimo sąlygoms ir priežastims pašalinti;
+1) siūlomas sprendimas, kaip apginti pažeistas kario teises, jeigu toks pažeidimas buvo nustatytas tarnybinio patikrinimo metu;
 
 
 
 
-3) siūlymas pranešti karo policijai apie nustatytus nusikalstamos veikos požymius, pateikti jai visą ikiteisminiam tyrimui atlikti reikalingą medžiagą;
+2) siūloma skirti drausminė nuobauda;
 
 
 
 
-4) nesant galimybių nustatyti ar nenustačius drausmės pažeidimo fakto arba drausmės pažeidėjo, siūlymas nutraukti tarnybinį patikrinimą.
+3) siūlomos prevencinės priemonės drausmės pažeidimo sąlygoms ir priežastims pašalinti;
+
+
+
+
+4) siūlymas pranešti Karo policijai apie nustatytus nusikalstamos veikos požymius, pateikti jai visą ikiteisminiam tyrimui atlikti reikalingą medžiagą, jeigu nusikalstamos veikos požymiai buvo nustatyti tarnybinio patikrinimo metu;
+
+
+
+
+5) siūlymas nutraukti tarnybinį patikrinimą, jeigu nėra galimybių nustatyti drausmės pažeidimo faktą ar drausmės pažeidėją arba drausmės pažeidimo faktas ar drausmės pažeidėjas nenustatomas.
  
 
 
@@ -983,7 +994,7 @@ Drausmės pažeidimo įrodymai yra visi faktiniai duomenys, kuriais remiantis nu
 27 straipsnis. Tarnybinio patikrinimo įvertinimas ir įgyvendinimas
 
 
-1. Tarnybinį patikrinimą vadas (viršininkas) įvertina vadovaudamasis visapusišku, nuodugniu ir objektyviu visų drausmės pažeidimo aplinkybių nagrinėjimu, įstatymu ir teisine sąmone.
+1. Tarnybinį patikrinimą vadas (viršininkas) ar krašto apsaugos generalinis inspektorius įvertina vadovaudamasis visapusišku, nuodugniu ir objektyviu visų drausmės pažeidimo aplinkybių nagrinėjimu, įstatymu ir teisine sąmone.
 
 
 
@@ -991,7 +1002,7 @@ Drausmės pažeidimo įrodymai yra visi faktiniai duomenys, kuriais remiantis nu
 2. Įvertinęs tarnybinį patikrinimą, vadas (viršininkas):
 
 
-1) patvirtina tarnybinio patikrinimo išvadą, skiria drausminę nuobaudą ir imasi priemonių prevencinėms priemonėms įgyvendinti;
+1) patvirtina tarnybinio patikrinimo išvadą, priima sprendimą apginti pažeistas kario teises, skiria drausminę nuobaudą drausmės pažeidėjui ir įgyvendina prevencines priemones;
 
 
 
@@ -1002,9 +1013,34 @@ Drausmės pažeidimo įrodymai yra visi faktiniai duomenys, kuriais remiantis nu
 
 
 3) nutraukia tarnybinį patikrinimą.
+
+
+
+
+
+
+3. Krašto apsaugos generalinis inspektorius, įvertinęs jo paskirtą tarnybinį patikrinimą:
+
+
+1) patvirtina tarnybinio patikrinimo išvadą ir ją perduoda vadui (viršininkui), turinčiam teisę priimti atitinkamus sprendimus, kad jis įgyvendintų tarnybinio patikrinimo išvados rekomendacinę dalį;
+
+
+
+
+2) grąžina tarnybinio patikrinimo medžiagą ir išvadą tyrimui papildyti;
+
+
+
+
+3) nutraukia tarnybinį patikrinimą.
+
+
+
+
+
+
+4. Sprendimas apginti pažeistas kario teises, nustatytas tarnybinio patikrinimo metu dėl kario skundo, priimamas šio statuto I dalies VIII skyriuje nustatyta tvarka.
  
-
-
 
 
 
@@ -1014,22 +1050,32 @@ Drausmės pažeidimo įrodymai yra visi faktiniai duomenys, kuriais remiantis nu
 28 straipsnis. Tarnybinio patikrinimo atlikimo terminai
 
 
-1. Tarnybinis patikrinimas dėl drausmės pažeidimo turi būti atliktas ne vėliau kaip per mėnesį nuo tos dienos, kai vadas (viršininkas) raštišku įsakymu arba raštišku nurodymu skyrė tarnybinį patikrinimą.
+1. Tarnybinis patikrinimas dėl drausmės pažeidimo ar skundo turi būti atliktas ne vėliau kaip per mėnesį nuo tos dienos, kai vadas (viršininkas) ar krašto apsaugos generalinis inspektorius rašytiniu pavedimu skyrė tarnybinį patikrinimą arba jį atnaujino, kai yra šio straipsnio 5 dalyje numatyti pagrindai.
 
 
 
 
-2. Tarnybinio patikrinimo dėl kelių drausmės pažeidimų arba kai drausmės pažeidimas yra padarytas grupės karių, terminą, nurodytą šio straipsnio 1 dalyje, vadas (viršininkas) gali pratęsti, bet ne ilgiau kaip mėnesiui.
+2. Tarnybinio patikrinimo dėl kelių drausmės pažeidimų arba kai drausmės pažeidimas yra padarytas grupės karių, taip pat kai būtina gauti iš kitų institucijų ar specialistų patikrinimui atlikti reikalingą informaciją ir ekspertų išvadas terminą, nurodytą šio straipsnio 1 dalyje, vadas (viršininkas) ar krašto apsaugos generalinis inspektorius gali pratęsti, bet ne ilgiau kaip mėnesiui.
 
 
 
 
-3. Kai dėl tarnybinio būtinumo, patikrinimą atliekančio karininko nušalinimo ar ligos tarnybinį patikrinimą atlikti pavedama kitam karininkui, taip pat kai tarnybinio patikrinimo medžiaga ir išvada grąžinama tyrimui papildyti, vadas (viršininkas) nustato naują terminą. Naujas terminas nustatomas laikantis šio straipsnio 1 dalyje nustatytų ribų ir skaičiuojamas nuo raštiško įsakymo arba raštiško nurodymo atlikti tarnybinį patikrinimą kitam karininkui ar grąžinti tarnybinio patikrinimo medžiagą ir išvadas tyrimui papildyti dienos.
+3. Kai dėl tarnybinio būtinumo, patikrinimą atliekančio karininko nušalinimo ar ligos tarnybinį patikrinimą atlikti pavedama kitam karininkui, taip pat kai tarnybinio patikrinimo medžiaga ir išvada grąžinama tyrimui papildyti, vadas (viršininkas) ar krašto apsaugos generalinis inspektorius nustato naują terminą. Naujas terminas nustatomas laikantis šio straipsnio 1 dalyje nustatytų ribų ir skaičiuojamas nuo rašytinio įsakymo arba rašytinio nurodymo atlikti tarnybinį patikrinimą kitam karininkui ar grąžinti tarnybinio patikrinimo medžiagą ir išvadas tyrimui papildyti dienos.
 
 
 
 
-4. Kario, įtariamo padarius drausmės pažeidimą, liga nėra pagrindas sustabdyti tarnybinį patikrinimą. Kai karys, įtariamas padaręs drausmės pažeidimą, dėl sveikatos būklės negali pateikti paaiškinimo ir yra tai patvirtinanti gydančio gydytojo pažyma, tarnybinis patikrinimas sustabdomas iki jo sustabdymo priežasties išnykimo.
+4. Kario, įtariamo drausmės pažeidimo padarymu, liga nėra pagrindas sustabdyti tarnybinį patikrinimą. Kai karys, įtariamas drausmės pažeidimo padarymu, dėl sveikatos būklės negali pateikti paaiškinimo ir yra tai patvirtinanti gydančio gydytojo pažyma, tarnybinis patikrinimas sustabdomas, iki išnyks jo sustabdymo priežastis.
+
+
+
+
+5. Kai paaiškėja, kad drausmės pažeidimas turi nusikalstamos veikos požymių, pažeidimo tyrimas sustabdomas ir tarnybinio patikrinimo medžiaga perduodama ikiteisminio tyrimo įstaigai. Jeigu ikiteisminis tyrimas nutraukiamas, asmuo atleidžiamas nuo baudžiamosios atsakomybės arba priimamas išteisinamasis ar apkaltinamasis nuosprendis ir yra pasibaigęs baudžiamasis procesas, tai nuo prokuroro ar teismo atitinkamų sprendimų priėmimo dienos drausmės pažeidimo tyrimas atnaujinamas ir nustatomas naujas terminas laikantis šio straipsnio 1 ir 2 dalyse nustatytų terminų.
+
+
+
+
+6. Jeigu tarnybinis patikrinimas buvo pradėtas dėl kario skundo, apie tarnybinio patikrinimo sustabdymą, atnaujinimą ar pratęsimą kariui pranešama raštu.
  
 
 
@@ -1040,7 +1086,7 @@ Drausmės pažeidimo įrodymai yra visi faktiniai duomenys, kuriais remiantis nu
 29 straipsnis. Tarnybinio patikrinimo atlikimo kontrolė
 
 
-1. Tarnybinio patikrinimo eigą kontroliuoja vadas (viršininkas), paskyręs tarnybinį patikrinimą. Vadas (viršininkas):
+1. Tarnybinio patikrinimo eigą kontroliuoja tarnybinį patikrinimą paskyręs vadas (viršininkas) ar krašto apsaugos generalinis inspektorius. Vadas (viršininkas) ar krašto apsaugos generalinis inspektorius:
 
 
 1) nustato tarnybinio patikrinimo laiką, o prireikus jį pratęsia;
@@ -1048,7 +1094,7 @@ Drausmės pažeidimo įrodymai yra visi faktiniai duomenys, kuriais remiantis nu
 
 
 
-2) atsiradus šio statuto 21 straipsnio 3 dalyje nustatytoms aplinkybėms, sprendžia klausimą dėl karininko, atliekančio tarnybinį patikrinimą, nušalinimo;
+2) sprendžia klausimą dėl karininko, atliekančio tarnybinį patikrinimą, nušalinimo, atsiradus šio statuto 21 straipsnio 3 dalyje nustatytų aplinkybių;
 
 
 
@@ -1065,12 +1111,12 @@ Drausmės pažeidimo įrodymai yra visi faktiniai duomenys, kuriais remiantis nu
 
 
 
-2. Vadų (viršininkų) veiksmus tiriant drausmės pažeidimus kontroliuoja Krašto apsaugos ministerijos generalinis inspektorius. Jis gali duoti nurodymus pašalinti drausmės pažeidimų tyrimo trūkumus. 
+2. Vadų (viršininkų) paskirtus drausmės pažeidimų ir skundų tyrimus kontroliuoja aukštesni vadai (viršininkai) ir krašto apsaugos generalinis inspektorius, kurie turi teisę duoti nurodymus pašalinti tarnybinio patikrinimo trūkumus.
 
 
 
 
-3. Generalinio inspektoriaus atliekamus drausmės pažeidimų tyrimus kontroliuoja krašto apsaugos ministras.
+3. Krašto apsaugos generalinio inspektoriaus atliekamus tarnybinius patikrinimus kontroliuoja krašto apsaugos ministras.
  
 
 
@@ -1114,7 +1160,7 @@ DRAUSMINĖS NUOBAUDOS
 31 straipsnis. Drausminių nuobaudų rūšys
 
 
-1. Privalomosios pradinės karo tarnybos ar profesinės karo tarnybos kariui, padariusiam drausmės pažeidimą, skiriamos šios drausminės nuobaudos:
+1. Privalomosios karo tarnybos ar profesinės karo tarnybos kariui, padariusiam drausmės pažeidimą, skiriamos šios drausminės nuobaudos:
 
 
 1) papeikimas;
@@ -1162,7 +1208,7 @@ DRAUSMINĖS NUOBAUDOS
 
 
 
-3) atsargos kario laipsnio pažeminimas. 
+3) atsargos kario laipsnio pažeminimas.
 
 
 
@@ -1182,7 +1228,7 @@ DRAUSMINĖS NUOBAUDOS
 
 
 
-2) papildomos tarnybos užduotys; 
+2) papildomos tarnybos užduotys;
 
 
 
@@ -1202,7 +1248,7 @@ DRAUSMINĖS NUOBAUDOS
 
 
 
-6) pašalinimas iš karo mokymo įstaigos. 
+6) pašalinimas iš karo mokymo įstaigos.
  
 
 
@@ -1226,17 +1272,17 @@ Papeikimas yra švelniausia drausminė nuobauda, kuria neigiamai įvertinamas ka
 33 straipsnis. Papildomos tarnybos užduotys
 
 
-1. Papildomos tarnybos užduotys yra vado (viršininko) įpareigojimas kariui už padarytą drausmės pažeidimą neatlygintinai atlikti būtinas tarnybos užduotis. 
+1. Papildomos tarnybos užduotys yra vado (viršininko) įpareigojimas kariui už padarytą drausmės pažeidimą neatlygintinai atlikti būtinas tarnybos užduotis.
 
 
 
 
-2. Papildomų tarnybos užduočių laiką ir trukmę nustato vadas (viršininkas), skirdamas šią drausminę nuobaudą, bet ne ilgiau kaip 4 valandas laisvu nuo tarnybos laiku karinio vieneto teritorijoje.
+2. Papildomų tarnybos užduočių laiką ir trukmę nustato vadas (viršininkas), skirdamas šią drausminę nuobaudą, bet ne ilgiau kaip 4 valandų laisvu nuo tarnybos laiku karinio vieneto teritorijoje.
 
 
 
 
-3. Papildomas tarnybos užduotis parenka vadas (viršininkas), skyręs šią drausminę nuobaudą, arba jo įgaliotas asmuo. 
+3. Papildomas tarnybos užduotis parenka šią drausminę nuobaudą paskyręs vadas (viršininkas) arba jo įgaliotas asmuo.
  
 
 
@@ -1247,12 +1293,12 @@ Papeikimas yra švelniausia drausminė nuobauda, kuria neigiamai įvertinamas ka
 34 straipsnis. Uždraudimas išeiti iš tarnybos vietos
 
 
-1. Uždraudimas išeiti iš tarnybos vietos yra laisvės suvaržymas teritorinėmis karinio vieneto ribomis, taip pat uždraudimas lankyti tam tikras nustatytas vietas arba renginius karinio vieneto teritorijoje. 
+1. Uždraudimas išeiti iš tarnybos vietos yra laisvės suvaržymas teritorinėmis karinio vieneto ribomis, taip pat uždraudimas lankyti tam tikras nustatytas vietas arba renginius karinio vieneto teritorijoje.
 
 
 
 
-2. Uždraudimas išeiti iš tarnybos vietos nustatomas iki 30 parų.
+2. Uždraudžiama išeiti iš tarnybos vietos iki 30 parų.
 
 
 
@@ -1278,7 +1324,7 @@ Papeikimas yra švelniausia drausminė nuobauda, kuria neigiamai įvertinamas ka
 
 
 
-2. Tarnybinis atlyginimas ar stipendija gali būti sumažinti ne daugiau kaip trečdaliu ir ne ilgiau kaip trims mėnesiams. Sumažinus tarnybinį atlyginimą, likusi jo dalis turi būti ne mažesnė kaip 1 MMA, o sumažinus stipendiją, likusi jos dalis turi būti ne mažesnė kaip 1 MGL.
+2. Tarnybinis atlyginimas ar stipendija gali būti sumažinti ne daugiau kaip trečdaliu ir ne ilgiau kaip trims mėnesiams. Sumažinus tarnybinį atlyginimą, likusi jo dalis turi būti ne mažesnė kaip viena minimalioji mėnesinė alga, o sumažinus stipendiją, likusi jos dalis turi būti ne mažesnė kaip viena bazinė socialinė išmoka.
 
 
 
@@ -1291,7 +1337,7 @@ Papeikimas yra švelniausia drausminė nuobauda, kuria neigiamai įvertinamas ka
 
 
 
-36 straipsnis. Kario laipsnio pažeminimas 
+36 straipsnis. Kario laipsnio pažeminimas
 
 
 1. Kario laipsnio pažeminimas yra drausminė nuobauda, skiriama kariui už šiurkštų drausmės pažeidimą.
@@ -1312,7 +1358,7 @@ Papeikimas yra švelniausia drausminė nuobauda, kuria neigiamai įvertinamas ka
 
 
 
-37 straipsnis. Atleidimas iš pareigų 
+37 straipsnis. Atleidimas iš pareigų
 
 
 1. Atleidimas iš pareigų yra drausminė nuobauda, skiriama kariūnui už šiurkštų drausmės pažeidimą.
@@ -1332,14 +1378,11 @@ Papeikimas yra švelniausia drausminė nuobauda, kuria neigiamai įvertinamas ka
 
 
 1. Atleidimas iš tarnybos yra drausminė nuobauda, skiriama kariui už šiurkštų drausmės pažeidimą.
- 
 
 
 
 
-2. Atleidžiant iš tarnybos, nutraukiama profesinės karo tarnybos, kario savanorio ar aktyviojo rezervo kario sutartis.
-Straipsnio dalies pakeitimai:
-Nr. XI-1512, 2011-06-23, Žin., 2011, Nr. 86-4154 (2011-07-13), i. k. 1111010ISTA0XI-1512
+2. Atleidžiant iš tarnybos, nutraukiama profesinės karo tarnybos, kario savanorio ar kito aktyviojo rezervo kario sutartis.
  
 
 
@@ -1373,32 +1416,37 @@ DRAUSMINIŲ NUOBAUDŲ SKYRIMO IR VYKDYMO TVARKA
 
 
 
-2. Skirdamas drausminę nuobaudą už Administracinių teisės pažeidimų kodekse apibrėžtą veiką, už kurią numatyta atsakomybė pagal drausmės statutus, vadas (viršininkas) vadovaujasi Administracinių teisės pažeidimų kodekso straipsniu, numatančiu karių atsakomybę pagal drausmės statutus, ir šio statuto I dalies bendrosiomis nuostatomis. Už administracinį teisės pažeidimą skiriama viena iš šio statuto I dalies VI skyriuje nustatytų drausminių nuobaudų. Ji parenkama atsižvelgus į šio straipsnio 7 dalyje nurodytas aplinkybes.
+2. Pagrindas skirti drausminę nuobaudą yra šio statuto nustatyta tvarka atlikto tarnybinio patikrinimo išvada arba pažeidimą padariusio kario rašytinis paaiškinimas, patvirtinantys šiame statute numatyto drausmės pažeidimo faktą.
 
 
 
 
-3. Pagrindas skirti drausminę nuobaudą yra šio statuto nustatyta tvarka atlikto tarnybinio patikrinimo išvada arba pažeidimą padariusio kario raštiškas paaiškinimas, patvirtinantys šiame statute numatyto drausmės pažeidimo faktą.
+3. Jeigu vadas (viršininkas) nustatė, kad jam pavaldus karys padarė drausmės pažeidimą, už kurį turi būti skiriama griežtesnė drausminė nuobauda, negu jam suteikta teisė skirti, jis drausmės pažeidimo tyrimo medžiagą ir išvadą perduoda aukštesniajam vadui (viršininkui), kad šis skirtų drausminę nuobaudą.
 
 
 
 
-4. Jeigu vadas (viršininkas) nustatė, kad jam pavaldus karys padarė drausmės pažeidimą, už kurį turi būti skiriama griežtesnė drausminė nuobauda, negu jam suteikta teisė skirti, jis drausmės pažeidimo tyrimo medžiagą ir išvadą perduoda aukštesniam vadui (viršininkui), kad šis skirtų drausminę nuobaudą. 
+4. Vadų (viršininkų) sprendimus skirti drausminę nuobaudą kontroliuoja aukštesnysis vadas (viršininkas) ir krašto apsaugos generalinis inspektorius. Aukštesnysis vadas (viršininkas) savo iniciatyva arba krašto apsaugos generalinio inspektoriaus teikimu:
+
+
+1) sugriežtina paskirtą drausminę nuobaudą, neviršydamas šio statuto nustatytos sankcijos už padarytą drausmės pažeidimą, jeigu įvertinęs šio straipsnio 7 dalyje nurodytas aplinkybes nusprendžia, kad buvo paskirta aiškiai per švelni drausminė nuobauda. Vadas (viršininkas), skirdamas griežtesnę drausminę nuobaudą, atsižvelgia į kariui paskirtą ir įvykdytą drausminę nuobaudą. Drausminė nuobauda negali būti griežtinama, jeigu nuo jos paskyrimo praėjo daugiau negu 30 dienų;
 
 
 
 
-5. Vadų (viršininkų) sprendimus skirti drausminę nuobaudą kontroliuoja aukštesnis vadas (viršininkas) ir generalinis inspektorius. Aukštesnis vadas (viršininkas) savo iniciatyva arba generalinio inspektoriaus teikimu turi teisę sugriežtinti paskirtą drausminę nuobaudą, neviršydamas šio statuto nustatytos sankcijos už padarytą drausmės pažeidimą, jei įvertinęs šio straipsnio 7 dalyje nurodytas aplinkybes nusprendžia, kad buvo paskirta aiškiai per švelni drausminė nuobauda. Vadas (viršininkas), skirdamas griežtesnę drausminę nuobaudą, atsižvelgia į kariui paskirtą ir atliktą drausminę nuobaudą. Drausminė nuobauda negali būti griežtinama, jei nuo jos paskyrimo praėjo daugiau nei 30 dienų. 
+2) panaikina paskirtą drausminę nuobaudą, jeigu, ištyrus kario skundą, nustatoma, kad drausminė nuobauda paskirta pažeidžiant šio statuto ir kitų įstatymų nustatytus reikalavimus.
 
 
 
 
-6. Tais atvejais, kai šiame statute už tam tikrą drausmės pažeidimą numatyta konkreti drausminė nuobauda nesuteikia vadui (viršininkui) galimybės rinktis iš kelių alternatyvių drausminių nuobaudų, arba kai vadas (viršininkas) nustato, kad skirta per griežta drausminė nuobauda, kario vado (viršininko) arba generalinio inspektoriaus teikimu, taip pat paties kario prašymu krašto apsaugos ministras ar kariuomenės vadas, atsižvelgdami į šio straipsnio 7 dalyje nurodytas aplinkybes, turi teisę skirti švelnesnę šio statuto 31 straipsnyje numatytą drausminę nuobaudą. Kai krašto apsaugos ministras ar kariuomenės vadas priima sprendimą skirti švelnesnę drausminę nuobaudą, už tą drausmės pažeidimą anksčiau paskirta drausminė nuobauda laikoma netekusia galios, o ta nuobauda apribotos, atimtos ar suvaržytos kario teisės atkuriamos tiek, kiek drausminė nuobauda švelninama. Drausminė nuobauda negali būti sušvelninama, jei nuo jos paskyrimo praėjo daugiau nei 30 dienų.
+
+
+5. Tais atvejais, kai šiame statute už tam tikrą drausmės pažeidimą numatyta konkreti drausminė nuobauda nesuteikia vadui (viršininkui) galimybės rinktis iš kelių alternatyvių drausminių nuobaudų arba kai vadas (viršininkas) nustato, kad skirta per griežta drausminė nuobauda, kario vado (viršininko) arba krašto apsaugos generalinio inspektoriaus teikimu, taip pat paties kario prašymu krašto apsaugos ministras ar Lietuvos kariuomenės vadas, atsižvelgdami į šio straipsnio 6 dalyje nurodytas aplinkybes, turi teisę skirti švelnesnę šio statuto 31 straipsnyje numatytą drausminę nuobaudą. Kai krašto apsaugos ministras ar Lietuvos kariuomenės vadas priima sprendimą skirti švelnesnę drausminę nuobaudą, už tą drausmės pažeidimą anksčiau paskirta drausminė nuobauda laikoma netekusia galios, o ta nuobauda apribotos, atimtos ar suvaržytos kario teisės atkuriamos tiek, kiek drausminė nuobauda švelninama. Drausminė nuobauda negali būti sušvelninama, jeigu nuo jos paskyrimo praėjo daugiau negu 30 dienų.
 
 
 
 
-7. Skirdamas drausminę nuobaudą, vadas (viršininkas) atsižvelgia į:
+6. Skirdamas drausminę nuobaudą, vadas (viršininkas) atsižvelgia į:
 
 
 1) padaryto drausmės pažeidimo pobūdį;
@@ -1417,14 +1465,13 @@ DRAUSMINIŲ NUOBAUDŲ SKYRIMO IR VYKDYMO TVARKA
 
 
 4) atsakomybę lengvinančias ir sunkinančias aplinkybes.
- 
 
 
 
 
 
 
-8. Drausminė nuobauda neskiriama, jei nuo drausmės pažeidimo padarymo praėjo vieni metai.
+7. Drausminė nuobauda neskiriama, jeigu nuo drausmės pažeidimo padarymo praėjo vieni metai. Jeigu drausmės pažeidimas nustatomas atliekant auditą, piniginių ar kitokių vertybių reviziją (inventorizaciją) arba kitą kompetentingos institucijos patikrinimą, drausminė nuobauda gali būti skiriama ne vėliau kaip per trejus metus nuo drausmės pažeidimo padarymo dienos. Jeigu šio statuto 28 straipsnio 5 dalyje nustatyta tvarka tyrimas sustabdytas ir pradėtas baudžiamasis procesas, vienų metų senaties terminas sustabdomas iki to laiko, kol bus baigtas baudžiamasis procesas ir prokuroras ar teismas priims atitinkamą sprendimą, o nuo atitinkamų sprendimų priėmimo dienos, senaties terminas atnaujinamas.
  
 
 
@@ -1458,7 +1505,7 @@ Atsakomybę už drausmės pažeidimus lengvinančios aplinkybės yra šios:
 
 
 
-5) drausmės pažeidimas buvo padarytas dėl psichinės ar fizinės prievartos, jeigu tokia prievarta nepašalina drausminės atsakomybės; 
+5) drausmės pažeidimas buvo padarytas dėl psichinės ar fizinės prievartos, jeigu tokia prievarta nepašalina drausminės atsakomybės;
 
 
 
@@ -1473,7 +1520,7 @@ Atsakomybę už drausmės pažeidimus lengvinančios aplinkybės yra šios:
 
 
 
-8) kitos lengvinančios aplinkybės, krašto apsaugos ministro ar kariuomenės vado pripažintos svarbiomis.
+8) kitos lengvinančios aplinkybės, krašto apsaugos ministro ar Lietuvos kariuomenės vado pripažintos svarbiomis.
  
 
 
@@ -1489,7 +1536,7 @@ Atsakomybę už drausmės pažeidimus lengvinančios aplinkybės yra šios:
 1. Atsakomybę už drausmės pažeidimus sunkinančios aplinkybės yra šios:
 
 
-1) drausmės pažeidimas padarytas karinės operacijos, karo arba nepaprastosios padėties metu;
+1) drausmės pažeidimas padarytas karo arba nepaprastosios padėties metu;
 
 
 
@@ -1519,14 +1566,19 @@ Atsakomybę už drausmės pažeidimus lengvinančios aplinkybės yra šios:
 
 
 
-7) drausmės pažeidimas padarytas apsvaigusio nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų kario.
+7) drausmės pažeidimas padarytas neblaivaus ar apsvaigusio nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų kario.
 
 
 
 
 
 
-2. Tais atvejais, kai šio straipsnio 1 dalyje nurodytos sunkinančios aplinkybės įstatyme numatytos kaip drausmės pažeidimo požymis, skiriant drausminę nuobaudą į tokias sunkinančias aplinkybes neatsižvelgiama.
+2. Karių, vairuojančių taktinės ir logistinės paskirties transporto priemones, kurių masė didesnė negu 3 500 kg ar turi daugiau negu 9 sėdimąsias vietas, oro ar vandens transporto priemones, taip pat karių, vykdančių užduotis aplinkoje, veikiamoje pavojingų veiksnių, ar dirbančių su potencialiai pavojingais įrenginiais pagal krašto apsaugos ministro patvirtintą sąrašą, iškvėptame ore, kraujyje ar kituose organizmo skysčiuose leidžiama maksimali etilo alkoholio koncentracija tarnybos metu yra 0,2 promilės, visais kitais atvejais tarnybos metu – 0,4 promilės. Viršijus šioje dalyje nustatytą leistiną normą, kariai laikomi neblaiviais.
+
+
+
+
+3. Tais atvejais, kai šio straipsnio 1 dalyje nurodytos sunkinančios aplinkybės šio statuto numatytos kaip drausmės pažeidimo požymis, skiriant drausminę nuobaudą į tokias sunkinančias aplinkybes neatsižvelgiama.
  
 
 
@@ -1542,7 +1594,7 @@ Atsakomybę už drausmės pažeidimus lengvinančios aplinkybės yra šios:
 
 
 
-2. Vienu metu skiriant drausmines nuobaudas už du ar daugiau drausmės pažeidimų, drausminės nuobaudos – uždraudimo išeiti iš tarnybos vietos – trukmė negali viršyti Statuto šiai drausminei nuobaudai nustatytos maksimalios trukmės, o drausminių nuobaudų – tarnybinio atlyginimo ar stipendijos sumažinimo – dydis negali viršyti Statuto šioms drausminėms nuobaudoms nustatytų leistinų sumažinimo dydžių.
+2. Vienu metu skiriant drausmines nuobaudas už du ar daugiau drausmės pažeidimų, drausminės nuobaudos – uždraudimo išeiti iš tarnybos vietos – trukmė negali viršyti šio statuto šiai drausminei nuobaudai nustatytos maksimalios trukmės, o drausminių nuobaudų – tarnybinio atlyginimo ar stipendijos sumažinimo – dydis negali viršyti šio statuto šioms drausminėms nuobaudoms nustatytų leistinų sumažinimo dydžių.
  
 
 
@@ -1550,15 +1602,15 @@ Atsakomybę už drausmės pažeidimus lengvinančios aplinkybės yra šios:
 
 
 
-44 straipsnis. Vadų (viršininkų) teisės skirti drausmines nuobaudas
+44 straipsnis. Vadų (viršininkų) teisė skirti drausmines nuobaudas
 
 
-1. Drausmines nuobaudas įsakymu pagal šį statutą skiria kuopos vadas ir aukštesni vadai (viršininkai) jiems pavaldiems kariams.
+1. Drausmines nuobaudas įsakymu pagal šį statutą skiria kuopos vadas ir aukštesnieji vadai (viršininkai) jiems pavaldiems kariams.
 
 
 
 
-2. Aukštesnis vadas (viršininkas) gali skirti drausmines nuobaudas, kurias skirti turi teisę žemesnis vadas (viršininkas).
+2. Aukštesnysis vadas (viršininkas) gali skirti drausmines nuobaudas, kurias skirti turi teisę žemesnysis vadas (viršininkas).
  
 
 
@@ -1566,14 +1618,13 @@ Atsakomybę už drausmės pažeidimus lengvinančios aplinkybės yra šios:
 
 
 
-45 straipsnis. Kuopos vado teisės skirti drausmines nuobaudas
+45 straipsnis. Kuopos vado teisė skirti drausmines nuobaudas
 
 
-Kuopos vadas kareiviams, seržantams, viršiloms ir puskarininkiams: 
+Kuopos vadas kareiviams (jūreiviams) ir puskarininkiams:
 
 
 1) skiria papeikimą;
- 
 
 
 
@@ -1583,7 +1634,7 @@ Kuopos vadas kareiviams, seržantams, viršiloms ir puskarininkiams:
 
 
 
-3) iki 15 parų uždraudžia išeiti iš tarnybos vietos.
+3) uždraudžia iki 15 parų išeiti iš tarnybos vietos.
  
 
 
@@ -1593,13 +1644,13 @@ Kuopos vadas kareiviams, seržantams, viršiloms ir puskarininkiams:
 
 
 
-46 straipsnis. Bataliono vado teisės skirti drausmines nuobaudas
+46 straipsnis. Bataliono vado teisė skirti drausmines nuobaudas
 
 
 Bataliono vadas:
 
 
-1) iki 30 parų uždraudžia išeiti iš tarnybos vietos;
+1) uždraudžia iki 30 parų išeiti iš tarnybos vietos;
 
 
 
@@ -1614,13 +1665,13 @@ Bataliono vadas:
 
 
 
-47 straipsnis. Pulko vado teisės skirti drausmines nuobaudas
+47 straipsnis. Pulko vado teisė skirti drausmines nuobaudas
 
 
 Pulko vadas:
 
 
-1) sumažina tarnybinį atlyginimą kareiviams, seržantams ir viršiloms, puskarininkiams ir jaunesniesiems karininkams;
+1) sumažina tarnybinį atlyginimą kareiviams (jūreiviams), puskarininkiams ir jaunesniesiems karininkams;
 
 
 
@@ -1635,13 +1686,13 @@ Pulko vadas:
 
 
 
-48 straipsnis. Brigados vado teisės skirti drausmines nuobaudas
+48 straipsnis. Brigados vado teisė skirti drausmines nuobaudas
 
 
 Brigados vadas:
 
 
-1) pažemina kario laipsnį kareiviams, seržantams ir viršiloms; 
+1) pažemina kario laipsnį kareiviams (jūreiviams);
 
 
 
@@ -1661,10 +1712,10 @@ Brigados vadas:
 
 
 
-49 straipsnis. Lietuvos karo akademijos viršininko teisės skirti drausmines nuobaudas
+49 straipsnis. Lietuvos karo akademijos viršininko teisė skirti drausmines nuobaudas
 
 
-1. Lietuvos karo akademijos viršininkas profesinės ir privalomosios pradinės karo tarnybos kariams turi teisę skirti tokias drausmines nuobaudas, kokias suteikta teisė skirti brigados vadui.
+1. Lietuvos karo akademijos viršininkas profesinės ir privalomosios karo tarnybos kariams turi teisę skirti tokias drausmines nuobaudas, kokias suteikta teisė skirti brigados vadui.
 
 
 
@@ -1682,7 +1733,7 @@ Brigados vadas:
 
 
 
-3) iki 30 parų uždraudžia išeiti iš tarnybos vietos;
+3) uždraudžia iki 30 parų išeiti iš tarnybos vietos;
 
 
 
@@ -1707,10 +1758,10 @@ Brigados vadas:
 
 
 
-50 straipsnis.       Reguliariųjų pajėgų rūšių vadų arba savanorių pajėgų vado teisės skirti drausmines nuobaudas
+50 straipsnis. Kariuomenės pajėgų rūšių vadų arba savanorių pajėgų vado teisė skirti drausmines nuobaudas
 
 
-Reguliariųjų arba savanorių pajėgų vadas:
+Kariuomenės pajėgų rūšių vadai arba savanorių pajėgų vadas:
 
 
 1) pažemina kario laipsnį puskarininkiams;
@@ -1718,7 +1769,7 @@ Reguliariųjų arba savanorių pajėgų vadas:
 
 
 
-2) sumažina tarnybinį atlyginimą pulkininko leitenanto (komandoro) laipsnį turintiems karininkams; 
+2) sumažina tarnybinį atlyginimą pulkininko leitenanto (komandoro) laipsnį turintiems karininkams;
 
 
 
@@ -1733,7 +1784,7 @@ Reguliariųjų arba savanorių pajėgų vadas:
 
 
 
-51 straipsnis. Kariuomenės vado teisės skirti drausmines nuobaudas
+51 straipsnis. Kariuomenės vado teisė skirti drausmines nuobaudas
 
 
 Kariuomenės vadas:
@@ -1759,7 +1810,7 @@ Kariuomenės vadas:
 
 
 
-52 straipsnis. Krašto apsaugos ministro teisės skirti drausmines nuobaudas
+52 straipsnis. Krašto apsaugos ministro teisė skirti drausmines nuobaudas
 
 
 Krašto apsaugos ministras:
@@ -1771,7 +1822,6 @@ Krašto apsaugos ministras:
 
 
 2) atima teisę iškilmingomis progomis dėvėti kario uniformą atsargos arba dimisijos kariams;
- 
 
 
 
@@ -1786,12 +1836,7 @@ Krašto apsaugos ministras:
 
 
 
-5) pažemina kario laipsnį vyresniesiems karininkams iki pulkininko leitenanto (komandoro) imtinai;
-
-
-
-
-6) atleidžia iš tarnybos, išskyrus kariuomenės vadą ir jo pavaduotoją – lauko pajėgų vadą;
+5) pažemina kario laipsnį vyresniesiems karininkams iki pulkininko leitenanto (komandoro) imtinai.
  
 
 
@@ -1801,10 +1846,10 @@ Krašto apsaugos ministras:
 
 
 
-53 straipsnis.       Respublikos Prezidento – vyriausiojo ginkluotųjų pajėgų vado teisės skirti drausmines nuobaudas
+53 straipsnis. Respublikos Prezidento – vyriausiojo ginkluotųjų pajėgų vado – teisė skirti drausmines nuobaudas
 
 
-Respublikos Prezidentas – vyriausiasis ginkluotųjų pajėgų vadas krašto apsaugos ministro teikimu:
+Respublikos Prezidentas – vyriausiasis ginkluotųjų pajėgų vadas – krašto apsaugos ministro teikimu:
 
 
 1) pažemina kario laipsnį pulkininkams (jūrų kapitonams) ir generolams (admirolams);
@@ -1812,12 +1857,7 @@ Respublikos Prezidentas – vyriausiasis ginkluotųjų pajėgų vadas krašto ap
 
 
 
-2) Seimo pritarimu atleidžia iš tarnybos kariuomenės vadą;
-
-
-
-
-3) atleidžia iš tarnybos kariuomenės vado pavaduotoją – lauko pajėgų vadą.
+2) Lietuvos Respublikos Seimo pritarimu atleidžia iš tarnybos Lietuvos kariuomenės vadą.
  
 
 
@@ -1827,10 +1867,20 @@ Respublikos Prezidentas – vyriausiasis ginkluotųjų pajėgų vadas krašto ap
 
 
 
-54 straipsnis. Kitų vadų (viršininkų) teisės skirti drausmines nuobaudas
+54 straipsnis. Kitų vadų (viršininkų) teisė skirti drausmines nuobaudas
 
 
-Šiame statute nenurodyti karinių vienetų vadai (viršininkai), einantys to paties kario laipsnio pareigas kaip ir nurodyti karinių vienetų vadai, turi tokias pat teises skirti drausmines nuobaudas.
+1. Šiame statute nenurodyti karinių vienetų vadai (viršininkai), einantys to paties kario laipsnio pareigas, kaip ir šiame statute nurodyti karinių vienetų vadai turi tas pačias teises skirti drausmines nuobaudas.
+
+
+
+
+2. Jungtinio štabo viršininkas turi tas pačias teises skirti drausmines nuobaudas Jungtinio štabo kariams ir jo operaciniam pavaldumui perduotų karinių vienetų kariams kaip ir reguliariųjų pajėgų rūšių vadai.
+
+
+
+
+3. Kitų krašto apsaugos sistemos institucijų vadovai turi tas pačias teises skirti drausmines nuobaudas jiems pavaldiems kariams kaip ir brigados vadas.
  
 
 
@@ -1841,17 +1891,17 @@ Respublikos Prezidentas – vyriausiasis ginkluotųjų pajėgų vadas krašto ap
 55 straipsnis. Drausminių nuobaudų vykdymas
 
 
-1. Su paskirta drausmine nuobauda karys supažindinamas pasirašytinai ne vėliau kaip per tris darbo dienas nuo jos paskyrimo. Jeigu karys atsisako pasirašytinai susipažinti su paskirta drausmine nuobauda, apie tai surašoma pažyma, patvirtinanti atsisakymo pasirašyti faktą.
+1. Su paskirta drausmine nuobauda karys supažindinamas pasirašytinai ne vėliau kaip per tris darbo dienas nuo jos paskyrimo. Jeigu karys atsisako pasirašytinai susipažinti su paskirta drausmine nuobauda, surašoma pažyma, patvirtinanti atsisakymo pasirašyti faktą.
 
 
 
 
-2. Drausminė nuobauda pradedama vykdyti po to, kai kariui pranešama apie jos paskyrimą. Supažindinimas su paskirtąja drausmine nuobauda ir jos vykdymas gali būti atidėtas tik dėl tarnybinio būtinumo arba nubaustojo ligos, bet ne ilgiau kaip 60 dienų.
+2. Drausminė nuobauda pradedama vykyti po to, kai kariui pranešama apie drausminės nuobaudos paskyrimą. Supažindinimas su paskirta drausmine nuobauda ir jos vykdymas gali būti atidėtas tik dėl tarnybinio būtinumo arba nubausto kario ligos, bet ne ilgiau kaip 60 dienų. Jeigu nubaustas karys į tarnybą neatvyksta dėl ligos ir jam negalima pranešti apie drausminės nuobaudos paskyrimą, drausminė nuobauda pradedama vykdyti ir karys supažindinamas su paskirta drausmine nuobauda ne vėliau kaip kitą darbo dieną jam sugrįžus į tarnybą.
 
 
 
 
-3. Drausminės nuobaudos apskundimas jos vykdymo nesustabdo.
+3. Jeigu karys nesutinka su šio statuto nustatyta tvarka paskirta drausmine nuobauda, jis turi teisę apskųsti sprendimą dėl drausminės nuobaudos skyrimo aukštesniajam vadui (viršininkui) arba krašto apsaugos generaliniam inspektoriui. Drausminės nuobaudos apskundimas jos vykdymo nesustabdo.
  
 
 
@@ -1867,15 +1917,15 @@ Respublikos Prezidentas – vyriausiasis ginkluotųjų pajėgų vadas krašto ap
 
 
 
-2. Drausminė nuobauda laikoma galiojančia, kol nesibaigė jos galiojimo laikas. Nustatomas toks drausminių nuobaudų galiojimo laikas:
+2. Drausminė nuobauda laikoma galiojančia tol, kol nesibaigė jos galiojimo laikas. Nustatomas toks drausminių nuobaudų galiojimo laikas:
 
 
-1) papeikimas – metus;
+1) papeikimas – vieni metai;
 
 
 
 
-2) uždraudimas išeiti iš tarnybos vietos, papildomos tarnybos užduotys ir tarnybinio atlyginimo ar stipendijos sumažinimas – drausminės nuobaudos atlikimo laiką;
+2) uždraudimas išeiti iš tarnybos vietos, papildomos tarnybos užduotys ir tarnybinio atlyginimo ar stipendijos sumažinimas – iki drausminės nuobaudos įvykdymo termino pabaigos;
 
 
 
@@ -1892,17 +1942,12 @@ Respublikos Prezidentas – vyriausiasis ginkluotųjų pajėgų vadas krašto ap
 
 
 
-4. Paskirtos drausminės nuobaudos galiojimo laiką gali sutrumpinti ją paskyręs arba aukštesnis vadas (viršininkas), jei karys pasitaiso ir ilgiau taikyti drausminę nuobaudą netikslinga. 
+4. Paskirtos drausminės nuobaudos galiojimo laiką gali sutrumpinti ją paskyręs arba aukštesnysis vadas (viršininkas), jeigu karys pasitaiso ir ilgiau taikyti drausminę nuobaudą netikslinga.
 
 
 
 
-5. Drausminės nuobaudos galiojimo metu karys neskatinamas ir neapdovanojamas, negali būti paskiriamas į aukštesnes pareigas ir jam negali būti suteikiamas aukštesnis kario laipsnis.
-
-
-
-
-6. Jei paaiškėja, kad drausminė nuobauda paskirta pažeidžiant šį statutą, ji laikoma negaliojančia, ją paskyręs vadas (viršininkas) atsako pagal šį statutą, o tarnybinio patikrinimo medžiaga ir išvada grąžinama tyrimui papildyti. Papildomas tyrimas turi būti atliktas per Statuto 28 straipsnyje nustatytus terminus. Šio statuto pažeidimą skiriant drausminę nuobaudą nustato aukštesnis vadas (viršininkas) arba Krašto apsaugos ministerijos generalinis inspektorius, atlikus tarnybinį patikrinimą. 
+5. Nepasibaigus drausminės nuobaudos galiojimo terminui, karys neskatinamas ir neapdovanojamas, negali būti paskiriamas į aukštesnes pareigas ir jam negali būti suteikiamas aukštesnis kario laipsnis.
  
 
 
@@ -1913,24 +1958,14 @@ Respublikos Prezidentas – vyriausiasis ginkluotųjų pajėgų vadas krašto ap
 
 
 VIII SKYRIUS
-SKUNDŲ PADAVIMO IR NAGRINĖJIMO TVARKA
+IŠANKSTINĖ KARO TARNYBOS GINČŲ NAGRINĖJIMO NE TEISME TVARKA KRAŠTO APSAUGOS SISTEMOJE TVARKA
  
 
 
-57 straipsnis. Karių teisė skųstis
+57 straipsnis. Karo tarnybos ginčai
 
 
-1. Karys turi teisę skųstis, kai yra pažeistos įstatymo ir kitų teisės aktų jam garantuotos teisės arba kai jam duodamas neteisėtas įsakymas.
-
-
-
-
-2. Skųstis leidžiama tik dėl savęs. Draudžiama duoti kolektyvinius skundus, kviesti susirinkimus skundams svarstyti arba rašyti. Nepasirašytas ar kolektyvinis skundas netiriamas.
-
-
-
-
-3. Šis statutas nustato karių skundų padavimo ir jų nagrinėjimo tvarką krašto apsaugos sistemoje. Kitoms institucijoms karys turi teisę skųstis kitų teisės aktų nustatyta tvarka. 
+Ginčai dėl nušalinimo nuo pareigų, perkėlimo į kitas pareigas, dėl karių laipsnių, drausminių nuobaudų, kario tarnybos sutarties pratęsimo ir kiti karo tarnybos ginčai pradedami nagrinėti padavus skundą šiame skyriuje nustatyta tvarka.
  
 
 
@@ -1938,20 +1973,80 @@ SKUNDŲ PADAVIMO IR NAGRINĖJIMO TVARKA
 
 
 
-58 straipsnis. Skundų padavimo formos
+58 straipsnis. Skundų padavimo forma ir turinys
 
 
-1. Skundžiamasi raštu arba žodžiu.
-
-
-
-
-2. Bataliono vadu ar aukštesniu už jį vadu (viršininku) skundžiamasi tik raštu.
+1. Skundai turi būti rašytiniai.
 
 
 
 
-3. Skundai paduodami pagal karių pavaldumą arba tiesiogiai Krašto apsaugos ministerijos generaliniam inspektoriui.
+2. Karių skundai paduodami pagal karių pavaldumą arba tiesiogiai krašto apsaugos generaliniam inspektoriui.
+
+
+
+
+3. Karių skundai pagal karių pavaldumą paduodami per tiesioginį vadą (viršininką). Jeigu skundžiamasi tiesioginio vado (viršininko) veiksmais, skundas pateikiamas skundžiamo vado (viršininko) tiesioginiam vadui (viršininkui).
+
+
+
+
+4. Karių skundai krašto apsaugos generaliniam inspektoriui paduodami tiesiogiai, nesilaikant skundo padavimo pagal karių pavaldumą tvarkos.
+
+
+
+
+5. Skundai paduodami asmeniškai, siunčiami paštu arba faksu. Visiems kariams turi būti sudarytos sąlygos paduoti skundą tarnybiniu faksu.
+
+
+
+
+6. Skunde turi būti nurodyta:
+
+
+1) skundą pateikusio kario laipsnis, vardas, pavardė, pareigos ir adresas;
+
+
+
+
+2) skundo surašymo data ir vieta;
+
+
+
+
+3) vadas (viršininkas) ar krašto apsaugos generalinis inspektorius, kuriems paduodamas skundas;
+
+
+
+
+4) duomenys apie asmenį, kurio veika skundžiama;
+
+
+
+
+5) konkreti skundžiama veika ar aktas, jos įvykdymo (akto priėmimo) data, nurodant, kokios kario teisės buvo pažeistos;
+
+
+
+
+6) aplinkybės, kuriomis grindžiamas skundas, ir tai patvirtinantys turimi įrodymai, liudytojų duomenys, kitų įrodymų buvimo vieta;
+
+
+
+
+7) kario reikalavimas;
+
+
+
+
+8) pridedami dokumentai.
+
+
+
+
+
+
+7. Skundas turi būti kario pasirašytas.
  
 
 
@@ -1959,15 +2054,25 @@ SKUNDŲ PADAVIMO IR NAGRINĖJIMO TVARKA
 
 
 
-59 straipsnis. Skundo padavimas pagal karių pavaldumą 
+59 straipsnis. Skundo padavimo terminas
 
 
-1. Skundai pagal karių pavaldumą paduodami per tiesioginį vadą (viršininką). Jei skundžiamasi tiesioginio vado (viršininko) veiksmais, skundas pateikiamas skundžiamo vado (viršininko) tiesioginiam vadui (viršininkui).
+1. Skundas turi būti paduotas ne vėliau kaip per vieną mėnesį nuo tos dienos, kai karys sužinojo arba turėjo sužinoti apie savo pažeistas teises.
 
 
 
 
-2. Karys, nesutinkąs su sprendimu, priimtu dėl jo skundo, turi teisę apskųsti šį sprendimą vadui (viršininkui), kuriam tiesiogiai pavaldus sprendimą priėmęs vadas (viršininkas).
+2. Šis terminas skundą padavusio kario prašymu gali būti pratęstas, jeigu jis buvo praleistas dėl ligos, tarnybinio būtinumo ar kitų svarbiomis pripažintų aplinkybių.
+
+
+
+
+3. Prašyme pratęsti skundo padavimo terminą, kuris pridedamas prie skundo, turi būti nurodytos termino praleidimo priežastys ir pateikti praleidimo priežastis patvirtinantys įrodymai.
+
+
+
+
+4. Prašymą pratęsti skundo padavimo terminą per 5 darbo dienas nuo skundo gavimo dienos išnagrinėja vadas (viršininkas) ar krašto apsaugos generalinis inspektorius ir apie priimtą sprendimą raštu praneša skundą pateikusiam kariui.
  
 
 
@@ -1975,25 +2080,20 @@ SKUNDŲ PADAVIMO IR NAGRINĖJIMO TVARKA
 
 
 
-60 straipsnis. Skundo padavimas generaliniam inspektoriui
+60 straipsnis. Apribojimai paduoti skundus
 
 
-1. Visi kariai turi teisę, nesilaikydami skundo padavimo pagal karių pavaldumą tvarkos, tiesiogiai kreiptis į generalinį inspektorių šia tvarka:
-
-
-1) skundai paduodami raštu arba žodžiu. Rašytiniai skundai siunčiami paštu, faksu arba įteikiami generalinio inspektoriaus patikrinimų (inspektavimų) metu. Žodžiu į generalinį inspektorių kreipiamasi patikrinimų (inspektavimų) metu, telefonu arba pas jį atvykus. Nedarbo ar švenčių dienomis ir nedarbo valandomis skundą įrašo autoatsakiklis. Visiems kariams turi būti sudarytos sąlygos kreiptis tarnybiniu telefonu arba faksu;
+1. Skųstis leidžiama tik dėl savęs. Draudžiama duoti kolektyvinius skundus, kviesti į susirinkimus skundų svarstyti arba rašyti. Nepasirašytas ar kolektyvinis skundas netiriamas.
 
 
 
 
-2) dienos tarnybos, sargybos ar kovinio budėjimo metu į generalinį inspektorių kreipiamasi tik gavus tiesioginio vado (viršininko) (pradedant nuo kuopos vado ir jam tolygių pareigų) arba sargybos (pamainos) viršininko leidimą, nenurodant kreipimosi turinio ir priežasties.
+2. Kariams draudžiama skunduose žeminti kitų orumą, skleisti prasimanymus arba melagingus pranešimus.
 
 
 
 
-
-
-2. Karys, nesutinkąs su generalinio inspektoriaus sprendimu, priimtu dėl jo skundo, turi teisę apskųsti šį sprendimą krašto apsaugos ministrui.
+3. Kariai, pažeidę šiuos apribojimus, traukiami drausminėn atsakomybėn šio statuto nustatyta tvarka.
  
 
 
@@ -2001,10 +2101,48 @@ SKUNDŲ PADAVIMO IR NAGRINĖJIMO TVARKA
 
 
 
-61 straipsnis. Skunde išdėstytų aplinkybių tyrimas
+61 straipsnis. Skundo priėmimas
 
 
-Skunde išdėstytos aplinkybės kaip ir drausmės pažeidimai tiriamos atliekant tarnybinį patikrinimą.
+1. Vadas (viršininkas) ar krašto apsaugos generalinis inspektorius, gavę skundą, priima sprendimą pradėti ar atsisakyti pradėti skundą nagrinėti. Sprendimas atsisakyti pradėti skundą nagrinėti priimamas ne vėliau kaip per 5 darbo dienas nuo skundo gavimo dienos ir apie tai raštu pranešama skundą pateikusiam kariui.
+
+
+
+
+2. Jeigu pateiktas skundas neatitinka šio statuto 58 straipsnyje nustatytų reikalavimų, vadas (viršininkas) ar krašto apsaugos generalinis inspektorius per 5 darbo dienas nuo skundo gavimo dienos praneša kariui apie nustatytus trūkumus ir nustato terminą trūkumams pašalinti. Jeigu per nustatytą terminą trūkumai pašalinami, skundas laikomas paduotu patikslinto skundo pateikimo dieną. Jeigu per nustatytą terminą trūkumai nepašalinami, skundas laikomas nepaduotu ir nenagrinėtinu.
+
+
+
+
+3. Vadas (viršininkas) ar krašto apsaugos generalinis inspektorius priima sprendimą atsisakyti pradėti skundą nagrinėti, jeigu:
+
+
+1) skundas paduotas praleidus skundo padavimo terminą, jeigu šis terminas nebuvo pratęstas šio statuto 59 straipsnio nustatyta tvarka;
+
+
+
+
+2) skundas paduotas pažeidžiant šio statuto 60 straipsnyje nustatytus apribojimus;
+
+
+
+
+3) skundas paduotas dėl to paties ginčo dalyko, kuris jau išnagrinėtas, o karys nepateikia naujų duomenų, leidžiančių ginčyti priimtą sprendimą;
+
+
+
+
+4) teismo žinioje yra byla dėl to paties ginčo dalyko;
+
+
+
+
+5) yra teismo sprendimas, priimtas dėl to paties ginčo dalyko;
+
+
+
+
+6) skundas paduotas ne dėl karo tarnybos ginčų.
  
 
 
@@ -2012,47 +2150,32 @@ Skunde išdėstytos aplinkybės kaip ir drausmės pažeidimai tiriamos atliekant
 
 
 
-62 straipsnis. Skundo padavimo ir nagrinėjimo terminai
 
 
-1. Skundas paduodamas ne vėliau kaip per mėnesį nuo tos dienos, kai karys sužinojo arba turėjo sužinoti apie savo pažeistas teises. Šis terminas gali būti pratęsiamas, jeigu jis buvo praleistas dėl ligos, tarnybinio būtinumo ar kitų skundo nagrinėjimą užtikrinančio pareigūno svarbiomis pripažintų aplinkybių. 
+62 straipsnis. Skundo, paduoto pagal karių pavaldumą, nagrinėjimas ir sprendimo priėmimas
 
 
-
-
-2. Skundas turi būti išnagrinėtas per mėnesį nuo jo gavimo dienos, o papildomo tyrimo bei patikrinimo nereikalaujantis skundas – ne vėliau kaip per 15 darbo dienų. Kai skundui išnagrinėti reikia patikrinimo, papildomos medžiagos arba kitokių priemonių, jo nagrinėjimo terminą išimties atveju iki pusės metų gali pratęsti krašto apsaugos ministras.
- 
+1. Jeigu skunde pateiktas kario teisių pažeidimas yra akivaizdus ar neginčijamas ir nereikalauja papildomo tyrimo, vadas (viršininkas) sprendimą priima ne vėliau kaip per 10 darbo dienų nuo skundo gavimo dienos ir apie šį sprendimą raštu praneša skundą pateikusiam kariui.
 
 
 
 
-3. Apie skundo nagrinėjimo metu gautus rezultatus raštu pranešama kariui, padavusiam skundą. Jei per mėnesį nuo skundo padavimo dienos karys negauna atsakymo į savo skundą ar pranešimo apie skundo nagrinėjimo termino pratęsimą, jis įgyja teisę pateikti skundą vado (viršininko), kuriam skundas buvo pateiktas, tiesioginiam vadui (viršininkui).
- 
+2. Jeigu skundžiamas kario teisių pažeidimas nėra akivaizdus ar neginčijamas ir turi šiame statute nustatyto drausmės pažeidimo požymių, vadas (viršininkas) skiria tarnybinį patikrinimą. Tarnybinis patikrinimas atliekamas vadovaujantis šio statuto I dalies V skyriuje nustatyta tvarka ir terminais.
 
 
 
 
-
-
-63 straipsnis. Apribojimai paduoti ir nagrinėti skundus
-
-
-1. Vadams (viršininkams) draudžiama trukdyti pavaldiems kariams teikti skundus, taip pat draudžiama persekioti už skundo pateikimą.
+3. Vadas (viršininkas), patvirtinęs tarnybinio patikrinimo išvadą dėl kario skundo, sprendimą priima per 10 darbo dienų nuo tarnybinio patikrinimo išvados patvirtinimo dienos ir apie šį sprendimą raštu praneša skundą padavusiam kariui.
 
 
 
 
-2. Vadams (viršininkams) draudžiama persiųsti nagrinėti skundą vadui (viršininkui), kurio veiksmai yra skundžiami.
+4. Vadams (viršininkams) draudžiama trukdyti pavaldiems kariams duoti skundus, taip pat draudžiama persekioti už skundo pateikimą.
 
 
 
 
-3. Kariams draudžiama skunduose žeminti kitų orumą, skleisti prasimanymus arba žinomai melagingus pranešimus.
-
-
-
-
-4. Kariai, pažeidę skundų padavimo ir nagrinėjimo tvarką, traukiami drausminėn atsakomybėn šio statuto nustatyta tvarka. 
+5. Vadams (viršininkams) draudžiama persiųsti skundą nagrinėti vadui (viršininkui), kurio veiksmai yra skundžiami.
  
 
 
@@ -2060,15 +2183,67 @@ Skunde išdėstytos aplinkybės kaip ir drausmės pažeidimai tiriamos atliekant
 
 
 
-64 straipsnis. Skundų padavimo ir nagrinėjimo tvarkos kontrolė 
+63 straipsnis. Skundo, paduoto krašto apsaugos generaliniam inspektoriui, nagrinėjimas ir sprendimo priėmimas
 
 
-1. Skundų padavimo ir nagrinėjimo tvarką kontroliuoja Krašto apsaugos ministerijos generalinis inspektorius.
+1. Jeigu skunde pateiktas kario teisių pažeidimas yra akivaizdus ar neginčijamas ir nereikalauja papildomo tyrimo, krašto apsaugos generalinis inspektorius ne vėliau kaip per 5 darbo dienas nuo skundo gavimo dienos priima sprendimą ir apie šį sprendimą raštu praneša skundą pateikusiam kariui, o jį įgyvendinti perduoda vadui (viršininkui), turinčiam teisę priimti atitinkamus sprendimus. Vadas (viršininkas), gavęs krašto apsaugos generalinio inspektoriaus sprendimą, jį įgyvendina per 10 darbo dienų nuo sprendimo gavimo dienos ir apie tai raštu praneša skundą pateikusiam kariui ir krašto apsaugos generaliniam inspektoriui.
 
 
 
 
-2. Generalinio inspektoriaus nagrinėjamų skundų tvarką kontroliuoja krašto apsaugos ministras. 
+2. Jeigu skundžiamas kario teisių pažeidimas nėra akivaizdus ar neginčijamas ir turi šiame statute nustatyto drausmės pažeidimo požymių, krašto apsaugos generalinis inspektorius skiria tarnybinį patikrinimą. Tarnybinis patikrinimas atliekamas vadovaujantis šio statuto I dalies V skyriuje nustatyta tvarka ir terminais.
+
+
+
+
+3. Krašto apsaugos generalinis inspektorius, patvirtinęs tarnybinio patikrinimo išvadą dėl kario skundo, sprendimą priima per 5 darbo dienas nuo tarnybinio patikrinimo išvados patvirtinimo dienos ir apie šį sprendimą raštu praneša skundą padavusiam kariui, o jį įgyvendinti perduoda vadui (viršininkui), turinčiam teisę priimti atitinkamus sprendimus. Vadas (viršininkas), gavęs krašto apsaugos generalinio inspektoriaus sprendimą, jį įgyvendina per 10 darbo dienų nuo sprendimo gavimo dienos ir apie tai raštu praneša skundą pateikusiam kariui ir krašto apsaugos generaliniam inspektoriui.
+
+
+
+
+4. Krašto apsaugos generaliniam inspektoriui draudžiama persiųsti nagrinėti skundą vadui (viršininkui), kurio veiksmai yra skundžiami.
+ 
+
+
+
+
+
+
+64 straipsnis. Sprendimų rūšys
+
+
+Vadas (viršininkas) ar krašto apsaugos generalinis inspektorius, išnagrinėję skundą, priima vieną iš šių sprendimų:
+
+
+1) atmesti skundą kaip nepagrįstą;
+
+
+
+
+2) patenkinti skundą ir pašalinti kario teisių pažeidimą.
+ 
+
+
+
+
+
+
+
+
+65 straipsnis. Sprendimų apskundimas
+
+
+1. Karys, nesutinkantis su vado (viršininko) sprendimu, turi teisę jį apskųsti sprendimą priėmusio vado (viršininko) tiesioginiam vadui (viršininkui) arba krašto apsaugos generaliniam inspektoriui.
+
+
+
+
+2. Karys, nesutinkantis su krašto apsaugos generalinio inspektoriaus sprendimu, turi teisę apskųsti šį sprendimą krašto apsaugos ministrui.
+
+
+
+
+3. Krašto apsaugos ministro priimtas sprendimas gali būti apskųstas administraciniam teismui įstatymų nustatyta tvarka per 20 dienų nuo sprendimo gavimo ar pranešimo apie jį dienos.
  
 
 
@@ -2090,10 +2265,10 @@ I SKYRIUS
  
 
 
-65 straipsnis.       Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatytų karių tarnybai taikomų apribojimų pažeidimas
+66 straipsnis. Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatytų karių tarnybai taikomų apribojimų pažeidimas
 
 
-Už Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatytų karių tarnybai taikomų apribojimų pažeidimą privalomosios karo tarnybos kariui skiriamos papildomos tarnybos užduotys arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos karys už tokią veiką atleidžiamas iš tarnybos; kariūnas pašalinamas iš karo mokymo įstaigos.
+Už Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatytų karių tarnybai taikomų apribojimų pažeidimą privalomosios karo tarnybos kariui skiriamos papildomos tarnybos užduotys arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos karys už tokią veiką atleidžiamas iš tarnybos; kariūnas už tokią veiką pašalinamas iš karo mokymo įstaigos.
  
 
 
@@ -2101,10 +2276,10 @@ Už Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatytų
 
 
 
-66 straipsnis.       Buvimas tarnybos metu apsvaigusio nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų
+67 straipsnis. Neblaivaus ar apsvaigusio nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų kario buvimas tarnyboje arba blaivumo, apsvaigimo ar narkotinių ar psichotropinių medžiagų vartojimo patikrinimo vengimas
 
 
-Jei privalomosios karo tarnybos karys tarnybos metu yra apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, jam skiriamos papildomos tarnybos užduotys arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos karys už tokią veiką atleidžiamas iš tarnybos; kariūnas pašalinamas iš karo mokymo įstaigos.
+Jeigu karys tarnybos metu yra neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų arba vengia teisės aktų nustatyta tvarka tikrintis, arba atsisako medicininės apžiūros asmens sveikatos priežiūros įstaigoje, kai siekiama nustatyti, ar karys yra blaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, išskyrus atvejus, kai asmuo pats teisės aktų nustatyta tvarka kreipiasi į asmens sveikatos priežiūros įstaigą, kad būtų atlikta medicininė apžiūra, jeigu karys vartojo narkotines, psichotropines ar kitas psichiką veikiančias medžiagas be gydytojo paskyrimo, privalomosios karo tarnybos kariui skiriamos papildomos tarnybos užduotys arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos karys už tokią veiką atleidžiamas iš tarnybos; kariūnas už tokią veiką pašalinamas iš karo mokymo įstaigos.
  
 
 
@@ -2112,10 +2287,10 @@ Jei privalomosios karo tarnybos karys tarnybos metu yra apsvaigęs nuo alkoholio
 
 
 
-67 straipsnis. Sąmoningas neteisingų žinių apie save pateikimas arba žinių nuslėpimas
+68 straipsnis. Sąmoningas neteisingų žinių apie save pateikimas arba žinių nuslėpimas
 
 
-Už sąmoningą neteisingų žinių apie save, savo ryšius ir interesus, galinčius turėti reikšmės valstybės paslapčių ir tarnybos paslapčių apsaugai, tarnybos pareigų vykdymui ar galinčių būti interesų konflikto priežastimi, pateikimą arba žinių nuslėpimą krašto apsaugos sistemoje nustatyto turinio anketoje privalomosios karo tarnybos kariui skiriamos papildomos tarnybos užduotys arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis, arba karys atleidžiamas iš tarnybos; kariūnui uždraudžiama išeiti iš tarnybos vietos arba sumažinama stipendija, arba jis atleidžiamas iš pareigų.
+Už sąmoningą neteisingų žinių apie save, savo ryšius ir interesus, galinčius turėti reikšmės valstybės paslapčių ir tarnybos paslapčių apsaugai, tarnybos pareigų atlikimui ar galinčių būti interesų konflikto priežastimi, pateikimą arba žinių nuslėpimą privalomosios karo tarnybos kariui skiriamos papildomos tarnybos užduotys arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis, arba karys atleidžiamas iš tarnybos; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba sumažinama stipendija, arba jis atleidžiamas iš pareigų.
  
 
 
@@ -2123,10 +2298,21 @@ Už sąmoningą neteisingų žinių apie save, savo ryšius ir interesus, galin�
 
 
 
-68 straipsnis.       Kario vardo pažeminimas arba krašto apsaugos sistemos institucijų diskreditavimas
+69 straipsnis. Kario vardo pažeminimas arba krašto apsaugos sistemos institucijų diskreditavimas
 
 
-1. Už tarnybos ar ne tarnybos metu kario vardą žeminančią arba krašto apsaugos sistemos institucijas diskredituojančią veiką, kuria akivaizdžiai žeminamas karo tarnybos autoritetas, griaunamas pasitikėjimas krašto apsaugos sistema arba ji kompromituojama, privalomosios karo tarnybos kariui uždraudžiama išeiti iš tarnybos vietos arba skiriamos papildomos tarnybos užduotys, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis; kariūnui uždraudžiama išeiti iš tarnybos vietos arba sumažinama stipendija, arba jis atleidžiamas iš pareigų.
+Už tarnybos ar ne tarnybos metu kario vardą žeminančią veiką, kuria akivaizdžiai menkinamas kario autoritetas, arba krašto apsaugos sistemos institucijas diskredituojančią veiką, kuria akivaizdžiai žeminamas karo tarnybos autoritetas, griaunamas pasitikėjimas krašto apsaugos sistema arba ji kompromituojama, privalomosios karo tarnybos kariui uždraudžiama išeiti iš tarnybos vietos arba skiriamos papildomos tarnybos užduotys, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis, arba karys atleidžiamas iš tarnybos; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba sumažinama stipendija, arba jis atleidžiamas iš pareigų, arba pašalinamas iš karo mokymo įstaigos.
+ 
+
+
+
+
+
+
+70 straipsnis. Valstybės ir tarnybos paslapčių apsaugos reikalavimų pažeidimas
+
+
+1. Už teisės aktuose nustatytų valstybės ir tarnybos paslapčių apsaugos reikalavimų pažeidimą, jeigu tokia veika neužtraukia administracinės ar baudžiamosios atsakomybės, privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba sumažinama stipendija, arba jis atleidžiamas iš pareigų.
 
 
 
@@ -2139,26 +2325,10 @@ Už sąmoningą neteisingų žinių apie save, savo ryšius ir interesus, galin�
 
 
 
-69 straipsnis. Tarnybinės informacijos atskleidimas
+71 straipsnis. Neteisėto įsakymo davimas
 
 
-1. Už tarnybinės informacijos ar kitų neskelbtinų žinių atskleidimą pažeidžiant teisės aktų nustatytą tvarką privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis; kariūnui uždraudžiama išeiti iš tarnybos vietos arba sumažinama stipendija, arba jis atleidžiamas iš pareigų.
-
-
-
-
-2. Už tą pačią veiką, padarytą sunkinančiomis aplinkybėmis, profesinės karo tarnybos karys atleidžiamas iš tarnybos, kariūnas pašalinamas iš karo mokymo įstaigos. 
- 
-
-
-
-
-
-
-70 straipsnis. Neteisėto įsakymo davimas
-
-
-1. Už neteisėto įsakymo davimą ir (ar) vertimą tokį įsakymą vykdyti, jei tai neužtraukia baudžiamosios atsakomybės, privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis; kariūnui uždraudžiama išeiti iš tarnybos vietos arba sumažinama stipendija, arba jis atleidžiamas iš pareigų.
+1. Už neteisėto įsakymo davimą ir (ar) vertimą tokį įsakymą vykdyti, jeigu tai neužtraukia baudžiamosios atsakomybės, privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba sumažinama stipendija, arba jis atleidžiamas iš pareigų.
 
 
 
@@ -2171,10 +2341,10 @@ Už sąmoningą neteisingų žinių apie save, savo ryšius ir interesus, galin�
 
 
 
-71 straipsnis. Neteisėto įsakymo vykdymas
+72 straipsnis. Neteisėto įsakymo vykdymas
 
 
-1. Už neteisėto įsakymo vykdymą, jei tai neužtraukia baudžiamosios atsakomybės, privalomosios karo tarnybos kariui uždraudžiama išeiti iš tarnybos vietos arba skiriamas papeikimas, arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis; kariūnui uždraudžiama išeiti iš tarnybos vietos arba sumažinama stipendija, arba jis atleidžiamas iš pareigų.
+1. Už neteisėto įsakymo vykdymą, jeigu tai neužtraukia baudžiamosios atsakomybės, privalomosios karo tarnybos kariui uždraudžiama išeiti iš tarnybos vietos arba skiriamas papeikimas, arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba sumažinama stipendija, arba jis atleidžiamas iš pareigų.
 
 
 
@@ -2187,10 +2357,10 @@ Už sąmoningą neteisingų žinių apie save, savo ryšius ir interesus, galin�
 
 
 
-72 straipsnis. Savavališkas pasišalinimas ar neatvykimas į tarnybos vietą
+73 straipsnis. Savavališkas pasišalinimas ar neatvykimas į tarnybos vietą
 
 
-1. Už savavališką pasišalinimą iš tarnybos vietos arba tyčinį ar dėl aplaidumo neatvykimą į tarnybos vietą, jei tai neužtraukia baudžiamosios atsakomybės, privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis; kariūnui uždraudžiama išeiti iš tarnybos vietos arba sumažinama stipendija, arba jis atleidžiamas iš pareigų.
+1. Už savavališką pasišalinimą iš tarnybos vietos arba tyčinį ar dėl aplaidumo neatvykimą į tarnybos vietą nustatytu laiku, jeigu tai neužtraukia baudžiamosios atsakomybės, privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba sumažinama stipendija, arba jis atleidžiamas iš pareigų.
 
 
 
@@ -2203,26 +2373,10 @@ Už sąmoningą neteisingų žinių apie save, savo ryšius ir interesus, galin�
 
 
 
-73 straipsnis. Krašto apsaugos sistemos simbolių išniekinimas
+74 straipsnis. Krašto apsaugos sistemos simbolių išniekinimas
 
 
-1. Už krašto apsaugos sistemos simbolių išniekinimą, jei tai neužtraukia baudžiamosios atsakomybės, privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis; kariūnui uždraudžiama išeiti iš tarnybos vietos arba sumažinama stipendija, arba jis atleidžiamas iš pareigų.
-
-
-
-
-2. Už tą pačią veiką, padarytą sunkinančiomis aplinkybėmis, profesinės karo tarnybos karys atleidžiamas iš tarnybos, kariūnas pašalinamas iš karo mokymo įstaigos.
- 
-
-
-
-
-
-
-74 straipsnis. Piktnaudžiavimas tarnyba
-
-
-1. Už tyčinį kario pasinaudojimą tarnybine padėtimi dėl priešingų karo tarnybai interesų, jei tai neužtraukia baudžiamosios atsakomybės, privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis; kariūnui sumažinama stipendija arba jis atleidžiamas iš pareigų. 
+1. Už krašto apsaugos sistemos simbolių išniekinimą, jeigu tai neužtraukia baudžiamosios atsakomybės, privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba sumažinama stipendija, arba jis atleidžiamas iš pareigų.
 
 
 
@@ -2235,26 +2389,10 @@ Už sąmoningą neteisingų žinių apie save, savo ryšius ir interesus, galin�
 
 
 
-75 straipsnis. Tarnybos pareigų neatlikimas
+75 straipsnis. Piktnaudžiavimas tarnyba
 
 
-1. Jei privalomosios karo tarnybos karys neatlieka savo pareigų arba jas atlieka netinkamai dėl nerūpestingumo ar aplaidumo, jeigu tai neužtraukia baudžiamosios atsakomybės, jam skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui už tokią veiką skiriamas papeikimas arba sumažinamas tarnybinis atlyginimas, arba pažeminamas kario laipsnis; kariūnui sumažinama stipendija arba jis atleidžiamas iš pareigų.
-
-
-
-
-2. Už tą pačią veiką, padarytą sunkinančiomis aplinkybėmis, profesinės karo tarnybos karys atleidžiamas iš tarnybos, kariūnas pašalinamas iš karo mokymo įstaigos.
- 
-
-
-
-
-
-
-76 straipsnis. Tarnybos įgaliojimų viršijimas
-
-
-1. Jei privalomosios karo tarnybos karys viršija jam suteiktus tarnybos įgaliojimus, jeigu tai neužtraukia baudžiamosios atsakomybės, jam skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui už tokią veiką skiriamas papeikimas arba sumažinamas tarnybinis atlyginimas, arba pažeminamas kario laipsnis; kariūnui sumažinama stipendija arba jis atleidžiamas iš pareigų. 
+1. Už tyčinį kario pasinaudojimą tarnybine padėtimi dėl priešingų karo tarnybai interesų, jeigu tai neužtraukia baudžiamosios atsakomybės, privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba sumažinama stipendija, arba jis atleidžiamas iš pareigų.
 
 
 
@@ -2267,26 +2405,10 @@ Už sąmoningą neteisingų žinių apie save, savo ryšius ir interesus, galin�
 
 
 
-77 straipsnis.       Elgesio su ginklais, šaudmenimis, sprogmenimis ir karine technika taisyklių pažeidimas
+76 straipsnis. Tarnybos pareigų neatlikimas
 
 
-1. Už elgesio su ginklais, šaudmenimis, sprogmenimis ir karine technika taisyklių, nustatytų kariuomenės statutuose bei vadų (viršininkų) įsakymuose, pažeidimą privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui skiriamas papeikimas arba sumažinamas tarnybinis atlyginimas, arba pažeminamas kario laipsnis; kariūnui sumažinama stipendija arba jis atleidžiamas iš pareigų.
-
-
-
-
-2. Už tą pačią veiką, padarytą sunkinančiomis aplinkybėmis, profesinės karo tarnybos karys atleidžiamas iš tarnybos, kariūnas pašalinamas iš karo mokymo įstaigos.
- 
-
-
-
-
-
-
-78 straipsnis. Kovinio budėjimo taisyklių pažeidimas
-
-
-1. Už kovinio budėjimo taisyklių pažeidimą, jei tai neužtraukia baudžiamosios atsakomybės, privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui skiriamas papeikimas arba sumažinamas tarnybinis atlyginimas, arba pažeminamas kario laipsnis; kariūnui sumažinama stipendija arba jis atleidžiamas iš pareigų.
+1. Jeigu privalomosios karo tarnybos karys neatlieka savo pareigų arba jas atlieka netinkamai dėl nerūpestingumo ar aplaidumo, jeigu tai neužtraukia baudžiamosios atsakomybės, jam skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui už tokią veiką skiriamas papeikimas arba sumažinamas tarnybinis atlyginimas, arba pažeminamas kario laipsnis; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba sumažinama stipendija, arba jis atleidžiamas iš pareigų.
 
 
 
@@ -2299,10 +2421,58 @@ Už sąmoningą neteisingų žinių apie save, savo ryšius ir interesus, galin�
 
 
 
-79 straipsnis. Tarptautinės humanitarinės teisės normų pažeidimas     
+77 straipsnis. Tarnybos įgaliojimų viršijimas
 
 
-1. Už tarptautinės humanitarinės teisės normų pažeidimą privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui skiriamas papeikimas arba sumažinamas tarnybinis atlyginimas, arba pažeminamas kario laipsnis.
+1. Jeigu privalomosios karo tarnybos karys viršija jam suteiktus tarnybos įgaliojimus ir jeigu tai neužtraukia baudžiamosios atsakomybės, jam skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui už tokią veiką skiriamas papeikimas arba sumažinamas tarnybinis atlyginimas, arba pažeminamas kario laipsnis; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba sumažinama stipendija, arba jis atleidžiamas iš pareigų.
+
+
+
+
+2. Už tą pačią veiką, padarytą sunkinančiomis aplinkybėmis, profesinės karo tarnybos karys atleidžiamas iš tarnybos, kariūnas pašalinamas iš karo mokymo įstaigos.
+ 
+
+
+
+
+
+
+78 straipsnis. Elgesio su ginklais, šaudmenimis, sprogmenimis ir karine technika taisyklių pažeidimas
+
+
+1. Už elgesio su ginklais, šaudmenimis, sprogmenimis ir karine technika taisyklių, nustatytų kariuomenės statutuose ir vadų (viršininkų) įsakymuose, pažeidimą privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui skiriamas papeikimas arba sumažinamas tarnybinis atlyginimas, arba pažeminamas kario laipsnis; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba sumažinama stipendija, arba jis atleidžiamas iš pareigų.
+
+
+
+
+2. Už tą pačią veiką, padarytą sunkinančiomis aplinkybėmis, profesinės karo tarnybos karys atleidžiamas iš tarnybos, kariūnas pašalinamas iš karo mokymo įstaigos.
+ 
+
+
+
+
+
+
+79 straipsnis. Kovinio budėjimo taisyklių pažeidimas
+
+
+1. Už kovinio budėjimo taisyklių pažeidimą, jeigu tai neužtraukia baudžiamosios atsakomybės, privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui skiriamas papeikimas arba sumažinamas tarnybinis atlyginimas, arba pažeminamas kario laipsnis; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba sumažinama stipendija, arba jis atleidžiamas iš pareigų.
+
+
+
+
+2. Už tą pačią veiką, padarytą sunkinančiomis aplinkybėmis, profesinės karo tarnybos karys atleidžiamas iš tarnybos, kariūnas pašalinamas iš karo mokymo įstaigos.
+ 
+
+
+
+
+
+
+80 straipsnis. Tarptautinės humanitarinės teisės normų pažeidimas
+
+
+1. Už tarptautinės humanitarinės teisės normų pažeidimą, jeigu tai neužtraukia baudžiamosios atsakomybės, privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui skiriamas papeikimas arba sumažinamas tarnybinis atlyginimas, arba pažeminamas kario laipsnis.
 
 
 
@@ -2315,26 +2485,10 @@ Už sąmoningą neteisingų žinių apie save, savo ryšius ir interesus, galin�
 
 
 
-80 straipsnis. Klaidingos informacijos pateikimas
+81 straipsnis. Klaidingos informacijos pateikimas
 
 
-1. Už žinomai klaidingos informacijos apie karinio vieneto kovinės parengties ir kovinio rengimo būklę pateikimą aukštesniam vadui (viršininkui) privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui skiriamas papeikimas arba sumažinamas tarnybinis atlyginimas, arba pažeminamas kario laipsnis; kariūnui sumažinama stipendija arba jis atleidžiamas iš pareigų.
-
-
-
-
-2. Už tą pačią veiką, padarytą sunkinančiomis aplinkybėmis, profesinės karo tarnybos karys atleidžiamas iš tarnybos, kariūnas pašalinamas iš karo mokymo įstaigos.
- 
-
-
-
-
-
-
-81 straipsnis. Krašto apsaugos turto praradimas
-
-
-1. Už tarnybos reikalams patikėto ginklo, šaudmenų, sprogmenų, sprogstamųjų medžiagų, transporto priemonės ar kito krašto apsaugos turto praradimą dėl aplaidumo, jei tai neužtraukia baudžiamosios atsakomybės, privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis; kariūnui sumažinama stipendija arba jis atleidžiamas iš pareigų.
+1. Už žinomai klaidingos informacijos apie karinio vieneto kovinės parengties ir kovinio rengimo būklę pateikimą aukštesniam vadui (viršininkui) privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui skiriamas papeikimas arba sumažinamas tarnybinis atlyginimas, arba pažeminamas kario laipsnis; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba sumažinama stipendija, arba jis atleidžiamas iš pareigų.
 
 
 
@@ -2347,10 +2501,10 @@ Už sąmoningą neteisingų žinių apie save, savo ryšius ir interesus, galin�
 
 
 
-82 straipsnis. Krašto apsaugos turto sugadinimas ar sunaikinimas 
+82 straipsnis. Krašto apsaugos turto praradimas
 
 
-1. Už ginklo, šaudmenų, sprogmenų, sprogstamųjų medžiagų, transporto priemonės ar kito krašto apsaugos turto sugadinimą ar sunaikinimą, jei tai neužtraukia baudžiamosios atsakomybės, privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis; kariūnui sumažinama stipendija arba jis atleidžiamas iš pareigų.
+1. Už tarnybos reikalams patikėto ginklo, šaudmenų, sprogmenų, sprogstamųjų medžiagų, transporto priemonės ar kito krašto apsaugos turto praradimą dėl aplaidumo, jeigu tai neužtraukia baudžiamosios atsakomybės, privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba sumažinama stipendija, arba jis atleidžiamas iš pareigų.
 
 
 
@@ -2363,10 +2517,26 @@ Už sąmoningą neteisingų žinių apie save, savo ryšius ir interesus, galin�
 
 
 
-83 straipsnis. Vadui (viršininkui) suteiktų teisių karių drausmei užtikrinti viršijimas
+83 straipsnis. Krašto apsaugos turto sugadinimas ar sunaikinimas
 
 
-1. Už vadui (viršininkui) suteiktų teisių karių drausmei užtikrinti viršijimą sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis.
+1. Už ginklo, šaudmenų, sprogmenų, sprogstamųjų medžiagų, transporto priemonės ar kito krašto apsaugos turto sugadinimą ar sunaikinimą, jeigu tai neužtraukia baudžiamosios atsakomybės, privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba sumažinama stipendija, arba jis atleidžiamas iš pareigų.
+
+
+
+
+2. Už tą pačią veiką, padarytą sunkinančiomis aplinkybėmis, profesinės karo tarnybos karys atleidžiamas iš tarnybos, kariūnas pašalinamas iš karo mokymo įstaigos.
+ 
+
+
+
+
+
+
+84 straipsnis. Vadui (viršininkui) suteiktos teisės karių drausmei užtikrinti viršijimas
+
+
+1. Už vadui (viršininkui) suteiktos teisės karių drausmei užtikrinti viršijimą sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis.
 
 
 
@@ -2379,26 +2549,10 @@ Už sąmoningą neteisingų žinių apie save, savo ryšius ir interesus, galin�
 
 
 
-84 straipsnis. Dokumento praradimas arba sugadinimas
+85 straipsnis. Dokumento praradimas arba sugadinimas
 
 
-1. Už tarnybinio pažymėjimo ar kito griežtos apskaitos dokumento, kurio turinys nesudaro valstybės ar tarnybinės paslapties, praradimą arba sugadinimą dėl kario kaltės privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui skiriamas papeikimas arba sumažinamas tarnybinis atlyginimas, arba pažeminamas kario laipsnis; kariūnui sumažinama stipendija arba jis atleidžiamas iš pareigų.
-
-
-
-
-2. Už tą pačią veiką, padarytą sunkinančiomis aplinkybėmis, profesinės karo tarnybos karys atleidžiamas iš tarnybos, kariūnas pašalinamas iš karo mokymo įstaigos.
- 
-
-
-
-
-
-
-85 straipsnis. Civilio asmens įžeidimas
-
-
-1. Už civilio asmens garbės arba orumo pažeminimą žodžiu, raštu arba veiksmu privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui skiriamas papeikimas arba sumažinamas tarnybinis atlyginimas, arba pažeminamas kario laipsnis; kariūnui sumažinama stipendija arba jis atleidžiamas iš pareigų.
+1. Už tarnybinio pažymėjimo, saugiojo ar apskaitos dokumento, kurio turinys nesudaro valstybės ar tarnybos paslapties, praradimą arba sugadinimą dėl kario kaltės privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui skiriamas papeikimas arba sumažinamas tarnybinis atlyginimas, arba pažeminamas kario laipsnis; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba sumažinama stipendija, arba jis atleidžiamas iš pareigų.
 
 
 
@@ -2411,26 +2565,10 @@ Už sąmoningą neteisingų žinių apie save, savo ryšius ir interesus, galin�
 
 
 
-86 straipsnis. Pavaldinio arba vado (viršininko) įžeidimas
+86 straipsnis. Civilio asmens įžeidimas
 
 
-1. Už garbės arba orumo pažeminimą žodžiu, raštu arba veiksmu, padarytą pavaldinio ar žemesnio laipsniu kario aukštesniam, arba vado (viršininko) pavaldiniui ar aukštesnio laipsniu kario žemesniam, bent vienam iš jų vykdant tarnybines pareigas, privalomosios karo tarnybos kariui skiriamos papildomos tarnybos užduotys arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis; kariūnui sumažinama stipendija arba jis atleidžiamas iš pareigų.
-
-
-
-
-2. Už tą pačią veiką, padarytą sunkinančiomis aplinkybėmis, profesinės karo tarnybos karys atleidžiamas iš tarnybos, kariūnas pašalinamas iš karo mokymo įstaigos.
- 
-
-
-
-
-
-
-87 straipsnis. Seksualinis priekabiavimas
-
-
-1. Už priekabiavimą žodžiu, raštu arba veiksmu, nukreiptą prieš kito asmens seksualinį apsisprendimą ir neliečiamybę, jei tai neužtraukia baudžiamosios atsakomybės, privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui skiriamas papeikimas arba sumažinamas tarnybinis atlyginimas, arba pažeminamas kario laipsnis; kariūnui sumažinama stipendija arba jis atleidžiamas iš pareigų.
+1. Už civilio asmens garbės arba orumo pažeminimą žodžiu, raštu arba veiksmu privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui skiriamas papeikimas arba sumažinamas tarnybinis atlyginimas, arba pažeminamas kario laipsnis; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba sumažinama stipendija, arba jis atleidžiamas iš pareigų.
 
 
 
@@ -2443,10 +2581,10 @@ Už sąmoningą neteisingų žinių apie save, savo ryšius ir interesus, galin�
 
 
 
-88 straipsnis. Melagingo paaiškinimo davimas
+87 straipsnis. Pavaldinio arba vado (viršininko) įžeidimas
 
 
-1. Už melagingo paaiškinimo dėl drausmės pažeidimo davimą, taip pat vertimą kito kario duoti melagingą paaiškinimą privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis; kariūnui sumažinama stipendija arba jis atleidžiamas iš pareigų.
+1. Už garbės arba orumo pažeminimą žodžiu, raštu arba veiksmu, padarytą pavaldinio ar žemesnio laipsniu kario aukštesniajam arba vado (viršininko) pavaldiniui ar aukštesnio laipsniu kario žemesniajam, kai bent vienas iš jų atlieka tarnybines pareigas, privalomosios karo tarnybos kariui skiriamos papildomos tarnybos užduotys arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba sumažinama stipendija, arba jis atleidžiamas iš pareigų.
 
 
 
@@ -2459,15 +2597,79 @@ Už sąmoningą neteisingų žinių apie save, savo ryšius ir interesus, galin�
 
 
 
-89 straipsnis.       Statuto nustatytos drausmės pažeidimo tyrimo, drausminių nuobaudų skyrimo, jų vykdymo, taip pat skundų padavimo tvarkos pažeidimas 
+88 straipsnis. Seksualinis priekabiavimas
 
 
-1. Už šio statuto nustatytos drausmės pažeidimo tyrimo, drausminių nuobaudų skyrimo, jų vykdymo, taip pat skundų padavimo tvarkos pažeidimą, padarytą tyčiniais veiksmais, privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariams skiriamas papeikimas arba sumažinamas tarnybinis atlyginimas, arba pažeminamas kario laipsnis; kariūnui sumažinama stipendija arba jis atleidžiamas iš pareigų.
+1. Už priekabiavimą žodžiu, raštu arba veiksmu, nukreiptą prieš kito asmens seksualinį apsisprendimą ir neliečiamybę, jeigu tai neužtraukia baudžiamosios atsakomybės, privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui skiriamas papeikimas arba sumažinamas tarnybinis atlyginimas, arba pažeminamas kario laipsnis; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba sumažinama stipendija, arba jis atleidžiamas iš pareigų.
 
 
 
 
 2. Už tą pačią veiką, padarytą sunkinančiomis aplinkybėmis, profesinės karo tarnybos karys atleidžiamas iš tarnybos, kariūnas pašalinamas iš karo mokymo įstaigos.
+ 
+
+
+
+
+
+
+89 straipsnis. Melagingo paaiškinimo davimas arba atsisakymas duoti paaiškinimus
+
+
+1. Liudytojui už melagingo paaiškinimo dėl drausmės pažeidimo davimą arba atsisakymą duoti paaiškinimus, taip pat vertimą kito kario duoti melagingą paaiškinimą privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas arba pažeminamas kario laipsnis; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba sumažinama stipendija, arba jis atleidžiamas iš pareigų.
+
+
+
+
+2. Už tą pačią veiką, padarytą sunkinančiomis aplinkybėmis, profesinės karo tarnybos karys atleidžiamas iš tarnybos, kariūnas pašalinamas iš karo mokymo įstaigos.
+ 
+
+
+
+
+
+
+90 straipsnis. Šio statuto nustatytos drausmės pažeidimo tyrimo, drausminių nuobaudų skyrimo, jų vykdymo, taip pat skundų padavimo tvarkos pažeidimas
+
+
+1. Už šio statuto nustatytos drausmės pažeidimo tyrimo, drausminių nuobaudų skyrimo, jų vykdymo, taip pat skundų padavimo tvarkos pažeidimą, padarytą tyčiniais veiksmais arba dėl aplaidumo, privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba pažeminamas kario laipsnis; profesinės karo tarnybos kariui skiriamas papeikimas arba sumažinamas tarnybinis atlyginimas, arba pažeminamas kario laipsnis; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos, arba sumažinama stipendija, arba jis atleidžiamas iš pareigų.
+
+
+
+
+2. Už tą pačią veiką, padarytą sunkinančiomis aplinkybėmis, profesinės karo tarnybos karys atleidžiamas iš tarnybos, kariūnas pašalinamas iš karo mokymo įstaigos.
+ 
+
+
+
+
+
+
+91 straipsnis. Krašto apsaugos sistemos pareigūno reikalavimo nevykdymas
+
+
+1. Už krašto apsaugos sistemos pareigūno, atliekančio viešojo administravimo funkcijas ir pagal įstatymus turinčio įgaliojimus duoti nepavaldiems asmenims teisės aktų nustatytus privalomus vykdyti nurodymus, teisėto nurodymo ar reikalavimo nevykdymą, taip pat kitokį trukdymą įgyvendinti teisės aktų jam suteiktas teises ir pareigas profesinės karo tarnybos kariui skiriamas papeikimas arba tarnybinio atlyginimo sumažinimas, arba pažeminamas kario laipsnis.
+
+
+
+
+2. Už tą pačią veiką, padarytą sunkinančiomis aplinkybėmis, profesinės karo tarnybos karys atleidžiamas iš tarnybos.
+ 
+
+
+
+
+
+
+92 straipsnis. Drausmės pažeidimas tarptautinės operacijos metu
+
+
+1. Už šiame skyriuje nurodytus drausmės pažeidimus, padarytus tarptautinėse operacijose, išskyrus pažeidimus, numatytus šio statuto 66 ir 67 straipsniuose, profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas ar pažeminamas kario laipsnis arba karys atleidžiamas iš tarnybos.
+
+
+
+
+2. Už drausmės pažeidimus, padarytus sunkinančiomis aplinkybėmis, profesinės karo tarnybos karys atleidžiamas iš tarnybos.
  
 
 
@@ -2482,10 +2684,10 @@ KITI DRAUSMĖS PAŽEIDIMAI
  
 
 
-90 straipsnis. Neteisėtas įėjimas
+93 straipsnis. Neteisėtas įėjimas
 
 
-Už neteisėtą įėjimą (įvažiavimą) į karinę teritoriją, jei tam reikalingas specialus leidimas, arba pažeidžiant nustatytą įėjimo į karinę teritoriją tvarką, privalomosios karo tarnybos kariui, profesinės karo tarnybos kareiviui (jūreiviui), seržantui, viršilai ar puskarininkiui skiriamas papeikimas arba uždraudžiama išeiti iš tarnybos vietos; profesinės karo tarnybos karininkams skiriamas papeikimas arba sumažinamas tarnybinis atlyginimas; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos.
+Už neteisėtą įėjimą (įvažiavimą) į karinę teritoriją, jeigu tam reikalingas specialus leidimas, arba pažeidžiant nustatytą įėjimo (įvažiavimo) į karinę teritoriją tvarką, privalomosios karo tarnybos kariui, profesinės karo tarnybos kareiviui (jūreiviui) ar puskarininkiui skiriamas papeikimas arba uždraudžiama išeiti iš tarnybos vietos; profesinės karo tarnybos karininkui skiriamas papeikimas arba sumažinamas tarnybinis atlyginimas; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos.
  
 
 
@@ -2493,10 +2695,10 @@ Už neteisėtą įėjimą (įvažiavimą) į karinę teritoriją, jei tam reikal
 
 
 
-91 straipsnis.       Karių mandagumo, visuotinai priimtų elgesio normų ir etikos kodekso pažeidimas 
+94 straipsnis. Karių etikos kodekso pažeidimas
 
 
-Už pakartotiną kariuomenės statutuose nustatytų karių mandagumo, visuotinai priimtų elgesio normų ir etikos kodekso reikalavimų pažeidimą privalomosios karo tarnybos kariui, profesinės karo tarnybos kareiviui (jūreiviui), seržantui, viršilai ar puskarininkiui skiriamas papeikimas arba uždraudžiama išeiti iš tarnybos vietos; profesinės karo tarnybos karininkui skiriamas papeikimas arba sumažinamas tarnybinis atlyginimas; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos.
+Už pakartotinį Karių etikos kodekso reikalavimų pažeidimą privalomosios karo tarnybos kariui, profesinės karo tarnybos kareiviui (jūreiviui) ar puskarininkiui skiriamas papeikimas arba uždraudžiama išeiti iš tarnybos vietos; profesinės karo tarnybos karininkui skiriamas papeikimas arba sumažinamas tarnybinis atlyginimas; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos.
  
 
 
@@ -2504,10 +2706,10 @@ Už pakartotiną kariuomenės statutuose nustatytų karių mandagumo, visuotinai
 
 
 
-92 straipsnis. Uniformos dėvėjimo taisyklių pažeidimas
+95 straipsnis. Uniformos dėvėjimo taisyklių pažeidimas
 
 
-Už uniformos dėvėjimo taisyklių pažeidimą, taip pat neteisėtą apdovanojimų ir kitų pasižymėjimo ženklų nešiojimą privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos; profesinės karo tarnybos kareiviui (jūreiviui), seržantui, viršilai ir puskarininkiui skiriamas papeikimas arba uždraudžiama išeiti iš tarnybos vietos; profesinės karo tarnybos karininkui skiriamas papeikimas arba sumažinamas tarnybinis atlyginimas; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos.
+Už Uniformos dėvėjimo taisyklių pažeidimą, taip pat neteisėtą apdovanojimų ir kitų pasižymėjimo ženklų nešiojimą privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos; profesinės karo tarnybos kareiviui (jūreiviui) ar puskarininkiui skiriamas papeikimas arba uždraudžiama išeiti iš tarnybos vietos; profesinės karo tarnybos karininkui skiriamas papeikimas arba sumažinamas tarnybinis atlyginimas; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos.
  
 
 
@@ -2515,10 +2717,10 @@ Už uniformos dėvėjimo taisyklių pažeidimą, taip pat neteisėtą apdovanoji
 
 
 
-93 straipsnis. Rikiuotės ir karinių ceremonijų statuto taisyklių pažeidimas
+96 straipsnis. Rikiuotės ir karinių ceremonijų statuto taisyklių pažeidimas
 
 
-Už rikiuotės ir karinių ceremonijų statuto taisyklių pažeidimą privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos; profesinės karo tarnybos kareiviui (jūreiviui), seržantui, viršilai ir puskarininkiui skiriamas papeikimas arba uždraudžiama išeiti iš tarnybos vietos; profesinės karo tarnybos karininkui skiriamas papeikimas; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos.
+Už Rikiuotės ir karinių ceremonijų statuto taisyklių pažeidimą privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos; profesinės karo tarnybos kareiviui (jūreiviui) ar puskarininkiui skiriamas papeikimas arba uždraudžiama išeiti iš tarnybos vietos; profesinės karo tarnybos karininkui skiriamas papeikimas; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos.
  
 
 
@@ -2526,10 +2728,10 @@ Už rikiuotės ir karinių ceremonijų statuto taisyklių pažeidimą privalomos
 
 
 
-94 straipsnis. Higienos reikalavimų nesilaikymas
+97 straipsnis. Visuomenės sveikatos saugos reikalavimų nesilaikymas
 
 
-Už nustatytų higienos reikalavimų nesilaikymą ar kliudymą kitiems jų laikytis privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos; profesinės karo tarnybos kareiviui (jūreiviui), seržantui, viršilai ir puskarininkiui skiriamas papeikimas arba uždraudžiama išeiti iš tarnybos vietos; profesinės karo tarnybos karininkui skiriamas papeikimas; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos.
+Už nustatytų visuomenės sveikatos saugos reikalavimų nesilaikymą ar kliudymą kitiems jų laikytis privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos; profesinės karo tarnybos kareiviui (jūreiviui) ar puskarininkiui skiriamas papeikimas arba uždraudžiama išeiti iš tarnybos vietos; profesinės karo tarnybos karininkui skiriamas papeikimas; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos.
  
 
 
@@ -2537,10 +2739,10 @@ Už nustatytų higienos reikalavimų nesilaikymą ar kliudymą kitiems jų laiky
 
 
 
-95 straipsnis. Rūkymas ne tam skirtose vietose
+98 straipsnis. Rūkymas ne tam skirtose vietose
 
 
-Už rūkymą tarnybos vietoje, kurioje vado (viršininko) įsakymu draudžiama tai daryti, privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos; profesinės karo tarnybos kareiviui (jūreiviui), seržantui, viršilai ir puskarininkiui skiriamas papeikimas arba uždraudžiama išeiti iš tarnybos vietos; profesinės karo tarnybos karininkui skiriamas papeikimas; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos.
+Už rūkymą tarnybos vietoje, kurioje vado (viršininko) įsakymu draudžiama tai daryti, privalomosios karo tarnybos kariui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos; profesinės karo tarnybos kareiviui (jūreiviui) ar puskarininkiui skiriamas papeikimas arba uždraudžiama išeiti iš tarnybos vietos; profesinės karo tarnybos karininkui skiriamas papeikimas; kariūnui skiriamas papeikimas arba papildomos tarnybos užduotys, arba uždraudžiama išeiti iš tarnybos vietos.
  
 
 
@@ -2548,7 +2750,7 @@ Už rūkymą tarnybos vietoje, kurioje vado (viršininko) įsakymu draudžiama t
 
 
 
-96 straipsnis. Apdovanojimų ir skatinimų tvarkos pažeidimas
+99 straipsnis. Apdovanojimų ir skatinimų tvarkos pažeidimas
 
 
 Už apdovanojimų ir skatinimų tvarkos pažeidimą profesinės karo tarnybos kariui skiriamas papeikimas arba sumažinamas tarnybinis atlyginimas.
@@ -2559,10 +2761,10 @@ Už apdovanojimų ir skatinimų tvarkos pažeidimą profesinės karo tarnybos ka
 
 
 
-97 straipsnis.       Statuto nustatytas drausmės pažeidimas, padarytas atsargos arba dimisijos kario, dėvinčio kario uniformą, taip pat Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme nustatytų apribojimų pažeidimas
+100 straipsnis. Šio statuto nustatytas drausmės pažeidimas, padarytas atsargos ar dimisijos kario, dėvinčio kario uniformą, taip pat Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatytų apribojimų pažeidimas
 
 
-Už šiame statute nustatytą drausmės pažeidimą, padarytą atsargos arba dimisijos kario, dėvinčio kario uniformą, taip pat Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme nustatytų apribojimų pažeidimą dimisijos kariui atimama teisė dėvėti kario uniformą iškilmingomis progomis; atsargos kariui skiriamas papeikimas arba atimama teisė dėvėti kario uniformą iškilmingomis progomis, arba pažeminamas atsargos kario laipsnis.
+Už šiame statute nustatytą drausmės pažeidimą, padarytą atsargos arba dimisijos kario, dėvinčio kario uniformą, taip pat Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatytų apribojimų pažeidimą dimisijos kariui atimama teisė dėvėti kario uniformą iškilmingomis progomis; atsargos kariui skiriamas papeikimas arba atimama teisė dėvėti kario uniformą iškilmingomis progomis, arba pažeminamas atsargos kario laipsnis.
 
 
 
@@ -2573,6 +2775,7 @@ Už šiame statute nustatytą drausmės pažeidimą, padarytą atsargos arba dim
 
 Priedo pakeitimai:
 Nr. X-508, 2006-01-20, Žin., 2006, Nr. 17-603 (2006-02-11), i. k. 1061010ISTA000X-508
+Nr. XI-1636, 2011-11-08, Žin., 2011, Nr. 143-6704 (2011-11-26), i. k. 1111010ISTA0XI-1636
  
  
  
@@ -2592,3 +2795,8 @@ Lietuvos Respublikos kariuomenės drausmės statuto pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1512, 2011-06-23, Žin., 2011, Nr. 86-4154 (2011-07-13), i. k. 1111010ISTA0XI-1512
 Lietuvos Respublikos kariuomenės drausmės statuto 8 ir 38 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1636, 2011-11-08, Žin., 2011, Nr. 143-6704 (2011-11-26), i. k. 1111010ISTA0XI-1636
+Lietuvos Respublikos kariuomenės drausmės statuto pakeitimo įstatymas
