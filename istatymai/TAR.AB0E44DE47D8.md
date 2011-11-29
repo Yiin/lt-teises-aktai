@@ -187,14 +187,23 @@ po jo mirties. Žala atlyginama:
 1) nepilnamečiams – iki jiems sukanka 18
 metų, o jeigu jie mokosi ar studijuoja pagal formaliojo švietimo programų dienines
 ar nuolatines mokymo (studijų) formas, – iki jiems sukanka 24 metai;
+1 punkto
+redakcija nuo 2011-12-30:
+1) nepilnamečiams – iki jiems sukanka 18
+metų, o jeigu jie mokosi ar studijuoja pagal nustatyta tvarka įregistruotas
+švietimo įstaigų bendrojo ugdymo programas, formaliojo profesinio mokymo
+programas ir dieninių ar nuolatinių studijų programas, – iki mokymosi ar
+studijų pagal šias programas baigimo, bet ne ilgiau, iki jiems sukanka
+24 metai;
+ 
 2) asmenims,
 sulaukusiems senatvės pensijos amžiaus, – iki gyvos galvos;
 3) asmenims,
 kurie pripažinti neįgaliaisiais, – jų neįgalumo laikotarpiu;
-4) mirusiojo sutuoktiniui ar tėvui (motinai),
-įtėviui, nepaisant amžiaus ir darbingumo, jeigu jis nedirba ir prižiūri
-mirusiojo vaikus, vaikaičius, įvaikius, brolius ar seseris, – iki šiems sukanka
-8 metai.
+4) mirusiojo sutuoktiniui ar tėvui
+(motinai), įtėviui, nepaisant amžiaus ir darbingumo, jeigu jis nedirba ir
+prižiūri mirusiojo vaikus, vaikaičius, įvaikius, brolius ar seseris, – iki
+šiems sukanka 8 metai.
 2. Šio straipsnio 1 dalyje nurodytiems
 asmenims žalos atlyginimas, kuris lygus periodinei netekto darbingumo
 kompensacijai (šio įstatymo 13 straipsnis), padalintai iš vienetu padidinto šio
@@ -208,6 +217,9 @@ Nr. X-211, 2005-05-19,
 Nr.
 XI-752,
 2010-04-13, Žin., 2010, Nr. 48-2302 (2010-04-27)
+Nr.
+XI-1645,
+2011-11-10, Žin., 2011, Nr. 144-6754 (2011-11-29)
  
 8
 straipsnis. Neteko galios nuo 2010 m. balandžio 27 d.
@@ -268,11 +280,11 @@ TVARKA
  
 11
 straipsnis. Vidutinis darbo užmokestis
-1. Nukentėjusiojo vidutinis darbo
-užmokestis apskaičiuojamas laikantis Vyriausybės patvirtinto Darbuotojo ir
-valstybės tarnautojo vidutinio darbo užmokesčio apskaičiavimo tvarkos aprašo
-pagal darbo užmokestį, gautą iki nelaimingo atsitikimo darbe arba susirgimo
-profesine liga nustatymo.
+1. Nukentėjusiojo vidutinis darbo užmokestis
+apskaičiuojamas laikantis Vyriausybės patvirtinto Darbuotojo ir valstybės
+tarnautojo vidutinio darbo užmokesčio apskaičiavimo tvarkos aprašo pagal darbo
+užmokestį, gautą iki nelaimingo atsitikimo darbe arba susirgimo profesine liga
+nustatymo.
 2. Profesinės
 ligos atveju nukentėjusiojo pageidavimu vidutinis darbo užmokestis
 apskaičiuojamas pagal nukentėjusiojo pasirinktų paeiliui einančių 6 mėnesių iš
@@ -284,11 +296,11 @@ kai nustatoma, kad susirgimą profesine liga sukėlė darbas darbovietėje, kuri
 nukentėjusysis dirbo iki jo atleidimo iš šios darbovietės ar perkėlimo į kitą
 mažiau apmokamą darbą toje pačioje darbovietėje, vidutinis darbo užmokestis
 nukentėjusiojo pageidavimu apskaičiuojamas pagal toje darbovietėje, kurioje
-darbas sukėlė profesinę ligą, gautą darbo užmokestį iš nukentėjusiojo
-pasirinktų paeiliui einančių 6 mėnesių per 24 mėnesių laikotarpį iki jo
-perkėlimo į kitą mažiau apmokamą darbą ar atleidimo iš tos darbovietės dienos,
-laikantis Vyriausybės patvirtinto Darbuotojo ir valstybės tarnautojo vidutinio
-darbo užmokesčio apskaičiavimo tvarkos aprašo.
+darbas sukėlė profesinę ligą, gautą darbo užmokestį iš nukentėjusiojo pasirinktų
+paeiliui einančių 6 mėnesių per 24 mėnesių laikotarpį iki jo perkėlimo į kitą
+mažiau apmokamą darbą ar atleidimo iš tos darbovietės dienos, laikantis
+Vyriausybės patvirtinto Darbuotojo ir valstybės tarnautojo vidutinio darbo
+užmokesčio apskaičiavimo tvarkos aprašo.
 Straipsnio
 pakeitimai:
 Nr. VIII-1403, 1999 11 11, Žin., 1999, Nr.
@@ -301,12 +313,11 @@ XI-752,
  
 12 straipsnis.
 Vienkartinė netekto darbingumo kompensacija
-1. Jeigu nukentėjusysis neteko iki 20
-procentų (imtinai) darbingumo, jam išmokama 10 procentų jo 24 mėnesių
-kompensuojamojo uždarbio dydžio vienkartinė kompensacija; jei nukentėjusysis
-neteko daugiau negu 20, bet mažiau negu 30 procentų darbingumo, jam išmokama 20
-procentų jo 24 mėnesių kompensuojamojo uždarbio dydžio vienkartinė
-kompensacija.
+1. Jeigu nukentėjusysis neteko iki 20 procentų
+(imtinai) darbingumo, jam išmokama 10 procentų jo 24 mėnesių kompensuojamojo
+uždarbio dydžio vienkartinė kompensacija; jei nukentėjusysis neteko daugiau
+negu 20, bet mažiau negu 30 procentų darbingumo, jam išmokama 20 procentų jo 24
+mėnesių kompensuojamojo uždarbio dydžio vienkartinė kompensacija.
 2. Kompensuojamasis uždarbis
 apskaičiuojamas dauginant jų kompensavimo koeficientą (k) (šio įstatymo 2
 straipsnio 11 dalis) iš draudžiamųjų pajamų (D) (šio įstatymo 2 straipsnio 10
@@ -349,8 +360,8 @@ atlyginimo mokėtojo nustatytomis dienomis, ne vėliau kaip mėnesio paskutinę
 darbo dieną, ir apskaičiuojama kaip darbingumo netekimo koeficiento (d) (šio
 įstatymo 2 straipsnio 9 dalis), kompensavimo koeficiento (k) (šio įstatymo 2
 straipsnio 11 dalis) ir mokėjimo mėnesį galiojančių einamųjų metų draudžiamųjų
-pajamų (D) (šio įstatymo 2 straipsnio 10 dalis) sandaugos pusė, 
-t. y. pagal formulę 0,5 x d x k x D.
+pajamų (D) (šio įstatymo 2 straipsnio 10 dalis) sandaugos pusė, t. y. pagal
+formulę 0,5 x d x k x D.
 3. Laiku neišmokėjus šios
 kompensacijos, skaičiuojami ir mokami delspinigiai Lietuvos Respublikos
 delspinigių nustatymo už išmokų, susijusių su darbo santykiais, pavėluotą
@@ -383,17 +394,18 @@ vienkartinė netekto darbingumo kompensacija, o periodinės netekto darbingumo
 kompensacijos mokėjimas nutraukiamas.
 3. Jeigu
 nukentėjusiajam, gaunančiam periodinę netekto darbingumo kompensaciją, netekto
-darbingumo procentai pakartotinai sumažėja iki šio įstatymo 12 straipsnio 1 dalyje
-nustatyto dydžio, vienkartinė netekto darbingumo kompensacija mokama šio
+darbingumo procentai pakartotinai sumažėja iki šio įstatymo 12 straipsnio 1
+dalyje nustatyto dydžio, vienkartinė netekto darbingumo kompensacija mokama šio
 įstatymo 12 straipsnio 5 dalyje nustatyta tvarka.
 4. Jeigu
 nukentėjusiojo, gavusio periodinę ir vienkartinę netekto darbingumo
 kompensacijas (ar iš naujo apskaičiuotos ir jau išmokėtos vienkartinės netekto
 darbingumo kompensacijos skirtumą), netektas darbingumas, nepraėjus 24
 mėnesiams nuo teisės į vienkartinę kompensaciją atsiradimo dienos, pakartotinai
-padidėja iki 30 ir daugiau procentų, iš apskaičiuotos periodinės netekto darbingumo
-kompensacijos sumos išskaičiuojama išmokėtos vienkartinės netekto darbingumo
-kompensacijos (ar jos skirtumo) dalis už likusį iki 24 mėnesių laikotarpį.
+padidėja iki 30 ir daugiau procentų, iš apskaičiuotos periodinės netekto
+darbingumo kompensacijos sumos išskaičiuojama išmokėtos vienkartinės netekto
+darbingumo kompensacijos (ar jos skirtumo) dalis už likusį iki 24 mėnesių
+laikotarpį.
 Straipsnio pakeitimai:
 Nr. X-211, 2005-05-19,
 Žin., 2005, Nr. 71-2557 (2005-06-07)
@@ -797,10 +809,23 @@ Nr. XI-1096,
 ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA
 LAIKINOJO ĮSTATYMO 19 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+11.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-1645,
+2011-11-10, Žin., 2011, Nr. 144-6754 (2011-11-29)
+ŽALOS
+ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA
+LAIKINOJO ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja po vieno mėnesio nuo
+paskelbimo leidinyje „Valstybės žinios“ dienos, t. y. nuo 2011-12-30.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2010-11-23)
-                  autrap@lrs.lt
+Aušrinė Trapinskienė (2011-11-30)
+                 
+ausrine.trapinskiene@lrs.lt
