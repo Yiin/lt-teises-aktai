@@ -18,7 +18,6 @@ skelbtas: Žin., 1999, Nr. 110-3207
 Neoficialus
 įstatymo tekstas
  
-Įstatymo aktuali redakcija nuo 2010 m. liepos 1 d.
 LIETUVOS RESPUBLIKOS
 NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO
 DRAUDIMO
@@ -79,8 +78,8 @@ teritoriniam skyriui arba už kurį jis mokėjo ar privalėjo mokėti nelaiming�
 atsitikimų darbe socialinio draudimo įmokas.
 2. Apdraustojo asmens draudžiamosios pajamos – visos pajamos, nuo kurių buvo mokamos arba turėjo būti mokamos valstybinio socialinio draudimo įmokos nelaimingų atsitikimų darbe socialiniam draudimui, taip pat priskaičiuotos ligos dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba profesinės ligos pašalpos, nustatytos šiame įstatyme, priskaičiuotos ligos, profesinės reabilitacijos, motinystės, tėvystės, motinystės (tėvystės) pašalpos, nustatytos Ligos ir motinystės socialinio draudimo įstatyme, bei priskaičiuotos nedarbo socialinio draudimo išmokos, kurios pagal Nedarbo socialinio draudimo įstatymą yra mokamos bedarbiams. Apdraustojo asmens draudžiamosioms pajamoms taip pat prilyginamos sumos, nuo kurių Biudžeto sandaros įstatyme nurodyti valstybės biudžeto asignavimų valdytojai moka valstybinio socialinio draudimo įmokas nelaimingų atsitikimų darbe socialiniam draudimui už profesinių mokyklų mokinius, aukštųjų mokyklų studentus ir asmenis, teritorinių darbo biržų siųstus profesiniam mokymui ar profesinei reabilitacijai.3. Darbingumo netekimas – darbingumo netekimas dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba dėl susirgimo profesine liga. Netektas darbingumas išreiškiamas procentais. Jei nukentėjusysis miršta dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba dėl ūmios profesinės ligos, laikoma, kad netekta 100 procentų darbingumo. Darbingumo netekimą dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba susirgimo profesine liga Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka nustato Neįgalumo ir darbingumo nustatymo tarnyba prie Socialinės apsaugos ir darbo ministerijos (toliau – NDNT).
 4. Darbingumo
-netekimo koeficientas (d) – vieneto dalimis išreikštas dydis, apskaičiuojamas
-netekto darbingumo procentą dalijant iš 100.
+netekimo koeficientas (d) – vieneto dalimis išreikštas dydis,
+apskaičiuojamas netekto darbingumo procentą dalijant iš 100.
 5. Darbo
 vieta – vieta, kurioje asmuo dirba ar privalo dirbti darbo sutartyje
 sulygtą darbą arba atlieka viešojo administravimo funkcijas.
@@ -95,8 +94,8 @@ Draudžiamosios pajamos (D) – Valstybinių socialinio draudimo pensijų
 8.
 Kompensavimo koeficientas (k) lėtinės profesinės ligos atveju yra
 apskaičiuojamas pagal formulę k = (K1·S1 + K2·S2)/(S1+S2). Čia:
-1) K1 ir K2 – asmens draudžiamųjų pajamų koeficientai,
-taikomi atitinkamai už laikotarpį iki 1994 metų ir nuo 1994 metų, apskaičiuoti
+1) K1 ir K2 – asmens draudžiamųjų pajamų koeficientai, taikomi
+atitinkamai už laikotarpį iki 1994 metų ir nuo 1994 metų, apskaičiuoti
 Valstybinių socialinio draudimo pensijų įstatymo nustatyta tvarka;
 2) S1 – pensijų
 draudimo stažo metų, pagal kuriuos apskaičiuotas koeficientas K1, skaičius;
@@ -107,12 +106,12 @@ profesinės ligos atveju – asmens vidutinių mėnesinių draudžiamųjų pajam
 per paskutinius paeiliui einančius 12 mėnesių, skaičiuojant atgal nuo pabaigos
 užpraeito kalendorinio mėnesio, buvusio prieš nelaimingo atsitikimo darbe,
 pakeliui į darbą ar iš darbo arba ūmios profesinės ligos nustatymo mėnesį,
-santykis su nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba susirgimo
-ūmia profesine liga nustatymo metu galiojančiomis einamųjų metų
+santykis su nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba
+susirgimo ūmia profesine liga nustatymo metu galiojančiomis einamųjų metų
 draudžiamosiomis pajamomis. Šis koeficientas taip pat taikomas skaičiuojant
 netekto darbingumo periodinę kompensaciją, kai asmuo, kuriam nustatyta lėtinė
-profesinė liga, pagal Valstybinių socialinio draudimo pensijų įstatymą neturi
-teisės gauti netekto darbingumo (invalidumo) arba senatvės pensijos.
+profesinė liga, pagal Valstybinių socialinio draudimo pensijų įstatymą neturi teisės
+gauti netekto darbingumo (invalidumo) arba senatvės pensijos.
 10. Kompensavimo koeficiento (k)
 ribos – šio Įstatymo nustatytoms išmokoms apskaičiuoti taikomas
 kompensavimo koeficientas, ne mažesnis kaip 0,25 ir ne didesnis kaip 3.
@@ -174,9 +173,9 @@ straipsnio 1 dalies 2 punkte;
 laisvės atėmimu – šių asmenų darbo laikui.
 2. Šio straipsnio 1 dalies 1, 2, 4, 5 punktuose nurodyti asmenys
 draudžiami, jeigu jiems už darbą ar tarnybą mokamas darbo užmokestis. Šio
-straipsnio 1 dalies 3 punkte nurodyti asmenys draudžiami valstybės biudžeto lėšomis,
-skaičiuojant nelaimingų atsitikimų darbe socialinio draudimo įmokas nuo
-Vyriausybės patvirtintos minimaliosios mėnesinės algos.
+straipsnio 1 dalies 3 punkte nurodyti asmenys draudžiami valstybės biudžeto
+lėšomis, skaičiuojant nelaimingų atsitikimų darbe socialinio draudimo įmokas
+nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos.
 Straipsnio
 pakeitimai:
 Nr.
@@ -264,15 +263,23 @@ darbą ar iš darbo;
 apie darbo sutarties nutraukimą laikotarpiu (pagal Darbo kodekso 130 straipsnio
 3 dalį) darbuotojas ieško naujo darbo;
 4)
-apdraustiesiems atliekant įstatymų nustatytas valstybines, visuomenines ar
-piliečio pareigas, kai už tą laiką mokamas darbo užmokestis arba atitinkama
+apdraustiesiems atliekant įstatymų nustatytas valstybines, visuomenines ar piliečio
+pareigas, kai už tą laiką mokamas darbo užmokestis arba atitinkama
 kompensacija, nuo kurių mokamos arba turi būti mokamos nelaimingų atsitikimų
 darbe socialinio draudimo įmokos.
+ 
 5.
 Namudininkams, dirbantiems pagal darbo sutartį, draudiminiais įvykiais
 pripažįstami tik tie nelaimingi atsitikimai ir ūmios profesinės ligos, kuriuos,
 dirbant darbdavio naudai, lėmė ar sukėlė darbdavio pateiktos medžiagos ar darbo
 priemonės, taip pat pats gamybos procesas.
+5 dalies redakcija nuo 2011-12-30:
+5. Asmenims, dirbantiems
+pagal nuotolinio darbo sutartį, draudiminiais įvykiais pripažįstami tik tie
+nelaimingi atsitikimai ir ūmios profesinės ligos, kuriuos, dirbant darbdavio
+naudai, lėmė ar sukėlė darbdavio pateiktos medžiagos ar darbo priemonės, taip
+pat pats gamybos procesas.
+ 
 6. Sprendimus
 dėl nelaimingų atsitikimų darbe, pakeliui į darbą ar iš darbo ir profesinių
 ligų pripažinimo draudiminiais įvykiais, remdamiesi nelaimingų atsitikimų
@@ -287,6 +294,9 @@ pakeitimai:
 Nr.
 X-475,
 2005-12-23, Žin., 2005, Nr. 153-5642 (2005-12-31)
+Nr.
+XI-1644,
+2011-11-10, Žin., 2011, Nr. 144-6753 (2011-11-29)
  
 7 straipsnis. Nedraudiminiai įvykiai
 1.
@@ -317,8 +327,8 @@ su darbu, išskyrus atvejus, kai nelaimingas atsitikimas įvyksta pakeliui į
 darbą ar iš darbo.
 3. Draudiminiais
 įvykiais taip pat nepripažįstami nelaimingi atsitikimai darbe arba ūmios
-profesinės ligos, kuriuos ištyrus nustatoma, kad nelaimingas atsitikimas darbe
-įvyko, ūmi profesinė liga pasireiškė esant tinkamoms, saugioms, sveikatai
+profesinės ligos, kuriuos ištyrus nustatoma, kad nelaimingas atsitikimas darbe įvyko,
+ūmi profesinė liga pasireiškė esant tinkamoms, saugioms, sveikatai
 nekenksmingoms darbo sąlygoms ir juos lėmė apdraustojo neblaivumas
 (girtumas) arba apsvaigimas nuo psichiką veikiančių medžiagų. Nelaimingi
 atsitikimai pakeliui į darbą ar iš darbo nepripažįstami draudiminiais įvykiais,
@@ -347,8 +357,8 @@ privalo:
 kad įmonėse būtų laikomasi darbuotojų saugos ir sveikatos teisės aktų
 reikalavimų;
 2) užtikrinti
-pirmąją medicinos pagalbą nukentėjusiajam dėl nelaimingo atsitikimo darbe ar ūmios
-profesinės ligos, taip pat prireikus nugabenti nukentėjusįjį į sveikatos
+pirmąją medicinos pagalbą nukentėjusiajam dėl nelaimingo atsitikimo darbe ar
+ūmios profesinės ligos, taip pat prireikus nugabenti nukentėjusįjį į sveikatos
 priežiūros įstaigą;
 3) darbuotojų
 saugos ir sveikatos teisės aktų nustatyta tvarka pranešti apie nelaimingą
@@ -369,9 +379,8 @@ nelaimingą atsitikimą darbe, pakeliui į darbą ar iš darbo arba profesinį
 susirgimą jis nepripažįs­tamas draudiminiu įvykiu, sužalotam ar susirgusiam
 profesine liga asmeniui ir (ar) jo šeimos nariams žala atlyginama Civilinio
 kodekso nustatyta tvarka. 
-3. Už šio
-Įstatymo nustatytų pareigų nevykdymą draudėjas atsako įstatymų nustatyta
-tvarka.
+3. Už šio Įstatymo
+nustatytų pareigų nevykdymą draudėjas atsako įstatymų nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.
@@ -412,8 +421,8 @@ nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba profesinės li
 pašalpa (toliau – ligos pašalpa);
 2) netekto
 darbingumo vienkartinė kompensacija;
-3) netekto darbingumo
-periodinė kompensacija.
+3) netekto
+darbingumo periodinė kompensacija.
 2. Apdraustajam
 mirus dėl draudiminio įvykio, jo šeimos nariams lygiomis dalimis išmokama
 vienkartinė draudimo išmoka pagal šio Įstatymo 27 straipsnį.
@@ -445,8 +454,8 @@ pagal apdraustojo asmens draudžiamąsias pajamas, turėtas per paeiliui einanč
 3 kalendorinius mėnesius, buvusius iki praeito kalendorinio mėnesio prieš
 laikinojo nedarbingumo nustatymo mėnesį.
 2. Mėnesio
-kompensuojamasis uždarbis ligos pašalpoms apskaičiuoti negali viršyti Vyriausybės
-patvirtintų einamųjų metų draudžiamųjų pajamų, galiojusių laikinojo
+kompensuojamasis uždarbis ligos pašalpoms apskaičiuoti negali viršyti
+Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų, galiojusių laikinojo
 nedarbingumo nustatymo mėnesį, penkių dydžių sumos.
 3. Mėnesio
 kompensuojamasis uždarbis ligos pašalpai apskaičiuoti negali būti mažesnis už
@@ -501,8 +510,8 @@ straipsnis. Ligos pašalpų mokėjimo šaltiniai
 Ligos pašalpos,
 susižalojus darbe, pakeliui į darbą ar iš darbo arba susirgus profesine liga,
 už laikotarpį nuo pirmos laikinojo nedarbingumo dienos mokamos iš Valstybinio
-socialinio draudimo fondo biudžeto nelaimingų atsitikimų darbe socialiniam
-draudimui skirtų lėšų.
+socialinio draudimo fondo biudžeto nelaimingų atsitikimų darbe socialiniam draudimui
+skirtų lėšų.
  
 17 straipsnis. Sąlygos, kurioms esant ligos pašalpa nemokama 
 Laikinai
@@ -554,8 +563,7 @@ su puse dydžių sumos.
 apdraustajam, kuriam jau buvo išmokėta netekto darbingumo vienkartinė
 kompensacija, netektas darbingumas pasikeičia ir neviršija pagal šį straipsnį
 nustatytų dydžių, o naujai apskaičiuota vienkartinė kompensacija yra didesnė už
-gautąją, išmokamas naujai apskaičiuotos ir jau išmokėtos kompensacijos
-skirtumas.
+gautąją, išmokamas naujai apskaičiuotos ir jau išmokėtos kompensacijos skirtumas.
 7. Netekto
 darbingumo vienkartinė kompensacija skiriama pasibaigus NDNT sprendimo
 apskundimo terminui Nelaimingų atsitikimų darbe ir profesinių ligų socialinio
@@ -652,7 +660,16 @@ Nr. X-211, 2005-05-19,
 Žin., 2005, Nr. 71-2557 (2005-06-07)
  
 26 straipsnis. Periodinė draudimo išmoka apdraustajam mirus 
-1. Jeigu apdraustasis dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba ūmios profesinės ligos, pripažintų draudiminiais įvykiais, miršta, teisę į periodinę draudimo išmoką turi nedarbingi asmenys, kurie buvo mirusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą, taip pat mirusiojo vaikas (vaikai), gimęs (gimę) praėjus ne daugiau kaip 300 dienų po jo mirties. Periodinę draudimo išmoką taip pat turi teisę gauti mirusiojo vaikai (įvaikiai), kurie buvo mirusiojo išlaikomi arba po jo mirties dienos įgijo teisę į jo išlaikymą. Išmoka mokama:1) vaikams (įvaikiams) – kol jiems sukaks 18 metų, o jeigu jie mokosi nustatyta tvarka įregistruotų aukštųjų, profesinių, bendrojo lavinimo mokyklų dieniniuose skyriuose, – kol jiems sukaks 24 metai;2) mirusiojo sutuoktiniui ar tėvui (motinai), įtėviui (įmotei), nepaisant amžiaus ir darbingumo, jeigu jis nedirba ir prižiūri mirusiojo vaikus (įvaikius), vaikaičius, brolius ar seseris, – kol šiems sukaks 8 metai;3) mirusiojo sutuoktiniui, sukakusiam Valstybinių socialinio draudimo pensijų įstatymo nustatytą senatvės pensijos amžių, – iki gyvos galvos;4) mirusiojo sutuoktiniui, kuris pripažintas nedarbingu ar iš dalies darbingu (iki 2005 m. liepos 1 d. – invalidu), ir mirusiojo vaikams (įvaikiams), vyresniems kaip 18 metų, jeigu jie pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki 18 metų, – kol jie yra nedarbingi ar iš dalies darbingi (invalidai);5) kitiems pripažintiems nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) arba sukakusiems senatvės pensijos amžių asmenims, kurie buvo mirusiojo išlaikomi arba jo mirties dieną turėjo gauti jo išlaikymą. Šių asmenų išlaikymo ar teisių į išlaikymą faktas įrodomas teismo tvarka, o jų nedarbingumo faktas nustatomas NDNT arba teismo sprendimu.
+1. Jeigu apdraustasis dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba ūmios profesinės ligos, pripažintų draudiminiais įvykiais, miršta, teisę į periodinę draudimo išmoką turi nedarbingi asmenys, kurie buvo mirusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą, taip pat mirusiojo vaikas (vaikai), gimęs (gimę) praėjus ne daugiau kaip 300 dienų po jo mirties. Periodinę draudimo išmoką taip pat turi teisę gauti mirusiojo vaikai (įvaikiai), kurie buvo mirusiojo išlaikomi arba po jo mirties dienos įgijo teisę į jo išlaikymą. Išmoka mokama: 1) vaikams (įvaikiams) – kol jiems sukaks 18 metų, o jeigu jie mokosi nustatyta tvarka įregistruotų aukštųjų, profesinių, bendrojo lavinimo mokyklų dieniniuose skyriuose, – kol jiems sukaks 24 metai;
+1 punkto redakcija nuo 2011-12-30:
+1) vaikams
+(įvaikiams) – kol jiems sukaks 18 metų, taip pat nustatyta tvarka
+įregistruotose švietimo įstaigose pagal bendrojo ugdymo programą ar formaliojo
+profesinio mokymo programą besimokantiems mokiniams ir pagal dieninių ar
+nuolatinių studijų programą studijuojantiems studentams – iki mokymosi ar
+studijų pagal šias programas baigimo, bet ne ilgiau, iki jiems sukaks 24 metai;
+ 
+2) mirusiojo sutuoktiniui ar tėvui (motinai), įtėviui (įmotei), nepaisant amžiaus ir darbingumo, jeigu jis nedirba ir prižiūri mirusiojo vaikus (įvaikius), vaikaičius, brolius ar seseris, – kol šiems sukaks 8 metai;3) mirusiojo sutuoktiniui, sukakusiam Valstybinių socialinio draudimo pensijų įstatymo nustatytą senatvės pensijos amžių, – iki gyvos galvos;4) mirusiojo sutuoktiniui, kuris pripažintas nedarbingu ar iš dalies darbingu (iki 2005 m. liepos 1 d. – invalidu), ir mirusiojo vaikams (įvaikiams), vyresniems kaip 18 metų, jeigu jie pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki 18 metų, – kol jie yra nedarbingi ar iš dalies darbingi (invalidai);5) kitiems pripažintiems nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) arba sukakusiems senatvės pensijos amžių asmenims, kurie buvo mirusiojo išlaikomi arba jo mirties dieną turėjo gauti jo išlaikymą. Šių asmenų išlaikymo ar teisių į išlaikymą faktas įrodomas teismo tvarka, o jų nedarbingumo faktas nustatomas NDNT arba teismo sprendimu.
 2. Šio straipsnio 1 dalyje nurodytiems asmenims kas mėnesį
 mokama draudimo išmoka, lygi periodinei netekto darbingumo kompensacijai (šio
 Įstatymo 20 straipsnis), padalytai iš vienetu padidinto šio straipsnio 1 dalyje
@@ -670,8 +687,11 @@ Nr. X-211, 2005-05-19,
 Nr.
 X-668,
 2006-06-08, Žin., 2006, Nr. 72-2684 (2006-06-28)
-Nr. X-1401, 2007-12-20,
-Žin., 2007, Nr. 138-5656 (2007-12-29)
+Nr. X-1401,
+2007-12-20, Žin., 2007, Nr. 138-5656 (2007-12-29)
+Nr.
+XI-1644,
+2011-11-10, Žin., 2011, Nr. 144-6753 (2011-11-29)
  
 27 straipsnis. Vienkartinė draudimo išmoka apdraustajam mirus
 1. Apdraustajam mirus dėl nelaimingo atsitikimo
@@ -688,6 +708,17 @@ jiems sukaks 18 metų, taip pat besimokantys nustatyta tvarka įregistruotų
 aukštųjų, profesinių, bendrojo lavinimo mokyklų dieniniuose skyriuose, kol
 jiems sukaks 24 metai, mirusiojo vaikai (įvaikiai), vyresni kaip 18 metų, jeigu
 jie pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki 18 metų, mirusiojo vaikai, gimę po jo mirties, tėvas (įtėvis) ir motina (įmotė).
+2 dalies redakcija nuo 2011-12-30:
+2. Mirusiojo
+šeimos nariais laikomi jo sutuoktinis, nepilnamečiai vaikai (įvaikiai), iki
+jiems sukaks 18 metų, taip pat nustatyta tvarka įregistruotose švietimo
+įstaigose pagal bendrojo ugdymo programą ar formaliojo profesinio mokymo
+programą besimokantys mokiniai ir pagal dieninių ar nuolatinių studijų programą
+studijuojantys studentai, – iki mokymosi ar studijų pagal šias programas
+baigimo, bet ne ilgiau, iki jiems sukaks 24 metai, mirusiojo vaikai (įvaikiai),
+vyresni kaip 18 metų, jeigu jie pripažinti neįgaliaisiais (iki 2005 m. liepos 1
+d. – invalidais) iki 18 metų, mirusiojo vaikai, gimę po jo mirties, tėvas
+(įtėvis) ir motina (įmotė).
 Straipsnio
 pakeitimai:
 Nr.
@@ -697,6 +728,9 @@ Nr. X-211, 2005-05-19,
 Žin., 2005, Nr. 71-2557 (2005-06-07)
 Nr. X-1401,
 2007-12-20, Žin., 2007, Nr. 138-5656 (2007-12-29)
+Nr.
+XI-1644,
+2011-11-10, Žin., 2011, Nr. 144-6753 (2011-11-29)
  
 TREČIASIS
 SKIRSNIS
@@ -708,16 +742,15 @@ straipsnis. Nelaimingų atsitikimų darbe socialinio draudimo lėšos
 1.
 Nelaimingų atsitikimų darbe socialiniam draudimui skirtos lėšos įstatymų
 nustatyta tvarka įtraukiamos į Valstybinio socialinio draudimo fondo biudžetą
-pagal Lietuvos Respublikos Seimo nustatytus šiai valstybinio socialinio draudimo
-rūšiai įmokų tarifus.
+pagal Lietuvos Respublikos Seimo nustatytus šiai valstybinio socialinio
+draudimo rūšiai įmokų tarifus.
 2. Nelaimingų
 atsitikimų darbe socialinio draudimo pajamas sudaro draudėjų ir Biudžeto
 sandaros įstatyme nurodytų valstybės biudžeto asignavimų valdytojų mokamos šiai
 draudimo rūšiai valstybinio socialinio draudimo įmokos, delspinigiai, baudos ir
 atgręžtinio reikalavimo tvarka iš kaltų asmenų ar jų draudimo įstaigų gautos
-lėšos. Nelaimingų atsitikimų darbe socialinio draudimo pajamų dalį gali
-sudaryti lėšos iš Valstybinio socialinio draudimo fondo biudžeto rezervo.
- 
+lėšos. Nelaimingų atsitikimų darbe socialinio draudimo pajamų dalį gali sudaryti
+lėšos iš Valstybinio socialinio draudimo fondo biudžeto rezervo.
 3.
 Nelaimingų atsitikimų darbe socialinio draudimo lėšos gali būti naudojamos
 nelaimingų atsitikimų darbe ir profesinių ligų prevencijai. Nelaimingų
@@ -725,7 +758,6 @@ atsitikimų darbe socialinio draudimo lėšų, skirtų prevencijai, dydį kiekvi
 metais nustato Seimas, Valstybinio socialinio draudimo fondo biudžeto rodiklių
 patvirtinimo įstatymu tvirtindamas nelaimingų atsitikimų darbe ir profesinių
 ligų socialinio draudimo įmokų tarifus.
- 
 4. Lėšų, skirtų
 nelaimingų atsitikimų darbe ir profesinių ligų prevencijai, panaudojimo tvarką
 nustato Vyriausybė. 
@@ -738,30 +770,14 @@ Nr.
 X-1840,
 2008-11-14, Žin., 2008, Nr. 137-5384 (2008-11-29)
  
-29 straipsnio redakcija iki 2011 m.
-sausio 1 d.:
-29 straipsnis. Nelaimingų atsitikimų darbe socialinio draudimo įmokų tarifai
-Nelaimingų
-atsitikimų darbe socialinio draudimo įmokų tarifų grupių skaičius ir grupių
-tarifai tvirtinami Valstybinio socialinio draudimo fondo biudžeto rodiklių
-patvirtinimo įstatymu. Draudėjų priskyrimą nelaimingų atsitikimų darbe
-socialinio draudimo įmokų tarifų grupei, atsižvelgdama į traumatizmo ir
-profesinio sergamumo rodiklius ir vadovaudamasi Vyriausybės ar jos įgaliotos
-institucijos patvirtinta metodika, tvirtina Valstybinio socialinio draudimo
-fondo taryba.
-29 straipsnio redakcija nuo 2011 m.
-sausio 1 d.:
-29
-straipsnis. Nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifai
+29 straipsnis. Nelaimingų atsitikimų
+darbe socialinio draudimo įmokos tarifai
 1.
 Nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifų dydis priklauso
 nuo draudėjo darbuotojų saugos ir sveikatos būklės:
-1)
+*1)
 darbo priemonių, darbo sąlygų neatitikties darbuotojų saugos ir sveikatos
 teisės aktų nustatytiems reikalavimams;
-Pastaba: 1 dalies 1 punkto
-nuostatos pradedamos taikyti 2012 m. sausio 1 d.
- 
 2)
 Valstybinės darbo inspekcijos nustatytų darbuotojų saugos ir sveikatos teisės
 aktų pažeidimų;
@@ -793,9 +809,11 @@ rodiklių dydžius ir priskiria draudėjus nelaimingų atsitikimų darbe sociali
 draudimo įmokos tarifų grupėms. Draudėjų priskyrimą nelaimingų atsitikimų darbe
 socialinio draudimo įmokos tarifų grupėms tvirtina Valstybinio socialinio
 draudimo fondo taryba.
+*Pastaba: 1 dalies 1 punkto
+nuostatos pradedamos taikyti 2012 m. sausio 1 d.
 Straipsnio pakeitimai:
-Nr. IX-2561,
-2004-11-11, Žin., 2004, Nr. 171-6311 (2004-11-26)
+Nr. IX-2561, 2004-11-11,
+Žin., 2004, Nr. 171-6311 (2004-11-26)
 Nr.
 X-1840,
 2008-11-14, Žin., 2008, Nr. 137-5384 (2008-11-29)
@@ -806,10 +824,10 @@ XI-401,
 30 straipsnis. Valstybinio socialinio draudimo
 įmokų mokėjimo tvarka
 1. Šiame
-Įstatyme nustatytos valstybinio socialinio draudimo rūšies valstybinio socialinio
-draudimo įmokos už kiekvieną apdraustąjį, nurodytą šio Įstatymo 4 straipsnio 1
-dalies 1, 2 punktuose, skaičiuojamos ir mokamos įstatymų nustatyta tvarka kartu
-su kitomis valstybinio socialinio draudimo įmokomis. 
+Įstatyme nustatytos valstybinio socialinio draudimo rūšies valstybinio
+socialinio draudimo įmokos už kiekvieną apdraustąjį, nurodytą šio Įstatymo 4
+straipsnio 1 dalies 1, 2 punktuose, skaičiuojamos ir mokamos įstatymų nustatyta
+tvarka kartu su kitomis valstybinio socialinio draudimo įmokomis. 
 2. Valstybinio
 socialinio draudimo įmokos už apdraustuosius, nurodytus šio įstatymo 4
 straipsnio 1 dalies 3 punkte, mokamos už tą laiką, kurį jie atlieka profesinės
@@ -827,12 +845,12 @@ straipsnis. Lėšų išieškojimas iš kaltų asmenų
 Jeigu ištyrus
 nelaimingą atsitikimą darbe, pakeliui į darbą ar iš darbo nustatoma, kad jis
 įvyko dėl trečiojo asmens kaltės, tai Valstybinio socialinio draudimo fondo
-valdybos teritorinis skyrius atgręžtinio reikalavimo teise išreikalauja išmokėtas
-išmokų sumas iš kalto asmens Civilinio kodekso nustatyta tvarka. Išmokų sumas,
-įskaitytinas į atlygintinos žalos, mokamos pagal Transporto priemonių savininkų
-ir valdytojų civilinės atsakomybės privalomojo draudimo įstatymą, dydį
-valstybinio socialinio draudimo fondo biudžetui kompensuoja draudimo
-kompanijos.
+valdybos teritorinis skyrius atgręžtinio reikalavimo teise išreikalauja
+išmokėtas išmokų sumas iš kalto asmens Civilinio kodekso nustatyta tvarka.
+Išmokų sumas, įskaitytinas į atlygintinos žalos, mokamos pagal Transporto
+priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo
+įstatymą, dydį valstybinio socialinio draudimo fondo biudžetui kompensuoja
+draudimo kompanijos.
  
 KETVIRTASIS
 SKIRSNIS
@@ -849,8 +867,8 @@ Nr. IX-2540,
 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26)
  
 33 straipsnis. Ginčų sprendimas
-Ginčai dėl šio Įstatymo taikymo
-sprendžiami įstatymų nustatyta tvarka.
+Ginčai dėl šio Įstatymo taikymo sprendžiami
+įstatymų nustatyta tvarka.
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
@@ -866,8 +884,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1787, 2000 07 04, Žin., 2000, Nr.
 58-1716 (2000 07 19)
-NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO
-14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO
+ĮSTATYMO 14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -917,10 +935,10 @@ Respublikos Seimas, Įstatymas
 Nr. IX-1484,
 2003-04-03, Žin., 2003, Nr. 38-1729 (2003-04-24)
 NELAIMINGŲ
-ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 7 STRAIPSNIO PAKEITIMO
-ĮSTATYMAS
-Šis Įstatymas įsigalioja kartu su
-Lietuvos Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir
+ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 7 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+Šis Įstatymas įsigalioja kartu su Lietuvos
+Respublikos baudžiamuoju kodeksu (Žin., 2000, Nr. 89-2741) ir
 Lietuvos Respublikos baudžiamojo proceso kodeksu (Žin., 2002, Nr. 37-1341), t.y. nuo
  2003 m. gegužės 1 d.
  
@@ -956,8 +974,8 @@ profesinių ligų socialiniu draudimu.
 pakeistas:
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. IX-2561,
-2004-11-11, Žin., 2004, Nr. 171-6311 (2004-11-26)
+Nr. IX-2561, 2004-11-11,
+Žin., 2004, Nr. 171-6311 (2004-11-26)
 NELAIMINGŲ ATSITIKIMŲ DARBE IR
 PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO BEI NELAIMINGŲ ATSITIKIMŲ DARBE IR
 PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO PAKEITIMO ĮSTATYMO PAKEITIMO
@@ -1078,14 +1096,14 @@ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 1, 15, 19, 
 įstatymo 5 straipsnis įsigalioja 2011 m. sausio 1 d.
 Šio
 įstatymo 5 straipsniu keičiamo Nelaimingų atsitikimų darbe ir profesinių ligų
-socialinio draudimo įstatymo 29 straipsnio 1 dalies 1 punkto nuostatos
-pradedamos taikyti 2012 m. sausio 1 d.
+socialinio draudimo įstatymo 29 straipsnio 1 dalies 1 punkto nuostatos pradedamos
+taikyti 2012 m. sausio 1 d.
 Įstatymo įsigaliojimo ir taikymo pakeitimai:
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XI-401, 2009-07-23,
-Žin., 2009, Nr. 93-3990 (2009-08-04)
+XI-401,
+2009-07-23, Žin., 2009, Nr. 93-3990 (2009-08-04)
 NELAIMINGŲ ATSITIKIMŲ DARBE IR
 PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 1, 15, 19, 28, 29 STRAIPSNIŲ
 PAKEITIMO IR PAPILDYMO ĮSTATYMO 6 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
@@ -1132,6 +1150,20 @@ STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas, išskyrus 5 straipsnį, įsigalioja 2010 m. liepos 1 d.
  
+21.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-1644,
+2011-11-10, Žin., 2011, Nr. 144-6753 (2011-11-29)
+NELAIMINGŲ
+ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 6, 26 IR 27
+STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja po vieno mėnesio nuo
+paskelbimo leidinyje „Valstybės žinios“ dienos.
+ 
+ 
 ***
 Pabaiga ***
  
@@ -1153,10 +1185,11 @@ PUNKTO (2004 M. KOVO 22 D. REDAKCIJA) NUOSTATOS ATITIKTIES LIETUVOS RESPUBLIKOS
 KONSTITUCIJAI
  
  
-*** Pabaiga ***
+***
+Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė
-(2010-01-05)
+Redagavo
+Aušrinė Trapinskienė (2011-11-30)
                  
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
