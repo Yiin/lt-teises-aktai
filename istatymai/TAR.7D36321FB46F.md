@@ -72,6 +72,15 @@ straipsnio 1 dalį ir ją išdėstyti taip:
 „1. Lietuvos
 bankas, laikydamasis Europos Bendrijos steigimo sutarties reikalavimų, turi
 teisę išleisti banknotus ir monetas.“ 
+2 dalies redakcija nuo 2012-01-01:
+2. Pakeisti 6
+straipsnio 1 dalį ir ją išdėstyti taip:
+„1. Lietuvos
+bankas, laikydamasis Sutarties dėl Europos Sąjungos veikimo reikalavimų,
+turi teisę išleisti banknotus ir monetas.“ 
+Straipsnio pakeitimai:
+Nr. XI-1667,
+2011-11-17, Žin., 2011, Nr. 145-6813 (2011-12-01)
  
 3
 straipsnis. 7 straipsnio pakeitimas
@@ -89,13 +98,32 @@ Europos Bendrijos steigimo sutartyje nustatytų Europos Bendrijos tikslų, ir
 palaiko Lietuvos Respublikos Vyriausybės ekonominę politiką, kiek ji
 neprieštarauja Lietuvos banko pagrindiniam tikslui ir atitinka Europos
 centrinio banko ir Europos centrinių bankų sistemos tikslus.“
+3 straipsnio redakcija nuo 2012-01-01:
+3 straipsnis. 7 straipsnio pakeitimas
+Pakeisti
+7 straipsnį ir jį išdėstyti taip:
+„7
+straipsnis. Lietuvos banko pagrindinis tikslas
+1.
+Vadovaujantis Sutartimi dėl Europos Sąjungos veikimo, pagrindinis Lietuvos
+banko tikslas – palaikyti kainų stabilumą.
+2. Nepažeisdamas
+pagrindinio tikslo, Lietuvos bankas pagal savo kompetenciją remia bendrąsias
+ekonominės politikos kryptis Europos Sąjungoje, kad padėtų siekti Sutartyje dėl
+Europos Sąjungos veikimo nustatytų Europos Sąjungos tikslų, ir palaiko Lietuvos
+Respublikos Vyriausybės ekonominę politiką, kiek ji neprieštarauja Lietuvos
+banko pagrindiniam tikslui ir atitinka Europos centrinio banko ir Europos
+centrinių bankų sistemos tikslus. “
+Straipsnio pakeitimai:
+Nr. XI-1667,
+2011-11-17, Žin., 2011, Nr. 145-6813 (2011-12-01)
  
 4
 straipsnis. 8 straipsnio pakeitimas 
 Pakeisti 8
 straipsnį ir jį išdėstyti taip:
-„8 straipsnis.
-Lietuvos banko funkcijos ir veikla
+„8
+straipsnis. Lietuvos banko funkcijos ir veikla
 1. Vykdydamas
 Europos Bendrijos steigimo sutarties nuostatas ir veikdamas kaip sudėtinė
 Europos centrinių bankų sistemos dalis, Lietuvos bankas atlieka šias funkcijas:
@@ -118,8 +146,9 @@ susitarimą su Finansų ministerija atlieka valstybės iždo agento funkcijas;
 2) įstatymų ir
 kitų teisės aktų nustatytais atvejais ir tvarka išduoda ir atšaukia licencijas
 Lietuvos Respublikos kredito ir mokėjimo įstaigoms bei užsienio valstybių
-kredito įstaigų filialams ir prižiūri jų veiklą, taip pat atlieka kitas įstatymų
-nustatytas funkcijas, susijusias su kredito ir mokėjimo įstaigų veikla;
+kredito įstaigų filialams ir prižiūri jų veiklą, taip pat atlieka kitas
+įstatymų nustatytas funkcijas, susijusias su kredito ir mokėjimo įstaigų
+veikla;
 3) nustato
 Lietuvos Respublikos kredito, mokėjimo įstaigų ir užsienio valstybių kredito
 įstaigų filialų, veikiančių Lietuvos Respublikoje, finansinės apskaitos ir
@@ -142,10 +171,68 @@ monetas, laikydamasis Europos Bendrijos steigimo sutarties reikalavimų, ir
 vykdo kitą su tuo susijusią veiklą.
 3. Lietuvos
 bankas vykdo veiklą, reikalingą šio straipsnio 1 ir 2 dalyse nustatytoms
-funkcijoms įgyvendinti ir tam reikalingai infrastruktūrai sukurti ir palaikyti.“
+funkcijoms įgyvendinti ir tam reikalingai infrastruktūrai sukurti ir
+palaikyti.“
+4 straipsnio redakcija nuo 2012-01-01:
+4
+straipsnis. 8 straipsnio pakeitimas 
+Pakeisti 8 straipsnį
+ir jį išdėstyti taip:
+„8
+straipsnis. Lietuvos banko funkcijos ir veikla 
+1. Vykdydamas
+Sutarties dėl Europos Sąjungos veikimo nuostatas ir veikdamas kaip sudedamoji
+Europos centrinių bankų sistemos dalis, Lietuvos bankas atlieka šias funkcijas:
+1) išleidžia
+banknotus ir vykdo kitą su tuo susijusią veiklą; 
+2) įgyvendina pinigų politiką;
+3) valdo,
+naudoja Lietuvos banko oficialiąsias užsienio atsargas (toliau – užsienio
+atsargos) ir jomis disponuoja;
+4) skatina
+patvarų ir veiksmingą mokėjimo ir vertybinių popierių atsiskaitymo sistemų
+veikimą;
+5) renka Europos
+centrinių bankų sistemos uždaviniams vykdyti reikalingą statistinę informaciją
+iš valstybės ir savivaldybių institucijų ir ūkio subjektų.
+2. Lietuvos
+bankas taip pat:
+1) pagal
+susitarimą su Lietuvos Respublikos finansų ministerija (toliau – Finansų
+ministerija) atlieka valstybės iždo agento funkcijas;
+2) atlieka
+finansų rinkos priežiūrą;
+3) ne teismo
+tvarka nagrinėja vartotojų ir finansų rinkos dalyvių ginčus; 
+4) renka Lietuvos
+banko funkcijoms, nesusijusioms su Europos centrinių bankų sistemos veikla,
+vykdyti reikalingą statistinę informaciją iš valstybės ir savivaldybių
+institucijų ir ūkio subjektų, nustato jos rinkimo, sudarymo ir platinimo
+tvarką, taip pat sudaro Lietuvos Respublikos mokėjimų ir tarptautinių
+investicijų balansus ir finansines sąskaitas;
+5) savo
+nustatyta tvarka, sąlygomis ir terminais gali duoti paskolas, užtikrintas
+įkeičiamu Lietuvos bankui pakankamu turtu, Lietuvos Respublikoje įregistruotoms
+kredito įstaigoms, jei tai neprieštarauja reikalavimams, atsirandantiems dėl
+Lietuvos banko dalyvavimo Europos centrinių bankų sistemoje, ypač
+reikalavimams, atsirandantiems dėl viešosios teisės subjektų vardu atliekamų
+operacijų;
+6) išleidžia
+monetas, laikydamasis Sutarties dėl Europos Sąjungos veikimo reikalavimų, ir
+vykdo kitą su tuo susijusią veiklą.
+3. Lietuvos
+bankas vykdo veiklą, reikalingą šio straipsnio 1 ir 2 dalyse numatytoms
+funkcijoms įgyvendinti ir tam reikalingai infrastruktūrai sukurti bei
+palaikyti.
+4. Lietuvos
+bankas, vykdydamas savo funkcijas ir veiklą, dalyvauja palaikant visos finansų
+sistemos stabilumą ir patikimumą ir pagal savo kompetenciją imasi atitinkamų
+priemonių.“
 Straipsnio pakeitimas:
 Nr. XI-556,
 2009-12-10, Žin., 2009, Nr. 153-6894 (2009-12-28)
+Nr. XI-1667,
+2011-11-17, Žin., 2011, Nr. 145-6813 (2011-12-01)
  
 5
 straipsnis. 11 straipsnio 1 dalies 1, 2, 3 ir 5 punktų pripažinimas netekusiais
@@ -170,8 +257,16 @@ tarptautinėse pinigų institucijose;“.
 punktą ir jį išdėstyti taip:
 „9)
 laikydamasi Europos Bendrijos steigimo sutarties
-reikalavimų, sprendžia banknotų ir monetų išleidimo, išėmimo iš apyvartos ir
-kitus su tuo susijusius klausimus;“.
+reikalavimų, sprendžia banknotų ir monetų išleidimo, išėmimo iš apyvartos ir kitus
+su tuo susijusius klausimus;“.
+5 dalies redakcija nuo 2012-01-01:
+5. Pakeisti 11 straipsnio 1 dalies 9
+punktą ir jį išdėstyti taip:
+„9)
+laikydamasi Sutarties dėl Europos
+Sąjungos veikimo reikalavimų, sprendžia banknotų
+ir monetų išleidimo, išėmimo iš apyvartos ir kitus su tuo susijusius klausimus;“.
+ 
 6. Pakeisti 11
 straipsnio 1 dalies 16 punktą ir jį išdėstyti taip:
 „16) vadovaudamasi Europos centrinio
@@ -194,6 +289,8 @@ punktuose numatytas funkcijas.“
 Straipsnio pakeitimai:
 Nr. XI-1320,
 2011-04-14, Žin., 2011, Nr. 46-2159 (2011-04-16)
+Nr. XI-1667,
+2011-11-17, Žin., 2011, Nr. 145-6813 (2011-12-01)
  
 6 straipsnis. 12
 straipsnio 4 dalies pakeitimas
@@ -269,11 +366,11 @@ POLITIKA“.
 pakeitimas 
 Pakeisti
 25 straipsnį ir jį išdėstyti taip:
-„25 straipsnis.
-Sąskaitų atidarymas ir pinigų politikos priemonės
-1. Lietuvos
-bankas, veikdamas kaip sudėtinė Europos centrinių bankų sistemos dalis, vykdo
-nustatytą pinigų politiką.
+„25
+straipsnis. Sąskaitų atidarymas ir pinigų politikos priemonės
+1. Lietuvos bankas,
+veikdamas kaip sudėtinė Europos centrinių bankų sistemos dalis, vykdo nustatytą
+pinigų politiką.
 2. Lietuvos
 bankas operacijoms vykdyti gali atidaryti sąskaitas kredito įstaigoms,
 viešiesiems subjektams ir kitiems rinkos dalyviams ir priimti turtą, įskaitant
@@ -291,6 +388,36 @@ tauriuosius metalus;
 2)
 atlikti kredito operacijas su kredito įstaigomis ir kitais rinkos dalyviais
 skolindamas lėšas, adekvačias pakankamam įkaitui.“
+11 straipsnio redakcija nuo 2012-01-01:
+11
+straipsnis. 25 straipsnio pakeitimas
+Pakeisti
+25 straipsnį ir jį išdėstyti taip:
+„25
+straipsnis. Sąskaitų atidarymas ir pinigų politikos priemonės
+1.
+Lietuvos bankas, veikdamas kaip sudedamoji Europos centrinių bankų sistemos
+dalis, vykdo nustatytą pinigų politiką.
+2. Lietuvos
+bankas operacijoms vykdyti gali atidaryti sąskaitas kredito įstaigoms,
+viešiesiems subjektams ir kitiems rinkos dalyviams ir priimti turtą, įskaitant
+nematerialiuosius vertybinius popierius, kaip įkeitimo objektą.
+3. Lietuvos
+bankas pagal Europos centrinio banko nustatytus bendrus atviros rinkos ir
+kredito operacijų principus, įskaitant sąlygų, kuriomis jis pasirengęs atlikti
+tokius sandorius, paskelbimą, gali:
+1)
+veikti finansų rinkose pirkdamas ir parduodamas (sudarydamas neatidėliotinus ir
+išankstinius sandorius), įskaitant pirkimą ir pardavimą pagal atpirkimo
+sutartis, ir skolindamas arba skolindamasis skolos įsipareigojimus ir
+likvidžias rinkos priemones Europos Sąjungos arba ne Europos Sąjungos
+valiutomis, taip pat tauriuosius metalus; 
+2)
+atlikti kredito operacijas su kredito įstaigomis ir kitais rinkos dalyviais
+skolindamas lėšas, adekvačias pakankamam įkaitui.“
+Straipsnio pakeitimai:
+Nr. XI-1667,
+2011-11-17, Žin., 2011, Nr. 145-6813 (2011-12-01)
  
 12
 straipsnis. 26 straipsnio pripažinimas netekusiu galios
@@ -392,12 +519,10 @@ Lietuvos
 bankas gali sudaryti atsiskaitymų sutartis su užsienio valstybinėmis ir (ar)
 privačiomis institucijomis.“
  
- 
 23
 straipsnis. 37 straipsnio pripažinimas netekusiu galios
 37
 straipsnį pripažinti netekusiu galios.
- 
  
 24
 straipsnis. 38 straipsnio pakeitimas
@@ -433,8 +558,7 @@ Straipsnio pakeitimai:
 Nr. XI-1320,
 2011-04-14, Žin., 2011, Nr. 46-2159 (2011-04-16)
  
-27
-straipsnis. 50 straipsnio pakeitimas
+27 straipsnis. 50 straipsnio pakeitimas
 Pakeisti
 50 straipsnį ir jį išdėstyti taip:
 „50
@@ -512,9 +636,19 @@ Papildyti
 „7.
 2002 m. birželio 6 d. Europos Parlamento ir Tarybos direktyva 2002/47/EB dėl
 susitarimų dėl finansinio įkaito.“
+32 straipsnio
+redakcija nuo 2012-01-01:
+32 straipsnis. Įstatymo priedo papildymas
+Papildyti
+Įstatymo priedą 7 punktu:
+„7. 2002 m. birželio 6 d. Europos
+Parlamento ir Tarybos direktyva 2002/47/EB dėl susitarimų dėl finansinio įkaito
+(OL 2004 m. specialusis leidimas, 10 skyrius, 3 tomas, p. 89).“
+Straipsnio pakeitimai:
+Nr. XI-1667,
+2011-11-17, Žin., 2011, Nr. 145-6813 (2011-12-01)
  
-33
-straipsnis. Įstatymo įsigaliojimas
+33 straipsnis. Įstatymo įsigaliojimas
 Šis
 įstatymas, išskyrus 6 ir 7 straipsnius, įsigalioja dieną, nuo kurios Europos
 Sąjungos Taryba panaikina išlygą dėl Lietuvos Respublikos pagal Sutarties dėl
@@ -560,8 +694,22 @@ STRAIPSNIŲ, KETVIRTOJO IR PENKTOJO SKIRSNIŲ PAVADINIMŲ PAKEITIMO, 26, 27, 28,
 29, 30, 32, 37 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS IR ĮSTATYMO PRIEDO
 PAPILDYMO ĮSTATYMO 5, 21, 26, 27 IR 33 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1667,
+2011-11-17, Žin., 2011, Nr. 145-6813 (2011-12-01)
+LIETUVOS BANKO ĮSTATYMO 1, 6, 7, 8, 11,
+12, 14, 19, 20, 25, 31, 33, 35, 36, 38, 47, 49, 50, 53, 54, 54(1), 55
+STRAIPSNIŲ, KETVIRTOJO IR PENKTOJO SKIRSNIŲ PAVADINIMŲ PAKEITIMO, 26, 27, 28,
+29, 30, 32, 37 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS IR ĮSTATYMO PRIEDO
+PAPILDYMO ĮSTATYMO 2, 3, 4, 5, 11 IR 32 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja 2012 m. sausio
+1 d.
+ 
 *** Pabaiga ***
  
  
-Redagavo Aušra Bodin (2011-04-21)
-                  aubodi@lrs.lt
+Redagavo Aušrinė Trapinskienė
+(2011-12-01)
+                 
+ausrine.trapinskiene@lrs.lt
