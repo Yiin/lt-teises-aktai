@@ -40,10 +40,10 @@ NUOSTATOS
  
 1 straipsnis. Įstatymo tikslas ir
 paskirtis
-1. Šio
-įstatymo tikslas – nustatyti transporto priemonių valdytojų civilinės
-atsakomybės privalomojo draudimo sistemos funkcionavimo teisinius pagrindus ir
-principus.
+1.
+Šio įstatymo tikslas – nustatyti transporto priemonių valdytojų
+civilinės atsakomybės privalomojo draudimo sistemos funkcionavimo teisinius
+pagrindus ir principus.
 2. Šio įstatymo nuostatos taikomos kiekvienai privalomai registruoti motorinei transporto
 priemonei, skirtai važiuoti žeme, taip pat mopedams, priekaboms ir
 puspriekabėms, išskyrus bėgines transporto priemones (toliau – transporto
@@ -126,7 +126,7 @@ numerio ženklą atitinkantis skiriamasis ženklas;
 teritorija tos valstybės, kurioje įvyko eismo įvykis, kai transporto priemonė,
 privalanti turėti valstybinį numerio ženklą, jo neturi arba turimas valstybinis
 numerio ženklas yra ne šios transporto priemonės ar yra negaliojantis. 
-9. Įprastinė transporto
+9. Įprastinė transporto
 priemonių valdytojų civilinės atsakomybės privalomojo draudimo sutartis
 (toliau – įprastinė draudimo sutartis) – transporto priemonių valdytojų
 civilinės atsakomybės privalomojo draudimo sutartis, sudaroma, kai įprastinė
@@ -138,7 +138,7 @@ atstovo pretenzijoms nagrinėti ar Biuro per šiame įstatyme nustatytus terminu
 nukentėjusiam trečiajam asmeniui pateiktas pasiūlymas dėl išmokos mokėjimo arba
 pagrįstas atsakymas ir įrodymai, atleidžiantys nuo išmokos mokėjimo ar
 suteikiantys teisę sumažinti išmoką.
-12. Nacionalinis draudikų biuras – pagal
+12. Nacionalinis draudikų biuras – pagal
 Jungtinių Tautų Europos ekonomikos reikalų komisijos Vidaus transporto komiteto
 Kelių transporto pakomitečio 1949 m. sausio 25 d. priimtą rekomendaciją Nr. 5
 įsteigta organizacija, vienijanti draudimo įmones, kurioms leidžiama toje
@@ -277,6 +277,21 @@ vadovautis Bendradarbiavimo nuostatais ir kitais žaliosios kortelės sistemą
 reglamentuojančiais teisės aktais, Biurų tarybos sprendimais, taip pat
 atsižvelgti į sutarčių tarp Biuro ir kitų valstybių nacionalinių draudikų biurų
 sąlygas.
+1 dalies redakcija nuo
+2012-01-01:
+1. Įprastinė ir
+pasienio draudimo sutartys sudaromos vadovaujantis šiuo įstatymu, Civiliniu
+kodeksu, Draudimo įstatymu, Lietuvos banko (toliau – priežiūros institucija)
+patvirtintomis Standartinėmis transporto priemonių valdytojų civilinės
+atsakomybės privalomojo draudimo sutarties sąlygomis ir kitais Lietuvos
+Respublikos teisės aktais, jeigu šis įstatymas nenustato kitaip. Draudikai,
+sudarydami draudimo sutartis ryšio priemonėmis, taip pat vadovaujasi Vartotojų
+teisių gynimo įstatymu. Žaliąją kortelę išduodantys draudikai taip pat turi
+vadovautis Bendradarbiavimo nuostatais ir kitais žaliosios kortelės sistemą
+reglamentuojančiais teisės aktais, Biurų tarybos sprendimais, taip pat
+atsižvelgti į sutarčių tarp Biuro ir kitų valstybių nacionalinių draudikų biurų
+sąlygas.
+ 
 2. Draudikas
 privalo sudaryti draudimo sutartis su šio įstatymo 4 straipsnio 2 dalyje
 nurodytais asmenimis, kurie patys ar per savo atstovą pateikė prašymus, visą
@@ -365,6 +380,10 @@ deklaracijos formą ir paaiškinti, kaip ją užpildyti. Nuo 2009 m. sausio 1 d.
 draudiku draudimo sutartį sudarančiam ar sudariusiam asmeniui draudikas išduoda
 eismo įvykio deklaracijos formą ir paaiškina, kaip ją užpildyti, jei  asmuo to
 pageidauja.
+Straipsnio pakeitimai:
+Nr.
+XI-1671,
+2011-11-17, Žin., 2011, Nr. 145-6817 (2011-12-01)
  
 7 straipsnis. Draudimo sutarties
 nutraukimas ir pasibaigimas
@@ -397,11 +416,10 @@ draudėjui grąžinama sumokėta draudimo įmoka už likusį draudimo sutarties
 galiojimo laikotarpį, atskaičius draudimo sutarties sudarymo ir vykdymo
 administracines išlaidas ir pagal šią draudimo sutartį išmokėtas sumas.
 4. Įprastinė draudimo sutartis
-pasibaigia, jei transporto priemonė, kuri buvo apdrausta pagal įprastinę
-draudimo sutartį, įregistruojama kitoje valstybėje ir transporto priemonei
-išduodamas kitos valstybės valstybinis numerio ženklas. Draudimo sutartys
-pasibaigia taip pat Civilinio kodekso ir Draudimo įstatymo nustatytais
-pagrindais.
+pasibaigia, jei transporto priemonė, kuri buvo apdrausta pagal įprastinę draudimo
+sutartį, įregistruojama kitoje valstybėje ir transporto priemonei išduodamas
+kitos valstybės valstybinis numerio ženklas. Draudimo sutartys pasibaigia taip
+pat Civilinio kodekso ir Draudimo įstatymo nustatytais pagrindais.
  
 8
 straipsnis. Apdraustos transporto priemonės savininko arba valstybinio numerio
@@ -432,9 +450,9 @@ priemonės perėmimą valdyti, taip pat savo duomenis.
 4. Pasikeitus apdraustos transporto priemonės valstybiniam numerio
 ženklui, draudėjas nedelsdamas, ne vėliau kaip per 15 dienų nuo valstybinio
 numerio ženklo pasikeitimo dienos, privalo raštu pranešti apie tai draudikui. Jei draudėjas per nurodytą terminą nepranešė
-draudikui apie apdraustos
-transporto priemonės valstybinio numerio ženklo pasikeitimą, draudėjui tenka
-visos pasekmės, atsirandančios dėl to, kad dėl pasikeitusio valstybinio numerio
+draudikui apie apdraustos transporto
+priemonės valstybinio numerio ženklo pasikeitimą, draudėjui tenka visos
+pasekmės, atsirandančios dėl to, kad dėl pasikeitusio valstybinio numerio
 ženklo nebuvo galima laiku nustatyti draudiko arba įvertinti draudimo rizikos.
  
 9 straipsnis. Draudimo sutarties
@@ -531,8 +549,8 @@ teisės aktus.
 straipsnis. Draudimo sumos ir įmokos
 1. Transporto
 priemonių valdytojų civilinės atsakomybės privalomojo draudimo suma dėl vieno
-eismo įvykio Lietuvos Respublikos teritorijoje, nepaisant to, kiek yra nukentėjusių
-trečiųjų asmenų, yra:
+eismo įvykio Lietuvos Respublikos teritorijoje, nepaisant to, kiek yra
+nukentėjusių trečiųjų asmenų, yra:
 *1) iki 2009 m.
 gruodžio 10 d. – 500 000 eurų dėl žalos asmeniui (tarp jų 1 000 eurų dėl
 neturtinės žalos) ir 100 000 eurų dėl žalos turtui;
@@ -543,10 +561,10 @@ gruodžio 11 d. iki 2012 m. birželio 10 d. – 2 500 000 eurų dėl žalos asme
 birželio 11 d. – 5 000 000 eurų dėl žalos asmeniui (tarp jų 5 000 eurų dėl
 neturtinės žalos) ir 1 000 000 eurų dėl žalos turtui.
 *Pastaba.
-Transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo
-įstatymo 11 straipsnio 1 dalies 1 punkte nustatytos draudimo sumos ir
-kitos antrajame skirsnyje naujai įtvirtinamos nuostatos dėl draudimo sutarties
-sąlygų galioja draudimo sutartims, sudaromoms po šio įstatymo įsigaliojimo. 
+Transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo
+11 straipsnio 1 dalies 1 punkte nustatytos draudimo sumos ir kitos
+antrajame skirsnyje naujai įtvirtinamos nuostatos dėl draudimo sutarties sąlygų
+galioja draudimo sutartims, sudaromoms po šio įstatymo įsigaliojimo. 
 Transporto
 priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo 11
 straipsnio 1 dalies 2 ir 3 punktuose nurodytos draudimo sumos pradedamos
@@ -569,9 +587,9 @@ reikalauti už kiekvieną pavėluotą dieną 0,04 procento delspinigių nuo
 nesumokėtos sumos, jei draudimo sutartyje nenustatyta kitaip.
 6. Draudikas
 negali atsisakyti mokėti išmokos, jei draudžiamasis įvykis įvyko per
-laikotarpį, už kurį draudėjas draudimo sutartyje nustatytu laiku nesumokėjo
-draudimo įmokų, ar per laikotarpį, kai draudėjas buvo atleistas nuo draudimo
-įmokos mokėjimo. 
+laikotarpį, už kurį draudėjas draudimo sutartyje nustatytu laiku nesumokėjo draudimo
+įmokų, ar per laikotarpį, kai draudėjas buvo atleistas nuo draudimo įmokos
+mokėjimo. 
 7. Jeigu
 draudėjas draudimo sutartyje nustatytu laiku nesumokėjo draudimo įmokos už
 teikiamą pagal draudimo sutartį draudimo apsaugą ir per tą laikotarpį pagal šią
@@ -623,11 +641,11 @@ apdraudusiai draudimo įmonei nustatyti;
 5) per 3 darbo
 dienas nuo eismo įvykio dienos raštu pranešti draudikui, apdraudusiam jo
 civilinę atsakomybę, apie eismo įvykį, dėl kurio jis yra atsakingas, išskyrus
-atvejus, kai pranešti apie eismo įvykį jis negali dėl svarbių priežasčių, taip pat
-pateikti draudikui eismo įvykio dalyvių pasirašytą deklaraciją ar kitą eismo
-įvykio dalyvių pasirašytą dokumentą apie įvykio aplinkybes. Apie eismo
-įvykį reikia pranešti draudikui, apdraudusiam jo civilinę atsakomybę, ir tuo
-atveju, kai neaišku, kuris eismo dalyvis yra dėl jo atsakingas;
+atvejus, kai pranešti apie eismo įvykį jis negali dėl svarbių priežasčių, taip
+pat pateikti draudikui eismo įvykio dalyvių pasirašytą deklaraciją ar kitą
+eismo įvykio dalyvių pasirašytą dokumentą apie įvykio aplinkybes. Apie
+eismo įvykį reikia pranešti draudikui, apdraudusiam jo civilinę atsakomybę, ir
+tuo atveju, kai neaišku, kuris eismo dalyvis yra dėl jo atsakingas;
 6) per 5 darbo
 dienas raštu pranešti draudikui, apdraudusiam jo civilinę atsakomybę, apie
 pateiktą pretenziją atlyginti žalą ar teisme pareikštą ieškinį dėl žalos
@@ -654,8 +672,8 @@ policijos ir dėl eismo įvykio deklaracijos įsigalioja nuo atitinkamų
 Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo ir Kelių eismo
 taisyklių pakeitimo, bet ne anksčiau kaip nuo 2008 m. sausio 1 d.
  
-13 straipsnis.
-Pretenzija dėl padarytos žalos
+13
+straipsnis. Pretenzija dėl padarytos žalos
 1. Nukentėjęs trečiasis
 asmuo pretenziją dėl padarytos žalos gali pateikti atsakingam už padarytą žalą
 asmeniui (toliau – kaltininkas), tiesiogiai Europos Sąjungos valstybės narės ar
@@ -728,23 +746,23 @@ atsakingi už išmokos mokėjimą nukentėjusiems tretiesiems asmenims esant vis
 šioms sąlygoms:
 1) nukentėjęs
 trečiasis asmuo žalą patyrė Europos Sąjungos valstybėje narėje, kuri nėra jo
-nuolatinė gyvenamoji vieta, arba užsienio valstybėje, kurios nacionalinis draudikų
-biuras yra žaliosios kortelės sistemos narys, ir nukentėjęs trečiasis asmuo
-nuolat gyvena Europos Sąjungos valstybėje narėje;
+nuolatinė gyvenamoji vieta, arba užsienio valstybėje, kurios nacionalinis
+draudikų biuras yra žaliosios kortelės sistemos narys, ir nukentėjęs trečiasis
+asmuo nuolat gyvena Europos Sąjungos valstybėje narėje;
 2) nukentėjusio
 trečiojo asmens nuolatinė gyvenamoji vieta yra ne Lietuvos Respublikoje;
 3) kaltininko,
-kurio civilinę atsakomybę apdraudė šis draudikas, transporto priemonės
-įprastinė buvimo vieta yra Europos Sąjungos valstybėje narėje, kuri nėra
-nukentėjusio trečiojo asmens nuolatinė gyvenamoji vieta. 
+kurio civilinę atsakomybę apdraudė šis draudikas, transporto priemonės įprastinė
+buvimo vieta yra Europos Sąjungos valstybėje narėje, kuri nėra nukentėjusio
+trečiojo asmens nuolatinė gyvenamoji vieta. 
 5. Atstovas
 pretenzijoms nagrinėti turi nuolat gyventi arba būti įsisteigęs toje Europos
 Sąjungos valstybėje narėje, į kurią jis paskirtas. Atstovą pretenzijoms
 nagrinėti draudikas skiria savo nuožiūra. Atstovas pretenzijoms nagrinėti gali
 dirbti vienam ar keliems draudikams. Jis privalo užtikrinti, kad žalos
-administravimo klausimai būtų nagrinėjami valstybine kalba (valstybinėmis
-kalbomis) tos Europos Sąjungos valstybės narės, kurioje nuolat gyvena
-nukentėjęs trečiasis asmuo. 
+administravimo klausimai būtų nagrinėjami valstybine kalba (valstybinėmis kalbomis)
+tos Europos Sąjungos valstybės narės, kurioje nuolat gyvena nukentėjęs
+trečiasis asmuo. 
 6. Draudikas
 turi suteikti visus būtinus įgaliojimus, kad atstovas pretenzijoms nagrinėti
 atliktų savo funkcijas (rinktų būtiną informaciją, spręstų klausimus dėl
@@ -795,10 +813,10 @@ pasirašytu dokumentu apie įvykio aplinkybes arba kompetentingų institucijų
 išduotais dokumentais apie eismo įvykio aplinkybes. Jeigu atsakingo
 draudiko ar Biuro įgaliotas asmuo neatvyko per šio straipsnio 2 dalyje
 nustatytą terminą, nukentėjęs trečiasis asmuo turi teisę pasamdyti turto
-vertintoją, kad jis nustatytų turtui padarytos žalos dydį. Tokiu atveju
-atsakingas draudikas ar Biuras privalo atlyginti protingumo kriterijus
-atitinkančias nukentėjusio trečiojo asmens turėtas turto vertintojo samdymo
-išlaidas. Nukentėjęs trečiasis asmuo turi teisę savo iniciatyva ir savo lėšomis
+vertintoją, kad jis nustatytų turtui padarytos žalos dydį. Tokiu atveju atsakingas
+draudikas ar Biuras privalo atlyginti protingumo kriterijus atitinkančias
+nukentėjusio trečiojo asmens turėtas turto vertintojo samdymo išlaidas.
+Nukentėjęs trečiasis asmuo turi teisę savo iniciatyva ir savo lėšomis
 papildomai kreiptis į ekspertus dėl padarytos žalos dydžio nustatymo. 
 4. Kai žala
 padaryta asmens sveikatai, turi būti įvertinama visa dėl sveikatos sužalojimo
@@ -806,8 +824,8 @@ asmens patirta žala. Tokiu atveju nuostolius sudaro negautos pajamos, kurias
 nukentėjęs asmuo būtų gavęs, jeigu jo sveikata nebūtų sužalota, ir su sveikatos
 grąžinimu susijusios išlaidos (gydymo, papildomo maitinimo, vaistų įsigijimo,
 protezavimo, sužaloto asmens priežiūros, specialių transporto priemonių
-įsigijimo, sužaloto asmens perkvalifikavimo išlaidos ir kitos sveikatai
-grąžinti būtinos išlaidos).
+įsigijimo, sužaloto asmens perkvalifikavimo išlaidos ir kitos sveikatai grąžinti
+būtinos išlaidos).
 5. Žala,
 atsiradusi dėl gyvybės atėmimo, yra laidojimo ir su tuo susijusios išlaidos bei
 išlaidos žalos atlyginimui dėl maitintojo netekimo. Asmenims, turintiems teisę
@@ -818,12 +836,12 @@ turėjo teisę gauti iš jo išlaikymą (nepilnamečiai vaikai, sutuoktinis,
 nedarbingi tėvai ar kiti faktiniai nedarbingi išlaikytiniai), taip pat
 mirusiojo vaikas, gimęs po jo mirties. 
 6. Asmeniui padarytos žalos dydį
-nustato atsakingas draudikas arba – šio įstatymo 17 straipsnyje nurodytais atvejais
-– Biuras, vadovaudamasis dokumentais, įrodančiais padarytos žalos aplinkybes,
-faktą ir dydį, ir medicininės apžiūros pažymomis. Atsakingas draudikas ar
-Biuras vadovaujasi įstaigų ir įmonių, turinčių teisę nustatyti sveikatos
-sužalojimo mastą, išvadomis, taip pat turi teisę siųsti nukentėjusį trečiąjį
-asmenį atlikti medicininės apžiūros, apmokėdamas apžiūros išlaidas.
+nustato atsakingas draudikas arba – šio įstatymo 17 straipsnyje nurodytais
+atvejais – Biuras, vadovaudamasis dokumentais, įrodančiais padarytos žalos
+aplinkybes, faktą ir dydį, ir medicininės apžiūros pažymomis. Atsakingas
+draudikas ar Biuras vadovaujasi įstaigų ir įmonių, turinčių teisę nustatyti
+sveikatos sužalojimo mastą, išvadomis, taip pat turi teisę siųsti nukentėjusį
+trečiąjį asmenį atlikti medicininės apžiūros, apmokėdamas apžiūros išlaidas.
 7. Nukentėjęs trečiasis asmuo
 turi teisę pateikti pretenzijas atsakingam draudikui arba – šio įstatymo 17
 straipsnyje nurodytais atvejais – Biurui dėl patirtos neturtinės žalos. Jei
@@ -844,13 +862,14 @@ reglamentuojančius teisės aktus.
 išmoką nukentėjusiam trečiajam asmeniui, kai transporto priemonės valdytojui
 atsirado civilinė atsakomybė dėl žalos padarymo naudojant apdraustą transporto
 priemonę, nepaisant to, ar valdytojas vykdė draudimo sutarties sąlygas,
-išskyrus šio įstatymo 21 straipsnio 1 ir 2 dalyse nurodytus atvejus, ir nepaisant
-to, ar prieš sudarant draudimo sutartį draudėjas suteikė draudikui visą būtiną
-informaciją, kurios reikia draudimo sutarčiai sudaryti. Atsakingas draudikas
-taip pat moka išmoką už apdrausta transporto priemone padarytą žalą, kai ją
-vairavusio asmens tapatybė yra nežinoma, tačiau žala padaryta aplinkybėmis,
-kurios yra pagrindas atsirasti šios transporto priemonės savininko ar kito jos
-valdytojo atsakomybei pagal Civilinio kodekso 6.270 straipsnį.
+išskyrus šio įstatymo 21 straipsnio 1 ir 2 dalyse nurodytus atvejus, ir
+nepaisant to, ar prieš sudarant draudimo sutartį draudėjas suteikė draudikui
+visą būtiną informaciją, kurios reikia draudimo sutarčiai sudaryti. Atsakingas
+draudikas taip pat moka išmoką už apdrausta transporto priemone padarytą žalą,
+kai ją vairavusio asmens tapatybė yra nežinoma, tačiau žala padaryta
+aplinkybėmis, kurios yra pagrindas atsirasti šios transporto priemonės
+savininko ar kito jos valdytojo atsakomybei pagal Civilinio kodekso 6.270
+straipsnį.
 3. Biuras moka išmoką šio
 įstatymo 17 ir 18 straipsniuose nurodytais atvejais.
 4. Šio įstatymo nustatyta tvarka
@@ -894,21 +913,21 @@ nukentėjusiems tretiesiems asmenims ir dėl padarytos žalos turtui, jei dėl t
 paties eismo įvykio nors vienam nukentėjusiam trečiajam asmeniui Biuras moka
 išmoką dėl padarytos žalos asmeniui, esant sunkiam sveikatos sutrikdymui, kuris
 nustatomas vadovaujantis Sveikatos sutrikdymo masto nustatymo taisyklėmis;
-3) kaltininkas žalos padarymo
-momentu yra apsidraudęs transporto priemonių valdytojų civilinės atsakomybės
-privalomuoju draudimu (turi galiojančią draudimo sutartį), tačiau atsakingam
-draudikui – Biuro nariui iškelta bankroto byla. Pagal šį punktą
-Biuras moka išmoką, jei apdrausta transporto priemonė padarė žalą Lietuvos
-Respublikos teritorijoje, kitoje Europos Sąjungos valstybėje narėje arba kitoje
-užsienio valstybėje, kurios nacionalinis draudikų biuras yra pasirašęs
-Bendradarbiavimo nuostatus.
+3) kaltininkas žalos
+padarymo momentu yra apsidraudęs transporto priemonių valdytojų civilinės
+atsakomybės privalomuoju draudimu (turi galiojančią draudimo sutartį), tačiau
+atsakingam draudikui – Biuro nariui iškelta bankroto byla. Pagal šį
+punktą Biuras moka išmoką, jei apdrausta transporto priemonė padarė žalą
+Lietuvos Respublikos teritorijoje, kitoje Europos Sąjungos valstybėje narėje
+arba kitoje užsienio valstybėje, kurios nacionalinis draudikų biuras yra
+pasirašęs Bendradarbiavimo nuostatus.
 2. Biuras pagal šio
-straipsnio 1 dalies 1 ir 2 punktus moka išmoką dėl Lietuvos Respublikoje per
-eismo įvykį padarytos žalos nukentėjusiems tretiesiems asmenims, kurie nuolat
-gyvena Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje.
-Biuras taip pat moka išmoką dėl Lietuvos Respublikoje per eismo įvykį padarytos
-žalos nuolat užsienio valstybėje gyvenančiam nukentėjusiam trečiajam asmeniui,
-jeigu valstybės, kurioje nuolat gyvena nukentėjęs trečiasis asmuo, nacionalinis
+straipsnio 1 dalies 1 ir 2 punktus moka išmoką dėl Lietuvos Respublikoje per eismo
+įvykį padarytos žalos nukentėjusiems tretiesiems asmenims, kurie nuolat gyvena
+Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje. Biuras taip
+pat moka išmoką dėl Lietuvos Respublikoje per eismo įvykį padarytos žalos
+nuolat užsienio valstybėje gyvenančiam nukentėjusiam trečiajam asmeniui, jeigu
+valstybės, kurioje nuolat gyvena nukentėjęs trečiasis asmuo, nacionalinis
 draudikų biuras yra pasirašęs Bendradarbiavimo nuostatus arba susitarimą su
 Biuru dėl reikalavimų tenkinimo abipusio pripažinimo. 
 3. Biuras pagal
@@ -924,16 +943,16 @@ taikytina Lietuvos Respublikos teisė.
 taip pat turi teisę kreiptis į Biurą dėl žalos administravimo ir išmokos
 mokėjimo dėl Lietuvos Respublikos teritorijoje per eismo įvykį padarytos žalos,
 kai kaltininko civilinę atsakomybę apdraudusi kitos valstybės draudimo įmonė
-(kuri išdavė Lietuvos Respublikoje galiojančią žaliąją kortelę ar kitą
-transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo
-liudijimą) nėra paskyrusi savo atstovo pretenzijoms nagrinėti Lietuvos
-Respublikoje. Biuras moka išmoką dėl Lietuvos Respublikos teritorijoje per
-eismo įvykį padarytos žalos nukentėjusiems tretiesiems asmenims, jei valstybės,
-kurios draudimo įmonė apdraudė kaltininko civilinę atsakomybę, nacionalinis
-draudikų biuras yra pasirašęs Bendradarbiavimo nuostatus arba susitarimą su Biuru
-dėl reikalavimų tenkinimo abipusio pripažinimo, išskyrus atvejus, kai žalą
-atlygino kaltininko civilinę atsakomybę apdraudusi draudimo įmonė ar jos
-atstovas pretenzijoms nagrinėti.
+(kuri išdavė Lietuvos Respublikoje galiojančią žaliąją kortelę ar kitą transporto
+priemonių valdytojų civilinės atsakomybės privalomojo draudimo liudijimą) nėra
+paskyrusi savo atstovo pretenzijoms nagrinėti Lietuvos Respublikoje. Biuras
+moka išmoką dėl Lietuvos Respublikos teritorijoje per eismo įvykį padarytos
+žalos nukentėjusiems tretiesiems asmenims, jei valstybės, kurios draudimo įmonė
+apdraudė kaltininko civilinę atsakomybę, nacionalinis draudikų biuras yra
+pasirašęs Bendradarbiavimo nuostatus arba susitarimą su Biuru dėl reikalavimų
+tenkinimo abipusio pripažinimo, išskyrus atvejus, kai žalą atlygino kaltininko
+civilinę atsakomybę apdraudusi draudimo įmonė ar jos atstovas pretenzijoms
+nagrinėti.
 5. Tais atvejais, kai Biuras moka
 išmoką pagal šio straipsnio 1 dalį dėl kitoje Europos Sąjungos valstybėje
 narėje ar užsienio valstybėje nukentėjusiems tretiesiems asmenims padarytos ir
@@ -950,11 +969,11 @@ pirkėjui pristatymo dienos. Biuras moka išmokas kitos valstybės
 nacionaliniam draudikų biurui ar kitos valstybės Garantiniam iždui (fondui) ir
 kitais atvejais, vykdydamas Bendradarbiavimo nuostatų arba susitarimo dėl
 reikalavimų tenkinimo abipusio pripažinimo reikalavimus. 
-6. Tais atvejais, kai
-Lietuvos Respublikoje, kitoje Europos Sąjungos valstybėje narėje ar užsienio
-valstybėje nukentėjęs asmuo, kuriuo nuolatinė gyvenamoji vieta yra kitoje
-Europos Sąjungos valstybėje narėje, vadovaudamasis savo šalies teisės aktais
-kreipėsi dėl patirtos žalos atlyginimo į savo šalyje veikiančią žalos
+6. Tais atvejais,
+kai Lietuvos Respublikoje, kitoje Europos Sąjungos valstybėje narėje ar
+užsienio valstybėje nukentėjęs asmuo, kuriuo nuolatinė gyvenamoji vieta yra
+kitoje Europos Sąjungos valstybėje narėje, vadovaudamasis savo šalies teisės
+aktais kreipėsi dėl patirtos žalos atlyginimo į savo šalyje veikiančią žalos
 atlyginimo instituciją, Biuras privalo išmokėti kitos Europos Sąjungos
 valstybės narės žalos atlyginimo institucijai jos reikalaujamą sumą, sumokėtą
 nukentėjusiam trečiajam asmeniui, ir nustatytą atlygį už žalos administravimą esant bent vienai iš šių sąlygų:
@@ -964,16 +983,16 @@ teritorijoje, tačiau per 3 mėnesius nuo pretenzijos dėl padarytos žalos
 atlyginimo pateikimo atsakingam draudikui arba jo atstovui pretenzijoms
 nagrinėti dienos šis draudikas arba jo atstovas pretenzijoms nagrinėti
 nepateikė nukentėjusiam asmeniui motyvuoto atsakymo į pretenziją dėl padarytos
-žalos atlyginimo; arba atsakingas draudikas nėra paskyręs savo atstovo pretenzijoms
-nagrinėti kitoje Europos Sąjungoje valstybėje narėje, kurioje nuolat gyvena
-nukentėjęs trečiasis asmuo;
+žalos atlyginimo; arba atsakingas draudikas nėra paskyręs savo atstovo
+pretenzijoms nagrinėti kitoje Europos Sąjungoje valstybėje narėje, kurioje
+nuolat gyvena nukentėjęs trečiasis asmuo;
 2) kaltininko, kurio
 transporto priemonės įprastinė buvimo vieta yra Lietuvos Respublikos
 teritorijoje, civilinė atsakomybė nebuvo apdrausta arba per 2 mėnesius nuo
 nukentėjusio trečiojo asmens pretenzijos pateikimo kitos valstybės žalos
 atlyginimo institucijai dienos nepavyko nustatyti kaltininko, kurio transporto
-priemonės įprastinė buvimo vieta yra Lietuvos Respublikos teritorijoje, civilinę
-atsakomybę apdraudusio draudiko;
+priemonės įprastinė buvimo vieta yra Lietuvos Respublikos teritorijoje,
+civilinę atsakomybę apdraudusio draudiko;
 3) žala buvo
 padaryta šio straipsnio 1 dalies 2 punkte nurodytais atvejais ir per 2 mėnesius
 nuo nukentėjusio trečiojo asmens pretenzijos pateikimo dienos nebuvo įmanoma
@@ -1002,11 +1021,11 @@ civilinę atsakomybę apdraudė kitos Europos Sąjungos valstybės narės draudi
 2. Remdamasis
 šio straipsnio 1 dalimi, nukentėjęs trečiasis asmuo gali pateikti Biurui
 pretenziją dėl padarytos žalos, esant vienai iš šių sąlygų:
-1) per 3 mėnesius
-nuo tos dienos, kai buvo pateikta pretenzija dėl padarytos žalos kitos Europos
-Sąjungos valstybės narės atsakingam draudikui arba jo atstovui pretenzijoms
-nagrinėti, šis draudikas arba jo atstovas pretenzijoms nagrinėti nepateikė
-motyvuoto atsakymo į pretenziją dėl padarytos žalos;
+1) per 3
+mėnesius nuo tos dienos, kai buvo pateikta pretenzija dėl padarytos žalos kitos
+Europos Sąjungos valstybės narės atsakingam draudikui arba jo atstovui
+pretenzijoms nagrinėti, šis draudikas arba jo atstovas pretenzijoms nagrinėti
+nepateikė motyvuoto atsakymo į pretenziją dėl padarytos žalos;
 2) kaltininko
 civilinę atsakomybę apdraudęs kitos Europos Sąjungos valstybės narės draudikas
 nėra paskyręs savo atstovo pretenzijoms nagrinėti Lietuvos Respublikoje, jeigu
@@ -1033,11 +1052,11 @@ dėl išmokos mokėjimo per 2 mėnesius nuo pretenzijos ir turimos
 informacijos, reikalingos nustatyti eismo įvykio aplinkybėms ir padarytai
 žalai,
 pateikimo dienos,
-jei pretenzija Biurui teikiama pagal šio straipsnio 2 dalį. Tais atvejais, kai pretenzija
-Biurui teikiama pagal šio straipsnio 3 dalį, Biuras turi išnagrinėti pretenziją
-dėl padarytos žalos atlyginimo ir priimti sprendimą dėl išmokos mokėjimo per 3
-mėnesius nuo pretenzijos ir turimos informacijos, reikalingos nustatyti eismo
-įvykio aplinkybėms ir padarytai žalai, pateikimo dienos. Jeigu
+jei pretenzija Biurui teikiama pagal šio straipsnio 2 dalį. Tais atvejais, kai
+pretenzija Biurui teikiama pagal šio straipsnio 3 dalį, Biuras turi išnagrinėti
+pretenziją dėl padarytos žalos atlyginimo ir priimti sprendimą dėl išmokos
+mokėjimo per 3 mėnesius nuo pretenzijos ir turimos informacijos, reikalingos
+nustatyti eismo įvykio aplinkybėms ir padarytai žalai, pateikimo dienos. Jeigu
 išmokėti išmokos per šiame straipsnyje nurodytus terminus neįmanoma dėl to, kad
 trūksta dokumentų, būtinų eismo įvykio aplinkybėms, draudžiamojo įvykio faktui
 ar žalos dydžiui nustatyti, Biuras turi išmokėti išmoką per 14 dienų,
@@ -1092,6 +1111,17 @@ dieną nuo sumos, kurią sumokėti praleistas terminas. Priežiūros komisija
 atsakingam draudikui ar kitos Europos Sąjungos valstybės narės draudimo įmonės
 atstovui pretenzijoms nagrinėti, paskirtam Lietuvos Respublikoje, taip pat gali
 taikyti poveikio priemones, numatytas Lietuvos Respublikos draudimo įstatyme. 
+4 dalies redakcija nuo
+2012-01-01:
+4. Atsakingas
+draudikas, jo atstovas pretenzijoms nagrinėti arba Biuras, praleidę šio
+straipsnio 1–3 dalyse arba šio įstatymo 20 straipsnio 6 dalyje nustatytus
+terminus, privalo mokėti 0,04 procento delspinigius už kiekvieną pavėluotą
+dieną nuo sumos, kurią sumokėti praleistas terminas. Priežiūros institucija atsakingam
+draudikui ar kitos Europos Sąjungos valstybės narės draudimo įmonės atstovui
+pretenzijoms nagrinėti, paskirtam Lietuvos Respublikoje, taip pat gali taikyti
+poveikio priemones, numatytas Lietuvos Respublikos draudimo įstatyme.
+ 
 5. Išmoka
 mokama, kai yra nustatytas draudžiamojo įvykio faktas ir žalos dydis, jei
 teisės aktų nustatytais atvejais apie eismo įvykį buvo pranešta policijai, o
@@ -1155,17 +1185,31 @@ mokėtinos išmokos dydžiui nustatyti, išmoka mokama šio straipsnio 2 dalyje
 nurodytais terminais. Jei Biurui išmokėjus išmoką paaiškėja, kad išmoką mokėti
 turėjo draudikas, draudikas grąžina Biurui išmoką ir su išmokos mokėjimu
 susijusias sumas.
+ 
 14. Ginčai tarp draudiko ar Biuro
 ir nukentėjusio trečiojo asmens sprendžiami teismo tvarka. Nukentėjęs trečiasis
 asmuo, nuolat gyvenantis Lietuvos Respublikoje, turi teisę prieš bet kurios
 Europos Sąjungos valstybės narės atsakingą draudiką pradėti teismo procesą
 Lietuvos Respublikoje. Vartotojų ginčai su draudikais nagrinėjami Draudimo
 įstatymo nustatyta tvarka.
+14 dalies redakcija nuo
+2012-01-01:
+14. Ginčai tarp draudiko ar Biuro
+ir nukentėjusio trečiojo asmens sprendžiami teismo tvarka. Nukentėjęs trečiasis
+asmuo, nuolat gyvenantis Lietuvos Respublikoje, turi teisę prieš bet kurios
+Europos Sąjungos valstybės narės atsakingą draudiką pradėti teismo procesą
+Lietuvos Respublikoje. Vartotojų ginčai su draudikais nagrinėjami Lietuvos
+banko įstatymo nustatyta tvarka.
+ 
 15. Policija ne vėliau kaip per
 10 darbo dienų nuo eismo įvykio pateikia draudikui ar Biurui turimą informaciją
 apie eismo įvykį.
 16. Žalos nustatymo ir išmokų
 mokėjimo tvarką nustato Vyriausybė.
+Straipsnio pakeitimai:
+Nr.
+XI-1671,
+2011-11-17, Žin., 2011, Nr. 145-6817 (2011-12-01)
  
 20 straipsnis. Išmokos mokėjimas už
 draudikus, kuriems iškelta bankroto byla
@@ -1195,9 +1239,8 @@ Biurą, kad šio įstatymo numatyta tvarka būtų nustatyta eismo įvykio metu
 padaryta žala ir išmokėta išmoka. Nukentėjęs trečiasis asmuo taip pat turi
 teisę kreiptis į Biurą dėl išmokos mokėjimo ir tais atvejais, kai nukentėjęs
 asmuo jau yra prisiteisęs žalos atlyginimą iš bankrutuojančio draudiko. Biurui
-atlyginus žalą ar žalos dalį, nukentėjęs trečiasis asmuo neturi teisės
-reikalauti atlyginti tą žalos dalį iš kaltininko ar atsakingo bankrutuojančio
-draudiko.
+atlyginus žalą ar žalos dalį, nukentėjęs trečiasis asmuo neturi teisės reikalauti
+atlyginti tą žalos dalį iš kaltininko ar atsakingo bankrutuojančio draudiko.
 4. Pateikus
 pretenziją Biurui šio straipsnio 1 ar 3 dalyje numatytais atvejais arba Biurui
 perėmus bankrutuojančio draudiko turimus žalą įrodančius dokumentus, nukentėjęs
@@ -1287,8 +1330,8 @@ išmoką arba jos dalį nukentėjusiam trečiajam asmeniui paaiškėja, kad nuke
 trečiasis asmuo pateikė klaidingą informaciją ir dėl to buvo neteisingai
 apskaičiuota ir neteisėtai išmokėta išmoka ir atlyginta žala, arba
 nukentėjusiam trečiajam asmeniui žalą atlygino atsakingi už žalos padarymą
-asmenys, draudiko reikalavimu nukentėjęs trečiasis asmuo privalo grąžinti
-neteisėtai gautą išmoką arba jos dalį. 
+asmenys, draudiko reikalavimu nukentėjęs trečiasis asmuo privalo grąžinti neteisėtai
+gautą išmoką arba jos dalį. 
  
 23 straipsnis. Biuro sumokėtų išmokų
 grąžinimas
@@ -1330,9 +1373,9 @@ kitos valstybės nacionalinis draudikų biuras ar Garantinis iždas (fondas).
 5. Biuras, išmokėjęs kitos Europos Sąjungos valstybės narės žalos
 atlyginimo institucijai reikalaujamą sumą, turi teisę susigrąžinti išmokėtas
 sumas iš atsakingo draudiko, atsakingo už žalos padarymą asmens ar asmens,
-neįvykdžiusio pareigos sudaryti draudimo sutartį, arba kitos valstybės
-nacionalinio draudikų biuro ar Garantinio iždo (fondo), jeigu jis yra prisiėmęs
-atsakomybę už tokį žalos padarymo atvejį pagal Bendradarbiavimo nuostatus arba pagal susitarimo dėl reikalavimų
+neįvykdžiusio pareigos sudaryti draudimo sutartį, arba kitos valstybės nacionalinio
+draudikų biuro ar Garantinio iždo (fondo), jeigu jis yra prisiėmęs atsakomybę
+už tokį žalos padarymo atvejį pagal Bendradarbiavimo nuostatus arba pagal susitarimo dėl reikalavimų
 tenkinimo abipusio pripažinimo nuostatas. 
 6. Biuras, išmokėjęs išmoką už vieną iš savo narių, turi teisę
 susigrąžinti iš šio draudiko išmokėtas sumas.
@@ -1361,7 +1404,6 @@ rekomendaciją Nr. 5 ir atliekanti šio įstatymo nustatytas funkcijas.
 organizuodamas ir koordinuodamas tarptautinį bendradarbiavimą transporto
 priemonių valdytojų civilinės atsakomybės privalomojo draudimo srityje, gali
 vartoti savo pavadinimą anglų kalba.
- 
  
 25
 straipsnis. Biuro įstatų pakeitimai
@@ -1440,16 +1482,17 @@ funkcijoms atlikti būtinas sutartis.
  
 28 straipsnis. Transporto priemonių
 valdytojų civilinės atsakomybės privalomojo draudimo duomenų bazė 
-1. Biuras, atlikdamas informacijos
-centro funkciją, užtikrina šio straipsnio 3 dalyje nurodytų duomenų rinkimo
-koordinavimą ir pateikimą asmenims, kurie pagal šį įstatymą turi teisę gauti
-tokią informaciją.
+1. Biuras, atlikdamas
+informacijos centro funkciją, užtikrina šio straipsnio 3 dalyje nurodytų
+duomenų rinkimo koordinavimą ir pateikimą asmenims, kurie pagal šį įstatymą
+turi teisę gauti tokią informaciją.
 2. Biuras tvarko duomenų bazėje
 esančius duomenis, įskaitant ir asmens duomenis, be duomenų subjekto sutikimo,
 siekdamas užtikrinti transporto priemonių valdytojų civilinės atsakomybės
 privalomojo draudimo sistemos funkcionavimą pagal Lietuvos Respublikos ir
 tarptautinių teisės aktų reikalavimus. 
-3. Duomenų bazėje tvarkomi šie duomenys:
+3. Duomenų bazėje tvarkomi šie
+duomenys:
 1) transporto priemonės, kurios
 įprastinė buvimo vieta yra Lietuvos Respublikos teritorijoje, registracijos
 numeris ir kiti transporto priemonės identifikavimo duomenys, taip pat
@@ -1525,10 +1568,10 @@ Sąjungos valstybėje narėje, kurioje nuolat gyvena nukentėjęs trečiasis asm
 pavardę arba pavadinimą ir adresą;
 4) transporto priemonės savininko arba valdytojo pavardę ir adresą;
 5) jeigu žala atsiranda dėl transporto priemonės, kurios valdytojas
-pagal kitos Europos Sąjungos valstybės narės teisės aktus registravimo valstybėje
-yra atleistas nuo pareigos sudaryti draudimo sutartį, – turimą informaciją apie
-kitos Europos Sąjungos valstybės narės instituciją arba įstaigą, atsakingą už
-padarytos žalos administravimą. 
+pagal kitos Europos Sąjungos valstybės narės teisės aktus registravimo
+valstybėje yra atleistas nuo pareigos sudaryti draudimo sutartį, – turimą
+informaciją apie kitos Europos Sąjungos valstybės narės instituciją arba
+įstaigą, atsakingą už padarytos žalos administravimą. 
 9. Biuras teikia šio straipsnio 3 dalyje nurodytus duomenis kitos
 Europos Sąjungos valstybės narės informacijos centrui ar žalų atlyginimo
 institucijai jų prašymu.
@@ -1574,16 +1617,23 @@ bankrutuojančios įmonės statusą.
 sustabdytą arba panaikintą teisę vykdyti transporto priemonių valdytojų
 civilinės atsakomybės privalomąjį draudimą, pritaikytą draudikui kaip poveikio
 priemonę;
+1 punkto redakcija nuo
+2012-01-01:
+1) nuo tos dienos, kai
+priežiūros institucija praneša Biurui apie sustabdytą arba panaikintą
+teisę vykdyti transporto priemonių valdytojų civilinės atsakomybės privalomąjį
+draudimą, pritaikytą draudikui kaip poveikio priemonę;
+ 
 2) kai Biuro narių visuotinis susirinkimas priima sprendimą dėl
 Biuro nario teisių atšaukimo, atsižvelgiant į Biuro nario prašymą išstoti iš
 Biuro;
 3) kai draudikas įgyja likviduojamos ar bankrutuojančios įmonės
 statusą.
 7. Biuro narys gali išstoti iš Biuro ne anksčiau kaip po 6 mėnesių
-nuo rašytinio prašymo ir rašytinio pareiškimo, kad jis nustoja vykdyti transporto
-priemonių valdytojų civilinės atsakomybės privalomąjį draudimą, pateikimo Biuro
-narių visuotiniam susirinkimui dienos. Sprendimą dėl Biuro nario išbraukimo iš
-Biuro narių priima Biuro narių visuotinis susirinkimas. 
+nuo rašytinio prašymo ir rašytinio pareiškimo, kad jis nustoja vykdyti
+transporto priemonių valdytojų civilinės atsakomybės privalomąjį draudimą,
+pateikimo Biuro narių visuotiniam susirinkimui dienos. Sprendimą dėl Biuro
+nario išbraukimo iš Biuro narių priima Biuro narių visuotinis susirinkimas. 
 8. Biuro narys netenka teisės dalyvauti Biuro valdyme (balsuoti
 priimant sprendimus), jeigu:
 1) ilgiau kaip per 5 dienas nuo Vyriausybės ar jos įgaliotos
@@ -1591,21 +1641,40 @@ institucijos nustatyto termino nepervedė Biurui Biuro nario atskaitymų ar jų
 dalies;
 2) per 30 dienų po priminimo, kad nepateikta informacija, būtina
 Biuro funkcijoms atlikti, nepateikė Biurui teiktinos informacijos.
-9. Teisė dalyvauti Biuro valdyme (balsuoti priimant sprendimus)
-atnaujinama pervedus atskaitymus ir sumokėjus delspinigius už pavėluotą
-atskaitymų sumokėjimą arba pateikus Biuro funkcijoms įgyvendinti būtiną
-informaciją. Teisės dalyvauti Biuro valdyme (balsuoti priimant sprendimus)
-netekimas neatleidžia Biuro nario nuo Biuro nario pareigų ir įsipareigojimų
-pagal draudimo sutartis vykdymo. Jeigu atskaitymai nepervedami arba Biuro
-funkcijoms įgyvendinti būtina informacija nepateikiama per 25 dienas nuo teisės
-dalyvauti Biuro valdyme (balsuoti priimant sprendimus) netekimo, Biuras praneša
-apie tai Priežiūros komisijai, o ši sprendžia klausimą dėl Draudimo įstatyme
-nustatytų poveikio priemonių taikymo. Pagal šio straipsnio 6 dalies 1 punktą
-netekęs Biuro nario teisių Biuro narys gali būti grąžinamas į Biurą tik
-Priežiūros komisijos leidimu.
+ 
+9. Teisė dalyvauti
+Biuro valdyme (balsuoti priimant sprendimus) atnaujinama pervedus atskaitymus
+ir sumokėjus delspinigius už pavėluotą atskaitymų sumokėjimą arba pateikus
+Biuro funkcijoms įgyvendinti būtiną informaciją. Teisės dalyvauti Biuro valdyme
+(balsuoti priimant sprendimus) netekimas neatleidžia Biuro nario nuo Biuro
+nario pareigų ir įsipareigojimų pagal draudimo sutartis vykdymo. Jeigu
+atskaitymai nepervedami arba Biuro funkcijoms įgyvendinti būtina informacija
+nepateikiama per 25 dienas nuo teisės dalyvauti Biuro valdyme (balsuoti
+priimant sprendimus) netekimo, Biuras praneša apie tai Priežiūros komisijai, o
+ši sprendžia klausimą dėl Draudimo įstatyme nustatytų poveikio priemonių
+taikymo. Pagal šio straipsnio 6 dalies 1 punktą netekęs Biuro nario teisių
+Biuro narys gali būti grąžinamas į Biurą tik Priežiūros komisijos leidimu.
+9 dalies redakcija nuo 2012-01-01:
+9. Teisė dalyvauti
+Biuro valdyme (balsuoti priimant sprendimus) atnaujinama pervedus atskaitymus
+ir sumokėjus delspinigius už pavėluotą atskaitymų sumokėjimą arba pateikus
+Biuro funkcijoms įgyvendinti būtiną informaciją. Teisės dalyvauti Biuro valdyme
+(balsuoti priimant sprendimus) netekimas neatleidžia Biuro nario nuo Biuro
+nario pareigų ir įsipareigojimų pagal draudimo sutartis vykdymo. Jeigu
+atskaitymai nepervedami arba Biuro funkcijoms įgyvendinti būtina informacija
+nepateikiama per 25 dienas nuo teisės dalyvauti Biuro valdyme (balsuoti
+priimant sprendimus) netekimo, Biuras praneša apie tai priežiūros institucijai,
+o ši sprendžia klausimą dėl Draudimo įstatyme nustatytų poveikio priemonių
+taikymo. Pagal šio straipsnio 6 dalies 1 punktą netekęs Biuro nario teisių
+Biuro narys gali būti grąžinamas į Biurą tik priežiūros institucijos leidimu.
+ 
 10. Biuro nario teisių netekimas neatleidžia Biuro nario nuo
 įsipareigojimų pagal draudimo sutartis vykdymo ir nuo prievolių Biurui vykdymo.
-            
+Straipsnio pakeitimai:
+Nr.
+XI-1671,
+2011-11-17, Žin., 2011, Nr. 145-6817 (2011-12-01)
+ 
 30 straipsnis. Biuro valdymas
 1. Biuro organai yra Biuro narių visuotinis susirinkimas, Biuro
 taryba ir Biuro vadovas. 
@@ -1640,6 +1709,14 @@ visuotiniame susirinkime turi vieną balsą. Biuro narių visuotiniame susirinki
 patariamojo balso teise gali dalyvauti po vieną Finansų ministerijos, Priežiūros komisijos ir
 Nacionalinės vartotojų teisių apsaugos tarybos prie Teisingumo ministerijos
 atstovą. 
+3 dalies redakcija nuo
+2012-01-01:
+3. Biuro narys Biuro narių
+visuotiniame susirinkime turi vieną balsą. Biuro narių visuotiniame susirinkime
+patariamojo balso teise gali dalyvauti po vieną Finansų ministerijos,
+priežiūros institucijos ir Valstybinės vartotojų teisių apsaugos tarnybos
+atstovą.
+ 
 4. Biuro narių visuotinis
 susirinkimas šaukiamas Biuro įstatuose nustatyta tvarka. Biuro narių visuotinis
 susirinkimas privalo būti šaukiamas ne rečiau kaip kartą per metus. 
@@ -1650,8 +1727,8 @@ Biuro narių. Biuro įstatuose gali būti numatyta galimybė balsuoti iš anksto
 gali iš anksto raštu pranešti Biuro narių visuotiniam susirinkimui savo valią
 (už ar prieš) atskirai dėl kiekvieno sprendimo. Išankstinis balsavimas
 įskaitomas į susirinkimo kvorumą ir balsavimo rezultatus. Sprendimai priimami
-paprasta visuotiniame susirinkime dalyvaujančių narių balsų dauguma, išskyrus
-šio straipsnio 2 dalies 2 ir 8 punktuose numatytus sprendimus. Šio straipsnio 2
+paprasta visuotiniame susirinkime dalyvaujančių narių balsų dauguma, išskyrus šio
+straipsnio 2 dalies 2 ir 8 punktuose numatytus sprendimus. Šio straipsnio 2
 dalies 2 punkte nurodytam Biuro narių visuotinio susirinkimo sprendimui priimti
 reikia ne mažiau kaip 2/3 visuotiniame susirinkime dalyvaujančių Biuro narių
 balsų, o šio straipsnio 2 dalies 8 punkte nurodytam sprendimui – 3/4
@@ -1661,6 +1738,10 @@ narių visuotiniame susirinkime nėra kvorumo, Biuro įstatų nustatyta tvarka t
 būti šaukiamas pakartotinis susirinkimas. Jis turi teisę priimti sprendimus
 neįvykusio susirinkimo darbotvarkės klausimais, neatsižvelgiant į jame
 dalyvaujančių narių skaičių.
+Straipsnio pakeitimai:
+Nr.
+XI-1671,
+2011-11-17, Žin., 2011, Nr. 145-6817 (2011-12-01)
  
 32 straipsnis. Biuro taryba
 1. Biuro taryba
@@ -1686,6 +1767,11 @@ filialų ir atstovybių steigimo bei jų veiklos nutraukimo ir tvirtina jų
 nuostatus;
 8) teikia Priežiūros komisijai pasiūlymus dėl
 poveikio priemonių taikymo Biuro nariams;
+8 punkto redakcija nuo
+2012-01-01:
+8) teikia priežiūros institucijai
+pasiūlymus dėl poveikio priemonių taikymo Biuro nariams;
+ 
 9) sprendžia kitus Biuro įstatuose Biuro tarybai priskirtus ir
 Biuro narių visuotinio susirinkimo sprendimuose priimtus klausimus.
 3. Biuro tarybos
@@ -1709,6 +1795,10 @@ pareigos atlyginti nuostolius atleidžiami tie nariai, kurie balsavo prieš tok�
 sprendimą arba nedalyvavo posėdyje jį priimant ir per 7 dienas po to, kai
 sužinojo ar turėjo sužinoti apie tokį sprendimą, įteikė posėdžio pirmininkui
 rašytinį protestą. Ginčus dėl nuostolių atlyginimo sprendžia teismas.
+Straipsnio pakeitimai:
+Nr.
+XI-1671,
+2011-11-17, Žin., 2011, Nr. 145-6817 (2011-12-01)
  
 33 straipsnis. Biuro vadovas 
 1. Biuro veiklą
@@ -1857,9 +1947,9 @@ pabaigos ypatumai
 1. Biuras gali
 būti pertvarkomas, reorganizuojamas ar likviduojamas atskiru įstatymu.
 2. Finansų
-ministras savo arba Biuro narių visuotinio susirinkimo 3/4 balsų dauguma priimtu
-sprendimu gali kreiptis į Vyriausybę, kad ši pateiktų įstatymo projektą dėl
-Biuro pertvarkymo, reorganizavimo ar likvidavimo.
+ministras savo arba Biuro narių visuotinio susirinkimo 3/4 balsų dauguma
+priimtu sprendimu gali kreiptis į Vyriausybę, kad ši pateiktų įstatymo projektą
+dėl Biuro pertvarkymo, reorganizavimo ar likvidavimo.
 3. Jeigu Biuras
 reorganizuojamas ar likviduojamas teismo sprendimu, Biuro teisės ir pareigos
 pereina kitam Lietuvos Respublikoje registruotam juridiniam asmeniui, kuriam
@@ -1897,9 +1987,9 @@ kaip paskutinę draudimo apsaugos galiojimo pagal sudarytą draudimo sutartį
 dieną.
 4. Tikrinamas
 asmuo transporto
-priemonių valdytojų civilinės atsakomybės privalomojo draudimo kontrolę vykdančios
-institucijos prašymu privalo pateikti pagal šį įstatymą tikrinimo metu
-galiojantį draudimo
+priemonių valdytojų civilinės atsakomybės privalomojo draudimo kontrolę
+vykdančios institucijos prašymu privalo pateikti pagal šį įstatymą tikrinimo
+metu galiojantį draudimo
 liudijimą ar kitą dokumentą, kitos valstybės teisės aktų nustatyta tvarka
 patvirtinantį draudimo sutarties sudarymą.
 5. Galiojantis draudimo liudijimas turi būti pateikiamas
@@ -1917,15 +2007,15 @@ priemonių valdytojų civilinės atsakomybės privalomojo draudimo.
 kurių įprastinė buvimo vieta yra užsienio valstybės teritorijoje, yra
 prilyginamos transporto priemonėms, kurių įprastinė buvimo vieta yra Europos
 Sąjungos valstybės narės teritorijoje, jeigu visų Europos Sąjungos valstybių
-narių nacionaliniai draudikų biurai kiekvienas atskirai pagal savo nacionalinius
-transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo
-įstatymus garantuoja, kad įvykus jų teritorijose tokių transporto priemonių
-sukeltiems eismo įvykiams bus atlyginta žala.
-8. Transporto
-priemonių, kurių įprastinė buvimo vieta yra Lietuvos Respublikos teritorijoje,
-valdytojai, išvykdami iš Lietuvos Respublikos į kitas Europos Sąjungos
-valstybes nares, privalo turėti galiojantį draudimo liudijimą, patvirtinantį
-draudimo sutarties, atitinkančios šio įstatymo reikalavimus, sudarymą.
+narių nacionaliniai draudikų biurai kiekvienas atskirai pagal savo
+nacionalinius transporto priemonių valdytojų civilinės atsakomybės privalomojo
+draudimo įstatymus garantuoja, kad įvykus jų teritorijose tokių transporto
+priemonių sukeltiems eismo įvykiams bus atlyginta žala.
+8. Transporto priemonių,
+kurių įprastinė buvimo vieta yra Lietuvos Respublikos teritorijoje, valdytojai,
+išvykdami iš Lietuvos Respublikos į kitas Europos Sąjungos valstybes nares,
+privalo turėti galiojantį draudimo liudijimą, patvirtinantį draudimo sutarties,
+atitinkančios šio įstatymo reikalavimus, sudarymą.
  
 42 straipsnis. Lietuvos
 Respublikoje registruotų transporto priemonių draudimo kontrolės principai
@@ -1956,9 +2046,9 @@ NUOSTATOS
  
 44
 straipsnis. Piniginis vienetas 
-Šiame įstatyme nurodyti dydžiai eurais
-yra išreiškiami litais pagal Lietuvos banko skelbiamą oficialų euro ir lito
-santykį.
+Šiame įstatyme nurodyti dydžiai
+eurais yra išreiškiami litais pagal Lietuvos banko skelbiamą oficialų euro ir
+lito santykį.
  
 45
 straipsnis. Informacija, teikiama Europos Bendrijų Komisijai
@@ -2000,11 +2090,11 @@ liepos 24 d. pirmoji Tarybos direktyva 73/239/EEB dėl įstatymų ir kitų teis�
 aktų, susijusių su tiesioginio draudimo, išskyrus gyvybės draudimą, veiklos
 pradėjimu ir plėtojimu, suderinimo (OL 2004 m. specialusis leidimas, 6 skyrius,
 1 tomas, p. 14).
-4. 1974 m. vasario
-6 d. Komisijos rekomendacija 74/165/EEB valstybėms narėms dėl 1972 m. balandžio
-24 d. Tarybos direktyvos dėl valstybių narių įstatymų, susijusių su transporto
-priemonių valdytojų civilinės atsakomybės draudimu ir privalomojo tokios
-atsakomybės draudimo įgyvendinimu, suderinimo.
+4. 1974 m.
+vasario 6 d. Komisijos rekomendacija 74/165/EEB valstybėms narėms dėl 1972 m.
+balandžio 24 d. Tarybos direktyvos dėl valstybių narių įstatymų, susijusių su
+transporto priemonių valdytojų civilinės atsakomybės draudimu ir privalomojo
+tokios atsakomybės draudimo įgyvendinimu, suderinimo.
 5. 1981 m.
 sausio 8 d. Komisijos rekomendacija 81/76/EEB dėl paspartinto transporto
 priemonių valdytojų civilinės atsakomybės draudimo žalų sureguliavimo.
@@ -2021,7 +2111,8 @@ specialusis leidimas, 6 skyrius, 1 tomas, p. 198).
 8. 1990 m.
 gegužės 14 d. trečioji Tarybos direktyva 90/232/EEB dėl valstybių narių
 įstatymų, susijusių su transporto priemonių valdytojų civilinės atsakomybės
-draudimu, suderinimo (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 249).
+draudimu, suderinimo (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p.
+249).
 9. 1990
 m. lapkričio 8 d. Tarybos direktyva 90/618/EEB, iš dalies pakeičianti Direktyvą
 73/239/EEB ir Direktyvą 88/357/EEB dėl įstatymų ir kitų teisės aktų,
@@ -2121,17 +2212,29 @@ punktuose nurodytų datų.
 Transporto priemonių valdytojų
 civilinės atsakomybės privalomojo draudimo įstatymo 12 ir 14 straipsnių
 nuostatos dėl galimybės į eismo įvykio vietą nekviesti policijos ir dėl
-eismo įvykio deklaracijos įsigalioja nuo atitinkamų Lietuvos Respublikos
-saugaus eismo automobilių keliais įstatymo ir Kelių eismo taisyklių pakeitimo, bet
+eismo įvykio deklaracijos įsigalioja nuo atitinkamų Lietuvos Respublikos saugaus
+eismo automobilių keliais įstatymo ir Kelių eismo taisyklių pakeitimo, bet
 ne anksčiau kaip nuo 2008 m. sausio 1 d.
 Šio įstatymo
 atitaisymas skelbtas: Žin., 2007, Nr. 63 (2007-06-06)
+ 
+5.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-1671,
+2011-11-17, Žin., 2011, Nr. 145-6817 (2011-12-01)
+TRANSPORTO
+PRIEMONIŲ VALDYTOJŲ CIVILINĖS ATSAKOMYBĖS PRIVALOMOJO DRAUDIMO ĮSTATYMO 6, 19,
+29, 31 IR 32 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2012 m. sausio 1 d.
  
 ***
 Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2007-06-04)
+Redagavo
+Aušrinė Trapinskienė (2011-12-05)
                  
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
