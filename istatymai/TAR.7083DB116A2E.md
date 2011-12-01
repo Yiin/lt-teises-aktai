@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7083DB116A2E"
 
 # Lietuvos Respublikos radiacinės saugos įstatymas
 
-Suvestinė redakcija nuo 2011-10-01 iki 2011-11-30
+Suvestinė redakcija nuo 2011-12-01 iki 2016-04-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 11-239, i. k. 0991010ISTAIII-1019
  
@@ -600,7 +600,10 @@ Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010IST
 
 
 
-2) prekiauti, vežti ir saugoti jonizuojančiosios spinduliuotės generatorius;
+2) vežti ir saugoti jonizuojančiosios spinduliuotės generatorius; 
+Straipsnio punkto pakeitimai:
+Nr. XI-1540, 2011-06-28, Žin., 2011, Nr. 91-4317 (2011-07-19), i. k. 1111010ISTA0XI-1540
+ 
 
 
 
