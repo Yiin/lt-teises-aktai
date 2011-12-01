@@ -1372,8 +1372,8 @@ revizijos komisijos (revizoriaus) išvadą dėl šio ataskaitų rinkinio. Kredit
 unijos metinių finansinių ataskaitų rinkinio patikrinimą revizijos komisija
 (revizorius) turi atlikti ir pateikti išvadą dėl šio ataskaitų rinkinio tik
 tada, kai audito įmonė neatlieka kredito unijos audito.
-4. Revizijos komisijos (revizoriaus) išvada dėl
-kredito unijos metinių finansinių ataskaitų rinkinio pateikiama tais pačiais
+4. Revizijos komisijos (revizoriaus) išvada dėl kredito
+unijos metinių finansinių ataskaitų rinkinio pateikiama tais pačiais
 klausimais, kokiais pagal šį įstatymą privalo būti pateikiama auditoriaus
 išvada.
 5. Revizijos komisijos nariams
@@ -1459,8 +1459,8 @@ unijos narių.
 Respublikos vertybinių popierių įstatymas netaikomas. Kredito unijos pajai yra
 nematerialūs. 
  
-40 straipsnis. Perskaičiuotas
-kapitalas
+40 straipsnis.
+Perskaičiuotas kapitalas
 Kredito unijos perskaičiuotas kapitalas
 yra kredito unijos kapitalo suma, sumažinta priežiūros institucijos teisės
 aktuose nustatytais dydžiais ir tvarka.
@@ -1516,8 +1516,8 @@ metams, kitų finansinių metų pradžioje kredito unijos nepaskirstytojo rezult
 ir grynojo metinės veiklos rezultato suma yra teigiama (pelnas), kredito unijos
 visuotinis narių susirinkimas priima sprendimą dėl pelno paskirstymo. Sprendime
 turi būti nurodyta:
-1) nepaskirstytas pelnas (nuostoliai) finansinių
-metų pradžioje;
+1) nepaskirstytas pelnas (nuostoliai)
+finansinių metų pradžioje;
 2) grynasis finansinis metinės veiklos
 rezultatas;
 3) atskaitymai į privalomąjį rezervą
@@ -1761,8 +1761,7 @@ teisės aktai.
 1) balansinė ataskaita;
 2) pelno (nuostolių) ataskaita;
 3) aiškinamasis raštas.
-4. Pasibaigus finansiniams metams, kredito unija
-privalo:
+4. Pasibaigus finansiniams metams, kredito unija privalo:
 1) per 3 mėnesius nuo finansinių metų pabaigos, bet ne
 vėliau kaip prieš 15 dienų iki eilinio kredito unijos visuotinio narių
 susirinkimo pateikti priežiūros institucijai revizijos komisijos (revizoriaus)
@@ -1770,14 +1769,15 @@ ar audito įmonės patikrintą metinių finansinių ataskaitų rinkinį, sprendi
 pelno paskirstymo projektą ir revizijos komisijos (revizoriaus) ar auditoriaus
 išvadą;
 2) per 3 mėnesius nuo finansinių metų pabaigos, bet ne
-vėliau kaip prieš 10 dienų iki eilinio kredito unijos visuotinio narių
-susirinkimo sudaryti sąlygas kredito unijos nariams susipažinti su revizijos
-komisijos (revizoriaus) ar audito įmonės patikrintu metinių finansinių
-ataskaitų rinkiniu, sprendimo dėl pelno paskirstymo projektu ir revizijos
-komisijos (revizoriaus) ar auditoriaus išvada;
+vėliau kaip prieš 10 dienų iki eilinio kredito unijos visuotinio narių susirinkimo
+sudaryti sąlygas kredito unijos nariams susipažinti su revizijos komisijos
+(revizoriaus) ar audito įmonės patikrintu metinių finansinių ataskaitų
+rinkiniu, sprendimo dėl pelno paskirstymo projektu ir revizijos komisijos
+(revizoriaus) ar auditoriaus išvada;
 3) ne vėliau kaip per 3 mėnesius nuo finansinių metų
 pabaigos kredito unijos visuotinio narių susirinkimo sprendimu patvirtinti
-metinių finansinių ataskaitų rinkinį ir priimti sprendimą dėl pelno paskirstymo;
+metinių finansinių ataskaitų rinkinį ir priimti sprendimą dėl pelno
+paskirstymo;
 4) per 3 darbo dienas po kredito unijos visuotinio
 narių susirinkimo sprendimo dėl metinių finansinių ataskaitų rinkinio
 patvirtinimo priėmimo dienos pateikti priežiūros institucijai šio susirinkimo
@@ -1796,8 +1796,8 @@ tokį sprendimą priima kredito unijos visuotinis narių susirinkimas,
 tvirtindamas metinių finansinių ataskaitų rinkinį.
 Straipsnio
 pakeitimai:
-Nr. XI-1342, 2011-04-21,
-Žin., 2011, Nr. 52-2517 (2011-05-03)
+Nr. XI-1342,
+2011-04-21, Žin., 2011, Nr. 52-2517 (2011-05-03)
  
 53 straipsnis. Auditas
 1. Audito įmonė turi atlikti kredito unijos metinių
@@ -1810,9 +1810,9 @@ kvalifikuotai įvertino turtą pagal Lietuvos Respublikoje galiojančius teisės
 aktus;
 2) atliko
 privalomus turto vertės patikslinimus ir nurašymus;
-3) sudarė privalomus
-ir būtinus kapitalus, rezervus ir atidėjinius (atidėjimus) veiklos rizikai
-sumažinti;
+3) sudarė
+privalomus ir būtinus kapitalus, rezervus ir atidėjinius (atidėjimus) veiklos
+rizikai sumažinti;
 4) laikosi Lietuvos
 Respublikos teisės aktų nustatytų kapitalo reikalavimų;
 5) atitinka
@@ -1861,8 +1861,8 @@ darbuotojai, priežiūros institucijos vardu veikiantys auditoriai ar kiti
 asmenys, taip pat bet kurie kiti asmenys, kuriems įstatymų nustatyta tvarka
 buvo perduota priežiūros tikslais gauta informacija. 
 3. Šio straipsnio 1 dalis netaikoma
-informacijai, kuri jau yra viešai paskelbta ar prieinama arba iš kurios tiesiogiai
-ar netiesiogiai negalima nustatyti duomenų apie konkrečius asmenis.
+informacijai, kuri jau yra viešai paskelbta ar prieinama arba iš kurios
+tiesiogiai ar netiesiogiai negalima nustatyti duomenų apie konkrečius asmenis.
 4. Priežiūros institucija turi teisę
 priežiūros tikslais gautą informaciją, įskaitant ir informaciją, gautą iš
 užsienio valstybių priežiūros institucijų, naudoti priežiūros funkcijoms,
@@ -1900,7 +1900,17 @@ punktą informacija gali būti perduota užsienio valstybės, kuri nėra Europos
 Sąjungos valstybė narė, priežiūros institucijai, jei su ja sudaryta sutartis,
 numatanti pasikeitimą priežiūros tikslais gauta informacija, ir pagal tos
 valstybės įstatymus užsienio valstybės priežiūros institucijai taikomi ne
-mažesni reikalavimai saugoti informaciją, kaip nustatyti šiame įstatyme. 
+mažesni reikalavimai saugoti informaciją, kaip nustatyti šiame įstatyme.
+56 straipsnio redakcija nuo 2012 m. sausio 1 d.:
+56 straipsnis.
+Priežiūros tikslams gautos informacijos apsauga 
+Kredito unijų priežiūros tikslams gautos informacijos
+apsaugai mutatis mutandis taikomas Lietuvos Respublikos bankų įstatymo
+65 straipsnis.
+Straipsnio
+pakeitimai:
+Nr. XI-1669,
+2011-11-17, Žin., 2011, Nr. 145-6815 (2011-12-01)
  
 57 straipsnis.
 Prašymų dėl licencijos, leidimo, sutikimo išdavimo ar dėl kitų veiksmų atlikimo
@@ -1966,8 +1976,8 @@ unijos veiklos trūkumus;
 2) nesudaryti
 tam tikrų sandorių ar sumažinti tokių sandorių mastą, įskaitant sandorius dėl
 kredito unijos veiklą papildančių paslaugų pirkimo ar nekilnojamojo turto
-įsigijimo, arba parduoti ar kitaip perleisti kitiems asmenims turimą
-nekilnojamąjį turtą;
+įsigijimo, arba parduoti ar kitaip perleisti kitiems asmenims turimą nekilnojamąjį
+turtą;
 3) priežiūros
 institucijos nustatytu terminu atlikti kredito unijos tarpinių finansinių
 ataskaitų rinkinio auditą;
@@ -1983,8 +1993,8 @@ instituciją ir duoti paaiškinimus. Priežiūros institucija apie nurodymą kre
 unijos vadovams atvykti į priežiūros instituciją turi teisę paskelbti viešai;
 7) atlikti kitus
 veiksmus ar neatlikti tam tikrų veiksmų siekiant, kad būtų pašalinti teisės
-aktų pažeidimai ar kredito unijos veiklos trūkumai arba kad kredito unijos veikla
-būtų stabili ir patikima.
+aktų pažeidimai ar kredito unijos veiklos trūkumai arba kad kredito unijos
+veikla būtų stabili ir patikima.
 3. Priežiūros
 institucija, nustačiusi teisės aktų pažeidimus ar kredito unijos veiklos
 trūkumus arba nustačiusi, kad kredito unijos veikla kelia grėsmę kredito unijos
@@ -1996,9 +2006,9 @@ straipsnio 2 dalies nuostatas.
 4. Šio
 straipsnio 2 ir 3 dalyse nustatyti nurodymai gali būti duodami kartu su
 taikomomis poveikio priemonėmis. 
-5. Priežiūros
-institucijos nustatyta tvarka priežiūros institucijos darbuotojai turi teisę
-dalyvauti kredito unijos organų ir kredito unijos komitetų darbe – dalyvauti
+5. Priežiūros institucijos
+nustatyta tvarka priežiūros institucijos darbuotojai turi teisę dalyvauti
+kredito unijos organų ir kredito unijos komitetų darbe – dalyvauti
 susirinkimuose ar posėdžiuose stebėtojų teisėmis ar kitaip stebėti kredito
 unijos organų, kredito unijos komitetų ir kredito unijos vadovų veiklą.
 6. Priežiūros
@@ -2058,8 +2068,8 @@ tikrinant, taikomos šio straipsnio 2 ir 3 dalių nuostatos.
  
 61 straipsnis.
 Poveikio priemonės
-1. Priežiūros institucija turi teisę
-licenciją turinčioms kredito unijoms taikyti šias poveikio priemones:
+1. Priežiūros institucija turi teisę licenciją
+turinčioms kredito unijoms taikyti šias poveikio priemones:
 1) įspėti dėl šio įstatymo ir kitų
 teisės aktų, reglamentuojančių saugią ir patikimą kredito unijų veiklą,
 pažeidimo arba priežiūros institucijos nurodymų nevykdymo;
@@ -2089,6 +2099,13 @@ lėšomis, esančiomis sąskaitose Centrinėje kredito unijoje bei kitose kredit
 įstaigose, ir kitu turtu;
 8) atšaukti išduotą licenciją ar
 laikinai sustabdyti jos galiojimą.
+8 punkto redakcija 2012 m. sausio 1 d.:
+8) atšaukti išduotą licenciją ar
+laikinai sustabdyti jos galiojimą tol, kol egzistuoja pagrindas licenciją
+sustabdyti; išnykus licencijos sustabdymo pagrindui, priežiūros institucija
+nedelsdama, bet ne vėliau kaip per 5 darbo dienas nuo tada, kai įsitikino, kad
+pagrindas išnyko, atnaujina licencijos galiojimą.
+ 
 2. Priežiūros institucija turi teisę
 taikyti vieną ar kelias poveikio priemones.
 3. Priežiūros institucija, priimdama
@@ -2112,7 +2129,12 @@ poveikio priemonės rūšies parinkimo ir jos taikymo tikslingumo.
 laikinai, galioja iki priežiūros institucijos sprendime dėl poveikio priemonės
 taikymo nurodyto termino, kuris gali būti apibrėžtas konkrečia data, laiko
 tarpu ar susietas su tam tikrų sąlygų atsiradimu (aplinkybių išnykimu), nebent
-priežiūros institucija priima sprendimą jas atšaukti anksčiau nustatyto termino.
+priežiūros institucija priima sprendimą jas atšaukti anksčiau nustatyto
+termino.
+Straipsnio
+pakeitimai:
+Nr. XI-1669,
+2011-11-17, Žin., 2011, Nr. 145-6815 (2011-12-01)
  
 62 straipsnis.
 Poveikio priemonių taikymo pagrindai ir tvarka
@@ -2148,9 +2170,9 @@ administracijos vadovui). Vadovų neatvykimas ar paaiškinimų nepateikimas
 netrukdo spręsti poveikio priemonės taikymo klausimo. Neatidėliotinais atvejais
 priežiūros institucija turi teisę spręsti klausimą dėl poveikio priemonės
 taikymo neatsižvelgdama į šios dalies nuostatas. 
-3. Poveikio priemonės gali būti
-skiriamos, jei praėjo ne daugiau kaip 2 metai nuo pažeidimo padarymo dienos, o
-esant tęstiniam ar trunkamam pažeidimui, - nuo paskutinių
+3. Poveikio priemonės gali būti skiriamos,
+jei praėjo ne daugiau kaip 2 metai nuo pažeidimo padarymo dienos, o esant
+tęstiniam ar trunkamam pažeidimui, - nuo paskutinių
 tęstinio pažeidimo veiksmų atlikimo dienos ar trunkamo pažeidimo pasibaigimo
 dienos. 
 4. Sprendimas dėl poveikio priemonės
@@ -2175,9 +2197,10 @@ Nr. XI-378,
 Baudos
 1. Priežiūros institucija turi teisę
 kredito unijai skirti šias baudas:
-1) už nustatytais terminais šio įstatymo
-ar priežiūros institucijos teisės aktuose nustatytos arba pareikalautos
-informacijos ar dokumentų nepateikimą ar neteisingos informacijos pateikimą - iki 0,5 procento bendrųjų metinių pajamų;
+1) už nustatytais terminais šio
+įstatymo ar priežiūros institucijos teisės aktuose nustatytos arba
+pareikalautos informacijos ar dokumentų nepateikimą ar neteisingos informacijos
+pateikimą - iki 0,5 procento bendrųjų metinių pajamų;
 2) už priežiūros institucijos pagal šį
 įstatymą duotų nurodymų nevykdymą ar netinkamą vykdymą – iki 1 procento
 bendrųjų metinių pajamų arba už kiekvieną nurodymo nevykdymo ar netinkamo
@@ -2227,11 +2250,11 @@ jais būtų nutraukta sutartis ar būtų panaikinti jų įgaliojimai, kredito un
 organas, kuriam suteikta tokia teisė, privalo per priežiūros institucijos
 sprendime nustatytą terminą atšaukti tokį asmenį iš pareigų ir (ar) nutraukti
 su juo sudarytą sutartį ar panaikinti jo įgaliojimus.
-3. Apie priežiūros institucijos sprendimą
-nušalinti kredito unijos stebėtojų tarybos narį (narius), valdybos narį
-(narius), kredito unijos administracijos vadovą nuo pareigų pranešama kredito
-unijai ir juridinių asmenų registro tvarkytojui bei paskelbiama leidinio
-„Valstybės žinios“ priede „Informaciniai pranešimai“. Apie priežiūros
+3. Apie priežiūros institucijos
+sprendimą nušalinti kredito unijos stebėtojų tarybos narį (narius), valdybos
+narį (narius), kredito unijos administracijos vadovą nuo pareigų pranešama
+kredito unijai ir juridinių asmenų registro tvarkytojui bei paskelbiama
+leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“. Apie priežiūros
 institucijos sprendimą nušalinti kredito unijos paskolų komiteto narį (narius)
 nuo pareigų pranešama kredito unijai.
  
@@ -2245,11 +2268,11 @@ paskelbimo.
 2. Be kitų šio įstatymo 62 straipsnyje
 nustatytų pagrindų, priežiūros institucija turi teisę paskelbti kredito unijos
 veiklos apribojimą (moratoriumą), jei kredito unija per 5 darbo dienas negali
-įvykdyti bent vieno kreditoriaus pagrįsto finansinio reikalavimo (dėl lėšų kredito
-unijos sąskaitose trūkumo negali atlikti kliento mokėjimo pavedimo, grąžinti
-indėlių ar kitų pasiskolintų lėšų arba vykdyti kitų finansinių įsipareigojimų
-ir pan.) ar yra pagrįstas pagrindas manyti, kad to negalės padaryti artimiausiu
-metu.
+įvykdyti bent vieno kreditoriaus pagrįsto finansinio reikalavimo (dėl lėšų
+kredito unijos sąskaitose trūkumo negali atlikti kliento mokėjimo pavedimo,
+grąžinti indėlių ar kitų pasiskolintų lėšų arba vykdyti kitų finansinių
+įsipareigojimų ir pan.) ar yra pagrįstas pagrindas manyti, kad to negalės
+padaryti artimiausiu metu.
 3. Priežiūros institucija, priimdama
 sprendimą skelbti kredito unijos veiklos apribojimą (moratoriumą), paskiria
 kredito unijos laikinąjį administratorių.
@@ -2270,14 +2293,14 @@ administratoriaus pateiktoms išvadoms ir pasiūlymams dėl kredito unijos veikl
 stabilumo ir patikimumo atkūrimo, kredito unijos veiklos apribojimo
 (moratoriumo) terminas priežiūros institucijos sprendimu gali būti pratęstas
 dar iki 6 mėnesių.
-6. Apie priimtą sprendimą skelbti kredito
-unijos veiklos apribojimą (moratoriumą) ir paskirti kredito unijos laikinąjį
-administratorių ne vėliau kaip kitą darbo dieną po sprendimo priėmimo dienos
-pranešama kredito unijai ir juridinių asmenų registro tvarkytojui, taip pat
-paskelbiama leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“.
+6. Apie priimtą sprendimą skelbti
+kredito unijos veiklos apribojimą (moratoriumą) ir paskirti kredito unijos
+laikinąjį administratorių ne vėliau kaip kitą darbo dieną po sprendimo priėmimo
+dienos pranešama kredito unijai ir juridinių asmenų registro tvarkytojui, taip
+pat paskelbiama leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“.
 7. Nuo sprendimo paskelbti kredito
-unijos veiklos apribojimą (moratoriumą) ir paskirti kredito unijos laikinąjį
-administratorių pateikimo kredito unijai dienos:
+unijos veiklos apribojimą (moratoriumą) ir paskirti kredito unijos laikinąjį administratorių
+pateikimo kredito unijai dienos:
 1) sustabdomi kredito unijos stebėtojų
 tarybos, valdybos ir administracijos vadovo įgaliojimai. Jie pereina kredito
 unijos laikinajam administratoriui. Visi šiame punkte nurodytų kredito unijos
@@ -2318,17 +2341,17 @@ visuotiniam narių susirinkimui priimti tam reikalingus sprendimus;
 2) per priežiūros institucijos
 nustatytą terminą privalo išnagrinėti ir įvertinti kredito unijos finansinę
 būklę, galimus kredito unijos veiklos stabilumo ir patikimumo atkūrimo būdus ir
-pateikti priežiūros institucijai išvadą bei pasiūlymus. Laikinojo
-administratoriaus išvadoje ir pasiūlymuose, be kita ko, turi būti numatyta
-galimų kredito unijos veiklos stabilumo ir patikimumo atkūrimo būdų sėkmingo
-įgyvendinimo lyginamoji tikimybė, kiekvienam galimam būdui įgyvendinti
-reikalingos išlaidos, terminai ir jų įvertinimas bei galimi rezultatai, taip
-pat poreikis pratęsti kredito unijos veiklos apribojimo (moratoriumo) terminą
-ir (ar) priimti kitus sprendimus, leidžiančius įgyvendinti kredito unijos
-veiklos stabilumo ir patikimumo atkūrimo būdus. Jeigu nėra realių galimybių
-atkurti kredito unijos veiklos stabilumą ir patikimumą, laikinojo
-administratoriaus išvadoje ir pasiūlymuose gali būti siūloma spręsti klausimus
-dėl kredito unijos likvidavimo ar bankroto bylos iškėlimo;
+pateikti priežiūros institucijai išvadą bei pasiūlymus. Laikinojo administratoriaus
+išvadoje ir pasiūlymuose, be kita ko, turi būti numatyta galimų kredito unijos
+veiklos stabilumo ir patikimumo atkūrimo būdų sėkmingo įgyvendinimo lyginamoji
+tikimybė, kiekvienam galimam būdui įgyvendinti reikalingos išlaidos, terminai
+ir jų įvertinimas bei galimi rezultatai, taip pat poreikis pratęsti kredito
+unijos veiklos apribojimo (moratoriumo) terminą ir (ar) priimti kitus
+sprendimus, leidžiančius įgyvendinti kredito unijos veiklos stabilumo ir
+patikimumo atkūrimo būdus. Jeigu nėra realių galimybių atkurti kredito unijos
+veiklos stabilumą ir patikimumą, laikinojo administratoriaus išvadoje ir
+pasiūlymuose gali būti siūloma spręsti klausimus dėl kredito unijos likvidavimo
+ar bankroto bylos iškėlimo;
 3) turi teisę be įspėjimo nutraukti
 sutartis su kredito unijos valdybos nariais ir administracijos vadovu. Šiems
 asmenims išeitinė išmoka nemokama;
@@ -2339,12 +2362,12 @@ unijos visuotiniam narių susirinkimui jo nustatyta tvarka.
 administratorius be kredito unijos visuotinio narių susirinkimo sutikimo neturi
 teisės parduoti ar kitaip perleisti, taip pat įkeisti kredito unijos
 nekilnojamąjį turtą.
-11. Kredito unijos laikinasis
-administratorius privalo savo funkcijas atlikti apdairiai, sąžiningai ir
-atsižvelgdamas į kredito unijos ir visų kredito unijos kreditorių interesus.
-Kredito unijos laikinasis administratorius negali jam suteiktų teisų panaudoti
-savo asmeniniams ar trečiųjų asmenų poreikiams tenkinti. Laikinasis
-administratorius už padarytą žalą atsako įstatymų nustatyta tvarka.
+11. Kredito unijos laikinasis administratorius
+privalo savo funkcijas atlikti apdairiai, sąžiningai ir atsižvelgdamas į
+kredito unijos ir visų kredito unijos kreditorių interesus. Kredito unijos
+laikinasis administratorius negali jam suteiktų teisų panaudoti savo
+asmeniniams ar trečiųjų asmenų poreikiams tenkinti. Laikinasis administratorius
+už padarytą žalą atsako įstatymų nustatyta tvarka.
 12. Priežiūros institucija,
 atsižvelgdama į kredito unijos laikinojo administratoriaus pasiūlymus, iki
 kredito unijos veiklos apribojimo (moratoriumo) termino pabaigos priima vieną
@@ -2404,8 +2427,8 @@ unijos teisės ir pareigos ar kurie įsteigiami, turi būti kredito unija.
 licenciją. Tokiu atveju prašymas išduoti licenciją ir licencijos išdavimui
 reikalingi dokumentai ir duomenys priežiūros institucijai pateikiami kartu su
 prašymu išduoti leidimą reorganizuoti kredito uniją ir kartu su sprendimu dėl
-leidimo reorganizuoti kredito uniją išdavimo priimamas sprendimas dėl licencijos
-išdavimo.
+leidimo reorganizuoti kredito uniją išdavimo priimamas sprendimas dėl
+licencijos išdavimo.
 4. Reorganizavime dalyvaujančios ir reorganizuojamos kredito unijos šio
 įstatymo nustatytais atvejais privalo gauti priežiūros institucijos sutikimą
 vykdyti reorganizavimą ir priežiūros institucijos leidimą jas reorganizuoti. 
@@ -2415,20 +2438,20 @@ Sutikimas vykdyti reorganizavimą
 1. Jeigu kredito unija reorganizuojama jungimo būdu, apie numatomą
 reorganizavimą privaloma informuoti priežiūros instituciją ir gauti jos
 sutikimą vykdyti reorganizavimą.
-2. Sutikimui vykdyti reorganizavimą gauti reorganizavime
-dalyvaujančios ir reorganizuojamos kredito unijos pateikia prašymą ir
-priežiūros institucijos teisės aktuose nustatytus dokumentus. Sutikimą vykdyti
-reorganizavimą išduoda priežiūros institucija šio įstatymo ir priežiūros
-institucijos teisės aktų nustatyta tvarka. Sprendimas dėl sutikimo išdavimo
-priimamas atsižvelgiant į priežiūros institucijos teisės aktuose nustatytus
-sisteminės rizikos lygio vertinimo kriterijus. 
+2. Sutikimui vykdyti reorganizavimą gauti
+reorganizavime dalyvaujančios ir reorganizuojamos kredito unijos pateikia
+prašymą ir priežiūros institucijos teisės aktuose nustatytus dokumentus.
+Sutikimą vykdyti reorganizavimą išduoda priežiūros institucija šio įstatymo ir
+priežiūros institucijos teisės aktų nustatyta tvarka. Sprendimas dėl sutikimo
+išdavimo priimamas atsižvelgiant į priežiūros institucijos teisės aktuose
+nustatytus sisteminės rizikos lygio vertinimo kriterijus. 
 3. Priežiūros institucija priima sprendimą dėl
 sutikimo išdavimo per vieną mėnesį nuo prašymo išduoti sutikimą gavimo dienos. 
  
 70 straipsnis.
 Leidimas reorganizuoti kredito uniją
-1. Kredito unijos reorganizavimas gali būti užbaigtas tik gavus
-priežiūros institucijos leidimą reorganizuoti kredito uniją. 
+1. Kredito unijos reorganizavimas gali būti užbaigtas tik gavus priežiūros
+institucijos leidimą reorganizuoti kredito uniją. 
 2. Leidimą reorganizuoti kredito uniją išduoda
 priežiūros institucija įstatymų ir priežiūros institucijos teisės aktų
 nustatyta tvarka.
@@ -2453,9 +2476,9 @@ pateiktus dokumentus ir priimti sprendimą dėl leidimo reorganizuoti kredito
 uniją išdavimo ne vėliau kaip per 3 mėnesius nuo prašymo gavimo dienos. 
 5. Priežiūros institucija gali atsisakyti išduoti
 leidimą reorganizuoti kredito uniją, jei:
-1) pateikti dokumentai neatitinka įstatymuose ir priežiūros
-institucijos teisės aktuose nustatytų reikalavimų, pateikti ne visi teisės
-aktuose nustatyti ar papildomai pareikalauti duomenys ar jie neteisingi;
+1) pateikti dokumentai neatitinka įstatymuose ir
+priežiūros institucijos teisės aktuose nustatytų reikalavimų, pateikti ne visi
+teisės aktuose nustatyti ar papildomai pareikalauti duomenys ar jie neteisingi;
 2) yra pagrindai, nustatyti šio įstatymo 8 straipsnio
 4 dalyje, jei reorganizavimo metu steigiama nauja kredito unija;
 3) yra pagrindai, nustatyti šio įstatymo 9 straipsnio
@@ -2480,8 +2503,8 @@ priežiūros institucijos teisės aktuose nustatytus dokumentus bei duomenis,
 įskaitant kredito unijos valdybos parengtą ir kredito unijos visuotinio narių
 susirinkimo patvirtintą kredito unijos likvidavimo ir atsiskaitymo su
 kreditoriais planą, kuriame, be kita ko, turi būti nurodyti atsiskaitymo su
-kreditoriais terminai ir šaltiniai, taip pat ekspertų išvadas dėl kredito unijos
-turto vertės. Kartu turi būti pateiktas prašymas atšaukti licenciją. 
+kreditoriais terminai ir šaltiniai, taip pat ekspertų išvadas dėl kredito
+unijos turto vertės. Kartu turi būti pateiktas prašymas atšaukti licenciją. 
 5. Priežiūros institucija privalo išnagrinėti
 pateiktus dokumentus ir priimti sprendimą dėl leidimo likviduoti kredito uniją
 išdavimo ne vėliau kaip per 3 mėnesius nuo prašymo gavimo dienos. 
@@ -2748,8 +2771,16 @@ Nr. XI-1568,
 KREDITO UNIJŲ ĮSTATYMO 2, 4, 24, 29 STRAIPSNIŲ
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1669,
+2011-11-17, Žin., 2011, Nr. 145-6815 (2011-12-01)
+KREDITO UNIJŲ ĮSTATYMO 56 IR 61 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2012 m. sausio 1 d.
+ 
 *** Pabaiga ***
  
  
-Redagavo Aušra Bodin (2011-07-13)
-                  aubodi@lrs.lt
+Redagavo Aušrinė Trapinskienė (2011-12-01)
+                  ausrine.trapinskiene@lrs.lt
