@@ -44,6 +44,7 @@ Respublikos
                                                                                                              
 priedėlis
  
+ 
 I. LIETUVOS RESPUBLIKOS
 KONSTITUCINIO TEISMO TEISĖJŲ ATLYGINIMAI
  
@@ -74,6 +75,7 @@ Lietuvos
  
 II. BENDROSIOS
 KOMPETENCIJOS IR SPECIALIZUOTŲ TEISMŲ TEISĖJŲ PAREIGINĖS ALGOS
+ 
                                                                                                 
 (Baziniais dydžiais) 
 
@@ -211,7 +213,14 @@ kuriuose
 2
 straipsnis. Įstatymo galiojimas
 Šis įstatymas
-įsigalioja 2009 m. rugpjūčio 1 d. ir galioja iki 2011 m. gruodžio 31 d. 
+įsigalioja 2009 m. rugpjūčio 1 d. ir galioja iki 2012 m. gruodžio 31 d. 
+Straipsnio
+pakeitimai:
+Nr. XI-953,
+2010-06-30, Žin., 2010, Nr. 82-4307 (2010-07-13)
+Nr.
+XI-1728,
+2011-11-22, Žin., 2011, Nr. 150-7043 (2011-12-08)
  
 Skelbiu šį Lietuvos Respublikos Seimo
 priimtą įstatymą.
@@ -234,11 +243,21 @@ TEISĖJŲ
 ATLYGINIMŲ ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
  
-*** Pabaiga ***
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-1728,
+2011-11-22, Žin., 2011, Nr. 150-7043 (2011-12-08)
+TEISĖJŲ ATLYGINIMŲ ĮSTATYMO PRIEDĖLIO
+PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+***
+Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė
-(2010-07-13)
+Redagavo
+Aušra Bodin (2011-12-13)
                  
-autrap@lrs.lt
+aubodi@lrs.lt
 
