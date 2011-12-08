@@ -2247,10 +2247,12 @@ Nr. XI-1582,
 1. Šio įstatymo
 1 straipsnis įsigalioja 2009 m. gegužės 1 d.
 2. Šio įstatymo
-2 straipsnis įsigalioja 2012 m. sausio 1 d.
+2 straipsnis įsigalioja 2013 m. sausio 1 d.
 Straipsnio pakeitimai:
 Nr. XI-951,
 2010-06-30, Žin., 2010, Nr. 82-4305 (2010-07-13)
+Nr. XI-1727,
+2011-11-22, Žin., 2011, Nr. 150-7042 (2011-12-08)
  
 Skelbiu šį Lietuvos Respublikos Seimo
 priimtą įstatymą. 
@@ -2290,10 +2292,17 @@ VALSTYBĖS
 POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
 ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-1727, 2011-11-22,
+Žin., 2011, Nr. 150-7042 (2011-12-08)
+VALSTYBĖS
+POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
+ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+ 
 *** Pabaiga ***
- 
- 
-Redagavo Aušrinė Trapinskienė
-(2011-10-04)
+Redagavo Aušrinė Trapinskienė (2011-12-08)
                  
 ausrine.trapinskiene@lrs.lt
