@@ -65,7 +65,8 @@ atitinkamo teismo kancleris, o teismo kanclerį – teismo pirmininkas;“.
 3
 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 1.
-Šio įstatymo 1 straipsnis ir 2 straipsnio 1 ir 2 dalys įsigalioja 2012 m. sausio 1 d.
+Šio įstatymo 1 straipsnis ir 2 straipsnio 1 ir 2 dalys įsigalioja 2015 m.
+sausio 1 d.
 2. Šio įstatymo 2 straipsnio 3
 ir 4 dalys įsigalioja
 2009
@@ -81,6 +82,8 @@ Straipsnio
 pakeitimas:
 Nr. XI-588,
 2009-12-21, Žin., 2009, Nr. 154-6958 (2009-12-28)
+Nr. XI-1755,
+2011-12-01, Žin., 2011, Nr. 150-7054 (2011-12-08)
  
  
 Skelbiu šį
@@ -103,7 +106,15 @@ VALSTYBĖS
 TARNYBOS ĮSTATYMO 8, 10 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 3 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
  
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1755,
+2011-12-01, Žin., 2011, Nr. 150-7054 (2011-12-08)
+VALSTYBĖS TARNYBOS ĮSTATYMO 8, 10
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
-Redagavo Aušrinė
-Trapinskienė (2009-12-29)
-                  autrap@lrs.lt
+ 
+ 
+Redagavo Aušra Bodin (2011-12-14)
+                  aubodi@lrs.lt
