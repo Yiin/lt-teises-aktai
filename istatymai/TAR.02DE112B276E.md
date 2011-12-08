@@ -26,16 +26,14 @@ VALSTYBĖS TARNYBOS ĮSTATYMO 1 PRIEDO PAKEITIMO
 Vilnius
 
  
- (Žin.,
-1999, Nr. 66-2130;
+ (Žin., 1999,
+Nr. 66-2130;
 2006, Nr. 87-3400;
 2007, Nr. 69-2723,
 Nr. 135-5453)
  
-1
-straipsnis. Įstatymo 1 priedo pakeitimas
-Pakeisti
-Įstatymo 1 priedą ir jį išdėstyti taip:
+1 straipsnis. Įstatymo 1 priedo pakeitimas
+Pakeisti Įstatymo 1 priedą ir jį išdėstyti taip:
                                                                                     „Lietuvos
 Respublikos 
                                                                                     valstybės
@@ -136,10 +134,8 @@ Pareiginių
 11,4“
 
  
-2
-straipsnis. Įstatymo 1 priedo pakeitimas
-Pakeisti Įstatymo 1
-priedą ir jį išdėstyti taip:
+2 straipsnis. Įstatymo 1 priedo pakeitimas
+Pakeisti Įstatymo 1 priedą ir jį išdėstyti taip:
                                                                                                 „Lietuvos
 Respublikos 
                                                                                                 valstybės
@@ -147,9 +143,8 @@ tarnybos įstatymo
                                                                                                 1
 priedas
  
-LIETUVOS
-RESPUBLIKOS VALSTYBĖS TARNAUTOJŲ PAREIGYBIŲ KATEGORIJOS IR PAREIGINIŲ ALGŲ
-KOEFICIENTAI
+LIETUVOS RESPUBLIKOS VALSTYBĖS TARNAUTOJŲ
+PAREIGYBIŲ KATEGORIJOS IR PAREIGINIŲ ALGŲ KOEFICIENTAI
  
                                                                                                             (Baziniais
 dydžiais)
@@ -241,16 +236,18 @@ Pareiginių
 
  
 3 straipsnis. Įstatymo galiojimas
-1.
-Šio įstatymo 1 straipsnis įsigalioja 2009 m. gegužės 1 d.
-2.
-Šio įstatymo 2 straipsnis įsigalioja 2012 m. sausio 1 d.
+1. Šio įstatymo
+1 straipsnis įsigalioja 2009 m. gegužės 1 d.
+2. Šio įstatymo
+2 straipsnis įsigalioja 2013 m. sausio 1 d.
 Straipsnio pakeitimai:
 Nr. XI-943, 2010-06-30,
 Žin., 2010, Nr. 82-4297 (2010-07-13)
+Nr. XI-1723, 2011-11-22,
+Žin., 2011, Nr. 150-7038 (2011-12-08)
  
-Skelbiu
-šį Lietuvos Respublikos Seimo priimtą įstatymą. 
+Skelbiu šį
+Lietuvos Respublikos Seimo priimtą įstatymą. 
  
 
  
@@ -269,9 +266,16 @@ Nr. XI-943,
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 1 PRIEDO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1723,
+2011-11-22, Žin., 2011, Nr. 150-7038 (2011-12-08)
+VALSTYBĖS TARNYBOS ĮSTATYMO 1 PRIEDO
+PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
-Redagavo Aušrinė
-Trapinskienė (2010-07-13)
-                  autrap@lrs.lt
+ 
+Redagavo Aušra Bodin (2011-12-12)
+                  aubodi@lrs.lt
 
