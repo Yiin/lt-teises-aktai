@@ -51,8 +51,7 @@ departamente prie Lietuvos Respublikos teisingumo ministerijos statuto
 Pakeisti
 41 straipsnio 4 dalį ir ją išdėstyti taip:
 „4.
-Pareigūnams nustatomi tokie pareiginės algos priedai už kvalifikacines
-kategorijas:
+Pareigūnams nustatomi tokie pareiginės algos priedai už kvalifikacines kategorijas:
 1)
 už 3 kategoriją – 15 procentų pareiginės algos;
 2)
@@ -62,13 +61,16 @@ už 1 kategoriją – 50 procentų pareiginės algos.“
  
 3 straipsnis. Įstatymo įsigaliojimas 
 Šio
-įstatymo 2 straipsnis įsigalioja 2012 m. sausio 1 d.
+įstatymo 2 straipsnis įsigalioja 2013 m. sausio 1 d.
 Straipsnio pakeitimai:
 Nr. XI-947,
 2010-06-30, Žin., 2010, Nr. 82-4301 (2010-07-13)
+Nr. XI-1725,
+2011-11-22, Žin., 2011, Nr. 150-7040 (2011-12-08)
  
 Skelbiu
 šį Lietuvos Respublikos Seimo priimtą įstatymą.
+ 
  
  
 
@@ -85,15 +87,24 @@ Pakeitimai:
 1.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XI-947, 2010-06-30,
-Žin., 2010, Nr. 82-4301 (2010-07-13)
+Nr. XI-947,
+2010-06-30, Žin., 2010, Nr. 82-4301 (2010-07-13)
 TARNYBOS
 KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
 PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
  
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1725,
+2011-11-22, Žin., 2011, Nr. 150-7040 (2011-12-08)
+TARNYBOS KALĖJIMŲ DEPARTAMENTE PRIE
+LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO 1 STRAIPSNIO PAKEITIMO
+ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
-Redagavo Aušrinė
-Trapinskienė (2010-07-15)
-                  autrap@lrs.lt
+ 
+ 
+Redagavo Aušra Bodin (2011-12-13)
+                  aubodi@lrs.lt
 
