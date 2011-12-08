@@ -660,11 +660,13 @@ apskaičiuojamas proporcingai dirbtam laikui.“
 2 straipsnis.
 Įstatymo galiojimas
 Šis įstatymas
-įsigalioja 2009 m. rugpjūčio 1 d. ir galioja iki 2011 m. gruodžio 31 d.
+įsigalioja 2009 m. rugpjūčio 1 d. ir galioja iki 2012 m. gruodžio 31 d.
 Straipsnio
 pakeitimai:
 Nr. XI-980,
 2010-07-02, Žin., 2010, Nr. 86-4531 (2010-07-20)
+Nr. XI-1726,
+2011-11-22, Žin., 2011, Nr. 150-7041 (2011-12-08)
  
 Skelbiu šį Lietuvos Respublikos Seimo
 priimtą  įstatymą.
@@ -684,10 +686,20 @@ VALSTYBĖS
 POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
 ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+2. 
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-1726, 2011-11-22,
+Žin., 2011, Nr. 150-7041 (2011-12-08)
+VALSTYBĖS
+POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
+ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė
-Trapinskienė (2010-07-20)
+Trapinskienė (2011-12-08)
                   autrap@lrs.lt
 
