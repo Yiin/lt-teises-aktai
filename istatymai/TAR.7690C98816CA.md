@@ -1035,7 +1035,7 @@ kvalifikacinę kategoriją sudaro 10 procentų pareiginės algos, už 2-ąją
 kvalifikacinę kategoriją – 20 procentų pareiginės algos, už 1-ąją kvalifikacinę
 kategoriją – 30 procentų pareiginės algos.
 4
-dalies redakcija nuo 2012-01-01:
+dalies redakcija nuo 2013-01-01:
 4. Tarnybos
 pareigūnams priedas pagal Valstybės tarnybos įstatymą už 3-iąją kvalifikacinę
 kategoriją sudaro 15 procentų pareiginės algos, už 2-ąją kvalifikacinę
@@ -1075,8 +1075,11 @@ X-1620,
 Nr.
 XI-364,
 2009-07-17, Žin., 2009, Nr. 91-3919 (2009-07-31)
-Nr. XI-949,
+Nr.
+XI-949,
 2010-06-30, Žin., 2010, Nr. 82-4303 (2010-07-13)
+Nr. XI-1719,
+2011-11-22, Žin., 2011, Nr. 150-7034 (2011-12-08)
 Nr. XI-986,
 2010-07-02, Žin., 2010, Nr. 86-4537 (2010-07-20)
  
@@ -1116,8 +1119,8 @@ dydžio;
 užmokesčio dydžio;
 5) apysunkio sveikatos sužalojimo atveju – 18 mėnesių darbo
 užmokesčio dydžio;
-6) lengvo sveikatos sužalojimo atveju – 12 mėnesių darbo užmokesčio
-dydžio.
+6) lengvo sveikatos sužalojimo atveju – 12 mėnesių darbo
+užmokesčio dydžio.
 4. Tarnybos pareigūno sveikatos sužalojimo sunkumo laipsnį, taip pat jei
 dėl sužeidimo liko sveikatos pakitimų ar sumažėjo jo tinkamumas tarnybai,
 teisės aktų nustatyta tvarka nustato įgaliota Lietuvos nacionalinės sveikatos
@@ -1131,17 +1134,17 @@ atlyginama materialinė žala, kurią jie patiria dėl tarnybos.
  
 32 straipsnis. Išmokos pareigūnams,
 atleidžiamiems iš Specialiųjų tyrimų tarnybos
-1. Atleidžiant tarnybos pareigūnus
-iš Specialiųjų tyrimų tarnybos Specialiųjų tyrimų tarnybos įstatymo 12
-straipsnio 1 dalies 4 arba 7 punkto, 12 straipsnio 2 dalies, šio Statuto 11
+1. Atleidžiant tarnybos
+pareigūnus iš Specialiųjų tyrimų tarnybos Specialiųjų tyrimų tarnybos įstatymo
+12 straipsnio 1 dalies 4 arba 7 punkto, 12 straipsnio 2 dalies, šio Statuto 11
 straipsnio 1 dalies 6 punkto, 2 dalies 3, 4 arba 5 punkto nustatytais
 pagrindais, išmokama dviejų mėnesių jų vidutinio darbo užmokesčio dydžio
 išeitinė pašalpa.
 1 dalies
 redakcija nuo 2012 m. sausio 1 d.:
-1. Atleidžiant tarnybos
-pareigūnus iš Specialiųjų tyrimų tarnybos Specialiųjų tyrimų tarnybos įstatymo
-12 straipsnio 1 dalies 4 arba 7 punkto, 12 straipsnio 2 dalies, šio Statuto 11
+1. Atleidžiant tarnybos pareigūnus
+iš Specialiųjų tyrimų tarnybos Specialiųjų tyrimų tarnybos įstatymo 12
+straipsnio 1 dalies 4 arba 7 punkto, 12 straipsnio 2 dalies, šio Statuto 11
 straipsnio 1 dalies 6 punkto, 2 dalies 3, 4, 5 arba 7 punkto nustatytais
 pagrindais, išmokama dviejų mėnesių vidutinio darbo užmokesčio dydžio išeitinė
 pašalpa.
@@ -1194,16 +1197,16 @@ nustatyta darbo savaitės norma. Už tai jiems papildomai mokama.
 2. Tarnybos pareigūnams taikomos Valstybinio
 socialinio draudimo įstatyme nustatytos socialinės garantijos. Joms įgyvendinti
 naudojami Specialiųjų tyrimų tarnybai skiriami biudžeto asignavimai.
-3. Tarnybos pareigūnui, panaudojusiam tarnybinį ginklą
-prieš asmenį, suteikiama psichologo konsultacija. Esant specialisto
+3. Tarnybos pareigūnui, panaudojusiam tarnybinį
+ginklą prieš asmenį, suteikiama psichologo konsultacija. Esant specialisto
 rekomendacijai, pareigūnas siunčiamas medicininės-psichologinės reabilitacijos.
 4. Tarnybos pareigūnams, kurių materialinė būklė
 sunki dėl ligos, šeimos nario ligos ar mirties, stichinės nelaimės, turto
 netekimo, taip pat kitais ypatingais atvejais gali būti skiriama iki 5
 minimaliųjų mėnesinių algų dydžio pašalpa. Pašalpa mokama iš Specialiųjų tyrimų
 tarnybai darbo užmokesčiui skirtų lėšų. 
-5. Tarnybos pareigūnai privalomuoju sveikatos draudimu
-draudžiami valstybės lėšomis. 
+5. Tarnybos pareigūnai privalomuoju sveikatos
+draudimu draudžiami valstybės lėšomis. 
 6. Tarnybos pareigūnai turi teisę į nemokamą iš
 Privalomojo sveikatos draudimo fondo biudžeto asmens sveikatos priežiūrą Vidaus
 reikalų ministerijos įsteigtose asmens sveikatos priežiūros įstaigose. Ši
@@ -1319,9 +1322,10 @@ TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šio įstatymo
 1 straipsnis įsigalioja 2009 m. rugpjūčio 1 d.
 Šio įstatymo
-2 straipsnis įsigalioja 2012 m. sausio 1 d.
+2 straipsnis įsigalioja 2013 m. sausio 1 d.
 Įstatymo
 įsigaliojimas keistas:
+1.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
@@ -1330,16 +1334,24 @@ XI-949,
 SPECIALIŲJŲ
 TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-1719,
+2011-11-22, Žin., 2011, Nr. 150-7034 (2011-12-08)
+SPECIALIŲJŲ
+TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
  
 8.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XI-986,
-2010-07-02, Žin., 2010, Nr. 86-4537 (2010-07-20)
+Nr. XI-986, 2010-07-02,
+Žin., 2010, Nr. 86-4537 (2010-07-20)
 SPECIALIŲJŲ
 TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-Šio įstatymo nuostatos dėl nėštumo
-ir gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros atostogų
+Šio įstatymo nuostatos dėl
+nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros atostogų
 laikotarpiais pareigūnams mokamų išmokų įsigalioja 2011 m. liepos 1 d. 
 Šio įstatymo nuostatos dėl
 laikinojo nedarbingumo laikotarpiu pareigūnams mokamų išmokų įsigalioja 2010 m.
@@ -1367,10 +1379,13 @@ SPECIALIŲJŲ TYRIMŲ TARNYBOS
 STATUTO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2011 m. rugsėjo 1 d.
  
-*** Pabaiga ***
  
-Redagavo Aušrinė Trapinskienė
-(2011-07-26)
+***
+Pabaiga ***
+ 
+ 
+Redagavo
+Aušra Bodin (2011-12-12)
                  
-ausrine.trapinskiene@lrs.lt
+aubodi@lrs.lt
 
