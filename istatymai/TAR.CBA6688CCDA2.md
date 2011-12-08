@@ -69,15 +69,18 @@ kategorijos – 50 procentų pareiginės algos dydžio.“
 3 straipsnis. Įstatymo įsigaliojimas
 1. Šio įstatymo 1 straipsnis įsigalioja 2009 m. rugpjūčio
 1 d.
-2. Šio įstatymo 2 straipsnis įsigalioja 2012 m. sausio 1
+2. Šio įstatymo 2 straipsnis įsigalioja 2013 m. sausio 1
 d.
 Straipsnio
 pakeitimai:
-Nr. XI-950,
-2010-06-30, Žin., 2010, Nr. 82-4304 (2010-07-13)
+Nr. XI-950, 2010-06-30, Žin., 2010, Nr.
+82-4304 (2010-07-13)
+Nr.
+XI-1720, 2011-11-22, Žin., 2011, Nr. 150-7035 (2011-12-08)
  
 Skelbiu
 šį Lietuvos Respublikos Seimo priimtą įstatymą.
+ 
  
  
 RESPUBLIKOS
@@ -97,10 +100,21 @@ VALSTYBĖS
 SAUGUMO DEPARTAMENTO STATUTO 43 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
  
-*** Pabaiga ***
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-1720, 2011-11-22, Žin., 2011, Nr. 150-7035 (2011-12-08)
+VALSTYBĖS
+SAUGUMO DEPARTAMENTO STATUTO 43 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+ 
+***
+Pabaiga ***
  
  
-Redagavo Aušrinė
-Trapinskienė (2010-07-19)
-                  autrap@lrs.lt
+Redagavo
+Aušra Bodin (2011-12-12)
+                 
+aubodi@lrs.lt
 
