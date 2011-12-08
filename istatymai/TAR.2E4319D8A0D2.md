@@ -16,7 +16,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E4319D8A0D2"
 Įstatymas skelbtas: Žin., 2003, Nr. 92-4140
 Neoficialus įstatymo tekstas
 Statuto
-aktuali redakcija nuo 2011 m. sausio 1 d.
+aktuali redakcija nuo 2011-01-01 iki 2012-12-31 
  
 LIETUVOS
 RESPUBLIKOS
@@ -61,7 +61,7 @@ PREZIDENTAS                                  �
 Statuto
 aktuali redakcija nuo 2011 m. sausio 1 d.
                                                                                     PATVIRTINTA
-                                                                                    Lietuvos
+                                                                                    Lietuvos
 Respublikos
                                                                                     2002
 m. rugsėjo 23 d.
@@ -93,10 +93,10 @@ santykius, socialines ir kitas garantijas.
 2 straipsnis. Pagrindinės šio statuto
 sąvokos
 1.
-Departamentas – krašto apsaugos ministrui pavaldi žvalgybą,
-kontržvalgybą ir kitas šiame statute nustatytas funkcijas atliekanti krašto
-apsaugos sistemos institucija, kurios paskirtis – stiprinti krašto
-apsaugos sistemos saugumą ir šalies gynybinę galią.
+Departamentas – krašto apsaugos ministrui pavaldi žvalgybą, kontržvalgybą
+ir kitas šiame statute nustatytas funkcijas atliekanti krašto apsaugos sistemos
+institucija, kurios paskirtis – stiprinti krašto apsaugos sistemos saugumą
+ir šalies gynybinę galią.
 2. Tarnybinis
 nusižengimas – šiame statute nustatyta veika (veikimas ar neveikimas),
 kuria statutinis tarnautojas neatlieka pareigų ar jas netinkamai atlieka,
@@ -262,8 +262,8 @@ laikotarpis, skaičiuojamas nuo tarnybos Departamente pradžios.
  
 13
 straipsnis. Reikalavimai asmenims, priimamiems į tarnybą Departamente 
-1. Asmenims,
-priimamiems į tarnybą Departamente, taikomi šie reikalavimai:
+1. Asmenims, priimamiems
+į tarnybą Departamente, taikomi šie reikalavimai:
 1) kariams
 (išskyrus karininkus) – ne žemesnis kaip vidurinis išsilavinimas;
 2) karininkams –
@@ -304,8 +304,8 @@ valstybės tarnybos už tarnybinį nusižengimą, jeigu nuo atleidimo dienos
 nepraėjo 5 metai;
 6)
 neatitinkantys šio statuto 13 straipsnyje nustatytų reikalavimų;
-7) neatitinkantys kitų įstatymų
-nustatytų reikalavimų.
+7) neatitinkantys kitų įstatymų nustatytų
+reikalavimų.
  
 15 straipsnis. Asmenų, priimamų į
 tarnybą Departamente, pateikiami dokumentai ir atranka
@@ -380,8 +380,8 @@ viršininkas – majoras (komandoras leitenantas), pulkininkas leitenantas
 5) skyriaus
 viršininko pavaduotojas, poskyrio viršininkas – majoras (komandoras
 leitenantas);
-6) vyriausiasis specialistas
-– nuo leitenanto iki majoro (komandoro leitenanto);
+6) vyriausiasis
+specialistas – nuo leitenanto iki majoro (komandoro leitenanto);
 7) vyresnysis
 specialistas – nuo štabo seržanto, štabo seržanto specialisto (štabo laivūno,
 štabo laivūno specialisto) iki seržanto majoro (vyresniojo laivūno);
@@ -467,8 +467,8 @@ termino pabaigą, kai karys ar statutinis tarnautojas negali tęsti tarnybos dė
 ligos ar netekto darbingumo arba dėl kitų nuo jo nepriklausančių ir
 nepašalinamų priežasčių.
  
-21 straipsnis. Karių ir statutinių
-tarnautojų atestavimas
+21 straipsnis. Karių ir statutinių tarnautojų
+atestavimas
 1.
 Karių atestavimą reglamentuoja Krašto apsaugos sistemos organizavimo ir karo
 tarnybos įstatymas. 
@@ -480,8 +480,8 @@ Statutinius tarnautojus atestuoja jų tiesioginis viršininkas ir aukštesnysis
 viršininkas.
 4.
 Statutiniai tarnautojai atestuojami kas 12 mėnesių, taip pat tais
-atvejais, kai sprendžiama, ar statutinis tarnautojas tinka civilinei
-krašto apsaugos tarnybai.
+atvejais, kai sprendžiama, ar statutinis tarnautojas tinka civilinei krašto
+apsaugos tarnybai.
 5.
 Kvalifikaciją liudijančiame dokumente (toliau – atestatas) turi būti
 apibūdinta atestuojamo asmens savybės, gabumai, elgesys, kvalifikacija,
@@ -546,9 +546,9 @@ valstybės tarnautojas netinka civilinei krašto apsaugos tarnybai;
 paaiškėja, kad jis negali atlikti civilinės krašto apsaugos tarnybos pareigų
 dėl sveikatos būklės; 
 11)
-netenka pasitikėjimo, ir įstatymų įgaliotos institucijos ar pareigūnai
-motyvuotai reikalauja atleisti jį iš tarnybos arba motyvuotai nerekomenduoja
-išduoti leidimo (siūlo panaikinti leidimą) statutiniam tarnautojui dirbti ar
+netenka pasitikėjimo, ir įstatymų įgaliotos institucijos ar pareigūnai motyvuotai
+reikalauja atleisti jį iš tarnybos arba motyvuotai nerekomenduoja išduoti
+leidimo (siūlo panaikinti leidimą) statutiniam tarnautojui dirbti ar
 susipažinti su įslaptinta informacija, jeigu šia informacija reikia naudotis
 pagal statutiniam tarnautojui pavestas pareigas ir nėra kitų, su šios
 informacijos naudojimu nesusijusių, pareigų, į kurias jį būtų galima perkelti;
@@ -884,7 +884,7 @@ tarnybos įstatymas, šis statutas ir kiti teisės aktai.
 2. Statutinių
 tarnautojų darbo užmokestį nustato Valstybės tarnybos įstatymas ir šis
 statutas.
-3 dalies redakcija iki 2011-12-31:
+3 dalies redakcija iki 2012-12-31:
 3. Statutiniams
 tarnautojams mokami tokie pareiginės algos priedai už kvalifikacinę kategoriją:
 1) už pirmą kvalifikacinę
@@ -897,7 +897,7 @@ kategoriją – 30 procentų pareiginės algos dydžio priedas;
 pareiginės algos dydžio priedas;
 5) už penktą kvalifikacinę kategoriją – 38 procentų pareiginės algos
 dydžio priedas.
-3 dalies redakcija nuo 2012-01-01:
+3 dalies redakcija nuo 2013-01-01:
 3. Statutiniams
 tarnautojams mokami tokie pareiginės algos priedai už kvalifikacinę kategoriją:
 1) už pirmą kvalifikacinę kategoriją
@@ -917,6 +917,10 @@ XI-368,
 2009-07-17, Žin., 2009, Nr. 91-3922 (2009-07-31)
 Nr. XI-945,
 2010-06-30, Žin., 2010, Nr. 82-4299 (2010-07-13)
+Nr.
+XI-1718,
+2011-11-22, Žin., 2011, Nr. 150-7033
+(2011-12-08)
  
 33 straipsnis. Departamento rezervas
 1. Departamente sudaromas karių ir statutinių
@@ -940,8 +944,8 @@ pareigas Departamente ir ten išdirba ne mažiau kaip vienus metus.
 5. Kariai ir statutiniai tarnautojai Departamento
 rezerve nepertraukiamai gali būti ne ilgiau kaip 4 metus. Esant tarnybiniam
 būtinumui, karių ir statutinių tarnautojų buvimo Departamento rezerve laikas
-gali būti pratęstas, tačiau bendras karių ir statutinių tarnautojų buvimo
-Departamento rezerve laikas per visą jų tarnybą negali viršyti 8 metų.
+gali būti pratęstas, tačiau bendras karių ir statutinių tarnautojų buvimo Departamento
+rezerve laikas per visą jų tarnybą negali viršyti 8 metų.
 6. Rezervo sudarymo, jo veiklos, karių ir statutinių
 tarnautojų perkėlimo į šį rezervą, buvimo rezerve pratęsimo tvarką nustato
 krašto apsaugos ministras.
@@ -1059,17 +1063,27 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šio
 įstatymo 1 straipsnis įsigalioja 2009 m. rugpjūčio 1 d.
 Šio
-įstatymo 2 straipsnis įsigalioja 2012 m. sausio 1 d.
+įstatymo 2 straipsnis įsigalioja 2013 m. sausio 1 d.
 Šio įstatymo įsigaliojimas keistas:
 Lietuvos
 Respublikos Seimas, Įstatymas
+2.1.
 Nr. XI-945,
 2010-06-30, Žin., 2010, Nr. 82-4299 (2010-07-13)
 ANTROJO
 OPERATYVINIŲ TARNYBŲ DEPARTAMENTO PRIE KRAŠTO APSAUGOS MINISTERIJOS STATUTO 32
 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+2.2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-1718,
+2011-11-22, Žin., 2011, Nr. 150-7033 (2011-12-08)
+ANTROJO
+OPERATYVINIŲ TARNYBŲ DEPARTAMENTO PRIE KRAŠTO APSAUGOS MINISTERIJOS STATUTO 32
+STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
-4.
+3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1252,
 2010-12-23, Žin., 2010, Nr. 157-7980 (2010-12-31)
@@ -1082,8 +1096,6 @@ IR 23 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 *** Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė
-(2011-01-04)
-                 
-autrap@lrs.lt
+Redagavo Aušra Bodin (2011-12-12)
+                  aubodi@lrs.lt
 
