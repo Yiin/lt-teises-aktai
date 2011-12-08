@@ -3948,7 +3948,7 @@ TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ
 SĄRAŠAS
  
 I.
-2010–2011
+2010–2012
 METŲ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
  
 
@@ -5011,11 +5011,11 @@ C
 
 
  
-2012 metų valstybės tarnautojų
-suvienodintų pareigybių sąrašas įsigalioja 2012 m. sausio 1 d.
+2013 metų valstybės tarnautojų
+suvienodintų pareigybių sąrašas įsigalioja 2013 m. sausio 1 d.
  
 II.
-2012 METŲ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS 
+2013 METŲ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS 
 
 
 
@@ -6075,11 +6075,11 @@ C
 
  
  
-2013 metų valstybės tarnautojų suvienodintų
-pareigybių sąrašas įsigalioja 2013 m. sausio 1 d.
+2014 metų valstybės tarnautojų suvienodintų
+pareigybių sąrašas įsigalioja 2014 m. sausio 1 d.
  
 III.
-NUO 2013 METŲ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS 
+NUO 2014 METŲ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS 
 
 
 
@@ -7167,16 +7167,19 @@ Nr. XI-320,
 2009-07-07, Žin., 2009, Nr. 85-3577 (2009-07-18)
 Nr. XI-512, 2009-12-02,
 Žin., 2009, Nr. 147-6555 (2009-12-12)
-Nr. XI-849,
-2010-05-25, Žin., 2010, Nr. 67-3346 (2010-06-10)
-Nr. XI-851, 2010-05-25,
-Žin., 2010, Nr. 67-3347 (2010-06-10)
-Nr. XI-979,
-2010-07-02, Žin., 2010, Nr. 86-4530 (2010-07-20)
-Nr. XI-1554,
-2011-06-28, Žin., 2011, Nr. 91-4329 (2011-07-19)
+Nr.
+XI-851,
+2010-05-25, Žin., 2010, Nr. 67-3347 (2010-06-10)
+Nr. XI-979, 2010-07-02,
+Žin., 2010, Nr. 86-4530 (2010-07-20)
 Nr. XI-1555,
 2011-06-28, Žin., 2011, Nr. 91-4330 (2011-07-19)
+Nr. XI-1722,
+2011-11-22, Žin., 2011, Nr. 150-7037 (2011-12-08)
+Nr. XI-849,
+2010-05-25, Žin., 2010, Nr. 67-3346 (2010-06-10)
+Nr. XI-1554,
+2011-06-28, Žin., 2011, Nr. 91-4329 (2011-07-19)
  
 _______________
  
@@ -7239,8 +7242,8 @@ VALSTYBĖS TARNYBOS ĮSTATYMO 62 IR 69 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 8.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-247, 2001 04 12, Žin., 2001, Nr.
-37-1231 (2001 05 02)
+Nr. IX-247, 2001 04 12, Žin., 2001, Nr. 37-1231
+(2001 05 02)
 VALSTYBĖS TARNYBOS ĮSTATYMO 4, 10, 11, 12, 13, 14, 16, 17, 18, 21, 26,
 29, 31, 43, 44, 50, 55, 56, 59, 65, 67, 68, 69, 77, 78, 79 STRAIPSNIŲ IR 2
 PRIEDĖLIO PAKEITIMO IR PAPILDYMO BEI 76 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS
@@ -7301,8 +7304,8 @@ VALSTYBĖS TARNYBOS ĮSTATYMO 15,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-856,
 2002-04-23, Žin., 2002, Nr. 45-1709 (2002-05-04)
-VALSTYBĖS TARNYBOS ĮSTATYMO PAKEITIMO ĮSTATYMO ĮGYVENDINIMO
-ĮSTATYMAS
+VALSTYBĖS TARNYBOS ĮSTATYMO PAKEITIMO ĮSTATYMO
+ĮGYVENDINIMO ĮSTATYMAS
  
 16.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -7316,8 +7319,8 @@ d.
 17.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. IX-1044, 2002-07-05,
-Žin., 2002, Nr. 73-3103 (2002-07-19)
+Nr. IX-1044,
+2002-07-05, Žin., 2002, Nr. 73-3103 (2002-07-19)
 VALSTYBĖS TARNYBOS ĮSTATYMO 4, 25
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis Įstatymas įsigalioja nuo 2002 m. rugpjūčio 1 d.
@@ -7548,8 +7551,8 @@ VALSTYBĖS TARNYBOS ĮSTATYMO 7, 8,
 38.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. X-1535,
-2008-05-13, Žin., 2008, Nr. 63-2376 (2008-06-03)
+Nr. X-1535, 2008-05-13,
+Žin., 2008, Nr. 63-2376 (2008-06-03)
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 5(1) IR 24 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
@@ -7599,8 +7602,8 @@ XI-53,
 2008-12-09, Žin., 2008, Nr. 143-5688 (2008-12-13)
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 4, 10, 16, 16(1), 17, 23, 26, 37, 41, 42 STRAIPSNIŲ PAKEITIMO
-IR PAPILDYMO, ĮSTATYMO PAPILDYMO 26(1), 43(1) STRAIPSNIAIS IR 3 PRIEDO II
-SKYRIAUS PAKEITIMO ĮSTATYMAS
+IR PAPILDYMO, ĮSTATYMO PAPILDYMO 26(1), 43(1) STRAIPSNIAIS IR 3 PRIEDO II SKYRIAUS
+PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas, išskyrus 2 straipsnio 1 ir 2 dalis, 3 straipsnį, 5 straipsnio 1
 dalį, 11, 13 ir 14 straipsnius, įsigalioja 2009 m. sausio 1 d.
@@ -7640,8 +7643,8 @@ sąrašas įsigalioja 2011 m. sausio 1 d.
 Šis įstatymas neteko galios nuo
 2010 m. sausio 1 d.:
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-513, 2009-12-02,
-Žin., 2009, Nr. 147-6556 (2009-12-12)
+Nr. XI-513,
+2009-12-02, Žin., 2009, Nr. 147-6556 (2009-12-12)
 VALSTYBĖS TARNYBOS ĮSTATYMO 3
 PRIEDO PAKEITIMO ĮSTATYMO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
  
@@ -7734,8 +7737,8 @@ VALSTYBĖS
 TARNYBOS ĮSTATYMO 25 STRAIPSNIO IR 1 PRIEDO PAKEITIMO ĮSTATYMO 4 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
 2.
-Lietuvos
-Respublikos Seimas, Įstatymas
+Lietuvos Respublikos
+Seimas, Įstatymas
 Nr. XI-1721,
 2011-11-22, Žin., 2011, Nr. 150-7036 (2011-12-08)
 VALSTYBĖS
@@ -7744,16 +7747,16 @@ PAKEITIMO ĮSTATYMAS
  
 49.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-512, 2009-12-02,
-Žin., 2009, Nr. 147-6555 (2009-12-12)
+Nr. XI-512,
+2009-12-02, Žin., 2009, Nr. 147-6555 (2009-12-12)
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMAS
-Šis įstatymas, išskyrus 2012 metų
-valstybės tarnautojų suvienodintų pareigybių sąrašą ir nuo 2013 metų valstybės
+Šis įstatymas, išskyrus 2013 metų
+valstybės tarnautojų suvienodintų pareigybių sąrašą ir nuo 2014 metų valstybės
 tarnautojų suvienodintų pareigybių sąrašą, įsigalioja 2010 m. sausio 1 d.
-2012 metų valstybės tarnautojų
-suvienodintų pareigybių sąrašas įsigalioja 2012 m. sausio 1 d., o nuo 2013
-metų valstybės tarnautojų suvienodintų pareigybių sąrašas įsigalioja 2013 m.
+2013 metų valstybės tarnautojų
+suvienodintų pareigybių sąrašas įsigalioja 2013 m. sausio 1 d., o nuo 2014
+metų valstybės tarnautojų suvienodintų pareigybių sąrašas įsigalioja 2014 m.
 sausio 1 d.
 Šis įstatymas keistas:
 1)
@@ -7783,6 +7786,14 @@ TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMA
 įstatymo 1 straipsnio 1 dalis įsigalioja 2012 m. sausio 1 d.
 Šio įstatymo 1
 straipsnio 2 dalis įsigalioja 2013 m. sausio 1 d.
+4)
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-1722,
+2011-11-22, Žin., 2011, Nr. 150-7037 (2011-12-08)
+VALSTYBĖS
+TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMO 1, 2 IR 3 STRAIPSNIŲ PAKEITIMO
+ĮSTATYMAS
  
 50.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -7879,6 +7890,10 @@ KAI KURIŲ TEISĖS AKTŲ, KURIAIS REGULIUOJAMI VALSTYBĖS TARNYBOS IR SU JA SUSI
 SANTYKIAI, ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI IR ĮSTATYMAMS
 Šio nutarimo atitaisymas
 skelbtas: Žin., 2011, Nr. 33 (2011-03-19)
+ 
+ 
+ 
+ 
  
  
 ***
