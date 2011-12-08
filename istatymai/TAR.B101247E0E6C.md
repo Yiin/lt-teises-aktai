@@ -884,8 +884,8 @@ specialios paskirties įstaigų valdybų viršininkams ir jų pavaduotojams,
 ištarnavusiems saugumo majorais ne mažiau kaip 4 metus;
 3) saugumo majoro laipsnis - poskyrių viršininkams, vyriausiesiems specialistams, vyriausiesiems
 inspektoriams, specialios paskirties įstaigų skyrių viršininkams ir jų
-pavaduotojams, poskyrių viršininkams, vyriausiesiems specialistams, ištarnavusiems
-saugumo kapitonais ne mažiau kaip 3 metus;
+pavaduotojams, poskyrių viršininkams, vyriausiesiems specialistams,
+ištarnavusiems saugumo kapitonais ne mažiau kaip 3 metus;
 4) saugumo kapitono laipsnis - vyresniesiems inspektoriams, inspektoriams, vyresniesiems
 specialistams ir specialistams (išskyrus atliekančius fizinės apsaugos
 funkcijas), ištarnavusiems saugumo vyresniaisiais leitenantais ne mažiau kaip 3
@@ -920,16 +920,17 @@ Nr. X-1740,
  
 31
 straipsnis. Kvalifikacinės kategorijos ir jų suteikimo tvarka
-1. Saugumo
-pareigūnams kvalifikacines kategorijas suteikia Saugumo departamento
-generalinis direktorius.
+1. Saugumo pareigūnams
+kvalifikacines kategorijas suteikia Saugumo departamento generalinis
+direktorius.
 2. Kvalifikacinių
 kategorijų reikalavimus bei šių kategorijų suteikimo tvarką reglamentuoja
 Kvalifikacinių kategorijų suteikimo nuostatai.
 3. Saugumo
 pareigūnams gali būti suteikiamos šios kvalifikacinės kategorijos: penktoji
 (V), ketvirtoji (IV), trečioji (III), antroji (II), pirmoji (I). Aukščiausia
-yra pirmoji kvalifikacinė kategorija, žemiausia – penktoji kvalifikacinė kategorija.
+yra pirmoji kvalifikacinė kategorija, žemiausia – penktoji kvalifikacinė
+kategorija.
 4. Saugumo departamento generaliniam direktoriui pagal
 pareigas suteikiama pirmoji kvalifikacinė kategorija. Generaliniam direktoriui
 pirmąją (I) kvalifikacinę kategoriją suteikia Respublikos Prezidentas,
@@ -965,8 +966,8 @@ straipsnio 4 dalies nuostatas.
 pareigūnai už ypatingus nuopelnus tarnyboje gali būti pristatyti valstybės
 apdovanojimui.
 3. Saugumo
-pareigūnų skatinimo tvarka nustatoma Saugumo departamento generalinio direktoriaus
-įsakymu.
+pareigūnų skatinimo tvarka nustatoma Saugumo departamento generalinio
+direktoriaus įsakymu.
 4. Saugumo
 departamento žinybinio pasižymėjimo ženklo nuostatus tvirtina Saugumo
 departamento generalinis direktorius.
@@ -1086,8 +1087,8 @@ PAREIGŲ
  
 37
 straipsnis. Nušalinimo nuo pareigų pagrindai ir terminai
-1. Saugumo
-pareigūnas nušalinamas nuo pareigų:
+1. Saugumo pareigūnas
+nušalinamas nuo pareigų:
 1) jeigu jis yra
 tarnyboje neblaivus ar apsvaigęs nuo narkotinių, toksinių ar psichotropinių
 medžiagų – tą dieną;
@@ -1174,9 +1175,9 @@ tokį ketinimą, suteikdamas asmeniui galimybę įvykdyti teisėtus reikalavimus
 išskyrus atvejus, kai delsimas kelia grėsmę pareigūno ar kito asmens gyvybei ar
 sveikatai arba toks įspėjimas neįmanomas.
 7. Atitinkamų
-padalinių saugumo pareigūnai turi būti specialiai parengti ir periodiškai tikrinami,
-ar gali veikti situacijose, kuriose naudojama fizinė prievarta, šaunamasis
-ginklas.
+padalinių saugumo pareigūnai turi būti specialiai parengti ir periodiškai
+tikrinami, ar gali veikti situacijose, kuriose naudojama fizinė prievarta,
+šaunamasis ginklas.
 8. Saugumo
 pareigūnas, nepažeisdamas šio Statuto reikalavimų panaudojęs prievartą ir
 padaręs žalą įstatymų saugomoms vertybėms, atsakomybėn netraukiamas.
@@ -1188,8 +1189,8 @@ prokurorui ar jo pavaduotojui.
 ginklą ir specialiąsias priemones iš saugumo pareigūno gali paimti Saugumo
 departamento generalinis direktorius, jo pavaduotojai, tiesioginis vadovas arba
 kitas generalinio direktoriaus įgaliotas pareigūnas, neaiškindami paėmimo
-priežasčių. Jei šaunamąjį ginklą ir specialiąsias priemones paėmė ne Saugumo departamento
-generalinis direktorius, jam apie tai nedelsiant pranešama raštu.
+priežasčių. Jei šaunamąjį ginklą ir specialiąsias priemones paėmė ne Saugumo
+departamento generalinis direktorius, jam apie tai nedelsiant pranešama raštu.
  
 40
 straipsnis. Fizinės prievartos naudojimas
@@ -1216,8 +1217,7 @@ naudoti kovinių imtynių veiksmus bei specialiąsias priemones prieš nėščia
 moteris, taip pat prieš invalidus ar nepilnamečius, kai šie asmenų požymiai
 pareigūnui yra žinomi arba aiškiai matomi, išskyrus atvejus, kai tokie asmenys
 užpuola arba priešinasi ginklu, kitu pavojingu gyvybei ar sveikatai būdu arba
-kai užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei ar
-sveikatai.
+kai užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai.
  
 41
 straipsnis. Šaunamojo ginklo naudojimas
@@ -1310,9 +1310,9 @@ Saugumo departamento generalinio direktoriaus nustatyta tvarka kompensuojamos
 persikėlimo išlaidos.
 7. Saugumo
 pareigūno prašymu dėl šeiminių aplinkybių ar kitų svarbių priežasčių kartą per
-kalendorinius metus gali būti suteikiamos ne ilgesnės kaip 30 kalendorinių
-dienų nemokamos atostogos. Saugumo pareigūnas, kuriam suteiktos nemokamos
-atostogos, nepraranda teisės į kasmetines ar tikslines atostogas.
+kalendorinius metus gali būti suteikiamos ne ilgesnės kaip 30 kalendorinių dienų
+nemokamos atostogos. Saugumo pareigūnas, kuriam suteiktos nemokamos atostogos,
+nepraranda teisės į kasmetines ar tikslines atostogas.
 Straipsnio
 pakeitimai:
 Nr.
@@ -1340,7 +1340,7 @@ skaičiuojami nuo pareiginės algos bazinio dydžio:
 7) saugumo pulkininkui leitenantui - 3,4;
 8) saugumo pulkininkui - 3,7;
 9) saugumo generolui - 4.
-3 dalies redakcija iki 2011-12-31:
+3 dalies redakcija iki 2012-12-31:
 3.
 Saugumo pareigūnų priedai už kvalifikacinę kategoriją:
 1) V
@@ -1353,7 +1353,7 @@ kvalifikacinės kategorijos – 20 procentų pareiginės algos dydžio;
 kvalifikacinės kategorijos – 25 procentai pareiginės algos dydžio;
 5) I kvalifikacinės kategorijos – 30 procentų
 pareiginės algos dydžio.
-3 dalies redakcija nuo 2012-01-01:
+3 dalies redakcija nuo 2013-01-01:
 3.
 Saugumo pareigūnų priedai už kvalifikacinę kategoriją:
 1) V
@@ -1374,8 +1374,8 @@ nustatyta tvarka.
 5. Saugumo departamento generaliniam direktoriui ir jo
 pavaduotojams pareigybės kategoriją suteikia Respublikos Prezidentas, skirdamas
 juos į pareigas.
-6. Laikinojo nedarbingumo, nėštumo ir gimdymo atostogų,
-tėvystės atostogų ir vaiko priežiūros atostogų laikotarpiais saugumo
+6. Laikinojo nedarbingumo, nėštumo ir gimdymo
+atostogų, tėvystės atostogų ir vaiko priežiūros atostogų laikotarpiais saugumo
 pareigūnams mokamas Vyriausybės nustatyta tvarka apskaičiuotas vidutinis jų
 darbo užmokestis arba jo dalis. Mokamo vidutinio darbo užmokesčio ar jo dalies
 dydis, maksimalus kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi
@@ -1406,8 +1406,10 @@ XI-365,
 2009-07-17, Žin., 2009, Nr. 91-3920 (2009-07-31)
 Nr. XI-950,
 2010-06-30, Žin., 2010, Nr. 82-4304 (2010-07-13)
-Nr. XI-984,
-2010-07-02, Žin., 2010, Nr. 86-4535 (2010-07-20)
+Nr. XI-1720,
+2011-11-22, Žin., 2011, Nr. 150-7035 (2011-12-08)
+Nr. XI-984, 2010-07-02,
+Žin., 2010, Nr. 86-4535 (2010-07-20)
  
 44
 straipsnis. Kompensacijos
@@ -1429,10 +1431,10 @@ pripažinimo nežinia kur esančiu ar paskelbimo žuvusiu dienos kas mėnesį
 lygiomis dalimis mokama jo vidutinio darbo užmokesčio kompensacija, neviršijant
 120 mėnesių darbo užmokesčio dydžio sumos.
 3. Pareigūnui, kuris buvo sužalotas, susižalojo arba
-kurio sveikata buvo sutrikdyta atliekant tarnybines pareigas, arba kurio
-sveikata buvo sutrikdyta dėl tarnybinių pareigų atlikimo ar pareigūno statuso,
-išmokama nuo 1 iki 5 metų (nuo 12 iki 60 mėnesių) jo vidutinio darbo užmokesčio
-dydžio kompensacija.
+kurio sveikata buvo sutrikdyta atliekant tarnybines pareigas, arba kurio sveikata
+buvo sutrikdyta dėl tarnybinių pareigų atlikimo ar pareigūno statuso, išmokama
+nuo 1 iki 5 metų (nuo 12 iki 60 mėnesių) jo vidutinio darbo užmokesčio dydžio
+kompensacija.
 4. Nustatomos šios kompensacijos:
 1) netekusiems 75-100 procentų
 darbingumo dėl sužalojimo ar susižalojimo - 60 mėnesių
@@ -1459,8 +1461,8 @@ sutrikdymas yra susijęs su tarnyba, nustatoma Saugumo departamento generalinio
 direktoriaus nustatyta tvarka atlikus tarnybinį tyrimą.
 7. Šiame straipsnyje nustatytos kompensacijos
 nemokamos, jeigu:
-1) pareigūnas žuvo arba susižalojo darydamas nusikaltimą
-ar baudžiamąjį nusižengimą;
+1) pareigūnas žuvo arba susižalojo darydamas
+nusikaltimą ar baudžiamąjį nusižengimą;
 2) pareigūno žuvimo arba susižalojimo priežastis buvo
 su tarnybinių pareigų atlikimu nesusijęs apsvaigimas nuo alkoholio, narkotinių,
 toksinių, psichotropinių arba kitų svaigiųjų medžiagų;
@@ -1546,8 +1548,8 @@ pareigūnai tarnauja Departamente ne ilgiau, negu kol jiems sukanka 62 metai ir
 ir generalinio direktoriaus pavaduotojus, Saugumo departamente tarnauja:
 1) iki saugumo pulkininko leitenanto įskaitytinai,
 kol sukanka 50 metų;
-2) saugumo
-pulkininkai ir generolai, kol sukanka 55 metai.
+2) saugumo pulkininkai
+ir generolai, kol sukanka 55 metai.
 3. Saugumo
 departamento generalinis direktorius ir jo pavaduotojai Saugumo departamente
 tarnauja iki Respublikos Prezidento dekreto dėl jų atleidimo iš pareigų
@@ -1746,15 +1748,23 @@ SAUGUMO DEPARTAMENTO STATUTO 43 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šio
 įstatymo 1 straipsnis įsigalioja 2009 m. rugpjūčio 1 d.
 Šio
-įstatymo 2 straipsnis įsigalioja 2012 m. sausio 1 d.
+įstatymo 2 straipsnis įsigalioja 2013 m. sausio 1 d.
 Šio įstatymo galiojimas keistas:
+1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-950,
 2010-06-30, Žin., 2010, Nr. 82-4304 (2010-07-13)
 VALSTYBĖS SAUGUMO DEPARTAMENTO STATUTO 43
 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+2.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. XI-1720,
+2011-11-22, Žin., 2011, Nr. 150-7035 (2011-12-08)
+VALSTYBĖS SAUGUMO DEPARTAMENTO
+STATUTO 43 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
-14.
+13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-984,
 2010-07-02, Žin., 2010, Nr. 86-4535 (2010-07-20)
@@ -1770,7 +1780,7 @@ išmokų įsigalioja 2010 m. rugpjūčio 1 d.
 Šio
 įstatymo nuostatos taikomos po šio įstatymo įsigaliojimo skiriamoms išmokoms.
  
-15.
+14.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
@@ -1781,7 +1791,7 @@ SAUGUMO DEPARTAMENTO STATUTO 20, 22, 46, 49 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 ĮSTATYMAS
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.
  
-16.
+15.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
@@ -1792,12 +1802,13 @@ SAUGUMO DEPARTAMENTO STATUTO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja 2011 m. rugsėjo 1 d.
  
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2011-07-26)
+Aušra Bodin (2011-12-12)
                  
-ausrine.trapinskiene@lrs.lt
+aubodi@lrs.lt
 
