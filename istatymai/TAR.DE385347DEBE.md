@@ -100,8 +100,8 @@ pareigūno II rangą – 0,4 bazinio dydžio;
 pareigūno I rangą – 0,5 bazinio dydžio; 
 7) už pataisos
 vyresniojo pareigūno III rangą – 0,6 bazinio dydžio; 
-8) už pataisos vyresniojo
-pareigūno II rangą – 0,7 bazinio dydžio; 
+8) už pataisos
+vyresniojo pareigūno II rangą – 0,7 bazinio dydžio; 
 9) už pataisos
 vyresniojo pareigūno I rangą – 0,8 bazinio dydžio; 
 10) už pataisos
@@ -137,13 +137,15 @@ nustato Vyriausybė arba jos įgaliota institucija.“
 5
 straipsnis. Įstatymo galiojimas 
 1. Šio įstatymo
-1 ir 3 straipsniai įsigalioja 2010 m. sausio 1 d. ir galioja iki 2011 m.
+1 ir 3 straipsniai įsigalioja 2010 m. sausio 1 d. ir galioja iki 2012 m.
 gruodžio 31 d.
 2. Šio įstatymo
-2 ir 4 straipsniai įsigalioja 2012 m. sausio 1 d.
+2 ir 4 straipsniai įsigalioja 2013 m. sausio 1 d.
 Straipsnio pakeitimai:
 Nr. XI-948,
 2010-06-30, Žin., 2010, Nr. 82-4302 (2010-07-13)
+Nr. XI-1724,
+2011-11-22, Žin., 2011, Nr. 150-7039 (2011-12-08)
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -169,10 +171,17 @@ KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUT
 PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
  
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1724, 2011-11-22,
+Žin., 2011, Nr. 150-7039 (2011-12-08)
+TARNYBOS KALĖJIMŲ DEPARTAMENTE PRIE
+LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO 1 STRAIPSNIO PAKEITIMO
+ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo Aušrinė
-Trapinskienė (2010-07-15)
-                  autrap@lrs.lt
+Redagavo Aušra Bodin (2011-12-13)
+                  aubodi@lrs.lt
 
