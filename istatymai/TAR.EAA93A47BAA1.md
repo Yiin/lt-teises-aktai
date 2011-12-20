@@ -43,16 +43,6 @@ interesus.
 2. Be to, šiuo
 įstatymu siekiama užtikrinti Europos Sąjungos teisės aktų, nurodytų šio
 įstatymo priede, taikymą.
- 
-3 dalies redakcija iki 2009 m. birželio
-1 d.:
-3. Lietuvos
-Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ nustatytais atvejais
-prieglobsčio prašytojų ir kitų užsieniečių teisės į valstybės garantuojamą
-teisinę pagalbą įgyvendinimo tvarką reglamentuoja Lietuvos Respublikos
-įstatymas “Dėl užsieniečių teisinės padėties“.
-3 dalies redakcija nuo 2009 m. birželio
-1 d.:
 3. Šis įstatymas
 netaikomas užsieniečiams, kurių teisę į valstybės garantuojamą teisinę pagalbą
 nustato Lietuvos Respublikos įstatymas „Dėl užsieniečių teisinės padėties“.
@@ -68,8 +58,8 @@ Nr. XI-223,
 2
 straipsnis. Pagrindinės šio įstatymo sąvokos
 1. Valstybės
-garantuojama teisinė pagalba – šio įstatymo nustatyta tvarka teikiama pirminė
-teisinė pagalba ir antrinė teisinė pagalba.
+garantuojama teisinė pagalba – šio įstatymo nustatyta tvarka teikiama
+pirminė teisinė pagalba ir antrinė teisinė pagalba.
 2. Pirminė
 teisinė pagalba – šio įstatymo nustatyta tvarka teikiama teisinė
 informacija, teisinės konsultacijos ir dokumentų, skirtų valstybės ir
@@ -109,8 +99,8 @@ ginčas – ginčas, kai pareiškėjas prašymo suteikti valstybės garantuojam�
 teisinę pagalbą pateikimo momentu turi nuolatinę gyvenamąją vietą ar paprastai
 gyvena ne toje Europos Sąjungos valstybėje narėje, kurioje teismas nagrinėja
 bylą arba kurioje vykdomas teismo sprendimas. Europos Sąjungos valstybė narė,
-kurioje pareiškėjas turi nuolatinę gyvenamąją vietą, nustatoma pagal 2000 m. gruodžio 22 d. Tarybos reglamento (EB) Nr. 44/2001 dėl jurisdikcijos ir teismo sprendimų
-civilinėse ir komercinėse bylose pripažinimo ir vykdymo 59 straipsnį.
+kurioje pareiškėjas turi nuolatinę gyvenamąją vietą, nustatoma pagal 2000 m. gruodžio 22 d. Tarybos reglamento (EB) Nr. 44/2001 dėl jurisdikcijos ir teismo sprendimų civilinėse
+ir komercinėse bylose pripažinimo ir vykdymo 59 straipsnį.
 10. Koordinatorius
 – advokatas, padedantis organizuoti antrinės teisinės pagalbos teikimą
 baudžiamosiose bylose pagal šio įstatymo 9 straipsnio 3 dalies 5 punkte
@@ -184,7 +174,7 @@ garantuojamos teisinės pagalbos tarnybos (toliau – tarnybos);
 advokatūra.
  
 6
-straipsnis. Vyriausybės funkcijos valstybės garantuojamos teisinės pagalbos
+straipsnis. Vyriausybės funkcijos valstybės garantuojamos teisinės pagalbos 
 srityje
 Vyriausybė: 
 1) nustato
@@ -217,10 +207,10 @@ teikimo sąlygas;
 8) atlieka kitas
 šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
 2. Siekiant
-užtikrinti Teisingumo ministerijai pavestų funkcijų valstybės garantuojamos teisinės
-pagalbos srityje įgyvendinimą, sudaroma Valstybės garantuojamos teisinės
-pagalbos koordinavimo taryba (toliau – Koordinavimo taryba). Ši taryba yra
-kolegiali patariamoji visuomeniniais pagrindais veikianti institucija.
+užtikrinti Teisingumo ministerijai pavestų funkcijų valstybės garantuojamos
+teisinės pagalbos srityje įgyvendinimą, sudaroma Valstybės garantuojamos
+teisinės pagalbos koordinavimo taryba (toliau – Koordinavimo taryba). Ši taryba
+yra kolegiali patariamoji visuomeniniais pagrindais veikianti institucija.
 3. Koordinavimo
 tarybą sudaro Lietuvos Respublikos Seimo Teisės ir teisėtvarkos bei Žmogaus
 teisių komitetų, Teisingumo ministerijos, Finansų ministerijos, Lietuvos
@@ -292,9 +282,9 @@ savivaldybių institucijoms metodinę pagalbą įgyvendinant joms priskirtas
 funkcijas pirminės teisinės pagalbos srityje, analizuoja šio įstatymo 8
 straipsnio 3 dalyje nurodytas ataskaitas, jas apibendrina ir teikia Teisingumo
 ministerijai informaciją apie pirminės teisinės pagalbos organizavimą ir
-teikimą tarnybų veiklos teritorijoje, teikia pasiūlymus savivaldybių institucijoms
-dėl pirminės teisinės pagalbos organizavimo ir teikimo tobulinimo užtikrinant
-šio įstatymo įgyvendinimą);
+teikimą tarnybų veiklos teritorijoje, teikia pasiūlymus savivaldybių
+institucijoms dėl pirminės teisinės pagalbos organizavimo ir teikimo tobulinimo
+užtikrinant šio įstatymo įgyvendinimą);
 2) organizuoja
 antrinės teisinės pagalbos teikimą apygardos teismo teritorijoje;
 3) priima
@@ -313,19 +303,18 @@ pagalbos baudžiamosiose bylose koordinavimo;
 nurodytas šios dalies 4 punkte, kontroliuoja antrinės teisinės pagalbos
 teikimą;
 7) antrinę teisinę
-pagalbą teikiantiems advokatams ar viešosioms įstaigoms moka užmokestį už suteiktą
-pirminę teisinę pagalbą, kai šio įstatymo 15 straipsnio 8 dalyje numatytu
-atveju tarnybos organizuoja pirminės teisinės pagalbos teikimą, už antrinę
-teisinę pagalbą ir už antrinės teisinės pagalbos baudžiamosiose bylose
+pagalbą teikiantiems advokatams ar viešosioms įstaigoms moka užmokestį už
+suteiktą pirminę teisinę pagalbą, kai šio įstatymo 15 straipsnio 8 dalyje
+numatytu atveju tarnybos organizuoja pirminės teisinės pagalbos teikimą, už
+antrinę teisinę pagalbą ir už antrinės teisinės pagalbos baudžiamosiose bylose
 koordinavimą;
 8) dalyvauja tikrinant antrinę teisinę pagalbą teikiančių
-advokatų veiklos kokybę pagal šio įstatymo 10 straipsnio 2 punkte nurodytas
-taisykles;
+advokatų veiklos kokybę pagal šio įstatymo 10 straipsnio 2 punkte nurodytas taisykles;
 9) informuoja gyventojus
 apie galimybes gauti valstybės garantuojamą teisinę pagalbą ir jos teikimo
 sąlygas;
-10) atlieka kitas šio
-įstatymo ir kitų teisės aktų nustatytas funkcijas.
+10) atlieka kitas
+šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
 4. Tarnybos
 privalo kiekvienais metais pateikti Teisingumo ministerijai savo veiklos
 ataskaitas.
@@ -340,9 +329,10 @@ sudaro tarnybų direktoriai, 5 advokatų, teikiančių antrinę teisinę pagalb�
 atstovai, paskirti šio straipsnio 5 dalyje nurodytų nuostatų nustatyta tvarka,
 ir Teisingumo ministerijos atstovas.
 7. Kolegija:
-1) svarsto tarnybų
-veikloje kilusius antrinės teisinės pagalbos teikimo užtikrinimo ir bendros
-praktikos organizuojant antrinės teisinės pagalbos teikimą formavimo klausimus;
+1) svarsto
+tarnybų veikloje kilusius antrinės teisinės pagalbos teikimo užtikrinimo ir
+bendros praktikos organizuojant antrinės teisinės pagalbos teikimą formavimo
+klausimus;
 2) svarsto
 klausimus, susijusius su antrinės teisinės pagalbos sutarčių tinkamo vykdymo
 užtikrinimu;
@@ -365,14 +355,14 @@ straipsnis. Lietuvos advokatūra
 Lietuvos
 advokatūra, siekdama padėti užtikrinti efektyvų antrinės teisinės pagalbos
 teikimą:
-1) neteko galios
-nuo 2009 m. sausio 1 d.
+1) (neteko
+galios nuo 2009 m. sausio 1 d.);
 2) organizuoja
 antrinę teisinę pagalbą teikiančių advokatų veiklos kokybės tikrinimą pagal
 antrinės teisinės pagalbos kokybės vertinimo taisykles, kurias tvirtina
 Lietuvos advokatūra, suderinusi su Teisingumo ministerija;
-3) neteko galios
-nuo 2009 m. sausio 1 d.
+3) (neteko galios
+nuo 2009 m. sausio 1 d.);
 4) atlieka kitas
 šio įstatymo, Lietuvos Respublikos advokatūros įstatymo ir kitų teisės aktų
 nustatytas funkcijas.
@@ -380,12 +370,13 @@ Straipsnio pakeitimai:
 Nr. X-1492,
 2008-04-15, Žin., 2008, Nr. 50-1841 (2008-04-30)
  
-TREČIASIS SKIRSNIS
+TREČIASIS
+SKIRSNIS
 VALSTYBĖS
 GARANTUOJAMOS TEISINĖS PAGALBOS TEIKIMO SĄLYGOS
  
-11 straipsnis. Asmenys, turintys teisę gauti
-valstybės garantuojamą teisinę pagalbą
+11 straipsnis. Asmenys, turintys teisę gauti valstybės
+garantuojamą teisinę pagalbą
 1. Pirminę teisinę pagalbą turi teisę gauti visi
 Lietuvos Respublikos piliečiai, kitų Europos Sąjungos valstybių narių
 piliečiai, taip pat kiti Lietuvos Respublikoje bei kitose Europos Sąjungos
@@ -458,9 +449,8 @@ procentų antrinės teisinės pagalbos išlaidų.
 7. Tarnyba turi
 teisę atsisakyti suteikti antrinę teisinę pagalbą, jeigu:
 1) iš esmės
-išnagrinėjusi reikalavimą nustato, kad galimos antrinės teisinės pagalbos
-išlaidos gerokai viršytų pareiškėjo turtinių reikalavimų (turtinių interesų)
-dydį; 
+išnagrinėjusi reikalavimą nustato, kad galimos antrinės teisinės pagalbos išlaidos
+gerokai viršytų pareiškėjo turtinių reikalavimų (turtinių interesų) dydį; 
 2) iš esmės
 išnagrinėjusi reikalavimą nustato, kad pareiškėjo neturtinio pobūdžio
 reikalavimas yra mažareikšmis;
@@ -498,8 +488,9 @@ Nr. X-1492,
 2008-04-15, Žin., 2008, Nr. 50-1841 (2008-04-30)
  
 12 straipsnis.
-Asmenys, turintys teisę gauti antrinę teisinę pagalbą neatsižvelgiant į 
-turtą ir pajamas
+Asmenys, turintys teisę gauti antrinę teisinę pagalbą neatsižvelgiant 
+į turtą ir
+pajamas
 Teisę gauti
 antrinę teisinę pagalbą, neatsižvelgiant į Lietuvos Respublikos Vyriausybės
 nustatytus turto ir pajamų lygius teisinei pagalbai gauti pagal šį įstatymą,
@@ -514,6 +505,12 @@ atvejus, kai žalos atlyginimo klausimas yra sprendžiamas baudžiamojoje byloje
 3) asmenys,
 gaunantys socialinę pašalpą pagal Lietuvos Respublikos piniginės socialinės
 paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymą;
+3 punkto redakcija nuo 2012-01-01:
+3) asmenys,
+gaunantys socialinę pašalpą pagal Lietuvos Respublikos piniginės socialinės
+paramos nepasiturintiems
+gyventojams įstatymą;
+ 
 4) asmenys,
 išlaikomi stacionariose socialinės globos įstaigose;
 5) asmenys,
@@ -539,10 +536,10 @@ gyvena;
 9) nepilnamečių
 vaikų, kai sprendžiamas jų iškeldinimo klausimas, tėvai ar kiti atstovai pagal
 įstatymą;
-10)
-nepilnamečiai vaikai, kai įstatymų nustatytais atvejais savarankiškai kreipiasi
-į teismą dėl savo teisių ar įstatymų saugomų interesų gynimo, išskyrus įstatymų
-nustatyta tvarka sudariusius santuoką ar teismo pripažintus visiškai veiksniais
+10) nepilnamečiai
+vaikai, kai įstatymų nustatytais atvejais savarankiškai kreipiasi į teismą dėl
+savo teisių ar įstatymų saugomų interesų gynimo, išskyrus įstatymų nustatyta
+tvarka sudariusius santuoką ar teismo pripažintus visiškai veiksniais
 (emancipuotais);
 11) asmenys,
 kuriuos prašoma pripažinti neveiksniais, bylose dėl fizinio asmens pripažinimo
@@ -556,6 +553,9 @@ Nr. X-917, 2006-11-21,
 Žin., 2006, Nr. 130-4890 (2006-11-30)
 Nr. X-1492,
 2008-04-15, Žin., 2008, Nr. 50-1841 (2008-04-30)
+Nr.
+XI-1775,
+2011-12-01, Žin., 2011, Nr. 155-7356 (2011-12-20)
  
 13 straipsnis. Asmens teisę gauti antrinę teisinę
 pagalbą įrodantys dokumentai
@@ -592,9 +592,9 @@ priežastis, dėl kurių asmuo negali disponuoti savo turtu ir lėšomis, bei vi
 mokesčių administratoriui pateiktos metinės gyventojo (šeimos) turto
 deklaracijos kopija.
 8. Šio įstatymo
-12 straipsnio 7 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą
-įrodo sveikatos priežiūros įstaigos pažyma, patvirtinanti, kad asmuo serga
-sunkia psichikos liga. 
+12 straipsnio 7 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo
+sveikatos priežiūros įstaigos pažyma, patvirtinanti, kad asmuo serga sunkia
+psichikos liga. 
 9. Šio įstatymo
 12 straipsnio 8 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą
 įrodo dokumentai, patvirtinantys varžytynių, kuriose parduodamas skolininko
@@ -662,17 +662,17 @@ valstybė garantuoja ir apmoka 100 procentų antrinės teisinės pagalbos išlai
 išskyrus šio įstatymo 12 straipsnio 6 punkte nurodytus asmenis, jeigu jų turtas
 ir pajamos, kuriais jie gali laisvai disponuoti, yra antrojo asmens turto ir
 pajamų lygio. Šio įstatymo 12 straipsnio 6 punkte nurodytiems asmenims, jeigu
-jų turtas ir pajamos, kuriais jie gali laisvai disponuoti, yra antrojo asmens
-turto ir pajamų lygio, valstybė garantuoja ir apmoka 50 procentų antrinės
-teisinės pagalbos išlaidų. 
+jų turtas ir pajamos, kuriais jie gali laisvai disponuoti, yra antrojo asmens turto
+ir pajamų lygio, valstybė garantuoja ir apmoka 50 procentų antrinės teisinės
+pagalbos išlaidų. 
 6. Valstybės
 garantuojamos teisinės pagalbos išlaidos taip pat apima advokato ir pareiškėjo
 bendravimo vertimo išlaidas, jeigu Lietuvos Respublikos tarptautinių sutarčių
 nustatytais atvejais neįmanoma užtikrinti, kad valstybės garantuojamą teisinę
 pagalbą teikiantis asmuo bendrautų su pareiškėju šiam suprantama kalba.
 7. Į valstybės
-garantuojamos teisinės pagalbos išlaidas neįeina išlaidų, kurias teismas
-priteisia iš pralaimėjusios šalies šaliai, kurios naudai priimtas sprendimas,
+garantuojamos teisinės pagalbos išlaidas neįeina išlaidų, kurias teismas priteisia
+iš pralaimėjusios šalies šaliai, kurios naudai priimtas sprendimas,
 atlyginimas, taip pat skolininko patirtos vykdymo proceso išlaidos.
 8. Antrinę
 teisinę pagalbą administracinėse ir civilinėse bylose teikiantys advokatai
@@ -741,8 +741,8 @@ pagalbos teikimą sudarydama sutartis su advokatais ar viešosiomis įstaigomis.
 teisinės pagalbos apskaitą tvarko ją teikiantys subjektai nurodydami pareiškėjų
 vardus, pavardes, asmens kodus, gyvenamąją vietą, klausimą, kuriuo buvo
 suteikta pirminė teisinė pagalba, pirminės teisinės pagalbos teikimo trukmę.
-Jeigu asmuo kreipėsi į savivaldybės vykdomąją instituciją žodžiu, jis turi
-pasirašyti pirminės teisinės pagalbos apskaitos žurnale. 
+Jeigu asmuo kreipėsi į savivaldybės vykdomąją instituciją žodžiu, jis turi pasirašyti
+pirminės teisinės pagalbos apskaitos žurnale. 
 Straipsnio pakeitimai:
 Nr. X-1492,
 2008-04-15, Žin., 2008, Nr. 50-1841 (2008-04-30)
@@ -774,24 +774,23 @@ ir antrinės teisinės pagalbos apskaita
 konkurso būdu atrenka antrinę teisinę pagalbą teikiančius advokatus ir su jais
 sudaro sutartis. Konkurso nuostatus, suderinęs su Lietuvos advokatūra, tvirtina
 teisingumo ministras.
-2. Siekiant
-užtikrinti nuolatinę antrinę teisinę pagalbą, sudaromos atskiros sutartys:
+2. Siekiant užtikrinti
+nuolatinę antrinę teisinę pagalbą, sudaromos atskiros sutartys:
 1) su
 advokatais, kurie nuolat teikia antrinę teisinę pagalbą tik asmenims,
 turintiems teisę ją gauti;
 2) su
 advokatais, kurie prireikus teikia antrinę teisinę pagalbą. 
-3. Tarnybos
-sudaro du atskirus antrinę teisinę pagalbą teikiančių advokatų sąrašus pagal
-šio straipsnio 2 dalį. Šiuose sąrašuose turi būti nurodyta, kokiose teisės
-srityse advokatai teikia antrinę teisinę pagalbą. Sąrašai pateikiami Lietuvos
+3. Tarnybos sudaro
+du atskirus antrinę teisinę pagalbą teikiančių advokatų sąrašus pagal šio
+straipsnio 2 dalį. Šiuose sąrašuose turi būti nurodyta, kokiose teisės srityse
+advokatai teikia antrinę teisinę pagalbą. Sąrašai pateikiami Lietuvos
 advokatūrai.
-4. Šio
-straipsnio 2 dalies 1 punkte nurodytiems advokatams, jeigu sutartyje dėl
-antrinės teisinės pagalbos teikimo nenumatyta kitaip, tarnybos užtikrina darbo
-vietą patalpose, kurios turi būti tarnybų buveinėse ar kiek įmanoma arčiau jų,
-ir sudaro sąlygas naudotis kitu turtu, būtinu antrinei teisinei pagalbai
-teikti. 
+4. Šio straipsnio
+2 dalies 1 punkte nurodytiems advokatams, jeigu sutartyje dėl antrinės teisinės
+pagalbos teikimo nenumatyta kitaip, tarnybos užtikrina darbo vietą patalpose,
+kurios turi būti tarnybų buveinėse ar kiek įmanoma arčiau jų, ir sudaro sąlygas
+naudotis kitu turtu, būtinu antrinei teisinei pagalbai teikti. 
 5. Advokatams už
 antrinės teisinės pagalbos ir šio įstatymo 11 straipsnio 9 dalyje nurodytos
 išvados teikimą mokamas užmokestis. Jo dydį ir mokėjimo taisykles nustato
@@ -901,15 +900,15 @@ o jei tai neįmanoma, turi būti užtikrintas tokio bendravimo vertimas.
 11. Jeigu
 pasikeičia pareiškėjo turto ir pajamų lygis, tarnyba nustato kitą valstybės
 garantuojamos ir apmokamos antrinės teisinės pagalbos išlaidų dalį.
-12. Jeigu
-pasikeičia šio įstatymo 12 straipsnio 6 punkte nurodyto pareiškėjo turtinė
-padėtis taip, kad jo turimas turtas ir pajamos arba turtas ir pajamos, kuriais
-šis gali laisvai disponuoti, neatitinka anksčiau nustatyto asmens turto ir
-pajamų lygio, bet atitinka kitą asmens turto ir pajamų lygį, toks pareiškėjas
-nedelsdamas turi apie tai pranešti tarnybai pateikdamas naują metinę gyventojo (šeimos)
-turto deklaraciją su vietos mokesčių administratoriaus žyma, kad
-deklaracija pateikta. Šiuo atveju tarnyba nustato kitą valstybės garantuojamos
-ir apmokamos antrinės teisinės pagalbos išlaidų dalį.
+12. Jeigu pasikeičia
+šio įstatymo 12 straipsnio 6 punkte nurodyto pareiškėjo turtinė padėtis taip,
+kad jo turimas turtas ir pajamos arba turtas ir pajamos, kuriais šis gali
+laisvai disponuoti, neatitinka anksčiau nustatyto asmens turto ir pajamų lygio,
+bet atitinka kitą asmens turto ir pajamų lygį, toks pareiškėjas nedelsdamas
+turi apie tai pranešti tarnybai pateikdamas naują metinę gyventojo (šeimos) turto
+deklaraciją su vietos mokesčių administratoriaus žyma, kad deklaracija
+pateikta. Šiuo atveju tarnyba nustato kitą valstybės garantuojamos ir apmokamos
+antrinės teisinės pagalbos išlaidų dalį.
 13. Tarnyba turi
 teisę iš valstybės ir savivaldybių institucijų, valstybės registrų, kitų
 fizinių ar juridinių asmenų Lietuvos Respublikos įstatymų nustatyta tvarka
@@ -954,8 +953,8 @@ Nr. X-1492,
 2008-04-15, Žin., 2008, Nr. 50-1841 (2008-04-30)
  
 20
-straipsnis. Atleidimas nuo žyminio mokesčio ir kitų bylinėjimosi išlaidų (išlaidų,
-
+straipsnis. Atleidimas nuo žyminio mokesčio ir kitų bylinėjimosi išlaidų
+(išlaidų, 
 susijusių
 su bylos nagrinėjimu, ir proceso išlaidų) mokėjimo bei jų 
 apmokėjimas
@@ -997,9 +996,9 @@ antrinė teisinė pagalba, gynėju paprastai parenkamas advokatas, teikęs antri
 teisinę pagalbą šiam įtariamajam, kaltinamajam ar nuteistajam.
 3. Antrinę
 teisinę pagalbą suteiksiantį advokatą poilsio ir švenčių dienomis bei tarnybos
-ne darbo valandomis paskiria ikiteisminio tyrimo pareigūnas, prokuroras ar teismas,
-remdamiesi tarnybos sudarytais advokatų, teikiančių antrinę teisinę pagalbą
-baudžiamosiose bylose, budėjimo sąrašais. 
+ne darbo valandomis paskiria ikiteisminio tyrimo pareigūnas, prokuroras ar
+teismas, remdamiesi tarnybos sudarytais advokatų, teikiančių antrinę teisinę
+pagalbą baudžiamosiose bylose, budėjimo sąrašais. 
 4. Tarnyba šio
 straipsnio 2 ir 3 dalyse nurodytiems advokatams moka užmokestį šio įstatymo 17
 straipsnio nustatyta tvarka.
@@ -1068,8 +1067,8 @@ byloje yra neperspektyvus;
 kuriam teikiama antrinė teisinė pagalba, nebendradarbiauja su tarnyba arba
 advokatu, teikiančiu antrinę teisinę pagalbą;
 11) pareiškėjas,
-kuriam nustatomas antrasis turto ir pajamų lygis, nesutinka apmokėti 50
-procentų antrinės teisinės pagalbos išlaidų;
+kuriam nustatomas antrasis turto ir pajamų lygis, nesutinka apmokėti 50 procentų
+antrinės teisinės pagalbos išlaidų;
 12) pareiškėjas
 miršta.
 2. Antrinę
@@ -1098,8 +1097,8 @@ kai nustatomas kitas asmens turto ir pajamų lygis. Šios pareigos neatliekantys
 asmenys turi padengti dėl jos neatlikimo arba netinkamo atlikimo atsiradusius
 nuostolius. 
 Straipsnio pakeitimai:
-Nr. X-1492, 2008-04-15,
-Žin., 2008, Nr. 50-1841 (2008-04-30)
+Nr. X-1492,
+2008-04-15, Žin., 2008, Nr. 50-1841 (2008-04-30)
  
 24
 straipsnis. Antrinės teisinės pagalbos išlaidų išieškojimas ir grąžinimas
@@ -1113,8 +1112,9 @@ teisinė pagalba teikiama asmenims, turintiems teisę į bylinėjimosi išlaidų
 bylos nagrinėjimu susijusių išlaidų) draudimo išmokas, kurios pagal draudimo
 sutartį išmokamos po to, kai išlaidos buvo patirtos, suteiktos antrinės
 teisinės pagalbos išlaidos teisingumo ministro nustatyta tvarka turi būti
-grąžintos į valstybės biudžetą ne vėliau kaip per mėnesį nuo draudimo išmokos sumokėjimo.
-Jeigu asmuo negrąžina šių išlaidų, jos išieškomos įstatymų nustatyta tvarka. 
+grąžintos į valstybės biudžetą ne vėliau kaip per mėnesį nuo draudimo išmokos
+sumokėjimo. Jeigu asmuo negrąžina šių išlaidų, jos išieškomos įstatymų nustatyta
+tvarka. 
 3. Jeigu antrinė
 teisinė pagalba buvo teikiama šio įstatymo 12 straipsnio 6 punkte nurodytam
 asmeniui ir pasikeičia aplinkybės, dėl kurių jis buvo priskirtas tame punkte
@@ -1133,8 +1133,8 @@ bylos esmės, pareiškėjas privalo per tarnybos nustatytą terminą grąžinti
 suteiktos antrinės teisinės pagalbos išlaidas į valstybės biudžetą. 
 5. Šio įstatymo
 21 straipsnio 7 dalyje nurodytu atveju išlaidos, susijusios su trauktino
-baudžiamojon atsakomybėn juridinio asmens atstovavimu, įstatymų nustatyta tvarka
-išieškomos į valstybės biudžetą iš atstovaujamo juridinio asmens.
+baudžiamojon atsakomybėn juridinio asmens atstovavimu, įstatymų nustatyta
+tvarka išieškomos į valstybės biudžetą iš atstovaujamo juridinio asmens.
 6. Jeigu
 antrinės teisinės pagalbos išlaidos turi būti išieškomos, valstybei atstovauja
 tarnyba.
@@ -1142,8 +1142,7 @@ Straipsnio pakeitimai:
 Nr. X-1492,
 2008-04-15, Žin., 2008, Nr. 50-1841 (2008-04-30)
  
-ŠEŠTASIS
-SKIRSNIS
+ŠEŠTASIS SKIRSNIS
 VALSTYBĖS
 GARANTUOJAMOS TEISINĖS PAGALBOS TEIKIMO TARPTAUTINIUOSE GINČUOSE YPATUMAI
  
@@ -1223,11 +1222,10 @@ Respublikos teisingumo ministerija, gavusi teisinės pagalbos prašymą iš kito
 Europos Sąjungos valstybės narės kompetentingos institucijos, privalo ne vėliau
 kaip per 30 dienų nuo prašymo ir visų reikalingų dokumentų gavimo dienos jį
 išnagrinėti ir priimti sprendimą dėl prašymo perdavimo atitinkamai savivaldybės
-vykdomajai institucijai ar tarnybai. Lietuvos Respublikos teisingumo
-ministerija turi teisę atsisakyti perduoti prašymą, jeigu pateikti ne visi
-šiame įstatyme nurodyti dokumentai. Lietuvos Respublikos teisingumo
-ministerija, priėmusi sprendimą atsisakyti perduoti prašymą, apie tai
-nedelsdama praneša pareiškėjui.
+vykdomajai institucijai ar tarnybai. Lietuvos Respublikos teisingumo ministerija
+turi teisę atsisakyti perduoti prašymą, jeigu pateikti ne visi šiame įstatyme
+nurodyti dokumentai. Lietuvos Respublikos teisingumo ministerija, priėmusi
+sprendimą atsisakyti perduoti prašymą, apie tai nedelsdama praneša pareiškėjui.
 4. Savivaldybės
 vykdomoji institucija arba tarnyba apie priimtą sprendimą dėl valstybės
 garantuojamos teisinės pagalbos teikimo privalo pranešti pareiškėjui. Jeigu
@@ -1261,15 +1259,15 @@ Respublikos teisingumo ministerija turi teisę atsisakyti siųsti teisinės
 pagalbos prašymą, jeigu prašymas akivaizdžiai nepagrįstas arba jam netaikytinas
 šis skirsnis. Lietuvos Respublikos teisingumo ministerija, priėmusi sprendimą
 atsisakyti siųsti teisinės pagalbos prašymą, pareiškėjui turi nurodyti tokio
-atsisakymo priežastis. Toks sprendimas gali būti skundžiamas Lietuvos
-Respublikos įstatymų nustatyta tvarka.
+atsisakymo priežastis. Toks sprendimas gali būti skundžiamas Lietuvos Respublikos
+įstatymų nustatyta tvarka.
 4. Lietuvos
 Respublikos teisingumo ministerija turi pranešti pareiškėjui apie dokumentus,
 kurių reikia, kad teisinės pagalbos prašymas būtų nagrinėjamas kitoje Europos
 Sąjungos valstybėje narėje, ir užtikrina prašymo ir asmens teisę gauti teisinę
 pagalbą įrodančių dokumentų vertimą pagal šio įstatymo 31 straipsnio 2 dalies 2
-punktą. Lietuvos Respublikos teisingumo ministerija privalo teisinės pagalbos prašymą
-ir asmens teisę gauti teisinę pagalbą įrodančius dokumentus išsiųsti kitos
+punktą. Lietuvos Respublikos teisingumo ministerija privalo teisinės pagalbos
+prašymą ir asmens teisę gauti teisinę pagalbą įrodančius dokumentus išsiųsti kitos
 Europos Sąjungos valstybės narės kompetentingai institucijai per 15 dienų nuo
 prašymo ir asmens teisę gauti teisinę pagalbą įrodančių dokumentų vertimų į šio
 straipsnio 2 dalyje nurodytą kalbą gavimo dienos.
@@ -1416,15 +1414,15 @@ TEISINĖS PAGALBOS ĮSTATYMO IR VALSTYBĖS KONTROLĖS ĮSTATYMO PAKEITIMO ĮSTAT
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-78,
-2005-01-20, Žin., 2005, Nr. 18-572 (2005-02-08)
+X-78, 2005-01-20,
+Žin., 2005, Nr. 18-572 (2005-02-08)
 VALSTYBĖS
 GARANTUOJAMOS TEISINĖS PAGALBOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja
 įstatymo redakcija
 Šis įstatymas įsigalioja pagal Lietuvos
-Respublikos valstybės garantuojamos teisinės pagalbos įstatymo pakeitimo
-įstatymo įsigaliojimo ir įgyvendinimo įstatymą Nr. X-79:
+Respublikos valstybės garantuojamos teisinės pagalbos įstatymo pakeitimo įstatymo
+įsigaliojimo ir įgyvendinimo įstatymą Nr. X-79:
 Valstybės garantuojamos teisinės
 pagalbos įstatymo pakeitimo įstatymas įsigalioja nuo 2005 m. gegužės 1 d., išskyrus Valstybės garantuojamos teisinės pagalbos įstatymo
 pakeitimo įstatymo 1 straipsnyje išdėstyto naujos redakcijos Valstybės
@@ -1474,14 +1472,27 @@ pagalbos įstatymo 21 straipsnio 7 dalį, ir šio įstatymo 17 straipsnis įsiga
  
 7.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-223, 2009-04-16,
-Žin., 2009, Nr. 46-1801 (2009-04-25)
+Nr. XI-223,
+2009-04-16, Žin., 2009, Nr. 46-1801 (2009-04-25)
 VALSTYBĖS
 GARANTUOJAMOS TEISINĖS PAGALBOS ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2009 m. birželio 1 d.
  
-*** Pabaiga ***
-Redagavo Aušrinė Trapinskienė
-(2009-04-28)
+8.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-1775,
+2011-12-01, Žin., 2011, Nr. 155-7356 (2011-12-20)
+VALSTYBĖS
+GARANTUOJAMOS TEISINĖS PAGALBOS ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2012 m. sausio 1 d.
+ 
+***
+Pabaiga ***
+ 
+ 
+Redagavo
+Aušrinė Trapinskienė (2011-12-20)
                  
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
