@@ -1400,58 +1400,6 @@ tarybų, kurių posėdžiai vyksta periodiškai, nariams pareiginės algos dydis
 apskaičiuojamas proporcingai dirbtam laikui.
  
  
-
-
-
-„7.
-
-
-Seimo, Seimo Pirmininko, Respublikos
-  Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
-  tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Valstybinės
-  lošimų priežiūros komisijos, Vyriausiosios rinkimų komisijos ir Vyriausiosios
-  tarnybinės etikos komisijos:
-
-
- 
-
-
-
-
-7.1.
-
-
-pirmininkai
-
-
-10,10
-
-
-
-
-7.2.
-
-
-pavaduotojai
-
-
-9,44
-
-
-
-
-7.3.
-
-
-nariai
-
-
-8,57.“
-
-
-
- 
- 
 Priedėlio
 redakcija nuo 2013 m. sausio 1 d. : 
 Lietuvos
@@ -2594,6 +2542,8 @@ Nr. XI-1788,
 2011-12-09, Žin., 2011, Nr. 156-7385 (2011-12-22)
 Nr. XI-1789,
 2011-12-09, Žin., 2011, Nr. 156-7386 (2011-12-22)
+Nr. XI-1790,
+2011-12-09, Žin., 2011, Nr. 156-7387 (2011-12-22)
  
 ________________
  
@@ -2649,8 +2599,8 @@ PAPILDYMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-811, 2002-03-26,
-Žin., 2002, Nr. 38-1358 (2002-04-10)
+IX-811,
+2002-03-26, Žin., 2002, Nr. 38-1358 (2002-04-10)
 VALSTYBĖS
 POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 3 STRAIPSNIO
 PAPILDYMO ĮSTATYMAS
@@ -2726,8 +2676,8 @@ IX-1520,
 2003-04-22, Žin., 2003, Nr. 42-1920 (2003-05-01)
 VALSTYBĖS
 POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 3
-STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 5(1) STRAIPSNIU IR
-ĮSTATYMO PRIEDĖLIO III SKIRSNIO PAKEITIMO ĮSTATYMAS
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 5(1) STRAIPSNIU IR ĮSTATYMO
+PRIEDĖLIO III SKIRSNIO PAKEITIMO ĮSTATYMAS
 Šis
 Įstatymas įsigalioja nuo 2003 m. gegužės 1 d.
  
@@ -2795,8 +2745,8 @@ SKIRSNIO PAPILDYMO ĮSTATYMAS
 20.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. X-1254,
-2007-07-03, Žin., 2007, Nr. 81-3318 (2007-07-21)
+Nr. X-1254, 2007-07-03,
+Žin., 2007, Nr. 81-3318 (2007-07-21)
 VALSTYBĖS
 POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 3, 5 IR 5(1)
 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
@@ -2955,8 +2905,8 @@ galiojimas keistas:
 1)
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XI-980, 2010-07-02,
-Žin., 2010, Nr. 86-4531 (2010-07-20)
+Nr. XI-980,
+2010-07-02, Žin., 2010, Nr. 86-4531 (2010-07-20)
 VALSTYBĖS
 POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
 ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
@@ -2987,8 +2937,13 @@ Nr. XI-1581,
 VALSTYBĖS
 POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO IV SKIRSNIO
 PAKEITIMO ĮSTATYMAS
-Šis įstatymas įsigalioja 2012 m. kovo 1
-d.
+Šis įstatymas
+neteko galios nuo 2011-12-22:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1790,
+2011-12-09, Žin., 2011, Nr. 156-7387 (2011-12-22)
+VALSTYBĖS POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO
+PRIEDĖLIO IV SKIRSNIO PAKEITIMO ĮSTATYMO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
  
 31.
 Lietuvos
