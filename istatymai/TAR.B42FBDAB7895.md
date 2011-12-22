@@ -1,0 +1,29 @@
+---
+tar_id: TAR.B42FBDAB7895
+dok_nr: XI-1878
+pavadinimas: Lietuvos Respublikos užsienio valiutos Lietuvos Respublikoje įstatymo 3 straipsnio pakeitimo įstatymas
+rusis: istatymas
+leidziantis_organas: Lietuvos Respublikos Seimas
+priemimo_data: 2011-12-22
+isigaliojimo_data: 2011-12-31
+paskelbimo_data: 2011-12-22
+statusas: galioja
+etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B42FBDAB7895"
+---
+
+# Lietuvos Respublikos užsienio valiutos Lietuvos Respublikoje įstatymo 3 straipsnio pakeitimo įstatymas
+
+LIETUVOS RESPUBLIKOS
+UŽSIENIO VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 3 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+2011 m. gruodžio 22 d. Nr. XI-1878
+Vilnius
+(Žin., 1993, Nr. [28-640](https://www.e-tar.lt/portal/lt/legalAct/TAR.CDC433E7BED2); 1994, Nr. [34-622](https://www.e-tar.lt/portal/lt/legalAct/TAR.129FFA47A525); 1996, Nr. [35-867](https://www.e-tar.lt/portal/lt/legalAct/TAR.5AC9299319CC), Nr. [116-2692](https://www.e-tar.lt/portal/lt/legalAct/TAR.9B0CA9A82E27); 1997, Nr. [114-2871](https://www.e-tar.lt/portal/lt/legalAct/TAR.4F579EC30FC8);1999, Nr. [39-1201](https://www.e-tar.lt/portal/lt/legalAct/TAR.597A65063D0A); 2002, Nr. [105-4687](https://www.e-tar.lt/portal/lt/legalAct/TAR.51A8EA5995BB); 2004, Nr. [98-3629](https://www.e-tar.lt/portal/lt/legalAct/TAR.8C3A323A7089); 2008, Nr. [71-2716](https://www.e-tar.lt/portal/lt/legalAct/TAR.46E1B971F03C); 2009, Nr. [153-6899](https://www.e-tar.lt/portal/lt/legalAct/TAR.06B4935AB6DC))
+
+#### 1 straipsnis. 3 straipsnio 1 dalies pakeitimas
+Pakeisti 3 straipsnio 1 dalį ir ją išdėstyti taip:
+„Litus į užsienio valiutą, užsienio valiutą į litus ar vieną užsienio valiutą į kitą užsienio valiutą keičia (perka, parduoda) kredito įstaigos, turinčios tokiai veiklai įstatymų nustatyta tvarka išduotus leidimus (licencijas), elektroninių pinigų įstaigos, kai tai yra susiję su elektroninių pinigų leidimu ir mokėjimo paslaugų teikimu, kiti mokėjimo paslaugų teikėjai, kai tai yra susiję su mokėjimo paslaugų teikimu, ir finansų maklerio įmonės, kai tai yra susiję su investicinių paslaugų teikimu.“
+*Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.*
+RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+_________________
+
