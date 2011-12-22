@@ -2007,9 +2007,8 @@ Vaiko teisių apsaugos kontrolierius
 
 Seimo, Seimo Pirmininko, Respublikos
   Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
-  tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Vertybinių
-  popierių komisijos, Vyriausiosios rinkimų komisijos ir Vyriausiosios
-  tarnybinės etikos komisijos:
+  tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Vyriausiosios
+  rinkimų komisijos ir Vyriausiosios tarnybinės etikos komisijos:
 
 
  
@@ -2045,7 +2044,7 @@ pavaduotojai
 nariai
 
 
-9,5
+9,5 
 
 
 
@@ -2168,44 +2167,11 @@ nariai
 11.
 
 
-Lietuvos Respublikos draudimo
-  priežiūros komisijos:
+(neteko galios nuo 2011 m. gruodžio 22
+  d.)
 
 
  
-
-
-
-
-11.1.
-
-
-pirmininkas
-
-
-12
-
-
-
-
-11.2.
-
-
-pavaduotojai
-
-
-11
-
-
-
-
-11.3.
-
-
-nariai
-
-
-9,5
 
 
 
@@ -2242,6 +2208,8 @@ Nr. XI-866,
 2010-06-03, Žin., 2010, Nr. 71-3544 (2010-06-19)
 Nr. XI-1582,
 2011-09-15, Žin., 2011, Nr. 119-5615 (2011-10-01)
+Nr. XI-1789,
+2011-12-09, Žin., 2011, Nr. 156-7386 (2011-12-22)
  
 3 straipsnis. Įstatymo galiojimas
 1. Šio įstatymo
@@ -2301,8 +2269,20 @@ VALSTYBĖS
 POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
 ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+5.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-1789,
+2011-12-09, Žin., 2011, Nr. 156-7386 (2011-12-22)
+VALSTYBĖS POLITIKŲ IR VALSTYBĖS
+PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
  
-*** Pabaiga ***
-Redagavo Aušrinė Trapinskienė (2011-12-08)
+***
+Pabaiga ***
+ 
+ 
+Redagavo
+Aušrinė Trapinskienė (2011-12-22)
                  
 ausrine.trapinskiene@lrs.lt
