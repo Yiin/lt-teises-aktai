@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4F9515A6EB3D"
 
 # Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymas
 
-Suvestinė redakcija nuo 2010-12-18 iki 2011-12-21
+Suvestinė redakcija nuo 2011-12-22
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 118-3046, i. k. 0971010ISTAVIII-588
  
@@ -87,7 +87,7 @@ Nr. IX-642, 2001-12-11, Žin., 2001, Nr. 110-3989 (2001-12-29), i. k. 1011010IST
 
 
 
-8) Lietuvos Respublikos administracinių teisės pažeidimų kodeksą, priimtą 1984 m. gruodžio 13 d., (Žin., 1985, Nr. 1-1) su vėlesniais pakeitimais ir papildymais – 2012 m. sausio 1 d.;
+8) Lietuvos Respublikos administracinių teisės pažeidimų kodeksą, priimtą 1984 m. gruodžio 13 d., (Žin., 1985, Nr. 1-1) su vėlesniais pakeitimais ir papildymais – iki bus priimtas ir įsigalios naujos redakcijos įstatymas, keičiantis visą Lietuvos Respublikos administracinių teisės pažeidimų kodeksą;
 Straipsnio punkto pakeitimai:
 Nr. IX-1167, 2002-10-31, Žin., 2002, Nr. 112-4972 (2002-11-22); Žin., 2002, Nr. 113-0 (2002-11-27), i. k. 1021010ISTA0IX-1167
 Nr. IX-1886, 2003-12-11, Žin., 2003, Nr. 123-5573 (2003-12-30), i. k. 1031010ISTA0IX-1886
@@ -98,6 +98,7 @@ Nr. X-1383, 2007-12-18, Žin., 2007, Nr. 138-5645 (2007-12-29), i. k. 1071010IST
 Nr. X-1812, 2008-11-13, Žin., 2008, Nr. 135-5243 (2008-11-25), i. k. 1081010ISTA00X-1812
 Nr. XI-548, 2009-12-10, Žin., 2009, Nr. 152-6821 (2009-12-24), i. k. 1091010ISTA00XI-548
 Nr. XI-1206, 2010-12-07, Žin., 2010, Nr. 148-7569 (2010-12-18), i. k. 1101010ISTA0XI-1206
+Nr. XI-1802, 2011-12-15, Žin., 2011, Nr. 156-7388 (2011-12-22), i. k. 1111010ISTA0XI-1802
  
 
 
@@ -246,4 +247,9 @@ Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m.
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1206, 2010-12-07, Žin., 2010, Nr. 148-7569 (2010-12-18), i. k. 1101010ISTA0XI-1206
+Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1802, 2011-12-15, Žin., 2011, Nr. 156-7388 (2011-12-22), i. k. 1111010ISTA0XI-1802
 Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m. kovo 11 d., galiojimo laikino pratęsimo įstatymo 1 straipsnio pakeitimo įstatymas
