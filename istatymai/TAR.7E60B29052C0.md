@@ -1159,12 +1159,17 @@ Seimo, Seimo Pirmininko, Respublikos
   tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Valstybinės
   lošimų priežiūros komisijos, Vertybinių popierių komisijos, Vyriausiosios
   rinkimų komisijos ir Vyriausiosios tarnybinės etikos komisijos:
+Redakcija nuo 2012-01-01:
+Seimo, Seimo Pirmininko, Respublikos
+  Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
+  tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Valstybinės
+  lošimų priežiūros komisijos, Vyriausiosios rinkimų komisijos ir Vyriausiosios
+  tarnybinės etikos komisijos:
 Redakcija nuo 2012-03-01:
 Seimo, Seimo Pirmininko, Respublikos
   Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
-  tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Vertybinių
-  popierių komisijos, Vyriausiosios rinkimų komisijos ir Vyriausiosios
-  tarnybinės etikos komisijos:
+  tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Vyriausiosios
+  rinkimų komisijos ir Vyriausiosios tarnybinės etikos komisijos:
 
 
  
@@ -1209,7 +1214,8 @@ nariai
 
 
 Seimo, Respublikos Prezidento, kitų
-  pagal specialius įstatymus paskirtų valstybinių (nuolatinių) komisijų ir tarybų:
+  pagal specialius įstatymus paskirtų valstybinių (nuolatinių) komisijų ir
+  tarybų:
 
 
  
@@ -1287,9 +1293,8 @@ pareigūnai
 10.
 
 
-Mokestinių ginčų komisijos prie
-  Lietuvos Respublikos Vyriausybės, Vyriausiosios administracinių ginčų
-  komisijos:
+Mokestinių ginčų komisijos prie Lietuvos
+  Respublikos Vyriausybės, Vyriausiosios administracinių ginčų komisijos:
 
 
  
@@ -1324,6 +1329,8 @@ nariai
 
 Lietuvos Respublikos draudimo
   priežiūros komisijos:
+11 punktas netenka galios nuo
+  2012-01-01
 
 
  
@@ -1393,6 +1400,58 @@ tarybų, kurių posėdžiai vyksta periodiškai, nariams pareiginės algos dydis
 apskaičiuojamas proporcingai dirbtam laikui.
  
  
+
+
+
+„7.
+
+
+Seimo, Seimo Pirmininko, Respublikos
+  Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
+  tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Valstybinės
+  lošimų priežiūros komisijos, Vyriausiosios rinkimų komisijos ir Vyriausiosios
+  tarnybinės etikos komisijos:
+
+
+ 
+
+
+
+
+7.1.
+
+
+pirmininkai
+
+
+10,10
+
+
+
+
+7.2.
+
+
+pavaduotojai
+
+
+9,44
+
+
+
+
+7.3.
+
+
+nariai
+
+
+8,57.“
+
+
+
+ 
+ 
 Priedėlio
 redakcija nuo 2013 m. sausio 1 d. : 
 Lietuvos
@@ -1414,7 +1473,8 @@ POLITIKŲ PAREIGINĖS ALGOS
 Eil. Nr.
 
 
-Pareigų pavadinimas
+Pareigų
+  pavadinimas
 
 
 Pareiginės
@@ -1714,7 +1774,8 @@ dydžiais)
 Eil. Nr.
 
 
-Pareigų pavadinimas
+Pareigų
+   pavadinimas
 
 
 Pareiginės
@@ -2268,9 +2329,8 @@ Vaiko teisių apsaugos kontrolierius
 
 Seimo, Seimo Pirmininko, Respublikos
   Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
-  tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Vertybinių
-  popierių komisijos, Vyriausiosios rinkimų komisijos ir Vyriausiosios
-  tarnybinės etikos komisijos:
+  tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Vyriausiosios
+  rinkimų komisijos ir Vyriausiosios tarnybinės etikos komisijos:
 
 
  
@@ -2429,44 +2489,10 @@ nariai
 11.
 
 
-Lietuvos Respublikos draudimo priežiūros
-  komisijos:
+(neteko galios nuo 2011-12-22) 
 
 
  
-
-
-
-
-11.1.
-
-
-pirmininkas
-
-
-12
-
-
-
-
-11.2.
-
-
-pavaduotojai
-
-
-11
-
-
-
-
-11.3.
-
-
-nariai
-
-
-9,5
 
 
 
@@ -2529,8 +2555,8 @@ Nr. X-128, 2005-02-15,
 Nr.
 X-789,
 2006-07-19, Žin., 2006, Nr. 87-3400 (2006-08-08)
-Nr. X-1253, 2007-07-03,
-Žin., 2007, Nr. 80-3223 (2007-07-19)
+Nr. X-1253,
+2007-07-03, Žin., 2007, Nr. 80-3223 (2007-07-19)
 Nr. X-1385,
 2007-12-18, Žin., 2007, Nr. 140-5757 (2007-12-29)
 Nr. X-1688,
@@ -2541,8 +2567,8 @@ X-1773,
 Nr.
 X-1816,
 2008-11-13, Žin., 2008, Nr. 135-5245 (2008-11-25)
-Nr. XI-157,
-2009-01-20, Žin., 2009, Nr. 11-398 (2009-01-29)\
+Nr. XI-157, 2009-01-20,
+Žin., 2009, Nr. 11-398 (2009-01-29)\
 Nr. XI-224,
 2009-04-23, Žin., 2009, Nr. 49-1935 (2009-04-30)
 Nr.
@@ -2564,6 +2590,10 @@ Nr. XI-1726,
 2011-11-22, Žin., 2011, Nr. 150-7041 (2011-12-08)
 Nr. XI-1727,
 2011-11-22, Žin., 2011, Nr. 150-7042 (2011-12-08)
+Nr. XI-1788,
+2011-12-09, Žin., 2011, Nr. 156-7385 (2011-12-22)
+Nr. XI-1789,
+2011-12-09, Žin., 2011, Nr. 156-7386 (2011-12-22)
  
 ________________
  
@@ -2596,8 +2626,8 @@ APMOKĖJIMO ĮSTATYMO 2 STRAIPSNIO IR ĮSTATYMO PRIEDĖLIO IV SKIRSNIO PAKEITIMO
 PAPILDYMO ĮSTATYMAS
  
 4.
-Lietuvos Respublikos
-Seimas, Įstatymas
+Lietuvos
+Respublikos Seimas, Įstatymas
 Nr. IX-349, 2001 05 24, Žin., 2001, Nr.
 48-1661 (2001 06 06)
 VALSTYBĖS POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO
@@ -2619,8 +2649,8 @@ PAPILDYMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-811,
-2002-03-26, Žin., 2002, Nr. 38-1358 (2002-04-10)
+IX-811, 2002-03-26,
+Žin., 2002, Nr. 38-1358 (2002-04-10)
 VALSTYBĖS
 POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 3 STRAIPSNIO
 PAPILDYMO ĮSTATYMAS
@@ -2629,8 +2659,8 @@ PAPILDYMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-841, 2002-04-09,
-Žin., 2002, Nr. 43-1606 (2002-04-26)
+IX-841,
+2002-04-09, Žin., 2002, Nr. 43-1606 (2002-04-26)
 VALSTYBĖS
 POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 7
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMAS
@@ -2878,8 +2908,8 @@ POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEI
 2) 
 Įstatymo Nr. XI-224 galiojimas
 pakeistas:
-Lietuvos Respublikos
-Seimas, Įstatymas
+Lietuvos
+Respublikos Seimas, Įstatymas
 Nr. XI-951,
 2010-06-30, Žin., 2010, Nr. 82-4305 (2010-07-13)
 VALSTYBĖS
@@ -2898,11 +2928,17 @@ POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEI
 pakeistas:
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr.
-XI-1727, 2011-11-22, Žin., 2011, Nr. 150-7042 (2011-12-08)
+Nr. XI-1727, 2011-11-22,
+Žin., 2011, Nr. 150-7042 (2011-12-08)
 VALSTYBĖS
 POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
 ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+5)
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1789,
+2011-12-09, Žin., 2011, Nr. 156-7386 (2011-12-22)
+VALSTYBĖS POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO
+PRIEDĖLIO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 28.
 Lietuvos
@@ -2919,16 +2955,16 @@ galiojimas keistas:
 1)
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XI-980,
-2010-07-02, Žin., 2010, Nr. 86-4531 (2010-07-20)
+Nr. XI-980, 2010-07-02,
+Žin., 2010, Nr. 86-4531 (2010-07-20)
 VALSTYBĖS
 POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
 ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 2) 
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr.
-XI-1726, 2011-11-22, Žin., 2011, Nr. 150-7041 (2011-12-08)
+Nr. XI-1726, 2011-11-22,
+Žin., 2011, Nr. 150-7041 (2011-12-08)
 VALSTYBĖS
 POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
 ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
@@ -2946,13 +2982,24 @@ POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2 STRAIPSNIO IR
  
 30.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1581, 2011-09-15,
-Žin., 2011, Nr. 119-5614 (2011-10-01)
+Nr. XI-1581,
+2011-09-15, Žin., 2011, Nr. 119-5614 (2011-10-01)
 VALSTYBĖS
 POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO IV SKIRSNIO
 PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2012 m. kovo 1
 d.
+ 
+31.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-1788,
+2011-12-09, Žin., 2011, Nr. 156-7385 (2011-12-22)
+VALSTYBĖS POLITIKŲ
+IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMAS
+Šio įstatymo 1 straipsnis įsigalioja 2012 m. sausio 1 d. 
+Šio įstatymo 2
+straipsnis įsigalioja 2012 m. kovo 1 d.
  
  
 ***Pabaiga***
@@ -2975,9 +3022,9 @@ PRIEDĖLIO, LIETUVOS RESPUBLIKOS 2000 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBI�
 BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO PAKEITIMO ĮSTATYMO 9
 STRAIPSNIO, LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1991 M. LAPKRIČIO 29 D. NUTARIMO NR. 499 "DĖL VALSTYBINĖS VALDŽIOS, VALSTYBĖS VALDYMO IR
 TEISĖSAUGOS ORGANŲ VADOVŲ BEI KITŲ PAREIGŪNŲ LAIKINOS BANDOMOSIOS DARBO
-APMOKĖJIMO TVARKOS", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 24 D. NUTARIMO NR. 666 "DĖL LIETUVOS RESPUBLIKOS TEISMŲ TEISĖJŲ, PROKURATŪROS SISTEMOS
-IR LIETUVOS RESPUBLIKOS VALSTYBĖS SAUGUMO DEPARTAMENTO PAREIGŪNŲ BEI KITŲ
-DARBUOTOJŲ DARBO APMOKĖJIMO", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1999 M. GRUODŽIO 28 D. NUTARIMO NR. 1494 "DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 30 D. NUTARIMO NR. 689 "DĖL TEISĖTVARKOS, TEISĖSAUGOS IR KONTROLĖS INSTITUCIJŲ
+APMOKĖJIMO TVARKOS", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 24 D. NUTARIMO NR. 666 "DĖL LIETUVOS RESPUBLIKOS TEISMŲ TEISĖJŲ, PROKURATŪROS
+SISTEMOS IR LIETUVOS RESPUBLIKOS VALSTYBĖS SAUGUMO DEPARTAMENTO PAREIGŪNŲ BEI
+KITŲ DARBUOTOJŲ DARBO APMOKĖJIMO", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1999 M. GRUODŽIO 28 D. NUTARIMO NR. 1494 "DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 30 D. NUTARIMO NR. 689 "DĖL TEISĖTVARKOS, TEISĖSAUGOS IR KONTROLĖS INSTITUCIJŲ
 VADOVAUJANČIŲJŲ PAREIGŪNŲ IR VALDININKŲ DARBO APMOKĖJIMO" DALINIO
 PAKEITIMO" ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
@@ -2985,6 +3032,7 @@ PAKEITIMO" ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 *** Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė (2011-12-08)
-    
-             ausrine.trapinskiene@lrs.lt
+Redagavo Aušrinė
+Trapinskienė (2011-12-23)
+                 
+ausrine.trapinskiene@lrs.lt
