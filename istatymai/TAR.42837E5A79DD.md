@@ -103,6 +103,13 @@ partnerystės teisinių pasekmių.
 į užsienio valstybę – užsieniečio perdavimas į kilmės ar užsienio valstybę,
 į kurią jis turi teisę vykti, pagal teisės aktų nustatyta tvarka su šia
 valstybe suderintą sprendimą.
+7 dalies redakcija nuo 2012-02-01:
+7. Grąžinimas
+į užsienio valstybę – procedūra, kai užsienietis prievolę išvykti iš
+Lietuvos Respublikos įvykdo savanoriškai arba iš jos išsiunčiamas į valstybę,
+kuri nėra Europos Sąjungos arba Europos laisvosios prekybos asociacijos
+valstybė narė.
+ 
 71.
 Humanitarinės priežastys – priežastys, kurios suprantamos taip, kaip jos
 yra apibrėžiamos šio Įstatymo 18 straipsnio 1 dalies 1–4 punktuose.
@@ -113,6 +120,13 @@ išvesdinimas iš Lietuvos Respublikos teritorijos teisės aktų nustatyta tvark
 išvykti iš Lietuvos Respublikos – teisės aktų nustatyta tvarka priimtas
 sprendimas, pagal kurį užsienietis per nustatytą laiką savarankiškai privalo
 palikti Lietuvos Respublikos teritoriją.
+9 dalies redakcija nuo 2012-02-01:
+9. Įpareigojimas
+išvykti iš Lietuvos Respublikos – teisės aktų nustatyta tvarka priimtas
+sprendimas, pagal kurį užsienietis per nustatytą laiką savanoriškai privalo
+išvykti į tą Europos Sąjungos ar Europos laisvosios prekybos asociacijos
+valstybę narę, kurioje jis turi teisę būti ar gyventi.
+ 
 10. Kelionės
 dokumentas – užsienio valstybės piliečio pasas ar jį atitinkantis
 dokumentas, skirtas vykti į užsienio valstybę bei pripažintas Lietuvos
@@ -126,8 +140,8 @@ Kvietimas – dokumentas, patvirtinantis Lietuvos Respublikos fizinio arba
 juridinio asmens įsipareigojimą pasirūpinti, kad į Lietuvos Respubliką
 atvykstantis užsienietis būtų tinkamai apgyvendintas jo buvimo Lietuvos
 Respublikoje turint vizą laikotarpiu ir kad prireikus būtų padengtos
-užsieniečio grįžimo į kilmės ar užsienio valstybę, į kurią jis turi teisę
-vykti, išlaidos.
+užsieniečio grįžimo į kilmės ar užsienio valstybę, į kurią jis turi teisę vykti,
+išlaidos.
 12. Laikinas
 teritorinis prieglobstis – užsieniečiui šio Įstatymo nustatyta
 tvarka suteikta teisė būti Lietuvos Respublikoje tol, kol nagrinėjamas jo
@@ -156,6 +170,13 @@ dokumento galiojimo laikotarpiu.
 18. Pabėgėlis
 – užsienietis, kuriam šio Įstatymo nustatyta tvarka suteiktas pabėgėlio
 Lietuvos Respublikoje statusas.
+Straipsnis papildomas 181
+dalimi nuo 2012-02-01:
+181. Pažeidžiamas
+asmuo – nepilnametis, neįgalusis, vyresnis negu 75 metų amžiaus asmuo,
+nėščia moteris, vieniši tėvas ar motina, auginantys nepilnamečių vaikų, arba
+asmuo, kuris buvo kankintas, išprievartautas ar patyrė kitokį sunkų
+psichologinį, fizinį ar seksualinį smurtą.
 19. Prašymo
 suteikti prieglobstį nagrinėjimas iš esmės – tyrimas, kurio tikslas
 –nustatyti, ar prieglobsčio prašytojui turi būti suteiktas pabėgėlio statusas
@@ -203,10 +224,10 @@ pilietinių ir politinių teisių pakto dalyvė, įgyvendinanti šių dokumentų
 nuostatas ir pagal nacionalinius įstatymus suteikianti realią galimybę prašyti
 prieglobsčio bei nustatyta tvarka jį gauti.
 26. Šeimos nariai – sutuoktinis
-arba asmuo, su kuriuo sudaryta registruotos partnerystės sutartis, vaikai (įvaikiai)
-(toliau – vaikai) iki 18 metų, įskaitant sutuoktinio arba asmens, su kuriuo
-sudaryta registruotos partnerystės sutartis, vaikus iki 18 metų, jeigu jie
-nesudarę santuokos ir yra priklausomi nuo tėvų, taip pat pirmos eilės
+arba asmuo, su kuriuo sudaryta registruotos partnerystės sutartis, vaikai
+(įvaikiai) (toliau – vaikai) iki 18 metų, įskaitant sutuoktinio arba asmens, su
+kuriuo sudaryta registruotos partnerystės sutartis, vaikus iki 18 metų, jeigu
+jie nesudarę santuokos ir yra priklausomi nuo tėvų, taip pat pirmos eilės
 tiesiosios aukštutinės linijos giminaičiai, kurie išlaikomi ne mažiau kaip vienerius
 metus ir negali pasinaudoti kitų šeimos narių, gyvenančių užsienio valstybėje,
 parama.
@@ -229,8 +250,8 @@ konvencija – 1990 m. birželio 19 d. Konvencija dėl 1985 m. birželio 14 d.
 Vokietijos Federacinės Respublikos ir Prancūzijos Respublikos Vyriausybių, dėl
 laipsniško jų bendrų sienų kontrolės panaikinimo įgyvendinimo.
 273. Šengeno
-valstybė – prie Šengeno konvencijos prisijungusi valstybė arba valstybė,
-kurioje taikomas visas Šengeno acquis.
+valstybė – prie Šengeno konvencijos prisijungusi valstybė arba valstybė, kurioje
+taikomas visas Šengeno acquis.
 274. Šengeno
 viza – viza, galiojanti Šengeno valstybėse ir išduodama pagal Šengeno acquis.
 28. Teisėtas
@@ -262,12 +283,13 @@ atvykti į Lietuvos Respubliką, būti joje ar vykti tranzitu.
 Straipsnio pakeitimai:
 Nr. X-924, 2006-11-28,
 Žin., 2006, Nr. 137-5199 (2006-12-16)
-Nr. X-1442, 2008-02-01,
-Žin., 2008, Nr. 22-803 (2008-02-22)
+Nr. X-1442,
+2008-02-01, Žin., 2008, Nr. 22-803 (2008-02-22)
 Nr.
 XI-392,
-2009-07-22, Žin., 2009, Nr. 93-3984 (2009-08-04)(papildyta 111
-dalimi)
+2009-07-22, Žin., 2009, Nr. 93-3984 (2009-08-04)
+Nr. XI-1786,
+2011-12-08, Žin., 2011, Nr. 156-7384 (2011-12-22)
  
 3
 straipsnis. Užsieniečių teisės ir pareigos Lietuvos Respublikoje
@@ -304,8 +326,8 @@ XI-392,
 2009-07-22, Žin., 2009, Nr. 93-3984 (2009-08-04)
  
 II SKYRIUS
-UŽSIENIEČIŲ ATVYKIMAS
-Į LIETUVOS RESPUBLIKĄ
+UŽSIENIEČIŲ
+ATVYKIMAS Į LIETUVOS RESPUBLIKĄ
  
  
 5
@@ -317,8 +339,8 @@ taikomos 2006 m. kovo 15 d. Europos Parlamento ir Tarybos reglamento (EB) Nr.
 Bendrijos kodeksą (Šengeno sienų kodeksas) (toliau – Šengeno sienų kodeksas),
 nuostatos.
 2. Užsieniečių
-buvimas Lietuvos Respublikos tarptautinių oro uostų tranzito zonose nelaikomas atvykimu
-į Lietuvos Respublikos teritoriją.
+buvimas Lietuvos Respublikos tarptautinių oro uostų tranzito zonose nelaikomas
+atvykimu į Lietuvos Respublikos teritoriją.
 3. Jeigu
 užsienietis pateikia prašymą suteikti prieglobstį Lietuvos Respublikoje,
 sprendimą dėl užsieniečio neįleidimo arba įleidimo į Lietuvos Respubliką priima
@@ -401,9 +423,9 @@ Užsieniečio atvykimas
 į Lietuvos Respubliką laikomas neteisėtu, jeigu užsienietis:
 1) atvyksta į
 Lietuvos Respubliką, nors jis yra įtrauktas į užsieniečių, kuriems draudžiama
-atvykti į Lietuvos Respubliką, nacionalinį sąrašą arba dėl jo į centrinę Šengeno
-informacinę sistemą yra įtrauktas įspėjimas dėl neįsileidimo, išskyrus Šengeno
-sienų kodekse nustatytas išimtis;
+atvykti į Lietuvos Respubliką, nacionalinį sąrašą arba dėl jo į centrinę
+Šengeno informacinę sistemą yra įtrauktas įspėjimas dėl neįsileidimo, išskyrus
+Šengeno sienų kodekse nustatytas išimtis;
 2) atvyksta į
 Lietuvos Respubliką, kirsdamas Europos Sąjungos išorės sieną, kaip tai
 apibrėžta Šengeno sienų kodekso 2 straipsnio 2 punkte, ne per pasienio
@@ -419,8 +441,8 @@ Lietuvos Respubliką su viza, išduota pateikus tikrovės neatitinkančius duome
 ar suklastotus dokumentus.
 Straipsnio pakeitimas:
 Nr.
-XI-392,
-2009-07-22, Žin., 2009, Nr. 93-3984 (2009-08-04)
+XI-392, 2009-07-22,
+Žin., 2009, Nr. 93-3984 (2009-08-04)
  
 III SKYRIUS
 UŽSIENIEČIŲ
@@ -461,11 +483,10 @@ Europos Sąjungos valstybės narės piliečio šeimos narys, kuris nėra Europos
 Sąjungos valstybės narės pilietis, bet turi 2004 m. balandžio 29 d. Europos
 Parlamento ir Tarybos direktyvoje 2004/38/EB dėl Sąjungos piliečių ir jų šeimos
 narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies
-keičiančioje Reglamentą (EEB) Nr. 1612/68 ir naikinančioje Direktyvas
-64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB,
-90/364/EEB, 90/365/EEB ir 93/96/EEB, nurodytą leidimą gyventi, turi teisę
-atvykti į Lietuvos Respubliką ir būti joje iki 3 mėnesių per pusę metų be
-vizos. 
+keičiančioje Reglamentą (EEB) Nr. 1612/68 ir naikinančioje Direktyvas 64/221/EEB,
+68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB,
+90/365/EEB ir 93/96/EEB, nurodytą leidimą gyventi, turi teisę atvykti į
+Lietuvos Respubliką ir būti joje iki 3 mėnesių per pusę metų be vizos. 
 5. Užsienietis,
 kuris nenurodytas šio straipsnio 4 dalyje, bet turi kitos Šengeno valstybės
 išduotą leidimą gyventi, leidimo gyventi galiojimo metu turi teisę atvykti į
@@ -539,16 +560,16 @@ sąraše, piliečiai arba asmenys, kurie nėra šių valstybių piliečiai, bet 
 šių valstybių kompetentingų institucijų išduotus kelionės dokumentus, turi
 turėti oro uosto tranzitinę vizą.
 3. Valstybių, kurios numatytos
-nacionaliniame sąraše, patvirtintame vidaus reikalų ministro kartu su užsienio reikalų
-ministru, piliečiai arba asmenys, kurie nėra šių valstybių piliečiai, bet turi
-šių valstybių kompetentingų institucijų išduotus kelionės dokumentus, taip pat
-turi turėti oro uosto tranzitinę vizą.
+nacionaliniame sąraše, patvirtintame vidaus reikalų ministro kartu su užsienio
+reikalų ministru, piliečiai arba asmenys, kurie nėra šių valstybių piliečiai,
+bet turi šių valstybių kompetentingų institucijų išduotus kelionės dokumentus,
+taip pat turi turėti oro uosto tranzitinę vizą.
  
 14
 straipsnis. Tranzitinė viza (B)
-Užsienietis, turintis
-tranzitinę vizą, gali vykti tranzitu per Lietuvos Respubliką kiekvieną kartą
-būdamas Lietuvos Respublikoje ne ilgiau kaip 5 dienas, skaičiuojant nuo
+Užsienietis,
+turintis tranzitinę vizą, gali vykti tranzitu per Lietuvos Respubliką kiekvieną
+kartą būdamas Lietuvos Respublikoje ne ilgiau kaip 5 dienas, skaičiuojant nuo
 pirmosios atvykimo į Lietuvos Respubliką ar kitą Šengeno valstybę dienos.
  
 15
@@ -623,9 +644,9 @@ Lietuvos Respublikoje turint vizą metu negalėjo išvengti;
 4) force
 majeure.
 2. Užsieniečio
-buvimas Lietuvos Respublikoje turint Šengeno vizą, kurios galiojimas buvo
-pratęstas, negali viršyti 3 mėnesių per pusę metų, skaičiuojant nuo pirmosios
-atvykimo į Lietuvos Respubliką ar kitą Šengeno valstybę dienos.
+buvimas Lietuvos Respublikoje turint Šengeno vizą, kurios galiojimas buvo pratęstas,
+negali viršyti 3 mėnesių per pusę metų, skaičiuojant nuo pirmosios atvykimo į
+Lietuvos Respubliką ar kitą Šengeno valstybę dienos.
 Straipsnio pakeitimas:
 Nr. X-924, 2006-11-28,
 Žin., 2006, Nr. 137-5199 (2006-12-16)
@@ -650,6 +671,11 @@ Respublikos įstatymus;
 nacionalinį sąrašą;
 6) priimtas
 sprendimas jį įpareigoti išvykti arba išsiųsti iš Šengeno valstybės;
+6 punkto redakcija nuo 2012-02-01:
+6) priimtas
+sprendimas jį įpareigoti išvykti, grąžinti arba išsiųsti iš Šengeno
+valstybės;
+ 
 7) jis veiksmu,
 žodžiu ar raštu pažemino vizas išduodančius pareigūnus, tarnautojus dėl jų
 veiklos arba Lietuvos Respublikos valstybę;
@@ -660,6 +686,9 @@ tarptautinės teisės šaltiniuose;
 9)
 jis nepateikia sveikatos draudimą patvirtinančio dokumento, kai būtina jį
 turėti kelionės metu.
+Straipsnio pakeitimas:
+Nr. XI-1786,
+2011-12-08, Žin., 2011, Nr. 156-7384 (2011-12-22)
  
 20
 straipsnis. Vizos panaikinimo pagrindai
@@ -706,9 +735,9 @@ numatytais atvejais Šengeno viza užsieniečiui išduodama ir buvimo Lietuvos
 Respublikoje turint vizą laikas pratęsiamas tik po Migracijos departamento
 konsultacijų su kitomis Šengeno valstybėmis.
 5. Sprendimą dėl
-buvimo Lietuvos Respublikoje turint Šengeno vizą laiko pratęsimo arba atsisakymo
-pratęsti priima vidaus reikalų ministro įgaliotos institucijos vidaus reikalų
-ministro nustatyta tvarka.
+buvimo Lietuvos Respublikoje turint Šengeno vizą laiko pratęsimo arba
+atsisakymo pratęsti priima vidaus reikalų ministro įgaliotos institucijos
+vidaus reikalų ministro nustatyta tvarka.
 6. Valstybės
 institucijų ir įstaigų, kuriose užsieniečiams yra išduodamos vizos, sąrašą
 tvirtina vidaus reikalų ministras kartu su užsienio reikalų ministru.
@@ -784,9 +813,9 @@ GYVENIMAS LIETUVOS RESPUBLIKOJE
 straipsnis. Leidimas gyventi Lietuvos Respublikoje
 Leidimas gyventi
 Lietuvos Respublikoje (toliau – leidimas gyventi) suteikia teisę užsieniečiui
-gyventi Lietuvos Respublikoje, pasirinkti gyvenamąją vietą Lietuvos Respublikoje,
-ją keisti, išvykti iš Lietuvos Respublikos ir grįžti į ją leidimo gyventi
-galiojimo laikotarpiu.
+gyventi Lietuvos Respublikoje, pasirinkti gyvenamąją vietą Lietuvos
+Respublikoje, ją keisti, išvykti iš Lietuvos Respublikos ir grįžti į ją leidimo
+gyventi galiojimo laikotarpiu.
  
 25
 straipsnis. Leidimų gyventi rūšys
@@ -844,18 +873,18 @@ Respublikoje suteikimo.
 4. (neteko
 galios).
 5. Šio
-straipsnio 1 dalies nuostatos, išskyrus šio Įstatymo 6 straipsnio 1 dalyje
-numatytą pareigą užsieniečiui turėti galiojantį kelionės dokumentą, netaikomos
-leidimo nuolat gyventi keitimo atveju.
+straipsnio 1 dalies nuostatos, išskyrus šio Įstatymo 6 straipsnio 1 dalyje numatytą
+pareigą užsieniečiui turėti galiojantį kelionės dokumentą, netaikomos leidimo
+nuolat gyventi keitimo atveju.
 6. Jeigu pirmą kartą išduodant leidimą gyventi nustatoma, kad kita
 Šengeno valstybė į centrinę Šengeno informacinę sistemą yra įtraukusi įspėjimą
 dėl užsieniečio neįsileidimo pagal Šengeno konvencijos nuostatas, Migracijos
 departamentas turi konsultuotis su šia Šengeno valstybe ir atsižvelgti į jos
 interesus. Leidimas gyventi gali būti išduodamas tik dėl humanitarinių
 priežasčių arba dėl tarptautinių įsipareigojimų.
-7. Migracijos departamentas
-konsultuoja kitas Šengeno valstybes dėl leidimo gyventi išdavimo tokiam
-užsieniečiui, kai įspėjimą dėl jo neįsileidimo yra pateikusi Lietuvos
+7. Migracijos
+departamentas konsultuoja kitas Šengeno valstybes dėl leidimo gyventi išdavimo
+tokiam užsieniečiui, kai įspėjimą dėl jo neįsileidimo yra pateikusi Lietuvos
 Respublika. Jeigu kita Šengeno valstybė po konsultacijų su Lietuvos Respublika
 užsieniečiui išduoda leidimą gyventi arba jeigu šis jau turi vienos iš
 susitariančiųjų šalių išduotą galiojantį leidimą gyventi, įspėjimas dėl
@@ -930,14 +959,14 @@ straipsnis. Nelydimi nepilnamečiai užsieniečiai
 Nelydimiems nepilnamečiams užsieniečiams, neatsižvelgiant į jų buvimo Lietuvos
 Respublikos teritorijoje teisėtumą, jų buvimo laikotarpiu Lietuvos Respublikos
 teisės aktų nustatyta tvarka turi būti nustatyta laikinoji globa (rūpyba).
-Nelydimo nepilnamečio užsieniečio laikinasis globėjas (rūpintojas) atstovauja nelydimo
-nepilnamečio užsieniečio interesams.
+Nelydimo nepilnamečio užsieniečio laikinasis globėjas (rūpintojas) atstovauja
+nelydimo nepilnamečio užsieniečio interesams.
 2.
 Nelydimi nepilnamečiai užsieniečiai, neatsižvelgiant į jų buvimo Lietuvos
 Respublikos teritorijoje teisėtumą, turi šias teises:
 1)
-būti aprūpinti nemokama gyvenamąja patalpa bei būti išlaikomi Lietuvos Respublikoje
-socialinės apsaugos ir darbo ministro nustatyta tvarka;
+būti aprūpinti nemokama gyvenamąja patalpa bei būti išlaikomi Lietuvos
+Respublikoje socialinės apsaugos ir darbo ministro nustatyta tvarka;
 2)
 mokytis bendrojo lavinimo ir profesinėse mokyklose švietimo ir mokslo ministro
 nustatyta tvarka;
@@ -1016,8 +1045,8 @@ XI-392,
  
 35 straipsnis. Atsisakymo
 išduoti ar pakeisti užsieniečiui leidimą gyventi pagrindai
-1. Išduoti ar
-pakeisti leidimą gyventi užsieniečiui atsisakoma, jeigu:
+1. Išduoti ar pakeisti
+leidimą gyventi užsieniečiui atsisakoma, jeigu:
 1) jo gyvenimas
 Lietuvos Respublikoje gali grėsti valstybės saugumui, viešajai tvarkai ar
 žmonių sveikatai;
@@ -1031,8 +1060,8 @@ partnerystė arba fiktyvus įvaikinimas;
 dėl neįsileidimo ir nėra pagrindo išduoti leidimą gyventi dėl humanitarinių
 priežasčių ar tarptautinių įsipareigojimų arba jis yra įtrauktas į užsieniečių,
 kuriems draudžiama atvykti į Lietuvos Respubliką, nacionalinį sąrašą;
-4) (neteko
-galios nuo 2008 m. vasario 23 d.);
+4) (neteko galios
+nuo 2008 m. vasario 23 d.);
 5) neturi
 pakankamai lėšų ir (ar) negauna reguliarių pajamų, kurių pakanka pragyventi
 Lietuvos Respublikoje. Šio Įstatymo 46 straipsnio 1 dalies 1 punkte numatytu
@@ -1060,14 +1089,14 @@ nusikaltimą arba vykdė genocidą, kaip jie apibrėžiami Lietuvos Respublikos
 laiką pakartotinai neįvykdė šio Įstatymo 36 straipsnio 1 dalyje nurodytų
 įsipareigojimų;
 10) užsienietis
-ir jo šeimos narys, kuris atvyko gyventi į Lietuvos Respubliką šeimos susijungimo
-pagrindu, daugiau negyvena palaikydami realius santuokinius ar šeimos
-santykius.
+ir jo šeimos narys, kuris atvyko gyventi į Lietuvos Respubliką šeimos
+susijungimo pagrindu, daugiau negyvena palaikydami realius santuokinius ar
+šeimos santykius.
 2. Užsienietis,
 kuriam atsisakyta išduoti ar pakeisti leidimą gyventi, gali pateikti prašymą
-išduoti leidimą gyventi praėjus ne mažiau kaip vieneriems metams nuo sprendimo atsisakyti
-išduoti ar pakeisti leidimą gyventi priėmimo ir išnykus priežastims, dėl kurių
-buvo atsisakyta išduoti ar pakeisti leidimą gyventi. 
+išduoti leidimą gyventi praėjus ne mažiau kaip vieneriems metams nuo sprendimo
+atsisakyti išduoti ar pakeisti leidimą gyventi priėmimo ir išnykus priežastims,
+dėl kurių buvo atsisakyta išduoti ar pakeisti leidimą gyventi. 
 3. (neteko
 galios).
 4. Šio
@@ -1120,10 +1149,10 @@ teismo paskirtą bausmę.
 Užsienio
 valstybės piliečiui, kuris turi teisę laikinai ar nuolat gyventi Lietuvos
 Respublikoje, tačiau neturi galiojančio užsienio valstybės piliečio paso ar jį
-atitinkančio kelionės dokumento arba jis yra pamestas ar sunaikintas, ir dėl
-objektyvių priežasčių negali jo gauti iš savo kilmės valstybės kompetentingų
-įstaigų, vidaus reikalų ministro nustatyta tvarka gali būti išduodamas
-užsieniečio pasas.
+atitinkančio kelionės dokumento arba jis yra pamestas ar sunaikintas, ir dėl objektyvių
+priežasčių negali jo gauti iš savo kilmės valstybės kompetentingų įstaigų,
+vidaus reikalų ministro nustatyta tvarka gali būti išduodamas užsieniečio
+pasas.
  
 38 straipsnis. Asmens be pilietybės kelionės
 dokumentas
@@ -1138,8 +1167,8 @@ straipsnis. Neteisėtas gyvenimas Lietuvos Respublikoje
 Užsieniečio
 gyvenimas Lietuvos Respublikoje laikomas neteisėtu, jeigu užsienietis:
 1) gyvena
-Lietuvos Respublikoje be leidimo gyventi, išskyrus atvejus, kai užsieniečiui šio
-Įstatymo nustatyta tvarka suteiktas laikinas teritorinis prieglobstis;
+Lietuvos Respublikoje be leidimo gyventi, išskyrus atvejus, kai užsieniečiui
+šio Įstatymo nustatyta tvarka suteiktas laikinas teritorinis prieglobstis;
 2) gyvena
 Lietuvos Respublikoje turėdamas negaliojantį leidimą gyventi; 
 3) gyvena
@@ -1193,8 +1222,8 @@ pilnamečiams užsieniečiams;
 13) jis ketina atlikti mokslinius tyrimus ir (arba)
 eksperimentinės plėtros darbus kaip tyrėjas pagal darbo sutartį, sudarytą su
 Lietuvos Respublikoje įregistruota mokslinių tyrimų įstaiga.
-2. Leidimas laikinai
-gyventi užsieniečio prašymu taip pat gali būti pakeistas, jeigu:
+2. Leidimas
+laikinai gyventi užsieniečio prašymu taip pat gali būti pakeistas, jeigu:
 1) užsienietis
 pakeičia asmens duomenis;
 2) leidimas
@@ -1258,15 +1287,14 @@ Respublikoje gyvena nepilnamečio užsieniečio tėvai ar vienas iš jų arba vi
 iš jų, globojančio nepilnametį užsienietį, sutuoktinis, kuris yra Lietuvos
 Respublikos pilietis arba turi leidimą gyventi;
 3) Lietuvos
-Respublikoje gyvena užsieniečio vaikas, kuris yra Lietuvos Respublikos
-pilietis;
+Respublikoje gyvena užsieniečio vaikas, kuris yra Lietuvos Respublikos pilietis;
 4) Lietuvos
 Respublikoje gyvena užsieniečio vaikas, kuriam suteiktas pabėgėlio statusas ir
 išduotas leidimas nuolat gyventi; 
 5) Lietuvos
 Respublikoje gyvena užsieniečio sutuoktinis arba asmuo, su kuriuo sudaryta
-registruotos partnerystės sutartis ir kuris yra Lietuvos Respublikos pilietis arba
-užsienietis, turintis leidimą gyventi;
+registruotos partnerystės sutartis ir kuris yra Lietuvos Respublikos pilietis
+arba užsienietis, turintis leidimą gyventi;
 6) jis yra
 užsieniečio, turinčio leidimą gyventi, pirmos eilės tiesiosios aukštutinės
 linijos giminaitis;
@@ -1395,9 +1423,9 @@ XI-392,
 46 straipsnis. Leidimo laikinai gyventi išdavimas
 užsieniečiui, kuris ketina mokytis
 1. Leidimas
-laikinai gyventi gali būti išduodamas užsieniečiui, kuris ketina studijuoti, mokytis,
-stažuoti, dalyvauti kvalifikacijos kėlimo kursuose ar profesiniuose mokymuose,
-jeigu jis: 
+laikinai gyventi gali būti išduodamas užsieniečiui, kuris ketina studijuoti,
+mokytis, stažuoti, dalyvauti kvalifikacijos kėlimo kursuose ar profesiniuose
+mokymuose, jeigu jis: 
 1) priimtas
 studijuoti į aukštojo mokslo įstaigos dienines nuosekliąsias studijas;
 2) priimtas
@@ -1513,11 +1541,11 @@ valstybės lėšomis.
 išduoti leidimą laikinai gyventi gali pateikti užsienietis arba mokslinių
 tyrimų įstaiga. 
 3. Užsieniečiui, kuris kaip tyrėjas ketina atlikti mokslinius tyrimus
-ir (arba) eksperimentinės plėtros darbus pagal darbo sutartį, sudarytą su mokslinių
-tyrimų įstaiga, leidimas laikinai gyventi išduodamas vieniems metams arba,
-jeigu tyrimų ir (arba) eksperimentinės plėtros darbų trukmė yra mažesnė negu
-vieni metai, mokslinių tyrimų ir (arba) eksperimentinės plėtros darbų vykdymo
-laikotarpiui.
+ir (arba) eksperimentinės plėtros darbus pagal darbo sutartį, sudarytą su
+mokslinių tyrimų įstaiga, leidimas laikinai gyventi išduodamas vieniems metams
+arba, jeigu tyrimų ir (arba) eksperimentinės plėtros darbų trukmė yra mažesnė
+negu vieni metai, mokslinių tyrimų ir (arba) eksperimentinės plėtros darbų
+vykdymo laikotarpiui.
 4. Užsienietis
 mokslinių tyrimų ir (arba) eksperimentinės plėtros darbų metu turi teisę dirbti
 aukštojoje mokykloje pedagoginį darbą Lietuvos Respublikos įstatymų nustatyta
@@ -1586,9 +1614,8 @@ leidimas laikinai gyventi;
 darbai arba pasibaigia užsieniečio darbo sutartis, sudaryta su mokslinių tyrimų
 įstaiga.
 2. Šio
-straipsnio 1 dalies 4–12, 16, 17 punktuose nustatytais pagrindais leidimas
-laikinai
-gyventi panaikinamas, jei tai buvo pagrindas gauti leidimą laikinai gyventi.
+straipsnio 1 dalies 4–12, 16, 17 punktuose nustatytais pagrindais leidimas laikinai gyventi
+panaikinamas, jei tai buvo pagrindas gauti leidimą laikinai gyventi.
 3. Jeigu
 užsieniečio leidimas laikinai gyventi panaikinamas, jo šeimos narių, gyvenančių
 kartu su juo, leidimas laikinai gyventi taip pat panaikinamas, išskyrus
@@ -1688,8 +1715,8 @@ Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ įgyvendinim
 2. Leidimas nuolat gyventi užsieniečio
 prašymu gali būti pakeistas, jeigu:
 1) užsienietis pakeičia asmens duomenis;
-2) leidimas nuolat gyventi tapo
-netinkamas naudoti;
+2) leidimas nuolat gyventi tapo netinkamas
+naudoti;
 3) pasibaigia leidimo nuolat gyventi
 galiojimas;
 4) leidime nuolat gyventi yra netikslių
@@ -1747,10 +1774,11 @@ Lietuvos Respublikoje gali grėsti valstybės saugumui ar viešajai tvarkai;
 gyvena ne Europos Sąjungos valstybėje narėje ilgiau negu 12 mėnesių iš eilės.
 2. (Neteko
 galios nuo 2006 m. gruodžio 16 d.)
-3. Jeigu užsieniečio
-leidimas nuolat gyventi panaikinamas, jo šeimos narių, gyvenančių kartu su juo,
-leidimas nuolat gyventi taip pat panaikinamas, išskyrus atvejus, kai jie turi
-teisę gyventi Lietuvos Respublikoje kitu šio Įstatymo nustatytu pagrindu.
+3. Jeigu
+užsieniečio leidimas nuolat gyventi panaikinamas, jo šeimos narių, gyvenančių
+kartu su juo, leidimas nuolat gyventi taip pat panaikinamas, išskyrus atvejus,
+kai jie turi teisę gyventi Lietuvos Respublikoje kitu šio Įstatymo nustatytu
+pagrindu.
 4. Užsienietis
 nepraranda teisės nuolat gyventi Lietuvos Respublikoje tik dėl to, kad jo
 turimo leidimo nuolat gyventi galiojimo laikas yra pasibaigęs.
@@ -1995,9 +2023,9 @@ pilnamečių šeimos narių.
 3. Nelydimam nepilnamečiui užsieniečiui pateikus
 prašymą suteikti prieglobstį, Lietuvos Respublikos įstatymų nustatyta tvarka
 nustatoma laikinoji globa. 
-4. Tvarką, reglamentuojančią užsieniečių prašymų suteikti
-prieglobstį nagrinėjimą, sprendimų priėmimą ir jų vykdymą, nustato vidaus
-reikalų ministras.
+4. Tvarką, reglamentuojančią užsieniečių prašymų
+suteikti prieglobstį nagrinėjimą, sprendimų priėmimą ir jų vykdymą, nustato
+vidaus reikalų ministras.
  
 68 straipsnis. Informacijos neatskleidimas
 1. Informacija, susijusi su prašymo suteikti
@@ -2026,8 +2054,8 @@ prieglobsčio prašytojo asmens ir jo daiktų apžiūrą Lietuvos Respublikos
 prieglobsčio prašytoją;
 5) paima
 prieglobsčio prašytojo pirštų atspaudus; 
-6)
-nufotografuoja prieglobsčio prašytoją. 
+6) nufotografuoja
+prieglobsčio prašytoją. 
 2. Prieglobsčio
 prašytojo asmens tapatybę patvirtinantys dokumentai lieka jo asmens byloje tol,
 kol nagrinėjamas jo prašymas suteikti prieglobstį. 
@@ -2074,8 +2102,8 @@ naudojimasis susijęs su prašymo suteikti prieglobstį nagrinėjimu;
 5) naudotis
 nemokamomis vertėjo paslaugomis;
 6) nemokamai
-gauti būtinąją medicinos pagalbą ir socialines paslaugas Užsieniečių registracijos
-centre arba Pabėgėlių priėmimo centre;
+gauti būtinąją medicinos pagalbą ir socialines paslaugas Užsieniečių
+registracijos centre arba Pabėgėlių priėmimo centre;
 7) socialinės apsaugos ir darbo ministro nustatyta
 tvarka kas mėnesį gauti piniginę pašalpą;
 8) kreiptis į Jungtinių Tautų vyriausiojo pabėgėlių
@@ -2100,8 +2128,8 @@ motyvų, savo asmenybės bei atvykimo ir buvimo Lietuvos Respublikoje aplinkybi�
 5) laisva forma
 raštu deklaruoti Užsieniečių registracijos centrui, Pabėgėlių priėmimo centrui
 ar teritorinei policijos įstaigai lėšas ir Lietuvos Respublikoje turimą turtą
-per 3 dienas nuo laikino teritorinio prieglobsčio Lietuvos Respublikoje
-suteikimo ir gaunamas lėšas prašymo suteikti prieglobstį Lietuvos Respublikoje
+per 3 dienas nuo laikino teritorinio prieglobsčio Lietuvos Respublikoje suteikimo
+ir gaunamas lėšas prašymo suteikti prieglobstį Lietuvos Respublikoje
 nagrinėjimo laikotarpiu per 1 dieną nuo jų gavimo dienos. 
 4. Šio
 straipsnio 1 ir 2 dalyse nustatytoms prieglobsčio prašytojų teisėms įgyvendinti
@@ -2204,8 +2232,8 @@ straipsnyje, priima sprendimus dėl laikino teritorinio prieglobsčio suteikimo
 teritorijoje tol, kol jo prašymas bus išnagrinėtas iš esmės ir priimtas
 galutinis sprendimas. 
 2. Laikinas
-teritorinis prieglobstis taip pat suteikiamas prieglobsčio prašytojui, kuris
-buvo grąžintas iš Europos Sąjungos valstybės narės Lietuvos Respublikai, kai
+teritorinis prieglobstis taip pat suteikiamas prieglobsčio prašytojui, kuris buvo
+grąžintas iš Europos Sąjungos valstybės narės Lietuvos Respublikai, kai
 Lietuvos Respublika yra atsakinga už prašymo suteikti prieglobstį nagrinėjimą.
 3. Sprendimas,
 nurodytas šio straipsnio 1 dalyje, priimamas per 48 valandas nuo prašymo
@@ -2238,10 +2266,35 @@ prieglobstį, jeigu, iš esmės išnagrinėjus jo prašymą suteikti prieglobst�
 paaiškėja, kad jis atvyko iš saugios kilmės valstybės arba pateikė akivaizdžiai
 nepagrįstą prašymą suteikti prieglobstį. Toks prieglobsčio prašytojas
 įpareigojamas išvykti iš Lietuvos Respublikos arba yra iš jos išsiunčiamas. 
-3. Šio straipsnio
-1 ir 2 dalys netaikomos nelydimam nepilnamečiui prieglobsčio prašytojui. Šio
-straipsnio 1 dalis taip pat netaikoma, kai nustatoma Europos Sąjungos valstybė
-narė, atsakinga už prašymo suteikti prieglobstį nagrinėjimą. 
+3. Šio
+straipsnio 1 ir 2 dalys netaikomos nelydimam nepilnamečiui prieglobsčio
+prašytojui. Šio straipsnio 1 dalis taip pat netaikoma, kai nustatoma Europos
+Sąjungos valstybė narė, atsakinga už prašymo suteikti prieglobstį nagrinėjimą. 
+Straipsnio redakcija nuo 2012-02-01:
+77 straipsnis. Priežastys, dėl kurių prieglobsčio
+prašytojas neįleidžiamas į Lietuvos Respublikos teritoriją ir nesuteikiamas
+laikinas teritorinis prieglobstis 
+1. Migracijos
+departamento sprendimu prieglobsčio prašytojui laikinas teritorinis
+prieglobstis nesuteikiamas ir jo prašymas suteikti prieglobstį iš esmės
+nenagrinėjamas, jeigu jis atvyko į Lietuvos Respubliką iš saugios trečiosios
+valstybės. Toks prieglobsčio prašytojas grąžinamas arba išsiunčiamas į
+saugią trečiąją valstybę.
+2. Migracijos
+departamento sprendimu prieglobsčio prašytojui nesuteikiamas pabėgėlio statusas
+ir papildoma apsauga, taip pat atsisakoma suteikti laikiną teritorinį
+prieglobstį, jeigu, iš esmės išnagrinėjus jo prašymą suteikti prieglobstį,
+paaiškėja, kad jis atvyko iš saugios kilmės valstybės arba pateikė akivaizdžiai
+nepagrįstą prašymą suteikti prieglobstį. Toks prieglobsčio prašytojas
+grąžinamas į užsienio valstybę arba išsiunčiamas iš Lietuvos
+Respublikos.
+3. Šio
+straipsnio 1 ir 2 dalys netaikomos nelydimam nepilnamečiui prieglobsčio
+prašytojui. Šio straipsnio 1 dalis taip pat netaikoma, kai nustatoma Europos
+Sąjungos valstybė narė, atsakinga už prašymo suteikti prieglobstį nagrinėjimą.
+Straipsnio pakeitimas:
+Nr. XI-1786,
+2011-12-08, Žin., 2011, Nr. 156-7384 (2011-12-22)
  
 78
 straipsnis. Užsieniečio registracijos pažymėjimo išdavimas
@@ -2331,11 +2384,11 @@ XI-392,
 supažindinimas su sprendimais
 1. Nagrinėjant iš esmės prieglobsčio prašytojo prašymą
 suteikti prieglobstį, prieglobsčio prašytojo apklausa turi būti atliekama
-nedalyvaujant jo šeimos nariams. Apklausos metu užtikrinama prieglobsčio prašytojo
-teisė į valstybės garantuojamą teisinę pagalbą, jeigu jis to pageidauja, ir
-teisė į vertėją. Apklausiant nepilnametį prieglobsčio prašytoją, turi dalyvauti
-teisėtas atstovas ar laikinas globėjas (rūpintojas) ir užtikrinama jo teisė į
-valstybės garantuojamą teisinę pagalbą. 
+nedalyvaujant jo šeimos nariams. Apklausos metu užtikrinama prieglobsčio
+prašytojo teisė į valstybės garantuojamą teisinę pagalbą, jeigu jis to
+pageidauja, ir teisė į vertėją. Apklausiant nepilnametį prieglobsčio prašytoją,
+turi dalyvauti teisėtas atstovas ar laikinas globėjas (rūpintojas) ir
+užtikrinama jo teisė į valstybės garantuojamą teisinę pagalbą. 
 2. Prieglobsčio
 prašytojas turi būti jam suprantama kalba supažindinamas su visais dėl jo
 priimtais sprendimais ir gauti jų kopijas. 
@@ -2346,8 +2399,8 @@ straipsnis. Įrodinėjimo priemonių leistinumas
 nagrinėjant prieglobsčio prašytojo prašymą suteikti prieglobstį nustatoma, jog
 su jo statuso nustatymu susiję duomenys, nepaisant prieglobsčio prašytojo
 nuoširdžių pastangų, negali būti patvirtinti rašytiniais įrodymais, šie
-duomenys vertinami prieglobsčio prašytojo naudai ir prašymas suteikti prieglobstį
-laikomas pagrįstu, jei prieglobsčio prašytojo paaiškinimai iš esmės
+duomenys vertinami prieglobsčio prašytojo naudai ir prašymas suteikti
+prieglobstį laikomas pagrįstu, jei prieglobsčio prašytojo paaiškinimai iš esmės
 neprieštaringi bei nuoseklūs ir neprieštarauja visuotinai žinomiems faktams.
 
 2. Šio
@@ -2360,10 +2413,9 @@ prašytojo nurodytų faktų, turinčių esminę įtaką prieglobsčiui suteikti.
 84 straipsnis. Prašymo suteikti prieglobstį
 nagrinėjimo sustabdymas ir atnaujinimas 
 1. Prieglobsčio
-prašytojo prašymo suteikti prieglobstį nagrinėjimas sustabdomas, jei
-prieglobsčio prašytojas be leidimo išvyksta iš Užsieniečių registracijos centro
-ar Pabėgėlių priėmimo centro arba negrįžta į šiuos centrus ilgiau kaip 24
-valandas. 
+prašytojo prašymo suteikti prieglobstį nagrinėjimas sustabdomas, jei prieglobsčio
+prašytojas be leidimo išvyksta iš Užsieniečių registracijos centro ar Pabėgėlių
+priėmimo centro arba negrįžta į šiuos centrus ilgiau kaip 24 valandas. 
 2. Prieglobsčio
 prašytojo, kuriam leista apsigyventi jo pasirinktoje vietoje, prašymo suteikti
 prieglobstį nagrinėjimas sustabdomas, jei per 72 valandas nėra galimybės su juo
@@ -2386,7 +2438,8 @@ paaiškinime, jei toks buvo gautas, nurodytų aplinkybių pagrįstumą dėl šio
 straipsnio 1 ir 2 dalyse nurodytų pasekmių atsiradimo ir nustatę, kad
 prieglobsčio prašytojas savo veiksmais ar neveikimu vilkina prašymo suteikti
 prieglobstį nagrinėjimą, teikia išvadą Migracijos departamentui, siūlydami pripažinti
-tokio prieglobsčio prašytojo prašymą suteikti prieglobstį akivaizdžiai nepagrįstu.
+tokio prieglobsčio prašytojo prašymą suteikti prieglobstį akivaizdžiai
+nepagrįstu.
 6. Sprendimą
 sustabdyti ar atnaujinti prieglobsčio prašytojo prašymo suteikti prieglobstį
 nagrinėjimą priima Migracijos departamentas. 
@@ -2425,9 +2478,9 @@ pateiktame prašyme suteikti prieglobstį nurodytos naujos aplinkybės.
 86
 straipsnis. Pabėgėlio statuso suteikimas
 1. Pabėgėlio
-statusas suteikiamas prieglobsčio prašytojui, kuris dėl visiškai pagrįstos
-baimės būti persekiojamas dėl rasės, religijos, tautybės, priklausymo tam
-tikrai socialinei grupei ar dėl politinių įsitikinimų yra už valstybės, kurios
+statusas suteikiamas prieglobsčio prašytojui, kuris dėl visiškai pagrįstos baimės
+būti persekiojamas dėl rasės, religijos, tautybės, priklausymo tam tikrai
+socialinei grupei ar dėl politinių įsitikinimų yra už valstybės, kurios
 pilietis jis yra, ribų ir negali ar bijo naudotis tos valstybės gynyba arba
 neturi atitinkamos užsienio valstybės pilietybės, yra už valstybės, kurioje
 buvo jo nuolatinė gyvenamoji vieta, ribų ir dėl išvardytų priežasčių negali ar
@@ -2438,7 +2491,7 @@ pabėgėlio statuso suteikimo arba nesuteikimo priima Migracijos departamentas.
  
 87
 straipsnis. Papildomos apsaugos suteikimas 
- 1. Papildoma
+1. Papildoma
 apsauga gali būti suteikta prieglobsčio prašytojui, kuris yra už savo kilmės
 valstybės ribų ir negali ten grįžti dėl visiškai pagrįstos baimės, kad:
 1) jis bus
@@ -2523,10 +2576,10 @@ aplinkybių, dėl kurių buvo pripažintas pabėgėliu Lietuvos Respublikoje;
 pilietybės neturintis asmuo gali grįžti į valstybę, kurioje buvo jo gyvenamoji
 vieta, nes jau nėra aplinkybių, dėl kurių buvo pripažintas pabėgėliu Lietuvos
 Respublikoje;
-7) pabėgėlio statusą
-Lietuvos Respublikoje gavo apgaulės būdu, išskyrus atvejus, kai jo pateikta
-informacija apie save neturėjo esminės įtakos priimant sprendimą suteikti jam
-pabėgėlio statusą Lietuvos Respublikoje;
+7) pabėgėlio
+statusą Lietuvos Respublikoje gavo apgaulės būdu, išskyrus atvejus, kai jo
+pateikta informacija apie save neturėjo esminės įtakos priimant sprendimą
+suteikti jam pabėgėlio statusą Lietuvos Respublikoje;
 8) gyvendamas
 Lietuvos Respublikoje, gali kelti grėsmę valstybės saugumui ar viešajai tvarkai
 arba įsiteisėjusiu teismo nuosprendžiu yra pripažintas kaltu dėl sunkaus ar
@@ -2628,8 +2681,8 @@ apsauga Lietuvos Respublikoje užsieniečiui nesuteikiama, jeigu:
 1) yra rimtas
 pagrindas manyti, kad užsienietis padarė nusikaltimą taikai, nusikaltimą
 žmoniškumui ar karo nusikaltimą ar vykdė genocidą, kaip jie apibrėžiami
-Lietuvos Respublikos įstatymuose, tarptautinėse sutartyse ir kituose tarptautinės
-teisės šaltiniuose;
+Lietuvos Respublikos įstatymuose, tarptautinėse sutartyse ir kituose
+tarptautinės teisės šaltiniuose;
 2) yra rimtas pagrindas manyti, kad užsienietis padarė
 sunkų nepolitinį nusikaltimą už Lietuvos Respublikos ribų prieš priimant jį į
 Lietuvos Respubliką kaip asmenį, kuris naudojasi laikinąja apsauga;
@@ -2694,9 +2747,9 @@ gydytojui patikrinti sveikatos būklę;
 visus turimus dokumentus ir tikrovę atitinkančią informaciją dėl savo asmens; 
 4) laisva forma
 raštu deklaruoti Užsieniečių registracijos centrui, Pabėgėlių priėmimo centrui
-ar teritorinei policijos įstaigai lėšas ir turimą Lietuvos Respublikoje turtą
-per 3 dienas nuo laikino teritorinio prieglobsčio Lietuvos Respublikoje
-suteikimo ir gaunamas lėšas prašymo suteikti prieglobstį Lietuvos Respublikoje
+ar teritorinei policijos įstaigai lėšas ir turimą Lietuvos Respublikoje turtą per
+3 dienas nuo laikino teritorinio prieglobsčio Lietuvos Respublikoje suteikimo
+ir gaunamas lėšas prašymo suteikti prieglobstį Lietuvos Respublikoje
 nagrinėjimo laikotarpiu per 1 dieną nuo jų gavimo dienos. 
 6. Šio
 straipsnio 1 ir 2 dalyse nustatytoms užsieniečių teisėms įgyvendinti skiriamos
@@ -2707,8 +2760,8 @@ nevyriausybinių organizacijų lėšos tiek, kiek prieglobsčio prašytojas nega
 garantuoti deklaruotinomis lėšomis ir turtu.
 7. Paaiškėjus, kad prieglobsčio prašytojas
 turėjo lėšų apmokėti šio straipsnio 1 ir 2 dalyse nustatytų teisių
-įgyvendinimą, kai jo pagrindiniai poreikiai buvo tenkinami nemokamai, jis privalo
-padengti valstybės turėtas išlaidas.
+įgyvendinimą, kai jo pagrindiniai poreikiai buvo tenkinami nemokamai, jis
+privalo padengti valstybės turėtas išlaidas.
  
 95 straipsnis. Asmens dokumentų išdavimas
 užsieniečiams, gavusiems laikinąją apsaugą Lietuvos Respublikoje
@@ -2758,9 +2811,9 @@ Sąjungos valstybės narės pilietis neįleidžiamas į Lietuvos Respubliką
 Europos Sąjungos
 valstybės narės pilietis neįleidžiamas į Lietuvos Respubliką, jeigu:
 1) neturi
-galiojančio kelionės dokumento, jeigu Lietuvos Respublikos tarptautinė
-sutartis, Europos Sąjungos teisės aktas arba Lietuvos Respublikos Vyriausybė
-nenustato kitaip;
+galiojančio kelionės dokumento, jeigu Lietuvos Respublikos tarptautinė sutartis,
+Europos Sąjungos teisės aktas arba Lietuvos Respublikos Vyriausybė nenustato
+kitaip;
 2) jo buvimas
 Lietuvos Respublikoje keltų grėsmę valstybės saugumui, viešajai tvarkai arba
 žmonių sveikatai.
@@ -2771,7 +2824,8 @@ straipsnis. Gyvenimas Lietuvos Respublikoje
 Sąjungos valstybės narės piliečiui, atvykusiam gyventi į Lietuvos Respubliką
 ilgiau negu 3 mėnesius per pusę metų ir atitinkančiam bent vieną iš šio
 Įstatymo 101 straipsnio 1 dalyje numatytų pagrindų, jo teisei gyventi Lietuvos
-Respublikoje patvirtinti išduodama vidaus reikalų ministro nustatytos formos pažyma.
+Respublikoje patvirtinti išduodama vidaus reikalų ministro nustatytos formos
+pažyma.
 2. Europos
 Sąjungos valstybės narės piliečio šeimos nariai, kurie nėra Europos Sąjungos
 valstybės narės piliečiai, atvykę gyventi į Lietuvos Respubliką ilgiau negu 3
@@ -2783,12 +2837,12 @@ gyventi Lietuvos Respublikoje patvirtinti išdavimą ir Europos Sąjungos leidim
 gyventi išdavimą, galiojimo pratęsimą ir panaikinimą Europos Sąjungos valstybės
 narės piliečio šeimos nariams, nustato vidaus reikalų ministras.
 4. Sprendimus
-dėl pažymos Europos Sąjungos valstybės narės piliečiui jo teisei gyventi
-Lietuvos Respublikoje patvirtinti išdavimo, Europos Sąjungos leidimų gyventi
-išdavimo, galiojimo pratęsimo ir panaikinimo priima ir pažymą Europos Sąjungos
-valstybės narės piliečiui jo teisei gyventi Lietuvos Respublikoje patvirtinti
-išduoda, Europos Sąjungos leidimus gyventi išduoda, pratęsia ir panaikina
-vidaus reikalų ministro įgaliotos institucijos.
+dėl pažymos Europos Sąjungos valstybės narės piliečiui jo teisei gyventi Lietuvos
+Respublikoje patvirtinti išdavimo, Europos Sąjungos leidimų gyventi išdavimo,
+galiojimo pratęsimo ir panaikinimo priima ir pažymą Europos Sąjungos valstybės
+narės piliečiui jo teisei gyventi Lietuvos Respublikoje patvirtinti išduoda,
+Europos Sąjungos leidimus gyventi išduoda, pratęsia ir panaikina vidaus reikalų
+ministro įgaliotos institucijos.
 Straipsnio pakeitimas:
 Nr. X-924, 2006-11-28,
 Žin., 2006, Nr. 137-5199 (2006-12-16)
@@ -2843,13 +2897,12 @@ registruotos partnerystės sutartis, išlaikomi vaikai ir Europos Sąjungos
 valstybės narės piliečio, jo sutuoktinio ar asmens, su kuriuo sudaryta
 registruotos partnerystės sutartis, išlaikomi giminaičiai pagal tiesiąją
 aukštutinę liniją.
-Straipsnio pakeitimas:
+Straipsnio pakeitimai:
 Nr. X-924, 2006-11-28,
 Žin., 2006, Nr. 137-5199 (2006-12-16)
 Nr.
 XI-392,
-2009-07-22, Žin., 2009, Nr. 93-3984 (2009-08-04)(papildyta nauja 3 dalimi,
-buvusi 3 dalis laikoma4 dalimi)
+2009-07-22, Žin., 2009, Nr. 93-3984 (2009-08-04)
  
 101(1) straipsnis. Teisės
 gyventi Lietuvos Respublikoje išsaugojimas Europos Sąjungos valstybės narės
@@ -2883,9 +2936,9 @@ piliečio) kaltės;
 Sąjungos valstybės narės piliečiui ar jam išvykus iš Lietuvos Respublikos – jo
 vaikams, neatsižvelgiant į jų pilietybę, ir juos globojančiam vienam iš tėvų
 iki vaikų pradėtos atitinkamos formaliojo švietimo programos pabaigos.
-2. Šio
-straipsnio 1 dalies 2 ir 4 punktuose nurodyti šeimos nariai, kreipdamiesi dėl
-teisės nuolat gyventi Lietuvos Respublikoje įgijimo, turi pateikti dokumentus,
+2. Šio straipsnio
+1 dalies 2 ir 4 punktuose nurodyti šeimos nariai, kreipdamiesi dėl teisės
+nuolat gyventi Lietuvos Respublikoje įgijimo, turi pateikti dokumentus,
 patvirtinančius šio Įstatymo 101 straipsnio 1 dalies 1 ir 2 punktuose
 nustatytus pagrindus.
 Įstatymas papildytas straipsniu:
@@ -3107,11 +3160,43 @@ sprendimų dėl trečiųjų šalių piliečių išsiuntimo pripažinimo;
 užkirsti kelią pavojingoms ar ypač pavojingoms užkrečiamosioms ligoms plisti;
 7) kai užsieniečio buvimas Lietuvos Respublikoje kelia grėsmę
 valstybės saugumui, viešajai tvarkai arba žmonių sveikatai.
+Straipsnio redakcija nuo 2012-02-01:
+113
+straipsnis. Užsieniečio sulaikymo pagrindai
+1. Užsienietis
+gali būti sulaikytas šiais pagrindais: 
+1) kad
+užsienietis negalėtų be leidimo atvykti į Lietuvos Respubliką; 
+2) kai
+užsienietis neteisėtai atvyko į Lietuvos Respubliką ar neteisėtai joje yra,
+išskyrus atvejus, kai jis yra pateikęs prašymą suteikti prieglobstį Lietuvos
+Respublikoje;
+3) kai siekiama
+užsienietį, kuris neįleidžiamas į Lietuvos Respubliką, grąžinti į valstybę, iš
+kurios jis atvyko; 
+4) kai įtariama,
+kad užsienietis naudojasi suklastotais dokumentais;
+5) kai priimamas
+sprendimas užsienietį išsiųsti iš Lietuvos Respublikos arba iš kitos valstybės,
+kuriai taikoma 2001 m. gegužės 28 d. Tarybos direktyva 2001/40/EB dėl abipusio
+sprendimų dėl trečiųjų šalių piliečių išsiuntimo pripažinimo;
+6) kai siekiama
+užkirsti kelią pavojingoms ar ypač pavojingoms užkrečiamosioms ligoms plisti;
+7) kai užsieniečio buvimas Lietuvos Respublikoje kelia grėsmę
+valstybės saugumui, viešajai tvarkai arba žmonių sveikatai.
+2. Kai
+sprendžiama dėl užsieniečio grąžinimo į užsienio valstybę, išsiuntimo iš
+Lietuvos Respublikos arba įpareigojimo užsieniečiui išvykti iš Lietuvos
+Respublikos, užsienietis gali būti sulaikytas tik tuo atveju, jeigu sulaikymas
+būtinas atitinkamam sprendimui priimti ar vykdyti (jeigu užsienietis trukdo
+priimti ar vykdyti sprendimą, gali pasislėpti vengdamas išsiuntimo ir pan.).
 Straipsnio pakeitimai:
 Nr. X-924, 2006-11-28,
 Žin., 2006, Nr. 137-5199 (2006-12-16)
 Nr. X-1442,
 2008-02-01, Žin., 2008, Nr. 22-803 (2008-02-22)
+Nr. XI-1786,
+2011-12-08, Žin., 2011, Nr. 156-7384 (2011-12-22)
  
 114
 straipsnis. Užsieniečio sulaikymas
@@ -3124,6 +3209,29 @@ centre.
 3. Užsienietis,
 kuriam nesukako 18 metų, gali būti sulaikytas tik kraštutiniu atveju,
 atsižvelgiant į geriausius jo interesus.
+Straipsnio redakcija nuo 2012-02-01:
+114
+straipsnis. Užsieniečio sulaikymas
+1.
+Policijos ar kitos teisėsaugos institucijos pareigūnas turi teisę sulaikyti
+užsienietį ne ilgiau kaip 48 valandoms. 
+2. Ilgiau kaip
+48 valandoms užsienietis teismo sprendimu sulaikomas Užsieniečių registracijos
+centre.
+3. Pažeidžiami
+asmenys ir šeimos, kuriose yra nepilnamečių užsieniečių, gali būti sulaikyti
+tik ypatingu atveju, atsižvelgiant į geriausius vaiko ir pažeidžiamų asmenų
+interesus.
+4. Užsienietis
+negali būti sulaikomas ilgiau kaip 6 mėnesiams, išskyrus atvejus, kai jis
+nebendradarbiauja siekiant jį išsiųsti iš Lietuvos Respublikos (atsisako
+pateikti apie save duomenis, teikia klaidinančią informaciją ir pan.) arba
+negaunami reikiami dokumentai tokio užsieniečio išsiuntimui iš valstybės
+teritorijos įvykdyti. Šiais atvejais sulaikymo terminas gali būti pratęstas
+papildomam, ne ilgesniam kaip 12 mėnesių, laikotarpiui.
+Straipsnio pakeitimas:
+Nr. XI-1786,
+2011-12-08, Žin., 2011, Nr. 156-7384 (2011-12-22)
  
 115
 straipsnis. Alternatyvios sulaikymui priemonės 
@@ -3135,8 +3243,9 @@ sprendimą nesulaikyti užsieniečio ir skirti jam alternatyvią sulaikymui
 priemonę.
 2. Alternatyvios
 sulaikymui priemonės yra:
-1) užsienietis nustatytu
-laiku periodiškai turi atvykti į atitinkamą teritorinę policijos įstaigą; 
+1) užsienietis
+nustatytu laiku periodiškai turi atvykti į atitinkamą teritorinę policijos
+įstaigą; 
 2) užsienietis
 ryšio priemonėmis nustatytu laiku turi pranešti atitinkamai teritorinės
 policijos įstaigai apie savo buvimo vietą; 
@@ -3157,9 +3266,9 @@ teismą su teikimu sulaikyti užsienietį.
 4. Priimant
 sprendimą skirti alternatyvią sulaikymui priemonę, turi būti nustatytas jos
 taikymo terminas.
-5. Šio
-straipsnio 2 dalies 5 punkte nurodyta alternatyvi sulaikymui priemonė gali būti
-skirta tik prieglobsčio prašytojams.
+5. Šio straipsnio
+2 dalies 5 punkte nurodyta alternatyvi sulaikymui priemonė gali būti skirta tik
+prieglobsčio prašytojams.
 Straipsnio pakeitimas:
 Nr. X-924, 2006-11-28,
 Žin., 2006, Nr. 137-5199 (2006-12-16)
@@ -3168,13 +3277,13 @@ Nr. X-924, 2006-11-28,
 sulaikyti užsienietį arba skirti jam alternatyvią sulaikymui priemonę 
 1. Jeigu yra šio
 Įstatymo nustatytas užsieniečio sulaikymo pagrindas, su teikimu sulaikyti
-užsienietį ilgiau negu 48 valandoms arba skirti jam alternatyvią sulaikymui priemonę
-į apylinkės teismą pagal užsieniečio buvimo Lietuvos Respublikos teritorijoje
-vietą kreipiasi policijos ar kitos teisėsaugos institucijos pareigūnas per 48
-valandas nuo užsieniečio sulaikymo momento. Užsieniečio dalyvavimas teismo
-posėdyje yra būtinas. Teikimo sulaikyti užsienietį arba skirti jam alternatyvią
-sulaikymui priemonę nagrinėjimo teisme metu jis turi teisę į Lietuvos valstybės
-garantuojamą teisinę pagalbą.
+užsienietį ilgiau negu 48 valandoms arba skirti jam alternatyvią sulaikymui
+priemonę į apylinkės teismą pagal užsieniečio buvimo Lietuvos Respublikos
+teritorijoje vietą kreipiasi policijos ar kitos teisėsaugos institucijos
+pareigūnas per 48 valandas nuo užsieniečio sulaikymo momento. Užsieniečio
+dalyvavimas teismo posėdyje yra būtinas. Teikimo sulaikyti užsienietį arba
+skirti jam alternatyvią sulaikymui priemonę nagrinėjimo teisme metu jis turi
+teisę į Lietuvos valstybės garantuojamą teisinę pagalbą.
 2. Teismas šio
 straipsnio 1 dalyje nurodytą teikimą nagrinėja Administracinių bylų teisenos
 įstatymo ir šio Įstatymo nustatyta tvarka. 
@@ -3248,9 +3357,9 @@ institucijos pareigūnas turi teisę laikinai paimti užsieniečio kelionės
 dokumentą, kelionės bilietus, kitus dokumentus (jei užsienietis juos turi), iki
 bus nustatyta užsieniečio asmens tapatybė ir dokumentų tikrumas. 
 2. Nustatydamas
-užsieniečio asmens tapatybę, policijos ar kitos teisėsaugos institucijos pareigūnas
-turi teisę atlikti asmens apžiūrą ir patikrinti daiktus Lietuvos Respublikos
-įstatymų nustatyta tvarka. 
+užsieniečio asmens tapatybę, policijos ar kitos teisėsaugos institucijos
+pareigūnas turi teisę atlikti asmens apžiūrą ir patikrinti daiktus Lietuvos
+Respublikos įstatymų nustatyta tvarka. 
 3. Sulaikyto
 užsieniečio duomenys gali būti perduodami užsienio valstybei jo asmens
 tapatybės nustatymo tikslu vadovaujantis Lietuvos Respublikos įstatymais ir
@@ -3292,10 +3401,11 @@ nustatymo tyrimas
 departamentas, kai yra pagrįstų abejonių dėl užsieniečio amžiaus, gali
 įpareigoti užsienietį, kuris prašo išduoti leidimą gyventi arba prašo suteikti
 prieglobstį, atlikti amžiaus nustatymo tyrimą.
-2. Amžiaus nustatymo
-tyrimas turi būti atliktas užsieniečio, kurio amžius nustatomas, sutikimu.
-Jeigu nustatomas nepilnamečio užsieniečio amžius, tyrimas atliekamas tik gavus
-jo tėvų, kitų teisėtų atstovų arba laikino globėjo (rūpintojo) sutikimą.
+2. Amžiaus
+nustatymo tyrimas turi būti atliktas užsieniečio, kurio amžius nustatomas,
+sutikimu. Jeigu nustatomas nepilnamečio užsieniečio amžius, tyrimas atliekamas
+tik gavus jo tėvų, kitų teisėtų atstovų arba laikino globėjo (rūpintojo)
+sutikimą.
 3. Jeigu
 užsienietis nesutinka atlikti amžiaus nustatymo tyrimo, laikoma, kad jis
 neatitinka šio Įstatymo 26 straipsnio 1 dalyje keliamų sąlygų.
@@ -3349,12 +3459,39 @@ dalyse nustatytą užsieniečiams buvimo be vizos laiką;
 7) į Lietuvos
 Respubliką jis atvyko turėdamas kitos Šengeno valstybės išduotą vizą, kuri
 nesuteikia jam teisės būti Lietuvos Respublikos teritorijoje.
+Straipsnio redakcija nuo 2012-02-01:
+125 straipsnis. Grąžinimas į užsienio valstybę ir
+įpareigojimas išvykti iš Lietuvos Respublikos
+1. Sprendimas
+grąžinti užsienietį į užsienio valstybę priimamas, kai:
+1) jam
+panaikinta viza; 
+2) jam
+panaikintas leidimas laikinai gyventi arba leidimas nuolat gyventi; 
+3) jis yra
+Lietuvos Respublikoje pasibaigus vizos galiojimui; 
+4) jis gyvena
+Lietuvos Respublikoje pasibaigus leidimo laikinai gyventi galiojimui; 
+5) į Lietuvos
+Respubliką jis atvyko teisėtai, tačiau gyvena Lietuvos Respublikoje be leidimo
+laikinai gyventi ar leidimo nuolat gyventi, jeigu privalo jį turėti;
+6) jis yra
+Lietuvos Respublikoje laikotarpį, ilgesnį už šio Įstatymo 11 straipsnio 2, 4, 5,
+7 dalyse nustatytą užsieniečiams buvimo be vizos laiką.
+2. Jeigu yra
+bent vienas iš šio straipsnio 1 dalyje nustatytų grąžinimo į užsienio valstybę
+pagrindų, tačiau užsienietis turi galiojantį kitos Europos Sąjungos ar Europos
+laisvosios prekybos asociacijos valstybės narės išduotą dokumentą, suteikiantį
+teisę joje būti ar gyventi, užsienietis yra įpareigojamas išvykti iš Lietuvos
+Respublikos.
 Straipsnio pakeitimai:
 Nr. X-1442,
 2008-02-01, Žin., 2008, Nr. 22-803 (2008-02-22)
 Nr.
 XI-392,
 2009-07-22, Žin., 2009, Nr. 93-3984 (2009-08-04)
+Nr. XI-1786,
+2011-12-08, Žin., 2011, Nr. 156-7384 (2011-12-22)
  
 126
 straipsnis. Išsiuntimo iš Lietuvos Respublikos pagrindai
@@ -3376,9 +3513,32 @@ grąžinami į kilmės ar užsienio valstybę arba kurie yra prieglobsčio praš
 Tokie užsieniečiai grąžinami pagal šio Įstatymo 129 straipsnio nuostatas.
 3. (Neteko
 galios nuo Šengeno konvencijos įsigaliojimo Lietuvos Respublikai dienos.)
+Straipsnio redakcija nuo 2012-02-01:
+126
+straipsnis. Išsiuntimas iš Lietuvos Respublikos 
+1. Užsienietis
+išsiunčiamas iš Lietuvos Respublikos, jeigu: 
+1) jis per nustatytą laiką neįvykdė
+įpareigojimo išvykti iš Lietuvos Respublikos arba savanoriškai neišvyko iš
+Lietuvos Respublikos per sprendime grąžinti jį į užsienio valstybę nustatytą
+laiką;
+2) jis neteisėtai atvyko į Lietuvos
+Respubliką ar neteisėtai joje yra ir nėra šio Įstatymo 125 straipsnyje
+nustatytų pagrindų, dėl kurių užsienietis įpareigojamas išvykti iš Lietuvos
+Respublikos arba priimamas sprendimas grąžinti jį į užsienio valstybę;
+3) jo buvimas
+Lietuvos Respublikoje gresia valstybės saugumui arba viešajai tvarkai;
+4) priimtas
+sprendimas jį išsiųsti iš kitos valstybės, kuriai taikoma 2001 m. gegužės 28 d. Tarybos direktyva 2001/40/EB dėl abipusio sprendimų dėl trečiųjų šalių
+piliečių išsiuntimo pripažinimo.
+2. Tarptautinių
+ir nevyriausybinių organizacijų atstovai gali stebėti užsieniečio išsiuntimą iš
+Lietuvos Respublikos.
 Straipsnio pakeitimai:
-Nr. X-1442,
-2008-02-01, Žin., 2008, Nr. 22-803 (2008-02-22)
+Nr. X-1442, 2008-02-01,
+Žin., 2008, Nr. 22-803 (2008-02-22)
+Nr. XI-1786,
+2011-12-08, Žin., 2011, Nr. 156-7384 (2011-12-22)
  
 127 straipsnis. Sprendimų dėl įpareigojimo išvykti, išsiuntimo,
 grąžinimo bei vykimo tranzitu per Lietuvos Respublikos teritoriją vykdymo
@@ -3415,24 +3575,88 @@ sprendimus įgyvendina policija arba Valstybės sienos apsaugos tarnyba.
 reglamentuojančią sprendimų dėl užsieniečio įpareigojimo išvykti, išsiuntimo,
 grąžinimo ir vykimo tranzitu per Lietuvos Respublikos teritoriją priėmimą ir jų
 vykdymą, nustato vidaus reikalų ministras. 
-Straipsnio pakeitimas:
+Straipsnio redakcija nuo 2012-02-01:
+127 straipsnis. Sprendimų dėl įpareigojimo išvykti,
+išsiuntimo, grąžinimo ir vykimo tranzitu per Lietuvos Respublikos teritoriją
+vykdymo terminai ir tvarka
+1. Sprendime
+grąžinti užsienietį į užsienio valstybę, įvertinus užsieniečio galimybes kuo
+greičiau išvykti, nustatomas nuo 7 iki 30 dienų terminas, kuris skaičiuojamas
+nuo sprendimo įteikimo užsieniečiui dienos ir per kurį užsienietis
+įpareigojamas savanoriškai išvykti iš Lietuvos Respublikos. Kai dėl nuo
+užsieniečio nepriklausančių objektyvių priežasčių jis per nustatytą terminą
+negali savanoriškai išvykti, šis terminas gali būti pratęstas.
+2. Sprendimas
+dėl užsieniečio išsiuntimo iš Lietuvos Respublikos privalo būti įvykdytas
+nedelsiant, jeigu nėra aplinkybių, dėl kurių sprendimo vykdymas gali būti
+atidėtas. 
+3. Įpareigojime
+išvykti iš Lietuvos Respublikos nustatomas ne ilgesnis kaip30 dienų terminas,
+per kurį užsienietis privalo išvykti iš Lietuvos Respublikos.
+4. Sprendimą dėl
+užsieniečio įpareigojimo išvykti iš Lietuvos Respublikos pagal kompetenciją
+priima ir jo įvykdymą kontroliuoja policija ir Valstybės sienos apsaugos
+tarnyba.
+5. Sprendimą dėl
+užsieniečio išsiuntimo šio Įstatymo 126 straipsnio 1 dalies 1 ir 2 punktuose
+nustatytais pagrindais ir sprendimą dėl vykdymo galimumo šio Įstatymo 126
+straipsnio 1 dalies 4 punkte nustatytu pagrindu priima Migracijos
+departamentas, sprendimą šio Įstatymo 126 straipsnio 1 dalies 3 punkte
+nustatytu pagrindu – Vilniaus apygardos administracinis teismas, o juos vykdo
+Valstybės sienos apsaugos tarnyba arba policija. Vykdydamos priimtą sprendimą
+šio Įstatymo 126 straipsnio 1 dalies 4 punkte nustatytu pagrindu, nurodytos
+institucijos dėl sprendimo vykdymo konsultuojasi su sprendimą užsienietį
+išsiųsti priėmusia valstybe.
+6. Sprendimą dėl
+užsieniečio grąžinimo ar jo vykimo tranzitu per Lietuvos Respublikos teritoriją
+priima Migracijos departamentas, policija arba Valstybės sienos apsaugos
+tarnyba, o sprendimus įgyvendina policija arba Valstybės sienos apsaugos
+tarnyba.
+7. Tvarką,
+reglamentuojančią, sprendimų dėl užsieniečio įpareigojimo išvykti, išsiuntimo
+iš Lietuvos Respublikos, grąžinimo į užsienio valstybę ir vykimo
+tranzitu per Lietuvos Respublikos teritoriją priėmimą ir jų vykdymą, nustato
+vidaus reikalų ministras.
+Straipsnio pakeitimai:
 Nr. X-924, 2006-11-28,
 Žin., 2006, Nr. 137-5199 (2006-12-16)
+Nr. XI-1786,
+2011-12-08, Žin., 2011, Nr. 156-7384 (2011-12-22)
  
 128 straipsnis. Aplinkybės, į kurias atsižvelgiama priimant sprendimą
 išsiųsti užsienietį arba dėl kurių sprendimo dėl užsieniečio išsiuntimo iš
 Lietuvos Respublikos vykdymas sustabdomas
+Pavadinimo redakcija nuo 2012-02-01:
+128 straipsnis. Aplinkybės, į kurias atsižvelgiama
+priimant įpareigojimą išvykti iš Lietuvos Respublikos, sprendimą grąžinti
+užsienietį į užsienio valstybę ar išsiųsti užsienietį iš Lietuvos Respublikos
+arba dėl kurių sprendimo išsiųsti užsienietį iš Lietuvos Respublikos vykdymas
+sustabdomas
 1.
 Priimant sprendimą išsiųsti užsienietį iš Lietuvos Respublikos, atsižvelgiama į
 jo: 
 1) teisėto
 buvimo Lietuvos Respublikoje laiką; 
-2) šeiminius
-ryšius su asmenimis, gyvenančiais Lietuvos Respublikoje; 
+2) šeiminius ryšius
+su asmenimis, gyvenančiais Lietuvos Respublikoje; 
 3) esamus
 socialinius, ekonominius ir kitus ryšius su Lietuvos Respublika; 
 4) padaryto teisės
 pažeidimo pavojingumo pobūdį ir mastą.
+1 dalies redakcija nuo 2012-02-01:
+1. Priimant
+įpareigojimą išvykti iš Lietuvos Respublikos, sprendimą grąžinti užsienietį į
+užsienio valstybę arba išsiųsti užsienietį iš Lietuvos Respublikos,
+atsižvelgiama į jo:
+1) teisėto
+buvimo Lietuvos Respublikoje laiką;
+2) šeiminius
+ryšius su asmenimis, gyvenančiais Lietuvos Respublikoje;
+3) esamus
+socialinius, ekonominius ir kitus ryšius su Lietuvos Respublika;
+4)
+padaryto teisės pažeidimo pavojingumo pobūdį ir mastą.
+ 
 2. Sprendimo dėl
 užsieniečio išsiuntimo iš Lietuvos Respublikos vykdymas sustabdomas, jeigu: 
 1) sprendimas
@@ -3450,6 +3674,9 @@ dokumento, nėra galimybės gauti kelionės bilietų ir kita).
 3. Išnykus
 priežastims, nurodytoms šio straipsnio 2 dalyje, sprendimas dėl užsieniečio
 išsiuntimo iš Lietuvos Respublikos privalo būti įvykdytas nedelsiant.
+Straipsnio pakeitimas:
+Nr. XI-1786,
+2011-12-08, Žin., 2011, Nr. 156-7384 (2011-12-22)
  
 129
 straipsnis. Grąžinimas
@@ -3468,6 +3695,25 @@ straipsnio 1 dalies 8 punkte nustatytu pagrindu.
 4. Sprendžiant
 užsieniečio grąžinimo klausimą, bendradarbiaujama su užsienio valstybėmis ir
 tarptautinėmis organizacijomis pagal sudarytas tarptautines sutartis.
+Straipsnio redakcija nuo 2012-02-01:
+129 straipsnis. Nelydimų nepilnamečių užsieniečių
+grąžinimas į užsienio valstybę 
+1. Nelydimas
+nepilnametis užsienietis, kuris yra neteisėtai Lietuvos Respublikos
+teritorijoje ar neteisėtai joje gyvena, grąžinamas tik tuo atveju, jeigu
+užsienio valstybėje, į kurią yra grąžinamas, jis bus tinkamai prižiūrimas,
+atsižvelgiant į jo poreikius, amžių ir savarankiškumo lygį. 
+2. Jeigu
+nelydimo nepilnamečio užsieniečio negalima grąžinti į kilmės ar kitą valstybę,
+jam turi būti suteikta teisė gyventi Lietuvos Respublikoje šio Įstatymo 40
+straipsnio 1 dalies 8 punkte nustatytu pagrindu.
+3. Sprendžiant
+nelydimo nepilnamečio užsieniečio grąžinimo klausimą, bendradarbiaujama su
+užsienio valstybėmis ir tarptautinėmis organizacijomis pagal sudarytas
+tarptautines sutartis.
+Straipsnio pakeitimas:
+Nr. XI-1786,
+2011-12-08, Žin., 2011, Nr. 156-7384 (2011-12-22)
  
 130
 straipsnis. Draudimas išsiųsti arba grąžinti užsienietį 
@@ -3489,9 +3735,9 @@ nusikaltimo ir kelia grėsmę visuomenei.
 4. Užsienietis
 neišsiunčiamas iš Lietuvos Respublikos arba negrąžinamas į užsienio valstybę,
 jeigu jam Lietuvos Respublikos Vyriausybės nustatyta tvarka yra suteiktas
-apsisprendimo laikotarpis, per kurį jis, kaip esanti ar buvusi su prekyba
-žmonėmis susijusių nusikaltimų auka, turi priimti sprendimą, ar bendradarbiauti
-su ikiteisminio tyrimo įstaiga ar su teismu.
+apsisprendimo laikotarpis, per kurį jis, kaip esanti ar buvusi su prekyba žmonėmis
+susijusių nusikaltimų auka, turi priimti sprendimą, ar bendradarbiauti su
+ikiteisminio tyrimo įstaiga ar su teismu.
 Straipsnio pakeitimas:
 Nr. X-924, 2006-11-28,
 Žin., 2006, Nr. 137-5199 (2006-12-16)
@@ -3504,8 +3750,8 @@ valstybę, į kurią jis turi teisę vykti:
 1) savo lėšomis;
 2) fizinių ar
 juridinių asmenų, kurių jis buvo pakviestas į Lietuvos Respubliką, lėšomis;
-3) vežėjų lėšomis
-Lietuvos Respublikos įstatymų nustatytais atvejais.
+3) vežėjų
+lėšomis Lietuvos Respublikos įstatymų nustatytais atvejais.
 2. Jei nėra
 lėšų, nurodytų šio straipsnio 1 dalyje, užsienietis iš Lietuvos Respublikos
 išsiunčiamas arba grąžinamas valstybės lėšomis. Šios valstybės lėšos teisės
@@ -3530,20 +3776,34 @@ užsieniečiui, kurio išsiuntimas iš Lietuvos Respublikos yra sustabdytas
 Jeigu
 užsieniečio išsiuntimas iš Lietuvos Respublikos yra sustabdytas dėl šio
 Įstatymo 128 straipsnio 2 dalies 2–4 punktuose numatytų aplinkybių ir
-šios aplinkybės per vienerius metus nuo sprendimo išsiųsti užsienietį iš Lietuvos
-Respublikos vykdymo sustabdymo neišnyko, jam išduodamas leidimas laikinai
-gyventi šio Įstatymo 40 straipsnio 1 dalies 8 punkte nustatytu pagrindu.
-Straipsnio pakeitimas:
+šios aplinkybės per vienerius metus nuo sprendimo išsiųsti užsienietį iš
+Lietuvos Respublikos vykdymo sustabdymo neišnyko, jam išduodamas leidimas
+laikinai gyventi šio Įstatymo 40 straipsnio 1 dalies 8 punkte nustatytu
+pagrindu.
+Straipsnio redakcija nuo 2012-02-01:
+132 straipsnis. Leidimo laikinai gyventi
+išdavimas užsieniečiui, kurio išsiuntimas iš Lietuvos Respublikos yra
+sustabdytas
+Jeigu
+užsieniečio išsiuntimas iš Lietuvos Respublikos yra sustabdytas dėl šio
+Įstatymo 128 straipsnio 2 dalies 2, 3 ir 4 punktuose numatytų aplinkybių, šios
+aplinkybės per vienerius metus nuo sprendimo išsiųsti užsienietį iš Lietuvos
+Respublikos vykdymo sustabdymo neišnyko ir užsienietis nėra sulaikytas, jam
+išduodamas leidimas laikinai gyventi šio Įstatymo 40 straipsnio 1 dalies 8
+punkte nustatytu pagrindu.
+Straipsnio pakeitimai:
 Nr. X-924, 2006-11-28,
 Žin., 2006, Nr. 137-5199 (2006-12-16)
+Nr. XI-1786,
+2011-12-08, Žin., 2011, Nr. 156-7384 (2011-12-22)
  
 133
 straipsnis. Draudimas atvykti į Lietuvos Respubliką
 1. Užsieniečiui,
 kuriam buvo atsisakyta išduoti vizą ar ji buvo panaikinta arba buvo atsisakyta
-išduoti leidimą gyventi ar jis buvo panaikintas, kuris buvo neįleistas į
-Lietuvos Respubliką, įpareigotas išvykti, išsiųstas iš Lietuvos Respublikos
-arba grąžintas į kilmės ar užsienio valstybę, kuris bandė neteisėtai išvykti iš
+išduoti leidimą gyventi ar jis buvo panaikintas, kuris buvo neįleistas į Lietuvos
+Respubliką, įpareigotas išvykti, išsiųstas iš Lietuvos Respublikos arba
+grąžintas į kilmės ar užsienio valstybę, kuris bandė neteisėtai išvykti iš
 Lietuvos Respublikos arba išvyko iš jos, kurio atvykimas į Lietuvos Respubliką
 ir buvimas joje grėstų valstybės saugumui ar viešajai tvarkai, gali būti
 uždrausta atvykti į Lietuvos Respubliką apibrėžtą arba neapibrėžtą laiką.
@@ -3558,9 +3818,37 @@ Migracijos departamentas Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 4. Sprendimą
 uždrausti (neuždrausti) užsieniečiui atvykti į Lietuvos Respubliką priima
 Migracijos departamentas.
+Straipsnio redakcija nuo 2012-02-01:
+133
+straipsnis. Draudimas atvykti į Lietuvos Respubliką
+1. Užsieniečiui,
+kuriam buvo atsisakyta išduoti vizą ar ji buvo panaikinta arba buvo atsisakyta
+išduoti leidimą gyventi ar jis buvo panaikintas ir kuris buvo neįleistas į
+Lietuvos Respubliką, įpareigotas išvykti, grąžintas į kilmės ar užsienio
+valstybę, bandė neteisėtai išvykti iš Lietuvos Respublikos arba išvyko iš jos,
+gali būti uždrausta atvykti į Lietuvos Respubliką ne ilgesniam kaip 5 metų
+laikotarpiui.
+2. Užsieniečiui,
+kuris savanoriškai išvyko iš Lietuvos Respublikos ir turi neįvykdytų prievolių
+Lietuvos Respublikai arba piktnaudžiauja savanoriško išvykimo iš Lietuvos
+Respublikos galimybe ar buvo išsiųstas iš Lietuvos Respublikos, uždraudžiama
+atvykti į Lietuvos Respubliką ne ilgesniam kaip 5 metų laikotarpiui.
+3. Užsieniečiui
+gali būti uždrausta atvykti į Lietuvos Respubliką ilgesniam kaip 5 metų
+laikotarpiui, jeigu jis gali kelti grėsmę valstybės saugumui ar viešajai
+tvarkai.
+4. Užsieniečių,
+kuriems draudžiama atvykti į Lietuvos Respubliką, nacionalinį sąrašą sudaro,
+tvarko ir duomenis iš šio sąrašo centrinei Šengeno informacinei sistemai teikia
+Migracijos departamentas Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+5. Sprendimą
+uždrausti (neuždrausti) užsieniečiui atvykti į Lietuvos Respubliką priima
+Migracijos departamentas.
 Straipsnio pakeitimai:
 Nr. X-1442,
 2008-02-01, Žin., 2008, Nr. 22-803 (2008-02-22)
+Nr. XI-1786,
+2011-12-08, Žin., 2011, Nr. 156-7384 (2011-12-22)
  
 134 straipsnis. Užsieniečio perdavimas tranzitu per
 Lietuvos Respublikos teritoriją
@@ -3662,6 +3950,22 @@ nutraukiamas prašymo suteikti prieglobstį nagrinėjimas arba suteiktas
 prieglobstis panaikinamas;
 4) užsienietis
 išsiunčiamas iš Lietuvos Respublikos.
+1 dalies redakcija nuo 2012-02-01:
+1. Apskųsto
+sprendimo vykdymas sustabdomas, kai:
+1) panaikinamas
+užsieniečio leidimas gyventi;
+2) užsieniečiui,
+pateikusiam prašymą suteikti prieglobstį, nesuteikiamas laikinas teritorinis
+prieglobstis Lietuvos Respublikoje ir jis grąžinamas į užsienio valstybę arba
+išsiunčiamas iš Lietuvos Respublikos į saugią trečiąją ar kilmės valstybę;
+3) užsieniečiui
+atsisakoma suteikti prieglobstį, nutraukiamas prašymo suteikti prieglobstį
+nagrinėjimas arba suteiktas prieglobstis panaikinamas ir jis išsiunčiamas iš
+Lietuvos Respublikos arba grąžinamas į užsienio valstybę;
+4) užsienietis
+išsiunčiamas iš Lietuvos Respublikos.
+ 
 2. Šio
 straipsnio 1 dalies 4 punkto nuostatos netaikomos tuo atveju, kai išsiuntimo
 pagrindas yra susijęs su užsieniečio buvimo Lietuvos Respublikoje keliama
@@ -3669,6 +3973,9 @@ grėsme valstybės saugumui arba viešajai tvarkai.
 3. Šio
 straipsnio 1 dalyje nenustatytais atvejais priimto sprendimo vykdymas
 sustabdomas, kai atitinkamas administracinis teismas priima nutartį.
+Straipsnio pakeitimas:
+Nr. XI-1786,
+2011-12-08, Žin., 2011, Nr. 156-7384 (2011-12-22)
  
 140 straipsnis. Skundų ir prašymų priimti sprendimą
 nagrinėjimas, sprendimo priėmimas ir jo apskundimas
@@ -3706,12 +4013,13 @@ Respublikos kreipiasi Valstybės saugumo departamentas.
 2. Dėl šio Įstatymo 54 straipsnio 1 dalies 2 punkte, 90
 straipsnio 1 dalies 8 punkte ir 2 dalies 4 punkte, 106 straipsnio 1 dalyje ir
 126 straipsnio 1 dalies 3 punkte nurodytos užsieniečio grėsmės viešajai tvarkai
-į Vilniaus apygardos administracinį teismą su prašymu priimti sprendimą panaikinti
-užsieniečiui teisę gyventi Lietuvos Respublikoje ir (ar) išsiųsti užsienietį iš
-Lietuvos Respublikos kreipiasi Policijos departamentas prie Vidaus reikalų
-ministerijos ar Lietuvos policijos generalinio komisaro pavedimu – teritorinė
-policijos įstaiga arba Valstybės sienos apsaugos tarnyba ar Valstybės sienos
-apsaugos tarnybos vado pavedimu – Valstybės sienos apsaugos tarnybos rinktinė.
+į Vilniaus apygardos administracinį teismą su prašymu priimti sprendimą
+panaikinti užsieniečiui teisę gyventi Lietuvos Respublikoje ir (ar) išsiųsti
+užsienietį iš Lietuvos Respublikos kreipiasi Policijos departamentas prie
+Vidaus reikalų ministerijos ar Lietuvos policijos generalinio komisaro pavedimu
+– teritorinė policijos įstaiga arba Valstybės sienos apsaugos tarnyba ar
+Valstybės sienos apsaugos tarnybos vado pavedimu – Valstybės sienos apsaugos
+tarnybos rinktinė.
 3. Prašymas
 priimti sprendimą turi atitikti Administracinių bylų teisenos įstatymo
 reikalavimus. Administracinės bylos pagal šio straipsnio 1 ir 2 dalyse
@@ -3722,6 +4030,7 @@ Administracinių bylų teisenos įstatyme numatytos nuostatos dėl išslaptinimo
 Įstatymas papildytas straipsniu:
 Nr. X-924, 2006-11-28,
 Žin., 2006, Nr. 137-5199 (2006-12-16)
+Straipsnio pakeitimai:
 Nr.
 XI-392,
 2009-07-22, Žin., 2009, Nr. 93-3984 (2009-08-04)
@@ -3764,10 +4073,10 @@ Sąjungos leidimo gyventi išdavimą ir pratęsimą, užsieniečio paso galiojim
 laiko pratęsimą;
 7)
 pažymos, patvirtinančios Europos Sąjungos valstybės narės piliečio teisę
-gyventi Lietuvos Respublikoje, ir pažymos, patvirtinančios Europos Sąjungos valstybės
-narės piliečio teisę nuolat gyventi Lietuvos Respublikoje, išdavimą.
-Papildyta
-straipsniu:
+gyventi Lietuvos Respublikoje, ir pažymos, patvirtinančios Europos Sąjungos
+valstybės narės piliečio teisę nuolat gyventi Lietuvos Respublikoje, išdavimą.
+Įstatymas
+papildytas straipsniu:
 Nr.
 XI-392,
 2009-07-22, Žin., 2009, Nr. 93-3984 (2009-08-04)
@@ -3925,9 +4234,9 @@ dalijantis perkeltųjų asmenų įsileidimo ir laikino apgyvendinimo našta (OL 
 m. specialusis leidimas, 19 skyrius, 1 tomas, p. 29).
 12. 1996 m. kovo
 4 d. bendra pozicija 96/196/TVR, Tarybos nustatyta remiantis Europos Sąjungos
-sutarties K.3 straipsniu dėl sąvokos „pabėgėlis“ apibrėžimo 1951 m. liepos 28
-d. Ženevos konvencijos dėl pabėgėlių statuso 1 straipsnyje suderinto taikymo
-(OL 2004 m. specialusis leidimas, 19 skyrius, 1 tomas, p. 20).
+sutarties K.3 straipsniu dėl sąvokos „pabėgėlis“ apibrėžimo 1951 m. liepos 28 d.
+Ženevos konvencijos dėl pabėgėlių statuso 1 straipsnyje suderinto taikymo (OL
+2004 m. specialusis leidimas, 19 skyrius, 1 tomas, p. 20).
 13. 1996 m. kovo
 4 d. Tarybos rezoliucija dėl trečiųjų šalių piliečių, ilgą laiką gyvenančių
 valstybių narių teritorijose, statuso.
@@ -4033,11 +4342,19 @@ diplomatinėms atstovybėms ir konsulinėms įstaigoms dėl vizų (OL 2005 C 326
 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 562/2006, nustatantis
 taisyklių, reglamentuojančių asmenų judėjimą per sienas, Bendrijos kodeksą
 (Šengeno sienų kodeksas) (OL 2006 L 105, p. 1).
+Priedas papildomas 37 punktu nuo
+2012-02-01:
+37. 2008 m.
+gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2008/115/EB dėl bendrų
+nelegaliai esančių trečiųjų šalių piliečių grąžinimo standartų ir tvarkos
+valstybėse narėse (OL 2008 L 348, p. 98).
 Priedėlio pakeitimai:
 Nr. X-924, 2006-11-28,
 Žin., 2006, Nr. 137-5199 (2006-12-16)
 Nr. X-1442,
 2008-02-01, Žin., 2008, Nr. 22-803 (2008-02-22)
+Nr. XI-1786,
+2011-12-08, Žin., 2011, Nr. 156-7384 (2011-12-22)
  
 ________________
  
@@ -4047,8 +4364,8 @@ Pakeitimai:
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-924, 2006-11-28,
-Žin., 2006, Nr. 137-5199 (2006-12-16)
+X-924,
+2006-11-28, Žin., 2006, Nr. 137-5199 (2006-12-16)
 ĮSTATYMO
 „DĖL UŽSIENIEČIŲ TEISINĖS PADĖTIES“ 2, 6, 7, 8, 11, 17, 18, 21, 25, 26, 28, 33,
 34, 35, 40, 43, 46, 50, 51, 53, 54, 55, 56, 64, 79, 88, 90, 93, 97, 99, 100,
@@ -4085,11 +4402,27 @@ Nr. XI-392,
 51, 53, 62, 63, 64, 80, 81, 93, 101, 102, 106, 125 IR 140(1) STRAIPSNIŲ
 PAKEITIMO BEI PAPILDYMO IR ĮSTATYMO PAPILDYMO 141(1) STRAIPSNIU ĮSTATYMAS
  
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-1786,
+2011-12-08, Žin., 2011, Nr. 156-7384 (2011-12-22)
+ĮSTATYMO "DĖL UŽSIENIEČIŲ TEISINĖS
+PADĖTIES" 2, 19, 77, 113, 114, 125, 126, 127, 128, 129, 132, 133, 139
+STRAIPSNIŲ IR ĮSTATYMO PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis
+įstatymas, išskyrus šio straipsnio 3 dalį, įsigalioja 2012 m. vasario 1 d.
+Procedūros
+dėl neteisėtai į Lietuvos Respubliką atvykusių ar neteisėtai joje esančių
+užsieniečių, pradėtos iki šio įstatymo įsigaliojimo, užbaigiamos pagal iki šio
+įstatymo įsigaliojimo galiojusią tvarką.
+ 
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušra Bodin (2009-08-05)
+Aušrinė Trapinskienė (2011-12-27)
                  
-aubodi@lrs.lt
+ausrine.trapinskiene@lrs.lt
