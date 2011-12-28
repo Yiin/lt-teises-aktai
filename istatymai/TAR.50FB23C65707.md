@@ -233,10 +233,10 @@ paeiliui einančius kalendorinius stažo metus turėjo stažo, jo draudžiamųj�
 pajamų koeficientas (k) apskaičiuojamas pagal penkerių paeiliui einančių šio
 stažo metų svertinį metinių draudžiamųjų pajamų koeficientų vidurkį. Jeigu
 asmuo po 1994 m. sausio 1 d. turėjo stažo per penkerius ne paeiliui einančius
-kalendorinius metus, jo draudžiamųjų pajamų koeficientas (k) apskaičiuojamas pagal
-penkerių ne paeiliui einančių stažo metų, laikantis kalendorinės metų sekos,
-svertinį metinių draudžiamųjų pajamų koeficientų vidurkį. Jeigu asmuo turi
-įgijęs mažesnį kaip penkerių metų stažą iki 1994 m. sausio 1 d. ir po šios datos yra įgijęs tokį pat ar didesnį stažą, jo draudžiamųjų pajamų
+kalendorinius metus, jo draudžiamųjų pajamų koeficientas (k) apskaičiuojamas
+pagal penkerių ne paeiliui einančių stažo metų, laikantis kalendorinės metų
+sekos, svertinį metinių draudžiamųjų pajamų koeficientų vidurkį. Jeigu asmuo
+turi įgijęs mažesnį kaip penkerių metų stažą iki 1994 m. sausio 1 d. ir po šios datos yra įgijęs tokį pat ar didesnį stažą, jo draudžiamųjų pajamų
 koeficientas (k) apskaičiuojamas pagal paeiliui einančių palankiausių
 kalendorinių stažo metų nuo 1994 m. sausio 1 d. metinių draudžiamųjų pajamų
 koeficientų skaičiaus, atitinkančio stažo, įgyto iki 1994 m. sausio 1 d., pilnų metų skaičių, vidurkį, o draudžiamųjų pajamų koeficientas (K) – pagal visų
@@ -336,17 +336,19 @@ draudimo bazinės pensijos arba einamųjų metų draudžiamųjų pajamų dydis.�
 13 straipsnis. Įstatymo įsigaliojimas 
 1. Šio įstatymo 1, 5, 6, 7, 8, 9, 14 straipsniai ir 15
 straipsnio 1 dalis įsigalioja 2009 m. sausio 1 d. 
-2. Šio įstatymo 2, 3, 4, 10, 11 ir 12 straipsniai ir 15
-straipsnio 2 dalis įsigalioja 2012 m. sausio 1 d.
+2. Šio įstatymo 2, 3, 4, 10, 11, 12 straipsniai ir 15
+straipsnio 2 dalis įsigalioja 2013 m. sausio 1 d.
 Straipsnio pakeitimai:
 Nr. XI-102,
 2008-12-22, Žin., 2008, Nr. 149-6026 (2008-12-30)
-Nr. XI-529,
-2009-12-08, Žin., 2009, Nr. 151-6776 (2009-12-22)
+Nr. XI-529, 2009-12-08,
+Žin., 2009, Nr. 151-6776 (2009-12-22)
+Nr. XI-1805,
+2011-12-15, Žin., 2011, Nr. 160-7571 (2011-12-28)
  
 14
 straipsnis. Pasiūlymas Vyriausybei 
-Vyriausybė iki 2012 m. sausio 1 d. parengia ir priima šio
+Vyriausybė iki 2013 m. sausio 1 d. parengia ir priima šio
 įstatymo 13 straipsnio 2 dalyje nurodytiems straipsniams įgyvendinti
 reikalingus teisės aktus.
 Straipsnio pakeitimai:
@@ -354,6 +356,8 @@ Nr. XI-102,
 2008-12-22, Žin., 2008, Nr. 149-6026 (2008-12-30)
 Nr. XI-529,
 2009-12-08, Žin., 2009, Nr. 151-6776 (2009-12-22)
+Nr. XI-1805,
+2011-12-15, Žin., 2011, Nr. 160-7571 (2011-12-28)
  
 15
 straipsnis. Baigiamosios nuostatos
@@ -376,13 +380,15 @@ skirtumą.
 2. Šio įstatymo
 10 straipsnyje išdėstyto Valstybinių socialinio draudimo pensijų įstatymo 56
 straipsnio 2, 4, 5, 6 ir 7 dalių nuostatos taikomos skiriant valstybines
-socialinio draudimo pensijas pirmą kartą arba iš naujo nuo 2012 m. sausio 1 d.
+socialinio draudimo pensijas pirmą kartą arba iš naujo nuo 2013 m. sausio 1 d.
 ir vėlesnių datų.
 Straipsnio pakeitimai:
 Nr. XI-102,
 2008-12-22, Žin., 2008, Nr. 149-6026 (2008-12-30)
 Nr. XI-529,
 2009-12-08, Žin., 2009, Nr. 151-6776 (2009-12-22)
+Nr. XI-1805,
+2011-12-15, Žin., 2011, Nr. 160-7571 (2011-12-28)
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -416,10 +422,18 @@ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 5, 15, 19, 24, 28, 33, 40, 42, 53, 56, 59
 65 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 13, 14 IR 15 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
  
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1805,
+2011-12-15, Žin., 2011, Nr. 160-7571 (2011-12-28)
+VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ
+ĮSTATYMO 5, 15, 19, 24, 28, 33, 40, 42, 53, 56, 59, 65 STRAIPSNIŲ PAKEITIMO IR
+PAPILDYMO ĮSTATYMO 13, 14, 15 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2009-12-23)
+(2011-12-28)
                  
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
