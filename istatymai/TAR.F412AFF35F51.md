@@ -85,25 +85,6 @@ paskirtas ir mokamas pagal Lietuvos Respublikos Prezidento valstybinės rentos
 šalpos kompensacijos) ir slaugos ar priežiūros (pagalbos) išlaidų tikslines
 kompensacijas, paskirtas ir mokamas pagal Lietuvos Respublikos valstybinių
 šalpos išmokų įstatymą;
- 
-5 punkto redakcija iki 2010 m. gruodžio
-1 d.:
-5) valstybines
-socialinio draudimo senatvės,
-išankstines senatvės, netekto darbingumo (invalidumo) pensijas, išskyrus
-pensijas asmenims, netekusiems 75–100 procentų darbingumo (I grupės invalidumo
-pensijas), ištarnauto laiko pensijas, kurios viršija ribinį valstybinės
-socialinio draudimo pensijos dydį, valstybines socialinio draudimo našlaičių
-(maitintojo netekimo) pensijas, kurios viršija pusę ribinio valstybinės
-socialinio draudimo pensijos dydžio, valstybines socialinio draudimo našlių
-pensijas ir kompensacijas už ypatingas darbo sąlygas, paskirtas ir (arba)
-mokamas pagal Lietuvos Respublikos valstybinių socialinio draudimo pensijų
-įstatymą (toliau – Valstybinių socialinio draudimo pensijų įstatymas) ir Lietuvos
-Respublikos valstybinių socialinio draudimo senatvės pensijų išankstinio
-mokėjimo įstatymą (toliau – Valstybinių socialinio draudimo senatvės pensijų
-išankstinio mokėjimo įstatymas);
-5 punkto redakcija nuo 2010 m. gruodžio
-1 d.:
 5) valstybines
 socialinio draudimo senatvės pensijas, išskyrus šias pensijas gaunančius asmenis, kuriems nustatytas didelių specialiųjų
 poreikių lygis, išankstines senatvės, netekto darbingumo pensijas asmenims,
@@ -119,7 +100,6 @@ Valstybinių socialinio draudimo pensijų įstatymas) ir Lietuvos Respublikos
 valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymą
 (toliau – Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo
 įstatymas);
- 
 6) ligos, profesinės reabilitacijos, motinystės, tėvystės, motinystės
 (tėvystės) socialinio draudimo pašalpas, paskirtas ir mokamas pagal Lietuvos
 Respublikos ligos ir motinystės socialinio draudimo įstatymą (toliau – Ligos
@@ -138,9 +118,6 @@ vaikui, skiriamą ir mokamą pagal Lietuvos Respublikos išmokų vaikams įstaty
 10) nedarbo
 socialinio draudimo išmoką, skiriamą ir mokamą pagal Lietuvos Respublikos
 nedarbo socialinio draudimo įstatymą.
- 
-Straipsnis papildomas 3 dalimi nuo 2010
-m. gruodžio 1 d.:
 3. Asmenims, kuriems valstybinės socialinio draudimo pensijos paskirtos
 vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo
 reglamentais ir Lietuvos Respublikos sudarytų tarptautinių sutarčių dėl pensijų
@@ -188,8 +165,8 @@ valstybinės socialinio draudimo pensijos dydis yra 650 litų.
 2. Ribinius
 valstybinės pensijos ir motinystės (tėvystės) socialinio draudimo pašalpos
 dydžius tvirtina Lietuvos Respublikos Vyriausybė, atsižvelgdama į atitinkamų
-metų ar atitinkamo metų laikotarpio Valstybinio socialinio draudimo fondo
-biudžeto ir Lietuvos Respublikos valstybės biudžeto pajamas ir išlaidas.
+metų ar atitinkamo metų laikotarpio Valstybinio socialinio draudimo fondo biudžeto
+ir Lietuvos Respublikos valstybės biudžeto pajamas ir išlaidas.
  
 ANTRASIS
 SKIRSNIS
@@ -207,10 +184,10 @@ mokamu valstybinės socialinio draudimo bazinės pensijos dydžio priedu) ir ren
 nurodytos šio įstatymo 1 straipsnio 2 dalies 1 ir 3 punktuose, bei valstybinės
 socialinio draudimo našlių pensijos perskaičiuojamos taikant atitinkamą
 koeficientą, apskaičiuotą pagal šio įstatymo 1 priede nurodytą formulę. Jeigu
-tas pats asmuo gauna dvi arba daugiau šioje dalyje nurodytų išmokų,
-apskaičiuojant naują mokėtiną kiekvienos išmokos dydį, visos gaunamos išmokos
-sumuojamos ir perskaičiuojamos, išmokų sumai taikant atitinkamą koeficientą,
-apskaičiuotą pagal šio įstatymo 1 priede nurodytą formulę.
+tas pats asmuo gauna dvi arba daugiau šioje dalyje nurodytų išmokų, apskaičiuojant
+naują mokėtiną kiekvienos išmokos dydį, visos gaunamos išmokos sumuojamos ir
+perskaičiuojamos, išmokų sumai taikant atitinkamą koeficientą, apskaičiuotą
+pagal šio įstatymo 1 priede nurodytą formulę.
 2.
 Šio įstatymo 1 straipsnio 2 dalies 4 punkte nurodytų išmokų gavėjams
 savivaldybių administracijos moka 85 procentus jiems paskirtos slaugos ar
@@ -234,42 +211,6 @@ pensijos dydžio valstybinė pensija.
 5 straipsnis. Valstybinių
 pensijų, rentų ir kompensacijų mokėjimas asmenims, turintiems
 draudžiamųjų pajamų
-1, 2 ir 3 dalių redakcija iki 2010 m.
-gruodžio 1 d.:
-1. Šio įstatymo
-4 straipsnyje nustatyta tvarka perskaičiuotų valstybinių pensijų, kurių
-skyrimas ir (arba) mokėjimas nesiejamas su asmens draudžiamosiomis pajamomis,
-rentų buvusiems sportininkams, dirbantiems kūno kultūros ir sporto srityje,
-kompensacinių išmokų teatrų ir koncertinių įstaigų darbuotojams bei šalpos
-kompensacijų gavėjams, kurie po išmokos paskyrimo turi pajamų, nuo kurių
-skaičiuojamos ir mokamos privalomosios valstybinio socialinio pensijų draudimo
-įmokos, arba gauna ligos (įskaitant darbdavio mokamas ligos dienomis),
-motinystės, tėvystės, motinystės (tėvystės) socialinio draudimo pašalpas,
-mokamas pagal Ligos ir motinystės socialinio draudimo įstatymą, ligos dėl
-nelaimingo atsitikimo darbe arba profesinės ligos socialinio draudimo pašalpas,
-mokamas pagal Nelaimingų atsitikimų darbe ir profesinių ligų socialinio
-draudimo įstatymą (toliau šiame įstatyme šios pajamos ir pašalpos vadinamos
-draudžiamosiomis pajamomis), išskyrus asmenis, draudžiamus privalomuoju
-valstybiniu socialiniu pensijų draudimu pagal Valstybinių socialinio draudimo
-pensijų įstatymo 2 straipsnio 1 dalies 8 ir 9 punktus, mokama pensijos dalis,
-apskaičiuota taikant koeficientą, apskaičiuotą pagal šio įstatymo 2 priede
-nurodytą formulę, atsižvelgiant į gautų draudžiamųjų pajamų dydį. Tuo atveju,
-kai išmoka mokama už einamąjį mėnesį, atsižvelgiama į praėjusio mėnesio
-draudžiamąsias pajamas, kai išmoka mokama už praėjusį mėnesį, atsižvelgiama į
-užpraeito mėnesio draudžiamąsias pajamas.
-2. Jeigu šio
-straipsnio 1 dalyje nurodytų išmokų gavėjai valstybiniu socialiniu pensijų
-draudimu draudžiami pagal Valstybinių socialinio draudimo pensijų įstatymo 2
-straipsnio 1 dalies 8 ir 9 punktus, jų draudimo valstybiniu socialiniu pensijų
-draudimu laikotarpiu mokama 50 procentų priklausančios išmokos.
-3. Šio
-straipsnio 2 dalies nuostatos netaikomos, jeigu pensijos gavėjas yra
-individualios įmonės savininkas, tikrosios ūkinės bendrijos narys ar
-komanditinės ūkinės bendrijos narys, tačiau individuali įmonė ar ūkinė bendrija
-veiklos laikinai nevykdo ir yra tai deklaravusi Lietuvos Respublikos mokesčių
-administravimo įstatymo ir jį įgyvendinančių teisės aktų nustatyta tvarka.
-1, 2 ir 3 dalių redakcija nuo 2010 m.
-gruodžio 1 d.:
 1. Valstybinių pensijų, kurių skyrimas ir (arba) mokėjimas
 nesiejamas su asmens draudžiamosiomis pajamomis, rentų buvusiems sportininkams,
 dirbantiems kūno kultūros ir sporto srityje, kompensacinių išmokų teatrų ir
@@ -284,9 +225,9 @@ motinystės, tėvystės, motinystės (tėvystės) socialinio draudimo pašalpas,
 mokamas pagal Ligos ir motinystės socialinio draudimo įstatymą, ligos dėl
 nelaimingo atsitikimo darbe arba profesinės ligos socialinio draudimo pašalpas,
 mokamas pagal Nelaimingų atsitikimų darbe ir profesinių ligų socialinio
-draudimo įstatymą (toliau pajamos ir pašalpos vadinamos draudžiamosiomis
-pajamomis), mokama paskirtos, o jei išmoka yra perskaičiuota pagal šio įstatymo
-4 straipsnį, – perskaičiuotos išmokos dalis, apskaičiuota taikant koeficientą,
+draudimo įstatymą (toliau pajamos ir pašalpos vadinamos draudžiamosiomis pajamomis),
+mokama paskirtos, o jei išmoka yra perskaičiuota pagal šio įstatymo 4
+straipsnį, – perskaičiuotos išmokos dalis, apskaičiuota taikant koeficientą,
 apskaičiuotą pagal šio įstatymo 2 priede nurodytą formulę, atsižvelgiant į
 draudžiamųjų pajamų dydį. Tuo atveju, kai išmoka mokama už einamąjį mėnesį,
 atsižvelgiama į praėjusio mėnesio draudžiamąsias pajamas, kai išmoka mokama už
@@ -311,7 +252,6 @@ tai yra deklaruota Lietuvos Respublikos mokesčių administravimo įstatymo ir j
 bendrija teisės aktų nustatyta tvarka įgijo bankrutuojančio arba likviduojamo
 juridinio asmens teisinį statusą ir bankrutuojantis juridinis asmuo nevykdo
 ūkinės komercinės veiklos.
- 
 4. Šiame
 straipsnyje nustatyta tvarka mokėtiną valstybinių pensijų,
 rentų ir kompensacinių išmokų dalį apskaičiuoja ir taiko šias išmokas
@@ -329,8 +269,8 @@ institucijai teikia Valstybinio socialinio draudimo fondo valdyba duomenų
 teikimo sutartyse nustatyta tvarka ir terminais. 
 Straipsnio
 pakeitimai:
-Nr. XI-680,
-2010-02-11, Žin., 2010, Nr. 23-1070 (2010-02-25)
+Nr. XI-680, 2010-02-11,
+Žin., 2010, Nr. 23-1070 (2010-02-25)
 Nr. XI-1072,
 2010-10-26, Žin., 2010, Nr. 132-6717 (2010-11-11)
  
@@ -405,36 +345,9 @@ socialinio draudimo netekto darbingumo pensijos dydį, netekus 60–70 procentų
 darbingumo (II grupės invalidumo pensija), o po to
 mažinamas 50 procentų.
 3. Valstybinių
-socialinio draudimo našlaičių (maitintojo netekimo) pensijų gavėjams
-kompensacinis priedas apskaičiuojamas šio straipsnio 1 dalyje nustatyta tvarka,
-taikant pusės ribinio valstybinės socialinio draudimo pensijos dydžio dydį. 
- 
-4 dalies redakcija iki 2010 m. gruodžio
-1 d.:
-4. Asmenims,
-kuriems valstybinės socialinio draudimo pensijos paskirtos vadovaujantis 1971
-m. liepos 5 d. Tarybos reglamentu Nr. 1408/71/EEB dėl socialinės apsaugos
-sistemų taikymo pagal darbo sutartį dirbantiems asmenims, savarankiškai
-dirbantiems asmenims ir jų šeimos nariams, persikeliantiems Bendrijoje, ir
-Lietuvos Respublikos sudarytų tarptautinių sutarčių dėl pensijų mokėjimo
-nuostatomis arba kurie gauna kitos valstybės pensiją, asmens teisė gauti
-kompensacinį priedą nustatoma asmeniui pateikus duomenis apie užsienio
-valstybės paskirtos pensijos dydį, jeigu Valstybinio socialinio draudimo fondo
-administravimo įstaigos neturi šių duomenų. Duomenis apie užsienio valstybės
-paskirtos pensijos dydį asmuo privalo teikti Valstybinio socialinio draudimo
-fondo administravimo įstaigai kas ketvirtį. Asmens teisė gauti kompensacinį
-priedą nustatoma sumuojant šio įstatymo 6 straipsnyje nustatyta tvarka asmens
-perskaičiuotos valstybinės socialinio draudimo pensijos dydį ir užsienio
-valstybės paskirtos pensijos dydį (toliau šiame straipsnyje – pensijų suma).
-Jeigu asmens iki perskaičiavimo gautų pensijų sumos dydis viršijo ribinį
-valstybinės socialinio draudimo pensijos dydį, tačiau po perskaičiavimo pensijų
-sumos dydis yra mažesnis negu ribinis valstybinės socialinio draudimo pensijos
-dydis, kompensacinio priedo dydis yra lygus ribinio valstybinės socialinio
-draudimo pensijos dydžio ir pensijų sumos po perskaičiavimo dydžio skirtumui.
-Kompensacinis priedas šiems asmenims mokamas taikant Valstybinių socialinio
-draudimo pensijų įstatymo 41 straipsnio 1 dalies nuostatas.
-4 dalies redakcija nuo 2010 m. gruodžio
-1 d.:
+socialinio draudimo našlaičių (maitintojo netekimo) pensijų gavėjams kompensacinis
+priedas apskaičiuojamas šio straipsnio 1 dalyje nustatyta tvarka, taikant pusės
+ribinio valstybinės socialinio draudimo pensijos dydžio dydį. 
 4. Asmenims,
 kurie gauna užsienio valstybės pensiją, asmens teisė gauti kompensacinį
 priedą nustatoma asmeniui pateikus duomenis apie užsienio valstybės paskirtos
@@ -452,7 +365,6 @@ dydis, kompensacinio priedo dydis yra lygus ribinio valstybinės socialinio
 draudimo pensijos dydžio ir pensijų sumos po perskaičiavimo dydžio skirtumui.
 Kompensacinis priedas šiems asmenims mokamas taikant Valstybinių socialinio
 draudimo pensijų įstatymo 41 straipsnio 1 dalies nuostatas.
- 
 5. Atsiradus
 aplinkybėms, dėl kurių valstybinės socialinio draudimo pensijos dydis
 perskaičiuojamas (asmeniui pateikus papildomus dokumentus apie stažą,
@@ -469,33 +381,6 @@ Nr. XI-1072,
 straipsnis. Valstybinių socialinio draudimo senatvės, ištarnauto laiko pensijų
 ir kompensacijų už ypatingas darbo sąlygas mokėjimas asmenims, turintiems
 draudžiamųjų pajamų
-1, 2 ir 3 dalių redakcija iki 2010 m.
-gruodžio 1 d.:
-1. Valstybinių
-socialinio draudimo senatvės, ištarnauto laiko pensijų, perskaičiuotų pagal šio
-įstatymo 6 ir 7 straipsnius, ir kompensacijų už ypatingas darbo sąlygas
-gavėjams (toliau
-šiame straipsnyje – pensijų gavėjai), kurie po pensijos paskyrimo draudžiami
-privalomuoju valstybiniu socialiniu pensijų draudimu, išskyrus draudžiamus
-privalomuoju valstybiniu socialiniu pensijų draudimu pagal Valstybinių
-socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 8 ir 9 punktus
-asmenis, ir turi draudžiamųjų pajamų, mokama pensijos dalis, apskaičiuota
-taikant koeficientą, apskaičiuotą pagal šio įstatymo 2 priede nurodytą formulę,
-atsižvelgiant į praėjusio kalendorinio mėnesio draudžiamųjų pajamų dydį. 
-2. Pensijų
-gavėjams, kurie privalomuoju valstybiniu socialiniu pensijų draudimu draudžiami
-pagal Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 8
-ir 9 punktus, jų draudimo valstybiniu socialiniu pensijų draudimu laikotarpiu
-mokama pagrindinė valstybinės socialinio draudimo pensijos dalis, nustatyta šio
-įstatymo 6 straipsnyje, ir priedas už stažo metus.
-3. Šio
-straipsnio 2 dalies nuostatos netaikomos, jeigu pensijos gavėjas yra
-individualios įmonės savininkas, tikrosios ūkinės bendrijos narys ar
-komanditinės ūkinės bendrijos narys, tačiau individuali įmonė ar ūkinė bendrija
-veiklos laikinai nevykdo ir yra tai deklaravusi Lietuvos Respublikos mokesčių
-administravimo įstatymo ir jį įgyvendinančių teisės aktų nustatyta tvarka.
-1, 2 ir 3 dalių redakcija nuo 2010 m.
-gruodžio 1 d.:
 1. Valstybinių socialinio draudimo senatvės, ištarnauto
 laiko pensijų, perskaičiuotų pagal šio įstatymo 6 ir 7 straipsnius, ir
 kompensacijų už ypatingas darbo sąlygas gavėjams (toliau šiame straipsnyje –
@@ -510,8 +395,8 @@ mėnesio draudžiamųjų pajamų dydį.
 draudimo pensijų įstatymo 2 straipsnio 1 dalies 8 punkte, mokama
 pagrindinė valstybinės socialinio draudimo pensijos dalis, nustatyta šio
 įstatymo 6 straipsnyje, ir priedas už stažo metus. Pasibaigus mokestiniam
-laikotarpiui, šių asmenų pensijos perskaičiuojamos už atitinkamą mokestinį
-laikotarpį, atsižvelgiant į metinėje pajamų mokesčio ar metinėje pelno mokesčio
+laikotarpiui, šių asmenų pensijos perskaičiuojamos už atitinkamą mokestinį laikotarpį,
+atsižvelgiant į metinėje pajamų mokesčio ar metinėje pelno mokesčio
 deklaracijoje deklaruotų apmokestinamųjų pajamų ar apmokestinamojo pelno dydį,
 taikant koeficientą, apskaičiuotą pagal šio įstatymo 2 priede nurodytą formulę.
 Jeigu šie asmenys mokestiniu laikotarpiu valstybiniu socialiniu pensijų
@@ -527,7 +412,6 @@ administravimo įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka 
 individuali įmonė ar ūkinė bendrija teisės aktų nustatyta tvarka įgijo
 bankrutuojančio arba likviduojamo juridinio asmens teisinį statusą ir
 bankrutuojantis juridinis asmuo nevykdo ūkinės komercinės veiklos.
- 
 4. Draudėjai
 duomenis apie dirbančių pensijų gavėjų mėnesio draudžiamąsias pajamas privalo
 teikti Valstybinio socialinio draudimo fondo valdybos teritoriniams skyriams
@@ -571,11 +455,12 @@ nustatytoms išmokoms ir motinystės (tėvystės) socialinio draudimo pašalpoms
 paskirtoms pagal Ligos ir motinystės socialinio draudimo įstatymo nuostatas,
 galiojusias iki 2010 m. birželio 30 d. Paskirtos motinystės (tėvystės)
 socialinio draudimo pašalpos, neviršijančios ribinio motinystės (tėvystės)
-socialinio draudimo pašalpos dydžio, mokamos to paties dydžio, kokio ir buvo paskirtos.
-Paskirtos motinystės (tėvystės) socialinio draudimo pašalpos, viršijančios
-ribinį motinystės (tėvystės) socialinio draudimo pašalpos dydį, mokamos šio
-straipsnio 2 ir 3 dalyse nustatyta tvarka, tačiau išmokama pašalpa negali būti
-mažesnė negu ribinis motinystės (tėvystės) socialinio draudimo pašalpos dydis. 
+socialinio draudimo pašalpos dydžio, mokamos to paties dydžio, kokio ir buvo
+paskirtos. Paskirtos motinystės (tėvystės) socialinio draudimo pašalpos,
+viršijančios ribinį motinystės (tėvystės) socialinio draudimo pašalpos dydį,
+mokamos šio straipsnio 2 ir 3 dalyse nustatyta tvarka, tačiau išmokama pašalpa
+negali būti mažesnė negu ribinis motinystės (tėvystės) socialinio draudimo
+pašalpos dydis. 
 2. Motinystės
 (tėvystės) socialinio draudimo pašalpos, priklausančios pagal Ligos ir
 motinystės socialinio draudimo įstatymo nuostatas, apdraustiesiems asmenims iki
@@ -585,13 +470,14 @@ Tuo atveju, kai apskaičiuota motinystės (tėvystės) socialinio draudimo paša
 viršija Lietuvos Respublikos Vyriausybės patvirtintų einamųjų metų draudžiamųjų
 pajamų 4 dydžių sumą, apdraustajam asmeniui mokama pastarojo dydžio pašalpa. 
 3. Motinystės (tėvystės) socialinio draudimo pašalpos, priklausančios
-pagal Ligos ir motinystės socialinio draudimo įstatymo nuostatas, apdraustiesiems
-asmenims laikotarpiu nuo vaiko vienų iki dvejų metų perskaičiuojamos ir mokamos
-75 procentų pašalpos gavėjo kompensuojamojo uždarbio, iš kurio ši pašalpa buvo
-apskaičiuota, dydžio. Tuo atveju, kai apskaičiuota motinystės (tėvystės)
-socialinio draudimo pašalpa viršija 75 procentų Lietuvos Respublikos
-Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų 4 dydžių sumą,
-apdraustajam asmeniui mokama pastarojo dydžio pašalpa.
+pagal Ligos ir motinystės socialinio draudimo įstatymo nuostatas,
+apdraustiesiems asmenims laikotarpiu nuo vaiko vienų iki dvejų metų
+perskaičiuojamos ir mokamos 75 procentų pašalpos gavėjo kompensuojamojo
+uždarbio, iš kurio ši pašalpa buvo apskaičiuota, dydžio. Tuo atveju, kai
+apskaičiuota motinystės (tėvystės) socialinio draudimo pašalpa viršija 75
+procentų Lietuvos Respublikos Vyriausybės patvirtintų einamųjų metų
+draudžiamųjų pajamų 4 dydžių sumą, apdraustajam asmeniui mokama pastarojo
+dydžio pašalpa.
 4. Šio įstatymo galiojimo laikotarpiu statutiniams valstybės
 tarnautojams (pareigūnams) ir karšto apsaugos sistemos kariams jų vaiko
 priežiūros, kol jam sueis treji metai, atostogų laikotarpiu iš valstybės
@@ -680,13 +566,20 @@ socialinio draudimo pensijos, skiriamos šio įstatymo galiojimo laikotarpiu,
 apskaičiuojamos vadovaujantis Valstybinių socialinio draudimo pensijų įstatymo
 nustatyta tvarka ir perskaičiuojamos taikant šio įstatymo nuostatas. 
  
-15
-straipsnis. Įstatymo galiojimas ir taikymas
-1. Šis
-įstatymas, išskyrus 16 straipsnį, įsigalioja 2010 m. sausio 1 d. ir galioja iki 2011 m. gruodžio 31 d.
+15 straipsnis.
+Įstatymo įsigaliojimas ir taikymas 
+1.  Šis
+įstatymas, išskyrus 16 straipsnį, įsigalioja 2010 m. sausio 1 d. ir galioja:
+1) šio įstatymo
+1 straipsnio 2 dalies 4 punkte nurodytoms šalpos kompensacijoms ir 5–9
+punktuose nurodytoms išmokoms – iki 2011 m. gruodžio 31 d.;
+2) šio įstatymo 1
+straipsnio 2 dalies 1, 2 ir 3 punktuose nurodytoms išmokoms, 4 punkte
+nurodytoms slaugos ir priežiūros (pagalbos) išlaidų tikslinėms kompensacijoms ir
+10 punkte nurodytai išmokai – iki 2012 m. gruodžio 31 d.
 2. Šio įstatymo
-9 ir 10 straipsnių nuostatos netaikomos nuo 2011 m. liepos 1 d. naujai skiriamoms socialinio draudimo pašalpoms ir iš valstybės biudžeto mokamoms
-motinystės (tėvystės) išmokoms. 
+9 ir 10 straipsnių nuostatos netaikomos nuo 2011 m. liepos 1 d. iš naujo skiriamoms socialinio draudimo pašalpoms ir iš valstybės biudžeto mokamoms
+motinystės (tėvystės) išmokoms.
 3. Pagal šio
 įstatymo nuostatas iki 2011 m. liepos 1 d. apskaičiuotos socialinio draudimo
 pašalpos ir iš valstybės biudžeto mokamos motinystės (tėvystės) išmokos mokamos
@@ -694,6 +587,8 @@ iki jų mokėjimo termino pabaigos.
 Straipsnio pakeitimai:
 Nr. XI-983,
 2010-07-02, Žin., 2010, Nr. 86-4534 (2010-07-20)
+Nr. XI-1821,
+2011-12-20, Žin., 2011, Nr. 160-7573 (2011-12-28)
  
 16
 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
@@ -703,8 +598,8 @@ teisės aktus.
 2. Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos,
 įvertinusios Lietuvos ekonomikos rodiklius, lemiančius Lietuvos ūkio raidą, ir
 Lietuvos Respublikos valstybės bei Valstybinio socialinio draudimo fondo
-biudžetų būklę, iki 2010 m. liepos 1 d. pateikia pasiūlymus Lietuvos
-Respublikos Seimui dėl šio įstatymo galiojimo termino. 
+biudžetų būklę, iki 2010 m. liepos 1 d. pateikia pasiūlymus Lietuvos Respublikos
+Seimui dėl šio įstatymo galiojimo termino. 
 3. Lietuvos
 Respublikos Vyriausybė iki 2010 m. kovo 1 d. patvirtina socialinio draudimo ir
 pensijų sistemos pertvarkymo koncepciją.
@@ -757,8 +652,7 @@ K = 0,8, kai P >
 = 1 800.
  
 Šioje formulėje:
-K –
-koeficientas;
+K – koeficientas;
 P – išmokos
 (išmokų sumos) dydis.
  
@@ -858,6 +752,13 @@ perskaičiuoja pagal šio įstatymo 2 straipsnio 2 dalies ir 4 straipsnio 2 dali
 nuostatas ir išmoka perskaičiuotos ir mokėtos išmokų dydžių skirtumą arba iš
 gavėjo išieško permokėtą išmokos dydį.
  
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1821,
+2011-12-20, Žin., 2011, Nr. 160-7573 (2011-12-28)
+SOCIALINIŲ IŠMOKŲ PERSKAIČIAVIMO IR
+MOKĖJIMO LAIKINOJO ĮSTATYMO 15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
@@ -869,15 +770,18 @@ Respublikos Konstitucinis Teismas, Nutarimas
 2010-06-29,
 Žin., 2010, Nr. 134-6860 (2010-11-16)
 DĖL LIETUVOS
-RESPUBLIKOS TEISĖJŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 5, 6 STRAIPSNIŲ, LIETUVOS RESPUBLIKOS
-VALSTYBINIŲ PENSIJŲ ĮSTATYMO 3 STRAIPSNIO 3 DALIES (2009 M. GRUODŽIO 8 D.
-REDAKCIJA), LIETUVOS RESPUBLIKOS SOCIALINIŲ IŠMOKŲ PERSKAIČIAVIMO IR MOKĖJIMO
-LAIKINOJO ĮSTATYMO 1 STRAIPSNIO 2 DALIES 1 PUNKTO, 16 STRAIPSNIO 4 DALIES
-ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+RESPUBLIKOS TEISĖJŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 5, 6 STRAIPSNIŲ, LIETUVOS
+RESPUBLIKOS VALSTYBINIŲ PENSIJŲ ĮSTATYMO 3 STRAIPSNIO 3 DALIES (2009 M.
+GRUODŽIO 8 D. REDAKCIJA), LIETUVOS RESPUBLIKOS SOCIALINIŲ IŠMOKŲ PERSKAIČIAVIMO
+IR MOKĖJIMO LAIKINOJO ĮSTATYMO 1 STRAIPSNIO 2 DALIES 1 PUNKTO, 16 STRAIPSNIO 4
+DALIES ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
-*** Pabaiga ***
  
-Redagavo Aušrinė Trapinskienė
-(2010-12-03)
+***
+Pabaiga ***
+ 
+ 
+Redagavo
+Aušrinė Trapinskienė (2011-12-28)
                  
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
