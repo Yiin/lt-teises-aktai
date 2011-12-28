@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8"
 
 # Lietuvos Respublikos pensijų sistemos reformos įstatymas
 
-Suvestinė redakcija nuo 2010-07-13 iki 2011-12-27
+Suvestinė redakcija nuo 2011-12-28 iki 2011-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 123-5511, i. k. 1021010ISTA0IX-1215
  
@@ -108,11 +108,12 @@ Nr. IX-2255, 2004-06-01, Žin., 2004, Nr. 96-3522 (2004-06-19), i. k. 1041010IST
 
 4 straipsnis. Pensijų įmoka
 
-1. Pensijų įmokos dydis 2004 metais yra 2,5 procento, 2005 metais – 3,5 procento, 2006 metais – 4,5 procento, 2007 ir 2008 metais – 5,5 procento, nuo 2009 m. sausio 1 d. iki 2009 m. birželio 30 d. – 3 procentai, nuo 2009 m. liepos 1 d. – 2 procentai dalyvių pajamų, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos.
+1. Pensijų įmokos dydis 2004 metais yra 2,5 procento, 2005 metais – 3,5 procento, 2006 metais – 4,5 procento, 2007 ir 2008 metais – 5,5 procento, nuo 2009 m. sausio 1 d. iki 2009 m. birželio 30 d. – 3 procentai, nuo 2009 m. liepos 1 d. iki 2011 m. gruodžio 31 d. – 2 procentai, 2012 metais – 1,5 procento, 2013 metais – 2,5 procento dalyvių pajamų, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos.
 Straipsnio dalies pakeitimai:
 Nr. XI-149, 2009-01-15, Žin., 2009, Nr. 6-160 (2009-01-17), i. k. 1091010ISTA00XI-149
 Nr. XI-238, 2009-04-28, Žin., 2009, Nr. 54-2136 (2009-05-12), i. k. 1091010ISTA00XI-238
 Nr. XI-954, 2010-06-30, Žin., 2010, Nr. 82-4308 (2010-07-13), i. k. 1101010ISTA00XI-954
+Nr. XI-1822, 2011-12-20, Žin., 2011, Nr. 160-7574 (2011-12-28), i. k. 1111010ISTA0XI-1822
  
 
 2. Bendrasis valstybinio socialinio draudimo įmokos tarifas šio straipsnio nustatytos pensijų įmokos dydžiu nedidinamas. 
@@ -266,5 +267,10 @@ Lietuvos Respublikos pensijų sistemos reformos įstatymo 2 ir 3 straipsnių pak
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-954, 2010-06-30, Žin., 2010, Nr. 82-4308 (2010-07-13), i. k. 1101010ISTA00XI-954
+Lietuvos Respublikos pensijų sistemos reformos įstatymo 4 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1822, 2011-12-20, Žin., 2011, Nr. 160-7574 (2011-12-28), i. k. 1111010ISTA0XI-1822
 Lietuvos Respublikos pensijų sistemos reformos įstatymo 4 straipsnio pakeitimo įstatymas
 
