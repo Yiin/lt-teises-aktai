@@ -27,7 +27,8 @@ LIETUVOS
 RESPUBLIKOS
 BIUDŽETO
 SANDAROS
-ĮSTATYMAS
+Į S T A T Y M A
+S
  
  
 Nauja įstatymo redakcija: 
@@ -87,8 +88,8 @@ kitų subjektų sąskaitas jų programoms vykdyti arba tiesioginis biudžetinių
 įstaigų ir kitų subjektų programų išlaidų ir įsigyjamo turto apmokėjimas iš
 valstybės ir savivaldybių biudžetų sąskaitų.
 9. Funkcinė
-asignavimų klasifikacija (toliau – funkcinė klasifikacija) – asignavimų
-suskirstymas pagal valstybės funkcijas.
+asignavimų klasifikacija (toliau – funkcinė klasifikacija) –
+asignavimų suskirstymas pagal valstybės funkcijas.
 10. Nacionalinis
 biudžetas – valstybės biudžeto ir savivaldybių biudžetų konsoliduota
 (neįskaitant savivaldybių biudžetams skirtų valstybės biudžeto asignavimų)
@@ -104,8 +105,8 @@ savivaldybės tarybos sprendime;
 2) biudžetinių
 įstaigų pajamų;
 3) kitų
-valstybės biudžeto, įskaitant Europos Sąjungos finansinės paramos ir kitos
-gaunamos finansinės paramos lėšas, ir (arba) savivaldybių biudžetų lėšų;
+valstybės biudžeto, įskaitant Europos Sąjungos finansinės paramos ir kitos gaunamos
+finansinės paramos lėšas, ir (arba) savivaldybių biudžetų lėšų;
 4) kitų teisėtai
 gautų lėšų.
 12. Programos
@@ -136,10 +137,10 @@ gali būti tik piniginės lėšos.
 2. Nacionalinio biudžeto asignavimai naudojami valstybės ir savivaldybių
 funkcijoms atlikti. Lietuvos Respublikoje surenkami mokesčiai, privalomos
 įmokos, rinkliavos gali būti perskirstomi tik per nacionalinį biudžetą,
-Valstybinį socialinio draudimo fondą, Privalomojo sveikatos draudimo fondą,
-Privatizavimo fondą, Rezervinį (stabilizavimo) fondą, Valstybės įmonės
-Ignalinos atominės elektrinės eksploatavimo nutraukimo fondą, Garantinį fondą,
-savivaldybių privatizavimo fondus.
+Valstybinį socialinio draudimo fondą, Privalomojo sveikatos draudimo fondą, Privatizavimo
+fondą, Rezervinį (stabilizavimo) fondą, Valstybės įmonės Ignalinos atominės
+elektrinės eksploatavimo nutraukimo fondą, Garantinį fondą, savivaldybių
+privatizavimo fondus.
 3. Neteko galios
 nuo 2011 m. sausio 1 d.
 4. Lietuvos
@@ -186,8 +187,8 @@ Respublikos Ministro Pirmininko tarnyba, ministerija, Vyriausybės įstaiga;
 2)
 įstaiga,
 kuri yra atskaitinga Lietuvos Respublikos Prezidentui, Seimui, Vyriausybei arba
-kurios vadovą (arba kolegialų valdymo organą) skiria Lietuvos Respublikos
-Prezidentas, Seimas, Vyriausybė; 
+kurios vadovą (arba kolegialų valdymo organą) skiria Lietuvos Respublikos Prezidentas,
+Seimas, Vyriausybė; 
 3) Lietuvos Respublikos Konstitucinis Teismas, teismai, Nacionalinė teismų administracija, Lietuvos Respublikos generalinė prokuratūra;
 4)
 valstybinis universitetas, valstybinis mokslinių tyrimų institutas arba kunigų
@@ -213,8 +214,8 @@ Nr. X-1691,
 2008-07-03, Žin., 2008, Nr. 81-3191 (2008-07-17)
 Nr. XI-446,
 2009-10-22, Žin., 2009, Nr. 134-5831 (2009-11-10)
-Nr. XI-1209, 2010-12-09,
-Žin., 2010, Nr. 153-7781 (2010-12-28)
+Nr. XI-1209,
+2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
 Nr. XI-1557,
 2011-06-28, Žin., 2011, Nr. 86-4176 (2011-07-13)
  
@@ -230,9 +231,9 @@ vadovų pareigos
 vykdyti, paskirstyti juos pavaldžioms biudžetinėms įstaigoms ir kitiems
 subjektams, kuriems galimybė biudžeto lėšas gauti numatyta jų veiklos sritį
 reglamentuojančiuose įstatymuose arba Vyriausybės nutarimuose, priimtuose
-vadovaujantis tiesiogiai taikomais Europos Sąjungos teisės aktais ir tarptautinėmis
-sutartimis, nustatančiais Europos Sąjungos ar atskirų valstybių finansinės
-paramos, teikiamos Lietuvai, administravimo tvarką, programoms vykdyti;
+vadovaujantis tiesiogiai taikomais Europos Sąjungos teisės aktais ir
+tarptautinėmis sutartimis, nustatančiais Europos Sąjungos ar atskirų valstybių
+finansinės paramos, teikiamos Lietuvai, administravimo tvarką, programoms vykdyti;
 2) organizuoti iš biudžeto finansuojamų programų rengimą ir vykdymą;
 3) nustatyti ir tvirtinti vadovaujamos biudžetinės įstaigos ir (ar)
 pavaldžių biudžetinių įstaigų bei kitų subjektų programų sąmatas pagal
@@ -279,12 +280,12 @@ vykdymo ir programoms vykdyti skirtų lėšų naudojimo teisėtumą, ekonomišku
 efektyvumą ir rezultatyvumą.
 Straipsnio pakeitimai:
 Nr.
-X-1218,
-2007-06-26, Žin., 2007, Nr. 77-3050 (2007-07-12)
+X-1218, 2007-06-26,
+Žin., 2007, Nr. 77-3050 (2007-07-12)
 Nr. X-1354,
 2007-12-06, Žin., 2007, Nr. 132-5357 (2007-12-15)
-Nr. X-1826,
-2008-11-14, Žin., 2008, Nr. 137-5375 (2008-11-29)
+Nr. X-1826, 2008-11-14,
+Žin., 2008, Nr. 137-5375 (2008-11-29)
 Nr. XI-1209,
 2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
  
@@ -309,8 +310,8 @@ programai vykdyti, suderinęs su Finansų ministerija (valstybės biudžeto
 asignavimų valdytojas) arba su savivaldybės administracija (savivaldybės
 biudžeto asignavimų valdytojas);
 3) sudarydamas programų ir programų
-sąmatų projektus, teikti programų bei jų sąmatų alternatyvas (valstybės biudžeto
-asignavimų valdytojas – Finansų ministerijai, o savivaldybės biudžeto
+sąmatų projektus, teikti programų bei jų sąmatų alternatyvas (valstybės
+biudžeto asignavimų valdytojas – Finansų ministerijai, o savivaldybės biudžeto
 asignavimų valdytojas – atitinkamai savivaldybės administracijai);
 4)
 įsiskolinimams padengti skirti lėšas iš bendros patvirtintų asignavimų
@@ -388,32 +389,38 @@ Nr. XI-1209,
 Biudžeto pajamų ir asignavimų ekonominę ir funkcinę klasifikaciją
 nustato Finansų ministerija. 
  
-10 straipsnis. Valstybės biudžeto ir savivaldybių
-biudžetų skoliniai santykiai 
+10 straipsnis. Savivaldybių skolinimasis
 1. Savivaldybės, laikydamosi Seimo patvirtintų skolinimosi limitų,
 Vyriausybės nustatyta tvarka gali:
-1) imti ilgalaikes vidaus arba užsienio paskolas (kurių trukmė ilgesnė
-kaip vieni metai ir grąžinimo terminas ne tais pačiais biudžetiniais metais)
-arba teikti garantijas dėl paskolų, naudojamų tik investicijų projektams
-finansuoti;
-2) imti trumpalaikes vidaus ir užsienio paskolas (kurių grąžinimo
-terminas tais pačiais biudžetiniais metais) biudžetiniais metais laikinam
-pajamų trūkumui padengti, kai nepakanka šiam tikslui savivaldybės biudžeto
-apyvartos lėšų.
+1) imti iš vidaus kreditorių arba užsienio kreditorių ilgalaikes (kurių
+trukmė ilgesnė kaip vieneri metai ir grąžinimo terminas ne tais pačiais
+biudžetiniais metais) paskolas arba teikti garantijas dėl paskolų, naudojamų
+tik investicijų projektams finansuoti;
+2) imti iš vidaus kreditorių arba užsienio kreditorių trumpalaikes (kurių
+grąžinimo terminas tais pačiais biudžetiniais metais) paskolas biudžetiniais
+metais laikinam pajamų trūkumui padengti, kai nepakanka šiam tikslui
+savivaldybės biudžeto apyvartos lėšų.
 2. Vyriausybės nustatyta
 tvarka iš valstybės biudžeto apyvartos lėšų savivaldybėms gali būti teikiamos
 trumpalaikės paskolos laikinam pajamų trūkumui padengti, kai nepakanka šiam
 tikslui savivaldybės biudžeto apyvartos lėšų.
-3. Biudžetinės įstaigos savo vardu negali skolintis lėšų, prisiimti
+3.
+Vyriausybės nustatyta tvarka iš valstybės biudžeto apyvartos lėšų savivaldybėms
+gali būti teikiamos trumpalaikės arba ilgalaikės paskolos, kai dėl kredito
+įstaigų veiklos apribojimo ir (arba) jų licencijų atšaukimo savivaldybės negali
+disponuoti savo lėšomis ir dėl to trūksta apyvartos lėšų.
+4. Biudžetinės įstaigos savo vardu negali skolintis lėšų, prisiimti
 jokių skolinių įsipareigojimų.
 Straipsnio pakeitimai:
 Nr. XI-1209,
 2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
+Nr. XI-1825,
+2011-12-20, Žin., 2011, Nr. 161-7619 (2011-12-29)
  
 11 straipsnis. Informacijos apie biudžetus viešumas
 1. Informacija apie biudžeto sudarymą, priėmimą, vykdymą, vertinimą,
-kontrolę turi būti aiški ir vieša, išskyrus informaciją, kuri įstatymų
-nustatyta tvarka yra valstybės paslaptis.
+kontrolę turi būti aiški ir vieša, išskyrus informaciją, kuri įstatymų nustatyta
+tvarka yra valstybės paslaptis.
 2. Informacija
 apie patvirtintą valstybės biudžetą, jo pajamas ir asignavimus, jų vykdymą
 skelbiama oficialiame leidinyje „Valstybės žinios“ ir Finansų ministerijos
@@ -521,8 +528,8 @@ pagalbai teikti.
 3. Vyriausybės rezervo lėšų skyrimo ir naudojimo tvarką nustato
 Vyriausybė.
 Straipsnio pakeitimai:
-Nr. XI-1209, 2010-12-09,
-Žin., 2010, Nr. 153-7781 (2010-12-28)
+Nr. XI-1209,
+2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
  
 16 straipsnis. Valstybės biudžeto apyvartos lėšos 
 1. Valstybės biudžeto
@@ -546,8 +553,8 @@ projektus rengia Finansų ministerija.
 2. Valstybės
 biudžeto projektas rengiamas trejiems biudžetiniams metams remiantis
 Vyriausybės programa, Valstybės pažangos strategija (iki šios strategijos
-įsigaliojimo dienos – Seimo patvirtinta Valstybės ilgalaikės raidos strategija),
-Nacionalinės pažangos programa, kitais Seimo ir Vyriausybės patvirtintais
+įsigaliojimo dienos – Seimo patvirtinta Valstybės ilgalaikės raidos
+strategija), Nacionalinės pažangos programa, kitais Seimo ir Vyriausybės patvirtintais
 planavimo dokumentais, šiuo Įstatymu, Fiskalinės drausmės įstatymu, kitais
 įstatymais ir kitais teisės aktais, šalies ūkio plėtros makroekonominėmis
 prognozėmis, Europos Sąjungos finansinės paramos strateginiais dokumentais,
@@ -613,8 +620,8 @@ Nr. XI-1209,
 19
 straipsnis. Dokumentai, teikiami Seimui kartu su Valstybės biudžeto ir
 savivaldybių 
-biudžetų finansinių
-rodiklių patvirtinimo įstatymo projektu
+biudžetų finansinių rodiklių
+patvirtinimo įstatymo projektu
 Vyriausybė kartu su atitinkamų
 metų Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
 patvirtinimo įstatymo projektu Seimui pateikia:
@@ -1382,6 +1389,13 @@ SANDAROS ĮSTATYMO 2, 3, 4, 5, 6, 7, 8, 10, 14, 15, 16, 17, 18, 21, 24, 28, 30,
 31, 32, 33, 35, 36, 37 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 3 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
  
+31.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1825,
+2011-12-20, Žin., 2011, Nr. 161-7619 (2011-12-29)
+BIUDŽETO SANDAROS ĮSTATYMO 10 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+ 
  
 ***
 Pabaiga ***
@@ -1404,5 +1418,5 @@ LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 *** Pabaiga ***
  
  
-Redagavo Aušra Bodin (2011-07-14)
-                  aubodi@lrs.lt
+Redagavo Aušrinė Trapinskienė (2011-12-29)
+                  ausrine.trapinskiene@lrs.lt
