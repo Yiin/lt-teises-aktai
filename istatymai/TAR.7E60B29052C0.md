@@ -301,7 +301,7 @@ ADAMKUS
  
  
 Priedėlio
-redakcija iki 2012 gruodžio 31 d.: 
+redakcija iki 2012 gruodžio 31 d. : 
                                                                                                 Lietuvos
 Respublikos
                                                                                                 valstybės
@@ -1023,7 +1023,7 @@ Organizuotų nusikaltimų ir korupcijos tyrimas.
  
  
 III
-skirsnio redakcija nuo 2012 m. gegužės 1 d.:
+skirsnio redakcija nuo 2012 m. gegužės 1 d. iki 2012 m.  gruodžio 31 d.:
  
 III. Prokurorų pareiginės algos
 (Baziniais
@@ -1682,9 +1682,9 @@ apskaičiuojamas proporcingai dirbtam laikui.
  
 Priedėlio
 redakcija nuo 2013 m. sausio 1 d. : 
-                                                                                    Lietuvos
+Lietuvos
 Respublikos 
-                                                                                                valstybės
+                                                                                                valstybės
 politikų ir valstybės
                                                                                                 pareigūnų
 darbo apmokėjimo
@@ -2016,7 +2016,8 @@ Pareiginės
 1.
 
 
-Generalinė prokuratūra
+Generalinė
+  prokuratūra 
 
 
  
@@ -2027,7 +2028,8 @@ Generalinė prokuratūra
 1.1.
 
 
-Generalinis prokuroras
+Generalinis
+  prokuroras
 
 
 16,7
@@ -2038,7 +2040,8 @@ Generalinis prokuroras
 1.2.
 
 
-Generalinio prokuroro pavaduotojas
+Generalinio
+  prokuroro pavaduotojas
 
 
 15,2
@@ -2049,7 +2052,8 @@ Generalinio prokuroro pavaduotojas
 1.3.
 
 
-Departamento vyriausiasis prokuroras
+Departamento
+  vyriausiasis prokuroras
 
 
 14,7
@@ -2057,10 +2061,11 @@ Departamento vyriausiasis prokuroras
 
 
 
-1.4.
+1.4. 
 
 
-Skyriaus vyriausiasis prokuroras
+Skyriaus
+  vyriausiasis prokuroras
 
 
 14,5
@@ -2071,8 +2076,8 @@ Skyriaus vyriausiasis prokuroras
 1.5. 
 
 
-Departamento vyriausiojo prokuroro
-  pavaduotojas, departamento skyriaus vyriausiasis prokuroras
+Departamento
+  vyriausiojo prokuroro pavaduotojas
 
 
 14,3
@@ -2080,11 +2085,11 @@ Departamento vyriausiojo prokuroro
 
 
 
-1.6.
+1.6. 
 
 
-Skyriaus vyriausiojo prokuroro
-  pavaduotojas
+Skyriaus
+  vyriausiojo prokuroro pavaduotojas
 
 
 14,1
@@ -2092,22 +2097,11 @@ Skyriaus vyriausiojo prokuroro
 
 
 
-1.7.
+1.7. 
 
 
-Departamento skyriaus vyriausiojo
-  prokuroro pavaduotojas
-
-
-14,0
-
-
-
-
-1.8. 
-
-
-ONKT prokuroras
+ONKT
+  departamento prokuroras 
 
 
 13,8
@@ -2115,11 +2109,11 @@ ONKT prokuroras
 
 
 
-1.9.
+1.8. 
 
 
-Departamento prokuroras, departamento
-  skyriaus prokuroras, skyriaus prokuroras, prokuroras
+Departamento
+  prokuroras 
 
 
 13,1
@@ -2127,10 +2121,34 @@ Departamento prokuroras, departamento
 
 
 
+1.9. 
+
+
+Skyriaus
+  prokuroras 
+
+
+13,0
+
+
+
+
+1.10. 
+
+
+Prokuroras
+  
+
+
+12,9
+
+
+
+
 2.
 
 
-Apygardų prokuratūros
+Apygardų prokuratūros 
 
 
  
@@ -2141,10 +2159,11 @@ Apygardų prokuratūros
 2.1.
 
 
-Vyriausiasis prokuroras
+Vyriausiasis
+  prokuroras
 
 
-14,7
+11,8
 
 
 
@@ -2152,10 +2171,11 @@ Vyriausiasis prokuroras
 2.2.
 
 
-Vyriausiojo prokuroro pavaduotojas
+Vyriausiojo
+  prokuroro pavaduotojas
 
 
-14,3
+10,8
 
 
 
@@ -2163,8 +2183,8 @@ Vyriausiojo prokuroro pavaduotojas
 2.3.
 
 
-Specializuoto skyriaus vyriausiasis
-  prokuroras
+Skyriaus
+  vyriausiasis prokuroras
 
 
 10,4
@@ -2175,8 +2195,8 @@ Specializuoto skyriaus vyriausiasis
 2.4.
 
 
-Specializuoto skyriaus vyriausiojo
-  prokuroro pavaduotojas
+Skyriaus
+  vyriausiojo prokuroro pavaduotojas
 
 
 10,1
@@ -2187,7 +2207,8 @@ Specializuoto skyriaus vyriausiojo
 2.5.
 
 
-Specializuoto skyriaus prokuroras
+ONKT
+  prokuroras
 
 
 10,0
@@ -2195,11 +2216,22 @@ Specializuoto skyriaus prokuroras
 
 
 
+2.6.
+
+
+Prokuroras
+
+
+9,5
+
+
+
+
 3.
 
 
-Apygardų
-  prokuratūrų apylinkių prokuratūros
+Vilniaus,
+  Kauno ir Klaipėdos miestų apylinkių prokuratūros 
 
 
  
@@ -2210,10 +2242,11 @@ Apygardų
 3.1.
 
 
-Vyriausiasis prokuroras
+Vyriausiasis
+  prokuroras
 
 
-11,97
+9,8
 
 
 
@@ -2221,10 +2254,11 @@ Vyriausiasis prokuroras
 3.2.
 
 
-Vyriausiojo prokuroro pavaduotojas
+Vyriausiojo
+  prokuroro pavaduotojas
 
 
-11,64
+9,3
 
 
 
@@ -2232,10 +2266,11 @@ Vyriausiojo prokuroro pavaduotojas
 3.3.
 
 
-Skyriaus vyriausiasis prokuroras
+Skyriaus
+  vyriausiasis prokuroras
 
 
-9,72
+8,5
 
 
 
@@ -2243,11 +2278,11 @@ Skyriaus vyriausiasis prokuroras
 3.4.
 
 
-Skyriaus vyriausiojo prokuroro
-  pavaduotojas
+Skyriaus
+  vyriausiojo prokuroro pavaduotojas
 
 
-9,62
+8,4
 
 
 
@@ -2256,9 +2291,128 @@ Skyriaus vyriausiojo prokuroro
 
 
 Prokuroras
+  
 
 
-9,5
+8,3
+
+
+
+
+4.
+
+
+Šiaulių
+  ir Panevėžio miestų apylinkių prokuratūros 
+
+
+ 
+
+
+
+
+4.1.
+
+
+Vyriausiasis
+  prokuroras
+
+
+9,7
+
+
+
+
+4.2.
+
+
+Vyriausiojo
+  prokuroro pavaduotojas
+
+
+9,2
+
+
+
+
+4.3.
+
+
+Skyriaus
+  vyriausiasis prokuroras
+
+
+8,5
+
+
+
+
+4.4.
+
+
+Skyriaus
+  vyriausiojo prokuroro pavaduotojas
+
+
+8,4
+
+
+
+
+4.5.
+
+
+Prokuroras
+
+
+8,3
+
+
+
+
+5.
+
+
+Kitų
+  rajonų (miestų) apylinkių prokuratūros 
+
+
+ 
+
+
+
+
+5.1.
+
+
+Vyriausiasis
+  prokuroras
+
+
+9,3
+
+
+
+
+5.2.
+
+
+Vyriausiojo
+  prokuroro pavaduotojas
+
+
+8,8
+
+
+
+
+5.3.
+
+
+Prokuroras
+
+
+8,0
 
 
 
@@ -2266,11 +2420,9 @@ Prokuroras
 Pastaba. ONKT –
 Organizuotų nusikaltimų ir korupcijos tyrimas.
  
- IV.
-VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS
- 
+IV. VALSTYBĖS
+PAREIGŪNŲ PAREIGINĖS ALGOS
 (Baziniais dydžiais)
- 
 
 
 
@@ -2358,7 +2510,8 @@ Seimo kontrolieriai
 3. 
 
 
-(neteko galios)
+(neteko galios nuo 2009 m. vasario 1
+  d.)
 
 
  
@@ -2518,7 +2671,7 @@ vadovai
 9.2.
 
 
-pareigūnai
+Pareigūnai
 
 
 7
@@ -2564,8 +2717,7 @@ nariai
 11.
 
 
-(neteko
-  galios)
+(neteko galios nuo 2011-12-22) 
 
 
  
@@ -2606,8 +2758,8 @@ Nr. VIII-2057,
 2000 10 17, Žin., 2000, Nr. 92-2887 (2000 10 31)
 Nr. IX-312, 2001 05 08, Žin., 2001, Nr.
 43-1492 (2001 05 23)
-Nr. IX-349, 2001 05 24, Žin., 2001, Nr. 48-1661
-(2001 06 06)
+Nr. IX-349, 2001 05 24, Žin., 2001, Nr.
+48-1661 (2001 06 06)
 Nr. IX-841,
 2002-04-09, Žin., 2002, Nr. 43-1606 (2002-04-26)
 Nr. IX-1012,
@@ -2643,8 +2795,8 @@ X-1773,
 Nr.
 X-1816,
 2008-11-13, Žin., 2008, Nr. 135-5245 (2008-11-25)
-Nr. XI-157,
-2009-01-20, Žin., 2009, Nr. 11-398 (2009-01-29)\
+Nr. XI-157, 2009-01-20,
+Žin., 2009, Nr. 11-398 (2009-01-29)\
 Nr. XI-224,
 2009-04-23, Žin., 2009, Nr. 49-1935 (2009-04-30)
 Nr.
@@ -2672,8 +2824,8 @@ Nr. XI-1789,
 2011-12-09, Žin., 2011, Nr. 156-7386 (2011-12-22)
 Nr. XI-1790,
 2011-12-09, Žin., 2011, Nr. 156-7387 (2011-12-22)
-Nr. XI-1834, 2011-12-21,
-Žin., 2011, Nr. 163-7747 (2011-12-31)
+Nr. XI-1834,
+2011-12-21, Žin., 2011, Nr. 163-7747 (2011-12-31)
  
 ________________
  
@@ -2752,8 +2904,8 @@ Nr.
 IX-1012,
 2002-07-02, Žin., 2002, Nr. 72-3018 (2002-07-17)
 VALSTYBĖS
-POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 7 STRAIPSNIŲ
-IR ĮSTATYMO PRIEDĖLIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 7
+STRAIPSNIŲ IR ĮSTATYMO PRIEDĖLIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 9.
 Lietuvos
@@ -2971,6 +3123,8 @@ Nr. XI-224,
 VALSTYBĖS
 POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
 ĮSTATYMAS
+Šio įstatymo 1 straipsnis įsigalioja
+2009 m. gegužės 1 d.
 Šio
 įstatymo 2 straipsnis įsigalioja 2013 m. sausio 1 d.
 Šio
@@ -3017,12 +3171,6 @@ Nr. XI-1789,
 2011-12-09, Žin., 2011, Nr. 156-7386 (2011-12-22)
 VALSTYBĖS POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO
 PRIEDĖLIO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-6)
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1839, 2011-12-21, Žin., 2011, Nr. 163-7749 (2011-12-31)
-VALSTYBĖS POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO
-PRIEDĖLIO PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS, 2 IR 3
-STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 28.
 Lietuvos
@@ -3039,8 +3187,8 @@ galiojimas keistas:
 1)
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XI-980,
-2010-07-02, Žin., 2010, Nr. 86-4531 (2010-07-20)
+Nr. XI-980, 2010-07-02,
+Žin., 2010, Nr. 86-4531 (2010-07-20)
 VALSTYBĖS
 POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
 ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
@@ -3119,9 +3267,9 @@ STRAIPSNIO 1 IR 3 DALIŲ, 7 STRAIPSNIO 3 DALIES 1 PUNKTO, 4, 5 IR 6 DALIŲ, ŠIO
 BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO 6
 PRIEDĖLIO, LIETUVOS RESPUBLIKOS 2000 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ
 BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO PAKEITIMO ĮSTATYMO 9
-STRAIPSNIO, LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1991 M. LAPKRIČIO 29 D. NUTARIMO NR. 499 "DĖL VALSTYBINĖS VALDŽIOS, VALSTYBĖS VALDYMO IR
-TEISĖSAUGOS ORGANŲ VADOVŲ BEI KITŲ PAREIGŪNŲ LAIKINOS BANDOMOSIOS DARBO
-APMOKĖJIMO TVARKOS", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 24 D. NUTARIMO NR. 666 "DĖL LIETUVOS RESPUBLIKOS TEISMŲ TEISĖJŲ, PROKURATŪROS
+STRAIPSNIO, LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1991 M. LAPKRIČIO 29 D. NUTARIMO NR. 499 "DĖL VALSTYBINĖS VALDŽIOS, VALSTYBĖS VALDYMO IR TEISĖSAUGOS
+ORGANŲ VADOVŲ BEI KITŲ PAREIGŪNŲ LAIKINOS BANDOMOSIOS DARBO APMOKĖJIMO
+TVARKOS", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 24 D. NUTARIMO NR. 666 "DĖL LIETUVOS RESPUBLIKOS TEISMŲ TEISĖJŲ, PROKURATŪROS
 SISTEMOS IR LIETUVOS RESPUBLIKOS VALSTYBĖS SAUGUMO DEPARTAMENTO PAREIGŪNŲ BEI
 KITŲ DARBUOTOJŲ DARBO APMOKĖJIMO", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1999 M. GRUODŽIO 28 D. NUTARIMO NR. 1494 "DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 30 D. NUTARIMO NR. 689 "DĖL TEISĖTVARKOS, TEISĖSAUGOS IR KONTROLĖS INSTITUCIJŲ
 VADOVAUJANČIŲJŲ PAREIGŪNŲ IR VALDININKŲ DARBO APMOKĖJIMO" DALINIO
