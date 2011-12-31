@@ -1103,18 +1103,19 @@ straipsnis. Išeitinė išmoka
 Kai pareigūnas
 atleidžiamas iš tarnybos pagal šio statuto 31 straipsnio 1 dalies 3, 4, 7
 punktus ir 2 dalies 4 ir 18 punktus, atleidimo iš tarnybos dieną jam išmokama
-jo vidutinio darbo užmokesčio dydžio išeitinė išmoka, atsižvelgiant į nepertraukiamąjį
-to pareigūno tarnybos stažą Kalėjimų departamente (Pataisos reikalų
-departamente prie Vidaus reikalų ministerijos arba jam pavaldžioje įstaigoje ar
-valstybės įmonėje bei policijos komisariato pataisos darbų inspekcijoje) arba
-jam pavaldžioje įstaigoje ar valstybės įmonėje (į nepertraukiamąjį pareigūno
-tarnybos stažą Kalėjimų departamente (Pataisos reikalų departamente prie Vidaus
-reikalų ministerijos arba jam pavaldžioje įstaigoje ar valstybės įmonėje bei
-policijos komisariato pataisos darbų inspekcijoje) arba jam pavaldžioje
-įstaigoje ar valstybės įmonėje taip pat įskaitomas laikas, kurį pareigūnas šio
-statuto 34 straipsnio 3 dalyje ir 38 straipsnyje nustatytais atvejais buvo
-perkeltas į kitas pareigas, ir laikas, kurį pareigūnas teisės aktų nustatyta
-tvarka buvo paskirtas į kitas pareigas konkurso (atrankos) tvarka (būdu):
+jo vidutinio darbo užmokesčio dydžio išeitinė išmoka, atsižvelgiant į
+nepertraukiamąjį to pareigūno tarnybos stažą Kalėjimų departamente (Pataisos
+reikalų departamente prie Vidaus reikalų ministerijos arba jam pavaldžioje
+įstaigoje ar valstybės įmonėje bei policijos komisariato pataisos darbų
+inspekcijoje) arba jam pavaldžioje įstaigoje ar valstybės įmonėje (į
+nepertraukiamąjį pareigūno tarnybos stažą Kalėjimų departamente (Pataisos
+reikalų departamente prie Vidaus reikalų ministerijos arba jam pavaldžioje
+įstaigoje ar valstybės įmonėje bei policijos komisariato pataisos darbų
+inspekcijoje) arba jam pavaldžioje įstaigoje ar valstybės įmonėje taip pat
+įskaitomas laikas, kurį pareigūnas šio statuto 34 straipsnio 3 dalyje ir 38
+straipsnyje nustatytais atvejais buvo perkeltas į kitas pareigas, ir laikas,
+kurį pareigūnas teisės aktų nustatyta tvarka buvo paskirtas į kitas pareigas
+konkurso (atrankos) tvarka (būdu):
 1) iki 5 metų –
 2 mėnesių vidutinio darbo užmokesčio dydžio;
 2) nuo 5 iki 10
@@ -1245,16 +1246,16 @@ pareiginės algos dydžio vienkartinis priedas ir priemokos.
 2. Kalėjimų
 departamento arba jam pavaldžios įstaigos pareigūno pareiginė alga, priedai ir
 priemokos, taip pat už darbą poilsio ir švenčių dienomis, nakties bei
-viršvalandinį darbą ir budėjimą mokama Valstybės tarnybos įstatymo ir šio
-statuto nustatyta tvarka.
+viršvalandinį darbą ir budėjimą mokama Valstybės tarnybos įstatymo ir šio statuto
+nustatyta tvarka.
 1 ir 2 dalių redakcija galioja iki 2012
 m. gruodžio 31 d.
  
 3. Pareigūnams
 nustatomi tokie pareiginės algos priedų už turimus rangus apskaičiavimo pagal
 pareiginės algos bazinį dydį (toliau – bazinis dydis) koeficientai:
-1) už pataisos
-jaunesniojo pareigūno III rangą – 0,1 bazinio dydžio;
+1) už pataisos jaunesniojo
+pareigūno III rangą – 0,1 bazinio dydžio;
 2) už pataisos
 jaunesniojo pareigūno II rangą – 0,15 bazinio dydžio; 
 3) už pataisos
@@ -1381,8 +1382,8 @@ kategorija, jos, atsižvelgiant į asmens kvalifikaciją, profesinius įgūdžiu
 darbo patirtį, gali būti atitinkamai prilyginamos Kalėjimų departamento arba
 jam pavaldžios įstaigos pareigūnams suteikiamoms kvalifikacinėms kategorijoms,
 jeigu nuo asmens atleidimo iš buvusios tarnybos dienos iki skyrimo į Kalėjimų
-departamento arba jam pavaldžios įstaigos pareigūno pareigas dienos nepraėjo
-daugiau kaip 2 mėnesiai.
+departamento arba jam pavaldžios įstaigos pareigūno pareigas dienos nepraėjo daugiau
+kaip 2 mėnesiai.
 5. Šio
 straipsnio 3 ir 4 dalyse numatytais atvejais pareigūnui kvalifikacinę
 kategoriją gali suteikti (palikti) šį pareigūną į pareigas skiriantis
@@ -1412,9 +1413,9 @@ paskyrimo, profesinių sąjungų atstovas į komisijos narius neskiriamas.
 tarnybinės veiklos vertinimą Teisingumo ministerijoje, Kalėjimų departamente ar
 jam pavaldžioje įstaigoje ne vėliau kaip prieš 10 darbo dienų iki tarnybinės
 veiklos vertinimo pradžios pranešama pareigūnui.
-9. Kvalifikacijos
-vertinimo komisija pareigūno tarnybinę veiklą gali įvertinti labai gerai,
-gerai, patenkinamai arba nepatenkinamai.
+9.
+Kvalifikacijos vertinimo komisija pareigūno tarnybinę veiklą gali įvertinti
+labai gerai, gerai, patenkinamai arba nepatenkinamai.
 10.
 Kvalifikacijos vertinimo komisija, įvertinusi pareigūno tarnybinę veiklą labai
 gerai, teisingumo ministrui, Kalėjimų departamento direktoriui ar jam
@@ -1462,15 +1463,14 @@ Kvalifikacijos vertinimo komisija nėščių ir krūtimi maitinančių pareigūn
 pareigūnų, išėjusių vaiko priežiūros atostogų, iki vaikui sueis 3 metai,
 tarnybinę veiklą vertina tik jų prašymu. 
 16. Pareigūnai
-sprendimus, priimtus pagal kvalifikacijos vertinimo komisijos pasiūlymus, ir
-sprendimus dėl kvalifikacinių kategorijų, nurodytus šio straipsnio 5 dalyje,
-per vieną mėnesį nuo supažindinimo su šiais sprendimais dienos gali apskųsti
-teismui Administracinių bylų teisenos įstatymo
-nustatyta tvarka.
+sprendimus, priimtus pagal kvalifikacijos vertinimo komisijos pasiūlymus, ir sprendimus
+dėl kvalifikacinių kategorijų, nurodytus šio straipsnio 5 dalyje, per vieną
+mėnesį nuo supažindinimo su šiais sprendimais dienos gali apskųsti teismui Administracinių bylų teisenos įstatymo nustatyta
+tvarka.
 17. Pareigūnų
 kvalifikacinių kategorijų suteikimo taisykles, taip pat konkrečius reikalavimus
-kvalifikacinėms kategorijoms gauti nustato ir kvalifikacijos vertinimo komisijos
-nuostatus tvirtina teisingumo ministras.
+kvalifikacinėms kategorijoms gauti nustato ir kvalifikacijos vertinimo
+komisijos nuostatus tvirtina teisingumo ministras.
  
 DVYLIKTASIS
 SKIRSNIS
@@ -1517,8 +1517,9 @@ savivaldybių tarybų rinkimuose suteikiamos įstatymų nustatyta tvarka.
 7. Pareigūnui,
 pagal šio statuto 38 straipsnį perkeliamam į kitas pareigas kitoje gyvenamojoje
 vietovėje, skiriama iki 5 darbo dienų atostogų dėl pareigūno perkėlimo į kitas
-pareigas. Už šį laikotarpį pareigūnui mokamas jo vidutinis mėnesinis darbo užmokestis.
-Vidutinį mėnesinį darbo užmokestį moka įstaiga, į kurią pareigūnas perkeltas.
+pareigas. Už šį laikotarpį pareigūnui mokamas jo vidutinis mėnesinis darbo
+užmokestis. Vidutinį mėnesinį darbo užmokestį moka įstaiga, į kurią pareigūnas
+perkeltas.
 8. Kitas
 atostogų rūšis, trukmę ir jų suteikimo pareigūnams tvarką nustato šis statutas
 ir kiti Lietuvos Respublikos įstatymai.
@@ -1531,11 +1532,11 @@ laikant jo priėmimo į tarnybą datą, į tarnybos stažą papildomai įskaitan
 jų ir laikotarpius, buvusius iki 1990 m. kovo 11 d.):
 1) faktinį
 tarnybos vidaus reikalų, krašto apsaugos, valstybės saugumo, prokuratūros
-sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente (Pataisos
-reikalų departamente prie Vidaus reikalų ministerijos ir jam pavaldžiose
-įstaigose ir valstybės įmonėse), jam pavaldžiose įstaigose ir valstybės įmonėse
-ir Lietuvos muitinėje laiką nuo paskyrimo į pareigūno pareigas ar kario statuso
-įgijimo dienos;
+sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente (Pataisos reikalų
+departamente prie Vidaus reikalų ministerijos ir jam pavaldžiose įstaigose ir
+valstybės įmonėse), jam pavaldžiose įstaigose ir valstybės įmonėse ir Lietuvos
+muitinėje laiką nuo paskyrimo į pareigūno pareigas ar kario statuso įgijimo
+dienos;
 2) darbo įstaigose ir organizacijose laiką, jeigu
 pareigūnas buvo nusiųstas dirbti į jas būdamas įtrauktas į Vidaus reikalų
 ministerijos, Krašto apsaugos ministerijos kadrų rezervą, Valstybės saugumo
@@ -1558,8 +1559,8 @@ vėliau tos pareigos priskirtos pareigūno pareigoms;
 dirbtą profesionaliosios priešgaisrinės apsaugos padalinio vadovu, gaisrininku,
 gaisrininku vairuotoju Darbo sutarties įstatymo pagrindais, jeigu vėliau šis
 darbuotojas buvo paskirtas statutiniu priešgaisrinės apsaugos pareigūnu;
-7) vieną
-tarnybos ar darbo dieną Lietuvos Respublikos krašto apsaugos departamento
+7) vieną tarnybos
+ar darbo dieną Lietuvos Respublikos krašto apsaugos departamento
 struktūriniuose padaliniuose nuo 1990 m. balandžio 25 d. iki 1991 m. rugpjūčio 23 d., Valstybės saugumo departamento prie Lietuvos Respublikos Vyriausybės
 sistemoje nuo 1990 m. kovo 26 d. iki 1991 m. rugpjūčio 23 d. ir Lietuvos Respublikos Aukščiausiosios Tarybos Apsaugos skyriuje nuo 1990 m. birželio 8 d. iki 1991 m. rugpjūčio 23 d. – kaip 3 tarnybos dienas;
 8) asmeniui,
@@ -1574,10 +1575,10 @@ vidurinėse, aukštesniosiose Lietuvos Respublikos policijos (vidaus reikalų),
 saugumo ir karo mokyklose laiką. Mokymosi tokiose pat kitų valstybių
 mokyklose laikas gali būti įskaitytas į tarnybos stažą Vyriausybės nustatyta
 tvarka. Į tarnybos stažą taip pat įskaitoma pusė mokymosi kitose aukštosiose,
-aukštesniosiose ir specialiosiose vidurinėse mokyklose laiko, jeigu jas baigę asmenys
-yra priimti į tarnybą per 3 mėnesius, neįskaitant ligos, nėštumo ir gimdymo
-atostogų, taip pat būtinosios tarnybos kariuomenėje ar dalyvavimo kariniuose
-mokymuose trukmės;
+aukštesniosiose ir specialiosiose vidurinėse mokyklose laiko, jeigu jas baigę
+asmenys yra priimti į tarnybą per 3 mėnesius, neįskaitant ligos, nėštumo ir
+gimdymo atostogų, taip pat būtinosios tarnybos kariuomenėje ar dalyvavimo
+kariniuose mokymuose trukmės;
 10) vieną
 tarnybos dieną tarptautinių organizacijų misijose Vyriausybės siuntimu: taikos
 įvedimo misijose – kaip 3 tarnybos dienas, taikos palaikymo misijose ir
@@ -1641,7 +1642,8 @@ kuriam buvo išmokėta kompensacija pagal šio straipsnio 3 dalies 4, 5 arba 6
 punktą ir kuriam vėliau dėl to paties sveikatos sutrikdymo nustatomas ir
 darbingumo lygis, papildomai išmokamas pagal šio straipsnio 3 dalies 4,
 5 arba 6 punktą išmokėtos kompensacijos ir šio straipsnio 3 dalies 1, 2 arba 3
-punkte nurodytos kompensacijos, atsižvelgiant į nustatytą darbingumo lygį, skirtumas.
+punkte nurodytos kompensacijos, atsižvelgiant į nustatytą darbingumo lygį,
+skirtumas.
 5. Pareigūno
 žūties arba sveikatos sutrikdymo atvejais, numatytais šio straipsnio 1 ir 3
 dalyse, kompensacijos dydis apskaičiuojamas pagal įvykio metu gautą jo darbo
@@ -1658,15 +1660,14 @@ ministerijos.
 8. Pareigūnams
 kompensuojama padaryta materialinė žala, kurią jie patyrė dėl tarnybos ir kuri
 yra nustatyta įgalioto pareigūno ar valstybės institucijos tyrimo metu. Ši
-kompensacija išmokama Vyriausybės arba jos įgaliotos institucijos nustatyta
-tvarka.
+kompensacija išmokama Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka.
  
 49 straipsnis.
 Kompensacijų nemokėjimas
 Šio statuto 48
 straipsnyje nurodytos kompensacijos nemokamos, jeigu:
-1) pareigūnas žuvo
-arba sutrikdė savo sveikatą darydamas tyčinę nusikalstamą veiką;
+1) pareigūnas
+žuvo arba sutrikdė savo sveikatą darydamas tyčinę nusikalstamą veiką;
 2) pareigūnas
 žuvo arba sutrikdė savo sveikatą dėl apsvaigimo nuo alkoholio, narkotinių,
 psichotropinių ar kitokių medžiagų;
@@ -1678,8 +1679,7 @@ priemonę, kai neturėjo teisės ją vairuoti, arba perdavė ją vairuoti asmeni
 apsvaigusiam nuo alkoholio, narkotinių, psichotropinių ar kitokių medžiagų arba
 neturinčiam teisės ją vairuoti;
 5) pareigūno
-sveikata sutriko ar jis mirė dėl ligos ir tai nesusiję su tarnybinių pareigų
-ėjimu.
+sveikata sutriko ar jis mirė dėl ligos ir tai nesusiję su tarnybinių pareigų ėjimu.
  
 50
 straipsnis.
@@ -1737,8 +1737,8 @@ ir savivaldybių biudžetų, savivaldybių sveikatos fondų lėšų. Pareigūnų
 papildomo asmens sveikatos priežiūros rėmimo programos finansuojamos iš
 valstybės biudžeto.
 2. Pareigūnų
-darbo aplinkos visuomenės sveikatos priežiūra ir valstybinė visuomenės sveikatos
-kontrolė atliekama įstatymų ir kitų teisės aktų nustatyta tvarka.
+darbo aplinkos visuomenės sveikatos priežiūra ir valstybinė visuomenės
+sveikatos kontrolė atliekama įstatymų ir kitų teisės aktų nustatyta tvarka.
  
 52
 straipsnis. Pareigūnų darbo ir poilsio laiko ypatumai
@@ -1775,10 +1775,10 @@ Kalėjimų departamente ar jam pavaldžioje įstaigoje, kai viršijama nustatyta
 darbo laiko trukmė, arba iš anksto aptartoje vietoje per artimiausias 10 dienų
 privalo būti suteikiamas poilsio laikas tokios pat trukmės kaip budėjimas
 Kalėjimų departamente ar jam pavaldžioje įstaigoje arba darbo laikui
-prilygintas budėjimo laikas (kai budima iš anksto aptartoje vietoje) arba
-pareigūno pageidavimu šis poilsio laikas gali būti pridedamas prie kasmetinių
-atostogų, arba už tai apmokama kaip už užduočių, atliekamų viršijant nustatytą
-darbo trukmę, atlikimą.
+prilygintas budėjimo laikas (kai budima iš anksto aptartoje vietoje) arba pareigūno
+pageidavimu šis poilsio laikas gali būti pridedamas prie kasmetinių atostogų,
+arba už tai apmokama kaip už užduočių, atliekamų viršijant nustatytą darbo
+trukmę, atlikimą.
 4. Nėščia
 pareigūnė, pareigūnas, auginantis vaiką (vaikus) iki 3 metų, ir pareigūnas,
 vienas auginantis vaiką (vaikus) iki 14 metų arba neįgalų vaiką (vaikus) iki 18
@@ -1798,26 +1798,12 @@ Kitos pareigūnų socialinės garantijos
 taikomos Valstybinio socialinio draudimo įstatymo nustatytos socialinės
 garantijos.
 2. Laikinojo
-nedarbingumo (išskyrus laikinąjį nedarbingumą dėl nelaimingo atsitikimo
-darbe (tarnyboje), nelaimingo atsitikimo ar įvykio, susijusio su tarnyba, taip
-pat dėl nelaimingo atsitikimo vykstant į tarnybą ar grįžtant iš jos, profesinės
-ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos
-vykdymo), nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros
-atostogų laikotarpiais pareigūnams mokamas vidutinis jų darbo užmokestis arba
-jo dalis. Mokamo vidutinio darbo užmokesčio arba jo dalies dydis, maksimalus
-kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi vadovaujantis
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo
-nuostatomis. Laikinojo nedarbingumo dėl nelaimingo atsitikimo darbe
-(tarnyboje), nelaimingo atsitikimo ar įvykio, susijusio su tarnyba, taip pat
-dėl nelaimingo atsitikimo vykstant į tarnybą ar grįžtant iš jos, profesinės
-ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos
-vykdymo, atveju pareigūnams mokama 100 procentų jų vidutinio darbo užmokesčio,
-taikant maksimalaus ir minimalaus kompensuojamojo uždarbio dydžius
-vadovaujantis Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių
-ligų socialinio draudimo įstatymo nuostatomis dėl ligos pašalpos skaičiavimo.
-Pastaba. 2
-dalies nuostatos taikomos apskaičiuojant ligos išmokas nuo 2012 m. sausio 1 d.
- 
+nedarbingumo, nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros
+atostogų laikotarpiais pareigūnams mokamas Vyriausybės nustatyta tvarka
+apskaičiuotas vidutinis jų darbo užmokestis arba jo dalis. Mokamo vidutinio darbo užmokesčio ar jo dalies
+dydis, maksimalus kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi
+vadovaujantis Lietuvos Respublikos ligos ir motinystės socialinio draudimo
+įstatymo nuostatomis.
 3. Neteko galios
 nuo 2011 m. liepos 1 d.
 4. Neteko galios
@@ -1827,8 +1813,6 @@ nuo 2011 m. liepos 1 d.
 Straipsnio pakeitimai:
 Nr. XI-987,
 2010-07-02, Žin., 2010, Nr. 86-4538 (2010-07-20)
-Nr. XI-1857,
-2011-12-22, Žin., 2011, Nr. 163-7755 (2011-12-31)
  
 TRYLIKTASIS
 SKIRSNIS
@@ -1846,9 +1830,9 @@ departamentas ir jam pavaldžios įstaigos, veikiančios pagal Biudžetinių įs
 55 straipsnis. Kalėjimų departamento ir
 jam pavaldžių įstaigų aprūpinimas šaunamaisiais ginklais ir specialiosiomis
 priemonėmis
-1. Kalėjimų departamentas
-ir jam pavaldžios įstaigos šaunamuosius ginklus, šaudmenis ir specialiąsias
-priemones įsigyja įstatymų ir kitų teisės aktų nustatyta tvarka.
+1. Kalėjimų
+departamentas ir jam pavaldžios įstaigos šaunamuosius ginklus, šaudmenis ir
+specialiąsias priemones įsigyja įstatymų ir kitų teisės aktų nustatyta tvarka.
 2. Šaunamieji
 ginklai, šaudmenys ir specialiosios priemonės saugomos ir išduodamos Kalėjimų
 departamente ir jam pavaldžiose įstaigose Kalėjimų departamento direktoriaus
@@ -1873,8 +1857,8 @@ Pakeitimai:
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1545, 2003-04-29,
-Žin., 2003, Nr. 49-2158 (2003-05-21)
+IX-1545,
+2003-04-29, Žin., 2003, Nr. 49-2158 (2003-05-21)
 TARNYBOS
 KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
 2, 3, 7, 8, 9, 10, 11, 12, 14, 21, 22, 23, 24, 28, 32, 36, 37, 41, 42, 44, 47,
@@ -2030,8 +2014,8 @@ PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XI-1725, 2011-11-22,
-Žin., 2011, Nr. 150-7040 (2011-12-08)
+XI-1725,
+2011-11-22, Žin., 2011, Nr. 150-7040 (2011-12-08)
 TARNYBOS KALĖJIMŲ DEPARTAMENTE
 PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO 1 STRAIPSNIO
 PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
@@ -2096,23 +2080,12 @@ KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUT
 Šis
 įstatymas įsigalioja 2012 m. kovo 1 d.
  
-12.
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-XI-1857,
-2011-12-22, Žin., 2011, Nr. 163-7755 (2011-12-31)
-TARNYBOS
-KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO
-53 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-Šio įstatymo nuostatos taikomos
-apskaičiuojant ligos išmokas nuo 2012 m. sausio 1 d.
- 
 ***
 Pabaiga ***
  
  
 Redagavo
 Aušrinė Trapinskienė (2012-01-05)
-                  ausrine.trapinskiene@lrs.lt
+                 
+ausrine.trapinskiene@lrs.lt
 
