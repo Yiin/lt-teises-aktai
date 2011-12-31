@@ -422,8 +422,8 @@ Nr. XI-319,
 2009-07-07, Žin., 2009, Nr. 85-3576 (2009-07-18)
 Nr. XI-511, 2009-12-02,
 Žin., 2009, Nr. 147-6554 (2009-12-12)
-Nr. XI-1127, 2010-11-12, Žin., 2010, Nr. 139-7111
-(2010-11-27)
+Nr. XI-1127,
+2010-11-12, Žin., 2010, Nr. 139-7111 (2010-11-27)
  
 14
 straipsnis. Draudimas Ministrui Pirmininkui ir ministrams eiti kitas renkamas
@@ -585,9 +585,9 @@ Vyriausybės priimtiems valstybės tarnautojams ir pareigūnams skiria tarnybine
 ar drausmines nuobaudas, juos skatina;
 15)
 sudaro Vyriausybės komitetus ir Vyriausybės komisijas;
-16) vykdo kitas pareigas,
-kurias Vyriausybei numato Lietuvos Respublikos Konstitucija, šis ir kiti
-įstatymai.
+16) vykdo kitas
+pareigas, kurias Vyriausybei numato Lietuvos Respublikos Konstitucija, šis ir
+kiti įstatymai.
 Straipsnio pakeitimai:
 Nr. VIII-1980,
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
@@ -622,26 +622,25 @@ PIRMININKO IR MINISTRŲ KOMPETENCIJA
 straipsnis. Ministras Pirmininkas
 1. Ministras
 Pirmininkas atstovauja Vyriausybei ir vadovauja jos veiklai.
-2. Ministras
-Pirmininkas:
+2. Ministras Pirmininkas:
 1) sudaro
 Vyriausybę ir teikia jos sudėtį tvirtinti Respublikos Prezidentui;
 2) teikia
 siūlymus Respublikos Prezidentui dėl ministrų skyrimo ir atleidimo;
 3) Valstybės
-tarnybos įstatymo nustatyta tvarka priima į pareigas ir atleidžia iš jų
-Ministro Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojus,
-kitus įstatymų nustatytus valstybės tarnautojus ir pareigūnus; Ministro
-Pirmininko kancleriui gali pavesti priimti į pareigas ir atleisti iš jų
-Ministro Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojus,
-tvirtinti jų pareigybių aprašymus;
+tarnybos įstatymo nustatyta tvarka priima į pareigas ir atleidžia iš jų Ministro
+Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojus, kitus
+įstatymų nustatytus valstybės tarnautojus ir pareigūnus; Ministro Pirmininko
+kancleriui gali pavesti priimti į pareigas ir atleisti iš jų Ministro
+Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojus, tvirtinti
+jų pareigybių aprašymus;
 4) skiria
 Ministro Pirmininko priimtiems į pareigas valstybės tarnautojams ir pareigūnams
 tarnybines ar drausmines nuobaudas, skatina Ministro Pirmininko priimtus į
-pareigas valstybės tarnautojus ir pareigūnus, skiria jiems pašalpas, jei įstatymai
-nenumato kitaip; gali pavesti Ministro Pirmininko kancleriui skatinti Ministro
-Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojus, skirti
-jiems tarnybines ar drausmines nuobaudas ir pašalpas;
+pareigas valstybės tarnautojus ir pareigūnus, skiria jiems pašalpas, jei
+įstatymai nenumato kitaip; gali pavesti Ministro Pirmininko kancleriui skatinti
+Ministro Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojus,
+skirti jiems tarnybines ar drausmines nuobaudas ir pašalpas;
 5) (neteko
 galios nuo 2007 m. spalio 1 d.);
 6) Lietuvos
@@ -684,8 +683,8 @@ Nr. XI-319,
 Nr. XI-863,
 2010-06-03, Žin., 2010, Nr. 71-3541 (2010-06-19)
  
-25 straipsnis. Ministro, einančio Ministro Pirmininko
-pareigas ar pavaduojančio 
+25 straipsnis. Ministro, einančio Ministro
+Pirmininko pareigas ar pavaduojančio 
 Ministrą
 Pirmininką, įgaliojimai
 1. Ministras,
@@ -702,8 +701,8 @@ pareigas” ar “pavaduojantis Ministrą Pirmininką”.
 Straipsnio pakeitimai:
 Nr. VIII-1980,
 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
-Nr. X-1182,
-2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
+Nr. X-1182, 2007-06-14,
+Žin., 2007, Nr. 72-2831 (2007-06-30)
  
 26 straipsnis. Ministrai
 1. Ministrai yra
@@ -711,8 +710,14 @@ atsakingi už jiems pavestas valdymo sritis, kurias nustato šis ir kiti
 įstatymai.
 2.
 Ministrą laikinai pavaduoti gali tik Ministro Pirmininko paskirtas kitas
-Vyriausybės narys. Pavaduojantis ministras neatlieka funkcijų, nurodytų šio straipsnio
-3 dalies 6, 9, 13, 14 ir 15 punktuose. 
+Vyriausybės narys. Pavaduojantis ministras neatlieka funkcijų, nurodytų šio
+straipsnio 3 dalies 6, 9, 13, 14 ir 15 punktuose. 
+2 dalies redakcija nuo 2012-03-01:
+2.
+Ministrą laikinai pavaduoti gali tik Ministro Pirmininko paskirtas kitas Vyriausybės narys. Pavaduojantis ministras
+neatlieka šio straipsnio 3 dalies 6, 9, 13, 14, 15, 16 ir 17 punktuose nurodytų
+funkcijų.
+ 
 3. Ministras:
 1) vadovauja
 ministerijai, sprendžia ministerijos kompetencijai priklausančius klausimus ir
@@ -770,9 +775,9 @@ gaunančius darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fon
 juos skatina, skiria jiems tarnybines ar drausmines nuobaudas ir pašalpas arba
 šias funkcijas gali pavesti vykdyti ministerijos kancleriui;
 14)
-įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš jų įstaigų prie
-ministerijos vadovus, juos skatina ir skiria jiems tarnybines ar drausmines
-nuobaudas ir pašalpas, jei įstatymai nenustato kitaip;
+įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš jų įstaigų prie ministerijos
+vadovus, juos skatina ir skiria jiems tarnybines ar drausmines nuobaudas ir
+pašalpas, jei įstatymai nenustato kitaip;
 15) siūlo
 Vyriausybei skirti į pareigas ir atleisti iš pareigų jam pavestose valdymo
 srityse veikiančių Vyriausybės įstaigų vadovus ir Vyriausybės priimamus kitus
@@ -788,6 +793,20 @@ viceministrų veiklos, ministerijos kanclerio
 administravimo sritis;
 17) atlieka
 kitas įstatymų ir Vyriausybės nutarimų pavestas funkcijas.
+3 dalis papildoma nauju 17 punktu, buvęs 17 punktas laikomas 18
+punktu nuo 2012-03-01:
+17) tvirtina didžiausią leistiną valstybės
+tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo
+užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių skaičių
+jo valdymo sritims priskirtose atskirose įstaigose prie ministerijos ir kitose
+institucijose ir įstaigose, neviršydamas Vyriausybės patvirtinto bendro
+didžiausio leistino valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo
+sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų
+fondų, pareigybių skaičiaus jo valdymo sritims priskirtose įstaigose prie
+ministerijos ir kitose priskirtose institucijose ir įstaigose;
+18) atlieka
+kitas įstatymų ir Vyriausybės nutarimų pavestas funkcijas.
+ 
 4. Ministras,
 turintis atskirąją nuomonę apie Vyriausybės nutarimus ar atskirų jos
 narių darbą, turėtų ją pareikšti Vyriausybės posėdyje.
@@ -801,8 +820,8 @@ Nr. IX-842,
 Nr. IX-1293,
 2003-01-14, Žin., 2003, Nr. 10-342 (2003-01-29)
 Nr.
-X-500, 2006-01-19,
-Žin., 2006, Nr. 17-596 (2006-02-11)
+X-500,
+2006-01-19, Žin., 2006, Nr. 17-596 (2006-02-11)
 Nr. X-1182,
 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
 Nr.
@@ -812,6 +831,8 @@ Nr. XI-185,
 2009-03-10, Žin., 2009, Nr. 29-1139 (2009-03-17)
 Nr. XI-863,
 2010-06-03, Žin., 2010, Nr. 71-3541 (2010-06-19)
+Nr. XI-1838,
+2011-12-21, Žin., 2011, Nr. 164-7795 (2011-12-31)
  
 27 straipsnis. Vyriausybės
 komitetai ir Vyriausybės komisijos 
@@ -823,10 +844,10 @@ siūlymus dėl jos veiklos prioritetų, politikos ir strategijos tam tikroje
 srityje pasirinkimo ir jų atitikties Valstybės ilgalaikės raidos strategijai,
 prireikus derinti ministrų pozicijas sprendžiant valstybės valdymo reikalus. 
 3.
-Vyriausybės komitetai sudaromi iš Vyriausybės narių,
-Ministro Pirmininko kanclerio arba Ministro Pirmininko kanclerio pirmojo
-pavaduotojo. Sudarydama Vyriausybės komitetus, Vyriausybė
-nustato jų uždavinius, funkcijas, sudėtį, skiria pirmininką. Vyriausybės
+Vyriausybės komitetai sudaromi iš Vyriausybės narių, Ministro
+Pirmininko kanclerio arba Ministro Pirmininko kanclerio pirmojo pavaduotojo.
+Sudarydama Vyriausybės komitetus, Vyriausybė nustato jų
+uždavinius, funkcijas, sudėtį, skiria pirmininką. Vyriausybės
 komitetų darbo organizavimo tvarką nustato Vyriausybės darbo
 reglamentas.
 4. Vyriausybės komisijos sudaromos Vyriausybės pavestoms
@@ -839,9 +860,9 @@ nariai ­– Seimo statuto, o Seimo kanceliarijos darbuotojai – teisės aktų
 nustatyta tvarka. Sudarydama Vyriausybės komisijas, Vyriausybė
 nustato jų užduotis, personalinę sudėtį. Vyriausybė gali pavesti Ministrui
 Pirmininkui, ministrui, Ministro Pirmininko kancleriui ar Vyriausybės
-įstaigos vadovui patvirtinti Vyriausybės komisijos
-personalinę sudėtį. Vyriausybės komisijų darbo organizavimo
-tvarką nustato Vyriausybės darbo reglamentas.
+įstaigos vadovui patvirtinti Vyriausybės
+komisijos personalinę sudėtį. Vyriausybės komisijų darbo
+organizavimo tvarką nustato Vyriausybės darbo reglamentas.
 Straipsnio pakeitimai:
 Nr. X-1182,
 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
@@ -865,7 +886,8 @@ darbuotojai – teisės aktų nustatyta tvarka.
 vadovauja Ministro Pirmininko paskirtas asmuo.
 3. Konkrečias
 darbo grupės užduotis nustato Ministras Pirmininkas. Ministro Pirmininko
-sudarytų darbo grupių darbo organizavimo tvarką nustato Vyriausybės darbo reglamentas.
+sudarytų darbo grupių darbo organizavimo tvarką nustato Vyriausybės darbo
+reglamentas.
 4. Lėšų darbo
 grupės veiklai skyrimo klausimą prireikus sprendžia Vyriausybė.
 Straipsnio pakeitimai:
@@ -2096,9 +2118,20 @@ skelbtas: Žin., 2010, Nr. 87 (2010-07-22)
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XI-1127, 2010-11-12, Žin., 2010, Nr. 139-7111 (2010-11-27)
+XI-1127,
+2010-11-12, Žin., 2010, Nr. 139-7111 (2010-11-27)
 VYRIAUSYBĖS
 ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+34.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-1838,
+2011-12-21, Žin., 2011, Nr. 164-7795 (2011-12-31)
+VYRIAUSYBĖS
+ĮSTATYMO 26 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2012 m. kovo 1 d.
  
  
 ***
@@ -2118,11 +2151,11 @@ DALIES 7 PUNKTO, 31 STRAIPSNIO 2, 4 DALIŲ IR 6 DALIES 2 PUNKTO, 37 STRAIPSNIO 4
 DALIES, 45 STRAIPSNIO 4 DALIES ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
  
+*** Pabaiga
 ***
-Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2010-11-29)
+Aušrinė Trapinskienė (2012-01-11)
                  
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
