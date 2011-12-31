@@ -2606,8 +2606,8 @@ Nr. VIII-2057,
 2000 10 17, Žin., 2000, Nr. 92-2887 (2000 10 31)
 Nr. IX-312, 2001 05 08, Žin., 2001, Nr.
 43-1492 (2001 05 23)
-Nr. IX-349, 2001 05 24, Žin., 2001, Nr.
-48-1661 (2001 06 06)
+Nr. IX-349, 2001 05 24, Žin., 2001, Nr. 48-1661
+(2001 06 06)
 Nr. IX-841,
 2002-04-09, Žin., 2002, Nr. 43-1606 (2002-04-26)
 Nr. IX-1012,
@@ -2672,10 +2672,8 @@ Nr. XI-1789,
 2011-12-09, Žin., 2011, Nr. 156-7386 (2011-12-22)
 Nr. XI-1790,
 2011-12-09, Žin., 2011, Nr. 156-7387 (2011-12-22)
-Nr. XI-1834,
-2011-12-21, Žin., 2011, Nr. 163-7747 (2011-12-31)
-Nr. XI-1840,
-2011-12-21, Žin., 2011, Nr. 163-7750 (2011-12-31)
+Nr. XI-1834, 2011-12-21,
+Žin., 2011, Nr. 163-7747 (2011-12-31)
  
 ________________
  
@@ -2754,8 +2752,8 @@ Nr.
 IX-1012,
 2002-07-02, Žin., 2002, Nr. 72-3018 (2002-07-17)
 VALSTYBĖS
-POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 7
-STRAIPSNIŲ IR ĮSTATYMO PRIEDĖLIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 7 STRAIPSNIŲ
+IR ĮSTATYMO PRIEDĖLIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 9.
 Lietuvos
@@ -2868,8 +2866,8 @@ APMOKĖJIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-1253, 2007-07-03,
-Žin., 2007, Nr. 80-3223 (2007-07-19)
+X-1253,
+2007-07-03, Žin., 2007, Nr. 80-3223 (2007-07-19)
 VALSTYBĖS
 POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO IV
 SKIRSNIO PAPILDYMO ĮSTATYMAS
@@ -3034,14 +3032,8 @@ Nr. XI-361,
 VALSTYBĖS
 POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
 ĮSTATYMAS
-Šis įstatymas įsigalioja 2009 m.
-rugpjūčio 1 d. ir galioja iki 2012 m. gruodžio 31 d., išskyrus 1 straipsnyje
-išdėstytą Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo
-apmokėjimo įstatymo priedėlio III skirsnį.
-Šio įstatymo 1
-straipsnyje išdėstytas Lietuvos Respublikos valstybės politikų ir valstybės
-pareigūnų darbo apmokėjimo įstatymo priedėlio III skirsnis įsigalioja 2009 m.
-rugpjūčio 1 d. ir galioja iki 2012 m. balandžio 30 d.
+Šis įstatymas įsigalioja 2009 m. rugpjūčio 1 d. ir
+galioja iki 2012 m. gruodžio 31 d.
 Įstatymo
 galiojimas keistas:
 1)
@@ -3060,11 +3052,6 @@ Nr. XI-1726, 2011-11-22,
 VALSTYBĖS
 POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
 ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-3)
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1840, 2011-12-21, Žin., 2011, Nr. 163-7750 (2011-12-31)
-VALSTYBĖS POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO
-PRIEDĖLIO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 29.
 Lietuvos
