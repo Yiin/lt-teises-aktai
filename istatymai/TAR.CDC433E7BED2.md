@@ -64,14 +64,17 @@ straipsnis. Užsienio valiutos keitimas ir naudojimas
 Litus į užsienio
 valiutą, užsienio valiutą į litus ar vieną užsienio valiutą į kitą užsienio
 valiutą keičia (perka, parduoda) kredito įstaigos, turinčios tokiai veiklai
-įstatymų nustatyta tvarka išduotus leidimus (licencijas), kiti mokėjimo
-paslaugų teikėjai, kai tai yra susiję su mokėjimo paslaugų teikimu, ir finansų
-maklerio įmonės, kai tai yra susiję su investicinių paslaugų teikimu.
+įstatymų nustatyta tvarka išduotus leidimus (licencijas), elektroninių pinigų
+įstaigos, kai tai yra susiję su elektroninių pinigų leidimu ir mokėjimo
+paslaugų teikimu, kiti mokėjimo paslaugų teikėjai, kai tai yra susiję su
+mokėjimo paslaugų teikimu, ir finansų maklerio įmonės, kai tai yra susiję su
+investicinių paslaugų teikimu.
 Lietuvos bankas
 gali nustatyti užsienio valiutos keitimo (pirkimo, pardavimo) tvarką.
 Užsienio valiuta
-gali būti naudojama tik šalių susitarimu mokėjimams ir atsiskaitymams negrynaisiais
-pinigais, o Europos Sąjungos valiuta euras – ir grynaisiais pinigais.
+gali būti naudojama tik šalių susitarimu mokėjimams ir atsiskaitymams
+negrynaisiais pinigais, o Europos Sąjungos valiuta euras – ir grynaisiais
+pinigais.
 Užsienio valiuta
 šalių susitarimu taip pat gali būti naudojama mokėjimams ir atsiskaitymams
 grynaisiais pinigais orlaiviuose ir jūrų laivuose su Lietuvos valstybės vėliava
@@ -97,12 +100,15 @@ VIII-1154,
 Nr. IX-1140,
 2002-10-22, Žin., 2002, Nr. 105-4687 (2002-11-06)
 Nr.
-IX-2273,
-2004-06-15, Žin., 2004, Nr. 98-3629 (2004-06-24)
+IX-2273, 2004-06-15,
+Žin., 2004, Nr. 98-3629 (2004-06-24)
 Nr. X-1590,
 2008-06-05, Žin., 2008, Nr. 71-2716 (2008-06-21)
 Nr. XI-561,
 2009-12-10, Žin., 2009, Nr. 153-6899 (2009-12-28)
+Nr.
+XI-1878,
+2011-12-22, Žin., 2011, Nr. 163-7769 (2011-12-31)
  
 4
 straipsnis. Užsienio paskolos
@@ -111,9 +117,10 @@ garantija gaunamos užsienio paskolos turi būti įregistruojamos Lietuvos
 Respublikos finansų ministerijoje Lietuvos Respublikos Vyriausybės nustatyta
 tvarka.
 Lietuvos Respublikos juridinių
-asmenų ir įmonių, neturinčių juridinio asmens teisių, gaunamos užsienio paskolos
-be valstybės garantijos ir užsienio ūkio subjektams suteikiamos paskolos turi
-būti įregistruojamos Lietuvos banke Lietuvos banko nustatyta tvarka.
+asmenų ir įmonių, neturinčių juridinio asmens teisių, gaunamos užsienio
+paskolos be valstybės garantijos ir užsienio ūkio subjektams suteikiamos
+paskolos turi būti įregistruojamos Lietuvos banke Lietuvos banko nustatyta
+tvarka.
 Straipsnio
 pakeitimai:
 Nr.
@@ -123,9 +130,10 @@ Nr. VIII-1115,
 99.03.30, Žin., 1999, Nr.33-950 (99.04.14)
  
 5 straipsnis. Kapitalo įvežimas ir išvežimas
-Užsienio kapitalo, investuojamo Lietuvos Respublikoje, įvežimą, taip pat šio kapitalo, gauto pelno ir
-dividendų išvežimą nustato Lietuvos Respublikos investicijų įstatymas ir
-Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymas.
+Užsienio kapitalo, investuojamo Lietuvos Respublikoje, įvežimą, taip pat
+šio kapitalo, gauto pelno ir dividendų
+išvežimą nustato Lietuvos Respublikos investicijų įstatymas ir Lietuvos
+Respublikos laisvųjų ekonominių zonų pagrindų įstatymas.
 Straipsnio
 pakeitimai:
 Nr.
@@ -293,12 +301,21 @@ XI-561,
 UŽSIENIO VALIUTOS LIETUVOS
 RESPUBLIKOJE ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+12.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-1878,
+2011-12-22, Žin., 2011, Nr. 163-7769 (2011-12-31)
+UŽSIENIO
+VALIUTOS LIETUVOS RESPUBLIKOJE ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2009-12-31)
+Aušrinė Trapinskienė (2012-01-02)
                  
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
 
