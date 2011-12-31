@@ -65,18 +65,23 @@ kitų grąžintinų lėšų priėmimas iš neprofesionalių rinkos dalyvių;
 Respublikos mokėjimų įstatymo 5 straipsnyje nustatytos mokėjimo paslaugos;
 3) elektroninių
 pinigų išleidimas ir tvarkymas;
-4) kitos finansinės
-paslaugos, kurių teikimu galima verstis tik turint pagal kitus Lietuvos
-Respublikos įstatymus išduotą licenciją.
+3 punkto redakcija
+nuo 2012-01-01:
+3) elektroninių
+pinigų leidimas;
+ 
+4) kitos
+finansinės paslaugos, kurių teikimu galima verstis tik turint pagal kitus
+Lietuvos Respublikos įstatymus išduotą licenciją.
 6. Pagrindinis
 pajus – Centrinės kredito unijos nario įsigytas pajus, suteikiantis teisę
 Centrinės kredito unijos narių visuotinio susirinkimo metu turėti vieno balso
 teisę sprendžiant Centrinės kredito unijos narių visuotinio susirinkimo
 kompetencijai priskirtus klausimus ir suteikiantis teisę gauti dividendus. 
 7. Pajaus
-vardinis dokumentas (toliau – pajus) – vertybinis popierius, patvirtinantis
-asmens dalyvavimą Centrinės kredito unijos kapitale, suteikiantis Centrinės
-kredito unijos nariui turtines ir neturtines teises. 
+vardinis dokumentas (toliau – pajus) – vertybinis popierius,
+patvirtinantis asmens dalyvavimą Centrinės kredito unijos kapitale,
+suteikiantis Centrinės kredito unijos nariui turtines ir neturtines teises. 
 8. Pajinis
 įnašas – asmens įmokėta į Centrinę kredito uniją pinigų suma. Iš pajinių
 įnašų sudaromas Centrinės kredito unijos pajinis kapitalas. 
@@ -96,6 +101,8 @@ Straipsnio
 pakeitimai:
 Nr. XI-553,
 2009-12-10, Žin., 2009, Nr. 153-6891 (2009-12-28)
+Nr.
+XI-1871, 2011-12-22, Žin., 2011, Nr. 163-7762 (2011-12-31)
  
 3 straipsnis. Centrinės kredito unijos
 pavadinimas, teisinė forma, jos veiklą  reglamentuojantys teisės aktai 
@@ -103,9 +110,9 @@ pavadinimas, teisinė forma, jos veiklą  reglamentuojantys teisės aktai
 „Centrinė kredito unija“ ar kitokius šių žodžių junginius arba vedinius
 Lietuvos Respublikoje gali vartoti savo pavadinime, reklamoje ar kitais
 tikslais tik pagal šį Įstatymą veikianti Centrinė kredito unija, išskyrus
-atvejus, kai akivaizdu, kad šių žodžių vartojimas nesusijęs su licencinių
-finansinių paslaugų teikimu. Centrinės kredito unijos pavadinimui Kooperatinių
-bendrovių (kooperatyvų) įstatymo 3 straipsnio 4 dalies nuostata netaikoma.
+atvejus, kai akivaizdu, kad šių žodžių vartojimas nesusijęs su licencinių finansinių
+paslaugų teikimu. Centrinės kredito unijos pavadinimui Kooperatinių bendrovių
+(kooperatyvų) įstatymo 3 straipsnio 4 dalies nuostata netaikoma.
 2. Centrinės
 kredito unijos, kaip juridinio asmens, teisinė forma gali būti tik kooperatinė
 bendrovė. 
@@ -232,9 +239,9 @@ grąžinami.
 6. Steigiant Centrinę kredito
 uniją visi pajiniai įnašai turi būti įmokėti iki steigiamojo susirinkimo
 sušaukimo dienos. 
-7. Centrinės kredito unijos
-steigiamasis susirinkimas turi teisę spręsti Centrinės kredito unijos
-visuotinio narių susirinkimo kompetencijai priskirtus klausimus.
+7. Centrinės kredito unijos steigiamasis
+susirinkimas turi teisę spręsti Centrinės kredito unijos visuotinio narių
+susirinkimo kompetencijai priskirtus klausimus.
  
 7
 straipsnis. Centrinės kredito unijos steigėjai
@@ -248,8 +255,8 @@ asmenys, kurie negali būti finansų įstaigų steigėjais pagal Finansų įstai
 4. Kiekvienas Centrinės kredito unijos steigėjas
 privalo įsigyti Centrinės kredito unijos pagrindinį pajų.
  
-8 straipsnis.
-Leidimas įsteigti centrinę kredito uniją 
+8
+straipsnis. Leidimas įsteigti centrinę kredito uniją 
 1. Leidimą įsteigti Centrinę
 kredito uniją išduoda priežiūros institucija įstatymų ir priežiūros
 institucijos teisės aktų nustatyta tvarka.
@@ -303,8 +310,8 @@ dydį ar steigėjų sudėtį.
 įsteigimo turi teisę atšaukti leidimą įsteigti Centrinę kredito uniją, jeigu:
 1) leidimas buvo
 gautas apgaulės būdu ar kitaip pažeidus įstatymus;
-2) Centrinė kredito unija nebuvo įsteigta per šio
-Įstatymo nustatytą terminą.
+2) Centrinė kredito unija nebuvo įsteigta per šio Įstatymo
+nustatytą terminą.
 8. Apie priimtą sprendimą
 atšaukti leidimą įsteigti Centrinę kredito uniją priežiūros institucija raštu
 praneša Centrinės kredito unijos steigėjams ir juridinių asmenų registrui.
@@ -420,9 +427,9 @@ straipsnis. Licencijos atšaukimas
 nustato Finansų įstaigų įstatymas. Be Finansų įstaigų įstatymo 10 straipsnio 2
 dalyje nustatytų pagrindų, licencija gali būti atšaukiama priežiūros
 institucijos sprendimu, jeigu:
-1) Centrinė kredito unija
-neatitinka leidimo įsteigti Centrinę kredito uniją išdavimo ar licencijos
-išdavimo reikalavimų;
+1) Centrinė kredito unija neatitinka
+leidimo įsteigti Centrinę kredito uniją išdavimo ar licencijos išdavimo
+reikalavimų;
 2) Centrinė kredito unija
 pasibaigia dėl reorganizavimo ar priimamas sprendimas ją likviduoti;
 3) Centrinė kredito unija neįmoka
@@ -433,14 +440,14 @@ nutraukiamas.
 jos galiojimo sustabdymą pranešama Centrinei kredito unijai ir juridinių asmenų
 registrui šio registro nuostatų nustatyta tvarka bei paskelbiama „Valstybės
 žinių“ priede „Informaciniai pranešimai“.
-3. Priežiūros institucijos sprendimas
-atšaukti Centrinės kredito unijos licenciją turi būti motyvuotas.
+3. Priežiūros institucijos
+sprendimas atšaukti Centrinės kredito unijos licenciją turi būti motyvuotas.
 4. Licencija taip pat gali būti
 atšaukiama ar jos galiojimas gali būti sustabdomas šio Įstatymo devintajame
 skirsnyje nustatytais pagrindais ir tvarka.
-5. Atšaukus licenciją, Centrinė kredito
-unija neturi teisės teikti finansinių paslaugų, išskyrus, kiek tai būtina
-atsiskaitant su Centrinės kredito unijos kreditoriais, ir šio Įstatymo
+5. Atšaukus licenciją, Centrinė
+kredito unija neturi teisės teikti finansinių paslaugų, išskyrus, kiek tai
+būtina atsiskaitant su Centrinės kredito unijos kreditoriais, ir šio Įstatymo
 dešimtajame ir vienuoliktajame skirsniuose nustatyta tvarka turi būti
 sprendžiamas klausimas dėl Centrinės kredito unijos likvidavimo ar bankroto
 bylos jai kėlimo. 
@@ -469,8 +476,8 @@ išnagrinėti pateiktus dokumentus ir priimti sprendimą dėl leidimo įregistru
 Centrinės kredito unijos įstatų pakeitimus išdavimo ne vėliau kaip per 30 dienų
 nuo prašymo gavimo dienos.
 5. Priežiūros institucija gali
-atsisakyti išduoti leidimą įregistruoti Centrinės kredito unijos įstatų
-pakeitimus, jei:
+atsisakyti išduoti leidimą įregistruoti Centrinės kredito unijos įstatų pakeitimus,
+jei:
 1) pateikti dokumentai neatitinka
 šio Įstatymo bei priežiūros institucijos teisės aktų nustatytų reikalavimų,
 pateikti ne visi teisės aktų nustatyti ar papildomai pareikalauti duomenys ar
@@ -481,8 +488,8 @@ kredito unijos veiklos ar jos prieštarauja tai reglamentuojantiems teisės
 aktams. 
 Straipsnio
 pakeitimai:
-Nr. XI-612,
-2009-12-22, Žin., 2010, Nr. 1-23 (2010-01-05)
+Nr. XI-612, 2009-12-22,
+Žin., 2010, Nr. 1-23 (2010-01-05)
  
 12
 straipsnis. Centrinės kredito unijos filialai ir kiti padaliniai
@@ -491,9 +498,9 @@ kredito unija filialus ir kitus padalinius gali steigti tik Lietuvos
 Respublikoje.
 2. Centrinės kredito unijos
 filialo nuostatai, jos filialo ir kitų padalinių, teikiančių finansines
-paslaugas, valdymo ir organizacinė struktūra, apskaitos sistema, apsaugos priemonės,
-patalpos, turto draudimas turi užtikrinti saugią ir patikimą jų veiklą ir
-atitikti tai reglamentuojančius teisės aktus.
+paslaugas, valdymo ir organizacinė struktūra, apskaitos sistema, apsaugos
+priemonės, patalpos, turto draudimas turi užtikrinti saugią ir patikimą jų
+veiklą ir atitikti tai reglamentuojančius teisės aktus.
 3. Visi Centrinės kredito unijos
 filialai ir kiti padaliniai, kuriuose teikiamos finansinės paslaugos, turi
 turėti ryšio priemones informacijai apie atliktas operacijas perduoti į
@@ -542,11 +549,11 @@ nepateikia duomenų, leidžiančių nustatyti jos dalyvius, veiklą, finansinę
 būklę, vadovus, lėšų, panaudotų pajiniams įnašams, įgijimo teisėtumą, arba jei
 pateikti duomenys neįrodo, kad pajiniams įnašams panaudotos lėšos yra įgytos
 teisėtai.
-5. Centrinė kredito unija privalo Finansų įstaigų
-įstatymo nustatyta tvarka tvarkyti savo dalyvių (narių) sąrašą. Centrinė
-kredito unija savo dalyvių (narių) sąrašo duomenis privalo pateikti priežiūros
-institucijai per 15 dienų po eilinio Centrinės kredito unijos narių visuotinio
-susirinkimo ar priežiūros institucijos pareikalavimu ir kitais atvejais.
+5. Centrinė kredito unija privalo Finansų įstaigų įstatymo
+nustatyta tvarka tvarkyti savo dalyvių (narių) sąrašą. Centrinė kredito unija
+savo dalyvių (narių) sąrašo duomenis privalo pateikti priežiūros institucijai
+per 15 dienų po eilinio Centrinės kredito unijos narių visuotinio susirinkimo
+ar priežiūros institucijos pareikalavimu ir kitais atvejais.
 6. Centrinės kredito unijos nariai privalo nario
 teisėmis naudotis ir pareigas vykdyti taip, kad Centrinė kredito unija veiktų
 stabiliai ir patikimai.
@@ -566,8 +573,8 @@ Centrinės kredito unijos vadovai ar kiti Centrinės kredito unijos nariai.
 kitų įstatymuose nustatytų nario pareigų, taip pat privalo:
 1) savo lėšas
 pagal indėlio ar banko sąskaitos sutartis laikyti tik Centrinėje kredito
-unijoje, išskyrus atvejus, kai yra gautas centrinės kredito unijos valdybos
-sutikimas šias lėšas laikyti kitose kredito įstaigose;
+unijoje, išskyrus atvejus, kai yra gautas centrinės kredito unijos valdybos sutikimas
+šias lėšas laikyti kitose kredito įstaigose;
 2) gauti Centrinės kredito unijos valdybos sutikimą,
 jei nori skolintis tiesiogiai iš kitų kredito įstaigų.
  
@@ -587,9 +594,9 @@ to, kai įvertinusi Centrinės kredito unijos finansinę būklę nustato, kad
 atsiskaitymas nekels grėsmės Centrinės kredito unijos veiklos stabilumui ir
 patikimumui. Apie sprendimą atsiskaityti su asmeniu, kurio narystė Centrinėje
 kredito unijoje pasibaigė, Centrinė kredito unija nedelsdama privalo raštu
-pranešti priežiūros institucijai ir jai pateikti dokumentus ir duomenis, susijusius
-su atsiskaitymo įtakos Centrinės kredito unijos veiklos stabilumui ir
-patikimumui vertinimu. Centrinė kredito unija atsiskaito su asmeniu, kurio
+pranešti priežiūros institucijai ir jai pateikti dokumentus ir duomenis,
+susijusius su atsiskaitymo įtakos Centrinės kredito unijos veiklos stabilumui
+ir patikimumui vertinimu. Centrinė kredito unija atsiskaito su asmeniu, kurio
 narystė Centrinėje kredito unijoje pasibaigė, jeigu per 30 dienų nuo pranešimo
 priežiūros institucijai pateikimo, o jeigu jos buvo pareikalauta pateikti
 papildomus dokumentus ir duomenis, – nuo papildomai pareikalautų dokumentų ir
@@ -597,9 +604,9 @@ duomenų pateikimo dienos negauna priežiūros institucijos rašytinio nurodymo
 sustabdyti atsiskaitymą. Priežiūros institucija turi teisę Centrinei kredito
 unijai duoti rašytinį nurodymą sustabdyti atsiskaitymą iki rašytiniame nurodyme
 nustatyto termino, kuris gali būti apibrėžtas konkrečia data ar susietas su tam
-tikrų sąlygų atsiradimu (aplinkybių išnykimu), jeigu yra pagrindas daryti išvadą,
-kad atsiskaitymas keltų grėsmę Centrinės kredito unijos veiklos stabilumui ir
-patikimumui.
+tikrų sąlygų atsiradimu (aplinkybių išnykimu), jeigu yra pagrindas daryti
+išvadą, kad atsiskaitymas keltų grėsmę Centrinės kredito unijos veiklos
+stabilumui ir patikimumui.
 3. Pasibaigus
 kredito unijos narystei Centrinėje kredito unijoje ar priėmus sprendimą kredito
 uniją likviduoti, Centrinė kredito unija grąžina kredito unijai lėšas, laikomas
@@ -615,8 +622,8 @@ Nr. XI-1338,
  
 KETVIRTASIS
 SKIRSNIS
-CENTRINĖS KREDITO
-UNIJOS VALDYMAS 
+CENTRINĖS
+KREDITO UNIJOS VALDYMAS 
  
 16
 straipsnis. Centrinės kredito unijos organai 
@@ -664,10 +671,10 @@ stabilizacijos fondo komisijos ir audito tarnybos pateiktas ataskaitas;
 4) renka ir
 atšaukia audito įmonę;
 5) nustato
-pagrindinius kredito unijų likvidumo palaikymo principus ir patvirtina šių principų
-įgyvendinimo programą, taip pat indėlių kredito unijoje litais ir užsienio
-valiuta procentą, pagal kurį nustatomas lėšų, kurias kredito unijos Centrinės
-kredito unijos narės turi laikyti likvidumo palaikymo rezerve, dydis;
+pagrindinius kredito unijų likvidumo palaikymo principus ir patvirtina šių
+principų įgyvendinimo programą, taip pat indėlių kredito unijoje litais ir
+užsienio valiuta procentą, pagal kurį nustatomas lėšų, kurias kredito unijos
+Centrinės kredito unijos narės turi laikyti likvidumo palaikymo rezerve, dydis;
 6) nustato
 stabilizacijos fondo sudarymo bei naudojimo pagrindinius principus ir įmokų į
 stabilizacijos fondą dydį;
@@ -740,11 +747,11 @@ narių visuotinio susirinkimo sprendimai;
 unijos veiklos planus;
 3) užtikrina, kad Centrinėje
 kredito unijoje būtų veiksminga vidaus kontrolės sistema;
-4) pateikia visuotiniam narių susirinkimui
-savo išvadas ir pasiūlymus dėl metinių finansinių ataskaitų rinkinio, pelno
-paskirstymo ir (ar) nuostolių atlyginimo projektų bei valdybos parengtos
-Centrinės kredito unijos veiklos ataskaitos, taip pat dėl audito tarnybos ir
-auditoriaus nustatytų pažeidimų bei kitų trūkumų;
+4) pateikia visuotiniam narių
+susirinkimui savo išvadas ir pasiūlymus dėl metinių finansinių ataskaitų
+rinkinio, pelno paskirstymo ir (ar) nuostolių atlyginimo projektų bei valdybos
+parengtos Centrinės kredito unijos veiklos ataskaitos, taip pat dėl audito
+tarnybos ir auditoriaus nustatytų pažeidimų bei kitų trūkumų;
 5) atstovauja Centrinei kredito
 unijai teisme nagrinėjant ginčus tarp Centrinės kredito unijos ir jos valdybos
 narių, stabilizacijos fondo komisijos narių, administracijos vadovo; 
@@ -784,10 +791,11 @@ raštu pareikšti protestą stebėtojų tarybai.
 unijos stebėtojų tarybos narys privalo imtis visų galimų priemonių, kad
 stebėtojų taryba spręstų jos kompetencijai priskirtus klausimus ir kad
 sprendimai atitiktų teisės aktų nustatytus reikalavimus, taip pat vykdyti kitų
-įstatymų nustatytas pareigas. Centrinės kredito unijos tarybos narys, nevykdantis
-ar netinkamai vykdantis šią pareigą ar kitas teisės aktuose nustatytas
-pareigas, atsako taip kaip valdymo organų nariai pagal įstatymus, Centrinės
-kredito unijos įstatus, su Centrine kredito unija sudarytas sutartis. 
+įstatymų nustatytas pareigas. Centrinės kredito unijos tarybos narys,
+nevykdantis ar netinkamai vykdantis šią pareigą ar kitas teisės aktuose
+nustatytas pareigas, atsako taip kaip valdymo organų nariai pagal įstatymus,
+Centrinės kredito unijos įstatus, su Centrine kredito unija sudarytas sutartis.
+
 7. Stebėtojų tarybos posėdis yra
 teisėtas, kai jame dalyvauja daugiau kaip pusė jos narių. Nutarimas laikomas
 priimtu, jei už jį balsavo daugiau dalyvaujančių posėdyje stebėtojų tarybos
@@ -822,8 +830,8 @@ Nr. XI-1338,
 straipsnis. Centrinės kredito unijos valdyba
 1. Centrinės kredito unijos
 valdyba:
-1) renka (skiria) ir atšaukia administracijos
-vadovą ir jo pavaduotoją;
+1) renka (skiria) ir atšaukia
+administracijos vadovą ir jo pavaduotoją;
 2) be atskiro Centrinės kredito
 unijos narių visuotinio susirinkimo sprendimo priima sprendimus dėl disponavimo
 Centrinės kredito unijos turtu bei ilgalaikio turto įsigijimo, ilgalaikių
@@ -938,8 +946,9 @@ sunkų nusikaltimą arba už nusikaltimą nuosavybei, turtinėms teisėms ir
 turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai ar už
 juos atitinkančias nusikalstamas veikas pagal užsienio valstybių baudžiamuosius
 įstatymus, nepaisant to, ar teistumas išnyko; 
-2) piktnaudžiauja
-psichotropinėmis, narkotinėmis, toksinėmis medžiagomis ar alkoholiu. 
+2)
+piktnaudžiauja psichotropinėmis, narkotinėmis, toksinėmis medžiagomis ar
+alkoholiu. 
 4. Priežiūros
 institucija turi teisę pripažinti asmenį nesančiu nepriekaištingos reputacijos
 ir atsižvelgdama į tai:
@@ -1053,9 +1062,10 @@ rezervą.
 3. Centrinė
 kredito unija paskolas kredito unijoms Centrinės kredito unijos narėms
 likvidumui palaikyti teikia ne ilgesniam kaip pusės metų laikotarpiui.
-Centrinės kredito unijos valdyba gali nuspręsti paskolos terminą pratęsti ne ilgesniam
-kaip dar pusės metų laikotarpiui. Šios paskolos pratęsimo ir grąžinimo sąlygos
-bei paskolos grąžinimo užtikrinimo priemonės nustatomos sutartyje. 
+Centrinės kredito unijos valdyba gali nuspręsti paskolos terminą pratęsti ne
+ilgesniam kaip dar pusės metų laikotarpiui. Šios paskolos pratęsimo ir
+grąžinimo sąlygos bei paskolos grąžinimo užtikrinimo priemonės nustatomos
+sutartyje. 
 4. Paskolos
 kredito unijos likvidumui palaikyti gali būti teikiamos, kai kredito unijos
 likvidumas tampa mažesnis už nustatytą likvidumo normatyvą ir kai kredito
@@ -1079,8 +1089,8 @@ kredito unijos narės kredito unijos įmokos į stabilizacijos fondą yra kredit
 unijos išlaidos.
 3.
 Stabilizacijos fondo turtą sudaro: 
-1) Centrinės kredito
-unijos narių įmokos;
+1) Centrinės
+kredito unijos narių įmokos;
 2) pajamos,
 gautos iš laisvų stabilizacijos fondo lėšų investavimo;
 3) tikslinės
@@ -1173,7 +1183,8 @@ kredito unijos narių.
 SKIRSNIS
 CENTRINĖS
 KREDITO UNIJOS KAPITALAS
-IR PELNO PASKIRSTYMAS
+IR PELNO
+PASKIRSTYMAS
  
 28
 straipsnis. Centrinės kredito unijos kapitalas 
@@ -1192,8 +1203,8 @@ kapitalas;
 rezervas arba rezervinis kapitalas;
 4)
 nepaskirstytasis pelnas arba nuostolis;
-5)
-ilgalaikio materialiojo turto perkainojimo rezervas;
+5) ilgalaikio
+materialiojo turto perkainojimo rezervas;
 6)
 finansinio turto perkainojimo rezervas;
 7) kiti
@@ -1223,24 +1234,24 @@ straipsnis. Minimalus Centrinės kredito unijos kapitalas
 1. Šio Įstatymo
 29 straipsnio 1 dalies 1, 2, 3 ir 4 punktuose (atėmus einamųjų metų tarpinio
 nepaskirstytojo pelno arba paskutinių praėjusių metų nepaskirstytojo pelno, dėl
-kurio dar nepriimtas eilinio visuotinio Centrinės kredito unijos narių susirinkimo
-sprendimas, sumą, jeigu audito įmonė nėra atlikusi atitinkamo laikotarpio
-finansinių ataskaitų rinkinio audito ir priežiūros institucijai nepateikti
-duomenys, įrodantys, kad pelno suma yra teisinga ir iš jos atimti visi numatomi
-mokesčiai ar dividendai) nustatytų Centrinės kredito unijos nuosavo kapitalo
-dalių suma, išreikšta eurais pagal Lietuvos banko skelbiamą oficialų lito ir
-euro santykį, turi būti ne mažesnė kaip 1 milijonas eurų.
+kurio dar nepriimtas eilinio visuotinio Centrinės kredito unijos narių
+susirinkimo sprendimas, sumą, jeigu audito įmonė nėra atlikusi atitinkamo
+laikotarpio finansinių ataskaitų rinkinio audito ir priežiūros institucijai
+nepateikti duomenys, įrodantys, kad pelno suma yra teisinga ir iš jos atimti
+visi numatomi mokesčiai ar dividendai) nustatytų Centrinės kredito unijos
+nuosavo kapitalo dalių suma, išreikšta eurais pagal Lietuvos banko skelbiamą
+oficialų lito ir euro santykį, turi būti ne mažesnė kaip 1 milijonas eurų.
 2. Centrinės kredito unijos
 valdyba, nustačiusi, kad Centrinės kredito unijos nuosavo kapitalo dalių,
 nustatytų šio straipsnio 1 dalyje, suma yra mažesnė už minimalų Centrinės
 kredito unijos kapitalą, privalo apie tai nedelsdama pranešti priežiūros
-institucijai ir tuoj pat sušaukti neeilinį visuotinį narių susirinkimą. Centrinės
-kredito unijos visuotinis narių susirinkimas privalo priimti sprendimus, kurie
-leistų kaip galima greičiau atkurti Centrinės kredito unijos kapitalą iki
-minimalaus Centrinės kredito unijos kapitalo dydžio. Apie Centrinės kredito
-unijos visuotinio narių susirinkimo priimtus sprendimus dėl kapitalo atkūrimo
-Centrinės kredito unijos valdyba praneša priežiūros institucijai ne vėliau kaip
-per 3 darbo dienas.
+institucijai ir tuoj pat sušaukti neeilinį visuotinį narių susirinkimą.
+Centrinės kredito unijos visuotinis narių susirinkimas privalo priimti
+sprendimus, kurie leistų kaip galima greičiau atkurti Centrinės kredito unijos
+kapitalą iki minimalaus Centrinės kredito unijos kapitalo dydžio. Apie
+Centrinės kredito unijos visuotinio narių susirinkimo priimtus sprendimus dėl
+kapitalo atkūrimo Centrinės kredito unijos valdyba praneša priežiūros institucijai
+ne vėliau kaip per 3 darbo dienas.
 Straipsnio
 pakeitimai:
 Nr. X-1039,
@@ -1264,8 +1275,8 @@ Centrinės kredito unijos nario pagrindinio pajaus dydis – 1000 litų. Narys g
 turėti tik vieną pagrindinį pajų. 
 4. Centrinės
 kredito unijos nario papildomo pajaus dydį nustato Centrinės kredito unijos
-įstatai. Narių įsigyjamų papildomų pajų skaičius neribojamas. Šiuos pajus įsigyja
-tik Centrinės kredito unijos nariai. 
+įstatai. Narių įsigyjamų papildomų pajų skaičius neribojamas. Šiuos pajus
+įsigyja tik Centrinės kredito unijos nariai. 
 5. Centrinės
 kredito unijos pajams Vertybinių popierių įstatymas netaikomas. Centrinės
 kredito unijos pajai yra nematerialūs.
@@ -1288,9 +1299,9 @@ straipsnis. Kapitalai ir rezervai
 kredito unijos atsargos kapitalas sudaromas iš Centrinės kredito unijos narių
 papildomų įnašų ar (ir) atskaitymų iš Centrinės kredito unijos pelno. Centrinės
 kredito unijos atsargos kapitalo paskirtis – garantuoti Centrinės kredito
-unijos finansinį stabilumą. Centrinės kredito unijos atsargos kapitalas
-Centrinės kredito unijos narių eilinio visuotinio susirinkimo sprendimu gali
-būti panaudojamas tik Centrinės kredito unijos veiklos nuostoliams padengti.
+unijos finansinį stabilumą. Centrinės kredito unijos atsargos kapitalas Centrinės
+kredito unijos narių eilinio visuotinio susirinkimo sprendimu gali būti
+panaudojamas tik Centrinės kredito unijos veiklos nuostoliams padengti.
 2. Ilgalaikio materialiojo turto
 perkainojimo rezervas yra ilgalaikio materialiojo turto vertės padidėjimo suma,
 gauta perkainojus turtą. Ilgalaikio materialiojo turto perkainojimo rezervas
@@ -1304,20 +1315,19 @@ naudojamas Centrinės kredito unijos veiklos nuostoliams padengti.
 turto perkainojimo rezervas – tikrąja verte įvertinto ir perkainojamo
 finansinio turto, kuris priskirtinas galimam pardavimui, vertės pokyčiai.
 4. Privalomasis
-rezervas arba rezervinis kapitalas sudaromas iš Centrinės kredito unijos
-grynojo pelno. Atskaitymai į privalomąjį rezervą arba rezervinį kapitalą yra
-privalomi ir negali būti mažesni kaip 20 procentų Centrinės kredito unijos
-grynojo pelno, kol privalomasis rezervas arba rezervinis kapitalas sudarys 1/5
-Centrinės kredito unijos nuosavo kapitalo. Privalomasis rezervas arba
-rezervinis kapitalas Centrinės kredito unijos narių eilinio arba neeilinio
-visuotinio susirinkimo sprendimu gali būti panaudojamas tik Centrinės kredito
-unijos veiklos nuostoliams padengti. Panaudojus dalį privalomojo rezervo arba
+rezervas arba rezervinis kapitalas sudaromas iš Centrinės kredito unijos grynojo
+pelno. Atskaitymai į privalomąjį rezervą arba rezervinį kapitalą yra privalomi
+ir negali būti mažesni kaip 20 procentų Centrinės kredito unijos grynojo pelno,
+kol privalomasis rezervas arba rezervinis kapitalas sudarys 1/5 Centrinės
+kredito unijos nuosavo kapitalo. Privalomasis rezervas arba rezervinis
+kapitalas Centrinės kredito unijos narių eilinio arba neeilinio visuotinio
+susirinkimo sprendimu gali būti panaudojamas tik Centrinės kredito unijos
+veiklos nuostoliams padengti. Panaudojus dalį privalomojo rezervo arba
 rezervinio kapitalo Centrinės kredito unijos veiklos nuostoliams padengti, iš
 grynojo pelno vėl atskaitoma į privalomąjį rezervą arba rezervinį kapitalą
 tiek, kad jis taptų nustatyto dydžio.
-5. Kiti Centrinės kredito unijos rezervai – tai
-rezervai, kurių sudarymas ir naudojimas numatytas Centrinės kredito unijos
-įstatuose. 
+5. Kiti Centrinės kredito unijos rezervai – tai rezervai,
+kurių sudarymas ir naudojimas numatytas Centrinės kredito unijos įstatuose. 
  
 35
 straipsnis. Pelno (nuostolio) paskirstymas 
@@ -2549,6 +2559,9 @@ EUROPOS SĄJUNGOS TEISĖS AKTAI
 finansinės atskaitomybės ir konsoliduotos finansinės atskaitomybės (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 157), su paskutiniais pakeitimais, padarytais 2003 m. birželio 23 d. Europos Parlamento ir Tarybos direktyva 2003/51/EB (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 273).
 2. 2000 m. rugsėjo 18 d. Europos Parlamento ir Tarybos direktyva 2000/46/EB dėl elektroninių pinigų
 įstaigų steigimosi, veiklos ir riziką ribojančios priežiūros (OL 2004 m. specialusis leidimas, 6 skyrius, 3 tomas, p. 343).
+2 punktas
+netenka galios nuo 2012-01-01.
+ 
 3. 2006 m.
 birželio 14 d. Europos Parlamento ir Tarybos direktyva 2006/48/EB dėl kredito
 įstaigų veiklos pradėjimo ir vykdymo (nauja redakcija) (OL 2006 L 177, p. 1) su
@@ -2560,9 +2573,9 @@ Parlamento ir Tarybos direktyva 2006/49/EB dėl investicinių įmonių ir kredit
 paskutiniais pakeitimais, padarytais 2009 m. rugsėjo 16 d. Europos Parlamento
 ir Tarybos direktyva 2009/111/EB (OL 2009 L 302, p. 97).
 5. 2009 m. kovo 11 d.
-Europos Parlamento ir Tarybos direktyva 2009/14/EB, iš dalies keičianti
-Direktyvos 94/19/EB dėl indėlių garantijų sistemų nuostatas dėl kompensacijų
-lygio ir išmokėjimo termino (OL 2009 L 68, p. 3).
+Europos Parlamento ir Tarybos direktyva 2009/14/EB, iš dalies keičianti Direktyvos
+94/19/EB dėl indėlių garantijų sistemų nuostatas dėl kompensacijų lygio ir
+išmokėjimo termino (OL 2009 L 68, p. 3).
 Priedo
 pakeitimai:
 Nr. X-1039,
@@ -2572,7 +2585,10 @@ XI-379,
 2009-07-21, Žin., 2009, Nr. 93-3972 (2009-08-04)
 Nr. XI-1338,
 2011-04-21, Žin., 2011, Nr. 52-2513 (2011-05-03)
+Nr.
+XI-1871, 2011-12-22, Žin., 2011, Nr. 163-7762 (2011-12-31)
 _______________
+ 
 Pakeitimai:
  
 1.
@@ -2657,8 +2673,22 @@ CENTRINĖS
 KREDITO UNIJOS ĮSTATYMO 15, 19, 20, 26, 29, 30, 31, 35, 37, 43, 45, 46, 47, 48,
 50, 51, 53, 71 STRAIPSNIŲ, AŠTUNTOJO SKIRSNIO PAVADINIMO IR ĮSTATYMO PRIEDO
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-*** Pabaiga ***
-Redagavo Aušrinė Trapinskienė
-(2011-05-06)
+ 
+10.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-1871, 2011-12-22, Žin., 2011, Nr. 163-7762 (2011-12-31)
+CENTRINĖS
+KREDITO UNIJOS ĮSTATYMO 2 STRAIPSNIO IR PRIEDO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2012 m. sausio 1 d.
+ 
+***
+Pabaiga ***
+ 
+ 
+Redagavo
+Aušrinė Trapinskienė (2012-01-06)
                  
 ausrine.trapinskiene@lrs.lt
