@@ -657,16 +657,23 @@ Pastaba. Komisijų ir
 tarybų, kurių posėdžiai vyksta periodiškai, nariams pareiginės algos dydis
 apskaičiuojamas proporcingai dirbtam laikui.“
  
-2 straipsnis.
-Įstatymo galiojimas
-Šis įstatymas
-įsigalioja 2009 m. rugpjūčio 1 d. ir galioja iki 2012 m. gruodžio 31 d.
+2 straipsnis. Įstatymo įsigaliojimas
+1. Šis įstatymas
+įsigalioja 2009 m. rugpjūčio 1 d. ir galioja iki 2012 m. gruodžio 31 d.,
+išskyrus 1 straipsnyje išdėstytą Lietuvos Respublikos valstybės politikų ir
+valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio III skirsnį.
+2. Šio įstatymo
+1 straipsnyje išdėstytas Lietuvos Respublikos valstybės politikų ir valstybės
+pareigūnų darbo apmokėjimo įstatymo priedėlio III skirsnis įsigalioja 2009 m.
+rugpjūčio 1 d. ir galioja iki 2012 m. balandžio 30 d.
 Straipsnio
 pakeitimai:
 Nr. XI-980,
 2010-07-02, Žin., 2010, Nr. 86-4531 (2010-07-20)
 Nr. XI-1726,
 2011-11-22, Žin., 2011, Nr. 150-7041 (2011-12-08)
+Nr. XI-1840,
+2011-12-21, Žin., 2011, Nr. 163-7750 (2011-12-31)
  
 Skelbiu šį Lietuvos Respublikos Seimo
 priimtą  įstatymą.
@@ -695,11 +702,19 @@ VALSTYBĖS
 POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO
 ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1840,
+2011-12-21, Žin., 2011, Nr. 163-7750 (2011-12-31)
+VALSTYBĖS POLITIKŲ IR VALSTYBĖS
+PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
  
 *** Pabaiga ***
  
  
-Redagavo Aušrinė
-Trapinskienė (2011-12-08)
-                  autrap@lrs.lt
+Redagavo Aušrinė Trapinskienė
+(2012-01-02)
+                 
+ausrine.trapinskiene@lrs.lt
 
