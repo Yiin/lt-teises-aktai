@@ -15,6 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C69847B389DF"
 
 Įstatymas skelbtas: Žin., 2001, Nr. 31-1012
 Neoficialus įstatymo tekstas
+Aktuali įstatymo redakcija nuo 2012-01-01
  
 LIETUVOS RESPUBLIKOS
 ĮMONIŲ
@@ -25,8 +26,8 @@ Vilnius
 Nauja
 įstatymo redakcija nuo 2010 m. spalio 1 d., 15 straipsnio 5 dalis įsigalioja
 2010 m. liepos 20 d.:
-Nr. XI-978, 2010-07-02,
-Žin., 2010, Nr. 86-4529 (2010-07-20)
+Nr. XI-978,
+2010-07-02, Žin., 2010, Nr. 86-4529 (2010-07-20)
  
 PIRMASIS SKIRSNIS
 BENDROSIOS NUOSTATOS
@@ -44,18 +45,17 @@ plėtoti šią veiklą, sumokėti skolas ir išvengti bankroto.
 įsteigtiems Lietuvos Respublikos teisės aktų nustatyta tvarka (toliau –
 įmonės), išskyrus šio straipsnio 4 dalyje ir kituose įstatymuose nurodytas
 išimtis.
-4.
-Įstatymas netaikomas biudžetinėms įstaigoms, politinėms partijoms, profesinėms
-sąjungoms, religinėms bendruomenėms ir bendrijoms, bankams, Centrinei ir kitoms
-kredito unijoms, kitoms kredito įstaigoms, draudimo ir perdraudimo įmonėms,
-valdymo įmonėms, investicinėms kintamojo kapitalo bendrovėms, uždaro tipo
-investicinėms bendrovėms ir vertybinių popierių viešosios apyvartos
-tarpininkams.
+4. Įstatymas
+netaikomas biudžetinėms įstaigoms, politinėms partijoms, profesinėms sąjungoms,
+religinėms bendruomenėms ir bendrijoms, kredito įstaigoms, mokėjimo įstaigoms,
+elektroninių pinigų įstaigoms, draudimo ir perdraudimo įmonėms, valdymo
+įmonėms, investicinėms kintamojo kapitalo bendrovėms, uždaro tipo investicinėms
+bendrovėms ir vertybinių popierių viešosios apyvartos tarpininkams.
 5.
 Restruktūrizavimo metu įstatymų nuostatos, reglamentuojančios įmonės veiklą,
 įmonės kreditorių reikalavimų (jų dalies) atsisakymą, prievolių vykdymo terminų
-atidėjimą, privalomųjų įmokų mokėjimą, taikomos tiek, kiek šis įstatymas nenustato
-kitaip.
+atidėjimą, privalomųjų įmokų mokėjimą, taikomos tiek, kiek šis įstatymas
+nenustato kitaip.
 6.
 Šis įstatymas taikomas tiek, kiek jis neprieštarauja Lietuvos Respublikos
 finansinio užtikrinimo susitarimų įstatymui ir Lietuvos Respublikos
@@ -63,6 +63,11 @@ atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemo
 įstatymui. 
 7. Šis įstatymas skirtas jo priede nurodyto Europos
 Sąjungos teisės akto taikymui užtikrinti. 
+Straipsnio
+pakeitimai:
+Nr.
+XI-1873,
+2011-12-22, Žin., 2011, Nr. 163-7764 (2011-12-31)
  
 2
 straipsnis. Pagrindinės šio įstatymo sąvokos 
@@ -133,17 +138,17 @@ valstybės institucijos, įpareigotos jas surinkti;
 2) darbo užmokesčio nemokėjimo ir dėl
 darbo santykių atsiradusios žalos neatlyginimo atveju – įmonės darbuotojai (jų
 įpėdiniai);
-3) žalos atlyginimo prievolės dėl nelaimingų
-atsitikimų darbe ar susirgimo profesine liga perėjimo valstybei Lietuvos
-Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų
-profesine liga laikinojo įstatymo nustatytais atvejais – Lietuvos Respublikos
-Vyriausybės įgaliota institucija;
+3) žalos atlyginimo prievolės dėl
+nelaimingų atsitikimų darbe ar susirgimo profesine liga perėjimo valstybei
+Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar
+susirgimų profesine liga laikinojo įstatymo nustatytais atvejais – Lietuvos
+Respublikos Vyriausybės įgaliota institucija;
 4) paskolų, suteiktų iš valstybės vardu
 pasiskolintų lėšų, ir paskolų, gautų su valstybės garantija, negrąžinimo atveju
 – Lietuvos Respublikos finansų ministerija arba paskolą administruojanti
 institucija;
-5) fiziniai ir juridiniai asmenys, pardavę
-žemės ūkio produkciją;
+5) fiziniai ir juridiniai asmenys,
+pardavę žemės ūkio produkciją;
 6) iš Europos Sąjungos lėšų suteiktos
 paramos negrąžinimo atveju – Europos Sąjungos lėšas administruojančios
 valstybės institucijos;
@@ -165,8 +170,8 @@ nėra nutraukusi veiklos;
 3)
 nėra bankrutuojanti ar bankrutavusi;
 4)
-įsteigta ne mažiau kaip prieš 3 metus iki pareiškimo teismui dėl įmonės
-restruktūrizavimo bylos iškėlimo pateikimo dienos;
+įsteigta ne mažiau kaip prieš 3 metus iki pareiškimo teismui dėl įmonės restruktūrizavimo
+bylos iškėlimo pateikimo dienos;
 5)
 nuo teismo sprendimo baigti įmonės restruktūrizavimo bylą arba nutarties
 nutraukti bylą šio įstatymo 28 straipsnio 1 dalies 2 ir 3 punktuose nurodytais
@@ -266,8 +271,8 @@ asmens kodas, eilės numeris Sąraše, įrašymo į Sąrašą data, buveinės ad
 ryšių duomenys. 
 4.
 Prie pareiškimo dėl įmonės restruktūrizavimo bylos iškėlimo pridedami:
-1) dokumentai, patvirtinantys, kad įmonė atitinka šio
-įstatymo 4 straipsnio nuostatas;
+1) dokumentai, patvirtinantys, kad įmonė atitinka
+šio įstatymo 4 straipsnio nuostatas;
 2)
 metmenys ir įmonės dalyvių susirinkimo, savininko arba valstybės ar
 savivaldybės įmonės savininko teises ir pareigas įgyvendinančios institucijos
@@ -281,8 +286,8 @@ dienos balanso ir pelno (nuostolių) ataskaitos kopija;
 4) restruktūrizavimo
 administratoriaus sutikimas atlikti įmonės restruktūrizavimo procedūras,
 kuriame turi būti nurodyta, kad jis atitinka šio įstatymo 21 straipsnio 2
-dalies reikalavimus ir nėra kitų teisės aktų nustatytų kliūčių jam atlikti
-įmonės restruktūrizavimo procedūras;
+dalies reikalavimus ir nėra kitų teisės aktų nustatytų kliūčių jam atlikti įmonės
+restruktūrizavimo procedūras;
 5) antstolių,
 kuriems yra pateikti vykdomieji dokumentai dėl išieškojimo iš įmonės ar dėl jos
 turto arešto, ir vykdomųjų bylų bei teismų, nagrinėjančių bylas, kuriose
@@ -301,41 +306,41 @@ padalinio, tvarkančio apskaitą, vadovą arba įmonės, teikiančios apskaitos
 paslaugas, vadovą pateikti teismui papildomus dokumentus, reikalingus
 restruktūrizavimo bylai nagrinėti;
 2) kviesti į
-teismą įmonės dalyvius, savininką arba valstybės ar savivaldybės įmonės savininko
-teises ir pareigas įgyvendinančios institucijos atstovus, įmonės valdymo organų
-narius, vyriausiąjį buhalterį (buhalterį) arba struktūrinio padalinio,
-tvarkančio apskaitą, vadovą, arba įmonės, teikiančios apskaitos paslaugas,
-vadovą
+teismą įmonės dalyvius, savininką arba valstybės ar savivaldybės įmonės
+savininko teises ir pareigas įgyvendinančios institucijos atstovus, įmonės
+valdymo organų narius, vyriausiąjį buhalterį (buhalterį) arba struktūrinio
+padalinio, tvarkančio apskaitą, vadovą, arba įmonės, teikiančios apskaitos
+paslaugas, vadovą
 ir kitus atsakingus darbuotojus, reikalauti rašytinių paaiškinimų, susijusių su
 restruktūrizavimo bylos iškėlimu;
 3) Lietuvos
 Respublikos civilinio proceso kodekso nustatyta tvarka taikyti laikinąsias
-apsaugos priemones, kurios galioja iki nutarties iškelti įmonės restruktūrizavimo
-bylą ar atsisakyti ją kelti įsiteisėjimo dienos.
-2. Dėl
-pareiškimo iškelti įmonės restruktūrizavimo bylą priėmimo teismas priima
-nutartį. Teismo nutartis dėl pareiškimo iškelti įmonės restruktūrizavimo bylą
-priėmimo yra neskundžiama. Teismas ne vėliau kaip kitą darbo dieną nuo
-nutarties dėl pareiškimo iškelti įmonės restruktūrizavimo bylą priėmimo dienos
-šios nutarties kopiją išsiunčia įmonei, šio įstatymo 15 straipsnio 3 dalyje
-nurodytai Lietuvos Respublikos Vyriausybės įgaliotai institucijai, antstoliams,
-nurodytiems šio įstatymo 6 straipsnio 4 dalies 5 punkte, Juridinių asmenų
-registro tvarkytojui ir paskelbia informaciją apie nutarties dėl pareiškimo
-iškelti įmonės restruktūrizavimo bylą priėmimą specialiajame interneto
-tinklalapyje. Jeigu dėl įmonės buvo priimti teismų ir kitų institucijų
-sprendimai ir pagal juos išduoti vykdomieji dokumentai, teismui priėmus nutartį
-dėl pareiškimo iškelti įmonės restruktūrizavimo bylą priėmimo, įmonės turtas
-(lėšos) pagal šiuos vykdomuosius dokumentus gali būti areštuojamas, tačiau nuo
-teismo nutarties dėl pareiškimo iškelti įmonės restruktūrizavimo bylą priėmimo
-dienos šio turto realizavimas ir (ar) išieškojimas sustabdomas. Tuo atveju,
-jeigu įmonės sąskaitos yra areštuotos ar joms taikomi kiti disponavimo apribojimai,
-teismas nutartyje dėl pareiškimo iškelti įmonei restruktūrizavimo bylą priėmimo
-privalo nurodyti, kad iš vienos ar kelių konkrečių sąskaitų gali būti mokami
-visi įmonės ūkinei komercinei veiklai reikalingi mokėjimai ir įmokos, įskaitant
-ir privalomąsias įmokas, neatsižvelgiant į tai, kad sąskaitos yra
-areštuotos ar joms taikomi kiti disponavimo apribojimai. Jeigu nurodoma vykdyti
-mokėjimus iš areštuotos sąskaitos, teismo nutartis nedelsiant siunčiama turto
-arešto aktų registrui.
+apsaugos priemones, kurios galioja iki nutarties iškelti įmonės
+restruktūrizavimo bylą ar atsisakyti ją kelti įsiteisėjimo dienos.
+2. Dėl pareiškimo
+iškelti įmonės restruktūrizavimo bylą priėmimo teismas priima nutartį. Teismo
+nutartis dėl pareiškimo iškelti įmonės restruktūrizavimo bylą priėmimo yra
+neskundžiama. Teismas ne vėliau kaip kitą darbo dieną nuo nutarties dėl
+pareiškimo iškelti įmonės restruktūrizavimo bylą priėmimo dienos šios nutarties
+kopiją išsiunčia įmonei, šio įstatymo 15 straipsnio 3 dalyje nurodytai Lietuvos
+Respublikos Vyriausybės įgaliotai institucijai, antstoliams, nurodytiems šio
+įstatymo 6 straipsnio 4 dalies 5 punkte, Juridinių asmenų registro tvarkytojui
+ir paskelbia informaciją apie nutarties dėl pareiškimo iškelti įmonės
+restruktūrizavimo bylą priėmimą specialiajame interneto tinklalapyje. Jeigu dėl
+įmonės buvo priimti teismų ir kitų institucijų sprendimai ir pagal juos išduoti
+vykdomieji dokumentai, teismui priėmus nutartį dėl pareiškimo iškelti įmonės
+restruktūrizavimo bylą priėmimo, įmonės turtas (lėšos) pagal šiuos vykdomuosius
+dokumentus gali būti areštuojamas, tačiau nuo teismo nutarties dėl pareiškimo
+iškelti įmonės restruktūrizavimo bylą priėmimo dienos šio turto realizavimas ir
+(ar) išieškojimas sustabdomas. Tuo atveju, jeigu įmonės sąskaitos yra
+areštuotos ar joms taikomi kiti disponavimo apribojimai, teismas nutartyje dėl
+pareiškimo iškelti įmonei restruktūrizavimo bylą priėmimo privalo nurodyti, kad
+iš vienos ar kelių konkrečių sąskaitų gali būti mokami visi įmonės ūkinei
+komercinei veiklai reikalingi mokėjimai ir įmokos, įskaitant ir privalomąsias
+įmokas, neatsižvelgiant į tai, kad sąskaitos yra areštuotos ar joms
+taikomi kiti disponavimo apribojimai. Jeigu nurodoma vykdyti mokėjimus iš
+areštuotos sąskaitos, teismo nutartis nedelsiant siunčiama turto arešto aktų
+registrui.
 3. Teismas ne
 vėliau kaip per vieną mėnesį nuo nutarties dėl pareiškimo iškelti įmonės
 restruktūrizavimo bylą priėmimo dienos priima nutartį iškelti įmonės
@@ -398,8 +403,8 @@ administratoriui suma, laikotarpiui nuo teismo nutarties iškelti įmonės
 restruktūrizavimo bylą įsiteisėjimo dienos iki nutarties patvirtinti įmonės
 restruktūrizavimo planą (toliau – restruktūrizavimo planas) įsiteisėjimo
 dienos;
-5)
-restruktūrizavimo plano parengimo ir pateikimo teismui datos;
+5) restruktūrizavimo
+plano parengimo ir pateikimo teismui datos;
 6) įmonės
 sąskaitų, iš
 kurių gali būti mokamos einamosios įmokos ir šio įstatymo 5 straipsnio 1
@@ -459,28 +464,18 @@ teises ir pareigas įgyvendinančiai institucijai;
 kurios teritorijoje yra restruktūrizuojamos įmonės buveinė, administracijai;
 7) Lietuvos
 bankui, jeigu įmonės restruktūrizavimo byla iškelta įmonei, kuri pagal Lietuvos
-Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo
-sistemose įstatymą įtraukta į skelbiamą sistemų dalyvių sąrašą; 
-7 punkto redakcija nuo 2012-01-01:
-7) Lietuvos
-bankui, jeigu įmonės restruktūrizavimo byla iškelta įmonei, kuri pagal Lietuvos
 Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių
 atsiskaitymo sistemose įstatymą įtraukta į skelbiamą sistemų dalyvių sąrašą,
 taip pat jeigu įmonės restruktūrizavimo byla iškelta akcinei bendrovei, kuri
 laikoma vertybinių popierių emitentu pagal Lietuvos Respublikos vertybinių
 popierių įstatymą; 
- 
 8) Lietuvos
 Respublikos finansų ministerijai arba paskolą administruojančiai institucijai,
 jeigu įmonės restruktūrizavimo byla iškelta įmonei, kuri yra paskolos iš
 valstybės vardu pasiskolintų lėšų arba paskolos, kuriai suteikta valstybės
 garantija, gavėja;
-9) Lietuvos
-Respublikos vertybinių popierių komisijai, jeigu įmonės restruktūrizavimo byla
-iškelta akcinei bendrovei, kuri laikoma vertybinių popierių emitente pagal
-Lietuvos Respublikos vertybinių popierių įstatymą.
-9 punktas netenka galios nuo 2012-01-01.
- 
+9) (neteko
+galios nuo 2012-01-01).
 13. Teismo
 nutartis iškelti įmonės restruktūrizavimo bylą arba atsisakyti kelti įmonės
 restruktūrizavimo bylą gali būti skundžiama atskiruoju skundu. Atskirasis
@@ -616,8 +611,8 @@ savivaldybės įmonės savininko teises ir pareigas įgyvendinančiai institucij
 teikiama kreditorių susirinkimo nustatyta tvarka. Teismo, kreditorių
 susirinkimo pirmininko ir šio įstatymo 15 straipsnio 3 dalyje nurodytos
 Lietuvos Respublikos Vyriausybės įgaliotos institucijos reikalavimu su įmonės
-restruktūrizavimo bylos nagrinėjimu susijusią informaciją pateikia restruktūrizavimo
-administratorius.
+restruktūrizavimo bylos nagrinėjimu susijusią informaciją pateikia
+restruktūrizavimo administratorius.
 2.
 Informacija, kuri laikoma komercine (gamybine) paslaptimi, bet yra reikalinga
 restruktūrizavimo planui parengti ir jo pagrįstumui įvertinti, turi būti
@@ -689,8 +684,8 @@ dienos, ir numatomos tokio nutraukimo pasekmės;
 įmonės struktūriniai pertvarkymai, atleidžiamų ar priimamų darbuotojų skaičius
 ir su tuo susijusios išlaidos; 
 7)
-numatomų gauti kreditų dydis ir sąlygos bei kreditavimo sutarčių įvykdymo
-užtikrinimo būdai ir kiti finansavimo šaltiniai;
+numatomų gauti kreditų dydis ir sąlygos bei kreditavimo sutarčių įvykdymo užtikrinimo
+būdai ir kiti finansavimo šaltiniai;
 8)
 kitos priemonės.
 3.
@@ -706,8 +701,8 @@ straipsnis. Kreditorių reikalavimų tenkinimo eilė ir tvarka
 1. Įkeitimu ir
 (ar) hipoteka užtikrinti kreditoriaus reikalavimai tenkinami pirmiausia iš
 lėšų, gautų pardavus įkeistą įmonės turtą. Jeigu lėšų, gautų pardavus įkeistą
-turtą, nepakanka, likusioji nepatenkintų reikalavimų suma tenkinama šio
-straipsnio 
+turtą, nepakanka, likusioji nepatenkintų reikalavimų suma tenkinama šio straipsnio
+
 4 dalyje nustatyta (antrąja) eile. Jeigu restruktūrizavimo plane nenumatyta
 parduoti įkeisto turto, įkeitimu
 ir (ar) hipoteka užtikrinti kreditoriaus reikalavimai tenkinami šio straipsnio
@@ -722,9 +717,9 @@ dalyje nustatyta (antrąja) eile.
 Visi kreditorių
 reikalavimai pagal šio straipsnio 3, 4, 5, 6 dalyse nustatytą eiliškumą
 tenkinami dviem etapais. Pirmuoju etapu pagal šio straipsnio nustatytą
-eiliškumą tenkinami kreditorių reikalavimai be priskaičiuotų palūkanų ir
-netesybų, o antruoju etapu ta pačia eile tenkinami likusieji kreditorių
-reikalavimai (palūkanos ir netesybos).
+eiliškumą tenkinami kreditorių reikalavimai be priskaičiuotų palūkanų ir netesybų,
+o antruoju etapu ta pačia eile tenkinami likusieji kreditorių reikalavimai
+(palūkanos ir netesybos).
 3.
 Pirmąja eile tenkinami darbuotojų reikalavimai, susiję su darbo santykiais
 (įskaitant gyventojų pajamų mokestį ir valstybinio socialinio draudimo įmokas);
@@ -787,9 +782,9 @@ savivaldybės įmonės savininko teises ir pareigas įgyvendinanti institucija
 formą reglamentuojančio įstatymo nustatyta sprendimų priėmimo tvarka, o jeigu
 toks įstatymas šios tvarkos nenustato, – paprasta susirinkime dalyvaujančių
 įmonės dalyvių balsų dauguma. 
-2. Restruktūrizavimo
-administratorius, gavęs šio straipsnio 1 dalyje nustatyta tvarka patvirtintą
-restruktūrizavimo plano projektą:
+2.
+Restruktūrizavimo administratorius, gavęs šio straipsnio 1 dalyje nustatyta
+tvarka patvirtintą restruktūrizavimo plano projektą:
 1) parengia
 rašytinę išvadą dėl restruktūrizavimo plano projekto įgyvendinimo galimybių
 (toliau – išvada) ir ją pateikia įmonės valdymo organui;
@@ -844,9 +839,9 @@ pateikiamos restruktūrizavimo administratoriui. Restruktūrizavimo
 administratorius šiuos ir šio straipsnio 4 dalyje nurodytus dokumentus per 3
 darbo dienas nuo kopijų gavimo dienos pateikia teismui. Gautus Europos
 Komisijos sprendimus dėl valstybės pagalbos teikimo valstybės institucijos –
-kreditoriai, kiti valstybės pagalbos teikėjai – turi pateikti restruktūrizuojamai
-įmonei, restruktūrizavimo administratoriui ir teismui per 5 kalendorines
-dienas nuo šių sprendimų gavimo dienos. 
+kreditoriai, kiti valstybės pagalbos teikėjai – turi pateikti
+restruktūrizuojamai įmonei, restruktūrizavimo administratoriui ir teismui per
+5 kalendorines dienas nuo šių sprendimų gavimo dienos. 
 8. Kreditorių susirinkimas per 5
 kalendorines dienas nuo kreditorių susirinkimo dienos turi grąžinti įmonės
 valdymo organui patikslinti restruktūrizavimo plano projektą, jeigu jame
@@ -904,14 +899,14 @@ Restruktūrizavimo administratorius – teismo paskirtas fizinis ar juridinis
 asmuo, turintis teisę teikti įmonių restruktūrizavimo administravimo paslaugas.
 
 2.
-Restruktūrizavimo administratorius atlieka savo pareigas pagal su įmone sudarytą
-atlygintinų paslaugų teikimo sutartį, kurią įmonės vardu pasirašo įmonės
-valdymo organas. Tokia sutartis turi būti sudaryta ne vėliau kaip per 10
+Restruktūrizavimo administratorius atlieka savo pareigas pagal su įmone
+sudarytą atlygintinų paslaugų teikimo sutartį, kurią įmonės vardu pasirašo
+įmonės valdymo organas. Tokia sutartis turi būti sudaryta ne vėliau kaip per 10
 kalendorinių dienų nuo teismo nutarties iškelti įmonės restruktūrizavimo bylą
-įsiteisėjimo dienos. Administravimo išlaidų ir restruktūrizavimo
-administratoriaus atlyginimo sumos turi atitikti teismo nutartimis patvirtintas
-sumas. Restruktūrizavimo administratoriaus veiklos išlaidas apmoka
-restruktūrizuojama įmonė.
+įsiteisėjimo dienos. Administravimo išlaidų ir restruktūrizavimo administratoriaus
+atlyginimo sumos turi atitikti teismo nutartimis patvirtintas sumas.
+Restruktūrizavimo administratoriaus veiklos išlaidas apmoka restruktūrizuojama
+įmonė.
 3.
 Restruktūrizavimo administratoriaus veiklą Restruktūrizavimo
 administratorių veiklos priežiūros taisyklių nustatyta tvarka prižiūri,
@@ -929,9 +924,9 @@ profesinė civilinė atsakomybė Lietuvos Respublikos Vyriausybės nustatyta tva
 draudžiama privalomuoju draudimu.
 5.
 Restruktūrizavimo administratorius, netekęs teisės teikti įmonių
-restruktūrizavimo administravimo paslaugų, negali atlikti įmonių restruktūrizavimo
-procedūrų nuo teisės teikti įmonių restruktūrizavimo administravimo paslaugas
-netekimo dienos. 
+restruktūrizavimo administravimo paslaugų, negali atlikti įmonių
+restruktūrizavimo procedūrų nuo teisės teikti įmonių restruktūrizavimo
+administravimo paslaugas netekimo dienos. 
  
 16 straipsnis.
 Reikalavimai asmenims, siekiantiems įgyti teisę teikti įmonių 
@@ -942,8 +937,8 @@ suteiktomis judėjimo valstybėse narėse teisėmis, siekdamas įgyti teisę tei
 paslaugas, privalo: 
 1) būti
 nepriekaištingos reputacijos;
-2) turėti aukštąjį
-universitetinį išsilavinimą;
+2) turėti aukštąjį universitetinį
+išsilavinimą;
 3) turėti ne trumpesnį kaip
 3 metų įmonės vadovo darbo stažą per paskutinius 5 metus arba turėti
 2 metų bankroto administratoriaus darbo stažą;
@@ -954,7 +949,8 @@ egzaminą;
 Fizinis asmuo negali būti laikomas nepriekaištingos reputacijos, jeigu jis: 
 1)
 buvo nuteistas už sunkų ar labai sunkų nusikaltimą, nepaisant to, ar išnyko
-teistumas, arba buvo nuteistas už kitą nusikalstamą veiką, kol teistumas neišnykęs;
+teistumas, arba buvo nuteistas už kitą nusikalstamą veiką, kol teistumas
+neišnykęs;
 2) yra atleistas
 iš teisėjo, prokuroro, advokato, advokato padėjėjo, notaro, kandidato į notarus
 (asesoriaus), notaro atstovo, teismo antstolio, antstolio, antstolio atstovo,
@@ -1005,14 +1001,16 @@ panaikinimas
 Restruktūrizavimo administratoriaus pažymėjimą, kuriuo Lietuvos Respublikos ar
 kitos valstybės narės piliečiui, kitam fiziniam asmeniui, kuris naudojasi
 Europos Sąjungos teisės aktų jam suteiktomis judėjimo valstybėse narėse
-teisėmis, patvirtinama jo, kaip restruktūrizavimo administratoriaus, kvalifikacija,
-Komisijos siūlymu išduoda ir jo galiojimą panaikina Lietuvos Respublikos ūkio
-ministerija Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta
-tvarka. Restruktūrizavimo administratoriaus pažymėjimas neišduodamas asmeniui,
-neatitinkančiam šio įstatymo 16 straipsnio 1 dalyje nustatytų reikalavimų.
-Restruktūrizavimo administratoriaus pažymėjimas išduodamas arba rašytinis
-motyvuotas atsisakymas išduoti pažymėjimą pateikiamas pareiškėjui ne vėliau
-kaip per 30 dienų nuo kvalifikacijos egzamino dienos. 
+teisėmis, patvirtinama jo, kaip restruktūrizavimo administratoriaus,
+kvalifikacija, Komisijos siūlymu išduoda ir jo galiojimą panaikina Lietuvos
+Respublikos ūkio ministerija Lietuvos
+Respublikos Vyriausybės ar jos įgaliotos
+institucijos nustatyta tvarka. Restruktūrizavimo administratoriaus pažymėjimas
+neišduodamas asmeniui, neatitinkančiam šio įstatymo 16 straipsnio 1 dalyje
+nustatytų reikalavimų. Restruktūrizavimo administratoriaus pažymėjimas
+išduodamas arba rašytinis motyvuotas atsisakymas išduoti pažymėjimą pateikiamas
+pareiškėjui ne vėliau kaip per 30 dienų nuo kvalifikacijos egzamino
+dienos. 
 2.
 Restruktūrizavimo administratoriaus pažymėjimas galioja neterminuotai. 
 3.
@@ -1054,8 +1052,8 @@ institucijos nustatyta tvarka. Į Sąrašą įrašomi:
 fiziniai asmenys, kuriems šio įstatymo 18 straipsnio 1 dalyje nustatyta tvarka išduotas restruktūrizavimo administratoriaus
 pažymėjimas;
 2)
-juridiniai asmenys, atitinkantys šio įstatymo 16 straipsnio 3 dalyje
-nustatytus reikalavimus.
+juridiniai asmenys, atitinkantys šio įstatymo 16 straipsnio 3 dalyje nustatytus
+reikalavimus.
 2. Sprendimą
 įrašyti į Sąrašą fizinį ir (ar) juridinį asmenį ne vėliau kaip per 10 darbo
 dienų nuo restruktūrizavimo administratoriaus pažymėjimo išdavimo fiziniam
@@ -1069,10 +1067,10 @@ ir apie tai paskelbia savo interneto svetainėje.
 15 straipsnio 3 dalyje nurodyta Lietuvos Respublikos Vyriausybės įgaliota
 institucija
 privalo atsisakyti įrašyti juridinį asmenį į Sąrašą ir apie tai motyvuotu raštu ne
-vėliau kaip per 10 darbo dienų nuo dokumentų arba jų kopijų pateikimo
-dienos pranešti registruotu laišku juridiniam asmeniui, jeigu juridinis asmuo
+vėliau kaip per 10 darbo dienų nuo dokumentų arba jų kopijų
+pateikimo dienos pranešti registruotu laišku juridiniam asmeniui, jeigu juridinis asmuo
 neatitinka šio įstatymo 16 straipsnio 3 dalyje nustatytų reikalavimų.
-4. (neteko
+4. (Neteko
 galios nuo 2011-10-01)
 5. Šio įstatymo
 15 straipsnio 3 dalyje nurodyta Lietuvos Respublikos Vyriausybės įgaliota
@@ -1105,11 +1103,11 @@ Nr. XI-1439,
 restruktūrizavimą reglamentuojančių teisės aktų reikalavimų, teismo procesinių
 dokumentų (sprendimų, įsakymų, nutarčių ir nutarimų), kreditorių susirinkimo ir
 kreditorių komiteto nutarimų nevykdymą arba netinkamą vykdymą ar kitus
-pažeidimus, nustatytus tikrinant restruktūrizavimo administratoriaus veiklą, restruktūrizavimo
-administratoriui gali būti paskirta nuobauda Lietuvos Respublikos Vyriausybės
-ar jos įgaliotos institucijos nustatyta tvarka. Šio įstatymo 15 straipsnio 3
-dalyje nurodyta Lietuvos Respublikos Vyriausybės įgaliota institucija skiria
-šias nuobaudas:
+pažeidimus, nustatytus tikrinant restruktūrizavimo administratoriaus veiklą,
+restruktūrizavimo administratoriui gali būti paskirta nuobauda Lietuvos
+Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Šio
+įstatymo 15 straipsnio 3 dalyje nurodyta Lietuvos Respublikos Vyriausybės
+įgaliota institucija skiria šias nuobaudas:
 1) įspėjimą; 
 2) viešą
 įspėjimą. Viešas įspėjimas ne vėliau kaip per 5 darbo dienas nuo sprendimo
@@ -1118,8 +1116,7 @@ Lietuvos Respublikos Vyriausybės įgaliotos institucijos interneto svetainėje.
 2. Šio įstatymo
 15 straipsnio 3 dalyje nurodyta Lietuvos Respublikos Vyriausybės įgaliota
 institucija, nustačiusi galiojant nuobaudai pakartotinai padarytus šio
-straipsnio 
-1 dalyje nurodytus pažeidimus, taip pat šio įstatymo 19 straipsnio 5
+straipsnio 1 dalyje nurodytus pažeidimus, taip pat šio įstatymo 19 straipsnio 5
 dalyje nustatytais atvejais turi kreiptis į Komisiją dėl sprendimo siūlyti
 panaikinti restruktūrizavimo administratoriaus pažymėjimo galiojimą ir (ar)
 išbraukti jį iš Sąrašo.
@@ -1183,9 +1180,8 @@ Teismui teikiamas prašymas dėl administratoriaus atstatydinimo turi būti
 motyvuotas. Teismas netenkina prašymo dėl
 administratoriaus atstatydinimo šiais atvejais:
 1)
-kai kreditorių susirinkimo sprendimas atstatydinti administratorių priimtas
-pažeidžiant šiame įstatyme nustatytą kreditorių susirinkimo sprendimų priėmimo
-tvarką;
+kai kreditorių susirinkimo sprendimas atstatydinti administratorių priimtas pažeidžiant
+šiame įstatyme nustatytą kreditorių susirinkimo sprendimų priėmimo tvarką;
 2)
 kai prašymą dėl administratoriaus atstatydinimo pateikęs kreditorius
 (kreditoriai) neatitinka šio įstatymo 24 straipsnio 8 punkte nustatytos
@@ -1200,8 +1196,8 @@ kai patenkinus prašymą būtų pažeistas viešasis interesas.
 Administratoriaus atstatydinimo klausimą teismas išsprendžia nutartimi ne
 vėliau kaip per 15 dienų nuo prašymo gavimo dienos. Jeigu administratorius
 atstatydinamas, ta pačia nutartimi teismas paskiria restruktūrizavimo
-administratoriumi kitą asmenį, kurį pasiūlo įmonės valdymo organas arba
-kreditorių susirinkimas. Teismas gali pripažinti nutartį dėl administratoriaus
+administratoriumi kitą asmenį, kurį pasiūlo įmonės valdymo organas arba kreditorių
+susirinkimas. Teismas gali pripažinti nutartį dėl administratoriaus
 atstatydinimo ir naujo administratoriaus paskyrimo skubiai vykdytina. 
 7.
 Įmonės valdymo organo teikimu, pritarus kreditorių susirinkimo pirmininkui,
@@ -1212,7 +1208,8 @@ laikinai negali eiti savo pareigų.
 Restruktūrizavimo administratoriaus fizinio asmens mirties atveju teismas
 paskiria kitą restruktūrizavimo administratorių, kurio kandidatūrą teismui
 pasiūlo įmonės valdymo organas dalyvių susirinkimo, savininko arba valstybės ar
-savivaldybės įmonės savininko teises ir pareigas įgyvendinančios institucijos pritarimu.
+savivaldybės įmonės savininko teises ir pareigas įgyvendinančios institucijos
+pritarimu.
  
 22 straipsnis. Restruktūrizavimo administratoriaus
 pareigos ir teisės
@@ -1220,8 +1217,8 @@ pareigos ir teisės
 Restruktūrizavimo administratorius, teismui priėmus nutartį iškelti įmonės
 restruktūrizavimo bylą, privalo:
 1) imtis priemonių, kad teismo
-nustatytais terminais būtų parengtas, pateiktas tvirtinti ir įgyvendintas
-restruktūrizavimo planas; 
+nustatytais terminais būtų parengtas, pateiktas tvirtinti ir įgyvendintas restruktūrizavimo
+planas; 
 2) prižiūrėti restruktūrizuojamos įmonės
 valdymo organų veiklą, susijusią
 su restruktūrizavimo plano vykdymu; 
@@ -1259,11 +1256,11 @@ prašymą teismui (teismams) dėl jo atstatydinimo iš visų jo administruojamų
 įmonių restruktūrizavimo administratoriaus pareigų ne vėliau kaip kitą darbo
 dieną po tos dienos, kai sužinojo apie teisės teikti įmonių restruktūrizavimo
 administravimo paslaugas netekimą; tą pačią dieną prašymo dėl atstatydinimo
-kopiją pateikti visų jo administruojamų įmonių valdymo organams ir jų kreditorių
-susirinkimų pirmininkams.
-2.
-Restruktūrizavimo administratorius, teismui priėmus nutartį iškelti įmonės
-restruktūrizavimo bylą, turi teisę:
+kopiją pateikti visų jo administruojamų įmonių valdymo organams ir jų
+kreditorių susirinkimų pirmininkams.
+2. Restruktūrizavimo
+administratorius, teismui priėmus nutartį iškelti įmonės restruktūrizavimo
+bylą, turi teisę:
 1)
 įeiti į įmonei priklausančias patalpas, tikrinti įmonės sąskaitas,
 korespondenciją, kitus verslo dokumentus ir duomenų bazes;
@@ -1400,8 +1397,8 @@ pritarti restruktūrizavimo administratoriaus siūlymui kreiptis į teismą dėl
 įmonės restruktūrizavimo bylos nutraukimo, jeigu nevykdomas arba netinkamai
 vykdomas restruktūrizavimo planas, arba kreiptis į teismą dėl restruktūrizavimo
 bylos nutraukimo, jeigu tam pritaria kreditoriai, kurių reikalavimų suma
-vertine išraiška sudaro ne mažiau kaip 2/3 visų teismo patvirtintų kreditorių
-reikalavimų sumos vertinės išraiškos;
+vertine išraiška sudaro ne mažiau kaip 2/3 visų teismo patvirtintų
+kreditorių reikalavimų sumos vertinės išraiškos;
 9) įpareigoti
 kreditorių susirinkimo pirmininką pasirašyti restruktūrizavimo plano
 įgyvendinimo aktą;
@@ -1436,14 +1433,14 @@ Restruktūrizavimo administratorius kiekvienam kreditorių susirinkimui turi
 pateikti teismo nutarties, kuria patvirtintas kreditorių sąrašas ir jų
 reikalavimai, kopiją. Kreditorių susirinkimo nutarimas laikomas priimtu, jeigu
 už jį balsavo kreditoriai, kurių teismo patvirtintų reikalavimų suma vertine
-išraiška sudaro ne mažiau kaip pusę visų teismo patvirtintų kreditorių
-reikalavimų sumos, išskyrus šio įstatymo 10 straipsnio 2 dalies 3 punkte,
+išraiška sudaro ne mažiau kaip pusę visų teismo patvirtintų kreditorių reikalavimų
+sumos, išskyrus šio įstatymo 10 straipsnio 2 dalies 3 punkte,
 14 straipsnio 3 dalyje ir 25 straipsnio 1 dalies 8 punkte nustatytus
-atvejus. Jeigu restruktūrizavimo metu kreditorių sąrašas ir (ar) jų reikalavimai
-tikslinami (išmokėtos tam tikros sumos, reikalavimai padidinami ir kt.),
-kreditorių susirinkimas negali įvykti anksčiau negu įsiteisės teismo nutartis,
-kuria patvirtinti atitinkamai patikslinti kreditorių sąrašas ir (ar) jų
-reikalavimai.
+atvejus. Jeigu restruktūrizavimo metu kreditorių sąrašas ir (ar) jų
+reikalavimai tikslinami (išmokėtos tam tikros sumos, reikalavimai padidinami ir
+kt.), kreditorių susirinkimas negali įvykti anksčiau negu įsiteisės teismo
+nutartis, kuria patvirtinti atitinkamai patikslinti kreditorių sąrašas ir (ar)
+jų reikalavimai.
 3. Kreditorius
 turi teisę iš anksto raštu balsuoti dėl kiekvieno kreditorių susirinkimo
 darbotvarkėje įrašyto sprendimo projekto. Šie balsai įskaitomi į kreditorių
@@ -1454,15 +1451,14 @@ restruktūrizuojamos įmonės kreditorių susirinkimas neįvyko, nes nebuvo kvor
 restruktūrizavimo administratorius per 15 kalendorinių dienų turi sušaukti
 pakartotinį kreditorių susirinkimą. Šis susirinkimas turi teisę priimti
 nutarimus tik pagal neįvykusio kreditorių susirinkimo darbotvarkę.
-5.
-Pakartotiniame kreditorių susirinkime nutarimas laikomas priimtu, jeigu už jį
-balsavo kreditoriai, kurių teismo patvirtintų reikalavimų suma vertine išraiška
-sudaro daugiau kaip pusę visų susirinkime dalyvavusių ir iš anksto raštu
-balsavusių kreditorių patvirtintų reikalavimų sumos, išskyrus šio įstatymo 10
-straipsnio 2 dalies 3 punkte, 14 straipsnio 3 dalyje ir 25 straipsnio 1
-dalies 7 ir 8 punktuose nustatytus atvejus, kai kreditorių susirinkime
-nutarimas priimamas tokia pačia tvarka kaip ir neįvykusiame kreditorių
-susirinkime. 
+5. Pakartotiniame
+kreditorių susirinkime nutarimas laikomas priimtu, jeigu už jį balsavo
+kreditoriai, kurių teismo patvirtintų reikalavimų suma vertine išraiška sudaro
+daugiau kaip pusę visų susirinkime dalyvavusių ir iš anksto raštu balsavusių
+kreditorių patvirtintų reikalavimų sumos, išskyrus šio įstatymo 10 straipsnio 2
+dalies 3 punkte, 14 straipsnio 3 dalyje ir 25 straipsnio 1 dalies 7 ir 8
+punktuose nustatytus atvejus, kai kreditorių susirinkime nutarimas priimamas
+tokia pačia tvarka kaip ir neįvykusiame kreditorių susirinkime. 
 6. Kreditorių
 susirinkimo nutarimai privalomi visiems kreditoriams. Kreditorių susirinkimo
 pirmininkas kreditorių susirinkimo protokolą ne vėliau kaip per 5 darbo dienas
@@ -1530,8 +1526,8 @@ teismo nustatytam restruktūrizavimo plano įgyvendinimo terminui, nepateikiamas
 restruktūrizavimo bylą šio straipsnio 1 dalies 1, 4 arba 5 punkte
 nurodytais pagrindais ir jeigu yra kitų Lietuvos Respublikos įmonių bankroto
 įstatyme nurodytų bankroto bylos iškėlimo sąlygų, teismui turi būti pateiktas
-pareiškimas dėl įmonės bankroto bylos iškėlimo Lietuvos Respublikos įmonių bankroto
-įstatymo nustatyta tvarka.
+pareiškimas dėl įmonės bankroto bylos iškėlimo Lietuvos Respublikos įmonių
+bankroto įstatymo nustatyta tvarka.
 3.
 Apie teismo nutartį nutraukti įmonės restruktūrizavimo bylą restruktūrizavimo
 administratorius per 5 darbo dienas nuo nutarties įsiteisėjimo dienos privalo
@@ -1546,8 +1542,8 @@ Privalomosios įmokos, palūkanų ir netesybų skaičiavimas bei išieškojimai,
 išskyrus jau įvykdytus įsipareigojimus, atnaujinami nuo jų skaičiavimo
 sustabdymo pradžios ir skaičiuojami už restruktūrizavimo bylos iškėlimo ir už
 nagrinėjimo teisme laikotarpį, taip pat panaikinami kreditorių reikalavimų
-atsisakymai. Ši straipsnio dalis taip pat taikoma ir restruktūrizavimo metu susidariusiems
-einamųjų įmokų įsiskolinimams.
+atsisakymai. Ši straipsnio dalis taip pat taikoma ir restruktūrizavimo metu
+susidariusiems einamųjų įmokų įsiskolinimams.
  
 29
 straipsnis. Įmonės restruktūrizavimo pabaiga
@@ -1744,12 +1740,22 @@ RESTRUKTŪRIZAVIMO ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja 2012-01-01.
  
+14.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-1873,
+2011-12-22, Žin., 2011, Nr. 163-7764 (2011-12-31)
+ĮMONIŲ
+RESTRUKTŪRIZAVIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2012 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušra Bodin (2011-12-14)
+Aušrinė Trapinskienė (2012-01-06)
                  
-aubodi@lrs.lt
+ausrine.trapinskiene@lrs.lt
 
