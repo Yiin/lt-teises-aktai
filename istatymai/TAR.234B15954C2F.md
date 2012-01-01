@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.234B15954C2F"
 
 # Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas
 
-Suvestinė redakcija nuo 2008-01-01 iki 2011-12-31
+Suvestinė redakcija nuo 2012-01-01 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 44-1247, i. k. 1001010ISTAIII-1679
  
@@ -493,7 +493,9 @@ Nr. IX-2362, 2004-07-13, Žin., 2004, Nr. 115-4285 (2004-07-24), i. k. 1041010IS
 
 
 
-2. Biomedicininių tyrimų užsakovas ir pagrindinis tyrėjas privalo drausti savo civilinę atsakomybę dėl tiriamajam biomedicininio tyrimo metu galinčios atsirasti žalos sudarydami Pagrindinių tyrėjų ir biomedicininių tyrimų užsakovų civilinės atsakomybės privalomojo draudimo sutartis su draudimo įmonėmis, turinčiomis Valstybinės draudimo priežiūros tarnybos prie Finansų ministerijos išduotą leidimą verstis šios rūšies draudimu. Šis reikalavimas taikomas tik tais atvejais, kai biomedicininiai tyrimai atliekami su gyvais žmonėmis.
+2. Biomedicininių tyrimų užsakovas ir pagrindinis tyrėjas privalo drausti savo civilinę atsakomybę dėl tiriamajam biomedicininio tyrimo metu galinčios atsirasti žalos sudarydami pagrindinių tyrėjų ir biomedicininių tyrimų užsakovų civilinės atsakomybės privalomojo draudimo sutartis su draudikais, teisės aktų nustatyta tvarka turinčiais teisę vykdyti pagrindinių tyrėjų ir biomedicininių tyrimų užsakovų civilinės atsakomybės privalomąjį draudimą. Šis reikalavimas taikomas tik tais atvejais, kai biomedicininiai tyrimai atliekami su gyvais žmonėmis.
+Straipsnio dalies pakeitimai:
+Nr. XI-1692, 2011-11-17, Žin., 2011, Nr. 146-6838 (2011-12-01), i. k. 1111010ISTA0XI-1692
 Straipsnio dalies numeracijos pakeitimas:
 Nr. IX-2362, 2004-07-13, Žin., 2004, Nr. 115-4285 (2004-07-24), i. k. 1041010ISTA0IX-2362
  
@@ -837,24 +839,10 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-20 straipsnis. Pasiūlymai Vyriausybei ar jos įgaliotai institucijai, Valstybinei draudimo priežiūros tarnybai prie Finansų ministerijos ir Sveikatos apsaugos ministerijai
-
-
-1. Vyriausybė ar jos įgaliota institucija iki 2000 m. lapkričio 1 d. parengia ir patvirtina Pagrindinių tyrėjų ir biomedicininių tyrimų užsakovų civilinės atsakomybės privalomojo draudimo taisykles.
-
-
-
-
-2. Valstybinės draudimo priežiūros tarnybos prie Finansų ministerijos valdyba iki 2000 m. spalio 1 d. patvirtina leidimų vykdyti Pagrindinių tyrėjų ir biomedicininių tyrimų užsakovų civilinės atsakomybės privalomąjį draudimą išdavimo tvarką.
-
-
-
-
-3. Vyriausybė ar jos įgaliota institucija iki 2000 m. lapkričio 1 d. parengia ir patvirtina teisės aktus, susijusius su šiuo įstatymu. 
+20 straipsnis. Neteko galios nuo 2012-01-01
+Straipsnio naikinimas:
+Nr. XI-1692, 2011-11-17, Žin. 2011, Nr. 146-6838 (2011-12-01), i. k. 1111010ISTA0XI-1692
  
- 
-
-
 
 
 
@@ -907,3 +895,8 @@ Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo 2 ir 3 straipsnių
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1325, 2007-11-15, Žin., 2007, Nr. 125-5093 (2007-12-01), i. k. 1071010ISTA00X-1325
 Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo 1, 2, 4, 12, 13, 14, 15, 16, 17 straipsnių ir priedo pakeitimo ir papildymo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1692, 2011-11-17, Žin., 2011, Nr. 146-6838 (2011-12-01), i. k. 1111010ISTA0XI-1692
+Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo 11 straipsnio pakeitimo ir 20 straipsnio pripažinimo netekusiu galios įstatymas
