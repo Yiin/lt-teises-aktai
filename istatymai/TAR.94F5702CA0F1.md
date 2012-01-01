@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.94F5702CA0F1"
 
 # Lietuvos Respublikos antstolių įstatymas
 
-Suvestinė redakcija nuo 2009-04-01 iki 2011-12-31
+Suvestinė redakcija nuo 2012-01-01 iki 2012-04-27
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 53-2042, i. k. 1021010ISTA00IX-876
  
@@ -633,7 +633,10 @@ KITA ANTSTOLIO ATSAKOMYBĖ
 
 
 
-3. Antstoliai profesinės civilinės atsakomybės privalomuoju draudimu draudžiami sudarant bendrą visų antstolių profesinės civilinės atsakomybės draudimo sutartį. Antstolių profesinės civilinės atsakomybės privalomojo draudimo draudėjas yra Lietuvos antstolių rūmai. Kiekvienas antstolis Lietuvos antstolių rūmams privalo mokėti draudimo įmoką. Ji neįskaitoma į šio Įstatymo 45 straipsnio 5 dalyje nurodytą įmoką. Antstolio profesinės civilinės atsakomybės privalomojo draudimo minimali suma yra 200 000 litų vienam draudiminiam įvykiui. 
+3. Antstoliai profesinės civilinės atsakomybės privalomuoju draudimu draudžiami sudarant bendrą visų antstolių profesinės civilinės atsakomybės draudimo sutartį. Antstolių profesinės civilinės atsakomybės privalomojo draudimo draudėjas yra Lietuvos antstolių rūmai. Kiekvienas antstolis Lietuvos antstolių rūmams privalo mokėti draudimo įmoką. Ji neįskaitoma į šio Įstatymo 45 straipsnio 5 dalyje nurodytą įmoką. Antstolio profesinės civilinės atsakomybės privalomojo draudimo minimali suma yra 200 000 litų vienam draudžiamajam įvykiui. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1690, 2011-11-17, Žin., 2011, Nr. 146-6836 (2011-12-01), i. k. 1111010ISTA0XI-1690
+ 
 
 
 
@@ -648,12 +651,18 @@ KITA ANTSTOLIO ATSAKOMYBĖ
 
 
 
-6. Draudiminiu įvykiu laikomi draudimo sutarties galiojimo metu atlikti antstolio, jo atstovo, padėjėjų ar kitų darbuotojų neteisėti veiksmai (veikimas, neveikimas), kurie yra pagrindas žalai atsirasti.
+6. Draudžiamuoju įvykiu laikomi draudimo sutarties galiojimo metu atlikti antstolio, jo atstovo, padėjėjų ar kitų darbuotojų neteisėti veiksmai (veikimas, neveikimas), kurie yra pagrindas žalai atsirasti. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1690, 2011-11-17, Žin., 2011, Nr. 146-6836 (2011-12-01), i. k. 1111010ISTA0XI-1690
+ 
 
 
 
 
-7. Draudikas, turintis Valstybinės draudimo priežiūros tarnybos prie Lietuvos Respublikos finansų ministerijos išduotą leidimą vykdyti antstolių profesinės civilinės atsakomybės privalomąjį draudimą, privalo sudaryti antstolių profesinės civilinės atsakomybės privalomojo draudimo sutartį su Lietuvos antstolių rūmais, kai šie pateikia prašymą ir visus būtinus dokumentus sudaryti tokią sutartį. Antstolių profesinės civilinės atsakomybės privalomojo draudimo taisykles nustato Vyriausybė ar jos įgaliota institucija. 
+7. Draudikas, kuris teisės aktų nustatyta tvarka turi teisę vykdyti antstolių profesinės civilinės atsakomybės privalomąjį draudimą, privalo sudaryti antstolių profesinės civilinės atsakomybės privalomojo draudimo sutartį su Lietuvos antstolių rūmais, kai šie pateikia prašymą ir visus šiai sutarčiai sudaryti būtinus dokumentus. Antstolių profesinės civilinės atsakomybės privalomojo draudimo taisykles nustato Vyriausybė ar jos įgaliota institucija. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1690, 2011-11-17, Žin., 2011, Nr. 146-6836 (2011-12-01), i. k. 1111010ISTA0XI-1690
+ 
 
 
 
@@ -1731,3 +1740,8 @@ Lietuvos Respublikos antstolių įstatymo 9 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010ISTA00X-1837
 Lietuvos Respublikos antstolių įstatymo 4, 5, 6, 8, 10, 11, 13, 14, 15, 21, 23, 27, 29, 30, 32, 34, 35, 36, 37, 39, 40, 41, 43 straipsnių pakeitimo ir papildymo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1690, 2011-11-17, Žin., 2011, Nr. 146-6836 (2011-12-01), i. k. 1111010ISTA0XI-1690
+Lietuvos Respublikos antstolių įstatymo 17 straipsnio pakeitimo įstatymas
