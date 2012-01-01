@@ -22,6 +22,9 @@ LIETUVOS RESPUBLIKOS
 Nr. 51-1243
 Neoficialus įstatymo tekstas
  
+Aktuali
+redakcija nuo 2012-01-01
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBĖS KONTROLĖS
 ĮSTATYMAS
@@ -58,13 +61,13 @@ kontrolė – institucija, atliekanti valstybinį auditą.
 4. Valstybinio audito ataskaita – Valstybės
 kontrolės pareigūno parengtas valstybinio audito dokumentas, kuriame
 aprašomi atlikto valstybinio audito mastas ir rezultatai. 
-5. Valstybinio audito išvada – Valstybės
-kontrolės pareigūno parengtas valstybinio audito dokumentas, kuriame, atlikus
-finansinį (teisėtumo) auditą, pareiškiama nuomonė dėl audituoto subjekto
-finansinių ir biudžeto vykdymo ataskaitų rinkinių, metinių konsoliduotųjų
-ataskaitų rinkinių, nacionalinio ataskaitų rinkinio ir kitų ataskaitų duomenų
-bei valstybės lėšų ir turto valdymo, naudojimo ir disponavimo jais teisėtumo ir
-jų naudojimo įstatymų nustatytiems tikslams.
+5. Valstybinio audito išvada – Valstybės kontrolės
+pareigūno parengtas valstybinio audito dokumentas, kuriame, atlikus finansinį
+(teisėtumo) auditą, pareiškiama nuomonė dėl audituoto subjekto finansinių ir
+biudžeto vykdymo ataskaitų rinkinių, metinių konsoliduotųjų ataskaitų
+rinkinių, nacionalinio ataskaitų rinkinio ir kitų ataskaitų duomenų bei
+valstybės lėšų ir turto valdymo, naudojimo ir disponavimo jais teisėtumo ir jų
+naudojimo įstatymų nustatytiems tikslams.
 6. Valstybinio
 audito reikalavimai – taisyklių,
 principų ir procedūrų visuma, visais reikšmingais atvejais atitinkanti tarptautinius
@@ -89,8 +92,8 @@ Nr. XI-843,
  
 3 straipsnis. Valstybės
 kontrolės teisinis statusas 
-1. Valstybės kontrolė yra Seimui atskaitinga
-aukščiausioji valstybinio audito institucija. 
+1. Valstybės kontrolė yra Seimui atskaitinga aukščiausioji
+valstybinio audito institucija. 
 2. Valstybės
 kontrolė yra juridinis asmuo, turi atsiskaitomąją sąskaitą Lietuvos banke,
 antspaudą su Lietuvos valstybės herbu ir pavadinimu „Lietuvos Respublika.
@@ -147,12 +150,12 @@ organizuojamas pagal metinius darbo planus.
 biudžeto.
 2. Valstybės kontrolės biudžeto asignavimų dydį
 nustato ir skiria Seimas. 
-3.
-Išlaidoms, susijusioms su Valstybės kontrolės atstovavimu šalyje ir užsienyje,
-finansuoti gali būti sudaromas valstybės kontrolieriaus fondas, kuriam,
-nedidinant Valstybės kontrolei nustatytų bendrų reprezentacijos lėšų, kiekvieną
-mėnesį skiriama paskutinio paskelbto šalies ūkio trijų vidutinių mėnesinių
-darbo užmokesčių dydžio suma. Šių lėšų naudojimo tvarką nustato Vyriausybė.
+3. Išlaidoms,
+susijusioms su Valstybės kontrolės atstovavimu šalyje ir užsienyje, finansuoti
+gali būti sudaromas valstybės kontrolieriaus fondas, kuriam, nedidinant
+Valstybės kontrolei nustatytų bendrų reprezentacijos lėšų, kiekvieną mėnesį
+skiriama paskutinio paskelbto šalies ūkio trijų vidutinių mėnesinių darbo
+užmokesčių dydžio suma. Šių lėšų naudojimo tvarką nustato Vyriausybė.
 4. Valstybės kontrolės finansinį auditą
 atlieka Seimo nutarimu paskirta audito įmonė.
 5. Valstybės kontrolės vidaus auditą atlieka
@@ -237,8 +240,8 @@ pareigybių sąrašą ir pareigybių aprašymus;
 4) teisės aktų nustatyta tvarka skiria ir atleidžia iš
 tarnybos Valstybės kontrolės pareigūnus ir kitus valstybės tarnautojus;
 5) teikia Respublikos Prezidentui valstybės
-kontrolieriaus pavaduotojų kandidatus bei siūlymus atleisti valstybės
-kontrolieriaus pavaduotojus iš pareigų;
+kontrolieriaus pavaduotojų kandidatus bei siūlymus atleisti valstybės kontrolieriaus
+pavaduotojus iš pareigų;
 6) teikia Seimui Valstybės kontrolės veiklos ataskaitą
 ir išvadas, nustatytas šio įstatymo 9 straipsnio 3 dalyje;
 7) ne vėliau kaip per 5 darbo dienas nuo valstybinio
@@ -246,9 +249,9 @@ audito dokumentų įforminimo Seimo Audito komitetui teikia veiklos audito
 ataskaitas ir finansinio (teisėtumo) audito ataskaitas bei išvadas, kai
 Valstybės kontrolės pareigūnai dėl finansinių ataskaitų pareiškė sąlyginę ar
 neigiamą nuomonę arba atsisakė ją pareikšti;
-8) turi teisę dalyvauti Seimo plenariniuose
-posėdžiuose ir pareikšti savo nuomonę, kai svarstomi su Valstybės kontrolės
-veikla susiję klausimai;
+8) turi teisę dalyvauti Seimo plenariniuose posėdžiuose
+ir pareikšti savo nuomonę, kai svarstomi su Valstybės kontrolės veikla susiję
+klausimai;
 9) turi teisę teikti siūlymus Seimui, Respublikos
 Prezidentui arba Vyriausybei dėl teisės aktų tobulinimo;
 10) dalyvauja Vyriausybės posėdžiuose;
@@ -275,16 +278,16 @@ kontrolės pareigūnų teisės ir
 atsakomybė
 1. Atliekantys valstybinį auditą Valstybės kontrolės pareigūnai
 turi teisę: savarankiškai pasirinkti audito procedūras; gauti auditui atlikti
-reikalingus dokumentus ir informaciją; atlikti kontrolinius matavimus,
-materialinių vertybių inventorizaciją ar kitaip tikrinti audituojamo subjekto
-turtą, taip pat atlikti kitus būtinus veiksmus; gauti iš audituojamo subjekto
-darbuotojų reikiamus paaiškinimus raštu; surašyti administracinių teisės
-pažeidimų protokolus; elektroniniu ryšiu gauti iš valstybės
-valdymo ir savivaldybių institucijų, valstybės kadastrų,
-klasifikatorių bei registrų tvarkytojų duomenis ir informaciją, kurios reikia
-valstybiniam auditui atlikti; gauti iš ekspertizės įstaigų išvadas pagal
-pateiktus audito dokumentus; pasitelkti atitinkamų sričių specialistus ir
-audito įstaigas, kai atliekamas specifinių sričių auditas.
+reikalingus dokumentus ir informaciją; atlikti kontrolinius matavimus, materialinių
+vertybių inventorizaciją ar kitaip tikrinti audituojamo subjekto turtą, taip
+pat atlikti kitus būtinus veiksmus; gauti iš audituojamo subjekto darbuotojų
+reikiamus paaiškinimus raštu; surašyti administracinių teisės pažeidimų
+protokolus; elektroniniu ryšiu gauti iš valstybės valdymo ir
+savivaldybių institucijų, valstybės kadastrų, klasifikatorių
+bei registrų tvarkytojų duomenis ir informaciją, kurios reikia valstybiniam
+auditui atlikti; gauti iš ekspertizės įstaigų išvadas pagal pateiktus audito dokumentus;
+pasitelkti atitinkamų sričių specialistus ir audito įstaigas, kai atliekamas
+specifinių sričių auditas.
 2. Atliekantys valstybinį auditą
 Valstybės kontrolės pareigūnai įstatymų nustatyta tvarka atsako už
 Valstybinio audito reikalavimų ir Valstybės kontrolės
@@ -303,8 +306,8 @@ veiklos auditą.
 2.
 Valstybinis auditas atliekamas pagal valstybės kontrolieriaus
 patvirtintus Valstybinio audito reikalavimus.
-3. Valstybinio audito reikalavimai skelbiami
-leidinyje „Valstybės žinios“.
+3. Valstybinio audito reikalavimai
+skelbiami leidinyje „Valstybės žinios“.
 Straipsnio pakeitimai:
 Nr. X-468, 2005-12-22,
 Žin., 2006, Nr. 4-101 (2006-01-12)
@@ -327,10 +330,11 @@ valstybės ar savivaldybės institucija suteikė lėšų arba perdavė turto.
 biudžeto, Valstybinio socialinio draudimo fondo biudžeto ir Privalomojo
 sveikatos draudimo fondo biudžeto vykdymo valstybinį auditą.
 4. Valstybės kontrolė gali atlikti Lietuvos banko
-įstatyme nustatytos vykdomos veiklos auditą tiek, kiek tai neprieštarauja
-Europos Sąjungos teisės aktams ir juose įtvirtintiems Europos centrinių bankų
-sistemos tikslams ir uždaviniams, ir jeigu tai nepažeidžia Europos centrinių
-bankų sistemos konfidencialumo ir nepriklausomumo režimo.
+įstatyme nustatytos vykdomos veiklos, įskaitant veiklą, susijusią su finansų
+rinkos priežiūros atlikimu, auditą tiek, kiek tai neprieštarauja Europos
+Sąjungos teisės aktams ir juose įtvirtintiems Europos centrinių bankų sistemos
+tikslams ir uždaviniams, ir jeigu tai nepažeidžia Europos centrinių bankų
+sistemos konfidencialumo ir nepriklausomumo režimo.
 5. Seimas nutarimu gali pavesti Valstybės kontrolei
 atlikti valstybinį auditą pagal jos kompetenciją.
 Straipsnio
@@ -342,12 +346,15 @@ Nr. X-468, 2005-12-22,
 Žin., 2006, Nr. 4-101 (2006-01-12)
 Nr. XI-497,
 2009-11-19, Žin., 2009, Nr. 144-6349 (2009-12-05)
+Nr.
+XI-1706,
+2011-11-17, Žin., 2011, Nr. 146-6850 (2011-12-01)
  
 15 straipsnis. Audituojamo
 subjekto teisės ir pareigos 
 1. Audituojamas subjektas turi teisę susipažinti su
-valstybinio audito ataskaitos projektu ir per Valstybės kontrolės nustatytą, bet
-ne trumpesnį kaip 7 darbo dienų terminą teikti dėl jo pastabas.
+valstybinio audito ataskaitos projektu ir per Valstybės kontrolės nustatytą,
+bet ne trumpesnį kaip 7 darbo dienų terminą teikti dėl jo pastabas.
 2. Audituojamas subjektas privalo užtikrinti teisę
 Valstybės kontrolės pareigūnams, įgaliotiems atlikti valstybinį auditą, laisvai
 patekti į patalpas, gauti dokumentus, tikrinti informacijos šaltinius ir gauti
@@ -1003,9 +1010,22 @@ Nr. XI-843,
 VALSTYBĖS KONTROLĖS ĮSTATYMO 2
 IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
-*** Pabaiga ***
+18.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-1706,
+2011-11-17, Žin., 2011, Nr. 146-6850 (2011-12-01)
+VALSTYBĖS
+KONTROLĖS ĮSTATYMO 14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2012 m. sausio 1 d.
  
  
-Redagavo Aušrinė Trapinskienė
-(2010-06-10)
-                  autrap@lrs.lt
+***
+Pabaiga ***
+ 
+ 
+Redagavo
+Aušra Bodin (2011-12-15)
+                 
+aubodi@lrs.lt
