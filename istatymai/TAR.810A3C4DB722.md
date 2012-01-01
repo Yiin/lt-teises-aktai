@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.810A3C4DB722"
 
 # Lietuvos Respublikos narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) kontrolės įstatymas
 
-Suvestinė redakcija nuo 2011-04-01 iki 2011-12-31
+Suvestinė redakcija nuo 2012-01-01 iki 2015-10-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 55-1764, i. k. 0991010ISTAIII-1207
  
@@ -52,56 +52,87 @@ Vilnius
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Atsakingas asmuo – asmuo, atitinkantis atsakingo pareigūno sąvoką, nurodytą 2004 m. vasario 11 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 273/2004 dėl narkotinių medžiagų pirmtakų (prekursorių) (toliau – Reglamentas (EB) Nr. 273/2004) ir Komisijos reglamente (EB) Nr. 1277/2005, nustatančiame Europos Parlamento ir Tarybos reglamento (EB) Nr. 273/2004 dėl narkotinių medžiagų pirmtakų (prekursorių) ir Tarybos reglamento (EB) Nr. 111/2005, nustatančio prekybos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) tarp Bendrijos ir trečiųjų šalių stebėsenos taisykles, įgyvendinimo taisykles (toliau – Reglamentas (EB) Nr. 1277/2005), atsakingas už veiklą, susijusią su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), ir užtikrinantis, kad ši veikla atitiktų Reglamento (EB) Nr. 273/2004, 2004 m. gruodžio 22 d. Tarybos reglamento (EB) Nr. 111/2005, nustatančio prekybos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) tarp Bendrijos ir trečiųjų šalių stebėsenos taisykles (toliau – Reglamentas (EB) Nr. 111/2005), Reglamento (EB) Nr. 1277/2005 ir kitų teisės aktų nustatytus reikalavimus.
-
-
-
-
-2. Į oficialų narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) sąrašą neįtraukta medžiaga – medžiaga, kaip nurodyta Reglamento (EB) Nr. 273/2004 2 straipsnio b punkte ir Reglamento (EB) Nr. 111/2005 2 straipsnio b punkte.
-
-
-
-
-3. Licencija – Narkotikų, tabako ir alkoholio kontrolės departamento išduotas dokumentas, suteikiantis teisę ją turinčiam subjektui vykdyti veiklą, susijusią su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais). 
-Straipsnio dalies pakeitimai:
-Nr. XI-1182, 2010-11-30, Žin., 2010, Nr. 145-7435 (2010-12-11), i. k. 1101010ISTA0XI-1182
+1. Asmuo – ūkio subjektas arba ūkio subjekto paskirtas atsakingas pareigūnas, kaip nurodyta 2004 m. vasario 11 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 273/2004 dėl narkotinių medžiagų pirmtakų (prekursorių) (toliau – Reglamentas (EB) Nr. 273/2004) 2 straipsnio d punkte ir 3 straipsnio 1 dalyje, arba operacijų vykdytojas, kaip nurodyta 2004 m. gruodžio 22 d. Tarybos reglamento (EB) Nr. 111/2005, nustatančio prekybos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) tarp Bendrijos ir trečiųjų šalių stebėsenos taisykles (toliau – Reglamentas (EB) Nr. 111/2005), 2 straipsnio f punkte. 
+Papildyta straipsnio dalimi:
+Nr. XI-1736, 2011-11-22, Žin., 2011, Nr. 146-6854 (2011-12-01), i. k. 1111010ISTA0XI-1736
  
 
 
 
 
-4. Narkotinių ir psichotropinių medžiagų pirmtakas (prekursorius) – į oficialų sąrašą įtraukta medžiaga, kaip nurodyta Reglamento (EB) Nr. 273/2004 2 straipsnio a punkte ir Reglamento (EB) Nr. 111/2005 2 straipsnio a punkte.
-
-
-
-
-5. Pirmos, antros, trečios kategorijos narkotinių ir psichotropinių medžiagų pirmtakas (prekursorius) – atitinkamai kategorijai priskirta į oficialų sąrašą įtraukta medžiaga, kaip nurodyta Reglamento (EB) Nr. 273/2004 I priede bei Reglamento (EB) Nr. 111/2005 priede.
-
-
-
-
-6. Specialioji licencija – Narkotikų, tabako ir alkoholio kontrolės departamento vaistinėms, veterinarijos vaistinėms, policijos ir muitinės įstaigoms, valstybės institucijų, vykdančių veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), kontrolę, įgaliotoms laboratorijoms ir (arba) Lietuvos kariuomenei išduotas dokumentas, suteikiantis teisę jį turintiems subjektams vykdyti veiklą, susijusią su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), ar atlikti valstybės nustatytas funkcijas, susijusias su šiomis medžiagomis. 
+2. Atsakingas asmuo – asmuo, atitinkantis atsakingo pareigūno sąvoką, nurodytą Reglamente (EB) Nr. 273/2004 ir 2005 m. liepos 27 d. Komisijos reglamente (EB) Nr. 1277/2005, nustatančiame Europos Parlamento ir Tarybos reglamento (EB) Nr. 273/2004 dėl narkotinių medžiagų pirmtakų (prekursorių) ir Tarybos reglamento (EB) Nr. 111/2005, nustatančio prekybos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) tarp Bendrijos ir trečiųjų šalių stebėsenos taisykles, įgyvendinimo taisykles (toliau – Reglamentas (EB) Nr. 1277/2005), atsakingas už veiklą, susijusią su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), ir užtikrinantis, kad ši veikla atitiktų Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005, Reglamento (EB) Nr. 1277/2005 ir kitų teisės aktų nustatytus reikalavimus. 
 Straipsnio dalies pakeitimai:
-Nr. XI-1182, 2010-11-30, Žin., 2010, Nr. 145-7435 (2010-12-11), i. k. 1101010ISTA0XI-1182
+Nr. XI-1736, 2011-11-22, Žin., 2011, Nr. 146-6854 (2011-12-01), i. k. 1111010ISTA0XI-1736
  
 
 
 
 
-7. Subjektas – operacijų vykdytojas, kaip nurodyta Reglamento (EB) Nr. 111/2005 2 straipsnio f punkte, ir (arba) ūkio subjektas, kaip nurodyta Reglamento (EB) Nr. 273/2004 2 straipsnio d punkte.
-
-
-
-
-8. Veiklos vietos registracijos pažymėjimas (registracijos pažymėjimas) – Narkotikų, tabako ir alkoholio kontrolės departamento išduotas dokumentas, suteikiantis teisę jį turinčiam subjektui vykdyti veiklą nurodytu (nurodytais) adresu (adresais), susijusią su antros ir (arba) trečios kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005 ir Reglamento (EB) Nr. 1277/2005 nustatytais atvejais.
-Straipsnio dalies pakeitimai:
-Nr. XI-1182, 2010-11-30, Žin., 2010, Nr. 145-7435 (2010-12-11), i. k. 1101010ISTA0XI-1182
+3. Į oficialų narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) sąrašą neįtraukta medžiaga – medžiaga, kaip nurodyta Reglamento (EB) Nr. 273/2004 2 straipsnio b punkte ir Reglamento (EB) Nr. 111/2005 2 straipsnio b punkte.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1736, 2011-11-22, Žin., 2011, Nr. 146-6854 (2011-12-01), i. k. 1111010ISTA0XI-1736
  
 
 
 
 
-9. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Reglamente (EB) Nr. 273/2004, Reglamente (EB) Nr. 111/2005 ir Reglamente (EB) Nr. 1277/2005.
+4. Licencija – Narkotikų, tabako ir alkoholio kontrolės departamento išduotas dokumentas, suteikiantis teisę ją turinčiam subjektui vykdyti veiklą, susijusią su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais). 
+Straipsnio dalies pakeitimai:
+Nr. XI-1182, 2010-11-30, Žin., 2010, Nr. 145-7435 (2010-12-11), i. k. 1101010ISTA0XI-1182
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1736, 2011-11-22, Žin., 2011, Nr. 146-6854 (2011-12-01), i. k. 1111010ISTA0XI-1736
+ 
+
+
+
+
+5. Narkotinių ir psichotropinių medžiagų pirmtakas (prekursorius) – į oficialų sąrašą įtraukta medžiaga, kaip nurodyta Reglamento (EB) Nr. 273/2004 2 straipsnio a punkte ir Reglamento (EB) Nr. 111/2005 2 straipsnio a punkte.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1736, 2011-11-22, Žin., 2011, Nr. 146-6854 (2011-12-01), i. k. 1111010ISTA0XI-1736
+ 
+
+
+
+
+6. Pirmos, antros, trečios kategorijos narkotinių ir psichotropinių medžiagų pirmtakas (prekursorius) – atitinkamai kategorijai priskirta į oficialų sąrašą įtraukta medžiaga, kaip nurodyta Reglamento (EB) Nr. 273/2004 I priede bei Reglamento (EB) Nr. 111/2005 priede.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1736, 2011-11-22, Žin., 2011, Nr. 146-6854 (2011-12-01), i. k. 1111010ISTA0XI-1736
+ 
+
+
+
+
+7. Specialioji licencija – Narkotikų, tabako ir alkoholio kontrolės departamento vaistinėms, veterinarijos vaistinėms, policijos ir muitinės įstaigoms, valstybės institucijų, vykdančių veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), kontrolę, įgaliotoms laboratorijoms ir (arba) Lietuvos kariuomenei išduotas dokumentas, suteikiantis teisę jį turintiems subjektams vykdyti veiklą, susijusią su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), ar atlikti valstybės nustatytas funkcijas, susijusias su šiomis medžiagomis. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1182, 2010-11-30, Žin., 2010, Nr. 145-7435 (2010-12-11), i. k. 1101010ISTA0XI-1182
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1736, 2011-11-22, Žin., 2011, Nr. 146-6854 (2011-12-01), i. k. 1111010ISTA0XI-1736
+ 
+
+
+
+
+8. Subjektas – operacijų vykdytojas, kaip nurodyta Reglamento (EB) Nr. 111/2005 2 straipsnio f punkte, ir (arba) ūkio subjektas, kaip nurodyta Reglamento (EB) Nr. 273/2004 2 straipsnio d punkte.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1736, 2011-11-22, Žin., 2011, Nr. 146-6854 (2011-12-01), i. k. 1111010ISTA0XI-1736
+ 
+
+
+
+
+9. Veiklos vietos registracijos pažymėjimas (registracijos pažymėjimas) – Narkotikų, tabako ir alkoholio kontrolės departamento išduotas dokumentas, suteikiantis teisę jį turinčiam subjektui vykdyti veiklą nurodytu (nurodytais) adresu (adresais), susijusią su antros ir (arba) trečios kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005 ir Reglamento (EB) Nr. 1277/2005 nustatytais atvejais.
+Straipsnio dalies pakeitimai:
+Nr. XI-1182, 2010-11-30, Žin., 2010, Nr. 145-7435 (2010-12-11), i. k. 1101010ISTA0XI-1182
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1736, 2011-11-22, Žin., 2011, Nr. 146-6854 (2011-12-01), i. k. 1111010ISTA0XI-1736
+ 
+
+
+
+
+10. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Reglamente (EB) Nr. 273/2004, Reglamente (EB) Nr. 111/2005 ir Reglamente (EB) Nr. 1277/2005. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1736, 2011-11-22, Žin., 2011, Nr. 146-6854 (2011-12-01), i. k. 1111010ISTA0XI-1736
  
 
 
@@ -112,7 +143,7 @@ Nr. XI-1182, 2010-11-30, Žin., 2010, Nr. 145-7435 (2010-12-11), i. k. 1101010IS
 3 straipsnis. Veiklos, susijusios su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), licencijavimas
 
 
-1. Narkotikų, tabako ir alkoholio kontrolės departamentas Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005, Reglamento (EB) Nr. 1277/2005 ir Lietuvos Respublikos Vyriausybės nustatytais pagrindais ir tvarka veiklai, susijusiai su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), išduoda licencijas ir specialiąsias licencijas, sustabdo jų galiojimą, tikslina specialiąsias licencijas, panaikina licencijų ir specialiųjų licencijų galiojimo sustabdymą ir jų galiojimą.
+1. Narkotikų, tabako ir alkoholio kontrolės departamentas Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005, Reglamento (EB) Nr. 1277/2005 ir Lietuvos Respublikos Vyriausybės nustatytais pagrindais ir tvarka veiklai, susijusiai su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), išduoda licencijas ir specialiąsias licencijas, jų dublikatus, sustabdo jų galiojimą, tikslina specialiąsias licencijas, panaikina licencijų ir specialiųjų licencijų galiojimo sustabdymą ir jų galiojimą.
 
 
 
@@ -122,11 +153,50 @@ Nr. XI-1182, 2010-11-30, Žin., 2010, Nr. 145-7435 (2010-12-11), i. k. 1101010IS
 
 
 
-3. Už licencijos ar specialiosios licencijos išdavimą imama Lietuvos Respublikos Vyriausybės nustatyto dydžio valstybės rinkliava.
+3. Už licencijos, specialiosios licencijos ar jų dublikatų išdavimą, specialiosios licencijos tikslinimą imama Lietuvos Respublikos Vyriausybės nustatyto dydžio valstybės rinkliava.
 
 
 Straipsnio pakeitimai:
 Nr. XI-1182, 2010-11-30, Žin., 2010, Nr. 145-7435 (2010-12-11), i. k. 1101010ISTA0XI-1182
+Nr. XI-1736, 2011-11-22, Žin., 2011, Nr. 146-6854 (2011-12-01), i. k. 1111010ISTA0XI-1736
+ 
+
+
+
+
+31 straipsnis. Nepriekaištingos reputacijos asmuo
+
+
+1. Nepriekaištingos reputacijos asmeniu nelaikomas:
+
+
+1) fizinis asmuo, teistas už bet kokios valstybės baudžiamuosiuose įstatymuose numatytą bet kokį tyčinį nusikaltimą ir kurio teistumas neišnykęs arba nepanaikintas įstatymų nustatyta tvarka;
+
+
+
+
+2) juridinis asmuo, teistas už nusikaltimą, numatytą Lietuvos Respublikos baudžiamojo kodekso 199 straipsnio 2 dalyje, 260 straipsnyje arba 265–268 straipsniuose, arba juridinis asmuo, kuriam per pastaruosius penkerius metus buvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis dėl kokio nors kito tyčinio nusikaltimo, numatyto bet kokios valstybės baudžiamuosiuose įstatymuose;
+
+
+
+
+3) asmuo, kuriam per pastaruosius vienus metus Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka skirtas vienas ar keli teismo įpareigojimai, – kol galioja įpareigojimai;
+
+
+
+
+4) asmuo, kuris per pastaruosius vienus metus padarė administracinį teisės pažeidimą, numatytą Lietuvos Respublikos administracinių teisės pažeidimų kodekso 44, 441, 442, 1071, 1072 straipsniuose ir kuriam buvo paskirta administracinė nuobauda.
+
+
+
+
+
+
+2. Licencijos neišduodamos, o išduotų licencijų galiojimas panaikinamas asmeniui, kuris atitinka bent vieną šio straipsnio 1 dalyje nustatytą kriterijų.
+
+
+Papildyta straipsniu:
+Nr. XI-1736, 2011-11-22, Žin., 2011, Nr. 146-6854 (2011-12-01), i. k. 1111010ISTA0XI-1736
  
 
 
@@ -140,9 +210,10 @@ Nr. XI-1182, 2010-11-30, Žin., 2010, Nr. 145-7435 (2010-12-11), i. k. 1101010IS
 
 
 
-2. Narkotikų, tabako ir alkoholio kontrolės departamentas Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005, Reglamento (EB) Nr. 1277/2005 ir Lietuvos Respublikos Vyriausybės nustatyta tvarka išduoda veiklos vietos registracijos pažymėjimus, tikslina, sustabdo jų galiojimą, panaikina registracijos pažymėjimų galiojimo sustabdymą ir jų galiojimą. 
+2. Narkotikų, tabako ir alkoholio kontrolės departamentas Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005, Reglamento (EB) Nr. 1277/2005 ir Lietuvos Respublikos Vyriausybės nustatyta tvarka išduoda veiklos vietos registracijos pažymėjimus ar jų dublikatus, tikslina, sustabdo jų galiojimą, panaikina registracijos pažymėjimų galiojimo sustabdymą ir jų galiojimą. 
 Straipsnio dalies pakeitimai:
 Nr. XI-1182, 2010-11-30, Žin., 2010, Nr. 145-7435 (2010-12-11), i. k. 1101010ISTA0XI-1182
+Nr. XI-1736, 2011-11-22, Žin., 2011, Nr. 146-6854 (2011-12-01), i. k. 1111010ISTA0XI-1736
  
 
 
@@ -156,7 +227,9 @@ Nr. XI-1182, 2010-11-30, Žin., 2010, Nr. 145-7435 (2010-12-11), i. k. 1101010IS
 
 
 
-4. Už veiklos vietos registracijos pažymėjimo išdavimą imama Lietuvos Respublikos Vyriausybės nustatyto dydžio valstybės rinkliava.
+4. Už veiklos vietos registracijos pažymėjimo ar jo dublikato išdavimą imama Lietuvos Respublikos Vyriausybės nustatyto dydžio valstybės rinkliava.
+Straipsnio dalies pakeitimai:
+Nr. XI-1736, 2011-11-22, Žin., 2011, Nr. 146-6854 (2011-12-01), i. k. 1111010ISTA0XI-1736
  
 
 
@@ -282,10 +355,17 @@ Nr. XI-1182, 2010-11-30, Žin., 2010, Nr. 145-7435 (2010-12-11), i. k. 1101010IS
 
 
 
-2. Subjektai Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005 ir Reglamento (EB) Nr. 1277/2005 nustatytais atvejais teisės aktų nustatyta tvarka duomenis (informaciją) turi teikti Narkotikų kontrolės departamentui.
+2. Subjektai Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005 ir Reglamento (EB) Nr. 1277/2005 nustatytais atvejais teisės aktų nustatyta tvarka duomenis (informaciją) turi teikti Narkotikų, tabako ir alkoholio kontrolės departamentui.
+
+
+
+
+3. Subjektai, ketinantys vykdyti ar vykdantys veiklą, susijusią su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), privalo laikytis Narkotikų, tabako ir alkoholio kontrolės departamento nustatytų narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) laikymo, saugojimo sąlygų.
+
+
+Straipsnio pakeitimai:
+Nr. XI-1736, 2011-11-22, Žin., 2011, Nr. 146-6854 (2011-12-01), i. k. 1111010ISTA0XI-1736
  
-
-
 
 
 
@@ -352,3 +432,8 @@ Lietuvos Respublikos narkotinių ir psichotropinių medžiagų pirmtakų (prekur
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1182, 2010-11-30, Žin., 2010, Nr. 145-7435 (2010-12-11), i. k. 1101010ISTA0XI-1182
 Lietuvos Respublikos narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) kontrolės įstatymo 2, 3, 4, 5, 6 ir 7 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1736, 2011-11-22, Žin., 2011, Nr. 146-6854 (2011-12-01), i. k. 1111010ISTA0XI-1736
+Lietuvos Respublikos narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) kontrolės įstatymo 2, 3, 4, 8 straipsnių pakeitimo ir papildymo, Įstatymo papildymo 3-1 straipsniu įstatymas
