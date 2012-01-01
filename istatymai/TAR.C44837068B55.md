@@ -23,6 +23,9 @@ paskelbtas: Žin., 1997, Nr. 64-1502
 Neoficialus
 įstatymo tekstas
  
+Aktuali
+redakcija nuo 2012-01-01
+ 
 LIETUVOS
 RESPUBLIKOS 
 PINIGŲ PLOVIMO
@@ -54,207 +57,8 @@ teroristų finansavimo prevencijos priemonių įgyvendinimą.
 skirtas Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, taikymui
 užtikrinti.
  
-2
-straipsnio redakcija iki 2011 m. liepos 1 d.:
-2
-straipsnis. Pagrindinės Įstatymo sąvokos
-1. Artimas
-pagalbininkas:
-1) fizinis
-asmuo, kuris su šio straipsnio 17 dalyje nurodytas pareigas einančiu ar ėjusiu
-asmeniu yra to paties juridinio asmens dalyviai arba palaiko kitus dalykinius
-santykius;
-2) fizinis
-asmuo, kuris yra vienintelis juridinio asmens, įsteigto ar veikiančio de
-facto siekiant turtinės ar kitokios asmeninės naudos šio straipsnio 17
-dalyje nurodytas pareigas einančiam ar ėjusiam asmeniui, savininkas.
-2. Artimieji
-šeimos nariai – sutuoktinis, asmuo, su kuriuo registruota partnerystė
-(toliau – sugyventinis), tėvai, broliai, seserys, seneliai, vaikaičiai, vaikai
-ir vaikų sutuoktiniai, vaikų sugyventiniai.
-3. Asmuo – Lietuvos
-Respublikos ar užsienio valstybės fizinis arba juridinis asmuo, užsienio
-valstybės įmonė.
-4. Dalykiniai
-santykiai – verslo, profesiniai arba komerciniai kliento ir šio straipsnio
-7, 8 dalyse nurodytų asmenų santykiai, susiję su šių asmenų profesine veikla,
-kuriuos buvo numatyta tęsti ryšių užmezgimo momentu.
-5. Europos Sąjungos
-valstybė narė –
-valstybė Europos Sąjungos narė ir Europos ekonominės erdvės valstybė.
-6. Fiktyvus
-bankas – juridinis asmuo, turintis teisę verstis vienos ar daugiau rūšių
-kredito įstaigos veikla, bet faktinės veiklos nevykdantis, neturintis realiai
-veikiančių valdymo ir vadovavimo organų ir nepriklausantis valdomai finansų
-grupei.
-7. Finansų įstaigos – Lietuvos
-Respublikos finansų įstaigų įstatyme apibrėžtos kredito įstaigos ir finansų
-įmonės, Lietuvos Respublikos mokėjimo įstaigų įstatyme apibrėžtos mokėjimo
-įstaigos,
-taip pat investicinės kintamojo kapitalo bendrovės.
-8. Kiti subjektai:
-1) auditoriai;
-2) draudimo
-įmonės,
-vykdančios gyvybės draudimo veiklą, ir draudimo brokerių įmonės, vykdančios
-su gyvybės draudimu susijusią draudimo tarpininkavimo veiklą;
-3) antstoliai ar teisę atlikti antstolių
-veiksmus turintys asmenys;
-4) buhalterinės
-apskaitos ar mokesčių konsultavimo paslaugas teikiančios įmonės;
-5) notarai ir
-teisę atlikti notarinius veiksmus turintys asmenys, taip pat advokatai ir
-advokatų padėjėjai, tiek veikiantys kliento vardu ir jo naudai, tiek ir
-padedantys klientui planuoti ar atlikti nekilnojamojo turto ar įmonių pirkimo
-ar pardavimo, klientų pinigų, vertybinių popierių ar kito turto valdymo, banko
-ar vertybinių popierių sąskaitų atidarymo ar valdymo, įnašų, reikalingų
-juridiniams asmenims ir kitoms organizacijoms įsteigti, veikti ar valdyti,
-organizavimo, patikos ir bendrovių steigimo ir administravimo paslaugų teikėjų
-atsiradimo arba sukūrimo, veikimo ar valdymo sandorius ir (ar) su jais
-susijusius sandorius; 
-6) patikos ar
-bendrovių steigimo ar administravimo paslaugų teikėjai, nenurodyti šios dalies
-1, 4 ir 5 punktuose;
-7) asmenys, kurie verčiasi ūkine
-komercine veikla, apimančia prekybą nekilnojamaisiais daiktais, brangakmeniais,
-tauriaisiais metalais, kilnojamosiomis kultūros vertybėmis, antikvariniais
-daiktais ar kitu turtu, kurio vertė viršija 15 000 eurų ar ją atitinkančią sumą
-užsienio valiuta, jeigu atsiskaitoma grynaisiais pinigais;
-8) azartinius
-lošimus organizuojančios bendrovės;
-9) pašto
-paslaugų teikėjai, kurie teikia vidaus ir tarptautinio pašto perlaidų paslaugas
-(toliau – pašto paslaugų teikėjai);
-10) uždaro tipo
-investicinės bendrovės.
-9. Klientas – asmuo,
-atliekantis pinigines operacijas arba sudarantis sandorius su finansų įstaiga
-ar kitu subjektu, išskyrus valstybės ir savivaldybių institucijas, kitas
-biudžetines įstaigas, Lietuvos banką, valstybės ar savivaldybių fondus,
-užsienio valstybių diplomatines atstovybes ar konsulines įstaigas.
-10. Naudos
-gavėjas – fizinis asmuo, kuris yra kliento (juridinio asmens ar užsienio
-valstybės įmonės) savininkas arba kontroliuoja klientą, ir (arba) fizinis
-asmuo, kurio vardu yra vykdomas sandoris ar veikla. Naudos gavėju laikoma:
-1) juridiniame
-asmenyje – fizinis asmuo, kuris turi arba kontroliuoja juridinį asmenį
-tiesiogiai arba netiesiogiai turėdamas arba kontroliuodamas pakankamą to
-juridinio asmens akcijų arba balsavimo teisių procentą, įskaitant per
-pareikštinių akcijų valdymą, išskyrus bendroves, kurių vertybiniais popieriais
-prekiaujama reguliuojamose rinkose, kuriose taikomi reikalavimai atskleisti
-informaciją apie savo veiklą, atitinkantys Europos Sąjungos teisės aktus, arba
-lygiaverčiai tarptautiniai standartai (šiam kriterijui pasiekti pakanka 25
-procentų ir vienos akcijos); taip pat fizinis asmuo, kuris kitaip kontroliuoja
-juridinio asmens valdymą;
-2)
-administruojančiame ir lėšas skirstančiame juridiniame asmenyje – fizinis asmuo,
-kuriam priklauso 25 procentai ar daugiau juridinio asmens turto (jei būsimieji
-naudos gavėjai yra žinomi); asmenų, kurių interesams atstovauti šis juridinis
-asmuo yra sukurtas arba kurių interesams jis šiuo metu atstovauja, grupė (jei
-asmenys, gaunantys naudos iš juridinio asmens, dar nėra žinomi); fizinis asmuo,
-kuris kontroliuoja 25 procentus ar daugiau juridinio asmens turto.
-11. Patikos
-ir bendrovių steigimo ir administravimo paslaugų teikėjas – bet koks
-fizinis ar juridinis asmuo, kuris verslo tikslais bet kurias iš toliau
-išvardytų paslaugų teikia tretiesiems asmenims: 
-1) steigia
-bendroves ar kitokius juridinius asmenis;
-2) eina
-bendrovės direktoriaus ar kitas vadovavimo pareigas, partnerystės subjekto
-partnerio ar pagal kompetenciją panašias pareigas kitame juridiniame asmenyje
-(fizinis asmuo) arba organizuoja, kad kitas asmuo eitų tokias pareigas;
-3) suteikia
-registruotą biurą, buveinės adresą, korespondencijos ar administracinį adresą
-ar kitas su tuo susijusias paslaugas bendrovei, partnerystės subjektui arba
-kitam juridiniam asmeniui;
-4) veikia kaip
-patikėtinis ar tokią veiklą vykdančio asmens patikėtinis arba organizuoja, kad
-kitas asmuo vykdytų tokią veiklą;
-5) veikia kaip
-formalus akcininkas, veikiantis už kitą asmenį, jei tai nėra bendrovė, kurios
-vertybiniais popieriais prekiaujama reguliuojamoje rinkoje, kuriai taikomi
-Europos Sąjungos teisės aktų reikalavimai atskleisti informaciją apie savo
-veiklą arba lygiaverčiai tarptautiniai standartai, arba organizuoja, kad kitas
-asmuo veiktų kaip formalus akcininkas.
-12. Pinigai – Lietuvos banko
-išleidžiami banknotai, monetos ir lėšos sąskaitose, kitų valstybių išleidžiami
-banko bilietai, valstybės iždo bilietai, monetos ir lėšos sąskaitose, kurie yra
-teisėta atsiskaitymo priemonė, kitos piniginę išraišką turinčios mokėjimo
-priemonės.
-13. Piniginės
-operacijos
-– pinigų padėjimas ar priėmimas, paėmimas ar išdavimas, keitimas, skolinimas,
-dovanojimas ir kitoks pinigų mokėjimas ar gavimas civilinių sandorių ar kitu
-pagrindu, išskyrus įmokas valstybės ir savivaldybių institucijoms, kitoms
-biudžetinėms įstaigoms, Lietuvos bankui, valstybės ar savivaldybių fondams,
-užsienio valstybių diplomatinėms atstovybėms ar konsulinėms įstaigoms arba
-atsiskaitymą su šiais subjektais.
-14. Pinigų plovimas:
-1) turto
-teisinės padėties pakeitimas arba turto perdavimas, žinant, kad šis turtas yra
-gautas iš nusikalstamos veikos arba dalyvaujant tokioje veikoje, siekiant
-nuslėpti arba užmaskuoti neteisėtą turto kilmę arba siekiant padėti bet kokiam
-nusikalstamoje veikoje dalyvaujančiam asmeniui išvengti teisinių šios veikos
-pasekmių;
-2) turto
-tikrojo pobūdžio, tikrosios kilmės, šaltinio, vietos, disponavimo, judėjimo,
-nuosavybės teisių arba su nuosavybe susijusių teisių nuslėpimas arba
-užmaskavimas, žinant, kad šis turtas yra gautas iš nusikalstamos veikos arba
-dalyvaujant tokioje veikoje;
-3) turto
-įgijimas, valdymas ar naudojimas, įgijimo (perdavimo) metu žinant, kad šis
-turtas gautas iš nusikalstamos veikos arba dalyvaujant tokioje veikoje;
-4) rengimasis, pasikėsinimas padaryti,
-bendrininkavimas darant bet kurią iš šios dalies 1–3 punktuose nurodytų veikų.
-15. Pinigų
-plovimo ir (ar) teroristų finansavimo prevencija – šiame įstatyme nurodytų
-priemonių įgyvendinimas.
-16.
-Politikoje dalyvaujantys fiziniai asmenys – užsienio valstybių piliečiai,
-kuriems yra arba buvo patikėtos svarbios viešosios pareigos, ir tų piliečių
-artimieji šeimos nariai arba artimi pagalbininkai.
-17. Svarbios
-viešosios pareigos –
-pareigos, įskaitant pareigas Europos Sąjungoje, tarptautinėse ar užsienio valstybių institucijose:
-1) valstybės
-vadovas, vyriausybės vadovas, ministras, viceministras arba ministro
-pavaduotojas;
-2) parlamento narys;
-3) Aukščiausiojo
-Teismo, Konstitucinio Teismo ar kitos aukščiausiosios teisminės institucijos,
-kurių sprendimai negali būti skundžiami, narys;
-4) auditorių
-profesinės organizacijos valdymo organo ar centrinio banko valdybos narys;
-5) ambasadorius,
-laikinasis reikalų patikėtinis ar aukšto rango ginkluotųjų pajėgų karininkas;
-6) valstybės
-valdomos įmonės valdymo ar priežiūros organo narys.
-18. Teroristų
-finansavimas
-– pinigų pateikimas arba surinkimas bet kokiais būdais, siekiant juos visus
-arba tik dalį jų panaudoti (arba žinant, kad jie bus panaudoti) vykdyti
-nusikaltimams, apibrėžtiems 2002 m. birželio 13 d. Tarybos pamatinio sprendimo
-2002/475/TVR dėl kovos su terorizmu (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 18) 1–4 straipsniuose.
-19. Trečioji
-šalis – finansų įstaiga, kitas subjektas arba kitoje Europos Sąjungos
-valstybėje narėje ar valstybėje, kuri nėra Europos Sąjungos valstybė narė
-(toliau – trečioji valstybė) registruota finansų įstaiga ar kitas subjektas,
-atitinkantys šiuos reikalavimus:
-1) jiems yra
-taikomas įstatymų nustatytas privalomas profesinis registravimas;
-2) jie taiko
-šiame įstatyme nustatytus arba jiems lygiaverčius klientų ir naudos gavėjų tapatybės
-nustatymo reikalavimus ir informacijos saugojimo reikalavimus arba jie įsikūrę
-trečiojoje valstybėje, kuri taiko reikalavimus, lygiaverčius šiame įstatyme
-nustatytiems reikalavimams.
-20. Turtas – daiktai,
-pinigai, vertybiniai popieriai, kitos finansinės priemonės, kitas turtas bei
-turtinės teisės, intelektinės veiklos rezultatai, informacija, veiksmai ir
-veiksmų rezultatai, taip pat kitos turtinės ir neturtinės vertybės.
-2
-straipsnio redakcija nuo 2011 m. liepos 1 d.:
-2
-straipsnis. Pagrindinės Įstatymo sąvokos
+2 straipsnis. Pagrindinės Įstatymo
+sąvokos
 1. Artimas
 pagalbininkas:
 1) fizinis
@@ -291,10 +95,9 @@ Respublikos finansų įstaigų įstatyme apibrėžtos kredito įstaigos ir finan
 taip pat investicinės kintamojo kapitalo bendrovės.
 8. Įtartina
 piniginė operacija ar sandoris – piniginė operacija ar sandoris,
-atitinkantys bent vieną iš Lietuvos Respublikos Vyriausybės nustatytų
-kriterijų, kuriais vadovaujantis laikoma, kad piniginė operacija ar sandoris
-yra įtartini, ir kurie gali būti susiję su pinigų plovimu ir (ar) teroristų
-finansavimu.
+atitinkantys bent vieną iš Lietuvos Respublikos Vyriausybės nustatytų kriterijų,
+kuriais vadovaujantis laikoma, kad piniginė operacija ar sandoris yra įtartini,
+ir kurie gali būti susiję su pinigų plovimu ir (ar) teroristų finansavimu.
 9. Kiti subjektai:
 1) auditoriai;
 2) draudimo
@@ -333,8 +136,8 @@ investicinės bendrovės.
 10. Klientas – asmuo,
 atliekantis pinigines operacijas arba sudarantis sandorius su finansų įstaiga
 ar kitu subjektu, išskyrus valstybės ir savivaldybių institucijas, kitas
-biudžetines įstaigas, Lietuvos banką, valstybės ar savivaldybių fondus,
-užsienio valstybių diplomatines atstovybes ar konsulines įstaigas.
+biudžetines įstaigas, Lietuvos banką, valstybės ar savivaldybių fondus, užsienio
+valstybių diplomatines atstovybes ar konsulines įstaigas.
 11. Naudos
 gavėjas – fizinis asmuo, kuris yra kliento (juridinio asmens ar užsienio
 valstybės įmonės) savininkas arba kontroliuoja klientą, ir (arba) fizinis
@@ -346,9 +149,9 @@ juridinio asmens akcijų arba balsavimo teisių procentą, įskaitant per
 pareikštinių akcijų valdymą, išskyrus bendroves, kurių vertybiniais popieriais
 prekiaujama reguliuojamose rinkose, kuriose taikomi reikalavimai atskleisti
 informaciją apie savo veiklą, atitinkantys Europos Bendrijos teisės aktus, arba
-lygiaverčiai tarptautiniai standartai (šiam kriterijui pasiekti pakanka 25 procentų
-ir vienos akcijos); taip pat fizinis asmuo, kuris kitaip kontroliuoja juridinio
-asmens valdymą;
+lygiaverčiai tarptautiniai standartai (šiam kriterijui pasiekti pakanka 25
+procentų ir vienos akcijos); taip pat fizinis asmuo, kuris kitaip kontroliuoja
+juridinio asmens valdymą;
 2)
 administruojančiame ir lėšas skirstančiame juridiniame asmenyje – fizinis asmuo,
 kuriam priklauso 25 procentai ar daugiau juridinio asmens turto (jei būsimieji
@@ -413,8 +216,8 @@ dalyvaujant tokioje veikoje;
 turtas gautas iš nusikalstamos veikos arba dalyvaujant tokioje veikoje;
 4) rengimasis, pasikėsinimas padaryti,
 bendrininkavimas darant bet kurią iš šios dalies 1–3 punktuose nurodytų veikų.
-17. Pinigų plovimo
-ir (ar) teroristų finansavimo prevencija – šiame įstatyme nurodytų
+17. Pinigų
+plovimo ir (ar) teroristų finansavimo prevencija – šiame įstatyme nurodytų
 priemonių įgyvendinimas.
 18.
 Politikoje dalyvaujantys fiziniai asmenys – užsienio valstybių piliečiai,
@@ -475,31 +278,38 @@ UŽ PINIGŲ
 PLOVIMO IR (ar) TERORISTŲ
 FINANSAVIMO PREVENCIJĄ ATSAKINGOS INSTITUCIJOS
  
-3 straipsnis. Už pinigų plovimo ir (ar) teroristų
-finansavimo prevenciją atsakingos institucijos
+3 straipsnis. Už pinigų plovimo ir (ar) teroristų finansavimo
+prevenciją atsakingos institucijos
 Lietuvos
 Respublikos Vyriausybė (toliau – Vyriausybė), Finansinių nusikaltimų tyrimo
-tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Finansinių
-nusikaltimų tyrimo tarnyba), Lietuvos Respublikos valstybės saugumo
+tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau –
+Finansinių nusikaltimų tyrimo tarnyba), Lietuvos Respublikos valstybės saugumo
 departamentas (toliau – Valstybės saugumo departamentas), Lietuvos bankas,
 Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos, Kultūros
 paveldo departamentas prie Lietuvos Respublikos kultūros ministerijos (toliau –
-Kultūros paveldo departamentas), Lietuvos Respublikos draudimo priežiūros
-komisija, Lietuvos Respublikos vertybinių popierių komisija, Valstybinė lošimų
-priežiūros komisija, Notarų rūmai, Auditorių rūmai, Lietuvos antstolių rūmai,
-Lietuvos prabavimo rūmai ir Lietuvos advokatūra yra institucijos, kurios
-pagal kompetenciją atsakingos už šiame įstatyme nustatytą pinigų plovimo ir (ar)
-teroristų finansavimo prevenciją.
+Kultūros paveldo departamentas), Valstybinė lošimų priežiūros komisija, Notarų
+rūmai, Auditorių rūmai, Lietuvos antstolių rūmai, Lietuvos prabavimo
+rūmai ir Lietuvos advokatūra yra institucijos, kurios pagal kompetenciją
+atsakingos už šiame įstatyme nustatytą pinigų plovimo ir (ar) teroristų
+finansavimo prevenciją.
+Straipsnio
+pakeitimai:
+Nr.
+XI-1687,
+2011-11-17, Žin., 2011, Nr. 146-6833 (2011-12-01)
  
 4
 straipsnis. Už pinigų plovimo ir (ar) teroristų finansavimo prevenciją
 atsakingų institucijų pareigos 
 1. Lietuvos
-bankas patvirtina kredito ir mokėjimo įstaigoms skirtus nurodymus, kuriais
-siekiama užkirsti kelią pinigų plovimui ir (ar) teroristų finansavimui,
-prižiūri kredito ir mokėjimo įstaigų veiklą, susijusią su pinigų plovimo ir
-(ar) teroristų finansavimo prevencijos priemonių įgyvendinimu, konsultuoja
-kredito ir mokėjimo įstaigas minėtų nurodymų įgyvendinimo klausimais.
+bankas patvirtina kredito, mokėjimo įstaigoms, draudimo įmonėms, vykdančioms
+gyvybės draudimo veiklą, draudimo brokerių įmonėms, vykdančioms su gyvybės
+draudimu susijusią draudimo tarpininkavimo veiklą, finansų maklerio įmonėms,
+valdymo įmonėms, investicinėms bendrovėms ir depozitoriumui skirtus nurodymus,
+kuriais siekiama užkirsti kelią pinigų plovimui ir (ar) teroristų finansavimui,
+prižiūri šių subjektų veiklą, susijusią su pinigų plovimo ir (ar) teroristų
+finansavimo prevencijos priemonių įgyvendinimu, konsultuoja šiuos subjektus
+minėtų nurodymų įgyvendinimo klausimais.
 2. Kultūros
 paveldo departamentas patvirtina asmenims, kurie verčiasi ūkine komercine
 veikla, susijusia su prekyba kilnojamosiomis kultūros vertybėmis ir (ar)
@@ -508,78 +318,61 @@ pinigų plovimui ir (ar) teroristų finansavimui, prižiūri šių subjektų vei
 susijusią su pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių
 įgyvendinimu, konsultuoja šiuos subjektus minėtų nurodymų įgyvendinimo
 klausimais.
-3. Lietuvos
-Respublikos draudimo priežiūros komisija patvirtina draudimo įmonėms, vykdančioms
-gyvybės draudimo veiklą,
-ir draudimo brokerių įmonėms, vykdančioms su gyvybės draudimu
-susijusią draudimo tarpininkavimo veiklą, skirtus nurodymus, kuriais
-siekiama užkirsti kelią pinigų plovimui ir (ar) teroristų finansavimui,
-prižiūri šių įmonių veiklą, susijusią su pinigų plovimo ir (ar) teroristų
-finansavimo prevencijos priemonių įgyvendinimu, konsultuoja šias įmones minėtų
-nurodymų įgyvendinimo klausimais.
-4. Lietuvos
-Respublikos vertybinių popierių komisija patvirtina finansų maklerio įmonėms,
-investicinėms kintamojo kapitalo bendrovėms, valdymo įmonėms, uždaro tipo
-investicinėms bendrovėms ir depozitoriumui skirtus nurodymus, kuriais siekiama
-užkirsti kelią pinigų plovimui ir (ar) teroristų finansavimui, prižiūri šių
-subjektų veiklą, susijusią su pinigų plovimo ir (ar) teroristų finansavimo
-prevencijos priemonių įgyvendinimu, konsultuoja šiuos subjektus minėtų nurodymų
-įgyvendinimo klausimais.
-5. Valstybinė
+*3. Valstybinė
 lošimų priežiūros komisija priima azartinius lošimus organizuojančioms
 bendrovėms skirtus nurodymus, kuriais siekiama užkirsti kelią pinigų plovimui
 ir (ar) teroristų finansavimui, prižiūri šių bendrovių veiklą, susijusią su
 pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių
-įgyvendinimu, konsultuoja šias bendroves minėtų nurodymų įgyvendinimo klausimais.
-6. Lietuvos advokatūra patvirtina
+įgyvendinimu, konsultuoja šias bendroves minėtų nurodymų įgyvendinimo
+klausimais.
+*4. Lietuvos advokatūra patvirtina
 advokatams ir advokatų padėjėjams skirtus nurodymus, kuriais siekiama užkirsti
 kelią pinigų plovimui ir (ar) teroristų finansavimui, prižiūri advokatų ir
 advokatų padėjėjų veiklą, susijusią su pinigų plovimo ir (ar) teroristų
 finansavimo prevencijos priemonių įgyvendinimu, konsultuoja advokatus ir
 advokatų padėjėjus minėtų nurodymų įgyvendinimo klausimais.
-7. Notarų rūmai
+*5. Notarų rūmai
 patvirtina notarams skirtus nurodymus, kuriais siekiama užkirsti kelią pinigų
 plovimui ir (ar) teroristų finansavimui, prižiūri notarų veiklą, susijusią su
 pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių
 įgyvendinimu, konsultuoja notarus minėtų nurodymų įgyvendinimo klausimais.
-8. Auditorių
+*6. Auditorių
 rūmai patvirtina auditoriams skirtus nurodymus, kuriais siekiama užkirsti kelią
 pinigų plovimui ir (ar) teroristų finansavimui, prižiūri auditorių veiklą,
 susijusią su pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių
 įgyvendinimu, konsultuoja auditorius minėtų nurodymų įgyvendinimo klausimais.
-9. Lietuvos
+*7. Lietuvos
 antstolių rūmai patvirtina antstoliams arba teisę atlikti antstolių veiksmus
 turintiems asmenims skirtus nurodymus, kuriais siekiama užkirsti kelią pinigų
 plovimui ir (ar) teroristų finansavimui, prižiūri antstolių arba teisę atlikti
 antstolių veiksmus turinčių asmenų veiklą, susijusią su pinigų plovimo ir (ar)
-teroristų finansavimo prevencijos priemonių įgyvendinimu, konsultuoja
-antstolius arba teisę atlikti antstolių veiksmus turinčius asmenis minėtų
-nurodymų įgyvendinimo klausimais.
-10. Lietuvos
+teroristų finansavimo prevencijos priemonių įgyvendinimu, konsultuoja antstolius
+arba teisę atlikti antstolių veiksmus turinčius asmenis minėtų nurodymų
+įgyvendinimo klausimais.
+*8. Lietuvos
 prabavimo rūmai patvirtina asmenims, kurie verčiasi ūkine komercine veikla,
 susijusia su prekyba brangakmeniais ir (ar) tauriaisiais metalais, skirtus
 nurodymus, kuriais siekiama užkirsti kelią pinigų plovimui ir (ar) teroristų
 finansavimui, prižiūri šių subjektų veiklą, susijusią su pinigų plovimo ir (ar)
 teroristų finansavimo prevencijos priemonių įgyvendinimu, konsultuoja šiuos
 subjektus minėtų nurodymų įgyvendinimo klausimais.
-11. Finansinių
+*9. Finansinių
 nusikaltimų tyrimo tarnyba patvirtina kitiems subjektams, nenurodytiems šio
-straipsnio 1–10 dalyse, skirtus nurodymus, kuriais siekiama užkirsti kelią
-pinigų plovimui ir (ar) teroristų finansavimui, prižiūri finansų
-įstaigų ir kitų subjektų veiklą, susijusią su pinigų plovimo ir (ar) teroristų
-finansavimo prevencija,
-teikia jiems metodinę pagalbą.
-12. Šio
-straipsnio 1–10 dalyse nurodytos institucijos privalo paskirti vadovaujančius
+straipsnio 1–8 dalyse, skirtus nurodymus, kuriais siekiama užkirsti kelią
+pinigų plovimui ir (ar) teroristų finansavimui, prižiūri
+finansų įstaigų ir kitų subjektų veiklą, susijusią su pinigų plovimo ir (ar)
+teroristų finansavimo prevencija, teikia jiems metodinę pagalbą.
+*10. Šio
+straipsnio 1–8 dalyse nurodytos institucijos privalo paskirti vadovaujančius
 darbuotojus, kurie organizuotų šiame įstatyme nustatytų pinigų plovimo ir (ar)
 teroristų finansavimo prevencijos priemonių įgyvendinimą ir palaikytų ryšius su
 Finansinių nusikaltimų tyrimo tarnyba.
-13. Apie šio
+*11. Apie šio
 straipsnio 12 dalyje nustatytų darbuotojų paskyrimą, taip pat apie šių
 darbuotojų pakeitimą ne vėliau kaip per 7 darbo dienas turi būti raštu pranešta
 Finansinių nusikaltimų tyrimo tarnybai.
-14. Šio
-straipsnio 1–10 dalyse nurodytos institucijos ir Finansinių nusikaltimų tyrimo
+*12. Šio
+straipsnio 1–8 dalyse nurodytos institucijos ir Finansinių nusikaltimų tyrimo
 tarnyba tarpusavyje nustatyta tvarka bendradarbiauja ir keičiasi informacija
 apie atliktų subjektų veiklos, susijusios su pinigų plovimo ir (ar) teroristų
 finansavimo prevencijos priemonių įgyvendinimu, patikrinimų rezultatus.
@@ -589,6 +382,12 @@ Nr. XI-559,
 2009-12-10, Žin., 2009, Nr. 153-6897 (2009-12-28)
 Nr. XI-1348,
 2011-04-21, Žin., 2011, Nr. 52-2523 (2011-05-03)
+Nr.
+XI-1687,
+2011-11-17, Žin., 2011, Nr. 146-6833 (2011-12-01)
+*Pastaba:
+4 straipsnio 3,4
+dalys neteko galios; buvusios 5-14 dalys tapo 3-12 dalimis
  
 5 straipsnis. Finansinių nusikaltimų tyrimo tarnybos
 funkcijos įgyvendinant pinigų plovimo ir (ar) teroristų finansavimo prevencijos
@@ -609,8 +408,8 @@ spalio 26 d. Europos Parlamento ir Tarybos direktyvos 2005/60/EB dėl finansų
 sistemos apsaugos nuo jos panaudojimo pinigų plovimui ir teroristų finansavimui
 33 straipsnio 2 dalyje);
 3)
-Vyriausybės nustatyta tvarka teikia teisėsaugos ir kitoms valstybės institucijoms
-informaciją apie kliento pinigines operacijas ir sandorius;
+Vyriausybės nustatyta tvarka teikia teisėsaugos ir kitoms valstybės
+institucijoms informaciją apie kliento pinigines operacijas ir sandorius;
 4)
 atlieka ikiteisminį tyrimą dėl nusikalstamu būdu įgytų pinigų ar turto
 legalizavimo;
@@ -636,8 +435,8 @@ finansavimo požymius ar šio įstatymo pažeidimus, analizės ir tyrimų rezult
 įgyvendinant teroristų finansavimo prevencijos priemones
 1. Valstybės
 saugumo departamentas:
-1) renka ir
-analizuoja žvalgybos informaciją, susijusią su teroristų finansavimu;
+1) renka ir analizuoja
+žvalgybos informaciją, susijusią su teroristų finansavimu;
 2)
 bendradarbiauja su užsienio valstybių institucijomis, tarptautinėmis
 organizacijomis, renkančiomis informaciją apie teroristų finansavimą;
@@ -646,26 +445,28 @@ organizacijomis, renkančiomis informaciją apie teroristų finansavimą;
 teroristų finansavimo atpažinimo kriterijus.
 2. Valstybės
 saugumo departamentas ir Finansinių nusikaltimų tyrimo tarnyba bendradarbiauja
-ir Vyriausybės nustatyta tvarka keičiasi informacija įgyvendinant teroristų
-finansavimo prevencijos priemones.
+ir Vyriausybės nustatyta tvarka keičiasi informacija įgyvendinant teroristų finansavimo
+prevencijos priemones.
  
-7 straipsnis. Finansinių
-nusikaltimų tyrimo tarnybos teisės įgyvendinant pinigų plovimo ir (ar) teroristų
+7 straipsnis.
+Finansinių nusikaltimų tyrimo tarnybos teisės įgyvendinant pinigų plovimo ir (ar) teroristų
 finansavimo prevencijos priemones
 1.
 Finansinių nusikaltimų tyrimo tarnyba pagal kompetenciją turi teisę:
 1) gauti
-iš šio įstatymo 4 straipsnio 1–10 dalyse nurodytų institucijų, kitų valstybės institucijų (toliau šiame straipsnyje – institucijos), finansų įstaigų, kitų subjektų,
-išskyrus advokatus ar advokatų padėjėjus, savo funkcijoms atlikti reikalingus
-duomenis ir dokumentus apie pinigines operacijas ir sandorius;
+iš šio įstatymo 4 straipsnio 1–8 dalyse nurodytų institucijų, kitų valstybės
+institucijų (toliau šiame straipsnyje – institucijos), finansų įstaigų, kitų
+subjektų, išskyrus advokatus ar advokatų padėjėjus, savo funkcijoms atlikti
+reikalingus duomenis ir dokumentus apie pinigines operacijas ir sandorius;
 2) gauti
 iš institucijų, finansų įstaigų, kitų subjektų informaciją, susijusią su pinigų
 plovimo ir (ar) teroristų
 finansavimo
 prevencijos priemonių įgyvendinimu;
 3) koordinuoti
-institucijų (išskyrus Valstybės saugumo departamento) veiklą, susijusią su pinigų
-plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimu;
+institucijų (išskyrus Valstybės saugumo departamento) veiklą, susijusią su
+pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių
+įgyvendinimu;
 4)
 nurodyti institucijoms, finansų įstaigoms ir kitiems subjektams aplinkybes ir
 sąlygas, sudarančias galimybes pažeisti įstatymus ir kitus teisės aktus,
@@ -682,6 +483,11 @@ antstolių veiksmus turinčius asmenis, iki 5 darbo dienų sustabdyti atliekamas
 nusikaltimų tyrimo tarnybos pareigūnų, atliekančių ikiteisminį tyrimą dėl
 nusikalstamu būdu įgytų pinigų ar turto legalizavimo, teises reglamentuoja
 Baudžiamojo proceso kodeksas.
+Straipsnio
+pakeitimai:
+Nr.
+XI-1687,
+2011-11-17, Žin., 2011, Nr. 146-6833 (2011-12-01)
  
 8
 straipsnis. Valstybės institucijų bendradarbiavimas 
@@ -774,8 +580,8 @@ dalykinių santykių stebėseną, įskaitant sandorių, kurie buvo sudaryti toki
 tyrimą, siekiant užtikrinti, kad vykdomi sandoriai atitiktų finansų įstaigų ar
 kitų subjektų turimas žinias apie klientą, jo verslą ir rizikos pobūdį,
 prireikus – žinias apie lėšų šaltinį.
-10. Duomenys apie kliento ir naudos gavėjo tapatybę privalo būti
-nuolatos peržiūrimi ir atnaujinami.
+10. Duomenys apie kliento ir naudos gavėjo tapatybę privalo
+būti nuolatos peržiūrimi ir atnaujinami.
 11.
 Finansų įstaigoms ir kitiems subjektams draudžiama vykdyti sandorius per banko
 sąskaitas, užmegzti dalykinius santykius, vykdyti sandorius, kai jie neturi
@@ -807,9 +613,9 @@ reguliuojamose rinkose, ir kitoms užsienio valstybių bendrovėms, kurių
 vertybiniais popieriais prekiaujama reguliuojamoje rinkoje ir kurioms yra
 taikomi Europos Sąjungos
 teisės aktus atitinkantys reikalavimai atskleisti informaciją apie savo veiklą;
-2) bendrųjų
-sąskaitų, kurias valdo notarai ir kiti teisines paslaugas teikiantys asmenys iš
-Europos
+2)
+bendrųjų sąskaitų, kurias valdo notarai ir kiti teisines paslaugas teikiantys
+asmenys iš Europos
 Sąjungos valstybių
 narių arba iš trečiųjų valstybių, naudos gavėjams, jeigu jiems yra taikomi
 kovos su pinigų plovimu ir (ar) teroristų finansavimu reikalavimai,
@@ -826,9 +632,9 @@ išankstinio nutraukimo ir jeigu draudimo liudijimai negali būti naudojami kaip
 įkeitimo objektai, atvejais;
 5)
 pensijų, senatvės pensijų ar kitų sistemų, kurios numato pensijas darbuotojams,
-kai įmokos yra išskaičiuojamos iš darbo užmokesčio, o šių sistemų veiklą reglamentuojantys
-teisės aktai neleidžia kitam asmeniui perduoti tokios sistemos nario dalies,
-atvejais;
+kai įmokos yra išskaičiuojamos iš darbo užmokesčio, o šių sistemų veiklą
+reglamentuojantys teisės aktai neleidžia kitam asmeniui perduoti tokios
+sistemos nario dalies, atvejais;
 6) elektroninių
 pinigų atveju, kai elektroninės laikmenos negali būti papildytos, o didžiausia
 laikmenose saugoma suma neviršija 150 eurų arba ją atitinkančios sumos užsienio
@@ -850,8 +656,8 @@ atlikti supaprastintą kliento tapatybės nustatymą, jei dėl to yra priimtas
 atskiras Europos Komisijos sprendimas.
 3. Supaprastinto
 kliento tapatybės nustatymo tvarką bei kriterijus, kuriais vadovaujantis
-klientas laikomas keliančiu mažą pinigų plovimo ir (ar) teroristų finansavimo
-grėsmę, nustato Vyriausybė.
+klientas laikomas keliančiu mažą pinigų plovimo ir (ar) teroristų finansavimo grėsmę,
+nustato Vyriausybė.
 Straipsnio pakeitimai:
 Nr. XI-1384,
 2011-05-19, Žin., 2011, Nr. 68-3215 (2011-06-04)
@@ -882,8 +688,8 @@ taikyti vieną ar kelias papildomas priemones:
 tapatybei nustatyti panaudoti papildomus duomenis, dokumentus ar informaciją;
 2) panaudoti
 papildomas priemones, kuriomis siekiama patikrinti ar patvirtinti pateiktus
-dokumentus arba kuriomis reikalaujama iš finansų įstaigos duomenis
-patvirtinančio pažymėjimo; 
+dokumentus arba kuriomis reikalaujama iš finansų įstaigos duomenis patvirtinančio
+pažymėjimo; 
 3) užtikrinti,
 kad pirmas mokėjimas būtų atliekamas per sąskaitą, kliento vardu atidarytą
 kredito įstaigoje.
@@ -923,18 +729,6 @@ sandoriu, šaltiniui nustatyti;
 3) vykdyti
 sustiprintą nuolatinę dalykinių santykių su
 politikoje dalyvaujančiais fiziniais asmenimis stebėseną.
- 
-5
-dalies redakcija iki 2011 m. liepos 1 d.:
-5. Jei bent
-vienus metus asmuo nustoja eiti šio įstatymo 2 straipsnio 17 dalyje nurodytas
-pareigas, finansų įstaigos ir kiti subjektai, įvertinę pinigų plovimo ir (ar)
-teroristų finansavimo grėsmės lygį, jo gali nelaikyti politikoje dalyvaujančiu
-fiziniu asmeniu. Finansų įstaigos ir kiti subjektai privalo nustatyti vidines
-procedūras, kurių pagrindu nustatoma, ar klientas ir naudos gavėjas yra
-politikoje dalyvaujantis fizinis asmuo.
-5
-dalies redakcija nuo 2011 m. liepos 1 d.:
 5. Jei bent
 vienus metus asmuo nustoja eiti šio įstatymo 2 straipsnio 19 dalyje
 nurodytas pareigas, finansų įstaigos ir kiti subjektai, įvertinę pinigų plovimo
@@ -976,17 +770,6 @@ straipsnis. Trečiosios šalys
 įstaigos ir kiti subjektai, vykdydami kliento ar naudos gavėjo tapatybės
 nustatymą, gali naudotis trečiųjų šalių informacija apie klientą ar naudos
 gavėją.
- 
-2
-dalies redakcija iki 2011 m. liepos 1 d.:
-2.
-Finansų įstaigos ir kiti subjektai gali nustatyti kliento ar naudos gavėjo
-tapatybę tiesiogiai jam nedalyvaujant, naudodami
-informaciją apie klientą ar naudos gavėją iš
-finansų įstaigų ir kitų subjektų arba jų atstovybių užsienyje, kai jie atitinka
-šio įstatymo 2 straipsnio 19 dalyje trečiajai šaliai nustatytus reikalavimus.
-2
-dalies redakcija nuo 2011 m. liepos 1 d.:
 2. Finansų
 įstaigos ir kiti subjektai gali nustatyti kliento ar naudos gavėjo tapatybę
 tiesiogiai jam nedalyvaujant, naudodami informaciją apie klientą ar naudos
@@ -1034,25 +817,12 @@ sandorius. Tokios operacijos ir sandoriai objektyviai nustatomi finansų
 įstaigoms ir kitiems subjektams vykdant nuolatinę kliento dalykinių santykių stebėseną, įskaitant
 sandorių, kurie buvo sudaryti tokių santykių metu, tyrimą, kaip tai nustatyta
 šio įstatymo 9 straipsnio 9 dalyje.
-2
-dalies redakcija iki 2011 m. liepos 1 d.:
-2. Finansų
-įstaigos ir kiti subjektai, išskyrus notarus ar asmenis, turinčius teisę
-atlikti notarinius veiksmus, advokatus ar advokatų padėjėjus, antstolius ar
-teisę atlikti antstolių veiksmus turinčius asmenis, nustatę, kad jų klientas
-atlieka įtartiną piniginę operaciją ar sandorį, privalo tą operaciją ar sandorį
-sustabdyti ir ne vėliau kaip per 3 darbo valandas apie šią operaciją ar sandorį
-pranešti Finansinių nusikaltimų tyrimo tarnybai, nepaisydami piniginės operacijos
-ar sandorio sumos.
-2
-dalies redakcija nuo 2011 m. liepos 1 d.:
 2. Finansų
 įstaigos ir kiti subjektai, nustatę, kad jų klientas atlieka įtartiną piniginę
 operaciją ar sandorį, nepaisydami piniginės operacijos ar sandorio sumos
 privalo tą operaciją ar sandorį sustabdyti ir ne vėliau kaip per 3 darbo
 valandas apie šią operaciją ar sandorį pranešti Finansinių nusikaltimų tyrimo
 tarnybai, o advokatai ar advokatų padėjėjai – Lietuvos advokatūrai.
- 
 3. Finansinių
 nusikaltimų tyrimo tarnyba per 5 darbo dienas nuo šio straipsnio 2 dalyje
 nurodytos informacijos gavimo arba nuo šio straipsnio 5 dalyje nurodyto
@@ -1081,55 +851,16 @@ nusikalstamu būdu įgytų pinigų ar turto legalizavimo, teroristų finansavimo
 kitų nusikalstamų veikų, susijusių su pinigų plovimu ir (ar) teroristų
 finansavimu, Finansinių nusikaltimų tyrimo tarnyba privalo apie tai pranešti
 finansų įstaigai ir kitam subjektui. 
- 
-8
-dalies redakcija iki 2011 m. liepos 1 d.:
-8. Notarai ar asmenys, turintys teisę atlikti notarinius
-veiksmus, ir antstoliai ar teisę atlikti antstolių veiksmus turintys asmenys, kai įtariama, kad jų kliento sudaromas sandoris gali
-būti susijęs su pinigų plovimu ir (ar) teroristų finansavimu, privalo kliento tapatybę
-patvirtinančius duomenis ir kitą šio Įstatymo 17 straipsnio 1 dalyje nurodytą
-informaciją pateikti Finansinių nusikaltimų tyrimo tarnybai iš karto po
-sandorio sudarymo, nepaisydami pagal sandorį kliento gaunamos ar mokamos pinigų
-sumos dydžio.
-8
-dalies redakcija nuo 2011 m. liepos 1 d.:
 8.
 Finansų įstaigos ir kiti subjektai, gavę informacijos, kad klientas ketina ar bandys
 atlikti įtartiną ar neįprastą piniginę operaciją ar sandorį, privalo nedelsdami
 informuoti Finansinių
 nusikaltimų tyrimo tarnybą, o advokatai ar advokatų padėjėjai – Lietuvos
 advokatūrą.
- 
-9. Advokatai ar advokatų padėjėjai, kai įtariama, kad
-jų kliento sudaromas sandoris gali būti susijęs su pinigų plovimu ir (ar) teroristų
-finansavimu, privalo kliento tapatybę patvirtinančius duomenis ir kitą šio
-Įstatymo 17 straipsnio 1 dalyje nurodytą informaciją pateikti Lietuvos
-advokatūrai iš karto po sandorio sudarymo, nepaisydami pagal sandorį kliento
-gaunamos ar mokamos pinigų sumos dydžio, išskyrus šio straipsnio 11 dalyje
-nustatytus atvejus.
-9
-dalis netenka galios nuo 2011 m. liepos 1 d.
- 
-10
-dalies redakcija iki 2011 m. liepos 1 d.:
-10. Lietuvos advokatūra ne vėliau kaip per 3 darbo
-valandas nuo šio straipsnio 9 dalyje nurodytos informacijos gavimo privalo ją
-perduoti Finansinių nusikaltimų tyrimo tarnybai.
-10
-dalies redakcija nuo 2011 m. liepos 1 d.:
+9. (neteko galios nuo 2011-07-01).
 10. Lietuvos advokatūra ne vėliau kaip per 3 darbo
 valandas nuo šio straipsnio 2 ir 8 dalyse nurodytos informacijos gavimo privalo
 ją perduoti Finansinių nusikaltimų tyrimo tarnybai.
- 
-11
-dalies redakcija iki 2011 m. liepos 1 d.:
-11. Šio
-straipsnio 9 dalis netaikoma advokatams ir advokatų padėjėjams tuo metu, kai
-jie vertina savo kliento teisinę padėtį arba gina savo klientą, arba atstovauja
-jam teismo procese arba dėl jo, įskaitant teikiamas konsultacijas dėl teismo
-proceso pradėjimo arba jo vengimo.
-11
-dalies redakcija nuo 2011 m. liepos 1 d.:
 11. Šio
 straipsnio 2 ir 8 dalys netaikomos advokatams ir advokatų padėjėjams tuo metu,
 kai jie vertina savo kliento teisinę padėtį arba gina savo klientą, arba
@@ -1190,11 +921,11 @@ punktuose nurodytų kliento atliktų piniginių operacijų bei įtartinų ir
 neįprastų piniginių operacijų ir sandorių registracijos žurnalą, išskyrus
 atvejus, kai finansų įstaigos klientas yra kita finansų įstaiga arba kitos
 Europos Sąjungos valstybės narės finansų įstaiga.
-2. Notarai
-ir asmenys, turintys teisę atlikti notarinius veiksmus, ir antstoliai ar teisę
-atlikti antstolių veiksmus turintys asmenys privalo tvarkyti klientų
-įtartinų ir neįprastų sandorių bei sandorių, pagal kuriuos gaunama ar mokama
-grynųjų pinigų suma viršija 
+2.
+Notarai ir asmenys, turintys teisę atlikti notarinius veiksmus, ir antstoliai ar
+teisę atlikti antstolių veiksmus turintys asmenys privalo tvarkyti
+klientų įtartinų ir neįprastų sandorių bei sandorių, pagal kuriuos gaunama ar
+mokama grynųjų pinigų suma viršija 
 15 000 eurų ar ją atitinkančią sumą užsienio valiuta, registracijos žurnalą.
 3.
 Pašto paslaugų teikėjai privalo tvarkyti šio įstatymo 9 straipsnio 1 dalies 4
@@ -1223,8 +954,8 @@ Registracijos žurnalų duomenys saugomi 10 metų nuo sandorių ar dalykinių
 santykių su klientu pabaigos dienos. Registracijos žurnalų tvarkymo taisykles
 nustato Vyriausybė.
 9. Kliento
-tapatybę patvirtinančių dokumentų kopijos turi būti saugomos 10 metų nuo sandorių
-ar dalykinių santykių su klientu pabaigos dienos.
+tapatybę patvirtinančių dokumentų kopijos turi būti saugomos 10 metų nuo
+sandorių ar dalykinių santykių su klientu pabaigos dienos.
 10. Piniginę
 operaciją ar sandorį patvirtinantys dokumentai ar kiti juridinę galią turintys
 dokumentai, susiję su piniginių operacijų atlikimu ar sandorių sudarymu, turi
@@ -1265,11 +996,9 @@ tarnybai pateikiama nedelsiant, ne vėliau kaip per 7 darbo dienas nuo piniginė
 straipsnio 1 dalyje nurodyta informacija Finansinių nusikaltimų tyrimo tarnybai
 neteikiama, jeigu finansų įstaigos klientas yra kita finansų įstaiga arba kitos Europos Sąjungos valstybės narės finansų įstaiga.
 6.
-Finansų įstaiga gali neteikti šio straipsnio 1 dalyje nurodytos informacijos Finansinių
-nusikaltimų tyrimo tarnybai, jeigu kliento veiklai būdingos didelės nuolatinės
-ir reguliarios piniginės
-operacijos,
-atitinkančios Vyriausybės nustatytus kriterijus.
+Finansų įstaiga gali neteikti šio straipsnio 1 dalyje nurodytos informacijos
+Finansinių nusikaltimų tyrimo tarnybai, jeigu kliento veiklai būdingos didelės
+nuolatinės ir reguliarios piniginės operacijos, atitinkančios Vyriausybės nustatytus kriterijus.
 7. Šio
 straipsnio 6 dalyje nurodyta išimtis netaikoma, jeigu finansų įstaigos klientas
 yra užsienio valstybės įmonė, jos filialas ar atstovybė arba jis verčiasi:
@@ -1297,35 +1026,8 @@ gaminiais;
 12) farmacine
 veikla.
  
-18
-straipsnio redakcija iki 2011 m. liepos 1 d.:
-18
-straipsnis. Muitinės įstaigų veikla
-1. Muitinės
-įstaigos atlieka į Europos Bendriją per Lietuvos Respubliką iš trečiųjų šalių,
-kaip jos reglamentuotos Lietuvos Respublikos muitinės įstatyme (toliau šiame
-straipsnyje – trečiosios šalys), įvežamų ir iš Europos Bendrijos per Lietuvos
-Respubliką į trečiąsias šalis išvežamų grynųjų pinigų sumų kontrolę
-vadovaudamosi 2005 m. spalio 26 d. Europos Parlamento ir Tarybos reglamento
-(EB) Nr. 1889/2005 dėl grynųjų pinigų, įvežamų į Bendriją ar išvežamų iš jos,
-kontrolės (toliau – Reglamentas (EB) Nr. 1889/2005) nuostatomis.
-2. Reglamento
-(EB) Nr. 1889/2005 nustatytais atvejais, kai Europos Sąjungos valstybėms narėms
-suteikta sprendimo priėmimo teisė, sprendimus priima ir atitinkamų Reglamento
-(EB) Nr. 1889/2005 nuostatų taikymo Lietuvos Respublikoje tvarką nustato
-Vyriausybė arba jos įgaliota institucija, išskyrus atvejus, kai šis arba kiti
-įstatymai nustato kitaip.
-3. Muitinės
-įstaigos privalo nedelsdamos, ne vėliau kaip per 7 darbo dienas, pranešti
-Finansinių nusikaltimų tyrimo tarnybai, jeigu asmuo įveža iš trečiųjų šalių į
-Europos Bendriją per Lietuvos Respubliką ar išveža iš Europos Bendrijos per
-Lietuvos Respubliką į trečiąsias šalis grynųjų pinigų vienkartinę sumą, kurios
-vertė yra ne mažesnė kaip nurodytoji Reglamento (EB) Nr. 1889/2005 3 straipsnio
-1 dalyje.
-18
-straipsnio redakcija nuo 2011 m. liepos 1 d.:
-18
-straipsnis. Grynųjų pinigų deklaravimas ir muitinės įstaigų veikla
+18 straipsnis. Grynųjų pinigų
+deklaravimas ir muitinės įstaigų veikla
 1. Grynųjų
 pinigų sumos deklaruojamos šiais atvejais:
 1) kai asmuo per
@@ -1368,9 +1070,9 @@ Lietuvos Respubliką į kitas Europos Sąjungos valstybes nares ir iš kitų Eur
 Sąjungos valstybių narių gabenamų grynųjų pinigų deklaravimo ir kilmės
 kontrolės tvarką nustato Muitinės departamentas prie Lietuvos Respublikos
 finansų ministerijos.
-5. Muitinės įstaigos
-privalo nedelsdamos, bet ne vėliau kaip per 7 darbo dienas, pranešti Finansinių
-nusikaltimų tyrimo tarnybai:
+5. Muitinės
+įstaigos privalo nedelsdamos, bet ne vėliau kaip per 7 darbo dienas, pranešti
+Finansinių nusikaltimų tyrimo tarnybai:
 1) jeigu asmuo
 įveža iš trečiųjų šalių į Europos Sąjungą per Lietuvos Respubliką ar išveža iš
 Europos Sąjungos per Lietuvos Respubliką į trečiąsias šalis grynųjų pinigų
@@ -1448,12 +1150,12 @@ kontrolės ar teisėsaugos institucijoms, kitiems asmenims, išskyrus šio ir ki
 2.
 Asmenys, pažeidę šiame įstatyme nurodytos informacijos saugojimo ir naudojimo
 tvarką, atsako įstatymų nustatyta tvarka.
-3. Šio
-įstatymo 4 straipsnio 1–10 dalyse nurodytoms institucijoms, jų darbuotojams,
-finansų įstaigoms ir jų darbuotojams, kitiems subjektams ir jų darbuotojams
-draudžiama pranešti klientui ar kitiems asmenims, kad informacija apie kliento
-atliekamas pinigines operacijas arba sudaromus sandorius, arba dėl jų atliekamą
-tyrimą pateikta Finansinių nusikaltimų tyrimo tarnybai. Šioje dalyje nustatytas
+3. Šio įstatymo
+4 straipsnio 1–8 dalyse nurodytoms institucijoms, jų darbuotojams, finansų
+įstaigoms ir jų darbuotojams, kitiems subjektams ir jų darbuotojams draudžiama
+pranešti klientui ar kitiems asmenims, kad informacija apie kliento atliekamas
+pinigines operacijas arba sudaromus sandorius, arba dėl jų atliekamą tyrimą
+pateikta Finansinių nusikaltimų tyrimo tarnybai. Šioje dalyje nustatytas
 draudimas netaikomas advokatams ir advokatų padėjėjams, kai jie siekia įtikinti
 klientą neužsiimti neteisėta veikla.
 4. Šio
@@ -1492,8 +1194,8 @@ paslapties ir asmens duomenų saugojimo pareigas.
 straipsnio 4 dalyje nurodytais atvejais keistis informacija leidžiama tik
 siekiant užkirsti kelią pinigų plovimui ir (ar) teroristų finansavimui.
 6. Šio
-straipsnio 4 dalyje nustatytos išimtys dėl informacijos perdavimo negalioja,
-jei dėl to yra priimtas atskiras Europos Komisijos sprendimas dėl finansų įstaigų
+straipsnio 4 dalyje nustatytos išimtys dėl informacijos perdavimo negalioja, jei
+dėl to yra priimtas atskiras Europos Komisijos sprendimas dėl finansų įstaigų
 ir kitų subjektų, kuriems taikomas šis įstatymas, bei finansų įstaigų ir kitų
 subjektų iš Europos Sąjungos valstybių narių ar susijusios trečiosios
 valstybės.
@@ -1513,6 +1215,9 @@ Straipsnio
 pakeitimai:
 Nr. XI-1348,
 2011-04-21, Žin., 2011, Nr. 52-2523 (2011-05-03)
+Nr.
+XI-1687,
+2011-11-17, Žin., 2011, Nr. 146-6833 (2011-12-01)
  
 21 straipsnis. Kliento, atliekančio pinigines
 operacijas ir sandorius, jo atstovo ir naudos gavėjo fizinio asmens duomenų
@@ -1554,34 +1259,16 @@ euro santykį.
  
 23 straipsnis. Informacijos pateikimas
 kitoms Europos Sąjungos valstybėms narėms ir Europos Komisijai 
-1
-dalies redakcija iki 2011 m. liepos 1 d.:
-1.
-Vyriausybė ar jos įgaliota institucija informuoja Europos Komisiją apie šio
-įstatymo taikymą šio įstatymo 2 straipsnio 8 dalies 3 ir 9 punktuose
-nurodytiems subjektams.
-1
-dalies redakcija nuo 2011 m. liepos 1 d.:
 1.
 Vyriausybė ar jos įgaliota institucija informuoja Europos Komisiją apie
 įstatymo taikymą šio įstatymo 2 straipsnio 9 dalies 3 ir 9 punktuose
 nurodytiems subjektams.
- 
 2.
 Vyriausybė ar jos įgaliota institucija informuoja kitas Europos Sąjungos
 valstybes nares ir Europos Komisiją apie atvejus, kai:
- 
-1
-punkto redakcija iki 2011 m. liepos 1 d.:
-1) trečioji
-valstybė tenkina šio įstatymo 2 straipsnio 19 dalies 2 punkte nustatytus
-reikalavimus;
-1
-punkto redakcija nuo 2011 m. liepos 1 d.:
 1) trečioji
 valstybė tenkina šio įstatymo 2 straipsnio 21 dalies 2 punkte nustatytus
 reikalavimus;
- 
 2) trečioji
 valstybė tenkina šio įstatymo 10 straipsnio 1 dalies 1, 2, 7 ir 8 punktuose
 nustatytus reikalavimus;
@@ -1638,10 +1325,10 @@ procedūroms taikomus techninius kriterijus bei išimtis, suteikiamas dėl to, k
 finansine veikla verčiamasi retai arba labai ribotai (OL 2006, L 214, p. 29).
 4. 2006 m. lapkričio 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1781/2006 dėl mokėtojo
 informacijos, pateikiamos pervedant lėšas (OL 2006, L 345, p. 1).
-5. 2007 m.
-lapkričio 13 d. Europos Parlamento ir Tarybos direktyva 2007/64/EB dėl mokėjimo
-paslaugų vidaus rinkoje, iš dalies keičianti direktyvas 97/7/EB, 2002/65/EB,
-2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 97/5/EB (OL 2007 L 319, p. 1).
+5. 2007 m. lapkričio
+13 d. Europos Parlamento ir Tarybos direktyva 2007/64/EB dėl mokėjimo paslaugų
+vidaus rinkoje, iš dalies keičianti direktyvas 97/7/EB, 2002/65/EB, 2005/60/EB
+ir 2006/48/EB ir panaikinanti Direktyvą 97/5/EB (OL 2007 L 319, p. 1).
 Priedo
 pakeitimas:
 Nr. XI-559,
@@ -1817,12 +1504,23 @@ FINANSAVIMO PREVENCIJOS ĮSTATYMO 2, 10 IR 18 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šio
 įstatymo 3 straipsnis įsigalioja 2011 m. liepos 1 d.
  
+16.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-1687,
+2011-11-17, Žin., 2011, Nr. 146-6833 (2011-12-01)
+PINIGŲ
+PLOVIMO IR TERORISTŲ FINANSAVIMO PREVENCIJOS ĮSTATYMO 3, 4, 7 IR 20 STRAIPSNIŲ
+PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2012-01-01.
  
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2011-06-08)
+Aušra Bodin (2011-12-14)
                  
-ausrine.trapinskiene@lrs.lt
+aubodi@lrs.lt
