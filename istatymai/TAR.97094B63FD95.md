@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.97094B63FD95"
 
 # Lietuvos Respublikos ūkinių bendrijų įstatymas
 
-Suvestinė redakcija nuo 2010-01-05 iki 2011-12-31
+Suvestinė redakcija nuo 2012-01-01 iki 2012-08-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 112-4990, i. k. 1031010ISTA0IX-1804
  
@@ -794,7 +794,10 @@ Nr. XI-602, 2009-12-22, Žin. 2010, Nr. 1-13 (2010-01-05), i. k. 1091010ISTA00XI
 
 
 
-6. Bendrija gali būti pertvarkoma į akcinę bendrovę arba uždarąją akcinę bendrovę, jeigu bendrijos turtas, atėmus visus bendrijos įsipareigojimus, yra ne mažesnis už Akcinių bendrovių įstatyme akcinei bendrovei ar uždarajai akcinei bendrovei nustatytą minimalų įstatinio kapitalo dydį. Iki sprendimo pertvarkyti bendriją į akcinę bendrovę arba uždarąją akcinę bendrovę priėmimo bendrijos turtas, kuris perduodamas už bendrovės akcijas, turi būti įvertintas nepriklausomo turto vertintojo teisės aktų, reglamentuojančių turto vertinimą, nustatyta tvarka. Turto vertinimo ataskaita turi atitikti Akcinių bendrovių įstatymo nustatytus reikalavimus, taikomus nepiniginio įnašo vertinimo ataskaitai, ir ne vėliau kaip likus dešimčiai dienų iki sprendimo pertvarkyti bendriją priėmimo turi būti pateikta bendrijai ir juridinių asmenų registrui. Sprendime pertvarkyti bendriją į akcinę bendrovę ar uždarąją akcinę bendrovę, be kita ko, turi būti nurodyta po pertvarkymo veiksiančios akcinės bendrovės arba uždarosios akcinės bendrovės įstatinio kapitalo dydis, akcijų skaičius, akcijų nominali vertė. Kai bendrija pertvarkoma į akcinę bendrovę, be kitų šiame ir kituose įstatymuose nustatytų veiksmų, akcinės bendrovės akcijos vertybinių popierių rinką reglamentuojančių teisės aktų nustatyta tvarka turi būti įregistruotos Lietuvos Respublikos vertybinių popierių komisijoje ir išrinkta audito įmonė.
+6. Bendrija gali būti pertvarkoma į akcinę bendrovę arba uždarąją akcinę bendrovę. Sprendime pertvarkyti bendriją į akcinę bendrovę ar uždarąją akcinę bendrovę turi būti nurodyta po pertvarkymo veiksiančios akcinės bendrovės arba uždarosios akcinės bendrovės įstatinio kapitalo dydis, akcijų skaičius, akcijų nominali vertė. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1700, 2011-11-17, Žin., 2011, Nr. 146-6846 (2011-12-01), i. k. 1111010ISTA0XI-1700
+ 
 
 
 
@@ -961,3 +964,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-602, 2009-12-22, Žin., 2010, Nr. 1-13 (2010-01-05), i. k. 1091010ISTA00XI-602
 Lietuvos Respublikos ūkinių bendrijų įstatymo 6 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1700, 2011-11-17, Žin., 2011, Nr. 146-6846 (2011-12-01), i. k. 1111010ISTA0XI-1700
+Lietuvos Respublikos ūkinių bendrijų įstatymo 17 straipsnio pakeitimo įstatymas
