@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F707D11C62FE"
 
 # Lietuvos Respublikos tarptautinių sankcijų įstatymas
 
+Suvestinė redakcija nuo 2012-01-01 iki 2018-12-31
+ 
+Įstatymas paskelbtas: Žin. 2004, Nr. 68-2369, i. k. 1041010ISTA0IX-2160
+ 
+ 
 LIETUVOS RESPUBLIKOS
 EKONOMINIŲ IR KITŲ TARPTAUTINIŲ SANKCIJŲ ĮGYVENDINIMO
 Į S T A T Y M A S
@@ -287,12 +292,18 @@ TARPTAUTINIŲ SANKCIJŲ ĮGYVENDINIMO ADMINISTRAVIMAS IR ĮGYVENDINIMO PRIEŽIŪ
 1. Už tarptautinių sankcijų įgyvendinimo priežiūrą pagal kompetenciją yra atsakingos šios institucijos:
 
 
-1) Lietuvos Respublikos užsienio reikalų ministerija, Lietuvos Respublikos ūkio ministerija, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos, Lietuvos Respublikos draudimo priežiūros komisija – už ekonominių sankcijų įgyvendinimo priežiūrą;
+1) Lietuvos Respublikos užsienio reikalų ministerija, Lietuvos Respublikos ūkio ministerija, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos, Lietuvos bankas – už ekonominių sankcijų įgyvendinimo priežiūrą; 
+Straipsnio punkto pakeitimai:
+Nr. XI-1693, 2011-11-17, Žin., 2011, Nr. 146-6839 (2011-12-01), i. k. 1111010ISTA0XI-1693
+ 
 
 
 
 
-2) Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos, Lietuvos Respublikos draudimo priežiūros komisija, Lietuvos Respublikos vertybinių popierių komisija – už finansinių sankcijų įgyvendinimo priežiūrą;
+2) Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos, Lietuvos bankas – už finansinių sankcijų įgyvendinimo priežiūrą;
+Straipsnio punkto pakeitimai:
+Nr. XI-1693, 2011-11-17, Žin., 2011, Nr. 146-6839 (2011-12-01), i. k. 1111010ISTA0XI-1693
+ 
 
 
 
@@ -398,3 +409,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 LAIKINAI EINANTIS
 RESPUBLIKOS PREZIDENTO PAREIGAS                                  ARTŪRAS PAULAUSKAS
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1693, 2011-11-17, Žin., 2011, Nr. 146-6839 (2011-12-01), i. k. 1111010ISTA0XI-1693
+Lietuvos Respublikos ekonominių ir kitų tarptautinių sankcijų įgyvendinimo įstatymo 12 straipsnio pakeitimo įstatymas
