@@ -16,7 +16,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9CD153214DD1"
 Įstatymas skelbtas: Žin., 1999, Nr. 36-1070
 Neoficialus įstatymo tekstas
 Įstatymo
-aktuali redakcija nuo 2011 m. sausio 1 d.
+aktuali redakcija nuo 2012 m. sausio 1 d.
  
 LIETUVOS
 RESPUBLIKOS
@@ -114,37 +114,43 @@ nuo jų patekimo į rūšiavimo vietą iki pristatymo adresatams.
 18. Pašto
 siuntų surinkimas – visuma veiksmų, kurių metu pašto siuntos surenkamos iš
 naudotojų.
-19. Registruotoji
+19. Periodinių
+leidinių pristatymas kaimo gyvenamųjų vietovių prenumeratoriams – laikraščių
+ir žurnalų, išskyrus priskirtų prie erotinio ir (ar) smurtinio pobūdžio
+leidinių ir tų, kurių daugiau kaip 50 procentų teksto sudaro reklama, priėmimas
+iš leidėjų, paskirstymas ir pateikimas kaimo gyvenamųjų vietovių
+prenumeratoriams.
+20. Registruotoji
 pašto siunta – pašto siunta, kuriai suteikta pastovaus dydžio garantija
 pašto siuntos dingimo, vagystės ar sugadinimo atveju. Siuntėjo prašymu
 pateikiami įrodymai, kad ši pašto siunta buvo pristatyta ar įteikta gavėjui.
-20. Reklaminė
+21. Reklaminė
 pašto siunta – adresuota pašto siunta, kurią sudaro vieno siuntėjo paštu
 siunčiamas reklaminio, komercinio ar viešai skelbiamo pobūdžio vienodo turinio
 pranešimas (išskyrus sąskaitas, mokėjimo pranešimus, finansines ataskaitas ir
 kitokius nevienodo turinio pranešimus). Jei reklaminėje pašto siuntoje
 siunčiami kitokio pobūdžio pranešimai, ji nelaikoma reklamine pašto siunta. 
-21. Rezervuotosios pašto paslaugos –
+22. Rezervuotosios pašto paslaugos –
 pašto paslaugų dalis, kurių teikimas apribojamas laikantis nustatytų svorio ir
 kainų ribų, kad būtų užtikrintas universaliųjų pašto paslaugų teikimas.
-22. Siuntėjas – asmuo, kuris
+23. Siuntėjas – asmuo, kuris
 pašto ir (ar) pasiuntinių paslaugų teikėjui pateikia pristatyti ar įteikti jo
 nurodytam gavėjui pašto siuntą.
-23. Tarptautinė pašto siunta – pašto siunta,
+24. Tarptautinė pašto siunta – pašto siunta,
 siunčiama iš vienos valstybės į kitą. 
-24. Universaliosios pašto paslaugos –
+25. Universaliosios pašto paslaugos –
 nenutrūkstamai visoje Lietuvos Respublikos teritorijoje teikiamos pašto
 paslaugos.
-25. Universaliųjų pašto paslaugų
+26. Universaliųjų pašto paslaugų
 teikėjas – akcinė bendrovė Lietuvos paštas ir (ar) kiti pašto paslaugas
 teikiantys Lietuvos Respublikos piliečiai ar asmenys, turintys leidimą nuolat
 gyventi Lietuvos Respublikoje, Lietuvos Respublikoje įsteigti juridiniai
 asmenys, taip pat kitos valstybės narės juridinių asmenų ar kitų organizacijų
 filialai įsteigti Lietuvos Respublikoje, Vyriausybės įgalioti teikti
 universaliąsias pašto paslaugas Lietuvos Respublikos teritorijoje.
-26. Valstybė narė – Europos
+27. Valstybė narė – Europos
 Sąjungos valstybė narė ar Europos ekonominės erdvės valstybė. 
-27. Viešasis pašto tinklas – pašto
+28. Viešasis pašto tinklas – pašto
 infrastruktūra, kuria naudojasi universaliųjų pašto paslaugų teikėjas teikdamas
 pašto paslaugas: surinkdamas pašto siuntas, priskiriamas universaliosioms pašto
 paslaugoms, iš visoje teritorijoje esančių pašto paslaugų teikimo vietų;
@@ -154,6 +160,8 @@ nurodytus ant pašto siuntų.
 Straipsnio pakeitimai:
 Nr. XI-628,
 2009-12-22, Žin., 2010, Nr. 1-33 (2010-01-05)
+Nr. XI-1819,
+2011-12-20, Žin., 2011, Nr. 161-7618 (2011-12-29)
  
 3
 straipsnis. Pašto veiklos reguliavimo institucijos
@@ -165,8 +173,8 @@ institucija:
 įgyvendina valstybės strategiją ir politiką pašto srityje;
 2) tvirtina universaliųjų pašto paslaugų
 teikimo taisykles; 
-3) nustato universaliųjų
-pašto paslaugų kokybės reikalavimus;
+3) nustato
+universaliųjų pašto paslaugų kokybės reikalavimus;
 4) užtikrina,
 kad universaliųjų pašto paslaugų plėtra atitiktų technikos pažangą, ekonomines
 ir socialines aplinkybes bei naudotojų poreikius; 
@@ -174,10 +182,13 @@ ir socialines aplinkybes bei naudotojų poreikius;
 pašto paslaugų teikėją (teikėjus) teikti universaliąsias pašto paslaugas šalies
 teritorijoje ir apie jį (juos) praneša Europos Komisijai;
 6) pagal pašto
-siuntų svorio pakopas tvirtina universaliųjų pašto paslaugų didžiausius
-tarifus;
+siuntų svorio pakopas tvirtina universaliųjų pašto paslaugų didžiausius tarifus
+ir kas 3 metai tvirtina periodinių leidinių pristatymo kaimo gyvenamųjų
+vietovių prenumeratoriams paslaugų didžiausius tarifus;
 7) tvirtina
-nuostolingų universaliųjų pašto paslaugų kompensavimo taisykles; 
+nuostolingų universaliųjų pašto paslaugų kompensavimo taisykles ir nuostolingų periodinių
+leidinių pristatymo kaimo gyvenamųjų vietovių prenumeratoriams paslaugų
+kompensavimo taisykles;
 8) nustato pašto
 mokos ženklų išleidimo, išėmimo iš apyvartos bei apskaitos taisykles;
 9) tvirtina
@@ -198,51 +209,64 @@ kaip laikomasi šio Įstatymo nuostatų ir kaip jos yra įgyvendinamos. Ryšių
 reguliavimo tarnybos statusą, veiklas, apibrėžtas šiame Įstatyme, finansavimo
 šaltinius, sąlygas ir tvarką bei kitus veiklos aspektus nustato Elektroninių
 ryšių įstatymas.
-4. Ryšių reguliavimo tarnyba:
-1) rengia ir
-tvirtina pašto ir pasiuntinių paslaugų teikimo taisykles ir prižiūri, kaip
-laikomasi jose nustatytų reikalavimų;
-2) (neteko galios nuo 2010 m. sausio 5 d.);
-3) rengia ir teikia tvirtinti Vyriausybei ar jos
-įgaliotai institucijai nuostolingų universaliųjų pašto paslaugų kompensavimo
-taisykles;
-4) rengia ir teikia pasiūlymus Vyriausybei ar jos
-įgaliotai institucijai dėl universaliųjų pašto paslaugų didžiausių tarifų;
-5) rengia ir teikia pasiūlymus Vyriausybei ar jos
-įgaliotai institucijai dėl universaliųjų pašto paslaugų teikėjo viešojo pašto
-tinklo charakteristikų; 
-6) rengia ir teikia tvirtinti Vyriausybei ar jos
-įgaliotai institucijai universaliųjų pašto paslaugų teikimo taisykles;
-7) prižiūri, kaip universaliųjų pašto paslaugų
-teikėjas laikosi nustatytų viešojo pašto tinklo charakteristikų ir teikiamų
-universaliųjų pašto paslaugų kokybės reikalavimų;
-8) nustato universaliųjų pašto paslaugų teikėjui
-pagrindinius sąnaudų apskaitos tvarkymo principus ir sąnaudų apskaitos sistemai
-keliamus reikalavimus, taip pat kitus su sąnaudų apskaitos sistema susijusius
-reikalavimus, tarp jų ir reikalavimą atlikti auditą;
-9) organizuoja nepriklausomą universaliųjų pašto
-paslaugų kokybės patikrinimą ir kartą per metus viešai skelbia šio patikrinimo
-rezultatus; 
-10) rengia ir tvirtina pašto ar pasiuntinių paslaugų
-teikėjų ir naudotojų ginčų nagrinėjimo taisykles bei nagrinėja ginčus tarp
-pašto ir pasiuntinių paslaugų teikėjų ir naudotojų;
-11) rengia ir tvirtina pašto paslaugų teikėjų ir (ar)
-pasiuntinių paslaugų teikėjų ginčų nagrinėjimo taisykles ir nagrinėja ginčus
-tarp pašto paslaugų teikėjų ir (ar) pasiuntinių paslaugų teikėjų;
-12) atlieka universaliųjų pašto paslaugų tarifų
-taikymo priežiūrą;
-13) pagal savo kompetenciją tiria ir nagrinėja šio
-Įstatymo pažeidimus bei pažeidėjams taiko sankcijas šio Įstatymo ir kitų teisės
-aktų nustatytais atvejais, sąlygomis ir tvarka;
-14) bendradarbiauja su užsienio šalių pašto veiklos
-reguliavimo institucijomis, pagal kompetenciją dalyvauja tarptautinių
-organizacijų ir Europos Sąjungos institucijų, komitetų bei grupių veikloje;
-15) įstatymų nustatyta tvarka teikia turimą informaciją kitoms valstybės ir
-(ar) savivaldybių institucijoms pagal jų prašymus. Valstybės ir (ar) savivaldybių
-institucijos, kurioms perduota konfidenciali informacija, privalo užtikrinti
-tinkamą jos apsaugą; 
-16) atlieka kitas Lietuvos Respublikos įstatymų ir
-kitų teisės aktų nustatytas funkcijas.
+4. Ryšių
+reguliavimo tarnyba:
+1) rengia ir tvirtina
+pašto ir pasiuntinių paslaugų teikimo taisykles ir prižiūri, kaip laikomasi
+jose nustatytų reikalavimų;
+2) rengia ir
+teikia tvirtinti Vyriausybei nuostolingų periodinių leidinių pristatymo kaimo
+gyvenamųjų vietovių prenumeratoriams paslaugų kompensavimo taisyklių projektą;
+3) rengia ir
+teikia tvirtinti Vyriausybei ar jos įgaliotai institucijai nuostolingų
+universaliųjų pašto paslaugų kompensavimo taisykles;
+4) rengia ir
+teikia pasiūlymus Vyriausybei ar jos įgaliotai institucijai dėl universaliųjų
+pašto paslaugų didžiausių tarifų;
+5) rengia ir
+teikia pasiūlymus Vyriausybei ar jos įgaliotai institucijai dėl universaliųjų
+pašto paslaugų teikėjo viešojo pašto tinklo charakteristikų; 
+6) rengia ir
+teikia tvirtinti Vyriausybei ar jos įgaliotai institucijai universaliųjų pašto
+paslaugų teikimo taisykles;
+7) prižiūri,
+kaip universaliųjų pašto paslaugų teikėjas laikosi nustatytų viešojo pašto
+tinklo charakteristikų ir teikiamų universaliųjų pašto paslaugų kokybės
+reikalavimų;
+8) nustato
+universaliųjų pašto paslaugų teikėjui pagrindinius sąnaudų apskaitos tvarkymo
+principus ir sąnaudų apskaitos sistemai keliamus reikalavimus, taip pat kitus
+su sąnaudų apskaitos sistema susijusius reikalavimus, tarp jų ir reikalavimą
+atlikti auditą;
+9) organizuoja
+nepriklausomą universaliųjų pašto paslaugų kokybės patikrinimą ir kartą per
+metus viešai skelbia šio patikrinimo rezultatus; 
+10) rengia ir
+tvirtina pašto ar pasiuntinių paslaugų teikėjų ir naudotojų ginčų nagrinėjimo
+taisykles ir nagrinėja ginčus tarp pašto ir pasiuntinių paslaugų teikėjų ir
+naudotojų;
+11) rengia ir
+tvirtina pašto paslaugų teikėjų ir (ar) pasiuntinių paslaugų teikėjų ginčų
+nagrinėjimo taisykles ir nagrinėja ginčus tarp pašto paslaugų teikėjų ir (ar)
+pasiuntinių paslaugų teikėjų;
+12) atlieka
+universaliųjų pašto paslaugų tarifų ir periodinių leidinių pristatymo kaimo
+gyvenamųjų vietovių prenumeratoriams paslaugų tarifų taikymo priežiūrą;
+13) pagal savo
+kompetenciją tiria ir nagrinėja šio Įstatymo pažeidimus ir pažeidėjams taiko
+sankcijas šio Įstatymo ir kitų teisės aktų nustatytais atvejais, sąlygomis ir
+tvarka;
+14)
+bendradarbiauja su užsienio šalių pašto veiklos reguliavimo institucijomis,
+pagal kompetenciją dalyvauja tarptautinių organizacijų ir Europos Sąjungos
+institucijų, komitetų ir grupių veikloje;
+15) įstatymų
+nustatyta tvarka teikia turimą
+informaciją kitoms valstybės ir (ar) savivaldybių institucijoms pagal jų
+prašymus. Valstybės ir (ar) savivaldybių institucijos, kurioms perduota
+konfidenciali informacija, privalo užtikrinti tinkamą jos apsaugą; 
+16) atlieka
+kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
 5. Ryšių reguliavimo tarnyba, įgyvendindama šio
 Įstatymo jai pavestas funkcijas, turi teisę:
 1) kontroliuoti,
@@ -260,6 +284,8 @@ Nr. XI-628,
 2009-12-22, Žin., 2010, Nr. 1-33 (2010-01-05)
 Nr. XI-1216,
 2010-12-09, Žin., 2010, Nr. 153-7785 (2010-12-28)
+Nr. XI-1819,
+2011-12-20, Žin., 2011, Nr. 161-7618 (2011-12-29)
  
 4
 straipsnis. Pašto ir pasiuntinių veiklos
@@ -316,10 +342,10 @@ Nr. XI-628,
 6
 straipsnis. Teisė teikti pašto ir pasiuntinių paslaugas 
 1. Pašto ir (ar)
-pasiuntinių paslaugas galima teikti pateikus apie tai pranešimą Ryšių reguliavimo
-tarnybai. Ryšių reguliavimo tarnyba nustato pranešimo apie pašto ir pasiuntinių
-paslaugų teikimo pradžią pateikimo tvarką ir sąlygas pašto ir pasiuntinių
-paslaugų teikimo taisyklėse.
+pasiuntinių paslaugas galima teikti pateikus apie tai pranešimą Ryšių
+reguliavimo tarnybai. Ryšių reguliavimo tarnyba nustato pranešimo apie pašto ir
+pasiuntinių paslaugų teikimo pradžią pateikimo tvarką ir sąlygas pašto ir
+pasiuntinių paslaugų teikimo taisyklėse.
 2. Prieš
 pradedant teikti pašto ir (ar) pasiuntinių paslaugas, Ryšių reguliavimo
 tarnybai reikia pateikti: 
@@ -514,14 +540,14 @@ metinę ataskaitą, įskaitant išnagrinėtų skundų skaičių bei informaciją
 tai, kaip jie buvo išspręsti; 
 7) tvarkyti
 apskaitą pagal Ryšių reguliavimo tarnybos nustatytus pagrindinius
-sąnaudų apskaitos tvarkymo principus bei sąnaudų apskaitos sistemos
+sąnaudų apskaitos tvarkymo principus ir sąnaudų apskaitos sistemos
 reikalavimus, taip pat kitus su sąnaudų apskaitos sistema susijusius
 reikalavimus, tarp jų ir reikalavimą atlikti auditą; sąnaudų apskaitos
 sistemoje atskirti kiekvieną universaliąją pašto paslaugą bei rezervuotąsias
-pašto paslaugas;
+pašto paslaugas ir kiekvieną periodinių leidinių pristatymo kaimo gyvenamųjų
+vietovių prenumeratoriams paslaugą;
 8) nacionalinės
-standartizacijos institucijos nustatyta tvarka taikyti Europos Sąjungos
-standartus;
+standartizacijos institucijos nustatyta tvarka taikyti Europos Sąjungos standartus;
 9) skaidriomis
 ir nediskriminacinėmis sąlygomis sudaryti sutartis su kitais pašto paslaugų
 teikėjais dėl galimybės naudotis viešuoju pašto tinklu;
@@ -531,6 +557,14 @@ principų: nustatyti galutinių atsiskaitymų dydį atsižvelgiant į gaunamo
 tarptautinio pašto apdorojimo ir pristatymo sąnaudas; atsiskaitymus susieti su
 paslaugų kokybe; galutiniai atsiskaitymai turi būti skaidrūs ir
 nediskriminuojantys.
+11) pristatyti periodinius leidinius
+kaimo gyvenamųjų vietovių prenumeratoriams;
+12) periodinių leidinių pristatymo kaimo
+gyvenamųjų vietovių prenumeratoriams paslaugų tarifus pagrįsti sąnaudomis;
+13) atlikti šešių mėnesių ir kalendorinių metų
+periodinių leidinių pristatymo kaimo gyvenamųjų vietovių prenumeratoriams
+paslaugos pajamų ir sąnaudų nepriklausomą auditą ir audito išvadas pateikti
+Susisiekimo ministerijai ir Ryšių reguliavimo tarnybai.
 4. Universaliųjų pašto paslaugų teikėjas turi teisę:
 1) sudaryti
 individualias sutartis dėl universaliųjų pašto paslaugų tarifų;
@@ -538,23 +572,34 @@ individualias sutartis dėl universaliųjų pašto paslaugų tarifų;
 universaliųjų pašto paslaugų teikėjais, pagal kompetenciją dalyvauti
 tarptautinių pašto organizacijų veikloje.
 5. Universaliųjų pašto paslaugų tarifai
-privalo būti pagrįsti teikiamų universaliųjų pašto paslaugų sąnaudomis, tačiau
-prieinami visiems pašto paslaugų naudotojams, skaidrūs ir nediskriminuojantys. Jeigu Vyriausybė
-universaliųjų pašto paslaugų teikėjui didžiausius universaliųjų pašto paslaugų
-tarifus nustato mažesnius už pašto paslaugų sąnaudas, šių sąnaudų ir tarifų skirtumas
-padengiamas Vyriausybės nustatyta tvarka iš valstybės biudžete numatytų lėšų. 
+ir periodinių leidinių pristatymo kaimo gyvenamųjų vietovių prenumeratoriams
+paslaugų tarifai privalo būti pagrįsti teikiamų paslaugų sąnaudomis, tačiau
+prieinami visiems pašto paslaugų naudotojams, skaidrūs ir nediskriminaciniai.
+Jeigu Vyriausybė universaliųjų pašto paslaugų teikėjui didžiausius
+universaliųjų pašto paslaugų tarifus ir periodinių leidinių pristatymo kaimo
+gyvenamųjų vietovių prenumeratoriams paslaugų tarifus nustato mažesnius už
+tokių paslaugų sąnaudas, šių sąnaudų ir tarifų skirtumas padengiamas
+Vyriausybės nustatyta tvarka iš valstybės biudžete numatytų lėšų. Periodinių
+leidinių pristatymo kaimo gyvenamųjų vietovių prenumeratoriams paslaugų pajamų
+ir sąnaudų skirtumas už periodinių leidinių pristatymą kaimo gyvenamųjų
+vietovių prenumeratoriams universaliųjų pašto paslaugų teikėjui kompensuojamas
+kas šeši mėnesiai. Universaliųjų pašto paslaugų teikėjas Susisiekimo
+ministerijai ir Ryšių reguliavimo tarnybai pateikia šešių mėnesių ir
+kalendorinių metų periodinių leidinių pristatymo kaimo gyvenamųjų vietovių
+prenumeratoriams paslaugų pajamų ir sąnaudų ataskaitą ir šio straipsnio 3
+dalies 13 punkte nurodytas audito išvadas.
 6. Universaliųjų pašto paslaugų
 teikėjas, taikydamas specifinius tarifus, šiems tarifams ir su jais susijusioms
 sąlygoms taiko skaidrumo ir nediskriminavimo principus. Nustatant tokius
 tarifus, turi būti įvertintos nepatirtos sąnaudos, palyginti su įprastai
 teikiamomis pašto paslaugomis. Tarifai turi būti vienodi visiems panašiomis
 sąlygomis siunčiantiems naudotojams.
-7. Valstybės įmonė Lietuvos paštas gali
-turėti antspaudą su Lietuvos valstybės herbu ir savo pavadinimu. Valstybės
-herbą taip pat gali naudoti iškabose, pašto ženkluose, dokumentų blankuose.
+7. (Neteko galios nuo 2012-01-01).
 Straipsnio pakeitimai:
 Nr. XI-628,
 2009-12-22, Žin., 2010, Nr. 1-33 (2010-01-05)
+Nr. XI-1819,
+2011-12-20, Žin., 2011, Nr. 161-7618 (2011-12-29)
  
 9
 straipsnis. Rezervuotosios pašto paslaugos 
@@ -619,8 +664,9 @@ dėl ginčo per 30 dienų nuo jo priėmimo dienos gali būti skundžiamas teismu
 nustatyta tvarka.
  
 12
-straipsnis. Pašto ir pasiuntinių paslaugų teikėjų atsakomybė ir žalos
-atlyginimas 
+straipsnis. Pašto ir pasiuntinių paslaugų teikėjų atsakomybė ir žalos 
+                        atlyginimas
+
 1.
 Siuntėjas dėl žalos atlyginimo už dingusią pašto siuntą, dingusius, trūkstamus
 ar apgadintus siųstus daiktus pretenziją gali pareikšti pašto paslaugų teikėjui
@@ -735,8 +781,8 @@ paslaugų teikėjas per šio straipsnio 1 dalyje nurodytą terminą pažeidimų
 nepašalina, Ryšių reguliavimo tarnyba inicijuoja ekonominių sankcijų skyrimo
 procedūrą.
 Įstatymas papildytas straipsniu:
-Nr. XI-1216,
-2010-12-09, Žin., 2010, Nr. 153-7785 (2010-12-28)
+Nr. XI-1216, 2010-12-09,
+Žin., 2010, Nr. 153-7785 (2010-12-28)
  
 14 straipsnis.
 Ekonominės sankcijos
@@ -836,8 +882,8 @@ savo paaiškinimus pateikti Ryšių reguliavimo tarnybos direktoriaus arba jo
 įgalioto asmens iniciatyva ar pašto ir (ar) pasiuntinių paslaugų teikėjo,
 kuriam inicijuota ekonominės sankcijos skyrimo procedūra, prašymu kviečiami
 kiti asmenys (liudytojai, ekspertai, specialistai). Ryšių reguliavimo tarnybos
-direktorius arba jo įgaliotas asmuo turi teisę atsisakyti tenkinti pašto ir
-(ar) pasiuntinių paslaugų teikėjo prašymą kviesti kitus asmenis (liudytojus,
+direktorius arba jo įgaliotas asmuo turi teisę atsisakyti tenkinti pašto ir (ar)
+pasiuntinių paslaugų teikėjo prašymą kviesti kitus asmenis (liudytojus,
 ekspertus, specialistus) į posėdį dėl pašto ir (ar) pasiuntinių paslaugų
 teikėjo padaryto pažeidimo nagrinėjimo, jeigu toks prašymas yra nepagrįstas
 arba jo tenkinimas užvilkintų pašto ir (ar) pasiuntinių paslaugų teikėjui
@@ -862,8 +908,8 @@ tarnybos direktorių ar jo įgaliotą asmenį apie vertimo būtinybę, nurodydam
 kokios kalbos vertėjas bus reikalingas. Tokiu atveju Ryšių reguliavimo tarnybos
 direktorius ar jo įgaliotas asmuo kviečia į posėdį vertėją. Asmuo, šioje dalyje
 nustatyta tvarka neinformavęs Ryšių reguliavimo tarnybos direktoriaus ar jo
-įgalioto asmens apie vertėjo būtinybę, vertėją kviečia savo iniciatyva ir už vertėjo
-suteiktas paslaugas sumoka iš savo lėšų.
+įgalioto asmens apie vertėjo būtinybę, vertėją kviečia savo iniciatyva ir už
+vertėjo suteiktas paslaugas sumoka iš savo lėšų.
 8. Ryšių reguliavimo tarnybos
 direktorius ar jo įgaliotas asmuo posėdžio metu turi teisę atidėti posėdį, kai
 negalima nagrinėti pašto ir (ar) pasiuntinių paslaugų teikėjo padaryto
@@ -889,12 +935,12 @@ direktoriaus ar jo įgalioto asmens iniciatyva ar posėdžio dalyvių prašymu.
 pasiuntinių paslaugų teikėjo padaryto pažeidimo nagrinėjimo metu rašomas
 protokolas. Ryšių reguliavimo tarnybos direktorius ar jo įgaliotas asmuo ir
 posėdžio sekretorius ne vėliau kaip per 3 darbo dienas po posėdžio dėl pašto ir
-(ar) pasiuntinių paslaugų teikėjo padaryto pažeidimo nagrinėjimo pasirašo posėdžio
-protokolą. Posėdžio sekretorius posėdžio protokolą per vieną darbo dieną nuo
-posėdžio protokolo pasirašymo dienos išsiunčia pašto ir (ar) pasiuntinių
-paslaugų teikėjui, kuriam inicijuota ekonominės sankcijos skyrimo procedūra, o
-šis turi teisę per 5 darbo dienas nuo posėdžio protokolo gavimo dienos
-pareikšti pastabas raštu ir prašyti patikslinti protokolą.
+(ar) pasiuntinių paslaugų teikėjo padaryto pažeidimo nagrinėjimo pasirašo
+posėdžio protokolą. Posėdžio sekretorius posėdžio protokolą per vieną darbo
+dieną nuo posėdžio protokolo pasirašymo dienos išsiunčia pašto ir (ar)
+pasiuntinių paslaugų teikėjui, kuriam inicijuota ekonominės sankcijos skyrimo
+procedūra, o šis turi teisę per 5 darbo dienas nuo posėdžio protokolo gavimo
+dienos pareikšti pastabas raštu ir prašyti patikslinti protokolą.
 12. Pašto ir (ar) pasiuntinių paslaugų
 teikėjas, kuriam inicijuota ekonominės sankcijos skyrimo procedūra ar yra
 paskirta ekonominė sankcija, ir kiti suinteresuoti asmenys, nurodyti šio
@@ -974,14 +1020,13 @@ teikėjui dėl pažeidimo tekusių pajamų dydį;
 paslaugų teikėjo įtaką pažeidimo padarymui, kai pažeidimą padaro keli pašto ir
 (ar) pasiuntinių paslaugų teikėjai.
 2. Konkretus ekonominės sankcijos dydis
-nustatomas pagal šio Įstatymo 
-14 straipsnio 1–4 dalyse nustatytus ekonominės sankcijos dydžius, įvertinus
-aplinkybes, nurodytas šio straipsnio 1 dalyje. Jeigu yra atsakomybę
-lengvinančių aplinkybių, ekonominės sankcijos dydis mažinamas nuo vidurkio iki
-minimumo, o jeigu yra atsakomybę sunkinančių aplinkybių, ekonominės sankcijos
-dydis didinamas nuo vidurkio iki maksimumo. Jeigu yra atsakomybę lengvinančių
-ir sunkinančių aplinkybių, ekonominės sankcijos dydis nustatomas atsižvelgiant
-į jų kiekį ir reikšmingumą.
+nustatomas pagal šio Įstatymo 14 straipsnio 1–4 dalyse nustatytus ekonominės
+sankcijos dydžius, įvertinus aplinkybes, nurodytas šio straipsnio 1 dalyje.
+Jeigu yra atsakomybę lengvinančių aplinkybių, ekonominės sankcijos dydis
+mažinamas nuo vidurkio iki minimumo, o jeigu yra atsakomybę sunkinančių
+aplinkybių, ekonominės sankcijos dydis didinamas nuo vidurkio iki maksimumo.
+Jeigu yra atsakomybę lengvinančių ir sunkinančių aplinkybių, ekonominės
+sankcijos dydis nustatomas atsižvelgiant į jų kiekį ir reikšmingumą.
 3. Bendrosios metinės pajamos, nurodytos
 šio Įstatymo 14 straipsnio 1 ir 2 dalyse, nustatomos pagal pašto ir (ar)
 pasiuntinių paslaugų teikėjo, kuriam skiriama ekonominė sankcija, bendrąsias
@@ -989,9 +1034,8 @@ metines pajamas, gautas per praėjusius ataskaitinius metus iš pašto ir (ar)
 pasiuntinių paslaugų teikimo veiklos. Tuo atveju, jeigu nėra galimybės
 apskaičiuoti bendrųjų metinių pajamų, gautų praėjusiais ataskaitiniais metais
 (pašto ir (ar) pasiuntinių paslaugų teikėjas neteikė pašto ir (ar) pasiuntinių
-paslaugų praėjusiais ataskaitiniais metais ir panašiai), skaičiuojamos
-einamaisiais metais iš pašto ir (ar) pasiuntinių paslaugų teikimo veiklos
-gautos pajamos.
+paslaugų praėjusiais ataskaitiniais metais ir panašiai), skaičiuojamos einamaisiais
+metais iš pašto ir (ar) pasiuntinių paslaugų teikimo veiklos gautos pajamos.
 4. Nustatant pažeidimu pašto ir (ar)
 pasiuntinių paslaugų teikėjams, naudotojams ir (ar) kitiems asmenims padarytos
 žalos dydį, atsižvelgiama į pažeidimo sukeltas pasekmes (kai tai įmanoma
@@ -1015,8 +1059,8 @@ reguliavimo tarnybai pažeidimo tyrimo metu, atlygino nuostolius ar pašalino
 padarytą žalą.
 8. Atsakomybę sunkinančiomis
 aplinkybėmis laikoma tai, kad pašto ir (ar) pasiuntinių paslaugų teikėjai
-kliudė vykdyti tyrimą, slėpė padarytą pažeidimą, tęsė pažeidimą nepaisydami Ryšių
-reguliavimo tarnybos įpareigojimo pašalinti pažeidimą.
+kliudė vykdyti tyrimą, slėpė padarytą pažeidimą, tęsė pažeidimą nepaisydami
+Ryšių reguliavimo tarnybos įpareigojimo pašalinti pažeidimą.
 Įstatymas papildytas straipsniu:
 Nr. XI-1216,
 2010-12-09, Žin., 2010, Nr. 153-7785 (2010-12-28)
@@ -1095,8 +1139,8 @@ PAŠTO
 Nauja įstatymo redakcija
 Šis
 Įstatymas, išskyrus 2 straipsnį, įsigalioja nuo 2004 m. gegužės 1 d.
-Iki šio Įstatymo įsigaliojimo pašto
-bei pasiuntinių paslaugų teikėjams išduoti leidimai galioja tiek, kiek
+Iki šio Įstatymo įsigaliojimo
+pašto bei pasiuntinių paslaugų teikėjams išduoti leidimai galioja tiek, kiek
 neprieštarauja šio Įstatymo nuostatoms.
  
 3.
@@ -1116,10 +1160,20 @@ STRAIPSNIO PAKEITIMO IR ĮSTATYMO PAPILDYMO 13, 14, 15, 16, 17 STRAIPSNIAIS
 Šis įstatymas, išskyrus 8 straipsnį,
 įsigalioja 2011 m. sausio 1 d.
  
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1819,
+2011-12-20, Žin., 2011, Nr. 161-7618 (2011-12-29)
+PAŠTO ĮSTATYMO 2, 3, 8 STRAIPSNIŲ
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis įstatymas, išskyrus šio straipsnio 2
+dalį, įsigalioja 2012 m. sausio 1 d.
+ 
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2010-12-28)
-         
-        autrap@lrs.lt
+(2011-12-30)
+                 
+ausrine.trapinskiene@lrs.lt
