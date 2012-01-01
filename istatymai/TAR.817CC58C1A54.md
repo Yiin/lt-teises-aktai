@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.817CC58C1A54"
 
 # Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymas
 
-Suvestinė redakcija nuo 2010-03-01 iki 2011-12-31
+Suvestinė redakcija nuo 2012-01-01 iki 2021-01-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3890; Žin. 2002, Nr.93-0; Žin. 2009, Nr.86-3637, i. k. 1021010ISTA0IX-1067
  
@@ -380,7 +380,10 @@ Nr. XI-594, 2009-12-22, Žin., 2009, Nr. 154-6959 (2009-12-28), i. k. 1091010IST
 
 
 
-3. Prieigos prie viešųjų kompiuterių tinklų (interneto) paslaugas teikiantys asmenys privalo užtikrinti Informacinės visuomenės plėtros komiteto prie Lietuvos Respublikos Vyriausybės (toliau – Informacinės visuomenės plėtros komitetas) aprobuotų žalingo interneto turinio, darančio neigiamą poveikį nepilnamečiams, filtravimo priemonių įdiegimą ir veikimą. Informacinės visuomenės plėtros komiteto teikimu Vyriausybė nustato prieigos prie viešųjų kompiuterių tinklų (interneto) vietose privalomų filtravimo priemonių naudojimo tvarką.
+3. Prieigos prie viešųjų kompiuterių tinklų (interneto) paslaugas teikiantys asmenys privalo užtikrinti Lietuvos Respublikos ryšių reguliavimo tarnybos (toliau – Ryšių reguliavimo tarnyba) aprobuotų žalingo interneto turinio, darančio neigiamą poveikį nepilnamečiams, filtravimo priemonių įdiegimą ir veikimą. Ryšių reguliavimo tarnybos teikimu Vyriausybė nustato prieigos prie viešųjų kompiuterių tinklų (interneto) vietose privalomų filtravimo priemonių naudojimo tvarką. Ryšių reguliavimo tarnyba atsakinga už šios dalies nuostatų įgyvendinimo priežiūrą. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1624, 2011-10-21, Žin., 2011, Nr. 132-6277 (2011-11-05), i. k. 1111010ISTA0XI-1624
+ 
 
 
 
@@ -565,7 +568,10 @@ Nr. XI-594, 2009-12-22, Žin., 2009, Nr. 154-6959 (2009-12-28), i. k. 1091010IST
 
 
 
-7) Informacinės visuomenės plėtros komitetas;
+7) Ryšių reguliavimo tarnyba; 
+Straipsnio punkto pakeitimai:
+Nr. XI-1624, 2011-10-21, Žin., 2011, Nr. 132-6277 (2011-11-05), i. k. 1111010ISTA0XI-1624
+ 
 
 
 
@@ -648,3 +654,8 @@ Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-594, 2009-12-22, Žin., 2009, Nr. 154-6959 (2009-12-28), i. k. 1091010ISTA00XI-594
 Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo 1, 2, 3, 4, 5, 7, 9 straipsnių pakeitimo ir papildymo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1624, 2011-10-21, Žin., 2011, Nr. 132-6277 (2011-11-05), i. k. 1111010ISTA0XI-1624
+Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo 7 ir 9 straipsnių pakeitimo įstatymas
