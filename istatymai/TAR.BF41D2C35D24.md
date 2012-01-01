@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BF41D2C35D24"
 
 # Lietuvos Respublikos kelių įstatymas
 
-Suvestinė redakcija nuo 2008-12-01 iki 2011-12-31
+Suvestinė redakcija nuo 2012-01-01 iki 2014-08-01
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1076, i. k. 0951010ISTA000I-891
  
@@ -223,7 +223,10 @@ Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010IST
 
 
 
-2. Kelių priežiūros ir plėtros valstybės politiką vykdo bei valstybinės reikšmės kelių programas rengia Susisiekimo ministerija.
+2. Susisiekimo ministerija formuoja kelių priežiūros ir plėtros valstybės politiką, organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą, tvirtina valstybinės reikšmės kelių plėtros, modernizavimo ir veiklos užtikrinimo programas, Lietuvos kelių projektavimo normatyvinius dokumentus. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1634, 2011-11-08, Žin., 2011, Nr. 141-6615 (2011-11-22), i. k. 1111010ISTA0XI-1634
+ 
 
 
 
@@ -231,7 +234,10 @@ Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010IST
 3. Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos:
 
 
-1) Susisiekimo ministerijos įgaliota atlieka valstybinės reikšmės kelius prižiūrinčių valstybės įmonių steigėjos funkcijas;
+1) Neteko galios nuo 2012-01-01
+Straipsnio punkto naikinimas:
+Nr. XI-1634, 2011-11-08, Žin. 2011, Nr. 141-6615 (2011-11-22), i. k. 1111010ISTA0XI-1634
+ 
 
 
 
@@ -263,17 +269,53 @@ Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010IST
 
 
 
-5. Kelių projektavimo, tiesimo, statybos, rekonstravimo ir taisymo (remonto) darbai vykdomi Viešųjų pirkimų įstatymo ir kitų teisės aktų nustatyta tvarka. Keliai gali būti tiesiami ar rekonstruojami koncesiniais pagrindais.
+5. Susisiekimo ministerijos įgaliota viešoji įstaiga, kurios vienintelis dalininkas arba savininkas yra valstybė, atlieka kelių tiesimo, statybos, rekonstrukcijos, taisymo (remonto) ir priežiūros darbams planuoti, projektuoti ir atliktų darbų kokybei įvertinti reikalingas funkcijas:
+
+
+1) atlieka valstybinės reikšmės kelių būklės ir eismo tyrimus, renka, inventorizuoja ir analizuoja duomenis apie valstybinės reikšmės kelius ir teikia pasiūlymus dėl valstybinės reikšmės kelių plėtros, modernizavimo ir veiklos užtikrinimo programų rengimo; 
 
 
 
 
-6. Gatvių, kurios nėra valstybinės reikšmės kelių tąsa, projektavimo, tiesimo, rekonstravimo, taisymo (remonto) ir priežiūros darbus organizuoja ir užsakovo funkcijas atlieka savivaldybės. Gatvių, kurios yra valstybinės reikšmės kelių tąsa, projektavimo, tiesimo, rekonstravimo, taisymo (remonto) ir priežiūros darbų tvarką nustato Vyriausybė.
+2) atlieka planuojamų valstybinės reikšmės kelių tiesimo, statybos ir rekonstrukcijos projektų analizę techniniu, ekonominiu ir aplinkos apsaugos požiūriais;
 
 
 
 
-7. Geležinkelių pervažų įrengimą ir priežiūrą reglamentuoja Geležinkelio transporto kodeksas.
+3) vykdo atliktų kelių tiesimo, statybos, rekonstrukcijos, taisymo (remonto) ir priežiūros darbų, kurie finansuojami valstybės biudžeto lėšomis, kokybės kontrolinius patikrinimus ir techninę, ekonominę ir aplinkos apsaugos stebėseną;
+
+
+
+
+4) atlieka valstybinės reikšmės kelių saugos patikrinimus, kelių infrastruktūros saugos valdymą, eismo įvykių ir avaringų vietų analizę ir stebėseną, nustato kelių saugos lygius ir teikia pasiūlymus dėl valstybinės eismo saugumo programos rengimo. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XI-1634, 2011-11-08, Žin., 2011, Nr. 141-6615 (2011-11-22), i. k. 1111010ISTA0XI-1634
+ 
+
+
+
+
+6. Kelių projektavimo, tiesimo, statybos, rekonstravimo ir taisymo (remonto) darbai vykdomi Viešųjų pirkimų įstatymo ir kitų teisės aktų nustatyta tvarka. Keliai gali būti tiesiami ar rekonstruojami koncesiniais pagrindais.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1634, 2011-11-08, Žin., 2011, Nr. 141-6615 (2011-11-22), i. k. 1111010ISTA0XI-1634
+ 
+
+
+
+
+7. Gatvių, kurios nėra valstybinės reikšmės kelių tąsa, projektavimo, tiesimo, rekonstravimo, taisymo (remonto) ir priežiūros darbus organizuoja ir užsakovo funkcijas atlieka savivaldybės. Gatvių, kurios yra valstybinės reikšmės kelių tąsa, projektavimo, tiesimo, rekonstravimo, taisymo (remonto) ir priežiūros darbų tvarką nustato Vyriausybė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1634, 2011-11-08, Žin., 2011, Nr. 141-6615 (2011-11-22), i. k. 1111010ISTA0XI-1634
+ 
+
+
+
+
+8. Geležinkelių pervažų įrengimą ir priežiūrą reglamentuoja Geležinkelio transporto kodeksas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1634, 2011-11-08, Žin., 2011, Nr. 141-6615 (2011-11-22), i. k. 1111010ISTA0XI-1634
  
 
 
@@ -312,13 +354,15 @@ Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010IST
 
 
 
-7 straipsnis. Kelių duomenų bankai
+7 straipsnis. Kelių informacinės sistemos
 
 
-Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos renka, inventorizuoja, tvarko ir saugo duomenis apie valstybinės reikšmės kelius, o savivaldybės – apie vietinės reikšmės kelius. Jos tvirtina kelių duomenų bankų nuostatus apie duomenų objektus, tvarkymą, saugojimą ir kita, disponuoja šių duomenų bankais ir neatlygintinai teikia reikalingus duomenis valstybės kadastrams, registrams, klasifikatoriams bei duomenų bankams, taip pat turi teisę nemokamai gauti iš jų reikalingą informaciją apie kelius.
+Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos valdo valstybinės reikšmės kelių informacinę sistemą, renka, sistemina ir saugo joje duomenis apie valstybinės reikšmės kelius. Savivaldybės renka, tvarko ir saugo duomenis apie vietinės reikšmės kelius atitinkamose vietinės reikšmės kelių informacinėse sistemose ir valdo šias sistemas. Šių sistemų valdytojai disponuoja duomenimis ir neatlygintinai teikia reikalingus duomenis valstybės kadastrams, registrams, klasifikatoriams ir duomenų bankams, taip pat turi teisę neatlygintinai gauti iš jų reikalingą informaciją apie kelius.
+
+
+Straipsnio pakeitimai:
+Nr. XI-1634, 2011-11-08, Žin., 2011, Nr. 141-6615 (2011-11-22), i. k. 1111010ISTA0XI-1634
  
-
-
 
 
 
@@ -786,3 +830,8 @@ Lietuvos Respublikos kelių įstatymo pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010ISTA00X-1769
 Lietuvos Respublikos kelių įstatymo 2, 13, 19, 21 straipsnių pakeitimo ir papildymo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1634, 2011-11-08, Žin., 2011, Nr. 141-6615 (2011-11-22), i. k. 1111010ISTA0XI-1634
+Lietuvos Respublikos kelių įstatymo 5, 7 straipsnių pakeitimo ir papildymo įstatymas
