@@ -16,6 +16,8 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 Įstatymas skelbtas: Žin., 1998, Nr. 54-1492
 Neoficialus įstatymo tekstas
  
+Aktuali redakcija nuo 2012-01-01
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBĖS IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO
 ĮSTATYMAS
@@ -67,10 +69,10 @@ valstybės ar savivaldybės įmonės, įstaigos, organizacijos teisė savo įsta
 (nuostatuose), taip pat valstybės ar savivaldybės įmonių, įstaigų, organizacijų
 veiklą reglamentuojančiuose norminiuose aktuose nustatyta tvarka bei sąlygomis
 valdyti, naudoti valstybės ar savivaldybių perduotą turtą ir disponuoti juo
-nepažeidžiant įstatymų ir kitų asmenų teisių bei interesų. Kiti juridiniai
-asmenys valstybės ar savivaldybės jiems patikėjimo teise perduotą turtą valdo,
-naudoja ir disponuoja juo tiek ir tokia tvarka bei sąlygomis, kaip nustatyta
-šio Įstatymo 9 ar 11 straipsniuose bei turto patikėjimo sutartyje.
+nepažeidžiant įstatymų ir kitų asmenų teisių bei interesų. Kiti juridiniai asmenys
+valstybės ar savivaldybės jiems patikėjimo teise perduotą turtą valdo, naudoja
+ir disponuoja juo tiek ir tokia tvarka bei sąlygomis, kaip nustatyta šio
+Įstatymo 9 ar 11 straipsniuose bei turto patikėjimo sutartyje.
 8. Turto
 valdytojas – valstybės ar savivaldybių institucijos, Lietuvos bankas,
 valstybės ar savivaldybės įmonė, įstaiga ar organizacija ir šio Įstatymo 9 bei
@@ -122,10 +124,10 @@ kilnojamosios ir nekilnojamosios kultūros vertybės ir paminklai, jei bet koks
 šiame punkte išvardytas turtas valstybei nuosavybės teise priklauso įstatymų
 nustatyta tvarka;
 3) Lietuvos
-bankui, valstybės institucijoms, valstybės įmonėms, įstaigoms bei
-organizacijoms, savivaldybėms ir šio Įstatymo 9 straipsnyje nustatytais
-atvejais kitiems juridiniams asmenims patikėjimo teise perduoti pastatai ar jų
-dalys, statiniai ar įrenginiai;
+bankui, valstybės institucijoms, valstybės įmonėms, įstaigoms bei organizacijoms,
+savivaldybėms ir šio Įstatymo 9 straipsnyje nustatytais atvejais kitiems
+juridiniams asmenims patikėjimo teise perduoti pastatai ar jų dalys, statiniai
+ar įrenginiai;
 4) kitas
 ilgalaikis materialusis turtas.
 3. Valstybės
@@ -275,8 +277,8 @@ sprendimą perimdama bešeimininkį turtą;
 įstatymų nustatytais būdais.
 Straipsnio pakeitimai:
 Nr.
-X-771, 2006-07-18,
-Žin., 2006, Nr. 87-3397 (2006-08-08)
+X-771,
+2006-07-18, Žin., 2006, Nr. 87-3397 (2006-08-08)
  
 TREČIASIS
 SKIRSNIS
@@ -302,11 +304,11 @@ ir kitais teisės aktais;
 4) šio Įstatymo
 9 straipsnyje nustatytais atvejais kiti juridiniai asmenys – pagal turto
 patikėjimo sutartį.
-3. Subjektų,
-valdančių, naudojančių valstybės turtą ir disponuojančių juo, teises ir
-pareigas nustato įstatymai, Vyriausybės nutarimai, šių subjektų įstatai
-(nuostatai) ir šio Įstatymo 9 straipsnio 4 dalyje nustatytais atvejais – turto
-patikėjimo sutartis.
+3. Subjektų, valdančių,
+naudojančių valstybės turtą ir disponuojančių juo, teises ir pareigas nustato
+įstatymai, Vyriausybės nutarimai, šių subjektų įstatai (nuostatai) ir šio
+Įstatymo 9 straipsnio 4 dalyje nustatytais atvejais – turto patikėjimo
+sutartis.
 Straipsnio pakeitimai:
 Nr.
 X-771,
@@ -353,8 +355,8 @@ tik teisės aktų, reglamentuojančių disponavimą valstybės ir (ar) savivaldy
 turtu, nustatytais atvejais ir būdais.
 Įstatymas papildytas straipsniu:
 Nr.
-X-771, 2006-07-18,
-Žin., 2006, Nr. 87-3397 (2006-08-08)
+X-771,
+2006-07-18, Žin., 2006, Nr. 87-3397 (2006-08-08)
  
 9
 straipsnis. Valstybės turto valdymas, naudojimas ir disponavimas juo patikėjimo
@@ -385,22 +387,23 @@ pagal turto patikėjimo sutartį tik tais atvejais, kai įstatymai jiems priskir
 valstybines funkcijas. Sprendimą dėl turto perdavimo patikėjimo teise kitiems
 juridiniams asmenims priima Vyriausybė. Tokiame sprendime turi būti nurodyta
 valstybės institucija ar įstaiga, įgaliota sudaryti turto patikėjimo sutartį.
-Kiti juridiniai asmenys, kuriems valstybės turtas perduotas pagal turto patikėjimo
-sutartį, negali šio turto perduoti nuosavybės teise kitiems asmenims, jo
-įkeisti ar kitaip suvaržyti daiktines teises į jį, juo garantuoti, laiduoti ar
-kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą, jo išnuomoti,
-suteikti panaudos pagrindais ar perduoti jį kitiems asmenims naudotis kitu
-būdu. Šis turtas gali būti naudojamas tik įstatymų jiems priskirtoms funkcijoms
-įgyvendinti. Turto patikėjimo sutartyje gali būti nustatyta ir kitų apribojimų.
-Turto patikėjimo sutartis pasibaigia Civilinio kodekso nustatytais atvejais.
-Sutartį sudariusi institucija ar įstaiga privalo atsisakyti patikėjimo
-sutarties remdamasi Civilinio kodekso 6.967 straipsnio 1 dalies 5 punktu, jei
-juridinis asmuo (patikėtinis) nebegali įgyvendinti (ar atsisako) valstybinių
-funkcijų, kurioms įgyvendinti pagal patikėjimo sutartį buvo perduotas turtas.
-Valstybės institucija ar įstaiga, sudariusi turto patikėjimo sutartį, privalo
-prižiūrėti, kad sutartis būtų tinkamai vykdoma. Pasibaigus turto patikėjimo
-sutarčiai, turtą patikėjimo teise valdo, naudoja ir disponuoja juo sutartį
-pasirašiusi valstybės institucija ar įstaiga, jei Vyriausybė nenustato kitaip.
+Kiti juridiniai asmenys, kuriems valstybės turtas perduotas pagal turto
+patikėjimo sutartį, negali šio turto perduoti nuosavybės teise kitiems
+asmenims, jo įkeisti ar kitaip suvaržyti daiktines teises į jį, juo garantuoti,
+laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą, jo
+išnuomoti, suteikti panaudos pagrindais ar perduoti jį kitiems asmenims
+naudotis kitu būdu. Šis turtas gali būti naudojamas tik įstatymų jiems
+priskirtoms funkcijoms įgyvendinti. Turto patikėjimo sutartyje gali būti
+nustatyta ir kitų apribojimų. Turto patikėjimo sutartis pasibaigia Civilinio
+kodekso nustatytais atvejais. Sutartį sudariusi institucija ar įstaiga privalo
+atsisakyti patikėjimo sutarties remdamasi Civilinio kodekso 6.967 straipsnio 1
+dalies 5 punktu, jei juridinis asmuo (patikėtinis) nebegali įgyvendinti (ar
+atsisako) valstybinių funkcijų, kurioms įgyvendinti pagal patikėjimo sutartį
+buvo perduotas turtas. Valstybės institucija ar įstaiga, sudariusi turto
+patikėjimo sutartį, privalo prižiūrėti, kad sutartis būtų tinkamai vykdoma.
+Pasibaigus turto patikėjimo sutarčiai, turtą patikėjimo teise valdo, naudoja ir
+disponuoja juo sutartį pasirašiusi valstybės institucija ar įstaiga, jei
+Vyriausybė nenustato kitaip.
 5. Patikėjimo
 teisė į perduodamą valstybės turtą atsiranda nuo turto perdavimo patikėjimo
 teisės subjektui (patikėtiniui) ir turto perdavimo–priėmimo akto pasirašymo.
@@ -456,8 +459,8 @@ išnuomoti, suteikti panaudos pagrindais ar perduoti jį kitiems asmenims
 naudotis kitu būdu. Šis turtas gali būti naudojamas tik savivaldybių funkcijoms
 įgyvendinti. Turto patikėjimo sutartyje gali būti nustatyta ir kitų apribojimų.
 Savivaldybės institucija ar įstaiga, sudariusi turto patikėjimo sutartį,
-privalo prižiūrėti, kad sutartis būtų tinkamai vykdoma. Turto patikėjimo sutartis
-pasibaigia Civilinio kodekso nustatytais atvejais. Sutartį sudariusi
+privalo prižiūrėti, kad sutartis būtų tinkamai vykdoma. Turto patikėjimo
+sutartis pasibaigia Civilinio kodekso nustatytais atvejais. Sutartį sudariusi
 savivaldybės institucija ar įstaiga privalo atsisakyti patikėjimo sutarties
 remdamasi Civilinio kodekso 6.967 straipsnio 1 dalies 5 punktu, jei juridinis
 asmuo (patikėtinis) nebegali (ar atsisako) įgyvendinti savivaldybių funkcijų,
@@ -517,8 +520,8 @@ nurodytos kitos panaudos sąlygos. Šios sąlygos privalo būti įrašytos į pa
 sutartį. Vyriausybės įgaliota institucija sprendimus priima Vyriausybės
 nustatyta tvarka. Savivaldybės tarybos įgaliota institucija sprendimus priima
 savivaldybės tarybos nustatyta tvarka. Valstybės ar savivaldybės turto panaudos
-sutartį sudaro valstybės ar savivaldybės turto valdytojas, valdantis valstybės
-ar savivaldybės turtą patikėjimo teise. 
+sutartį sudaro valstybės ar savivaldybės turto valdytojas, valdantis valstybės ar
+savivaldybės turtą patikėjimo teise. 
 3. Valstybės ar
 savivaldybės turto panaudos sutartyje turi būti nustatyta pagal panaudos
 sutartį perduodamo turto naudojimo paskirtis, panaudos gavėjo pareiga savo
@@ -542,8 +545,8 @@ IX-2252,
 Nr. IX-2543,
 2004-11-04, Žin., 2004, Nr. 168-6175 (2004-11-20)
 Nr.
-X-771,
-2006-07-18, Žin., 2006, Nr. 87-3397 (2006-08-08)
+X-771, 2006-07-18,
+Žin., 2006, Nr. 87-3397 (2006-08-08)
  
 14 straipsnis.
 Valstybės ir savivaldybių materialiojo turto nuoma
@@ -687,15 +690,15 @@ valstybės nekilnojamojo turto atnaujinimo organizatoriui perduodantis
 nekilnojamąjį turtą patikėjimo teise (jeigu reikalinga), šiuo ar kitu
 suteikiamu valstybės funkcijoms įgyvendinti reikalingu nekilnojamuoju turtu
 naudosis panaudos teisėmis tol, kol atnaujintas nekilnojamasis turtas jam bus
-perduotas patikėjimo teise; taip pat panaudos gavėjo pareiga apdrausti nekilnojamąjį
-turtą ir aptartos kitos panaudos sąlygos ir tvarka;
+perduotas patikėjimo teise; taip pat panaudos gavėjo pareiga apdrausti
+nekilnojamąjį turtą ir aptartos kitos panaudos sąlygos ir tvarka;
 2) valstybės nekilnojamojo turto
 atnaujinimo organizatoriui perduodamo valstybės nekilnojamojo turto atnaujinimo
 terminai;
-3) valstybės nekilnojamojo turto
-atnaujinimo organizatoriaus veiksmai atnaujinant perduotą valstybės
-nekilnojamąjį turtą, kaip susitarimo šalys pasiskirsto funkcijas atnaujinant
-valstybės nekilnojamąjį turtą;
+3) valstybės nekilnojamojo turto atnaujinimo
+organizatoriaus veiksmai atnaujinant perduotą valstybės nekilnojamąjį turtą,
+kaip susitarimo šalys pasiskirsto funkcijas atnaujinant valstybės nekilnojamąjį
+turtą;
 4) kiek tikslinės paskirties, skolintų
 lėšų susitarimo šalys įdės įgyvendindamos valstybės nekilnojamojo turto
 atnaujinimo investicinį projektą;
@@ -961,10 +964,9 @@ priimti reikalinga informacija;
 atitinka Lietuvos Respublikos teisės aktų reikalavimus ir atrenkama viešo
 konkurso būdu;
 6) investicinio fondo valdymo įmonė yra
-privatus juridinis asmuo, kurio vadovai turi Vertybinių popierių komisijos
-patvirtintą investavimo patirtį.
-Straipsnis
-papildomas 6 dalimi nuo 2011 m. balandžio 1 d.:
+privatus juridinis asmuo, kurio vadovai yra nepriekaištingos reputacijos ir
+turi kvalifikaciją bei patirtį, atitinkančią Lietuvos Respublikos kolektyvinio
+investavimo subjektų įstatymo reikalavimus.
 6. Asmuo,
 įsigyjantis steigiamos akcinės bendrovės ar uždarosios akcinės bendrovės, kurią
 steigiant dalyvauja valstybė ar savivaldybė, akcijų, atrenkamas viešo konkurso
@@ -986,13 +988,13 @@ uždarosios akcinės bendrovės veiklos tęstinumo sąlygos, tarp kurių turi b�
 nustatytos valstybės ar savivaldybės, kaip akcininkės, dalyvavimo bendrovės
 veikloje sąlygos.
 Straipsnio pakeitimai:
-Nr. IX-1586, 2003-05-27,
-Žin., 2003, Nr. 57-2534 (2003-06-13)
+Nr. IX-1586,
+2003-05-27, Žin., 2003, Nr. 57-2534 (2003-06-13)
 Nr.
 X-771,
 2006-07-18, Žin., 2006, Nr. 87-3397 (2006-08-08)
-Nr. X-1440, 2008-01-29,
-Žin., 2008, Nr. 19-673 (2008-02-14)
+Nr. X-1440,
+2008-01-29, Žin., 2008, Nr. 19-673 (2008-02-14)
 Lietuvos Respublikos Konstitucinis
 Teismas, Nutarimas
 2009-03-02, Žin., 2009, Nr. 25-988 (2009-03-05)
@@ -1002,6 +1004,8 @@ XI-374,
 Nr.
 XI-1258,
 2010-12-23, Žin., 2010, Nr. 158-8020 (2010-12-31)
+Nr. XI-1701,
+2011-11-17, Žin., 2011, Nr. 146-6847 (2011-12-01)
  
 191 straipsnis. Valstybės ir savivaldybių
 turtinių ir neturtinių juridinio asmens dalyvio teisių atstovavimas
@@ -1091,9 +1095,9 @@ statyti naujus statinius arba rekonstruoti esamus statinius ar teritorijas. Ši
 nuostata taikoma tik nekilnojamiesiems daiktams, išskyrus nekilnojamąsias
 kultūros vertybes, nustatyta tvarka suderinus naujos statybos ar rekonstravimo
 projektą;
-8) jis nereikalingas
-valstybės ar savivaldybės funkcijoms įgyvendinti ir (ar) nelieka kur jį
-pritaikyti.
+8) jis
+nereikalingas valstybės ar savivaldybės funkcijoms įgyvendinti ir (ar) nelieka
+kur jį pritaikyti.
 2.
 Nematerialusis turtas, ilgalaikis ir trumpalaikis materialusis turtas gali būti
 pripažintas nereikalingu arba netinkamu (negalimu) naudoti, kai jį atnaujinti
@@ -1119,8 +1123,8 @@ Straipsnio pakeitimai:
 Nr. IX-1476,
 2003-04-03, Žin., 2003, Nr. 38-1721 (2003-04-24)
 Nr.
-X-771,
-2006-07-18, Žin., 2006, Nr. 87-3397 (2006-08-08)
+X-771, 2006-07-18,
+Žin., 2006, Nr. 87-3397 (2006-08-08)
  
 23 straipsnis. Nereikalingo arba netinkamo
 (negalimo) naudoti valstybės ir savivaldybių turto panaudojimas ir nurašymas
@@ -1135,9 +1139,9 @@ punkte nurodytą atvejį, galima šiais būdais:
 3) investuojant šio Įstatymo 19
 straipsnyje nustatytais atvejais ir tvarka;
 4) parduodant viešuose prekių
-aukcionuose (išskyrus nekilnojamuosius daiktus bei Lietuvos Respublikos
-diplomatinių atstovybių, konsulinių įstaigų ir atstovybių prie tarptautinių
-organizacijų valdomą turtą) Vyriausybės nustatyta tvarka;
+aukcionuose (išskyrus nekilnojamuosius daiktus bei Lietuvos Respublikos diplomatinių
+atstovybių, konsulinių įstaigų ir atstovybių prie tarptautinių organizacijų
+valdomą turtą) Vyriausybės nustatyta tvarka;
 5) nekilnojamuosius daiktus parduodant
 pagal Valstybės ir savivaldybių turto privatizavimo įstatymą;
 6) parduodant Lietuvos Respublikos
@@ -1155,10 +1159,10 @@ Vyriausybės ar savivaldybės tarybos nustatyta tvarka.
 (negalimo) naudoti valstybės ar savivaldybių ilgalaikio, trumpalaikio
 materialiojo turto negalima panaudoti nė vienu iš šio straipsnio 1 dalies 1–7
 punktuose nurodytų būdų, jis turi būti nurašomas ir išardomas, o
-liekamosios medžiagos įtraukiamos į apskaitą. Likusį turtą, taip pat turtą, kurio
-išardymo išlaidos viršija laukiamą liekamųjų medžiagų vertę, galima likviduoti
-pašalinus kenksmingumą, jei reikia. Likviduojamas ir nereikalingu arba
-netinkamu (negalimu) naudoti pripažintas nematerialusis turtas. Jeigu
+liekamosios medžiagos įtraukiamos į apskaitą. Likusį turtą, taip pat turtą,
+kurio išardymo išlaidos viršija laukiamą liekamųjų medžiagų vertę, galima
+likviduoti pašalinus kenksmingumą, jei reikia. Likviduojamas ir nereikalingu
+arba netinkamu (negalimu) naudoti pripažintas nematerialusis turtas. Jeigu
 nereikalingų arba netinkamų (negalimų) naudoti valstybei ar savivaldybei
 nuosavybės teise priklausančių gyvūnų negalima panaudoti šio straipsnio 1
 dalies 8 punkte nurodytu būdu, jie turi būti nurašomi šio straipsnio 6 dalyje
@@ -1170,17 +1174,17 @@ turi būti sunaikintas, kai tampa nereikalingas arba netinkamas (negalimas)
 naudoti, sąrašą sudaro naikintino turto valdytojas, t. y. paslapčių subjektais
 esančios valstybės ar savivaldybių institucijos bei jų steigiamos įmonės ir
 įstaigos, kurių veikla yra susijusi su įslaptintos informacijos naudojimu ar
-jos apsauga ir kurioms Valstybės ir tarnybos paslapčių įstatymo nustatyta tvarka
-suteikiama teisė įslaptinti bei išslaptinti informaciją, suderinusios jį su
-Lietuvos Respublikos paslapčių apsaugos koordinavimo komisija.
+jos apsauga ir kurioms Valstybės ir tarnybos paslapčių įstatymo nustatyta
+tvarka suteikiama teisė įslaptinti bei išslaptinti informaciją, suderinusios jį
+su Lietuvos Respublikos paslapčių apsaugos koordinavimo komisija.
 4. Valstybės ar savivaldybės
 institucija, įmonė, įstaiga ar organizacija, panaudojusi turtą šio straipsnio 1
 dalyje, išskyrus 1 dalies 2 punktą, nurodytais būdais, turi jį nurašyti.
 5. Šio Įstatymo 22 straipsnio 1 dalies 6
 punkte nurodytu atveju nepadengta finansinio turto (gautinų lėšų) dalis
-nurašoma įsiteisėjus prokuroro nutarimui ar ikiteisminio tyrimo teisėjo sprendimui
-dėl ikiteisminio tyrimo nutraukimo arba teismo ar teisėjo nutarimui nutraukti
-administracinio teisės pažeidimo bylą.
+nurašoma įsiteisėjus prokuroro nutarimui ar ikiteisminio tyrimo teisėjo
+sprendimui dėl ikiteisminio tyrimo nutraukimo arba teismo ar teisėjo nutarimui
+nutraukti administracinio teisės pažeidimo bylą.
 6. Valstybės ir savivaldybių turtas,
 pripažinus jį nereikalingu arba netinkamu (negalimu) naudoti, nurašomas,
 išardomas ir likviduojamas Vyriausybės nustatyta tvarka. Valstybei ar
@@ -1199,8 +1203,8 @@ institucijoms, įstaigoms ir organizacijoms.
 Straipsnio
 pakeitimai:
 Nr.
-X-771, 2006-07-18,
-Žin., 2006, Nr. 87-3397 (2006-08-08)
+X-771,
+2006-07-18, Žin., 2006, Nr. 87-3397 (2006-08-08)
 Nr.
 XI-279,
 2009-06-02, Žin., 2009, Nr. 71-2891 (2009-06-16)
@@ -1211,10 +1215,10 @@ turto
 perdavimas patikėjimo teise 23 straipsnio 1 dalies 1 punkte 
 nurodytiems
 asmenims
-1. Turto
-valdytojas Vyriausybės nustatyta tvarka perduoda patikėjimo teise nereikalingą
-arba netinkamą (negalimą) naudoti valstybės turtą 23 straipsnio 1 dalies 1
-punkte nurodytiems asmenims.
+1. Turto valdytojas
+Vyriausybės nustatyta tvarka perduoda patikėjimo teise nereikalingą arba
+netinkamą (negalimą) naudoti valstybės turtą 23 straipsnio 1 dalies 1 punkte
+nurodytiems asmenims.
 2. Nereikalingas
 arba netinkamas (negalimas) naudoti savivaldybių turtas iš vienos savivaldybės
 institucijos, įstaigos, organizacijos kitai, taip pat valstybės institucijai,
@@ -1267,8 +1271,8 @@ VALSTYBĖS IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO
  
 4.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-383, 2001-06-19, Žin., 2001, Nr. 56-1981
-(2001-06-30)
+Nr. IX-383, 2001-06-19, Žin., 2001, Nr.
+56-1981 (2001-06-30)
 VALSTYBĖS IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR
 DISPONAVIMO JUO ĮSTATYMO 25 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
@@ -1301,7 +1305,8 @@ Nr.
 IX-900,
 2002-05-23, Žin., 2002, Nr. 60-2412 (2002-06-19)
 VALSTYBĖS
-IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO PAKEITIMO
+ĮSTATYMAS
 Nauja įstatymo redakcija
 Šio
 Įstatymo 1 straipsnyje išdėstyto Valstybės ir savivaldybių turto valdymo,
@@ -1347,8 +1352,8 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1652,
-2003-06-26, Žin., 2003, Nr. 70-3165 (2003-07-16)
+IX-1652, 2003-06-26,
+Žin., 2003, Nr. 70-3165 (2003-07-16)
 VALSTYBĖS
 IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 4
 STRAIPSNIO PAKEITIMO ĮSTATYMAS
@@ -1395,8 +1400,8 @@ Nr.
 X-1440,
 2008-01-29, Žin., 2008, Nr. 19-673 (2008-02-14)
 VALSTYBĖS
-IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 19 STRAIPSNIO
-PAPILDYMO ĮSTATYMAS
+IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 19
+STRAIPSNIO PAPILDYMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja Lietuvos Respublikos kolektyvinio investavimo subjektų
 įstatymo pakeitimo įstatymo įsigaliojimo dieną, t.y. nuo 2008 m. kovo 1 d.
@@ -1450,7 +1455,17 @@ STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
 Šio
 įstatymo 2 straipsnio 1 dalis įsigalioja 2011 m. balandžio 1 d.
  
-*** Pabaiga ***
+21.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-1701,
+2011-11-17, Žin., 2011, Nr. 146-6847 (2011-12-01)
+VALSTYBĖS IR
+SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 19 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+Šis įstatymas
+įsigalioja 2012 m. sausio 1 d.
+ 
  
 Konstitucinio Teismo nutarimai:
 1.
@@ -1463,9 +1478,11 @@ LIETUVOS RESPUBLIKOS ATOMINĖS ELEKTRINĖS ĮSTATYMO 10 STRAIPSNIO 1 DALIES (200
 M. VASARIO 1 D. REDAKCIJA) NUOSTATŲ IR 11 STRAIPSNIO (2008 M. VASARIO 1 D.
 REDAKCIJA) 1 DALIES 1 PUNKTO ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
-***
-Pabaiga ***
-Redagavo
-Aušrinė Trapinskienė (2011-01-04)
+ 
+*** Pabaiga ***
+ 
+ 
+Redagavo Aušra
+Bodin (2011-12-15)
                  
-autrap@lrs.lt
+aubodi@lrs.lt
