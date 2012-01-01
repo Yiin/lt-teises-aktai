@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CF812DA6E814"
 
 # Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatymas
 
-Suvestinė redakcija nuo 2011-05-15 iki 2011-12-31
+Suvestinė redakcija nuo 2012-01-01 iki 2012-07-03
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 135-4894, i. k. 1041010ISTA0IX-2428
  
@@ -43,9 +43,15 @@ BENDROSIOS NUOSTATOS
 
 2. Auditorius – fizinis asmuo, turintis Lietuvos Respublikos audito įstatymo nustatyta tvarka suteiktą atestuoto auditoriaus vardą.
 
-3. Aukos – aukos gavėjams neatlygintinai perduoti pinigai, kilnojamieji ar nekilnojamieji daiktai, informacija, turtinės teisės, intelektinės veiklos rezultatai, taip pat kitos turtinės ir neturtinės vertybės, neatlygintinai atlikti veiksmai ir savanoriški darbai, veiksmų rezultatai, skirti politinių partijų veiklai ar savarankiško politinės kampanijos dalyvio politinei kampanijai finansuoti.
+3. Aukos – aukos gavėjams neatlygintinai perduoti pinigai, kilnojamieji ar nekilnojamieji daiktai, informacija, turtinės teisės, intelektinės veiklos rezultatai, taip pat kitos turtinės ir neturtinės vertybės, neatlygintinai atlikti veiksmai ir savanoriški darbai, veiksmų rezultatai, skirti savarankiško politinės kampanijos dalyvio politinei kampanijai finansuoti. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1777, 2011-12-06, Žin., 2011, Nr. 153-7205 (2011-12-15), i. k. 1111010ISTA0XI-1777
+ 
 
-4. Aukotojas – asmuo, šio įstatymo nustatyta tvarka turintis teisę aukoti ir suteikęs auką politinės partijos ar savarankiško politinės kampanijos dalyvio naudai.
+4. Aukotojas – asmuo, šio įstatymo nustatyta tvarka turintis teisę aukoti ir suteikęs auką savarankiško politinės kampanijos dalyvio naudai. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1777, 2011-12-06, Žin., 2011, Nr. 153-7205 (2011-12-15), i. k. 1111010ISTA0XI-1777
+ 
 
 5. Aukų lapas – dokumentas, kuriame yra technologinės apsaugos priemonių ir kuris turi gamybos metu suteiktą seriją bei numerį ir yra skirtas aukos perdavimui–priėmimui patvirtinti.
 
@@ -240,15 +246,26 @@ POLITINIŲ PARTIJŲ IR POLITINIŲ KAMPANIJŲ FINANSAVIMO ŠALTINIAI. POLITINĖS 
 
 2) valstybės biudžeto asignavimai;
 
-3) valstybės biudžeto lėšos, skiriamos pagal atskiras Lietuvos Respublikos Vyriausybės patvirtintas programas;
+3) netenka galios 2012-01-01;
+Straipsnio punkto pakeitimai:
+Nr. XI-1777, 2011-12-06, Žin., 2011, Nr. 153-7205 (2011-12-15), i. k. 1111010ISTA0XI-1777
+ 
 
 4) lėšos, politinės partijos gautos iš šio įstatymo 13 straipsnyje nurodytos kitos jos veiklos;
 
-5) pagal šį įstatymą turinčių teisę aukoti fizinių ir juridinių asmenų aukos;
+5) netenka galios 2012-01-01;
+Straipsnio punkto pakeitimai:
+Nr. XI-1777, 2011-12-06, Žin., 2011, Nr. 153-7205 (2011-12-15), i. k. 1111010ISTA0XI-1777
+ 
 
 6) Lietuvos Respublikoje registruotų bankų paskolos politinei partijai;
 
-7) palūkanos už banko sąskaitoje esančias lėšas.
+7) palūkanos už banko sąskaitoje esančias lėšas;
+
+8) nuolatinio Lietuvos gyventojo savanoriškai skiriama 1 procento dydžio sumokėto metinio pajamų mokesčio dalis. 
+Papildyta straipsnio punktu:
+Nr. XI-1777, 2011-12-06, Žin., 2011, Nr. 153-7205 (2011-12-15), i. k. 1111010ISTA0XI-1777
+ 
 
 4. Politinės partijos nario mokesčių dydžio nustatymo, mokėjimo ir naudojimo tvarka nustatoma politinės partijos įstatuose. Nario mokesčiai yra:
 
@@ -266,13 +283,19 @@ POLITINIŲ PARTIJŲ IR POLITINIŲ KAMPANIJŲ FINANSAVIMO ŠALTINIAI. POLITINĖS 
 
 1) politinės partijos lėšos, gautos iš politinės partijos finansavimo šaltinių ir naudojamos partijos, partijos iškeltų kandidatų sąrašų ir partijos iškeltų kandidatų politinėms kampanijoms finansuoti;
 
-2) politinės kampanijos laikotarpiu politinės partijos gaunamos pagal šį įstatymą turinčių teisę aukoti fizinių ir juridinių asmenų aukos politinei kampanijai;
+2) politinės kampanijos laikotarpiu politinės partijos gaunamos pagal šį įstatymą turinčių teisę aukoti fizinių asmenų aukos politinei kampanijai; 
+Straipsnio punkto pakeitimai:
+Nr. XI-1777, 2011-12-06, Žin., 2011, Nr. 153-7205 (2011-12-15), i. k. 1111010ISTA0XI-1777
+ 
 
 3) politinės kampanijos laikotarpiu politinės partijos iš Lietuvos Respublikoje registruotų bankų gaunamos paskolos;
 
 4) palūkanos už politinės kampanijos sąskaitoje esančias lėšas. 
 
-9. Politinės partijos lėšas, skirtas politinei kampanijai finansuoti, privalo laikyti politinės kampanijos sąskaitoje. 
+9. Politinės partijos lėšas, skirtas politinei kampanijai finansuoti, privalo laikyti politinės kampanijos sąskaitoje. Į politinės kampanijos sąskaitą negali būti nukreiptas jokių laikinųjų apsaugos priemonių taikymas. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1777, 2011-12-06, Žin., 2011, Nr. 153-7205 (2011-12-15), i. k. 1111010ISTA0XI-1777
+ 
 
 10. Garanto įvykdytos prievolės Lietuvos Respublikoje registruotiems bankams už politinę partiją nelaikomos politinės partijos finansavimo šaltiniu.
 
@@ -283,13 +306,19 @@ POLITINIŲ PARTIJŲ IR POLITINIŲ KAMPANIJŲ FINANSAVIMO ŠALTINIAI. POLITINĖS 
 
 1. Kitų savarankiškų politinės kampanijos dalyvių (išskyrus politines partijas) politinės kampanijos finansuojamos:
 
-1) pagal šį įstatymą turinčių teisę aukoti fizinių ir juridinių asmenų aukomis;
+1) pagal šį įstatymą turinčių teisę aukoti fizinių asmenų aukomis ir politinių partijų aukomis kandidatams, kandidatų sąrašams ar referendumo politinėms kampanijoms; 
+Straipsnio punkto pakeitimai:
+Nr. XI-1777, 2011-12-06, Žin., 2011, Nr. 153-7205 (2011-12-15), i. k. 1111010ISTA0XI-1777
+ 
 
 2) nuosavomis (asmeninėmis) lėšomis;
 
 3) palūkanomis už politinės kampanijos sąskaitoje esančias lėšas.
 
-2. Lėšos, skirtos politinei kampanijai finansuoti, privalo būti laikomos politinės kampanijos sąskaitoje. 
+2. Lėšos, skirtos politinei kampanijai finansuoti, privalo būti laikomos politinės kampanijos sąskaitoje. Į politinės kampanijos sąskaitą negali būti nukreiptas jokių laikinųjų apsaugos priemonių taikymas. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1777, 2011-12-06, Žin., 2011, Nr. 153-7205 (2011-12-15), i. k. 1111010ISTA0XI-1777
+ 
 
 3. Finansuoti kitus savarankiškus politinės kampanijos dalyvius (išskyrus politines partijas) kitomis, šiame straipsnyje nenurodytomis, lėšomis draudžiama.
  
@@ -301,19 +330,19 @@ Atstovaujamųjų politinių kampanijų dalyvių politinės kampanijos finansuoja
 
 10 straipsnis. Aukos
 
-1. Priimti šiame įstatyme nurodytas aukas turi teisę politinės partijos ir šio įstatymo nustatyta tvarka įregistruoti savarankiški politinės kampanijos dalyviai.
+1. Priimti šiame įstatyme nurodytas aukas turi teisę šio įstatymo nustatyta tvarka įregistruoti savarankiški politinės kampanijos dalyviai.
 
-2. Vienas fizinis arba juridinis asmuo, nurodytas šio įstatymo 12 straipsnyje, per kalendorinius metus gali paaukoti kiekvienai politinei partijai auką, neviršijančią 20 paskelbto praėjusių kalendorinių metų ketvirto ketvirčio vidutinio mėnesinio darbo užmokesčio (toliau – VMDU) dydžių. Jeigu tais pačiais metais vyksta politinė kampanija, fizinis arba juridinis asmuo kiekvienam savarankiškam politinės kampanijos dalyviui gali paaukoti per šią politinę kampaniją auką, neviršijančią 20 VMDU dydžių. 
+2. Vienas fizinis asmuo, nurodytas šio įstatymo 12 straipsnyje, per politinę kampaniją kiekvienam savarankiškam politinės kampanijos dalyviui gali paaukoti auką, neviršijančią 10 paskelbto praėjusių kalendorinių metų ketvirto ketvirčio vidutinio mėnesinio darbo užmokesčio (toliau – VMDU) dydžių. Kandidatas vienmandatėje rinkimų apygardoje ir referendumo iniciatorius savo politinei kampanijai finansuoti gali paaukoti auką, neviršijančią 20 VMDU dydžių. Bendra vieno fizinio asmens aukų suma savarankiškiems politinės kampanijos dalyviams per kalendorinius metus negali viršyti 10 procentų fizinio asmens už praėjusius kalendorinius metus deklaruotų metinių pajamų.
 
-3. Fizinis asmuo, prieš suteikdamas auką politinei partijai ar politinės kampanijos dalyviui, įstatymų nustatyta tvarka turi deklaruoti turtą ir pajamas. 
+3. Fizinis asmuo, suteikęs auką politinės kampanijos dalyviui, įstatymų nustatyta tvarka turi deklaruoti turtą ir pajamas.
 
-4. Fizinių asmenų piniginės aukos, viršijančios 1 000 litų, ir visos juridinių asmenų piniginės aukos privalo būti aukojamos tik banko pavedimu. Fizinių asmenų pinigines aukas politinei partijai, gautas ne banko pavedimu, už politinės partijos apskaitą atsakingas asmuo ne vėliau kaip kitą darbo dieną po aukos gavimo perveda į politinės partijos einamąją sąskaitą. Fizinių asmenų pinigines aukas politinei kampanijai, gautas ne banko pavedimu, politinės kampanijos iždininkas ne vėliau kaip kitą darbo dieną po aukos gavimo perveda į politinės kampanijos sąskaitą.
+4. Fizinių asmenų piniginės aukos, viršijančios 1 000 litų, privalo būti aukojamos tik banko pavedimu. Fizinių asmenų pinigines aukas politinei kampanijai, gautas ne banko pavedimu, politinės kampanijos iždininkas ne vėliau kaip kitą darbo dieną po aukos gavimo perveda į politinės kampanijos sąskaitą.
 
-5. Visi aukojusieji fiziniai ir juridiniai asmenys privalo būti paviešinami. Politinės kampanijos iždininkas ne vėliau kaip per 10 darbo dienų nuo aukos gavimo dienos, o už politinės partijos apskaitą atsakingas asmuo ne vėliau kaip per 10 darbo dienų pasibaigus ketvirčiui Vyriausiosios rinkimų komisijos interneto tinklalapyje skelbiamame viešame aukotojų sąraše paskelbia aukotojo – fizinio asmens – vardą, pavardę ir savivaldybę, kurioje jis gyvena, ir aukotojo – juridinio asmens – pavadinimą, kodą ir savivaldybę, kurioje yra jo buveinė. 
+5. Visi aukojusieji fiziniai asmenys privalo būti paviešinami. Politinės kampanijos iždininkas ne vėliau kaip per 10 darbo dienų nuo aukos gavimo dienos Vyriausiosios rinkimų komisijos interneto svetainėje skelbiamame viešame aukotojų sąraše paskelbia aukotojo – fizinio asmens – vardą, pavardę ir savivaldybę, kurioje jis gyvena.
 
-6. Priimant auką grynaisiais pinigais, aukos perdavimo–priėmimo dieną, o priimant nepiniginę auką, per 5 darbo dienas nuo aukos gavimo dienos turi būti užpildomas aukų lapas. Aukų lape turi būti nurodoma piniginės aukos vertė, nepiniginė auka ir jos tikroji vertė, aukotojo fizinio asmens vardas ir pavardė, asmens kodas, savivaldybė, kurioje jis gyvena; nepiniginę auką teikiančio aukotojo juridinio asmens pavadinimas, kodas, savivaldybė, kurios teritorijoje yra jo buveinė. Aukų lapas surašomas 3 egzemplioriais, pirmas atiduodamas aukotojui, antras – Vyriausiajai rinkimų komisijai, trečias – aukos gavėjui.
+6. Priimant auką grynaisiais pinigais, aukos perdavimo–priėmimo dieną, o priimant nepiniginę auką, per 5 darbo dienas nuo aukos gavimo dienos turi būti užpildomas aukų lapas. Aukų lape turi būti nurodoma piniginės aukos vertė, nepiniginė auka ir jos tikroji vertė, aukotojo – fizinio asmens – vardas ir pavardė, asmens kodas, savivaldybė, kurioje jis gyvena. Aukų lapas surašomas 3 egzemplioriais, pirmas atiduodamas aukotojui, antras – Vyriausiajai rinkimų komisijai, trečias – aukos gavėjui.
 
-7. Auka laikoma priimta, kai už politinės partijos apskaitą atsakingas asmuo arba politinės kampanijos iždininkas, patikrinęs, ar gauta auka atitinka šio įstatymo reikalavimus, užregistruoja auką ir, jei priimama auka grynaisiais pinigais arba nepiniginė auka, aukotojui įteikia (išsiunčia) aukų lapą. 
+7. Auka laikoma priimta, kai politinės kampanijos iždininkas, patikrinęs, ar gauta auka atitinka šio įstatymo reikalavimus, užregistruoja auką ir, jei priimama auka grynaisiais pinigais arba nepiniginė auka, aukotojui įteikia (išsiunčia) aukų lapą.
 
 8. Nepiniginių aukų įvertinimo ir jų tikrosios vertės apskaičiavimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
@@ -321,37 +350,50 @@ Atstovaujamųjų politinių kampanijų dalyvių politinės kampanijos finansuoja
 
 10. Politinės kampanijos dalyvis neturi teisės naudoti politinei kampanijai finansuoti gautų, tačiau politinės kampanijos finansavimo apskaitos žiniaraštyje neregistruotų piniginių aukų, taip pat šio straipsnio 6 dalyje nurodytų aukų, jeigu politinės kampanijos iždininkas nėra užpildęs aukų lapo.
 
-11. Politinė partija neturi teisės naudoti gautų, tačiau į politinės partijos apskaitą neįtrauktų piniginių aukų, taip pat šio straipsnio 6 dalyje nurodytų aukų, jei už politinės partijos apskaitą atsakingas asmuo nėra užpildęs aukų lapo. 
+11. Fizinių asmenų aukoms, kurios per politinę kampaniją savarankiškam politinės kampanijos dalyviui yra ne didesnės kaip 40 litų, taikoma Lietuvos Respublikos Vyriausybės nustatyta supaprastinta aukų priėmimo, apskaitos ir aukotojų paviešinimo tvarka. Pagal Lietuvos Respublikos Vyriausybės nustatytą tvarką tokių aukų priėmimui, apskaitai ir aukotojų paviešinimui šio įstatymo 10 straipsnio 3, 4, 5, 6, 7 ir 10 dalys netaikomos. Šioje dalyje numatytomis aukomis politinės kampanijos dalyvio politinė kampanija gali būti finansuojama ne daugiau kaip 10 procentų nustatyto didžiausio leistino politinės kampanijos išlaidų dydžio. Politinės kampanijos dalyvis šioje dalyje nustatyta tvarka gavęs aukų, viršijančių šioje dalyje nustatytą limitą, iki politinės kampanijos finansavimo ataskaitos pateikimo Vyriausiajai rinkimų komisijai jas perveda į valstybės biudžetą.
 
-12. Fizinių asmenų aukoms, kurios per kalendorinius metus politinei partijai ar savarankiškam politinės kampanijos dalyviui yra mažesnės negu 0,02 VMDU, gali būti taikoma Lietuvos Respublikos Vyriausybės nustatyta supaprastinta aukų priėmimo, apskaitos ir aukotojų paviešinimo tvarka. Pagal Lietuvos Respublikos Vyriausybės nustatytą tvarką tokių aukų priėmimui, apskaitai ir aukotojų paviešinimui gali būti netaikomos šio įstatymo 10 straipsnio 4, 5, 6, 7, 10 ir 11 dalys.
+12. Šio straipsnio 11 dalyje nurodytos aukos grynaisiais pinigais nepriimamos. 
+
+Straipsnio pakeitimai:
+Nr. XI-1777, 2011-12-06, Žin., 2011, Nr. 153-7205 (2011-12-15), i. k. 1111010ISTA0XI-1777
  
 
 11 straipsnis. Nepriimtinos aukos
 
-1. Draudžiama naudoti politinėms partijoms ar politinėms kampanijoms gautas aukas, kurios neatitinka šio įstatymo reikalavimų. Jeigu tokios aukos buvo gautos ir aukotojas yra žinomas, už politinės partijos apskaitą atsakingas asmuo arba politinės kampanijos iždininkas per 5 darbo dienas nuo tokios aukos gavimo dienos turi auką grąžinti aukotojui, nurodydamas atsisakymo priimti auką priežastis. Jeigu aukotojas per 10 darbo dienų nenustatomas, už politinės partijos apskaitą atsakingas asmuo arba politinės kampanijos iždininkas auką perveda į valstybės biudžetą.
+1. Draudžiama naudoti politinėms kampanijoms gautas aukas, kurios neatitinka šio įstatymo reikalavimų. Jeigu tokios aukos buvo gautos ir aukotojas yra žinomas, politinės kampanijos iždininkas per 5 darbo dienas nuo tokios aukos gavimo dienos turi auką grąžinti aukotojui, nurodydamas atsisakymo priimti auką priežastis. Jeigu aukotojas per 10 darbo dienų nenustatomas, politinės kampanijos iždininkas auką perveda į valstybės biudžetą.
 
 2. Politines partijas ir politinių kampanijų dalyvius finansuoti per trečiuosius asmenis draudžiama.
+
+3. Nepriimtinomis aukomis nelaikomos ir gali būti naudojamos politinei kampanijai finansuoti:
+
+1) aukos, numatytos šio įstatymo 10 straipsnio 11 dalyje, jeigu yra gautos laikantis šio įstatymo 10 straipsnio 11 dalyje numatytos tvarkos ir didžiausios leistinos sumos apribojimo;
+
+2) aukos, viršijančios 10 procentų fizinio asmens už praėjusius kalendorinius metus deklaruotų metinių pajamų, jeigu pagal politinės kampanijos iždininko užklausos metu Vyriausiosios rinkimų komisijos informacinės sistemos turimus duomenis bendra to aukotojo aukų suma (įskaitant savarankiškam politinės kampanijos dalyviui siūlomą suteikti auką) savarankiškiems politinės kampanijos dalyviams neviršija 10 procentų fizinio asmens už praėjusius kalendorinius metus deklaruotų metinių pajamų. 
+
+Straipsnio pakeitimai:
+Nr. XI-1777, 2011-12-06, Žin., 2011, Nr. 153-7205 (2011-12-15), i. k. 1111010ISTA0XI-1777
  
 
 12 straipsnis. Aukotojai
 
-1. Aukoti politinėms partijoms ir politinės kampanijos dalyviams turi teisę:
+1. Aukoti politinės kampanijos dalyviams turi teisę:
 
-1) Lietuvos Respublikos piliečiai – visų politinių kampanijų dalyviams ir politinėms partijoms; 
+1) Lietuvos Respublikos piliečiai – visų politinių kampanijų dalyviams;
 
-2) nuolatiniai Lietuvos Respublikos gyventojai, turintys kitos Europos Sąjungos valstybės narės pilietybę, – rinkimų į Europos Parlamentą ir savivaldybių tarybų rinkimų kampanijų dalyviams ir politinėms partijoms; 
+2) nuolatiniai Lietuvos Respublikos gyventojai, turintys kitos Europos Sąjungos valstybės narės pilietybę, – rinkimų į Europos Parlamentą ir savivaldybių tarybų rinkimų kampanijų dalyviams;
 
-3) nuolatiniai Lietuvos Respublikos gyventojai, neturintys kitos Europos Sąjungos valstybės narės pilietybės, arba asmenys be pilietybės – savivaldybių tarybų rinkimų politinių kampanijų dalyviams;
-
-4) Lietuvos Respublikoje registruoti privatūs juridiniai asmenys, kurių įstatiniame kapitale nėra valstybės ar savivaldybės kapitalo ir kurių įstatinio kapitalo ir (arba) balsavimo teisių dalis, suteikianti teisę kontroliuoti juridinio asmens veiklą, priklauso tik šio straipsnio 1 dalies 1 punkte nurodytiems fiziniams asmenims, Lietuvos Respublikoje įregistruotiems juridiniams asmenims arba NATO ir Europos Sąjungos valstybių narių privatiems juridiniams asmenims – visų politinių kampanijų dalyviams ir politinėms partijoms.
+3) nuolatiniai Lietuvos Respublikos gyventojai, neturintys kitos Europos Sąjungos valstybės narės pilietybės, arba asmenys be pilietybės – savivaldybių tarybų rinkimų politinių kampanijų dalyviams.
 
 2. Politinės partijos turi teisę aukoti kandidatų, kandidatų sąrašų ar referendumo politinėms kampanijoms.
 
-3. Politinės partijos ar politinės kampanijos finansavimo sutartys, patvirtinančios politinės partijos ar politinės kampanijos dalyvio (aukos gavėjo) ir aukotojo turtinius ar neturtinius (politinius) įsipareigojimus, turi būti sudaromos raštu. Jas turi pasirašyti politinė partija (aukos gavėjas) ir aukotojas arba politinės kampanijos dalyvis (aukos gavėjas), politinės kampanijos iždininkas ir aukotojas. Politinės partijos ar politinės kampanijos finansavimo sutartys turi būti skelbiamos viešai ir negali prieštarauti viešajai tvarkai ar gerai moralei. Draudžiama sudaryti slaptus įsipareigojimus. Politinės partijos finansavimo sutarties nuorašas kartu su politinės partijos finansinių ataskaitų rinkiniu ir politinės kampanijos finansavimo sutarties nuorašas kartu su politinės kampanijos finansavimo ataskaita turi būti perduoti Vyriausiajai rinkimų komisijai, kuri sutarčių tekstus privalo paskelbti Vyriausiosios rinkimų komisijos interneto tinklalapyje.
+3. Politinės kampanijos finansavimo sutartys, patvirtinančios politinės kampanijos dalyvio (aukos gavėjo) ir aukotojo turtinius ar neturtinius (politinius) įsipareigojimus, turi būti sudaromos raštu. Jas turi pasirašyti politinės kampanijos dalyvis (aukos gavėjas), politinės kampanijos iždininkas ir aukotojas. Politinės kampanijos finansavimo sutartys turi būti skelbiamos viešai ir negali prieštarauti viešajai tvarkai ar gerai moralei. Draudžiama sudaryti slaptus įsipareigojimus. Politinės kampanijos finansavimo sutarties nuorašas kartu su politinės kampanijos finansavimo ataskaita turi būti perduoti Vyriausiajai rinkimų komisijai, kuri sutarčių tekstus privalo paskelbti Vyriausiosios rinkimų komisijos interneto svetainėje.
 
 4. Aukotojų ir aukų gavėjų susitarimai, susiję su įsipareigojimais privatiems (asmeniniams ir (ar) grupiniams) interesams, draudžiami.
 
-5. Išrinktiems į valstybės ar savivaldybių institucijas asmenims draudžiama atstovauti aukotojų privatiems (asmeniniams ir (ar) grupiniams) interesams ir priimti išskirtinai jiems palankius sprendimus.
+5. Išrinktiems į valstybės ar savivaldybių institucijas asmenims draudžiama atstovauti aukotojų privatiems (asmeniniams ir (ar) grupiniams) interesams ir priimti išskirtinai jiems palankius sprendimus. 
+
+Straipsnio pakeitimai:
+Nr. XI-1777, 2011-12-06, Žin., 2011, Nr. 153-7205 (2011-12-15), i. k. 1111010ISTA0XI-1777
  
 
 13 straipsnis. Kita politinių partijų veikla
@@ -367,15 +409,11 @@ Politinės partijos turi teisę verstis leidybos, spaudos ir atributikos platini
 
 3. Pažymą apie politinių partijų atitiktį įstatymų reikalavimams dėl politinės partijos narių skaičiaus Vyriausiajai rinkimų komisijai ne vėliau kaip iki kiekvienų metų balandžio 1 dienos pateikia Lietuvos Respublikos teisingumo ministerija.
 
-4. Lėšos iš valstybės biudžete numatytų asignavimų politinėms partijoms gali būti skiriamos politinių partijų veiklai finansuoti ir daliai politinės kampanijos išlaidų kompensuoti.
+4. Lėšos iš valstybės biudžete numatytų asignavimų politinėms partijoms gali būti skiriamos politinių partijų veiklai finansuoti.
 
-5. Daliai politinės kampanijos išlaidų kompensuoti yra skiriama iki 25 procentų valstybės biudžeto asignavimų politinėms partijoms sumos, neatsižvelgiant į tais metais įvykusių politinių kampanijų skaičių.
+5. Jeigu Vyriausioji rinkimų komisija pripažįsta, kad politinė partija ar politinės kampanijos dalyvis šiurkščiai pažeidė šį įstatymą, jam (jai) dvejus metus nuo sprendimo įsiteisėjimo dienos valstybės biudžeto asignavimai neskiriami. Dėl šios priežasties nepaskirstyti valstybės biudžeto asignavimai grąžinami į valstybės biudžetą.
 
-6. Nustatant konkrečią asignavimų dalį, skirtą daliai politinės kampanijos išlaidų kompensuoti, prioritetas teikiamas daliai politinės kampanijos išlaidų kompensuoti, atsižvelgiant į šio straipsnio 5 dalyje nustatytą apribojimą.
-
-7. Vyriausiajai rinkimų komisijai pripažinus, kad politinė partija ar politinės kampanijos dalyvis šiurkščiai pažeidė šį įstatymą, jam dvejus metus nuo sprendimo įsiteisėjimo dienos valstybės biudžeto asignavimai neskiriami. Dėl šios priežasties nepaskirstyti valstybės biudžeto asignavimai grąžinami į valstybės biudžetą.
-
-8. Valstybės biudžeto asignavimai politinėms partijoms gali būti naudojami: 
+6. Valstybės biudžeto asignavimai politinėms partijoms gali būti naudojami:
 
 1) politinei kampanijai finansuoti;
 
@@ -385,15 +423,26 @@ Politinės partijos turi teisę verstis leidybos, spaudos ir atributikos platini
 
 4) atsiskaityti su darbuotojais;
 
-5) paslaugų teikimo išlaidoms;
+5) mokesčiams ir kitoms įmokoms į biudžetą, privalomojo valstybinio socialinio draudimo bei privalomojo sveikatos draudimo įmokoms;
 
-6) politinės partijos politinės kampanijos įsiskolinimams padengti;
+6) paslaugų teikimo išlaidoms;
 
-7) politinės partijos paimtoms paskoloms, skirtoms šios dalies 3, 4 ir 5 punktuose nurodytoms išlaidoms, padengti.
+7) politinės partijos politinės kampanijos skoloms apmokėti;
+
+8) politinės partijos paimtoms paskoloms, skirtoms šios dalies 3, 4, 5 ir 6 punktuose nurodytoms išlaidoms, apmokėti.
+
+7. Valstybės biudžeto lėšos negali būti naudojamos šio straipsnio 6 dalies 3, 4, 5, 6 ir 8 punktuose numatytoms išlaidoms, jeigu jos patirtos vykdant šio įstatymo 13 straipsnyje numatytą veiklą. Šio įstatymo 13 straipsnyje numatytos veiklos apskaita tvarkoma atskirai nuo valstybės biudžeto asignavimų naudojimo apskaitos.
+
+8. Valstybės biudžeto lėšomis negali būti laiduojama, garantuojama už trečiųjų asmenų įsipareigojimus, taip pat šiomis lėšomis negali būti atlyginama už trečiųjų asmenų padarytą žalą.
 
 9. Kaip buvo panaudoti valstybės biudžeto asignavimai, politinė partija nurodo valstybės biudžeto asignavimų panaudojimo ataskaitoje, teikiamoje kartu su politinės partijos finansinių ataskaitų rinkiniu.
 
-10. Per metus nepanaudoti valstybės biudžeto asignavimai lieka politinės partijos valstybės biudžeto asignavimų sąskaitoje ir gali būti naudojami kitais metais šio straipsnio 8 dalyje numatytai veiklai finansuoti.
+10. Per metus nepanaudoti valstybės biudžeto asignavimai lieka politinės partijos valstybės biudžeto asignavimų sąskaitoje ir gali būti naudojami kitais metais šio straipsnio 6 dalyje numatytai veiklai finansuoti.
+
+11. Į valstybės biudžeto asignavimų sąskaitą negali būti nukreiptas jokių laikinųjų apsaugos priemonių taikymas. 
+
+Straipsnio pakeitimai:
+Nr. XI-1777, 2011-12-06, Žin., 2011, Nr. 153-7205 (2011-12-15), i. k. 1111010ISTA0XI-1777
  
 
 15 straipsnis. Valstybės biudžeto asignavimų politinės partijos veiklai finansuoti dydžio apskaičiavimo, paskirstymo ir mokėjimo tvarka
@@ -421,15 +470,9 @@ Politinės partijos turi teisę verstis leidybos, spaudos ir atributikos platini
 5. Politinei partijai skiriamą valstybės biudžeto asignavimų, skirtų politinės partijos veiklai finansuoti, dydį šiame straipsnyje nustatyta tvarka nustato Vyriausioji rinkimų komisija ir ne vėliau kaip iki kiekvienų metų balandžio 15 dienos ir lapkričio 15 dienos perveda į politinės partijos valstybės biudžeto asignavimų sąskaitą. 
  
 
-16 straipsnis. Dalies išlaidų politinei kampanijai kompensavimas
-
-1. Politinės partijos, kurios atitinka šio straipsnio 2 dalyje nustatytus reikalavimus, turi teisę į dalies išlaidų politinei kampanijai kompensavimą. 
-
-2. Pasibaigus politinei kampanijai, Vyriausioji rinkimų komisija, patikrinusi politinių kampanijų finansavimo ataskaitas, įvertinusi auditoriaus ataskaitą dėl pastebėtų faktų, jeigu ji privaloma, per 15 dienų nuo šių ataskaitų gavimo dienos nustato, kiek politinės partijos iškėlė kandidatų ir kandidatų sąrašų, kurie atitinkamose rinkimų apygardose gavo ne mažiau kaip po 3 procentus rinkimuose dalyvavusių rinkėjų balsų, kiek iš viso išleista lėšų politinėms kampanijoms finansuoti, taip pat nustato, ar nėra likę su politine kampanija susijusių skolos įsipareigojimų. Atitinkančioms šias sąlygas politinėms partijoms kompensuojama iki 25 procentų politinės kampanijos išlaidų. 
-
-3. Valstybės biudžeto asignavimai, skirti daliai politinės kampanijos išlaidų kompensuoti, paskirstomi politinėms partijoms, turinčioms teisę į politinės kampanijos išlaidų dalies kompensaciją, proporcingai jų politinės kampanijos išlaidoms, kompensuojant vienodą patirtų išlaidų dalį.
-
-4. Politinei partijai skiriamą valstybės biudžeto asignavimų, skirtų daliai politinės kampanijos išlaidų kompensuoti, dydį šiame straipsnyje nustatyta tvarka nustato Vyriausioji rinkimų komisija ir ne vėliau kaip per 15 dienų nuo sprendimo priėmimo dienos perveda į politinės partijos valstybės biudžeto asignavimų sąskaitą. 
+16 straipsnis. Neteko galios nuo 2012-01-01
+Straipsnio naikinimas:
+Nr. XI-1777, 2011-12-06, Žin. 2011, Nr. 153-7205 (2011-12-15), i. k. 1111010ISTA0XI-1777
  
 
 17 straipsnis. Politinės kampanijos išlaidos ir išlaidų limitai
@@ -532,7 +575,10 @@ POLITINIŲ PARTIJŲ IR POLITINIŲ KAMPANIJŲ APSKAITA
 
 1. Politinės partijos apskaitos tvarkymą reglamentuoja šis įstatymas, Lietuvos Respublikos buhalterinės apskaitos įstatymas (toliau – Buhalterinės apskaitos įstatymas) ir kiti teisės aktai. 
 
-2. Už politinės partijos apskaitą atsakingas asmuo metams pasibaigus parengia politinės partijos finansinių ataskaitų rinkinį. Kartu su politinės partijos finansinių ataskaitų rinkiniu parengiami priedai: aukų ir aukotojų sąrašas bei valstybės biudžeto asignavimų panaudojimo ataskaita. 
+2. Už politinės partijos apskaitą atsakingas asmuo metams pasibaigus parengia politinės partijos finansinių ataskaitų rinkinį. Kartu su politinės partijos finansinių ataskaitų rinkiniu parengiamas priedas: valstybės biudžeto asignavimų panaudojimo ataskaita. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1777, 2011-12-06, Žin., 2011, Nr. 153-7205 (2011-12-15), i. k. 1111010ISTA0XI-1777
+ 
 
 3. Politinės partijos finansinių ataskaitų rinkinį sudaro šios finansinės ataskaitos:
 
@@ -542,9 +588,14 @@ POLITINIŲ PARTIJŲ IR POLITINIŲ KAMPANIJŲ APSKAITA
 
 3) aiškinamasis raštas.
 
-4. Politinės partijos finansinių ataskaitų rinkinį ir šio straipsnio 2 dalyje nurodytus jo priedus tvirtina politinės partijos įstatuose nustatytas politinės partijos valdymo organas. 
+4. Politinės partijos finansinių ataskaitų rinkinį ir šio straipsnio 2 dalyje nurodytą jo priedą tvirtina politinės partijos įstatuose nustatytas politinės partijos valdymo organas. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1777, 2011-12-06, Žin., 2011, Nr. 153-7205 (2011-12-15), i. k. 1111010ISTA0XI-1777
+ 
 
-5. Politinės partijos kiekvienais metais, ne vėliau kaip iki kovo 15 dienos, pateikia Valstybinei mokesčių inspekcijai patvirtintus praėjusių kalendorinių metų politinės partijos aukų ir aukotojų sąrašus, o Vyriausiajai rinkimų komisijai – patvirtintą praėjusių kalendorinių metų politinės partijos finansinių ataskaitų rinkinį ir šio straipsnio 2 dalyje nurodytus jo priedus bei auditoriaus ataskaitą dėl pastebėtų faktų, jeigu ji privaloma. Prireikus Vyriausioji rinkimų komisija teisės aktų nustatyta tvarka turi teisę susipažinti su politinės partijos finansinių ataskaitų rinkinio duomenis pagrindžiančiais dokumentais.
+5. Politinės partijos kiekvienais metais, ne vėliau kaip iki kovo 15 dienos, pateikia Vyriausiajai rinkimų komisijai patvirtintą praėjusių kalendorinių metų politinės partijos finansinių ataskaitų rinkinį ir šio straipsnio 2 dalyje nurodytą jo priedą bei auditoriaus ataskaitą dėl pastebėtų faktų, jeigu ji privaloma. Prireikus Vyriausioji rinkimų komisija teisės aktų nustatyta tvarka turi teisę susipažinti su politinės partijos finansinių ataskaitų rinkinio duomenis pagrindžiančiais dokumentais. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1777, 2011-12-06, Žin., 2011, Nr. 153-7205 (2011-12-15), i. k. 1111010ISTA0XI-1777
  
 
 21 straipsnis. Politinių kampanijų apskaita
@@ -600,7 +651,10 @@ POLITINIŲ PARTIJŲ IR POLITINIŲ KAMPANIJŲ APSKAITA
 
 22 straipsnis. Politinių kampanijų dalyvių įsiskolinimai ir jų padengimas
 
-1. Kiekvienas savarankiškas politinės kampanijos dalyvis, siekiantis gauti dalies išlaidų politinei kampanijai kompensaciją, politinės kampanijos laikotarpiu atsiradusius ar su politine kampanija susijusius skolos įsipareigojimus turi įvykdyti ne vėliau kaip iki politinės kampanijos laikotarpio pabaigos. 
+1. Netenka galios 2012-01-01. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1777, 2011-12-06, Žin., 2011, Nr. 153-7205 (2011-12-15), i. k. 1111010ISTA0XI-1777
+ 
 
 2. Kiekvienais metais iki vasario 1 dienos, iki skola bus padengta, buvęs savarankiškas politinės kampanijos dalyvis privalo pranešti Vyriausiajai rinkimų komisijai apie skolos įsipareigojimų įvykdymą ir įvykdymo šaltinius. Politinė partija turi teisę padengti skolos įsipareigojimus tik iš partijai nuosavybės teise priklausančio turto, gaunamų aukų ir politinei partijai skirtų valstybės biudžeto asignavimų, o politinės kampanijos dalyviai fiziniai asmenys – tik iš nuosavų (asmeninių) lėšų.
  
@@ -637,7 +691,12 @@ POLITINIŲ PARTIJŲ IR POLITINIŲ KAMPANIJŲ FINANSAVIMO KONTROLĖ. NEPRIKLAUSOM
 
 11) suteikia programinę įrangą politinės kampanijos finansavimo apskaitos žiniaraščio, viešosios informacijos rengėjo ar skleidėjo deklaracijos duomenims perkelti, viešosios informacijos rengėjo ar skleidėjo politinės kampanijos laikotarpiu taikytinų įkainių ir sąlygų deklaravimui, politinės kampanijos finansavimo ataskaitoms, viešosios informacijos rengėjo ar skleidėjo deklaracijoms pagal perkeltus duomenis spausdinti; 
 
-12) skelbia viešosios informacijos rengėjo ar skleidėjo politinės kampanijos laikotarpiu taikytinus įkainius.
+12) skelbia viešosios informacijos rengėjo ar skleidėjo politinės kampanijos laikotarpiu taikytinus įkainius;
+
+13) kartu su Valstybine mokesčių inspekcija sudaro sąlygas politinės kampanijos iždininkui Vyriausiosios rinkimų komisijos informacinėje sistemoje patikrinti, ar auka atitinka šio įstatymo 10 straipsnio 2 dalies reikalavimus. Vyriausioji rinkimų komisija atsako už tinkamą informacinės sistemos veikimą. 
+Papildyta straipsnio punktu:
+Nr. XI-1777, 2011-12-06, Žin., 2011, Nr. 153-7205 (2011-12-15), i. k. 1111010ISTA0XI-1777
+ 
 
 3. Kaip naudojamos politinei kampanijai skirtos lėšos, kontroliuoja Vyriausioji rinkimų komisija.
 
@@ -669,11 +728,14 @@ POLITINIŲ PARTIJŲ IR POLITINIŲ KAMPANIJŲ FINANSAVIMO KONTROLĖ. NEPRIKLAUSOM
 
 25 straipsnis. Finansavimo viešumas
 
-1. Vyriausioji rinkimų komisija politinių kampanijų finansavimo ataskaitas kartu su auditoriaus ataskaita dėl pastebėtų faktų, jeigu ji privaloma, paskelbia savo interneto tinklalapyje ne vėliau kaip per 100 dienų nuo rinkimų (pakartotinių rinkimų) ar referendumo galutinių rezultatų paskelbimo dienos.
+1. Vyriausioji rinkimų komisija politinių kampanijų finansavimo ataskaitas kartu su auditoriaus ataskaita dėl pastebėtų faktų, jeigu ji privaloma, paskelbia savo interneto svetainėje ne vėliau kaip per 100 dienų nuo rinkimų (pakartotinių rinkimų) ar referendumo galutinių rezultatų paskelbimo dienos.
 
-2. Politinės partijos finansinių ataskaitų rinkinys su šio įstatymo 20 straipsnio 2 dalyje nurodytais jo priedais ir auditoriaus ataskaita dėl pastebėtų faktų, viešosios informacijos rengėjų ar skleidėjų deklaracijos, politinės kampanijos finansavimo ataskaitos ir auditoriaus ataskaita dėl pastebėtų faktų, politinės partijos ar politinės kampanijos dalyvio ataskaitos dėl politinės reklamos paskleidimo ir jos finansavimo šaltinių, politinės kampanijos dalyvių sutartys su paslaugų teikėjais, reklamos gamintojais, viešosios informacijos rengėjais ar skleidėjais yra vieši. 
+2. Politinės partijos finansinių ataskaitų rinkinys su šio įstatymo 20 straipsnio 2 dalyje nurodytu jo priedu ir auditoriaus ataskaita dėl pastebėtų faktų, viešosios informacijos rengėjų ar skleidėjų deklaracijos, politinės kampanijos finansavimo ataskaitos ir auditoriaus ataskaita dėl pastebėtų faktų, politinės partijos ar politinės kampanijos dalyvio ataskaitos dėl politinės reklamos paskleidimo ir jos finansavimo šaltinių, politinės kampanijos dalyvių sutartys su paslaugų teikėjais, reklamos gamintojais, viešosios informacijos rengėjais ar skleidėjais yra vieši.
 
-3. Kiekvienas asmuo, pagal šį įstatymą galintis finansuoti politines partijas arba politinės kampanijos dalyvius, arba viešosios informacijos rengėjo ar skleidėjo atstovas, pateikęs tai patvirtinantį dokumentą, turi teisę Vyriausiojoje rinkimų komisijoje susipažinti su bet kurios politinės partijos finansinių ataskaitų rinkiniu ir jo priedais ar bet kurio politinės kampanijos dalyvio politinės kampanijos finansavimo ataskaita ir skelbti jų duomenis per visuomenės informavimo priemones.
+3. Kiekvienas asmuo, pagal šį įstatymą galintis finansuoti politinės kampanijos dalyvius, arba viešosios informacijos rengėjo ar skleidėjo atstovas, pateikęs tai patvirtinantį dokumentą, turi teisę Vyriausiojoje rinkimų komisijoje susipažinti su bet kurios politinės partijos finansinių ataskaitų rinkiniu ir jo priedais ar bet kurio politinės kampanijos dalyvio politinės kampanijos finansavimo ataskaita ir skelbti jų duomenis per visuomenės informavimo priemones. 
+
+Straipsnio pakeitimai:
+Nr. XI-1777, 2011-12-06, Žin., 2011, Nr. 153-7205 (2011-12-15), i. k. 1111010ISTA0XI-1777
  
 
 26 straipsnis. Politinių partijų ir politinių kampanijų finansavimo ir politinės reklamos stebėsena
@@ -701,7 +763,10 @@ ATSAKOMYBĖ
 
 3. Netinkama politinės partijos veikla laikytini tokie veiksmai, kai:
 
-1) politinė partija priima sprendimus politinės partijos veiklai naudoti aukas, gautas iš asmenų, neturinčių teisės finansuoti politines partijas, ar kitas lėšas, gautas iš neleistinų politinės partijos finansavimo šaltinių; 
+1) politinė partija priima sprendimus politinės partijos veiklai naudoti lėšas, gautas iš neleistinų politinės partijos finansavimo šaltinių; 
+Straipsnio punkto pakeitimai:
+Nr. XI-1777, 2011-12-06, Žin., 2011, Nr. 153-7205 (2011-12-15), i. k. 1111010ISTA0XI-1777
+ 
 
 2) politinė partija, jos valdymo organai ar jų nariai sudaro politinės partijos finansavimo sandorius, pažeisdami šio įstatymo reikalavimus.
 
@@ -718,7 +783,10 @@ ATSAKOMYBĖ
 
 1. Šiurkščiais šio įstatymo pažeidimais laikoma:
 
-1) politinės partijos ar politinės kampanijos dalyvio finansavimas ne šio įstatymo numatytomis lėšomis ar asmenų, pagal šį įstatymą neturinčių teisės aukoti, aukomis;
+1) politinės kampanijos dalyvio finansavimas šio įstatymo 11 straipsnyje numatytomis nepriimtinomis aukomis; 
+Straipsnio punkto pakeitimai:
+Nr. XI-1777, 2011-12-06, Žin., 2011, Nr. 153-7205 (2011-12-15), i. k. 1111010ISTA0XI-1777
+ 
 
 2) jeigu politinės kampanijos dalyvis priima sprendimus naudoti politinei kampanijai aukas, gautas iš asmenų, kurie neturi teisės finansuoti politinių kampanijų, ar iš neleistinų politinės kampanijos finansavimo šaltinių;
 
@@ -744,7 +812,9 @@ ATSAKOMYBĖ
 
 2. Sprendimą, ar politinė partija ar politinės kampanijos dalyvis padarė šiurkštų šio įstatymo pažeidimą, priima Vyriausioji rinkimų komisija.
 
-3. Šio straipsnio 2 dalyje priimtą sprendimą politinė partija ar politinės kampanijos dalyvis per 5 darbo dienas nuo sprendimo priėmimo turi teisę apskųsti Lietuvos vyriausiajam administraciniam teismui. 
+3. Šio straipsnio 2 dalyje priimtą sprendimą politinė partija ar politinės kampanijos dalyvis per 14 dienų nuo sprendimo priėmimo turi teisę apskųsti Lietuvos vyriausiajam administraciniam teismui. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1777, 2011-12-06, Žin., 2011, Nr. 153-7205 (2011-12-15), i. k. 1111010ISTA0XI-1777
  
 
 29 straipsnis. Atsakomybė
@@ -793,4 +863,9 @@ Lietuvos Respublikos politinių partijų ir politinių kampanijų finansavimo be
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2011-05-11, Žin., 2011, Nr. 58-2771 (2011-05-14), i. k. 1111000NUTARG113717                
 Dėl Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo (2010 m. birželio 30 d. redakcija) 34 straipsnio, 83 straipsnio 2, 3, 4, 5 dalių, Lietuvos Respublikos politinių partijų ir politinių kampanijų finansavimo bei finansavimo kontrolės įstatymo (2010 m. gegužės 18 d. redakcija) 3 straipsnio 2 dalies atitikties Lietuvos Respublikos Konstitucijai
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1777, 2011-12-06, Žin., 2011, Nr. 153-7205 (2011-12-15), i. k. 1111010ISTA0XI-1777
+Lietuvos Respublikos politinių partijų ir politinių kampanijų finansavimo bei finansavimo kontrolės įstatymo 2, 7, 8, 10, 11, 12, 14, 20, 22, 23, 25, 27, 28 straipsnių pakeitimo ir 16 straipsnio pripažinimo netekusiu galios įstatymas
 
