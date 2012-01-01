@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FAA1DD73CF"
 
 # Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas
 
-Suvestinė redakcija nuo 2011-01-01 iki 2011-12-31
+Suvestinė redakcija nuo 2012-01-01 iki 2012-12-31
  
 Įstatymas paskelbtas: Žin. 2005, Nr. 76-2741, i. k. 1051010ISTA000X-233
- 
-TAR pastaba. Juridiniai asmenys, kuriems nuo 2011 m. sausio 1 d. atsiranda prievolė mokėti nekilnojamojo turto mokestį už įsigyjamą nekilnojamąjį turtą, avansinio mokesčio už šį nekilnojamąjį turtą 2011 metų mokestiniu laikotarpiu mokėti neprivalo.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
-Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 2, 3, 4, 6, 7, 8, 9, 10, 11, 12 straipsnių pakeitimo ir papildymo įstatymas
  
 LIETUVOS RESPUBLIKOS
 NEKILNOJAMOJO TURTO MOKESČIO
@@ -50,22 +45,18 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės Įstatymo sąvokos
 
 
-1. Ekonominė veikla – veikla, kuri pagal Lietuvos Respublikos pridėtinės vertės mokesčio įstatymą yra laikoma ekonomine veikla.
+1. Neteko galios nuo 2012-01-01
+Straipsnio dalies naikinimas:
+Nr. XI-1828, 2011-12-21, Žin. 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
+ 
 
 
 
 
-2. Ekonominei ar individualiai veiklai naudojamas nekilnojamasis turtas – nekilnojamasis turtas, nekilnojamojo turto savininko ar kito fizinio asmens priskirtas:
-
-
-1) individualios veiklos turtui, kaip ši sąvoka apibrėžta Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme;
-
-
-
-
-2) ekonominei ar individualiai veiklai naudojamam turtui, jeigu su šiuo turtu susijusios išlaidos priskiriamos leidžiamiems atskaitymams ir (arba) pirkimo (importo) pridėtinės vertės mokestis atskaitomas.
-
-
+2. Neteko galios nuo 2012-01-01
+Straipsnio dalies naikinimas:
+Nr. XI-1828, 2011-12-21, Žin. 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
+ 
 
 
 
@@ -75,7 +66,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Individuali veikla – veikla, kuri pagal Lietuvos Respublikos gyventojų pajamų mokesčio įstatymą yra laikoma individualia veikla.
+4. Neteko galios nuo 2012-01-01
+Straipsnio dalies naikinimas:
+Nr. XI-1828, 2011-12-21, Žin. 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
+ 
 
 
 
@@ -196,18 +190,14 @@ Mokesčio objektas yra nekilnojamasis turtas, esantis Lietuvos Respublikoje, iš
 
 
 
-2) fiziniams asmenims nuosavybės teise priklausančius ir jų įsigyjamus gyvenamosios, sodų, garažų, fermų, šiltnamių, ūkio, pagalbinio ūkio, mokslo, religinės, poilsio paskirties statinius (patalpas), žuvininkystės statinius ir inžinerinius statinius, jeigu jie yra ekonominei ar individualiai veiklai nenaudojamas nekilnojamasis turtas arba yra neterminuotai ar ilgesniam kaip vieno mėnesio laikotarpiui neperduoti naudotis juridiniams asmenims;
-
-
-
-
-3) valdžios ir privataus subjektų partnerystės, kaip tai apibrėžta Lietuvos Respublikos investicijų įstatyme, pagrindu sukurtą ar įgytą nekilnojamąjį turtą, kol vykdoma atitinkama valdžios ir privataus subjektų partnerystės sutartis ir šis nekilnojamasis turtas naudojamas pagal toje sutartyje nustatytą paskirtį. 
+2) valdžios ir privataus subjektų partnerystės, kaip tai apibrėžta Lietuvos Respublikos investicijų įstatyme, pagrindu sukurtą ar įgytą nekilnojamąjį turtą, kol vykdoma atitinkama valdžios ir privataus subjektų partnerystės sutartis ir šis nekilnojamasis turtas naudojamas pagal toje sutartyje nustatytą paskirtį. 
 
 
 
 
 Straipsnio pakeitimai:
 Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
+Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
  
 
 
@@ -227,7 +217,10 @@ Mokesčio mokestinis laikotarpis yra kalendoriniai metai.
 6 straipsnis. Mokesčio tarifai
 
 
-1. Mokesčio tarifas – nuo 0,3 procento iki 1 procento nekilnojamojo turto mokestinės vertės.
+1. Mokesčio tarifas – nuo 0,3 procento iki 1 procento nekilnojamojo turto mokestinės vertės, jeigu šiame straipsnyje nenustatyta kitaip. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
+ 
 
 
 
@@ -238,6 +231,14 @@ Mokesčio mokestinis laikotarpis yra kalendoriniai metai.
 
 
 3. Jeigu savivaldybės taryba iki šio straipsnio 2 dalyje nurodytų terminų nenustato konkrečių mokesčio tarifų arba po šio straipsnio 2 dalyje nurodytų terminų keičia nustatytus mokesčio tarifus, atitinkamą mokestinį laikotarpį tos savivaldybės teritorijoje taikomas 0,3 procento mokesčio tarifas. 
+
+
+
+
+4. Šio įstatymo 7 straipsnio 1 dalies 6 punkte nurodyto turto mokestinės vertės daliai, viršijančiai neapmokestinamąjį dydį, taikomas 1 procento mokesčio tarifas. 
+Papildyta straipsnio dalimi:
+Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
+ 
 
 
 Straipsnio pakeitimai:
@@ -274,7 +275,15 @@ Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr
 
 
 
-5) nekilnojamasis turtas (arba jo dalis), fizinio asmens, turinčio meno kūrėjo statusą, naudojamas kaip kūrybinės dirbtuvės (studijos) individualiai kūrybinei veiklai. 
+5) nekilnojamasis turtas (arba jo dalis), fizinio asmens, turinčio meno kūrėjo statusą, naudojamas kaip kūrybinės dirbtuvės (studijos) individualiai kūrybinei veiklai; 
+
+
+
+
+6) fiziniams asmenims nuosavybės teise priklausančių ar jų įsigyjamų gyvenamosios, sodų, garažų, fermų, šiltnamių, ūkio, pagalbinio ūkio, mokslo, religinės, poilsio paskirties statinių (patalpų), žuvininkystės statinių ir inžinerinių statinių bendra vertė, neviršijanti 1 milijono litų. 
+Papildyta straipsnio punktu:
+Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -411,6 +420,13 @@ Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr
 
 
 5. Savivaldybių tarybos turi teisę savo biudžeto sąskaita sumažinti mokestį arba visai nuo jo atleisti.
+
+
+
+
+6. Šio straipsnio 1 dalies 6 punkte nustatyta neapmokestinamoji vertė taikoma visam šiame punkte nurodytos paskirties nekilnojamajam turtui, kuris nuosavybės teise priklauso šeimos nariams arba yra jų įsigyjamas. Taikant šią nuostatą, šeimos nariais laikomi sutuoktiniai, asmenys, vieni auginantys vaikus (įvaikius), ir su jais gyvenantys jų vaikai (įvaikiai) iki 18 metų. 
+Papildyta straipsnio dalimi:
+Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
  
 
 
@@ -534,7 +550,10 @@ MOKESČIO MOKĖJIMAS
 11 straipsnis. Duomenų, reikalingų mokesčiui apskaičiuoti, pateikimas 
 
 
-1. Nekilnojamojo turto registro ir Nekilnojamojo turto kadastro duomenis, reikalingus mokesčiui apskaičiuoti, turto vertintojas pateikia vietos mokesčių administratoriui du kartus per metus: iki vasario 1 dienos ir iki rugpjūčio 1 dienos.
+1. Nekilnojamojo turto registro ir Nekilnojamojo turto kadastro duomenis, reikalingus mokesčiui apskaičiuoti, turto vertintojas pateikia vietos mokesčių administratoriui kiekvienais metais iki vasario 1 dienos ir iki rugpjūčio 1 dienos, o duomenis apie nekilnojamąjį turtą, apmokestinamą taikant šio įstatymo 6 straipsnio 4 dalyje nustatytą tarifą, ir iki gruodžio 15 dienos.
+Straipsnio dalies pakeitimai:
+Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
+ 
 
 
 
@@ -572,7 +591,10 @@ Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr
 
 
 
-4. Mokesčio mokėtojai vietos mokesčių administratoriui atitinkamo mokestinio laikotarpio mokesčio deklaraciją pateikia iki kitų kalendorinių metų vasario 1 dienos. Mokesčio deklaracijos formą, jos pildymo ir pateikimo tvarką nustato centrinis mokesčių administratorius.
+4. Mokesčio mokėtojai atitinkamo mokestinio laikotarpio mokesčio už nekilnojamąjį turtą, kuris apmokestinamas taikant šio įstatymo 6 straipsnio 4 dalyje nustatytą tarifą, deklaraciją vietos mokesčių administratoriui pateikia iki einamojo mokestinio laikotarpio gruodžio 15 dienos, o mokesčio už kitą nekilnojamąjį turtą – iki kitų kalendorinių metų vasario 1 dienos. Mokesčio deklaracijos formą, jos pildymo ir pateikimo tvarką nustato centrinis mokesčių administratorius. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
+ 
 
 
 
@@ -582,17 +604,20 @@ Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr
 
 
 
-6. Jeigu nekilnojamasis turtas, už kurį pagal šio įstatymo 3 ir 4 straipsnių nuostatas mokesčio mokėtojas privalo apskaičiuoti mokestį, priklausė jam nuosavybės teise, buvo įsigyjamas, naudojamas ekonominei ar individualiai veiklai arba juridinio asmens buvo perimtas iš fizinio asmens ne visą mokestinį laikotarpį, mokestis apskaičiuojamas proporcingai tai mokestinio laikotarpio daliai (mėnesiais), kurią tas nekilnojamasis turtas priklausė nuosavybės teise, buvo įsigyjamas, naudojamas ekonominei ar individualiai veiklai arba juridinio asmens buvo perimtas iš fizinio asmens, laikantis šių taisyklių:
+6. Jeigu nekilnojamasis turtas, už kurį pagal šio įstatymo 3 ir 4 straipsnių nuostatas mokesčio mokėtojas privalo apskaičiuoti mokestį, priklausė jam nuosavybės teise, buvo įsigyjamas arba juridinio asmens buvo perimtas iš fizinio asmens ne visą mokestinį laikotarpį, mokestis apskaičiuojamas proporcingai tai mokestinio laikotarpio daliai (mėnesiais), kurią tas nekilnojamasis turtas priklausė nuosavybės teise, buvo įsigyjamas arba juridinio asmens buvo perimtas iš fizinio asmens, laikantis šių taisyklių:
 
 
-1) juridiniai asmenys mokestį pradeda skaičiuoti nuo mėnesio, kurį įgyja nuosavybės teisę į nekilnojamąjį turtą, perima valdyti įsigyjamą nekilnojamąjį turtą, jiems grąžinamos teisės į įsigyjamą nekilnojamąjį turtą arba kurį nekilnojamasis turtas yra jiems perduodamas šio įstatymo 3 straipsnio 3 dalyje nurodytu atveju; fiziniai asmenys mokestį pradeda skaičiuoti nuo mėnesio, kurį įgyja nuosavybės teisę į nekilnojamąjį turtą, pradeda jį naudoti ekonominei ar individualiai veiklai, perima valdyti įsigyjamą nekilnojamąjį turtą, o šio įstatymo 3 straipsnio 3 dalyje nurodytu atveju – nuo mėnesio, kurį juridinis asmuo nekilnojamąjį turtą grąžina;
+1) juridiniai asmenys mokestį pradeda skaičiuoti nuo mėnesio, einančio po mėnesio, kurį įgijo nuosavybės teisę į nekilnojamąjį turtą, perėmė valdyti įsigyjamą nekilnojamąjį turtą, jiems grąžintos teisės į įsigyjamą nekilnojamąjį turtą arba kurį nekilnojamasis turtas yra jiems perduotas šio įstatymo 3 straipsnio 3 dalyje nurodytu atveju; fiziniai asmenys mokestį pradeda skaičiuoti nuo mėnesio, einančio po mėnesio, kurį įgijo nuosavybės teisę į nekilnojamąjį turtą, perėmė valdyti įsigyjamą nekilnojamąjį turtą, o šio įstatymo 3 straipsnio 3 dalyje nurodytu atveju – nuo mėnesio, einančio po mėnesio, kurį juridinis asmuo nekilnojamąjį turtą grąžino;
 
 
 
 
-2) juridiniai asmenys mokesčio nebeskaičiuoja nuo mėnesio, kurį nuosavybės teisę į nekilnojamąjį turtą perleidžia, perleidžia teises į įsigyjamą nekilnojamąjį turtą ar šių teisių netenka, o šio įstatymo 3 straipsnio 3 dalyje nurodytu atveju – nuo mėnesio, kurį nekilnojamąjį turtą grąžina; fiziniai asmenys mokesčio nebeskaičiuoja nuo mėnesio, kurį nuosavybės teisę į nekilnojamąjį turtą perleidžia, nustoja jį naudoti ekonominei ar individualiai veiklai, perleidžia teises į įsigyjamą nekilnojamąjį turtą ar šių teisių netenka, o šio įstatymo 3 straipsnio 3 dalyje nurodytu atveju – nuo mėnesio, kurį nekilnojamąjį turtą perduoda juridiniam asmeniui.
+2) juridiniai asmenys mokesčio nebeskaičiuoja nuo mėnesio, einančio po mėnesio, kurį nuosavybės teisę į nekilnojamąjį turtą perleido, perleido teises į įsigyjamą nekilnojamąjį turtą ar šių teisių neteko, o šio įstatymo 3 straipsnio 3 dalyje nurodytu atveju – nuo mėnesio, einančio po mėnesio, kurį nekilnojamąjį turtą grąžino; fiziniai asmenys mokesčio nebeskaičiuoja nuo mėnesio, einančio po mėnesio, kurį nuosavybės teisę į nekilnojamąjį turtą perleido, perleido teises į įsigyjamą nekilnojamąjį turtą ar šių teisių neteko, o šio įstatymo 3 straipsnio 3 dalyje nurodytu atveju – nuo mėnesio, einančio po mėnesio, kurį nekilnojamąjį turtą perdavė juridiniam asmeniui. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
+ 
 
 
 
@@ -645,12 +670,22 @@ MOKESČIO ĮSKAITYMAS
 14 straipsnis. Mokesčio įskaitymas
 
 
-1. Mokestis įskaitomas į savivaldybės, kurios teritorijoje yra nekilnojamasis turtas, biudžetą.
+1. Mokestis įskaitomas į savivaldybės, kurios teritorijoje yra nekilnojamasis turtas, biudžetą, jeigu šiame straipsnyje nenustatyta kitaip. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
+ 
 
 
 
 
 2. Jeigu nekilnojamasis turtas yra kelių savivaldybių teritorijoje, mokestis įskaitomas proporcingai nekilnojamojo turto daliai, tenkančiai atitinkamai savivaldybei.
+
+
+
+
+3. Mokestis už nekilnojamąjį turtą, kuris apmokestinamas taikant šio įstatymo 6 straipsnio 4 dalyje nustatytą tarifą, įskaitomas į valstybės biudžetą. 
+Papildyta straipsnio dalimi:
+Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
  
 
 
@@ -820,3 +855,8 @@ Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1158, 2010-11-23, Žin., 2010, Nr. 145-7415 (2010-12-11); Žin., 2010, Nr. 154-0 (2010-12-28), i. k. 1101010ISTA0XI-1158
 Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 2, 3, 4, 6, 7, 8, 9, 10, 11, 12 straipsnių pakeitimo ir papildymo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 2, 4, 6, 7, 11, 12, 14 straipsnių pakeitimo ir papildymo įstatymas
