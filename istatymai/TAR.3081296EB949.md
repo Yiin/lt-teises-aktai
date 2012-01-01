@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3081296EB949"
 
 # Lietuvos Respublikos Tarnybos Lietuvos Respublikos muitinėje statuto patvirtinimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2011-09-01 iki 2011-12-31
+Suvestinė redakcija nuo 2012-01-01 iki 2012-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2917; Žin. 2003, Nr.64-2881, i. k. 1001010ISTAIII-1986
  
@@ -118,47 +118,38 @@ Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010IST
 
 4 straipsnis. Muitinės pareigūnų pareigybės ir pareigybių aprašymai
 
-1. Muitinės pareigūnų pareigybių sąrašus tvirtina:
+1. Muitinės pareigūnų pareigybių sąrašus ir pareigybių aprašymus tvirtina Muitinės departamento generalinis direktorius.
 
-1) Muitinės departamento – Muitinės departamento generalinis direktorius; 
-Straipsnio punkto pakeitimai:
-Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010ISTA0IX-2186
+2. Muitinės pareigūnų, atliekančių operatyvinę veiklą ir (arba) ikiteisminį tyrimą, pareigybių sąrašą tvirtina Muitinės departamento generalinis direktorius.
+
+3. Muitinės departamento generalinio direktoriaus pareigybės aprašymą tvirtina finansų ministras. 
+
+Straipsnio pakeitimai:
+Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
  
 
-2) muitinės įstaigų – šių įstaigų vadovai.
+5 straipsnis. Finansų ministerijos ir Muitinės departamento statutinės komisijos
 
-2. Muitinės pareigūnų, atliekančių operatyvinę veiklą ir (arba) ikiteisminį tyrimą, sąrašą tvirtina Muitinės departamento generalinis direktorius. 
-Straipsnio dalies pakeitimai:
-Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010ISTA0IX-2186
+1. Finansų ministerijoje ir Muitinės departamente sudaromos statutinės komisijos. Finansų ministerijos statutinė komisija vertina Muitinės departamento generalinio direktoriaus, jo pavaduotojų ir Muitinės departamento statutinės komisijos narių – muitinės pareigūnų – tarnybinę veiklą. Muitinės departamento statutinė komisija vertina kitų Muitinės departamento ir muitinės įstaigų pareigūnų tarnybinę veiklą. Statutinės komisijos svarsto atitinkamų muitinės pareigūnų tarnybinės veiklos vertinimo klausimus ir teikia siūlymus dėl šių muitinės pareigūnų kvalifikacijos tobulinimo, kvalifikacinių kategorijų suteikimo, pareiginės algos dydžio vienkartinių priedų jiems skyrimo, šių muitinės pareigūnų perkėlimo į aukštesnės arba žemesnės kategorijos pareigas ir atleidimo iš pareigų. Statutinę komisiją turi sudaryti ne mažiau kaip 5 nariai (įskaitant pirmininką). Jeigu Muitinės departamente ir (arba) muitinės įstaigoje veikia profesinė sąjunga, vienas statutinės komisijos narys turi būti profesinės sąjungos įgaliotas atstovas. Jeigu Muitinės departamente ir (arba) muitinės įstaigoje veikia kelios profesinės sąjungos, visos šios profesinės sąjungos bendru susitarimu skiria atstovą į statutinės komisijos narius. Jeigu profesinė sąjunga (profesinės sąjungos) nepaskiria savo atstovo, profesinių sąjungų atstovas į statutinės komisijos narius neskiriamas.
+
+2. Finansų ministerijos statutinės komisijos nariais skiriami Finansų ministerijos valstybės tarnautojai ir Muitinės departamento pareigūnai. Personalinę Finansų ministerijos statutinės komisijos sudėtį tvirtina finansų ministras. Finansų ministerijos statutinės komisijos posėdžius gali stebėti muitinėje veikiančių profesinių sąjungų, jų susivienijimų įgalioti atstovai, kurie nėra Finansų ministerijos statutinės komisijos nariai.
+
+3. Muitinės departamento statutinės komisijos pirmininku skiriamas vienas iš Muitinės departamento generalinio direktoriaus pavaduotojų, o jos nariais gali būti paskirti Muitinės departamento generalinio direktoriaus pavaduotojai, muitinės įstaigų vadovai, jų pavaduotojai, Muitinės departamento ar muitinės įstaigų struktūrinių padalinių vadovai. Vertinant muitinės įstaigos muitinės pareigūno tarnybinę veiklą, bent vienas Muitinės departamento statutinės komisijos narys turi būti šios muitinės įstaigos vadovas arba jo pavaduotojas, arba šios muitinės įstaigos struktūrinio padalinio vadovas. Muitinės departamento statutinės komisijos posėdžius gali stebėti Finansų ministerijos įgalioti atstovai, muitinėje veikiančių profesinių sąjungų, jų susivienijimų įgalioti atstovai, kurie nėra Muitinės departamento statutinės komisijos nariai. Personalinę Muitinės departamento statutinės komisijos sudėtį tvirtina Muitinės departamento generalinis direktorius.
+
+4. Statutinių komisijų darbo tvarką nustato finansų ministras. 
+
+Straipsnio pakeitimai:
+Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
  
 
-3. Muitinės pareigūnų pareigybių aprašymus tvirtina pareigūnus į pareigas priimantys asmenys.
+51 straipsnis. Muitinės departamento ir muitinės įstaigų personalo valdymas
 
-4. Muitinės departamento generalinio direktoriaus pareigybės aprašymą tvirtina finansų ministras. 
-Straipsnio dalies pakeitimai:
-Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010ISTA0IX-2186
- 
+1. Muitinės departamento generalinis direktorius teisės aktų nustatyta tvarka atlieka Muitinės departamento ir muitinės įstaigų personalo (muitinės pareigūnų) valdymą.
 
-5 straipsnis. Finansų ministerijos, Muitinės departamento ir muitinės įstaigų statutinės komisijos
+2. Muitinės departamento generalinis direktorius turi teisę įgalioti atlikti šio Statuto jam pavestas funkcijas, išskyrus šio Statuto 4 straipsnio 1 dalyje nurodytą sąrašų tvirtinimą ir funkcijas, nurodytas šio Statuto 4 straipsnio 2 dalyje, 9 straipsnyje, 12 straipsnio 7 dalyje, 13 straipsnio 5 dalyje, 14 straipsnio 1 dalyje, 15 straipsnio 2 dalyje, 21 straipsnio 2 dalyje, 50 ir 52 straipsniuose, ir (arba) priimti kitus sprendimus personalo valdymo klausimais Muitinės departamento generalinio direktoriaus pavaduotoją arba atitinkamos muitinės įstaigos vadovą. Jeigu Muitinės departamento generalinio direktoriaus įgaliotas Muitinės departamento generalinio direktoriaus pavaduotojas arba muitinės įstaigos vadovas priima sprendimą personalo valdymo klausimu, šis sprendimas įforminamas Muitinės departamento generalinio direktoriaus įsakymu, jeigu teisės aktai nustato, kad toks Muitinės departamento generalinio direktoriaus sprendimas yra įforminamas įsakymu. 
 
-1. Finansų ministerijoje, Muitinės departamente ir muitinės įstaigose sudaromos statutinės komisijos. Jos svarsto muitinės pareigūnų tarnybinės veiklos vertinimo klausimus ir teikia siūlymus dėl muitinės pareigūnų kvalifikacijos tobulinimo, kvalifikacinių kategorijų suteikimo muitinės pareigūnams, pareiginės algos dydžio vienkartinių priedų skyrimo muitinės pareigūnams, muitinės pareigūnų perkėlimo į aukštesnės arba žemesnės kategorijos pareigas bei atleidimo iš pareigų. Statutinę komisiją turi sudaryti ne mažiau kaip 5 nariai (įskaitant pirmininką). Jeigu muitinės įstaigoje veikia profesinė sąjunga, vienas statutinės komisijos narys turi būti profesinės sąjungos įgaliotas atstovas. Jeigu muitinės įstaigoje veikia kelios profesinės sąjungos, jos susitarimu skiria bendrą atstovą į statutinės komisijos narius. Jeigu profesinės sąjungos nesusitaria dėl bendro atstovo paskyrimo, profesinių sąjungų atstovas į statutinės komisijos narius neskiriamas. 
-Straipsnio dalies pakeitimai:
-Nr. X-1770, 2008-11-06, Žin., 2008, Nr. 134-5176 (2008-11-22), i. k. 1081010ISTA00X-1770
- 
-
-2. Finansų ministerijos statutinės komisijos nariais skiriami Finansų ministerijos valstybės tarnautojai ir Muitinės departamento pareigūnai. Personalinę Finansų ministerijos statutinės komisijos sudėtį tvirtina finansų ministras.
-
-3. Muitinės departamento statutinės komisijos pirmininku skiriamas vienas iš Muitinės departamento generalinio direktoriaus pavaduotojų, o jos nariais – Muitinės departamento generalinio direktoriaus pavaduotojai ir struktūrinių padalinių viršininkai. Stebėtojų teisėmis Muitinės departamento statutinėje komisijoje gali dalyvauti Finansų ministerijos ir muitinės profesinių sąjungų susivienijimo atstovai. Personalinę Muitinės departamento statutinės komisijos sudėtį tvirtina Muitinės departamento generalinis direktorius. 
-Straipsnio dalies pakeitimai:
-Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010ISTA0IX-2186
- 
-
-4. Muitinės įstaigos statutinės komisijos pirmininku skiriamas vienas iš tos muitinės įstaigos vadovo pavaduotojų, o jos nariais – tos muitinės įstaigos vadovo pavaduotojai ir struktūrinių padalinių viršininkai. Stebėtojų teisėmis muitinės įstaigos statutinėje komisijoje gali dalyvauti Finansų ministerijos, Muitinės departamento ir muitinės profesinių sąjungų atstovai. Personalinę kiekvienos muitinės įstaigos statutinės komisijos sudėtį tvirtina tos muitinės įstaigos vadovas. 
-Straipsnio dalies pakeitimai:
-Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
- 
-
-5. Statutinių komisijų darbo tvarką nustato finansų ministras.
+Papildyta straipsniu:
+Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
  
 
 ANTRASIS SKIRSNIS
@@ -264,23 +255,30 @@ Straipsnio dalies pakeitimai:
 Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010ISTA0IX-2186
  
 
-2. Muitinės departamento pareigūnus bei muitinės įstaigų vadovus ir jų pavaduotojus priima į pareigas, perkelia į kitas pareigas ir iš pareigų atleidžia Muitinės departamento generalinis direktorius. Muitinės įstaigų vadovai priimami į pareigas penkerių metų kadencijai. 
+2. Muitinės departamento ir muitinės įstaigų pareigūnus priima į pareigas, perkelia į kitas pareigas ir iš pareigų atleidžia Muitinės departamento generalinis direktorius. Muitinės įstaigų vadovai priimami į pareigas penkerių metų kadencijai. 
 Straipsnio dalies pakeitimai:
 Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010ISTA0IX-2186
+Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
  
 
-3. Muitinės postų viršininkus priima į pareigas, perkelia į kitas pareigas ir iš pareigų atleidžia teritorinės muitinės, kurios veiklos zonai priklauso postas, viršininkas, suderinęs su Muitinės departamento generaliniu direktoriumi. 
+3. Neteko galios nuo 2012-01-01
+Straipsnio dalies naikinimas:
+Nr. XI-1903, 2011-12-23, Žin. 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
 Straipsnio dalies pakeitimai:
 Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010ISTA0IX-2186
  
 
 4. Pakaitiniai muitinės pareigūnai priimami į laikinai negalinčio eiti muitinės pareigūno pareigas ir jas eina tol, kol sugrįžta negalėjęs eiti pareigų muitinės pareigūnas, bet ne ilgiau kaip trejus metus.
 
-5. Šio straipsnio 2 ir 3 dalyse nenurodytus muitinės įstaigų pareigūnus priima į pareigas, perkelia į kitas pareigas ir iš pareigų atleidžia muitinės įstaigos vadovas.
+5. Neteko galios nuo 2012-01-01
+Straipsnio dalies naikinimas:
+Nr. XI-1903, 2011-12-23, Žin. 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
+ 
 
-6. Priėmimas į pareigas, perkėlimas į kitas pareigas ir atleidimas iš pareigų įforminamas finansų ministro, Muitinės departamento generalinio direktoriaus arba muitinės įstaigos vadovo įsakymu. Įsakyme dėl priėmimo į muitinės posto pareigūno pareigas pareigūno tarnybos vieta apibrėžiama kaip muitinės įstaigos veiklos zona. 
+6. Priėmimas į pareigas, perkėlimas į kitas pareigas ir atleidimas iš pareigų įforminamas finansų ministro, kai priimamas į pareigas arba iš jų atleidžiamas Muitinės departamento generalinis direktorius, arba Muitinės departamento generalinio direktoriaus, kai priimamas į pareigas, perkeliamas į kitas pareigas arba iš pareigų atleidžiamas kitas muitinės pareigūnas, įsakymu. Įsakyme dėl priėmimo į muitinės posto pareigūno pareigas pareigūno tarnybos vieta apibrėžiama kaip muitinės įstaigos veiklos zona. 
 Straipsnio dalies pakeitimai:
 Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010ISTA0IX-2186
+Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
  
 
 7. Kai asmuo priimamas į pareigas muitinėje, sudaroma jo asmens byla. Asmens bylų nomenklatūrą, jų tvarkymo ir saugojimo tvarką nustato Muitinės departamento generalinis direktorius. 
@@ -295,11 +293,17 @@ Straipsnio dalies pakeitimai:
 Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010ISTA0IX-2186
  
 
-2. Jeigu stažuotės metu stažuotės vadovas pripažįsta, kad muitinės pareigūno stažuotės rezultatai yra nepatenkinami ir tam pritaria muitinės pareigūną į pareigas priėmęs vadovas, muitinės pareigūnas nesibaigus stažuotei atleidžiamas iš pareigų pagal Statuto 55 straipsnio 1 dalies 16 punktą.
+2. Jeigu stažuotės metu stažuotės vadovas pripažįsta, kad muitinės pareigūno stažuotės rezultatai yra nepatenkinami, ir tam pritaria Muitinės departamento generalinis direktorius, muitinės pareigūnas nesibaigus stažuotei atleidžiamas iš pareigų pagal Statuto 55 straipsnio 1 dalies 16 punktą. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
+ 
 
 3. Atostogų ir laikinojo nedarbingumo laikas į stažuotės laiką neįskaitomas.
 
-4. Pakaitiniams muitinės pareigūnams juos priėmusių į pareigas asmenų nuožiūra stažuotė gali būti nenustatoma.
+4. Pakaitiniams muitinės pareigūnams Muitinės departamento generalinio direktoriaus nuožiūra stažuotė gali būti nenustatoma. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
+ 
 
 5. Stažuotės atlikimo tvarką nustato Muitinės departamento generalinis direktorius. 
 Straipsnio dalies pakeitimai:
@@ -519,7 +523,10 @@ MUITINĖS PAREIGŪNŲ TARNYBINĖS VEIKLOS VERTINIMAS
 
 4) nepatenkinamai.
 
-13. Muitinės departamento pareigūnų, muitinės įstaigų vadovų, jų pavaduotojų ir muitinės įstaigų statutinių komisijų narių tarnybinę veiklą vertina Muitinės departamento statutinė komisija. Muitinės įstaigų pareigūnų tarnybinę veiklą vertina muitinės įstaigų statutinės komisijos. Muitinės departamento generalinio direktoriaus, jo pavaduotojų ir Muitinės departamento statutinės komisijos narių tarnybinę veiklą vertina Finansų ministerijos statutinė komisija.
+13. Muitinės departamento ir muitinės įstaigų pareigūnų tarnybinę veiklą vertina Muitinės departamento statutinė komisija. Muitinės departamento generalinio direktoriaus, jo pavaduotojų ir Muitinės departamento statutinės komisijos narių tarnybinę veiklą vertina Finansų ministerijos statutinė komisija. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
+ 
 
 14. Statutinė komisija turi teisę pakviesti dalyvauti savo posėdyje vertinamo muitinės pareigūno tiesioginį vadovą.
 
@@ -618,7 +625,10 @@ MUITINĖS PAREIGŪNŲ KARJERA
 
 27 straipsnis. Muitinės pareigūno perkėlimas į aukštesnes pareigas 
 
-1. Muitinės pareigūnas, kurio tarnybinę veiklą statutinė komisija įvertino labai gerai, jį į pareigas priėmusio asmens sprendimu gali būti be konkurso perkeltas į aukštesnes (ne daugiau kaip dviem kategorijomis) pareigas, jeigu jis atitinka pareigybės aprašyme nustatytus reikalavimus.
+1. Muitinės pareigūnas, kurio tarnybinę veiklą statutinė komisija įvertino labai gerai, Muitinės departamento generalinio direktoriaus sprendimu gali būti be konkurso perkeltas į aukštesnes (ne daugiau kaip dviem kategorijomis) pareigas, jeigu jis atitinka pareigybės aprašyme nustatytus reikalavimus ir muitinės pareigūnas sutinka. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
+ 
 
 2. Draudžiama perkelti į aukštesnės kategorijos pareigas muitinės pareigūną, turintį galiojančią tarnybinę nuobaudą.
  
@@ -633,31 +643,42 @@ MUITINĖS PAREIGŪNŲ KARJERA
 
 2. Muitinės pareigūnas šio straipsnio 1 dalyje nurodytais atvejais gali būti perkeltas į kitas pareigas, jeigu turi joms eiti būtiną išsilavinimą ir atitinka pareigybės aprašyme nustatytus reikalavimus. 
 
-3. Kai asmens sveikatos priežiūros įstaigos gydytojų konsultacinės komisijos arba medicinos ekspertizės komisijos išvadoje nurodyta, kad muitinės pareigūnas dėl sveikatos būklės negali eiti savo pareigų, Muitinės departamento generalinis direktorius arba muitinės įstaigos vadovas turi teisę tą muitinės pareigūną perkelti į kitas tos pačios arba žemesnės kategorijos pareigas, kurias muitinės pareigūnas pagal savo sveikatos būklę gali eiti. Jei nėra galimybės muitinės pareigūną perkelti į kitas pareigas, atitinkančias jo sveikatos būklę, jis atleidžiamas iš pareigų pagal Statuto 55 straipsnio 1 dalies 14 punktą. 
+3. Kai asmens sveikatos priežiūros įstaigos išvadoje nurodyta, kad muitinės pareigūnas dėl sveikatos būklės negali eiti pareigų, Muitinės departamento generalinis direktorius turi teisę tą muitinės pareigūną perkelti į kitas tos pačios arba žemesnės kategorijos pareigas, kurias muitinės pareigūnas pagal savo sveikatos būklę gali eiti, ir muitinės pareigūnas sutinka, turi joms eiti būtiną išsilavinimą ir atitinka pareigybės aprašyme nustatytus reikalavimus. Jei nėra galimybės muitinės pareigūną perkelti į kitas pareigas, atitinkančias jo sveikatos būklę, arba muitinės pareigūnas nesutinka būti perkeltas į kitas pareigas, jis atleidžiamas iš pareigų pagal Statuto 55 straipsnio 1 dalies 14 punktą. 
 Straipsnio dalies pakeitimai:
 Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010ISTA0IX-2186
 Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
+Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
  
 
 281 straipsnis. Muitinės pareigūno perkėlimas į kitą muitinės įstaigą
 
-1. Statuto 28 straipsnio 1 dalyje nurodytais atvejais muitinės pareigūnas gali būti jo prašymu perkeltas iš vienos muitinės įstaigos į kitą muitinės įstaigą ar Muitinės departamentą arba iš Muitinės departamento į muitinės įstaigą Muitinės departamento generalinio direktoriaus įsakymu. Perkelti muitinės pareigūną iš vienos muitinės įstaigos į kitą muitinės įstaigą galima, jeigu yra abiejų muitinės įstaigų vadovų rašytinis sutikimas dėl muitinės pareigūno perkėlimo. Perkelti muitinės pareigūną iš Muitinės departamento į muitinės įstaigą arba iš muitinės įstaigos į Muitinės departamentą galima, jeigu yra tos muitinės įstaigos vadovo rašytinis sutikimas.
+Statuto 28 straipsnio 1 dalyje nurodytais atvejais muitinės pareigūnas gali būti jo prašymu perkeltas iš vienos muitinės įstaigos į kitą muitinės įstaigą ar Muitinės departamentą arba iš Muitinės departamento į muitinės įstaigą Muitinės departamento generalinio direktoriaus įsakymu. 
 
-2. Perkėlus muitinės pareigūną iš vienos muitinės įstaigos į kitą muitinės įstaigą ar Muitinės departamentą arba iš Muitinės departamento į muitinės įstaigą Muitinės departamento generalinio direktoriaus įsakymu, laikoma, kad muitinės pareigūną į pareigas priėmęs asmuo yra muitinės įstaigos, į kurią jis perkeltas, vadovas arba Muitinės departamento generalinis direktorius, kai yra perkeltas į Muitinės departamentą. 
-
-Papildyta straipsniu:
-Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
+Straipsnio pakeitimai:
+Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
  
 
 29 straipsnis. Muitinės pareigūno laikinas perkėlimas į kitas pareigas ar laikinas pavedimas muitinės pareigūnui atlikti kitas pareigas
 
-1. Kai yra tarnybinė būtinybė, Muitinės departamento generalinis direktorius turi teisę laikinai perkelti Muitinės departamento arba muitinės įstaigos muitinės pareigūną be jo sutikimo į kitas jo kvalifikaciją atitinkančias tos pačios, žemesnės arba aukštesnės kategorijos pareigas Muitinės departamente arba kitoje muitinės įstaigoje.
+1. Kai yra tarnybinė būtinybė, Muitinės departamento generalinis direktorius turi teisę laikinai perkelti Muitinės departamento arba muitinės įstaigos muitinės pareigūną be jo sutikimo į kitas jo kvalifikaciją atitinkančias tos pačios, žemesnės arba aukštesnės kategorijos pareigas toje pačioje arba kitoje muitinės įstaigoje arba Muitinės departamente. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
+ 
 
-2. Kai yra tarnybinė būtinybė, muitinės pareigūną į pareigas priėmęs asmuo turi teisę laikinai perkelti be jo sutikimo į kitas jo kvalifikaciją atitinkančias tos pačios, žemesnės arba aukštesnės kategorijos pareigas toje pačioje muitinės įstaigoje.
+2. Neteko galios nuo 2012-01-01
+Straipsnio dalies naikinimas:
+Nr. XI-1903, 2011-12-23, Žin. 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
+ 
 
-3. Šio straipsnio 1 ir 2 dalyse numatytas laikinas perkėlimas į kitas pareigas negali trukti ilgiau kaip vienerius metus per penkerius muitinės pareigūno tarnybos metus. Pasibaigus laikino perkėlimo terminui, muitinės pareigūnas grąžinamas į pareigas, eitas iki perkėlimo.
+3. Šio straipsnio 1 dalyje numatytas laikinas perkėlimas į kitas pareigas negali trukti ilgiau kaip vienerius metus per penkerius muitinės pareigūno tarnybos metus. Pasibaigus laikino perkėlimo terminui, muitinės pareigūnas grąžinamas į pareigas, eitas iki perkėlimo. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
+ 
 
-4. Šio straipsnio 1 ir 2 dalių nuostatos netaikomos nėščioms muitinės pareigūnėms ir bent vieną vaiką iki 7 metų auginantiems muitinės pareigūnams, taip pat muitinės pareigūnams, vieniems auginantiems bent vieną vaiką iki 16 metų arba neįgalų vaiką iki 18 metų.
+4. Šio straipsnio 1 dalis netaikoma nėščioms muitinės pareigūnėms ir bent vieną vaiką iki 7 metų auginantiems muitinės pareigūnams, taip pat muitinės pareigūnams, vieniems auginantiems bent vieną vaiką iki 16 metų arba neįgalų vaiką iki 18 metų. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
+ 
 
 5. Muitinės pareigūnui jo rašytiniu sutikimu gali būti pavesta kartu su pagrindinėmis pareigomis atlikti ir laikinai nesančio muitinės pareigūno pareigas. Šiuo atveju jis turi atitikti pareigybės aprašyme nustatytus specialiuosius reikalavimus. 
 
@@ -705,7 +726,10 @@ Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010IST
 
 32 straipsnis. Muitinės pareigūnų skatinimo tvarka
 
-1. Muitinės pareigūnus skatina juos į pareigas priėmę asmenys. Muitinės departamento generalinis direktorius gali skatinti visus muitinės pareigūnus.
+1. Muitinės pareigūnus skatina Muitinės departamento generalinis direktorius.
+Straipsnio dalies pakeitimai:
+Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
+ 
 
 2. Muitinės departamento generalinį direktorių skatina finansų ministras. 
 
@@ -734,7 +758,10 @@ Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010IST
 
 5) atleidimas iš pareigų.
 
-2. Muitinės pareigūnams tarnybines nuobaudas skiria juos į pareigas priėmę asmenys.
+2. Muitinės pareigūnams tarnybines nuobaudas skiria Muitinės departamento generalinis direktorius. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
+ 
 
 3. Muitinės departamento generaliniam direktoriui tarnybines nuobaudas skiria finansų ministras. 
 Straipsnio dalies pakeitimai:
@@ -926,16 +953,15 @@ Nr. X-790, 2006-07-19, Žin., 2006, Nr. 87-3401 (2006-08-08), i. k. 1061010ISTA0
 
 49 straipsnis. Darbo užmokesčio mokėjimas laikino perkėlimo į kitas pareigas ir laikino pavedimo atlikti kitas pareigas atveju
 
-1. Muitinės pareigūnui, kuris laikinai perkeltas į aukštesnės kategorijos pareigas Statuto 29 straipsnio 1 ir 2 dalyse nurodytais atvejais, mokamas šių pareigų kategoriją atitinkantis darbo užmokestis.
+1. Muitinės pareigūnui, kuris laikinai perkeltas į aukštesnės kategorijos pareigas Statuto 29 straipsnio 1 dalyje nurodytais atvejais, mokamas šių pareigų kategoriją atitinkantis darbo užmokestis.
 
-2. Muitinės pareigūnui, kuris laikinai perkeltas į žemesnės kategorijos pareigas Statuto 29 straipsnio 1 ir 2 dalyse nurodytais atvejais, mokamas iki laikino perkėlimo gautas darbo užmokestis.
+2. Muitinės pareigūnui, kuris laikinai perkeltas į žemesnės kategorijos pareigas Statuto 29 straipsnio 1 dalyje nurodytais atvejais, mokamas iki laikino perkėlimo gautas darbo užmokestis.
 
-3. Muitinės pareigūnui, kuris laikinai perkeltas į kitas pareigas Statuto 29 straipsnio 1 dalyje nurodytu atveju, darbo užmokestį moka Muitinės departamentas arba muitinės įstaiga, į kuriuos jis yra laikinai perkeltas.
-
-4. Muitinės pareigūnui, kuriam laikinai pavesta atlikti kitas pareigas Statuto 29 straipsnio 5 dalyje nurodytu atveju, mokama atitinkama Valstybės tarnybos įstatymo numatyta priemoka. 
+3. Muitinės pareigūnui, kuriam laikinai pavesta atlikti kitas pareigas Statuto 29 straipsnio 4 dalyje nurodytu atveju, mokama atitinkama Valstybės tarnybos įstatymo numatyta priemoka. 
 
 Straipsnio pakeitimai:
 Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
+Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
  
 
 DEŠIMTASIS SKIRSNIS
@@ -963,9 +989,15 @@ Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000
 
 5. Pasinaudoti šio straipsnio 4 dalyje nurodytomis atostogomis muitinės pareigūnas gali ne dažniau kaip vieną kartą per penkerius metus.
 
-6. Muitinės pareigūnui dėl Statuto 29 straipsnio 1 ir 2 dalyse nustatyto laikino perkėlimo į kitas pareigas (kai laikinai perkeliama į kitas pareigas kitoje gyvenamojoje vietovėje) skiriama iki 5 darbo dienų persikėlimo atostogų. Už šį laikotarpį muitinės pareigūnui mokamas jo vidutinis mėnesinis darbo užmokestis, apskaičiuotas Vyriausybės nustatyta tvarka.
+6. Muitinės pareigūnui dėl Statuto 29 straipsnio 1 dalyje nustatyto laikino perkėlimo į kitas pareigas (kai laikinai perkeliama į kitas pareigas kitoje gyvenamojoje vietovėje) skiriama iki 5 darbo dienų persikėlimo atostogų. Už šį laikotarpį muitinės pareigūnui mokamas jo vidutinis mėnesinis darbo užmokestis, apskaičiuotas Vyriausybės nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
+ 
 
-7. Persikėlimo išlaidas, susidariusias dėl Statuto 29 straipsnio 1 ir 2 dalyse nustatyto laikino perkėlimo į kitas pareigas (kai laikinai perkeliama į kitas pareigas kitoje gyvenamojoje vietovėje), moka Muitinės departamentas arba muitinės įstaiga, į kuriuos perkeltas muitinės pareigūnas. Persikėlimo išlaidos mokamos Vyriausybės nustatyta tvarka.
+7. Persikėlimo išlaidos, susidariusios dėl Statuto 29 straipsnio 1 dalyje nustatyto laikino perkėlimo į kitas pareigas (kai laikinai perkeliama į kitas pareigas kitoje gyvenamojoje vietovėje), mokamos Vyriausybės nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
+ 
 
 8. Muitinės pareigūnų valstybinį socialinį draudimą, sveikatos draudimą ir teisę į pensijas nustato įstatymai.
 
@@ -977,11 +1009,12 @@ Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000
 
 52 straipsnis. Vykimo į kitą gyvenamąją vietovę išlaidų kompensavimas
 
-Muitinės pareigūnams, kurie Statuto 29 straipsnio 1 ir 2 dalyse nustatyta tvarka laikinai perkelti į kitas pareigas kitoje gyvenamojoje vietovėje, Muitinės departamento generalinio direktoriaus nustatyta tvarka kompensuojamos vykimo į tarnybos vietą arba gyvenamosios patalpos nuomos išlaidos (išskyrus atvejus, kai muitinės pareigūnas vyksta į tarnybos vietą tarnybiniu transportu). 
+Muitinės pareigūnams, kurie Statuto 29 straipsnio 1 dalyje nustatyta tvarka laikinai perkelti į kitas pareigas kitoje gyvenamojoje vietovėje, Muitinės departamento generalinio direktoriaus nustatyta tvarka kompensuojamos vykimo į tarnybos vietą arba gyvenamosios patalpos nuomos išlaidos (išskyrus atvejus, kai muitinės pareigūnas vyksta į tarnybos vietą tarnybiniu transportu). 
 
 Straipsnio pakeitimai:
 Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010ISTA0IX-2186
 Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
+Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
  
 
 53 straipsnis. Išeitinės išmokos 
@@ -998,7 +1031,10 @@ Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000
 
 4) daugiau kaip dvidešimties metų – 6 mėnesių.
 
-3. Šio straipsnio 2 dalyje nustatytas išeitines išmokas moka įstaiga, kurios vadovas priėmė sprendimą dėl pareigybės panaikinimo. Jeigu pareigybė panaikinama Seimo ar Vyriausybės sprendimu, išeitines išmokas moka įstatymu ar Vyriausybės nutarimu įgaliota institucija ar įstaiga.
+3. Jeigu pareigybė panaikinama Seimo ar Vyriausybės sprendimu, išeitines išmokas moka įstatymu ar Vyriausybės nutarimu įgaliota institucija ar įstaiga. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
+ 
 
 4. Šio straipsnio 2 dalyje nustatyta išeitinė išmoka pradedama mokėti praėjus mėnesiui nuo muitinės pareigūno atleidimo iš pareigų dienos ir mokama kas mėnesį lygiomis dalimis. Jos mokėjimas nutraukiamas, jeigu asmuo pradeda eiti valstybės tarnautojo pareigas. Jeigu asmuo pradeda eiti pareigas ne pirmą mėnesio dieną, išeitinė išmoka mokama tik už to mėnesio dienas iki priėmimo į valstybės tarnautojo pareigas dienos.
  
@@ -1015,7 +1051,10 @@ Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000
 
 3) dėl sveikatos sutrikdymo Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka nustatytas 60–100 procentų darbingumo lygis arba iki 2005 m. liepos 1 d. buvo nustatyta III invalidumo grupė – 12 jo vidutinių mėnesinių darbo užmokesčių dydžio.
 
-3. Muitinės mobiliųjų grupių pareigūno, muitinės postų pareigūno ir muitinės pareigūno, atliekančio operatyvinę veiklą ir (arba) ikiteisminį tyrimą, sveikatos sužalojimo sunkumo laipsnį, taip pat dėl sužeidimo likusius sveikatos pakitimus ar sumažėjusį jo tinkamumą tarnybai teisės aktų nustatyta tvarka nustato įgaliota Lietuvos nacionalinės sveikatos sistemos asmens sveikatos priežiūros įstaigos medicinos komisija. Šio straipsnio 1 ir 2 dalyse nustatytos kompensacijos mokamos iš Muitinės departamentui patvirtintų valstybės biudžeto asignavimų.
+3. Muitinės mobiliųjų grupių pareigūno, muitinės postų pareigūno ir muitinės pareigūno, atliekančio operatyvinę veiklą ir (arba) ikiteisminį tyrimą, sveikatos sužalojimo sunkumo laipsnį, taip pat dėl sužeidimo likusius sveikatos pakitimus ar sumažėjusį jo tinkamumą tarnybai teisės aktų nustatyta tvarka nustato įgaliota Lietuvos nacionalinės sveikatos sistemos asmens sveikatos priežiūros įstaigos medicinos komisija. Šio straipsnio 1 ir 2 dalyse nustatytos kompensacijos mokamos iš Muitinės departamentui skirtų valstybės biudžeto lėšų. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
+ 
 
 4. Šio straipsnio 2 dalyje nustatyta kompensacija nemokama, jeigu pareigūnas sužeidimo vykdant tarnybines pareigas (arba ne tarnybos metu, bet dėl priežasčių, susijusių su tarnyba) metu buvo apsvaigęs nuo narkotinių, toksinių, psichotropinių medžiagų arba alkoholio arba dėl sužeidimo metu atliktų veiksmų buvo pradėtas ikiteisminis tyrimas ar administracinio teisės pažeidimo bylos teisena ir įsiteisėjo apkaltinamasis nuosprendis ar paskirta administracinė nuobauda arba pareigūnas save sužalojo tyčia. 
 
@@ -1027,7 +1066,10 @@ Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000
 
 1. Muitinės pareigūnams yra garantuojamos einamos pareigos ir nustatytas darbo užmokestis:
 
-1) stažuotės metu ir kai muitinės pareigūnai Muitinės departamento generalinio direktoriaus ar muitinės įstaigos vadovo įsakymu yra pasiųsti į Valstybės tarnybos įstatymo nustatytą mokymą;
+1) stažuotės metu ir kai muitinės pareigūnai juos į pareigas priėmusio asmens yra pasiųsti į Valstybės tarnybos įstatymo nustatytą mokymą; 
+Straipsnio punkto pakeitimai:
+Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
+ 
 
 2) kai muitinės pareigūnai yra išsiųsti į tarnybinę komandiruotę, – už darbo dienomis komandiruotėje ir komandiruotės metu kelionėje išbūtą laiką;
 
@@ -1056,11 +1098,17 @@ Nr. X-1770, 2008-11-06, Žin., 2008, Nr. 134-5176 (2008-11-22), i. k. 1081010IST
 
 3. Muitinės pareigūnas turi teisę Vyriausybės nustatyta tvarka gauti išmokas už komandiruotės išlaidas.
 
-4. Muitinės pareigūnams, kurių materialinė būklė sunki dėl jų pačių ligos, šeimos narių ligos ar mirties, stichinės nelaimės ar turto netekimo, gali būti skiriama iki 5 MMA dydžio pašalpa. Pašalpą skiria muitinės pareigūną į pareigas priėmęs asmuo iš tai įstaigai skirtų lėšų. Muitinės departamento generaliniam direktoriui ir muitinės įstaigos vadovui pašalpa skiriama iš jo vadovaujamai įstaigai skirtų lėšų.
+4. Muitinės pareigūnams, kurių materialinė būklė sunki dėl jų pačių ligos, šeimos narių ligos ar mirties, stichinės nelaimės ar turto netekimo, gali būti skiriama iki 5 MMA dydžio pašalpa. Pašalpą skiria muitinės pareigūną į pareigas priėmęs asmuo. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
+ 
 
 5. Muitinės pareigūnui priklausančios darbo užmokesčio ir kitos su tarnybos santykiais susijusios sumos priteisiamos ne daugiau kaip už trejus metus.
 
-6. Muitinės pareigūnai, kuriuos Muitinės departamentas ar muitinės įstaiga siunčia į užsienio komandiruotę, apdraudžiami draudimu nuo nelaimingų atsitikimų ir draudimu ligos atvejui. Draudimo išlaidas apmoka muitinės pareigūną į užsienio komandiruotę siunčianti įstaiga iš savo biudžeto lėšų.
+6. Muitinės pareigūnai, juos į pareigas priėmusio asmens siunčiami į užsienio komandiruotę, apdraudžiami draudimu nuo nelaimingų atsitikimų ir draudimu ligos atvejui. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
+ 
 
 7. Muitinės pareigūnas, kurio pareigybė naikinama, paskiriamas į kitas to paties lygio ir kategorijos pareigas, o jei tokių pareigų nėra ir muitinės pareigūnas sutinka, – į to paties lygio žemesnės kategorijos pareigas. Jei iki pareigybės panaikinimo muitinės pareigūnas į kitas pareigas nepaskiriamas, jis atleidžiamas iš pareigų pagal Statuto 55 straipsnio 1 dalies 8 punktą. Muitinės pareigūnui apie pareigybės panaikinimą turi būti pranešta raštu ne vėliau kaip prieš 2 mėnesius iki pareigybės panaikinimo. Neįgaliajam, nėščiai muitinės pareigūnei (kai muitinės įstaiga likviduojama), pareigūnui, auginančiam vaikus (vaiką) iki 14 metų, pareigūnui, kuriam iki teisės gauti visą senatvės pensiją liko ne daugiau kaip penkeri metai, apie pareigybės panaikinimą turi būti pranešta raštu prieš 4 mėnesius.
 
@@ -1160,10 +1208,10 @@ Nr. X-1770, 2008-11-06, Žin., 2008, Nr. 134-5176 (2008-11-22), i. k. 1081010IST
 
 551 straipsnis. Išbraukimas iš muitinės pareigūnų sąrašų
 
-Mirę, įstatymų nustatyta tvarka paskelbti mirusiais, pripažinti nežinia kur esančiais muitinės pareigūnai išbraukiami iš muitinės pareigūnų sąrašų Muitinės departamento generalinio direktoriaus arba muitinės įstaigos vadovo įsakymu. 
+Mirę, įstatymų nustatyta tvarka paskelbti mirusiais, pripažinti nežinia kur esančiais muitinės pareigūnai išbraukiami iš muitinės pareigūnų sąrašų Muitinės departamento generalinio direktoriaus įsakymu. 
 
-Papildyta straipsniu:
-Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
+Straipsnio pakeitimai:
+Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
  
 
 56 straipsnis. Atsiskaitymas su atleidžiamu iš pareigų muitinės pareigūnu
@@ -1229,4 +1277,9 @@ Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto 5, 6, 15, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1524, 2011-06-23, Žin., 2011, Nr. 86-4166 (2011-07-13), i. k. 1111010ISTA0XI-1524
 Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto 54 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
+Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto 4, 5, 12, 13, 25, 27, 28, 28-1, 29, 32, 34, 49, 51, 52, 53, 53-1, 54, 55-1 straipsnių pakeitimo ir Statuto papildymo 5-1 straipsniu įstatymas
 
