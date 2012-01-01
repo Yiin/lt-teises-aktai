@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE6CFE9E2EE"
 
 # Lietuvos Respublikos šalpos pensijų įstatymas
 
-Suvestinė redakcija nuo 2011-12-30 iki 2011-12-31
+Suvestinė redakcija nuo 2012-01-01 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1873, i. k. 0941010ISTA000I-675
  
@@ -184,7 +184,10 @@ Nr. X-1448, 2008-02-01, Žin., 2008, Nr. 19-676 (2008-02-14), i. k. 1081010ISTA0
 
 
 
-2. Šalpos išmokoms administruoti skiriama iki 4 procentų šioms išmokoms mokėti skirtų lėšų. 
+2. Šalpos išmokoms administruoti skiriama iki 4 procentų šioms išmokoms mokėti skirtų lėšų, iš jų socialinį darbą dirbančių darbuotojų darbo užmokesčiui padidinti – 1 procentą šalpos išmokoms mokėti skirtų lėšų. Konkretų šalpos išmokoms administruoti skiriamų lėšų procento dydį iki biudžetinių metų pradžios nustato socialinės apsaugos ir darbo ministras. Šalpos išmokoms administruoti panaudojama ne didesnė lėšų suma negu šalpos išmokoms administruoti nustatytas skiriamų lėšų procento dydis nuo panaudotų lėšų išmokoms mokėti.
+Straipsnio dalies pakeitimai:
+Nr. XI-1768, 2011-12-01, Žin., 2011, Nr. 155-7351 (2011-12-20), i. k. 1111010ISTA0XI-1768
+ 
 
 
 
@@ -1212,3 +1215,8 @@ Lietuvos Respublikos valstybinių šalpos išmokų įstatymo 22 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1648, 2011-11-10, Žin., 2011, Nr. 144-6757 (2011-11-29), i. k. 1111010ISTA0XI-1648
 Lietuvos Respublikos valstybinių šalpos išmokų įstatymo 8, 22, 24 ir 26 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1768, 2011-12-01, Žin., 2011, Nr. 155-7351 (2011-12-20), i. k. 1111010ISTA0XI-1768
+Lietuvos Respublikos valstybinių šalpos išmokų įstatymo 4 straipsnio pakeitimo įstatymas
