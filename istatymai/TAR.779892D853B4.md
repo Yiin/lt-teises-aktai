@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2011-09-01 iki 2011-12-31
+Suvestinė redakcija nuo 2012-01-01 iki 2013-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
  
@@ -125,9 +125,10 @@ Nr. XI-554, 2009-12-10, Žin., 2009, Nr. 153-6892 (2009-12-28), i. k. 1091010IST
 
 
 
-7. Finansų įmonė – Lietuvos Respublikos įmonė arba užsienio valstybės įmonės padalinys, kuris veikia Lietuvos Respublikoje įstatymų, reglamentuojančių finansinių paslaugų teikimą ir finansų įstaigų veiklą, nustatyta tvarka ir verčiasi vienos arba daugiau šio Įstatymo 3 straipsnio 1 dalies 2, 3, 5–17, 19 punktuose nurodytų finansinių paslaugų teikimu. 
+7. Finansų įmonė – Lietuvos Respublikos įmonė arba užsienio valstybės įmonės padalinys, kurie veikia Lietuvos Respublikoje įstatymų, reglamentuojančių finansinių paslaugų teikimą ir finansų įstaigų veiklą, nustatyta tvarka ir kurių pagrindinę veiklos dalį sudaro vienos arba daugiau šio Įstatymo 3 straipsnio 1 dalyje, išskyrus 1 punktą, nurodytų finansinių paslaugų teikimas. 
 Straipsnio dalies pakeitimai:
 Nr. X-1306, 2007-10-25, Žin., 2007, Nr. 117-4775 (2007-11-15), i. k. 1071010ISTA00X-1306
+Nr. XI-1872, 2011-12-22, Žin., 2011, Nr. 163-7763 (2011-12-31), i. k. 1111010ISTA0XI-1872
  
 
 
@@ -288,10 +289,11 @@ Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010IST
 
 
 
-24. Kredito įstaiga – įmonė, kuri turi licenciją verstis ir verčiasi indėlių ar kitų grąžintinų lėšų priėmimu iš neprofesionalių rinkos dalyvių ir jų skolinimu arba elektroninių pinigų išleidimu ir tvarkymu. 
+24. Kredito įstaiga – įmonė, kuri turi licenciją verstis ir verčiasi indėlių ar kitų grąžintinų lėšų priėmimu iš neprofesionaliųjų rinkos dalyvių ir jų skolinimu. 
 Straipsnio dalies pakeitimai:
 Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010ISTA0IX-2067
 Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. 1071010ISTA00X-1037
+Nr. XI-1872, 2011-12-22, Žin., 2011, Nr. 163-7763 (2011-12-31), i. k. 1111010ISTA0XI-1872
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
  
@@ -555,20 +557,10 @@ Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010IST
 
 
 
-42. Valiutos keitimas (grynaisiais pinigais): 
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
+42. Neteko galios nuo 2012-01-01
+Straipsnio dalies naikinimas:
+Nr. XI-1872, 2011-12-22, Žin. 2011, Nr. 163-7763 (2011-12-31), i. k. 1111010ISTA0XI-1872
  
-
-
-1) užsienio valiutos pirkimas už litus; 
-
-
-
-
-2) užsienio valiutos pardavimas už litus. 
-
-
 
 
 
@@ -696,7 +688,10 @@ Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010IST
 
 
 
-18) elektroninių pinigų išleidimas ir tvarkymas;
+18) elektroninių pinigų leidimas; 
+Straipsnio punkto pakeitimai:
+Nr. XI-1872, 2011-12-22, Žin., 2011, Nr. 163-7763 (2011-12-31), i. k. 1111010ISTA0XI-1872
+ 
 
 
 
@@ -752,7 +747,10 @@ Nr. XI-554, 2009-12-10, Žin. 2009, Nr. 153-6892 (2009-12-28), i. k. 1091010ISTA
 
 
 
-4) išleisti ir tvarkyti elektroninius pinigus.
+4) Neteko galios nuo 2012-01-01
+Straipsnio punkto naikinimas:
+Nr. XI-1872, 2011-12-22, Žin. 2011, Nr. 163-7763 (2011-12-31), i. k. 1111010ISTA0XI-1872
+ 
 
 
 
@@ -770,9 +768,10 @@ Nr. XI-554, 2009-12-10, Žin. 2009, Nr. 153-6892 (2009-12-28), i. k. 1091010ISTA
 4 straipsnis. Finansų įstaiga 
 
 
-1. Finansų įstaiga – finansų įmonė arba kredito įstaiga, kuri atitinka abu šio Įstatymo 2 straipsnio 43 dalyje nustatytus reikalavimus ir verčiasi bent vienos iš šio Įstatymo 3 straipsnyje nurodytų finansinių paslaugų teikimu. 
+1. Finansų įstaiga – finansų įmonė arba kredito įstaiga. 
 Straipsnio dalies pakeitimai:
 Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
+Nr. XI-1872, 2011-12-22, Žin., 2011, Nr. 163-7763 (2011-12-31), i. k. 1111010ISTA0XI-1872
  
 
 
@@ -786,7 +785,10 @@ Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010IST
 
 
 
-3. Finansų įstaigos, kuri verčiasi licencinių finansinių paslaugų teikimu, veiklą prižiūri Lietuvos Respublikos įstatymuose, reglamentuojančiuose tokių įstaigų veiklą, nustatytos priežiūros institucijos. 
+3. Finansų įstaigos, kuri verčiasi licencinių finansinių paslaugų teikimu, veiklą prižiūri Lietuvos bankas (toliau – priežiūros institucija). 
+Straipsnio dalies pakeitimai:
+Nr. XI-1675, 2011-11-17, Žin., 2011, Nr. 146-6821 (2011-12-01), i. k. 1111010ISTA0XI-1675
+ 
 
 
 
@@ -799,6 +801,14 @@ Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010IST
 5. Jei Lietuvos Respublikos įstatymai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą, nustato kitokias normas negu šis Įstatymas, taikomos įstatymų, reglamentuojančių finansinių paslaugų teikimą ir finansų įstaigų veiklą, normos. 
 Papildyta straipsnio dalimi:
 Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010ISTA0IX-2067
+ 
+
+
+
+
+6. Šio įstatymo 20 straipsnio 2 dalyje, 44 straipsnio 3 dalyje, 45 straipsnio 4 dalyje ir 46 straipsnio 2 dalyje nustatyta tvarka netaikoma finansų įstaigoms, kurios teikia tik nelicencines finansines paslaugas, nustatytas Lietuvos Respublikos vartojimo kredito įstatyme. 
+Papildyta straipsnio dalimi:
+Nr. XI-1675, 2011-11-17, Žin., 2011, Nr. 146-6821 (2011-12-01), i. k. 1111010ISTA0XI-1675
  
 
 
@@ -2159,7 +2169,9 @@ FINANSŲ ĮSTAIGOS LIKVIDUMAS IR MOKUMAS
 
 
 
-4. Finansų įstaigų likvidumo ir mokumo reikalavimus nustato Lietuvos Respublikos įstatymai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą, bei priežiūros institucijų priimti teisės aktai. 
+4. Finansų įstaigų likvidumo ir mokumo reikalavimus nustato Lietuvos Respublikos įstatymai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą, bei priežiūros institucijos priimti teisės aktai. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1675, 2011-11-17, Žin., 2011, Nr. 146-6821 (2011-12-01), i. k. 1111010ISTA0XI-1675
  
 
 
@@ -2617,233 +2629,111 @@ Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010IST
 
 
 DVYLIKTASIS SKIRSNIS
-FINANSŲ ĮSTAIGŲ, TEIKIANČIŲ LICENCINES FINANSINES PASLAUGAS, VEIKLOS PRIEŽIŪRA
+FINANSŲ RINKOS POLITIKOS FORMAVIMO PATARIAMOJI KOMISIJA
  
 
 
-48 straipsnis. Finansų įstaigų, teikiančių licencines finansines paslaugas, veiklos priežiūra 
+48 straipsnis. Finansų rinkos politikos formavimo patariamoji komisija
 
 
-1. Finansų įstaigų, teikiančių licencines finansines paslaugas, veiklą prižiūri Lietuvos Respublikos įstatymų nustatytos priežiūros institucijos. 
-
-
-
-
-2. Finansų įstaigų veiklos priežiūros institucijų steigimą ir veiklą, teises ir pareigas, atskaitomybę bei atsakomybę nustato Lietuvos Respublikos įstatymai ir kiti teisės aktai. 
+1. Finansų rinkos politikos formavimo klausimais finansų ministrui pataria ir finansų rinkos politikos įgyvendinimą stebi Finansų rinkos politikos formavimo patariamoji komisija (toliau – Komisija).
 
 
 
 
-3. Finansų įstaigų veiklos valstybinę priežiūrą atliekančių priežiūros institucijų tarpusavio bendradarbiavimą bei sąveiką prižiūrint finansų įstaigas koordinuoja Finansų įstaigų veiklos reglamentavimo ir priežiūros koordinavimo komisija.
+2. Komisiją sudaro:
+
+
+1) finansų ministras (Komisijos pirmininkas);
+
+
+
+
+2) finansų viceministras, atsakingas už finansų rinką;
+
+
+
+
+3) Lietuvos banko valdybos pirmininkas;
+
+
+
+
+4) Lietuvos banko už finansų rinkos priežiūrą atsakingo padalinio vadovas.
+
+
+
+
+
+
+3. Komisijos sprendimu, nagrinėjant atitinkamus Komisijos posėdžių darbotvarkės klausimus, patariamojo balso teise gali būti kviečiami posėdžiuose dalyvauti asocijuotų verslo struktūrų atstovai.
+
+
+
+
+4. Komisijos darbo reglamentą tvirtina Komisija.
+
+
+
+
+5. Komisijos funkcijos:
+
+
+1) teikti pasiūlymus finansų ministrui dėl finansų rinkos politikos formavimo;
+
+
+
+
+2) stebėti ir analizuoti finansų rinkos plėtros, priežiūros ir reglamentavimo tendencijas ir teikti patarimus finansų ministrui šioje srityje;
+
+
+
+
+3) teikti savo nuomonę Lietuvos bankui teisinio reglamentavimo derinimo atskiruose finansų rinkos sektoriuose klausimais;
+
+
+
+
+4) teikti pasiūlymus finansų ministrui dėl pozicijos formavimo Europos Sąjungos institucijose svarstomų klausimų finansinių paslaugų srityje.
+
+
+
+
+
+
+6. Komisija, atlikdama jai pavestas funkcijas, turi teisę:
+
+
+1) gauti iš valstybės institucijų ir įstaigų, kitų įstaigų, organizacijų paaiškinimus, statistinius duomenis ir šių duomenų analitinius apibendrinimus, kitokią informaciją, būtiną Komisijos funkcijoms atlikti, jeigu tokios informacijos teikimo neriboja įstatymai ir kiti teisės aktai;
+
+
+
+
+2) kviestis specialistus tam tikriems klausimams spręsti;
+
+
+
+
+3) bendradarbiauti ir keistis informacija su užsienio institucijomis.
+
+
+
+
+
+
+7. Lietuvos bankas bent du kartus per metus Komisijai pateikia informaciją apie finansų rinkos raidą ir priežiūros funkcijos vykdymą.
+
+
+
+
+8. Komisija, Komisijos nariai ir Komisijos veikloje dalyvaujantys specialistai privalo laikyti paslaptyje duomenis ar informaciją, kuriuos jie sužinojo Komisijai įgyvendinant savo teises ir atliekant funkcijas, jeigu tokie duomenys ar informacija sudaro įstatymų saugomą paslaptį.
+
+
+
+
+Skirsnio pakeitimai:
+Nr. XI-1675, 2011-11-17, Žin., 2011, Nr. 146-6821 (2011-12-01), i. k. 1111010ISTA0XI-1675
  
-
-
-
-
-
-
-49 straipsnis. Finansų įstaigų bei draudimo įmonių veiklos reglamentavimo ir priežiūros koordinavimo komisija
-
-
-1. Nuolatinė Finansų įstaigų bei draudimo įmonių veiklos reglamentavimo ir priežiūros koordinavimo komisija sudaroma ir dirba Seimo nutarimu patvirtintų nuostatų nustatyta tvarka. 
-
-
-
-
-2. Finansų įstaigų bei draudimo įmonių veiklos reglamentavimo ir priežiūros koordinavimo komisija: 
-
-
-1) rengia ir teikia pasiūlymus Seimo Biudžeto ir finansų komitetui dėl įstatymų ir kitų teisės aktų, nustatančių finansinių ir draudimo paslaugų teikimą, finansų įstaigų bei draudimo įmonių veiklą ir jų priežiūrą, pakeitimo bei papildymo ir, kai būtina, padeda rengti šių teisės aktų projektus;
-
-
-
-
-2) leidžia rekomendacijas priežiūros institucijoms dėl jų veiklos koordinavimo ir tarpusavio bendradarbiavimo.
- 
-
-
-
-
-
-
-
-
-50 straipsnis. Priežiūros institucijos pareigos ir teisės 
-
-
-1. Priežiūros institucija, atlikdama jos kompetencijai priskirtų finansų įstaigų priežiūrą, privalo: 
-
-
-1) įvertinti pagal šį ir kitus Lietuvos Respublikos įstatymus, reglamentuojančius finansinių paslaugų teikimą ir finansų įstaigų veiklą, pateiktus prašymus ir priimti dėl jų sprendimus; 
-
-
-
-
-2) nustatyti, ar finansų įstaigų valdymo, vidaus kontrolės ir informacinė sistemos atitinka Lietuvos Respublikos įstatymų, kitų teisės aktų, finansų įstaigos steigimo dokumentų bei pačios finansų įstaigos išleistų vidaus dokumentų reikalavimus ir ar yra tinkamos valdyti finansų įstaigą taip, kad ji veiktų saugiai ir patikimai; 
-
-
-
-
-3) nustatyti finansų įstaigų veiklos riziką ribojančius normatyvus bei jų dydžius ir kontroliuoti, kaip finansų įstaigos jų laikosi; 
-
-
-
-
-4) nustatyti prižiūrimoms finansų įstaigoms apskaitos reikalavimus, finansinių ir priežiūrai skirtų ataskaitų formą, turinį ir pateikimo priežiūros institucijai terminus; 
-Straipsnio punkto pakeitimai:
-Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010ISTA0XI-1339
- 
-
-
-
-
-5) vertinti finansų įstaigos priežiūros tikslais teikiamos ir pagal įstatymus ar kitus teisės aktus privalomos visuomenei teikti informacijos patikimumą ir tikslumą; 
-
-
-
-
-6) vertinti, ar finansų įstaigos politika, praktika ir procedūros leidžia laiku nustatyti, įvertinti, stebėti ir valdyti riziką, kuri atsiranda investuojant ir teikiant finansines paslaugas; 
-
-
-
-
-7) vertinti politiką, praktiką ir procedūras, kurias finansų įstaiga taiko nustatydama grynąją savo turto vertę; 
-
-
-
-
-8) vertinti, ar finansų įstaigos informacinė sistema leidžia jos vadovams laiku nustatyti, įvertinti ir valdyti rizikos laipsnį;
-
-
-
-
-9) kontroliuoti, kad finansų įstaiga laikytųsi Lietuvos Respublikos teisės aktų nustatytų reikalavimų, keliamų finansinių paslaugų teikimui finansų įstaigos viduje ir su ja artimais ryšiais susijusiems asmenims; 
-
-
-
-
-10) vertinti, ar finansų įstaiga sudarė pakankamai atidėjinių (atidėjimų) ir rezervų rizikai, prisiimtai investuojant ir teikiant finansines paslaugas, sumažinti; 
-
-
-
-
-11) vertinti, ar finansų įstaigoje veikianti vidaus kontrolės sistema atitinka finansų įstaigos veiklos turinį ir apimtį (mastą);
-
-
-
-
-12) vertinti politiką, praktiką ir procedūras, kurias finansų įstaiga taiko siekdama pažinti savo klientą, užtikrindama finansinę drausmę ir norėdama užkirsti kelią, kad finansų įstaiga nebūtų pasinaudojama nusikalstamais tikslais; 
-
-
-
-
-13) turėdama informacijos, kad finansinių paslaugų, kurioms teikti būtina turėti priežiūros institucijos licenciją, teikimu verčiasi asmenys be šios licencijos, pranešti apie tai atitinkamoms teisėsaugos institucijoms; 
-
-
-
-
-14) raštiškai pranešti atitinkamoms teisėsaugos institucijoms apie finansų įstaigoje nustatytus faktus, liudijančius galimai nusikalstamą veiką. 
-
-
-
-
-
-
-2. Priežiūros institucija, vykdydama šio straipsnio 1 dalyje nustatytas pareigas, turi teisę: 
-
-
-1) leisti teisės aktus dėl prižiūrimų finansų įstaigų steigimo, veiklos, reorganizavimo, likvidavimo, apskaitos bei atskaitomybės tvarkos; 
-
-
-
-
-2) priežiūros tikslais pareikalauti ir gauti iš prižiūrimos finansų įstaigos visą informaciją bei dokumentus apie finansų įstaigos steigimą, dalyvius, vadovus, valdymą, veiklą, riziką ribojančių normatyvų vykdymą, finansinę būklę, jos padalinius ir dukterines įmones, kreditorius, skolininkus bei kitus klientus; 
-
-
-
-
-3) iš dalies arba nuosekliai patikrinti finansų įstaigos steigimo procedūras ir veiklą finansų įstaigoje, jos padalinyje arba dukterinėje įmonėje; 
-
-
-
-
-4) reikalauti ir gauti iš valstybės valdymo, savivaldybių bei teisėsaugos institucijų, kitų įmonių, įstaigų ir organizacijų jų turimą informaciją apie finansų įstaigos steigėjus, dalyvius, kreditorius, skolininkus arba kitus klientus, jos padalinius arba dukterines įmones, taip pat kitą informaciją, būtiną šiame arba kituose įstatymuose nustatytoms pareigoms vykdyti; 
-
-
-
-
-5) taikyti Lietuvos Respublikos įstatymų nustatytas poveikio priemones, jeigu finansų įstaiga pažeidžia įstatymų bei priežiūros institucijos išleistų teisės aktų reikalavimus dėl finansų įstaigos saugios ir patikimos veiklos arba yra grėsmė, kad dėl finansų įstaigos veiklos arba finansinės būklės būtų pažeisti visuomenės ir (arba) finansų įstaigos klientų interesai arba sutriktų Lietuvos Respublikos finansų sistemos funkcionavimas, arba finansinių paslaugų rinkos dalyviai gautų neteisingą informaciją apie finansų įstaigos finansinę būklę; 
-
-
-
-
-6) sudaryti sutartis su priežiūros institucijomis dėl bendradarbiavimo keičiantis informacija, gaunama priežiūros tikslais, jeigu priežiūros institucijos užtikrina, kad ši informacija nebus perduota kitiems asmenims, taip pat atliekant priežiūrą tų užsienio valstybių finansų įstaigų skyrių, kurie turi teisę teikti finansines paslaugas Lietuvos Respublikoje, arba tų Lietuvos Respublikos finansų įstaigų padalinių, kurie turi teisę veikti ir teikti finansines paslaugas užsienio valstybėje; 
-
-
-
-
-7) būti tarptautinių organizacijų, jungiančių priežiūros institucijas, nare; 
-
-
-
-
-8) turėti kitokių teisių, nustatytų Lietuvos Respublikos įstatymuose, reglamentuojančiuose finansinių paslaugų teikimą ir finansų įstaigų bei finansų įstaigų priežiūros institucijų veiklą. 
-
-
-
-
-
-
-3. Priežiūros institucija neturi teisės: 
-
-
-1) perduoti informacijos, gautos priežiūros tikslu iš finansų įstaigų ir kitų asmenų, be šių sutikimo tretiesiems asmenims, išskyrus Lietuvos Respublikos įstatymų nustatytus atvejus, kai tai yra susiję su nusikalstamos veikos tyrimu; 
-
-
-
-
-2) perduoti kitiems asmenims informaciją, gautą iš kitos priežiūros institucijos, be šios sutikimo. 
-
-
-
-
-
-
-4. Lietuvos Respublikos įstatymai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų bei priežiūros institucijų veiklą, gali nustatyti kitokią, negu nurodyta šio straipsnio 3 dalyje, informacijos perdavimo tvarką. 
- 
-
-
-
-
-
-
-51 straipsnis. Finansų įstaigų priežiūros būdai 
-
-
-Jeigu Lietuvos Respublikos įstatymai nenustato ko kita, yra šie finansų įstaigų priežiūros būdai: 
-
-
-1) licencijavimas: nagrinėjami prašymai ir priimami sprendimai dėl finansų įstaigų steigimo, licencijų verstis finansinių paslaugų teikimu išdavimo, finansų įstaigos įstatinio kapitalo ir (arba) balsavimo teisių kvalifikuotosios dalies įsigijimo ar valdymo, reorganizavimo ir kitais šio Įstatymo nustatytais atvejais, susijusiais su finansų įstaigų veiklos įteisinimu; 
-
-
-
-
-2) dokumentinė priežiūra: analizuojama ir vertinama finansų įstaigos veikla remiantis jos pateiktais finansinių ataskaitų rinkiniais ir kita iš finansų įstaigų bei kitų šaltinių gauta informacija; 
-Straipsnio punkto pakeitimai:
-Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010ISTA0XI-1339
- 
-
-
-
-
-3) finansų įstaigų tikrinimas (inspektavimas). Tai vykdoma Lietuvos Respublikos įstatymų, reglamentuojančių finansinių paslaugų teikimą ir finansų įstaigų veiklą, nustatyta tvarka tikrinant (inspektuojant) finansų įstaigų steigimo procedūras ir veiklą. 
- 
-
-
-
-
-
-
 
 
 
@@ -3047,6 +2937,14 @@ Nr. XI-1339, 2011-04-21, Žin., 2011, Nr. 52-2514 (2011-05-03), i. k. 1111010IST
 2. 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos direktyva 2007/64/EB dėl mokėjimo paslaugų vidaus rinkoje, iš dalies keičianti direktyvas 97/7/EB, 2002/65/EB, 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 97/5/EB (OL 2007 L 319, p. 1).
 
 
+
+
+3. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/110/EB dėl elektroninių pinigų įstaigų steigimosi, veiklos ir riziką ribojančios priežiūros, iš dalies keičianti Direktyvas 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 2000/46/EB (OL 2009 L 267, p. 7). 
+Papildyta straipsnio dalimi:
+Nr. XI-1872, 2011-12-22, Žin., 2011, Nr. 163-7763 (2011-12-31), i. k. 1111010ISTA0XI-1872
+ 
+
+
 Priedo pakeitimai:
 Nr. XI-554, 2009-12-10, Žin., 2009, Nr. 153-6892 (2009-12-28), i. k. 1091010ISTA00XI-554
  
@@ -3118,3 +3016,13 @@ Lietuvos Respublikos finansų įstaigų įstatymo 2, 23, 30, 43, 45, 46, 47, 50,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. 1111010ISTA0XI-1373
 Lietuvos Respublikos finansų įstaigų įstatymo 2, 3, 4 straipsnių papildymo ir pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1675, 2011-11-17, Žin., 2011, Nr. 146-6821 (2011-12-01), i. k. 1111010ISTA0XI-1675
+Lietuvos Respublikos finansų įstaigų įstatymo 4, 33 straipsnių ir dvyliktojo skirsnio pakeitimo ir papildymo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1872, 2011-12-22, Žin., 2011, Nr. 163-7763 (2011-12-31), i. k. 1111010ISTA0XI-1872
+Lietuvos Respublikos finansų įstaigų įstatymo 2, 3 ir 4 straipsnių pakeitimo ir priedo papildymo įstatymas
