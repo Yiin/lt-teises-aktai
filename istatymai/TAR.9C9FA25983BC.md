@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9C9FA25983BC"
 
 # Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymas
 
-Suvestinė redakcija nuo 2011-07-05 iki 2011-12-31
+Suvestinė redakcija nuo 2012-01-01 iki 2012-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 41-1162, i. k. 1001010ISTAIII-1649
  
@@ -263,23 +263,35 @@ Nr. IX-1410, 2003-04-01, Žin., 2003, Nr. 38-1657 (2003-04-24), i. k. 1031010IST
 11 straipsnis. Specialiųjų tyrimų tarnybos vadovybė
 
 
-1. Specialiųjų tyrimų tarnybos direktoriaus kandidatūrą teikia Seimui ir, šiam pritarus, Tarnybos direktorių skiria bei atleidžia iš pareigų Respublikos Prezidentas. Direktorius skiriamas penkeriems metams, tačiau šias pareigas jis gali eiti ne daugiau kaip dvi kadencijas iš eilės.
+1. Specialiųjų tyrimų tarnybos direktoriaus kandidatūrą teikia Seimui ir, šiam pritarus, Specialiųjų tyrimų tarnybos direktorių į pareigas skiria ir iš pareigų atleidžia Respublikos Prezidentas. Specialiųjų tyrimų tarnybos direktorius skiriamas penkerių metų kadencijai, tačiau šias pareigas jis gali eiti ne daugiau kaip dvi kadencijas iš eilės.
 
 
 
 
-2. Tarnybos direktoriaus pirmąjį pavaduotoją ir pavaduotojus direktoriaus teikimu skiria į pareigas ir atleidžia iš jų Respublikos Prezidentas. 
-Straipsnio dalies pakeitimai:
-Nr. X-1271, 2007-07-04, Žin., 2007, Nr. 81-3328 (2007-07-21), i. k. 1071010ISTA00X-1271
+2. Specialiųjų tyrimų tarnybos direktoriaus pirmąjį pavaduotoją ir pavaduotojus Specialiųjų tyrimų tarnybos direktoriaus teikimu į pareigas skiria ir iš pareigų atleidžia Respublikos Prezidentas. Specialiųjų tyrimų tarnybos direktoriaus pirmasis pavaduotojas ir pavaduotojai skiriami penkerių metų kadencijai, tačiau šias pareigas jie gali eiti ne daugiau kaip dešimt metų iš eilės. Specialiųjų tyrimų tarnybos direktoriaus pirmojo pavaduotojo ir pavaduotojų įgaliojimų trukmė yra susieta su Specialiųjų tyrimų tarnybos direktoriaus įgaliojimų trukme. Kito Specialiųjų tyrimų tarnybos direktoriaus paskyrimas įstatymų nustatyta tvarka prilyginamas Specialiųjų tyrimų tarnybos direktoriaus pirmojo pavaduotojo ir pavaduotojų kadencijos pabaigai.
+
+
+
+
+3. Kai Specialiųjų tyrimų tarnybos direktoriaus nėra (jo laikinojo nedarbingumo, tarnybinės komandiruotės, atostogų metu ar kitais atvejais, kai direktoriaus nėra ir (ar) jis negali eiti savo pareigų), jo pareigas laikinai eina Specialiųjų tyrimų tarnybos direktoriaus pirmasis pavaduotojas ar kitas Specialiųjų tyrimų tarnybos direktoriaus įgaliotas jo pavaduotojas. 
+
+
+Straipsnio pakeitimai:
+Nr. XI-1390, 2011-05-19, Žin., 2011, Nr. 68-3221 (2011-06-04), i. k. 1111010ISTA0XI-1390
  
 
 
 
 
-3. Specialiųjų tyrimų tarnybos direktoriaus nesant, jo pareigas eina Tarnybos direktoriaus pirmasis pavaduotojas.
+111 straipsnis. Specialiųjų tyrimų tarnybos struktūrinių padalinių, nesančių kitame struktūriniame padalinyje, vadovų ir pavaduotojų priėmimas ir jų tarnybinis kaitumas
+
+
+Į statutinių Specialiųjų tyrimų tarnybos struktūrinių padalinių, nesančių kitame struktūriniame padalinyje, vadovų ir pavaduotojų pareigas asmenys Specialiųjų tyrimų tarnybos direktoriaus nustatyta tvarka skiriami penkerių metų laikotarpiui. Jeigu šio asmens veikla įvertinama labai gerai, jis gali būti penkerių metų laikotarpiui pakartotinai skiriamas į tas pačias pareigas. Struktūrinių padalinių, nesančių kitame struktūriniame padalinyje, vadovai ir pavaduotojai tų pačių pareigų negali eiti ilgiau kaip dešimt metų iš eilės. 
+
+
+Papildyta straipsniu:
+Nr. XI-1390, 2011-05-19, Žin., 2011, Nr. 68-3221 (2011-06-04), i. k. 1111010ISTA0XI-1390
  
-
-
 
 
 
@@ -828,3 +840,8 @@ Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 6 ir 11 straipsni�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1476, 2011-06-21, Žin., 2011, Nr. 81-3963 (2011-07-05), i. k. 1111010ISTA0XI-1476
 Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 2 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1390, 2011-05-19, Žin., 2011, Nr. 68-3221 (2011-06-04), i. k. 1111010ISTA0XI-1390
+Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 11 straipsnio pakeitimo ir įstatymo papildymo 11-1 straipsniu įstatymas
