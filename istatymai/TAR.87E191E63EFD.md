@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.87E191E63EFD"
 
 # Lietuvos Respublikos kontroliuojančiųjų investicinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2008-06-21 iki 2011-12-31
+Suvestinė redakcija nuo 2012-01-01 iki 2014-09-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 74-3425, i. k. 1031010ISTA0IX-1710
  
@@ -94,7 +94,10 @@ Vilnius
 
 
 
-5. Kontroliuojančioji investicinė bendrovė – akcinė bendrovė, gavusi Vertybinių popierių komisijos leidimą tokiai veiklai po investicinės akcinės bendrovės reorganizavimo.
+5. Kontroliuojančioji investicinė bendrovė – akcinė bendrovė, gavusi Lietuvos banko leidimą tokiai veiklai po investicinės akcinės bendrovės reorganizavimo. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1680, 2011-11-17, Žin., 2011, Nr. 146-6826 (2011-12-01); Žin., 2011, Nr. 155-0 (2011-12-20), i. k. 1111010ISTA0XI-1680
+ 
 
 
 
@@ -104,7 +107,17 @@ Vilnius
 
 
 
-7. Vadovai – įmonės stebėtojų tarybos ir valdybos nariai, administracijos vadovas ir jo pavaduotojai, vyriausiasis buhalteris.
+7. Priežiūros institucija – Lietuvos bankas, šio ir kitų įstatymų nustatyta tvarka atliekantis kontroliuojančiųjų investicinių bendrovių veiklos priežiūros funkcijas. 
+Papildyta straipsnio dalimi:
+Nr. XI-1680, 2011-11-17, Žin., 2011, Nr. 146-6826 (2011-12-01); Žin., 2011, Nr. 155-0 (2011-12-20), i. k. 1111010ISTA0XI-1680
+ 
+
+
+
+
+8. Vadovai – įmonės stebėtojų tarybos ir valdybos nariai, administracijos vadovas ir jo pavaduotojai, vyriausiasis buhalteris.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1680, 2011-11-17, Žin., 2011, Nr. 146-6826 (2011-12-01); Žin., 2011, Nr. 155-0 (2011-12-20), i. k. 1111010ISTA0XI-1680
  
 
 
@@ -115,7 +128,7 @@ Vilnius
 3 straipsnis. Teisė panaikinti veiklos leidimą
 
 
-Vertybinių popierių komisija turi teisę panaikinti kontroliuojančiajai investicinei bendrovei išduotą veiklos leidimą, jeigu bendrovė:
+Lietuvos bankas turi teisę panaikinti kontroliuojančiajai investicinei bendrovei išduotą veiklos leidimą, jeigu bendrovė:
 
 
 1) yra likviduojama;
@@ -123,17 +136,19 @@ Vertybinių popierių komisija turi teisę panaikinti kontroliuojančiajai inves
 
 
 
-2) nesilaiko šio Įstatymo ar Vertybinių popierių komisijos patvirtintų teisės aktų;
+2) nesilaiko šio Įstatymo ar Lietuvos banko patvirtintų teisės aktų;
 
 
 
 
-3) pateikė prašymą 6 straipsnio nustatyta tvarka panaikinti veiklos leidimą.
+3) pateikė prašymą šio Įstatymo 6 straipsnyje nustatyta tvarka panaikinti veiklos leidimą. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XI-1680, 2011-11-17, Žin., 2011, Nr. 146-6826 (2011-12-01); Žin., 2011, Nr. 155-0 (2011-12-20), i. k. 1111010ISTA0XI-1680
  
-
-
-
-
 
 
 
@@ -141,11 +156,12 @@ Vertybinių popierių komisija turi teisę panaikinti kontroliuojančiajai inves
 4 straipsnis. Likvidavimo ypatumai
 
 
-Likviduojamos kontroliuojančiosios investicinės bendrovės turtas, kurį sudaro vertybiniai popieriai, įtraukti į prekybą reguliuojamoje rinkoje, turi būti parduoti šioje rinkoje; kiti vertybiniai popieriai bei kitas kilnojamasis ir nekilnojamasis turtas turi būti parduotas pagal Vertybinių popierių komisijos nustatytas taisykles. 
+Likviduojamos kontroliuojančiosios investicinės bendrovės turtas, kurį sudaro vertybiniai popieriai, įtraukti į prekybą reguliuojamoje rinkoje, turi būti parduoti šioje rinkoje; kiti vertybiniai popieriai ir kitas kilnojamasis ir nekilnojamasis turtas turi būti parduoti pagal Lietuvos banko nustatytas taisykles. 
 
 
 Straipsnio pakeitimai:
 Nr. X-1585, 2008-06-05, Žin., 2008, Nr. 71-2711 (2008-06-21), i. k. 1081010ISTA00X-1585
+Nr. XI-1680, 2011-11-17, Žin., 2011, Nr. 146-6826 (2011-12-01); Žin., 2011, Nr. 155-0 (2011-12-20), i. k. 1111010ISTA0XI-1680
  
 
 
@@ -202,15 +218,17 @@ Nr. X-1585, 2008-06-05, Žin., 2008, Nr. 71-2711 (2008-06-21), i. k. 1081010ISTA
 7 straipsnis. Grynieji aktyvai
 
 
-1. Kontroliuojančiosios investicinės bendrovės grynieji aktyvai negali būti mažesni už įstatinį kapitalą. Vertybinių popierių komisijai ne vėliau kaip per 5 dienas turi būti pranešta apie tai, kad kontroliuojančiosios investicinės bendrovės grynieji aktyvai tapo mažesni už įstatinį kapitalą.
+1. Kontroliuojančiosios investicinės bendrovės grynieji aktyvai negali būti mažesni už įstatinį kapitalą. Lietuvos bankui ne vėliau kaip per 5 dienas turi būti pranešta apie tai, kad kontroliuojančiosios investicinės bendrovės grynieji aktyvai tapo mažesni už įstatinį kapitalą.
 
 
 
 
-2. Vertybinių popierių komisija tvirtina grynųjų aktyvų skaičiavimo principus.
+2. Lietuvos bankas tvirtina grynųjų aktyvų skaičiavimo principus. 
+
+
+Straipsnio pakeitimai:
+Nr. XI-1680, 2011-11-17, Žin., 2011, Nr. 146-6826 (2011-12-01); Žin., 2011, Nr. 155-0 (2011-12-20), i. k. 1111010ISTA0XI-1680
  
-
-
 
 
 
@@ -237,7 +255,10 @@ Nr. X-1585, 2008-06-05, Žin., 2008, Nr. 71-2711 (2008-06-21), i. k. 1081010ISTA
 1. Kontroliuojančiosios investicinės bendrovės turtą gali sudaryti tik:
 
 
-1) pinigai ir Vertybinių popierių komisijos pripažintos pinigų rinkos priemonės;
+1) pinigai ir Lietuvos banko pripažintos pinigų rinkos priemonės; 
+Straipsnio punkto pakeitimai:
+Nr. XI-1680, 2011-11-17, Žin., 2011, Nr. 146-6826 (2011-12-01); Žin., 2011, Nr. 155-0 (2011-12-20), i. k. 1111010ISTA0XI-1680
+ 
 
 
 
@@ -275,7 +296,10 @@ Nr. X-1585, 2008-06-05, Žin., 2008, Nr. 71-2711 (2008-06-21), i. k. 1081010ISTA
 
 
 
-4) Vertybinių popierių komisijos likvidžiais pripažintų kitų vertybinių popierių.
+4) Lietuvos banko likvidžiais pripažintų kitų vertybinių popierių. 
+Straipsnio punkto pakeitimai:
+Nr. XI-1680, 2011-11-17, Žin., 2011, Nr. 146-6826 (2011-12-01); Žin., 2011, Nr. 155-0 (2011-12-20), i. k. 1111010ISTA0XI-1680
+ 
 
 
 
@@ -412,7 +436,10 @@ Kontroliuojančiosios investicinės bendrovės turimi vertybiniai popieriai turi
 
 
 
-3) jei to reikalauja Vertybinių popierių komisija;
+3) jei to reikalauja Lietuvos bankas; 
+Straipsnio punkto pakeitimai:
+Nr. XI-1680, 2011-11-17, Žin., 2011, Nr. 146-6826 (2011-12-01); Žin., 2011, Nr. 155-0 (2011-12-20), i. k. 1111010ISTA0XI-1680
+ 
 
 
 
@@ -424,7 +451,9 @@ Kontroliuojančiosios investicinės bendrovės turimi vertybiniai popieriai turi
 
 
 
-3. Jei kontroliuojančiosios investicinės bendrovės depozitoriumas nebeatitinka įstatymų arba kitų teisės aktų keliamų reikalavimų, jeigu jis nevykdo iš teisės aktų atsirandančių pareigų ar įsipareigojimų kontroliuojančiajai investicinei bendrovei, Vertybinių popierių komisija, siekdama užtikrinti bendrovės akcininkų interesus, turi teisę nurodyti kontroliuojančiajai investicinei bendrovei pakeisti depozitoriumą.
+3. Kai kontroliuojančiosios investicinės bendrovės depozitoriumas nebeatitinka įstatymų arba kitų teisės aktų keliamų reikalavimų, kai jis nevykdo iš teisės aktų atsirandančių pareigų ar įsipareigojimų kontroliuojančiajai investicinei bendrovei, Lietuvos bankas, siekdamas užtikrinti bendrovės akcininkų interesus, turi teisę nurodyti kontroliuojančiajai investicinei bendrovei pakeisti depozitoriumą. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1680, 2011-11-17, Žin., 2011, Nr. 146-6826 (2011-12-01); Žin., 2011, Nr. 155-0 (2011-12-20), i. k. 1111010ISTA0XI-1680
  
 
 
@@ -453,40 +482,43 @@ Kontroliuojančiosios investicinės bendrovės turimi vertybiniai popieriai turi
 
 
 
-17 straipsnis. Vertybinių popierių komisijos teisės
+17 straipsnis. Lietuvos banko teisės
 
 
-1. Įgyvendindama šį Įstatymą, Vertybinių popierių komisija turi teisę priimti jos kompetencijai priskirtus teisės aktus.
-
-
-
-
-2. Vertybinių popierių komisija, siekdama išsiaiškinti, kaip kontroliuojančiosios investicinės bendrovės ir depozitoriumai laikosi šio Įstatymo ir su juo susijusių kitų teisės aktų, turi teisę tikrinti, kontroliuoti ar atlikti tyrimus. Atlikdami šias funkcijas Vertybinių popierių komisijos darbuotojai gali be leidimo įeiti į išvardytų įmonių patalpas, tikrinti, laikinai paimti dokumentus (palikdami jų apyrašą) ar juos kopijuoti, taip pat raštu pateikti klausimus arba žodžiu apklausti šių įmonių vadovus ar bet kuriuos kitus jiems pavaldžius asmenis. 
+1. Įgyvendindamas šį Įstatymą, Lietuvos bankas turi teisę priimti jo kompetencijai priskirtus teisės aktus.
 
 
 
 
-3. Vertybinių popierių komisijos nurodymai kontroliuojančiosioms investicinėms bendrovėms ar jų vadovams dėl įstatymų ir kitų teisės aktų pažeidimų pašalinimo yra privalomi.
+2. Lietuvos bankas, siekdamas išsiaiškinti, kaip kontroliuojančiosios investicinės bendrovės ir depozitoriumai laikosi šio Įstatymo ir su juo susijusių kitų teisės aktų, turi teisę tikrinti, kontroliuoti ar atlikti tyrimus. Atlikdami šias funkcijas, Lietuvos banko tarnautojai gali be leidimo įeiti į šioje dalyje nurodytų įmonių patalpas, tikrinti, laikinai paimti dokumentus (palikdami jų apyrašą) ar juos kopijuoti, taip pat raštu pateikti klausimus arba žodžiu apklausti šių įmonių vadovus ar bet kuriuos kitus jiems pavaldžius asmenis.
+
+
+
+
+3. Lietuvos banko nurodymai kontroliuojančiosioms investicinėms bendrovėms ar jų vadovams dėl įstatymų ir kitų teisės aktų pažeidimų pašalinimo yra privalomi. 
+
+
+Straipsnio pakeitimai:
+Nr. XI-1680, 2011-11-17, Žin., 2011, Nr. 146-6826 (2011-12-01); Žin., 2011, Nr. 155-0 (2011-12-20), i. k. 1111010ISTA0XI-1680
  
 
 
 
 
+18 straipsnis. Lietuvos banko valdybos narių ir tarnautojų pareiga saugoti konfidencialią informaciją
 
 
-18 straipsnis. Vertybinių popierių komisijos narių ir administracijos darbuotojų pareiga saugoti konfidencialią informaciją
-
-
-1. Vertybinių popierių komisijos nariai ir darbuotojai privalo Finansinių priemonių rinkų įstatymo nustatyta tvarka saugoti konfidencialią informaciją, kurią jie sužinojo atlikdami šio Įstatymo nustatytas funkcijas.
+1. Lietuvos banko valdybos nariai ir tarnautojai privalo Finansinių priemonių rinkų įstatymo nustatyta tvarka saugoti konfidencialią informaciją, kurią jie sužinojo atlikdami šio Įstatymo nustatytas funkcijas.
 
 
 
 
-2. Vertybinių popierių komisijos teisė perduoti konfidencialią informaciją Finansinių priemonių rinkų įstatymo nustatyta tvarka yra taikoma ir informacijai, gautai atliekant šio Įstatymo nustatytas funkcijas. 
+2. Lietuvos banko teisė perduoti konfidencialią informaciją Finansinių priemonių rinkų įstatymo nustatyta tvarka yra taikoma ir informacijai, gautai atliekant šio Įstatymo nustatytas funkcijas. 
 
 
 Straipsnio pakeitimai:
 Nr. X-1585, 2008-06-05, Žin., 2008, Nr. 71-2711 (2008-06-21), i. k. 1081010ISTA00X-1585
+Nr. XI-1680, 2011-11-17, Žin., 2011, Nr. 146-6826 (2011-12-01); Žin., 2011, Nr. 155-0 (2011-12-20), i. k. 1111010ISTA0XI-1680
  
 
 
@@ -495,26 +527,27 @@ Nr. X-1585, 2008-06-05, Žin., 2008, Nr. 71-2711 (2008-06-21), i. k. 1081010ISTA
 19 straipsnis. Baigiamosios nuostatos
 
 
-1. Investicinės akcinės bendrovės, įsteigtos valstybinio turto privatizavimo laikotarpiu įgyvendinant Valstybinio turto pirminio privatizavimo įstatymą, nepakeitusios savo įstatų ir nepersiregistravusios į investicines bendroves, turi būti likviduotos. Teismas Vertybinių popierių komisijos siūlymu investicinės akcinės bendrovės likvidatoriumi paskiria akcinę bendrovę Turto banką ir nustato jo atlyginimą. Asmenims, kurie yra investicinės akcinės bendrovės likvidatoriai šio Įstatymo įsigaliojimo dieną, uždraudžiama atlikti sandorius su bendrovės turtu, kol jos turtą perims akcinė bendrovė Turto bankas. Likvidavimas vykdomas Vyriausybės nustatyta tvarka.
+1. Investicinės akcinės bendrovės, įsteigtos valstybinio turto privatizavimo laikotarpiu įgyvendinant Valstybinio turto pirminio privatizavimo įstatymą, nepakeitusios savo įstatų ir nepersiregistravusios į investicines bendroves, turi būti likviduotos. Teismas Lietuvos banko siūlymu investicinės akcinės bendrovės likvidatoriumi paskiria valstybės įmonę Turto banką ir nustato likvidatoriaus atlyginimą. Asmenims, kurie buvo investicinės akcinės bendrovės likvidatoriai 2003 m. liepos 25 d., draudžiama atlikti sandorius dėl bendrovės turto, kol jos turtą perims valstybės įmonė Turto bankas. Likvidavimas vyksta Vyriausybės nustatyta tvarka.
 
 
 
 
-2. Jei iki 2004 m. gegužės 1 d. kontroliuojančiosios investicinės bendrovės likvidavimas nėra pradėtas arba jos veiklos leidimas nėra panaikintas šio Įstatymo 6 straipsnio nustatyta tvarka, teismas Vertybinių popierių komisijos siūlymu priima sprendimą ją likviduoti, o likvidatoriumi paskiria akcinę bendrovę Turto banką ir nustato jo atlyginimą. 
+2. Jei iki 2004 m. gegužės 1 d. kontroliuojančiosios investicinės bendrovės likvidavimas nėra pradėtas arba jos veiklos leidimas nėra panaikintas šio Įstatymo 6 straipsnio nustatyta tvarka, teismas Lietuvos banko siūlymu priima sprendimą šią investicinę bendrovę likviduoti, o likvidatoriumi paskiria valstybės įmonę Turto banką ir nustato likvidatoriaus atlyginimą.
 
 
 
 
-3. Jei per dvejus metus nuo visuotinio akcininkų susirinkimo sprendimo likviduoti kontroliuojančiąją investicinę bendrovę priėmimo dienos jos likvidavimas nėra baigtas (ji neišregistruota iš Juridinių asmenų registro), teismas Vertybinių popierių komisijos siūlymu pakeičia likvidatorių – juo paskiria akcinę bendrovę Turto banką ir nustato jo atlyginimą. Toms kontroliuojančiosioms investicinėms bendrovėms, kuriose sprendimai dėl likvidavimo buvo priimti iki šio Įstatymo įsigaliojimo dienos, ši dalis taikoma nuo 2004 m. sausio 1 d.
+3. Jei per dvejus metus nuo visuotinio akcininkų susirinkimo sprendimo likviduoti kontroliuojančiąją investicinę bendrovę priėmimo dienos jos likvidavimas nėra baigtas (ji neišregistruota iš Juridinių asmenų registro), teismas Lietuvos banko siūlymu pakeičia likvidatorių – juo paskiria valstybės įmonę Turto banką ir nustato likvidatoriaus atlyginimą. Toms kontroliuojančiosioms investicinėms bendrovėms, kuriose sprendimai dėl likvidavimo buvo priimti iki 2003 m. liepos 25 d., ši dalis taikoma nuo 2012 m. sausio 1 d.
 
 
 
 
-4. Investicinėms akcinėms bendrovėms iki jų išregistravimo iš juridinių asmenų registro galioja investicinių akcinių bendrovių įstatų nuostatos, jeigu jos neprieštarauja šiam Įstatymui ir Akcinių bendrovių įstatymui.
+4. Investicinėms akcinėms bendrovėms iki jų išregistravimo iš Juridinių asmenų registro galioja investicinių akcinių bendrovių įstatų nuostatos, jeigu jos neprieštarauja šiam Įstatymui ir Akcinių bendrovių įstatymui. 
+
+
+Straipsnio pakeitimai:
+Nr. XI-1680, 2011-11-17, Žin., 2011, Nr. 146-6826 (2011-12-01); Žin., 2011, Nr. 155-0 (2011-12-20), i. k. 1111010ISTA0XI-1680
  
- 
-
-
 
 
 
@@ -535,3 +568,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1585, 2008-06-05, Žin., 2008, Nr. 71-2711 (2008-06-21), i. k. 1081010ISTA00X-1585
 Lietuvos Respublikos kontroliuojančiųjų investicinių bendrovių įstatymo 4, 6, 9, 10, 11 ir 18 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1680, 2011-11-17, Žin., 2011, Nr. 146-6826 (2011-12-01); Žin., 2011, Nr. 155-0 (2011-12-20), i. k. 1111010ISTA0XI-1680
+Lietuvos Respublikos kontroliuojančiųjų investicinių bendrovių įstatymo 2, 3, 4, 7, 9, 15, 17, 18 ir 19 straipsnių pakeitimo įstatymas
