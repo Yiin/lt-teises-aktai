@@ -16,6 +16,8 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9F4371AB03A3"
 Įstatymas skelbtas: Žin., 2004, Nr. 50-1632
 Neoficialus įstatymo tekstas
  
+Aktuali redakcija 2012-01-01
+ 
 LIETUVOS RESPUBLIKOS
 ADVOKATŪROS 
 ĮSTATYMAS
@@ -45,9 +47,9 @@ klausimais, gynyba bei atstovavimas bylų procese, kai šie veiksmai atliekami u
 atlyginimą, išskyrus šio Įstatymo 4 straipsnio 5 dalyje nurodytą atvejį. 
 2. Šio
 straipsnio 1 dalyje nurodytas paslaugas gali teikti advokatai (advokato
-padėjėjai) ar advokatų profesinė bendrija. Kai paslaugas teikia ar veikia advokatų
-profesinė bendrija, jai mutatis mutandis kaip ir advokatui taikomos šio
-Įstatymo nuostatos. 
+padėjėjai) ar advokatų profesinė bendrija. Kai paslaugas teikia ar veikia
+advokatų profesinė bendrija, jai mutatis mutandis kaip ir advokatui
+taikomos šio Įstatymo nuostatos. 
 3. Europos
 Sąjungos valstybių narių, Europos ekonominės erdvės valstybių ar Šveicarijos
 Konfederacijos piliečiai teisininkai paslaugas teikia šio Įstatymo dvyliktojo
@@ -94,8 +96,8 @@ turi teisę teikti teisines paslaugas nemokamai, t. y. teikti teisinę pagalbą.
 Straipsnio pakeitimai:
 Nr. X-334, 2005-07-07,
 Žin., 2005, Nr. 88-3296 (2005-07-21)
-Nr. X-1004, 2006-12-21,
-Žin., 2007, Nr. 4-156 (2007-01-11)
+Nr. X-1004,
+2006-12-21, Žin., 2007, Nr. 4-156 (2007-01-11)
  
 5
 straipsnis.
@@ -146,10 +148,10 @@ kvalifikacinį laipsnį (vienpakopį teisinį universitetinį išsilavinimą) ir
 pradėjo dirbti teisinį darbą; 
 4) yra
 nepriekaištingos reputacijos;
-5) moka
-valstybinę kalbą;
-6) išlaikė advokato
-kvalifikacinį egzaminą;
+5) moka valstybinę
+kalbą;
+6) išlaikė
+advokato kvalifikacinį egzaminą;
 7) neturi
 sveikatos sutrikimų, dėl kurių negalėtų atlikti advokato pareigų. Pareiškėjų ir
 advokatų sveikatos reikalavimus bei sveikatos tikrinimo tvarką nustato Lietuvos
@@ -392,9 +394,10 @@ nurodytų dokumentų gavimo dienos, jeigu advokatas įvykdė šio Įstatymo 17
 straipsnio reikalavimus.
 3. Advokatas,
 kuris per šio straipsnio 2 dalyje nustatytą terminą neįrašomas į Lietuvos
-praktikuojančių advokatų sąrašą, per trisdešimt dienų nuo įrašymo termino pabaigos
-dienos turi teisę kreiptis į Vilniaus apygardos teismą su prašymu įpareigoti
-Lietuvos advokatūrą įrašyti jį į Lietuvos praktikuojančių advokatų sąrašą. 
+praktikuojančių advokatų sąrašą, per trisdešimt dienų nuo įrašymo termino
+pabaigos dienos turi teisę kreiptis į Vilniaus apygardos teismą su prašymu
+įpareigoti Lietuvos advokatūrą įrašyti jį į Lietuvos praktikuojančių advokatų
+sąrašą. 
  
 19
 straipsnis. Advokato priesaika
@@ -420,8 +423,8 @@ atlikti advokato pareigas, saugoti profesines paslaptis ir savo elgesiu
 nepakenkti advokato vardui“.
 3. [Neteko
 galios nuo 2006.06.28].
-4. Advokatas prisiekia
-dėvėdamas mantiją.
+4. Advokatas
+prisiekia dėvėdamas mantiją.
 5. Perskaitęs
 priesaikos tekstą, advokatas jį pasirašo. Priesaikos tekstas saugomas advokato
 asmens byloje.
@@ -451,9 +454,9 @@ profesinės civilinės atsakomybės privalomojo draudimo objektas yra advokato
 civilinė atsakomybė už advokato, advokato padėjėjų ir kitų advokato ar advokatų
 profesinės bendrijos darbuotojų neteisėtais veiksmais vykdant advokato veiklą
 padarytą žalą. 
- 3. Draudiminiu
-įvykiu laikomi draudimo sutarties galiojimo metu atlikti advokato,
-advokato padėjėjų ir kitų advokato ar advokatų profesinės bendrijos darbuotojų neteisėti
+3. Draudžiamuoju
+įvykiu laikomi draudimo sutarties galiojimo metu atlikti advokato, advokato
+padėjėjų ir kitų advokato ar advokatų profesinės bendrijos darbuotojų neteisėti
 veiksmai (veikimas, neveikimas), kurie yra pagrindas žalai atsirasti.
 4. Advokatas
 profesinės civilinės atsakomybės privalomuoju draudimu draudžiamas sudarant
@@ -461,17 +464,16 @@ advokato profesinės civilinės atsakomybės draudimo sutartį. Advokato profesi
 civilinės atsakomybės privalomojo draudimo draudėjas yra advokatas arba
 advokatų profesinė bendrija. Kai advokatai veikia įsteigę advokatų profesinę
 bendriją, gali būti draudžiama advokatų profesinės bendrijos civilinė
-atsakomybė. Šiuo atveju draudimo suma nustatoma pagal šios advokatų profesinės bendrijos
-dalyvių skaičių, laikantis šiame straipsnyje nustatytų reikalavimų. Vieno
-advokato profesinės civilinės atsakomybės privalomojo draudimo minimali
-draudimo suma yra 100 000 litų vienam draudiminiam įvykiui. 
+atsakomybė. Šiuo atveju draudimo suma nustatoma pagal šios advokatų profesinės
+bendrijos dalyvių skaičių, laikantis šiame straipsnyje nustatytų reikalavimų.
+Vieno advokato profesinės civilinės atsakomybės privalomojo draudimo minimali
+draudimo suma yra 100 000 litų vienam draudžiamajam įvykiui. 
 5. Advokatas
 gali pats papildomai draustis advokato profesinės civilinės atsakomybės
 privalomuoju draudimu už vykdant advokato veiklą fiziniams ar juridiniams
 asmenims padarytą žalą.
 6.
-Draudikas, turintis Valstybinės draudimo priežiūros tarnybos prie Lietuvos
-Respublikos finansų ministerijos išduotą leidimą vykdyti advokatų profesinės
+Draudikas, kuris teisės aktų nustatyta tvarka turi teisę vykdyti advokatų profesinės
 civilinės atsakomybės privalomąjį draudimą, privalo sudaryti advokato
 profesinės civilinės atsakomybės privalomojo draudimo sutartį su advokatu,
 pateikusiu prašymą ir visus šiai sutarčiai sudaryti būtinus dokumentus.
@@ -485,19 +487,22 @@ dienos.
 8. Advokatas
 privalo kliento reikalavimu pateikti advokato profesinės civilinės atsakomybės
 privalomojo draudimo liudijimą (polisą). 
-9. Advokato,
-advokato padėjėjų ir kitų advokato ar advokatų profesinės bendrijos darbuotojų
+9. Advokato, advokato
+padėjėjų ir kitų advokato ar advokatų profesinės bendrijos darbuotojų
 neteisėtais veiksmais vykdant advokato veiklą padarytą žalą atlygina
-draudikas išmokėdamas draudimo sumos neviršijančią draudimo išmoką. Jeigu draudimo
-išmokos nepakanka visai žalai atlyginti, žalą padaręs advokatas atlygina
-faktinės žalos dydžio ir draudimo išmokos skirtumą. 
+draudikas išmokėdamas draudimo sumos neviršijančią draudimo išmoką. Jeigu
+draudimo išmokos nepakanka visai žalai atlyginti, žalą padaręs advokatas
+atlygina faktinės žalos dydžio ir draudimo išmokos skirtumą. 
+Straipsnio pakeitimai:
+Nr. XI-1688,
+2011-11-17, Žin., 2011, Nr. 146-6834 (2011-12-01)
  
 21 straipsnis.
 Advokatų veiklos formos
 1. Advokatai gali veikti:
 1) individualiai;
-2) partnerystės pagrindais, neįsteigę juridinio
-asmens;
+2) partnerystės pagrindais, neįsteigę
+juridinio asmens;
 3) įsteigdami juridinį asmenį – advokatų
 profesinę bendriją. 
 2. Advokatas
@@ -566,8 +571,8 @@ Advokato veiklos apribojimai
 1. Advokatas
 neturi teisės būti atstovu ar gynėju byloje, iškeltoje jo tėvams (įtėviams),
 sutuoktiniui (partneriui), vaikams (įvaikiams), broliams ir seserims.
-2. Advokatas, kuris
-yra ar buvo byloje vienos šalies atstovas arba gynėjas, negali būti šioje
+2. Advokatas,
+kuris yra ar buvo byloje vienos šalies atstovas arba gynėjas, negali būti šioje
 byloje kitos šalies atstovu ar gynėju.
 3. Advokatas
 negali būti atstovu ar gynėju byloje, kurioje jis dalyvavo kaip teisėjas,
@@ -612,9 +617,9 @@ veikdamas individualiai, turi teisę advokato veiklos aptarnavimui užtikrinti
 sudaryti asociacijos sutartį su kitais advokatais, kurie veikia individualiai
 ar partnerystės pagrindais, neįsteigę juridinio asmens.
 6. Advokatas
-laikomas veikiančiu individualiai, jei jis yra sudaręs sutartį dėl paslaugų teikimo
-išimtinai kitam advokatui, advokatų profesinei bendrijai, kito advokato ar
-advokatų profesinės bendrijos klientams. Šiuo atveju laikoma, kad advokatas
+laikomas veikiančiu individualiai, jei jis yra sudaręs sutartį dėl paslaugų
+teikimo išimtinai kitam advokatui, advokatų profesinei bendrijai, kito advokato
+ar advokatų profesinės bendrijos klientams. Šiuo atveju laikoma, kad advokatas
 veikia to advokato ar advokatų profesinės bendrijos, su kuriais sudaryta
 sutartis dėl teisinių paslaugų teikimo, darbo vietoje. Tokioje sutartyje gali
 būti aptariamos naudojimosi darbo vieta sąlygos, advokato kontoros pavadinimo
@@ -693,8 +698,8 @@ dalyvis, kuris teikė teisines paslaugas. Jeigu nėra aišku, kuris iš advokat�
 teikė teisines paslaugas, arba jeigu teisines paslaugas teikia ne advokatų
 profesinės bendrijos dalyvis, už prievoles pagal sutartis dėl teisinių paslaugų
 teikimo, kai joms įvykdyti neužtenka advokatų profesinės bendrijos turto,
-atsako visi jos dalyviai visu savo turtu proporcingai kiekvieno dalyvio reikalavimo
-teisės į profesinės bendrijos turto dalį dydžiui. 
+atsako visi jos dalyviai visu savo turtu proporcingai kiekvieno dalyvio
+reikalavimo teisės į profesinės bendrijos turto dalį dydžiui. 
  
 29
 straipsnis. Advokatų profesinės bendrijos veiklos apribojimai
@@ -783,9 +788,8 @@ galioti likusiems advokatų profesinės bendrijos dalyviams arba kad mirusį
 dalyvį gali pakeisti jo teisių perėmėjas, arba sutartyje numatyta, kad mirusį
 dalyvį gali pakeisti jo teisių perėmėjas, tačiau nė vienas įpėdinis nėra
 advokatas, įpėdiniui, pateikusiam paveldėjimo teisės liudijimą, šio Įstatymo 30
-straipsnio 1 dalyje nurodytoje sutartyje numatytais terminais išmokama
-kompensacija, atitinkanti mirusiam advokatų profesinės bendrijos dalyviui
-priklausančią dalį.
+straipsnio 1 dalyje nurodytoje sutartyje numatytais terminais išmokama kompensacija,
+atitinkanti mirusiam advokatų profesinės bendrijos dalyviui priklausančią dalį.
 3. Šio
 straipsnio nuostatos mutatis mutandis taip pat taikomos paveldint
 advokato teises ir pareigas, kai advokatas veikia individualiai ar partnerystės
@@ -808,8 +812,8 @@ apribojimus. Advokato padėjėjas turi teisę atstovauti kliento interesams
 teismuose tik tuo atveju, kai yra rašytinis advokato (praktikos vadovo)
 leidimas atstovauti konkrečioje byloje, o kitose institucijose – rašytiniu
 advokato (praktikos vadovo) sutikimu. Advokato padėjėjas gali atstovauti tik
-pirmosios instancijos teismuose ir ne anksčiau kaip po vienerių metų nuo
-advokato padėjėjo praktikos pradžios.
+pirmosios instancijos teismuose ir ne anksčiau kaip po vienerių metų nuo advokato
+padėjėjo praktikos pradžios.
  
 35
 straipsnis. Lietuvos advokatų padėjėjų sąrašas
@@ -827,13 +831,12 @@ nepriekaištingos reputacijos pagal šio Įstatymo 8 straipsnį;
 su advokatu, įrašytu į Lietuvos praktikuojančių advokatų sąrašą, atlikti
 advokato padėjėjo praktiką arba jeigu jo praktikos vadovu advokatas yra
 paskirtas šio Įstatymo 37 straipsnio 1 dalies nustatyta tvarka;
-5) neturi
-sveikatos sutrikimų, dėl kurių negalėtų atlikti advokato padėjėjo pareigų.
-Advokatų padėjėjai tikrinasi sveikatą, kaip nustatyta šio Įstatymo 7 straipsnio
-6 punkte.
+5) neturi sveikatos
+sutrikimų, dėl kurių negalėtų atlikti advokato padėjėjo pareigų. Advokatų
+padėjėjai tikrinasi sveikatą, kaip nustatyta šio Įstatymo 7 straipsnio 6
+punkte.
 2. Norintis būti
-įrašytas į Lietuvos advokatų padėjėjų sąrašą asmuo Lietuvos advokatūrai
-pateikia:
+įrašytas į Lietuvos advokatų padėjėjų sąrašą asmuo Lietuvos advokatūrai pateikia:
 1) prašymą
 įrašyti į Lietuvos advokatų padėjėjų sąrašą. Šiame prašyme turi būti nurodyti
 pareiškėjo asmens duomenys (vardas, pavardė, asmens kodas, gyvenamoji vieta,
@@ -861,8 +864,8 @@ skundžiamas Vilniaus apygardos teismui.
 36
 straipsnis.
 Išbraukimas iš Lietuvos advokatų padėjėjų sąrašo
-1. Lietuvos
-advokatūra išbraukia asmenį iš Lietuvos advokatų padėjėjų sąrašo, jeigu:
+1. Lietuvos advokatūra
+išbraukia asmenį iš Lietuvos advokatų padėjėjų sąrašo, jeigu:
 1) jis padavė
 rašytinį prašymą nutraukti advokato padėjėjo praktiką;
 2) jis per
@@ -967,9 +970,9 @@ privalo nedelsdamas pranešti klientui.
 41
 straipsnis.
 Advokato ir advokato padėjėjo socialinis draudimas
-Advokatas ir
-advokato padėjėjas privalo apsidrausti Lietuvos Respublikos valstybinio
-socialinio draudimo įstatymo nustatyta tvarka.
+Advokatas ir advokato
+padėjėjas privalo apsidrausti Lietuvos Respublikos valstybinio socialinio
+draudimo įstatymo nustatyta tvarka.
  
 42
 straipsnis.
@@ -983,8 +986,9 @@ vizitinėse kortelėse, ant reprezentacinių daiktų, taip pat kai advokatas ar
 advokatų profesinė bendrija įstatymų nustatyta tvarka nurodomi kaip paramos
 davėjai.
 3. Kitus
-informacijos apie advokatą ar advokatų profesinę bendriją pateikimo būdus nustato
-Lietuvos advokatūra, suderinusi su Lietuvos Respublikos teisingumo ministerija.
+informacijos apie advokatą ar advokatų profesinę bendriją pateikimo būdus
+nustato Lietuvos advokatūra, suderinusi su Lietuvos Respublikos teisingumo
+ministerija.
  
 43
 straipsnis.
@@ -1861,6 +1865,7 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
 
 
  
+ 
 RESPUBLIKOS PREZIDENTAS                                                           ROLANDAS
 PAKSAS
 
@@ -1929,12 +1934,23 @@ ADVOKATŪROS
 Šio
 įstatymo 4 straipsnis įsigalioja 2008 m. liepos 1 d.
  
+5.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-1688,
+2011-11-17, Žin., 2011, Nr. 146-6834 (2011-12-01)
+ADVOKATŪROS
+ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2012 m. sausio 1 d.
+ 
+ 
 ***
 Pabaiga ***
  
  
-Redagavo:
-Aušrinė Trapinskienė (2008-04-30)
-
+Redagavo
+Aušra Bodin (2011-12-14)
                  
-autrap@lrs.lt
+aubodi@lrs.lt
