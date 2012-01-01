@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2C94E75C224B"
 
 # Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymas
 
+Suvestinė redakcija nuo 2012-01-01 iki 2014-12-31
+ 
+Įstatymas paskelbtas: Žin. 2004, Nr. 120-4433, i. k. 1041010ISTA0IX-2387
+ 
+ 
 LIETUVOS RESPUBLIKOS
 ĮMONIŲ, PRIKLAUSANČIŲ FINANSŲ KONGLOMERATUI, PAPILDOMOS PRIEŽIŪROS
 Į S T A T Y M A S
@@ -35,7 +40,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Šis įstatymas taikomas nustatyti, ar Lietuvos Respublikoje įsteigtos prižiūrimos įmonės priklauso finansų konglomeratui. Šis įstatymas nustato Lietuvos Respublikoje įsteigtų prižiūrimų įmonių teises ir pareigas vykdant papildomos priežiūros reikalavimus, Lietuvos Respublikos kompetentingų institucijų teises ir pareigas atliekant papildomą priežiūrą bei kitų Europos Sąjungos valstybių narių kompetentingų institucijų teises Lietuvos Respublikoje įsteigtų prižiūrimų įmonių, priklausančių finansų konglomeratui, atžvilgiu atliekant papildomą priežiūrą.
+2. Šis įstatymas taikomas siekiant nustatyti, ar Lietuvos Respublikoje įsteigtos prižiūrimos įmonės priklauso finansų konglomeratui. Šis įstatymas nustato Lietuvos Respublikoje įsteigtų prižiūrimų įmonių teises ir pareigas vykdant papildomos priežiūros reikalavimus, Lietuvos Respublikos kompetentingos institucijos teises ir pareigas atliekant papildomą priežiūrą bei kitų Europos Sąjungos valstybių narių kompetentingų institucijų teises Lietuvos Respublikoje įsteigtų prižiūrimų įmonių, priklausančių finansų konglomeratui, atžvilgiu atliekant papildomą priežiūrą.
+Straipsnio dalies pakeitimai:
+Nr. XI-1681, 2011-11-17, Žin., 2011, Nr. 146-6827 (2011-12-01), i. k. 1111010ISTA0XI-1681
+ 
 
 
 
@@ -69,7 +77,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-3) kitos Lietuvos Respublikos ir (arba) kitų Europos Sąjungos valstybių narių kompetentingos institucijos, jeigu jų prižiūrimų įmonių, priklausančių konglomeratui, turima rinkos dalis kitose Europos Sąjungos valstybėse narėse viršija 5 procentus arba jeigu, šios dalies 1 ir 2 punktuose nurodytų institucijų nuomone, tai yra reikalinga, atsižvelgiant į prižiūrimų įmonių, priklausančių konglomeratui, turimą rinkos dalį (jei ji neviršija 5 procentų) kitose Europos Sąjungos valstybėse narėse ir kitoje valstybėje narėje įsisteigusios bet kurios prižiūrimos įmonės svarbą konglomerate.
+3) kitų Europos Sąjungos valstybių narių kompetentingos institucijos, jeigu jų prižiūrimų įmonių, priklausančių konglomeratui, turima rinkos dalis kitose Europos Sąjungos valstybėse narėse viršija 5 procentus arba jeigu, šios dalies 1 ir 2 punktuose nurodytų institucijų nuomone, tai yra reikalinga, atsižvelgiant į prižiūrimų įmonių, priklausančių konglomeratui, turimą rinkos dalį (jei ji neviršija 5 procentų) kitose Europos Sąjungos valstybėse narėse ir kitoje valstybėje narėje įsisteigusios bet kurios prižiūrimos įmonės svarbą konglomerate. 
+Straipsnio punkto pakeitimai:
+Nr. XI-1681, 2011-11-17, Žin., 2011, Nr. 146-6827 (2011-12-01), i. k. 1111010ISTA0XI-1681
+ 
 
 
 
@@ -87,7 +98,6 @@ BENDROSIOS NUOSTATOS
 
 
 4. Draudimo įmonė – draudimo įmonė, kitos Europos Sąjungos valstybės narės draudimo įmonė arba užsienio valstybės draudimo įmonė, kaip šios sąvokos apibrėžtos Lietuvos Respublikos draudimo įstatyme.
- 
 
 
 
@@ -132,17 +142,42 @@ BENDROSIOS NUOSTATOS
 
 
 
-7. Europos Sąjungos valstybė narė – Lietuvos Respublika arba bet kuri kita Europos Sąjungos valstybė narė. Šiame įstatyme sąvoka „Europos Sąjungos valstybė narė“ apima ir Europos ekonominės erdvės valstybes.
+7. Europos priežiūros institucijų jungtinis komitetas – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1093/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB (OL 2010 L 331, p. 12), 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1094/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos draudimo ir profesinių pensijų institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/79/EB (OL 2010 L 331, p. 48), ir 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1095/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB (OL 2010 L 331, p. 84), įsteigtas komitetas. 
+Papildyta straipsnio dalimi:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
+ 
 
 
 
 
-8. Finansų įmonė – Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės arba užsienio valstybės įmonė, kurios pagrindinė veikla yra vienos ar daugiau finansinių paslaugų, nurodytų Lietuvos Respublikos finansų įstaigų įstatymo 3 straipsnio 1 dalies 2–8, 16 ir 17 punktuose, teikimas.
+8. Europos Sąjungos valstybė narė – Lietuvos Respublika arba bet kuri kita Europos Sąjungos valstybė narė. Šiame įstatyme sąvoka „Europos Sąjungos valstybė narė“ apima ir Europos ekonominės erdvės valstybes.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
+ 
 
 
 
 
-9. Finansų konglomeratas – grupė ar jos pogrupis, atitinkantys šios dalies 1, 2, 4 ir 5 arba 1, 3, 4 ir 5 punktuose nurodytas sąlygas:
+9. Europos sisteminės rizikos valdyba – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1092/2010 dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo (OL 2010 L 331, p. 1) įsteigta institucija. 
+Papildyta straipsnio dalimi:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
+ 
+
+
+
+
+10. Finansų įmonė – Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės arba užsienio valstybės įmonė, kurios pagrindinė veikla yra vienos ar daugiau finansinių paslaugų, nurodytų Lietuvos Respublikos finansų įstaigų įstatymo 3 straipsnio 1 dalies 2–8, 16 ir 17 punktuose, teikimas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
+ 
+
+
+
+
+11. Finansų konglomeratas – grupė ar jos pogrupis, atitinkantys šios dalies 1, 2, 4 ir 5 arba 1, 3, 4 ir 5 punktuose nurodytas sąlygas:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
+ 
 
 
 1) grupei vadovauja prižiūrima įmonė arba bent viena iš grupei priklausančių dukterinių įmonių yra prižiūrima įmonė;
@@ -172,12 +207,18 @@ BENDROSIOS NUOSTATOS
 
 
 
-10. Finansų maklerio įmonė – Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės įmonė, kuri profesionaliai verčiasi investicinių paslaugų teikimu tretiesiems asmenims, arba kitoje užsienio valstybėje licencijuota kitos užsienio valstybės prižiūrima įmonė, kuri laikosi nustatytų riziką ribojančios priežiūros taisyklių, kompetentingos institucijos nuomone, ne mažiau griežtų, negu nustatytos Europos Sąjungoje, ir kuri pagal vykdomos veiklos pobūdį būtų laikoma finansų maklerio įmone, jei būtų įsteigta Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje. 
+12. Finansų maklerio įmonė – Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės įmonė, kuri profesionaliai verčiasi investicinių paslaugų teikimu tretiesiems asmenims, arba kitoje užsienio valstybėje licencijuota kitos užsienio valstybės prižiūrima įmonė, kuri laikosi nustatytų riziką ribojančios priežiūros taisyklių, kompetentingos institucijos nuomone, ne mažiau griežtų, negu nustatytos Europos Sąjungoje, ir kuri pagal vykdomos veiklos pobūdį būtų laikoma finansų maklerio įmone, jei būtų įsteigta Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
+ 
 
 
 
 
-11. Finansų sektorius – sektorius, kurį sudaro: 
+13. Finansų sektorius – sektorius, kurį sudaro: 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
+ 
 
 
 1) bankų sektorius, kuriame veikia kredito įstaiga, finansų įmonė arba kredito įstaigos veiklą papildančias paslaugas teikianti įmonė;
@@ -202,42 +243,68 @@ BENDROSIOS NUOSTATOS
 
 
 
-12. Glaudus ryšys – ryšys tarp asmenų, pasireiškiantis kontrole arba dalyvavimu. Jei asmuo kontroliuoja du ar daugiau asmenų, laikoma, jog pastarieji taip pat yra susiję glaudžiu ryšiu.
+14. Glaudus ryšys – ryšys tarp asmenų, pasireiškiantis kontrole arba dalyvavimu. Jei asmuo kontroliuoja du ar daugiau asmenų, laikoma, jog pastarieji taip pat yra susiję glaudžiu ryšiu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
+ 
 
 
 
 
-13. Grupė – įmonių grupė, į kurią įeina patronuojanti įmonė, jos dukterinės įmonės ir įmonės, kuriose patronuojanti įmonė ar jos dukterinės įmonės dalyvauja, taip pat įmonė, nors ir nesusijusi šio straipsnio 6 ir 19 dalyse nustatytais ryšiais su kita ar kitomis įmonėmis, tačiau valdoma bendrai remiantis su šiomis įmonėmis sudarytomis sutartimis ar steigimo dokumentuose esamomis nuostatomis, arba jos ir kitos ar kitų įmonių dauguma administracijos, valdymo ar priežiūros organų narių per finansinius metus iki konsoliduotos finansinės atskaitomybės sudarymo yra tie patys asmenys.
+15. Grupė – įmonių grupė, į kurią įeina patronuojanti įmonė, jos dukterinės įmonės ir įmonės, kuriose patronuojanti įmonė ar jos dukterinės įmonės dalyvauja, taip pat įmonė, nors ir nesusijusi šio straipsnio 6 ir 19 dalyse nustatytais ryšiais su kita ar kitomis įmonėmis, tačiau valdoma bendrai remiantis su šiomis įmonėmis sudarytomis sutartimis ar steigimo dokumentuose esamomis nuostatomis, arba jos ir kitos ar kitų įmonių dauguma administracijos, valdymo ar priežiūros organų narių per finansinius metus iki konsoliduotos finansinės atskaitomybės sudarymo yra tie patys asmenys.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
+ 
 
 
 
 
-14. Grupės vidaus operacijos – visos operacijos, kurias atlikdamos prižiūrimos finansų konglomerato įmonės, vykdydamos sutarties arba kitu pagrindu atsiradusį įsipareigojimą, tiesiogiai arba netiesiogiai priklauso nuo kitų tos pačios grupės įmonių ar bet kurio fizinio arba juridinio asmens, kurį su tos grupės įmonėmis sieja glaudus ryšys.
+16. Grupės vidaus operacijos – visos operacijos, kurias atlikdamos prižiūrimos finansų konglomerato įmonės, vykdydamos sutarties arba kitu pagrindu atsiradusį įsipareigojimą, tiesiogiai arba netiesiogiai priklauso nuo kitų tos pačios grupės įmonių ar bet kurio fizinio arba juridinio asmens, kurį su tos grupės įmonėmis sieja glaudus ryšys.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
+ 
 
 
 
 
-15. Kompetentingos institucijos – Lietuvos Respublikos ir (arba) kitų Europos Sąjungos valstybių narių kredito įstaigų ir (arba) draudimo įmonių, ir (arba) finansų maklerio įmonių priežiūros institucijos. Lietuvos Respublikos kompetentingos institucijos yra Lietuvos bankas, Lietuvos Respublikos draudimo priežiūros komisija ir Lietuvos Respublikos vertybinių popierių komisija.
+17. Kompetentingos institucijos – Lietuvos Respublikos ir (arba) kitų Europos Sąjungos valstybių narių kredito įstaigų ir (arba) draudimo įmonių, ir (arba) finansų maklerio įmonių priežiūros institucijos. Lietuvos Respublikos kompetentinga institucija yra Lietuvos bankas.
+Straipsnio dalies pakeitimai:
+Nr. XI-1681, 2011-11-17, Žin., 2011, Nr. 146-6827 (2011-12-01), i. k. 1111010ISTA0XI-1681
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
+ 
 
 
 
 
-16. Kontrolė – ryšys tarp patronuojančios įmonės ir dukterinės įmonės, atitinkantis šio straipsnio 6 ir 19 dalyse numatytus kriterijus, arba analogiškas ryšys tarp bet kurio fizinio ar juridinio asmens ir įmonės. Kontrolė gali būti tiesioginė arba netiesioginė. Dukterinė įmonė laikoma patronuojančios įmonės, kurios dukterinė įmonė turi šią dukterinę įmonę, dukterine įmone.
+18. Kontrolė – ryšys tarp patronuojančios įmonės ir dukterinės įmonės, atitinkantis šio straipsnio 6 ir 19 dalyse numatytus kriterijus, arba analogiškas ryšys tarp bet kurio fizinio ar juridinio asmens ir įmonės. Kontrolė gali būti tiesioginė arba netiesioginė. Dukterinė įmonė laikoma patronuojančios įmonės, kurios dukterinė įmonė turi šią dukterinę įmonę, dukterine įmone.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
+ 
 
 
 
 
-17. Kredito įstaiga – Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės įmonė, kuri verčiasi indėlių ar kitų grąžintinų lėšų priėmimu iš visuomenės (neprofesionalių rinkos dalyvių) ir jų skolinimu ar elektroninių pinigų išleidimu ir tvarkymu, arba kitos užsienio valstybės įmonė, kuri turi tos valstybės kompetentingos institucijos išduotą licenciją verstis ir verčiasi indėlių ar kitų grąžintinų lėšų priėmimu iš visuomenės (neprofesionalių rinkos dalyvių) ir jų skolinimu ar elektroninių pinigų išleidimu ir tvarkymu.
+19. Kredito įstaiga – Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės įmonė, kuri verčiasi indėlių ar kitų grąžintinų lėšų priėmimu iš visuomenės (neprofesionalių rinkos dalyvių) ir jų skolinimu ar elektroninių pinigų išleidimu ir tvarkymu, arba kitos užsienio valstybės įmonė, kuri turi tos valstybės kompetentingos institucijos išduotą licenciją verstis ir verčiasi indėlių ar kitų grąžintinų lėšų priėmimu iš visuomenės (neprofesionalių rinkos dalyvių) ir jų skolinimu ar elektroninių pinigų išleidimu ir tvarkymu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
+ 
 
 
 
 
-18. Mišrios veiklos finansų kontroliuojančioji (holdingo) įmonė – patronuojanti įmonė, kita negu prižiūrima įmonė, kuri kartu su savo dukterinėmis įmonėmis, iš kurių bent viena yra prižiūrima įmonė, kuri turi buveinę Europos Sąjungos valstybėje narėje, ir su kitomis įmonėmis sudaro finansų konglomeratą.
+20. Mišrios veiklos finansų kontroliuojančioji (holdingo) įmonė – patronuojanti įmonė, kita negu prižiūrima įmonė, kuri kartu su savo dukterinėmis įmonėmis, iš kurių bent viena yra prižiūrima įmonė, kuri turi buveinę Europos Sąjungos valstybėje narėje, ir su kitomis įmonėmis sudaro finansų konglomeratą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
+ 
 
 
 
 
-19. Patronuojanti įmonė – įmonė, kuri atitinka bent vieną iš šių kriterijų:
+21. Patronuojanti įmonė – įmonė, kuri atitinka bent vieną iš šių kriterijų:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
+ 
 
 
 1) įmonė turi daugumą akcininkų ar kitų dalyvių balsų kitoje įmonėje;
@@ -267,37 +334,57 @@ BENDROSIOS NUOSTATOS
 
 
 
-20. Perdraudimo įmonė – kaip ši sąvoka apibrėžta Lietuvos Respublikos draudimo įstatyme. 
+22. Perdraudimo įmonė – kaip ši sąvoka apibrėžta Lietuvos Respublikos draudimo įstatyme. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
+ 
 
 
 
 
-21. Pogrupis – grupės dalis, atitinkanti grupei keliamus reikalavimus.
+23. Pogrupis – grupės dalis, atitinkanti grupei keliamus reikalavimus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
+ 
 
 
 
 
-22. Prižiūrima įmonė – kredito įstaiga, draudimo įmonė arba finansų maklerio įmonė.
+24. Prižiūrima įmonė – kredito įstaiga, draudimo įmonė arba finansų maklerio įmonė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
+ 
 
 
 
 
-23. Rizikos koncentracija – bet kokie tikėtini nuostoliai, kurių atsiradimo riziką prisiima finansų konglomerato įmonės ir kurie yra pakankamai dideli, kad keltų grėsmę visų finansų konglomerato įmonių mokumui (kapitalo pakankamumui) ir finansinei būklei; nuostolių tikėtinumas gali būti grindžiamas sandorio šalių rizika (kredito rizika), investicijų rizika, draudimo rizika, rinkos rizika, kitų rūšių rizika arba šių rizikos rūšių deriniu ar tarpusavio sąveika.
+25. Rizikos koncentracija – bet kokie tikėtini nuostoliai, kurių atsiradimo riziką prisiima finansų konglomerato įmonės ir kurie yra pakankamai dideli, kad keltų grėsmę visų finansų konglomerato įmonių mokumui (kapitalo pakankamumui) ir finansinei būklei; nuostolių tikėtinumas gali būti grindžiamas sandorio šalių rizika (kredito rizika), investicijų rizika, draudimo rizika, rinkos rizika, kitų rūšių rizika arba šių rizikos rūšių deriniu ar tarpusavio sąveika.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
+ 
 
 
 
 
-24. Sektoriaus taisyklės – kredito įstaigų, draudimo įmonių arba finansų maklerio įmonių veiklą reglamentuojantys teisės aktai, įskaitant Europos Sąjungos teisės aktus.
+26. Sektoriaus taisyklės – kredito įstaigų, draudimo įmonių arba finansų maklerio įmonių veiklą reglamentuojantys teisės aktai, įskaitant Europos Sąjungos teisės aktus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
+ 
 
 
 
 
-25. Valdymo įmonė – Lietuvos Respublikoje ar kitose Europos Sąjungos valstybėse narėse licencijuota įmonė, kurios pagrindinė veikla yra investicinių fondų ar investicinių kintamojo kapitalo bendrovių valdymas, arba kitoje užsienio valstybėje licencijuota kitos užsienio valstybės prižiūrima įmonė, kuri laikosi nustatytų riziką ribojančios priežiūros taisyklių, kompetentingos institucijos nuomone, ne mažiau griežtų, negu nustatytos Europos Sąjungoje, ir kuri pagal vykdomos veiklos pobūdį būtų laikoma valdymo įmone, jei būtų įsteigta Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje.
+27. Valdymo įmonė – Lietuvos Respublikoje ar kitose Europos Sąjungos valstybėse narėse licencijuota įmonė, kurios pagrindinė veikla yra investicinių fondų ar investicinių kintamojo kapitalo bendrovių valdymas, arba kitoje užsienio valstybėje licencijuota kitos užsienio valstybės prižiūrima įmonė, kuri laikosi nustatytų riziką ribojančios priežiūros taisyklių, kompetentingos institucijos nuomone, ne mažiau griežtų, negu nustatytos Europos Sąjungoje, ir kuri pagal vykdomos veiklos pobūdį būtų laikoma valdymo įmone, jei būtų įsteigta Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
+ 
 
 
 
 
-26. Užsienio valstybė – valstybė ne Europos Sąjungos valstybė narė ir ne Europos ekonominės erdvės valstybė.
+28. Užsienio valstybė – valstybė ne Europos Sąjungos valstybė narė ir ne Europos ekonominės erdvės valstybė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
  
 
 
@@ -323,7 +410,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Grupės veikla finansų sektoriuje laikoma reikšminga ir tuo atveju, jeigu grupės mažiausio finansų sektoriaus turtas yra didesnis negu 6 milijardai eurų. Jeigu grupė nesiekia šio straipsnio 2 dalyje nustatyto santykio, Lietuvos Respublikos atitinkamos kompetentingos institucijos turi teisę bendrai su kitomis atitinkamomis kompetentingomis institucijomis nuspręsti nelaikyti grupės finansų konglomeratu arba netaikyti šio įstatymo 8, 9 ar 10 straipsnių nuostatų, jeigu, jų nuomone, minėtos grupės nereikia įtraukti į šio įstatymo taikymo sritį arba tokių nuostatų taikymas būtų netinkamas ar klaidinantis. Priimant tokius sprendimus, atsižvelgiama į papildomos priežiūros tikslus ir į tai, kad: 
+4. Grupės veikla finansų sektoriuje laikoma reikšminga ir tuo atveju, jeigu grupės mažiausio finansų sektoriaus turtas yra didesnis negu 6 milijardai eurų. Jeigu grupė nesiekia šio straipsnio 2 dalyje nustatyto santykio, Lietuvos Respublikos kompetentinga institucija turi teisę bendrai su kitomis atitinkamomis kompetentingomis institucijomis nuspręsti nelaikyti grupės finansų konglomeratu arba netaikyti šio įstatymo 8, 9 ar 10 straipsnių nuostatų, jeigu, jų nuomone, minėtos grupės nereikia įtraukti į šio įstatymo taikymo sritį arba tokių nuostatų taikymas būtų netinkamas ar klaidinantis. Priimant tokius sprendimus, atsižvelgiama į papildomos priežiūros tikslus ir į tai, kad:
 
 
 1) finansų konglomerato mažiausio finansų sektoriaus dydis, nustatomas pagal šio straipsnio 2 dalyje nurodytą vidurkį arba turto ar mokumo (kapitalo pakankamumo) reikalavimus, yra ne didesnis kaip 5 procentai arba
@@ -331,29 +418,38 @@ BENDROSIOS NUOSTATOS
 
 
 
-2) grupės įmonių rinkos dalis, nustatyta pagal bankų arba investicinių paslaugų sektoriaus įmonių turtą ir draudimo sektoriaus įmonių pasirašytas draudimo įmokas bet kurioje Europos Sąjungos valstybėje narėje, yra ne didesnė kaip 5 procentai.
+2) grupės įmonių rinkos dalis, nustatyta pagal bankų arba investicinių paslaugų sektoriaus įmonių turtą ir draudimo sektoriaus įmonių pasirašytas draudimo įmokas bet kurioje Europos Sąjungos valstybėje narėje, yra ne didesnė kaip 5 procentai. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XI-1681, 2011-11-17, Žin., 2011, Nr. 146-6827 (2011-12-01), i. k. 1111010ISTA0XI-1681
+ 
 
 
 
 
-
-
-5. Lietuvos Respublikos kompetentingos institucijos, dalyvavusios priimant sprendimus pagal šio straipsnio 4 dalį, apie priimtus sprendimus privalo informuoti kitas suinteresuotas kompetentingas institucijas, nurodytas šio įstatymo 2 straipsnio 1 dalies 3 punkte.
-
-
-
-
-6. Taikydamos šio straipsnio 1–4 dalis, Lietuvos Respublikos atitinkamos kompetentingos institucijos turi teisę bendrai su kitomis atitinkamomis kompetentingomis institucijomis: 
-
-
-1) nuspręsti šio įstatymo 7 straipsnio 6 dalyje nurodytais atvejais neįtraukti tam tikros įmonės, skaičiuodamos šio straipsnio 1–4 dalyse nustatytus santykius;
+5. Lietuvos Respublikos kompetentinga institucija, dalyvavusi priimant sprendimus pagal šio straipsnio 4 dalį, apie priimtus sprendimus privalo informuoti kitas suinteresuotas kompetentingas institucijas, nurodytas šio įstatymo 2 straipsnio 1 dalies 3 punkte. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1681, 2011-11-17, Žin., 2011, Nr. 146-6827 (2011-12-01), i. k. 1111010ISTA0XI-1681
+ 
 
 
 
 
-2) siekdamos išvengti staigių papildomos priežiūros pasikeitimų įtakos, atsižvelgti į atitikimą santykiui, nustatytam šio straipsnio 1–3 dalyse, trejus metus iš eilės ir neatsižvelgti į šį neatitikimą labai pasikeitus grupės struktūrai.
+6. Taikydama šio straipsnio 1–4 dalis, Lietuvos Respublikos kompetentinga institucija turi teisę bendrai su kitomis atitinkamomis kompetentingomis institucijomis:
 
 
+1) nuspręsti šio įstatymo 7 straipsnio 6 dalyje nurodytais atvejais neįtraukti tam tikros įmonės, skaičiuodama šio straipsnio 1–4 dalyse nustatytus santykius;
+
+
+
+
+2) siekdama išvengti staigių papildomos priežiūros pasikeitimų įtakos, atsižvelgti į santykio, nustatyto šio straipsnio 1, 2, 3 dalyse, atitikimą trejus metus iš eilės ir neatsižvelgti į šį neatitikimą labai pasikeitus grupės struktūrai. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XI-1681, 2011-11-17, Žin., 2011, Nr. 146-6827 (2011-12-01), i. k. 1111010ISTA0XI-1681
+ 
 
 
 
@@ -363,7 +459,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-8. Taikydamos šio straipsnio 1–3 dalis, Lietuvos Respublikos atitinkamos kompetentingos institucijos turi teisę kartu su kitomis atitinkamomis kompetentingomis institucijomis išimtiniais atvejais nuspręsti turto rodiklį pakeisti pajamų struktūros ar nebalansinių įsipareigojimų rodikliu ar jais abiem arba pridėti vieną ar abu nurodytuosius rodiklius, jeigu minėti rodikliai yra svarbūs vykdant šiame įstatyme nustatytą papildomą priežiūrą.
+8. Taikydama šio straipsnio 1, 2, 3 dalis, Lietuvos Respublikos kompetentinga institucija turi teisę kartu su kitomis atitinkamomis kompetentingomis institucijomis išimtiniais atvejais nuspręsti turto rodiklį pakeisti pajamų struktūros ar nebalansinių įsipareigojimų rodikliu ar jais abiem arba pridėti vieną ar abu nurodytuosius rodiklius, jeigu minėti rodikliai yra svarbūs atliekant šiame įstatyme nustatytą papildomą priežiūrą.
+Straipsnio dalies pakeitimai:
+Nr. XI-1681, 2011-11-17, Žin., 2011, Nr. 146-6827 (2011-12-01), i. k. 1111010ISTA0XI-1681
+ 
 
 
 
@@ -399,22 +498,27 @@ BENDROSIOS NUOSTATOS
 4 straipsnis. Finansų konglomerato nustatymas
 
 
-1. Prižiūrimoms įmonėms licencijas išdavusios Lietuvos Respublikos kompetentingos institucijos dalyvauja pagal šio įstatymo 2, 3 ir 5 straipsnius nustatant kiekvieną grupę, kurioje yra šios prižiūrimos įmonės ir kuriai turėtų būti taikoma papildoma priežiūra. Šiuo tikslu kompetentingos institucijos:
+1. Prižiūrimoms įmonėms licencijas išdavusi Lietuvos Respublikos kompetentinga institucija dalyvauja pagal šio įstatymo 2, 3 ir 5 straipsnius nustatant kiekvieną grupę, kurioje yra šios prižiūrimos įmonės ir kuriai turėtų būti taikoma papildoma priežiūra. Šiuo tikslu kompetentinga institucija:
 
 
-1) jei reikalinga, glaudžiai bendradarbiauja tarpusavyje ir su kitų Europos Sąjungos valstybių narių kompetentingomis institucijomis;
-
-
-
-
-2) informuoja apie savo nuomonę kitas kompetentingas institucijas, jeigu mano, kad prižiūrima įmonė, gavusi šių kompetentingų institucijų išduodamą licenciją, priklauso grupei, kuri gali būti finansų konglomeratu, dar nenustatytu pagal šiame įstatyme nustatytus kriterijus. 
+1) jeigu reikalinga, glaudžiai bendradarbiauja su kitų Europos Sąjungos valstybių narių kompetentingomis institucijomis;
 
 
 
 
+2) informuoja apie savo nuomonę kitas kompetentingas institucijas, jeigu mano, kad prižiūrima įmonė, gavusi šių kompetentingų institucijų išduodamą licenciją, priklauso grupei, kuri gali būti finansų konglomeratu, dar nenustatytu pagal šiame įstatyme nustatytus kriterijus.
 
 
-2. Jei Lietuvos Respublikos kompetentinga institucija pagal šio įstatymo 13 straipsnį paskiriama koordinatoriumi, ji apie finansų konglomerato statuso suteikimą grupei ir koordinatoriaus paskyrimą per protingą terminą informuoja grupei vadovaujančią patronuojančią įmonę arba, jei patronuojanti įmonė grupei nevadovauja, prižiūrimą įmonę, kurios turto dalis pagrindiniame grupės finansų sektoriuje yra didžiausia. Koordinatorius apie tai taip pat informuoja kompetentingas institucijas, išdavusias licencijas prižiūrimoms grupės įmonėms, Europos Sąjungos valstybės narės, kurioje yra mišrios veiklos finansų kontroliuojančiosios (holdingo) įmonės buveinė, kompetentingas institucijas ir Europos Komisiją.
+Straipsnio dalies pakeitimai:
+Nr. XI-1681, 2011-11-17, Žin., 2011, Nr. 146-6827 (2011-12-01), i. k. 1111010ISTA0XI-1681
+ 
+
+
+
+
+2. Jeigu Lietuvos Respublikos kompetentinga institucija pagal šio įstatymo 13 straipsnį paskiriama koordinatoriumi, ji apie finansų konglomerato statuso suteikimą grupei ir koordinatoriaus paskyrimą per protingą terminą informuoja grupei vadovaujančią patronuojančią įmonę arba, jeigu patronuojanti įmonė grupei nevadovauja, prižiūrimą įmonę, kurios turto dalis pagrindiniame grupės finansų sektoriuje yra didžiausia. Koordinatorius apie tai taip pat informuoja kompetentingas institucijas, išdavusias licencijas prižiūrimoms grupės įmonėms, Europos Sąjungos valstybės narės, kurioje yra mišrios veiklos finansų kontroliuojančiosios (holdingo) įmonės buveinė, kompetentingas institucijas ir Europos priežiūros institucijų jungtinį komitetą.
+Straipsnio dalies pakeitimai:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
  
 
 
@@ -437,50 +541,58 @@ PAPILDOMOS PRIEŽIŪROS OBJEKTAS IR PRIEMONĖS
 
 
 
-2. Papildoma priežiūra, numatyta šio įstatymo 7–18 straipsniuose, finansų konglomerato lygiu taikoma prižiūrimoms įmonėms: 
+2. Papildoma priežiūra, nurodyta šio įstatymo 7–18 straipsniuose, finansų konglomerato lygiu taikoma prižiūrimoms įmonėms:
 
 
-1) kurios vadovauja finansų konglomeratui; 
-
-
-
-
-2) kurių patronuojanti įmonė yra mišrios veiklos finansų kontroliuojančioji (holdingo) įmonė, turinti buveinę Europos Sąjungos valstybėje narėje; 
+1) kurios vadovauja finansų konglomeratui;
 
 
 
 
-3) kurios, nors ir nesusijusios šio įstatymo 2 straipsnio 6 ir 19 dalyse nustatytais ryšiais su kita ar kitomis finansų sektoriaus įmonėmis, tačiau valdomos bendrai remiantis su šiomis įmonėmis sudarytomis sutartimis ar steigimo dokumentuose esamomis nuostatomis, arba jos ir kitos ar kitų finansų sektoriaus įmonių dauguma administracijos, valdymo ar priežiūros organų narių per finansinius metus iki konsoliduotos finansinės atskaitomybės sudarymo yra tie patys asmenys.
+2) kurių patronuojanti įmonė yra mišrios veiklos finansų kontroliuojančioji (holdingo) įmonė, turinti buveinę Europos Sąjungos valstybėje narėje;
 
 
 
 
-
-
-3. Jeigu dalyvaujant Lietuvos Respublikos kompetentingoms institucijoms nustatytas finansų konglomeratas, kuriam priklausančioms prižiūrimoms įmonėms taikoma papildoma priežiūra, kaip numatyta šio straipsnio 2 dalyje, yra pogrupis kito finansų konglomerato, šio įstatymo 6–18 straipsnių nuostatos gali būti taikomos tik pastarajai grupei priklausančioms prižiūrimoms įmonėms ir bet kokia šio įstatymo nuoroda į grupės ir finansų konglomerato sąvokas suprantama kaip nuoroda į pastarąją grupę.
-
-
-
-
-4. Kiekvienai prižiūrimai įmonei, kuriai netaikoma papildoma priežiūra pagal šio straipsnio 2 ir 3 dalis ir kurios patronuojanti įmonė yra prižiūrima įmonė arba mišrios veiklos finansų kontroliuojančioji (holdingo) įmonė, turinčios buveinę užsienio valstybėje, taikoma papildoma priežiūra finansų konglomerato lygiu šio įstatymo 19 straipsnyje nustatyta tvarka. 
-
-
-
-
-5. Kitais negu šio straipsnio 2–4 dalyse nurodytais atvejais, jeigu asmenys dalyvauja vienoje ar keliose prižiūrimose įmonėse arba turi jų kapitalo, arba daro minėtoms įmonėms didelę įtaką, nedalyvaudami jose ar neturėdami jų kapitalo, Lietuvos Respublikos atitinkamos kompetentingos institucijos turi teisę, atsižvelgdamos į papildomos priežiūros tikslus, su kitomis atitinkamomis kompetentingomis institucijomis susitarti ir nuspręsti, ar prižiūrimoms įmonėms reikia taikyti papildomą priežiūrą, taikomą finansų konglomerato įmonėms, ir koks privalo būti priežiūros mastas. Norint taikyti papildomą priežiūrą, bent viena iš įmonių privalo būti prižiūrima ir tenkinti šio įstatymo 2 straipsnio 9 dalies 4 ir 5 punktų reikalavimus. 
-
-
-
-
-6. Taikant šio straipsnio 5 dalį, asmenų daromą įtaką prižiūrimoms įmonėms nustato Lietuvos Respublikos kompetentingos institucijos, atsižvelgdamos į grupių, kurioms priklauso šios prižiūrimos įmonės, finansinius įsipareigojimus kitoms finansų įmonėms.
-
-
-
-
-7. Papildoma priežiūra finansų konglomerato lygiu nereiškia, kad Lietuvos Respublikos kompetentingos institucijos atlieka ir individualią mišrios veiklos kontroliuojančiųjų (holdingo) įmonių priežiūrą, ir užsienio valstybių prižiūrimų įmonių, priklausančių finansų konglomeratui, individualią priežiūrą arba neprižiūrimų įmonių, priklausančių finansų konglomeratui, individualią priežiūrą.
+3) kurios, nors ir nesusijusios šio įstatymo 2 straipsnio 6 ir 21 dalyse nustatytais ryšiais su kita ar kitomis finansų sektoriaus įmonėmis, tačiau valdomos bendrai remiantis su šiomis įmonėmis sudarytomis sutartimis ar steigimo dokumentų nuostatomis, arba jos ir kitos ar kitų finansų sektoriaus įmonių dauguma administracijos, valdymo ar priežiūros organų narių per finansinius metus iki konsoliduotos finansinės atskaitomybės sudarymo yra tie patys asmenys. 
+Straipsnio punkto pakeitimai:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
  
 
 
+
+
+
+
+3. Jeigu dalyvaujant Lietuvos Respublikos kompetentingai institucijai nustatytas finansų konglomeratas, kuriam priklausančioms prižiūrimoms įmonėms taikoma papildoma priežiūra, kaip numatyta šio straipsnio 2 dalyje, yra pogrupis kito finansų konglomerato, šio įstatymo 6–18 straipsnių nuostatos gali būti taikomos tik pastarajai grupei priklausančioms prižiūrimoms įmonėms ir bet kokia šio įstatymo nuoroda į grupės ir finansų konglomerato sąvokas suprantama kaip nuoroda į pastarąją grupę.
+
+
+
+
+4. Kiekvienai prižiūrimai įmonei, kuriai netaikoma papildoma priežiūra pagal šio straipsnio 2 ir 3 dalis ir kurios patronuojanti įmonė yra prižiūrima įmonė arba mišrios veiklos finansų kontroliuojančioji (holdingo) įmonė, kurios turi buveinę užsienio valstybėje, taikoma papildoma priežiūra finansų konglomerato lygiu šio įstatymo 19 straipsnyje nustatyta tvarka.
+
+
+
+
+5. Kitais negu šio straipsnio 2, 3, 4 dalyse nurodytais atvejais, jeigu asmenys dalyvauja vienoje ar keliose prižiūrimose įmonėse arba turi jų kapitalo, arba daro minėtoms įmonėms didelę įtaką, nedalyvaudami jose ar neturėdami jų kapitalo, Lietuvos Respublikos kompetentinga institucija turi teisę, atsižvelgdama į papildomos priežiūros tikslus, su kitomis atitinkamomis kompetentingomis institucijomis susitarti ir nuspręsti, ar prižiūrimoms įmonėms reikia taikyti papildomą priežiūrą, taikomą finansų konglomerato įmonėms, ir koks privalo būti priežiūros mastas. Norint taikyti papildomą priežiūrą, bent viena iš įmonių privalo būti prižiūrima ir tenkinti šio įstatymo 2 straipsnio 11 dalies 4 ir 5 punktų reikalavimus.
+Straipsnio dalies pakeitimai:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
+ 
+
+
+
+
+6. Taikant šio straipsnio 5 dalį, asmenų daromą įtaką prižiūrimoms įmonėms nustato Lietuvos Respublikos kompetentinga institucija, atsižvelgdama į grupių, kurioms priklauso šios prižiūrimos įmonės, finansinius įsipareigojimus kitoms finansų įmonėms.
+
+
+
+
+7. Papildoma priežiūra finansų konglomerato lygiu nereiškia, kad Lietuvos Respublikos kompetentinga institucija atlieka ir individualią mišrios veiklos kontroliuojančiųjų (holdingo) įmonių priežiūrą, ir užsienio valstybių prižiūrimų įmonių, priklausančių finansų konglomeratui, individualią priežiūrą arba neprižiūrimų įmonių, priklausančių finansų konglomeratui, individualią priežiūrą.
+
+
+Straipsnio pakeitimai:
+Nr. XI-1681, 2011-11-17, Žin., 2011, Nr. 146-6827 (2011-12-01), i. k. 1111010ISTA0XI-1681
+ 
 
 
 
@@ -594,7 +706,9 @@ PAPILDOMOS PRIEŽIŪROS OBJEKTAS IR PRIEMONĖS
 
 
 
-9. Jei koordinatorius yra Europos Sąjungos valstybės narės kompetentinga institucija ir jis Lietuvos Respublikoje įsteigtos įmonės neįtraukia į kapitalo pakankamumo reikalavimų skaičiavimą dėl priežasčių, analogiškų nurodytoms šio straipsnio 6 dalies 2 ir 3 punktuose, šią įmonę prižiūrinti Lietuvos Respublikos kompetentinga institucija turi teisę kreiptis į finansų konglomeratui vadovaujančią įmonę su prašymu pateikti informaciją, kuri padėtų atlikti prižiūrimos įmonės priežiūrą. Lietuvos Respublikos kompetentingos institucijos, gavusios analogišką kitos Europos Sąjungos valstybės narės kompetentingos institucijos prašymą, privalo pateikti reikalingą informaciją.
+9. Jeigu koordinatorius yra Europos Sąjungos valstybės narės kompetentinga institucija ir jis Lietuvos Respublikoje įsteigtos įmonės neįtraukia į kapitalo pakankamumo reikalavimų skaičiavimą dėl priežasčių, analogiškų nurodytoms šio straipsnio 6 dalies 2 ir 3 punktuose, šią įmonę prižiūrinti Lietuvos Respublikos kompetentinga institucija turi teisę kreiptis į finansų konglomeratui vadovaujančią įmonę su prašymu pateikti informaciją, kuri padėtų atlikti prižiūrimos įmonės priežiūrą. Lietuvos Respublikos kompetentinga institucija, gavusi analogišką kitos Europos Sąjungos valstybės narės kompetentingos institucijos prašymą, privalo pateikti reikalingą informaciją.
+Straipsnio dalies pakeitimai:
+Nr. XI-1681, 2011-11-17, Žin., 2011, Nr. 146-6827 (2011-12-01), i. k. 1111010ISTA0XI-1681
  
 
 
@@ -665,7 +779,15 @@ PAPILDOMOS PRIEŽIŪROS OBJEKTAS IR PRIEMONĖS
 
 
 
-3) tinkamas procedūras, užtikrinančias, kad finansų konglomerato įmonių rizikos stebėjimo sistemos tinkamai integruotos į jų organizacinę struktūrą ir imtasi visų veiksmų, užtikrinančių, kad sistemos, kurios įdiegtos visose įmonėse, kurioms taikoma papildoma priežiūra, yra tinkamos rizikai vertinti, stebėti ir kontroliuoti finansų konglomerato lygiu. 
+3) tinkamas procedūras, užtikrinančias, kad finansų konglomerato įmonių rizikos stebėjimo sistemos tinkamai integruotos į jų organizacinę struktūrą ir imtasi visų veiksmų, užtikrinančių, kad sistemos, kurios įdiegtos visose įmonėse, kurioms taikoma papildoma priežiūra, yra tinkamos rizikai vertinti, stebėti ir kontroliuoti finansų konglomerato lygiu; 
+
+
+
+
+4) taikomas priemones, kuriomis prisidedama prie atitinkamų atgaivinimo ir problemų sprendimo priemonių bei planų ir kuriomis prireikus jie yra plėtojami. Šios priemonės reguliariai atnaujinamos.
+Papildyta straipsnio punktu:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
+ 
 
 
 
@@ -762,7 +884,10 @@ KOORDINATORIAUS SKYRIMAS, FUNKCIJOS IR KOMPETENTINGŲ INSTITUCIJŲ BENDRADARBIAV
 
 
 
-2. Lietuvos Respublikos atitinkamos kompetentingos institucijos turi teisę bendrai su kitomis atitinkamomis kompetentingomis institucijomis nuspręsti netaikyti šio įstatymo 14 straipsnyje nustatytų kriterijų, jeigu jų taikymas būtų netinkamas, atsižvelgiant į konglomerato struktūrą ir santykinę jo veiklos svarbą skirtingose šalyse, ir koordinatoriumi paskirti kitą kompetentingą instituciją. Tokiu atveju kompetentingos institucijos, prieš priimdamos sprendimą, suteikia konglomeratui galimybę pareikšti savo nuomonę dėl tokio sprendimo.
+2. Lietuvos Respublikos kompetentinga institucija turi teisę bendrai su kitomis atitinkamomis kompetentingomis institucijomis nuspręsti netaikyti šio įstatymo 14 straipsnyje nustatytų kriterijų, jeigu jų taikymas būtų netinkamas, atsižvelgiant į konglomerato struktūrą ir santykinę jo veiklos svarbą skirtingose šalyse, ir koordinatoriumi paskirti kitą kompetentingą instituciją. Tokiu atveju kompetentingos institucijos, prieš priimdamos sprendimą, suteikia konglomeratui galimybę pareikšti savo nuomonę dėl tokio sprendimo.
+Straipsnio dalies pakeitimai:
+Nr. XI-1681, 2011-11-17, Žin., 2011, Nr. 146-6827 (2011-12-01), i. k. 1111010ISTA0XI-1681
+ 
 
 
 
@@ -880,95 +1005,108 @@ KOORDINATORIAUS SKYRIMAS, FUNKCIJOS IR KOMPETENTINGŲ INSTITUCIJŲ BENDRADARBIAV
 16 straipsnis. Kompetentingų institucijų bendradarbiavimas
 
 
-1. Lietuvos Respublikos kompetentingos institucijos, atsakingos už prižiūrimų finansų konglomerato įmonių priežiūrą, privalo glaudžiai bendradarbiauti su šio konglomerato koordinatoriumi. Jos privalo teikti koordinatoriui, o koordinatorius, jei juo yra Lietuvos Respublikos kompetentinga institucija, – kitoms kompetentingoms institucijoms informaciją, kuri yra reikalinga priežiūros funkcijoms, nustatytoms sektoriaus taisyklėse, ir papildomai priežiūrai atlikti. Šiuo tikslu Lietuvos Respublikos kompetentingos institucijos ir koordinatorius, jei juo yra Lietuvos Respublikos kompetentinga institucija, pagal pareikalavimą privalo pateikti visą reikalingą informaciją, o visą svarbiausią informaciją teikti savo iniciatyva.
+1. Lietuvos Respublikos kompetentinga institucija, atsakinga už prižiūrimų finansų konglomerato įmonių priežiūrą, privalo glaudžiai bendradarbiauti su šio konglomerato koordinatoriumi. Ji privalo teikti koordinatoriui, o koordinatorius, jeigu juo yra Lietuvos Respublikos kompetentinga institucija, – kitoms kompetentingoms institucijoms informaciją, kuri yra reikalinga priežiūros funkcijoms, nustatytoms sektoriaus taisyklėse, ir papildomai priežiūrai atlikti. Šiuo tikslu Lietuvos Respublikos kompetentinga institucija ir koordinatorius, jeigu juo yra Lietuvos Respublikos kompetentinga institucija, pagal pareikalavimą privalo pateikti visą reikalingą informaciją, o visą svarbiausią informaciją teikti savo iniciatyva.
 
 
 
 
-2. Šio straipsnio 1 dalyje minimas bendradarbiavimas pasireiškia rinkimu ir keitimusi informacija apie: 
+2. Šio straipsnio 1 dalyje nurodytas bendradarbiavimas apima informacijos rinkimą ir keitimąsi informacija:
 
 
-1) įmonių, priklausančių finansų konglomeratui, grupės struktūrą ir apie grupės prižiūrimų įmonių kompetentingas institucijas; 
+1) apie įmonių, priklausančių finansų konglomeratui, grupės struktūrą ir apie grupės prižiūrimų įmonių kompetentingas institucijas;
 
 
 
 
-2) finansų konglomerato strategines veiklos kryptis; 
+2) apie finansų konglomerato strategines veiklos kryptis;
 
 
 
 
-3) finansų konglomerato finansinę būklę, tarp jų kapitalo pakankamumo reikalavimo vykdymą, grupės vidaus operacijas, rizikos koncentraciją ir pelningumą; 
+3) apie finansų konglomerato finansinę būklę, tarp jų kapitalo pakankamumo reikalavimo vykdymą, grupės vidaus operacijas, rizikos koncentraciją ir pelningumą;
 
 
 
 
-4) įmonių, priklausančių finansų konglomeratui, pagrindinius dalyvius ir valdymo organų narius;
+4) apie įmonių, priklausančių finansų konglomeratui, pagrindinius dalyvius ir valdymo organų narius;
 
 
 
 
-5) organizacinę, rizikos valdymo ir vidaus kontrolės sistemas finansų konglomerato lygiu; 
+5) apie organizacinę struktūrą, rizikos valdymo ir vidaus kontrolės sistemas finansų konglomerato lygiu;
 
 
 
 
-6) informacijos iš finansų konglomerato įmonių gavimo tvarką bei jos tikrinimą;
+6) apie informacijos iš finansų konglomerato įmonių gavimo tvarką ir jos tikrinimą;
 
 
 
 
-7) prižiūrimų įmonių ar kitų finansų konglomerato įmonių neigiamą raidą, galinčią paveikti prižiūrimas įmones;
+7) apie prižiūrimų įmonių ar kitų finansų konglomerato įmonių neigiamą raidą, galinčią paveikti prižiūrimas įmones;
 
 
 
 
-8) esmines poveikio priemones ir kitas sankcijas, pritaikytas pagal sektoriaus taisykles ar pagal šį įstatymą;
+8) apie esmines poveikio priemones ir kitas sankcijas, pritaikytas pagal sektoriaus taisykles ar pagal šį įstatymą;
 
 
 
 
-9) kita informacija, reikalinga papildomos priežiūros tikslams.
+9) kita, reikalinga papildomos priežiūros tikslams, informacija.
 
 
 
 
 
 
-3. Lietuvos Respublikos kompetentingos institucijos taip pat turi teisę keistis informacija, susijusia su prižiūrimomis finansų konglomerato įmonėmis ir reikalinga atitinkamoms funkcijoms pagal sektoriaus taisykles atlikti, su centriniais bankais, Europos centrinių bankų sistema ir Europos centriniu banku. 
-
-
-
-
-4. Lietuvos Respublikos kompetentingos institucijos, prieš priimdamos sprendimus, jei tokie sprendimai yra svarbūs kitų kompetentingų institucijų vykdomoms priežiūros funkcijoms, su jomis konsultuojasi dėl:
-
-
-1) prižiūrimų finansų konglomerato įmonių dalyvių, organizacinės arba valdymo struktūros pasikeitimų, dėl kurių būtinas kompetentingos institucijos pritarimas arba leidimas; 
-
-
-
-
-2) kompetentingų institucijų taikomų esminių poveikio priemonių ar kitų sankcijų. 
-
-
-
-
-
-
-5. Neatidėliotinais atvejais arba kai konsultavimasis gali turėti neigiamos įtakos sprendimų veiksmingumui, Lietuvos Respublikos kompetentinga institucija turi teisę priimti sprendimus nesikonsultuodama su kitomis kompetentingomis institucijomis pagal šio straipsnio 4 dalį, tačiau tokiu atveju Lietuvos Respublikos kompetentinga institucija privalo nedelsdama informuoti kitas kompetentingas institucijas apie jau priimtus sprendimus. 
-
-
-
-
-6. Lietuvos Respublikos kompetentinga institucija, jei ji yra koordinatorius, turi teisę kreiptis į kitos Europos Sąjungos valstybės narės, kurioje yra patronuojančios įmonės buveinė, kompetentingas institucijas, nevykdančias šiame įstatyme nustatytos papildomos priežiūros, kad šios pateiktų informaciją, kuri reikalinga koordinatoriaus funkcijoms atlikti. 
-
-
-
-
-7. Lietuvos Respublikos kompetentingų institucijų vykdant papildomą priežiūrą gautos informacijos apsaugai taikomos sektoriaus taisyklių nuostatos dėl priežiūros tikslais gautos informacijos konfidencialumo. 
+3. Lietuvos Respublikos kompetentinga institucija taip pat turi teisę keistis informacija, susijusia su prižiūrimomis finansų konglomerato įmonėmis ir reikalinga atitinkamoms funkcijoms pagal sektoriaus taisykles atlikti, su centriniais bankais, Europos centrinių bankų sistema, Europos centriniu banku ir Europos sisteminės rizikos valdyba pagal Reglamentą (ES) Nr. 1092/2010. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
  
 
 
+
+
+4. Lietuvos Respublikos kompetentinga institucija, prieš priimdama sprendimus, jeigu tokie sprendimai yra svarbūs kitų kompetentingų institucijų atliekamoms priežiūros funkcijoms, su jomis konsultuojasi dėl:
+
+
+1) prižiūrimų finansų konglomerato įmonių dalyvių, organizacinės arba valdymo struktūros pasikeitimų, dėl kurių būtinas kompetentingos institucijos pritarimas arba leidimas;
+
+
+
+
+2) kompetentingų institucijų taikomų esminių poveikio priemonių ar kitų sankcijų.
+
+
+
+
+
+
+5. Neatidėliotinais atvejais arba kai konsultavimasis gali turėti neigiamos įtakos sprendimų veiksmingumui, Lietuvos Respublikos kompetentinga institucija turi teisę priimti sprendimus nesikonsultuodama su kitomis kompetentingomis institucijomis pagal šio straipsnio 4 dalį, tačiau tokiu atveju Lietuvos Respublikos kompetentinga institucija privalo nedelsdama informuoti kitas kompetentingas institucijas apie jau priimtus sprendimus.
+
+
+
+
+6. Lietuvos Respublikos kompetentinga institucija, jeigu ji yra koordinatorius, turi teisę kreiptis į kitos Europos Sąjungos valstybės narės, kurioje yra patronuojančios įmonės buveinė, kompetentingas institucijas, neatliekančias šiame įstatyme nustatytos papildomos priežiūros, kad šios pateiktų informaciją, kuri reikalinga koordinatoriaus funkcijoms atlikti.
+
+
+
+
+7. Lietuvos Respublikos kompetentingos institucijos atliekant papildomą priežiūrą gautos informacijos apsaugai taikomos sektoriaus taisyklių nuostatos dėl priežiūros tikslais gautos informacijos konfidencialumo.
+
+
+
+
+8. Lietuvos Respublikos kompetentinga institucija, vykdydama šiame įstatyme nustatytas funkcijas, pagal Reglamentą (ES) Nr. 1093/2010, Reglamentą (ES) Nr. 1094/2010 ir Reglamentą (ES) Nr. 1095/2010 bendradarbiauja su Europos priežiūros institucijų jungtiniu komitetu ir nedelsdama teikia jam visą jo užduotims vykdyti būtiną informaciją.
+Papildyta straipsnio dalimi:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
+ 
+
+
+Straipsnio pakeitimai:
+Nr. XI-1681, 2011-11-17, Žin., 2011, Nr. 146-6827 (2011-12-01), i. k. 1111010ISTA0XI-1681
+ 
 
 
 
@@ -976,7 +1114,10 @@ KOORDINATORIAUS SKYRIMAS, FUNKCIJOS IR KOMPETENTINGŲ INSTITUCIJŲ BENDRADARBIAV
 17 straipsnis. Informacijos gavimas ir tikrinimas
 
 
-1. Įmonės, kurioms taikoma papildoma priežiūra, nepaisant to, ar jos yra prižiūrimos įmonės, turi teisę, nepaisydamos Lietuvos Respublikos įstatymuose ar jų lydimuosiuose teisės aktuose nustatytų apribojimų, keistis bet kokia informacija, kuri reikalinga papildomos priežiūros tikslams įgyvendinti. 
+1. Įmonės, kurioms taikoma papildoma priežiūra, nepaisant to, ar jos yra prižiūrimos įmonės, turi teisę, nepaisydamos Lietuvos Respublikos įstatymuose ar jų lydimuosiuose teisės aktuose nustatytų apribojimų, keistis bet kokia informacija, kuri reikalinga papildomos priežiūros tikslams įgyvendinti, taip pat keistis informacija pagal šį įstatymą su Europos priežiūros institucijomis atitinkamai pagal Reglamentą (ES) Nr. 1093/2010, Reglamentą (ES) Nr. 1094/2010 ar Reglamentą (ES) Nr. 1095/2010, prireikus pasitelkdamos Europos priežiūros institucijų jungtinį komitetą.
+Straipsnio dalies pakeitimai:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
+ 
 
 
 
@@ -991,12 +1132,17 @@ KOORDINATORIAUS SKYRIMAS, FUNKCIJOS IR KOMPETENTINGŲ INSTITUCIJŲ BENDRADARBIAV
 
 
 
-4. Lietuvos Respublikos kompetentingos institucijos, gavusios kitos Europos Sąjungos valstybės narės kompetentingų institucijų prašymą atlikti Lietuvos Respublikoje įsteigtos prižiūrimos arba neprižiūrimos finansų konglomerato įmonės patikrinimą, pagal savo kompetenciją pačios atlieka patikrinimą arba leidžia patikrinimą atlikti kitos Europos Sąjungos valstybės narės kompetentingos institucijos nurodytam auditoriui ar ekspertui arba prašančiajai kitos Europos Sąjungos valstybės narės kompetentingai institucijai. Jei prašančioji kitos Europos Sąjungos valstybės narės kompetentinga institucija pati neatlieka patikrinimo, ji turi teisę dalyvauti, kai Lietuvos Respublikos kompetentinga institucija pati atlieka patikrinimą. 
+4. Lietuvos Respublikos kompetentinga institucija, gavusi kitos Europos Sąjungos valstybės narės kompetentingų institucijų prašymą atlikti Lietuvos Respublikoje įsteigtos prižiūrimos arba neprižiūrimos finansų konglomerato įmonės patikrinimą, pagal savo kompetenciją pati atlieka patikrinimą arba leidžia patikrinimą atlikti kitos Europos Sąjungos valstybės narės kompetentingos institucijos nurodytam auditoriui ar ekspertui arba prašančiajai kitos Europos Sąjungos valstybės narės kompetentingai institucijai. Jeigu prašančioji kitos Europos Sąjungos valstybės narės kompetentinga institucija pati neatlieka patikrinimo, ji turi teisę dalyvauti, kai Lietuvos Respublikos kompetentinga institucija atlieka patikrinimą. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1681, 2011-11-17, Žin., 2011, Nr. 146-6827 (2011-12-01), i. k. 1111010ISTA0XI-1681
+ 
 
 
 
 
-5. Kompetentingos institucijos, atlikdamos patikrinimus pagal šį įstatymą, vadovaujasi atitinkamo sektoriaus taisyklėse nustatyta tvarka ir turi sektoriaus taisyklėse nustatytas teises. 
+5. Kompetentinga institucija, atlikdama patikrinimus pagal šį įstatymą, vadovaujasi atitinkamo sektoriaus taisyklėse nustatyta tvarka ir turi sektoriaus taisyklėse nustatytas teises.
+Straipsnio dalies pakeitimai:
+Nr. XI-1681, 2011-11-17, Žin., 2011, Nr. 146-6827 (2011-12-01), i. k. 1111010ISTA0XI-1681
  
 
 
@@ -1007,20 +1153,22 @@ KOORDINATORIAUS SKYRIMAS, FUNKCIJOS IR KOMPETENTINGŲ INSTITUCIJŲ BENDRADARBIAV
 18 straipsnis. Poveikio priemonės
 
 
-1. Lietuvos Respublikos kompetentinga institucija, jei ji yra koordinatorius ir nustato, kad prižiūrimos finansų konglomerato įmonės pažeidžia šio įstatymo ar pagal šį įstatymą priimtų teisės aktų nustatytus reikalavimus ar kitų Europos Sąjungos valstybių narių teisės aktuose, įgyvendinančiuose šio įstatymo priede nurodytą Europos Sąjungos direktyvą, nustatytus reikalavimus, arba jei kapitalo pakankamumo reikalavimai nėra pakankami saugiai ir patikimai prižiūrimų įmonių veiklai užtikrinti, arba jei grupės vidaus operacijos ar rizikos koncentracija kelia grėsmę prižiūrimų įmonių finansinei būklei, tai ji pateikia atitinkamą informaciją kitoms Lietuvos Respublikos kompetentingoms institucijoms, kurios turi teisę taikyti poveikio priemones Lietuvos Respublikoje įsteigtoms prižiūrimoms įmonėms, ar kitų Europos Sąjungos valstybių narių kompetentingoms institucijoms, kurios turi teisę taikyti poveikio priemones tose Europos Sąjungos valstybėse narėse buveinę turinčioms prižiūrimoms įmonėms ar mišrios veiklos finansų kontroliuojančiosioms (holdingo) įmonėms. 
+1. Lietuvos Respublikos kompetentinga institucija, jeigu ji yra koordinatorius ir nustato, kad prižiūrimos finansų konglomerato įmonės pažeidžia šio įstatymo ar pagal šį įstatymą priimtų teisės aktų nustatytus reikalavimus arba kitų Europos Sąjungos valstybių narių teisės aktuose, įgyvendinančiuose šio įstatymo priede nurodytą Europos Sąjungos direktyvą, nustatytus reikalavimus, arba jeigu kapitalo pakankamumo reikalavimai nėra pakankami saugiai ir patikimai prižiūrimų įmonių veiklai užtikrinti, arba jeigu grupės vidaus operacijos ar rizikos koncentracija kelia grėsmę prižiūrimų įmonių finansinei būklei, tai ji pateikia atitinkamą informaciją kitų Europos Sąjungos valstybių narių kompetentingoms institucijoms, kurios turi teisę taikyti poveikio priemones tose Europos Sąjungos valstybėse narėse buveinę turinčioms prižiūrimoms įmonėms ar mišrios veiklos finansų kontroliuojančiosioms (holdingo) įmonėms.
 
 
 
 
-2. Jeigu prižiūrimos finansų konglomerato įmonės, įsteigtos Lietuvos Respublikoje, pažeidžia šio įstatymo ar pagal šį įstatymą priimtų teisės aktų nustatytus reikalavimus arba jei kapitalo pakankamumas nėra pakankamas saugiai ir patikimai prižiūrimų įmonių veiklai užtikrinti, arba jei grupės vidaus operacijos ar rizikos koncentracija kelia grėsmę prižiūrimų įmonių finansinei būklei, kiekviena Lietuvos Respublikos kompetentinga institucija turi teisę prižiūrimai įmonei, kurios priežiūrą ji vykdo pagal sektoriaus taisykles, taikyti atitinkamo sektoriaus taisyklėse nustatytas poveikio priemones atitinkamo sektoriaus taisyklėse nustatyta tvarka. Poveikio priemonės taikomos atsižvelgiant į koordinatoriaus pateiktą informaciją. Šio įstatymo nuostatų ir šio įstatymo pagrindu priimtų teisės aktų pažeidimas prilyginamas atitinkamo sektoriaus taisyklių pažeidimui.
+2. Jeigu prižiūrimos finansų konglomerato įmonės, įsteigtos Lietuvos Respublikoje, pažeidžia šio įstatymo ar pagal šį įstatymą priimtų teisės aktų nustatytus reikalavimus arba jeigu kapitalo pakankamumas nėra pakankamas saugiai ir patikimai prižiūrimų įmonių veiklai užtikrinti, arba jeigu grupės vidaus operacijos ar rizikos koncentracija kelia grėsmę prižiūrimų įmonių finansinei būklei, Lietuvos Respublikos kompetentinga institucija turi teisę prižiūrimai įmonei, kurios priežiūrą ji atlieka pagal sektoriaus taisykles, taikyti atitinkamo sektoriaus taisyklėse nustatytas poveikio priemones atitinkamo sektoriaus taisyklėse nustatyta tvarka. Poveikio priemonės taikomos atsižvelgiant į koordinatoriaus pateiktą informaciją. Šio įstatymo nuostatų ir šio įstatymo pagrindu priimtų teisės aktų pažeidimas prilyginamas atitinkamo sektoriaus taisyklių pažeidimui.
 
 
 
 
-3. Lietuvos Respublikos kompetentinga institucija, priimdama sprendimą dėl poveikio priemonių taikymo, jei reikalinga, derina savo veiksmus su kitų Europos Sąjungos valstybių narių susijusiomis kompetentingomis institucijomis, įskaitant koordinatorių. 
+3. Lietuvos Respublikos kompetentinga institucija, priimdama sprendimą dėl poveikio priemonių taikymo, jeigu reikalinga, derina savo veiksmus su kitų Europos Sąjungos valstybių narių susijusiomis kompetentingomis institucijomis, įskaitant koordinatorių.
+
+
+Straipsnio pakeitimai:
+Nr. XI-1681, 2011-11-17, Žin., 2011, Nr. 146-6827 (2011-12-01), i. k. 1111010ISTA0XI-1681
  
-
-
 
 
 
@@ -1028,7 +1176,10 @@ KOORDINATORIAUS SKYRIMAS, FUNKCIJOS IR KOMPETENTINGŲ INSTITUCIJŲ BENDRADARBIAV
 19 straipsnis. Užsienio valstybėje buveinę turinčios patronuojančios įmonės
 
 
-1. Šio įstatymo 5 straipsnio 4 dalyje nurodytu atveju kompetentingos institucijos įvertina, ar prižiūrimoms įmonėms, kurių patronuojančios įmonės buveinė yra užsienio valstybėje, taikoma užsienio valstybės kompetentingų institucijų priežiūra yra lygiavertė šiame įstatyme nustatytai prižiūrimų įmonių papildomai priežiūrai dėl šio įstatymo 5 straipsnio 2 ir 3 dalyse nurodytų įmonių. Šį įvertinimą bet kurių Europos Sąjungos valstybėje narėje licenciją gavusių prižiūrimų įmonių prašymu ar savo iniciatyva atlieka Lietuvos Respublikos kompetentinga institucija, jei taikydama šio įstatymo 14 straipsnyje nustatytus kriterijus ji būtų koordinatorius. Tokiu atveju Lietuvos Respublikos kompetentinga institucija, prieš priimdama sprendimą, konsultuojasi su kitomis atitinkamomis kompetentingomis institucijomis ir su Europos finansų konglomeratų komitetu, įsteigtu pagal šio įstatymo priede nurodytos Europos Parlamento ir Tarybos direktyvos 2002/87/EB 21 straipsnį, ir atsižvelgia į šio komiteto parengtas rekomendacijas.
+1. Šio įstatymo 5 straipsnio 4 dalyje nurodytu atveju kompetentingos institucijos įvertina, ar prižiūrimoms įmonėms, kurių patronuojančios įmonės buveinė yra užsienio valstybėje, taikoma užsienio valstybės kompetentingų institucijų priežiūra yra lygiavertė šiame įstatyme nustatytai prižiūrimų įmonių papildomai priežiūrai dėl šio įstatymo 5 straipsnio 2 ir 3 dalyse nurodytų įmonių. Šį įvertinimą bet kurių Europos Sąjungos valstybėje narėje licenciją gavusių prižiūrimų įmonių prašymu ar savo iniciatyva atlieka Lietuvos Respublikos kompetentinga institucija, jeigu taikydama šio įstatymo 14 straipsnyje nustatytus kriterijus ji būtų koordinatorius. Tokiu atveju Lietuvos Respublikos kompetentinga institucija, prieš priimdama sprendimą, konsultuojasi su kitomis atitinkamomis kompetentingomis institucijomis ir deda visas pastangas, kad būtų laikomasi visų taikomų gairių, kurias atitinkamai pagal Reglamentą (ES) Nr. 1093/2010, Reglamentą (ES) Nr. 1094/2010 ar Reglamentą (ES) Nr. 1095/2010 parengia Europos priežiūros institucijų jungtinis komitetas. Kai kompetentinga institucija nesutinka su sprendimu, kurį priėmė kita atitinkama kompetentinga institucija pagal šią dalį, taikomas atitinkamai Reglamento (ES) Nr. 1093/2010, Reglamento (ES) Nr. 1094/2010 ar Reglamento (ES) Nr. 1095/2010 19 straipsnis.
+Straipsnio dalies pakeitimai:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
+ 
 
 
 
@@ -1038,7 +1189,10 @@ KOORDINATORIAUS SKYRIMAS, FUNKCIJOS IR KOMPETENTINGŲ INSTITUCIJŲ BENDRADARBIAV
 
 
 
-3. Lietuvos Respublikos kompetentingos institucijos turi teisę taikyti priemones, užtikrinančias tinkamą papildomą prižiūrimų finansų konglomerato įmonių priežiūrą, įskaitant teisę pareikalauti įsteigti mišrios veiklos finansų kontroliuojančiąją (holdingo) įmonę, kurios buveinė būtų Europos Sąjungos valstybėje narėje, ir šį įstatymą taikyti tokios įmonės vadovaujamoms prižiūrimoms finansų konglomerato įmonėms. Šios priemonės gali būti taikomos, jei joms pritaria koordinatorius, pasikonsultavęs su kitomis atitinkamomis kompetentingomis institucijomis. 
+3. Lietuvos Respublikos kompetentinga institucija turi teisę taikyti priemones, užtikrinančias tinkamą papildomą prižiūrimų finansų konglomerato įmonių priežiūrą, įskaitant teisę pareikalauti įsteigti mišrios veiklos finansų kontroliuojančiąją (holdingo) įmonę, kurios buveinė būtų Europos Sąjungos valstybėje narėje, ir šį įstatymą taikyti tokios įmonės vadovaujamoms prižiūrimoms finansų konglomerato įmonėms. Šios priemonės gali būti taikomos, jeigu joms pritaria koordinatorius, pasikonsultavęs su kitomis atitinkamomis kompetentingomis institucijomis.
+Straipsnio dalies pakeitimai:
+Nr. XI-1681, 2011-11-17, Žin., 2011, Nr. 146-6827 (2011-12-01), i. k. 1111010ISTA0XI-1681
+ 
 
 
 
@@ -1100,15 +1254,32 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
  
-Lietuvos Respublikos
-įmonių, priklausančių finansų
-konglomeratui, papildomos
-priežiūros įstatymo
+Lietuvos Respublikos įmonių, priklausančių 
+finansų konglomeratui, papildomos priežiūros 
+įstatymo
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
-2002 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2002/87/EB, nustatanti papildomą priežiūrą kredito įstaigoms, draudimo įmonėms ir investicinėms firmoms, priklausančioms finansiniam konglomeratui, ir iš dalies pakeičianti Tarybos direktyvas 73/239/EEB, 79/267/EEB, 92/49/EEB, 92/96/EEB, 93/6/EEB ir 93/22/EEB bei Europos Parlamento ir Tarybos direktyvas 98/78/EB bei 2000/12/EB.
-______________
+
+
+1. 2002 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2002/87/EB, nustatanti papildomą priežiūrą kredito įstaigoms, draudimo įmonėms ir investicinėms firmoms, priklausančioms finansiniam konglomeratui, ir iš dalies pakeičianti Tarybos direktyvas 73/239/EEB, 79/267/EEB, 92/49/EEB, 92/96/EEB, 93/6/EEB ir 93/22/EEB bei Europos Parlamento ir Tarybos direktyvas 98/78/EB bei 2000/12/EB, su paskutiniais pakeitimais, padarytais 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/78/ES (OL 2010 L 331, p. 120).
+
+
+Priedo pakeitimai:
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
+ 
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1681, 2011-11-17, Žin., 2011, Nr. 146-6827 (2011-12-01), i. k. 1111010ISTA0XI-1681
+Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo 1, 2, 3, 4, 5, 7, 13, 16, 17, 18 ir 19 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1886, 2011-12-22, Žin., 2011, Nr. 163-7775 (2011-12-31), i. k. 1111010ISTA0XI-1886
+Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo 2, 4, 5, 10, 16, 17, 19 straipsnių ir priedo pakeitimo įstatymas
