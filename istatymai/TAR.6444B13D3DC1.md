@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6444B13D3DC1"
 
 # Lietuvos Respublikos Europos bendrovių įstatymas
 
-Suvestinė redakcija nuo 2010-10-01 iki 2011-12-31
+Suvestinė redakcija nuo 2012-01-01 iki 2024-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 78-2710, i. k. 1041010ISTA0IX-2199
  
@@ -92,7 +92,9 @@ Nr. XI-565, 2009-12-15, Žin., 2009, Nr. 154-6946 (2009-12-28), i. k. 1091010IST
 
 
 
-8. Lietuvos Respublikos vertybinių popierių komisija arba Lietuvos bankas jų veiklą reglamentuojančių teisės aktų nustatyta tvarka turi teisę prieštarauti Europos bendrovės buveinės perkėlimui į kitą valstybę, jeigu Europos bendrovės vykdoma veikla priskirta šių institucijų priežiūrai.
+8. Lietuvos bankas jo veiklą reglamentuojančių teisės aktų nustatyta tvarka turi teisę prieštarauti Europos bendrovės buveinės perkėlimui į kitą valstybę, jeigu Europos bendrovės vykdoma veikla priskirta Lietuvos banko priežiūrai.
+Straipsnio dalies pakeitimai:
+Nr. XI-1694, 2011-11-17, Žin., 2011, Nr. 146-6840 (2011-12-01), i. k. 1111010ISTA0XI-1694
  
 
 
@@ -339,3 +341,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-565, 2009-12-15, Žin., 2009, Nr. 154-6946 (2009-12-28), i. k. 1091010ISTA00XI-565
 Lietuvos Respublikos Europos bendrovių įstatymo 2, 3 ir 5 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1694, 2011-11-17, Žin., 2011, Nr. 146-6840 (2011-12-01), i. k. 1111010ISTA0XI-1694
+Lietuvos Respublikos Europos bendrovių įstatymo 2 straipsnio pakeitimo įstatymas
