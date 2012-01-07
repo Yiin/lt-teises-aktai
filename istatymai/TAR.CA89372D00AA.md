@@ -492,7 +492,9 @@ Nr. XI-1335,
 Teritorinės policijos įstaigos 
 1. Teritorinės policijos įstaigos yra vyriausieji policijos
 komisariatai, atliekantys šio įstatymo ir kitų teisės aktų jiems nustatytas
-funkcijas, reikalingas policijos uždaviniams apskrities teritorijoje įgyvendinti.
+funkcijas, reikalingas policijos uždaviniams apskričių teritorijose įgyvendinti.
+Teritorinės policijos įstaigos veiklos ribas nustato policijos generalinis
+komisaras.
 2.
 Teritorinės policijos įstaigos funkcijoms įgyvendinti savivaldybės teritorijoje
 gali būti steigiami policijos komisariatai, vienos ar kelių seniūnijų
@@ -514,15 +516,15 @@ ar esantiems bejėgiškos būklės asmenims teikia neatidėliotiną gyvybei,
 sveikatai ar turtui išsaugoti reikalingą pagalbą;
 5) policijos
 generalinio komisaro nustatyta tvarka saugo rastus ir
-perduotus policijai dokumentus, daiktus, vertybes ir kitokį turtą ir imasi
-priemonių grąžinti juos teisėtiems savininkams ar valdytojams;
+perduotus policijai dokumentus, daiktus, vertybes ir kitokį turtą ir imasi priemonių
+grąžinti juos teisėtiems savininkams ar valdytojams;
 6) atlieka eismo automobilių keliais priežiūrą
 ir policijos generalinio komisaro nustatyta tvarka patruliuoja
 viešose vietose; 
 7) teisės aktų nustatyta
 tvarka atlieka paiešką dingusių ar pasislėpusių
-asmenų, kurių buvimo vieta nežinoma ir dėl kurių teisės aktų nustatytais pagrindais
-ir tvarka priimtas sprendimas paskelbti paiešką, rastų
+asmenų, kurių buvimo vieta nežinoma ir dėl kurių teisės aktų nustatytais
+pagrindais ir tvarka priimtas sprendimas paskelbti paiešką, rastų
 neatpažintų lavonų, nežinomų ligonių ar nežinomų vaikų asmens tapatybės
 nustatymą;
 8) teisės aktų nustatyta tvarka ir atvejais išduoda licencijas,
@@ -536,9 +538,10 @@ sistemų duomenis;
 vykdo teismų nuosprendžius, nutarimus ir nutartis;
 12) teikia policijos generaliniam komisarui tvirtinti veiklos
 planus;
-13) atlieka kitas teisės aktuose nustatytas
-funkcijas, reikalingas policijos uždaviniams apskrities teritorijoje įgyvendinti.
-
+13) atlieka kitas teisės
+aktuose nustatytas funkcijas, reikalingas policijos uždaviniams apskričių
+teritorijose pagal policijos generalinio komisaro įsakymu nustatytas
+teritorinės policijos įstaigos veiklos ribas įgyvendinti.
 4. Teritorinės policijos įstaigos joms priskirtas
 funkcijas tarptautinių sutarčių ir kitų teisės aktų nustatyta tvarka gali
 atlikti ir ne Lietuvos Respublikos teritorijoje.
@@ -560,6 +563,9 @@ pakeitimai:
 Nr.
 X-1704,
 2008-07-15, Žin., 2008, Nr. 87-3464 (2008-07-31)
+Nr.
+XI-1900,
+2011-12-22, Žin., 2012, Nr. 5-140 (2012-01-07)
  
 15 straipsnis. Policijos pareigūnų rengimas ir kvalifikacijos
 tobulinimas
@@ -664,15 +670,15 @@ sprendimas, juos paimti;
 teisėtvarkos pažeidėjus į policijos ar kitų teisėsaugos institucijų tarnybines
 patalpas jų asmenybei nustatyti, taip pat protokolams, aktams, pranešimams
 surašyti, asmenims ir jų turimiems daiktams apžiūrėti;
-3) persekiodamas asmenį, įtariamą padarius nusikalstamą
-veiką, ar nusikaltėlį, besislepiantį nuo teisėsaugos institucijų, taip pat
-siekdamas užkirsti kelią daromai nusikalstamai veikai, bet kuriuo paros laiku
-įeiti į fiziniams ir juridiniams asmenims priklausančias gyvenamąsias ar
-negyvenamąsias patalpas, teritorijas, sustabdyti bei patekti į transporto
-priemones. Atsisakius paklusti, policijos pareigūnai turi teisę jėga atidaryti
-patalpas ir transporto priemones. Ši teisė taip pat suteikiama stichinės
-nelaimės ar katastrofos atveju. Apie tokius veiksmus per 24 valandas pranešama
-prokurorui;
+3) persekiodamas asmenį, įtariamą padarius
+nusikalstamą veiką, ar nusikaltėlį, besislepiantį nuo teisėsaugos institucijų,
+taip pat siekdamas užkirsti kelią daromai nusikalstamai veikai, bet kuriuo
+paros laiku įeiti į fiziniams ir juridiniams asmenims priklausančias
+gyvenamąsias ar negyvenamąsias patalpas, teritorijas, sustabdyti bei patekti į
+transporto priemones. Atsisakius paklusti, policijos pareigūnai turi teisę jėga
+atidaryti patalpas ir transporto priemones. Ši teisė taip pat suteikiama
+stichinės nelaimės ar katastrofos atveju. Apie tokius veiksmus per 24 valandas
+pranešama prokurorui;
 4) šio įstatymo ketvirtajame skirsnyje numatytais
 atvejais panaudoti šaunamuosius ginklus, fizinę bei kitokią prievartą;
 5) važiuodamas į įvykio vietą, persekiodamas
@@ -763,8 +769,8 @@ stipriai veikiančių medžiagų, jeigu jis nebegali judėti arba gali padaryti
 žalos aplinkiniams ar sau. 
 Straipsnio
 pakeitimai:
-Nr. XI-444, 2009-10-22,
-Žin., 2009, Nr. 130-5637 (2009-10-31)
+Nr. XI-444,
+2009-10-22, Žin., 2009, Nr. 130-5637 (2009-10-31)
  
 20 straipsnis. Policijos pareigūno
 teisės atskleidžiant ir tiriant nusikalstamas veikas 
@@ -835,14 +841,13 @@ pareigūnas privalo pateikti tarnybinį pažymėjimą.
 straipsnis. Policijos pareigūno atsakomybė 
 1. Policijos
 pareigūnas asmeniškai atsako už savo veiksmus ir sprendimus bei jų padarinius.
-2. Policijos
-pareigūnas, vykdydamas jam patikėtas pareigas ir pažeidęs įstatymo
-reikalavimus, įstatymų ir kitų teisės aktų nustatyta tvarka, atsižvelgiant į
-pažeidimo pobūdį, traukiamas tarnybinėn, administracinėn, materialinėn ar
-baudžiamojon atsakomybėn. 
-3. Žinomai
-neteisėto įsakymo ar nurodymo vykdymas policijos pareigūno nuo atsakomybės
-neatleidžia.
+2. Policijos pareigūnas,
+vykdydamas jam patikėtas pareigas ir pažeidęs įstatymo reikalavimus, įstatymų
+ir kitų teisės aktų nustatyta tvarka, atsižvelgiant į pažeidimo pobūdį,
+traukiamas tarnybinėn, administracinėn, materialinėn ar baudžiamojon
+atsakomybėn. 
+3. Žinomai neteisėto
+įsakymo ar nurodymo vykdymas policijos pareigūno nuo atsakomybės neatleidžia.
 4. Neteisėta
 policijos pareigūno veika fiziniam ar juridiniam asmeniui padarytą žalą
 atlygina valstybė teisės aktų nustatyta tvarka.
@@ -898,8 +903,8 @@ pareigūnas, jei jis su savimi neturi specialiųjų priemonių ar šaunamojo gin
 gali panaudoti bet kokias pagalbines priemones, būtinas kėsinimuisi atremti ar
 pavojaus šaltiniui likviduoti. 
 7. Policijos
-pareigūnas, panaudojęs prievartą nepažeisdamas šio įstatymo reikalavimų ir padaręs
-žalą įstatymų saugomoms vertybėms, atsakomybėn netraukiamas.
+pareigūnas, panaudojęs prievartą nepažeisdamas šio įstatymo reikalavimų ir
+padaręs žalą įstatymų saugomoms vertybėms, atsakomybėn netraukiamas.
 8. Apie
 pareigūno panaudotą prievartą, sukėlusią asmens mirtį arba sužeidimą,
 nedelsiant informuojamas prokuroras.
@@ -934,9 +939,9 @@ tarnybiniam būtinumui, stabdydamas transporto priemonę.
 panaudoti kovinių imtynių veiksmus bei specialiąsias priemones prieš moteris,
 kai akivaizdu, kad jos nėščios, taip pat prieš asmenis, kai akivaizdu, kad jie
 invalidai ar nepilnamečiai (jei jų amžius žinomas pareigūnui arba išvaizda
-atitinka amžių, išskyrus atvejus, kai jie priešinasi pavojingu gyvybei ar sveikatai
-būdu arba jei užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei
-ar sveikatai.
+atitinka amžių, išskyrus atvejus, kai jie priešinasi pavojingu gyvybei ar
+sveikatai būdu arba jei užpuola tokių asmenų grupė ir šis užpuolimas kelia
+grėsmę gyvybei ar sveikatai.
  
 25
 straipsnis. Šaunamojo ginklo panaudojimas
@@ -968,8 +973,9 @@ panaudoti šaunamąjį ginklą žmonių susibūrimo vietose, jeigu nuo to gali
 nukentėti pašaliniai asmenys, prieš moteris, kai akivaizdu, kad jos nėščios,
 taip pat prieš asmenis, jei akivaizdu, kad jie invalidai, prieš nepilnamečius,
 jei jų amžius žinomas pareigūnui arba išvaizda atitinka amžių, išskyrus
-atvejus, kai jie priešinasi pavojingu žmogaus gyvybei ar sveikatai būdu arba jei
-užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei ar sveikatai.
+atvejus, kai jie priešinasi pavojingu žmogaus gyvybei ar sveikatai būdu arba
+jei užpuola tokių asmenų grupė ir šis užpuolimas kelia grėsmę gyvybei ar
+sveikatai.
  
 26
 straipsnis. Sprogstamųjų medžiagų panaudojimas 
@@ -1149,9 +1155,20 @@ Nr. XI-1335,
 POLICIJOS VEIKLOS ĮSTATYMO 12 IR
 13 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
-*** Pabaiga ***
+8.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-1900,
+2011-12-22, Žin., 2012, Nr. 5-140 (2012-01-07)
+POLICIJOS
+VEIKLOS ĮSTATYMO 14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+***
+Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė (2011-05-04)
+Redagavo
+Aušrinė Trapinskienė (2012-01-10)
                  
 ausrine.trapinskiene@lrs.lt
