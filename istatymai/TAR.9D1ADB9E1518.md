@@ -62,16 +62,17 @@ paskirtį, jos tampa pakuočių atliekomis.
 3. Energijos gavyba – degių pakuočių
 atliekų naudojimas energijai gauti, jas deginant atskirai ar kartu su kitomis
 atliekomis ir naudojant gautą šilumą.
-4. Gamintojas (pakuočių
-naudotojas) – asmuo, gaminantis ir (ar) pakuojantis gaminius, net jeigu
-pakavimo operacijas sutartiniais pagrindais atlieka kitas asmuo.
+4. Gamintojas
+(pakuočių naudotojas) – Lietuvos Respublikos teisės aktų nustatyta tvarka
+įregistravęs savo veiklą asmuo,
+gaminantis ir (ar) pakuojantis gaminius (išskyrus ūkininkavimo
+veikloje naudojamą šienainį), net jeigu pakavimo operacijas sutartiniais
+pagrindais atlieka kitas asmuo.
 5. Grupinė, arba antrinė, pakuotė (toliau – grupinė
 pakuotė) – pakuotė, kurioje vartotojams ar gaminio naudotojams pateikiama
 tam tikra grupė prekinių vienetų ar kuri naudojama prekių atsargoms papildyti.
 Grupinę pakuotę galima pašalinti nepažeidus gaminio.
-6. Importuotojas – asmuo, kuris įveža į Lietuvos Respublikos
-teritoriją Lietuvos Respublikos vidaus rinkai skirtus į pakuotę supakuotus
-gaminius.
+6. Importuotojas – kaip ši sąvoka apibrėžta Lietuvos Respublikos atliekų tvarkymo įstatyme.
 7. Organinis perdirbimas – aerobinis
 (kompostavimas) ar anaerobinis (biometanizavimas) pakuočių atliekų biologiškai
 skylančios dalies apdorojimas naudojant mikroorganizmus, kurio metu gaunama
@@ -89,30 +90,60 @@ taip pat pakuočių ir pakuočių atliekų, susidarančių gaminant, parduodant,
 kitaip platinant, naudojant ar šalinant supakuotus (sufasuotus) produktus,
 kiekio ir kenksmingumo aplinkai mažinimas, pirmiausia siekiant kurti aplinkos
 neteršiančius produktus ir technologijas.
-11. Pakuočių atliekų tvarkymas – pakuočių
-atliekų surinkimas,
+11.
+Pakuočių atliekų sutvarkymą įrodantys dokumentai – Vyriausybės
+ar jos įgaliotos institucijos nustatyti dokumentai, patvirtinantys susidariusių
+pakuočių atliekų sutvarkymą.
+12. Pakuočių
+atliekų sutvarkymas – Vyriausybės ar jos įgaliotos institucijos nustatyta
+tvarka pakuočių atliekų surinkimas ir perdirbimas arba surinkimas ir naudojimas
+pagal Vyriausybės nustatytą užduotį (pakuočių atliekų šalinimas nėra
+sutvarkymas).
+13. Pakuočių atliekų tvarkymas
+– pakuočių atliekų surinkimas,
 vežimas, naudojimas ir šalinimas,
-tokios veiklos organizavimas ir stebėsena, šalinimo vietų vėlesnė priežiūra,
-įskaitant minėtus
-veiksmus, atliekamus prekiautojo atliekomis ar tarpininko.
-12. Pakuočių gamintojas
+tokios veiklos organizavimas ir stebėsena, šalinimo vietų vėlesnė priežiūra, įskaitant
+minėtus veiksmus,
+atliekamus prekiautojo atliekomis ar tarpininko.
+14. Pakuočių
+atliekų tvarkymo organizavimo sutartis – trišalė sutartis tarp savivaldybės (arba tarp
+savivaldybės (kelių savivaldybių) įsteigto juridinio asmens, kuriam pavesta
+administruoti komunalinių atliekų tvarkymo sistemą) ir gamintojų
+ir importuotojų organizacijos, ir atliekų tvarkytojo dėl pakuočių atliekų
+rūšiuojamojo surinkimo, vežimo, perdirbimo, naudojimo. Pakuočių atliekų
+tvarkymo organizavimo sutartyje turi būti nurodyta: sutarties sudarymo,
+įsigaliojimo ir nutraukimo tvarka; infrastruktūros plėtros ir naudojimo
+sąlygos; paslaugų teikimo tvarka ir sąlygos; kainos nustatymo tvarka;
+atsiskaitymo tvarka; šalių teisės, pareigos ir atsakomybė už įsipareigojimų
+nevykdymą; pretenzijų pateikimo, nagrinėjimo ir ginčų sprendimo tvarka;
+sutarties galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka. Pavyzdinę
+sutarties formą tvirtina Vyriausybė arba jos įgaliota institucija.
+15. Pakuočių
+gamybos atliekos – pakuočių gaminimo ar pripildymo gaminiais metu
+susidariusios atliekos.
+16. Pakuočių gamintojas
 – asmuo,
 kuris gamina ir (ar) įveža į Lietuvos Respublikos teritoriją tuščias pakuotes,
 skirtas Lietuvos Respublikos vidaus rinkai.
-13. Pakuočių
+17. Pakuočių
 pardavėjas – asmuo,
 parduodantis kitiems asmenims gamintojų ir importuotojų Lietuvos
 Respublikos vidaus rinkai tiekiamas pakuotes ir supakuotus (sufasuotus)
 produktus.
-14. Pakuočių
+18. Pakuočių
 platintojas –
 asmuo, platinantis (perduodantis kitiems asmenims) gamintojų ir importuotojų
 Lietuvos Respublikos vidaus rinkai tiekiamas pakuotes ir supakuotus
 (sufasuotus) produktus.
-15. Pakuočių vartotojas – fizinis
+19. Pakuočių
+sunaudojimas savoms reikmėms – į Lietuvos Respublikos teritoriją įvežtų
+ar Lietuvos Respublikos teritorijoje pagamintų supakuotų gaminių išpakavimas
+siekiant šiuos gaminius panaudoti savo vykdomoje veikloje ar perleisti kitam
+asmeniui.
+20. Pakuočių vartotojas – fizinis
 ar juridinis asmuo, naudojantis ar vartojantis supakuotus (sufasuotus)
 produktus.
-16. Pakuotė – grąžintinas
+21. Pakuotė – grąžintinas
 ar negrąžintinas gaminys iš bet kokių medžiagų, skirtas daiktams, pradedant
 žaliavomis ir baigiant perdirbtais produktais, pakuoti (fasuoti), apsaugoti,
 tvarkyti, transportuoti ir pateikti vartotojams ar produktų naudotojams:
@@ -132,40 +163,44 @@ maišeliai sumuštiniams, aliuminio folija; ne pakuotė – maišiklis, vienkart
 stalo įrankiai);
 3) pakuotę sudarantys pakuotės komponentai ir
 pagalbiniai elementai yra šios pakuotės dalys. Pagalbiniai elementai,
-tiesiogiai prikabinti ar pritvirtinti prie gaminio ir atliekantys pakuotės funkciją,
-yra pakuotė, išskyrus atvejus, kai jie yra gaminio sudedamoji dalis ir visos
-dalys yra skirtos kartu naudoti ir pašalinti (pavyzdžiui, pakuotė – etiketės,
-pritvirtintos prie gaminio; pakuotės dalys – blakstienų tušo šepetėlis, lipnios
-etiketės, priklijuotos prie gaminio, sąsagėlės, plastikiniai dėklai, ploviklių
-pakuotės dangtelyje esantis dozatorius).
-17. Perdirbimas – pakuočių atliekas
+tiesiogiai prikabinti ar pritvirtinti prie gaminio ir atliekantys pakuotės
+funkciją, yra pakuotė, išskyrus atvejus, kai jie yra gaminio sudedamoji dalis
+ir visos dalys yra skirtos kartu naudoti ir pašalinti (pavyzdžiui, pakuotė –
+etiketės, pritvirtintos prie gaminio; pakuotės dalys – blakstienų tušo
+šepetėlis, lipnios etiketės, priklijuotos prie gaminio, sąsagėlės, plastikiniai
+dėklai, ploviklių pakuotės dangtelyje esantis dozatorius).
+22. Perdirbimas – pakuočių atliekas
 sudarančių medžiagų perdirbimas gamybos proceso metu, įskaitant organinį
 perdirbimą, bet išskyrus naudojimą energijai gauti, norint pakuočių atliekas
 sudarančias medžiagas panaudoti pagal pirminę ar kitokią paskirtį.
-18. Prekinė, arba pirminė, pakuotė (toliau – prekinė
+23. Prekinė, arba pirminė, pakuotė (toliau – prekinė
 pakuotė) – pakuotė, kuri kartu su gaminiu sudaro prekinį vienetą ir
 pateikiama vartotojams ar gaminio naudotojams.
-19. Transporto, arba tretinė, pakuotė (toliau
+24. Tiekimas Lietuvos Respublikos vidaus rinkai
+– tuščių ar gaminiais pripildytų pakuočių perleidimas už atlygį ar nemokamai
+kitam asmeniui Lietuvos Respublikos teritorijoje arba gaminiais pripildytų
+pakuočių sunaudojimas savoms reikmėms.
+25. Transporto, arba tretinė, pakuotė (toliau
 – transporto pakuotė) – pakuotė, kuri palengvina prekinėje ar grupinėje
 pakuotėje supakuotų gaminių gabenimą, tvarkymą ir gabenimo bei tvarkymo metu
 apsaugo juos nuo pažeidimo. Transporto pakuotėms nepriklauso kelių,
 geležinkelių, laivų ir lėktuvų konteineriai.
-20.
+26.
 Ūkinės veiklos vykdytojai – teisės aktų nustatyta tvarka savo veiklą
 įregistravę asmenys:
 1)
 pakuočių medžiagų tiekėjai, pakuočių gamintojai, supakuotų (sufasuotų) produktų
-gamintojai (pakuočių naudotojai), importuotojai, pardavėjai,
-platintojai, pakuočių atliekų tvarkytojai, kitos šiame ir
-kituose įstatymuose numatytos organizacijos;
+gamintojai (pakuočių naudotojai), importuotojai, pardavėjai, platintojai,
+pakuočių atliekų tvarkytojai, kitos šiame ir kituose įstatymuose
+numatytos organizacijos;
 2) pakuočių
 tiekimą Lietuvos Respublikos vidaus rinkai ir pakuočių atliekų tvarkymą
 koordinuojančios Vyriausybės įgaliotos institucijos.
-21. Užstatas – pinigų suma, pateikta už
+27. Užstatas – pinigų suma, pateikta už
 gaminio pakuotę siekiant užtikrinti, kad pakuotė bus grąžinta gamintojui ir
 (ar) importuotojui bei naudojama pakartotinai ar tvarkoma laikantis šio
 Įstatymo 3 straipsnyje nustatytų pakuočių atliekų tvarkymo prioritetų.
-22. Kitos šiame įstatyme vartojamos
+28. Kitos šiame įstatyme vartojamos
 sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos atliekų
 tvarkymo įstatyme.
 Straipsnio
@@ -175,6 +210,8 @@ Nr. X-286, 2005-06-30,
 Nr.
 XI-1627,
 2011-11-03, Žin., 2011, Nr. 138-6526 (2011-11-17)
+Nr. XI-1893,
+2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
  
 3
 straipsnis. Pakuočių ir pakuočių atliekų tvarkymo prioritetai
@@ -184,8 +221,8 @@ vadovautis šiais pagal svarbą išdėstytais prioritetais:
 1) naudoti visas
 galimas pakuočių atliekų prevencijos priemones pakuočių atliekų susidarymui
 mažinti;
-2) pakartotinai naudoti
-pakuotes;
+2) pakartotinai
+naudoti pakuotes;
 3) perdirbti
 susidariusias pakuočių atliekas ir gauti iš jų naudoti tinkamus gaminius arba
 antrines žaliavas, tinkamas tokiems gaminiams gaminti;
@@ -210,10 +247,10 @@ pakuočių vartotojui,
 atsižvelgiant į pakuočių ir pakuočių atliekų tvarkymo prioritetus, išvardytus
 šio įstatymo 3 straipsnyje.
 2. Pakuotės turi
-būti projektuojamos, gaminamos, parduodamos taip, kad jas būtų galima pakartotinai
-naudoti, perdirbti ar kitaip panaudoti ir sumažinti neigiamą poveikį
-aplinkai šalinant pakuočių atliekas ir (ar) pakuočių atliekų apdorojimo
-liekanas.
+būti projektuojamos, gaminamos, parduodamos taip, kad jas būtų galima
+pakartotinai naudoti, perdirbti ar kitaip panaudoti ir sumažinti
+neigiamą poveikį aplinkai šalinant pakuočių atliekas ir (ar) pakuočių atliekų
+apdorojimo liekanas.
 3. Pakuotės turi
 būti pagamintos taip, kad kuo didesnę pakuotės masės dalį būtų galima perdirbti
 į produktus, atitinkančius tiems produktams Europos Sąjungoje ir (ar) Lietuvos
@@ -249,9 +286,9 @@ straipsnis.
 Pakartotinio
 naudojimo pakuočių
 reikalavimai
-1. Pakartotinio
-naudojimo pakuotės turi būti pagamintos taip, kad įprastomis naudojimo
-sąlygomis būtų įmanoma jas transportuoti ir naudoti keletą kartų.
+1. Pakartotinio naudojimo
+pakuotės turi būti pagamintos taip, kad įprastomis naudojimo sąlygomis būtų
+įmanoma jas transportuoti ir naudoti keletą kartų.
 2. Turi būti įmanoma panaudotas pakartotinio
 naudojimo pakuotes paruošti
 pakartotiniam naudojimui (išplauti, dezinfekuoti) nesukeliant pavojaus aplinkai
@@ -259,8 +296,8 @@ ir šiuos darbus atliekančių žmonių saugai ir sveikatai.
 3. Pakartotinio
 naudojimo pakuotėms tapus atliekomis, šios turi atitikti šio įstatymo 42
 straipsnyje nustatytus pakuočių atliekų naudojimo reikalavimus.
-Įstatymas
-papildytas straipsniu:
+Įstatymas papildytas
+straipsniu:
 Nr.
 XI-1627,
 2011-11-03, Žin., 2011, Nr. 138-6526 (2011-11-17)
@@ -301,17 +338,18 @@ pakeitimai:
 Nr. X-286, 2005-06-30,
 Žin., 2005, Nr. 86-3206 (2005-07-16)
  
-6
-straipsnis. Pakuočių ir pakuočių atliekų apskaita
+6 straipsnis. Pakuočių ir pakuočių atliekų apskaita
 Ūkinės veiklos
-vykdytojai, nurodyti šio įstatymo 2 straipsnio 20 dalies 1 punkte, pakuočių ir
-pakuočių atliekų apskaitą tvarko ir ataskaitas teikia Vyriausybės įgaliotos
-institucijos nustatyta tvarka.
+vykdytojai, nurodyti šio įstatymo 2 straipsnio 26 dalies 1 punkte, pakuočių ir
+pakuočių atliekų apskaitą tvarko ir pagal šios apskaitos duomenis atsiskaito
+Vyriausybės įgaliotos institucijos nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.
 XI-1627,
 2011-11-03, Žin., 2011, Nr. 138-6526 (2011-11-17)
+Nr. XI-1893,
+2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
  
 7 straipsnis. Gamintojų ir
 importuotojų pareiga tvarkyti pakuotes ir pakuočių atliekas
@@ -319,8 +357,8 @@ importuotojų pareiga tvarkyti pakuotes ir pakuočių atliekas
 priemonių, kad tuščios transporto, grupinės ir prekinės pakuotės bei šių
 pakuočių atliekos būtų tvarkomos vadovaujantis šio įstatymo 3 straipsnyje
 nustatytais prioritetais ir kad būtų įvykdytos Vyriausybės ar jos įgaliotos
-institucijos nustatytos pakuočių atliekų, perdirbimo ir kitokio naudojimo užduotys
-ir (ar) pakuočių surinkimo ir pakartotinio naudojimo užduotys.
+institucijos nustatytos pakuočių atliekų, perdirbimo ir kitokio naudojimo
+užduotys ir (ar) pakuočių surinkimo ir pakartotinio naudojimo užduotys.
 2. Gamintojai ir importuotojai gali patys tvarkyti savo pakuočių
 atliekas (taip pat sutartiniais pagrindais pavesti šias atliekas tvarkyti
 atliekas tvarkančioms įmonėms) arba kartu su kitais gamintojais ir (ar)
@@ -338,9 +376,96 @@ užduočių ir (ar) nevykdantys ar nevisiškai vykdantys pakuočių atliekų
 perdirbimo ir kitokio naudojimo užduotis, įstatymų nustatyta tvarka moka
 mokestį už aplinkos teršimą pakuočių atliekomis.
 Straipsnio
+redakcija nuo 2013-01-01:
+7
+straipsnis. Gamintojų ir importuotojų teisės ir pareigos
+1.
+Gamintojų
+ir importuotojų pareigos:
+1) registruotis aplinkos ministro nustatyta tvarka;
+2) organizuoti
+rūšiuojamąjį surinkimą, vežimą, paruošimą naudoti, naudojimą visų pakuočių
+atliekų, kurios susidarė naudojant gamintojų ir importuotojų tiektus Lietuvos
+Respublikos vidaus rinkai supakuotus gaminius, ir (ar) dalyvauti organizuojant
+tokių atliekų tvarkymą savivaldybių organizuojamose komunalinių atliekų
+tvarkymo sistemose;
+3)
+aplinkos ministro nustatyta tvarka šviesti ir informuoti visuomenę pakuočių
+atliekų tvarkymo
+klausimais: apie
+netinkamo
+pakuočių atliekų
+tvarkymo žalą aplinkai ir žmonių sveikatai, pakuočių atliekų tvarkymo galimybes ir pan.;
+4)
+apmokėti šios
+dalies 2 punkte nurodyto pakuočių atliekų surinkimo, vežimo,
+paruošimo naudoti ir naudojimo išlaidas, taip pat šios dalies 3 punkte nurodyto
+visuomenės informavimo organizavimo ir vykdymo išlaidas;
+5) tvarkyti pakuočių apskaitą ir atsiskaityti aplinkos ministro nustatyta tvarka.
+2. Be šio
+straipsnio 1 dalyje nustatytų pareigų, pakuotes ir supakuotus gaminius Lietuvos
+Respublikos vidaus rinkai tiekiantys gamintojai
+ir importuotojai privalo imtis visų priemonių, kad tuščios prekinės,
+grupinės, transporto pakuotės ir šių pakuočių atliekos būtų tvarkomos
+vadovaujantis šio įstatymo 3 straipsnyje nustatytais prioritetais.
+3. Gamintojai ir
+importuotojai privalo Mokesčio už aplinkos teršimą įstatymo nustatyta tvarka
+mokėti mokestį už aplinkos teršimą pakuočių atliekomis, jeigu nevykdo
+Vyriausybės ar jos įgaliotos institucijos nustatytų pakuočių atliekų tvarkymo
+užduočių.
+4. Siekdami įvykdyti šio straipsnio 1 dalies 2 punkte
+nustatytą pareigą, gamintojai ir importuotojai gali diegti savivaldybės organizuojamą
+komunalinių atliekų tvarkymo sistemą papildančias pakuočių atliekų surinkimo
+sistemas.
+5. Šio straipsnio 1
+dalyje (išskyrus 1 dalies 1 punktą) nustatytas pareigas gamintojai ir
+importuotojai gali vykdyti:
+1) individualiai
+– organizuodami savoms reikmėms sunaudotų pakuočių atliekų tvarkymą, Atliekų
+tvarkymo įstatymo ir kitų teisės aktų nustatyta tvarka šias atliekas tvarkydami
+patys arba perduodami jas tokias atliekas turinčiam teisę tvarkyti atliekų tvarkytojui;
+2) kolektyviai –
+steigdami šio įstatymo 10 straipsnyje nurodytą gamintojų ir importuotojų
+organizaciją ir (ar) tapdami tokios organizacijos dalyviais ir jai pavesdami
+organizuoti pakuočių atliekų tvarkymą ir vykdyti visas ar dalį šio įstatymo nustatytų
+pareigų arba organizacijai sutartiniais pagrindais pavesdami organizuoti
+pakuočių atliekų tvarkymą ir vykdyti visas ar dalį šio įstatymo nustatytų
+pareigų netapdami organizacijos dalyviais.
+6. Gamintojai ir
+importuotojai, pakuotes naudojantys savoms reikmėms ir už atlygį ar nemokamai
+perleidžiantys pakuotes kitam asmeniui, privalo pakuočių, perleidžiamų kitam
+asmeniui, atliekų tvarkymo organizavimą pavesti šio įstatymo 10 straipsnyje
+nurodytai gamintojų ir importuotojų organizacijai arba Mokesčio už aplinkos
+teršimą įstatymo
+nustatyta tvarka mokėti mokestį už aplinkos teršimą tokių pakuočių atliekomis.
+7. Pakuočių atliekų sutvarkymas įrodomas dokumentais,
+patvirtinančiais prekinių
+pakuočių atliekų surinkimą iš komunalinių atliekų tvarkymo
+sistemos ir ją papildančių atliekų surinkimo sistemų, grupinių,
+transporto pakuočių atliekų surinkimą ir surinktų pakuočių atliekų
+naudojimą.
+8. Gamintojai ir
+importuotojai Vyriausybės nustatyta tvarka privalo Aplinkos ministerijos
+įgaliotai institucijai teikti duomenis apie Lietuvos Respublikos vidaus rinkai
+tiekiamas pakuotes.
+Straipsnio
 pakeitimai:
 Nr. X-286, 2005-06-30,
 Žin., 2005, Nr. 86-3206 (2005-07-16)
+Nr. XI-1893,
+2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
+ 
+71
+straipsnis. Šio įstatymo 6 ir 7 straipsnių taikymo išimtys
+Gamintojai ir importuotojai, per ataskaitinį
+laikotarpį Lietuvos Respublikos vidaus rinkai tiekiantys ne daugiau kaip 0,5
+tonos pakuočių, atleidžiami nuo šio įstatymo 6 straipsnyje nustatytos pareigos
+atsiskaityti ir nuo šio įstatymo 7 straipsnio 3 dalyje nustatytos pareigos
+mokėti mokestį už aplinkos teršimą pakuočių atliekomis.
+Įstatymas
+papildytas straipsniu :
+Nr. XI-1893,
+2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
  
 8 straipsnis. Pakuočių pardavėjų ir platintojų pareiga surinkti
 pakuotes ir pakuočių atliekas
@@ -349,10 +474,8 @@ pardavėjai privalo priimti parduodamų gaminių pakuotes, už kurias nustatytas
 užstatas, išskyrus pakuočių pardavėjus, prekiaujančius smulkiose parduotuvėse,
 kurių bendrasis plotas neviršija 90 kv. m (neskaitant kaimo parduotuvių), ir
 prekyvietėse, kioskuose, degalinėse, viešojo maitinimo įstaigose.
-2. Pakuočių
-pardavėjai ir platintojai gali patys organizuoti pakuočių ir pakuočių atliekų
-surinkimo ir rūšiavimo sistemas arba pagal sutartis naudotis organizuotomis
-atliekų tvarkymo sistemomis.
+2. Neteko galios
+nuo 2012-01-10.
 3. Pakuočių
 pardavėjai prekybos vietose turi teikti informaciją apie tai, kaip pakuočių
 vartotojai gali grąžinti pakuotes ir pakuočių atliekas.
@@ -363,9 +486,9 @@ Nr. X-1565,
 Nr.
 XI-1627,
 2011-11-03, Žin., 2011, Nr. 138-6526 (2011-11-17)
+Nr. XI-1893,
+2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
  
-Įstatymas papildomas
-81 straipsniu nuo 2012-01-01:
 81 straipsnis. Informacija pakuočių vartotojams ir
 kitiems pakuočių atliekų turėtojams
 1.
@@ -389,9 +512,19 @@ Nr.
 XI-1627,
 2011-11-03, Žin., 2011, Nr. 138-6526 (2011-11-17)
  
-9 straipsnis. Vartotojų pareiga
-Vartotojai privalo naudotis organizuotomis pakuočių
-ir pakuočių atliekų tvarkymo sistemomis.
+9
+straipsnis. Vartotojų ir pakuočių atliekų turėtojų pareiga
+1.
+Atliekų turėtojas privalo atskirti pakuočių atliekas nuo kitų atliekų, tai yra
+rūšiuoti pakuočių atliekas jų susidarymo vietoje. 
+2. Vartotojai ir komunalinių atliekų sraute
+susidarančių pakuočių
+atliekų turėtojai privalo naudotis organizuotomis pakuočių ir pakuočių atliekų
+tvarkymo sistemomis.
+Straipsnio
+pakeitimai:
+Nr. XI-1893,
+2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
  
 10 straipsnis. Gamintojų ir
 importuotojų organizacijos
@@ -399,9 +532,114 @@ Gamintojų ir importuotojų organizacijos steigiamos
 ir veikia bei gamintojai ir importuotojai dalyvauja jų veikloje Atliekų
 tvarkymo įstatymo nustatyta tvarka.
 Straipsnio
+redakcija nuo 2013-01-01:
+10 straipsnis. Kolektyvaus
+pakuočių atliekų tvarkymo organizavimo reikalavimai
+1. Siekdami kolektyviai organizuoti
+pakuočių atliekų tvarkymą, gamintojai ir importuotojai gali steigti gamintojų
+ir importuotojų organizaciją (toliau – organizacija) ir (ar) tapti įsteigtos
+organizacijos dalyviais arba organizacijai pavesti organizuoti pakuočių atliekų
+tvarkymą ir vykdyti visas ar dalį šio įstatymo nustatytų pareigų netapdami
+organizacijos dalyviais.
+2. Organizacija
+steigiama ir
+veikia, gamintojai ir importuotojai jos veikloje dalyvauja Atliekų tvarkymo
+įstatymo nustatyta tvarka.
+3. Pakuočių
+atliekų tvarkymo organizavimo licencija gali būti išduodama tik tai
+organizacijai, kuriai organizuoti pakuočių atliekų tvarkymą kaip jos
+dalyviai ar
+sutartiniais pagrindais pavedė ne mažiau kaip 25 procentai visų Lietuvos
+Respublikos vidaus rinkai tiekiamų pakuočių tiekiančių gamintojų ir
+importuotojų.
+4. Siekdama
+įvykdyti šio įstatymo 7 straipsnio 1 dalies 2 punkte gamintojams ir
+importuotojams nustatytą pareigą, organizacija privalo sudaryti sutartis: 
+1) su visomis
+savivaldybėmis (arba savivaldybių įsteigtais juridiniais asmenimis, kuriems
+pavesta administruoti komunalinių atliekų tvarkymo sistemą) dėl
+bendradarbiavimo organizuojant komunalinių atliekų sraute susidarančių pakuočių
+atliekų rūšiuojamąjį surinkimą, vežimą ir paruošimą naudoti. Šiose sutartyse
+turi būti numatyta bendradarbiavimo eksploatuojant komunalinių atliekų sraute
+susidarančių pakuočių atliekų surinkimo sistemą, šviečiant ir informuojant
+gyventojus pakuočių atliekų tvarkymo klausimais sąlygos, komunalinių atliekų
+sraute susidarančių pakuočių atliekų surinkimo sistemos infrastruktūros plėtros
+finansavimo tvarka, komunalinių atliekų sraute susidarančių pakuočių atliekų
+surinkėjų parinkimo tvarka;
+2) pakuočių
+atliekų tvarkymo organizavimo sutartis su visomis savivaldybėmis (arba
+savivaldybių įsteigtais juridiniais asmenimis, kuriems pavesta administruoti
+komunalinių atliekų tvarkymo sistemą) ir pagal šios dalies 1 punkte nurodytose
+sutartyse nustatytą tvarką parinktais atliekų surinkėjais dėl komunalinių
+atliekų sraute susidarančių pakuočių atliekų rūšiuojamojo surinkimo, vežimo,
+paruošimo naudoti ir naudojimo. Šiose sutartyse turi būti numatyta komunalinių
+atliekų sraute susidarančių pakuočių atliekų rūšiuojamojo surinkimo, vežimo,
+paruošimo naudoti, naudojimo finansavimo (išlaidų apmokėjimo) tvarka, pakuočių
+atliekų sutvarkymą patvirtinančių dokumentų pateikimo tvarka ir sutartinių
+įsipareigojimų vykdymo kontrolės tvarka;
+3) su pagal
+aplinkos ministro nustatytą tvarką organizacijos išrinktais pakuočių atliekų
+surinkėjais dėl ne komunalinių atliekų sraute susidarančių pakuočių atliekų
+rūšiuojamojo surinkimo, vežimo, paruošimo naudoti, naudojimo arba su pagal
+aplinkos ministro nustatytą tvarką organizacijos išrinktais pakuočių atliekų
+surinkėjais dėl ne komunalinių atliekų sraute susidarančių pakuočių atliekų
+surinkimo, vežimo, paruošimo naudoti ir pakuočių atliekų naudotojais
+(perdirbėjais) ir (ar) eksportuotojais dėl surinktų ir paruoštų naudoti
+pakuočių atliekų panaudojimo (taip, kad būtų užtikrintas pakuočių atliekų
+rūšiuojamasis surinkimas, vežimas ir paruošimas naudoti visose Lietuvos
+Respublikos savivaldybėse). Šiose sutartyse turi būti numatyta apmokėjimo už ne
+komunalinių atliekų sraute susidarančių pakuočių atliekų rūšiuojamąjį
+surinkimą, vežimą, paruošimą naudoti, naudojimą tvarka, ne komunalinių atliekų
+sraute susidarančių pakuočių atliekų sutvarkymą patvirtinančių dokumentų
+pateikimo tvarka ir sutartinių įsipareigojimų vykdymo kontrolės tvarka.
+5. Organizacija šio straipsnio 4
+dalies 2 punkte nurodytas išlaidas ir komunalinių atliekų sraute susidarančių
+pakuočių atliekų surinkimo sistemos infrastruktūros plėtrą turi finansuoti
+proporcingai jos dalyvių ir organizuoti pakuočių atliekų tvarkymą sutartiniais
+pagrindais pavedusių gamintojų ir importuotojų užimamai rinkos daliai, kuri
+Vyriausybės įgaliotos institucijos nustatyta tvarka apskaičiuojama pagal šių
+gamintojų ir importuotojų
+bei dalyvių deklaruotą ataskaitiniu laikotarpiu Lietuvos Respublikos vidaus
+rinkai tiektiems gaminiams supakuoti panaudotų pakuočių kiekį.
+6. Siekdama
+vykdyti šio straipsnio 4 dalyje nurodytų sutartinių įsipareigojimų vykdymo
+kontrolę, organizacija privalo inicijuoti sudaryti kontrolės tarybą, kurioje
+turi dalyvauti vienodas organizacijos, pakuočių atliekų surinkėjų ir
+pakuočių atliekų naudotojų (ir eksportuotojų) asociacijų atstovų skaičius. Be to, į
+kontrolės tarybą įeina vienas Lietuvos savivaldybių asociacijos atstovas ir
+vienas Aplinkos ministerijos atstovas.
+7. Kontrolės
+taryba sudaroma pasirašant daugiašalę sutartį, kurioje turi būti nustatyta:
+1) organizacijos
+ir pakuočių atliekų surinkėjų,
+pakuočių atliekų naudotojų ir eksportuotojų sutartinių
+įsipareigojimų vykdymo kontrolės tvarka;
+2) gamintojų, importuotojų, kurie sutartiniais pagrindais organizacijai
+pavedė vykdyti
+šiame įstatyme nustatytas pareigas,
+sutartinių įsipareigojimų vykdymo kontrolės tvarka;
+3) kontrolės tarybos narių pareiga trečiajam asmeniui neatskleisti
+kontrolės tarybos veiklos vykdymo metu gautos informacijos, išskyrus teisės
+aktuose nustatytus atvejus;
+4) kontrolės tarybos narių skyrimo tvarka.
+8. Atstovus į kontrolės
+tarybą skiria tos pakuočių atliekų surinkėjų ir pakuočių atliekų naudotojų ir
+eksportuotojų asociacijos, kurių nariai per paskutinius ataskaitinius metus
+Lietuvos Respublikos teritorijoje surinko ir panaudojo, išvežė panaudoti ne
+mažiau kaip 25 procentus visų Lietuvos Respublikos teritorijoje surinktų ir
+panaudotų, išvežtų panaudoti pakuočių atliekų.
+9. Organizacijos
+atstovai į kontrolės tarybą skiriami organizacijos valdymo organų sprendimu.
+Organizacijos valdymo organas atstovus į kontrolės tarybą paskiria ne ilgesnei
+negu trejų metų kadencijai, užtikrindamas galimybę kiekvienam
+organizacijos dalyviui tapti kontrolės tarybos nariu. Tas pats asmuo negali
+eiti pareigų dvi kadencijas iš eilės.
+Straipsnio
 pakeitimai:
 Nr. X-286, 2005-06-30,
 Žin., 2005, Nr. 86-3206 (2005-07-16)
+Nr. XI-1893,
+2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
  
 11 straipsnis. Užstatai už
 pakuotes
@@ -440,7 +678,6 @@ kurias privaloma imti užstatą, sąrašą ir užstato dydį, užstato sistemos
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
- 
  
 RESPUBLIKOS PREZIDENTAS                                                         VALDAS
 ADAMKUS
@@ -498,11 +735,23 @@ PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO
 Šio įstatymo 9 straipsnis įsigalioja
 2012 m. sausio 1 d.
  
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-1893,
+2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
+PAKUOČIŲ
+IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO 2, 6, 7, 8, 9, 10 STRAIPSNIŲ PAKEITIMO IR
+PAPILDYMO BEI ĮSTATYMO PAPILDYMO 7(1) STRAIPSNIU ĮSTATYMAS
+Šio
+įstatymo 3 ir 7 straipsniai įsigalioja 2013 m. sausio 1 d.
  
-*** Pabaiga ***
+***
+Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2011-11-21)
-              
-   ausrine.trapinskiene@lrs.lt
+Aušrinė Trapinskienė (2012-01-18)
+                 
+ausrine.trapinskiene@lrs.lt
