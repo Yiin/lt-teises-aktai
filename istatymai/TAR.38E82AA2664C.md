@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.38E82AA2664C"
 
 # Lietuvos Respublikos nekilnojamojo turto registro įstatymas
 
-Suvestinė redakcija nuo 2011-12-22 iki 2012-01-09
+Suvestinė redakcija nuo 2012-01-10 iki 2014-06-01
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 100-2261, i. k. 0961010ISTA00I-1539
  
@@ -1118,45 +1118,130 @@ Atlyginimo už daiktinių teisių į nekilnojamąjį daiktą, šių teisių suva
 
 
 
-42 straipsnis. Teisė naudotis nekilnojamojo turto registro duomenimis
+42 straipsnis. Nekilnojamojo turto registro duomenų teikimas ir naudojimas
 
 
-1. Nekilnojamojo turto registro centriniame duomenų banke esantys duomenys yra vieši, išskyrus įstatymų nustatytus apribojimus. Duomenys teikiami šio įstatymo ir Nekilnojamojo turto registro nuostatų nustatyta tvarka.
-
-
-
-
-2. Kai kyla asmenų ginčas dėl nekilnojamojo turto registre įregistruoto nekilnojamojo daikto ir teisių į jį, nė viena iš ginčo šalių negali teisintis nežinojusi nekilnojamojo turto registro duomenų.
+1. Nekilnojamojo turto registro duomenys apie nekilnojamąjį daiktą, daiktines teises ir šių teisių turėtojus, daiktinių teisių suvaržymus, juridinius faktus ir kitas žymas, įregistruotus šiame registre, ir su šiais suvaržymais, juridiniais faktais ir žymomis susijusių asmenų duomenys yra vieši, išskyrus šio ir kitų įstatymų nustatytus apribojimus.
 
 
 
 
-3. Dokumentų, kurias remiantis nekilnojamojo turto registre buvo įregistruoti nekilnojamieji daiktai, daiktinės teisės į juos, šių teisių suvaržymai, juridiniai faktai, kopijos motyvuotu prašymu pateikiamos tik:
+2. Nekilnojamojo turto registro archyviniai duomenys apie nekilnojamąjį daiktą, daiktines teises ir šių teisių turėtojus, daiktinių teisių suvaržymus, juridinius faktus ir kitas žymas, įregistruotus šiame registre, ir su šiais suvaržymais, juridiniais faktais ir žymomis susijusių asmenų duomenys teikiami tik:
 
 
-1) teisių turėtojams – asmenims nurodytiems tuose dokumentuose;
-
-
-
-
-2) mokesčių administravimo subjektams;
+1) jo savininkams;
 
 
 
 
-3) teismams bei teisėsaugos institucijoms;
+2) daiktinių teisių turėtojams;
 
 
 
 
-4) asmenims, turintiems teisę paveldėti mirusio asmens daiktines teises į nekilnojamąjį daiktą.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos nekilnojamojo turto registro įstatymo (2001 m. birželio 21 d. redakcija, Žin., 2001, Nr. 55-1948) 42 straipsnis tiek, kiek jame nenustatyta, kad advokatai, pateikę motyvuotą prašymą, turi teisę gauti Nekilnojamojo turto registre esančią informaciją, būtiną asmens teisei į teisminę gynybą veiksmingai įgyvendinti, prieštarauja Lietuvos Respublikos Konstitucijos 30 straipsnio 1 daliai, 31 straipsnio 6 daliai, konstituciniam teisinės valstybės principui.
+3) teismams ir teisėtvarkos institucijoms – valstybės pavestoms funkcijoms atlikti;
+
+
+
+
+4) savivaldybėms – savivaldybių funkcijoms atlikti;
+
+
+
+
+5) valstybės institucijoms ir kitiems asmenims – valstybės pavestoms funkcijoms atlikti ar įstatymuose nustatytoms teisinėms paslaugoms teikti.
+
+
+
+
+
+
+3. Duomenys apie visą asmens nekilnojamąjį turtą, daiktines teises į jį ir šių teisių turėtojus, daiktinių teisių suvaržymus, juridinius faktus ir kitas žymas, įregistruotus šiame registre, ir su šiais suvaržymais, juridiniais faktais ir žymomis susijusių asmenų duomenys teikiami tik:
+
+
+1) jo savininkams;
+
+
+
+
+2) teismams ir teisėtvarkos institucijoms – valstybės pavestoms funkcijoms atlikti;
+
+
+
+
+3) juridiniams asmenims, kurie užsiima draudimo verslu, kai duomenys yra būtini atitinkamoms draudimo paslaugoms besikreipiantiems asmenims teikti;
+
+
+
+
+4) juridiniams asmenims, kurie teikia finansines paslaugas, susijusias su rizikos prisiėmimu ar kreditingumo vertinimu, kai duomenys yra būtini atitinkamoms finansinėms paslaugoms besikreipiantiems asmenims teikti;
+
+
+
+
+5) savivaldybėms – savivaldybių funkcijoms atlikti;
+
+
+
+
+6) valstybės institucijoms ir kitiems asmenims – valstybės pavestoms funkcijoms atlikti ar įstatymuose nustatytoms teisinėms paslaugoms teikti.
+
+
+
+
+
+
+4. Nekilnojamojo turto registro duomenys teikiami šio įstatymo ir Nekilnojamojo turto registro nuostatų nustatyta tvarka pagal duomenų teikimo sutartis arba pagal asmenų prašymus. Duomenys, identifikuojantys daiktinių teisių turėtojus ir kitus su daiktinių teisių suvaržymais, juridiniais faktais ir žymomis susijusius fizinius asmenis, teikiami vadovaujantis Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu.
+
+
+
+
+5. Dokumentų, kuriais remiantis nekilnojamojo turto registre įregistruotas nekilnojamasis daiktas, daiktinės teisės į jį, šių teisių suvaržymai, juridiniai faktai ar kitos žymos, kopijos motyvuotu prašymu teikiamos tik:
+
+
+1) jo savininkams;
+
+
+
+
+2) daiktinių teisių turėtojams;
+
+
+
+
+3) asmenims, turintiems teisę paveldėti mirusio asmens daiktines teises į nekilnojamąjį daiktą;
+
+
+
+
+4) teismams ir teisėtvarkos institucijoms;
+
+
+
+
+5) advokatams (advokatų profesinėms bendrijoms) ir valstybės garantuojamos teisinės pagalbos tarnyboms;
+
+
+
+
+6) notarams;
+
+
+
+
+7) antstoliams;
+
+
+
+
+8) mokesčių administratoriams.
 
 
 
 
 Straipsnio pakeitimai:
 2011-06-09, Žin., 2011, Nr. 156-7405 (2011-12-22), i. k. 1111000NUTARG117405            
+Nr. XI-1891, 2011-12-22, Žin., 2012, Nr. 6-189 (2012-01-10), i. k. 1111010ISTA0XI-1891
  
 
 
@@ -1260,3 +1345,8 @@ Lietuvos Respublikos nekilnojamojo turto registro įstatymo 5 straipsnio pakeiti
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2011-06-09, Žin., 2011, Nr. 156-7405 (2011-12-22), i. k. 1111000NUTARG117405                
 Dėl Lietuvos Respublikos nekilnojamojo turto registro įstatymo (2001 m. birželio 21 d. redakcija) 42 straipsnio atitikties Lietuvos Respublikos Konstitucijai ir Lietuvos Respublikos Vyriausybės 2002 m. liepos 12 d. nutarimu Nr. 1129 "Dėl Nekilnojamojo turto registro nuostatų patvirtinimo" patvirtintų Nekilnojamojo turto registro nuostatų 88 punkto (2007 m. vasario 27 d. redakcija), 97 punkto (2007 m. vasario 27 d., 2008 m. spalio 22 d., 2010 m. kovo 3 d., 2011 m. gegužės 4 d. redakcijos) atitikties Lietuvos Respublikos Konstitucijai
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1891, 2011-12-22, Žin., 2012, Nr. 6-189 (2012-01-10), i. k. 1111010ISTA0XI-1891
+Lietuvos Respublikos nekilnojamojo turto registro įstatymo 42 straipsnio pakeitimo įstatymas
