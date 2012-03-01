@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A7A6A8CC58D7"
 
 # Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2009-01-01 iki 2012-02-29
+Suvestinė redakcija nuo 2012-03-01 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1496, i. k. 1011010ISTA00IX-326
  
@@ -157,7 +157,9 @@ LOTERIJŲ IR LOŠIMŲ MOKESČIO APSKAIČIAVIMO IR MOKĖJIMO TVARKA
 
 
 
-3. Lošimų įrenginiai, už kuriuos mokamas fiksuoto dydžio loterijų ir lošimų mokestis, už kiekvieną mokestinį laikotarpį sumokėjus šį mokestį, paženklinami specialiu ženklu Valstybinės lošimų priežiūros komisijos nustatyta tvarka.
+3. Lošimų įrenginiai, už kuriuos mokamas fiksuoto dydžio loterijų ir lošimų mokestis, už kiekvieną mokestinį laikotarpį sumokėjus šį mokestį, paženklinami specialiu ženklu Lošimų priežiūros tarnybos prie Lietuvos Respublikos finansų ministerijos nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XI-1579, 2011-09-15, Žin., 2011, Nr. 119-5612 (2011-10-01), i. k. 1111010ISTA0XI-1579
  
 
 
@@ -237,3 +239,8 @@ Lietuvos Respublikos azartinių lošimų mokesčio įstatymo pakeitimo įstatyma
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-80, 2008-12-19, Žin., 2008, Nr. 149-6006 (2008-12-30), i. k. 1081010ISTA000XI-80
 Lietuvos Respublikos loterijų ir azartinių lošimų mokesčio įstatymo pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1579, 2011-09-15, Žin., 2011, Nr. 119-5612 (2011-10-01), i. k. 1111010ISTA0XI-1579
+Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo 6 straipsnio pakeitimo įstatymas
