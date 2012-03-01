@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C"
 
 # Lietuvos Respublikos įmonių atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2011-06-11 iki 2012-02-29
+Suvestinė redakcija nuo 2012-03-01 iki 2012-08-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3516, i. k. 1011010ISTA00IX-575
  
@@ -193,7 +193,10 @@ FINANSINIŲ ATASKAITŲ SUDARYMO REIKALAVIMAI
 
 1. Metines finansines ataskaitas įmonės sudaro pasibaigus jų finansiniams metams.
 
-2. Tarpines finansines ataskaitas įmonės sudaro, kai to reikia arba kitų teisės aktų nustatytu periodiškumu.
+2. Tarpines finansines ataskaitas įmonės sudaro, kai to reikia arba kitų teisės aktų nustatyta tvarka ar periodiškumu.
+Straipsnio dalies pakeitimai:
+Nr. XI-1799, 2011-12-15, Žin., 2011, Nr. 160-7566 (2011-12-28), i. k. 1111010ISTA0XI-1799
+ 
 
 3. Įregistruotos naujos įmonės sudaro ūkinės veiklos pradžios balansą, kuriame turi būti nurodytas įmonės veiklos pradžioje buvęs turtas, nuosavas kapitalas ir įsipareigojimai.
 
@@ -238,7 +241,10 @@ FINANSINIŲ ATASKAITŲ SUDARYMO REIKALAVIMAI
 
 18 straipsnis. Klaidų taisymas
 
-Po metinių finansinių ataskaitų patvirtinimo paaiškėjusių klaidų taisymo tvarką nustato apskaitos standartai.
+Po finansinių ataskaitų patvirtinimo paaiškėjusių klaidų taisymo tvarką nustato apskaitos standartai.
+
+Straipsnio pakeitimai:
+Nr. XI-1799, 2011-12-15, Žin., 2011, Nr. 160-7566 (2011-12-28), i. k. 1111010ISTA0XI-1799
  
 
 19 straipsnis. Finansinių ataskaitų, metinio pranešimo pasirašymas ir tvirtinimas
@@ -248,7 +254,10 @@ Po metinių finansinių ataskaitų patvirtinimo paaiškėjusių klaidų taisymo 
 2. Finansinės ataskaitos ir metinis pranešimas tvirtinami įstatymų nustatyta tvarka.
  
 
-20 straipsnis. Metinių finansinių ataskaitų auditas
+20 straipsnis. Finansinių ataskaitų auditas 
+Pakeistas straipsnio pavadinimas:
+Nr. XI-1799, 2011-12-15, Žin., 2011, Nr. 160-7566 (2011-12-28), i. k. 1111010ISTA0XI-1799
+ 
 
 1. Valstybės ir savivaldybės įmonėse, viešojo intereso įmonėse, akcinėse bendrovėse, šio straipsnio 2 dalyje nurodytose uždarosiose akcinėse bendrovėse, kooperatinėse bendrovėse (kooperatyvuose), tikrosiose ūkinėse bendrijose ir komanditinėse ūkinėse bendrijose, kuriose visi tikrieji nariai yra akcinės bendrovės ar uždarosios akcinės bendrovės, taip pat uždarosiose akcinėse bendrovėse, kuriose akcininkė yra valstybė ir (arba) savivaldybė, turi būti atliktas metinių finansinių ataskaitų auditas.
 
@@ -263,13 +272,20 @@ Po metinių finansinių ataskaitų patvirtinimo paaiškėjusių klaidų taisymo 
 3. Pardavimo grynosioms pajamoms taikoma šio įstatymo 24 straipsnio 4 dalis, o vidutiniam metiniam darbuotojų skaičiui pagal sąrašą taikoma šio įstatymo 24 straipsnio 5 dalis.
 
 4. Metinių finansinių ataskaitų auditas atliekamas pagal Lietuvos Respublikos audito įstatymą ir kitus teisės aktus.
+
+5. Tarpinių finansinių ataskaitų auditas atliekamas šio įstatymo ir kitų įstatymų nustatyta tvarka pagal Lietuvos Respublikos audito įstatymą ir kitus teisės aktus.
+Papildyta straipsnio dalimi:
+Nr. XI-1799, 2011-12-15, Žin., 2011, Nr. 160-7566 (2011-12-28), i. k. 1111010ISTA0XI-1799
  
 
-21 straipsnis. Metinių finansinių ataskaitų ir metinio pranešimo skelbimas
+21 straipsnis. Finansinių ataskaitų ir metinio pranešimo skelbimas
 
-1. Patvirtintos metinės finansinės ataskaitos ir metinis pranešimas kartu su auditoriaus išvada (tais atvejais, kai auditas atliktas arba pagal įstatymus privalo būti atliktas) skelbiami viešai Juridinių asmenų registre įstatymų ir kitų teisės aktų nustatytais atvejais ir tvarka.
+1. Finansinės ataskaitos ir metinis pranešimas kartu su auditoriaus išvada (tais atvejais, kai auditas atliktas arba pagal įstatymus privalo būti atliktas) skelbiami viešai Juridinių asmenų registre įstatymų ir kitų teisės aktų nustatytais atvejais ir tvarka.
 
-2. Skelbiamų metinių finansinių ataskaitų ir metinio pranešimo formos ir tekstai turi būti tokie, pagal kuriuos buvo parengta auditoriaus išvada.
+2. Skelbiamų finansinių ataskaitų ir metinio pranešimo formos ir tekstai turi būti tokie, pagal kuriuos buvo parengta auditoriaus išvada.
+
+Straipsnio pakeitimai:
+Nr. XI-1799, 2011-12-15, Žin., 2011, Nr. 160-7566 (2011-12-28), i. k. 1111010ISTA0XI-1799
  
 
 KETVIRTASIS SKIRSNIS 
@@ -469,4 +485,9 @@ Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo pakeitimo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1403, 2011-05-24, Žin., 2011, Nr. 71-3365 (2011-06-11), i. k. 1111010ISTA0XI-1403
 Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo 2 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1799, 2011-12-15, Žin., 2011, Nr. 160-7566 (2011-12-28), i. k. 1111010ISTA0XI-1799
+Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo 15, 18, 20, 21 straipsnių pakeitimo ir papildymo įstatymas
 
