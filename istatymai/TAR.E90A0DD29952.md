@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E90A0DD29952"
 
 # Lietuvos Respublikos loterijų įstatymas
 
+Suvestinė redakcija nuo 2012-03-01 iki 2014-12-31
+ 
+Įstatymas paskelbtas: Žin. 2003, Nr. 73-3341, i. k. 1031010ISTA0IX-1661
+ 
+ 
 LIETUVOS RESPUBLIKOS
 LOTERIJŲ
 Į S T A T Y M A S
@@ -195,7 +200,10 @@ LOTERIJŲ ORGANIZAVIMO REIKALAVIMAI
 4 straipsnis. Institucijos, išduodančios licencijas organizuoti loterijas
 
 
-1. Licencijas organizuoti didžiąsias loterijas išduoda Valstybinė lošimų priežiūros komisija. 
+1. Licencijas organizuoti didžiąsias loterijas išduoda Lošimų priežiūros tarnyba prie Lietuvos Respublikos finansų ministerijos (toliau – Priežiūros tarnyba).
+Straipsnio dalies pakeitimai:
+Nr. XI-1580, 2011-09-15, Žin., 2011, Nr. 119-5613 (2011-10-01), i. k. 1111010ISTA0XI-1580
+ 
 
 
 
@@ -301,7 +309,10 @@ Loterijos laimėjimų fondas turi sudaryti ne mažiau kaip 50 procentų nominali
 
 
 
-4. Didžiosios ir mažosios loterijos organizatorius privalo registruoti laimėjusius asmenis Valstybinės lošimų priežiūros komisijos nustatyta tvarka.
+4. Didžiosios ir mažosios loterijų organizatorius privalo registruoti laimėjusius asmenis Priežiūros tarnybos nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1580, 2011-09-15, Žin., 2011, Nr. 119-5613 (2011-10-01), i. k. 1111010ISTA0XI-1580
+ 
 
 
 
@@ -311,7 +322,9 @@ Loterijos laimėjimų fondas turi sudaryti ne mažiau kaip 50 procentų nominali
 
 
 
-6. Loterijos organizatorius informaciją apie šio straipsnio 4 dalyje nurodytus laimėjusius asmenis ir su jais susijusius dokumentus, išskyrus šio Įstatymo 13 straipsnio 3 dalyje nustatytus atvejus, Valstybinės lošimų priežiūros komisijos nustatyta tvarka saugo 5 metus ir įstatymų nustatyta tvarka privalo pateikti tik Valstybinei lošimų priežiūros komisijai, ikiteisminio tyrimo pareigūnams, teismui ir kitoms institucijoms.
+6. Loterijos organizatorius informaciją apie šio straipsnio 4 dalyje nurodytus laimėjusius asmenis ir su jais susijusius dokumentus, išskyrus šio Įstatymo 13 straipsnio 3 dalyje nustatytus atvejus, Priežiūros tarnybos nustatyta tvarka saugo 5 metus ir įstatymų nustatyta tvarka privalo pateikti tik Priežiūros tarnybai, ikiteisminio tyrimo pareigūnams, teismui ir kitoms institucijoms.
+Straipsnio dalies pakeitimai:
+Nr. XI-1580, 2011-09-15, Žin., 2011, Nr. 119-5613 (2011-10-01), i. k. 1111010ISTA0XI-1580
  
 
 
@@ -322,7 +335,10 @@ Loterijos laimėjimų fondas turi sudaryti ne mažiau kaip 50 procentų nominali
 11 straipsnis. Loterijų organizatorių teisė verstis kita ūkine ar komercine veikla
 
 
-1. Didžiosios loterijos organizatorius neturi teisės verstis kita ūkine ar komercine veikla, išskyrus veiklą, susijusią su loterijos bilietų platinimu (įstatymų ir kitų teisės aktų nustatyta tvarka sudaryti sutartis su fiziniais ir juridiniais asmenimis dėl loterijos bilietų platinimo) ir su savo loterijos organizavimu (reklama, laikraščių ir žurnalų apie loterijas leidimas ir pardavimas, televizijos filmų, televizijos ir radijo laidų apie savo loteriją kūrimas ir gamyba), bei tiesioginio ryšio kompiuterinės loterijos sistemos nuomą. Jeigu licencija organizuoti didžiąją loteriją išduodama loterijos organizatoriui, kuris verčiasi kita ūkine ar komercine veikla, loterijos organizatorius per 60 kalendorinių dienų nuo licencijos gavimo dienos privalo įvykdyti minėtą reikalavimą ir apie tai pranešti Valstybinei lošimų priežiūros komisijai. 
+1. Didžiosios loterijos organizatorius neturi teisės verstis kita ūkine ar komercine veikla, išskyrus veiklą, susijusią su loterijos bilietų platinimu (įstatymų ir kitų teisės aktų nustatyta tvarka sudaryti sutartis su fiziniais ir juridiniais asmenimis dėl loterijos bilietų platinimo) ir su savo loterijos organizavimu (reklama, laikraščių ir žurnalų apie loterijas leidimas ir pardavimas, televizijos filmų, televizijos ir radijo laidų apie savo loteriją kūrimas ir gamyba), ir tiesioginio ryšio kompiuterinės loterijos sistemos nuomą. Jeigu licencija organizuoti didžiąją loteriją išduodama loterijos organizatoriui, kuris verčiasi kita ūkine ar komercine veikla, loterijos organizatorius per 60 kalendorinių dienų nuo licencijos gavimo dienos privalo įvykdyti minėtą reikalavimą ir apie tai pranešti Priežiūros tarnybai.
+Straipsnio dalies pakeitimai:
+Nr. XI-1580, 2011-09-15, Žin., 2011, Nr. 119-5613 (2011-10-01), i. k. 1111010ISTA0XI-1580
+ 
 
 
 
@@ -374,7 +390,10 @@ Loterijos laimėjimų fondas turi sudaryti ne mažiau kaip 50 procentų nominali
 
 
 
-3. Didžiųjų ir mažųjų loterijų bilietus, išrašus iš loterijos kompiuterinės sistemos duomenų bazės, pagal kuriuos buvo išmokėti (išduoti) laimėjimai, loterijos organizatorius saugo Valstybinės lošimų priežiūros komisijos nustatyta tvarka. Panaikinus licenciją, neišplatinti didžiųjų ir mažųjų loterijų bilietai per 60 kalendorinių dienų po sprendimo panaikinti licenciją priėmimo dienos turi būti surinkti iš visų platinimo vietų ir sunaikinti Valstybinės lošimų priežiūros komisijos nustatyta tvarka.
+3. Didžiųjų ir mažųjų loterijų bilietus, išrašus iš loterijos kompiuterinės sistemos duomenų bazės, pagal kuriuos buvo išmokėti (išduoti) laimėjimai, loterijos organizatorius saugo Priežiūros tarnybos nustatyta tvarka. Panaikinus licenciją, neišplatinti didžiųjų ir mažųjų loterijų bilietai per 60 kalendorinių dienų po sprendimo panaikinti licenciją priėmimo dienos turi būti surinkti iš visų platinimo vietų ir sunaikinti Priežiūros tarnybos nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XI-1580, 2011-09-15, Žin., 2011, Nr. 119-5613 (2011-10-01), i. k. 1111010ISTA0XI-1580
+ 
 
 
 
@@ -418,13 +437,15 @@ Loterijos laimėjimų fondas turi sudaryti ne mažiau kaip 50 procentų nominali
 
 
 
-15 straipsnis. Reikalavimai rengiant skaitmeninės ir klasikinės loterijos tiražus
+15 straipsnis. Reikalavimai rengiant skaitmeninės ir klasikinės loterijų tiražus
 
 
-Skaitmeninės ir klasikinės loterijos tiražų metu turi dalyvauti komisija. Komisijos narių skaičių ir sudarymo tvarką nustato Valstybinė lošimų priežiūros komisija.
+Skaitmeninės ir klasikinės loterijų tiražų metu turi dalyvauti komisija. Komisijos narių skaičių ir sudarymo tvarką nustato Priežiūros tarnyba.
+
+
+Straipsnio pakeitimai:
+Nr. XI-1580, 2011-09-15, Žin., 2011, Nr. 119-5613 (2011-10-01), i. k. 1111010ISTA0XI-1580
  
-
-
 
 
 
@@ -635,7 +656,10 @@ Skaitmeninės ir klasikinės loterijos tiražų metu turi dalyvauti komisija. Ko
 
 
 
-3. Didžiųjų loterijų taisykles, jų papildymus ir pakeitimus tvirtina loterijos organizatorius, suderinęs su Valstybine lošimų priežiūros komisija. 
+3. Didžiųjų loterijų taisykles, jų papildymus ir pakeitimus tvirtina loterijos organizatorius, suderinęs su Priežiūros tarnyba.
+Straipsnio dalies pakeitimai:
+Nr. XI-1580, 2011-09-15, Žin., 2011, Nr. 119-5613 (2011-10-01), i. k. 1111010ISTA0XI-1580
+ 
 
 
 
@@ -651,10 +675,12 @@ Skaitmeninės ir klasikinės loterijos tiražų metu turi dalyvauti komisija. Ko
 20 straipsnis. Didžiųjų loterijų ataskaita
 
 
-Kiekvienam kalendorinių metų ketvirčiui pasibaigus, ne vėliau kaip iki kito kalendorinių metų ketvirčio pirmojo mėnesio 25 dienos ir, kalendoriniams metams pasibaigus, ne vėliau kaip per 4 mėnesius didžiosios loterijos organizatorius privalo pateikti Valstybinei lošimų priežiūros komisijai loterijų ataskaitas. Jų formas ir pildymo tvarką nustato Valstybinė lošimų priežiūros komisija.
+Kiekvienam kalendorinių metų ketvirčiui pasibaigus, ne vėliau kaip iki kito kalendorinių metų ketvirčio pirmojo mėnesio 25 dienos ir, kalendoriniams metams pasibaigus, ne vėliau kaip per 4 mėnesius didžiosios loterijos organizatorius privalo pateikti Priežiūros tarnybai loterijų ataskaitas. Jų formas ir pildymo tvarką nustato Priežiūros tarnyba.
+
+
+Straipsnio pakeitimai:
+Nr. XI-1580, 2011-09-15, Žin., 2011, Nr. 119-5613 (2011-10-01), i. k. 1111010ISTA0XI-1580
  
-
-
 
 
 
@@ -698,7 +724,10 @@ VALSTYBINĖ LOTERIJŲ ORGANIZAVIMO PRIEŽIŪRA IR KONTROLĖ
 23 straipsnis. Priežiūros ir kontrolės institucijos
 
 
-1. Didžiųjų loterijų organizatorių veiklą prižiūri ir kontroliuoja Valstybinė lošimų priežiūros komisija, o mažųjų loterijų organizatorių veiklą – savivaldybės, kurios teritorijoje organizuojamos mažosios loterijos, vykdomoji institucija (toliau – priežiūros ir kontrolės institucijos).
+1. Didžiųjų loterijų organizatorių veiklą prižiūri ir kontroliuoja Priežiūros tarnyba, o mažųjų loterijų organizatorių veiklą – savivaldybės, kurios teritorijoje organizuojamos mažosios loterijos, vykdomoji institucija (toliau – priežiūros ir kontrolės institucijos).
+Straipsnio dalies pakeitimai:
+Nr. XI-1580, 2011-09-15, Žin., 2011, Nr. 119-5613 (2011-10-01), i. k. 1111010ISTA0XI-1580
+ 
 
 
 
@@ -806,10 +835,12 @@ Priežiūros ir kontrolės institucijos, įgyvendindamos šio Įstatymo nuostata
 26 straipsnis. Auditas
 
 
-Didžiosios loterijos organizatorius ne vėliau kaip per 4 mėnesius nuo finansinių metų pabaigos privalo pateikti Valstybinei lošimų priežiūros komisijai audito įmonės patikrintą metinę finansinę atskaitomybę kartu su auditoriaus išvada ir viešai paskelbti balansą ir pelno (nuostolio) ataskaitą.
+Didžiosios loterijos organizatorius ne vėliau kaip per 4 mėnesius nuo finansinių metų pabaigos privalo pateikti Priežiūros tarnybai audito įmonės patikrintą metinių finansinių ataskaitų rinkinį kartu su auditoriaus išvada ir viešai paskelbti balansą ir pelno (nuostolių) ataskaitą.
+
+
+Straipsnio pakeitimai:
+Nr. XI-1580, 2011-09-15, Žin., 2011, Nr. 119-5613 (2011-10-01), i. k. 1111010ISTA0XI-1580
  
-
-
 
 
 
@@ -829,7 +860,10 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-2. Loterijų organizatoriai, kuriems yra išduotos terminuotos licencijos rengti pinigines ir pinigines-daiktines loterijas iki šio Įstatymo įsigaliojimo dienos, vykdo savo veiklą, kol pasibaigs licencijų galiojimo laikas. Loterijos vykdomos pagal Lošimų komisijos prie Finansų ministerijos patvirtintus reglamentus. Šių reglamentų papildymus arba pakeitimus tvirtina Valstybinė lošimų priežiūros komisija.
+2. Loterijų organizatoriai, kuriems yra išduotos terminuotos licencijos rengti pinigines ir pinigines-daiktines loterijas iki šio Įstatymo įsigaliojimo dienos, vykdo savo veiklą, kol pasibaigs licencijų galiojimo laikas. Loterijos vykdomos pagal Lošimų komisijos prie Finansų ministerijos patvirtintus reglamentus. Šių reglamentų papildymus arba pakeitimus tvirtina Priežiūros tarnyba.
+Straipsnio dalies pakeitimai:
+Nr. XI-1580, 2011-09-15, Žin., 2011, Nr. 119-5613 (2011-10-01), i. k. 1111010ISTA0XI-1580
+ 
 
 
 
@@ -887,3 +921,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                 ROLANDAS PAKSAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1580, 2011-09-15, Žin., 2011, Nr. 119-5613 (2011-10-01), i. k. 1111010ISTA0XI-1580
+Lietuvos Respublikos loterijų įstatymo 4, 10, 11, 13, 15, 19, 20, 23, 26 ir 27 straipsnių pakeitimo įstatymas
