@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.23EF0CB2F264"
 
 # Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo įstatymas
 
-Suvestinė redakcija nuo 2010-01-01 iki 2012-03-26
+Suvestinė redakcija nuo 2012-03-27 iki 2014-01-03
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 64-2331; Žin. 2001, Nr.65-0, i. k. 1011010ISTA00IX-466
  
@@ -43,17 +43,21 @@ Nr. XI-135, 2009-01-12, Žin., 2009, Nr. 10-357 (2009-01-27), i. k. 1091010ISTA0
 
 3 straipsnis. Fondo lėšos
 
-1. Fondas yra valstybės pinigų fondas. Fondo lėšas sudaro:
+1. Fondas yra valstybės išteklių fondas. Fondo lėšas sudaro:
 
 1) Ignalinos AE atskaitymai nuo pajamų, gautų už parduotą elektros energiją;
 
 2) užsienio šalių, tarptautinių organizacijų bei finansų institucijų ir Lietuvos Respublikos juridinių bei fizinių asmenų savanoriški tiksliniai įnašai;
 
-3) lėšos, gautos pardavus Ignalinos AE eksploatavimo nutraukimo metu realizuotą turtą;
+3) lėšos, gautos pardavus Ignalinos AE eksploatavimo nutraukimo metu realizuojamą turtą;
 
 4) lėšos, gautos už laikinai investuotas Fondo lėšas;
 
 5) kitos teisėtai įgytos lėšos.
+
+Straipsnio dalies pakeitimai:
+Nr. XI-1929, 2012-03-13, Žin., 2012, Nr. 36-1771 (2012-03-27), i. k. 1121010ISTA0XI-1929
+ 
 
 2. Fondo lėšų skyrimo, administravimo, laikymo ir naudojimo tvarką nustato Vyriausybės patvirtinti Fondo nuostatai.
  
@@ -89,9 +93,10 @@ Nr. XI-135, 2009-01-12, Žin., 2009, Nr. 10-357 (2009-01-27), i. k. 1091010ISTA0
 
 5. Fondo lėšos negali būti naudojamos kitiems tikslams, negu nustatyta šio įstatymo.
 
-6. Energetikos ministerija rengia atitinkamų metų Fondo lėšų sąmatos projektą ir teikia jį Vyriausybei. Šį projektą Vyriausybė kartu su atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektu teikia tvirtinti Seimui.
+6. Energetikos ministerija rengia atitinkamų metų Fondo lėšų sąmatos projektą ir teikia jį Vyriausybei. Šį projektą Vyriausybė teikia tvirtinti Seimui.
 Straipsnio dalies pakeitimai:
 Nr. XI-135, 2009-01-12, Žin., 2009, Nr. 10-357 (2009-01-27), i. k. 1091010ISTA00XI-135
+Nr. XI-1929, 2012-03-13, Žin., 2012, Nr. 36-1771 (2012-03-27), i. k. 1121010ISTA0XI-1929
  
 
 6 straipsnis. Fondo taryba
@@ -108,25 +113,14 @@ Nr. XI-135, 2009-01-12, Žin., 2009, Nr. 10-357 (2009-01-27), i. k. 1091010ISTA0
 
 1. Finansų ministerija tvarko Fondo lėšų įplaukų ir išmokų apskaitą Finansų ministerijos nustatyta tvarka.
 
-2. Ūkio ministerija Fondo lėšų apskaitą tvarko vadovaudamasi apskaitą ir atskaitomybę reglamentuojančiais teisės aktais. 
-Straipsnio dalies pakeitimai:
-Nr. XI-135, 2009-01-12, Žin., 2009, Nr. 10-357 (2009-01-27), i. k. 1091010ISTA00XI-135
-Nr. X-1832, 2008-11-14, Žin., 2008, Nr. 137-5381 (2008-11-29), i. k. 1081010ISTA00X-1832
- 
+2. Energetikos ministerija Fondo lėšų apskaitą tvarko vadovaudamasi apskaitą ir atskaitomybę reglamentuojančiais teisės aktais.
 
-3. Finansų ministerija ir Fondo administratorius teikia Ūkio ministerijai informaciją, kurios reikia Fondo ataskaitų rinkiniams, nustatytiems Viešojo sektoriaus atskaitomybės įstatyme ir kituose teisės aktuose, rengti. 
-Straipsnio dalies pakeitimai:
-Nr. XI-135, 2009-01-12, Žin., 2009, Nr. 10-357 (2009-01-27), i. k. 1091010ISTA00XI-135
-Nr. X-1832, 2008-11-14, Žin., 2008, Nr. 137-5381 (2008-11-29), i. k. 1081010ISTA00X-1832
- 
+3. Finansų ministerija ir Fondo administratorius teikia Energetikos ministerijai informaciją, kurios reikia Fondo ataskaitų rinkiniams, nustatytiems Viešojo sektoriaus atskaitomybės įstatyme ir kituose teisės aktuose, rengti.
 
-4. Ūkio ministerija rengia Fondo lėšų sąmatos vykdymo ataskaitą ir Viešojo sektoriaus atskaitomybės įstatyme nustatytą finansinių ataskaitų rinkinį. Kasmet, ne vėliau kaip iki balandžio 1 dienos, audito įmonė atlieka Fondo lėšų sąmatos vykdymo ataskaitos patikrinimą, pateikdama išvadą apie Fondo lėšų sąmatos vykdymo ataskaitos patikrinimą ir Fondo finansinių ataskaitų rinkinio auditą, parengdama auditoriaus išvadą. Ūkio ministerija Fondo lėšų sąmatos vykdymo ataskaitą kartu su išvada apie Fondo lėšų sąmatos vykdymo ataskaitos patikrinimą teikia Vyriausybei. Fondo lėšų sąmatos vykdymo ataskaitą Vyriausybė kartu su atitinkamų metų valstybės biudžeto vykdymo ataskaitų rinkiniu teikia tvirtinti Seimui.
-Straipsnio dalies pakeitimai:
-Nr. XI-135, 2009-01-12, Žin., 2009, Nr. 10-357 (2009-01-27), i. k. 1091010ISTA00XI-135
-Nr. X-1832, 2008-11-14, Žin., 2008, Nr. 137-5381 (2008-11-29), i. k. 1081010ISTA00X-1832
- 
+4. Energetikos ministerija rengia Fondo lėšų sąmatos vykdymo ataskaitą, aiškinamąjį raštą ir Viešojo sektoriaus atskaitomybės įstatyme nustatytą finansinių ataskaitų rinkinį (toliau – Fondo metinių ataskaitų rinkinys). Fondo finansinių ataskaitų rinkinys yra teikiamas Finansų ministerijai Viešojo sektoriaus atskaitomybės įstatymo nustatyta tvarka. Energetikos ministerija Fondo metinių ataskaitų rinkinį teikia Vyriausybei ne vėliau kaip iki kitų metų kovo 15 dienos. Fondo metinių ataskaitų rinkinį Vyriausybė teikia tvirtinti Seimui. Valstybės kontrolė teisės aktų nustatyta tvarka ir terminais kiekvienais metais atlieka Fondo metinių ataskaitų rinkinio auditą ir parengia audito išvadą.
 
-5. Fondo lėšų naudojimo valstybinį auditą atlieka Valstybės kontrolė.
+Straipsnio pakeitimai:
+Nr. XI-1929, 2012-03-13, Žin., 2012, Nr. 36-1771 (2012-03-27), i. k. 1121010ISTA0XI-1929
  
 
 8 straipsnis. Fondo likvidavimas
@@ -169,4 +163,9 @@ Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės eksploa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1832, 2008-11-14, Žin., 2008, Nr. 137-5381 (2008-11-29), i. k. 1081010ISTA00X-1832
 Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo įstatymo 7 straipsnio pakeitimo įstatymo pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1929, 2012-03-13, Žin., 2012, Nr. 36-1771 (2012-03-27), i. k. 1121010ISTA0XI-1929
+Lietuvos Respublikos valstybės įmonės ignalinos atominės elektrinės eksploatavimo nutraukimo fondo įstatymo 3, 5 ir 7 straipsnių pakeitimo įstatymas
 
