@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AAC3F61596EE"
 
 # Lietuvos Respublikos operatyvinės veiklos įstatymas
 
-Suvestinė redakcija nuo 2011-07-01 iki 2012-04-06
+Įstatymas netenka galios 2013-01-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2234, 2012-10-02, Žin., 2012, Nr. 122-6093 (2012-10-20), i. k. 1121010ISTA0XI-2234
+Lietuvos Respublikos kriminalinės žvalgybos įstatymas
+ 
+Suvestinė redakcija nuo 2012-04-07 iki 2012-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2633, i. k. 1021010ISTA00IX-965
  
@@ -354,10 +359,11 @@ OPERATYVINIS TYRIMAS
 
 Operatyvinis tyrimas atliekamas, kai:
 
-1) nusikalstamos veikos požymiai nėra nustatyti, bet turima informacijos apie rengiamą, daromą ar padarytą labai sunkų ar sunkų nusikaltimą arba apie apysunkius nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 131 straipsnyje, 145 straipsnio 2 dalyje, 146 straipsnio 2 ir 3 dalyse, 151 straipsnio 2 dalyje, 162 straipsnyje, 178 straipsnio 2 dalyje, 180 straipsnio 1 dalyje, 181 straipsnio 1 dalyje, 187 straipsnio 2 dalyje, 189 straipsnio 2 dalyje, 1891 straipsnio 1 dalyje, 198 straipsnio 2 dalyje, 213 straipsnio 1 dalyje, 214 ir 215 straipsniuose, 225 straipsnio 1 dalyje, 226 straipsnio 1 ir 2 dalyse, 227 straipsnio 1 ir 2 dalyse, 228 straipsnio 1 dalyje, 2281 straipsnyje, 240 straipsnyje, 253 straipsnio 1 dalyje, 256 straipsnio 1 dalyje, 300 straipsnio 2 ir 3 dalyse, 301 straipsnio 2 dalyje, 302 straipsnio 2 dalyje, 307 straipsnio 1 ir 2 dalyse, arba apie nusikaltimą rengiantį, darantį ar padariusį asmenį;
+1) nusikalstamos veikos požymiai nėra nustatyti, bet turima informacijos apie rengiamą, daromą ar padarytą labai sunkų ar sunkų nusikaltimą arba apie apysunkius nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 131 straipsnyje, 145 straipsnio 2 dalyje, 146 straipsnio 2 ir 3 dalyse, 151 straipsnio 2 dalyje, 1511 straipsnio 3 dalyje, 153 ir 162 straipsniuose, 178 straipsnio 2 dalyje, 180 straipsnio 1 dalyje, 181 straipsnio 1 dalyje, 187 straipsnio 2 dalyje, 189 straipsnio 2 dalyje, 1891 straipsnio 1 dalyje, 198 straipsnio 2 dalyje, 213 straipsnio 1 dalyje, 214 ir 215 straipsniuose, 225 straipsnio 1 dalyje, 226 straipsnio 1 ir 2 dalyse, 227 straipsnio 1 ir 2 dalyse, 228 straipsnio 1 dalyje, 2281 ir 240 straipsniuose, 253 straipsnio 1 dalyje, 256 straipsnio 1 dalyje, 300 straipsnio 2 ir 3 dalyse, 301 straipsnio 2 dalyje, 302 straipsnio 2 dalyje, 307 straipsnio 1 ir 2 dalyse, 309 straipsnio 3 dalyje, arba apie nusikaltimą rengiantį, darantį ar padariusį asmenį;
 Straipsnio punkto pakeitimai:
 Nr. IX-1537, 2003-04-29, Žin., 2003, Nr. 47-2063 (2003-05-14), i. k. 1031010ISTA0IX-1537
 Nr. XI-1374, 2011-05-12, Žin., 2011, Nr. 65-3047 (2011-05-28), i. k. 1111010ISTA0XI-1374
+Nr. XI-1941, 2012-03-27, Žin., 2012, Nr. 42-2043 (2012-04-07), i. k. 1121010ISTA0XI-1941
  
 
 2) yra informacijos apie kitų valstybių specialiųjų tarnybų veiklą;
@@ -864,4 +870,9 @@ Lietuvos Respublikos operatyvinės veiklos įstatymo 3, 7, 9, 10, 11, 12, 13, 21
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1368, 2011-04-28, Žin., 2011, Nr. 57-2704 (2011-05-12), i. k. 1111010ISTA0XI-1368
 Lietuvos Respublikos operatyvinės veiklos įstatymo 17 straipsnio papildymo ir pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1941, 2012-03-27, Žin., 2012, Nr. 42-2043 (2012-04-07), i. k. 1121010ISTA0XI-1941
+Lietuvos Respublikos operatyvinės veiklos įstatymo 9 straipsnio pakeitimo įstatymas
 
