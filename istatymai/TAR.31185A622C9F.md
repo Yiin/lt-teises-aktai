@@ -4365,20 +4365,29 @@ specialios pertraukos įskaitomos į darbo laiką ir už jas mokamas darbuotojo
 vidutinis darbo užmokestis.
  
 214 straipsnis. Papildomos lengvatos asmenims, auginantiems vaikus
-Darbuotojams,
+1. Darbuotojams,
 auginantiems neįgalų vaiką iki aštuoniolikos metų arba du vaikus iki dvylikos
 metų, suteikiama viena papildoma poilsio diena per mėnesį (arba sutrumpinamas
 darbo laikas dviem valandomis per savaitę), o auginantiems tris ir daugiau
-vaikų iki dvylikos metų, − dvi dienos per mėnesį (arba atitinkamai
+vaikų iki dvylikos metų, – dvi dienos per mėnesį (arba atitinkamai
 sutrumpinamas darbo laikas keturiomis valandomis per savaitę), mokant
-darbuotojui jo vidutinį darbo užmokestį. Darbuotojų,
-dirbančių ilgesnėmis negu aštuonios darbo valandos pamainomis, prašymu
-šis papildomas poilsio laikas gali būti sumuojamas kas trys mėnesiai.
+darbuotojui jo vidutinį darbo užmokestį. Darbuotojų, dirbančių ilgesnėmis negu
+aštuonios darbo valandos pamainomis, prašymu šis papildomas poilsio
+laikas gali būti sumuojamas kas trys mėnesiai.
+2. Teisės į šio
+straipsnio 1 dalyje nustatytas papildomas poilsio dienas neturintiems
+darbuotojams, auginantiems bendrojo ugdymo mokykloje besimokantį vaiką iki
+dvylikos metų, suteikiama ne mažiau kaip pusė darbo dienos laisvo nuo darbo
+laiko per metus pirmąją mokslo metų dieną, mokant darbuotojo vidutinį darbo
+užmokestį.
 Straipsnio pakeitimai:
 Nr. X-294, 2005-06-30,
 Žin., 2005, Nr. 85-3138 (2005-07-14)
 Nr. XI-1332,
 2011-04-19, Žin., 2011, Nr. 52-2507 (2011-05-03)
+Nr.
+XI-1962,
+2012-04-12, Žin., 2012, Nr. 48-2331 (2012-04-24)
  
 215 straipsnis. Garantijos darbuotojams,
 siunčiamiems į medicinos įstaigas pasitikrinti sveikatos
@@ -4484,7 +4493,8 @@ nutraukimo pagrindas, jis privalo grąžinti įmonei visas lėšas, jam išmokė
 dėl persikėlimo dirbti į kitą vietovę.
 2. Darbuotojas,
 dėl svarbios priežasties neatvykęs į darbą arba atsisakęs pradėti dirbti,
-privalo grąžinti jam išmokėtas sumas, išskaičiavus iš jų jau turėtas kelionės išlaidas.
+privalo grąžinti jam išmokėtas sumas, išskaičiavus iš jų jau turėtas kelionės
+išlaidas.
  
 223
 straipsnis. Piniginių reikalavimų tenkinimas 
@@ -4492,9 +4502,9 @@ straipsnis. Piniginių reikalavimų tenkinimas
 piniginiai reikalavimai, atsirandantys iš darbo santykių, reikalavimai
 atlyginti žalą dėl suluošinimo ar kitokio kūno sužalojimo, susirgimo profesine
 liga arba žuvus dėl nelaimingo atsitikimo darbe yra tenkinami pirmąja eile.
-2. Šio
-straipsnio 1 dalyje nustatytiems reikalavimams tenkinti įstatymų nustatyta
-tvarka gali būti naudojamos Vyriausybės įsteigto specialaus fondo lėšos.
+2. Šio straipsnio
+1 dalyje nustatytiems reikalavimams tenkinti įstatymų nustatyta tvarka gali
+būti naudojamos Vyriausybės įsteigto specialaus fondo lėšos.
  
 224
 straipsnis. Išskaitų iš darbo užmokesčio pagrindai
@@ -4580,14 +4590,15 @@ reikalavimų, rūpintis darbuotojų poreikiais.
 230
 straipsnis. Darbo tvarkos taisyklės
 Darbo tvarką
-darbovietėje apibrėžia darbo tvarkos taisyklės. Jas tvirtina darbdavys,
-suderinęs su darbuotojų atstovais.
+darbovietėje apibrėžia darbo tvarkos taisyklės. Jas tvirtina darbdavys, suderinęs
+su darbuotojų atstovais.
  
 231
 straipsnis. Specialūs teisės aktai, reglamentuojantys darbo drausmę
 Kai kuriose
-šalies ūkio šakose ir srityse atskirų darbuotojų kategorijų darbo drausmę reglamentuoja
-įstatymai, drausmės statutai ir nuostatai ar kiti specialūs teisės aktai.
+šalies ūkio šakose ir srityse atskirų darbuotojų kategorijų darbo drausmę
+reglamentuoja įstatymai, drausmės statutai ir nuostatai ar kiti specialūs
+teisės aktai.
  
 232
 straipsnis. pareigybės aprašymai
@@ -4615,9 +4626,9 @@ darbuotojo kaltės.
 straipsnis. Šiurkštus darbo pareigų pažeidimas
 1. Šiurkštus
 darbo pareigų pažeidimas yra darbo drausmės pažeidimas, kuriuo šiurkščiai
-pažeidžiamos tiesiogiai darbuotojo darbą reglamentuojančių įstatymų ir kitų norminių
-teisės aktų nuostatos arba kitaip šiurkščiai nusižengiama darbo pareigoms ar
-nustatytai darbo tvarkai.
+pažeidžiamos tiesiogiai darbuotojo darbą reglamentuojančių įstatymų ir kitų
+norminių teisės aktų nuostatos arba kitaip šiurkščiai nusižengiama darbo
+pareigoms ar nustatytai darbo tvarkai.
 2. Šiurkščiu
 darbo pareigų pažeidimu laikoma:
 1) neleistinas
@@ -4645,13 +4656,14 @@ informacijos teikimas;
 turinčios vagystės, sukčiavimo, turto pasisavinimo arba iššvaistymo, neteisėto
 atlyginimo paėmimo požymių, nors už šias veikas darbuotojas ir nebuvo
 traukiamas baudžiamojon ar administracinėn atsakomybėn;
-8) tai, kad darbuotojas
-darbo metu darbe yra neblaivus, apsvaigęs nuo narkotinių ar toksinių medžiagų,
-išskyrus atvejus, kai apsvaigimą sukėlė įmonėje vykstantys gamybos procesai;
+8) tai, kad
+darbuotojas darbo metu darbe yra neblaivus, apsvaigęs nuo narkotinių ar
+toksinių medžiagų, išskyrus atvejus, kai apsvaigimą sukėlė įmonėje vykstantys
+gamybos procesai;
 9) neatvykimas į
 darbą be svarbių priežasčių visą darbo dieną (pamainą);
-10) atsisakymas tikrintis
-sveikatą, kai tokie patikrinimai darbuotojui yra privalomi;
+10) atsisakymas
+tikrintis sveikatą, kai tokie patikrinimai darbuotojui yra privalomi;
 11) kiti
 nusižengimai, kuriais šiurkščiai pažeidžiama darbo tvarka.
 Straipsnio pakeitimai:
@@ -4695,17 +4707,17 @@ drausminė nuobauda gali būti skiriama pakartotinai.
  
 240
 straipsnis. Drausminės nuobaudos skyrimo tvarka
-1. Prieš
-skirdamas drausminę nuobaudą, darbdavys turi raštu pareikalauti, kad
-darbuotojas raštu pasiaiškintų dėl darbo drausmės pažeidimo. Jei per darbdavio
-arba administracijos nustatytą terminą be svarbių priežasčių darbuotojas
-nepateikia pasiaiškinimo, drausminę nuobaudą galima skirti ir be pasiaiškinimo.
+1. Prieš skirdamas
+drausminę nuobaudą, darbdavys turi raštu pareikalauti, kad darbuotojas raštu
+pasiaiškintų dėl darbo drausmės pažeidimo. Jei per darbdavio arba
+administracijos nustatytą terminą be svarbių priežasčių darbuotojas nepateikia
+pasiaiškinimo, drausminę nuobaudą galima skirti ir be pasiaiškinimo.
             2. Įstatymų nustatytais
 atvejais prieš skiriant drausminę nuobaudą reikia gauti išankstinį atitinkamo
 organo sutikimą.
 3. Drausminė
-nuobauda skiriama darbdavio arba administracijos įsakymu (nurodymu) ir
-darbuotojui apie tai pranešama pasirašytinai.
+nuobauda skiriama darbdavio arba administracijos įsakymu (nurodymu) ir darbuotojui
+apie tai pranešama pasirašytinai.
  
 241
 straipsnis. Drausminės nuobaudos skyrimo terminas
@@ -4752,10 +4764,10 @@ ATSAKOMYBĖ
  
 245
 straipsnis. Materialinės atsakomybės atsiradimo pagrindas
-Materialinė
-atsakomybė atsiranda dėl teisės pažeidimo, kuriuo vienas darbo santykio
-subjektas padaro žalą kitam subjektui, neatlikdamas savo darbo pareigų arba
-netinkamai jas atlikdamas.
+Materialinė atsakomybė
+atsiranda dėl teisės pažeidimo, kuriuo vienas darbo santykio subjektas padaro
+žalą kitam subjektui, neatlikdamas savo darbo pareigų arba netinkamai jas
+atlikdamas.
  
 246
 straipsnis. Materialinės atsakomybės atsiradimo sąlygos
@@ -4888,13 +4900,13 @@ kolektyvinėje sutartyje.
 straipsnis. Visiškos materialinės atsakomybės sutartis
 1. Visiškos
 materialinės atsakomybės sutartis gali būti sudaroma su darbuotojais, kurių
-darbas yra tiesiogiai susijęs su materialinių vertybių saugojimu, priėmimu,
-išdavimu, pardavimu, pirkimu, gabenimu, ir dėl priemonių, perduotų darbuotojui
-naudotis darbe. Konkrečių darbų ir pareigų sąrašas nustatomas kolektyvinėje
-sutartyje. Ši sutartis įforminama raštu. Joje turi būti nustatyta, už kokias
-materialines vertybes darbuotojas prisiima visišką materialinę atsakomybę ir
-kokius įsipareigojimus prisiima darbdavys, užtikrindamas sąlygas, kad žala
-neatsirastų.
+darbas yra tiesiogiai susijęs su materialinių vertybių saugojimu,
+priėmimu, išdavimu, pardavimu, pirkimu, gabenimu, ir dėl priemonių, perduotų
+darbuotojui naudotis darbe. Konkrečių darbų ir pareigų sąrašas nustatomas
+kolektyvinėje sutartyje. Ši sutartis įforminama raštu. Joje turi būti
+nustatyta, už kokias materialines vertybes darbuotojas prisiima visišką
+materialinę atsakomybę ir kokius įsipareigojimus prisiima darbdavys,
+užtikrindamas sąlygas, kad žala neatsirastų.
 2. Tais
 atvejais, kai dėl kartu dirbamo darbo neįmanoma atriboti atskirų darbuotojų
 atsakomybės, gali būti sudaroma visiškos materialinės atsakomybės sutartis su
@@ -5024,16 +5036,16 @@ galimą riziką darbuotojų saugai ir sveikatai;
 2) užpildo Įmonės
 darbuotojų saugos ir sveikatos būklės pasą. Jame nustatoma, kurios darbo
 vietos, darbo priemonės, darbo ir poilsio laikas atitinka darbuotojų saugos ir
-sveikatos norminių teisės aktų reikalavimus, taip pat nustatomos darbuotojų
-saugos ir sveikatos gerinimo priemonės, jei darbuotojų saugos ir sveikatos
-būklė neatitinka reikalavimų;
+sveikatos norminių teisės aktų reikalavimus, taip pat nustatomos darbuotojų saugos
+ir sveikatos gerinimo priemonės, jei darbuotojų saugos ir sveikatos būklė
+neatitinka reikalavimų;
 3) pagal Įmonių
 darbuotojų saugos ir sveikatos tarnybų nuostatus nustato darbuotojų saugos ir
 sveikatos reikalavimų laikymosi kontrolės tvarką įmonėje, tvirtindamas įmonės
 darbuotojų saugos ir sveikatos tarnybos nuostatus arba įmonės darbuotojų saugos
 specialistų pareigines instrukcijas, duodamas įpareigojimus padalinių vadovams
-įgyvendinti darbuotojų saugos ir sveikatos priemones ir kontroliuoti, kaip
-laikomasi darbuotojų saugos ir sveikatos reikalavimų;
+įgyvendinti darbuotojų saugos ir sveikatos priemones ir kontroliuoti, kaip laikomasi
+darbuotojų saugos ir sveikatos reikalavimų;
 4) rengia įmonės
 darbuotojų saugos ir sveikatos vietinius (lokalinius) norminius teisės aktus
 (darbuotojų saugos ir sveikatos instrukcijas, saugaus darbų atlikimo taisykles
@@ -5069,9 +5081,9 @@ pamaininiai darbuotojai privalo pasitikrinti sveikatą prieš įsidarbindami, o
 dirbdami – tikrintis periodiškai, pagal įmonėje, įstaigoje, organizacijoje
 patvirtintą darbuotojų sveikatos pasitikrinimų grafiką.
             5. Darbdavys tvirtina
-darbuotojų, kuriems privaloma pasitikrinti sveikatą, sąrašą ir su sveikatos priežiūros
-įstaiga suderintą sveikatos pasitikrinimų grafiką; su juo pasirašytinai
-supažindina darbuotojus.
+darbuotojų, kuriems privaloma pasitikrinti sveikatą, sąrašą ir su sveikatos
+priežiūros įstaiga suderintą sveikatos pasitikrinimų grafiką; su juo
+pasirašytinai supažindina darbuotojus.
 6. Privalomi
 sveikatos patikrinimai atliekami darbo laiku. Už privalomus įsidarbinančių
 asmenų bei darbuotojų sveikatos patikrinimus sveikatos priežiūros įstaigoms
@@ -5135,8 +5147,8 @@ ar jo įgaliotas asmuo atsisako vykdyti įmonės darbuotojų saugos ir
 sveikatos komiteto ar darbuotojų atstovų reikalavimą, komitetas, darbuotojų
 atstovai apie tai praneša Valstybinei darbo inspekcijai;
 3) darbo
-inspektorius, įvertinęs darbuotojų saugos ir sveikatos būklę, gali priimti
-sprendimą įpareigoti darbdavį sustabdyti darbus;
+inspektorius, įvertinęs darbuotojų saugos ir sveikatos būklę, gali priimti sprendimą
+įpareigoti darbdavį sustabdyti darbus;
 4) jei darbdavys
 ar padalinio vadovas atsisako vykdyti darbo inspektorių reikalavimus,
 pastarieji turi teisę kreiptis į policiją pagalbos, kad būtų įvykdytas
@@ -5225,10 +5237,10 @@ negali reikalauti, kad darbuotojas pradėtų darbą įmonėje, jeigu jis neapmok
 ir (ar) neinstruktuotas saugiai dirbti. 
 2. Darbdavys
 užtikrina, kad darbuotojas, pasiųstas į įmonę iš bet kurios kitos įmonės,
-nepradėtų darbo tol, kol nėra informuotas apie esamus ir galimus rizikos
-veiksnius įmonėje, neinstruktuotas saugiai dirbti konkrečioje darbo vietoje,
-nepaisant to, kad įmonėje, kurioje jis nuolat dirba, buvo nustatyta tvarka
-instruktuotas ir apmokytas saugiai dirbti.
+nepradėtų darbo tol, kol nėra informuotas apie esamus ir galimus rizikos veiksnius
+įmonėje, neinstruktuotas saugiai dirbti konkrečioje darbo vietoje, nepaisant
+to, kad įmonėje, kurioje jis nuolat dirba, buvo nustatyta tvarka instruktuotas
+ir apmokytas saugiai dirbti.
  
 271 straipsnis. Darbuotojų aprūpinimas apsaugos
 priemonėmis
@@ -5237,13 +5249,13 @@ vadovaudamasis darbuotojų saugos ir sveikatos norminiais teisės aktais ir
 įvertinęs darbuotojų saugos ir sveikatos būklę įmonėje, įrengia kolektyvines
 apsaugos priemones, nemokamai išduoda darbuotojams asmenines apsaugos
 priemones.
-2. Jei
-kolektyvinės apsaugos priemonės neužtikrina darbuotojų apsaugos nuo rizikos
-veiksnių, darbuotojams privalo būti išduodamos asmeninės apsaugos priemonės.
-Asmeninės apsaugos priemonės turi būti pritaikytos darbui, patogios naudoti ir
-neturi sudaryti papildomų pavojų darbuotojų saugai. Asmeninių apsaugos
-priemonių projektavimo, gamybos, atitikties įvertinimo reikalavimus nustato
-darbuotojų saugos ir sveikatos norminiai teisės aktai.
+2. Jei kolektyvinės
+apsaugos priemonės neužtikrina darbuotojų apsaugos nuo rizikos veiksnių,
+darbuotojams privalo būti išduodamos asmeninės apsaugos priemonės. Asmeninės
+apsaugos priemonės turi būti pritaikytos darbui, patogios naudoti ir neturi
+sudaryti papildomų pavojų darbuotojų saugai. Asmeninių apsaugos priemonių
+projektavimo, gamybos, atitikties įvertinimo reikalavimus nustato darbuotojų
+saugos ir sveikatos norminiai teisės aktai.
  
 272
 straipsnis. Sveikatos priežiūros paslaugų organizavimas
@@ -5259,18 +5271,19 @@ organizuoja darbdavys ar padalinio vadovas.
 Darbdavys kolektyvinėje sutartyje nustatyta tvarka sudaro sąlygas teikti kitas
 sveikatos priežiūros paslaugas.
  
-273 straipsnis. Darbdavio pareiga perkelti
-darbuotoją dėl sveikatos būklės į kitą darbą
+273 straipsnis. Darbdavio pareiga perkelti darbuotoją
+dėl sveikatos būklės į kitą darbą
             1. Darbuotojas, kuris pagal
 Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės apsaugos ir darbo
 ministerijos ar sveikatos priežiūros įstaigos išvadą dėl sveikatos būklės
 negali dirbti sutarto darbo (eiti pareigų), nes tai pavojinga jo sveikatai arba
 jo darbas gali būti pavojingas kitiems, jo sutikimu turi būti perkeltas
 į jo sveikatą ir esant galimybei kvalifikaciją atitinkantį darbą. 
-2. Jeigu darbuotojas
-nesutinka būti perkeltas į siūlomą darbą arba įmonėje nėra darbo, į kurį jis
-galėtų būti perkeltas, darbdavys šio Kodekso nustatyta tvarka atleidžia
-darbuotoją iš darbo, išskyrus atvejį, nustatytą Kodekso 212 straipsnyje.
+2. Jeigu
+darbuotojas nesutinka būti perkeltas į siūlomą darbą arba įmonėje nėra darbo, į
+kurį jis galėtų būti perkeltas, darbdavys šio Kodekso nustatyta tvarka
+atleidžia darbuotoją iš darbo, išskyrus atvejį, nustatytą Kodekso 212
+straipsnyje.
 Straipsnio pakeitimai:
 Nr. X-294, 2005-06-30,
 Žin., 2005, Nr. 85-3138 (2005-07-14)
@@ -5303,8 +5316,8 @@ kenksmingus ir (ar) pavojingus veiksnius;
 su išankstinių ir periodinių sveikatos tikrinimų rezultatais; nesutikus su
 patikrinimo rezultatais, sveikatą pasitikrinti pakartotinai;
 4) įgalioti
-darbuotojų atstovą (atstovus) ar pačiam tartis su darbdaviu dėl darbuotojų
-saugos ir sveikatos gerinimo;
+darbuotojų atstovą (atstovus) ar pačiam tartis su darbdaviu dėl darbuotojų saugos
+ir sveikatos gerinimo;
 5) atsisakyti
 dirbti, jeigu yra pavojus darbuotojų saugai ir sveikatai, taip pat
 dirbti tuos darbus, kuriuos saugiai atlikti nėra apmokytas, jei neįrengtos
@@ -5399,8 +5412,8 @@ priklausantis vidutinis mėnesinis darbo užmokestis.
 galimybės neseniai pagimdžiusią moterį ar krūtimi maitinančią moterį po nėštumo
 ir gimdymo atostogų perkelti į kitą darbą (darbo vietą), neturintį neigiamo
 poveikio jos ar kūdikio sveikatai, tokiai moteriai jos sutikimu suteikiamos
-vaiko priežiūros atostogos, kol vaikui sueis vieneri metai, ir jai per tą laikotarpį
-mokamos įstatymų nustatytos motinystės socialinio draudimo pašalpos.
+vaiko priežiūros atostogos, kol vaikui sueis vieneri metai, ir jai per tą
+laikotarpį mokamos įstatymų nustatytos motinystės socialinio draudimo pašalpos.
 7. Kai nėščiai,
 neseniai pagimdžiusiai moteriai ar krūtimi maitinančiai moteriai reikia
 pasitikrinti sveikatą, ji privalo būti atleidžiama nuo darbo ir už tą laiką
@@ -5409,10 +5422,10 @@ metu.
 8. Krūtimi
 maitinančiai moteriai, be bendros pertraukos pailsėti ir pavalgyti, ne rečiau
 kaip kas trys valandos suteikiamos ne trumpesnės kaip pusės valandos pertraukos
-kūdikiui maitinti. Moters pageidavimu pertraukas kūdikiui maitinti galima
-sujungti ar pridėti prie pertraukos pailsėti ir pavalgyti arba perkelti į darbo
-dienos pabaigą atitinkamai sutrumpinant darbo dieną. Pertraukos kūdikiui
-maitinti apmokamos pagal darbuotojos vidutinį darbo užmokestį.
+kūdikiui maitinti. Moters pageidavimu pertraukas kūdikiui maitinti galima sujungti
+ar pridėti prie pertraukos pailsėti ir pavalgyti arba perkelti į darbo dienos
+pabaigą atitinkamai sutrumpinant darbo dieną. Pertraukos kūdikiui maitinti
+apmokamos pagal darbuotojos vidutinį darbo užmokestį.
 9. Nėščias,
 neseniai pagimdžiusias moteris ar krūtimi maitinančias moteris skirti
 viršvalandiniams darbams be jų sutikimo draudžiama. 
@@ -5473,12 +5486,12 @@ straipsnis. Nelaimingų atsitikimų, profesinių ligų tyrimas
 įmonėms, įstaigoms, organizacijoms privaloma vienoda nelaimingų atsitikimų
 darbe, profesinių ligų tyrimo ir apskaitos tvarka. Nelaimingų atsitikimų darbe
 ir profesinių ligų tyrimo bei apskaitos nuostatus tvirtina Vyriausybė.
-2. Nukentėjęs asmuo
-arba jo atstovas nustatyta tvarka gali dalyvauti tiriant nelaimingą atsitikimą
-darbe, turi teisę susipažinti su nelaimingo atsitikimo darbe ar profesinės
-ligos tyrimo medžiaga, privalo gauti nelaimingo atsitikimo darbe ar profesinės
-ligos tyrimo aktą, tyrimo rezultatus ir išvadas gali apskųsti vyriausiajam
-valstybiniam darbo inspektoriui ir teismui.
+2. Nukentėjęs
+asmuo arba jo atstovas nustatyta tvarka gali dalyvauti tiriant nelaimingą
+atsitikimą darbe, turi teisę susipažinti su nelaimingo atsitikimo darbe ar
+profesinės ligos tyrimo medžiaga, privalo gauti nelaimingo atsitikimo darbe ar
+profesinės ligos tyrimo aktą, tyrimo rezultatus ir išvadas gali apskųsti
+vyriausiajam valstybiniam darbo inspektoriui ir teismui.
  
 283
 straipsnis. Atlyginimas už sužalotą sveikatą
@@ -5495,9 +5508,9 @@ kodekso nustatyta tvarka atlygina darbdavys.
  
 284 straipsnis.
 Darbuotojų saugos ir sveikatos valdymas ir kontrolė
-1. Socialinės
-apsaugos ir darbo ministerija, Sveikatos apsaugos ministerija, vadovaudamosi
-Lietuvos Respublikos Konstitucija, šiuo kodeksu,
+1. Socialinės apsaugos
+ir darbo ministerija, Sveikatos apsaugos ministerija, vadovaudamosi Lietuvos
+Respublikos Konstitucija, šiuo kodeksu,
 kitais įstatymais, Vyriausybės nutarimais ir kitais norminiais teisės aktais,
 pagal savo kompetenciją įgyvendina valstybės politiką darbuotojų saugos ir
 sveikatos srityje.
@@ -5619,9 +5632,8 @@ straipsnis. Darbo ginčų komisijos sprendimo apskundimas
 1. Darbuotojas,
 nepatenkintas darbo ginčų komisijos sprendimu, taip pat tais atvejais, kai
 darbo ginčas darbo ginčų komisijoje nebuvo išspręstas per šio Kodekso 291
-straipsnio 1 dalyje numatytus terminus, ir tais atvejais, kai darbo ginčų
-komisijoje šalys nesusitarė, per vieną mėnesį gali kreiptis su ieškiniu į
-teismą.
+straipsnio 1 dalyje numatytus terminus, ir tais atvejais, kai darbo ginčų komisijoje
+šalys nesusitarė, per vieną mėnesį gali kreiptis su ieškiniu į teismą.
 2. Darbo ginčų
 komisijos sprendimo darbdavys apskųsti negali.
 Straipsnio pakeitimai:
@@ -5721,9 +5733,9 @@ Nr. X-188, 2005-05-12,
  
 298
 straipsnis. Piniginių reikalavimų tenkinimas
-Darbuotojui
-priklausančios darbo užmokesčio ir kitos su darbo santykiais susijusios sumos
-priteisiamos ne daugiau kaip už trejus metus.
+Darbuotojui priklausančios
+darbo užmokesčio ir kitos su darbo santykiais susijusios sumos priteisiamos ne
+daugiau kaip už trejus metus.
  
 299
 straipsnis. Skubus sprendimų ir nutarčių vykdymas
@@ -5802,14 +5814,14 @@ p. 431–436).
 darbo dieną, kurį sudarė Europos pramonės ir darbdavių konfederacijų sąjunga
 (UNICE), Europos įmonių, kuriose dalyvauja valstybė, centras (CEEP) ir Europos
 profesinių sąjungų konfederacija (ETUC) (OL 2004 m. specialusis leidimas, 5 skyrius, 3 tomas, p. 267). 
-4. 1998 m. liepos 20 d. Tarybos direktyva 98/59/EB dėl valstybių narių įstatymų, susijusių su
-kolektyviniu atleidimu iš darbo, suderinimo (OL 2004 m. specialusis leidimas, 5 skyrius, 3 tomas, p. 327). 
+4. 1998 m. liepos 20 d. Tarybos direktyva 98/59/EB dėl valstybių narių įstatymų, susijusių su kolektyviniu
+atleidimu iš darbo, suderinimo (OL 2004 m. specialusis leidimas, 5 skyrius, 3 tomas, p. 327). 
 5. 2001 m. kovo 12 d. Tarybos direktyva 2001/23/EB dėl valstybių narių
 įstatymų, skirtų darbuotojų teisių apsaugai įmonių, verslo arba įmonių ar
 verslo dalių perdavimo atveju, suderinimo (OL 2004 m. specialusis leidimas, 5 skyrius, 4 tomas, p. 98).  
 6. 2002 m. kovo 11 d. Europos Parlamento ir Tarybos direktyva 2002/14/EB dėl bendros
-darbuotojų informavimo ir konsultavimosi su jais sistemos sukūrimo Europos
-bendrijoje (OL
+darbuotojų informavimo ir konsultavimosi su jais sistemos sukūrimo Europos bendrijoje
+(OL
  2004 m. specialusis leidimas, 5 skyrius, 4 tomas, p. 219).
 7. 2002 m.
 rugsėjo 23 d. Europos Parlamento ir Tarybos direktyva 2002/73/EB, iš dalies
@@ -5836,8 +5848,8 @@ Nr. X-1534,
 2008-05-13, Žin., 2008, Nr. 63-2375 (2008-06-03)
 Nr. XI-335,
 2009-07-14, Žin., 2009, Nr. 87-3664 (2009-07-23)
-Nr. XI-589,
-2009-12-21, Žin., 2010, Nr. 1-4 (2010-01-05)
+Nr. XI-589, 2009-12-21,
+Žin., 2010, Nr. 1-4 (2010-01-05)
  
 ____________________
  
@@ -5846,8 +5858,8 @@ Pakeitimai:
 1.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-1656, 2003-06-26,
-Žin., 2003, Nr. 70-3167 (2003-07-16)
+Nr. IX-1656,
+2003-06-26, Žin., 2003, Nr. 70-3167 (2003-07-16)
 DARBO
 KODEKSO 162 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
  
@@ -5909,8 +5921,8 @@ Nr. X-660, 2006-06-08,
 DARBO
 KODEKSO 170 IR 178 STRAIPSNIŲ PAKEITIMO IR KODEKSO PAPILDYMO 179(1) STRAIPSNIU
 ĮSTATYMAS
-Šis įstatymas
-įsigalioja nuo 2006 m. liepos 1 d.
+Šis
+įstatymas įsigalioja nuo 2006 m. liepos 1 d.
  
 8.
 Lietuvos
@@ -6058,8 +6070,8 @@ straipsnio, 206 straipsnio 1 dalies 1 punkto ir 256 straipsnio 1 dalies
 redakcijos.
  
 22.
-Lietuvos Respublikos
-Seimas, Įstatymas
+Lietuvos
+Respublikos Seimas, Įstatymas
 Nr. XI-589,
 2009-12-21, Žin., 2010, Nr. 1-4 (2010-01-05)
 DARBO KODEKSO
@@ -6126,8 +6138,8 @@ PAKEITIMO ĮSTATYMAS
 29.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XI-1380, 2011-05-19,
-Žin., 2011, Nr. 69-3288 (2011-06-07)
+Nr. XI-1380,
+2011-05-19, Žin., 2011, Nr. 69-3288 (2011-06-07)
 DARBO
 KODEKSO 88, 108, 113, 130(1), 132 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis
@@ -6162,13 +6174,20 @@ KODEKSO 140, 141 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis
 įstatymas taikomas asmenims, atleistiems iš darbo po šio įstatymo įsigaliojimo.
  
+33.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-1962,
+2012-04-12, Žin., 2012, Nr. 48-2331 (2012-04-24)
+DARBO
+KODEKSO 214 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2011-12-01)
+Aušrinė Trapinskienė (2012-04-24)
                  
 ausrine.trapinskiene@lrs.lt
 
