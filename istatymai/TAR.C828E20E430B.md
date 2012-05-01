@@ -13,10 +13,17 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C828E20E430B"
 
 # Lietuvos Respublikos kino įstatymas
 
-Suvestinė redakcija nuo 2010-03-01 iki 2012-04-30
+Suvestinė redakcija nuo 2012-05-01 iki 2014-06-16
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 31-1107, i. k. 1021010ISTA00IX-752
  
+TAR pastaba. Vienus metus nuo šio įstatymo įsigaliojimo rodant filmus, indeksuotus iki šio įstatymo įsigaliojimo, gali būti naudojami pagal anksčiau galiojusias Lietuvos Respublikos kino įstatymo nuostatas suteikti filmų indeksai. Pradėjus veikti Lietuvos kino centrui prie Kultūros ministerijos, veikiantis Filmų registras reorganizuojamas, jo turimi duomenys perduodami Lietuvos kino centrui prie Kultūros ministerijos Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo nustatyta tvarka. Filmų registre įregistruotiems filmams, kuriems pagal žiūrovų amžiaus cenzą suteikti filmų indeksai „A“, „T“ ir „S“, suteikiami nauji indeksai „V“, „N-13“ ir „N-18“. Filmų įregistravimas Filmų registre, atliktas iki šio įstatymo įsigaliojimo dienos, galioja iki filmų teisių, suteiktų ar perduotų pagal autorines, licencines ar kitas su autorių teisių turėtojais sudarytas sutartis, galiojimo Lietuvos Respublikos teritorijoje pabaigos. Šio įstatymo nuostatos, susijusios su Europos Komisijos nustatytais valstybės pagalbos kriterijais, galioja tol, kol Europos Komisija paskelbia naujus kriterijus, bet ne ilgiau kaip iki 2016 m. sausio 1 d.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1897, 2011-12-22, Žin., 2012, Nr. 6-192 (2012-01-10), i. k. 1111010ISTA0XI-1897
+Lietuvos Respublikos kino įstatymo pakeitimo įstatymas
+ 
+Nauja redakcija nuo 2012-05-01:
+Nr. XI-1897, 2011-12-22, Žin. 2012, Nr. 6-192 (2012-01-10), i. k. 1111010ISTA0XI-1897
  
 LIETUVOS RESPUBLIKOS KINO ĮSTATYMAS
  
@@ -33,7 +40,7 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis Įstatymas nustato kino valstybinio valdymo pagrindus, nacionalinio filmo sąvoką, nacionalinių filmų gamybos, platinimo ir viešo rodymo tvarką bei finansavimą ir užsienio filmų platinimo bei viešo rodymo tvarką Lietuvos Respublikoje. 
+Šis įstatymas nustato kino, kaip svarbios Lietuvos kultūros srities, valstybinio valdymo ir valstybinio finansavimo pagrindus, kino paveldo apsaugą, filmų platinimo ir rodymo kino teatruose tvarką Lietuvos Respublikoje.
  
 
 
@@ -44,22 +51,7 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Įstatymo taikymas
 
 
-1. Šio Įstatymo nuostatos taikomos juridiniams ir fiziniams asmenims: 
-
-
-1) gaminant visų rūšių nacionalinius filmus, rengiant jų gamybos projektus, platinant, viešai rodant ir saugant nacionalinius bei užsienio filmus;
-
-
-
-
-2) gaminant, platinant ir viešai rodant visų rūšių nacionalinius filmus bei platinant ir viešai rodant užsienio filmus Lietuvos Respublikoje pagal Lietuvos Respublikos tarptautines sutartis.
-
-
-
-
-
-
-2. Jeigu Lietuvos Respublikos tarptautinėse sutartyse nustatytos kitokios nuostatos negu šiame Įstatyme, taikomos tarptautinių sutarčių nuostatos.
+Šio įstatymo nuostatos taikomos Lietuvos Respublikos fiziniams ir juridiniams asmenims ir kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje įsteigtoms kitoms organizacijoms gaminant, platinant, kino teatruose rodant filmus.
  
 
 
@@ -67,110 +59,115 @@ BENDROSIOS NUOSTATOS
 
 
 
-3 straipsnis. Pagrindinės šio Įstatymo sąvokos
+3 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Bendra filmo gamyba (koprodukcija) – filmo gamyba dalyvaujant Lietuvos prodiuseriui ir gamintojui bei užsienio prodiuseriui ir gamintojui, atsižvelgiant į Lietuvos Respublikos civilinio kodekso, kitų įstatymų ir teisės aktų nuostatas, Lietuvos Respublikos tarptautines sutartis.
+1. Bendra filmo gamyba – filmo gamyba dalyvaujant Lietuvos filmo gamintojui ir užsienio filmo gamintojui, vadovaujantis Lietuvos Respublikos civiliniu kodeksu, Lietuvos Respublikos tarptautinėmis sutartimis ir kitais teisės aktais.
 
 
 
 
-2. Filmas – garso ir vaizdo (audiovizualinis) kūrinys, kurį sudaro temos susieti vaizdai, nuosekliai užfiksuoti filmo juostoje arba kitoje laikmenoje ir skirti atkurti techninės viešo rodymo įrangos priemonėmis. Pagal trukmę filmai gali būti pilnametražiai ir trumpametražiai. Pilnametražio filmo trukmė – ne mažiau kaip 60 minučių, o trumpametražio – mažiau kaip 60 minučių.
+2. Eksperimentinis filmas – novatoriško turinio ir (ar) formos filmas, kurio meninė vertė yra svarbesnė už komercinę sėkmę.
 
 
 
 
-3. Filmo gamyba – kūrybinio sumanymo įgyvendinimo procesas, kurio metu sukuriama meninė-materialinė vertybė – garso ir vaizdo (audiovizualinis) kūrinys.
+3. Filmas – garso ir vaizdo kūrinys, kurį sudaro juostoje ar kitoje laikmenoje nuosekliai užfiksuoti temos susieti vaizdai ir kuris skirtas atkurti bet kokiomis techninėmis priemonėmis ir rodyti.
 
 
 
 
-4. Filmo gamybos projektas – scenarijus, kalendorinis filmo gamybos planas, gamybos išlaidų sąmata ir verslo planas.
+4. Filmo gamyba – filmo kūrybinio sumanymo įgyvendinimo etapas, kurio metu filmuojant pagal scenarijų, kalendorinį darbų planą ir laikantis sąmatos yra sukuriamas filmas.
 
 
 
 
-5. Filmo gamintojas – juridinis asmuo, kurio veiklos rūšis yra filmo gamyba.
+5. Filmo gamintojas – Lietuvos Respublikos ar kitos Europos ekonominės erdvės valstybės pilietis, kitas fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, taip pat Lietuvos Respublikoje ar kitoje Europos ekonominės erdvės valstybėje įsteigtas juridinis asmuo ar kita organizacija, ar jų padaliniai, kurie verčiasi filmų gamyba ir yra atsakingi už kūrybinį, organizacinį, finansinį filmo gamybos procesą.
 
 
 
 
-6. Filmų platinimas (distribucija) – filmų nuoma, pardavimas ar panauda viešam rodymui arba individualiam naudojimui. 
+6. Filmo platinimas – filmo originalo ar jo kopijų nuoma, panauda ar pardavimas.
 
 
 
 
-7. Filmo prodiuseris – fizinis ar juridinis asmuo, kuris organizuoja arba (ir) finansuoja filmo gamybą bei platinimą.
+7. Filmo rodymas – filmo pateikimas žiūrovams bet kokiomis, atitinkančiomis specialius kokybės reikalavimus, techninės įrangos priemonėmis kino teatruose, per televiziją ir kitose viešosiose vietose.
 
 
 
 
-8. Filmo rodymas – viešas filmo rodymas bet kokiomis techninės kino įrangos priemonėmis kino ir videosalėse, per televiziją ir kitose viešose vietose.
+8. Filmo tiražavimas – filmo kopijų gamyba.
 
 
 
 
-9. Filmo tiražavimas – vienos ar daugiau filmo kopijų pagaminimas filmo juostoje, magnetinėje juostoje, lazeriniame diske arba kitoje laikmenoje.
+9. Kinas – kultūros sritis, apimanti kūrybinę ir gamybinę kino veiklą, filmų platinimą, jų rodymą, kino teatrų veiklą, kino sklaidą, jo paveldo apsaugą.
 
 
 
 
-10. Kinas – kultūros sritis, apimanti kūrybinę, gamybinę, mokslinę, techninę, mokomąją, informacinę, švietėjišką veiklą, kurios pagrindinis tikslas – gaminti ir rodyti filmus.
+10. Kino paveldas – Lietuvos Respublikos dokumentų ir archyvų įstatymo (toliau – Dokumentų ir archyvų įstatymas) nustatyta tvarka kaupiama, saugoma, dokumentuojama, restauruojama, prireikus švietimo, mokslo ir kultūros reikmėms naudojama originali filmų medžiaga arba medžiaga, iš kurios galima atkurti filmą.
 
 
 
 
-11. Kino organizacija – juridinis asmuo, kurio pagrindinė veiklos sritis yra viena iš šių: filmų gamyba, tiražavimas, platinimas, viešas rodymas, filmų saugojimas, kino reklama, kino leidyba, kino meno populiarinimas.
+11. Kino priemonės – žaliavos, rekvizitas, paviljonai, techninė įranga (įrenginiai, aparatūra, techniniai prietaisai, jų atsarginės dalys), naudojami filmams gaminti, tiražuoti, platinti ir rodyti.
 
 
 
 
-12. Kino paveldas – paveldėtos, saugomos ir perduodamos vėlesnėms kartoms visų rūšių ir žanrų nacionalinių filmų originalios medžiagos, filmų kopijos.
+12. Kino projektas – siekiant gauti valstybinį finansavimą teikiamas kino sumanymo įgyvendinimo planas. Gali būti finansuojami parengiamieji filmo darbai, filmo gamyba, kino sklaida, filmų platinimas, rodymas, kino paveldo kaupimas ir apsauga.
 
 
 
 
-13. Kino priemonės – žaliavos, rekvizitas, paviljonai, techninė įranga (įrengimai, aparatūra, techniniai prietaisai, jų atsarginės dalys), naudojami filmų gamybai, tiražavimui, platinimui, viešam rodymui.
+13. Kino sklaida – filmų, jų kūrėjų ir gamintojų pristatymas kino festivaliuose, forumuose, retrospektyvose, edukaciniuose renginiuose, kino leidiniuose, specializuotose interneto svetainėse.
 
 
 
 
-14. Kino programa – renginiai (festivaliai, teminiai rodymai, retrospektyvos, filmų pristatymai, paskaitos, seminarai, fakultatyvai ir kt.), skirti populiarinti kino meną, taip pat visuma priemonių, kurių tikslas – modernizuoti filmų gamybos ir viešo rodymo materialinę techninę bazę.
+14. Kino teatras – speciali vieta, skirta filmams nuolat rodyti.
 
 
 
 
-15. Kino salė (videosalė) – patalpa, turinti reikiamą techninę įrangą, skirtą filmams viešai rodyti.
+15. Lietuvos filmo gamintojas – filmo gamintojas – fizinis asmuo, kuris yra Lietuvos Respublikos pilietis, arba kitas fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, turintys teisę gyventi Lietuvos Respublikoje, arba Lietuvos Respublikoje įsteigtas juridinis asmuo ar jo padalinys, taip pat Ekonominės erdvės valstybėje įsteigto juridinio asmens ar kitos organizacijos padalinys ar dukterinė bendrovė, įsteigti Lietuvos Respublikoje.
 
 
 
 
-16. Kino teatras – juridinis asmuo, kurio pagrindinė veiklos sritis yra viešas filmų rodymas.
+16. Mažo biudžeto filmas – filmas, kurio gamybos sąnaudos yra mažesnės negu dviguba valstybės finansavimo kvota, tiems metams nustatyta Lietuvos kino centro.
 
 
 
 
-17. Lietuvos prodiuseris – fizinis asmuo, kuris yra Lietuvos Respublikos pilietis arba nuolat gyvena Lietuvoje, arba Lietuvoje įregistruotas juridinis asmuo, kuris organizuoja arba (ir) finansuoja filmo gamybą bei platinimą.
+17. Originali filmo medžiaga – filmui kokybiškai atgaminti ir tiražuoti būtina ir ilgalaikiam saugojimui tinkama medžiaga (negatyvas, kontrolinė kopija, muzikos ir triukšmų fonograma ir kt.), taip pat pirmasis filmo įrašas.
 
 
 
 
-18. Originalios filmo medžiagos – filmams tiražuoti reikalingos medžiagos (negatyvas, kontratipas, kontrolinė kopija, suvestinė kalbos, muzikos ir triukšmų fonograma ir kitos medžiagos).
+18. Parengiamieji filmo darbai – filmo kūrybinio sumanymo įgyvendinimo etapas, kurio metu sukuriamas scenarijus, įsigyjamos teisės naudoti kūrinius ir gretutinių teisių objektus, renkama medžiaga archyvuose, parengiamas kalendorinis darbų planas (filmavimo darbų eiga, suskirstyta pagal sunumeruotas scenas, jas atitinkančias dekoracijas ir motyvus), sudaroma kūrybinė grupė, numatomos pagrindinių vaidmenų atlikėjų ir kitų dalyvių filmavimo ir repeticijų datos, sukuriami dekoracijų, kostiumų eskizai, parengiami grafiniai projektai, surandami investuotojai ir partneriai, sudaroma detali filmo gamybos sąmata ir rinkodaros strategija, kiti iki filmo gamybos etapo būtini atlikti darbai.
 
 
 
 
-19. Pornografinis filmas – filmas, kuriame vienprasmiškai, atvirai ir detaliai rodomas lytinis aktas arba rodomi lytiniai iškrypimai (mazochizmas, nekrofilija, pedofilija, sadomazochizmas, zoofilija) ir tai yra pagrindinis filmo tikslas. Pornografinius filmus gaminti, platinti ir viešai rodyti bei užsienio pornografinius filmus platinti ir viešai rodyti draudžia Lietuvos Respublikos įstatymai.
+19. Pornografinis filmas – filmas, kurio pagrindinis tikslas – atvirai ir detaliai vaizduoti lytinį aktą, lytinius organus, tuštinimąsi, masturbaciją arba lytinius iškrypimus (pedofiliją, sadizmą, mazochizmą, zoofiliją, nekrofiliją ir kt.). Pornografinius filmus gaminti, platinti ir rodyti draudžia Lietuvos Respublikos įstatymai.
 
 
 
 
-20. Užsienio prodiuseris – fizinis asmuo, kuris nėra Lietuvos Respublikos pilietis ir nuolat negyvena Lietuvoje, neatsižvelgiant į tai, ar jis turi kurios nors užsienio valstybės pilietybę, ar neturi jokios, arba bet kurioje užsienio valstybėje įregistruotas juridinis asmuo, kuris organizuoja arba (ir) finansuoja filmo gamybą bei platinimą.
+20. Smurtinis filmas – filmas, kuriame detaliai rodomas žmonių, gyvūnų žudymas, žalojimas, kankinimas ar kitoks skausmą, diskomfortą sukeliantis ar kitokią (fizinę, psichologinę, turtinę) žalą žmonėms ar gyvūnams darantis elgesys, taip pat vandalizmas ir (ar) teigiamai vertinama, skatinama prievarta, žiaurumas ar mėgaujamasi tuo.
 
 
 
 
-21. Valstybės filmų registro tvarkymas – registro duomenų rinkimas, kaupimas, apdorojimas, saugojimas, teikimas.
+21. Užsienio filmo gamintojas – filmo gamintojas – fizinis asmuo, neatsižvelgiant į tai, ar jis turi kurios nors užsienio valstybės pilietybę, arba bet kurioje užsienio valstybėje įsteigtas juridinis asmuo ar kita organizacija, taip pat jų padaliniai.
+
+
+
+
+22. Valstybinis kino projektų finansavimas (toliau – valstybinis finansavimas) – Sutartyje dėl Europos Sąjungos veikimo apibrėžta ir pagal su Europos Komisija suderintą schemą kino projektams įgyvendinti teikiama valstybės parama iš valstybės biudžeto lėšų.
  
 
 
@@ -181,42 +178,27 @@ BENDROSIOS NUOSTATOS
 4 straipsnis. Nacionalinis filmas
 
 
-1. Nacionaliniu filmu laikomas filmas, jeigu jis atitinka bent vieną iš šių reikalavimų:
+1. Filmas laikomas nacionaliniu filmu, jeigu jis atitinka visas šias sąlygas:
 
 
-1) filmo turinys, jo tematika atspindi esminius Lietuvos kultūros raidos principus, lietuvių tautinio charakterio problemas, atskleidžia nacionalinius ypatumus, tradicijas;
-
-
-
-
-2) ne mažiau kaip 50 procentų bendros darbų apimties sąmatinėmis kainomis, gaminant, platinant ir rodant filmą, atlieka Lietuvos Respublikos kino organizacijos;
+1) filmas pagamintas Lietuvos filmo gamintojo;
 
 
 
 
-3) pagrindiniai filmo kūrėjai (scenarijaus autorius, režisierius, operatorius, kompozitorius, dailininkas) yra Lietuvos Respublikos piliečiai arba Europos Sąjungos valstybių narių piliečiai, arba Lietuvos Respublikoje ar Europos Sąjungos valstybėse narėse įregistruoti juridiniai asmenys, taip pat fiziniai asmenys, gyvenantys Lietuvos Respublikoje.
+2) filmo režisierius, scenarijaus ar adaptuoto literatūros kūrinio autorius arba vieno iš pagrindinių vaidmenų atlikėjas yra Lietuvos Respublikos pilietis arba nuolat Lietuvos Respublikoje gyvenantis asmuo;
 
 
 
 
-
-
-2. Bendros gamybos filmas laikomas nacionaliniu, jeigu jis atitinka bent vieną iš šių reikalavimų: 
-
-
-1) gaminamas kartu su užsienio kino organizacija, atsižvelgiant į sąlygas, nustatytas Lietuvos Respublikos tarptautinėse sutartyse;
-
-
-
-
-2) atitinka kriterijus, numatytus šio straipsnio 1 dalies 1 punkte.
+3) pirmasis filmo įrašas yra lietuvių kalba arba filmas yra įgarsintas (subtitruotas) lietuvių kalba, jeigu filme kalbama užsienio kalba.
 
 
 
 
 
 
-3. Nacionalinis filmas turi būti įgarsintas lietuvių kalba. Filme gali būti kalbama ir užsienio kalba, jeigu tai atitinka filmo scenarijų.
+2. Bendros filmo gamybos filmas laikomas nacionaliniu filmu, jeigu jis gaminamas atsižvelgiant į sąlygas, nustatytas Lietuvos Respublikos įstatymais ratifikuotose tarptautinėse sutartyse, konvencijose ir direktyvose.
  
 
 
@@ -231,63 +213,113 @@ VALSTYBINIS KINO VALDYMAS
  
 
 
-5 straipsnis. Vyriausybės įgaliota institucija, atsakinga už valstybės politiką kino srityje
+5 straipsnis. Subjektai, atsakingi už valstybės kino politikos formavimą ir jos įgyvendinimą
 
 
-1. Valstybės politiką kino srityje įgyvendina Vyriausybės tam įgaliota institucija. 
+1. Lietuvos Respublikos kultūros ministerija (toliau – Kultūros ministerija):
 
 
-
-
-2. Vyriausybės įgaliota institucija, atsakinga už valstybės politiką kino srityje:
-
-
-1) rengia įstatymų ir kitų kiną reglamentuojančių teisės aktų projektus;
+1) formuoja valstybės kino politiką, rengia kino srities įstatymų ir kitų teisės aktų projektus;
 
 
 
 
-2) skirsto valstybės biudžete patvirtintus asignavimus, skirtus remti filmų gamybos projektus, kino programas, ir kontroliuoja šių asignavimų panaudojimą; 
+2) analizuoja Lietuvos Respublikos ir užsienio valstybių kino raidos tendencijas, inicijuoja, rengia kino srities strateginio planavimo dokumentus (koncepcijas, strategijas, programas), atlieka šių dokumentų įgyvendinimo stebėseną;
 
 
 
 
-3) siekia, kad per metus būtų sukurtas bent vienas meninis pilnametražis nacionalinis filmas;
+3) Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) ar Ministro Pirmininko pavedimu atstovauja Lietuvos Respublikai užsienio valstybėse ar tarptautinėse organizacijose, pagal kompetenciją nustatyta tvarka palaiko ryšius su užsienio valstybių atitinkamomis institucijomis ir tarptautinėmis organizacijomis, Lietuvos Respublikos tarptautinių sutarčių įstatymo nustatyta tvarka sudaro ir įgyvendina tarptautines sutartis;
 
 
 
 
-4) tvarko filmų registrą;
+4) koordinuoja ir kontroliuoja Lietuvos kino centro prie Kultūros ministerijos veiklą.
 
 
 
 
-5) indeksuoja filmus pagal žiūrovų amžiaus cenzą;
+
+
+2. Lietuvos kino centras prie Kultūros ministerijos (toliau – Lietuvos kino centras):
+
+
+1) dalyvauja formuojant valstybės kino politiką;
 
 
 
 
-6 ) rūpinasi kino specialistų rengimu, kvalifikacijos kėlimu; 
+2) įgyvendina valstybės kino politiką, atlieka šiame ir kituose teisės aktuose jam pavestas funkcijas;
 
 
 
 
-7) koordinuoja filmų gamybos projektų ir kino programų rengimą bei įgyvendinimą;
+3) rengia kino projektų konkursus valstybiniam finansavimui gauti;
 
 
 
 
-8) koordinuoja Lietuvos kino organizacijų dalyvavimą tarptautinėse kino organizacijose ir programose;
+4) konsultuoja filmų gamintojus dėl kino projektų rengimo;
 
 
 
 
-9) inicijuoja ir koordinuoja kino renginius Lietuvoje ir Lietuvos kino organizacijų dalyvavimą tarptautiniuose kino renginiuose;
+5) skiria valstybinį finansavimą kino projektams;
 
 
 
 
-10) inicijuoja ir koordinuoja programas, susijusias su autorių teisių apsauga filmų platinimo ir viešo rodymo srityje.
+6) kontroliuoja, kaip naudojamas valstybinis finansavimas ir atliekamas atsiskaitymas už jį;
+
+
+
+
+7) rengia priemones kino kūrėjams ir specialistams kelti profesinį meistriškumą ir kvalifikaciją Lietuvos Respublikoje ir užsienyje;
+
+
+
+
+8) atstovauja Lietuvos Respublikai užsienio ir tarptautinėse institucijose, organizacijose, programose, fonduose, renginiuose, bendradarbiauja su Lietuvos Respublikos ir užsienio kino organizacijomis įgyvendinant tarptautines kino programas;
+
+
+
+
+9) koordinuoja Europos Sąjungos audiovizualinio sektoriaus rėmimo programas Lietuvos Respublikoje;
+
+
+
+
+10) sudaro bendrą kino srities informacijos ir statistikos duomenų bazę, skleidžia informaciją apie Lietuvos kiną;
+
+
+
+
+11) tvarko Filmų registrą;
+
+
+
+
+12) suteikia filmų indeksus pagal žiūrovų amžiaus cenzą;
+
+
+
+
+13) organizuoja Kino tarybos darbą;
+
+
+
+
+14) skatina užsienio investicijas į Lietuvos kiną;
+
+
+
+
+15) informuoja visuomenę, kaip įgyvendinama valstybės kino politika;
+
+
+
+
+16) kaupia ir naudoja filmus visuomenės edukacijos kino srityje tikslams.
  
 
 
@@ -297,136 +329,56 @@ VALSTYBINIS KINO VALDYMAS
 
 
 
-6 straipsnis. Kino taryba 
 
 
-1. Kino taryba (toliau – Taryba) yra kolegiali, patariamojo balso teisę turinti institucija, veikianti prie Vyriausybės įgaliotos institucijos, atsakingos už valstybės politiką kino srityje. Ji, kaip ekspertas ir konsultantas, analizuoja Lietuvos kino plėtros ir sklaidos klausimus, nagrinėja kino programas ir filmų gamybos projektus, pretenduojančius gauti valstybės finansavimą, ir pasiūlymus šiais klausimais teikia Vyriausybės įgaliotai institucijai, atsakingai už valstybės politiką kino srityje. Tarybos darbo reglamentą tvirtina pati Taryba. 
-Straipsnio dalies pakeitimai:
-Nr. IX-1793, 2003-10-21, Žin., 2003, Nr. 108-4812 (2003-11-19), i. k. 1031010ISTA0IX-1793
- 
-
-
-
-
-2. Tarybą sudaro 9 nariai. 3 narius į ją deleguoja Lietuvos kinematografininkų sąjunga, po 1 narį – prodiuserių, filmų platintojų ir rodytojų asociacijos, taip pat Lietuvos radijo ir televizijos asociacija, Lietuvos nacionalinis radijas ir televizija bei Vyriausybės įgaliota institucija, atsakinga už valstybės politiką kino srityje.
-
-
-
-
-3. Tarybos sudėtį, nuostatus, teikiamų paslaugų apmokėjimo tvarką tvirtina Vyriausybės įgaliota institucija, atsakinga už valstybės politiką kino srityje.
-Straipsnio dalies pakeitimai:
-Nr. IX-1793, 2003-10-21, Žin., 2003, Nr. 108-4812 (2003-11-19), i. k. 1031010ISTA0IX-1793
- 
-
-
-
-
-
-
-
-
+ 
 TREČIASIS SKIRSNIS
 KINO FINANSAVIMAS
  
 
 
-7 straipsnis. Kino finansavimas
+6 straipsnis. Kino finansavimas
 
 
-1. Lietuvos kinas finansuojamas iš šių šaltinių:
+1. Kinas finansuojamas iš šių šaltinių:
 
 
-1) valstybės biudžeto;
+1) valstybės biudžeto lėšų, atsižvelgiant į Lietuvos kino centro parengtas programas;
 
 
 
 
-2) savivaldybių biudžetų;
+2) 60 procentų praėjusių metų faktinių įplaukų iš pridėtinės vertės mokesčio už filmų platinimą ir rodymą kino teatruose. Suma apskaičiuojama pagal Lietuvos statistikos departamento paskelbtus duomenis;
 
 
 
 
-3) Nacionalinės kino rėmimo programos lėšų;
+3) savivaldybės biudžeto lėšų;
 
 
 
 
-4) kitų finansavimo šaltinių.
+4) teisės aktų nustatyta tvarka gautų kitų lėšų.
 
 
 
 
 
 
-2. Lietuvos valstybės biudžeto lėšos pagal Vyriausybės įgaliotos institucijos, atsakingos už valstybės politiką kino srityje ir Vyriausybės įgaliotos institucijos, atsakingos už kino paveldo apsaugą parengtas programas yra skiriamos:
+2. Savivaldybės biudžeto lėšos skiriamos:
 
 
-1) nacionalinių filmų gamybai;
+1) filmų gamybai;
 
 
 
 
-2) bendrai filmų gamybai (koprodukcijai);
+2) savivaldybės kino teatrų pagrindinei veiklai remti;
 
 
 
 
-3) nacionaliniams filmams įsigyti, subtitruoti (įgarsinti), platinti, viešai rodyti;
-
-
-
-
-4) Nacionalinei kino rėmimo programai;
-
-
-
-
-5) kino paveldui saugoti;
-
-
-
-
-6) kitoms kino valstybinėms programoms finansuoti.
-
-
-
-
-
-
-3. Lėšų skyrimo tvarką ir sąlygas, atsižvelgdamos į Tarybos pasiūlymus, nustato Vyriausybės įgaliota institucija, atsakinga už valstybės politiką kino srityje, ir Vyriausybės įgaliota institucija, atsakinga už kino paveldo apsaugą.
-
-
-
-
-4. Lėšų skyrimas yra įforminamas Vyriausybės įgaliotos institucijos, atsakingos už valstybės politiką kino srityje, ir lėšų gavėjų (filmų gamintojų, prodiuserių, platintojų, rodytojų ir t. t.) sutartimis. Valstybės biudžeto lėšos naudojamos tik sutartyse numatytiems įsipareigojimams vykdyti. 
-
-
-
-
-5. Lėšos filmų gamybai skiriamos tik filmų gamintojams.
-
-
-
-
-6. Lėšų gavėjai privalo Vyriausybės įgaliotai institucijai, atsakingai už valstybės politiką kino srityje, atsiskaityti už jų panaudojimą šios institucijos nustatyta tvarka.
-
-
-
-
-7. Iš savivaldybių biudžetų lėšos skiriamos:
-
-
-1) savivaldybei reikšmingų filmų gamybai;
-
-
-
-
-2) savivaldybės kino teatrų ir kino salių (videosalių) pagrindinei veiklai remti;
-
-
-
-
-3) kitoms savivaldybės kino programoms remti. 
+3) kitiems savivaldybės kino projektams remti.
  
 
 
@@ -436,41 +388,23 @@ KINO FINANSAVIMAS
 
 
 
-8 straipsnis. Nacionalinio kino rėmimo programa
+7 straipsnis. Valstybinio finansavimo sritys
 
 
-1. Filmų gamybai, debiutinių filmų gamybos projektams įgyvendinti, nacionaliniams filmams rodyti, kino priemonėms modernizuoti, kinui populiarinti Vyriausybės įgaliota institucija, atsakinga už valstybės politiką kino srityje, sudaro ir tvirtina Nacionalinio kino rėmimo programą. 
-Straipsnio dalies pakeitimai:
-Nr. IX-1793, 2003-10-21, Žin., 2003, Nr. 108-4812 (2003-11-19), i. k. 1031010ISTA0IX-1793
- 
+Valstybinis finansavimas skiriamas:
 
 
-
-
-2.Nacionalinės kino rėmimo programos lėšas sudaro:
-
-
-1) valstybės biudžeto asignavimai. Planuojant kiekvienų metų valstybės biudžeto išlaidas, Nacionalinio kino rėmimo programai yra numatoma suma, lygi 30 procentų praėjusiais metais apskaičiuoto pridėtinės vertės mokesčio už kino filmų platinimą ir viešą rodymą. Suma apskaičiuojama pagal Statistikos departamento paskelbtus duomenis (pajamos už filmų viešą rodymą kino salėse);
+1) parengiamiesiems filmų darbams, filmų gamybai, platinimui, rodymui;
 
 
 
 
-2) 25 procentai surinkto atlyginimo už garso ir vaizdo (audiovizualinių) kūrinių panaudojimą asmeniniams tikslams (atlyginimo už tuščią vaizdo laikmeną ir asmeniniam atgaminimui skirtą vaizdo įrangą);
+2) kino sklaidai;
 
 
 
 
-3) rinkliava už filmų registro duomenų teikimą.
-
-
-Straipsnio dalies pakeitimai:
-Nr. IX-1793, 2003-10-21, Žin., 2003, Nr. 108-4812 (2003-11-19), i. k. 1031010ISTA0IX-1793
- 
-
-
-
-
-3. Nacionalinės kino rėmimo programos lėšų skyrimo tvarką ir sąlygas, atsižvelgdama į Tarybos pasiūlymus, nustato Vyriausybės įgaliota institucija, atsakinga už valstybės politiką kino srityje.
+3) kino paveldui kaupti ir išsaugoti.
  
 
 
@@ -478,25 +412,366 @@ Nr. IX-1793, 2003-10-21, Žin., 2003, Nr. 108-4812 (2003-11-19), i. k. 1031010IS
 
 
 
-9 straipsnis. Bendra filmų gamyba (koprodukcija) 
 
 
-1. Filmai gali būti gaminami bendros gamybos sąlygomis, sudarant bendros filmų gamybos dvišales ir daugiašales sutartis.
+8 straipsnis. Valstybinio finansavimo kriterijai
 
 
+1. Valstybinis finansavimas skiriamas parengiamiesiems filmų darbams, filmų gamybai, jeigu jie atitinka bent du kultūrinius kriterijus:
 
 
-2. Daugiašalės bendros filmų gamybos atveju minimalus Lietuvos prodiuserio ir gamintojo finansinis indėlis negali būti mažesnis už 10 procentų sąmatos, o maksimalus negali viršyti 70 procentų sąmatos.
-
-
-
-
-3. Jei bendra filmų gamyba yra dvišalė, tai minimalus Lietuvos prodiuserio ir gamintojo indėlis negali būti mažesnis kaip 20 procentų, o maksimalus negali viršyti 80 procentų bendros filmo gamybos sąmatos.
+1) filmo scenarijus ar pagrindinė tema yra paremti Lietuvos ar Europos kultūros, istorijos, religijos, mitologijos ar visuomenės gyvenimo įvykiais;
 
 
 
 
-4. Valstybės biudžeto lėšos bendrai filmų gamybai finansuoti skiriamos šio Įstatymo 7 straipsnio nustatyta tvarka. Nacionaliniams filmams, gaminamiems bendros filmų gamybos sąlygomis, teikiami finansavimo prioritetai. 
+2) filmas pasakoja apie žinomą Lietuvos ar Europos kultūros, istorijos, religijos, visuomenės asmenybę, mitologinį veikėją;
+
+
+
+
+3) filmo scenarijus ar pagrindinė tema yra paremti reikšmingu Lietuvos ar Europos literatūros kūriniu;
+
+
+
+
+4) filmas įprasmina svarbias Lietuvos ar Europos vertybes: kultūrų ir religijų įvairovę, žmogaus teises ir pilietiškumą, demokratiją ir solidarumą, mažumų teises ir toleranciją, pagarbą kultūros ir šeimos tradicijoms;
+
+
+
+
+5) filmas nagrinėja tautinės ar europinės tapatybės klausimus.
+
+
+
+
+
+
+2. Valstybinis finansavimas skiriamas kino sklaidos projektams, jeigu jų objektas yra:
+
+
+1) filmas, kuriam buvo skirtas valstybinis finansavimas;
+
+
+
+
+2) filmas, pagamintas negavus valstybinio finansavimo, tačiau atitinka bent du kultūrinius kriterijus, nustatytus šio straipsnio 1 dalyje.
+
+
+
+
+
+
+3. Valstybinis finansavimas skiriamas kino paveldo kaupimo ir išsaugojimo projektams, jeigu jų objektas yra originali filmo medžiaga arba medžiaga, iš kurios galima atkurti filmą, jeigu tokie filmai atitinka šio straipsnio 2 dalyje nustatytus kriterijus.
+
+
+
+
+4. Valstybinis finansavimas neskiriamas:
+
+
+1) pagamintų filmų gamybos išlaidoms kompensuoti;
+
+
+
+
+2) televizijos programoms kurti;
+
+
+
+
+3) smurtiniams filmams kurti;
+
+
+
+
+4) pornografiniams filmams kurti.
+ 
+
+
+
+
+
+
+
+
+9 straipsnis. Valstybinio finansavimo pagrindai
+
+
+1. Valstybinis finansavimas negali viršyti 50 procentų filmo gamybos biudžeto ir 75 procentų mažo biudžeto filmo arba eksperimentinio filmo biudžeto, neviršijant kultūros ministro nustatytų valstybinio finansavimo sričių kvotų. Kitų kino projektų valstybinio finansavimo galimus dydžius nustato kultūros ministras. Į nurodytas procentines dalis įskaičiuojamas valstybės ir savivaldybių institucijų ir įstaigų suteiktas finansavimas bei už valstybės ir savivaldybių skirtas lėšas priskaičiuotos bankų palūkanos, kurios privalo būti panaudotos filmui gaminti.
+
+
+
+
+2. Valstybinis finansavimas skiriamas tik Lietuvos Respublikoje ar kitoje Europos ekonominės erdvės valstybėje įsteigtam juridiniam asmeniui ar kitai organizacijai, ar jų padaliniams (toliau – juridiniai asmenys), kurių viena iš pagrindinių veiklos sričių yra:
+
+
+1) filmų gamyba;
+
+
+
+
+2) filmų platinimas;
+
+
+
+
+3) filmų rodymas;
+
+
+
+
+4) kino sklaida;
+
+
+
+
+5) kino paveldo kaupimas ir apsauga.
+
+
+
+
+
+
+3. Dėl kino projekto valstybinio finansavimo skyrimo į Lietuvos kino centrą kreipiasi juridinis asmuo. Kino projekto įgyvendinimo partneriais gali būti fiziniai asmenys.
+
+
+
+
+4. Filmams, gaminamiems bendros filmų gamybos sąlygomis, teikiamas valstybinio finansavimo prioritetas.
+
+
+
+
+5. Juridiniai asmenys ne daugiau kaip 20 procentų filmo gamybai skirto valstybinio finansavimo gali panaudoti ne Lietuvos Respublikoje.
+
+
+
+
+6. Kultūros ministras tvirtina Kino projektų valstybinio finansavimo taisykles. Šiose taisyklėse turi būti nustatyta:
+
+
+1) konkurso sąlygos ir tvarka;
+
+
+
+
+2) paraiškos turinio reikalavimai;
+
+
+
+
+3) kokybiniai, kvalifikaciniai, techniniai, finansiniai ir ekonominiai kino projekto vertinimo kriterijai;
+
+
+
+
+4) valstybinio finansavimo prioritetai;
+
+
+
+
+5) valstybinio finansavimo sričių kvotos;
+
+
+
+
+6) paraiškų svarstymo procedūros;
+
+
+
+
+7) sąlygos valstybinį finansavimą naudoti efektyviai ir skaidriai;
+
+
+
+
+8) valstybinio finansavimo skyrimo tvarka;
+
+
+
+
+9) originalios filmo medžiagos perdavimo valstybės archyvams sąlygos, tvarka ir sąlygų vykdymo priežiūra;
+
+
+
+
+10) atsiskaitymo už gautą valstybinį finansavimą tvarka;
+
+
+
+
+11) sutarties turinio reikalavimai. Šioje sutartyje turi būti: valstybinio finansavimo skyrimo kino projektui pagrindas; kino projekto įgyvendinimo terminas; filmo gamybos užbaigimo data; filmo premjeros data; valstybinio finansavimo naudojimo kino projekto vykdymo metu sąlygos; atsiskaitymo už valstybinį finansavimą sąlygos ir terminai; valstybinio finansavimo grąžinimo sąlygos ir terminai; valstybinio finansavimo išieškojimo sąlygos ir terminai; juridinio asmens įsipareigojimas per nustatytą terminą originalią nacionalinio filmo medžiagą perduoti valstybės archyvams.
+
+
+
+
+
+
+7. Valstybinis finansavimas neskiriamas juridiniam asmeniui, jeigu:
+
+
+1) jo valdymo organų narys ar dalininkas įsiteisėjusiu teismo nuosprendžiu yra pripažintas kaltu dėl nusikaltimo ar baudžiamojo nusižengimo finansų sistemai, intelektinei nuosavybei, ekonomikai ir verslo tvarkai;
+
+
+
+
+2) jo valdymo organų narys ar dalininkas yra nubaustas už administracinius teisės pažeidimus: viešųjų pirkimų, komercinės ar ūkinės veiklos tvarkos pažeidimus, ataskaitų ir dokumentų apie pajamas, turtą, pelną ir mokesčius pateikimo tvarkos pažeidimus, vengimą mokėti mokesčius, neteisėtą vertimąsi komercine, ūkine, finansine ar profesine veikla, apskaitos taisyklių pažeidimus, autorių teisių ir gretutinių teisių pažeidimus;
+
+
+
+
+3) jis neatsiskaitė už gautą valstybinį finansavimą;
+
+
+
+
+4) jis originalios nacionalinio filmo medžiagos neperdavė valstybės archyvams, kai turėjo tokią pareigą pagal šį ir kitus įstatymus;
+
+
+
+
+5) jis yra valdomas paskirto administratoriaus arba likviduojamas, jam pradėtos bankroto arba sanavimo procedūros.
+
+
+
+
+
+
+8. Valstybinis finansavimas neskiriamas juridiniam asmeniui iki visiško jo valdymo organų nario ar dalininko dėl šio straipsnio 7 dalies 1 punkte nurodyto nusikaltimo ar baudžiamojo nusižengimo teistumo išnykimo.
+
+
+
+
+9. Valstybinis finansavimas neskiriamas juridiniam asmeniui dvejus metus nuo administracinės nuobaudos už šio straipsnio 7 dalies 2 punkte nurodytus administracinius teisės pažeidimus paskyrimo jo valdymo organų nariui ar dalininkui dienos.
+
+
+
+
+10. Valstybinis finansavimas neskiriamas juridiniam asmeniui penkerius metus nuo teisės aktų nustatyta tvarka išieškoto valstybinio finansavimo dienos.
+
+
+
+
+11. Valstybinis finansavimas neskiriamas juridiniam asmeniui, kuris neperdavė originalios nacionalinio filmo medžiagos valstybiniams archyvams nuo tos dienos, kurią originali nacionalinio filmo medžiaga turėjo būti perduota.
+
+
+
+
+12. Jeigu šio straipsnio 7 dalyje nustatyti apribojimai atsiranda arba paaiškėja po valstybinio finansavimo skyrimo, juridinis asmuo privalo kino projektui skirtą valstybinį finansavimą grąžinti Lietuvos kino centrui per jo nustatytą terminą. Negrąžintas valstybinis finansavimas iš juridinio asmens išieškomas Lietuvos Respublikos teisės aktų nustatyta tvarka.
+ 
+
+
+
+
+
+
+10 straipsnis. Kino taryba
+
+
+1. Kino taryba (toliau – Taryba) yra kolegiali, Lietuvos kino centro patariamoji institucija. Taryba vertina valstybiniam finansavimui gauti pateiktus kino projektus, teikia pasiūlymus dėl kino projektų valstybinio finansavimo, vertina kino projektų įgyvendinimo rezultatus ir pasiūlymus šiais klausimais teikia Lietuvos kino centro direktoriui. Kiekvieno Tarybos nario teikiama išvada dėl kiekvieno kino projekto turi būti rašytinė.
+
+
+
+
+2. Tarybą sudaro 7 nariai. Ji sudaroma iš kino meno kūrėjų, profesionaliųjų kino meno vertintojų, filmų gamintojų ir Lietuvos kino centro atstovų.
+
+
+
+
+3. Tarybos nario kadencija yra dveji metai. Tarybos narys pareigas eina ne daugiau kaip 2 kadencijas iš eilės.
+
+
+
+
+4. Tarybos narių atrankos kriterijus, skyrimo ir atšaukimo tvarką, Tarybos sudėtį ir nuostatus, Tarybos narių darbo apmokėjimo tvarką nustato Lietuvos kino centro direktorius, suderinęs su kultūros ministru.
+
+
+
+
+5. Tarybos narys atšaukiamas, jeigu jis:
+
+
+1) atsisako eiti pareigas;
+
+
+
+
+2) įsiteisėjusiu teismo nuosprendžiu yra pripažintas kaltu dėl nusikaltimo padarymo;
+
+
+
+
+3) neatlieka savo pareigų;
+
+
+
+
+4) miršta.
+ 
+
+
+
+
+
+
+
+
+11 straipsnis. Valstybės užsakymas
+
+
+1. Valstybės užsakomi filmai yra Vyriausybės, o Vyriausybės pavedimu – kitos valstybės valdymo institucijos užsakomas pagaminti filmas.
+
+
+
+
+2. Vyriausybė valstybės užsakymui atlikti skiria tikslinį valstybinį finansavimą.
+
+
+
+
+3. Valstybės užsakymas atliekamas Lietuvos Respublikos viešųjų pirkimų įstatymo nustatyta tvarka.
+
+
+
+
+4. Valstybės užsakymo pagrindais pagaminto filmo autorių turtinių teisių ir filmo pirmojo įrašo gretutinių teisių savininkė yra valstybė.
+ 
+
+
+
+
+
+
+12 straipsnis. Valstybinio finansavimo naudojimo priežiūra
+
+
+1. Lietuvos kino centras prižiūri valstybinio finansavimo naudojimo teisėtumą.
+
+
+
+
+2. Lietuvos kino centras nustato valstybinio finansavimo naudojimo priežiūros tvarką ir būdus.
+
+
+
+
+3. Atlikdamas priežiūrą, Lietuvos kino centras turi teisę reikalauti dokumentų ir kitokių informacijos patvariųjų laikmenų, kurie turi ar gali turėti reikšmės nustatant, ar teisingai naudojamas valstybinis finansavimas.
+
+
+
+
+4. Lietuvos kino centras gali nutraukti su juridiniu asmeniu sudarytą kino projekto valstybinio finansavimo sutartį, jeigu nustatoma, kad valstybinis finansavimas naudojamas ne pagal paskirtį, nesilaikoma terminų ar kitų kino projekto valstybinio finansavimo sutarties sąlygų.
+
+
+
+
+5. Lietuvos kino centras, nutraukdamas su juridiniu asmeniu sudarytą kino projekto valstybinio finansavimo sutartį, nustato terminą, per kurį turi būti grąžintas valstybinis finansavimas.
+
+
+
+
+6. Jeigu juridinis asmuo per Lietuvos kino centro nustatytą terminą valstybinio finansavimo negrąžina, valstybinis finansavimas išieškomas Lietuvos Respublikos teisės aktų nustatyta tvarka.
  
 
 
@@ -507,36 +782,44 @@ Nr. IX-1793, 2003-10-21, Žin., 2003, Nr. 108-4812 (2003-11-19), i. k. 1031010IS
 
 
 KETVIRTASIS SKIRSNIS
-FILMŲ PLATINIMAS, RODYMAS
+FILMŲ PLATINIMAS IR RODYMAS
  
 
 
-10 straipsnis. Filmų platinimo ir viešo rodymo sąlygos
+13 straipsnis. Filmų platinimo ir rodymo sąlygos
 
 
-1. Kino organizacijos, kurios verčiasi filmų platinimu ir viešu rodymu, privalo:
-
-
-1) užregistruoti filmus filmų registre;
+1. Filmai Lietuvos Respublikoje gali būti platinami ir rodomi tik įstatymų nustatyta tvarka gavus autorių teisių ir gretutinių teisių turėtojų ar jų įgaliotų asmenų leidimą.
 
 
 
 
-2) turėti Vyriausybės įgaliotos institucijos, atsakingos už valstybės politiką kino srityje, pažymą, nustatančią filmų indeksą pagal žiūrovų amžiaus cenzą.
+2. Fiziniai ir juridiniai asmenys, kurie verčiasi filmų rodymu kino teatruose, privalo:
+
+
+1) turėti pažymą, kurioje nustatytas filmo indeksas pagal žiūrovų amžiaus cenzą;
+
+
+
+
+2) įregistruoti filmą Filmų registre.
 
 
 
 
 
 
-2. Filmai Lietuvoje gali būti platinami ir viešai rodomi tik įstatymų nustatyta tvarka, įgijus teises pagal autorines, licencines ar kitas su autorių teisių turėtojais sudarytas sutartis, kuriose suteikiamos ar perduodamos šios teisės.
+3. Informacijai, kuri skirta viešai pristatyti kino teatruose rodomus filmus, taikomos Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo ir Lietuvos Respublikos visuomenės informavimo įstatymo nuostatos.
 
 
 
 
-3. Kino organizacijos, kurios verčiasi viešu filmų rodymu, privalo užtikrinti, kad filmo rodymo metu į kino salę (videosalę) negalėtų patekti jaunesni, nei numatyta pagal filmo indeksą, žiūrovai.
-Papildyta straipsnio dalimi:
-Nr. XI-296, 2009-06-16, Žin., 2009, Nr. 77-3163 (2009-06-30), i. k. 1091010ISTA00XI-296
+4. Filmo, kurio gamyba 100 procentų buvo finansuojama valstybės biudžeto lėšomis, pirmojo rodymo pareigą televizijos programose, raštu pasiūlius filmą užsakiusiai valstybės valdymo institucijai arba filmo gamintojui, vienus metus nuo jo užregistravimo Filmų registre turi Lietuvos nacionalinis radijas ir televizija.
+
+
+
+
+5. Kultūros ministro nustatytos kultūros ir (ar) švietimo įstaigos ir (ar) institucijos turi teisę padaryti valstybinio finansavimo filmo skaitmeninę kopiją ir rodyti jį kultūros ir švietimo tikslais arba saugoti, įgyvendinant šioms įstaigoms ar institucijoms numatytus veiklos tikslus.
  
 
 
@@ -544,45 +827,156 @@ Nr. XI-296, 2009-06-16, Žin., 2009, Nr. 77-3163 (2009-06-30), i. k. 1091010ISTA
 
 
 
-11 straipsnis. Filmų registras
+14 straipsnis. Filmų indeksavimas pagal žiūrovų amžiaus cenzą
 
 
-1. Visi filmai, pagaminti Lietuvoje, taip pat įvežti į Lietuvos Respubliką platinti ir viešai rodyti, išskyrus filmus, kurie rodomi festivaliuose, seminaruose, retrospektyvose ir kituose renginiuose, turi būti užregistruoti filmų registre. Jį steigia Vyriausybė. Filmai užregistruojami per 7 darbo dienas.
-
-
-
-
-2. Filmų registro nuostatus tvirtina ir rinkliavos dydį už filmų registravimą nustato Vyriausybė. 
+1. Kino teatruose rodomi filmai turi būti indeksuojami pagal žiūrovų amžiaus cenzą.
 
 
 
 
-3. Filmų registro tvarkytojas yra Vyriausybės įgaliota institucija, atsakinga už valstybės politiką kino srityje. 
+2. Filmai, kurie rodomi kino teatruose visuomenės kultūriniams, meniniams, edukaciniams poreikiams tenkinti skirtuose renginiuose (festivaliuose, seminaruose, retrospektyvose ir kt.), pagal žiūrovų amžiaus cenzą neindeksuojami.
 
 
 
 
-4. Filmų registro tvarkytojas nemokamai teikia duomenis valstybės valdžios ir valdymo institucijoms Vyriausybės nustatyta tvarka.
+3. Filmų indeksus pagal žiūrovų amžiaus cenzą, kurie turi būti nurodomi filmų afišose, kitoje reklamoje ir bet kokio pobūdžio informacijoje, skirtoje filmams anonsuoti, suteikia Lietuvos kino centras Filmų indeksavimo komisijos teikimu.
 
 
 
 
-5. Filmų registro duomenimis turi teisę naudotis visi juridiniai ir fiziniai asmenys. Rinkliavos dydį už filmų registro duomenų pateikimą bei jos surinkimo tvarką nustato Vyriausybė.
+4. Filmų indeksavimo komisiją sudaro 7 nariai. Į šią komisiją po vieną narį deleguoja Lietuvos Respublikos švietimo ir mokslo ministerija, Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus tarnyba, Lietuvos kinematografininkų sąjunga, Aukštojo mokslo taryba, Lietuvos psichiatrų asociacija, Lietuvos jaunimo organizacijų taryba, Lietuvos kino centras.
 
 
 
 
-6. Juridiniai ir fiziniai asmenys, kurių duomenys yra filmų registro objektas, tuos duomenis gauna nemokamai.
+5. Filmų indeksavimo komisijos sudėtį, nuostatus, kuriuose nustatomi filmų vertinimo pagal žiūrovų amžiaus cenzą kriterijai, šios komisijos narių teikiamų paslaugų apmokėjimo sąlygų ir tvarkos aprašą tvirtina Lietuvos kino centro direktorius, suderinęs su kultūros ministru.
 
 
 
 
-7. Iš filmų registro gautų duomenų jų gavėjas negali naudoti kitaip ir kitokiu tikslu, negu nustatyta Valstybės registrų įstatymo ir kitų teisės aktų normose.
+6. Už pažymos, kurioje nustatomas filmo indeksas pagal žiūrovų amžiaus cenzą, išdavimą imama valstybės rinkliava Lietuvos Respublikos rinkliavų įstatymo nustatyta tvarka.
 
 
 
 
-8. Filmų registre turi būti nurodyti šie duomenys:
+7. Filmų indeksai suteikiami iki filmų įregistravimo Filmų registre.
+
+
+
+
+8. Dėl pažymos, kurioje nustatomas filmo indeksas pagal žiūrovų amžiaus cenzą, išdavimo fizinis ar juridinis asmuo (toliau – asmuo), kuris verčiasi filmų rodymu kino teatruose, privalo Filmų indeksavimo komisijai pateikti paraišką ne vėliau kaip likus 20 darbo dienų iki pirmojo filmo rodymo kino teatre.
+
+
+
+
+9. Asmuo, kuris verčiasi filmų rodymu kino teatruose, pateikęs Filmų indeksavimo komisijai paraišką filmams indeksuoti, Filmų indeksavimo komisijai rengia prašomų indeksuoti filmų peržiūras.
+
+
+
+
+10. Pažyma, kurioje nustatomas filmo indeksas pagal žiūrovų amžiaus cenzą, išduodama per 10 darbo dienų nuo asmens paraiškos pateikimo Filmų indeksavimo komisijai dienos. Filmų indeksavimo komisijos pirmininko motyvuotu sprendimu šis terminas gali būti pratęstas iki 15 darbo dienų.
+
+
+
+
+11. Pagal žiūrovų amžiaus cenzą nustatomi šie filmų indeksai:
+
+
+1) „V“ – filmai, skirti įvairaus amžiaus žiūrovams;
+
+
+
+
+2) „N-7“ – filmai, skirti žiūrovams nuo 7 metų;
+
+
+
+
+3) „N-13“ – filmai, skirti žiūrovams nuo 13 metų;
+
+
+
+
+4) „N-16“ – filmai, skirti žiūrovams nuo 16 metų;
+
+
+
+
+5) „N-18“ – filmai, skirti žiūrovams nuo 18 metų.
+
+
+
+
+
+
+12. Jeigu Filmų indeksavimo komisija nustato, kad filmas yra pornografinis arba smurtinis, pažyma, kurioje nustatomas filmo indeksas pagal žiūrovų amžiaus cenzą, neišduodama, filmas Filmų registre neregistruojamas ir negali būti rodomas kino teatruose Lietuvos Respublikoje.
+
+
+
+
+13. Kino teatrų savininkai ir (ar) valdytojai privalo užtikrinti, kad:
+
+
+1) žiūrovams būtų viešai prieinama filmų indeksų reikšmes išaiškinanti informacija;
+
+
+
+
+2) indeksais „N-18“, „N-16“, „N-13“ ir „N-7“ pažymėtų filmų pristatymai (anonsai) nebūtų rodomi prieš filmus, kurie yra skirti jaunesniems negu pristatomų (anonsuojamų) filmų žiūrovams, ir po šių filmų;
+
+
+
+
+3) į kino teatro salę nebūtų įleidžiami jaunesni, negu numatyta pagal filmo indeksą, nepilnamečiai žiūrovai.
+
+
+
+
+
+
+14. Informaciją apie Lietuvos Respublikoje filmams suteiktus indeksus teikia Filmų registras.
+
+
+
+
+15. Filmus, rodomus festivaliuose, seminaruose, retrospektyvose ir kituose visuomenės kultūriniams, meniniams, edukaciniams poreikiams tenkinti skirtuose renginiuose, indeksais pagal žiūrovų amžiaus cenzą pažymi renginių rengėjai. Jeigu filmui indeksas pagal žiūrovų amžiaus cenzą Lietuvos Respublikoje yra suteiktas, tokį filmą renginių rengėjai privalo pažymėti Lietuvos Respublikoje jam suteiktu indeksu, jeigu indeksas pagal žiūrovų amžiaus cenzą filmui Lietuvos Respublikoje nėra suteiktas, toks filmas turi būti pažymėtas valstybės, kurioje filmas yra pagamintas, suteiktu žiūrovų amžiaus cenzo indeksu.
+
+
+
+
+16. Asmenys, kurie verčiasi filmų platinimu, privalo užtikrinti, kad ant kiekvienos filmo laikmenos pakuotės būtų nurodytas filmo indeksas, suteiktas Lietuvos Respublikoje, arba valstybės, kurioje filmas pagamintas, žiūrovų amžiaus cenzo indeksas.
+ 
+
+
+
+
+
+
+15 straipsnis. Filmų registras
+
+
+1. Filmų registras yra valstybės registras, steigiamas Vyriausybės ir tvarkomas Lietuvos kino centro. Kultūros ministerija yra vadovaujančioji Filmų registro tvarkymo įstaiga.
+
+
+
+
+2. Visi Lietuvoje pagaminti, taip pat į Lietuvos Respubliką įvežti rodyti kino teatruose filmai turi būti įregistruoti Filmų registre.
+
+
+
+
+3. Filmai, įvežti į Lietuvos Respubliką rodyti kino teatruose visuomenės kultūriniams, meniniams, edukaciniams poreikiams tenkinti skirtuose renginiuose (festivaliuose, seminaruose, retrospektyvose ir kt.), Filmų registre neregistruojami.
+
+
+
+
+4. Filmai įregistruojami į Filmų registrą per 14 darbo dienų po to, kai Filmų indeksavimo komisija suteikia filmų indeksus pagal žiūrovų amžiaus cenzą.
+
+
+
+
+5. Filmų registre turi būti nurodyti šie filmo duomenys:
 
 
 1) filmo pavadinimas;
@@ -595,7 +989,7 @@ Nr. XI-296, 2009-06-16, Žin., 2009, Nr. 77-3163 (2009-06-30), i. k. 1091010ISTA
 
 
 
-3) autorių turtinių teisių savininkas;
+3) autorių turtinių teisių savininkas (savininkai) ir filmo pirmojo įrašo gamintojas (gamintojai);
 
 
 
@@ -605,7 +999,7 @@ Nr. XI-296, 2009-06-16, Žin., 2009, Nr. 77-3163 (2009-06-30), i. k. 1091010ISTA
 
 
 
-5) šalis, kurioje pagamintas filmas;
+5) valstybės, kurioje pagamintas filmas, pavadinimas;
 
 
 
@@ -615,7 +1009,7 @@ Nr. XI-296, 2009-06-16, Žin., 2009, Nr. 77-3163 (2009-06-30), i. k. 1091010ISTA
 
 
 
-7) originalių filmo medžiagų saugojimo vieta;
+7) originalios filmo medžiagos saugojimo vieta;
 
 
 
@@ -625,87 +1019,40 @@ Nr. XI-296, 2009-06-16, Žin., 2009, Nr. 77-3163 (2009-06-30), i. k. 1091010ISTA
 
 
 
-9) kiti duomenys.
+9) filmui suteiktas indeksas pagal žiūrovų amžiaus cenzą Lietuvos Respublikoje.
+
+
+
+
+
+
+6. Filmą atsisakoma registruoti arba įregistruoto filmo registracija pripažįstama negaliojančia, kai:
+
+
+1) registruoti pateiktas garso ir vaizdo kūrinys negali būti laikomas filmu pagal šio įstatymo 3 straipsnio 3 dalį;
+
+
+
+
+2) nepateikiami dokumentai, įrodantys autorių teisių ir gretutinių teisių turėtojų ar jų įgaliotų asmenų leidimą rodyti filmą;
+
+
+
+
+3) filmui neišduota pažyma, kurioje nustatomas filmo indeksas pagal žiūrovų amžiaus cenzą;
+
+
+
+
+4) nepateikiami duomenys, nurodyti šio straipsnio 5 dalyje;
+
+
+
+
+5) paaiškėja, kad apie filmą buvo pateikti klaidingi (neteisingi) duomenys.
  
 
 
-
-
-
-
-
-
-12 straipsnis. Filmų indeksavimas pagal žiūrovų amžiaus cenzą
-
-
-1. Visi platinami ir rodomi kino teatruose, kino salėse (videosalėse) filmai turi būti indeksuojami pagal žiūrovų amžiaus cenzą.
-
-
-
-
-2. Indeksus, kurie turi būti nurodomi filmų afišose, kitoje reklamoje ir bet kokio pobūdžio informacinėje medžiagoje, skirtoje filmams anonsuoti, suteikia Filmų indeksavimo komisija. Jos sudėtį ir nuostatus Vyriausybės įgaliotos institucijos, atsakingos už valstybės politiką kino srityje, teikimu tvirtina bei Komisijos narių teikiamų paslaugų apmokėjimo tvarką nustato Vyriausybė. Ne mažiau kaip pusę Filmų indeksavimo komisijos narių sudaro Lietuvos kinematografininkų sąjungos, prodiuserių, filmų platintojų ir rodytojų asociacijų deleguoti atstovai.
-Straipsnio dalies pakeitimai:
-Nr. IX-1793, 2003-10-21, Žin., 2003, Nr. 108-4812 (2003-11-19), i. k. 1031010ISTA0IX-1793
- 
-
-
-
-
-3. Rinkliavos už filmų indeksavimą dydį bei surinkimo tvarką nustato Vyriausybė.
-
-
-
-
-4. Filmai indeksuojami per 7 darbo dienas. 
-
-
-
-
-5. Pagal žiūrovų amžiaus cenzą nustatomi šie filmų indeksai:
-
-
-1) „A“ – filmai, skirti įvairaus amžiaus žiūrovams;
-
-
-
-
-2) „N-7“ – filmai, skirti vaikams nuo 7 metų;
-
-
-
-
-3) „T“ – filmai, kuriuos vaikams iki 16 metų rekomenduojama žiūrėti su tėvais;
-
-
-
-
-4) „N-16“ – filmai, skirti žiūrovams nuo 16 metų;
-
-
-
-
-5) „S“ – filmai, skirti tik suaugusiesiems nuo 18 metų.
-
-
-
-
-
-
-6. Kino organizacijos, kurios verčiasi viešu filmų rodymu, privalo užtikrinti, kad filmų, skirtų žiūrovams nuo 18, 16 ir 7 metų, pristatymas (anonsas) kino salėse nebūtų rodomas prieš filmus, skirtus jaunesniems nei pristatomų (anonsuojamų) filmų žiūrovams, ir po šių filmų.
-Papildyta straipsnio dalimi:
-Nr. XI-296, 2009-06-16, Žin., 2009, Nr. 77-3163 (2009-06-30), i. k. 1091010ISTA00XI-296
- 
-
-
-
-
-
-
-13 straipsnis. Atsakomybė už šio Įstatymo pažeidimus
-
-
-Už šio Įstatymo pažeidimus taikoma atsakomybė įstatymų nustatyta tvarka.
- 
 
 
 
@@ -719,90 +1066,60 @@ KINO PAVELDO APSAUGA
  
 
 
-14 straipsnis. Vyriausybės įgaliota institucija, atsakinga už kino paveldo apsaugą
+16 straipsnis. Lietuvos kino paveldo apsauga
 
 
-1. Nacionalinių filmų originalių medžiagų, kaip nacionalinio turto, saugojimu rūpinasi Vyriausybės įgaliota institucija, atsakinga už kino paveldo apsaugą.
-
-
-
-
-2. Vyriausybės įgaliota institucija, atsakinga už kino paveldo apsaugą, priima saugoti nacionalinių filmų, kurių gamyba iš dalies ar visiškai finansuojama iš valstybės biudžeto, originalias medžiagas, jas atnaujina, naudoja mokslinio tyrimo, kūrybiniams ir kitiems tikslams.
+1. Už Lietuvos kino paveldo apsaugą yra atsakinga Lietuvos vyriausiojo archyvaro tarnyba.
 
 
 
 
-3. Nustatoma tokia nacionalinių filmų originalių medžiagų saugojimo tvarka:
-
-
-1) nacionalinių filmų originalias medžiagas saugoti Vyriausybės įgaliotai institucijai, atsakingai už kino paveldo apsaugą, privalo perduoti filmų gamintojai;
+2. Originali nacionalinių filmų medžiaga kaip nacionalinis turtas yra saugoma valstybės archyvuose. Valstybės archyvai originalią nacionalinių filmų medžiagą naudoja Dokumentų ir archyvų įstatyme, Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatyme, valstybės archyvų ir filmo gamintojo sudarytoje sutartyje nustatytais atvejais ir tvarka.
 
 
 
 
-2) originalias filmų medžiagas privalu perduoti saugoti ne vėliau kaip per 12 mėnesių nuo galutinės versijos užbaigimo;
+3. Valstybės archyvams filmo gamintojas privalo perduoti saugoti originalią nacionalinio filmo medžiagą, jeigu filmui gaminti buvo skirtas valstybinis finansavimas.
 
 
 
 
-3) originalias filmų medžiagas sunaikinti draudžiama; 
+4. Jeigu nacionalinis filmas buvo pagamintas tik iš privačių lėšų, originalios filmo medžiagos saugojimo ir panaudojimo tvarka nustatoma filmo gamintojo ir valstybės archyvų sudarytoje sutartyje.
 
 
 
 
-4) jei filmų gamyba buvo finansuojama tik iš privačių filmų gamintojų lėšų, originalių medžiagų saugojimo ir panaudojimo tvarka nustatoma sutartimi tarp gamintojų ir Vyriausybės įgaliotos institucijos, atsakingos už kino paveldo apsaugą.
+5. Šio straipsnio 1 ir 2 dalių nuostatos netaikomos bendros filmo gamybos filmui, jeigu sutartyje numatoma, kad originalią filmo medžiagą saugos kita sutarties šalis.
 
 
 
 
+6. Nustatoma tokia originalios nacionalinio filmo medžiagos saugojimo tvarka:
 
 
-4. Šio straipsnio 1 ir 2 dalies nuostatos netaikomos bendros gamybos produkcijai, jeigu sutartyje numatoma, kad originalios filmų medžiagos bus saugomos kitoje sutarties šalyje.
- 
-
-
-
+1) originalią nacionalinio filmo medžiagą valstybės archyvams saugoti privalo perduoti filmo gamintojas;
 
 
 
 
-
-ŠEŠTASIS SKIRSNIS
-BAIGIAMOSIOS NUOSTATOS
- 
+2) originalią nacionalinio filmo medžiagą privaloma perduoti ne vėliau kaip per 12 mėnesių nuo filmo pirmojo įrašo pagaminimo dienos;
 
 
-15 straipsnis. Įstatymo įsigaliojimas
 
 
-Įstatymo 8 straipsnio 2 dalies 1, 2 ir 3 punktai ir 11 bei 12 straipsniai įsigalioja nuo 2003 m. sausio 1 d. 
- 
+3) originalią nacionalinio filmo medžiagą sunaikinti draudžiama.
 
 
 
 
 
 
-16 straipsnis. Pasiūlymai Vyriausybei
-
-
-Vyriausybė: 
-
-
-1) įgyvendindama šio Įstatymo 5, 11, 12 ir 14 straipsnių nuostatas, paskiria įgaliotas institucijas;
+7. Lietuvos kino centras informaciją apie pagamintus nacionalinius filmus valstybės archyvams pateikia per 5 darbo dienas nuo filmo pagaminimo dienos.
 
 
 
 
-2) patvirtina Filmų registro nuostatus bei nustato rinkliavų už filmų registravimą ir už filmų registro duomenų pateikimą dydį;
-
-
-
-
-3) patvirtina kino filmų indeksavimo pagal žiūrovų amžiaus cenzą tvarką ir nustato rinkliavos už filmų indeksavimą dydį.
- 
-
-
+8. Valstybės archyvai informaciją apie iš filmo gamintojo priimtą saugoti originalią nacionalinio filmo medžiagą pateikia Lietuvos kino centrui per 5 darbo dienas nuo priimtos saugoti originalios filmo medžiagos dienos.
 
 
 
@@ -812,15 +1129,16 @@ Vyriausybė:
 
 
  
-Vadovaudamasis Lietuvos Respublikos Konstitucijos 71 straipsnio antrąja dalimi
-skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+Vadovaudamasis Lietuvos Respublikos Konstitucijos 71 straipsnio antrąja dalimi, skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-LIETUVOS RESPUBLIKOS SEIMO PIRMININKAS                       ARTŪRAS PAULAUSKAS
+LIETUVOS RESPUBLIKOS 
+SEIMO PIRMININKAS                                                                         ARTŪRAS PAULAUSKAS
  
 
 
+ 
  
  
 Pakeitimai:
@@ -834,3 +1152,8 @@ Lietuvos Respublikos kino įstatymo 6, 8 ir 12 straipsnių pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-296, 2009-06-16, Žin., 2009, Nr. 77-3163 (2009-06-30), i. k. 1091010ISTA00XI-296
 Lietuvos Respublikos kino įstatymo 10 ir 12 straipsnių papildymo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1897, 2011-12-22, Žin., 2012, Nr. 6-192 (2012-01-10), i. k. 1111010ISTA0XI-1897
+Lietuvos Respublikos kino įstatymo pakeitimo įstatymas
