@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CCA48EFA01D1"
 
 # Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų teismų veiklos teritorijų nustatymo ir Lietuvos Respublikos prokuratūros reformavimo
 
-Suvestinė redakcija nuo 2007-01-01 iki 2012-04-30
+Suvestinė redakcija nuo 2012-05-01 iki 2012-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 50-932, i. k. 0941010ISTA000I-497
  
@@ -164,14 +164,15 @@ Nr. I-634, 1994-11-08, Žin., 1994, Nr. 89-1710 (1994-11-18), i. k. 0941010ISTA0
 
 
 Nustatomos šios apygardų teismų veiklos teritorijos: 
-Vilniaus apygardos teismo veiklos teritorija apima: Vilniaus, Druskininkų ir Visagino miestų apylinkių teismų veiklos teritorijas, Ignalinos, Molėtų, Šalčininkų, Širvintų, Švenčionių, Trakų, Ukmergės, Varėnos, Vilniaus ir Zarasų rajonų apylinkių teismų veiklos teritorijas; 
-Kauno apygardos teismo veiklos teritorija apima: Kauno miesto apylinkės teismo veiklos teritoriją, Alytaus, Jonavos, Jurbarko, Kaišiadorių, Kauno, Lazdijų, Marijampolės, Prienų, Šakių ir Vilkaviškio rajonų apylinkių teismų veiklos teritorijas; 
+Vilniaus apygardos teismo veiklos teritorija apima: Vilniaus miesto apylinkių teismų veiklos teritorijas, Šalčininkų, Širvintų, Švenčionių, Trakų, Ukmergės ir Vilniaus rajonų apylinkių teismų veiklos teritorijas;
+Kauno apygardos teismo veiklos teritorija apima: Kauno ir Druskininkų miestų apylinkių teismų veiklos teritorijas, Alytaus, Jonavos, Jurbarko, Kaišiadorių, Kėdainių, Kauno, Lazdijų, Marijampolės, Prienų, Šakių, Varėnos ir Vilkaviškio rajonų apylinkių teismų veiklos teritorijas; 
 Klaipėdos apygardos teismo veiklos teritorija apima: Klaipėdos ir Palangos miestų apylinkių teismų veiklos teritorijas, Klaipėdos, Kretingos, Plungės, Skuodo, Šilalės, Šilutės ir Tauragės rajonų apylinkių teismų veiklos teritorijas; 
 Šiaulių apygardos teismo veiklos teritorija apima: Šiaulių miesto apylinkės teismo veiklos teritoriją, Akmenės, Joniškio, Kelmės, Mažeikių, Pakruojo, Radviliškio, Raseinių, Šiaulių ir Telšių rajonų apylinkių teismų veiklos teritorijas; 
-Panevėžio apygardos teismo veiklos teritorija apima: Panevėžio miesto apylinkės teismo veiklos teritoriją, Anykščių, Biržų, Kėdainių, Kupiškio, Pasvalio, Rokiškio ir Utenos rajonų apylinkių teismų veiklos teritorijas.
+Panevėžio apygardos teismo veiklos teritorija apima: Panevėžio ir Visagino miestų apylinkių teismų veiklos teritorijas, Anykščių, Biržų, Ignalinos, Molėtų, Kupiškio, Pasvalio, Rokiškio, Utenos ir Zarasų rajonų apylinkių teismų veiklos teritorijas.
 Straipsnio dalies pakeitimai:
 Nr. I-688, 1994-12-08, Žin., 1994, Nr. 96-1881 (1994-12-14), i. k. 0941010ISTA000I-688
 Nr. VIII-1719, 2000-06-08, Žin., 2000, Nr. 52-1480 (2000-06-28), i. k. 1001010ISTAIII-1719
+Nr. XI-1899, 2011-12-22, Žin., 2012, Nr. 5-139 (2012-01-07), i. k. 1111010ISTA0XI-1899
  
 
 
@@ -295,7 +296,7 @@ Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietu
  
 3.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-1994-12-22, Žin., 1994, Nr. 101-2045 (1994-12-30), i. k. 0941000NUTARG940424                
+1994-12-22, Žin., 1994, Nr. 101-2045 (1994-12-30), i. k. 0941000NUTARG940424                
 Dėl Lietuvos Respublikos 1994 m. birželio 15 d. įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo" 2 straipsnio ir šio įstatymo priėmimo tvarkos atitikimo Lietuvos Respublikos Konstitucijai
  
 4.
@@ -312,3 +313,8 @@ Lietuvos Respublikos įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos a
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-868, 2006-10-19, Žin., 2006, Nr. 118-4454 (2006-11-04), i. k. 1061010ISTA000X-868
 Lietuvos Respublikos įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo" 7 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1899, 2011-12-22, Žin., 2012, Nr. 5-139 (2012-01-07), i. k. 1111010ISTA0XI-1899
+Lietuvos Respublikos įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo" 6 straipsnio pakeitimo įstatymas
