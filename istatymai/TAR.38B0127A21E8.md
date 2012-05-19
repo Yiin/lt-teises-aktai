@@ -1528,14 +1528,26 @@ straipsniu:
 Nr. IX-1680,
 2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
  
+Skirsnio pavadinimo redakcija
+iki 2012-07-01:
 DEŠIMTASIS SKIRSNIS
 LAIVO VALDYTOJO IR GELBĖTOJO ATSAKOMYBĖS RIBOJIMAS
+Skirsnio pavadinimo redakcija nuo
+2012-07-01:
+DEŠIMTASIS SKIRSNIS
+LAIVO VALDYTOJO IR GELBĖTOJO ATSAKOMYBĖS RIBOJIMAS IR
+LAIVO VALDYTOJO PRIEVOLIŲ ĮVYKDYMO UŽTIKRINIMAS
 Skirsnio pavadinimas keistas:
 Nr. X-115, 2005-02-15,
 Žin., 2005, Nr. 31-973 (2005-03-05)
+Nr.
+XI-2008,
+2012-05-10, Žin., 2012, Nr. 57-2831 (2012-05-19)
             
-58
-straipsnis. Laivo valdytojo ir gelbėtojo atsakomybės ribojimas
+Straipsnio redakcija iki
+2012-07-01:
+58 straipsnis. Laivo
+valdytojo ir gelbėtojo atsakomybės ribojimas
 1. Laivo valdytojo ir gelbėtojo
 atsakomybė dėl jiems pareikštų reikalavimų gali būti ribojama 1976 m. tarptautinės konvencijos dėl atsakomybės pagal jūrinius reikalavimus ribojimo bei kitų
 Lietuvos Respublikos tarptautinių sutarčių nustatyta tvarka.
@@ -1544,6 +1556,21 @@ Lietuvos Respublikos tarptautinių sutarčių nustatyta tvarka.
 pasinaudoti 1976 m. tarptautinėje konvencijoje dėl atsakomybės pagal jūrinius
 reikalavimus ribojimo bei kitose Lietuvos Respublikos tarptautinėse sutartyse
 nustatyta teise riboti atsakomybę.
+Straipsnio redakcija nuo
+2012-07-01:
+58
+straipsnis. Laivo valdytojo ir gelbėtojo atsakomybės ribojimas
+1. Laivo valdytojo ir gelbėtojo atsakomybė dėl jiems
+pareikštų reikalavimų gali būti ribojama 1976 m. Tarptautinės konvencijos dėl
+atsakomybės pagal jūrinius reikalavimus ribojimo ir 1996 m. Protokolo, iš dalies keičiančio 1976 m.
+Konvenciją dėl atsakomybės pagal jūrinius reikalavimus ribojimo, (toliau –
+Konvencija dėl atsakomybės pagal jūrinius reikalavimus ribojimo) bei kitų Lietuvos Respublikos
+tarptautinių sutarčių nustatyta tvarka.
+2. Asmuo, už kurio veiksmus, aplaidumą ar
+įsipareigojimų nevykdymą atsako laivo valdytojas ar gelbėtojas, turi teisę
+pasinaudoti Konvencijoje dėl atsakomybės pagal jūrinius reikalavimus ribojimo
+ir kitose Lietuvos Respublikos tarptautinėse sutartyse nustatyta teise riboti
+atsakomybę.
 Straipsnio pakeitimai:
 Nr. VIII-1899, 00.08.29, Žin., 2000,
 Nr.75-2266 (00.09.07)
@@ -1551,6 +1578,63 @@ Nr. VIII-1963, 00.09.26, Žin., 2000,
 Nr.85-2584 (00.10.11)
 Nr. X-115, 2005-02-15,
 Žin., 2005, Nr. 31-973 (2005-03-05)
+Nr.
+XI-2008,
+2012-05-10, Žin., 2012, Nr. 57-2831 (2012-05-19)
+ 
+Įstatymas papildomas 581
+straipsniu 2012-07-01:
+581 straipsnis.
+Laivo valdytojo prievolių įvykdymo užtikrinimas
+1. Laivo, plaukiojančio su Lietuvos
+valstybės vėliava, ar į Lietuvos Respublikos jūrų uostus įplaukiančio užsienio
+valstybės laivo valdytojo prievolių dėl reikalavimų, kuriems pagal Konvenciją dėl atsakomybės pagal jūrinius reikalavimus
+ribojimo taikomas atsakomybės ribojimas, įvykdymas turi būti užtikrintas
+veiksmingomis prievolių įvykdymo užtikrinimo priemonėmis (draudimu, garantija
+ar kitomis priemonėmis). Laivo valdytojo prievolių įvykdymo užtikrinimo suma
+kiekvieno laivo vienam įvykiui turi būti ne mažesnė negu Konvencijoje dėl atsakomybės pagal jūrinius reikalavimus
+ribojimo nustatyta atitinkama didžiausia suma, kuria ribojama
+atsakomybė.
+2.
+Šio straipsnio 1 dalyje nurodyto prievolių įvykdymo užtikrinimo priemonės
+buvimas patvirtinamas atitinkamu dokumentu, kurį išduoda prievolių įvykdymo
+užtikrinimą suteikęs subjektas (draudimo ar savidraudos veiklą vykdantis subjektas,
+Tarptautinės laivų valdytojų civilinės atsakomybės draudimo klubų
+konfederacijos nariai, bankas ar kitas subjektas, turintis teisę vykdyti
+atitinkamą prievolių įvykdymo užtikrinimo veiklą) (toliau – prievolių
+įvykdymo užtikrinimą patvirtinantis dokumentas). Prievolių įvykdymo užtikrinimą
+patvirtinantis dokumentas privalo būti laive. Jeigu prievolių įvykdymo
+užtikrinimą patvirtinančiame dokumente vartojama ne anglų, prancūzų ar ispanų
+kalba, turi būti pateikiamas jo vertimas į vieną iš šių kalbų. Prievolių
+įvykdymo užtikrinimą patvirtinančiame dokumente turi būti nurodyta bent ši
+informacija:
+1) laivo
+pavadinimas, Tarptautinės jūrų organizacijos suteiktas laivo identifikavimo
+numeris ir registravimo uostas; 
+2) laivo
+valdytojo vardas, pavardė arba pavadinimas ir pagrindinė veiklos vykdymo vieta;
+
+3) prievolių
+įvykdymo užtikrinimo priemonės rūšis ir jos galiojimo laikas; 
+4)
+prievolių įvykdymo užtikrinimo priemonę suteikusio subjekto pavadinimas ir
+pagrindinė veiklos vykdymo vieta bei atitinkamais atvejais – veiklos vykdymo
+vieta, kurioje buvo įgyta prievolių įvykdymo užtikrinimo priemonė.
+3.
+Šio straipsnio 1 ir 2 dalių nuostatos netaikomos laivams, kurių bendroji talpa
+mažesnė negu 300, taip pat karo laivams, karinio jūrų laivyno pagalbiniams
+laivams ar kitiems valstybei nuosavybės teise priklausantiems ar valstybės kitu
+teisėtu pagrindu naudojamiems laivams nekomercinėms viešosioms paslaugoms
+teikti.
+4.
+Lietuvos saugios laivybos administracija ir Lietuvos Respublikos jūrų uostus
+valdančios įmonės prižiūri, kaip laivų valdytojai laikosi šio straipsnio 1 ir 2
+dalyse nurodytų nuostatų.
+Įstatymas papildytas
+straipsniu:
+Nr.
+XI-2008,
+2012-05-10, Žin., 2012, Nr. 57-2831 (2012-05-19)
  
             59 straipsnis. Neteko galios nuo 2005 m. liepos 1 d.
 Straipsnio pakeitimai:
@@ -1613,9 +1697,10 @@ Reikalavimai, nurodyti 1 dalyje tenkinami eilės tvarka, proporcingai bendrųjų
 reikalavimų dydžiui.
             5.
 Reikalavimai, atsiradę dėl laivo paskutinio reiso, tenkinami pirmiau už tokius
-pat reikalavimus, atsiradusius dėl laivo ankstesnių reisų. Šio straipsnio 2 dalies
-1 punkte nurodyti reikalavimai, atsiradę dėl kelių laivo reisų, prilyginami
-tokiems pat reikalavimams, atsiradusiems dėl laivo paskutinio reiso.
+pat reikalavimus, atsiradusius dėl laivo ankstesnių reisų. Šio straipsnio 2
+dalies 1 punkte nurodyti reikalavimai, atsiradę dėl kelių laivo reisų,
+prilyginami tokiems pat reikalavimams, atsiradusiems dėl laivo paskutinio
+reiso.
             
             63 straipsnis. Turtas ir piniginės lėšos,
 iš kurių tenkinami privilegijuoti 
@@ -1654,19 +1739,20 @@ ieškininės senaties terminai
 Teisė į privilegijuotų reikalavimų patenkinimą pasibaigia suėjus vieneriems
 metams nuo privilegijuoto reikalavimo teisės atsiradimo dienos.
             2.
-Teisė į privilegijuotų reikalavimų, nurodytų šio įstatymo 62 straipsnio 2
-dalies 5 punkte, patenkinimą pasibaigia suėjus 6 mėnesiams nuo reikalavimo
-teisės atsiradimo dienos.
+Teisė į privilegijuotų reikalavimų, nurodytų šio įstatymo 62 straipsnio 2 dalies
+5 punkte, patenkinimą pasibaigia suėjus 6 mėnesiams nuo reikalavimo teisės
+atsiradimo dienos.
  
 DVYLIKTASIS SKIRSNIS
 JŪRINIAI PROTESTAI
             
             65 straipsnis. Jūrinio protesto aktas
             1.
-Jeigu laivui plaukiojant jūroje arba stovint uoste įvyko įvykis, kuris gali būti
-pagrindu pareikšti laivo valdytojui turtinius reikalavimus, laivo kapitonas,
-norėdamas užtikrinti įrodymus laivo valdytojo teisėms ir teisėtiems interesams
-ginti, pasirūpina, kad nustatyta tvarka būtų surašytas jūrinio protesto aktas.
+Jeigu laivui plaukiojant jūroje arba stovint uoste įvyko įvykis, kuris gali
+būti pagrindu pareikšti laivo valdytojui turtinius reikalavimus, laivo
+kapitonas, norėdamas užtikrinti įrodymus laivo valdytojo teisėms ir teisėtiems
+interesams ginti, pasirūpina, kad nustatyta tvarka būtų surašytas jūrinio
+protesto aktas.
             2.
 Jūrinio protesto akte turi būti aprašytos įvykio aplinkybės ir priemonės, kurių
 ėmėsi laivo kapitonas jam patikėtam turtui apsaugoti.
@@ -1770,8 +1856,8 @@ ieškinio senaties terminai, nustatyti šio straipsnio 6 ir 7 dalyse.
 Pretenzijos vežėjui dėl keleivių ar bagažo vežimų pareiškiamos per pirmuosius 
 3 ieškinio senaties termino mėnesius.
 3.
-Pretenzijos dėl krovinių vežimo pareiškiamos prieš perduodant krovinį ar
-krovinio perdavimo metu. Tais atvejais, kai krovinio trūkumas ar sužalojimas
+Pretenzijos dėl krovinių vežimo pareiškiamos prieš perduodant krovinį ar krovinio
+perdavimo metu. Tais atvejais, kai krovinio trūkumas ar sužalojimas
 neakivaizdus, – per tris dienas.
 4.
 Pretenzijos dėl dispačo ar demeredžo išmokėjimo pareiškiamos per pirmąsias 45
@@ -1814,13 +1900,13 @@ nustatytas Lietuvos Respublikos civiliniame kodekse.
 Straipsnio pakeitimai:
 Nr. VIII-1899, 00.08.29, Žin., 2000,
 Nr.75-2266 (00.09.07)
-Nr. VIII-1963, 00.09.26, Žin., 2000,
-Nr.85-2584 (00.10.11)
+Nr. VIII-1963, 00.09.26, Žin., 2000, Nr.85-2584
+(00.10.11)
 Nr. IX-1680,
 2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
  
-            76 straipsnis. Ieškininės senaties terminų
-sustabdymas, nutraukimas ir atnaujinimas
+76 straipsnis.
+Ieškininės senaties terminų sustabdymas, nutraukimas ir atnaujinimas
             1.
 Ieškininės senaties terminams, numatytiems šiame įstatyme, taikomos ieškininės
 senaties termino eigos sustabdymo, nutraukimo ar atnaujinimo taisyklės,
@@ -2096,8 +2182,8 @@ Jei darbo sutartis su jūrininku baigiasi laivui esant užsienio valstybės uost
 laivo valdytojas atlygina jūrininko išlaidas, susijusias su jo kelione į
 nuolatinę gyvenamąją vietą. Jei užsienio valstybė, kurios uoste baigiasi darbo
 sutartis su jūrininku, atsisako priimti jį į šalį arba priima pagal užstatą,
-kurio jūrininkas negali duoti, jis tęsia darbą laive, kol laivas atplauks į
-uostą, kuriame jūrininką galima atleisti iš darbo laive.
+kurio jūrininkas negali duoti, jis tęsia darbą laive, kol laivas atplauks į uostą,
+kuriame jūrininką galima atleisti iš darbo laive.
             2.
 Jei nustatoma, kad jūrininkas serga liga, kuri kelia pavojų kitiems esantiems
 laive asmenims, laivo kapitonas, jei laive neįmanoma šiam pavojui užkirsti
@@ -2125,7 +2211,6 @@ ligos ar sužalojimo jūrininkas apdraustas draudimo organizacijoje.
 RESPUBLIKOS PREZIDENTAS         
                        ALGIRDAS BRAZAUSKAS 
  
- 
 Lietuvos Respublikos 
                                                                                                 1996 m. rugsėjo 12 d.
                                                                                                 įstatymo
@@ -2134,20 +2219,30 @@ Nr. I-1513
  
 Įgyvendinami Europos Sąjungos teisės aktai
  
-1.
- 1986 m. gruodžio 22 d. Tarybos reglamentas EEB Nr. 4055/86 dėl laisvės teikti
-paslaugas principo taikymo jūrų transporto paslaugoms tarp valstybių narių bei
-valstybių narių ir trečiųjų šalių.
+1. 1986 m. gruodžio 22 d. Tarybos reglamentas EEB Nr.
+4055/86 dėl laisvės teikti paslaugas principo taikymo jūrų transporto
+paslaugoms tarp valstybių narių bei valstybių narių ir trečiųjų šalių.
 2.
  1992 m. gruodžio 7 d. Tarybos reglamentas EEB Nr. 3577/92, taikantis laisvės
 teikti paslaugas jūrų transportui valstybėse narėse principą (jūrų kabotažas).
-3.
- 1999 m. liepos 21 d. Tarybos direktyva Nr. 1999/63/EB dėl susitarimo dėl
-jūrininkų darbo laiko, sudaryto tarp Europos Bendrijų laivų savininkų
-asociacijos (ECSA) ir Transporto darbuotojų sąjungų federacijos.
+3. 1999 m. liepos 21 d. Tarybos direktyva Nr.
+1999/63/EB dėl susitarimo dėl jūrininkų darbo laiko, sudaryto tarp Europos
+Bendrijų laivų savininkų asociacijos (ECSA) ir Transporto darbuotojų sąjungų
+federacijos.
+Priedas papildomas 4 punktu
+nuo 2012-07-01:
+4. 2009 m.
+balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/20/EB dėl laivų
+savininkų atsakomybės pagal jūrinius reikalavimus draudimo (OL 2009 L 131, p. 128).
 Įstatymas papildytas priedu:
 Nr. IX-1680,
 2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
+Priedo
+pakeitimai:
+Nr.
+XI-2008,
+2012-05-10, Žin., 2012, Nr. 57-2831 (2012-05-19)
+ 
 _________________
  
 Pakeitimai:
@@ -2161,8 +2256,8 @@ LIETUVOS RESPUBLIKOS PREKYBINĖS
 LAIVYBOS ĮSTATYMO KETURIOLIKTOJO SKIRSNIO PAKEITIMO ĮSTATYMAS 
  
 2. 
-Lietuvos Respublikos Seimas, Įstatymas
-
+Lietuvos Respublikos Seimas,
+Įstatymas 
 Nr. VIII-1255,
 99.06.22, Žin., 1999, Nr.60-1951 (99.07.09) 
 LIETUVOS RESPUBLIKOS PREKYBINĖS
@@ -2170,8 +2265,8 @@ LAIVYBOS ĮSTATYMO 2 IR 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 3.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1899, 00.08.29, Žin., 2000,
-Nr.75-2266 (00.09.07)
+Nr. VIII-1899, 00.08.29, Žin., 2000, Nr.75-2266
+(00.09.07)
 PREKYBINĖS LAIVYBOS ĮSTATYMO 1, 2, 4, 6, 7, 8, 9, 11, 12, 13, 49, 55, 58,
 59, 75, 78, 81, 82 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, 10, 53, 54, 56 STRAIPSNIŲ
 PRIPAŽINIMO NETEKUSIAIS GALIOS IR DEVINTOJO SKIRSNIO PAVADINIMO PAKEITIMO
@@ -2180,8 +2275,8 @@ Pakeistas įstatymo įsigaliojimas:
 Šis įstatymas įsigalioja nuo 2000 m. spalio 1 d.
                 Pakeitimas:
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1963, 00.09.26, Žin., 2000,
-Nr.85-2584 (00.10.11)
+Nr. VIII-1963, 00.09.26, Žin., 2000, Nr.85-2584
+(00.10.11)
 PREKYBINĖS LAIVYBOS ĮSTATYMO 1, 2, 4, 6, 7, 8, 9,
 11, 12, 13, 49, 55, 58, 59, 75, 78, 81, 82 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO,
 10, 53, 54, 56 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS IR DEVINTOJO SKIRSNIO
@@ -2228,10 +2323,10 @@ PAVADINIMŲ PAKEITIMO, ĮSTATYMO PAPILDYMO 40(1) IR 57(1) STRAIPSNIAIS BEI
 Šio Įstatymo 6 straipsnis
 įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos.
 Šio Įstatymo 7, 8, 9, 10, 11,
-12, 13, 14, 15, 16, 21, 22, 23, 24, 25, 26, 27 straipsniai įsigalioja nuo 1924 m. tarptautinės konvencijos dėl teisės normų, susijusių su konosamentais, suvienodinimo (Hagos taisyklės),
- 1968 m. Briuselio protokolo, iš dalies pakeičiančio Tarptautinę konvenciją dėl
-kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Visbiu
-taisyklės) ir Protokolo (protokolas dėl SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d. tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su
+12, 13, 14, 15, 16, 21, 22, 23, 24, 25, 26, 27 straipsniai įsigalioja nuo 1924 m. tarptautinės konvencijos dėl teisės normų, susijusių su konosamentais, suvienodinimo (Hagos
+taisyklės), 1968 m. Briuselio protokolo, iš dalies pakeičiančio Tarptautinę
+konvenciją dėl kai kurių teisės normų, susijusių su konosamentais, suvienodinimo
+(Visbiu taisyklės) ir Protokolo (protokolas dėl SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d. tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su
 konosamentais, suvienodinimo (Hagos taisyklės), iš dalies pakeistą 1968 m. vasario 23 d. protokolu (Visbiu taisyklės), įsigaliojimo Lietuvos Respublikai, t.y. nuo 2004 m. birželio 2 d. 
 Šio Įstatymo 19 ir 20
 straipsniai įsigalioja nuo Jungtinių Tautų Organizacijos Jūrų teisės
@@ -2289,11 +2384,22 @@ LAIVYBOS ĮSTATYMO 78, 79, 80, 81 IR 83 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja 2012 m. liepos 1 d.
  
+12.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-2008,
+2012-05-10, Žin., 2012, Nr. 57-2831 (2012-05-19)
+PREKYBINĖS
+LAIVYBOS ĮSTATYMO DEŠIMTOJO SKIRSNIO PAVADINIMO, 58 STRAIPSNIO, ĮSTATYMO PRIEDO
+PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 58(1) STRAIPSNIU ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2012 m. liepos 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2012-01-23)
+Aušra Bodin (2012-05-22)
                  
-ausrine.trapinskiene@lrs.lt
+aubodi@lrs.lt
