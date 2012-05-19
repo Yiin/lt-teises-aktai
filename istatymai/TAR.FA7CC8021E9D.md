@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FA7CC8021E9D"
 
 # Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymas
 
-Suvestinė redakcija nuo 2009-05-30 iki 2012-05-18
+Suvestinė redakcija nuo 2012-05-19 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 66-1609, i. k. 0971010ISTAVIII-342
  
@@ -493,7 +493,15 @@ i) kurie būtinosios karinės tarnybos ar karinių mokymų sovietinėje armijoje
 
 
 
-j) kurie dalyvavo likviduojant Černobylio atominės elektrinės avarijos padarinius ir statant Slavutičiaus miestą Ukrainoje.
+j) kurie dalyvavo likviduojant Černobylio atominės elektrinės avarijos padarinius ir statant Slavutičiaus miestą Ukrainoje;
+
+
+
+
+k) kurie nuo 1990 m. kovo 11 d. atsisakė prievartinės tarnybos sovietų armijoje (pasitraukė iš jos arba boikotavo šaukimą tarnauti joje) ir dėl to buvo prievarta paimti į sovietų armijos dalinius arba iki 1991 m. rugsėjo 7 d. priversti grįžti tęsti (išvykti atlikti) tarnybą juose.
+Papildyta papunkčiu:
+Nr. XI-2006, 2012-05-10, Žin., 2012, Nr. 57-2829 (2012-05-19), i. k. 1121010ISTA0XI-2006
+ 
 
 
 
@@ -650,3 +658,8 @@ Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, t
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-260, 2009-05-14, Žin., 2009, Nr. 64-2546 (2009-05-30), i. k. 1091010ISTA00XI-260
 Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo 5, 7, 7-1, 9 straipsnių pakeitimo ir papildymo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2006, 2012-05-10, Žin., 2012, Nr. 57-2829 (2012-05-19), i. k. 1121010ISTA0XI-2006
+Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo 7 straipsnio papildymo įstatymas
