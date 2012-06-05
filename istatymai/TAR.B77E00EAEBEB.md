@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B77E00EAEBEB"
 
 # Lietuvos Respublikos klimato kaitos valdymo įstatymas
 
-Suvestinė redakcija nuo 2010-12-11 iki 2012-06-04
+Suvestinė redakcija nuo 2012-06-05 iki 2013-05-31
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 87-3662, i. k. 1091010ISTA00XI-329
  
@@ -60,7 +60,10 @@ Nr. XI-1170, 2010-11-23, Žin., 2010, Nr. 145-7427 (2010-12-11), i. k. 1101010IS
 
 
 
-2. Bendrai įgyvendinamas projektas – veikla ir (ar) priemonės, kurias vykdant mažinamas į atmosferą išmetamų šiltnamio efektą sukeliančių dujų kiekis arba absorbuojamos šiltnamio efektą sukeliančios dujos ir kurias Jungtinių Tautų bendrosios klimato kaitos konvencijos (toliau – Klimato kaitos konvencija) Kioto protokolo I priede nurodyta valstybė ar joje registruotas juridinis asmuo įgyvendina Lietuvos Respublikos teritorijoje arba Lietuvos Respublika ar joje registruotas juridinis asmuo įgyvendina Klimato kaitos konvencijos Kioto protokolo I priede nurodytos valstybės teritorijoje. 
+2. Bendrai įgyvendinamas projektas – veikla ir (ar) priemonės, kurias vykdant mažinamas į atmosferą išmetamų šiltnamio efektą sukeliančių dujų kiekis arba absorbuojamos šiltnamio efektą sukeliančios dujos ir kurias Jungtinių Tautų bendrosios klimato kaitos konvencijos (toliau – Klimato kaitos konvencija) I priede nurodyta valstybė ar joje registruotas juridinis asmuo įgyvendina Lietuvos Respublikos teritorijoje arba Lietuvos Respublika ar joje registruotas juridinis asmuo įgyvendina Klimato kaitos konvencijos I priede nurodytos valstybės teritorijoje. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2027, 2012-05-22, Žin., 2012, Nr. 63-3168 (2012-06-05), i. k. 1121010ISTA0XI-2027
+ 
 
 
 
@@ -502,6 +505,21 @@ Nr. XI-1170, 2010-11-23, Žin., 2010, Nr. 145-7427 (2010-12-11), i. k. 1101010IS
 
 
 3. Nustatytosios normos vienetams įsigyti naudojamos šio straipsnio 2 dalyje nurodytoje Klimato kaitos specialiojoje programoje sukauptos lėšos ir (ar) valstybės biudžeto lėšos.
+
+
+
+
+4. Kai nustatytosios normos vienetus perkančioji valstybė ar jos įgaliotas asmuo siūlo sudaryti sandorį, už kurį būtų atsiskaitoma nauju ilgalaikiu materialiuoju turtu, Vyriausybė įvertina šio įstatymo 10 straipsnio 4 dalies 1 punkte nurodytos Vyriausybės įgaliotos institucijos pateiktą aplinkosauginės ir finansinės naudos reikšmingumo pagrindimą. Pagrindimas parengiamas Vyriausybės nustatyta tvarka, numatant, kad turi būti įvertintas ir pagrįstas ekvivalentiškų gautinų lėšų už perleidžiamus nustatytosios normos vienetus ir siūlomo naujo ilgalaikio materialiojo turto verčių skirtumas. Vyriausybė gali priimti sprendimą, kad nustatytosios normos vienetus perkančioji valstybė ar jos įgaliotas asmuo už perleidžiamus nustatytosios normos vienetus gali atsiskaityti ekvivalentišku lėšų už perleidžiamus nustatytosios normos vienetus kiekiui nauju ilgalaikiu materialiuoju turtu, kuris atitinka Europos ir Lietuvos standartų reikalavimus ir bus naudojamas klimato kaitą mažinantiems šio įstatymo 10 straipsnio 3 dalies 1 ir 2 punktuose nurodytų Klimato kaitos specialiosios programos lėšų panaudojimo krypčių projektams ir (ar) priemonėms įgyvendinti (toliau – turtas). Nustatytosios normos vienetų vertė nustatoma pagal šio įstatymo 10 straipsnio 4 dalies 1 punkte nurodytos Vyriausybės įgaliotos institucijos derybų būdu su nustatytosios normos vienetus perkančiąja valstybe ar jos įgaliotu asmeniu sutartą Lietuvos Respublikai palankiausią kainą. 
+Papildyta straipsnio dalimi:
+Nr. XI-2027, 2012-05-22, Žin., 2012, Nr. 63-3168 (2012-06-05), i. k. 1121010ISTA0XI-2027
+ 
+
+
+
+
+5. Ūkio subjektams, kurių vykdoma veikla nepatenka į šio įstatymo 1 priede nurodytą veiklos rūšių sąrašą ir kurie priskiriami Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje nedalyvaujantiems sektoriams, metiniai išmetamųjų šiltnamio efektą sukeliančių dujų kiekio mažinimo tikslai ir šių tikslų nustatymo principai nustatomi Nacionalinėje klimato kaitos valdymo politikos strategijoje. Vadovaudamasi Europos Sąjungos teisės aktais ir Nacionaline klimato kaitos valdymo politikos strategija, Vyriausybė arba jos įgaliota institucija nustato metiniams išmetamųjų šiltnamio efektą sukeliančių dujų kiekio mažinimo tikslams pasiekti taikomų lankstumo priemonių naudojimo tvarką. 
+Papildyta straipsnio dalimi:
+Nr. XI-2027, 2012-05-22, Žin., 2012, Nr. 63-3168 (2012-06-05), i. k. 1121010ISTA0XI-2027
  
 
 
@@ -509,7 +527,10 @@ Nr. XI-1170, 2010-11-23, Žin., 2010, Nr. 145-7427 (2010-12-11), i. k. 1101010IS
 
 
 
-10 straipsnis. Klimato kaitos specialioji programa
+10 straipsnis. Klimato kaitos specialioji programa ir pagal nustatytosios normos vienetų įsigijimo ir perleidimo sandorius gauto turto perdavimas 
+Pakeistas straipsnio pavadinimas:
+Nr. XI-2027, 2012-05-22, Žin., 2012, Nr. 63-3168 (2012-06-05), i. k. 1121010ISTA0XI-2027
+ 
 
 
 1. Klimato kaitos valdymo priemonėms papildomai finansuoti sudaroma Klimato kaitos specialioji programa (toliau – Programa). Programos lėšos kaupiamos atskiroje Valstybės iždo sąskaitoje. Programos finansavimo pajamos ir išlaidos, vadovaujantis specialiųjų programų finansavimo principais, planuojamos valstybės biudžete.
@@ -620,7 +641,35 @@ Nr. XI-1170, 2010-11-23, Žin., 2010, Nr. 145-7427 (2010-12-11), i. k. 1101010IS
 
 
 
-5. Nacionalinį klimato kaitos komitetą – Vyriausybės įgaliotos institucijos, administruojančios Programos lėšas, patariamąjį organą – sudaro valstybės institucijų, asociacijų, mokslo ir studijų institucijų ir kitų institucijų atstovai. Nacionalinio klimato kaitos komiteto sudėtį ir veiklos nuostatus tvirtina aplinkos ministras. Nacionalinis klimato kaitos komitetas nėra juridinis asmuo.
+5. Jeigu Vyriausybė pagal šio įstatymo 9 straipsnio 4 dalį priima sprendimą dėl nustatytosios normos vienetų įsigijimo ir perleidimo sandorio sudarymo, pagal kurį nustatytosios normos vienetus perkančioji valstybė ar jos įgaliotas asmuo mainais už perleidžiamus nustatytosios normos vienetus atsiskaito turtu, ir šio straipsnio 4 dalies 1 punkte nurodyta Vyriausybės įgaliota institucija pasirašo nustatytosios normos vienetų įsigijimo ir perleidimo sutartį, mainais už perleistus nustatytosios normos vienetus gautas turtas Vyriausybės sprendimu perduodamas šio straipsnio 3 dalies 1 ir 2 punktuose nurodytų Programos lėšų panaudojimo krypčių projektus ir (ar) priemones įgyvendinantiems subjektams:
+
+
+1) savivaldybėms nuosavybėn jų funkcijoms įgyvendinti, kai yra savivaldybės tarybos sutikimas;
+
+
+
+
+2) valstybės institucijoms ir įstaigoms valdyti, naudoti ir disponuoti šiuo turtu patikėjimo teise. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XI-2027, 2012-05-22, Žin., 2012, Nr. 63-3168 (2012-06-05), i. k. 1121010ISTA0XI-2027
+ 
+
+
+
+
+6. Turto priėmimo–perdavimo aktą pasirašo šio straipsnio 5 dalies 1 ir 2 punktuose nurodyti turtą perimantys subjektai ir šio straipsnio 4 dalies 1 punkte nurodyta Vyriausybės įgaliota institucija. 
+Papildyta straipsnio dalimi:
+Nr. XI-2027, 2012-05-22, Žin., 2012, Nr. 63-3168 (2012-06-05), i. k. 1121010ISTA0XI-2027
+ 
+
+
+
+
+7. Nacionalinį klimato kaitos komitetą – Vyriausybės įgaliotos institucijos, administruojančios Programos lėšas, patariamąjį organą – sudaro valstybės institucijų, asociacijų, mokslo ir studijų institucijų ir kitų institucijų atstovai. Nacionalinio klimato kaitos komiteto sudėtį ir veiklos nuostatus tvirtina aplinkos ministras. Nacionalinis klimato kaitos komitetas nėra juridinis asmuo.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-2027, 2012-05-22, Žin., 2012, Nr. 63-3168 (2012-06-05), i. k. 1121010ISTA0XI-2027
  
 
 
@@ -740,7 +789,10 @@ FLUORINTŲ ŠILTNAMIO EFEKTĄ SUKELIANČIŲ DUJŲ TVARKYMO ATESTATŲ IŠDAVIMAS,
 3. Atestatai išduodami ne vėliau kaip per 20 darbo dienų nuo visų tinkamai įformintų dokumentų ir reikalingos atestatui gauti informacijos pateikimo dienos. Jeigu per nustatytą terminą sprendimas išduoti atestatą nepriimamas, nelaikoma, kad atestatas išduotas. Jeigu sprendimui priimti reikalinga papildoma informacija iš kitų institucijų, įstaigų arba kitų fizinių ar juridinių asmenų, sprendimo priėmimo terminas gali būti vieną kartą pratęstas iki 10 darbo dienų, apie tai informavus pareiškėją iki šioje dalyje nurodyto atestato išdavimo termino pabaigos. Atestatai išduodami neterminuotam laikui šio straipsnio 1 dalyje nurodytiems fiziniams ir juridiniams asmenims, kurie atitinka šiuos reikalavimus:
 
 
-1) juridinis asmuo atestuojamai veiklai atlikti yra įdarbinęs ne mažesnį kaip aplinkos ministro nustatytą skaičių darbuotojų, turinčių aplinkos ministro ir socialinės apsaugos ir darbo ministro nustatyta tvarka arba kitos valstybės narės atsakingos institucijos išduotą pažymėjimą, patvirtinantį kvalifikaciją atlikti šaldymo įrangos patikrą dėl fluorintų šiltnamio efektą sukeliančių dujų nuotėkio, įrengti, eksploatuoti, atlikti techninę priežiūrą ir (ar) fluorintų šiltnamio efektą sukeliančių dujų surinkimą iš šaldymo įrangos, o fizinis asmuo turi šiame punkte nurodytą pažymėjimą;
+1) juridinis asmuo atestuojamai veiklai atlikti yra įdarbinęs ne mažesnį kaip aplinkos ministro nustatytą skaičių darbuotojų, turinčių teisės aktų nustatyta tvarka arba kitos valstybės narės atsakingos institucijos išduotą pažymėjimą, patvirtinantį kvalifikaciją atlikti šaldymo įrangos patikrą dėl fluorintų šiltnamio efektą sukeliančių dujų nuotėkio, įrengti, eksploatuoti, atlikti techninę priežiūrą ir (ar) fluorintų šiltnamio efektą sukeliančių dujų surinkimą iš šaldymo įrangos, o fizinis asmuo turi šiame punkte nurodytą pažymėjimą; 
+Straipsnio punkto pakeitimai:
+Nr. XI-2027, 2012-05-22, Žin., 2012, Nr. 63-3168 (2012-06-05), i. k. 1121010ISTA0XI-2027
+ 
 
 
 
@@ -1499,3 +1551,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1170, 2010-11-23, Žin., 2010, Nr. 145-7427 (2010-12-11), i. k. 1101010ISTA0XI-1170
 Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo 1, 5, 10, 12 straipsnių pakeitimo ir papildymo, Įstatymo papildymo penktuoju-1 skirsniu ir Įstatymo 2 priedo papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2027, 2012-05-22, Žin., 2012, Nr. 63-3168 (2012-06-05), i. k. 1121010ISTA0XI-2027
+Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo 2, 9, 10, 12-1 straipsnių pakeitimo ir papildymo įstatymas
