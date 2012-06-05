@@ -21,6 +21,10 @@ YPATINGOS VALSTYBINĖS SVARBOS PROJEKTUS ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2012-06-05 iki 2012-06-29
+ 
+Įstatymas paskelbtas: Žin. 2011, Nr. 49-2362, i. k. 1111010ISTA0XI-1307
+ 
 LIETUVOS RESPUBLIKOS  ŽEMĖS PAĖMIMO VISUOMENĖS POREIKIAMS ĮGYVENDINANT YPATINGOS VALSTYBINĖS SVARBOS PROJEKTUS 
 ĮSTATYMAS
  
@@ -260,6 +264,13 @@ II SKYRIUS
 
 
 5. Apygardos administracinio teismo nutartis, kuria išsprendžiamas žemės paėmimo visuomenės poreikiams akto teisėtumo patvirtinimo klausimas, per 7 dienas nuo jos paskelbimo dienos gali būti skundžiama Lietuvos vyriausiajam administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka paduodant atskirąjį skundą. Lietuvos vyriausiasis administracinis teismas tokį atskirąjį skundą turi išnagrinėti ne vėliau kaip per 30 dienų nuo atskirojo skundo gavimo dienos. Apygardos administracinio teismo sprendimas gali būti skundžiamas Lietuvos vyriausiajam administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+
+
+
+6. Bylas dėl viešojo intereso gynimo, susijusias su šio įstatymo taikymu, nagrinėja administraciniai teismai. Pareiškimas dėl viešojo intereso gynimo, susijęs su šio įstatymo taikymu, gali būti paduodamas apygardos administraciniam teismui ne vėliau kaip per tris mėnesius nuo skundžiamo administracinio akto įsigaliojimo. Šis pareiškimas turi būti išnagrinėtas per 45 darbo dienas nuo jo priėmimo dienos, o apeliacinis skundas – per 45 darbo dienas nuo apeliacinio skundo priėmimo dienos. Lietuvos vyriausiasis administracinis teismas atskirąjį skundą šiose bylose turi išnagrinėti ne vėliau kaip per 7 dienas nuo skundo gavimo dienos.
+Papildyta straipsnio dalimi:
+Nr. XI-2030, 2012-05-22, Žin., 2012, Nr. 63-3169 (2012-06-05), i. k. 1121010ISTA0XI-2030
  
 
 
@@ -586,3 +597,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2030, 2012-05-22, Žin., 2012, Nr. 63-3169 (2012-06-05), i. k. 1121010ISTA0XI-2030
+Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo 4 straipsnio pakeitimo ir 6 straipsnio papildymo įstatymas
