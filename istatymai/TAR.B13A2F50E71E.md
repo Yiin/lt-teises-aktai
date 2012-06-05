@@ -270,7 +270,7 @@ kodekso nustatytais atvejais ir tvarka.“
  
 13
 straipsnis. Neteko
-galios nuo 2009 m. sausio 1 d.
+galios nuo 2009-01-01.
 Straipsnio
 pakeitimas:
 Nr. XI-121,
@@ -279,15 +279,11 @@ Nr. XI-121,
 14 straipsnis. Pasiūlymai
 Vyriausybei
 1. Vyriausybė iki 2009 m. sausio 1 d. priima šiam įstatymui įgyvendinti reikalingus teisės aktus.
-2. Vyriausybė iki 2009 m. spalio 1 d. parengia ir pateikia Seimui naujos redakcijos Valstybės tarnybos įstatymo
-projektą, kuriame būtų tiksliau apibrėžta valstybės tarnautojo (įstaigos
-vadovo, valstybės pareigūno, politinio (asmeninio) pasitikėjimo, karjeros,
-statutinio) sąvoka, patikslinta valstybės tarnautojų pareigybių klasifikacija,
-nustatytos priėmimo į tarnybą ir atleidimo iš tarnybos, karjeros ir tarnybinio
-kaitumo, tarnybinės veiklos vertinimo, valstybės tarnautojų skatinimo ir
-atsakomybės, darbo apmokėjimo ir socialinių garantijų, tarnybos stažo Lietuvos
-valstybei ir stažo pareigūno pensijai gauti skaičiavimo ir kitos be išlygų
-visiems valstybės pareigūnams ir tarnautojams taikomos nuostatos. 
+2. Neteko galios nuo 2012-06-05.
+Straipsnio
+pakeitimas:
+Nr. XI-2033,
+2012-05-24, Žin., 2012, Nr. 63-3171 (2012-06-05)
  
 15
 straipsnis. Įstatymo įsigaliojimas
@@ -296,14 +292,13 @@ išskyrus 2 straipsnio 1 ir 2 dalis, 3 straipsnį, 5 straipsnio 1 dalį, 11, 13 
 14 straipsnius, įsigalioja 2009 m. sausio 1 d.
  
 Skelbiu šį
-Lietuvos Respublikos Seimo priimtą įstatymą.          
+Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
 RESPUBLIKOS PREZIDENTAS                                                         VALDAS
 ADAMKUS
  
-________________
  
 Pakeitimai:
  
@@ -321,11 +316,19 @@ SKYRIAUS PAKEITIMO ĮSTATYMO 13 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS
 Šis
 įstatymas įsigalioja 2009 m. sausio 1 d.
  
-***
-Pabaiga ***
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2033,
+2012-05-24, Žin., 2012, Nr. 63-3171 (2012-06-05)
+VALSTYBĖS TARNYBOS ĮSTATYMO 4, 10, 16,
+16(1), 17, 23, 26, 37, 41, 42 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO
+PAPILDYMO 26(1), 43(1) STRAIPSNIAIS IR 3 PRIEDO II SKYRIAUS PAKEITIMO ĮSTATYMO
+14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+*** Pabaiga ***
  
  
-Redagavo
-Aušrinė Trapinskienė (2009-01-05)
+Redagavo Aušrinė Trapinskienė
+(2012-06-05)
                  
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
