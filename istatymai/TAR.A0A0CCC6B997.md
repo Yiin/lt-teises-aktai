@@ -3455,12 +3455,29 @@ kardomojo kalinimo vietose;
 4) asmenys,
 kuriems iki laisvės atėmimo bausmės atlikimo pabaigos liko mažiau negu trys
 mėnesiai.
+Straipsnis papildomas nauju 2 punktu,
+buvę 2, 3 ir 4 punktai laikomi atitinkamai 3, 4 ir 5 punktais nuo 2013-01-01:
+2) asmenys,
+nuteisti už nusikaltimus nepilnamečio asmens seksualinio apsisprendimo laisvei
+ir (ar) neliečiamumui;
+3) asmenys,
+kuriems mirties bausmė malonės arba amnestijos tvarka pakeista laisvės atėmimu
+iki gyvos galvos, taip pat laisvės atėmimu iki gyvos galvos nuteisti asmenys;
+4) asmenys,
+nuteisti už tyčinius nusikaltimus, padarytus areštinėse, pataisos įstaigose ir
+kardomojo kalinimo vietose;
+5) asmenys,
+kuriems iki laisvės atėmimo bausmės atlikimo pabaigos liko mažiau negu trys
+mėnesiai.
 Straipsnio pakeitimai:
 Nr. X-164, 2005-04-21,
 Žin., 2005, Nr. 58-2002 (2005-05-07)
 Nr.
 XI-1863,
 2011-12-22, Žin., 2012, Nr. 4-110 (2012-01-06)
+Nr.
+XI-2040,
+2012-06-05, Žin., 2012, Nr. 68-3464 (2012-06-19)
  
 159
 straipsnis. Lygtinio paleidimo iš pataisos įstaigų tvarka
@@ -3480,14 +3497,14 @@ dėl nutarties vykdymo.
 2. Pataisos
 įstaigos administracija ne vėliau kaip per dvi darbo dienas nuo nutarties
 lygtinai paleisti nuteistąjį iš pataisos įstaigų gavimo privalo atsiskaityti su
-nuteistuoju ir išduoti jam rašytinį paliepimą išvykti į gyvenamąją vietą.
-Nuteistasis privalo atvykti į gyvenamąją vietą per paliepime išvykti nurodytą
-kelionės laiką ir užsiregistruoti pataisos inspekcijoje.
+nuteistuoju ir išduoti jam rašytinį paliepimą išvykti į gyvenamąją vietą. Nuteistasis
+privalo atvykti į gyvenamąją vietą per paliepime išvykti nurodytą kelionės
+laiką ir užsiregistruoti pataisos inspekcijoje.
 2 dalies redakcija nuo 2012-07-01:
 2. Pataisos
-įstaigos administracija, gavusi nutartį lygtinai paleisti nuteistąjį iš
-pataisos įstaigos, privalo atsiskaityti su nuteistuoju ir išduoti jam rašytinį
-paliepimą atvykti į probacijos tarnybą.
+įstaigos administracija, gavusi nutartį lygtinai paleisti nuteistąjį iš pataisos
+įstaigos, privalo atsiskaityti su nuteistuoju ir išduoti jam rašytinį paliepimą
+atvykti į probacijos tarnybą.
  
 3.
 Pataisos įstaigos administracija šio Kodekso 180 straipsnio 8 dalyje nustatyta
@@ -3540,12 +3557,12 @@ Kodekso 162 straipsnio 2 dalyje numatytos poveikio priemonės.
 3. Jeigu
 darbingas lygtinai paleistas iš pataisos įstaigos asmuo vengia dirbti arba
 sistemingai ar piktybiškai pažeidinėja darbo drausmę, taip pat jeigu lygtinai
-paleistas iš pataisos įstaigos asmuo sistemingai pažeidinėja ar itin piktybiškai
-pažeidžia viešąją tvarką ar jam nustatytas pareigas, policija, siekdama
-užkirsti kelią vengimui vykdyti teismo nutartį, jį gali sulaikyti ne ilgiau
-kaip penkioms paroms. Pataisos inspekcija gali perduoti medžiagą teismui, kad
-būtų sprendžiama dėl tokio asmens pasiuntimo į pataisos įstaigą atlikti likusią
-laisvės atėmimo bausmės dalį.
+paleistas iš pataisos įstaigos asmuo sistemingai pažeidinėja ar itin
+piktybiškai pažeidžia viešąją tvarką ar jam nustatytas pareigas, policija,
+siekdama užkirsti kelią vengimui vykdyti teismo nutartį, jį gali sulaikyti ne
+ilgiau kaip penkioms paroms. Pataisos inspekcija gali perduoti medžiagą
+teismui, kad būtų sprendžiama dėl tokio asmens pasiuntimo į pataisos įstaigą
+atlikti likusią laisvės atėmimo bausmės dalį.
 4. Jeigu dėl
 nežinomų priežasčių ilgiau kaip tris paras darbingo lygtinai paleisto iš
 pataisos įstaigos asmens nėra darbe ar jeigu toks asmuo nustatytu laiku
@@ -3554,7 +3571,8 @@ pat pranešti apie tai pataisos inspekcijai.
 5. Itin
 piktybiškų viešosios tvarkos ir nustatytų pareigų pažeidimų sąrašą sudaro
 Teisingumo ministerija.
-161 straipsnis netenka galios nuo 2012-07-01.
+161 straipsnis netenka galios nuo
+2012-07-01.
 Straipsnio pakeitimai:
 Nr.
 XI-1863,
@@ -3663,9 +3681,9 @@ laikas negali būti ilgesnis už likusios bausmės laiką. Nutarimas suėjus
 iš pataisos įstaigos terminui pateikiamas tvirtinti vietovės, kurioje yra
 nuteistojo pataisos įstaiga, apylinkės teismui. Kartu su šiuo nutarimu
 pateikiama ir nuteistojo asmens byla.
-4. Jeigu nuteistasis
-prašyme lygtinai paleisti iš pataisos įstaigos nurodė šio Kodekso 157
-straipsnio 3 dalyje nustatytą sutikimą ir Lygtinio paleidimo iš pataisos
+4. Jeigu
+nuteistasis prašyme lygtinai paleisti iš pataisos įstaigos nurodė šio Kodekso
+157 straipsnio 3 dalyje nustatytą sutikimą ir Lygtinio paleidimo iš pataisos
 įstaigos komisija priėmė nutarimą taikyti nuteistajam lygtinį paleidimą iš
 pataisos įstaigos, vietoj auklėjamojo poveikio ar baudžiamojo poveikio
 priemonių ir (ar) Lietuvos
@@ -3702,8 +3720,8 @@ straipsnis. Laisvės atėmimo iki gyvos galvos bausmės atlikimo vieta
 laisvės atėmimo iki gyvos galvos bausmę atlieka kalėjimuose. Pirmuosius dešimt
 metų laisvės atėmimo iki gyvos galvos bausmės atlikę nuteistieji, atsižvelgiant
 į jų elgesį bausmės atlikimo metu bei saugumo reikalavimus ir kai yra kalėjimo
-administracijos teikimas, apylinkės teismo nutartimi gali būti perkelti į
-pataisos namus tęsti bausmės atlikimą. 
+administracijos teikimas, apylinkės teismo nutartimi gali būti perkelti į pataisos
+namus tęsti bausmės atlikimą. 
 2. Pataisos
 namuose laisvės atėmimo iki gyvos galvos bausmę atliekantys nuteistieji, kurie
 kelia pavojų pataisos namų personalui ar kitiems asmenims arba dėl kitų
@@ -3743,9 +3761,8 @@ lavinimas ir profesinis mokymas gali vykti tik pataisos namuose.
 3. Laisvės
 atėmimo iki gyvos galvos bausmę atliekantys nuteistieji gali dirbti, jei patys
 to pageidauja, kalėjimo arba pataisos namų administracijos parinktą darbą.
-Dirbantiems laisvės atėmimo iki gyvos galvos bausmę atliekantiems
-nuteistiesiems taikomos šio Kodekso 125–129, 131, 132, 134 ir 135 straipsnių
-nuostatos.
+Dirbantiems laisvės atėmimo iki gyvos galvos bausmę atliekantiems nuteistiesiems
+taikomos šio Kodekso 125–129, 131, 132, 134 ir 135 straipsnių nuostatos.
  
 168 straipsnis. Pataisos įstaigos administracijos
 pareigos laisvės atėmimo iki gyvos galvos bausmę atliekančio nuteistojo sunkios
@@ -3753,10 +3770,11 @@ ligos arba mirties atveju
 1. Jeigu laisvės
 atėmimo iki gyvos galvos bausmę atliekantis nuteistasis sunkiai serga ir jo
 liga gresia gyvybei, kalėjimo arba pataisos namų administracija privalo
-nedelsdama apie tai pranešti Kalėjimų departamento direktoriui ar jį pavaduojančiam
-pareigūnui ir nuteistojo sutuoktiniui, sugyventiniui arba artimiesiems
-giminaičiams. Šiems asmenims jų pageidavimu sudaromos sąlygos aplankyti
-nuteistąjį. Lankymo tvarką nustato Pataisos įstaigų vidaus tvarkos taisyklės.
+nedelsdama apie tai pranešti Kalėjimų departamento direktoriui ar jį
+pavaduojančiam pareigūnui ir nuteistojo sutuoktiniui, sugyventiniui arba
+artimiesiems giminaičiams. Šiems asmenims jų pageidavimu sudaromos sąlygos
+aplankyti nuteistąjį. Lankymo tvarką nustato Pataisos įstaigų vidaus tvarkos
+taisyklės.
 2. Laisvės
 atėmimo iki gyvos galvos bausmę atliekančio nuteistojo mirties atveju kalėjimo
 arba pataisos namų administracija privalo nedelsdama apie tai pranešti Kalėjimų
@@ -3829,8 +3847,8 @@ kodekso nustatyta tvarka.
 172 straipsnis. Atliekančio bausmę nuteistojo tretiesiems asmenims
 padarytos žalos atlyginimas
 Žala, kurią
-padarė atliekantis bausmę nuteistasis tretiesiems asmenims, atlyginama Civilinio
-kodekso nustatyta tvarka.
+padarė atliekantis bausmę nuteistasis tretiesiems asmenims, atlyginama
+Civilinio kodekso nustatyta tvarka.
  
 XIV
 skyrius
@@ -3838,13 +3856,13 @@ arešto, TERMINUOTO laisvės atėmimo IR LAISVĖS ATĖMIMO iki gyvos
 galvos bauSmES ATLIEKANČIŲ NUTEISTŲJŲ materialinis, buitinis aprūpinimas ir
 sveIkatos priežiūra
  
-173 straipsnis. Arešto, terminuoto laisvės atėmimo ir
-laisvės atėmimo iki gyvos galvos bausmes atliekančių nuteistųjų materialinis
+173 straipsnis. Arešto, terminuoto laisvės atėmimo
+ir laisvės atėmimo iki gyvos galvos bausmes atliekančių nuteistųjų materialinis
 buitinis aprūpinimas
 1. Arešto,
 terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes
-atliekantiems nuteistiesiems užtikrinamos reikiamos gyvenamųjų patalpų ir buities
-sąlygos, atitinkančios Lietuvos Respublikos higienos normas. 
+atliekantiems nuteistiesiems užtikrinamos reikiamos gyvenamųjų patalpų ir
+buities sąlygos, atitinkančios Lietuvos Respublikos higienos normas. 
 2. Arešto,
 terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes
 atliekantiems nuteistiesiems nemokamai suteikiama atskira miegamoji vieta ir
@@ -3903,8 +3921,8 @@ atliekama pagal Lietuvos Respublikos sveikatos apsaugos įstatymus.
 įstaigose ir areštinėse steigiamos asmens sveikatos priežiūros įstaigos arba
 tarnybos. Šių įstaigų bei tarnybų struktūrą, etatų skaičių ir veiklos tvarką
 nustato Sveikatos apsaugos ministerija ir Teisingumo ministerija. Infekcinėmis
-ligomis sergantiems nuteistiesiems, atliekantiems laisvės atėmimo bausmę,
-gydyti ir laikyti steigiamos laisvės atėmimo vietų gydymo įstaigos.
+ligomis sergantiems nuteistiesiems, atliekantiems laisvės atėmimo bausmę, gydyti
+ir laikyti steigiamos laisvės atėmimo vietų gydymo įstaigos.
 3. Laisvės
 atėmimo bausmę arba areštą atliekančiam nuteistajam reikalinga specializuota
 būtinoji medicinos pagalba, kurią suteikti pataisos įstaigų gydymo įstaigose
@@ -3923,9 +3941,9 @@ serga priklausomybės ligomis, gydymas
 atėmimo bausmę atliekantys nuteistieji, sergantys priklausomybės nuo alkoholio,
 narkotinių arba psichotropinių medžiagų ligomis, jų rašytiniu pageidavimu gali
 būti gydomi nuo šių ligų laisvės atėmimo bausmės atlikimo metu.
-2. Priklausomybės
-ligomis sergančių nuteistųjų gydymo laisvės atėmimo vietose tvarką nustato
-Sveikatos apsaugos ministerija ir Teisingumo ministerija.
+2.
+Priklausomybės ligomis sergančių nuteistųjų gydymo laisvės atėmimo vietose
+tvarką nustato Sveikatos apsaugos ministerija ir Teisingumo ministerija.
  
 V DALIS
 baigiamOSiOS nuostatOS
@@ -3933,8 +3951,8 @@ baigiamOSiOS nuostatOS
 XV
 skyrius
 ATLEIDIMAS NUO
-BAUSMĖS ATLIKIMO, PAGALBA ATLEISTIEMS NUO BAUSMĖS ATLIKIMO ASMENIMS. BAUSMIŲ
-VYKDYMO INSTITUCIJŲ, ĮSTAIGŲ IR PAREIGŪNŲ VEIKSMŲ IR SPRENDIMŲ APSKUNDIMAS
+BAUSMĖS ATLIKIMO, PAGALBA ATLEISTIEMS NUO BAUSMĖS ATLIKIMO ASMENIMS. BAUSMIŲ VYKDYMO
+INSTITUCIJŲ, ĮSTAIGŲ IR PAREIGŪNŲ VEIKSMŲ IR SPRENDIMŲ APSKUNDIMAS
  
 Pirmasis
 skirsnis
@@ -4015,10 +4033,10 @@ Nr. IX-2338,
 179 straipsnis. Teikimas lygtinai atleisti nuo
 laisvės atėmimo bausmės prieš terminą ar laisvės atėmimą pakeisti švelnesne
 bausme
-1. Teikimą lygtinai
-atleisti nuteistąjį nuo laisvės atėmimo bausmės prieš terminą ar laisvės
-atėmimo bausmę pakeisti švelnesne bausme pagal Baudžiamojo kodekso 77 arba 94
-straipsnį paduoda bausmės vykdymo institucijos vadovas.
+1. Teikimą
+lygtinai atleisti nuteistąjį nuo laisvės atėmimo bausmės prieš terminą ar
+laisvės atėmimo bausmę pakeisti švelnesne bausme pagal Baudžiamojo kodekso 77
+arba 94 straipsnį paduoda bausmės vykdymo institucijos vadovas.
 2. Šio
 straipsnio 1 dalyje nurodytame teikime turi būti duomenys, apibūdinantys
 nuteistojo elgesį, jo požiūrį į darbą ir mokymąsi per visą bausmės atlikimo
@@ -4110,9 +4128,9 @@ iš pataisos įstaigų arba areštinių asmenų kelionės į jų gyvenamąją vi
 išlaidas apmoka bausmę vykdžiusi institucija.
 2. Paleidžiami
 iš pataisos įstaigų asmenys aprūpinami maisto produktais arba pinigais kelionei
-pagal nustatytas normas. Paleidžiami asmenys, kurie neturi pagal sezoną
-reikiamų drabužių, avalynės ir lėšų jiems įsigyti, drabužiais ir avalyne pagal
-sezoną aprūpinami nemokamai.
+pagal nustatytas normas. Paleidžiami asmenys, kurie neturi pagal sezoną reikiamų
+drabužių, avalynės ir lėšų jiems įsigyti, drabužiais ir avalyne pagal sezoną
+aprūpinami nemokamai.
 3.
 Paleidžiamiems iš pataisos įstaigų asmenims gali būti skiriama vienkartinė
 negrąžinama iki vieno MGL dydžio pašalpa.
@@ -4151,8 +4169,8 @@ departamento direktoriaus veiksmai ir sprendimai per dvidešimt dienų nuo jų
 įteikimo gali būti skundžiami apygardos administraciniam teismui.
 4. Baudos,
 juridinio asmens veiklos apribojimo ir juridinio asmens likvidavimo bausmes
-vykdančių antstolių veiksmai ir sprendimai skundžiami antstolio veiklos
-teritorijos apylinkės teismui Civilinio proceso kodekso nustatyta tvarka.
+vykdančių antstolių veiksmai ir sprendimai skundžiami antstolio veiklos teritorijos
+apylinkės teismui Civilinio proceso kodekso nustatyta tvarka.
 5. Lietuvos
 Respublikos įstatymų nustatytais atvejais ir tvarka bausmių vykdymo institucijų
 ir įstaigų, jų pareigūnų, taip pat antstolių veiksmai ir sprendimai gali būti
@@ -4230,7 +4248,7 @@ Nr. XI-643,
 Respublikos
                                                                                     bausmių
 vykdymo kodekso
-                                                                                    2
+                                                                                    2
 priedas
  
 laisvės atėmimo bausmę
@@ -4258,7 +4276,7 @@ darbuotojai;
  
                                                                                     Lietuvos
 Respublikos 
-                                                                                    bausmių
+                                                                                    bausmių
 vykdymo kodekso 
                                                                                     3
 priedas
@@ -4272,7 +4290,6 @@ Kodekso papildymas priedu:
 Nr. X-636, 2006-06-01,
 Žin., 2006, Nr. 68-2494 (2006-06-17)
  
-_________________
  
 Pakeitimai:
  
@@ -4280,8 +4297,8 @@ Pakeitimai:
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1497, 2003-04-10,
-Žin., 2003, Nr. 38-1735 (2003-04-24)
+IX-1497,
+2003-04-10, Žin., 2003, Nr. 38-1735 (2003-04-24)
 BAUSMIŲ
 VYKDYMO KODEKSO 18, 20, 21 IR 164 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
@@ -4338,8 +4355,8 @@ Nr.
 X-636,
 2006-06-01, Žin., 2006, Nr. 68-2494 (2006-06-17)
 BAUDŽIAMOJO
-PROCESO KODEKSO, BAUSMIŲ VYKDYMO KODEKSO IR KARDOMOJO KALINIMO ĮSTATYMO
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+PROCESO KODEKSO, BAUSMIŲ VYKDYMO KODEKSO IR KARDOMOJO KALINIMO ĮSTATYMO PAKEITIMO
+IR PAPILDYMO ĮSTATYMAS
 Šis
 įstatymas, išskyrus šio skirsnio 2 straipsnį, įsigalioja nuo 2006 m. liepos 1
 d.
@@ -4357,8 +4374,8 @@ VYKDYMO KODEKSO 173 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 7.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XI-643,
-2010-01-14, Žin., 2010, Nr. 12-558 (2010-01-30)
+Nr. XI-643, 2010-01-14,
+Žin., 2010, Nr. 12-558 (2010-01-30)
 BAUSMIŲ VYKDYMO
 KODEKSO 32, 36, 51, 54, 60, 61, 66, 67, 70, 72, 76, 85, 96, 99, 100, 105, 112,
 114, 118, 120, 121, 142, 143, 146, 154, 155, 165, 183 STRAIPSNIŲ IR KODEKSO 1
@@ -4379,8 +4396,8 @@ STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XI-1474,
-2011-06-21, Žin., 2011, Nr. 81-3961 (2011-07-05)
+XI-1474, 2011-06-21,
+Žin., 2011, Nr. 81-3961 (2011-07-05)
 BAUSMIŲ VYKDYMO KODEKSO 18, 183
 STRAIPSNIŲ PAKEITIMO IR VIII SKYRIAUS PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
  
@@ -4396,11 +4413,20 @@ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 Šis
 įstatymas įsigalioja 2012 m. liepos 1 d.
  
+11.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-2040,
+2012-06-05, Žin., 2012, Nr. 68-3464 (2012-06-19)
+BAUSMIŲ
+VYKDYMO KODEKSO 158 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2013 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
- 
- 
 Redagavo
-Aušrinė Trapinskienė (2012-01-24)
+Aušrinė Trapinskienė (2012-06-19)
                  
 ausrine.trapinskiene@lrs.lt
