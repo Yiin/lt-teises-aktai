@@ -22,8 +22,10 @@ LIETUVOS RESPUBLIKOS
 Darbo
 kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo
 ĮSTATYMAS
+ 
 2002 m. birželio 4 d. Nr. IX-926
 Vilnius
+ 
  
 1
 straipsnis. Lietuvos Respublikos darbo kodekso patvirtinimas
@@ -35,8 +37,8 @@ straipsnis. Darbo kodekso įsigaliojimas
 Darbo kodeksas
 įsigalioja nuo 2003 m. sausio 1 d., išskyrus 47 straipsnio 6 dalies nuostatas,
 kurios įsigalioja Lietuvos Respublikai tapus Europos Sąjungos nare, ir
-nuostatas dėl darbo tarybų, kurios įsigalioja priėmus darbo tarybų statusą ir sudarymo
-tvarką nustatantį įstatymą.
+nuostatas dėl darbo tarybų, kurios įsigalioja priėmus darbo tarybų statusą ir
+sudarymo tvarką nustatantį įstatymą.
  
 3
 straipsnis. Darbo kodekso taikymas darbo santykiams
@@ -3690,12 +3692,18 @@ darbo užmokestis arba jo dalis;
 kurį pagal įstatymus darbuotojui išsaugoma darbo vieta (pareigos) ir mokama
 stipendija arba kitos išmokos, išskyrus laiką, kai darbuotojas yra išėjęs vaiko
 priežiūros atostogų, kol vaikui sueis treji metai;
+3 punkto redakcija nuo 2012-09-01:
+3) laikas, per
+kurį pagal įstatymus darbuotojui išsaugoma darbo vieta (pareigos) ir mokama
+stipendija arba kitos išmokos, išskyrus laiką, kai darbuotojas yra išėjęs vaiko
+priežiūros atostogų;
+ 
 4) laikas, kurį
 darbuotojas gavo ligos, motinystės arba tėvystės pašalpą;
 5) mokamos
 kasmetinės atostogos;
-6) nemokamos atostogos
-iki keturiolikos kalendorinių dienų;
+6) nemokamos
+atostogos iki keturiolikos kalendorinių dienų;
 7) nemokamos
 atostogos iki trisdešimties kalendorinių dienų neįgaliesiems;
 8) nemokamos
@@ -3716,6 +3724,9 @@ Nr. X-294, 2005-06-30,
 Nr.
 X-660,
 2006-06-08, Žin., 2006, Nr. 72-2677 (2006-06-28)
+Nr.
+XI-2047,
+2012-06-05, Žin., 2012, Nr. 69-3527 (2012-06-21)
  
 171
 straipsnis. Kasmetinių atostogų trukmės nustatymas
@@ -3723,17 +3734,16 @@ straipsnis. Kasmetinių atostogų trukmės nustatymas
 papildomos atostogos pridedamos prie kasmetinių minimaliųjų atostogų ir gali
 būti suteikiamos kartu arba atskirai.
 2. Darbuotojams,
-turintiems teisę gauti kasmetines pailgintas ir kasmetines papildomas atostogas,
-jų pasirinkimu suteikiamos arba tik kasmetinės pailgintos atostogos, arba šio
-straipsnio 1 dalyje nustatyta tvarka prie kasmetinių minimaliųjų atostogų
-pridėtos kasmetinės papildomos atostogos.
+turintiems teisę gauti kasmetines pailgintas ir kasmetines papildomas
+atostogas, jų pasirinkimu suteikiamos arba tik kasmetinės pailgintos atostogos,
+arba šio straipsnio 1 dalyje nustatyta tvarka prie kasmetinių minimaliųjų
+atostogų pridėtos kasmetinės papildomos atostogos.
  
 172
 straipsnis. Kasmetinių atostogų suteikimas dalimis
 Darbuotojo
 pageidavimu kasmetinės atostogos gali būti suteikiamos dalimis. Viena iš
-kasmetinių atostogų dalių negali būti trumpesnė kaip keturiolika kalendorinių
-dienų.
+kasmetinių atostogų dalių negali būti trumpesnė kaip keturiolika kalendorinių dienų.
  
 173
 straipsnis. Atšaukimas iš kasmetinių atostogų
@@ -3820,6 +3830,10 @@ gimdymo;
 atostogos;
 3) atostogos
 vaikui prižiūrėti, kol jam sueis treji metai;
+3 punkto redakcija nuo 2012-09-01:
+3) atostogos
+vaikui prižiūrėti;
+ 
 4) mokymosi;
 5) kūrybinės;
 6) valstybinėms
@@ -3829,6 +3843,9 @@ Straipsnio pakeitimai:
 Nr.
 X-660,
 2006-06-08, Žin., 2006, Nr. 72-2677 (2006-06-28)
+Nr.
+XI-2047,
+2012-06-05, Žin., 2012, Nr. 69-3527 (2012-06-21)
  
 179
 straipsnis. Nėštumo ir gimdymo atostogos
@@ -3843,6 +3860,11 @@ moteriai visos, nepaisant faktiškai iki gimdymo panaudotų dienų skaičiaus.
 įvaikinusiems naujagimius ar paskirtiems jų globėjais, suteikiamos atostogos už
 laiką nuo įvaikinimo ar globos nustatymo dienos, kol kūdikiui sueis
 septyniasdešimt dienų. 
+2 dalies redakcija nuo 2012-09-01:
+2. Darbuotojams,
+paskirtiems naujagimių globėjais, suteikiamos atostogos už laiką nuo globos
+nustatymo dienos, kol kūdikiui sueis septyniasdešimt dienų.
+ 
 3. Už šio
 straipsnio 1 ir 2 dalyse nustatytų atostogų laiką mokama Ligos ir motinystės
 socialinio draudimo įstatymo nustatyta pašalpa.
@@ -3852,8 +3874,11 @@ darbo vietą (pareigas) ne mažiau palankiomis sąlygomis, įskaitant darbo
 užmokestį, ir naudotis visomis geresnėmis sąlygomis, įskaitant darbo užmokestį,
 į kurias jis būtų turėjęs teisę, jeigu būtų dirbęs.
 Straipsnio pakeitimai:
-Nr. XI-335,
-2009-07-14, Žin., 2009, Nr. 87-3664 (2009-07-23)( papildyta 4 dalimi)
+Nr. XI-335, 2009-07-14,
+Žin., 2009, Nr. 87-3664 (2009-07-23)
+Nr.
+XI-2047,
+2012-06-05, Žin., 2012, Nr. 69-3527 (2012-06-21)
  
 179(1)
 straipsnis. Tėvystės atostogos
@@ -3887,11 +3912,39 @@ Kolektyvinėje sutartyje gali būti nustatytas ilgesnis įspėjimo terminas.
 3. Per šį
 atostogų laikotarpį paliekama darbo vieta (pareigos), išskyrus atvejus, kai
 įmonė visiškai likviduojama.
+180 straipsnio redakcija nuo 2012-09-01:
+180
+straipsnis. Atostogos vaikui prižiūrėti
+1. Pagal šeimos
+pasirinkimą motinai (įmotei), tėvui (įtėviui), senelei, seneliui arba kitiems
+giminaičiams, faktiškai auginantiems vaiką, taip pat darbuotojui, paskirtam
+vaiko globėju, suteikiamos atostogos vaikui prižiūrėti, kol jam sueis treji
+metai. Atostogas galima imti visas iš karto arba dalimis. Darbuotojai, turintys
+teisę gauti šias atostogas, gali jas imti pakaitomis.
+2. Įsiteisėjus
+teismo sprendimui įvaikinti, pagal šeimos pasirinkimą įmotei ar įtėviui,
+išskyrus atvejus, kai įvaikintas sutuoktinio vaikas arba įmotei (įtėviui) tam
+pačiam vaikui prižiūrėti jau buvo suteiktos atostogos pagal šio straipsnio 1
+dalį, suteikiamos 3 mėnesių atostogos vaikui prižiūrėti. Jeigu darbuotojas tuo
+pačiu metu tam pačiam vaikui prižiūrėti turi teisę tiek į atostogas pagal šio
+straipsnio 1 dalį, tiek pagal šią dalį, darbuotojui suteikiamos atitinkamos
+atostogos jo pasirinkimu. Darbuotojai, turintys teisę gauti šias atostogas,
+gali jas imti pakaitomis. 
+3. Darbuotojas,
+ketinantis pasinaudoti šiomis atostogomis ar grįžti į darbą joms nepasibaigus,
+apie tai raštu privalo įspėti darbdavį ne vėliau kaip prieš keturiolika dienų.
+Kolektyvinėje sutartyje gali būti nustatytas ilgesnis įspėjimo terminas.
+4. Per šį
+atostogų laikotarpį paliekama darbo vieta (pareigos), išskyrus atvejus, kai
+įmonė visiškai likviduojama.
 Straipsnio
 pakeitimai:
 Nr.
 IX-2293,
 2004-06-22, Žin., 2004, Nr. 103-3756 (2004-07-01)
+Nr.
+XI-2047,
+2012-06-05, Žin., 2012, Nr. 69-3527 (2012-06-21)
  
 181
 straipsnis. Mokymosi atostogos
@@ -3938,8 +3991,7 @@ atvejais.
 2. Darbuotojams,
 atleistiems nuo darbo valstybinėms arba visuomeninėms pareigoms atlikti, darbo
 užmokestį, ne mažesnį už vidutinį, moka ar kompensuoja ta įstaiga ar
-organizacija, kurios įpareigojimus jie vykdo, jeigu ko kita nenustato
-įstatymas.
+organizacija, kurios įpareigojimus jie vykdo, jeigu ko kita nenustato įstatymas.
 3. Įmonėje
 veikiančios profesinės sąjungos renkami darbuotojai atleidžiami nuo darbo iki
 šešių darbo dienų per metus kvalifikacijai kelti, dalyvauti profesinės sąjungos
@@ -3964,6 +4016,12 @@ nėštumo ir gimdymo atostogų metu bei vaiko priežiūros, kol jam sueis treji
 metai, atostogų metu tėvui jo pageidavimu (motinai - tėvo atostogų vaikui prižiūrėti,
 kol jam sueis treji metai, metu); šių atostogų bendra trukmė negali viršyti
 trijų mėnesių;
+3 punkto redakcija nuo 2012-09-01:
+3) moters nėštumo
+ir gimdymo atostogų metu bei vaiko priežiūros atostogų metu tėvui jo
+pageidavimu (motinai – tėvo atostogų vaikui prižiūrėti metu); šių atostogų
+bendra trukmė negali viršyti trijų mėnesių;
+ 
 4) neįgaliajam –
 iki trisdešimties kalendorinių dienų per metus;
 5) darbuotojui,
@@ -3986,6 +4044,9 @@ tvarka.
 Straipsnio pakeitimai:
 Nr. X-294, 2005-06-30,
 Žin., 2005, Nr. 85-3138 (2005-07-14)
+Nr.
+XI-2047,
+2012-06-05, Žin., 2012, Nr. 69-3527 (2012-06-21)
  
 185
 straipsnis. Papildomos atostogų lengvatos
@@ -3996,8 +4057,8 @@ didesni mokėjimai už kasmetines ir tikslines atostogas, negu garantuoja šis
 Kodeksas. Šios lengvatos, išskyrus papildomą lengvatą pasirinkti kasmetinių
 atostogų laiką, negali būti nustatytos kolektyvinėse ir darbo sutartyse,
 sudaromose įstaigose, organizacijose, kurios yra išlaikomos iš valstybės,
-savivaldybių ir valstybinio socialinio draudimo fondo biudžetų bei kitų valstybės
-įsteigtų fondų lėšų, taip pat sutartyse, sudaromose Lietuvos banke.
+savivaldybių ir valstybinio socialinio draudimo fondo biudžetų bei kitų
+valstybės įsteigtų fondų lėšų, taip pat sutartyse, sudaromose Lietuvos banke.
  
 XV SKYRIUS
 DARBO
@@ -4011,18 +4072,19 @@ užmokestis yra atlyginimas už darbą, darbuotojo atliekamą pagal darbo sutart
 pagrindinį darbo užmokestį ir visus papildomus uždarbius, bet kokiu būdu
 tiesiogiai darbdavio išmokamus darbuotojui už jo atliktą darbą.
 3. Darbuotojo
-darbo užmokestis priklauso nuo darbo kiekio ir kokybės, įmonės, įstaigos, organizacijos
-veiklos rezultatų bei darbo paklausos ir pasiūlos darbo rinkoje. Vyrams ir
-moterims už tokį pat ar lygiavertį darbą mokamas vienodas darbo užmokestis.
+darbo užmokestis priklauso nuo darbo kiekio ir kokybės, įmonės, įstaigos,
+organizacijos veiklos rezultatų bei darbo paklausos ir pasiūlos darbo rinkoje.
+Vyrams ir moterims už tokį pat ar lygiavertį darbą mokamas vienodas darbo
+užmokestis.
 4. Darbo užmokestis
 mokamas pinigais. 
  
 187
 straipsnis. Darbo užmokesčio minimumas
 1. Vyriausybė
-Trišalės tarybos teikimu nustato minimalųjį valandinį atlygį ir minimaliąją
-mėnesinę algą. Atskiroms ūkio šakoms, regionams
-ar darbuotojų grupėms Vyriausybė trišalės
+Trišalės tarybos teikimu nustato minimalųjį valandinį atlygį ir minimaliąją mėnesinę
+algą. Atskiroms ūkio šakoms, regionams ar
+darbuotojų grupėms Vyriausybė trišalės
 tarybos teikimu gali nustatyti skirtingus minimaliojo valandinio atlygio ir
 minimaliosios mėnesinės algos dydžius.
 2. Kolektyvinėse
@@ -4104,8 +4166,8 @@ lygius reglamentuoja įstatymai ir kiti norminiai teisės aktai.
 193
 straipsnis. Mokėjimas už viršvalandinį ir nakties darbą
 Už viršvalandinį
-darbą ir darbą naktį mokama ne mažiau kaip pusantro darbuotojo darbo užmokesčio,
-nurodyto Darbo kodekso 186 straipsnio 2 dalyje.
+darbą ir darbą naktį mokama ne mažiau kaip pusantro darbuotojo darbo
+užmokesčio, nurodyto Darbo kodekso 186 straipsnio 2 dalyje.
 Straipsnio pakeitimai:
 Nr. X-1534,
 2008-05-13, Žin., 2008, Nr. 63-2375 (2008-06-03), atitaisymas skelbtas:
@@ -4207,9 +4269,9 @@ išdirbio normų dėl darbuotojo kaltės, mokama už faktiškai atliktą darbą.
  
 201
 straipsnis. Darbo užmokesčio mokėjimo terminai, vieta ir tvarka
-1. Darbo
-užmokestis mokamas ne rečiau kaip du kartus per mėnesį, o jeigu yra darbuotojo
-raštiškas prašymas, - kartą per
+1. Darbo užmokestis
+mokamas ne rečiau kaip du kartus per mėnesį, o jeigu yra darbuotojo raštiškas
+prašymas, - kartą per
 mėnesį.
 2. Konkretūs
 darbo užmokesčio mokėjimo terminai, vieta ir tvarka nustatomi kolektyvinėse
@@ -4220,16 +4282,16 @@ straipsnis. Atsiskaitymo lapeliai
 1. Visiems
 darbuotojams darbdavys turi įteikti atsiskaitymo lapelius.
 2. Į atsiskaitymo
-lapelius įrašoma informacija apie darbuotojui apskaičiuotas, išmokėtas ir išskaičiuotas
-sumas ir apie
+lapelius įrašoma informacija apie darbuotojui apskaičiuotas, išmokėtas ir
+išskaičiuotas sumas ir apie
 dirbto laiko trukmę, atskirai nurodant viršvalandinių darbų trukmę.
 Straipsnio
 pakeitimai:
 Nr. XI-927,
 2010-06-22, Žin., 2010, Nr. 81-4221 (2010-07-10)
  
-203
-straipsnis. Pranešimas apie naujas darbo apmokėjimo sąlygas
+203 straipsnis. Pranešimas apie
+naujas darbo apmokėjimo sąlygas
 Kad nustatomos
 naujos darbo apmokėjimo sąlygos (Kodekso 120 straipsnio 3 dalis), darbdavys
 turi raštu pranešti darbuotojams ne vėliau kaip prieš vieną mėnesį iki jų
@@ -4243,8 +4305,9 @@ XI-404,
 204
 straipsnis. Vidutinis darbo užmokestis
 1. Vidutinis
-darbo užmokestis darbuotojams garantuojamas įstatymų, kolektyvinių arba darbo sutarčių
-nustatytais atvejais ir yra apskaičiuojamas Vyriausybės nustatyta tvarka.
+darbo užmokestis darbuotojams garantuojamas įstatymų, kolektyvinių arba darbo
+sutarčių nustatytais atvejais ir yra apskaičiuojamas Vyriausybės nustatyta
+tvarka.
 2. Jeigu darbuotojas
 įstatymų nustatytais atvejais yra atitraukiamas nuo darbo, jam darbo užmokestį,
 ne mažesnį už vidutinį, moka arba kompensuoja ta įmonė, įstaiga, organizacija,
@@ -4372,8 +4435,8 @@ darbo laikas dviem valandomis per savaitę), o auginantiems tris ir daugiau
 vaikų iki dvylikos metų, – dvi dienos per mėnesį (arba atitinkamai
 sutrumpinamas darbo laikas keturiomis valandomis per savaitę), mokant
 darbuotojui jo vidutinį darbo užmokestį. Darbuotojų, dirbančių ilgesnėmis negu
-aštuonios darbo valandos pamainomis, prašymu šis papildomas poilsio
-laikas gali būti sumuojamas kas trys mėnesiai.
+aštuonios darbo valandos pamainomis, prašymu šis papildomas poilsio laikas
+gali būti sumuojamas kas trys mėnesiai.
 2. Teisės į šio
 straipsnio 1 dalyje nustatytas papildomas poilsio dienas neturintiems
 darbuotojams, auginantiems bendrojo ugdymo mokykloje besimokantį vaiką iki
@@ -4502,9 +4565,9 @@ straipsnis. Piniginių reikalavimų tenkinimas
 piniginiai reikalavimai, atsirandantys iš darbo santykių, reikalavimai
 atlyginti žalą dėl suluošinimo ar kitokio kūno sužalojimo, susirgimo profesine
 liga arba žuvus dėl nelaimingo atsitikimo darbe yra tenkinami pirmąja eile.
-2. Šio straipsnio
-1 dalyje nustatytiems reikalavimams tenkinti įstatymų nustatyta tvarka gali
-būti naudojamos Vyriausybės įsteigto specialaus fondo lėšos.
+2. Šio
+straipsnio 1 dalyje nustatytiems reikalavimams tenkinti įstatymų nustatyta
+tvarka gali būti naudojamos Vyriausybės įsteigto specialaus fondo lėšos.
  
 224
 straipsnis. Išskaitų iš darbo užmokesčio pagrindai
@@ -4518,12 +4581,12 @@ avansą, kuris buvo duotas, įskaitant jį į darbo užmokestį; grąžinti suma
 permokėtas dėl skaičiavimo klaidų; padengti neišleistą ir laiku negrąžintą
 avansą, kuris buvo duotas tarnybinės komandiruotės ar perkėlimo į kitą vietovę
 atveju, taip pat už ūkinius patarnavimus; atlyginti žalą, kurią darbuotojas dėl
-savo kaltės padarė įmonei. Šiais atvejais administracija turi teisę duoti
-nurodymą padaryti išskaitą ne vėliau kaip per vieną mėnesį nuo tos dienos,
-kurią baigėsi avanso grąžinimo ar įsiskolinimo padengimo nustatytas terminas,
-buvo išmokėta suma, permokėta dėl skaičiavimo klaidų, arba paaiškėjo darbuotojo
-padaryta žala, jei darbuotojo įsiskolinimas neviršija jo vieno mėnesio
-vidutinio darbo užmokesčio;
+savo kaltės padarė įmonei. Šiais atvejais administracija turi teisę duoti nurodymą
+padaryti išskaitą ne vėliau kaip per vieną mėnesį nuo tos dienos, kurią baigėsi
+avanso grąžinimo ar įsiskolinimo padengimo nustatytas terminas, buvo išmokėta
+suma, permokėta dėl skaičiavimo klaidų, arba paaiškėjo darbuotojo padaryta
+žala, jei darbuotojo įsiskolinimas neviršija jo vieno mėnesio vidutinio darbo
+užmokesčio;
 2) darbuotoją
 atleidžiant iš darbo nepasibaigus tiems darbo metams, už kuriuos jis gavo
 atostogas, išieškoti už neatidirbtas atostogų dienas. Išskaita už šias dienas
@@ -4590,8 +4653,8 @@ reikalavimų, rūpintis darbuotojų poreikiais.
 230
 straipsnis. Darbo tvarkos taisyklės
 Darbo tvarką
-darbovietėje apibrėžia darbo tvarkos taisyklės. Jas tvirtina darbdavys, suderinęs
-su darbuotojų atstovais.
+darbovietėje apibrėžia darbo tvarkos taisyklės. Jas tvirtina darbdavys,
+suderinęs su darbuotojų atstovais.
  
 231
 straipsnis. Specialūs teisės aktai, reglamentuojantys darbo drausmę
@@ -4707,25 +4770,25 @@ drausminė nuobauda gali būti skiriama pakartotinai.
  
 240
 straipsnis. Drausminės nuobaudos skyrimo tvarka
-1. Prieš skirdamas
-drausminę nuobaudą, darbdavys turi raštu pareikalauti, kad darbuotojas raštu
-pasiaiškintų dėl darbo drausmės pažeidimo. Jei per darbdavio arba
-administracijos nustatytą terminą be svarbių priežasčių darbuotojas nepateikia
-pasiaiškinimo, drausminę nuobaudą galima skirti ir be pasiaiškinimo.
+1. Prieš
+skirdamas drausminę nuobaudą, darbdavys turi raštu pareikalauti, kad
+darbuotojas raštu pasiaiškintų dėl darbo drausmės pažeidimo. Jei per darbdavio
+arba administracijos nustatytą terminą be svarbių priežasčių darbuotojas
+nepateikia pasiaiškinimo, drausminę nuobaudą galima skirti ir be pasiaiškinimo.
             2. Įstatymų nustatytais
 atvejais prieš skiriant drausminę nuobaudą reikia gauti išankstinį atitinkamo
 organo sutikimą.
 3. Drausminė
-nuobauda skiriama darbdavio arba administracijos įsakymu (nurodymu) ir darbuotojui
-apie tai pranešama pasirašytinai.
+nuobauda skiriama darbdavio arba administracijos įsakymu (nurodymu) ir
+darbuotojui apie tai pranešama pasirašytinai.
  
 241
 straipsnis. Drausminės nuobaudos skyrimo terminas
 1. Drausminė
 nuobauda skiriama tuoj pat, paaiškėjus darbo drausmės pažeidimui, bet ne vėliau
 kaip per vieną mėnesį nuo tos dienos, kai pažeidimas paaiškėjo, neįskaitant
-laiko, kurį darbuotojas darbe nebuvo dėl ligos, buvo komandiruotėje arba
-atostogavo, o iškėlus baudžiamąją bylą, -
+laiko, kurį darbuotojas darbe nebuvo dėl ligos, buvo komandiruotėje arba atostogavo,
+o iškėlus baudžiamąją bylą, -
 ne vėliau kaip per du mėnesius nuo baudžiamosios bylos nutraukimo arba teismo
 nuosprendžio įsiteisėjimo dienos.
 2. Negalima
@@ -4764,10 +4827,10 @@ ATSAKOMYBĖ
  
 245
 straipsnis. Materialinės atsakomybės atsiradimo pagrindas
-Materialinė atsakomybė
-atsiranda dėl teisės pažeidimo, kuriuo vienas darbo santykio subjektas padaro
-žalą kitam subjektui, neatlikdamas savo darbo pareigų arba netinkamai jas
-atlikdamas.
+Materialinė
+atsakomybė atsiranda dėl teisės pažeidimo, kuriuo vienas darbo santykio
+subjektas padaro žalą kitam subjektui, neatlikdamas savo darbo pareigų arba
+netinkamai jas atlikdamas.
  
 246
 straipsnis. Materialinės atsakomybės atsiradimo sąlygos
@@ -4824,8 +4887,8 @@ pažeidimo.
 250
 straipsnis. Neturtinės žalos atlyginimas
 Darbo sutarties šalys
-privalo atlyginti viena kitai padarytą neturtinę žalą. Jos dydį kiekvienu
-atveju nustato teismas, vadovaudamasis Civiliniu kodeksu.
+privalo atlyginti viena kitai padarytą neturtinę žalą. Jos dydį kiekvienu atveju
+nustato teismas, vadovaudamasis Civiliniu kodeksu.
  
 251 straipsnis. Žalos atlyginimas reorganizavus
 įmonę, įstaigą ar organizaciją
@@ -4996,10 +5059,10 @@ saugos ir sveikatos norminių teisės aktų reikalavimus.
 2.
 Minimaliuosius darbuotojų saugos ir sveikatos reikalavimus darbo priemonėms
 nustato atitinkami darbuotojų saugos ir sveikatos norminiai teisės aktai.
-3.
-Privalomuosius saugos ir sveikatos reikalavimus atskirų darbo priemonių ar jų
-grupių gamybai bei jų atitikties įvertinimo procedūroms nustato techniniai
-reglamentai ar kiti darbuotojų saugos ir sveikatos norminiai teisės aktai.
+3. Privalomuosius
+saugos ir sveikatos reikalavimus atskirų darbo priemonių ar jų grupių gamybai
+bei jų atitikties įvertinimo procedūroms nustato techniniai reglamentai ar kiti
+darbuotojų saugos ir sveikatos norminiai teisės aktai.
 4. Konkrečios
 darbo priemonės saugaus naudojimo reikalavimai nustatomi darbo priemonės
 dokumentuose. Juos kartu su darbo priemone privalo pateikti gamintojas.
@@ -5036,16 +5099,16 @@ galimą riziką darbuotojų saugai ir sveikatai;
 2) užpildo Įmonės
 darbuotojų saugos ir sveikatos būklės pasą. Jame nustatoma, kurios darbo
 vietos, darbo priemonės, darbo ir poilsio laikas atitinka darbuotojų saugos ir
-sveikatos norminių teisės aktų reikalavimus, taip pat nustatomos darbuotojų saugos
-ir sveikatos gerinimo priemonės, jei darbuotojų saugos ir sveikatos būklė
+sveikatos norminių teisės aktų reikalavimus, taip pat nustatomos darbuotojų
+saugos ir sveikatos gerinimo priemonės, jei darbuotojų saugos ir sveikatos būklė
 neatitinka reikalavimų;
 2 punkto redakcija nuo 2012-07-01:
 2) organizuoja
 darbuotojų saugos ir sveikatos būklės gerinimo priemonių parengimą ir
 įgyvendinimą;
  
-3) pagal Įmonių darbuotojų
-saugos ir sveikatos tarnybų nuostatus nustato darbuotojų saugos ir sveikatos
+3) pagal Įmonių
+darbuotojų saugos ir sveikatos tarnybų nuostatus nustato darbuotojų saugos ir sveikatos
 reikalavimų laikymosi kontrolės tvarką įmonėje, tvirtindamas įmonės darbuotojų
 saugos ir sveikatos tarnybos nuostatus arba įmonės darbuotojų saugos
 specialistų pareigines instrukcijas, duodamas įpareigojimus padalinių vadovams
@@ -5075,13 +5138,12 @@ straipsnis. Privalomi sveikatos patikrinimai
 iki aštuoniolikos metų privalo tikrintis sveikatą įsidarbindami ir kiekvienais
 metais, kol sukaks aštuoniolika metų.
 2. Darbuotojai,
-kurie darbe gali būti veikiami profesinės rizikos veiksnių, privalo pasitikrinti
-sveikatą prieš įsidarbindami, o dirbdami -
-tikrintis periodiškai, pagal įmonėje patvirtintą darbuotojų sveikatos
-pasitikrinimų grafiką. Darbuotojų, kurių darbas susijęs su profesine rizika,
-pavojingų kancerogeninių medžiagų naudojimu darbo procese, sveikata tikrinama
-priimant į darbą; dirbant ir pakeitus darbą ar darbovietę, tikrinama
-periodiškai.
+kurie darbe gali būti veikiami profesinės rizikos veiksnių, privalo
+pasitikrinti sveikatą prieš įsidarbindami, o dirbdami - tikrintis periodiškai, pagal
+įmonėje patvirtintą darbuotojų sveikatos pasitikrinimų grafiką. Darbuotojų,
+kurių darbas susijęs su profesine rizika, pavojingų kancerogeninių medžiagų
+naudojimu darbo procese, sveikata tikrinama priimant į darbą; dirbant ir
+pakeitus darbą ar darbovietę, tikrinama periodiškai.
 3. Siekiant
 apsaugoti gyventojų sveikatą, turi būti atliekamas maisto pramonės, viešojo
 maitinimo ir prekybos įmonių, vandentiekio įrenginių, gydymo bei profilaktikos
@@ -5112,8 +5174,8 @@ tikrintis sveikatą, sąrašą, sveikatos pasitikrinimų tvarką nustato Vyriaus
 straipsnis. Darbų sustabdymas
 1. Darbai
 sustabdomi norminių teisės aktų nustatyta tvarka:
-1) kai
-darbuotojas (darbuotojai) neapmokytas saugiai dirbti;
+1) kai darbuotojas
+(darbuotojai) neapmokytas saugiai dirbti;
 2) sugedus darbo
 priemonei ar susidarius avarinei situacijai -
 pavojui;
@@ -5182,9 +5244,9 @@ galimos avarijos prevencijos ir likvidavimo planus. Tokių įmonių sąrašas
 tvirtinamas Vyriausybės nustatyta tvarka.
 7. Darbuotojų
 evakuacijos planai turi būti įmonės ir jos padalinių informaciniuose stenduose
-pastebimose vietose. Įmonės darbuotojų saugos ir sveikatos tarnybos
-darbuotojai, darbuotojų atstovai privalo būti gerai susipažinę su evakuacijos
-planais bei įmonės avarijų prevencijos ir likvidavimo planais.
+pastebimose vietose. Įmonės darbuotojų saugos ir sveikatos tarnybos darbuotojai,
+darbuotojų atstovai privalo būti gerai susipažinę su evakuacijos planais bei
+įmonės avarijų prevencijos ir likvidavimo planais.
 8. Už laiką,
 kurį darbai sustabdyti šio straipsnio 1 dalyje nustatytais atvejais,
 darbuotojams darbdavys moka vidutinį darbo užmokestį.
@@ -5373,16 +5435,16 @@ nedelsdamas praneša raštu darbdaviui atsisakymo dirbti priežastis.
 nesutinka su darbuotojo pateiktais darbuotojų saugos ir sveikatos neužtikrinimo
 motyvais, ginčai dėl darbuotojo atsisakymo dirbti nagrinėjami įstatymų
 nustatyta tvarka.
-3. Už laiką,
-kurį darbuotojas pagrįstai atsisakė dirbti, darbuotojui mokamas vidutinis darbo
+3. Už laiką, kurį
+darbuotojas pagrįstai atsisakė dirbti, darbuotojui mokamas vidutinis darbo
 užmokestis.
             4. Nepagrįstas atsisakymas
 dirbti yra darbo drausmės pažeidimas ir už nedirbtą laiką nemokama.
  
 277
 straipsnis. Asmenų iki aštuoniolikos metų darbas
-1. Asmenys iki
-aštuoniolikos metų negali būti skiriami dirbti:
+1. Asmenys iki aštuoniolikos
+metų negali būti skiriami dirbti:
 1) darbo, kuris
 fiziškai ir psichologiškai per sunkus;
 2) darbo,
@@ -5462,8 +5524,8 @@ maitinti apmokamos pagal darbuotojos vidutinį darbo užmokestį.
 neseniai pagimdžiusias moteris ar krūtimi maitinančias moteris skirti
 viršvalandiniams darbams be jų sutikimo draudžiama. 
 10. nėščios, neseniai pagimdžiusios moterys ir
-krūtimi maitinančios moterys gali būti skiriamos dirbti naktį, poilsio ir švenčių
-dienomis bei siunčiamos į komandiruotes tik jų sutikimu. Jei
+krūtimi maitinančios moterys gali būti skiriamos dirbti naktį, poilsio ir
+švenčių dienomis bei siunčiamos į komandiruotes tik jų sutikimu. Jei
 tokios darbuotojos nesutinka dirbti naktį ir pateikia pažymą, kad toks darbas
 pakenktų jų saugai ir sveikatai, jos perkeliamos dirbti dieną. Jei dėl
 objektyvių priežasčių tokių darbuotojų neįmanoma perkelti į dieninį darbą, joms
@@ -5514,8 +5576,8 @@ sveikatos priežiūros tarnybos teritorinei įstaigai.
             
 282
 straipsnis. Nelaimingų atsitikimų, profesinių ligų tyrimas
-1. Visoms įmonėms,
-įstaigoms, organizacijoms privaloma vienoda nelaimingų atsitikimų darbe,
+1. Visoms
+įmonėms, įstaigoms, organizacijoms privaloma vienoda nelaimingų atsitikimų darbe,
 profesinių ligų tyrimo ir apskaitos tvarka. Nelaimingų atsitikimų darbe ir
 profesinių ligų tyrimo bei apskaitos nuostatus tvirtina Vyriausybė.
 2. Nukentėjęs
@@ -5553,8 +5615,8 @@ nustato valstybinės darbo
 inspekcijos įstatymas.
  
 XIX SKYRIUS
-INDIVIDUALUS
-DARBO GINČAS
+INDIVIDUALUS DARBO
+GINČAS
 Skyriaus pavadinimas keistas:
 Nr. X-188, 2005-05-12,
 Žin., 2005, Nr. 67-2400 (2005-05-28)
@@ -5572,8 +5634,8 @@ Nr. X-188, 2005-05-12,
 286
 straipsnis. Individualius darbo ginčus nagrinėjantys organai
 Individualius
-darbo ginčus, jeigu šis Kodeksas arba kiti įstatymai nenustato kitokios
-nagrinėjimo tvarkos,
+darbo ginčus, jeigu šis Kodeksas arba kiti įstatymai nenustato kitokios nagrinėjimo
+tvarkos,
 nagrinėja:
 1) darbo ginčų
 komisija;
@@ -5586,8 +5648,8 @@ Nr. X-188, 2005-05-12,
 straipsnis. Darbo ginčų komisijos raštvedys
 Darbo ginčų komisijai
 techniškai aptarnauti darbdavys skiria darbo ginčų komisijos raštvedį. Jis
-priima ir registruoja prašymus, išreikalauja iš atitinkamų tarnybų prašymui išnagrinėti
-reikalingus dokumentus, ekspertų išvadas, praneša apie paskirtą bylos
+priima ir registruoja prašymus, išreikalauja iš atitinkamų tarnybų prašymui
+išnagrinėti reikalingus dokumentus, ekspertų išvadas, praneša apie paskirtą bylos
 nagrinėjimo laiką ir vietą, rašo darbo ginčų komisijos protokolą, siunčia
 išrašus ir sprendimus, persiunčia bylą teismui ir atlieka kitus darbo ginčų
 komisijos pavedimus.
@@ -5746,17 +5808,17 @@ užmokesčio skirtumas už laiką, kurį darbuotojas dirbo mažiau apmokamą dar
             2. Pareigūnų arba organų,
 kuriems įstatymai suteikia nušalinimo nuo darbo teisę, reikalavimus darbdavys
 ir darbuotojas gali skųsti įstatymų nustatyta tvarka.
-            3. Jeigu darbuotojas buvo atleistas
-iš darbo be teisėto pagrindo ar pažeidžiant įstatymų nustatytą tvarką, teismas
-grąžina jį į pirmesnį darbą ir priteisia vidutinį darbo užmokestį už visą
-priverstinės pravaikštos laiką nuo atleidimo iš darbo dienos iki teismo
-sprendimo įvykdymo dienos.
+            3. Jeigu darbuotojas buvo
+atleistas iš darbo be teisėto pagrindo ar pažeidžiant įstatymų nustatytą
+tvarką, teismas grąžina jį į pirmesnį darbą ir priteisia vidutinį darbo
+užmokestį už visą priverstinės pravaikštos laiką nuo atleidimo iš darbo dienos
+iki teismo sprendimo įvykdymo dienos.
             4. Jeigu teismas nustato,
 kad darbuotojas į pirmesnį darbą negali būti grąžinamas dėl ekonominių,
 technologinių, organizacinių ar panašių priežasčių arba dėl to, kad jam gali
-būti sudarytos nepalankios sąlygos dirbti, tai priima sprendimą pripažinti darbo
-sutarties nutraukimą neteisėtu ir priteisia jam šio Kodekso 140 straipsnio 1
-dalyje nustatyto dydžio išeitinę išmoką ir vidutinį darbo užmokestį už
+būti sudarytos nepalankios sąlygos dirbti, tai priima sprendimą pripažinti
+darbo sutarties nutraukimą neteisėtu ir priteisia jam šio Kodekso 140 straipsnio
+1 dalyje nustatyto dydžio išeitinę išmoką ir vidutinį darbo užmokestį už
 priverstinės pravaikštos laiką nuo atleidimo iš darbo iki teismo sprendimo
 įsigaliojimo dienos. Šiuo atveju laikoma, kad darbo sutartis yra nutraukta
 teismo sprendimu nuo jo įsigaliojimo dienos.
@@ -6087,8 +6149,8 @@ KODEKSO 98 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 21.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XI-404,
-2009-07-23, Žin., 2009, Nr. 93-3993 (2009-08-04)
+Nr. XI-404, 2009-07-23,
+Žin., 2009, Nr. 93-3993 (2009-08-04)
 DARBO
 KODEKSO 109, 127, 129, 130, 141, 152, 188, 203, 206, 256 STRAIPSNIŲ PAPILDYMO
 IR PAKEITIMO ĮSTATYMAS
@@ -6096,10 +6158,11 @@ IR PAKEITIMO ĮSTATYMAS
 straipsnius, ir kolektyvinių sutarčių nuostatos, sulygtos pagal šį įstatymą, galioja
 iki 2010 m. gruodžio 31 d. 
 Nuo 2011 m. sausio 1 d. galioja iki šio įstatymo įsigaliojimo
-buvusios šio įstatymo 3, 4, 5, 6, 7, 8, 9, 10 straipsniuose išdėstytų Darbo kodekso
-129 straipsnio 4 ir 5 dalių, 130 straipsnio 1 ir 3 dalių, 141 straipsnio 1
-dalies, 152 straipsnio 1 dalies, 188 straipsnio 1 dalies, 203 straipsnio, 206
-straipsnio 1 dalies 1 punkto ir 256 straipsnio 1 dalies redakcijos.
+buvusios šio įstatymo 3, 4, 5, 6, 7, 8, 9, 10 straipsniuose išdėstytų Darbo
+kodekso 129 straipsnio 4 ir 5 dalių, 130 straipsnio 1 ir 3 dalių, 141
+straipsnio 1 dalies, 152 straipsnio 1 dalies, 188 straipsnio 1 dalies, 203
+straipsnio, 206 straipsnio 1 dalies 1 punkto ir 256 straipsnio 1 dalies
+redakcijos.
  
 22.
 Lietuvos
@@ -6125,8 +6188,7 @@ Nr. XI-927,
 2010-06-22, Žin., 2010, Nr. 81-4221 (2010-07-10)
 DARBO KODEKSO
 76, 77, 80, 107, 108, 109, 115, 127, 147, 149, 150, 151, 202, 293, 294
-STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI KODEKSO PAPILDYMO 123(1) STRAIPSNIU
-ĮSTATYMAS
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI KODEKSO PAPILDYMO 123(1) STRAIPSNIU ĮSTATYMAS
 Šis įstatymas, išskyrus 6 straipsnio 2
 dalį ir 18 straipsnį, įsigalioja 2010 m. rugpjūčio 1 d.
 Šio įstatymo 6 straipsnio 1 dalis galioja
@@ -6223,6 +6285,16 @@ DARBO
 KODEKSO 264, 266 IR 274 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2012 m. liepos 1
 d.
+ 
+35.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-2047,
+2012-06-05, Žin., 2012, Nr. 69-3527 (2012-06-21)
+DARBO
+KODEKSO 170, 178, 179, 180, 184 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis
+įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2012 m. rugsėjo 1 d.
  
 ***
 Pabaiga ***
