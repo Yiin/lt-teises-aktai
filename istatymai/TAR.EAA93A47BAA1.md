@@ -1161,7 +1161,12 @@ garantuojama teisinė pagalba yra teikiama pagal šį skirsnį ir vykdant
 autentiškus dokumentus. 
 3. Valstybės
 garantuojamos teisinės pagalbos teikimui tarptautiniuose ginčuose kitos šio
-įstatymo nuostatos taikomos tiek, kiek šiame skirsnyje nenustatyta kitaip. 
+įstatymo nuostatos taikomos tiek, kiek šiame skirsnyje ir Europos Sąjungos
+reglamentuose nenustatyta kitaip. 
+Straipsnio pakeitimai:
+Nr.
+XI-2082,
+2012-06-19, Žin., 2012, Nr. 76-3929 (2012-06-30)
  
 26 straipsnis. Kitose Europos Sąjungos valstybėse
 narėse teisėtai gyvenančių fizinių asmenų teisės gauti valstybės garantuojamą
@@ -1222,16 +1227,17 @@ Respublikos teisingumo ministerija, gavusi teisinės pagalbos prašymą iš kito
 Europos Sąjungos valstybės narės kompetentingos institucijos, privalo ne vėliau
 kaip per 30 dienų nuo prašymo ir visų reikalingų dokumentų gavimo dienos jį
 išnagrinėti ir priimti sprendimą dėl prašymo perdavimo atitinkamai savivaldybės
-vykdomajai institucijai ar tarnybai. Lietuvos Respublikos teisingumo ministerija
-turi teisę atsisakyti perduoti prašymą, jeigu pateikti ne visi šiame įstatyme
-nurodyti dokumentai. Lietuvos Respublikos teisingumo ministerija, priėmusi
-sprendimą atsisakyti perduoti prašymą, apie tai nedelsdama praneša pareiškėjui.
+vykdomajai institucijai ar tarnybai. Lietuvos Respublikos teisingumo
+ministerija turi teisę atsisakyti perduoti prašymą, jeigu pateikti ne visi šiame
+įstatyme nurodyti dokumentai. Lietuvos Respublikos teisingumo ministerija,
+priėmusi sprendimą atsisakyti perduoti prašymą, apie tai nedelsdama praneša
+pareiškėjui.
 4. Savivaldybės
-vykdomoji institucija arba tarnyba apie priimtą sprendimą dėl valstybės
-garantuojamos teisinės pagalbos teikimo privalo pranešti pareiškėjui. Jeigu
-teisinės pagalbos prašymas nėra tenkinamas, privalo būti nurodytos šio
-sprendimo priežastys. Sprendimas atsisakyti teikti pagalbą gali būti
-skundžiamas Lietuvos Respublikos įstatymų nustatyta tvarka.
+vykdomoji institucija arba tarnyba apie priimtą sprendimą dėl valstybės garantuojamos
+teisinės pagalbos teikimo privalo pranešti pareiškėjui. Jeigu teisinės pagalbos
+prašymas nėra tenkinamas, privalo būti nurodytos šio sprendimo priežastys.
+Sprendimas atsisakyti teikti pagalbą gali būti skundžiamas Lietuvos Respublikos
+įstatymų nustatyta tvarka.
  
 29
 straipsnis.
@@ -1259,18 +1265,18 @@ Respublikos teisingumo ministerija turi teisę atsisakyti siųsti teisinės
 pagalbos prašymą, jeigu prašymas akivaizdžiai nepagrįstas arba jam netaikytinas
 šis skirsnis. Lietuvos Respublikos teisingumo ministerija, priėmusi sprendimą
 atsisakyti siųsti teisinės pagalbos prašymą, pareiškėjui turi nurodyti tokio
-atsisakymo priežastis. Toks sprendimas gali būti skundžiamas Lietuvos Respublikos
-įstatymų nustatyta tvarka.
+atsisakymo priežastis. Toks sprendimas gali būti skundžiamas Lietuvos
+Respublikos įstatymų nustatyta tvarka.
 4. Lietuvos
 Respublikos teisingumo ministerija turi pranešti pareiškėjui apie dokumentus,
 kurių reikia, kad teisinės pagalbos prašymas būtų nagrinėjamas kitoje Europos
 Sąjungos valstybėje narėje, ir užtikrina prašymo ir asmens teisę gauti teisinę
 pagalbą įrodančių dokumentų vertimą pagal šio įstatymo 31 straipsnio 2 dalies 2
 punktą. Lietuvos Respublikos teisingumo ministerija privalo teisinės pagalbos
-prašymą ir asmens teisę gauti teisinę pagalbą įrodančius dokumentus išsiųsti kitos
-Europos Sąjungos valstybės narės kompetentingai institucijai per 15 dienų nuo
-prašymo ir asmens teisę gauti teisinę pagalbą įrodančių dokumentų vertimų į šio
-straipsnio 2 dalyje nurodytą kalbą gavimo dienos.
+prašymą ir asmens teisę gauti teisinę pagalbą įrodančius dokumentus išsiųsti
+kitos Europos Sąjungos valstybės narės kompetentingai institucijai per 15 dienų
+nuo prašymo ir asmens teisę gauti teisinę pagalbą įrodančių dokumentų vertimų į
+šio straipsnio 2 dalyje nurodytą kalbą gavimo dienos.
 5. Lietuvos
 Respublikos teisingumo ministerija šiame straipsnyje nurodytus veiksmus atlieka
 nemokamai. Jeigu kitos Europos Sąjungos valstybės narės kompetentinga
@@ -1414,15 +1420,15 @@ TEISINĖS PAGALBOS ĮSTATYMO IR VALSTYBĖS KONTROLĖS ĮSTATYMO PAKEITIMO ĮSTAT
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-78, 2005-01-20,
-Žin., 2005, Nr. 18-572 (2005-02-08)
+X-78,
+2005-01-20, Žin., 2005, Nr. 18-572 (2005-02-08)
 VALSTYBĖS
 GARANTUOJAMOS TEISINĖS PAGALBOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja
 įstatymo redakcija
 Šis įstatymas įsigalioja pagal Lietuvos
-Respublikos valstybės garantuojamos teisinės pagalbos įstatymo pakeitimo įstatymo
-įsigaliojimo ir įgyvendinimo įstatymą Nr. X-79:
+Respublikos valstybės garantuojamos teisinės pagalbos įstatymo pakeitimo
+įstatymo įsigaliojimo ir įgyvendinimo įstatymą Nr. X-79:
 Valstybės garantuojamos teisinės
 pagalbos įstatymo pakeitimo įstatymas įsigalioja nuo 2005 m. gegužės 1 d., išskyrus Valstybės garantuojamos teisinės pagalbos įstatymo
 pakeitimo įstatymo 1 straipsnyje išdėstyto naujos redakcijos Valstybės
@@ -1437,8 +1443,8 @@ straipsnio 6 dalis įsigalioja nuo 2005 m. liepos 1 d.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-917,
-2006-11-21, Žin., 2006, Nr. 130-4890 (2006-11-30)
+X-917, 2006-11-21,
+Žin., 2006, Nr. 130-4890 (2006-11-30)
 VALSTYBĖS
 GARANTUOJAMOS TEISINĖS PAGALBOS ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
@@ -1452,8 +1458,8 @@ X-1492,
 2008-04-15, Žin., 2008, Nr. 50-1841 (2008-04-30)
 VALSTYBĖS
 GARANTUOJAMOS TEISINĖS PAGALBOS ĮSTATYMO 1, 2, 4, 7, 8, 9, 10, 11, 12, 13, 14,
-15, 17, 18, 19, 21, 23, 24, 26, 33 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR 22
-STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+15, 17, 18, 19, 21, 23, 24, 26, 33 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR 22 STRAIPSNIO
+PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 Šio įstatymo 5 straipsnis,
 šio įstatymo 6 straipsniu keičiamo Lietuvos Respublikos valstybės garantuojamos
 teisinės pagalbos įstatymo 9 straipsnio 3 dalies 1 ir 8 punktai ir 5, 6, 7
@@ -1488,11 +1494,19 @@ GARANTUOJAMOS TEISINĖS PAGALBOS ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja 2012 m. sausio 1 d.
  
+9.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-2082,
+2012-06-19, Žin., 2012, Nr. 76-3929 (2012-06-30)
+VALSTYBĖS
+GARANTUOJAMOS TEISINĖS PAGALBOS ĮSTATYMO 25 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2011-12-20)
+Aušra Bodin (2012-07-02)
                  
-ausrine.trapinskiene@lrs.lt
+aubodi@lrs.lt
