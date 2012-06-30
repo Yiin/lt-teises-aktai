@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2012-02-07 iki 2012-06-29
+Suvestinė redakcija nuo 2012-06-30 iki 2012-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -4254,6 +4254,14 @@ Iki elektros biržos operatoriaus veiklos pradžios, kaip nurodyta šio įstatym
 
 
 
+3. Naujos branduolinės (atominės) elektrinės, nurodytos Branduolinės (atominės) elektrinės įstatyme, projektą ir su juo susijusius klausimus reglamentuoja Branduolinės (atominės) elektrinės įstatymas. Šio įstatymo normos santykiams, susijusiems su naujos branduolinės (atominės) elektrinės projektu ir su juo susijusiais klausimais, taikomos tiek, kiek jų nereglamentuoja Branduolinės (atominės) elektrinės įstatymas. 
+Papildyta straipsnio dalimi:
+Nr. XI-2086, 2012-06-21, Žin., 2012, Nr. 76-3930 (2012-06-30), i. k. 1121010ISTA0XI-2086
+ 
+
+
+
+
 
 
 
@@ -4367,3 +4375,8 @@ Dėl Lietuvos Respublikos elektros energetikos įstatymo pakeitimo įstatymo, Li
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1919, 2012-01-17, Žin., 2012, Nr. 17-752 (2012-02-07), i. k. 1121010ISTA0XI-1919
 Lietuvos Respublikos elektros energetikos įstatymo pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2086, 2012-06-21, Žin., 2012, Nr. 76-3930 (2012-06-30), i. k. 1121010ISTA0XI-2086
+Lietuvos Respublikos elektros energetikos įstatymo 85 straipsnio papildymo įstatymas
