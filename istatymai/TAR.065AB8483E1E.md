@@ -1722,8 +1722,7 @@ kt.). Šie reikalavimai netaikomi reklaminio ar pramoginio pobūdžio leidiniams
 2. Vietinių,
 regioninių ir nacionalinių laikraščių, žurnalų, išskyrus tuos, kurių tiražas
 mažesnis negu 500 egzempliorių arba kuriuose nespausdinama reklama, tiražas
-turi būti tikrinamas Vyriausybės ar jos įgaliotos institucijos nustatyta
-tvarka.
+turi būti tikrinamas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 3. Vyriausybė
 nustato dokumentų privalomųjų egzempliorių, nemokamai perduodamų bibliotekoms,
 skaičių.
@@ -1761,17 +1760,17 @@ kūriniai yra iš esmės sukurti autorių ir kūrėjų, gyvenančių vienoje ar 
 Europos valstybėse.
 2. Šio
 straipsnio 1 dalies 1 ir 2 punktai taikomi tuo atveju, jei kūriniams,
-sukurtiems Lietuvos Respublikoje ar Europos Sąjungos valstybėse narėse, diskriminacinės
-priemonės šio straipsnio 1 dalies 1 ir 2 punktuose numatytose šalyse
-netaikomos.
+sukurtiems Lietuvos Respublikoje ar Europos Sąjungos valstybėse narėse,
+diskriminacinės priemonės šio straipsnio 1 dalies 1 ir 2 punktuose numatytose
+šalyse netaikomos.
 3. Kūriniai,
 kurie, remiantis šio straipsnio 1 dalies nuostatomis, neturėtų būti laikomi
 Europos kūriniais, bet yra sukurti remiantis dvišalėmis bendro kūrimo (gamybos)
 sutartimis tarp Europos Sąjungos valstybių narių arba Lietuvos Respublikos ir
 trečiųjų valstybių, laikomi Europos kūriniais, jeigu Europos Sąjungos arba
-Lietuvos Respublikos kūrėjų įnašas sudaro didžiąją bendro kūrimo (gamybos)
-išlaidų dalį ir jeigu jų kūrimas (gamyba) nėra kontroliuojamas kūrėjų,
-įsisteigusių ne Europos Sąjungos valstybėje narėje.
+Lietuvos Respublikos kūrėjų įnašas sudaro didžiąją bendro kūrimo (gamybos) išlaidų
+dalį ir jeigu jų kūrimas (gamyba) nėra kontroliuojamas kūrėjų, įsisteigusių ne
+Europos Sąjungos valstybėje narėje.
 4. Kūriniai,
 kurie, remiantis šio straipsnio 1 ir 2 dalių nuostatomis, neturėtų būti laikomi
 Europos kūriniais, bet iš esmės yra sukurti bendradarbiaujant su autoriais ir
@@ -1841,8 +1840,8 @@ ekonominės erdvės valstybėje ar kitoje Europos Tarybos konvenciją dėl
 televizijos be sienų ratifikavusioje valstybėje, gyvenančių žmonių dalis
 netektų galimybės stebėti Lietuvoje ar už jos ribų vykstančių įvykių, kurie
 šios valstybės teisės aktais įteisinti kaip visuomenei reikšmingi. Programos
-apie šiuos įvykius transliuojamos laikantis toje valstybėje nustatytos transliavimo
-tvarkos; 
+apie šiuos įvykius transliuojamos laikantis toje valstybėje nustatytos
+transliavimo tvarkos; 
 3) Lietuvos
 Respublikos jurisdikcijai priklausantys televizijos programų transliuotojai
 negali naudotis po 1997 m. liepos 30 d. nusipirktomis išskirtinėmis teisėmis
@@ -1885,11 +1884,11 @@ skelbiamas jos pabaigoje.
 13. Šio straipsnio 8 ir 9 dalyse
 nurodyti reikalavimai netaikomi vietinėms televizijos programoms.
 Straipsnio pakeitimai:
-Nr. XI-1046,
-2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
+Nr. XI-1046, 2010-09-30,
+Žin., 2010, Nr. 123-6260 (2010-10-18)
  
-39 straipsnis. Reklamai ir komerciniams audiovizualiniams
-pranešimams keliami reikalavimai
+39 straipsnis.
+Reklamai ir komerciniams audiovizualiniams pranešimams keliami reikalavimai
 1. Reklama, komerciniai
 audiovizualiniai pranešimai turi būti padorūs, teisingi ir aiškiai atpažįstami.
 Reklamoje, komerciniuose audiovizualiniuose pranešimuose draudžiama skelbti
@@ -1906,9 +1905,9 @@ kenkti.
 komerciniai audiovizualiniai pranešimai neturi daryti neigiamo poveikio
 nepilnamečių psichikos sveikatai, fiziniam, protiniam ar doroviniam vystymuisi
 ir turi atitikti šiuos reikalavimus: 
-1) neturi
-tiesiogiai skatinti nepilnamečių pirkti ar išsinuomoti, ar rinktis prekę ar
-paslaugą, naudojantis nepilnamečių nepatyrimu ir patiklumu;
+1) neturi tiesiogiai
+skatinti nepilnamečių pirkti ar išsinuomoti, ar rinktis prekę ar paslaugą,
+naudojantis nepilnamečių nepatyrimu ir patiklumu;
 2) neturi tiesiogiai skatinti
 nepilnamečių įtikinėti savo tėvus ar kitus asmenis pirkti reklamuojamas prekes
 ar paslaugas;
@@ -1916,8 +1915,7 @@ ar paslaugas;
 formuoti nepilnamečių nuomonės, kad tam tikrų paslaugų ar prekių naudojimas
 suteiks jiems fizinį, psichologinį ar socialinį pranašumą prieš bendraamžius;
 4) juose neturi
-būti naudojamasi nepilnamečių pasitikėjimu tėvais, mokytojais ar kitais
-asmenimis;
+būti naudojamasi nepilnamečių pasitikėjimu tėvais, mokytojais ar kitais asmenimis;
 5) neturi rodyti
 nepilnamečių, patekusių į pavojingas situacijas, kai nėra viešojo intereso.
 4. Reklamos,
@@ -1948,11 +1946,11 @@ audiovizualiniuose pranešimuose, nei jų įgarsinti.
 ir televizijos reklamai ir keliami šie reikalavimai: 
 1) teleparduotuvė ir televizijos
 reklama turi būti padorios, neklaidinančios, aiškiai atpažįstamos ir atskirtos
-nuo programos turinio garsinėmis ir (ar) optinėmis, ir (ar) erdvinėmis
-priemonėmis. Televizijos reklama ir teleparduotuvė gali būti įterpiamos į
-programas nepakenkiant atskiros programos vientisumui, atsižvelgiant į
-natūralias programos pertraukas, programos trukmę ir pobūdį bei nepažeidžiant
-turtinių teisių turėtojų teisių; 
+nuo programos turinio garsinėmis ir (ar) optinėmis, ir (ar) erdvinėmis priemonėmis.
+Televizijos reklama ir teleparduotuvė gali būti įterpiamos į programas
+nepakenkiant atskiros programos vientisumui, atsižvelgiant į natūralias
+programos pertraukas, programos trukmę ir pobūdį bei nepažeidžiant turtinių
+teisių turėtojų teisių; 
 2) televizijos
 reklama, anonsas ar teleparduotuvė negali būti įterpiami į transliuojamas
 religines apeigas ir religinio pobūdžio programas;
@@ -1988,9 +1986,9 @@ Kaip laikomasi šio ir kitų įstatymų nustatytų reikalavimų reklamai,
 kontroliuoja Valstybinė vartotojų teisių apsaugos tarnyba prie
 Teisingumo ministerijos, Lietuvos
 Respublikos konkurencijos
-taryba ir Komisija, bendradarbiaudamos su kitomis viešosios informacijos
-rengėjų ir (ar) skleidėjų veiklos reguliavimo institucijomis ir
-reklamos savitvarkos institucijomis.
+taryba ir Komisija, bendradarbiaudamos su kitomis viešosios informacijos rengėjų
+ir (ar) skleidėjų veiklos reguliavimo institucijomis ir reklamos
+savitvarkos institucijomis.
 14. Šio įstatymo
 nuostatos, išskyrus 38 straipsnio 8, 9 dalyse ir šio straipsnio 11 dalies 1, 3
 punktuose nurodytus atvejus, mutatis mutandis taikomos televizijos
@@ -2017,8 +2015,9 @@ Nr. XI-1046,
 Nr. XI-1454,
 2011-06-16, Žin., 2011, Nr. 78-3797 (2011-06-30)
  
-40 straipsnis. Visuomenės informavimo audiovizualinėmis
-priemonėmis paslaugų, radijo programų ir (ar) atskirų programų rėmimas 
+40 straipsnis. Visuomenės informavimo
+audiovizualinėmis priemonėmis paslaugų, radijo programų ir (ar) atskirų
+programų rėmimas 
 1. Remiamos
 visuomenės informavimo audiovizualinėmis priemonėmis paslaugos, radijo
 programos ir (ar) atskiros programos turi atitikti šiuos reikalavimus:
@@ -2112,8 +2111,8 @@ XI-1046,
  
 402 straipsnis. Užsakomųjų visuomenės
 informavimo audiovizualinėmis priemonėmis paslaugų teikėjų registracija
-Lietuvos
-Respublikos jurisdikcijai priklausantys užsakomųjų visuomenės informavimo audiovizualinėmis
+Lietuvos Respublikos
+jurisdikcijai priklausantys užsakomųjų visuomenės informavimo audiovizualinėmis
 priemonėmis paslaugų teikėjai, prieš pradėdami teikti užsakomąsias visuomenės
 informavimo audiovizualinėmis priemonėmis paslaugas, privalo registruotis
 Komisijoje jos nustatyta tvarka.
@@ -2123,10 +2122,10 @@ apsauga teikiant užsakomąsias visuomenės informavimo audiovizualinėmis
 priemonėmis paslaugas
 Užsakomųjų visuomenės
 informavimo audiovizualinėmis priemonėmis paslaugų teikėjai teisės aktų
-nustatyta tvarka privalo užtikrinti, kad užsakomosios visuomenės informavimo audiovizualinėmis
-priemonėmis paslaugos, kurios galėtų daryti neigiamą poveikį nepilnamečių
-psichikos sveikatai, fiziniam, protiniam ar doroviniam vystymuisi, būtų
-teikiamos tik tokiu būdu, kad būtų užtikrinta, jog nepilnamečiai tokių
+nustatyta tvarka privalo užtikrinti, kad užsakomosios visuomenės informavimo
+audiovizualinėmis priemonėmis paslaugos, kurios galėtų daryti neigiamą poveikį
+nepilnamečių psichikos sveikatai, fiziniam, protiniam ar doroviniam vystymuisi,
+būtų teikiamos tik tokiu būdu, kad būtų užtikrinta, jog nepilnamečiai tokių
 užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų
 negalėtų klausytis ar žiūrėti be už nepilnamečių priežiūrą ar ugdymą atsakingų
 asmenų kontrolės.
@@ -2252,12 +2251,12 @@ normos.
 2.
 Jeigu tikrovės neatitinkantys duomenys buvo paskleisti per visuomenės
 informavimo priemonę (spaudoje, televizijoje, radijuje ir pan.), asmuo, apie
-kurį šie duomenys buvo paskleisti, turi teisę surašyti paneigimą, kuriame turi būti
-nurodyta, kokia paskelbta informacija neatitinka tikrovės, kada ir kur ji buvo
-paskelbta, kokie paskelbtos informacijos teiginiai žemina fizinio asmens garbę
-ir orumą ar pažeidžia juridinio asmens dalykinę reputaciją, ir pareikalauti,
-kad šią informaciją paskleidusi visuomenės informavimo priemonė tokį paneigimą
-paskelbtų.
+kurį šie duomenys buvo paskleisti, turi teisę surašyti paneigimą, kuriame turi
+būti nurodyta, kokia paskelbta informacija neatitinka tikrovės, kada ir kur ji
+buvo paskelbta, kokie paskelbtos informacijos teiginiai žemina fizinio asmens
+garbę ir orumą ar pažeidžia juridinio asmens dalykinę reputaciją, ir
+pareikalauti, kad šią informaciją paskleidusi visuomenės informavimo priemonė
+tokį paneigimą paskelbtų.
 3. Gavus šio straipsnio 2 dalyje nurodytą paneigimą, privaloma jį tokios pat apimties ir ta pačia forma, kokia buvo
 paskelbta per visuomenės informavimo priemonę
 tikrovės neatitinkanti, žeminanti fizinio asmens garbę ir orumą ar pažeidžianti
@@ -2269,11 +2268,11 @@ nacionalinio radijo pirmąją programą (per dvi savaites) ir visuomenės inform
 nuo paneigimo gavimo dienos be komentarų, toje pačioje vietoje, tokios pat
 apimties ir tokios pat formos (televizija ir radijas
 – tą pačią savaitės dieną ir tuo pačiu metu), kokia buvo paskelbta tikrovės
-neatitinkanti, žeminanti fizinio asmens garbę ir orumą ar pažeidžianti
-juridinio asmens dalykinę reputaciją informacija. Per visuomenės
-informavimo priemonę privaloma paskelbti atsakymą, neatsižvelgiant į tai, ar
-per ją paskleisti duomenys buvo paskleisti pačios visuomenės informavimo
-priemonės vardu, ar kito asmens vardu.
+neatitinkanti, žeminanti fizinio asmens garbę ir orumą ar pažeidžianti juridinio
+asmens dalykinę reputaciją informacija. Per visuomenės informavimo
+priemonę privaloma paskelbti atsakymą, neatsižvelgiant į tai, ar per ją
+paskleisti duomenys buvo paskleisti pačios visuomenės informavimo priemonės
+vardu, ar kito asmens vardu.
 4. Jei visuomenės informavimo priemonė, gavusi šio straipsnio 2
 dalyje nurodytą paneigimą, nusprendžia neskelbti tokio paneigimo, ji privalo
 per dvi savaites nuo paneigimo gavimo dienos raštu atsakyti paneigimą
@@ -2321,8 +2320,8 @@ organizacijomis, rengia Vyriausybės teikiamų visuomenės informavimo srities
 bendradarbiaudama su kitomis visuomenės informavimo srityje veikiančiomis
 institucijomis ir organizacijomis, įgyvendina Lietuvos Respublikos tarptautinių
 sutarčių, susijusių su visuomenės informavimu, nuostatas; 
-4) teikia informaciją ir
-metodinę pagalbą visuomenės informavimo klausimais; 
+4) teikia informaciją ir metodinę
+pagalbą visuomenės informavimo klausimais; 
 5) organizuoja
 konferencijas, seminarus, praktikumus visuomenės informavimo klausimais;
 6)
@@ -2347,15 +2346,15 @@ narių: po vieną atstovą deleguoja Lietuvos žmogaus
 teisių centras, Lietuvos psichiatrų asociacija, Lietuvos katalikų bažnyčios
 Vyskupų konferencija, Lietuvos periodinės spaudos leidėjų asociacija, Lietuvos
 radijo ir televizijos asociacija, Lietuvos kabelinės televizijos asociacija,
-Regioninių televizijų asociacija, Lietuvos žurnalistų sąjunga, Lietuvos
-žurnalistų draugija, Lietuvos žurnalistikos centras, LRT, Nacionalinė
-žurnalistų kūrėjų asociacija, Nacionalinė rajonų ir miestų laikraščių leidėjų
-asociacija, Komunikacijos ir reklamos agentūrų asociacija, Interneto
-žiniasklaidos asociacija. Komisijos nariai skiriami trejiems metams.
-Organizacijos, kurios deleguoja savo atstovus į Komisiją, ne rečiau kaip kartą
-per kalendorinius metus rengia susirinkimus, kuriuose dalyvauja ne mažiau kaip
-po tris delegatus iš kiekvienos šių organizacijų. Susirinkimas tvirtina
-Komisijos veiklos nuostatus.
+Regioninių televizijų asociacija, Lietuvos žurnalistų sąjunga, Lietuvos žurnalistų
+draugija, Lietuvos žurnalistikos centras, LRT, Nacionalinė žurnalistų kūrėjų
+asociacija, Nacionalinė rajonų ir miestų laikraščių leidėjų asociacija,
+Komunikacijos ir reklamos agentūrų asociacija, Interneto žiniasklaidos
+asociacija. Komisijos nariai skiriami trejiems metams. Organizacijos, kurios
+deleguoja savo atstovus į Komisiją, ne rečiau kaip kartą per kalendorinius
+metus rengia susirinkimus, kuriuose dalyvauja ne mažiau kaip po tris delegatus
+iš kiekvienos šių organizacijų. Susirinkimas tvirtina Komisijos veiklos
+nuostatus.
 3.
 Komisijos darbą organizuoja jos pirmininkas. Jį Komisija išsirenka iš savo
 narių vieniems metams. 
@@ -2437,8 +2436,8 @@ organizacijos priimtas sprendimas.
 5. Komisijos
 narys negali būti atšauktas iš pareigų, kol nesibaigė jo įgaliojimų laikas,
 išskyrus atvejus, kai:
-1) Komisijos
-narys atsistatydina;
+1) Komisijos narys
+atsistatydina;
 2) Komisijos
 narys be pateisinamos priežasties daugiau kaip keturis mėnesius iš eilės
 nedalyvauja Komisijos posėdžiuose;
@@ -2520,10 +2519,10 @@ tvarka. Direktorius už administracijos veiklą kasmet atsiskaito Komisijai.
 Administracijos sudėtį ir darbuotojų skaičių tvirtina Komisija. Administracijos
 veikla organizuojama pagal Komisijos patvirtintus nuostatus. 
 15. Komisijos veiklai finansuoti
-radijo ir (ar) televizijos programų transliuotojai, retransliuotojai ir užsakomųjų
-visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjai,
-išskyrus LRT, gaunantys pajamas iš radijo ir (ar) televizijos programų
-transliavimo, retransliavimo ir (ar) užsakomųjų visuomenės informavimo
+radijo ir (ar) televizijos programų transliuotojai, retransliuotojai ir
+užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų
+teikėjai, išskyrus LRT, gaunantys pajamas iš radijo ir (ar) televizijos
+programų transliavimo, retransliavimo ir (ar) užsakomųjų visuomenės informavimo
 audiovizualinėmis priemonėmis paslaugų veiklos, kas mėnesį privalo įmokėti į
 Komisijos sąskaitą 0,8 procento pajamų, gautų iš komercinių audiovizualinių
 pranešimų, reklamos, abonentinio mokesčio ir kitos veiklos, susijusios su
@@ -2539,16 +2538,252 @@ užmokesčių už suteiktas paslaugas, paramos lėšų, leidybinės veiklos ir k
 tvirtina planuojamų išlaidų sąmatą. Šią sąmatą ir jos vykdymo ataskaitą
 Komisija skelbia „Valstybės žinių“ priede „Informaciniai pranešimai“.
 17. Komisijos pirmininkas už
-Komisijos veiklą kartą per metus atsiskaito Seimo plenariniame posėdyje ir pateikia
-Komisijos finansinės veiklos ataskaitą.
+Komisijos veiklą kartą per metus atsiskaito Seimo plenariniame posėdyje ir
+pateikia Komisijos finansinės veiklos ataskaitą.
 18. Komisijos
 nariams ir administracijai draudžiama platinti informaciją, kuri yra radijo ir
 (ar) televizijos programų transliuotojų, retransliuotojų, užsakomųjų visuomenės
 informavimo audiovizualinėmis priemonėmis paslaugų teikėjų, informacinės
 visuomenės informavimo priemonių valdytojų komercinė paslaptis.
+[47
+straipsnio redakcija nuo 2013-01-01]
+47 straipsnis. Lietuvos
+radijo ir televizijos komisija
+1. Lietuvos
+radijo ir televizijos komisija (toliau šiame straipsnyje – Komisija) –
+nepriklausoma Seimui atskaitinga Lietuvos Respublikos jurisdikcijai
+priklausančių radijo ir (ar) televizijos programų transliuotojų,
+retransliuotojų ir užsakomųjų visuomenės informavimo audiovizualinėmis
+priemonėmis paslaugų teikėjų veiklą reguliuojanti ir kontroliuojanti
+institucija. Komisija dalyvauja formuojant valstybės audiovizualinę politiką.
+Ji yra Seimo ir Vyriausybės ekspertė radijo, televizijos programų transliavimo ir
+retransliavimo bei užsakomųjų visuomenės informavimo audiovizualinėmis
+priemonėmis paslaugų klausimais. Komisija, atlikdama savo funkcijas ir
+priimdama sprendimus jos kompetencijai priklausančiais klausimais, yra
+nepriklausoma.
+2. Komisija savo
+veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais
+įstatymais bei teisės aktais, taip pat Seimo patvirtintais Komisijos
+nuostatais.
+3. Komisija yra
+viešasis juridinis asmuo, valstybės biudžetinė įstaiga, kurios vadovas yra
+Komisijos pirmininkas, turinti savo antspaudą su valstybės herbu ir sąskaitą
+banke. Komisijos būstinė yra Vilniuje. Komisijai skirtų valstybės biudžeto
+asignavimų valdytojas yra Komisijos pirmininkas. Jo teises ir pareigas bei
+atsakomybę tvarkant, naudojant, įtraukiant į apskaitą Komisijai skirtas
+valstybės biudžeto lėšas nustato įstatymai.
+4. Komisiją
+sudaro 11 narių: du narius skiria Respublikos Prezidentas, tris narius (vieną –
+iš opozicinių frakcijų) – Seimas Švietimo, mokslo ir kultūros komiteto ir
+Informacinės visuomenės plėtros komiteto teikimu, tris narius – Lietuvos meno
+kūrėjų asociacija, vieną narį – Lietuvos katalikų bažnyčios Vyskupų
+konferencija, vieną narį – Lietuvos žurnalistų sąjunga, vieną narį – Lietuvos
+žurnalistų draugija. Komisijos nariu gali būti skiriamas tik nepriekaištingos
+reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį universitetinį
+išsilavinimą ir ne mažesnę kaip penkerių metų patirtį audiovizualinės
+politikos, viešosios informacijos rengėjo ar skleidėjo veiklos srityse,
+profesinės ar akademinės patirties visuomenės informavimo, švietimo, kultūros,
+mokslo ar žmogaus teisių srityse. Komisijos nariui taikomi tokie patys kaip ir
+valstybės tarnautojams Valstybės tarnybos įstatyme nustatyti kriterijai,
+kuriais remiantis asmuo negali būti laikomas nepriekaištingos reputacijos.
+Komisijos nariu negali būti skiriamas asmuo, kuris mažiau kaip prieš vienus
+metus ėjo pareigas reguliuojamų sektorių įmonių ar organizacijų valdymo
+organuose ir (ar) gali tose įmonėse ar organizacijose turėti interesų. Komisijos
+nariai skiriami ketverių metų kadencijai ir jais gali būti ne ilgiau kaip dvi
+kadencijas iš eilės. Likus ne mažiau kaip 60 dienų iki Komisijos kadencijos
+pabaigos, Komisija kreipiasi į Komisijos narius skiriančias institucijas ar
+organizacijas dėl naujų narių skyrimo. Komisijos nario darbo Komisijoje
+teisinis pagrindas yra jį paskyrusios institucijos (institucijų) ar
+organizacijos (organizacijų) priimtas sprendimas. Komisijos pirmininkui,
+pirmininko pavaduotojui ir nariams taikomos Valstybės politikų ir valstybės
+pareigūnų darbo apmokėjimo įstatymo nustatytos darbo apmokėjimo sąlygos ir
+Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo
+nuostatos. Kai Komisijos narys dirba ne visą darbo dieną, už darbą atliekant
+Komisijos nario pareigas jam apmokama atsižvelgiant į faktiškai dirbtą darbo
+laiką.
+5. Komisijos
+nario įgaliojimai nutrūksta anksčiau laiko, kai:
+1) Komisijos
+narys atsistatydina;
+2) Komisijos
+narys be pateisinamos priežasties daugiau kaip keturis mėnesius iš eilės
+nedalyvauja Komisijos posėdžiuose;
+3) Komisijos
+nariui yra įsiteisėjęs apkaltinamasis teismo nuosprendis;
+4) Komisijos
+narys netenka Lietuvos Respublikos pilietybės;
+5) Komisijos
+narys teismo pripažįstamas neveiksniu;
+6) Komisijos
+narys dėl sveikatos būklės negali eiti pareigų;
+7) Komisijos
+narys miršta;
+8) Komisijos
+narį atšaukia jį paskyrusi organizacija ar institucija po to, kai į ją
+kreipiasi Komisija, ne mažesne kaip 2/3 visų Komisijos narių balsų dauguma
+pripažinusi, kad Komisijos narys padarė šiurkštų tarnybinį pažeidimą, nurodytą
+Komisijos nuostatuose;
+9) yra šio
+straipsnio 18 dalyje numatyti pagrindai.
+6. Tais
+atvejais, kai Komisijos nario įgaliojimai nutrūksta anksčiau laiko šiame
+straipsnyje numatytais pagrindais, Komisija kreipiasi į instituciją ar
+organizaciją, paskyrusią Komisijos narį, kurio įgaliojimai nutrūksta anksčiau
+laiko, prašydama paskirti naują Komisijos narį iki kadencijos, kuriai buvo
+paskirtas Komisijos narys, kurio įgaliojimai nutrūko anksčiau laiko, pabaigos.
+Informacija apie Komisijos sudėtį ir jos pasikeitimus skelbiama leidinyje
+„Valstybės žinios“ ir Komisijos tinklalapyje – informacinės visuomenės
+informavimo priemonėje, kurios valdytoja yra Komisija.
+7. Šio
+straipsnio 5 dalyje įtvirtinti Komisijos nario įgaliojimų nutrūkimo ankščiau
+laiko pagrindai taikomi ir Komisijos pirmininkui, ir jo pavaduotojui.
+8. Komisijos
+nario įgaliojimai nutrūksta pasibaigus jo kadencijai. 
+9. Komisijos
+nariais negali būti Seimo, Vyriausybės nariai, Lietuvos nacionalinio radijo ir
+televizijos tarybos nariai, politinio (asmeninio) pasitikėjimo valstybės
+tarnautojai, asmenys, susiję su radijo ir (ar) televizijos programų
+transliuotojais, retransliuotojais ir (ar) užsakomųjų visuomenės informavimo
+audiovizualinėmis priemonėmis paslaugų teikėjais darbo, autorinių sutarčių ar
+kitais sutartiniais santykiais, taip pat radijo ir (ar) televizijos programų
+transliuotojų, retransliuotojų ir (ar) užsakomųjų visuomenės informavimo
+audiovizualinėmis priemonėmis paslaugų teikėjų dalyviai, juos skiriančių
+institucijų ar organizacijų vadovai, Komisijos administracijos darbuotojai. Komisijos
+pirmininkas, jo pavaduotojas negali dirbti verslo, komercijos ar
+kitokiose įstaigose, įmonėse ar organizacijose, negali gauti jokio kito
+atlyginimo, išskyrus darbo užmokestį, nustatytą pagal einamas pareigas, ir
+užmokestį už mokslinį bei pedagoginį darbą ir autorinį atlyginimą už kūrybinę
+veiklą, nesusijusią su radijo ir (ar) televizijos programų transliuotojais,
+retransliuotojais ir (ar) užsakomųjų visuomenės informavimo audiovizualinėmis
+priemonėmis paslaugų teikėjais ir (ar) jų dalyviais. Komisijos nariu negali
+būti asmuo, kurio artimi asmenys, kaip jie apibrėžti Viešųjų ir privačių
+interesų derinimo valstybinėje tarnyboje įstatyme, yra susiję su radijo
+ir (ar) televizijos programų transliuotojais, retransliuotojais ir (ar)
+užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų
+teikėjais darbo, autorinių sutarčių ar kitais sutartiniais santykiais ir yra
+radijo ir (ar) televizijos programų transliuotojų, retransliuotojų ir (ar) užsakomųjų
+visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų dalyviai.
+Politinių partijų nariai, paskirti į Komisiją, sustabdo savo narystę politinėje
+partijoje ir dalyvavimą jos veikloje iki savo kadencijos Komisijoje pabaigos.
+10. Komisijos
+pirmininką ir jo pavaduotoją bendru Seimo Švietimo, mokslo ir kultūros komiteto
+ir Informacinės visuomenės plėtros komiteto teikimu iš Komisijos narių dvejų
+metų laikotarpiui skiria ir atleidžia Seimas. Kol Komisijos pirmininkas nėra paskirtas,
+jo pareigas eina vyriausias pagal amžių Komisijos narys. Asmuo negali būti
+Komisijos pirmininku ilgiau kaip dvi kadencijas iš eilės.
+11. Komisijos
+veiklos forma – posėdžiai, pasitarimai. Posėdžius ne rečiau kaip
+kartą per mėnesį šaukia Komisijos pirmininkas savo iniciatyva arba ne mažiau
+kaip 1/3 Komisijos narių prašymu. Informacija apie numatomus posėdžius ir jų
+darbotvarkė skelbiama Komisijos nustatyta tvarka.
+12. Komisijos
+posėdžiai yra vieši. Komisijos posėdis ne mažiau kaip 2/3 dalyvaujančių
+Komisijos narių balsų dauguma gali būti paskelbtas uždaru, kai reikia apsaugoti
+asmens privataus gyvenimo slaptumą ar jo nuosavybę, taip pat jeigu viešas
+nagrinėjimas gali atskleisti valstybės, profesines ar komercines paslaptis.
+13. Komisijos
+posėdžiai laikomi teisėtais, jeigu juose dalyvauja ne mažiau kaip 2/3 Komisijos
+narių. Komisija priima sprendimus. Sprendimai priimami atviru balsavimu
+paprasta visų Komisijos narių balsų dauguma, išskyrus šiame įstatyme nustatytus
+atvejus. Sprendimai išduoti licenciją, atsisakyti ją išduoti, taip pat dėl
+Administracinių teisės pažeidimų kodekse ir šiame įstatyme numatytų nuobaudų
+skyrimo, licencijos sąlygų pakeitimo, konkursų sąlygų ir rezultatų, licencijos
+galiojimo sustabdymo, licencijos galiojimo panaikinimo priimami ne mažesne kaip
+2/3 visų Komisijos narių balsų dauguma. 
+14. Komisijos
+sprendimus pasirašo Komisijos pirmininkas arba jo pavaduotojas, kai Komisijos
+pirmininkas yra laikinai išvykęs į užsienį arba dėl ligos laikinai negali eiti
+savo pareigų. Komisijos pirmininko pavaduotojas atlieka ir kitas funkcijas, kai
+Komisijos pirmininkas laikinai negali eiti savo pareigų. Komisijos
+sprendimai, kurie yra norminiai teisės aktai, skelbiami leidinyje „Valstybės
+žinios“. Komisijos sprendimai įsigalioja kitą dieną po jų paskelbimo, jeigu
+pačiuose sprendimuose nenustatyta vėlesnė jų įsigaliojimo data. Kiti Komisijos
+priimti individualūs teisės aktai skelbiami Komisijos tinklalapyje –
+informacinės visuomenės informavimo priemonėje, kurios valdytoja yra Komisija,
+ir įsigalioja jų paskelbimo dieną, jeigu juose nenustatyta vėlesnė jų
+įsigaliojimo data. Visi Komisijos norminių teisės aktų projektai derinami su
+visuomene viešųjų konsultacijų būdu. Viešųjų konsultacijų tvarka nustatoma
+Komisijos nuostatuose. Komisijos sprendimai radijo ir (ar) televizijos
+programų transliuotojams, retransliuotojams ar užsakomųjų visuomenės
+informavimo audiovizualinėmis priemonėmis paslaugų teikėjams yra
+privalomi, juos šie asmenys gali skųsti teismui per 30 dienų nuo Komisijos
+sprendimų įsigaliojimo dienos.
+15. Komisijos finansinį,
+ūkinį ir materialinį aptarnavimą atlieka ir padeda Komisijai atlikti jai
+pavestas funkcijas Komisijos administracija. Komisijos administracijai
+vadovauja direktorius. Komisijos administracijos direktorių penkeriems metams skiria
+Komisija konkurso tvarka. Direktorius už Komisijos administracijos veiklą
+kiekvienais metais iki vasario 1 dienos atsiskaito Komisijai. Komisijos
+administracijos struktūrą ir darbo reglamentą tvirtina Komisija. Komisijos
+administracijos didžiausią leistiną valstybės tarnautojų ir darbuotojų,
+dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės
+biudžeto ir valstybės pinigų fondų, pareigybių skaičių nustato Seimo valdyba.
+Komisijos administracijos direktoriaus ir darbuotojų tarnybinių atlyginimų
+koeficientai ir kitos darbo apmokėjimo sąlygos nustatomos Komisijos
+nuostatuose.
+16. Komisijos
+veiklai finansuoti radijo ir (ar) televizijos programų transliuotojai,
+retransliuotojai ir (ar) užsakomųjų visuomenės informavimo audiovizualinėmis
+priemonėmis paslaugų teikėjai, išskyrus LRT, gaunantys pajamas iš radijo ir
+(ar) televizijos programų transliavimo, retransliavimo ir (ar) užsakomųjų
+visuomenės informavimo audiovizualinėmis priemonėmis paslaugų veiklos, privalo
+mokėti įmokas į Komisijos, kaip biudžetinės įstaigos, sąskaitą. Įmokos dydis
+yra 0,6 procento pajamų, gautų iš komercinių audiovizualinių pranešimų,
+reklamos, abonentinio mokesčio ir kitos veiklos, susijusios su radijo ir (ar)
+televizijos programų transliavimu, retransliavimu ir (ar) su užsakomosiomis
+visuomenės informavimo audiovizualinėmis priemonėmis paslaugomis.
+Audiovizualinių paslaugų rinkos dalyviai privalo pervesti įmokas į Komisijos,
+kaip biudžetinės įstaigos, sąskaitą kas ketvirtį ne vėliau kaip iki kito
+ketvirčio pirmojo mėnesio 30 dienos. Iš radijo ir (ar) televizijos
+programų transliuotojų ar retransliuotojų, kurie per 3 mėnesius po nustatyto
+termino nepervedė įmokos į Komisijos, kaip biudžetinės įstaigos, sąskaitą, šios
+lėšos išieškomos per teismą. Komisijos finansavimo šaltiniai yra valstybės
+biudžeto asignavimai, tarp jų užmokestis už suteiktas paslaugas, paramos lėšos,
+leidybinės veiklos pajamos ir kitos teisėtai gaunamos lėšos. Komisijos
+pajamos, gautos pagal šį straipsnį ir įmokėtos į valstybės biudžetą, gali būti
+naudojamos tik Komisijos strateginiame veiklos plane numatytoms ir
+įgyvendinamoms programoms finansuoti.
+17. Komisija
+kiekvienais metais rengia detalią metinę planuojamų pajamų ir išlaidų sąmatą. Komisijos
+buhalterinė apskaita organizuojama ir tvarkoma, finansinių ataskaitų rinkiniai
+sudaromi ir teikiami Buhalterinės apskaitos įstatyme ir Viešojo sektoriaus
+atskaitomybės įstatyme ir kituose teisės aktuose bei viešojo sektoriaus
+apskaitos ir finansinės atskaitomybės standartuose nustatyta tvarka. Komisijos
+praėjusių metų finansinių ataskaitų rinkinį patikrina Komisijos parinktas
+auditorius ar audito įmonė ne vėliau kaip iki balandžio 1 dienos. Auditorius ar
+audito įmonė parenkami Viešųjų pirkimų įstatyme nustatyta tvarka. Atlikus
+auditą, Komisijai pateikiama nepriklausomo auditoriaus išvada ir audito
+ataskaita, kurias Komisija paskelbia viešai savo interneto tinklalapyje.
+Komisijos valstybinį auditą atlieka Lietuvos Respublikos valstybės kontrolė.
+18. Kiekvienais
+metais iki balandžio 1 dienos Komisija pateikia Seimui praėjusių metų Komisijos
+veiklos ataskaitą ir finansinių ataskaitų rinkinį kartu su nepriklausomo
+auditoriaus išvada ir audito ataskaita. Šias ataskaitas svarsto Seimo Audito
+komitetas, Informacinės visuomenės plėtros komitetas ir Švietimo, mokslo ir
+kultūros komitetas. Jeigu bent du iš šių komitetų nepritaria Komisijos veiklos
+ataskaitai ar finansinių ataskaitų rinkiniui, jie svarstomi Seimo plenariniame
+posėdyje ne vėliau kaip per 30 dienų nuo komitetų pateiktos neigiamos išvados.
+Jeigu Seimo plenariniame posėdyje Komisijos veiklos ataskaita ar finansinių
+ataskaitų rinkinys nepatvirtinami, Seimas kreipiasi į Komisijos narius
+skyrusias institucijas ar organizacijas, kad jos priimtų sprendimus dėl savo
+paskirtų Komisijos narių veiklos tęstinumo. Jeigu daugiau kaip pusė Komisijos
+narių nėra patvirtinami toliau tęsti veiklą Komisijoje, Komisijos narius
+skyrusios institucijos ar organizacijos privalo paskirti kitus Komisijos narius
+ir pradedama skaičiuoti nauja Komisijos kadencija.
+19. Komisijos
+nariams ir administracijai draudžiama platinti informaciją, kuri yra radijo ir
+(ar) televizijos programų transliuotojų, retransliuotojų ir (ar) užsakomųjų
+visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų,
+informacinės visuomenės informavimo priemonių valdytojų komercinė paslaptis.
 Straipsnio pakeitimai:
 Nr. XI-1046,
 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
+Nr. XI-2071, 2012-06-14,
+Žin., 2012, Nr. 76-3924 (2012-06-30)
+Pastaba: Įsigaliojus šiam įstatymui, Lietuvos radijo ir
+televizijos komisija sudaroma iš naujo ir Komisijos nariai skiriami
+vadovaujantis šio įstatymo nuostatomis. Komisijos nariai eina pareigas iki tol,
+kol bus sudaryta nauja Komisija.
  
 48 straipsnis. Lietuvos radijo ir televizijos komisijos
 kompetencija
@@ -2560,8 +2795,8 @@ transliuoti ir siųsti strategiją, kartu su Ryšių reguliavimo tarnyba,
 vadovaujantis radijo dažnių skyrimo radijo ir televizijos programoms
 transliuoti ir siųsti strategija, rengti ir tvirtinti radijo dažnių skyrimo
 radijo ir televizijos programoms transliuoti ir siųsti planą;
-2) šio įstatymo
-ir Transliavimo ir retransliavimo veiklos licencijavimo taisyklėse nustatyta
+2) šio įstatymo ir
+Transliavimo ir retransliavimo veiklos licencijavimo taisyklėse nustatyta
 tvarka skelbti ir vykdyti konkursus transliavimo,
 retransliavimo licencijoms gauti, nustatyti šių konkursų ir licencijų sąlygas,
 išduoti licencijas, keisti licencijų sąlygas; 
@@ -2609,11 +2844,11 @@ informavimo audiovizualinėmis priemonėmis paslaugų teikėjai laikosi šio
 įstatymo nuostatų dėl Europos kūrinių ir nepriklausomų kūrėjų sukurtų kūrinių
 apimtį transliuojamose televizijos programose ir kataloguose, teisės rodyti
 programas apie visuomenei reikšmingus įvykius, šio įstatymo 39 straipsnio 1, 3,
-5, 6, 10, 11 dalyse nustatytų reikalavimų, keliamų televizijos reklamai ir komerciniams
-audiovizualiniams pranešimams, 40 straipsnyje nustatytų reikalavimų, keliamų
-visuomenės informavimo audiovizualinėmis priemonėmis paslaugų, radijo programų
-ir atskirų programų rėmimui, 401 straipsnyje nustatytų reikalavimų,
-keliamų prekių rodymui programose; 
+5, 6, 10, 11 dalyse nustatytų reikalavimų, keliamų televizijos reklamai ir
+komerciniams audiovizualiniams pranešimams, 40 straipsnyje nustatytų
+reikalavimų, keliamų visuomenės informavimo audiovizualinėmis priemonėmis
+paslaugų, radijo programų ir atskirų programų rėmimui, 401
+straipsnyje nustatytų reikalavimų, keliamų prekių rodymui programose; 
 11)
 kontroliuoti, kaip radijo ir (ar) televizijos programų transliuotojai,
 retransliuotojai, užsakomųjų visuomenės informavimo audiovizualinėmis
@@ -2622,12 +2857,13 @@ tinklais transliuojantys ar retransliuojantys audiovizualinius ir (ar) garso
 kūrinius, laikosi šio ir kitų įstatymų nuostatų dėl radijo ir (ar) televizijos
 programų transliavimo, retransliavimo ir kitų įstatymų nustatytų viešosios
 informacijos ir jos skleidimo reikalavimų;
-12) kontroliuojant,
-kaip laikomasi įstatymų, Komisijos sprendimų, reglamentuojančių radijo ir (ar)
-televizijos programų transliuotojų, retransliuotojų ir užsakomųjų visuomenės
-informavimo audiovizualinėmis priemonėmis paslaugų teikėjų veiklą, ir licencijų
-sąlygų, vykdyti elektroninių ryšių tinklais transliuojamų ar retransliuojamų
-audiovizualinių kūrinių, radijo ir (ar) televizijos programų stebėseną;
+12)
+kontroliuojant, kaip laikomasi įstatymų, Komisijos sprendimų, reglamentuojančių
+radijo ir (ar) televizijos programų transliuotojų, retransliuotojų ir
+užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų
+teikėjų veiklą, ir licencijų sąlygų, vykdyti elektroninių ryšių tinklais
+transliuojamų ar retransliuojamų audiovizualinių kūrinių, radijo ir (ar)
+televizijos programų stebėseną;
 13) radijo ir
 (ar) televizijos programų transliuotojams, retransliuotojams, užsakomųjų
 visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjams, taip
@@ -2641,11 +2877,11 @@ mėnesiams sustabdyti licencijos galiojimą, panaikinti licencijos galiojimą,
 skirti Administracinių teisės pažeidimų kodekse nurodytas nuobaudas, kreiptis į
 teismą dėl informacinės visuomenės informavimo priemonių veiklos sustabdymo ar
 nutraukimo šio įstatymo nustatyta tvarka;
-14) teikti siūlymus
-dėl radijo ir (ar) televizijos programų transliuotojų, retransliuotojų
-ir užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų
-teikėjų veiklą reglamentuojančių įstatymų ir kitų su šia veikla susijusių
-teisės aktų projektų rengimo; 
+14) teikti
+siūlymus dėl radijo ir (ar) televizijos programų transliuotojų,
+retransliuotojų ir užsakomųjų visuomenės informavimo audiovizualinėmis
+priemonėmis paslaugų teikėjų veiklą reglamentuojančių įstatymų ir kitų su šia
+veikla susijusių teisės aktų projektų rengimo; 
 15) kreiptis į kompetentingą
 instituciją dėl neteisėtos transliavimo, retransliavimo ir užsakomųjų
 visuomenės informavimo audiovizualinėmis priemonėmis paslaugų veiklos
@@ -2676,8 +2912,8 @@ numatoma imtis trūkumams pašalinti;
 20)
 bendradarbiauti su Europos Sąjungos valstybių narių ir kitų užsienio valstybių
 tokias pačias funkcijas atliekančiomis
-institucijomis, pagal savo kompetenciją atstovauti Lietuvos Respublikai
-tarptautinėse organizacijose;
+institucijomis, pagal savo kompetenciją atstovauti Lietuvos Respublikai tarptautinėse
+organizacijose;
 21) nustatyti
 transliuojamų ir (ar) retransliuojamų radijo ir (ar) televizijos programų
 kodavimo tvarką;
@@ -2752,10 +2988,10 @@ kol paskiriamas naujas inspektorius.
 Inspektoriumi skiriamas nepriekaištingos reputacijos Lietuvos Respublikos
 pilietis, turintis aukštąjį universitetinį teisinį išsilavinimą ir pareigoms
 atlikti būtiną kompetenciją.
-4.
-Inspektoriumi negali būti Seimo, Vyriausybės nariai, politinio (asmeninio)
-pasitikėjimo valstybės tarnautojai. Inspektorius ir jo šeimos nariai negali
-būti susiję darbo santykiais su viešosios informacijos rengėjais ir (ar) skleidėjais, negali turėti viešosios informacijos rengėjų ir (ar) skleidėjų
+4. Inspektoriumi
+negali būti Seimo, Vyriausybės nariai, politinio (asmeninio) pasitikėjimo
+valstybės tarnautojai. Inspektorius ir jo šeimos nariai negali būti susiję
+darbo santykiais su viešosios informacijos rengėjais ir (ar) skleidėjais, negali turėti viešosios informacijos rengėjų ir (ar) skleidėjų
 akcijų. Savo kadencijos laikotarpiu inspektorius
 negali dalyvauti politinėje veikloje.
 5. Inspektorius vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir
@@ -2802,20 +3038,20 @@ priemonių priskyrimo erotinio ir (ar) smurtinio pobūdžio informacijos
 kategorijoms aprašą ir apmokestinimo už visuomenės informavimo priemonių
 priskyrimą erotinio, pornografinio ir (ar) smurtinio pobūdžio informacijos
 kategorijoms tvarką nustato Vyriausybė inspektoriaus teikimu.
-10.
-Inspektoriaus veiklą užtikrina Žurnalistų etikos inspektoriaus tarnyba.
-Žurnalistų etikos inspektoriaus tarnyba yra valstybės biudžetinė įstaiga, jai
-vadovauja inspektorius. 
+10. Inspektoriaus
+veiklą užtikrina Žurnalistų etikos inspektoriaus tarnyba. Žurnalistų etikos
+inspektoriaus tarnyba yra valstybės biudžetinė įstaiga, jai vadovauja
+inspektorius. 
 11. Žurnalistų
 etikos inspektoriaus tarnyba yra viešasis juridinis asmuo ir turi antspaudą su
 Lietuvos valstybės herbu ir pavadinimu „Žurnalistų etikos inspektoriaus
 tarnyba“. Už antspaudo naudojimą ir saugojimą atsako inspektorius. Žurnalistų
 etikos inspektoriaus tarnybos buveinė yra Vilniuje. Patalpas jai suteikia
 Vyriausybė.
-12.
-Inspektoriaus, Žurnalistų etikos inspektoriaus tarnybos ir prie jos veikiančių
-ekspertų grupių (ekspertų) veikla finansuojama iš valstybės biudžeto. Biudžete
-šiai veiklai skirtos lėšos nurodomos atskira eilute.
+12. Inspektoriaus,
+Žurnalistų etikos inspektoriaus tarnybos ir prie jos veikiančių ekspertų grupių
+(ekspertų) veikla finansuojama iš valstybės biudžeto. Biudžete šiai veiklai
+skirtos lėšos nurodomos atskira eilute.
 13. Žurnalistų
 etikos inspektoriaus tarnybos uždavinius, funkcijas, teises ir pareigas,
 struktūrą, darbo organizavimą ir finansavimą nustato Seimo patvirtinti
@@ -2826,8 +3062,8 @@ tarnybos veiklą ir iki kiekvienų metų balandžio 1 dienos pateikia metinę
 veiklos ataskaitą. Ji viešai skelbiama Žurnalistų etikos inspektoriaus tarnybos
 interneto tinklalapyje (svetainėje).
 Straipsnio pakeitimai:
-Nr. XI-348, 2009-07-15,
-Žin., 2009, Nr. 89-3804 (2009-07-28)
+Nr. XI-348,
+2009-07-15, Žin., 2009, Nr. 89-3804 (2009-07-28)
 Nr. XI-1046,
 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
  
@@ -2890,8 +3126,8 @@ informaciją, įskaitant jų valdomose visuomenės informavimo priemonėse paske
 informaciją (transliuotų programų vaizdo ir garso įrašus, leidinių
 egzempliorius, jų kopijas), būtiną savo funkcijoms atlikti;
 3) nemokamai
-gauti iš valstybės ir savivaldybių institucijų bei įstaigų informaciją,
-dokumentus ir kitą medžiagą, būtiną savo funkcijoms atlikti;
+gauti iš valstybės ir savivaldybių institucijų bei įstaigų informaciją, dokumentus
+ir kitą medžiagą, būtiną savo funkcijoms atlikti;
 4) įstatymų nustatyta tvarka,
 tačiau tik tokia apimtimi, kiek reikia jo funkcijoms atlikti, susipažinti su
 valstybės, tarnybos, komercinę ar banko paslaptį sudarančiais dokumentais, taip
@@ -2925,8 +3161,8 @@ reikalauti juos pašalinti;
 2) reikalauti,
 kad viešosios informacijos rengėjas ar skleidėjas nustatyta tvarka paneigtų
 paskelbtą tikrovės neatitinkančią informaciją, žeminančią asmens garbę ir orumą
-ar kenkiančią jo dalykinei reputacijai, teisėtiems interesams, arba sudarytų asmeniui
-galimybę pačiam atsakyti ir paneigti tokią informaciją;
+ar kenkiančią jo dalykinei reputacijai, teisėtiems interesams, arba sudarytų
+asmeniui galimybę pačiam atsakyti ir paneigti tokią informaciją;
 3) kreiptis į
 kompetentingas valstybės institucijas ir Žurnalistų ir leidėjų etikos komisiją
 dėl pastebėtų šio Įstatymo ir kitų visuomenės informavimą reglamentuojančių
@@ -2952,22 +3188,22 @@ nurodyta:
 1) skundą
 (pareiškimą) pateikusio asmens (pareiškėjo) vardas, pavardė ir adresas;
 2) konkreti
-visuomenės informavimo priemonė ir publikacija ar laida, kuriose buvo paskleista
-informacija, žeminanti skundą (pareiškimą) pateikusio asmens (pareiškėjo) garbę
-ir orumą, pažeidžianti teisę į privataus gyvenimo apsaugą ar nepilnamečių
-interesus;
+visuomenės informavimo priemonė ir publikacija ar laida, kuriose buvo
+paskleista informacija, žeminanti skundą (pareiškimą) pateikusio asmens
+(pareiškėjo) garbę ir orumą, pažeidžianti teisę į privataus gyvenimo apsaugą ar
+nepilnamečių interesus;
 3) kokia
-paskleista informacija neatitinka tikrovės, kaip yra pažeista teisė į privatumą,
-kaip pakenkta nepilnamečių interesams;
+paskleista informacija neatitinka tikrovės, kaip yra pažeista teisė į
+privatumą, kaip pakenkta nepilnamečių interesams;
 4) prašymo
 inspektoriui turinys;
 5) skundo
 (pareiškimo) surašymo data ir skundą (pareiškimą) pateikusio asmens
 (pareiškėjo) parašas.
 5.
-Skundas (pareiškimas), kuriame nėra bent vieno iš reikalavimų, numatytų šio straipsnio
-4 dalyje, nenagrinėjamas, jei inspektorius nenusprendžia kitaip. Tuo atveju,
-kai inspektorius atsisako nagrinėti skundą (pareiškimą) dėl jo turinio
+Skundas (pareiškimas), kuriame nėra bent vieno iš reikalavimų, numatytų šio
+straipsnio 4 dalyje, nenagrinėjamas, jei inspektorius nenusprendžia kitaip. Tuo
+atveju, kai inspektorius atsisako nagrinėti skundą (pareiškimą) dėl jo turinio
 reikalavimų trūkumų, asmuo (pareiškėjas) apie tai informuojamas per 5 darbo
 dienas, nurodant šiuos trūkumus. Pašalinus trūkumus asmens (pareiškėjo) skundas
 (pareiškimas) yra priimamas nagrinėti, o jo pateikimo data laikoma ta diena,
@@ -2976,14 +3212,14 @@ kai buvo gautas skundas (pareiškimas), atitinkantis jam keliamus reikalavimus.
 Šio straipsnio 1 dalies 1–3 punktuose nustatytais atvejais inspektorius
 nagrinėja tik tų asmenų, kurių teisės visuomenės informavimo priemonėse yra
 pažeistos, arba jų atstovų pagal įstatymą, taip pat šių asmenų atstovų pagal
-pavedimą skundus (pareiškimus). Šiais atvejais anoniminiai skundai (pareiškimai)
-netiriami.
+pavedimą skundus (pareiškimus). Šiais atvejais anoniminiai skundai
+(pareiškimai) netiriami.
 7.
 Šio straipsnio 1 dalies 4 punkte nustatytu atveju inspektorius nagrinėja ne tik
 tų asmenų, kurių teisės buvo pažeistos visuomenės informavimo priemonėse, arba
-jų atstovų pagal įstatymą skundus (pareiškimus), bet ir kitų asmenų (pareiškėjų)
-pateiktus, taip pat anoniminius skundus (pareiškimus). Šiuo atveju tyrimą
-inspektorius gali pradėti savo iniciatyva.
+jų atstovų pagal įstatymą skundus (pareiškimus), bet ir kitų asmenų
+(pareiškėjų) pateiktus, taip pat anoniminius skundus (pareiškimus). Šiuo atveju
+tyrimą inspektorius gali pradėti savo iniciatyva.
 8. Skundais
 (pareiškimais) nelaikomi suinteresuotų asmenų (pareiškėjų) rašytiniai ar
 žodiniai kreipimaisi, prašymai ir pranešimai, kuriuose ne skundžiami viešosios
@@ -3002,12 +3238,12 @@ nagrinėti institucija yra teismas, skundas (pareiškimas) grąžinamas jį
 pateikusiam asmeniui (pareiškėjui) ir pateikiama reikalinga informacija;
 2)
 pradėjus nagrinėti skundą (pareiškimą) paaiškėja, kad skundą (pareiškimą) tuo
-pačiu klausimu nagrinėja ir teismas. Šiuo atveju skundo (pareiškimo) nagrinėjimas
-sustabdomas, kol teismas skundą (pareiškimą) išnagrinės. Apie skundo
-(pareiškimo) nagrinėjimo sustabdymą pranešama skundą (pareiškimą) pateikusiam
-asmeniui (pareiškėjui). Šiuo atveju skundo (pareiškimo) tyrimas atnaujinamas
-tik asmeniui (pareiškėjui) pageidaujant ir apie tai informavus inspektorių
-raštu;
+pačiu klausimu nagrinėja ir teismas. Šiuo atveju skundo (pareiškimo)
+nagrinėjimas sustabdomas, kol teismas skundą (pareiškimą) išnagrinės. Apie
+skundo (pareiškimo) nagrinėjimo sustabdymą pranešama skundą (pareiškimą)
+pateikusiam asmeniui (pareiškėjui). Šiuo atveju skundo (pareiškimo) tyrimas
+atnaujinamas tik asmeniui (pareiškėjui) pageidaujant ir apie tai informavus
+inspektorių raštu;
 3)
 teismas ar inspektorius jau yra priėmęs sprendimą tuo pačiu klausimu ir asmuo
 (pareiškėjas) nepateikia naujų faktinių duomenų, leidžiančių ginčyti sprendimą.
@@ -3021,8 +3257,9 @@ tyrimui duomenų arba dėl objektyvių priežasčių negali jų pateikti;
 5) dėl skunde
 (pareiškime) keliamo klausimo (skundo (pareiškimo) dalyko) yra priimtas
 procesinis sprendimas iškelti baudžiamąją bylą;
-6) asmuo (pareiškėjas)
-atsisako skundo (pareiškimo) ir apie tai praneša inspektoriui raštu. 
+6) asmuo
+(pareiškėjas) atsisako skundo (pareiškimo) ir apie tai praneša inspektoriui
+raštu. 
 10. Šio straipsnio 9 dalies 6 punkte nustatytu atveju asmeniui
 (pareiškėjui) atsisakius dalies skundo (pareiškimo) reikalavimų, nagrinėjama
 tik ta skundo (pareiškimo) dalis, kurios reikalavimų nebuvo
@@ -3095,8 +3332,8 @@ Už informacinės visuomenės informavimo priemonės turinį šio
 ir kitų įstatymų nustatyta tvarka atsako jos valdytojas.
 3.
 Informacinės visuomenės tarpinių paslaugų teikėjai už informacinės visuomenės
-informavimo priemonių turinį atsako Informacinės visuomenės paslaugų
-įstatymo nustatytomis sąlygomis ir tvarka.
+informavimo priemonių turinį atsako Informacinės visuomenės paslaugų įstatymo
+nustatytomis sąlygomis ir tvarka.
  
 52 straipsnis. Viešosios informacijos rengėjų ir
 (ar) skleidėjų
@@ -3162,8 +3399,8 @@ Straipsnio pakeitimai:
 Nr. XI-1046,
 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
  
-            Skelbiu šį Lietuvos
-Respublikos Seimo priimtą įstatymą.
+            Skelbiu šį Lietuvos Respublikos
+Seimo priimtą įstatymą.
             
  
  
@@ -3229,8 +3466,8 @@ Nr.
 VIII-101,
 97.01.23, žin., 1997 , Nr.12-232 (97.02.07)
 LIETUVOS
-RESPUBLIKOS VISUOMENĖS INFORMAVIMO ĮSTATYMO 17 STRAIPSNIO PAKEITIMO IR PAPILDYMO
-ĮSTATYMAS
+RESPUBLIKOS VISUOMENĖS INFORMAVIMO ĮSTATYMO 17 STRAIPSNIO PAKEITIMO IR
+PAPILDYMO ĮSTATYMAS
  
 4.
 Lietuvos
@@ -3447,8 +3684,8 @@ PAPILDYMO 34(1), 34(2), 40(1) STRAIPSNIAIS IR NAUJU TREČIUOJU SKIRSNIU ĮSTATYM
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XI-1048, 2010-09-30,
-Žin., 2010, Nr. 123-6262 (2010-10-18)
+XI-1048,
+2010-09-30, Žin., 2010, Nr. 123-6262 (2010-10-18)
 VISUOMENĖS INFORMAVIMO ĮSTATYMO
 2, 22, 24, 27, 27(1), 33, 36 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šio
@@ -3492,6 +3729,19 @@ IR 27(1) STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 Šis
 įstatymas įsigalioja 2012 m. sausio 1 d.
  
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2071,
+2012-06-14, Žin., 2012, Nr. 76-3924 (2012-06-30)
+VISUOMENĖS INFORMAVIMO ĮSTATYMO 47 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2013 m. sausio 1 d.
+Pastaba: Įsigaliojus šiam įstatymui, Lietuvos radijo ir
+televizijos komisija sudaroma iš naujo ir Komisijos nariai skiriami
+vadovaujantis šio įstatymo nuostatomis. Komisijos nariai eina pareigas iki tol,
+kol bus sudaryta nauja Komisija.
+ 
 ***
 Pabaiga ***
  
@@ -3507,5 +3757,7 @@ LIETUVOS RESPUBLIKOS VISUOMENĖS INFORMAVIMO ĮSTATYMO 8 STRAIPSNIO IR 14
 STRAIPSNIO 3 DALIES ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
 *** Pabaiga ***
-Redagavo Aušrinė Trapinskienė (2012-01-04)
-                  ausrine.trapinskiene@lrs.lt
+ 
+ 
+Redagavo Aušra Bodin (2012-07-02)
+                  aubodi@lrs.lt
