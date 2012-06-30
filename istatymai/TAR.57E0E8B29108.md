@@ -13,16 +13,15 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2009-10-01 iki 2012-06-29
+Suvestinė redakcija nuo 2012-06-30 iki 2014-04-29
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
  
-Nauja redakcija nuo 2009-08-04:
-Nr. XI-375, 2009-07-21, Žin. 2009, Nr. 93-3968 (2009-08-04), i. k. 1091010ISTA00XI-375
+Nauja redakcija nuo 2012-06-30:
+Nr. XI-2087, 2012-06-21, Žin. 2012, Nr. 76-3931 (2012-06-30), i. k. 1121010ISTA0XI-2087
  
-Lietuvos Respublikos
-Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių 
-bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių
+lietuvos respublikos
+Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių
 ĮSTATYMAS
  
 2002 m. spalio 10 d. Nr. IX-1132
@@ -33,7 +32,7 @@ Vilnius
 1 straipsnis. Įstatymo paskirtis
 
 
-Įstatymo paskirtis – nustatyti, kurios įmonės ir įrenginiai turi strateginę ar svarbią reikšmę nacionaliniam saugumui, kurie iš jų nuosavybės teise privalo priklausyti valstybei, o kuriuose iš jų (ir kokiomis sąlygomis) kapitalo dalį gali turėti privatūs nacionaliniai ir užsienio asmenys, atitinkantys nacionalinio saugumo interesus, paliekant sprendžiamąją galią valstybei. Šiuo įstatymu taip pat nustatoma tvarka ir kriterijai, kuriais vadovaujantis įvertinama strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių potencialių įmonių dalyvių atitiktis Lietuvos nacionalinio saugumo interesams.
+Įstatymo paskirtis – nustatyti, kurios įmonės ir įrenginiai turi strateginę ar svarbią reikšmę nacionaliniam saugumui, kurie iš jų nuosavybės teise privalo priklausyti valstybei, kuriuose iš jų kapitalo dalį gali turėti privatūs nacionaliniai ir užsienio asmenys, atitinkantys nacionalinio saugumo interesus, o kuriuose iš jų privalo būti palikta sprendžiamoji galia valstybei, kaip numatyta šio įstatymo 4 straipsnio 3 dalyje. Šiuo įstatymu taip pat nustatoma tvarka ir kriterijai, kuriais vadovaujantis įvertinama strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių potencialių dalyvių atitiktis nacionalinio saugumo interesams, apibrėžiami ypatingą strateginę reikšmę nacionaliniam saugumui turintys įrenginiai bei jiems ir investuotojams taikomos nacionalinio saugumo interesus užtikrinančios specialiosios saugumo priemonės.
  
 
 
@@ -44,22 +43,27 @@ Vilnius
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Lietuvos Respublikos strateginę ar svarbią reikšmę nacionaliniam saugumui turinčios įmonės ir įrenginiai – esamos ar steigiamos įmonės, projektuojami ar statomi įrenginiai, kuriems pagal jų paskirtį ir (ar) veiklos pobūdį šis įstatymas priskiria strateginę arba svarbią reikšmę Lietuvos nacionaliniam saugumui ir kuriems dėl esminių nacionalinio saugumo interesų apsaugos nustatomos sąlygos ir reikalavimai dėl įmonių ar įrenginių nuosavybės teisių, įmonių kapitalo struktūros ir jo pokyčių, pagrindinių sprendimų priėmimo, taip pat reikalavimai, kuriuos turi tenkinti potencialūs įmonių dalyviai.
+1. Nacionalinio saugumo interesai – valstybės nepriklausomybės ir suvereniteto apsauga, europinė ir transatlantinė integracija, grėsmių ir rizikos veiksnių esminę reikšmę visuomenės saugumui turintiems energetikos ir kitiems ūkio sektoriams mažinimas.
 
 
 
 
-2. Nacionalinio saugumo interesai – valstybės nepriklausomybės ir suvereniteto apsauga, europinė ir transatlantinė integracija, grėsmių ir rizikos veiksnių esminę reikšmę visuomenės saugumui turintiems energetikos ir kitiems ūkio sektoriams mažinimas.
+2. Potencialus dalyvis – fizinis arba juridinis asmuo, oficialiai pareiškęs ketinimą ar interesą įsigyti strateginę ar svarbią reikšmę nacionaliniam saugumui turinčios įmonės akcijų arba įgyti nuosavybės, valdymo ar bet kurias kitas teises į strateginę reikšmę nacionaliniam saugumui turinčius įrenginius. Šiame įstatyme numatytais atvejais potencialiu dalyviu laikytinas ir esamas strateginę ar svarbią reikšmę nacionaliniam saugumui turinčios įmonės akcininkas, siekiantis papildomai įsigyti įmonės akcijų.
 
 
 
 
-3. Potencialus įmonės dalyvis – fizinis arba juridinis asmuo, oficialiai pareiškęs ketinimą ar interesą įsigyti strateginę ar svarbią reikšmę nacionaliniam saugumui turinčios įmonės akcijų arba investuoti į strateginę reikšmę nacionaliniam saugumui turinčią įmonę ar jos numatomą steigti įmonę, arba tapti strateginę reikšmę nacionaliniam saugumui turinčios įmonės ar įrenginio plėtros (technologijų įgijimo, svarbių žaliavų tiekimo, pagrindinių plėtros darbų vykdymo ir pan.) projekto dalyviu. Potencialiu įmonės dalyviu laikytinas ir esamas strateginę ar svarbią reikšmę nacionaliniam saugumui turinčios įmonės akcininkas, siekiantis papildomai įsigyti įmonės akcijų.
+3. Specialiosios saugumo priemonės – teisės aktuose ir tarptautinėse sutartyse nustatytos sąlygos ir reikalavimai, skirti esminių valstybės interesų (valstybės saugumo, suvereniteto, ekonominės galios, visuomenės sveikatos ir saugios aplinkos, viešosios tvarkos užtikrinimo ir kitų) apsaugai, siekiant užkirsti kelią grėsmę keliantiems veiksmams ir neveikimui, šalinti jų atsiradimo priežastis ir sąlygas.
 
 
 
 
-4. Specialiosios saugumo priemonės – teisės aktuose ir tarptautinėse sutartyse nustatytos sąlygos ir reikalavimai, skirti esminių valstybės interesų (valstybės saugumo, suvereniteto, ekonominės galios, visuomenės sveikatos ir saugios aplinkos, viešosios tvarkos užtikrinimo ir kitų) apsaugai, siekiant užkirsti kelią grėsmę keliantiems veiksmams ir neveikimui, šalinti jų atsiradimo priežastis ir sąlygas.
+4. Strateginę ar svarbią reikšmę nacionaliniam saugumui turinčios įmonės ir įrenginiai – Lietuvos Respublikoje esančios ar steigiamos įmonės, projektuojami ar statomi įrenginiai, kuriems pagal jų paskirtį ir (ar) veiklos pobūdį šis įstatymas priskiria strateginę arba svarbią reikšmę nacionaliniam saugumui ir kuriems dėl esminių nacionalinio saugumo interesų apsaugos nustatomos sąlygos ir reikalavimai dėl įmonių ar įrenginių nuosavybės ar valdymo ar bet kurių kitų teisių, įmonių kapitalo struktūros ir jo pokyčių, taip pat reikalavimai, kuriuos turi tenkinti potencialūs dalyviai.
+
+
+
+
+5. Šiame įstatyme vartojamos sąvokos „nacionalinis investuotojas“ ir „projekto įgyvendinimo bendrovė“ suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos branduolinės (atominės) elektrinės įstatyme (toliau – Branduolinės (atominės) elektrinės įstatymas).
  
 
 
@@ -73,12 +77,12 @@ Vilnius
 1. Strateginę reikšmę nacionaliniam saugumui turi šios valstybės įmonės:
 
 
-1) valstybės įmonė Ignalinos atominė elektrinė;
+1) akcinė bendrovė Lietuvos paštas;
 
 
 
 
-2) valstybės įmonė „Kauno aerouostas“;
+2) valstybės įmonė Ignalinos atominė elektrinė;
 
 
 
@@ -88,87 +92,87 @@ Vilnius
 
 
 
-4) valstybės įmonė Lietuvos paštas;
+4) valstybės įmonė Lietuvos naftos produktų agentūra;
 
 
 
 
-5) valstybės įmonė Lietuvos naftos produktų agentūra;
+5) valstybės įmonė „Oro navigacija“;
 
 
 
 
-6) valstybės įmonė „Oro navigacija“;
+6) valstybės įmonė „Automagistralė“;
 
 
 
 
-7) valstybės įmonė Tarptautinis Palangos oro uostas;
+7) valstybės įmonė „Alytaus regiono keliai“;
 
 
 
 
-8) valstybės įmonė Tarptautinis Vilniaus oro uostas;
+8) valstybės įmonė „Kauno regiono keliai“;
 
 
 
 
-9) valstybės įmonė „Automagistralė“;
+9) valstybės įmonė „Klaipėdos regiono keliai“;
 
 
 
 
-10) valstybės įmonė „Alytaus regiono keliai“;
+10) valstybės įmonė „Marijampolės regiono keliai“;
 
 
 
 
-11) valstybės įmonė „Kauno regiono keliai“;
+11) valstybės įmonė „Panevėžio regiono keliai“;
 
 
 
 
-12) valstybės įmonė „Klaipėdos regiono keliai“;
+12) valstybės įmonė „Šiaulių regiono keliai“;
 
 
 
 
-13) valstybės įmonė „Marijampolės regiono keliai“;
+13) valstybės įmonė „Tauragės regiono keliai“;
 
 
 
 
-14) valstybės įmonė „Panevėžio regiono keliai“;
+14) valstybės įmonė „Telšių regiono keliai“;
 
 
 
 
-15) valstybės įmonė „Šiaulių regiono keliai“;
+15) valstybės įmonė „Utenos regiono keliai“;
 
 
 
 
-16) valstybės įmonė „Tauragės regiono keliai“;
+16) valstybės įmonė „Vilniaus regiono keliai“;
 
 
 
 
-17) valstybės įmonė „Telšių regiono keliai“;
+17) valstybės įmonė Vidaus vandens kelių direkcija;
 
 
 
 
-18) valstybės įmonė „Utenos regiono keliai“;
+18) valstybės įmonė „Kauno aerouostas“;
 
 
 
 
-19) valstybės įmonė „Vilniaus regiono keliai“;
+19) valstybės įmonė Tarptautinis Palangos oro uostas;
 
 
 
 
-20) valstybės įmonė Vidaus vandens kelių direkcija.
+20) valstybės įmonė Tarptautinis Vilniaus oro uostas.
 
 
 
@@ -183,7 +187,7 @@ Vilnius
 
 
 
-2) valstybinės reikšmės keliai pagal Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) patvirtintą sąrašą;
+2) valstybinės reikšmės keliai pagal Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) patvirtintą sąrašą;
 
 
 
@@ -193,19 +197,24 @@ Vilnius
 
 
 
-4) viešojo naudojimo geležinkeliai.
+4) viešojo naudojimo geležinkeliai;
+
+
+
+
+5) polderiai ir jų statiniai, patikėjimo teise valdomi Klaipėdos ir Šilutės rajonų savivaldybių ir Pagėgių savivaldybės.
 
 
 
 
 
 
-3. Šio straipsnio 1 dalyje nurodytos valstybės įmonės gali būti pertvarkytos į akcines bendroves ar uždarąsias akcines bendroves arba reorganizuotos Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas) nustatytais būdais tik Lietuvos Respublikos Seimui priėmus atitinkamą įstatymą.
+3. Šio straipsnio 1 dalyje nurodytos valstybės įmonės gali būti pertvarkytos į akcines bendroves ar uždarąsias akcines bendroves arba reorganizuotos Lietuvos Respublikos civilinio kodekso nustatytais būdais tik Lietuvos Respublikos Seimui priėmus atitinkamą įstatymą.
 
 
 
 
-4. Šio straipsnio 2 dalyje nurodyti įrenginiai nuosavybės teise priklauso valstybei, bet gali būti išnuomoti ir perduoti pagal panaudos sutartį arba gali būti perduoti valdyti, naudoti ir disponuoti jais patikėjimo teise tik šio straipsnio 1 dalyje nurodytoms valstybės įmonėms ir šio įstatymo 4 straipsnio 1 dalyje nurodytoms įmonėms.
+4. Šio straipsnio 2 dalyje nurodyti įrenginiai nuosavybės teise priklauso valstybei, bet įstatymų numatytais atvejais ir teisės aktų nustatyta tvarka gali būti išnuomoti ir perduoti pagal panaudos sutartį arba gali būti perduoti valdyti, naudoti ir disponuoti jais patikėjimo teise tik šio straipsnio 1 dalyje nurodytoms valstybės įmonėms, šio straipsnio 2 dalies 5 punkte nurodytoms savivaldybėms ir šio įstatymo 4 straipsnio 1 dalyje nurodytoms įmonėms.
  
 
 
@@ -216,7 +225,7 @@ Vilnius
 4 straipsnis. Strateginę reikšmę nacionaliniam saugumui turinčios įmonės ir įrenginiai
 
 
-1. Strateginę reikšmę nacionaliniam saugumui turi šios įmonės, kurių kapitalo dalį gali turėti privatūs nacionaliniai ir užsienio asmenys, atitinkantys nacionalinio saugumo interesus, paliekant sprendžiamąją galią valstybei:
+1. Strateginę reikšmę nacionaliniam saugumui turi šios įmonės, kurių kapitalo gali turėti privatūs nacionaliniai ir užsienio asmenys, atitinkantys nacionalinio saugumo interesus, paliekant sprendžiamąją galią valstybei:
 
 
 1) akcinė bendrovė „Detonas“;
@@ -239,79 +248,64 @@ Vilnius
 
 
 
-5) akcinė bendrovė „Lietuvos energija“;
+5) akcinė bendrovė Lietuvos energija, AB;
 
 
 
 
-6) akcinė bendrovė „Šilutės polderiai“;
+6) akcinė bendrovė LITGRID AB;
 
 
 
 
-7) akcinė bendrovė „Klaipėdos nafta“;
+7) akcinė bendrovė AB LESTO;
 
 
 
 
-8) nacionalinis investuotojas, nurodytas Lietuvos Respublikos atominės elektrinės įstatymo (toliau – Atominės elektrinės įstatymas) ketvirtajame skirsnyje (toliau – nacionalinis investuotojas);
+8) akcinė bendrovė „Klaipėdos nafta“;
 
 
 
 
-9) akcinė bendrovė Kruonio hidroakumuliacinė elektrinė;
+9) nacionalinis investuotojas;
 
 
 
 
-10) akcinė bendrovė Kauno hidroelektrinė;
+10) suskystintų gamtinių dujų terminalo operatorius;
 
 
 
 
-11) projekto įgyvendinimo bendrovė, nurodyta Atominės elektrinės įstatyme (toliau – projekto įgyvendinimo bendrovė);
-
-
-
-
-12) elektros perdavimo jungčių statytojas, nurodytas Atominės elektrinės įstatyme (toliau – elektros perdavimo jungčių statytojas).
+11) suskystintų gamtinių dujų terminalo projekto įgyvendinimo bendrovė.
 
 
 
 
 
 
-2. Strateginę reikšmę nacionaliniam saugumui turi akcinės bendrovės „Lietuvos energija“ įrenginiai, sudarantys 110 kV ir aukštesnės įtampos elektros perdavimo tinklą ir jo priklausinius.
+2. Strateginę reikšmę nacionaliniam saugumui turi įrenginiai, sudarantys 110 kV ir aukštesnės įtampos elektros perdavimo tinklą ir naftos terminalas, esantis Klaipėdos valstybinio jūrų uosto teritorijoje, bei jų priklausiniai. Šie įrenginiai gali priklausyti nuosavybės teise arba būti naudojami valstybės, valstybės (tiesiogiai arba netiesiogiai) kontroliuojamų juridinių asmenų arba kitų nacionalinio saugumo interesus atitinkančių subjektų.
 
 
 
 
-3. Šiame įstatyme valstybės sprendžiamoji galia reiškia, kad šio straipsnio 1 dalyje nurodytose įmonėse, išskyrus akcinę bendrovę „Lietuvos energija“, projekto įgyvendinimo bendrovę ir nacionalinį investuotoją, valstybei turi priklausyti daugiau kaip 1/2 balsų suteikiančių šių įmonių akcijų. Valstybės sprendžiamoji galia akcinėje bendrovėje „Lietuvos energija“ reiškia, kad valstybei, o įsteigus nacionalinį investuotoją ir kaip nepiniginį įnašą į jo įstatinį kapitalą įnešus valstybei nuosavybės teise priklausančias akcinės bendrovės „Lietuvos energija“ akcijas, nacionaliniam investuotojui priklauso ne mažiau kaip 2/3 balsų suteikiančių šios įmonės akcijų. Valstybės sprendžiamoji galia nacionaliniame investuotojuje reiškia, kad, Vyriausybei įgyvendinus Atominės elektrinės įstatymo 10 straipsnio 2 dalies nuostatas, valstybei nuosavybės teise turi priklausyti ne mažiau kaip 2/3 nacionalinio investuotojo akcijų, kurios turi suteikti ne mažiau kaip 2/3 visų balsų nacionalinio investuotojo visuotiniame akcininkų susirinkime.
+3. Šiame įstatyme valstybės sprendžiamoji galia reiškia, kad šio straipsnio 1 dalyje nurodytose įmonėse valstybei tiesiogiai ar per jos kontroliuojamas įmones turi priklausyti daugiau kaip 1/2 balsų suteikiančių šių įmonių akcijų.
 
 
 
 
-4. Užsienio kapitalas sudaro šio straipsnio 1 dalyje nurodytų įmonių kapitalo dalį tokiomis pačiomis sąlygomis kaip ir privatus nacionalinis kapitalas Lietuvos Respublikos įstatymų nustatyta tvarka.
+4. Užsienio kapitalas sudaro šio straipsnio 1 dalyje nurodytų įmonių kapitalo dalį tokiomis pačiomis sąlygomis kaip ir privatus Lietuvos nacionalinis kapitalas Lietuvos Respublikos įstatymų nustatyta tvarka.
 
 
 
 
-5. Po pertvarkymo ar reorganizavimo veiksiančiose šio straipsnio 1 dalyje nurodytose įmonėse turi išlikti valstybės sprendžiamoji galia.
+5. Po šio straipsnio 1 dalyje nurodytų įmonių pertvarkymo, reorganizavimo ar atskyrimo veiksiančiose įmonėse turi išlikti valstybės sprendžiamoji galia.
 
 
 
 
-6. Likviduojant (taip pat dėl bankroto) šio straipsnio 1 dalyje nurodytas įmones, joms priklausantis nekilnojamasis ir įkeistas turtas, taip pat šio straipsnio 2 dalyje nurodytas turtas gali būti parduodamas ar kitaip perleidžiamas tik Lietuvos Respublikos valstybės institucijoms, valstybės įmonėms arba įmonėms, kurių kapitalo dalį turi privatūs nacionaliniai ir užsienio asmenys, atitinkantys nacionalinio saugumo interesus, tačiau valstybei ar savivaldybei priklauso daugiau kaip 1/2 balsų suteikiančių šių įmonių akcijų.
-
-
-
-
-7. Sprendimai dėl šio straipsnio 1 dalyje nurodytų akcinių bendrovių, kuriose valstybei nuosavybės teise priklauso daugiau kaip 1/2 balsų suteikiančių šių įmonių akcijų, įstatinio kapitalo didinimo, įstatinio kapitalo mažinimo, įstatų keitimo, pelno (nuostolių) paskirstymo, reorganizavimo, atskyrimo, pertvarkymo, restruktūrizavimo, likvidavimo ir sprendimai dėl visų akcininkų pirmumo teisės įsigyti tokių akcinių bendrovių išleidžiamų konkrečios emisijos akcijų ar tokių bendrovių išleidžiamų konkrečios emisijos konvertuojamųjų obligacijų atšaukimo priimami, jeigu už juos balsuoja akcininkai, kuriems priklausančios akcijos suteikia daugiau kaip 1/2 visų balsų. Priimant sprendimus dėl šioje dalyje nurodytų klausimų, Civiliniame kodekse ir Lietuvos Respublikos akcinių bendrovių įstatyme nustatyti kvalifikuotos balsų daugumos reikalavimai netaikomi.
-
-
-
-
-8. Šio straipsnio 1 dalyje nurodytiems juridiniams asmenims atskirų juridinių asmenų rūšis reglamentuojantys įstatymai taikomi tiek, kiek jie neprieštarauja šiam įstatymui.
+6. Šio straipsnio 1 dalyje nurodytiems juridiniams asmenims atskirų juridinių asmenų rūšis reglamentuojantys įstatymai taikomi tiek, kiek jie neprieštarauja šiam įstatymui.
  
 
 
@@ -325,7 +319,7 @@ Vilnius
 1. Nacionaliniam saugumui užtikrinti svarbios yra ir šios įmonės:
 
 
-1) akcinė bendrovė „Mažeikių nafta“;
+1) akcinė bendrovė „ORLEN Lietuva“;
 
 
 
@@ -335,49 +329,39 @@ Vilnius
 
 
 
-3) akcinė bendrovė „VST“;
+3) projekto įgyvendinimo bendrovė, numatyta Branduolinės (atominės) elektrinės įstatyme;
 
 
 
 
-4) akcinė bendrovė Rytų skirstomieji tinklai;
+4) akcinė bendrovė TEO LT, AB;
 
 
 
 
-5) akcinė bendrovė „Lietuvos elektrinė“;
+5) akcinė bendrovė „Achema“;
 
 
 
 
-6) akcinė bendrovė „TEO LT, AB“;
+6) vandens tiekimo ir nuotekų šalinimo paslaugas teikiančios įmonės pagal Vyriausybės patvirtintą sąrašą;
 
 
 
 
-7) akcinė bendrovė „Achema“;
-
-
-
-
-8) vandens tiekimo ir nuotekų šalinimo paslaugas teikiančios įmonės pagal Vyriausybės patvirtintą sąrašą;
-
-
-
-
-9) akcinė bendrovė Giraitės ginkluotės gamykla.
+7) akcinė bendrovė Giraitės ginkluotės gamykla.
 
 
 
 
 
 
-2. Siekiant užtikrinti nacionalinį saugumą, įstatymai gali nustatyti papildomus šio straipsnio 1 dalyje nurodytų įmonių veiklos reikalavimus.
+2. Vandens tiekimo ir nuotekų šalinimo paslaugas teikiančios įmonės, nurodytos šio straipsnio 1 dalies 6 punkte, nuosavybės teise turi priklausyti valstybei ar savivaldybei arba valstybei ar savivaldybei turi priklausyti daugiau kaip 3/4 balsų visuotiniame akcininkų susirinkime suteikiančių šių įmonių akcijų.
 
 
 
 
-3. Vandens tiekimo ir nuotekų šalinimo paslaugas teikiančios įmonės, nurodytos šio straipsnio 1 dalies 8 punkte, nuosavybės teise turi priklausyti valstybei ar savivaldybei arba valstybei ar savivaldybei turi priklausyti daugiau kaip 3/4 balsų visuotiniame akcininkų susirinkime suteikiančių šių įmonių akcijų.
+3. Vyriausybė ir valstybės institucijos, priimdamos sprendimus ir sudarydamos susitarimus, valstybės akcijų valdytojai, priimdami sprendimus, sudarydami susitarimus ir įgyvendindami 4 straipsnio 1 dalies 10 punkte nurodyto nacionalinio investuotojo akcininko teises, ta apimtimi, kiek yra valstybei nuosavybės teise priklausančių akcijų, užtikrina, kad šio straipsnio 1 dalies 3 punkte nurodytos projekto įgyvendinimo bendrovės kapitale dalyvaujant strateginiam investuotojui ir (arba) strateginiams partneriams (ir (arba) jų kontroliuojamiems asmenims) būtų apsaugoti esminiai nacionalinio saugumo ir valstybės interesai. Esminiai nacionalinio saugumo ir valstybės interesai yra apsaugomi atliekant potencialių šio straipsnio 1 dalies 3 punkte nurodytos projekto įgyvendinimo bendrovės dalyvių atitikties nacionalinio saugumo interesams įvertinimą, kai to reikalaujama pagal šio įstatymo 7 straipsnį.
  
 
 
@@ -385,45 +369,45 @@ Vilnius
 
 
 
-6 straipsnis. Ypatingą strateginę reikšmę nacionaliniam saugumui turinčios įmonės ir įrenginiai bei jiems ir investuotojams taikomos nacionalinio saugumo interesus užtikrinančios specialiosios saugumo priemonės
+6 straipsnis. Ypatingą strateginę reikšmę nacionaliniam saugumui turintys įrenginiai bei jiems ir investuotojams taikomos nacionalinio saugumo interesus užtikrinančios specialiosios saugumo priemonės
 
 
-1. Ypatingą strateginę reikšmę nacionaliniam saugumui turi Atominės elektrinės įstatyme nurodytos Lietuvos Respublikos elektros energetikos sistemos jungtys su Lenkijos Respublikos ir Švedijos Karalystės elektros energetikos sistemomis ir naujoji atominė elektrinė.
-
-
-
-
-2. Vyriausybė ir valstybės institucijos, priimdamos sprendimus ir sudarydamos susitarimus, valstybės akcijų valdytojai, priimdami sprendimus, sudarydami susitarimus ir įgyvendindami valstybei nuosavybės teise priklausančių nacionalinio investuotojo, projekto įgyvendinimo bendrovės ir elektros perdavimo jungčių statytojo akcininkų teises, užtikrina, kad:
-
-
-1) nacionalinis investuotojas, strateginis investuotojas, projekto įgyvendinimo bendrovė ir elektros perdavimo jungčių statytojas efektyviai įgyvendintų pagrindinį Lietuvos Respublikos elektros energetikos sistemos uždavinį – neribotą laiką, nepriklausomai, saugiai ir patikimai aprūpinti Lietuvos vartotojus elektros energija;
+1. Ypatingą strateginę reikšmę nacionaliniam saugumui turi Lietuvos Respublikos elektros energetikos sistemos jungtys su Lenkijos Respublikos ir Švedijos Karalystės elektros energetikos sistemomis ir suskystintų gamtinių dujų terminalas bei jų priklausiniai.
 
 
 
 
-2) Nacionalinėje energetikos strategijoje numatyti strateginiai objektai – naujoji atominė elektrinė, elektros perdavimo jungtys į Lenkijos Respubliką ir Švedijos Karalystę, užtikrinančios efektyvius ir reikiamos apimties elektros energijos mainus tarp Lietuvos Respublikos elektros energetikos sistemos ir Elektros energijos perdavimo koordinavimo sąjungai (toliau – UCTE) bei Šiaurės šalių perdavimo sistemos operatorių organizacijai (NORDEL) priklausančių sistemų, – būtų įgyvendinti neatidėliojant;
+2. Vyriausybė ir valstybės institucijos, priimdamos sprendimus ir sudarydamos susitarimus, valstybės akcijų valdytojai, priimdami sprendimus, sudarydami susitarimus ir įgyvendindami valstybei nuosavybės teise priklausančių elektros perdavimo jungčių statytojo ir operatoriaus, suskystintų gamtinių dujų terminalo projekto įgyvendinimo bendrovės ir suskystintų gamtinių dujų terminalo operatoriaus akcininkų teises, ta apimtimi, kiek yra valstybei nuosavybės teise priklausančių akcijų, užtikrina, kad:
+
+
+1) elektros perdavimo jungčių statytojas ir operatorius, suskystintų gamtinių dujų terminalo projekto įgyvendinimo bendrovė, suskystintų gamtinių dujų terminalo operatorius efektyviai ir atsižvelgiant į kiekvieno iš jų funkcinę paskirtį prisidėtų prie pagrindinio Lietuvos Respublikos energetikos sistemos uždavinio įgyvendinimo – neribotą laiką, nepriklausomai, saugiai ir patikimai aprūpinti Lietuvos vartotojus elektros energija ir (arba) šiluma bei gamtinėmis dujomis ekonomiškai palankiausiomis sąlygomis;
 
 
 
 
-3) naujosios atominės elektrinės ir elektros perdavimo jungčių į Lenkijos Respubliką ir Švedijos Karalystę techniniai sprendimai ir parametrai būtų parinkti taip, kad pagrindinė atominei elektrinei reikalingų galios rezervų dalis būtų gaunama iš Europos Sąjungos valstybių narių ir būtų tenkinamos Lietuvos Respublikos elektros energetikos sistemos darbo sinchroniniu režimu su UCTE sistema sąlygos;
+2) elektros perdavimo jungtys į Lenkijos Respubliką ir Švedijos Karalystę, užtikrinančios efektyvius ir reikiamos apimties elektros energijos mainus tarp Lietuvos Respublikos elektros energetikos sistemos ir kontinentinės Europos elektros tinklų, pradėtų veikti per protingai trumpiausią laiką;
 
 
 
 
-4) Lietuvos Respublikos elektros energetikos sistema būtų parengta neatidėliotinam prisijungimui prie UCTE sistemos sinchroniniam darbui, kai tik bus įrengtos elektros tinklų jungtys, įgyvendintos techninės priemonės ir atlikti veiksmai, reikalingi Lietuvai tapti UCTE nare;
+3) elektros perdavimo jungčių į Lenkijos Respubliką ir Švedijos Karalystę techniniai sprendimai ir parametrai būtų parinkti taip, kad pagrindinė branduolinei (atominei) elektrinei reikalingų galios rezervų dalis galėtų būti gaunama iš kitų Europos Sąjungos valstybių narių ir būtų tenkinamos Lietuvos Respublikos elektros energetikos sistemos darbo sinchroniniu režimu su kontinentinės Europos elektros tinklais sąlygos;
 
 
 
 
-5) projekto įgyvendinimo bendrovės kapitale dalyvaujant strateginiam investuotojui ir (arba) strateginiams partneriams būtų apsaugoti esminiai Lietuvos Respublikos nacionalinio saugumo ir valstybės interesai, o pasirenkant projekto įgyvendinimo bendrovės dalyvius būtų taikomi atitikties nacionalinio saugumo interesams kriterijai.
+4) Lietuvos Respublikos elektros energetikos sistema būtų parengta neatidėliotinam prisijungimui prie kontinentinės Europos elektros tinklų darbui sinchroniniu režimu, kai tik bus įrengtos elektros tinklų jungtys, įgyvendintos techninės priemonės ir atlikti veiksmai, reikalingi Lietuvos Respublikai tapti kontinentinės Europos elektros tinklų dalimi;
+
+
+
+
+5) elektros perdavimo jungčių statytojo ir operatoriaus, suskystintų gamtinių dujų terminalo projekto įgyvendinimo bendrovės, suskystintų gamtinių dujų terminalo operatoriaus ir šio įstatymo 4 straipsnio 1 dalyje nurodytų įmonių, kuriose valstybė turi sprendžiamąją galią, vadovai ir jų pavaduotojai, taip pat asmenys, siekiantys eiti arba einantys pareigas, kurias einant dėl jiems priskirtų funkcijų ar pavesto darbo suteikiama teisė be palydos patekti prie ypatingą strateginę reikšmę nacionaliniam saugumui turinčių įrenginių, priimti sprendimus dėl šių įrenginių funkcionavimo (toliau – vadovaujantys asmenys), būtų patikrinti šio įstatymo nustatyta tvarka.
 
 
 
 
 
 
-3. Projekto įgyvendinimo bendrovei, naujajai atominei elektrinei, Lietuvos Respublikos elektros energetikos sistemos jungtims su Lenkijos Respublikos ir Švedijos Karalystės energetikos sistemomis ir investuotojams taikomos nacionalinio saugumo interesus užtikrinančios specialiosios saugumo priemonės.
+3. Lietuvos Respublikos elektros energetikos sistemos jungtims su Lenkijos Respublikos ir Švedijos Karalystės energetikos sistemomis ir investuotojams į šias jungtis taikomos nacionalinio saugumo interesus užtikrinančios specialiosios saugumo priemonės.
 
 
 
@@ -436,39 +420,124 @@ Vilnius
 
 
 
-2) energetinio tiekimo saugumo ir pirminių energijos šaltinių diversifikacija, ilgalaikės kuro tiekimo sutartys ir būtinų kuro atsargų rezervas;
+2) darbuotojų atitikties reikalavimai;
 
 
 
 
-3) atominės elektrinės technologijų atitiktis nustatytiems saugos reikalavimams ir technologijų tiekėjų alternatyvos;
+3) energijos tiekimo saugumas ir pirminių energijos šaltinių diversifikacija;
 
 
 
 
-4) Lietuvos Respublikos elektros energetikos sistemos rezervų užtikrinimas;
-
-
-
-
-5) atominės elektrinės eksploatacijos nutraukimo ir atliekų tvarkymo finansavimo užtikrinimas;
-
-
-
-
-6) projekto įgyvendinimo bendrovės valdymo organų teisė pagal kompetenciją savarankiškai priimti operatyvinius valdymo sprendimus, jei to reikia atominės elektrinės saugai užtikrinti.
+4) Lietuvos Respublikos elektros energetikos sistemos rezervų užtikrinimas.
 
 
 
 
 
 
-5. Projekto įgyvendinimo bendrovei ir investuotojams taikomos ir kitos specialiosios saugumo priemonės, nustatytos Atominės elektrinės įstatyme, Lietuvos Respublikos branduolinės energijos įstatyme, Lietuvos Respublikos radiacinės saugos įstatyme ir kituose teisės aktuose.
+5. Asmenys negali būti paskirti arba eiti pareigų, nurodytų šio straipsnio 2 dalies 5 punkte, jeigu yra šios aplinkybės:
+
+
+1) asmuo buvo nuteistas už nusikaltimą Lietuvos valstybės nepriklausomybei, teritorijos vientisumui ir konstitucinei santvarkai arba nusikaltimą visuomenės saugumui, arba nusikaltimą, susijusį su disponavimu ginklais, šaudmenimis, sprogmenimis, sprogstamosiomis ar radioaktyviosiomis medžiagomis arba karine įranga, nepaisant to, ar išnyko teistumas;
 
 
 
 
-6. Šiame straipsnyje vartojamos sąvokos suprantamos taip, kaip jos yra apibrėžtos Atominės elektrinės įstatyme.
+2) asmuo buvo nuteistas už bet kokį labai sunkų nusikaltimą, nepaisant to, ar išnyko teistumas;
+
+
+
+
+3) asmuo įsiteisėjusiu apkaltinamuoju nuosprendžiu yra pripažintas kaltu dėl sunkaus ar apysunkio nusikaltimo ir turi neišnykusį ar nepanaikintą teistumą;
+
+
+
+
+4) asmuo įsiteisėjusiu apkaltinamuoju nuosprendžiu yra pripažintas kaltu dėl nusikalstamos veikos valstybės tarnybai ir viešiesiems interesams ar valdymo tvarkai ir turi neišnykusį ar nepanaikintą teistumą, arba baudžiamojo nusižengimo atveju nuo apkaltinamojo nuosprendžio įsiteisėjimo dienos nepraėjo treji metai;
+
+
+
+
+5) asmuo įstatymų nustatyta tvarka yra pripažintas neveiksniu ar ribotai veiksniu arba jam taikomos priverčiamosios medicinos priemonės;
+
+
+
+
+6) asmuo dėl Lietuvos Respublikai priešiškų interesų bendradarbiauja ar yra bendradarbiavęs, palaiko ar palaikė ryšius su užsienio valstybės žvalgybos ar saugumo tarnyba arba su asmenimis, bendradarbiaujančiais ar palaikančiais ryšius su užsienio valstybės žvalgybos ar saugumo tarnyba;
+
+
+
+
+7) asmuo dalyvauja ar dalyvavo teroristinės organizacijos ar teroristinės grupės veikloje arba žinodamas palaiko ar palaikė ryšius su asmeniu, priklausančiu teroristinei organizacijai ar grupei;
+
+
+
+
+8) asmeniui taikomos prevencinės poveikio priemonės pagal Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymą;
+
+
+
+
+9) asmuo per paskutinius trejus metus buvo įrašytas į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo ar narkomanijos;
+
+
+
+
+10) asmuo daugiau negu vieną kartą per pastaruosius trejus metus buvo baustas už administracinio teisės pažeidimo padarymą, kai pažeidimas ar jo padarymas yra susijęs su alkoholio arba narkotinių ar psichotropinių medžiagų vartojimu;
+
+
+
+
+11) asmuo turi psichinės veiklos sutrikimų, dėl kurių galėtų kilti grėsmė įrenginių, turinčių ypatingą strateginę reikšmę nacionaliniam saugumui, saugai. Psichinės veiklos sutrikimų sąrašą tvirtina Vyriausybė ar jos įgaliota institucija;
+
+
+
+
+12) asmuo atsisako pateikti šio straipsnio 8 dalyje nurodytus dokumentus arba pateikia melagingus duomenis, galinčius turėti įtakos sprendimui dėl paskyrimo eiti pareigas, nurodytas šio straipsnio 2 dalies 5 punkte.
+
+
+
+
+
+
+6. Užsienio valstybių piliečiai ar asmenys be pilietybės, laikinai ar nuolat negyvenantys Lietuvos Respublikoje, gali būti paskirti arba eiti pareigas, nurodytas šio straipsnio 2 dalies 5 punkte, tik jeigu nenustatomos šio straipsnio 5 dalyje nurodytos aplinkybės, remiantis užsienio valstybės, kurios piliečiai jie yra arba kurioje nuolat gyvena, teisės aktais ir šių valstybių kompetentingos institucijos tai patvirtina Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Vidaus reikalų ministerija) prašymu (dėl šio straipsnio 5 dalies 1, 2, 3, 4, 8, 10 punktuose nurodytos informacijos), Lietuvos Respublikos valstybės saugumo departamento (toliau – Valstybės saugumo departamentas) prašymu (dėl šio straipsnio 5 dalies 6, 7 punktuose nurodytos informacijos) ir pačių asmenų prašymu (dėl šio straipsnio 5 dalies 5, 9, 11 punktuose nurodytos informacijos).
+
+
+
+
+7. Vadovaujantį asmenį į pareigas skiriančiam įmonės vadovui, kolegialaus valdymo organui (toliau – į pareigas asmenį skiriantis ar paskyręs subjektas) jų prašymu (prieš paskiriant) arba savo iniciatyva (bet kuriuo metu, kai paaiškėja atitinkamos aplinkybės) šio straipsnio 5 dalies 1, 2, 3, 4, 8, 10 punktuose ir 6 dalyje nurodytą informaciją teikia Vidaus reikalų ministerija, šio straipsnio 5 dalies 6, 7 punktuose ir 6 dalyje nurodytą informaciją teikia Valstybės saugumo departamentas, šio straipsnio 5 dalies 5, 9, 11 punktuose ir 6 dalyje nurodytą informaciją ir ją patvirtinančius dokumentus, išduotus kompetentingų institucijų, pristato patys vadovaujantys asmenys.
+
+
+
+
+8. Prašymo pateikti informaciją apie vadovaujantį asmenį formą tvirtina Vyriausybė ar jos įgaliota institucija. Kartu su rašytiniu prašymu pateikti informaciją apie vadovaujantį asmenį prašymą teikiantis subjektas privalo pateikti Vidaus reikalų ministerijai ir Valstybės saugumo departamentui nustatytos formos vadovaujančio asmens, apie kurį prašoma pateikti informaciją, sutikimą būti tikrinamam ir Valstybės saugumo departamento nustatytus dokumentus šio straipsnio 5 dalyje nurodytoms aplinkybėms įvertinti.
+
+
+
+
+9. Šio straipsnio 5 dalyje nurodytą informaciją apie vadovaujantį asmenį Vidaus reikalų ministerija ir Valstybės saugumo departamentas pateikia ne vėliau kaip per 20 darbo dienų nuo rašytinio prašymo pateikti informaciją apie vadovaujantį asmenį gavimo dienos. Šis terminas Vidaus reikalų ministerijos ar Valstybės saugumo departamento motyvuotu sprendimu gali būti pratęstas ne ilgiau kaip 40 darbo dienų, jeigu vadovaujantis asmuo yra užsienio valstybės pilietis arba asmuo be pilietybės, gyvenantis ne Lietuvos Respublikoje. Jeigu per nurodytą terminą informacija nėra pateikiama, laikoma, kad asmenys turi teisę būti paskirti ar eiti šio įstatymo 6 straipsnio 2 dalies 5 punkte nurodytas pareigas.
+
+
+
+
+10. Į pareigas vadovaujantį asmenį skiriantis ar paskyręs subjektas šiame straipsnyje nustatyta tvarka pateiktą informaciją gali naudoti tik priimdamas sprendimą dėl šio vadovaujančio asmens tinkamumo siekiamoms arba einamoms pareigoms. Į pareigas vadovaujantį asmenį skiriantis ar paskyręs subjektas šiame straipsnyje nustatyta tvarka gautos informacijos apie šį vadovaujantį asmenį negali perduoti ar kitaip atskleisti tretiesiems asmenims, išskyrus Lietuvos Respublikos įstatymų nustatytus atvejus.
+
+
+
+
+11. Į pareigas vadovaujantį asmenį skiriantis subjektas, įvertinęs šiame straipsnyje nustatyta tvarka pateiktos informacijos visumą ir priėmęs sprendimą neskirti šio vadovaujančio asmens į pareigas, privalo per 3 darbo dienas apie tai informuoti šį vadovaujantį asmenį ir su Vidaus reikalų ministerijos bei Valstybės saugumo departamento pateikta informacija jį supažindinti pasirašytinai, išskyrus tą jos dalį, kurioje yra įslaptinta informacija.
+
+
+
+
+12. Asmuo priimtą sprendimą neskirti į pareigas gali skųsti Lietuvos Respublikos įstatymų nustatyta tvarka.
+
+
+
+
+13. Vidaus reikalų ministerija, Valstybės saugumo departamentas, į pareigas vadovaujantį asmenį skiriantys ar paskyrę subjektai privalo užtikrinti, kad vadovaujančio asmens duomenys, gauti šiame straipsnyje nustatyta tvarka, būtų tvarkomi ir saugomi Lietuvos Respublikos teisės aktų nustatyta tvarka.
  
 
 
@@ -476,75 +545,70 @@ Vilnius
 
 
 
-7 straipsnis. Strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimas
+7 straipsnis. Potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimas
 
 
-1. Potencialių įmonės dalyvių atitikties nacionalinio saugumo interesams įvertinimas atliekamas dėl strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei nacionaliniam saugumui užtikrinti svarbių įmonių, kuriose valstybei nuosavybės teise priklauso akcijų, potencialių įmonės dalyvių.
-
-
-
-
-2. Potencialaus įmonės dalyvio atitikties nacionalinio saugumo interesams įvertinimas atliekamas tais atvejais, kai jis:
-
-
-1) veikdamas savarankiškai ar Lietuvos Respublikos vertybinių popierių įstatymo nustatytais atvejais kartu su kitais sutartinai veikiančiais asmenimis, siekia įgyti akcijų, suteikiančių 1/20 ar daugiau balsų įmonėje;
+1. Potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimas atliekamas šio straipsnio nustatyta tvarka ir atvejais.
 
 
 
 
-2) siekia įgyti akcijų, kurios kartu su jo turimu akcijų paketu arba kartu su kitų sutartinai veikiančių asmenų turimu akcijų paketu suteikia daugiau kaip 1/3 balsų įmonėje;
+2. Potencialaus dalyvio atitikties nacionalinio saugumo interesams įvertinimas atliekamas tais atvejais, kai jis:
+
+
+1) veikdamas savarankiškai ar Lietuvos Respublikos vertybinių popierių įstatymo (toliau – Vertybinių popierių įstatymas) nustatytais atvejais kartu su kitais sutartinai veikiančiais asmenimis, siekia įgyti akcijų, suteikiančių 1/20 ar daugiau balsų įmonėje;
 
 
 
 
-3) siekia investuoti į strateginę reikšmę nacionaliniam saugumui turinčią įmonę ar jos numatomą steigti įmonę;
+2) veikdamas savarankiškai ar Vertybinių popierių įstatymo nustatytais atvejais kartu su kitais sutartinai veikiančiais asmenimis, siekia įgyti akcijų, kurios kartu su jo turimu akcijų paketu arba kartu su kitų sutartinai veikiančių asmenų turimu akcijų paketu suteikia daugiau kaip 1/3 balsų įmonėje;
 
 
 
 
-4) siekia tapti strateginę reikšmę nacionaliniam saugumui turinčios įmonės ar įrenginio plėtros (technologijų įgijimo, svarbių žaliavų tiekimo, pagrindinių plėtros darbų vykdymo ir pan.) projekto dalyviu.
+3) siekia įgyti nuosavybės ar valdymo ar bet kurias kitas teises į strateginę reikšmę nacionaliniam saugumui turintį įrenginį.
 
 
 
 
 
 
-3. Vyriausybė sudaro Strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimo komisiją (toliau – Komisija). Į šią Komisiją Vyriausybė skiria savo ir nacionalinio saugumo srityje kompetentingų institucijų atstovus, tvirtina Komisijos darbo tvarkos aprašą.
+3. Vyriausybė sudaro potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimo komisiją (toliau – Komisija). Į Komisiją Vyriausybė skiria savo ir nacionalinio saugumo srityje kompetentingų institucijų atstovus, tvirtina Komisijos darbo tvarkos aprašą.
 
 
 
 
-4. Strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių valdymo organai dėl potencialių įmonės dalyvių atitikties nacionalinio saugumo interesams įvertinimo privalo kreiptis į Komisiją, apie potencialius įmonės dalyvius pateikdami Komisijos darbo tvarkos apraše nurodytus dokumentus ir informaciją.
+4. Strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių ir įmonių, nuosavybės teise turinčių arba naudojančių strateginę reikšmę nacionaliniam saugumui turinčius įrenginius, valdymo organai dėl potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimo, gavę atitinkamo potencialaus dalyvio sutikimą, privalo kreiptis į Komisiją, pateikdami Komisijos darbo tvarkos apraše nurodytus dokumentus ir informaciją apie potencialius dalyvius, kurią gauna iš potencialių dalyvių.
 
 
 
 
-5. Strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimą Komisijoje gali inicijuoti Vyriausybė, taip pat valstybės arba savivaldybės institucija, kuri yra valstybei ar savivaldybei nuosavybės teise priklausančių akcinės bendrovės akcijų valdytoja (kuriai šios akcijos perduotos patikėjimo teise) arba kuri įgyvendina valstybės ar savivaldybės įmonės savininko teises ir pareigas.
+5. Potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimą Komisijoje gali inicijuoti Vyriausybė, taip pat valstybės arba savivaldybės institucija, kuri yra valstybei ar savivaldybei nuosavybės teise priklausančių akcinės bendrovės akcijų valdytoja (kuriai šios akcijos perduotos patikėjimo teise) arba kuri įgyvendina valstybės ar savivaldybės įmonės savininko teises ir pareigas, arba potencialus dalyvis.
 
 
 
 
-6. Vykdydami įmonės potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimą, Komisijai išvadas pagal savo kompetenciją teisės aktų nustatyta tvarka teikia Lietuvos Respublikos valstybės saugumo departamentas, Lietuvos Respublikos užsienio reikalų ministerija, Lietuvos Respublikos vidaus reikalų ministerija, Policijos departamentas prie Vidaus reikalų ministerijos, kitos ikiteisminio tyrimo įstaigos, Lietuvos Respublikos generalinė prokuratūra, Komisijos sprendimu – kitos institucijos.
+6. Atlikdami potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimą, Komisijai išvadas pagal savo kompetenciją teisės aktų nustatyta tvarka teikia Valstybės saugumo departamentas, Lietuvos Respublikos užsienio reikalų ministerija, Vidaus reikalų ministerija, Policijos departamentas prie Vidaus reikalų ministerijos, kitos ikiteisminio tyrimo įstaigos, Lietuvos Respublikos generalinė prokuratūra, Komisijos sprendimu – kitos institucijos.
 
 
 
 
-7. Sprendimą dėl strateginę ar svarbią reikšmę nacionaliniam saugumui turinčios įmonės potencialaus dalyvio atitikties nacionalinio saugumo interesams priima Komisija, įvertindama asmens atitiktį šio straipsnio 10 dalyje nustatytiems kriterijams ir įvertinime dalyvaujančių kompetentingų valstybės institucijų išvadas.
+7. Sprendimą dėl potencialaus dalyvio atitikties nacionalinio saugumo interesams priima Komisija, įvertindama asmens atitiktį šio straipsnio 10 dalyje nustatytiems kriterijams ir įvertinime dalyvaujančių kompetentingų valstybės institucijų išvadas ne vėliau kaip per 30 dienų nuo atitinkamo kreipimosi pateikimo. Jeigu per nurodytą terminą Komisija nepriima sprendimo, laikoma, kad asmuo atitinka nacionalinio saugumo interesus.
 
 
 
 
-8. Nacionalinio saugumo interesus atitinkančiu asmeniu laikomas potencialus įmonės dalyvis, dėl kurio šio straipsnio nustatytais pagrindais ir šio įstatymo įgyvendinamųjų teisės aktų nustatyta tvarka yra atliktas įvertinimas ir priimtas sprendimas, kad tikrinamas asmuo atitinka nacionalinio saugumo interesus.
+8. Nacionalinio saugumo interesus atitinkančiu asmeniu laikomas potencialus dalyvis, dėl kurio šio straipsnio nustatytais pagrindais ir šio įstatymo įgyvendinamųjų teisės aktų nustatyta tvarka yra atliktas atitikties nacionalinio saugumo interesams įvertinimas ir priimtas sprendimas, kad tikrinamas asmuo atitinka nacionalinio saugumo interesus.
 
 
 
 
-9. Kai asmuo yra juridinis asmuo, laikoma, kad jis atitinka Lietuvos nacionalinio saugumo interesus, jeigu juos atitinka jis pats ir asmenys, tiesiogiai ir (ar) netiesiogiai turintys ne mažiau kaip 2/3 balsų suteikiančių šios įmonės akcijų.
+9. Kai asmuo yra juridinis asmuo, laikoma, kad jis atitinka nacionalinio saugumo interesus, jeigu juos atitinka jis pats ir asmenys, tiesiogiai ir (ar) netiesiogiai turintys daugiau kaip 2/3 balsų suteikiančių šios įmonės akcijų.
 
 
 
 
-10. Potencialus įmonės dalyvis pripažįstamas atitinkančiu nacionalinio saugumo interesus, jeigu jis atitinka visas šias sąlygas:
+10. Potencialus dalyvis pripažįstamas atitinkančiu nacionalinio saugumo interesus, jeigu jis atitinka visas šias sąlygas:
 
 
 1) atitinka šio įstatymo 8 straipsnyje nurodytus europinės ir transatlantinės integracijos kriterijus;
@@ -552,53 +616,62 @@ Vilnius
 
 
 
-2) nėra monopolinis kurios nors rūšies Lietuvos importuojamų iškastinių energijos išteklių tiekėjas, tokio tiekėjo kontroliuojamas arba su juo kooperacijos ar partnerystės ryšiais susijęs asmuo;
+2) nėra dominuojantis kurios nors rūšies iškastinių energijos išteklių importuotojas į Lietuvos Respubliką, tokio importuotojo kontroliuojamas arba su juo kooperacijos ar partnerystės ryšiais susijęs asmuo, kai tokie ryšiai gali būti laikomi grėsme nacionaliniam saugumui;
 
 
 
 
-3) neturi nacionaliniam saugumui galinčių didinti riziką ar kelti grėsmę ryšių su Europos Sąjungai ir Šiaurės Atlanto Sutarties Organizacijai nepriklausančių užsienio valstybių institucijomis ar tų valstybių asmenimis;
+3) neturi nacionaliniam saugumui didinančių riziką ar keliančių grėsmę ryšių su Europos Sąjungai ir Šiaurės Atlanto Sutarties Organizacijai nepriklausančių užsienio valstybių institucijomis ar tų valstybių asmenimis;
 
 
 
 
-4) nėra duomenų, kad asmuo gali būti susijęs su organizuotomis nusikalstamomis grupuotėmis, užsienio valstybių specialiosiomis tarnybomis ar grupuotėmis, susijusiomis su tarptautinėmis teroristinėmis organizacijomis ar palaikančiomis ryšius su asmenimis, įtariamais priklausymu joms;
+4) nėra duomenų, kad asmuo yra susijęs su organizuotomis nusikalstamomis grupuotėmis, užsienio valstybių specialiosiomis tarnybomis ar grupuotėmis, susijusiomis su tarptautinėmis teroristinėmis organizacijomis ar palaikančiomis ryšius su asmenimis, įtariamais priklausymu joms;
 
 
 
 
-5) nėra padaręs Lietuvos Respublikos baudžiamojo kodekso specialiojoje dalyje nurodytų sunkių ir labai sunkių nusikaltimų ar dėl jo neatliekami procesiniai veiksmai dėl nurodytų nusikaltimų padarymo, taip pat juos atitinkančių veikų užsienio šalyse;
+5) nėra padaręs Lietuvos Respublikos baudžiamojo kodekso specialiojoje dalyje nurodytų sunkių ir labai sunkių nusikaltimų ar dėl jo neatliekami procesiniai veiksmai dėl nurodytų nusikaltimų padarymo, taip pat juos atitinkančių veikų užsienio valstybėse;
 
 
 
 
-6) teisės aktų nustatyta tvarka nėra pripažintas pažeidęs šio įstatymo ir kitų teisės aktų, reglamentuojančių strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių veiklą.
-
-
-
-
-
-
-11. Potencialiems įmonių dalyviams, kuriuos Komisija pripažįsta neatitinkančiais nacionalinio saugumo interesų, taikomi šio įstatymo nustatyti apribojimai įsigyti strateginę ar svarbią reikšmę nacionaliniam saugumui turinčios įmonės akcijų, investuoti į strateginę reikšmę nacionaliniam saugumui turinčią įmonę ar jos numatomą steigti įmonę, tapti strateginę reikšmę nacionaliniam saugumui turinčios įmonės ar įrenginio plėtros (technologijų įgijimo, svarbių žaliavų tiekimo, pagrindinių plėtros darbų vykdymo ir pan.) projekto dalyviu.
- 
+6) teisės aktų nustatyta tvarka nėra pripažintas padaręs nusikaltimų Lietuvos valstybės nepriklausomybei, teritorijos vientisumui ir konstitucinei santvarkai ir (ar) per pastaruosius 24 mėnesius iš esmės pažeidęs šio įstatymo ir kitų teisės aktų, reglamentuojančių strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių veiklą.
 
 
 
 
 
 
-8 straipsnis. Potencialaus įmonės dalyvio atitikties europinei ir transatlantinei integracijai kriterijai
-
-
-Komisija įvertina potencialaus įmonės dalyvio atitiktį šiems europinės ir transatlantinės integracijos kriterijams:
-
-
-1) ilgalaikės veiklos pobūdžio ir patirties atitinkamoje srityje Europos Sąjungos, Šiaurės Atlanto Sutarties Organizacijos valstybėse narėse, taip pat kitose Lietuvos nacionaliniam saugumui stiprinti svarbiose valstybėse, plėtojančiose saugumo ryšius su Europos Sąjungos ir Šiaurės Atlanto Sutarties Organizacijos valstybėmis narėmis;
+11. Jeigu Komisija pripažįsta, kad potencialus dalyvis neatitinka nacionalinio saugumo interesų, sprendime turi būti nurodytas teisinis ir faktinis pagrindas. Neigiamas Komisijos sprendimas reiškia, kad valstybė prieštarauja, kad šis asmuo taptų potencialiu dalyviu, ir toks asmuo negali tapti potencialiu dalyviu šio straipsnio 2 dalyje nurodytu būdu, iki jis pašalins savo neatitikties nacionalinio saugumo interesams priežastis, nurodytas Komisijos sprendime, ir Komisija priims naują sprendimą, patvirtindama šio asmens atitiktį nacionalinio saugumo interesams.
 
 
 
 
-2) realių ketinimų, galimybių ir planuojamų būdų tiesiogiai prisidėti prie nacionaliniam saugumui svarbaus Lietuvos ūkio sektoriaus arba energetikos sistemos spartesnės integracijos į transatlantines ir europines rinkas;
+12. Komisijos sprendimas gali būti skundžiamas Vilniaus apygardos administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+
+
+
+13. Europos Sąjungos valstybės narės, valstybės, pasirašiusios Europos ekonominės erdvės sutartį, taip pat juridiniai asmenys, kuriuose Europos Sąjungos valstybės narės arba valstybės, pasirašiusios Europos ekonominės erdvės sutartį, tiesiogiai ar netiesiogiai turi daugiau kaip 2/3 balsų suteikiančių šių juridinių asmenų akcijų ar kitų kapitalo dalių, atitinka nacionalinio saugumo interesus ir šiems subjektams netaikoma šio straipsnio 1 ir 2 dalyse nustatytos pareigos ir potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimas nėra atliekamas.
+
+
+
+
+
+
+8 straipsnis. Potencialaus dalyvio atitikties europinei ir transatlantinei integracijai kriterijai
+
+
+Komisija įvertina potencialaus dalyvio atitiktį šiems europinės ir transatlantinės integracijos kriterijams:
+
+
+1) ilgalaikės veiklos pobūdžio ir patirties atitinkamoje srityje Europos Sąjungos, Šiaurės Atlanto Sutarties Organizacijos valstybėse narėse, taip pat kitose nacionaliniam saugumui stiprinti svarbiose valstybėse, plėtojančiose saugumo ryšius su Europos Sąjungos ir Šiaurės Atlanto Sutarties Organizacijos valstybėmis narėmis;
+
+
+
+
+2) realių ketinimų, galimybių ir planuojamų būdų tiesiogiai ar netiesiogiai prisidėti prie nacionaliniam saugumui svarbaus Lietuvos ūkio sektoriaus arba energetikos sistemos spartesnės integracijos į transatlantines ir europines rinkas arba vystymo;
 
 
 
@@ -616,12 +689,17 @@ Komisija įvertina potencialaus įmonės dalyvio atitiktį šiems europinės ir 
 9 straipsnis. Strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių sauga
 
 
-1. Vyriausybė arba jos įgaliota institucija, atsižvelgdama į įmonių veiklos ypatumus, nustato strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių fizinės ir informacinės saugos reikalavimus.
+1. Vyriausybė arba jos įgaliota institucija, atsižvelgdama į įmonių veiklos ypatumus, nustato strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių fizinės ir informacinės saugos reikalavimus, darbuotojų atitikties reikalavimus, taip pat šių reikalavimų įgyvendinimo procedūrą.
 
 
 
 
-2. Strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių vadovai atsako už šio straipsnio 1 dalyje nustatytų fizinės ir informacinės saugos reikalavimų įgyvendinimą.
+2. Strateginę ar svarbią reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių vadovai atsako už šio straipsnio 1 dalyje nustatytų fizinės ir informacinės saugos, taip pat darbuotojų atitikties reikalavimų įgyvendinimą.
+
+
+
+
+3. Branduolinei (atominei) elektrinei taikomi Branduolinės energijos įstatyme, Lietuvos Respublikos branduolinės saugos įstatyme, Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme, Lietuvos Respublikos radiacinės saugos įstatyme ir kituose įstatymuose ir teisės aktuose nustatyti saugos reikalavimai. 
 
 
 
@@ -670,4 +748,9 @@ Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įm
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-375, 2009-07-21, Žin., 2009, Nr. 93-3968 (2009-08-04), i. k. 1091010ISTA00XI-375
+Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2087, 2012-06-21, Žin., 2012, Nr. 76-3931 (2012-06-30), i. k. 1121010ISTA0XI-2087
 Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo pakeitimo įstatymas
