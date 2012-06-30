@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6A449FCC534B"
 
 # Lietuvos Respublikos koncesijų įstatymas
 
-Suvestinė redakcija nuo 2011-06-28 iki 2012-06-29
+Suvestinė redakcija nuo 2012-06-30 iki 2014-12-03
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 92-2141, i. k. 0961010ISTA00I-1510
  
@@ -1402,6 +1402,19 @@ Jei Lietuvos Respublikos tarptautinėse sutartyse nustatytos kitokios taisyklės
 
 
 
+30 straipsnis. Įstatymo taikymas naujos branduolinės (atominės) elektrinės projektui
+
+
+Šio Įstatymo normos santykiams, susijusiems su naujos branduolinės (atominės) elektrinės projektu ir su juo susijusiais klausimais, taikomos tiek, kiek jų nereglamentuoja Branduolinės (atominės) elektrinės įstatymas. 
+
+
+Papildyta straipsniu:
+Nr. XI-2116, 2012-06-26, Žin., 2012, Nr. 76-3940 (2012-06-30), i. k. 1121010ISTA0XI-2116
+ 
+
+
+
+
 
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -1493,3 +1506,8 @@ Lietuvos Respublikos koncesijų įstatymo 28-1 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1458, 2011-06-16, Žin., 2011, Nr. 77-3726 (2011-06-28), i. k. 1111010ISTA0XI-1458
 Lietuvos Respublikos koncesijų įstatymo 17 straipsnio papildymo ir pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2116, 2012-06-26, Žin., 2012, Nr. 76-3940 (2012-06-30), i. k. 1121010ISTA0XI-2116
+Lietuvos Respublikos koncesijų įstatymo papildymo 30 straipsniu įstatymas
