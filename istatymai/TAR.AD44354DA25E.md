@@ -13,17 +13,18 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AD44354DA25E"
 
 # Lietuvos Respublikos augalų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2012-06-30
+Suvestinė redakcija nuo 2012-07-01 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 90-2013, i. k. 0951010ISTA00I-1069
  
-Nauja redakcija nuo 2010-07-01:
-Nr. XI-652, 2010-01-14, Žin. 2010, Nr. 13-620 (2010-02-02), i. k. 1101010ISTA00XI-652
+Nauja redakcija nuo 2012-07-01:
+Nr. XI-2021, 2012-05-22, Žin. 2012, Nr. 63-3162 (2012-06-05), i. k. 1121010ISTA0XI-2021
  
-LIETUVOS RESPUBLIKOS AUGALŲ APSAUGOS ĮSTATYMAS
- 
+LIETUVOS RESPUBLIKOS AUGALŲ APSAUGOS
+ĮSTATYMAS  
 1995 m. spalio 19 d. Nr. I-1069
 Vilnius
+ 
  
 
 
@@ -35,52 +36,17 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas nustato fizinių ir juridinių asmenų, Lietuvos Respublikoje įsteigtų užsienio įmonių ir kitų organizacijų ar jų filialų, (toliau – fiziniai ir juridiniai asmenys) veiklą, susijusią su augalų apsaugos produktų registracija, įvežimu, sandėliavimu, prekyba, naudojimu ir kontrole.
+1. Šis įstatymas nustato fizinių asmenų ir Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje, ar kitoje Europos ekonominės erdvės valstybėje įsteigtų juridinių asmenų arba kitų organizacijų ar jų padalinių (toliau – fiziniai ir juridiniai asmenys) veiklą, susijusią su augalų apsaugos produktų registravimu, įvežimu, vežimu, saugojimu, naudojimu, tiekimu rinkai, ir jų veiklos priežiūrą.
 
 
 
 
-2. Šis įstatymas taikomas nepažeidžiant teisės aktų, nustatančių:
-
-
-1) cheminių medžiagų ir preparatų klasifikavimą, ženklinimą ir pakavimą;
+2. Šis įstatymas Lietuvos Respublikoje taikomas kartu su 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1107/2009 dėl augalų apsaugos produktų pateikimo į rinką ir panaikinančiu Tarybos direktyvas 79/117/EEB ir 91/414/EEB (toliau – Reglamentas (EB) Nr. 1107/2009).
 
 
 
 
-2) draudžiamus ir ribojamus naudoti preparatus;
-
-
-
-
-3) žemės ir miško naudojimo sąlygas, paviršinio vandens telkinių apsaugos zonas ir pakrančių apsaugos juostas;
-
-
-
-
-4) vaikų ir jaunimo darbo sąlygas;
-
-
-
-
-5) asmenų, dirbančių su augalų apsaugos produktais, profilaktinius sveikatos tikrinimus.
-
-
-
-
-
-
-3. Šis įstatymas, išskyrus 18 straipsnį, taikomas ir augalų apsaugos produktams, kuriuose yra genetiškai modifikuotų organizmų.
-
-
-
-
-4. Šis įstatymas netaikomas augalų apsaugos produktų gamybai ir augalų apsaugos produktų, kurie neskirti naudoti Lietuvos Respublikoje, sandėliavimui, reeksportui ir tranzitui.
-
-
-
-
-5. Šiuo įstatymu siekiama užtikrinti Europos Sąjungos teisės akto, nurodyto Įstatymo priede, taikymą.
+3. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede.
  
 
 
@@ -91,177 +57,77 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Augalas – daugialąstis fotosintezę vykdantis organizmas ar jo dalys, įskaitant šviežius vaisius ir sėklas. 
+1. Augalų apsaugos konsultantas – kenksmingųjų organizmų naikinimo ir saugaus augalų apsaugos produktų naudojimo klausimais konsultuojantis aukštąjį išsilavinimą turintis specialistas arba komercines paslaugas teikiantis subjektas, įskaitant privačius savarankiškai dirbančius fizinius ir juridinius asmenis, viešuosius konsultavimo paslaugų teikėjus.
 
 
 
 
-2. Augaliniai produktai – neperdirbti arba po pirminio perdirbimo augalinės kilmės produktai, kurie jau nėra augalai.
+2. Augalų apsaugos planas – planavimo dokumentas, kuriame nustatyti augalų apsaugos produktų ir kitų priemonių naudojimo kiekybiniai uždaviniai, tikslai, priemonės ir grafikai, augalų apsaugos produktų platintojų, augalų apsaugos konsultantų ir profesionaliųjų naudotojų mokymas, visuomenės švietimas augalų apsaugos nuo kenksmingųjų organizmų klausimais, vadovaujantis integruotos kenksmingųjų organizmų kontrolės principais, siekiant sumažinti riziką žmonių sveikatai ir aplinkai.
 
 
 
 
-3. Augalų apsaugos produktai – veikliosios medžiagos ir jų turintys preparatai, naudotojui tiekiami tokios sudėties ir formos, kokios jie buvo pagaminti, ir skiriami:
+3. Augalų apsaugos produktai – kaip jie apibrėžti Reglamento (EB) Nr. 1107/2009 2 straipsnio 1 dalyje.
 
 
-1) augalams ar augaliniams produktams apsaugoti nuo visų kenksmingųjų organizmų arba užkirsti kelią tokių organizmų veikimui tiek, kiek tokios medžiagos ar preparatai nėra apibūdinami kitaip;
 
 
+4. Augalų apsaugos produkto naudojimo reglamentas – augalų apsaugos produkto naudojimo paskirtis ir norma, purškimų skaičius, sąlygos, laikas ir naudojimo apribojimai, kurie nurodomi Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos direktoriaus sprendime įregistruoti augalų apsaugos produktą Reglamento (EB) Nr. 1107/2009 nustatyta tvarka ir kurių privaloma laikytis.
 
 
-2) augalų gyvybiniams procesams veikti, tačiau kitaip nei mitybinės medžiagos (augimo reguliatoriai);
 
 
+5. Augalų apsaugos produkto registravimas – Reglamento (EB) Nr. 1107/2009 nustatyta tvarka Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos atliekamas fizinio ar juridinio asmens pateiktos paraiškos ir dokumentų apie augalų apsaugos produktą ir jame esančią vieną ar kelias veikliąsias medžiagas įvertinimas ir sprendimo įregistruoti augalų apsaugos produktą ir suteikti teisę jį tiekti rinkai bei leisti naudoti priėmimas.
 
 
-3) augaliniams produktams konservuoti, atsižvelgiant į tai, kiek tokioms medžiagoms ar produktams netaikomos specialios nuostatos dėl konservantų; 
 
 
+6. Augalų apsaugos produktų operatorius – fizinis asmuo, pagal darbo sutartį dirbantis juridinio asmens darbuotojas ar civilinę sutartį sudaręs asmuo, apdorojantys žemės sklypus antžemine augalų apsaugos produktų purškimo įranga ar augalų apsaugos produktus purškiantys iš oro.
 
 
-4) nereikalingiems augalams naikinti; 
 
 
+7. Augalų apsaugos produktų platintojas – augalų apsaugos produktus rinkai tiekiantis fizinis ar juridinis asmuo, įskaitant augalų apsaugos produktų pardavėjus ir tiekėjus.
 
 
-5) augalų dalims naikinti ar neleisti jiems augti taip, kaip nepageidaujama.
 
 
+8. Augalų apsaugos produktų profesionalusis naudotojas – fizinis asmuo, įskaitant žemės ūkyje ir kituose sektoriuose dirbančius augalų apsaugos produktų operatorius, technikus ir savarankiškai dirbančius asmenis, taip pat juridinio asmens darbuotojas, įskaitant darbdavius, turintys augalų apsaugos kursų baigimo pažymėjimą ar kitą jam prilyginamą Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje išduotą pažymėjimą ir savo profesinėje veikloje naudojantys profesionaliajam naudojimui skirtus augalų apsaugos produktus.
 
 
 
 
-4. Augalų apsaugos produkto registracijos liudijimo savininkas – fizinis arba juridinis Lietuvos Respublikos ar užsienio valstybės asmuo, kurio vardu registruotas augalų apsaugos produktas ir kuriam išduotas augalų apsaugos produkto registracijos liudijimas.
+9. Augalų apsaugos produktų purškimas iš oro – žemės ir (ar) augalų purškimas augalų apsaugos produktais iš orlaivio.
 
 
 
 
-5. Augalų apsaugos produktų liekanos (toliau – liekanos) – viena ar kelios medžiagos (įskaitant jų metabolitus ir produktus, atsirandančius dėl jų skilimo ar sąveikos su kitomis medžiagomis), esančios augaluose ar augaliniuose produktuose arba ant jų, gyvūniniuose produktuose arba ant jų, dirvožemyje, vandenyje, taip pat kitur po to, kai buvo panaudotas augalų apsaugos produktas.
+10. Augalų apsaugos produktų purškimo įranga – įtaisų visuma augalų apsaugos produktams purkšti.
 
 
 
 
-6. Augalų apsaugos produktų naudojimo reglamentas – dokumentas, kuriame nustatyta naudojimo paskirtis ir norma, purškimų skaičius, sąlygos, laikas ir naudojimo apribojimai. 
+11. Augalų apsaugos produktų tiekimas rinkai – kaip apibrėžta Reglamento (EB) Nr. 1107/2009 3 straipsnio 9 punkte.
 
 
 
 
-7. Augalų apsaugos produktų registravimas – administracinis veiksmas, kuriuo Valstybinė augalininkystės tarnyba prie Žemės ūkio ministerijos pagal pateiktą paraišką suteikia pareiškėjui teisę augalų apsaugos produktą tiekti rinkai.
+12. Integruota kenksmingųjų organizmų kontrolė – augalų apsaugos nuo kenksmingųjų organizmų metodų parinkimas, ekonomiškai ir ekologiškai pagrįstas augalų apsaugos produktų ir kitų priemonių naudojimas siekiant sustabdyti kenksmingųjų organizmų populiacijos vystymąsi, mažinti riziką žmonių sveikatai ir aplinkai, išauginti sveikus augalus ir kuo mažiau pažeisti ekosistemas. Pirmenybė teikiama necheminiams augalų apsaugos metodams, jei jie apsaugo nuo kenksmingųjų organizmų ir (ar) juos sunaikina.
 
 
 
 
-8. Augalų apsaugos produktų tiekimas rinkai – bet kuris augalų apsaugos produktų pristatymas už pinigus arba nemokamai, išskyrus jų pristatymą pagal važtaraštį iš Europos Sąjungos valstybių narių ir kitų Europos ekonominės erdvės valstybių saugoti ar sunaikinti. Pagal šį įstatymą augalų apsaugos produktų įvežimas į Lietuvos Respubliką taip pat laikomas tiekimu rinkai. 
+13. Necheminis augalų apsaugos metodas – vietoj cheminių augalų apsaugos produktų naudojamas alternatyvus augalų apsaugos ir kenksmingųjų organizmų naikinimo metodas, pagrįstas žemdirbystės technologijomis, arba fizinis, mechaninis ar biologinis kontrolės metodas.
 
 
 
 
-9. Gamtinė aplinka (toliau – aplinka) – aplinka, kurią sudaro natūralūs ar antropogenizuoti gyvosios ir negyvosios gamtos elementai ir jų funkcinės sistemos.
+14. Profesionaliajam naudojimui skirti augalų apsaugos produktai – Reglamento (EB) Nr. 1107/2009 nustatyta tvarka Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos direktoriaus sprendimu įregistruoti augalų apsaugos produktai, kuriuos savo profesinėje veikloje gali naudoti tik augalų apsaugos produktų profesionalieji naudotojai. Sprendime nurodomas augalų apsaugos produkto naudojimo reglamentas.
 
 
 
 
-10. Gyvūnas – žmogaus poreikius tenkinantis naminis arba laukinis gyvūnas.
-
-
-
-
-11. Integruota kontrolė – kenksmingųjų organizmų populiacijos kontrolė, siekiant ją išlaikyti tokio dydžio, kad ji nepadarytų nepageidaujamos ekonominės žalos ar nuostolių, taikant racionalų biologinių, biotechnologinių, cheminių, kultūrinių arba sėklininkystės priemonių derinį, kai cheminiai augalų apsaugos produktai naudojami tik mažiausiais kiekiais.
-
-
-
-
-12. Kenksmingieji organizmai – bet kurios vystymosi stadijos gyvūnai, augalai, grybai, bakterijos, virusai ir kiti organizmai, galintys pakenkti patiems augalams ir jų produktams ar užkrėsti augavietes.
-
-
-
-
-13. Konsultavimo komisija – mokslo ir kitų institucijų atstovų grupė, teikianti moksliškai pagrįstus siūlymus ir rekomendacijas dėl augalų apsaugos produktų registracijos.
-
-
-
-
-14. Medžiagos – cheminiai elementai ir jų junginiai, susidarantys natūraliai ar gamybos būdu, įskaitant visas gamybos proceso metu atsirandančias priemaišas. 
-
-
-
-
-15. Naujos veikliosios medžiagos – medžiagos, tiekiamos Europos Sąjungos valstybių narių rinkai po 1993 m. liepos 15 d.
-
-
-
-
-16. Neprofesionalusis naudotojas – fizinis asmuo, kuris neturi agronomo diplomo arba augalų apsaugos kursų baigimo pažymėjimo ir turi teisę įsigyti ir naudoti tik neprofesionaliajam naudojimui skirtus augalų apsaugos produktus.
-
-
-
-
-17. Operatorius – darbuotojas, darbo metu turintis sąlytį su augalų apsaugos produktais.
-
-
-
-
-18. Pareiškėjas – nuolatinę buveinę vienoje iš Europos Sąjungos valstybių narių ar kitoje Europos ekonominės erdvės valstybėje turintis augalų apsaugos produktų gamintojas arba jo įgaliotas asmuo, teikiantis paraišką įregistruoti augalų apsaugos produktą. 
-
-
-
-
-19. Prekyba analogiškais augalų apsaugos produktais – prekyba augalų apsaugos produktais, kurie yra tapatūs Lietuvos Respublikoje įregistruotiems augalų apsaugos produktams pagal savo kilmę, tos pačios preparatinės formos, pagaminti naudojant tą pačią veikliąją medžiagą ir pasižymi tokiu pat poveikiu.
-
-
-
-
-20. Preparatas – tirpalas arba mišinys, sudarytas iš dviejų ar daugiau medžiagų, iš kurių bent viena yra veiklioji medžiaga, skirta naudoti kaip augalų apsaugos produktas.
-
-
-
-
-21. Profesionalusis naudotojas – asmuo, turintis agronomo diplomą arba augalų apsaugos kursų baigimo pažymėjimą ir teisę įsigyti ir naudoti profesionaliajam naudojimui skirtus augalų apsaugos produktus.
-
-
-
-
-22. Rizikos frazė – standartinė frazė, kuria nurodoma specifinė rizika, atsirandanti naudojant augalų apsaugos produktą.
-
-
-
-
-23. Saugos frazė – standartinė frazė, kuria duodamas patarimas, kaip saugiai naudoti augalų apsaugos produktą.
-
-
-
-
-24. Senos veikliosios medžiagos – medžiagos, kurios buvo Europos Sąjungos valstybių narių rinkoje iki 1993 m. liepos 15 d.
-
-
-
-
-25. Veikliosios medžiagos – medžiagos ar mikroorganizmai, įskaitant virusus, pasižymintys bendru ar specifiniu poveikiu kenksmingiesiems organizmams, augalams, jų dalims arba augaliniams produktams.
-
-
-
-
-
-
-3 straipsnis. Bendrieji reikalavimai
-
-
-1. Įvežti, sandėliuoti, prekiauti ir naudoti Lietuvos Respublikoje leidžiama tik pagal šį įstatymą įregistruotus augalų apsaugos produktus, išskyrus šio įstatymo 1 straipsnio 3 dalyje, 18 straipsnyje ir 31 straipsnyje nurodytus atvejus.
-
-
-
-
-2. Naudojant augalų apsaugos produktus, privaloma laikytis šio įstatymo 6 straipsnio 1 dalies 7 punkto ir 17 straipsnio reikalavimų, geros augalų apsaugos praktikos taisyklių, o jeigu yra galimybė, – ir integruotos kontrolės rekomendacijų. Profesionaliajam naudojimui skirti augalų apsaugos produktai privalo būti naudojami tik su sertifikuota įranga. 
-
-
-
-
-3. Tiekiami rinkai augalų apsaugos produktai privalo būti supakuoti, klasifikuoti, paženklinti pagal Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo ir šio įstatymo 17 straipsnio nuostatas. Specialiąsias augalų apsaugos produktams skirtas rizikos ir saugos frazes tvirtina žemės ūkio ministras, suderinęs su aplinkos ministru ir sveikatos apsaugos ministru.
-
-
-
-
-4. Profesionaliajam naudojimui skirtų augalų apsaugos produktų negalima naudoti sodininkų bendrijų soduose.
+15. Kitos šiame įstatyme vartojamos sąvokos atitinka Reglamento (EB) Nr. 1107/2009 sąvokas.
  
 
 
@@ -272,29 +138,24 @@ BENDROSIOS NUOSTATOS
 
 
 ANTRASIS SKIRSNIS
-AUGALŲ APSAUGOS PRODUKTŲ REGISTRACIJA
+AUGALŲ APSAUGOS PRODUKTŲ REGISTRAVIMAS, TIEKIMAS RINKAI, ĮVEŽIMAS
  
 
 
-4 straipsnis. Paraiškų įregistruoti augalų apsaugos produktus teikimas
+3 straipsnis. Augalų apsaugos produktų registravimas
 
 
-1. Paraiškas įregistruoti augalų apsaugos produktus pareiškėjai teikia Valstybinei augalininkystės tarnybai prie Žemės ūkio ministerijos (toliau – Tarnyba). Pareiškėjai privalo turėti nuolatinę buveinę vienoje iš Europos Sąjungos valstybių narių ar kitų Europos ekonominės erdvės valstybių.
-
-
-
-
-2. Paraiškos įregistruoti augalų apsaugos produktus teikiamos lietuvių kalba, o duomenys pagal šio straipsnio 3 ir 4 dalyse nurodytus reikalavimus gali būti teikiami lietuvių arba anglų kalba.
+1. Valstybinė augalininkystės tarnyba prie Žemės ūkio ministerijos (toliau – Tarnyba) augalų apsaugos produktus registruoja, registraciją atnaujina, pakeičia, panaikina, apriboja ar ją uždraudžia, keičia augalų apsaugos produkto naudojimo reglamentą, įvertina veikliąsias medžiagas ir atlieka kitus veiksmus, susijusius su augalų apsaugos produktų registravimu, Reglamento (EB) Nr. 1107/2009 nustatytais atvejais ir tvarka. Tarnyba, priėmusi sprendimą registruoti augalų apsaugos produktą, fiziniam ir juridiniam asmeniui, pateikusiems paraišką įregistruoti augalų apsaugos produktą, išduoda augalų apsaugos produkto registracijos liudijimą.
 
 
 
 
-3. Duomenų apie veikliąsias medžiagas, esančias augalų apsaugos produktuose, teikimo reikalavimus tvirtina žemės ūkio ministras, suderinęs su aplinkos ministru ir sveikatos apsaugos ministru.
+2. Tarnybos direktoriaus sprendimai dėl augalų apsaugos produktų registravimo, registracijos atnaujinimo, pakeitimo, panaikinimo, apribojimo ar jos uždraudimo, augalų apsaugos produkto naudojimo reglamento keitimo, veikliųjų medžiagų įvertinimo ir kiti sprendimai, susiję su augalų apsaugos produktų registravimu Reglamento (EB) Nr. 1107/2009 nustatytais atvejais ir tvarka, skelbiami Tarnybos interneto svetainėje.
 
 
 
 
-4. Duomenų apie augalų apsaugos produktus teikimo reikalavimus tvirtina žemės ūkio ministras, suderinęs su aplinkos ministru ir sveikatos apsaugos ministru.
+3. Žemės ūkio ministras sudaro Augalų apsaugos produktų registracijos patariamąjį komitetą ir tvirtina jo darbo reglamentą. Į Augalų apsaugos produktų registracijos patariamojo komiteto sudėtį įtraukiami mokslo, kitų institucijų ir suinteresuotųjų asmenų atstovai, teikiantys Tarnybai mokslu pagrįstus siūlymus dėl augalų apsaugos produktų registracijos.
  
 
 
@@ -302,30 +163,25 @@ AUGALŲ APSAUGOS PRODUKTŲ REGISTRACIJA
 
 
 
-5 straipsnis. Duomenų augalų apsaugos produktams įregistruoti teikimas 
+4 straipsnis. Augalų apsaugos produktų įvežimo iš Europos Sąjungos valstybių narių ir Europos ekonominės erdvės valstybių ir tiekimo rinkai reikalavimai
 
 
-1. Pareiškėjai, kurie kreipiasi dėl augalų apsaugos produktų įregistravimo, kartu su paraiškomis pateikia:
-
-
-1) duomenis apie augalų apsaugos produktus pagal šio įstatymo 4 straipsnio 4 dalies reikalavimus;
+1. Įvežti į Lietuvos Respubliką iš Europos Sąjungos valstybių narių ir Europos ekonominės erdvės valstybių, tiekti rinkai ir naudoti Lietuvos Respublikoje leidžiama tik Reglamento (EB) Nr. 1107/2009 nustatyta tvarka registruotus Lietuvos Respublikoje augalų apsaugos produktus, išskyrus Reglamento (EB) Nr. 1107/2009 28 straipsnio 2 dalyje ir 53 straipsnyje nustatytas išimtis.
 
 
 
 
-2) duomenis apie veikliąsias medžiagas augalų apsaugos produktuose pagal šio įstatymo 4 straipsnio 3 dalies reikalavimus. 
+2. Draudžiama reklamuoti Lietuvos Respublikoje neregistruotus augalų apsaugos produktus. Lietuvos Respublikoje registruoti augalų apsaugos produktai reklamuojami Reglamento (EB) Nr. 1107/2009 nustatyta tvarka.
 
 
 
 
-
-
-2. Jeigu duomenys apie veikliąsias medžiagas buvo pateikti pagal šio įstatymo 4 straipsnio 3 dalies reikalavimus iki jų įrašymo į šio straipsnio 3 dalyje nurodytą veikliųjų medžiagų sąrašą, pareiškėjams nebūtina pateikti šio straipsnio 1 dalies 2 punkte reikalaujamų duomenų, išskyrus duomenis apie veikliųjų medžiagų tapatumą, jeigu tokios veikliosios medžiagos pagal grynumą ir priemaišų pobūdį labai nesiskiria nuo tų veikliųjų medžiagų, kurios yra įrašytos į šio straipsnio 3 dalyje nurodytą veikliųjų medžiagų sąrašą.
+3. Tiekiami rinkai augalų apsaugos produktai privalo būti supakuoti, suklasifikuoti ir paženklinti Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo (toliau – Cheminių medžiagų ir preparatų įstatymas) nustatyta tvarka. Ženklinimas turi atitikti 2011 m. birželio 8 d. Komisijos reglamento (ES) Nr. 547/2011, kuriuo dėl augalų apsaugos produktų ženklinimo įgyvendinamas Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2009 (OL 2011 L 155, p. 176), (toliau – Reglamentas (ES) Nr. 547/2011) I priede nustatytus reikalavimus.
 
 
 
 
-3. Veikliųjų medžiagų, kurių gali būti augalų apsaugos produktuose, sąrašą tvirtina žemės ūkio ministras, atsižvelgęs į Europos Komisijos veikliųjų medžiagų peržiūros programą ir Europos Komisijos priimtus sprendimus.
+4. Fiziniai ir juridiniai asmenys, gaminantys augalų apsaugos produktus, juos tiekiantys rinkai, platinantys, įvežantys ar išvežantys, privalo tvarkyti savo gaminamų, įvežamų, išvežamų, saugomų ar tiekiamų rinkai augalų apsaugos produktų apskaitą ir penkerius metus saugoti įrašus bei Tarnybos ar kitų institucijų, atsakingų už teisės aktuose pavestų funkcijų atlikimą augalų apsaugos produktų srityje, reikalavimu pateikti šios apskaitos duomenis ir dokumentus Augalų apsaugos produktų įvežimo, vežimo, saugojimo, naudojimo, tiekimo rinkai taisyklėse nustatyta tvarka.
  
 
 
@@ -333,110 +189,110 @@ AUGALŲ APSAUGOS PRODUKTŲ REGISTRACIJA
 
 
 
-6 straipsnis. Augalų apsaugos produktų registravimas
+5 straipsnis. Leidimo prekiauti augalų apsaugos produktais išdavimo, jo galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo reikalavimai
 
 
-1. Augalų apsaugos produktai registruojami Lietuvos Respublikoje, jeigu:
+1. Prekiauti augalų apsaugos produktais leidžiama fiziniams ir juridiniams asmenims, turintiems leidimą prekiauti augalų apsaugos produktais (toliau – prekybos leidimas). Prekybos leidime nurodoma konkreti prekybos vieta.
 
 
-1) veikliosios medžiagos yra įrašytos į šio įstatymo 5 straipsnio 3 dalyje nurodytą veikliųjų medžiagų sąrašą ir yra įvykdytos visos šiame sąraše nurodytos sąlygos, augalų apsaugos produktai įvertinti pagal šio straipsnio 13 dalyje nurodytą augalų apsaugos produktų įvertinimo ir sprendimų priėmimo tvarkos aprašą ir laikomasi šio straipsnio 1 dalies 2–6 punktų reikalavimų;
 
 
+2. Prekybos leidimus išduoda Tarnyba. Prekybos leidimų išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo, galiojimo panaikinimo taisykles tvirtina Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė). Prekybos leidimai išduodami ne vėliau kaip per 30 kalendorinių dienų nuo visų dokumentų gauti prekybos leidimą pateikimo dienos. Jeigu į tinkamai pateiktą prašymą išduoti prekybos leidimą kartu su visais jam išduoti reikalingais dokumentais neatsakoma per šioje dalyje nustatytą terminą, laikoma, kad toks prekybos leidimas yra išduotas.
 
 
-2) įvertinus pateiktus duomenis apie augalų apsaugos produktą pagal šio įstatymo 4 straipsnio 4 dalies reikalavimus ir visas jo naudojimo sąlygas, taip pat galimus padarinius, yra nustatyta, kad augalų apsaugos produktas veikia kenksminguosius organizmus, kuriems naikinti yra skirtas, neturi nepageidautino poveikio augalams ar augaliniams produktams, nesukelia nereikalingų kančių ir skausmo stuburiniams gyvūnams, neturi tiesioginio arba netiesioginio kenksmingo poveikio žmonių ar gyvūnų sveikatai (per geriamąjį vandenį, maistą, pašarus), nedaro neleistino poveikio aplinkai. Ypač atkreipiamas dėmesys į augalų apsaugos produktų išlikimą ir pasiskirstymą aplinkoje, geriamojo ir gruntinio vandens teršimą, poveikį naudingoms augalų ir gyvūnų rūšims;
 
 
+3. Prekybos leidimai išduodami neterminuotam laikui.
 
 
-3) veikliąsias medžiagas ir jų kiekius, o prireikus – toksikologiškai ar ekotoksikologiškai svarbias priemaišas galima nustatyti tam skirtais metodais;
 
 
+4. Prekybos leidimai išduodami, jeigu:
 
 
-4) tinkamai naudojant augalų apsaugos produktus, liekanas galima nustatyti tam skirtais metodais;
+1) fiziniai asmenys turi augalų apsaugos kursų baigimo ar kitą jam prilyginamą Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje išduotą pažymėjimą;
 
 
 
 
-5) buvo ištirtos fizikinės ir cheminės savybės ir jas įvertinus nustatyta, kad augalų apsaugos produktai tinkami naudoti ir sandėliuoti;
+2) juridinio asmens darbuotojai, tiesiogiai vykdantys veiklą, susijusią su augalų apsaugos produktų tiekimu rinkai, dirbantys pagal darbo sutartį, ar asmenys, su kuriais yra sudaryta civilinė sutartis, turi augalų apsaugos kursų baigimo ar kitą jam prilyginamą Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje išduotą pažymėjimą;
 
 
 
 
-6) nustatyti laikinieji didžiausi leistini liekanų kiekiai augaluose ir augaliniuose produktuose; 
+3) augalų apsaugos produktų saugojimo ir prekybos vietos atitinka Augalų apsaugos produktų įvežimo, vežimo, saugojimo, naudojimo, tiekimo rinkai taisyklėse nurodytus reikalavimus.
 
 
 
 
-7) Tarnyba, įregistruodama augalų apsaugos produktus, nustato tokius jų naudojimo reglamentus, kad nebūtų viršijami laikinieji didžiausi leistini liekanų kiekiai augaliniuose produktuose.
 
 
+5. Prekybos leidimo turėtojas įspėjamas apie prekybos leidimo galiojimo sustabdymą, jeigu:
 
 
+1) veiklos, susijusios su augalų apsaugos produktų įvežimu, vežimu, saugojimu, naudojimu ir tiekimu rinkai, priežiūrą vykdanti institucija nustato, kad prekybos leidimo turėtojai, vykdydami prekybos leidime nurodytą veiklą, pažeidė Augalų apsaugos produktų įvežimo, vežimo, saugojimo, naudojimo, tiekimo rinkai taisyklėse nurodytus reikalavimus;
 
 
-2. Tyrimai ir analizė šio straipsnio 1 dalies 2–6 punktuose nurodytiems reikalavimams įvykdyti turi būti atlikti institucijose, turinčiose geros eksperimentinės praktikos ir geros laboratorinės praktikos sertifikatus, ir tokiomis žemės ūkio, fitosanitarijos ir aplinkos sąlygomis, kuriomis šie augalų apsaugos produktai bus naudojami Lietuvos Respublikoje. Geros eksperimentinės praktikos nuostatus tvirtina žemės ūkio ministras. Geros laboratorinės praktikos principus tvirtina sveikatos apsaugos ministras, aplinkos ministras ir žemės ūkio ministras.
 
 
+2) prekybos leidimo turėtojas, fizinis asmuo, netobulino kvalifikacijos šio įstatymo 10 straipsnio 3 dalyje nustatyta tvarka;
 
 
-3. Augalų apsaugos produktai įregistruojami ne ilgesniam kaip 10 metų laikotarpiui. Jeigu kitas pareiškėjas pateikia augalų apsaugos produkto registracijos liudijimo savininko rašytinį sutikimą naudotis jo nurodytais duomenimis, augalų apsaugos produktai registruojami ne ilgesniam laikotarpiui, negu pirmieji buvo įregistruoti.
 
 
+3) prekybos leidimo turėtojas, juridinio asmens darbuotojas, dirbantis pagal darbo sutartį, ar asmuo, su kuriuo yra sudaryta civilinė sutartis, netobulino kvalifikacijos šio įstatymo 10 straipsnio 3 dalyje nustatyta tvarka.
 
 
-4. Jeigu nevykdomi šio straipsnio 1 dalyje nurodyti reikalavimai, registruotų augalų apsaugos produktų registravimo duomenys turi būti patikrinti. Tarnyba turi pareikalauti, kad pareiškėjas pateiktų papildomos informacijos, būtinos augalų apsaugos produktams įvertinti. Registracija gali būti pratęsta laikotarpiui, kuris būtinas informacijai pateikti ir duomenims pakartotinai įvertinti.
 
 
 
 
-5. Augalų apsaugos produktai, kurių naujos veikliosios medžiagos neįrašytos į šio įstatymo 5 straipsnio 3 dalyje nurodytą veikliųjų medžiagų sąrašą, gali būti registruojami laikinai, bet ne ilgesniam kaip 3 metų laikotarpiui, Europos Komisijai patvirtinus, kad duomenys dėl numatyto veikliųjų medžiagų naudojimo įvertinimo yra išsamūs.
+6. Prekybos leidimo turėtojas, įspėtas apie prekybos leidimo galiojimo sustabdymą, turi pašalinti prekybos leidime nurodytos veiklos pažeidimus per tos veiklos, susijusios su augalų apsaugos produktų įvežimu, vežimu, saugojimu, naudojimu ir tiekimu rinkai, priežiūrą vykdančios institucijos nustatytą terminą.
 
 
 
 
-6. Tarnyba, nustačiusi, kad veikliosios medžiagos gali atitikti šio įstatymo 4 straipsnio 3 dalies reikalavimus ir kad augalų apsaugos produktai gali atitikti šio įstatymo 4 straipsnio 4 dalies ir šio straipsnio 1 dalies 2–6 punktų reikalavimus, nedelsdama praneša kitų Europos Sąjungos valstybių narių ir Europos ekonominės erdvės valstybių įgaliotoms institucijoms ir Europos Komisijai apie duomenų vertinimo rezultatus ir augalų apsaugos produktų įregistravimo sąlygas, pateikdama šio įstatymo 20 straipsnio 1 dalyje nurodytą informaciją. 
+7. Prekybos leidimo galiojimas sustabdomas, jeigu prekybos leidimo turėtojas, įspėtas apie prekybos leidimo galiojimo sustabdymą, per veiklos, susijusios su augalų apsaugos produktų įvežimu, vežimu, saugojimu, naudojimu ir tiekimu rinkai, priežiūrą vykdančios institucijos nustatytą protingumo kriterijus atitinkantį terminą, bet ne ilgesnį kaip trys mėnesiai, pažeidimams pašalinti, nepašalina nustatytų pažeidimų, dėl kurių prekybos leidimo turėtojas buvo įspėtas apie prekybos leidimo galiojimo sustabdymą.
 
 
 
 
-7. Jeigu liekanos, atsirandančios panaudojus augalų apsaugos produktą, pagal gerą augalų apsaugos praktiką turi kenksmingą poveikį žmonių ir gyvūnų sveikatai bei gruntiniams vandenims arba aplinkai, Tarnyba, remdamasi Europos Komisijos vertinimo rezultatais, panaikina augalų apsaugos produktų laikiną įregistravimą. 
+8. Jeigu prekybos leidimo turėtojas pateikia dokumentus, kuriais įrodoma, kad pažeidimai, dėl kurių buvo sustabdytas prekybos leidimo galiojimas, pašalinti, prekybos leidimo galiojimo sustabdymas panaikinamas ne vėliau kaip per 7 kalendorines dienas nuo šių dokumentų pateikimo.
 
 
 
 
-8. Jeigu po 3 metų Europos Komisijos sprendimas dėl veikliųjų medžiagų įrašymo į jų sąrašą dar nepriimtas, Tarnyba išimties tvarka gali prašyti pratęsti laikinosios registracijos terminą, per kurį būtų galima išsamiai išnagrinėti dokumentus ar papildomą informaciją. 
+9. Prekybos leidimo galiojimas panaikinamas, kai:
 
 
+1) sustabdžius prekybos leidimo galiojimą, prekybos leidimo turėtojas tęsia veiklą;
 
 
-9. Laikinai įregistruojant augalų apsaugos produktus, laikomasi šio straipsnio 2 ir 4 dalių nuostatų. 
 
 
+2) prekybos leidimo turėtojas po prekybos leidimo galiojimo sustabdymo per Tarnybos nustatytą terminą nepašalina nustatytų pažeidimų, dėl kurių prekybos leidimo galiojimas buvo sustabdytas;
 
 
-10. Dėl kiekvienos paraiškos pradedama atskira byla. Kiekvienoje byloje turi būti paraiška, sprendimas dėl augalų apsaugos produktų registravimo, jų toksikologinis, ekotoksikologinis, išlikimo ir pasiskirstymo aplinkoje, fizikinių ir cheminių savybių, biologinio efektyvumo įvertinimas, analizės metodų pripažinimas galiojančiais, Sveikatos apsaugos ministerijos įgaliotos institucijos pateiktos rekomendacijos dėl didžiausių leistinų liekanų kiekių, Tarnybos patvirtinta etiketė lietuvių kalba pagal šio įstatymo 17 straipsnio reikalavimus ir augalų apsaugos produkto registracijos liudijimo kopija. Šie duomenys gali būti pateikti Europos Sąjungos valstybių narių ir kitų Europos ekonominės erdvės valstybių įgaliotoms institucijoms ir Europos Komisijai jų prašymu.
 
 
+3) to prašo prekybos leidimo turėtojas;
 
 
-11. Tarnyba, vadovaudamasi Europos Sąjungos senų ir naujų veikliųjų medžiagų peržiūros programos išvadomis, žemės ūkio ministro nustatyta tvarka registruoja augalų apsaugos produktus, išduoda registracijos liudijimus, panaikina registraciją ar keičia augalų apsaugos produktų naudojimo reglamentus. 
 
 
+4) prekybos leidimo turėtojas, fizinis asmuo, mirė;
 
 
-12. Augalų apsaugos produktų fizikinės ir cheminės savybės ir analizės metodai, rizika žmonių sveikatai ir aplinkai, biologinis efektyvumas vertinami pagal Europos Komisijos tos srities metodinius nurodymus ir kitus tarptautiniu mastu pripažįstamus vertinimo kriterijus.
 
 
+5) prekybos leidimo turėtojas, juridinis asmuo, yra likviduotas.
 
 
-13. Augalų apsaugos produktų įvertinimo ir sprendimų priėmimo tvarkos aprašą tvirtina žemės ūkio ministras, suderinęs su aplinkos ministru ir sveikatos apsaugos ministru.
 
 
 
 
-14. Tarnyba apie augalų apsaugos produktų įregistravimą, perregistravimą, naudojimo reglamentų pakeitimą, naudojimo išplėtimą, registracijos panaikinimą, apribojimą arba uždraudimą skelbia Tarnybos interneto tinklalapyje.
+10. Jeigu pažeidimas yra mažareikšmis, kuriuo nepadaryta esminė žala šio įstatymo ir Europos Sąjungos teisės aktų, reglamentuojančių augalų apsaugos produktų apyvartą, saugomiems interesams ir kuriuo nepadaryta esminė žala aplinkai, žmonių ir gyvūnų sveikatai, ir prekybos leidimo turėtojas nutraukė veiksmus, kuriais pažeidžiama teisė, pašalino veiksmų padarinius ir atlygino žalą, o šio įstatymo reikalavimų laikymasis gali būti užtikrintas kitais būdais, Tarnyba, vadovaudamasi teisingumo ir protingumo kriterijais, gali prekybos leidimo turėtojo neįspėti apie prekybos leidimo galiojimo sustabdymą, nestabdyti ir (ar) nenaikinti prekybos leidimo galiojimo.
  
 
 
@@ -444,20 +300,55 @@ AUGALŲ APSAUGOS PRODUKTŲ REGISTRACIJA
 
 
 
-7 straipsnis. Augalų apsaugos produktų perregistravimas
+6 straipsnis. Reikalavimai prekybos leidimo turėtojams
 
 
-1. Pasibaigus registracijos laikotarpiui, augalų apsaugos produktai gali būti perregistruojami, jeigu pareiškėjas pateikia paraišką ir patikrinus duomenis nustatoma, kad laikomasi šio įstatymo 6 straipsnio 1 dalyje nustatytų reikalavimų. 
+1. Prekybos leidimo turėtojai privalo:
 
 
-
-
-2. Augalų apsaugos produktui, registruotam pagal šio įstatymo reikalavimus, perregistruoti pareiškėjas pateikia paraišką ir papildomus duomenis, jeigu jų yra, apie produkto naudojimą, poveikį žmonėms, gyvūnams ir aplinkai. 
+1) vykdyti veiklą prekybos leidime nurodytoje vietoje ir laikytis augalų apsaugos produktų tiekimo rinkai, reklamavimo ir naudojimo reikalavimų, nustatytų šio įstatymo 4 straipsnio 1, 2 ir 3 dalyse ir Augalų apsaugos produktų įvežimo, vežimo, saugojimo, naudojimo, tiekimo rinkai taisyklėse;
 
 
 
 
-3. Jeigu augalų apsaugos produktas buvo įregistruotas iki šio įstatymo įsigaliojimo, pareiškėjas pateikia duomenis pagal šio įstatymo 4 straipsnio 3 ir 4 dalių reikalavimus.
+2) tvarkyti augalų apsaugos produktų apskaitą šio įstatymo 4 straipsnio 4 dalyje nustatyta tvarka;
+
+
+
+
+3) teikti statistinius duomenis apie parduodamus augalų apsaugos produktus Lietuvos statistikos departamentui, vadovaudamiesi 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1185/2009 dėl pesticidų statistikos (OL 2009 L 324, p. 1) (toliau – Reglamentas (EB) Nr. 1185/2009);
+
+
+
+
+4) užtikrinti, kad profesionaliajam naudojimui skirti augalų apsaugos produktai būtų parduodami tik augalų apsaugos produktų profesionaliesiems naudotojams ir jiems būtų suteikta informacija apie šių produktų naudojimą, riziką žmonių sveikatai ir aplinkai, taikytinas rizikos valdymo priemones, nurodytas augalų apsaugos produkto etiketėje;
+
+
+
+
+5) užtikrinti, kad parduodant augalų apsaugos produktus fiziniams asmenims, juridinio asmens darbuotojams, kurie nėra augalų apsaugos produktų profesionalieji naudotojai, būtų suteikta informacija, nurodyta šių augalų apsaugos produktų etiketėje, kurioje pateikta informacija turi atitikti registracijos liudijime nurodytus reikalavimus, taip pat informacija apie šių augalų apsaugos produktų naudojimo keliamą poveikį žmonių sveikatai ir aplinkai, tinkamą apsaugą, tvarkymą, purškimą ir saugų šalinimą;
+
+
+
+
+6) laikytis teisės aktuose nustatytų darbų saugos, asmeninės apsaugos, aplinkos apsaugos, sveikatos priežiūros, bendrųjų priešgaisrinės saugos, atliekų tvarkymo reikalavimų;
+
+
+
+
+7) sudaryti sąlygas veiklos, susijusios su augalų apsaugos produktų įvežimu, vežimu, saugojimu, naudojimu ir tiekimu rinkai, priežiūrą vykdančios institucijos pareigūnams tikrinti su prekybos leidime nurodyta veikla susijusią veiklą.
+
+
+
+
+
+
+2. Prekybos leidimo turėtojas, fizinis asmuo, privalo turėti augalų apsaugos kursų baigimo ar kitą jam prilyginamą Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje išduotą pažymėjimą ir tobulinti kvalifikaciją šio įstatymo 10 straipsnio 3 dalyje nustatyta tvarka ir terminais.
+
+
+
+
+3. Prekybos leidimo turėtojas, juridinis asmuo, prekiaujantis augalų apsaugos produktais, privalo turėti pakankamai darbuotojų, dirbančių pagal darbo sutartis, ar asmenų, su kuriais yra sudaryta civilinė sutartis, turinčių augalų apsaugos kursų baigimo ar kitą jam prilyginamą Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje išduotą pažymėjimą ir tobulinančių kvalifikaciją šio įstatymo 10 straipsnio 3 dalyje nustatyta tvarka ir terminais.
  
 
 
@@ -465,569 +356,105 @@ AUGALŲ APSAUGOS PRODUKTŲ REGISTRACIJA
 
 
 
-8 straipsnis. Augalų apsaugos produktų naudojimo reglamentų keitimas
+7 straipsnis. Augalų apsaugos produktų įvežimo iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių reikalavimai
 
 
-1. Augalų apsaugos produktų naudojimo reglamentai gali būti keičiami:
+1. Leidžiama į Lietuvos Respubliką iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių įvežti tik Lietuvos Respublikoje registruotus augalų apsaugos produktus, kurių kodas pagal Kombinuotąją nomenklatūrą (KN) – ex 3808, išskyrus augalų apsaugos produktus, skirtus moksliniams tyrimams.
 
 
-1) remiantis naujomis mokslo žiniomis;
 
 
+2. Įvežant iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių augalų apsaugos produktus, būtina turėti vienkartinį leidimą įvežti į Lietuvos Respubliką augalų apsaugos produktus iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių (toliau – įvežimo iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių vienkartinis leidimas). Įvežimo iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių vienkartinių leidimų tikrinimo tvarka nustatoma Augalų apsaugos produktų įvežimo, vežimo, saugojimo, naudojimo, tiekimo rinkai taisyklėse.
 
 
-2) gavus augalų apsaugos produktų registracijos liudijimo savininko prašymą.
 
 
+3. Įvežimo iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių vienkartinius leidimus išduoda Tarnyba. Šių leidimų išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo, galiojimo panaikinimo taisykles tvirtina Vyriausybė. Įvežimo iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių vienkartiniai leidimai išduodami ne vėliau kaip per 5 darbo dienas nuo visų dokumentų tokiam leidimui gauti pateikimo dienos.
 
 
 
 
-2. Augalų apsaugos produktų naudojimo reglamentai gali būti keičiami pareiškėjo prašymu, pateikus dokumentus apie produkto veiksmingumą ir liekanas.
+4. Įvežimo iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių vienkartinis leidimas išduodamas fiziniams ir juridiniams asmenims, jeigu:
 
 
+1) augalų apsaugos produktų saugojimo vieta atitinka Augalų apsaugos produktų įvežimo, vežimo, saugojimo, naudojimo, tiekimo rinkai taisyklėse nurodytus reikalavimus;
 
 
-3. Keičiant augalų apsaugos produktų naudojimo reglamentus, laikomasi šio įstatymo 6 straipsnio 1 dalies reikalavimų ir kitų Lietuvos Respublikos teisės aktų nuostatų.
- 
 
 
+2) pateikiami dokumentai, kuriais patvirtinama, kad iki augalų apsaugos produktų, įvežamų iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių, galiojimo laiko pabaigos yra likę ne mažiau kaip vieni metai;
 
 
 
 
-9 straipsnis. Augalų apsaugos produktų naudojimo mažais plotais auginamiems augalams plėtra
+3) augalų apsaugos produktai yra supakuoti, suklasifikuoti ir paženklinti Cheminių medžiagų ir preparatų įstatymo nustatyta tvarka. Ženklinimas turi atitikti Reglamento (ES) Nr. 547/2011 I priede nustatytus reikalavimus. Ženklinimo reikalavimai netaikomi augalų apsaugos produktams, įvežamiems iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių ir skirtiems moksliniams tyrimams.
 
 
-1. Paraiškas išplėsti įregistruotų augalų apsaugos produktų naudojimą mažais plotais auginamiems augalams gali pateikti su žemės ūkio veikla susijusios mokslo įstaigos, augintojų asociacijos arba profesionalieji naudotojai. 
 
 
 
 
-2. Tarnyba išplečia registruotų augalų apsaugos produktų naudojimą mažais plotais auginamiems augalams, jeigu:
+5. Įvežimo iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių vienkartinio leidimo galiojimas gali būti sustabdomas tos institucijos nustatytam protingumo kriterijus atitinkančiam terminui, bet ne ilgesniam kaip vienas mėnuo, kad pažeidimai būtų pašalinti, jeigu veiklos, susijusios su augalų apsaugos produktų įvežimu, vežimu, saugojimu, naudojimu ir tiekimu rinkai, priežiūrą vykdanti institucija nustato ar gauna informaciją, duomenis iš kitų kompetentingų institucijų, kad įvežimo iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių vienkartinio leidimo turėtojai, siekdami augalų apsaugos produktus įvežti į Lietuvos Respubliką iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių, pažeidė įstatymų, kitų teisės aktų, reglamentuojančių augalų apsaugos produktų įvežimo iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių, reikalavimus.
 
 
-1) su žemės ūkio veikla susijusios mokslo įstaigos, augintojų asociacijos arba profesionalieji naudotojai apie šių produktų veiksmingumą ir liekanas pateikė dokumentus, pagrindžiančius naudojimo išplėtimą;
 
 
+6. Įvežimo iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių vienkartinio leidimo turėtojui pateikus pažeidimų, dėl kurių buvo sustabdytas įvežimo iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių vienkartinio leidimo galiojimas, pašalinimo įrodymo dokumentus, įvežimo iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių vienkartinio leidimo galiojimo sustabdymas panaikinamas ne vėliau kaip per 5 darbo dienas nuo šių dokumentų pateikimo.
 
 
-2) įvykdytos šio įstatymo 6 straipsnio 1 dalies 3, 4 ir 5 punktuose nustatytos sąlygos ir augalų apsaugos produktas gali veiksmingai naikinti kenksminguosius organizmus, neturi nepageidautino poveikio augalams ar augaliniams produktams, nesukelia nereikalingų kančių ir skausmo stuburiniams gyvūnams, neturi tiesioginio arba netiesioginio kenksmingo poveikio žmonių ar gyvūnų sveikatai (per geriamąjį vandenį, maistą, pašarus), nedaro neleistino poveikio aplinkai. Ypač atkreipiamas dėmesys į šių produktų išlikimą ir pasiskirstymą aplinkoje, geriamojo ir gruntinio vandens teršimą, poveikį naudingoms augalų ir gyvūnų rūšims;
 
 
+7. Įvežimo iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių vienkartinio leidimo galiojimas panaikinamas, jeigu:
 
 
-3) naudojimo išplėtimas susijęs su mažais plotais auginamais augalais, kurių sąrašą tvirtina žemės ūkio ministras.
+1) augalų apsaugos produktų saugojimo vietos neatitinka Augalų apsaugos produktų įvežimo, vežimo, saugojimo, naudojimo, tiekimo rinkai taisyklėse nurodytų reikalavimų ir per veiklos, susijusios su augalų apsaugos produktų įvežimu, vežimu, saugojimu, naudojimu, tiekimu rinkai, priežiūrą vykdančios institucijos nustatytą laikotarpį įvežimo iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių vienkartinio leidimo turėtojas nepašalina nurodytų pažeidimų;
 
 
 
 
+2) įvežimo iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių vienkartinio leidimo turėtojas po įvežimo iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių vienkartinio leidimo galiojimo sustabdymo per nustatytą terminą nepašalina nustatytų pažeidimų, dėl kurių įvežimo iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių vienkartinio leidimo galiojimas buvo sustabdytas;
 
 
-3. Tarnyba, išplėtusi augalų apsaugos produktų naudojimą mažais plotais auginamiems augalams, apie tai paskelbia oficialiai arba raštu įpareigoja augalų apsaugos registracijos liudijimų savininką papildyti įrašus etiketėse. 
- 
 
 
+3) to prašo įvežimo iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių vienkartinio leidimo turėtojas;
 
 
 
 
-10 straipsnis. Augalų apsaugos produktų registracijos panaikinimas
+4) įvežimo iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių vienkartinio leidimo turėtojas, fizinis asmuo, mirė;
 
 
-1. Augalų apsaugos produktų registracija panaikinama, jeigu:
 
 
-1) pareiškėjai dėl įregistravimo buvo pateikę suklastotus dokumentus ar neteisingą informaciją;
+5) įvežimo iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių vienkartinio leidimo turėtojas, juridinis asmuo, buvo likviduotas.
 
 
 
 
-2) veiklioji medžiaga ar augalų apsaugos produktas nebeatitinka registracijos metu nurodytų reikalavimų;
 
 
+8. Įvežimo iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių vienkartinio leidimo turėtojai privalo:
 
 
-3) yra gautas augalų apsaugos produktų registracijos liudijimo savininko prašymas panaikinti registraciją.
+1) laikytis Augalų apsaugos produktų įvežimo, vežimo, saugojimo, naudojimo, tiekimo rinkai taisyklėse nurodytų reikalavimų;
 
 
 
 
+2) tvarkyti įvežamų į Lietuvos Respubliką augalų apsaugos produktų apskaitą šio įstatymo 4 straipsnio 4 dalyje nustatyta tvarka;
 
 
-2. Tarnyba apie augalų apsaugos produktų registracijos panaikinimą praneša raštu augalų apsaugos produktų registracijos liudijimo savininkams ir nustato laikotarpį, per kurį augalų apsaugos produktai turi būti pašalinti iš rinkos arba sunaudoti turimi jų kiekiai. Šio laikotarpio trukmė priklauso nuo registracijos panaikinimo priežasčių.
- 
 
 
+3) įvežti augalų apsaugos produktus tik per pasienio kontrolės punktus, kuriuose yra įsteigti fitosanitarijos postai. Tais atvejais, kai augalų apsaugos produktai į Lietuvos Respubliką įvežami iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių per kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės teritoriją, įvežimo iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių vienkartinio leidimo turėtojas privalo pateikti vienkartinį leidimą Tarnybos pareigūnui augalų apsaugos produktų krovinio paskirties vietoje prieš atliekant augalų apsaugos produktų krovinio išleidimo į laisvą apyvartą muitinės procedūras.
 
 
 
 
-11 straipsnis. Veikliųjų medžiagų duomenų įvertinimas, ataskaitos rengimas ir teikimas Europos Komisijai
 
 
-1. Tarnyba, Europos Komisijos įgaliota parengti veikliųjų medžiagų duomenų įvertinimo ataskaitą ir ją pateikti Europos Komisijai, gavusi paraišką ir patikrinusi, ar duomenys yra išsamūs, įpareigoja pareiškėjus išsiųsti duomenis pagal šio įstatymo 4 straipsnio 3 ir 4 dalių reikalavimus kitų Europos Sąjungos valstybių narių ir Europos ekonominės erdvės valstybių įgaliotoms institucijoms ir Europos Komisijai. 
-
-
-
-
-2. Veikliųjų medžiagų duomenų įvertinimo, ataskaitos rengimo ir teikimo Europos Komisijai tvarkos aprašą tvirtina žemės ūkio ministras.
- 
-
-
-
-
-
-
-12 straipsnis. Informacijos apie galimą kenksmingą poveikį teikimas
-
-
-1. Pareiškėjai ar augalų apsaugos produktų registracijos liudijimo savininkai teikia Tarnybai visą naujausią informaciją apie bet kurių įregistruotų arba registruojamų augalų apsaugos produktų, jų veikliųjų medžiagų arba liekanų galimą kenksmingą poveikį žmonių ar gyvūnų sveikatai, aplinkai ir gruntiniam vandeniui. 
-
-
-
-
-2. Tarnyba įpareigoja pareiškėjus ar augalų apsaugos produktų registracijos liudijimo savininkus nedelsiant perduoti šio straipsnio 1 dalyje nurodytą informaciją kitų Europos Sąjungos valstybių narių ar Europos ekonominės erdvės valstybių įgaliotoms institucijoms ir Europos Komisijai.
- 
-
-
-
-
-
-
-13 straipsnis. Augalų apsaugos produktų registracijos kitose Europos Sąjungos valstybėse narėse ir Europos ekonominės erdvės valstybėse pripažinimas 
-
-
-1. Tarnyba, gavusi iš pareiškėjo paraišką įregistruoti augalų apsaugos produktus, jau įregistruotus kitose Europos Sąjungos valstybėse narėse ar Europos ekonominės erdvės valstybėse ir sąlygų palyginamumą pagrindžiančius dokumentus, privalo:
-
-
-1) nereikalauti kartoti bandymų ir tyrimų, kurie jau buvo atlikti iki augalų apsaugos produktų įregistravimo kitose Europos Sąjungos valstybėse narėse ar Europos ekonominės erdvės valstybėse, kurių žemės ūkio, fitosanitarinės ir aplinkos sąlygos, susijusios su augalų apsaugos produktų naudojimu, yra panašios į Lietuvos Respublikos sąlygas;
-
-
-
-
-2) įregistruoti augalų apsaugos produktus, jeigu jų veikliosios medžiagos, įrašytos į šio įstatymo 5 straipsnio 3 dalyje nurodytą veikliųjų medžiagų sąrašą, atitinka 1991 m. liepos 15 d. Tarybos direktyvos 91/414/EEB dėl augalų apsaugos produktų pateikimo į rinką su paskutiniais pakeitimais, padarytais 2009 m. liepos 13 d. Tarybos direktyva 2009/82/EB VI priede nustatytus vienodus principus cheminiams augalų apsaugos produktams įvertinti, ir juos įregistruoti tiek, kiek žemės ūkio, fitosanitarinės ir aplinkos sąlygos, susijusios su šių augalų apsaugos produktų naudojimu, yra panašios į Lietuvos Respublikos sąlygas.
-
-
-
-
-
-
-2. Tarnyba, pripažindama augalų apsaugos produktų registraciją kitose Europos Sąjungos valstybėse narėse ar Europos ekonominės erdvės valstybėse, bet siekdama išvengti dėl šalių mitybos skirtumų galimos įtakos maisto užterštumui liekanomis, viršijančiomis leistiną paros suvartojimo normą, gali riboti augalų apsaugos produktų naudojimą.
-
-
-
-
-3. Registruojant augalų apsaugos produktus, įregistruotus kitose Europos Sąjungos valstybėse narėse ar Europos ekonominės erdvės valstybėse, pareiškėjų sutikimu gali būti keičiami šių produktų naudojimo reglamentai ir atsižvelgiama į Lietuvos Respublikai svarbias žemės ūkio, fitosanitarines ar aplinkos sąlygas, kuriomis naudojami šie produktai. 
-
-
-
-
-4. Tarnyba praneša Europos Komisijai apie bandymų ir tyrimų pakartojimą arba atsisakymą įregistruoti augalų apsaugos produktus, kurie jau buvo įregistruoti kitose Europos Sąjungos valstybėse narėse ar Europos ekonominės erdvės valstybėse, taip pat pateikia pareiškėjų pagrindimą dėl žemės ūkio, fitosanitarinių ir aplinkos sąlygų, susijusių su augalų apsaugos produktų naudojimu Europos Sąjungos valstybių narių ir kitų Europos ekonominės erdvės valstybių regionuose, kuriuose buvo atlikti bandymai arba įregistruoti minėti produktai, panašumo į Lietuvos Respublikos sąlygas. Tarnybos pranešime turi būti nurodytos bandymų ir tyrimų kartojimo arba atsisakymo įregistruoti augalų apsaugos produktus priežastys.
-
-
-
-
-5. Jeigu Tarnyba atsisako pripažinti ir patvirtinti bandymus ir tyrimus, atliktus panašių klimato sąlygų Europos Sąjungos valstybėse narėse ar kitose Europos ekonominės erdvės valstybėse, arba leisti tiekti Lietuvos Respublikos rinkai augalų apsaugos produktus, galutinį sprendimą dėl žemės ūkio, fitosanitarinių ar aplinkos sąlygų panašumo priima Europos Komisija. 
- 
-
-
-
-
-
-
-14 straipsnis. Augalų apsaugos produktų, įregistruotų pagal šio įstatymo 13 straipsnį, registracijos apribojimas arba uždraudimas
-
-
-Jeigu yra pagrindas manyti, kad įregistruoti arba privalomi registruoti pagal šio įstatymo 13 straipsnį augalų apsaugos produktai kelia pavojų žmonių ar gyvūnų sveikatai arba aplinkai, Tarnyba gali laikinai apriboti arba uždrausti augalų apsaugos produktų naudojimą ir prekybą Lietuvos Respublikos teritorijoje ir apie tai nedelsdama praneša Europos Komisijai ir Europos Sąjungos valstybių narių ir kitų Europos ekonominės erdvės valstybių įgaliotoms institucijoms, nurodydama apribojimų arba uždraudimo motyvus.
- 
-
-
-
-
-
-
-15 straipsnis. Duomenų augalų apsaugos produktams registruoti apsauga ir slaptumas 
-
-
-1. Tarnyba, įregistruodama augalų apsaugos produktus, nesinaudoja duomenimis, pateiktais pagal šio įstatymo 4 straipsnio 3 dalies reikalavimus, kitų pareiškėjų naudai:
-
-
-1) jeigu pareiškėjai nepateikia augalų apsaugos produktų registracijos liudijimo savininkų rašytinių patvirtinimų, kad galima pasinaudoti tokia informacija;
-
-
-
-
-2) 10 metų po naujų veikliųjų medžiagų, skirtų Europos Sąjungos valstybių narių ir kitų Europos ekonominės erdvės valstybių rinkai, įrašymo pirmą kartą į Europos Komisijos patvirtintą veikliųjų medžiagų sąrašą;
-
-
-
-
-3) 10 metų po senų veikliųjų medžiagų įregistravimo Lietuvos Respublikoje;
-
-
-
-
-4) 5 metus nuo papildomos informacijos apie veikliųjų medžiagų, įrašytų į šio įstatymo 5 straipsnio 3 dalyje nurodytą veikliųjų medžiagų sąrašą, sąlygų pakeitimą ar jų išlaikymą pateikimo. Jeigu 5 metų laikotarpis baigiasi anksčiau negu laikotarpis, nustatytas šio straipsnio 1 dalies 2 ir 3 punktuose, duomenų apsaugos laikotarpis pratęsiamas iki šio straipsnio 1 dalies 2 ir 3 punktuose nurodyto termino.
-
-
-
-
-
-
-2. Tarnyba, įregistruodama augalų apsaugos produktus, nesinaudoja duomenimis, pateiktais pagal šio įstatymo 4 straipsnio 4 dalies reikalavimus, kitų pareiškėjų naudai:
-
-
-1) jeigu pareiškėjai nepateikia augalų apsaugos produktų registracijos liudijimo savininkų rašytinių patvirtinimų, kad galima pasinaudoti tokia informacija;
-
-
-
-
-2) 10 metų po augalų apsaugos produktų įregistravimo, jeigu veikliosios medžiagos įrašytos pirmą kartą į Europos Komisijos patvirtintą veikliųjų medžiagų sąrašą bet kurioje Europos Sąjungos valstybėje narėje ar kitoje Europos ekonominės erdvės valstybėje;
-
-
-
-
-3) 10 metų po pirmųjų augalų apsaugos produktų įregistravimo Lietuvos Respublikoje, jeigu augalų apsaugos produktai buvo įregistruoti anksčiau negu jų veikliosios medžiagos įrašytos į šio įstatymo 5 straipsnio 3 dalyje nurodytą veikliųjų medžiagų sąrašą.
-
-
-
-
-
-
-3. Tarnyba, išnagrinėjusi paraišką dėl augalų apsaugos produktų įregistravimo ir nustačiusi, kad veikliosios medžiagos, pagamintos kitų gamintojų ar naudojant kitus gamybos procesus, skiriasi nuo nurodytųjų dokumentuose, kuriais remiantis veikliosios medžiagos pirmą kartą buvo įrašytos į šio įstatymo 5 straipsnio 3 dalyje nurodytą veikliųjų medžiagų sąrašą, apie tai praneša Europos Komisijai.
-
-
-
-
-4. Pareiškėjai, ketinantys teikti paraiškas įregistruoti augalų apsaugos produktus, kurių veikliosios medžiagos įrašytos į šio įstatymo 5 straipsnio 3 dalyje nurodytą veikliųjų medžiagų sąrašą, prieš atlikdami bandymus su stuburiniais gyvūnais, pateikia Tarnybai paklausimą dėl ketinamų įregistruoti augalų apsaugos produktų ir jau įregistruotųjų tapatumo. Tarnyba nurodo pareiškėjams ankstesnių augalų apsaugos produktų registracijos liudijimų savininkus, jų adresus ir praneša augalų apsaugos produktų registracijos liudijimų savininkams apie būsimuosius pareiškėjus, nurodydama jų adresus. 
-
-
-
-
-5. Jeigu prašoma duomenų dėl veikliųjų medžiagų, kurios jau buvo Lietuvos Respublikos rinkoje iki šio įstatymo įsigaliojimo, įrašymo į Europos Komisijos patvirtintą veikliųjų medžiagų sąrašą, Tarnyba skatina augalų apsaugos produktų registracijos liudijimo savininkus ir pareiškėjus pasidalyti informacija, kad būtų apriboti pakartotiniai bandymai su stuburiniais gyvūnais. 
-
-
-
-
-6. Pareiškėjai ir anksčiau įregistruotų augalų apsaugos produktų registracijos liudijimo savininkai turi siekti susitarimo dėl keitimosi informacija, kad būtų išvengta bandymų su stuburiniais gyvūnais kartojimo. Nepavykus susitarti, Tarnyba apie tai praneša Lietuvos laboratorinių gyvūnų naudojimo etikos komisijai prie Valstybinės maisto ir veterinarijos tarnybos.
- 
-
-
-
-
-
-
-16 straipsnis. Duomenų, pateiktų augalų apsaugos produktams registruoti, apsaugos ir slaptumo taikymo išimtys 
-
-
-1. Tarnyba užtikrina pareiškėjų pateiktos informacijos, susijusios su pramoninėmis ir komercinėmis paslaptimis, slaptumą, jeigu pareiškėjai pateikia rašytinius prašymus. Slaptumo nuostata taikoma nepažeidžiant Lietuvos Respublikos ratifikuotos Konvencijos dėl teisės gauti informaciją, visuomenės dalyvavimo priimant sprendimus ir teisės kreiptis į teismus aplinkosaugos klausimais nuostatų.
-
-
-
-
-2. Slaptais nelaikomi šie duomenys:
-
-
-1) veikliosios medžiagos ar medžiagų pavadinimai ir kiekiai bei augalų apsaugos produktų pavadinimai;
-
-
-
-
-2) kitų medžiagų, kurios yra klasifikuojamos ir privalo būti nurodytos pagal cheminių medžiagų ir preparatų klasifikavimo, ženklinimo ir pakavimo teisės aktus, patvirtintus aplinkos ministro ir sveikatos apsaugos ministro, pavadinimai;
-
-
-
-
-3) veikliųjų medžiagų ir augalų apsaugos produktų fizikinės ir cheminės savybės;
-
-
-
-
-4) veikliųjų medžiagų ar augalų apsaugos produktų kenksmingumo pašalinimo būdai; 
-
-
-
-
-5) tyrimų, atliktų veikliųjų medžiagų ar augalų apsaugos produktų veiksmingumui ir nekenksmingumui žmonėms, gyvūnams, augalams ir aplinkai nustatyti, rezultatų santraukos;
-
-
-
-
-6) rekomenduojamos saugos priemonės ir metodai, siekiant sumažinti naudojimo, saugojimo, vežimo, pakrovimo ir iškrovimo, gaisro ar kitokį pavojų;
-
-
-
-
-7) šio įstatymo 6 straipsnio 1 dalies 3 ir 4 punktuose nurodyti analizės metodai;
-
-
-
-
-8) augalų apsaugos produktų, jų fasuotės ir pakuotės sunaikinimo būdai;
-
-
-
-
-9) kenksmingumo pašalinimo būdai, augalų apsaugos produktus atsitiktinai išpylus ar jiems nutekėjus;
-
-
-
-
-10) apie pirmosios medicinos pagalbos suteikimą ir žmonių gydymą apsinuodijimo ar sužalojimo atveju.
-
-
-
-
-
-
-3. Jeigu anksčiau buvusią slaptą informaciją pareiškėjai paskelbia viešai, jie privalo apie tai pranešti Tarnybai.
- 
-
-
-
-
-
-
-17 straipsnis. Informacija augalų apsaugos produktų etiketėse
-
-
-1. Augalų apsaugos produktų fasuočių ir pakuočių etiketėse turi būti aiškiai ir nenuplaunamai pažymėta:
-
-
-1) augalų apsaugos produkto pavadinimas;
-
-
-
-
-2) augalų apsaugos produkto registracijos liudijimo savininkai (vardai, pavardės ar pavadinimai) ir adresai, registracijos numeriai, taip pat asmenų, atsakingų už augalų apsaugos produktų galutinį fasavimą, pakavimą ir ženklinimą arba už rinkai patiektų augalų apsaugos produktų galutinį ženklinimą, vardai, pavardės ar pavadinimai ir adresai, jeigu jie yra skirtingi;
-
-
-
-
-3) veikliųjų medžiagų pavadinimai ir kiekiai. Pavadinimai turi atitikti nurodytuosius pavojingų cheminių medžiagų ir preparatų suderintos klasifikacijos ir ženklinimo sąraše, patvirtintame aplinkos ministro ir sveikatos apsaugos ministro. jeigu veiklioji medžiaga neįrašyta į šį sąrašą, nurodomas Tarptautinės standartizacijos organizacijos (ISO) nustatytas bendras pavadinimas. Jeigu tokio pavadinimo nėra, veikliųjų medžiagų cheminiai pavadinimai nurodomi vadovaujantis Tarptautinės teorinės ir taikomosios chemijos sąjungos (IUPAC) cheminių medžiagų nomenklatūra; 
-
-
-
-
-4) augalų apsaugos produktų kiekis gramais, kilogramais arba mililitrais, litrais; 
-
-
-
-
-5) siuntos numeris; 
-
-
-
-
-6) informacija apie augalų apsaugos produkto sudedamąsias dalis, pateikiama pagal cheminių medžiagų ir preparatų klasifikavimo, ženklinimo, pakavimo teisės aktus, patvirtintus aplinkos ministro ir sveikatos apsaugos ministro, ir informacija apie pirmosios medicinos pagalbos suteikimą įvykus nelaimingam atsitikimui; 
-
-
-
-
-7) galimo pavojaus žmonėms, gyvūnams arba aplinkai pobūdis, nurodytas rizikos frazėmis; 
-
-
-
-
-8) žmonių, gyvūnų ar aplinkos apsaugos priemonės, nurodytos saugos frazėmis, ir operatoriaus asmeninės apsaugos priemonės;
-
-
-
-
-9) augalų apsaugos produktų veikimo grupė (akaricidas, baktericidas, fungicidas, herbicidas, insekticidas, moliuskocidas, nematocidas, augalų augimo reguliatorius, repelentas, rodenticidas, semichemikalas, talpicidas, viricidas);
-
-
-
-
-10) augalų apsaugos produktų forma (dulkiniai milteliai, granulės, tabletės tiesioginiam naudojimui, drėgmę sugeriantys milteliai, vandenyje disperguojančios granulės, vandenyje disperguojančios tabletės, emulguojančios granulės, emulguojantys milteliai, vandenyje tirpūs milteliai, vandenyje tirpūs milteliai sėkloms beicuoti, vandenyje tirpios granulės, vandenyje tirpios tabletės, tirpus koncentratas, tirpalas sėkloms beicuoti, koncentruota emulsija, dispersinis koncentratas, aliejinė vandeninė emulsija, emulsija sėkloms beicuoti, mikroemulsija, vandeninė koncentruota suspensija, takus koncentratas sėkloms beicuoti, vandeninė suspensija kapsulėmis, aliejinė koncentruota suspensija, vandeninė suspoemulsija, aerozolis);
-
-
-
-
-11) augalai ar augaliniai produktai, kuriems skirtas augalų apsaugos produktas, ir specifinės žemės ūkio, fitosanitarinės ir aplinkos sąlygos, kuriomis šis produktas gali būti naudojamas arba neturėtų būti naudojamas;
-
-
-
-
-12) augalų apsaugos produkto naudojimo rekomendacijos;
-
-
-
-
-13) jeigu reikia, saugus laikotarpis nuo augalų apsaugos produkto naudojimo iki augalų sėjos arba sodinimo, vėliau sėjamų ar sodinamų augalų, žmonių ar gyvūnų patekimo į nupurkštus plotus, derliaus nuėmimo, naudojimo maistui ar pašarui;
-
-
-
-
-14) informacija apie galimą fitotoksiškumą, veislių jautrumą ir bet kokį kitą tiesioginį ar netiesioginį neigiamą poveikį augalams ar augaliniams produktams, nurodant laikotarpius, kurių reikia laikytis nuo augalų apsaugos produktų naudojimo iki augalų, kurie gali būti jautrūs augalų apsaugos produktams, sėjos ar sodinimo arba augalų sėjomainos;
-
-
-
-
-15) nuoroda „Prieš naudodami augalų apsaugos produktą perskaitykite naudojimo instrukciją“, jeigu pridedami šio straipsnio 2 dalyje nurodyti informaciniai lapeliai;
-
-
-
-
-16) nurodymai dėl nepanaudotų augalų apsaugos produktų, fasuočių ir pakuočių saugaus sunaikinimo;
-
-
-
-
-17) galiojimo laikas nustatytomis saugojimo sąlygomis, jeigu galiojimo laikas trumpesnis kaip 2 metai;
-
-
-
-
-18) augalų apsaugos produktų naudotojai – profesionalieji ar neprofesionalieji.
-
-
-
-
-
-
-2. Jeigu šio straipsnio 1 dalyje nurodyti reikalavimai netelpa fasuotės ar pakuotės etiketėje, Tarnyba gali leisti pridėti prie fasuočių ar pakuočių atskirus informacinius lapelius, kuriuose būtų nurodomi šio straipsnio 1 dalies 12, 13, 14 punktuose nustatyti reikalavimai. Informaciniai lapeliai laikomi etikečių dalimis.
-
-
-
-
-3. Augalų apsaugos produktų etiketėse neleidžiama vartoti žodžių „netoksiškas“, „nekenksmingas“ ar panašių sąvokų, tačiau galima nurodyti, kad augalų apsaugos produktai gali būti naudojami bičių ar kitų gyvūnų aktyvumo metu, žydint žemės ūkio augalams ar piktžolėms, jeigu jų keliamas pavojus yra minimalus. 
-
-
-
-
-4. Tiekiamų rinkai augalų apsaugos produktų etiketės turi būti lietuvių kalba. Pareiškėjas privalo pateikti Tarnybai tvirtinti etikečių projektus.
-
-
-
-
-5. Tarnyba turi teisę reikalauti, kad ant fasuočių ir pakuočių būtų aiškiai ir nenuplaunamai pažymėta papildoma informacija, jeigu ji būtina žmonių, gyvūnų ar aplinkos apsaugai. Tarnyba nedelsdama praneša kitų Europos Sąjungos valstybių narių ir Europos ekonominės erdvės valstybių įgaliotoms institucijoms ir Europos Komisijai apie kiekvieną išimtinį reikalavimą, pateikia papildomą informaciją ir nurodo tokių reikalavimų priežastis. Sprendimas šiuo klausimu priimamas Europos Komisijos nustatyta tvarka. Tarnyba turi teisę laikytis savo reikalavimo, kol bus priimtas sprendimas. 
- 
-
-
-
-
-
-
-18 straipsnis. Augalų apsaugos produktų moksliniai tyrimai 
-
-
-1. Neįregistruotų augalų apsaugos produktų moksliniai tyrimai, galintys turėti poveikį aplinkai, leidžiami tik Tarnybai juos įrašius į tyrimams naudojamų augalų apsaugos produktų sąrašą ir tik nustatytomis sąlygomis. 
-
-
-
-
-2. Pareiškėjai prieš 6 mėnesius iki mokslinių tyrimų pradžios pateikia Tarnybai paraišką ir turimus duomenis, leidžiančius įvertinti galimą poveikį žmonių ir gyvūnų sveikatai bei aplinkai, išskyrus atvejus, kai tyrimus atliekančioms institucijoms yra suteikta teisė atlikti tam tikrus mokslinius tyrimus ir yra nustatytos jų atlikimo sąlygos.
-
-
-
-
-3. Jeigu moksliniai tyrimai gali turėti neigiamą poveikį žmonių ir gyvūnų sveikatai bei aplinkai, Tarnyba gali juos uždrausti arba leisti atlikti jos nustatytomis sąlygomis. 
-
-
-
-
-4. Augalų apsaugos produktų, kurių sudėtyje yra genetiškai modifikuotų organizmų, mokslinius tyrimus reglamentuoja Lietuvos Respublikos genetiškai modifikuotų organizmų įstatymas.
- 
-
-
-
-
-
-
-19 straipsnis. Konsultavimo komisija
-
-
-1. Konsultavimo komisija sudaroma iš mokslo ir kitų institucijų atstovų. Ši komisija, teikdama Tarnybai pasiūlymus ir rekomendacijas dėl augalų apsaugos produktų įregistravimo, vadovaujasi šio įstatymo 6 straipsnio 13 dalyje nurodytu augalų apsaugos produktų įvertinimo ir sprendimų priėmimo tvarkos aprašu. 
-
-
-
-
-2. Konsultavimo komisijos sudėtį ir jos darbo reglamentą tvirtina žemės ūkio ministras.
- 
-
-
-
-
-
-
-20 straipsnis. Informacijos teikimas 
-
-
-1. Tarnyba, pasibaigus kiekvienam metų ketvirčiui, ne vėliau kaip per vieną mėnesį raštu praneša Europos Sąjungos valstybių narių ir kitų Europos ekonominės erdvės valstybių įgaliotoms institucijoms ir Europos Komisijai apie augalų apsaugos produktų registravimą arba registravimo panaikinimą pagal šio įstatymo nuostatas, nurodydama:
-
-
-1) augalų apsaugos produktų registracijos liudijimo savininkus; 
-
-
-
-
-2) augalų apsaugos produktų prekinį pavadinimą;
-
-
-
-
-3) augalų apsaugos produktų grupę;
-
-
-
-
-4) visų veikliųjų medžiagų, esančių augalų apsaugos produktų sudėtyje, pavadinimus ir kiekius;
-
-
-
-
-5) augalus ar augalinius produktus, kuriems įregistruotasis produktas skirtas;
-
-
-
-
-6) laikinai nustatytus didžiausius leistinus liekanų kiekius, jeigu jie dar nėra nustatyti Europos Sąjungos teisės aktuose;
-
-
-
-
-7) augalų apsaugos produktų registracijos panaikinimo priežastis;
-
-
-
-
-8) duomenis, būtinus laikinai nustatytų didžiausių leistinų liekanų kiekiui įvertinti. 
-
-
-
-
-
-
-2. Tarnyba kiekvienais metais parengia registruotų augalų apsaugos produktų sąrašą. Šis sąrašas pateikiamas Europos Sąjungos valstybių narių ir kitų Europos ekonominės erdvės valstybių įgaliotoms institucijoms ir Europos Komisijai. 
- 
-
-
-
-
-
-
-21 straipsnis. Prekyba analogiškais augalų apsaugos produktais
-
-
-1. Prekyba analogiškais augalų apsaugos produktais galima, jeigu šie produktai yra tiekiami Lietuvos Respublikos rinkai iš Europos Sąjungos valstybių narių ir kitų Europos ekonominės erdvės valstybių.
-
-
-
-
-2. Prekybos analogiškais augalų apsaugos produktais taisykles tvirtina žemės ūkio ministras.
- 
-
-
-
-
-
-
-22 straipsnis. Valstybės rinkliava 
-
-
-Pareiškėjai, pateikdami paraiškas įregistruoti, perregistruoti augalų apsaugos produktus, pakeisti jų naudojimo reglamentus, išplėsti įregistruotų augalų apsaugos produktų naudojimą mažais plotais auginamiems augalams, teisės aktų nustatyta tvarka sumoka valstybės rinkliavą.
+9. Įgyvendinant šio straipsnio nuostatas mutatis mutandis taikomi šio įstatymo 5 straipsnio 10 dalies reikalavimai.
  
 
 
@@ -1038,98 +465,24 @@ Pareiškėjai, pateikdami paraiškas įregistruoti, perregistruoti augalų apsau
 
 
 TREČIASIS SKIRSNIS
-VALSTYBĖS INSTITUCIJŲ KOMPETENCIJA IR FUNKCIJOS
+AUGALŲ APSAUGOS PRODUKTŲ NAUDOJIMAS, VISUOMENĖS INFORMAVIMAS
  
 
 
-23 straipsnis. Augalų apsaugos produktų valstybinė valdymo sistema
+8 straipsnis. Augalų apsaugos planas
 
 
-Augalų apsaugos produktų registravimo, įvežimo, sandėliavimo, prekybos, naudojimo ir kontrolės valstybinį valdymą pagal savo kompetenciją vykdo Tarnyba, Aplinkos ministerija ir Sveikatos apsaugos ministerija ir (arba) jų įgaliotos institucijos.
- 
+1. Kad būtų tausiai naudojami augalų apsaugos produktai ir skatinamas necheminių augalų apsaugos metodų diegimas, žemės ūkio ministras, suderinęs su sveikatos apsaugos ministru ir aplinkos ministru, tvirtina augalų apsaugos planą ne trumpiau negu penkeriems metams. Patvirtintą augalų apsaugos planą Tarnyba teikia Europos Komisijai ir kitoms valstybėms narėms.
 
 
 
 
+2. Pasibaigus penkerių metų laikotarpiui, augalų apsaugos planą Lietuvos Respublikos žemės ūkio ministerija (toliau – Žemės ūkio ministerija) kartu su Lietuvos Respublikos sveikatos apsaugos ministerija (toliau – Sveikatos apsaugos ministerija) ir Lietuvos Respublikos aplinkos ministerija (toliau – Aplinkos ministerija) privalo peržiūrėti. Tarnyba nedelsdama informuoja Europos Komisiją apie Lietuvos Respublikos augalų apsaugos plano esminius pakeitimus.
 
 
-24 straipsnis. Tarnybos kompetencija
 
 
-Tarnyba:
-
-
-1) įgyvendina valstybės politiką augalų apsaugos srityje;
-
-
-
-
-2) plėtoja tarptautinį bendradarbiavimą;
-
-
-
-
-3) rengia teisės aktų, reglamentuojančių augalų apsaugos produktų registraciją, įvežimą, sandėliavimą, prekybą, naudojimą ir kontrolę, projektus;
-
-
-
-
-4) rengia augalų apsaugos įgyvendinimo planus, programas ir koordinuoja jų įgyvendinimą;
-
-
-
-
-5) atlieka registruoti pateiktų augalų apsaugos produktų tapatumo, poveikio žmonių sveikatai ir aplinkai rizikos, fizikinių ir cheminių savybių, analizės metodų galiojimo ir biologinio efektyvumo vertinimą;
-
-
-
-
-6) registruoja augalų apsaugos produktus;
-
-
-
-
-7) rengia ir skelbia registruotų augalų apsaugos produktų sąrašus;
-
-
-
-
-8) kontroliuoja, kaip įgyvendinami Geros eksperimentinės praktikos nuostatai;
-
-
-
-
-9) vykdo augalų apsaugos produktų ženklinimo, įvežimo, sandėliavimo, prekybos ir naudojimo kontrolę;
-
-
-
-
-10) išduoda vienkartinius leidimus įvežti augalų apsaugos produktus ir leidimus jais prekiauti;
-
-
-
-
-11) parengia įvežamų ir naudojamų augalų apsaugos produktų statistines suvestines;
-
-
-
-
-12) organizuoja augalų apsaugos purkštuvų sertifikavimą, technines apžiūras ir vykdo jų kontrolę;
-
-
-
-
-13) atlieka žemės ūkio augalų ligų ir kenkėjų paplitimo stebėjimus, įvertina ligų ir kenkėjų paplitimą ir praneša žemės naudotojams apie tinkamiausią laiką naudoti augalų apsaugos priemones;
-
-
-
-
-14) kartu su kitomis institucijomis pagal patvirtintas programas moko augalų apsaugos produktų naudotojus ir prekiautojus; 
-
-
-
-
-15) atlieka kitas šio ir kitų įstatymų bei teisės aktų nustatytas funkcijas.
+3. Parengtas augalų apsaugos plano projektas, taip pat jo pakeitimo projektai skelbiami Žemės ūkio ministerijos interneto svetainėje. Visuomenė ir suinteresuotos institucijos turi teisę teikti pastabas ir pasiūlymus rengiant ar keičiant augalų apsaugos planą žemės ūkio ministro nustatyta tvarka.
  
 
 
@@ -1137,25 +490,117 @@ Tarnyba:
 
 
 
+9 straipsnis. Augalų apsaugos produktų naudojimas
 
 
-25 straipsnis. Aplinkos ministerijos kompetencija
-
-
-Aplinkos ministerija ir (arba) jos įgaliotos institucijos:
-
-
-1) išduoda leidimus perfasuoti ir perpakuoti augalų apsaugos produktus pagal cheminių medžiagų ir preparatų klasifikavimo, ženklinimo, pakavimo teisės aktus;
+1. Žemės ūkio ministras, suderinęs su aplinkos ministru ir sveikatos apsaugos ministru, tvirtina Augalų apsaugos produktų įvežimo, vežimo, saugojimo, naudojimo, tiekimo rinkai taisykles. Specialiąsias žemės naudojimo sąlygas augalų apsaugos produktų saugojimo vietoms tvirtina Vyriausybė.
 
 
 
 
-2) rengia ir tvirtina teisės aktus dėl paviršinio vandens telkinių apsaugos zonų ir pakrančių apsaugos juostų nustatymo naudojant augalų apsaugos produktus;
+2. Naudodami augalų apsaugos produktus, augalų apsaugos produktų profesionalieji naudotojai, fiziniai asmenys, juridinio asmens darbuotojai, kurie nėra augalų apsaugos produktų profesionalieji naudotojai, privalo laikytis augalų apsaugos produkto etiketėje nurodytų reikalavimų, kurie atitinka ir augalų apsaugos produkto registracijos liudijime nurodytus reikalavimus, taip pat gerosios augalų apsaugos praktikos taisyklių, kurias tvirtina žemės ūkio ministras, augalų apsaugos plane išdėstytų integruotos kenksmingųjų organizmų kontrolės principų.
 
 
 
 
-3) kontroliuoja, kaip laikomasi aplinkos apsaugos reikalavimų sandėliuojant ir naudojant augalų apsaugos produktus šio įstatymo ir kitų teisės aktų nustatyta tvarka.
+3. Profesionaliajam naudojimui skirtus augalų apsaugos produktus leidžiama naudoti tik su patikrinta augalų apsaugos produktų purškimo įranga. Augalų apsaugos produktų purškimo įrangos tikrinimo taisykles tvirtina žemės ūkio ministras. Augalų apsaugos produktų purškimo įranga tikrinama kas penkeri metai.
+Redakcija nuo 2020-01-01:
+3. Profesionaliajam naudojimui skirtus augalų apsaugos produktus leidžiama naudoti tik su patikrinta purškimo įranga. Augalų apsaugos produktų purškimo įrangos taisykles tvirtina žemės ūkio ministras. Purškimo įranga tikrinama kas treji metai.
+ 
+
+
+
+
+
+
+10 straipsnis. Augalų apsaugos kursų baigimo pažymėjimas ir kvalifikacijos tobulinimas
+
+
+1. Augalų apsaugos produktų profesionalieji naudotojai, augalų apsaugos produktų platintojai, fiziniai asmenys, augalų apsaugos produktų platintojo, juridinio asmens, darbuotojai, kurie tiesiogiai vykdo veiklą, susijusią su augalų apsaugos produktų tiekimu rinkai, dirbantys pagal darbo sutartį, ar asmenys, su kuriais yra sudaryta civilinė sutartis, augalų apsaugos konsultantai, išskyrus augalų apsaugos produktų operatorius, kurie apdoroja žemės sklypus antžemine augalų apsaugos produktų purškimo įranga, kurių veiklą prižiūri augalų apsaugos produktų profesionalieji naudotojai, turi išklausyti augalų apsaugos kursus. Mokymo programas tvirtina Žemės ūkio ministerija ar jos įgaliota institucija, suderinusi su Aplinkos ministerija ar jos įgaliota institucija. Išklausius augalų apsaugos kursus, Žemės ūkio ministerijos ar jos įgaliotos institucijos nustatyta tvarka išduodamas augalų apsaugos kursų baigimo pažymėjimas.
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytiems asmenims reikalavimas išklausyti augalų apsaugos kursus netaikomas, jeigu jie turi dokumentą, kuris išduotas ne vėliau kaip prieš penkerius metus ir kuriuo patvirtinama agronomo kvalifikacija. Šiems asmenims augalų apsaugos kursų baigimo pažymėjimas išduodamas Žemės ūkio ministerijos ar jos įgaliotos institucijos nustatyta tvarka.
+
+
+
+
+3. Šio straipsnio 1 ir 2 dalyse nurodyti asmenys privalo tobulinti kvalifikaciją Augalų apsaugos produktų įvežimo, vežimo, saugojimo, naudojimo, tiekimo rinkai taisyklėse nustatytu terminu. Kvalifikacijos tobulinimo programas tvirtina Žemės ūkio ministerija ar jos įgaliota institucija, suderinusi su Aplinkos ministerija ar jos įgaliota institucija.
+ 
+
+
+
+
+
+
+11 straipsnis. Reikalavimai augalų apsaugos produktų profesionaliesiems naudotojams, augalų apsaugos konsultantams
+
+
+1. Augalų apsaugos produktų profesionalieji naudotojai privalo:
+
+
+1) laikytis Augalų apsaugos produktų įvežimo, vežimo, saugojimo, naudojimo, tiekimo rinkai taisyklėse nurodytų augalų apsaugos produktų vežimo, saugojimo, naudojimo reikalavimų;
+
+
+
+
+2) laikytis teisės aktų, nustatančių požeminio ir paviršinio vandens telkinių apsaugos zonų, paviršinio vandens telkinių pakrančių apsaugos juostų, sanitarinių apsaugos zonų teisinį režimą, taip pat įstatymuose ir kituose teisės aktuose nustatytų aplinkos apsaugos reikalavimų;
+
+
+
+
+3) naudoti patikrintą augalų apsaugos produktų purškimo įrangą;
+
+
+
+
+4) tobulinti kvalifikaciją šio įstatymo 10 straipsnio 3 dalyje nustatyta tvarka ir terminais;
+
+
+
+
+5) taikyti rizikos valdymo priemones, nurodytas augalų apsaugos produktų etiketėje;
+
+
+
+
+6) tvarkyti profesionaliajam naudojimui skirtų augalų apsaugos produktų apskaitą Augalų apsaugos produktų įvežimo, vežimo, saugojimo, naudojimo, tiekimo rinkai taisyklėse nustatyta tvarka ir trejus metus saugoti įrašus, ir šiose taisyklėse nustatytais terminais teikti informaciją apie profesionaliajam naudojimui skirtų augalų apsaugos produktų naudojimą institucijoms, atsakingoms už teisės aktuose pavestų funkcijų atlikimą augalų apsaugos produktų srityje;
+
+
+
+
+7) teikti statistinius duomenis apie naudojamus augalų apsaugos produktus Lietuvos statistikos departamentui, vadovaudamiesi Reglamentu (EB) Nr. 1185/2009.
+
+
+
+
+
+
+2. Augalų apsaugos konsultantai privalo:
+
+
+1) tobulinti kvalifikaciją šio įstatymo 10 straipsnio 3 dalyje nustatyta tvarka ir terminais;
+
+
+
+
+2) informuoti, konsultuoti augalų apsaugos produktų profesionaliuosius naudotojus apie augalų apsaugos produktų vežimo, saugojimo, naudojimo reikalavimus naudojant profesionaliajam naudojimui skirtus augalų apsaugos produktus;
+
+
+
+
+3) informuoti, konsultuoti augalų apsaugos produktų profesionaliuosius naudotojus apie augalų apsaugos produktų poveikį, susijusį su profesionaliajam naudojimui skirtų augalų apsaugos produktų naudojimu, augalams, žmonių sveikatai ir aplinkai, taip pat taikytinas rizikos valdymo ir saugos priemones, nurodytas augalų apsaugos produkto etiketėje;
+
+
+
+
+4) informuoti, konsultuoti augalų apsaugos produktų profesionaliuosius naudotojus integruotos kenksmingųjų organizmų kontrolės klausimais;
+
+
+
+
+5) informuoti, konsultuoti apie teisės aktuose nustatytus darbo saugos, asmeninės apsaugos, aplinkos apsaugos, sveikatos priežiūros reikalavimus naudojant profesionaliajam naudojimui skirtus augalų apsaugos produktus.
  
 
 
@@ -1165,31 +610,174 @@ Aplinkos ministerija ir (arba) jos įgaliotos institucijos:
 
 
 
-26 straipsnis. Sveikatos apsaugos ministerijos kompetencija
+12 straipsnis. Augalų apsaugos produktų naudojimo apribojimai
 
 
-Sveikatos apsaugos ministerija ir (arba) jos įgaliotos institucijos:
-
-
-1) dalyvauja Konsultavimo komisijos veikloje;
+1. Draudžiama naudoti profesionaliajam naudojimui skirtus augalų apsaugos produktus mokslo, gydymo paskirties pastatų teritorijose.
 
 
 
 
-2) rengia ir tvirtina augalų apsaugos produktų draudžiamų ir ribojamų veikliųjų medžiagų sąrašus;
+2. Rekreacinės paskirties želdynų, sporto paskirties pastatų teritorijose leidžiama naudoti augalų apsaugos produktus, kurių sudėtyje esančios veikliosios medžiagos yra nedidelės rizikos, kaip apibrėžta Reglamento (EB) Nr. 1107/2009 II priedo 5 dalyje.
 
 
 
 
-3) rengia ir tvirtina teisės aktus, reglamentuojančius augalų apsaugos produktų sandėliavimo sanitarines apsaugos zonas;
+3. Augalų apsaugos produktų naudojimo apribojimus saugomose teritorijose ir Europos ekologinio tinklo „Natura 2000“ teritorijose nustato Vyriausybė.
 
 
 
 
-4) nustato darbuotojų, dirbančių su augalų apsaugos produktais, sveikatos tikrinimo reikalavimus ir tikrina jų sveikatą.
+4. Į augalų apsaugos produktais apdorotas vietas fiziniai asmenys gali patekti tik praėjus laikotarpiui, nurodytam augalų apsaugos produkto etiketėje.
+
+
+
+
+5. Augalų apsaugos produktus purkšti iš oro draudžiama, išskyrus atvejus, jeigu yra įvykdytos šios sąlygos:
+
+
+1) kenksmingųjų organizmų kitais būdais neįmanoma sunaikinti ar kontroliuoti jų plitimą naudojant antžeminę augalų apsaugos produktų purškimo įrangą. Purškiant augalų apsaugos produktus iš oro, poveikis žmonių sveikatai ir aplinkai turi būti mažesnis negu naudojant antžeminę augalų apsaugos produktų purškimo įrangą;
+
+
+
+
+2) Tarnyba įvertina konkretaus augalų apsaugos produkto, kuris Reglamento (EB) Nr. 1107/2009 nustatyta tvarka įregistruotas Lietuvos Respublikoje, keliamą riziką, purškiant jį iš oro, ir patvirtina, kad galima jį purkšti iš oro;
+
+
+
+
+3) augalų apsaugos produktų operatorius, purškiantis augalų apsaugos produktus iš oro, turi augalų apsaugos kursų baigimo ar kitą jam prilyginamą Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje išduotą pažymėjimą;
+
+
+
+
+4) fiziniai ir juridiniai asmenys turi Civilinės aviacijos administracijos Lietuvos Respublikos aviacijos įstatymo nustatyta tvarka išduotą pažymėjimą specialiesiems aviacijos darbams atlikti ir patikrinta augalų apsaugos produktų purškimo įranga purškia augalų apsaugos produktus iš oro;
+
+
+
+
+5) orlaiviuose yra sumontuota augalų apsaugos produktų purškimo įranga, kurios technologija sumažina augalų apsaugos produktų purškimo slinkį.
+TAR pastaba. 12 straipsnio 5 dalies 5 punktas įsigalioja 2013-01-01.
+
+
+
+
+
+
+6. Tarnyba, įvertinusi konkretaus augalų apsaugos produkto keliamą riziką ir patvirtinusi, kad augalų apsaugos produktą galima purkšti iš oro, Aplinkos ministerijos įgaliotai institucijai privalo pateikti išvadą, kad:
+
+
+1) augalų apsaugos produktas, purškiamas iš oro, gali paveikti kenksminguosius organizmus, kontroliuoti jų plitimą arba juos sunaikinti;
+
+
+
+
+2) purškiant augalų apsaugos produktą iš oro nebus neigiamo poveikio žmonių sveikatai ir aplinkai;
+
+
+
+
+3) augalų apsaugos produktas yra įregistruotas Lietuvos Respublikoje ir tinkamas purkšti iš oro.
+
+
+
+
+
+
+7. Tarnyba, pateikdama Aplinkos ministerijos įgaliotai institucijai išvadą, nurodytą šio straipsnio 6 dalyje, privalo nurodyti rizikos valdymo priemones, išdėstytas augalų apsaugos produkto etiketėje.
+
+
+
+
+8. Draudžiama gyvenamosiose vietovėse augalų apsaugos produktus purkšti iš oro.
  
 
 
+
+
+
+
+13 straipsnis. Vienkartinių leidimų purkšti augalų apsaugos produktus iš oro išdavimo ir galiojimo panaikinimo reikalavimai
+
+
+1. Vienkartinius leidimus purkšti augalų apsaugos produktus iš oro (toliau – vienkartinis leidimas) išduoda Aplinkos ministerijos įgaliota institucija. Vienkartinių leidimų išdavimo ir galiojimo panaikinimo taisykles tvirtina Vyriausybė. Vienkartiniai leidimai išduodami ne vėliau kaip per 5 darbo dienas nuo visų dokumentų, kurių reikia vienkartiniam leidimui gauti, pateikimo dienos.
+
+
+
+
+2. Vienkartinis leidimas išduodamas fiziniams ir juridiniams asmenims, jeigu:
+
+
+1) fizinis ar juridinis asmuo atitinka sąlygą, nurodytą šio įstatymo 12 straipsnio 5 dalies 3 punkte, ir turi dokumentus, kuriais patvirtinama, kad yra įvykdytos sąlygos, nurodytos šio įstatymo 12 straipsnio 5 dalies 4, 5 punktuose;
+
+
+
+
+2) fizinis ar juridinis asmuo prašyme išduoti vienkartinį leidimą įsipareigoja taikyti specialias rizikos valdymo priemones, nurodytas augalų apsaugos produktų etiketėje, kad būtų apsaugota aplinka ir žmonių sveikata nuo neigiamo augalų apsaugos produktų poveikio;
+
+
+
+
+3) Tarnyba pateikė Aplinkos ministerijos įgaliotai institucijai išvadą, nurodytą šio įstatymo 12 straipsnio 6 dalyje.
+
+
+
+
+
+
+3. Vienkartinio leidimo galiojimas panaikinamas, jeigu:
+
+
+1) to prašo vienkartinio leidimo turėtojas;
+
+
+
+
+2) išnyko šio įstatymo 12 straipsnio 5 dalyje nurodytos sąlygos, dėl kurių buvo išduotas vienkartinis leidimas;
+
+
+
+
+3) vienkartinio leidimo turėtojas, fizinis asmuo, mirė;
+
+
+
+
+4) vienkartinio leidimo turėtojas, juridinis asmuo, yra likviduotas.
+
+
+
+
+
+
+4. Vienkartinio leidimo turėtojai, augalų apsaugos produktus purkšdami iš oro vienkartiniame leidime nurodytus augalus bei teritoriją, privalo laikytis Augalų apsaugos produktų įvežimo, vežimo, saugojimo, naudojimo, tiekimo rinkai taisyklėse nurodytų reikalavimų, apdoroti žemės sklypą tokiu būdu, kad išvengtų augalų apsaugos produktų dulksnos patekimo į gretimus žemės sklypus ir į gyvenamąsias vietoves.
+ 
+
+
+
+
+
+
+14 straipsnis. Visuomenės informavimas
+
+
+1. Tarnyba pagal kompetenciją informuoja visuomenę, pateikdama Tarnybos interneto svetainėje ir kitomis visuomenės informavimo priemonėmis informaciją dėl augalų apsaugos produktų naudojimo kylančios rizikos ir galimo augalų apsaugos produktų ūmaus ar ilgalaikio poveikio žmonių sveikatai, aplinkai, taip pat apie necheminių augalų apsaugos metodų naudojimą.
+
+
+
+
+2. Valstybinė miškų tarnyba prie Aplinkos ministerijos aplinkos ministro nustatyta tvarka Valstybinės miškų tarnybos prie Aplinkos ministerijos interneto svetainėje ir kitomis visuomenės informavimo priemonėmis informuoja visuomenę apie miškams naudojamus augalų apsaugos produktus.
+
+
+
+
+3. Sveikatos apsaugos ministerijos Ekstremalių sveikatai situacijų centras kaupia, analizuoja informaciją apie apsinuodijimų augalų apsaugos produktais atvejus, jų priežastis ir padarinius sveikatos apsaugos ministro nustatyta tvarka.
+
+
+
+
+4. Augalų apsaugos produktų profesionalieji naudotojai privalo informuoti visuomenę apie augalų apsaugos produktais apdorotas rekreacinės paskirties želdynų teritorijas Augalų apsaugos produktų įvežimo, vežimo, saugojimo, naudojimo, tiekimo rinkai taisyklėse nustatyta tvarka.
+ 
 
 
 
@@ -1199,24 +787,42 @@ Sveikatos apsaugos ministerija ir (arba) jos įgaliotos institucijos:
 
 
 KETVIRTASIS SKIRSNIS
-AUGALŲ APSAUGOS VALSTYBINĖ KONTROLĖ
+FIZINIŲ IR JURIDINIŲ ASMENŲ VEIKLOS PRIEŽIŪRA
  
 
 
-27 straipsnis. Augalų apsaugos valstybinė kontrolė
+15 straipsnis. Veiklos, susijusios su augalų apsaugos produktų įvežimu, vežimu, saugojimu, naudojimu ir tiekimu rinkai, priežiūra
 
 
-1. Augalų apsaugos valstybinę kontrolę teisės aktų nustatyta tvarka vykdo Tarnyba.
-
-
-
-
-2. Augalų apsaugos produktų kontrolės taisykles tvirtina žemės ūkio ministras.
+1. Fizinių ir juridinių asmenų veiklos, susijusios su augalų apsaugos produktų įvežimu, vežimu, saugojimu, naudojimu ir tiekimu rinkai, priežiūrą šio įstatymo, Lietuvos Respublikos viešojo administravimo įstatymo ir kitų teisės aktų nustatyta tvarka atlieka Tarnyba.
 
 
 
 
-3. Tarnyba kiekvienais metais iki rugpjūčio 1 dienos praneša Europos Sąjungos valstybių narių ir kitų Europos ekonominės erdvės valstybių įgaliotoms institucijoms ir Europos Komisijai apie praėjusių metų augalų apsaugos produktų tiekimo rinkai ir jų naudojimo tikrinimo rezultatus.
+2. Tarnybos pareigūnai, pateikę tarnybinį pažymėjimą, turi teisę:
+
+
+1) nekliudomi patekti į fizinių asmenų ir darbo metu į juridinių asmenų pastatus ir patalpas, žemės sklypus ir kitas teritorijas, kuriuose auginami augalai, saugomi, naudojami augalų apsaugos produktai, ir tikrinti, ar juose laikomasi augalų apsaugos produktų įvežimo, vežimo, saugojimo, naudojimo, tiekimo rinkai reikalavimų;
+
+
+
+
+2) tikrinti dokumentus, kuriais patvirtinamas augalų apsaugos produktų įsigijimo teisėtumas, jų kiekis ir kokybė;
+
+
+
+
+3) neatlygintinai paimti augalų apsaugos produktų ėminių šių produktų kokybei nustatyti ir teisės aktų nustatyta tvarka juos pristatyti į laboratoriją;
+
+
+
+
+4) uždrausti augalų apsaugos produktų įvežimą, vežimą, saugojimą, naudojimą ir tiekimą rinkai, jeigu nesilaikoma šio įstatymo ir kitų teisės aktų nustatytų reikalavimų;
+
+
+
+
+5) surašyti administracinių teisės pažeidimų protokolus, įstatymų nustatyta tvarka nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas.
  
 
 
@@ -1224,38 +830,96 @@ AUGALŲ APSAUGOS VALSTYBINĖ KONTROLĖ
 
 
 
-28 straipsnis. Augalų apsaugos valstybinę kontrolę vykdantys pareigūnai 
 
 
-Augalų apsaugos valstybinę kontrolę vykdantys Tarnybos pareigūnai, pateikę tarnybinį pažymėjimą, turi teisę:
+16 straipsnis. Teismo leidimų įeiti į fizinių asmenų gyvenamąsias patalpas išdavimo tvarka
 
 
-1) nekliudomi patekti į visų įmonių, įstaigų, organizacijų, ūkininkų ūkinės ir komercinės paskirties pastatus ir sklypus, kuriuose auginami augalai, ir tikrinti, ar juose laikomasi augalų apsaugos produktų įvežimo, prekybos, sandėliavimo, naudojimo, aplinkos apsaugos ir higienos reikalavimų;
-
-
-
-
-2) tikrinti dokumentus, liudijančius augalų apsaugos produktų įsigijimo teisėtumą, jų kiekius ir kokybę;
+1. Jeigu Tarnyba priima sprendimą atlikti patikrinimą fizinio asmens gyvenamosiose patalpose (iš jų ir nuomojamose ar naudojamose kitu pagrindu), Vilniaus apygardos administraciniam teismui pateikiamas prašymas dėl teismo leidimo įeiti į fizinio asmens gyvenamąsias patalpas išdavimo.
 
 
 
 
-3) neatlygintinai paimti augalų apsaugos produktų pavyzdžių šių produktų kokybei nustatyti ir teisės aktų nustatyta tvarka juos pristatyti į laboratoriją;
+2. Prašyme dėl teismo leidimo įeiti į fizinio asmens gyvenamąsias patalpas išdavimo turi būti nurodytas tikrinamo fizinio asmens vardas, pavardė, gyvenamųjų patalpų adresas, įtariamų pažeidimų pobūdis.
 
 
 
 
-4) gauti informaciją apie augalų ligų, kenkėjų, piktžolių paplitimą ir naikinimą naudojant augalų apsaugos produktus;
+3. Prašymą dėl teismo leidimo įeiti į tikrinamo fizinio asmens gyvenamąsias patalpas išdavimo išnagrinėja Vilniaus apygardos administracinio teismo teisėjas ir priima motyvuotą nutartį prašymą patenkinti arba atmesti.
 
 
 
 
-5) sustabdyti arba uždrausti augalų apsaugos produktų naudojimą ir prekybą, jeigu pažeidžiami teisės aktų reikalavimai;
+4. Prašymas dėl teismo leidimo įeiti į tikrinamo fizinio asmens gyvenamąsias patalpas išdavimo turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento.
 
 
 
 
-6) surašyti protokolus, įstatymų nustatyta tvarka nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas.
+5. Jeigu Tarnyba nesutinka su Vilniaus apygardos administracinio teismo teisėjo nutartimi atmesti prašymą, ji turi teisę per 7 kalendorines dienas nuo šios nutarties priėmimo ją apskųsti Lietuvos vyriausiajam administraciniam teismui.
+
+
+
+
+6. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti Tarnybos skundą dėl Vilniaus apygardos administracinio teismo teisėjo nutarties ne vėliau kaip per 7 kalendorines dienas nuo šio skundo pateikimo. Tarnybos atstovas turi teisę dalyvauti nagrinėjant skundą.
+
+
+
+
+7. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama.
+ 
+
+
+
+
+
+
+17 straipsnis. Tarnybos kompetencija
+
+
+Tarnyba:
+
+
+1) registruoja augalų apsaugos produktus ir atlieka kitus Reglamente (EB) Nr. 1107/2009 nurodytus veiksmus;
+
+
+
+
+2) koordinuoja ir užtikrina ryšius su fiziniais ir juridiniais asmenimis, pateikusiais paraišką įregistruoti augalų apsaugos produktą ir atlikti kitus Reglamente (EB) Nr. 1107/2009 nurodytus veiksmus, taip pat su kitomis valstybėmis narėmis, Europos Komisija ir Europos maisto saugos tarnyba;
+
+
+
+
+3) kontroliuoja, kaip įgyvendinamos žemės ūkio ministro įsakymu patvirtintos Geros augalų apsaugos produktų veiksmingumo ir (arba) atrankumo bandymų praktikos taisyklės;
+
+
+
+
+4) atlieka augalų apsaugos produktų įvežimo, vežimo, saugojimo, tiekimo rinkai, naudojimo, pakuočių, ženklinimo atitikties teisės aktų nustatytiems reikalavimams patikras;
+
+
+
+
+5) išduoda įvežimo iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių vienkartinius leidimus, sustabdo jų galiojimą, panaikina jų galiojimo sustabdymą, panaikina jų galiojimą;
+
+
+
+
+6) išduoda prekybos leidimus, įspėja apie šių leidimų galiojimo sustabdymą, sustabdo jų galiojimą, panaikina jų galiojimo sustabdymą, panaikina jų galiojimą;
+
+
+
+
+7) rengia įvežamų augalų apsaugos produktų iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių suvestines;
+
+
+
+
+8) tvirtina augalų apsaugos produktų ėminių paėmimo metodiką;
+
+
+
+
+9) atlieka kitas šio ir kitų įstatymų bei kitų teisės aktų nustatytas funkcijas.
  
 
 
@@ -1268,104 +932,19 @@ Augalų apsaugos valstybinę kontrolę vykdantys Tarnybos pareigūnai, pateikę 
 
 
 PENKTASIS SKIRSNIS
-AUGALŲ APSAUGOS PRODUKTŲ NAUDOTOJAI
- 
-
-
-29 straipsnis. Augalų apsaugos produktų naudotojai ir jų pareigos
-
-
-1. Augalų apsaugos produktų profesionalieji ir neprofesionalieji naudotojai privalo:
-
-
-1) vadovautis šiuo įstatymu ir kitais teisės aktais;
-
-
-
-
-2) laikytis augalų apsaugos produktų sandėliavimo ir naudojimo reikalavimų;
-
-
-
-
-3) laikytis higienos ir aplinkos apsaugos reikalavimų.
-
-
-
-
-
-
-2. Profesionalieji naudotojai privalo tvarkyti įsigytų ir naudojamų augalų apsaugos produktų apskaitą ir teisės aktų nustatyta tvarka teikti informaciją Tarnybai ir kitoms suinteresuotoms institucijoms apie augalų apsaugos produktų naudojimą.
- 
- 
- 
-
-
-
-
-
-
-
-
-ŠEŠTASIS SKIRSNIS
-AUGALŲ APSAUGOS PRODUKTŲ ĮVEŽIMO, SANDĖLIAVIMO, PREKYBOS IR NAUDOJIMO TVARKA
- 
-
-
-30 straipsnis. Augalų apsaugos produktų sandėliavimo, prekybos ir naudojimo tvarka
-
-
-1. Taisykles, reglamentuojančias augalų apsaugos produktų sandėliavimą, prekybą ir naudojimą, tvirtina žemės ūkio ministras, suderinęs su aplinkos ministru ir sveikatos apsaugos ministru.
-
-
-
-
-2. Geros augalų apsaugos praktikos taisykles ir Purkštuvų tikrinimo taisykles tvirtina žemės ūkio ministras.
- 
-
-
-
-
-
-
-31 straipsnis. Augalų apsaugos produktų naudojimo išimtys
-
-
-Tarnyba turi teisę leisti ne ilgesniam kaip 120 dienų laikotarpiui tiekti rinkai augalų apsaugos produktus jos nustatytomis naudojimo sąlygomis, jeigu šalyje atsirado kenksmingųjų organizmų, kurių negalima sunaikinti turimais registruotais augalų apsaugos produktais. Apie tokius atvejus Tarnyba nedelsdama praneša kitų Europos Sąjungos valstybių narių ir Europos ekonominės erdvės valstybių įgaliotoms institucijoms ir Europos Komisijai. Europos Komisijos nustatyta tvarka tokia išimtis gali būti pratęsta nurodytam laikotarpiui arba atšaukta.
- 
-
-
-
-
-
-
-32 straipsnis. Augalų apsaugos produktų įvežimas iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių 
-
-
-1. Įvežant augalų apsaugos produktus iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių, būtina turėti Tarnybos išduotą vienkartinį leidimą.
-
-
-
-
-2. Vienkartiniai leidimai išduodami žemės ūkio ministro nustatyta tvarka.
- 
-
-
-
-
-
-
-
-
-SEPTINTASIS SKIRSNIS
 BAIGIAMOSIOS NUOSTATOS
  
 
 
-33 straipsnis. Tarptautinis bendradarbiavimas augalų apsaugos klausimais
+18 straipsnis. Teisinė atsakomybė
 
 
-Tarnybos vadovas pagal kompetenciją atstovauja Lietuvos Respublikai tarptautinėse organizacijose, atlieka kitus veiksmus, reikalingus tarptautiniams įsipareigojimams augalų apsaugos srityje įgyvendinti.
+1. Fiziniai ir juridiniai asmenys, pažeidę šio įstatymo reikalavimus, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
+
+
+
+
+2. Fiziniai ar juridiniai asmenys uždraustus tiekti rinkai ir naudoti augalų apsaugos produktus privalo savo lėšomis išimti iš apyvartos ir sunaikinti taip, kad nebūtų padaryta žalos žmonių sveikatai ir aplinkai.
  
 
 
@@ -1373,20 +952,8 @@ Tarnybos vadovas pagal kompetenciją atstovauja Lietuvos Respublikai tarptautin�
 
 
 
-34 straipsnis. Teisinė atsakomybė 
 
 
-Fiziniai ir juridiniai asmenys, pažeidę šio įstatymo reikalavimus, atsako įstatymų nustatyta tvarka.
- 
-
-
-
-
-
-
-
-
- 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
@@ -1402,13 +969,22 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
  
-Lietuvos Respublikos 
-augalų apsaugos įstatymo 
+Lietuvos Respublikos
+augalų apsaugos įstatymo
 priedas
  
-ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS AKTAS
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
-1991 m. liepos 15 d. Tarybos direktyva 91/414/EEB dėl augalų apsaugos produktų pateikimo į rinką (OL 2004 m. specialusis leidimas, 3 skyrius, 11 tomas, p. 332) su paskutiniais pakeitimais, padarytais 2009 m. liepos 13 d. Tarybos direktyva 2009/82/EB (OL 2009 L 196, p. 10).
+
+
+1. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2009 dėl augalų apsaugos produktų pateikimo į rinką ir panaikinantis Tarybos direktyvas 79/117/EEB ir 91/414/EEB (OL 2009 L 309, p. 1).
+
+
+
+
+2. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/128/EB, nustatanti Bendrijos veiksmų pagrindus siekiant tausiojo pesticidų naudojimo (OL 2009 L 309, p. 71).
+
+
  
  
 Pakeitimai:
@@ -1441,4 +1017,9 @@ Lietuvos Respublikos augalų apsaugos įstatymo pakeitimo įstatymas
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-652, 2010-01-14, Žin., 2010, Nr. 13-620 (2010-02-02), i. k. 1101010ISTA00XI-652
+Lietuvos Respublikos augalų apsaugos įstatymo pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2021, 2012-05-22, Žin., 2012, Nr. 63-3162 (2012-06-05), i. k. 1121010ISTA0XI-2021
 Lietuvos Respublikos augalų apsaugos įstatymo pakeitimo įstatymas
