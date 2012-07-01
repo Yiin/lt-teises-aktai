@@ -21,7 +21,7 @@ ATSAKOMYBĖS BENDROVIŲ JUNGIMOSI ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2011-07-05 iki 2012-06-30
+Suvestinė redakcija nuo 2012-07-01 iki 2015-12-02
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 140-5747, i. k. 1071010ISTA00X-1367
  
@@ -45,7 +45,10 @@ Vilnius
 
 
 
-3. Šio įstatymo nuostatos netaikomos, jei nors viena iš besijungiančių akcinių bendrovių ar uždarųjų akcinių bendrovių yra pagal Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymą veikianti valdymo įmonė ar kolektyvinio investavimo subjektas, kurio sudarymo vienintelis tikslas – viešai platinant investicinius vienetus ar akcijas, sukaupti asmenų lėšas ir jas kolektyviai investuoti į vertybinius popierius ir (ar) kitą Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme nurodytą turtą, taip padalijant riziką, ir kurio vertybiniai popieriai (investiciniai vienetai arba akcijos) patvirtina jų turėtojo teisę bet kada pareikalauti juos išpirkti. Tokiam išpirkimui prilyginami veiksmai, kurių imasi akcinė bendrovė ar uždaroji akcinė bendrovė, siekdama užtikrinti, kad jos investicinių vienetų biržos vertė daug nenukryptų nuo jų grynosios turto vertės.
+3. Šio įstatymo nuostatos netaikomos, jeigu nors viena iš besijungiančių akcinių bendrovių ar uždarųjų akcinių bendrovių yra pagal Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymą veikianti valdymo įmonė ar investicinė kintamojo kapitalo bendrovė.
+Straipsnio dalies pakeitimai:
+Nr. XI-2126, 2012-06-26, Žin., 2012, Nr. 77-3981 (2012-07-01), i. k. 1121010ISTA0XI-2126
+ 
 
 
 
@@ -585,3 +588,8 @@ Lietuvos Respublikos vienos valstybės ribas peržengiančio ribotos atsakomybė
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1490, 2011-06-21, Žin., 2011, Nr. 81-3967 (2011-07-05), i. k. 1111010ISTA0XI-1490
 Lietuvos Respublikos vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi įstatymo 6, 11 straipsnių pakeitimo ir papildymo, Įstatymo priedo pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2126, 2012-06-26, Žin., 2012, Nr. 77-3981 (2012-07-01), i. k. 1121010ISTA0XI-2126
+Lietuvos Respublikos vienos valstybės ribas peržengiančio ribotos atsakomybės bendrovių jungimosi įstatymo 1 straipsnio pakeitimo įstatymas
