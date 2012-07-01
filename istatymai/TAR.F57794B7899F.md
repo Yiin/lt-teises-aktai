@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2012-06-30 iki 2012-06-30
+Suvestinė redakcija nuo 2012-07-01 iki 2013-02-28
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -1234,7 +1234,10 @@ Elektros energetikos sektorių sudaro elektros energijos vartotojai, gamintojai,
 
 
 
-2) nuosavybės teise turintiems ar kitais teisėtais pagrindais valdantiems žemės sklypą teritorijoje, kurioje numatoma verstis šiame įstatyme nustatyta leidimais reguliuojama veikla.
+2) nuosavybės teise turintiems ar kitais teisėtais pagrindais valdantiems žemės sklypą teritorijoje, kurioje numatoma verstis šiame įstatyme nustatyta leidimais reguliuojama veikla, arba turintiems pastato bendraturčių ar savininko sutikimą dėl elektrinės statybos ir jos eksploatavimo, kai elektros energijos gamybos įrenginius planuojama įrengti ant pastato ar jo konstrukcijos dalies.
+Straipsnio punkto pakeitimai:
+Nr. XI-2095, 2012-06-21, Žin., 2012, Nr. 76-3938 (2012-06-30), i. k. 1121010ISTA0XI-2095
+ 
 
 
 
@@ -4380,3 +4383,8 @@ Lietuvos Respublikos elektros energetikos įstatymo pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2086, 2012-06-21, Žin., 2012, Nr. 76-3930 (2012-06-30), i. k. 1121010ISTA0XI-2086
 Lietuvos Respublikos elektros energetikos įstatymo 85 straipsnio papildymo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2095, 2012-06-21, Žin., 2012, Nr. 76-3938 (2012-06-30), i. k. 1121010ISTA0XI-2095
+Lietuvos Respublikos elektros energetikos įstatymo 16 straipsnio pakeitimo įstatymas
