@@ -13,152 +13,63 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.922B478BE94C"
 
 # Lietuvos Respublikos hipotekos registro įstatymas
 
-Suvestinė redakcija nuo 2003-01-01 iki 2012-06-30
+Suvestinė redakcija nuo 2012-07-01 iki 2016-07-14
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 100-2266, i. k. 0961010ISTA00I-1544
  
-Nauja redakcija nuo 1997-07-02:
-Nr. VIII-252, 1997-06-10, Žin. 1997, Nr. 63-1469 (1997-07-02), i. k. 0971010ISTAVIII-252
+Nauja redakcija nuo 2012-07-01:
+Nr. XI-1851, 2011-12-22, Žin. 2012, Nr. 6-187 (2012-01-10), i. k. 1111010ISTA0XI-1851
  
-LIETUVOS RESPUBLIKOS HIPOTEKOS REGISTRO STEIGIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS HIPOTEKOS REGISTRO ĮSTATYMAS
  
 1996 m. rugsėjo 24 d. Nr. I-1544
 Vilnius
  
+
+1 straipsnis. Įstatymo paskirtis
+
+Šis įstatymas nustato Lietuvos Respublikos hipotekos registro (toliau – Hipotekos registras) objektus, duomenų tvarkymą, registro finansavimą, reorganizavimą ir likvidavimą, kreditorių reikalavimų, atsiradusių iš turto įkeitimo sutarčių, sudarytų iki 1998 m. balandžio 1 d., tenkinimo ir žalos atlyginimo tvarką.
  
 
-1 straipsnis. Hipotekos registro steigimas
+2 straipsnis. Hipotekos registras
 
-1. Turto įkeitimo teisei registruoti įsteigiamas Lietuvos Respublikos hipotekos registras (toliau – Hipotekos registras), kuris yra valstybės pagrindinis registras ir susideda iš centrinio hipotekos registro bei vietinių hipotekos registrų.
+1. Hipotekos registras yra pagrindinis valstybės registras.
 
-2. Teisingumo ministerija vykdo Hipotekos registro steigėjo funkcijas ir iki 1998 m. sausio 1 d. atlieka organizacinius vietinių hipotekos registrų kūrimo darbus, suformuoja automatizuotą duomenų bazę. Vietinius hipotekos registrus tvarko apylinkių teismų hipotekos skyriai (toliau – hipotekos skyriai), steigiami Teismų įstatymo nustatyta tvarka.
-Straipsnio dalies pakeitimai:
-Nr. VIII-567, 1997-12-09, Žin., 1997, Nr. 117-3007 (1997-12-24), i. k. 0971010ISTAVIII-567
+2. Hipotekos registro paskirtis – registruoti šio įstatymo 3 straipsnyje nurodytus registro objektus, rinkti, kaupti, apdoroti, sisteminti, saugoti ir teikti fiziniams ir juridiniams asmenims registro duomenis ir dokumentus, atlikti kitus registro duomenų tvarkymo veiksmus.
  
 
-3. Teisingumo ministerija iki 1997 m. liepos 1 d. parengia Hipotekos registro nuostatus ir pateikia juos tvirtinti Vyriausybei.
+3 straipsnis. Hipotekos registro objektas
 
-4. Teisingumo ministerija vykdo hipotekos lakštų gamybos užsakovo funkcijas.
-
-5. Hipotekos skyriai nuo 1998 m. sausio 1 d. palaipsniui pradeda vykdyti Teismų įstatyme, Hipotekos įstatyme ir kituose įstatymuose bei Hipotekos registro nuostatuose nustatytas funkcijas. Hipotekos skyrių ir vietinių hipotekos registrų steigimo etapus nustato teisingumo ministras. Steigti hipotekos skyrius ir vietinius hipotekos registrus visoje Lietuvos Respublikoje turi būti baigta iki 2000 m. sausio 1 d.
-
-6. Už hipotekos (įkeitimo) įregistravimą ir hipotekos registro duomenų naudojimą imama raštinės rinkliava, kurios dydį ir mokėjimo tvarką nustato Vyriausybė ar jos įgaliota institucija. Raštinės rinkliavos lėšos naudojamos hipotekos registrui administruoti.
-Papildyta straipsnio dalimi:
-Nr. IX-745, 2002-02-28, Žin., 2002, Nr. 29-1032 (2002-03-20), i. k. 1021010ISTA00IX-745
+Hipotekos registro objektas yra sutartinė ir priverstinė hipoteka (įkeitimas) ir hipotekos sandoriai.
  
 
-2 straipsnis. Duomenų perdavimo hipotekos skyriams tvarka
+4 straipsnis. Hipotekos registro tvarkymo įstaigos
 
-1. Nekilnojamojo turto registro, Lietuvos Respublikos laivų registro (rejestro) ir Lietuvos Respublikos laivų knygos tvarkymo įstaigos (toliau – turto registravimo įstaigos) duomenis apie nekilnojamojo bei kilnojamojo turto (toliau – turtas) įkeitimo sutartis, įregistruotas nuo 1994 m. birželio 10 d. iki 1998 m. balandžio 1 d., perduoda hipotekos registro tvarkymo įstaigoms Teisingumo ministerijos nustatyta tvarka. Duomenys apie turto įkeitimo sutartis, įregistruotas turto registruose iki 1994 m. birželio 10 d., neperduodami.
-
-2. Duomenis apie turto įkeitimo sutartis, sudarytas iki 1994 m. birželio 10 d., taip pat apie turto įkeitimo sutartis, sudarytas po 1994 m. birželio 10 d., jeigu jos nebuvo įregistruotos turto registruose (turto registravimo įstaiga neregistravo turto įkeitimo sutarčių), kreditoriai turi perduoti hipotekos skyriams. Kreditoriai, perduodami duomenis, turi pateikti Teisingumo ministerijos nustatytos formos prašymą ir įkeitimo sutartį. Šiais atvejais hipotekos lakštai nepildomi.
-
-3. Šio straipsnio 1 ir 2 dalyse nurodyti duomenys gali būti perduoti hipotekos skyriams iki 1998 m. birželio 1 d. Šis terminas negali būti atstatomas.
-
-4. Visoms turto registravimo įstaigoms nuo 1998 m. balandžio 1 d. draudžiama atlikti turto įkeitimų teisinę registraciją.
-
-Straipsnio pakeitimai:
-Nr. VIII-668, 1998-03-19, Žin., 1998, Nr. 31-820 (1998-04-01); Žin., 1998, Nr. 32-0 (1998-04-03), i. k. 0981010ISTAVIII-668
+Hipotekos registrą tvarko vadovaujančioji registro tvarkymo įstaiga – Lietuvos Respublikos teisingumo ministerija ir registro tvarkymo įstaiga – Centrinė hipotekos įstaiga.
  
 
-3 straipsnis. Žalos atlyginimas
+5 straipsnis. Hipotekos registro objektų registravimas ir registro duomenų tvarkymas
 
-1. Žalą, patirtą dėl turto registravimo įstaigų perduotų hipotekos registro tvarkymo įstaigoms klaidingų bei neišsamių duomenų, atlygina klaidingus ar neišsamius duomenis pateikusi įstaiga. Ginčai dėl žalos dydžio nagrinėjami ir žala išieškoma ieškininės teisenos tvarka.
-
-2. Žalos, patirtos dėl kreditorių perduotų hipotekos skyriams klaidingų bei neišsamių duomenų apie turto įkeitimo sutartis, valstybė neatlygina.
-
-Straipsnio pakeitimai:
-Nr. VIII-668, 1998-03-19, Žin., 1998, Nr. 31-820 (1998-04-01); Žin., 1998, Nr. 32-0 (1998-04-03), i. k. 0981010ISTAVIII-668
+Hipotekos registro objektai registruojami ir registro duomenys tvarkomi Lietuvos Respublikos Vyriausybės tvirtinamų Hipotekos registro nuostatų nustatyta tvarka.
  
 
-4 straipsnis. Duomenų apie turto įkeitimo sutartis įrašymo į Hipotekos registro duomenų bazę ir išbraukimo iš jos tvarka
+6 straipsnis. Hipotekos registro finansavimas
 
-1. Šio įstatymo 2 straipsnio 1 ir 2 dalyse nurodytus duomenis hipotekos registro tvarkymo įstaigos įrašo į Hipotekos registro duomenų bazę Teisingumo ministerijos nustatyta tvarka. Įrašant šiuos duomenis, įkeitimo sutarčių teisinis tyrimas neatliekamas.
-
-2. Šio įstatymo 2 straipsnio 1 ir 2 dalyse nurodyti duomenys turi būti įrašyti į Hipotekos registro duomenų bazę iki 1998 m. liepos 31 d.
-
-3. Šio įstatymo 2 straipsnio 1 ir 2 dalyse nurodyti duomenys išbraukiami iš Hipotekos registro duomenų bazės remiantis hipotekos teisėjo nutartimi arba teismo sprendimu. Hipotekos teisėjo nutartis dėl duomenų apie įkeitimo sutartis, sudarytas iki 1998 m. balandžio 1 d., išbraukimo iš Hipotekos registro duomenų bazės priimama, kai yra pateiktas kreditoriaus pareiškimas dėl skolinio įsipareigojimo įvykdymo arba įkeisto turto pardavimo iš varžytynių aktas.
-
-Straipsnio pakeitimai:
-Nr. VIII-567, 1997-12-09, Žin., 1997, Nr. 117-3007 (1997-12-24), i. k. 0971010ISTAVIII-567
-Nr. VIII-668, 1998-03-19, Žin., 1998, Nr. 31-820 (1998-04-01); Žin., 1998, Nr. 32-0 (1998-04-03), i. k. 0981010ISTAVIII-668
+Hipotekos registras finansuojamas iš Lietuvos Respublikos valstybės biudžeto lėšų, taip pat iš lėšų, gautų už hipotekos ir įkeitimo sandorių, jų pakeitimo registravimą ir registro duomenų teikimą.
  
 
-5 straipsnis. Kreditorių reikalavimų, atsiradusių iš turto įkeitimo sutarčių, sudarytų iki 1998 m. balandžio 1d., tenkinimo tvarka
+7 straipsnis. Hipotekos registro reorganizavimo ir likvidavimo tvarka
 
-1. Reikalavimus dėl išieškojimo nukreipimo į turtą, įkeistą iki 1998 m. balandžio 1 d., kai duomenys apie šį įkeitimą įrašyti į Hipotekos registro centrinę duomenų bazę, kreditoriai gali pareikšti paduodami hipotekos skyriui pareiškimą dėl priverstinio skolos išieškojimo arba ieškininį pareiškimą teismui. Teismas, priėmęs kreditoriaus ieškinį, apie tai per 10 dienų turi raštu pranešti hipotekos skyriui.
-
-2. Teismas apie priimtą ieškininį pareiškimą praneša, taip pat kreditorius prašymą dėl priverstinio skolos išieškojimo paduoda:
-
-1) kai prašoma patenkinti reikalavimą, užtikrintą nekilnojamojo turto įkeitimo sutartimi, – nekilnojamojo turto buvimo vietos hipotekos skyriui;
-
-2) kai prašoma patenkinti reikalavimą, užtikrintą kilnojamojo turto įkeitimo sutartimi, kuri buvo įregistruota turto registravimo įstaigoje nuo 1994 m. birželio 10 d. iki 1998 m. balandžio 1 d., – hipotekos skyriui pagal įkeitimo sutarties įregistravimo vietą;
-
-3) kai prašoma patenkinti reikalavimus, atsiradusius iš kilnojamojo turto įkeitimo sutarties, kuri nebuvo įregistruota turto registravimo įstaigoje, – tam hipotekos skyriui, kuriam buvo perduoti duomenys apie įkeitimo sutartį, sudarytą iki 1998 m. balandžio 1 d.
-
-3. Pareiškimas dėl priverstinio skolos išieškojimo hipotekos skyriuje nagrinėjamas šia tvarka:
-
-1) hipotekos teisėjas Civilinio proceso kodekso nustatyta tvarka priima nutartį areštuoti įkeistą turtą ir apie tai praneša turto registrams (jei turtas registruojamas turto registre) bei visiems suinteresuotiems asmenims (skolininkui, įkeisto turto savininkui, visiems į Hipotekos registrą įrašytiems kreditoriams), kurie turi teisę per 1 mėnesį nuo teisėjo nutarties priėmimo dienos raštu pareikšti prieštaravimus dėl kreditoriaus reikalavimų tenkinimo ne ginčo tvarka ir pateikti juos hipotekos skyriui. Per šį terminą hipotekos teisėjas jokių procesinių veiksmų neatlieka;
-Straipsnio punkto pakeitimai:
-Nr. IX-745, 2002-02-28, Žin., 2002, Nr. 29-1032 (2002-03-20), i. k. 1021010ISTA00IX-745
+Hipotekos registras reorganizuojamas ir likviduojamas Lietuvos Respublikos valstybės registrų įstatymo nustatytais atvejais ir tvarka.
  
 
-2) suinteresuotam asmeniui pareiškus prieštaravimą dėl kreditoriaus reikalavimų tenkinimo ne ginčo tvarka, taip pat tais atvejais, kai nepakanka įrodymų dėl kreditoriaus reikalavimų pagrįstumo, hipotekos teisėjas priima nutartį sustabdyti priverstinį skolos išieškojimą ne ginčo tvarka ir pasiūlo suinteresuotiems asmenims spręsti ginčą ieškininės teisenos tvarka. Apie pareikštą ieškinį asmenys privalo raštu informuoti hipotekos skyrių. Jeigu kreditorius per 1 mėnesį nepareiškia ieškinio, hipotekos teisėjas priima nutartį panaikinti turto areštą.
+8 straipsnis. Kreditorių reikalavimų, atsiradusių iš turto įkeitimo sutarčių, sudarytų iki 1998 m. balandžio 1 d., tenkinimo tvarka
 
-4. Jeigu iki 1998 m. balandžio 1 d. įkeistas turtas pakartotinai įkeičiamas pagal Civilinį kodeksą ar yra įkeistas pagal Hipotekos įstatymą ar Kilnojamojo turto įkeitimo įstatymą ir, pradėjus išieškojimą ne ginčo tvarka pagal hipotekos kreditoriaus pareiškimą, kyla ginčas, išieškojimas ne ginčo tvarka sustabdomas ir pasiūloma į Hipotekos registrą įrašytiems kreditoriams spręsti ginčą ieškininės teisenos tvarka.
-Straipsnio dalies pakeitimai:
-Nr. IX-745, 2002-02-28, Žin., 2002, Nr. 29-1032 (2002-03-20), i. k. 1021010ISTA00IX-745
- 
+1. Reikalavimus dėl išieškojimo nukreipimo į turtą, įkeistą iki 1998 m. balandžio 1 d., kai duomenys apie šį įkeitimą įrašyti į Hipotekos registro duomenų bazę, kreditoriai gali pareikšti paduodami pareiškimą dėl priverstinio skolos išieškojimo arba pareikšdami ieškinį teismui. Teismas, priėmęs kreditoriaus ieškinį, apie tai per 10 dienų turi raštu pranešti Hipotekos registro tvarkymo įstaigai.
 
-5. Kreditorių reikalavimai, atsiradę iš turto įkeitimo sutarčių, sudarytų iki 1998 m. balandžio 1 d., jeigu duomenys apie šias sutartis įrašyti Hipotekos registre, tenkinami iš įkeisto turto pirmiau negu kitų kreditorių. Jeigu iki 1998 m. balandžio 1 d. tas pats turtas buvo įkeistas keliems kreditoriams, kreditorių reikalavimų tenkinimo eilė nustatoma pagal įkeitimo sutarties sudarymo datą.
-Straipsnio dalies pakeitimai:
-Nr. IX-745, 2002-02-28, Žin., 2002, Nr. 29-1032 (2002-03-20), i. k. 1021010ISTA00IX-745
- 
+2. Jeigu iki 1998 m. balandžio 1 d. įkeistas turtas pakartotinai įkeičiamas pagal Lietuvos Respublikos civilinį kodeksą arba yra įkeistas pagal Lietuvos Respublikos hipotekos įstatymą ar Lietuvos Respublikos kilnojamojo turto įkeitimo įstatymą ir, pradėjus išieškojimą ne ginčo tvarka pagal hipotekos kreditoriaus pareiškimą, kyla ginčas, išieškojimas ne ginčo tvarka sustabdomas ir pasiūloma į Hipotekos registrą įrašytiems kreditoriams spręsti ginčą ginčo teisenos tvarka.
 
-6. Kreditoriai, šio įstatymo nustatyta tvarka ir terminais neperdavę duomenų apie įkeitimo sutartis, sudarytas iki 1998 m. balandžio 1 d., praranda teisę į reikalavimų, atsiradusių iš šių sutarčių, patenkinimą iš įkeisto turto pirmiau negu kitų kreditorių.
-Straipsnio dalies pakeitimai:
-Nr. IX-745, 2002-02-28, Žin., 2002, Nr. 29-1032 (2002-03-20), i. k. 1021010ISTA00IX-745
- 
-
-Straipsnio pakeitimai:
-Nr. VIII-668, 1998-03-19, Žin., 1998, Nr. 31-820 (1998-04-01); Žin., 1998, Nr. 32-0 (1998-04-03), i. k. 0981010ISTAVIII-668
- 
-
-51 straipsnis. Hipotekos kreditorių pareiškimų dėl skolos išieškojimo tenkinimo termino atidėjimas
-
-1. Hipotekos kreditorių pareiškimai dėl skolos išieškojimo, pateikti Hipotekos įstatymo 43 straipsnyje nustatyta tvarka, pradedami tenkinti tik pasibaigus šio įstatymo 4 straipsnio 2 dalyje nurodytam terminui, iki kurio duomenys turi būti įrašyti į Hipotekos registro duomenų bazę.
-
-2. Jeigu pasibaigus šio įstatymo 4 straipsnio 2 dalyje nurodytam terminui paaiškėja, jog turtas, į kurį buvo nukreiptas išieškojimas pagal šį įstatymą, buvo įkeistas iki 1998 m. balandžio 1 d., hipotekos teisėjas pasiūlo Hipotekos registre įrašytiems kreditoriams, kuriems turtas buvo įkeistas iki 1998 m. balandžio 1 d., per 1 mėnesį kreiptis dėl skolos išieškojimo ieškininės teisenos tvarka. Apie pareikštą ieškinį kreditorius privalo raštu informuoti hipotekos skyrių. Šiais atvejais hipotekos teisėjas sustabdo išieškojimo iš įkeisto turto vykdymą, iki įsiteisės teismo sprendimas. Kreditoriai, kurie per šioje dalyje nustatytą terminą nepareiškia ieškinio, praranda teisę į reikalavimų patenkinimą šio įstatymo nustatyta tvarka.
-
-Papildyta straipsniu:
-Nr. VIII-668, 1998-03-19, Žin., 1998, Nr. 31-820 (1998-04-01); Žin., 1998, Nr. 32-0 (1998-04-03), i. k. 0981010ISTAVIII-668
- 
-
-6 straipsnis. Centrinis hipotekos registras
-
-1. Centrinio hipotekos registro steigėjo ir tvarkytojo funkcijas vykdo Teisingumo ministerija ar jos įgaliota institucija, kuri iki 1998 m. sausio 1 d. atlieka organizacinius centrinio hipotekos registro kūrimo darbus, nustato duomenų srautų judėjimo tarp centrinio hipotekos registro ir vietinių hipotekos registrų tvarką.
-
-2. Hipotekos registro duomenų originalai (turintys juridinę galią duomenys) kaupiami ir saugomi centriniame hipotekos registre, o šių duomenų kopijos – vietiniuose hipotekos registruose.
-
-3. Fizinių ir juridinių asmenų patirtą žalą dėl klaidų hipotekos registre, atsiradusių  tvarkant  centrinį hipotekos registrą, atlygina valstybė įstatymų nustatyta tvarka. Žala išieškoma teismo tvarka.
-Straipsnio dalies pakeitimai:
-Nr. IX-745, 2002-02-28, Žin., 2002, Nr. 29-1032 (2002-03-20), i. k. 1021010ISTA00IX-745
- 
-
-4. Neteko galios nuo 2002-03-20
-Straipsnio dalies naikinimas:
-Nr. IX-745, 2002-02-28, Žin. 2002, Nr. 29-1032 (2002-03-20), i. k. 1021010ISTA00IX-745
- 
-
-5. Neteko galios nuo 2002-03-20
-Straipsnio dalies naikinimas:
-Nr. IX-745, 2002-02-28, Žin. 2002, Nr. 29-1032 (2002-03-20), i. k. 1021010ISTA00IX-745
- 
-
-7 straipsnis. Hipotekos registro likvidavimo (reorganizavimo) tvarka
-
-Hipotekos registras likviduojamas (reorganizuojamas) įstatymu.
- 
+3. Kreditorių reikalavimai, atsiradę iš turto įkeitimo sutarčių, sudarytų iki 1998 m. balandžio 1 d., kai duomenys apie šias sutartis įrašyti Hipotekos registre, tenkinami iš įkeisto turto pirmiau negu kitų kreditorių. Jeigu iki 1998 m. balandžio 1 d. tas pats turtas buvo įkeistas keliems kreditoriams, kreditorių reikalavimų tenkinimo eilė nustatoma pagal įkeitimo sutarties sudarymo datą.
  
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -190,4 +101,9 @@ Lietuvos Respublikos hipotekos registro steigimo įstatymo 2, 3, 4, 5 straipsni�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-745, 2002-02-28, Žin., 2002, Nr. 29-1032 (2002-03-20), i. k. 1021010ISTA00IX-745
 Lietuvos Respublikos hipotekos registro steigimo įstatymo 1, 5, 6 straipsnių papildymo ir pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1851, 2011-12-22, Žin., 2012, Nr. 6-187 (2012-01-10), i. k. 1111010ISTA0XI-1851
+Lietuvos Respublikos hipotekos registro steigimo įstatymo pakeitimo įstatymas
 
