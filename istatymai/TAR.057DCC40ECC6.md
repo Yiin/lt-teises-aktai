@@ -21,7 +21,7 @@ YPATINGOS VALSTYBINĖS SVARBOS PROJEKTUS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2012-06-30 iki 2012-06-30
+Suvestinė redakcija nuo 2012-07-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 49-2362, i. k. 1111010ISTA0XI-1307
  
@@ -133,7 +133,10 @@ II SKYRIUS
 4 straipsnis. Žemės paėmimo visuomenės poreikiams inicijavimas
 
 
-1. Kai ketinama žemę paimti visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus, projektą įgyvendinanti institucija kreipiasi į Vyriausybę su prašymu priimti nutarimą pradėti žemės paėmimo visuomenės poreikiams procedūrą. Projektą įgyvendinanti institucija kartu su prašymu Vyriausybei pateikia teritorijos, kurioje prašoma paimti žemę visuomenės poreikiams, specialiojo plano projektą, parengtą Lietuvos Respublikos teritorijų planavimo įstatymo (toliau – Teritorijų planavimo įstatymas) nustatyta tvarka, žemės sklypų, kurių visą plotą arba jų dalis numatoma paimti visuomenės poreikiams, sąrašą, taip pat valstybinės žemės sklypų, kurių valstybinės žemės nuomos ar panaudos sutartis numatoma nutraukti, sąrašą su nurodytais šių plotų savininkais ir (ar) kitais naudotojais ir šių žemės sklypų unikaliais numeriais. Projektą įgyvendinančiai institucijai informaciją apie numatomus paimti visuomenės poreikiams žemės sklypus pateikia Nekilnojamojo turto registro tvarkytojas.
+1. Kai ketinama žemę paimti visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus, projektą įgyvendinanti institucija kreipiasi į Vyriausybę su prašymu priimti nutarimą pradėti žemės paėmimo visuomenės poreikiams procedūrą. Projektą įgyvendinanti institucija kartu su prašymu Vyriausybei pateikia ypatingos valstybinės svarbos projekto specialiojo plano (toliau – specialusis planas) projektą, parengtą Lietuvos Respublikos teritorijų planavimo įstatymo (toliau – Teritorijų planavimo įstatymas) nustatyta tvarka, žemės sklypų, kurių visą plotą arba jų dalis numatoma paimti visuomenės poreikiams, sąrašą, taip pat valstybinės žemės sklypų, kurių valstybinės žemės nuomos ar panaudos sutartis numatoma nutraukti, sąrašą su nurodytais šių plotų savininkais ir (ar) kitais naudotojais ir šių žemės sklypų unikaliais numeriais. Projektą įgyvendinančiai institucijai informaciją apie numatomus paimti visuomenės poreikiams žemės sklypus pateikia Nekilnojamojo turto registro tvarkytojas.
+Straipsnio dalies pakeitimai:
+Nr. XI-2030, 2012-05-22, Žin., 2012, Nr. 63-3169 (2012-06-05), i. k. 1121010ISTA0XI-2030
+ 
 
 
 
