@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2716576D8D0C"
 
 # Lietuvos Respublikos angliavandenilių išteklių mokesčio įstatymas
 
-Suvestinė redakcija nuo 2003-07-01 iki 2012-06-30
+Suvestinė redakcija nuo 2012-07-01 iki 2014-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 206-0; Žin. 1992, Nr.30-929, i. k. 0921010ISTA00I-2944
  
@@ -69,38 +69,25 @@ Naftos ir dujų išteklių mokesčio mokėtojai yra Lietuvos ir užsienio apmoke
 
 
 
-4 straipsnis. Mokesčio tarifai 
+4 straipsnis. Mokesčio tarifai
 
 
-1. Naftos ir dujų išteklių mokesčio dydį sudaro bazinis ir kompensacinis naftos ir dujų išteklių mokesčio tarifai. Baziniu naftos ir dujų išteklių mokesčio tarifu apmokestinama iš visų telkinių išgauta nafta ir dujos. Kompensaciniu naftos ir dujų išteklių mokesčio tarifu apmokestinama nafta ir dujos, išgaunamos iš telkinių, kuriems surasti ar surasti ir išžvalgyti arba tik išžvalgyti buvo panaudotos valstybės lėšos. Kompensacinis naftos ir dujų išteklių mokesčio tarifas naftai ir dujoms, išgautiems iš telkinių, kurie surasti ar surasti ir išžvalgyti arba tik išžvalgyti ne vien valstybės lėšomis, sumažinamas proporcingai ne valstybės lėšoms tenkančiai daliai. 
-
-
-
-
-2. Naftai ir dujoms iš telkinių, kuriuose gavyba pradėta iki 2003 m. liepos 1 d., nustatomas 20 procentų bazinis naftos ir dujų išteklių mokesčio tarifas.
+1. Naftos ir dujų išteklių mokesčio tarifą sudaro bazinis ir kompensacinis naftos ir dujų išteklių mokesčio tarifai. Baziniu naftos ir dujų išteklių mokesčio tarifu apmokestinama iš visų telkinių išgauta nafta ir dujos. Kompensaciniu naftos ir dujų išteklių mokesčio tarifu apmokestinama nafta ir dujos, išgaunamos iš telkinių, jeigu jiems surasti ar surasti ir išžvalgyti arba tik išžvalgyti buvo panaudotos valstybės lėšos.
 
 
 
 
-3. Naftai ir dujoms iš telkinių, kuriuose gavyba pradėta po 2003 m. liepos 1 d., bazinis naftos ir dujų išteklių mokesčio tarifas nustatomas šio Įstatymo priedėlyje, atsižvelgiant į telkinių buvimo vietą ir gavybos mastą. 
+2. Bazinis naftos ir dujų išteklių mokesčio tarifas nustatomas šio Įstatymo priedėlyje, atsižvelgiant į telkinių buvimo vietą ir metines gavybos apimtis.
 
 
 
 
-4. Naftai ir dujoms iš telkinių, kurie surasti ir išžvalgyti valstybės lėšomis, nustatomas 9 procentų kompensacinis naftos ir dujų išteklių mokesčio tarifas. 
+3. Naftai ir dujoms, išgaunamoms iš telkinio, kuris surastas ir išžvalgytas vien valstybės lėšomis, nustatomas 9 procentų kompensacinis naftos ir dujų išteklių mokesčio tarifas. Jeigu telkinio žvalgybai buvo panaudotos ne vien valstybės lėšos, kompensacinis naftos ir dujų išteklių mokesčio tarifas sumažinamas proporcingai ne valstybės lėšoms tenkančiai daliai, tačiau ne daugiau negu iki 4,5 procento pagal Lietuvos Respublikos Vyriausybės ar jos įgaliotų institucijų patvirtiną naftos ir dujų išteklių paieškos ir (ar) žvalgybos darbų, kurių pagrindu taikomas kompensacinis naftos ir dujų išteklių tarifas, pripažinimo ir išlaidų ne valstybės lėšoms tenkančiai daliai apskaičiuoti (įvertinti) tvarkos aprašą.
 
 
-
-
-5. Naftai ir dujoms iš telkinių, kuriuose gavyba pradėta iki 2003 m. liepos 1 d. ir išgauta 3/4 ar daugiau naftos išteklių, bazinis naftos ir dujų išteklių mokesčio tarifas nustatomas pagal šio Įstatymo priedėlį.
-
-
-
-
-6. Mokesčio mokėtojui, eksploatuojančiam telkinius, iš kurių išgautai naftai ir dujoms taikomas šio straipsnio 2 dalyje nustatytas bazinis naftos ir dujų išteklių mokesčio tarifas, pagal šį bazinį naftos ir dujų išteklių mokesčio tarifą apskaičiuota mokesčio suma šio Įstatymo 5 straipsnyje nustatyta tvarka yra mažinama 50 procentų per kalendorinius metus atliktų naujų telkinių paieškos ir žvalgybos darbų išlaidų suma, bet ne daugiau kaip 50 procentų per kalendorinių metų mokestinių laikotarpių deklaracijose pagal šio straipsnio 2 dalyje nustatytą bazinį naftos ir dujų išteklių mokesčio tarifą apskaičiuotos mokesčio sumos.
+Straipsnio pakeitimai:
+Nr. XI-1831, 2011-12-21, Žin., 2011, Nr. 163-7745 (2011-12-31), i. k. 1111010ISTA0XI-1831
  
-
-
 
 
 
@@ -113,7 +100,10 @@ Naftos ir dujų išteklių mokesčio mokėtojai yra Lietuvos ir užsienio apmoke
 
 
 
-2. Naftos ir dujų išteklių mokestis yra apskaičiuojamas pagal faktiškai per kalendorinį ketvirtį išgautą naftos ir dujų kiekį, išskyrus atvejus, kai išgautai naftai ir dujoms pagal šį Įstatymą yra taikomi Įstatymo priedėlyje nustatyti baziniai naftos ir dujų išteklių mokesčio tarifai. Tais atvejais naftos ir dujų išteklių mokestis yra apskaičiuojamas nuo 1/4 per kalendorinius metus numatomo išgauti, bet ne mažesnio nei praėjusiais kalendoriniais metais išgauto naftos ir dujų kiekio. 
+2. Naftos ir dujų išteklių mokestis yra apskaičiuojamas nuo 1/4 per kalendorinius metus numatomo išgauti, bet ne mažesnio negu praėjusiais kalendoriniais metais išgauto naftos ir dujų kiekio. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1831, 2011-12-21, Žin., 2011, Nr. 163-7745 (2011-12-31), i. k. 1111010ISTA0XI-1831
+ 
 
 
 
@@ -128,7 +118,10 @@ Naftos ir dujų išteklių mokesčio mokėtojai yra Lietuvos ir užsienio apmoke
 
 
 
-5. Mokesčio mokėtojas pasibaigus metams, iki kitų kalendorinių metų balandžio 25 dienos kartu su paskutinio mokestinio laikotarpio (pirmo ketvirčio) naftos ir dujų išteklių mokesčio deklaracija turi pateikti praėjusių kalendorinių metų (keturių tų kalendorinių metų mokestinių laikotarpių) naftos ir dujų išteklių mokesčio deklaraciją. Mokesčio mokėtojas pateiktoje praėjusių kalendorinių metų naftos ir dujų išteklių mokesčio deklaracijoje privalo perskaičiuoti naftos ir dujų išteklių mokesčio sumą pagal faktiškai per metus išgautą naftos ir dujų kiekį. Pagal metinę deklaraciją apskaičiuota papildoma mokesčio suma sumokama iki šioje dalyje nustatyto metinės deklaracijos pateikimo termino. Kartu su metine deklaracija pateikiamas atliktų naujų telkinių paieškos ir žvalgybos darbų sąrašas bei šių darbų išlaidų apskaičiavimas. Atliktų naujų telkinių paieškos ir žvalgybos darbų sąrašas privalo būti patvirtintas Lietuvos geologijos tarnybos prie Aplinkos ministerijos.
+5. Mokesčio mokėtojas, pasibaigus metams, iki kitų kalendorinių metų balandžio 25 dienos kartu su paskutinio mokestinio laikotarpio (pirmo ketvirčio) naftos ir dujų išteklių mokesčio deklaracija turi pateikti praėjusių kalendorinių metų (keturių tų kalendorinių metų mokestinių laikotarpių) naftos ir dujų išteklių mokesčio deklaraciją. Mokesčio mokėtojas pateiktoje praėjusių kalendorinių metų naftos ir dujų išteklių mokesčio deklaracijoje privalo perskaičiuoti naftos ir dujų išteklių mokesčio sumą pagal faktiškai per metus išgautą naftos ir dujų kiekį. Pagal metinę deklaraciją apskaičiuota papildoma mokesčio suma sumokama iki šioje dalyje nustatyto metinės deklaracijos pateikimo termino.
+Straipsnio dalies pakeitimai:
+Nr. XI-1831, 2011-12-21, Žin., 2011, Nr. 163-7745 (2011-12-31), i. k. 1111010ISTA0XI-1831
+ 
 
 
 
@@ -216,42 +209,98 @@ Nr. I-2944
 
 
 Lietuvos Respublikos
-2003 m. gegužės 20 d.
-įstatymo Nr. IX-1564
+naftos ir dujų išteklių
+mokesčio įstatymo
 priedėlis
  
-BAZINIAI NAFTOS IR DUJŲ IŠTEKLIŲ MOKESČIO TARIFAI
+BAZINIAI MOKESČIO UŽ NAFTOS IR DUJŲ IŠTEKLIUS TARIFAI
  
 Sausumos telkiniams
+ 
 
 
 
-   Gavyba iš telkinio per metus (tūkst. tonų)   
-   Bazinis naftos ir dujų išteklių mokesčio tarifas procentais    
+ Gavyba iš telkinio per metus, tūkst. tonų  
+ Bazinis naftos ir dujų išteklių mokesčio tarifas procentais 
 
 
- iki 10 10–25 25–50 50–75 75–100 100–125 125–150 daugiau kaip 150   
- 2 4 6 8 10 12 14 16   
+ iki 1 
+ 2 
+
+
+ 1–5 
+ 6 
+
+
+ 5–10 
+ 8 
+
+
+ 10–15 
+ 10 
+
+
+ 15–20 
+ 12 
+
+
+ 20–25 
+ 16 
+
+
+ daugiau kaip 25 
+ 20 
 
 
 
  
 Jūros telkiniams
+ 
 
 
 
-   Gavyba iš telkinio per metus (tūkst. tonų)   
-   Bazinis naftos ir dujų išteklių mokesčio tarifas procentais    
+ Gavyba iš telkinio per metus, tūkst. tonų 
+ Bazinis naftos ir dujų išteklių mokesčio tarifas procentais  
 
 
- iki 100 100–200 200–300 300–400 400–500 500–600 600–700 daugiau kaip 700   
- 2 4 6 8 10 12 14 16   
+ iki 100 
+ 2 
+
+
+ 100–200 
+ 4 
+
+
+ 200–300 
+ 6 
+
+
+ 300–400 
+ 8 
+
+
+ 400–500 
+ 10 
+
+
+ 500–600 
+ 12 
+
+
+ 600–700 
+ 14 
+
+
+ daugiau kaip 700 
+ 16 
 
 
 
  
 Papildyta priedu:
 Nr. IX-1564, 2003-05-20, Žin., 2003, Nr. 51-2253 (2003-05-28), i. k. 1031010ISTA0IX-1564
+Priedo pakeitimai:
+Nr. XI-1831, 2011-12-21, Žin., 2011, Nr. 163-7745 (2011-12-31), i. k. 1111010ISTA0XI-1831
  
  
  
@@ -266,3 +315,8 @@ Lietuvos Respublikos naftos ir dujų išteklių mokesčio įstatymo 5, 8, 9, 12 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1564, 2003-05-20, Žin., 2003, Nr. 51-2253 (2003-05-28), i. k. 1031010ISTA0IX-1564
 Lietuvos Respublikos naftos ir dujų išteklių mokesčio įstatymo pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1831, 2011-12-21, Žin., 2011, Nr. 163-7745 (2011-12-31), i. k. 1111010ISTA0XI-1831
+Lietuvos Respublikos naftos ir dujų išteklių mokesčio įstatymo 4, 5 straipsnių ir įstatymo priedėlio pakeitimo įstatymas
