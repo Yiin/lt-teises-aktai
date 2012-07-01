@@ -15,8 +15,6 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.103565D95E60"
 
 Įstatymas skelbtas: Žin., 2006, Nr. 82-3248
 Neoficialus įstatymo  tekstas
-Aktuali
-įstatymo redakcija nuo 2012-01-01
  
 LIETUVOS RESPUBLIKOS
 PROFESINIŲ PENSIJŲ KAUPIMO
@@ -94,7 +92,8 @@ Apibrėžtų
 įmokų profesinių pensijų fondas (toliau – apibrėžtų
 įmokų pensijų fondas) – profesinių
 pensijų fondas, kuriame dalyviams priklausančių pensijų išmokų dydis priklauso
-nuo sumokėtų įmokų ir turto vertės pokyčio, o pensijų išmokos dydis negarantuojamas.
+nuo sumokėtų įmokų ir turto vertės pokyčio, o pensijų išmokos dydis
+negarantuojamas.
 3.
 Apibrėžtų
 išmokų profesinių pensijų fondas (toliau – apibrėžtų
@@ -175,32 +174,33 @@ Finansinių priemonių rinkų įstatymas).
 18. Pensijų anuitetas – kaip ši sąvoka apibrėžta Lietuvos Respublikos pensijų
 sistemos reformos įstatyme. 
 19. Pensijų asociacija – asociacija, veikianti pagal šį įstatymą profesinių
-pensijų kaupimo tikslu, įsteigta atskirai nuo finansuojančio subjekto (darbdavio)
-ar savarankiškai dirbančių asmenų interesams atstovaujančios organizacijos ir
-kurios tikslas – teikti savo pensijų fondo (fondų) dalyviams pensijų išmokas,
-susijusias su profesine veikla, pagal pensijų asociacijos steigimo sutartį.
+pensijų kaupimo tikslu, įsteigta atskirai nuo finansuojančio subjekto
+(darbdavio) ar savarankiškai dirbančių asmenų interesams atstovaujančios
+organizacijos ir kurios tikslas – teikti savo pensijų fondo (fondų) dalyviams
+pensijų išmokas, susijusias su profesine veikla, pagal pensijų asociacijos
+steigimo sutartį.
 20. Pensijų fondo dalyvis (toliau – dalyvis)
 – pensijų asociacijos narys, pasirinkęs asociacijos profesinių pensijų fondą, o
 jo profesinė veikla suteikia ar suteiks teisę jam gauti pensijų išmokas pagal
 šio profesinių pensijų fondo taisykles.
 21. Pensijų turtas – kaip ši sąvoka apibrėžta Papildomo savanoriško pensijų
 kaupimo įstatyme.
-22. Pensijų
-turto
-valdymas:
+22. Pensijų fondo
+valdymas
+– pensijų fondo:
 1)
-investicinių sprendimų priėmimas ir vykdymas;
+investicijų valdymas;
 2)
-buhalterinės apskaitos tvarkymas, teisės aktų laikymosi vidaus kontrolė,
-grynųjų aktyvų skaičiavimas, profesinių pensijų fondo dalyvių sąrašo tvarkymas,
-pensijų sąskaitų atidarymas, tvarkymas ir uždarymas, operacijų, susijusių su
-pensijų įmokų priėmimu ir pensijų išmokų mokėjimu (išskyrus atliekamas pensijų
-turto saugotojo), vykdymas, pinigų konvertavimas į apskaitos vienetus ir
-apskaitos vienetų konvertavimas į pinigus, pajamų paskirstymas, apskaitos
-vieneto vertės nustatymas, atsiskaitymas sandorių pagrindu, duomenų apie
-atliktas operacijas saugojimas;
+administravimas, t. y. buhalterinės apskaitos tvarkymas, teisės aktų laikymosi
+vidaus kontrolė, grynųjų aktyvų skaičiavimas, profesinių pensijų fondo dalyvių
+sąrašo tvarkymas, pensijų sąskaitų atidarymas, tvarkymas ir uždarymas, pensijų
+įmokų priėmimas ir pensijų išmokų mokėjimas bei su tuo susijusių operacijų
+(išskyrus atliekamas pensijų fondo saugotojo) vykdymas, pinigų konvertavimas į
+apskaitos vienetus ir apskaitos vienetų konvertavimas į pinigus, pajamų
+paskirstymas, apskaitos vieneto vertės nustatymas, atsiskaitymas sandorių
+pagrindu, duomenų apie atliktas operacijas saugojimas;
 3)
-rinkodaros veikla, informacijos teikimas turto valdymo sutartyse nustatyta
+rinkodara, informacijos teikimas pensijų fondo valdymo sutartyse nustatyta
 tvarka;
 4)
 kita veikla, susijusi su šios dalies 1, 2, 3 punktuose nurodyta veikla.
@@ -215,16 +215,16 @@ registravimo ir veiklos priežiūros funkcijas, taip pat draudimo įmonių
 licencijavimo ir veiklos priežiūros funkcijas.
 26. Priimančioji valstybė narė – valstybė narė, kuri nėra buveinės valstybė narė ir
 kurios socialinės apsaugos ir darbo teisės normos, reglamentuojančios pensijų
-kaupimą profesinių pensijų fonduose, taikomos finansuojančio subjekto ir dalyvių
-santykiams.
+kaupimą profesinių pensijų fonduose, taikomos finansuojančio subjekto ir
+dalyvių santykiams.
 27. Profesinės pensijos (pensijų išmokos)
 – profesinių pensijų fondo taisyklėse numatyta išmoka šio fondo dalyviui,
 sukakusiam jose nustatytą senatvės pensijos amžių ar atitinkančiam kitas
 profesinių pensijų fondo taisyklėse numatytas sąlygas pensijų išmokai gauti,
 teisė į kurią yra susijusi su dalyvio profesine veikla ir kuri bent iš dalies
 buvo kaupiama iš finansuojančio subjekto pensijų įmokų. Pensijų išmokomis
-nelaikomi priedai ir išmokos, nustatyti šio įstatymo 23 straipsnio 3 dalyje ir 29
-straipsnyje.
+nelaikomi priedai ir išmokos, nustatyti šio įstatymo 23 straipsnio 3 dalyje ir
+29 straipsnyje.
 28. Profesinių pensijų fondas (toliau – pensijų fondas) – fondo dalyviams ir
 šio įstatymo nustatytais atvejais įmokų mokėtojams bendrosios dalinės
 nuosavybės teise priklausantis pensijų turtas.
@@ -243,6 +243,8 @@ Straipsnio pakeitimai:
 Nr.
 XI-1887,
 2011-12-22, Žin., 2011, Nr. 163-7776 (2011-12-31)
+Nr. XI-2125,
+2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
  
 ANTRASIS
 SKIRSNIS
@@ -278,7 +280,8 @@ steigimo sutarties sudarymo data.
 4.
 Pensijų asociacijos steigimo sutartyje taip pat gali būti nurodyta:
 1)
-steigėjų turtiniai ir neturtiniai įsipareigojimai, jų vykdymo tvarka ir terminai;
+steigėjų turtiniai ir neturtiniai įsipareigojimai, jų vykdymo tvarka ir
+terminai;
 2)
 steigimo išlaidų padengimo tvarka;
 3)
@@ -297,64 +300,65 @@ susirinkime priimami pensijų asociacijos įstatai ir sudaromi valdymo organai.
 Pensijų asociacijos steigėjai, kurių vardu finansuojantis subjektas
 įsipareigoja mokėti ir (ar) kurie patys už save mokės pensijų įmokas, ir
 finansuojantys subjektai nuo steigimo sutarties sudarymo momento tampa pensijų
-asociacijos nariais. Pensijų asociacijos nariais gali būti finansuojantys
-subjektai ir 16 metų sukakę veiksnūs fiziniai asmenys, kuriuos vienija
-profesiniai ar ūkio šakos, kurioje jie vykdo profesinę veiklą, požymiai ir
-kurie yra šios pensijų asociacijos pensijų fondo (fondų) dalyviai. Pensijų
-asociacijos steigėjų fizinių asmenų narystė pensijų asociacijoje pasibaigia,
-jeigu jie per 12 mėnesių nuo narystės pradžios netapo pensijų asociacijos
-pensijų fondo (fondų) dalyviais. 
+asociacijos nariais. Pensijų asociacijos nariais gali būti finansuojantys subjektai
+ir 16 metų sukakę veiksnūs fiziniai asmenys, kuriuos vienija profesiniai ar
+ūkio šakos, kurioje jie vykdo profesinę veiklą, požymiai ir kurie yra šios
+pensijų asociacijos pensijų fondo (fondų) dalyviai. Pensijų asociacijos
+steigėjų fizinių asmenų narystė pensijų asociacijoje pasibaigia, jeigu jie per
+12 mėnesių nuo narystės pradžios netapo pensijų asociacijos pensijų fondo
+(fondų) dalyviais. 
  
 4
 straipsnis. Pensijų asociacijos registravimas ir veiklos pradžia
-1.
-Pensijų asociacija gali pradėti veiklą tik tada, kai priežiūros institucija jos
-nustatyta tvarka pritaria pensijų asociacijos įstatams, valdymo organų narių
-kandidatūroms, pensijų fondo taisyklėms, pensijų turto valdymo, pensijų turto
-saugojimo sutarčių projektams ir įtraukia pensijų asociaciją į Pensijų
-asociacijų sąrašą.
+1. Pensijų asociacija
+gali pradėti veiklą tik tada, kai priežiūros institucija jos nustatyta tvarka
+pritaria pensijų asociacijos įstatams, valdymo organų narių kandidatūroms,
+pensijų fondo taisyklėms, pensijų fondo valdymo, pensijų turto saugojimo
+sutarčių projektams ir įtraukia pensijų asociaciją į Pensijų asociacijų
+sąrašą.
 2.
-Pensijų asociacija turi teisę pradėti vykdyti veiklą pagal pensijų fondo taisykles
-tik tada, kai joms pritaria priežiūros institucija ir (ar) šio įstatymo 57
-straipsnyje nustatyta tvarka gavusi išankstinį priežiūros institucijos leidimą
-priimti įmokas iš kitoje valstybėje narėje esančio finansuojančio subjekto
-pagal pensijų fondo taisykles, sudarytas laikantis pensijų fondams taikomų
-kitos valstybės narės socialinės apsaugos ir darbo teisės reikalavimų. Jeigu
-kitos valstybės narės socialinės apsaugos ir darbo teisės aktuose pensijų
-fondams nustatomi kitokie reikalavimai, įmokas pagal tokių pensijų fondų
-taisykles priimanti pensijų asociacija turi laikytis tiems pensijų fondams
-kitoje valstybėje narėje nustatytų socialinės apsaugos ir darbo teisės
-reikalavimų.
-3.
-Asociacija, pageidaujanti vykdyti pensijų asociacijos veiklą, po įregistravimo
-Juridinių asmenų registre turi pateikti priežiūros institucijai prašymą būti
-įtraukta į Pensijų asociacijų sąrašą. Kartu su prašymu turi būti pateikiami:
-steigimo sutartis, įstatai, pensijų asociacijos pensijų fondo (fondų)
-taisyklės, informacija apie valdymo organų narius, pasirinktą pensijų turto
-valdytoją, pensijų turto saugotoją, pensijų turto valdymo ir pensijų turto
-saugojimo sutarčių projektai, kiekvieno pensijų asociacijos pensijų fondo
-finansavimo planas, kuriame nurodoma įmokų apskaičiavimo tvarka ir jų mokėjimo
-periodiškumas, finansuojančio subjekto prisiimti įsipareigojimai, pensijų fondo
-turto plėtros prognozė 5 metams, atsižvelgiant į numatomus dalyvių ir išmokų
-gavėjų skaičiaus pokyčius ir į numatomas pelningumo prognozes, taip pat kiti
-dokumentai ir duomenys, kurių sąrašą nustato priežiūros institucija jos
-tvirtinamose taisyklėse.
+Pensijų asociacija turi teisę pradėti vykdyti veiklą pagal pensijų fondo
+taisykles tik tada, kai joms pritaria priežiūros institucija ir (ar) šio
+įstatymo 57 straipsnyje nustatyta tvarka gavusi išankstinį priežiūros
+institucijos leidimą priimti įmokas iš kitoje valstybėje narėje esančio
+finansuojančio subjekto pagal pensijų fondo taisykles, sudarytas laikantis
+pensijų fondams taikomų kitos valstybės narės socialinės apsaugos ir darbo
+teisės reikalavimų. Jeigu kitos valstybės narės socialinės apsaugos ir darbo
+teisės aktuose pensijų fondams nustatomi kitokie reikalavimai, įmokas pagal
+tokių pensijų fondų taisykles priimanti pensijų asociacija turi laikytis tiems
+pensijų fondams kitoje valstybėje narėje nustatytų socialinės apsaugos ir darbo
+teisės reikalavimų.
+3. Asociacija,
+pageidaujanti vykdyti pensijų asociacijos veiklą, po įregistravimo Juridinių
+asmenų registre turi pateikti priežiūros institucijai prašymą būti įtraukta į
+Pensijų asociacijų sąrašą. Kartu su prašymu turi būti pateikiami: steigimo
+sutartis, įstatai, pensijų asociacijos pensijų fondo (fondų) taisyklės,
+informacija apie valdymo organų narius, pasirinktą pensijų fondo
+valdytoją, pensijų turto saugotoją, pensijų fondo
+valdymo ir pensijų turto saugojimo sutarčių projektai,
+kiekvieno pensijų asociacijos pensijų fondo finansavimo planas, kuriame
+nurodoma įmokų apskaičiavimo tvarka ir jų mokėjimo periodiškumas,
+finansuojančio subjekto prisiimti įsipareigojimai, pensijų fondo turto plėtros
+prognozė 5 metams, atsižvelgiant į numatomus dalyvių ir išmokų gavėjų skaičiaus
+pokyčius ir į numatomas pelningumo prognozes, taip pat kiti dokumentai ir
+duomenys, kurių sąrašą nustato priežiūros institucija jos tvirtinamose
+taisyklėse.
 4.
 Priežiūros institucija turi teisę atsisakyti įtraukti subjektą į Pensijų
 asociacijų sąrašą, jeigu:
 1)
 pateikti dokumentai ar duomenys neatitinka teisės aktų reikalavimų arba
 pateikiami ne visi ar tikrovės neatitinkantys duomenys;
-2)
-valdymo organų nariai, pasirinktas pensijų turto valdytojas ar pensijų turto
-saugotojas, numatomos pensijų asociacijos veiklos sąlygos neatitinka šio
-įstatymo ir kitų teisės aktų nustatytų reikalavimų ar pensijų asociacijos narių
-interesų.
+2) valdymo organų
+nariai, pasirinktas pensijų fondo valdytojas
+ar pensijų turto saugotojas, numatomos pensijų asociacijos veiklos sąlygos
+neatitinka šio įstatymo ir kitų teisės aktų nustatytų reikalavimų ar pensijų
+asociacijos narių interesų.
 5.
 Priežiūros institucija turi raštu pranešti pareiškėjui apie savo sprendimą per
-3 mėnesius nuo visų dokumentų ir duomenų pateikimo. prašymo nagrinėjimo terminas skaičiuojamas nuo paskutinių dokumentų
-ar duomenų pateikimo. Atsisakymas tenkinti prašymą turi būti motyvuotas ir gali
-būti skundžiamas teismui.
+3 mėnesius nuo visų dokumentų ir duomenų pateikimo. prašymo nagrinėjimo terminas skaičiuojamas nuo paskutinių
+dokumentų ar duomenų pateikimo. Atsisakymas tenkinti prašymą turi būti
+motyvuotas ir gali būti skundžiamas teismui.
 6.
 Žodžiai „profesinių pensijų fondo dalyvių asociacija“ ar kitokie šių žodžių
 junginiai arba jų vediniai gali būti vartojami tik tokių subjektų, kurie yra
@@ -362,6 +366,9 @@ junginiai arba jų vediniai gali būti vartojami tik tokių subjektų, kurie yra
 7.
 pensijų asociacija turi turėti
 bent vieną pensijų fondą.
+Straipsnio pakeitimai:
+Nr. XI-2125,
+2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
  
 5
 straipsnis. Pensijų asociacijų sąrašas
@@ -380,8 +387,8 @@ pensijų asociacijos įstatų aktuali redakcija;
 informacija apie pensijų asociacijų valdymo organus ir jų narius;
 4)
 informacija apie pensijų asociacijos pensijų fondą (fondus);
-5)
-informacija apie pensijų turto valdytoją;
+5) informacija apie
+pensijų fondo valdytoją;
 6)
 informacija apie pensijų turto saugotoją;
 7)
@@ -417,6 +424,8 @@ Straipsnio pakeitimai:
 Nr.
 XI-1887,
 2011-12-22, Žin., 2011, Nr. 163-7776 (2011-12-31)
+Nr. XI-2125,
+2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
  
 6
 straipsnis. Pensijų asociacijos įstatai
@@ -529,9 +538,9 @@ Visuotinio pensijų asociacijos narių susirinkimo sprendimu pensijų asociacija
 gali būti pertvarkoma tik tuo atveju, jeigu ji visus savo turimus pensijų
 fondus ir iš visų pensijų fondų taisyklių atsirandančius pensijų asociacijos
 įsipareigojimus yra perdavusi kitoms pensijų asociacijoms ir atitinkamai
-pensijų fondų dalyviai tampa tų pensijų asociacijų nariais arba jeigu visi pensijų
-fondai yra panaikinti dėl ketinimo pertvarkyti pensijų asociaciją ir yra gautas
-šio straipsnio 3 dalyje nurodytas priežiūros institucijos leidimas.
+pensijų fondų dalyviai tampa tų pensijų asociacijų nariais arba jeigu visi
+pensijų fondai yra panaikinti dėl ketinimo pertvarkyti pensijų asociaciją ir
+yra gautas šio straipsnio 3 dalyje nurodytas priežiūros institucijos leidimas.
 3.
 Prieš priimant sprendimą reorganizuoti arba pertvarkyti pensijų asociaciją turi
 būti gautas priežiūros institucijos leidimas. Priežiūros institucija sprendimą
@@ -540,22 +549,22 @@ darbo dienų nuo visų reikiamų ir tinkamai įformintų dokumentų pateikimo.
 Priežiūros institucijai pateikiamas atitinkamas prašymas, pensijų asociacijos
 reorganizavimo sąlygos ir po reorganizavimo veiksiančių pensijų asociacijų
 įstatų projektai (reorganizavimo atveju); dokumentai, patvirtinantys visų
-pensijų fondų ir iš visų pensijų fondų taisyklių atsirandančių pensijų asociacijos
-įsipareigojimų perdavimą kitoms pensijų asociacijoms arba visų pensijų fondų
-panaikinimą dėl ketinimo pertvarkyti pensijų asociaciją; naujos teisinės formos
-juridinio asmens, į kurį bus pertvarkoma pensijų asociacija, steigimo dokumentų
-projektas (pertvarkymo atveju) ir kiti priežiūros institucijos nustatyti
-dokumentai.
-4.
-Pensijų asociacijos reorganizavimo sąlygose, be kitos Lietuvos Respublikos
-civilinio kodekso reikalaujamos informacijos, turi būti nurodomas pensijų fondų
-ir jų dalyvių skaičius, pateikiami duomenys apie perduodamus ir priimamus
-pensijų fondus ir juos sudarantį pensijų turtą, pensijų turto valdytojas ir
-pensijų turto saugotojas, taip pat pensijų asociacijos prievolių perdavimo ir
-priėmimo sąlygos ir terminai, turtinės ir neturtinės pensijų fondo (fondų)
-dalyvių teisės po reorganizavimo, šių teisių ir pareigų įgijimo sąlygos ir
-terminai. Reorganizavimo sąlygoms turi pritarti visuotinis pensijų asociacijos
-narių susirinkimas ir priežiūros institucija.
+pensijų fondų ir iš visų pensijų fondų taisyklių atsirandančių pensijų
+asociacijos įsipareigojimų perdavimą kitoms pensijų asociacijoms arba visų
+pensijų fondų panaikinimą dėl ketinimo pertvarkyti pensijų asociaciją; naujos
+teisinės formos juridinio asmens, į kurį bus pertvarkoma pensijų asociacija,
+steigimo dokumentų projektas (pertvarkymo atveju) ir kiti priežiūros
+institucijos nustatyti dokumentai.
+4. Pensijų
+asociacijos reorganizavimo sąlygose, be kitos Lietuvos Respublikos civilinio
+kodekso reikalaujamos informacijos, turi būti nurodomas pensijų fondų ir jų
+dalyvių skaičius, pateikiami duomenys apie perduodamus ir priimamus pensijų
+fondus ir juos sudarantį pensijų turtą, pensijų fondo
+valdytojas ir pensijų turto saugotojas, taip pat pensijų
+asociacijos prievolių perdavimo ir priėmimo sąlygos ir terminai, turtinės ir
+neturtinės pensijų fondo (fondų) dalyvių teisės po reorganizavimo, šių teisių
+ir pareigų įgijimo sąlygos ir terminai. Reorganizavimo sąlygoms turi pritarti
+visuotinis pensijų asociacijos narių susirinkimas ir priežiūros institucija.
 5.
 Apie reorganizavimą, pertvarkymą pensijų asociacija privalo paskelbti
 priežiūros institucijos nustatyta tvarka.
@@ -563,6 +572,9 @@ priežiūros institucijos nustatyta tvarka.
 apie reorganizavimo, pertvarkymo eigą ir terminus turi būti pateikiama
 kiekvienam to pareikalavusiam pensijų asociacijos nariui, pensijų fondo
 dalyviui, priežiūros institucijai.
+Straipsnio pakeitimai:
+Nr. XI-2125,
+2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
  
 9
 straipsnis. Pensijų asociacijos bankroto proceso ypatumai
@@ -589,8 +601,8 @@ straipsnis. Pensijų asociacijos likvidavimo proceso ypatumai
 Visuotinio pensijų asociacijos narių susirinkimo sprendimu pensijų asociacija
 gali būti likviduojama tik tuo atveju, jeigu ji visus savo turimus pensijų
 fondus ir iš visų pensijų fondų taisyklių atsirandančius pensijų asociacijos
-įsipareigojimus yra perdavusi kitoms pensijų asociacijoms ir pensijų fondų dalyviai
-tampa tų pensijų asociacijų nariais arba jeigu visi pensijų fondai yra
+įsipareigojimus yra perdavusi kitoms pensijų asociacijoms ir pensijų fondų
+dalyviai tampa tų pensijų asociacijų nariais arba jeigu visi pensijų fondai yra
 panaikinti dėl ketinimo likviduoti pensijų asociaciją ir yra gautas priežiūros
 institucijos sutikimas likviduoti pensijų asociaciją bei jos pritarimas
 likvidatoriaus kandidatūrai. 
@@ -711,8 +723,8 @@ finansuojančių subjektų ir pensijų fondų dalyvių interesams.
 3.
 Valdybos nariai, veikdami pensijų asociacijos vardu ir interesais, turi veikti
 su rūpestingai ir kvalifikuotai, savo veikloje vadovautis šiuo įstatymu, kitais
-teisės aktais, pensijų asociacijos įstatais, pensijų fondų taisyklėmis, teisingumo,
-protingumo ir sąžiningumo principais, vengti interesų konfliktų.
+teisės aktais, pensijų asociacijos įstatais, pensijų fondų taisyklėmis,
+teisingumo, protingumo ir sąžiningumo principais, vengti interesų konfliktų.
 4.
 Tuo atveju, kai pensijų asociacija priima įmokas iš kitoje valstybėje narėje
 esančio finansuojančio subjekto, valdyba turi užtikrinti, kad pensijų
@@ -725,9 +737,9 @@ mažiau kaip 3 valdybos nariai.
 Valdybos nariais gali būti renkami nepriekaištingos reputacijos asmenys,
 turintys aukštąjį išsilavinimą, išmanantys pensijų asociacijų veiklą
 reglamentuojančius teisės aktus ir susipažinę su pagrindiniais investavimo
-principais. Pensijų asociacijos įstatuose gali būti nustatyti papildomi reikalavimai
-asmenims, renkamiems valdybos nariais. Valdybos narių kandidatūroms turi iš
-anksto pritarti priežiūros institucija. 
+principais. Pensijų asociacijos įstatuose gali būti nustatyti papildomi
+reikalavimai asmenims, renkamiems valdybos nariais. Valdybos narių
+kandidatūroms turi iš anksto pritarti priežiūros institucija. 
 7.
 Valdyba sudaroma ne ilgesniam kaip 5 metų laikotarpiui. Tas pats valdybos narys
 gali būti renkamas ne daugiau kaip dviem kadencijoms iš eilės.
@@ -765,8 +777,7 @@ reguliariai peržiūri pensijų asociacijos pensijų fondo (fondų) investavimo
 politikos principus ir prireikus inicijuoja jų pakeitimus, kad šie principai
 atitiktų pensijų asociacijos veiklos tikslus;
 4)
-suderinusi su priežiūros institucija, parenka pensijų turto valdytoją ir sudaro
-su juo pensijų turto valdymo sutartį;
+suderinusi su priežiūros institucija, parenka pensijų fondo valdytoją ir sudaro su juo pensijų fondo valdymo sutartį;
 5)
 suderinusi su priežiūros institucija, parenka pensijų turto saugotoją ir sudaro
 su juo pensijų turto saugojimo sutartį;
@@ -784,8 +795,7 @@ atlieka kitas jai įstatuose ar visuotinio pensijų asociacijos narių susirinki
 sprendimais pavestas funkcijas.
 2.
 Valdyba atsako, kad visuotinis narių susirinkimas būtų sušauktas ir surengtas
-laiku, taip pat pagal savo kompetenciją – už kitų šio įstatymo nuostatų
-laikymąsi.
+laiku, taip pat pagal savo kompetenciją – už kitų šio įstatymo nuostatų laikymąsi.
 3.
 Valdyba turi užtikrinti, kad pensijų asociacijos buveinėje (jos nuolatinio
 valdymo organo buvimo vietoje) būtų abėcėlės tvarka sudarytas dalyvių sąrašas
@@ -806,6 +816,9 @@ padidinti jų pareigas, sprendimas turi būti priimtas visais balsais.
 6.
 Išsami valdybos sudarymo, darbo tvarka, reikalavimai valdybos nariams turi būti
 nustatyti pensijų asociacijos įstatuose.
+Straipsnio pakeitimai:
+Nr. XI-2125,
+2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
  
 KETVIRTASIS
 SKIRSNIS 
@@ -856,13 +869,14 @@ pagal gyvybės draudimo sutartį tvarka;
 kurių imamasi, jeigu finansuojantis subjektas negali įvykdyti savo
 įsipareigojimų;
 12)
-pensijų turto valdytojo, pensijų turto saugotojo parinkimo kriterijai, jų
+pensijų fondo
+valdytojo, pensijų turto saugotojo parinkimo kriterijai, jų
 pasirinkimo, pakeitimo sąlygos ir tvarka;
 13)
-atlyginimo pensijų turto valdytojui ir pensijų turto saugotojui apskaičiavimo
-metodika, maksimalus dydis ir mokėjimo tvarka, kitų išlaidų, dengiamų iš
-pensijų fondo turto, baigtinis sąrašas ir apskaičiavimo metodika, taip pat
-maksimalūs dydžiai;
+atlyginimo pensijų fondo valdytojui
+ir pensijų turto saugotojui apskaičiavimo metodika, maksimalus dydis ir
+mokėjimo tvarka, kitų išlaidų, dengiamų iš pensijų fondo turto, baigtinis
+sąrašas ir apskaičiavimo metodika, taip pat maksimalūs dydžiai;
 14)
 ataskaitų pateikimo dalyviams šio įstatymo nustatytais atvejais tvarka, taip
 pat kitų pranešimų pateikimo pensijų fondo dalyviams formos ir tvarka bei
@@ -902,6 +916,9 @@ pasikeitimo. Jeigu per 2 mėnesius nuo tokio pranešimo gavimo dalyvis
 nepareiškia prieštaravimo, laikoma, kad jis sutinka su pakeitimais. Dalyvis, nesutinkantis su pensijų fondo taisyklių
 pakeitimais, turi teisę nutraukti jo paties mokamų įmokų mokėjimą, tačiau
 dalyvavimas pensijų fonde tęsiasi. 
+Straipsnio pakeitimai:
+Nr. XI-2125,
+2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
  
 16
 straipsnis. Pensijų sąskaitos
@@ -934,16 +951,16 @@ Kai šiame įstatyme ar kituose teisės aktuose nustatytais atvejais turi būti
 išmokamos dalyviui apskaičiuotos lėšos ar jų dalis, apskaitos vienetai
 konvertuojami į pinigus. Jie išmokami ar pervedami ne vėliau kaip per vieną
 mėnesį nuo atitinkamo dokumento, pagal kurį turi būti išmokama, gavimo ar
-teisinio pagrindo juos išmokėti atsiradimo. Konvertuojama apskaitos vienetų verte,
-apskaičiuota apskaitos vienetų konvertavimo dieną.
+teisinio pagrindo juos išmokėti atsiradimo. Konvertuojama apskaitos vienetų
+verte, apskaičiuota apskaitos vienetų konvertavimo dieną.
  
 18
 straipsnis. Pensijų fondo
 turtas
 1.
 Pensijų fondo turtas yra pensijų fondo dalyvių ir išmokų gavėjų bendroji dalinė
-nuosavybė, išskyrus atvejus, kai nepasibaigęs minimalus dalyvavimo laikotarpis ir
-dėl to dalyvis neįgijo nuosavybės teisių į jo vardu pensijų fonde sukauptą
+nuosavybė, išskyrus atvejus, kai nepasibaigęs minimalus dalyvavimo laikotarpis
+ir dėl to dalyvis neįgijo nuosavybės teisių į jo vardu pensijų fonde sukauptą
 pensijų turto dalį. Kol nėra pasibaigęs
 minimalus dalyvavimo laikotarpis, finansuojančio subjekto įmokomis pensijų
 fondo dalyvio vardu sukaupta pensijų turto dalis nuosavybės teise priklauso
@@ -952,23 +969,22 @@ finansuojančiam subjektui.
 Dalyvio ar išmokų gavėjo dalis bendrojoje nuosavybėje nustatoma pagal apskaitos
 vienetais išreikšto turto dalį.
 3. Pensijų
-asociacijos pensijų fondo (fondų) turto valdymas turi būti patikėtas šio
-įstatymo 31 straipsnyje nurodytam turto valdytojui, kuris pensijų turtą valdo,
-naudoja ir juo disponuoja turto patikėjimo teisės pagrindais.
+asociacijos pensijų fondo (fondų) valdymas turi būti patikėtas šio įstatymo 31
+straipsnyje nurodytam fondo valdytojui, kuris pensijų fondą valdo, naudoja ir
+juo disponuoja turto patikėjimo teisės pagrindais.
 4.
-Kiekvieno pensijų asociacijos pensijų fondo turtas turi būti įtraukiamas į
-apskaitą atskirai nuo kitų pensijų asociacijos pensijų fondų ir pensijų
-asociacijos nuosavo turto.
+Kiekvieno pensijų asociacijos pensijų fondo turtas turi būti įtraukiamas į apskaitą
+atskirai nuo kitų pensijų asociacijos pensijų fondų ir pensijų asociacijos
+nuosavo turto.
 5.
-Į pensijų fondo turtą draudžiama nukreipti išieškojimą pagal pensijų turto
-valdytojo, pensijų turto saugotojo, finansuojančio subjekto, pensijų asociacijos ir pensijų
+Į pensijų fondo turtą draudžiama nukreipti išieškojimą pagal pensijų fondo valdytojo, pensijų turto saugotojo, finansuojančio
+subjekto, pensijų asociacijos ir pensijų
 fondo dalyvių prievoles.
 6.
 Pensijų fonde sukauptas pensijų turtas gali būti naudojamas tik
 įsipareigojimams to pensijų fondo dalyviams dengti. Tuo atveju, kai pensijų
-asociacija priima įmokas iš kitoje valstybėje narėje esančio finansuojančio
-subjekto, šių įmokų pagrindu sukauptas turtas turi būti įtraukiamas į apskaitą
-atskirai. 
+asociacija priima įmokas iš kitoje valstybėje narėje esančio finansuojančio subjekto,
+šių įmokų pagrindu sukauptas turtas turi būti įtraukiamas į apskaitą atskirai. 
 7.
 Po pensijų fondo dalyvio mirties jam nuosavybės teise priklausanti pensijų turto dalis paveldima įstatymų
 nustatyta tvarka.
@@ -985,21 +1001,28 @@ Pensijų fondo grynųjų aktyvų vertės apskaičiavimo tvarką, principus ir
 periodiškumą nustato priežiūros institucija.
 11.
 Pensijų fondo turtas negali būti perleistas pensijų asociacijos valdymo organų
-nariams, pensijų turto valdytojui, finansuojančiam subjektui, pensijų turto
-valdytojo ir finansuojančio subjekto vadovui, valdybos, stebėtojų tarybos
-nariams ar pensijų asociacijos darbuotojams (ir jų sutuoktiniams). Taip pat
-draudžiama iš šioje dalyje nurodytų asmenų įsigyti turtą pensijų fondų lėšomis.
+nariams, pensijų fondo valdytojui,
+finansuojančiam subjektui, pensijų fondo valdytojo ir finansuojančio subjekto vadovui, valdybos,
+stebėtojų tarybos nariams ar pensijų asociacijos darbuotojams (ir jų
+sutuoktiniams). Taip pat draudžiama iš šioje dalyje nurodytų asmenų įsigyti
+turtą pensijų fondų lėšomis.
+Straipsnio pakeitimai:
+Nr. XI-2125,
+2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
  
 19
 straipsnis. Atskaitymai iš pensijų turto
 1.
-Atlyginimas už pensijų turto valdymą, saugojimą ir kitos su pensijų turto
-valdymu susijusios išlaidos gali būti dengiami iš pensijų turto.
+Atlyginimas už pensijų fondo valdymą, pensijų turto saugojimą ir kitos su
+pensijų fondo valdymu susijusios išlaidos gali būti dengiami iš pensijų turto.
 2. Iš pensijų
-turto galima apmokėti tik tas išlaidas, kurios susijusios su pensijų turto
-valdymu ir saugojimu ir kurių baigtinis sąrašas yra nustatytas pensijų fondo
-taisyklėse. Šių išlaidų suma negali viršyti pensijų fondo taisyklėse nustatytų
-maksimalių dydžių. 
+turto galima apmokėti tik tas išlaidas, kurios susijusios su pensijų fondo
+valdymu ir pensijų turto saugojimu ir kurių baigtinis sąrašas yra nustatytas
+pensijų fondo taisyklėse. Šių išlaidų suma negali viršyti pensijų fondo
+taisyklėse nustatytų maksimalių dydžių. 
+Straipsnio pakeitimai:
+Nr. XI-2125,
+2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
  
 20
 straipsnis. Pagal kitų valstybių narių socialinės apsaugos ir darbo teisės
@@ -1012,8 +1035,7 @@ skirsniai netaikomi, jeigu nurodytų
 skirsnių reikalavimų laikymasis reikštų priimančiosios valstybės narės
 socialinės apsaugos ir darbo teisės aktų nuostatų pažeidimą. Bet kuriuo atveju
 apie tokių pensijų fondų taisyklių, sąlygų ar joms analogiškų dokumentų
-pasikeitimus pensijų asociacija turi nedelsdama informuoti priežiūros
-instituciją.
+pasikeitimus pensijų asociacija turi nedelsdama informuoti priežiūros instituciją.
  
 21
 straipsnis. Pensijų fondo panaikinimas 
@@ -1047,8 +1069,8 @@ ir priežiūros institucijai.
 sprendimas panaikinti pensijų fondą, nustatoma pensijų fondo panaikinimo data.
 Ji gali būti ne ankstesnė kaip praėjus 3 mėnesiams po atitinkamo sprendimo
 priėmimo. Priėmus sprendimą dėl pensijų fondo panaikinimo, finansuojančio
-subjekto pareiga mokėti įmokas baigiasi nuo sprendimo įsigaliojimo (įsiteisėjimo)
-dienos. 
+subjekto pareiga mokėti įmokas baigiasi nuo sprendimo įsigaliojimo
+(įsiteisėjimo) dienos. 
 7.
 Ne vėliau kaip prieš vieną mėnesį iki pensijų fondo panaikinimo naikinamo
 pensijų fondo dalyviams turi būti apie tai pranešta ir suteikta išsami
@@ -1062,8 +1084,8 @@ kaupti profesinę pensiją pagal gyvybės draudimo sutartį.
 Naikinamo pensijų fondo turtas padalijamas dalyviams proporcingai jiems
 apskaičiuoto turto vertei pagal pensijų fondo panaikinimo dienos duomenis.
 Pensijų fondo pensijų turtas turi būti realizuotas ir su dalyviais atsiskaityta
-pinigais. Naikinamo pensijų fondo pensijų turtas turi būti parduodamas per
-reguliuojamą rinką ar aukcione, siekiant dalyviams geriausio rezultato pagal priežiūros institucijos
+pinigais. Naikinamo pensijų fondo pensijų turtas turi būti parduodamas per reguliuojamą
+rinką ar aukcione, siekiant dalyviams geriausio rezultato pagal priežiūros institucijos
 nustatytas taisykles. 
 9.
 Ne vėliau kaip per 2 savaites nuo pensijų fondo panaikinimo administratorius
@@ -1096,12 +1118,12 @@ kvalifikacijos.
 3. Jeigu
 informacijos apie pensijų kaupimo profesiniuose pensijų fonduose veiklą
 teikimas ir (ar) sutarčių su pensijų fondų dalyviais sudarymas pensijų
-asociacijos vardu yra pavestas pensijų turto valdytojui, šio straipsnio 2
-dalies reikalavimai taikomi taip pat ir pensijų turto valdytojui. Priežiūros
-institucija turi teisę nustatyti asmenų, teikiančių informaciją apie pensijų
-kaupimo profesiniuose pensijų fonduose veiklą ir (ar) sudarančių sutartis su
-pensijų fondų dalyviais pensijų asociacijos vardu, kvalifikacinius
-reikalavimus.
+asociacijos vardu yra pavestas pensijų fondo valdytojui, šio straipsnio 2 dalies
+reikalavimai taikomi taip pat ir pensijų fondo valdytojui. Priežiūros
+institucija turi
+teisę nustatyti asmenų, teikiančių informaciją apie pensijų kaupimo
+profesiniuose pensijų fonduose veiklą ir (ar) sudarančių sutartis su pensijų
+fondų dalyviais pensijų asociacijos vardu, kvalifikacinius reikalavimus.
 4.
 Pensijų asociacijos įstatuose ir (ar) pensijų fondo taisyklėse gali būti
 nustatytas minimalus darbo santykių su finansuojančiu asmeniu laikotarpis,
@@ -1112,6 +1134,9 @@ Pensijų asociacijos įstatuose ir (ar) pensijų fondo taisyklėse gali būti
 nustatytas minimalus amžius, kurio nesukakęs asmuo negali tapti pensijų
 asociacijos nariu ir pensijų fondo dalyviu. Šis amžius negali būti didesnis
 kaip 21 metai. 
+Straipsnio pakeitimai:
+Nr. XI-2125,
+2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
  
 23
 straipsnis. Pensijų fondų dalyvių teisių ir interesų apsauga
@@ -1137,9 +1162,9 @@ nustatytos skirtingos pensijų išmokų skyrimo, jų gavimo apribojimo sąlygos;
 nustatytas skirtingas senatvės pensijos amžius;
 7)
 skirtingai nustatomos teisės (jų įgijimas) į dalyvių vardu sukaupto pensijų
-turto dalį už motinystės (tėvystės) atostogų arba kitų tikslinių atostogų, susijusių
-su šeiminėmis priežastimis, laikotarpius, kai atostogos suteikiamos pagal
-įstatymus arba sutartį ir įmokas tuo laikotarpiu moka darbdavys;
+turto dalį už motinystės (tėvystės) atostogų arba kitų tikslinių atostogų,
+susijusių su šeiminėmis priežastimis, laikotarpius, kai atostogos suteikiamos
+pagal įstatymus arba sutartį ir įmokas tuo laikotarpiu moka darbdavys;
 8)
 nustatyti skirtingi išmokų dydžiai, nebent būtina atsižvelgti į aktuarinio
 apskaičiavimo veiksnius, kurie atsižvelgiant į lytį skiriasi apibrėžtų įmokų
@@ -1259,8 +1284,8 @@ Pensijų išmokos gali būti mokamos šiais būdais:
 šio įstatymo nustatyta tvarka nuperkant pensijų anuitetą draudimo įmonėje,
 vykdančioje gyvybės draudimo veiklą;
 2)
-išmokant vienkartinę ar periodinę pensijų išmoką, jeigu tokie pensijų išmokos mokėjimo
-būdai yra numatyti pensijų fondo taisyklėse. 
+išmokant vienkartinę ar periodinę pensijų išmoką, jeigu tokie pensijų išmokos
+mokėjimo būdai yra numatyti pensijų fondo taisyklėse. 
 2.
 Pensijų anuitetas yra privalomas, kai dalyviui apskaičiuoto bazinio pensijų
 anuiteto dydis yra ne mažesnis kaip pusė valstybinės socialinio draudimo
@@ -1346,9 +1371,9 @@ jo vardu pensijų fonde sukauptas lėšas į kitos pensijų asociacijos pensijų
 fondą ar gyvybės draudimo įmonę toliau kaupti profesines pensijas pagal gyvybės
 draudimo sutartį;
 2)
-likti pensijų asociacijos nariu ir pensijų fondo dalyviu ir pensijų fonde jo vardu
-sukauptas lėšas laikyti, kol sukaks senatvės pensijos amžius, nustatytas to
-pensijų fondo taisyklėse, arba iki dienos, kurią Neįgalumo ir darbingumo
+likti pensijų asociacijos nariu ir pensijų fondo dalyviu ir pensijų fonde jo
+vardu sukauptas lėšas laikyti, kol sukaks senatvės pensijos amžius, nustatytas
+to pensijų fondo taisyklėse, arba iki dienos, kurią Neįgalumo ir darbingumo
 nustatymo tarnyba prie Socialinės apsaugos ir darbo ministerijos pripažins jį
 nedarbingu ar iš dalies darbingu ir nustatys darbingumo lygį, arba toliau kaupti pensiją savarankiškai mokant įmokas.
 Pensijų fondo taisyklėse negali būti dalyviui nustatytas reikalavimas tokiais
@@ -1391,45 +1416,52 @@ atvejus.
  
 ŠEŠTASIS
 SKIRSNIS
-PENSIJŲ TURTO
-VALDYMAS IR SAUGOJIMAS
+PENSIJŲ FONDO
+VALDYMAS IR PENSIJŲ TURTO SAUGOJIMAS
+Skirsnio pavadinimo pakeitimai:
+Nr. XI-2125,
+2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
  
 31
-straipsnis. Pensijų turto valdymas ir pensijų turto valdymo sutartis
+straipsnis. Pensijų fondo valdymas ir pensijų fondo valdymo sutartis
 1.
-Pensijų turto valdymas turi būti perduotas vienam pensijų turto valdytojui
-pagal pensijų turto valdymo sutartį, ją suderinus su priežiūros institucija.
-Tokiu pensijų asociacijos pensijų fondų pensijų turto valdytoju gali būti
-investicijų valdytojai, įsteigti ir veikiantys bet kurioje valstybėje narėje ir
-tinkamai įgalioti veikti, kaip tai numatyta 
-1985 m. gruodžio 20 d. Tarybos direktyvoje 85/611/EEB dėl įstatymų ir kitų
-teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius
-popierius subjektais (toliau – Direktyva 85/611/EEB), 1993 m. gegužės 10 d.
-Tarybos direktyvoje 93/22/EEB dėl investicinių paslaugų vertybinių popierių
-srityje (toliau – Direktyva 93/22/EEB), 2000 m. kovo 20 d. Europos
-Parlamento ir Tarybos direktyvoje 2000/12/EB dėl kredito įstaigų veiklos
-pradėjimo ir vykdymo (toliau – Direktyva 2000/12/EB) ir 2002 m. lapkričio
-5 d. Europos Parlamento ir Tarybos direktyvoje 2002/83/EB dėl gyvybės draudimo.
-
+Pensijų fondo valdymas turi būti perduotas vienam pensijų fondo valdytojui
+pagal pensijų fondo valdymo sutartį, ją suderinus su priežiūros institucija.
+Tokiu pensijų asociacijos pensijų fondų valdytoju gali būti investicijų
+valdytojai, įsteigti ir veikiantys bet kurioje valstybėje narėje ir tinkamai
+įgalioti veikti, kaip tai numatyta 1993 m. gegužės 10 d. Tarybos
+direktyvoje 93/22/EEB dėl investicinių paslaugų vertybinių popierių srityje (OL
+2004 m. specialusis leidimas, 6 skyrius, 2 tomas, p. 43) (toliau –
+Direktyva 93/22/EEB), 2000 m. kovo 20 d. Europos Parlamento ir Tarybos
+direktyvoje 2000/12/EB dėl kredito įstaigų veiklos pradėjimo ir vykdymo (OL
+2004 m. specialusis leidimas, 6 skyrius, 3 tomas, p. 272) (toliau –
+Direktyva 2000/12/EB), 2002 m. lapkričio 5 d. Europos Parlamento ir Tarybos
+direktyvoje 2002/83/EB dėl gyvybės draudimo (OL 2004 m. specialusis leidimas,
+6 skyrius, 6 tomas, p. 3) ir 2009 m. liepos 13 d. Europos Parlamento ir Tarybos
+direktyvoje 2009/65/EB dėl įstatymų ir kitų teisės aktų, susijusių su
+kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais
+(KIPVPS), derinimo (OL 2009 L 302, p. 32) su paskutiniais pakeitimais, padarytais 2010 m. lapkričio
+24 d. Europos Parlamento ir Tarybos direktyva 2010/78/ES (OL 2010 L 331, p. 120
+(toliau – Direktyva 2009/65/EB). 
 2.
-Pensijų turto valdytoju negali būti pensijų turto saugotojas, išskyrus šio
+Pensijų fondo valdytoju negali būti pensijų turto saugotojas, išskyrus šio
 įstatymo 34 straipsnyje numatytą atvejį.
 3.
-Pensijų turto valdymo sutartyje turi būti nurodyta:
+Pensijų fondo valdymo sutartyje turi būti nurodyta:
 1)
-pensijų turto valdytojo pavadinimas, buveinė, pensijų asociacijos pavadinimas,
+pensijų fondo valdytojo pavadinimas, buveinė, pensijų asociacijos pavadinimas,
 jos atstovo (atstovų) vardai, pavardės, įgaliojimų pagrindas;
 2)
 investicinės veiklos tikslai ir būdai, maksimali rizika;
 3)
-pensijų turto valdytojo teisės ir pareigos; 
+pensijų fondo valdytojo teisės ir pareigos; 
 4)
-atlyginimo pensijų turto valdytojui apskaičiavimo metodika, dydis ir mokėjimo
+atlyginimo pensijų fondo valdytojui apskaičiavimo metodika, dydis ir mokėjimo
 tvarka; 
 5)
-kitų pensijų turto valdymo išlaidų baigtinis sąrašas ir apskaičiavimo metodika;
+kitų pensijų fondo valdymo išlaidų baigtinis sąrašas ir apskaičiavimo metodika;
 6)
-pensijų turto valdytojo įgaliojimai palaikant santykius su pensijų turto
+pensijų fondo valdytojo įgaliojimai palaikant santykius su pensijų turto
 saugotoju ir kitomis institucijomis;
 7)
 keitimosi informacija tvarka ir terminai;
@@ -1441,8 +1473,11 @@ atsakomybė už įsipareigojimų nevykdymą;
 10)
 sutarties nutraukimo sąlygos ir tvarka.
 4.
-Pensijų turto valdymo sutartis gali būti pakeista tik tuo atveju, kai tam iš
+Pensijų fondo valdymo sutartis gali būti pakeista tik tuo atveju, kai tam iš
 anksto pritarė priežiūros institucija jos nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. XI-2125,
+2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
  
 32
 straipsnis. Pensijų turto saugojimas
@@ -1456,7 +1491,7 @@ tai neatleidžia jo nuo atsakomybės.
 3.
 Pensijų turto saugotojais gali būti valstybėje narėje įsteigti ir tinkamai
 įgalioti veikti subjektai, kaip numatyta Direktyvoje 93/22/EEB arba Direktyvoje
-2000/12/EB, arba veikiantys kaip depozitoriumai Direktyvoje 85/611/EEB
+2000/12/EB, arba veikiantys kaip depozitoriumai Direktyvoje 2009/65/EB
 nustatytiems tikslams pasiekti.
 4.
 Šio įstatymo pagrindu priimtas priežiūros institucijos sprendimas apriboti arba
@@ -1476,6 +1511,9 @@ analogiško subjekto turtu.
 6.
 Pensijų turto saugojimo sutartis gali būti pakeista tik tuo atveju, kai tam iš
 anksto pritarė priežiūros institucija jos nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. XI-2125,
+2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
  
 33
 straipsnis. Pensijų turto saugotojo pareigos 
@@ -1489,14 +1527,15 @@ reikalavimus;
 užtikrinti, kad pensijų fondų apskaitos vienetų vertė būtų skaičiuojama pagal
 teisės aktų ir pensijų fondo taisyklių reikalavimus;
 3)
-vykdyti pensijų turto valdytojo nurodymus, jeigu jie neprieštarauja teisės
-aktų, pensijų asociacijos įstatų ir pensijų fondo taisyklių reikalavimams;
+vykdyti pensijų fondo valdytojo
+nurodymus, jeigu jie neprieštarauja teisės aktų, pensijų asociacijos įstatų ir
+pensijų fondo taisyklių reikalavimams;
 4)
 užtikrinti, kad įplaukos už perleistą turtą per nustatytą laiką būtų pervestos
 į pensijų fondo sąskaitą; 
 5)
-užtikrinti, kad pensijų fondų įplaukos būtų naudojamos pagal teisės aktų ir
-pensijų fondo taisyklių reikalavimus.
+užtikrinti, kad pensijų fondų įplaukos būtų naudojamos pagal teisės aktų ir pensijų
+fondo taisyklių reikalavimus.
 2.
 Pensijų turto saugotojas privalo pranešti priežiūros institucijai ir pensijų
 asociacijos valdybai apie visus pastebėtus teisės aktų ar pensijų asociacijos
@@ -1505,34 +1544,43 @@ asociacijos valdybai apie visus pastebėtus teisės aktų ar pensijų asociacijo
 Pensijų turto saugotojas atsako už žalą, padarytą pensijų fondų dalyvių ar
 išmokų gavėjų interesams dėl to, kad jis neatliko savo pareigų ar netinkamai
 jas atliko.
+Straipsnio pakeitimai:
+Nr. XI-2125, 2012-06-26,
+Žin., 2012, Nr. 77-3980 (2012-07-01)
  
 34
-straipsnis. Pensijų turto valdymo perdavimas pensijų turto saugotojui 
+straipsnis. Pensijų fondo valdymo perdavimas pensijų turto saugotojui 
 Jeigu
-pensijų turto valdytojo teisė valdyti pensijų turtą pasibaigia, o kitam pensijų
-turto valdytojui pensijų turto valdymas neperduotas, jį laikinai perima pensijų
-turto saugotojas. Pensijų turto valdytojas privalo raštu pranešti pensijų turto
-saugotojui apie teisės valdyti pensijų turtą pasibaigimą. Tokiu atveju pensijų
-turto saugotojas turi visas pensijų turto valdytojo teises ir pareigas, jeigu
+pensijų fondo valdytojo teisė valdyti pensijų fondą pasibaigia, o kitam pensijų
+fondo valdytojui pensijų fondo valdymas neperduotas, jį laikinai perima pensijų
+turto saugotojas. Pensijų fondo valdytojas privalo raštu pranešti pensijų turto
+saugotojui apie teisės valdyti pensijų fondą pasibaigimą. Tokiu atveju pensijų
+turto saugotojas turi visas pensijų fondo valdytojo teises ir pareigas, jeigu
 įstatymuose arba pensijų asociacijos įstatuose ar pensijų fondų taisyklėse
 nenustatyta kitaip. Pensijų turto saugotojas privalo perduoti valdymą kitam
-pensijų turto valdytojui per 3 mėnesius nuo pensijų turto valdymo perėmimo. Per
-3 mėnesius kitam pensijų turto valdytojui neperdavus valdyti pensijų turto,
+pensijų fondo valdytojui per 3 mėnesius nuo pensijų fondo valdymo perėmimo. Per
+3 mėnesius kitam pensijų fondo valdytojui neperdavus valdyti pensijų turto,
 pensijų asociacija turi būti likviduota priverstine tvarka. Priežiūros
 institucija turi teisę kreiptis į teismą dėl priverstinio pensijų asociacijos
 likvidavimo. 
+Straipsnio pakeitimai:
+Nr. XI-2125,
+2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
  
 35
-straipsnis. Pensijų turto valdytojo ir pensijų turto saugotojo pakeitimas
+straipsnis. Pensijų fondo valdytojo ir pensijų turto saugotojo pakeitimas
 1.
-Pensijų turto valdytojas ir (ar) pensijų turto saugotojas gali būti pakeistas
+Pensijų fondo valdytojas ir (ar) pensijų turto saugotojas gali būti pakeistas
 tik gavus išankstinį priežiūros institucijos pritarimą jos nustatyta tvarka.
 2.
-Jeigu pensijų turto valdytojas ir (ar) pensijų turto saugotojas nesilaiko
+Jeigu pensijų fondo valdytojas ir (ar) pensijų turto saugotojas nesilaiko
 teisės aktų reikalavimų, nevykdo savo įsipareigojimų ar netinkamai juos vykdo,
 priežiūros institucija, siekdama apsaugoti pensijų fondų dalyvių interesus,
-turi teisę nurodyti pensijų asociacijai pakeisti pensijų turto valdytoją ir
+turi teisę nurodyti pensijų asociacijai pakeisti pensijų fondo valdytoją ir
 (ar) pensijų turto saugotoją.
+Straipsnio pakeitimai:
+Nr. XI-2125,
+2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
  
 SEPTINTASIS
 SKIRSNIS
@@ -1578,9 +1626,9 @@ Gyvybės draudimo sutartys, pagal kurias kaupiamos profesinės pensijos,
 įtraukiamos į priežiūros institucijos administruojamą tokių sutarčių sąrašą. 
 3. Gyvybės
 draudimo sutartyse, pagal kurias kaupiamos profesinės pensijos, naudos gavėju
-gali būti tik apdraustasis, o jo mirties atveju – draudimo išmoka paveldima įstatymų
-nustatyta tvarka, išskyrus minimalaus dalyvavimo laikotarpiu, jeigu toks yra
-nustatytas draudimo taisyklėse.
+gali būti tik apdraustasis, o jo mirties atveju – draudimo išmoka paveldima
+įstatymų nustatyta tvarka, išskyrus minimalaus dalyvavimo laikotarpiu, jeigu
+toks yra nustatytas draudimo taisyklėse.
 4.
 Gyvybės draudimo sutartys, pagal kurias kaupiamos profesinės pensijos,
 sudaromos, keičiamos ir nutraukiamos atsižvelgiant į susitarimą, sudarytą tarp
@@ -1612,9 +1660,9 @@ dalį. Draudimo sutartyje, pagal kurią kaupiamos profesinės pensijos, gali bū
 nustatytas terminas, ilgesnis už šioje dalyje nurodytą terminą.
 6.
 Žodžiai „profesinės pensijos“, „profesinių pensijų kaupimas pagal gyvybės
-draudimo sutartį“ ar kitokie šių žodžių junginiai arba jų vediniai gali būti vartojami
-tik tokių gyvybės draudimo sutarčių, kurios yra įtrauktos į šiame straipsnyje
-nurodytą sąrašą, pavadinime ar reklamoje.
+draudimo sutartį“ ar kitokie šių žodžių junginiai arba jų vediniai gali būti
+vartojami tik tokių gyvybės draudimo sutarčių, kurios yra įtrauktos į šiame
+straipsnyje nurodytą sąrašą, pavadinime ar reklamoje.
  
 38
 straipsnis. Draudimo išmokos
@@ -1642,8 +1690,8 @@ Gyvybės draudimo įmonių, vykdančių profesinių pensijų kaupimo veiklą, pr
 atlieka priežiūros institucija Draudimo įstatymo ir kitų teisės aktų nustatyta
 tvarka.
 2.
-Be kitų šiam įstatymui įgyvendinti reikalingų teisės aktų, priežiūros
-institucija priima šiuos teisės aktus:
+Be kitų šiam įstatymui įgyvendinti reikalingų teisės aktų, priežiūros institucija
+priima šiuos teisės aktus:
 1)
 Gyvybės draudimo sutarčių, pagal kurias kaupiamos profesinės pensijos,
 įtraukimo į priežiūros institucijos administruojamą tokių sutarčių sąrašą ir
@@ -1664,17 +1712,17 @@ straipsnis. Taikymo sritis
 1. Šis skirsnis taikomas Lietuvoje įsteigtoms pensijų
 asociacijoms (kai buveinės valstybė narė yra Lietuvos Respublika), šio įstatymo
 57 straipsnyje nustatyta tvarka gavusioms priežiūros institucijos leidimą
-valdyti kitose valstybėse narėse pagal galiojančias socialinės apsaugos ir darbo
-teisės normas apibrėžtų išmokų pensijų fondus, priimant į šiuos fondus įmokas
-iš kitų valstybių narių teritorijose esančių finansuojančių subjektų. 
+valdyti kitose valstybėse narėse pagal galiojančias socialinės apsaugos ir
+darbo teisės normas apibrėžtų išmokų pensijų fondus, priimant į šiuos fondus
+įmokas iš kitų valstybių narių teritorijose esančių finansuojančių subjektų. 
 2.
 Šis skirsnis taikomas apibrėžtų išmokų pensijų fondų valdymui. 
 3.
 Kai pensijų išmokų mokėjimą pagal pensijų fondo taisykles garantuoja
 finansuojantis subjektas, leidimas valdyti tokį pensijų fondą gali būti
 išduodamas tik tuo atveju, kai finansuojantis subjektas yra įsipareigojęs
-reguliariai mokėti įmokas ir yra nustatytos išsamios tokio garantavimo taisyklės.
-
+reguliariai mokėti įmokas ir yra nustatytos išsamios tokio garantavimo
+taisyklės. 
 4.
 Apibrėžtų išmokų pensijų fondų valdymas ir administravimas turi būti atskirtas
 nuo kitų pensijų fondų valdymo ir administravimo.
@@ -1700,12 +1748,12 @@ kitus apibrėžtų išmokų pensijų fondų valdymą reglamentuojančių teisės
 3)
 siekti, kad techninių atidėjinių padengimas turtu atitiktų pensijų fondo tipą
 ir teisės aktų nustatytus reikalavimus, teikti pensijų asociacijos ir pensijų
-turto valdytojo valdyboms pasiūlymus šiuo klausimu;
+fondo
+valdytojo valdyboms pasiūlymus šiuo klausimu;
 4)
-ne rečiau kaip kartą per ketvirtį pensijų asociacijos ir pensijų turto
-valdytojo valdyboms teikti pensijų asociacijos valdybos nustatytos formos
-ataskaitas dėl techninių atidėjinių padengimo būklės ir šio įstatymo 45
-straipsnyje nustatytų reikalavimų laikymosi būklės; 
+ne rečiau kaip kartą per ketvirtį pensijų asociacijos ir pensijų fondo valdytojo valdyboms teikti pensijų asociacijos valdybos
+nustatytos formos ataskaitas dėl techninių atidėjinių padengimo būklės ir šio
+įstatymo 45 straipsnyje nustatytų reikalavimų laikymosi būklės; 
 5)
 teikti priežiūros institucijai jos nustatytos formos ataskaitas jos nustatytu
 periodiškumu ir tvarka;
@@ -1723,6 +1771,9 @@ informaciją ir dokumentus.
 4.
 Kitos aktuaro teisės, pareigos ir atsakomybė nustatomos pensijų asociacijos
 valdybos patvirtintame aktuaro darbo reglamente.
+Straipsnio pakeitimai:
+Nr. XI-2125,
+2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
  
 43
 straipsnis. Techniniai atidėjiniai 
@@ -1737,11 +1788,11 @@ taisyklių.
 Pensijų asociacija, valdanti apibrėžtų išmokų pensijų fondą, turi suformuoti
 pakankamus techninius atidėjinius visiems jos valdomiems apibrėžtiems išmokų pensijų fondams. 
 3.
-Techniniai atidėjiniai apskaičiuojami kiekvienais metais. Techniniai
-atidėjiniai gali būti apskaičiuojami kartą per 3 metus, jeigu priežiūros
-institucijai pateikiami tarpinių metų perskaičiavimų patvirtinimai arba
-ataskaitos. Patvirtinimas arba ataskaita turi atspindėti patikslintą techninių
-atidėjinių pokytį ir padengtų rizikų pasikeitimus. 
+Techniniai atidėjiniai apskaičiuojami kiekvienais metais. Techniniai atidėjiniai
+gali būti apskaičiuojami kartą per 3 metus, jeigu priežiūros institucijai
+pateikiami tarpinių metų perskaičiavimų patvirtinimai arba ataskaitos.
+Patvirtinimas arba ataskaita turi atspindėti patikslintą techninių atidėjinių
+pokytį ir padengtų rizikų pasikeitimus. 
 4.
 Techninių atidėjinių apskaičiavimą turi atlikti ir patvirtinti aktuaras arba
 kitas šios srities specialistas, įskaitant auditorių, remdamasis priežiūros
@@ -1800,8 +1851,8 @@ tam tikrus investavimo rezultatus ar tam tikrą išmokų dydį, visada turi tur�
 papildomo techninius atidėjinius viršijančio turto, kuris gali būti
 panaudojamas kaip rezervas. Jo dydis turi atitikti visų pensijų asociacijos
 apibrėžtų išmokų pensijų fondų rizikos tipą ir turto pagrindą. Šis turtas turi
-būti be jokių iš anksto numatomų įsipareigojimų ir naudojamas kaip apsaugos
-kapitalas numatytų ir faktinių išlaidų bei pelno neatitikimams padengti. 
+būti be jokių iš anksto numatomų įsipareigojimų ir naudojamas kaip apsaugos kapitalas
+numatytų ir faktinių išlaidų bei pelno neatitikimams padengti. 
 2.
 Būtinas papildomo turto dydis apskaičiuojamas Draudimo įstatymo 39 straipsnyje
 nustatyta tvarka. 
@@ -1816,8 +1867,8 @@ straipsnis. Investavimo politikos principai
 1.
 Kiekvieno pensijų asociacijos pensijų fondo investavimo politikos principai
 turi būti peržiūrimi ne rečiau kaip kartą per 3 metus ir prireikus
-patikslinami. Taip pat principai turi būti nedelsiant patikslinti, jeigu atsiranda
-esminių investavimo politikos pokyčių. 
+patikslinami. Taip pat principai turi būti nedelsiant patikslinti, jeigu
+atsiranda esminių investavimo politikos pokyčių. 
 2.
 Investavimo politikos principai turi apimti bent šiuos dalykus:
 1)
@@ -1837,8 +1888,8 @@ Pensijų turtas turi būti investuojamas pagal „apdairaus asmens“ taisyklę,
 laikantis šių reikalavimų: 
 1)
 turtas turi būti investuojamas geriausiais dalyvių ir išmokų gavėjų interesais.
-Galimo interesų konflikto atveju pensijų turto valdytojas turi užtikrinti, kad
-būtų investuojama išimtinai dalyvių ir išmokų gavėjų interesais; 
+Galimo interesų konflikto atveju pensijų fondo valdytojas turi užtikrinti, kad būtų investuojama išimtinai
+dalyvių ir išmokų gavėjų interesais; 
 2)
 turtas turi būti investuojamas taip, kad būtų užtikrintas investicijų
 portfelio, kaip visumos, saugumas, kokybė, likvidumas ir pelningumas. Pensijų
@@ -1888,6 +1939,9 @@ asmenų įsipareigojimų vykdymą.
 6.
 Pensijų fondo lėšomis taip pat negali būti sudaromi sandoriai dėl vertybinių
 popierių, pinigų rinkos priemonių, kurių jis neturi, perleidimo. 
+Straipsnio pakeitimai:
+Nr. XI-2125,
+2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
  
 48
 straipsnis. Investavimo apribojimai
@@ -1901,8 +1955,9 @@ prekiaujama reguliuojamose rinkose. Pensijų asociacija turi teisę nuspręsti d
 2.
 šio straipsnio 1 dalyje nustatyta
 70 procentų riba gali būti padidinta priežiūros institucijos leidimu, jeigu
-tokiu atveju užtikrinamas šio įstatymo 47 straipsnyje nurodytos „apdairaus asmens“
-taisyklės laikymasis ir nėra pažeidžiami dalyvių ir išmokų gavėjų interesai.
+tokiu atveju užtikrinamas šio įstatymo 47 straipsnyje nurodytos „apdairaus
+asmens“ taisyklės laikymasis ir nėra pažeidžiami dalyvių ir išmokų gavėjų
+interesai.
 3.
 Iki 30 procentų turto, kuriuo dengiami techniniai atidėjiniai, gali būti
 investuojama į turtą, išreikštą kitomis valiutomis negu tos, kuriomis išreikšti
@@ -1933,12 +1988,12 @@ jeigu jos pagrįstos rizikos ribojimu, ypač atsižvelgiant į pensijų asociaci
 prisiimtus įsipareigojimus.
 9.
 Tuo atveju, kai Lietuvos Respublikoje įsteigta pensijų asociacija vykdo
-tarpvalstybinę veiklą šio įstatymo 57 straipsnyje nustatyta tvarka ir priimančiosios
-valstybės narės teisės aktais nustatytos specialios investavimo taisyklės,
-taikomos tarpvalstybinės veiklos atveju, pensijų asociacija savo veikloje tokių
-taisyklių privalo laikytis investuodama tą turto dalį, kuri atitinka
-tarpvalstybinės veiklos mastą. Tokiu atveju turtas, kuriam taikomos specialios
-taisyklės, turi būti atskirtas nuo kito turto.
+tarpvalstybinę veiklą šio įstatymo 57 straipsnyje nustatyta tvarka ir
+priimančiosios valstybės narės teisės aktais nustatytos specialios investavimo
+taisyklės, taikomos tarpvalstybinės veiklos atveju, pensijų asociacija savo
+veikloje tokių taisyklių privalo laikytis investuodama tą turto dalį, kuri
+atitinka tarpvalstybinės veiklos mastą. Tokiu atveju turtas, kuriam taikomos
+specialios taisyklės, turi būti atskirtas nuo kito turto.
  
 DEŠIMTASIS
 SKIRSNIS
@@ -1983,10 +2038,10 @@ straipsnis. Dalyviams ir išmokų gavėjams teikiama informacija
 Kiekvienam pensijų fondo dalyviui ne rečiau kaip kartą per kalendorinius metus
 pensijų asociacijos įstatuose ir (ar) pensijų fondo taisyklėse nustatyta tvarka
 raštu ar kitokia dalyvio pageidaujama forma turi būti pranešama apie jo vardu
-sumokėtų įmokų dydį (nurodant įmokų mokėtoją (mokėtojus), įmokų dalies
-pasiskirstymą, jam apskaičiuoto pensijų turto dydį (apskaitos vienetų skaičių,
-jų vertę), metinę investicijų grąžą, išskaitytų mokesčių dydį, glaustą pensijų
-asociacijos būklės aprašymą.
+sumokėtų įmokų dydį (nurodant įmokų mokėtoją (mokėtojus), įmokų dalies pasiskirstymą,
+jam apskaičiuoto pensijų turto dydį (apskaitos vienetų skaičių, jų vertę),
+metinę investicijų grąžą, išskaitytų mokesčių dydį, glaustą pensijų asociacijos
+būklės aprašymą.
 2. Dalyvių,
 išmokų gavėjų ar jų atstovų prašymu turi būti pateikiama šio įstatymo 49
 straipsnyje nurodyta metinė finansinė ataskaita ir metinė veiklos ataskaita, o
@@ -2060,9 +2115,8 @@ ASOCIACIJŲ VEIKLOS PRIEŽIŪRA
 52
 straipsnis. Priežiūros institucija 
 1.
-Lietuvos Respublikos teritorijoje įsteigtų pensijų asociacijų ir pensijų turto
-valdytojų veiklą prižiūri ir už šio įstatymo 57 straipsnyje numatytą
-tarpvalstybinę veiklą yra atsakinga priežiūros institucija.
+Lietuvos Respublikos teritorijoje įsteigtų pensijų asociacijų ir pensijų fondo valdytojų veiklą prižiūri ir už šio įstatymo 57 straipsnyje
+numatytą tarpvalstybinę veiklą yra atsakinga priežiūros institucija.
 2.
 Priežiūros institucija priežiūros funkcijas atlieka vadovaudamasi šiuo
 įstatymu, Finansinių priemonių rinkų įstatymu ir turi šio bei kitų įstatymų
@@ -2107,10 +2161,9 @@ pensijų asociacijos funkcijos yra perduotos šiems asmenims, jeigu tai turi
 įtakos pensijų asociacijos finansinei būklei arba iš esmės yra susiję su
 veiksminga priežiūra; 
 4)
-periodiškai gauti iš pensijų asociacijos ir pensijų turto valdytojo informaciją
-apie pensijų fondo investavimo politikos principus, metinę finansinę ataskaitą
-ir metines veiklos ataskaitas bei visus kitus priežiūrai būtinus dokumentus ir
-ataskaitas;
+periodiškai gauti iš pensijų asociacijos ir pensijų fondo valdytojo informaciją apie pensijų fondo investavimo
+politikos principus, metinę finansinę ataskaitą ir metines veiklos ataskaitas
+bei visus kitus priežiūrai būtinus dokumentus ir ataskaitas;
 5)
 atlikti patikrinimus vietoje pensijų asociacijos patalpose, taip pat perduotų
 funkcijų patikrinimus vietoje, siekdama nustatyti, ar veikla vykdoma laikantis
@@ -2144,6 +2197,8 @@ Straipsnio pakeitimai:
 Nr.
 XI-1887,
 2011-12-22, Žin., 2011, Nr. 163-7776 (2011-12-31)
+Nr. XI-2125,
+2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
  
 53
 straipsnis. Priežiūros institucijos
@@ -2160,20 +2215,18 @@ gauti žodžiu ar raštu asmenų, susijusių su tiriamais pažeidimais, paaiški
 reikalauti, kad šie asmenys atvyktų duoti paaiškinimų į patikrinimą atliekančio
 darbuotojo tarnybines patalpas;
 2)
-pateikę tarnybinį pažymėjimą ir priežiūros institucijos ar jos įgalioto
-tarnautojo motyvuotą sprendimą atlikti patikrinimą (reviziją), laisvai įeiti į
-pensijų asociacijos, pensijų turto valdytojo, pensijų turto saugotojo, kitų
-juridinių asmenų, susijusių su galimais pažeidimais, patalpas, tikrinti
-dokumentus, apskaitos registrus ir kitus patikrinimui reikalingus informacijos
-šaltinius ir pagal tikrinimo medžiagą iš ekspertizės įstaigų gauti išvadas;
+pateikę tarnybinį pažymėjimą ir priežiūros institucijos ar jos įgalioto tarnautojo motyvuotą sprendimą atlikti
+patikrinimą (reviziją), laisvai įeiti į pensijų asociacijos, pensijų fondo valdytojo, pensijų turto saugotojo, kitų juridinių asmenų,
+susijusių su galimais pažeidimais, patalpas, tikrinti dokumentus, apskaitos
+registrus ir kitus patikrinimui reikalingus informacijos šaltinius ir pagal
+tikrinimo medžiagą iš ekspertizės įstaigų gauti išvadas;
 3)
 reikalauti padaryti apskaitos dokumentų, sutarčių, įsakymų ir kitų dokumentų,
 kuriuos priežiūros institucija laiko svarbiais tyrimui, kopijas;
 4)
-laikinai paimti tikrinamų pensijų asociacijų, pensijų turto valdytojų, pensijų
-turto saugotojų dokumentus, kurie gali būti panaudojami kaip pažeidimo
-įrodymai, palikdami motyvuotą sprendimą dėl dokumentų paėmimo ir paimtų
-dokumentų apyrašą;
+laikinai paimti tikrinamų pensijų asociacijų, pensijų fondo valdytojų, pensijų turto saugotojų dokumentus, kurie gali
+būti panaudojami kaip pažeidimo įrodymai, palikdami motyvuotą sprendimą dėl
+dokumentų paėmimo ir paimtų dokumentų apyrašą;
 5)
 pateikę priežiūros institucijos motyvuotą sprendimą, gauti iš banko įstaigų
 duomenis, pažymas ir finansinių operacijų, susijusių su tikrinamu objektu,
@@ -2181,6 +2234,9 @@ dokumentų kopijas.
 3.
 Šio straipsnio 2 dalyje nustatytoms teisėms įgyvendinti priežiūros institucija
 turi teisę pasitelkti policijos pareigūnus.
+Straipsnio pakeitimai:
+Nr. XI-2125,
+2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
  
 54
 straipsnis. Pensijų asociacijoms taikomos
@@ -2201,18 +2257,22 @@ sąrašo;
 6)
 apriboti ar uždrausti disponavimą pensijų turtu;
 7)
-įpareigoti pakeisti pensijų turto valdytoją ir (ar) pensijų turto saugotoją;
+įpareigoti pakeisti pensijų fondo valdytoją
+ir (ar) pensijų turto saugotoją;
 8)
 siekdama apsaugoti pensijų fondų dalyvių ir išmokų gavėjų interesus, apriboti
 pensijų asociaciją valdančių asmenų visus arba dalį įgaliojimų, kuriuos jie
 turi pagal šį įstatymą, pavesti šiuos įgaliojimus vykdyti turinčiam teisę
 specialiam atstovui.
+Straipsnio pakeitimai:
+Nr. XI-2125,
+2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
  
 55
 straipsnis. Poveikio priemonių taikymo pagrindas
 1.
-Šiame įstatyme nustatytos poveikio priemonės gali būti taikomos, kai yra bent vienas
-iš šių pagrindų:
+Šiame įstatyme nustatytos poveikio priemonės gali būti taikomos, kai yra bent
+vienas iš šių pagrindų:
 1)
 pensijų asociacija priežiūros institucijai pateikė neteisingą informaciją;
 2)
@@ -2259,22 +2319,31 @@ XI-1887,
  
 56
 straipsnis. Piniginės baudos už šio įstatymo pažeidimą
-Priežiūros
-institucija, vadovaudamasi Finansinių priemonių rinkų įstatymo 94 straipsnyje
-nustatyta tvarka, turi teisę skirti baudas:
+1.
+Priežiūros institucija, vadovaudamasi Finansinių priemonių rinkų įstatymo
+94 straipsnyje nustatyta tvarka, turi teisę skirti baudas:
 1)
-juridiniams asmenims, neįtrauktiems į Pensijų asociacijų sąrašą ar iš jo
-išbrauktiems, jeigu jie vykdo veiklą kaip pensijų asociacijos, – iki 100 tūkstančių
-litų;
+juridiniams asmenims, neįtrauktiems į pensijų
+asociacijų sąrašą ar iš jo išbrauktiems, jeigu jie vykdo veiklą kaip pensijų
+asociacijos, – iki 100 tūkstančių litų;
 2)
-juridiniams asmenims, jeigu jie vykdo veiklą kaip pensijų turto valdytojai be
+juridiniams asmenims, jeigu jie vykdo veiklą kaip pensijų fondo valdytojai be
 priežiūros institucijos leidimo, – iki 100 tūkstančių litų;
 3)
 fiziniams asmenims (valdymo organų nariams, likvidatoriui, aktuarui,
 auditoriui), pažeidusiems šį įstatymą, – iki 20 tūkstančių litų;
 4)
-asmenims, kurie nevykdo teisėtų priežiūros institucijos nurodymų, – iki 30
-tūkstančių litų.
+asmenims, kurie nevykdo teisėtų priežiūros institucijos nurodymų, – iki 
+30 tūkstančių litų.
+2.
+Piniginės baudos į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį
+nuo dienos, kurią asmuo gavo priežiūros institucijos sprendimą skirti baudą.
+3.
+Savanoriškai neįvykdytas priežiūros institucijos sprendimas vykdomas Lietuvos
+Respublikos civilinio proceso kodekso nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. XI-2125,
+2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
  
 DVYLIKTASIS
 SKIRSNIS
@@ -2309,9 +2378,9 @@ ypatybės.
 Priežiūros institucija, gavusi šio straipsnio 3 dalyje nurodytą pranešimą,
 jeigu neturi priežasčių abejoti, kad pensijų asociacijos administravimo
 struktūra arba finansinė padėtis ar ją valdančių asmenų gera reputacija,
-profesinė kvalifikacija arba patirtis yra suderinama su priimančiojoje
-valstybėje narėje siūloma veikla, per 3 mėnesius nuo visos šio straipsnio 3
-dalyje nurodytos informacijos gavimo perduoda ją priimančiosios valstybės narės
+profesinė kvalifikacija arba patirtis yra suderinama su priimančiojoje valstybėje
+narėje siūloma veikla, per 3 mėnesius nuo visos šio straipsnio 3 dalyje
+nurodytos informacijos gavimo perduoda ją priimančiosios valstybės narės
 kompetentingai priežiūros institucijai ir atitinkamai apie tai praneša pensijų
 asociacijai ir Europos draudimo ir profesinių pensijų institucijai.
 5.
@@ -2352,13 +2421,13 @@ subjektai, investavimo taisykles, taikomas analogiškų subjektų Lietuvos
 Respublikoje pensijų fondams, jeigu tokios yra nustatytos, ir informacijos
 pateikimo dalyviams ir išmokų gavėjams reikalavimus.
 9. Priežiūros
-institucija privalo pranešti analogiško subjekto buveinės valstybės narės kompetentingoms
-priežiūros institucijoms apie visus esminius socialinės apsaugos ir darbo
-teisės aktų reikalavimų, taikomų profesinių pensijų srityje, pasikeitimus,
-kurie gali turėti įtakos pensijų fondų charakteristikoms, kiek tai susiję su
-pensijų fondų, kuriuos finansuoja Lietuvos Respublikos finansuojantis
-subjektas, valdymu, ir apie visų investavimo bei informacijos pateikimo
-dalyviams ir išmokų gavėjams taisyklių pasikeitimus.
+institucija privalo pranešti analogiško subjekto buveinės valstybės narės
+kompetentingoms priežiūros institucijoms apie visus esminius socialinės
+apsaugos ir darbo teisės aktų reikalavimų, taikomų profesinių pensijų srityje,
+pasikeitimus, kurie gali turėti įtakos pensijų fondų charakteristikoms, kiek
+tai susiję su pensijų fondų, kuriuos finansuoja Lietuvos Respublikos
+finansuojantis subjektas, valdymu, ir apie visų investavimo bei informacijos
+pateikimo dalyviams ir išmokų gavėjams taisyklių pasikeitimus.
 10.
 Priežiūros institucija, bendradarbiaudama su Socialinės apsaugos ir darbo
 ministerija, nuolat prižiūri, ar analogiškų subjektų, valdančių Lietuvos
@@ -2387,14 +2456,14 @@ Respublikos socialinės apsaugos ir darbo teisės aktų reikalavimus, taikomus
 profesinių pensijų srityje, priežiūros institucija, apie tai pranešusi buveinės
 valstybės narės kompetentingai priežiūros institucijai, gali imtis reikiamų
 priemonių, kurios užkirstų kelią tolesniems pažeidimams arba kuriomis būtų už
-juos baudžiama, tarp jų, jeigu būtina, užkirsti kelią Lietuvos Respublikoje veikti
-analogiškam subjektui.
+juos baudžiama, tarp jų, jeigu būtina, užkirsti kelią Lietuvos Respublikoje
+veikti analogiškam subjektui.
 14.
 Priežiūros institucija praneša Europos draudimo ir profesinių pensijų
 institucijai apie nacionalines rizikos ribojimą reglamentuojančias nuostatas,
-kurios taikomos profesinių pensijų sistemos srityje ir kurios nenustatytos socialinės
-apsaugos ir darbo teisės aktuose. Priežiūros institucija šią informaciją
-atnaujina reguliariai bent kas 2 metai.
+kurios taikomos profesinių pensijų sistemos srityje ir kurios nenustatytos
+socialinės apsaugos ir darbo teisės aktuose. Priežiūros institucija šią
+informaciją atnaujina reguliariai bent kas 2 metai.
 Straipsnio pakeitimai:
 Nr.
 XI-1887,
@@ -2416,8 +2485,6 @@ Skelbiu
  
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS
 ADAMKUS
-
-
                                                                                                 Lietuvos Respublikos 
                                                                                                 profesinių
 pensijų kaupimo 
@@ -2436,10 +2503,10 @@ susijusių su darbuotojų apsauga jų darbdaviui tapus nemokiam, suderinimo (OL
 ir moteris principo įgyvendinimo profesinėse socialinės apsaugos sistemose (OL
 2004 m. specialusis leidimas, 5 skyrius, 1 tomas, p. 327).
 3.
-1996 m. gruodžio 20 d. Tarybos direktyva 96/97/EB, iš dalies keičianti Direktyvą
-86/378/EEB dėl vienodo požiūrio į vyrus ir moteris principo įgyvendinimo
-profesinėse socialinės apsaugos sistemose (OL 2004 m. specialusis leidimas,
-5 skyrius, 3 tomas, p. 232).
+1996 m. gruodžio 20 d. Tarybos direktyva 96/97/EB, iš dalies keičianti
+Direktyvą 86/378/EEB dėl vienodo požiūrio į vyrus ir moteris principo
+įgyvendinimo profesinėse socialinės apsaugos sistemose (OL 2004 m. specialusis
+leidimas, 5 skyrius, 3 tomas, p. 232).
 4. 1998 m. birželio 29 d. Tarybos
 direktyva 98/49/EB dėl pagal darbo sutartį dirbančių asmenų ir savarankiškai
 dirbančių asmenų, judančių Bendrijoje, teisių į papildomą pensiją išsaugojimo (OL
@@ -2455,7 +2522,8 @@ Nr.
 XI-1887,
 2011-12-22, Žin., 2011, Nr. 163-7776 (2011-12-31)
  
-____________________
+ 
+ 
  
 Pakeitimai:
  
@@ -2469,8 +2537,8 @@ KAUPIMO ĮSTATYMO 2, 52 IR 56 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 2.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1678,
-2011-11-17, Žin., 2011, Nr. 146-6824 (2011-12-01)
+Nr. XI-1678, 2011-11-17,
+Žin., 2011, Nr. 146-6824 (2011-12-01)
 PROFESINIŲ PENSIJŲ KAUPIMO ĮSTATYMO
 PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija
@@ -2487,11 +2555,17 @@ KAUPIMO ĮSTATYMO PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja 2012 m. sausio 1 d.
  
-***
-Pabaiga ***
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2125,
+2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
+PROFESINIŲ
+PENSIJŲ KAUPIMO ĮSTATYMO 2, 4, 5, 8, 14, 15, 18, 19, 22, 31, 32, 33, 34, 35,
+42, 47, 52, 53, 54, 56 STRAIPSNIŲ IR ŠEŠTOJO SKIRSNIO PAVADINIMO PAKEITIMO
+ĮSTATYMAS
+ 
+*** Pabaiga ***
  
  
-Redagavo
-Aušrinė Trapinskienė (2012-01-13)
-                 
-ausrine.trapinskiene@lrs.lt
+Redagavo Aušra Bodin (2012-07-03)
+                  aubodi@lrs.lt
