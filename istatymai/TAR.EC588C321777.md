@@ -4371,6 +4371,7 @@ Nr.
 X-1236,
 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
  
+ 
 168
 straipsnis. Atsisakymas pradėti ikiteisminį tyrimą
 1.
@@ -4380,12 +4381,14 @@ reikiamais atvejais – ir jų patikslinimą, atsisako
 pradėti ikiteisminį tyrimą tik tuo atveju, kai nurodyti duomenys apie
 nusikalstamą veiką yra akivaizdžiai neteisingi ar yra aiškios šio Kodekso 3
 straipsnio 1 dalyje nurodytos aplinkybės. Gauto skundo, pareiškimo ar pranešimo
-duomenų patikslinimui gali būti atlikta įvykio vietos apžiūra, įvykio liudytojų
+duomenų patikslinimui gali būti atlikti veiksmai, kurie nesusiję su
+procesinėmis prievartos priemonėmis: įvykio vietos apžiūra, įvykio liudytojų
 apklausos, taip pat iš valstybės ar savivaldybės įmonių, įstaigų, organizacijų,
-pareiškėjo ar asmens, kurio interesais pateiktas skundas, pareiškimas ar pranešimas,
-reikalaujami duomenys ar dokumentai, atliktos pareiškėjo ar asmens, kurio
-interesais pateiktas skundas, pareiškimas ar pranešimas, apklausos. Tokie
-proceso veiksmai turi būti atlikti per kuo trumpesnius terminus.
+pareiškėjo ar asmens, kurio interesais pateiktas skundas, pareiškimas ar
+pranešimas, reikalaujami duomenys ar dokumentai, atliktos pareiškėjo ar asmens,
+kurio interesais pateiktas skundas, pareiškimas ar pranešimas, apklausos. Tokie
+proceso veiksmai turi būti atlikti per kuo trumpesnius terminus, bet ne ilgiau
+kaip per dešimt dienų.
 2. Atsisakydamas pradėti
 ikiteisminį tyrimą, prokuroras ar ikiteisminio tyrimo pareigūnas surašo
 motyvuotą nutarimą. Ikiteisminio tyrimo pareigūnas atsisakyti pradėti
@@ -4426,6 +4429,9 @@ X-1236,
 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 Nr. XI-1014,
 2010-09-21, Žin., 2010, Nr. 113-5742 (2010-09-25)
+Nr.
+XI-2109,
+2012-06-21, Žin., 2012, Nr. 78-4030 (2012-07-04)
  
 169
 straipsnis. Prokuroro veiksmai pradedant ikiteisminį tyrimą
@@ -4446,8 +4452,8 @@ veiksmus.
 ikiteisminį tyrimą ar atskirus jo veiksmus atlieka ikiteisminio tyrimo
 pareigūnai, prokuroras privalo kontroliuoti, kaip vyksta ikiteisminis tyrimas.
 3. Prokuroras
-duoda ikiteisminio tyrimo pareigūnams privalomus nurodymus, panaikina
-neteisėtus ar nepagrįstus jų nutarimus.
+duoda ikiteisminio tyrimo pareigūnams privalomus nurodymus, panaikina neteisėtus
+ar nepagrįstus jų nutarimus.
 4.
 Tik prokuroras priima sprendimus:
 1)
@@ -4458,8 +4464,8 @@ dėl ikiteisminio tyrimo sustabdymo;
 dėl ikiteisminio tyrimo nutraukimo;
 4)
 dėl nutraukto ikiteisminio tyrimo atnaujinimo;
-5) dėl tyrimo
-užbaigimo ir kaltinamojo akto surašymo.
+5) dėl tyrimo užbaigimo
+ir kaltinamojo akto surašymo.
 5. Aukštesnysis
 prokuroras nustato prokurorų padarytus proceso įstatymų pažeidimus, panaikina
 neteisėtus ar nepagrįstus jų nutarimus ir duoda prokurorams privalomus
@@ -4467,8 +4473,9 @@ nurodymus, išskyrus nurodymą, kokį proceso sprendimą priimti.
 6. Tik
 prokuroras gali kreiptis į ikiteisminio tyrimo teisėją dėl šio teisėjo
 kompetencijai priskirtų veiksmų atlikimo. Šio Kodekso 214 ir 217 straipsniuose
-numatytais atvejais prokuroro nutarimus dėl ikiteisminio tyrimo nutraukimo ir dėl nutraukto ikiteisminio
-tyrimo atnaujinimo turi patvirtinti ikiteisminio tyrimo teisėjas.
+numatytais atvejais prokuroro nutarimus dėl ikiteisminio tyrimo nutraukimo ir
+dėl nutraukto ikiteisminio tyrimo
+atnaujinimo turi patvirtinti ikiteisminio tyrimo teisėjas.
 Straipsnio
 pakeitimai:
 Nr. XI-1014,
@@ -4485,8 +4492,8 @@ Lietuvos Respublikos baudžiamojo kodekso 72 ar 723 straipsnyje
 nurodytus požymius, suradimui ir jo galimam konfiskavimui užtikrinti.
 Kodeksas
 papildytas straipsniu :
-Nr. XI-1200, 2010-12-02,
-Žin., 2010, Nr. 145-7440 (2010-12-11)
+Nr. XI-1200,
+2010-12-02, Žin., 2010, Nr. 145-7440 (2010-12-11)
  
 171 straipsnis. Ikiteisminio tyrimo
 įstaigų pareigūnų veiksmai pradedant ikiteisminį tyrimą
@@ -4531,9 +4538,9 @@ prokuroro nurodymus;
 nustatytu laiku pranešti šiam apie ikiteisminio tyrimo eigą.
 3. Ikiteisminio
 tyrimo įstaigos ar jos padalinio vadovas pagal kompetenciją organizuoja
-ikiteisminio tyrimo įstaigos ar jos padalinio veiklą ir kontroliuoja ikiteisminio
-tyrimo pareigūnų procesinę veiklą taip, kad per trumpiausią laiką būtų atliktas
-tyrimas ir atskleista nusikalstama veika.
+ikiteisminio tyrimo įstaigos ar jos padalinio veiklą ir kontroliuoja
+ikiteisminio tyrimo pareigūnų procesinę veiklą taip, kad per trumpiausią laiką
+būtų atliktas tyrimas ir atskleista nusikalstama veika.
 Straipsnio
 pakeitimai:
 Nr.
@@ -4591,8 +4598,8 @@ veikos tyrimą paveda aukštesnysis prokuroras.
 straipsnis. Atskirieji pavedimai
 1. Prireikus
 tyrimo veiksmus atlikti kitoje vietovėje, prokuroras ar ikiteisminio tyrimo
-įstaigos pareigūnas gali patys juos atlikti arba pavesti tai padaryti atitinkamam
-prokurorui ar ikiteisminio tyrimo įstaigai.
+įstaigos pareigūnas gali patys juos atlikti arba pavesti tai padaryti
+atitinkamam prokurorui ar ikiteisminio tyrimo įstaigai.
 2. Prokuroras
 turi teisę pavesti tyrimo veiksmus atlikti kitos vietovės prokurorui arba bet
 kokiai ikiteisminio tyrimo įstaigai.
@@ -4602,8 +4609,8 @@ vietovės ikiteisminio tyrimo įstaigai. Jeigu atlikti atskirus veiksmus reikia
 pavesti kitos vietovės kitai ikiteisminio tyrimo įstaigai, su atitinkamu
 prašymu kreipiamasi į prokurorą.
 4. Šiame
-straipsnyje nustatyta tvarka duotus pavedimus privaloma vykdyti per kuo
-trumpiausius terminus.
+straipsnyje nustatyta tvarka duotus pavedimus privaloma vykdyti per kuo trumpiausius
+terminus.
  
 176 straipsnis. Ikiteisminio tyrimo terminai
 1.
@@ -4634,8 +4641,7 @@ Nr. XI-1014,
 straipsnis. Ikiteisminio tyrimo duomenų neskelbtinumas
 1. Ikiteisminio
 tyrimo duomenys neskelbtini. Šie duomenys iki bylos nagrinėjimo teisme gali
-būti paskelbti tik prokuroro leidimu ir tik
-tiek, kiek pripažįstama leistina. Draudžiama skelbti duomenis apie
+būti paskelbti tik prokuroro leidimu ir tik tiek, kiek pripažįstama leistina. Draudžiama skelbti duomenis apie
 nepilnamečius įtariamuosius ir nukentėjusiuosius.
 2. Reikiamais
 atvejais prokuroras ar ikiteisminio tyrimo pareigūnas įspėja proceso dalyvius
@@ -4654,16 +4660,16 @@ Ikiteisminio tyrimo veiksmų bendrosios nuostatos
 178 straipsnis. Prokuroro ir
 ikiteisminio tyrimo pareigūnų atliekami veiksmai
 1. Laikydamiesi
-šiame Kodekse nustatytos tvarkos, prokuroras ir ikiteisminio tyrimo pareigūnas gali
-apklausti įtariamąjį, liudytojus, taikyti procesines prievartos priemones,
+šiame Kodekse nustatytos tvarkos, prokuroras ir ikiteisminio tyrimo pareigūnas
+gali apklausti įtariamąjį, liudytojus, taikyti procesines prievartos priemones,
 atlikti kitus šiame Kodekse numatytus veiksmus.
 2.
 Įtariamasis, jo gynėjas, nukentėjusysis, civilinis ieškovas, civilinis
 atsakovas ir jų atstovai turi teisę raštu prašyti prokurorą atlikti šio Kodekso
 97 straipsnyje, XII ir XIV skyriuose numatytus veiksmus. Prokuroras privalo
 išnagrinėti tokį prašymą ne vėliau kaip per dešimt dienų nuo jo gavimo, o kai prašymui nagrinėti reikalinga
-ikiteisminio tyrimo medžiaga, – per dešimt dienų nuo medžiagos gavimo.
-Išnagrinėjęs prašymą, prokuroras priima sprendimą:
+ikiteisminio tyrimo medžiaga, – per dešimt dienų nuo medžiagos gavimo. Išnagrinėjęs
+prašymą, prokuroras priima sprendimą:
 1) pats atlikti
 prašomus veiksmus;
 2)
@@ -4674,11 +4680,11 @@ atsisakyti atlikti prašomus veiksmus.
 Nusprendęs atsisakyti atlikti prašomus veiksmus, prokuroras privalo surašyti
 nutarimą. Šį nutarimą per septynias dienas nuo jo gavimo prašymą pateikęs asmuo
 turi teisę apskųsti ikiteisminio tyrimo teisėjui. Ikiteisminio tyrimo teisėjas
-skundą privalo išnagrinėti ne vėliau kaip per septynias dienas nuo jo gavimo.
-Teisėjo priimtas sprendimas yra galutinis. Jeigu teisėjas nusprendžia, kad
-veiksmai, kurių prašo įtariamasis, jo gynėjas ar nukentėjusysis, turi būti
-atlikti, prokuroras privalo per kuo trumpiausią laiką juos atlikti ar įpareigoti
-tai padaryti ikiteisminio tyrimo įstaigą.
+skundą privalo išnagrinėti ne vėliau kaip per septynias dienas nuo jo gavimo. Teisėjo
+priimtas sprendimas yra galutinis. Jeigu teisėjas nusprendžia, kad veiksmai,
+kurių prašo įtariamasis, jo gynėjas ar nukentėjusysis, turi būti atlikti,
+prokuroras privalo per kuo trumpiausią laiką juos atlikti ar įpareigoti tai
+padaryti ikiteisminio tyrimo įstaigą.
 4.
 Jeigu įtariamasis, jo gynėjas, nukentėjusysis, civilinis ieškovas, civilinis
 atsakovas ir jų atstovai prašo atlikti veiksmą, kurį atlikti turi teisę tik
@@ -4698,8 +4704,8 @@ X-1236,
 Nr. XI-1014,
 2010-09-21, Žin., 2010, Nr. 113-5742 (2010-09-25)
 Nr.
-XI-1478,
-2011-06-21, Žin., 2011, Nr. 81-3965 (2011-07-05)
+XI-1478, 2011-06-21,
+Žin., 2011, Nr. 81-3965 (2011-07-05)
  
 179
 straipsnis. Tyrimo veiksmų eigos ir rezultatų fiksavimas
@@ -4773,9 +4779,9 @@ ikiteisminio tyrimo sėkmei. Atsisakydamas leisti susipažinti su visais
 ikiteisminio tyrimo duomenimis ar jų dalimi, taip pat atsisakydamas leisti
 daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus, prokuroras privalo
 surašyti motyvuotą nutarimą. Šis nutarimas per septynias dienas nuo jo nuorašo
-gavimo dienos gali būti apskųstas ikiteisminio tyrimo teisėjui. Ikiteisminio
-tyrimo teisėjas privalo tokį skundą išnagrinėti per septynias dienas nuo
-jo gavimo ir priimti nutartį. Ikiteisminio tyrimo teisėjo priimta nutartis
+gavimo dienos gali būti apskųstas ikiteisminio tyrimo teisėjui. Ikiteisminio tyrimo
+teisėjas privalo tokį skundą išnagrinėti per septynias dienas nuo jo
+gavimo ir priimti nutartį. Ikiteisminio tyrimo teisėjo priimta nutartis
 neskundžiama.
 2. Prokuroras
 neturi teisės neleisti susipažinti su visais ikiteisminio tyrimo duomenimis,
@@ -4784,10 +4790,10 @@ Susipažinimo su ikiteisminio tyrimo medžiaga metu proceso dalyviai turi teisę
 šio straipsnio 1 ir 6 dalyse nustatyta tvarka
 daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus.
 
-3. Jeigu
-įtariamasis yra suimtas, teisę susipažinti su ikiteisminio tyrimo duomenimis ir
-teisę daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus turi jo gynėjas,
-o atsisakius gynėjo – įtariamasis. 
+3. Jeigu įtariamasis
+yra suimtas, teisę susipažinti su ikiteisminio tyrimo duomenimis ir teisę
+daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus turi jo gynėjas, o
+atsisakius gynėjo – įtariamasis. 
 4. Jeigu
 įtariamasis – užsienio valstybės pilietis yra ne Lietuvos Respublikos
 teritorijoje, teisę susipažinti su ikiteisminio tyrimo dėl nusikaltimo, už kurį
@@ -4796,8 +4802,8 @@ kodekso 7 straipsnio pagrindais, duomenimis ir teisę daryti ikiteisminio tyrimo
 medžiagos kopijas ar išrašus turi jo gynėjas.
 5. Turintys
 teisę paduoti skundą dėl sprendimo nutraukti ikiteisminį tyrimą asmenys,
-nurodyti šio Kodekso 214 straipsnio 3 dalyje, turi teisę šio straipsnio 1 ir 6 dalyse nustatyta tvarka susipažinti su visa
-nutraukto ikiteisminio tyrimo medžiaga ar jos dalimi.
+nurodyti šio Kodekso 214 straipsnio 3 dalyje, turi teisę šio straipsnio 1 ir 6 dalyse nustatyta tvarka susipažinti su visa nutraukto
+ikiteisminio tyrimo medžiaga ar jos dalimi.
 6. Susipažinimo su ikiteisminio
 tyrimo medžiaga metu draudžiama daryti ikiteisminio tyrimo medžiagos kopijas,
 kai duomenys yra:
@@ -4834,9 +4840,9 @@ Apklausa ikiteisminio tyrimo metu
  
 182
 straipsnis. Šaukimas į apklausą
-1. Asmuo
-iškviečiamas į apklausą šaukimu. Jame nurodoma: kas ir dėl ko šaukiamas, kur ir
-pas ką atvykti, atvykimo data ir valanda, šio Kodekso 163 straipsnyje numatytos
+1. Asmuo iškviečiamas
+į apklausą šaukimu. Jame nurodoma: kas ir dėl ko šaukiamas, kur ir pas ką
+atvykti, atvykimo data ir valanda, šio Kodekso 163 straipsnyje numatytos
 neatvykimo pasekmės.
 2. Asmuo į apklausą taip pat gali būti šaukiamas
 telefonu ar kitais būdais. Šiais atvejais už neatvykimą negali būti taikomos
@@ -4859,10 +4865,10 @@ liudytojui gali būti užduodami klausimai. Draudžiama užduoti atsakymą menan
 klausimus.
 3. Liudytojo
 apklausos protokolas surašomas laikantis šio Kodekso 179 straipsnyje numatytų
-reikalavimų. Liudytojo parodymai užrašomi pirmuoju
-asmeniu ir kiek galima pažodžiui. Jeigu reikia, nurodomi liudytojui užduoti
-klausimai ir jo atsakymai. Liudytojo asmens duomenys (išskyrus vardą, pavardę
-ir gimimo metus) saugomi atskirai nuo kitos ikiteisminio tyrimo medžiagos.
+reikalavimų. Liudytojo parodymai užrašomi pirmuoju asmeniu ir kiek galima pažodžiui. Jeigu reikia, nurodomi liudytojui
+užduoti klausimai ir jo atsakymai. Liudytojo asmens duomenys (išskyrus vardą,
+pavardę ir gimimo metus) saugomi atskirai nuo kitos ikiteisminio tyrimo
+medžiagos.
 4. Liudytojas, kuriam įstatymų nustatyta tvarka
 taikomos apsaugos nuo nusikalstamo poveikio priemonės, gali būti apklausiamas
 garso ir vaizdo nuotolinio perdavimo priemonėmis.
@@ -4944,10 +4950,11 @@ vaizdo įrašas tuoj po apklausos parodomas įtariamajam ir kitiems proceso
 dalyviams, kurie per ikiteisminio tyrimo teisėją turi teisę užduoti
 apklausiamam asmeniui klausimus.
 5. Jaunesnio
-kaip aštuoniolikos metų liudytojo ar
-nukentėjusiojo apklausoje turi teisę dalyvauti jo atstovas. Proceso dalyvių
-prašymu arba ikiteisminio tyrimo pareigūno, prokuroro ar ikiteisminio tyrimo
-teisėjo iniciatyva į jaunesnių kaip aštuoniolikos metų liudytojo arba nukentėjusiojo apklausą privalo būti kviečiamas valstybinės vaiko
+kaip aštuoniolikos metų liudytojo ar nukentėjusiojo
+apklausoje turi teisę dalyvauti jo atstovas. Proceso dalyvių prašymu arba
+ikiteisminio tyrimo pareigūno, prokuroro ar ikiteisminio tyrimo teisėjo
+iniciatyva į jaunesnių kaip aštuoniolikos metų liudytojo arba nukentėjusiojo
+apklausą privalo būti kviečiamas valstybinės vaiko
 teisių apsaugos institucijos atstovas arba psichologas, kurie padeda apklausti
 nepilnametį, atsižvelgdami į jo socialinę ir psichologinę brandą.
 Straipsnio
@@ -4962,15 +4969,15 @@ X-1236,
 1. Prieš pirmąją
 apklausą įtariamajam turi būti pasirašytinai įteiktas pranešimas apie įtarimą
 ar prokuroro nutarimas pripažinti įtariamuoju. Kai užsienio valstybės pilietis,
-įtariamas dėl nusikaltimo, už kurį numatyta atsakomybė Lietuvos Respublikos tarptautinių
-sutarčių ir Baudžiamojo kodekso 7 straipsnio pagrindais, yra ne Lietuvos
-Respublikos teritorijoje ir Lietuvos Respublikos tarptautinių sutarčių
+įtariamas dėl nusikaltimo, už kurį numatyta atsakomybė Lietuvos Respublikos
+tarptautinių sutarčių ir Baudžiamojo kodekso 7 straipsnio pagrindais, yra ne
+Lietuvos Respublikos teritorijoje ir Lietuvos Respublikos tarptautinių sutarčių
 numatytais atvejais negali būti išduotas ar perduotas Lietuvos Respublikai, prokuroro
 prašymu jis įtariamuoju pripažįstamas ikiteisminio tyrimo teisėjo nutartimi.
 Pranešime apie įtarimą, prokuroro nutarime ar ikiteisminio tyrimo teisėjo
 nutartyje pripažinti įtariamuoju turi būti nurodyta nusikalstama veika
-(padarymo vieta, laikas, kitos aplinkybės) ir baudžiamasis įstatymas,
-numatantis tą nusikalstamą veiką, taip pat išvardytos įtariamojo teisės.
+(padarymo vieta, laikas, kitos aplinkybės) ir baudžiamasis įstatymas, numatantis
+tą nusikalstamą veiką, taip pat išvardytos įtariamojo teisės.
 2. Prieš kitas
 apklausas naujas pranešimas apie įtarimą turi būti įteiktas tik tuo atveju, kai
 keičiasi įtarimo turinys.
@@ -4978,8 +4985,8 @@ keičiasi įtarimo turinys.
 tyrimo teisėjo nutartis pripažinti įtariamuoju užsienio valstybės pilietį dėl
 nusikaltimo, už kurį numatyta atsakomybė Lietuvos Respublikos tarptautinių
 sutarčių ir Baudžiamojo kodekso 7 straipsnio pagrindais, siunčiamas Lietuvos
-Respublikos tarptautinėse sutartyse numatytoms centrinėms susižinojimo
-įstaigoms užsienio valstybėje.
+Respublikos tarptautinėse sutartyse numatytoms centrinėms susižinojimo įstaigoms
+užsienio valstybėje.
 Straipsnio
 pakeitimai:
 Nr. XI-1269,
@@ -5060,7 +5067,8 @@ asmenims klausimų gali užduoti ir kiti dalyvaujantys akistatoje asmenys.
 5. Paskelbti
 akistatos dalyvių parodymus, užfiksuotus pirmesnių apklausų protokoluose, taip
 pat perklausyti ir peržiūrėti tų apklausų garso ir vaizdo įrašus leidžiama tik
-po to, kai akistatos dalyviai davė parodymus akistatos metu ir jie surašyti į protokolą.
+po to, kai akistatos dalyviai davė parodymus akistatos metu ir jie surašyti į
+protokolą.
  
 TREČIASIS
 SKIRSNIS
@@ -5122,8 +5130,8 @@ suvokiamus požymius.
 straipsnis. Parodymas atpažinti iš kolekcijų ir kartotekų
 1. Siekiant
 nustatyti nežinomą įtariamąjį, daiktą ar kitą objektą, liudytojui ar
-nukentėjusiajam gali būti parodomos ikiteisminio tyrimo įstaigoje surinktos asmenų
-nuotraukų ar vaizdo įrašų kartotekos, daiktų ar kitų objektų kolekcijos.
+nukentėjusiajam gali būti parodomos ikiteisminio tyrimo įstaigoje surinktos
+asmenų nuotraukų ar vaizdo įrašų kartotekos, daiktų ar kitų objektų kolekcijos.
 2. Parodymo
 atpažinti iš kolekcijų ir kartotekų pradžioje atpažįstantis asmuo turi būti
 apklaustas apie aplinkybes, kuriomis jis matė ar kitaip įsidėmėjo atpažintiną
@@ -5133,10 +5141,9 @@ jis gali atpažinti tą asmenį, daiktą ar kitą objektą.
 atpažinti iš kolekcijų ir kartotekų eiga turi būti fotografuojama arba kitaip
 vizualiai fiksuojama.
 4. Jeigu
-atpažįstantis asmuo parodo vieną iš
-kartotekoje užfiksuotų asmenų, daiktų ar kitų objektų, jam pasiūloma
-paaiškinti, pagal kokias žymes ar ypatybes jis pažino tą asmenį, daiktą ar kitą
-objektą.
+atpažįstantis asmuo parodo vieną iš kartotekoje
+užfiksuotų asmenų, daiktų ar kitų objektų, jam pasiūloma paaiškinti, pagal
+kokias žymes ar ypatybes jis pažino tą asmenį, daiktą ar kitą objektą.
  
 195
 straipsnis. Apklausa parodymo atpažinti metu
@@ -5172,9 +5179,8 @@ aplinkybėmis vietoje ir atsako į užduodamus klausimus. Parodymų tikrinimo
 vietoje metu turi būti laikomasi šiame Kodekse numatytų bendrųjų liudytojo ir
 įtariamojo apklausos taisyklių.
 3. Pagal
-apklausiamo asmens parodymus gali būti
-atkuriama įvykio situacija ir šis asmuo gali pademonstruoti parodymuose minimus
-veiksmus.
+apklausiamo asmens parodymus gali būti atkuriama įvykio situacija ir šis asmuo gali pademonstruoti parodymuose
+minimus veiksmus.
 4. Jeigu
 tikrinant parodymus vietoje randama kokių nors objektų, galinčių turėti
 reikšmės nusikalstamai veikai ištirti, jie turi būti paimami ir šis faktas
@@ -5195,8 +5201,8 @@ anonimiškumas, ypatumai
 198 straipsnis. Nukentėjusiojo ar
 liudytojo teisė prašyti taikyti anonimiškumą
 1.
-Nukentėjusysis ar liudytojas šio Kodekso nustatyta tvarka gali prašyti
-prokurorą ar ikiteisminio tyrimo pareigūną taikyti jam anonimiškumą.
+Nukentėjusysis ar liudytojas šio Kodekso nustatyta tvarka gali prašyti prokurorą
+ar ikiteisminio tyrimo pareigūną taikyti jam anonimiškumą.
 2. Prokuroras ar
 ikiteisminio tyrimo pareigūnas, kai tam yra pagrindas, taiko nukentėjusiajam ar
 liudytojui anonimiškumą, taip pat imasi šiame Kodekse nustatytų priemonių
@@ -5213,8 +5219,8 @@ Nr. XI-1200,
  
 199 straipsnis. Anonimiškumo taikymo
 nukentėjusiajam ir liudytojui pagrindai
-1.
-Nukentėjusiajam ir liudytojui anonimiškumas gali būti taikomas, jeigu:
+1. Nukentėjusiajam
+ir liudytojui anonimiškumas gali būti taikomas, jeigu:
 1)
 gresia realus pavojus nukentėjusiojo, liudytojo ar jų šeimos narių arba
 artimųjų giminaičių gyvybei, sveikatai, laisvei ar turtui, taip pat tarnybos,
@@ -5267,9 +5273,8 @@ Nr. XI-1200,
  
 200 straipsnis. Nukentėjusiojo ar
 liudytojo anonimiškumo nustatymo tvarka
-1.
-Nukentėjusysis ar liudytojas prieš apklausą gali prašyti taikyti
-anonimiškumą.
+1. Nukentėjusysis
+ar liudytojas prieš apklausą gali prašyti taikyti anonimiškumą.
 2. Nustatęs, kad
 yra pagrindas taikyti anonimiškumą, prokuroras ar ikiteisminio tyrimo
 pareigūnas dar turi patikrinti, ar nukentėjusysis bei liudytojas:
@@ -5284,7 +5289,8 @@ asmeninių arba savanaudiškų motyvų gali duoti melagingus parodymus prieš
 3. Jeigu yra
 pagrindas taikyti anonimiškumą ir nėra šio straipsnio 2 dalyje numatytų
 aplinkybių, prokuroras ar ikiteisminio tyrimo pareigūnas priima motyvuotą
-nutarimą taikyti anonimiškumą. Ikiteisminio tyrimo pareigūno nutarimą turi patvirtinti prokuroras.
+nutarimą taikyti anonimiškumą. Ikiteisminio tyrimo pareigūno nutarimą turi
+patvirtinti prokuroras.
 4. Nutarimas
 taikyti anonimiškumą laikomas atskirai nuo bylos ir saugomas šio Kodekso 201
 straipsnio 2 dalyje nustatyta tvarka.
@@ -5308,11 +5314,11 @@ Teismui pareikalavus, vokas perduodamas tiesiogiai teisėjui.
 4. Anonimiškumo
 taikymo atvejais tyrimo veiksmo protokolą, nutarimą ar kitokį bylos dokumentą
 surašo ir jį pasirašo tą veiksmą atlikęs, nutarimą ar kitokį bylos dokumentą
-surašęs prokuroras ar ikiteisminio tyrimo pareigūnas, ar ikiteisminio tyrimo teisėjas.
-Po kiekvieno tyrimo veiksmo atlikimo ar nutarimo priėmimo šio straipsnio
-2 dalyje nurodytame specialiame protokolo priede pažymima, kad nukentėjusysis
-ar liudytojas susipažino su tyrimo veiksmo protokolu ir nutarimu. Tai jie
-patvirtina savo parašais.
+surašęs prokuroras ar ikiteisminio tyrimo pareigūnas, ar ikiteisminio tyrimo
+teisėjas. Po kiekvieno tyrimo veiksmo atlikimo ar nutarimo priėmimo šio
+straipsnio 2 dalyje nurodytame specialiame protokolo priede pažymima, kad
+nukentėjusysis ar liudytojas susipažino su tyrimo veiksmo protokolu ir
+nutarimu. Tai jie patvirtina savo parašais.
 5. Tyrimo
 veiksmų protokoluose, nutarimuose, nutartyse bei kituose bylos dokumentuose
 nerašoma informacija, iš kurios būtų galima nustatyti tyrimo veiksme
@@ -5323,11 +5329,11 @@ taikomas anonimiškumas, asmens tapatybę.
 nukentėjusiajam ar liudytojui taikomo anonimiškumo atskleidimą
 Nukentėjusiojo
 ir liudytojo asmens tapatybę nurodantys duomenys, įforminti ir įslaptinti šio
-Kodekso 201 straipsnyje nustatyta tvarka, sudaro valstybės paslaptį.
-Susipažinti su tapatybę nurodančiais duomenimis turi teisę tik byloje
-dalyvaujantis prokuroras, ikiteisminio tyrimo pareigūnas ir teisėjas. Už
-įslaptintų duomenų paskelbimą jie atsako pagal Lietuvos Respublikos baudžiamojo
-kodekso 125 straipsnį.
+Kodekso 201 straipsnyje nustatyta tvarka, sudaro valstybės paslaptį. Susipažinti
+su tapatybę nurodančiais duomenimis turi teisę tik byloje dalyvaujantis
+prokuroras, ikiteisminio tyrimo pareigūnas ir teisėjas. Už įslaptintų duomenų
+paskelbimą jie atsako pagal Lietuvos Respublikos baudžiamojo kodekso 125
+straipsnį.
  
 203 straipsnis. Ikiteisminio tyrimo
 teisėjo atliekama nukentėjusiojo ar liudytojo, kuriems taikomas anonimiškumas,
@@ -5346,10 +5352,10 @@ tyrimo teisėjas gali pripažinti, kad apklausa turi būti atliekama gynėjui ir
 tyrimo teisėjas, apklausęs asmenį, su gautais parodymais supažindina gynėją ir
 įtariamąjį. Po to gynėjas ir įtariamasis turi teisę per ikiteisminio tyrimo
 teisėją užduoti klausimus nukentėjusiajam ar liudytojui. Jeigu iš užduotų
-klausimų būtų galima atskleisti apklausiamo asmens anonimiškumą, ikiteisminio
-tyrimo teisėjas turi teisę klausimų nepateikti arba juos performuluoti.
-Atsakymai į gynėjo ir įtariamojo klausimus įrašomi į apklausos
-protokolą. Su juo po apklausos gynėjas turi teisę susipažinti.
+klausimų būtų galima atskleisti apklausiamo asmens anonimiškumą, ikiteisminio tyrimo
+teisėjas turi teisę klausimų nepateikti arba juos performuluoti. Atsakymai į
+gynėjo ir įtariamojo klausimus įrašomi į apklausos protokolą. Su juo po
+apklausos gynėjas turi teisę susipažinti.
 4. Nukentėjusiojo
 ar liudytojo, kuriems taikomas anonimiškumas, apklausoje gali dalyvauti
 prokuroras.
@@ -5373,9 +5379,9 @@ Objektų tyrimas IR APŽIŪRA
 straipsnis. Objektų tyrimo tvarka
 1. Siekiant
 surasti nusikalstamos veikos pėdsakus ir kitus objektus, turinčius reikšmės
-tyrimui, nustatyti įvykio situaciją ir kitas reikšmingas bylai aplinkybes, atliekamas
-įvykio vietos, žmogaus kūno, lavono, vietovės, patalpų, dokumentų ir kitokių
-objektų tyrimas.
+tyrimui, nustatyti įvykio situaciją ir kitas reikšmingas bylai aplinkybes,
+atliekamas įvykio vietos, žmogaus kūno, lavono, vietovės, patalpų, dokumentų ir
+kitokių objektų tyrimas.
 2. Daiktai,
 dokumentai ir kitokie objektai tiriami jų radimo vietoje. Daiktai, dokumentai
 ar kitokie objektai, kuriems ištirti reikia daug laiko arba kuriuos būtina
@@ -5395,7 +5401,8 @@ psichinės būklės tyrimą atlieka teismo psichiatras, teismo psichologas.
 palaidotas lavonas gali būti iškastas
 (ekshumuotas) tik tuo atveju, kai yra priimta ikiteisminio tyrimo teisėjo
 nutartis. Ekshumuotą lavoną turi atpažinti jį pažinoję asmenys arba kitaip
-nustatoma jo tapatybė. Ekshumacijoje turi teisę dalyvauti mirusiojo šeimos nariai ar artimieji giminaičiai.
+nustatoma jo tapatybė. Ekshumacijoje turi teisę dalyvauti mirusiojo šeimos
+nariai ar artimieji giminaičiai.
 4. Asmens būsto ar tarnybinių patalpų, kurios nėra
 įvykio vieta, tyrimas gali būti atliekamas tik būsto savininko ar įmonės,
 įstaigos, organizacijos atstovo sutikimu arba ikiteisminio tyrimo teisėjo
@@ -5406,8 +5413,7 @@ jo šeimos narys arba įmonės, įstaigos, organizacijos atstovas.
 straipsnis. Apžiūra
 1. Turinčius
 reikšmės nusikalstamai veikai ištirti daiktus ar kitus objektus, kurių nereikia
-tirti šio Kodekso 205 straipsnyje nustatyta
-tvarka, apžiūri prokuroras, ikiteisminio tyrimo pareigūnas ar specialistas.
+tirti šio Kodekso 205 straipsnyje nustatyta tvarka, apžiūri prokuroras, ikiteisminio tyrimo pareigūnas ar specialistas.
 2. Dėl apžiūros
 surašomas protokolas. Apžiūros protokole smulkiai aprašomi apžiūrėti objektai,
 nurodomi jų požymiai, turintys reikšmės nusikalstamos veikos aplinkybėms
@@ -5455,8 +5461,7 @@ pasiūlytą asmenį, įsitikina jo asmens tapatybe, specialybe ir kompetentingum
 išsiaiškina jo santykius su įtariamuoju ir kitais proceso dalyviais, taip pat
 patikrina, ar nėra pagrindo ekspertą nušalinti.
 2. Į ekspertų
-sąrašą neįtraukti asmenys šaukiami ekspertais tik savanoriško susitarimo
-pagrindu.
+sąrašą neįtraukti asmenys šaukiami ekspertais tik savanoriško susitarimo pagrindu.
 3. Prieš
 skirdamas ekspertizę, ikiteisminio tyrimo teisėjas išaiškina asmeniui,
 neįtrauktam į ekspertų sąrašą, eksperto teises ir pareigas, priima jo priesaiką
@@ -5537,16 +5542,16 @@ Nr.
 XI-1478,
 2011-06-21, Žin., 2011, Nr. 81-3965 (2011-07-05)
  
-213 straipsnis. Ikiteisminio
-tyrimo nutraukimas kelių nusikalstamų veikų padarymo atveju
+213 straipsnis.
+Ikiteisminio tyrimo nutraukimas kelių nusikalstamų veikų padarymo atveju
 Kai asmuo įtariamas padaręs kelias nusikalstamas
 veikas, iš kurių viena ar kelios yra baudžiamieji nusižengimai ar nesunkūs
 nusikaltimai, o kita ar kitos – sunkūs ar labai sunkūs nusikaltimai, prokuroras
 gali nutraukti ikiteisminį tyrimą dėl baudžiamųjų nusižengimų ir nesunkių
 nusikaltimų. Šį sprendimą prokuroras gali priimti, jei manoma, kad tokiu atveju
-procesas dėl sunkių ar labai sunkių nusikaltimų galės vykti sparčiau. Ikiteisminis
-tyrimas dėl baudžiamųjų nusižengimų ir nesunkių nusikaltimų negali būti
-nutrauktas, jei šiomis veikomis yra padaryta žalos ir dėl jos atlyginimo
+procesas dėl sunkių ar labai sunkių nusikaltimų galės vykti sparčiau.
+Ikiteisminis tyrimas dėl baudžiamųjų nusižengimų ir nesunkių nusikaltimų negali
+būti nutrauktas, jei šiomis veikomis yra padaryta žalos ir dėl jos atlyginimo
 pareikštas civilinis ieškinys.
  
 214
@@ -5561,8 +5566,8 @@ nutarimą dėl ikiteisminio tyrimo nutraukimo.
 3.
 Apie ikiteisminio tyrimo nutraukimą ar ikiteisminio tyrimo teisėjo sprendimą
 nepatvirtinti prokuroro nutarimo dėl ikiteisminio tyrimo nutraukimo pranešama
-įtariamajam, jo atstovui, gynėjui, nukentėjusiajam, civiliniam ieškovui,
-civiliniam atsakovui ir jų atstovams išsiunčiant sprendimų nuorašus.
+įtariamajam, jo atstovui, gynėjui, nukentėjusiajam, civiliniam ieškovui, civiliniam
+atsakovui ir jų atstovams išsiunčiant sprendimų nuorašus.
 4.
 Šio straipsnio 1 dalyje numatytas nutarimas gali būti skundžiamas aukštesniajam
 prokurorui, kuris privalo išnagrinėti skundą ne vėliau kaip per dvidešimt dienų
@@ -5621,8 +5626,8 @@ ikiteisminio tyrimo teisėjo nustatytą terminą prokuroras privalo užbaigti
 ikiteisminį tyrimą ir surašyti kaltinamąjį aktą arba surašyti nutarimą dėl
 ikiteisminio tyrimo nutraukimo. Prokuroras gali kreiptis į ikiteisminio tyrimo
 teisėją, prašydamas pratęsti ikiteisminiam tyrimui užbaigti nustatytą terminą.
-Termino pratęsimo klausimas sprendžiamas posėdyje, į kurį kviečiami šio
-straipsnio 2 dalyje nurodyti proceso dalyviai.
+Termino pratęsimo klausimas sprendžiamas posėdyje, į kurį kviečiami šio straipsnio
+2 dalyje nurodyti proceso dalyviai.
  
 216
 straipsnis. Nutarimo nutraukti ikiteisminį tyrimą turinys
@@ -5708,10 +5713,10 @@ turi teisę susipažinti su ikiteisminio tyrimo medžiaga bei pateikti prašymus
 papildyti ikiteisminį tyrimą. Jeigu procese yra daug nukentėjusiųjų ar
 civilinių ieškovų, apie ikiteisminio tyrimo pabaigą jiems gali būti pranešama
 per spaudą. 
-2. Šio straipsnio
-1 dalyje numatyti proceso dalyviai turi teisę per prokuroro nustatytą terminą
-pateikti prašymą susipažinti su ikiteisminio tyrimo medžiaga. Jeigu yra toks jų
-prašymas, jie supažindinami su ikiteisminio tyrimo medžiaga, išskyrus asmens duomenis, saugomus atskirai nuo kitos
+2. Šio
+straipsnio 1 dalyje numatyti proceso dalyviai turi teisę per prokuroro
+nustatytą terminą pateikti prašymą susipažinti su ikiteisminio tyrimo medžiaga.
+Jeigu yra toks jų prašymas, jie supažindinami su ikiteisminio tyrimo medžiaga, išskyrus asmens duomenis, saugomus atskirai nuo kitos
 ikiteisminio tyrimo medžiagos. Gali būti supažindinama įteikiant
 ikiteisminio tyrimo medžiagos kopiją. Proceso dalyvio
 sutikimu ikiteisminio tyrimo medžiagos kopija gali būti įteikiama perkelta į
@@ -5724,12 +5729,12 @@ ikiteisminį tyrimą ar daugumą jo veiksmų atliko ikiteisminio tyrimo pareigū
 prokuroras, įsitikinęs, jog ikiteisminio tyrimo metu surinkta pakankamai
 duomenų, pagrindžiančių įtariamojo kaltę dėl nusikalstamos veikos padarymo,
 gali jam pavesti atlikti šio straipsnio 1 ir 2 dalyse numatytus veiksmus. 
-4. Gautus prašymus
-papildyti ikiteisminį tyrimą motyvuotu nutarimu išsprendžia prokuroras. Jeigu
-prokuroras nusprendė atlikti papildomus proceso veiksmus, šio straipsnio 1
-dalyje numatyti proceso dalyviai supažindinami tik su medžiaga, gauta atlikus
-papildomus proceso veiksmus. Prokuroro nutarimas atmesti prašymą papildyti
-ikiteisminį tyrimą neskundžiamas.
+4. Gautus
+prašymus papildyti ikiteisminį tyrimą motyvuotu nutarimu išsprendžia
+prokuroras. Jeigu prokuroras nusprendė atlikti papildomus proceso veiksmus, šio
+straipsnio 1 dalyje numatyti proceso dalyviai supažindinami tik su medžiaga,
+gauta atlikus papildomus proceso veiksmus. Prokuroro nutarimas atmesti prašymą
+papildyti ikiteisminį tyrimą neskundžiamas.
 5. Ikiteisminio
 tyrimo pareigūnas pateikia trumpą rašytinę atliktų ikiteisminio tyrimo veiksmų
 ataskaitą, jeigu prokuroras nenurodo kitaip.
@@ -5738,10 +5743,10 @@ straipsnyje numatytus veiksmus, prokuroras surašo kaltinamąjį aktą.
 7. Jeigu
 įtariamasis – užsienio valstybės pilietis yra ne Lietuvos Respublikos
 teritorijoje, prokuroras siunčia pranešimą apie ikiteisminio tyrimo dėl
-nusikaltimo, už kurį numatyta atsakomybė Lietuvos Respublikos tarptautinių
-sutarčių ir Baudžiamojo kodekso 7 straipsnio pagrindais, pabaigą Lietuvos
-Respublikos tarptautinėse sutartyse numatytoms centrinėms susižinojimo
-įstaigoms užsienio valstybėje.
+nusikaltimo, už kurį numatyta atsakomybė Lietuvos Respublikos tarptautinių sutarčių
+ir Baudžiamojo kodekso 7 straipsnio pagrindais, pabaigą Lietuvos Respublikos
+tarptautinėse sutartyse numatytoms centrinėms susižinojimo įstaigoms užsienio
+valstybėje.
 Straipsnio pakeitimai:
 Nr. IX-2336,
 2004-07-08, Žin., 2004, Nr. 115-4276 (2004-07-24)
@@ -5776,8 +5781,8 @@ gynėją;
 7) įtariamojo
 pozicija, jeigu įtariamasis nesutinka su įtarimu.
 Straipsnio pakeitimai:
-Nr. XI-1852,
-2011-12-22, Žin., 2011, Nr. 164-7797 (2011-12-31)
+Nr. XI-1852, 2011-12-22,
+Žin., 2011, Nr. 164-7797 (2011-12-31)
  
 220
 straipsnis. Kaltinamojo akto perdavimas teismui
@@ -5790,10 +5795,10 @@ galios nuo 2010 m. gruodžio 31 d.)
 bylos medžiagos prokuroras pateikia teismui liudytojų ir ekspertų, kurie turėtų
 būti apklausti teisiamajame posėdyje, adresų sąrašą ir asmens
 duomenis, saugomus atskirai nuo kitos ikiteisminio tyrimo medžiagos.
-4. Surašęs kaltinamąjį
-aktą, prokuroras iki bylos perdavimo teismui kaltinamojo akto nuorašą
-pasirašytinai įteikia kaltinamajam. Kaltinamojo akto
-nuorašas kaltinamojo prašymu gali būti išsiunčiamas jam elektroninių ryšių
+4. Surašęs
+kaltinamąjį aktą, prokuroras iki bylos perdavimo teismui kaltinamojo akto
+nuorašą pasirašytinai įteikia kaltinamajam. Kaltinamojo
+akto nuorašas kaltinamojo prašymu gali būti išsiunčiamas jam elektroninių ryšių
 priemonėmis, taip pat gali būti įteiktas perkeltas į elektroninę laikmeną.
 5. Jeigu
 įtariamasis yra suimtas, prokuroras privalo kaltinamąjį aktą su bylos medžiaga
@@ -5845,8 +5850,7 @@ nagrinėjimo pradžios ir, kai procese negali dalyvauti bylą nagrinėjantis
 teisėjas, šį pakeičia. 
 2. Jeigu
 atsarginis teisėjas, stojęs į pasitraukusiojo vietą trijų teisėjų kolegijoje,
-nereikalauja kartoti teismo veiksmų arba
-vieno teisėjo nagrinėjamoje byloje to nenusprendžia pats, byla nagrinėjama
+nereikalauja kartoti teismo veiksmų arba vieno teisėjo nagrinėjamoje byloje to nenusprendžia pats, byla nagrinėjama
 toliau.
  
 223 straipsnis. Teismo sudėties
@@ -5876,8 +5880,8 @@ padarymo metu buvo Respublikos Prezidentu, Seimo ar Vyriausybės nariais, Konsti
 Teismo teisėjais, teisėjais ar prokurorais.
 2. Baudžiamąsias bylas, kuriose asmenys kaltinami padarę
 labai sunkius nusikaltimus, už kuriuos numatyta laisvės atėmimo iki gyvos
-galvos bausmė, taip pat bylas, kuriose kaltinamieji nusikalstamos veikos metu
-buvo Respublikos Prezidentu, Seimo ar Vyriausybės nariais, Konstitucinio Teismo
+galvos bausmė, taip pat bylas, kuriose kaltinamieji nusikalstamos veikos metu buvo
+Respublikos Prezidentu, Seimo ar Vyriausybės nariais, Konstitucinio Teismo
 teisėjais, teisėjais ar prokurorais, nagrinėja apygardos teismo trijų teisėjų
 kolegija. Kitas baudžiamąsias bylas apygardos teisme nagrinėja vienas teisėjas,
 išskyrus atvejus, kai bylai nagrinėti apygardos teismo pirmininkas ar
@@ -6029,9 +6033,9 @@ teisiamajame posėdyje,
 nutartyje suformuluoja sprendimą bylą perduoti nagrinėti teisiamajame posėdyje, nurodo kaltinamojo vardą ir pavardę,
 veiką, kurios padarymu jis kaltinamas, ir tą nusikalstamą veiką numatantį baudžiamąjį įstatymą, bylos nagrinėjimo laiką ir vietą, nusprendžia, kuriuos
 asmenis šaukti į teisiamąjį posėdį kaip kaltinamąjį, jo atstovą pagal įstatymą,
-nukentėjusįjį, civilinį ieškovą, civilinį
-atsakovą ir jų atstovus, taip pat
-kaip liudytojus, ekspertus ir specialistus.
+nukentėjusįjį, civilinį ieškovą,
+civilinį atsakovą ir jų atstovus, taip
+pat kaip liudytojus, ekspertus ir specialistus.
 4. Be to,
 teisėjas ta pačia nutartimi išsprendžia gautus prašymus, taip pat nusprendžia
 dėl gynėjo paskyrimo, vertėjo iškvietimo, kardomosios priemonės, išskyrus
@@ -6050,9 +6054,9 @@ X-1236,
  
 234 straipsnis. Bylos perdavimas pagal
 teismingumą, bylos išskyrimas, bylos nagrinėjimo atidėjimas
-1. Byla perduodama
-pagal teismingumą laikantis šio Kodekso 224–229 straipsniuose nustatytų
-taisyklių.
+1. Byla
+perduodama pagal teismingumą laikantis šio Kodekso 224–229 straipsniuose
+nustatytų taisyklių.
 2. Byla
 perduodama prokurorui, kai ikiteisminio tyrimo metu buvo surašytas iš esmės šio
 Kodekso 219 straipsnio reikalavimų neatitinkantis kaltinamasis aktas ar yra kitų esminių baudžiamojo proceso
@@ -12051,6 +12055,15 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2013 m.
 kovo 1 d.
  
+31.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-2109,
+2012-06-21, Žin., 2012, Nr. 78-4030 (2012-07-04)
+BAUDŽIAMOJO PROCESO KODEKSO 168
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
@@ -12084,6 +12097,6 @@ Pabaiga ***
  
  
 Redagavo
-Aušra Bodin (2012-05-22)
+Aušra Bodin (2012-07-05)
                  
 aubodi@lrs.lt
