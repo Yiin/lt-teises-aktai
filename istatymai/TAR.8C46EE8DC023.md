@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8C46EE8DC023"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymo pakeitimo įstatymo įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2006-01-12 iki 2012-07-04
+Suvestinė redakcija nuo 2012-07-05 iki 2013-06-13
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 45-1709, i. k. 1021010ISTA00IX-856
  
@@ -66,6 +66,10 @@ Nr. IX-2296, 2004-06-29, Žin., 2004, Nr. 104-3829 (2004-07-03), i. k. 1041010IS
 4. Valstybės tarnautojo, kurio kasmetinės atostogos pagal Valstybės tarnybos įstatymo (Žin., 1999, Nr. 66-2130) 72 straipsnio 2 dalį buvo ilgesnės negu 28 dienos, kasmetinių atostogų, nustatytų Valstybės tarnybos įstatymo pakeitimo įstatymo įsigaliojimo dieną, trukmė nesikeičia tol, kol susilygina su Valstybės tarnybos įstatymo nustatyta kasmetinių atostogų trukme. 
 
 5. Valstybės tarnautojams, priimtiems į pareigas iki Valstybės tarnybos įstatymo pakeitimo įstatymo įsigaliojimo, į tarnybos Lietuvos valstybei stažą taip pat įskaitomas laikotarpis einant Valstybės tarnybos įstatymo (Žin., 1999, Nr. 66-2130; 2000, Nr. 75-2270, Nr. 102-3213; 2001, Nr. 63-2278, Nr. 85-2972) 33 straipsnio 3 dalyje nustatytas pareigas.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos valstybės tarnybos įstatymo pakeitimo įstatymo įgyvendinimo įstatymo (2002 m. balandžio 23 d. redakcija; Žin., 2002, Nr. 45-1709) 4 straipsnio 5 dalis tiek, kiek joje nustačius, kad laikotarpis einant Lietuvos Respublikos valstybės tarnybos įstatymo (1999 m. liepos 8 d. redakcija) 33 straipsnio (2000 m. rugpjūčio 29 d., 2001 m. rugsėjo 27 d. redakcijos) 3 dalyje nustatytas A ir B lygių paslaugų valstybės tarnautojų pareigas į tarnybos Lietuvos valstybei stažą įskaitomas valstybės tarnautojams, priimtiems į pareigas iki Lietuvos Respublikos valstybės tarnybos įstatymo pakeitimo įstatymo įsigaliojimo 2002 m. liepos 1 d., nenustatyta, kad toks laikotarpis į tarnybos Lietuvos valstybei stažą įskaitomas ir valstybės tarnautojams, priimtiems į pareigas po šio įstatymo įsigaliojimo, prieštarauja Lietuvos Respublikos Konstitucijos 29 straipsniui, 33 straipsnio 1 dalies nuostatai „piliečiai turi <...> teisę lygiomis sąlygomis stoti į Lietuvos Respublikos valstybinę tarnybą“, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+2012-07-03, Žin., 2012, Nr. 79-4110 (2012-07-05), i. k. 1121000NUTARG124110            
+ 
 
 6. Neteko galios 2006-01-12.
 Straipsnio dalies pakeitimai:
@@ -189,4 +193,9 @@ Lietuvos Respublikos valstybės tarnybos įstatymo pakeitimo įstatymo įgyvendi
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-465, 2005-12-22, Žin., 2006, Nr. 4-98 (2006-01-12), i. k. 1051010ISTA000X-465
 Lietuvos Respublikos valstybės tarnybos įstatymo pakeitimo įstatymo įgyvendinimo įstatymo 4 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+2012-07-03, Žin., 2012, Nr. 79-4110 (2012-07-05), i. k. 1121000NUTARG124110                
+Dėl Lietuvos Respublikos valstybės tarnybos įstatymo pakeitimo įstatymo įgyvendinimo įstatymo 4 straipsnio 5 dalies atitikties Lietuvos Respublikos Konstitucijai
 
