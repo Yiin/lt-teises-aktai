@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DCBDC82E26CD"
 
 # Lietuvos Respublikos gyventojų registro įstatymas
 
-Suvestinė redakcija nuo 2008-07-31 iki 2012-07-09
+Suvestinė redakcija nuo 2012-07-10 iki 2014-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 21-0; Žin. 1992, Nr.5-78, i. k. 0921010ISTA00I-2237
  
@@ -188,7 +188,7 @@ Registre tvarkomi šių asmenų duomenys:
 
 
 
-7 straipsnis.         Vadovaujančiosios registro tvarkymo įstaigos pagrindinės teisės ir pareigos
+7 straipsnis. Vadovaujančiosios registro tvarkymo įstaigos pagrindinės teisės ir pareigos
 
 
 1. Vadovaujančiosios registro tvarkymo įstaigos teises ir pareigas reglamentuoja šis įstatymas, Lietuvos Respublikos valstybės registrų, Asmens duomenų teisinės apsaugos įstatymai ir vadovaujančiosios registro tvarkymo įstaigos nuostatai.
@@ -219,9 +219,11 @@ Registre tvarkomi šių asmenų duomenys:
 
 
 
-5) teikti sujungtus šio įstatymo 9 straipsnyje išvardytus duomenis, nustatant giminystės ir svainystės ryšius, šio įstatymo 9 straipsnio 4 dalyje nurodytiems subjektams.
+5) teikti informaciją apie sujungtus šio įstatymo 9 straipsnyje nurodytus duomenis šio įstatymo 11 straipsnio 6 dalyje nurodytiems subjektams, nustatant giminystės ir svainystės ryšius.
 Papildyta straipsnio punktu:
 Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
+Straipsnio punkto pakeitimai:
+Nr. XI-2138, 2012-06-28, Žin., 2012, Nr. 80-4142 (2012-07-10), i. k. 1121010ISTA0XI-2138
  
 
 
@@ -420,16 +422,19 @@ Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA
 
 
 
-2. Duomenys apie asmenis be pilietybės ir kitų valstybių piliečius, neturinčius leidimo gyventi Lietuvos Respublikoje, nurodyti šio straipsnio 1 dalyje, į registrą įrašomi, jeigu jie pagrįsti Lietuvos Respublikoje galiojančiais dokumentais; šio straipsnio 1 dalies 7–12 punktuose nurodyti duomenys nėra privalomi ir į registrą įrašomi, jeigu dokumentais pagrįsti visi šio straipsnio 1 dalies 1–6 punktuose nurodyti duomenys; šio straipsnio 1 dalies 13–15 punktuose nurodyti duomenys apie asmenis be pilietybės ir kitų valstybių piliečius įrašomi, jeigu jie pagrįsti Lietuvos Respublikoje išduotais dokumentais. 
+2. Šio straipsnio 1 dalies 13 14, 15 punktuose nurodyti duomenys apie asmenis be pilietybės ir kitų valstybių piliečius įrašomi, jeigu jie pagrįsti Lietuvos Respublikoje išduotais dokumentais. 
 Straipsnio dalies pakeitimai:
 Nr. X-623, 2006-05-25, Žin., 2006, Nr. 65-2387 (2006-06-10), i. k. 1061010ISTA000X-623
 Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
+Nr. XI-2138, 2012-06-28, Žin., 2012, Nr. 80-4142 (2012-07-10), i. k. 1121010ISTA0XI-2138
  
 
 
 
 
-3. Šio įstatymo 9 straipsnio 1 dalies 13-15 punktuose nurodyti duomenys gali būti teikiami tik teisėtvarkos bei asmens tapatybę patvirtinančius dokumentus išduodančioms institucijoms. 
+3. Neteko galios nuo 2012-07-10
+Straipsnio dalies naikinimas:
+Nr. XI-2138, 2012-06-28, Žin. 2012, Nr. 80-4142 (2012-07-10), i. k. 1121010ISTA0XI-2138
 Papildyta straipsnio dalimi:
 Nr. X-623, 2006-05-25, Žin., 2006, Nr. 65-2387 (2006-06-10), i. k. 1061010ISTA000X-623
  
@@ -437,7 +442,9 @@ Nr. X-623, 2006-05-25, Žin., 2006, Nr. 65-2387 (2006-06-10), i. k. 1061010ISTA0
 
 
 
-4. Giminystės ir svainystės ryšių duomenys, nurodžius konkretų asmens duomenų naudojimo tikslą, gali būti teikiami teisėtvarkos subjektams – nustatytoms funkcijoms atlikti; Seimo komisijoms – įstatymų, Seimo nutarimų nustatyta tvarka pavestiems uždaviniams įgyvendinti. Giminystės ryšių duomenys gali būti teikiami Vyriausiajai tarnybinės etikos komisijai – jos tiesioginėms funkcijoms atlikti; notarams – paveldėjimo byloms tvarkyti ir nustatyti, ar nėra įstatymų nustatytų apribojimų sudaryti sandorius su artimaisiais giminaičiais; asmenims, kuriems įstatymų nustatyta teisė spręsti Lietuvos Respublikos pilietybės klausimus, – sprendimams šiais klausimais priimti; konsuliniams pareigūnams – kai to reikia konsulinės pagalbos funkcijoms atlikti, taip pat nustatyti, ar nėra įstatymų nustatytų apribojimų sudaryti santuoką ir sandorius su artimaisiais giminaičiais. 
+4. Neteko galios nuo 2012-07-10
+Straipsnio dalies naikinimas:
+Nr. XI-2138, 2012-06-28, Žin. 2012, Nr. 80-4142 (2012-07-10), i. k. 1121010ISTA0XI-2138
 Straipsnio dalies pakeitimai:
 Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
 Nr. X-1707, 2008-07-15, Žin., 2008, Nr. 87-3467 (2008-07-31), i. k. 1081010ISTA00X-1707
@@ -522,9 +529,27 @@ Nr. X-623, 2006-05-25, Žin., 2006, Nr. 65-2387 (2006-06-10), i. k. 1061010ISTA0
 
 
 
-5. Registrą tvarkančių įstaigų teikiami dokumentai su asmens duomenimis turi juridinę galią.
+5. Veido atvaizdas, pirštų atspaudai ir parašas gali būti teikiami tik teisėtvarkos ir asmens tapatybę patvirtinančius dokumentus išduodančioms institucijoms. Veido atvaizdas ir parašas gali būti teikiami valstybės institucijoms juridinę galią turinčių dokumentų gamybai tik esant asmens sutikimui. Veido atvaizdas gali būti teikiamas finansų įstaigoms tik tų asmenų, kuriems ketinama suteikti finansines paslaugas, susijusias su rizikos prisiėmimu. Veido atvaizdas teikiamas sveikatos priežiūros įstaigoms nenustatytos asmens tapatybės pacientų asmens tapatybei patvirtinti ir (ar) nustatyti, taip pat notarams ir antstoliams – teisės aktų nustatytoms funkcijoms atlikti, kai to reikia kaip papildomos asmens identifikavimo priemonės asmens tapatybei nustatyti. 
+Papildyta straipsnio dalimi:
+Nr. XI-2138, 2012-06-28, Žin., 2012, Nr. 80-4142 (2012-07-10), i. k. 1121010ISTA0XI-2138
+ 
+
+
+
+
+6. Informacija apie giminystės ir svainystės ryšius gali būti teikiama teisėtvarkos subjektams, mokesčių administravimo institucijoms teisės aktų nustatytoms funkcijoms atlikti; Seimo komisijoms – įstatymų, Seimo nutarimų nustatyta tvarka pavestiems uždaviniams įgyvendinti. Informacija apie giminystės ryšius gali būti teikiama Vyriausiajai tarnybinės etikos komisijai jos teisės aktų nustatytoms funkcijoms atlikti; notarams – paveldėjimo byloms tvarkyti ir nustatyti, ar nėra įstatymų nustatytų apribojimų sudaryti sandorius su artimaisiais giminaičiais; asmenims, kuriems įstatymų nustatyta teisė spręsti Lietuvos Respublikos pilietybės klausimus, – sprendimams šiais klausimais priimti; konsuliniams pareigūnams – kai to reikia konsulinei veiklai atlikti, taip pat nustatyti, ar nėra įstatymų nustatytų apribojimų sudaryti santuoką ir sandorius su artimaisiais giminaičiais; Nekilnojamojo turto registro tvarkytojui – kai įregistruojami nekilnojamieji daiktai, įgyti nuosavybėn įgyjamąja senatimi. 
+Papildyta straipsnio dalimi:
+Nr. XI-2138, 2012-06-28, Žin., 2012, Nr. 80-4142 (2012-07-10), i. k. 1121010ISTA0XI-2138
+ 
+
+
+
+
+7. Registrą tvarkančių įstaigų teikiami dokumentai su asmens duomenimis turi juridinę galią.
 Straipsnio dalies pakeitimai:
 Nr. X-1069, 2007-04-03, Žin., 2007, Nr. 43-1631 (2007-04-19), i. k. 1071010ISTA00X-1069
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-2138, 2012-06-28, Žin., 2012, Nr. 80-4142 (2012-07-10), i. k. 1121010ISTA0XI-2138
  
 
 
@@ -713,3 +738,8 @@ Lietuvos Respublikos gyventojų registro įstatymo 4, 7, 9, 10, 11, 12 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1707, 2008-07-15, Žin., 2008, Nr. 87-3467 (2008-07-31), i. k. 1081010ISTA00X-1707
 Lietuvos Respublikos gyventojų registro įstatymo 9 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2138, 2012-06-28, Žin., 2012, Nr. 80-4142 (2012-07-10), i. k. 1121010ISTA0XI-2138
+Lietuvos Respublikos gyventojų registro įstatymo 7, 9, 11 straipsnių pakeitimo ir papildymo įstatymas
