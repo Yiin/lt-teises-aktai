@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29CFE27F6B13"
 
 # Lietuvos Respublikos Lietuvos kariuomenės drausmės statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2011-11-26 iki 2012-07-11
+Suvestinė redakcija nuo 2012-07-12 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 51-1635, i. k. 0991010ISTAIII-1191
  
@@ -1813,35 +1813,12 @@ Kariuomenės vadas:
 52 straipsnis. Krašto apsaugos ministro teisė skirti drausmines nuobaudas
 
 
-Krašto apsaugos ministras:
+Krašto apsaugos ministras gali skirti šio statuto 31 straipsnyje nustatytas drausmines nuobaudas visiems šio statuto 8 straipsnyje nustatytiems drausminės atsakomybės subjektams, išskyrus nuobaudą pažeminti kario laipsnį pulkininkams (jūrų kapitonams) ir generolams (admirolams) ir nuobaudą atleisti iš tarnybos Lietuvos kariuomenės vadą.
 
 
-1) skiria papeikimą atsargos kariams;
-
-
-
-
-2) atima teisę iškilmingomis progomis dėvėti kario uniformą atsargos arba dimisijos kariams;
-
-
-
-
-3) pažemina atsargos kario laipsnį atsargos kariams;
-
-
-
-
-4) sumažina tarnybinį atlyginimą generolams (admirolams);
-
-
-
-
-5) pažemina kario laipsnį vyresniesiems karininkams iki pulkininko leitenanto (komandoro) imtinai.
+Straipsnio pakeitimai:
+Nr. XI-2187, 2012-06-29, Žin., 2012, Nr. 81-4226 (2012-07-12), i. k. 1121010ISTA0XI-2187
  
-
-
-
-
 
 
 
@@ -2800,3 +2777,8 @@ Lietuvos Respublikos kariuomenės drausmės statuto 8 ir 38 straipsnių pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1636, 2011-11-08, Žin., 2011, Nr. 143-6704 (2011-11-26), i. k. 1111010ISTA0XI-1636
 Lietuvos Respublikos kariuomenės drausmės statuto pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2187, 2012-06-29, Žin., 2012, Nr. 81-4226 (2012-07-12), i. k. 1121010ISTA0XI-2187
+Lietuvos Respublikos kariuomenės drausmės statuto 52 straipsnio pakeitimo įstatymas
