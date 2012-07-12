@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2011-07-01 iki 2012-07-11
+Suvestinė redakcija nuo 2012-07-12 iki 2012-12-20
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
  
@@ -609,7 +609,10 @@ Nr. XI-1215, 2010-12-09, Žin., 2010, Nr. 153-7784 (2010-12-28), i. k. 1101010IS
 
 
 
-2. Kariuomenės vadas, jei tai būtina, suderinęs su CAA, nustato reikalavimus karinei aviacijai šiam įstatymui įgyvendinti ir vykdo karinės aviacijos, įskaitant antžeminius įrenginius ir aviacijai teikiamas paslaugas, valstybinę priežiūrą. Tuo tikslu karinėse oro pajėgose turi būti įsteigtas Skrydžių saugos departamentas.
+2. Kariuomenės vadas, jei tai būtina, suderinęs su CAA, nustato reikalavimus karinei aviacijai šiam įstatymui įgyvendinti, taip pat yra atsakingas už karinės aviacijos, įskaitant antžeminius įrenginius ir aviacijai teikiamas paslaugas, valstybinę priežiūrą. Lietuvos kariuomenės Skrydžių saugos departamentas vykdo karinės aviacijos, įskaitant antžeminius įrenginius ir aviacijai teikiamas paslaugas, valstybinės priežiūros funkcijas. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2186, 2012-06-29, Žin., 2012, Nr. 81-4225 (2012-07-12), i. k. 1121010ISTA0XI-2186
+ 
 
 
 
@@ -624,7 +627,9 @@ Nr. XI-1215, 2010-12-09, Žin., 2010, Nr. 153-7784 (2010-12-28), i. k. 1101010IS
 
 
 
-5. Įstatymų nustatyta tvarka kariuomenės vadas gali deleguoti šiame įstatyme nustatytas teises ir pareigas karinių oro pajėgų vadui. Deleguojamas teises ir pareigas kariuomenės vado siūlymu tvirtina krašto apsaugos ministras.
+5. Teisės aktų nustatyta tvarka kariuomenės vadas gali suteikti įgaliojimus karinių oro pajėgų vadui arba Lietuvos kariuomenės Skrydžių saugos departamento direktoriui šiame įstatyme nustatytoms teisėms įgyvendinti ir pareigoms atlikti.
+Straipsnio dalies pakeitimai:
+Nr. XI-2186, 2012-06-29, Žin., 2012, Nr. 81-4225 (2012-07-12), i. k. 1121010ISTA0XI-2186
  
 
 
@@ -2687,3 +2692,8 @@ Lietuvos Respublikos aviacijos įstatymo 5, 6, 25, 36, 45, 46, 56, 57, 66, 67-1,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1392, 2011-05-19, Žin., 2011, Nr. 68-3223 (2011-06-04), i. k. 1111010ISTA0XI-1392
 Lietuvos Respublikos aviacijos įstatymo 2, 10 straipsnių pakeitimo ir papildymo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2186, 2012-06-29, Žin., 2012, Nr. 81-4225 (2012-07-12), i. k. 1121010ISTA0XI-2186
+Lietuvos Respublikos aviacijos įstatymo 7 straipsnio pakeitimo įstatymas
