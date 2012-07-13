@@ -780,8 +780,9 @@ Vaiko teisių apsaugos kontrolierius
 
 Seimo, Seimo Pirmininko, Respublikos
   Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
-  tarybos, Valstybinės kainų ir energetikos kontrolės komisijos, Vyriausiosios
-  rinkimų komisijos ir Vyriausiosios tarnybinės etikos komisijos:
+  tarybos, Viešųjų pirkimų tarnybos, Ryšių reguliavimo tarnybos, Valstybinės
+  kainų ir energetikos kontrolės komisijos, Vyriausiosios rinkimų komisijos ir
+  Vyriausiosios tarnybinės etikos komisijos:
 
 
  
@@ -792,10 +793,10 @@ Seimo, Seimo Pirmininko, Respublikos
 7.1.
 
 
-pirmininkai
+pirmininkai ar direktoriai
 
 
-12
+12,3
 
 
 
@@ -985,6 +986,9 @@ Nr. XI-1789,
 2011-12-09, Žin., 2011, Nr. 156-7386 (2011-12-22)
 Nr. XI-1839,
 2011-12-21, Žin., 2011, Nr. 163-7749 (2011-12-31)
+Nr.
+XI-2181,
+2012-06-29, Žin., 2012, Nr. 82-4267 (2012-07-13)
  
 3 straipsnis. Įstatymo galiojimas
 1. Neteko galios
@@ -1008,13 +1012,12 @@ priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS
 ADAMKUS
-______________
  
 Pakeitimai:
  
 1.
-Lietuvos
-Respublikos Seimas, Įstatymas
+Lietuvos Respublikos
+Seimas, Įstatymas
 Nr. XI-866,
 2010-06-03, Žin., 2010, Nr. 71-3544 (2010-06-19)
 VALSTYBĖS
@@ -1063,11 +1066,19 @@ VALSTYBĖS POLITIKŲ IR VALSTYBĖS
 PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMO 1 STRAIPSNIO
 PRIPAŽINIMO NETEKUSIU GALIOS, 2 IR 3 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
-***
-Pabaiga ***
+7.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-2181,
+2012-06-29, Žin., 2012, Nr. 82-4267 (2012-07-13)
+VALSTYBĖS POLITIKŲ IR VALSTYBĖS
+PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+ 
+*** Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2012-01-02)
+Aušrinė Trapinskienė (2012-07-13)
                  
 ausrine.trapinskiene@lrs.lt
