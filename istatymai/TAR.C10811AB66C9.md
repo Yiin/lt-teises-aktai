@@ -17,6 +17,15 @@ LIETUVOS RESPUBLIKOS DARBO KODEKSO 76, 77, 80, 107, 108, 109, 115, 127,
 147, 149, 150, 151, 202, 293, 294 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI KODEKSO
 PAPILDYMO 1231 STRAIPSNIU ĮSTATYMAS
 
+Įstatymas netenka galios 2017-01-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-2603, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23709
+Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
+ 
+Suvestinė redakcija nuo 2012-07-13 iki 2016-12-31
+ 
+Įstatymas paskelbtas: Žin. 2010, Nr. 81-4221, i. k. 1101010ISTA00XI-927
+ 
 LIETUVOS RESPUBLIKOS  DARBO KODEKSO 76, 77, 80, 107, 108, 109, 115, 127, 147, 149, 150, 151, 202, 293, 294 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO  BEI KODEKSO PAPILDYMO 1231 STRAIPSNIU  ĮSTATYMAS
  
 2010 m. birželio 22 d. Nr. XI-927
@@ -225,9 +234,15 @@ Pakeisti 294 straipsnio 3 dalį ir ją išdėstyti taip:
 
 1. Šis įstatymas, išskyrus 6 straipsnio 2 dalį ir 18 straipsnį, įsigalioja 2010 m. rugpjūčio 1 d.
 
-2. Šio įstatymo 6 straipsnio 1 dalis galioja iki 2012 m. liepos 31 d.
+2. Šio įstatymo 6 straipsnio 1 dalis galioja iki 2015 m. liepos 31 d. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2194, 2012-06-30, Žin., 2012, Nr. 82-4273 (2012-07-13), i. k. 1121010ISTA0XI-2194
+ 
 
-3. Šio įstatymo 6 straipsnio 2 dalis įsigalioja 2012 m. rugpjūčio 1 d.
+3. Šio įstatymo 6 straipsnio 2 dalis įsigalioja 2015 m. rugpjūčio 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2194, 2012-06-30, Žin., 2012, Nr. 82-4273 (2012-07-13), i. k. 1121010ISTA0XI-2194
+ 
 
 4. Pagal šio įstatymo 6 straipsnio 1 dalyje keičiamą Darbo kodekso 109 straipsnio 2 dalį (toliau – Darbo kodekso 109 straipsnio 2 dalis) terminuotas darbo sutartis nuolatinio pobūdžio darbui galima sudaryti tik po šio įstatymo įsigaliojimo įsteigtoms naujoms darbo vietoms. Naujai įsteigtomis darbo vietomis nelaikomos tokios darbo vietos, kurios po šio įstatymo įsigaliojimo steigiamos tokiam pačiam darbui atlikti panaikinant buvusias darbo vietas. 
 
@@ -235,7 +250,10 @@ Pakeisti 294 straipsnio 3 dalį ir ją išdėstyti taip:
 
 6. Terminuota darbo sutartis pagal Darbo kodekso 109 straipsnio 2 dalį naujai įsteigtai darbo vietai negali būti sudaryta su toje pačioje įmonėje, įstaigoje, organizacijoje dirbusiu darbuotoju, su kuriuo darbo sutartis buvo nutraukta pagal Darbo kodekso 125 ar 129 straipsnį įsigaliojus šiam įstatymui.
 
-7. Terminuotos darbo sutartys pagal Darbo kodekso 109 straipsnio 2 dalį naujai įsteigtoms darbo vietoms gali būti sudaromos laikotarpiui iki dvejų metų, tačiau ne ilgesniam laikui kaip iki 2012 m. liepos 31 d. Darbo santykiams pagal tokią terminuotą darbo sutartį tęsiantis po 2012 m. liepos 31 d., darbo sutartis tampa neterminuota darbo sutartimi.
+7. Terminuotos darbo sutartys pagal Darbo kodekso 109 straipsnio 2 dalį naujai įsteigtoms darbo vietoms gali būti sudaromos ne ilgesniam laikui kaip iki 2015 m. liepos 31 d. Darbo santykiams pagal tokią terminuotą darbo sutartį tęsiantis po 2015 m. liepos 31 d., darbo sutartis tampa neterminuota darbo sutartimi.
+Straipsnio dalies pakeitimai:
+Nr. XI-2194, 2012-06-30, Žin., 2012, Nr. 82-4273 (2012-07-13), i. k. 1121010ISTA0XI-2194
+ 
 
 8. Darbo sutartys su namudininkais, sudarytos iki šio įstatymo įsigaliojimo, tęsiasi toliau ir joms taikomos nuotolinio darbo sutarties nuostatos.
  
@@ -249,4 +267,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+ 
+ 
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2194, 2012-06-30, Žin., 2012, Nr. 82-4273 (2012-07-13), i. k. 1121010ISTA0XI-2194
+Lietuvos Respublikos darbo kodekso 76, 77, 80, 107, 108, 109, 115, 127, 147, 149, 150, 151, 202, 293, 294 straipsnių pakeitimo ir papildymo bei Kodekso papildymo 123-1 straipsniu įstatymo 17 straipsnio pakeitimo įstatymas
 
