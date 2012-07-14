@@ -597,15 +597,16 @@ Valstybinei mokesčių inspekcijai kaip su darbo santykiais ar jų esmę
 atitinkančiais santykiais susijusios pajamos;
 1 punkto redakcija nuo
 2014-01-01:
-1) individualios įmonės savininko, taip pat ūkinės
-bendrijos tikrojo nario socialinio draudimo įmokų bazę sudaro individualios
-įmonės ar ūkinės bendrijos Fondo valdybos su Valstybine mokesčių inspekcija
-prie Finansų ministerijos nustatyta tvarka deklaruoto ir su Fondo valdybos
-teritoriniu skyriumi bei teritorine valstybine mokesčių inspekcija suderinto
-dydžio lėšų suma, kuri kalendoriniais metais išsiimama individualios įmonės
-savininko ar ūkinės bendrijos tikrojo nario asmeniniams poreikiams ir kuri
-kalendorinių metų mėnesį negali būti mažesnė kaip minimalioji mėnesinė alga.
-Šios nuostatos netaikomos, jeigu individuali įmonė ar ūkinė bendrija veiklos
+1) individualios įmonės savininko, mažosios bendrijos
+nario, taip pat ūkinės bendrijos tikrojo nario socialinio draudimo įmokų bazę
+sudaro individualios įmonės, mažosios bendrijos ar ūkinės bendrijos Fondo
+valdybos su Valstybine mokesčių inspekcija prie Finansų ministerijos nustatyta
+tvarka deklaruoto ir su Fondo valdybos teritoriniu skyriumi bei teritorine
+valstybine mokesčių inspekcija suderinto dydžio lėšų suma, kuri kalendoriniais
+metais išsiimama individualios įmonės savininko, mažosios bendrijos nario ar
+ūkinės bendrijos tikrojo nario asmeniniams poreikiams ir kuri kalendorinių metų
+mėnesį negali būti mažesnė kaip minimalioji mėnesinė alga. Šios nuostatos
+netaikomos, jeigu individuali įmonė, mažoji bendrija ar ūkinė bendrija veiklos
 laikinai nevykdo ir yra tai deklaravusi Mokesčių administravimo įstatymo ir jo
 įgyvendinamųjų teisės aktų nustatyta tvarka;
  
@@ -613,18 +614,18 @@ laikinai nevykdo ir yra tai deklaravusi Mokesčių administravimo įstatymo ir j
 veikla, kaip ji apibrėžta Gyventojų pajamų mokesčio įstatyme, socialinio
 draudimo įmokų bazę sudaro 50 procentų individualios veiklos apmokestinamųjų
 pajamų (neatėmus privalomojo sveikatos draudimo ir valstybinio socialinio
-draudimo įmokų) suma. Ūkininkų ir jų partnerių, kurių pajamos mokestiniu
-laikotarpiu apmokestinamos gyventojų pajamų mokesčiu pagal Gyventojų pajamų
-mokesčio įstatymo nuostatas, socialinio draudimo įmokų bazę sudaro kiekvieno
-asmens žemės ūkio veiklos apmokestinamųjų pajamų (neatėmus privalomojo
-sveikatos draudimo ir valstybinio socialinio draudimo įmokų) suma, tačiau ne
-mažesnė negu 12 minimaliųjų mėnesinių algų ir ne didesnė negu 12 Lietuvos
-Respublikos Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų dydžių
-suma. Ūkininkų ir jų partnerių, kurių pajamos mokestiniu laikotarpiu nėra
+draudimo įmokų) suma. Ūkininkų ir jų partnerių, kurių pajamos mokestiniu laikotarpiu
 apmokestinamos gyventojų pajamų mokesčiu pagal Gyventojų pajamų mokesčio
-įstatymo nuostatas, socialinio draudimo įmokų baze laikoma 12 minimaliųjų
-mėnesinių algų suma. Šeimynos dalyvių socialinio draudimo įmokų bazę sudaro
-šeimynos dalyvio išlaikymo pajamos, numatytos Šeimynų įstatyme.
+įstatymo nuostatas, socialinio draudimo įmokų bazę sudaro kiekvieno asmens
+žemės ūkio veiklos apmokestinamųjų pajamų (neatėmus privalomojo sveikatos
+draudimo ir valstybinio socialinio draudimo įmokų) suma, tačiau ne mažesnė negu
+12 minimaliųjų mėnesinių algų ir ne didesnė negu 12 Lietuvos Respublikos
+Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų dydžių suma. Ūkininkų
+ir jų partnerių, kurių pajamos mokestiniu laikotarpiu nėra apmokestinamos
+gyventojų pajamų mokesčiu pagal Gyventojų pajamų mokesčio įstatymo nuostatas,
+socialinio draudimo įmokų baze laikoma 12 minimaliųjų mėnesinių algų suma.
+Šeimynos dalyvių socialinio draudimo įmokų bazę sudaro šeimynos dalyvio
+išlaikymo pajamos, numatytos Šeimynų įstatyme.
 3. Apdraustųjų asmenų, nurodytų šio
 įstatymo 4 straipsnio 1 dalies 1 punkte ir 4 straipsnio 5 dalyje,
 socialinio draudimo įmokos apskaičiuojamos ir privalomai sumokamos nuo pajamų,
@@ -679,12 +680,14 @@ Nr. XI-1102,
 2010-11-09, Žin., 2010, Nr. 137-7003 (2010-11-23)
 Nr. XI-1167,
 2010-11-23, Žin., 2010, Nr. 145-7424 (2010-12-11)
-Nr. XI-1792,
-2011-12-13, Žin., 2011, Nr. 160-7561 (2011-12-28)
+Nr. XI-1792, 2011-12-13,
+Žin., 2011, Nr. 160-7561 (2011-12-28)
 Nr. XI-1794,
 2011-12-13, Žin., 2011, Nr. 160-7563 (2011-12-28)
-Nr. XI-2169,
-2012-06-29, Žin., 2012, Nr. 83-4343 (2012-07-14)
+Nr. XI-2169, 2012-06-29,
+Žin., 2012, Nr. 83-4343 (2012-07-14)
+Nr. XI-2175,
+2012-06-29, Žin., 2012, Nr. 83-4349 (2012-07-14)
  
 8 straipsnis.
 Pajamos ir atvejai, kada socialinio draudimo įmokos neskaičiuojamos
@@ -695,7 +698,8 @@ išmoka darbdavys mirus šio apdraustojo asmens sutuoktiniui, vaikams
 (įvaikiams), tėvams (įtėviams), taip pat stichinių nelaimių, gaisrų ir sprogimų
 atvejais, sumos, ne didesnės kaip 5 minimaliosios mėnesinės algos. Suma, nuo
 kurios neskaičiuojamos socialinio draudimo įmokos, didinama tiek kartų, už kiek
-mirusių apdraustojo asmens šeimos narių, nurodytų šiame punkte, išmokama pašalpa;
+mirusių apdraustojo asmens šeimos narių, nurodytų šiame punkte, išmokama
+pašalpa;
 2) pašalpos, kurią apdraustajam asmeniui
 mirus draudėjas išmoka jo sutuoktiniui, vaikams (įvaikiams) arba tėvams
 (įtėviams);
@@ -849,8 +853,8 @@ XI-93,
 Nr. XI-170,
 2009-02-17, Žin., 2009, Nr. 25-972 (2009-03-05)
 Nr.
-XI-389, 2009-07-22,
-Žin., 2009, Nr. 93-3981 (2009-08-04)
+XI-389,
+2009-07-22, Žin., 2009, Nr. 93-3981 (2009-08-04)
 Nr. XI-637,
 2009-12-22, Žin., 2009, Nr. 159-7208 (2009-12-31)
 Nr. XI-959,
@@ -887,8 +891,8 @@ data. Už meno kūrėjo statusą turinčius asmenis, nurodytus šio įstatymo 5
 straipsnio 3 dalyje, socialinio draudimo įmokas į Fondą Valstybinio socialinio
 draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka ir
 terminais priskaičiuoja Valstybinio socialinio draudimo fondo valdyba, o sumoka
-Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų
-finansinių rodiklių patvirtinimo įstatyme nurodytas valstybės biudžeto
+Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių
+biudžetų finansinių rodiklių patvirtinimo įstatyme nurodytas valstybės biudžeto
 asignavimų valdytojas iš Meno kūrėjų socialinės apsaugos programos Vyriausybės
 nustatyta tvarka.
 2. Priskaičiuotas socialinio draudimo
@@ -935,12 +939,12 @@ privalomai sumokamos nuo minimaliosios mėnesinės algos. Ūkininkų ir jų
 partnerių, kurių pajamos mokestiniu laikotarpiu apmokestinamos gyventojų
 pajamų mokesčiu pagal Gyventojų pajamų mokesčio įstatymo nuostatas, mėnesio
 socialinio draudimo įmokos apskaičiuojamos ir privalomai sumokamos nuo jų pačių
-pasirinktos sumos, bet ne mažesnės negu minimalioji mėnesinė alga ir ne
-didesnės negu Lietuvos Respublikos Vyriausybės patvirtintų einamųjų metų
-draudžiamųjų pajamų per mėnesį dydis. Avansu sumokėtos socialinio draudimo
-įmokos negrąžinamos ir netikslinamos. Socialinio draudimo įmokos (sumokėtų įmokų
-ir mokėtinų įmokų sumų skirtumas), kai jų bazė priklauso nuo asmens pajamų,
-gautų praėjusiais metais, turi būti sumokėtos iki metinės pajamų mokesčio
+pasirinktos sumos, bet ne mažesnės negu minimalioji mėnesinė alga ir ne didesnės
+negu Lietuvos Respublikos Vyriausybės patvirtintų einamųjų metų draudžiamųjų
+pajamų per mėnesį dydis. Avansu sumokėtos socialinio draudimo įmokos
+negrąžinamos ir netikslinamos. Socialinio draudimo įmokos (sumokėtų įmokų ir
+mokėtinų įmokų sumų skirtumas), kai jų bazė priklauso nuo asmens pajamų, gautų
+praėjusiais metais, turi būti sumokėtos iki metinės pajamų mokesčio
 deklaracijos pateikimo Valstybinei mokesčių inspekcijai termino paskutinės
 dienos.
 5 dalies redakcija nuo
@@ -961,11 +965,11 @@ mėnesio socialinio draudimo įmokos apskaičiuojamos ir privalomai sumokamos nu
 jų pačių pasirinktos sumos, bet ne mažesnės negu minimalioji mėnesinė alga ir
 ne didesnės negu Lietuvos Respublikos Vyriausybės patvirtintų einamųjų metų
 draudžiamųjų pajamų per mėnesį dydis. Avansu sumokėtos socialinio draudimo
-įmokos negrąžinamos ir netikslinamos. Socialinio draudimo įmokos (sumokėtų įmokų
-ir mokėtinų įmokų sumų skirtumas), kai jų bazė priklauso nuo asmens pajamų,
-gautų praėjusiais metais, turi būti sumokėtos iki metinės pajamų mokesčio
-deklaracijos pateikimo Valstybinei mokesčių inspekcijai termino paskutinės
-dienos.
+įmokos negrąžinamos ir netikslinamos. Socialinio draudimo įmokos (sumokėtų
+įmokų ir mokėtinų įmokų sumų skirtumas), kai jų bazė priklauso nuo asmens
+pajamų, gautų praėjusiais metais, turi būti sumokėtos iki metinės pajamų
+mokesčio deklaracijos pateikimo Valstybinei mokesčių inspekcijai termino
+paskutinės dienos.
  
 6. Asmenys, ketinantys įsigyti
 verslo liudijimus trumpesniam negu 3 mėnesių laikotarpiui, privalo iš anksto
@@ -978,8 +982,8 @@ išduotą verslo liudijimą grąžinama susidariusi pajamų mokesčio permoka,
 socialinio draudimo įmokų suma grąžinama asmeniui arba įskaitoma į busimąjį
 laikotarpį Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo
 taisyklėse nustatytais atvejais ir tvarka.
-7. Šio įstatymo 4 straipsnio 2 dalies 4–6
-punktuose, 4 dalies 3 punkte, 6 dalies 1 punkte nurodytų asmenų
+7. Šio įstatymo 4 straipsnio 2 dalies
+4–6 punktuose, 4 dalies 3 punkte, 6 dalies 1 punkte nurodytų asmenų
 socialinio draudimo įmokas valstybės biudžeto lėšomis sumoka Biudžeto sandaros
 įstatyme nurodyti valstybės biudžeto asignavimų valdytojai.
 8. Asmenys, nurodyti šio įstatymo 4
@@ -1022,16 +1026,16 @@ Nr. XI-638,
 Nr. XI-637,
 2009-12-22, Žin., 2009, Nr. 159-7208 (2009-12-31)
 Nr.
-XI-903, 2010-06-17,
-Žin., 2010, Nr. 76-3867 (2010-06-30)
+XI-903,
+2010-06-17, Žin., 2010, Nr. 76-3867 (2010-06-30)
 Nr. XI-1102,
 2010-11-09, Žin., 2010, Nr. 137-7003 (2010-11-23)
-Nr. XI-1166, 2010-11-23,
-Žin., 2010, Nr. 145-7423 (2010-12-11)
+Nr. XI-1166,
+2010-11-23, Žin., 2010, Nr. 145-7423 (2010-12-11)
 Nr. XI-1167,
 2010-11-23, Žin., 2010, Nr. 145-7424 (2010-12-11)
-Nr. XI-2169, 2012-06-29,
-Žin., 2012, Nr. 83-4343 (2012-07-14)
+Nr. XI-2169,
+2012-06-29, Žin., 2012, Nr. 83-4343 (2012-07-14)
  
 10 straipsnis.
 Pranešimų apie apskaičiuotas socialinio draudimo įmokas pateikimas ir
@@ -1080,9 +1084,10 @@ informacinėje sistemoje sukauptą informaciją.
 apie draudėją, apdraustąjį asmenį arba socialinio draudimo išmokos gavėją gali
 būti pateikta kitiems asmenims tik esant rašytiniam ar jam prilyginamam
 draudėjo, apdraustojo asmens arba socialinio draudimo išmokos gavėjo sutikimui
-arba jo prašymui, išskyrus šio straipsnio 3 dalyje ir kituose įstatymuose nustatytus
-atvejus, kai draudėjo, apdraustojo asmens arba socialinio draudimo išmokų
-gavėjo sutikimo nereikia. Informacijos pateikimo tvarką nustato Fondo valdyba.
+arba jo prašymui, išskyrus šio straipsnio 3 dalyje ir kituose įstatymuose
+nustatytus atvejus, kai draudėjo, apdraustojo asmens arba socialinio draudimo
+išmokų gavėjo sutikimo nereikia. Informacijos pateikimo tvarką nustato Fondo
+valdyba.
 3. Šie draudėjo duomenys yra vieši:
 1) draudėjo kodas, jo suteikimo ir pabaigos datos;
 2) draudėjo apdraustųjų skaičius;
@@ -1155,11 +1160,11 @@ socialinio draudimo įmokų sumą, pristatė patikslintas ataskaitas ir informav
 apie apdraustųjų asmenų draudžiamąsias pajamas, bauda už padarytą pažeidimą
 neskiriama. Šiuo atveju delspinigiai skaičiuojami šio straipsnio 1 dalyje
 nustatyta tvarka.
-3. Fondo valdyba, o šio įstatymo 31 straipsnio 17 punkte
-numatytais atvejais jos teritorinis skyrius Valstybinio socialinio draudimo
-fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka gali atidėti
-socialinio draudimo įmokų į Fondą įsiskolinimo mokėjimą iki vienų metų ir
-leisti sumokėti atidėtą sumą pagal draudėjo ir Fondo administravimo įstaigos
+3. Fondo valdyba, o šio įstatymo 31 straipsnio 17
+punkte numatytais atvejais jos teritorinis skyrius Valstybinio socialinio
+draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka gali
+atidėti socialinio draudimo įmokų į Fondą įsiskolinimo mokėjimą iki vienų metų
+ir leisti sumokėti atidėtą sumą pagal draudėjo ir Fondo administravimo įstaigos
 suderintą įsiskolinimo grąžinimo grafiką. Pažeidus mokėjimo grafiką taikomas
 išieškojimas priverstine tvarka.
 4. Fondo valdyba, o šio įstatymo 31 straipsnio 17
@@ -1197,13 +1202,13 @@ dienos. Priverstinio išieškojimo senaties terminas taikomas tik nuo 2005 m. sa
 priverstinio išieškojimo senaties terminui, pasibaigia ir su jomis susijusių
 priskaičiuotų delspinigių ir (ar) baudų priverstinio išieškojimo senaties
 terminas.
-10. Šio įstatymo 17 straipsnyje nurodytais būdais
-pradėjus laiku nesumokėtų socialinio draudimo įmokų, delspinigių ir baudų
-priverstinio išieškojimo procedūras, jos užbaigiamos, o priverstinio
-išieškojimo senaties terminas nutraukiamas. Nutrauktas priverstinio išieškojimo
-senaties terminas prasideda iš naujo nuo to momento, kai išnyko aplinkybės,
-kurios buvo pagrindas priverstinio išieškojimo senaties terminui nutraukti. Iki
-senaties termino nutraukimo praėjęs laikas į naują terminą neįskaičiuojamas.
+10. Šio įstatymo 17 straipsnyje nurodytais būdais pradėjus
+laiku nesumokėtų socialinio draudimo įmokų, delspinigių ir baudų priverstinio
+išieškojimo procedūras, jos užbaigiamos, o priverstinio išieškojimo senaties
+terminas nutraukiamas. Nutrauktas priverstinio išieškojimo senaties terminas
+prasideda iš naujo nuo to momento, kai išnyko aplinkybės, kurios buvo pagrindas
+priverstinio išieškojimo senaties terminui nutraukti. Iki senaties termino
+nutraukimo praėjęs laikas į naują terminą neįskaičiuojamas.
 11. Duomenys apie draudžiamąsias pajamas ir socialinio
 draudimo įmokas gali būti tikslinami už ne ilgesnį kaip 5 metų laikotarpį nuo
 draudėjo kreipimosi dienos. Pagal apdraustojo asmens prašymą duomenys
@@ -1218,8 +1223,8 @@ patikslintus duomenis apie draudžiamųjų asmenų didesnes pajamas už praėjus
 laikotarpį, privalo sumokėti į Fondą trūkstamas socialinio draudimo įmokas ir
 delspinigius pagal tuo laikotarpiu galiojusius dydžius.
 13. Tikrinant priskaičiuotos socialinio draudimo
-įmokos, baudos ir delspinigiai turi būti sumokėti Mokesčių administravimo įstatymo
-nustatytais terminais.
+įmokos, baudos ir delspinigiai turi būti sumokėti Mokesčių administravimo
+įstatymo nustatytais terminais.
 14. Kai draudėjas pavėluotai sumoka patikrinimo akte
 nurodytas papildomai priskaičiuotas socialinio draudimo įmokas, delspinigiai
 skaičiuojami nuo kitos dienos po to, kai įsigalioja Valstybinės mokesčių
@@ -1227,18 +1232,18 @@ inspekcijos sprendimas dėl patikrinimo akto tvirtinimo.
 Straipsnio pakeitimai:
 Nr. X-1396,
 2007-12-20, Žin., 2007, Nr. 138-5651 (2007-12-29)
-Nr. XI-474, 2009-11-12,
-Žin., 2009, Nr. 141-6197 (2009-11-28)
+Nr. XI-474,
+2009-11-12, Žin., 2009, Nr. 141-6197 (2009-11-28)
 Nr. XI-637,
 2009-12-22, Žin., 2009, Nr. 159-7208 (2009-12-31)
-Nr. XI-1792, 2011-12-13,
-Žin., 2011, Nr. 160-7561 (2011-12-28)
+Nr. XI-1792,
+2011-12-13, Žin., 2011, Nr. 160-7561 (2011-12-28)
  
 17 straipsnis. Socialinio draudimo įmokų, baudų ir
 delspinigių priverstinio išieškojimo būdai
 1. Fondo valdybos teritoriniai skyriai
-laiku nesumokėtas socialinio draudimo įmokas, delspinigius ir baudas gali išieškoti
-priverstine tvarka tokiais būdais:
+laiku nesumokėtas socialinio draudimo įmokas, delspinigius ir baudas gali
+išieškoti priverstine tvarka tokiais būdais:
 1) duodami nurodymą kredito įstaigai
 nesumokėtas socialinio draudimo įmokas, delspinigius ir baudas nurašyti iš
 draudėjo sąskaitos kredito įstaigoje Civilinio proceso kodekso 754 straipsnyje
@@ -2805,8 +2810,17 @@ galioja iki 2012 m. liepos 31 d.
 rugpjūčio 1 d.
 Šio įstatymo 2 straipsnio 2 dalis
 galioja iki 2013 m. gruodžio 31 d.
-Šio įstatymo 2 straipsnio 3 dalis įsigalioja 2014 m. sausio
-1 d.
+Šio įstatymo 2 straipsnio 3 dalis įsigalioja 2014 m.
+sausio 1 d.
+Šis
+įstatymas keistas:
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-2175,
+2012-06-29, Žin., 2012, Nr. 83-4349 (2012-07-14)
+VALSTYBINIO
+SOCIALINIO DRAUDIMO ĮSTATYMO 4, 7, 8, 16, 19 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
+ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 63.
 Lietuvos Respublikos Seimas,
@@ -2829,7 +2843,6 @@ VALSTYBINIO SOCIALINIO DRAUDIMO
 straipsnio 3 dalį, įsigalioja 2012 m. rugsėjo 1 d.
 Šio įstatymo
 3 straipsnio 1 dalis galioja iki 2013 m. gruodžio 31 d.
- 
  
 *** Pabaiga ***
  
