@@ -17,6 +17,8 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1FD5C3A4D10A"
 skelbtas: Žin., 2003, Nr. 102-4585
 Neoficialus
 įstatymo tekstas
+Aktuali
+įstatymo redakcija nuo 2012-08-01
  
 LIETUVOS RESPUBLIKOS
 VALSTYBINĖS DARBO
@@ -37,11 +39,18 @@ NUOSTATOS
  
 1
 straipsnis. Įstatymo paskirtis
-Šis
-Įstatymas nustato Lietuvos Respublikos valstybinės darbo inspekcijos (toliau –
-Valstybinė darbo inspekcija) uždavinius, funkcijas, struktūrą, Valstybinės
-darbo inspekcijos inspektorių teises, pareigas, atsakomybę, inspektavimų
-tvarką. 
+1. Šis Įstatymas
+nustato Lietuvos Respublikos valstybinės darbo inspekcijos 
+(toliau – Valstybinė darbo inspekcija) uždavinius, funkcijas, struktūrą,
+Valstybinės darbo inspekcijos inspektorių teises, pareigas, atsakomybę,
+inspektavimų tvarką. 
+2. Šio Įstatymo
+nuostatos suderintos su Europos Sąjungos teisės aktų, nurodytų šio Įstatymo
+priede, nuostatomis.
+Straipsnio pakeitimai:
+Nr.
+XI-2193,
+2012-06-30, Žin., 2012, Nr. 82-4272 (2012-07-13)
  
 2
 straipsnis. Valstybinės darbo inspekcijos teisinis statusas
@@ -80,9 +89,8 @@ DARBO INSPEKCIJOS STRUKTŪRA IR FUNKCIJOS
 5
 straipsnis. Valstybinės darbo inspekcijos struktūra 
 1.
-Valstybinei darbo inspekcijai vadovauja Lietuvos Respublikos vyriausiasis
-valstybinis darbo inspektorius (toliau – vyriausiasis valstybinis darbo
-inspektorius).
+Valstybinei darbo inspekcijai vadovauja Lietuvos Respublikos vyriausiasis valstybinis
+darbo inspektorius (toliau – vyriausiasis valstybinis darbo inspektorius).
 2.
 Valstybinę darbo inspekciją sudaro administracija ir teritoriniai skyriai.
 3.
@@ -217,14 +225,33 @@ apie tai, kad darbo priemonės, darbo sąlygos neatitinka teisės aktų nustatyt
 reikalavimų, apie nustatytus darbuotojų saugos ir sveikatos teisės aktų
 pažeidimus, nelaimingų atsitikimų, įvykusių dirbant pavojingus darbus, skaičių
 ir pavojingus darbus dirbančių darbuotojų atitinkamoje įmonėje skaičių;
-25)
+25) nustato ir
+viešai skelbia rizikingiausius ūkio sektorius, kuriuose yra naudojamas trečiųjų
+šalių piliečių nelegalus darbas;
+26) kasmet iki
+liepos 1 d. teikia Europos Komisijai praėjusiais metais atliktų patikrinimų
+duomenis (apie kiekvieną tikrintą sektorių absoliučiais skaičiais ir nurodant
+trečiųjų šalių piliečių dalį procentais) ir patikrinimų dėl trečiųjų šalių
+piliečių darbo rezultatus ir juos registruoja Darbo sąlygų darbo vietose
+nuolatinės stebėsenos informacinėje sistemoje;
+27)
 atlieka kitas funkcijas, nustatytas kitų norminių teisės aktų.
 Straipsnis papildomas nauju 25
-punktu, buvęs 25 punktas laikomas 26 punktu nuo 2013-01-01:
+punktu, buvę 25, 26 ir 27 punktai laikomi atitinkamai 26, 27 ir 28 punktais nuo
+2013-01-01:
 25)
 organizuoja darbo ginčų komisijų darbą;
-26)
-atlieka kitas funkcijas, nustatytas kitų norminių teisės aktų.
+26) nustato ir
+viešai skelbia rizikingiausius ūkio sektorius, kuriuose yra naudojamas trečiųjų
+šalių piliečių nelegalus darbas;
+27) kasmet iki
+liepos 1 d. teikia Europos Komisijai praėjusiais metais atliktų patikrinimų
+duomenis (apie kiekvieną tikrintą sektorių absoliučiais skaičiais ir nurodant
+trečiųjų šalių piliečių dalį procentais) ir patikrinimų dėl trečiųjų šalių
+piliečių darbo rezultatus ir juos registruoja Darbo sąlygų darbo vietose
+nuolatinės stebėsenos informacinėje sistemoje;
+28) atlieka
+kitas funkcijas, nustatytas kitų norminių teisės aktų.
 Straipsnio pakeitimai:
 Nr. X-1841,
 2008-11-14, Žin., 2008, Nr. 137-5385 (2008-11-29)
@@ -233,6 +260,9 @@ XI-402,
 2009-07-23, Žin., 2009, Nr. 93-3991 (2009-08-04)
 Nr. XI-2128,
 2012-06-26, Žin., 2012, Nr. 80-4139 (2012-07-10)
+Nr.
+XI-2193,
+2012-06-30, Žin., 2012, Nr. 82-4272 (2012-07-13)
  
 TREČIASIS
 SKIRSNIS
@@ -356,8 +386,8 @@ Nr. X-1841,
 Nr.
 XI-402,
 2009-07-23, Žin., 2009, Nr. 93-3991 (2009-08-04)
-Nr. XI-2128,
-2012-06-26, Žin., 2012, Nr. 80-4139 (2012-07-10)
+Nr. XI-2128, 2012-06-26,
+Žin., 2012, Nr. 80-4139 (2012-07-10)
  
 9
 straipsnis. Valstybinės darbo inspekcijos inspektorių teisės ir pareigos
@@ -461,12 +491,26 @@ saugoti ir neatskleisti valstybės, darbdavių komercinę paslaptį
 sudarančios informacijos, kurią jie sužinojo atlikdami tarnybines pareigas;
 9)
 vykdyti kitų norminių teisės aktų nustatytas pareigas.
+3. Valstybinės
+darbo inspekcijos inspektoriai inspektavimo metu turi informuoti trečiosios
+šalies piliečius apie jų teises, numatytas teisės aktuose ir šio Įstatymo 131 straipsnyje.
+4.
+Trečiosios šalies pilietis yra užsienietis,
+kuris nėra Europos Sąjungos valstybės narės pilietis ir kuris
+nesinaudoja laisvo judėjimo Europos Sąjungoje teise, kaip
+apibrėžta 2006 m. kovo 15 d. Europos Parlamento ir Tarybos reglamento (EB)
+Nr. 562/2006, nustatančio taisyklių, reglamentuojančių asmenų
+judėjimą per sienas, Bendrijos kodeksą (Šengeno sienų kodeksas) (OL 2006 L
+105, p. 1), 2 straipsnio 5 punkte.
 Straipsnio pakeitimai:
 Nr.
 X-1842,
 2008-11-14, Žin., 2008, Nr. 137-5386 (2008-11-29)
 Nr. XI-2128,
 2012-06-26, Žin., 2012, Nr. 80-4139 (2012-07-10)
+Nr.
+XI-2193,
+2012-06-30, Žin., 2012, Nr. 82-4272 (2012-07-13)
  
 10 straipsnis. Valstybinės darbo
 inspekcijos inspektorių veiksmų ir sprendimų apskundimas 
@@ -520,6 +564,86 @@ profesinių ligų, nelaimingų atsitikimų tyrimu, kurias atlieka nevalstybinės
 įstaigos, apmoka Valstybinė darbo inspekcija iš jai šiam tikslui skirtų
 valstybės biudžeto lėšų.
  
+Įstatymas
+papildytas ketvirtuoju1 skirsniu:
+Nr.
+XI-2193,
+2012-06-30, Žin., 2012, Nr. 82-4272 (2012-07-13)
+KETVIRTASIS1
+SKIRSNIS
+DARBDAVIŲ,
+LEIDUSIŲ DIRBTI NELEGALIAI TREČIOSIOS ŠALIES PILIEČIAMS, ATSAKOMYBĖ
+ 
+121 straipsnis. Nuobaudų ir kitų
+apribojimų taikymas
+1. Darbdaviams –
+juridiniams asmenims, leidusiems dirbti nelegaliai trečiosios šalies
+piliečiams, skiriama nuo 3 tūkstančių iki 10 tūkstančių litų bauda už kiekvieną
+nelegaliai dirbusį trečiosios šalies pilietį. Tokie patys veiksmai, padaryti už
+šį pažeidimą bausto juridinio asmens per metus nuo tos dienos, kurią pasibaigė
+paskirtos baudos įvykdymo terminas, užtraukia baudą juridiniam asmeniui už
+kiekvieną trečiosios šalies pilietį nuo 10 tūkstančių iki 20 tūkstančių litų.
+2. Šio
+straipsnio 1 dalyje numatyta bauda skiriama, jeigu padaryta veika neužtraukia
+baudžiamosios atsakomybės.
+3. Darbdavys
+privalo sumokėti nelegaliai dirbusiam trečiosios šalies piliečiui atlyginimą už
+darbą, dėl kurio buvo susitarta, bet ne mažesnį kaip Lietuvos Respublikos
+Vyriausybės nustatytos minimaliosios mėnesinės algos dydžio ir ne mažiau kaip
+už tris mėnesius (nebent darbdavys arba nelegaliai dirbęs trečiosios šalies
+pilietis gali įrodyti, kad nelegalus darbas buvo atliekamas trumpesnį laiką),
+ir nuo šios sumos sumokėti teisės aktų nustatytus mokesčius, įskaitant
+susidariusius delspinigius ir baudas, taip pat visas šioje dalyje numatytų sumų
+pervedimo į šalį, į kurią grįžo ar buvo sugrąžintas trečiosios šalies pilietis,
+išlaidas ir trečiosios šalies piliečio grąžinimo išlaidas.
+4. Šio
+straipsnio 1 dalyje nurodytų pažeidimų bylas nagrinėja ir baudas skiria
+Valstybinė darbo inspekcija. Šie pažeidimai tiriami, pažeidimų protokolai
+surašomi ir bylos nagrinėjamos mutatis mutandis vadovaujantis
+Administracinių teisės pažeidimų kodekso nuostatomis.
+5. Skiriamos
+baudos dydis nustatomas pagal didžiausios ir mažiausios baudų vidurkį,
+atsižvelgiant į šio straipsnio 6 ir 7 dalyse nustatytas atsakomybę
+lengvinančias ir sunkinančias aplinkybes. Kai yra atsakomybę lengvinančių
+aplinkybių, bauda mažinama nuo jos vidurkio iki minimalaus dydžio, o kai yra
+atsakomybę sunkinančių aplinkybių, bauda didinama nuo jos vidurkio iki
+maksimalaus dydžio. Kai yra ir atsakomybę lengvinančių, ir sunkinančių
+aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos
+mažinimas ar didinimas motyvuojamas nutarime skirti baudą. 
+6. Atsakomybę
+lengvinančiomis aplinkybėmis laikoma tai, kad juridinis asmuo, padaręs
+pažeidimą, užkirto kelią žalingoms pažeidimo pasekmėms, iki pažeidimo tyrimo
+pradžios pažeidimą nutraukė, pripažino padaręs pažeidimą, padėjo šio straipsnio
+7 dalyje nurodytų institucijų įgaliotiems pareigūnams atlikti pažeidimo tyrimą,
+geranoriškai atlygino žalą, taip pat labai sunki juridinio asmens finansinė
+padėtis.
+7. Atsakomybę
+sunkinančiomis aplinkybėmis laikoma tai, kad juridinis asmuo kliudė atlikti
+pažeidimo tyrimą, slėpė padarytą pažeidimą, tęsė pažeidimą, nepaisydamas
+Valstybinės darbo inspekcijos, Valstybinės mokesčių inspekcijos prie Lietuvos
+Respublikos finansų ministerijos, Finansinių nusikaltimų tyrimo tarnybos prie
+Vidaus reikalų ministerijos ar policijos įgaliotų pareigūnų įpareigojimo
+nutraukti neteisėtus veiksmus.
+8. Šio
+straipsnio 1 dalyje numatytos baudos gali būti skiriamos ne vėliau kaip per
+3 metus nuo pažeidimo nustatymo dienos.
+9. Be šiame
+straipsnyje numatytų baudų, darbdaviams, leidusiems dirbti nelegaliai
+trečiosios šalies piliečiams, atitinkamai taikoma:
+1) apribojimas
+dalyvauti viešuosiuose pirkimuose Lietuvos Respublikos viešųjų pirkimų įstatymo
+nustatyta tvarka;
+2) teisės gauti
+subsidijas, išmokas ar kitą valstybės pagalbą, įskaitant Europos Sąjungos
+struktūrinių fondų paramą ir kitą paramą, išskyrus tiesioginę Europos Sąjungos
+paramą, atėmimas iki 5 metų Lietuvos Respublikos Vyriausybės nustatyta tvarka; 
+3) įpareigojimas
+Lietuvos Respublikos Vyriausybės nustatyta tvarka sugrąžinti tam tikrą dalį
+arba visas per 12 mėnesių laikotarpį iki nelegalaus darbo nustatymo suteiktų
+subsidijų, išmokų ar kitos valstybės pagalbos, įskaitant Europos Sąjungos
+struktūrinių fondų paramą ir kitą paramą, išskyrus tiesioginę Europos Sąjungos
+paramą, lėšas.
+ 
 PENKTASIS
 SKIRSNIS
 BAIGIAMOSIOS
@@ -533,12 +657,23 @@ informacija su valstybės ir savivaldybių institucijomis bei įstaigomis,
 profesinėmis sąjungomis, darbo tarybomis, darbdavių organizacijomis, kitų
 valstybių analogiškomis tarnybomis. 
  
+131 straipsnis. Trečiosios
+šalies piliečio atstovavimas
+Profesinės
+sąjungos trečiosios šalies piliečio pavedimu gali įstatymų nustatyta tvarka
+atstovauti jam teisminėse arba administracinėse procedūrose.
+Įstatymas
+papildytas straipsniu:
+Nr.
+XI-2193,
+2012-06-30, Žin., 2012, Nr. 82-4272 (2012-07-13)
+ 
 14
 straipsnis. Įstatymo įsigaliojimas
 1. Šis
 Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
-2.
-Įsigaliojus šiam Įstatymui, netenka galios:
+2. Įsigaliojus
+šiam Įstatymui, netenka galios:
 1)
 Lietuvos Respublikos valstybinės darbo inspekcijos įstatymas (Žin., 1994, Nr. 87-1644); 
 2)
@@ -564,6 +699,26 @@ Skelbiu
  
  
 RESPUBLIKOS PREZIDENTAS                                                         ROLANDAS PAKSAS
+ 
+ 
+Lietuvos
+Respublikos
+                                                                                                valstybinės
+darbo inspekcijos
+                                                                                                įstatymo
+                                                                                                priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+1. 2009 m.
+birželio 18 d. Europos Parlamento ir Tarybos direktyva 2009/52/EB, kuria
+numatomi sankcijų ir priemonių nelegaliai esančių trečiųjų šalių piliečių
+darbdaviams būtiniausi standartai (OL 2009 L 168, p. 24).
+Įstatymas
+papildytas priedu:
+Nr.
+XI-2193, 2012-06-30,
+Žin., 2012, Nr. 82-4272 (2012-07-13)
  
  
 Pakeitimai:
@@ -607,12 +762,29 @@ VALSTYBINĖS DARBO INSPEKCIJOS
 Šio
 įstatymo 2 straipsnis ir 4 straipsnio 6 ir 7 dalys įsigalioja 2013 m. sausio 1 d.
  
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-2193,
+2012-06-30, Žin., 2012, Nr. 82-4272 (2012-07-13)
+VALSTYBINĖS
+DARBO INSPEKCIJOS ĮSTATYMO 1, 6, 9 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO
+PAPILDYMO KETVIRTUOJU(1) SKIRSNIU, 13(1) STRAIPSNIU IR PRIEDU ĮSTATYMAS
+Šis įstatymas, išskyrus šio
+straipsnio 2 ir 3 dalis, įsigalioja 2012 m. rugpjūčio 1 d.
+Šio įstatymo 2 straipsnyje
+nurodyti Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 6
+straipsnio 25, 26 ir 27 punktai nuo 2013 m. sausio 1 d. laikomi atitinkamai
+Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 6 straipsnio 26, 27
+ir 28 punktais.
+ 
  
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2012-07-10)
+Aušrinė Trapinskienė (2012-07-23)
                  
 ausrine.trapinskiene@lrs.lt
