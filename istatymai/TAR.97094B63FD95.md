@@ -13,14 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.97094B63FD95"
 
 # Lietuvos Respublikos ūkinių bendrijų įstatymas
 
-Suvestinė redakcija nuo 2012-01-01 iki 2012-08-31
+Suvestinė redakcija nuo 2012-09-01 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 112-4990, i. k. 1031010ISTA0IX-1804
  
+Nauja redakcija nuo 2012-09-01:
+Nr. XI-2073, 2012-06-19, Žin. 2012, Nr. 78-4014 (2012-07-04), i. k. 1121010ISTA0XI-2073
  
-LIETUVOS RESPUBLIKOS
-ŪKINIŲ BENDRIJŲ
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS ŪKINIŲ BENDRIJŲ ĮSTATYMAS 
  
 2003 m. lapkričio 6 d. Nr. IX-1804
 Vilnius
@@ -28,10 +28,10 @@ Vilnius
  
 
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo paskirtis 
 
 
-Šis Įstatymas reglamentuoja įmonių, kurių teisinė forma yra tikroji ūkinė bendrija, ir įmonių, kurių teisinė forma yra komanditinė ūkinė bendrija, steigimą, valdymą, veiklą, pertvarkymą, pabaigą, šių įmonių dalyvių teises ir pareigas.
+Šis įstatymas reglamentuoja įmonių, kurių teisinė forma yra tikroji ūkinė bendrija, ir įmonių, kurių teisinė forma yra komanditinė ūkinė bendrija, steigimą, valdymą, veiklą, pertvarkymą, pabaigą, šių įmonių dalyvių teises ir pareigas.
  
 
 
@@ -42,42 +42,47 @@ Vilnius
 2 straipsnis. Tikroji ūkinė bendrija ir komanditinė ūkinė bendrija
 
 
-1. Tikroji ūkinė bendrija yra įmonė, kurios visi dalyviai yra tikrieji nariai.
+1. Tikroji ūkinė bendrija yra įmonė, kurios visi dalyviai yra tikrieji nariai.
 
 
 
 
-2. Komanditinė ūkinė bendrija yra įmonė, kurios dalyviai yra tikrieji nariai ir komanditoriai.
+2. Komanditinė ūkinė bendrija yra įmonė, kurios dalyviai yra tikrieji nariai ir komanditoriai.
 
 
 
 
-3. Kai šio Įstatymo normos taikomos ir tikrajai ūkinei bendrijai, ir komanditinei ūkinei bendrijai, vartojamas žodis „bendrija“.
+3. Kai šio įstatymo normos taikomos ir tikrajai ūkinei bendrijai, ir komanditinei ūkinei bendrijai, vartojamas žodis „bendrija“.
 
 
 
 
-4. Bendrija yra neribotos civilinės atsakomybės privatusis juridinis asmuo.
+4. Kai šio įstatymo normos taikomos ir tikrajam nariui, ir komanditoriui, vartojamas žodis „dalyvis“.
 
 
 
 
-5. Bendrija įgyja civilines teises, prisiima civilines pareigas ir jas įgyvendina per tikruosius narius.
+5. Bendrija yra neribotos civilinės atsakomybės privatusis juridinis asmuo.
 
 
 
 
-6. Tikrosios ūkinės bendrijos pavadinime turi būti jos teisinę formą nusakantys žodžiai „tikroji ūkinė bendrija“ arba šių žodžių santrumpa „TŪB“. Komanditinės ūkinės bendrijos pavadinime turi būti jos teisinę formą nusakantys žodžiai „komanditinė ūkinė bendrija“ arba šių žodžių santrumpa „KŪB“.
+6. Bendrija įgyja civilines teises, prisiima civilines pareigas ir jas įgyvendina per tikruosius narius.
 
 
 
 
-7. Bendrijos buveinė turi būti Lietuvos Respublikoje.
+7. Tikrosios ūkinės bendrijos pavadinime turi būti jos teisinę formą nusakantys žodžiai „tikroji ūkinė bendrija“ arba šių žodžių santrumpa „TŪB“. Komanditinės ūkinės bendrijos pavadinime turi būti jos teisinę formą nusakantys žodžiai „komanditinė ūkinė bendrija“ arba šių žodžių santrumpa „KŪB“.
 
 
 
 
-8. Bendrija savo veikloje vadovaujasi jungtinės veiklos sutartimi, Civiliniu kodeksu, šiuo ir kitais įstatymais bei teisės aktais.
+8. Bendrijos buveinė turi būti Lietuvos Respublikoje.
+
+
+
+
+9. Bendrija savo veikloje vadovaujasi bendrijos veiklos sutartimi, Lietuvos Respublikos civiliniu kodeksu (toliau – Civilinis kodeksas), šiuo ir kitais įstatymais bei teisės aktais.
  
 
 
@@ -88,52 +93,42 @@ Vilnius
 3 straipsnis. Bendrijos steigimas
 
 
-1. Bendrijos steigėjai yra jungtinės veiklos sutartį sudarę asmenys. Jungtinės veiklos sutartis yra ir bendrijos steigimo sandoris, ir bendrijos steigimo dokumentas. Jungtinės veiklos sutartis turi būti sudaroma notarine forma.
+1. Bendrijos steigėjai yra bendrijos veiklos sutartį sudarę asmenys. Bendrijos steigėjais gali būti ir fiziniai, ir juridiniai asmenys, išskyrus šio straipsnio 2 dalyje nustatytas išimtis. Bendrijoje turi būti ne mažiau kaip du steigėjai.
 
 
 
 
-2. Bendrijos steigėjais gali būti ir fiziniai, ir juridiniai asmenys.
+2. Tikrosios ūkinės bendrijos steigėjais negali būti šio įstatymo 6 straipsnio 4 dalyje išvardyti asmenys. Komanditinės ūkinės bendrijos steigėjais negali būti šio įstatymo 6 straipsnio 5 dalyje išvardyti asmenys.
 
 
 
 
-3. Bendrijoje gali būti ne mažiau kaip du ir ne daugiau kaip dvidešimt steigėjų.
+3. Bendrija steigiama ir veikia pagal bendrijos veiklos sutartį. Bendrijos veiklos sutartis turi būti sudaroma notarine forma.
 
 
 
 
-4. Bendrijos steigėjais negali būti šio Įstatymo 7 straipsnio 5 ir 6 dalyse išvardyti asmenys.
+4. Bendrijos veiklos sutartį pasirašo visi steigėjai ar jų įgalioti asmenys. 
 
 
 
 
-5. Steigiamos bendrijos jungtinės veiklos sutartis suteikia teisę atidaryti kaupiamąją sąskaitą Lietuvos Respublikos įregistruotame banke. Kaupiamojoje sąskaitoje esančios lėšos gali būti naudojamos tik po bendrijos įregistravimo.
+5. Bendrijos veiklos sutartis suteikia teisę atidaryti steigiamos bendrijos kaupiamąją sąskaitą banke. Kaupiamojoje sąskaitoje esančios lėšos gali būti naudojamos tik po bendrijos įregistravimo.
 
 
 
 
-6. Kai steigiama komanditinė ūkinė bendrija, su kiekvienu tapti komanditoriumi siekiančiu asmeniu turi būti sudaryta rašytinės formos komanditoriaus sutartis. Tapti komanditoriumi siekiančiam asmeniui steigėjai turi pateikti susipažinti sudarytą jungtinės veiklos sutartį. Sudarius komanditoriaus sutartį, laikoma, kad komanditorius susipažinęs su jungtinės veiklos sutartimi.
+6. Bendrija laikoma įsteigta nuo jos įregistravimo Juridinių asmenų registre.
 
 
 
 
-7. Bendrija laikoma įsteigta nuo jos įregistravimo juridinių asmenų registre.
+7. Bendrija įregistruojama po to, kai sudaryta bendrijos veiklos sutartis ir Juridinių asmenų registro tvarkytojui pateikti įstatymų nustatyti bendrijai registruoti reikalingi dokumentai. 
 
 
 
 
-8. Tikroji ūkinė bendrija įregistruojama po to, kai sudaryta jungtinės veiklos sutartis ir juridinių asmenų registrui pateikti Civiliniame kodekse nurodyti bendrijai registruoti reikalingi dokumentai. Komanditinė ūkinė bendrija įregistruojama po to, kai sudarytos jungtinės veiklos sutartis bei komanditorių sutartys ir juridinių asmenų registrui pateikti Civiliniame kodekse nurodyti bendrijai registruoti reikalingi dokumentai.
-
-
-
-
-9. Visi bendrijos steigėjai nuo bendrijos įregistravimo juridinių asmenų registre tampa jos tikraisiais nariais.
-
-
-
-
-10. Asmuo, sudaręs komanditoriaus sutartį ir įnešęs įnašą į steigiamą komanditinę ūkinę bendriją, nuo komanditinės ūkinės bendrijos įregistravimo juridinių asmenų registre tampa komanditoriumi.
+8. Visi bendrijos steigėjai, sudarę bendrijos veiklos sutartį ir įnešę ar įsipareigoję įnešti įnašą į steigiamą bendriją, nuo bendrijos įregistravimo Juridinių asmenų registre tampa jos dalyviais.
  
 
 
@@ -141,130 +136,145 @@ Vilnius
 
 
 
-4 straipsnis. Bendrijos jungtinės veiklos sutartis
+4 straipsnis. Bendrijos veiklos sutartis
 
 
-1. Jungtinės veiklos sutartis yra bendrijos steigimo dokumentas, kuriuo bendrija vadovaujasi savo veikloje.
+1. Bendrijos veiklos sutartyje turi būti nurodyta:
 
 
+1) bendrijos pavadinimas;
 
 
-2. Jungtinės veiklos sutartyje turi būti nurodyta:
 
 
-1) bendrijos pavadinimas;
+2) teisinė forma (tikroji ūkinė bendrija ar komanditinė ūkinė bendrija);
 
 
 
 
-2) teisinė forma (tikroji ūkinė bendrija ar komanditinė ūkinė bendrija);
+3) bendrijos veiklos tikslai;
 
 
 
 
-3) bendrijos buveinė;
+4) bendrijos tikrieji nariai ir jų duomenys (fizinio asmens vardas, pavardė, asmens kodas, gyvenamoji vieta; juridinio asmens pavadinimas, teisinė forma, kodas, buveinė); 
 
 
 
 
-4) bendrijos veiklos tikslai;
+5) komanditinės ūkinės bendrijos komanditoriai (nurodant, kad tai komanditorius) ir jų duomenys (fizinio asmens vardas, pavardė, asmens kodas, gyvenamoji vieta ar adresas korespondencijai; juridinio asmens pavadinimas, teisinė forma, kodas, buveinė);
 
 
 
 
-5) tikrųjų narių duomenys (fizinio asmens vardas, pavardė, asmens kodas, gyvenamoji vieta; juridinio asmens pavadinimas, teisinė forma, kodas, buveinė);
+6) bendrijos steigimo išlaidų kompensavimo tvarka;
 
 
 
 
-6) bendrijos steigimo išlaidų kompensavimo tvarka;
+7) bendrijos tikrųjų narių įsipareigojimai dėl įnašų į bendriją, jų dydžio (jeigu įnašas nepiniginis – dėl įnašo vertės), įnešimo tvarkos ir terminų; 
 
 
 
 
-7) bendrijos steigėjų įnašai, jų įnešimo tvarka ir terminai. Jeigu įnašas nepiniginis, turi būti nurodyta jo vertė;
+8) komanditinės ūkinės bendrijos komanditorių įsipareigojimai dėl įnašų į bendriją, jų dydžio (jeigu įnašas nepiniginis – dėl įnašo vertės), įnešimo tvarkos ir terminų;
 
 
 
 
-8) tikrųjų narių atsakomybė už įsipareigojimų nevykdymą;
+9) sandorių, sudaromų steigiamos bendrijos vardu ir dėl jos interesų, sudarymo ir tvirtinimo tvarka;
 
 
 
 
-9) tikrojo nario teisių perleidimo kitam asmeniui tvarka;
+10) sprendimų dėl bendrijos reikalų priėmimo tvarka ir dalyviams suteikiamų balsų nustatymo taisyklės; 
 
 
 
 
-10) naujų tikrųjų narių priėmimo tvarka;
+11) bendrijos pelno skirstymo tvarka;
 
 
 
 
-11) atsiskaitymo su tikraisiais nariais, kurių narystė bendrijoje pasibaigė, tvarka;
+12) bendrijos dokumentų pateikimo dalyviams susipažinti tvarka ir apribojimai; 
 
 
 
 
-12) bendrijos kasoje esančių pinigų kaip avansu išmokamo pelno paėmimo tikrųjų narių asmeniniams poreikiams tvarka;
+13) dalyvio teisių perleidimo tvarka;
 
 
 
 
-13) bendrijos filialų ir atstovybių steigimo bei jų veiklos nutraukimo tvarka;
+14) naujų dalyvių priėmimo tvarka;
 
 
 
 
-14) ar bendrija sudaro finansinę atskaitomybę;
+15) dalyvio pasitraukimo iš bendrijos (savo arba kitų dalyvių iniciatyva) tvarka, įskaitant terminą, per kurį turi būti iš anksto pranešta apie pasitraukimą iš bendrijos;
 
 
 
 
-15) Lietuvos Respublikos dienraštis, kuriame skelbiami vieši pranešimai, kai to reikalaujama pagal Civilinį kodeksą ir šį Įstatymą;
+16) atsiskaitymo su asmenimis, kurie pasitraukė iš bendrijos, tvarka;
 
 
 
 
-16) jungtinės veiklos sutarties keitimo tvarka;
+17) dalyvių atsakomybė už įsipareigojimų bendrijai nevykdymą;
 
 
 
 
-17) bendrijos veiklos laikotarpis, jei jis yra ribotas;
+18) bendrijos filialų ir atstovybių steigimo ir jų veiklos nutraukimo tvarka;
 
 
 
 
-18) jungtinės veiklos sutarties sudarymo data.
+19) ar bendrija sudaro finansinių ataskaitų rinkinį;
 
 
 
 
+20) šaltinis, kuriame skelbiami vieši pranešimai, kai to reikalaujama pagal Civilinį kodeksą ir šį įstatymą;
 
 
-3. Komanditinės ūkinės bendrijos jungtinės veiklos sutartyje, be šio straipsnio 2 dalyje nurodytų sąlygų, turi būti nustatyta asmenų tapimo komanditoriais tvarka. 
 
 
+21) bendrijos veiklos sutarties keitimo tvarka;
 
 
-4. Jungtinės veiklos sutartyje gali būti ir kitų nuostatų, neprieštaraujančių šiam ir kitiems įstatymams.
 
 
+22) bendrijos veiklos laikotarpis, jeigu jis yra ribotas;
 
 
-5. Jungtinės veiklos sutartis keičiama visų tikrųjų narių sprendimu, kuris priimamas bendru sutarimu.
 
 
+23) bendrijos veiklos sutarties sudarymo data.
 
 
-6. Kai jungtinės veiklos sutartis keičiama, juridinių asmenų registrui kartu su kitais teisės aktų nustatytais dokumentais turi būti pateikti jungtinės veiklos sutarties pakeitimai ir visas jungtinės veiklos sutarties tekstas. Visą jungtinės veiklos sutarties tekstą pasirašo vienas iš tikrųjų narių, jo parašo tikrumas notaro netvirtinamas.
 
 
 
 
-7. Jungtinės veiklos sutartis, taip pat jungtinės veiklos sutarties pakeitimai įsigalioja nuo įregistravimo juridinių asmenų registre, išskyrus su bendrijos steigimo tvarka ir įnašų įnešimu steigimo metu susijusias jungtinės veiklos sutarties nuostatas, kurios įsigalioja nuo steigiamos bendrijos jungtinės veiklos sutarties sudarymo.
+2. Šio straipsnio 1 dalies 20 punkte nurodytas šaltinis, kuriame skelbiami bendrijos vieši pranešimai, turi būti nacionalinis laikraštis arba Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) nustatyta tvarka Juridinių asmenų registro tvarkytojo leidžiamas elektroninis leidinys viešiems pranešimams skelbti. Bendrijos veiklos sutartyje gali būti nustatyta, kad bendrijos vieši pranešimai skelbiami dviejuose šaltiniuose, t. y. ir bendrijos veiklos sutartyje nurodytame nacionaliniame laikraštyje, ir Vyriausybės nustatyta tvarka Juridinių asmenų registro tvarkytojo leidžiamame elektroniniame leidinyje viešiems pranešimams skelbti.
+
+
+
+
+3. Bendrijos veiklos sutartyje gali būti ir kitų nuostatų, neprieštaraujančių šiam ir kitiems įstatymams.
+
+
+
+
+4. Naujas dalyvis į bendriją priimamas, dalyvio teisės perleidžiamos, iš bendrijos (savo arba kitų dalyvių iniciatyva) pasitraukiama ir kitos bendrijos veiklos sutarties nuostatos keičiamos priimant sprendimą dėl bendrijos veiklos sutarties keitimo. Sprendimą dėl bendrijos veiklos sutarties keitimo priima visi bendrijos dalyviai. Sprendimas priimamas vienbalsiai, jeigu bendrijos veiklos sutartyje nenustatyta kitaip. Bendrijos veiklos sutarties pakeitimus ir visą pakeistą bendrijos veiklos sutarties tekstą pasirašo visi bendrijos veiklos sutartyje nurodyti jos dalyviai ar jų įgalioti asmenys. Juridinių asmenų registro tvarkytojui kartu su kitais teisės aktų nustatytais dokumentais turi būti pateikti bendrijos veiklos sutarties pakeitimai ir visas pakeistas bendrijos veiklos sutarties tekstas. 
+
+
+
+
+5. Bendrijos veiklos sutartis, taip pat bendrijos veiklos sutarties pakeitimai įsigalioja nuo jų įregistravimo Juridinių asmenų registre, išskyrus su bendrijos steigimo tvarka ir įnašų įnešimu bendrijos steigimo metu susijusias bendrijos veiklos sutarties nuostatas, kurios įsigalioja nuo bendrijos veiklos sutarties sudarymo.
  
 
 
@@ -272,76 +282,18 @@ Vilnius
 
 
 
-5 straipsnis. Komanditoriaus sutartis
+5 straipsnis. Juridinių asmenų registro duomenys
 
 
-1. Su kiekvienu tapti komanditinės ūkinės bendrijos komanditoriumi siekiančiu asmeniu sudaroma rašytinės formos komanditoriaus sutartis. Ši sutartis sudaroma laikantis šio Įstatymo 3 straipsnio 6 dalyje nustatytų reikalavimų.
+Be Civilinio kodekso 2.66 straipsnyje išvardytų duomenų, Juridinių asmenų registre nurodomi šie duomenys:
 
 
-
-
-2. Komanditoriaus sutartyje turi būti nurodyta:
-
-
-1) komanditoriaus įnašai, jų įnešimo tvarka ir terminai. Jeigu įnašas nepiniginis, turi būti nurodyta jo vertė;
+1) likvidatorius (vardas, pavardė, asmens kodas, gyvenamoji vieta), jo paskyrimo ir įgaliojimų pabaigos datos, likvidatoriaus įgaliojimai, išskyrus įstatymuose nustatytus įgaliojimus; 
 
 
 
 
-2) komanditoriaus atsakomybė už įsipareigojimų nevykdymą;
-
-
-
-
-3) komanditoriui skiriama pelno dalis;
-
-
-
-
-4) sutarties terminas, jeigu sudaroma terminuota sutartis.
-
-
-
-
-
-
-3. Komanditoriaus sutartyje gali būti ir kitų nuostatų, neprieštaraujančių Civiliniam kodeksui, šiam ir kitiems įstatymams.
-
-
-
-
-4. Jeigu komanditinės ūkinės bendrijos veiklos laikotarpis yra ribotas, komanditoriaus sutarties terminas negali būti ilgesnis už komanditinės ūkinės bendrijos veiklos laikotarpį.
- 
-
-
-
-
-
-
-6 straipsnis. Juridinių asmenų registro duomenys
-
-
-Be Civilinio kodekso 2.66 straipsnyje išvardytų duomenų, juridinių asmenų registre nurodomi šie bendrijos duomenys:
-
-
-1) tikrųjų narių įnašų dydis;
-
-
-
-
-2) tikrųjų narių įnašų priklausymas bendrosios jungtinės nuosavybės teise;
-
-
-
-
-3) veiklos laikotarpis, jeigu jis yra ribotas;
-
-
-
-
-4) Neteko galios nuo 2010-01-05
-Straipsnio punkto naikinimas:
-Nr. XI-602, 2009-12-22, Žin. 2010, Nr. 1-13 (2010-01-05), i. k. 1091010ISTA00XI-602
+2) veiklos laikotarpis, jeigu jis yra ribotas. 
  
 
 
@@ -351,45 +303,35 @@ Nr. XI-602, 2009-12-22, Žin. 2010, Nr. 1-13 (2010-01-05), i. k. 1091010ISTA00XI
 
 
 
-7 straipsnis. Bendrijos dalyviai
+6 straipsnis. Bendrijos dalyviai
 
 
-1. Tikrasis narys yra bendrijos dalyvis, sudaręs bendrijos jungtinės veiklos sutartį ir šio Įstatymo bei jungtinės veiklos sutarties nustatyta tvarka įnešęs ar įsipareigojęs įnešti įnašą į bendriją.
-
-
-
-
-2. Komanditorius yra komanditinės ūkinės bendrijos dalyvis, sudaręs komanditoriaus sutartį su komanditine ūkine bendrija ir šio Įstatymo bei komanditoriaus sutarties nustatyta tvarka įnešęs įnašą į komanditinę ūkinę bendriją.
+1. Bendrijos dalyviais gali būti ir fiziniai, ir juridiniai asmenys, sudarę bendrijos veiklos sutartį ir įnešę ar įsipareigoję įnešti įnašą į šią bendriją. Asmenys dalyvio teises gali įgyti ir kitais įstatymuose ar bendrijos veiklos sutartyje nustatytais atvejais ir tvarka. 
 
 
 
 
-3. Kai šio Įstatymo normos taikomos ir tikrajam nariui, ir komanditoriui, vartojamas žodis „dalyvis“.
+2. Bendrijoje turi būti ne mažiau kaip du dalyviai. Komanditinėje ūkinėje bendrijoje turi būti bent vienas tikrasis narys ir bent vienas komanditorius.
 
 
 
 
-4. Tikrojoje ūkinėje bendrijoje turi būti ne mažiau kaip du ir ne daugiau kaip dvidešimt tikrųjų narių. Komanditinėje ūkinėje bendrijoje turi būti ne mažiau kaip trys dalyviai (du tikrieji nariai ir vienas komanditorius) ir ne daugiau kaip dvidešimt dalyvių.
+3. Nauji dalyviai į bendriją priimami, dalyvio teisės perleidžiamos ir iš bendrijos pasitraukiama įstatymų ir bendrijos veiklos sutartyje nustatyta tvarka.
 
 
 
 
-5. Bendrijos tikraisiais nariais negali būti kitų bendrijų tikrieji nariai, individualių įmonių savininkai, valstybė, savivaldybės, valstybės įmonės, savivaldybės įmonės,  biudžetinės įstaigos, taip pat ūkinės bendrijos ir individualios įmonės.
+4. Tikruoju nariu negali būti kitų bendrijų tikrieji nariai, individualių įmonių savininkai, valstybė, savivaldybės, valstybės įmonės, savivaldybės įmonės, biudžetinės įstaigos, ūkinės bendrijos ir individualios įmonės, taip pat Europos ekonominių interesų grupės ir jų nariai. 
 
 
 
 
-6. Bendrijos tikraisiais nariais taip pat negali būti Europos ekonominių interesų grupės.
+5. Komanditoriumi negali būti valstybė, savivaldybės, valstybės įmonės, savivaldybės įmonės, biudžetinės įstaigos.
 
 
 
 
-7. Komanditinės ūkinės bendrijos tikrieji nariai tuo pat metu negali būti jos komanditoriais, o komanditoriai negali būti jos tikraisiais nariais.
-
-
-
-
-8. Kai prievolėms užtikrinti neužtenka bendrijos turto, bendrijos tikrieji nariai pagal bendrijos prievoles atsako solidariai visu savo turtu, o komanditoriai pagal komanditinės ūkinės bendrijos prievoles atsako tik tuo savo turtu, kurį įnešė į komanditinę ūkinę bendriją.
+6. Komanditinės ūkinės bendrijos dalyvis tuo pačiu metu negali būti tos pačios komanditinės ūkinės bendrijos tikruoju nariu ir komanditoriumi. 
  
 
 
@@ -397,85 +339,45 @@ Nr. XI-602, 2009-12-22, Žin. 2010, Nr. 1-13 (2010-01-05), i. k. 1091010ISTA00XI
 
 
 
-8 straipsnis. Tikrųjų narių teisės ir pareigos
+7 straipsnis. Dalyvių teisės ir pareigos
 
 
-1. Tikrųjų narių teises ir pareigas nustato Civilinis kodeksas, šis bei kiti įstatymai, jungtinės veiklos sutartis.
-
-
-
-
-2. Tikrasis narys turi šias teises:
-
-
-1) dalyvauti tvarkant bendrijos reikalus ir priimant sprendimus;
+1. Dalyvio teisėmis laikoma Civiliniame kodekse, šiame ir kituose įstatymuose bei bendrijos veiklos sutartyje nustatytų dalyvio turtinių ir neturtinių teisių visuma.
 
 
 
 
-2) veikti bendrijos vardu, jeigu jungtinės veiklos sutartyje nenustatyta kitaip;
+2. Dalyvis gali perleisti savo teises tik gavęs visų kitų dalyvių sutikimą, jeigu įstatymuose ar bendrijos veiklos sutartyje nenustatyta kitaip. Jeigu dalyvis nėra įvykdęs visų bendrijos veiklos sutartyje nustatytų įsipareigojimų dėl įnašo, perleidžiant dalyvio teises kartu pereina ir pareiga įnešti likusią įnašo dalį. 
 
 
 
 
-3) siūlyti pakeisti bendrijos jungtinės veiklos sutartį;
+3. Tikrieji nariai bendrijos veiklos sutartyje nustatytomis sąlygomis ir tvarka turi teisę gauti bendrijos lėšų kaip avansu išmokamą pelną.
 
 
 
 
-4) susipažinti su bendrijos dokumentais;
+4. Dalyviai turi teisę susipažinti su bendrijos dokumentais, metinių ir tarpinių finansinių ataskaitų rinkiniais, jeigu bendrija juos sudaro, tokia tvarka ir tiek, kiek tai nustatyta bendrijos veiklos sutartyje.
 
 
 
 
-5) perleisti tikrojo nario teises kitam asmeniui;
+5. Asmenys, kurie pasitraukė iš bendrijos, turi teisę reikalauti, kad bendrija su jais atsiskaitytų šio įstatymo 13 straipsnyje nustatyta tvarka.
 
 
 
 
-6) gauti bendrijos pelno dalį;
+6. Dalyvis privalo bendrijos veiklos sutartyje nustatyta tvarka ir terminais įnešti įnašą į bendriją.
 
 
 
 
-7) bendrijos jungtinės veiklos sutartyje nustatyta tvarka paimti bendrijos kasoje esančius pinigus kaip avansu išmokamą pelną savo asmeniniams poreikiams;
+7. Dalyvis, kuris yra bankrutuojantis ar likviduojamas, ne vėliau kaip per dešimt dienų po to, kai jam teisme iškelta bankroto byla ar pradėtas bankroto procesas ne teismo tvarka arba kai jis įgijo likviduojamo juridinio asmens statusą, apie tai privalo raštu pranešti kitiems dalyviams.
 
 
 
 
-8) pasibaigus narystei bendrijoje, reikalauti grąžinti įnašą;
-
-
-
-
-9) gauti likviduojamos bendrijos turto dalį;
-
-
-
-
-10) kitas įstatymų ar jungtinės veiklos sutarties nustatytas teises.
-
-
-
-
-
-
-3. Tikrasis narys gali perleisti tikrojo nario teises kitam asmeniui tik gavęs visų tikrųjų narių sutikimą, jeigu jungtinės veiklos sutartyje nenustatyta kitaip.
-
-
-
-
-4. Tikrasis narys privalo jungtinės veiklos sutartyje nustatyta tvarka ir terminais įnešti įnašą į bendriją.
-
-
-
-
-5. Buvęs tikrasis narys pagal bendrijos prievoles, atsiradusias, kol jis buvo tikruoju nariu, arba iš bendrijos sandorių, sudarytų iki jo narystės pasibaigimo, atsako taip, kaip jis atsakytų būdamas tikruoju nariu. Šios dalies nuostatos taikomos ir tikrojo nario teisių perėmėjui.
-
-
-
-
-6. Tikrasis narys – juridinis asmuo, kuris yra bankrutuojantis ar likviduojamas, ne vėliau kaip per dešimt dienų po to, kai jam teisme iškelta bankroto byla ar pradėtas bankroto procesas ne teismo tvarka arba kai jis įgijo likviduojamo juridinio asmens statusą, apie tai privalo raštu pranešti kitiems tikriesiems nariams.
+8. Civilinio kodekso nustatytais pagrindais ir tvarka bendrijos dalyvio teisės gali būti priverstinai parduotos, jeigu bendrijos dalyvio veiksmai prieštarauja bendrijos veiklos tikslams ir negalima pagrįstai manyti, kad tie veiksmai ateityje pasikeis. Bendrija, įgyvendindama Civilinio kodekso 2.120 straipsnio 2 dalyje nustatytus reikalavimus, išduoda bendrijos dalyviui bendrijos veiklos sutarties išrašą, kuriame turi būti nurodytas bendrijos pavadinimas, bendrijos dalyvis (fizinio asmens vardas, pavardė, asmens kodas, gyvenamoji vieta ar adresas korespondencijai; juridinio asmens pavadinimas, teisinė forma, kodas, buveinė), kuriam išduodamas šis išrašas, ir jo įnašo dydis, bendrijos veiklos sutarties sudarymo data.
  
 
 
@@ -483,50 +385,15 @@ Nr. XI-602, 2009-12-22, Žin. 2010, Nr. 1-13 (2010-01-05), i. k. 1091010ISTA00XI
 
 
 
-9 straipsnis. Komanditorių teisės ir pareigos
+8 straipsnis. Dalyvių atsakomybė
 
 
-1. Komanditorius turi šias teises:
-
-
-1) gauti komanditinės ūkinės bendrijos pelno dalį, nustatytą komanditoriaus sutartyje;
+1. Kai bendrijos prievolėms įvykdyti neužtenka bendrijos turto, bendrijos tikrieji nariai pagal bendrijos prievoles atsako solidariai visu savo turtu, o komanditoriai pagal komanditinės ūkinės bendrijos prievoles atsako tik tuo savo turtu, kurį įnešė ir (ar) įsipareigojo įnešti į komanditinę ūkinę bendriją.
 
 
 
 
-2) pasibaigus komanditoriaus sutarčiai, reikalauti grąžinti įnašą;
-
-
-
-
-3) perleisti kitam asmeniui komanditoriaus teises;
-
-
-
-
-4) susipažinti su jungtinės veiklos sutartimi ir jos pakeitimais;
-
-
-
-
-5) susipažinti su komanditinės ūkinės bendrijos bendrų reikalų tvarkymo dokumentais ir su metine finansine atskaitomybe, jeigu komanditinė ūkinė bendrija ją sudaro;
-
-
-
-
-6) susipažinti su visa informacija, kuri pagal Civilinį kodeksą turi būti teikiama komanditinės ūkinės bendrijos kreditoriams;
-
-
-
-
-7) kitas įstatymų ir komanditoriaus sutartyje nustatytas teises.
-
-
-
-
-
-
-2. Komanditorius privalo šiame Įstatyme ir komanditoriaus sutartyje nustatyta tvarka ir terminais įnešti įnašą į komanditinę ūkinę bendriją. Komanditorius sutartyje gali būti ir kitų komanditoriaus įsipareigojimų, neprieštaraujančių Civiliniam kodeksui, šiam ir kitiems įstatymams.
+2. Asmuo, kuris nebėra tikrasis narys, pagal bendrijos prievoles, atsiradusias, kol jis buvo tikruoju nariu, atsako taip, kaip jis atsakytų būdamas tikruoju nariu. Tikrajam nariui – fiziniam asmeniui mirus arba pasibaigus tikrajam nariui – juridiniam asmeniui šios dalies nuostatos taikomos ir tikrojo nario teisių perėmėjui, išskyrus valstybę ir savivaldybes.
  
 
 
@@ -534,25 +401,25 @@ Nr. XI-602, 2009-12-22, Žin. 2010, Nr. 1-13 (2010-01-05), i. k. 1091010ISTA00XI
 
 
 
-10 straipsnis. Įnašai į bendriją
+9 straipsnis. Įnašai į bendriją
 
 
-1. Bendrijos dalyvio įnašas yra dalyvio turtas, perduotas bendrijai.
-
-
-
-
-2. Įnašu gali būti pinigai ir kitoks turtas, priklausantis bendrijos dalyviui nuosavybės teise.
+1. Bendrijos dalyvio įnašas yra dalyvio turtas, perduotas bendrijai.
 
 
 
 
-3. Bendrijos dalyvio nepiniginis įnašas įvertinamas visų bendrijos tikrųjų narių sprendimu, kuris priimamas bendru sutarimu.
+2. Įnašu gali būti pinigai ir kitoks turtas. Įnašu negali būti išimtas iš civilinės apyvartos turtas, taip pat darbai ir paslaugos. 
 
 
 
 
-4. Bendrijos dalyvių įnašai nuosavybės teise priklauso bendrijai.
+3. Bendrijos dalyvio nepiniginis įnašas įvertinamas visų bendrijos dalyvių sprendimu, kuris priimamas vienbalsiai, jeigu bendrijos veiklos sutartyje nenustatyta kitaip.
+
+
+
+
+4. Bendrijos dalyvių įnašai nuosavybės teise priklauso bendrijai.
  
 
 
@@ -560,25 +427,40 @@ Nr. XI-602, 2009-12-22, Žin. 2010, Nr. 1-13 (2010-01-05), i. k. 1091010ISTA00XI
 
 
 
-11 straipsnis. Bendrijos reikalų tvarkymas
+10 straipsnis. Bendrijos reikalų tvarkymas
 
 
-1. Bendrijos reikalus tvarko ir sprendimus visais bendrijos veiklos klausimais priima bendrijos tikrieji nariai. Sprendimai priimami visų tikrųjų narių bendru sutarimu. Bendrijos jungtinės veiklos sutartyje gali būti numatyta, kad sprendimai priimami tikrųjų narių balsų dauguma, išskyrus šiame Įstatyme numatytus atvejus. Sprendimai turi būti įforminami raštu.
-
-
-
-
-2. Kiekvienas tikrasis narys, įgyvendindamas priimtus sprendimus, turi teisę veikti bendrijos vardu, jeigu bendrijos jungtinės veiklos sutartyje nenustatyta kitaip. Jeigu bendrijos vardu turi teisę veikti tik visi tikrieji nariai kartu, sandorius pasirašo visi tikrieji nariai, o kai yra kitų tikrųjų narių rašytinis įgaliojimas sudaryti sandorius, juos gali pasirašyti vienas tikrasis narys.
+1. Bendrijos vardu veikia ir jos reikalus tvarko tik bendrijos tikrieji nariai. 
 
 
 
 
-3. Bendrijoje turi būti paskirti tikrieji nariai, kurie vykdo Civilinio kodekso 2.82 straipsnio 3 dalyje nustatytas valdymo organų pareigas.
+2. Sprendimus dėl bendrijos reikalų, išskyrus šio straipsnio 3 dalyje nurodytus sprendimus, priima tikrieji nariai šiame įstatyme ir bendrijos veiklos sutartyje nustatyta tvarka. Sprendimai turi būti įforminami raštu. 
 
 
 
 
-4. Tikrųjų narių sprendimas, kuris vieną iš tikrųjų narių visiškai atleidžia nuo bendrų išlaidų ar nuostolių padengimo, nušalina kurį nors iš dalyvių skirstant pelną, apriboja ar panaikina dalyvių teisę susipažinti su bendrijos dokumentais, apriboja tikrųjų narių teisę atsisakyti neterminuotos jungtinės veiklos sutarties arba šią teisę panaikina, negalioja.
+3. Sprendimus dėl bendrijos veiklos sutarties keitimo, taip pat dėl bendrijos reorganizavimo, pertvarkymo ir likvidavimo komanditinės ūkinės bendrijos tikrieji nariai priima kartu su komanditoriais.
+
+
+
+
+4. Bendrijos veiklos sutartyje gali būti nustatyta, kada ir kokia tvarka komanditinės ūkinės bendrijos tikrieji nariai, priimdami sprendimus dėl komanditinės ūkinės bendrijos reikalų, privalo gauti visų ar bendrijos veiklos sutartyje nustatytos komanditorių daugumos pritarimą. Komanditorių pritarimas nepanaikina tikrųjų narių atsakomybės už priimtus sprendimus. 
+
+
+
+
+5. Kiekvienas tikrasis narys, įgyvendindamas priimtus sprendimus, turi teisę veikti bendrijos vardu, jeigu bendrijos veiklos sutartyje nenustatyta kitaip. Jeigu bendrijos vardu turi teisę veikti tik visi tikrieji nariai kartu, sandorius pasirašo visi tikrieji nariai, o kai yra kitų tikrųjų narių įgaliojimas sudaryti sandorius, juos gali pasirašyti vienas tikrasis narys.
+
+
+
+
+6. Tikrųjų narių sprendimu, kuris priimamas vienbalsiai, turi būti paskirti tikrieji nariai, kurie vykdo Civilinio kodekso 2.67 straipsnyje ir 2.82 straipsnio 3 dalyje nustatytas valdymo organų pareigas.
+
+
+
+
+7. Dalyvių sprendimas, kuriuo vienas iš dalyvių atleidžiamas nuo bendrų išlaidų ar nuostolių padengimo, negalioja.
  
 
 
@@ -586,20 +468,30 @@ Nr. XI-602, 2009-12-22, Žin. 2010, Nr. 1-13 (2010-01-05), i. k. 1091010ISTA00XI
 
 
 
-12 straipsnis. Bendrijos buhalterinė apskaita ir finansinė atskaitomybė
+11 straipsnis. Bendrijos buhalterinė apskaita ir finansinė atskaitomybė
 
 
-1. Bendrijos buhalterinę apskaitą, jos organizavimą bei tvarkymą ir finansinės atskaitomybės sudarymą nustato įstatymai ir kiti teisės aktai.
-
-
-
-
-2. Bendrija įstatymų nustatyta tvarka sudaro finansinę atskaitomybę, jeigu tai yra nustatyta bendrijos jungtinės veiklos sutartyje. Bendrijos metinė finansinė atskaitomybė ne vėliau kaip per tris mėnesius nuo finansinių metų pabaigos turi būti bendrijos tikrųjų narių patvirtinta ir pateikta juridinių asmenų registrui.
+1. Bendrijos buhalterinę apskaitą, jos organizavimą bei tvarkymą ir finansinės atskaitomybės sudarymą nustato įstatymai ir kiti teisės aktai.
 
 
 
 
-3. Bendrijos, kurių visi tikrieji nariai yra akcinės bendrovės ar uždarosios akcinės bendrovės, privalo įstatymų nustatyta tvarka sudaryti finansinę atskaitomybę nepaisant to, ar tai nustatyta jų jungtinės veiklos sutartyse.
+2. Bendrija įstatymų nustatyta tvarka sudaro finansinių ataskaitų rinkinį, jeigu tai yra nustatyta bendrijos veiklos sutartyje. 
+
+
+
+
+3. Bendrija, kurios visi tikrieji nariai yra akcinės bendrovės ar uždarosios akcinės bendrovės, privalo įstatymų nustatyta tvarka parengti metinį pranešimą ir sudaryti metinių finansinių ataskaitų rinkinį, neatsižvelgiant į tai, ar finansinių ataskaitų rinkinio sudarymas numatytas bendrijos veiklos sutartyje.
+
+
+
+
+4. Bendrijos metinių finansinių ataskaitų rinkinys ir metinis pranešimas ne vėliau kaip per tris mėnesius nuo finansinių metų pabaigos turi būti patvirtinti ir pateikti Juridinių asmenų registro tvarkytojui.
+
+
+
+
+5. Bendrijos trumpesnio negu finansiniai metai laikotarpio, už kurį skirstoma bendrijos dalyviams skirta pelno dalis, tarpinių finansinių ataskaitų rinkinys ir tarpinis pranešimas ne vėliau kaip per trisdešimt dienų nuo sprendimo dėl jų patvirtinimo priėmimo dienos turi būti pateikti Juridinių asmenų registro tvarkytojui.
  
 
 
@@ -607,25 +499,35 @@ Nr. XI-602, 2009-12-22, Žin. 2010, Nr. 1-13 (2010-01-05), i. k. 1091010ISTA00XI
 
 
 
-13 straipsnis. Bendrijos pelno paskirstymas
+12 straipsnis. Bendrijos pelno paskirstymas
 
 
-1. Pasibaigus bendrijos finansiniams metams, iš bendrijos veiklos gautas pelnas paskirstomas visų tikrųjų narių sprendimu. Šis sprendimas priimamas tikrųjų narių bendru sutarimu.
-
-
-
-
-2. Tikrosios ūkinės bendrijos pelno dalis, skirta tikriesiems nariams, paskirstoma kiekvienam tikrajam nariui proporcingai jo įnašo dydžiui, jeigu bendrijos jungtinės veiklos sutartyje nenustatyta kitaip.
+1. Pasibaigus bendrijos finansiniams metams, iš bendrijos veiklos gautas pelnas paskirstomas bendrijos veiklos sutartyje nustatyta tvarka. Sprendimą dėl pelno paskirstymo priima bendrijos tikrieji nariai. Sprendimas priimamas vienbalsiai, jeigu bendrijos veiklos sutartyje nenustatyta kitaip.
 
 
 
 
-3. Komanditinės ūkinės bendrijos pelno dalis, skirta dalyviams, pirmiausia paskirstoma komanditoriams komanditorių sutartyse nustatytomis sąlygomis. Likusi suma paskirstoma tikriesiems nariams proporcingai jų įnašų dydžiui, jeigu bendrijos jungtinės veiklos sutartyje nenustatyta kitaip.
+2. Dalyviams skirta iš bendrijos veiklos gauto pelno dalis bendrijos veiklos sutartyje nustatyta tvarka gali būti paskirstyta ir nepasibaigus bendrijos finansiniams metams – už trumpesnį negu finansiniai metai laikotarpį kaip avansu išmokamas pelnas, jeigu bendrija per šį laikotarpį gavo pelno, neturi neįvykdytų prievolių, kurių terminai yra suėję iki sprendimo dėl pelno dalies paskirstymo priėmimo, ir paskirsčius iš bendrijos veiklos gautą dalyviams skirtą pelno dalį būtų pajėgi įvykdyti savo prievoles už einamuosius finansinius metus. Bendrija, kurios bendrijos veiklos sutartyje nustatyta, kad ji sudaro finansinių ataskaitų rinkinį, privalo sudaryti ir patvirtinti trumpesnio negu finansiniai metai laikotarpio, už kurį skirstoma bendrijos dalyviams skirta pelno dalis, tarpinių finansinių ataskaitų rinkinį. Bendrija, kurios visi tikrieji nariai yra akcinės bendrovės ar uždarosios akcinės bendrovės, privalo sudaryti ir patvirtinti trumpesnio negu finansiniai metai laikotarpio, už kurį skirstoma bendrijos dalyviams skirta pelno dalis, tarpinių finansinių ataskaitų rinkinį ir tarpinį pranešimą. Sprendimas dėl bendrijos, kuri privalo sudaryti ir patvirtinti tarpinių finansinių ataskaitų rinkinį, dalyviams skirto pelno dalies už trumpesnį negu finansiniai metai laikotarpį paskirstymo gali būti priimtas per tris mėnesius nuo laikotarpio, už kurį siūloma paskirstyti dalyviams skirto pelno dalį, pabaigos, bet ne anksčiau, negu buvo patvirtintas metinių finansinių ataskaitų rinkinys ir paskirstytas bendrijos pelnas už ankstesnius finansinius metus, ir ne vėliau kaip iki finansinių metų pabaigos. Sprendimą paskirstyti dalyviams skirtą pelno dalį priima bendrijos tikrieji nariai. Sprendimas priimamas vienbalsiai, jeigu bendrijos veiklos sutartyje nenustatyta kitaip.
 
 
 
 
-4. Kiekvienam bendrijos dalyviui paskirta pelno dalis turi būti išmokėta per tris mėnesius nuo sprendimo dėl pelno paskirstymo priėmimo dienos.
+3. Bendrijos tarpiniam pranešimui mutatis mutandis taikomos Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo nuostatos, reglamentuojančios metinio pranešimo rengimą ir skelbimą.
+
+
+
+
+4. Bendrijos pelno dalis, skirta dalyviams, paskirstoma kiekvienam dalyviui proporcingai jo įnašo dydžiui, jeigu bendrijos veiklos sutartyje nenustatyta kitaip. 
+
+
+
+
+5. Šio straipsnio 1 dalyje nurodytu sprendimu dalyviui paskirta bendrijos pelno dalis turi būti sumažinta bendrijos lėšų kaip avansu išmokėto pelno suma, kurią tas dalyvis gavo šio įstatymo 7 straipsnio 3 dalyje ir šio straipsnio 2 dalyje nustatytais atvejais iki sprendimo priėmimo. 
+
+
+
+
+6. Kiekvienam bendrijos dalyviui paskirta pelno dalis turi būti išmokėta per tris mėnesius nuo sprendimo dėl pelno paskirstymo priėmimo dienos.
  
 
 
@@ -633,25 +535,30 @@ Nr. XI-602, 2009-12-22, Žin. 2010, Nr. 1-13 (2010-01-05), i. k. 1091010ISTA00XI
 
 
 
-14 straipsnis. Bendrijos jungtinės veiklos sutarties pabaiga
+13 straipsnis. Dalyvio pasitraukimas iš bendrijos 
 
 
-1. Bendrijos jungtinės veiklos sutartis baigiasi Civilinio kodekso nustatytais jungtinės veiklos sutarties pasibaigimo pagrindais.
-
-
-
-
-2. Visi tikrieji nariai per trisdešimt dienų nuo jungtinės veiklos sutarties pasibaigimo pagrindo atsiradimo, jeigu jungtinės veiklos sutartyje nenumatytas kitas sprendimo priėmimo terminas, bendru sutarimu turi priimti sprendimą išsaugoti jungtinės veiklos sutartį arba nutraukti bendrijos veiklą, išskyrus atvejus, kai jungtinės veiklos sutartyje nustatyta, kad sutartis galioja likusiems tikriesiems nariams. Jeigu tikrieji nariai priima sprendimą išsaugoti jungtinės veiklos sutartį, taip pat jeigu jungtinės veiklos sutartyje nustatyta, kad ji galioja likusiems tikriesiems nariams, tikrieji nariai turi pakeisti jungtinės veiklos sutartį.
+1. Dalyvis iš bendrijos gali pasitraukti savo arba kitų bendrijos dalyvių iniciatyva įstatymuose ir bendrijos veiklos sutartyje nustatyta tvarka. Dalyviui pasitraukiant iš bendrijos, jo teisės neperleidžiamos ir kiti asmenys jų neįgyja. 
 
 
 
 
-3. Jeigu bendrijoje lieka tik vienas tikrasis narys, bendrija per tris dienas nuo tokio tikrųjų narių skaičiaus sumažėjimo apie tai turi pranešti juridinių asmenų registrui. Bendrija, kurioje liko tik vienas tikrasis narys, turi būti likviduojama, jeigu bendrijos tikrasis narys per šešis mėnesius po tokio tikrųjų narių skaičiaus sumažėjimo nenusprendžia bendrijos reorganizuoti ar pertvarkyti, išskyrus atvejus, kai per šį laikotarpį į bendriją priimamas naujas tikrasis narys.
+2. Iš bendrijos pasitraukęs asmuo nelaikomas dalyviu nuo bendrijos veiklos sutarties pakeitimų įregistravimo Juridinių asmenų registre dienos.
 
 
 
 
-4. Kai jungtinės veiklos sutarties pasibaigimo pagrindas yra tikrojo nario narystės pasibaigimas ir likę kiti tikrieji nariai bendru sutarimu priima sprendimą išsaugoti jungtinės veiklos sutartį, tikrajam nariui, kurio narystė bendrijoje pasibaigė, jo reikalavimu bendrija jungtinės veiklos sutartyje nustatyta tvarka ir terminais turi grąžinti pinigų sumą, lygią jo įnašo vertei. Tikrasis narys, kurio įnašas nepiniginis – individualiais požymiais apibūdintas daiktas, turi teisę reikalauti grąžinti jam šį nepiniginį įnašą, o bendrija turi jį grąžinti, jeigu dėl to nebus pažeisti bendrijos dalyvių ir kreditorių interesai. Jungtinės veiklos sutartyje gali būti nustatyta ir kitokia tikrojo nario įnašo, kuris yra individualiais požymiais apibūdintas daiktas, grąžinimo tvarka. Šios dalies nuostatos taikomos ir tikrojo nario įpėdiniui ar teisių perėmėjui, jeigu jis jungtinės veiklos sutarties nustatyta tvarka netapo tikruoju nariu.
+3. Bendrija asmeniui, kuris pasitraukė iš bendrijos, turi pinigais perduoti jo įnašo dydį šio straipsnio 2 dalyje nurodytą dieną atitinkančią bendrijos turto dalį, apskaičiuotą šiame įstatyme ir bendrijos veiklos sutartyje nustatyta tvarka. 
+
+
+
+
+4. Asmuo, kuris pasitraukė iš bendrijos ir kurio nepiniginis įnašas yra individualiais požymiais apibūdintas daiktas, turi teisę reikalauti grąžinti jam šį daiktą, o bendrija turi jį grąžinti, jeigu dėl to nebus pažeisti kitų dalyvių ir kreditorių interesai. Jeigu individualiais požymiais apibūdinto daikto grąžinimas pažeistų kitų dalyvių ir kreditorių interesus, asmeniui, kuris pasitraukė iš bendrijos, turi būti pinigais perduota jo įnašo dydį šio straipsnio 2 dalyje nurodytą dieną atitinkanti bendrijos turto dalis, apskaičiuota šiame įstatyme ir bendrijos veiklos sutartyje nustatyta tvarka. Bendrijos veiklos sutartyje gali būti nustatyta ir kitokia dalyvio nepiniginio įnašo, kuris yra individualiais požymiais apibūdintas daiktas, grąžinimo tvarka. 
+
+
+
+
+5. Asmeniui, kuris pasitraukė iš bendrijos, perduodama bendrijos turto dalis turi būti padidinta jam tenkančia nepaskirstyto bendrijos pelno, dėl kurio paskirstymo sprendimas nebuvo priimtas iki šio straipsnio 2 dalyje nurodytos dienos, ar sumažinta jam tenkančia nepaskirstyto bendrijos nuostolio, susidariusio iki šio straipsnio 2 dalyje nurodytos dienos, dalimi, apskaičiuota šio įstatymo ir bendrijos veiklos sutartyje nustatyta tvarka. 
  
 
 
@@ -659,35 +566,35 @@ Nr. XI-602, 2009-12-22, Žin. 2010, Nr. 1-13 (2010-01-05), i. k. 1091010ISTA00XI
 
 
 
-15 straipsnis. Komanditoriaus sutarties pabaiga
+14 straipsnis. Bendrijos reorganizavimo ypatumai
 
 
-1. Komanditoriaus sutartis pasibaigia:
-
-
-1) pasibaigus komanditinės ūkinės bendrijos jungtinės veiklos sutarčiai;
+1. Bendrija reorganizuojama Civiliniame kodekse nustatytais būdais.
 
 
 
 
-2) vienai iš sutarties šalių ar abiejų šalių susitarimu nutraukus sutartį;
+2. Reorganizavime gali dalyvauti ir tikrosios ūkinės bendrijos, ir komanditinės ūkinės bendrijos. 
 
 
 
 
-3) pasibaigus sutarties terminui.
+3. Nuo viešo paskelbimo apie reorganizavimo sąlygų sudarymą bendrijos veiklos sutartyje nurodytame šaltinyje dienos bendrija, kuri po reorganizavimo pasibaigia, įgyja reorganizuojamos bendrijos statusą, o bendrija, kuri po reorganizavimo tęsia veiklą, – reorganizavime dalyvaujančios bendrijos statusą.
 
 
 
 
-
-
-2. Kai komanditoriaus sutartis pasibaigia, su buvusiu komanditoriumi arba jo įpėdiniais ar teisių perėmėjais atsiskaitoma šio Įstatymo 14 straipsnio 4 dalyje nustatyta tvarka, jeigu komanditoriaus sutartyje nenustatyta kitaip.
+4. Sprendimą dėl reorganizavimo priima kiekvienos reorganizuojamos ir reorganizavime dalyvaujančios bendrijos visi dalyviai vienbalsiai. Bendrijos veiklos sutartyje gali būti nustatyta, kad sprendimas dėl reorganizavimo gali būti priimtas bendrijos dalyvių balsų dauguma, kuri negali būti mažesnė kaip 2/3 dalyvių balsų. Sprendimą reorganizuoti bendriją patvirtinantis dokumentas turi būti pateiktas Juridinių asmenų registro tvarkytojui.
 
 
 
 
-3. Jeigu komanditinėje ūkinėje bendrijoje pasibaigia visos komanditoriaus sutartys, komanditinė ūkinė bendrija per tris dienas nuo paskutinės komanditoriaus sutarties pasibaigimo apie tai turi pranešti juridinių asmenų registrui. Komanditinė ūkinė bendrija, kurioje pasibaigė visos komanditoriaus sutartys, turi būti likviduojama, jeigu tikrieji nariai per šešis mėnesius nuo paskutinės komanditoriaus sutarties pasibaigimo nenusprendžia komanditinės ūkinės bendrijos reorganizuoti ar pertvarkyti, išskyrus atvejus, kai komanditinė ūkinė bendrija per šį laikotarpį sudaro naują komanditoriaus sutartį.
+5. Reorganizavimo būdu sukurta bendrija įregistruojama po to, kai yra sudaryta bendrijos veiklos sutartis ir Juridinių asmenų registro tvarkytojui pateikti įstatymuose nurodyti bendrijai registruoti reikalingi dokumentai. 
+
+
+
+
+6. Reorganizavimas laikomas baigtu, kai įregistruojamos visos po reorganizavimo sukurtos naujos bendrijos ar įregistruojami visų bendrijų, tęsiančių veiklą, bendrijos veiklos sutarčių pakeitimai.
  
 
 
@@ -695,30 +602,105 @@ Nr. XI-602, 2009-12-22, Žin. 2010, Nr. 1-13 (2010-01-05), i. k. 1091010ISTA00XI
 
 
 
-16 straipsnis. Bendrijos reorganizavimo ypatumai
+15 straipsnis. Bendrijos pertvarkymo ypatumai
 
 
-1. Reorganizavime gali dalyvauti ir tikrosios ūkinės bendrijos, ir komanditinės ūkinės bendrijos. 
+1. Tikroji ūkinė bendrija gali būti pertvarkoma į šios teisinės formos juridinius asmenis:
 
 
-
-
-2. Nuo viešo paskelbimo apie reorganizavimo sąlygų sudarymą dienos bendrija, kuri po reorganizavimo pasibaigia, įgyja reorganizuojamos bendrijos statusą, o bendrija, kuri po reorganizavimo tęsia veiklą, – reorganizavime dalyvaujančios bendrijos statusą.
-
-
-
-
-3. Sprendimą dėl reorganizavimo priima kiekvienos reorganizuojamos ir reorganizavime dalyvaujančios bendrijos visi tikrieji nariai bendru sutarimu. Sprendimą reorganizuoti bendriją patvirtinantis dokumentas turi būti pateiktas juridinių asmenų registrui.
+1) komanditinę ūkinę bendriją;
 
 
 
 
-4. Reorganizavimo būdu sukurta tikroji ūkinė bendrija įregistruojama po to, kai yra sudaryta jungtinės veiklos sutartis ir juridinių asmenų registrui pateikti įstatymuose nurodyti bendrijai registruoti reikalingi dokumentai. Reorganizavimo būdu sukurta komanditinė ūkinė bendrija įregistruojama po to, kai yra sudarytos jungtinės veiklos sutartis bei komanditoriaus sutartys ir juridinių asmenų registrui pateikti įstatymuose nurodyti bendrijai registruoti reikalingi dokumentai.
+2) akcinę bendrovę;
 
 
 
 
-5. Reorganizavimas laikomas baigtu, kai įregistruojamos visos po reorganizavimo sukurtos naujos bendrijos ar įregistruojami visų tęsiančių veiklą bendrijų jungtinės veiklos sutarčių pakeitimai.
+3) uždarąją akcinę bendrovę;
+
+
+
+
+4) žemės ūkio bendrovę;
+
+
+
+
+5) kooperatinę bendrovę (kooperatyvą);
+
+
+
+
+6) individualią įmonę;
+
+
+
+
+7) viešąją įstaigą;
+
+
+
+
+8) mažąją bendriją.
+
+
+
+
+
+
+2. Komanditinė ūkinė bendrija gali būti pertvarkoma į tikrąją ūkinę bendriją ar į kitos šio straipsnio 1 dalies 2–8 punktuose nurodytos teisinės formos juridinį asmenį.
+
+
+
+
+3. Sprendimą dėl pertvarkymo priima visi dalyviai vienbalsiai. Bendrijos veiklos sutartyje gali būti nustatyta, kad sprendimas dėl pertvarkymo gali būti priimtas bendrijos dalyvių balsų dauguma, kuri negali būti mažesnė kaip 2/3 dalyvių balsų. Kai dalyviai priima sprendimą pertvarkyti bendriją, kartu turi būti priimami naujos teisinės formos juridinio asmens steigimo dokumentai. Šie dokumentai turi atitikti to juridinio asmens teisinę formą reglamentuojančių įstatymų reikalavimus.
+
+
+
+
+4. Nuo sprendimo pertvarkyti bendriją priėmimo dienos bendrija įgyja pertvarkomos bendrijos statusą. Sprendimą pertvarkyti bendriją patvirtinantis dokumentas turi būti pateiktas Juridinių asmenų registro tvarkytojui ne vėliau kaip pirmą viešo paskelbimo apie bendrijos pertvarkymą dieną.
+
+
+
+
+5. Apie sprendimą pertvarkyti bendriją turi būti viešai paskelbta bendrijos veiklos sutartyje nurodytame šaltinyje tris kartus ne mažesniais kaip trisdešimties dienų intervalais arba viešai paskelbta bendrijos veiklos sutartyje nurodytame šaltinyje vieną kartą ir raštu pranešta visiems bendrijos kreditoriams. Pranešime turi būti Civilinio kodekso 2.44 straipsnyje nustatyta informacija apie bendriją, taip pat turi būti nurodyta juridinio asmens, į kurį pertvarkoma bendrija, teisinė forma, kur ir nuo kada galima susipažinti su naujos teisinės formos juridinio asmens steigimo dokumentais.
+
+
+
+
+6. Bendrija gali būti pertvarkoma į akcinę bendrovę arba uždarąją akcinę bendrovę, vadovaujantis Lietuvos Respublikos akcinių bendrovių įstatymo nuostatomis dėl kitos teisinės formos juridinio asmens pertvarkymo į bendrovę.
+
+
+
+
+7. Bendrija gali būti pertvarkoma į žemės ūkio bendrovę, jeigu bendrijoje yra ne mažiau kaip du dalyviai ir jos pajamos už žemės ūkio produkciją ir suteiktas paslaugas žemės ūkiui per praėjusius finansinius metus sudarė daugiau kaip penkiasdešimt procentų visų pardavimo grynųjų pajamų.
+
+
+
+
+8. Bendrija gali būti pertvarkoma į kooperatinę bendrovę (kooperatyvą), jeigu bendrijoje yra ne mažiau kaip penki dalyviai.
+
+
+
+
+9. Bendrija gali būti pertvarkoma į individualią įmonę tuo atveju, kai bendrijoje lieka vienas dalyvis – fizinis asmuo, kuris tampa po pertvarkymo veiksiančios individualios įmonės savininku. 
+
+
+
+
+10. Bendrija gali būti pertvarkoma į mažąją bendriją, jeigu visi bendrijos dalyviai yra fiziniai asmenys ir jų yra ne daugiau kaip dešimt.
+
+
+
+
+11. Naujos teisinės formos juridinio asmens steigimo dokumentai įregistruojami Juridinių asmenų registre ir pakeičiami Juridinių asmenų registro duomenys po to, kai išrinkti (sudaryti) naujos teisinės formos juridinio asmens valdymo organai, sudarytas pertvarkomos bendrijos balansas, įvykdytos šiame įstatyme ir kituose teisės aktuose nustatytos su bendrijos pertvarkymu į naujos teisinės formos juridinį asmenį susijusios sąlygos ir Juridinių asmenų registrui pateikti įstatymuose nustatyti dokumentai.
+
+
+
+
+12. Pertvarkymas laikomas baigtu, kai naujos teisinės formos juridinio asmens steigimo dokumentai įregistruoti Juridinių asmenų registre.
  
 
 
@@ -726,174 +708,100 @@ Nr. XI-602, 2009-12-22, Žin. 2010, Nr. 1-13 (2010-01-05), i. k. 1091010ISTA00XI
 
 
 
-17 straipsnis. Bendrijos pertvarkymo ypatumai
+16 straipsnis. Bendrijos likvidavimo tvarka
 
 
-1. Tikroji ūkinė bendrija gali būti pertvarkoma į šios teisinės formos juridinius asmenis:
+1. Sprendimą likviduoti bendriją priima visi dalyviai vienbalsiai. Bendrijos veiklos sutartyje gali būti nustatyta, kad sprendimas likviduoti bendriją gali būti priimtas bendrijos dalyvių balsų dauguma, kuri negali būti mažesnė kaip 2/3 dalyvių balsų. 
 
 
-1) komanditinę ūkinę bendriją;
 
 
+2. Bendrija, kurioje liko tik vienas dalyvis, turi būti likviduojama, jeigu likęs bendrijos dalyvis per šešis mėnesius po tokio dalyvių skaičiaus sumažėjimo nenusprendžia bendrijos reorganizuoti ar pertvarkyti, išskyrus atvejus, kai per šį laikotarpį į bendriją priimamas naujas dalyvis ir pakeičiama bendrijos veiklos sutartis.
 
 
-2) akcinę bendrovę;
 
 
+3. Nuo sprendimo likviduoti bendriją priėmimo dienos bendrija įgyja likviduojamos bendrijos statusą.
 
 
-3) uždarąją akcinę bendrovę;
 
 
+4. Bendrijos likvidatorius įgyja bendrijos tikrųjų narių kompetenciją dėl sandorių sudarymo bei teises ir pareigas, nustatytas Civilinio kodekso 2.67 straipsnyje ir 2.82 straipsnio 3 dalyje, nuo jo paskyrimo, išskyrus Civiliniame kodekse nustatytus atvejus. 
 
 
-4) žemės ūkio bendrovę;
 
 
+5. Po atsiskaitymo su likviduojamos ūkinės bendrijos kreditoriais likęs turtas padalijamas ūkinės bendrijos dalyviams proporcingai jų įnašų dydžiui, buvusiam sprendimo likviduoti tikrąją ūkinę bendriją priėmimo dieną, jeigu bendrijos veiklos sutartyje nenustatyta kitaip. 
 
 
-5) kooperatinę bendrovę (kooperatyvą);
 
 
+6. Jeigu bendrijos veiklos sutartyje nenustatyta kitaip, pirmiausia proporcinga įnašo dydžiui komanditinės ūkinės bendrijos turto dalis perduodama komanditoriams, po to – tikriesiems nariams. 
 
 
-6) individualią įmonę;
 
 
+7. Likviduojamos bendrijos dalyviui, kuris sprendimo likviduoti bendriją priėmimo dieną nėra įvykdęs bendrijos veiklos sutartyje nurodyto įsipareigojimo dėl įnašo, perduodama proporcinga įnašo dydžiui bendrijos turto dalis.
 
 
-7) viešąją įstaigą;
 
 
+8. Jeigu komanditinės ūkinės bendrijos turto nepakanka atsiskaityti su kreditoriais, komanditorius, kuris sprendimo likviduoti komanditinę ūkinę bendriją priėmimo dieną nėra įvykdęs bendrijos veiklos sutartyje nurodytų įsipareigojimų dėl įnašo, yra solidariai atsakingas pagal komanditinės ūkinės bendrijos prievoles, atsižvelgiant į bendrijos veiklos sutartyje nurodytus to komanditoriaus įsipareigojimus.
 
 
-8) labdaros ir paramos fondą.
 
 
+9. Likviduojamos bendrijos dalyviui proporcinga jo įnašo dydžiui bendrijos turto dalis perduodama pinigais. Likviduojamos bendrijos dalyvis, kurio nepiniginis įnašas – individualiais požymiais apibūdintas daiktas, turi teisę reikalauti grąžinti jam šį daiktą, o bendrija turi jį grąžinti, jeigu dėl to nebus pažeisti kitų dalyvių ir kreditorių interesai. Jeigu individualiais požymiais apibūdinto daikto grąžinimas pažeistų kitų dalyvių ir kreditorių interesus, likviduojamos bendrijos dalyviui pinigais perduodama proporcinga jo įnašo dydžiui bendrijos turto dalis. Bendrijos veiklos sutartyje gali būti nustatyta ir kitokia nepiniginio įnašo, kuris yra individualiais požymiais apibūdintas daiktas, grąžinimo tvarka. 
 
 
 
 
-2. Komanditinė ūkinė bendrija gali būti pertvarkoma į tikrąją ūkinę bendriją ar į kitos šio straipsnio 1 dalies 2-8 punktuose nurodytos teisinės formos juridinį asmenį.
+10. Be kitų šiame įstatyme ir Civiliniame kodekse nustatytų pareigų, bendrijos likvidatorius privalo: 
 
 
+1) bendrijos veiklos sutartyje nurodytame šaltinyje viešai paskelbti apie bendrijos likvidavimą ir pateikti Juridinių asmenų registro tvarkytojui dokumentus, patvirtinančius sprendimą likviduoti bendriją, ir duomenis apie save (vardas, pavardė, asmens kodas, gyvenamoji vieta);
 
 
-3. Kai visi bendrijos tikrieji nariai bendru sutarimu priima sprendimą pertvarkyti bendriją, kartu turi būti priimami naujos teisinės formos juridinio asmens steigimo dokumentai. Šie dokumentai turi atitikti to juridinio asmens teisinę formą reglamentuojančių įstatymų reikalavimus.
 
 
+2) sudaryti bendrijos likvidavimo laikotarpio pradžios bendrijos balansą;
 
 
-4. Nuo sprendimo pertvarkyti bendriją priėmimo dienos bendrija įgyja pertvarkomos bendrijos statusą. Sprendimą pertvarkyti bendriją patvirtinantis dokumentas turi būti pateiktas juridinių asmenų registrui ne vėliau kaip pirmą viešo paskelbimo apie bendrijos pertvarkymą dieną.
 
 
+3) inicijuoti turto išieškojimą iš ūkinės bendrijos tikrųjų narių, taip pat asmenų, kurie nebėra tikraisiais nariais, vadovaujantis šio įstatymo 8 straipsnio 2 dalimi, ir komanditinės ūkinės bendrijos komanditorių, vadovaujantis šio įstatymo 8 straipsnio 1 dalimi, jeigu bendrijos turto nepakanka kreditorių reikalavimams įvykdyti;
 
 
-5. Apie sprendimą pertvarkyti bendriją turi būti viešai paskelbta jungtinės veiklos sutartyje nurodytame dienraštyje tris kartus ne mažesniais kaip trisdešimties dienų intervalais arba viešai paskelbta jungtinės veiklos sutartyje nurodytame dienraštyje vieną kartą ir raštu pranešta visiems bendrijos kreditoriams. Pranešime turi būti Civilinio kodekso 2.44 straipsnyje nustatyta informacija apie bendriją, taip pat turi būti nurodyta juridinio asmens, į kurį pertvarkoma bendrija, teisinė forma, kur ir nuo kada galima susipažinti su naujos teisinės formos juridinio asmens steigimo dokumentais.
 
 
+4) šio įstatymo nustatyta tvarka perduoti bendrijos dalyviams bendrijos turtą, likusį po atsiskaitymo su likviduojamos bendrijos kreditoriais, ir surašyti tokio turto priėmimo– perdavimo aktus;
 
 
-6. Bendrija gali būti pertvarkoma į akcinę bendrovę arba uždarąją akcinę bendrovę. Sprendime pertvarkyti bendriją į akcinę bendrovę ar uždarąją akcinę bendrovę turi būti nurodyta po pertvarkymo veiksiančios akcinės bendrovės arba uždarosios akcinės bendrovės įstatinio kapitalo dydis, akcijų skaičius, akcijų nominali vertė. 
-Straipsnio dalies pakeitimai:
-Nr. XI-1700, 2011-11-17, Žin., 2011, Nr. 146-6846 (2011-12-01), i. k. 1111010ISTA0XI-1700
- 
 
 
+5) bendrijos dokumentus perduoti saugoti Lietuvos Respublikos dokumentų ir archyvų įstatymo nustatyta tvarka;
 
 
-7. Bendrija gali būti pertvarkoma į žemės ūkio bendrovę, jeigu bendrijoje yra ne mažiau kaip du dalyviai ir jos pajamos už žemės ūkio produkciją ir suteiktas paslaugas žemės ūkiui per praėjusius finansinius metus sudarė daugiau kaip penkiasdešimt procentų visų realizavimo pajamų.
 
 
+6) sudaryti bendrijos likvidavimo aktą. Bendrijos likvidavimo akte nurodoma informacija apie prievolių įvykdymą ir patvirtinama, kad atlikti visi su bendrijos likvidavimu susiję veiksmai;
 
 
-8. Bendrija gali būti pertvarkoma į kooperatinę bendrovę (kooperatyvą), jeigu bendrijoje yra ne mažiau kaip penki dalyviai.
 
 
+7) panaikinti bendrijos interneto svetainės adresą, jeigu bendrija jį turi;
 
 
-9. Bendrija gali būti pertvarkoma į individualią įmonę tuo atveju, kai tikrųjų narių skaičius tampa mažesnis už šio Įstatymo nustatytą minimalų. Tokiu atveju bendrijoje likęs vienas tikrasis narys – fizinis asmuo tampa po pertvarkymo veiksiančios individualios įmonės savininku. 
 
 
+8) Juridinių asmenų registro tvarkytojui pateikti bendrijos likvidavimo aktą ir kitus dokumentus, reikalingus bendrijai išregistruoti.
 
 
-10. Naujos teisinės formos juridinio asmens steigimo dokumentai įregistruojami juridinių asmenų registre ir pakeičiami juridinių asmenų registro duomenys po to, kai išrinkti (sudaryti) naujos teisinės formos juridinio asmens valdymo organai, sudarytas pertvarkomos bendrijos balansas, įvykdytos šiame Įstatyme ir kituose teisės aktuose nustatytos su bendrijos pertvarkymu į naujos teisinės formos juridinį asmenį susijusios sąlygos ir juridinių asmenų registrui pateikti įstatymuose nustatyti dokumentai.
 
 
 
 
-11. Pertvarkymas laikomas baigtu, kai naujos teisinės formos juridinio asmens pakeisti steigimo dokumentai įregistruoti juridinių asmenų registre.
- 
-
-
-
-
-
-
-18 straipsnis. Bendrijos likvidavimo ypatumai
-
-
-1. Nuo visų bendrijos tikrųjų narių bendru sutarimu priimto sprendimo likviduoti bendriją priėmimo dienos bendrija įgyja likviduojamos bendrijos statusą.
-
-
-
-
-2. Bendrijos likvidatorius įgyja bendrijos tikrųjų narių kompetenciją dėl sandorių sudarymo bei teises ir pareigas, numatytas šio Įstatymo 11 straipsnio 3 dalyje, nuo jo paskyrimo, išskyrus Civilinio kodekso numatytus atvejus. 
-
-
-
-
-3. Po atsiskaitymo su likviduojamos tikrosios ūkinės bendrijos kreditoriais likęs turtas padalijamas tikriesiems nariams proporcingai jų įnašų dydžiui, buvusiam sprendimo likviduoti tikrąją ūkinę bendriją priėmimo dieną, jeigu bendrijos jungtinės veiklos sutartyje nenustatyta kitaip.
-
-
-
-
-4. Po atsiskaitymo su likviduojamos komanditinės ūkinės bendrijos kreditoriais likęs turtas padalijamas komanditinės ūkinės bendrijos dalyviams. Pirmiausia įnašai grąžinami komanditoriams, po to – tikriesiems nariams. Likęs komanditinės ūkinės bendrijos turtas padalijamas visiems dalyviams proporcingai jų įnašų dydžiui, buvusiam sprendimo likviduoti komanditinę ūkinę bendriją priėmimo dieną, jeigu bendrijos jungtinės veiklos sutartyje nenustatyta kitaip.
-
-
-
-
-5. Likviduojamos bendrijos dalyviui įnašas grąžinamas pinigais. Jeigu likviduojamos bendrijos dalyvis, kurio įnašas nepiniginis – individualiais požymiais apibūdintas daiktas, sutinka, jam šis įnašas gali būti grąžintas. Jungtinės veiklos sutartyje ar komanditoriaus sutartyje gali būti nustatyta ir kitokia tikrojo nario ar komanditoriaus įnašo, kuris yra individualiais požymiais apibūdintas daiktas, grąžinimo tvarka.
-
-
-
-
-6. Be kitų šiame Įstatyme ir Civiliniame kodekse nustatytų pareigų, bendrijos likvidatorius privalo:
-
-
-1) jungtinės veiklos sutartyje nurodytame dienraštyje viešai paskelbti apie bendrijos likvidavimą ir pateikti juridinių asmenų registrui dokumentus, patvirtinančius sprendimą likviduoti bendriją, bei duomenis apie save (vardas, pavardė, asmens kodas, gyvenamoji vieta);
-
-
-
-
-2) sudaryti likvidavimo laikotarpio pradžios bendrijos balansą;
-
-
-
-
-3) šio Įstatymo nustatyta tvarka perduoti bendrijos dalyviams bendrijos turtą, likusį po atsiskaitymo su likviduojamos bendrijos kreditoriais, ir surašyti tokio turto priėmimo–perdavimo aktus;
-
-
-
-
-4) bendrijos dokumentus perduoti saugoti Archyvų įstatymo nustatyta tvarka;
-
-
-
-
-5) sudaryti bendrijos likvidavimo aktą. Bendrijos likvidavimo akte nurodoma informacija apie prievolių įvykdymą ir patvirtinama, kad atlikti visi su bendrijos likvidavimu susiję veiksmai;
-
-
-
-
-6) juridinių asmenų registrui pateikti bendrijos likvidavimo aktą ir kitus dokumentus, reikalingus bendrijai išregistruoti.
-
-
-
-
-
-
-7. Jeigu sprendimas likviduoti bendriją atšaukiamas, dokumentas, patvirtinantis likvidavimo atšaukimą, turi būti pateiktas juridinių asmenų registrui.
+11. Jeigu sprendimas likviduoti bendriją atšaukiamas, dokumentas, patvirtinantis likvidavimo atšaukimą, turi būti pateiktas Juridinių asmenų registro tvarkytojui. 
  
 
 
@@ -901,46 +809,60 @@ Nr. XI-1700, 2011-11-17, Žin., 2011, Nr. 146-6846 (2011-12-01), i. k. 1111010IS
 
 
 
-19 straipsnis. Baigiamosios nuostatos
+17 straipsnis. Baigiamosios nuostatos
 
 
-1. Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d.
+1. Šio įstatymo nuostatos taikomos: 
 
 
-
-
-2. Šio Įstatymo 7 straipsnio 6 dalis įsigalioja Lietuvos Respublikai tapus Europos Sąjungos nare.
-
-
-
-
-3. Nuo šio Įstatymo įsigaliojimo Ūkinių bendrijų įstatymas (Žin., 1990, Nr. 31-747; 1993, Nr. 32-731, Nr. 49-964, Nr. 52-998, Nr. 62-1169; 1997, Nr. 66-1608, Nr. 69-1742, Nr. 117-3003; 2001, Nr. 102-3626; 2003, Nr. 38-1720) taikomas reorganizuojant ir likviduojant tik tas bendrijas, dėl kurių reorganizavimo ir likvidavimo sprendimai priimti iki šio Įstatymo įsigaliojimo.
+1) po šio įstatymo įsigaliojimo steigiamoms ir įsteigtoms bendrijoms;
 
 
 
 
-4. Nuo šio Įstatymo įsigaliojimo kituose įstatymuose vartojama sąvoka „bendrosios jungtinės veiklos sutartis“ atitinka sąvoką „jungtinės veiklos sutartis“, sąvoka „narys komanditorius“ atitinka sąvoką „komanditorius“.
+2) iki šio įstatymo įsigaliojimo įsteigtoms bendrijoms, kurių steigimo dokumentų pakeitimai pateikti ir įregistruoti Juridinių asmenų registre įsigaliojus šiam įstatymui.
 
 
 
 
-5. Iki juridinių asmenų registro veiklos pradžios bendrijos registruojamos Lietuvos Respublikos įmonių rejestre ir jų duomenys bei dokumentai teikiami įstatymų, kitų teisės aktų nustatyta tvarka. Nuo juridinių asmenų registro veiklos pradžios Lietuvos Respublikos įmonių rejestre įregistruotos bendrijos laikomos įregistruotomis juridinių asmenų registre.
+
+
+2. Bendrijų, įsteigtų iki šio įstatymo įsigaliojimo, jungtinės veiklos sutartys galioja tiek, kiek jos neprieštarauja Civiliniam kodeksui, šiam ir kitiems įstatymams.
 
 
 
 
-6. Iki šio Įstatymo įsigaliojimo įsteigtos komanditinės ūkinės bendrijos, kurios turi tik vieną tikrąjį narį, per aštuoniolika mėnesių nuo šio Įstatymo įsigaliojimo turi priimti dar bent vieną tikrąjį narį arba priimti sprendimą pertvarkyti komanditinę ūkinę bendriją į šio Įstatymo 17 straipsnio 1 dalyje nurodytą kitos teisinės formos juridinį asmenį, reorganizuoti komanditinę ūkinę bendriją jungimo būdu ar ją likviduoti.
+3. Keičiant iki šio įstatymo įsigaliojimo įsteigtų bendrijų steigimo dokumentą, turi būti taikomos šio įstatymo nuostatos, reglamentuojančios bendrijos veiklos sutarties turinį.
 
 
 
 
-7. Asmuo, kuris yra dviejų ir daugiau bendrijų tikrasis narys, per aštuoniolika mėnesių nuo šio Įstatymo įsigaliojimo turi likti tik vienos bendrijos tikruoju nariu, kitose bendrijose perleisdamas tikrojo nario teises kitam asmeniui, atsisakydamas toliau būti bendrijos dalyviu ar tapdamas komanditinės ūkinės bendrijos komanditoriumi.
+4. Visų iki šio įstatymo įsigaliojimo įsteigtų bendrijų steigimo dokumentai per aštuoniolika mėnesių nuo šio įstatymo įsigaliojimo turi būti pakeisti pagal šio įstatymo nuostatas, reglamentuojančias bendrijos veiklos sutarties turinį, arba priimtas vienas iš šių sprendimų:
+
+
+1) pertvarkyti bendriją į šio įstatymo 15 straipsnio 1 dalyje nurodytą kitos teisinės formos juridinį asmenį;
 
 
 
 
-8. Asmuo, kuris tuo pat metu yra ir bendrijos tikrasis narys, ir individualios įmonės savininkas, per aštuoniolika mėnesių nuo šio Įstatymo įsigaliojimo turi likti tik vieno neribotos civilinės atsakomybės juridinio asmens dalyviu, perleisdamas tikrojo nario teises kitam asmeniui, atsisakydamas toliau būti bendrijos dalyviu ar tapdamas komanditinės ūkinės bendrijos komanditoriumi arba pertvarkydamas, perleisdamas ar likviduodamas individualią įmonę.
- 
+2) likviduoti bendriją.
+
+
+
+
+
+
+5. Iki šio įstatymo įsigaliojimo įsteigtų komanditinių ūkinių bendrijų komanditorių sutartys pasibaigia nuo pakeisto steigimo dokumento įregistravimo Juridinių asmenų registre dienos. 
+
+
+
+
+6. Įsigaliojus šiam įstatymui, Lietuvos Respublikos ūkinių bendrijų įstatymas (Žin., 1990, Nr. 31-747; 1993, Nr. 32-731, Nr. 49-964, Nr. 52-998, Nr. 62-1169; 1997, Nr. 66-1608, Nr. 69-1742, Nr. 117-3003; 2001, Nr. 102-3626; 2003, Nr. 38-1720) taikomas bendrijoms, įsteigtoms iki šio įstatymo įsigaliojimo, kol jų steigimo dokumentai nepakeisti pagal šio įstatymo nuostatas, reglamentuojančias bendrijos veiklos sutarties turinį, arba nepriimtas vienas iš šio straipsnio 4 dalyje nurodytų sprendimų, taip pat reorganizuojant ir likviduojant tas bendrijas, dėl kurių reorganizavimo ir likvidavimo sprendimai priimti iki šio įstatymo įsigaliojimo.
+
+
+
+
+7. Įsigaliojus šiam įstatymui, kituose įstatymuose vartojamos sąvokos „bendrosios jungtinės veiklos sutartis“, „jungtinės veiklos sutartis“, suprantamos kaip bendrijos steigimo dokumentai, atitinka sąvoką „bendrijos veiklos sutartis“, o sąvoka „narys komanditorius“ atitinka sąvoką „komanditorius“.
  
 
 
@@ -958,6 +880,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
  
  
+ 
 Pakeitimai:
  
 1.
@@ -969,3 +892,8 @@ Lietuvos Respublikos ūkinių bendrijų įstatymo 6 straipsnio pakeitimo įstaty
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1700, 2011-11-17, Žin., 2011, Nr. 146-6846 (2011-12-01), i. k. 1111010ISTA0XI-1700
 Lietuvos Respublikos ūkinių bendrijų įstatymo 17 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2073, 2012-06-19, Žin., 2012, Nr. 78-4014 (2012-07-04), i. k. 1121010ISTA0XI-2073
+Lietuvos Respublikos ūkinių bendrijų įstatymo pakeitimo įstatymas
