@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4A9B29FE9E04"
 
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymas
 
-Suvestinė redakcija nuo 2010-10-02 iki 2012-08-31
+Suvestinė redakcija nuo 2012-09-01 iki 2014-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 80-0; Žin. 1991, Nr.13-328, i. k. 0911010ISTA00I-1222
  
@@ -1221,6 +1221,13 @@ BENDROVĖS REORGANIZAVIMAS, PERTVARKYMAS IR LIKVIDAVIMAS
 
 
 6. Bendrovės teisinė forma keičiama ją pertvarkant pagal Civilinio kodekso reikalavimus.
+
+
+
+
+7. Į mažąją bendriją gali būti pertvarkoma bendrovė, kurios visi nariai ir pajininkai yra fiziniai asmenys ir jų yra ne daugiau kaip 10.
+Papildyta straipsnio dalimi:
+Nr. XI-2162, 2012-06-29, Žin., 2012, Nr. 83-4336 (2012-07-14), i. k. 1121010ISTA0XI-2162
  
 
 
@@ -1580,3 +1587,8 @@ Lietuvos Respublikos žemės ūkio bendrovių įstatymo 3, 7, 10 straipsnių pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1020, 2010-09-21, Žin., 2010, Nr. 118-5993 (2010-10-02), i. k. 1101010ISTA0XI-1020
 Lietuvos Respublikos žemės ūkio bendrovių įstatymo 3 straipsnio pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2162, 2012-06-29, Žin., 2012, Nr. 83-4336 (2012-07-14), i. k. 1121010ISTA0XI-2162
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo 29 straipsnio papildymo įstatymas
