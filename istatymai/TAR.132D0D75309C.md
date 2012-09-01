@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C"
 
 # Lietuvos Respublikos įmonių atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2012-03-01 iki 2012-08-31
+Suvestinė redakcija nuo 2012-09-01 iki 2012-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3516, i. k. 1011010ISTA00IX-575
  
@@ -307,7 +307,6 @@ FINANSINĖS ATASKAITOS
 5) aiškinamasis raštas.
 
 2. Visos pagal šio įstatymo reikalavimus parengtos finansinės ataskaitos sudaro nedalomą visumą.
- 
 
 23 straipsnis. Finansinių ataskaitų įforminimo bendrieji reikalavimai
 
@@ -339,6 +338,14 @@ Kiekvienos finansinės ataskaitos pradžioje turi būti nurodyta:
 5. Vidutinis metinis darbuotojų skaičius pagal sąrašą apskaičiuojamas Lietuvos Respublikos Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka.
 
 6. Sutrumpintų finansinių ataskaitų reikalavimus nustato verslo apskaitos standartai.
+ 
+
+241 straipsnis. Mažųjų bendrijų finansinės ataskaitos
+
+Mažųjų bendrijų finansinių ataskaitų rinkinio sudėties ir sudarymo reikalavimus nustato verslo apskaitos standartai.
+
+Papildyta straipsniu:
+Nr. XI-2164, 2012-06-29, Žin., 2012, Nr. 83-4338 (2012-07-14), i. k. 1121010ISTA0XI-2164
  
 
 PENKTASIS SKIRSNIS
@@ -490,4 +497,14 @@ Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo 2 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1799, 2011-12-15, Žin., 2011, Nr. 160-7566 (2011-12-28), i. k. 1111010ISTA0XI-1799
 Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo 15, 18, 20, 21 straipsnių pakeitimo ir papildymo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-1949, 2012-03-29, Žin., 2012, Nr. 44-2142 (2012-04-14), i. k. 1121010ISTA0XI-1949
+Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo 2, 15, 19, 22 straipsnių ir priedo pakeitimo ir papildymo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2164, 2012-06-29, Žin., 2012, Nr. 83-4338 (2012-07-14), i. k. 1121010ISTA0XI-2164
+Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo papildymo 24-1 straipsniu įstatymas
 
