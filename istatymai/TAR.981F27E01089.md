@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.981F27E01089"
 
 # Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymas
 
-Suvestinė redakcija nuo 2009-10-01 iki 2012-08-31
+Suvestinė redakcija nuo 2012-09-01 iki 2012-12-31
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 81-3322, i. k. 1071010ISTA00X-1262
- 
-TAR pastaba. Įstatymo 22 straipsnio 8 dalis ir priedas netaikomi asmenims, dėl kurių delegavimo arba delegavimo pratęsimo sprendimas priimtas iki įstatymo Nr. XI-337 įsigaliojimo (2009-10-01) ir kurių delegavimas 2009 m. spalio 1 d. nėra pasibaigęs.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-337, 2009-07-14, Žin., 2009, Nr. 89-3799 (2009-07-28), i. k. 1091010ISTA00XI-337
-Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo 2, 15, 21, 22, 23 straipsnių pakeitimo ir papildymo ir įstatymo papildymo priedu įstatymas
  
 LIETUVOS RESPUBLIKOS ASMENŲ DELEGAVIMO Į TARPTAUTINES IR EUROPOS SĄJUNGOS INSTITUCIJAS AR UŽSIENIO VALSTYBIŲ INSTITUCIJAS ĮSTATYMAS
  
@@ -189,7 +184,10 @@ Delegavimą koordinuoja Užsienio reikalų ministerija, išskyrus atvejus, kai t
 
 
 
-4) Valstybės tarnybos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Valstybės tarnybos departamentas) perduoda informaciją apie laisvas pareigas ar pareigybes tarptautinėse ir Europos Sąjungos institucijose bei užsienio valstybių institucijose;
+4) Valstybės tarnybos departamentui perduoda informaciją apie laisvas pareigas ar pareigybes tarptautinėse ir Europos Sąjungos institucijose bei užsienio valstybių institucijose;
+Straipsnio punkto pakeitimai:
+Nr. XI-2042, 2012-06-05, Žin., 2012, Nr. 69-3524 (2012-06-21), i. k. 1121010ISTA0XI-2042
+ 
 
 
 
@@ -837,3 +835,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-337, 2009-07-14, Žin., 2009, Nr. 89-3799 (2009-07-28), i. k. 1091010ISTA00XI-337
 Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo 2, 15, 21, 22, 23 straipsnių pakeitimo ir papildymo ir įstatymo papildymo priedu įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2042, 2012-06-05, Žin., 2012, Nr. 69-3524 (2012-06-21), i. k. 1121010ISTA0XI-2042
+Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo 5 straipsnio pakeitimo įstatymas
