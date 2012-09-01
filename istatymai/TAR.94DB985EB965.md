@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.94DB985EB965"
 
 # Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymas
 
-Suvestinė redakcija nuo 2010-10-02 iki 2012-08-31
+Suvestinė redakcija nuo 2012-09-01 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 20-488, i. k. 0931010ISTA000I-164
  
@@ -1307,12 +1307,26 @@ KOOPERATINĖS BENDROVĖS PABAIGA IR PERTVARKYMAS
 
 
 
-2. Sprendimą pertvarkyti kooperatinę bendrovę ir kartu po pertvarkymo veiksiančio juridinio asmens steigimo dokumentus priima narių susirinkimas ne mažiau kaip 2/3 kooperatinės bendrovės narių, užsiregistravusių susirinkimo dalyvių sąraše, balsų.
+2. Kooperatinė bendrovė gali būti pertvarkoma į mažąją bendriją, jeigu visi kooperatinės bendrovės nariai yra fiziniai asmenys ir jų yra ne daugiau kaip 10. 
+Papildyta straipsnio dalimi:
+Nr. XI-2161, 2012-06-29, Žin., 2012, Nr. 83-4335 (2012-07-14), i. k. 1121010ISTA0XI-2161
+ 
 
 
 
 
-3. Apie kooperatinės bendrovės pertvarkymą turi būti paskelbta įstatuose nustatyta tvarka viešai 3 kartus, darant ne mažesnes kaip 30 dienų pertraukas, arba viešai vieną kartą ne vėliau kaip prieš 30 dienų iki sprendimo dėl pertvarkymo priėmimo ir pranešta raštu visiems kooperatinės bendrovės kreditoriams. Pranešime nurodoma:
+3. Sprendimą pertvarkyti kooperatinę bendrovę ir kartu po pertvarkymo veiksiančio juridinio asmens steigimo dokumentus priima narių susirinkimas ne mažiau kaip 2/3 kooperatinės bendrovės narių, užsiregistravusių susirinkimo dalyvių sąraše, balsų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-2161, 2012-06-29, Žin., 2012, Nr. 83-4335 (2012-07-14), i. k. 1121010ISTA0XI-2161
+ 
+
+
+
+
+4. Apie kooperatinės bendrovės pertvarkymą turi būti paskelbta įstatuose nustatyta tvarka viešai 3 kartus, darant ne mažesnes kaip 30 dienų pertraukas, arba viešai vieną kartą ne vėliau kaip prieš 30 dienų iki sprendimo dėl pertvarkymo priėmimo ir pranešta raštu visiems kooperatinės bendrovės kreditoriams. Pranešime nurodoma:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-2161, 2012-06-29, Žin., 2012, Nr. 83-4335 (2012-07-14), i. k. 1121010ISTA0XI-2161
+ 
 
 
 1) kooperatinės bendrovės pavadinimas;
@@ -1357,17 +1371,26 @@ KOOPERATINĖS BENDROVĖS PABAIGA IR PERTVARKYMAS
 
 
 
-4. Sprendimo dėl kooperatinės bendrovės pertvarkymo priėmimą patvirtinantis dokumentas turi būti pateiktas juridinių asmenų registrui ne vėliau kaip pirmą viešo paskelbimo dieną. Juridinių asmenų registro tvarkytojas apie sprendimą pertvarkyti kooperatinę bendrovę turi paskelbti teisės aktų nustatyta tvarka.
+5. Sprendimo dėl kooperatinės bendrovės pertvarkymo priėmimą patvirtinantis dokumentas turi būti pateiktas juridinių asmenų registrui ne vėliau kaip pirmą viešo paskelbimo dieną. Juridinių asmenų registro tvarkytojas apie sprendimą pertvarkyti kooperatinę bendrovę turi paskelbti teisės aktų nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-2161, 2012-06-29, Žin., 2012, Nr. 83-4335 (2012-07-14), i. k. 1121010ISTA0XI-2161
+ 
 
 
 
 
-5. Pertvarkymas laikomas baigtu nuo po pertvarkymo veiksiančio juridinio asmens steigimo dokumentų įregistravimo juridinių asmenų registre.
+6. Pertvarkymas laikomas baigtu nuo po pertvarkymo veiksiančio juridinio asmens steigimo dokumentų įregistravimo juridinių asmenų registre.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-2161, 2012-06-29, Žin., 2012, Nr. 83-4335 (2012-07-14), i. k. 1121010ISTA0XI-2161
+ 
 
 
 
 
-6. Steigimo dokumentai netenka galios, jeigu jie nebuvo pateikti juridinių asmenų registrui per 6 mėnesius nuo sprendimo pertvarkyti kooperatinę bendrovę priėmimo.
+7. Steigimo dokumentai netenka galios, jeigu jie nebuvo pateikti juridinių asmenų registrui per 6 mėnesius nuo sprendimo pertvarkyti kooperatinę bendrovę priėmimo.
+ 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-2161, 2012-06-29, Žin., 2012, Nr. 83-4335 (2012-07-14), i. k. 1121010ISTA0XI-2161
  
 
 
@@ -1607,3 +1630,8 @@ Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 4, 5 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1021, 2010-09-21, Žin., 2010, Nr. 118-5994 (2010-10-02), i. k. 1101010ISTA0XI-1021
 Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 2, 3 ir 4 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2161, 2012-06-29, Žin., 2012, Nr. 83-4335 (2012-07-14), i. k. 1121010ISTA0XI-2161
+Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 20 straipsnio papildymo ir pakeitimo įstatymas
