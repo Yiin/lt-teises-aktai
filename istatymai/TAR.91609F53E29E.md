@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2012-08-31
+Suvestinė redakcija nuo 2012-09-01 iki 2013-12-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
- 
-TAR pastaba. Socialinės globos įstaigos privalo įgyti licencijas iki 2015 m. sausio 1 d. Apskrities viršininko socialinių paslaugų įstaigų savininko teisės ir pareigos perduodamos savivaldybėms nuo 2010 m. liepos 1 d. pagal šio įstatymo priede nurodytą sąrašą. Valstybei nuosavybės teise priklausantis ir šių įstaigų patikėjimo teise valdomas turtas perduodamas savivaldybių nuosavybėn.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
-Lietuvos Respublikos socialinių paslaugų įstatymo 2, 9, 10, 11, 13, 19, 26, 30, 34, 36, 38, 39 straipsnių pakeitimo ir papildymo ir 12 straipsnio pripažinimo netekusiu galios įstatymas
  
 LIETUVOS RESPUBLIKOS
 SOCIALINIŲ PASLAUGŲ
@@ -88,7 +83,9 @@ Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA
 
 
 
-5. Socialinės globos įstaiga – šio įstatymo nustatyta tvarka turinti teisę teikti socialinę globą įmonė (akcinė bendrovė, uždaroji akcinė bendrovė, individuali įmonė), įstaiga (viešoji įstaiga, biudžetinė įstaiga), šeimyna. 
+5. Socialinės globos įstaiga – šio įstatymo nustatyta tvarka turinti teisę teikti socialinę globą įmonė (akcinė bendrovė, uždaroji akcinė bendrovė, individuali įmonė, mažoji bendrija), įstaiga (viešoji įstaiga, biudžetinė įstaiga), šeimyna. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2171, 2012-06-29, Žin., 2012, Nr. 83-4345 (2012-07-14), i. k. 1121010ISTA0XI-2171
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
  
@@ -128,7 +125,9 @@ Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA
 
 
 
-10. Socialinių paslaugų įstaiga – socialines paslaugas teikianti įmonė (akcinė bendrovė, uždaroji akcinė bendrovė, individuali įmonė), įstaiga (viešoji įstaiga, biudžetinė įstaiga), organizacija (asociacija, labdaros ir paramos fondas, religinė bendruomenė ar bendrija (centras), šeimyna.
+10. Socialinių paslaugų įstaiga – socialines paslaugas teikianti įmonė (akcinė bendrovė, uždaroji akcinė bendrovė, individuali įmonė, mažoji bendrija), įstaiga (viešoji įstaiga, biudžetinė įstaiga), organizacija (asociacija, labdaros ir paramos fondas, religinė bendruomenė ar bendrija (centras), šeimyna. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2171, 2012-06-29, Žin., 2012, Nr. 83-4345 (2012-07-14), i. k. 1121010ISTA0XI-2171
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
  
@@ -1303,7 +1302,10 @@ Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA
 
 
 
-2) individualios įmonės savininko ar tikrosios ūkinės bendrijos ir komanditinės ūkinės bendrijos tikrojo nario pajamos, gautos iš šios įmonės ar bendrijos apmokestinto pelno;
+2) individualios įmonės savininko, tikrosios ūkinės bendrijos, komanditinės ūkinės bendrijos tikrojo nario, mažosios bendrijos nario pajamos, gautos iš šios įmonės ar bendrijos apmokestinto pelno; 
+Straipsnio punkto pakeitimai:
+Nr. XI-2171, 2012-06-29, Žin., 2012, Nr. 83-4345 (2012-07-14), i. k. 1121010ISTA0XI-2171
+ 
 
 
 
@@ -1860,3 +1862,8 @@ Lietuvos Respublikos socialinių paslaugų įstatymo 32 straipsnio pakeitimo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 Lietuvos Respublikos socialinių paslaugų įstatymo 2, 9, 10, 11, 13, 19, 26, 30, 34, 36, 38, 39 straipsnių pakeitimo ir papildymo ir 12 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2171, 2012-06-29, Žin., 2012, Nr. 83-4345 (2012-07-14), i. k. 1121010ISTA0XI-2171
+Lietuvos Respublikos socialinių paslaugų įstatymo 2 ir 30 straipsnių pakeitimo įstatymas
