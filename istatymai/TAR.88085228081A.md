@@ -1,0 +1,44 @@
+---
+tar_id: TAR.88085228081A
+dok_nr: XI-2269
+pavadinimas: "Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo 24, 37, 93 straipsnių pakeitimo ir Įstatymo papildymo 95 straipsniu įstatymas"
+rusis: istatymas
+leidziantis_organas: Lietuvos Respublikos Seimas
+priemimo_data: 2012-10-02
+isigaliojimo_data: 2012-10-13
+paskelbimo_data: 2012-10-02
+statusas: negalioja
+etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.88085228081A"
+---
+
+# Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo 24, 37, 93 straipsnių pakeitimo ir Įstatymo papildymo 95 straipsniu įstatymas
+
+LIETUVOS RESPUBLIKOS
+RINKIMŲ Į EUROPOS PARLAMENTĄ ĮSTATYMO 24, 37, 93 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 95 STRAIPSNIU
+ĮSTATYMAS
+2012 m. spalio 2 d. Nr. XI-2269 
+Vilnius
+(Žin., 2003, Nr. [115-5192](https://www.e-tar.lt/portal/lt/legalAct/TAR.FE3C428580B8); 2008, Nr. [59-2202](https://www.e-tar.lt/portal/lt/legalAct/TAR.99CE87641D7E); 2010, Nr. [63-3092](https://www.e-tar.lt/portal/lt/legalAct/TAR.6AA7A7AAE476))
+
+#### 1 straipsnis. 24 straipsnio 5 dalies 1 punkto pakeitimas
+24 straipsnio 5 dalies 1 punkte vietoj žodžių „ankstesnė asmens gyvenamoji vieta kitoje Europos Sąjungos valstybėje narėje ar kilmės valstybėje narėje“ įrašyti žodžius „valstybės narės vietovė ar rinkimų apygarda, kurios rinkėjų sąraše jis buvo įrašytas paskutinį kartą(kitos Europos Sąjungos valstybės narės pilietis duomenis apie valstybės narės vietovę ar rinkimų apygardą, kurios rinkėjų sąraše jis buvo įrašytas paskutinį kartą, nurodo Vyriausiosios rinkimų komisijos nustatyta tvarka)“ ir šį punktą išdėstyti taip:
+„1) Lietuvos Respublikos rinkėjų sąraše: vardas, pavardė, asmens kodas, gimimo data, kilmės valstybė narė, Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės pilietybę patvirtinančio asmens dokumento numeris, dokumento, patvirtinančio kitos Europos Sąjungos valstybės narės piliečio pragyventą Lietuvos Respublikoje laiką, duomenys, valstybės narės vietovė ar rinkimų apygarda, kurios rinkėjų sąraše jis buvo įrašytas paskutinį kartą (kitos Europos Sąjungos valstybės narės pilietis duomenis apie valstybės narės vietovę ar rinkimų apygardą, kurios rinkėjų sąraše jis buvo įrašytas paskutinį kartą, nurodo Vyriausiosios rinkimų komisijos nustatyta tvarka),deklaruotos gyvenamosios vietos adresas ir šio adreso įrašymo į Lietuvos Respublikos gyventojų registrą pagrindas ir data;“. 
+
+#### 2 straipsnis. 37 straipsnio 2 dalies pakeitimas
+37 straipsnio 2 dalyje po žodžių „balsavimo teisę“ įrašyti žodžius „ir valstybės narės vietovę ar rinkimų apygardą, kurios rinkėjų sąraše jis buvo įrašytas paskutinį kartą“ ir šią dalį išdėstyti taip:
+„2. Kandidato į Europos Parlamento narius anketoje asmuo, keliamas kandidatu, pats turi įrašyti savo pavardę, vardą, paso ar kito pilietybę patvirtinančio dokumento numerį, asmens kodą, gimimo datą, nuolatinės gyvenamosios vietos adresą, ar neturi nebaigtos atlikti teismo nuosprendžiu paskirtos bausmės, ar jis nėra asmuo, atliekantis privalomąją karo arba alternatyviąją krašto apsaugos tarnybą, taip pat likus 65 dienoms iki rinkimų neišėjęs į atsargą profesinės karo tarnybos karys arba statutinės institucijos ir įstaigos pareigūnas ar asmuo, kuris pagal specialius įstatymus ar statutus negali dalyvauti politinėje veikloje, taip pat atsakyti į šio Įstatymo 93 straipsnyje nurodytus klausimus ir pasirašyti. Kitos Europos Sąjungos valstybės narės pilietis, be šių duomenų, turi nurodyti kilmės valstybę narę, kad jis savo kilmės valstybėje narėje turi balsavimo teisę ir valstybės narės vietovę ar rinkimų apygardą, kurios rinkėjų sąraše jis buvo įrašytas paskutinį kartą. Kandidato į Europos Parlamento narius anketoje gali būti pateikiama ir kitų Vyriausiosios rinkimų komisijos nustatytų papildomų klausimų, į kuriuos asmuo gali neatsakyti.“
+
+#### 3 straipsnis. 93 straipsnio 3 ir 4 dalių pakeitimas
+1. Pakeisti 93 straipsnio 3 dalį ir ją išdėstyti taip:
+„3. Kiekvienas kandidatas turi viešai paskelbti, jeigu jis per 10 paskutinių metų iki nustatytosios dienos įsiteisėjusiu Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės teismo nuosprendžiu yra pripažintas kaltu dėl nusikalstamos veikos arba įsiteisėjusiu teismo nuosprendžiu bet kada buvo pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo padarymo. Šį faktą, nepaisant to, ar teistumas išnykęs, ar panaikintas, kandidatas nurodo kandidato į Europos Parlamento narius anketoje. Pateikdamas šiuos duomenis, kandidato į Europos Parlamento narius anketoje asmuo privalo nurodyti apkaltinamojo nuosprendžio (sprendimo) priėmimo valstybę (vietą), šį nuosprendį (sprendimą) priėmusios institucijos pavadinimą, apkaltinamojo nuosprendžio (sprendimo) priėmimo datą ir nusikalstamą veiką, už kurią buvo nuteistas. Šios informacijos nurodyti neprivaloma, jeigu asmuo okupacinio režimo teismo buvo pripažintas kaltu dėl nusikaltimo valstybei. Pateikiant šioje dalyje nurodytą informaciją, kandidato į Europos Parlamento narius anketoje taip pat pažymima, kad teismo nuosprendžiu asmuo buvo pripažintas kaltu dėl nusikalstamos veikos, kuri vėliau dekriminalizuota, arba kad asmuo užsienio valstybės teismo buvo pripažintas kaltu dėl veikos, kuri pagal Lietuvos Respublikos teisę nelaikoma nusikalstama ar už kurią patraukimas baudžiamojon atsakomybėn laikomas politiniu persekiojimu.Vyriausiosios rinkimų komisijos leidžiamame plakate su kandidatų sąrašu prie kandidato pavardės turi būti pažymėta: „Teismo nuosprendžiu yra pripažintas kaltu dėl nusikaltimo padarymo“ ir neturi būti pažymėta, jei kandidatas į Europos Parlamentą anketoje pateikė duomenis, kad jis okupacinio režimo teismo buvo pripažintas kaltu dėl nusikaltimo valstybei, arba pagrįstai nurodė, kad teismo sprendimu jis buvo pripažintas kaltu dėl nusikalstamos veikos, kuri vėliau dekriminalizuota, arba kai asmuo užsienio valstybės teismo buvo pripažintas kaltu dėl veikos, kuri pagal Lietuvos Respublikos teisę nelaikoma nusikalstama ar už kurią patraukimas baudžiamojon atsakomybėn laikomas politiniu persekiojimu.“
+2. Pakeisti 93 straipsnio 4 dalį ir ją išdėstyti taip:
+„4. Jeigu kandidatas apie turėtą teismo paskirtą bausmę nenurodė, kaip to reikalaujama šio straipsnio 3 dalyje, arba pateikė tikrovės neatitinkančius duomenis ir per 10 paskutinių metų iki nustatytosios dienos yra įsiteisėjęs Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės teismo nuosprendis, kuriuo asmuo pripažintas kaltu dėl nusikalstamos veikos padarymo, arba yra įsiteisėjęs teismo nuosprendis, kuriuo asmuo bet kada buvo pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo padarymo (išskyrus atvejį, kai asmuo okupacinio režimo teismo buvo pripažintas kaltu dėl nusikaltimo valstybei), Vyriausioji rinkimų komisija jo neregistruoja kandidatu, o jei buvo įregistravusi, nedelsdama panaikina jo registraciją kandidatu. Jei kandidatas to nenurodė ir po rinkimų nustatoma, kad per 10 paskutinių metų iki nustatytosios dienos yra įsiteisėjęs Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės teismo nuosprendis, kuriuo asmuo pripažintas kaltu dėl nusikalstamos veikos padarymo, arba yra įsiteisėjęs teismo nuosprendis, kuriuo asmuo bet kada buvo pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo padarymo (išskyrus atvejį, kai asmuo okupacinio režimo teismo buvo pripažintas kaltu dėl nusikaltimo valstybei), Vyriausioji rinkimų komisija per 15 dienų teismo nuosprendžio dėl asmens pripažinimo kaltu ir kandidato į Europos Parlamento narius anketos nuorašus perduoda Lietuvos vyriausiajam administraciniam teismui, kad šis priimtų sprendimą, kuriuo asmuo pripažįstamas pažeidusiu šio straipsnio 3 dalies reikalavimą. Jeigu Lietuvos vyriausiasis administracinis teismas priima sprendimą pripažinti asmenį pažeidusiu šio straipsnio 3 dalies reikalavimą, Vyriausioji rinkimų komisija per 5 darbo dienas po teismo sprendimo įsiteisėjimo privalo pripažinti šį asmenį netekusiu Europos Parlamento nario mandato, apie tai paskelbti internete ir artimiausiame „Valstybės žinių“ numeryje ir pranešti Europos Parlamentui. Laisva Europos Parlamento nario vieta užimama šio Įstatymo 92 straipsnyje nustatyta tvarka.“
+
+#### 4 straipsnis. Įstatymo papildymas 95 straipsniu
+Papildyti Įstatymą 95 straipsniu:
+„**95****straipsnis.****Baigiamosios nuostatos**
+Šiame Įstatyme nustatyta rinkimų į Europos Parlamentą rengimo ir vykdymo tvarka negali būti keičiama likus mažiau kaip šešiems mėnesiams iki rinkimų į Europos Parlamentą dienos, išskyrus atvejus, kai būtina pašalinti šio Įstatymo ar jo dalies prieštaravimą Lietuvos Respublikos Konstitucijai arba kai šis Įstatymas yra keičiamas Vyriausiosios rinkimų komisijos įstatymo 3 straipsnio 10 dalyje nustatyta tvarka.“
+*Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.*
+RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+_________________
+
