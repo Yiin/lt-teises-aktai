@@ -19,8 +19,11 @@ Neoficialus įstatymo tekstas
 LIETUVOS RESPUBLIKOS
 POLICIJOS VEIKLOS 
 ĮSTATYMAS
+ 
 2000 m. spalio 17 d. Nr. VIII-2048
 Vilnius
+ 
+ 
 PIRMASIS
 SKIRSNIS
 BENDROSIOS
@@ -65,19 +68,19 @@ rizikos asmenų grupė – asmenys, kurie teisės aktų nustatyta tvarka įrašy
 į profilaktines sveikatos priežiūros įstaigų ar policijos įskaitas. 
 5. Policijos
 pareigūno statusas – šio ir kitų įstatymų apibrėžtų tarnybinių teisių ir
-pareigų visuma, nustatyta teisės aktuose, reglamentuojančiuose policijos
-pareigūno priėmimą ir atleidimą iš tarnybos, jo teises, pareigas, atsakomybę,
-darbo užmokestį, socialines bei kitas garantijas. 
+pareigų visuma, nustatyta teisės aktuose, reglamentuojančiuose policijos pareigūno
+priėmimą ir atleidimą iš tarnybos, jo teises, pareigas, atsakomybę, darbo
+užmokestį, socialines bei kitas garantijas. 
 6. Bendra
 operacija – Europos Sąjungos teisės aktuose ar Lietuvos Respublikos
 tarptautinėse sutartyse numatyta viešosios tvarkos ir saugumo palaikymo ir
 nusikalstamų veikų prevencijos tikslais bendro patruliavimo, antiteroristinė,
 pagalbos teikimo didelių susibūrimų ir panašių didelių renginių, nelaimių ar
-didelių avarijų atvejais operacija Lietuvos Respublikos teritorijoje, vykdoma
-pasitelkus Europos Sąjungos ir (ar) asocijuotų Šengeno valstybių narių
-teisėsaugos pareigūnus, arba operacija Europos Sąjungos ir (ar) asocijuotų
-Šengeno valstybių narių teritorijoje, vykdoma pasitelkus Lietuvos Respublikos
-policijos pareigūnus.
+didelių avarijų atvejais operacija Lietuvos Respublikos teritorijoje, vykdoma pasitelkus
+Europos Sąjungos ir (ar) asocijuotų Šengeno valstybių narių teisėsaugos
+pareigūnus, arba operacija Europos Sąjungos ir (ar) asocijuotų Šengeno
+valstybių narių teritorijoje, vykdoma pasitelkus Lietuvos Respublikos policijos
+pareigūnus.
 Straipsnio pakeitimai:
 Nr. XI-444,
 2009-10-22, Žin., 2009, Nr. 130-5637 (2009-10-31)
@@ -273,8 +276,8 @@ tvarka.
 2. Policija gali
 steigti visuomenės informavimo priemones, kuriose visuomenei būtų teikiama
 informacija apie nusikalstamų veikų ir kitų teisės pažeidimų prevencijos
-priemonių, kitų policijos uždavinių įgyvendinimą bei skelbiama kita su policijos
-veikla susijusi informacija.
+priemonių, kitų policijos uždavinių įgyvendinimą bei skelbiama kita su
+policijos veikla susijusi informacija.
  
 10
 straipsnis. Policijos veiklos kontrolė 
@@ -353,9 +356,8 @@ vedėjas. Poskyrio viršininkas gali turėti pavaduotoją.
 struktūrinis padalinys, kuris gali būti steigiamas visose policijos įstaigose
 ir jų struktūriniuose padaliniuose. Grupė sudaroma iš ne mažiau kaip 3
 pareigybių. Grupei, kuri yra policijos įstaigos struktūrinis padalinys,
-vadovauja vyriausiasis specialistas (vyriausiasis tyrėjas), grupei, kuri yra
-struktūrinio padalinio struktūrinė dalis, – vyresnysis specialistas (vyresnysis
-tyrėjas). 
+vadovauja vyriausiasis specialistas (vyriausiasis tyrėjas), grupei, kuri yra struktūrinio
+padalinio struktūrinė dalis, – vyresnysis specialistas (vyresnysis tyrėjas). 
 13.
 Policijos nuovada yra teritorinių policijos įstaigų struktūrinis padalinys.
 Policijos nuovada gali būti ir policijos komisariato struktūrinė dalis.
@@ -364,7 +366,8 @@ gali būti steigiamos grupės. Policijos nuovadai vadovauja viršininkas.
 14.
 Tipinę policijos įstaigų valdymo organizacinę struktūrą nustato ir tvirtina
 policijos generalinis komisaras.
-Straipsnio pakeitimai:
+Straipsnio
+pakeitimai:
 Nr.
 X-1704,
 2008-07-15, Žin., 2008, Nr. 87-3464 (2008-07-31)
@@ -383,8 +386,8 @@ koordinuoja vadovaujamų įstaigų veiklą;
 vadovaujamų įstaigų veiklai būtiną materialinį techninį aprūpinimą;
 4) teisės aktų
 nustatyta tvarka steigia teritorines, specializuotas policijos įstaigas ir
-policijos profesinio ugdymo įstaigas, tvirtina šių įstaigų vidaus struktūrą ir
-pareigybių sąrašus;
+policijos profesinio ugdymo įstaigas, tvirtina šių įstaigų vidaus struktūrą ir pareigybių
+sąrašus;
 5) įstatymų
 nustatyta tvarka rengia ir teikia Finansų ministerijai Policijos departamento
 biudžeto projektą;
@@ -420,11 +423,11 @@ penkerių metų kadencijai skiria ir atleidžia Respublikos Prezidentas. Policij
 generalinis komisaras yra tiesiogiai pavaldus vidaus reikalų ministrui bei
 atskaitingas Respublikos Prezidentui.
 5. Policijos
-generaliniu komisaru gali būti ne jaunesnis kaip 35 metų asmuo, įgijęs teisės
-magistro kvalifikacinį laipsnį arba vienpakopį aukštąjį teisinį ar jam
-prilygintą išsilavinimą ir ne mažiau kaip trejus metus dirbęs Policijos
-departamento tarnybos, specializuotos policijos įstaigos ar teritorinės
-policijos įstaigos arba policijos profesinio mokymo įstaigos vadovu.
+generaliniu komisaru gali būti ne jaunesnis kaip 35 metų asmuo, įgijęs teisės magistro
+kvalifikacinį laipsnį arba vienpakopį aukštąjį teisinį ar jam prilygintą
+išsilavinimą ir ne mažiau kaip trejus metus dirbęs Policijos departamento
+tarnybos, specializuotos policijos įstaigos ar teritorinės policijos įstaigos
+arba policijos profesinio mokymo įstaigos vadovu.
 6. Policijos generalinis komisaras gali būti atleistas iš pareigų:
 1) savo noru;
 2) dėl sveikatos
@@ -497,10 +500,11 @@ Teritorinės policijos įstaigos veiklos ribas nustato policijos generalinis
 komisaras.
 2.
 Teritorinės policijos įstaigos funkcijoms įgyvendinti savivaldybės teritorijoje
-gali būti steigiami policijos komisariatai, vienos ar kelių seniūnijų
-teritorijose – policijos nuovados. Policijos komisariatus,
-policijos nuovadas, suderinęs su policijos generaliniu komisaru, steigia ir jų
-nuostatus tvirtina teritorinės policijos įstaigos viršininkas.
+gali būti steigiami policijos komisariatai, vienos ar kelių seniūnijų teritorijose
+– policijos
+nuovados. Policijos komisariatus, policijos nuovadas, suderinęs su policijos
+generaliniu komisaru, steigia ir jų nuostatus tvirtina teritorinės policijos
+įstaigos viršininkas.
 3. Teritorinės
 policijos įstaigos atlieka šias funkcijas:
 1) atsižvelgdamos į kriminogeninę padėtį ir vietos gyventojų
@@ -516,8 +520,8 @@ ar esantiems bejėgiškos būklės asmenims teikia neatidėliotiną gyvybei,
 sveikatai ar turtui išsaugoti reikalingą pagalbą;
 5) policijos
 generalinio komisaro nustatyta tvarka saugo rastus ir
-perduotus policijai dokumentus, daiktus, vertybes ir kitokį turtą ir imasi priemonių
-grąžinti juos teisėtiems savininkams ar valdytojams;
+perduotus policijai dokumentus, daiktus, vertybes ir kitokį turtą ir imasi
+priemonių grąžinti juos teisėtiems savininkams ar valdytojams;
 6) atlieka eismo automobilių keliais priežiūrą
 ir policijos generalinio komisaro nustatyta tvarka patruliuoja
 viešose vietose; 
@@ -629,10 +633,10 @@ Lietuvos Respublikos įstatymų ir Europos Sąjungos teisės aktų nustatytais
 atvejais policijos pareigūnai gali būti siunčiami į užsienio valstybes, jų
 institucijas, įstaigas ir tarptautines organizacijas atstovauti policijai,
 atlikti kitas su policijos uždavinių įgyvendinimu susijusias funkcijas,
-siunčiami į tarnybines komandiruotes dalyvauti bendrose operacijose. Šių
-policijos pareigūnų teises, pareigas, atsakomybę ir socialines garantijas
-nustato šis įstatymas, Europos Sąjungos teisės aktai, Lietuvos Respublikos
-tarptautinės sutartys ir kiti teisės aktai.
+siunčiami į tarnybines komandiruotes dalyvauti bendrose operacijose. Šių policijos
+pareigūnų teises, pareigas, atsakomybę ir socialines garantijas nustato šis
+įstatymas, Europos Sąjungos teisės aktai, Lietuvos Respublikos tarptautinės
+sutartys ir kiti teisės aktai.
 5.
 Europos Sąjungos ir asocijuotų Šengeno valstybių narių teisėsaugos pareigūnai,
 paskirti dalyvauti bendrose operacijose Lietuvos Respublikos teritorijoje,
@@ -801,6 +805,16 @@ organizacijos administracijos atstovu, savininku arba jo atstovu;
 tirti baudžiamąsias bylas, sudaryti kriminalistines įskaitas (kartotekas ir
 kolekcijas) bei atlikti kitus įstatymų bei kitų teisės aktų nustatytus
 veiksmus.
+7 punkto
+redakcija nuo 2013-01-01:
+7) pagal savo kompetenciją vykdyti kriminalinę žvalgybą, tirti
+baudžiamąsias bylas, sudaryti kriminalistines įskaitas (kartotekas ir
+kolekcijas) bei atlikti kitus įstatymų bei kitų teisės aktų nustatytus
+veiksmus.
+Straipsnio pakeitimai:
+Nr.
+XI-2256,
+2012-10-02, Žin., 2012, Nr. 122-6115 (2012-10-20)
  
 21
 straipsnis. Policijos pareigūno pareigos 
@@ -814,10 +828,10 @@ būdamas įvykio liudininku, imtis neatidėliotinų priemonių užkirsti kelią
 daromai nusikalstamai veikai ar kitam teisės pažeidimui, įvykio vietai bei
 įrodymams apsaugoti, nusikalstamos veikos liudininkams nustatyti, sulaikyti ir
 pristatyti į policijos įstaigą asmenį, padariusį įstatymų uždraustą veiką, bei
-pranešti apie tai policijos įstaigai. Šio punkto reikalavimai (išskyrus
-reikalavimą pranešti apie tai policijos įstaigai) netaikomi policijos
-pareigūnui tais atvejais, kai šios pareigos vykdymas iš esmės pakenktų
-specialios kompetencijos policijos įstaigos uždaviniams įgyvendinti;
+pranešti apie tai policijos įstaigai. Šio punkto reikalavimai (išskyrus reikalavimą
+pranešti apie tai policijos įstaigai) netaikomi policijos pareigūnui tais
+atvejais, kai šios pareigos vykdymas iš esmės pakenktų specialios kompetencijos
+policijos įstaigos uždaviniams įgyvendinti;
 3) užtikrinti
 sulaikyto ar pristatyto į policijos įstaigą asmens teises ir teisėtus
 interesus, suteikti neatidėliotiną pagalbą asmeniui, nukentėjusiam nuo teisės
@@ -829,8 +843,8 @@ atvejais;
 5) laikyti
 paslaptyje konfidencialaus pobūdžio informaciją, jeigu ko nors kita
 nereikalauja tarnybinių pareigų vykdymas.
-2. Policijos pareigūnas privalo vykdyti ir kitas įstatymų jam
-nustatytas pareigas.
+2. Policijos pareigūnas privalo vykdyti ir kitas įstatymų jam nustatytas
+pareigas.
 3. Vykdydamas
 tarnybines pareigas, policijos pareigūnas privalo prisistatyti. Jei policijos
 pareigūnas neturi skiriamųjų policijos ženklų (specialios aprangos (uniformos)
@@ -841,13 +855,14 @@ pareigūnas privalo pateikti tarnybinį pažymėjimą.
 straipsnis. Policijos pareigūno atsakomybė 
 1. Policijos
 pareigūnas asmeniškai atsako už savo veiksmus ir sprendimus bei jų padarinius.
-2. Policijos pareigūnas,
-vykdydamas jam patikėtas pareigas ir pažeidęs įstatymo reikalavimus, įstatymų
-ir kitų teisės aktų nustatyta tvarka, atsižvelgiant į pažeidimo pobūdį,
-traukiamas tarnybinėn, administracinėn, materialinėn ar baudžiamojon
-atsakomybėn. 
-3. Žinomai neteisėto
-įsakymo ar nurodymo vykdymas policijos pareigūno nuo atsakomybės neatleidžia.
+2. Policijos
+pareigūnas, vykdydamas jam patikėtas pareigas ir pažeidęs įstatymo
+reikalavimus, įstatymų ir kitų teisės aktų nustatyta tvarka, atsižvelgiant į
+pažeidimo pobūdį, traukiamas tarnybinėn, administracinėn, materialinėn ar
+baudžiamojon atsakomybėn. 
+3. Žinomai
+neteisėto įsakymo ar nurodymo vykdymas policijos pareigūno nuo atsakomybės
+neatleidžia.
 4. Neteisėta
 policijos pareigūno veika fiziniam ar juridiniam asmeniui padarytą žalą
 atlygina valstybė teisės aktų nustatyta tvarka.
@@ -886,8 +901,8 @@ tačiau šias psichinės prievartos priemones galima naudoti tik šio įstatymo 
 straipsnio 2 ir 4 dalyse išvardytomis sąlygomis.
 4. Fizinė
 prievarta šiame įstatyme suprantama kaip:
-1) bet kokio
-pobūdžio fizinės jėgos bei kovinių imtynių veiksmų naudojimas;
+1) bet kokio pobūdžio
+fizinės jėgos bei kovinių imtynių veiksmų naudojimas;
 2) specialiųjų
 priemonių, t. y. policijos ginkluotėje esamų lazdų, antrankių bei surišimo
 priemonių, dujų, tarnybinių šunų, transporto priverstinio sustabdymo bei kitų
@@ -1000,8 +1015,8 @@ ar sulaikytas asmuo bando panaudoti prievartą arba artinasi prie policijos
 pareigūno bei neklauso jo reikalavimo laikytis nurodyto atstumo, arba kėsinasi
 atimti iš policijos pareigūno šaunamąjį ginklą. Jeigu panaudotos prievartos
 priemonės yra neveiksmingos arba jų panaudojimas yra neįmanomas dėl asmens
-daromų veiksmų intensyvumo, o delsimas kelia grėsmę policijos pareigūno
-gyvybei, policijos pareigūnas gali panaudoti šaunamąjį ginklą.
+daromų veiksmų intensyvumo, o delsimas kelia grėsmę policijos pareigūno gyvybei,
+policijos pareigūnas gali panaudoti šaunamąjį ginklą.
  
 PENKTASIS SKIRSNIS
 POLICIJOS
@@ -1012,13 +1027,13 @@ straipsnis. Policijos finansavimas
 1. Policija
 finansuojama iš valstybės biudžeto. Policijos departamentas turi atskirą
 išlaidų sąmatą. 
-2. Teritorinių
-policijos įstaigų ir savivaldybių institucijų susitarimu kuriamos ir
-įgyvendinamos bendros programos, skirtos nusikalstamumo prevencijai, gyventojų
-gyvybės, sveikatos bei turto, taip pat viešosios tvarkos apsaugai,
-finansuojamos iš savivaldybių biudžetų. Savivaldybių institucijos iš savo
-biudžeto gali finansuoti ir kitas teritorinių policijos įstaigų įgyvendinamas
-programas, susijusias su vietos gyventojų saugumo užtikrinimu.
+2. Teritorinių policijos
+įstaigų ir savivaldybių institucijų susitarimu kuriamos ir įgyvendinamos
+bendros programos, skirtos nusikalstamumo prevencijai, gyventojų gyvybės,
+sveikatos bei turto, taip pat viešosios tvarkos apsaugai, finansuojamos iš
+savivaldybių biudžetų. Savivaldybių institucijos iš savo biudžeto gali
+finansuoti ir kitas teritorinių policijos įstaigų įgyvendinamas programas,
+susijusias su vietos gyventojų saugumo užtikrinimu.
 3. Policijos
 finansavimui gali būti naudojamos ir kitos įstatymų nustatyta tvarka gautos
 nebiudžetinės lėšos.
@@ -1054,9 +1069,9 @@ straipsniais įstatymo (Žin., 1997, Nr. 69-1734) 1, 2, 3,
 Respublikos Aukščiausiosios Tarybos – Atkuriamojo Seimo 1990 m. gruodžio 11 d. nutarimas Nr. I-852 „Dėl Lietuvos Respublikos policijos įstatymo įsigaliojimo“
 (Žin., 1991, Nr. 2-23).
  
- 
 Skelbiu
 šį Lietuvos Respublikos Seimo priimtą įstatymą. 
+ 
  
  
 RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS 
@@ -1086,7 +1101,6 @@ papildytas priedu:
 Nr. XI-444,
 2009-10-22, Žin., 2009, Nr. 130-5637 (2009-10-31)
  
-________________
  
 Pakeitimai:
  
@@ -1164,11 +1178,21 @@ XI-1900,
 POLICIJOS
 VEIKLOS ĮSTATYMO 14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+9.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-2256,
+2012-10-02, Žin., 2012, Nr. 122-6115 (2012-10-20)
+POLICIJOS
+VEIKLOS ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2013 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
  
- 
 Redagavo
-Aušrinė Trapinskienė (2012-01-10)
+Aušrinė Trapinskienė (2012-10-25)
                  
 ausrine.trapinskiene@lrs.lt
