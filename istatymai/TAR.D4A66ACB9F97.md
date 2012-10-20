@@ -26,7 +26,7 @@ Neoficialus
 LIETUVOS RESPUBLIKOS
 GYVENTOJŲ TURTO
 DEKLARAVIMO
-Į S T A T Y M A S
+ĮSTATYMAS
 Įstatymo
 pavadinimas keistas:
 Nr.
@@ -105,6 +105,11 @@ Lietuvos kariuomenės vadas, kariuomenės vado pavaduotojai ir jų šeimos naria
 krašto apsaugos sistemos profesinės karo tarnybos kariai, kurių veiklą
 reglamentuoja Operatyvinės veiklos įstatymas, profesinės karo tarnybos
 karininkai ir jų šeimos nariai;
+14 punkto redakcija nuo 2013-01-01:
+14) profesinės
+karo tarnybos karininkai ir jų šeimos nariai, žvalgybos pareigūnai ir jų šeimos
+nariai;
+ 
 15)
 Lietuvos banko valdybos nariai ir jų šeimos nariai;
 16)
@@ -135,8 +140,8 @@ gyventojai, pageidaujantys gauti piniginę socialinę paramą, ir jų šeimos
 nariai;
 25)
 gyventojai, pageidaujantys gauti valstybės garantuojamą teisinę pagalbą,
-kuriems pagal Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymą
-reikia deklaruoti turtą (įskaitant gautas pajamas);
+kuriems pagal Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos
+įstatymą reikia deklaruoti turtą (įskaitant gautas pajamas);
 26)
 šio Įstatymo 3 straipsnio 2 dalyje nurodytą turtą turintys sulaukę 18 metų
 nuolatiniai Lietuvos gyventojai, taip pat sulaukę 18 metų ir vyresni asmenys,
@@ -147,9 +152,9 @@ aukojantys savarankiškam politinės kampanijos dalyviui, ir jų šeimos
 nariai, išskyrus asmenis, kurių auka (aukų suma) vienam savarankiškam politinės
 kampanijos dalyviui per politinę kampaniją neviršija 40 litų;
 28)
-gyventojai, pageidaujantys gauti valstybės paramą būstui įsigyti ar
-išsinuomoti pagal Valstybės paramos būstui įsigyti ar išsinuomoti ir
-daugiabučiams namams atnaujinti (modernizuoti) įstatymą, ir jų šeimos nariai;
+gyventojai, pageidaujantys gauti valstybės paramą būstui įsigyti ar išsinuomoti
+pagal Valstybės paramos būstui įsigyti ar išsinuomoti ir daugiabučiams namams
+atnaujinti (modernizuoti) įstatymą, ir jų šeimos nariai;
 *29)
 kredito įstaigų tarybų ir (ar) valdybų nariai, administracijų vadovai,
 administracijų vadovų pavaduotojai ir jų šeimos nariai;
@@ -206,8 +211,8 @@ Nr. XI-1992,
 2012-04-26, Žin., 2012, Nr. 50-2446 (2012-04-28)
 Nr. XI-2100,
 2012-06-21, Žin., 2012, Nr. 78-4022 (2012-07-04)
- 
- 
+Nr. XI-2246,
+2012-10-02, Žin., 2012, Nr. 122-6105 (2012-10-20)
  
 3 straipsnis. Deklaruojamas
 turtas
@@ -249,6 +254,13 @@ straipsnio 1 ir 2 dalyse nurodytas turtas.
 4.
 Turtas, gautas už suteiktą pagalbą slaptai bendradarbiaujant su operatyvinės
 veiklos subjektais ir kitais įstatymų nustatytais atvejais, nedeklaruojamas.
+4 dalies redakcija nuo 2013-01-01:
+4. Turtas,
+gautas už suteiktą pagalbą slaptai bendradarbiaujant su kriminalinės
+žvalgybos
+subjektais, žvalgybos institucijomis ir kitais įstatymų nustatytais atvejais,
+nedeklaruojamas.
+ 
 5. Šio Įstatymo
 2 straipsnio 1 dalies 24, 25, 27 ir 28 punktuose nurodyti gyventojai deklaruoja
 ir gautas pajamas.
@@ -262,6 +274,8 @@ Nr. XI-1052,
 2010-10-12, Žin., 2010, Nr. 125-6377 (2010-10-23)
 Nr. XI-1278,
 2011-03-15, Žin., 2011, Nr. 37-1757 (2011-03-29)
+Nr. XI-2246,
+2012-10-02, Žin., 2012, Nr. 122-6105 (2012-10-20)
  
 4
 straipsnis. Deklaruoto turto įsigijimo šaltinių pagrindimas
@@ -299,8 +313,8 @@ kuriuos deklaruojamas turimas turtas, gegužės 1 dienos, išskyrus šio Įstaty
 6, 7, 71 ir 72 straipsniuose nustatytus atvejus.
 3. Gali būti
 tikslinami penkerių praėjusių kalendorinių metų deklaracijų duomenys, pradedant
-skaičiuoti nuo kalendorinių metų, buvusių prieš tuos kalendorinius metus,
-kuriais tikslinama.
+skaičiuoti nuo kalendorinių metų, buvusių prieš tuos kalendorinius metus, kuriais
+tikslinama.
 4. Deklaracijos
 formą, jos pildymo ir pateikimo tvarką nustato centrinis mokesčio
 administratorius. Gyventojai, pagal šį Įstatymą deklaruojantys turtą,
@@ -310,18 +324,27 @@ Respublikos operatyvinės veiklos subjektų teises turinčių valstybės institu
 valstybės tarnautojai ir pareigūnai, kurių veiklą reglamentuoja Operatyvinės
 veiklos įstatymas, ir jų šeimos nariai turtą deklaruoja atskirais Vyriausybės
 arba jos įgaliotos institucijos nustatytais terminais ir tvarka.
+5 dalies redakcija nuo 2013-01-01:
+5. Kriminalinės
+žvalgybos subjektų valstybės tarnautojai ir pareigūnai, kurių veiklą
+reglamentuoja Kriminalinės žvalgybos įstatymas ir Žvalgybos įstatymas, ir jų
+šeimos nariai bei žvalgybos pareigūnai ir jų šeimos nariai turtą deklaruoja
+atskirais Vyriausybės arba jos įgaliotos institucijos nustatytais terminais ir
+tvarka.
 Straipsnio
 pakeitimai:
-Nr. XI-684,
-2010-02-11, Žin., 2010, Nr. 25-1178 (2010-03-02)
+Nr. XI-684, 2010-02-11,
+Žin., 2010, Nr. 25-1178 (2010-03-02)
 Nr. XI-1278,
 2011-03-15, Žin., 2011, Nr. 37-1757 (2011-03-29)
-Nr. XI-1785,
-2011-12-06, Žin., 2011, Nr. 153-7210 (2011-12-15)
+Nr. XI-1785, 2011-12-06,
+Žin., 2011, Nr. 153-7210 (2011-12-15)
 *Pastaba: šio įstatymo nuostatos taikomos
 apskaičiuojant ir deklaruojant 2011 metų ir vėlesnių metų turtą.
 Nr. XI-2100,
 2012-06-21, Žin., 2012, Nr. 78-4022 (2012-07-04)
+Nr. XI-2246,
+2012-10-02, Žin., 2012, Nr. 122-6105 (2012-10-20)
  
 6
 straipsnis. Kandidatų į valstybės politikus ir į Europos Parlamento narius,
@@ -333,10 +356,10 @@ pareigų atleistų valstybės tarnautojų ir jų šeimos narių turto deklaravim
 valstybės politikus bei į Europos Parlamento narius ir jų šeimos nariai privalo
 deklaruoti kalendorinių metų, einančių prieš kalendorinius metus, kuriais
 kandidatuojama, gruodžio 31 dieną turimą turtą. Šiems gyventojams vietos
-mokesčio administratorius per 15 darbo dienų nuo deklaracijos pateikimo dienos išduoda
-Vyriausiosios rinkimų komisijos patvirtintos formos pagrindinių deklaracijos
-duomenų išrašus, kuriuos jie privalo pateikti Vyriausiajai rinkimų komisijai ar
-apygardos rinkimų komisijai.
+mokesčio administratorius per 15 darbo dienų nuo deklaracijos pateikimo dienos
+išduoda Vyriausiosios rinkimų komisijos patvirtintos formos pagrindinių
+deklaracijos duomenų išrašus, kuriuos jie privalo pateikti Vyriausiajai rinkimų
+komisijai ar apygardos rinkimų komisijai.
 2. Išrinkti arba
 paskirti į pareigas valstybės politikai bei Europos Parlamento nariai ir jų
 šeimos nariai, taip pat priimti arba paskirti į pareigas valstybės tarnautojai
@@ -351,14 +374,14 @@ pareigas, gruodžio 31 dieną turimą turtą. Deklaracijos pateikiamos per 30 di
 nuo išrinkimo, paskyrimo arba priėmimo į pareigas pradžios. Išrinktiems arba
 paskirtiems į pareigas valstybės politikams bei Europos Parlamento nariams ir
 jų šeimos nariams, taip pat priimtiems arba paskirtiems į pareigas valstybės
-tarnautojams ir jų šeimos nariams, deklaravusiems turtą, vietos mokesčio administratorius
-per 15 darbo dienų nuo deklaracijos pateikimo dienos išduoda pažymas apie
-deklaracijų pateikimą, išskyrus tuos, kurie yra deklaravę kalendorinių metų,
-einančių prieš kalendorinius metus, kuriais valstybės politikai ar Europos
-Parlamento nariai buvo išrinkti arba paskirti į pareigas ar valstybės
-tarnautojai buvo priimti arba paskirti į pareigas, gruodžio 31 dieną turimą
-turtą ir kuriems vietos mokesčio administratorius per 5 darbo dienas išduoda
-pažymas apie deklaracijų pateikimą.
+tarnautojams ir jų šeimos nariams, deklaravusiems turtą, vietos mokesčio
+administratorius per 15 darbo dienų nuo deklaracijos pateikimo dienos išduoda
+pažymas apie deklaracijų pateikimą, išskyrus tuos, kurie yra deklaravę
+kalendorinių metų, einančių prieš kalendorinius metus, kuriais valstybės
+politikai ar Europos Parlamento nariai buvo išrinkti arba paskirti į pareigas
+ar valstybės tarnautojai buvo priimti arba paskirti į pareigas, gruodžio 31
+dieną turimą turtą ir kuriems vietos mokesčio administratorius per 5 darbo
+dienas išduoda pažymas apie deklaracijų pateikimą.
 *3. Nustoję eiti
 pareigas valstybės politikai bei Europos Parlamento nariai ir jų šeimos nariai,
 taip pat iš pareigų atleisti valstybės tarnautojai, antstoliai, notarai,
@@ -452,7 +475,6 @@ X-1496,
 2008-04-15, Žin., 2008, Nr. 50-1845 (2008-04-30)
 Nr. XI-1052,
 2010-10-12, Žin., 2010, Nr. 125-6377 (2010-10-23)
- 
  
 71 straipsnis. Atskaitinis turto
 deklaravimas
@@ -588,6 +610,35 @@ Seimo kontrolierių, valstybės saugumo sistemos valstybės tarnautojų ir jų
 teises turinčių valstybės institucijų valstybės tarnautojų ir pareigūnų, kurių
 veiklą reglamentuoja Operatyvinės veiklos įstatymas, ir jų šeimos narių
 deklaracijų duomenis, yra skelbiami be šių gyventojų rašytinio sutikimo.
+2 dalies redakcija nuo 2013-01-01:
+2. Kalendorinių
+metų, už kuriuos deklaruojamas turimas turtas, gruodžio 31 dieną ėjusių
+pareigas Respublikos Prezidento, Lietuvos Respublikos Seimo narių, Europos
+Parlamento narių, Ministro Pirmininko, ministrų, Ministro Pirmininko kanclerio,
+Ministro Pirmininko kanclerio pavaduotojų, Ministro Pirmininko tarnybos departamentų
+direktorių, Ministro Pirmininko patarėjų, viceministrų, savivaldybių tarybų
+narių, ministerijų kanclerių, Lietuvos Respublikos teismų pirmininkų, teismų
+pirmininkų pavaduotojų, teismų skyrių pirmininkų, teisėjų, Mokestinių ginčų
+komisijos prie Lietuvos Respublikos Vyriausybės narių, Vyriausiosios
+administracinių ginčų komisijos narių, generalinio prokuroro, generalinio
+prokuroro pavaduotojų, Generalinės prokuratūros struktūrinių padalinių, taip
+pat apygardų ir apylinkių prokuratūrų vadovų, valstybės kontrolieriaus,
+valstybės kontrolieriaus pavaduotojų, Valstybės kontrolės valstybės tarnautojų,
+Seimo kontrolierių, Lietuvos Respublikos Vyriausybės įstaigų (departamentų,
+agentūrų, tarnybų, inspekcijų), prie ministerijų įsteigtų departamentų,
+tarnybų, inspekcijų, kitų valstybės valdymo institucijų vadovų (generalinių
+direktorių, direktorių, viršininkų) ir vadovų pavaduotojų, Lietuvos banko
+valdybos pirmininko ir valdybos pirmininko pavaduotojų, Muitinės departamento
+prie Finansų ministerijos ir teritorinių muitinių valstybės tarnautojų,
+Valstybinės mokesčių inspekcijos prie Finansų ministerijos ir teritorinių
+mokesčių inspekcijų valstybės tarnautojų, Vidaus reikalų ministerijos valdymo
+srities statutinių įstaigų valstybės tarnautojų, valstybės saugumo sistemos
+valstybės tarnautojų ir jų šeimos narių deklaracijų duomenys, išskyrus
+kriminalinės žvalgybos subjektų valstybės tarnautojų ir pareigūnų, kurių veiklą
+reglamentuoja Kriminalinės žvalgybos įstatymas ir
+Žvalgybos įstatymas, ir jų šeimos narių bei žvalgybos pareigūnų ir jų šeimos
+narių deklaracijų duomenis, yra skelbiami be šių gyventojų rašytinio sutikimo.
+ 
 3. Centrinis
 mokesčio administratorius šio straipsnio 2 dalyje išvardytų gyventojų
 deklaracijų duomenis skelbia „Valstybės žinių“ specialiame priede. Pagrindinių
@@ -607,10 +658,12 @@ Pagrindinių deklaracijos duomenų išrašų pristatymo ir skelbimo terminai yra
 tokie pat, kaip nurodyta šio straipsnio 3 dalyje.
 Straipsnio
 pakeitimai:
-Nr. XI-322,
-2009-07-07, Žin., 2009, Nr. 85-3579 (2009-07-18)
+Nr. XI-322, 2009-07-07,
+Žin., 2009, Nr. 85-3579 (2009-07-18)
 Nr. XI-711,
 2010-03-30, Žin., 2010, Nr. 41-1936 (2010-04-10)
+Nr. XI-2246,
+2012-10-02, Žin., 2012, Nr. 122-6105 (2012-10-20)
  
 11
 straipsnis. Deklaracijai užpildyti reikalingų pažymų parengimas
@@ -788,8 +841,8 @@ TURTO DEKLARAVIMO ĮSTATYMO 2 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 16.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. X-1496,
-2008-04-15, Žin., 2008, Nr. 50-1845 (2008-04-30)
+Nr. X-1496, 2008-04-15,
+Žin., 2008, Nr. 50-1845 (2008-04-30)
 GYVENTOJŲ
 TURTO DEKLARAVIMO ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
@@ -898,8 +951,8 @@ turtą.
 26.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XI-1992,
-2012-04-26, Žin., 2012, Nr. 50-2446 (2012-04-28)
+Nr. XI-1992, 2012-04-26,
+Žin., 2012, Nr. 50-2446 (2012-04-28)
 GYVENTOJŲ
 TURTO DEKLARAVIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
@@ -911,11 +964,21 @@ Nr. XI-2100,
 GYVENTOJŲ
 TURTO DEKLARAVIMO ĮSTATYMO 2, 5 IR 7(2) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
+28.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-2246,
+2012-10-02, Žin., 2012, Nr. 122-6105 (2012-10-20)
+GYVENTOJŲ
+TURTO DEKLARAVIMO ĮSTATYMO 2, 3, 5 IR 10 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2013 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušra Bodin (2012-07-04)
+Aušrinė Trapinskienė (2012-10-22)
                  
-aubodi@lrs.lt
+ausrine.trapinskiene@lrs.lt
