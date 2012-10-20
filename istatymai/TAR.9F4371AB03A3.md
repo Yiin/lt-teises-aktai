@@ -16,14 +16,15 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9F4371AB03A3"
 Įstatymas skelbtas: Žin., 2004, Nr. 50-1632
 Neoficialus įstatymo tekstas
  
-Aktuali redakcija 2012-01-01
- 
 LIETUVOS RESPUBLIKOS
 ADVOKATŪROS 
 ĮSTATYMAS
+ 
 2004 m. kovo 18 d. Nr.
 IX-2066
 Vilnius
+ 
+ 
 PIRMASIS
 SKIRSNIS
 BENDROSIOS
@@ -47,9 +48,9 @@ klausimais, gynyba bei atstovavimas bylų procese, kai šie veiksmai atliekami u
 atlyginimą, išskyrus šio Įstatymo 4 straipsnio 5 dalyje nurodytą atvejį. 
 2. Šio
 straipsnio 1 dalyje nurodytas paslaugas gali teikti advokatai (advokato
-padėjėjai) ar advokatų profesinė bendrija. Kai paslaugas teikia ar veikia
-advokatų profesinė bendrija, jai mutatis mutandis kaip ir advokatui
-taikomos šio Įstatymo nuostatos. 
+padėjėjai) ar advokatų profesinė bendrija. Kai paslaugas teikia ar veikia advokatų
+profesinė bendrija, jai mutatis mutandis kaip ir advokatui taikomos šio
+Įstatymo nuostatos. 
 3. Europos
 Sąjungos valstybių narių, Europos ekonominės erdvės valstybių ar Šveicarijos
 Konfederacijos piliečiai teisininkai paslaugas teikia šio Įstatymo dvyliktojo
@@ -96,8 +97,8 @@ turi teisę teikti teisines paslaugas nemokamai, t. y. teikti teisinę pagalbą.
 Straipsnio pakeitimai:
 Nr. X-334, 2005-07-07,
 Žin., 2005, Nr. 88-3296 (2005-07-21)
-Nr. X-1004,
-2006-12-21, Žin., 2007, Nr. 4-156 (2007-01-11)
+Nr. X-1004, 2006-12-21,
+Žin., 2007, Nr. 4-156 (2007-01-11)
  
 5
 straipsnis.
@@ -148,10 +149,10 @@ kvalifikacinį laipsnį (vienpakopį teisinį universitetinį išsilavinimą) ir
 pradėjo dirbti teisinį darbą; 
 4) yra
 nepriekaištingos reputacijos;
-5) moka valstybinę
-kalbą;
-6) išlaikė
-advokato kvalifikacinį egzaminą;
+5) moka
+valstybinę kalbą;
+6) išlaikė advokato
+kvalifikacinį egzaminą;
 7) neturi
 sveikatos sutrikimų, dėl kurių negalėtų atlikti advokato pareigų. Pareiškėjų ir
 advokatų sveikatos reikalavimus bei sveikatos tikrinimo tvarką nustato Lietuvos
@@ -371,8 +372,8 @@ teisę per trisdešimt dienų kreiptis į Vilniaus apygardos teismą su prašymu
 ir advokato pažymėjimą.
 4. Užsienio
 valstybių advokatai verstis advokato veikla Lietuvoje gali tik pagal Lietuvos
-Respublikos tarptautines sutartis dėl teisinės pagalbos, išskyrus šio Įstatymo
-dvyliktajame ir tryliktajame skirsniuose numatytus atvejus.
+Respublikos tarptautines sutartis dėl teisinės pagalbos, išskyrus šio Įstatymo dvyliktajame
+ir tryliktajame skirsniuose numatytus atvejus.
  
 18
 straipsnis.
@@ -394,10 +395,9 @@ nurodytų dokumentų gavimo dienos, jeigu advokatas įvykdė šio Įstatymo 17
 straipsnio reikalavimus.
 3. Advokatas,
 kuris per šio straipsnio 2 dalyje nustatytą terminą neįrašomas į Lietuvos
-praktikuojančių advokatų sąrašą, per trisdešimt dienų nuo įrašymo termino
-pabaigos dienos turi teisę kreiptis į Vilniaus apygardos teismą su prašymu
-įpareigoti Lietuvos advokatūrą įrašyti jį į Lietuvos praktikuojančių advokatų
-sąrašą. 
+praktikuojančių advokatų sąrašą, per trisdešimt dienų nuo įrašymo termino pabaigos
+dienos turi teisę kreiptis į Vilniaus apygardos teismą su prašymu įpareigoti
+Lietuvos advokatūrą įrašyti jį į Lietuvos praktikuojančių advokatų sąrašą. 
  
 19
 straipsnis. Advokato priesaika
@@ -421,8 +421,8 @@ ištikimas (-a) Lietuvos Respublikai, laikytis jos Konstitucijos ir įstatymų,
 padėti ginti žmogaus teises, laisves ir teisėtus interesus, dorai ir sąžiningai
 atlikti advokato pareigas, saugoti profesines paslaptis ir savo elgesiu
 nepakenkti advokato vardui“.
-3. [Neteko
-galios nuo 2006.06.28].
+3. (Neteko
+galios nuo 2006-06-28)
 4. Advokatas
 prisiekia dėvėdamas mantiją.
 5. Perskaitęs
@@ -434,9 +434,9 @@ advokato priesaiką pateikimo teisingumo ministrui dienos. Prašymą priimti
 advokato priesaiką gali pateikti tik asmuo, šio Įstatymo antrojo skirsnio
 nustatyta tvarka pripažintas advokatu. 
 7. Pakartotinai
-į Lietuvos praktikuojančių advokatų sąrašą įrašomam advokatui prisiekti
-nereikia, išskyrus atvejį, kai buvo pripažintas negaliojančiu sprendimas
-pripažinti asmenį advokatu.
+į Lietuvos praktikuojančių advokatų sąrašą įrašomam advokatui prisiekti nereikia,
+išskyrus atvejį, kai buvo pripažintas negaliojančiu sprendimas pripažinti
+asmenį advokatu.
 Straipsnio
 pakeitimai:
 Nr.
@@ -473,12 +473,12 @@ gali pats papildomai draustis advokato profesinės civilinės atsakomybės
 privalomuoju draudimu už vykdant advokato veiklą fiziniams ar juridiniams
 asmenims padarytą žalą.
 6.
-Draudikas, kuris teisės aktų nustatyta tvarka turi teisę vykdyti advokatų profesinės
-civilinės atsakomybės privalomąjį draudimą, privalo sudaryti advokato
-profesinės civilinės atsakomybės privalomojo draudimo sutartį su advokatu,
-pateikusiu prašymą ir visus šiai sutarčiai sudaryti būtinus dokumentus.
-Advokatų profesinės civilinės atsakomybės privalomojo draudimo taisykles
-tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. 
+Draudikas, kuris teisės aktų nustatyta tvarka turi teisę vykdyti advokatų
+profesinės civilinės atsakomybės privalomąjį draudimą, privalo sudaryti
+advokato profesinės civilinės atsakomybės privalomojo draudimo sutartį su
+advokatu, pateikusiu prašymą ir visus šiai sutarčiai sudaryti būtinus
+dokumentus. Advokatų profesinės civilinės atsakomybės privalomojo draudimo
+taisykles tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. 
 7. Advokatas,
 įrašytas į Lietuvos praktikuojančių advokatų sąrašą, privalo Lietuvos
 advokatūrai pateikti advokato profesinės civilinės atsakomybės privalomojo draudimo
@@ -487,8 +487,8 @@ dienos.
 8. Advokatas
 privalo kliento reikalavimu pateikti advokato profesinės civilinės atsakomybės
 privalomojo draudimo liudijimą (polisą). 
-9. Advokato, advokato
-padėjėjų ir kitų advokato ar advokatų profesinės bendrijos darbuotojų
+9. Advokato,
+advokato padėjėjų ir kitų advokato ar advokatų profesinės bendrijos darbuotojų
 neteisėtais veiksmais vykdant advokato veiklą padarytą žalą atlygina
 draudikas išmokėdamas draudimo sumos neviršijančią draudimo išmoką. Jeigu
 draudimo išmokos nepakanka visai žalai atlyginti, žalą padaręs advokatas
@@ -506,8 +506,7 @@ juridinio asmens;
 3) įsteigdami juridinį asmenį – advokatų
 profesinę bendriją. 
 2. Advokatas
-turi teisę pasirinkti tik vieną iš šio straipsnio 1 dalyje nurodytų veiklos
-formų.
+turi teisę pasirinkti tik vieną iš šio straipsnio 1 dalyje nurodytų veiklos formų.
 3. Advokatas
 turi teisę keisti veiklos formą. Pakeitęs savo veiklos formą, advokatas apie
 tai turi pranešti Lietuvos advokatūrai.
@@ -561,9 +560,9 @@ teismui per trisdešimt dienų nuo sprendimo įteikimo advokatui dienos.
  
 24 straipsnis. Lietuvos praktikuojančių
 advokatų sąrašo ir jo pakeitimų skelbimas
-Lietuvos
-praktikuojančių advokatų sąrašą bei jo pakeitimus Lietuvos advokatūros
-tinklalapyje internete skelbia Lietuvos advokatūra.
+Lietuvos praktikuojančių
+advokatų sąrašą bei jo pakeitimus Lietuvos advokatūros tinklalapyje internete
+skelbia Lietuvos advokatūra.
  
 25
 straipsnis.
@@ -676,9 +675,9 @@ straipsnis. Advokatų veikla įsteigiant juridinį asmenį
 turi teisę veikti Civilinio kodekso ir šio Įstatymo nustatyta tvarka įsteigdami
 privatųjį juridinį asmenį, kurio teisinė forma yra advokatų profesinė bendrija.
 Advokatų profesinė bendrija registruojama juridinių asmenų registre. 
-2. Advokatų
-profesinės bendrijos dalyviu gali būti tik advokatas. Advokatas gali būti tik
-vienos advokatų profesinės bendrijos dalyviu.
+2. Advokatų profesinės
+bendrijos dalyviu gali būti tik advokatas. Advokatas gali būti tik vienos
+advokatų profesinės bendrijos dalyviu.
 3. Advokatų profesinės
 bendrijos pavadinime turi būti nurodyta juridinio asmens teisinė forma.
 Advokatų profesinės bendrijos pavadinimui taikomos ir šio Įstatymo 26
@@ -709,7 +708,7 @@ profesinė bendrija negali verstis kita negu teisinių paslaugų teikimas veikla
 profesinės bendrijos vardu teisines paslaugas gali teikti advokatai bei
 advokatų padėjėjai. Sutartyje dėl teisinių paslaugų teikimo paprastai turi būti
 nurodytas advokatas, kuris vykdys šią sutartį.
-                        
+ 
 30 straipsnis. Advokatų
 profesinės bendrijos steigimas ir steigimo dokumentas
 1. Advokatų
@@ -777,10 +776,10 @@ teisę paveldėti mirusio advokato – advokatų profesinės bendrijos dalyvio �
 teises ir pareigas turi įpėdinis, jei jis yra advokatas ir šio Įstatymo 30
 straipsnio 1 dalyje nurodyta sutartis numato, kad mirusį dalyvį gali pakeisti
 jo teisių perėmėjas. Kitiems įpėdiniams priklausančios turto dalies
-kompensacija išmokama pagal bendrą įpėdinių susitarimą. Kilus ginčui, teismas
-turi teisę kitiems įpėdiniams priklausančios turto dalies mokėjimą išdėstyti
-iki metų priimdamas sprendimą nustatyti priverstinę hipoteką visiems tokio
-įpėdinio nekilnojamiesiems daiktams. 
+kompensacija išmokama pagal bendrą įpėdinių susitarimą. Kilus ginčui, teismas turi
+teisę kitiems įpėdiniams priklausančios turto dalies mokėjimą išdėstyti iki
+metų priimdamas sprendimą nustatyti priverstinę hipoteką visiems tokio įpėdinio
+nekilnojamiesiems daiktams. 
 2. Jeigu miršta
 vienas iš advokatų profesinės bendrijos dalyvių ir jeigu šio Įstatymo 30
 straipsnio 1 dalyje nurodytoje sutartyje nenumatyta, kad ši sutartis lieka
@@ -788,16 +787,16 @@ galioti likusiems advokatų profesinės bendrijos dalyviams arba kad mirusį
 dalyvį gali pakeisti jo teisių perėmėjas, arba sutartyje numatyta, kad mirusį
 dalyvį gali pakeisti jo teisių perėmėjas, tačiau nė vienas įpėdinis nėra
 advokatas, įpėdiniui, pateikusiam paveldėjimo teisės liudijimą, šio Įstatymo 30
-straipsnio 1 dalyje nurodytoje sutartyje numatytais terminais išmokama kompensacija,
-atitinkanti mirusiam advokatų profesinės bendrijos dalyviui priklausančią dalį.
+straipsnio 1 dalyje nurodytoje sutartyje numatytais terminais išmokama
+kompensacija, atitinkanti mirusiam advokatų profesinės bendrijos dalyviui
+priklausančią dalį.
 3. Šio
 straipsnio nuostatos mutatis mutandis taip pat taikomos paveldint
 advokato teises ir pareigas, kai advokatas veikia individualiai ar partnerystės
 pagrindais.
  
 SEPTINTASIS SKIRSNIS
-ADVOKATO
-PADĖJĖJAS
+ADVOKATO PADĖJĖJAS
  
 34
 straipsnis.
@@ -809,10 +808,10 @@ Lietuvos advokatų padėjėjų sąrašą ir rengiasi advokato veiklai.
 padėjėjas turi visas šiame Įstatyme numatytas advokato teises ir pareigas,
 išskyrus narystę Lietuvos advokatūroje bei proceso įstatymuose nustatytus
 apribojimus. Advokato padėjėjas turi teisę atstovauti kliento interesams
-teismuose tik tuo atveju, kai yra rašytinis advokato (praktikos vadovo)
-leidimas atstovauti konkrečioje byloje, o kitose institucijose – rašytiniu
-advokato (praktikos vadovo) sutikimu. Advokato padėjėjas gali atstovauti tik
-pirmosios instancijos teismuose ir ne anksčiau kaip po vienerių metų nuo advokato
+teismuose tik tuo atveju, kai yra rašytinis advokato (praktikos vadovo) leidimas
+atstovauti konkrečioje byloje, o kitose institucijose – rašytiniu advokato
+(praktikos vadovo) sutikimu. Advokato padėjėjas gali atstovauti tik pirmosios
+instancijos teismuose ir ne anksčiau kaip po vienerių metų nuo advokato
 padėjėjo praktikos pradžios.
  
 35
@@ -831,12 +830,13 @@ nepriekaištingos reputacijos pagal šio Įstatymo 8 straipsnį;
 su advokatu, įrašytu į Lietuvos praktikuojančių advokatų sąrašą, atlikti
 advokato padėjėjo praktiką arba jeigu jo praktikos vadovu advokatas yra
 paskirtas šio Įstatymo 37 straipsnio 1 dalies nustatyta tvarka;
-5) neturi sveikatos
-sutrikimų, dėl kurių negalėtų atlikti advokato padėjėjo pareigų. Advokatų
-padėjėjai tikrinasi sveikatą, kaip nustatyta šio Įstatymo 7 straipsnio 6
-punkte.
+5) neturi
+sveikatos sutrikimų, dėl kurių negalėtų atlikti advokato padėjėjo pareigų.
+Advokatų padėjėjai tikrinasi sveikatą, kaip nustatyta šio Įstatymo 7 straipsnio
+6 punkte.
 2. Norintis būti
-įrašytas į Lietuvos advokatų padėjėjų sąrašą asmuo Lietuvos advokatūrai pateikia:
+įrašytas į Lietuvos advokatų padėjėjų sąrašą asmuo Lietuvos advokatūrai
+pateikia:
 1) prašymą
 įrašyti į Lietuvos advokatų padėjėjų sąrašą. Šiame prašyme turi būti nurodyti
 pareiškėjo asmens duomenys (vardas, pavardė, asmens kodas, gyvenamoji vieta,
@@ -864,8 +864,8 @@ skundžiamas Vilniaus apygardos teismui.
 36
 straipsnis.
 Išbraukimas iš Lietuvos advokatų padėjėjų sąrašo
-1. Lietuvos advokatūra
-išbraukia asmenį iš Lietuvos advokatų padėjėjų sąrašo, jeigu:
+1. Lietuvos
+advokatūra išbraukia asmenį iš Lietuvos advokatų padėjėjų sąrašo, jeigu:
 1) jis padavė
 rašytinį prašymą nutraukti advokato padėjėjo praktiką;
 2) jis per
@@ -970,9 +970,9 @@ privalo nedelsdamas pranešti klientui.
 41
 straipsnis.
 Advokato ir advokato padėjėjo socialinis draudimas
-Advokatas ir advokato
-padėjėjas privalo apsidrausti Lietuvos Respublikos valstybinio socialinio
-draudimo įstatymo nustatyta tvarka.
+Advokatas ir
+advokato padėjėjas privalo apsidrausti Lietuvos Respublikos valstybinio
+socialinio draudimo įstatymo nustatyta tvarka.
  
 42
 straipsnis.
@@ -998,9 +998,21 @@ Kiti advokatų veiklos apribojimai
 operatyvinėje veikloje, dirbti ar eiti kitas mokamas pareigas, išskyrus darbą
 Lietuvos advokatūroje ir mokslinę, kūrybinę ar pedagoginę veiklą, taip pat šio
 Įstatymo 4 straipsnio 4 dalyje nurodytą veiklą. 
+1
+dalies redakcija nuo 2013-01-01:
+1. Advokatas,
+įrašytas į Lietuvos praktikuojančių advokatų sąrašą, atlikdamas profesines
+pareigas, negali dalyvauti žvalgybos ir (ar) kriminalinės žvalgybos veikloje,
+dirbti ar eiti kitas mokamas pareigas, išskyrus darbą Lietuvos advokatūroje ir
+mokslinę, kūrybinę ar pedagoginę veiklą, taip pat šio Įstatymo 4 straipsnio 4
+dalyje nurodytą veiklą.
+ 
 2. Advokatas,
 kuriam Advokatų garbės teismo sprendimu laikinai uždrausta advokato veikla,
 gali eiti kitas mokamas pareigas ar vykdyti kitą veiklą.
+Straipsnio pakeitimai:
+Nr. XI-2235,
+2012-10-02, Žin., 2012, Nr. 122-6094 (2012-10-20)
  
 44
 straipsnis.
@@ -1020,8 +1032,8 @@ reikalingus dokumentus ar jų nuorašus, ar kitokią teisinėms paslaugoms teikt
 reikalingą informaciją. Advokato kreipimesi turi būti pateikti duomenys,
 įrodantys prašomų pateikti dokumentų ar jų nuorašų ryšį su teisinių paslaugų
 teikimu. Asmenys, pateikę advokatui reikalingus duomenis, turi teisę į būtinų
-tokios informacijos pateikimo sąnaudų kompensavimą, išskyrus įstatymų nustatytus
-atvejus;
+tokios informacijos pateikimo sąnaudų kompensavimą, išskyrus įstatymų
+nustatytus atvejus;
 3) susipažinti
 su teismų ir kitų institucijų, nagrinėjančių ginčus ir skundus, praktika, taip
 pat ir su priimtais įsiteisėjusiais teismų sprendimais, nuosprendžiais,
@@ -1036,8 +1048,8 @@ nagrinėtinos uždarame teismo posėdyje;
 bylai nagrinėti teisme reikalingų rašytinių įrodymų nuorašus. Nuorašų
 tvirtinimo ir registravimo tvarką nustato Lietuvos advokatūra, suderinusi su
 Lietuvos Respublikos teisingumo ministerija; 
-6) naudotis kitomis
-įstatymų numatytomis teisėmis, susijusiomis su advokato veikla.
+6) naudotis
+kitomis įstatymų numatytomis teisėmis, susijusiomis su advokato veikla.
  
 45
 straipsnis.
@@ -1183,8 +1195,8 @@ veiklos pažeidimus gali būti keliama drausmės byla.
 iškelti drausmės bylą priima Lietuvos advokatūra arba teisingumo ministras. 
 3. Advokatų
 drausmės bylas nagrinėja Advokatų garbės teismas. Kai Lietuvos advokatūra
-sprendžia klausimą dėl drausmės bylos iškėlimo ir kai byla nagrinėjama, turi
-teisę dalyvauti ir asmuo, kuris kreipėsi dėl drausmės bylos iškėlimo. 
+sprendžia klausimą dėl drausmės bylos iškėlimo ir kai byla nagrinėjama, turi teisę
+dalyvauti ir asmuo, kuris kreipėsi dėl drausmės bylos iškėlimo. 
 4. Advokatų
 drausmės bylų nagrinėjimo tvarką nustato Lietuvos advokatūra. Advokatų drausmės
 bylų nagrinėjimo tvarką teisingumo ministras skelbia „Valstybės žiniose“.
@@ -1220,10 +1232,9 @@ advokatų padėjėjų sąrašo.
 55
 straipsnis.
 Advokatų garbės teismo sprendimų apskundimas
-Advokatų garbės
-teismo sprendimai gali būti skundžiami Vilniaus apygardos teismui per
-trisdešimt dienų nuo sprendimo nuorašo įteikimo advokatui ar advokato padėjėjui
-dienos.
+Advokatų garbės teismo
+sprendimai gali būti skundžiami Vilniaus apygardos teismui per trisdešimt dienų
+nuo sprendimo nuorašo įteikimo advokatui ar advokato padėjėjui dienos.
  
 VIENUOLIKTASIS SKIRSNIS
 ADVOKATŲ
@@ -1263,11 +1274,7 @@ teisingumo ministerijai;
 ir kitų teisės aktų nustatyta tvarka kontroliuoti advokatų veiklą;
 5) organizuoti
 ir įgyvendinti advokatų kvalifikacijos tobulinimą;
-6) koordinuoti advokatų teikiamą
-valstybės garantuojamą teisinę pagalbą; 
-6
-punktas netenka galios 2009 m. sausio 1 d.
- 
+6) (neteko galios 2009 m. sausio 1 d.);
 7) kitos šiame
 Įstatyme nustatytos funkcijos.
 2. Lietuvos
@@ -1368,8 +1375,9 @@ teisės verstis advokato veikla liudijimą;
 advokatų darbo vietų sąrašą, nustato leidimų kurti darbo vietas tuose pačiuose
 pastatuose, kuriuose jau yra policijos, prokuratūros, teismo įstaigos,
 suteikimo tvarką;
-7) priima sprendimus
-dėl advokatų įrašymo ir išbraukimo iš Lietuvos praktikuojančių advokatų sąrašo;
+7) priima
+sprendimus dėl advokatų įrašymo ir išbraukimo iš Lietuvos praktikuojančių
+advokatų sąrašo;
 8) priima
 sprendimus dėl advokatų padėjėjų įrašymo ir išbraukimo iš Lietuvos advokatų
 padėjėjų sąrašo;
@@ -1392,18 +1400,10 @@ straipsnio 4 dalį;
 su Lietuvos Respublikos finansų ministerija, nustato individualiai ar
 partnerystės pagrindais veikiančių advokatų pajamų ir sąnaudų pripažinimo bei
 apskaitos tvarką; 
- 
-15
-punkto redakcija iki 2008 m. liepos 1 d.:
-15) koordinuoja advokatų teikiamą
-valstybės garantuojamą teisinę pagalbą; 
-15
-punkto redakcija nuo 2008 m. liepos 1 d.:
 15) organizuoja
 antrinę teisinę pagalbą teikiančių advokatų veiklos kokybės tikrinimą pagal
-antrinės teisinės pagalbos kokybės vertinimo taisykles, kurias tvirtina
-Lietuvos advokatūra, suderinusi su Teisingumo ministerija;
- 
+antrinės teisinės pagalbos kokybės vertinimo taisykles, kurias tvirtina Lietuvos
+advokatūra, suderinusi su Teisingumo ministerija;
 16) nustato šio
 Įstatymo 26 straipsnio 3 dalyje, 27 straipsnio 2 dalyje ir 28 straipsnio 3
 dalyje nurodytų advokatų veikloje naudojamų pavadinimų registravimo tvarką;
@@ -1468,9 +1468,9 @@ steigimo sutarties 50 straipsniu pagal šio skirsnio nuostatas.
 2. Europos
 Sąjungos valstybės narės teisininkas laikinai teikia paslaugas Lietuvos
 Respublikoje Europos Sąjungos valstybės narės kompetentingos institucijos jam
-suteiktu teisininko profesiniu vardu, nurodydamas teisininko profesinį vardą
-tos Europos Sąjungos valstybės narės valstybine ar viena iš valstybinių kalbų
-bei profesinę (savivaldos) organizaciją, kurios narys jis yra, ar kompetentingą
+suteiktu teisininko profesiniu vardu, nurodydamas teisininko profesinį vardą tos
+Europos Sąjungos valstybės narės valstybine ar viena iš valstybinių kalbų bei
+profesinę (savivaldos) organizaciją, kurios narys jis yra, ar kompetentingą
 instituciją, kuri suteikė jam teisę veikti Europos Sąjungos valstybės narės
 teisininko profesiniu vardu. Europos Sąjungos valstybės narės teisininkas
 laikinai teikia paslaugas Lietuvos Respublikoje neviršydamas Europos Sąjungos
@@ -1552,8 +1552,8 @@ paslaugas Lietuvos Respublikoje, registruoja Lietuvos advokatūra.
 Sąjungos valstybės narės teisininkas, pageidaujantis teikti nuolatines teisines
 paslaugas Lietuvos Respublikoje, Lietuvos advokatūrai pateikia prašymą. Kartu
 su prašymu turi būti pateikti šie dokumentai:
-1) asmens tapatybę
-ir pilietybę patvirtinantis dokumentas;
+1) asmens
+tapatybę ir pilietybę patvirtinantis dokumentas;
 2) Europos
 Sąjungos valstybės narės kompetentingos institucijos išduotas dokumentas,
 patvirtinantis asmens įregistravimą Europos Sąjungos valstybės narės
@@ -1562,13 +1562,13 @@ kaip prieš tris mėnesius iki jo pateikimo Lietuvos advokatūrai;
 3) profesinės
 civilinės atsakomybės už klientui padarytą žalą teikiant teisines paslaugas
 draudimo dokumentą arba garantiją dėl tokios žalos atlyginimo.
-4. Šio straipsnio
-3 dalyje nurodyti dokumentai, surašyti pareiškėjo, pateikiami lietuvių kalba.
-Užsienio valstybėse išduoti dokumentai, pateikiami Lietuvos advokatūrai, turi
-būti legalizuoti ar patvirtinti pažyma (Apostille), išskyrus įstatymų ar
-tarptautinių sutarčių numatytus atvejus. Jei teisės aktai nenustato kitaip,
-dokumentai pateikiami išversti į lietuvių kalbą, o vertimas turi būti
-patvirtintas vertimą atlikusio asmens parašu.
+4. Šio
+straipsnio 3 dalyje nurodyti dokumentai, surašyti pareiškėjo, pateikiami
+lietuvių kalba. Užsienio valstybėse išduoti dokumentai, pateikiami Lietuvos
+advokatūrai, turi būti legalizuoti ar patvirtinti pažyma (Apostille),
+išskyrus įstatymų ar tarptautinių sutarčių numatytus atvejus. Jei teisės aktai
+nenustato kitaip, dokumentai pateikiami išversti į lietuvių kalbą, o vertimas
+turi būti patvirtintas vertimą atlikusio asmens parašu.
 5. Teisę teikti
 nuolatines teisines paslaugas Lietuvos Respublikoje Europos Sąjungos valstybės
 narės teisininkas įgyja nuo įregistravimo į Lietuvos advokatūros tvarkomą
@@ -1601,9 +1601,8 @@ teisininko profesiniu vardu, taikomos šio Įstatymo nuostatos, išskyrus šio
 Įstatymo 7 straipsnio 3 ir 5 punktus, 9–19 straipsnius, 23 straipsnį, 39
 straipsnio 2 dalį ir 41 straipsnį. 
  
-65 straipsnis. Europos Sąjungos
-valstybės narės teisininko, teikiančio nuolatines paslaugas Lietuvos
-Respublikoje, teisės
+65 straipsnis. Europos Sąjungos valstybės
+narės teisininko, teikiančio nuolatines paslaugas Lietuvos Respublikoje, teisės
 1. Europos
 Sąjungos valstybės narės teisininkas, turintis teisę teikti nuolatines
 paslaugas Lietuvos Respublikoje savo valstybės kompetentingos institucijos
@@ -1612,18 +1611,18 @@ suteiktu teisininko profesiniu vardu, turi teisę:
 nustatyta tvarka teikti teisines paslaugas, išskyrus atstovavimą Lietuvos
 Aukščiausiajame Teisme nagrinėjamose bylose;
 2) tais
-atvejais, kai įstatymai nustato privalomą advokato dalyvavimą, teisines
-paslaugas bylų procese teikti tik kartu su advokatu, įrašytu į Lietuvos
-praktikuojančių advokatų sąrašą. Šiuo atveju neatsiranda kliento ir advokato,
-įrašyto į Lietuvoje praktikuojančių advokatų sąrašą, sutartiniai santykiai,
-nebent šalys susitartų kitaip;
+atvejais, kai įstatymai nustato privalomą advokato dalyvavimą, teisines paslaugas
+bylų procese teikti tik kartu su advokatu, įrašytu į Lietuvos praktikuojančių
+advokatų sąrašą. Šiuo atveju neatsiranda kliento ir advokato, įrašyto į
+Lietuvoje praktikuojančių advokatų sąrašą, sutartiniai santykiai, nebent šalys
+susitartų kitaip;
 3) naudotis
 Lietuvos Respublikos įstatymų nustatytomis teisėmis dėl teisinių paslaugų
 teikimo;
 4) teisinėms
-paslaugoms teikti Lietuvos Respublikoje įsteigti filialą, jeigu tai neprieštarauja
-Europos Sąjungos valstybės narės, kuri jam suteikė teisininko profesinį vardą,
-teisės nuostatoms, reglamentuojančioms advokatų veiklą.
+paslaugoms teikti Lietuvos Respublikoje įsteigti filialą, jeigu tai
+neprieštarauja Europos Sąjungos valstybės narės, kuri jam suteikė teisininko profesinį
+vardą, teisės nuostatoms, reglamentuojančioms advokatų veiklą.
 2. Europos
 Sąjungos valstybės narės teisininkas nuolatines teisines paslaugas Lietuvos
 Respublikoje teikia Europos Sąjungos valstybės narės kompetentingos
@@ -1660,9 +1659,9 @@ teisines paslaugas pagal šį Įstatymą, išskyrus atvejus, kai Europos Sąjung
 valstybės narės teisininkas gali įrodyti, kad jo profesinė civilinė atsakomybė
 už klientui padarytą žalą teikiant teisines paslaugas yra apdrausta ar žalos
 atlyginimas kitaip garantuotas pagal Europos Sąjungos valstybės narės, kuri jam
-suteikė teisininko profesinį vardą, įstatymus ir tokio draudimo ar garantijos
-sąlygos ir apimtis yra tolygios. Tiek, kiek draudimo ar garantijos sąlygos ir
-apimtis nėra tolygios, jis privalo papildomai apdrausti savo profesinę civilinę
+suteikė teisininko profesinį vardą, įstatymus ir tokio draudimo ar garantijos sąlygos
+ir apimtis yra tolygios. Tiek, kiek draudimo ar garantijos sąlygos ir apimtis
+nėra tolygios, jis privalo papildomai apdrausti savo profesinę civilinę
 atsakomybę ar kitaip garantuoti tokios žalos atlyginimą, kad tai atitiktų šio
 Įstatymo reikalavimus; 
 2) laikytis
@@ -1688,8 +1687,8 @@ valstybės narės teisininko, teikiančio nuolatines paslaugas Lietuvos
 Respublikoje, drausminė atsakomybė
 1. Europos
 Sąjungos valstybės narės teisininkas, turintis teisę teikti nuolatines teisines
-paslaugas Lietuvos Respublikoje savo valstybės kompetentingos institucijos suteiktu
-teisininko profesiniu vardu, atsako šio Įstatymo dešimtajame skirsnyje
+paslaugas Lietuvos Respublikoje savo valstybės kompetentingos institucijos
+suteiktu teisininko profesiniu vardu, atsako šio Įstatymo dešimtajame skirsnyje
 nustatyta drausmine tvarka. Be šio Įstatymo 53 straipsnio 1–3 punktuose
 numatytų nuobaudų, Europos Sąjungos valstybės narės teisininkui taikoma
 nuobauda – Europos Sąjungos valstybės narės teisininko išregistravimas iš
@@ -1703,8 +1702,8 @@ profesiniu vardu, turi būti motyvuoti.
 drausmės bylos Europos Sąjungos valstybės narės teisininkui, turinčiam teisę
 teikti nuolatines teisines paslaugas Lietuvos Respublikoje savo valstybės
 kompetentingos institucijos suteiktu teisininko profesiniu vardu, iškėlimą
-Lietuvos advokatūra privalo apie ketinimą iškelti drausmės bylą pranešti Europos
-Sąjungos valstybės narės, kuri suteikė jam teisininko profesinį vardą,
+Lietuvos advokatūra privalo apie ketinimą iškelti drausmės bylą pranešti
+Europos Sąjungos valstybės narės, kuri suteikė jam teisininko profesinį vardą,
 kompetentingai institucijai ir pateikti visą su tuo tiesiogiai susijusią
 informaciją. Lietuvos advokatūra per drausmės bylos nagrinėjimo laikotarpį
 privalo bendradarbiauti su Europos Sąjungos valstybės narės, kuri suteikė
@@ -1714,16 +1713,16 @@ informacija apie Advokatų garbės teismo priimtą sprendimą dėl tokio teisini
 3. Drausmės
 bylos nagrinėjimo laikotarpiu Europos Sąjungos valstybės narės, kuri suteikė
 Europos Sąjungos valstybės narės teisininkui profesinį vardą, kompetentinga
-institucija turi teisę būti išklausyta (teisę dalyvauti nagrinėjant drausmės bylą,
-pateikti atitinkamą medžiagą ir t. t.).
+institucija turi teisę būti išklausyta (teisę dalyvauti nagrinėjant drausmės
+bylą, pateikti atitinkamą medžiagą ir t. t.).
 4. Jei Europos
 Sąjungos valstybės narės, kuri suteikė Europos Sąjungos valstybės narės
 teisininkui teisininko profesinį vardą, kompetentinga institucija laikinai
 sustabdo ar panaikina Europos Sąjungos valstybės narės teisininko teisę teikti
 teisines paslaugas (verstis teisininko praktika), Europos Sąjungos valstybės
 narės teisininkas neturi teisės teikti teisinių paslaugų ir Lietuvos
-Respublikoje. Gavusi Europos Sąjungos valstybės narės teisininko pranešimą ar Europos
-Sąjungos valstybės narės, kuri suteikė Europos Sąjungos valstybės narės
+Respublikoje. Gavusi Europos Sąjungos valstybės narės teisininko pranešimą ar
+Europos Sąjungos valstybės narės, kuri suteikė Europos Sąjungos valstybės narės
 teisininkui teisininko profesinį vardą, kompetentingos institucijos informaciją
 apie tokios teisės sustabdymą ar panaikinimą, Lietuvos advokatūra išregistruoja
 Europos Sąjungos valstybės narės teisininką iš Europos Sąjungos valstybių narių
@@ -1732,8 +1731,8 @@ Respublikoje, sąrašo. Jei teisė teikti teisines paslaugas (verstis teisininko
 praktika) yra sustabdyta laikinai, Lietuvos advokatūra pagal Europos Sąjungos
 valstybės narės teisininko prašymą, pasibaigus tos teisės sustabdymo
 laikotarpiui, įregistruoja Europos Sąjungos valstybės narės teisininką į
-Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines teisines
-paslaugas Lietuvos Respublikoje, sąrašą.
+Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines
+teisines paslaugas Lietuvos Respublikoje, sąrašą.
  
 68 straipsnis. Lietuvos advokato
 profesinio vardo suteikimas Europos Sąjungos valstybės narės teisininkui po
@@ -1769,11 +1768,11 @@ advokatūrai pagal šį straipsnį pateikiamiems dokumentams taikomi šio Įstat
 64 straipsnio 4 dalies reikalavimai.
 4. Lietuvos
 advokatūros sprendimas atsisakyti pripažinti Europos Sąjungos valstybės narės
-teisininką Lietuvos advokatu ir šio Įstatymo nustatyta tvarka įrašyti į Lietuvos
-praktikuojančių advokatų sąrašą pagal šio straipsnio 1 dalyje nustatytas
-sąlygas turi būti motyvuotas. Šis sprendimas gali būti skundžiamas Vilniaus
-apygardos teismui per trisdešimt dienų nuo sprendimo įteikimo Europos Sąjungos
-valstybės narės teisininkui dienos. 
+teisininką Lietuvos advokatu ir šio Įstatymo nustatyta tvarka įrašyti į
+Lietuvos praktikuojančių advokatų sąrašą pagal šio straipsnio 1 dalyje
+nustatytas sąlygas turi būti motyvuotas. Šis sprendimas gali būti skundžiamas
+Vilniaus apygardos teismui per trisdešimt dienų nuo sprendimo įteikimo Europos
+Sąjungos valstybės narės teisininkui dienos. 
  
 69 straipsnis. Lietuvos advokato
 profesinio vardo suteikimas Europos Sąjungos valstybės narės teisininkui po
@@ -1783,11 +1782,12 @@ teisę
 Sąjungos valstybės narės teisininkas, kuris mažiausiai trejus metus Lietuvos
 Respublikoje teikė reguliarias ir veiksmingas nuolatines teisines paslaugas
 Europos Sąjungos valstybės narės kompetentingos institucijos jam suteiktu
-teisininko profesiniu vardu, bet trumpesnį laikotarpį – paslaugas pagal Lietuvos
-nacionalinę teisę ir įgijo pakankamai reikiamų Lietuvos nacionalinės teisės
-žinių, turi teisę prašyti pripažinti jį Lietuvos advokatu ir šio Įstatymo
-nustatyta tvarka įrašyti į Lietuvos praktikuojančių advokatų sąrašą. Šiuo
-atveju jam netaikomi šio Įstatymo 7 straipsnio 3 ir 5 punktų reikalavimai. 
+teisininko profesiniu vardu, bet trumpesnį laikotarpį – paslaugas pagal
+Lietuvos nacionalinę teisę ir įgijo pakankamai reikiamų Lietuvos nacionalinės
+teisės žinių, turi teisę prašyti pripažinti jį Lietuvos advokatu ir šio
+Įstatymo nustatyta tvarka įrašyti į Lietuvos praktikuojančių advokatų sąrašą.
+Šiuo atveju jam netaikomi šio Įstatymo 7 straipsnio 3 ir 5 punktų reikalavimai.
+
 2. Sprendimui
 pripažinti Europos Sąjungos valstybės narės teisininką Lietuvos advokatu ir šio
 Įstatymo nustatyta tvarka įrašyti į Lietuvos praktikuojančių advokatų sąrašą
@@ -1798,9 +1798,9 @@ dalyvavimą paskaitose ar seminaruose apie Lietuvos nacionalinę teisę, įskait
 taisykles, reglamentuojančias profesinę praktiką ir elgesį. Europos Sąjungos
 valstybės narės teisininkas privalo suteikti Lietuvos advokatūrai būtiną
 informaciją ir pateikti dokumentus (ypač informaciją apie suteiktas nuolatines
-teisines paslaugas). Suteiktų paslaugų reguliarumą ir veiksmingumą ir Europos
-Sąjungos valstybės narės teisininko gebėjimą tęsti teisinių paslaugų teikimą
-įvertina ir patikrina Lietuvos advokatūra pokalbio metu. 
+teisines paslaugas). Suteiktų paslaugų reguliarumą ir veiksmingumą ir Europos Sąjungos
+valstybės narės teisininko gebėjimą tęsti teisinių paslaugų teikimą įvertina ir
+patikrina Lietuvos advokatūra pokalbio metu. 
 3. Lietuvos
 advokatūrai pagal šį straipsnį pateikiamiems dokumentams taikomi šio Įstatymo
 64 straipsnio 4 dalies reikalavimai.
@@ -1854,8 +1854,8 @@ NUOSTATOS
  
 73 straipsnis. Įstatymo įsigaliojimas
 Šis Įstatymas
-įsigalioja pagal Lietuvos Respublikos advokatūros įstatymo įsigaliojimo ir
-įgyvendinimo įstatymą.
+įsigalioja pagal Lietuvos Respublikos advokatūros įstatymo įsigaliojimo ir įgyvendinimo
+įstatymą.
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
@@ -1864,7 +1864,6 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
 
 
 
- 
  
 RESPUBLIKOS PREZIDENTAS                                                           ROLANDAS
 PAKSAS
@@ -1891,7 +1890,7 @@ Parlamento ir Tarybos direktyva 2001/19/EB).
 1998 m. vasario 16 d. Europos Parlamento ir Tarybos direktyva 98/5/EB, skirta
 padėti teisininkams verstis nuolatine advokato praktika ne toje valstybėje
 narėje, kurioje buvo įgyta kvalifikacija.
-__________________
+ 
  
 Pakeitimai:
  
@@ -1899,8 +1898,8 @@ Pakeitimai:
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-334,
-2005-07-07, Žin., 2005, Nr. 88-3296 (2005-07-21)
+X-334, 2005-07-07,
+Žin., 2005, Nr. 88-3296 (2005-07-21)
 ADVOKATŪROS
 ĮSTATYMO 4, 7, 15, 16, 25, 49 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
@@ -1945,12 +1944,22 @@ ADVOKATŪROS
 Šis
 įstatymas įsigalioja 2012 m. sausio 1 d.
  
+6.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-2235,
+2012-10-02, Žin., 2012, Nr. 122-6094 (2012-10-20)
+ADVOKATŪROS
+ĮSTATYMO 43 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2013 m. sausio 1 d.
  
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušra Bodin (2011-12-14)
+Aušrinė Trapinskienė (2012-10-22)
                  
-aubodi@lrs.lt
+ausrine.trapinskiene@lrs.lt
