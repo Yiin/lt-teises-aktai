@@ -20,6 +20,7 @@ LIETUVOS
 RESPUBLIKOS
 SEIMO LAIKINŲJŲ TYRIMO KOMISIJŲ
 ĮSTATYMAS
+ 
 1999 m. kovo 23 d. Nr. VIII-1102
 Vilnius
 
@@ -73,6 +74,17 @@ paslaptis, taip pat gauti pirminius bei kitus dokumentus, kuriuose šie duomenys
 ar žinios užfiksuoti. Jeigu žinios sudaro valstybės paslaptį, jos komisijai
 turi būti pateiktos Valstybės paslapčių ir jų apsaugos bei Operatyvinės veiklos
 įstatymų nustatyta tvarka;
+1 punkto redakcija nuo 2013-01-01:
+1) susipažinti
+su informacija, susijusia su tiriamu klausimu, ir gauti iš visų valstybės
+valdžios ir valdymo institucijų, Lietuvos banko, valstybės ir savivaldybių
+įmonių (taip pat ir jų kontroliuojamų), įstaigų ir organizacijų dokumentus,
+duomenis ar žinias, net jeigu tai yra valstybės, komercinė, banko, tarnybinė
+paslaptis, taip pat gauti pirminius bei kitus dokumentus, kuriuose šie duomenys
+ar žinios užfiksuoti. Jeigu žinios sudaro valstybės paslaptį, jos komisijai
+turi būti pateiktos Valstybės ir tarnybos paslapčių bei Kriminalinės žvalgybos
+įstatymų nustatyta tvarka;
+ 
 2) gauti iš visų
 valstybės valdžios ir valdymo institucijų, Lietuvos banko, valstybės ir
 savivaldybių įmonių (taip pat ir jų kontroliuojamų), įstaigų ar organizacijų
@@ -108,14 +120,26 @@ Seimui pasiūlymus dėl komisijos nario pašalinimo iš komisijos už šio įsta
 pažeidimus.
 2. Tais
 atvejais, kai atsisakoma pateikti šio straipsnio 1 dalies 1 punkte nurodytus
-komisijos reikalaujamus dokumentus, medžiagą, komisija turi teisę pasitelkti policijos
+komisijos reikalaujamus dokumentus, medžiagą, komisija turi teisę pasitelkti
+policijos pareigūnus ir paimti šiuos dokumentus, medžiagą, išskyrus atvejus,
+kai tokie dokumentai, medžiaga yra baudžiamojoje, operatyvinės įskaitos byloje
+arba kortelėje, civilinėje ar administracinėje byloje, taip pat Baudžiamojo
+proceso kodekso nustatyta tvarka yra daromo patikrinimo medžiaga.
+Asmenys, paimantys dokumentus, medžiagą, surašo jų paėmimo aktą (protokolą) ir
+palieka dokumentų, medžiagos kopijas. Jeigu nėra galimybės palikti kopijų,
+protokole surašomi visi paimtų dokumentų, medžiagos rekvizitai.
+2 dalies redakcija nuo 2013-01-01:
+2. Tais atvejais,
+kai atsisakoma pateikti šio straipsnio 1 dalies 1 punkte nurodytus komisijos
+reikalaujamus dokumentus, medžiagą, komisija turi teisę pasitelkti policijos
 pareigūnus ir paimti šiuos dokumentus, medžiagą, išskyrus atvejus, kai tokie
-dokumentai, medžiaga yra baudžiamojoje, operatyvinės įskaitos byloje arba
-kortelėje, civilinėje ar administracinėje byloje, taip pat Baudžiamojo proceso
-kodekso nustatyta tvarka yra daromo patikrinimo medžiaga. Asmenys,
-paimantys dokumentus, medžiagą, surašo jų paėmimo aktą (protokolą) ir palieka
-dokumentų, medžiagos kopijas. Jeigu nėra galimybės palikti kopijų, protokole
-surašomi visi paimtų dokumentų, medžiagos rekvizitai.
+dokumentai, medžiaga yra baudžiamojoje byloje, kriminalinės žvalgybos
+informacinėse sistemose ir kriminalinės žvalgybos tyrimų bylose, civilinėje ar
+administracinėje byloje. Asmenys, paimantys dokumentus, medžiagą, surašo jų
+paėmimo aktą (protokolą) ir palieka dokumentų, medžiagos kopijas. Jeigu nėra
+galimybės palikti kopijų, protokole surašomi visi paimtų dokumentų, medžiagos
+rekvizitai.
+ 
 3. Šio
 straipsnio 1 dalies 2, 3 ir 4 punktuose nurodyti asmenys raštu įspėjami
 dėl baudžiamosios atsakomybės už melagingų pranešimų, paaiškinimų, informacijos
@@ -131,6 +155,9 @@ IX-1471,
 2003-04-03, Žin., 2003, Nr. 38-1716 (2003-04-24)
 Nr. XI-522,
 2009-12-03, Žin., 2009, Nr. 146-6485 (2009-12-10)
+Nr.
+XI-2258,
+2012-10-02, Žin., 2012, Nr. 122-6117 (2012-10-20)
  
 5
 straipsnis. Komisijos narių pareigos
@@ -254,7 +281,6 @@ priimtą įstatymą.
 RESPUBLIKOS
 PREZIDENTAS                                                         VALDAS ADAMKUS
  
-_________________
  
 Pakeitimai:
  
@@ -274,8 +300,8 @@ gegužės 1 d.
 2.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-1806,
-2003-11-06, Žin., 2003, Nr. 107-4785 (2003-11-13)
+Nr. IX-1806, 2003-11-06,
+Žin., 2003, Nr. 107-4785 (2003-11-13)
 SEIMO
 LAIKINŲJŲ TYRIMO KOMISIJŲ ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
@@ -286,10 +312,22 @@ Nr. XI-522,
 SEIMO LAIKINŲJŲ
 TYRIMO KOMISIJŲ ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
-*** Pabaiga ***
+4.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-2258,
+2012-10-02, Žin., 2012, Nr. 122-6117 (2012-10-20)
+SEIMO
+LAIKINŲJŲ TYRIMO KOMISIJŲ ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2013 m. sausio 1 d.
+ 
+***
+Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė
-(2009-12-10)
+Redagavo
+Aušrinė Trapinskienė (2012-10-22)
                  
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
