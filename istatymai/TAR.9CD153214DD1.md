@@ -15,15 +15,16 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9CD153214DD1"
 
 Įstatymas skelbtas: Žin., 1999, Nr. 36-1070
 Neoficialus įstatymo tekstas
-Įstatymo
-aktuali redakcija nuo 2012 m. sausio 1 d.
  
 LIETUVOS
 RESPUBLIKOS
 PAŠTO
 ĮSTATYMAS
+ 
 1999 m. balandžio 15 d. Nr. VIII-1141
 Vilnius
+ 
+ 
 Nauja įstatymo redakcija nuo 2004 m.gegužės 1 d.:
 Nr. IX-2118,
 2004-04-13, Žin., 2004, Nr. 60-2125 (2004-04-24)
@@ -71,11 +72,12 @@ siunta
 kokios fizinės medžiagos, siųstinas ir pristatytinas ant siuntos ar pakuotės
 siuntėjo nurodytu adresu.
 8. Naudotojas
-– asmuo, kuris asmeniniams ar verslo tikslams naudojasi pašto ir (ar)
-pasiuntinių paslaugomis.
+– asmuo, kuris asmeniniams ar verslo tikslams naudojasi pašto ir (ar) pasiuntinių
+paslaugomis.
 9. Pasiuntinių paslaugos – pašto
 siuntų surinkimas, paskirstymas, vežimas ir pasirašytinas įteikimas gavėjams
-asmeniškai per pasiuntinį, suteikiant siuntėjo pageidaujamas papildomas paslaugas.
+asmeniškai per pasiuntinį, suteikiant siuntėjo pageidaujamas papildomas
+paslaugas.
 10. Pašto ir
 (ar) pasiuntinių paslaugų teikėjas – pašto ir (ar) pasiuntinių paslaugas
 teikiantis Lietuvos Respublikos ar kitos valstybės narės pilietis, kitas
@@ -160,15 +162,14 @@ nurodytus ant pašto siuntų.
 Straipsnio pakeitimai:
 Nr. XI-628,
 2009-12-22, Žin., 2010, Nr. 1-33 (2010-01-05)
-Nr. XI-1819,
-2011-12-20, Žin., 2011, Nr. 161-7618 (2011-12-29)
+Nr. XI-1819, 2011-12-20,
+Žin., 2011, Nr. 161-7618 (2011-12-29)
  
 3
 straipsnis. Pašto veiklos reguliavimo institucijos
 1. Pašto veiklą Lietuvos Respublikoje
 reguliuoja Vyriausybė ar jos įgaliota institucija ir Ryšių reguliavimo tarnyba.
-2. Vyriausybė ar jos įgaliota
-institucija:
+2. Vyriausybė ar jos įgaliota institucija:
 1) formuoja ir
 įgyvendina valstybės strategiją ir politiką pašto srityje;
 2) tvirtina universaliųjų pašto paslaugų
@@ -211,9 +212,9 @@ reguliavimo tarnybos statusą, veiklas, apibrėžtas šiame Įstatyme, finansavi
 ryšių įstatymas.
 4. Ryšių
 reguliavimo tarnyba:
-1) rengia ir tvirtina
-pašto ir pasiuntinių paslaugų teikimo taisykles ir prižiūri, kaip laikomasi
-jose nustatytų reikalavimų;
+1) rengia ir
+tvirtina pašto ir pasiuntinių paslaugų teikimo taisykles ir prižiūri, kaip
+laikomasi jose nustatytų reikalavimų;
 2) rengia ir
 teikia tvirtinti Vyriausybei nuostolingų periodinių leidinių pristatymo kaimo
 gyvenamųjų vietovių prenumeratoriams paslaugų kompensavimo taisyklių projektą;
@@ -245,26 +246,25 @@ metus viešai skelbia šio patikrinimo rezultatus;
 tvirtina pašto ar pasiuntinių paslaugų teikėjų ir naudotojų ginčų nagrinėjimo
 taisykles ir nagrinėja ginčus tarp pašto ir pasiuntinių paslaugų teikėjų ir
 naudotojų;
-11) rengia ir
-tvirtina pašto paslaugų teikėjų ir (ar) pasiuntinių paslaugų teikėjų ginčų
-nagrinėjimo taisykles ir nagrinėja ginčus tarp pašto paslaugų teikėjų ir (ar)
-pasiuntinių paslaugų teikėjų;
+11) rengia ir tvirtina
+pašto paslaugų teikėjų ir (ar) pasiuntinių paslaugų teikėjų ginčų nagrinėjimo
+taisykles ir nagrinėja ginčus tarp pašto paslaugų teikėjų ir (ar) pasiuntinių
+paslaugų teikėjų;
 12) atlieka
 universaliųjų pašto paslaugų tarifų ir periodinių leidinių pristatymo kaimo
 gyvenamųjų vietovių prenumeratoriams paslaugų tarifų taikymo priežiūrą;
 13) pagal savo
 kompetenciją tiria ir nagrinėja šio Įstatymo pažeidimus ir pažeidėjams taiko
-sankcijas šio Įstatymo ir kitų teisės aktų nustatytais atvejais, sąlygomis ir
-tvarka;
+sankcijas šio Įstatymo ir kitų teisės aktų nustatytais atvejais, sąlygomis ir tvarka;
 14)
 bendradarbiauja su užsienio šalių pašto veiklos reguliavimo institucijomis,
 pagal kompetenciją dalyvauja tarptautinių organizacijų ir Europos Sąjungos
 institucijų, komitetų ir grupių veikloje;
 15) įstatymų
-nustatyta tvarka teikia turimą
-informaciją kitoms valstybės ir (ar) savivaldybių institucijoms pagal jų
-prašymus. Valstybės ir (ar) savivaldybių institucijos, kurioms perduota
-konfidenciali informacija, privalo užtikrinti tinkamą jos apsaugą; 
+nustatyta tvarka teikia turimą informaciją
+kitoms valstybės ir (ar) savivaldybių institucijoms pagal jų prašymus.
+Valstybės ir (ar) savivaldybių institucijos, kurioms perduota konfidenciali
+informacija, privalo užtikrinti tinkamą jos apsaugą; 
 16) atlieka
 kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
 5. Ryšių reguliavimo tarnyba, įgyvendindama šio
@@ -339,65 +339,58 @@ Straipsnio pakeitimai:
 Nr. XI-628,
 2009-12-22, Žin., 2010, Nr. 1-33 (2010-01-05)
  
-6
-straipsnis. Teisė teikti pašto ir pasiuntinių paslaugas 
-1. Pašto ir (ar)
-pasiuntinių paslaugas galima teikti pateikus apie tai pranešimą Ryšių
-reguliavimo tarnybai. Ryšių reguliavimo tarnyba nustato pranešimo apie pašto ir
-pasiuntinių paslaugų teikimo pradžią pateikimo tvarką ir sąlygas pašto ir
-pasiuntinių paslaugų teikimo taisyklėse.
-2. Prieš
-pradedant teikti pašto ir (ar) pasiuntinių paslaugas, Ryšių reguliavimo
-tarnybai reikia pateikti: 
-1) Ryšių
-reguliavimo tarnybos nustatytos formos pranešimą apie pašto ir (ar) pasiuntinių
-paslaugų teikimo pradžią (toliau – pranešimas);
-2) juridinio
-asmens teisėtą įsisteigimą patvirtinančių dokumentų kopijas (išskyrus
-juridinius asmenis, įregistruotus Lietuvos Respublikos juridinių asmenų
-registre), jei pranešimą teikia juridinis asmuo.
-3. Ryšių
-reguliavimo tarnyba ne vėliau kaip per 5 darbo dienas nuo visų šio straipsnio 2
-dalyje nurodytų dokumentų gavimo dienos įrašo pašto ir (ar) pasiuntinių
-paslaugų teikėją į pašto ir (ar) pasiuntinių paslaugų teikėjų sąrašą ir apie
-tai paskelbia Ryšių reguliavimo tarnybos interneto svetainėje, taip pat praneša
-pašto ir (ar) pasiuntinių paslaugų teikėjui. 
-4. Pašto ir (ar)
-pasiuntinių paslaugų teikėjas išbraukiamas iš pašto ir (ar) pasiuntinių
-paslaugų teikėjų sąrašo ir netenka teisės teikti pašto ir (ar) pasiuntinių
-paslaugas, jeigu jis:
-1) pateikia
-pranešimą apie pašto ir (ar) pasiuntinių paslaugų teikimo pabaigą;
-2) miršta arba
-yra likviduotas; 
-3) yra
-pripažintas bankrutavusiu;
-4) teikdamas
-Ryšių reguliavimo tarnybai pranešimą, pateikė klaidingus duomenis, suklastotus
-dokumentus arba nuslėpė faktus, dėl kurių negalėjo pradėti teikti pašto ir (ar)
-pasiuntinių paslaugas ir būti įrašytas į pašto ir (ar) pasiuntinių paslaugų
-teikėjų sąrašą;
-5) vienus metus
-neteikė Ryšių reguliavimo tarnybai ataskaitų dėl suteiktų pašto ir (ar)
-pasiuntinių paslaugų arba vienus metus pašto ir (ar) pasiuntinių paslaugų
-teikėjo negalima surasti jo buveinėje, nurodytoje Juridinių asmenų registre.
-5. Pašto ir (ar)
-pasiuntinių paslaugų teikėjas netenka teisės teikti pašto ir (ar) pasiuntinių
-paslaugas kitą dieną po jo išbraukimo iš pašto ir (ar) pasiuntinių paslaugų
-teikėjų sąrašo. Apie pašto ir (ar) pasiuntinių paslaugų teikėjo išbraukimą iš
-pašto ir (ar) pasiuntinių paslaugų teikėjų sąrašo Ryšių reguliavimo tarnyba
-paskelbia savo interneto svetainėje ir praneša pašto ir (ar) pasiuntinių
+6 straipsnis.
+Teisė teikti pašto ir pasiuntinių paslaugas 
+1. Pašto ir (ar) pasiuntinių paslaugas
+galima teikti pateikus apie tai pranešimą Ryšių reguliavimo tarnybai. Ryšių
+reguliavimo tarnyba nustato pranešimo apie pašto ir pasiuntinių paslaugų
+teikimo pradžią pateikimo tvarką ir sąlygas pašto ir pasiuntinių paslaugų
+teikimo taisyklėse.
+2. Prieš pradedant teikti pašto ir (ar)
+pasiuntinių paslaugas, Ryšių reguliavimo tarnybai reikia pateikti: 
+1) Ryšių reguliavimo tarnybos nustatytos
+formos pranešimą apie pašto ir (ar) pasiuntinių paslaugų teikimo pradžią
+(toliau – pranešimas);
+2) juridinio asmens teisėtą įsisteigimą
+patvirtinančių dokumentų kopijas (išskyrus juridinius asmenis, įregistruotus
+Lietuvos Respublikos juridinių asmenų registre), jei pranešimą teikia juridinis
+asmuo.
+3. Ryšių reguliavimo tarnyba ne vėliau
+kaip per 5 darbo dienas nuo visų šio straipsnio 2 dalyje nurodytų dokumentų
+gavimo dienos įrašo pašto ir (ar) pasiuntinių paslaugų teikėją į pašto ir (ar)
+pasiuntinių paslaugų teikėjų sąrašą ir apie tai paskelbia Ryšių reguliavimo
+tarnybos interneto svetainėje, taip pat praneša pašto ir (ar) pasiuntinių
 paslaugų teikėjui. 
-6. Pašto ir (ar)
-pasiuntinių paslaugų teikėjas, nutraukęs pašto ir (ar) pasiuntinių paslaugų
-teikimą, privalo apie tai pranešti Ryšių reguliavimo tarnybai jos nustatyta
-tvarka ir sąlygomis.
+4. Pašto ir (ar) pasiuntinių paslaugų
+teikėjas išbraukiamas iš pašto ir (ar) pasiuntinių paslaugų teikėjų sąrašo ir
+netenka teisės teikti pašto ir (ar) pasiuntinių paslaugas, jeigu jis:
+1) pateikia pranešimą apie pašto ir (ar)
+pasiuntinių paslaugų teikimo pabaigą;
+2) miršta arba yra likviduotas; 
+3) yra pripažintas bankrutavusiu;
+4) teikdamas Ryšių reguliavimo tarnybai
+pranešimą, pateikė klaidingus duomenis, suklastotus dokumentus arba nuslėpė
+faktus, dėl kurių negalėjo pradėti teikti pašto ir (ar) pasiuntinių paslaugas
+ir būti įrašytas į pašto ir (ar) pasiuntinių paslaugų teikėjų sąrašą;
+5) vienus metus neteikė Ryšių
+reguliavimo tarnybai ataskaitų dėl suteiktų pašto ir (ar) pasiuntinių
+paslaugų arba vienus metus pašto ir (ar) pasiuntinių paslaugų teikėjo negalima
+surasti jo buveinėje, nurodytoje Juridinių asmenų registre.
+5. Pašto ir (ar) pasiuntinių paslaugų
+teikėjas netenka teisės teikti pašto ir (ar) pasiuntinių paslaugas kitą dieną
+po jo išbraukimo iš pašto ir (ar) pasiuntinių paslaugų teikėjų sąrašo. Apie
+pašto ir (ar) pasiuntinių paslaugų teikėjo išbraukimą iš pašto ir (ar)
+pasiuntinių paslaugų teikėjų sąrašo Ryšių reguliavimo tarnyba paskelbia savo
+interneto svetainėje ir praneša pašto ir (ar) pasiuntinių paslaugų teikėjui. 
+6. Pašto ir (ar) pasiuntinių paslaugų
+teikėjas, nutraukęs pašto ir (ar) pasiuntinių paslaugų teikimą, privalo apie
+tai pranešti Ryšių reguliavimo tarnybai jos nustatyta tvarka ir sąlygomis.
 Straipsnio pakeitimai:
 Nr. XI-628,
 2009-12-22, Žin., 2010, Nr. 1-33 (2010-01-05)
  
-7
-straipsnis. Pašto ir pasiuntinių paslaugų teikimas
+7 straipsnis.
+Pašto ir pasiuntinių paslaugų teikimas
 1. Pašto ir (ar) pasiuntinių paslaugų
 teikėjas privalo:
 1) pasitvirtinti pašto ir (ar)
@@ -547,7 +540,8 @@ sistemoje atskirti kiekvieną universaliąją pašto paslaugą bei rezervuotąsi
 pašto paslaugas ir kiekvieną periodinių leidinių pristatymo kaimo gyvenamųjų
 vietovių prenumeratoriams paslaugą;
 8) nacionalinės
-standartizacijos institucijos nustatyta tvarka taikyti Europos Sąjungos standartus;
+standartizacijos institucijos nustatyta tvarka taikyti Europos Sąjungos
+standartus;
 9) skaidriomis
 ir nediskriminacinėmis sąlygomis sudaryti sutartis su kitais pašto paslaugų
 teikėjais dėl galimybės naudotis viešuoju pašto tinklu;
@@ -562,9 +556,9 @@ kaimo gyvenamųjų vietovių prenumeratoriams;
 12) periodinių leidinių pristatymo kaimo
 gyvenamųjų vietovių prenumeratoriams paslaugų tarifus pagrįsti sąnaudomis;
 13) atlikti šešių mėnesių ir kalendorinių metų
-periodinių leidinių pristatymo kaimo gyvenamųjų vietovių prenumeratoriams
-paslaugos pajamų ir sąnaudų nepriklausomą auditą ir audito išvadas pateikti
-Susisiekimo ministerijai ir Ryšių reguliavimo tarnybai.
+periodinių leidinių pristatymo kaimo gyvenamųjų vietovių prenumeratoriams paslaugos
+pajamų ir sąnaudų nepriklausomą auditą ir audito išvadas pateikti Susisiekimo
+ministerijai ir Ryšių reguliavimo tarnybai.
 4. Universaliųjų pašto paslaugų teikėjas turi teisę:
 1) sudaryti
 individualias sutartis dėl universaliųjų pašto paslaugų tarifų;
@@ -594,7 +588,6 @@ sąlygoms taiko skaidrumo ir nediskriminavimo principus. Nustatant tokius
 tarifus, turi būti įvertintos nepatirtos sąnaudos, palyginti su įprastai
 teikiamomis pašto paslaugomis. Tarifai turi būti vienodi visiems panašiomis
 sąlygomis siunčiantiems naudotojams.
-7. (Neteko galios nuo 2012-01-01).
 Straipsnio pakeitimai:
 Nr. XI-628,
 2009-12-22, Žin., 2010, Nr. 1-33 (2010-01-05)
@@ -618,22 +611,32 @@ tarifas.
  
 10
 straipsnis. Pašto siuntų slaptumas ir duomenų apsauga 
-1.
-Pašto ir pasiuntinių paslaugų teikėjai naudotojams privalo garantuoti
-susirašinėjimo slaptumą. 
-2.
-Pašto ir pasiuntinių paslaugų teikėjo darbuotojas, priimdamas pašto siuntą,
-gali patikrinti, ar joje nėra draudžiamų siųsti daiktų, ir, jei tokių daiktų
-randa, siuntos nepriimti.
-3.
-Operatyvinės veiklos subjektai, ikiteisminio tyrimo institucijos gali gauti
-informaciją apie pašto ar pasiuntinių paslaugų naudotojus, apžiūrėti pašto
-siuntas ir jų dokumentus, patikrinti ar kitaip kontroliuoti siunčiamus daiktus
-ir daryti jų poėmį tik įstatymų nustatytais atvejais ir tvarka. 
-4.
-Pašto bei pasiuntinių paslaugų teikėjams draudžiama teikti informaciją apie
-kitų asmenų naudojimąsi pašto paslaugomis arba sudaryti sąlygas gauti šią
-informaciją, jeigu šis ar kiti įstatymai nenustato kitaip.
+1. Pašto ir
+pasiuntinių paslaugų teikėjai naudotojams privalo garantuoti susirašinėjimo
+slaptumą. 
+2. Pašto ir
+pasiuntinių paslaugų teikėjo darbuotojas, priimdamas pašto siuntą, gali
+patikrinti, ar joje nėra draudžiamų siųsti daiktų, ir, jei tokių daiktų randa,
+siuntos nepriimti.
+3. Operatyvinės
+veiklos subjektai, ikiteisminio tyrimo institucijos gali gauti informaciją apie
+pašto ar pasiuntinių paslaugų naudotojus, apžiūrėti pašto siuntas ir jų
+dokumentus, patikrinti ar kitaip kontroliuoti siunčiamus daiktus ir daryti jų
+poėmį tik įstatymų nustatytais atvejais ir tvarka. 
+3 dalies redakcija nuo 2013-01-01:
+3. Kriminalinės
+žvalgybos subjektai, žvalgybos institucijos, ikiteisminio tyrimo įstaigos gali
+gauti informaciją apie pašto ar pasiuntinių paslaugų naudotojus, apžiūrėti
+pašto siuntas ir jų dokumentus, patikrinti ar kitaip kontroliuoti siunčiamus
+daiktus ir daryti jų poėmį tik įstatymų nustatytais atvejais ir tvarka.
+ 
+4. Pašto bei
+pasiuntinių paslaugų teikėjams draudžiama teikti informaciją apie kitų asmenų
+naudojimąsi pašto paslaugomis arba sudaryti sąlygas gauti šią informaciją,
+jeigu šis ar kiti įstatymai nenustato kitaip.
+Straipsnio pakeitimai:
+Nr. XI-2255,
+2012-10-02, Žin., 2012, Nr. 122-6114 (2012-10-20)
  
 11
 straipsnis. Ginčų sprendimas
@@ -667,32 +670,32 @@ nustatyta tvarka.
 straipsnis. Pašto ir pasiuntinių paslaugų teikėjų atsakomybė ir žalos 
                         atlyginimas
 
-1.
-Siuntėjas dėl žalos atlyginimo už dingusią pašto siuntą, dingusius, trūkstamus
-ar apgadintus siųstus daiktus pretenziją gali pareikšti pašto paslaugų teikėjui
-per 6 mėnesius nuo pašto siuntos išsiuntimo dienos.
-2. Pretenzijos, pareikštos pasibaigus šio straipsnio 1
-dalyje nustatytam terminui, nenagrinėjamos. 
-3. Pašto paslaugų teikėjai turi nustatyti bei
-patvirtinti paprastą bei sąnaudomis pagrįstą pašto paslaugų naudotojų skundų
-nagrinėjimo tvarką.
-4.
-Žala dėl prarastų, sugadintų pašto siuntų (padaryta nuo jų priėmimo iki
-įteikimo gavėjui) atlyginama vadovaujantis šiuo Įstatymu. Žala dėl prarastų,
-sugadintų tarptautinių pašto siuntų atlyginama vadovaujantis Pasaulinės pašto
+1. Siuntėjas dėl
+žalos atlyginimo už dingusią pašto siuntą, dingusius, trūkstamus ar apgadintus
+siųstus daiktus pretenziją gali pareikšti pašto paslaugų teikėjui per 6
+mėnesius nuo pašto siuntos išsiuntimo dienos.
+2. Pretenzijos, pareikštos
+pasibaigus šio straipsnio 1 dalyje nustatytam terminui, nenagrinėjamos. 
+3. Pašto paslaugų teikėjai
+turi nustatyti bei patvirtinti paprastą bei sąnaudomis pagrįstą pašto paslaugų
+naudotojų skundų nagrinėjimo tvarką.
+4. Žala dėl
+prarastų, sugadintų pašto siuntų (padaryta nuo jų priėmimo iki įteikimo
+gavėjui) atlyginama vadovaujantis šiuo Įstatymu. Žala dėl prarastų, sugadintų
+tarptautinių pašto siuntų atlyginama vadovaujantis Pasaulinės pašto
 konvencijos, Pašto korespondencijos bei Pašto siuntinių reglamentų nuostatomis.
 Patirti netiesioginiai nuostoliai bei negautos pajamos į žalos atlyginimo dydį
 neįskaitomi.
-5.
-Pašto paslaugų teikėjai neatsako už:
-1)
-pašto siuntas, kurios pagal valstybės institucijų sprendimus įstatymų nustatyta
+5. Pašto
+paslaugų teikėjai neatsako už:
+1) pašto
+siuntas, kurios pagal valstybės institucijų sprendimus įstatymų nustatyta
 tvarka perduodamos valstybės nuosavybėn arba konfiskuojamos;
-2)
-prarastus draudžiamus pašto siuntose siųsti daiktus (prekes).
-6. Jeigu dėl pašto paslaugų teikėjo kaltės dingsta ar
-buvo sugadintos pašto siuntos, jose trūksta daiktų (prekių) ar daiktai (prekės)
-apgadinti, jis atlygina:
+2) prarastus
+draudžiamus pašto siuntose siųsti daiktus (prekes).
+6. Jeigu dėl pašto paslaugų
+teikėjo kaltės dingsta ar buvo sugadintos pašto siuntos, jose trūksta daiktų
+(prekių) ar daiktai (prekės) apgadinti, jis atlygina:
 1) už dingusią registruotąją pašto korespondencijos
 siuntą, kurios siuntėjas neįvertino, taip pat už joje sugadintus visus daiktus
 (prekes) – suma, lygia siuntimo išlaidoms. Registruotosios pašto siuntos
@@ -709,52 +712,50 @@ siuntimo išlaidoms ir įvertinimo sumai;
 įvertintojoje pašto siuntoje su daiktų (prekių) aprašu – suma, lygia siuntimo
 išlaidoms ir daiktų (prekių) apraše nurodytai dingusio ar apgadinto daikto
 (prekės) vertei, tačiau ne didesne, negu įvertinta visa pašto siunta.
-7.
-Tais atvejais, kai pašto siuntos gavėjas nesumoka išpirktinės pašto siuntos
-mokesčio dėl pašto paslaugų teikėjo kaltės, pašto paslaugų teikėjas sumoka
-siuntėjui jo nurodytą išpirktinę sumą.
-8.
-Jeigu pašto paslaugų teikėjas dėl savo kaltės grąžina siuntėjui registruotąją
-pašto korespondenciją ar pašto siuntinį, už tai jis siuntėjui atlygina siuntimo
+7. Tais
+atvejais, kai pašto siuntos gavėjas nesumoka išpirktinės pašto siuntos mokesčio
+dėl pašto paslaugų teikėjo kaltės, pašto paslaugų teikėjas sumoka siuntėjui jo
+nurodytą išpirktinę sumą.
+8. Jeigu pašto
+paslaugų teikėjas dėl savo kaltės grąžina siuntėjui registruotąją pašto
+korespondenciją ar pašto siuntinį, už tai jis siuntėjui atlygina siuntimo
 išlaidas.
-9.
-Pašto paslaugų teikėjas, gavęs per šio Įstatymo nustatytus terminus pateiktą
+9. Pašto
+paslaugų teikėjas, gavęs per šio Įstatymo nustatytus terminus pateiktą
 pretenziją, žalą atlygina:
+1) dėl pašto
+siuntos, siųstos šalyje, – per mėnesį nuo pretenzijos pateikimo dienos;
+2) dėl
+tarptautinės pašto siuntos – per 3 mėnesius nuo pretenzijos pateikimo dienos.
+10. Pašto
+paslaugų teikėjas žalos neatlygina, jeigu:
 1)
-dėl pašto siuntos, siųstos šalyje, – per mėnesį nuo pretenzijos pateikimo
-dienos;
+siunčiant pašto siuntas atsirado nenugalimos jėgos (force majeure)
+aplinkybės, dėl kurių dingo pašto siunta, jeigu siuntoje trūksta daiktų ar jie
+sugadinti, negalima nustatyti, kas atsitiko su pašto siunta, nes sunaikinti
+įrodymams reikalingi tarnybiniai dokumentai, o pašto paslaugų teikėjų kaltė
+kitaip neįrodoma;
 2)
-dėl tarptautinės pašto siuntos – per 3 mėnesius nuo pretenzijos pateikimo
-dienos.
-10.
-Pašto paslaugų teikėjas žalos neatlygina, jeigu:
-1) siunčiant pašto siuntas atsirado nenugalimos jėgos
-(force majeure) aplinkybės, dėl kurių dingo pašto siunta, jeigu siuntoje
-trūksta daiktų ar jie sugadinti, negalima nustatyti, kas atsitiko su pašto
-siunta, nes sunaikinti įrodymams reikalingi tarnybiniai dokumentai, o pašto
-paslaugų teikėjų kaltė kitaip neįrodoma;
-2) žala padaryta dėl siuntėjo kaltės, nes jis pažeidė
-pašto paslaugų teikėjo reikalavimus dėl pakuotės, daiktų įpakavimo ar dėl
-ypatingų siunčiamojo daikto (prekės) savybių;
-3)
-pašto siunta, joje siunčiami daiktai (prekės) ar jų dalis išsiuntimo ar gavimo
-šalies įstatymų ir kitų teisės aktų nustatytais atvejais bei tvarka
-konfiskuoti;
+žala padaryta dėl siuntėjo kaltės, nes jis pažeidė pašto paslaugų teikėjo
+reikalavimus dėl pakuotės, daiktų įpakavimo ar dėl ypatingų siunčiamojo daikto
+(prekės) savybių;
+3) pašto siunta,
+joje siunčiami daiktai (prekės) ar jų dalis išsiuntimo ar gavimo šalies
+įstatymų ir kitų teisės aktų nustatytais atvejais bei tvarka konfiskuoti;
 4) įteikiant gavėjui registruotąją pašto
 korespondenciją ar pašto siuntinį, pakuotė ir ant jos esantis išsiuntimo pašto
 antspaudas, lipdukas su specialiu antspaudu, lipnioji juosta, plomba ar
 perrišimo virvutė yra nepažeisti ir pašto korespondencijos ar siuntinio svoris
 atitinka nurodytąjį;
-5)
-gavėjas priėmė pašto siuntą ir pasirašė, kad ją gavo; 
-6)
-pašto siunta negauta dėl asmens, kurį gavėjas įgaliojo ją paimti, kaltės;
-7)
-pašto siunta dingo ar buvo sugadinta šalyje, kurioje už tai nenumatyta
-atlyginti žalą;
-8)
-siunčiamos sekogramos, karo belaisvių ir internuotų civilių asmenų pašto
-korespondencijos siuntos.
+5) gavėjas
+priėmė pašto siuntą ir pasirašė, kad ją gavo; 
+6) pašto siunta
+negauta dėl asmens, kurį gavėjas įgaliojo ją paimti, kaltės;
+7) pašto siunta
+dingo ar buvo sugadinta šalyje, kurioje už tai nenumatyta atlyginti žalą;
+8) siunčiamos
+sekogramos, karo belaisvių ir internuotų civilių asmenų pašto korespondencijos
+siuntos.
 11. Pasiuntinių paslaugų teikėjams šio straipsnio
 nuostatos taikomos, jeigu sutartyse su naudotojais nenustatyta kitaip. Jei
 sutartis pablogina naudotojų padėtį, taikomos šio straipsnio nuostatos.
@@ -781,8 +782,8 @@ paslaugų teikėjas per šio straipsnio 1 dalyje nurodytą terminą pažeidimų
 nepašalina, Ryšių reguliavimo tarnyba inicijuoja ekonominių sankcijų skyrimo
 procedūrą.
 Įstatymas papildytas straipsniu:
-Nr. XI-1216, 2010-12-09,
-Žin., 2010, Nr. 153-7785 (2010-12-28)
+Nr. XI-1216,
+2010-12-09, Žin., 2010, Nr. 153-7785 (2010-12-28)
  
 14 straipsnis.
 Ekonominės sankcijos
@@ -833,13 +834,12 @@ pagrindžiantys motyvai. Ryšių reguliavimo tarnybos direktorius arba jo
 posėdį dėl pašto ir (ar) pasiuntinių paslaugų teikėjo padaryto pažeidimo
 nagrinėjimo. Ryšių reguliavimo tarnybos pareigūnas, inicijavęs ekonominės
 sankcijos skyrimo procedūrą, ne vėliau kaip prieš 30 dienų iki posėdžio dėl pašto
-ir (ar) pasiuntinių paslaugų teikėjo padaryto pažeidimo nagrinėjimo dienos
-praneša (kartu išsiųsdamas Ryšių reguliavimo tarnybos pareigūno teikimo dėl
-ekonominės sankcijos skyrimo kopiją) pašto ir (ar) pasiuntinių paslaugų
-teikėjui, kuriam inicijuota ekonominės sankcijos skyrimo procedūra, ir kitiems
-suinteresuotiems asmenims, kurių teisėtiems interesams, teisėms ir (ar)
-pareigoms turėjo įtakos pašto ir (ar) pasiuntinių paslaugų teikėjo padarytas
-pažeidimas, apie:
+ir (ar) pasiuntinių paslaugų teikėjo padaryto pažeidimo nagrinėjimo dienos praneša
+(kartu išsiųsdamas Ryšių reguliavimo tarnybos pareigūno teikimo dėl ekonominės
+sankcijos skyrimo kopiją) pašto ir (ar) pasiuntinių paslaugų teikėjui, kuriam
+inicijuota ekonominės sankcijos skyrimo procedūra, ir kitiems suinteresuotiems
+asmenims, kurių teisėtiems interesams, teisėms ir (ar) pareigoms turėjo įtakos pašto
+ir (ar) pasiuntinių paslaugų teikėjo padarytas pažeidimas, apie:
 1) posėdžio dėl pašto ir (ar)
 pasiuntinių paslaugų teikėjo padaryto pažeidimo nagrinėjimo datą, laiką ir
 vietą;
@@ -882,8 +882,8 @@ savo paaiškinimus pateikti Ryšių reguliavimo tarnybos direktoriaus arba jo
 įgalioto asmens iniciatyva ar pašto ir (ar) pasiuntinių paslaugų teikėjo,
 kuriam inicijuota ekonominės sankcijos skyrimo procedūra, prašymu kviečiami
 kiti asmenys (liudytojai, ekspertai, specialistai). Ryšių reguliavimo tarnybos
-direktorius arba jo įgaliotas asmuo turi teisę atsisakyti tenkinti pašto ir (ar)
-pasiuntinių paslaugų teikėjo prašymą kviesti kitus asmenis (liudytojus,
+direktorius arba jo įgaliotas asmuo turi teisę atsisakyti tenkinti pašto ir
+(ar) pasiuntinių paslaugų teikėjo prašymą kviesti kitus asmenis (liudytojus,
 ekspertus, specialistus) į posėdį dėl pašto ir (ar) pasiuntinių paslaugų
 teikėjo padaryto pažeidimo nagrinėjimo, jeigu toks prašymas yra nepagrįstas
 arba jo tenkinimas užvilkintų pašto ir (ar) pasiuntinių paslaugų teikėjui
@@ -935,12 +935,12 @@ direktoriaus ar jo įgalioto asmens iniciatyva ar posėdžio dalyvių prašymu.
 pasiuntinių paslaugų teikėjo padaryto pažeidimo nagrinėjimo metu rašomas
 protokolas. Ryšių reguliavimo tarnybos direktorius ar jo įgaliotas asmuo ir
 posėdžio sekretorius ne vėliau kaip per 3 darbo dienas po posėdžio dėl pašto ir
-(ar) pasiuntinių paslaugų teikėjo padaryto pažeidimo nagrinėjimo pasirašo
-posėdžio protokolą. Posėdžio sekretorius posėdžio protokolą per vieną darbo
-dieną nuo posėdžio protokolo pasirašymo dienos išsiunčia pašto ir (ar)
-pasiuntinių paslaugų teikėjui, kuriam inicijuota ekonominės sankcijos skyrimo
-procedūra, o šis turi teisę per 5 darbo dienas nuo posėdžio protokolo gavimo
-dienos pareikšti pastabas raštu ir prašyti patikslinti protokolą.
+(ar) pasiuntinių paslaugų teikėjo padaryto pažeidimo nagrinėjimo pasirašo posėdžio
+protokolą. Posėdžio sekretorius posėdžio protokolą per vieną darbo dieną nuo
+posėdžio protokolo pasirašymo dienos išsiunčia pašto ir (ar) pasiuntinių
+paslaugų teikėjui, kuriam inicijuota ekonominės sankcijos skyrimo procedūra, o
+šis turi teisę per 5 darbo dienas nuo posėdžio protokolo gavimo dienos
+pareikšti pastabas raštu ir prašyti patikslinti protokolą.
 12. Pašto ir (ar) pasiuntinių paslaugų
 teikėjas, kuriam inicijuota ekonominės sankcijos skyrimo procedūra ar yra
 paskirta ekonominė sankcija, ir kiti suinteresuoti asmenys, nurodyti šio
@@ -975,8 +975,8 @@ protokolo pasirašymo dienos, išnagrinėjęs visą medžiagą dėl pašto ir (a
 pasiuntinių paslaugų teikėjo padaryto pažeidimo, per 5 darbo dienas priima
 galutinį sprendimą skirti pašto ir (ar) pasiuntinių paslaugų teikėjui ekonominę
 sankciją arba atsisakyti skirti ekonominę sankciją. Sprendime skirti pašto ir
-(ar) pasiuntinių paslaugų teikėjui ekonominę sankciją turi būti nurodyti ekonominę
-sankciją pagrindžiantys motyvai.
+(ar) pasiuntinių paslaugų teikėjui ekonominę sankciją turi būti nurodyti
+ekonominę sankciją pagrindžiantys motyvai.
 15. Ekonominė sankcija turi būti
 paskirta ne vėliau kaip per 6 mėnesius nuo pašto ir (ar) pasiuntinių paslaugų
 teikėjo pažeidimo padarymo dienos.
@@ -1034,8 +1034,9 @@ metines pajamas, gautas per praėjusius ataskaitinius metus iš pašto ir (ar)
 pasiuntinių paslaugų teikimo veiklos. Tuo atveju, jeigu nėra galimybės
 apskaičiuoti bendrųjų metinių pajamų, gautų praėjusiais ataskaitiniais metais
 (pašto ir (ar) pasiuntinių paslaugų teikėjas neteikė pašto ir (ar) pasiuntinių
-paslaugų praėjusiais ataskaitiniais metais ir panašiai), skaičiuojamos einamaisiais
-metais iš pašto ir (ar) pasiuntinių paslaugų teikimo veiklos gautos pajamos.
+paslaugų praėjusiais ataskaitiniais metais ir panašiai), skaičiuojamos
+einamaisiais metais iš pašto ir (ar) pasiuntinių paslaugų teikimo veiklos
+gautos pajamos.
 4. Nustatant pažeidimu pašto ir (ar)
 pasiuntinių paslaugų teikėjams, naudotojams ir (ar) kitiems asmenims padarytos
 žalos dydį, atsižvelgiama į pažeidimo sukeltas pasekmes (kai tai įmanoma
@@ -1112,7 +1113,7 @@ gerinimo.
 birželio 10 d. Europos
 Parlamento ir Tarybos direktyva 2002/39/EB, iš dalies pakeičianti Direktyvą
 97/67/EB dėl Bendrijos pašto paslaugų rinkos tolimesnio atvėrimo konkurencijai.
-_____________
+ 
  
 Pakeitimai:
  
@@ -1169,11 +1170,20 @@ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas, išskyrus šio straipsnio 2
 dalį, įsigalioja 2012 m. sausio 1 d.
  
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2255,
+2012-10-02, Žin., 2012, Nr. 122-6114 (2012-10-20)
+PAŠTO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+Šis įstatymas įsigalioja 2013 m. sausio
+1 d.
+ 
  
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2011-12-30)
+(2012-10-25)
                  
 ausrine.trapinskiene@lrs.lt
