@@ -148,9 +148,9 @@ mažiau kaip 1,0 procentinio punkto bendrojo vidaus produkto to meto kainomis;
 3) jeigu paskutinių ketverių pasibaigusių kalendorinių
 metų statistinių valdžios sektoriaus balanso rodiklių ir Lietuvos Respublikos
 finansų ministerijos prognozuojamo einamųjų kalendorinių metų valdžios
-sektoriaus balanso rodiklio aritmetinis vidurkis yra perteklius (grynasis skolinimas),
-sudarantis ne mažiau kaip 0,1 procento bendrojo vidaus produkto to meto
-kainomis.
+sektoriaus balanso rodiklio aritmetinis vidurkis yra perteklius (grynasis
+skolinimas), sudarantis ne mažiau kaip 0,1 procento bendrojo vidaus produkto to
+meto kainomis.
 4. Įgyvendinant šio straipsnio 1 ir 2 dalių nuostatas:
 1) einamųjų metų valstybės biudžeto viršplaninėmis
 pajamomis mažinamas patvirtinto valstybės biudžeto deficitas;
@@ -160,16 +160,19 @@ finansinių rodiklių patvirtinimo įstatymo projektą arba jo pakeitimo įstaty
 projektą, pateikia išvadas dėl finansinių rodiklių atitikties paskutinėms
 galiojančioms Europos Sąjungos Ministrų Tarybos rekomendacijoms ir nuomonei dėl
 Lietuvos vidutinio laikotarpio ekonominės programos ir galimų papildomų
-priemonių, būtinų visiškai atsižvelgti į Europos Sąjungos Ministrų Tarybos rekomendacijas
-ir nuomonę. Lietuvos Respublikos Seimas, priimdamas atitinkamų metų valstybės
-biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymą
-arba jo pakeitimo įstatymą, atsižvelgia į paskutines galiojančias Europos
-Sąjungos Ministrų Tarybos rekomendacijas ir nuomonę dėl Lietuvos vidutinio
-laikotarpio ekonominės programos.
+priemonių, būtinų visiškai atsižvelgti į Europos Sąjungos Ministrų Tarybos
+rekomendacijas ir nuomonę. Lietuvos Respublikos Seimas, priimdamas atitinkamų
+metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
+patvirtinimo įstatymą arba jo pakeitimo įstatymą, atsižvelgia į paskutines
+galiojančias Europos Sąjungos Ministrų Tarybos rekomendacijas ir nuomonę dėl
+Lietuvos vidutinio laikotarpio ekonominės programos.
+4 dalies 2 punktas netenka galios nuo 2013-07-01.
 Straipsnio
-pakeitimai;
+pakeitimai:
 Nr. XI-1115,
 2010-11-12, Žin., 2010, Nr. 139-7099 (2010-11-27)
+Nr. XI-2276,
+2012-10-16, Žin., 2012, Nr. 126-6324 (2012-10-31)
  
 4
 straipsnis. Šio
@@ -178,6 +181,11 @@ straipsnis. Šio
 straipsnio 2 dalį, įsigalioja nuo 2008 m. sausio 1 d. 
 2. 2008 m. valdžios sektoriaus deficitas
 negali būti didesnis kaip 0,5 procento bendrojo vidaus produkto.
+2 dalis netenka galios nuo 2013-07-01.
+Straipsnio
+pakeitimai:
+Nr. XI-2276,
+2012-10-16, Žin., 2012, Nr. 126-6324 (2012-10-31)
  
 Skelbiu
 šį Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -207,8 +215,11 @@ deficito procedūros įgyvendinimo paspartinimo ir paaiškinimo (OL 2004 m.
 specialusis leidimas, 10 skyrius, 1 tomas, p. 89) su paskutiniais pakeitimais,
 padarytais 2005 m. birželio 27 d. Tarybos reglamentu (EB) Nr. 1056/2005 (OL
 2005 L 174, p. 5).
+
+
+
+
  
-________________
  
 Pakeitimai:
  
@@ -220,9 +231,19 @@ Nr. XI-1115,
 FISKALINĖS
 DRAUSMĖS ĮSTATYMO 2 IR 3 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2276,
+2012-10-16, Žin., 2012, Nr. 126-6324 (2012-10-31)
+FISKALINĖS DRAUSMĖS ĮSTATYMO 3 IR 4
+STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja 2013 m. liepos
+1 d.
+ 
 *** Pabaiga ***
  
  
-Redagavo Aušrinė
-Trapinskienė (2010-11-29)
-                  autrap@lrs.lt
+Redagavo Aušrinė Trapinskienė
+(2012-10-31)
+                 
+ausrine.trapinskiene@lrs.lt
