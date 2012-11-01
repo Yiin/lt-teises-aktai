@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2010-11-27 iki 2012-10-31
+Suvestinė redakcija nuo 2012-11-01 iki 2013-06-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
  
@@ -473,7 +473,15 @@ VALSTYBINĖ INVESTAVIMO POLITIKA
 
 
 
-6) investuojama į inovacijas, žinių ekonomikos branduolius – klasterius (geografines tarpusavyje sujungtas tam tikros srities įmonių ir institucijų santalkas). 
+6) investuojama į inovacijas, žinių ekonomikos branduolius – klasterius (geografines tarpusavyje sujungtas tam tikros srities įmonių ir institucijų santalkas); 
+
+
+
+
+7) investuojama į įsteigimą ne mažiau kaip 20 išlaikomų ne mažiau kaip trejus metus darbo vietų, į kurių kiekvieną įdarbinto asmens atitinkamų metų vidutinis darbo užmokestis būtų ne mažesnis kaip Lietuvos statistikos departamento skelbiamas tų metų šalies ūkio vidutinis mėnesinis darbo užmokestis. 
+Papildyta straipsnio punktu:
+Nr. XI-2224, 2012-09-20, Žin., 2012, Nr. 111-5634 (2012-09-26), i. k. 1121010ISTA0XI-2224
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -502,9 +510,10 @@ Nr. IX-1645, 2003-06-24, Žin., 2003, Nr. 69-3119 (2003-07-10), i. k. 1031010IST
 
 
 
-2) darbuotojų perkvalifikavimo išlaidos iš dalies ar visiškai padengiamos Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka; 
+2) darbuotojų perkvalifikavimo ir darbo vietų steigimo išlaidos iš dalies ar visiškai padengiamos Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka; 
 Straipsnio punkto pakeitimai:
 Nr. IX-2364, 2004-07-15, Žin., 2004, Nr. 124-4487 (2004-08-07), i. k. 1041010ISTA0IX-2364
+Nr. XI-2224, 2012-09-20, Žin., 2012, Nr. 111-5634 (2012-09-26), i. k. 1121010ISTA0XI-2224
  
 
 
@@ -525,9 +534,10 @@ Nr. IX-2364, 2004-07-15, Žin., 2004, Nr. 124-4487 (2004-08-07), i. k. 1041010IS
 
 
 
-6) dėl ne mažesnių kaip 20 mln. litų, o rajonuose, kuriuose nedarbo lygis didesnis už šalies vidurkį, oficialiai skelbiamą Lietuvos statistikos departamento, dėl ne mažesnių kaip 5 mln. litų kapitalo investicijų Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija Lietuvos Respublikos civilinio kodekso nustatyta tvarka sudaro su investuotojais investicijų sutartis, kuriose nustatomos specialios investavimo ir verslo sąlygos; 
+6) dėl ne mažesnių kaip 5 mln. litų kapitalo investicijų ir šio įstatymo 12 straipsnio 2 dalies 7 punkte nurodytų investicijų Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija Lietuvos Respublikos civilinio kodekso nustatyta tvarka sudaro su investuotojais investicijų sutartis, kuriose nustatomos specialios investavimo ir verslo sąlygos; 
 Straipsnio punkto pakeitimai:
 Nr. XI-1116, 2010-11-12, Žin., 2010, Nr. 139-7100 (2010-11-27), i. k. 1101010ISTA0XI-1116
+Nr. XI-2224, 2012-09-20, Žin., 2012, Nr. 111-5634 (2012-09-26), i. k. 1121010ISTA0XI-2224
  
 
 
@@ -564,6 +574,30 @@ Nr. IX-2364, 2004-07-15, Žin., 2004, Nr. 124-4487 (2004-08-07), i. k. 1041010IS
 2. Investavimo skatinimo būdai taikomi tiek, kiek tai neprieštarauja Europos Sąjungos teisės aktams, reglamentuojantiems valstybės pagalbos teikimą. 
 Straipsnio dalies pakeitimai:
 Nr. IX-2527, 2004-11-02, Žin., 2004, Nr. 167-6106 (2004-11-17), i. k. 1041010ISTA0IX-2527
+ 
+
+
+
+
+3. Investicijų projektai, susiję su juridinio asmens steigimu, plėtra, veiklos įvairinimu ar esminiu pakeitimu, yra koordinuojami, dėl jų teikiama informacija, susijusi su paramos ir (ar) valstybės pagalbos gavimu ir jos panaudojimu šiems investicijų projektams įgyvendinti. 
+Papildyta straipsnio dalimi:
+Nr. XI-2224, 2012-09-20, Žin., 2012, Nr. 111-5634 (2012-09-26), i. k. 1121010ISTA0XI-2224
+ 
+
+
+
+
+4. Šio straipsnio 3 dalyje nurodytą investicijų projektų koordinavimą, informacijos teikimą, taip pat investicijų projektų, kuriems lėšos skiriamos iš valstybės biudžeto, išskyrus Europos Sąjungos ir kitos finansinės paramos lėšas, įgyvendinimo kontrolę vykdo, konsultacijas tiesioginių užsienio investicijų pritraukimo į šalies gamybos ir paslaugų sektorius klausimais ir informaciją apie investicijų aplinką Lietuvos ūkio subjektams ir užsienio investuotojams teikia Lietuvos Respublikos ūkio ministro įgaliota viešoji įstaiga, kurios savininko teises ir pareigas įgyvendina Lietuvos Respublikos ūkio ministerija. 
+Papildyta straipsnio dalimi:
+Nr. XI-2224, 2012-09-20, Žin., 2012, Nr. 111-5634 (2012-09-26), i. k. 1121010ISTA0XI-2224
+ 
+
+
+
+
+5. Šio straipsnio 3 ir 4 dalyse nustatyta veikla yra finansuojama iš Lietuvos Respublikos ūkio ministerijai skirtų valstybės biudžeto asignavimų ir (ar) kitų lėšų. 
+Papildyta straipsnio dalimi:
+Nr. XI-2224, 2012-09-20, Žin., 2012, Nr. 111-5634 (2012-09-26), i. k. 1121010ISTA0XI-2224
  
 
 
@@ -922,3 +956,8 @@ Lietuvos Respublikos investicijų įstatymo 2, 4 straipsnių papildymo ir pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1116, 2010-11-12, Žin., 2010, Nr. 139-7100 (2010-11-27), i. k. 1101010ISTA0XI-1116
 Lietuvos Respublikos investicijų įstatymo 13 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2224, 2012-09-20, Žin., 2012, Nr. 111-5634 (2012-09-26), i. k. 1121010ISTA0XI-2224
+Lietuvos Respublikos investicijų įstatymo 12, 13 straipsnių pakeitimo ir papildymo įstatymas
