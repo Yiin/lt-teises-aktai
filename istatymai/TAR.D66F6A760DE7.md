@@ -598,9 +598,17 @@ straipsnis. Uosto žemės nuomos sutarties forma ir terminas
 1. Uosto žemės
 nuomos sutartis sudaroma raštu ne ilgiau kaip 50 metų, laikantis Lietuvos
 Respublikos civilinio kodekso ir šio įstatymo reikalavimų.
+ 
 2. Nuomininkas, tvarkingai
 vykdęs uosto žemės nuomos sutartyje nustatytas pareigas, pasibaigus sutarties
 terminui, turi pirmumo teisę atnaujinti sutartį.
+2 dalies redakcija nuo 2013-01-01
+2. Kai pasibaigus uosto žemės
+nuomos sutarties terminui uosto žemę tokiomis pačiomis sąlygomis konkurso būdu
+pretenduoja išsinuomoti buvęs nuomininkas ir kiti asmenys, pirmumo teisę
+sudaryti naują uosto žemės nuomos sutartį turi buvęs tos uosto žemės
+nuomininkas, jeigu jis tvarkingai vykdė pagal uosto žemės nuomos sutartį
+prisiimtus įsipareigojimus.
 Straipsnio pakeitimai:
 Nr. VIII-1898, 00.08.29, Žin., 2000,
 Nr.75-2265 (00.09.07)
@@ -608,6 +616,9 @@ Nr. VIII-1962, 00.09.26, Žin., 2000,
 Nr.82-2479 (00.09.29)
 Nr. IX-1226,
 2002-12-05, Žin., 2002, Nr. 123-5519 (2002-12-24)
+Nr.
+XI-2288,
+2012-10-17, Žin., 2012, Nr. 127-6390 (2012-11-03)
  
 25 straipsnis. Uosto žemės nuomos
 sutarties sąlygos 
@@ -685,8 +696,8 @@ sandėliavimo uoste tvarką nustato Lietuvos Respublikos įstatymai bei Lietuvos
 Respublikos tarptautinės sutartys, Klaipėdos valstybinio jūrų uosto laivybos ir
 naudojimo taisyklės bei kiti teisės aktai.
 Straipsnio pakeitimai:
-Nr. IX-1226,
-2002-12-05, Žin., 2002, Nr. 123-5519 (2002-12-24)
+Nr. IX-1226, 2002-12-05,
+Žin., 2002, Nr. 123-5519 (2002-12-24)
         
 28 straipsnis.
 Aptarnavimas uoste
@@ -810,8 +821,8 @@ Straipsnio
 pakeitimai:
 Nr. VIII-1538, 00.02.15, Žin., 2000,
 Nr.18-429 (00.02.29)
-Nr. VIII-1898, 00.08.29, Žin., 2000,
-Nr.75-2265 (00.09.07)
+Nr. VIII-1898, 00.08.29, Žin., 2000, Nr.75-2265
+(00.09.07)
 Nr. IX-1226,
 2002-12-05, Žin., 2002, Nr. 123-5519 (2002-12-24)
 Nr. X-430, 2005-12-06,
@@ -823,9 +834,9 @@ Nr. X-811, 2006-09-14,
 straipsnis. Uosto rinkliavos
 1. Už naudojimąsi uostu laivų valdytojai
 privalo mokėti uosto rinkliavas.
-2. Uosto
-rinkliavų rūšis, jų maksimalius dydžius, rinkliavų taikymo principus nustato
-Lietuvos Respublikos Vyriausybė.
+2. Uosto rinkliavų
+rūšis, jų maksimalius dydžius, rinkliavų taikymo principus nustato Lietuvos
+Respublikos Vyriausybė.
 3. Uosto rinkliavų taikymo
 taisykles tvirtina susisiekimo ministras.
 Straipsnio pakeitimai:
@@ -963,8 +974,8 @@ nustatyta tvarka privalo atlyginti nuostolius, atsiradusius dėl taršos.
         3. Nuostolius dėl taršos,
 atsiradusius išmetant kenksmingas medžiagas, naftą, naftos produktus,
 nutekamuosius vandenis ar šiukšles iš dviejų ar daugiau laivų, šių laivų
-savininkai arba valdytojai, jeigu negalima nustatyti kiekvieno jų kaltės,
-privalo atlyginti solidariai.
+savininkai arba valdytojai, jeigu negalima nustatyti kiekvieno jų kaltės, privalo
+atlyginti solidariai.
         
             43 straipsnis. Neteko galios nuo 2000 m. spalio 1 d.
 Straipsnio pakeitimai:
@@ -1120,16 +1131,28 @@ VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO 31 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 13.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XI-715,
-2010-03-30, Žin., 2010, Nr. 41-1940 (2010-04-10)
+Nr. XI-715, 2010-03-30,
+Žin., 2010, Nr. 41-1940 (2010-04-10)
 KLAIPĖDOS
 VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas
 įsigalioja 2010 m. liepos 1 d.
  
-*** Pabaiga ***
+14.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-2288,
+2012-10-17, Žin., 2012, Nr. 127-6390 (2012-11-03)
+KLAIPĖDOS
+VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO 24 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas, išskyrus 2 straipsnio 2 dalį, įsigalioja 2013 m sausio 1 d. 
+ 
+***
+Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė
-(2010-04-14)
-                  autrap@lrs.lt
+Redagavo
+Aušra Bodin (2012-11-05)
+                 
+aubodi@lrs.lt
