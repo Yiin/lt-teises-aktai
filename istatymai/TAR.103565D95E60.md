@@ -1671,6 +1671,18 @@ draudimo sutartyse, pagal kurias kaupiamos profesinės pensijos, gali būti
 numatytas kitų, negu šio įstatymo 27 ir 29 straipsniuose nurodytų išmokų,
 draudimo išmokų mokėjimas. Tokioms draudimo išmokoms taikomos Draudimo įstatymo
 šeštojo skyriaus nuostatos.
+38 straipsnio
+redakcija nuo 2014-01-01
+38
+straipsnis. Draudimo išmokos 
+Gyvybės
+draudimo sutartyse, pagal kurias kaupiamos profesinės pensijos, gali būti
+numatytas kitų, negu šio įstatymo 27 ir 29 straipsniuose nurodytų išmokų,
+draudimo išmokų mokėjimas. Tokioms draudimo išmokoms taikomos Draudimo įstatymo
+penktojo skyriaus nuostatos.
+Straipsnio pakeitimai:
+Nr. XI-2278,
+2012-10-16, Žin., 2012, Nr. 127-6386 (2012-11-03)
  
 39
 straipsnis. Techniniai atidėjiniai ir jų padengimas turtu
@@ -1682,6 +1694,19 @@ tvarką.
 2.
 Profesinių pensijų kaupimo techninis atidėjinys dengiamas turtu vadovaujantis
 Draudimo įstatymo 35 straipsnio nuostatomis.
+39 straipsnio
+redakcija nuo 2014-01-01
+39
+straipsnis. Techniniai atidėjiniai 
+1. Gyvybės
+draudimo įmonėms, vykdančioms profesinių pensijų kaupimo veiklą, mutatis
+mutandis taikomos šio įstatymo 43, 44, 45 straipsnių nuostatos.
+2.
+Profesinių pensijų kaupimo techninis atidėjinys skaičiuojamas vadovaujantis
+Draudimo įstatymo 41 straipsnio 8 dalies nuostatomis.
+Straipsnio pakeitimai:
+Nr. XI-2278,
+2012-10-16, Žin., 2012, Nr. 127-6386 (2012-11-03)
  
 40 straipsnis.
 Gyvybės draudimo įmonių, vykdančių profesinių pensijų kaupimo veiklą, priežiūra
@@ -1690,8 +1715,8 @@ Gyvybės draudimo įmonių, vykdančių profesinių pensijų kaupimo veiklą, pr
 atlieka priežiūros institucija Draudimo įstatymo ir kitų teisės aktų nustatyta
 tvarka.
 2.
-Be kitų šiam įstatymui įgyvendinti reikalingų teisės aktų, priežiūros institucija
-priima šiuos teisės aktus:
+Be kitų šiam įstatymui įgyvendinti reikalingų teisės aktų, priežiūros
+institucija priima šiuos teisės aktus:
 1)
 Gyvybės draudimo sutarčių, pagal kurias kaupiamos profesinės pensijos,
 įtraukimo į priežiūros institucijos administruojamą tokių sutarčių sąrašą ir
@@ -1763,8 +1788,8 @@ aktuarų profesinės organizacijos patvirtintu profesinės etikos kodeksu.
 Nustatęs iškilusią grėsmę, kad pensijų asociacija gali tapti nepajėgi bet
 kuriuo metu įvykdyti iš apibrėžtų išmokų pensijų fondo taisyklių atsirandančius
 įsipareigojimus, aktuaras apie tai nedelsdamas privalo pranešti pensijų
-asociacijos valdybai, o jeigu ši nedelsdama nesiima priemonių susidariusiai
-padėčiai ištaisyti, – ir priežiūros institucijai.
+asociacijos valdybai, o jeigu ši nedelsdama nesiima priemonių susidariusiai padėčiai
+ištaisyti, – ir priežiūros institucijai.
 3.
 Aktuarui turi būti užtikrintos sąlygos gauti visą jo pareigoms atlikti būtiną
 informaciją ir dokumentus.
@@ -1788,11 +1813,11 @@ taisyklių.
 Pensijų asociacija, valdanti apibrėžtų išmokų pensijų fondą, turi suformuoti
 pakankamus techninius atidėjinius visiems jos valdomiems apibrėžtiems išmokų pensijų fondams. 
 3.
-Techniniai atidėjiniai apskaičiuojami kiekvienais metais. Techniniai atidėjiniai
-gali būti apskaičiuojami kartą per 3 metus, jeigu priežiūros institucijai
-pateikiami tarpinių metų perskaičiavimų patvirtinimai arba ataskaitos.
-Patvirtinimas arba ataskaita turi atspindėti patikslintą techninių atidėjinių
-pokytį ir padengtų rizikų pasikeitimus. 
+Techniniai atidėjiniai apskaičiuojami kiekvienais metais. Techniniai
+atidėjiniai gali būti apskaičiuojami kartą per 3 metus, jeigu priežiūros
+institucijai pateikiami tarpinių metų perskaičiavimų patvirtinimai arba
+ataskaitos. Patvirtinimas arba ataskaita turi atspindėti patikslintą techninių
+atidėjinių pokytį ir padengtų rizikų pasikeitimus. 
 4.
 Techninių atidėjinių apskaičiavimą turi atlikti ir patvirtinti aktuaras arba
 kitas šios srities specialistas, įskaitant auditorių, remdamasis priežiūros
@@ -1819,14 +1844,14 @@ pagrįstos riziką ribojančiais principais, atsižvelgiant į pagrindines dalyv
 grupės ir apibrėžtų išmokų pensijų
 fondų charakteristikas, ypač į numatomus atitinkamos rizikos pasikeitimus; 
 4)
-techninių atidėjinių apskaičiavimo metodas ir pagrindas kiekvienais
-finansiniais metais dažniausiai išlieka toks pat. Tačiau pakeitimai gali būti
-pagrįsti, jeigu pasikeičia pagrindinių prielaidų teisinės, demografinės arba
-ekonominės aplinkybės. 
+techninių atidėjinių apskaičiavimo metodas ir pagrindas kiekvienais finansiniais
+metais dažniausiai išlieka toks pat. Tačiau pakeitimai gali būti pagrįsti,
+jeigu pasikeičia pagrindinių prielaidų teisinės, demografinės arba ekonominės
+aplinkybės. 
 5.
-Priežiūros institucija techniniams atidėjiniams apskaičiuoti gali nustatyti
-papildomus ir išsamesnius reikalavimus, kad būtų užtikrinta pakankama dalyvių
-ir išmokų gavėjų interesų apsauga. 
+Priežiūros institucija techniniams atidėjiniams apskaičiuoti gali nustatyti papildomus
+ir išsamesnius reikalavimus, kad būtų užtikrinta pakankama dalyvių ir išmokų
+gavėjų interesų apsauga. 
  
 44
 straipsnis. Techninių atidėjinių padengimas
@@ -1848,14 +1873,23 @@ apibrėžtų išmokų pensijų fondą
 valdanti pensijų asociacija, jeigu ji pati, o ne finansuojantis subjektas,
 prisiima įsipareigojimus dėl apsaugos nuo biometrinės rizikos arba garantuoja
 tam tikrus investavimo rezultatus ar tam tikrą išmokų dydį, visada turi turėti
-papildomo techninius atidėjinius viršijančio turto, kuris gali būti
-panaudojamas kaip rezervas. Jo dydis turi atitikti visų pensijų asociacijos
-apibrėžtų išmokų pensijų fondų rizikos tipą ir turto pagrindą. Šis turtas turi
-būti be jokių iš anksto numatomų įsipareigojimų ir naudojamas kaip apsaugos kapitalas
-numatytų ir faktinių išlaidų bei pelno neatitikimams padengti. 
+papildomo techninius atidėjinius viršijančio turto, kuris gali būti panaudojamas
+kaip rezervas. Jo dydis turi atitikti visų pensijų asociacijos apibrėžtų išmokų
+pensijų fondų rizikos tipą ir turto pagrindą. Šis turtas turi būti be jokių iš
+anksto numatomų įsipareigojimų ir naudojamas kaip apsaugos kapitalas numatytų
+ir faktinių išlaidų bei pelno neatitikimams padengti. 
+ 
 2.
 Būtinas papildomo turto dydis apskaičiuojamas Draudimo įstatymo 39 straipsnyje
 nustatyta tvarka. 
+2 dalies
+redakcija nuo 2014-01-01
+2.
+Būtinas papildomo turto dydis apskaičiuojamas Draudimo įstatymo
+37 straipsnio 9 dalyje nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. XI-2278,
+2012-10-16, Žin., 2012, Nr. 127-6386 (2012-11-03)
  
 DEVINTASIS
 SKIRSNIS
@@ -1916,10 +1950,10 @@ pensijų fondo rizikos koncentracijos;
 investicijos į finansuojantį subjektą negali sudaryti daugiau kaip 5 procentų
 viso investicijų portfelio ir, jeigu finansuojantis subjektas priklauso grupei,
 investicijos į įmones, priklausančias tai pačiai grupei kaip ir finansuojantis
-subjektas, negali sudaryti daugiau kaip 10 procentų investicijų portfelio.
-Jeigu pensijų asociacijoje yra keli finansuojantys subjektai, į šiuos
-finansuojančius subjektus gali būti investuojama ribojant riziką ir
-atsižvelgiant į tinkamo diversifikavimo poreikį. 
+subjektas, negali sudaryti daugiau kaip 10 procentų investicijų portfelio. Jeigu
+pensijų asociacijoje yra keli finansuojantys subjektai, į šiuos finansuojančius
+subjektus gali būti investuojama ribojant riziką ir atsižvelgiant į tinkamo
+diversifikavimo poreikį. 
 2.
 Priežiūros institucija turi teisę tvirtinti šio straipsnio 1 dalyje nurodytos
 „apdairaus asmens“ taisyklės taikymo rekomendacijas. 
@@ -1937,8 +1971,8 @@ valiuta.
 Pensijų turtą taip pat draudžiama įkeisti, juo garantuoti arba laiduoti kitų
 asmenų įsipareigojimų vykdymą.
 6.
-Pensijų fondo lėšomis taip pat negali būti sudaromi sandoriai dėl vertybinių
-popierių, pinigų rinkos priemonių, kurių jis neturi, perleidimo. 
+Pensijų fondo lėšomis taip pat negali būti sudaromi sandoriai dėl vertybinių popierių,
+pinigų rinkos priemonių, kurių jis neturi, perleidimo. 
 Straipsnio pakeitimai:
 Nr. XI-2125,
 2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
@@ -1967,8 +2001,8 @@ Draudžiama investuoti daugiau kaip 30 procentų pensijų fondo grynųjų aktyv�
 akcijas, kitus vertybinius popierius, kurie laikomi akcijomis, ir į skolos
 vertybinius popierius, kuriais neleidžiama prekiauti reguliuojamoje rinkoje,
 arba investuojama ne mažiau kaip 70 procentų pensijų fondo grynųjų aktyvų į
-akcijas, kitus vertybinius popierius, kurie laikomi akcijomis, ir į skolos
-vertybinius popierius, kuriais leidžiama prekiauti reguliuojamoje rinkoje.
+akcijas, kitus vertybinius popierius, kurie laikomi akcijomis, ir į skolos vertybinius
+popierius, kuriais leidžiama prekiauti reguliuojamoje rinkoje.
 5.
 Ne daugiau kaip 5 procentai pensijų fondo grynųjų aktyvų gali būti investuojama
 į akcijas ir kitus vertybinius popierius, laikomus akcijomis, obligacijas,
@@ -2038,10 +2072,10 @@ straipsnis. Dalyviams ir išmokų gavėjams teikiama informacija
 Kiekvienam pensijų fondo dalyviui ne rečiau kaip kartą per kalendorinius metus
 pensijų asociacijos įstatuose ir (ar) pensijų fondo taisyklėse nustatyta tvarka
 raštu ar kitokia dalyvio pageidaujama forma turi būti pranešama apie jo vardu
-sumokėtų įmokų dydį (nurodant įmokų mokėtoją (mokėtojus), įmokų dalies pasiskirstymą,
-jam apskaičiuoto pensijų turto dydį (apskaitos vienetų skaičių, jų vertę),
-metinę investicijų grąžą, išskaitytų mokesčių dydį, glaustą pensijų asociacijos
-būklės aprašymą.
+sumokėtų įmokų dydį (nurodant įmokų mokėtoją (mokėtojus), įmokų dalies
+pasiskirstymą, jam apskaičiuoto pensijų turto dydį (apskaitos vienetų skaičių,
+jų vertę), metinę investicijų grąžą, išskaitytų mokesčių dydį, glaustą pensijų
+asociacijos būklės aprašymą.
 2. Dalyvių,
 išmokų gavėjų ar jų atstovų prašymu turi būti pateikiama šio įstatymo 49
 straipsnyje nurodyta metinė finansinė ataskaita ir metinė veiklos ataskaita, o
@@ -2066,20 +2100,20 @@ kai nutraukiami darbo santykiai.
 Pensijų
 asociacija turi
 tinkamai informuoti pensijų fondo dalyvius apie jų, kaip pensijų fondo dalyvių,
-teises. Dalyviams turi būti suteiktos galimybės gauti išsamią informaciją,
-padedančią įvertinti, kokį poveikį jų teisei į pensijų išmokas turės perėjimas
-dirbti į naują darbą kitoje valstybėje narėje ir perėjimas į kitą pensijų fondą
-toje valstybėje ir, jeigu yra galimybė, visą informaciją apie galimas
-pasirinkimo alternatyvas (informaciją apie galimą dalyvavimo pensijų
-asociacijos pensijų fonde mokestį ar sukaupto pensijų turto pervedimo per
-kredito įstaigą mokestį, apie jiems priklausančio pensijų turto dalį, kurią jie
-gautų, jeigu įgytų teisę į išmoką kreipimosi dieną, ir kita). Informacija
-turi būti nemokamai pateikta jos prašančiam dalyviui ne vėliau kaip per 2
-mėnesius nuo kreipimosi dienos. Jeigu dalyvis dėl tokios informacijos pateikimo
-jau kreipėsi į pensijų asociaciją per paskutinius 12 mėnesių, ši gali
-reikalauti iš asmens, kuris kreipėsi pensijų taisyklėse nustatyto mokesčio už
-informacijos pateikimą. Šis mokestis visais atvejais negali viršyti būtinųjų
-informacijos pateikimo išlaidų. 
+teises. Dalyviams turi būti suteiktos galimybės gauti išsamią informaciją, padedančią
+įvertinti, kokį poveikį jų teisei į pensijų išmokas turės perėjimas dirbti į
+naują darbą kitoje valstybėje narėje ir perėjimas į kitą pensijų fondą toje
+valstybėje ir, jeigu yra galimybė, visą informaciją apie galimas pasirinkimo
+alternatyvas (informaciją apie galimą dalyvavimo pensijų asociacijos pensijų
+fonde mokestį ar sukaupto pensijų turto pervedimo per kredito įstaigą mokestį,
+apie jiems priklausančio pensijų turto dalį, kurią jie gautų, jeigu įgytų teisę
+į išmoką kreipimosi dieną, ir kita). Informacija turi būti
+nemokamai pateikta jos prašančiam dalyviui ne vėliau kaip per 2 mėnesius nuo
+kreipimosi dienos. Jeigu dalyvis dėl tokios informacijos pateikimo jau kreipėsi
+į pensijų asociaciją per paskutinius 12 mėnesių, ši gali reikalauti iš asmens,
+kuris kreipėsi pensijų taisyklėse nustatyto mokesčio už informacijos pateikimą.
+Šis mokestis visais atvejais negali viršyti būtinųjų informacijos pateikimo
+išlaidų. 
 5.
 Kiekvienam į pensiją išeinančiam arba kitais pagrindais teisę į išmokas
 įgijusiam išmokų gavėjui turi būti pateikiama informacija apie jam
@@ -2366,9 +2400,9 @@ Kreipiantis dėl išankstinio leidimo priimti įmokas iš kitų valstybių nari�
 teritorijose esančių finansuojančių subjektų, priežiūros institucijai turi būti
 pateikiamas pranešimas, kuriame nurodoma tokia informacija:
 1)
-valstybė (valstybės) narė (narės), iš kurios (kurių) teritorijoje
-(teritorijose) esančių subjektų ketinama priimti įmokas (finansavimą), –
-priimančioji valstybė narė;
+valstybė (valstybės) narė (narės), iš kurios (kurių) teritorijoje (teritorijose)
+esančių subjektų ketinama priimti įmokas (finansavimą), – priimančioji valstybė
+narė;
 2)
 finansuojančio subjekto pavadinimas;
 3)
@@ -2537,8 +2571,8 @@ KAUPIMO ĮSTATYMO 2, 52 IR 56 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 2.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1678, 2011-11-17,
-Žin., 2011, Nr. 146-6824 (2011-12-01)
+Nr. XI-1678,
+2011-11-17, Žin., 2011, Nr. 146-6824 (2011-12-01)
 PROFESINIŲ PENSIJŲ KAUPIMO ĮSTATYMO
 PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija
@@ -2564,8 +2598,17 @@ PENSIJŲ KAUPIMO ĮSTATYMO 2, 4, 5, 8, 14, 15, 18, 19, 22, 31, 32, 33, 34, 35,
 42, 47, 52, 53, 54, 56 STRAIPSNIŲ IR ŠEŠTOJO SKIRSNIO PAVADINIMO PAKEITIMO
 ĮSTATYMAS
  
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2278,
+2012-10-16, Žin., 2012, Nr. 127-6386 (2012-11-03)
+PROFESINIŲ PENSIJŲ KAUPIMO ĮSTATYMO 38,
+39 IR 45 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja 2014 m. sausio
+1 d.
+ 
 *** Pabaiga ***
  
  
-Redagavo Aušra Bodin (2012-07-03)
+Redagavo Aušra Bodin (2012-11-05)
                   aubodi@lrs.lt
