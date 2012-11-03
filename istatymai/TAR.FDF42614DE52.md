@@ -459,7 +459,8 @@ Nedarbo
 draudimo išmoka, negauta iki turėjusio į ją teisę asmens mirties dienos,
 išmokama asmeniui, pateikusiam paveldėjimo dokumentus.
  
-TREČIASIS SKIRSNIS
+TREČIASIS
+SKIRSNIS
 NEDARBO DRAUDIMO
 LĖŠOS, ATSAKOMYBĖ
  
@@ -555,26 +556,27 @@ biržos yra atsakingos už nedarbo draudimo išmokų apskaičiavimą ir mokėjim
 Neteisingai išmokėtos sumos išieškomos įstatymų nustatyta tvarka.
 Straipsnio redakcija nuo 2013 m. sausio
 1 d.:
-20 straipsnis. Nedarbo draudimo išmokas
-apskaičiuojanti, skirianti ir mokanti įstaiga ir jos atsakomybė
-1. Nedarbo
-draudimo išmokas apskaičiuoja, skiria ir moka Valstybinio socialinio draudimo
-fondo valdybos teritoriniai skyriai (toliau – Fondo valdybos teritoriniai
-skyriai) Nedarbo draudimo išmokų nuostatuose nustatyta tvarka.
-2. Valstybinio
-socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo
-ministerijos ir Fondo valdybos teritoriniai skyriai yra atsakingi už nedarbo
-draudimo išmokų apskaičiavimą, skyrimą ir mokėjimą.
-3. Neteisingai apskaičiuotos ir išmokėtos nedarbo
-draudimo išmokos išieškomos įstatymų nustatyta tvarka.
+20
+straipsnis. Įstaigos, skiriančios ir mokančios nedarbo draudimo išmokas, ir jų
+atsakomybė
+1. Lietuvos darbo
+birža nedarbo draudimo išmokas apskaičiuoja ir skiria per teritorines darbo
+biržas Nedarbo draudimo išmokų nuostatuose nustatyta tvarka.
+2. Nedarbo draudimo
+išmokas moka Valstybinio socialinio draudimo fondo valdybos teritoriniai
+skyriai (toliau – Fondo valdybos teritoriniai skyriai) Nedarbo draudimo išmokų
+nuostatuose nustatyta tvarka.
+3. Valstybinio socialinio draudimo fondo valdyba prie Socialinės
+apsaugos ir darbo ministerijos ir Fondo valdybos teritoriniai skyriai yra
+atsakingi už nedarbo draudimo išmokų mokėjimą.
+4. Lietuvos darbo birža ir jos teritorinės darbo biržos yra atsakingos
+už nedarbo draudimo išmokų apskaičiavimą ir skyrimą.
+5. Neteisingai apskaičiuotos ir išmokėtos nedarbo
+socialinio draudimo išmokos išieškomos įstatymų nustatyta tvarka.
 Straipsnio pakeitimai:
 Nr.
 XI-306, 2009-06-18, Žin., 2009, Nr.
 77-3170 (2009-06-30)
-Nr. XI-2306, 2012-10-17,
-Žin., 2012, Nr. 127-6395 (2012-11-03)
- 
- 
  
 KETVIRTASIS SKIRSNIS
 BAIGIAMOSIOS NUOSTATOS 
@@ -612,8 +614,8 @@ mokama šio Įstatymo nustatytą laiką, pradedant jo atskaitą nuo bedarbio
 pašalpos skyrimo dienos; 
 5) šio straipsnio 3 punkte nurodytu atveju kintama
 nedarbo draudimo išmokos dalis mažinama tokiomis pat proporcijomis ir tais
-pačiais terminais, skaičiuojant nuo bedarbio pašalpos skyrimo dienos, kaip nustatyta
-šio Įstatymo 8 straipsnio 4 dalyje.
+pačiais terminais, skaičiuojant nuo bedarbio pašalpos skyrimo dienos, kaip
+nustatyta šio Įstatymo 8 straipsnio 4 dalyje.
 2. Šio straipsnio 1 dalyje nustatyta tvarka pradėjus
 mokėti nedarbo draudimo išmoką, jai taikomos visos šio Įstatymo nuostatos,
 laikant išmokos skyrimo diena anksčiau mokėtos bedarbio pašalpos skyrimo dieną.
@@ -621,9 +623,9 @@ laikant išmokos skyrimo diena anksčiau mokėtos bedarbio pašalpos skyrimo die
 3. Asmenims, kuriems bedarbio pašalpa paskirta iki
 2005 m. sausio 1 d. ir jos mokėjimas pratęstas pagal anksčiau galiojusį
 įstatymą dėl to, kad bedarbiui iki pensinio amžiaus liko ne daugiau kaip 2
-metai, toliau mokama anksčiau paskirtos bedarbio pašalpos dydžio nedarbo
-draudimo išmoka. Ši išmoka mokama laikotarpį, kuris buvo nustatytas bedarbio
-pašalpos mokėjimo pratęsimo metu iki 2005 m. sausio 1 d. 
+metai, toliau mokama anksčiau paskirtos bedarbio pašalpos dydžio nedarbo draudimo
+išmoka. Ši išmoka mokama laikotarpį, kuris buvo nustatytas bedarbio pašalpos
+mokėjimo pratęsimo metu iki 2005 m. sausio 1 d. 
 4. Bedarbiams, įsiregistravusiems teritorinėse darbo biržose iki 2005
 m. sausio 1 d., kuriems pagal anksčiau galiojusį įstatymą nebuvo paskirta
 bedarbio pašalpa, nedarbo draudimo išmoka skiriama, jeigu jie 2005 m. sausio 1
@@ -687,10 +689,10 @@ straipsnis. Teisės aktų pripažinimas netekusiais galios
 atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo, Žalos
 atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga
 laikinojo įstatymo, Sveikatos draudimo įstatymo, Nedarbo socialinio draudimo
-įstatymo, Valstybinių socialinio draudimo pensijų įstatymo, Valstybinio
-socialinio draudimo fondo biudžeto sandaros įstatymo, Invalidų socialinės
-integracijos įstatymo, Valstybinių socialinio draudimo pensijų įstatymo 33, 34,
-36, 45 straipsnių pakeitimo ir papildymo 45(1) straipsniu įstatymo,
+įstatymo, Valstybinių socialinio draudimo pensijų įstatymo, Valstybinio socialinio
+draudimo fondo biudžeto sandaros įstatymo, Invalidų socialinės integracijos
+įstatymo, Valstybinių socialinio draudimo pensijų įstatymo 33, 34, 36, 45
+straipsnių pakeitimo ir papildymo 45(1) straipsniu įstatymo,
 Valstybinių socialinio draudimo pensijų įstatymo 9, 16, 28, 35, 36, 40, 43, 45,
 49, 50, 54 straipsnių pakeitimo ir papildymo bei Įstatymo papildymo 55(6)
 straipsniu ir VII skyriumi įstatymo, Valstybinių socialinio draudimo pensijų
@@ -717,23 +719,22 @@ Pakeitimai:
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-2540, 2004-11-04,
-Žin., 2004, Nr. 171-6300 (2004-11-26)
+IX-2540,
+2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26)
 NELAIMINGŲ
 ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO, ŽALOS
 ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA
-LAIKINOJO ĮSTATYMO, SVEIKATOS DRAUDIMO ĮSTATYMO, NEDARBO SOCIALINIO DRAUDIMO
-ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO, VALSTYBINIO
-SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO, INVALIDŲ SOCIALINĖS
-INTEGRACIJOS ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 33, 34,
-36, 45 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 45(1) STRAIPSNIU ĮSTATYMO, VALSTYBINIŲ
+LAIKINOJO ĮSTATYMO, SVEIKATOS DRAUDIMO ĮSTATYMO, NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO,
+VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO, VALSTYBINIO SOCIALINIO
+DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO, INVALIDŲ SOCIALINĖS INTEGRACIJOS
+ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 33, 34, 36, 45
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 45(1) STRAIPSNIU ĮSTATYMO, VALSTYBINIŲ
 SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 9, 16, 28, 35, 36, 40, 43, 45, 49, 50, 54
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(6) STRAIPSNIU IR
 VII SKYRIUMI ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 10,
 28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 BEI ĮSTATYMO PAPILDYMO 55(1), 55(2), 55(3), 55(4), 55(5) STRAIPSNIAIS ĮSTATYMO,
-LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO PAKEITIMO IR PAPILDYMO
-ĮSTATYMAS
+LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja nuo 2005 m. sausio 1 d.
  
@@ -753,8 +754,8 @@ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-401,
-2005-11-17, Žin., 2005, Nr. 144-5235 (2005-12-10)
+X-401, 2005-11-17,
+Žin., 2005, Nr. 144-5235 (2005-12-10)
 DIPLOMATINĖS
 TARNYBOS ĮSTATYMO, VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO, VALSTYBINIŲ
 SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO IR NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO
@@ -840,16 +841,6 @@ GALIOS
 Jeigu teisė gauti nedarbo draudimo išmoką atsirado iki šio įstatymo
 įsigaliojimo dienos, ši išmoka apskaičiuojama ir mokama iki šio įstatymo
 įsigaliojimo dienos galiojusia tvarka.
-Šis įstatymas keistas:
-Lietuvos
-Respublikos Seimas, Įstatymas
-Nr.
-XI-2306,
-2012-10-17, Žin., 2012, Nr. 127-6395 (2012-11-03)
-NEDARBO SOCIALINIO DRAUDIMO
-ĮSTATYMO 3, 4, 5, 6, 7, 9, 10, 11, 14, 15, 17, 20, 21, 23, 24 STRAIPSNIŲ
-PAKEITIMO IR PAPILDYMO BEI 19 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMO
-13 IR 17 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 9.
 Lietuvos
@@ -869,12 +860,11 @@ SOCIALINIO DRAUDIMO ĮSTATYMO 2 IR 17 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja 2013 m. sausio 1 d.
  
- 
 ***
 Pabaiga ***
  
  
 Redagavo
 Aušra Bodin (2012-11-05)
-                 
-aubodi@lrs.lt
+             
+    aubodi@lrs.lt
