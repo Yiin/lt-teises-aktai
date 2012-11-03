@@ -151,8 +151,8 @@ rėmimo sistemos uždaviniai:
 pasiūlą ir paklausą, siekiant išlaikyti darbo rinkos pusiausvyrą;
 2) didinti darbo
 ieškančių darbingo amžiaus asmenų užimtumo galimybes.
-3.
-Užimtumo rėmimo priemonės:
+3. Užimtumo
+rėmimo priemonės:
 1) aktyvios
 darbo rinkos politikos priemonės;
 2) užimtumo
@@ -168,10 +168,10 @@ užimtumo veiklos planavimo.
 rėmimo sistemos uždaviniai ir užimtumo rėmimo priemonės įgyvendinami ir darbo
 rinkos paslaugos teikiamos vadovaujantis moterų ir vyrų lygių galimybių bei
 nediskriminavimo principais. 
-6.
-Aktyvios darbo rinkos politikos priemonių įgyvendinimo sąlygas ir tvarką bei
-darbo rinkos paslaugų teikimo sąlygas ir tvarką nustato Vyriausybė ar jos
-įgaliota institucija.
+6. Aktyvios
+darbo rinkos politikos priemonių įgyvendinimo sąlygas ir tvarką bei darbo
+rinkos paslaugų teikimo sąlygas ir tvarką nustato Vyriausybė ar jos įgaliota
+institucija.
  
 4 straipsnis.
 Darbo rinkoje papildomai remiami asmenys
@@ -1218,9 +1218,16 @@ lėšos.
 1) šio įstatymo
 nustatytoms užimtumo rėmimo priemonėms įgyvendinti, darbo rinkos paslaugoms
 teikti ir užimtumo rėmimo politiką įgyvendinančioms įstaigoms išlaikyti;
+ 
 2) Lietuvos
 Respublikos nedarbo socialinio draudimo įstatyme nustatytoms nedarbo socialinio
 draudimo išmokoms mokėti;
+2 punkto redakcija nuo 2013-01-01
+2) (neteko galios
+nuo 2013-01-01). Nr.
+XI-2307,
+2012-10-17, Žin., 2012, Nr. 127-6396 (2012-11-03)
+ 
 3) bendriems
 Europos Sąjungos struktūrinių fondų ir tarptautiniams užimtumo rėmimo
 projektams finansuoti; 
@@ -1229,9 +1236,12 @@ globalizacijos padarinių fondo lėšų naudojimo sąlygų ir tvarkos apraše,
 finansuoti; 
 5) šio fondo
 administravimui finansuoti.
+Straipsnio pakeitimai:
+Nr. XI-2307,
+2012-10-17, Žin., 2012, Nr. 127-6396 (2012-11-03)
  
-38
-straipsnis. Užimtumo fondo lėšos 
+38 straipsnis. Užimtumo fondo
+lėšos 
 1. Užimtumo
 fondo lėšas sudaro:
 1) nedarbo
@@ -1259,6 +1269,41 @@ apsaugos ir darbo ministerijos sąskaitoje.
 straipsnio 1 dalies 2 punkte nurodytas lėšas užimtumo politiką įgyvendinančios
 įstaigos perveda į Užimtumo fondo sąskaitą už praėjusį ketvirtį iki kito
 ketvirčio pirmo mėnesio 15 dienos. 
+38 straipsnio redakcija nuo 2013-01-01
+38 straipsnis. Užimtumo fondo
+lėšos 
+1. Užimtumo
+fondo lėšas sudaro:
+1) nedarbo
+socialinio draudimo lėšos šio įstatymo nustatytoms aktyvios darbo rinkos
+politikos priemonėms įgyvendinti, kurių dydis tvirtinamas Valstybinio
+socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo
+įstatymu;
+2) užimtumo
+rėmimo politiką įgyvendinančių įstaigų pajamos;
+3) valstybės
+biudžeto lėšos, kurių dydis tvirtinamas atitinkamų metų valstybės biudžeto ir
+savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu;
+4) kitos lėšos.
+2. Valstybinio
+socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo
+ministerijos šio straipsnio 1 dalies 1 punkte nurodytas lėšas Vyriausybės ar
+jos įgaliotos institucijos nustatytais terminais ir tvarka perveda Socialinės
+apsaugos ir darbo ministerijai Užimtumo fondui sudaryti. 
+3.
+Pasibaigus finansiniams metams, nepanaudotos Užimtumo fondo lėšos įtraukiamos į
+kitų metų Užimtumo fondo lėšų sąmatą, jeigu Lietuvos Respublikos biudžeto
+sandaros įstatyme nenustatyta kitaip.
+4.
+Užimtumo fondo lėšos kaupiamos ir saugomos Socialinės apsaugos ir darbo
+ministerijos sąskaitoje. 
+5. Šio
+straipsnio 1 dalies 2 punkte nurodytas lėšas užimtumo politiką įgyvendinančios
+įstaigos perveda į Užimtumo fondo sąskaitą už praėjusį ketvirtį iki kito
+ketvirčio pirmo mėnesio 15 dienos.
+Straipsnio pakeitimai:
+Nr. XI-2307,
+2012-10-17, Žin., 2012, Nr. 127-6396 (2012-11-03)
  
 39
 straipsnis. Užimtumo fondo administravimas
@@ -1282,8 +1327,8 @@ perveda lėšas užimtumo rėmimo politiką įgyvendinančioms įstaigoms.
 6. Užimtumo
 rėmimo politiką įgyvendinančios įstaigos pagal patvirtintas Užimtumo fondo lėšų
 sąmatas disponuoja iš Užimtumo fondo gautomis lėšomis ir kas ketvirtį teikia
-Socialinės apsaugos ir darbo ministerijai veiklos ataskaitas ir gautų lėšų
-panaudojimo finansines ataskaitas.
+Socialinės apsaugos ir darbo ministerijai veiklos ataskaitas ir gautų lėšų panaudojimo
+finansines ataskaitas.
 7. Užimtumo
 rėmimo politiką įgyvendinančios įstaigos atsako už tinkamą iš Užimtumo fondo
 gautų lėšų panaudojimą.
@@ -1389,8 +1434,8 @@ PAKEITIMO ĮSTATYMAS
  
 6.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1632,
-2011-11-03, Žin., 2011, Nr. 138-6530 (2011-11-17)
+Nr. XI-1632, 2011-11-03,
+Žin., 2011, Nr. 138-6530 (2011-11-17)
 UŽIMTUMO RĖMIMO ĮSTATYMO 8, 23 IR 28
 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas, išskyrus šio straipsnio 2
@@ -1405,10 +1450,18 @@ PAKEITIMO ĮSTATYMAS
 Šis įstatymas, išskyrus šio straipsnio 2
 dalį, įsigalioja 2012 m. rugsėjo 1 d.
  
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2307,
+2012-10-17, Žin., 2012, Nr. 127-6396 (2012-11-03)
+UŽIMTUMO RĖMIMO ĮSTATYMO 37 IR 38
+STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis įstatymas, išskyrus 3 straipsnio 2
+dalį, įsigalioja 2013 m. sausio 1 d.
+ 
 *** Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė
-(2012-07-23)
-                  ausrine.trapinskiene@lrs.lt
+Redagavo Aušra Bodin (2012-11-05)
+                  aubodi@lrs.lt
 
