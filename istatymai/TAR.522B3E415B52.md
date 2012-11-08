@@ -3237,17 +3237,18 @@ X-611,
 Teisėjų taryba, jos sudarymas
 1. Teisėjų taryba yra vykdomoji
 teismų savivaldos institucija, užtikrinanti teismų ir teisėjų nepriklausomumą.
-2. Teisėjų
-tarybą sudaro dvidešimt vienas narys:
+*2. Teisėjų
+tarybą sudaro dvidešimt trys nariai:
 1) pagal
 pareigas – Aukščiausiojo Teismo pirmininkas, Apeliacinio teismo pirmininkas,
-Vyriausiojo administracinio teismo pirmininkas; 
+Vyriausiojo administracinio teismo pirmininkas;
 2) Visuotiniame teisėjų
-susirinkime išrinkti teisėjai: po tris iš Aukščiausiojo Teismo, Apeliacinio
-teismo ir Vyriausiojo administracinio teismo, trys – iš visų apygardos teismų,
-trys – iš visų apygardos administracinių teismų ir trys – iš visų apylinkės
-teismų. Teisėjų kandidatūras Visuotiniame teisėjų susirinkime iškelia ir renka
-atitinkamų teismų atstovai.
+susirinkime išrinkti teisėjai: po tris – iš Aukščiausiojo Teismo,
+Apeliacinio teismo ir Vyriausiojo administracinio teismo, po vieną – iš
+kiekvieno apygardos teismo, vienas – nuo visų apygardos administracinių teismų
+ir po vieną – nuo kiekvieno apygardos teismo veiklos teritorijoje esančių visų
+apylinkės teismų. Teisėjų kandidatūras Visuotiniame teisėjų susirinkime iškelia
+ir renka atitinkamų teismų atstovai.
 3. Teisėjų tarybos nariu negali būti renkamas
 teisėjas, kuris turi mažesnį kaip penkerių metų teisėjo darbo stažą arba kuriam
 buvo taikyta drausminė nuobauda. 
@@ -3256,8 +3257,8 @@ laikas – ketveri metai.
 5. Teisėjų tarybos
 pirmininką, pirmininko pavaduotoją ir sekretorių dvejiems metams iš Teisėjų
 tarybos narių renka Teisėjų taryba slaptu balsavimu. Pirmą sudarytos naujos
-Teisėjų tarybos posėdį pradeda didžiausią teisėjo darbo stažą turintis teisėjas.
-Šis teisėjas organizuoja Teisėjų tarybos pirmininko rinkimus.
+Teisėjų tarybos posėdį pradeda didžiausią teisėjo darbo stažą turintis
+teisėjas. Šis teisėjas organizuoja Teisėjų tarybos pirmininko rinkimus.
 6. Teisėjų
 tarybos nario įgaliojimai pasibaigia, kai:
 1) pasibaigia
@@ -3287,6 +3288,12 @@ X-611,
 2006-05-23, Žin., 2006, Nr. 60-2121 (2006-05-27)
 Nr. X-1685,
 2008-07-03, Žin., 2008, Nr. 81-3186 (2008-07-17)
+Nr. XI-2312,
+2012-11-06, Žin., 2012, Nr. 129-6476 (2012-11-08)
+*Pastaba: iki
+šio įstatymo įsigaliojimo sudarytos ir veikiančios Teisėjų tarybos įgaliojimai
+tęsiasi tol, kol šio įstatymo nustatyta tvarka bus sudaryta nauja Teisėjų
+taryba.
  
 120 straipsnis.
 Teisėjų tarybos kompetencija
@@ -3393,10 +3400,10 @@ posėdžiai paprastai vyksta Aukščiausiojo Teismo patalpose.
 2. Teisėjų
 tarybos posėdžiai paprastai šaukiami kas mėnesį. Įsigaliojus Respublikos
 Prezidento dekretui dėl kreipimosi į Teisėjų tarybą, kad ši patartų Respublikos
-Prezidentui dėl teisėjų paskyrimo, paaukštinimo, perkėlimo ar atleidimo iš pareigų,
-Teisėjų tarybos posėdis šaukiamas ne vėliau kaip per keturiolika dienų.
-Prireikus posėdžiai šaukiami Teisėjų tarybos pirmininko arba trečdalio Teisėjų
-tarybos narių iniciatyva. 
+Prezidentui dėl teisėjų paskyrimo, paaukštinimo, perkėlimo ar atleidimo iš
+pareigų, Teisėjų tarybos posėdis šaukiamas ne vėliau kaip per keturiolika
+dienų. Prireikus posėdžiai šaukiami Teisėjų tarybos pirmininko arba trečdalio
+Teisėjų tarybos narių iniciatyva. 
 3. Medžiaga,
 susijusi su Teisėjų tarybos posėdžiuose svarstomais klausimais, pateikiama
 visiems Teisėjų tarybos nariams ne vėliau kaip prieš tris darbo dienas iki
@@ -3442,14 +3449,14 @@ Teisėjų garbės teismas
 1. Teisėjų garbės teismas
 – teisėjų drausmės bylas ir teisėjų prašymus dėl teisėjo garbės gynimo
 nagrinėjanti teismų savivaldos institucija.
-2. Teisėjų
-garbės teismas sudaromas ketveriems metams iš devynių narių. Po du narius iš
+2. Teisėjų garbės
+teismas sudaromas ketveriems metams iš devynių narių. Po du narius iš
 Aukščiausiojo Teismo, Apeliacinio teismo ir Vyriausiojo administracinio teismo,
 tris narius iš visų apygardos administracinių teismų, apygardos teismų ir
 apylinkės teismų teisėjų į Teisėjų garbės teismą renka Teisėjų taryba.
-Paprastai į vieną Teisėjų garbės teismo nario vietą siūlomos ne mažiau kaip dviejų
-teisėjų kandidatūros. Teisėjų garbės teismo nariu negali būti renkamas Teisėjų
-tarybos narys,
+Paprastai į vieną Teisėjų garbės teismo nario vietą siūlomos ne mažiau kaip
+dviejų teisėjų kandidatūros. Teisėjų garbės teismo nariu negali būti renkamas
+Teisėjų tarybos narys,
 drausmės bylos iškėlimo iniciatyvos teisę turintis subjektas, Teisėjų etikos ir
 drausmės komisijos narys, taip pat teisėjas, kuriam buvo taikytos drausminės
 nuobaudos. Teisėjų garbės teismo nariai išsirenka šio teismo pirmininką ir
@@ -3542,13 +3549,13 @@ sąmatų projektų rengimą ir investicijų projektų (investicijų programų) t
 kuria ir įgyvendina bendrosios teismų informacinės sistemos strategiją;
 9)
 siekia, kad Lietuvos Respublikos teismų sistema veiktų efektyviai.
-3. Nacionalinė teismų
-administracija, įgyvendindama savo uždavinius, atlieka Nacionalinės teismų
-administracijos įstatyme, kituose teisės aktuose nustatytas funkcijas.
+3. Nacionalinė
+teismų administracija, įgyvendindama savo uždavinius, atlieka Nacionalinės
+teismų administracijos įstatyme, kituose teisės aktuose nustatytas funkcijas.
 Straipsnio
 pakeitimai:
-Nr. X-1685, 2008-07-03,
-Žin., 2008, Nr. 81-3186 (2008-07-17)
+Nr. X-1685,
+2008-07-03, Žin., 2008, Nr. 81-3186 (2008-07-17)
  
 125
 straipsnis. Neteko galios nuo 2008 m. rugsėjo 1 d.
@@ -4162,8 +4169,8 @@ TEISMŲ
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XI-523,
-2009-12-03, Žin., 2009, Nr. 147-6559 (2009-12-12)
+XI-523, 2009-12-03,
+Žin., 2009, Nr. 147-6559 (2009-12-12)
 TEISMŲ
 ĮSTATYMO 54, 55(1), 65, 76, 78, 85, 91(2), 91(3) IR 98 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -4277,6 +4284,15 @@ TEISMŲ
 Šis
 įstatymas įsigalioja 2013 m. sausio 1 d.
  
+49.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-2312,
+2012-11-06, Žin., 2012, Nr. 129-6476 (2012-11-08)
+TEISMŲ
+ĮSTATYMO 119 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+ 
  
 ***
 Pabaiga ***
@@ -4319,11 +4335,12 @@ PRAŠYMĄ IŠTIRTI LIETUVOS RESPUBLIKOS PREZIDENTO 2004 M. LIEPOS 1 D. DEKRETO N
 LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO 90 STRAIPSNIO 7 DALIAI (2002 M. SAUSIO 24 D. REDAKCIJA) NUTRAUKIMO
  
  
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2012-10-25)
+Aušra Bodin (2012-11-08)
                  
-ausrine.trapinskiene@lrs.lt
+aubodi@lrs.lt
