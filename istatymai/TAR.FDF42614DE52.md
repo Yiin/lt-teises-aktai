@@ -103,6 +103,7 @@ draudimu privalomai draudžiami:
 1) Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4
 straipsnio 1 dalies 1 ir 2 punktuose nurodyti asmenys;
 2) (neteko galios nuo 2008 m. sausio 1 d.);
+ 
 3) vidaus tarnybos
 sistemos pareigūnai, Valstybės saugumo departamento sistemos, Specialiųjų
 tyrimų tarnybos ir Kalėjimų departamento prie Lietuvos Respublikos teisingumo
@@ -113,37 +114,49 @@ savanoriai, kiti aktyviojo rezervo kariai, parengtojo rezervo kariai, pašaukti
 į pratybas, mokymus ar vykdyti tarnybos užduočių, ir Antrajame operatyvinių
 tarnybų departamente prie Krašto apsaugos ministerijos civilinę krašto apsaugos
 tarnybą atliekantys statutiniai tarnautojai;
+3-4 punktų redakcija nuo 2013-01-01
+3) vidaus tarnybos
+sistemos pareigūnai, Valstybės saugumo departamento, Antrojo
+operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos,
+Specialiųjų tyrimų tarnybos ir Kalėjimų departamento prie Lietuvos Respublikos
+teisingumo ministerijos bei jam pavaldžių įstaigų ir įmonių pareigūnai;“.
+4) krašto
+apsaugos sistemos profesinės karo tarnybos kariai, taip pat kariai
+savanoriai, kiti aktyviojo rezervo kariai, parengtojo rezervo kariai, pašaukti
+į pratybas, mokymus ar vykdyti tarnybos užduočių;
+ 
 5) nesukakę
 senatvės pensijos amžiaus ir negaunantys pajamų, susijusių su darbo santykiais,
 valstybės tarnautojų ir profesinės karo tarnybos karių bei deleguotų asmenų
 sutuoktiniai – tuo laikotarpiu, kai jie gyvena užsienyje kartu su valstybės
 tarnautoju ar deleguotu asmeniu, jeigu pastarasis asmuo deleguotas ar valstybės
-tarnautojas perkeltas į pareigas Lietuvos Respublikos diplomatinėje atstovybėje,
-konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie tarptautinės
-organizacijos, tarptautinėje ar Europos Sąjungos institucijoje arba užsienio
-valstybės institucijoje, pasiųstas dirbti į specialiąją misiją, ar kai jie
-gyvena kartu su profesinės karo tarnybos kariu, jeigu profesinės karo tarnybos
-karys paskirtas atlikti karo tarnybą Lietuvos Respublikos diplomatinėje
+tarnautojas perkeltas į pareigas Lietuvos Respublikos diplomatinėje
 atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie
-tarptautinės organizacijos, užsienio valstybės ar tarptautinėje karinėje arba
-gynybos institucijoje. Deleguotų asmenų sutuoktiniai draudžiami tik tuo atveju,
-jei deleguotam asmeniui darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos
-deleguojančioji institucija. Nesukakęs senatvės pensijos amžiaus ir neturintis
-draudžiamųjų pajamų Respublikos Prezidento sutuoktinis – Respublikos Prezidento
-kadencijos laikotarpiu;
+tarptautinės organizacijos, tarptautinėje ar Europos Sąjungos institucijoje
+arba užsienio valstybės institucijoje, pasiųstas dirbti į specialiąją misiją,
+ar kai jie gyvena kartu su profesinės karo tarnybos kariu, jeigu profesinės
+karo tarnybos karys paskirtas atlikti karo tarnybą Lietuvos Respublikos
+diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos
+atstovybėje prie tarptautinės organizacijos, užsienio valstybės ar
+tarptautinėje karinėje arba gynybos institucijoje. Deleguotų asmenų
+sutuoktiniai draudžiami tik tuo atveju, jei deleguotam asmeniui darbo užmokestį
+ir nuo jo socialinio draudimo įmokas moka
+asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija. Nesukakęs
+senatvės pensijos amžiaus ir neturintis draudžiamųjų pajamų Respublikos
+Prezidento sutuoktinis – Respublikos Prezidento kadencijos laikotarpiu;
 6) asmenys,
 nurodyti Valstybinio socialinio draudimo įstatymo 4 straipsnio 2 dalies 4
 punkte;
-7) šeimos pasirinkimu
-vienas iš tėvų (įtėvių) arba asmuo, nustatyta tvarka paskirtas vaiko globėju,
-auginantys vaiką iki trejų metų;
+7) šeimos
+pasirinkimu vienas iš tėvų (įtėvių) arba asmuo, nustatyta tvarka paskirtas
+vaiko globėju, auginantys vaiką iki trejų metų;
 8) nesukakęs
 senatvės pensijos amžiaus vienas iš neįgalaus asmens, kuriam nustatytas
 specialusis nuolatinės slaugos poreikis, tėvų (įtėvių) arba asmuo, nustatyta
 tvarka paskirtas šio neįgalaus asmens globėju ar rūpintoju, slaugantis namuose
 nurodytą neįgalų asmenį. Ši nuostata taip pat taikoma vienam iš tėvų (įtėvių),
-globėjui ar rūpintojui, slaugančiam namuose visiškos negalios invalidą, pripažintą
-tokiu iki 2005 m. liepos 1 d.
+globėjui ar rūpintojui, slaugančiam namuose visiškos negalios invalidą,
+pripažintą tokiu iki 2005 m. liepos 1 d.
 Straipsnio pakeitimai:
 Nr. IX-2540,
 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26)
@@ -169,6 +182,9 @@ XI-306, 2009-06-18, Žin., 2009, Nr.
 Nr.
 XI-1527,
 2011-06-23, Žin., 2011, Nr. 86-4169 (2011-07-13)
+Nr.
+XI-2299,
+2012-10-17, Žin., 2012, Nr. 129-6473 (2012-11-08)
  
 ANTRASIS SKIRSNIS
 NEDARBO DRAUDIMO IŠMOKA
@@ -191,11 +207,11 @@ privalomąją pradinę karo tarnybą ar alternatyviąją krašto apsaugos tarnyb
 buvo atleisti iš šių tarnybų ištarnavę ne mažiau kaip pusę nustatyto laiko.
 2. Neteko galios nuo 2008 m. sausio 1 d.
 3. Šio
-straipsnio 1 dalies 2 ir 3 punktuose nurodyti bedarbiai turi teisę gauti nedarbo
-draudimo išmoką, kai jie įsiregistruoja teritorinėje darbo biržoje, ne vėliau
-kaip per 6 kalendorinius mėnesius po atleidimo iš darbo ar valstybės tarnautojų
-pareigų bei paleidimo iš privalomosios pradinės karo tarnybos ar alternatyviosios
-krašto apsaugos tarnybos.
+straipsnio 1 dalies 2 ir 3 punktuose nurodyti bedarbiai turi teisę gauti
+nedarbo draudimo išmoką, kai jie įsiregistruoja teritorinėje darbo biržoje, ne
+vėliau kaip per 6 kalendorinius mėnesius po atleidimo iš darbo ar valstybės
+tarnautojų pareigų bei paleidimo iš privalomosios pradinės karo tarnybos ar
+alternatyviosios krašto apsaugos tarnybos.
 Straipsnio pakeitimai:
 Nr. X-65, 2004-12-22,
 Žin., 2004, Nr. 188-6997 (2004-12-31)
@@ -308,10 +324,10 @@ siūlomo tinkamo darbo;
 pateisinamų priežasčių, nurodytų Nedarbo draudimo išmokų nuostatuose, atsisakė
 dalyvauti jo individualiame užimtumo veiklos plane (toliau – užimtumo planas)
 numatytose aktyvios darbo rinkos politikos priemonėse;
-3) be pateisinamų priežasčių, nurodytų Nedarbo draudimo išmokų
-nuostatuose, nustatytu laiku neatvyko į teritorinę darbo biržą priimti
-pasiūlymo dirbti arba dalyvauti jo užimtumo plane numatytose aktyvios darbo
-rinkos politikos priemonėse;
+3) be pateisinamų priežasčių, nurodytų Nedarbo draudimo išmokų nuostatuose,
+nustatytu laiku neatvyko į teritorinę darbo biržą priimti pasiūlymo dirbti arba
+dalyvauti jo užimtumo plane numatytose aktyvios darbo rinkos politikos
+priemonėse;
 4) atsisakė teritorinės darbo biržos siūlomo sveikatos patikrinimo, kad
 būtų nustatytas tinkamumas darbui. 
 Straipsnio pakeitimai:
@@ -333,8 +349,8 @@ Straipsnio pakeitimai:
 Nr. X-65, 2004-12-22,
 Žin., 2004, Nr. 188-6997 (2004-12-31)
 Nr.
-XI-306, 2009-06-18, Žin., 2009, Nr. 77-3170
-(2009-06-30)
+XI-306, 2009-06-18, Žin., 2009, Nr.
+77-3170 (2009-06-30)
  
 11 straipsnis. Nedarbo draudimo išmokos mokėjimo
 nutraukimas
@@ -395,8 +411,8 @@ pratęsimas
 kuriems paskirtos arba atnaujintos nedarbo draudimo išmokos mokėjimo
 termino pabaigos dieną iki senatvės pensijos amžiaus yra likę ne daugiau kaip 5
 metai, nedarbo draudimo išmokos mokėjimas pratęsiamas dar 2 mėnesius, jeigu
-asmeniui nepaskirta išankstinė senatvės pensija pagal Valstybinių socialinio draudimo
-pensijų išankstinio mokėjimo įstatymą. 
+asmeniui nepaskirta išankstinė senatvės pensija pagal Valstybinių socialinio
+draudimo pensijų išankstinio mokėjimo įstatymą. 
 2. Bedarbiams,
 nedarbo draudimo išmokos mokėjimo metu tapusiems laikinai nedarbingiems dėl
 ligos arba traumos, mokama jiems paskirta nedarbo draudimo išmoka. Pasibaigus
@@ -556,34 +572,32 @@ biržos yra atsakingos už nedarbo draudimo išmokų apskaičiavimą ir mokėjim
 Neteisingai išmokėtos sumos išieškomos įstatymų nustatyta tvarka.
 Straipsnio redakcija nuo 2013 m. sausio
 1 d.:
-20
-straipsnis. Įstaigos, skiriančios ir mokančios nedarbo draudimo išmokas, ir jų
-atsakomybė
-1. Lietuvos darbo
-birža nedarbo draudimo išmokas apskaičiuoja ir skiria per teritorines darbo
-biržas Nedarbo draudimo išmokų nuostatuose nustatyta tvarka.
-2. Nedarbo draudimo
-išmokas moka Valstybinio socialinio draudimo fondo valdybos teritoriniai
-skyriai (toliau – Fondo valdybos teritoriniai skyriai) Nedarbo draudimo išmokų
-nuostatuose nustatyta tvarka.
-3. Valstybinio socialinio draudimo fondo valdyba prie Socialinės
-apsaugos ir darbo ministerijos ir Fondo valdybos teritoriniai skyriai yra
-atsakingi už nedarbo draudimo išmokų mokėjimą.
-4. Lietuvos darbo birža ir jos teritorinės darbo biržos yra atsakingos
-už nedarbo draudimo išmokų apskaičiavimą ir skyrimą.
-5. Neteisingai apskaičiuotos ir išmokėtos nedarbo
-socialinio draudimo išmokos išieškomos įstatymų nustatyta tvarka.
+20 straipsnis. Nedarbo draudimo išmokas
+apskaičiuojanti, skirianti ir mokanti įstaiga ir jos atsakomybė
+1. Nedarbo
+draudimo išmokas apskaičiuoja, skiria ir moka Valstybinio socialinio draudimo
+fondo valdybos teritoriniai skyriai (toliau – Fondo valdybos teritoriniai
+skyriai) Nedarbo draudimo išmokų nuostatuose nustatyta tvarka.
+2. Valstybinio
+socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo
+ministerijos ir Fondo valdybos teritoriniai skyriai yra atsakingi už nedarbo
+draudimo išmokų apskaičiavimą, skyrimą ir mokėjimą.
+3. Neteisingai apskaičiuotos ir išmokėtos nedarbo
+draudimo išmokos išieškomos įstatymų nustatyta tvarka.
 Straipsnio pakeitimai:
 Nr.
 XI-306, 2009-06-18, Žin., 2009, Nr.
 77-3170 (2009-06-30)
+Nr. XI-2306,
+2012-10-17, Žin., 2012, Nr. 127-6395 (2012-11-03)
+ 
+ 
  
 KETVIRTASIS SKIRSNIS
 BAIGIAMOSIOS NUOSTATOS 
  
  
-21 straipsnis. Įstatymo
-įsigaliojimas
+21 straipsnis. Įstatymo įsigaliojimas
 Šis Įstatymas įsigalioja 2005 m. sausio 1 d.
 Straipsnio pakeitimai:
 Nr.
@@ -621,11 +635,11 @@ mokėti nedarbo draudimo išmoką, jai taikomos visos šio Įstatymo nuostatos,
 laikant išmokos skyrimo diena anksčiau mokėtos bedarbio pašalpos skyrimo dieną.
 
 3. Asmenims, kuriems bedarbio pašalpa paskirta iki
-2005 m. sausio 1 d. ir jos mokėjimas pratęstas pagal anksčiau galiojusį
-įstatymą dėl to, kad bedarbiui iki pensinio amžiaus liko ne daugiau kaip 2
-metai, toliau mokama anksčiau paskirtos bedarbio pašalpos dydžio nedarbo draudimo
-išmoka. Ši išmoka mokama laikotarpį, kuris buvo nustatytas bedarbio pašalpos
-mokėjimo pratęsimo metu iki 2005 m. sausio 1 d. 
+2005 m. sausio 1 d. ir jos mokėjimas pratęstas pagal anksčiau galiojusį įstatymą
+dėl to, kad bedarbiui iki pensinio amžiaus liko ne daugiau kaip 2 metai, toliau
+mokama anksčiau paskirtos bedarbio pašalpos dydžio nedarbo draudimo išmoka. Ši
+išmoka mokama laikotarpį, kuris buvo nustatytas bedarbio pašalpos mokėjimo
+pratęsimo metu iki 2005 m. sausio 1 d. 
 4. Bedarbiams, įsiregistravusiems teritorinėse darbo biržose iki 2005
 m. sausio 1 d., kuriems pagal anksčiau galiojusį įstatymą nebuvo paskirta
 bedarbio pašalpa, nedarbo draudimo išmoka skiriama, jeigu jie 2005 m. sausio 1
@@ -687,9 +701,9 @@ XI-306, 2009-06-18, Žin., 2009, Nr.
 straipsnis. Teisės aktų pripažinimas netekusiais galios
 Įsigaliojus šiam įstatymui, netenka galios Nelaimingų
 atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo, Žalos
-atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga
-laikinojo įstatymo, Sveikatos draudimo įstatymo, Nedarbo socialinio draudimo
-įstatymo, Valstybinių socialinio draudimo pensijų įstatymo, Valstybinio socialinio
+atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo
+įstatymo, Sveikatos draudimo įstatymo, Nedarbo socialinio draudimo įstatymo,
+Valstybinių socialinio draudimo pensijų įstatymo, Valstybinio socialinio
 draudimo fondo biudžeto sandaros įstatymo, Invalidų socialinės integracijos
 įstatymo, Valstybinių socialinio draudimo pensijų įstatymo 33, 34, 36, 45
 straipsnių pakeitimo ir papildymo 45(1) straipsniu įstatymo,
@@ -724,17 +738,18 @@ IX-2540,
 NELAIMINGŲ
 ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO, ŽALOS
 ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA
-LAIKINOJO ĮSTATYMO, SVEIKATOS DRAUDIMO ĮSTATYMO, NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO,
-VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO, VALSTYBINIO SOCIALINIO
-DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO, INVALIDŲ SOCIALINĖS INTEGRACIJOS
-ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 33, 34, 36, 45
-STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 45(1) STRAIPSNIU ĮSTATYMO, VALSTYBINIŲ
+LAIKINOJO ĮSTATYMO, SVEIKATOS DRAUDIMO ĮSTATYMO, NEDARBO SOCIALINIO DRAUDIMO
+ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO, VALSTYBINIO
+SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO, INVALIDŲ SOCIALINĖS
+INTEGRACIJOS ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 33, 34,
+36, 45 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 45(1) STRAIPSNIU ĮSTATYMO, VALSTYBINIŲ
 SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 9, 16, 28, 35, 36, 40, 43, 45, 49, 50, 54
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(6) STRAIPSNIU IR
 VII SKYRIUMI ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 10,
 28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 BEI ĮSTATYMO PAPILDYMO 55(1), 55(2), 55(3), 55(4), 55(5) STRAIPSNIAIS ĮSTATYMO,
-LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO PAKEITIMO IR PAPILDYMO
+ĮSTATYMAS
 Šis
 įstatymas įsigalioja nuo 2005 m. sausio 1 d.
  
@@ -754,8 +769,8 @@ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-401, 2005-11-17,
-Žin., 2005, Nr. 144-5235 (2005-12-10)
+X-401,
+2005-11-17, Žin., 2005, Nr. 144-5235 (2005-12-10)
 DIPLOMATINĖS
 TARNYBOS ĮSTATYMO, VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO, VALSTYBINIŲ
 SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO IR NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO
@@ -841,6 +856,16 @@ GALIOS
 Jeigu teisė gauti nedarbo draudimo išmoką atsirado iki šio įstatymo
 įsigaliojimo dienos, ši išmoka apskaičiuojama ir mokama iki šio įstatymo
 įsigaliojimo dienos galiojusia tvarka.
+Šis įstatymas keistas:
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-2306,
+2012-10-17, Žin., 2012, Nr. 127-6395 (2012-11-03)
+NEDARBO SOCIALINIO DRAUDIMO
+ĮSTATYMO 3, 4, 5, 6, 7, 9, 10, 11, 14, 15, 17, 20, 21, 23, 24 STRAIPSNIŲ
+PAKEITIMO IR PAPILDYMO BEI 19 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMO
+13 IR 17 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 9.
 Lietuvos
@@ -860,11 +885,21 @@ SOCIALINIO DRAUDIMO ĮSTATYMO 2 IR 17 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja 2013 m. sausio 1 d.
  
+11.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-2299, 2012-10-17,
+Žin., 2012, Nr. 129-6473 (2012-11-08)
+NEDARBO
+SOCIALINIO DRAUDIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2013 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušra Bodin (2012-11-05)
-             
-    aubodi@lrs.lt
+Aušra Bodin (2012-11-08)
+                 
+aubodi@lrs.lt
