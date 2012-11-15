@@ -255,8 +255,8 @@ Nr. XI-2100,
 2012-06-21, Žin., 2012, Nr. 78-4022 (2012-07-04)
 Nr. XI-2246,
 2012-10-02, Žin., 2012, Nr. 122-6105 (2012-10-20)
-Nr.
-XI-2283, 2012-10-17, Žin., 2012, Nr. 126-6326 (2012-10-31)
+Nr. XI-2283,
+2012-10-17, Žin., 2012, Nr. 126-6326 (2012-10-31)
  
 3 straipsnis. Deklaruojamas
 turtas
@@ -322,10 +322,9 @@ straipsnio 1 ir 2 dalyse nurodytas turtas.
 Turtas, gautas už suteiktą pagalbą slaptai bendradarbiaujant su operatyvinės
 veiklos subjektais ir kitais įstatymų nustatytais atvejais, nedeklaruojamas.
 4 dalies redakcija nuo 2013-01-01:
-4. Turtas,
-gautas už suteiktą pagalbą slaptai bendradarbiaujant su kriminalinės
-žvalgybos
-subjektais, žvalgybos institucijomis ir kitais įstatymų nustatytais atvejais,
+4. Turtas, gautas
+už suteiktą pagalbą slaptai bendradarbiaujant su kriminalinės žvalgybos subjektais,
+žvalgybos institucijomis ir kitais įstatymų nustatytais atvejais,
 nedeklaruojamas.
  
 5. Šio Įstatymo
@@ -335,16 +334,16 @@ Straipsnio
 pakeitimai:
 Nr. XI-684,
 2010-02-11, Žin., 2010, Nr. 25-1178 (2010-03-02)
-Nr. XI-819,
-2010-05-18, Žin., 2010, Nr. 63-3097 (2010-05-31)
+Nr. XI-819, 2010-05-18,
+Žin., 2010, Nr. 63-3097 (2010-05-31)
 Nr. XI-1052,
 2010-10-12, Žin., 2010, Nr. 125-6377 (2010-10-23)
-Nr. XI-1278,
-2011-03-15, Žin., 2011, Nr. 37-1757 (2011-03-29)
+Nr. XI-1278, 2011-03-15,
+Žin., 2011, Nr. 37-1757 (2011-03-29)
 Nr. XI-2246,
 2012-10-02, Žin., 2012, Nr. 122-6105 (2012-10-20)
-Nr.
-XI-2283, 2012-10-17, Žin., 2012, Nr. 126-6326 (2012-10-31)
+Nr. XI-2283,
+2012-10-17, Žin., 2012, Nr. 126-6326 (2012-10-31)
  
 4
 straipsnis. Deklaruoto turto įsigijimo šaltinių pagrindimas
@@ -361,10 +360,10 @@ rašytiniais patvirtinimais. Sandorius patvirtinančiuose dokumentuose, kituose
 juridinę galią turinčiuose dokumentuose arba trečiųjų asmenų rašytiniuose
 patvirtinimuose turi būti nurodyti duomenys, leidžiantys nustatyti lėšas
 išmokėjusio asmens tapatybę.
-3. Prie užsienio kalba
-surašytų dokumentų turi būti pridėtas vertėjo patvirtintas vertimas į lietuvių
-kalbą, o užsienio valstybėse išduoti dokumentai, kurių legalizavimas numatytas
-tarptautiniuose ir Lietuvos Respublikos teisės aktuose, privalo būti
+3. Prie užsienio
+kalba surašytų dokumentų turi būti pridėtas vertėjo patvirtintas vertimas į
+lietuvių kalbą, o užsienio valstybėse išduoti dokumentai, kurių legalizavimas
+numatytas tarptautiniuose ir Lietuvos Respublikos teisės aktuose, privalo būti
 legalizuoti.
  
 5
@@ -381,10 +380,10 @@ deklaracija yra pateikta, grąžinamas deklaraciją pateikusiam gyventojui.
 1. Šio Įstatymo
 2 straipsnio 1 dalies 1–23, 29–36 punktuose nurodyti gyventojai deklaruoja
 kalendorinių metų, už kuriuos teikiama gyventojo turto deklaracija (toliau –
-deklaracija), gruodžio 31 dieną turimą turtą, pateikdami mokesčio administratoriui
-vieną deklaracijos egzempliorių. Šių gyventojų pageidavimu gali būti pateikiami
-du deklaracijos egzemplioriai. Vienas iš jų su žyma, kad deklaracija yra
-pateikta, grąžinamas deklaraciją pateikusiam gyventojui.
+deklaracija), gruodžio 31 dieną turimą turtą, pateikdami mokesčio
+administratoriui vieną deklaracijos egzempliorių. Šių gyventojų pageidavimu
+gali būti pateikiami du deklaracijos egzemplioriai. Vienas iš jų su žyma, kad
+deklaracija yra pateikta, grąžinamas deklaraciją pateikusiam gyventojui.
  
 2. Deklaracija
 pateikiama kasmet iki kalendorinių metų, einančių po tų kalendorinių metų, už
@@ -424,8 +423,8 @@ Nr. XI-2100,
 2012-06-21, Žin., 2012, Nr. 78-4022 (2012-07-04)
 Nr. XI-2246,
 2012-10-02, Žin., 2012, Nr. 122-6105 (2012-10-20)
-Nr.
-XI-2283, 2012-10-17, Žin., 2012, Nr. 126-6326 (2012-10-31)
+Nr. XI-2283,
+2012-10-17, Žin., 2012, Nr. 126-6326 (2012-10-31)
  
 6
 straipsnis. Kandidatų į valstybės politikus ir į Europos Parlamento narius,
@@ -452,17 +451,17 @@ turtą, privalo deklaruoti kalendorinių metų, einančių prieš kalendorinius
 metus, kuriais valstybės politikai ar Europos Parlamento nariai buvo išrinkti
 arba paskirti į pareigas ar valstybės tarnautojai buvo priimti arba paskirti į
 pareigas, gruodžio 31 dieną turimą turtą. Deklaracijos pateikiamos per 30 dienų
-nuo išrinkimo, paskyrimo arba priėmimo į pareigas pradžios. Išrinktiems arba paskirtiems
-į pareigas valstybės politikams bei Europos Parlamento nariams ir jų šeimos
-nariams, taip pat priimtiems arba paskirtiems į pareigas valstybės tarnautojams
-ir jų šeimos nariams, deklaravusiems turtą, vietos mokesčio administratorius
-per 15 darbo dienų nuo deklaracijos pateikimo dienos išduoda pažymas apie
-deklaracijų pateikimą, išskyrus tuos, kurie yra deklaravę kalendorinių metų,
-einančių prieš kalendorinius metus, kuriais valstybės politikai ar Europos
-Parlamento nariai buvo išrinkti arba paskirti į pareigas ar valstybės
-tarnautojai buvo priimti arba paskirti į pareigas, gruodžio 31 dieną turimą
-turtą ir kuriems vietos mokesčio administratorius per 5 darbo dienas išduoda
-pažymas apie deklaracijų pateikimą.
+nuo išrinkimo, paskyrimo arba priėmimo į pareigas pradžios. Išrinktiems arba
+paskirtiems į pareigas valstybės politikams bei Europos Parlamento nariams ir
+jų šeimos nariams, taip pat priimtiems arba paskirtiems į pareigas valstybės
+tarnautojams ir jų šeimos nariams, deklaravusiems turtą, vietos mokesčio
+administratorius per 15 darbo dienų nuo deklaracijos pateikimo dienos išduoda
+pažymas apie deklaracijų pateikimą, išskyrus tuos, kurie yra deklaravę
+kalendorinių metų, einančių prieš kalendorinius metus, kuriais valstybės
+politikai ar Europos Parlamento nariai buvo išrinkti arba paskirti į pareigas
+ar valstybės tarnautojai buvo priimti arba paskirti į pareigas, gruodžio 31
+dieną turimą turtą ir kuriems vietos mokesčio administratorius per 5 darbo
+dienas išduoda pažymas apie deklaracijų pateikimą.
 *3. Nustoję eiti
 pareigas valstybės politikai bei Europos Parlamento nariai ir jų šeimos nariai,
 taip pat iš pareigų atleisti valstybės tarnautojai, antstoliai, notarai,
@@ -507,18 +506,18 @@ kalendorinius metus, kuriais valstybės politikai ar Europos Parlamento nariai
 buvo išrinkti arba paskirti į pareigas, valstybės tarnautojai ar asmenys,
 einantys pareigas, nurodytas šio Įstatymo 2 straipsnio 1 dalies 5–23,
 29–35 punktuose, buvo priimti arba paskirti į pareigas, gruodžio 31 dieną
-turimą turtą, privalo deklaruoti kalendorinių metų, einančių prieš kalendorinius
-metus, kuriais valstybės politikai ar Europos Parlamento nariai buvo išrinkti
-arba paskirti į pareigas, valstybės tarnautojai ar asmenys, einantys pareigas,
-nurodytas šio Įstatymo 2 straipsnio 1 dalies 5–23, 29–35 punktuose, buvo
-priimti arba paskirti į pareigas, gruodžio 31 dieną turimą turtą. Deklaracijos
-pateikiamos per 30 dienų nuo išrinkimo, paskyrimo arba priėmimo į pareigas
-pradžios. Išrinktiems arba paskirtiems į pareigas valstybės politikams bei
-Europos Parlamento nariams ir jų šeimos nariams, priimtiems arba paskirtiems į
-pareigas valstybės tarnautojams ir jų šeimos nariams, taip pat asmenims,
-priimtiems arba paskirtiems į pareigas, nurodytas šio Įstatymo 2 straipsnio 1
-dalies 5–23, 29–35 punktuose, ir jų šeimos nariams, deklaravusiems turtą,
-vietos mokesčio administratorius per 15 darbo dienų nuo deklaracijos
+turimą turtą, privalo deklaruoti kalendorinių metų, einančių prieš
+kalendorinius metus, kuriais valstybės politikai ar Europos Parlamento nariai
+buvo išrinkti arba paskirti į pareigas, valstybės tarnautojai ar asmenys,
+einantys pareigas, nurodytas šio Įstatymo 2 straipsnio 1 dalies 5–23, 29–35
+punktuose, buvo priimti arba paskirti į pareigas, gruodžio 31 dieną turimą
+turtą. Deklaracijos pateikiamos per 30 dienų nuo išrinkimo, paskyrimo arba
+priėmimo į pareigas pradžios. Išrinktiems arba paskirtiems į pareigas valstybės
+politikams bei Europos Parlamento nariams ir jų šeimos nariams, priimtiems arba
+paskirtiems į pareigas valstybės tarnautojams ir jų šeimos nariams, taip pat
+asmenims, priimtiems arba paskirtiems į pareigas, nurodytas šio Įstatymo 2
+straipsnio 1 dalies 5–23, 29–35 punktuose, ir jų šeimos nariams, deklaravusiems
+turtą, vietos mokesčio administratorius per 15 darbo dienų nuo deklaracijos
 pateikimo dienos išduoda pažymas apie deklaracijų pateikimą, išskyrus tuos,
 kurie yra deklaravę kalendorinių metų, einančių prieš kalendorinius metus,
 kuriais valstybės politikai ar Europos Parlamento nariai buvo išrinkti arba
@@ -542,8 +541,8 @@ Nr. XI-1785,
 2011-12-06, Žin., 2011, Nr. 153-7210 (2011-12-15)
 *Pastaba: šio įstatymo nuostatos taikomos
 apskaičiuojant ir deklaruojant 2011 metų ir vėlesnių metų turtą.
-Nr.
-XI-2283, 2012-10-17, Žin., 2012, Nr. 126-6326 (2012-10-31)
+Nr. XI-2283,
+2012-10-17, Žin., 2012, Nr. 126-6326 (2012-10-31)
  
 7
 straipsnis. Gyventojų, pageidaujančių gauti valstybės garantuojamą teisinę
@@ -745,8 +744,8 @@ Nr. XI-1785,
 2011-12-06, Žin., 2011, Nr. 153-7210 (2011-12-15)
 *Pastaba: šio įstatymo nuostatos taikomos
 apskaičiuojant ir deklaruojant 2011 metų ir vėlesnių metų turtą.
-Nr.
-XI-2283, 2012-10-17, Žin., 2012, Nr. 126-6326 (2012-10-31)
+Nr. XI-2283,
+2012-10-17, Žin., 2012, Nr. 126-6326 (2012-10-31)
  
 10
 straipsnis. Deklaracijos duomenų paskelbimo tvarka
@@ -769,16 +768,16 @@ Lietuvos Respublikos Vyriausybės įstaigų (departamentų, agentūrų, tarnybų
 inspekcijų), prie ministerijų įsteigtų departamentų, tarnybų, inspekcijų, kitų
 valstybės valdymo institucijų vadovų (generalinių direktorių, direktorių,
 viršininkų) ir vadovų pavaduotojų, Lietuvos banko valdybos pirmininko ir
-valdybos pirmininko pavaduotojų, Muitinės departamento prie Finansų
-ministerijos ir teritorinių muitinių valstybės tarnautojų, Valstybinės mokesčių
-inspekcijos prie Finansų ministerijos ir teritorinių mokesčių inspekcijų
-valstybės tarnautojų, Vidaus reikalų ministerijos valdymo srities statutinių
-įstaigų valstybės tarnautojų, Seimo kontrolierių, valstybės saugumo sistemos
-valstybės tarnautojų ir jų šeimos narių deklaracijų duomenys, išskyrus
-operatyvinės veiklos subjektų teises turinčių valstybės institucijų valstybės
-tarnautojų ir pareigūnų, kurių veiklą reglamentuoja Operatyvinės veiklos
-įstatymas, ir jų šeimos narių deklaracijų duomenis, yra skelbiami be šių
-gyventojų rašytinio sutikimo.
+valdybos pirmininko pavaduotojų, Muitinės departamento prie Finansų ministerijos
+ir teritorinių muitinių valstybės tarnautojų, Valstybinės mokesčių inspekcijos
+prie Finansų ministerijos ir teritorinių mokesčių inspekcijų valstybės
+tarnautojų, Vidaus reikalų ministerijos valdymo srities statutinių įstaigų
+valstybės tarnautojų, Seimo kontrolierių, valstybės saugumo sistemos valstybės
+tarnautojų ir jų šeimos narių deklaracijų duomenys, išskyrus operatyvinės
+veiklos subjektų teises turinčių valstybės institucijų valstybės tarnautojų ir
+pareigūnų, kurių veiklą reglamentuoja Operatyvinės veiklos įstatymas, ir jų
+šeimos narių deklaracijų duomenis, yra skelbiami be šių gyventojų rašytinio
+sutikimo.
 2 dalies redakcija nuo 2013-01-01:
 2. Kalendorinių
 metų, už kuriuos deklaruojamas turimas turtas, gruodžio 31 dieną ėjusių
@@ -795,8 +794,8 @@ padalinių, taip pat apygardų ir apylinkių prokuratūrų vadovų, valstybės
 kontrolieriaus, valstybės kontrolieriaus pavaduotojų, Valstybės kontrolės
 valstybės tarnautojų, Seimo kontrolierių, Lietuvos Respublikos Vyriausybės
 įstaigų (departamentų, agentūrų, tarnybų, inspekcijų), prie ministerijų
-įsteigtų departamentų, tarnybų, inspekcijų, kitų valstybės valdymo institucijų
-vadovų (generalinių direktorių, direktorių, viršininkų) ir vadovų pavaduotojų,
+įsteigtų departamentų, tarnybų, inspekcijų, kitų valstybės valdymo institucijų vadovų
+(generalinių direktorių, direktorių, viršininkų) ir vadovų pavaduotojų,
 Lietuvos banko valdybos pirmininko ir valdybos pirmininko pavaduotojų, Muitinės
 departamento prie Finansų ministerijos ir teritorinių muitinių valstybės
 tarnautojų, Valstybinės mokesčių inspekcijos prie Finansų ministerijos ir
@@ -819,13 +818,29 @@ paskutinių kalendorinių metų pagrindinių deklaracijos duomenų išrašus
 mokesčio administratorius. „Valstybės žinios“ deklaracijų išrašų duomenis,
 įskaitant paskutinių kalendorinių metų deklaracijų patikslintus duomenis,
 kasmet paskelbia iki spalio 1 dienos.
+3
+redakcija nuo 2014-01-01:
+3. Šio
+straipsnio 2 dalyje išvardytų gyventojų deklaracijų duomenys skelbiami
+centrinio mokesčio administratoriaus interneto svetainėje. Pagrindinių
+deklaracijos duomenų išrašą nustato Lietuvos Respublikos Vyriausybė arba jos
+įgaliota institucija. Šių gyventojų deklaracijų išrašų duomenys ir paskutinių
+kalendorinių metų deklaracijų patikslinti duomenys kasmet paskelbiami iki
+spalio 1 dienos.
+ 
 4. Kiti
 valstybės tarnautojai ir jų šeimos nariai gali skelbti ,,Valstybės žinių“
 specialiame priede savo deklaracijų duomenis valstybės lėšomis. Patvirtintą
 pagrindinių deklaracijos duomenų išrašą ir rašytinį sutikimą skelbti
 deklaracijos duomenis ,,Valstybės žinių“ redakcijai pateikia pats gyventojas.
-Pagrindinių deklaracijos duomenų išrašų pristatymo ir skelbimo terminai yra tokie
-pat, kaip nurodyta šio straipsnio 3 dalyje.
+Pagrindinių deklaracijos duomenų išrašų pristatymo ir skelbimo terminai yra
+tokie pat, kaip nurodyta šio straipsnio 3 dalyje.
+4
+redakcija nuo 2014-01-01:
+4. Kiti
+valstybės tarnautojai ir jų šeimos nariai gali centriniam mokesčio
+administratoriui pateikti prašymą paskelbti jų deklaracijų duomenis centrinio
+mokesčio administratoriaus interneto svetainėje.
 Straipsnio
 pakeitimai:
 Nr. XI-322,
@@ -834,6 +849,8 @@ Nr. XI-711,
 2010-03-30, Žin., 2010, Nr. 41-1936 (2010-04-10)
 Nr. XI-2246,
 2012-10-02, Žin., 2012, Nr. 122-6105 (2012-10-20)
+Nr. XI-2325,
+2012-11-06, Žin., 2012, Nr. 132-6653 (2012-11-15)
  
 11
 straipsnis. Deklaracijai užpildyti reikalingų pažymų parengimas
@@ -1063,8 +1080,8 @@ deklaruoti 2009 m. gruodžio 31 d. turėtą savo turtą.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XI-711,
-2010-03-30, Žin., 2010, Nr. 41-1936 (2010-04-10)
+XI-711, 2010-03-30,
+Žin., 2010, Nr. 41-1936 (2010-04-10)
 GYVENTOJŲ
 TURTO DEKLARAVIMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
@@ -1141,25 +1158,35 @@ Nr. XI-2246,
 2012-10-02, Žin., 2012, Nr. 122-6105 (2012-10-20)
 GYVENTOJŲ
 TURTO DEKLARAVIMO ĮSTATYMO 2, 3, 5 IR 10 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-Šis įstatymas
-įsigalioja 2013 m. sausio 1 d.
+Šis
+įstatymas įsigalioja 2013 m. sausio 1 d.
  
 29.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr.
-XI-2283, 2012-10-17, Žin., 2012, Nr. 126-6326 (2012-10-31)
+Nr. XI-2283,
+2012-10-17, Žin., 2012, Nr. 126-6326 (2012-10-31)
 GYVENTOJŲ
 TURTO DEKLARAVIMO ĮSTATYMO 2, 3, 5, 6, 9 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 ĮSTATYMAS
 Šis
 įstatymas įsigalioja 2013 m. sausio 1 d.
  
+30.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-2325,
+2012-11-06, Žin., 2012, Nr. 132-6653 (2012-11-15)
+GYVENTOJŲ
+TURTO DEKLARAVIMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2014 m. sausio 1 d.
  
 ***
 Pabaiga ***
  
+ 
 Redagavo
-Aušrinė Trapinskienė (2012-10-31)
+Aušrinė Trapinskienė (2012-11-16)
                  
 ausrine.trapinskiene@lrs.lt
