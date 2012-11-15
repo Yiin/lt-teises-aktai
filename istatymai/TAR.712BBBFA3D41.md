@@ -648,6 +648,12 @@ nustatyta tvarka yra valstybės paslaptis.
 apie patvirtintą valstybės biudžetą, jo pajamas ir asignavimus, jų vykdymą
 skelbiama oficialiame leidinyje „Valstybės žinios“ ir Finansų ministerijos
 interneto tinklalapyje.
+2
+dalies redakcija nuo2014-01-01:
+2. Informacija
+apie patvirtintą valstybės biudžetą, jo pajamas ir asignavimus, jų vykdymą
+skelbiama Finansų ministerijos interneto svetainėje.
+ 
 3. Informaciją
 apie patvirtintus savivaldybių biudžetus, jų vykdymą skelbia savivaldybės
 administracijos direktorius vietinėje spaudoje.
@@ -655,6 +661,8 @@ Straipsnio
 pakeitimai:
 Nr. X-1354,
 2007-12-06, Žin., 2007, Nr. 132-5357 (2007-12-15)
+Nr. XI-2318,
+2012-11-06, Žin., 2012, Nr. 132-6646 (2012-11-15)
  
 12 straipsnis. Reikalavimai priimant
 kitus teisės aktus 
@@ -694,8 +702,8 @@ ir disponavimo juo įstatymo 16(1) straipsnyje nustatytą atvejį – kai
 atnaujinamas valstybės nekilnojamasis  turtas.
 Straipsnio pakeitimai:
 Nr.
-X-774, 2006-07-18,
-Žin., 2006, Nr. 82-3262 (2006-07-27)
+X-774,
+2006-07-18, Žin., 2006, Nr. 82-3262 (2006-07-27)
  
 *14
 straipsnis. Valstybės biudžeto asignavimai
@@ -710,8 +718,8 @@ valstybės įsipareigojimams vykdyti.
 2.
 Nepanaudotos šio Įstatymo 2 straipsnio 16 dalies 1 punkte nurodytos įmokos į
 atitinkamą biudžetą, skirtos programoms finansuoti, perkeliamos į kitus
-biudžetinius metus ir paliekamos asignavimų valdytojams bei gali būti naudojamos
-viršijant Seimo patvirtintas bendras asignavimų sumas.
+biudžetinius metus ir paliekamos asignavimų valdytojams bei gali būti
+naudojamos viršijant Seimo patvirtintas bendras asignavimų sumas.
 3. Į
 kitus biudžetinius metus gali būti perkeliama ir naudojama programoms
 finansuoti viršijant Seimo patvirtintas bendras asignavimų sumas nepanaudota
@@ -739,8 +747,8 @@ biudžetą ir savivaldybių biudžetus.
 2. Nepanaudotos
 šio įstatymo 2 straipsnio 11 dalies 1 punkte nurodytos įmokos į atitinkamą
 biudžetą, skirtos programoms finansuoti, perkeliamos į kitus biudžetinius metus
-ir paliekamos asignavimų valdytojams bei gali būti naudojamos viršijant Seimo
-patvirtintas bendras asignavimų sumas.
+ir paliekamos asignavimų valdytojams bei gali būti naudojamos viršijant Seimo patvirtintas
+bendras asignavimų sumas.
 3. Į kitus
 biudžetinius metus gali būti perkeliama ir naudojama programoms finansuoti
 viršijant Seimo patvirtintas bendras asignavimų sumas nepanaudota įmokėtų šio
@@ -771,17 +779,17 @@ Nr. XI-2274,
 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
  
 15 straipsnis. Vyriausybės rezervo lėšos
-1. Valstybės biudžete sudaromas Vyriausybės rezervas. Jis turi būti ne
-didesnis kaip 1 procentas patvirtintų valstybės biudžeto asignavimų sumos.
-Konkretų Vyriausybės rezervo dydį kasmet nustato Seimas Valstybės biudžeto ir
+1. Valstybės biudžete sudaromas Vyriausybės rezervas. Jis turi būti ne didesnis
+kaip 1 procentas patvirtintų valstybės biudžeto asignavimų sumos. Konkretų
+Vyriausybės rezervo dydį kasmet nustato Seimas Valstybės biudžeto ir
 savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme. Vyriausybės
 rezervo lėšos skirstomos Vyriausybės nutarimu.
 2. Vyriausybės rezervo lėšos naudojamos:
 1)
 ekstremaliosioms situacijoms ir (arba) įvykiams likviduoti, jų padariniams
 šalinti ir padarytiems nuostoliams iš dalies padengti;
-2) įsipareigojimams, susijusiems su dalyvavimu tarptautinėse
-operacijose, vykdyti;
+2) įsipareigojimams, susijusiems su dalyvavimu tarptautinėse operacijose,
+vykdyti;
 3) vykdant
 arbitražų ar teismų sprendimus, kuriais iš Lietuvos valstybės priteistos
 mokėtinos sumos, taip pat kitoms išlaidoms ginant valstybės interesus padengti;
@@ -824,19 +832,18 @@ rodiklio formavimo pagrindinės nuostatos
 1.      Valstybės
 biudžeto projektą ir savivaldybių biudžetų finansinių rodiklių projektą rengia
 Finansų ministerija. 
-2.      Trejų
-biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų konsoliduotos visumos planuojamų rodiklių
-projektas rengiamas remiantis Vyriausybės programa, Lietuvos konvergencijos
-programa, Valstybės pažangos strategija (iki šios strategijos įsigaliojimo
-dienos – Seimo patvirtinta Valstybės ilgalaikės raidos strategija), Nacionalinės
-pažangos programa, kitais Seimo ir Vyriausybės patvirtintais planavimo
-dokumentais, šiuo Įstatymu, Fiskalinės drausmės įstatymu, kitais įstatymais ir
-kitais teisės aktais, šalies vidutinio laikotarpio ekonominės raidos scenarijumi,
-Europos Sąjungos finansinės paramos strateginiais dokumentais, asignavimų
-valdytojų strateginiais veiklos planais ir Vyriausybės patvirtintais valstybės
-biudžeto ir savivaldybių biudžetų preliminariais pagrindiniais rodikliais, taip
-pat valstybės biudžeto asignavimų valdytojų pateiktomis programomis ir programų
-sąmatų projektais. 
+2.      Trejų biudžetinių
+metų valstybės biudžeto ir savivaldybių biudžetų konsoliduotos visumos planuojamų rodiklių projektas rengiamas
+remiantis Vyriausybės programa, Lietuvos konvergencijos programa, Valstybės pažangos
+strategija (iki šios strategijos įsigaliojimo dienos – Seimo patvirtinta
+Valstybės ilgalaikės raidos strategija), Nacionalinės pažangos programa, kitais
+Seimo ir Vyriausybės patvirtintais planavimo dokumentais, šiuo Įstatymu, Fiskalinės
+drausmės įstatymu, kitais įstatymais ir kitais teisės aktais, šalies vidutinio
+laikotarpio ekonominės raidos scenarijumi, Europos Sąjungos finansinės paramos
+strateginiais dokumentais, asignavimų valdytojų strateginiais veiklos planais
+ir Vyriausybės patvirtintais valstybės biudžeto ir savivaldybių biudžetų preliminariais
+pagrindiniais rodikliais, taip pat valstybės biudžeto asignavimų valdytojų
+pateiktomis programomis ir programų sąmatų projektais. 
 3.
 Tam tikrų metų valstybės biudžeto projekte ir savivaldybių biudžetų finansinių
 rodiklių projekte gali būti nukrypstama nuo Seimo patvirtintų trejų biudžetinių
@@ -870,8 +877,8 @@ biudžeto projektas rengiamas trejiems biudžetiniams metams remiantis
 Vyriausybės programa, Valstybės pažangos strategija (iki šios strategijos
 įsigaliojimo dienos – Seimo patvirtinta Valstybės ilgalaikės raidos
 strategija), Nacionalinės pažangos programa, kitais Seimo ir Vyriausybės
-patvirtintais planavimo dokumentais, šiuo Įstatymu, Fiskalinės drausmės įstatymu,
-kitais įstatymais ir kitais teisės aktais, šalies ūkio plėtros
+patvirtintais planavimo dokumentais, šiuo Įstatymu, Fiskalinės drausmės
+įstatymu, kitais įstatymais ir kitais teisės aktais, šalies ūkio plėtros
 makroekonominėmis prognozėmis, Europos Sąjungos finansinės paramos
 strateginiais dokumentais, asignavimų valdytojų strateginiais veiklos planais
 ir Vyriausybės patvirtintais nacionalinio biudžeto preliminariais pagrindiniais
@@ -937,9 +944,8 @@ toks didinimas planuojamas biudžetinių metų pabaigoje, ir aplinkybės bei
 išlygos, leidžiančios nukrypti nuo plano.
 3. Lietuvos
 Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų
-finansinių rodiklių patvirtinimo įstatymo projekte gali būti pateikiamos
-nuostatos, apribojančios teisę prisiimti įsipareigojimus naudoti biudžeto
-lėšas.
+finansinių rodiklių patvirtinimo įstatymo projekte gali būti pateikiamos nuostatos,
+apribojančios teisę prisiimti įsipareigojimus naudoti biudžeto lėšas.
 *Pastaba. Šis straipsnis taikomas rengiant, tvirtinant,
 vykdant, vertinant ir atsiskaitant už 2014 metų ir vėlesnių metų valstybės
 biudžetą ir savivaldybių biudžetus.
@@ -990,8 +996,8 @@ pakeitimai:
 Nr.
 X-1428,
 2008-01-18, Žin., 2008, Nr. 15-511 (2008-02-05)
-Nr. XI-1209, 2010-12-09,
-Žin., 2010, Nr. 153-7781 (2010-12-28)
+Nr. XI-1209,
+2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
 Nr. XI-2274,
 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
  
@@ -2186,9 +2192,9 @@ straipsnio 1, 3 ir 4 dalis ir 16 straipsnį, įsigalioja 2011 m. sausio 1 d.
 Šio
 įstatymo 3 straipsnio 1, 3 ir 4 dalys ir 16 straipsnis įsigalioja 2012 m.
 sausio 1 d.
-Rengiant 2012 metų valstybės biudžeto
-ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą,
-atsižvelgiama į šio įstatymo 3 straipsnio 1, 3 ir 4 dalių nuostatas.
+Rengiant 2012 metų valstybės
+biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo
+projektą, atsižvelgiama į šio įstatymo 3 straipsnio 1, 3 ir 4 dalių nuostatas.
 Įstatymo
 pakeitimai:
 Lietuvos
@@ -2237,6 +2243,15 @@ tvirtinimui, vykdymui, vertinimui ir atsiskaitymui taikomos iki šio įstatymo
 įsigaliojimo galiojusių teisės aktų nuostatos, išskyrus šio įstatymo 12
 straipsnį.
  
+34.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2318,
+2012-11-06, Žin., 2012, Nr. 132-6646 (2012-11-15)
+BIUDŽETO SANDAROS ĮSTATYMO 11 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2014 m. sausio 1 d.
+ 
  
 *** Pabaiga ***
  
@@ -2259,5 +2274,5 @@ LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 *** Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė (2012-10-31)
+Redagavo Aušrinė Trapinskienė (2012-11-26)
                   ausrine.trapinskiene@lrs.lt
