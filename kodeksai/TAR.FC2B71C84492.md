@@ -1678,50 +1678,61 @@ Nr.
 IX-1049,
 2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
  
-43(1)
-straipsnis. Kliudymas Valstybinės medicininio audito inspekcijos pareigūnams ar
-jų įgaliotiems asmenims atlikti jiems pavestas pareigas, taip pat Valstybinės
-medicininio audito inspekcijos pareigūnų sprendimų nevykdymas
-Neįleidimas Valstybinės
-medicininio audito inspekcijos pareigūnų ar jų įgaliotų asmenų tikrinti pagal
-jų kompetenciją asmens sveikatos priežiūros įstaigų, nepateikimas jiems
-dokumentų, ligonių medicininių apžiūrų ir tyrimų duomenų, reikalingų
-patikrinimui atlikti, arba jų nuslėpimas, klaidingas ar ne visų dokumentų,
-ligonių medicininių apžiūrų ir tyrimo duomenų pateikimas, taip pat Valstybinės
-medicininio audito inspekcijos pareigūnų teisėtų reikalavimų ir sprendimų
-nevykdymas –
-užtraukia baudą
-asmens sveikatos priežiūros įstaigų valdymo organų vadovams nuo penkių šimtų
-iki vieno tūkstančio litų ir kitiems darbuotojams – nuo penkiasdešimties iki
+431
+straipsnis. Kliudymas Valstybinės
+akreditavimo sveikatos priežiūros veiklai
+tarnybos prie Sveikatos apsaugos ministerijos pareigūnams ar jų įgaliotiems asmenims atlikti jiems
+pavestas pareigas, taip pat Valstybinės
+akreditavimo sveikatos priežiūros veiklai tarnybos prie Sveikatos apsaugos
+ministerijos pareigūnų
+sprendimų nevykdymas
+Neįleidimas Valstybinės akreditavimo
+sveikatos priežiūros veiklai tarnybos prie Sveikatos apsaugos ministerijos pareigūnų
+ar jų įgaliotų asmenų tikrinti pagal jų kompetenciją asmens
+sveikatos priežiūros įstaigų, nepateikimas jiems dokumentų, ligonių medicininių apžiūrų ir tyrimų duomenų,
+reikalingų patikrinimui atlikti, arba jų nuslėpimas, klaidingas ar ne
+visų dokumentų, ligonių medicininių apžiūrų ir tyrimo duomenų pateikimas, taip pat Valstybinės akreditavimo sveikatos priežiūros
+veiklai tarnybos prie Sveikatos
+apsaugos ministerijos pareigūnų
+teisėtų reikalavimų ir sprendimų nevykdymas
+– 
+užtraukia baudą asmens sveikatos priežiūros įstaigų valdymo organų
+vadovams nuo penkių šimtų iki vieno
+tūkstančio litų ir kitiems darbuotojams – nuo penkiasdešimties iki
 vieno šimto litų.
-Tos pačios
-veikos, padarytos asmens, bausto administracine nuobauda už šio straipsnio
-pirmojoje dalyje numatytus pažeidimus, –
-užtraukia baudą
-asmens sveikatos priežiūros įstaigų valdymo organų vadovams nuo vieno
-tūkstančio iki dviejų tūkstančių litų ir kitiems darbuotojams – nuo vieno šimto
-iki dviejų šimtų litų.
+Tos pačios veikos, padarytos asmens, bausto
+administracine nuobauda už šio straipsnio pirmojoje
+dalyje numatytus pažeidimus, –
+užtraukia baudą asmens sveikatos priežiūros įstaigų valdymo organų
+vadovams nuo vieno tūkstančio iki dviejų
+tūkstančių litų ir kitiems darbuotojams – nuo vieno šimto iki dviejų
+šimtų litų.
 Kodeksas papildytas straipsniu:
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Straipsnio pakeitimai:
+Nr. XI-2374,
+2012-11-06, Žin., 2012, Nr. 132-6695 (2012-11-15)
  
-43(2)
+432
 straipsnis. Tyčinis melagingas pareiškimas apie suteiktas asmens sveikatos
 priežiūros paslaugas
-Tyčinis
-melagingas pareiškimas Valstybinei medicininio audito inspekcijai apie
-suteiktas asmens sveikatos priežiūros paslaugas –
-užtraukia baudą
-nuo penkiasdešimties iki vieno šimto litų.
+Tyčinis melagingas pareiškimas Valstybinei akreditavimo sveikatos
+priežiūros veiklai tarnybai prie Sveikatos apsaugos ministerijos apie suteiktas asmens sveikatos priežiūros paslaugas –
+užtraukia baudą nuo penkiasdešimties iki vieno šimto
+litų.
 Kodeksas papildytas straipsniu:
-Nr. VIII-1543, 00.02.17,
-Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Straipsnio pakeitimai:
+Nr. XI-2374,
+2012-11-06, Žin., 2012, Nr. 132-6695 (2012-11-15)
  
 43(3)
 straipsnis. Neteisėtas vertimasis sveikatinimo veikla
 Neteisėtas
-vertimasis sveikatinimo veikla nesilaikant įstatymų ir kitų teisės aktų
-nustatytos tvarkos –
+vertimasis sveikatinimo veikla nesilaikant įstatymų ir kitų teisės aktų nustatytos
+tvarkos –
 užtraukia baudą
 nuo dviejų tūkstančių iki keturių tūkstančių litų.
 Kodeksas papildytas straipsniu:
@@ -1770,11 +1781,11 @@ ir kliudymas Valstybinės ligonių kasos prie Sveikatos apsaugos ministerijos
 jų įgaliotiems asmenims pagal jų kompetenciją tikrinti iš Privalomojo sveikatos
 draudimo fondo biudžeto lėšų apmokamų asmens sveikatos priežiūros įstaigų
 teikiamų paslaugų kiekį, kokybę, atlikti kompensuojamųjų vaistų, medicinos
-pagalbos priemonių ir ortopedijos techninių priemonių išrašymo ir išdavimo atitikties
-teisės aktų reikalavimams kontrolę bei atlikti finansinę Privalomojo sveikatos
-draudimo fondo biudžeto lėšų panaudojimo analizę, taip pat Valstybinės ligonių
-kasos ir teritorinių ligonių kasų pareigūnų ar jų įgaliotų asmenų teisėtų
-reikalavimų ir sprendimų nevykdymas –
+pagalbos priemonių ir ortopedijos techninių priemonių išrašymo ir išdavimo
+atitikties teisės aktų reikalavimams kontrolę bei atlikti finansinę Privalomojo
+sveikatos draudimo fondo biudžeto lėšų panaudojimo analizę, taip pat
+Valstybinės ligonių kasos ir teritorinių ligonių kasų pareigūnų ar jų įgaliotų
+asmenų teisėtų reikalavimų ir sprendimų nevykdymas –
 užtraukia baudą asmens
 sveikatos priežiūros įstaigų, sudariusių sutartis su teritorine ligonių kasa
 dėl asmens sveikatos priežiūros paslaugų teikimo ir šių išlaidų apmokėjimo iš
@@ -1801,9 +1812,9 @@ Nr. XI-1866,
 Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 437 straipsnis. Neteisingų duomenų apie suteiktas asmens
-sveikatos priežiūros paslaugas, išduotus (parduotus) kompensuojamuosius vaistus,
-įsigytas medicinos pagalbos priemones ir išduotas (parduotas) ortopedijos
-technines priemones pateikimas
+sveikatos priežiūros paslaugas, išduotus (parduotus) kompensuojamuosius
+vaistus, įsigytas medicinos pagalbos priemones ir išduotas (parduotas)
+ortopedijos technines priemones pateikimas
 Neteisingų
 duomenų Valstybinei ligonių kasai ir teritorinėms ligonių kasoms apie suteiktas
 asmens sveikatos priežiūros paslaugas, išduotus (parduotus) kompensuojamuosius
@@ -1816,11 +1827,11 @@ išlaidų apmokėjimo iš Privalomojo sveikatos draudimo fondo biudžeto, farmac
 veikla besiverčiančių įmonių ir kitų įmonių, sudariusių sutartis su teritorine
 ligonių kasa dėl išduotų kompensuojamųjų vaistų ir medicinos pagalbos priemonių
 įsigijimo išlaidų kompensavimo iš Privalomojo sveikatos draudimo fondo,
-ortopedijos įmonių, sudariusių sutartis su Valstybine ligonių kasa ar su
-teritorine ligonių kasa dėl ortopedijos techninių priemonių įsigijimo išlaidų
-kompensavimo iš Privalomojo sveikatos draudimo fondo, vadovams nuo vieno
-tūkstančio iki dviejų tūkstančių litų ir kitiems darbuotojams – nuo trijų šimtų
-iki penkių šimtų litų.
+ortopedijos įmonių, sudariusių sutartis su Valstybine ligonių kasa ar su teritorine
+ligonių kasa dėl ortopedijos techninių priemonių įsigijimo išlaidų kompensavimo
+iš Privalomojo sveikatos draudimo fondo, vadovams nuo vieno tūkstančio iki
+dviejų tūkstančių litų ir kitiems darbuotojams – nuo trijų šimtų iki penkių
+šimtų litų.
 Tos pačios
 veikos, padarytos asmens, bausto administracine nuobauda už šio straipsnio
 pirmojoje dalyje numatytus pažeidimus, –
@@ -1914,10 +1925,10 @@ taip pat iš žmogaus gautų audinių ir ląstelių pagamintų produktų, skirt�
 naudoti žmogui, donorystę, įsigijimą, ištyrimą, apdorojimą, konservavimą,
 laikymą, paskirstymą ir transplantaciją, pažeidimas
 Teisės
-aktų, reglamentuojančių žmogaus audinių, ląstelių ir organų, taip pat iš
-žmogaus gautų audinių ir ląstelių pagamintų produktų, skirtų naudoti žmogui,
-donorystę, įsigijimą, ištyrimą, apdorojimą, konservavimą, laikymą, paskirstymą
-ir transplantaciją, pažeidimas – 
+aktų, reglamentuojančių žmogaus audinių, ląstelių ir organų, taip pat iš žmogaus
+gautų audinių ir ląstelių pagamintų produktų, skirtų naudoti žmogui, donorystę,
+įsigijimą, ištyrimą, apdorojimą, konservavimą, laikymą, paskirstymą ir
+transplantaciją, pažeidimas – 
 užtraukia
 baudą pareigūnams, darbdaviams ar jų įgaliotiems asmenims nuo vieno tūkstančio
 iki dešimties tūkstančių litų.
@@ -1944,8 +1955,8 @@ jų teisėtų reikalavimų nevykdymas –
 užtraukia
 baudą pareigūnams, darbdaviams ar jų įgaliotiems asmenims nuo penkių šimtų iki
 dviejų tūkstančių litų.
-Tokia pat
-veika, padaryta asmens, bausto administracine nuobauda už šio straipsnio
+Tokia
+pat veika, padaryta asmens, bausto administracine nuobauda už šio straipsnio
 pirmojoje dalyje numatytus pažeidimus, – 
 užtraukia
 baudą pareigūnams, darbdaviams ar jų įgaliotiems asmenims nuo dviejų tūkstančių
@@ -1963,14 +1974,13 @@ atlikti teisės aktų nustatytas funkcijas arba jų teisėtų reikalavimų ir
 Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos prie Sveikatos
 apsaugos ministerijos sprendimų nevykdymas 
 Kliudymas Valstybinės akreditavimo sveikatos
-priežiūros veiklai tarnybos prie Sveikatos apsaugos ministerijos (toliau –
-Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba) pareigūnams
-atlikti teisės aktų nustatytas funkcijas arba jų teisėtų reikalavimų ir
-Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos sprendimų
-nevykdymas – 
+priežiūros veiklai tarnybos prie Sveikatos apsaugos ministerijos (toliau – Valstybinė
+akreditavimo sveikatos priežiūros veiklai tarnyba) pareigūnams atlikti teisės
+aktų nustatytas funkcijas arba jų teisėtų reikalavimų ir Valstybinės
+akreditavimo sveikatos priežiūros veiklai tarnybos sprendimų nevykdymas – 
 užtraukia baudą
-piliečiams nuo vieno šimto iki penkių šimtų litų ir pareigūnams – nuo vieno tūkstančio
-iki dviejų tūkstančių litų.
+piliečiams nuo vieno šimto iki penkių šimtų litų ir pareigūnams – nuo vieno
+tūkstančio iki dviejų tūkstančių litų.
 Tos
 pačios veikos, padarytos asmens, bausto administracine nuobauda už šio
 straipsnio pirmojoje dalyje numatytus pažeidimus, –
@@ -1993,8 +2003,8 @@ Neteisėtas
 narkotinių ar psichotropinių medžiagų įgijimas ar laikymas nedideliais kiekiais
 be tikslo parduoti ar kitaip platinti – 
 užtraukia
-baudą iki vieno tūkstančio litų su psichotropinių ar narkotinių medžiagų
-konfiskavimu arba administracinį areštą iki trisdešimties parų su narkotinių ar
+baudą iki vieno tūkstančio litų su psichotropinių ar narkotinių medžiagų konfiskavimu
+arba administracinį areštą iki trisdešimties parų su narkotinių ar
 psichotropinių medžiagų konfiskavimu. 
 Narkotinių ar
 psichotropinių medžiagų vartojimas be gydytojo paskyrimo arba asmenų, sulaikytų
@@ -2027,8 +2037,8 @@ Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
-Nr. IX-1260,
-2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
+Nr. IX-1260, 2002-12-10,
+Žin., 2002, Nr. 124-5623 (2002-12-27)
  
 441
 straipsnis. Neteisėtas vertimasis su vaistais (vaistiniais preparatais)
@@ -2103,9 +2113,9 @@ veika, padaryta asmens, bausto administracine nuobauda už šio straipsnio
 pirmojoje dalyje numatytą pažeidimą, – 
 užtraukią baudą
 nuo penkių šimtų iki dviejų tūkstančių litų.
-Vaistų (vaistinių
-preparatų) gamyba, didmeninis platinimas nesilaikant nustatytų veiklos sąlygų –
-
+Vaistų
+(vaistinių preparatų) gamyba, didmeninis platinimas nesilaikant nustatytų
+veiklos sąlygų – 
 užtraukia baudą
 kvalifikuotiems asmenims arba farmacinės veiklos vadovams nuo trijų tūkstančių
 iki dešimties tūkstančių litų su nušalinimu nuo darbo (pareigų) ir vaistų
@@ -2116,14 +2126,13 @@ užtraukia baudą farmacinės veiklos vadovams nuo dviejų
 tūkstančių iki aštuonių tūkstančių litų su nušalinimu nuo darbo (pareigų) ir
 vaistų (vaistinių preparatų) konfiskavimu ar be konfiskavimo.
 Kodeksas papildytas straipsniu:
-Nr. X-1019,
-2007-01-16, Žin., 2007, Nr. 12-492 (2007-01-30), šis įstatymas skirtas
-užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo priede,
-įgyvendinimą
+Nr. X-1019, 2007-01-16,
+Žin., 2007, Nr. 12-492 (2007-01-30), šis įstatymas skirtas užtikrinti
+Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
 Straipsnio pakeitimai:
 Nr.
-XI-60,
-2008-12-16, Žin., 2008, Nr. 149-5992 (2008-12-30)
+XI-60, 2008-12-16,
+Žin., 2008, Nr. 149-5992 (2008-12-30)
  
 444
 straipsnis. Vaistų (vaistinių preparatų) reklamos ir informacijos apie juos
@@ -2200,9 +2209,9 @@ Tokios pat
 veikos, padarytos asmens, bausto administracine nuobauda už šio straipsnio
 pirmojoje dalyje numatytus pažeidimus, – 
 užtraukia
-baudą juridinių asmenų, kurie verčiasi veikla, susijusia su vaistais
-(vaistiniais preparatais), vadovams nuo penkių tūkstančių iki dešimties tūkstančių
-litų ir kitiems darbuotojams – nuo vieno tūkstančio iki dviejų tūkstančių litų.
+baudą juridinių asmenų, kurie verčiasi veikla, susijusia su vaistais (vaistiniais
+preparatais), vadovams nuo penkių tūkstančių iki dešimties tūkstančių litų ir
+kitiems darbuotojams – nuo vieno tūkstančio iki dviejų tūkstančių litų.
 Kodeksas papildytas straipsniu:
 Nr. X-1019,
 2007-01-16, Žin., 2007, Nr. 12-492 (2007-01-30), šis įstatymas skirtas
@@ -2227,8 +2236,8 @@ užtraukia baudą
 juridinių asmenų, kuriems suteikta vaistinio preparato rinkodaros teisė,
 vadovams nuo vieno tūkstančio iki trijų tūkstančių litų.
 Tokia pat veika,
-padaryta asmens, bausto administracine nuobauda už šio straipsnio pirmojoje
-dalyje numatytus pažeidimus, –
+padaryta asmens, bausto administracine nuobauda už šio straipsnio pirmojoje dalyje
+numatytus pažeidimus, –
 užtraukia baudą
 juridinių asmenų, kuriems suteikta vaistinio preparato rinkodaros teisė,
 vadovams nuo trijų tūkstančių iki penkių tūkstančių litų.
@@ -2317,8 +2326,8 @@ Tokia pat veika,
 padaryta asmens, bausto administracine nuobauda už šio straipsnio pirmojoje
 dalyje numatytus pažeidimus, –
 užtraukia baudą
-piliečiams nuo penkių šimtų iki vieno tūkstančio litų ir pareigūnams – nuo
-vieno tūkstančio iki dviejų tūkstančių litų.
+piliečiams nuo penkių šimtų iki vieno tūkstančio litų ir pareigūnams – nuo vieno
+tūkstančio iki dviejų tūkstančių litų.
 Straipsnio pakeitimai:
 Nr. I-1127, 95.12.14,
 Žin., 1995, Nr. 106-2350 (95.12.29)
@@ -2339,8 +2348,8 @@ Nr. I-2589, 1992.05.26,
 Žin., 1992, Nr. 21-610
 Nr. I-454, 1994.05.10,
 Žin., 1994, Nr. 37-668 (94.05.18)
-Nr. VIII-1543,
-00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543, 00.02.17,
+Žin., 2000, Nr. 22-552 (00.03.15)
  
 48
 straipsnis. Geodezinio pagrindo punkto bei markšeiderystės ženklų sunaikinimas
@@ -2392,8 +2401,8 @@ Nr. I-2589, 1992.05.26,
 Žin., 1992, Nr. 21-610 
 Nr. I-180, 1993.06.10,
 Žin., 1993, Nr. 26-597 
-Nr. I-545, 1994.07.18, Žin.,
-1994, Nr. 58-1132
+Nr. I-545, 1994.07.18,
+Žin., 1994, Nr. 58-1132
 Nr. I-653, 94.11.10,
 Žin., 1994, Nr. 89-1724 (94.11.18) 
 Nr. I-1141, 95.12.20,
@@ -2518,9 +2527,9 @@ atvejais, nesikreipimas į teismą dėl įstatinio kapitalo sumažinimo) –
 užtraukia
 baudą valdybų pirmininkams (valdytojams), valdybų nariams ar administracijų
 vadovams nuo dviejų tūkstančių iki dešimties tūkstančių litų.
-Tokie pat
-veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
-pirmojoje dalyje nurodytus pažeidimus, –
+Tokie pat veiksmai,
+padaryti asmens, bausto administracine nuobauda už šio straipsnio pirmojoje
+dalyje nurodytus pažeidimus, –
 užtraukia baudą
 nuo dešimties tūkstančių iki penkiasdešimties tūkstančių litų su nušalinimu nuo
 darbo (pareigų).
@@ -2586,7 +2595,8 @@ Nr. X-877, 2006-10-24,
 Žin., 2006, Nr. 119-4548 (2006-11-07), šis įstatymas skirtas užtikrinti
 Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą 
  
-Septintasis skirsnis
+Septintasis
+skirsnis
 ADMINISTRACINIAI
 TEISĖS PAŽEIDIMAI APLINKOS APSAUGOS, 
 GAMTOS IŠTEKLIŲ
@@ -2597,8 +2607,8 @@ straipsnis. Aplinkos apsaugos priemonių įgyvendinimas
 Valstybinėse
 gamtos išteklių naudojimo ir aplinkos apsaugos programose, kompleksinėse
 schemose numatytų aplinkos apsaugos priemonių ar kitų aplinkosaugos reikalavimų
-neįgyvendinimas laiku arba jų įgyvendinimas pažeidžiant nustatytus
-reikalavimus tyčia arba dėl aplaidumo –
+neįgyvendinimas laiku arba jų įgyvendinimas pažeidžiant nustatytus reikalavimus
+tyčia arba dėl aplaidumo –
 užtraukia baudą
 nuo dviejų šimtų iki penkių šimtų litų.
 Tokie pat
@@ -2623,9 +2633,9 @@ straipsnis. Projektinės dokumentacijos, kurioje nenumatytos aplinkos apsaugos
 priemonės,
 tvirtinimas
 Dokumentacijos,
-kurioje nėra numatyta priemonių avarijoms išvengti, jų priežastims bei padariniams
-likviduoti arba neigiamą poveikį aplinkai mažinančių priemonių, kai tai turėjo
-būti numatyta, tvirtinimas –
+kurioje nėra numatyta priemonių avarijoms išvengti, jų priežastims bei
+padariniams likviduoti arba neigiamą poveikį aplinkai mažinančių priemonių, kai
+tai turėjo būti numatyta, tvirtinimas –
 užtraukia baudą
 pareigūnams nuo penkių šimtų iki vieno tūkstančio litų.
 Ūkinės ar
@@ -2659,9 +2669,10 @@ piliečiams nuo penkių šimtų iki vieno tūkstančio litų, pareigūnams – n
 tūkstančio iki dviejų tūkstančių litų ir juridinių asmenų vadovams – nuo vieno
 tūkstančio penkių šimtų iki trijų tūkstančių litų.
 Ūkinės
-ar kitokios veiklos vykdymas, objektų naudojimas neturint taršos integruotos prevencijos
-ir kontrolės leidimo, kai tai numatyta įstatymuose ar kituose teisės aktuose,
-arba nesilaikant šio leidimo sąlygose nustatytų reikalavimų, arba kai
+ar kitokios veiklos vykdymas, objektų naudojimas neturint taršos integruotos
+prevencijos ir kontrolės leidimo, kai tai numatyta įstatymuose ar kituose
+teisės aktuose, arba nesilaikant šio leidimo sąlygose nustatytų reikalavimų,
+arba kai
 planuojamos ūkinės veiklos poveikio aplinkai vertinimą reglamentuojančių teisės
 aktų nustatyta tvarka nėra atliktas planuojamos ūkinės veiklos poveikio
 aplinkai vertinimas ar atranka dėl planuojamos ūkinės veiklos poveikio
@@ -2730,11 +2741,11 @@ užtraukia
 baudą piliečiams nuo dviejų šimtų iki keturių šimtų litų ir pareigūnams – nuo
 keturių šimtų iki aštuonių šimtų litų.
 Vieno kubinio
-metro ar mažesnio negu vienas kubinis metras pavojingų atliekų kiekio laikinasis
-laikymas, surinkimas, vežimas ir (ar) apdorojimas (įskaitant atvejus, kai tai
-daro prekiautojas atliekomis ir tarpininkas) pažeidžiant atliekų tvarkymo
-taisyklių reikalavimus, jeigu dėl to pavojingomis atliekomis buvo užteršta
-aplinka, – 
+metro ar mažesnio negu vienas kubinis metras pavojingų atliekų kiekio
+laikinasis laikymas, surinkimas, vežimas ir (ar) apdorojimas (įskaitant
+atvejus, kai tai daro prekiautojas atliekomis ir tarpininkas) pažeidžiant
+atliekų tvarkymo taisyklių reikalavimus, jeigu dėl to pavojingomis atliekomis
+buvo užteršta aplinka, – 
 užtraukia baudą
 piliečiams nuo trijų šimtų iki šešių šimtų litų ir pareigūnams – nuo penkių
 šimtų iki vieno tūkstančio litų.
@@ -2781,9 +2792,9 @@ užtraukia baudą
 nuo trijų tūkstančių iki šešių tūkstančių litų.
 Šio straipsnio
 septintojoje dalyje numatyta veika, jeigu dėl to pavojingomis atliekomis buvo
-užteršta aplinka vandenviečių ir mineralinių šaltinių sanitarinėse apsaugos
-zonose, rezervatuose, nacionaliniuose ir regioniniuose parkuose, draustiniuose,
-saugomų gamtos ir kultūros paveldo objektų teritorijose bei jų apsaugos zonose,
+užteršta aplinka vandenviečių ir mineralinių šaltinių sanitarinėse apsaugos zonose,
+rezervatuose, nacionaliniuose ir regioniniuose parkuose, draustiniuose, saugomų
+gamtos ir kultūros paveldo objektų teritorijose bei jų apsaugos zonose,
 rekreacinėse teritorijose, kurortų apsaugos zonose, išžvalgytų naudingųjų
 iškasenų ir požeminių vandens telkinių plotuose, oro uostų, magistralinių
 dujotiekių ir naftotiekių vamzdynų bei jų įrenginių, hidrometeorologijos stočių
@@ -3107,8 +3118,8 @@ Nr. I-442, 1994.04.21,
 Žin., 1994, Nr. 34-618 (94.05.06)
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
-Nr. XI-1407, 2011-05-24,
-Žin., 2011, Nr. 72-3463 (2011-06-14)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
  
 51(11)
 straipsnis. Neeksploatuojamos transporto priemonės laikymas bendro naudojimo
@@ -3190,9 +3201,9 @@ X-691,
 užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede,
 įgyvendinimą
 
-Nr. X-1766,
-2008-11-06, Žin., 2008, Nr. 135-5227 (2008-11-25), šiuo įstatymu
-įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. X-1766, 2008-11-06,
+Žin., 2008, Nr. 135-5227 (2008-11-25), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 5113
 straipsnis. Specialiųjų žemės, miško, vandens telkinių naudojimo sąlygų
@@ -3322,9 +3333,9 @@ Pagal nustatytus
 reikalavimus nepaženklintos elektros ir elektroninės įrangos platinimas –
 užtraukia baudą
 nuo vieno tūkstančio iki dviejų tūkstančių litų.
-Elektros ir
-elektroninės įrangos išleidimo į rinką ir jos atliekų tvarkymo apskaitos
-ataskaitų nepateikimas iki nustatytų terminų –
+Elektros ir elektroninės
+įrangos išleidimo į rinką ir jos atliekų tvarkymo apskaitos ataskaitų
+nepateikimas iki nustatytų terminų –
 užtraukia baudą
 pareigūnams nuo keturių šimtų iki aštuonių šimtų litų.
 Žinomai
@@ -3334,10 +3345,10 @@ užtraukia baudą
 pareigūnams nuo vieno tūkstančio penkių šimtų iki trijų tūkstančių litų.
 Atsisakymas
 priimti prekybos vietoje be papildomo mokesčio vartotojo atiduodamas buityje
-susidarančias elektros ir elektroninės įrangos atliekas tuo atveju, kai vartotojo
-atiduodamos elektros ir elektroninės įrangos atliekos yra tos pačios paskirties
-kaip jo perkama įranga ir kai atiduodamos įrangos atliekų kiekis (skaičiuojant
-įrangos vienetais) atitinka perkamos įrangos kiekį, –
+susidarančias elektros ir elektroninės įrangos atliekas tuo atveju, kai
+vartotojo atiduodamos elektros ir elektroninės įrangos atliekos yra tos pačios
+paskirties kaip jo perkama įranga ir kai atiduodamos įrangos atliekų kiekis
+(skaičiuojant įrangos vienetais) atitinka perkamos įrangos kiekį, –
 užtraukia baudą
 nuo vieno tūkstančio penkių šimtų iki trijų tūkstančių litų.
 Elektros ir
@@ -3412,8 +3423,8 @@ pareigūnams nuo dvidešimt penkių tūkstančių iki penkiasdešimties tūkstan
 litų.
 Kodeksas papildytas straipsniu:
 Nr.
-X-691,
-2006-06-15, Žin., 2006, Nr. 73-2759 (2006-06-30), šis įstatymas skirtas užtikrinti
+X-691, 2006-06-15,
+Žin., 2006, Nr. 73-2759 (2006-06-30), šis įstatymas skirtas užtikrinti
 Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, įgyvendinimą 
  
 51(20)
@@ -3558,8 +3569,8 @@ Penkių šimtų
 kilogramų arba mažesnio kiekio skirtų šalinti nepavojingų atliekų išvežimas ar
 eksportas iš Lietuvos Respublikos be teisės aktų nustatyta tvarka gauto
 sprendimo leisti vežti atliekas – 
-užtraukia baudą nuo
-dviejų šimtų iki keturių šimtų litų. 
+užtraukia baudą
+nuo dviejų šimtų iki keturių šimtų litų. 
 Didesnio kaip
 penki šimtai kilogramų, bet mažesnio negu dvidešimt penkios tonos kiekio skirtų
 šalinti nepavojingų atliekų išvežimas ar eksportas iš Lietuvos Respublikos be
@@ -3610,9 +3621,10 @@ užtraukia baudą
 nuo trijų tūkstančių iki septynių tūkstančių litų.
 Klaidingos
 informacijos pranešimo formoje ar vežimo kontrolės formoje pateikimas Lietuvos
-Respublikos kompetentingai institucijai arba vežimo kontrolės formų nepateikimas
-Lietuvos Respublikos kompetentingai institucijai, arba vežimo kontrolės formos
-pateikimas Lietuvos Respublikos kompetentingai institucijai pažeidžiant teisės
+Respublikos kompetentingai institucijai arba vežimo kontrolės formų
+nepateikimas Lietuvos Respublikos kompetentingai institucijai, arba vežimo
+kontrolės formos pateikimas Lietuvos Respublikos kompetentingai institucijai
+pažeidžiant teisės
 aktų nustatytus
 pateikimo terminus – 
 užtraukia baudą
@@ -3622,8 +3634,8 @@ nesilaikant pranešimo formoje ir vežimo kontrolės formoje nustatytų reikalav
 – 
 užtraukia baudą
 nuo penkių šimtų iki vieno tūkstančio penkių šimtų litų.
-Reikalavimo
-turėti informacinį
+Reikalavimo turėti
+informacinį
 dokumentą atliekų vežimo metu pažeidimas arba vežimo kontrolės
 formų nepateikimas muitinės pareigūnams pareikalavus – 
 užtraukia baudą
@@ -3748,8 +3760,8 @@ Neteisėtas Europos Sąjungos ekologinio ženklo
 naudojimas ar jo naudojimas pažeidžiant 2009 m. lapkričio 25 d. Europos
 Parlamento ir Tarybos reglamente (EB) Nr. 66/2010 dėl ES ekologinio ženklo
 nustatytus reikalavimus –
-užtraukia baudą nuo vieno tūkstančio iki trijų tūkstančių
-litų.
+užtraukia baudą nuo vieno tūkstančio iki trijų
+tūkstančių litų.
 Tokios pat veikos, padarytos asmens, bausto
 administracine nuobauda už šio straipsnio pirmojoje ar antrojoje dalyje
 numatytus pažeidimus, –
@@ -3862,8 +3874,8 @@ ir rekultivavimui reikalavimus arba nuotekų dumblo naudojimo tręšimui ir
 rekultivavimui reikalavimų dėl kokybės apskaitos ar tyrimų nevykdymas –
 užtraukia
 įspėjimą arba baudą piliečiams nuo penkių šimtų iki vieno tūkstančio dviejų
-šimtų litų ir pareigūnams – nuo vieno tūkstančio dviejų šimtų iki dviejų
-tūkstančių penkių šimtų litų.
+šimtų litų ir pareigūnams – nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių
+penkių šimtų litų.
 Tokie
 pat veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
 pirmojoje dalyje numatytus pažeidimus, –
@@ -3913,8 +3925,8 @@ Tokie
 pat veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
 trečiojoje dalyje numatytus pažeidimus, –
 užtraukia baudą piliečiams nuo
-dviejų šimtų iki keturių šimtų litų ir pareigūnams – nuo keturių šimtų iki aštuonių
-šimtų litų.
+dviejų šimtų iki keturių šimtų litų ir pareigūnams – nuo keturių šimtų iki
+aštuonių šimtų litų.
 Kodeksas papildytas straipsniu:
 Nr. XI-1866,
 2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
@@ -3924,11 +3936,11 @@ Sąjungos teisės aktai, nurodyti šio įstatymo priede
 straipsnis. Žemės gelmių, jų išteklių apsaugos ir naudojimo reikalavimų
 pažeidimas
 Žemės gelmių
-apsaugos nuo užteršimo ir išsekinimo, racionalaus žemės gelmių išteklių ir
-ertmių naudojimo bei apskaitos reikalavimų pažeidimas, savavališkas žemės
-gelmių (geologinis) tyrimas, naudingųjų iškasenų telkinių plotų užstatymas,
-požeminio vandens monitoringo gręžinių, taip pat markšeiderystės ir geodezijos
-ženklų naikinimas arba gadinimas –
+apsaugos nuo užteršimo ir išsekinimo, racionalaus žemės gelmių išteklių ir ertmių
+naudojimo bei apskaitos reikalavimų pažeidimas, savavališkas žemės gelmių
+(geologinis) tyrimas, naudingųjų iškasenų telkinių plotų užstatymas, požeminio
+vandens monitoringo gręžinių, taip pat markšeiderystės ir geodezijos ženklų
+naikinimas arba gadinimas –
 užtraukia baudą
 piliečiams nuo penkių šimtų iki vieno tūkstančio litų ir pareigūnams – nuo
 vieno tūkstančio iki dviejų tūkstančių litų.
@@ -4113,9 +4125,9 @@ Ne laivuose
 susidarančių atliekų ir kitų medžiagų šalinimas ir deginimas Lietuvos
 Respublikos jūros rajone, Baltijos jūroje, taip pat Lietuvos Respublikos laivų
 atviroje jūroje (jūros rajonuose, kurie nepriklauso valstybių vidaus,
-teritoriniams vandenims ir išskirtinei ekonominei zonai) iškasto grunto
-šalinimas Lietuvos Respublikos jūros rajone ir Baltijos jūroje be aplinkos
-apsaugos institucijos leidimo –
+teritoriniams vandenims ir išskirtinei ekonominei zonai) iškasto grunto šalinimas
+Lietuvos Respublikos jūros rajone ir Baltijos jūroje be aplinkos apsaugos
+institucijos leidimo –
 užtraukia baudą
 nuo keturių tūkstančių iki penkiasdešimties tūkstančių litų.
 Lietuvos
@@ -4191,9 +4203,9 @@ Nr. X-1675,
 2008-07-03, Žin., 2008, Nr. 81-3181 (2008-07-17), šiuo įstatymu
 įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
-562 straipsnis.
-Aplinkosaugos sąlygų plaukioti vandens telkiniuose plaukiojimo priemonėmis
-pažeidimas
+562
+straipsnis. Aplinkosaugos sąlygų plaukioti vandens telkiniuose plaukiojimo
+priemonėmis pažeidimas
 Aplinkosaugos
 sąlygų plaukioti vandens telkiniuose plaukiojimo priemonėmis pažeidimas – 
 užtraukia baudą
@@ -4232,8 +4244,8 @@ veikos, padarytos asmens, bausto administracine nuobauda už šio straipsnio
 pirmojoje, antrojoje, trečiojoje ir penktojoje dalyse numatytus pažeidimus, – 
 užtraukia baudą
 nuo keturių šimtų iki aštuonių šimtų litų.
-Tokios pat veikos,
-padarytos asmens, bausto administracine nuobauda už šio straipsnio
+Tokios pat
+veikos, padarytos asmens, bausto administracine nuobauda už šio straipsnio
 ketvirtojoje, šeštojoje ir septintojoje dalyse numatytus pažeidimus, – 
 užtraukia baudą
 nuo aštuonių šimtų iki dviejų tūkstančių litų.
@@ -4252,9 +4264,9 @@ straipsnis. Vandens telkinių naudojimo vandeniui išgauti ar nuotekų tvarkymo 
 reikalavimų pažeidimas
 Vandens
 telkinių naudojimas vandeniui išgauti be nustatyta tvarka išduoto leidimo, kai
-pagal teisės aktus toks leidimas yra reikalingas, arba be nustatyta tvarka
-išduotų paviršinių vandens telkinių naudojimo vandeniui išgauti sąlygų, kai
-pagal teisės aktus tokios sąlygos yra reikalingos, – 
+pagal teisės aktus toks leidimas yra reikalingas, arba be nustatyta tvarka išduotų
+paviršinių vandens telkinių naudojimo vandeniui išgauti sąlygų, kai pagal
+teisės aktus tokios sąlygos yra reikalingos, – 
 užtraukia
 baudą piliečiams nuo trijų šimtų iki vieno tūkstančio litų ir pareigūnams – nuo
 penkių šimtų iki dviejų tūkstančių litų.
@@ -4269,8 +4281,8 @@ Tokie
 pat veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
 pirmojoje ar antrojoje dalyje numatytus pažeidimus, –
 užtraukia
-baudą piliečiams nuo šešių šimtų iki dviejų tūkstančių litų ir pareigūnams – nuo
-vieno tūkstančio iki keturių tūkstančių litų.
+baudą piliečiams nuo šešių šimtų iki dviejų tūkstančių litų ir pareigūnams –
+nuo vieno tūkstančio iki keturių tūkstančių litų.
 Gręžinių
 geriamajam gėlam ir gamybiniam požeminiam vandeniui tiekti ir vandens šiluminei
 energijai vartoti įrengimo, konservavimo ir likvidavimo reikalavimų pažeidimas
@@ -4314,7 +4326,8 @@ Nr. XI-581,
 Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
  
 58
-straipsnis. Tvenkinio ar užtvenkto ežero naudojimo ir priežiūros taisyklių pažeidimas
+straipsnis. Tvenkinio ar užtvenkto ežero naudojimo ir priežiūros taisyklių
+pažeidimas
 Tvenkinio ar
 užtvenkto ežero naudojimo ir priežiūros taisyklių pažeidimas – 
 užtraukia baudą
@@ -4350,9 +4363,7 @@ Kodeksas papildytas straipsniu:
 Nr.
 X-691,
 2006-06-15, Žin., 2006, Nr. 73-2759 (2006-06-30), šis įstatymas skirtas
-užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede,
-įgyvendinimą
-
+užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, įgyvendinimą 
 Straipsnio pakeitimai: 
 Nr. XI-581,
 2009-12-17, Žin., 2010, Nr. 1-2 (2010-01-05), šiuo įstatymu įgyvendinamas
@@ -4364,8 +4375,8 @@ galios nuo 2006 m. gruodžio 5 d.
 Straipsnio pakeitimai: 
 Nr. I-830, 1990.12.04,
 Žin., 1990, Nr. 36-862 
-Nr. I-442, 1994.04.21,
-Žin., 1994, Nr. 34-618 (94.05.06)
+Nr. I-442, 1994.04.21, Žin.,
+1994, Nr. 34-618 (94.05.06)
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. VIII-2051,
@@ -4380,8 +4391,8 @@ Pastatų,
 statinių statymas miškų žemės sklypuose, taip pat šių sklypų naudojimas kitiems
 tikslams be reikiamo leidimo –
 užtraukia baudą
-piliečiams nuo dviejų šimtų penkiasdešimties iki penkių šimtų litų ir
-pareigūnams – nuo penkių šimtų iki vieno tūkstančio litų.
+piliečiams nuo dviejų šimtų penkiasdešimties iki penkių šimtų litų ir pareigūnams
+– nuo penkių šimtų iki vieno tūkstančio litų.
 Straipsnio pakeitimai: 
 Nr. I-830, 1990.12.04,
 Žin., 1990, Nr. 36-862 
@@ -4463,8 +4474,8 @@ padarymo įrankių ir priemonių konfiskavimu ar be konfiskavimo.
 pirmojoje dalyje numatytos veikos, kai iškertama, sunaikinama ar sužalojama nuo
 vieno šimto iki trijų šimtų kietmetrių medžių ar krūmų, – 
 užtraukia
-baudą piliečiams nuo penkių tūkstančių iki dešimties tūkstančių litų su
-pažeidimo padarymo įrankių ir priemonių konfiskavimu ar be konfiskavimo.
+baudą piliečiams nuo penkių tūkstančių iki dešimties tūkstančių litų su pažeidimo
+padarymo įrankių ir priemonių konfiskavimu ar be konfiskavimo.
 Šio straipsnio
 pirmojoje dalyje numatytos veikos, kai iškertama, sunaikinama ar sužalojama nuo
 trijų šimtų iki penkių šimtų kietmetrių medžių ar krūmų, – 
@@ -4520,8 +4531,8 @@ Nr. I-442, 1994.04.21,
 Žin., 1994, Nr. 34-618 (94.05.06)
 Nr. VIII-677, 98.03.24,
 Žin., 1998, Nr. 32-854 (98.04.03)
-Nr. VIII-1543,
-00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543, 00.02.17,
+Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-770,
 2002-03-07, Žin., 2002, Nr. 31-1121 (2002-03-27)
  
@@ -4816,8 +4827,8 @@ užtraukia
 baudą piliečiams nuo dvidešimt penkių iki vieno šimto litų ir pareigūnams – nuo
 vieno šimto iki dviejų šimtų litų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04,
-Žin., 1990, Nr. 36-862 
+Nr. I-830, 1990.12.04, Žin.,
+1990, Nr. 36-862 
 Nr. I-442, 1994.04.21,
 Žin., 1994, Nr. 34-618 (94.05.06) 
 Nr. I-1431, 96.07.03,
@@ -4849,9 +4860,9 @@ baudą piliečiams nuo keturių šimtų iki penkių šimtų litų ir pareigūnam
 penkių šimtų iki vieno tūkstančio litų.
 Saugomais laukiniais augalais ir
 grybais laikomi Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų
-rūšių sąraše ir (arba) Europos Bendrijos svarbos gyvūnų ir augalų rūšių
-sąrašuose nurodytų rūšių arba pagal tarptautinius susitarimus pripažintų saugomomis
-rūšių augalai ir grybai.
+rūšių sąraše ir (arba) Europos Bendrijos svarbos gyvūnų ir augalų rūšių sąrašuose
+nurodytų rūšių arba pagal tarptautinius susitarimus pripažintų saugomomis rūšių
+augalai ir grybai.
 Straipsnio pakeitimai: 
 Nr. I-830, 1990.12.04,
 Žin., 1990, Nr. 36-862 
@@ -4862,8 +4873,8 @@ Nr. VIII-1543,
 Nr. X-1766,
 2008-11-06, Žin., 2008, Nr. 135-5227 (2008-11-25), šiuo įstatymu
 įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
-Nr. XI-1407,
-2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
+Nr. XI-1407, 2011-05-24,
+Žin., 2011, Nr. 72-3463 (2011-06-14)
  
 68
 straipsnis. Savavališkas miško paklotės naikinimas, žalojimas ar rinkimas
@@ -4879,8 +4890,8 @@ Nr. I-2589, 1992.05.26,
 Žin., 1992, Nr. 21-610 
 Nr. I-442, 1994.04.21,
 Žin., 1994, Nr. 34-618 (94.05.06)
-Nr. VIII-1543,
-00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543, 00.02.17,
+Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XI-1407,
 2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
  
@@ -4933,8 +4944,8 @@ X-691,
 užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede,
 įgyvendinimą
 
-Nr. XI-1407,
-2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
+Nr. XI-1407, 2011-05-24,
+Žin., 2011, Nr. 72-3463 (2011-06-14)
  
 71
 straipsnis. Sausinimo griovių, drenažo sistemų ir kitokių miško įrenginių
@@ -4946,8 +4957,8 @@ užtraukia baudą
 piliečiams nuo penkiasdešimties iki vieno šimto litų ir pareigūnams – nuo vieno
 šimto penkiasdešimties iki trijų šimtų litų.
 Straipsnio pakeitimai: 
-Nr. I-830, 1990.12.04,
-Žin., 1990, Nr. 36-862 
+Nr. I-830, 1990.12.04, Žin.,
+1990, Nr. 36-862 
 Nr. I-442, 1994.04.21,
 Žin., 1994, Nr. 34-618 (94.05.06)
 Nr. VIII-1543,
@@ -5042,10 +5053,10 @@ užtraukia baudą
 piliečiams nuo dviejų šimtų iki šešių šimtų litų ir pareigūnams – nuo keturių
 šimtų iki vieno tūkstančio litų. 
 Valstybinių
-parkų ar biosferos rezervatų, išskyrus valstybiniuose parkuose ar biosferos
-rezervatuose esančius gamtos paveldo objektus ir valstybinių parkų ar biosferos
-rezervatų ir jų ribų planuose išskirtus gamtinius rezervatus ir draustinius,
-apsaugos ir naudojimo režimo pažeidimas –
+parkų ar biosferos rezervatų, išskyrus valstybiniuose parkuose ar biosferos rezervatuose
+esančius gamtos paveldo objektus ir valstybinių parkų ar biosferos rezervatų ir
+jų ribų planuose išskirtus gamtinius rezervatus ir draustinius, apsaugos ir
+naudojimo režimo pažeidimas –
 užtraukia
 įspėjimą arba baudą piliečiams nuo vieno šimto iki trijų šimtų litų ir baudą
 pareigūnams nuo dviejų šimtų iki šešių šimtų litų. 
@@ -5060,11 +5071,11 @@ ketvirtojoje ar penktojoje dalyje numatytus pažeidimus, –
 užtraukia baudą
 piliečiams nuo keturių šimtų iki vieno tūkstančio litų ir pareigūnams – nuo
 aštuonių šimtų iki dviejų tūkstančių litų.
-Gamtinių rezervatų,
-draustinių, gamtos paveldo objektų arba valstybinių parkų ar biosferos
-rezervatų ir jų ribų planuose išskirtų gamtinių rezervatų ar draustinių, arba
-valstybiniuose parkuose ar biosferos rezervatuose esančių gamtos paveldo
-objektų apsaugos ir naudojimo režimo pažeidimas –
+Gamtinių
+rezervatų, draustinių, gamtos paveldo objektų arba valstybinių parkų ar
+biosferos rezervatų ir jų ribų planuose išskirtų gamtinių rezervatų ar
+draustinių, arba valstybiniuose parkuose ar biosferos rezervatuose esančių
+gamtos paveldo objektų apsaugos ir naudojimo režimo pažeidimas –
 užtraukia baudą
 piliečiams nuo trijų šimtų iki penkių šimtų litų ir baudą pareigūnams nuo
 penkių šimtų iki aštuonių šimtų litų. 
@@ -5079,10 +5090,11 @@ septintojoje ar aštuntojoje dalyje numatytus pažeidimus, –
 užtraukia baudą
 piliečiams nuo aštuonių šimtų iki vieno tūkstančio penkių šimtų litų ir
 pareigūnams – nuo vieno tūkstančio penkių šimtų iki trijų tūkstančių litų.
-Saugomų
-teritorijų apsaugos ir naudojimo režimo pažeidimas neteisėtai pastatant,
-laikant ar naudojant apgyvendinimui, nakvynei, maitinimui ar kitiems
-tikslams vagonėlius ar kitus kilnojamuosius objektus arba įrenginius –
+Saugomų teritorijų
+apsaugos ir naudojimo režimo pažeidimas neteisėtai pastatant, laikant ar
+naudojant
+apgyvendinimui, nakvynei, maitinimui ar kitiems tikslams vagonėlius ar kitus
+kilnojamuosius objektus arba įrenginius –
 užtraukia
 baudą piliečiams nuo penkių šimtų iki dviejų tūkstančių litų ir pareigūnams –
 nuo vieno tūkstančio iki keturių tūkstančių litų.
@@ -5207,8 +5219,8 @@ dviejų šimtų iki penkių šimtų litų.
 Želdinių
 veisimo, augančių medžių ir krūmų genėjimo, želdinių apsaugos nuo ligų ir
 kenkėjų, vejų ir gėlynų įrengimo darbų atlikimas, kai darbus atliekančios
-įmonės neturi specialistų, kuriems nustatyta tvarka suteikta teisė vykdyti
-tokius darbus, – 
+įmonės neturi specialistų, kuriems nustatyta tvarka suteikta teisė vykdyti tokius
+darbus, – 
 užtraukia
 įspėjimą arba baudą želdynus ir želdinius tvarkančios įmonės vadovui nuo vieno
 šimto penkiasdešimties iki trijų šimtų litų.
@@ -5235,8 +5247,8 @@ Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-1260,
 2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
-Nr. XI-1407,
-2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
+Nr. XI-1407, 2011-05-24,
+Žin., 2011, Nr. 72-3463 (2011-06-14)
  
 781
 straipsnis. Neteisėtas važiavimas per žolinę dangą, miško paklotę ar
@@ -5377,10 +5389,10 @@ užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede,
 straipsnis. Savivaldybės administracijos direktoriaus sprendimo laikinai
 apriboti arba uždrausti transporto priemonių eismą nevykdymas
 Savivaldybės
-administracijos direktoriaus sprendimo tam tikroje savivaldybės teritorijoje
-laikinai apriboti arba uždrausti transporto priemonių eismą siekiant apsaugoti
-žmonių sveikatą ir aplinktą, kai susidaro nepalankios teršalų išsisklaidymo
-sąlygos arba kai viršijamos ribinės užterštumo vertės ar pavojaus slenksčiai,
+administracijos direktoriaus sprendimo tam tikroje savivaldybės teritorijoje laikinai
+apriboti arba uždrausti transporto priemonių eismą siekiant apsaugoti žmonių
+sveikatą ir aplinktą, kai susidaro nepalankios teršalų išsisklaidymo sąlygos
+arba kai viršijamos ribinės užterštumo vertės ar pavojaus slenksčiai,
 nevykdymas –
 užtraukia baudą
 pareigūnams nuo vieno šimto iki keturių šimtų litų.
@@ -5454,10 +5466,9 @@ Kodeksas papildytas straipsniu:
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio pakeitimai: 
-Nr. X-1381,
-2007-12-18, Žin., 2007, Nr. 138-5644 (2007-12-29), šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. X-1381, 2007-12-18,
+Žin., 2007, Nr. 138-5644 (2007-12-29), šiuo įstatymu
+įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 84
 straipsnis. Aplinkos apsaugos reikalavimų pažeidimas gabenant, laikant ir
@@ -5468,9 +5479,9 @@ gabenimas, laikymas ir naudojimas pažeidžiant aplinkos apsaugos reikalavimus �
 užtraukia baudą
 piliečiams nuo vieno šimto iki dviejų šimtų litų ir pareigūnams – nuo vieno
 šimto penkiasdešimties iki trijų šimtų litų.
-Tokie pat veiksmai,
-padaryti asmens, bausto administracine nuobauda už šio straipsnio pirmojoje
-dalyje numatytus pažeidimus, –
+Tokie pat
+veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
+pirmojoje dalyje numatytus pažeidimus, –
 užtraukia baudą
 nuo penkių šimtų iki vieno tūkstančio litų.
 Straipsnio pakeitimai: 
@@ -5490,8 +5501,8 @@ sandėliavimas pažeidžiant nustatytus reikalavimus –
 užtraukia įspėjimą
 arba baudą fiziniams asmenims, užsiimantiems su cheminių medžiagų tvarkymu
 susijusia veikla, nuo penkių šimtų iki vieno tūkstančio litų ir įspėjimą arba
-baudą juridinių asmenų, užsiimančių su cheminių medžiagų tvarkymu susijusia veikla,
-vadovams ar jų įgaliotiems asmenims – nuo vieno tūkstančio iki dviejų tūkstančių
+baudą juridinių asmenų, užsiimančių su cheminių medžiagų tvarkymu susijusia
+veikla, vadovams ar jų įgaliotiems asmenims – nuo vieno tūkstančio iki dviejų tūkstančių
 litų.
 Pavojingų
 cheminių medžiagų ir mišinių (preparatų), taip pat jų turinčių gaminių importas
@@ -5511,9 +5522,9 @@ cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų
 (REACH), įsteigiančiame Europos cheminių medžiagų agentūrą, iš dalies
 keičiančiame Direktyvą 1999/45/EB bei panaikinančiame Tarybos reglamentą (EEB)
 Nr. 793/93, Komisijos reglamentą (EB) Nr. 1488/94, Tarybos direktyvą 76/769/EEB
-ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB,
-nustatytus reikalavimus ir (arba) reikalavimo šioje dalyje nurodytame reglamente
-nustatyta tvarka atnaujinti cheminių medžiagų, atskirų ir esančių mišiniuose
+ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB, nustatytus
+reikalavimus ir (arba) reikalavimo šioje dalyje nurodytame reglamente nustatyta
+tvarka atnaujinti cheminių medžiagų, atskirų ir esančių mišiniuose
 (preparatuose) ar gaminiuose, registraciją nevykdymas – 
 užtraukia baudą fiziniams asmenims, užsiimantiems su
 cheminių medžiagų tvarkymu susijusia veikla, ir juridinių asmenų, užsiimančių
@@ -5567,8 +5578,8 @@ veikla, ir juridinių asmenų, užsiimančių su cheminių medžiagų tvarkymu
 susijusia veikla, vadovams ar jų įgaliotiems asmenims nuo dviejų tūkstančių iki
 keturių tūkstančių litų.
 Reikalavimų
-teikti papildomą informaciją Europos cheminių medžiagų agentūrai ir (arba) Lietuvos
-kompetentingai
+teikti papildomą informaciją Europos cheminių medžiagų agentūrai ir (arba)
+Lietuvos kompetentingai
 institucijai pagal šių institucijų prašymą ir reikalavimų teikti Europos
 cheminių medžiagų agentūrai informaciją apie atskiras ir esančias mišiniuose
 (preparatuose) ar gaminiuose chemines medžiagas, kurioms šio straipsnio
@@ -5610,8 +5621,8 @@ baudą fiziniams asmenims, užsiimantiems su cheminių medžiagų tvarkymu susij
 veikla, ir juridinių asmenų, užsiimančių su cheminių medžiagų tvarkymu
 susijusia veikla, vadovams ar jų įgaliotiems asmenims nuo vieno tūkstančio iki
 penkių tūkstančių litų.
-Saugos duomenų
-lapuose ir jų prieduose nurodytų sąlygų ir reikalavimų pažeidimas –
+Saugos
+duomenų lapuose ir jų prieduose nurodytų sąlygų ir reikalavimų pažeidimas –
 užtraukia įspėjimą arba baudą fiziniams asmenims, užsiimantiems su cheminių
 medžiagų tvarkymu susijusia veikla, nuo vieno šimto iki penkių šimtų litų ir
 baudą juridinių asmenų, užsiimančių su cheminių medžiagų tvarkymu susijusia
@@ -5689,10 +5700,10 @@ Gaminamų,
 tiekiamų rinkai, platinamų, naudojamų cheminių medžiagų ir mišinių (preparatų)
 apskaitos reikalavimų pažeidimas –
 užtraukia įspėjimą
-arba baudą fiziniams asmenims, užsiimantiems su cheminių medžiagų tvarkymu
-susijusia veikla, ir juridinių asmenų, užsiimančių su cheminių medžiagų
-tvarkymu susijusia veikla, vadovams ar jų įgaliotiems asmenims nuo penkių šimtų
-iki trijų tūkstančių litų.
+arba baudą fiziniams asmenims, užsiimantiems su cheminių medžiagų tvarkymu susijusia
+veikla, ir juridinių asmenų, užsiimančių su cheminių medžiagų tvarkymu
+susijusia veikla, vadovams ar jų įgaliotiems asmenims nuo penkių šimtų iki trijų
+tūkstančių litų.
 Pavojingų cheminių medžiagų ir mišinių (preparatų), jų
 turinčių gaminių naudojimo reklamos reikalavimų pažeidimas –
 užtraukia
@@ -5726,8 +5737,8 @@ juridinių asmenų, užsiimančių su cheminių medžiagų tvarkymu susijusia ve
 vadovams ar jų įgaliotiems asmenims nuo vieno tūkstančio iki penkių tūkstančių
 litų.
 Kodeksas papildytas straipsniu:
-Nr. IX-726, 2002-01-22,
-Žin., 2002, Nr. 13-477 (2002-02-06)
+Nr. IX-726,
+2002-01-22, Žin., 2002, Nr. 13-477 (2002-02-06)
 Straipsnio
 pakeitimai:
 Nr.
@@ -5737,8 +5748,8 @@ užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede,
 įgyvendinimą
 
 Nr. X-1766,
-2008-11-06, Žin., 2008, Nr. 135-5227 (2008-11-25), šiuo įstatymu
-įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+2008-11-06, Žin., 2008, Nr. 135-5227 (2008-11-25), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XI-1294,
 2011-03-24, Žin., 2011, Nr. 40-1918 (2011-04-05), šiuo įstatymu įgyvendinami Europos
 Sąjungos teisės aktai, nurodyti šio įstatymo priede
@@ -5802,8 +5813,8 @@ užtraukia baudą
 nuo penkių šimtų iki vieno tūkstančio litų.
 Kodeksas papildytas straipsniu:
 Nr. X-1675,
-2008-07-03, Žin., 2008, Nr. 81-3181 (2008-07-17), šiuo įstatymu įgyvendinami
-Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+2008-07-03, Žin., 2008, Nr. 81-3181 (2008-07-17), šiuo įstatymu
+įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 843
 straipsnis. Ozono sluoksnį ardančių medžiagų ir jų mišinių, įrangos ir
@@ -5811,8 +5822,8 @@ produktų, kuriuose yra šių medžiagų ar mišinių arba kurių veikla nuo jų
 priklauso, tvarkymo reikalavimų pažeidimas
 Įrangos
 ir produktų, kuriuose yra ozono sluoksnį ardančių medžiagų ar jų mišinių, montavimas, techninė
-priežiūra, remontas, tikrinimas dėl ozono sluoksnį ardančių medžiagų nuotėkio
-ir išmontavimas neturint reikiamos kvalifikacijos dirbti darbą su įranga, kurioje
+priežiūra, remontas, tikrinimas dėl ozono sluoksnį ardančių medžiagų nuotėkio ir
+išmontavimas neturint reikiamos kvalifikacijos dirbti darbą su įranga, kurioje
 yra ozono sluoksnį ardančių medžiagų ar jų mišinių, arba vadovauti tokiam
 darbui – 
 užtraukia
@@ -5888,9 +5899,10 @@ baudą nuo aštuonių šimtų iki penkių tūkstančių litų.
 ir produktų, kuriuose yra hidrochlorfluorangliavandenilių ar šių medžiagų
 turinčių mišinių, arba įrangos ir produktų, kurių veikimas priklauso nuo šių
 medžiagų ar šių medžiagų turinčių mišinių, importas, tiekimas rinkai, eksportas
-ir (arba) eksploatavimas (išskyrus šio straipsnio pirmojoje, antrojoje, trečiojoje,
-ketvirtojoje, penktojoje, šeštojoje, aštuntojoje, devintojoje dalyse nurodytas
-veikas) pažeidžiant teisės aktuose nustatytus reikalavimus –
+ir (arba) eksploatavimas (išskyrus šio straipsnio pirmojoje, antrojoje,
+trečiojoje, ketvirtojoje, penktojoje, šeštojoje, aštuntojoje, devintojoje
+dalyse nurodytas veikas) pažeidžiant teisės aktuose nustatytus
+reikalavimus –
 užtraukia
 baudą nuo penkių šimtų iki vieno tūkstančio penkių šimtų litų. 
 Informacijos
@@ -5934,8 +5946,8 @@ Nr. XI-1902,
  
 85
 straipsnis. Teisės aktų, reglamentuojančių medžioklę, pažeidimas 
-Medžioklės
-Lietuvos Respublikos teritorijoje taisyklėse numatytų medžioklės vadovo pareigų
+Medžioklės Lietuvos
+Respublikos teritorijoje taisyklėse numatytų medžioklės vadovo pareigų
 nevykdymas arba netinkamas vykdymas – 
 užtraukia
 medžioklės vadovui įspėjimą arba baudą nuo vieno šimto iki keturių šimtų litų.
@@ -5989,19 +6001,19 @@ Nr. I-442, 1994.04.21,
 Žin., 1994, Nr. 34-618 (94.05.06)
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
-Nr. IX-1260,
-2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
+Nr. IX-1260, 2002-12-10,
+Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr. X-382, 2005-11-10,
 Žin., 2005, Nr. 137-4911 (2005-11-19)
-Nr. XI-1407,
-2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
+Nr. XI-1407, 2011-05-24,
+Žin., 2011, Nr. 72-3463 (2011-06-14)
  
 86
 straipsnis. Pareigos aplinkai saugoti nevykdymas
 Teisės aktuose
 nustatytų gamtos išteklių naudojimo ar aplinkos apsaugos reikalavimų
-pažeidimai, atsiradę dėl pareigūno, kuris nesiėmė priemonių jiems išvengti,
-kaltės, –
+pažeidimai, atsiradę dėl pareigūno, kuris nesiėmė priemonių jiems išvengti, kaltės,
+–
 užtraukia baudą
 pareigūnams nuo penkių šimtų iki dviejų tūkstančių litų.
 Straipsnio pakeitimai: 
@@ -6014,8 +6026,8 @@ Nr. VIII-1543,
 Nr. XI-1407,
 2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
  
-87 straipsnis.
-Teisės aktų, reglamentuojančių mėgėjišką žūklę, pažeidimas
+87
+straipsnis. Teisės aktų, reglamentuojančių mėgėjišką žūklę, pažeidimas
 Mėgėjiškos
 žūklės taisyklių bei kitų teisės aktų, reglamentuojančių mėgėjišką žūklę, žuvų
 apsaugą, pažeidimas – 
@@ -6134,8 +6146,8 @@ užtraukia baudą
 nuo vieno šimto iki penkių šimtų litų su teisės užsiimti žvejyba atėmimu iki
 šešių mėnesių ar be šios teisės atėmimo.
 Ekonominių ir
-biologinių duomenų bei informacijos apie žuvų išteklių naudojimą ir žuvų perdirbimą
-neteikimas –
+biologinių duomenų bei informacijos apie žuvų išteklių naudojimą ir žuvų
+perdirbimą neteikimas –
 užtraukia baudą
 nuo penkiasdešimties iki dviejų tūkstančių litų.
 Kodeksas papildytas straipsniu: 
@@ -6249,8 +6261,8 @@ Kodeksas papildytas straipsniu:
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio pakeitimai:
-Nr. VIII-1824, 00.07.11,
-Žin., 2000, Nr. 64-1913 (00.07.31)
+Nr. VIII-1824,
+00.07.11, Žin., 2000, Nr. 64-1913 (00.07.31)
 Nr. X-134, 2005-03-17,
 Žin., 2005, Nr. 47-1553 (2005-04-12)
  
@@ -6266,8 +6278,8 @@ užtraukia baudą
 nuo vieno šimto iki penkių šimtų litų su žuvų konfiskavimu arba be
 konfiskavimo.
 Uždraustos
-žvejybos metu sužvejotų šviežių žuvų vežimas, sandėliavimas, perdirbimas,
-pardavimas ar supirkimas –
+žvejybos metu sužvejotų šviežių žuvų vežimas, sandėliavimas, perdirbimas, pardavimas
+ar supirkimas –
 užtraukia baudą
 nuo trijų šimtų iki vieno tūkstančio litų su žuvų konfiskavimu arba be
 konfiskavimo.
@@ -6358,8 +6370,8 @@ baudą nuo dviejų šimtų iki keturių šimtų litų su pažeidimo padarymo įr
 priemonių, šių gyvūnų, jų dalių ar gaminių iš jų konfiskavimu ar be
 konfiskavimo.
 Šio straipsnio
-pirmojoje dalyje nurodyta veika, padaryta valstybiniame rezervate,
-valstybiniame draustinyje, valstybiniame parke ar biosferos rezervate, – 
+pirmojoje dalyje nurodyta veika, padaryta valstybiniame rezervate, valstybiniame
+draustinyje, valstybiniame parke ar biosferos rezervate, – 
 užtraukia baudą
 nuo trijų šimtų iki penkių šimtų litų su pažeidimo padarymo įrankių ir
 priemonių, šių gyvūnų ir jų dalių konfiskavimu.
@@ -6377,9 +6389,9 @@ naudojimas
 arba
 neteisėtas šių gyvūnų lizdų, olų ar kitų būstų naikinimas, žalojimas ar
 naudojimas – 
-užtraukia
-piliečiams įspėjimą arba baudą nuo vieno šimto iki vieno tūkstančio litų su
-pažeidimo padarymo įrankių ir priemonių, šių gyvūnų, jų dalių ar gaminių iš jų konfiskavimu
+užtraukia piliečiams
+įspėjimą arba baudą nuo vieno šimto iki vieno tūkstančio litų su pažeidimo
+padarymo įrankių ir priemonių, šių gyvūnų, jų dalių ar gaminių iš jų konfiskavimu
 ar be konfiskavimo ir pareigūnams _ baudą nuo dviejų šimtų iki
 dviejų tūkstančių litų su pažeidimo padarymo įrankių ir priemonių, šių gyvūnų,
 jų dalių ar gaminių iš jų konfiskavimu ar be konfiskavimo.
@@ -6408,9 +6420,9 @@ Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-382, 2005-11-10,
 Žin., 2005, Nr. 137-4911 (2005-11-19)
-Nr. X-1766, 2008-11-06,
-Žin., 2008, Nr. 135-5227 (2008-11-25), šiuo įstatymu įgyvendinami Europos
-Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. X-1766,
+2008-11-06, Žin., 2008, Nr. 135-5227 (2008-11-25), šiuo įstatymu
+įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XI-1407,
 2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
  
@@ -6445,9 +6457,10 @@ nustatyta tvarka išduoto sutikimo, arba teisės aktuose nustatytų genetiškai
 modifikuotų organizmų ar genetiškai modifikuotų produktų naudojimo ar
 ženklinimo reikalavimų pažeidimas, arba genetiškai modifikuotų organizmų ir
 genetiškai modifikuotų produktų įvežimas į Lietuvos Respublikos teritoriją ar
-vežimas per jos teritoriją, ar išvežimas iš jos nesilaikant teisės aktuose nustatytų
-reikalavimų, išskyrus šio straipsnio trečiojoje, ketvirtojoje, penktojoje,
-šeštojoje, septintojoje ir aštuntojoje dalyse numatytus pažeidimus, – 
+vežimas per jos teritoriją, ar išvežimas iš jos nesilaikant teisės aktuose
+nustatytų reikalavimų, išskyrus šio straipsnio trečiojoje, ketvirtojoje,
+penktojoje, šeštojoje, septintojoje ir aštuntojoje dalyse numatytus pažeidimus,
+– 
 užtraukia baudą
 nuo vieno tūkstančio iki dviejų tūkstančių litų.
 Tokios pat
@@ -6472,8 +6485,8 @@ užtraukia baudą
 nuo vieno tūkstančio iki dviejų tūkstančių litų.
 Daugiau kaip
 pusės hektaro, bet ne daugiau kaip penkių hektarų ploto genetiškai modifikuotų
-augalų, kurių auginimas neįteisintas Europos Sąjungoje, auginimas tiekimo
-rinkai tikslais – 
+augalų, kurių auginimas neįteisintas Europos Sąjungoje, auginimas tiekimo rinkai
+tikslais – 
 užtraukia baudą
 nuo dviejų tūkstančių iki keturių tūkstančių litų.
 Daugiau kaip
@@ -6492,9 +6505,11 @@ Nr. IX-1995,
 2004-01-29, Žin., 2004, Nr. 25-763 (2004-02-14)
 Straipsnio pakeitimai: 
 Nr.
-X-691, 2006-06-15,
-Žin., 2006, Nr. 73-2759 (2006-06-30), šis įstatymas skirtas užtikrinti
-Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, įgyvendinimą 
+X-691,
+2006-06-15, Žin., 2006, Nr. 73-2759 (2006-06-30), šis įstatymas skirtas
+užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede,
+įgyvendinimą
+
 Nr. XI-645,
 2010-01-14, Žin., 2010, Nr. 13-613 (2010-02-02)
 Nr. XI-1223,
@@ -6505,8 +6520,8 @@ Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 straipsnis. Riboto naudojimo genetiškai modifikuotų mikroorganizmų nustatytų
 naudojimo reikalavimų pažeidimas
 Riboto naudojimo
-1 klasės genetiškai modifikuotų mikroorganizmų teisės aktuose nustatytų
-naudojimo reikalavimų pažeidimas – 
+1 klasės genetiškai modifikuotų mikroorganizmų teisės aktuose nustatytų naudojimo
+reikalavimų pažeidimas – 
 užtraukia baudą
 nuo penkių šimtų iki vieno tūkstančio litų.
 Tokia pat veika,
@@ -6546,9 +6561,11 @@ užtraukia baudą
 nuo penkiolikos tūkstančių iki trisdešimties tūkstančių litų.
 Kodeksas papildytas straipsniu:
 Nr.
-X-691, 2006-06-15,
-Žin., 2006, Nr. 73-2759 (2006-06-30), šis įstatymas skirtas užtikrinti
-Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, įgyvendinimą 
+X-691,
+2006-06-15, Žin., 2006, Nr. 73-2759 (2006-06-30), šis įstatymas skirtas
+užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede,
+įgyvendinimą
+
  
 90
 straipsnis. Žiaurus elgesys su gyvūnais
@@ -6558,14 +6575,14 @@ užtraukia baudą
 piliečiams nuo vieno šimto iki vieno tūkstančio litų ir pareigūnams – nuo vieno
 tūkstančio iki dviejų tūkstančių litų.
 Straipsnio pakeitimai: 
-Nr. XI-501, 1985.11.28, Žin.,
-1985, Nr. 33-370 
+Nr. XI-501, 1985.11.28, Žin., 1985,
+Nr. 33-370 
 Nr. I-830, 1990.12.04,
 Žin., 1990, Nr. 36-862 
 Nr. I-442, 1994.04.21,
 Žin., 1994, Nr. 34-618 (94.05.06)
-Nr. VIII-1543, 00.02.17,
-Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XI-1407,
 2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
  
@@ -6609,8 +6626,8 @@ Valstybinės
 kalbos nevartojimas Lietuvos Respublikos gaminių ir paslaugų pavadinimuose bei
 jų aprašuose, Lietuvoje parduodamų prekių vartojimo instrukcijose –
 užtraukia baudą
-įmonių, įstaigų, organizacijų vadovams ar pareigūnams nuo trijų šimtų iki penkių
-šimtų litų.
+įmonių, įstaigų, organizacijų vadovams ar pareigūnams nuo trijų šimtų iki
+penkių šimtų litų.
 Tokie pat
 veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
 pirmojoje ir antrojoje dalyse numatytus pažeidimus, –
@@ -6710,8 +6727,8 @@ nuo septynių šimtų iki devynių šimtų litų.
 Straipsnio pakeitimai: 
 Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132
-Nr. VIII-1543,
-00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543, 00.02.17,
+Žin., 2000, Nr. 22-552 (00.03.15)
  
 91(6)
 straipsnis. Televizijos ir radijo laidų, televizijos, kino ir videofilmų
@@ -6738,8 +6755,8 @@ Nr. VIII-1543,
 91(7)
 straipsnis. Autentiškų ir oficialių Lietuvos vietovardžių formų nevartojimas
 Autentiškų ir
-oficialių Lietuvos vietovardžių formų nevartojimas teisės aktuose, kituose
-oficialiuose leidiniuose, kartografijoje, kelių bei gatvių rodyklėse, iškabose,
+oficialių Lietuvos vietovardžių formų nevartojimas teisės aktuose, kituose oficialiuose
+leidiniuose, kartografijoje, kelių bei gatvių rodyklėse, iškabose,
 antspauduose, komunikacijose, Lietuvos Respublikos gaminių dokumentuose,
 vadovėliuose –
 užtraukia baudą
@@ -6921,8 +6938,8 @@ Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
 Nr. I-2589, 1992.05.26,
 Žin., 1992, Nr. 21-610 
-Nr. I-545, 1994.07.18,
-Žin., 1994, Nr. 58-1132
+Nr. I-545, 1994.07.18, Žin.,
+1994, Nr. 58-1132
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
@@ -6957,9 +6974,10 @@ eksploatavimo ir saugos norminių aktų pažeidimas
 Energetikos
 (elektros, šilumos ar dujų) įrenginių įrengimo, eksploatavimo ir saugos
 norminių aktų pažeidimas –
-užtraukia įspėjimą
-arba baudą piliečiams nuo dviejų šimtų iki penkių šimtų litų ir įspėjimą arba
-baudą pareigūnams – nuo septynių šimtų iki vieno tūkstančio penkių šimtų litų.
+užtraukia
+įspėjimą arba baudą piliečiams nuo dviejų šimtų iki penkių šimtų litų ir
+įspėjimą arba baudą pareigūnams – nuo septynių šimtų iki vieno tūkstančio
+penkių šimtų litų.
 Straipsnio pakeitimai:
 Nr. I-1281, 96.04.04,
 Žin., 1996, Nr. 37-930 (96.04.26)
@@ -6989,9 +7007,9 @@ vartojimo tvarkos pažeidimas, vertimasis energetikos veikla neturint leidimo
 tokiai veiklai ar leidime nurodytų reikalavimų nesilaikymas, energijos
 apskaitos pažeidimas, klaidingų energijos apskaitos duomenų pateikimas – 
 užtraukia
-įspėjimą arba baudą piliečiams nuo vieno šimto iki penkių šimtų litų ir įspėjimą
-arba baudą pareigūnams – nuo penkių šimtų iki vieno tūkstančio penkių šimtų
-litų.
+įspėjimą arba baudą piliečiams nuo vieno šimto iki penkių šimtų litų ir
+įspėjimą arba baudą pareigūnams – nuo penkių šimtų iki vieno tūkstančio penkių
+šimtų litų.
 Straipsnio pakeitimai: 
 Nr. I-1281, 96.04.04,
 Žin., 1996, Nr. 37-930 (96.04.26)
@@ -7256,10 +7274,10 @@ Nr. I-2589, 1992.05.26,
 straipsnis. Žemės ūkio įmonių ir ūkininkų ūkių pasėlių nuganymas, laukuose
 esančio nuimto žemės ūkio kultūrų derliaus sugadinimas arba sunaikinimas,
 želdinių sužalojimas
-Žemės ūkio
-įmonių ir ūkininkų ūkių pasėlių nuganymas, laukuose esančio nuimto žemės ūkio
-kultūrų derliaus sugadinimas, sunaikinimas, želdinių sužalojimas, kuriuos
-padaro gyvuliai ar paukščiai, –
+Žemės ūkio įmonių
+ir ūkininkų ūkių pasėlių nuganymas, laukuose esančio nuimto žemės ūkio kultūrų
+derliaus sugadinimas, sunaikinimas, želdinių sužalojimas, kuriuos padaro
+gyvuliai ar paukščiai, –
 užtraukia baudą
 nuo septyniasdešimt penkių iki vieno šimto penkiasdešimties litų.
 Pakartotinis
@@ -7280,7 +7298,8 @@ Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 104
-straipsnis. Važiavimas per žemės ūkio įmonių ir ūkininkų ūkių pasėlius ar želdinius
+straipsnis. Važiavimas per žemės ūkio įmonių ir ūkininkų ūkių pasėlius ar
+želdinius
 Važiavimas per
 žemės ūkio įmonių ir ūkininkų ūkių pasėlius ar želdinius kinkomuoju transportu
 –
@@ -7411,9 +7430,9 @@ Augalų apsaugos
 produktų vežimo, saugojimo, naudojimo reikalavimų pažeidimas –
 užtraukia baudą
 nuo dviejų šimtų iki keturių šimtų litų.
-Tokie pat veiksmai,
-padaryti asmens, bausto administracine nuobauda už šio straipsnio pirmojoje
-dalyje numatytus pažeidimus, –
+Tokie pat
+veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
+pirmojoje dalyje numatytus pažeidimus, –
 užtraukia baudą
 nuo penkių šimtų iki vieno tūkstančio litų.
 Augalų apsaugos
@@ -7440,8 +7459,8 @@ nuo dviejų tūkstančių penkių šimtų iki penkių tūkstančių litų.
 Straipsnio pakeitimai: 
 Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132
-Nr. VIII-1543, 00.02.17,
-Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XI-2022,
 2012-05-22, Žin., 2012, Nr. 63-3163 (2012-06-05), šiuo įstatymu įgyvendinami Europos
 Sąjungos teisės aktai, nurodyti šio įstatymo priede
@@ -7458,10 +7477,10 @@ Nr. VIII-1543,
 108
 straipsnis. Žemės ūkio mašinų techninio eksploatavimo, saugos darbe,
 registravimo ir valstybinių techninių apžiūrų taisyklių pažeidimas
-Traktorių,
-savaeigių važiuoklių, traktorių priekabų ir kelių tiesimo mašinų techninio
-eksploatavimo, saugos darbe, registravimo ir valstybinių techninių apžiūrų
-taisyklių pažeidimas- 
+Traktorių, savaeigių
+važiuoklių, traktorių priekabų ir kelių tiesimo mašinų techninio eksploatavimo,
+saugos darbe, registravimo ir valstybinių techninių apžiūrų taisyklių
+pažeidimas- 
 užtraukia baudą nuo vieno šimto
 iki dviejų šimtų litų arba teisės vairuoti šias mašinas atėmimą iki vieno
 mėnesio.
@@ -7523,8 +7542,8 @@ Nr. I-2589, 1992.05.26,
 Žin., 1992, Nr. 21-610 
 Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132
-Nr. XI-1866, 2011-12-22,
-Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
 Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 110
@@ -7549,8 +7568,8 @@ užtraukia baudą
 nuo dviejų šimtų iki keturių šimtų litų su gyvūnų konfiskavimu arba be
 konfiskavimo.
 Šio straipsnio
-pirmojoje ir antrojoje dalyse numatytos veikos, sukėlusios grėsmę asmens
-turtui, sveikatai ar gyvybei, – 
+pirmojoje ir antrojoje dalyse numatytos veikos, sukėlusios grėsmę asmens turtui,
+sveikatai ar gyvybei, – 
 užtraukia baudą
 nuo keturių šimtų iki šešių šimtų litų su gyvūnų konfiskavimu arba be
 konfiskavimo.
@@ -7611,8 +7630,8 @@ konfiskavimo.
 Šio
 straipsnio antrojoje dalyje numatytos veikos, sukėlusios grėsmę asmens turtui,
 sveikatai ar gyvybei, – 
-užtraukia
-baudą nuo keturių šimtų iki šešių šimtų litų su gyvūnų konfiskavimu arba be
+užtraukia baudą
+nuo keturių šimtų iki šešių šimtų litų su gyvūnų konfiskavimu arba be
 konfiskavimo.
 Šio
 straipsnio trečiojoje dalyje numatytos veikos, sukėlusios grėsmę asmens turtui,
@@ -7684,8 +7703,8 @@ bausto administracine nuobauda už šio straipsnio trečiojoje, šeštojoje,
 devintojoje ar dvyliktojoje dalyse numatytus
 pažeidimus, – 
 užtraukia
-baudą nuo vieno tūkstančio keturių šimtų iki dviejų tūkstančių keturių šimtų litų
-su gyvūnų konfiskavimu.
+baudą nuo vieno tūkstančio keturių šimtų iki dviejų tūkstančių keturių šimtų
+litų su gyvūnų konfiskavimu.
 Straipsnio pakeitimai: 
 Nr. I-2589, 1992.05.26,
 Žin., 1992, Nr. 21-610 
@@ -7720,9 +7739,9 @@ užtraukia
 produktų gamybos, perdirbimo ar tiekimo rinkai duomenų neteikimas, neteisingų
 duomenų teikimas žemės ūkio produktų gamybos, perdirbimo ar tiekimo rinkai
 tvarką administruojančiai institucijai ar kitiems juridiniams asmenims, duomenų
-teikimo terminų nesilaikymas, žemės ūkio produktų gamybos ir realizavimo apskaitos
-dokumentų netvarkymas, netinkamas tvarkymas, nepateikimas kontrolę atliekančiai
-institucijai ar jų nesaugojimas – 
+teikimo terminų nesilaikymas, žemės ūkio produktų gamybos ir realizavimo
+apskaitos dokumentų netvarkymas, netinkamas tvarkymas, nepateikimas kontrolę
+atliekančiai institucijai ar jų nesaugojimas – 
 užtraukia
 baudą piliečiams nuo trijų šimtų iki septynių šimtų litų, įmonių vadovams – nuo
 septynių šimtų iki dvylikos tūkstančių litų.
@@ -7730,9 +7749,10 @@ Kodeksas papildytas straipsniu:
 Nr. X-249, 2005-06-16,
 Žin., 2005, Nr. 83-3040 (2005-07-07)
 Straipsnio pakeitimai: 
-Nr. X-1381, 2007-12-18,
-Žin., 2007, Nr. 138-5644 (2007-12-29), šiuo įstatymu
-įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. X-1381,
+2007-12-18, Žin., 2007, Nr. 138-5644 (2007-12-29), šiuo
+įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
+priede
 Nr. XI-1866,
 2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
 Sąjungos teisės aktai, nurodyti šio įstatymo priede
@@ -7752,8 +7772,8 @@ užtraukia baudą nuo dviejų šimtų iki penkių šimtų litų.
 Neteisėtas traukinio stabdymas – 
 užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių litų. 
 Daiktų, dėl kurių gali sutrikti geležinkelių transporto eismas,
-dėjimas ant geležinkelių infrastruktūros objektų, taip pat geležinkelių
-infrastruktūros objektų ir konteinerių tyčinis gadinimas – 
+dėjimas ant geležinkelių infrastruktūros objektų, taip pat geležinkelių infrastruktūros
+objektų ir konteinerių tyčinis gadinimas – 
 užtraukia baudą nuo penkių šimtų iki dviejų tūkstančių litų.
 Daiktų išmetimas
 iš geležinkelių riedmenų, taip pat pašalinių asmenų buvimas, vaikščiojimas ar
@@ -7778,8 +7798,7 @@ Nr. XI-1866,
 Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 112
-straipsnis. Naudojimosi geležinkelių transporto priemonėmis taisyklių
-pažeidimas
+straipsnis. Naudojimosi geležinkelių transporto priemonėmis taisyklių pažeidimas
 Rūkymas arba
 alkoholinių gėrimų vartojimas nenustatytose tam vietose vietinio ir
 tarptautinio susisiekimo traukiniuose (taip pat nenurodytose geležinkelio
@@ -7828,8 +7847,8 @@ baudą nuo trijų šimtų iki vieno tūkstančio litų.
 Straipsnio pakeitimai: 
 Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132
-Nr. VIII-1543, 00.02.17,
-Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1675,
 2008-07-03, Žin., 2008, Nr. 81-3181 (2008-07-17), šiuo įstatymu
 įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
@@ -7998,8 +8017,8 @@ Nr. XI-1866,
 Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 11211
-straipsnis. Neįgaliųjų arba ribotos judėsenos asmenų teisių, susijusių su
-naudojimusi geležinkelių transporto paslaugomis, pažeidimas
+straipsnis. Neįgaliųjų arba ribotos judėsenos asmenų teisių, susijusių su naudojimusi
+geležinkelių transporto paslaugomis, pažeidimas
 Neįgaliųjų arba ribotos judėsenos
 asmenų teisių, susijusių su naudojimusi geležinkelių transporto paslaugomis, nurodytų Europos Parlamento ir Tarybos
 reglamente (EB) Nr. 1371/2007 dėl geležinkelių keleivių teisių ir pareigų, pažeidimas, išskyrus Lietuvos Respublikos geležinkelių transporto
@@ -8076,8 +8095,8 @@ Nr. VIII-1543,
  
 115
 straipsnis. Elgesio orlaivyje taisyklių pažeidimas
-Orlaivyje esančių
-asmenų nevykdymas laivo vado teisėtų nurodymų –
+Orlaivyje
+esančių asmenų nevykdymas laivo vado teisėtų nurodymų –
 užtraukia
 įspėjimą arba baudą nuo vieno šimto penkiasdešimties iki trijų šimtų litų.
 Straipsnio pakeitimai: 
@@ -8161,8 +8180,8 @@ Orlaivio įgulos
 nario skrydis be galiojančios atitinkamos civilinės aviacijos specialisto
 licencijos, orlaivio techninės priežiūros ir remonto darbų atlikimas neturint
 galiojančios atitinkamos civilinės aviacijos specialisto licencijos, orlaivio
-techninės priežiūros taisyklių pažeidimas arba skrydžių saugos taisyklių pažeidimas
-– 
+techninės priežiūros taisyklių pažeidimas arba skrydžių saugos taisyklių
+pažeidimas – 
 užtraukia baudą
 nuo penkių šimtų iki vieno tūkstančio litų. 
 Lietuvos
@@ -8184,8 +8203,8 @@ aktuose nustatytų reikalavimų oro vežėjams ir orlaivių naudotojams dėl
 civilinės atsakomybės draudimo dėl žalos keleivių, bagažo, krovinių ir trečiųjų
 asmenų atžvilgiu padarymo nesilaikymas –
 užtraukia baudą
-fiziniams asmenims nuo penkių šimtų iki vieno tūkstančio litų arba juridinio asmens
-vadovui – nuo vieno tūkstančio iki trijų tūkstančių litų.
+fiziniams asmenims nuo penkių šimtų iki vieno tūkstančio litų arba juridinio
+asmens vadovui – nuo vieno tūkstančio iki trijų tūkstančių litų.
 Straipsnio pakeitimai: 
 Nr. I-2589, 1992.05.26,
 Žin., 1992, Nr. 21-610 
@@ -8224,8 +8243,8 @@ valdomoje oro erdvėje be atitinkamo leidimo, jeigu toks leidimas reikalingas, �
 užtraukia baudą
 nuo trijų šimtų iki šešių šimtų litų. 
 Klaidingos
-informacijos pateikimas orlaivio įgulai ir (ar) skrydžių vadovui, sukėlęs tiesioginę
-grėsmę skrydžio saugai, – 
+informacijos pateikimas orlaivio įgulai ir (ar) skrydžių vadovui, sukėlęs
+tiesioginę grėsmę skrydžio saugai, – 
 užtraukia baudą
 nuo penkių šimtų iki vieno tūkstančio litų.
 Straipsnio pakeitimai: 
@@ -8249,8 +8268,8 @@ aerodromo teritorijoje nenustatytose vietose –
 užtraukia baudą
 nuo dvidešimties iki penkiasdešimties litų.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18,
-Žin., 1994, Nr. 58-1132 
+Nr. I-545, 1994.07.18, Žin.,
+1994, Nr. 58-1132 
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
@@ -8442,9 +8461,9 @@ asmens budėjimas arba darbas laive, arba budėjimo perdavimas apsvaigusiam nuo
 alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų
 asmeniui, taip pat apsvaigimo patikrinimo vengimas –
 užtraukia baudą
-laivo įgulos nariams nuo penkių šimtų iki dviejų tūkstančių litų arba vadovaujančios
-laivo įgulos nariams teisės eiti tam tikras pareigas jūrų laive atėmimą iki
-vienerių metų.
+laivo įgulos nariams nuo penkių šimtų iki dviejų tūkstančių litų arba
+vadovaujančios laivo įgulos nariams teisės eiti tam tikras pareigas jūrų laive
+atėmimą iki vienerių metų.
 Kodeksas papildytas straipsniu:
 Nr. X-249, 2005-06-16,
 Žin., 2005, Nr. 83-3040 (2005-07-07)
@@ -8477,8 +8496,7 @@ Nr. X-249, 2005-06-16,
  
 1175
 straipsnis. Privalomos išankstinės informacijos apie galimą laivo
-išplėstinį inspektavimą uoste, jūriniame terminale ar inkaravietėje
-nepateikimas
+išplėstinį inspektavimą uoste, jūriniame terminale ar inkaravietėje nepateikimas
 Privalomos
 išankstinės informacijos apie galimą laivo išplėstinį inspektavimą Lietuvos
 Respublikos jūrų uoste, jūriniame terminale ar inkaravietėje nepateikimas
@@ -8525,14 +8543,14 @@ užtraukia baudą
 nuo penkiasdešimties iki dviejų šimtų litų.
 Vidaus vandenų
 transporto priemonių vairavimas pažeidžiant nustatytus laivybos saugumą
-užtikrinančius reikalavimus; vidaus vandenų kelių ženklų reikalavimų
-nesilaikymas; vidaus vandenų transporto priemonių bendros judėjimo tvarkos,
-prasilenkimo ir aplenkimo, manevravimo taisyklių pažeidimas; vidaus vandenų
-transporto priemonių įplaukimas, plaukiojimas ir stovėjimas uždraustose
-akvatorijose ir rajonuose; plaukimas vidaus vandenų transporto priemonėmis
-nenavigaciniu laiku arba itin nepalankiomis meteorologinėmis sąlygomis;
-keleivių saugumą lipant į vidaus vandenų transporto priemones, kelionės metu ir
-išlipant iš jų užtikrinančių taisyklių pažeidimas – 
+užtikrinančius reikalavimus; vidaus vandenų kelių ženklų reikalavimų nesilaikymas;
+vidaus vandenų transporto priemonių bendros judėjimo tvarkos, prasilenkimo ir
+aplenkimo, manevravimo taisyklių pažeidimas; vidaus vandenų transporto
+priemonių įplaukimas, plaukiojimas ir stovėjimas uždraustose akvatorijose ir
+rajonuose; plaukimas vidaus vandenų transporto priemonėmis nenavigaciniu laiku
+arba itin nepalankiomis meteorologinėmis sąlygomis; keleivių saugumą lipant į
+vidaus vandenų transporto priemones, kelionės metu ir išlipant iš jų
+užtikrinančių taisyklių pažeidimas – 
 užtraukia baudą
 nuo dviejų šimtų iki keturių šimtų litų.
 Vidaus
@@ -8613,8 +8631,8 @@ Kodeksas papildytas straipsniu:
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1675,
-2008-07-03, Žin., 2008, Nr. 81-3181 (2008-07-17), šiuo įstatymu
-įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+2008-07-03, Žin., 2008, Nr. 81-3181 (2008-07-17), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 1192
 straipsnis. Kliudymas Lietuvos saugios laivybos administracijos pareigūnui
@@ -8636,19 +8654,19 @@ trejų metų, o asmenims, neturintiems teisės vairuoti vidaus
 vandenų transporto priemones, – baudą nuo keturių tūkstančių iki penkių
 tūkstančių litų.
 Pastaba.
-Uniformuoto Lietuvos saugios laivybos administracijos pareigūno reikalavimas sustabdyti
-vidaus vandenų transporto priemonę išreiškiamas duodant signalą balta vėliavėle
-arba per garsiakalbį. Neturėdamas tarnybinio ženklo, pareigūnas bet kokiu
-atveju parodo vidaus vandenų transporto priemonės vairuotojui tarnybinį
-pažymėjimą.
+Uniformuoto Lietuvos saugios laivybos administracijos pareigūno reikalavimas
+sustabdyti vidaus vandenų transporto priemonę išreiškiamas duodant signalą
+balta vėliavėle arba per garsiakalbį. Neturėdamas tarnybinio ženklo, pareigūnas
+bet kokiu atveju parodo vidaus vandenų transporto priemonės vairuotojui
+tarnybinį pažymėjimą.
 Kodeksas papildytas straipsniu: 
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1675,
 2008-07-03, Žin., 2008, Nr. 81-3181 (2008-07-17), šiuo įstatymu
 įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
-Nr. XI-892,
-2010-06-10, Žin., 2010, Nr. 72-3614 (2010-06-22)
+Nr. XI-892, 2010-06-10,
+Žin., 2010, Nr. 72-3614 (2010-06-22)
  
 1193
 straipsnis. Nepaklusimas Valstybės sienos apsaugos tarnybos pareigūno
@@ -8721,8 +8739,8 @@ perdirbtų be atitinkamo leidimo, arba nustatyta tvarka neįregistruotų, arba b
 techninės apžiūros, arba neparengtų žmonėms ir kroviniams plukdyti, vairavimas
 ar jų išleidimas plaukioti – 
 užtraukia baudą
-piliečiams nuo vieno šimto iki dviejų šimtų litų ir pareigūnams _ nuo
-trijų šimtų iki šešių šimtų litų.
+piliečiams nuo vieno šimto iki dviejų šimtų litų ir pareigūnams _
+nuo trijų šimtų iki šešių šimtų litų.
 Krovinių
 pakrovimo, iškrovimo ir laikymo vidaus vandenų transporto priemonėse ir
 uostuose taisyklių pažeidimas; narų darbų vykdymas be reikiamo leidimo;
@@ -8859,8 +8877,8 @@ greičio viršijimas iki 10 kilometrų per valandą –
 užtraukia
 įspėjimą vairuotojams.
 Nustatyto
-greičio viršijimas daugiau kaip 10, bet ne daugiau kaip 20 kilometrų per valandą
-– 
+greičio viršijimas daugiau kaip 10, bet ne daugiau kaip 20 kilometrų per
+valandą – 
 užtraukia baudą
 vairuotojams nuo keturiasdešimties iki vieno šimto litų.
 Nustatyto
@@ -8868,8 +8886,9 @@ greičio viršijimas daugiau kaip 20, bet ne daugiau kaip 30 kilometrų per
 valandą – 
 užtraukia baudą
 vairuotojams nuo vieno šimto iki trijų šimtų litų. 
-Nustatyto greičio
-viršijimas daugiau kaip 30, bet ne daugiau kaip 40 kilometrų per valandą – 
+Nustatyto
+greičio viršijimas daugiau kaip 30, bet ne daugiau kaip 40 kilometrų per
+valandą – 
 užtraukia baudą
 vairuotojams nuo keturių šimtų iki šešių šimtų litų, o vairuotojams,
 neturintiems dvejų metų vairavimo stažo, – baudą nuo keturių šimtų iki šešių
@@ -8879,12 +8898,12 @@ Nustatyto
 greičio viršijimas daugiau kaip 40, bet ne daugiau kaip 50 kilometrų per
 valandą – 
 užtraukia baudą
-vairuotojams nuo šešių šimtų iki aštuonių šimtų litų, o vairuotojams, neturintiems
-dvejų metų vairavimo stažo, – baudą nuo šešių šimtų iki aštuonių šimtų litų su
-teisės vairuoti transporto priemones atėmimu nuo šešių mėnesių iki vienerių
-metų.
-Nustatyto
-greičio viršijimas daugiau kaip 50 kilometrų per valandą – 
+vairuotojams nuo šešių šimtų iki aštuonių šimtų litų, o vairuotojams,
+neturintiems dvejų metų vairavimo stažo, – baudą nuo šešių šimtų iki aštuonių
+šimtų litų su teisės vairuoti transporto priemones atėmimu nuo šešių mėnesių
+iki vienerių metų.
+Nustatyto greičio
+viršijimas daugiau kaip 50 kilometrų per valandą – 
 užtraukia baudą
 vairuotojams nuo vieno tūkstančio iki vieno tūkstančio penkių šimtų litų su
 teisės vairuoti transporto priemones atėmimu nuo vieno iki trijų mėnesių arba
@@ -8979,8 +8998,8 @@ Nr. I-2589, 1992.05.26,
 Žin., 1992, Nr. 21-610 
 Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132
-Nr. VIII-1543, 00.02.17,
-Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-1995,
 2004-01-29, Žin., 2004, Nr. 25-763 (2004-02-14)
 Nr. X-1365,
@@ -9028,8 +9047,8 @@ vairuotojams nuo trijų tūkstančių iki keturių tūkstančių litų su teisė
 vairuoti transporto priemones atėmimu nuo trejų iki penkerių metų arba
 administracinį areštą nuo dešimties iki dvidešimties parų su teisės vairuoti
 transporto priemones atėmimu nuo trejų iki penkerių metų, o asmenims,
-neturintiems teisės vairuoti transporto priemones, – baudą nuo keturių
-tūkstančių iki penkių tūkstančių litų su transporto priemonės konfiskavimu arba
+neturintiems teisės vairuoti transporto priemones, – baudą nuo keturių tūkstančių
+iki penkių tūkstančių litų su transporto priemonės konfiskavimu arba
 administracinį areštą nuo dvidešimties iki trisdešimties parų su transporto
 priemonės konfiskavimu.
 Straipsnio pakeitimai: 
@@ -9086,11 +9105,11 @@ Nr. XI-1223,
 2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
 Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
-1246 straipsnis. Vietinės
-rinkliavos už leidimą įvažiuoti transporto priemonėmis į valstybės saugomas
-teritorijas, savivaldybių įsteigtus saugomus draustinius, jų paskelbtų
-kraštovaizdžio objektų teritorijas ir nustatytas vietinės reikšmės apsaugines
-zonas nuostatų pažeidimas 
+1246 straipsnis. Vietinės rinkliavos
+už leidimą įvažiuoti transporto priemonėmis į valstybės saugomas teritorijas,
+savivaldybių įsteigtus saugomus draustinius, jų paskelbtų kraštovaizdžio
+objektų teritorijas ir nustatytas vietinės reikšmės apsaugines zonas nuostatų
+pažeidimas 
 Vietinės
 rinkliavos už leidimą įvažiuoti transporto priemonėmis į valstybės saugomas
 teritorijas, savivaldybių įsteigtus saugomus draustinius, jų paskelbtų
@@ -9128,8 +9147,8 @@ Nr. I-2589, 1992.05.26,
 Žin., 1992, Nr. 21-610 
 Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132
-Nr. VIII-1543, 00.02.17,
-Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1365,
 2007-12-13, Žin., 2007, Nr. 138-5641 (2007-12-29)
 Nr. XI-1223,
@@ -9163,11 +9182,11 @@ esant neblaiviems, kai nustatomas lengvas neblaivumo (girtumo) laipsnis (nuo
 0,2 promilės iki 0,4 promilės), –
 užtraukia baudą
 vairuotojams nuo aštuonių šimtų iki vieno tūkstančio litų.
-Transporto
-priemonių vairavimas, esant vairuotojams neblaiviems, kai nustatomas vidutinis
-(nuo 1,51 iki 2,5 promilės) arba sunkus (nuo 2,51 promilės ir daugiau)
-neblaivumo (girtumo) laipsnis, neblaivumo patikrinimo vengimas, taip pat
-alkoholio vartojimas po eismo įvykio iki jo aplinkybių nustatymo –
+Transporto priemonių
+vairavimas, esant vairuotojams neblaiviems, kai nustatomas vidutinis (nuo 1,51
+iki 2,5 promilės) arba sunkus (nuo 2,51 promilės ir daugiau) neblaivumo
+(girtumo) laipsnis, neblaivumo patikrinimo vengimas, taip pat alkoholio
+vartojimas po eismo įvykio iki jo aplinkybių nustatymo –
 užtraukia baudą vairuotojams nuo
 dviejų tūkstančių iki trijų tūkstančių litų su teisės vairuoti transporto
 priemones atėmimu nuo dvejų iki trejų metų arba administracinį areštą nuo
@@ -9261,8 +9280,8 @@ Nr. VIII-1543,
 Nr. X-1365,
 2007-12-13, Žin., 2007, Nr. 138-5641 (2007-12-29)
 Nr. XI-1223,
-2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
-Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 128 straipsnis. Transporto priemonių vairavimas
 neturint teisės vairuoti
@@ -9292,8 +9311,8 @@ Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
-Nr. X-1365,
-2007-12-13, Žin., 2007, Nr. 138-5641 (2007-12-29)
+Nr. X-1365, 2007-12-13,
+Žin., 2007, Nr. 138-5641 (2007-12-29)
  
 129 straipsnis. Transporto priemonių
 vairavimas neblaivių ar apsvaigusių nuo narkotinių, psichotropinių ar kitų
@@ -9309,8 +9328,8 @@ užtraukia baudą nuo keturių
 tūkstančių iki penkių tūkstančių litų arba administracinį areštą nuo
 dvidešimties iki trisdešimties parų.
 Straipsnio pakeitimai: 
-Nr. XI-501, 1985.11.28, Žin., 1985,
-Nr. 33-370 
+Nr. XI-501, 1985.11.28, Žin.,
+1985, Nr. 33-370 
 Nr. XI-3058, 1989.07.03, Žin.,
 1989, Nr. 20-228 
 Nr. I-2589, 1992.05.26,
@@ -9351,9 +9370,9 @@ dalyvių, išskyrus vairuotoją, pasitraukimas iš eismo įvykio, su kuriuo jie 
 susiję, vietos, pažeidžiant Kelių eismo taisykles, –
 užtraukia baudą
 nuo penkių šimtų iki aštuonių šimtų litų.
-Nepaklusimas
-uniformuoto Valstybės sienos apsaugos tarnybos pareigūno teisėtam reikalavimui
-sustabdyti transporto priemonę –
+Nepaklusimas uniformuoto
+Valstybės sienos apsaugos tarnybos pareigūno teisėtam reikalavimui sustabdyti
+transporto priemonę –
 užtraukia baudą
 vairuotojams nuo trijų tūkstančių iki keturių tūkstančių litų.
 Pastaba.
@@ -9368,12 +9387,12 @@ tarnybos arba muitinės ženklu pažymėto automobilio švieslentę su užrašu 
 POLICIJA arba STOP. Neturintis tarnybinio ženklo muitinės pareigūnas bet kokiu
 atveju parodo transporto priemonės vairuotojui tarnybinį pažymėjimą. Tamsiuoju
 paros metu policijos, Valstybės sienos apsaugos tarnybos arba muitinės
-pareigūnas, stabdydamas transporto priemonę, turi vilkėti uniformą su šviesą atspindinčiais
-elementais (vilkėti specialiąsias liemenes, mūvėti rankogalius ar turėti kitus
-šviesą atspindinčius elementus). Patrulyje turi dirbti ne mažiau kaip du
-policijos, Valstybės sienos apsaugos tarnybos arba muitinės pareigūnai,
-turintys specialiomis spalvomis nudažytą ir policijos, Valstybės sienos
-apsaugos tarnybos skiriamaisiais ženklais arba muitinės ženklu pažymėtą
+pareigūnas, stabdydamas transporto priemonę, turi vilkėti uniformą su šviesą
+atspindinčiais elementais (vilkėti specialiąsias liemenes, mūvėti rankogalius
+ar turėti kitus šviesą atspindinčius elementus). Patrulyje turi dirbti ne
+mažiau kaip du policijos, Valstybės sienos apsaugos tarnybos arba muitinės
+pareigūnai, turintys specialiomis spalvomis nudažytą ir policijos, Valstybės
+sienos apsaugos tarnybos skiriamaisiais ženklais arba muitinės ženklu pažymėtą
 automobilį, stabdyti transporto priemonę šviečiančia reguliuotojo lazdele arba
 minėtu šviesą atspindinčiu skrituliu, įjungus patrulinio automobilio mėlynos ir
 (arba) raudonos spalvos švyturėlius.
@@ -9451,8 +9470,8 @@ nuo aštuoniasdešimties iki vieno šimto keturiasdešimties litų.
 Šio straipsnio
 pirmojoje dalyje nurodytų asmenų padarytas Kelių eismo taisyklių pažeidimas,
 sukėlęs pavojingą situaciją, tai yra privertęs kitus eismo dalyvius staigiai
-pakeisti judėjimo greitį, kryptį arba imtis kitokių veiksmų savo ar kitų piliečių
-saugumui užtikrinti, – 
+pakeisti judėjimo greitį, kryptį arba imtis kitokių veiksmų savo ar kitų
+piliečių saugumui užtikrinti, – 
 užtraukia baudą
 nuo vieno šimto iki dviejų šimtų litų.
 Šio straipsnio
@@ -9539,8 +9558,8 @@ Nr. I-2589, 1992.05.26,
 Žin., 1992, Nr. 21-610 
 Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132
-Nr. VIII-1543, 00.02.17,
-Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XI-1223,
 2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
 Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
@@ -9650,9 +9669,9 @@ užtraukia
 Pavojingų
 medžiagų arba daiktų vežimo jūrų ir vidaus vandenų transportu taisyklių
 pažeidimas – 
-užtraukia
-įspėjimą arba baudą piliečiams nuo penkiasdešimties iki vieno šimto litų ir
-įspėjimą arba baudą pareigūnams – nuo vieno šimto iki dviejų šimtų litų.
+užtraukia įspėjimą
+arba baudą piliečiams nuo penkiasdešimties iki vieno šimto litų ir įspėjimą
+arba baudą pareigūnams – nuo vieno šimto iki dviejų šimtų litų.
 Pavojingų
 medžiagų arba daiktų vežimas autobusu, troleibusu ar maršrutiniu taksi, taip
 pat pavojingų medžiagų ar daiktų atidavimas į bagažą arba saugojimo kamerą
@@ -9694,13 +9713,13 @@ susijusios su pavojingų krovinių vežimu, jų pakrovimu ir (ar) iškrovimu bei
 laikinuoju sandėliavimu, ataskaitų nepateikimas arba neteisingų duomenų
 ataskaitoje pateikimas –
 užtraukia
-baudą įmonių vadovams ar jų įgaliotiems asmenims, kuriems pavesta
-vadovauti krovinių vežimo veiklai, nuo dviejų šimtų iki keturių šimtų litų.
+baudą įmonių vadovams ar jų įgaliotiems asmenims, kuriems
+pavesta vadovauti krovinių vežimo veiklai, nuo dviejų šimtų iki keturių šimtų
+litų.
 Kodeksas papildytas straipsniu:
-Nr. X-1381,
-2007-12-18, Žin., 2007, Nr. 138-5644 (2007-12-29), šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. X-1381, 2007-12-18,
+Žin., 2007, Nr. 138-5644 (2007-12-29), šiuo įstatymu
+įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 1362 straipsnis. Pavojingų krovinių vežimo kelių
 transportu reikalavimų pažeidimas
@@ -9747,8 +9766,8 @@ pasirengimo reikalavimų ar nesilaiko draudimo rūkyti,
 – 
 užtraukia
 baudą vežimo paslaugas teikiančių įmonių vadovams nuo keturių šimtų iki
-aštuonių šimtų litų arba vairuotojams – nuo dviejų šimtų iki keturių šimtų
-litų. 
+aštuonių šimtų litų arba vairuotojams – nuo dviejų šimtų iki keturių šimtų litų.
+
 Pavojingų
 krovinių pateikimas vežti kelių transportu, kai pasibaigę taros arba vidutinės
 talpos konteinerio ar didelės taros bandymo, patikrinimo ir (ar) naudojimo
@@ -9901,9 +9920,10 @@ straipsnis. Nesilaikymas nustatytų reikalavimų transporto priemonių
 vairuotojams
 ir techninių apžiūrų centrų kontrolieriams ir ekspertams 
 rengti
-Nustatytų reikalavimų
-transporto priemonių vairuotojams rengti ar kvalifikacijai kelti, taip pat
-techninių apžiūrų centrų kontrolieriams ir ekspertams rengti nesilaikymas –
+Nustatytų
+reikalavimų transporto priemonių vairuotojams rengti ar kvalifikacijai kelti,
+taip pat techninių apžiūrų centrų kontrolieriams ir ekspertams rengti
+nesilaikymas –
 užtraukia baudą
 įstaigų, įmonių, rengiančių transporto priemonių vairuotojus ar techninių
 apžiūrų centrų kontrolierius ir ekspertus, vadovams nuo penkių šimtų iki vieno
@@ -9934,8 +9954,8 @@ nustatyta, neapmokėto rankinio bagažo vežimas –
 užtraukia baudą
 nuo dvidešimties iki trisdešimties litų.
 Geležinkelių
-darbuotojų (traukinių viršininkų, palydovų, konduktorių) vežimas keleivių be
-bilieto ar jų didesnio, negu nustatyta, neapmokėto bagažo –
+darbuotojų (traukinių viršininkų, palydovų, konduktorių) vežimas keleivių be bilieto
+ar jų didesnio, negu nustatyta, neapmokėto bagažo –
 užtraukia baudą
 nuo vieno šimto iki dviejų šimtų litų.
 Straipsnio pakeitimai: 
@@ -9965,8 +9985,8 @@ ir pareigūnams – nuo penkių šimtų iki dviejų tūkstančių penkių šimt�
 Kliudymas šio
 kodekso 227 straipsnio trečiojoje dalyje nurodytiems asmenims atlikti savo
 pareigas arba jų teisėtų reikalavimų nevykdymas –
-užtraukia baudą
-nuo penkiasdešimties iki vieno šimto litų.
+užtraukia baudą nuo
+penkiasdešimties iki vieno šimto litų.
 Kodeksas papildytas straipsniu:
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
@@ -10022,8 +10042,8 @@ užtraukia
 dešimties litų baudą.
 Didesnio negu
 nustatyta rankinio bagažo vežimas vidaus vandenų transporto priemonėse –
-užtraukia dešimties
-litų baudą.
+užtraukia
+dešimties litų baudą.
 Straipsnio pakeitimai: 
 Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
@@ -10090,8 +10110,8 @@ Nr. I-2589, 1992.05.26,
 Žin., 1992, Nr. 21-610 
 Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132 
-Nr. I-1431, 96.07.03,
-Žin., 1996, Nr. 73-1741 (96.07.31) 
+Nr. I-1431, 96.07.03, Žin.,
+1996, Nr. 73-1741 (96.07.31) 
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XI-349,
@@ -10141,8 +10161,8 @@ Straipsnio pakeitimai:
 Nr. I-1431, 96.07.03,
 Žin., 1996, Nr. 73-1741 (96.07.31) 
 Nr.
-VIII-1603,
-00.03.30, Žin., 2000, Nr. 32-888 (00.04.19)
+VIII-1603, 00.03.30,
+Žin., 2000, Nr. 32-888 (00.04.19)
 Nr. IX-707,
 2002-01-15, Žin., 2002, Nr. 13-468 (2002-02-06)
 Nr. X-1381,
@@ -10227,9 +10247,8 @@ Nr. X-1381,
 priede
  
 1425 straipsnis. Kelių transporto priemonių, vežančių
-keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais, ekipažams
-(vairuotojams) nustatytos vairavimo be pertraukos trukmės arba
-kasdienio vairavimo trukmės viršijimas
+keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais, ekipažams (vairuotojams)
+nustatytos vairavimo be pertraukos trukmės arba kasdienio vairavimo trukmės viršijimas
 Kelių
 transporto priemonių, vežančių keleivius ar krovinius vidaus ir (ar)
 tarptautiniais maršrutais, ekipažams (vairuotojams) nustatytos vairavimo be
@@ -10246,17 +10265,17 @@ daugiau kaip 30 minučių, bet ne daugiau kaip 1 valandą, –
 užtraukia
 baudą vairuotojams nuo vieno šimto iki dviejų šimtų litų.
 Kelių transporto
-priemonių, vežančių keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais,
-ekipažams (vairuotojams) nustatytos vairavimo
-be pertraukos trukmės arba kasdienio vairavimo trukmės viršijimas daugiau kaip 1 valandą, bet ne daugiau kaip 2
+priemonių, vežančių keleivius ar krovinius vidaus ir (ar) tarptautiniais
+maršrutais, ekipažams (vairuotojams) nustatytos
+vairavimo be pertraukos trukmės arba kasdienio vairavimo trukmės viršijimas daugiau kaip 1 valandą, bet ne daugiau kaip 2
 valandas, – 
 užtraukia
 baudą vairuotojams nuo dviejų šimtų iki trijų šimtų litų.
 Kelių transporto
 priemonių, vežančių keleivius ar krovinius vidaus ir (ar) tarptautiniais
 maršrutais, ekipažams (vairuotojams) nustatytos
-vairavimo be pertraukos trukmės arba kasdienio vairavimo trukmės viršijimas daugiau kaip 2 valandas, bet ne daugiau kaip 3 valandas,
-–
+vairavimo be pertraukos trukmės arba kasdienio vairavimo trukmės viršijimas daugiau kaip 2 valandas, bet ne daugiau kaip 3
+valandas, –
 užtraukia
 baudą vairuotojams nuo trijų šimtų iki penkių šimtų litų.
 Kelių transporto
@@ -10305,10 +10324,9 @@ užtraukia
 baudą vairuotojams nuo dviejų šimtų iki trijų šimtų litų.
 Kelių transporto
 priemonių, vežančių keleivius ar krovinius vidaus ir (ar) tarptautiniais
-maršrutais, ekipažams (vairuotojams) nustatytos kasdienio
-poilsio trukmės pažeidimas, kai trūksta daugiau kaip 4 valandų, bet ne
-daugiau kaip 6
-valandų kasdienio poilsio, – 
+maršrutais, ekipažams (vairuotojams) nustatytos
+kasdienio poilsio trukmės pažeidimas, kai trūksta daugiau kaip 4
+valandų, bet ne daugiau kaip 6 valandų kasdienio poilsio, – 
 užtraukia
 baudą vairuotojams nuo penkių šimtų iki septynių šimtų penkiasdešimties litų.
 Kelių transporto
@@ -10322,15 +10340,14 @@ litų.
 Kelių
 transporto priemonių, vežančių keleivius ar krovinius vidaus ir (ar)
 tarptautiniais maršrutais, ekipažams (vairuotojams) nustatyto kasdienio poilsio
-laiko suskirstymas į laikotarpius pažeidžiant teisės aktų nustatytus reikalavimus
-– 
+laiko suskirstymas į laikotarpius pažeidžiant teisės aktų nustatytus
+reikalavimus – 
 užtraukia
 baudą vairuotojams nuo vieno šimto iki dviejų šimtų litų.
 Kodeksas papildytas straipsniu:
-Nr. X-1381,
-2007-12-18, Žin., 2007, Nr. 138-5644 (2007-12-29), šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. X-1381, 2007-12-18,
+Žin., 2007, Nr. 138-5644 (2007-12-29), šiuo įstatymu
+įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 1427 straipsnis. Kelių transporto priemonių, vežančių
 keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais, ekipažams
@@ -10412,12 +10429,13 @@ vadovams ar jų įgaliotiems asmenims, kuriems pavesta vadovauti
 krovinių ar keleivių vežimo veiklai, – nuo dviejų
 tūkstančių iki keturių tūkstančių litų.
 Kelių
-transporto priemonių, vežančių keleivius ar krovinius vidaus ir (ar) tarptautiniais
-maršrutais, ekipažams (vairuotojams) privalomų tachografo registracijos lapų už
-teisės aktuose nustatytą laikotarpį nepateikimas, neužpildyto ar ne pagal
-nustatytus reikalavimus užpildytų tachografo registracijos lapų pateikimas ir
-(ar) vairuotojo kortelės nepateikimas, ir (ar) vairavimas nenaudojant
-vairuotojo kortelės, ir (ar) vairavimas naudojant ne savo vairuotojo kortelę –
+transporto priemonių, vežančių keleivius ar krovinius vidaus ir (ar)
+tarptautiniais maršrutais, ekipažams (vairuotojams) privalomų tachografo
+registracijos lapų už teisės aktuose nustatytą laikotarpį nepateikimas,
+neužpildyto ar ne pagal nustatytus reikalavimus užpildytų tachografo
+registracijos lapų pateikimas ir (ar) vairuotojo kortelės nepateikimas, ir (ar)
+vairavimas nenaudojant vairuotojo kortelės, ir (ar) vairavimas naudojant ne
+savo vairuotojo kortelę –
 užtraukia
 baudą vairuotojams nuo penkių šimtų iki vieno tūkstančio litų.
 Kelių
@@ -10449,10 +10467,10 @@ Nuo
 keleivius ar krovinius vidaus ir (ar) tarptautinio susisiekimo maršrutais,
 ekipažams (vairuotojams) privalomų tachografo registracijos lapų ir (ar) duomenų, perkeltų iš
 skaitmeninio tachografo ir (ar) vairuotojo kortelės (iš patikrintų vairuotojo
-darbo dienų), nesaugojimas nustatytą laiką įmonėje arba nuo tachografo registracijos
-lapuose ir (ar) duomenyse, perkeltuose iš skaitmeninio tachografo ir (ar)
-vairuotojo kortelės (iš įmonėje patikrintų vairuotojo darbo dienų), nustatytų
-nuo 5 iki 10 procentų vairuotojų darbo ir poilsio režimo pažeidimų –
+darbo dienų), nesaugojimas nustatytą laiką įmonėje arba nuo tachografo
+registracijos lapuose ir (ar) duomenyse, perkeltuose iš skaitmeninio tachografo
+ir (ar) vairuotojo kortelės (iš įmonėje patikrintų vairuotojo darbo dienų),
+nustatytų nuo 5 iki 10 procentų vairuotojų darbo ir poilsio režimo pažeidimų –
 užtraukia
 baudą įmonių vadovams ar jų įgaliotiems asmenims, kuriems pavesta
 vadovauti krovinių ar keleivių vežimo veiklai, nuo
@@ -10462,11 +10480,11 @@ daugiau kaip 10, bet ne daugiau kaip 20 procentų kelių
 transporto priemonių, vežančių keleivius ar krovinius vidaus ir (ar)
 tarptautinio susisiekimo maršrutais, ekipažams (vairuotojams) privalomų tachografo
 registracijos lapų ir (ar) duomenų, perkeltų iš skaitmeninio tachografo ir (ar)
-vairuotojo kortelės (iš patikrintų vairuotojo darbo dienų), nesaugojimas nustatytą
-laiką įmonėje arba nuo tachografo registracijos lapuose ir (ar) duomenyse,
-perkeltuose iš skaitmeninio tachografo ir (ar) vairuotojo kortelės (iš įmonėje
-patikrintų vairuotojo darbo dienų), nustatytų nuo 10 iki 20 procentų vairuotojų
-darbo ir poilsio režimo pažeidimų –
+vairuotojo kortelės (iš patikrintų vairuotojo darbo dienų), nesaugojimas
+nustatytą laiką įmonėje arba nuo tachografo registracijos lapuose ir (ar)
+duomenyse, perkeltuose iš skaitmeninio tachografo ir (ar) vairuotojo kortelės
+(iš įmonėje patikrintų vairuotojo darbo dienų), nustatytų nuo 10 iki 20
+procentų vairuotojų darbo ir poilsio režimo pažeidimų –
 užtraukia
 baudą įmonių vadovams ar jų įgaliotiems asmenims, kuriems pavesta
 vadovauti krovinių ar keleivių vežimo veiklai, nuo
@@ -10530,8 +10548,7 @@ vieno tūkstančio iki dviejų tūkstančių litų.
 Kodeksas papildytas straipsniu:
 Nr. XI-349,
 2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas
-užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo priede,
-įgyvendinimą
+užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
  
 143
 straipsnis. Krovinių saugumą geležinkelių, jūrų, vidaus vandenų ir automobilių
@@ -10642,8 +10659,8 @@ Nr. VIII-1543,
 146
 straipsnis. Automobilių kelių juostos ir kelių apsaugos zonos priežiūros
 taisyklių ir naudojimo sąlygų pažeidimas
-Automobilių
-kelių juostoje ir kelių apsaugos zonoje antžeminių ir požeminių komunikacijų
+Automobilių kelių
+juostoje ir kelių apsaugos zonoje antžeminių ir požeminių komunikacijų
 klojimas, kasinėjimo ir bet kokių statybos darbų vykdymas, tarp jų sankryžų ir
 nuovažų įrengimas, medžiagų ir krovinių sandėliavimas nesuderinus nustatyta
 tvarka, važinėjimas kelio šlaitais, griovių gadinimas, taip pat želdinių
@@ -10712,11 +10729,11 @@ nesumokėjus transporto priemonių savininkų ar valdytojų naudotojo mokesčio 
 užtraukia baudą
 transporto priemonių savininkams (valdytojams) ar vairuotojams nuo vieno
 tūkstančio dviejų šimtų iki dviejų tūkstančių šešių šimtų litų.
-Važiavimas aukščiausios
-kategorijos automobilių keliais (magistraliniais ir krašto) specialiomis kelių
-transporto priemonėmis, skirtomis specialioms darbo funkcijoms atlikti, bet ne
-kroviniams vežti, nesumokėjus transporto priemonių savininkų ar valdytojų
-naudotojo mokesčio –
+Važiavimas
+aukščiausios kategorijos automobilių keliais (magistraliniais ir krašto)
+specialiomis kelių transporto priemonėmis, skirtomis specialioms darbo
+funkcijoms atlikti, bet ne kroviniams vežti, nesumokėjus transporto priemonių
+savininkų ar valdytojų naudotojo mokesčio –
 užtraukia baudą
 transporto priemonių savininkams (valdytojams) ar vairuotojams nuo keturių
 šimtų iki vieno tūkstančio dviejų šimtų litų.
@@ -10788,8 +10805,8 @@ Nr. I-2589, 1992.05.26,
 Žin., 1992, Nr. 21-610 
 Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132
-Nr. VIII-1543,
-00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543, 00.02.17,
+Žin., 2000, Nr. 22-552 (00.03.15)
  
 152
 straipsnis. Aparatūros ir įrenginių naudojimo sąlygų pažeidimas 
@@ -10813,10 +10830,10 @@ užtraukia baudą
 asmenims, kurie nesiverčia elektroninių ryšių veikla, arba įmonių, įstaigų,
 organizacijų vadovams, jeigu tos įmonės, įstaigos, organizacijos nesiverčia
 elektroninių ryšių veikla, nuo penkių šimtų iki vieno tūkstančio litų su
-aparatūros, įrenginių, radijo siuntimo, radijo ryšio slopinimo arba radijo stebėsenos
-įrenginių konfiskavimu ar be konfiskavimo arba teisės naudoti arba įvežti
-aparatūrą, įrenginius, radijo siuntimo, radijo ryšio slopinimo arba radijo
-stebėsenos įrenginius atėmimą.
+aparatūros, įrenginių, radijo siuntimo, radijo ryšio slopinimo arba radijo
+stebėsenos įrenginių konfiskavimu ar be konfiskavimo arba teisės naudoti arba
+įvežti aparatūrą, įrenginius, radijo siuntimo, radijo ryšio slopinimo arba
+radijo stebėsenos įrenginius atėmimą.
 Straipsnio pakeitimai: 
 Nr. XI-2756, 1989.01.25, Žin.,
 1989, Nr. 4-19 
@@ -10951,8 +10968,8 @@ elektroninių ryšių veikla, nuo dviejų šimtų penkiasdešimties iki penkių 
 litų su aparatūros arba įrenginių konfiskavimu ar be konfiskavimo arba teisės
 užsiimti radijo mėgėjų ir kitų radijo stočių naudotojų veikla atėmimą.
 Tokie pat
-veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
-pirmojoje dalyje numatytus pažeidimus, – 
+veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio pirmojoje
+dalyje numatytus pažeidimus, – 
 užtraukia baudą
 asmenims, kurie nesiverčia elektroninių ryšių veikla, arba įmonių, įstaigų,
 organizacijų vadovams, jeigu tos įmonės, įstaigos, organizacijos nesiverčia
@@ -10973,8 +10990,8 @@ Nr. XI-1553,
 straipsnis. Neteko galios nuo 2004 m. gegužės 1 d.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702,
-2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
+IX-1702, 2003-07-04,
+Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio pakeitimai: 
 Nr. IX-2153,
 2004-04-22, Žin., 2004, Nr. 68-2368 (2004-04-29)
@@ -10986,8 +11003,8 @@ Nr.
 IX-1702,
 2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio pakeitimai: 
-Nr. IX-2153,
-2004-04-22, Žin., 2004, Nr. 68-2368 (2004-04-29)
+Nr. IX-2153, 2004-04-22,
+Žin., 2004, Nr. 68-2368 (2004-04-29)
  
 152(8)
 straipsnis. Neteko galios nuo 2011 m. rugpjūčio 1 d.
@@ -11003,8 +11020,8 @@ Nr. IX-2153,
 straipsnis. Neteko galios nuo 2004 m. gegužės 1 d.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702, 2003-07-04,
-Žin., 2003, Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio pakeitimai: 
 Nr. IX-2153,
 2004-04-22, Žin., 2004, Nr. 68-2368 (2004-04-29)
@@ -11028,8 +11045,8 @@ organizacijų vadovams, jeigu tos įmonės, įstaigos, organizacijos nesiverčia
 elektroninių ryšių veikla, nuo dviejų tūkstančių penkių šimtų iki penkių
 tūkstančių litų.
 Kodeksas papildytas straipsniu:
-Nr. IX-2153,
-2004-04-22, Žin., 2004, Nr. 68-2368 (2004-04-29)
+Nr. IX-2153, 2004-04-22,
+Žin., 2004, Nr. 68-2368 (2004-04-29)
 Straipsnio pakeitimai: 
 Nr. XI-1553,
 2011-06-28, Žin., 2011, Nr. 91-4328 (2011-07-19)
@@ -11071,9 +11088,9 @@ asmenims, kurie nesiverčia elektroninių ryšių veikla, arba įmonių, įstaig
 organizacijų vadovams, jeigu tos įmonės, įstaigos, organizacijos nesiverčia
 elektroninių ryšių veikla, nuo dviejų tūkstančių penkių šimtų iki penkių
 tūkstančių litų.
-Tokie pat
-veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
-pirmojoje dalyje numatytus pažeidimus, – 
+Tokie pat veiksmai,
+padaryti asmens, bausto administracine nuobauda už šio straipsnio pirmojoje
+dalyje numatytus pažeidimus, – 
 užtraukia baudą
 asmenims, kurie nesiverčia elektroninių ryšių veikla, arba įmonių, įstaigų,
 organizacijų vadovams, jeigu tos įmonės, įstaigos, organizacijos nesiverčia
@@ -11113,9 +11130,10 @@ Nr. XI-1553,
 152(14)
 straipsnis. Gamintojo nustatytų priemonių, naudojamų galiniam įrenginiui
 identifikuoti viešajame judriojo telefono ryšio tinkle, keitimas be gamintojo
-sutikimo, vertimasis komercine veikla, susijusia su gamintojo nustatytų priemonių,
-naudojamų galiniam įrenginiui identifikuoti viešajame judriojo telefono ryšio
-tinkle, keitimu be gamintojo sutikimo, įskaitant tokios veiklos reklamą
+sutikimo, vertimasis komercine veikla, susijusia su gamintojo nustatytų
+priemonių, naudojamų galiniam įrenginiui identifikuoti viešajame judriojo
+telefono ryšio tinkle, keitimu be gamintojo sutikimo, įskaitant tokios veiklos
+reklamą
 Gamintojo
 nustatytų priemonių, naudojamų galiniam įrenginiui identifikuoti viešajame
 judriojo telefono ryšio tinkle, keitimas be gamintojo sutikimo – 
@@ -11345,8 +11363,8 @@ Nr. I-2589, 1992.05.26,
 Žin., 1992, Nr. 21-610 
 Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132
-Nr. VIII-1543, 00.02.17,
-Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-2153,
 2004-04-22, Žin., 2004, Nr. 68-2368 (2004-04-29)
 Nr. XI-1553,
@@ -11356,8 +11374,8 @@ Nr. XI-1553,
 straipsnis. Kliudymas Ryšių reguliavimo tarnybos pareigūnams vykdyti savo
 funkcijas arba jų teisėtų reikalavimų nevykdymas
 Kliudymas Ryšių
-reguliavimo tarnybos pareigūnams vykdyti savo funkcijas arba jų teisėtų reikalavimų
-nevykdymas –
+reguliavimo tarnybos pareigūnams vykdyti savo funkcijas arba jų teisėtų
+reikalavimų nevykdymas –
 užtraukia baudą
 asmenims, kurie nesiverčia elektroninių ryšių veikla, arba įmonių, įstaigų,
 organizacijų vadovams, jeigu tos įmonės, įstaigos, organizacijos nesiverčia
@@ -11403,8 +11421,8 @@ Nr.
 IX-1702,
 2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio pakeitimai:
-Nr. IX-2153,
-2004-04-22, Žin., 2004, Nr. 68-2368 (2004-04-29)
+Nr. IX-2153, 2004-04-22,
+Žin., 2004, Nr. 68-2368 (2004-04-29)
 Nr. XI-1553,
 2011-06-28, Žin., 2011, Nr. 91-4328 (2011-07-19)
  
@@ -11424,8 +11442,8 @@ užtraukia baudą
 nuo trijų tūkstančių iki dešimties tūkstančių litų.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702, 2003-07-04,
-Žin., 2003, Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio pakeitimai:
 Nr. X-249, 2005-06-16,
 Žin., 2005, Nr. 83-3040 (2005-07-07)
@@ -11500,8 +11518,8 @@ Kodeksas papildytas straipsniu:
 Nr. X-249, 2005-06-16,
 Žin., 2005, Nr. 83-3040 (2005-07-07)
 Straipsnio pakeitimai:
-Nr. XI-1217, 2010-12-09,
-Žin., 2010, Nr. 153-7786 (2010-12-28)
+Nr. XI-1217,
+2010-12-09, Žin., 2010, Nr. 153-7786 (2010-12-28)
  
 154(10
 )straipsnis. Neteko galios nuo 2011 m. sausio 1 d.
@@ -11619,8 +11637,7 @@ nesilaikoma teisės aktų nustatytų reikalavimų dėl informacijos teikimo ir (
 administravimo veiklos metinės ataskaitos pateikimo šių objektų savininkams,
 arba padaryta žala administruojamiems objektams ar aplinkai, –
 užtraukia
-įspėjimą arba baudą bendrijos valdymo organų nariams ar butų ir kitų
-patalpų
+įspėjimą arba baudą bendrijos valdymo organų nariams ar butų ir kitų patalpų
 jungtinės veiklos sutarties dalyvių įgaliotiems asmenims, ar bendrojo naudojimo
 objektų administratoriams – fiziniams asmenims arba administratorių – juridinių
 asmenų vadovams ar vadovų įgaliotiems asmenims nuo dviejų šimtų iki vieno
@@ -11728,8 +11745,8 @@ užtraukia baudą
 nuo penkių šimtų iki dviejų tūkstančių litų. 
 Nesudėtingo
 statinio savavališkas rekonstravimas kultūros paveldo objekto teritorijoje,
-kultūros paveldo vietovėje, konservacinės apsaugos prioriteto teritorijoje,
-kompleksinėje saugomoje teritorijoje ar pajūrio juostoje –
+kultūros paveldo vietovėje, konservacinės apsaugos prioriteto teritorijoje, kompleksinėje
+saugomoje teritorijoje ar pajūrio juostoje –
 užtraukia baudą
 nuo penkių šimtų iki dviejų tūkstančių litų. 
 Tokie pat
@@ -11834,8 +11851,8 @@ teritorijoje, kompleksinėje saugomoje teritorijoje ar pajūrio juostoje –
 užtraukia baudą
 nuo dviejų tūkstančių iki keturių tūkstančių litų. 
 Tokie pat
-veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
-septintojoje dalyje numatytus pažeidimus, –
+veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio septintojoje
+dalyje numatytus pažeidimus, –
 užtraukia baudą
 nuo keturių tūkstančių iki aštuonių tūkstančių litų. 
 Ypatingo
@@ -11843,15 +11860,15 @@ statinio savavališkas kapitalinis remontas –
 užtraukia baudą
 nuo keturių tūkstančių iki aštuonių tūkstančių litų. 
 Tokie pat
-veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio devintojoje
-dalyje numatytus pažeidimus, –
+veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
+devintojoje dalyje numatytus pažeidimus, –
 užtraukia baudą
 nuo šešių tūkstančių iki dvylikos tūkstančių litų. 
 Ypatingo
-statinio savavališkas kapitalinis remontas kultūros paveldo objekto
-teritorijoje, kultūros paveldo vietovėje, konservacinės apsaugos prioriteto
-teritorijoje, kompleksinėje saugomoje teritorijoje, pajūrio juostoje arba
-kultūros paveldo statinio savavališkas kapitalinis remontas –
+statinio savavališkas kapitalinis remontas kultūros paveldo objekto teritorijoje,
+kultūros paveldo vietovėje, konservacinės apsaugos prioriteto teritorijoje,
+kompleksinėje saugomoje teritorijoje, pajūrio juostoje arba kultūros paveldo
+statinio savavališkas kapitalinis remontas –
 užtraukia baudą
 nuo šešių tūkstančių iki dvylikos tūkstančių litų. 
 Tokie pat
@@ -11960,15 +11977,15 @@ nuo penkiolikos tūkstančių iki trisdešimties tūkstančių litų.
 Ypatingo
 statinio savavališkas griovimas kultūros paveldo objekto teritorijoje, kultūros
 paveldo vietovėje, konservacinės apsaugos prioriteto teritorijoje,
-kompleksinėje saugomoje teritorijoje, pajūrio juostoje arba kultūros paveldo
-statinio savavališkas griovimas –
+kompleksinėje saugomoje teritorijoje, pajūrio juostoje arba kultūros paveldo statinio
+savavališkas griovimas –
 užtraukia baudą
 nuo penkiolikos tūkstančių iki trisdešimties tūkstančių litų. 
 Tokie pat
 veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
 devintojoje dalyje numatytus pažeidimus, –
-užtraukia baudą
-nuo dvidešimt penkių tūkstančių iki keturiasdešimties tūkstančių litų.
+užtraukia baudą nuo
+dvidešimt penkių tūkstančių iki keturiasdešimties tūkstančių litų.
 Kodeksas papildytas straipsniu:
 Nr. XI-1036,
 2010-09-28, Žin., 2010, Nr. 116-5918 (2010-09-30)
@@ -12005,8 +12022,8 @@ neužpildymas teisės aktų nustatyta tvarka, kai atliekami statybos darbai, –
 užtraukia baudą
 nuo penkių šimtų iki vieno tūkstančio litų.
 Tokie pat
-veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio penktojoje
-dalyje numatytus pažeidimus, – 
+veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
+penktojoje dalyje numatytus pažeidimus, – 
 užtraukia baudą
 nuo vieno tūkstančio iki dviejų tūkstančių litų.
 Kodeksas papildytas straipsniu:
@@ -12026,8 +12043,8 @@ pateikimas nesilaikant teisės aktuose nustatytų terminų –
 užtraukia baudą
 nuo vieno tūkstančio iki trijų tūkstančių litų.
 Kodeksas papildytas straipsniu:
-Nr. XI-1036,
-2010-09-28, Žin., 2010, Nr. 116-5918 (2010-09-30)
+Nr. XI-1036, 2010-09-28,
+Žin., 2010, Nr. 116-5918 (2010-09-30)
  
 160 straipsnis. Savavališkas kasinėjimas
 bendrojo naudojimo teritorijoje ir teritorijos nesutvarkymas baigus darbus
@@ -12185,8 +12202,8 @@ Nr. I-2589, 1992.05.26,
 Žin., 1992, Nr. 21-610 
 Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132 
-Nr. VIII-1543,
-00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543, 00.02.17,
+Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XI-1407,
 2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
  
@@ -12406,9 +12423,9 @@ pinigais, išskyrus Lietuvos Respublikos Vyriausybės nustatytus objektus, –
 užtraukia baudą
 įmonių, įstaigų, organizacijų arba jų padalinių (filialų) vadovams nuo dviejų
 šimtų penkiasdešimties iki penkių šimtų litų.
-Tokie pat veiksmai,
-padaryti asmens, bausto administracine nuobauda už šio straipsnio pirmojoje
-dalyje numatytus pažeidimus, –
+Tokie pat
+veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
+pirmojoje dalyje numatytus pažeidimus, –
 užtraukia baudą
 nuo vieno tūkstančio iki dviejų tūkstančių litų.
 Neregistruoto
@@ -12449,10 +12466,10 @@ užtraukia baudą asmenims, privalantiems išduoti kasos kvitą, nuo
 penkiasdešimties iki vieno šimto penkiasdešimties litų ir baudą pareigūnams,
 davusiems tokį nurodymą, nuo dviejų tūkstančių iki trijų tūkstančių litų.
 Nesiėmimas
-priemonių užtikrinti kasos kvito už parduotas prekes ar suteiktas paslaugas išdavimą
-gyventojams įmonėse, įstaigose bei organizacijose, kuriose gyventojai už prekes
-ar paslaugas atsiskaito grynais pinigais, išskyrus Lietuvos Respublikos
-Vyriausybės nustatytus 
+priemonių užtikrinti kasos kvito už parduotas prekes ar suteiktas paslaugas
+išdavimą gyventojams įmonėse, įstaigose bei organizacijose, kuriose gyventojai
+už prekes ar paslaugas atsiskaito grynais pinigais, išskyrus Lietuvos
+Respublikos Vyriausybės nustatytus 
 objektus, –
 užtraukia baudą
 įmonių, įstaigų, organizacijų arba jų padalinių (filialų) vadovams nuo dviejų
@@ -12536,8 +12553,8 @@ nuo dviejų tūkstančių penkių šimtų iki penkių tūkstančių litų.
 Straipsnio pakeitimai: 
 Nr. I-994, 95.07.03,
 Žin., 1995, Nr. 59-1470 (95.07.19)
-Nr. VIII-1543,
-00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543, 00.02.17,
+Žin., 2000, Nr. 22-552 (00.03.15)
  
 1639
 straipsnis. Daiktų grąžinimo ir keitimo taisyklių pažeidimas
@@ -12550,10 +12567,10 @@ pareigūnams – nuo dviejų šimtų iki penkių šimtų litų.
 Tokie pat
 veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
 pirmojoje dalyje numatytą pažeidimą, –
-užtraukia baudą
-įmonių darbuotojams, taip pat individualia veikla besiverčiantiems fiziniams
-asmenims nuo vieno šimto penkiasdešimties iki penkių šimtų litų ir pareigūnams
-– nuo penkių šimtų iki vieno tūkstančio litų.
+užtraukia baudą įmonių
+darbuotojams, taip pat individualia veikla besiverčiantiems fiziniams asmenims
+nuo vieno šimto penkiasdešimties iki penkių šimtų litų ir pareigūnams – nuo
+penkių šimtų iki vieno tūkstančio litų.
 Straipsnio pakeitimai: 
 Nr. I-1037, 95.09.12,
 Žin., 1995, Nr. 79-1818 (95.09.27)
@@ -12572,8 +12589,8 @@ juostų arba kasos žurnalų neišsaugojimas
 Nustatyta tvarka
 įregistruotų kasos aparatų eksploatavimas be kontrolinių juostų, kontrolinių
 juostų, kasos žurnalų arba kasos aparatų techninių pasų neišsaugojimas įmonėse,
-įstaigose bei organizacijose, kuriose privaloma naudoti kasos aparatus atsiskaitant
-su gyventojais už prekes arba paslaugas grynais pinigais, –
+įstaigose bei organizacijose, kuriose privaloma naudoti kasos aparatus
+atsiskaitant su gyventojais už prekes arba paslaugas grynais pinigais, –
 užtraukia baudą
 įmonių, įstaigų, organizacijų arba jų padalinių (filialų) vadovams nuo trijų
 tūkstančių iki šešių tūkstančių litų.
@@ -12599,9 +12616,9 @@ užtraukia baudą
 nuo penkių šimtų iki vieno tūkstančio penkių šimtų litų su prekių (krovinio)
 konfiskavimu.
 Prekių
-(krovinio), kurių vertė yra nuo penkiolikos iki trisdešimties minimalių
-gyvenimo lygių (MGL) dydžio sumos, gabenimas Lietuvos Respublikos teritorijoje
-be jų įsigijimą arba gabenimą patvirtinančių dokumentų ar su suklastotais
+(krovinio), kurių vertė yra nuo penkiolikos iki trisdešimties minimalių gyvenimo
+lygių (MGL) dydžio sumos, gabenimas Lietuvos Respublikos teritorijoje be jų
+įsigijimą arba gabenimą patvirtinančių dokumentų ar su suklastotais
 dokumentais, kai nėra šio kodekso 210 straipsnyje numatytų požymių,–
 užtraukia baudą
 nuo vieno tūkstančio penkių šimtų iki trijų tūkstančių penkių šimtų litų su
@@ -12637,8 +12654,8 @@ kasos aparatų naudojimo taisyklių pažeidimas, padarytas elektroninius kasos
 aparatus ar jų sistemas aptarnaujančios įmonės specialisto, –
 užtraukia baudą
 nuo vieno tūkstančio iki dviejų tūkstančių litų.
-Ta pati veika, padaryta
-asmens, bausto už šio straipsnio pirmojoje dalyje numatytą 
+Ta pati veika,
+padaryta asmens, bausto už šio straipsnio pirmojoje dalyje numatytą 
 pažeidimą, –
 užtraukia baudą
 nuo dviejų tūkstančių iki penkių tūkstančių litų.
@@ -12655,14 +12672,14 @@ Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 16313
-straipsnis. Prekių, nepaženklintų teisės aktų nustatyta tvarka, pardavimas vidaus
-rinkoje, taip pat neteisingos informacijos apie prekę pateikimas
+straipsnis. Prekių, nepaženklintų teisės aktų nustatyta tvarka, pardavimas
+vidaus rinkoje, taip pat neteisingos informacijos apie prekę pateikimas
 Prekių, kurios
 nepaženklintos teisės aktų nustatyta tvarka, pardavimas Lietuvos Respublikos
 vidaus rinkoje –
-užtraukia
-įspėjimą arba baudą individualia veikla besiverčiantiems fiziniams asmenims
-nuo penkiasdešimties iki vieno šimto penkiasdešimties litų, baudą įmonių
+užtraukia įspėjimą
+arba baudą individualia veikla besiverčiantiems fiziniams asmenims nuo
+penkiasdešimties iki vieno šimto penkiasdešimties litų, baudą įmonių
 darbuotojams – nuo dviejų šimtų iki penkių šimtų litų ir pareigūnams – nuo
 septynių šimtų iki vieno tūkstančio litų.
 Tokie pat
@@ -12685,7 +12702,8 @@ trečiojoje dalyje numatytą pažeidimą, –
 užtraukia baudą
 individualia veikla besiverčiantiems fiziniams asmenims nuo vieno šimto iki
 trijų šimtų litų, įmonių darbuotojams – nuo keturių šimtų iki vieno tūkstančio
-dviejų šimtų litų ir pareigūnams – nuo vieno tūkstančio iki dviejų tūkstančių litų.
+dviejų šimtų litų ir pareigūnams – nuo vieno tūkstančio iki dviejų tūkstančių
+litų.
 Neteisingos
 informacijos apie prekės kilmę pateikimas –
 užtraukia baudą
@@ -12731,8 +12749,8 @@ Nr. X-249, 2005-06-16,
 164
 straipsnis. Prekybos alkoholiniais gėrimais taisyklių pažeidimas
 Alkoholinių
-gėrimų (įskaitant alų) pardavimas prekybos ir viešojo maitinimo įmonėse be specialaus
-leidimo –
+gėrimų (įskaitant alų) pardavimas prekybos ir viešojo maitinimo įmonėse be
+specialaus leidimo –
 užtraukia baudą
 nuo vieno tūkstančio iki dviejų tūkstančių litų su alkoholinių gėrimų
 (įskaitant alų) konfiskavimu.
@@ -12896,20 +12914,19 @@ nesilaikant nustatytų apribojimų –
 užtraukia baudą
 nuo trijų šimtų iki aštuonių šimtų litų su šių priemonių konfiskavimu.
 Civilinių
-pirotechnikos priemonių, kurių tiekimas rinkai, laikymas, pardavimas ar
-naudojimas yra uždraustas, tiekimas rinkai, laikymas, pardavimas ar naudojimas
-–
+pirotechnikos priemonių, kurių tiekimas rinkai, laikymas, pardavimas ar naudojimas
+yra uždraustas, tiekimas rinkai, laikymas, pardavimas ar naudojimas –
 užtraukia baudą
 nuo penkių šimtų iki vieno tūkstančio litų su šių priemonių konfiskavimu.
 Tokie pat
-veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
-pirmojoje ar antrojoje dalyje numatytus pažeidimus, –
+veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio pirmojoje
+ar antrojoje dalyje numatytus pažeidimus, –
 užtraukia baudą
 nuo vieno tūkstančio iki dviejų tūkstančių litų su šių priemonių konfiskavimu.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1702,
-2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
+IX-1702, 2003-07-04,
+Žin., 2003, Nr. 74-3421 (2003-07-25)
 Straipsnio pakeitimai: 
 Nr. XI-1223,
 2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
@@ -12934,8 +12951,8 @@ Duomenų apie
 pagamintus, importuotus, eksportuotus, parduotus, laikomus, sunaudotus
 sprogmenis pateikimo taisyklių pažeidimas, duomenų nepateikimas ar klaidingų
 duomenų pateikimas, taip pat teisės aktų nustatytos įmonių, kurių veikla yra
-susijusi su sprogmenų apyvarta, veiklos vidaus audito tvarkos pažeidimas ir
-vidaus audito duomenų nepateikimas ar klaidingų duomenų pateikimas Lietuvos
+susijusi su sprogmenų apyvarta, veiklos vidaus audito tvarkos pažeidimas ir vidaus
+audito duomenų nepateikimas ar klaidingų duomenų pateikimas Lietuvos
 Respublikos ginklų fondui prie Lietuvos Respublikos vidaus reikalų
 ministerijos – 
 užtraukia
@@ -13001,7 +13018,8 @@ Nr. I-252, 1993.09.28,
 Žin., 1993, Nr. 52-993 
  
 171
-straipsnis. Prekybos naftos produktais licencijose nustatytos tvarkos pažeidimas
+straipsnis. Prekybos naftos produktais licencijose nustatytos tvarkos
+pažeidimas
 Naftos produktų
 pardavimas neturint licencijos –
 užtraukia baudą
@@ -13034,9 +13052,9 @@ gamybos, žymėjimo ir prekybos taisyklių
 pažeidimas
 Naftos
 produktų, biokuro, bioalyvos ir kitų degiųjų skystų produktų gamybos, žymėjimo ir
-prekybos Lietuvos Respublikoje taisyklių pažeidimas arba
-veiksmai, kuriais siekiama panaikinti, pakeisti ar kitaip nuslėpti požymius,
-žyminčius kurą, kuriam taikomos akcizų lengvatos, išskyrus veiksmus, numatytus
+prekybos Lietuvos Respublikoje taisyklių pažeidimas arba veiksmai,
+kuriais siekiama panaikinti, pakeisti ar kitaip nuslėpti požymius, žyminčius
+kurą, kuriam taikomos akcizų lengvatos, išskyrus veiksmus, numatytus
 šio straipsnio antrojoje dalyje, – 
 užtraukia baudą
 įmonių, gaminančių biokurą, bioalyvą bei naftos produktus ar prekiaujančių
@@ -13044,8 +13062,8 @@ jais, arba jų padalinių vadovams nuo vieno tūkstančio iki dvidešimties
 tūkstančių litų, kitiems asmenims – nuo vieno tūkstančio iki penkių tūkstančių
 litų.
 Prekybos
-biokuru, bioalyva, naftos produktais Lietuvos Respublikoje taisyklėse
-nustatytos biokuro, bioalyvos, naftos produktų apskaitos tvarkos pažeidimas –
+biokuru, bioalyva, naftos produktais Lietuvos Respublikoje taisyklėse nustatytos
+biokuro, bioalyvos, naftos produktų apskaitos tvarkos pažeidimas –
 užtraukia
 baudą įmonių, prekiaujančių biokuru, bioalyva bei naftos produktais, arba jų
 padalinių vadovams nuo trijų tūkstančių iki trisdešimties tūkstančių litų su
@@ -13338,13 +13356,13 @@ finansų rinkos institucijų vadovams nuo penkių tūkstančių iki dvidešimtie
 tūkstančių litų.
 Lietuvos banko
 teisėtų nurodymų ar reikalavimų nevykdymas ar netinkamas vykdymas – 
-užtraukia baudą finansų
-rinkos institucijų vadovams nuo penkių tūkstančių iki dvidešimties tūkstančių
-litų.
+užtraukia baudą
+finansų rinkos institucijų vadovams nuo penkių tūkstančių iki dvidešimties
+tūkstančių litų.
 Lietuvos banko
 tarnautojų, atliekančių inspektavimą (tikrinimą), teisėtų nurodymų ir
-reikalavimų nevykdymas ar netinkamas vykdymas, ar kitoks kliudymas atlikti inspektavimą
-(tikrinimą) – 
+reikalavimų nevykdymas ar netinkamas vykdymas, ar kitoks kliudymas atlikti
+inspektavimą (tikrinimą) – 
 užtraukia baudą
 finansų rinkos institucijų vadovams nuo vieno tūkstančio iki dešimties
 tūkstančių litų.
@@ -13395,8 +13413,8 @@ galios nuo 2012-01-01
 Straipsnio pakeitimai: 
 Nr. I-1457, 96.07.10,
 Žin., 1996, Nr. 73-1743 (96.07.31)
-Nr. VIII-1543,
-00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543, 00.02.17,
+Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-1758,
 2003-10-14, Žin., 2003, Nr. 102-4581 (2003-10-31)
 Nr. XI-1866,
@@ -13449,8 +13467,8 @@ priėmimą, taip pat tokio turto registravimas, vertybinių popierių pardavimas
 grąžinamų ir suteikiamų paskolų (įskaitant terminuotus indėlius) priėmimas,
 investuojamų ir dovanojamų lėšų, pajų ar kitų įmokų priėmimas be valstybinės
 mokesčių inspekcijos pažymos apie pajamų deklaravimą, kai šio turto įsigijimo
-rinkos kaina arba lėšų suma yra ne mažesnė už minimalų privalomo deklaruoti turto
-kainos dydį –
+rinkos kaina arba lėšų suma yra ne mažesnė už minimalų privalomo deklaruoti
+turto kainos dydį –
      užtraukia
 baudą įmonių, įstaigų, organizacijų vadovams ir kitiems pareigūnams bei
 fiziniams asmenims nuo vieno tūkstančio iki penkių tūkstančių litų.
@@ -13548,11 +13566,11 @@ priede, įgyvendinimą
 tyrimo tarnybos prie Lietuvos 
 Respublikos vidaus reikalų
 ministerijos pareigūnams atlikti pareigas
-Neįleidimas Finansinių nusikaltimų tyrimo tarnybos prie Lietuvos
-Respublikos vidaus reikalų ministerijos pareigūnų atlikti visų rūšių įmonių,
-įstaigų ir organizacijų bei fizinių asmenų ūkinės-finansinės veiklos
-patikrinimų ir revizijų, nepateikimas jiems dokumentų arba jų nuslėpimas,
-klaidingų žinių suteikimas – 
+Neįleidimas Finansinių nusikaltimų tyrimo tarnybos prie Lietuvos Respublikos
+vidaus reikalų ministerijos pareigūnų atlikti visų rūšių įmonių, įstaigų ir
+organizacijų bei fizinių asmenų ūkinės-finansinės veiklos patikrinimų ir
+revizijų, nepateikimas jiems dokumentų arba jų nuslėpimas, klaidingų žinių
+suteikimas – 
 užtraukia baudą nuo penkių šimtų iki vieno tūkstančio litų.
 Kodeksas papildytas straipsniu:
 Nr. VIII-354, 97.07.01,
@@ -13609,8 +13627,8 @@ neturint tokio leidimo, –
 užtraukia baudą
 nuo vieno tūkstančio iki keturių tūkstančių litų.
 Straipsnio pakeitimai:
-Nr. VIII-1017, 99.01.05,
-Žin., 1999, Nr. 11-237 (99.01.27)
+Nr. VIII-1017,
+99.01.05, Žin., 1999, Nr. 11-237 (99.01.27)
 Nr. VIII-1486,
 99.12.21, Žin., 1999, Nr. 113-3286 (99.12.30)
  
@@ -13650,8 +13668,8 @@ baudą šią produkciją superkančių įmonių vadovams nuo dviejų tūkstanči
 Straipsnio pakeitimai:
 Nr. VIII-1136,
 99.04.08, Žin., 1999, Nr. 36-1066 (99.04.23)
-Nr. XI-349,
-2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas
+Nr. XI-349, 2009-07-15,
+Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas
 užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo priede,
 įgyvendinimą
  
@@ -13693,8 +13711,8 @@ Atsiskaitymo
 už žemės ūkio produkciją tvarkos pažeidimas, kai pradelsta skola yra didesnė
 kaip vienas šimtas tūkstančių litų, – 
 užtraukia
-baudą šią produkciją superkančių, prekybos ir kitų įmonių vadovams nuo
-dešimties tūkstančių iki dvidešimties tūkstančių litų. 
+baudą šią produkciją superkančių, prekybos ir kitų įmonių vadovams nuo dešimties
+tūkstančių iki dvidešimties tūkstančių litų. 
 Kiti,
 negu nustatyta šio straipsnio pirmojoje, antrojoje ir trečiojoje dalyse,
 atsiskaitymo už žemės ūkio produkciją tvarkos pažeidimai – 
@@ -13856,16 +13874,17 @@ nuo šešių tūkstančių iki dešimties tūkstančių litų su pagamintos prod
 Pastaba. Pagal
 šį straipsnį administracinė atsakomybė atsiranda, kai verčiamasi komercine,
 ūkine, finansine ar profesine veikla neturint licencijos (leidimo) veiklai,
-kuriai reikalinga Lietuvos Respublikos įstatymuose numatyta licencija (leidimas),
-ar kitokiu neteisėtu būdu ir gaunamos pajamos (įplaukos) ar paskutiniųjų 12
-mėnesių pajamos (įplaukos), ar nustatyta tvarka neįtrauktų į apskaitą prekių
-vertė neviršija 500 minimalių gyvenimo lygių (MGL) dydžio sumos. Nustatant
-pajamas (įplaukas), gaunamas neteisėtai verčiantis komercine, ūkine,
-finansine ar profesine veikla, gali būti naudojami Lietuvos Respublikos
-Vyriausybės nustatyti netiesioginiai apmokestinamų pajamų skaičiavimo metodai.
+kuriai reikalinga Lietuvos Respublikos įstatymuose numatyta licencija
+(leidimas), ar kitokiu neteisėtu būdu ir gaunamos pajamos (įplaukos) ar
+paskutiniųjų 12 mėnesių pajamos (įplaukos), ar nustatyta tvarka neįtrauktų į
+apskaitą prekių vertė neviršija 500 minimalių gyvenimo lygių (MGL) dydžio
+sumos. Nustatant pajamas (įplaukas), gaunamas neteisėtai verčiantis
+komercine, ūkine, finansine ar profesine veikla, gali būti naudojami Lietuvos
+Respublikos Vyriausybės nustatyti netiesioginiai apmokestinamų pajamų skaičiavimo
+metodai.
 Straipsnio pakeitimai: 
-Nr. XI-924, 1986.06.26, Žin., 1986,
-Nr. 18-184 
+Nr. XI-924, 1986.06.26, Žin.,
+1986, Nr. 18-184 
 Nr. I-326, 1990.06.26,
 Žin., 1990, Nr. 19-495 
 Nr. I-2589, 1992.05.26,
@@ -13899,8 +13918,8 @@ veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
 pirmojoje ar antrojoje dalyje numatytus pažeidimus, –
 užtraukia baudą
 nuo penkių šimtų iki dviejų tūkstančių litų.
-Aplaidus
-buhalterinės apskaitos tvarkymas, kai dėl to nesumokama nuo trisdešimties iki
+Aplaidus buhalterinės
+apskaitos tvarkymas, kai dėl to nesumokama nuo trisdešimties iki
 penkiasdešimties minimalių gyvenimo lygių dydžio sumos mokesčių, kurie turėjo
 būti sumokėti pagal įstatymus už tikrinamąjį laikotarpį, –
 užtraukia baudą
@@ -13934,8 +13953,8 @@ Nr. VIII-545, 97.12.02,
 Žin., 1997, Nr. 116-2954 (97.12.19)
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
-Nr. XI-1016, 2010-09-21,
-Žin., 2010, Nr. 118-5991 (2010-10-02)
+Nr. XI-1016,
+2010-09-21, Žin., 2010, Nr. 118-5991 (2010-10-02)
  
 173(2) straipsnis. Statistinių duomenų
 pateikimo tvarkos pažeidimas
@@ -13952,8 +13971,8 @@ baudą nuo trijų tūkstančių iki šešių tūkstančių litų.
 Dokumentų,
 patvirtinančių pateiktus statistinius duomenis, nepateikimas oficialiąją
 statistiką tvarkančių institucijų ir įstaigų valstybės tarnautojams arba šių
-dokumentų nuslėpimas, taip pat minėtų valstybės tarnautojų teisėtų reikalavimų nevykdymas
-–
+dokumentų nuslėpimas, taip pat minėtų valstybės tarnautojų teisėtų reikalavimų
+nevykdymas –
 užtraukia baudą
 pareigūnams nuo penkių šimtų iki vieno tūkstančio litų.
 Straipsnio pakeitimai: 
@@ -14101,15 +14120,15 @@ bankų vadovams nuo penkių tūkstančių iki dešimties tūkstančių litų.
 Straipsnio pakeitimai:
 Nr. I-910, 95.05.30,
 Žin., 1995, Nr. 48-1162 (95.06.09)
-Nr. VIII-1543, 00.02.17,
-Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-403, 2001-06-26, Žin., 2001, Nr.
 62-2220 (2001-07-18)
  
      173(10)
 straipsnis. Prekybos maklerio (brokerio) dienyno tvarkymo pažeidimas
-     Prekybos maklerio
-(brokerio) dienyno tvarkymo pažeidimas –
+     Prekybos
+maklerio (brokerio) dienyno tvarkymo pažeidimas –
      užtraukia
 baudą prekybos makleriui (brokeriui) nuo dviejų šimtų iki vieno tūkstančio
 litų.
@@ -14190,9 +14209,9 @@ Nr. XI-590,
 straipsnis. Pensijų asociacijų, pensijų fondų valdymo įmonių, pensijų turto
 depozitoriumų veiklos tvarkos pažeidimas
 Pensijų
-asociacijų, pensijų fondų valdymo įmonių steigimą, valdymą,
-veiklą, reorganizavimą, pertvarkymą ar likvidavimą reglamentuojančių teisės
-aktų pažeidimas – 
+asociacijų, pensijų fondų valdymo įmonių steigimą,
+valdymą, veiklą, reorganizavimą, pertvarkymą ar likvidavimą reglamentuojančių
+teisės aktų pažeidimas – 
 užtraukia baudą
 nuo dviejų tūkstančių iki penkių tūkstančių litų.
 Pensijų turto
@@ -14238,10 +14257,11 @@ Investicinių kintamojo kapitalo bendrovių, uždaro tipo investicinių bendrovi
 valdymo įmonių, kontroliuojančiųjų investicinių bendrovių ar investicinių
 akcinių bendrovių veiklos tvarkos pažeidimas
 Investicinių
-kintamojo kapitalo bendrovių, uždaro tipo investicinių bendrovių, valdymo įmonių,
-kontroliuojančiųjų investicinių bendrovių ar investicinių akcinių bendrovių
-steigimą, reorganizavimą, likvidavimą, valdymą ar veiklą reglamentuojančių Kolektyvinio investavimo subjektų įstatymo, Akcinių bendrovių įstatymo
-ar kitų teisės aktų pažeidimas –
+kintamojo kapitalo bendrovių, uždaro tipo investicinių bendrovių, valdymo
+įmonių, kontroliuojančiųjų investicinių bendrovių ar investicinių akcinių
+bendrovių steigimą, reorganizavimą, likvidavimą, valdymą ar veiklą
+reglamentuojančių Kolektyvinio investavimo subjektų
+įstatymo, Akcinių bendrovių įstatymo ar kitų teisės aktų pažeidimas –
 užtraukia
 baudą investicinių kintamojo kapitalo bendrovių, uždaro tipo investicinių
 bendrovių, investicinių akcinių bendrovių, kontroliuojančiųjų
@@ -14267,8 +14287,8 @@ Nr. X-1381,
 priede
 Nr. XI-872,
 2010-06-03, Žin., 2010, Nr. 71-3549 (2010-06-19)
-Nr. XI-1866, 2011-12-22,
-Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
+Nr. XI-1866,
+2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
 Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 173(17)
@@ -14410,9 +14430,9 @@ TEISĖS PAŽEIDIMAI, KURIAIS KĖSINAMASI
 174
 straipsnis. Nedidelis chuliganizmas
 Nedidelis
-chuliganizmas, tai yra necenzūriniai žodžiai ar gestai viešosiose vietose,
-įžeidžiamas kibimas prie žmonių ar kiti panašūs veiksmai, pažeidžiantys viešąją
-tvarką ir žmonių rimtį, –
+chuliganizmas, tai yra necenzūriniai žodžiai ar gestai viešosiose vietose, įžeidžiamas
+kibimas prie žmonių ar kiti panašūs veiksmai, pažeidžiantys viešąją tvarką ir
+žmonių rimtį, –
 užtraukia baudą
 nuo vieno šimto iki trijų šimtų litų arba administracinį areštą iki
 trisdešimties parų.
@@ -14423,8 +14443,8 @@ Nr. I-2589, 1992.05.26,
 Žin., 1992, Nr. 21-610 
 Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132
-Nr. VIII-1543, 00.02.17,
-Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 175
 straipsnis. Nepilnamečių padarytas chuliganizmas
@@ -14528,9 +14548,9 @@ kitų patalpų suteikimas naminei degtinei, brogai arba kitiems naminiams
 stipriems alkoholiniams gėrimams gaminti ar laikyti –
 užtraukia
 įspėjimą gyvenamųjų ar kitų patalpų savininkams.
-Tokie pat
-veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
-trečiojoje dalyje numatytus pažeidimus, –
+Tokie pat veiksmai,
+padaryti asmens, bausto administracine nuobauda už šio straipsnio trečiojoje
+dalyje numatytus pažeidimus, –
 užtraukia baudą
 nuo vieno tūkstančio iki dviejų tūkstančių litų.
 Straipsnio pakeitimai: 
@@ -14565,8 +14585,8 @@ užtraukia baudą
 nuo vieno tūkstančio iki dviejų tūkstančių litų su naminių alkoholinių gėrimų
 konfiskavimu.
 Straipsnio pakeitimai: 
-Nr. XI-1789, 1987.07.29, Žin.,
-1987, Nr. 21-262 
+Nr. XI-1789, 1987.07.29, Žin., 1987,
+Nr. 21-262 
 Nr. I-2589, 1992.05.26,
 Žin., 1992, Nr. 21-610 
 Nr. I-545, 1994.07.18,
@@ -14739,8 +14759,8 @@ Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132 
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
-Nr. IX-726, 2002-01-22,
-Žin., 2002, Nr. 13-477 (2002-02-06)
+Nr. IX-726,
+2002-01-22, Žin., 2002, Nr. 13-477 (2002-02-06)
 Nr. X-1101,
 2007-04-19, Žin., 2007, Nr. 49-1880 (2007-05-05)
  
@@ -14765,8 +14785,8 @@ Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132 
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
-Nr. IX-726, 2002-01-22,
-Žin., 2002, Nr. 13-477 (2002-02-06)
+Nr. IX-726,
+2002-01-22, Žin., 2002, Nr. 13-477 (2002-02-06)
  
 181(1)
 straipsnis. Vaiko globėjo (rūpintojo) pareigų nevykdymas arba vykdymas 
@@ -14778,16 +14798,16 @@ vaiko interesams –
 užtraukia
 įspėjimą arba baudą globėjui (rūpintojui) iki dviejų šimtų litų.
 Kodeksas papildytas straipsniu:
-Nr. IX-726,
-2002-01-22, Žin., 2002, Nr. 13-477 (2002-02-06)
+Nr. IX-726, 2002-01-22,
+Žin., 2002, Nr. 13-477 (2002-02-06)
  
 181(2) straipsnis. Melagingos
 informacijos suteikimas, kliudymas vaikui nustatyti globą 
 (rūpybą) ir informacijos nepranešimas
 Melagingos
-informacijos apie nepilnamečius, likusius be tėvų globos, taip pat apie
-būtinumą ginti jų teises ir interesus suteikimas savivaldybės vaiko teisių
-apsaugos tarnybai, kliudymas vaikui nustatyti globą (rūpybą) – 
+informacijos apie nepilnamečius, likusius be tėvų globos, taip pat apie būtinumą
+ginti jų teises ir interesus suteikimas savivaldybės vaiko teisių apsaugos
+tarnybai, kliudymas vaikui nustatyti globą (rūpybą) – 
 užtraukia
 baudą mokymo, auklėjimo, sveikatos priežiūros ir kitų institucijų bei įstaigų,
 kurių žinioje yra vaikas, vadovams ir kitiems pareigūnams nuo vieno šimto iki
@@ -14870,8 +14890,8 @@ prostitucija vertęsis asmuo, kuris į prostituciją buvo įtrauktas būdamas ma
 kitaip priklausomas arba įtrauktas į prostituciją panaudojant fizinę ar
 psichinę prievartą ar apgaulę, arba bet kokiu būdu įtrauktas į prostituciją
 būdamas nepilnametis ar (ir)
-nukentėjo nuo prekybos žmonėmis ir yra pripažintas nukentėjusiuoju baudžiamajame
-procese.
+nukentėjo nuo prekybos žmonėmis ir yra pripažintas nukentėjusiuoju
+baudžiamajame procese.
 Straipsnio pakeitimai: 
 Nr. I-1691, 1987.06.09, Žin.,
 1987, Nr. 17-189 
@@ -14987,8 +15007,8 @@ Nr. I-957, 95.06.20,
 Žin., 1995, Nr. 55-1356 (95.07.05) 
 Nr. I-1172, 96.01.16,
 Žin., 1996, Nr. 9-216 (96.01.31)
-Nr. VIII-1543, 00.02.17,
-Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
      185(2)
 straipsnis. Prekybos tabako gaminiais pažeidimas
@@ -15033,8 +15053,8 @@ nuo penkių tūkstančių iki dešimties tūkstančių litų.
 Straipsnio pakeitimai:
 Nr. VIII-432, 97.10.07,
 Žin., 1997, Nr. 94-2358 (97.10.17)
-Nr. XI-1183, 2010-11-30,
-Žin., 2010, Nr. 145-7436 (2010-12-11)
+Nr. XI-1183,
+2010-11-30, Žin., 2010, Nr. 145-7436 (2010-12-11)
  
 185(4) straipsnis. Tabako
 gaminių nupirkimas ar kitoks perdavimas nepilnamečiui
@@ -15116,8 +15136,8 @@ užtraukia
 baudą nuo vieno šimto iki penkių šimtų litų arba administracinį areštą iki
 trisdešimties parų.
 Straipsnio pakeitimai: 
-Nr. I-504, 1994.06.23, Žin.,
-1994, Nr. 51-949 
+Nr. I-504, 1994.06.23,
+Žin., 1994, Nr. 51-949 
 Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132
 Nr. IX-2511,
@@ -15133,8 +15153,8 @@ Nr. I-504, 94.06.23,
 Žin., 1994, Nr. 51-949 (94.07.08)
 Nr. VIII-2023,
 00.10.12, Žin., 2000, Nr. 92-2871 (00.10.31)
-Nr. IX-744, 2002-02-28,
-Žin., 2002, Nr. 29-1031 (2002-03-20)
+Nr. IX-744,
+2002-02-28, Žin., 2002, Nr. 29-1031 (2002-03-20)
  
 186(4)
 straipsnis. Draudimo naudoti technines priemones teismo posėdžio metu 
@@ -15166,8 +15186,8 @@ pajamas –
      užtraukia
 baudą nuo dešimties tūkstančių iki penkiasdešimties tūkstančių litų.
 Straipsnio pakeitimai: 
-Nr. I-1141, 95.12.20, Žin.,
-1995, Nr. 104-2325 (95.12.22)
+Nr. I-1141, 95.12.20,
+Žin., 1995, Nr. 104-2325 (95.12.22)
  
 186(6)
 straipsnis. Neteko
@@ -15201,9 +15221,9 @@ užtraukia baudą nuo penkių šimtų iki tūkstančio litų arba
 administracinį areštą nuo penkiolikos iki trisdešimties parų.
 Policijos ar
 Specialiųjų tyrimų tarnybos, Valstybės sienos apsaugos tarnybos, Viešojo
-saugumo tarnybos, Finansinių nusikaltimų tyrimo tarnybos prie Lietuvos
-Respublikos vidaus reikalų ministerijos, Vadovybės apsaugos departamento prie
-Vidaus reikalų ministerijos, Valstybės saugumo departamento, valstybinės
+saugumo tarnybos, Finansinių nusikaltimų tyrimo tarnybos prie Lietuvos Respublikos
+vidaus reikalų ministerijos, Vadovybės apsaugos departamento prie Vidaus
+reikalų ministerijos, Valstybės saugumo departamento, valstybinės
 priešgaisrinės gelbėjimo tarnybos pareigūno teisėto nurodymo ar reikalavimo
 nevykdymas, taip pat jo garbės ir orumo įžeidimas, reiškiamas žodžiu ar kūno
 gestais, įžeidžiančiu elgesiu, kibimu ar kitokiu elgesiu, –
@@ -15227,8 +15247,8 @@ Nr. I-545, 1994.07.18,
 Nr.
 VIII-1441,
 99.11.25, Žin., 1999, Nr. 106-3061 (99.12.15)
-Nr. VIII-1543,
-00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543, 00.02.17,
+Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
 VIII-1651,
 00.05.02, Žin., 2000, Nr. 41-1164 (00.05.19)
@@ -15472,15 +15492,14 @@ Nr. IX-2153,
 18713
 straipsnis. Žurnalistų etikos inspektoriaus reikalavimų nevykdymas
 Informacijos,
-būtinos žurnalistų etikos inspektoriaus funkcijoms atlikti, nepateikimas
-žurnalistų etikos inspektoriaus reikalavimu, žurnalistų etikos inspektoriaus
-teisėtų reikalavimų, priimtų sprendimų nevykdymas ar kitoks trukdymas
-žurnalistų etikos inspektoriui įgyvendinti įstatymų jam suteiktas teises ar
-įgaliojimus – 
+būtinos žurnalistų etikos inspektoriaus funkcijoms atlikti, nepateikimas žurnalistų
+etikos inspektoriaus reikalavimu, žurnalistų etikos inspektoriaus teisėtų
+reikalavimų, priimtų sprendimų nevykdymas ar kitoks trukdymas žurnalistų etikos
+inspektoriui įgyvendinti įstatymų jam suteiktas teises ar įgaliojimus – 
 užtraukia
-baudą viešosios informacijos rengėjams, skleidėjams ir (ar) už visuomenės informavimo
-priemonės turinį atsakingiems asmenims nuo penkių šimtų iki vieno tūkstančio
-litų.
+baudą viešosios informacijos rengėjams, skleidėjams ir (ar) už visuomenės
+informavimo priemonės turinį atsakingiems asmenims nuo penkių šimtų iki vieno
+tūkstančio litų.
 Tokie
 pat veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
 pirmojoje dalyje numatytus pažeidimus, – 
@@ -15489,8 +15508,8 @@ baudą viešosios informacijos rengėjams, skleidėjams ir (ar) už visuomenės
 informavimo priemonės turinį atsakingiems asmenims nuo vieno tūkstančio iki
 dviejų tūkstančių litų.
 Kodeksas papildytas straipsniu:
-Nr. XI-349, 2009-07-15,
-Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas
+Nr. XI-349,
+2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas
 užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo priede,
 įgyvendinimą
  
@@ -15717,8 +15736,8 @@ Nr. I-1099, 95.11.28,
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1049,
-2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
+IX-1049, 2002-07-05,
+Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr. IX-1234, 2002-12-10, Žin., 2002, Nr. 123-5526 (2002-12-24)
 Nr. X-163, 2005-04-21,
 Žin., 2005, Nr. 58-2001 (2005-05-07)
@@ -15795,9 +15814,9 @@ kitoks kliudymas Lietuvos vyriausiojo archyvaro tarnybos ir valstybės archyvų
 pareigūnams tikrinti pagal jų kompetenciją valstybės ar savivaldybių
 institucijas, įstaigas ar įmones, valstybės įgaliotus asmenis, nevalstybines
 organizacijas, privačius juridinius asmenis, nepateikimas jiems dokumentų arba
-dokumentų nuslėpimas, klaidingų duomenų suteikimas arba atsisakymas suteikti
-duomenis, taip pat Lietuvos vyriausiojo archyvaro tarnybos ir valstybės archyvų
-pareigūnų teisėtų reikalavimų nevykdymas –
+dokumentų nuslėpimas, klaidingų duomenų suteikimas arba atsisakymas suteikti duomenis,
+taip pat Lietuvos vyriausiojo archyvaro tarnybos ir valstybės archyvų pareigūnų
+teisėtų reikalavimų nevykdymas –
 užtraukia baudą
 piliečiams nuo penkiasdešimties iki vieno šimto litų ir pareigūnams – nuo vieno
 šimto iki penkių šimtų litų.
@@ -15811,8 +15830,8 @@ Straipsnio pakeitimai:
 Nr. I-1127, 95.12.14,
 Žin., 1995, Nr. 106-2350 (95.12.29) 
 Nr. X-1675,
-2008-07-03, Žin., 2008, Nr. 81-3181 (2008-07-17), šiuo įstatymu
-įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+2008-07-03, Žin., 2008, Nr. 81-3181 (2008-07-17), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XI-1866,
 2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
 Sąjungos teisės aktai, nurodyti šio įstatymo priede
@@ -15866,8 +15885,8 @@ Tokia pat veika,
 padaryta asmens, bausto administracine nuobauda už šio straipsnio pirmojoje
 dalyje numatytus pažeidimus, –
 užtraukia baudą
-piliečiams nuo vieno šimto iki dviejų šimtų litų ir pareigūnams – nuo dviejų
-šimtų iki penkių šimtų litų.
+piliečiams nuo vieno šimto iki dviejų šimtų litų ir pareigūnams – nuo dviejų šimtų
+iki penkių šimtų litų.
 Kodeksas papildytas straipsniu:
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
@@ -15882,11 +15901,11 @@ Respublikos vidaus reikalų ministerijos pareigūnams atlikti pavestas pareigas
 arba jų teisėtų reikalavimų nevykdymas
 Neįleidimas ar
 kitoks kliudymas Lietuvos Respublikos ginklų fondo prie Lietuvos
-Respublikos vidaus reikalų ministerijos pareigūnams tikrinti įmones,
-gaminančias ginklus, jų dalis, šaudmenis, sprogmenis, pirotechnikos priemones,
-įmones, naudojančias sprogmenis, prekiaujančias sprogmenimis, besiverčiančias
-ginklų taisymu, ginklų ir šaudmenų perdirbimu, nepateikimas jiems dokumentų
-arba dokumentų nuslėpimas, klaidingos informacijos suteikimas, taip pat šių
+Respublikos vidaus reikalų ministerijos pareigūnams tikrinti įmones, gaminančias
+ginklus, jų dalis, šaudmenis, sprogmenis, pirotechnikos priemones, įmones,
+naudojančias sprogmenis, prekiaujančias sprogmenimis, besiverčiančias ginklų
+taisymu, ginklų ir šaudmenų perdirbimu, nepateikimas jiems dokumentų arba
+dokumentų nuslėpimas, klaidingos informacijos suteikimas, taip pat šių
 pareigūnų teisėtų reikalavimų nevykdymas – 
 užtraukia baudą
 įmonių vadovams nuo dviejų šimtų penkiasdešimties iki penkių šimtų litų.
@@ -15901,8 +15920,7 @@ Nr. VIII-1543,
 Straipsnio pakeitimai:
 Nr. IX-2511,
 2004-10-28, Žin., 2004, Nr. 166-6060 (2004-11-16), šis įstatymas skirtas
-užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo priede,
-įgyvendinimą
+užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
 Nr. XI-645,
 2010-01-14, Žin., 2010, Nr. 13-613 (2010-02-02)
  
@@ -15964,9 +15982,9 @@ nuslėpimas, klaidingų žinių suteikimas, taip pat pareigūnų teisėtų reika
 nevykdymas – 
 užtraukia baudą
 nuo trijų šimtų iki septynių šimtų litų.
-Tokie pat veiksmai,
-padaryti asmens, bausto administracine nuobauda už šio straipsnio pirmojoje
-dalyje numatytus pažeidimus, – 
+Tokie pat
+veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
+pirmojoje dalyje numatytus pažeidimus, – 
 užtraukia baudą
 nuo septynių šimtų iki vieno tūkstančio keturių šimtų litų.
 Kodeksas papildytas straipsniu:
@@ -15987,10 +16005,10 @@ SSR vėliava ar herbas, nacistinių ar komunistinių organizacijų simbolių ar
 uniformų arba nacistinės Vokietijos, SSRS ar Lietuvos SSR vėliavos ar herbo,
 nacistinės svastikos, nacistinio SS ženklo, sovietinio kūjo ir pjautuvo ženklo,
 sovietinės raudonos penkiakampės žvaigždės ženklo pagrindu sudarytų vėliavų ar
-ženklų, atsakingų už Lietuvos gyventojų represijas Vokietijos
-nacionalsocialistų ar SSRS komunistų partijos vadovų atvaizdų platinimas, naudojimas
-susirinkime ar kitame masiniame renginyje arba kitoks demonstravimas, taip pat
-nacistinės Vokietijos, SSRS ar Lietuvos SSR himno viešas atlikimas – 
+ženklų, atsakingų už Lietuvos gyventojų represijas Vokietijos nacionalsocialistų
+ar SSRS komunistų partijos vadovų atvaizdų platinimas, naudojimas susirinkime
+ar kitame masiniame renginyje arba kitoks demonstravimas, taip pat nacistinės
+Vokietijos, SSRS ar Lietuvos SSR himno viešas atlikimas – 
 užtraukia
 baudą nuo penkių šimtų iki vieno tūkstančio litų su daikto, kuris buvo
 administracinio teisės pažeidimo padarymo įrankis, konfiskavimu.
@@ -16020,15 +16038,14 @@ numatytas žemės paėmimo visuomenės poreikiams procedūras –
 užtraukia baudą nuo vieno šimto iki penkių šimtų litų.
 Tokia pat veika, padaryta asmens, bausto administracine nuobauda
 už šio straipsnio pirmojoje dalyje numatytus pažeidimus, –
-užtraukia baudą nuo penkių šimtų iki vieno
-tūkstančio litų.
+užtraukia baudą nuo penkių šimtų iki vieno tūkstančio
+litų.
 Kodeksas papildytas straipsniu:
 Nr. XI-1309,
 2011-04-12, Žin., 2011, Nr. 49-2364 (2011-04-28)
  
 18820
-straipsnis. Skambinimas pagalbos telefono numeriais žinant, kad nėra pagalbos
-poreikio
+straipsnis. Skambinimas pagalbos telefono numeriais žinant, kad nėra pagalbos poreikio
 Skambinimas
 pagalbos telefono numeriais žinant, kad nėra pagalbos poreikio, – 
 užtraukia
@@ -16083,8 +16100,8 @@ individualia veikla besiverčiantiems fiziniams asmenims nuo vieno šimto iki
 keturių šimtų litų, įmonių darbuotojams – nuo penkių šimtų iki vieno tūkstančio
 litų ir pareigūnams – nuo dviejų tūkstančių iki keturių tūkstančių litų. 
 Tokie pat
-veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
-trečiojoje, ketvirtojoje ar penktojoje dalyje numatytus pažeidimus, –
+veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio trečiojoje,
+ketvirtojoje ar penktojoje dalyje numatytus pažeidimus, –
 užtraukia baudą
 individualia veikla besiverčiantiems fiziniams asmenims nuo dviejų šimtų iki
 vieno tūkstančio litų, įmonių darbuotojams – nuo penkių šimtų iki dviejų
@@ -16151,16 +16168,16 @@ susijusiems statinio reikalavimams ar teritorijų planavimo dokumentų
 sprendiniams, ekspertizės akto su teigiamu statinio projekto įvertinimu
 pateikimas statinio projekto ekspertizės užsakovui –
 užtraukia baudą
-statinio projekto ekspertizės aktą pasirašiusiems asmenims nuo penkių tūkstančių
-iki dešimties tūkstančių litų. 
+statinio projekto ekspertizės aktą pasirašiusiems asmenims nuo penkių
+tūkstančių iki dešimties tūkstančių litų. 
 Tokie pat
 veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
 trečiojoje dalyje numatytus pažeidimus, –
 užtraukia baudą
 nuo dešimties tūkstančių iki dvidešimties tūkstančių litų.
-Statinio ekspertizės
-akto, neatitinkančio teisės aktų nustatytų reikalavimų, pateikimas statinio
-ekspertizės užsakovui –
+Statinio
+ekspertizės akto, neatitinkančio teisės aktų nustatytų reikalavimų, pateikimas
+statinio ekspertizės užsakovui –
 užtraukia baudą
 statinio ekspertizės aktą pasirašiusiems asmenims nuo dviejų tūkstančių iki
 dešimties tūkstančių litų.
@@ -16187,8 +16204,8 @@ X-691,
 užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede,
 įgyvendinimą
 
-Nr. X-1101, 2007-04-19,
-Žin., 2007, Nr. 49-1880 (2007-05-05)
+Nr. X-1101,
+2007-04-19, Žin., 2007, Nr. 49-1880 (2007-05-05)
 Nr. XI-1036,
 2010-09-28, Žin., 2010, Nr. 116-5918 (2010-09-30)
  
@@ -16215,8 +16232,8 @@ IX-1702,
 2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
 Nr. X-1101,
 2007-04-19, Žin., 2007, Nr. 49-1880 (2007-05-05)
-Nr. XI-1036,
-2010-09-28, Žin., 2010, Nr. 116-5918 (2010-09-30)
+Nr. XI-1036, 2010-09-28,
+Žin., 2010, Nr. 116-5918 (2010-09-30)
  
 189(3)
 straipsnis. Statinių techninės priežiūros taisyklių nesilaikymas
@@ -16235,8 +16252,8 @@ Nr. I-2589, 1992.05.26,
 Žin., 1992, Nr. 21-610 
 Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132 
-Nr. VIII-1278, 99.07.01,
-Žin., 1999, Nr. 66-2111 (99.07.30)
+Nr. VIII-1278,
+99.07.01, Žin., 1999, Nr. 66-2111 (99.07.30)
 Nr. X-1101,
 2007-04-19, Žin., 2007, Nr. 49-1880 (2007-05-05)
  
@@ -16250,17 +16267,17 @@ valstybinę priežiūrą atliekančių pareigūnų teisėtų nurodymų nevykdyma
 užtraukia baudą
 piliečiams nuo vieno tūkstančio iki septynių tūkstančių litų ir pareigūnams –
 nuo penkių tūkstančių iki penkiolikos tūkstančių litų.
-Tokie pat
-veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
-pirmojoje dalyje numatytus pažeidimus, –
+Tokie pat veiksmai,
+padaryti asmens, bausto administracine nuobauda už šio straipsnio pirmojoje
+dalyje numatytus pažeidimus, –
 užtraukia baudą
 piliečiams nuo penkių tūkstančių iki penkiolikos tūkstančių litų ir pareigūnams
 – nuo dešimties tūkstančių iki trisdešimties tūkstančių litų.
 Tyčinis
 kliudymas statybos valstybinę priežiūrą atliekantiems pareigūnams atlikti savo
 pareigas ir (arba) statybos valstybinę priežiūrą atliekančio pareigūno garbės
-ir orumo įžeidimas, reiškiamas žodžiu ar gestais, įžeidžiančiu, įžūliu ar
-provokuojančiu elgesiu, –
+ir orumo įžeidimas, reiškiamas žodžiu ar gestais, įžeidžiančiu, įžūliu ar provokuojančiu
+elgesiu, –
 užtraukia baudą
 piliečiams nuo dviejų šimtų iki keturių šimtų litų ir pareigūnams – nuo trijų
 šimtų iki šešių šimtų litų.
@@ -16339,8 +16356,8 @@ Nr. I-263, 1993.10.05,
 Žin., 1993, Nr. 54-1047 
 Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132
-Nr. VIII-1824,
-00.07.11, Žin., 2000, Nr. 64-1913 (00.07.31)
+Nr. VIII-1824, 00.07.11,
+Žin., 2000, Nr. 64-1913 (00.07.31)
  
 189(7)
 straipsnis. Teisinės metrologijos reikalavimų pažeidimas
@@ -16360,15 +16377,15 @@ aptarnavimo reikalavimų; matavimo priemonių, kurių neatitiktis teisės aktams
 metrologinę priežiūrą, gamyba, taisymas, tiekimas rinkai, nuoma, naudojimas,
 taip pat matavimo indų ir fasuotų prekių
 gamyba ir tiekimas rinkai; teisinei metrologijai priskirtų matavimo priemonių
-ir (ar) jų programinės įrangos, neapsaugotų nuo rodmenų klastojimo, tiekimas
-vartotojams; sveriamų, skaičiuojamų, dozuojamų, matuojamų prekių, kurių
-produkto kiekį nurodo pardavėjas, pardavimas pažeidžiant teisinės metrologijos
-reikalavimus; fasuotų prekių, kurių produkto kiekis yra nurodytas etiketėse
-arba ant fasuotės, gamyba, importas, pardavimas, perdavimas, saugojimas,
-ženklinimas pažeidžiant teisinės metrologijos reikalavimus; indų, skirtų
-gėrimams ir kitiems skysčiams supilti bei matuoti, gamyba, naudojimas,
-realizavimas, laikymas parengtų ir ženklinimas pažeidžiant teisinės
-metrologijos reikalavimus; neįteisintų Lietuvoje matavimo vienetų naudojimas –
+ir (ar) jų programinės įrangos, neapsaugotų nuo rodmenų klastojimo, tiekimas vartotojams;
+sveriamų, skaičiuojamų, dozuojamų, matuojamų prekių, kurių produkto kiekį
+nurodo pardavėjas, pardavimas pažeidžiant teisinės metrologijos reikalavimus;
+fasuotų prekių, kurių produkto kiekis yra nurodytas etiketėse arba ant
+fasuotės, gamyba, importas, pardavimas, perdavimas, saugojimas, ženklinimas
+pažeidžiant teisinės metrologijos reikalavimus; indų, skirtų gėrimams ir
+kitiems skysčiams supilti bei matuoti, gamyba, naudojimas, realizavimas,
+laikymas parengtų ir ženklinimas pažeidžiant teisinės metrologijos
+reikalavimus; neįteisintų Lietuvoje matavimo vienetų naudojimas –
 užtraukia baudą
 fiziniams asmenims nuo vieno šimto iki vieno tūkstančio litų, juridinių asmenų
 arba užsienio valstybių įmonių filialų Lietuvos Respublikoje vadovams ar jų
@@ -16435,12 +16452,12 @@ iki dviejų tūkstančių litų.
 Strateginių
 prekių kontrolę
 atliekančių valstybės tarnautojų neįleidimas į fiziniams, juridiniams asmenims
-arba užsienio juridinių asmenų ir kitų organizacijų filialams priklausančias
-teritorijas ir patalpas (išskyrus žmogaus būstą), kuriose yra saugomos ar
-naudojamos strateginės prekės, šioms prekėms apžiūrėti, kontroliniams
-tyrimams ar matavimams atlikti, duomenų, dokumentų ar informacijos nepateikimas
-arba dokumentų nuslėpimas, klaidingų duomenų ar informacijos pateikimas, taip
-pat šių valstybės tarnautojų teisėtų reikalavimų nevykdymas –
+arba užsienio juridinių asmenų ir kitų organizacijų filialams priklausančias teritorijas
+ir patalpas (išskyrus žmogaus būstą), kuriose yra saugomos ar naudojamos
+strateginės prekės, šioms prekėms apžiūrėti, kontroliniams tyrimams ar
+matavimams atlikti, duomenų, dokumentų ar informacijos nepateikimas arba
+dokumentų nuslėpimas, klaidingų duomenų ar informacijos pateikimas, taip pat
+šių valstybės tarnautojų teisėtų reikalavimų nevykdymas –
 užtraukia
 baudą fiziniams asmenims nuo penkių šimtų iki vieno tūkstančio litų, juridinių
 asmenų arba užsienio juridinių asmenų ir kitų organizacijų filialų vadovams –
@@ -16493,8 +16510,8 @@ dalyje numatytus pažeidimus, –
 užtraukia baudą
 nuo dviejų tūkstančių iki penkių tūkstančių litų.
 Straipsnio pakeitimai:
-Nr. VIII-1081, 99.02.11,
-Žin., 1999, Nr. 23-649 (99.03.10)
+Nr. VIII-1081,
+99.02.11, Žin., 1999, Nr. 23-649 (99.03.10)
  
 189(12) straipsnis. Statinio
 projekto vykdymo priežiūros ir statinio statybos techninės priežiūros tvarkos
@@ -16526,8 +16543,8 @@ veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
 pirmojoje dalyje numatytus pažeidimus, –
 užtraukia baudą
 nuo dviejų tūkstančių iki dešimties tūkstančių litų.
-Prisijungimo sąlygų
-neišdavimas per teisės aktuose nustatytus terminus –
+Prisijungimo
+sąlygų neišdavimas per teisės aktuose nustatytus terminus –
 užtraukia baudą
 nuo penkių šimtų iki dviejų tūkstančių litų.
 Tokie pat
@@ -16583,8 +16600,8 @@ Kodeksas papildytas straipsniu:
 Nr. IX-199, 2001 03
 01, Žin., 2001, Nr. 25-826 (2001 03 23)
 Straipsnio pakeitimai:
-Nr. X-1415,
-2008-01-11, Žin., 2008, Nr. 11-375 (2008-01-26)
+Nr. X-1415, 2008-01-11,
+Žin., 2008, Nr. 11-375 (2008-01-26)
  
 18915
 straipsnis.
@@ -16722,8 +16739,8 @@ pažeidimas arba jų nevykdymas, išskyrus šio kodekso 77, 121 straipsniuose ir
 saugos norminių aktų pažeidimas arba jų nevykdymas projektuojant ir statant
 statinius –
 užtraukia baudą
-piliečiams nuo dvidešimt penkių iki dviejų šimtų penkiasdešimties litų ir pareigūnams
-– nuo vieno šimto iki dviejų tūkstančių litų.
+piliečiams nuo dvidešimt penkių iki dviejų šimtų penkiasdešimties litų ir
+pareigūnams – nuo vieno šimto iki dviejų tūkstančių litų.
 Priešgaisrinės
 saugos durpynuose taisyklių pažeidimas –
 užtraukia baudą
@@ -16757,9 +16774,9 @@ Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
-Nr. XI-1223,
-2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
-Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XI-1223, 2010-12-14,
+Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 1922 straipsnis.
 Lietuvos Respublikos civilinės saugos įstatymo ir kitų teisės aktų,
@@ -16770,9 +16787,9 @@ užtraukia
 įspėjimą arba baudą piliečiams nuo penkiasdešimties iki vieno šimto litų ir įspėjimą
 arba baudą pareigūnams – nuo
 vieno šimto iki dviejų šimtų litų.
-Tokios pat veikos,
-padarytos asmens, bausto administracine nuobauda už šio straipsnio pirmojoje
-dalyje numatytus pažeidimus, –
+Tokios pat
+veikos, padarytos asmens, bausto administracine nuobauda už šio straipsnio
+pirmojoje dalyje numatytus pažeidimus, –
 užtraukia
 baudą piliečiams nuo vieno šimto iki vieno šimto penkiasdešimties litų ir
 pareigūnams
@@ -16850,8 +16867,8 @@ priede
 straipsnis. Neteko
 galios nuo 2003 m. sausio 1 d.
 Straipsnio pakeitimai: 
-Nr. I-545, 1994.07.18, Žin.,
-1994, Nr. 58-1132
+Nr. I-545, 1994.07.18,
+Žin., 1994, Nr. 58-1132
 Nr. IX-1260,
 2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
  
@@ -16908,9 +16925,9 @@ IX-1702,
 straipsnis. Ginklo registravimo (perregistravimo) terminų arba jo įrašymo į
 įskaitą pažeidimas
 Ginklo, kuriam
-įsigyti ir laikyti ar nešioti reikalingas leidimas, registravimo (perregistravimo)
-terminų arba jo įrašymo į policijos įstaigos įskaitą pasikeitus gyvenamajai
-vietai tvarkos pažeidimas –
+įsigyti ir laikyti ar nešioti reikalingas leidimas, registravimo
+(perregistravimo) terminų arba jo įrašymo į policijos įstaigos įskaitą
+pasikeitus gyvenamajai vietai tvarkos pažeidimas –
 užtraukia
 įspėjimą arba baudą iki vieno šimto litų.
 Straipsnio pakeitimai: 
@@ -16993,8 +17010,8 @@ Nr. I-545, 1994.07.18,
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
-IX-1702, 2003-07-04,
-Žin., 2003, Nr. 74-3421 (2003-07-25)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
  
 197(1)
 straipsnis. Neteko galios nuo 2011 m. kovo 1 d.
@@ -17011,8 +17028,8 @@ Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 straipsnis. Kliudymas policijos pareigūnams atlikti pavestas pareigas arba jų
 teisėtų reikalavimų nevykdymas
 Neįleidimas
-arba kitoks kliudymas policijos pareigūnams tikrinti pagal jų kompetenciją
-įmonių, įstaigų, organizacijų patalpas, kuriose laikomi ginklai, šaudmenys ar
+arba kitoks kliudymas policijos pareigūnams tikrinti pagal jų kompetenciją įmonių,
+įstaigų, organizacijų patalpas, kuriose laikomi ginklai, šaudmenys ar
 sprogmenys, dokumentų ir informacijos, reikalingos kontrolei atlikti,
 nepateikimas arba dokumentų nuslėpimas, klaidingų duomenų pateikimas, taip pat
 šių pareigūnų teisėtų reikalavimų nevykdymas – 
@@ -17288,8 +17305,8 @@ IX-1702,
  
 206
 straipsnis. Užsieniečių atvykimo į Lietuvos Respubliką, buvimo ar gyvenimo
-joje, vykimo per ją tranzitu ar išvykimo iš jos tvarkos pažeidimas
-
+joje, vykimo per ją tranzitu ar išvykimo iš jos tvarkos
+pažeidimas 
 Užsieniečių
 atvykimo į Lietuvos Respubliką, buvimo ar gyvenimo joje, vykimo per ją tranzitu
 ar išvykimo iš jos tvarkos pažeidimas –
@@ -17442,9 +17459,8 @@ sąrašų, balsų skaičiavimo protokolų, rinkimų ar referendumo biuletenių
 praradimas
 Rinkėjų sąrašų,
 piliečių, turinčių teisę dalyvauti referendume, sąrašų, rinkėjų parašų rinkimo
-lapų, balsų skaičiavimo protokolų, rinkimų ar referendumo biuletenių
-praradimas, padarytas asmens, atsakingo už šių dokumentų saugojimą ir tvarkymą,
-– 
+lapų, balsų skaičiavimo protokolų, rinkimų ar referendumo biuletenių praradimas,
+padarytas asmens, atsakingo už šių dokumentų saugojimą ir tvarkymą, – 
 užtraukia baudą
 nuo penkių šimtų iki dviejų tūkstančių litų.
 Rinkėjų sąrašų,
@@ -17474,8 +17490,7 @@ padaryta visuomenės informavimo priemonėse, –
 užtraukia
 baudą viešosios informacijos rengėjo ar platintojo vadovui arba kitam už
 viešosios informacijos skleidimą ar visuomenės informavimo priemonės turinį
-atsakingam asmeniui nuo dešimties tūkstančių iki penkiasdešimties tūkstančių
-litų.
+atsakingam asmeniui nuo dešimties tūkstančių iki penkiasdešimties tūkstančių litų.
 Rinkimų ar
 Referendumo įstatymuose numatytos rinkimų ar referendumo agitacijos tvarkos
 pažeidimas –
@@ -17557,8 +17572,8 @@ perdavimas
 Neteisėtas rinkimų ar referendumo
 biuletenių išdavimas –
 užtraukia baudą
-rinkimų komisijų ar referendumo komisijų nariams arba kitiems pareigūnams nuo
-vieno šimto iki dviejų tūkstančių litų.
+rinkimų komisijų ar referendumo komisijų nariams arba kitiems pareigūnams nuo vieno
+šimto iki dviejų tūkstančių litų.
 Nepažymėtų
 rinkimų ar referendumo biuletenių perdavimas –
 užtraukia
@@ -17638,8 +17653,8 @@ Straipsnio pakeitimai:
 Nr. X-389, 2005-11-15,
 Žin., 2005, Nr. 143-5167 (2005-12-08)
 Nr. X-1675,
-2008-07-03, Žin., 2008, Nr. 81-3181 (2008-07-17), šiuo įstatymu
-įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+2008-07-03, Žin., 2008, Nr. 81-3181 (2008-07-17), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 207(8)
 straipsnis. Politinės kampanijos dalyvių registravimo reikalavimų pažeidimas
@@ -17683,8 +17698,8 @@ Nr. IX-2430,
 Straipsnio pakeitimai:
 Nr. X-389, 2005-11-15,
 Žin., 2005, Nr. 143-5167 (2005-12-08)
-Nr. XI-820, 2010-05-18,
-Žin., 2010, Nr. 63-3098 (2010-05-31)
+Nr. XI-820,
+2010-05-18, Žin., 2010, Nr. 63-3098 (2010-05-31)
  
 207(10)
 straipsnis. Politinių kampanijų finansavimo tvarkos pažeidimas
@@ -17737,8 +17752,8 @@ Nr. X-389, 2005-11-15,
 Nr. XI-820,
 2010-05-18, Žin., 2010, Nr. 63-3098 (2010-05-31)
 Nr.
-XI-2101,
-2012-06-21, Žin., 2012, Nr. 78-4023 (2012-07-04)
+XI-2101, 2012-06-21,
+Žin., 2012, Nr. 78-4023 (2012-07-04)
  
 207(11)
 straipsnis. Nepranešimas apie atsiradusius savivaldybės tarybos nario
@@ -17867,16 +17882,16 @@ pažeidimas
 Muitinės
 prižiūrimų prekių muitinio tikrinimo vietų tvarkos pažeidimas, tai yra:
 1) laivų
-ir kitų plaukiojančių priemonių priplaukimas prie muitinės tikrinimo laivo be muitinės
-pareigūno, atliekančio muitinį tikrinimą, leidimo;
+ir kitų plaukiojančių priemonių priplaukimas prie muitinės tikrinimo laivo be
+muitinės pareigūno, atliekančio muitinį tikrinimą, leidimo;
 2)
 asmenų, atvykstančių į Lietuvos Respubliką arba išvykstančių iš Lietuvos
 Respublikos transporto priemonėmis, nesustojimas muitinės įstaigoje ar kitoje
 muitinės nustatytoje vietoje, kad būtų atliktas muitinis tikrinimas;
 3) visų
 rūšių transporto priemonių ir asmenų, esančių muitinės įstaigoje ar kitoje
-muitinės nustatytoje vietoje, išvykimas be muitinės pareigūno, atliekančio
-muitinį tikrinimą, leidimo;
+muitinės nustatytoje vietoje, išvykimas be muitinės pareigūno, atliekančio muitinį
+tikrinimą, leidimo;
 4) muitinės
 prižiūrimų prekių (daiktų) ir kitų vertybių iškrovimas iš jas gabenančių
 priemonių, įskaitant ir jų perkrovimą į kitas transporto priemones, muitinės
@@ -17962,8 +17977,8 @@ nuo penkių tūkstančių iki penkiolikos tūkstančių litų su prekių (daikt�
 konfiskavimu ar be konfiskavimo.
 Šio
 straipsnio pirmojoje dalyje numatyti veiksmai, kai neteisingai deklaruotų
-prekių (daiktų) vertė neviršija penkių minimalių gyvenimo lygių (MGL) dydžio sumos,
-–
+prekių (daiktų) vertė neviršija penkių minimalių gyvenimo lygių (MGL) dydžio
+sumos, –
 užtraukia
 įspėjimą arba baudą nuo dviejų šimtų iki penkių šimtų litų.
 Deklaranto
@@ -17977,8 +17992,8 @@ užtraukia
 Straipsnio pakeitimai:
 Nr. VIII-354, 97.07.01,
 Žin., 1997, Nr. 69-1732 (97.07.23)
-Nr. VIII-1041,
-99.02.02, Žin., 1999, Nr. 18-443 (99.02.19)
+Nr. VIII-1041, 99.02.02,
+Žin., 1999, Nr. 18-443 (99.02.19)
 Nr. IX-199, 2001 03
 01, Žin., 2001, Nr. 25-826 (2001 03 23)
 Nr. IX-1260,
@@ -18058,8 +18073,8 @@ vietų ir neapmuitinamų parduotuvių steigimo tvarkos pažeidimas –
 užtraukia baudą
 nuo trijų tūkstančių iki penkių tūkstančių litų.
 Gamybos,
-prekybos, paslaugų teikimo ar kitos veiklos laisvosiose ekonominėse zonose, laisvuosiuose
-sandėliuose, muitinės sandėliuose, laikinojo saugojimo vietose ir
+prekybos, paslaugų teikimo ar kitos veiklos laisvosiose ekonominėse zonose,
+laisvuosiuose sandėliuose, muitinės sandėliuose, laikinojo saugojimo vietose ir
 neapmuitinamose parduotuvėse tvarkos pažeidimas –
 užtraukia baudą
 nuo penkių tūkstančių iki dešimties tūkstančių litų.
@@ -18093,8 +18108,8 @@ pareigūno uždėtų plombų, spaudų ir kitų žymų padirbimas, nuplėšimas,
 sugadinimas ar praradimas –
 užtraukia baudą nuo penkių šimtų iki trijų tūkstančių litų.
 Kodeksas papildytas straipsniu:
-Nr. IX-1260, 2002-12-10,
-Žin., 2002, Nr. 124-5623 (2002-12-27)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
  
 209(6)
 straipsnis. Keleivio asmeninio naudojimo ar kitų daiktų neteisėtas gabenimas 
@@ -18148,14 +18163,15 @@ Nr. XI-1385,
 210
 straipsnis. Kontrabanda
 Prekių, pinigų, meno vertybių ar kitų privalomų pateikti
-muitinei daiktų, išskyrus kilnojamąsias kultūros vertybes ar antikvarinius daiktus,
-šaunamuosius ginklus, šaudmenis, sprogmenis, sprogstamąsias, radioaktyviąsias
-medžiagas ar kitas strategines prekes, nuodingąsias ir stipriai veikiančias,
-psichotropines ar narkotines medžiagas, jų pirmtakus (prekursorius), gabenimas
-per Lietuvos Respublikos valstybės sieną nepateikiant jų muitinės kontrolei
-arba kitaip išvengiant šios kontrolės, kai neteisėtai gabenamų prekių, pinigų,
-meno vertybių ar kitų privalomų pateikti muitinei daiktų vertė neviršija dviejų
-šimtų penkiasdešimties minimalių gyvenimo lygių (MGL) dydžio sumos, –
+muitinei daiktų, išskyrus kilnojamąsias kultūros vertybes ar antikvarinius
+daiktus, šaunamuosius ginklus, šaudmenis, sprogmenis, sprogstamąsias,
+radioaktyviąsias medžiagas ar kitas strategines prekes, nuodingąsias ir
+stipriai veikiančias, psichotropines ar narkotines medžiagas, jų pirmtakus
+(prekursorius), gabenimas per Lietuvos Respublikos valstybės sieną nepateikiant
+jų muitinės kontrolei arba kitaip išvengiant šios kontrolės, kai neteisėtai
+gabenamų prekių, pinigų, meno vertybių ar kitų privalomų pateikti muitinei
+daiktų vertė neviršija dviejų šimtų penkiasdešimties minimalių gyvenimo lygių
+(MGL) dydžio sumos, –
 užtraukia baudą
 nuo
 dešimties tūkstančių iki dvidešimties tūkstančių litų su kontrabandos daiktų,
@@ -18168,8 +18184,8 @@ meno vertybių ar kitų privalomų pateikti muitinei daiktų, išskyrus
 kilnojamąsias kultūros vertybes ar antikvarinius daiktus, šaunamuosius ginklus,
 šaudmenis, sprogmenis, sprogstamąsias, radioaktyviąsias medžiagas ar kitas
 strategines prekes, nuodingąsias ir stipriai veikiančias, psichotropines ar
-narkotines medžiagas, jų pirmtakus (prekursorius), vertė neviršija penkiasdešimties
-minimalių gyvenimo lygių (MGL) dydžio sumos, – 
+narkotines medžiagas, jų pirmtakus (prekursorius), vertė neviršija
+penkiasdešimties minimalių gyvenimo lygių (MGL) dydžio sumos, – 
 užtraukia baudą
 nuo penkių tūkstančių iki dešimties tūkstančių litų su kontrabandos daiktų,
 taip pat gabenimo ir kitų priemonių, skirtų kontrabandos daiktams per Lietuvos
@@ -18268,8 +18284,8 @@ XI-1521,
  
 213
 straipsnis. Duomenų, reikalingų karo prievolininkų karinei įskaitai,
-nepateikimas karo prievolę administruojančiai krašto apsaugos sistemos
-institucijai arba melagingų duomenų pateikimas
+nepateikimas karo prievolę administruojančiai krašto apsaugos
+sistemos institucijai arba melagingų duomenų pateikimas
 Duomenų,
 reikalingų karo prievolininkų karinei įskaitai, nepateikimas laiku karo
 prievolę administruojančiai krašto apsaugos sistemos institucijai, kai tai
@@ -18300,8 +18316,8 @@ Nr. I-180, 1993.06.10,
 Žin., 1993, Nr. 26-597 
 Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132 
-Nr. I-957, 95.06.20,
-Žin., 1995, Nr. 55-1356 (95.07.05)
+Nr. I-957, 95.06.20, Žin.,
+1995, Nr. 55-1356 (95.07.05)
 Nr. I-1594, 96.10.22,
 Žin., 1996, Nr. 106-2428 (96.11.06)
 Nr. VIII-1543,
@@ -18396,8 +18412,8 @@ Nr. I-16, 1990.03.12,
 straipsnis. Neteko
 galios
 Straipsnio pakeitimai: 
-Nr. XI-501, 1985.11.28, Žin.,
-1985, Nr. 33-370 
+Nr. XI-501, 1985.11.28, Žin., 1985,
+Nr. 33-370 
 Nr. I-16, 1990.03.12,
 Žin., 1990, Nr. 9-232
  
@@ -18502,15 +18518,17 @@ iki penkių šimtų litų.
 Tokie pat
 veiksmai, padaryti asmens, bausto administracine nuobauda už šio straipsnio
 pirmojoje dalyje numatytus pažeidimus, – 
-užtraukia baudą nuo
-dviejų šimtų iki vieno tūkstančio litų.
+užtraukia baudą
+nuo dviejų šimtų iki vieno tūkstančio litų.
 Straipsnio pakeitimai: 
 Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132
 Nr.
-X-691, 2006-06-15,
-Žin., 2006, Nr. 73-2759 (2006-06-30), šis įstatymas skirtas užtikrinti
-Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, įgyvendinimą 
+X-691,
+2006-06-15, Žin., 2006, Nr. 73-2759 (2006-06-30), šis įstatymas skirtas
+užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede,
+įgyvendinimą
+
  
             214(4)
 straipsnis. Neteko
@@ -18625,10 +18643,10 @@ Nr. VIII-1543,
 straipsnis. Autorių teisių ir gretutinių teisių pažeidimas
 Neteisėtas
 literatūros, mokslo ar meno kūrinio (įskaitant kompiuterių programas ir duomenų
-bazes) ar gretutinių teisių objekto arba jų dalies viešas atlikimas,
-atgaminimas, viešas paskelbimas, kitoks panaudojimas bet kokiais būdais ir
-priemonėmis nekomerciniais tikslais, taip pat neteisėtų kopijų platinimas,
-gabenimas ar laikymas komerciniais tikslais – 
+bazes) ar gretutinių teisių objekto arba jų dalies viešas atlikimas, atgaminimas,
+viešas paskelbimas, kitoks panaudojimas bet kokiais būdais ir priemonėmis
+nekomerciniais tikslais, taip pat neteisėtų kopijų platinimas, gabenimas ar
+laikymas komerciniais tikslais – 
 užtraukia baudą nuo vieno tūkstančio iki dviejų
 tūkstančių litų su kūrinio ar gretutinių teisių objekto neteisėtų kopijų
 konfiskavimu.
@@ -18701,8 +18719,8 @@ galios nuo 2009 m. liepos 28 d.)
 Straipsnio pakeitimai:
 Nr. VIII-520, 97.11.18,
 Žin., 1997, Nr. 108-2735 (97.11.28)
-Nr. XI-349, 2009-07-15,
-Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas
+Nr. XI-349,
+2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas
 užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo priede,
 įgyvendinimą
  
@@ -18757,8 +18775,8 @@ nuo vieno tūkstančio iki dviejų tūkstančių litų.
 Straipsnio pakeitimai:
 Nr. VIII-687, 98.04.07,
 Žin., 1998, Nr. 40-1065 (98.04.29)
-Nr. IX-1995,
-2004-01-29, Žin., 2004, Nr. 25-763 (2004-02-14)
+Nr. IX-1995, 2004-01-29,
+Žin., 2004, Nr. 25-763 (2004-02-14)
  
 214(17)
 straipsnis. Valstybinės duomenų apsaugos inspekcijos pareigūnų teisėtų nurodymų
@@ -18924,16 +18942,16 @@ Nr. IX-2335,
 2004-07-08, Žin., 2004, Nr. 115-4275 (2004-07-24)
  
 214(25)
-straipsnis. Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo
-pažeidimas
+straipsnis. Lietuvos Respublikos informacinės visuomenės paslaugų
+įstatymo pažeidimas
 Lietuvos
 Respublikos informacinės visuomenės paslaugų įstatymo pažeidimas – 
 užtraukia baudą
 informacinės visuomenės paslaugų teikėjams – fiziniams asmenims arba juridinių
 asmenų vadovams nuo penkių šimtų iki dviejų tūkstančių litų.
-Tokia pat veika,
-padaryta asmens, bausto administracine nuobauda už šio straipsnio pirmojoje
-dalyje numatytą pažeidimą, –
+Tokia pat
+veika, padaryta asmens, bausto administracine nuobauda už šio straipsnio
+pirmojoje dalyje numatytą pažeidimą, –
 užtraukia baudą
 nuo dviejų tūkstančių iki keturių tūkstančių litų.
 Kodeksas
@@ -18948,8 +18966,8 @@ straipsnis. Kliudymas Informacinės visuomenės plėtros komiteto prie
 Susisiekimo ministerijos pareigūnams atlikti savo funkcijas arba jų teisėtų
 reikalavimų nevykdymas
 Kliudymas
-Informacinės visuomenės plėtros komiteto prie Susisiekimo ministerijos
-pareigūnams atlikti savo funkcijas arba jų teisėtų reikalavimų nevykdymas – 
+Informacinės visuomenės plėtros komiteto prie Susisiekimo ministerijos pareigūnams
+atlikti savo funkcijas arba jų teisėtų reikalavimų nevykdymas – 
 užtraukia
 baudą informacinės visuomenės paslaugų teikėjams – fiziniams asmenims arba
 juridinių asmenų vadovams nuo penkių šimtų iki vieno tūkstančio litų.
@@ -19034,10 +19052,10 @@ Nr. X-1381,
 priede
  
 21429
-straipsnis. Paraiškos įregistruoti saugųjį dokumentą ar saugųjį dokumento
-blanką į Saugiųjų dokumentų ir saugiųjų dokumentų blankų registrą ir parengti
-saugiojo dokumento ar saugiojo dokumento blanko eskizą ir grafinį projektą
-pateikimą reglamentuojančių teisės aktų pažeidimas
+straipsnis. Paraiškos įregistruoti saugųjį dokumentą ar saugųjį dokumento blanką
+į Saugiųjų dokumentų ir saugiųjų dokumentų blankų registrą ir parengti saugiojo
+dokumento ar saugiojo dokumento blanko eskizą ir grafinį projektą pateikimą
+reglamentuojančių teisės aktų pažeidimas
 Paraiškos įregistruoti saugųjį
 dokumentą ar saugųjį dokumento blanką į Saugiųjų dokumentų ir saugiųjų
 dokumentų blankų registrą ir parengti saugiojo dokumento ar saugiojo dokumento
@@ -19173,8 +19191,8 @@ Nr. I-1573, 1991.07.18,
 Žin., 1991, Nr. 22-568
 Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132
-Nr. VIII-1543, 00.02.17,
-Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
  
 215(5)
 straipsnis. Neteko
@@ -19228,13 +19246,13 @@ Nr. I-2589, 1992.05.26,
 Žin., 1992, Nr. 21-610 
 Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132 
-Nr. VIII-1543,
-00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543, 00.02.17,
+Žin., 2000, Nr. 22-552 (00.03.15)
  
 III skyrius
  
-ORGANAI (PAREIGŪNAI),
-ĮGALIOTI NAGRINĖTI
+ORGANAI
+(PAREIGŪNAI), ĮGALIOTI NAGRINĖTI
 ADMINISTRACINIŲ
 TEISĖS PAŽEIDIMŲ BYLAS
  
@@ -19298,8 +19316,8 @@ sudarymo tvarka
 komisijas sudaro savivaldybių tarybos šios sudėties: komisijos pirmininkas,
 pirmininko pavaduotojas, etatinis atsakingasis sekretorius ir nariai.
      Kitų
-kolegialių organų, įgaliotų nagrinėti administracinių teisės pažeidimų bylas,
-sudarymo tvarką nustato Lietuvos Respublikos įstatymai.
+kolegialių organų, įgaliotų nagrinėti administracinių teisės pažeidimų bylas, sudarymo
+tvarką nustato Lietuvos Respublikos įstatymai.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
@@ -19351,8 +19369,8 @@ Administracinės
 komisijos prie savivaldybių tarybų nagrinėja šio kodekso 421 straipsnyje,
 49, 103, 104, 108 straipsniuose, 110 straipsnio trečiojoje, ketvirtojoje,
 penktojoje ir šeštojoje dalyse, 123 straipsnyje (dėl traktorių, savaeigių
-važiuoklių, traktorių priekabų ir kelių tiesimo mašinų registravimo bei
-techninės apžiūros taisyklių pažeidimo), 1331 straipsnyje, 136 straipsnio
+važiuoklių, traktorių priekabų ir kelių tiesimo mašinų registravimo bei techninės
+apžiūros taisyklių pažeidimo), 1331 straipsnyje, 136 straipsnio
 trečiojoje dalyje, 137 straipsnyje, 142 straipsnyje (išskyrus 142 straipsnio
 antrojoje, trečiojoje ir ketvirtojoje dalyse numatytus pažeidimus tolimojo ir
 tarptautinio susisiekimo maršrutuose), 1421, 1422, 1423,
@@ -19372,15 +19390,15 @@ Administracinės
 komisijos prie savivaldybių tarybų nagrinėja šio kodekso 421 straipsnyje,
 49, 103, 104, 108 straipsniuose, 110 straipsnio ketvirtojoje, penktojoje,
 šeštojoje,
-septintojoje, aštuntojoje, devintojoje, dešimtojoje, vienuoliktojoje,
-dvyliktojoje, tryliktojoje, keturioliktojoje ir penkioliktojoje dalyse,
-123 straipsnyje (dėl traktorių, savaeigių važiuoklių, traktorių priekabų ir
-kelių tiesimo mašinų registravimo bei techninės apžiūros taisyklių pažeidimo),
-1331 straipsnyje, 136 straipsnio trečiojoje dalyje, 137 straipsnyje,
-142 straipsnyje (išskyrus 142 straipsnio antrojoje, trečiojoje ir ketvirtojoje
-dalyse numatytus pažeidimus tolimojo ir tarptautinio susisiekimo maršrutuose),
-1421, 1422, 1423, 14211 straipsniuose,
-143 straipsnyje (dėl automobilių transporte padarytų pažeidimų), 156, 157
+septintojoje, aštuntojoje, devintojoje, dešimtojoje, vienuoliktojoje, dvyliktojoje,
+tryliktojoje, keturioliktojoje ir penkioliktojoje dalyse, 123
+straipsnyje (dėl traktorių, savaeigių važiuoklių, traktorių priekabų ir kelių
+tiesimo mašinų registravimo bei techninės apžiūros taisyklių pažeidimo), 1331
+straipsnyje, 136 straipsnio trečiojoje dalyje, 137 straipsnyje, 142 straipsnyje
+(išskyrus 142 straipsnio antrojoje, trečiojoje ir ketvirtojoje dalyse numatytus
+pažeidimus tolimojo ir tarptautinio susisiekimo maršrutuose), 1421,
+1422, 1423, 14211 straipsniuose, 143
+straipsnyje (dėl automobilių transporte padarytų pažeidimų), 156, 157
 straipsniuose, 158 straipsnio pirmojoje dalyje, 1582 straipsnyje,
 1621 straipsnio pirmojoje, antrojoje, trečiojoje ir ketvirtojoje
 dalyse, 1639, 16313 straipsniuose, 172 straipsnyje (dėl
@@ -19393,8 +19411,8 @@ straipsnyje numatytų administracinių teisės pažeidimų bylas.
  
 Administracinės
 komisijos prie savivaldybių tarybų nagrinėja taip pat administracinių teisės
-pažeidimų, už kuriuos atsakomybė nustatoma pagal šio kodekso 5 straipsnį, bylas.
-
+pažeidimų, už kuriuos atsakomybė nustatoma pagal šio kodekso 5 straipsnį,
+bylas. 
 Straipsnio pakeitimai: 
 Nr. XI-139, 1985.05.29, Žin.,
 1985, Nr. 16-178 
@@ -19412,8 +19430,8 @@ Nr. I-1788, 1987.07.29, Žin.,
 1987, Nr. 21-261 
 Nr. I-1789, 1987.07.29, Žin.,
 1987, Nr. 21-262 
-Nr. I-2574, 1988.09.28, Žin.,
-1988, Nr. 29-301 
+Nr. I-2574, 1988.09.28, Žin., 1988,
+Nr. 29-301 
 Nr. I-2756, 1989.01.25, Žin.,
 1989, Nr. 4-19 
 Nr. I-326, 1990.06.26,
@@ -19485,8 +19503,8 @@ X-1246,
 2007-07-03, Žin., 2007, Nr. 81-3316 (2007-07-21, šis įstatymas skirtas
 užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede,
 įgyvendinimą.
-Nr. XI-349,
-2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas
+Nr. XI-349, 2009-07-15,
+Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas
 užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo priede,
 įgyvendinimą
 Nr. XI-581,
@@ -19687,9 +19705,9 @@ devintojoje, dešimtojoje, vienuoliktojoje, dvyliktojoje dalyse, 1591
 straipsnio penktojoje, šeštojoje, septintojoje, aštuntojoje, devintojoje,
 dešimtojoje, vienuoliktojoje, dvyliktojoje dalyse, 1592 straipsnio
 devintojoje, dešimtojoje, vienuoliktojoje, dvyliktojoje dalyse, 1594,
-1631, 1632, 16311, 16314, 164 straipsniuose,
-171 straipsnio pirmojoje ir antrojoje dalyse, 1711 straipsnio
-antrojoje dalyje, 1712 straipsnio antrojoje dalyje, 1713
+1631, 1632, 16311, 16314, 164
+straipsniuose, 171 straipsnio pirmojoje ir antrojoje dalyse, 1711
+straipsnio antrojoje dalyje, 1712 straipsnio antrojoje dalyje, 1713
 straipsnio antrojoje, trečiojoje ir ketvirtojoje dalyse, 1714, 1715,
 1722, 1723, 1725, 1726, 17211,
 17212, 17213, 17214, 17215, 17217,
@@ -19714,19 +19732,20 @@ straipsnio pirmojoje dalyje, 1888, 1889, 18810,
 18811, 18814, 18815, 18816, 18817,
 18818, 18820 straipsniuose, 1892
 straipsnio antrojoje dalyje, 1894 straipsnyje, 1895
-straipsnio antrojoje dalyje, 1896 straipsnyje, 1897 straipsnio
-ketvirtojoje dalyje, 1898, 1899, 18910, 18911,
-18913, 18914, 18916 straipsniuose, 191
-straipsnio pirmojoje dalyje, 1921, 1932, 198, 2011,
-202, 2021, 2052, 207, 2071, 2072,
-2073, 2074, 2075, 2076, 2077,
-2078, 2079, 20710, 20711, 20712,
-20713, 20714, 208, 209 straipsniuose, 2091
-straipsnio antrojoje dalyje, 2092 straipsnio trečiojoje dalyje, 2093
-straipsnio antrojoje, trečiojoje, šeštojoje ir septintojoje dalyse, 2094
-straipsnio antrojoje, trečiojoje ir ketvirtojoje dalyse, 2097
-straipsnyje, 210 straipsnio pirmojoje ir antrojoje dalyse, 214 straipsnyje, 2141
-straipsnio pirmojoje, antrojoje ir ketvirtojoje dalyse, 2143, 2146
+straipsnio antrojoje dalyje, 1896 straipsnyje, 1897
+straipsnio ketvirtojoje dalyje, 1898, 1899, 18910,
+18911, 18913, 18914, 18916
+straipsniuose, 191 straipsnio pirmojoje dalyje, 1921, 1932,
+198, 2011, 202, 2021, 2052, 207, 2071,
+2072, 2073, 2074, 2075, 2076,
+2077, 2078, 2079, 20710, 20711,
+20712, 20713, 20714, 208, 209 straipsniuose,
+2091 straipsnio antrojoje dalyje, 2092 straipsnio
+trečiojoje dalyje, 2093 straipsnio antrojoje, trečiojoje, šeštojoje
+ir septintojoje dalyse, 2094 straipsnio antrojoje, trečiojoje ir
+ketvirtojoje dalyse, 2097 straipsnyje, 210 straipsnio pirmojoje ir
+antrojoje dalyse, 214 straipsnyje, 2141 straipsnio pirmojoje,
+antrojoje ir ketvirtojoje dalyse, 2143, 2146
 straipsniuose, 2147 straipsnio pirmojoje ir antrojoje dalyse, 2148,
 2149, 21410, 21414–21418 straipsniuose,
 21419 straipsnio penktojoje ir šeštojoje dalyse, 21423,
@@ -19903,12 +19922,12 @@ Nr. IX-770,
 Nr.
 IX-1049,
 2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
-Nr. IX-1260,
-2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
+Nr. IX-1260, 2002-12-10,
+Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr. IX-1288,
 2002-12-10, Žin., 2002, Nr. 124-5629 (2002-12-27)
-Nr. IX-1363,
-2003-03-13, Žin., 2003, Nr. 28-1126 (2003-03-21)
+Nr. IX-1363, 2003-03-13,
+Žin., 2003, Nr. 28-1126 (2003-03-21)
 Nr.
 IX-1702,
 2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
@@ -19945,8 +19964,7 @@ Nr. X-877, 2006-10-24,
 Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą 
 Nr. X-1019,
 2007-01-16, Žin., 2007, Nr. 12-492 (2007-01-30), šis įstatymas skirtas
-užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo priede,
-įgyvendinimą
+užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
 Nr. X-1101,
 2007-04-19, Žin., 2007, Nr. 49-1880 (2007-05-05)
 Nr.
@@ -19988,18 +20006,18 @@ Nr. XI-1866,
 2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
 Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XI-1902,
-2011-12-22, Žin., 2011, Nr. 163-7778 (2011-12-31), šiuo įstatymu
-įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede 
+2011-12-22, Žin., 2011, Nr. 163-7778 (2011-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede 
 Nr. XI-2009,
 2012-05-10, Žin., 2012, Nr. 57-2832 (2012-05-19) , šiuo įstatymu įgyvendinamas
 Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
  
 225
 straipsnis. Policija
-Policija nagrinėja
-šio kodekso 5111, 81, 82 straipsniuose (dėl pažeidimų automobilių
-transporte), 1071, 1072, 110 straipsniuose, 111
-straipsnio pirmojoje, antrojoje ir trečiojoje dalyse, 112, 113, 114
+Policija
+nagrinėja šio kodekso 5111, 81, 82 straipsniuose (dėl pažeidimų
+automobilių transporte), 1071, 1072, 110 straipsniuose,
+111 straipsnio pirmojoje, antrojoje ir trečiojoje dalyse, 112, 113, 114
 straipsniuose, 117 straipsnio trečiojoje dalyje, 118–120, 123 straipsniuose,
 124 straipsnio pirmojoje, antrojoje, trečiojoje, ketvirtojoje ir penktojoje
 dalyse, 1241 straipsnyje, 1242 straipsnio pirmojoje ir
@@ -20028,19 +20046,19 @@ nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines
 nuobaudas turi teisę:
 1) už šio
 kodekso 5111, 1071, 1072 straipsniuose, 111
-straipsnio pirmojoje, antrojoje ir trečiojoje dalyse, 112, 113, 114
-straipsniuose, 117 straipsnio trečiojoje dalyje, 118–120 straipsniuose, 136
-straipsnio pirmojoje ir antrojoje dalyse, 137 straipsnio antrojoje dalyje, 143
-straipsnyje (išskyrus automobilių transporte padarytus pažeidimus), 165, 166,
-167, 1671, 1672 straipsniuose, 1673 straipsnio
-ketvirtojoje dalyje, 169, 170 straipsniuose, 171 straipsnio trečiojoje dalyje,
-172 straipsnyje (dėl asmens bei turto saugos veikloje padarytų pažeidimų), 174,
-176, 1761, 177, 1771 straipsniuose, 178 straipsnio
-pirmojoje ir antrojoje dalyse, 182 straipsnio pirmojoje dalyje, 1821 straipsnio
-pirmojoje dalyje, 183 straipsnio pirmojoje ir antrojoje dalyse, 1851,
-1852, 1854 straipsniuose, 187 straipsnio trečiojoje ir
-ketvirtojoje dalyse, 1878 straipsnyje, 1887 straipsnio
-antrojoje dalyje, 18819, 193, 194, 195, 196, 199, 1991
+straipsnio pirmojoje, antrojoje ir trečiojoje dalyse, 112, 113, 114 straipsniuose,
+117 straipsnio trečiojoje dalyje, 118–120 straipsniuose, 136 straipsnio
+pirmojoje ir antrojoje dalyse, 137 straipsnio antrojoje dalyje, 143 straipsnyje
+(išskyrus automobilių transporte padarytus pažeidimus), 165, 166, 167, 1671,
+1672 straipsniuose, 1673 straipsnio ketvirtojoje dalyje,
+169, 170 straipsniuose, 171 straipsnio trečiojoje dalyje, 172 straipsnyje (dėl
+asmens bei turto saugos veikloje padarytų pažeidimų), 174, 176, 1761,
+177, 1771 straipsniuose, 178 straipsnio pirmojoje ir antrojoje dalyse,
+182 straipsnio pirmojoje dalyje, 1821 straipsnio pirmojoje dalyje,
+183 straipsnio pirmojoje ir antrojoje dalyse, 1851, 1852,
+1854 straipsniuose, 187 straipsnio trečiojoje ir ketvirtojoje
+dalyse, 1878 straipsnyje, 1887 straipsnio antrojoje
+dalyje, 18819, 193, 194, 195, 196, 199, 1991
 straipsniuose, 2093 straipsnio pirmojoje dalyje (dėl policijos
 nustatytų pažeidimų), 210 straipsnio trečiojoje dalyje (dėl policijos nustatytų
 pažeidimų) numatytus administracinius teisės pažeidimus – policijos įstaigų
@@ -20078,10 +20096,10 @@ antrojoje dalyse, 128 straipsnio trečiojoje dalyje, 130 straipsnio trečiojoje
 dalyje, 131–134, 1362, 1425–14210,
 145–149, 160, 1601, 1602, 169 straipsniuose, 187
 straipsnio trečiojoje ir ketvirtojoje dalyse, 1878 straipsnyje
-numatytus administracinius teisės pažeidimus – įgalioti
-aukštesniosios ir vidurinės grandžių pareigūnų policijos laipsnius turintys
-pareigūnai, kuriems pavesta atitinkamų taisyklių laikymosi priežiūra; kiti tam
-įgalioti policijos pareigūnai – baudą iki dviejų šimtų litų.
+numatytus administracinius teisės pažeidimus – įgalioti aukštesniosios
+ir vidurinės grandžių pareigūnų policijos laipsnius turintys pareigūnai,
+kuriems pavesta atitinkamų taisyklių laikymosi priežiūra; kiti tam įgalioti
+policijos pareigūnai – baudą iki dviejų šimtų litų.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
@@ -20105,8 +20123,8 @@ Nr. I-263, 1993.10.05,
 Žin., 1993, Nr. 54-1047 
 Nr. I-334, 1993.12.14,
 Žin., 1993, Nr. 72-1344 
-Nr. I-386, 1994.02.10, Žin.,
-1994, Nr. 14-227 
+Nr. I-386, 1994.02.10,
+Žin., 1994, Nr. 14-227 
 Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132 
 Nr. I-590, 1994.09.13,
@@ -20127,8 +20145,8 @@ Nr. VIII-1076,
 99.02.11, Žin., 1999, Nr. 19-517 (99.02.24)
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
-Nr. VIII-1922, 00.09.12,
-Žin., 2000, Nr. 81-2443 (00.09.26)
+Nr. VIII-1922,
+00.09.12, Žin., 2000, Nr. 81-2443 (00.09.26)
 Nr. VIII-2014,
 00.10.10, Žin., 2000, Nr. 92-2866 (00.10.31)
 Nr. IX-199, 2001 03
@@ -20288,9 +20306,9 @@ dviejų tūkstančių litų;
 2) vyresnieji
 valstybinės priešgaisrinės priežiūros inspektoriai – baudą piliečiams iki trijų
 šimtų litų ir pareigūnams – iki vieno tūkstančio vieno šimto litų;
-3) valstybinės priešgaisrinės
-priežiūros inspektoriai – baudą piliečiams iki dviejų šimtų litų ir pareigūnams
-– iki penkių šimtų litų.
+3) valstybinės
+priešgaisrinės priežiūros inspektoriai – baudą piliečiams iki dviejų šimtų litų
+ir pareigūnams – iki penkių šimtų litų.
 Straipsnio pakeitimai: 
 Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
@@ -20319,11 +20337,11 @@ teisės pažeidimų bylas, numatytas šio kodekso 111, 1121, 1122,
 1123, 1124, 1125, 1126, 1128, 1129,
 11210, 11211 straipsniuose, 121
 straipsnio pirmojoje dalyje, 1361 ir 143 straipsniuose.
-Valstybinės
-geležinkelio inspekcijos prie Susisiekimo ministerijos vardu nagrinėti
-administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas turi
-teisę Valstybinės geležinkelio inspekcijos prie Susisiekimo ministerijos
-viršininkas, jo pavaduotojai, skyrių vedėjai ir inspektoriai.
+Valstybinės geležinkelio
+inspekcijos prie Susisiekimo ministerijos vardu nagrinėti administracinių
+teisės pažeidimų bylas ir skirti administracines nuobaudas turi teisę
+Valstybinės geležinkelio inspekcijos prie Susisiekimo ministerijos viršininkas,
+jo pavaduotojai, skyrių vedėjai ir inspektoriai.
 Nagrinėti šio
 kodekso 112 straipsnyje, 136 straipsnio pirmojoje dalyje, 138 straipsnyje
 numatytų administracinių teisės pažeidimų bylas ir skirti administracines
@@ -20334,8 +20352,8 @@ Nr. XI-1595, 1987.04.29, Žin.,
 1987, Nr. 13-134 
 Nr. I-2589, 1992.05.26,
 Žin., 1992, Nr. 21-610 
-Nr. I-545, 1994.07.18, Žin.,
-1994, Nr. 58-1132
+Nr. I-545, 1994.07.18,
+Žin., 1994, Nr. 58-1132
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1381,
@@ -20353,9 +20371,9 @@ Sąjungos teisės aktai, nurodyti šio įstatymo priede
 straipsnis. Jūrų transporto organai
 Jūrų transporto
 organai nagrinėja šio kodekso 117, 1172, 1173, 1174,
-1175, 118 straipsniuose, 121 straipsnio pirmojoje dalyje, 136
-straipsnio antrojoje dalyje, 140 ir 143 straipsniuose numatytų administracinių
-teisės pažeidimų bylas.
+1175, 118 straipsniuose, 121 straipsnio pirmojoje dalyje, 136 straipsnio
+antrojoje dalyje, 140 ir 143 straipsniuose numatytų administracinių teisės
+pažeidimų bylas.
 Jūrų transporto
 organų vardu nagrinėti administracinių teisės pažeidimų bylas ir skirti
 administracines nuobaudas turi teisę:
@@ -20373,8 +20391,8 @@ kapitonai.
 Laivų kapitonų
 skiriama bauda negali būti didesnė kaip dvidešimt litų.
 Straipsnio pakeitimai: 
-Nr. XI-1595, 1987.04.29, Žin., 1987,
-Nr. 13-134 
+Nr. XI-1595, 1987.04.29, Žin.,
+1987, Nr. 13-134 
 Nr. I-2589, 1992.05.26,
 Žin., 1992, Nr. 21-610 
 Nr. I-545, 1994.07.18,
@@ -20397,9 +20415,9 @@ straipsnio pirmoji dalis, 122, 1221 straipsniai, 136 straipsnio
 antroji dalis, 1361, 141 ir 143 straipsniai).
 Vidaus vandenų
 transporto organų vardu nagrinėti administracinių teisės pažeidimų bylas ir
-skirti administracines nuobaudas turi teisę Lietuvos saugios laivybos administracijos
-direktorius, jo pavaduotojas, regioniniai valstybiniai inspektoriai ir vidaus
-vandenų transporto priemonių kapitonai.
+skirti administracines nuobaudas turi teisę Lietuvos saugios laivybos
+administracijos direktorius, jo pavaduotojas, regioniniai valstybiniai
+inspektoriai ir vidaus vandenų transporto priemonių kapitonai.
 Vidaus vandenų transporto
 priemonių kapitonų skiriama bauda negali būti didesnė kaip vienas šimtas litų.
 Straipsnio pakeitimai: 
@@ -20413,8 +20431,8 @@ Nr. I-2589, 1992.05.26,
 Žin., 1992, Nr. 21-610 
 Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132
-Nr. VIII-1543,
-00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543, 00.02.17,
+Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. X-1381,
 2007-12-18, Žin., 2007, Nr. 138-5644 (2007-12-29), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
@@ -20474,9 +20492,10 @@ IX-1702,
 Nr. X-906, 2006-11-16,
 Žin., 2006, Nr. 132-4986 (2006-12-05), šis įstatymas skirtas užtikrinti
 Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, įgyvendinimą 
-Nr. X-1381, 2007-12-18,
-Žin., 2007, Nr. 138-5644 (2007-12-29), šiuo įstatymu
-įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. X-1381,
+2007-12-18, Žin., 2007, Nr. 138-5644 (2007-12-29), šiuo
+įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
+priede
 Nr. XI-1223,
 2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
 Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
@@ -20484,10 +20503,10 @@ Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
      232
 straipsnis. Keleivinio automobilių ir elektros transporto organai
      Keleivinio
-automobilių ir elektros transporto organai nagrinėja administracinių teisės pažeidimų,
-susijusių su naudojimosi automobilių ir elektros transportu taisyklių
-pažeidimu, bylas (šio kodekso 136 straipsnio trečioji dalis, 137 ir 142
-straipsniai).
+automobilių ir elektros transporto organai nagrinėja administracinių teisės
+pažeidimų, susijusių su naudojimosi automobilių ir elektros transportu
+taisyklių pažeidimu, bylas (šio kodekso 136 straipsnio trečioji dalis, 137 ir
+142 straipsniai).
      Šio
 straipsnio pirmojoje dalyje išvardytų organų vardu nagrinėti administracinių
 teisės pažeidimų bylas ir skirti administracines nuobaudas turi teisę
@@ -20509,8 +20528,8 @@ Nr. XI-349,
 2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas
 užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo priede,
 įgyvendinimą
-Nr. XI-1142, 2010-11-18,
-Žin., 2010, Nr. 142-7257 (2010-12-04)
+Nr. XI-1142,
+2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04)
  
      232(1)
 straipsnis. Valstybinė kelių transporto inspekcija prie Susisiekimo
@@ -20540,15 +20559,17 @@ Nr.
 VIII-1603,
 00.03.30, Žin., 2000, Nr. 32-888 (00.04.19)
 Nr.
-X-691, 2006-06-15,
-Žin., 2006, Nr. 73-2759 (2006-06-30), šis įstatymas skirtas užtikrinti
-Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, įgyvendinimą 
+X-691,
+2006-06-15, Žin., 2006, Nr. 73-2759 (2006-06-30), šis įstatymas skirtas
+užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede,
+įgyvendinimą
+
 Nr. X-1381,
 2007-12-18, Žin., 2007, Nr. 138-5644 (2007-12-29), šiuo
 įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
 priede
-Nr. XI-349,
-2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas
+Nr. XI-349, 2009-07-15,
+Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas
 užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo priede,
 įgyvendinimą
 Nr. XI-1142,
@@ -20611,9 +20632,10 @@ Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-2335,
 2004-07-08, Žin., 2004, Nr. 115-4275 (2004-07-24)
-Nr. IX-2511, 2004-10-28,
-Žin., 2004, Nr. 166-6060 (2004-11-16), šis įstatymas skirtas užtikrinti
-Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
+Nr. IX-2511,
+2004-10-28, Žin., 2004, Nr. 166-6060 (2004-11-16), šis įstatymas skirtas
+užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo priede,
+įgyvendinimą
 Nr. X-382, 2005-11-10,
 Žin., 2005, Nr. 137-4911 (2005-11-19)
 Nr. X-937, 2006-12-05,
@@ -20650,10 +20672,10 @@ geologijos tarnyba nagrinėja šio kodekso 46, 51(7) (kai
 administraciniai teisės pažeidimai susiję su žemės gelmių registro nuostatų
 pažeidimais), 53 ir 54 straipsniuose numatytų administracinių teisės pažeidimų
 bylas.
-Lietuvos
-geologijos tarnybos vardu nagrinėti administracinių teisės pažeidimų bylas ir
-skirti administracines nuobaudas turi teisę šios tarnybos direktorius ir jo
-įgalioti pareigūnai.
+Lietuvos geologijos
+tarnybos vardu nagrinėti administracinių teisės pažeidimų bylas ir skirti
+administracines nuobaudas turi teisę šios tarnybos direktorius ir jo įgalioti
+pareigūnai.
 Straipsnio pakeitimai: 
 Nr. I-830, 1990.12.04,
 Žin., 1990, Nr. 36-862 
@@ -20817,8 +20839,8 @@ Nr. VIII-354, 97.07.01,
 Žin., 1997, Nr. 69-1732 (97.07.23)
 Nr. VIII-1041,
 99.02.02, Žin., 1999, Nr. 18-443 (99.02.19)
-Nr. VIII-1543, 00.02.17,
-Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-199, 2001 03
 01, Žin., 2001, Nr. 25-826 (2001 03 23)
 Nr. IX-726,
@@ -20881,8 +20903,8 @@ Nr. I-1203, 96.02.13,
 Žin., 1996, Nr. 18-460 (96.02.28) 
 Nr. I-1594, 96.10.22,
 Žin., 1996, Nr. 106-2428 (96.11.06)
-Nr. VIII-1543, 00.02.17,
-Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
 XI-1521,
 2011-06-23, Žin., 2011, Nr. 86-4163 (2011-07-13)
@@ -20902,12 +20924,13 @@ ministerijos vardu nagrinėti administracinių teisės pažeidimų bylas ir skir
 nuobaudas turi teisę Lietuvos Respublikos ginklų fondo prie Lietuvos
 Respublikos vidaus reikalų ministerijos direktorius ir jo pavaduotojai.
 Kodeksas papildytas straipsniu:
-Nr. IX-2511, 2004-10-28,
-Žin., 2004, Nr. 166-6060 (2004-11-16), šis įstatymas skirtas užtikrinti
-Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
+Nr. IX-2511,
+2004-10-28, Žin., 2004, Nr. 166-6060 (2004-11-16), šis įstatymas skirtas
+užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo priede,
+įgyvendinimą
 Straipsnio pakeitimai: 
-Nr. XI-645, 2010-01-14,
-Žin., 2010, Nr. 13-613 (2010-02-02)
+Nr. XI-645,
+2010-01-14, Žin., 2010, Nr. 13-613 (2010-02-02)
  
 2382 straipsnis. Mobilizacijos departamentas
 prie Krašto apsaugos ministerijos
@@ -20946,8 +20969,8 @@ Nr. I-830, 1990.12.04,
 Žin., 1990, Nr. 36-862 
 Nr. I-2589, 1992.05.26,
 Žin., 1992, Nr. 21-610 
-Nr. I-263, 1993.10.05,
-Žin., 1993, Nr. 54-1047
+Nr. I-263, 1993.10.05, Žin.,
+1993, Nr. 54-1047
 Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132
 Nr. VIII-1543,
@@ -20957,8 +20980,8 @@ Nr. VIII-1824,
 Nr. IX-199, 2001 03
 01, Žin., 2001, Nr. 25-826 (2001 03 23)
 Nr.
-IX-1049, 2002-07-05,
-Žin., 2002, Nr. 75-3214 (2002-07-26)
+IX-1049,
+2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr. IX-1995,
 2004-01-29, Žin., 2004, Nr. 25-763 (2004-02-14)
 Nr. XI-645,
@@ -21046,8 +21069,8 @@ sveikatos centrai apskrityse nagrinėja šio
 kodekso 42 straipsnyje (išskyrus darbo, darbuotojų saugos ir sveikatos,
 radiacinės saugos, maisto saugos ir kokybės, ne maisto produktų (gaminių)
 saugos ir kokybės higienos norminių aktų pažeidimus), 512 straipsnio
-ketvirtojoje ir penktojoje dalyse, 79–84 straipsniuose (kai pažeidžiami
-higienos norminiai aktai, reglamentuojantys atmosferos apsaugą) numatytų administracinių
+ketvirtojoje ir penktojoje dalyse, 79–84 straipsniuose (kai pažeidžiami higienos
+norminiai aktai, reglamentuojantys atmosferos apsaugą) numatytų administracinių
 teisės pažeidimų bylas.
 Visuomenės
 sveikatos centro apskrityje vardu nagrinėti
@@ -21072,8 +21095,8 @@ Nr. X-497, 2006-01-19,
 Nr. XI-1036,
 2010-09-28, Žin., 2010, Nr. 116-5918 (2010-09-30)
 Nr.
-XI-1767,
-2011-12-01, Žin., 2011, Nr. 153-7204 (2011-12-15)
+XI-1767, 2011-12-01,
+Žin., 2011, Nr. 153-7204 (2011-12-15)
  
      240
 straipsnis. Valstybinės gyvulių veislininkystės priežiūros organai
@@ -21139,10 +21162,10 @@ reglamente nustatytą kompetenciją), 15211, 15310, 163,
 1639, 16313, 189 straipsniuose (dėl pažeidimų ne maisto
 produktų srityje), 1673 straipsnio antrojoje dalyje (dėl sprogmenų
 sertifikavimo ir ženklinimo bendrųjų reikalavimų pažeidimų), 2141
-straipsnio trečiojoje dalyje (išskyrus išorinės reklamos įrengimo reikalavimų
-ir draudimų pažeidimus), 2142 straipsnyje (dėl informacijos apie
-tabako gaminius teikimo tvarkos pažeidimų) numatytų administracinių teisės
-pažeidimų bylas.
+straipsnio trečiojoje dalyje (išskyrus išorinės reklamos įrengimo reikalavimų ir
+draudimų pažeidimus), 2142 straipsnyje (dėl informacijos apie tabako
+gaminius teikimo tvarkos pažeidimų) numatytų administracinių teisės pažeidimų
+bylas.
 Valstybinės ne
 maisto produktų inspekcijos prie Ūkio ministerijos vardu nagrinėti
 administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas turi
@@ -21155,10 +21178,10 @@ ne maisto produktų inspekcijos prie Ūkio ministerijos teritorinių padalinių
 viršininkai ir jų pavaduotojai, skyrių viršininkai ir jų pavaduotojai, poskyrių
 viršininkai – įspėjimą arba baudą nuo penkiasdešimties iki vieno tūkstančio
 penkių šimtų litų; 
-3)
-Valstybinės ne maisto produktų inspekcijos prie Ūkio ministerijos vyriausieji
-valstybiniai inspektoriai ir vyresnieji valstybiniai inspektoriai – įspėjimą
-arba baudą nuo dvidešimties iki vieno tūkstančio litų;
+3) Valstybinės
+ne maisto produktų inspekcijos prie Ūkio ministerijos vyriausieji valstybiniai
+inspektoriai ir vyresnieji valstybiniai inspektoriai – įspėjimą arba baudą nuo
+dvidešimties iki vieno tūkstančio litų;
 4) Valstybinės
 ne maisto produktų inspekcijos prie Ūkio ministerijos valstybiniai inspektoriai
 – įspėjimą arba baudą nuo dvidešimties iki penkių šimtų litų.
@@ -21175,8 +21198,8 @@ Nr. I-1469, 96.07.11,
 Žin., 1996, Nr. 74-1769 (96.08.02)
 Nr. VIII-851, 98.07.02,
 Žin., 1998, Nr. 67-1939 (98.07.29)
-Nr. VIII-1543, 00.02.17,
-Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. VIII-1824,
 00.07.11, Žin., 2000, Nr. 64-1913 (00.07.31)
 Nr. IX-199, 2001 03
@@ -21263,8 +21286,8 @@ tam įgalioti Valstybinės augalininkystės tarnybos prie Žemės ūkio minister
 pareigūnai.
 Kodeksas papildytas straipsniu:
 Nr.
-IX-1049,
-2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
+IX-1049, 2002-07-05,
+Žin., 2002, Nr. 75-3214 (2002-07-26)
 Straipsnio pakeitimai: 
 Nr. IX-1995,
 2004-01-29, Žin., 2004, Nr. 25-763 (2004-02-14)
@@ -21315,9 +21338,9 @@ apsaugos organai nagrinėja šio kodekso 423, 46, 51, 511 straipsniuose,
 512 straipsnio pirmojoje, antrojoje ir trečiojoje dalyse, 513
 straipsnio pirmojoje, antrojoje, trečiojoje, ketvirtojoje, tryliktojoje,
 keturioliktojoje, penkioliktojoje, šešioliktojoje, septynioliktojoje,
-aštuonioliktojoje, devynioliktojoje, dvidešimtojoje, dvidešimt pirmojoje,
-dvidešimt antrojoje ir dvidešimt trečiojoje dalyse, 514 straipsnyje,
-515 straipsnio pirmojoje ir antrojoje dalyse, 516, 517
+aštuonioliktojoje, devynioliktojoje, dvidešimtojoje, dvidešimt pirmojoje, dvidešimt
+antrojoje ir dvidešimt trečiojoje dalyse, 514 straipsnyje, 515
+straipsnio pirmojoje ir antrojoje dalyse, 516, 517
 straipsniuose, 5110 straipsnio pirmojoje ir antrojoje dalyse, 5112,
 5113 straipsniuose, 5114 straipsnio pirmojoje dalyje, 5116,
 5117 straipsniuose, 5118 straipsnio pirmojoje, antrojoje,
@@ -21331,8 +21354,8 @@ keturioliktojoje, penkioliktojoje, šešioliktojoje ir septynioliktojoje dalyse,
 5124, 5125, 52, 521, 523, 524,
 53, 55 straipsniuose, 56 straipsnio pirmojoje, antrojoje, trečiojoje,
 ketvirtojoje, penktojoje ir šeštojoje dalyse, 561, 562,
-57, 58, 60 straipsniuose, 62 straipsnio pirmojoje, antrojoje ir šeštojoje
-dalyse, 621 straipsnio pirmojoje, antrojoje ir šeštojoje dalyse, 622
+57, 58, 60 straipsniuose, 62 straipsnio pirmojoje, antrojoje ir šeštojoje dalyse,
+621 straipsnio pirmojoje, antrojoje ir šeštojoje dalyse, 622
 straipsnio pirmojoje, antrojoje ir šeštojoje dalyse, 64, 66–70, 72–781
 straipsniuose, 79–82 ir 83–84 straipsniuose (kai administraciniai teisės
 pažeidimai nėra higienos norminių aktų, reglamentuojančių atmosferos apsaugą,
@@ -21457,12 +21480,12 @@ IX-1049,
 2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
 Nr. IX-1234,
 2002-12-10, Žin., 2002, Nr. 123-5526 (2002-12-24)
-Nr. IX-1260, 2002-12-10,
-Žin., 2002, Nr. 124-5623 (2002-12-27)
+Nr. IX-1260,
+2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr. IX-1995,
 2004-01-29, Žin., 2004, Nr. 25-763 (2004-02-14)
-Nr. IX-2153, 2004-04-22,
-Žin., 2004, Nr. 68-2368 (2004-04-29)
+Nr. IX-2153,
+2004-04-22, Žin., 2004, Nr. 68-2368 (2004-04-29)
 Nr. X-134, 2005-03-17,
 Žin., 2005, Nr. 47-1553 (2005-04-12)
 Nr.
@@ -21667,8 +21690,8 @@ Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XI-645,
 2010-01-14, Žin., 2010, Nr. 13-613 (2010-02-02)
-Nr. XI-698, 2010-03-18,
-Žin., 2010, Nr. 34-1615 (2010-03-25)
+Nr. XI-698,
+2010-03-18, Žin., 2010, Nr. 34-1615 (2010-03-25)
  
 246
 straipsnis. Ryšių reguliavimo tarnyba
@@ -21695,8 +21718,8 @@ Nr. IX-707,
 Nr.
 IX-1702,
 2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
-Nr. IX-2153, 2004-04-22,
-Žin., 2004, Nr. 68-2368 (2004-04-29)
+Nr. IX-2153,
+2004-04-22, Žin., 2004, Nr. 68-2368 (2004-04-29)
 Nr. X-249, 2005-06-16,
 Žin., 2005, Nr. 83-3040 (2005-07-07)
 Nr. XI-1217,
@@ -21813,8 +21836,8 @@ Nr. I-743, 94.12.28,
 Žin., 1995, Nr. 3-39 (95.01.06) 
 Nr. I-1180, 96.01.23,
 Žin., 1996, Nr. 14-353 (96.02.14)
-Nr. IX-199, 2001 03
-01, Žin., 2001, Nr. 25-826 (2001 03 23)
+Nr. IX-199, 2001 03 01,
+Žin., 2001, Nr. 25-826 (2001 03 23)
 Nr.
 X-691,
 2006-06-15, Žin., 2006, Nr. 73-2759 (2006-06-30), šis įstatymas skirtas
@@ -21829,10 +21852,10 @@ straipsnis.
 Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos
 ministerijos
 Valstybinė
-teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos nagrinėja
-šio kodekso 1581 straipsnyje, 159 straipsnio pirmojoje, antrojoje,
-trečiojoje, ketvirtojoje dalyse, 1591 straipsnio pirmojoje,
-antrojoje, trečiojoje, ketvirtojoje dalyse, 1592 straipsnio
+teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos
+nagrinėja šio kodekso 1581 straipsnyje, 159 straipsnio pirmojoje,
+antrojoje, trečiojoje, ketvirtojoje dalyse, 1591 straipsnio
+pirmojoje, antrojoje, trečiojoje, ketvirtojoje dalyse, 1592 straipsnio
 pirmojoje, antrojoje, trečiojoje, ketvirtojoje, penktojoje, šeštojoje,
 septintojoje, aštuntojoje dalyse, 1593, 1595, 1596,
 1891, 18912, 18915 straipsniuose numatytas
@@ -21951,8 +21974,8 @@ Nr. VIII-1543,
 Nr.
 IX-1049,
 2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
-Nr. XI-1142, 2010-11-18,
-Žin., 2010, Nr. 142-7257 (2010-12-04)
+Nr. XI-1142,
+2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04)
  
 2468
 straipsnis. Lietuvos vyriausiojo archyvaro tarnyba
@@ -21967,8 +21990,8 @@ jo įgalioti asmenys, valstybės archyvų direktoriai.
 Straipsnio pakeitimai: 
 Nr. I-1127, 95.12.14,
 Žin., 1995, Nr. 106-2350 (95.12.29)
-Nr. VIII-1543,
-00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543, 00.02.17,
+Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. XI-1866,
 2011-12-22, Žin., 2011, Nr. 163-7758 (2011-12-31), šiuo įstatymu įgyvendinami Europos
 Sąjungos teisės aktai, nurodyti šio įstatymo priede
@@ -21978,8 +22001,8 @@ straipsnis. Valstybės dokumentų technologinės apsaugos tarnyba prie Finansų
 ministerijos
      Valstybės
 dokumentų technologinės apsaugos tarnyba prie Finansų ministerijos nagrinėja
-šio kodekso 214(11) straipsnyje numatytų administracinių teisės
-pažeidimų bylas.
+šio kodekso 214(11) straipsnyje numatytų administracinių teisės pažeidimų
+bylas.
      Valstybės
 dokumentų technologinės apsaugos tarnybos prie Finansų ministerijos vardu
 nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines
@@ -22042,8 +22065,8 @@ Nr. I-721, 94.12.21,
 Žin., 1995, Nr. 3-36 (95.01.06) 
 Nr. I-1174, 96.01.18,
 Žin., 1996, Nr. 9-218 (96.01.31)
-Nr. VIII-1543,
-00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543, 00.02.17,
+Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-2153,
 2004-04-22, Žin., 2004, Nr. 68-2368 (2004-04-29)
 Nr. XI-1866,
@@ -22097,8 +22120,8 @@ Nr. VIII-432, 97.10.07,
 Žin., 1997, Nr. 94-2358 (97.10.17)
 Nr. VIII-545, 97.12.02,
 Žin., 1997, Nr. 116-2954 (97.12.19)
-Nr. VIII-1543,
-00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543, 00.02.17,
+Žin., 2000, Nr. 22-552 (00.03.15)
 Nr.
 IX-1049,
 2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
@@ -22126,8 +22149,7 @@ tarnyba nagrinėja šio kodekso 1713 straipsnio pirmojoje dalyje
 numatytų administracinių teisės pažeidimų bylas.
 Viešųjų pirkimų
 tarnybos vardu nagrinėti administracinių teisės pažeidimų bylas ir skirti
-administracines nuobaudas turi teisę šios tarnybos direktorius ir jo
-pavaduotojas.
+administracines nuobaudas turi teisę šios tarnybos direktorius ir jo pavaduotojas.
 Kodeksas papildytas straipsniu:
 Nr. VIII-1278,
 99.07.01, Žin., 1999, Nr. 66-2111 (99.07.30)
@@ -22269,9 +22291,8 @@ padaręs priešingą teisei veikimą arba neveikimą asmuo yra nepakaltinamumo
 būsenoje;
      4) kai
 asmuo veikė būtinojo reikalingumo arba būtinosios ginties atveju;
-     5) kai
-priimamas amnestijos aktas, jeigu jis panaikina administracinės nuobaudos
-skyrimą;
+     5) kai priimamas
+amnestijos aktas, jeigu jis panaikina administracinės nuobaudos skyrimą;
      6) kai
 panaikinamas administracinę atsakomybę nustatantis aktas;
      7) kai iki
@@ -22331,8 +22352,8 @@ pridėti prie bylos ne lietuvių kalba surašytus dokumentus. Tokiu atveju,
 nagrinėjant bylą, jeigu prireikia, turi būti užtikrintas dokumentų vertimas į
 lietuvių kalbą.
 Straipsnio pakeitimai: 
-Nr. I-2589, 1992.05.26, Žin.,
-1992, Nr. 21-610
+Nr. I-2589, 1992.05.26,
+Žin., 1992, Nr. 21-610
 Nr. VIII-1931,
 00.09.19, Žin., 2000, Nr. 85-2570 (00.10.11)
  
@@ -22370,32 +22391,32 @@ Nr. VIII-1543,
 straipsnis. Įrodymai
 Įrodymai
 administracinio teisės pažeidimo byloje yra bet kurie faktiniai duomenys,
-kuriais remdamiesi organai (pareigūnai) įstatymo numatyta tvarka nustato, ar yra
-padarytas administracinis teisės pažeidimas, ar jo nėra, ar dėl jo padarymo tas
-asmuo kaltas, ir kitokias aplinkybes, turinčias reikšmės bylai teisingai
+kuriais remdamiesi organai (pareigūnai) įstatymo numatyta tvarka nustato, ar
+yra padarytas administracinis teisės pažeidimas, ar jo nėra, ar dėl jo padarymo
+tas asmuo kaltas, ir kitokias aplinkybes, turinčias reikšmės bylai teisingai
 išspręsti.
 Šie duomenys
-nustatomi tokiomis priemonėmis: administracinio teisės pažeidimo protokolu, nuotraukomis,
-garso ar vaizdo įrašais, liudytojų parodymais, nukentėjusio ir patraukto
-administracinėn atsakomybėn asmens paaiškinimais, eksperto išvada, specialisto
-paaiškinimais, daiktiniais įrodymais, daiktų ir dokumentų paėmimo protokolu,
-taip pat kitokiais dokumentais.
+nustatomi tokiomis priemonėmis: administracinio teisės pažeidimo protokolu,
+nuotraukomis, garso ar vaizdo įrašais, liudytojų parodymais, nukentėjusio ir
+patraukto administracinėn atsakomybėn asmens paaiškinimais, eksperto išvada,
+specialisto paaiškinimais, daiktiniais įrodymais, daiktų ir dokumentų paėmimo
+protokolu, taip pat kitokiais dokumentais.
 Įrodymus renka,
 prireikus ekspertą ar specialistą skiria pareigūnai, turintys teisę surašyti
-administracinio teisės pažeidimo protokolą, taip pat administracinio teisės
-pažeidimo bylą nagrinėjantis organas (pareigūnas).
+administracinio teisės pažeidimo protokolą, taip pat administracinio teisės pažeidimo
+bylą nagrinėjantis organas (pareigūnas).
 Straipsnio pakeitimai:
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. VIII-1931,
 00.09.19, Žin., 2000, Nr. 85-2570 (00.10.11)
  
-     257 straipsnis.
-Įrodymų įvertinimas
+     257
+straipsnis. Įrodymų įvertinimas
      Organas
 (pareigūnas) įvertina įrodymus pagal vidinį savo įsitikinimą, pagrįstą
-visapusišku, pilnutiniu ir objektyviu visų bylos aplinkybių viseto
-išnagrinėjimu, vadovaudamasis įstatymu ir teisine sąmone.
+visapusišku, pilnutiniu ir objektyviu visų bylos aplinkybių viseto išnagrinėjimu,
+vadovaudamasis įstatymu ir teisine sąmone.
 Straipsnio pakeitimai: 
 Nr. I-2589, 1992.05.26,
 Žin., 1992, Nr. 21-610
@@ -22425,9 +22446,10 @@ Nr. XI-1142,
 straipsnis. Medžiagos perdavimas prokurorui, parengtinio tardymo arba 
 kvotos
 organui
-     Jeigu nagrinėdamas
-bylą organas (pareigūnas) įsitikina, kad pažeidimas turi nusikaltimo požymių,
-jis perduoda medžiagą prokurorui, parengtinio tardymo arba kvotos organui.
+     Jeigu
+nagrinėdamas bylą organas (pareigūnas) įsitikina, kad pažeidimas turi
+nusikaltimo požymių, jis perduoda medžiagą prokurorui, parengtinio tardymo arba
+kvotos organui.
  
 Aštuonioliktasis
 skirsnis
@@ -22502,29 +22524,30 @@ inspekcijos pareigūno ar aplinkos apsaugos valstybinės kontrolės pareigūno
 uždėtos plombos sužalojimą arba nuplėšimą), 214 straipsnis, 2148
 straipsnis – dėl įstatymų uždraustos informacijos ir informacijos apie įstatymų
 uždraustą ar neteisėtą veiklą skleidimo);
-Aplinkos ministerijos
-organų pareigūnai (424 straipsnio pirmoji ir antroji dalys, 45, 49
-straipsniai, 513 straipsnio penktoji, šeštoji, septintoji,
-aštuntoji, devintoji, dešimtoji, vienuoliktoji ir dvyliktoji dalys, 515
-straipsnio trečioji dalis, 518, 519 straipsniai, 5110
-straipsnio trečioji dalis, 5114 straipsnio antroji dalis, 5115
-straipsnis, 5118 straipsnio septintoji, aštuntoji, devintoji,
-dešimtoji ir vienuoliktoji dalys, 5119 straipsnio penktoji, šeštoji
-ir septintoji dalys, 5120 straipsnio trečioji, ketvirtoji ir
-penktoji dalys, 5121 straipsnio ketvirtoji dalis, 5123
-straipsnio šeštoji, devintoji, dvyliktoji, aštuonioliktoji ir devynioliktoji
-dalys, 5126 straipsnis, 56 straipsnio septintoji, aštuntoji,
-devintoji, dešimtoji, vienuoliktoji, dvyliktoji ir tryliktoji dalys, 62
-straipsnio trečioji, ketvirtoji, penktoji, septintoji, aštuntoji, devintoji ir
-dešimtoji dalys, 621 straipsnio trečioji, ketvirtoji, penktoji,
-septintoji, aštuntoji, devintoji ir dešimtoji dalys, 622 straipsnio
+Aplinkos
+ministerijos organų pareigūnai (424 straipsnio pirmoji ir antroji
+dalys, 45, 49 straipsniai, 513 straipsnio penktoji, šeštoji,
+septintoji, aštuntoji, devintoji, dešimtoji, vienuoliktoji ir dvyliktoji dalys,
+515 straipsnio trečioji dalis, 518, 519
+straipsniai, 5110 straipsnio trečioji dalis, 5114
+straipsnio antroji dalis, 5115 straipsnis, 5118
+straipsnio septintoji, aštuntoji, devintoji, dešimtoji ir vienuoliktoji dalys,
+5119 straipsnio penktoji, šeštoji ir septintoji dalys, 5120
+straipsnio trečioji, ketvirtoji ir penktoji dalys, 5121 straipsnio
+ketvirtoji dalis, 5123 straipsnio šeštoji, devintoji, dvyliktoji,
+aštuonioliktoji ir devynioliktoji dalys, 5126 straipsnis, 56
+straipsnio septintoji, aštuntoji, devintoji, dešimtoji, vienuoliktoji,
+dvyliktoji ir tryliktoji dalys, 62 straipsnio trečioji, ketvirtoji, penktoji,
+septintoji, aštuntoji, devintoji ir dešimtoji dalys, 621 straipsnio
 trečioji, ketvirtoji, penktoji, septintoji, aštuntoji, devintoji ir dešimtoji
-dalys, 841 straipsnio trečioji, ketvirtoji, dešimtoji, tryliktoji,
-keturioliktoji, šešioliktoji, septynioliktoji ir aštuonioliktoji dalys, 842
-straipsnio pirmoji dalis, 891, 892, 162, 1899,
-1932 straipsniai, 2141 straipsnio trečioji ir ketvirtoji
-dalys – dėl išorinės reklamos saugomose teritorijose įrengimo reikalavimų ir
-draudimų pažeidimų);
+dalys, 622 straipsnio trečioji, ketvirtoji, penktoji, septintoji,
+aštuntoji, devintoji ir dešimtoji dalys, 841 straipsnio trečioji,
+ketvirtoji, dešimtoji, tryliktoji, keturioliktoji, šešioliktoji,
+septynioliktoji ir aštuonioliktoji dalys, 842 straipsnio pirmoji
+dalis, 891, 892, 162, 1899, 1932
+straipsniai, 2141 straipsnio trečioji ir ketvirtoji dalys – dėl
+išorinės reklamos saugomose teritorijose įrengimo reikalavimų ir draudimų
+pažeidimų);
 Lietuvos
 Respublikos Vyriausybės įgaliotos atlikti auditorių ir audito įmonių viešąją
 priežiūrą įstaigos įgalioti asmenys (17315 straipsnis);
@@ -22592,9 +22615,6 @@ Valstybinės
 vaistų kontrolės tarnybos prie Sveikatos apsaugos ministerijos įgalioti
 pareigūnai (441, 443, 444, 445, 446
 straipsniai);
-Valstybinės
-medicininio audito inspekcijos pareigūnai (431, 432, 433,
-434 straipsniai);
 Nacionalinio
 transplantacijos biuro prie Lietuvos Respublikos sveikatos apsaugos
 ministerijos pareigūnai (4311, 4312 straipsniai);
@@ -22652,8 +22672,7 @@ modifikuotų produktų tiekimo rinkai, naudojimo pažeidimų), 892, 1631,
 (išskyrus išorinės reklamos įrengimo reikalavimų ir draudimų pažeidimus), 2148
 straipsnis – dėl reklamos skleidimo reikalavimų pažeidimų);
 Valstybinės
-kainų ir energetikos kontrolės komisijos pareigūnai (997
-straipsnis);
+kainų ir energetikos kontrolės komisijos pareigūnai (997 straipsnis);
 Valstybinės ne
 maisto produktų inspekcijos prie Ūkio ministerijos pareigūnai (841
 straipsnio ketvirtoji, dešimtoji, tryliktoji, šešioliktoji ir septynioliktoji
@@ -22662,8 +22681,8 @@ rinkai, draudimo fluorintas šiltnamio dujas ir jų preparatus naudoti
 automobilių padangoms pildyti pažeidimų, 15214, 1631, 1632,
 1715 straipsniai, 1851 straipsnio antroji dalis, 1896
 straipsnis, 2141 straipsnio ketvirtoji dalis (išskyrus išorinės
-reklamos įrengimo reikalavimų ir draudimų pažeidimus), 2148
-straipsnis – dėl reklamos skleidimo reikalavimų pažeidimų);
+reklamos įrengimo reikalavimų ir draudimų pažeidimus), 
+2148 straipsnis – dėl reklamos skleidimo reikalavimų pažeidimų);
 Lietuvos
 metrologijos inspekcijos pareigūnai (1897 straipsnio ketvirtoji
 dalis, 18910 straipsnis);
@@ -22694,14 +22713,13 @@ bazes), audiovizualinio kūrinio ar fonogramos neteisėtų kopijų importavimo,
 eksportavimo ar gabenimo siekiant turtinės naudos, 21427
 straipsnis);
 Valstybinės
-teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos
-pareigūnai (159 straipsnio penktoji, šeštoji, septintoji, aštuntoji, devintoji,
-dešimtoji, vienuoliktoji, dvyliktoji dalys, 1591 straipsnio
-penktoji, šeštoji, septintoji, aštuntoji, devintoji, dešimtoji, vienuoliktoji,
-dvyliktoji dalys, 1592 straipsnio devintoji, dešimtoji,
-vienuoliktoji, dvyliktoji dalys, 1594, 160 straipsniai, 1894 straipsnio
-pirmoji, antroji ir trečioji dalys, 18913, 18916
-straipsniai);
+teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos pareigūnai
+(159 straipsnio penktoji, šeštoji, septintoji, aštuntoji, devintoji, dešimtoji,
+vienuoliktoji, dvyliktoji dalys, 1591 straipsnio penktoji, šeštoji,
+septintoji, aštuntoji, devintoji, dešimtoji, vienuoliktoji, dvyliktoji dalys,
+1592 straipsnio devintoji, dešimtoji, vienuoliktoji, dvyliktoji
+dalys, 1594, 160 straipsniai, 1894 straipsnio pirmoji,
+antroji ir trečioji dalys, 18913, 18916 straipsniai);
 Priešgaisrinės
 apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos pareigūnai
 (186 straipsnis, 187 straipsnio antroji dalis, 18820, 1921 straipsniai,
@@ -22718,9 +22736,9 @@ statistiką tvarkančių institucijų ir įstaigų pareigūnai (1732
 straipsnio antroji ir trečioji dalys);
 valstybiniai
 miškų pareigūnai ir valstybiniai saugomų teritorijų pareigūnai (45, 49, 519
-straipsniai, 62 straipsnio trečioji, ketvirtoji, penktoji, septintoji,
-aštuntoji, devintoji ir dešimtoji dalys, 621 straipsnio trečioji,
-ketvirtoji, penktoji, septintoji, aštuntoji, devintoji ir dešimtoji dalys, 622
+straipsniai, 62 straipsnio trečioji, ketvirtoji, penktoji, septintoji, aštuntoji,
+devintoji ir dešimtoji dalys, 621 straipsnio trečioji, ketvirtoji,
+penktoji, septintoji, aštuntoji, devintoji ir dešimtoji dalys, 622
 straipsnio trečioji, ketvirtoji, penktoji, septintoji, aštuntoji, devintoji ir
 dešimtoji dalys, 162 straipsnis, 1895 straipsnio antroji dalis, 2079
 straipsnio trečioji dalis – dėl nustatytos išorinės politinės reklamos įrengimo
@@ -22742,9 +22760,9 @@ metrologijos inspekcijos pareigūno ar aplinkos apsaugos valstybinės kontrolės
 pareigūno uždėtos plombos sužalojimą arba nuplėšimą);
 žurnalistų
 etikos inspektorius (18713 straipsnis, 2146 straipsnis,
-2147 straipsnio pirmoji ir antroji dalys, 21414
-straipsnis – dėl asmens duomenų tvarkymo visuomenės informavimo priemonėse
-pažeidžiant Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymą);
+2147 straipsnio pirmoji ir antroji dalys, 21414 straipsnis
+– dėl asmens duomenų tvarkymo visuomenės informavimo priemonėse pažeidžiant
+Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymą);
 Seimo
 kontrolieriai (1873 straipsnis);
 Seimo
@@ -22773,14 +22791,14 @@ Nacionalinės
 žemės tarnybos prie Žemės ūkio ministerijos pareigūnai (45 straipsnis – dėl
 savavališko žemės užėmimo ir vengimo ją grąžinti);
 Lietuvos
-Respublikos konkurencijos tarybos įgalioti pareigūnai (18911 straipsnis,
-2141 straipsnio pirmoji ir antroji dalys);
+Respublikos konkurencijos tarybos įgalioti pareigūnai (18911
+straipsnis, 2141 straipsnio pirmoji ir antroji dalys);
 vaiko teisių
 apsaugos kontrolierius (18710 straipsnis);
 Valstybinės
 vartotojų teisių apsaugos tarnybos ir Lietuvos Respublikos Vyriausybės įgaliotų
-kontroliuoti Lietuvos Respublikos reklamos įstatyme nustatytų reklamos
-naudojimo draudimų ir reikalavimų įgyvendinimą institucijų pareigūnai (18914
+kontroliuoti Lietuvos Respublikos reklamos įstatyme nustatytų reklamos naudojimo
+draudimų ir reikalavimų įgyvendinimą institucijų pareigūnai (18914
 straipsnis);
 Ryšių
 reguliavimo tarnybos įgalioti pareigūnai (1541, 1542
@@ -22804,8 +22822,8 @@ aviacijos administracijos pareigūnai (1161 straipsnio trečioji
 dalis, 1164 straipsnis, 18712 straipsnis – dėl
 susisiekimo sankcijų pažeidimo);
 Valstybinės
-akreditavimo sveikatos priežiūros veiklai tarnybos valstybės tarnautojai (4310,
-4313 straipsniai);
+akreditavimo sveikatos priežiūros veiklai tarnybos valstybės tarnautojai (431, 432, 433,
+434, 4310, 4313 straipsniai);
 Kūno kultūros ir
 sporto departamento prie Lietuvos Respublikos Vyriausybės tam įgalioti asmenys
 (18712 straipsnis – dėl visuomeninių sankcijų pažeidimo);
@@ -23206,8 +23224,8 @@ IX-1702,
 Nr. IX-1758,
 2003-10-14, Žin., 2003, Nr. 102-4581 (2003-10-31)
 Nr. IX-1824,
-2003-11-13, Žin., 2003, Nr. 112-4997 (2003-11-28), šis Įstatymas skirtas
-užtikrinti Europos Sąjungos teisės aktų, nurodytų šio Įstatymo priede, taikymą
+2003-11-13, Žin., 2003, Nr. 112-4997 (2003-11-28), šis Įstatymas skirtas užtikrinti
+Europos Sąjungos teisės aktų, nurodytų šio Įstatymo priede, taikymą
 Nr. IX-1995,
 2004-01-29, Žin., 2004, Nr. 25-763 (2004-02-14)
 Nr. IX-2153,
@@ -23338,6 +23356,8 @@ Nr. XI-1968,
 Nr. XI-2009,
 2012-05-10, Žin., 2012, Nr. 57-2832 (2012-05-19) , šiuo įstatymu įgyvendinamas
 Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede
+Nr. XI-2374,
+2012-11-06, Žin., 2012, Nr. 132-6695 (2012-11-15)
  
 260
 straipsnis. Administracinio teisės pažeidimo protokolo turinys
@@ -23348,10 +23368,10 @@ atsakomybėn traukiamą asmenį; administracinio teisės pažeidimo padarymo vie
 laikas ir esmė; šio kodekso straipsnis, straipsnio dalis ar kitas atsakomybę už
 šį pažeidimą nustatantis teisės aktas, kurio reikalavimus pažeidė asmuo;
 liudytojų ir nukentėjusiųjų, jeigu jų yra, vardai, pavardės, adresai;
-administracinėn atsakomybėn traukiamo asmens pasiaiškinimas; administracinėn
-atsakomybėn traukiamo asmens prašymas nerašyti administracinio nurodymo, jei
-asmuo dėl to kreipėsi į protokolą rašantį pareigūną; kitokios žinios, būtinos
-bylai išspręsti.
+administracinėn atsakomybėn traukiamo asmens pasiaiškinimas; administracinėn atsakomybėn
+traukiamo asmens prašymas nerašyti administracinio nurodymo, jei asmuo dėl to
+kreipėsi į protokolą rašantį pareigūną; kitokios žinios, būtinos bylai
+išspręsti.
 Jeigu yra šio kodekso 2601 straipsnyje nurodyti pagrindai,
 pareigūnas į administracinio teisės pažeidimo protokolą įrašo administracinį
 nurodymą, kuriame turi būti: 
@@ -23388,11 +23408,11 @@ protokolą, administracinėn atsakomybėn traukiamam asmeniui išaiškinamos jo
 teisės ir pareigos, numatytos šio kodekso 272 straipsnyje, ir tai pažymima
 protokole.
 Kai protokolas
-surašomas administracinėn atsakomybėn traukiamam asmeniui nedalyvaujant,
-paaiškinimą dėl padaryto pažeidimo, taip pat pastabas dėl protokolo turinio šis
-asmuo turi teisę pateikti administracinio teisės pažeidimo bylos nagrinėjimo
-metu. Kitos administracinėn atsakomybėn traukiamo asmens teisės ir pareigos,
-numatytos šio kodekso 272 straipsnyje, išdėstomos protokole.
+surašomas administracinėn atsakomybėn traukiamam asmeniui nedalyvaujant, paaiškinimą
+dėl padaryto pažeidimo, taip pat pastabas dėl protokolo turinio šis asmuo turi
+teisę pateikti administracinio teisės pažeidimo bylos nagrinėjimo metu. Kitos
+administracinėn atsakomybėn traukiamo asmens teisės ir pareigos, numatytos šio
+kodekso 272 straipsnyje, išdėstomos protokole.
 Straipsnio pakeitimai: 
 Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132
@@ -23504,13 +23524,15 @@ terminas.
 Jeigu į administracinio teisės pažeidimo protokolą šio kodekso 2601
 straipsnio nustatytais pagrindais buvo įrašytas administracinis nurodymas ir
 administracinėn atsakomybėn traukiamas asmuo per šio kodekso 2601
-straipsnio pirmojoje dalyje nustatytą terminą administracinio nurodymo neįvykdė,
-šis administracinis nurodymas laikomas negaliojančiu, o administracinio teisės
-pažeidimo protokolas per keturias darbo dienas nuo šio kodekso 2601
-straipsnio pirmojoje dalyje nustatyto termino pabaigos pasiunčiamas organui (pareigūnui), įgaliotam nagrinėti administracinio
-teisės pažeidimo bylą. Protokolas nesiunčiamas organui (pareigūnui),
-įgaliotam nagrinėti administracinio teisės pažeidimo bylą, jei administracinėn
-atsakomybėn traukiamas asmuo nustatytu laiku įvykdo administracinį nurodymą.
+straipsnio pirmojoje dalyje nustatytą terminą administracinio nurodymo
+neįvykdė, šis administracinis nurodymas laikomas negaliojančiu, o
+administracinio teisės pažeidimo protokolas per keturias darbo dienas nuo šio
+kodekso 2601 straipsnio pirmojoje dalyje nustatyto termino pabaigos
+pasiunčiamas organui (pareigūnui), įgaliotam
+nagrinėti administracinio teisės pažeidimo bylą. Protokolas nesiunčiamas
+organui (pareigūnui), įgaliotam nagrinėti
+administracinio teisės pažeidimo bylą, jei administracinėn atsakomybėn
+traukiamas asmuo nustatytu laiku įvykdo administracinį nurodymą.
 Administracinėn atsakomybėn traukiamas asmuo, kuriam rašomas
 administracinis nurodymas, gali kreiptis į administracinio teisės pažeidimo
 protokolą rašantį pareigūną su prašymu neįrašyti į protokolą administracinio
@@ -23528,11 +23550,10 @@ administracinį teisės pažeidimą, kurį padarė Seimo nariai, Ministras
 Pirmininkas, ministrai, Konstitucinio Teismo teisėjai, teisėjai, šis kodeksas
 numato administracinį areštą, protokolą surašę pareigūnai, prieš šio straipsnio
 pirmojoje dalyje nustatyta tvarka perduodami bylą teismui ar kitai bylą
-nagrinėjančiai institucijai, ne vėliau kaip per tris dienas kreipiasi į
-generalinį prokurorą dėl išankstinio Seimo sutikimo suvaržyti šių asmenų
-laisvę, o tarp Seimo sesijų – dėl Respublikos Prezidento išankstinio sutikimo
-suvaržyti Ministro Pirmininko, ministrų, Konstitucinio Teismo teisėjų, teisėjų
-laisvę.
+nagrinėjančiai institucijai, ne vėliau kaip per tris dienas kreipiasi į generalinį
+prokurorą dėl išankstinio Seimo sutikimo suvaržyti šių asmenų laisvę, o tarp
+Seimo sesijų – dėl Respublikos Prezidento išankstinio sutikimo suvaržyti
+Ministro Pirmininko, ministrų, Konstitucinio Teismo teisėjų, teisėjų laisvę.
 Straipsnio pakeitimai: 
 I-501, 1985.11.28, Žin., 1985,
 Nr. 33-370 
@@ -23575,13 +23596,13 @@ straipsniuose, 2147 straipsnio pirmojoje ir antrojoje dalyse, 21414
 straipsnyje – dėl asmens duomenų tvarkymo visuomenės informavimo priemonėse
 pažeidžiant Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymą, 21419
 straipsnio pirmojoje ir antrojoje dalyse, tais atvejais, kai administracinio
-teisės pažeidimo protokolo negalima surašyti pažeidimo padarymo vietoje ir pagal
-įgalioto šią bylą nagrinėti arba surašyti šioje byloje protokolą organo
+teisės pažeidimo protokolo negalima surašyti pažeidimo padarymo vietoje ir
+pagal įgalioto šią bylą nagrinėti arba surašyti šioje byloje protokolą organo
 (pareigūno) šaukimą administracinėn atsakomybėn traukiamas asmuo vengia
 atvykti, o pagal tokio organo (pareigūno) pranešimą administracinio teisės
 pažeidimo protokolui surašyti policijos ar Viešojo saugumo tarnybos pareigūnas
-administracinėn atsakomybėn traukiamo asmens negali pristatyti į minėto organo
-(pareigūno) buveinę. Administracinio teisės pažeidimo byla dėl šio kodekso 21419
+administracinėn atsakomybėn traukiamo asmens negali pristatyti į minėto organo (pareigūno)
+buveinę. Administracinio teisės pažeidimo byla dėl šio kodekso 21419
 straipsnio pirmojoje ir antrojoje dalyse numatytų pažeidimų pradedama nagrinėti
 nesurašius protokolo, o dėl kitų šioje dalyje nurodytuose straipsniuose
 numatytų pažeidimų – žurnalistų etikos inspektoriaus pareiškimu.
@@ -23619,8 +23640,8 @@ Nr. VIII-1543,
 Nr.
 VIII-1603,
 00.03.30, Žin., 2000, Nr. 32-888 (00.04.19)
-Nr. IX-726,
-2002-01-22, Žin., 2002, Nr. 13-477 (2002-02-06)
+Nr. IX-726, 2002-01-22,
+Žin., 2002, Nr. 13-477 (2002-02-06)
 Nr.
 IX-1049,
 2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
@@ -23644,8 +23665,8 @@ priede
 Nr. X-1675,
 2008-07-03, Žin., 2008, Nr. 81-3181 (2008-07-17), šiuo įstatymu
 įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
-Nr. XI-349,
-2009-07-15, Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas
+Nr. XI-349, 2009-07-15,
+Žin., 2009, Nr. 89-3805 (2009-07-28), šis įstatymas skirtas
 užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo priede,
 įgyvendinimą
 Nr. XI-1142,
@@ -23653,9 +23674,9 @@ Nr. XI-1142,
 nebaigtų administracinių teisės pažeidimų bylų, taip pat administracinių teisės
 pažeidimų, kurių protokolai surašyti iki šio įstatymo įsigaliojimo, bylų
 teisena vyksta iki šio įstatymo įsigaliojimo galiojusia tvarka
-Nr. XI-1223, 2010-12-14,
-Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos
-Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XI-1223,
+2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
+Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 263
 straipsnis. Administracinėn atsakomybėn traukiamo asmens pristatymas 
@@ -23669,10 +23690,10 @@ pažeidimo padarymo vietoje ir pagal įgalioto šią bylą nagrinėti arba sura�
 traukiamas asmuo vengia atvykti, pagal tokio organo (pareigūno) pranešimą
 administracinio teisės pažeidimo protokolui surašyti policijos ar Viešojo
 saugumo tarnybos pareigūnas administracinėn atsakomybėn traukiamą asmenį gali
-pristatyti į minėto organo (pareigūno) buveinę. Jeigu administracinėn atsakomybėn
-traukiamo asmens buvimo vieta nežinoma, organas (pareigūnas) gali kreiptis į
-teritorinę policijos įstaigą dėl administracinėn atsakomybėn traukiamo asmens
-paieškos paskelbimo.
+pristatyti į minėto organo (pareigūno) buveinę. Jeigu administracinėn
+atsakomybėn traukiamo asmens buvimo vieta nežinoma, organas (pareigūnas) gali
+kreiptis į teritorinę policijos įstaigą dėl administracinėn atsakomybėn
+traukiamo asmens paieškos paskelbimo.
 Pažeidus
 transporto priemonių naudojimo taisykles, eismo tvarkos apsaugos ir saugumo
 taisykles, krovinių išsaugojimo transporte užtikrinimo taisykles,
@@ -23685,9 +23706,9 @@ Padarius miško
 pažeidimus arba pažeidus medžioklės taisykles, žvejybos ir žuvų išteklių
 išsaugojimo taisykles, administracinėn atsakomybėn traukiamą asmenį į policiją
 arba savivaldybės seniūnijos kaimo vietovėje patalpas protokolui surašyti gali
-pristatyti valstybiniai miškų pareigūnai, aplinkos apsaugos valstybinės kontrolės
-pareigūnai, Žuvininkystės tarnybos prie Lietuvos Respublikos žemės ūkio
-ministerijos žuvininkystės kontrolės pareigūnai, taip pat kiti Lietuvos
+pristatyti valstybiniai miškų pareigūnai, aplinkos apsaugos valstybinės
+kontrolės pareigūnai, Žuvininkystės tarnybos prie Lietuvos Respublikos žemės
+ūkio ministerijos žuvininkystės kontrolės pareigūnai, taip pat kiti Lietuvos
 Respublikos įstatymų tam įgalioti asmenys, jeigu administracinėn atsakomybėn
 traukiamo asmens asmenybė negali būti nustatyta pažeidimo vietoje.
 Padarius
@@ -23708,8 +23729,8 @@ Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
 Nr. I-830, 1990.12.04,
 Žin., 1990, Nr. 36-862 
-Nr. I-2589, 1992.05.26,
-Žin., 1992, Nr. 21-610 
+Nr. I-2589, 1992.05.26, Žin.,
+1992, Nr. 21-610 
 Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132 
 Nr. I-957, 95.06.20,
@@ -23731,9 +23752,9 @@ užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede,
 Nr. X-815, 2006-09-19,
 Žin., 2006, Nr. 102-3937 (2006-09-26, šio įstatymo nuostatos yra suderintos su
 šio įstatymo priede nurodytais Europos Sąjungos teisės aktais
-Nr. XI-1223,
-2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
-Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XI-1223, 2010-12-14,
+Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
 Devynioliktasis
 skirsnis
@@ -23820,8 +23841,8 @@ alkoholinių gėrimų gėrimą viešosiose vietose arba girto pasirodymą viešo
 vietose, įžeidžiant žmogaus orumą ir visuomeninę dorovę, tais atvejais, kai yra
 pagrindo manyti, kad asmenys verčiasi prostitucija, už kelių eismo taisyklių,
 medžioklės, žvejybos ir žuvų išteklių apsaugos taisyklių pažeidimą bei kitus
-gyvūnijos apsaugos ir naudojimo įstatymų pažeidimus, taip pat kitokiais Lietuvos
-Respublikos įstatymų tiesiogiai numatytais atvejais;
+gyvūnijos apsaugos ir naudojimo įstatymų pažeidimus, taip pat kitokiais
+Lietuvos Respublikos įstatymų tiesiogiai numatytais atvejais;
 2)
 Finansinių nusikaltimų tyrimo tarnybos prie Lietuvos Respublikos vidaus reikalų
 ministerijos pareigūnai – už operacijų užsienio valiuta tvarkos pažeidimą;
@@ -23855,10 +23876,10 @@ Nr. I-545, 1994.07.18,
 Žin., 1994, Nr. 58-1132
 Nr. I-1203, 96.02.13,
 Žin., 1996, Nr. 18-460 (96.02.28)
-Nr. VIII-2014,
-00.10.10, Žin., 2000, Nr. 92-2866 (00.10.31)
-Nr. IX-818, 2002-03-28,
-Žin., 2002, Nr. 33-1252 (2002-03-30)
+Nr. VIII-2014, 00.10.10,
+Žin., 2000, Nr. 92-2866 (00.10.31)
+Nr. IX-818,
+2002-03-28, Žin., 2002, Nr. 33-1252 (2002-03-30)
 Nr.
 IX-1049,
 2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
@@ -23988,9 +24009,9 @@ vietose, o išnagrinėjus bylą, remiantis priimtu nutarimu (sprendimu), jie
 nustatyta tvarka konfiskuojami arba grąžinami teisėtam valdytojui, arba
 sunaikinami. Naminė degtinė ir kiti naminiai stiprūs alkoholiniai gėrimai,
 nedenatūruotas etilo alkoholis, denatūruotas etilo alkoholis ir jų skiediniai
-(mišiniai), jiems gaminti aparatai išnagrinėjus bylą sunaikinami. Daiktai, kurie
-gali greitai sugesti ar prarasti vertę arba kurių saugojimas, priežiūra ir
-laikymas susiję su aiškiai per didelėmis išlaidomis, jeigu negali būti
+(mišiniai), jiems gaminti aparatai išnagrinėjus bylą sunaikinami. Daiktai,
+kurie gali greitai sugesti ar prarasti vertę arba kurių saugojimas, priežiūra
+ir laikymas susiję su aiškiai per didelėmis išlaidomis, jeigu negali būti
 grąžinami teisėtam valdytojui, administracinio teisės pažeidimo bylą
 nagrinėjančio organo (pareigūno) nutarimu realizuojami Lietuvos Respublikos
 civilinio proceso kodekso areštuotam turtui realizuoti nustatyta tvarka.
@@ -24024,15 +24045,15 @@ Padarius šio kodekso 165, 1671, 1672,
 176, 1761, 194, 195, 196, 199, 1991 straipsniuose
 numatytus pažeidimus, policijos darbuotojai turi teisę paimti šiuose
 straipsniuose išvardytus ginklus, šaudmenis, civilines pirotechnikos priemones,
-ginklų taikiklius ar kitus priedėlius, kuriuos Ginklų ir šaudmenų kontrolės įstatymas
-su tokios rūšies ginklais draudžia naudoti, iki bylos išnagrinėjimo ir tai
-įrašoma protokole nurodant paimto ginklo markę ar modelį, kalibrą, seriją ir
-numerį, šaudmenų kiekį ir rūšį, civilinių pirotechnikos priemonių, ginklų
-taikiklių ar kitų priedėlių, kuriuos Ginklų ir šaudmenų kontrolės įstatymas su
-tokios rūšies ginklais draudžia naudoti, kiekį ir klasę. Kai administracinį
-teisės pažeidimą padaro asmuo, eidamas tarnybines pareigas, daiktų paėmimas,
-asmens apžiūra ir daiktų patikrinimas taikomas tik tais atvejais, kai
-atidėlioti negalima.
+ginklų taikiklius ar kitus priedėlius, kuriuos Ginklų ir šaudmenų kontrolės
+įstatymas su tokios rūšies ginklais draudžia naudoti, iki bylos išnagrinėjimo
+ir tai įrašoma protokole nurodant paimto ginklo markę ar modelį, kalibrą,
+seriją ir numerį, šaudmenų kiekį ir rūšį, civilinių pirotechnikos priemonių,
+ginklų taikiklių ar kitų priedėlių, kuriuos Ginklų ir šaudmenų kontrolės
+įstatymas su tokios rūšies ginklais draudžia naudoti, kiekį ir klasę. Kai
+administracinį teisės pažeidimą padaro asmuo, eidamas tarnybines pareigas,
+daiktų paėmimas, asmens apžiūra ir daiktų patikrinimas taikomas tik tais
+atvejais, kai atidėlioti negalima.
 Padarius šio
 kodekso 188(5) straipsnyje numatytus pažeidimus, policijos
 pareigūnai turi teisę paimti Lietuvos Respublikos ordiną, medalį ar kitokio
@@ -24100,17 +24121,17 @@ Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-316, 2001 05 10, Žin., 2001, Nr.
 45-1571 (2001 05 30)
-Lietuvos Respublikos
-Konstitucinis Teismas, Nutarimas
+Lietuvos Respublikos Konstitucinis
+Teismas, Nutarimas
 Nr. 11/2000, 2001-10-02, Žin.,
 2001, Nr. 85-2977 (2001-10-05)
-Nr. IX-1260,
-2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
+Nr. IX-1260, 2002-12-10,
+Žin., 2002, Nr. 124-5623 (2002-12-27)
 Nr.
-IX-1702, 2003-07-04,
-Žin., 2003, Nr. 74-3421 (2003-07-25)
-Nr. IX-1995,
-2004-01-29, Žin., 2004, Nr. 25-763 (2004-02-14)
+IX-1702,
+2003-07-04, Žin., 2003, Nr. 74-3421 (2003-07-25)
+Nr. IX-1995, 2004-01-29,
+Žin., 2004, Nr. 25-763 (2004-02-14)
 Nr. IX-2153,
 2004-04-22, Žin., 2004, Nr. 68-2368 (2004-04-29)
 Nr. X-249, 2005-06-16,
@@ -24142,8 +24163,8 @@ naudojamus apgyvendinimui, nakvynei, maitinimui ar kitiems tikslams vagonėlius
 ar kitus kilnojamuosius objektus arba įrenginius Lietuvos Respublikos
 Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 Kodeksas papildytas straipsniu:
-Nr. XI-1407, 2011-05-24,
-Žin., 2011, Nr. 72-3463 (2011-06-14)
+Nr. XI-1407,
+2011-05-24, Žin., 2011, Nr. 72-3463 (2011-06-14)
  
 270
 straipsnis. Nušalinimas nuo transporto priemonių vairavimo ir patikrinimas 
@@ -24152,13 +24173,13 @@ ar apsvaigimui nuo narkotinių priemonių nustatyti
 Vairuojantys
 transporto priemones, vidaus vandenų transporto priemones vairuotojai,
 civilinės aviacijos specialistai, geležinkelių
-riedmenis valdantys (atsakingi už valdymą) arba kitokie asmenys, jeigu
-yra pakankamas pagrindas manyti, kad jie neblaivūs ar apsvaigę nuo narkotinių,
+riedmenis valdantys (atsakingi už valdymą) arba kitokie asmenys, jeigu yra
+pakankamas pagrindas manyti, kad jie neblaivūs ar apsvaigę nuo narkotinių,
 psichotropinių ar kitų psichiką veikiančių medžiagų turi būti nušalinami nuo
 transporto priemonių, vidaus vandenų transporto priemonių vairavimo,
 geležinkelio riedmenų valdymo arba kitų pareigų ir nustatyta tvarka turi būti
-patikrinama jų neblaivumo (girtumo) ar apsvaigimo nuo narkotinių, psichotropinių
-ar kitų psichiką veikiančių medžiagų būsena.
+patikrinama jų neblaivumo (girtumo) ar apsvaigimo nuo narkotinių,
+psichotropinių ar kitų psichiką veikiančių medžiagų būsena.
 Nurodyti asmenys
 siunčiami neblaivumo ar apsvaigimo nuo narkotinių priemonių būsenai nustatyti
 ir jie tikrinami Lietuvos Respublikos vidaus reikalų ministerijos, Sveikatos
@@ -24243,10 +24264,9 @@ Nr. IX-316, 2001 05 10, Žin., 2001, Nr.
 45-1571 (2001 05 30)
 Nr. IX-1260,
 2002-12-10, Žin., 2002, Nr. 124-5623 (2002-12-27)
-Nr. X-1381,
-2007-12-18, Žin., 2007, Nr. 138-5644 (2007-12-29), šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede
+Nr. X-1381, 2007-12-18,
+Žin., 2007, Nr. 138-5644 (2007-12-29), šiuo įstatymu
+įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
 Nr. XI-1223,
 2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
 Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
@@ -24264,8 +24284,8 @@ atsakomybėn traukiamas asmuo turi teisę susipažinti su bylos medžiaga, duoti
 paaiškinimus, pateikti įrodymus, pareikšti prašymus; nagrinėjant bylą, naudotis
 teisine advokato ar kito įgalioto atstovo, turinčio aukštąjį teisinį
 universitetinį arba jam prilyginamą išsilavinimą, pagalba; kalbėti
-gimtąja kalba arba ta kalba, kurią jis moka, ir naudotis vertėjo paslaugomis, jeigu
-nemoka lietuvių kalbos; apskųsti nutarimą byloje. Administracinio teisės
+gimtąja kalba arba ta kalba, kurią jis moka, ir naudotis vertėjo paslaugomis,
+jeigu nemoka lietuvių kalbos; apskųsti nutarimą byloje. Administracinio teisės
 pažeidimo byla nagrinėjama dalyvaujant administracinėn atsakomybėn traukiamam
 asmeniui. Nesant šio asmens, byla gali būti išnagrinėta tik tais atvejais, kai
 yra duomenų, jog jam laiku pranešta apie bylos nagrinėjimo vietą ir laiką, ir
@@ -24376,10 +24396,10 @@ kurias jis sužinojo tikinčiojo išpažinties metu;
 rengėjo ir (ar) platintojo savininkas, žurnalistas – dėl to, kas pagal Lietuvos
 Respublikos visuomenės informavimo įstatymą sudaro informacijos šaltinio
 paslaptį, išskyrus atvejus, kai šie asmenys patys sutinka duoti parodymus arba
-kai teismas priėmė sprendimą, kad būtina atskleisti informacijos šaltinio
-paslaptį dėl gyvybiškai svarbių ar kitų ypač reikšmingų visuomenės interesų,
-taip pat siekiant užtikrinti, kad būtų apgintos asmenų konstitucinės teisės ir
-laisvės ir kad būtų vykdomas teisingumas.
+kai teismas priėmė sprendimą, kad būtina atskleisti informacijos šaltinio paslaptį
+dėl gyvybiškai svarbių ar kitų ypač reikšmingų visuomenės interesų, taip pat
+siekiant užtikrinti, kad būtų apgintos asmenų konstitucinės teisės ir laisvės
+ir kad būtų vykdomas teisingumas.
 Asmuo gali atsisakyti duoti parodymus prieš savo šeimos narius ar
 artimuosius giminaičius.
 Straipsnio pakeitimai: 
@@ -24393,10 +24413,9 @@ Ekspertą skiria
 administracinio teisės pažeidimo bylą nagrinėjantis organas (pareigūnas) tuo
 atveju, kai reikalingos specialios žinios arba kai reikalinga paaiškinti
 pateiktą prie protokolo ekspertizės aktą.
-Organo
-(pareigūno) sprendimas šaukti ekspertą yra privalomas įmonės, įstaigos arba
-organizacijos, kur dirba šaukiamas dalyvauti byloje kaip ekspertas asmuo,
-vadovui.
+Organo (pareigūno)
+sprendimas šaukti ekspertą yra privalomas įmonės, įstaigos arba organizacijos,
+kur dirba šaukiamas dalyvauti byloje kaip ekspertas asmuo, vadovui.
 Ekspertas
 privalo atvykti pagal šaukimą ir duoti objektyvią išvadą jam pateiktais
 klausimais.
@@ -24410,8 +24429,8 @@ prašymus, kad jam būtų pateikta papildoma medžiaga, reikalinga išvadai duot
 administracinio teisės pažeidimo bylą nagrinėjančio organo (pareigūno) leidimu
 duoti traukiamam atsakomybėn asmeniui, nukentėjusiajam, liudytojams klausimus,
 liečiančius ekspertizės dalyką;
-4) dalyvauti nagrinėjant
-bylą.
+4) dalyvauti
+nagrinėjant bylą.
 Straipsnio pakeitimai:
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
@@ -24575,12 +24594,12 @@ administracinio teisės pažeidimo protokolo ir bylos gavimo dienos. Teisėjas
 turi taip pasirengti nagrinėti bylą, kad ji būtų išnagrinėta paprastai per
 vieną teismo posėdį.
      Šio kodekso
-44, 170, 174 straipsniuose, 178 straipsnio pirmojoje, antrojoje ir trečiojoje
-dalyse ir 187 straipsnyje numatytų administracinių teisės pažeidimų bylos
-nagrinėjamos per vieną parą, 188(2) ir 188(7) straipsniuose
-numatytų pažeidimų bylos – per tris dienas, 50 straipsnyje, 158 straipsnio
-antrojoje dalyje numatytų pažeidimų bylos – per penkias dienas, 98 straipsnyje
-numatytų pažeidimų bylos – per septynias dienas.
+44, 170, 174 straipsniuose, 178 straipsnio pirmojoje, antrojoje ir trečiojoje dalyse
+ir 187 straipsnyje numatytų administracinių teisės pažeidimų bylos nagrinėjamos
+per vieną parą, 188(2) ir 188(7) straipsniuose numatytų
+pažeidimų bylos – per tris dienas, 50 straipsnyje, 158 straipsnio antrojoje
+dalyje numatytų pažeidimų bylos – per penkias dienas, 98 straipsnyje numatytų
+pažeidimų bylos – per septynias dienas.
 Kai asmuo vengia administracinės atsakomybės, neturi nuolatinės
 gyvenamosios vietos, ilgam išvykęs ar gyvena užsienyje, ilgai serga,
 paskelbiama jo paieška arba kai dėl pažeidimo tyrimo arba kitų objektyvių
@@ -24590,10 +24609,10 @@ pratęsiami, bet ne ilgiau, negu numatyta šio kodekso 35 straipsnyje.
      Lietuvos
 Respublikos įstatymai gali nustatyti ir kitokius administracinių teisės
 pažeidimų bylų nagrinėjimo terminus.
-     Kai pirmosios
-instancijos teismo nutarimas panaikinamas apeliacine tvarka, šiame straipsnyje
-nurodyti terminai pradedami skaičiuoti iš naujo nuo apeliacinės instancijos
-sprendimo įsiteisėjimo dienos.
+     Kai
+pirmosios instancijos teismo nutarimas panaikinamas apeliacine tvarka, šiame
+straipsnyje nurodyti terminai pradedami skaičiuoti iš naujo nuo apeliacinės
+instancijos sprendimo įsiteisėjimo dienos.
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
@@ -24753,9 +24772,9 @@ Nutarimo
 nuorašas per tris dienas įteikiamas arba išsiunčiamas asmeniui, dėl kurio
 nutarimas priimtas, organui, kurio pareigūnas surašė administracinio teisės
 pažeidimo protokolą, taip pat nukentėjusiajam.
-Nutarimo
-nuorašas įteikiamas pasirašytinai. Jeigu nutarimo nuorašas išsiunčiamas, tai
-įrašoma byloje.
+Nutarimo nuorašas
+įteikiamas pasirašytinai. Jeigu nutarimo nuorašas išsiunčiamas, tai įrašoma
+byloje.
 Bylose dėl
 administracinių teisės pažeidimų, numatytų šio kodekso 176 straipsnyje ir 196
 straipsnio pirmojoje ir antrojoje dalyse, dėl asmens, kuriam ginklas, taip pat
@@ -24792,16 +24811,16 @@ galios
 Straipsnio pakeitimai: 
 Nr. XI-501, 1985.11.28, Žin.,
 1985, Nr. 33-370 
-Nr. XI-1595, 1987.04.29, Žin., 1987,
-Nr. 13-134 
+Nr. XI-1595, 1987.04.29, Žin.,
+1987, Nr. 13-134 
 Nr. XI-1789, 1987.07.29, Žin.,
 1987, Nr. 21-262 
 Nr. I-2589, 1992.05.26,
 Žin., 1992, Nr. 21-610
  
 290
-straipsnis. Pasiūlymai pašalinti priežastis ir sąlygas, padėjusias padaryti administracinius
-teisės pažeidimus
+straipsnis. Pasiūlymai pašalinti priežastis ir sąlygas, padėjusias padaryti
+administracinius teisės pažeidimus
      Nagrinėjantis
 bylą organas (pareigūnas), nustatęs priežastis ir sąlygas, padėjusias padaryti
 administracinius teisės pažeidimus, pateikia įmonių, įstaigų, organizacijų
@@ -24818,12 +24837,12 @@ DVIDEŠIMT TREČIASIS SKIRSNIS
 ORGANŲ (PAREIGŪNŲ) PRIIMTŲ NUTARIMŲ APSKUNDIMAS PIRMOSIOS INSTANCIJOS
 TEISMUI
  
-291 straipsnis. Teisė apskųsti nutarimą administracinio
-teisės pažeidimo byloje
+291 straipsnis. Teisė apskųsti nutarimą
+administracinio teisės pažeidimo byloje
 Šio kodekso 216
-straipsnio 1, 2 ir 5 punktuose nurodytų organų (pareigūnų) nutarimus
-administracinių teisės pažeidimų bylose apylinkės teismui gali apskųsti asmuo,
-dėl kurio atitinkamas nutarimas priimtas, institucija, kurios pareigūnas surašė
+straipsnio 1, 2 ir 5 punktuose nurodytų organų (pareigūnų) nutarimus administracinių
+teisės pažeidimų bylose apylinkės teismui gali apskųsti asmuo, dėl kurio
+atitinkamas nutarimas priimtas, institucija, kurios pareigūnas surašė
 administracinio teisės pažeidimo protokolą, taip pat nukentėjusysis (ar
 atstovai). Atstovai turi teisę paduoti skundą tik tuo atveju, kai tai
 neprieštarauja raštu išreikštai atstovaujamųjų valiai. Nepaisyti atstovaujamojo
@@ -24834,9 +24853,9 @@ paduodančių įstatyminių atstovų atstovaujamųjų valia nesaisto.
 292 straipsnis. Nutarimo administracinio
 teisės pažeidimo byloje apskundimo tvarka
 Šio kodekso 216
-straipsnio 1, 2 ir 5 punktuose nurodytų organų (pareigūnų) nutarimai
-administracinių teisės pažeidimų bylose gali būti apskųsti apylinkės teismui
-pagal šio kodekso 281 straipsnyje nustatytas taisykles.
+straipsnio 1, 2 ir 5 punktuose nurodytų organų (pareigūnų) nutarimai administracinių
+teisės pažeidimų bylose gali būti apskųsti apylinkės teismui pagal šio kodekso
+281 straipsnyje nustatytas taisykles.
 Skundas
 paduodamas per nutarimą administracinio teisės pažeidimo byloje priėmusį organą
 (pareigūną); skundo kopijų turi būti pateikta tiek, kad po vieną būtų galima
@@ -24911,8 +24930,8 @@ neatitinka jo formai ir turiniui keliamų reikalavimų ir dėl to neįmanoma
 suprasti, koks nutarimas skundžiamas ar kokiomis aplinkybėmis grindžiamas
 skundas, apylinkės teismas priima nutartį ir nustato pakankamą, tačiau ne
 trumpesnį kaip septynių dienų terminą šiems trūkumams pašalinti. Ši nutartis
-išsiunčiama skundą padavusiam asmeniui ne vėliau kaip kitą dieną po jos
-priėmimo dienos.
+išsiunčiama skundą padavusiam asmeniui ne vėliau kaip kitą dieną po jos priėmimo
+dienos.
 Jeigu skundą
 padavęs šio kodekso 291 straipsnyje nurodytas asmuo pagal teismo nurodymus per
 nustatytą terminą pašalina trūkumus, laikoma, kad skundas
@@ -24995,8 +25014,8 @@ procesinė padėtis nesikeičia.
 Kai bylos dėl skundo dėl nutarimo
 administracinio teisės pažeidimo byloje nagrinėjimo metu yra apklausiami
 liudytojai ar nukentėjusysis duoda paaiškinimus, rašomas teismo posėdžio
-protokolas. Kitais atvejais teismo posėdžio protokolas gali būti rašomas teisėjo
-nuožiūra.
+protokolas. Kitais atvejais teismo posėdžio protokolas gali būti rašomas
+teisėjo nuožiūra.
 Išnagrinėjęs bylą dėl skundo dėl
 nutarimo administracinio teisės pažeidimo byloje, apylinkės teismas
 nutarimą (nutartį) byloje paskelbia paprastai tą pačią teismo posėdžio dieną, o
@@ -25042,13 +25061,14 @@ administracinės nuobaudos.
 Pabloginti
 administracinėn atsakomybėn traukiamo (patraukto) asmens, taip pat asmens,
 kuriam byla nutraukta, padėtį teismas gali tik tuo atveju, kai dėl to yra
-institucijos, kurios pareigūnas surašė administracinio teisės pažeidimo protokolą,
-skundas arba nukentėjusiojo skundas. Administracinėn atsakomybėn traukiamo
-(patraukto) asmens, taip pat asmens, kuriam byla nutraukta, padėtis negali būti
-pabloginta daugiau, negu to prašoma skunde.
-Jeigu apylinkės teismas nustato, kad nutarimą administracinio
-teisės pažeidimo byloje priėmė organas (pareigūnas), neturintis teisės spręsti
-tokios bylos, tas nutarimas panaikinamas ir bylą išsprendžia pats teismas.
+institucijos, kurios pareigūnas surašė administracinio teisės pažeidimo
+protokolą, skundas arba nukentėjusiojo skundas. Administracinėn atsakomybėn
+traukiamo (patraukto) asmens, taip pat asmens, kuriam byla nutraukta, padėtis
+negali būti pabloginta daugiau, negu to prašoma skunde.
+Jeigu apylinkės teismas nustato, kad nutarimą
+administracinio teisės pažeidimo byloje priėmė organas (pareigūnas), neturintis
+teisės spręsti tokios bylos, tas nutarimas panaikinamas ir bylą išsprendžia
+pats teismas.
 Šio
 straipsnio pirmosios dalies 2, 3 punktuose ir antrojoje dalyje numatytais
 atvejais teismas priima nutarimus, pirmosios dalies 1, 4 ir 5 punktuose
@@ -25073,8 +25093,8 @@ pažeidimo bylą pasekmės
 Jeigu teismas
 panaikino organo (pareigūno) nutarimą administracinio teisės pažeidimo byloje
 ir šią bylą nutraukė, grąžinamos išieškotos pinigų sumos, atlygintinai paimti
-ir konfiskuoti daiktai, panaikinami kiti apribojimai, susiję su anksčiau priimtu
-nutarimu. Kai grąžinti daikto negalima, atlyginama jo vertė.
+ir konfiskuoti daiktai, panaikinami kiti apribojimai, susiję su anksčiau
+priimtu nutarimu. Kai grąžinti daikto negalima, atlyginama jo vertė.
 Neteisėtu
 administracinio arešto paskyrimu piliečiui padaryti nuostoliai atlyginami
 įstatymų nustatyta tvarka.
@@ -25136,12 +25156,12 @@ Apeliacinis
 skundas dėl apylinkės teismo nutarimo (nutarties) administracinio teisės
 pažeidimo byloje turi būti rašytinis ir skundą padavusio asmens (ar jo atstovo)
 pasirašytas. Apeliaciniame skunde turi būti nurodyta: apygardos teismo
-pavadinimas; byla, dėl kurios paduodamas apeliacinis skundas; skundžiamo apylinkės
-teismo nutarimo (nutarties) administracinio teisės pažeidimo byloje ar jo (jos)
-dalies esmė; nutarimo (nutarties) apskundimo pagrindai ir motyvai; apeliacinį
-skundą padavusio asmens prašymai. Apeliacinį skundą padavęs asmuo pateikia tiek
-skundo ir jo priedų kopijų, kad po vieną tektų visiems 291 straipsnyje
-nurodytiems asmenims.
+pavadinimas; byla, dėl kurios paduodamas apeliacinis skundas; skundžiamo
+apylinkės teismo nutarimo (nutarties) administracinio teisės pažeidimo byloje
+ar jo (jos) dalies esmė; nutarimo (nutarties) apskundimo pagrindai ir motyvai;
+apeliacinį skundą padavusio asmens prašymai. Apeliacinį skundą padavęs asmuo
+pateikia tiek skundo ir jo priedų kopijų, kad po vieną tektų visiems 291
+straipsnyje nurodytiems asmenims.
  
 3026 straipsnis. Apeliacinio
 skundo dėl nutarimo (nutarties) administracinio teisės pažeidimo byloje
@@ -25206,9 +25226,9 @@ Priėmęs
 apeliacinį skundą, apylinkės teismas per tris dienas išsiunčia jo kopijas šio
 kodekso 291 straipsnyje nurodytiems asmenims, išskyrus skundą padavusį asmenį.
 Šie asmenys turi teisę, o valstybės ir savivaldybių institucijos ir įstaigos
-privalo per keturiolika dienų nuo apeliacinio skundo kopijų išsiuntimo dienos raštu
-pateikti apygardos teismui atsiliepimus į apeliacinį skundą ir juose išdėstyti
-savo nuomonę dėl paduoto apeliacinio skundo. 
+privalo per keturiolika dienų nuo apeliacinio skundo kopijų išsiuntimo dienos
+raštu pateikti apygardos teismui atsiliepimus į apeliacinį skundą ir juose
+išdėstyti savo nuomonę dėl paduoto apeliacinio skundo. 
 Apylinkės
 teismas ne vėliau kaip per tris dienas išsiunčia administracinio teisės
 pažeidimo bylą su apeliaciniu skundu apygardos teismui. Praėjus šio straipsnio
@@ -25227,9 +25247,9 @@ teisėjas. Tam tikrais atvejais paskirtojo teisėjo siūlymu teismo pirmininko
 nutartimi gali būti sudaroma trijų teisėjų kolegija tokioms byloms nagrinėti.
 Jeigu teisėjas
 ar teisėjų kolegija nusprendžia bylą dėl apeliacinio skundo administracinio
-teisės pažeidimo byloje nagrinėti žodinio proceso tvarka, išsiunčiami
-pranešimai šio kodekso 291 straipsnyje nurodytiems asmenims. Prireikus į teismo
-posėdį šaukiami liudytojai, ekspertai, specialistai, išreikalaujama papildoma
+teisės pažeidimo byloje nagrinėti žodinio proceso tvarka, išsiunčiami pranešimai
+šio kodekso 291 straipsnyje nurodytiems asmenims. Prireikus į teismo posėdį
+šaukiami liudytojai, ekspertai, specialistai, išreikalaujama papildoma
 medžiaga.
  
 30210 straipsnis. Bylos dėl apeliacinio skundo administracinio teisės pažeidimo
@@ -25259,22 +25279,23 @@ Pabloginti
 administracinėn atsakomybėn traukiamo (patraukto) asmens, taip pat asmens,
 kuriam byla nutraukta, padėtį apygardos teismas gali tik tuo atveju, kai dėl to
 yra institucijos, kurios pareigūnas surašė administracinio teisės pažeidimo
-protokolą, skundas arba nukentėjusiojo skundas. Administracinėn atsakomybėn
-traukiamo (patraukto) asmens, taip pat asmens, kuriam byla nutraukta, padėtis
-negali būti pabloginta daugiau, negu to prašoma apeliaciniame skunde.
+protokolą, skundas arba nukentėjusiojo skundas. Administracinėn atsakomybėn traukiamo
+(patraukto) asmens, taip pat asmens, kuriam byla nutraukta, padėtis negali būti
+pabloginta daugiau, negu to prašoma apeliaciniame skunde.
  
 30212 straipsnis. Apygardos teismo sprendimas dėl skundo,
 kuriuo apskųstas apylinkės teismo nutarimas (nutartis) administracinio teisės
 pažeidimo byloje
 Išnagrinėjęs
-bylą dėl apeliacinio skundo dėl apylinkės teismo nutarimo (nutarties) administracinio
-teisės pažeidimo byloje, apygardos teismas priima vieną iš šių sprendimų:
+bylą dėl apeliacinio skundo dėl apylinkės teismo nutarimo (nutarties)
+administracinio teisės pažeidimo byloje, apygardos teismas priima vieną iš šių
+sprendimų:
 1)
 palikti apylinkės teismo nutarimą (nutartį) nepakeistą ir apeliacinio skundo
 netenkinti;
 2)
-panaikinti apylinkės teismo nutarimą (nutartį) ir administracinio teisės pažeidimo
-bylą nutraukti;
+panaikinti apylinkės teismo nutarimą (nutartį) ir administracinio teisės
+pažeidimo bylą nutraukti;
 3)
 panaikinti apylinkės teismo nutarimą
 (nutartį) ir grąžinti administracinio teisės pažeidimo bylą iš naujo tirti įgaliotai institucijai;
@@ -25344,8 +25365,8 @@ klausimą apylinkės teismui nagrinėti iš naujo.
  
 Kodeksas
 papildytas skirsniu:
-Nr. XI-1142,
-2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04)
+Nr. XI-1142, 2010-11-18,
+Žin., 2010, Nr. 142-7257 (2010-12-04)
 DVIDEŠIMT
 TREČIASIS2 SKIRSNIS
 ADMINISTRACINIŲ
@@ -25357,8 +25378,8 @@ Administracinių
 teisės pažeidimų bylos, užbaigtos įsiteisėjusiu nutarimu ar nutartimi, gali
 būti atnaujintos šiame skirsnyje nustatytais pagrindais ir tvarka.
  
-30217 straipsnis. Administracinių
-teisės pažeidimų bylų atnaujinimo pagrindai
+30217 straipsnis.
+Administracinių teisės pažeidimų bylų atnaujinimo pagrindai
 Administracinio
 teisės pažeidimo byla gali būti atnaujinta, jeigu yra šie pagrindai:
 1) įsiteisėjusiu
@@ -25376,13 +25397,13 @@ ir nepagrįstas nutarimas;
 paaiškėjo kitų aplinkybių, kurios organui (pareigūnui) ar teismui nebuvo ir
 negalėjo būti žinomos priimant nutarimą ar nutartį ir kurios vienos ar kartu su
 anksčiau nustatytomis aplinkybėmis įrodo, kad administracinėn atsakomybėn
-patrauktas asmuo yra nekaltas arba kad jis padarė lengvesnį ar sunkesnį administracinį
-teisės pažeidimą negu tas, už kurį jis patrauktas administracinėn atsakomybėn,
-taip pat kurios įrodo, kad administracinėn atsakomybėn nepatrauktas asmuo yra
-kaltas;
+patrauktas asmuo yra nekaltas arba kad jis padarė lengvesnį ar sunkesnį
+administracinį teisės pažeidimą negu tas, už kurį jis patrauktas
+administracinėn atsakomybėn, taip pat kurios įrodo, kad administracinėn
+atsakomybėn nepatrauktas asmuo yra kaltas;
 5)
-padarytas esminis materialiosios ar proceso teisės pažeidimas, jeigu šis pažeidimas
-galėjo turėti įtakos neteisėto nutarimo ar nutarties priėmimui;
+padarytas esminis materialiosios ar proceso teisės pažeidimas, jeigu šis
+pažeidimas galėjo turėti įtakos neteisėto nutarimo ar nutarties priėmimui;
 6) Jungtinių
 Tautų Žmogaus teisių komitetas pripažįsta, kad sprendimas patraukti asmenį
 administracinėn atsakomybėn yra priimtas pažeidžiant Tarptautinį pilietinių ir
@@ -25412,24 +25433,23 @@ teisės pažeidimo protokolą ir (ar) atliko tyrimą;
 2)
 šio kodekso 30217 straipsnio pirmosios dalies 5 punkte nurodytais
 pagrindais – organas (pareigūnas), kuris surašė administracinio teisės
-pažeidimo protokolą ir (ar) atliko tyrimą, nukentėjusysis, administracinėn
-atsakomybėn patrauktas asmuo, neįtrauktas į bylos procesą asmuo, jeigu
-įsiteisėjęs nutarimas ar nutartis pažeidžia neįtraukto į bylos procesą asmens
-teises ar teisėtus interesus, taip pat jų atstovai;
+pažeidimo protokolą ir (ar) atliko tyrimą, nukentėjusysis, administracinėn atsakomybėn
+patrauktas asmuo, neįtrauktas į bylos procesą asmuo, jeigu įsiteisėjęs
+nutarimas ar nutartis pažeidžia neįtraukto į bylos procesą asmens teises ar
+teisėtus interesus, taip pat jų atstovai;
 3)
 šio kodekso 30217 straipsnio pirmosios dalies 6 punkte nurodytais
 pagrindais – administracinėn atsakomybėn patrauktas asmuo, jo teisių perėmėjas
 ar kitas atstovas;
 4)
 bet kuriuo šio kodekso 30217 straipsnio pirmojoje dalyje nurodytu
-pagrindu – Lietuvos Respublikos generalinis prokuroras ar jo įgaliotas
-prokuroras.
+pagrindu – Lietuvos Respublikos generalinis prokuroras ar jo įgaliotas prokuroras.
 Pakartotiniai
 prašymai atnaujinti administracinio teisės pažeidimo bylą nepriimami ir
 nenagrinėjami.
  
-30219 straipsnis. Administracinių
-teisės pažeidimų bylų atnaujinimo terminai
+30219 straipsnis.
+Administracinių teisės pažeidimų bylų atnaujinimo terminai
 Asmenys
 turi teisę paduoti prašymą atnaujinti administracinio teisės pažeidimo bylą dėl
 paaiškėjusių naujų aplinkybių (šio kodekso 30217 straipsnio
@@ -25458,8 +25478,9 @@ Aukščiausiajam Teismui per šešis mėnesius nuo tos dienos, kurią priimtas J
 Tautų Žmogaus teisių komiteto sprendimas arba Europos žmogaus teisių teismo
 sprendimas yra ar tapo galutinis.
  
-30220 straipsnis. Administracinių
-teisės pažeidimų bylų atnaujinimas dėl paaiškėjusių naujų aplinkybių
+30220 straipsnis.
+Administracinių teisės pažeidimų bylų atnaujinimas dėl paaiškėjusių naujų
+aplinkybių
 Administracinėn
 atsakomybėn patrauktas asmuo, taip pat nukentėjusysis, jų atstovai turi teisę
 paduoti prašymą atnaujinti administracinio teisės pažeidimo bylą dėl
@@ -25472,11 +25493,11 @@ atliekamas laikantis šio kodekso taisyklių.
 Organas
 (pareigūnas), išnagrinėjęs šio straipsnio pirmojoje dalyje nurodytą prašymą ir
 neradęs pagrindo pradėti tyrimą dėl paaiškėjusių naujų aplinkybių, priima
-sprendimą atsisakyti pradėti tyrimą. Apie šį sprendimą pranešama
-suinteresuotiems asmenims ir jiems išaiškinama teisė apskųsti sprendimą
-aukštesniajam pareigūnui, o kai tokio pareigūno nėra, – teismui. Aukštesniojo
-pareigūno sprendimą suinteresuotas asmuo gali apskųsti teismui šio straipsnio
-trečiojoje dalyje nustatyta tvarka ir terminais.
+sprendimą atsisakyti pradėti tyrimą. Apie šį sprendimą pranešama suinteresuotiems
+asmenims ir jiems išaiškinama teisė apskųsti sprendimą aukštesniajam
+pareigūnui, o kai tokio pareigūno nėra, – teismui. Aukštesniojo pareigūno
+sprendimą suinteresuotas asmuo gali apskųsti teismui šio straipsnio trečiojoje
+dalyje nustatyta tvarka ir terminais.
 Kai
 paaiškėjusios naujos aplinkybės baigiamos tirti ir nėra pagrindo atnaujinti
 administracinio teisės pažeidimo bylą, organas (pareigūnas) savo sprendimu
@@ -25495,9 +25516,8 @@ pagrindas atnaujinti administracinio teisės pažeidimo bylą, organas
 administracinio teisės pažeidimo byla. Šis organas (pareigūnas) administracinio
 teisės pažeidimo bylos atnaujinimo klausimą sprendžia posėdyje. Šiame posėdyje
 dalyvauja institucijos, kurios sprendimu pradėta byla, pareigūnas. Kitiems
-suinteresuotiems asmenims pranešama apie posėdžio vietą ir laiką, tačiau jų
-neatvykimas nekliudo nagrinėti administracinio teisės pažeidimo bylos
-atnaujinimo klausimą.
+suinteresuotiems asmenims pranešama apie posėdžio vietą ir laiką, tačiau jų neatvykimas
+nekliudo nagrinėti administracinio teisės pažeidimo bylos atnaujinimo klausimą.
 Organas
 (pareigūnas), išnagrinėjęs administracinio teisės pažeidimo bylos atnaujinimo
 klausimą, priima sprendimą atnaujinti administracinio teisės pažeidimo bylą
@@ -25517,16 +25537,17 @@ straipsnio pirmosios dalies 5 punkte nurodytais pagrindais nagrinėja Lietuvos
 Aukščiausiasis Teismas. Prašymai paduodami tiesiogiai šiam teismui.
 Prašyme
 atnaujinti administracinio teisės pažeidimo bylą turi būti nurodyta: teismo,
-kuriam paduodamas prašymas, pavadinimas; pareiškėjo vardas, pavardė (pavadinimas),
-asmens kodas, gyvenamoji vieta (buveinė); organas (pareigūnas), kurio
-įsiteisėjęs nutarimas ar nutartis ginčijami, ginčijamo nutarimo ar nutarties
-priėmimo data ir esmė, jais nustatytos bylos aplinkybės; šio kodekso 30217
-straipsnio pirmosios dalies 5 punkte nurodyti bylos atnaujinimo pagrindai ir
-išsamūs teisiniai argumentai, pagrindžiantys šių pagrindų buvimą; pareiškėjo
-prašymas, atitinkantis šio straipsnio keturioliktojoje dalyje nurodytus
-Lietuvos Aukščiausiojo Teismo įgaliojimus. Prašymas turi būti jį paduodančio
-asmens pasirašytas. Prie prašymo turi būti pridėti ginčijamo nutarimo ar
-nutarties ir su ginčijamu sprendimu susijusių nutarimų ar nutarčių nuorašai.
+kuriam paduodamas prašymas, pavadinimas; pareiškėjo vardas, pavardė
+(pavadinimas), asmens kodas, gyvenamoji vieta (buveinė); organas (pareigūnas),
+kurio įsiteisėjęs nutarimas ar nutartis ginčijami, ginčijamo nutarimo ar
+nutarties priėmimo data ir esmė, jais nustatytos bylos aplinkybės; šio kodekso
+30217 straipsnio pirmosios dalies 5 punkte nurodyti bylos
+atnaujinimo pagrindai ir išsamūs teisiniai argumentai, pagrindžiantys šių
+pagrindų buvimą; pareiškėjo prašymas, atitinkantis šio straipsnio
+keturioliktojoje dalyje nurodytus Lietuvos Aukščiausiojo Teismo įgaliojimus.
+Prašymas turi būti jį paduodančio asmens pasirašytas. Prie prašymo turi būti
+pridėti ginčijamo nutarimo ar nutarties ir su ginčijamu sprendimu susijusių
+nutarimų ar nutarčių nuorašai.
 Pareiškėjas turi
 teisę iki prašymo atnaujinti administracinio teisės pažeidimo bylą nagrinėjimo
 teismo posėdyje dienos šį prašymą atšaukti. Tokiu atveju prašymas atnaujinti
@@ -25535,16 +25556,17 @@ neprieštarauja viešajam interesui.
 Prašymo
 atnaujinti administracinio
 teisės pažeidimo bylą priėmimo klausimą rašytinio proceso tvarka sprendžia
-Lietuvos Aukščiausiojo Teismo pirmininko ar šio teismo Baudžiamųjų bylų
-skyriaus pirmininko iš trijų teisėjų sudaryta atrankos kolegija. Laikoma, kad
-prašymas atnaujinti administracinio teisės pažeidimo bylą priimtas, jeigu už
-tai balsavo bent vienas iš šios kolegijos narių. 
+Lietuvos Aukščiausiojo Teismo pirmininko ar šio teismo Baudžiamųjų bylų skyriaus
+pirmininko iš trijų teisėjų sudaryta atrankos kolegija. Laikoma, kad prašymas
+atnaujinti administracinio teisės pažeidimo bylą priimtas, jeigu už tai balsavo
+bent vienas iš šios kolegijos narių. 
 Prašymą
 atnaujinti administracinio
 teisės pažeidimo bylą atsisakoma priimti, jeigu jis:
 1) paduotas
-praleidus prašymo padavimo terminą ir nėra prašymo atnaujinti šį praleistą terminą
-arba prašymas atnaujinti praleistą prašymo padavimo terminą yra atmestas;
+praleidus prašymo padavimo terminą ir nėra prašymo atnaujinti šį praleistą
+terminą arba prašymas atnaujinti praleistą prašymo padavimo terminą yra
+atmestas;
 2) paduotas
 administracinio teisės pažeidimo byloje, neužbaigtoje įsiteisėjusiu nutarimu ar
 nutartimi;
@@ -25581,22 +25603,22 @@ kolegija, Lietuvos Aukščiausiojo Teismo pirmininkas, šio teismo Baudžiamųj�
 bylų skyriaus pirmininkas ir administracinio teisės pažeidimo bylą nagrinėjanti
 kolegija gali sustabdyti toje byloje priimtų nutarimų ir nutarčių vykdymą. 
 Atnaujinta administracinio
-teisės pažeidimo byla Lietuvos Aukščiausiajame Teisme paprastai nagrinėjama
-rašytinio proceso tvarka. Tokiais atvejais teisėjas pranešėjas praneša
-pareiškėjui, organui (pareigūnui), kurio sprendimu buvo pradėta atnaujinta
-administracinio teisės pažeidimo byla, kitiems asmenims, su kurių teisėtais
-interesais susijęs prašymas atnaujinti bylą, kad byla bus nagrinėjama rašytinio
-proceso tvarka, nurodo bylą nagrinėsiančios teisėjų kolegijos sudėtį, pasiūlo
-pateikti atsiliepimus į prašymą atnaujinti administracinio teisės pažeidimo
-bylą (išskyrus pasiūlymą pareiškėjui) ir išaiškina teisę raštu pareikšti
-nušalinimus ir prašymus. Atsiliepimai į prašymus atnaujinti administracinio
-teisės pažeidimo bylą, pareiškimai dėl nušalinimo ir prašymai turi būti
-pateikti per trisdešimt dienų nuo pranešimo apie atnaujintos administracinio
-teisės pažeidimo bylos nagrinėjimą rašytinio proceso tvarka išsiuntimo dienos.
-Organas (pareigūnas) privalo pateikti atsiliepimą į prašymą atnaujinti
-administracinio teisės pažeidimo bylą (išskyrus savo paties prašymą). Kitų
-asmenų atsiliepimų į prašymą atnaujinti administracinio teisės pažeidimo bylą
-nepateikimas nagrinėti bylą rašytinio proceso tvarka netrukdo. 
+teisės pažeidimo byla Lietuvos Aukščiausiajame Teisme paprastai nagrinėjama rašytinio
+proceso tvarka. Tokiais atvejais teisėjas pranešėjas praneša pareiškėjui,
+organui (pareigūnui), kurio sprendimu buvo pradėta atnaujinta administracinio
+teisės pažeidimo byla, kitiems asmenims, su kurių teisėtais interesais susijęs
+prašymas atnaujinti bylą, kad byla bus nagrinėjama rašytinio proceso tvarka,
+nurodo bylą nagrinėsiančios teisėjų kolegijos sudėtį, pasiūlo pateikti
+atsiliepimus į prašymą atnaujinti administracinio teisės pažeidimo bylą
+(išskyrus pasiūlymą pareiškėjui) ir išaiškina teisę raštu pareikšti nušalinimus
+ir prašymus. Atsiliepimai į prašymus atnaujinti administracinio teisės
+pažeidimo bylą, pareiškimai dėl nušalinimo ir prašymai turi būti pateikti per
+trisdešimt dienų nuo pranešimo apie atnaujintos administracinio teisės pažeidimo
+bylos nagrinėjimą rašytinio proceso tvarka išsiuntimo dienos. Organas
+(pareigūnas) privalo pateikti atsiliepimą į prašymą atnaujinti administracinio
+teisės pažeidimo bylą (išskyrus savo paties prašymą). Kitų asmenų atsiliepimų į
+prašymą atnaujinti administracinio teisės pažeidimo bylą nepateikimas nagrinėti
+bylą rašytinio proceso tvarka netrukdo. 
 Kai tai būtina,
 atrankos kolegija ar administracinio teisės pažeidimo bylą nagrinėjanti teisėjų
 kolegija gali nuspręsti, kad byla turi būti nagrinėjama žodinio proceso tvarka.
@@ -25625,14 +25647,15 @@ nutartį:
 prašymą atnaujinti bylą;
 2) panaikinti
 nutarimą ar nutartį (nutarimus ar nutartis) ir bylą nutraukti;
-3) panaikinti
-nutarimą ar nutartį (nutarimus ar nutartis) ir perduoti bylą nagrinėti organui
+3) panaikinti nutarimą
+ar nutartį (nutarimus ar nutartis) ir perduoti bylą nagrinėti organui
 (pareigūnui), apylinkės teismui arba apygardos teismui;
 4) panaikinti
 nutarimą ar nutartį (nutarimus ar nutartis) ir palikti galioti kitą nutarimą ar
 nutartį (nutarimus ar nutartis, su pakeitimais arba be pakeitimų);
 5) panaikinti
-nutarimą ar nutartį (nutarimus ar nutartis) ir priimti naują nutarimą ar nutartį;
+nutarimą ar nutartį (nutarimus ar nutartis) ir priimti naują nutarimą ar
+nutartį;
 6) pakeisti
 nutarimą ar nutartį.
 Nutarimas ar
@@ -25688,8 +25711,8 @@ Apskundus
 nutarimą skirti administracinę nuobaudą, šis nutarimas turi būti vykdomas po
 to, kai skundas lieka nepatenkintas, išskyrus nutarimus skirti įspėjimą, taip pat šio kodekso 337 straipsnio pirmojoje
 dalyje numatytu atveju.
-            Nutarimas skirti
-baudą turi būti priverstinai įvykdomas pasibaigus šio kodekso 313 straipsnio
+            Nutarimas skirti baudą
+turi būti priverstinai įvykdomas pasibaigus šio kodekso 313 straipsnio
 pirmojoje dalyje nustatytam terminui jį geruoju įvykdyti.
 Nutarimą
 skirti administracinę nuobaudą vykdyti nukreipia nutarimą priėmęs organas
@@ -25723,9 +25746,9 @@ mėnesio.
 Straipsnio pakeitimai:
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
-Nr. XI-1223,
-2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
-Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
+Nr. XI-1223, 2010-12-14,
+Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami Europos
+Sąjungos teisės aktai, nurodyti šio įstatymo priede
  
      307
 straipsnis. Nutarimo skirti administracinę nuobaudą vykdymo nutraukimas
@@ -25875,10 +25898,10 @@ Nr. I-847, 95.04.11,
 Žin., 1995, Nr. 36-886 (95.05.03)
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
-Nr. X-1365, 2007-12-13,
-Žin., 2007, Nr. 138-5641 (2007-12-29)
-Nr. XI-1142,
-2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04)
+Nr. X-1365,
+2007-12-13, Žin., 2007, Nr. 138-5641 (2007-12-29)
+Nr. XI-1142, 2010-11-18,
+Žin., 2010, Nr. 142-7257 (2010-12-04)
 Nr. XI-1223,
 2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
 Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede
@@ -25899,13 +25922,12 @@ išieškojimas negali būti nukreiptas į turtą, į kurį sutinkamai su Lietuvo
 Respublikos civilinio proceso kodeksu išieškojimas negali būti nukreiptas pagal
 vykdomuosius dokumentus.
 Jeigu nėra
-turto, į kurį gali būti nukreiptas baudos išieškojimas, rajono (miesto)
-apylinkės teismo (apylinkės teismo teisėjo) nutarimu arba kito organo
-(pareigūno), priėmusio nutarimą skirti baudą, nutarimu ir pažeidėjo sutikimu
-bauda gali būti pakeista nemokamais ne ilgesnės kaip 400 valandų trukmės
-viešaisiais darbais, skaičiuojant vieną nemokamų viešųjų darbų valandą už
-dvidešimt litų baudos. Nemokami viešieji darbai skiriami tik darbingiems
-asmenims.
+turto, į kurį gali būti nukreiptas baudos išieškojimas, rajono (miesto) apylinkės
+teismo (apylinkės teismo teisėjo) nutarimu arba kito organo (pareigūno),
+priėmusio nutarimą skirti baudą, nutarimu ir pažeidėjo sutikimu bauda gali būti
+pakeista nemokamais ne ilgesnės kaip 400 valandų trukmės viešaisiais darbais,
+skaičiuojant vieną nemokamų viešųjų darbų valandą už dvidešimt litų baudos.
+Nemokami viešieji darbai skiriami tik darbingiems asmenims.
 Straipsnio pakeitimai: 
 Nr. I-2589, 1992.05.26,
 Žin., 1992, Nr. 21-610 
@@ -25958,8 +25980,8 @@ Nr. VIII-1543,
 Dvidešimt
 aštuntasis skirsnis
  
-NUTARIMO
-KONFISKUOTI DAIKTĄ IR PAJAMAS VYKDYMO PROCESAS
+NUTARIMO KONFISKUOTI
+DAIKTĄ IR PAJAMAS VYKDYMO PROCESAS
 Skirsnio pavadinimas pakeistas:
 Nr. VIII-1543,
 00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
@@ -26006,12 +26028,12 @@ dalyse, 210 straipsnio pirmojoje ir antrojoje dalyse, 214, 21410,
 2) tam įgalioti policijos įstaigų
 pareigūnai – padarius šio kodekso 5111 straipsnio antrojoje dalyje,
 110 straipsnio antrojoje, trečiojoje, ketvirtojoje, penktojoje ir šeštojoje
-dalyse, 123 straipsnio ketvirtojoje dalyje, 1671 straipsnio
-antrojoje dalyje, 1672, 170, 171, 176, 1761, 1771,
-1852, 191 straipsniuose, 194 straipsnio trečiojoje dalyje, 196
-straipsnio pirmojoje ir antrojoje dalyse, 199, 1991 straipsniuose,
-2093 straipsnio pirmojoje dalyje, 210 straipsnio trečiojoje dalyje
-numatytus teisės pažeidimus;
+dalyse, 123 straipsnio ketvirtojoje dalyje, 1671 straipsnio antrojoje
+dalyje, 1672, 170, 171, 176, 1761, 1771, 1852,
+191 straipsniuose, 194 straipsnio trečiojoje dalyje, 196 straipsnio pirmojoje
+ir antrojoje dalyse, 199, 1991 straipsniuose, 2093
+straipsnio pirmojoje dalyje, 210 straipsnio trečiojoje dalyje numatytus teisės
+pažeidimus;
 2 punkto redakcija nuo 2013-01-01:
 2)
 tam įgalioti policijos įstaigų pareigūnai – padarius šio kodekso 5111
@@ -26110,10 +26132,11 @@ straipsnio antrojoje dalyje numatytus teisės pažeidimus;
 Valstybės sienos apsaugos tarnybos pareigūnai – padarius šio kodekso 210
 straipsnio trečiojoje dalyje numatytus pažeidimus;
 15) tam įgalioti
-Lietuvos Respublikos ginklų fondo prie Lietuvos Respublikos vidaus reikalų ministerijos
-pareigūnai – padarius šio kodekso 1673 straipsnio antrojoje dalyje
-numatytus teisės pažeidimus (dėl Lietuvos Respublikos sprogmenų apyvartos
-kontrolės įstatymo nustatytų sprogmenų saugos bendrųjų reikalavimų);
+Lietuvos Respublikos ginklų fondo prie Lietuvos Respublikos vidaus reikalų
+ministerijos pareigūnai – padarius šio kodekso 1673 straipsnio
+antrojoje dalyje numatytus teisės pažeidimus (dėl Lietuvos Respublikos
+sprogmenų apyvartos kontrolės įstatymo nustatytų sprogmenų saugos bendrųjų
+reikalavimų);
 16) tam įgalioti
 savivaldybių sanitarijos inspekcijos pareigūnai – padarius šio kodekso 110
 straipsnio antrojoje, trečiojoje, ketvirtojoje, penktojoje ir šeštojoje dalyse
@@ -26247,7 +26270,8 @@ užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede,
 
 Nr. X-1019,
 2007-01-16, Žin., 2007, Nr. 12-492 (2007-01-30), šis įstatymas skirtas
-užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, įgyvendinimą
+užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo priede,
+įgyvendinimą
 Nr.
 X-1246,
 2007-07-03, Žin., 2007, Nr. 81-3316 (2007-07-21, šis įstatymas skirtas
@@ -26310,9 +26334,8 @@ Nr. VIII-1543,
 straipsnis. Konfiskuotų daiktų ir pajamų realizavimo tvarka
 Konfiskuoti
 daiktai, kurie buvo administracinio teisės pažeidimo padarymo įrankis arba
-tiesioginis objektas, ir pajamos, kurios buvo gautos administracinio teisės
-pažeidimo padarymu, realizuojami Lietuvos Respublikos finansų ministro
-nustatyta tvarka.
+tiesioginis objektas, ir pajamos, kurios buvo gautos administracinio teisės pažeidimo
+padarymu, realizuojami Lietuvos Respublikos finansų ministro nustatyta tvarka.
 Straipsnio pakeitimai: 
 Nr. VIII-124, 97.02.25,
 Žin., 1997, Nr. 21-488 (97.03.12) 
@@ -26534,8 +26557,8 @@ atėmimo terminą.
 Straipsnio pakeitimai: 
 Nr. I-830, 1990.12.04,
 Žin., 1990, Nr. 36-862
-Nr. VIII-1543, 00.02.17,
-Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Nr. IX-1995,
 2004-01-29, Žin., 2004, Nr. 25-763 (2004-02-14)
 Nr. X-134, 2005-03-17,
@@ -26691,8 +26714,8 @@ atsižvelgęs į bylos aplinkybes, gali nustatyti, kad nutarimas dėl
 administracinio arešto vykdomas tuojau pat po nutarimo priėmimo.
 Jeigu asmuo pažeidžia rajono (miesto)
 apylinkės teismo (apylinkės teismo teisėjo) jam nustatytą administracinio
-arešto atlikimo poilsio dienomis tvarką, šią tvarką teismas (teisėjas) savo
-sprendimu gali pakeisti įprastine administracinio arešto atlikimo tvarka.
+arešto atlikimo poilsio dienomis tvarką, šią tvarką teismas (teisėjas) savo sprendimu
+gali pakeisti įprastine administracinio arešto atlikimo tvarka.
 Straipsnio pakeitimai:
 Nr. XI-1223,
 2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
@@ -26723,10 +26746,11 @@ Atidėdamas
 paskirto administracinio arešto vykdymą, teismas paskiria pažeidėjui atlikti
 nemokamų viešųjų darbų nuo 25 iki 400 valandų. Kartu teismas nustato laiką, per
 kurį asmuo privalo atlikti nemokamus viešuosius darbus.
-Jei asmuo, kuriam
-administracinio arešto vykdymas atidėtas, atidėjimo laikotarpiu atliko teismo
-paskirtus nemokamus viešuosius darbus, įstaiga, kurios žinioje yra šių darbų
-vykdymas, surašo nutarimą užskaityti asmeniui administracinio arešto atlikimą.
+Jei asmuo,
+kuriam administracinio arešto vykdymas atidėtas, atidėjimo laikotarpiu atliko
+teismo paskirtus nemokamus viešuosius darbus, įstaiga, kurios žinioje yra šių
+darbų vykdymas, surašo nutarimą užskaityti asmeniui administracinio arešto
+atlikimą.
 Jei asmuo,
 kuriam administracinio arešto vykdymas atidėtas, atidėjimo laikotarpiu
 piktybiškai vengia atlikti nemokamus viešuosius darbus, teismas priima nutarimą
@@ -26736,8 +26760,8 @@ Nutarimo dėl
 sąlyginio administracinio arešto vykdymo atidėjimo vykdymo procesas
 įgyvendinamas šio kodekso 331-334 straipsniuose nustatyta tvarka.
 Kodeksas papildytas straipsniu:
-Nr. VIII-1543, 00.02.17,
-Žin., 2000, Nr. 22-552 (00.03.15)
+Nr. VIII-1543,
+00.02.17, Žin., 2000, Nr. 22-552 (00.03.15)
 Straipsnio pakeitimai: 
 Nr. XI-1223,
 2010-12-14, Žin., 2010, Nr. 157-7968 (2010-12-31), šiuo įstatymu įgyvendinami
@@ -26765,8 +26789,8 @@ Nr. I-2589, 1992.05.26,
 Nr. I-957, 95.06.20,
 Žin., 1995, Nr. 55-1356 (95.07.05)
 Nr.
-IX-1049,
-2002-07-05, Žin., 2002, Nr. 75-3214 (2002-07-26)
+IX-1049, 2002-07-05,
+Žin., 2002, Nr. 75-3214 (2002-07-26)
  
 Trisdešimt
 pirmasis(1) skirsnis
@@ -26870,8 +26894,8 @@ Pakeitimai:
  
 Pakeitimų sąrašas nuo 1990-03-11:
 1.
-Lietuvos Respublikos Aukščiausioji
-Taryba-Atkuriamasis Seimas, Įstatymas
+Lietuvos Respublikos Aukščiausioji Taryba-Atkuriamasis
+Seimas, Įstatymas
 Nr. I-16, 90.03.12, Žin.,
 1990, Nr. 9-232
 DĖL KAI KURIŲ LIETUVOS TSR BAUDŽIAMOJO KODEKSO IR
@@ -26888,8 +26912,8 @@ PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO IR LIETUVOS RESPUBLIKOS BAUDŽIAMOJO
 KODEKSO PAKEITIMO
  
 3.
-Lietuvos Respublikos Aukščiausioji Taryba-Atkuriamasis
-Seimas, Įstatymas
+Lietuvos Respublikos Aukščiausioji
+Taryba-Atkuriamasis Seimas, Įstatymas
 Nr. I-435, 90.07.30,
 Žin., 1990, Nr. 23-565
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
@@ -26954,8 +26978,8 @@ PAŽEIDIMŲ KODEKSO, BAUDŽIAMOJO KODEKSO IR DARBO ĮSTATYMŲ KODEKSO PAKEITIMO 
 PAPILDYMO
  
 11.
-Lietuvos Respublikos Aukščiausioji Taryba-Atkuriamasis
-Seimas, Įstatymas
+Lietuvos Respublikos Aukščiausioji
+Taryba-Atkuriamasis Seimas, Įstatymas
 Nr. I-1631, 91.07.30,
 Žin., 1991, Nr. 23-600
 DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
@@ -27153,8 +27177,8 @@ PAŽEIDIMŲ KODEKSO PAKEITIMO
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-661, 94.11.15,
 Žin., 1994, Nr. 91-1766 (94.11.25)
-DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
-KODEKSO PAKEITIMO IR PAPILDYMO
+DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
+PAŽEIDIMŲ KODEKSO PAKEITIMO IR PAPILDYMO
  
 39.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -27314,9 +27338,9 @@ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1281, 96.04.04,
 Žin., 1996, Nr. 37-930 (96.04.26)
-LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
-PAŽEIDIMŲ KODEKSO PAPILDYMO 99(2), 99(3), 99(4), 235(1) STRAIPSNIAIS IR 221,
-224, 259(1) STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
+KODEKSO PAPILDYMO 99(2), 99(3), 99(4), 235(1) STRAIPSNIAIS IR 221, 224, 259(1)
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 61.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -27416,8 +27440,8 @@ Nr. VIII-124, 97.02.25,
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 163(6), 163(7), 171, 172(1), 173(1), 224, 225(1), 246(1),
 259(1), 268, 320, 322 STRAIPSNIŲ PAKEITIMO, PAPILDYMO 163(10), 171(1), 171(2),
-172(9), 172(10), 172(11), 172(12), 172(13), 189(8), 214(11), 246(9)
-STRAIPSNIAIS IR 173(8) STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+172(9), 172(10), 172(11), 172(12), 172(13), 189(8), 214(11), 246(9) STRAIPSNIAIS
+IR 173(8) STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
  
 74.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -27679,8 +27703,8 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1136,
 99.04.08, Žin., 1999, Nr. 36-1066 (99.04.23)
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
-PAŽEIDIMŲ KODEKSO PAPILDYMO 172(19) STRAIPSNIU IR 224, 259(1) STRAIPSNIŲ
-PAPILDYMO ĮSTATYMAS
+PAŽEIDIMŲ KODEKSO PAPILDYMO 172(19) STRAIPSNIU IR 224, 259(1) STRAIPSNIŲ PAPILDYMO
+ĮSTATYMAS
  
 110.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -27721,9 +27745,9 @@ IR PAPILDYMO ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1486,
 99.12.21, Žin., 1999, Nr. 113-3286 (99.12.30)
-LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS
-PAŽEIDIMŲ KODEKSO 41(4), 172(17), 224, 233, 259(1) STRAIPSNIŲ PAKEITIMO BEI
-PAPILDYMO IR KODEKSO PAPILDYMO 172(21), 214(18) STRAIPSNIAIS ĮSTATYMAS
+LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
+KODEKSO 41(4), 172(17), 224, 233, 259(1) STRAIPSNIŲ PAKEITIMO BEI PAPILDYMO IR
+KODEKSO PAPILDYMO 172(21), 214(18) STRAIPSNIAIS ĮSTATYMAS
  
 115.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -27859,8 +27883,8 @@ ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO PAPILDYMO
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-256, 2001 04 17, Žin., 2001, Nr.
 39-1328 (2001 05 09)
-ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO PAPILDYMO 173(18)
-STRAIPSNIU IR 224, 259(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO PAPILDYMO
+173(18) STRAIPSNIU IR 224, 259(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja
 nuo 2001 m. liepos 1 d.
  
@@ -27981,8 +28005,8 @@ Nr. IX-1288,
 2002-12-10, Žin., 2002, Nr. 124-5629 (2002-12-27)
 ADMINISTRACINIŲ
 TEISĖS PAŽEIDIMŲ KODEKSO 186(3), 186(6) STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS
-GALIOS IR 224, 259(1), 272 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PRIPAŽINIMO
-NETEKUSIU GALIOS ĮSTATYMAS
+GALIOS IR 224, 259(1), 272 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 3 STRAIPSNIO
+PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
  
 142.
 Lietuvos Respublikos Seimas,
@@ -28105,9 +28129,9 @@ Lietuvos Respublikos Seimas,
 Nr. IX-1758,
 2003-10-14, Žin., 2003, Nr. 102-4581 (2003-10-31)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
-KODEKSO 172(8), 172(16), 172(22), 173(11), 214(7), 224, 247(3), 259(1) STRAIPSNIŲ
-PAKEITIMO BEI PAPILDYMO IR KODEKSO PAPILDYMO 173(19), 214(19), 214(20),
-214(21), 214(22), 247(8), 247(9) STRAIPSNIAIS ĮSTATYMAS
+KODEKSO 172(8), 172(16), 172(22), 173(11), 214(7), 224, 247(3), 259(1)
+STRAIPSNIŲ PAKEITIMO BEI PAPILDYMO IR KODEKSO PAPILDYMO 173(19), 214(19),
+214(20), 214(21), 214(22), 247(8), 247(9) STRAIPSNIAIS ĮSTATYMAS
 Šio
 Įstatymo 1, 3 ir 12 straipsniai įsigalioja nuo 2004 m. sausio 1 d.
  
@@ -28126,8 +28150,8 @@ PAPILDYMO 99(8), 171(5) STRAIPSNIAIS ĮSTATYMAS
 154.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. IX-1995, 2004-01-29,
-Žin., 2004, Nr. 25-763 (2004-02-14)
+Nr. IX-1995,
+2004-01-29, Žin., 2004, Nr. 25-763 (2004-02-14)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
 KODEKSO 30(1), 35, 51, 124(1), 209, 214(14), 214(16), 214(17), 214(18), 224,
 225(2), 239, 241(3), 242, 254, 259, 259(1), 260, 261, 262, 263, 265, 266, 267,
@@ -28137,8 +28161,8 @@ PAPILDYMO 51(14), 51(15), 51(16), 51(17), 89(1), 214(23) STRAIPSNIAIS ĮSTATYMAS
 155.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. IX-2153, 2004-04-22,
-Žin., 2004, Nr. 68-2368 (2004-04-29)
+Nr. IX-2153,
+2004-04-22, Žin., 2004, Nr. 68-2368 (2004-04-29)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
 KODEKSO 5, 21, 26, 27, 42(1), 109, 152, 152(1), 152(3), 152(4), 152(5), 152(8),
 153(1), 153(10), 154, 154(1), 154(2), 172(4), 178, 193(1), 214(23), 224, 225,
@@ -28348,8 +28372,8 @@ ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
 KODEKSO 59 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS, 221, 222, 231, 259(1)
 STRAIPSNIŲ PAKEITIMO IR KODEKSO PAPILDYMO 115(1), 115(2) STRAIPSNIAIS ĮSTATYMAS
 Šis
-įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio
-įstatymo priede, įgyvendinimą.
+įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo
+priede, įgyvendinimą.
  
 175.
 Lietuvos Respublikos Seimas,
@@ -28390,8 +28414,8 @@ Nr.
 X-1246,
 2007-07-03, Žin., 2007, Nr. 81-3316 (2007-07-21)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
-KODEKSO 5, 26, 158, 209(3), 221, 224, 237, 259(1), 282, 320 STRAIPSNIŲ
-PAKEITIMO IR KODEKSO PAPILDYMO 133(1), 214(27) STRAIPSNIAIS ĮSTATYMAS
+KODEKSO 5, 26, 158, 209(3), 221, 224, 237, 259(1), 282, 320 STRAIPSNIŲ PAKEITIMO
+IR KODEKSO PAPILDYMO 133(1), 214(27) STRAIPSNIAIS ĮSTATYMAS
  
 179.
 Lietuvos Respublikos Seimas,
@@ -28450,8 +28474,7 @@ ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
 KODEKSO 26, 87(7) IR 320 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 183.
-Lietuvos Respublikos Seimas,
-Įstatymas
+Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1675,
 2008-07-03, Žin., 2008, Nr. 81-3181 (2008-07-17)
 ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
@@ -28463,8 +28486,7 @@ KODEKSO 21, 26, 27, 29, 41(4), 41(5), 44(2), 46(1), 50, 50(4), 50(7), 51(3),
 PAPILDYMO 41(11), 51(23), 84(2), 84(3), 84(4), 112(3), 112(4), 112(5), 112(6),
 112(7), 112(8), 119(3), 188(18) STRAIPSNIAIS ĮSTATYMAS
 Šiuo
-įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo
-priede.
+įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede.
 Šio
 įstatymo 9 straipsnis įsigalioja 2008 m. spalio 1 d.
  
@@ -28604,9 +28626,9 @@ KODEKSO 221, 245 IR 259(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
 Įstatymas įsigalioja 2010 m. liepos 1 d.
 Pastaba: iki šio įstatymo
-įsigaliojimo apskričių viršininkų administracijų pradėtos, bet nebaigtos
-administracinių teisės pažeidimų bylų nagrinėjimo ir administracinių teisės
-pažeidimų protokolų surašymo procedūros baigiamos pagal šio įstatymo nuostatas.
+įsigaliojimo apskričių viršininkų administracijų pradėtos, bet nebaigtos administracinių
+teisės pažeidimų bylų nagrinėjimo ir administracinių teisės pažeidimų protokolų
+surašymo procedūros baigiamos pagal šio įstatymo nuostatas.
  
 195.
 Lietuvos Respublikos
@@ -28700,12 +28722,11 @@ Lietuvos Respublikos
 Seimas, Įstatymas
 Nr. XI-1142,
 2010-11-18, Žin., 2010, Nr. 142-7257 (2010-12-04)
-ADMINISTRACINIŲ TEISĖS
-PAŽEIDIMŲ KODEKSO 30(2), 226, 232, 232(1), 239, 239(3), 241, 241(1), 246(1),
-246(2), 246(7), 249, 259, 260, 261, 262, 282, 313 STRAIPSNIŲ IR DVIDEŠIMT
-TREČIOJO SKIRSNIO PAKEITIMO, KODEKSO PAPILDYMO 257(1), 260(1), 260(2)
-STRAIPSNIAIS, DVIDEŠIMT TREČIUOJU(1) IR DVIDEŠIMT TREČIUOJU(2) SKIRSNIAIS
-ĮSTATYMAS
+ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
+KODEKSO 30(2), 226, 232, 232(1), 239, 239(3), 241, 241(1), 246(1), 246(2),
+246(7), 249, 259, 260, 261, 262, 282, 313 STRAIPSNIŲ IR DVIDEŠIMT TREČIOJO
+SKIRSNIO PAKEITIMO, KODEKSO PAPILDYMO 257(1), 260(1), 260(2) STRAIPSNIAIS,
+DVIDEŠIMT TREČIUOJU(1) IR DVIDEŠIMT TREČIUOJU(2) SKIRSNIAIS ĮSTATYMAS
 Šis įstatymas įsigalioja 2011
 m. sausio 1 d.
 Kai yra šio kodekso 262
@@ -28741,10 +28762,10 @@ Lietuvos Respublikos
 Seimas, Įstatymas
 Nr. XI-1217,
 2010-12-09, Žin., 2010, Nr. 153-7786 (2010-12-28)
-ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
-KODEKSO 26, 154(3), 246, 281, 320 STRAIPSNIŲ PAKEITIMO IR 154(4), 154(5),
-154(6), 154(7), 154(8), 154(9), 154(10) STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS
-GALIOS ĮSTATYMAS
+ADMINISTRACINIŲ TEISĖS
+PAŽEIDIMŲ KODEKSO 26, 154(3), 246, 281, 320 STRAIPSNIŲ PAKEITIMO IR 154(4),
+154(5), 154(6), 154(7), 154(8), 154(9), 154(10) STRAIPSNIŲ PRIPAŽINIMO
+NETEKUSIAIS GALIOS ĮSTATYMAS
 Šis įstatymas įsigalioja 2011 m. sausio
 1 d.
  
@@ -28756,10 +28777,10 @@ Nr. XI-1223,
 ADMINISTRACINIŲ TEISĖS
 PAŽEIDIMŲ KODEKSO 5, 21, 26, 27, 29, 35, 51(22), 87(7), 89(1), 116, 123,
 124(1), 125, 127, 130(2), 131, 133(1), 167(1), 167(2), 172(23), 185, 187(8),
-191, 192, 192(1), 221, 222, 225, 226, 231, 239, 241(3), 241(4), 259, 259(1),
-260, 260(2), 262, 263, 264, 266, 267, 268, 269, 271, 272, 276, 282, 288, 304,
-306, 308, 313, 314, 320, 326, 329, 334, 336, 337, 338(1) STRAIPSNIŲ PAKEITIMO
-IR PAPILDYMO, 124(4), 132(1), 197(1), 315 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS
+191, 192, 192(1), 221, 222, 225, 226, 231, 239, 241(3), 241(4), 259, 259(1), 260,
+260(2), 262, 263, 264, 266, 267, 268, 269, 271, 272, 276, 282, 288, 304, 306,
+308, 313, 314, 320, 326, 329, 334, 336, 337, 338(1) STRAIPSNIŲ PAKEITIMO IR
+PAPILDYMO, 124(4), 132(1), 197(1), 315 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS
 GALIOS IR KODEKSO PAPILDYMO 115(4), 124(5), 124(6), 192(2) STRAIPSNIAIS
 ĮSTATYMAS
 Šis įstatymas, išskyrus 3, 15, 48 straipsnius, 52
@@ -28806,8 +28827,8 @@ PAŽEIDIMŲ KODEKSO 51(3) IR 242 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 priede.
  
 213.
-Lietuvos Respublikos
-Seimas, Įstatymas
+Lietuvos Respublikos Seimas,
+Įstatymas
 Nr. XI-1385,
 2011-05-19, Žin., 2011, Nr. 68-3216 (2011-06-04)
 ADMINISTRACINIŲ TEISĖS
@@ -29000,9 +29021,9 @@ Respublikos Seimas, Įstatymas
 Nr.
 XI-1902,
 2011-12-22, Žin., 2011, Nr. 163-7778 (2011-12-31)
-ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO
-51(23), 84(3), 224, 237, 241(1), 242, 259(1) STRAIPSNIŲ PAKEITIMO IR 84(4)
-STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ
+KODEKSO 51(23), 84(3), 224, 237, 241(1), 242, 259(1) STRAIPSNIŲ PAKEITIMO IR
+84(4) STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 Šiuo įstatymu įgyvendinami Europos Sąjungos teisės
 aktai, nurodyti šio įstatymo priede.
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.
@@ -29114,6 +29135,12 @@ TEISĖS PAŽEIDIMŲ KODEKSO 26, 110, 221, 222 IR 320 STRAIPSNIŲ PAKEITIMO
 Šis
 įstatymas įsigalioja 2013 m. sausio 1 d.
  
+241.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2374,
+2012-11-06, Žin., 2012, Nr. 132-6695 (2012-11-15)
+ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 43(1),
+43(2) IR 259(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 ***
 Pabaiga ***
@@ -29131,8 +29158,8 @@ ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO 269 STRAIPSNIO 4 DALIES ATITIKTIES
 LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
 2.
-Lietuvos Respublikos
-Konstitucinis Teismas, Nutarimas
+Lietuvos Respublikos Konstitucinis
+Teismas, Nutarimas
 2009-04-10, Žin., 2009,
 Nr. 42-1624 (2009-04-16)
 DĖL LIETUVOS RESPUBLIKOS
@@ -29155,7 +29182,7 @@ Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2012-10-26)
+Aušrinė Trapinskienė (2012-11-15)
                  
 ausrine.trapinskiene@lrs.lt
 
