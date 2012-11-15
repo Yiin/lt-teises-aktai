@@ -329,6 +329,12 @@ metodu ir miškų apskaitą;
 miškų būklės, naudojimo, atkūrimo, įveisimo ir apsaugos kontrolę;
 4) Aplinkos ministerijos nustatyta tvarka išduoda
 leidimus kirsti mišką miško valdytojams ir naudotojams;
+4 punkto redakcija nuo 2013-03-01:
+4) Aplinkos ministerijos nustatyta tvarka išduoda
+leidimus kirsti mišką miško valdytojams ir naudotojams, įskaitant servituto
+turėtojus tais atvejais, kai miško kirtimas yra būtinas įgyvendinant servituto
+suteikiamas teises pagal teritorijų planavimo dokumentų sprendinius;
+ 
 5) kontroliuoja miškotvarkos darbų kokybę;
 6) kontroliuoja miško dauginamosios medžiagos kilmę,
 kokybę, auginimą, prekybą ir naudojimą;
@@ -351,30 +357,32 @@ funkcijas, Generalinė miškų urėdija prie Aplinkos ministerijos:
 atkūrimo, apsaugos ir tvarkymo darbų normas;
 3) organizuoja bendrą valstybinę priešgaisrinės ir
 sanitarinės miško apsaugos sistemą;
-4) organizuoja ir koordinuoja miškų atkūrimo,
-apsaugos, tvarkymo ir miško išteklių naudojimo pažangių technologijų
-įgyvendinimą.
+4) organizuoja ir koordinuoja miškų atkūrimo, apsaugos,
+tvarkymo ir miško išteklių naudojimo pažangių technologijų įgyvendinimą.
 5. Privačius miškus atkuria, tvarko ir naudoja
 privačių miškų savininkai, laikydamiesi šio įstatymo, taip pat Vyriausybės
 ar jos įgaliotos Aplinkos ministerijos atsižvelgiant į privačių miškų savininkų
 organizacijų siūlymus tvirtinamų Privačių miškų tvarkymo ir naudojimo nuostatų
 ir kitų miškų ūkio veiklą reglamentuojančių teisės aktų. Privačių miškų
-savininkai įstatymų nustatyta tvarka turi teisę jungtis į asociacijas ir
-kooperatyvus, steigti įmones ir organizacijas. Valstybė skatina ir remia
-privataus miškų ūkio plėtrą, privačių miškų savininkų savivaldos organizacijas,
-teikiančias miško savininkams konsultavimo ir ūkines paslaugas. Miško savininkų
-kooperatyvams taikomas žemės ūkio kooperatyvų statusas.
+savininkai įstatymų nustatyta tvarka turi teisę jungtis į asociacijas ir kooperatyvus,
+steigti įmones ir organizacijas. Valstybė skatina ir remia privataus miškų ūkio
+plėtrą, privačių miškų savininkų savivaldos organizacijas, teikiančias miško
+savininkams konsultavimo ir ūkines paslaugas. Miško savininkų kooperatyvams
+taikomas žemės ūkio kooperatyvų statusas.
 Straipsnio
 pakeitimai:
 Nr.
 IX-1925,
 2003-12-18, Žin., 2003, Nr. 123-5593 (2003-12-30)
 Nr.
-X-119,
-2005-02-15, Žin., 2005, Nr. 31-977 (2005-03-05)
+X-119, 2005-02-15,
+Žin., 2005, Nr. 31-977 (2005-03-05)
 Nr.
 XI-1830,
 2011-12-21, Žin., 2011, Nr. 163-7744 (2011-12-31)
+Nr.
+XI-2362,
+2012-11-06, Žin., 2012, Nr. 132-6688 (2012-11-15)
  
 6
 straipsnis. Valstybinių miškų pareigūnų pareigos, teisės ir socialinės
@@ -464,9 +472,9 @@ prievartos priemones tik esant tarnybiniam būtinumui ir tik tiek, kiek to
 reikia tarnybinei pareigai įvykdyti, tik po to, kai įtikinimo priemonės buvo
 neveiksmingos arba negalimos. Prievartos priemonės rūšį ir jos panaudojimo
 ribas valstybinis miškų pareigūnas pasirenka atsižvelgdamas į konkrečią
-situaciją, teisės pažeidimo pobūdį ir individualias pažeidėjo savybes.
-Naudodamas prievartą valstybinis miškų pareigūnas privalo stengtis išvengti
-didelės žalos žmonėms ir turtui.
+situaciją, teisės pažeidimo pobūdį ir individualias pažeidėjo savybes. Naudodamas
+prievartą valstybinis miškų pareigūnas privalo stengtis išvengti didelės žalos
+žmonėms ir turtui.
 6. Prieš naudodamas prievartą, valstybinis miškų
 pareigūnas privalo įspėti apie tokį ketinimą, suteikdamas asmeniui galimybę
 įvykdyti teisėtus reikalavimus, išskyrus atvejus, kai delsimas kelia grėsmę
@@ -502,8 +510,8 @@ darbe ir profesinių ligų socialinio draudimo įstatyme.
 Straipsnio
 pakeitimai:
 Nr.
-IX-1447, 2003-04-03,
-Žin., 2003, Nr. 38-1692 (2003-04-24)
+IX-1447,
+2003-04-03, Žin., 2003, Nr. 38-1692 (2003-04-24)
 Nr.
 X-119,
 2005-02-15, Žin., 2005, Nr. 31-977 (2005-03-05)
@@ -514,12 +522,12 @@ Ekonominis valstybinio miškų ūkio reguliavimas
 įstatymą, vykdo kompleksinę miškų ūkio veiklą valstybiniuose miškuose,
 Vyriausybės ar jos įgaliotos Aplinkos ministerijos nustatyta tvarka parduoda
 pagamintą miško produkciją, nenukirstą mišką ir teikia paslaugas. Įvertinant
-miškų urėdijų kapitalą, žemė ir miškas vertine išraiška į apskaitą
-neįtraukiami. Miškų urėdijos Civilinio kodekso ir Vyriausybės ar jos įgaliotos
-institucijos nustatyta tvarka, pritarus valdymo organui – valdybai, jungtinės
-veiklos sutarties pagrindu gali kooperuoti lėšas ilgalaikiam turtui, būtinam
-saugoti miškus nuo gaisrų, kitų stichinių nelaimių, miško kenkėjų, ligų, kitų
-veiksmų, darančių žalą miškams, jų gyvūnijai ir augalijai, miškų ūkio veiklos
+miškų urėdijų kapitalą, žemė ir miškas vertine išraiška į apskaitą neįtraukiami.
+Miškų urėdijos Civilinio kodekso ir Vyriausybės ar jos įgaliotos institucijos
+nustatyta tvarka, pritarus valdymo organui – valdybai, jungtinės veiklos
+sutarties pagrindu gali kooperuoti lėšas ilgalaikiam turtui, būtinam saugoti
+miškus nuo gaisrų, kitų stichinių nelaimių, miško kenkėjų, ligų, kitų veiksmų,
+darančių žalą miškams, jų gyvūnijai ir augalijai, miškų ūkio veiklos
 integruotoms informacinėms sistemoms įsigyti. Jungtinės veiklos sutarties
 įgyvendinimo kontrolę nustatyta tvarka vykdo Aplinkos ministerija.
 2. Bendrosioms miškų ūkio reikmėms tenkinti Vyriausybės nustatyta
@@ -632,9 +640,9 @@ ministerijos nustatyta tvarka turi teisę naudoti mišką bei jo išteklius
 bitininkystei, naminių gyvulių ganymui, gamtinių kompleksų apsaugai ir kitiems
 įstatymams neprieštaraujantiems tikslams). Pagal šią tvarką numatytais atvejais
 teisė vykdyti medienos ir kitų miško išteklių ruošą įgyjama gavus nustatytos
-formos leidimus. Ši teisė baigiasi, kai gavęs leidimą asmuo miršta, reorganizavus
-ar likvidavus juridinį asmenį pasibaigia leidimo galiojimo laikas ar nustatyta
-tvarka leidimas pripažįstamas negaliojančiu.
+formos leidimus. Ši teisė baigiasi, kai gavęs leidimą asmuo miršta,
+reorganizavus ar likvidavus juridinį asmenį pasibaigia leidimo galiojimo laikas
+ar nustatyta tvarka leidimas pripažįstamas negaliojančiu.
 3.
 Miško valdytojų, savininkų ir naudotojų teises saugo įstatymai. Pažeistos
 teisės turi būti atkuriamos, o padaryti nuostoliai atlyginami įstatymų bei kitų
@@ -656,16 +664,16 @@ naudojimo teritorijoms formuoti;
 formuoti, kai nėra galimybės šių iškasenų eksploatuoti ne miško žemėje;
 5) krašto apsaugos teritorijoms, skirtoms valstybės
 sienos apsaugai ir specialiems krašto apsaugos tikslams, formuoti;
-6) atliekų saugojimo, rūšiavimo ir utilizavimo teritorijoms
-formuoti, kai nėra galimybės tokių teritorijų formuoti ne miško žemėje;
+6) atliekų saugojimo, rūšiavimo ir utilizavimo
+teritorijoms formuoti, kai nėra galimybės tokių teritorijų formuoti ne miško
+žemėje;
 1 dalis
 papildoma 7 punktu nuo 2013-01-01:
 7) buvusioms sodyboms privačioje miško žemėje
-atstatyti Vyriausybės nustatyta tvarka. Teisę atstatyti neišlikusią
-sodybą, kurios buvimo faktas nustatomas pagal archyvinius dokumentus, o
-jeigu jie neišlikę – nustatant juridinį faktą, turi tik šios sodybos buvę
-savininkai ir (ar) jų pirmos, antros ir trečios eilės įpėdiniai, paveldintys
-pagal įstatymą.
+atstatyti Vyriausybės nustatyta tvarka. Teisę atstatyti neišlikusią sodybą, kurios
+buvimo faktas nustatomas pagal archyvinius dokumentus, o jeigu jie neišlikę –
+nustatant juridinį faktą, turi tik šios sodybos buvę savininkai ir (ar) jų
+pirmos, antros ir trečios eilės įpėdiniai, paveldintys pagal įstatymą.
  
 2. Paversti miško žemę kitomis naudmenomis draudžiama:
 1) I grupės miškuose;
@@ -674,9 +682,9 @@ pagal įstatymą.
 rezervatų apsaugos zonų miškuose;
 3 punkto
 redakcija nuo 2013-01-01:
-3) III grupės – draustinių miškuose ir valstybinių rezervatų
-apsaugos zonų miškuose, išskyrus šio straipsnio 1 dalies 7 punkte nustatytu
-atveju;
+3) III grupės – draustinių miškuose ir valstybinių
+rezervatų apsaugos zonų miškuose, išskyrus šio straipsnio 1 dalies 7 punkte
+nustatytu atveju;
  
 4) kituose miškuose, esančiuose vieno kilometro
 atstumu nuo Baltijos jūros ir Kuršių marių, II grupės rekreaciniuose miškuose
@@ -686,8 +694,8 @@ valstybinių parkų apsaugos zonų miškuose, išskyrus šio straipsnio 1 dalies
 numatyta Teritorijų planavimo įstatymo nustatyta tvarka parengtuose ir
 patvirtintuose bendruosiuose planuose ir numatomas miško žemės pavertimas
 kitomis naudmenomis neprieštarauja valstybinių parkų ar biosferos rezervatų
-teritorijų planavimo dokumentams ir biosferos poligonų nuostatams arba jeigu
-tai numatyta šių saugomų teritorijų planavimo dokumentuose.
+teritorijų planavimo dokumentams ir biosferos poligonų nuostatams arba jeigu tai
+numatyta šių saugomų teritorijų planavimo dokumentuose.
 4 punkto
 redakcija nuo 2013-01-01:
 4) kituose miškuose, esančiuose vieno kilometro
@@ -695,13 +703,27 @@ atstumu nuo Baltijos jūros ir Kuršių marių, II grupės rekreaciniuose mišku
 ir III grupės vandens telkinių apsaugos zonų, laukų apsauginiuose ir
 valstybinių parkų apsaugos zonų miškuose, išskyrus šio straipsnio 1 dalies 1,
 2, 3 punktuose nurodytus atvejus, jeigu atitinkamų objektų statyba ar plėtra
+numatyta Teritorijų planavimo įstatymo nustatyta tvarka parengtuose ir patvirtintuose
+bendruosiuose planuose ir numatomas miško žemės pavertimas kitomis naudmenomis
+neprieštarauja valstybinių parkų ar biosferos rezervatų teritorijų planavimo
+dokumentams ir biosferos poligonų nuostatams arba jeigu tai numatyta šių
+saugomų teritorijų planavimo dokumentuose. Šiame punkte nustatyti draudimai ir
+apribojimai netaikomi miško žemę paverčiant kitomis naudmenomis šio straipsnio
+1 dalies 7 punkte nustatytu atveju.
+4 punkto redakcija nuo 2013-03-01:
+4) kituose miškuose, esančiuose vieno kilometro
+atstumu nuo Baltijos jūros ir Kuršių marių, II grupės rekreaciniuose miškuose
+ir III grupės vandens telkinių apsaugos zonų, laukų apsauginiuose ir
+valstybinių parkų apsaugos zonų miškuose, išskyrus šio straipsnio 1 dalies 1,
+2, 3 punktuose nurodytus atvejus, jeigu atitinkamų objektų statyba ar plėtra
 numatyta Teritorijų planavimo įstatymo nustatyta tvarka parengtuose ir
-patvirtintuose bendruosiuose planuose ir numatomas miško žemės pavertimas
-kitomis naudmenomis neprieštarauja valstybinių parkų ar biosferos rezervatų
-teritorijų planavimo dokumentams ir biosferos poligonų nuostatams arba jeigu
-tai numatyta šių saugomų teritorijų planavimo dokumentuose. Šiame punkte
-nustatyti draudimai ir apribojimai netaikomi miško žemę paverčiant kitomis
-naudmenomis šio straipsnio 1 dalies 7 punkte nustatytu atveju.
+patvirtintuose bendruosiuose planuose ar ypatingos valstybinės svarbos projektų
+specialiuosiuose planuose ir numatomas miško žemės pavertimas kitomis
+naudmenomis neprieštarauja valstybinių parkų ar biosferos rezervatų teritorijų
+planavimo dokumentams ir biosferos poligonų nuostatams arba jeigu tai numatyta
+šių saugomų teritorijų planavimo dokumentuose. Šiame punkte nustatyti draudimai
+ir apribojimai netaikomi miško žemę paverčiant kitomis naudmenomis šio
+straipsnio 1 dalies 7 punkte nustatytu atveju.
  
 3. Valstybiniuose parkuose, biosferos rezervatuose ir
 biosferos poligonuose esančią miško žemę paversti kitomis naudmenomis leidžiama
@@ -723,6 +745,16 @@ biosferos rezervatų ir biosferos poligonų nuostatams. Šie apribojimai netaiko
 miško žemę paversti kitomis naudmenomis leidžiama, jeigu šio straipsnio 1
 dalies 1–6 punktuose nurodyti atvejai yra numatyti Teritorijų planavimo
 įstatymo nustatyta tvarka parengtuose ir patvirtintuose bendruosiuose planuose.
+4 dalies redakcija nuo 2013-03-01:
+4. Šio straipsnio 2 ir 3 dalyse nenurodytuose miškuose
+miško žemę paversti kitomis naudmenomis leidžiama, jeigu šio straipsnio 1
+dalies 1–6 punktuose nurodyti atvejai yra numatyti Teritorijų planavimo
+įstatymo nustatyta tvarka parengtuose ir patvirtintuose bendruosiuose planuose
+ar ypatingos valstybinės svarbos projektų specialiuosiuose planuose ir
+numatomas miško žemės pavertimas kitomis naudmenomis neprieštarauja valstybinių
+parkų ar biosferos rezervatų teritorijų planavimo dokumentams ir biosferos
+poligonų nuostatams.
+ 
 5. Visais atvejais miško žemės pavertimas kitomis
 naudmenomis turi būti suplanuotas specialiuosiuose arba detaliuosiuose
 planuose.
@@ -730,11 +762,11 @@ planuose.
 reikšmės miškuose galima tik tuo atveju, kai Vyriausybė priima nutarimą dėl tam
 tikrų valstybinės reikšmės miškų plotų išbraukimo iš valstybinės reikšmės miškų
 plotų. 
-7. Kai miško žemę planuojama paversti kitomis naudmenomis,
-pirmenybė teikiama tai miško žemei, kuri neapaugusi mišku (kirtavietės, žuvę
-medynai, miško aikštės) ir kurioje auga mažo skalsumo stichinių veiksnių
-sudarkyti ar kitaip išretėję medynai. Visais atvejais turi būti atsižvelgiama į
-miškų aplinkosaugos reikšmę.
+7. Kai miško žemę planuojama paversti kitomis
+naudmenomis, pirmenybė teikiama tai miško žemei, kuri neapaugusi mišku
+(kirtavietės, žuvę medynai, miško aikštės) ir kurioje auga mažo skalsumo
+stichinių veiksnių sudarkyti ar kitaip išretėję medynai. Visais atvejais turi
+būti atsižvelgiama į miškų aplinkosaugos reikšmę.
 8. Asmenys, inicijuojantys valstybinės miško žemės
 pavertimą kitomis naudmenomis, privalo į valstybės biudžetą sumokėti piniginę
 kompensaciją, kurią sudaro kitomis naudmenomis paverčiamos miško žemės sklypo
@@ -749,12 +781,27 @@ kompensacija.
 privačios miško žemės pavertimą kitomis naudmenomis, privalo Vyriausybės
 nustatyta tvarka nuosavybės teise priklausančioje žemėje įveisti mišką ne
 mažesniame plote negu kitomis naudmenomis paverčiamos miško žemės plotas arba
-sumokėti į valstybės biudžetą šio straipsnio 8 dalyje nurodytą piniginę kompensaciją.
-Privačią miško žemę paverčiant kitomis naudmenomis III grupės miškuose,
-įveisiamo miško plotas turi būti ne mažesnis negu dvigubo dydžio kitomis
-naudmenomis paverčiamos miško žemės sklypo plotas, II grupės miškuose – ne
-mažesnis negu trigubo dydžio kitomis naudmenomis paverčiamos miško žemės sklypo
-plotas. 
+sumokėti į valstybės biudžetą šio straipsnio 8 dalyje nurodytą piniginę
+kompensaciją. Privačią miško žemę paverčiant kitomis naudmenomis III grupės
+miškuose, įveisiamo miško plotas turi būti ne mažesnis negu dvigubo dydžio
+kitomis naudmenomis paverčiamos miško žemės sklypo plotas, II grupės miškuose –
+ne mažesnis negu trigubo dydžio kitomis naudmenomis paverčiamos miško žemės
+sklypo plotas. 
+9 dalies redakcija nuo 2013-03-01:
+9. Privačios miško žemės savininkai, organizuojantys
+privačios miško žemės pavertimą kitomis naudmenomis, privalo Vyriausybės
+nustatyta tvarka nuosavybės teise priklausančioje žemėje įveisti mišką ne
+mažesniame plote negu kitomis naudmenomis paverčiamos miško žemės plotas arba
+sumokėti į valstybės biudžetą šio straipsnio 8 dalyje nurodytą piniginę
+kompensaciją. Privačią miško žemę paverčiant kitomis naudmenomis III grupės
+miškuose, įveisiamo miško plotas turi būti ne mažesnis negu dvigubo dydžio
+kitomis naudmenomis paverčiamos miško žemės sklypo plotas, II grupės miškuose –
+ne mažesnis negu trigubo dydžio kitomis naudmenomis paverčiamos miško žemės sklypo
+plotas. Privačios miško žemės naudotojai, įskaitant servituto turėtojus,
+organizuojantys privačios miško žemės pavertimą kitomis naudmenomis, privalo
+sumokėti į valstybės biudžetą šio straipsnio 8 dalyje nurodytą piniginę
+kompensaciją.
+ 
 10. Sumokėtos piniginės kompensacijos įtraukiamos į
 valstybės biudžeto pajamas, jų apskaita tvarkoma specialiojoje Bendrųjų miškų
 ūkio reikmių finansavimo programoje ir naudojamos naujiems miškams įveisti
@@ -762,11 +809,11 @@ skirtai žemei įsigyti, miškams įveisti ir kitoms su miškų priežiūra, aps
 tvarkymu susijusioms šio įstatymo 7 straipsnio 2 dalyje nurodytoms priemonėms
 finansuoti. Kompensacijų apskaičiavimo ir mokėjimo tvarką nustato Vyriausybė.
 11. Miško
-iškirtimas technologinėms ir gamybinėms miško ūkio reikmėms (medelynams
-įrengti, miško ūkiniams keliams tiesti, priešgaisrinėms juostoms,
-technologiniams proskiebiams, poilsio aikštelėms ir medienos sandėliams
-įrengti, nustatyta tvarka žvyrui ir smėliui kasti miško ūkio reikmėms) nėra
-miško žemės pavertimas kitomis naudmenomis.
+iškirtimas technologinėms ir gamybinėms miško ūkio reikmėms (medelynams įrengti,
+miško ūkiniams keliams tiesti, priešgaisrinėms juostoms, technologiniams
+proskiebiams, poilsio aikštelėms ir medienos sandėliams įrengti, nustatyta
+tvarka žvyrui ir smėliui kasti miško ūkio reikmėms) nėra miško žemės pavertimas
+kitomis naudmenomis.
 Straipsnio
 pakeitimai:
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
@@ -776,6 +823,9 @@ Nr. XI-1448,
 Nr.
 XI-2361,
 2012-11-06, Žin., 2012, Nr. 132-6687 (2012-11-15)
+Nr.
+XI-2362,
+2012-11-06, Žin., 2012, Nr. 132-6688 (2012-11-15)
  
 12
 straipsnis. Miško žemės sausinimas, tręšimas ir kelių per miško žemę tiesimas 
@@ -802,17 +852,17 @@ Valstybinė miškų inventorizacija, miškų apskaita ir miškų kadastras
 nustatyti miško išteklius, jų kokybę, teikti informaciją apie miškų gamtinę ir
 ūkinę būklę. Valstybinė miškų inventorizacija atliekama visuose
 miškuose. Miškų urėdijose, valstybiniuose rezervatuose ir valstybiniuose
-parkuose inventorizuojama ir įtraukiama į apskaitą ne tik miško, bet ir
-valstybinė ne miško žemė (žemės ūkio naudmenos, vandenys ir kt.).
+parkuose inventorizuojama ir įtraukiama į apskaitą ne tik miško, bet ir valstybinė
+ne miško žemė (žemės ūkio naudmenos, vandenys ir kt.).
 2. Medžių savaiminukais, kurių vidutinis amžius ne
 mažesnis kaip 20 metų, apaugusi ne miško žemė inventorizuojama ir įtraukiama į
 apskaitą kaip miškas Aplinkos ministerijos ir Žemės ūkio ministerijos nustatyta
 tvarka.
 3. Valstybinės miškų inventorizacijos specialistai turi teisę įeiti į visus miškus, atlikti inventorizacijos darbus ir gauti reikiamą
 informaciją jiems atlikti.
-4. Lietuvos Respublikoje valstybinė miškų inventorizacija atliekama
-atrankos metodu. Ji skirta strateginiam miškų sektoriaus planavimui valstybės
-lygmeniu. Miškų sklypų inventorizacija atliekama miško ūkiui organizuoti miško žemėje ir yra skirta miškotvarkos projektams rengti.
+4. Lietuvos Respublikoje valstybinė miškų inventorizacija atliekama atrankos
+metodu. Ji skirta strateginiam miškų sektoriaus planavimui valstybės lygmeniu.
+Miškų sklypų inventorizacija atliekama miško ūkiui organizuoti miško žemėje ir yra skirta miškotvarkos projektams rengti.
 5.
 Valstybinės miškų inventorizacijos ir miškų apskaitos tvarką, turinį ir
 periodiškumą nustato Aplinkos ministerija.
@@ -836,8 +886,8 @@ Nr. XI-1448,
 14
 straipsnis. Miškotvarkos projektas
 1. Miškotvarkos
-projektas – tai dokumentas, pagal kurį organizuojama miškų ūkio veikla ir
-atliekami visi miškų atkūrimo, naudojimo ir miško žemių tvarkymo darbai.
+projektas – tai dokumentas, pagal kurį organizuojama miškų ūkio veikla ir atliekami
+visi miškų atkūrimo, naudojimo ir miško žemių tvarkymo darbai.
 2. Skiriami šie miškotvarkos projektų tipai:
 1) miškų tvarkymo schemos – tai specialiojo teritorijų
 planavimo dokumentai, rengiami valstybinių miškų valdytojų bei regionų
@@ -845,8 +895,8 @@ teritorijoms ir skiriami bendrajai miško žemių naudojimo politikai nustatyti,
 jų tvarkymo koncepcijai parengti;
 2) vidinės miškotvarkos projektai – tai miškų ūkio
 veiklos planai, rengiami visoms valstybinių miškų valdytojų ir privačioms miškų
-valdoms arba ne miškų ūkio paskirties žemės sklype esančiai miško žemei ir skiriami
-konkrečių tvarkymo priemonių sistemai jose nustatyti.
+valdoms arba ne miškų ūkio paskirties žemės sklype esančiai miško žemei ir
+skiriami konkrečių tvarkymo priemonių sistemai jose nustatyti.
 3. Miškotvarkos projektai rengiami pagal Aplinkos
 ministerijos patvirtintas šių projektų rengimo taisykles bei metodiką ir jose
 nustatytus kriterijus.
@@ -888,8 +938,8 @@ Straipsnio
 pakeitimai:
 Nr. X-599, 2006-05-09,
 Žin., 2006, Nr. 61-2174 (2006-05-31)
-Nr. XI-1448, 2011-06-16,
-Žin., 2011, Nr. 74-3548 (2011-06-18)
+Nr. XI-1448,
+2011-06-16, Žin., 2011, Nr. 74-3548 (2011-06-18)
  
 IV
 SKYRIUS
@@ -898,8 +948,8 @@ ATKŪRIMAS, AUGINIMAS IR KIRTIMAS
  
 15
 straipsnis. Miško atkūrimas ir įveisimas
-1. Lietuvos Respublikos teritorijos miškingumas turi būti didinamas
-įstatymų ir kitų teisės aktų nustatyta tvarka įveisiant mišką ne miško žemėje.
+1. Lietuvos Respublikos teritorijos miškingumas turi būti didinamas įstatymų
+ir kitų teisės aktų nustatyta tvarka įveisiant mišką ne miško žemėje.
 Privačioje ne miško žemėje miškas įveisiamas Aplinkos ministerijos ir Žemės
 ūkio ministerijos nustatyta tvarka. Kai miškas įveisiamas ne miško žemėje, šiam
 plotui taikomas Miškų įstatymas. 
@@ -907,7 +957,8 @@ plotui taikomas Miškų įstatymas.
 želdinius ir žėlinius saugoti bei prižiūrėti savo lėšomis. 
 3. Miškas
 turi būti atkurtas ir įveistas miško sodmenimis, kurių kilmė ir kokybė atitinka
-Aplinkos ministerijos tvirtinamų Miško dauginamosios medžiagos nuostatų reikalavimus.
+Aplinkos ministerijos tvirtinamų Miško dauginamosios medžiagos nuostatų
+reikalavimus.
 4. Miškas
 atkuriamas ir įveisiamas mišką želdinant arba jam želiant, laikantis Aplinkos
 ministerijos tvirtinamų Miško atkūrimo ir įveisimo nuostatų reikalavimų.
@@ -1118,8 +1169,7 @@ PAPILDYMO ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-87, 2000 12 19, Žin., 2000, Nr.
 111-3566 (2000 12 29)
-MIŠKŲ ĮSTATYMO 8, 10, 14, 16, 17, 18, 22, 26 STRAIPSNIŲ PAKEITIMO
-ĮSTATYMAS
+MIŠKŲ ĮSTATYMO 8, 10, 14, 16, 17, 18, 22, 26 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas
 įsigalioja nuo 2001 m. sausio 1 d.
  
@@ -1260,6 +1310,17 @@ MIŠKŲ
 ĮSTATYMO 4, 11 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis
 įstatymas, išskyrus 4 straipsnį, įsigalioja 2013 m. sausio 1 d.
+ 
+19.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-2362,
+2012-11-06, Žin., 2012, Nr. 132-6688 (2012-11-15)
+MIŠKŲ
+ĮSTATYMO 5 IR 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2013 m. kovo 1 d.
  
  
 *** Pabaiga ***
