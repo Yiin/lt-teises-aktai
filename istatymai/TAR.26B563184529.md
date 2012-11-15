@@ -711,6 +711,19 @@ po jo paskelbimo vietinėje spaudoje arba kitą dieną po oficialaus informacini
 pranešimo vietinėje spaudoje apie teritorijų planavimo dokumento patvirtinimą
 ir viso teritorijų planavimo dokumento paskelbimo atitinkamos savivaldybės
 interneto tinklalapyje, jeigu pačiame teisės akte nenustatyta vėlesnė jo įsigaliojimo data.
+10
+ir 11 dalių redakcija nuo 2014-01-01:
+10. Patvirtintas
+valstybės, apskrities bendrasis (generalinis) planas įsigalioja kitą dieną po
+jį tvirtinančios institucijos sprendimo dėl bendrojo (generalinio) plano
+patvirtinimo ir viso teritorijų planavimo dokumento paskelbimo Teisės aktų
+registre, jeigu pačiame sprendime nenustatyta vėlesnė jo įsigaliojimo data.
+11. Patvirtintas
+savivaldybės ar jos dalies teritorijos bendrasis planas įsigalioja kitą dieną
+po jo paskelbimo vietinėje spaudoje arba kitą dieną po oficialaus informacinio
+pranešimo vietinėje spaudoje apie teritorijų planavimo dokumento patvirtinimą
+ir viso teritorijų planavimo dokumento paskelbimo atitinkamos savivaldybės
+interneto svetainėje, jeigu pačiame teisės akte nenustatyta vėlesnė jo įsigaliojimo data.
 Straipsnio
 pakeitimai:
 Nr.
@@ -718,6 +731,9 @@ X-1061,
 2007-03-22, Žin., 2007, Nr. 39-1437 (2007-04-05)
 Nr. XI-826,
 2010-05-20, Žin., 2010, Nr. 65-3195 (2010-06-05)
+Nr.
+XI-2349,
+2012-11-06, Žin., 2012, Nr. 132-6677 (2012-11-15)
  
 12 straipsnis. Bendrojo teritorijų planavimo
 dokumentų įgyvendinimas ir keitimas
@@ -738,10 +754,10 @@ pateikti ataskaitas Vyriausybei, taip pat informuoti visuomenę, kaip
 sprendiniai.
 3.
 Savivaldybės administracijos direktorius, Vyriausybės įgaliota institucija,
-Vyriausybė per šešis mėnesius po Seimo ir savivaldybių tarybų rinkimų
-atitinkamai supažindina Seimą, Vyriausybę ir savivaldybės tarybą su valstybės,
-apskrities ir savivaldybės teritorijos bendrojo teritorijų planavimo dokumentų
-sprendinių įgyvendinimo rezultatais.
+Vyriausybė per šešis mėnesius po Seimo ir savivaldybių tarybų rinkimų atitinkamai
+supažindina Seimą, Vyriausybę ir savivaldybės tarybą su valstybės, apskrities
+ir savivaldybės teritorijos bendrojo teritorijų planavimo dokumentų sprendinių
+įgyvendinimo rezultatais.
 4.
 Savivaldybės administracijos direktorius, Vyriausybės įgaliota institucija,
 Vyriausybė per šešis mėnesius po Seimo ir savivaldybių tarybų rinkimų
@@ -789,8 +805,8 @@ ar jų dalys;
 teritorijų sistema ir jos dalys;
 6) komunikaciniai
 koridoriai;
-7) žemė,
-reikalinga ypatingos valstybinės svarbos projektams įgyvendinti.
+7) žemė, reikalinga
+ypatingos valstybinės svarbos projektams įgyvendinti.
 2. Specialiojo
 teritorijų planavimo uždaviniai:
 1) užtikrinti
@@ -948,10 +964,11 @@ teritorijų tvarkymo reglamentai.
 pasekmių vertinimo etapas. Teritorijų planavimo dokumento sprendinių poveikio
 vertinimas atliekamas Vyriausybės nustatyta tvarka. Įstatymų ir kitų teisės
 aktų nustatytais atvejais ir tvarka atliekamas teritorijų planavimo dokumento
-sprendinių strateginis pasekmių aplinkai vertinimas. Tais atvejais, kai pagal Planuojamos
-ūkinės veiklos poveikio aplinkai vertinimo įstatymą turi būti atliktas
-planuojamos ūkinės veiklos poveikio aplinkai vertinimas ir toks vertinimas nėra
-atliktas, šis vertinimas atliekamas specialiojo plano rengimo metu. 
+sprendinių strateginis pasekmių aplinkai vertinimas. Tais atvejais, kai pagal
+Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymą turi būti
+atliktas planuojamos ūkinės veiklos poveikio aplinkai vertinimas ir toks
+vertinimas nėra atliktas, šis vertinimas atliekamas specialiojo plano rengimo
+metu. 
 5. Baigiamąjį etapą sudaro:
 1) teritorijų
 planavimo dokumento svarstymo ir derinimo stadija – konsultavimasis ar viešas
@@ -1025,13 +1042,27 @@ ministerijų ar Vyriausybės įstaigų ir kitų valstybės institucijų sprendim
 specialiojo plano patvirtinimo įstatymų nustatytais atvejais paskelbiamas
 „Valstybės žiniose“ ir visas teritorijų planavimo dokumentas paskelbiamas
 „Valstybės žinių“ interneto tinklalapyje 
-(www.valstybes-zinios.lt), savivaldybės patvirtintas specialusis planas įsigalioja
-kitą dieną po jo paskelbimo vietinėje spaudoje arba kitą dieną po oficialaus
-informacinio pranešimo vietinėje spaudoje apie teritorijų planavimo dokumento
-patvirtinimą ir viso teritorijų planavimo dokumento paskelbimo atitinkamos
-savivaldybės interneto tinklalapyje, jeigu pačiuose teisės aktuose nenustatyta
-vėlesnė jų įsigaliojimo data. Patvirtinti specialieji planai galioja
-neterminuotai.
+(www.valstybes-zinios.lt), savivaldybės patvirtintas specialusis planas
+įsigalioja kitą dieną po jo paskelbimo vietinėje spaudoje arba kitą dieną po
+oficialaus informacinio pranešimo vietinėje spaudoje apie teritorijų planavimo
+dokumento patvirtinimą ir viso teritorijų planavimo dokumento paskelbimo
+atitinkamos savivaldybės interneto tinklalapyje, jeigu pačiuose teisės aktuose
+nenustatyta vėlesnė jų įsigaliojimo data. Patvirtinti specialieji planai
+galioja neterminuotai.
+8
+dalies redakcija nuo 2014-01-01:
+8. Patvirtintas
+specialusis planas įsigalioja kitą dieną po to, kai Seimo, Vyriausybės,
+ministerijų ar Vyriausybės įstaigų ir kitų valstybės institucijų sprendimas dėl
+specialiojo plano patvirtinimo ir visas teritorijų planavimo dokumentas
+įstatymų nustatytais atvejais paskelbiamas Teisės aktų registre, savivaldybės
+patvirtintas specialusis planas įsigalioja kitą dieną po jo paskelbimo
+vietinėje spaudoje arba kitą dieną po oficialaus informacinio pranešimo
+vietinėje spaudoje apie teritorijų planavimo dokumento patvirtinimą ir viso
+teritorijų planavimo dokumento paskelbimo atitinkamos savivaldybės interneto
+svetainėje, jeigu pačiuose teisės aktuose nenustatyta vėlesnė jų įsigaliojimo
+data. Patvirtinti specialieji planai galioja neterminuotai.
+ 
 9. Specialiųjų
 planų keitimai rengiami, svarstomi, derinami, tikrinami, tvirtinami ta pačia
 tvarka kaip ir specialusis planas. Specialusis planas keičiamas tik tais
@@ -1048,6 +1079,9 @@ X-1061,
 2007-03-22, Žin., 2007, Nr. 39-1437 (2007-04-05)
 Nr. XI-826,
 2010-05-20, Žin., 2010, Nr. 65-3195 (2010-06-05)
+Nr.
+XI-2349,
+2012-11-06, Žin., 2012, Nr. 132-6677 (2012-11-15)
  
 *181 straipsnis. Ypatingos valstybinės
 svarbos projektų specialiųjų planų rengimo, derinimo, keitimo, tikrinimo,
@@ -1087,6 +1121,22 @@ daiktinių teisių į tokius žemės sklypus, ir kito nekilnojamojo turto, esan�
 tokiuose žemės sklypuose, savininkams ar naudotojams. Šie
 pranešimai siunčiami Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos
 valstybinės svarbos projektus įstatymo 16 straipsnyje nustatyta tvarka.
+4
+dalies redakcija nuo 2014-01-01:
+4. Planavimo
+organizatorius apie parengtą ypatingos valstybinės svarbos projekto specialųjį
+planą, susipažinimo su šiuo planu ir jo svarstymo tvarką, vietą ir laiką turi
+paskelbti spaudoje, savo interneto svetainėje, savivaldybės, kurios teritorijoje
+yra planuojama įgyvendinti ypatingos valstybinės svarbos projektą, interneto
+svetainėje, seniūnijos skelbimų lentoje, taip pat apie tai raštu pranešti žemės
+sklypų, kurie patenka į specialiuoju planu planuojamą teritoriją, ir su šia
+teritorija besiribojančių žemės sklypų savininkams, nuomininkams, asmenims, valdantiems tokius žemės sklypus
+patikėjimo ar panaudos teise, taip pat asmenims, turintiems daiktinių teisių į
+tokius žemės sklypus, ir kito nekilnojamojo turto, esančio tokiuose žemės
+sklypuose, savininkams ar naudotojams. Šie pranešimai siunčiami Žemės
+paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos
+projektus įstatymo 16 straipsnyje nustatyta tvarka.
+ 
 5. Pasiūlymai
 dėl ypatingos valstybinės svarbos projekto specialiojo plano sprendinių
 planavimo organizatoriui teikiami raštu per visą specialiojo plano rengimo
@@ -1179,10 +1229,9 @@ straipsnis taikomas tik:
 projektų specialiųjų planų, dėl kurių iki 2012 m. liepos 1 d. dar nėra išduotos
 planavimo sąlygos, rengimui, derinimui, keitimui, tikrinimui, tvirtinimui,
 galiojimui, viešumo užtikrinimui ir ginčų sprendimui; 
-2) jau galiojančių ypatingos
-valstybinės svarbos projektų specialiųjų planų pakeitimų rengimui, derinimui,
-keitimui, tikrinimui, tvirtinimui, galiojimui, viešumo užtikrinimui ir ginčų
-sprendimui.
+2) jau galiojančių ypatingos valstybinės
+svarbos projektų specialiųjų planų pakeitimų rengimui, derinimui, keitimui, tikrinimui,
+tvirtinimui, galiojimui, viešumo užtikrinimui ir ginčų sprendimui.
 Ypatingos valstybinės svarbos
 projektų specialieji planai, dėl kurių iki 2012 m. liepos 1 d. yra išduotos
 planavimo sąlygos, planavimo organizatoriaus pasirinkimu yra baigiami rengti,
@@ -1196,6 +1245,11 @@ sprendimo tvarką.
 Nr.
 XI-2034,
 2012-05-24, Žin., 2012, Nr. 63-3172 (2012-06-05)
+Straipsnio
+pakeitimai:
+Nr.
+XI-2349,
+2012-11-06, Žin., 2012, Nr. 132-6677 (2012-11-15)
  
 KETVIRTASIS
 SKIRSNIS
@@ -1264,12 +1318,12 @@ planavimo dokumentai yra šie:
 1)
 miestų teritorijų dalių, žemės sklypų grupių, žemės sklypų detalieji planai;
 2)
-kaimų teritorijų, miestelių teritorijų, kaimų teritorijų dalių, miestelių teritorijų
-dalių, žemės sklypų grupių, žemės sklypų detalieji planai.
+kaimų teritorijų, miestelių teritorijų, kaimų teritorijų dalių, miestelių
+teritorijų dalių, žemės sklypų grupių, žemės sklypų detalieji planai.
 2.
-Žemės reformos metu formuojant natūra grąžinamus žemės sklypus Vyriausybės
-nustatyta tvarka parengti ir patvirtinti žemės sklypų planai prilyginami
-detaliojo teritorijų planavimo dokumentams.
+Žemės reformos metu formuojant natūra grąžinamus žemės sklypus Vyriausybės nustatyta
+tvarka parengti ir patvirtinti žemės sklypų planai prilyginami detaliojo
+teritorijų planavimo dokumentams.
 3. Miestų
 teritorijose Vyriausybės nustatyta tvarka parengti ir savivaldybės administracijos direktoriaus patvirtinti
 žemės sklypų planai prilyginami detaliojo teritorijų planavimo dokumentams:
@@ -1373,12 +1427,12 @@ savivaldybės lygmens bendrasis planas turi neprieštarauti Vyriausybės
 patvirtintų specialiųjų planų sprendiniams. Apie numatomą statyti objektą ir jo
 projektavimo pradžią visuomenė informuojama Vyriausybės įgaliotos institucijos
 nustatyta tvarka;
-4) daugiabučių ir
-gyvenamųjų namų bei socialinės infrastruktūros objektams atnaujinti
-(modernizuoti), jei nekeičiamas pastato užimamas plotas, aukštis ir tūris
-(neįvertinant šių parametrų pasikeitimo dėl išorinių atitvarų šiltinimo, išorės
-apdailos keitimo, balkonų ir lodžijų stiklinimo, įėjimo laiptelių, nuovažų,
-liftų ar keltuvų įrengimo) ir (ar) statinių naudojimo paskirtis;
+4) daugiabučių ir gyvenamųjų
+namų bei socialinės infrastruktūros objektams atnaujinti (modernizuoti), jei
+nekeičiamas pastato užimamas plotas, aukštis ir tūris (neįvertinant šių
+parametrų pasikeitimo dėl išorinių atitvarų šiltinimo, išorės apdailos keitimo,
+balkonų ir lodžijų stiklinimo, įėjimo laiptelių, nuovažų, liftų ar keltuvų
+įrengimo) ir (ar) statinių naudojimo paskirtis;
 5) kai žemės ūkio
 paskirties žemėje numatoma nustatyta tvarka įveisti mišką;
 6) šio Įstatymo 21
@@ -1403,9 +1457,9 @@ kurioje numatoma statyti vienbutį ar dvibutį gyvenamąjį namą, kai nėra
 patvirtinto tos vietovės bendrojo plano;
 12) jeigu kaimo
 vietovėse, išskyrus saugomas teritorijas, atnaujinama gamyba anksčiau
-statytuose gamybiniuose ar gyvulininkystės pastatuose juos atnaujinant,
-rekonstruojant arba keičiant auginamų gyvulių rūšį, kai prie šių pastatų jau
-yra suformuoti žemės sklypai, reikalingi šių pastatų eksploatacijai; 
+statytuose gamybiniuose ar gyvulininkystės pastatuose juos atnaujinant, rekonstruojant
+arba keičiant auginamų gyvulių rūšį, kai prie šių pastatų jau yra suformuoti
+žemės sklypai, reikalingi šių pastatų eksploatacijai; 
 13)
 biodujų
 gamybos įrenginiams iki
@@ -1422,14 +1476,13 @@ nurodytomis statinių koordinatėmis. Šiais atvejais žemės sklypo teritorijos
 tvarkymo ir naudojimo režimas nenustatomas ir nekeičiamas.
 4. Naudojamų gretimų
 žemės sklypų ribas ir plotą be detaliojo plano galima keisti, jei toks keitimas
-nesiejamas su naujo sklypo suformavimu ar žemės ploto padidinimu laisvoje
-valstybinėje žemėje, taip pat su teritorijos tvarkymo ir naudojimo režimo
-pakeitimu.
+nesiejamas su naujo sklypo suformavimu ar žemės ploto padidinimu laisvoje valstybinėje
+žemėje, taip pat su teritorijos tvarkymo ir naudojimo režimo pakeitimu.
 5. Kaimo gyvenamosiose
 vietovėse šio straipsnio 1 dalies 6 punkte nustatytu atveju ir kai žemės
-sklypai padalijami, atidalijami (išskyrus atvejus, kai pagal įstatymus žemės
-sklypus dalyti dalimis neleidžiama), perdalijami ar sujungiami, kai formuojami
-nauji valstybinės žemės sklypai (išskyrus atvejus, kai yra formuojami kitos
+sklypai padalijami, atidalijami (išskyrus atvejus, kai pagal įstatymus žemės sklypus
+dalyti dalimis neleidžiama), perdalijami ar sujungiami, kai formuojami nauji
+valstybinės žemės sklypai (išskyrus atvejus, kai yra formuojami kitos
 paskirties žemės sklypai naujų statinių statybai) ir kai formuojami žemės
 sklypai prie naudojamų statinių, taip pat kai miesto ir kaimo gyvenamosiose
 vietovėse esančiose mėgėjų sodo teritorijose formuojami valstybinės
@@ -1446,9 +1499,9 @@ keičiantys pagrindinę tikslinę žemės naudojimo paskirtį iš žemės ūkio 
 paskirties žemę, rengiami, jei toks keitimas numatytas savivaldybės ar jos
 dalies bendruosiuose ir specialiuosiuose planuose. 
 7.
-Detalieji planai rengiami, derinami, viešai svarstomi ir tvirtinami
-supaprastinta tvarka, kuri yra išdėstyta šio Įstatymo 26 straipsnio 1 dalyje
-nurodytose taisyklėse ir 30 straipsnio 3 dalyje nurodytuose nuostatuose:
+Detalieji planai rengiami, derinami, viešai svarstomi ir tvirtinami supaprastinta
+tvarka, kuri yra išdėstyta šio Įstatymo 26 straipsnio 1 dalyje nurodytose
+taisyklėse ir 30 straipsnio 3 dalyje nurodytuose nuostatuose:
 1) šio straipsnio 1
 dalies 6 punkte nurodytu atveju;
 2) daugiabučių ir gyvenamųjų namų bei socialinės infrastruktūros objektams atnaujinti
@@ -1460,13 +1513,13 @@ Nr. IX-2466,
 Nr. X-679, 2006-06-08,
 Žin., 2006, Nr. 66-2429 (2006-06-13)
 Nr.
-X-1421,
-2008-01-17, Žin., 2008, Nr. 10-337 (2008-01-24)
+X-1421, 2008-01-17,
+Žin., 2008, Nr. 10-337 (2008-01-24)
 Nr.
 X-1796,
 2008-11-11, Žin., 2008, Nr. 135-5232 (2008-11-25)
-Nr. XI-619,
-2009-12-22, Žin., 2009, Nr. 159-7205 (2009-12-31)
+Nr. XI-619, 2009-12-22,
+Žin., 2009, Nr. 159-7205 (2009-12-31)
 Nr. XI-995,
 2010-07-02, Žin., 2010, Nr. 84-4404 (2010-07-15)
 Nr.
@@ -1554,9 +1607,9 @@ jeigu jų planavimo tikslams įgyvendinti yra parengti būtinos inžinerinės
 infrastruktūros plėtros planai. Jei šie planai neparengti, jie gali būti
 rengiami vienu metu su detaliaisiais planais.
 4. Detalieji planai negali būti rengiami, jeigu
-planavimo tikslai prieštarauja įstatymų ir kitų teisės aktų reikalavimams.
-Detalieji planai, kurių numatomi sprendiniai neatitinka regiono ar rajono
-lygmens bendrųjų arba specialiųjų planų sprendinių, planavimo organizatoriaus
+planavimo tikslai prieštarauja įstatymų ir kitų teisės aktų reikalavimams. Detalieji
+planai, kurių numatomi sprendiniai neatitinka regiono ar rajono lygmens
+bendrųjų arba specialiųjų planų sprendinių, planavimo organizatoriaus
 pageidavimu rengiami kartu su bendrųjų ar specialiųjų planų (išskyrus žemės
 reformos žemėtvarkos projektų) sprendinių pakeitimais, jei sprendimą dėl
 sprendinių keitimo yra priėmusi šiuos planus tvirtinusi institucija. Šiuo
@@ -1701,8 +1754,8 @@ tvarka. Dėl nustatytu terminu nepatvirtinto detaliojo plano planavimo
 organizatoriui atsiradusią žalą atlygina savivaldybė įstatymų nustatyta tvarka.
 
 6. Detaliųjų planų sprendiniai galioja
-neterminuotai, jeigu tvirtinant detalųjį planą nebuvo nustatytas konkretus
-galiojimo terminas.
+neterminuotai, jeigu tvirtinant detalųjį planą nebuvo nustatytas konkretus galiojimo
+terminas.
 7. Detaliųjų planų keitimai rengiami, derinami ir
 tvirtinami ta pačia tvarka kaip ir detalusis planas.
 8. Patvirtintas detalusis planas įsigalioja kitą
@@ -1712,6 +1765,16 @@ patvirtinimą ir viso teritorijų planavimo dokumento paskelbimo atitinkamos
 savivaldybės interneto tinklalapyje. Patvirtintas detalusis planas
 turi būti paskelbtas ne vėliau kaip per 5 darbo dienas nuo jo patvirtinimo
 dienos.
+8
+dalies redakcija nuo 2014-01-01:
+8. Patvirtintas detalusis planas įsigalioja kitą
+dieną po jo paskelbimo vietinėje spaudoje arba kitą dieną po oficialaus
+informacinio pranešimo vietinėje spaudoje apie teritorijų planavimo dokumento
+patvirtinimą ir viso teritorijų planavimo dokumento paskelbimo atitinkamos
+savivaldybės interneto svetainėje. Patvirtintas
+detalusis planas turi būti paskelbtas ne vėliau kaip per 5 darbo dienas nuo jo
+patvirtinimo dienos.
+ 
 9. Sprendimą dėl detaliojo plano patvirtinimo
 savivaldybė privalo pateikti Vyriausybės įgaliotai institucijai ne
 vėliau kaip per 20 darbo dienų nuo jo priėmimo.
@@ -1729,6 +1792,9 @@ Nr. XI-619,
 2009-12-22, Žin., 2009, Nr. 159-7205 (2009-12-31)
 Nr. XI-826,
 2010-05-20, Žin., 2010, Nr. 65-3195 (2010-06-05)
+Nr.
+XI-2349,
+2012-11-06, Žin., 2012, Nr. 132-6677 (2012-11-15)
  
 PENKTASIS
 SKIRSNIS
@@ -1758,15 +1824,15 @@ dokumentas tvirtinti neteikiamas.
 institucijų sąrašas, kompetencija ir derinimo tvarka nurodomi atitinkamų rūšių
 teritorijų planavimo dokumentų rengimo taisyklėse. 
 4. Savivaldybės
-lygmens teritorijų planavimo dokumentų derinimo procedūra atliekama
-savivaldybės Nuolatinėje statybos komisijoje kompleksiškai ir turi būti baigta
-per 15 darbo dienų nuo planavimo organizatoriaus prašymo derinti teritorijų
-planavimo dokumentą pateikimo dienos. Komisija sudaroma iš planavimo sąlygas
-rengiančių institucijų atstovų, turinčių įgaliojimus priimti sprendimus.
-Komisijos pirmininkas ir komisijos nariai už savo pagal kompetenciją priimtų
-sprendimų teisėtumą atsako įstatymų nustatyta tvarka. Derinimo procedūroje turi
-dalyvauti planavimo organizatorius ar jo įgaliotas atstovas. Derinimo
-procedūros rezultatai įforminami protokolu. Teritorijų planavimo dokumentas yra
+lygmens teritorijų planavimo dokumentų derinimo procedūra atliekama savivaldybės
+Nuolatinėje statybos komisijoje kompleksiškai ir turi būti baigta per 15 darbo
+dienų nuo planavimo organizatoriaus prašymo derinti teritorijų planavimo
+dokumentą pateikimo dienos. Komisija sudaroma iš planavimo sąlygas rengiančių
+institucijų atstovų, turinčių įgaliojimus priimti sprendimus. Komisijos
+pirmininkas ir komisijos nariai už savo pagal kompetenciją priimtų sprendimų
+teisėtumą atsako įstatymų nustatyta tvarka. Derinimo procedūroje turi dalyvauti
+planavimo organizatorius ar jo įgaliotas atstovas. Derinimo procedūros
+rezultatai įforminami protokolu. Teritorijų planavimo dokumentas yra
 suderintas, jei tam pritarė visi posėdyje dalyvavę ar raštu savo pritarimą
 pateikę savivaldybės Nuolatinės komisijos nariai. Jeigu bent vienas komisijos
 narys nepritaria teritorijų planavimo dokumento derinimui, laikoma, kad
@@ -1841,9 +1907,9 @@ vykdomosios institucijos – savivaldybių lygmens teritorijų planavimo dokumen
 ir juridiniai asmenys, kitos organizacijos ir jų padaliniai turi teisę
 susipažinti su Lietuvos Respublikos teritorijų planavimo dokumentų registro
 duomenimis ir už nustatytą mokestį gauti jų kopijas.
-6. Duomenis Lietuvos
-Respublikos teritorijų planavimo dokumentų registro tvarkytojui jo prašymu
-nustatyta tvarka teikia valstybės registrų, kadastrų, klasifikatorių,
+6. Duomenis
+Lietuvos Respublikos teritorijų planavimo dokumentų registro tvarkytojui jo
+prašymu nustatyta tvarka teikia valstybės registrų, kadastrų, klasifikatorių,
 specializuotų duomenų bazių tvarkytojai.
 Straipsnio
 pakeitimai:
@@ -1889,22 +1955,42 @@ rūšis.
 straipsnis. Teritorijų planavimo viešumas
 1. Teritorijų planavimo
 proceso parengiamojo etapo metu ministerijų, Vyriausybės įstaigų ir kitų
-valstybės valdymo institucijų sprendimai dėl teritorijų planavimo dokumentų rengimo
-pradžios ir planavimo tikslų, planavimo darbų programa skelbiami „Valstybės
+valstybės valdymo institucijų sprendimai dėl teritorijų planavimo dokumentų
+rengimo pradžios ir planavimo tikslų, planavimo darbų programa skelbiami „Valstybės
 žiniose“ ir institucijų interneto tinklalapiuose. Aukštesniųjų administracinių
 vienetų valdymo institucijų sprendimai dėl teritorijų planavimo dokumentų
 rengimo pradžios ir planavimo tikslų, planavimo darbų programa skelbiami
 vietinėje spaudoje ir institucijų interneto tinklalapiuose. Savivaldybių ir jų
 vykdomųjų institucijų priimti sprendimai dėl teritorijų planavimo dokumentų
-rengimo, planavimo darbų programa skelbiami vietinėje
-spaudoje, savivaldybės interneto tinklalapyje ir seniūnijose, kuriose vyksta
-teritorijos planavimas. Tokia pat tvarka planavimo organizatorius skelbia
-informaciją apie teritorijų planavimo dokumento koncepcijos, jei ji rengiama,
-patvirtinimą. Detaliojo planavimo organizatorius apie žemės sklypo ar grupės
-žemės sklypų teritorijos planavimo dokumentų rengimo pradžią ir planavimo
-tikslus raštu informuoja kaimyninių žemės sklypų valdytojus ir naudotojus, taip
-pat detaliųjų planų rengimo taisyklėse nustatyta tvarka prie planuojamos
-teritorijos įrengia stendą su šia informacija.
+rengimo, planavimo darbų programa skelbiami
+vietinėje spaudoje, savivaldybės interneto tinklalapyje ir seniūnijose, kuriose
+vyksta teritorijos planavimas. Tokia pat tvarka planavimo organizatorius
+skelbia informaciją apie teritorijų planavimo dokumento koncepcijos, jei ji
+rengiama, patvirtinimą. Detaliojo planavimo organizatorius apie žemės sklypo ar
+grupės žemės sklypų teritorijos planavimo dokumentų rengimo pradžią ir
+planavimo tikslus raštu informuoja kaimyninių žemės sklypų valdytojus ir
+naudotojus, taip pat detaliųjų planų rengimo taisyklėse nustatyta tvarka prie
+planuojamos teritorijos įrengia stendą su šia informacija.
+1
+dalies redakcija nuo 2014-01-01:
+1. Teritorijų
+planavimo proceso parengiamojo etapo metu ministerijų, Vyriausybės įstaigų ir
+kitų valstybės valdymo institucijų sprendimai dėl teritorijų planavimo
+dokumentų rengimo pradžios ir planavimo tikslų, planavimo darbų programa
+skelbiami institucijų interneto svetainėse. Aukštesniųjų administracinių
+vienetų valdymo institucijų sprendimai dėl teritorijų planavimo dokumentų
+rengimo pradžios ir planavimo tikslų, planavimo darbų programa skelbiami
+vietinėje spaudoje ir institucijų interneto svetainėse. Savivaldybių ir jų vykdomųjų
+institucijų priimti sprendimai dėl teritorijų planavimo dokumentų rengimo,
+planavimo darbų programa skelbiami vietinėje spaudoje, savivaldybės interneto svetainėje ir seniūnijose,
+kuriose vyksta teritorijos planavimas. Tokia pat tvarka planavimo
+organizatorius skelbia informaciją apie teritorijų planavimo dokumento
+koncepcijos, jei ji rengiama, patvirtinimą. Detaliojo planavimo organizatorius
+apie žemės sklypo ar grupės žemės sklypų teritorijos planavimo dokumentų
+rengimo pradžią ir planavimo tikslus raštu informuoja kaimyninių žemės sklypų
+valdytojus ir naudotojus, taip pat detaliųjų planų rengimo taisyklėse nustatyta
+tvarka prie planuojamos teritorijos įrengia stendą su šia informacija.
+ 
 2.
 Fiziniai ir juridiniai asmenys turi teisę susipažinti su patvirtintomis
 teritorijų planavimo dokumentų koncepcijomis, jei jos rengiamos, parengtais ir
@@ -1925,16 +2011,16 @@ vieno mėnesio laikotarpis, iš jo ne mažiau kaip 15 darbo dienų – viešai
 ekspozicijai;
 3)
 susipažinti su parengtais detaliaisiais planais skiriamas ne trumpesnis kaip 20
-darbo dienų laikotarpis, iš jo ne mažiau kaip 10 darbo dienų – viešai ekspozicijai.
-
+darbo dienų laikotarpis, iš jo ne mažiau kaip 10 darbo dienų – viešai
+ekspozicijai. 
 4. Planavimo organizatoriai apie
 parengtą teritorijų planavimo dokumentą, susipažinimo su juo, svarstymo tvarką,
 vietą ir laiką turi paskelbti spaudoje ir sprendimą rengti teritorijų planavimo
 dokumentą priėmusios valstybės institucijos ar savivaldybės interneto
 tinklalapyje. Planavimo organizatoriai apie parengtą savivaldybės ar jos dalies
 teritorijų planavimo dokumentą, susipažinimo su juo, svarstymo tvarką, vietą ir
-laiką taip pat turi paskelbti seniūnijų, kuriose yra planuojama teritorija, skelbimų
-lentoje, o žemės sklypo ar grupės žemės sklypų teritorijos detaliojo planavimo
+laiką taip pat turi paskelbti seniūnijų, kuriose yra planuojama teritorija,
+skelbimų lentoje, o žemės sklypo ar grupės žemės sklypų teritorijos detaliojo planavimo
 atveju – ir prie planuojamos teritorijos įrengtame stende. Tais atvejais,
 kai pagal detaliojo plano arba savivaldybės lygmens specialiojo plano
 sprendinius žemės sklypas rezervuojamas svarbiems valstybės, apskrities ar
@@ -1942,12 +2028,32 @@ savivaldybės objektams plėtoti arba kai numatoma pakeisti jo pagrindinę
 tikslinę žemės naudojimo paskirtį, naudojimo būdą ar pobūdį, planavimo
 organizatorius apie tai turi raštu pranešti žemės sklypų valdytojams ir
 naudotojams.
+4
+dalies redakcija nuo 2014-01-01:
+4. Planavimo
+organizatoriai apie parengtą teritorijų planavimo dokumentą, susipažinimo su
+juo, svarstymo tvarką, vietą ir laiką turi paskelbti spaudoje ir sprendimą
+rengti teritorijų planavimo dokumentą priėmusios valstybės institucijos ar
+savivaldybės interneto svetainėje. Planavimo
+organizatoriai apie parengtą savivaldybės ar jos dalies teritorijų planavimo
+dokumentą, susipažinimo su juo, svarstymo tvarką, vietą ir laiką taip pat turi
+paskelbti seniūnijų, kuriose yra planuojama teritorija, skelbimų lentoje, o
+žemės sklypo ar grupės žemės sklypų teritorijos detaliojo planavimo atveju – ir
+prie planuojamos teritorijos įrengtame stende. Tais atvejais, kai pagal
+detaliojo plano arba savivaldybės lygmens specialiojo plano sprendinius žemės
+sklypas rezervuojamas svarbiems valstybės, apskrities ar savivaldybės objektams
+plėtoti arba kai numatoma pakeisti jo pagrindinę tikslinę žemės naudojimo
+paskirtį, naudojimo būdą ar pobūdį, planavimo organizatorius apie tai turi
+raštu pranešti žemės sklypų valdytojams ir naudotojams.
 Straipsnio
 pakeitimai:
 Nr. X-679, 2006-06-08,
 Žin., 2006, Nr. 66-2429 (2006-06-13)
 Nr. XI-619,
 2009-12-22, Žin., 2009, Nr. 159-7205 (2009-12-31)
+Nr.
+XI-2349,
+2012-11-06, Žin., 2012, Nr. 132-6677 (2012-11-15)
  
 32 straipsnis. Pasiūlymų teikimas ir ginčų nagrinėjimas 
 1. Pasiūlymai dėl teritorijų planavimo
@@ -2024,13 +2130,13 @@ XI-2034,
 straipsnis. Konsultavimasis ir viešas susirinkimas 
 1.
 Konsultavimosi,
-kaip teritorijų planavimo viešumo užtikrinimo procedūros, metu su
-kompetentingomis suinteresuotomis organizacijomis tariamasi dėl parengtų
-valstybės ir regiono lygmens teritorijų planavimo dokumentų sprendinių. 
+kaip teritorijų planavimo viešumo užtikrinimo procedūros, metu su kompetentingomis
+suinteresuotomis organizacijomis tariamasi dėl parengtų valstybės ir regiono
+lygmens teritorijų planavimo dokumentų sprendinių. 
 2. Viešas susirinkimas, kaip teritorijų planavimo
 viešumo užtikrinimo procedūra, yra organizuojamas parengus rajonų, vietovės
-lygmens bendrojo, specialiojo, detaliojo teritorijų planavimo dokumentus, praėjus
-nustatytam susipažinimo su parengtais teritorijų planavimo dokumentais
+lygmens bendrojo, specialiojo, detaliojo teritorijų planavimo dokumentus,
+praėjus nustatytam susipažinimo su parengtais teritorijų planavimo dokumentais
 laikotarpiui. Planavimo organizatoriai nustatyta tvarka turi pateikti parengtą
 teritorijų planavimo dokumentą, taip pat kitą sprendinius iliustruojančią
 medžiagą. Viešo susirinkimo metu planavimo organizatorius ar jo įgaliotas asmuo
@@ -2044,20 +2150,20 @@ VALSTYBINĖ TERITORIJŲ PLANAVIMO PRIEŽIŪRA
  
 34 straipsnis. Valstybinė teritorijų
 planavimo priežiūra 
-1. Valstybinė teritorijų planavimo
-priežiūra – tai tikrinimas, ar planavimo sąlygos ir planavimo sąlygų sąvadas
-atitinka teisės aktų reikalavimus, bendrųjų, specialiųjų ir detaliųjų
-teritorijų planavimo dokumentų rengimo, svarstymo ir derinimo procedūrų
-kontrolė, taip pat tikrinimas, ar sprendiniai atitinka šio Įstatymo ir kitų
-teritorijų planavimą reglamentuojančių teisės aktų reikalavimus. Valstybinės
-teritorijų planavimo priežiūros bendroji tvarka nustatoma įstatymu.
+1. Valstybinė teritorijų planavimo priežiūra
+– tai tikrinimas, ar planavimo sąlygos ir planavimo sąlygų sąvadas atitinka
+teisės aktų reikalavimus, bendrųjų, specialiųjų ir detaliųjų teritorijų
+planavimo dokumentų rengimo, svarstymo ir derinimo procedūrų kontrolė, taip pat
+tikrinimas, ar sprendiniai atitinka šio Įstatymo ir kitų teritorijų planavimą
+reglamentuojančių teisės aktų reikalavimus. Valstybinės teritorijų planavimo
+priežiūros bendroji tvarka nustatoma įstatymu.
 2. Valstybinę
 teritorijų planavimo priežiūrą atlieka:
 1) valstybės, Vyriausybės, Vyriausybės
-įgaliotos institucijos ir apskrities lygmens bendrojo bei specialiojo teritorijų
-planavimo (išskyrus žemėtvarkos schemas) bei valstybės sienos, krašto apsaugos
-ir strateginės reikšmės objektų teritorijų detaliojo planavimo – Aplinkos
-ministerijos įgaliota institucija;
+įgaliotos institucijos ir apskrities lygmens bendrojo bei specialiojo
+teritorijų planavimo (išskyrus žemėtvarkos schemas) bei valstybės sienos,
+krašto apsaugos ir strateginės reikšmės objektų teritorijų detaliojo planavimo
+– Aplinkos ministerijos įgaliota institucija;
 2)
 savivaldybės lygmens bendrojo, specialiojo teritorijų planavimo dokumentų,
 detaliųjų planų – Aplinkos ministerijos įgaliota institucija;
@@ -2087,8 +2193,8 @@ Nr. X-679, 2006-06-08,
 Žin., 2006, Nr. 66-2429 (2006-06-13)
 Nr. XI-500,
 2009-11-19, Žin., 2009, Nr. 144-6351 (2009-12-05)
-Nr. XI-995, 2010-07-02,
-Žin., 2010, Nr. 84-4404 (2010-07-15)
+Nr. XI-995,
+2010-07-02, Žin., 2010, Nr. 84-4404 (2010-07-15)
  
 35 straipsnis. Valstybinę teritorijų planavimo
 priežiūrą atliekančių institucijų funkcijos 
@@ -2130,10 +2236,9 @@ straipsnis. Teritorijų planavimo ir priežiūros specialistai
 dokumentus turi teisę: 
 1) juridiniai
 asmenys ir įmonių, įsteigtų Europos Sąjungos valstybėse narėse ir kitose
-Europos ekonominės erdvės susitarimą pasirašiusiose valstybėse, filialai
-Lietuvos Respublikoje, jeigu jų steigimo dokumentuose numatyta teritorijų
-planavimo veikla, o darbams vadovauja atestuotas teritorijų planavimo
-specialistas;
+Europos ekonominės erdvės susitarimą pasirašiusiose valstybėse, filialai Lietuvos
+Respublikoje, jeigu jų steigimo dokumentuose numatyta teritorijų planavimo
+veikla, o darbams vadovauja atestuotas teritorijų planavimo specialistas;
 2) teritorijų planavimo specialistas ar atitinkamos
 kvalifikacijos aukštąjį išsilavinimą turintis specialistas (bendrojo plano
 dalims rengti).
@@ -2173,12 +2278,11 @@ aukštąjį išsilavinimą. Valstybinę teritorijų planavimo priežiūrą atlie
 atitinkamos kvalifikacijos aukštąjį išsilavinimą turintys atestuoti
 specialistai. 
 6. Teritorijų
-planavimo specialistų, vyriausiųjų architektų ir valstybinę teritorijų
-planavimo priežiūrą atliekančių specialistų atestavimo tvarką ir
-kvalifikacinius reikalavimus nustato Aplinkos ministerija ar Kultūros
-ministerija pagal kompetenciją. Išduotų atestatų galiojimas gali būti
-panaikinamas Aplinkos ministerijos ar Kultūros ministerijos nustatyta tvarka
-nustačius, kad:
+planavimo specialistų, vyriausiųjų architektų ir valstybinę teritorijų planavimo
+priežiūrą atliekančių specialistų atestavimo tvarką ir kvalifikacinius
+reikalavimus nustato Aplinkos ministerija ar Kultūros ministerija pagal
+kompetenciją. Išduotų atestatų galiojimas gali būti panaikinamas Aplinkos
+ministerijos ar Kultūros ministerijos nustatyta tvarka nustačius, kad:
 1) siekiant
 gauti atestatą, buvo pateikti klaidingi arba melagingi duomenys;
 2) atestatas
@@ -2237,8 +2341,8 @@ Nr.
 VIII-323,
 97.06.26, Žin., 1997, Nr.65-1548 (97.07.09)
 LIETUVOS
-RESPUBLIKOS TERITORIJŲ PLANAVIMO ĮSTATYMO 2, 4, 6, 8, 9, 11, 17, 20, 21, 23,
-24, 29, 30, 32 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+RESPUBLIKOS TERITORIJŲ PLANAVIMO ĮSTATYMO 2, 4, 6, 8, 9, 11, 17, 20, 21, 23, 24,
+29, 30, 32 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 2.
 Lietuvos
@@ -2308,8 +2412,8 @@ Iki
  2004 m. gegužės 1 d. pradėti rengti teritorijų planavimo dokumentai (išskyrus
 bendruosius planus), kuriems išduotos planavimo sąlygos, sudarytos planavimo
 darbų sutartys ir pradėtos viešo svarstymo su visuomene procedūros, baigiami
-rengti pagal iki 2004 m. gegužės 1 d. galiojusį Teritorijų planavimo įstatymą
-(Žin., 1995, Nr. 107-2391)
+rengti pagal iki 2004 m. gegužės 1 d. galiojusį Teritorijų planavimo įstatymą (Žin.,
+1995, Nr. 107-2391)
 ir kitus teritorijų planavimą reglamentavusius teisės aktus.
 Pakeitimas:
 Lietuvos Respublikos Seimas,
@@ -2486,11 +2590,21 @@ Nr. XI-2225,
 TERITORIJŲ
 PLANAVIMO ĮSTATYMO 22 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+24.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-2349,
+2012-11-06, Žin., 2012, Nr. 132-6677 (2012-11-15)
+TERITORIJŲ
+PLANAVIMO ĮSTATYMO 11, 18, 18(1), 26 IR 31 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2014 m. sausio 1 d.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2012-09-26)
+Aušrinė Trapinskienė (2012-11-23)
                  
 ausrine.trapinskiene@lrs.lt
