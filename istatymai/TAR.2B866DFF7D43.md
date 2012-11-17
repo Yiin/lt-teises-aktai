@@ -4195,11 +4195,29 @@ referendume,
 baudžiamas
 viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba
 laisvės atėmimu iki trejų metų.
+Straipsnio redakcija nuo 2013-01-01:
+172 straipsnis. Trukdymas pasinaudoti rinkimų ar referendumo teise
+1. Tas, kas
+naudodamas psichinę prievartą arba papirkdamas, arba apgaulės būdu trukdė
+asmeniui realizuoti savo teisę rinkti, būti išrinktam arba dalyvauti
+referendume arba organizavo trukdymą asmeniui realizuoti savo teisę rinkti, būti išrinktam arba dalyvauti referendume,
+baudžiamas
+viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba
+laisvės atėmimu iki ketverių metų.
+2. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, jeigu
+dėl to rinkimai ar referendumas buvo pripažinti negaliojančiais,
+baudžiamas bauda
+arba laisvės atėmimu iki penkerių metų.
+3. Už šiame
+straipsnyje numatytas veikas atsako ir juridinis asmuo.
 Straipsnio
 pakeitimai:
 Nr.
 X-1233,
 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
+Nr.
+XI-2393,
+2012-11-08, Žin., 2012, Nr. 133-6759 (2012-11-17)
  
 173 straipsnis. Rinkimų ar referendumo
 dokumento suklastojimas arba suklastoto rinkimų ar referendumo dokumento
@@ -4219,6 +4237,32 @@ ar referendumas buvo pripažinti negaliojančiais arba tai turėjo reikšmingos
 įtakos rinkimų ar referendumo rezultatams,
 baudžiamas
 laisvės atėmimu iki trejų metų.
+Straipsnio redakcija nuo 2013-01-01:
+173 straipsnis. Rinkimų ar referendumo
+dokumento suklastojimas arba suklastoto rinkimų ar referendumo dokumento
+panaudojimas
+1.
+Tas, kas siekdamas paveikti rinkimų ar referendumo rezultatus suklastojo
+rinkėjų sąrašą, turinčių teisę dalyvauti referendume piliečių sąrašą, balsų
+skaičiavimo protokolą, rinkimų ar referendumo biuletenį, pagamino didelį kiekį
+rinkimų ar referendumo netikrų biuletenių arba panaudojo suklastotą ar netikrą
+rinkimų ar referendumo dokumentą, arba organizavo šių dokumentų klastojimą,
+gaminimą arba naudojimą,
+baudžiamas
+viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba
+laisvės atėmimu iki ketverių metų.
+2.
+Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, jeigu dėl to rinkimai
+ar referendumas buvo pripažinti negaliojančiais,
+baudžiamas
+laisvės atėmimu iki penkerių metų.
+3. Už šiame
+straipsnyje numatytas veikas atsako ir juridinis asmuo.
+Straipsnio
+pakeitimai:
+Nr.
+XI-2393,
+2012-11-08, Žin., 2012, Nr. 133-6759 (2012-11-17)
  
 174 straipsnis. Neteisingas rinkimų balsų suskaičiavimas
 1.
@@ -4228,11 +4272,32 @@ baudžiamas
 viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba
 laisvės atėmimu iki dvejų metų.
 2.
-Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, jeigu dėl to rinkimai ar
-referendumas buvo pripažinti negaliojančiais arba tai turėjo reikšmingos įtakos
-rinkimų ar referendumo rezultatams,
+Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, jeigu dėl to rinkimai
+ar referendumas buvo pripažinti negaliojančiais arba tai turėjo reikšmingos
+įtakos rinkimų ar referendumo rezultatams,
 baudžiamas
 areštu arba laisvės atėmimu iki trejų metų.
+Straipsnio redakcija nuo 2013-01-01:
+174 straipsnis. Neteisingas rinkimų balsų suskaičiavimas
+1.
+Tas, kas siekdamas paveikti rinkimų ar referendumo rezultatus neteisingai
+suskaičiavo ir užfiksavo rinkėjų ar referendume dalyvavusių piliečių balsus
+arba organizavo neteisingą balsų skaičiavimą arba fiksavimą,
+baudžiamas
+viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba
+laisvės atėmimu iki ketverių metų.
+2. Tas,
+kas padarė šio straipsnio 1 dalyje numatytą veiką, jeigu dėl to rinkimai ar
+referendumas buvo pripažinti negaliojančiais,
+baudžiamas
+areštu, arba bauda, arba laisvės atėmimu iki penkerių metų.
+3. Už šiame
+straipsnyje numatytas veikas atsako ir juridinis asmuo.
+Straipsnio
+pakeitimai:
+Nr.
+XI-2393,
+2012-11-08, Žin., 2012, Nr. 133-6759 (2012-11-17)
  
 175
 straipsnis. Rinkimų ar referendumo dokumento sunaikinimas, sugadinimas, 
@@ -4247,9 +4312,27 @@ rezultatams,
 baudžiamas
 viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba
 laisvės atėmimu iki trejų metų.
+Straipsnio redakcija nuo 2013-01-01:
+175 straipsnis. Rinkimų ar referendumo
+dokumento sunaikinimas, sugadinimas, pagrobimas arba paslėpimas
+1. Tas, kas
+sunaikino, sugadino, pagrobė arba paslėpė rinkėjų ar turinčių teisę dalyvauti
+referendume piliečių sąrašą, rinkimų ar referendumo biuletenį ar balsų
+skaičiavimo protokolą, jeigu dėl to rinkimai ar referendumas buvo pripažinti
+negaliojančiais arba tai turėjo reikšmingos įtakos rinkimų ar referendumo
+rezultatams, arba organizavo šių dokumentų naikinimą, gadinimą, grobimą arba
+slėpimą,
+baudžiamas
+viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba
+laisvės atėmimu iki penkerių metų.
+2. Už šiame
+straipsnyje numatytas veikas atsako ir juridinis asmuo.
 Straipsnio pakeitimai:
-Nr. IX-1495,
-2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
+Nr. IX-1495, 2003-04-10,
+Žin., 2003, Nr. 38-1733 (2003-04-24)
+Nr.
+XI-2393,
+2012-11-08, Žin., 2012, Nr. 133-6759 (2012-11-17)
  
 XXVII
 SKYRIUS
@@ -4261,8 +4344,8 @@ sveikatos apsaugos darbe reikalavimų pažeidimas
 1. Darbdavys ar
 jo įgaliotas asmuo, pažeidęs darbų saugos įstatymuose ar kituose teisės aktuose
 nustatytus darbų saugos ar sveikatos apsaugos darbe reikalavimus, jeigu dėl to
-įvyko nelaimingas atsitikimas žmonėms, avarija ar atsirado kitokių sunkių padarinių,
-
+įvyko nelaimingas atsitikimas žmonėms, avarija ar atsirado kitokių sunkių
+padarinių, 
 baudžiamas bauda
 arba laisvės atėmimu iki aštuonerių metų.
 2. Darbdavys ar
@@ -4377,8 +4460,8 @@ laisvės atėmimu iki septynerių metų.
 apiplėšė panaudojęs šaunamąjį ginklą ar sprogmenį arba apiplėšęs pagrobė
 didelės vertės turtą ar didelės mokslinės, istorinės arba kultūrinės reikšmės
 turinčias vertybes, arba apiplėšė dalyvaudamas organizuotoje grupėje, 
-baudžiamas
-laisvės atėmimu nuo dvejų iki dešimties metų.
+baudžiamas laisvės
+atėmimu nuo dvejų iki dešimties metų.
 Straipsnio pakeitimai:
 Nr. IX-1706,
 2003-07-04, Žin., 2003, Nr. 74-3423 (2003-07-25)
@@ -4419,14 +4502,14 @@ X-1233,
 1. Tas, kas
 apgaule savo ar kitų naudai įgijo svetimą turtą ar turtinę teisę, išvengė
 turtinės prievolės arba ją panaikino,
- baudžiamas
-viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba
-laisvės atėmimu iki trejų metų.
+ baudžiamas viešaisiais
+darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
+iki trejų metų.
 2.
 Tas, kas apgaule savo ar kitų naudai įgijo didelės vertės svetimą turtą ar
-turtinę teisę arba didelės mokslinės, istorinės ar kultūrinės reikšmės
-turinčias vertybes arba išvengė didelės vertės turtinės prievolės, arba ją
-panaikino, arba sukčiavo dalyvaudamas organizuotoje grupėje,
+turtinę teisę arba didelės mokslinės, istorinės ar kultūrinės reikšmės turinčias
+vertybes arba išvengė didelės vertės turtinės prievolės, arba ją panaikino,
+arba sukčiavo dalyvaudamas organizuotoje grupėje,
 baudžiamas
 laisvės atėmimu iki aštuonerių metų.
 3.
@@ -4600,9 +4683,9 @@ baudžiamas
 bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų
 metų.
 2.
-Tas, kas įgijo, naudojosi arba realizavo didelės vertės turtą ar didelės mokslinės,
-istorinės ar kultūrinės reikšmės turinčias vertybes žinodamas, kad tas turtas
-ar vertybės gauti nusikalstamu būdu,
+Tas, kas įgijo, naudojosi arba realizavo didelės vertės turtą ar didelės
+mokslinės, istorinės ar kultūrinės reikšmės turinčias vertybes žinodamas, kad
+tas turtas ar vertybės gauti nusikalstamu būdu,
 baudžiamas
 bauda arba areštu, arba laisvės atėmimu iki ketverių metų.
 3. Tas, kas įgijo, naudojosi arba realizavo nedidelės vertės turtą, žinodamas, kad tas turtas gautas nusikalstamu būdu, padarė baudžiamąjį nusižengimą ir baudžiamas viešaisiais darbais arba bauda, arba areštu.
@@ -4618,8 +4701,8 @@ X-1233,
 *1891 straipsnis. Neteisėtas praturtėjimas
 1.
 Tas, kas turėjo nuosavybės teise didesnės negu 500 MGL vertės turtą, žinodamas
-arba turėdamas ir galėdamas žinoti, kad tas turtas negalėjo būti įgytas
-teisėtomis pajamomis,
+arba turėdamas ir galėdamas žinoti, kad tas turtas negalėjo būti įgytas teisėtomis
+pajamomis,
 baudžiamas
 bauda arba areštu, arba laisvės atėmimu iki ketverių metų.
 2.
@@ -4634,8 +4717,8 @@ traukiami tik asmenys, kurie Baudžiamojo kodekso 1891 straipsnyje
 nustatytus požymius  atitinkantį turtą turi  po šio įstatymo  (Nr. XI-1199) įsigaliojimo.
 Kodeksas papildytas
 straipsniu:
-Nr. XI-1199,
-2010-12-02, Žin., 2010, Nr. 145-7439 (2010-12-11)
+Nr. XI-1199, 2010-12-02,
+Žin., 2010, Nr. 145-7439 (2010-12-11)
  
 190 straipsnis. Turto vertės išaiškinimas
 1.
@@ -4706,8 +4789,8 @@ arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 Straipsnio
 pakeitimai:
-Nr. XI-330, 2009-07-09,
-Žin., 2009, Nr. 87-3663 (2009-07-23)
+Nr. XI-330,
+2009-07-09, Žin., 2009, Nr. 87-3663 (2009-07-23)
 *Pastaba: 1 dalis, straipsnis  papildytas nauja 2 dalimi,
 buvusią 2 dalį laikyti 3 dalimi
  
@@ -4716,28 +4799,29 @@ straipsnis. Informacijos apie autorių teisių ar gretutinių teisių valdymą
 sunaikinimas arba pakeitimas
 1. Tas, kas be autorių teisių ar gretutinių teisių subjekto
 leidimo komercijos tikslais sunaikino arba pakeitė informaciją apie autorių
-teisių ar gretutinių teisių valdymą, jeigu pagal tą informaciją
-identifikuojamas kūrinys, kūrinio autorius, kitas autorių teisių subjektas arba
-atlikėjas, kūrinio atlikimas, fonograma, fonogramos gamintojas, kitas
-gretutinių teisių subjektas, taip pat informaciją apie kūrinio, jo atlikimo ar
-fonogramos naudojimo sąlygas ir tvarką, įskaitant visus skaičius ar kodus,
-perteikiančius kūrinio, atlikimo įrašo ar fonogramos egzemplioriuose pažymėtą
-arba jų viešo paskelbimo metu pateikiamą informaciją,
+teisių ar gretutinių teisių valdymą, jeigu pagal tą informaciją identifikuojamas
+kūrinys, kūrinio autorius, kitas autorių teisių subjektas arba atlikėjas,
+kūrinio atlikimas, fonograma, fonogramos gamintojas, kitas gretutinių teisių
+subjektas, taip pat informaciją apie kūrinio, jo atlikimo ar fonogramos
+naudojimo sąlygas ir tvarką, įskaitant visus skaičius ar kodus, perteikiančius
+kūrinio, atlikimo įrašo ar fonogramos egzemplioriuose pažymėtą arba jų viešo
+paskelbimo metu pateikiamą informaciją,
 baudžiamas
 bauda arba areštu, arba laisvės atėmimu iki vienerių metų.
 2.
 Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
  
-194 straipsnis.
-Neteisėtas autorių teisių ar gretutinių teisių techninių apsaugos priemonių
-pašalinimas
+194
+straipsnis. Neteisėtas autorių teisių ar gretutinių teisių techninių apsaugos
+priemonių pašalinimas
  1. Tas, kas
 neteisėtai pašalino bet kokias technines apsaugos priemones, kurias autorių
-teisių ar gretutinių teisių subjektai naudoja savo teisėms įgyvendinti ar apsaugoti,
-arba komercijos tikslais gamino, importavo, eksportavo, laikė, gabeno ar
-platino galimybę pašalinti tas technines apsaugos priemones suteikiančius
-prietaisus (dekoderius, dekodavimo korteles ar kitokius prietaisus) arba
-programinę įrangą, slaptažodžius, kodus ar kitokius panašius duomenis,
+teisių ar gretutinių teisių subjektai naudoja savo teisėms įgyvendinti ar
+apsaugoti, arba komercijos tikslais gamino, importavo, eksportavo, laikė,
+gabeno ar platino galimybę pašalinti tas technines apsaugos priemones
+suteikiančius prietaisus (dekoderius, dekodavimo korteles ar kitokius
+prietaisus) arba programinę įrangą, slaptažodžius, kodus ar kitokius panašius
+duomenis,
 baudžiamas bauda
 arba areštu, arba laisvės atėmimu iki dvejų metų.
 2.
@@ -4823,8 +4907,8 @@ Straipsnio pakeitimai:
 Nr. IX-1992,
 2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)
 Nr.
-X-1233, 2007-06-28,
-Žin., 2007, Nr. 81-3309 (2007-07-21)
+X-1233,
+2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
  
 198 straipsnis. Neteisėtas elektroninių
 duomenų perėmimas ir
@@ -4945,9 +5029,9 @@ X-272,
  
 199(2) straipsnis. Neteisėtas
 disponavimas akcizais apmokestinamomis prekėmis
-1. Tas, kas pažeisdamas
-nustatytą tvarką įgijo, laikė, gabeno, siuntė, naudojo ar realizavo akcizais
-apmokestinamas prekes, kurių vertė viršija 250 MGL dydžio sumą, 
+1. Tas, kas
+pažeisdamas nustatytą tvarką įgijo, laikė, gabeno, siuntė, naudojo ar realizavo
+akcizais apmokestinamas prekes, kurių vertė viršija 250 MGL dydžio sumą, 
 baudžiamas bauda
 arba laisvės atėmimu iki septynerių metų.
 2. Už šiame
@@ -4979,8 +5063,8 @@ alkoholinius gėrimus, nedenatūruotą ar denatūruotą etilo alkoholį, jų
 skiedinius (mišinius) arba juos realizavo, arba gamino, laikė, gabeno ar
 realizavo aparatus naminiams stipriems alkoholiniams gėrimams gaminti,
 baudžiamas
-viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba
-laisvės atėmimu iki dvejų metų. 
+viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės
+atėmimu iki dvejų metų. 
 2. Tas, kas
 turėdamas tikslą realizuoti neteisėtai pagamino, laikė, gabeno penkiasdešimt
 arba daugiau litrų naminių stiprių alkoholinių gėrimų, nedenatūruoto ar
@@ -4992,8 +5076,8 @@ neturėdamas tikslo realizuoti neteisėtai pagamino, laikė, gabeno dešimt arba
 daugiau litrų naminių stiprių alkoholinių gėrimų arba nedenatūruoto ar
 denatūruoto etilo alkoholio, jų skiedinių (mišinių), padarė baudžiamąjį
 nusižengimą ir
-baudžiamas viešaisiais
-darbais arba bauda, arba laisvės apribojimu.
+baudžiamas
+viešaisiais darbais arba bauda, arba laisvės apribojimu.
 Straipsnio pakeitimai:
 Nr. IX-1706,
 2003-07-04, Žin., 2003, Nr. 74-3423 (2003-07-25)
@@ -5075,8 +5159,8 @@ arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 2. Už šiame
 straipsnyje numatytą veiką atsako ir juridinis asmuo.
 Straipsnio pakeitimai:
-Nr. IX-2314,
-2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)
+Nr. IX-2314, 2004-07-05,
+Žin., 2004, Nr. 108-4030 (2004-07-13)
 Nr.
 XI-1472,
 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
@@ -5157,8 +5241,8 @@ baudžiamas
 viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba
 laisvės atėmimu iki dvejų metų.
 Straipsnio pakeitimai:
-Nr. IX-2314,
-2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)
+Nr. IX-2314, 2004-07-05,
+Žin., 2004, Nr. 108-4030 (2004-07-13)
 Nr.
 XI-1472,
 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
@@ -5199,20 +5283,19 @@ IR BAUDŽIAMIEJI NUSIŽENGIMAI FINANSŲ SISTEMAI
 213 straipsnis. Netikrų pinigų
 ar vertybinių popierių pagaminimas, laikymas arba realizavimas
 1. Tas, kas pagamino netikrus ar klastojo tikrus Lietuvos ar kitos
-valstybės apyvartoje esančius ar oficialiai patvirtintus, bet į apyvartą dar
-neišleistus pinigus arba vertybinius popierius arba įgijo, laikė ar realizavo
-netikrus arba suklastotus Lietuvos ar kitos valstybės apyvartoje esančius ar
-oficialiai patvirtintus, bet į apyvartą dar neišleistus pinigus arba
-vertybinius popierius, arba gamino, įgijo, laikė ar realizavo įrangą,
-programinę įrangą ar specialiąsias medžiagas netikriems pinigams ar
-vertybiniams popieriams gaminti ar tikriems pinigams ar vertybiniams popieriams
-klastoti,
+valstybės apyvartoje esančius ar oficialiai patvirtintus, bet į apyvartą dar neišleistus
+pinigus arba vertybinius popierius arba įgijo, laikė ar realizavo netikrus arba
+suklastotus Lietuvos ar kitos valstybės apyvartoje esančius ar oficialiai
+patvirtintus, bet į apyvartą dar neišleistus pinigus arba vertybinius
+popierius, arba gamino, įgijo, laikė ar realizavo įrangą, programinę įrangą ar
+specialiąsias medžiagas netikriems pinigams ar vertybiniams popieriams gaminti
+ar tikriems pinigams ar vertybiniams popieriams klastoti,
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės
 atėmimu iki ketverių metų.
 2. Tas, kas pagamino, suklastojo, įgijo, laikė arba realizavo didelį
 kiekį arba didelės vertės netikrų ar suklastotų Lietuvos ar kitos valstybės
-apyvartoje esančių ar oficialiai patvirtintų, bet į apyvartą dar neišleistų
-pinigų arba vertybinių popierių,
+apyvartoje esančių ar oficialiai patvirtintų, bet į apyvartą dar neišleistų pinigų
+arba vertybinių popierių,
 baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.
 3. Tas, kas gavęs kaip tikrus realizavo nedidelį kiekį žinomai netikrų ar
 suklastotų Lietuvos ar kitos valstybės apyvartoje esančių pinigų ar vertybinių
@@ -5232,8 +5315,8 @@ Straipsnio pakeitimai:
 Nr. IX-1495,
 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
 Nr.
-X-272, 2005-06-23,
-Žin., 2005, Nr. 81-2945 (2005-06-30)
+X-272,
+2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)
 Nr.
 X-1233,
 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
@@ -5347,16 +5430,15 @@ apskaičiuotų daugiau kaip 500 MGL dydžio mokesčių,
 baudžiamas
 laisvės atėmimu nuo dvejų iki šešerių metų.
 3.
-Tas, kas padaręs šio straipsnio 1 dalyje numatytą veiką nesumokėjo jam
-apskaičiuotų ne daugiau kaip 10 MGL dydžio mokesčių, padarė baudžiamąjį
-nusižengimą ir
+Tas, kas padaręs šio straipsnio 1 dalyje numatytą veiką nesumokėjo jam apskaičiuotų
+ne daugiau kaip 10 MGL dydžio mokesčių, padarė baudžiamąjį nusižengimą ir
 baudžiamas
 viešaisiais darbais arba bauda, arba laisvės apribojimu.
 4.
 Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 Straipsnio pakeitimai:
-Nr. IX-1992, 2004-01-29,
-Žin., 2004, Nr. 25-760 (2004-02-14)
+Nr. IX-1992,
+2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)
  
 220 straipsnis. Neteisingų duomenų apie
 pajamas, pelną ar turtą pateikimas 
@@ -5403,11 +5485,11 @@ Nr. IX-2314,
 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)
  
 222 straipsnis. Apgaulingas apskaitos tvarkymas
-1. Tas, kas apgaulingai
-tvarkė teisės aktų reikalaujamą buhalterinę apskaitą arba paslėpė, sunaikino ar
-sugadino apskaitos dokumentus, jeigu dėl to negalima visiškai ar iš dalies
-nustatyti asmens veiklos, jo turto, nuosavo kapitalo ar įsipareigojimų dydžio
-ar struktūros,
+1. Tas, kas
+apgaulingai tvarkė teisės aktų reikalaujamą buhalterinę apskaitą arba paslėpė,
+sunaikino ar sugadino apskaitos dokumentus, jeigu dėl to negalima visiškai ar
+iš dalies nustatyti asmens veiklos, jo turto, nuosavo kapitalo ar
+įsipareigojimų dydžio ar struktūros,
 baudžiamas bauda
 arba areštu, arba laisvės atėmimu iki ketverių metų.
 2.
@@ -5435,9 +5517,9 @@ Nr.
 XI-1472,
 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
  
-224 straipsnis. Netikrų ar suklastotų
-pašto ženklų, važiavimo ar kitokių bilietų, banderolių ar kitų oficialių
-žymėjimo ženklų pagaminimas, laikymas ar realizavimas
+224 straipsnis. Netikrų ar suklastotų pašto
+ženklų, važiavimo ar kitokių bilietų, banderolių ar kitų oficialių žymėjimo
+ženklų pagaminimas, laikymas ar realizavimas
 1.
 Tas, kas pagamino, laikė ar realizavo netikrus ar suklastotus pašto ženklus,
 važiavimo ar kitokius bilietus, banderoles ar kitus oficialius žymėjimo
@@ -5460,10 +5542,10 @@ IR BAUDŽIAMIEJI NUSIŽENGIMAI VALSTYBĖS TARNYBAI IR VIEŠIESIEMS INTERESAMS
 225
 straipsnis. Kyšininkavimas
 1. Valstybės
-tarnautojas ar jam prilygintas asmuo, savo ar kitų naudai tiesiogiai ar netiesiogiai
-pažadėjęs ar susitaręs priimti kyšį arba reikalavęs
-ar provokavęs duoti kyšį, arba priėmęs kyšį už teisėtą veikimą ar
-neveikimą vykdant įgaliojimus,
+tarnautojas ar jam prilygintas asmuo, savo ar kitų naudai tiesiogiai ar
+netiesiogiai pažadėjęs ar susitaręs priimti kyšį arba
+reikalavęs ar provokavęs duoti kyšį, arba priėmęs kyšį už teisėtą
+veikimą ar neveikimą vykdant įgaliojimus,
 baudžiamas bauda
 arba areštu, arba laisvės atėmimu iki penkerių metų.
 2. Valstybės
@@ -5507,9 +5589,9 @@ siekdamas, kad asmuo, pasinaudodamas savo visuomenine padėtimi, tarnyba,
 savivaldybės institucijai ar įstaigai, tarptautinei viešajai organizacijai, jų
 valstybės tarnautojui ar jam prilygintam asmeniui, paveiktų atitinkamą
 instituciją, įstaigą ar organizaciją, valstybės tarnautoją ar jam prilygintą
-asmenį, kad šie teisėtai ar neteisėtai veiktų ar neveiktų vykdydami įgaliojimus,
-jam ar trečiajam asmeniui tiesiogiai arba netiesiogiai pasiūlė, pažadėjo ar
-susitarė duoti arba davė kyšį,
+asmenį, kad šie teisėtai ar neteisėtai veiktų ar neveiktų vykdydami
+įgaliojimus, jam ar trečiajam asmeniui tiesiogiai arba netiesiogiai pasiūlė,
+pažadėjo ar susitarė duoti arba davė kyšį,
 baudžiamas bauda
 arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių metų. 
 2. Tas, kas
@@ -5532,8 +5614,8 @@ laisvės atėmimu iki septynerių metų.
 padarė šio straipsnio 2 dalyje numatytus veiksmus, pažadėjęs
 ar susitaręs priimti arba reikalavęs ar provokavęs duoti, arba priėmęs
 didesnės negu 250 MGL vertės kyšį, 
-baudžiamas laisvės
-atėmimu nuo dvejų iki aštuonerių metų.
+baudžiamas
+laisvės atėmimu nuo dvejų iki aštuonerių metų.
 5. Tas, kas
 padarė šio straipsnio 1 ar 2 dalyje numatytus veiksmus, pasiūlęs, pažadėjęs ar susitaręs duoti arba davęs, arba pažadėjęs ar susitaręs priimti, arba reikalavęs ar
 provokavęs duoti, arba priėmęs mažesnės negu 1 MGL vertės kyšį, padarė
@@ -5544,8 +5626,8 @@ arba laisvės apribojimu, arba areštu.
 padarė šio straipsnio 1, 3 ar 5 dalyje numatytą veiką, atleidžiamas nuo
 baudžiamosios atsakomybės, jeigu kyšio iš jo buvo reikalaujama ar provokuojama
 duoti kyšį ir jis, pasiūlęs ar pažadėjęs duoti arba davęs kyšį, per įmanomai
-trumpiausią laiką, bet ne vėliau, negu iki jo pripažinimo įtariamuoju,
-savanoriškai apie tai pranešė teisėsaugos institucijai, taip pat atleidžiamas nuo
+trumpiausią laiką, bet ne vėliau, negu iki jo pripažinimo įtariamuoju, savanoriškai
+apie tai pranešė teisėsaugos institucijai, taip pat atleidžiamas nuo
 baudžiamosios atsakomybės, jeigu kyšį jis pažadėjo duoti ar davė su teisėsaugos
 institucijos žinia.
 7. Už šio
@@ -5568,15 +5650,15 @@ baudžiamas bauda
 arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių metų.
 2. Tas, kas
 padarė šio straipsnio 1 dalyje numatytus veiksmus, siekdamas paperkamo
-valstybės tarnautojo ar jam prilyginto asmens neteisėto veikimo ar neveikimo vykdant
-įgaliojimus,
+valstybės tarnautojo ar jam prilyginto asmens neteisėto veikimo ar neveikimo
+vykdant įgaliojimus,
 baudžiamas bauda
 arba areštu, arba laisvės atėmimu iki penkerių metų.
 3. Tas, kas
 padarė šio straipsnio 1 ar 2 dalyje numatytus veiksmus, pasiūlęs, pažadėjęs ar
 susitaręs duoti arba davęs didesnės negu 250 MGL vertės kyšį, 
-baudžiamas laisvės
-atėmimu iki septynerių metų.
+baudžiamas
+laisvės atėmimu iki septynerių metų.
 4. Tas, kas
 padarė šio straipsnio 1 ar 2 dalyje numatytus veiksmus, pasiūlęs, pažadėjęs ar
 susitaręs duoti arba davęs mažesnės negu 1 MGL vertės kyšį, padarė baudžiamąjį
@@ -5585,8 +5667,8 @@ baudžiamas bauda
 arba laisvės apribojimu, arba areštu.
 5. Asmuo
 atleidžiamas nuo baudžiamosios atsakomybės už papirkimą, jeigu kyšio iš jo buvo
-reikalaujama ar provokuojama duoti kyšį ir jis, pasiūlęs ar pažadėjęs duoti
-arba davęs kyšį, per įmanomai trumpiausią laiką, bet ne vėliau negu iki jo
+reikalaujama ar provokuojama duoti kyšį ir jis, pasiūlęs ar pažadėjęs duoti arba
+davęs kyšį, per įmanomai trumpiausią laiką, bet ne vėliau negu iki jo
 pripažinimo įtariamuoju, savanoriškai apie tai pranešė teisėsaugos
 institucijai, taip pat jeigu kyšį jis pažadėjo duoti ar davė su teisėsaugos
 institucijos žinia.
@@ -5664,8 +5746,8 @@ straipsnis. Sąvokų išaiškinimas
 valstybės pareigūnai, teisėjai, valstybės tarnautojai pagal Valstybės tarnybos
 įstatymą ir kiti asmenys, kurie, dirbdami ar kitais įstatyme numatytais
 pagrindais eidami pareigas valstybės ar savivaldybių
-institucijose ar įstaigose, atlieka valdžios atstovo funkcijas arba turi
-administracinius įgaliojimus, taip pat oficialūs kandidatai į šias pareigas.
+institucijose ar įstaigose, atlieka valdžios atstovo funkcijas arba turi administracinius
+įgaliojimus, taip pat oficialūs kandidatai į šias pareigas.
 2.
 Valstybės tarnautojui prilyginamas asmuo, turintis atitinkamus įgaliojimus
 užsienio valstybės ar Europos Sąjungos institucijoje ar įstaigoje,
@@ -5685,8 +5767,8 @@ rinkoje ar tokios vertės neturinčios) forma išreikštas neteisėtas ar
 nepagrįstas atlygis už pageidaujamą valstybės tarnautojo ar jam prilyginto
 asmens teisėtą ar neteisėtą veikimą arba neveikimą vykdant įgaliojimus.
 Straipsnio pakeitimai:
-Nr. IX-2314,
-2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)
+Nr. IX-2314, 2004-07-05,
+Žin., 2004, Nr. 108-4030 (2004-07-13)
 Nr.
 XI-1472,
 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
@@ -5785,8 +5867,9 @@ laisvės atėmimu iki dvejų metų.
 tyrimo komisijai ar Seimui būdamas liudytoju davė melagingus parodymus, būdamas
 ekspertu ar specialistu pateikė melagingą išvadą ar paaiškinimą arba būdamas
 vertėju melagingai ar žinomai neteisingai išvertė arba Seimo laikinajai tyrimo
-komisijai ar Seimo komitetui, kuriam Seimas suteikė laikinosios tyrimo komisijos
-įgaliojimus, pateikė melagingą pranešimą, paaiškinimą, informaciją ar duomenis,
+komisijai ar Seimo komitetui, kuriam Seimas suteikė laikinosios tyrimo
+komisijos įgaliojimus, pateikė melagingą pranešimą, paaiškinimą, informaciją ar
+duomenis,
 baudžiamas
 viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba
 laisvės atėmimu iki dvejų metų.
@@ -5886,8 +5969,8 @@ baudžiamas
 areštu arba laisvės atėmimu iki trejų metų.
 2.
 Tas, kas padarė šio straipsnio 1 dalyje numatytus veiksmus pavartodamas smurtą
-prieš sargybą ar kitus asmenis arba padarydamas didelės turtinės žalos jo laikymo
-įstaigai,
+prieš sargybą ar kitus asmenis arba padarydamas didelės turtinės žalos jo
+laikymo įstaigai,
 baudžiamas
 laisvės atėmimu iki penkerių metų.
  
@@ -5962,8 +6045,8 @@ seneliai ir vaikaičiai.
 Nusikaltimą padariusio asmens šeimos nariai yra kartu su juo gyvenantys tėvai
 (įtėviai), vaikai (įvaikiai), broliai, seserys ir jų sutuoktiniai, taip pat
 nusikaltimą padariusio asmens sutuoktinis arba asmuo, su kuriuo nusikaltimą
-padaręs asmuo bendrai gyvena neįregistravęs santuokos (partnerystė),
-sutuoktinio tėvai.
+padaręs asmuo bendrai gyvena neįregistravęs santuokos (partnerystė), sutuoktinio
+tėvai.
 3.
 Teisėsaugos institucijos yra policija, kitos ikiteisminio tyrimo ir
 prokuratūros įstaigos, taip pat operatyvinės veiklos subjektai.
@@ -6068,8 +6151,8 @@ panaudodamas visuomenės informavimo priemonę skatino ar kurstė teroro aktą a
 kitus su terorizmu susijusius nusikaltimus  arba niekino teroro aukas, 
 baudžiamas bauda arba laisvės apribojimu, arba areštu,
 arba laisvės atėmimu iki trejų metų.
-2. Už šiame straipsnyje numatytas veikas atsako ir juridinis
-asmuo.
+2. Už šiame straipsnyje numatytas veikas atsako ir
+juridinis asmuo.
 Kodeksas papildytas
 straipsniu:
 Nr. IX-2570,
@@ -6214,9 +6297,9 @@ XI-1472,
 branduolinėmis ar  radioaktyviosiomis medžiagomis arba kitais jonizuojančiosios
 spinduliuotės šaltiniais
 1. Tas, kas pagrobė
-ar kitaip neteisėtai įgijo, gamino, importavo, eksportavo, gabeno, laikė, saugojo,
-apdorojo, panaudojo, suardė, pašalino ar kitaip neteisėtai tvarkė bet kokio
-pavidalo ir bet kokios fizinės būsenos branduolines ar radioaktyviąsias
+ar kitaip neteisėtai įgijo, gamino, importavo, eksportavo, gabeno, laikė,
+saugojo, apdorojo, panaudojo, suardė, pašalino ar kitaip neteisėtai tvarkė bet
+kokio pavidalo ir bet kokios fizinės būsenos branduolines ar radioaktyviąsias
 medžiagas arba kitus jonizuojančiosios spinduliuotės šaltinius,
 baudžiamas areštu
 arba laisvės atėmimu iki ketverių metų.
@@ -6226,8 +6309,8 @@ sunkių padarinių,
 baudžiamas
 laisvės atėmimu nuo dvejų iki dešimties metų.
 3.
-Šio straipsnio 1 ir 2 dalyse numatytos veikos yra nusikalstamos ir tais atvejais,
-kai jos padarytos dėl neatsargumo.
+Šio straipsnio 1 ir 2 dalyse numatytos veikos yra nusikalstamos ir tais
+atvejais, kai jos padarytos dėl neatsargumo.
 4. Už šiame straipsnyje numatytas
 veikas atsako ir juridinis asmuo.
 Straipsnio pakeitimai:
@@ -6243,9 +6326,9 @@ Nr. XI-1901,
 256(1) straipsnis. Grasinimas panaudoti
 ar kitaip paveikti arba neteisėtai įgyti branduolines ar radioaktyviąsias
 medžiagas arba kitus jonizuojančiosios spinduliuotės šaltinius
-1. Tas, kas
-grasino panaudoti ar kitaip paveikti bet kokio pavidalo ir bet kokios fizinės
-būsenos branduolines ar radioaktyviąsias medžiagas arba kitus jonizuojančiosios
+1. Tas, kas grasino
+panaudoti ar kitaip paveikti bet kokio pavidalo ir bet kokios fizinės būsenos
+branduolines ar radioaktyviąsias medžiagas arba kitus jonizuojančiosios
 spinduliuotės šaltinius, kad jie sukeltų pavojų žmogaus gyvybei, sveikatai arba
 aplinkai, arba grasino pagrobti ar kitaip neteisėtai įgyti šiuos šaltinius, 
 baudžiamas areštu arba laisvės
@@ -6261,11 +6344,10 @@ X-1233,
 257 straipsnis. Teisėto disponavimo
 branduolinėmis ar radioaktyviosiomis medžiagomis arba kitais jonizuojančiosios
 spinduliuotės šaltiniais taisyklių pažeidimas
-1. Tas, kas
-pažeidė bet kokio pavidalo ir bet kokios fizinės būsenos branduolinių ar
-radioaktyviųjų medžiagų arba kitų jonizuojančiosios spinduliuotės šaltinių
-laikymo, naudojimo, gabenimo taisykles, jeigu dėl to galėjo atsirasti sunkių
-padarinių,
+1. Tas, kas pažeidė
+bet kokio pavidalo ir bet kokios fizinės būsenos branduolinių ar radioaktyviųjų
+medžiagų arba kitų jonizuojančiosios spinduliuotės šaltinių laikymo, naudojimo,
+gabenimo taisykles, jeigu dėl to galėjo atsirasti sunkių padarinių,
 baudžiamas bauda
 arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 2.
@@ -6304,8 +6386,8 @@ X-1233,
  
 258 straipsnis. Neteisėtas disponavimas nešaunamuoju ginklu
 1.
-Tas, kas neteisėtai gamino turėdamas tikslą realizuoti arba realizavo nešaunamąjį
-ginklą ar kitokį žmonėms žaloti pritaikytą įtaisą,
+Tas, kas neteisėtai gamino turėdamas tikslą realizuoti arba realizavo
+nešaunamąjį ginklą ar kitokį žmonėms žaloti pritaikytą įtaisą,
 baudžiamas
 bauda arba areštu, arba laisvės atėmimu iki vienerių metų.
 2.
@@ -6350,13 +6432,12 @@ psichotropines medžiagas turėdamas tikslą jas parduoti ar kitaip platinti arb
 pardavė ar kitaip platino narkotines ar psichotropines medžiagas,
 baudžiamas
 laisvės atėmimu nuo dvejų iki aštuonerių metų.
-2. Tas, kas
-neteisėtai gamino, perdirbo, įgijo, laikė, gabeno ar siuntė didelį kiekį
-narkotinių ar psichotropinių medžiagų turėdamas tikslą jas parduoti ar kitaip
-platinti arba pardavė ar kitaip platino didelį kiekį narkotinių ar
-psichotropinių medžiagų,
-baudžiamas
-laisvės atėmimu nuo aštuonerių iki dešimties metų.
+2. Tas, kas neteisėtai
+gamino, perdirbo, įgijo, laikė, gabeno ar siuntė didelį kiekį narkotinių ar
+psichotropinių medžiagų turėdamas tikslą jas parduoti ar kitaip platinti arba
+pardavė ar kitaip platino didelį kiekį narkotinių ar psichotropinių medžiagų,
+baudžiamas laisvės
+atėmimu nuo aštuonerių iki dešimties metų.
 3. Tas, kas
 neteisėtai gamino, perdirbo, įgijo, laikė, gabeno, siuntė, pardavė ar kitaip
 platino labai didelį kiekį narkotinių ar psichotropinių medžiagų,
@@ -6372,8 +6453,8 @@ Nr. IX-2314,
 Nr. X-711, 2006-06-22,
 Žin., 2006, Nr. 77-2961 (2006-07-14)
  
-261 straipsnis. Narkotinių ar
-psichotropinių medžiagų platinimas nepilnamečiams
+261 straipsnis. Narkotinių ar psichotropinių
+medžiagų platinimas nepilnamečiams
 Tas,
 kas platino narkotines ar psichotropines medžiagas nepilnamečiams,
 baudžiamas
@@ -6515,8 +6596,8 @@ Nr.
 X-272,
 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)
  
-268 straipsnis. Teisėto disponavimo
-narkotinėmis, psichotropinėmis, stipriai veikiančiomis ar nuodingosiomis medžiagomis
+268 straipsnis. Teisėto disponavimo narkotinėmis,
+psichotropinėmis, stipriai veikiančiomis ar nuodingosiomis medžiagomis
 taisyklių pažeidimas
 1. Tas, kas
 pažeidė narkotinių, psichotropinių, stipriai veikiančių ar nuodingųjų medžiagų
@@ -6543,9 +6624,9 @@ XI-1472,
 įtrauktos į Lietuvos Respublikos sveikatos apsaugos ministerijos patvirtintus
 narkotinių ir psichotropinių medžiagų sąrašus.
 2.
-Kokį narkotinių ar psichotropinių medžiagų kiekį laikyti nedideliu, kokį dideliu
-ir labai dideliu, nustatoma remiantis Lietuvos Respublikos sveikatos apsaugos
-ministerijos patvirtintomis rekomendacijomis. 
+Kokį narkotinių ar psichotropinių medžiagų kiekį laikyti nedideliu, kokį
+dideliu ir labai dideliu, nustatoma remiantis Lietuvos Respublikos sveikatos
+apsaugos ministerijos patvirtintomis rekomendacijomis. 
 3. Kokį pirmos
 kategorijos narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) kiekį
 laikyti dideliu ir labai dideliu, nustatoma remiantis Lietuvos Respublikos
@@ -6565,13 +6646,13 @@ IR ŽMONIŲ SVEIKATAI
 išteklių naudojimo, arba statinių, kuriuose naudojamos ar saugomos pavojingos
 medžiagos arba kuriuose yra potencialiai pavojingų įrenginių ar atliekami
 potencialiai pavojingi darbai, priežiūros ar naudojimo taisyklių pažeidimas
-1. Tas, kas pažeidė
-teisės aktų nustatytas aplinkos apsaugos arba gamtos išteklių naudojimo, arba
-statinių, kuriuose naudojamos ar saugomos pavojingos medžiagos arba kuriuose
-yra potencialiai pavojingų įrenginių ar atliekami potencialiai pavojingi
-darbai, priežiūros ar naudojimo taisykles, jeigu tai sukėlė pavojų žmogaus
-gyvybei ar sveikatai arba dėl to galėjo būti padaryta didelės žalos orui,
-žemei, vandeniui, gyvūnams ar augalams ar atsirasti kitų sunkių padarinių
+1. Tas, kas
+pažeidė teisės aktų nustatytas aplinkos apsaugos arba gamtos išteklių naudojimo,
+arba statinių, kuriuose naudojamos ar saugomos pavojingos medžiagos arba
+kuriuose yra potencialiai pavojingų įrenginių ar atliekami potencialiai
+pavojingi darbai, priežiūros ar naudojimo taisykles, jeigu tai sukėlė pavojų
+žmogaus gyvybei ar sveikatai arba dėl to galėjo būti padaryta didelės žalos
+orui, žemei, vandeniui, gyvūnams ar augalams ar atsirasti kitų sunkių padarinių
 aplinkai,
 baudžiamas bauda
 arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
@@ -6612,8 +6693,8 @@ Nr.
 X-272,
 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)
 Straipsnio pakeitimai:
-Nr. XI-1901,
-2011-12-22, Žin., 2011, Nr. 163-7777 (2011-12-31)
+Nr. XI-1901, 2011-12-22,
+Žin., 2011, Nr. 163-7777 (2011-12-31)
  
 2702 straipsnis. Neteisėtas
 atliekų gabenimas per Lietuvos Respublikos valstybės sieną
@@ -6630,8 +6711,8 @@ Lietuvos Respublikos valstybės sieną gabeno penkiasdešimt tonų arba didesnį
 kiekį skirtų naudoti arba šalinti pavojingų atliekų,
 baudžiamas bauda
 arba areštu, arba laisvės atėmimu iki trejų metų.
-3. Už šiame
-straipsnyje numatytas veikas atsako ir juridinis asmuo.
+3. Už šiame straipsnyje
+numatytas veikas atsako ir juridinis asmuo.
 Kodeksas papildytas
 straipsniu:
 Nr. XI-1901,
@@ -6666,17 +6747,16 @@ baudžiamas bauda
 arba areštu, arba laisvės atėmimu iki šešerių metų.
 2. Už šiame straipsnyje numatytas veikas atsako ir
 juridinis asmuo.
-Kodeksas papildytas
-straipsniu:
+Kodeksas papildytas straipsniu:
 Nr. XI-994,
 2010-07-02, Žin., 2010, Nr. 84-4403 (2010-07-15)
  
 272 straipsnis. Neteisėtas medžiojimas ar žvejojimas
 arba kitoks laukinės gyvūnijos išteklių naudojimas
 1. Tas, kas
-medžiojo ar žvejojo uždraustu laiku, uždraustose vietose ar draudžiamais būdais,
-įrankiais, priemonėmis arba kitaip neteisėtai naudojo ar naikino laukinės
-gyvūnijos išteklius ir padarė didelės žalos gyvūnijai,
+medžiojo ar žvejojo uždraustu laiku, uždraustose vietose ar draudžiamais
+būdais, įrankiais, priemonėmis arba kitaip neteisėtai naudojo ar naikino
+laukinės gyvūnijos išteklius ir padarė didelės žalos gyvūnijai,
 baudžiamas bauda arba laisvės apribojimu, arba
 areštu, arba laisvės atėmimu iki dvejų metų.
 2.
@@ -6696,15 +6776,15 @@ padarė didelę žalą saugomų rūšių laukinių gyvūnų rūšies apsaugos b�
 tokią veiką padarė komerciniais tikslais,
 baudžiamas bauda
 arba areštu, arba laisvės atėmimu iki ketverių metų.
-4. Tas, kas
-neteisėtai gamino, įsigijo, laikė, gabeno ar realizavo elektros ar ultragarso
-žvejybos prietaisus, padarė baudžiamąjį nusižengimą ir
+4. Tas, kas neteisėtai
+gamino, įsigijo, laikė, gabeno ar realizavo elektros ar ultragarso žvejybos
+prietaisus, padarė baudžiamąjį nusižengimą ir
 baudžiamas bauda
 arba laisvės apribojimu, arba areštu.
 5. Už šiame straipsnyje numatytas veikas atsako ir
 juridinis asmuo. 
-6.
-Šio straipsnio 1, 2 ir 3 dalyse numatytos veikos yra nusikalstamos ir tais
+6. Šio
+straipsnio 1, 2 ir 3 dalyse numatytos veikos yra nusikalstamos ir tais
 atvejais, kai jos padarytos dėl neatsargumo.
 Straipsnio pakeitimai:
 Nr. IX-1495,
@@ -6773,9 +6853,9 @@ laisvės atėmimu iki aštuonerių metų.
 3.
 Šio straipsnio 1 dalyje numatytos veikos yra nusikalstamos ir tais atvejais,
 kai jos padarytos dėl neatsargumo.
-4.
-Asmuo atsako pagal šio straipsnio 2 dalį tik tais atvejais, kai joje numatytos
-veikos padarytos dėl neatsargumo.
+4. Asmuo
+atsako pagal šio straipsnio 2 dalį tik tais atvejais, kai joje numatytos veikos
+padarytos dėl neatsargumo.
 5.
 Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
  
@@ -6876,8 +6956,8 @@ Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, jeigu dėl to žuvo
 baudžiamas
 laisvės atėmimu nuo trejų iki aštuonerių metų.
 3. Tas, kas
-padarė šio straipsnio 1 dalyje numatytą veiką, jeigu dėl to sunkių padarinių
-nebuvo, bet jie realiai grėsė, padarė baudžiamąjį nusižengimą ir
+padarė šio straipsnio 1 dalyje numatytą veiką, jeigu dėl to sunkių padarinių nebuvo,
+bet jie realiai grėsė, padarė baudžiamąjį nusižengimą ir
 baudžiamas
 viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu.
 4.
@@ -6966,8 +7046,8 @@ laisvės atėmimu nuo trejų iki dešimties metų.
 Asmuo atsako pagal šio straipsnio 1–6 dalis tik tais atvejais, kai jose
 numatytos veikos yra padarytos dėl neatsargumo.
 8.
-Laikoma, kad asmuo yra apsvaigęs nuo alkoholio, kai jo kraujyje yra 0,4 promilės
-ir daugiau alkoholio.
+Laikoma, kad asmuo yra apsvaigęs nuo alkoholio, kai jo kraujyje yra 0,4
+promilės ir daugiau alkoholio.
 9.
 Šiame straipsnyje nurodytos kelių transporto priemonės yra visų rūšių
 automobiliai, traktoriai, kitos savaeigės mašinos, troleibusai, motociklai ir
@@ -7018,8 +7098,8 @@ Tas, kas viešoje vietoje įžūliu elgesiu, grasinimais, patyčiomis arba
 vandališkais veiksmais demonstravo nepagarbą aplinkiniams ar aplinkai ir
 sutrikdė visuomenės rimtį ar tvarką,
 baudžiamas
-viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba
-laisvės atėmimu iki dvejų metų.
+viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės
+atėmimu iki dvejų metų.
 2.
 Tas, kas viešoje vietoje necenzūriniais žodžiais ar nepadoriu elgesiu trikdė
 visuomenės rimtį ar tvarką, padarė baudžiamąjį nusižengimą ir
@@ -7115,8 +7195,8 @@ NUSIKALTIMAI
 IR BAUDŽIAMIEJI NUSIŽENGIMAI VALDYMO TVARKAI
  
 291 straipsnis. Neteisėtas valstybės sienos perėjimas
-1. Tas, kas
-neteisėtai perėjo Lietuvos Respublikos valstybės sieną,
+1. Tas, kas neteisėtai
+perėjo Lietuvos Respublikos valstybės sieną,
 baudžiamas bauda arba areštu,
 arba laisvės atėmimu iki dvejų metų.
 2. Nuo
@@ -7143,8 +7223,8 @@ gabeno ar slėpė Lietuvos Respublikos teritorijoje,
 baudžiamas bauda arba areštu, arba laisvės atėmimu
 iki šešerių metų.
 2. Tas, kas padarė šio straipsnio
-1 dalyje numatytas veikas dėl savanaudiškų paskatų, arba jeigu tai sukėlė pavojų
-asmens gyvybei,
+1 dalyje numatytas veikas dėl savanaudiškų paskatų, arba jeigu tai sukėlė
+pavojų asmens gyvybei,
 baudžiamas laisvės atėmimu iki
 aštuonerių metų.
 3.Tas, kas
@@ -7239,13 +7319,13 @@ padaryta dėl neatsargumo.
 Straipsnio
 pakeitimai:
 Nr.
-XI-1472, 2011-06-21,
-Žin., 2011, Nr. 81-3959 (2011-07-05)
+XI-1472,
+2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
  
 298 straipsnis. Neteisėtas žemėnaudos riboženklio pakeitimas
 Tas,
-kas neteisėtai pašalino, nukėlė, perdarė ar pastatė žemėnaudos riboženklį,
-geodezinį, geologinį ar geofizinį ženklą, padarė baudžiamąjį nusižengimą ir
+kas neteisėtai pašalino, nukėlė, perdarė ar pastatė žemėnaudos riboženklį, geodezinį,
+geologinį ar geofizinį ženklą, padarė baudžiamąjį nusižengimą ir
 baudžiamas
 viešaisiais darbais arba bauda, arba areštu. 
  
@@ -7522,8 +7602,8 @@ viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu.
 5. Už šio
 straipsnio 1, 2 ir 3 dalyse numatytas veikas atsako ir juridinis asmuo.
 Straipsnio pakeitimai:
-Nr. IX-1992, 2004-01-29,
-Žin., 2004, Nr. 25-760 (2004-02-14)
+Nr. IX-1992,
+2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)
 Nr. X-711, 2006-06-22,
 Žin., 2006, Nr. 77-2961 (2006-07-14)
  
@@ -7546,9 +7626,9 @@ mirusiojo palaikų, arba juos išniekino,
 baudžiamas
 viešaisiais darbais arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 iki dvejų metų.
-2. Tas,
-kas neteisėtai atkasė kapą ir išniekino mirusiojo palaikus ar iš jų tyčiojosi
-arba paėmė ten buvusius daiktus,
+2.
+Tas, kas neteisėtai atkasė kapą ir išniekino mirusiojo palaikus ar iš jų
+tyčiojosi arba paėmė ten buvusius daiktus,
 baudžiamas
 areštu arba laisvės atėmimu iki trejų metų.
  
@@ -7578,15 +7658,15 @@ rimtį, padarė baudžiamąjį nusižengimą ir
 baudžiamas
 viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu.
 2.
-Tas, kas viešai paskleidė apie mirusįjį melagingus prasimanymus, galinčius
-nulemti žmonių panieką ar pakirsti pagarbą jo atminimui, padarė baudžiamąjį
-nusižengimą ir
+Tas, kas viešai paskleidė apie mirusįjį melagingus prasimanymus, galinčius nulemti
+žmonių panieką ar pakirsti pagarbą jo atminimui, padarė baudžiamąjį nusižengimą
+ir
 baudžiamas
 viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu.
 3.
 Už šio straipsnio 1 ir 2 dalyse numatytas veikas asmuo atsako tik tuo atveju,
-kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas ar prokuroro
-reikalavimas.
+kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas ar
+prokuroro reikalavimas.
  
 XLVI skyrius
 Nusikaltimai IR BAUDŽIAMIEJI NUSIŽENGIMAI krašto
@@ -7615,8 +7695,8 @@ Karo
 prievolininkas, vengęs šaukimo į karo tarnybą karo padėties metu, baudžiamas
 laisvės atėmimu iki penkerių metų.
 Straipsnio pakeitimai:
-Nr. XI-1520, 2011-06-23,
-Žin., 2011, Nr. 86-4162 (2011-07-13)
+Nr. XI-1520,
+2011-06-23, Žin., 2011, Nr. 86-4162 (2011-07-13)
  
 316 straipsnis. Vengimas atlikti karo tarnybą
 1.
@@ -7690,8 +7770,8 @@ laisvės atėmimu nuo ketverių iki aštuonerių metų.
  
 321 straipsnis. Neteisėtas įsakymas ir jo vykdymas
 Karys,
-davęs aiškiai neteisėtą įsakymą arba vertęs kitą karį vykdyti tokį įsakymą,
-taip pat karys, įvykdęs aiškiai neteisėtą įsakymą, jeigu dėl to atsirado sunkių
+davęs aiškiai neteisėtą įsakymą arba vertęs kitą karį vykdyti tokį įsakymą, taip
+pat karys, įvykdęs aiškiai neteisėtą įsakymą, jeigu dėl to atsirado sunkių
 padarinių, 
 baudžiamas
 laisvės atėmimu nuo dvejų iki aštuonerių metų.
@@ -7752,10 +7832,10 @@ Asmuo atsako pagal šį straipsnį tik tais atvejais, kai jame numatytos veikos
 padarytos dėl neatsargumo.
  
 327 straipsnis. Budėjimo tarnybos taisyklių pažeidimas
-1. Karys,
-pažeidęs budėjimo tarnybą reglamentuojančių teisės aktų reikalavimus atlikdamas
-budėjimo tarnybą dalinyje (išskyrus sargybą), jeigu dėl to atsirado sunkių
-padarinių,
+1.
+Karys, pažeidęs budėjimo tarnybą reglamentuojančių teisės aktų reikalavimus
+atlikdamas budėjimo tarnybą dalinyje (išskyrus sargybą), jeigu dėl to atsirado
+sunkių padarinių,
 baudžiamas
 laisvės atėmimu iki trejų metų.
 2.
@@ -7786,7 +7866,7 @@ Nr. XI-1520,
 2011-06-23, Žin., 2011, Nr. 86-4162 (2011-07-13)
  
  
-                                                                                    Lietuvos
+                                                                                    Lietuvos
 Respublikos
                                                                                     baudžiamojo
 kodekso
@@ -7808,9 +7888,9 @@ Tarybos pagrindų sprendimą 2000/383/TVR dėl apsaugos nuo padirbinėjimo
 griežtinimo kriminalinėmis bausmėmis ir kitokiomis sankcijomis ryšium su euro
 įvedimu (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 182).
 4. 2001 m.
-gegužės 28 d. Tarybos pagrindų sprendimas 2001/413/TVR, skirtas kovai su
-sukčiavimu negrynosiomis mokėjimo priemonėmis ir jų klastojimu (OL 2004 m.
-specialusis leidimas, 15 skyrius, 6 tomas, p. 123).
+gegužės 28 d. Tarybos pagrindų sprendimas 2001/413/TVR, skirtas kovai su sukčiavimu
+negrynosiomis mokėjimo priemonėmis ir jų klastojimu (OL 2004 m. specialusis
+leidimas, 15 skyrius, 6 tomas, p. 123).
 5. 2001 m.
 birželio 26 d. Tarybos pagrindų sprendimas 2001/500/TVR dėl pinigų plovimo,
 nusikaltimo priemonių ir nusikalstamu būdu įgytų pajamų nustatymo, paieškos,
@@ -7909,8 +7989,8 @@ Nr.
 XI-1917,
 2011-12-23, Žin., 2012, Nr. 4-115 (2012-01-06)
 Nr.
-XI-2198, 2012-06-30,
-Žin., 2012, Nr. 82-4276 (2012-07-13)
+XI-2198,
+2012-06-30, Žin., 2012, Nr. 82-4276 (2012-07-13)
  
  
 Pakeitimai:
@@ -7918,8 +7998,8 @@ Pakeitimai:
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1168,
-2002-10-31, Žin., 2002, Nr. 112-4973 (2002-11-22)
+IX-1168, 2002-10-31,
+Žin., 2002, Nr. 112-4973 (2002-11-22)
 BAUDŽIAMOJO
 KODEKSO PATVIRTINIMO IR ĮSIGALIOJIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
@@ -7927,8 +8007,8 @@ KODEKSO PATVIRTINIMO IR ĮSIGALIOJIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMA
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1495,
-2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
+IX-1495, 2003-04-10,
+Žin., 2003, Nr. 38-1733 (2003-04-24)
 BAUDŽIAMOJO
 KODEKSO, PATVIRTINTO 2000 M. RUGSĖJO 26 D. ĮSTATYMU NR. VIII-1968, 4, 7, 9, 23,
 25, 37, 39, 44, 46, 47, 48, 51, 61, 62, 65, 67, 74, 75, 90, 92, 95, 97, 102,
@@ -7958,8 +8038,8 @@ IR PAPILDYMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1992,
-2004-01-29, Žin., 2004, Nr. 25-760 (2004-02-14)
+IX-1992, 2004-01-29,
+Žin., 2004, Nr. 25-760 (2004-02-14)
 BAUDŽIAMOJO
 KODEKSO 13, 162, 191, 196, 197, 203, 206, 216, 219, 221, 309 STRAIPSNIŲ
 PAKEITIMO IR PAPILDYMO BEI KODEKSO PAPILDYMO 198(1) IR 198(2) STRAIPSNIAIS
@@ -8029,8 +8109,8 @@ KODEKSO PAPILDYMO 250(1) STRAIPSNIU ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-61,
-2004-12-22, Žin., 2004, Nr. 188-6995 (2004-12-31)
+X-61, 2004-12-22,
+Žin., 2004, Nr. 188-6995 (2004-12-31)
 BAUDŽIAMOJO
 KODEKSO 292 STRAIPSNIO PAKEITIMO IR PRIEDO PAPILDYMO ĮSTATYMAS
  
@@ -8133,8 +8213,8 @@ KODEKSO 170, 191, 192 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR KODEKSO PAPILDYMO
  
 22.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-521, 2009-12-03,
-Žin., 2009, Nr. 146-6484 (2009-12-10)
+Nr. XI-521,
+2009-12-03, Žin., 2009, Nr. 146-6484 (2009-12-10)
 BAUDŽIAMOJO KODEKSO 235 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
  
@@ -8251,8 +8331,8 @@ STRAIPSNIAIS IR 44, 45 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1520,
 2011-06-23, Žin., 2011, Nr. 86-4162 (2011-07-13)
-BAUDŽIAMOJO KODEKSO 314, 315 IR 330 STRAIPSNIŲ
-PAKEITIMO ĮSTATYMAS
+BAUDŽIAMOJO KODEKSO 314, 315 IR 330
+STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2011 m. rugsėjo 1 d.
  
 36.
@@ -8315,12 +8395,21 @@ KODEKSO 32 IR 248 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2013 m. sausio
 1 d.
  
+42.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2393,
+2012-11-08, Žin., 2012, Nr. 133-6759 (2012-11-17)
+BAUDŽIAMOJO KODEKSO 172, 173, 174, 175
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis įstatymas įsigalioja 2013 m. sausio
+1 d.
+ 
  
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2012-10-24)
+Aušrinė Trapinskienė (2012-11-19)
                  
 ausrine.trapinskiene@lrs.lt
