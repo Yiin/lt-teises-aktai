@@ -2268,17 +2268,17 @@ pakeitimai:
 Nr.
 IX-1365,
 2003-03-13, Žin., 2003, Nr. 32-1312 (2003-04-02)
-Nr. XI-2369, 2012-11-06, Žin., 2012, Nr. 135-6860
-(2012-11-22)
+Nr. XI-2369,
+2012-11-06, Žin., 2012, Nr. 135-6860 (2012-11-22)
  
 76
 straipsnis. Valstybinė ir teritorinės ligonių kasos
 Valstybinė ir
-teritorinės ligonių kasos pagal kompetenciją užtikrina nustatytų rūšių asmens
-sveikatos priežiūros paslaugų apmokėjimą, kontroliuoja jų kiekį ir kokybę,
-atlieka privalomojo sveikatos draudimo lėšų naudojimo finansinę bei ekonominę
-analizę, teikia lėšas valstybės ir savivaldybių fondams, vykdo įstatymų ir
-ligonių kasų nuostatų nustatytas funkcijas. 
+teritorinės ligonių kasos pagal kompetenciją užtikrina nustatytų rūšių asmens sveikatos
+priežiūros paslaugų apmokėjimą, kontroliuoja jų kiekį ir kokybę, atlieka
+privalomojo sveikatos draudimo lėšų naudojimo finansinę bei ekonominę analizę,
+teikia lėšas valstybės ir savivaldybių fondams, vykdo įstatymų ir ligonių kasų
+nuostatų nustatytas funkcijas. 
  
 77 straipsnis. Valstybinė sveikatos priežiūros tarnyba prie Vidaus reikalų                    ministerijos, Lietuvos kariuomenės karo medicinos tarnyba,                    Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos                    sveikatos priežiūros tarnyba, Laisvės atėmimo vietų sveikatos priežiūros                    įstaigos ir Kalėjimų departamentui prie Lietuvos Respublikos teisingumo                    ministerijos pavaldžių laisvės atėmimo vietų sveikatos priežiūros tarnybos
 1. Valstybinę
@@ -2304,9 +2304,9 @@ ministerija.
 6. Kalėjimų
 departamento prie Lietuvos Respublikos teisingumo ministerijos Sveikatos
 priežiūros tarnybos, laisvės atėmimo vietų sveikatos priežiūros įstaigų ir
-Kalėjimų departamentui prie Lietuvos Respublikos teisingumo ministerijos
-pavaldžių laisvės atėmimo vietų sveikatos priežiūros tarnybų veikla
-finansuojama iš valstybės biudžeto.
+Kalėjimų departamentui prie Lietuvos Respublikos teisingumo ministerijos pavaldžių
+laisvės atėmimo vietų sveikatos priežiūros tarnybų veikla finansuojama iš
+valstybės biudžeto.
 7. Valstybinė
 sveikatos priežiūros tarnyba prie Vidaus reikalų ministerijos, Lietuvos
 kariuomenės karo medicinos tarnyba, Kalėjimų departamento prie Lietuvos
@@ -2321,9 +2321,61 @@ priežiūros veiklą;
 2) vykdo
 įstatymų ir šių institucijų bei įstaigų nuostatuose numatytas kitas funkcijas.
 Straipsnio
+redakcija nuo 2013-01-01:
+77 straipsnis. Sveikatos priežiūros
+tarnyba prie Vidaus reikalų ministerijos, Lietuvos kariuomenės
+padaliniai, vykdantys sveikatinimo veiklą, Kalėjimų departamento prie Lietuvos
+Respublikos teisingumo ministerijos Sveikatos priežiūros skyrius, laisvės
+atėmimo vietų sveikatos priežiūros įstaigos ir Kalėjimų departamentui prie
+Lietuvos Respublikos teisingumo ministerijos pavaldžių laisvės atėmimo vietų
+sveikatos priežiūros tarnybos
+1. Sveikatos priežiūros
+tarnybą prie Vidaus reikalų ministerijos steigia ir jos nuostatus tvirtina
+Vyriausybė ar jos įgaliota Vidaus reikalų ministerija. Ši tarnyba yra juridinis
+asmuo. Jos veikla finansuojama iš valstybės biudžeto.
+2. Lietuvos
+kariuomenės padalinius, vykdančius sveikatinimo veiklą, steigia ir jų nuostatus
+tvirtina Krašto apsaugos ministerija, suderinusi su Sveikatos apsaugos
+ministerija. Jų veikla finansuojama iš Krašto apsaugos ministerijai skirtų
+valstybės biudžeto lėšų.
+3. Laisvės
+atėmimo vietų sveikatos priežiūros įstaigas steigia Vyriausybė, o jų nuostatus
+tvirtina Teisingumo ministerija, suderinusi su Sveikatos apsaugos ministerija. 
+4. Kalėjimų
+departamento prie Lietuvos Respublikos teisingumo ministerijos Sveikatos
+priežiūros skyrių steigia ir jo nuostatus tvirtina Kalėjimų departamento
+direktorius, suderinęs su Sveikatos apsaugos ministerija.
+5. Kalėjimų
+departamentui prie Lietuvos Respublikos teisingumo ministerijos pavaldžių
+laisvės atėmimo vietų sveikatos priežiūros tarnybas steigia ir jų nuostatus
+tvirtina laisvės atėmimo vietų direktoriai, suderinę su Sveikatos apsaugos
+ministerija.
+6. Kalėjimų
+departamento prie Lietuvos Respublikos teisingumo ministerijos Sveikatos
+priežiūros skyriaus, laisvės atėmimo vietų sveikatos priežiūros įstaigų ir Kalėjimų
+departamentui prie Lietuvos Respublikos teisingumo ministerijos pavaldžių
+laisvės atėmimo vietų sveikatos priežiūros tarnybų veikla finansuojama iš
+valstybės biudžeto.
+7. Sveikatos
+priežiūros tarnyba prie Vidaus reikalų ministerijos, Lietuvos kariuomenės
+padaliniai, vykdantys sveikatinimo veiklą, Kalėjimų departamento prie Lietuvos
+Respublikos teisingumo ministerijos Sveikatos priežiūros skyrius, laisvės
+atėmimo vietų sveikatos priežiūros įstaigos ir Kalėjimų departamentui prie
+Lietuvos Respublikos teisingumo ministerijos pavaldžių laisvės atėmimo vietų
+sveikatos priežiūros tarnybos:
+1) įgyvendina
+šio ir kitų įstatymų Vidaus reikalų ministerijos, Krašto apsaugos ministerijos
+ir Teisingumo ministerijos specialiajai kompetencijai priskiriamą sveikatinimo
+veiklą;
+2) vykdo
+įstatymų ir šių institucijų bei įstaigų nuostatuose numatytas kitas funkcijas.
+Straipsnio
 pakeitimai:
 Nr. X-1151,
 2007-05-24, Žin., 2007, Nr. 64-2456 (2007-06-09)
+Nr.
+XI-2402,
+2012-11-08, Žin., 2012, Nr. 135-6876 (2012-11-22)
  
 78
 straipsnis.
@@ -2335,15 +2387,15 @@ Nr.61-1810 (00.07.26)
 79 straipsnis. Neteko galios
 nuo 2012-11-22.
 Straipsnio pakeitimai:
-Nr. XI-2369, 2012-11-06, Žin., 2012, Nr. 135-6860
-(2012-11-22)
+Nr. XI-2369,
+2012-11-06, Žin., 2012, Nr. 135-6860 (2012-11-22)
  
 80
 straipsnis. Lietuvos bioetikos komitetas 
-1. Lietuvos bioetikos
-komitetą steigia, jo sudėtį ir veiklos nuostatus tvirtina Sveikatos apsaugos
-ministerija. Lietuvos bioetikos komitetas yra juridinis asmuo. Jo veikla
-finansuojama iš valstybės biudžeto.
+1. Lietuvos
+bioetikos komitetą steigia, jo sudėtį ir veiklos nuostatus tvirtina Sveikatos
+apsaugos ministerija. Lietuvos bioetikos komitetas yra juridinis asmuo. Jo
+veikla finansuojama iš valstybės biudžeto.
 2. Lietuvos
 bioetikos komitetas : 
 1) analizuoja
@@ -2403,8 +2455,8 @@ veiklos klausimais
 Kitų
 sveikatinimo veiklos valdymo ir kontrolės institucijų (Valstybinės
 veterinarijos tarnybos, Valstybinės darbo inspekcijos ir kt.) kompetenciją
-sveikatinimo veiklos klausimais nustato įstatymai, kiti teisės aktai bei šių
-institucijų nuostatai.
+sveikatinimo veiklos klausimais nustato įstatymai, kiti teisės aktai bei šių institucijų
+nuostatai.
  
 V DALIS
 ASMENŲ IR ŪKIO
@@ -2428,8 +2480,8 @@ informaciją apie savo sveikatą bei teisę į šios informacijos konfidencialum
 įstatymų ir teisės aktų numatytą sveikatos priežiūrą;
 6) nustatyta
 tvarka pasirinkti sveikatos priežiūros specialistą, sveikatos priežiūros
-įstaigą, sveikatos priežiūros rūšį arba jų atsisakyti, išskyrus įstatymuose numatytus
-atvejus;
+įstaigą, sveikatos priežiūros rūšį arba jų atsisakyti, išskyrus įstatymuose
+numatytus atvejus;
 7) gauti
 valstybės laiduojamą (nemokamą) ir savivaldybių remiamą sveikatos priežiūrą šio
 ir kitų įstatymų nustatyta tvarka.
@@ -2446,8 +2498,7 @@ nepilnamečių vaikų (įvaikių, globotinių) sveikata;
 tėvų sveikata;
 4) nepažeisti
 kitų asmenų sveikatos teisių;
-5) nekenkti
-aplinkai;
+5) nekenkti aplinkai;
 6) mokėti
 privalomojo sveikatos draudimo įmokas, kurias nustato Sveikatos draudimo
 įstatymas. 
@@ -2714,8 +2765,7 @@ Nr.
 IX-2165,
 2004-04-22, Žin., 2004, Nr. 68-2372 (2004-04-29)
 SVEIKATOS
-SISTEMOS ĮSTATYMO 72, 80 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO PRIEDU
-ĮSTATYMAS
+SISTEMOS ĮSTATYMO 72, 80 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS
  
 19.
 Lietuvos
@@ -2783,8 +2833,8 @@ Seimo kadencijos pradžioje.
 25.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. X-1505,
-2008-04-22, Žin., 2008, Nr. 50-1850 (2008-04-30)
+Nr. X-1505, 2008-04-22,
+Žin., 2008, Nr. 50-1850 (2008-04-30)
 SVEIKATOS
 SISTEMOS ĮSTATYMO 2, 16, 50, 57, 61 IR 72 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
@@ -2793,8 +2843,8 @@ Lietuvos Respublikos Seimas,
 Įstatymas
 Nr. XI-766,
 2010-04-20, Žin., 2010, Nr. 51-2476 (2010-05-04)
-SVEIKATOS SISTEMOS ĮSTATYMO 9, 12,
-13, 32, 41, 46, 64, 68 STRAIPSNIŲ PAKEITIMO IR 66 STRAIPSNIO PRIPAŽINIMO
+SVEIKATOS SISTEMOS ĮSTATYMO 9,
+12, 13, 32, 41, 46, 64, 68 STRAIPSNIŲ PAKEITIMO IR 66 STRAIPSNIO PRIPAŽINIMO
 NETEKUSIU GALIOS ĮSTATYMAS
 Šis
 Įstatymas, išskyrus 10 straipsnį, įsigalioja 2010 m. liepos 1 d.
@@ -2874,11 +2924,21 @@ SISTEMOS ĮSTATYMO 29 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XI-2369, 2012-11-06, Žin., 2012, Nr. 135-6860 (2012-11-22)
+XI-2369,
+2012-11-06, Žin., 2012, Nr. 135-6860 (2012-11-22)
 SVEIKATOS
 SISTEMOS ĮSTATYMO 75 STRAIPSNIO PAKEITIMO IR 79 STRAIPSNIO PRIPAŽINIMO
 NETEKUSIU GALIOS ĮSTATYMAS
  
+35.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XI-2402,
+2012-11-08, Žin., 2012, Nr. 135-6876 (2012-11-22)
+SVEIKATOS
+SISTEMOS ĮSTATYMO 77 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2013 m. sausio 1 d.
  
 ***
 Pabaiga ***
