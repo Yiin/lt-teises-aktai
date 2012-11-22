@@ -5066,34 +5066,31 @@ A
 
 
 7.
-Respublikos Prezidento atstovas spaudai,
-Seimo Pirmininko atstovas spaudai,
-Ministro Pirmininko atstovas spaudai,
-savivaldybės tarybos sekretorius 
-  
-    
-  
-    
+
+Respublikos
+  Prezidento atstovas spaudai,
+  Seimo Pirmininko atstovas spaudai,
+  Ministro Pirmininko atstovas spaudai,
+  savivaldybės tarybos sekretorius
+
 
 skyriaus
   vedėjas (taikoma struktūriniam padaliniui, esančiam kitame struktūriniame
   padalinyje), 
-skyriaus vedėjo pavaduotojas
-  (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame
-  padalinyje),
+  skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, nesančiam
+  kitame struktūriniame padalinyje), Seimo nuolatinio atstovo Europos Sąjungoje
+  pavaduotojas,
    patarėjas,
-seniūnas (savivaldybėje),
-teismo pirmininko padėjėjas,
+  seniūnas (savivaldybėje), teismo pirmininko padėjėjas,
   teisėjo padėjėjas,
   vyriausiojo prokuroro padėjėjas
 
 
-patarėjas,
+ patarėjas,
   
   departamento patarėjas,
 skyriaus
-  vedėjas (taikoma struktūriniam padaliniui, esančiam kitame struktūrinia-me
-  padalinyje),
+  vedėjas (taikoma struktūriniam padaliniui, esančiam kitame struktūrinia-me padalinyje),
 skyriaus
   vedėjo pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame
   struktūrinia-me padalinyje)
@@ -5128,7 +5125,7 @@ biuro
   viršininko pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame
   struktūriniame padalinyje),
 posto
-  viršininko pavaduotojas 
+  viršininko pavaduotojas
 
 
 A 13–16
@@ -5198,8 +5195,8 @@ Respublikos
 poskyrio
   vedėjas, 
   skyriaus vedėjo pavaduotojas
-  (taikoma struktūriniam padaliniui, esančiam kitame struktūriniame padalinyje),
-  
+  (taikoma struktūriniam padaliniui, esančiam kitame struktūriniame
+  padalinyje), 
   specialusis atašė, 
   seniūno pavaduotojas (savivaldybėje), 
 vyriausiasis valstybinis auditorius,
@@ -5212,8 +5209,8 @@ konsulas,
   pirmasis sekretorius, 
   skyriaus patarėjas,
 skyriaus
-  vedėjo pavaduotojas (taikoma struktūriniam padaliniui, esančiam kitame struktūrinia-me
-  padalinyje)
+  vedėjo pavaduotojas (taikoma struktūriniam padaliniui, esančiam kitame
+  struktūrinia-me padalinyje)
 
 
 poskyrio
@@ -5462,8 +5459,8 @@ vyresnysis
 
 
 būrio vadas,
-vyresnysis
-  specialistas, 
+vyresnysis specialistas,
+  
 vyresnysis
   inspektorius
 
@@ -6009,8 +6006,7 @@ Seimo
   Seimo Pirmininko patarėjas,
   ministro patarėjas,
   mero patarėjas,
-  Vyriausybės įgaliotinis, Ministro Pirmininko tarnybos departamento
-  direktorius
+  Vyriausybės įgaliotinis, Ministro Pirmininko tarnybos departamento direktorius
 
 
 departamento
@@ -6134,23 +6130,22 @@ Respublikos
   Prezidento atstovas spaudai,
   Seimo Pirmininko atstovas spaudai,
   Ministro Pirmininko atstovas spaudai,
-  savivaldybės tarybos sekretorius 
+  savivaldybės tarybos sekretorius
 
 
 skyriaus
   vedėjas (taikoma struktūriniam padaliniui, esančiam kitame struktūriniame
   padalinyje), 
-skyriaus vedėjo pavaduotojas
-  (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame
-  padalinyje),
-  patarėjas,
-seniūnas (savivaldybėje),
-teismo pirmininko padėjėjas,
+  skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, nesančiam
+  kitame struktūriniame padalinyje), Seimo nuolatinio atstovo Europos Sąjungoje
+  pavaduotojas,
+   patarėjas,
+  seniūnas (savivaldybėje), teismo pirmininko padėjėjas,
   teisėjo padėjėjas,
   vyriausiojo prokuroro padėjėjas
 
 
-patarėjas,
+ patarėjas,
   
   departamento patarėjas,
 skyriaus
@@ -6190,12 +6185,11 @@ biuro
   viršininko pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame
   struktūriniame padalinyje),
 posto
-  viršininko pavaduotojas 
- 
- 
+  viršininko pavaduotojas
 
 
-A 14–16
+A
+  14–16
 
 
 A
@@ -6205,8 +6199,14 @@ A
 A
   12–14
 
-A 11–13
-A 10–12
+
+                A
+  11–13    
+
+
+A
+  10–12
+
 
 
 8.
@@ -7196,23 +7196,22 @@ Respublikos
   Prezidento atstovas spaudai,
   Seimo Pirmininko atstovas spaudai,
   Ministro Pirmininko atstovas spaudai,
-  savivaldybės tarybos sekretorius 
+  savivaldybės tarybos sekretorius
 
 
 skyriaus
   vedėjas (taikoma struktūriniam padaliniui, esančiam kitame struktūriniame
   padalinyje), 
-skyriaus vedėjo pavaduotojas
-  (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame
-  padalinyje),
+  skyriaus vedėjo pavaduotojas (taikoma struktūriniam padaliniui, nesančiam
+  kitame struktūriniame padalinyje), Seimo nuolatinio atstovo Europos Sąjungoje
+  pavaduotojas,
    patarėjas,
-seniūnas (savivaldybėje),
-teismo pirmininko padėjėjas,
+  seniūnas (savivaldybėje), teismo pirmininko padėjėjas,
   teisėjo padėjėjas,
   vyriausiojo prokuroro padėjėjas
 
 
-patarėjas,
+ patarėjas,
   
   departamento patarėjas,
 skyriaus
@@ -7252,24 +7251,29 @@ biuro
   viršininko pavaduotojas (taikoma struktūriniam padaliniui, nesančiam kitame
   struktūriniame padalinyje),
 posto
-  viršininko pavaduotojas 
+  viršininko pavaduotojas
 
 
-A 15–16
+ 
+A
+  15–16
 
 
+ 
 A
   14–15
 
 
+ 
 A
   13–14
 
 
-A
-  12–13
+                A
+  12–13    
 
 
+ 
 A
   11–12
 
@@ -7900,12 +7904,12 @@ X-1742,
 Nr. XI-53, 2008-12-09,
 Žin., 2008, Nr. 143-5688 (2008-12-13)
 Nr.
-XI-119,
-2008-12-23, Žin., 2008, Nr. 149-6039 (2008-12-30)
+XI-119, 2008-12-23,
+Žin., 2008, Nr. 149-6039 (2008-12-30)
 Nr. XI-121,
 2008-12-23, Žin., 2008, Nr. 149-6041 (2008-12-30)
-Nr. XI-186,
-2009-03-10, Žin., 2009, Nr. 29-1140 (2009-03-17)
+Nr. XI-186, 2009-03-10,
+Žin., 2009, Nr. 29-1140 (2009-03-17)
 Nr. XI-320,
 2009-07-07, Žin., 2009, Nr. 85-3577 (2009-07-18)
 Nr. XI-512,
@@ -7926,6 +7930,9 @@ Nr. XI-1554,
 Nr.
 XI-2297,
 2012-10-17, Žin., 2012, Nr. 129-6471 (2012-11-08)
+Nr.
+XI-2381,
+2012-11-08, Žin., 2012, Nr. 135-6869 (2012-11-22)
  
  
 Pakeitimai:
@@ -8047,8 +8054,8 @@ VALSTYBĖS TARNYBOS ĮSTATYMO 15,
  
 15.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-856,
-2002-04-23, Žin., 2002, Nr. 45-1709 (2002-05-04)
+Nr. IX-856, 2002-04-23,
+Žin., 2002, Nr. 45-1709 (2002-05-04)
 VALSTYBĖS TARNYBOS ĮSTATYMO PAKEITIMO ĮSTATYMO
 ĮGYVENDINIMO ĮSTATYMAS
  
@@ -8137,8 +8144,8 @@ BEI PAPILDYMO IR ĮSTATYMO PAPILDYMO 5(1) STRAIPSNIU ĮSTATYMAS
 25.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-1815, 2003-11-11,
-Žin., 2003, Nr. 112-4993 (2003-11-28)
+Nr. IX-1815,
+2003-11-11, Žin., 2003, Nr. 112-4993 (2003-11-28)
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
@@ -8191,8 +8198,8 @@ PAPILDYMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-2502, 2004-10-26,
-Žin., 2004, Nr. 163-5940 (2004-11-09)
+IX-2502,
+2004-10-26, Žin., 2004, Nr. 163-5940 (2004-11-09)
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 43 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
  
@@ -8308,8 +8315,8 @@ dydį
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-1689, 2008-07-03,
-Žin., 2008, Nr. 81-3189 (2008-07-17)
+X-1689,
+2008-07-03, Žin., 2008, Nr. 81-3189 (2008-07-17)
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 8, 10 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šio įstatymo 1 straipsnis ir 2
@@ -8334,16 +8341,16 @@ Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. XI-1755,
 2011-12-01, Žin., 2011, Nr. 150-7054 (2011-12-08)
-VALSTYBĖS TARNYBOS
-ĮSTATYMO 8, 10 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 3 STRAIPSNIO
+VALSTYBĖS
+TARNYBOS ĮSTATYMO 8, 10 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 3 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
  
 40.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-1742,
-2008-10-06, Žin., 2008, Nr. 120-4549 (2008-10-18)
+X-1742, 2008-10-06,
+Žin., 2008, Nr. 120-4549 (2008-10-18)
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 4, 19 STRAIPSNIŲ PAKEITIMO, ĮSTATYMO PAPILDYMO 18(1)
 STRAIPSNIU IR 3 PRIEDO PAKEITIMO ĮSTATYMAS
@@ -8352,8 +8359,8 @@ STRAIPSNIU IR 3 PRIEDO PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XI-53, 2008-12-09,
-Žin., 2008, Nr. 143-5688 (2008-12-13)
+XI-53,
+2008-12-09, Žin., 2008, Nr. 143-5688 (2008-12-13)
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 4, 10, 16, 16(1), 17, 23, 26, 37, 41, 42 STRAIPSNIŲ PAKEITIMO
 IR PAPILDYMO, ĮSTATYMO PAPILDYMO 26(1), 43(1) STRAIPSNIAIS IR 3 PRIEDO II
@@ -8414,8 +8421,8 @@ PAKEITIMO ĮSTATYMAS
 Šio įstatymo pakeitimas:
                 Lietuvos Respublikos
 Seimas, Įstatymas
-                Nr. XI-321, 2009-07-07,
-Žin., 2009, Nr.85-3578 (2009-07-18)
+                Nr. XI-321,
+2009-07-07, Žin., 2009, Nr.85-3578 (2009-07-18)
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMO 2 IR 3 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -8503,8 +8510,8 @@ Respublikos Seimas, Įstatymas
 Nr. XI-1721,
 2011-11-22, Žin., 2011, Nr. 150-7036 (2011-12-08)
 VALSTYBĖS
-TARNYBOS ĮSTATYMO 25 STRAIPSNIO IR 1 PRIEDO PAKEITIMO ĮSTATYMO 4 STRAIPSNIO
-PAKEITIMO ĮSTATYMAS
+TARNYBOS ĮSTATYMO 25 STRAIPSNIO IR 1 PRIEDO PAKEITIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
  
 49.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -8523,8 +8530,8 @@ sausio 1 d.
 1)
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XI-851,
-2010-05-25, Žin., 2010, Nr. 67-3347 (2010-06-10)
+Nr. XI-851, 2010-05-25,
+Žin., 2010, Nr. 67-3347 (2010-06-10)
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2010 m. liepos 1 d.
@@ -8598,8 +8605,8 @@ Respublikos Seimas, Įstatymas
 Nr. XI-1369,
 2011-04-28, Žin., 2011, Nr. 57-2705 (2011-05-12)
 VALSTYBĖS
-TARNYBOS ĮSTATYMO 4, 9, 18, 29, 44 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR
-ĮSTATYMO PAPILDYMO 3(1), 30(1) STRAIPSNIAIS ĮSTATYMAS
+TARNYBOS ĮSTATYMO 4, 9, 18, 29, 44 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO
+PAPILDYMO 3(1), 30(1) STRAIPSNIAIS ĮSTATYMAS
 Šis įstatymas
 įsigalioja 2011 m. liepos 1 d.
  
@@ -8636,8 +8643,8 @@ TARNYBOS ĮSTATYMO 41 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XI-1836, 2011-12-21,
-Žin., 2011, Nr. 164-7794 (2011-12-31)
+XI-1836,
+2011-12-21, Žin., 2011, Nr. 164-7794 (2011-12-31)
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 8, 11 IR 13 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas, išskyrus 4 straipsnį, įsigalioja 2012
@@ -8707,6 +8714,18 @@ VALSTYBĖS TARNYBOS ĮSTATYMO 4 STRAIPSNIO
 IR 3 PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2013 m. sausio 1 d. 
  
+64.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XI-2381,
+2012-11-08, Žin., 2012, Nr. 135-6869 (2012-11-22)
+VALSTYBĖS
+TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMAS
+ 
+ 
+***
+Pabaiga ***
  
 Konstitucinio
 Teismo nutarimai:
@@ -8729,6 +8748,6 @@ Pabaiga ***
  
  
 Redagavo
-Aušra Bodin (2012-11-08)
+Aušrinė Trapinskienė (2012-11-22)
                  
-aubodi@lrs.lt
+ausrine.trapinskiene@lrs.lt
