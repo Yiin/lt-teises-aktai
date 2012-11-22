@@ -33,6 +33,7 @@ PRIEŽIŪROS ĮSTAIGŲ
 6 d. Nr. I-1367
 Vilnius
  
+ 
 Nauja
 įstatymo redakcija:
 Nr. VIII-940,1998.11.24,
@@ -86,9 +87,10 @@ užsakovai, kiti juridiniai ir fiziniai asmenys.
 nustatymas, kad įstaigos veikla atitinka teisės aktų reikalavimus, įstaigos
 teisės teikti paslaugas pripažinimas ir licencijos išdavimas.
             8. Valstybinis
-medicininis auditas – oficiali visų nuosavybės formų juridinių ir fizinių asmenų,
-kurie verčiasi asmens sveikatos priežiūra, teikiamų paslaugų prieinamumo,
-kokybės (tinkamumo) bei ekonominio efektyvumo kontrolė ir ekspertizė.
+medicininis auditas – oficiali visų nuosavybės formų juridinių ir fizinių
+asmenų, kurie verčiasi asmens sveikatos priežiūra, teikiamų paslaugų
+prieinamumo, kokybės (tinkamumo) bei ekonominio efektyvumo kontrolė ir
+ekspertizė.
             9. Pacientas – asmuo,
 kuris naudojasi įstaigų teikiamomis paslaugomis, nesvarbu, ar jis sveikas, ar
 ligonis.
@@ -181,156 +183,181 @@ būti įregistruotas Lietuvos Respublikos įstatymų nustatyta tvarka.
             2. Įstaigų pavadinimai ar jų
 junginiai privalo atitikti jų klasifikavimo požymius.
             
-            5 straipsnis. Įstaigų sveikatos
-priežiūros licencijavimas 
-            1. Įmonės, įstaigos gali
-teikti sveikatos priežiūros paslaugas tik gavusios licenciją ir įregistruotos
-Valstybiniame sveikatos priežiūros įstaigų registre. 
-            2. Licencijas išduoda
-(perregistruoja), atsisako jas išduoti (perregistruoti), licencijų galiojimą
-sustabdo, atnaujina ir panaikina Valstybinė akreditavimo tarnyba prie Sveikatos
-apsaugos ministerijos (toliau – Akreditavimo tarnyba). 
-            3. Licencijų išdavimo tvarką
-ir reikalavimus licencijai gauti nustato Vyriausybės ar jos įgaliotos
-institucijos patvirtintos Sveikatos priežiūros licencijavimo taisyklės, kuriose
-nurodoma:
-            1) licencijuojama veikla;
-            2) licenciją išduodančios
-institucijos įgaliojimai;
-            3) dokumentai, reikalingi
-licencijai gauti;
-            4) dokumentų nagrinėjimo
-tvarka ir terminai;
-            5) licencijų rūšys ir jų
-išdavimo sąlygos;
-            6) pakartotinio licencijos
-išdavimo ar perregistravimo tvarka;
-            7) išduodamų licencijų
-registravimo tvarka;
-            8) atsisakymo išduoti
-licencijas atvejai;
-            9) licencijuojamos veiklos
-sąlygos, tarp jų licencijos turėtojų teisės ir pareigos;
-            10) licencijos sąlygų
-laikymosi priežiūros tvarka;
-            11) licencijos galiojimo
-sustabdymo, atnaujinimo bei panaikinimo atvejai ir tvarka;
-            12) licencijos formos
-rekvizitai.
-            4. Sveikatos priežiūros
-licencijavimo taisyklėse gali būti nurodyti ir kiti reikalavimai bei sąlygos. 
-            5. Licencijų išdavimo bei
-licencijuojamos veiklos sąlygos neturi priklausyti nuo licenciją įgyjančios
-įmonės ar įstaigos rūšies. 
+5
+straipsnis. Įstaigų sveikatos priežiūros licencijavimas 
+1. Įmonės,
+įstaigos gali teikti sveikatos priežiūros
+paslaugas tik gavusios licenciją ir įregistruotos Valstybiniame sveikatos
+priežiūros įstaigų registre. 
+2. Licencijas
+išduoda (perregistruoja), atsisako jas išduoti (perregistruoti), licencijų
+galiojimą sustabdo, atnaujina ir panaikina Valstybinė akreditavimo sveikatos
+priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos (toliau – Valstybinė
+akreditavimo sveikatos priežiūros veiklai tarnyba). 
+3. Licencijų
+išdavimo tvarką ir reikalavimus licencijai gauti nustato Vyriausybės ar jos
+įgaliotos institucijos patvirtintos Sveikatos priežiūros
+licencijavimo taisyklės, kuriose nurodoma:
+1) licencijuojama
+veikla;
+2) licenciją
+išduodančios institucijos įgaliojimai;
+3) dokumentai,
+reikalingi licencijai gauti;
+4) dokumentų
+nagrinėjimo tvarka ir terminai;
+5) licencijų
+rūšys ir jų išdavimo sąlygos;
+6) pakartotinio
+licencijos išdavimo ar perregistravimo tvarka;
+7) išduodamų
+licencijų registravimo tvarka;
+8) atsisakymo
+išduoti licencijas atvejai;
+9)
+licencijuojamos veiklos sąlygos, tarp jų licencijos turėtojų teisės ir
+pareigos;
+10) licencijos
+sąlygų laikymosi priežiūros tvarka;
+11) licencijos
+galiojimo sustabdymo, atnaujinimo ir panaikinimo atvejai ir tvarka;
+12) licencijos
+formos rekvizitai.
+4. Sveikatos
+priežiūros licencijavimo taisyklėse gali būti nurodyti ir kiti
+reikalavimai bei sąlygos. 
+5. Licencijų
+išdavimo ir licencijuojamos veiklos sąlygos neturi priklausyti nuo licenciją
+įgyjančios įmonės ar įstaigos rūšies. 
 6. Licencijos
 išduodamos neribotam laikotarpiui, tačiau privalo būti perregistruojamos. Pirmą
 kartą išduotos licencijos turi būti perregistruojamos po dvejų metų, o vėliau –
 kas penkeri metai.
-            7. Licencija arba motyvuotas
-raštiškas atsisakymas išduoti (perregistruoti) licenciją turi būti pateikti
-įmonei ar įstaigai per keturiasdešimt kalendorinių dienų nuo visų dokumentų,
-reikalingų licencijai išduoti (perregistruoti), gavimo dienos. 
+7. Licencija
+arba motyvuotas raštiškas atsisakymas išduoti (perregistruoti) licenciją turi
+būti pateikti įmonei ar įstaigai per keturiasdešimt kalendorinių dienų nuo visų
+dokumentų, reikalingų licencijai išduoti (perregistruoti), gavimo dienos. 
 8. Už licencijos
 išdavimą (perregistravimą) mokama valstybės rinkliava.
-            9. Akreditavimo tarnyba turi
-teisę atsisakyti išduoti licenciją, jeigu:
-            1) pateikti ne visi
-dokumentai licencijai gauti;
-            2) pateikti dokumentai
-neatitinka nustatytų reikalavimų ar netinkamai įforminti;
-            3) licencijai gauti įmonė ar
-įstaiga pateikia neteisingus duomenis ar suklastotus dokumentus;
-            4) įmonės ar įstaigos
-sveikatos priežiūros sąlygos neatitinka teisės aktuose nustatytų
-licencijuojamos veiklos reikalavimų.
-            10. Sustabdyti ar panaikinti
-licencijos galiojimą Akreditavimo tarnyba gali savo iniciatyva, sveikatos
-priežiūros veiklą kontroliuojančių valstybės institucijų ar įstaigos laikinojo
-administratoriaus teikimu. Akreditavimo tarnyba per penkias kalendorines dienas
-nuo sprendimo priėmimo apie jį turi raštu pranešti įstaigai.
-            11. Akreditavimo tarnyba
-turi teisę licencijos galiojimą sustabdyti:
-            1) įstaigos iniciatyva;
-            2) kai paaiškėja, kad
-licencijai gauti įstaiga pateikia neteisingus duomenis ar suklastotus
-dokumentus;
-            3) kai sveikatos priežiūros
-veiklą kontroliuojančios valstybės institucijos nustato, kad įstaiga per
-einamuosius metus pakartotinai pažeidė Lietuvos Respublikos įstatymus, kitus
-teisės aktus, reguliuojančius licencijuojamą veiklą;
-            4) kai praėjo daugiau kaip
-devyniasdešimt kalendorinių dienų nuo dienos, kai licencija turėjo būti
-perregistruota, o įstaiga nepateikė paraiškos ją perregistruoti;
-            5) įstaigos laikinojo
-administratoriaus, revizijos metu nustačiusio teisės aktų pažeidimus įstaigoje,
-teikimu.
-            12. Terminą, kuriam
-sustabdomas licencijos galiojimas, nustato Akreditavimo tarnyba. Terminas
-negali būti ilgesnis kaip trys mėnesiai. Šis terminas gali būti pratęstas
-Sveikatos apsaugos ministro įsakymu.
-            13. Akreditavimo tarnyba
-įstaigos prašymu turi teisę priimti sprendimą atnaujinti jos licencijos
-galiojimą tik įsitikinusi, kad yra pašalinti pažeidimai, dėl kurių buvo
-sustabdytas licencijos galiojimas. Išlaidas, susijusias su licencijos
-galiojimo atnaujinimu, apmoka įstaiga.
-            14. Akreditavimo
-tarnyba turi teisę panaikinti licencijos galiojimą:
-            1) įstaigos iniciatyva;
-            2) kai gautas pranešimas
-apie įstaigos likvidavimą arba reorganizavimą (kai įstaiga, kaip savarankiškas
-ūkio subjektas, nutraukia veiklą);
-            3) jei, sustabdžius
-licencijos galiojimą, įstaiga per nustatytą terminą nepašalino pažeidimų ar
-nesikreipė dėl licencijos galiojimo atnaujinimo;
-            4) sveikatos priežiūros
-veiklą kontroliuojančios valstybės institucijų teikimu, jei, joms sustabdžius
-dalies ar visų paslaugų teikimą, įstaiga per nustatytą terminą nepašalina
-pažeidimų;
-            5) kai per einamuosius metus
-gauna pakartotiną sveikatos priežiūros veiklą kontroliuojančios valstybės
-institucijų teikimą sustabdyti įstaigos licencijos galiojimą.
-            15. Akreditavimo tarnybos
-sprendimas atsisakyti išduoti (perregistruoti) licenciją, sustabdyti,
-atnaujinti ar panaikinti jos galiojimą gali būti įstatymų nustatyta tvarka
-apskųstas per trisdešimt kalendorinių dienų nuo sprendimo priėmimo dienos.
-Apskundimas Akreditavimo tarnybos sprendimų vykdymo nesustabdo.
-16. Apie licencijos išdavimą, jos
-galiojimo sustabdymą, atnaujinimą ar panaikinimą Akreditavimo tarnyba skelbia
-savo interneto svetainėje.
+9. Valstybinė
+akreditavimo sveikatos priežiūros veiklai tarnyba turi teisę atsisakyti išduoti
+licenciją, jeigu:
+1) pateikti ne
+visi dokumentai licencijai gauti;
+2) pateikti
+dokumentai neatitinka nustatytų reikalavimų ar netinkamai įforminti;
+3) licencijai
+gauti įmonė ar įstaiga pateikia neteisingus duomenis ar suklastotus dokumentus;
+4) įmonės ar
+įstaigos sveikatos priežiūros sąlygos
+neatitinka teisės aktuose nustatytų licencijuojamos veiklos reikalavimų.
+10. Sustabdyti
+ar panaikinti licencijos galiojimą Valstybinė akreditavimo sveikatos priežiūros
+veiklai tarnyba gali savo iniciatyva, sveikatos priežiūros
+veiklą kontroliuojančių valstybės institucijų ar įstaigos laikinojo
+administratoriaus teikimu. Valstybinė akreditavimo sveikatos priežiūros veiklai
+tarnyba per penkias kalendorines dienas nuo sprendimo priėmimo apie jį turi
+raštu pranešti įstaigai.
+11. Valstybinė
+akreditavimo sveikatos priežiūros veiklai tarnyba turi teisę licencijos
+galiojimą sustabdyti:
+1) įstaigos
+iniciatyva;
+2) kai
+paaiškėja, kad licencijai gauti įstaiga pateikė neteisingus duomenis ar
+suklastotus dokumentus;
+3) kai sveikatos priežiūros veiklą kontroliuojančios
+valstybės institucijos nustato, kad įstaiga per einamuosius metus pakartotinai
+pažeidė Lietuvos Respublikos įstatymus, kitus teisės aktus, reglamentuojančius
+licencijuojamą veiklą;
+4) kai praėjo
+daugiau kaip devyniasdešimt kalendorinių dienų nuo dienos, kai licencija turėjo
+būti perregistruota, o įstaiga nepateikė paraiškos ją perregistruoti;
+5) įstaigos
+laikinojo administratoriaus, revizijos metu nustačiusio teisės aktų pažeidimus
+įstaigoje, teikimu.
+12. Terminą,
+kuriam sustabdomas licencijos galiojimas, nustato Valstybinė akreditavimo
+sveikatos priežiūros veiklai tarnyba. Terminas negali būti ilgesnis kaip trys
+mėnesiai. Šis terminas gali būti pratęstas sveikatos apsaugos
+ministro įsakymu.
+13. Valstybinė
+akreditavimo sveikatos priežiūros veiklai tarnyba įstaigos prašymu turi teisę
+priimti sprendimą atnaujinti jos licencijos galiojimą tik įsitikinusi, kad yra
+pašalinti pažeidimai, dėl kurių buvo sustabdytas licencijos galiojimas.
+Išlaidas, susijusias su licencijos galiojimo atnaujinimu, apmoka įstaiga.
+14. Valstybinė
+akreditavimo sveikatos priežiūros veiklai tarnyba turi teisę panaikinti
+licencijos galiojimą:
+1) įstaigos
+iniciatyva;
+2) kai gautas
+pranešimas apie įstaigos likvidavimą arba reorganizavimą (kai įstaiga, kaip
+savarankiškas ūkio subjektas, nutraukia veiklą);
+3) jeigu,
+sustabdžius licencijos galiojimą, įstaiga per nustatytą terminą nepašalino
+pažeidimų ar nesikreipė dėl licencijos galiojimo atnaujinimo;
+4) sveikatos
+priežiūros veiklą kontroliuojančių valstybės institucijų
+teikimu, jeigu, joms sustabdžius dalies ar visų paslaugų teikimą, įstaiga per
+nustatytą terminą nepašalina pažeidimų;
+5) kai per
+einamuosius metus gauna pakartotinį sveikatos
+priežiūros veiklą kontroliuojančių valstybės institucijų teikimą sustabdyti
+įstaigos licencijos galiojimą.
+15. Valstybinės
+akreditavimo sveikatos priežiūros veiklai tarnybos sprendimas atsisakyti
+išduoti (perregistruoti) licenciją, sustabdyti, atnaujinti ar panaikinti jos
+galiojimą gali būti įstatymų nustatyta tvarka apskųstas per trisdešimt
+kalendorinių dienų nuo sprendimo priėmimo dienos. Apskundimas Valstybinės
+akreditavimo sveikatos priežiūros veiklai tarnybos sprendimų vykdymo
+nesustabdo.
+16. Apie
+licencijos išdavimą, jos galiojimo sustabdymą, atnaujinimą ar panaikinimą
+Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba skelbia savo
+interneto svetainėje.
 Straipsnio pakeitimai:
 Nr. IX-287, 2001 04 19, Žin., 2001, Nr.
 39-1357 (2001 05 09)
 Nr. XI-886,
 2010-06-08, Žin., 2010, Nr. 71-3558 (2010-06-19)
+Nr. XI-2370, 2012-11-06, Žin., 2012, Nr. 135-6861
+(2012-11-22)
  
-            6
-straipsnis. Įstaigų akreditavimas sveikatos priežiūrai
-            1. Įstaigos, turinčios
-licenciją ir ne mažesnę kaip trejų metų atitinkamos rūšies sveikatos priežiūros
-paslaugų teikimo patirtį, turi teisę kreiptis dėl akreditavimo sveikatos
-priežiūrai.
-            2. Įstaigas akredituoja ar
-jų akreditavimą panaikina Akreditavimo tarnyba, priimdama sprendimą Sveikatos
-apsaugos ministerijos patvirtintų Akreditavimo sveikatos priežiūrai nuostatų
-nustatyta tvarka. 
-            3. Akreditavimo tarnybos
-sprendimas akredituoti įstaigą ar neakredituoti įstaigos turi būti priimtas ne
-vėliau kaip per šimtą dvidešimt kalendorinių dienų nuo visų dokumentų,
-reikalingų akreditavimui, gavimo dienos. Akreditavimo tarnyba apie priimtą
-sprendimą privalo raštu informuoti įstaigą ne vėliau kaip per penkias
-kalendorines dienas.
-            4. Įstaiga akredituojama ne
-ilgesniam kaip penkerių metų laikotarpiui. 
-            5. Išlaidas, susijusias su
-akreditavimu, apmoka akreditavimą inicijavusi įstaiga.
-            6. Akreditavimo tarnybos
-sprendimas per dvidešimt kalendorinių dienų nuo jo priėmimo dienos įstatymų
-nustatyta tvarka gali būti skundžiamas teismui.
-            7. Akreditavimo reikalavimus
-rengia aukštosios mokyklos bei mokslo įstaigos kartu su sveikatos priežiūros
-specialistų organizacijomis. Akreditavimo reikalavimų rengimą užsako, juos
-tvirtina ir registruoja Sveikatos apsaugos ministerija ar jos įgaliota
-institucija. 
+6
+straipsnis. Įstaigų akreditavimas sveikatos priežiūros veiklai
+1. Įstaigos,
+turinčios licenciją ir ne mažesnę kaip trejų metų atitinkamos rūšies sveikatos priežiūros paslaugų teikimo patirtį,
+turi teisę kreiptis dėl akreditavimo sveikatos priežiūros
+veiklai.
+2. Įstaigas
+akredituoja ar jų akreditavimą panaikina Valstybinė akreditavimo sveikatos
+priežiūros veiklai tarnyba, priimdama sprendimą Sveikatos
+apsaugos ministerijos patvirtintuose Akreditavimo sveikatos
+priežiūrai nuostatuose nustatyta tvarka. 
+3. Valstybinės
+akreditavimo sveikatos priežiūros veiklai tarnybos sprendimas akredituoti
+įstaigą ar neakredituoti įstaigos turi būti priimtas ne vėliau kaip per šimtą
+dvidešimt kalendorinių dienų nuo visų dokumentų, reikalingų akreditavimui,
+gavimo dienos. Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba
+apie priimtą sprendimą privalo raštu informuoti įstaigą ne vėliau kaip per
+penkias kalendorines dienas.
+4. Įstaiga
+akredituojama ne ilgesniam kaip penkerių metų laikotarpiui. 
+5. Išlaidas,
+susijusias su akreditavimu, apmoka akreditavimą inicijavusi įstaiga.
+6. Valstybinės
+akreditavimo sveikatos priežiūros veiklai tarnybos sprendimas per dvidešimt
+kalendorinių dienų nuo jo priėmimo dienos įstatymų nustatyta tvarka gali būti
+skundžiamas teismui.
+7. Akreditavimo
+reikalavimus rengia aukštosios mokyklos ir mokslo įstaigos kartu su sveikatos priežiūros specialistų
+organizacijomis. Akreditavimo reikalavimų rengimą užsako, juos tvirtina ir
+registruoja Sveikatos apsaugos ministerija ar jos įgaliota
+institucija.
+Straipsnio pakeitimai:
+Nr. XI-2370, 2012-11-06, Žin., 2012, Nr. 135-6861
+(2012-11-22)
             
             7
 straipsnis. Licencijuotų įstaigų registravimas
@@ -460,10 +487,10 @@ straipsnis. Paslaugų kainų valstybinis reguliavimas
 įstaigų teikiamų paslaugų kainas nustato jų valdymo organai ar savininkai šių
 įstaigų įstatuose nustatyta tvarka.
 3. LNSS įstaigos
-privalo teikti fiziniams ir juridiniams asmenims rašytinę informaciją, įskaitant
-ir konfidencialią, apie pacientą ir jam suteiktas paslaugas Pacientų teisių ir
-žalos sveikatai atlyginimo įstatymo ir kitų teisės aktų nustatyta tvarka ir
-pagrindais.
+privalo teikti fiziniams ir juridiniams asmenims rašytinę informaciją,
+įskaitant ir konfidencialią, apie pacientą ir jam suteiktas paslaugas Pacientų
+teisių ir žalos sveikatai atlyginimo įstatymo ir kitų teisės aktų nustatyta
+tvarka ir pagrindais.
 4. Šio
 straipsnio 3 dalyje nurodytos informacijos teikimo ir šios paslaugos apmokėjimo
 tvarką nustato sveikatos apsaugos ministras.
@@ -480,23 +507,18 @@ būti privatizuojami įstatymų ir kitų teisės aktų nustatyta tvarka, jei:
 licenciją;
             2) jiems išduota licencija
 panaikinama;
-            3) yra Valstybinės
-medicininio audito inspekcijos išvada dėl tolesnio įstaigos veiklos
-netikslingumo;
+3) yra
+Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos išvada dėl
+tolesnio įstaigos veiklos netikslingumo;
             4) yra kiti įstatymų
 numatyti atvejai.
+Straipsnio pakeitimai:
+Nr. XI-2370, 2012-11-06, Žin., 2012, Nr. 135-6861
+(2012-11-22)
             
 15 straipsnis. LNSS biudžetinių ir
 viešųjų įstaigų, jų padalinių, filialų vadovų ir sveikatos priežiūros
 specialistų priėmimo į darbą tvarka
-1. Valstybės ir
-savivaldybių biudžetinių ir viešųjų įstaigų vadovai į darbą priimami viešo
-konkurso būdu. Universitetų ligoninių vadovai į darbą priimami viešo konkurso
-būdu penkeriems metams. Viešą konkursą organizuoja ir jo
-nuostatus tvirtina atitinkamos įstaigos steigėjas arba visuotinis dalininkų
-susirinkimas.
-1
-dalies redakcija nuo 2012-07-01:
 1. LNSS
 valstybės ir savivaldybių biudžetinių ir viešųjų įstaigų vadovai į darbą
 priimami viešo konkurso būdu. LNSS valstybės ir savivaldybių biudžetinių ir
@@ -504,50 +526,7 @@ viešųjų įstaigų, išskyrus įstaigas, kuriose dirba dešimt ar mažiau svei
 priežiūros specialistų, turinčių medicinos praktikos licenciją, vadovai į darbą
 priimami viešo konkurso būdu penkeriems metams. Viešą konkursą organizuoja ir
 jo nuostatus tvirtina atitinkamos įstaigos steigėjas arba visuotinis dalininkų
-susirinkimas.“
-***Pastaba. 1. Iki įstatymo Nr. XI-1770 įsigaliojimo
-(2011-12-17) į Lietuvos nacionalinės sveikatos sistemos valstybės ir savivaldybių
-biudžetinių ir viešųjų įstaigų vadovų pareigas
-tam tikram laikui (kadencijai) priimti asmenys
-toliau eina atitinkamos įstaigos vadovo
-pareigas iki kadencijos pabaigos. 
-2. 1 dalyje nenurodyti Lietuvos
-nacionalinės sveikatos sistemos valstybės ir savivaldybių biudžetinių ir
-viešųjų įstaigų vadovai, kurie šio įstatymo įsigaliojimo dieną tos įstaigos
-vadovų pareigas ėjo penkerius ar mažiau metų, toliau eina atitinkamos įstaigos
-vadovo pareigas penkerius metus nuo šio įstatymo įsigaliojimo dienos.
-3. 1 dalyje nenurodyti Lietuvos
-nacionalinės sveikatos sistemos valstybės ir savivaldybių biudžetinių ir
-viešųjų įstaigų vadovai, kurie šio įstatymo įsigaliojimo dieną tos įstaigos
-vadovų pareigas ėjo daugiau kaip penkerius metus, bet mažiau kaip dešimt metų,
-toliau eina atitinkamos įstaigos vadovo pareigas, kol sueis dešimt metų nuo
-darbo tos įstaigos vadovu pradžios. Išimtį sudaro atvejai,
-kai dešimt metų sueina per vienus metus nuo šio įstatymo įsigaliojimo dienos;
-tokie Lietuvos nacionalinės sveikatos sistemos
-valstybės ir savivaldybių biudžetinių ir viešųjų įstaigų vadovai toliau
-eina įstaigos vadovo pareigas vienus metus nuo šio įstatymo įsigaliojimo
-dienos.
-4. 1 dalyje nenurodyti Lietuvos
-nacionalinės sveikatos sistemos valstybės ir savivaldybių biudžetinių ir
-viešųjų įstaigų vadovai, kurie šio įstatymo įsigaliojimo dieną tos įstaigos
-vadovų pareigas ėjo dešimt ar daugiau metų, toliau eina atitinkamos įstaigos
-vadovo pareigas vienus metus nuo šio įstatymo įsigaliojimo dienos. 
-5. Kai pasibaigia 1, 2, 3 ar 4
-dalyse nustatytas terminas, Lietuvos nacionalinės sveikatos sistemos valstybės ir savivaldybių biudžetinių ir viešųjų įstaigų
-vadovas atleidžiamas iš darbo. Įstaigos steigėjas arba visuotinis
-dalininkų susirinkimas likus trims mėnesiams iki vadovo atleidimo dienos
-organizuoja viešąjį konkursą vadovo pareigoms eiti. 
-6. Tais atvejais, kai vyko Lietuvos nacionalinės sveikatos sistemos valstybės ir
-savivaldybių biudžetinių ir viešųjų įstaigų reorganizavimas ar pasikeitė
-įstaigos dalininkas ar savininkas arba jo teises įgyvendinantis subjektas, tai
-skaičiuojant Lietuvos nacionalinės sveikatos sistemos valstybės ir savivaldybių
-biudžetinių ir viešųjų įstaigų
-vadovų, dirbančių po nurodytų aplinkybių, darbo stažą 2, 3 ar 4 dalyse
-nustatytais atvejais įskaičiuojamas ir darbo vienos iš reorganizuotų įstaigų
-vadovu stažas iki reorganizavimo ar darbo įstaigos vadovu stažas iki įstaigos
-dalininko ar savininko arba jo teises įgyvendinančio
-subjekto pasikeitimo. ***
- 
+susirinkimas.
 2. Valstybės ir
 savivaldybių biudžetinių ir viešųjų įstaigų padalinių ir filialų vadovai į
 darbą priimami viešo konkurso būdu. Universitetų ligoninių padalinių ir filialų
@@ -585,8 +564,6 @@ X-1204,
 Nr. XI-1770,
 2011-12-01, Žin., 2011, Nr. 154-7261 (2011-12-17)
  
-Įstatymas
-papildomas 151 straipsniu nuo 2012-01-01:
 151 straipsnis. LNSS viešųjų įstaigų vadovų ir jų
 pavaduotojų darbo apmokėjimo tvarka
 1. LNSS viešųjų įstaigų vadovų ir jų
@@ -632,19 +609,19 @@ atsižvelgdamas (atsižvelgdami) į šio straipsnio 3 dalyje nurodytus įstaigų
 skirstymo kriterijus.
 5.
 LNSS viešųjų įstaigų vadovų pavaduotojų mėnesinės algos pastoviosios dalies
-dydis nustatomas 10–40 procentų mažesnis už įstaigos vadovui nustatytą
-mėnesinės algos pastoviosios dalies dydį.
+dydis nustatomas 10–40 procentų mažesnis už įstaigos vadovui nustatytą mėnesinės
+algos pastoviosios dalies dydį.
 6. LNSS viešųjų
 įstaigų vadovaujančių darbuotojų mėnesinės algos kintamosios dalies dydis
 priklauso nuo praėjusių kalendorinių metų įstaigos veiklos finansinių rezultatų
 ir nustatomas vieniems metams. LNSS viešųjų įstaigų veiklos finansinių
 rezultatų vertinimo kiekybinių ir kokybinių rodiklių ir vadovaujančių
 darbuotojų mėnesinės algos kintamosios dalies nustatymo tvarkos aprašą tvirtina
-sveikatos apsaugos ministras. Visais atvejais mėnesinės algos kintamosios
-dalies dydis negali viršyti 40 procentų vadovaujančiajam darbuotojui
-nustatytos mėnesinės algos pastoviosios dalies dydžio. Mėnesinės algos
-kintamoji dalis negali būti nustatoma, jeigu praėjusių metų įstaigos veiklos
-finansiniai rezultatai yra neigiami.
+sveikatos apsaugos ministras. Visais atvejais mėnesinės algos kintamosios dalies
+dydis negali viršyti 40 procentų vadovaujančiajam darbuotojui nustatytos
+mėnesinės algos pastoviosios dalies dydžio. Mėnesinės algos kintamoji dalis
+negali būti nustatoma, jeigu praėjusių metų įstaigos veiklos finansiniai
+rezultatai yra neigiami.
 7. LNSS viešųjų
 įstaigų vadovaujančiajam darbuotojui už gerus darbo rezultatus ir gerą darbo
 pareigų atlikimą paskutinį kalendorinių metų mėnesį iš sutaupytų viešosios
@@ -653,8 +630,7 @@ negali būti didesnė už tą mėnesį mokamos mėnesinės algos pastoviosios da
 dydį.
 8. LNSS viešųjų
 įstaigų vadovaujantiesiems darbuotojams, su kuriais nutraukiama darbo sutartis
-šalių susitarimu pagal Darbo
-kodekso 125 straipsnį, gali būti išmokamos
+šalių susitarimu pagal Darbo kodekso 125 straipsnį, gali būti išmokamos
 kompensacijos, kurių suma negali viršyti trijų jų vidutinių mėnesinių darbo
 užmokesčių, apskaičiuotų Vyriausybės nustatyta tvarka.
 Įstatymas
@@ -669,8 +645,8 @@ straipsnis. Įstaigų raštvedyba
             1. Įstaigų
 raštvedyba tvarkoma lietuvių kalba. Medicinos dokumentai (ligos ar slaugos
 istorija, ambulatorinė kortelė, procedūrų paskyrimai ir kt.) pildomi lietuvių
-kalba. Ligos diagnozė, vaistų paskyrimai bei receptai gali būti rašomi ir
-lotynų kalba.
+kalba. Ligos diagnozė, vaistų paskyrimai bei receptai gali būti rašomi ir lotynų
+kalba.
             2. Įstaigų dokumentų
 saugojimo tvarką nustato Sveikatos apsaugos ministerija. 
             3. Krašto
@@ -718,8 +694,8 @@ apsaugos ir Socialinės apsaugos ir darbo ministerijų nustatyta tvarka.
             3. LNSS nepriklausančios
 įstaigos gali naudotis LNSS įstaigų paslaugomis (tyrimais, specialistų
 konsultacijomis ir kt.) tik pagal sudarytas su šiomis įstaigomis sutartis. Už
-paslaugas apmokama sutartinėmis kainomis, kurios negali būti mažesnės už nustatytas
-LNSS įstaigoms.
+paslaugas apmokama sutartinėmis kainomis, kurios negali būti mažesnės už
+nustatytas LNSS įstaigoms.
             4. LNSS nepriklausančios
 įstaigos pagal savo kompetenciją ir savo lėšomis privalo įgyvendinti būtinąsias
 visuomenės sveikatos priežiūros priemones, kurias nustato Sveikatos apsaugos
@@ -746,8 +722,8 @@ apsaugos ministerijos, Socialinės apsaugos ir darbo ministerija, Vidaus reikal�
             3. Biudžetinių įstaigų,
 išlaikomų iš savivaldybių biudžetų, steigėjos yra savivaldybių tarybos.
 Straipsnio pakeitimai:
-Nr. XI-767,
-2010-04-20, Žin., 2010, Nr. 51-2477 (2010-05-04)
+Nr. XI-767, 2010-04-20,
+Žin., 2010, Nr. 51-2477 (2010-05-04)
             
 21 straipsnis. Lietuvos Respublikos teisės aktai,
 nustatantys biudžetinių įstaigų 
@@ -803,19 +779,13 @@ Nr. XI-767,
 savivaldybių visuomenės sveikatos priežiūros biudžetinių
 įstaigų nomenklatūra
 1. LNSS
-savivaldybių visuomenės sveikatos priežiūros biudžetinė įstaiga yra
-savivaldybės visuomenės sveikatos biuras.
+savivaldybių visuomenės sveikatos priežiūros biudžetinė įstaiga yra savivaldybės
+visuomenės sveikatos biuras.
 2. LNSS
 valstybės visuomenės sveikatos priežiūros biudžetinės įstaigos, kurių steigėja
 yra Sveikatos apsaugos ministerija:
- 
-1) Valstybinė
-visuomenės sveikatos priežiūros tarnyba ir jai pavaldžios teritorinės įstaigos;
-1
-dalies 1 punkto redakcija nuo 2012-07-01:
 1) visuomenės
 sveikatos centrai apskrityse;
- 
 2) Nacionalinė
 visuomenės sveikatos priežiūros laboratorija;
 3) Užkrečiamųjų
@@ -833,9 +803,9 @@ institutas;
 9) kitos
 visuomenės sveikatos priežiūros įstaigos, įsteigtos kitų įstatymų ir teisės
 aktų nustatyta tvarka.
-3. LNSS savivaldybių
-ir valstybės visuomenės sveikatos priežiūros biudžetinių įstaigų pavyzdinius
-nuostatus tvirtina Sveikatos apsaugos ministerija.
+3. LNSS
+savivaldybių ir valstybės visuomenės sveikatos priežiūros biudžetinių įstaigų
+pavyzdinius nuostatus tvirtina Sveikatos apsaugos ministerija.
 Straipsnio pakeitimai:
 Nr. XI-767,
 2010-04-20, Žin., 2010, Nr. 51-2477 (2010-05-04)
@@ -844,10 +814,10 @@ Nr. XI-1758,
  
 25 straipsnis. Uždarosios biudžetinės įstaigos
 samprata, jos steigimo ir veiklos ypatumai
-            1. Uždaroji biudžetinė
-įstaiga yra iš valstybės turto ir biudžeto lėšų įsteigta ir išlaikoma
-biudžetinė įstaiga, teikianti įstatymuose nurodytoms asmenų grupėms nustatytas
-paslaugas ir vykdanti sveikatos programas. 
+            1. Uždaroji
+biudžetinė įstaiga yra iš valstybės turto ir biudžeto lėšų įsteigta ir
+išlaikoma biudžetinė įstaiga, teikianti įstatymuose nurodytoms asmenų grupėms
+nustatytas paslaugas ir vykdanti sveikatos programas. 
             2. Uždarosios biudžetinės
 įstaigos gali būti steigiamos tik tikrosios tarnybos karių ir kariūnų, asmenų,
 esančių laisvės atėmimo ir kardomojo kalinimo vietose, policijos areštinėse,
@@ -858,12 +828,12 @@ ir pripažintų nepakaltinamais, nelegalių imigrantų asmens sveikatos prieži�
 Sveikatos apsaugos ministerijos patvirtintą sąrašą. 
             3. Teisę steigti uždarąją
 biudžetinę įstaigą psichikos ligonių, padariusių visuomenei pavojingą veiką ir
-pripažintų nepakaltinamais, sveikatos priežiūrai turi Sveikatos apsaugos
-ministerija. Teisę steigti uždarąsias biudžetines įstaigas tikrosios tarnybos
-karių, asmenų, esančių laisvės atėmimo ir kardomojo kalinimo vietose, policijos
-areštinėse, skirstymo punktuose, nelegalių imigrantų sveikatos priežiūrai taip
-pat turi kitos įstatymų numatytos valstybės institucijos, suderinusios su
-Sveikatos apsaugos ministerija.
+pripažintų nepakaltinamais, sveikatos priežiūrai turi Sveikatos apsaugos ministerija.
+Teisę steigti uždarąsias biudžetines įstaigas tikrosios tarnybos karių, asmenų,
+esančių laisvės atėmimo ir kardomojo kalinimo vietose, policijos areštinėse,
+skirstymo punktuose, nelegalių imigrantų sveikatos priežiūrai taip pat turi
+kitos įstatymų numatytos valstybės institucijos, suderinusios su Sveikatos
+apsaugos ministerija.
             4. Uždarųjų biudžetinių
 įstaigų, steigiamų krašto apsaugos ir vidaus reikalų sistemose, nuostatus
 tvirtina jų steigėjai, suderinę su Sveikatos apsaugos ministerija.
@@ -875,7 +845,8 @@ institucijų nustatyta tvarka.
 straipsnis. LNSS viešosios įstaigos samprata ir statusas
             1. LNSS viešoji
 įstaiga yra iš valstybės ar savivaldybės turto ir lėšų įsteigta viešoji
-įstaiga, teikianti jos įstatuose nustatytas paslaugas pagal sutartis su užsakovais.
+įstaiga, teikianti jos įstatuose nustatytas paslaugas pagal sutartis su
+užsakovais.
             2. Viešoji įstaiga yra ne
 pelno įstaiga. Gautų pajamų ji negali skirstyti steigėjams, o jas naudoja tik
 įstatymuose ir kituose teisės aktuose nustatyta tvarka.
@@ -911,7 +882,8 @@ veiklos užduotis;
             3) gauti informaciją apie
 LNSS viešosios įstaigos veiklą;
             4) įstatymo nustatyta tvarka
-nustatyti ar dalyvauti nustatant paslaugų kainas bei jų apskaičiavimo metodikas;
+nustatyti ar dalyvauti nustatant paslaugų kainas bei jų apskaičiavimo
+metodikas;
             5) nustatyti LNSS viešosios
 įstaigos išlaidų, skirtų darbo užmokesčiui ir medikamentams, normatyvus arba
 pavesti juos patvirtinti pačiai LNSS viešajai įstaigai;
@@ -1489,6 +1461,10 @@ neatsižvelgiant į jų nuosavybės formą, teikiamų paslaugų valstybinę kont
 atlieka:
             1) sveikatos apsaugos
 ministro paskirti pareigūnai;
+2) Valstybinė
+akreditavimo sveikatos priežiūros veiklai tarnyba – asmens sveikatos priežiūros
+paslaugų prieinamumo, kokybės (tinkamumo) ir ekonominio efektyvumo valstybinę
+kontrolę;
             2) Valstybinė medicininio
 audito inspekcija - asmens sveikatos priežiūros paslaugų prieinamumo, kokybės
 (tinkamumo) ir ekonominio efektyvumo valstybinę kontrolę;
@@ -1501,21 +1477,11 @@ paslaugų teikimo ir kompensavimo;
             4) Lietuvos medicinos etikos
 komitetas - asmens sveikatos priežiūros įstaigos teikiamų paslaugų atitikimo
 medicinos etikos reikalavimams valstybinę kontrolę;
- 
-5) Valstybinė
-visuomenės sveikatos priežiūros tarnyba -
-paslaugų, teikiamų visuomenės sveikatos priežiūros įstaigose, prieinamumo,
-tinkamumo ir efektyvumo valstybinę kontrolę, sveikatos priežiūros, švietimo,
-socialinės globos ir rūpybos  įstaigų valstybinę visuomenės sveikatos saugos
-kontrolę.
-1
-dalies 5 punkto redakcija nuo 2012-07-01:
 5) visuomenės
 sveikatos centrai apskrityse – paslaugų, teikiamų visuomenės sveikatos
 priežiūros įstaigose, prieinamumo, tinkamumo ir efektyvumo valstybinę kontrolę,
 sveikatos priežiūros, švietimo, socialinės globos ir rūpybos įstaigų valstybinę
 visuomenės sveikatos saugos kontrolę.
- 
             2. Valstybinė paslaugų
 kontrolė sveikatos priežiūros įstaigose, kurių steigėjai yra Krašto apsaugos ar
 Vidaus reikalų ministerijos, atliekama Vyriausybės ar jos įgaliotų institucijų
@@ -1525,6 +1491,8 @@ Nr. VIII-1800, 2000.07.04, Žin., 2000,
 Nr.61-1811 (2000.07.26)
 Nr. XI-1758,
 2011-12-01, Žin., 2011, Nr. 153-7195 (2011-12-15)
+Nr. XI-2370, 2012-11-06, Žin., 2012, Nr. 135-6861
+(2012-11-22)
  
 53 straipsnis. Valstybės institucijų,
 kontroliuojančių paslaugų teikimą, teisės ir pareigos
@@ -1542,9 +1510,9 @@ medicininių apžiūrų ir tyrimų duomenis, įstaigos vadovų ir kitų darbuoto
             3) reikalauti, kad
 pacientams būtų atlikti papildomi tyrimai;
             4) teikti motyvuotą
-pasiūlymą sveikatos apsaugos ministrui ar jo įgaliotam asmeniui sustabdyti ar
-panaikinti gydytojo medicinos praktikos ar įstatymų nustatytų kitų licencijų
-verstis sveikatos priežiūra galiojimą;
+pasiūlymą sveikatos apsaugos ministrui ar jo įgaliotam asmeniui sustabdyti ar panaikinti
+gydytojo medicinos praktikos ar įstatymų nustatytų kitų licencijų verstis
+sveikatos priežiūra galiojimą;
             5) reikalauti iš įstaigos
 administracijos vadovo laikotarpiui iki vieno mėnesio nušalinti sveikatos
 priežiūros specialistus ir patikrinti jų profesinę kompetenciją, jei buvo
@@ -1573,55 +1541,30 @@ viršijimą pareigūnai atsako įstatymų nustatyta tvarka.
             
             54
 straipsnis. Paslaugų teikimo įstaigoje sustabdymas
-1. Akreditavimo
-tarnyba, Valstybinė medicininio audito inspekcija, Valstybinė visuomenės
-sveikatos priežiūros tarnyba pagal kompetenciją priimtais sprendimais turi
-teisę sustabdyti įstaigoje visų ar tam tikrų paslaugų teikimą, jeigu: 
-1) įstaiga arba
-jos padalinys (filialas) verčiasi veikla, kuriai neturi licencijos ar
-akreditavimo pažymėjimo; 
-2) įstaigos arba
-jos padalinio (filialo) atliekama sveikatos priežiūra neatitinka teisės aktų ar
-normatyvinių dokumentų reikalavimų ir dėl to yra realus pavojus pacientų
-sveikatai arba daroma žala žmonių sveikatai, nuostoliai juridiniams ir
-fiziniams asmenims; 
-3) įstaiga nėra
-įregistruota Įstaigų registre arba įregistruota pažeidžiant šio įstatymo
-reikalavimus ir daugiau kaip tris mėnesius nevykdo Įstaigų registro tvarkytojo
-reikalavimų; 
-4) įstaigoje sveikatos
-priežiūrą atlieka asmenys, neturintys tam teisės; 
-5) įstaigos ar
-jos padalinio patalpos, jų eksploatavimas, sveikatos priežiūros technologijos
-neatitinka teisės aktų ar normatyvinių dokumentų reikalavimų.
-1
-dalies redakcija nuo 2012-07-01:
-1. Akreditavimo
-tarnyba, Valstybinė medicininio audito inspekcija, visuomenės sveikatos centrai
-apskrityse pagal kompetenciją priimtais sprendimais turi teisę sustabdyti
-įstaigoje visų ar tam tikrų paslaugų teikimą, jeigu:
+1. Valstybinė
+akreditavimo sveikatos priežiūros veiklai tarnyba, visuomenės sveikatos
+centrai apskrityse pagal kompetenciją priimtais sprendimais
+turi teisę sustabdyti įstaigoje visų ar tam tikrų paslaugų teikimą, jeigu:
 1) įstaiga arba
 jos padalinys (filialas) verčiasi veikla, kuriai neturi licencijos ar
 akreditavimo pažymėjimo;
 2) įstaigos arba
-jos padalinio (filialo) atliekama sveikatos priežiūra neatitinka teisės aktų ar
-normatyvinių dokumentų reikalavimų ir dėl to yra realus pavojus pacientų
-sveikatai arba daroma žala žmonių sveikatai, nuostoliai juridiniams ir
-fiziniams asmenims;
+jos padalinio (filialo) atliekama sveikatos priežiūra
+neatitinka teisės aktų ar normatyvinių dokumentų reikalavimų ir dėl to yra
+realus pavojus pacientų sveikatai arba daroma žala žmonių sveikatai, nuostoliai
+juridiniams ir fiziniams asmenims;
 3) įstaiga nėra
-įregistruota Įstaigų registre arba įregistruota pažeidžiant šio įstatymo
-reikalavimus ir daugiau kaip tris mėnesius nevykdo Įstaigų registro tvarkytojo
-reikalavimų;
-4) įstaigoje
-sveikatos priežiūrą atlieka asmenys, neturintys tam teisės;
+įregistruota Įstaigų registre arba įregistruota pažeidžiant šio
+įstatymo reikalavimus ir daugiau kaip tris mėnesius nevykdo Įstaigų
+registro tvarkytojo reikalavimų;
+4) įstaigoje sveikatos priežiūrą atlieka asmenys, neturintys tam teisės;
 5) įstaigos ar
-jos padalinio patalpos, jų eksploatavimas, sveikatos priežiūros technologijos
-neatitinka teisės aktų ar normatyvinių dokumentų reikalavimų.
- 
-            2. Įstaigos paslaugų teikimas
-gali būti sustabdomas ne ilgiau kaip trims mėnesiams. Šio straipsnio 1 dalyje
-nurodytos valstybinės institucijos, priėmusios tokį sprendimą, privalo raštu
-informuoti įstaigos vadovą apie konkrečius sprendimo motyvus bei terminą
+jos padalinio patalpos, jų eksploatavimas, sveikatos priežiūros technologijos neatitinka teisės aktų ar normatyvinių
+dokumentų reikalavimų.“
+            2. Įstaigos paslaugų
+teikimas gali būti sustabdomas ne ilgiau kaip trims mėnesiams. Šio straipsnio 1
+dalyje nurodytos valstybinės institucijos, priėmusios tokį sprendimą, privalo
+raštu informuoti įstaigos vadovą apie konkrečius sprendimo motyvus bei terminą
 pažeidimams ar trūkumams pašalinti.
             3. Įstaigos vadovai,
 nevykdantys priimtų pagal šį įstatymą sprendimų sustabdyti visų ar dalies
@@ -1636,14 +1579,17 @@ pašalinti trūkumus. Pašalinus trūkumus, įstaigos veikla šio straipsnio 1 d
 nurodytų valstybės institucijų įsakymu gali būti atnaujinta.
 6. Jei per
 nustatytą terminą įstaiga trūkumų nepašalina, paslaugų teikimą sustabdžiusi
-institucija kreipiasi į Akreditavimo tarnybą dėl įstaigos licencijos galiojimo
-panaikinimo ir į Sveikatos apsaugos ministeriją dėl įstaigos valdymo organų
-nušalinimo ir laikinojo administratoriaus paskyrimo.
+institucija kreipiasi į Valstybinę akreditavimo sveikatos priežiūros veiklai
+tarnybą dėl įstaigos licencijos galiojimo panaikinimo ir į Sveikatos
+apsaugos ministeriją dėl įstaigos valdymo organų nušalinimo ir laikinojo
+administratoriaus paskyrimo.
 Straipsnio pakeitimai:
 Nr. VIII-1800, 2000.07.04, Žin., 2000,
 Nr.61-1811 (2000.07.26)
 Nr. XI-1758,
 2011-12-01, Žin., 2011, Nr. 153-7195 (2011-12-15)
+Nr. XI-2370, 2012-11-06, Žin., 2012, Nr. 135-6861
+(2012-11-22)
  
 55 straipsnis. Įstaigos valdymo organų nušalinimo ir
 laikinojo administratoriaus 
@@ -1653,8 +1599,8 @@ tvarka
 valdymo organai nušalinami ir laikinasis administratorius skiriamas, jeigu:
             1) įstaiga nepašalina
 nustatytų pažeidimų ar trūkumų ir dėl to iškyla grėsmė, kad jos teikiamos
-paslaugos bus netinkamos bei kenks pacientų sveikatai, tačiau dar yra reali galimybė
-pataisyti padėtį;
+paslaugos bus netinkamos bei kenks pacientų sveikatai, tačiau dar yra reali
+galimybė pataisyti padėtį;
             2) įstaigoje tais pačiais
 metais pasikartoja hospitalinės infekcijos protrūkis dėl įstaigos
 administracijos organizacinės veiklos trūkumų;
@@ -1671,14 +1617,14 @@ straipsnis. Įstaigos laikinasis administratorius
             1. Įstaigos
 laikinasis administratorius - tai įstaigos valdymo organų nušalinimo
 laikotarpiui sveikatos apsaugos ministro skiriamas sveikatos priežiūros
-įstaigos vadovas. Įstaigų laikinųjų administratorių kvalifikacinius reikalavimus
-nustato Sveikatos apsaugos ministerija. Laikinuoju administratoriumi negali
-būti įstaigos, kurios valdymo organai nušalinti, darbuotojas. Darbo
-sutartį su įstaigos laikinuoju administratoriumi sudaro ir ją nutraukia
-sveikatos apsaugos ministras ar jo įgaliotas atstovas.
-            2. Nuo laikinojo
-administratoriaus paskyrimo dienos visi įstaigos valdymo organų įgaliojimai
-pereina laikinajam administratoriui.
+įstaigos vadovas. Įstaigų laikinųjų administratorių kvalifikacinius
+reikalavimus nustato Sveikatos apsaugos ministerija. Laikinuoju
+administratoriumi negali būti įstaigos, kurios valdymo organai nušalinti,
+darbuotojas. Darbo sutartį su įstaigos laikinuoju administratoriumi
+sudaro ir ją nutraukia sveikatos apsaugos ministras ar jo įgaliotas atstovas.
+            2. Nuo laikinojo administratoriaus
+paskyrimo dienos visi įstaigos valdymo organų įgaliojimai pereina laikinajam
+administratoriui.
             3. Laikinasis
 administratorius turi teisę nutraukti ar sudaryti darbo sutartis su įstaigos
 valdymo organų nariais ir kitais darbuotojais.
@@ -1690,31 +1636,39 @@ administratorius be įstaigos steigėjo ar savininko įgaliojimų ar sutikimo
 negali parduoti ar kitaip perleisti, įkeisti turto, reorganizuoti ar likviduoti
 įstaigos, spręsti kitų įstaigos steigėjo ar savininko išimtinei kompetencijai
 priklausančių klausimų.
-            6. Apie administravimo eigą
-ir rezultatus laikinasis administratorius privalo informuoti sveikatos apsaugos
-ministrą, Akreditavimo tarnybą ir įstaigos steigėją ar savininką jų nustatytais
-terminais ir tvarka.
+6. Apie
+administravimo eigą ir rezultatus laikinasis administratorius privalo
+informuoti sveikatos apsaugos ministrą, Valstybinę
+akreditavimo sveikatos priežiūros veiklai tarnybą ir įstaigos steigėją ar
+savininką jų nustatytais terminais ir tvarka.
             7. Laikinasis
 administratorius privalo paskirti įstaigos reviziją ir atlikti higienos,
 epidemiologinę, darbų saugos ir medicininio audito ekspertizę. Ekspertizės turi
 būti atliktos per 3 mėnesius nuo laikinojo administratoriaus paskyrimo dienos.
-            8. Revizijos metu nustačius
-įstatymų, kitų teisės aktų ar normatyvinių dokumentų pažeidimus, laikinasis
-administratorius kreipiasi į Akreditavimo tarnybą dėl licencijos galiojimo
-panaikinimo ir informuoja apie tai Sveikatos apsaugos ministeriją.
+8. Revizijos
+metu nustačius įstatymų, kitų teisės aktų ar normatyvinių dokumentų pažeidimus,
+laikinasis administratorius kreipiasi į Valstybinę akreditavimo sveikatos
+priežiūros veiklai tarnybą dėl licencijos galiojimo panaikinimo ir informuoja
+apie tai Sveikatos apsaugos ministeriją.
             9. Laikinasis
 administratorius už žalą įstaigai, atsiradusią dėl jo kaltės, atsako įstatymų
 nustatyta tvarka.
-            
+Straipsnio pakeitimai:
+Nr. XI-2370, 2012-11-06, Žin., 2012, Nr. 135-6861
+(2012-11-22)
+ 
             57
 straipsnis. Įstaigos laikinojo administratoriaus atšaukimas
             Įstaigos
 laikinasis administratorius sveikatos apsaugos ministro įsakymu atšaukiamas
 prieš terminą, jeigu;
-            1) Akreditavimo tarnyba
-nustato, kad įstaiga gali patikimai ir stabiliai veikti;
+1) Valstybinė
+akreditavimo sveikatos priežiūros veiklai tarnyba nustato, kad įstaiga gali
+patikimai ir stabiliai veikti;
             2) panaikintas įstaigos
 licencijos galiojimas.
+Straipsnio pakeitimai:
+Nr. XI-2370, 2012-11-06, Žin., 2012, Nr. 135-6861 (2012-11-22)
             
             58
 straipsnis. Įstaigų veiklą kontroliuojančių valstybės institucijų teisės
@@ -1794,7 +1748,6 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS
 BRAZAUSKAS
  
-_______________
  
 Pakeitimai:
  
@@ -1813,8 +1766,7 @@ Nauja
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-940, 1998.11.24, Žin., 1998, Nr. 109-2995
 (1998.12.11)
-SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO PAKEITIMO
-ĮSTATYMAS
+SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja
 įstatymo redakcija
  
@@ -1898,8 +1850,8 @@ PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO 2, 15 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTAT
 12.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. X-1377,
-2007-12-13, Žin., 2007, Nr. 138-5643 (2007-12-29)
+Nr. X-1377, 2007-12-13,
+Žin., 2007, Nr. 138-5643 (2007-12-29)
 SVEIKATOS
 PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO 43 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
@@ -1985,9 +1937,15 @@ PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja 2012 m. liepos 1 d.
  
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2370, 2012-11-06, Žin., 2012, Nr. 135-6861
+(2012-11-22)
+SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO 5, 6, 14, 52, 54,
+56 IR 57 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 *** Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė (2012-01-04)
+Redagavo Aušrinė Trapinskienė (2012-11-22)
                   ausrine.trapinskiene@lrs.lt
