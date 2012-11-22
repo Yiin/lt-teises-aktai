@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C"
 
 # Lietuvos Respublikos kelių transporto kodeksas
 
-Suvestinė redakcija nuo 2011-12-04 iki 2012-11-21
+Suvestinė redakcija nuo 2012-11-22 iki 2013-07-12
  
 Kodeksas paskelbtas: Žin. 1996, Nr. 119-2772, i. k. 0961010KODE00I-1628
- 
-TAR pastaba. Iki įstatymo Nr. XI-1622 įsigaliojimo (2011-12-04) išduotos licencijų vežti keleivius lengvaisiais automobiliais taksi kortelės, galiojusios šio įstatymo įsigaliojimo dieną, prilyginamos leidimams vežti keleivius lengvaisiais automobiliais taksi ir galioja, neatsižvelgiant į jose nurodytą terminą, tol, kol galiojimas nebus panaikintas Kelių transporto kodekso 18 straipsnio 12 dalyje nustatyta tvarka.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1622, 2011-10-21, Žin., 2011, Nr. 132-6276 (2011-11-05), i. k. 1111010ISTA0XI-1622
-Lietuvos Respublikos kelių transporto kodekso 3, 7, 8, 13, 14, 18 straipsnių, priedo pakeitimo ir papildymo, Kodekso papildymo 8-1 straipsniu įstatymas
  
 LIETUVOS RESPUBLIKOS
 KELIŲ TRANSPORTO
@@ -39,7 +34,10 @@ Bendrosios nuostatos
 1 straipsnis. Kodekso paskirtis
 
 
-1. Lietuvos Respublikos kelių transporto kodeksas (toliau – šis kodeksas) reguliuoja keleivių, bagažo, krovinių ir pašto, dokumentų siuntų vežimų organizavimą ir vykdymą, vežimų valstybinį valdymą ir kontrolę, atsakomybę už turtinę žalą. 
+1. Lietuvos Respublikos kelių transporto kodeksas (toliau – šis kodeksas) reguliuoja keleivių, bagažo ir krovinių vežimų organizavimą ir vykdymą, vežimų valstybinį valdymą ir kontrolę, atsakomybę už turtinę žalą. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2380, 2012-11-08, Žin., 2012, Nr. 135-6868 (2012-11-22), i. k. 1121010ISTA0XI-2380
+ 
 
 
 
@@ -237,9 +235,10 @@ Vežimų organizavimas
 7 straipsnis. Vežimų organizavimo sąvoka
 
 
-1. Vežimų organizavimas – techninių sąlygų ir teisinių santykių tarp keleivio, krovinio, bagažo, pašto, dokumentų siuntos, smulkios siuntos siuntėjo, gavėjo ir vežėjo nustatymas
+1. Vežimų organizavimas – techninių sąlygų ir teisinių santykių tarp keleivio, krovinio, bagažo, smulkios siuntos siuntėjo, gavėjo ir vežėjo nustatymas. 
 Straipsnio dalies pakeitimai:
 Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
+Nr. XI-2380, 2012-11-08, Žin., 2012, Nr. 135-6868 (2012-11-22), i. k. 1121010ISTA0XI-2380
  
 
 
@@ -1134,14 +1133,19 @@ Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA
 
 
 ŠEŠTASIS skirsnis
-Krovinių ir pašto vežimas
+KROVINIŲ VEŽIMAS 
+Pakeistas skirsnio pavadinimas:
+Nr. XI-2380, 2012-11-08, Žin., 2012, Nr. 135-6868 (2012-11-22), i. k. 1121010ISTA0XI-2380
  
 
 
 26 straipsnis. Krovinių vežimo sąvoka
 
 
-1. Krovinių (prekių, produkcijos, iškasenų, atliekų, siuntų, konteinerių ir kitų daiktų) vežimas yra jų gabenimas už atlyginimą iš siuntėjo išsiuntimo vietos į gavėjo paskirties vietą transporto priemonėmis.
+1. Krovinių vežimas yra jų gabenimas už atlyginimą iš siuntėjo išsiuntimo vietos į gavėjo paskirties vietą transporto priemonėmis. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2380, 2012-11-08, Žin., 2012, Nr. 135-6868 (2012-11-22), i. k. 1121010ISTA0XI-2380
+ 
 
 
 
@@ -1587,17 +1591,9 @@ Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA
 
 
 
-40 straipsnis. Pašto, dokumentų siuntų vežimo sutartis
-
-
-1. Pašto, dokumentų siuntų vežimo sutartimi vežėjas įsipareigoja nuvežti pateiktą jam pašto, dokumentų siuntą į paskirties punktą ir išduoti gavėjui, o siuntėjas už pašto, dokumentų siuntų vežimą įsipareigoja sumokėti sutartyje nustatytą užmokestį.
-
-
-
-
-2. Pašto, dokumentų siuntų pateikimą vežti, jų vežimo ir išdavimo gavėjui tvarką nustato pašto paslaugų teikėjų ir vežėjų sutartys. 
-
-
+40 straipsnis. Neteko galios nuo 2012-11-22
+Straipsnio naikinimas:
+Nr. XI-2380, 2012-11-08, Žin. 2012, Nr. 135-6868 (2012-11-22), i. k. 1121010ISTA0XI-2380
 Straipsnio pakeitimai:
 Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
  
@@ -1718,7 +1714,10 @@ Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA
 
 
 
-2. Jeigu krovinys ar bagažas nebuvo įvertinti ir už juos apmokėta, tai už padarytą žalą vežėjas atsako taip: už jų praradimą ar trūkumą – prarasto ar trūkstamo turto verte, už sužalojimą – tokia suma, kokia sumažėjo krovinio, bagažo ar pašto siuntos vertė.
+2. Jeigu krovinys ar bagažas nebuvo įvertinti ir už juos apmokėta, tai už padarytą žalą vežėjas atsako taip: už jų praradimą ar trūkumą – prarasto ar trūkstamo turto verte, už sužalojimą – tokia suma, kokia sumažėjo krovinio ar bagažo vertė. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2380, 2012-11-08, Žin., 2012, Nr. 135-6868 (2012-11-22), i. k. 1121010ISTA0XI-2380
+ 
 
 
 
@@ -1746,10 +1745,16 @@ Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA
 
 
 
-47 straipsnis. Atsakomybė už keleivio, bagažo, krovinio ar pašto siuntos pavėluotą vežimą 
+47 straipsnis. Atsakomybė už keleivio, bagažo ar krovinio pavėluotą vežimą 
+Pakeistas straipsnio pavadinimas:
+Nr. XI-2380, 2012-11-08, Žin., 2012, Nr. 135-6868 (2012-11-22), i. k. 1121010ISTA0XI-2380
+ 
 
 
-1. Vežėjas, pažeidęs keleivio, bagažo ar krovinio vežimo terminus (išskyrus keleivio vežimą miesto ir priemiesčio maršrutais), privalo atlyginti keleiviui, krovinio ar pašto, dokumentų siuntėjui arba gavėjui turėtus nuostolius, atsiradusius dėl transporto priemonės vėlavimo, jeigu sutartyje nebuvo numatyta atsakomybė netesybomis. Negautos pajamos neatlyginamos.
+1. Vežėjas, pažeidęs keleivio, bagažo ar krovinio vežimo terminus (išskyrus keleivio vežimą miesto ir priemiesčio maršrutais), privalo atlyginti keleiviui, krovinio siuntėjui arba gavėjui turėtus nuostolius, atsiradusius dėl transporto priemonės vėlavimo, jeigu sutartyje nebuvo numatyta atsakomybė netesybomis. Negautos pajamos neatlyginamos. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2380, 2012-11-08, Žin., 2012, Nr. 135-6868 (2012-11-22), i. k. 1121010ISTA0XI-2380
+ 
 
 
 
@@ -1778,7 +1783,10 @@ Kai krovinys prarastas, jo trūksta arba jis sužalotas dėl dviejų ar daugiau 
 49 straipsnis. Atsakomybė už žalą, padarytą susidūrus kelių transporto  priemonėms
 
 
-1. Žalą, padarytą keleiviui, bagažui, kroviniui ar pašto siuntai susidūrus kelių transporto priemonėms, atlygina transporto priemonės, dėl kurios kaltės įvyko susidūrimas, valdytojas.
+1. Žalą, padarytą keleiviui, bagažui ar kroviniui susidūrus kelių transporto priemonėms, atlygina transporto priemonės, dėl kurios kaltės įvyko susidūrimas, valdytojas. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2380, 2012-11-08, Žin., 2012, Nr. 135-6868 (2012-11-22), i. k. 1121010ISTA0XI-2380
+ 
 
 
 
@@ -1805,7 +1813,10 @@ Kai krovinys prarastas, jo trūksta arba jis sužalotas dėl dviejų ar daugiau 
 51 straipsnis. Atleidimas nuo atsakomybės ar jos dydžio sumažinimas
 
 
-1. Vežėjas neatsako už žalą dėl bagažo, krovinio ar pašto siuntos praradimo, trūkumo ar sužalojimo, jeigu nėra įrodymų, kad imtasi visų reikiamų priemonių žalai išvengti arba kad jis negalėjo tokių priemonių panaudoti. Jei vežėjas įrodys, kad krovinio siuntėjo ar gavėjo veiksmai buvo šios žalos atsiradimo priežastimi ar turėjo įtakos žalai atsirasti arba jai padidėti, tai, atsižvelgiant į to asmens kaltės laipsnį, žalos atlyginimo dydis gali būti sumažintas arba vežėjas gali būti atleistas nuo atsakomybės.
+1. Vežėjas neatsako už žalą dėl bagažo ar krovinio praradimo, trūkumo ar sužalojimo, jeigu yra įrodymų, kad imtasi visų reikiamų priemonių žalai išvengti arba kad jis negalėjo tokių priemonių panaudoti. Jeigu vežėjas įrodys, kad krovinio siuntėjo ar gavėjo veiksmai buvo šios žalos atsiradimo priežastimi ar turėjo įtakos žalai atsirasti arba jai padidėti, tai, atsižvelgiant į to asmens kaltės laipsnį, žalos atlyginimo dydis gali būti sumažintas arba vežėjas gali būti atleistas nuo atsakomybės. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2380, 2012-11-08, Žin., 2012, Nr. 135-6868 (2012-11-22), i. k. 1121010ISTA0XI-2380
+ 
 
 
 
@@ -2015,3 +2026,8 @@ Lietuvos Respublikos kelių transporto kodekso 2, 3, 8, 10, 12, 13, 14, 16, 17-1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1622, 2011-10-21, Žin., 2011, Nr. 132-6276 (2011-11-05), i. k. 1111010ISTA0XI-1622
 Lietuvos Respublikos kelių transporto kodekso 3, 7, 8, 13, 14, 18 straipsnių, priedo pakeitimo ir papildymo, Kodekso papildymo 8-1 straipsniu įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2380, 2012-11-08, Žin., 2012, Nr. 135-6868 (2012-11-22), i. k. 1121010ISTA0XI-2380
+Lietuvos Respublikos kelių transporto kodekso 1, 7, 26, 46, 47, 49, 51 straipsnių, šeštojo skirsnio pavadinimo pakeitimo ir 40 straipsnio pripažinimo netekusiu galios įstatymas
