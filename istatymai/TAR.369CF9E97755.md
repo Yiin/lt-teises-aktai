@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.369CF9E97755"
 
 # Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymas
 
-Suvestinė redakcija nuo 2011-01-01 iki 2012-11-21
+Suvestinė redakcija nuo 2012-11-22 iki 2015-07-14
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 62-2224, i. k. 1011010ISTA00IX-413
  
@@ -358,7 +358,10 @@ Nr. XI-885, 2010-06-08, Žin., 2010, Nr. 71-3557 (2010-06-19), i. k. 1101010ISTA
 
 
 
-6. Licencijavimo institucija, vadovaudamasi Taisyklėmis, sustabdo licencijos galiojimą savo iniciatyva arba kai dėl to kreipiasi licencijos turėtojas, teisėsaugos institucijos, Sveikatos apsaugos ministerija, Lietuvos bioetikos komitetas, Valstybinė medicininio audito inspekcija prie Sveikatos apsaugos ministerijos, Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos, juridinių asmenų, turinčių asmens sveikatos priežiūros licenciją atitinkamoms slaugos ar akušerijos paslaugoms teikti, vadovai.
+6. Licencijavimo institucija, vadovaudamasi Taisyklėmis, sustabdo licencijos galiojimą savo iniciatyva arba kai dėl to kreipiasi licencijos turėtojas, teisėsaugos institucijos, Sveikatos apsaugos ministerija, Lietuvos bioetikos komitetas, Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos, juridinių asmenų, turinčių asmens sveikatos priežiūros licenciją atitinkamoms slaugos ir akušerijos paslaugoms teikti, vadovai.
+Straipsnio dalies pakeitimai:
+Nr. XI-2373, 2012-11-06, Žin., 2012, Nr. 135-6864 (2012-11-22), i. k. 1121010ISTA0XI-2373
+ 
 
 
 
@@ -419,7 +422,10 @@ Nr. XI-885, 2010-06-08, Žin., 2010, Nr. 71-3557 (2010-06-19), i. k. 1101010ISTA
 
 
 
-2. Licencijos galiojimą, vadovaudamasi Taisyklėmis, Licencijavimo institucija panaikina savo iniciatyva arba kai dėl to kreipiasi licencijos turėtojas, teisėsaugos institucijos, Sveikatos apsaugos ministerija, Lietuvos bioetikos komitetas, Valstybinė medicininio audito inspekcija prie Sveikatos apsaugos ministerijos, Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos, juridinių asmenų, turinčių asmens sveikatos priežiūros licenciją atitinkamoms slaugos ar akušerijos paslaugoms teikti, vadovai.
+2. Licencijos galiojimą, vadovaudamasi Taisyklėmis, Licencijavimo institucija panaikina savo iniciatyva arba kai dėl to kreipiasi licencijos turėtojas, teisėsaugos institucijos, Sveikatos apsaugos ministerija, Lietuvos bioetikos komitetas, Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos, juridinių asmenų, turinčių asmens sveikatos priežiūros licenciją atitinkamoms slaugos ir akušerijos paslaugoms teikti, vadovai.
+Straipsnio dalies pakeitimai:
+Nr. XI-2373, 2012-11-06, Žin., 2012, Nr. 135-6864 (2012-11-22), i. k. 1121010ISTA0XI-2373
+ 
 
 
 
