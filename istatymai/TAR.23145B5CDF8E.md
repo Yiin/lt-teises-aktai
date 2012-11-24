@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.23145B5CDF8E"
 
 # Lietuvos Respublikos saugiųjų dokumentų ir saugiųjų dokumentų blankų gamybos įstatymas
 
-Suvestinė redakcija nuo 2008-01-01 iki 2012-11-23
+Suvestinė redakcija nuo 2012-11-24 iki 2016-09-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 61-2758, i. k. 1031010ISTA0IX-1601
  
@@ -56,7 +56,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Keleivinio transporto bilietas – dokumentas, kuriuo suteikiama teisė vykti keleiviniu transportu, išskyrus tarptautinio susisiekimo ir oro transporto bilietus bei bilietą – kasos aparato kvitą.
+3. Keleivinio transporto bilietas – dokumentas, kuriuo suteikiama teisė vykti keleiviniu transportu, išskyrus tarptautinio susisiekimo, oro transporto ir elektroninį keleivinio transporto bilietą bei bilietą – kasos aparato kvitą.
+Straipsnio dalies pakeitimai:
+Nr. XI-2383, 2012-11-08, Žin., 2012, Nr. 136-6954 (2012-11-24), i. k. 1121010ISTA0XI-2383
+ 
 
 
 
@@ -920,3 +923,8 @@ Lietuvos Respublikos vertybinių popierių, dokumentų blankų, banderolių, ofi
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1328, 2007-11-15, Žin., 2007, Nr. 125-5094 (2007-12-01), i. k. 1071010ISTA00X-1328
 Lietuvos Respublikos vertybinių popierių, dokumentų blankų, banderolių, oficialių žymėjimo ženklų gamybos įstatymo pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2383, 2012-11-08, Žin., 2012, Nr. 136-6954 (2012-11-24), i. k. 1121010ISTA0XI-2383
+Lietuvos Respublikos saugiųjų dokumentų ir saugiųjų dokumentų blankų gamybos įstatymo 2 straipsnio pakeitimo įstatymas
