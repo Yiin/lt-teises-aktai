@@ -13,18 +13,21 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.11BAD851321B"
 
 # Lietuvos Respublikos mėgėjų žvejybos įstatymas
 
-Suvestinė redakcija nuo 2011-12-31 iki 2012-12-19
+Suvestinė redakcija nuo 2012-12-20 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 118-4395, i. k. 1041010ISTA0IX-2389
  
- 
+Nauja redakcija nuo 2012-12-20:
+Nr. XI-2211, 2012-09-11, Žin. 2012, Nr. 108-5463 (2012-09-19), i. k. 1121010ISTA0XI-2211
  
 LIETUVOS RESPUBLIKOS
-MĖGĖJIŠKOS ŽŪKLĖS
-Į S T A T Y M A S
+MĖGĖJŲ ŽVEJYBOS
+ĮSTATYMAS
  
 2004 m. liepos 15 d. Nr. IX-2389
 Vilnius
+ 
+TAR pastaba. 2012-12-20 įsigaliojus įstatymui (Nr. XI-2211), leidimai naudoti žūklės plotą neišduodami ir vandens telkinio nuomos verslinei žūklei sutartys nesudaromos.
  
 
 
@@ -33,15 +36,15 @@ BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Įstatymo paskirtis 
+1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas reglamentuoja visuomeninius santykius, atsirandančius organizuojant mėgėjišką žūklę bei jos metu, nustatant vandens telkinių naudojimo mėgėjiškai žūklei tvarką. 
+1. Šis įstatymas nustato visuomeninius santykius, susijusius su mėgėjų žvejyba, žuvų išteklių apsauga ir racionaliu jų naudojimu.
 
 
 
 
-2. Šio įstatymo nuostatos netaikomos privatiems žuvininkystės tvenkiniams.
+2. Šio įstatymo nuostatos netaikomos privačių dirbtinių vandens telkinių naudojimui žvejybai.
  
 
 
@@ -49,109 +52,83 @@ BENDROSIOS NUOSTATOS
 
 
 
-2 straipsnis. Pagrindinės šio įstatymo sąvokos 
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Intensyviai veisiamos žuvys – žuvys, įveistos pagal Žemės ūkio ministerijos ir Aplinkos ministerijos nustatytas žuvų įveisimo limituotai žvejybai normas. 
+1. Intensyviai veisiamos žuvys – žuvys, veisiamos pagal Lietuvos Respublikos žemės ūkio ministerijos (toliau – Žemės ūkio ministerija) ir Lietuvos Respublikos aplinkos ministerijos (toliau – Aplinkos ministerija) nustatytas žuvų įveisimo limituotai žvejybai normas.
+
+
+
+
+2. Leidimas naudoti žvejybos plotą – dokumentas, kuriuo suteikiama teisė jame nustatytomis sąlygomis naudoti žuvų išteklius ir organizuoti mėgėjų žvejybą tam tikrame valstybiniame žuvininkystės vandens telkinyje.
+
+
+
+
+3. Limituota žvejyba – saugomų ir globojamų žuvų rūšių ar intensyviai veisiamų žuvų žvejyba, taip pat žvejyba vandens telkiniuose, kuriuose mėgėjų žvejyba ribojama, arba žvejyba nestandartiniais įrankiais ir būdais pagal nustatytą tvarką.
+
+
+
+
+4. Mėgėjų žvejyba – žuvų gaudymas mėgėjų žvejybos įrankiais ir būdais pagal Aplinkos ministerijos ar Žemės ūkio ministerijos nustatytą tvarką.
+
+
+
+
+5. Mėgėjų žvejybos įrankiai – visi žuvims vilioti ir pagauti skirti įrankiai, kurių pagrindinis elementas yra žvejybinis kabliukas arba kabliukai, taip pat bučiukai ar samteliai vėžiams gaudyti, samteliai masalui ar žuvims iš vandens išimti bei povandeninės žūklės įrankiai.
+
+
+
+
+6. Mėgėjų žvejybos leidimas – įmokos, skirtos žuvų ištekliams atkurti ir išsaugoti, sumokėjimo Aplinkos ministerijos nustatyta tvarka patvirtinimas, suteikiantis teisę mėgėjų žvejybai.
+
+
+
+
+7. Ne mėgėjų žvejybos įrankiai – tinkliniai žvejybos įrankiai, išvardyti 2006 m. gruodžio 6 d. Komisijos reglamento (EB) Nr. 1799/2006, iš dalies keičiančio Reglamentą (EB) Nr. 26/2004 dėl Bendrijos žvejybos laivyno registro (OL 2006 L 341, p. 26), I priedo 3 lentelėje, ir elektros žūklės įrankiai.
+
+
+
+
+8. Saugomos ir globojamos žuvų rūšys – žuvų rūšys, įrašytos į Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių sąrašą, Globojamų žuvų ir vėžių rūšių sąrašą ir (arba) Europos Bendrijos svarbos gyvūnų ir augalų rūšių sąrašus arba saugomos pagal tarptautinius susitarimus.
+
+
+
+
+9. Vandens telkinio savininkas – fizinis ar juridinis asmuo, kuriam nuosavybės teise priklauso paviršinio vandens telkinys.
+
+
+
+
+10. Vandens telkinio valdytojas – privataus žuvininkystės vandens telkinio savininkas, taip pat valstybės ar savivaldybės nuosavybės teisę įgyvendinantis subjektas, kuriam teisės aktų nustatyta tvarka žuvininkystės vandens telkinys perduotas patikėjimo teise.
+
+
+
+
+11. Žūklės ploto naudotojas – fizinis ar juridinis asmuo, iki 2013 m. gegužės 1 d. pagal leidimą naudoti žūklės plotą naudojantis valstybinį vandens telkinį.
 Straipsnio dalies pakeitimai:
-Nr. XI-1841, 2011-12-21, Žin., 2011, Nr. 164-7796 (2011-12-31), i. k. 1111010ISTA0XI-1841
+Nr. XII-28, 2012-12-04, Žin., 2012, Nr. 143-7379 (2012-12-11), i. k. 1121010ISTA00XII-28
  
 
 
 
 
-2. Leidimas naudoti žūklės plotą – dokumentas, kuris šio įstatymo nustatyta tvarka suteikia teisę naudoti žuvų išteklius ir organizuoti mėgėjišką žūklę tam tikrame valstybiniame vandens telkinyje. 
+12. Žvejyba paleidžiant žuvis – mėgėjų žvejyba, kai sugautos žuvys nedelsiant paleidžiamos atgal į tą patį vandens telkinį, taip užtikrinant žuvų gyvybingumą.
 
 
 
 
-3. Limituota žvejyba – saugomų ir globojamų žuvų rūšių ar intensyviai veisiamų žuvų žvejyba, taip pat žvejyba vandens telkiniuose, kuriuose mėgėjiška žūklė ribojama, arba žvejyba nestandartiniais įrankiais ir būdais pagal Aplinkos ministerijos nustatytą tvarką. 
-Straipsnio dalies pakeitimai:
-Nr. XI-1841, 2011-12-21, Žin., 2011, Nr. 164-7796 (2011-12-31), i. k. 1111010ISTA0XI-1841
- 
+13. Žvejybos plotas – vandens telkinys ar jo dalis, į kurį (kurią) teisės aktų nustatyta tvarka išduotas leidimas naudoti žvejybos plotą.
 
 
 
 
-4. Mėgėjiška žūklė (mėgėjiška žvejyba) – žuvų gaudymas mėgėjiškos žūklės įrankiais ir būdais laikantis mėgėjiškai žūklei nustatytos tvarkos, sugautų žuvų laikymas ir gabenimas.
+14. Žvejybos ploto naudotojas – fizinis ar juridinis asmuo ar kita organizacija arba juridinio asmens ar kitos organizacijos filialas, turintys leidimą naudoti žvejybos plotą.
 
 
 
 
-5. Saugomos ir globojamos žuvų rūšys – žuvų rūšys, įrašytos į Ypač saugomų rūšių sąrašą, Raudonąją knygą, Europos Bendrijos svarbos rūšių sąrašą ar globojamų rūšių sąrašą.
-
-
-
-
-6. Tvenkinys – dirbtinis vandens telkinys, kuris įrengiamas užtvenkiant vandens tėkmę vandentakyje, žemės paviršiaus įdauboje ar pylimu apsuptame plote. 
-
-
-
-
-7. Vandens telkiniai – Lietuvos Respublikos išskirtinė ekonominė zona, teritoriniai vandenys, visi vidaus vandens telkiniai, kurie naudojami arba gali būti naudojami žuvininkystei. 
-
-
-
-
-8. Vandens telkinio savininkas – fizinis ar juridinis asmuo, kuriam nuosavybės teise priklauso paviršinio vandens telkinys.
-
-
-
-
-9. Vandens telkinio valdytojas – privataus vandens telkinio savininkas, taip pat valstybės ar savivaldybės nuosavybės teisę įgyvendinantis subjektas, kuriam teisės aktų nustatyta tvarka vandens telkinys perduotas patikėjimo teise. 
-
-
-
-
-10. Vidaus vandens telkiniai – visi Lietuvos Respublikos sausumos teritorijoje esantys paviršinio vandens telkiniai ir Kuršių marios.
-
-
-
-
-11. Žuvys – visų rūšių žuvys, nėgės, vėžiagyviai, moliuskai ir kiti vandens bestuburiai.
-
-
-
-
-12. Žuvų ištekliai – visos gėlavandenės ir jūrų žuvys, išskyrus dirbtinai auginamas žuvis, kurias žmogus naudoja arba gali naudoti savo poreikiams.
-
-
-
-
-13. Žuvų išteklių apsauga ir kontrolė – teisinės, materialios ir finansinės priemonės žuvų ištekliams apsaugoti.
-
-
-
-
-14. Žuvų išteklių atkūrimas – teisinės, materialios ir finansinės priemonės, padedančios išlaikyti stabilias, natūraliai atsikuriančias arba atkurti nykstančias žuvų populiacijas.
-
-
-
-
-15. Žuvų išteklių naudotojai – fiziniai ir juridiniai asmenys, turintys teisę naudoti žuvų išteklius.
-
-
-
-
-16. Žūklės leidimas – šio įstatymo nustatyta tvarka vandens telkinio savininko ar žūklės ploto naudotojo išduotas dokumentas, kuriuo suteikiama teisė naudoti žuvų išteklius mėgėjiškai žūklei. 
-Straipsnio dalies pakeitimai:
-Nr. XI-1841, 2011-12-21, Žin., 2011, Nr. 164-7796 (2011-12-31), i. k. 1111010ISTA0XI-1841
- 
-
-
-
-
-17. Žūklės limitas – vandens telkiniui nustatytas didžiausias žuvų sugavimo arba žūklės įrankių kiekis, arba žūklės dienų skaičius, arba nustatytos žūklės vietos. 
-Straipsnio dalies pakeitimai:
-Nr. XI-1841, 2011-12-21, Žin., 2011, Nr. 164-7796 (2011-12-31), i. k. 1111010ISTA0XI-1841
- 
-
-
-
-
-18. Žūklės ploto naudotojas – fizinis ar juridinis asmuo, kita organizacija, taip pat juridinio asmens ar kitos organizacijos filialas, pagal leidimą naudoti žūklės plotą naudojantys valstybinį vandens telkinį.
-Straipsnio dalies pakeitimai:
-Nr. XI-1841, 2011-12-21, Žin., 2011, Nr. 164-7796 (2011-12-31), i. k. 1111010ISTA0XI-1841
+15. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos žuvininkystės įstatyme ir Lietuvos Respublikos vandens įstatyme.
  
 
 
@@ -162,439 +139,72 @@ Nr. XI-1841, 2011-12-21, Žin., 2011, Nr. 164-7796 (2011-12-31), i. k. 1111010IS
 
 
 ANTRASIS SKIRSNIS
-VANDENS TELKINIŲ NAUDOJIMAS MĖGĖJIŠKAI ŽŪKLEI
+MĖGĖJŲ ŽVEJYBOS REGULIAVIMAS IR PLĖTRA
  
 
 
-3 straipsnis. Mėgėjiškos žūklės organizavimas ir plėtra 
+3 straipsnis. Mėgėjų žvejybos reguliavimas
 
 
-1. Mėgėjiška žūklė leidžiama visuose vandens telkiniuose, jeigu juose ši žūklė nėra ribojama įstatymų ir kitų teisės aktų nustatyta tvarka. 
+1. Mėgėjų žvejyba leidžiama visuose žuvininkystės vandens telkiniuose, kuriuose ši žvejyba nėra ribojama įstatymų ir kitų teisės aktų nustatyta tvarka. Aplinkos ministerijos ar Žemės ūkio ministerijos nustatyta tvarka žvejyba draudžiama ar ribojama žuvų nerštavietėse, migracijos keliuose, saugomų ir globojamų žuvų rūšių buveinėse.
 
 
 
 
-2. Lietuvos Respublikos vidaus vandens telkiniuose mėgėjiškos žūklės plėtrai teikiama pirmenybė prieš verslinę žvejybą.
+2. Žemės ūkio ministerija, suderinusi su Aplinkos ministerija, nustato mėgėjų žvejybos jūrų vandenyse tvarką. Žemės ūkio ministerija ir Aplinkos ministerija kontroliuoja, kaip šios tvarkos laikomasi.
 
 
 
 
-3. Vandens telkinių valdytojai yra atsakingi už jų valdomų vandens telkinių žuvų išteklius ir jų apsaugą. Vandens telkinių valdytojai privalo parengti valstybinių vandens telkinių, kuriems neišduoti žūklės plotų naudojimo leidimai, žuvų išteklių naudojimo ir gausinimo programas.
+3. Aplinkos ministerija ar jos įgaliota institucija, siekdama optimizuoti mėgėjų žvejybos plėtrą:
 
 
+1) reguliuoja mėgėjų žvejybą vidaus vandenyse ir kontroliuoja visuose žuvininkystės vandens telkiniuose;
 
 
-4. Aplinkos ministerija, siekdama palaikyti optimalų vandens telkinių produktyvumą ir išvengti neigiamų vandens ekosistemų pakitimų, turi teisę apriboti mėgėjišką žūklę visuose vandens telkiniuose, nustatydama žūklės limitą.
 
 
+2) nustatyta tvarka išduoda ir panaikina leidimus naudoti žvejybos plotą;
 
 
-5. Kaip patariamoji mėgėjiškos žūklės organizavimo ir plėtros institucija sudaroma Mėgėjiškos žūklės plėtros taryba. Jos sudėtį ir nuostatus tvirtina Aplinkos ministerija.
 
 
+3) nustato prekybos ne mėgėjų žvejybos įrankiais tvarką, atlieka ne mėgėjų žvejybos įrankių apyvartos kontrolę, išduoda leidimus gaminti, realizuoti, įsigyti ne mėgėjų žvejybos įrankius;
 
 
-6. Mėgėjiškos žūklės plėtros taryba:
 
 
-1) teikia valstybės ir savivaldybių institucijoms išvadas, pasiūlymus ir rekomendacijas dėl mėgėjiškos žūklės plėtros programų, projektų, taip pat teisės aktų rengimo bei įgyvendinimo; 
+4) kuria ir valdo mėgėjų žvejybos informacinę sistemą.
 
 
 
 
-2) teikia informaciją ir rekomendacijas vandens telkinių naudotojams mėgėjiškos žūklės plėtros klausimais;
 
 
+4. Žuvų išteklių tyrimai Baltijos jūroje ir Kuršių mariose atliekami kiekvienais metais, kituose didesniuose kaip 500 ha žuvininkystės vandens telkiniuose, kuriuose leidžiama užsiimti versline žvejyba, – ne rečiau kaip kas 2 metai. Likusiuose didesniuose kaip 100 ha žuvininkystės vandens telkiniuose žuvų išteklių tyrimai atliekami ne rečiau kaip kas 5 metai. Žuvų išteklių tyrimai vidaus vandenyse atliekami Aplinkos ministerijos nustatyta tvarka, o jūrų vandenyse – Žemės ūkio ministerijos nustatyta tvarka. Žuvų išteklių tyrimus atliekantys fiziniai ar juridiniai asmenys šių tyrimų duomenis nustatyta tvarka privalo pateikti Aplinkos ministerijai ir Žemės ūkio ministerijai.
 
 
-3) bendradarbiauja su atitinkamomis Lietuvos Respublikos ir užsienio organizacijomis.
- 
 
 
+5. Pagrindinės mėgėjų žvejybos reguliavimo priemonės yra šios:
 
 
+1) draudimas žvejoti tam tikru laiku ir (arba) tam tikrose vietose;
 
 
 
 
-4 straipsnis. Leidimai naudoti žūklės plotus valstybiniuose vandens telkiniuose 
+2) leidžiamų naudoti žvejybos įrankių, jų kiekio ir žvejybos būdų bei masalų nustatymas;
 
 
-1. Valstybiniuose vandens telkiniuose gali būti išduodami leidimai naudoti žūklės plotus. Viename vandens telkinyje išduodamas tik vienas leidimas naudoti žūklės plotą. 
 
 
+3) didžiausio leidžiamo sugauti žuvų kiekio nustatymas;
 
 
-2. Vandens telkiniai, į kuriuos neišduodami leidimai naudoti žūklės plotus, yra:
 
 
-1) valstybiniuose rezervatuose ir valstybinių parkų rezervatuose esantys vandens telkiniai;
-
-
-
-
-2) vertingų gamtinių kompleksų ir biologinės įvairovės išsaugojimo požiūriu ypač svarbūs vandens telkiniai;
-
-
-
-
-3) žuvų migracijai, nerštui ypač svarbūs vandens telkiniai; 
-
-
-
-
-4) rekreacijai svarbūs vandens telkiniai;
-
-
-
-
-5) žuvivaisai svarbūs vandens telkiniai. 
-
-
-
-
-
-
-3. Vandens telkinių, į kuriuos neišduodami leidimai naudoti žūklės plotus, sąrašą tvirtina Vyriausybė. 
-
-
-
-
-4. Sprendimus suteikti teisę naudoti žūklės plotą priima vandens telkinio valdytojas, suderinęs su Aplinkos ministerija ar jos įgaliota institucija.
-Straipsnio dalies pakeitimai:
-Nr. XI-896, 2010-06-10, Žin., 2010, Nr. 72-3615 (2010-06-22), i. k. 1101010ISTA00XI-896
- 
-
-
-
-
-5. Leidimus naudoti žūklės plotus, vadovaudamasis vandens telkinio valdytojo sprendimu, išduoda atitinkamo regiono aplinkos apsaugos departamentas. Jei vandens telkinys yra kelių regionų aplinkos apsaugos departamentų administruojamose teritorijose, leidimą išduoda tas regiono aplinkos apsaugos departamentas, kurio administruojamoje teritorijoje yra didesnė vandens telkinio dalis.
-
-
-
-
-6. Leidimas naudoti žūklės plotą išduodamas juridiniam ar fiziniam asmeniui, išskyrus šio straipsnio 7 dalyje numatytą atvejį. 
-
-
-
-
-7. Leidimas naudoti žūklės plotą upėje gali būti išduodamas tik mėgėjiškos žūklės visuomeninei organizacijai. Šiuo atveju leidimas turi būti išduodamas ne mažesnei negu vienos savivaldybės teritorijoje esanti visa upės atkarpa. 
-
-
-
-
-8. Vandens telkinio valdytojas, vadovaudamasis aplinkos ministro įsakymu patvirtintais vandens telkinių tvarkymo tipiniais planais, tvirtina žuvų išteklių naudojimo, atkūrimo ir apsaugos vandens telkinyje priemonių planą. Šis planas kartu su sprendimu išduoti leidimą naudoti žūklės plotą pateikiamas regiono aplinkos apsaugos departamentui.
- 
-
-
-
-
-
-
-5 straipsnis. Sprendimų dėl leidimų naudoti žūklės plotus valstybiniuose vandens telkiniuose išdavimo priėmimo būdai
-
-
-1. Sprendimai dėl leidimų naudoti žūklės plotus valstybiniuose vandens telkiniuose išdavimo priimami organizuojant aukcioną arba be aukciono.
-
-
-
-
-2. Priimti sprendimą išduoti leidimą naudoti žūklės plotą be aukciono leidžiama paskutiniam žūklės ploto naudotojui, vykdžiusiam prisiimtus įsipareigojimus.
-
-
-
-
-3. Jeigu sprendimas dėl leidimo naudoti žūklės plotą valstybiniame vandens telkinyje išdavimo nepriimamas be aukciono, rengiamas aukcionas. Aukcione dėl leidimo naudoti žūklės plotą valstybiniame vandens telkinyje pirmumo teisę turi asmenys, kurių privati žemė ribojasi su valstybiniu vandens telkiniu arba jo pakrantės apsaugos juosta.
-
-
-
-
-4. Aukcionus rengia vandens telkinių valdytojai pagal Vyriausybės patvirtintus nuostatus. Aukcionas laikomas teisėtu, jeigu jame dalyvavo bent vienas pretendentas, pasiūlęs kainą, ne mažesnę už Vyriausybės nustatytą minimalią kainą.
- 
-
-
-
-
-
-
-6 straipsnis. Mokesčiai už leidimus naudoti žūklės plotus
-
-
-1. Priimant sprendimą išduoti leidimą naudoti žūklės plotą aukciono būdu, mokestis už leidimą yra aukciono metu pasiūlyto didžiausio mokesčio dydžio.
-
-
-
-
-2. Vyriausybė nustato be aukciono išduodamų leidimų naudoti žūklės plotus mokesčio dydžio nustatymo ir mokėjimo tvarką. Šis mokesčio dydis laikomas pradiniu priimant sprendimą dėl leidimų naudoti žūklės plotus valstybiniame vandens telkinyje išdavimo aukciono būdu.
-
-
-
-
-3. Mokesčio dydis ir mokėjimo terminai nurodomi leidime naudoti žūklės plotą. 
- 
-
-
-
-
-
-
-7 straipsnis. Leidimų naudoti žūklės plotus terminai ir sąlygos
-
-
-1. Leidimai naudoti žūklės plotus išduodami 10 metų laikotarpiui pagal Vyriausybės patvirtintas tipines leidimų naudoti žūklės plotus valstybiniuose vandens telkiniuose sąlygas. 
-
-
-
-
-2. Leidimus naudoti žūklės plotus Aplinkos ministerijos nustatyta tvarka panaikina atitinkamo regiono aplinkos apsaugos departamentas. 
-
-
-
-
-3. Į valstybinius vandens telkinius, į kuriuos numatoma atkurti nuosavybės teises, leidimai naudoti žūklės plotus išduodami iki nuosavybės teisių į juos atkūrimo ir ši sąlyga įrašoma į leidimo naudoti žūklės plotą sąlygas. Vandens telkinio valdytojas, gavęs dokumentus apie nuosavybės teisių į vandens telkinį atkūrimą, turi teisę priimti sprendimą dėl leidimo naudoti žūklės plotą panaikinimo. Leidimus naudoti žūklės plotus, vadovaudamasis vandens telkinio valdytojo sprendimu, panaikina atitinkamo regiono aplinkos apsaugos departamentas.
- 
-
-
-
-
-
-
-8 straipsnis. Žūklės plotų naudotojų teisės ir pareigos
-
-
-1. Žūklės plotų naudotojai privalo:
-
-
-1) įgyvendinti vandens telkinio valdytojo patvirtintas žuvų išteklių naudojimo, atkūrimo ir apsaugos priemones;
-
-
-
-
-2) išduoti žūklės leidimus vandens telkiniuose, kuriuose turi teisę žvejoti pagal leidimą naudoti žūklės plotus; 
-
-
-
-
-3) nustatyta forma ir terminais teikti vandens telkinių tvarkymo metines ataskaitas;
-
-
-
-
-4) Aplinkos ministerijos nustatyta tvarka teikti informaciją apie vandens telkinį, žūklės leidimų kainas ir sąlygas bei teikiamas papildomas paslaugas;
-
-
-
-
-5) leisti kitiems asmenims naudotis vandens telkiniais teisės aktų nustatyta tvarka;
-
-
-
-
-6) laikytis nustatytų specialiųjų vandens telkinių naudojimo sąlygų, mėgėjiškos žūklės taisyklių, kitų aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių teisės aktų, leidimo naudoti žūklės plotus sąlygų reikalavimų. 
-
-
-
-
-
-
-2. Žūklės plotų naudotojai turi teisę:
-
-
-1) žvejoti leidime naudoti žūklės plotą nustatytomis sąlygomis; 
-
-
-
-
-2) Vyriausybės nustatyta tvarka gauti valstybės paramą, skirtą žuvų ištekliams atkurti ir apsaugoti;
-
-
-
-
-3) naudotis kitomis teisės aktų nustatytomis teisėmis.
- 
-
-
-
-
-
-
-
-
-
-
-TREČIASIS SKIRSNIS
-ŽUVŲ IŠTEKLIŲ NAUDOJIMAS MĖGĖJIŠKAI ŽŪKLEI
- 
-
-
-9 straipsnis. Teisės mėgėjiškai žūklei suteikimas
-
-
-1. Teisė mėgėjiškai žūklei valstybiniuose žuvininkystės vandens telkiniuose, į kuriuos neišduoti leidimai naudoti žūklės plotą, įgyjama Vyriausybės įgaliotos institucijos nustatyta tvarka sumokėjus įmoką žuvų ištekliams atkurti ir išsaugoti (toliau – įmoka) ir turint įmokos sumokėjimo patvirtinimą, išskyrus atvejus, nustatytus šio straipsnio 3 dalyje. Įmoka sumokama į Valstybinės mokesčių inspekcijos sąskaitą ir įskaitoma į valstybės iždo sąskaitą, kurioje kaupiamos Aplinkos apsaugos rėmimo programos lėšos.
-
-
-
-
-2. Įmokos dydžiai yra:
-
-
-1) už teisę mėgėjiškai žūklei valstybiniuose žuvininkystės vandens telkiniuose, į kuriuos neišduoti leidimai naudoti žūklės plotą: dvi paras – 5 litai; mėnesį – 20 litų; metus – 50 litų;
-
-
-
-
-2) už teisę mėgėjiškai žūklei valstybiniuose žuvininkystės vandens telkiniuose, į kuriuos neišduoti leidimai naudoti žūklės plotą ir kuriuose organizuota limituota žvejyba: parą – 10 litų; savaitę – 30 litų; mėnesį – 50 litų.
-
-
-
-
-
-
-3. Žvejoti nesumokėjus įmokos turi teisę asmenys iki 16 metų, asmenys, vyresni negu 62 metų, ir neįgalūs asmenys.
-
-
-
-
-4. Teisė naudoti žuvų išteklius mėgėjiškai žūklei valstybiniuose žuvininkystės vandens telkiniuose, į kuriuos išduotas leidimas naudoti žūklės plotą, privalo būti suteikiama Aplinkos ministerijos nustatyta tvarka išduodant žūklės leidimus, išskyrus atvejus, nustatytus šio straipsnio 6 dalyje.
-
-
-
-
-5. Žūklės leidimus išduoda:
-
-
-1) vandens telkinių savininkai – žvejoti jiems nuosavybės teise priklausančiuose vandens telkiniuose;
-
-
-
-
-2) žūklės plotų naudotojai – žvejoti vandens telkiniuose, kuriuose jiems išduoti leidimai naudoti žūklės plotus.
-
-
-
-
-
-
-6. Žvejoti be žūklės leidimų, turėdami šią teisę patvirtinančius dokumentus, gali: 
-
-
-1) vandens telkinių savininkai jiems nuosavybės teise priklausančiuose vandens telkiniuose;
-
-
-
-
-2) žūklės plotų naudotojai – fiziniai asmenys vandens telkiniuose, kuriuose jiems išduoti leidimai naudoti žūklės plotus; 
-
-
-
-
-3) asmenys iki 16 metų, asmenys, vyresni negu 62 metų, ir neįgalūs asmenys.
-
-
-
-
-
-
-7. Žūklės leidimo kaina už teisę mėgėjiškai žūklei valstybiniame žuvininkystės vandens telkinyje, į kurį išduotas leidimas naudoti žūklės plotą ir kuriame neorganizuota limituota žvejyba, negali būti didesnė negu įmoka atitinkamam laikotarpiui už teisę mėgėjiškai žūklei valstybiniuose žuvininkystės vandens telkiniuose, į kuriuos neišduoti leidimai naudoti žūklės plotą ir kuriuose neorganizuota limituota žvejyba.
-
-
-
-
-8. Žūklės leidimo kaina už teisę mėgėjiškai žūklei valstybiniame žuvininkystės vandens telkinyje, į kurį išduotas leidimas naudoti žūklės plotą ir kuriame organizuota limituota žvejyba, negali būti daugiau kaip 5 kartus didesnė negu įmoka atitinkamam laikotarpiui už teisę mėgėjiškai žūklei valstybiniuose žuvininkystės vandens telkiniuose, į kuriuos neišduoti leidimai naudoti žūklės plotą ir kuriuose organizuota limituota žvejyba.
-
-
-
-
-9. Žūklės plotų naudotojai turi teisę sumažinti žūklės leidimo kainą ar suteikti teisę žvejoti nemokamai.
-
-
-
-
-10. Privačiame žuvininkystės vandens telkinyje žūklės leidimo kainą nustato ar nemokamą žvejybos teisę suteikia vandens telkinio savininkas. 
-
-
-Straipsnio pakeitimai:
-Nr. XI-1841, 2011-12-21, Žin., 2011, Nr. 164-7796 (2011-12-31), i. k. 1111010ISTA0XI-1841
- 
-
-
-
-
-10 straipsnis. Limituotos žvejybos organizavimas 
-
-
-1. Limituota žvejyba organizuojama ir vykdoma Aplinkos ministerijos nustatyta tvarka.
-
-
-
-
-2. Organizuojant limituotą žvejybą valstybiniame žuvininkystės vandens telkinyje, turi būti atlikti žuvų išteklių tyrimai ir gautos žuvų išteklių tyrimus atlikusių fizinių ar juridinių asmenų rekomendacijos, kad jame tikslinga organizuoti limituotą žvejybą.
-
-
-
-
-3. Atsižvelgdama į žuvų išteklių būklę ir žuvų išteklių tyrimus atlikusių fizinių ar juridinių asmenų rekomendacijas, Aplinkos ministerija nustato limituotos žvejybos reguliavimo priemones ir sąlygas žuvininkystės vandens telkiniuose. 
-
-
-
-
-4. Limituotą žvejybą leidžiama organizuoti tik paskelbus limituotos žvejybos reguliavimo priemones ir sąlygas. Limituotos žvejybos reguliavimo priemonės ir sąlygos skelbiamos ir atšaukiamos Aplinkos ministerijos nustatyta tvarka.
-
-
-Straipsnio pakeitimai:
-Nr. XI-1841, 2011-12-21, Žin., 2011, Nr. 164-7796 (2011-12-31), i. k. 1111010ISTA0XI-1841
- 
-
-
-
-
-11 straipsnis. Žuvų išteklių apsauga, kontrolė ir atkūrimas 
-
-
-1. Fiziniai ir juridiniai asmenys privalo saugoti žuvų išteklius, žuvų gyvenamąją aplinką nuo kenksmingo poveikio.
-
-
-
-
-2. Žuvų išteklių apsaugos ir atkūrimo valstybinę kontrolę organizuoja ir atlieka įstatymų ar kitų teisės aktų įgaliotos aplinkos apsaugos valstybinės kontrolės institucijos, savivaldybių institucijos. 
-
-
-
-
-3. Žuvų išteklių atkūrimą valstybiniuose vandens telkiniuose, į kuriuos neišduoti leidimai naudoti žūklės plotus, organizuoja ir vykdo Vyriausybės įgaliotos institucijos. Šie darbai atliekami pagal Žemės ūkio ministerijos parengtas ir su Aplinkos ministerija suderintas programas Viešųjų pirkimų įstatymo nustatyta tvarka.
-
-
-
-
-4. Valstybiniuose vandens telkiniuose, į kuriuos išduoti leidimai naudoti žūklės plotus, žuvų išteklius saugo ir atkuria žūklės plotų naudotojai.
-
-
-
-
-5. Žūklės plotų naudotojams, privačių vandens telkinių savininkams Vyriausybės nustatyta tvarka gali būti teikiama parama, skirta žuvų ištekliams atkurti ir apsaugoti.
-
-
-
-
-6. Žuvų išteklių apsauga, kontrolė ir atkūrimas vykdomas atsižvelgiant į mokslinių tyrimų ir stebėsenos duomenis. Pagrindinės žuvų išteklių apsaugos, kontrolės ir atkūrimo priemonės yra šios:
-
-
-1) draudimas žvejoti tam tikru laiku ar tam tikrose vietose;
-
-
-
-
-2) leidžiamų naudoti žūklės įrankių, jų kiekio ir žūklės būdų nustatymas;
-
-
-
-
-3) maksimalaus žuvų sugavimo kiekio nustatymas;
-
-
-
-
-4) minimalaus leidžiamų gaudyti žuvų dydžio nustatymas;
+4) leidžiamų gaudyti žuvų dydžio nustatymas;
 
 
 
@@ -604,24 +214,24 @@ Nr. XI-1841, 2011-12-21, Žin., 2011, Nr. 164-7796 (2011-12-31), i. k. 1111010IS
 
 
 
-6) maksimalios žūklės trukmės nustatymas;
+6) ilgiausios žvejybos trukmės nustatymas;
 
 
 
 
-7) maksimalaus žūklės leidimų kiekio nustatymas.
+7) žvejybos paleidžiant žuvis nustatymas;
+
+
+
+
+8) žvejų skaičiaus ribojimas tam tikrose vietose ir (arba) tam tikru laiku.
 
 
 
 
 
 
-7. Pagrindinės žuvų išteklių apsaugos, kontrolės ir atkūrimo priemonės nustatomos Mėgėjiškos žūklės taisyklėse. Šias taisykles tvirtina aplinkos ministras.
-
-
-
-
-8. Privačiuose vandens telkiniuose žvejojama Aplinkos ministerijos nustatyta tvarka.    
+6. Mėgėjų žvejybai privačiuose žuvininkystės vandens telkiniuose Aplinkos ministerija ar jos įgaliota institucija nustato tik šio straipsnio 5 dalies 1, 2 ir 5 punktuose nurodytas mėgėjų žvejybos reguliavimo priemones.
  
 
 
@@ -629,33 +239,366 @@ Nr. XI-1841, 2011-12-21, Žin., 2011, Nr. 164-7796 (2011-12-31), i. k. 1111010IS
 
 
 
-12 straipsnis. Žuvų išteklių naudotojų pareigos 
+4 straipsnis. Limituotos žvejybos organizavimas
 
 
-Žuvų išteklių naudotojai privalo: 
-
-
-1) racionaliai naudoti žuvų išteklius ir juos saugoti;
+1. Limituota žvejyba vidaus vandenyse organizuojama ir vyksta Aplinkos ministerijos nustatyta tvarka. Limituota žvejyba jūrų vandenyse organizuojama ir vyksta Žemės ūkio ministerijos nustatyta tvarka.
 
 
 
 
-2) laikytis žūklę ir žuvų apsaugą reglamentuojančių teisės aktų reikalavimų bei leidimuose nustatytų sąlygų;
+2. Organizuojant limituotą žvejybą valstybiniame žuvininkystės vandens telkinyje, turi būti atlikti žuvų išteklių tyrimai ir gautos žuvų išteklių tyrimus atlikusių fizinių ar juridinių asmenų rekomendacijos, kad šiame telkinyje tikslinga organizuoti limituotą žvejybą.
 
 
 
 
-3) paaiškėjus, kad naudojamiems žuvų ištekliams gresia pavojus, imtis priemonių jo išvengti, o jei atsirado žalingų padarinių, neatidėliojant imtis priemonių jiems pašalinti ir apie tai pranešti Aplinkos ministerijai;
+3. Atsižvelgdama į žuvų išteklių būklę ir žuvų išteklių tyrimus atlikusių fizinių ar juridinių asmenų rekomendacijas, Aplinkos ministerija nustato limituotos žvejybos reguliavimo priemones ir sąlygas vidaus vandenyse, o Žemės ūkio ministerija nustato limituotos žvejybos reguliavimo priemones ir sąlygas jūrų vandenyse.
 
 
 
 
-4) atlyginti savo neteisėtais veiksmais žuvų ištekliams padarytą žalą;
+4. Limituotą žvejybą leidžiama organizuoti tik paskelbus limituotos žvejybos reguliavimo priemones ir sąlygas. Limituotos žvejybos reguliavimo priemonės ir sąlygos vidaus vandenyse skelbiamos ir atšaukiamos Aplinkos ministerijos nustatyta tvarka, o limituotos žvejybos reguliavimo priemonės ir sąlygos jūrų vandenyse skelbiamos ir atšaukiamos Žemės ūkio ministerijos nustatyta tvarka.
+ 
 
 
 
 
-5) vykdyti kitus teisėtus Vyriausybės įgaliotų institucijų bei pareigūnų reikalavimus.     
+
+
+5 straipsnis. Mėgėjų žvejybos taryba
+
+
+1. Pasiūlymams aplinkos ministrui ir žemės ūkio ministrui mėgėjų žvejybos klausimais teikti sudaroma visuomeniniais pagrindais veikianti Mėgėjų žvejybos taryba.
+
+
+
+
+2. Mėgėjų žvejybos taryba sudaroma iš šių institucijų ir veiklos sričių atstovų:
+
+
+1) Žemės ūkio ministerijos ar jai pavaldžių institucijų – 2 atstovai;
+
+
+
+
+2) Aplinkos ministerijai pavaldžių institucijų – 2 atstovai;
+
+
+
+
+3) Valstybinio turizmo departamento prie Ūkio ministerijos – 1 atstovas;
+
+
+
+
+4) žvejų mėgėjų asociacijų – 4 atstovai;
+
+
+
+
+5) asocijuotų žvejybos ploto naudotojų – 4 atstovai;
+
+
+
+
+6) žuvininkystės mokslo institucijų – 3 atstovai;
+
+
+
+
+7) mėgėjų žvejybos srities visuomenės informavimo priemonių – 2 atstovai.
+
+
+
+
+
+
+3. Mėgėjų žvejybos tarybos sudėtį ir nuostatus tvirtina aplinkos ministras ir žemės ūkio ministras.
+ 
+
+
+
+
+
+
+
+
+TREČIASIS SKIRSNIS
+LEIDIMAI NAUDOTI ŽVEJYBOS PLOTĄ
+ 
+
+
+6 straipsnis. Leidimai naudoti žvejybos plotą
+
+
+1. Valstybiniuose žuvininkystės vandens telkiniuose gali būti išduodami leidimai naudoti žvejybos plotą. Viename vandens telkinyje išduodamas tik vienas leidimas naudoti žvejybos plotą.
+
+
+
+
+2. Leidimai naudoti žvejybos plotą upėse ir į Žuvininkystės vandens telkinių, į kuriuos leidimai naudoti žvejybos plotą neišduodami, sąrašą įrašytuose vandens telkiniuose neišduodami. Žuvininkystės vandens telkinių, į kuriuos leidimai naudoti žvejybos plotą neišduodami, sąrašą tvirtina Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė) ar jos įgaliota institucija.
+
+
+
+
+3. Vandens telkiniai, į kuriuos neišduodami leidimai naudoti žvejybos plotą, yra:
+
+
+1) upės;
+
+
+
+
+2) valstybiniuose rezervatuose ir valstybinių parkų rezervatuose esantys vandens telkiniai;
+
+
+
+
+3) vertingų gamtinių kompleksų ir biologinės įvairovės išsaugojimo požiūriu ypač svarbūs vandens telkiniai;
+
+
+
+
+4) žuvų migracijai, nerštui ypač svarbūs vandens telkiniai;
+
+
+
+
+5) rekreacijai svarbūs vandens telkiniai.
+
+
+
+
+
+
+4. Sprendimus suteikti teisę naudoti žvejybos plotą priima vandens telkinio valdytojas, suderinęs su Aplinkos ministerija ar jos įgaliota institucija.
+
+
+
+
+5. Sprendimas suteikti teisę naudoti žvejybos plotą didesniame kaip 100 ha valstybiniame žuvininkystės vandens telkinyje negali būti priimamas tol, kol tame žuvininkystės vandens telkinyje Aplinkos ministerijos nustatyta tvarka neatlikti žuvų išteklių tyrimai. Žuvų išteklių tyrimai atliekami ne anksčiau kaip prieš 2 metus iki sprendimo išduoti leidimą naudoti žvejybos plotą priėmimo ir paskutiniais leidimo naudoti žvejybos plotą galiojimo metais.
+
+
+
+
+6. Vandens telkinio valdytojas, vadovaudamasis Aplinkos ministerijos patvirtintais vandens telkinių tvarkymo tipiniais planais ir atsižvelgdamas į to žuvininkystės vandens telkinio žuvų išteklių tyrimų duomenis, tvirtina žuvų išteklių naudojimo, atkūrimo ir apsaugos vandens telkinyje priemonių planą. Šis planas patvirtinamas iki sprendimo suteikti teisę naudoti žvejybos plotą priėmimo, su šiuo planu supažindinami asmenys, pretenduojantys gauti leidimą naudoti žvejybos plotą.
+
+
+
+
+7. Leidimų naudoti žvejybos plotą išdavimo ir panaikinimo tvarką nustato Aplinkos ministerija. Leidimus naudoti žvejybos plotą išduoda Aplinkos ministerijos įgaliota institucija.
+
+
+
+
+8. Leidimas naudoti žvejybos plotą išduodamas juridiniam, fiziniam asmeniui, kitai organizacijai arba juridinio asmens ar kitos organizacijos filialui.
+
+
+
+
+9. Sprendimą išduoti leidimą naudoti žvejybos plotą kartu su patvirtintu žuvų išteklių naudojimo, atkūrimo ir apsaugos vandens telkinyje priemonių planu vandens telkinio valdytojas ne vėliau kaip per 10 dienų nuo sprendimo priėmimo pateikia Aplinkos ministerijos įgaliotai institucijai.
+ 
+
+
+
+
+
+
+7 straipsnis. Sprendimų suteikti teisę naudoti žvejybos plotą priėmimo būdai
+
+
+1. Vandens telkinio valdytojo sprendimai suteikti teisę naudoti žvejybos plotą priimami aukciono būdu arba be aukciono.
+
+
+
+
+2. Be aukciono priimamas sprendimas suteikti teisę naudoti žvejybos plotą:
+
+
+1) paskutiniam žvejybos ploto naudotojui, tinkamai vykdžiusiam leidimo naudoti žvejybos plotą įpareigojimus;
+
+
+
+
+2) asmeniui, užsiimančiam akvakultūra ir naudojančiam vandenį iš tų žuvininkystės vandens telkinių žuvininkystės tvenkiniams užpildyti, žuvims veisti ar auginti;
+
+
+
+
+3) ne mažesnės negu pusė to žuvininkystės vandens telkinio dalies savininkui.
+
+
+
+
+
+
+3. Jeigu yra keli asmenys, kuriems sprendimas suteikti teisę naudoti žvejybos plotą priimamas be aukciono, tarp jų rengiamas uždaras aukcionas.
+
+
+
+
+4. Jeigu sprendimas suteikti teisę naudoti žvejybos plotą nepriimamas be aukciono ar uždarame aukcione, rengiamas atviras aukcionas.
+
+
+
+
+5. Aukcionus rengia vandens telkinių valdytojai pagal Vyriausybės patvirtintus nuostatus. Aukcionas laikomas įvykusiu, jeigu jame dalyvavo bent vienas pretendentas, už teisę naudoti žvejybos plotą pasiūlęs mokestį, ne mažesnį už Vyriausybės ar jos įgaliotos institucijos nustatytą pradinį mokesčio dydį.
+ 
+
+
+
+
+
+
+8 straipsnis. Mokestis už teisę naudoti žvejybos plotą
+
+
+1. Aukciono būdu priimant sprendimą suteikti teisę naudoti žvejybos plotą, mokestis už teisę naudoti žvejybos plotą turi būti aukciono metu pasiūlyto didžiausio mokesčio dydžio.
+
+
+
+
+2. Be aukciono priimant sprendimą suteikti teisę naudoti žvejybos plotą, mokesčio dydį, mokėjimo tvarką ir terminus nustato Vyriausybė ar jos įgaliota institucija. Šis mokesčio dydis laikomas pradiniu organizuojant aukcioną dėl teisės naudoti žvejybos plotą žuvininkystės vandens telkinyje.
+
+
+
+
+3. Mokesčio už teisę naudoti žvejybos plotą dydis ir mokėjimo terminai nurodomi leidime naudoti žvejybos plotą.
+ 
+
+
+
+
+
+
+9 straipsnis. Leidimų naudoti žvejybos plotą terminai ir sąlygos
+
+
+1. Leidimai naudoti žvejybos plotą išduodami 10 metų. Leidimo naudoti žvejybos plotą formą tvirtina Vyriausybė ar jos įgaliota institucija.
+
+
+
+
+2. Leidimai naudoti žvejybos plotą valstybiniuose žuvininkystės vandens telkiniuose, į kuriuos numatoma atkurti nuosavybės teises, išduodami iki nuosavybės teisių į šiuos telkinius atkūrimo ir ši sąlyga įrašoma į leidimo naudoti žvejybos plotą sąlygas.
+
+
+
+
+3. Leidimas naudoti žvejybos plotą neišduodamas:
+
+
+1) asmenims, kuriems per paskutinius 2 metus buvo nutraukta valstybinio vandens telkinio nuomos verslinei žūklei sutartis ar panaikintas leidimas naudoti žūklės plotą ar leidimas naudoti žvejybos plotą dėl įsipareigojimų nevykdymo;
+
+
+
+
+2) jeigu sprendimas suteikti teisę naudoti žvejybos plotą priimtas pažeidžiant įstatymų ir kitų teisės aktų nuostatas.
+
+
+
+
+
+
+4. Leidimas naudoti žvejybos plotą panaikinamas:
+
+
+1) jeigu žvejybos ploto naudotojui buvo duoti ne mažiau kaip du privalomieji nurodymai dėl leidimo naudoti žvejybos plotą sąlygų nevykdymo, kurių jis neįvykdė;
+
+
+
+
+2) jeigu žvejybos ploto naudotojui per metus buvo skirtos dvi administracinės nuobaudos dėl žuvų išteklių naudojimą reglamentuojančių teisės aktų reikalavimų ar leidimo naudoti žvejybos plotą esminių sąlygų pažeidimo;
+
+
+
+
+3) jeigu nustatytais terminais nesumokamas mokestis už teisę naudoti žvejybos plotą;
+
+
+
+
+4) jeigu žvejybos ploto naudotojas per tris mėnesius nuo leidimo naudoti žvejybos plotą išdavimo nepradeda vykdyti leidime naudoti žvejybos plotą nustatytų reikalavimų;
+
+
+
+
+5) žvejybos ploto naudotojo prašymu, kai žvejybos ploto naudotojas ir vandens telkinio valdytojas dėl to susitaria arba kai vandens telkinys dėl aplinkybių, už kurias žvejybos ploto naudotojas neatsako, pasidarė netinkamas naudoti leidime naudoti žvejybos plotą numatytiems tikslams;
+
+
+
+
+6) kai vandens telkinio valdytojas priima sprendimą dėl nuosavybės teisių į tą vandens telkinį atkūrimo;
+
+
+
+
+7) likvidavus juridinį asmenį, kuriam buvo išduotas leidimas naudoti žvejybos plotą;
+
+
+
+
+8) mirus fiziniam asmeniui, kuriam buvo išduotas leidimas naudoti žvejybos plotą.
+ 
+
+
+
+
+
+
+
+
+10 straipsnis. Žvejybos ploto naudotojo teisės ir pareigos
+
+
+1. Žvejybos ploto naudotojas žuvininkystės vandens telkinyje, kuriame turi leidimą naudoti žvejybos plotą, turi teisę:
+
+
+1) Aplinkos ministerijos nustatyta tvarka organizuoti mėgėjų ar limituotą žvejybą;
+
+
+
+
+2) Aplinkos ministerijos nustatyta tvarka žvejoti verslinės žvejybos įrankiais;
+
+
+
+
+3) Vyriausybės nustatyta tvarka gauti valstybės paramą, skirtą žuvų ištekliams atkurti ir apsaugoti;
+
+
+
+
+4) naudotis kitomis teisės aktų nustatytomis teisėmis.
+
+
+
+
+
+
+2. Žvejybos ploto naudotojas žuvininkystės vandens telkinyje, kuriame turi leidimą naudoti žvejybos plotą, privalo:
+
+
+1) įgyvendinti vandens telkinio valdytojo patvirtintą žuvų išteklių naudojimo, atkūrimo ir apsaugos vandens telkinyje priemonių planą;
+
+
+
+
+2) Aplinkos ministerijos ar jos įgaliotos institucijos nustatyta tvarka organizuoti žuvų išteklių apsaugą;
+
+
+
+
+3) Aplinkos ministerijos nustatyta tvarka išduoti mėgėjų žvejybos leidimus;
+
+
+
+
+4) Aplinkos ministerijos ar jos įgaliotos institucijos nustatyta tvarka teikti informaciją apie žuvų išteklių naudojimą, atkūrimą ir apsaugą žvejybos plote;
+
+
+
+
+5) laikytis nustatytų specialiųjų vandens telkinių naudojimo sąlygų, žvejybos taisyklių, kitų aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių teisės aktų, leidimo naudoti žvejybos plotą sąlygų ir reikalavimų.
  
 
 
@@ -668,41 +611,212 @@ Nr. XI-1841, 2011-12-21, Žin., 2011, Nr. 164-7796 (2011-12-31), i. k. 1111010IS
 
 
 KETVIRTASIS SKIRSNIS
+TEISĖS Į MĖGĖJŲ ŽVEJYBĄ SUTEIKIMAS. ŽUVŲ IŠTEKLIŲ APSAUGA. ASMENŲ, UŽSIIMANČIŲ MĖGĖJŲ ŽVEJYBA, TEISĖS IR PAREIGOS
+ 
+
+
+11 straipsnis. Teisės į mėgėjų žvejybą suteikimas
+
+
+1. Teisę į mėgėjų žvejybą suteikia mėgėjų žvejybos leidimas, išskyrus šio straipsnio 7 dalyje numatytus atvejus.
+
+
+
+
+2. Už mėgėjų žvejybos leidimą žvejoti valstybiniuose žuvininkystės vandens telkiniuose, į kuriuos neišduoti leidimai naudoti žvejybos plotą, mokama:
+
+
+1) dviem paroms – 5 litai; 
+
+
+
+
+2) mėnesiui – 20 litų;
+
+
+
+
+3) metams – 50 litų.
+
+
+
+
+
+
+3. Už mėgėjų žvejybos leidimą žvejoti privačiame žuvininkystės vandens telkinyje arba valstybiniame žuvininkystės vandens telkinyje, į kurį neišduotas leidimas naudoti žvejybos plotą ir organizuota limituota žvejyba, mokama:
+
+
+1) parai – 10 litų;
+
+
+
+
+2) savaitei – 30 litų;
+
+
+
+
+3) mėnesiui – 50 litų.
+
+
+
+
+
+
+4. Už mėgėjų žvejybos leidimą žvejoti valstybiniame žuvininkystės vandens telkinyje, į kurį išduotas leidimas naudoti žvejybos plotą, mokama:
+
+
+1) dviem paroms – 5 litai;
+
+
+
+
+2) mėnesiui – 20 litų;
+
+
+
+
+3) metams – 50 litų.
+
+
+
+
+
+
+5. Už mėgėjų žvejybos leidimą žvejoti vieną parą privačiame žuvininkystės vandens telkinyje, kuriame organizuota limituota žvejyba, arba valstybiniame žuvininkystės vandens telkinyje, į kurį išduotas leidimas naudoti žvejybos plotą ir organizuota limituota žvejyba, mokama 50 litų.
+
+
+
+
+6. Už mėgėjų žvejybos leidimą mokama:
+
+
+1) vandens telkinio savininkui, kai žvejojama jam nuosavybės teise priklausančiame žuvininkystės vandens telkinyje;
+
+
+
+
+2) žvejybos ploto naudotojui, kai žvejojama žuvininkystės vandens telkinyje, kuriame jam išduotas leidimas naudoti žvejybos plotą;
+
+
+
+
+3) į valstybės biudžetą teisės aktų nustatyta tvarka Aplinkos apsaugos rėmimo programai finansuoti, kai žvejojama valstybiniuose žuvininkystės vandens telkiniuose, į kuriuos neišduoti leidimai naudoti žvejybos plotą. 
+
+
+
+
+
+
+7. Žvejoti nemokamai, be mėgėjų žvejybos leidimų, turi teisę fiziniai asmenys iki 16 metų, valstybinio socialinio draudimo pensininkai ir neįgalieji, o Nemuno deltos regioninio parko vandens telkiniuose – ir fiziniai asmenys, deklaravę gyvenamąją vietą Rusnės seniūnijoje.
+
+
+
+
+8. Žvejybos plotų naudotojai ir privačių žuvininkystės vandens telkinių savininkai turi teisę sumažinti mokestį už mėgėjų žvejybos leidimą arba suteikti nemokamą teisę žvejoti, taip pat suteikti teisę į limituotą žvejybą ilgesniam, negu šiame įstatyme nustatyta, laikotarpiui, neviršydami nustatyto mokesčio už mėgėjų žvejybos leidimą dydžio už vieną parą.
+
+
+Straipsnio pakeitimai:
+Nr. XII-28, 2012-12-04, Žin., 2012, Nr. 143-7379 (2012-12-11), i. k. 1121010ISTA00XII-28
+ 
+
+
+
+
+12 straipsnis. Žuvų išteklių apsauga, kontrolė ir atkūrimas
+
+
+1. Fiziniai ir juridiniai asmenys, Lietuvos Respublikoje įsteigti Europos Sąjungos valstybėse narėse ir kitose Europos ekonominės erdvės valstybėse įsisteigusių įmonių filialai privalo saugoti žuvų išteklius, žuvų gyvenamąją aplinką nuo kenksmingo poveikio.
+
+
+
+
+2. Draudžiama prekiauti mėgėjų žvejybos būdu sužvejotomis žuvimis ir iš jų pagamintais produktais.
+
+
+
+
+3. Žuvų išteklių apsaugos ir atkūrimo valstybinę kontrolę organizuoja ir atlieka įstatymų įgaliotos institucijos ir pareigūnai.
+
+
+
+
+4. Žuvų išteklių atkūrimą valstybiniuose žuvininkystės vandens telkiniuose, į kuriuos neišduoti leidimai naudoti žvejybos plotą, organizuoja ir vykdo Vyriausybės įgaliotos institucijos. Šie darbai atliekami pagal Žemės ūkio ministerijos parengtas ir su Aplinkos ministerija suderintas programas.
+
+
+
+
+5. Valstybiniuose žuvininkystės vandens telkiniuose, į kuriuos išduoti leidimai naudoti žvejybos plotą, Aplinkos ministerijos nustatyta tvarka žuvų išteklius saugo ir atkuria žvejybos ploto naudotojai. Privačiuose žuvininkystės vandens telkiniuose žuvų išteklius saugo ir atkuria vandens telkinių savininkai.
+ 
+
+
+
+
+
+
+13 straipsnis. Asmenų, užsiimančių mėgėjų žvejyba, teisės ir pareigos
+
+
+1. Asmenys, užsiimantys mėgėjų žvejyba, turi teisę:
+
+
+1) žvejoti vidaus vandenyse Aplinkos ministerijos nustatyta tvarka, žvejoti jūrų vandenyse Žemės ūkio ministerijos nustatyta tvarka;
+
+
+
+
+2) nekliudomi patekti į žuvininkystės vandens telkinių pakrantės apsaugos juostos teritoriją ir joje būti.
+
+
+
+
+
+
+2. Asmenys, užsiimantys mėgėjų žvejyba, privalo:
+
+
+1) racionaliai naudoti žuvų išteklius ir juos saugoti;
+
+
+
+
+2) paaiškėjus, kad naudojamiems žuvų ištekliams gresia pavojus, imtis priemonių, kad būtų jo išvengta, o atsiradus žalingiems padariniams, nedelsdami juos šalinti ir apie tai pranešti Aplinkos ministerijai, žuvininkystės vandens telkinių savininkams ar žvejybos plotų naudotojams;
+
+
+
+
+3) neteršti vandens telkinių ir jų pakrančių;
+
+
+
+
+4) atlyginti savo neteisėtais veiksmais žuvų ištekliams padarytą žalą;
+
+
+
+
+5) vykdyti teisėtus valstybės institucijų ir pareigūnų reikalavimus.
+ 
+
+
+
+
+
+
+
+
+
+
+PenkTASIS SKIRSNIS
 BAIGIAMOSIOS NUOSTATOS
  
 
 
-13 straipsnis. Atsakomybė už įstatymo pažeidimus 
+14 straipsnis. Atsakomybė už įstatymo pažeidimus
 
 
 Juridiniai ir fiziniai asmenys, pažeidę šio įstatymo reikalavimus, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
  
-
-
-
-
-
-
-14 straipsnis. Įstatymo įgyvendinimas 
-
-
-1. Vyriausybė parengia šiam įstatymui įgyvendinti reikalingus teisės aktus. 
-
-
-
-
-2. Žuvų išteklių naudotojai, sudarę vandens telkinių nuomos mėgėjiškai žūklei sutartis, be leidimo naudoti žūklės plotą gali žvejoti ne ilgiau kaip iki 2005 m. sausio 1 d. Tokiems žuvų išteklių naudotojams telkinio valdytojo sprendimu be aukciono išduodant leidimus naudoti žūklės plotus nustatomos tos pačios sąlygos, kurios jiems buvo nustatytos vandens telkinių nuomos mėgėjiškai žūklei sutartyse. 
- 
-
-
-
-
-
-
-15 straipsnis. Įstatymo įsigaliojimas
-
-
-Šis įstatymas, išskyrus 14 straipsnio nuostatas, įsigalioja nuo 2004 m. gruodžio 1 d.
 
 
 
@@ -721,6 +835,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
  
  
+ 
 Pakeitimai:
  
 1.
@@ -732,3 +847,13 @@ Lietuvos Respublikos mėgėjiškos žūklės įstatymo 4 straipsnio pakeitimo į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1841, 2011-12-21, Žin., 2011, Nr. 164-7796 (2011-12-31), i. k. 1111010ISTA0XI-1841
 Lietuvos Respublikos mėgėjiškos žūklės įstatymo 2, 9 ir 10 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2211, 2012-09-11, Žin., 2012, Nr. 108-5463 (2012-09-19), i. k. 1121010ISTA0XI-2211
+Lietuvos Respublikos mėgėjiškos žūklės įstatymo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-28, 2012-12-04, Žin., 2012, Nr. 143-7379 (2012-12-11), i. k. 1121010ISTA00XII-28
+Lietuvos Respublikos mėgėjiškos žūklės įstatymo pakeitimo įstatymo 1 ir 4 straipsnių pakeitimo įstatymas
