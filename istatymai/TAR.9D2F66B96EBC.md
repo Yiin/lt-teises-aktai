@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2012-07-12 iki 2012-12-20
+Suvestinė redakcija nuo 2012-12-21 iki 2012-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
  
@@ -774,6 +774,14 @@ Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA
 
 
 
+4. Lietuvos Respublikos oro erdvė, nepažeidžiant šio straipsnio 1 dalies nuostatų, gali būti funkcinio oro erdvės bloko dalimi, kaip tai numatyta 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 550/2004 dėl oro navigacijos paslaugų teikimo bendrame Europos danguje (Paslaugų teikimo reglamentas) su paskutiniais pakeitimais, padarytais 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1070/2009. 
+Papildyta straipsnio dalimi:
+Nr. XII-50, 2012-12-13, Žin., 2012, Nr. 151-7721 (2012-12-21), i. k. 1121010ISTA00XII-50
+ 
+
+
+
+
 
 
 14 straipsnis. Oro erdvės tvarkyba ir skrydžių taisyklės
@@ -810,7 +818,10 @@ Nr. X-1117, 2007-05-10, Žin., 2007, Nr. 59-2279 (2007-05-29), i. k. 1071010ISTA
 
 
 
-2. Oro navigacijos paslaugų teikėjai, norintys gauti oro navigacijos paslaugų arba atskiros rūšies oro navigacijos paslaugos teikėjo pažymėjimą, turi atitikti 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 549/2004, nustatančio bendro Europos dangaus sukūrimo pagrindą (Pagrindų reglamentas), 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 550/2004 dėl oro navigacijos paslaugų teikimo bendrame Europos danguje (Paslaugų teikimo reglamentas), 2005 m. gruodžio 20 d. Europos Komisijos reglamento (EB) Nr. 2096/2005, nustatančio bendruosius oro navigacijos paslaugų teikimo reikalavimus, įgyvendinimo taisyklių, kurias Europos Komisija priima įgyvendindama Pagrindų reglamento 3 straipsnyje nurodytas priemones, taip pat kitų teisės aktų reikalavimus.
+2. Oro navigacijos paslaugų teikėjai, norintys gauti oro navigacijos paslaugų arba atskiros rūšies oro navigacijos paslaugos teikėjo pažymėjimą, turi atitikti 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 549/2004, nustatančio bendro Europos dangaus sukūrimo pagrindą (Pagrindų reglamentas), su paskutiniais pakeitimais, padarytais 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1070/2009, 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 550/2004 dėl oro navigacijos paslaugų teikimo bendrame Europos danguje (Paslaugų teikimo reglamentas) su paskutiniais pakeitimais, padarytais 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1070/2009, 2005 m. gruodžio 20 d. Europos Komisijos reglamento (EB) Nr. 2096/2005, nustatančio bendruosius oro navigacijos paslaugų teikimo reikalavimus, įgyvendinimo taisyklių, kurias Europos Komisija priima įgyvendindama Pagrindų reglamento 3 straipsnyje nurodytas priemones, taip pat kitų teisės aktų reikalavimus. 
+Straipsnio dalies pakeitimai:
+Nr. XII-50, 2012-12-13, Žin., 2012, Nr. 151-7721 (2012-12-21), i. k. 1121010ISTA00XII-50
+ 
 
 
 
@@ -2568,12 +2579,18 @@ Nr. X-1541, 2008-05-15, Žin., 2008, Nr. 63-2379 (2008-06-03), i. k. 1081010ISTA
 
 
 
-8. 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 549/2004, nustatantis bendro Europos dangaus sukūrimo pagrindą (Pagrindų reglamentas) (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 23).
+8. 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 549/2004, nustatantis bendro Europos dangaus sukūrimo pagrindą (Pagrindų reglamentas) (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 23), su paskutiniais pakeitimais, padarytais 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1070/2009 (OL 2009 L 300, p. 34). 
+Punkto pakeitimai:
+Nr. XII-50, 2012-12-13, Žin., 2012, Nr. 151-7721 (2012-12-21), i. k. 1121010ISTA00XII-50
+ 
 
 
 
 
-9. 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 550/2004 dėl oro navigacijos paslaugų teikimo bendrame Europos danguje (Paslaugų teikimo reglamentas) (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 31).
+9. 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 550/2004 dėl oro navigacijos paslaugų teikimo bendrame Europos danguje (Paslaugų teikimo reglamentas) (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 31) su paskutiniais pakeitimais, padarytais 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1070/2009 (OL 2009 L 300, p. 34). 
+Punkto pakeitimai:
+Nr. XII-50, 2012-12-13, Žin., 2012, Nr. 151-7721 (2012-12-21), i. k. 1121010ISTA00XII-50
+ 
 
 
 
@@ -2697,3 +2714,8 @@ Lietuvos Respublikos aviacijos įstatymo 2, 10 straipsnių pakeitimo ir papildym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2186, 2012-06-29, Žin., 2012, Nr. 81-4225 (2012-07-12), i. k. 1121010ISTA0XI-2186
 Lietuvos Respublikos aviacijos įstatymo 7 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-50, 2012-12-13, Žin., 2012, Nr. 151-7721 (2012-12-21), i. k. 1121010ISTA00XII-50
+Lietuvos Respublikos aviacijos įstatymo 13, 14-1 straipsnių ir priedo pakeitimo ir papildymo įstatymas
