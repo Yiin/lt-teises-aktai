@@ -21,6 +21,10 @@ LIETUVOS RESPUBLIKOS CIVILINIO PROCESO KODEKSO PAKEITIMO IR PAPILDYMO
 
 
 
+Suvestinė redakcija nuo 2012-12-29 iki 2018-12-13
+ 
+Įstatymas paskelbtas: Žin. 2011, Nr. 85-4126, i. k. 1111010ISTA0XI-1480
+ 
  
 LIETUVOS RESPUBLIKOS 
 CIVILINIO PROCESO KODEKSO PAKEITIMO IR PAPILDYMO 
@@ -4620,7 +4624,7 @@ INFORMACINIŲ IR ELEKTRONINIŲ RYŠIŲ TECHNOLOGIJŲ NAUDOJIMAS TEISMO PROCESE
 
 
 
-6. Kai procesinis dokumentas teismui teikiamas elektroninių ryšių priemonėmis, asmens tapatybė patvirtinama Teismų įstatymo nustatyta tvarka.
+6. Elektroninės formos procesiniai dokumentai, pateikti teismui elektroninių ryšių priemonėmis asmens tapatybę patvirtinus Teismų įstatyme nustatytais būdais, atitinka šio Kodekso 111 straipsnyje nustatytą reikalavimą, kad procesinis dokumentas turi būti pasirašytas.
 
 
 
@@ -4641,9 +4645,11 @@ INFORMACINIŲ IR ELEKTRONINIŲ RYŠIŲ TECHNOLOGIJŲ NAUDOJIMAS TEISMO PROCESE
 
 
 10. Šio Kodekso nustatytais atvejais ir tvarka įteikiant dalyvaujančiam byloje asmeniui procesinį dokumentą elektroninių ryšių priemonėmis, procesinio dokumento įteikimo dalyvaujančiam byloje asmeniui diena laikoma po procesinio dokumento išsiuntimo dienos einanti darbo diena.
+
+
+Straipsnio pakeitimai:
+Nr. XII-72, 2012-12-20, Žin., 2012, Nr. 153-7824 (2012-12-29), i. k. 1121010ISTA00XII-72
  
-
-
 
 
 
@@ -13844,7 +13850,7 @@ Prašymai dėl leidimo vykdyti užsienio teismų (arbitražų) sprendimus nagrin
 
 
 
-2. Šio įstatymo 115 straipsnis, 117 straipsnyje išdėstyti Lietuvos Respublikos civilinio proceso kodekso XII skyriaus ketvirtojo skirsnio pavadinimas ir 1751 straipsnis, 234, 237, 297 straipsniai, 331 straipsnio 2 dalis, 334, 336, 337, 338, 339, 340, 342, 343, 344, 352 ir 385 straipsniai įsigalioja 2013 m. sausio 1 d.
+2. Šio įstatymo 331 straipsnio 2 dalis, 334, 336, 337, 338, 339, 340, 342, 343, 344 ir 352 straipsniai įsigalioja 2013 m. sausio 1 d.
 
 
 
@@ -13854,15 +13860,27 @@ Prašymai dėl leidimo vykdyti užsienio teismų (arbitražų) sprendimus nagrin
 
 
 
-4. Šio įstatymo 37, 39 straipsniai, 51 straipsnio 2 dalis, 125 straipsnio 3 dalis, 278, 279, 294 straipsniai, 303 straipsnio 1 dalis, 320, 324, 368, 369 ir 370 straipsniai įsigalioja 2011 m. lapkričio 1 d.
+4. Šio įstatymo 117 straipsnyje išdėstyti Lietuvos Respublikos civilinio proceso kodekso XII skyriaus ketvirtojo skirsnio pavadinimas ir 1751 straipsnis, 234, 237, 297 ir 385 straipsniai įsigalioja 2013 m. liepos 1 d.
 
 
 
 
-5. Šio įstatymo 330 straipsnis įsigalioja 2012 m. liepos 1 d.
+5. Šio įstatymo 115 straipsnis įsigalioja 2014 m. sausio 1 d.
+
+
+
+
+6. Šio įstatymo 37, 39 straipsniai, 51 straipsnio 2 dalis, 125 straipsnio 3 dalis, 278, 279, 294 straipsniai, 303 straipsnio 1 dalis, 320, 324, 368, 369 ir 370 straipsniai įsigalioja 2011 m. lapkričio 1 d.
+
+
+
+
+7. Šio įstatymo 330 straipsnis įsigalioja 2012 m. liepos 1 d.
+
+
+Straipsnio pakeitimai:
+Nr. XII-72, 2012-12-20, Žin., 2012, Nr. 153-7824 (2012-12-29), i. k. 1121010ISTA00XII-72
  
-
-
 
 
 
@@ -13883,3 +13901,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-72, 2012-12-20, Žin., 2012, Nr. 153-7824 (2012-12-29), i. k. 1121010ISTA00XII-72
+Lietuvos Respublikos civilinio proceso kodekso pakeitimo ir papildymo įstatymo 117 ir 387 straipsnių pakeitimo įstatymas
