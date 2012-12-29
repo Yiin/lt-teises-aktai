@@ -61,10 +61,15 @@ Konsulinis mokestis imamas už:
 dokumentus priėmimą ir svarstymą, sprendimų dėl vizos ar joms prilyginto
 dokumento išdavimo ar atsisakymo išduoti priėmimą (toliau – už prašymų išduoti
 vizas nagrinėjimą);
-3) asmens be pilietybės kelionės dokumento galiojimo
-laiko pratęsimą; 
+3) (neteko galios nuo 2012-12-29);
 4) dokumentų dėl Lietuvos Respublikos pilietybės ir
 dėl teisės į Lietuvos Respublikos pilietybę išsaugojimo priėmimą ir perdavimą;
+4 punkto redakcija
+nuo2013-01-01:
+4) dokumentų dėl Lietuvos Respublikos pilietybės ir
+dėl lietuvių kilmę ar teisę atkurti Lietuvos Respublikos pilietybę
+patvirtinančių dokumentų išdavimo priėmimą ir perdavimą;
+ 
 5) paso išdavimą, keitimą arba dokumentų dėl paso
 išdavimo ir keitimo priėmimą ir perdavimą;
 6) dokumentų dėl leidimo gyventi Lietuvos Respublikoje
@@ -86,18 +91,19 @@ sąskaitomis pervedimą, jei to reikia konsulinei pagalbai suteikti ir
 nukentėjusiam asmeniui dėl svarbių priežasčių negalima pervesti pinigų kitais
 būdais.
 Straipsnio pakeitimas:
-Nr. XI-468,
-2009-11-12, Žin., 2009, Nr. 141-6191 (2009-11-28)
+Nr. XI-468, 2009-11-12,
+Žin., 2009, Nr. 141-6191 (2009-11-28)
+Nr. XII-76,
+2012-12-20, Žin., 2012, Nr. 154-7924 (2012-12-29)
  
 4 straipsnis. Mokesčio dydis
 1. Konsulinis mokestis yra ne mažesnis kaip 2 eurai ir ne didesnis kaip
 500 eurų. Jis apskaičiuojamas atsižvelgiant į:
 1) išlaidas,
 kurias patiria Lietuvos Respublikos valstybės ir savivaldybių institucijos ar
-įstaigos vykdydamos konsulinių įstaigų prašymus dėl su konsulinių veiksmų atlikimu susijusių paslaugų
-teikimo;
-2) išlaidas darbui, susijusiam su konsulinių
-įstaigų atliekamais konsuliniais veiksmais, apmokėti;
+įstaigos vykdydamos konsulinių įstaigų prašymus dėl su konsulinių veiksmų atlikimu susijusių paslaugų teikimo;
+2) išlaidas darbui, susijusiam su
+konsulinių įstaigų atliekamais konsuliniais veiksmais, apmokėti;
 3) Europos Sąjungos teisės aktų
 reikalavimus;
 4) išlaidas teisės aktų nustatytų
@@ -181,29 +187,28 @@ pateikusiems tai patvirtinančius dokumentus arba Lietuvos Respublikos užsienio
 reikalų ministro patvirtinta tvarka konsulinės įstaigos išduotą lietuvių kilmę
 patvirtinantį pažymėjimą, nagrinėjimą;
 12) prašymų išduoti vizas asmenims, išsaugojusiems
-teisę į Lietuvos Respublikos pilietybę, pateikusiems tai patvirtinančius
-dokumentus, nagrinėjimą;
+teisę į Lietuvos Respublikos pilietybę, pateikusiems tai patvirtinančius dokumentus,
+nagrinėjimą;
 13) prašymų išduoti vizas nagrinėjimą konsulinės
 įstaigos vadovo, kai jis veikia kaip konsulinis pareigūnas, sprendimu
 išimtiniais, kitais, negu numatyta šio straipsnio 8–12 punktuose, atvejais, kai
-užsieniečiai atvyksta į Lietuvos Respubliką kultūros, užsienio politikos, vystomojo
-bendradarbiavimo skatinimo ar kitais visuomenei svarbiais tikslais arba dėl
-humanitarinių priežasčių;
+užsieniečiai atvyksta į Lietuvos Respubliką kultūros, užsienio politikos,
+vystomojo bendradarbiavimo skatinimo ar kitais visuomenei svarbiais tikslais
+arba dėl humanitarinių priežasčių;
 14) prašymų išduoti (D) vizas užsieniečiams, dėl kurių
 priimtas sprendimas išduoti leidimą gyventi Lietuvos Respublikoje, nagrinėjimą
 konsulinėse įstaigose;
 15) prašymų išduoti supaprastinto tranzito
-geležinkeliu dokumentą, numatytą 
-2003 m. balandžio 14 d. Tarybos reglamente (EB) Nr. 693/2003, nustatančiame
-specialų supaprastinto tranzito dokumentą (STD), supaprastinto tranzito
-geležinkeliu dokumentą (STGD) ir iš dalies pakeičiančiame Bendrąją konsulinę
-instrukciją ir Bendrąjį vadovą, nagrinėjimą;
+geležinkeliu dokumentą, numatytą 2003 m. balandžio 14 d. Tarybos reglamente
+(EB) Nr. 693/2003, nustatančiame specialų supaprastinto tranzito dokumentą
+(STD), supaprastinto tranzito geležinkeliu dokumentą (STGD) ir iš dalies
+pakeičiančiame Bendrąją konsulinę instrukciją ir Bendrąjį vadovą, nagrinėjimą;
 16) dokumentų dėl leidimo gyventi Lietuvos
 Respublikoje išdavimo priėmimą ir perdavimą vaikams iki 16 metų;
-17) dokumentų dėl leidimo gyventi Lietuvos Respublikoje
-išdavimo priėmimą ir perdavimą lietuvių kilmės asmenims ir asmenims,
-išsaugojusiems teisę į Lietuvos Respublikos pilietybę, pateikusiems tai
-patvirtinančius dokumentus (tarp jų ir šios dalies 11 punkte nurodytą
+17) dokumentų dėl leidimo gyventi Lietuvos
+Respublikoje išdavimo priėmimą ir perdavimą lietuvių kilmės asmenims ir
+asmenims, išsaugojusiems teisę į Lietuvos Respublikos pilietybę, pateikusiems
+tai patvirtinančius dokumentus (tarp jų ir šios dalies 11 punkte nurodytą
 dokumentą), ir kartu gyventi į Lietuvos Respubliką atvykstantiems šių asmenų
 šeimos nariams;
 18) mirties įregistravimą ir mirties liudijimo
@@ -293,6 +298,7 @@ Konsulinis mokestis įskaitomas į valstybės biudžetą.
 šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
+ 
 RESPUBLIKOS
 PREZIDENTAS                                  ALGIRDAS BRAZAUSKAS 
  
@@ -313,8 +319,8 @@ skyrius, 6 tomas, p. 138).
 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir
 gyventi valstybių narių teritorijoje, iš dalies keičianti Reglamentą Nr.
 1612/68/EEB ir naikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB,
-73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB (OL 2004
-m. specialusis leidimas, 5 skyrius, 5 tomas, p. 46).
+73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB (OL 2004 m.
+specialusis leidimas, 5 skyrius, 5 tomas, p. 46).
 3. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos
 reglamentas (EB) 
 Nr. 810/2009, nustatantis Bendrijos vizų kodeksą (Vizų kodeksas) (OL 2009 L 243, p. 1).
@@ -322,7 +328,6 @@ Priedo pakeitimas:
 Nr. XI-773,
 2010-04-20, Žin., 2010, Nr. 51-2482 (2010-05-04)
  
-_______________
  
 Pakeitimai:
  
@@ -355,8 +360,8 @@ MOKESČIO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 4.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-1482,
-2003-04-03, Žin., 2003, Nr. 38-1727 (2003-04-24)
+Nr. IX-1482, 2003-04-03,
+Žin., 2003, Nr. 38-1727 (2003-04-24)
 KONSULINIO
 MOKESČIO ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis Įstatymas įsigalioja kartu su
@@ -436,9 +441,21 @@ Nr. XI-1461,
 KONSULINIO
 MOKESČIO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+12.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. XII-76,
+2012-12-20, Žin., 2012, Nr. 154-7924 (2012-12-29)
+KONSULINIO MOKESČIO ĮSTATYMO 3
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šio įstatymo 1 straipsnio 2 dalis
+įsigalioja 2013 m. sausio 1 d.
+ 
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2011-06-30)
-                  ausrine.trapinskiene@lrs.lt
+(2013-01-03)
+                 
+ausrine.trapinskiene@lrs.lt
