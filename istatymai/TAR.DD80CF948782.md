@@ -19,12 +19,15 @@ Neoficialus įstatymo tekstas
 LIETUVOS RESPUBLIKOS
 VISUOMENĖS SVEIKATOS PRIEŽIŪROS
 ĮSTATYMAS
+ 
 2002 m. gegužės 16 d. Nr. IX-886
 Vilnius
 
 
 
 
+ 
+ 
  
 I skyrius
 BENDRosios NUOSTATOS
@@ -118,8 +121,8 @@ Svarbiausi
 visuomenės sveikatos priežiūros principai, kuriais vadovaujantis atliekama
 visuomenės sveikatos priežiūra, yra šie:
 1) visuomenės
-sveikatos priežiūros visuotinumas, priimtinumas, tinkamumas, prieinamumas ir
-mokslinis pagrįstumas;
+sveikatos priežiūros visuotinumas, priimtinumas, tinkamumas, prieinamumas ir mokslinis
+pagrįstumas;
 2)
 neatidėliotinas ir visapusiškas visuomenės informavimas, švietimas visuomenės
 sveikatos klausimais;
@@ -198,64 +201,31 @@ Nr. XI-792, 2010-04-29,
 6 straipsnis.
 Savivaldybės vykdoma visuomenės sveikatos priežiūra
 1. Savivaldybės:
-1) vykdo visuomenės
-sveikatos stebėseną (monitoringą), siekdamos gauti išsamią informaciją apie
-savivaldybės visuomenės sveikatos būklę, sveikatos rizikos veiksnius ir ja
-remdamosi planuoti bei įgyvendinti savivaldybės visuomenės sveikatos stiprinimo
-priemones;
-2) organizuoja
-visuomenės sveikatos stiprinimą bendruomenėje, įtraukia į šią veiklą
-bendruomenę ir socialinius partnerius;
-3)
-atsižvelgdamos į vyraujančias visuomenės sveikatos problemas, pagal
-kompetenciją rengia, tvirtina ir įgyvendina tikslines savivaldybių sveikatos
-programas, sveikatinimo veiklos teisės aktus ir sveikatinimo veiklos sutartis,
-dalyvauja įgyvendinant valstybines visuomenės sveikatos strategijas ir
-programas;
-4) vykdo vaikų
-ir jaunimo visuomenės sveikatos priežiūrą, koordinuoja visuomenės sveikatos
-priežiūros specialistų, dirbančių bendrojo lavinimo mokyklose, sveikatos
-specialistų, dirbančių ikimokyklinio ugdymo įstaigose, veiklą, organizuoja ir
-koordinuoja studentų sveikatinimo priemones;
-5) pagal
-kompetenciją organizuoja alkoholio, tabako ir psichoaktyvių medžiagų vartojimo
-profilaktiką;
-6) pagal
-kompetenciją organizuoja lėtinių neinfekcinių ligų, nelaimingų atsitikimų ir
-traumų profilaktiką;
-7) pagal
-kompetenciją organizuoja užkrečiamųjų ligų profilaktiką;
-8) pagal
-kompetenciją organizuoja jonizuojančiosios ir nejonizuojančiosios spinduliuotės
-poveikio visuomenės sveikatai profilaktiką;
-9) pagal
-kompetenciją dalyvauja vykdant psichikos sveikatos stiprinimo veiklą ir
-susirgimų profilaktiką;
-10) pagal
-kompetenciją vykdo sanitarinių apsaugos zonų įgyvendinimo priežiūrą;
-11) atlieka
-savivaldybės institucijų sprendimų projektų poveikio visuomenės sveikatai
-vertinimą;
-12) vykdo kitas įstatymų
-nustatytas visuomenės sveikatos priežiūros funkcijas.
- 
-Nuo
-2012-07-01 6 straipsnio 1 dalis papildyta nauju 12 punktu; buvusi 12 dalis
-laikoma 13 dalimi
-12) skelbia
-savivaldybės interneto svetainėje ir, jeigu įmanoma, kitokiu būdu padaro
-savivaldybės teritorijoje viešai prieinamą informaciją apie savivaldybės
-teritorijoje padarytus teisės aktų pažeidimus, susijusius su žmogaus
-gyvenamosios aplinkos tarša;
-13) vykdo kitas įstatymų
-nustatytas visuomenės sveikatos priežiūros funkcijas.
- 
+1) vykdo valstybines
+(valstybės perduotas savivaldybėms) visuomenės sveikatos priežiūros funkcijas:
+visuomenės sveikatos priežiūrą savivaldybės teritorijoje esančiose
+ikimokyklinio ugdymo, bendrojo ugdymo mokyklose ir profesinio mokymo įstaigose
+ugdomų mokinių pagal ikimokyklinio, priešmokyklinio, pradinio, pagrindinio ir
+vidurinio ugdymo programas, visuomenės sveikatos stiprinimą, visuomenės
+sveikatos stebėseną;
+2) vykdo
+savarankiškąsias visuomenės sveikatos priežiūros funkcijas: rengia, tvirtina ir
+įgyvendina tikslines savivaldybių sveikatos programas, atsižvelgdamos į
+vyraujančias visuomenės sveikatos problemas; dalyvauja įgyvendinant valstybines
+visuomenės sveikatos strategijas ir programas, tarpinstitucinius veiklos
+planus; vykdo vaikų ir jaunimo visuomenės sveikatos priežiūrą, išskyrus
+visuomenės sveikatos priežiūrą savivaldybės teritorijoje esančiose
+ikimokyklinio ugdymo, bendrojo ugdymo mokyklose ir profesinio mokymo įstaigose
+ugdomų mokinių pagal ikimokyklinio, priešmokyklinio, pradinio, pagrindinio ir
+vidurinio ugdymo programas; įtraukia į visuomenės sveikatos stiprinimo veiklą
+socialinius partnerius; vykdo kitas įstatymų nustatytas visuomenės sveikatos
+priežiūros funkcijas.
 2. Savivaldybės visuomenės
 sveikatos priežiūros funkcijoms vykdyti steigia visuomenės sveikatos priežiūros
 biudžetines įstaigas – savivaldybių visuomenės sveikatos biurus. Savivaldybės
 visuomenės sveikatos biuras savivaldybių bendradarbiavimo sutarties pagrindu
-turi teisę teikti visuomenės sveikatos priežiūros paslaugas ir kitų
-savivaldybių gyventojams. 
+turi teisę teikti visuomenės sveikatos priežiūros paslaugas ir kitų savivaldybių
+gyventojams. 
 3. Savivaldybės visuomenės
 sveikatos biure privalomų pareigybių sąrašą ir joms keliamus kvalifikacinius
 reikalavimus nustato sveikatos apsaugos ministras.
@@ -274,6 +244,8 @@ Nr. XI-792, 2010-04-29,
 Žin., 2010, Nr. 57-2809 (2010-05-18)
 Nr. XI-1757, 2011-12-01,
 Žin., 2011, Nr. 153-7194 (2011-12-15)
+Nr. XII-132, 2012-12-20,
+Žin., 2012, Nr. 154-7938 (2012-12-29)
  
 7 straipsnis. Valstybės vykdoma
 visuomenės sveikatos priežiūra
@@ -393,21 +365,8 @@ Antrasis skirsnis
 VISUOMENĖS SVEIKATOS PRIEŽIŪROS VIEŠOJO
 ADMINISTRAVIMO SUBJEKTAI
  
-12 straipsnis. Visuomenės sveikatos
-priežiūros viešojo administravimo subjektai
-Visuomenės
-sveikatos priežiūros viešąjį administravimą pagal savo kompetenciją vykdo
-Vyriausybė, Sveikatos apsaugos ministerija, kitos ministerijos, Vyriausybės
-įstaigos, Valstybinė visuomenės sveikatos priežiūros tarnyba prie Sveikatos
-apsaugos ministerijos (toliau – Valstybinė visuomenės sveikatos priežiūros
-tarnyba), Valstybinė akreditavimo sveikatos
-priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos (toliau – Valstybinė
-akreditavimo sveikatos priežiūros veiklai tarnyba), Radiacinės saugos centras,
-kitos valstybės ir savivaldybių institucijos ir įstaigos.
 12
-straipsnio redakcija nuo 2012-07-01
-12 straipsnis. Visuomenės sveikatos
-priežiūros viešojo administravimo subjektai
+straipsnis. Visuomenės sveikatos priežiūros viešojo administravimo subjektai
 Visuomenės
 sveikatos priežiūros viešąjį administravimą pagal savo kompetenciją vykdo
 Vyriausybė, Sveikatos apsaugos ministerija, kitos ministerijos, Vyriausybės
@@ -438,111 +397,8 @@ Straipsnio pakeitimai:
 Nr. X-1150,
 2007-05-24, Žin., 2007, Nr. 64-2455 (2007-06-09)
  
-15 straipsnis. Valstybinės visuomenės
-sveikatos priežiūros tarnybos ir jai pavaldžių teritorinių visuomenės sveikatos
-priežiūros įstaigų kompetencija
-1. Valstybinė
-visuomenės sveikatos priežiūros tarnyba:
-1) pagal
-kompetenciją organizuoja visuomenės sveikatos priežiūros strategijos
-įgyvendinimo pagal Pasaulio sveikatos organizacijos, Europos Sąjungos, Lietuvos
-Respublikos Seimo, Vyriausybės, Sveikatos apsaugos ministerijos nustatytas
-sveikatos politikos kryptis priežiūrą;
-2) vykdo asmens
-sveikatos priežiūros, švietimo, stacionarių globos ir slaugos įstaigų,
-interneto kavinių ir klubų, keleivių vežimo traukiniais, laivais ir keltais
-vidaus maršrutais, policijos areštinių ir laisvės atėmimo vietų, juridinių
-asmenų, valstybės įmonių, savivaldybės įmonių, viešųjų įstaigų, taip pat
-užsienio valstybių juridinių asmenų ar kitų organizacijų filialų (toliau –
-įmonė), gaminančių su maistu susiliečiančius ir kosmetikos gaminius, kirpyklų,
-kosmetikos, tatuiruočių kabinetų, grožio salonų, soliariumų, baseinų,
-skalbyklų, pirčių, saunų, sporto klubų teikiamų paslaugų, apgyvendinimo
-paslaugų, žmogaus palaikų laidojimo paslaugų (žmogaus palaikų laikymo, paruošimo šarvoti, šarvojimo) teikimo
-veiklos, balzamavimo ir kremavimo veiklos valstybinę visuomenės
-sveikatos saugos kontrolę;
-3) pagal asmenų
-prašymus, pranešimus, skundus vykdo visuomenės sveikatos saugos reglamentų
-(higienos normų), kurių kontrolė nėra pavesta kitiems viešojo administravimo
-subjektams, laikymosi kontrolę (valstybinę visuomenės sveikatos saugos
-kontrolę) pagal sveikatos apsaugos ministro nustatytą kontroliuojamų sričių
-sąrašą;
-4) pagal Žmonių
-užkrečiamųjų ligų profilaktikos ir kontrolės įstatyme nustatytą kompetenciją
-vykdo užkrečiamųjų ligų profilaktiką ir kontrolę;
-5) pagal
-kompetenciją dalyvauja vykdant teritorijų planavimo ir statybų valstybinę
-priežiūrą;
-6) vykdo
-radiotechninių objektų valstybinę visuomenės sveikatos saugos kontrolę,
-sveikatos apsaugos ministro nustatyta tvarka derina ūkio subjektų pateiktus
-radiotechninės dalies projektus ir elektromagnetinės spinduliuotės stebėsenos
-planus;
-7) vykdo
-sanitarinių apsaugos zonų valstybinę visuomenės sveikatos saugos kontrolę;
-8) vykdo
-stacionarių triukšmo šaltinių veiklos valstybinę visuomenės sveikatos saugos
-kontrolę triukšmo prevencijos zonose;
-9) vykdo kvapų
-kontrolę gyvenamuosiuose ir visuomeninės paskirties pastatuose;
-10) sveikatos
-apsaugos ministro nustatyta tvarka pripažįsta į Lietuvos Respublikos rinką
-tiekiamą natūralų mineralinį vandenį ir išduoda natūralaus mineralinio vandens
-pripažinimo Lietuvos Respublikoje protokolus; už natūralaus mineralinio vandens
-pripažinimo Lietuvos Respublikoje protokolų išdavimą, šių protokolų dublikatų
-išdavimą, protokolų patikslinimą imama valstybės rinkliava, išskyrus atvejus, kai protokolas
-patikslinamas siekiant ištaisyti klaidas, padarytas išduodant protokolą;
-11) sveikatos
-apsaugos ministro nustatyta tvarka išduoda ne maisto prekių higieninius
-pažymėjimus į Lietuvos Respublikos rinką tiekiamoms medžiagoms ir gaminiams,
-skirtiems liestis su maistu, įvežamiems iš valstybių ne Europos Sąjungos narių.
-Už medžiagų ir gaminių, skirtų liestis su maistu, ne maisto prekių higieninių
-pažymėjimų išdavimą, šių pažymėjimų dublikatų išdavimą ir pažymėjimų
-patikslinimą imama valstybės rinkliava, išskyrus atvejus, kai pažymėjimas patikslinamas siekiant ištaisyti
-klaidas, padarytas išduodant pažymėjimą;
-12) sveikatos
-apsaugos ministro nustatyta tvarka notifikuoja maisto papildus ir kosmetikos
-gaminius;
-13) sveikatos
-apsaugos ministro nustatyta tvarka išduoda nuodingąsias medžiagas gaminančių,
-tiekiančių rinkai, įsigyjančių, laikančių, naudojančių, taip pat jomis
-prekiaujančių asmenų kompetenciją patvirtinančius liudijimus; už nuodingąsias
-medžiagas gaminančių, tiekiančių rinkai, įsigyjančių, laikančių, naudojančių,
-taip pat jomis prekiaujančių asmenų kompetenciją patvirtinančių liudijimų
-išdavimą, šių liudijimų dublikatų išdavimą ir liudijimų patikslinimą imama
-valstybės rinkliava, išskyrus
-atvejus, kai liudijimas patikslinamas siekiant ištaisyti klaidas, padarytas
-išduodant liudijimą;
-14) atlieka
-kitas visuomenės sveikatos priežiūros viešojo administravimo funkcijas, kurias
-reglamentuoja šis ir kiti įstatymai bei teisės aktai.
-2. Šio
-straipsnio 1 dalies 4, 5 punktuose nurodytų Valstybinės visuomenės sveikatos
-priežiūros tarnybos funkcijų atlikimo tvarką nustato sveikatos apsaugos
-ministras, jeigu Lietuvos Respublikos įstatymų ir kitų teisės aktų nenustatyta
-kitaip.
-3. Valstybinei
-visuomenės sveikatos priežiūros tarnybai pavaldžios teritorinės visuomenės
-sveikatos priežiūros įstaigos:
-1) vykdo šio
-straipsnio 1 dalies 2–9 punktuose nustatytas funkcijas;
-2) šio Įstatymo
-21 straipsnio 3 dalyje nurodytiems asmenims išduoda leidimus-higienos pasus,
-vykdo jų sąlygų laikymosi priežiūrą;
-3) sveikatos
-apsaugos ministro nustatyta tvarka išduoda atleidimo nuo laivo higieninių
-sąlygų kontrolės pažymėjimus ir laivo higieninių sąlygų kontrolės pažymėjimus.
-Už atleidimo nuo laivo higieninių sąlygų kontrolės pažymėjimų ir laivo
-higieninių sąlygų kontrolės pažymėjimų išdavimą imama valstybės rinkliava;
-4) atlieka kitas
-visuomenės sveikatos priežiūros viešojo administravimo funkcijas, kurias
-reglamentuoja šis ir kiti įstatymai bei teisės aktai.
-4. Valstybinei
-visuomenės sveikatos priežiūros tarnybai pavaldžių teritorinių visuomenės
-sveikatos priežiūros įstaigų nuostatus ir struktūrą tvirtina Valstybinė
-visuomenės sveikatos priežiūros tarnyba.
-15
-straipsnio redakcija nuo 2012-07-01
-15 straipsnis. Visuomenės sveikatos centrų apskrityse kompetencija
+15 straipsnis. Visuomenės
+sveikatos centrų apskrityse kompetencija
 Visuomenės
 sveikatos centrai apskrityse:
 1) vykdo asmens
@@ -600,8 +456,7 @@ pažymėjimų išdavimą, šių pažymėjimų dublikatų išdavimą ir pažymėj
 patikslinimą imama valstybės rinkliava, išskyrus atvejus, kai pažymėjimas patikslinamas siekiant ištaisyti
 klaidas, padarytas išduodant pažymėjimą;
 12) sveikatos
-apsaugos ministro nustatyta tvarka notifikuoja maisto papildus ir kosmetikos
-gaminius;
+apsaugos ministro nustatyta tvarka notifikuoja maisto papildus ir kosmetikos gaminius;
 13) sveikatos
 apsaugos ministro nustatyta tvarka išduoda nuodingąsias medžiagas gaminančių,
 tiekiančių rinkai, įsigyjančių, laikančių, naudojančių, taip pat jomis
@@ -628,8 +483,6 @@ Nr. XI-792,
 Nr. XI-1757,
 2011-12-01, Žin., 2011, Nr. 153-7194 (2011-12-15)
  
-Papildyta
-151 straipsniu nuo 2012-07-01
 151
 straipsnis. Visuomenės sveikatos priežiūrą reglamentuojančių teisės aktų 
 aiškinimas ir
@@ -682,8 +535,8 @@ SVEIKATos APLINKa
  
 18
 straipsnis. Sveikatos aplinkos sauga
-1. Sveikatos aplinka
-saugoma šiomis priemonėmis:
+1. Sveikatos
+aplinka saugoma šiomis priemonėmis:
 1) gerinama
 aplinka, kad ji būtų palanki žmonių sveikatai, mažinamas žmogaus veiklos
 neigiamas poveikis sveikatai, pašalinama aplinkai žmogaus veikla padaryta žala;
@@ -703,8 +556,7 @@ sveikatai, atliekamas poveikio visuomenės sveikatai vertinimas.
 savivaldybių institucijos, priimdamos sprendimus, tvirtindamos programas, turi
 įgyvendinti šio straipsnio 1 dalyje numatytas priemones.
  
-19 straipsnis. Sveikos mitybos
-užtikrinimas
+19 straipsnis. Sveikos mitybos užtikrinimas
 1. Sveikos mitybos užtikrinimo priemonės:
 1) Lietuvos
 gyventojų mitybos moksliškai pagrįstų duomenų kaupimas ir sveikos mitybos
@@ -845,14 +697,11 @@ komercinės veiklos vykdymo sąlygų vertinimo;
 3) per nustatytą terminą fizinis, juridinis
 asmuo ar filialas nepateikė laboratorinių tyrimų, reikalingų ūkinės komercinės veiklos sąlygoms įvertinti,
 protokolų;
-*4) patalpų, kuriose numatoma vykdyti ūkinę
+4) patalpų, kuriose numatoma vykdyti ūkinę
 komercinę veiklą, paskirties pogrupis pagal Nekilnojamojo turto registro
 duomenis neatitinka ūkinės komercinės veiklos,
 kuriai prašoma leidimo-higienos paso. Statinių paskirties grupes ir pogrupius
 nustato aplinkos ministras.
-*Pastaba.
-21 straipsnio 7 dalies 4 punktas įsigalioja 2012 m. sausio 1 d.
- 
 8. Leidimas-higienos pasas patikslinamas
 išduodant naują leidimą-higienos pasą, jeigu pasikeičia
 leidime-higienos pase nurodyti duomenys: juridinio asmens ar filialo
@@ -1006,8 +855,8 @@ veiksnių paplitimo tyrimus. Šių tyrimų tvarką nustato Vyriausybė ar jos
 įgaliota institucija.
 5. Teritorinės
 ligonių kasos organizuoja privalomuoju sveikatos draudimu apdraustų asmenų ligų
-ir traumų pasekmių bei sveikatos priežiūros ekonominį įvertinimą. Šio darbo
-turinį ir tvarką nustato Vyriausybė ar jos įgaliota institucija.
+ir traumų pasekmių bei sveikatos priežiūros ekonominį įvertinimą. Šio darbo turinį
+ir tvarką nustato Vyriausybė ar jos įgaliota institucija.
  
 27 straipsnis. Neinfekcinių ligų
 kontrolės ir profilaktikos valdymas
@@ -1058,8 +907,7 @@ informacija apie apsinuodijimus ir nelaimingus atsitikimus buityje, kurių metu
 nukentėjo ir (ar) žuvo žmonės.
 3. Vartotojų
 apsinuodijimų ir nelaimingų atsitikimų informacinę sistemą sudaro sveikatos
-priežiūros įstaigų, gelbėjimo tarnybų bei kitų institucijų teikiama
-informacija.
+priežiūros įstaigų, gelbėjimo tarnybų bei kitų institucijų teikiama informacija.
  
 31 straipsnis. Produktų sauga
 Saugūs produktai
@@ -1121,9 +969,9 @@ išklausyti privalomojo sveikatos mokymo kursą, darbdavys jį nušalina nuo dar
 arba, esant galimybei, toje pačioje darbovietėje perkelia į kitą darbą, kuriame
 nereikia privalomojo sveikatos mokymo žinių.
 6. Asmenų, kurie
-dėl savo darbo ar kitos veiklos pobūdžio privalo įgyti pirmosios medicinos pagalbos
-teikimo žinių ir įgūdžių, profesijų ir veiklos sričių sąrašą bei mokymo tvarką
-nustato Vyriausybė ar jos įgaliota institucija. 
+dėl savo darbo ar kitos veiklos pobūdžio privalo įgyti pirmosios medicinos
+pagalbos teikimo žinių ir įgūdžių, profesijų ir veiklos sričių sąrašą bei
+mokymo tvarką nustato Vyriausybė ar jos įgaliota institucija. 
 7. Netenka galios
 nuo 2010 m. liepos 1 d.
 Straipsnio pakeitimai:
@@ -1146,21 +994,20 @@ stiprinimas
 1. Ikimokyklinio
 ugdymo mokyklose ir bendrojo lavinimo mokyklose turi būti sudarytos sąlygos
 vaikų sveikatai išsaugoti ir stiprinti, vaikų sveikatos priežiūrai užtikrinti.
-2. Vaikų
-sveikatos sauga įgyvendinama:
+2. Vaikų sveikatos
+sauga įgyvendinama:
 1) užtikrinant
 įstatymų ir kitų teisės aktų nustatytas vaikų ugdymo, mokymosi, mitybos, kūno
 kultūros ir sporto, poilsio, medicinos bei psichologinės pagalbos teikimo
-sąlygas ugdymo įstaigose ir vaikų apsaugą nuo fizinę bei psichinę sveikatą žalojančio
-poveikio;
+sąlygas ugdymo įstaigose ir vaikų apsaugą nuo fizinę bei psichinę sveikatą
+žalojančio poveikio;
 2) užtikrinant
 visiems vaikams tinkamą sveikatos priežiūrą;
 3) didinant visų
 vaikų imunitetą užkrečiamosioms ligoms, nuo kurių skiepijama.
 3. Vyriausybė
-tvirtina Vaikų sveikatos stiprinimo programą, numatančią vaikų aplinkos
-sveikatinimo priemones, sveikatos ugdymą, ligų ir traumų profilaktiką bei
-kontrolę.
+tvirtina Vaikų sveikatos stiprinimo programą, numatančią vaikų aplinkos sveikatinimo
+priemones, sveikatos ugdymą, ligų ir traumų profilaktiką bei kontrolę.
 Straipsnio pakeitimai:
 Nr. X-1150, 2007-05-24, Žin., 2007, Nr.
 64-2455 (2007-06-09)
@@ -1198,9 +1045,9 @@ Nr. X-1150, 2007-05-24, Žin., 2007, Nr.
  
 39 straipsnis. Visuomenės
 sveikatos saugos ekspertizė
-1. Visuomenės sveikatos saugos ekspertizė
-atliekama nustatant, apibūdinant ir įvertinant fizikinių, cheminių, biologinių,
-mutageninių, teratogeninių, psichosocialinių, ergonominių ir kitų veiksnių
+1. Visuomenės sveikatos saugos
+ekspertizė atliekama nustatant, apibūdinant ir įvertinant fizikinių, cheminių,
+biologinių, mutageninių, teratogeninių, psichosocialinių, ergonominių ir kitų veiksnių
 galimą ir (ar) esamą įtaką visuomenės sveikatai ir parengiant išvadas bei
 pasiūlymus, kaip užkirsti kelią neigiamam poveikiui ar jį riboti.
 2. Visuomenės
@@ -1249,29 +1096,6 @@ tvarka.
 Valstybinė visuomenės sveikatos saugos kontrolė vykdoma sveikatos
 apsaugos ministro patvirtinto Tiesioginės valstybinės visuomenės sveikatos
 saugos kontrolės reglamento nustatyta tvarka.
- 
-6. Vykdydami
-valstybinę visuomenės sveikatos saugos kontrolę šio Įstatymo 15 straipsnio 1
-dalies 2, 3, 6, 7, 8 ir 9 punktuose apibrėžtuose objektuose (toliau – kontrolės
-objektai) Valstybinės visuomenės sveikatos priežiūros tarnybos ir jai pavaldžių
-teritorinių visuomenės sveikatos priežiūros įstaigų tarnautojai turi teisę:
-1) pateikę
-tarnybinį pažymėjimą ir įstaigos vadovo ar jo įgalioto asmens išduotą pavedimą,
-laisvai ir be išankstinio perspėjimo įeiti į kontrolės objektus jų darbo metu;
-2) tikrinti, ar
-laikomasi visuomenės sveikatos priežiūros norminių teisės aktų reikalavimų;
-3) reikalauti,
-kad kontrolės objektų vadovai ar jų įgalioti asmenys atvyktų ir teiktų paaiškinimus
-žodžiu ir (ar) raštu;
-4) siūlyti
-atitinkamai institucijai sustabdyti ar panaikinti licenciją verstis ūkine
-komercine veikla asmenims, kurių vykdoma veikla gali padaryti ar padarė žalos
-sveikatai;
-5) Produktų
-saugos įstatymo ir kitų įstatymų nustatytais pagrindais ir Vyriausybės
-nustatyta tvarka taikyti rinkos ribojimo priemones.
-41
-straipsnio 6 dalies redakcija nuo 2012-07-01
 6. Vykdydami
 valstybinę visuomenės sveikatos saugos kontrolę šio Įstatymo 15 straipsnio 1,
 2, 5, 6, 7 ir 8 punktuose apibrėžtuose objektuose (toliau – kontrolės
@@ -1285,54 +1109,31 @@ norminių teisės aktų reikalavimų;
 3) reikalauti,
 kad kontrolės objektų vadovai ar jų įgalioti asmenys atvyktų ir teiktų
 paaiškinimus žodžiu ir (ar) raštu;
-4) siūlyti atitinkamai
-institucijai sustabdyti ar panaikinti licenciją verstis ūkine komercine veikla
-asmenims, kurių vykdoma veikla gali padaryti ar padarė žalos sveikatai;
+4) siūlyti
+atitinkamai institucijai sustabdyti ar panaikinti licenciją verstis ūkine
+komercine veikla asmenims, kurių vykdoma veikla gali padaryti ar padarė žalos
+sveikatai;
 5) Produktų saugos įstatymo ir kitų įstatymų nustatytais
 pagrindais ir Vyriausybės nustatyta tvarka taikyti rinkos ribojimo priemones.
- 
-7. Valstybinės
-visuomenės sveikatos priežiūros tarnybos ir jai pavaldžių teritorinių
-visuomenės sveikatos priežiūros įstaigų valstybės tarnautojai gali turėti ir
-kitų teisių, nustatytų kitais įstatymais.
-41
-straipsnio 7 dalies redakcija nuo 2012-07-01
 7. Visuomenės
 sveikatos centrų apskrityse tarnautojai gali turėti ir kitų teisių,
 nustatytų kituose įstatymuose.
- 
-8. Valstybinės
-visuomenės sveikatos priežiūros tarnybos ir jai pavaldžių teritorinių
-visuomenės sveikatos priežiūros įstaigų tarnautojai, įgalioti atlikti
-valstybinę visuomenės sveikatos saugos kontrolę, pažeidę šio Įstatymo
-reikalavimus, atsako įstatymų nustatyta tvarka.
-41
-straipsnio 8 dalies redakcija nuo 2012-07-01
 8. Visuomenės
 sveikatos centrų apskrityse tarnautojai, įgalioti atlikti valstybinę visuomenės
 sveikatos saugos kontrolę, pažeidę šio Įstatymo reikalavimus, atsako įstatymų
 nustatyta tvarka.
- 
-9. Valstybinės
-visuomenės sveikatos priežiūros tarnybos ir jai pavaldžių teritorinių
-visuomenės sveikatos priežiūros įstaigų tarnautojų veiksmai gali būti
-skundžiami Administracinių bylų teisenos įstatymo nustatyta tvarka.
-41
-straipsnio 9 dalies redakcija nuo 2012-07-01
 9. Visuomenės
 sveikatos centrų apskrityse tarnautojų veiksmai gali būti skundžiami Administracinių bylų teisenos
 įstatymo nustatyta tvarka.
- 
 10. Valstybinę
 visuomenės sveikatos saugos kontrolę krašto apsaugos sistemos institucijose
 krašto apsaugos ministro nustatyta tvarka, suderinta su Sveikatos apsaugos
 ministerija, vykdo krašto apsaugos ministro įgaliota institucija. Krašto
-apsaugos ministro įgaliotos institucijos tarnautojai, įgalioti atlikti
-valstybinę visuomenės sveikatos saugos kontrolę, turi šio straipsnio 6 dalyje
-ir kituose įstatymuose nustatytas teises. Krašto apsaugos ministro įgaliotos
-institucijos tarnautojai, įgalioti atlikti valstybinę visuomenės sveikatos
-saugos kontrolę, pažeidę šio Įstatymo reikalavimus, atsako įstatymų nustatyta
-tvarka.
+apsaugos ministro įgaliotos institucijos tarnautojai, įgalioti atlikti valstybinę
+visuomenės sveikatos saugos kontrolę, turi šio straipsnio 6 dalyje ir kituose
+įstatymuose nustatytas teises. Krašto apsaugos ministro įgaliotos institucijos
+tarnautojai, įgalioti atlikti valstybinę visuomenės sveikatos saugos kontrolę,
+pažeidę šio Įstatymo reikalavimus, atsako įstatymų nustatyta tvarka.
 11. Netenka
 galios nuo 2010 m. liepos 1 d.
 Straipsnio pakeitimai:
@@ -1346,8 +1147,8 @@ Nr. XI-1757, 2011-12-01,
 42 straipsnis. Valstybinis visuomenės
 sveikatos priežiūros veiklos auditas 
 Valstybinį
-visuomenės sveikatos priežiūros veiklos auditą vykdo Sveikatos apsaugos ministerija
-arba jos įgaliota įstaiga Vyriausybės nustatyta tvarka.
+visuomenės sveikatos priežiūros veiklos auditą vykdo Sveikatos apsaugos
+ministerija arba jos įgaliota įstaiga Vyriausybės nustatyta tvarka.
 Straipsnio pakeitimai
 Nr. X-1150,
 2007-05-24, Žin., 2007, Nr. 64-2455 (2007-06-09)
@@ -1425,15 +1226,15 @@ atitiktų Nuostatuose nustatytus kvalifikacinius reikalavimus asmenims,
 siekiantiems verstis atitinkamos rūšies visuomenės sveikatos priežiūros veikla.
 5. Iš fizinio, juridinio asmens ar filialo nereikalaujama įvykdyti šio
 straipsnio 3 ir 4 dalyse nurodytų reikalavimų ar sąlygų, jeigu per Nuostatuose
-nustatytą terminą nustatoma, kad tokius pačius ar iš esmės panašius
-reikalavimus ar sąlygas jis yra įvykdęs kitoje Europos Sąjungos valstybėje
-narėje ir jų laikosi. Fiziniam, juridiniam asmeniui ar filialui kitoje valstybėje
-narėje išduota licencija ar kitas dokumentas, suteikiantis teisę verstis
-atitinkamos rūšies visuomenės sveikatos priežiūros veikla, yra pripažįstami
-Lietuvos Respublikoje, jeigu per Nuostatuose nurodytą terminą nustatoma, kad jo
-turimos licencijos ar kito dokumento, suteikiančio teisę verstis atitinkamos
-rūšies visuomenės sveikatos priežiūros veikla, išdavimo sąlygos ir reikalavimai
-yra tokie patys ar iš esmės panašūs į šio Įstatymo 43 straipsnyje nustatytus
+nustatytą terminą nustatoma, kad tokius pačius ar iš esmės panašius reikalavimus
+ar sąlygas jis yra įvykdęs kitoje Europos Sąjungos valstybėje narėje ir jų
+laikosi. Fiziniam, juridiniam asmeniui ar filialui kitoje valstybėje narėje
+išduota licencija ar kitas dokumentas, suteikiantis teisę verstis atitinkamos
+rūšies visuomenės sveikatos priežiūros veikla, yra pripažįstami Lietuvos
+Respublikoje, jeigu per Nuostatuose nurodytą terminą nustatoma, kad jo turimos
+licencijos ar kito dokumento, suteikiančio teisę verstis atitinkamos rūšies
+visuomenės sveikatos priežiūros veikla, išdavimo sąlygos ir reikalavimai yra
+tokie patys ar iš esmės panašūs į šio Įstatymo 43 straipsnyje nustatytus
 Visuomenės sveikatos priežiūros veiklos licencijos išdavimo sąlygas ir
 reikalavimus, keliamus atitinkamai veiklos rūšiai. 
 6. Licencija patikslinama išduodant naują licenciją, jeigu pasikeičia
@@ -1450,7 +1251,8 @@ licencijos turėtojas nesilaiko licencijuojamos veiklos sąlygų, neatitinka
 kvalifikacinių reikalavimų ar pažeidžia įstatymų ir kitų teisės aktų, susijusių
 su licencijuojama veikla, reikalavimus ir Nuostatų nustatyta tvarka įspėtas
 apie nustatytus trūkumus ir (ar) pažeidimus per nustatytą terminą nepašalina
-licencijuojamos veiklos trūkumų ir (ar) pažeidimų ar nepateikia tai įrodančių dokumentų;
+licencijuojamos veiklos trūkumų ir (ar) pažeidimų ar nepateikia tai įrodančių
+dokumentų;
 2)
 licencijos turėtojas raštu prašo sustabdyti licencijos galiojimą. 
 8.
@@ -1516,17 +1318,10 @@ rūšimi, išdavimą, šių licencijų dublikatų išdavimą, licencijų patiksl
 imama valstybės rinkliava, išskyrus atvejus,
 kai licencija patikslinama siekiant ištaisyti klaidas, padarytas
 išduodant licenciją. 
- 
 17.
 Licencijuojamos visuomenės sveikatos priežiūros veiklos kontrolę sveikatos
-apsaugos ministro nustatyta tvarka vykdo Valstybinė visuomenės sveikatos
-priežiūros tarnyba ir jai pavaldžios teritorinės visuomenės sveikatos
-priežiūros įstaigos.
-43
-straipsnio 17 dalies redakcija nuo 2012-07-01
-17.
-Licencijuojamos visuomenės sveikatos priežiūros veiklos kontrolę sveikatos
-apsaugos ministro nustatyta tvarka vykdo visuomenės sveikatos centrai apskrityse.
+apsaugos ministro nustatyta tvarka vykdo visuomenės sveikatos centrai
+apskrityse.
 Straipsnio
 pakeitimai:
 Nr. X-1150, 2007-05-24, Žin., 2007, Nr.
@@ -1556,8 +1351,8 @@ turinčių leidimus šiam darbui, organizuoti kursai ir seminarai;
 mokyklų ir visuomenės sveikatos priežiūros specialistų mokslo draugijų
 organizuojamos mokslinės ir mokslinės praktinės konferencijos;
 3) įstaigų ir
-įmonių pagal sutartis su Lietuvos ir užsienio studijų institucijomis organizuoti
-teorinio ir praktinio tobulinimosi kursai ir seminarai;
+įmonių pagal sutartis su Lietuvos ir užsienio studijų institucijomis
+organizuoti teorinio ir praktinio tobulinimosi kursai ir seminarai;
 4) visuomenės
 sveikatos priežiūros viešojo administravimo subjektų ar jų įsteigtų profesinio
 tobulinimo, specializuotų visuomenės sveikatos priežiūros įstaigų ir įmonių,
@@ -1582,7 +1377,7 @@ išskyrus 47 straipsnį, įsigalioja nuo 2003 m. sausio 1 d.
 47 straipsnis. Pasiūlymai Vyriausybei ir kitoms institucijoms1. Vyriausybė iki 2002 m. spalio 1 d. parengia ir pateikia Seimui su šio Įstatymo įgyvendinimu susijusių įstatymų pakeitimų ir papildymų projektus.2. Vyriausybė ir kitos institucijos iki 2002 m. gruodžio 31 d. parengia ir patvirtina šiam Įstatymui įgyvendinti reikalingus teisės aktus.
  
 Skelbiu šį
-Lietuvos Respublikos Seimo priimtą įstatymą. 
+Lietuvos Respublikos Seimo priimtą įstatymą.
 
 
 
@@ -1590,7 +1385,6 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS
 ADAMKUS
-________________
 Pakeitimai:
  
 1.
@@ -1617,8 +1411,8 @@ SVEIKATOS PRIEŽIŪROS ĮSTATYMO 2, 5, 6, 7, 10, 12, 15, 21, 34, 37, 41, 43, 45
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR 22, 32, 44 STRAIPSNIŲ PRIPAŽINIMO
 NETEKUSIAIS GALIOS ĮSTATYMAS
 Šis įstatymas, išskyrus 8 straipsnio 5
-dalyje išdėstyto Visuomenės sveikatos priežiūros įstatymo 21 straipsnio 7
-dalies 4 punktą ir šio įstatymo 17 straipsnį, įsigalioja 2010 m. liepos 1 d.
+dalyje išdėstyto Visuomenės sveikatos priežiūros įstatymo 21 straipsnio 7 dalies
+4 punktą ir šio įstatymo 17 straipsnį, įsigalioja 2010 m. liepos 1 d.
 Šio įstatymo 8 straipsnio 5 dalyje išdėstyto Visuomenės sveikatos priežiūros įstatymo 21 straipsnio 7 dalies 4 punktas įsigalioja 2012 m. sausio 1 d.
  
 3.
@@ -1630,8 +1424,20 @@ VISUOMENĖS SVEIKATOS PRIEŽIŪROS ĮSTATYMO
 STRAIPSNIU ĮSTATYMAS
 Šis įstatymas, išskyrus 7 straipsnio 2
 dalį,  įsigalioja 2012-07-01.
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-132,
+2012-12-20, Žin., 2012, Nr. 154-7938 (2012-12-29)
+VISUOMENĖS SVEIKATOS PRIEŽIŪROS ĮSTATYMO
+6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis įstatymas, išskyrus šio straipsnio 2
+dalį, įsigalioja 2014 m. sausio 1 d.
+ 
+ 
 *** Pabaiga ***
  
  
-Redagavo Aušra Bodin (2011-12-16)
-                  aubodi@lrs.lt
+Redagavo Aušrinė Trapinskienė
+(2013-01-14)
+                  ausrine.trapinskiene@lrs.lt
