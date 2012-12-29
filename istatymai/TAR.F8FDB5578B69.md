@@ -44,30 +44,48 @@ išieškotas nedarbo socialinio draudimo įmokas Valstybinio socialinio draudimo
 fondo biudžeto sudarymo ir vykdymo taisyklėse nustatytais terminais ir tvarka
 perveda į Užimtumo fondo sąskaitą.“
  
-2
-straipsnis. 33 straipsnio pakeitimas 
-Pakeisti 33
+2 straipsnis. 33 straipsnio pakeitimas 
+1. Pakeisti 33
 straipsnį ir jį išdėstyti taip:
-„33 straipsnis.
-Lietuvos darbo biržos funkcijos socialinio draudimo sistemoje
+„33
+straipsnis. Lietuvos darbo biržos funkcijos socialinio draudimo sistemoje
 Lietuvos darbo
 birža prie Socialinės apsaugos ir darbo ministerijos disponuoja įstatymų ir
 socialinės apsaugos ir darbo ministro nustatyta tvarka iš Fondo gautomis
 lėšomis, skirsto jas teritorinėms darbo biržoms Užimtumo rėmimo įstatymo
-nustatytoms
-užimtumo rėmimo priemonėms įgyvendinti ir vykdo jų panaudojimo kontrolę.“
+nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti ir
+vykdo jų panaudojimo kontrolę.“
+2. Pakeisti 33
+straipsnį ir jį išdėstyti taip:
+,,33
+straipsnis. Lietuvos darbo biržos funkcijos socialinio draudimo sistemoje
+Lietuvos darbo
+birža prie Socialinės apsaugos ir darbo ministerijos disponuoja įstatymų ir
+socialinės apsaugos ir darbo ministro nustatyta tvarka iš Fondo gautomis
+lėšomis, skirsto jas teritorinėms darbo biržoms Užimtumo rėmimo įstatymo
+nustatytoms užimtumo rėmimo priemonėms įgyvendinti, darbo rinkos paslaugoms
+teikti ir užimtumo rėmimo politiką įgyvendinančioms įstaigoms išlaikyti ir
+vykdo jų panaudojimo kontrolę.“
 Straipsnio
 pakeitimai:
 Nr.
 XI-2303,
 2012-10-17, Žin., 2012, Nr. 127-6392 (2012-11-03)
+Nr. XII-125,
+2012-12-20, Žin., 2012, Nr. 154-7931 (2012-12-29)
  
-3
-straipsnis. Įstatymo įsigaliojimas
+3 straipsnis. Įstatymo įsigaliojimas
 1. Šio įstatymo
 1 straipsnis įsigalioja 2009 m. rugpjūčio 1 d.
 2. Šio įstatymo
-2 straipsnis įsigalioja 2013 m. sausio 1 d.
+2 straipsnio 2 dalis įsigalioja 2013 m. sausio 1 d. ir galioja iki 2013 m.
+gruodžio 31 d.
+3. Šio įstatymo
+2 straipsnio 1 dalis įsigalioja 2014 m. sausio 1 d.
+Straipsnio
+pakeitimai:
+Nr. XII-125,
+2012-12-20, Žin., 2012, Nr. 154-7931 (2012-12-29)
  
 4
 straipsnis. Baigiamosios nuostatos
@@ -79,9 +97,9 @@ Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
+ 
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS
 ADAMKUS
- 
  
  
 Pakeitimai:
@@ -95,11 +113,19 @@ XI-2303,
 VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO
 22 IR 33 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-125,
+2012-12-20, Žin., 2012, Nr. 154-7931 (2012-12-29)
+VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO
+22 IR 33 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 2 IR 3 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
+ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušra Bodin (2012-11-05)
-        
-         aubodi@lrs.lt
+Aušrinė Trapinskienė (2013-01-03)
+                 
+ausrine.trapinskiene@lrs.lt
