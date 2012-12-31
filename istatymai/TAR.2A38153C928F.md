@@ -15,6 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2A38153C928F"
 
 Įstatymas skelbtas: Žin., 2010, Nr. 75-3791
 Neoficialus įstatymo tekstas
+Įstatymo aktuali redakcija nuo 2012-12-31
  
 LIETUVOS RESPUBLIKOS
 SAUGAUS EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 2, 7, 10, 19, 22 STRAIPSNIŲ
@@ -66,8 +67,8 @@ arba jos įgaliotos institucijos nustatyta tvarka suteikta teisė organizuoti ir
 rengti papildomą motorinių transporto priemonių vairuotojų mokymą.“
 4.
 Papildyti 2 straipsnį nauja 66 dalimi:
-„66. Vairuotojų
-mokymas pradinei profesinei kvalifikacijai įgyti – C1, C1E, C, CE,
+„66.
+Vairuotojų mokymas pradinei profesinei kvalifikacijai įgyti – C1, C1E, C, CE,
 D1, D1E, D, DE kategorijų motorinių transporto priemonių ir jų junginių su
 priekabomis vairuotojų mokymas siekiant, kad jie įgytų kvalifikacijos
 pažymėjimą, patvirtinantį šių transporto priemonių vairuotojų pradinę profesinę
@@ -78,9 +79,9 @@ Papildyti 2 straipsnį nauja 67 dalimi:
 Vairuotojų periodinis profesinis mokymas – C1, C1E, C, CE, D1, D1E, D, DE
 kategorijų motorinių transporto priemonių ir jų junginių su priekabomis
 vairuotojų mokymas siekiant, kad jie įgytų vairuotojo profesinės kvalifikacijos
-periodinio tobulinimo pažymėjimą, patvirtinantį, kad šių transporto priemonių
-vairuotojai tobulino profesinę kvalifikaciją vežti krovinius ar keleivius
-komerciniais tikslais.“
+periodinio tobulinimo pažymėjimą, patvirtinantį, kad šių transporto priemonių vairuotojai
+tobulino profesinę kvalifikaciją vežti krovinius ar keleivius komerciniais
+tikslais.“
 6. Buvusias 2 straipsnio 66 ir 67 dalis laikyti atitinkamai 68 ir 69
 dalimis.
  
@@ -155,8 +156,8 @@ straipsnis. Įstatymo įsigaliojimas
 1. Šis įstatymas, išskyrus 1 straipsnio 1 ir 2 dalis ir 3
 straipsnio 1 dalį, įsigalioja 2010 m. liepos 1 d.
 2. Šio įstatymo 1 straipsnio 1 dalis įsigalioja 2010 m. liepos 1 d. ir
-galioja iki 2012 m. gruodžio 31 d.
-3. Šio įstatymo 1 straipsnio 2 dalis įsigalioja 2013 m. sausio 1 d.
+galioja iki 2013 m. birželio 30 d.
+3. Šio įstatymo 1 straipsnio 2 dalis įsigalioja 2013 m. liepos 1 d.
 4. Šio įstatymo
 3 straipsnio 1 dalis įsigalioja 2011 m. sausio 1 d.
 Straipsnio pakeitimai:
@@ -165,6 +166,9 @@ XI-1808,
 2011-12-15, Žin., 2011, Nr. 156-7389 (2011-12-22)
 Nr. XI-1942,
 2012-03-27, Žin., 2012, Nr. 38-1892 (2012-03-31)
+Nr.
+XII-53,
+2012-12-13, Žin., 2012, Nr. 151-7722 (2012-12-21)
  
 7
 straipsnis. Pasiūlymai Vyriausybei
@@ -182,11 +186,10 @@ Skelbiu šį Lietuvos Respublikos
 Seimo priimtą įstatymą.
  
  
-RESPUBLIKOS
-PREZIDENTĖ                                                       DALIA
+ 
+RESPUBLIKOS PREZIDENTĖ                                                       DALIA
 GRYBAUSKAITĖ
  
-_________________
  
 Pakeitimai:
  
@@ -210,11 +213,23 @@ STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas
 įsigalioja 2012 m. balandžio 1 d.
  
+3.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XII-53,
+2012-12-13, Žin., 2012, Nr. 151-7722 (2012-12-21)
+SAUGAUS
+EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 2, 7, 10, 19, 22 STRAIPSNIŲ PAKEITIMO IR
+PAPILDYMO ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja 2012 m. gruodžio 31 d.
+ 
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2012-04-02)
+Aušrinė Trapinskienė (2012-12-21)
                  
 ausrine.trapinskiene@lrs.lt
