@@ -994,14 +994,16 @@ XI-2181,
 1. Neteko galios
 nuo 2011 m. gruodžio 31 d.
 2. Šio įstatymo
-2 straipsnis įsigalioja 2013 m. sausio 1 d.
+2 straipsnis įsigalioja 2014 m. sausio 1 d.
 Straipsnio pakeitimai:
 Nr. XI-951,
 2010-06-30, Žin., 2010, Nr. 82-4305 (2010-07-13)
 Nr. XI-1727,
 2011-11-22, Žin., 2011, Nr. 150-7042 (2011-12-08)
-Nr. XI-1839,
-2011-12-21, Žin., 2011, Nr. 163-7749 (2011-12-31)
+Nr. XI-1839, 2011-12-21,
+Žin., 2011, Nr. 163-7749 (2011-12-31)
+Nr. XII-109,
+2012-12-20, Žin., 2012, Nr. 155-7987 (2012-12-31)
  
 Skelbiu šį Lietuvos Respublikos Seimo
 priimtą įstatymą. 
@@ -1016,8 +1018,8 @@ ADAMKUS
 Pakeitimai:
  
 1.
-Lietuvos Respublikos
-Seimas, Įstatymas
+Lietuvos
+Respublikos Seimas, Įstatymas
 Nr. XI-866,
 2010-06-03, Žin., 2010, Nr. 71-3544 (2010-06-19)
 VALSTYBĖS
@@ -1075,10 +1077,18 @@ VALSTYBĖS POLITIKŲ IR VALSTYBĖS
 PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
  
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-109,
+2012-12-20, Žin., 2012, Nr. 155-7987 (2012-12-31)
+VALSTYBĖS POLITIKŲ IR VALSTYBĖS
+PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2012-07-13)
-                 
-ausrine.trapinskiene@lrs.lt
+Aušrinė Trapinskienė (2013-01-08)
+    
+             ausrine.trapinskiene@lrs.lt
