@@ -67,16 +67,18 @@ straipsnis. Įstatymo
 1. Šio įstatymo 1 straipsnis įsigalioja
 2009 m. rugpjūčio 1 d.
 2. Šio įstatymo 2 straipsnis įsigalioja
-2013 m. sausio 1 d.
+2014 m. sausio 1 d.
 Straipsnio
 pakeitimai:
 Nr. XI-946,
 2010-06-30, Žin., 2010, Nr. 82-4300 (2010-07-13)
 Nr. XI-1717,
 2011-11-22, Žin., 2011, Nr. 150-7032 (2011-12-08)
+Nr. XII-120,
+2012-12-20, Žin., 2012, Nr. 155-7998 (2012-12-31)
  
-Skelbiu šį Lietuvos Respublikos Seimo priimtą
-įstatymą.
+Skelbiu šį Lietuvos Respublikos Seimo
+priimtą įstatymą.
  
 
  
@@ -84,7 +86,6 @@ RESPUBLIKOS
 PREZIDENTĖ                                                       DALIA
 GRYBAUSKAITĖ
  
-_______________
  
 Pakeitimai:
  
@@ -104,9 +105,18 @@ Nr. XI-1717,
 CIVILINĖS KRAŠTO APSAUGOS TARNYBOS
 STATUTO 20 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-120,
+2012-12-20, Žin., 2012, Nr. 155-7998 (2012-12-31)
+CIVILINĖS KRAŠTO APSAUGOS TARNYBOS
+STATUTO 20 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo Aušra Bodin (2011-12-12)
-                  aubodi@lrs.lt
+Redagavo Aušrinė Trapinskienė
+(2013-01-09)
+                 
+ausrine.trapinskiene@lrs.lt
 
