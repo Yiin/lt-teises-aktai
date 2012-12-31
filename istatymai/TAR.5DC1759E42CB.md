@@ -16,6 +16,8 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 Įstatymas skelbtas: Žin., 2000,
 Nr. 92-2883
 Neoficialus įstatymo tekstas
+Aktuali įstatymo
+redakcija nuo 2012-12-31
  
 LIETUVOS RESPUBLIKOS
 SAUGAUS EISMO AUTOMOBILIŲ KELIAIS
@@ -91,8 +93,8 @@ institucijos nustatė kaip didžiausią leidžiamą.
 7.
 Dviračių takas – dviračių eismui skirtas kelias arba kelio dalis, pažymėti
 kelio ženklu „Dviračių takas“, kuriuose motorinių transporto priemonių eismas
-draudžiamas. Dviračių takas privalo būti atskirtas nuo kelio ar jo dalių kelio ženklais
-arba kelio inžinerinėmis priemonėmis. 
+draudžiamas. Dviračių takas privalo būti atskirtas nuo kelio ar jo dalių kelio
+ženklais arba kelio inžinerinėmis priemonėmis. 
 8.
 Dviratis – ne mažiau kaip du ratus turinti transporto priemonė,
 varoma tik ja važiuojančio asmens raumenų jėga, naudojant pedalus ar rankenas.
@@ -112,22 +114,22 @@ viena transporto priemonė, krovinys, kelias, jo statiniai ar bet koks kitas
 įvykio vietoje buvęs turtas.
 12.
 Eismo juosta – Vyriausybės patvirtintose Kelių eismo taisyklėse (toliau – KET)
-nustatytomis kelių horizontaliojo ženklinimo linijomis (toliau – ženklinimo
-linijos) ir (arba) kelio ženklais pažymėta arba nepažymėta išilginė
+nustatytomis kelių horizontaliojo ženklinimo linijomis (toliau –
+ženklinimo linijos) ir (arba) kelio ženklais pažymėta arba nepažymėta išilginė
 važiuojamosios kelio dalies juosta, kurios pločio pakanka automobiliams
 važiuoti viena eile.
 13.
-Eismo organizavimas – transporto priemonių ir eismo dalyvių judėjimo keliais reguliavimo
-teisinių ir techninių priemonių bei tvarkomųjų veiksmų kompleksas. 
+Eismo organizavimas – transporto priemonių ir eismo dalyvių judėjimo keliais
+reguliavimo teisinių ir techninių priemonių bei tvarkomųjų veiksmų kompleksas. 
 14. Eismo saugumas – kelių eismo ypatybių visuma, rodanti, kiek eismo dalyviai yra
 apsaugoti nuo eismo įvykių ir jų padarinių.
-15. Eismo
-saugumo užtikrinimas –
-veikla, kuria siekiama užkirsti kelią eismo įvykiams, sušvelninti jų padarinius.
+15. Eismo saugumo
+užtikrinimas – veikla,
+kuria siekiama užkirsti kelią eismo įvykiams, sušvelninti jų padarinius.
 16.
 Eismo tvarka – transporto priemonių, pėsčiųjų, kitų eismo dalyvių judėjimo,
-sustojimo ir stovėjimo tvarka keliuose, numatyta šiame ir kituose Lietuvos
-Respublikos įstatymuose, KET ir kituose teisės aktuose.
+sustojimo ir stovėjimo tvarka keliuose, numatyta šiame ir kituose Lietuvos Respublikos
+įstatymuose, KET ir kituose teisės aktuose.
 17.
 Gyvenvietė – namų pristatyta teritorija, kurioje galioja papildomi kelių eismo
 reikalavimai ir kurios pradžioje keliai pažymėti ženklu „Gyvenvietės pradžia“,
@@ -437,13 +439,13 @@ viena transporto priemonė, krovinys, kelias, jo statiniai ar bet koks kitas
 įvykio vietoje buvęs turtas.
 12.
 Eismo juosta – Vyriausybės patvirtintose Kelių eismo taisyklėse (toliau – KET)
-nustatytomis kelių horizontaliojo ženklinimo linijomis (toliau –
-ženklinimo linijos) ir (arba) kelio ženklais pažymėta arba nepažymėta išilginė
+nustatytomis kelių horizontaliojo ženklinimo linijomis (toliau – ženklinimo
+linijos) ir (arba) kelio ženklais pažymėta arba nepažymėta išilginė
 važiuojamosios kelio dalies juosta, kurios pločio pakanka automobiliams
 važiuoti viena eile.
 13.
-Eismo organizavimas – transporto priemonių ir eismo dalyvių judėjimo keliais
-reguliavimo teisinių ir techninių priemonių bei tvarkomųjų veiksmų kompleksas. 
+Eismo organizavimas – transporto priemonių ir eismo dalyvių judėjimo keliais reguliavimo
+teisinių ir techninių priemonių bei tvarkomųjų veiksmų kompleksas. 
 14. Eismo saugumas – kelių eismo ypatybių visuma, rodanti, kiek eismo dalyviai yra
 apsaugoti nuo eismo įvykių ir jų padarinių.
 15. Eismo
@@ -458,10 +460,10 @@ Galingasis keturratis – keturratė motorinė transporto priemonė
 atviru kėbulu, kuri skirta daugiausia naudoti pramogai arba žemės ūkyje ir
 važiuoti bekele arba keliais be dangos, kurios didžiausiasis projektinis
 greitis didesnis kaip 45 km/h ir (arba) variklio darbinis tūris didesnis kaip 50 cm3, bet ne didesnis kaip 1 000 cm3, masė be krovinio didesnė kaip 400 kg, o kroviniams vežti skirtos šios keturratės motorinės transporto priemonės masė be krovinio
-didesnė kaip 550 kg (be akumuliatorių baterijų, jeigu tai elektros varikliu varoma
-transporto priemonė) ir didžiausioji naudingoji galia didesnė kaip 15 kW, bet
-ne didesnė kaip 100 kW. Prie galingųjų keturračių taip pat priskiriamos daugiau
-kaip 4 ratus turinčios motorinės transporto priemonės, atitinkančios
+didesnė kaip 550 kg (be akumuliatorių baterijų, jeigu tai elektros varikliu
+varoma transporto priemonė) ir didžiausioji naudingoji galia didesnė kaip 15
+kW, bet ne didesnė kaip 100 kW. Prie galingųjų keturračių taip pat priskiriamos
+daugiau kaip 4 ratus turinčios motorinės transporto priemonės, atitinkančios
 galingiesiems keturračiams taikomus techninius reikalavimus.
 18.
 Gyvenvietė – namų pristatyta teritorija, kurioje galioja papildomi kelių eismo
@@ -517,9 +519,8 @@ Maršrutinė transporto priemonė – viešojo transporto priemonės
 keleiviai nustatytu maršrutu su nurodytomis sustojimo vietomis, taip pat
 mokykliniai autobusai.
 28.
-Mokyklinis autobusas – geltonas skiriamaisiais ženklais
-paženklintas autobusas, kuriuo vežami vaikai (švietimo įstaigų mokiniai)
-specialiu maršrutu.
+Mokyklinis autobusas – geltonas skiriamaisiais ženklais paženklintas
+autobusas, kuriuo vežami vaikai (švietimo įstaigų mokiniai) specialiu maršrutu.
 29.
 Mokinys – asmuo, kuris nustatyta tvarka mokosi vairuoti transporto
 priemonę. 
@@ -540,11 +541,19 @@ greitis didesnis kaip 45 km/h.
 Motorinė transporto priemonė – variklį turinti transporto
 priemonė, išskyrus skirtas judėti ne keliais bėgines transporto priemones,
 traktorius ir savaeiges mašinas.
-33. Motorinės transporto
-priemonės arba priekabos registravimas – veiksmai, apimantys motorinės
-transporto priemonės arba priekabos tapatumo nustatymą, jų duomenų
-įrašymą į Kelių transporto priemonių registrą, valstybinio numerio ženklų
-ir transporto priemonės registravimo dokumento išdavimą.
+33. Motorinės
+transporto priemonės arba priekabos registravimas –
+veiksmai, apimantys motorinės transporto priemonės arba priekabos
+tapatumo nustatymą, jų duomenų įrašymą į Kelių transporto priemonių
+registrą, valstybinio numerio ženklų ir transporto priemonės registravimo
+dokumento išdavimą.
+34.
+Papildomas vairuotojų mokymas – mokymas nustatyta tvarka, organizuojamas ir
+vykdomas motorinių transporto priemonių vairuotojams, kuriems teisė
+vairuoti buvo atimta dėl KET pažeidimų, taip pat specialiųjų
+transporto priemonių vairuotojams, naudojantiems mėlynus ir (ar) raudonus (arba
+tik mėlynus) žybčiojančius švyturėlius ir (arba) specialiuosius garso signalus.
+33 dalies redakcija nuo 2013-07-01:
 34.
 Papildomas vairuotojų mokymas – mokymas nustatyta tvarka, organizuojamas ir
 vykdomas tik praktinio vairuotojų mokymo centruose pradedantiesiems
@@ -552,16 +561,17 @@ vairuotojams, motorinių transporto priemonių vairuotojams, kuriems teisė
 vairuoti buvo atimta dėl KET pažeidimų, taip pat specialiųjų
 transporto priemonių vairuotojams, naudojantiems mėlynus ir (ar) raudonus (arba
 tik mėlynus) žybčiojančius švyturėlius ir (arba) specialiuosius garso signalus.
+ 
 35.
 Pėsčiasis – asmuo, esantis kelyje ne transporto priemonėje, taip pat
 važiuojantis neįgaliųjų vežimėliu, riedučiais, riedlente, paspirtuku, vedantis
 dviratį, mopedą, motociklą, traukiantis (stumiantis) rogutes, vaikišką ar
 kitokį vežimėlį. Pėsčiuoju nelaikomas kelyje dirbantis asmuo.
 36.
-Pėsčiųjų perėja – važiuojamojoje dalyje esanti pėsčiųjų perėjimo per kelią
-vieta, pažymėta kelio ženklu „Pėsčiųjų perėja“ ir ženklinimo linijomis arba tik
-kelio ženklu „Pėsčiųjų perėja“. Pėsčiųjų perėjos ribas žymi ženklinimo linijos,
-o jeigu jų nėra, – įsivaizduojamos tiesės, einančios nuo kelio ženklų statmenai
+Pėsčiųjų perėja – važiuojamojoje dalyje esanti pėsčiųjų perėjimo per kelią vieta,
+pažymėta kelio ženklu „Pėsčiųjų perėja“ ir ženklinimo linijomis arba tik kelio
+ženklu „Pėsčiųjų perėja“. Pėsčiųjų perėjos ribas žymi ženklinimo linijos, o
+jeigu jų nėra, – įsivaizduojamos tiesės, einančios nuo kelio ženklų statmenai
 per kelią.
 37.
 Pėsčiųjų takas – pėstiesiems skirta kelio dalis arba takas,
@@ -717,6 +727,8 @@ Nr. XI-1942,
 2012-03-27, Žin., 2012, Nr. 38-1892 (2012-03-31)
 Nr. XI-1943,
 2012-03-27, Žin., 2012, Nr. 42-2044 (2012-04-07)
+Nr. XII-53,
+2012-12-13, Žin., 2012, Nr. 151-7722 (2012-12-21)
  
 3 straipsnis. Eismo tvarka 
 1.
@@ -724,10 +736,10 @@ Lietuvos Respublikoje eismas keliais vyksta dešine kelio puse.
 2.
 Eismo tvarką Lietuvos Respublikos teritorijoje nustato KET, kurias tvirtina
 Vyriausybė.
-3.
-Eismą keliuose Lietuvos Respublikoje gali riboti tik KET numatyti kelio
-ženklai, ženklinimo linijos, šviesoforai ir reguliuotojo signalai. Jeigu kelio
-ženklo ir ženklinimo linijų reikalavimai skiriasi, vadovaujamasi kelio ženklo
+3. Eismą
+keliuose Lietuvos Respublikoje gali riboti tik KET numatyti kelio ženklai,
+ženklinimo linijos, šviesoforai ir reguliuotojo signalai. Jeigu kelio ženklo ir
+ženklinimo linijų reikalavimai skiriasi, vadovaujamasi kelio ženklo
 reikalavimais.
  
 4 straipsnis. Eismo saugumo užtikrinimo principai
@@ -815,8 +827,8 @@ Finansų ministerijos atstovas, Sveikatos apsaugos ministerijos atstovas,
 prezidentas. Komisijos pirmininkas yra Ministras Pirmininkas.
 4. Komisija:
 1) teikia
-Respublikos Prezidentui, Seimui, Vyriausybei, kitoms valstybės ir savivaldybių
-institucijoms ir įstaigoms siūlymus šio įstatymo įgyvendinimo klausimais;
+Respublikos Prezidentui, Seimui, Vyriausybei, kitoms valstybės ir savivaldybių institucijoms
+ir įstaigoms siūlymus šio įstatymo įgyvendinimo klausimais;
 2) teikia
 valstybės ir savivaldybių institucijoms ir įstaigoms išvadas dėl teisės aktų
 atitikties eismo saugumo reikalavimams; 
@@ -840,10 +852,9 @@ motorinių transporto priemonių ir jų
 priekabų gamybos ir perdirbimo reikalavimus, normatyvinius statybos
 techninius dokumentus, nustatančius kelių
 rekonstrukcijos, kelių projektavimo, kelių saugumo audito reikalavimus;
-2)
-suderinusi su Vidaus reikalų ministerija, nustato tvarką ir atvejus, kada
-taisomuose kelių (gatvių) ruožuose keliuose dirbantys asmenys gali reguliuoti
-eismą; 
+2) suderinusi
+su Vidaus reikalų ministerija, nustato tvarką ir atvejus, kada taisomuose kelių
+(gatvių) ruožuose keliuose dirbantys asmenys gali reguliuoti eismą; 
 3)
 nustato keleivių vežimo reguliariais reisais nustatytais maršrutais leidimo
 išdavimo tvarką; 
@@ -872,9 +883,9 @@ kvalifikacijai įgyti bei vairuotojų periodinio profesinio mokymo tvarką;
 12) nustato
 motorinių transporto priemonių vairuotojų, kuriems teisė vairuoti buvo atimta
 dėl KET pažeidimų, papildomo vairuotojų mokymo tvarką;
-13) nustato
-šeimos narių, siekiančių įgyti teisę vairuoti B1 ar B kategorijų transporto
-priemones, mokymo tvarką; 
+13)
+nustato šeimos narių, siekiančių įgyti teisę vairuoti B1 ar B kategorijų
+transporto priemones, mokymo tvarką; 
 14)
 nustato reikalavimus vairavimo instruktoriams ir mokymo įstaigoms bei
 teritorijoms, kuriose bus mokoma pradėti vairuoti motorinę transporto priemonę;
@@ -936,8 +947,7 @@ pažymėjimus;
 nustato motorinių transporto priemonių ir jų priekabų registravimo ir apskaitos
 tvarką; 
 4)
-organizuoja motorinių transporto priemonių ir jų priekabų registravimą ir
-apskaitą;
+organizuoja motorinių transporto priemonių ir jų priekabų registravimą ir apskaitą;
 5) suderinusi
 su Susisiekimo ministerija, nustato motorinės transporto priemonės vairuotojo
 pažymėjimo išdavimo, teisės vairuoti transporto priemones atėmimo ir grąžinimo
@@ -995,9 +1005,9 @@ sprendžia eismo organizavimo klausimus miestų ir kaimų gyvenamosiose vietovė
 vietinės reikšmės keliuose; 
 4)
 rūpinasi vietinės reikšmės kelių ir gatvių priežiūra, transporto
-infrastruktūros objektų projektavimu, statyba, gatvių tiesimu, taisymu ir
-rekonstravimu bei organizuoja medicinos pagalbos teikimą eismo įvykiuose
-nukentėjusiems asmenims;
+infrastruktūros objektų projektavimu, statyba, gatvių tiesimu, taisymu ir rekonstravimu
+bei organizuoja medicinos pagalbos teikimą eismo įvykiuose nukentėjusiems
+asmenims;
 5)
 įgyvendina švietėjišką mokomąją veiklą eismo saugumo srityje;
 6)
@@ -1163,16 +1173,16 @@ specialiosioms transporto priemonėms su įjungtais mėlynais ir (ar) raudonais
 Eismo dalyviai privalo netrukdyti atlikti pareigas transporto
 priemonių su įjungtais oranžiniais žybčiojančiais švyturėliais vairuotojams.
 Straipsnio pakeitimai:
-Nr. XI-1943, 2012-03-27,
-Žin., 2012, Nr. 42-2044 (2012-04-07)
+Nr. XI-1943,
+2012-03-27, Žin., 2012, Nr. 42-2044 (2012-04-07)
  
 13 straipsnis. Bendrosios transporto priemonių vairuotojų pareigos
 1.
-Draudžiama vairuoti motorinę transporto priemonę, traktorių, savaeigę mašiną
-asmenims, neturintiems šios teisės, taip pat esant neblaiviam, apsvaigusiam nuo
-psichiką veikiančių medžiagų ar nepasinaudojus teisės aktų nustatytu privalomu
-kasdieniu poilsiu. Taip pat neleidžiama vairuoti susirgus ar pavargus, jeigu
-dėl to gali kilti pavojus eismo saugumui, duoti transporto priemonę vairuoti asmenims,
+Draudžiama vairuoti motorinę transporto priemonę, traktorių, savaeigę mašiną asmenims,
+neturintiems šios teisės, taip pat esant neblaiviam, apsvaigusiam nuo psichiką
+veikiančių medžiagų ar nepasinaudojus teisės aktų nustatytu privalomu kasdieniu
+poilsiu. Taip pat neleidžiama vairuoti susirgus ar pavargus, jeigu dėl to gali
+kilti pavojus eismo saugumui, duoti transporto priemonę vairuoti asmenims,
 kurie yra paveikti bent vieno iš pirmiau nurodytų veiksnių arba neturi teisės
 vairuoti šią transporto priemonę. 
 2.
@@ -1975,14 +1985,14 @@ draudimą užtikrina transporto priemonės valdytojas ir vairuotojas.
 4. Draudžiama
 dalyvauti viešajame eisme motorinėms transporto priemonėms, kurios pritaikytos
 eismui kairiąja kelio puse ir (ar) turi vairą dešinėje pusėje, išskyrus tas,
-kurios buvo įregistruotos Lietuvos Respublikoje iki 1993 m. gegužės 1 d. arba kurios pagal konstrukciją ir įrangą yra skirtos specialioms darbo
-funkcijoms atlikti. Šis draudimas netaikomas laikinai (iki 90 dienų per metus)
-į Lietuvos Respubliką su užsienio valstybėje įregistruotomis transporto
-priemonėmis atvykusiems užsieniečiams, kurie neturi leidimo laikinai
-apsigyventi arba leidimo nuolat gyventi Lietuvos Respublikoje, taip pat
-Lietuvos Respublikos piliečiams, kurių nuolatinė gyvenamoji vieta yra užsienio
-valstybėje, taip pat transporto priemonėms, kurios teisės aktų nustatyta tvarka
-priskirtos istorinių motorinių transporto priemonių kategorijai.
+kurios buvo įregistruotos Lietuvos Respublikoje iki 1993 m. gegužės 1 d. arba kurios pagal konstrukciją ir įrangą yra skirtos specialioms darbo funkcijoms
+atlikti. Šis draudimas netaikomas laikinai (iki 90 dienų per metus) į Lietuvos
+Respubliką su užsienio valstybėje įregistruotomis transporto priemonėmis
+atvykusiems užsieniečiams, kurie neturi leidimo laikinai apsigyventi arba
+leidimo nuolat gyventi Lietuvos Respublikoje, taip pat Lietuvos Respublikos
+piliečiams, kurių nuolatinė gyvenamoji vieta yra užsienio valstybėje, taip pat
+transporto priemonėms, kurios teisės aktų nustatyta tvarka priskirtos istorinių
+motorinių transporto priemonių kategorijai.
 5.
 Transporto priemonėje draudžiama įrengti greitį matuoti trukdančias priemones
 ir daiktus.
@@ -2391,7 +2401,7 @@ EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 2, 7, 10, 19, 22 STRAIPSNIŲ PAKEITIMO IR
 PAPILDYMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja 2010-07-01; 1 straipsnio 1 dalis įsigalioja 2010-07-01 ir galioja
-iki 2012-12-31; 1 straipsnio 2 dalis įsigalioja 2013-01-01; 3
+iki 2013-06-30; 1 straipsnio 2 dalis įsigalioja 2013-07-01; 3
 straipsnio 1 dalis įsigalioja 2011-01-01.
 Įstatymo
 įsigaliojimas keistas:
@@ -2413,11 +2423,20 @@ SAUGAUS EISMO
 AUTOMOBILIŲ KELIAIS ĮSTATYMO 2, 7, 10, 19, 22 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2012 m. balandžio 1 d.
+3)
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XII-53,
+2012-12-13, Žin., 2012, Nr. 151-7722 (2012-12-21)
+SAUGAUS EISMO
+AUTOMOBILIŲ KELIAIS ĮSTATYMO 2, 7, 10, 19, 22 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
+ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja 2012 m. gruodžio 31 d.
  
 15.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1144,
-2010-11-18, Žin., 2010, Nr. 142-7259 (2010-12-04)
+Nr. XI-1144, 2010-11-18,
+Žin., 2010, Nr. 142-7259 (2010-12-04)
 SAUGAUS EISMO
 AUTOMOBILIŲ KELIAIS ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas
@@ -2427,8 +2446,8 @@ AUTOMOBILIŲ KELIAIS ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1198,
 2010-12-02, Žin., 2010, Nr. 148-7566 (2010-12-18)
-SAUGAUS EISMO AUTOMOBILIŲ
-KELIAIS ĮSTATYMO 27 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+SAUGAUS EISMO
+AUTOMOBILIŲ KELIAIS ĮSTATYMO 27 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 17.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2459,10 +2478,10 @@ SAUGAUS EISMO AUTOMOBILIŲ KELIAIS
 Šis įstatymas,
 išskyrus šio straipsnio 2 dalį, įsigalioja 2013 m. sausio 1 d.
  
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2012-07-20)
-                 
-ausrine.trapinskiene@lrs.lt
+(2012-12-21)
+                  ausrine.trapinskiene@lrs.lt
