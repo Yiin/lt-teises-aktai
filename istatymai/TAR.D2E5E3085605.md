@@ -156,16 +156,17 @@ Pareiginių
 4 straipsnis. Įstatymo įsigaliojimas ir galiojimas
 1. Šio įstatymo 1 straipsnis įsigalioja 2009 m. rugpjūčio
 1 d.
-2. Šio įstatymo 2 straipsnis įsigalioja 2013 m. sausio 1
-d.
+2. Šio įstatymo 2 straipsnis įsigalioja 2014 m. sausio 1 d.
 3. Šio įstatymo 3 straipsnis įsigalioja 2009 m. rugpjūčio
-1 d. ir galioja iki 2012 m. gruodžio 31 d. 
+1 d. ir galioja iki 2013 m. gruodžio 31 d.
 Straipsnio
 pakeitimai:
 Nr. XI-944,
 2010-06-30, Žin., 2010, Nr. 82-4298 (2010-07-13)
 Nr. XI-1721,
 2011-11-22, Žin., 2011, Nr. 150-7036 (2011-12-08)
+Nr. XII-114, 2012-12-20,
+Žin., 2012, Nr. 155-7992 (2012-12-31)
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 
@@ -173,8 +174,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS
 PREZIDENTĖ                                                       DALIA
 GRYBAUSKAITĖ
-_______________
- 
 Pakeitimai:
  
 1.
@@ -182,9 +181,9 @@ Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. XI-944,
 2010-06-30, Žin., 2010, Nr. 82-4298 (2010-07-13)
-VALSTYBĖS TARNYBOS
-ĮSTATYMO 25 STRAIPSNIO IR 1 PRIEDO PAKEITIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO
-ĮSTATYMAS
+VALSTYBĖS
+TARNYBOS ĮSTATYMO 25 STRAIPSNIO IR 1 PRIEDO PAKEITIMO ĮSTATYMO 4 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
  
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -193,9 +192,18 @@ Nr. XI-1721,
 VALSTYBĖS TARNYBOS ĮSTATYMO 25
 STRAIPSNIO IR 1 PRIEDO PAKEITIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-114,
+2012-12-20, Žin., 2012, Nr. 155-7992 (2012-12-31)
+VALSTYBĖS TARNYBOS ĮSTATYMO 25
+STRAIPSNIO IR 1 PRIEDO PAKEITIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo Aušra Bodin (2011-12-12)
-                  aubodi@lrs.lt
+Redagavo Aušrinė Trapinskienė
+(2013-01-04)
+                 
+ausrine.trapinskiene@lrs.lt
 
