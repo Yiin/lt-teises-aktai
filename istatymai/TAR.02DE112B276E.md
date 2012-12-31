@@ -239,12 +239,14 @@ Pareiginių
 1. Šio įstatymo
 1 straipsnis įsigalioja 2009 m. gegužės 1 d.
 2. Šio įstatymo
-2 straipsnis įsigalioja 2013 m. sausio 1 d.
+2 straipsnis įsigalioja 2014 m. sausio 1 d.
 Straipsnio pakeitimai:
 Nr. XI-943, 2010-06-30,
 Žin., 2010, Nr. 82-4297 (2010-07-13)
 Nr. XI-1723, 2011-11-22,
 Žin., 2011, Nr. 150-7038 (2011-12-08)
+Nr. XII-115, 2012-12-20,
+Žin., 2012, Nr. 155-7993 (2012-12-31)
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
@@ -254,7 +256,6 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                                         VALDAS
 ADAMKUS
  
-________________
  
 Pakeitimai:
  
@@ -273,9 +274,15 @@ Nr. XI-1723,
 VALSTYBĖS TARNYBOS ĮSTATYMO 1 PRIEDO
 PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-115,
+2012-12-20, Žin., 2012, Nr. 155-7993 (2012-12-31)
+VALSTYBĖS TARNYBOS ĮSTATYMO 1 PRIEDO
+PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 *** Pabaiga ***
- 
- 
-Redagavo Aušra Bodin (2011-12-12)
-                  aubodi@lrs.lt
+Redagavo Aušrinė Trapinskienė
+(2013-01-04)
+                 
+ausrine.trapinskiene@lrs.lt
 
