@@ -16,12 +16,16 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7690C98816CA"
 Įstatymas
 skelbtas: Žin., 2003, Nr. 38-1656
 Neoficialus įstatymo tekstas
+ 
 LIETUVOS RESPUBLIKOS
 SPECIALIŲJŲ TYRIMŲ
 TARNYBOS STATUTO PATVIRTINIMO
 ĮSTATYMAS
+ 
 2003 m. balandžio 1 d. Nr. IX-1409
 Vilnius
+ 
+ 
 1
 straipsnis. Specialiųjų tyrimų tarnybos statuto patvirtinimas 
 Patvirtinti Specialiųjų tyrimų tarnybos statutą (nauja
@@ -83,8 +87,8 @@ tarnybos ypatumus.
  
 ANTRASIS
 SKIRSNIS
-TARNYBOS SPECIALIŲJŲ
-TYRIMŲ TARNYBOJE ORGANIZAVIMAS 
+TARNYBOS
+SPECIALIŲJŲ TYRIMŲ TARNYBOJE ORGANIZAVIMAS 
  
 2 straipsnis. Reikalavimai asmenims,
 skiriamiems į Specialiųjų tyrimų tarnybą
@@ -95,18 +99,11 @@ tvarka atlikę privalomąją pradinę karo tarnybą, kuriems ši tarnyba įskait
 atidėta arba kurie atleisti nuo karo prievolės, mokantys valstybinę kalbą, taip
 pat tinkantys konkrečioms pareigoms pagal išsilavinimą, intelekto, asmenines ir
 moralines savybes, dalykinį ir fizinį pasirengimą bei sveikatos būklę.
-2. Specialiųjų tyrimų tarnybos direktoriumi ir jo
-pavaduotojais gali būti skiriami tik nepriekaištingos reputacijos asmenys,
-turintys aukštąjį universitetinį arba jam prilygintą išsilavinimą ir ne mažesnį
-kaip 5 metų valstybės tarnyboje stažą.
-2 dalies
-redakcija nuo 2012 m. sausio 1 d.:
 2. Specialiųjų
 tyrimų tarnybos direktoriumi ir jo pavaduotojais gali būti skiriami tik
 nepriekaištingos reputacijos asmenys, turintys aukštąjį universitetinį arba jam
 prilygintą išsilavinimą ir ne mažesnį kaip penkerių metų stažą valstybės
 tarnyboje arba ne mažesnį kaip penkerių metų teisėjo ar prokuroro darbo stažą.
- 
 3. Tarnybos pareigūnais gali būti skiriami asmenys,
 turintys išsilavinimą, būtiną skiriamoms pareigoms pagal Valstybės tarnybos
 įstatymo reikalavimus. Specialiųjų tyrimų tarnybos padalinių vadovais,
@@ -154,15 +151,16 @@ skyrimas į Specialiųjų tyrimų tarnybą
 išskyrus skiriamus Respublikos Prezidento, skiria ir atleidžia iš jos
 Specialiųjų tyrimų tarnybos direktorius.
 2. Asmenys į
-tarnybos pareigūnų pareigas priimami atrankos būdu. Atranka atliekama Specialiųjų
-tyrimų tarnybos direktoriaus įsakymo nustatyta tvarka, siekiant nustatyti, ar
-asmuo tinkamas tarnauti tarnybos pareigūnu. 
+tarnybos pareigūnų pareigas priimami atrankos būdu. Atranka atliekama
+Specialiųjų tyrimų tarnybos direktoriaus įsakymo nustatyta tvarka, siekiant
+nustatyti, ar asmuo tinkamas tarnauti tarnybos pareigūnu. 
  
 5
 straipsnis. Tarnybos pareigūno priesaika
 1.
-Asmuo, paskirtas į Specialiųjų tyrimų tarnybą, prieš pradėdamas eiti pareigas, prisiekia
-Lietuvos valstybei. Prisiekiantis asmuo turi teisę pasirinkti vieną iš šiame straipsnyje nustatytų
+Asmuo, paskirtas į Specialiųjų tyrimų tarnybą, prieš pradėdamas eiti pareigas,
+prisiekia Lietuvos valstybei. Prisiekiantis
+asmuo turi teisę pasirinkti vieną iš šiame straipsnyje nustatytų
 priesaikos tekstų. Nustatomi šie priesaikos
 tekstai:
 1)
@@ -246,8 +244,8 @@ ar sutikimu;
 dėl tarnybos organizavimo pakeitimų;
 3) esant tarnybiniam būtinumui – ne ilgiau kaip 3 mėnesiams;
 4) dėl sveikatos būklės, trukdančios tinkamai atlikti einamas pareigas.
-4. Tarnybos pareigūnas
-į žemesnes pareigas gali būti perkeltas:
+4. Tarnybos
+pareigūnas į žemesnes pareigas gali būti perkeltas:
 1) savo prašymu
 ar sutikimu; 
 2) mažinant pareigybių skaičių dėl tarnybos organizavimo pakeitimų –
@@ -259,13 +257,6 @@ pareigas;
 5) paskyrus tarnybinę nuobaudą – perkėlimą į žemesnes pareigas;
 6) atestacijos
 komisijai įvertinus tarnybos pareigūną nepatenkinamai.
-5. Specialiųjų
-tyrimų tarnybos direktoriaus įsakyme dėl tarnybos pareigūno perkėlimo į
-aukštesnes, lygiareikšmes ar žemesnes pareigas turi būti nurodomas
-perkėlimo pagrindas.
-Straipsnis
-papildomas nauja 5 dalimi, buvusi 5 dalis laikoma 6 dalimi nuo 2012 m. sausio 1
-d.:
 5. Pasibaigus Specialiųjų tyrimų tarnybos
 struktūrinio padalinio, nesančio kitame struktūriniame padalinyje, vadovui ir
 pavaduotojui nustatytam tarnybos laikotarpiui, jie jų sutikimu perkeliami į
@@ -327,12 +318,9 @@ pareigas;
 3) palikti tą pačią (aukščiausią) kvalifikacinę
 kategoriją ir gaunamą priedą už kvalifikacinę kategoriją, jei Specialiųjų
 tyrimų tarnyboje nėra galimybės pasiūlyti aukštesnių pareigų;
-5 dalis
-papildoma 4 punktu nuo 2012 m. sausio 1 d.:
 4) pasibaigus
 paskyrimo į pareigas penkerių metų laikotarpiui pakartotinai skirti į tas
 pačias pareigas.
- 
 6. Atestacijos komisija, įvertinusi tarnybos
 pareigūną nepatenkinamai, Specialiųjų tyrimų tarnybos direktoriui siūlo:
 1) kelti tarnybos pareigūno kvalifikaciją;
@@ -364,8 +352,7 @@ jis negali eiti savo pareigų;
 Lietuvos Respublikos pilietybės;
 4) atestacijos
 komisijos siūlymu atleisti tarnybos pareigūną iš pareigų;
-5) sulaužęs
-priesaiką;
+5) sulaužęs priesaiką;
 6) dėl sveikatos
 būklės, esant atitinkamai Vidaus reikalų ministerijos įsteigtos asmens
 sveikatos priežiūros įstaigos medicininės ekspertizės komisijos ar invalidumą
@@ -407,14 +394,11 @@ sprendimu grąžinamas ankščiau jas ėjęs tarnybos pareigūnas;
 6) kai
 jam įstatymų nustatyta tvarka atimamos specialiosios teisės, susijusios su jo
 tiesioginių pareigų atlikimu;
-2 dalis
-papildoma 7 punktu nuo 2012 m. sausio 1 d.:
 7) kai baigiasi
 tarnybos struktūrinio padalinio, nesančio kitame struktūriniame padalinyje,
 vadovui ir pavaduotojui nustatytas tarnybos laikotarpis ir jie nesutinka būti
 perkelti į kitas laisvas lygiareikšmes, o jeigu jų nėra, – į žemesnes pareigas
 Specialiųjų tyrimų tarnyboje.
- 
 3. Tarnybos pareigūno vardo pažeminimas – tai kaltas
 pareigūno veikimas ar neveikimas, susijęs ar nesusijęs su tarnybinių pareigų
 atlikimu, tačiau akivaizdžiai žeminantis Specialiųjų tyrimų tarnybos
@@ -446,9 +430,9 @@ straipsnis. Reikalavimai atleidžiant iš tarnybos kitais atvejais
 1. Negalima atleisti tarnybos pareigūno iš tarnybos
 jo laikinojo nedarbingumo laikotarpiu ar atostogų metu, išskyrus atleidimą
 pagal šio Statuto 11 straipsnio 1 dalies 1, 2, 6, 11 punktus ir 2 dalies 3 bei
-6 punktus. Jei tarnybos pareigūnas atleistas iš tarnybos pažeidžiant šią
-nuostatą, jo atleidimo diena laikoma kita po atostogų ar kita po laikinojo
-nedarbingumo pasibaigimo tarnybos diena.
+6 punktus. Jei tarnybos pareigūnas atleistas iš tarnybos pažeidžiant šią nuostatą,
+jo atleidimo diena laikoma kita po atostogų ar kita po laikinojo nedarbingumo
+pasibaigimo tarnybos diena.
 2. Negalima atleisti iš tarnybos nėščios tarnybos
 pareigūnės, taip pat tarnybos pareigūno vaiko (vaikų) iki trejų metų priežiūros
 atostogų metu, jeigu nėra šių tarnybos pareigūnų veiksmuose kaltės (išskyrus
@@ -456,8 +440,8 @@ atvejus, kai likviduojama Specialiųjų tyrimų tarnyba ar jos įstaiga).
 3. Atleisti
 tarnybos pareigūną iš tarnybos pagal šio Statuto 11 straipsnio 2 dalies 4
 punktą galima tik įspėjus jį raštu prieš 2 mėnesius. Nėščiai tarnybos
-pareigūnei (kai likviduojama Specialiųjų tyrimų tarnyba ar jos įstaiga), tarnybos
-pareigūnui, auginančiam vaiką (vaikus) iki 14 metų, taip pat tarnybos
+pareigūnei (kai likviduojama Specialiųjų tyrimų tarnyba ar jos įstaiga),
+tarnybos pareigūnui, auginančiam vaiką (vaikus) iki 14 metų, taip pat tarnybos
 pareigūnui, kuriam iki teisės gauti pareigūnų ir karių valstybinę pensiją liko
 ne daugiau kaip 5 metai, apie numatomą atleidimą iš tarnybos turi būti pranešta
 raštu prieš 4 mėnesius. Jei tarnybos pareigūnas atleidžiamas iš tarnybos
@@ -467,8 +451,6 @@ turėjo pasibaigti įspėjimo terminas.
 Statuto 11 straipsnio 2 dalies 4 ir 5 punktus galima tik tuo atveju, jeigu nėra
 galimybės jį perkelti į lygiareikšmes pareigas arba tarnybos pareigūno sutikimu
 į žemesnes pareigas.
-Straipsnis
-papildomas 5 dalimi nuo 2012 m. sausio 1 d.:
 5. Atleisti
 tarnybos pareigūną iš tarnybos pagal šio Statuto 11 straipsnio 2 dalies 7
 punktą galima tik tuo atveju, jeigu jam yra pasiūlomos kitos laisvos
@@ -535,7 +517,8 @@ pareigūnų uniforma siuvama pagal Vyriausybės patvirtintus eskizus ir modelius
 Skiriamųjų ženklų pavyzdžius tvirtina ir jų išdėstymo tvarką nustato
 Vyriausybė. 
 3. Uniforma
-išduodama ir dėvima Specialiųjų tyrimų tarnybos direktoriaus patvirtinta tvarka.
+išduodama ir dėvima Specialiųjų tyrimų tarnybos direktoriaus patvirtinta
+tvarka.
 4. Specialiųjų tyrimų tarnybos direktoriaus
 nustatyta tvarka tarnybos pareigūnams ne dažniau kaip kartą per 3 metus gali
 būti išmokama 80 procentų uniformos vertės kompensacija.
@@ -545,8 +528,8 @@ rengimas ir kvalifikacijos kėlimas
 1. Tarnybos
 pareigūnai gali būti rengiami, taip pat gali kelti kvalifikaciją Lietuvos
 Respublikos ir užsienio valstybių mokslo, mokymo bei kitose įstaigose.
-2. Kvalifikacijos kėlimo laikotarpiu tarnybos
-pareigūnams taikomos šiame Statute numatytos socialinės garantijos. 
+2. Kvalifikacijos kėlimo laikotarpiu tarnybos pareigūnams
+taikomos šiame Statute numatytos socialinės garantijos. 
 3. Tarnybos
 pareigūnų kvalifikacijos kėlimo tvarką nustato Specialiųjų tyrimų tarnybos
 direktorius. 
@@ -632,8 +615,8 @@ PAREIGŪNŲ PASKATINIMAI, TARNYBINIAI NUSIŽENGIMAI, NUOBAUDOS IR ATSAKOMYBĖ
  
 21 straipsnis. Tarnybos pareigūnų
 skatinimai ir apdovanojimai
-1. Specialiųjų tyrimų
-tarnybos direktorius už pavyzdingą tarnybą pareigūnus gali skatinti: 
+1. Specialiųjų
+tyrimų tarnybos direktorius už pavyzdingą tarnybą pareigūnus gali skatinti: 
 1) pareikšdamas
 padėką;
 2) Vyriausybės nustatyta tvarka paskirdamas ne
@@ -1023,7 +1006,7 @@ kvalifikacinę kategoriją sudaro 10 procentų pareiginės algos, už 2-ąją
 kvalifikacinę kategoriją – 20 procentų pareiginės algos, už 1-ąją kvalifikacinę
 kategoriją – 30 procentų pareiginės algos.
 4
-dalies redakcija nuo 2013-01-01:
+dalies redakcija nuo 2014-01-01:
 4. Tarnybos
 pareigūnams priedas pagal Valstybės tarnybos įstatymą už 3-iąją kvalifikacinę
 kategoriją sudaro 15 procentų pareiginės algos, už 2-ąją kvalifikacinę kategoriją
@@ -1076,10 +1059,13 @@ X-1620,
 Nr.
 XI-364,
 2009-07-17, Žin., 2009, Nr. 91-3919 (2009-07-31)
-Nr. XI-949,
+Nr.
+XI-949,
 2010-06-30, Žin., 2010, Nr. 82-4303 (2010-07-13)
 Nr. XI-1719,
 2011-11-22, Žin., 2011, Nr. 150-7034 (2011-12-08)
+Nr. XII-119,
+2012-12-20, Žin., 2012, Nr. 155-7997 (2012-12-31)
 Nr. XI-986,
 2010-07-02, Žin., 2010, Nr. 86-4537 (2010-07-20)
 Nr.
@@ -1094,10 +1080,10 @@ Specialiųjų tyrimų tarnyboje, jo šeimai – vaikams (įvaikiams), kol jiems 
 įregistruotų mokymo įstaigų dieniniuose skyriuose, kol jiems sueis 24 metai,
 sutuoktiniui, žuvusiojo vaikams, gimusiems po jo mirties, tėvui ar motinai –
 bei nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi arba jo mirties
-dieną turėjo teisę gauti jo išlaikymą, per vienus metus nuo pareigūno mirties
-lygiomis dalimis išmokama 120 mėnesių darbo užmokesčio dydžio vienkartinė
-kompensacija. Tarnybos pareigūnas, žuvęs dėl tarnybos Specialiųjų tyrimų
-tarnyboje, laidojamas valstybės lėšomis. 
+dieną turėjo teisę gauti jo išlaikymą, per vienus metus nuo pareigūno mirties lygiomis
+dalimis išmokama 120 mėnesių darbo užmokesčio dydžio vienkartinė kompensacija.
+Tarnybos pareigūnas, žuvęs dėl tarnybos Specialiųjų tyrimų tarnyboje,
+laidojamas valstybės lėšomis. 
 2. Tarnybos pareigūną pripažinus nežinia kur esančiu
 ar paskelbus žuvusiu, laikoma, kad jis yra pripažintas nežinia kur esančiu ar
 paskelbtas žuvusiu dėl tarnybos, jeigu neįrodyta kitaip, ir jo šeimai bei
@@ -1137,21 +1123,12 @@ atlyginama materialinė žala, kurią jie patiria dėl tarnybos.
  
 32 straipsnis. Išmokos pareigūnams,
 atleidžiamiems iš Specialiųjų tyrimų tarnybos
-1. Atleidžiant tarnybos
-pareigūnus iš Specialiųjų tyrimų tarnybos Specialiųjų tyrimų tarnybos įstatymo
-12 straipsnio 1 dalies 4 arba 7 punkto, 12 straipsnio 2 dalies, šio Statuto 11
-straipsnio 1 dalies 6 punkto, 2 dalies 3, 4 arba 5 punkto nustatytais
-pagrindais, išmokama dviejų mėnesių jų vidutinio darbo užmokesčio dydžio
-išeitinė pašalpa.
-1 dalies
-redakcija nuo 2012 m. sausio 1 d.:
-1. Atleidžiant tarnybos
-pareigūnus iš Specialiųjų tyrimų tarnybos Specialiųjų tyrimų tarnybos įstatymo
-12 straipsnio 1 dalies 4 arba 7 punkto, 12 straipsnio 2 dalies, šio Statuto 11
+1. Atleidžiant tarnybos pareigūnus
+iš Specialiųjų tyrimų tarnybos Specialiųjų tyrimų tarnybos įstatymo 12
+straipsnio 1 dalies 4 arba 7 punkto, 12 straipsnio 2 dalies, šio Statuto 11
 straipsnio 1 dalies 6 punkto, 2 dalies 3, 4, 5 arba 7 punkto nustatytais
 pagrindais, išmokama dviejų mėnesių vidutinio darbo užmokesčio dydžio išeitinė
 pašalpa.
- 
 2. Šio straipsnio 1 dalyje
 nustatyto dydžio išeitinė pašalpa tarnybos pareigūnams, turintiems daugiau kaip
 5 metus tarnybos stažo, didinama pusantro karto, daugiau kaip 10 metų – du
@@ -1178,8 +1155,8 @@ straipsnis. tarnybos laikas
 1.
 Tarnybos pareigūnai, išskyrus Specialiųjų tyrimų tarnybos direktorių,
 Specialiųjų tyrimų tarnyboje tarnauja:
-1) iki vyresniojo specialiojo
-agento įskaitytinai – kol jiems sukanka 50 metų;
+1) iki vyresniojo specialiojo agento
+įskaitytinai – kol jiems sukanka 50 metų;
 2) vyriausieji
 specialieji agentai – kol jiems sukanka 55 metai.
 2. Specialiųjų tyrimų tarnybos direktorius tarnauja
@@ -1230,7 +1207,6 @@ Specialiųjų
 tyrimų tarnybos pareigūnų turimi pareiginiai laipsniai prilyginami šio Statuto
 19 straipsnyje numatytiems tarnybiniams rangams. 
  
-_______________
  
 Pakeitimai:
  
@@ -1325,7 +1301,7 @@ TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šio įstatymo
 1 straipsnis įsigalioja 2009 m. rugpjūčio 1 d.
 Šio įstatymo
-2 straipsnis įsigalioja 2013 m. sausio 1 d.
+2 straipsnis įsigalioja 2014 m. sausio 1 d.
 Įstatymo
 įsigaliojimas keistas:
 1)
@@ -1345,12 +1321,20 @@ Nr. XI-1719,
 SPECIALIŲJŲ
 TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
+3)
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. XII-119,
+2012-12-20, Žin., 2012, Nr. 155-7997 (2012-12-31)
+SPECIALIŲJŲ
+TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
  
 8.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XI-986, 2010-07-02,
-Žin., 2010, Nr. 86-4537 (2010-07-20)
+Nr. XI-986,
+2010-07-02, Žin., 2010, Nr. 86-4537 (2010-07-20)
 SPECIALIŲJŲ
 TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šio įstatymo nuostatos dėl
@@ -1394,12 +1378,13 @@ TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 įstatymo nuostatos taikomos apskaičiuojant ligos išmokas nuo 2012 m. sausio 1
 d.
  
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2012-01-05)
+Aušrinė Trapinskienė (2013-01-09)
                  
 ausrine.trapinskiene@lrs.lt
 
