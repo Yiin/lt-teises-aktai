@@ -572,16 +572,19 @@ kuriuose
 1. Šio įstatymo
 1 straipsnis įsigalioja 2009 m. gegužės 1 d.
 2. Šio įstatymo
-2 straipsnis įsigalioja 2013 m. sausio 1 d.
+2 straipsnis įsigalioja 2014 m. sausio 1 d.
 Straipsnio
 pakeitimas:
 Nr. XI-952,
 2010-06-30, Žin., 2010, Nr. 82-4306 (2010-07-13)
 Nr. XI-1729,
 2011-11-22, Žin., 2011, Nr. 150-7044 (2011-12-08)
+Nr. XII-113,
+2012-12-20, Žin., 2012, Nr. 155-7991 (2012-12-31)
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
+ 
 
 
 
@@ -590,7 +593,6 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS
 ADAMKUS
  
-_____________
  
 Pakeitimai:
  
@@ -610,8 +612,16 @@ Nr. XI-1729,
 TEISĖJŲ ATLYGINIMŲ ĮSTATYMO PRIEDĖLIO
 PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-113,
+2012-12-20, Žin., 2012, Nr. 155-7991 (2012-12-31)
+TEISĖJŲ ATLYGINIMŲ ĮSTATYMO PRIEDĖLIO
+PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
-Redagavo Aušra Bodin (2011-12-13)
-                  aubodi@lrs.lt
+Redagavo Aušrinė Trapinskienė
+(2013-01-08)
+                  ausrine.trapinskiene@lrs.lt
