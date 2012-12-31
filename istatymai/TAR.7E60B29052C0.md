@@ -1249,12 +1249,125 @@ Vyriausybės
 
 
 
- 
 Pastaba. Komisijų ir
 tarybų, kurių posėdžiai vyksta periodiškai, nariams pareiginės algos dydis
 apskaičiuojamas proporcingai dirbtam laikui.
  
+Priedėlis papildomas V skyriumi nuo 2013-01-01.
+V skyriaus redakcija iki 2013-12-31:
+V. ŽVALGYBOS
+PAREIGŪNŲ PAREIGINĖS ALGOS
  
+                                                                                                (Baziniais
+dydžiais)
+
+
+
+Pareigų
+  pavadinimas
+
+
+Pareiginės
+  algos koeficientas 
+
+
+
+
+Direktorius
+
+
+12,3
+
+
+
+
+Direktoriaus pavaduotojas
+
+
+11,5
+
+
+
+
+Valdybos viršininkas
+
+
+10,4
+
+
+
+
+Valdybos viršininko pavaduotojas
+
+
+10
+
+
+
+
+Skyriaus viršininkas
+
+
+9,4
+
+
+
+
+Skyriaus viršininko pavaduotojas
+
+
+8,8
+
+
+
+
+Poskyrio viršininkas
+
+
+8,5
+
+
+
+
+Vyriausiasis specialistas
+
+
+8,3
+
+
+
+
+Vyresnysis specialistas
+
+
+7,6
+
+
+
+
+Specialistas
+
+
+6,3
+
+
+
+
+Jaunesnysis specialistas
+
+
+4,9
+
+
+
+Pastaba.
+Jeigu
+žvalgybos pareigūno darbo užmokestis (pareiginė alga su priedais), nustatytas
+nuo 2013 m. sausio 1 d., yra mažesnis, negu gautas iki įstatymo Nr. XII-122 įsigaliojimo,
+žvalgybos pareigūnui nuo 2013 m. sausio 1 d. iki 2013 m. gruodžio 31 d. mokamas
+buvusio dydžio darbo užmokestis.
+
+
 Priedėlio
 redakcija nuo 2014 m. sausio 1 d.: 
                                                                                     Lietuvos
@@ -1322,8 +1435,8 @@ Pirmininko pirmasis pavaduotojas
 2.2.
 
 
-Pirmininko pavaduotojai, Seimo
-  opozicijos lyderis 
+Pirmininko pavaduotojai, Seimo opozicijos
+  lyderis 
 
 
 22,4
@@ -2172,7 +2285,6 @@ Vyriausybės
 
 
 
- 
 Pastaba. Komisijų ir
 tarybų, kurių posėdžiai vyksta periodiškai, nariams pareiginės algos dydis
 apskaičiuojamas proporcingai dirbtam laikui.
@@ -2358,7 +2470,8 @@ XI-1726,
 2011-11-22, Žin., 2011, Nr. 150-7041 (2011-12-08)
 Nr. XI-1840,
 2011-12-21, Žin., 2011, Nr. 163-7750 (2011-12-31)
-Nr. XII-110, 2012-12-20, Žin., 2012, Nr. 155-7988 (2012-12-31)
+Nr. XII-110,
+2012-12-20, Žin., 2012, Nr. 155-7988 (2012-12-31)
 Nr. XI-865,
 2010-06-03, Žin., 2010, Nr. 71-3543 (2010-06-19)
 Nr. XI-1581,
@@ -2369,12 +2482,16 @@ Nr. XI-1788,
 2011-12-09, Žin., 2011, Nr. 156-7385 (2011-12-22)
 Nr. XI-1834,
 2011-12-21, Žin., 2011, Nr. 163-7747 (2011-12-31)
+Nr. XII-111,
+2012-12-20, Žin., 2012, Nr. 155-7989 (2012-12-31)
 Nr. XI-2180,
 2012-06-29, Žin., 2012, Nr. 82-4266 (2012-07-13)
 Nr. XI-2181,
 2012-06-29, Žin., 2012, Nr. 82-4267 (2012-07-13)
 Nr. XI-2296,
 2012-10-17, Žin., 2012, Nr. 129-6470 (2012-11-08)
+Nr. XII-122,
+2012-12-20, Žin., 2012, Nr. 155-8000 (2012-12-31)
  
  
 Pakeitimai:
@@ -2452,8 +2569,8 @@ Nr.
 IX-1012,
 2002-07-02, Žin., 2002, Nr. 72-3018 (2002-07-17)
 VALSTYBĖS
-POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 7 STRAIPSNIŲ
-IR ĮSTATYMO PRIEDĖLIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2, 7
+STRAIPSNIŲ IR ĮSTATYMO PRIEDĖLIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 9.
 Lietuvos
@@ -2525,8 +2642,8 @@ STRAIPSNIŲ IR ĮSTATYMO PRIEDĖLIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1738,
-2003-09-18, Žin., 2003, Nr. 94-4247 (2003-10-08)
+IX-1738, 2003-09-18,
+Žin., 2003, Nr. 94-4247 (2003-10-08)
 VALSTYBĖS
 POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO
 PAPILDYMO ĮSTATYMAS
@@ -2614,8 +2731,8 @@ Respublikos Seimas, Įstatymas
 Nr. X-1773,
 2008-11-06, Žin., 2008, Nr. 131-5021 (2008-11-15)
 VALSTYBĖS
-POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PAVADINIMO, 1,
-2, 3, 4, 5, 7 STRAIPSNIŲ IR ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMAS
+POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PAVADINIMO,
+1, 2, 3, 4, 5, 7 STRAIPSNIŲ IR ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMAS
 Šio
 įstatymo 9 straipsnis įsigalioja 2009 m. sausio 1 d.
 Keistas įstatymo pavadinimas
@@ -2769,15 +2886,16 @@ VALSTYBĖS POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO
 PRIEDĖLIO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 4)
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-110, 2012-12-20, Žin., 2012, Nr. 155-7988 (2012-12-31)
+Nr. XII-110,
+2012-12-20, Žin., 2012, Nr. 155-7988 (2012-12-31)
 VALSTYBĖS POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO
 PRIEDĖLIO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 29.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XI-865,
-2010-06-03, Žin., 2010, Nr. 71-3543 (2010-06-19)
+Nr. XI-865, 2010-06-03,
+Žin., 2010, Nr. 71-3543 (2010-06-19)
 VALSTYBĖS
 POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2 STRAIPSNIO IR
 ĮSTATYMO PRIEDĖLIO IV SKIRSNIO PAPILDYMO ĮSTATYMAS
@@ -2819,7 +2937,13 @@ VALSTYBĖS POLITIKŲ
 IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO III SKIRSNIO
 PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2012 m. gegužės
-1 d. ir galioja iki 2012 m. gruodžio 31 d.
+1 d. ir galioja iki 2013 m. gruodžio 31 d.
+Šio įstatymo galiojimas keistas:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-111,
+2012-12-20, Žin., 2012, Nr. 155-7989 (2012-12-31)
+VALSTYBĖS POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO
+PRIEDĖLIO III SKIRSNIO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 33.
 Lietuvos
@@ -2850,6 +2974,22 @@ VALSTYBĖS POLITIKŲ
 IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2 IR 3 STRAIPSNIŲ PAKEITIMO IR
 PAPILDYMO BEI ĮSTATYMO PRIEDĖLIO PAPILDYMO V SKYRIUMI ĮSTATYMAS
 Šis įstatymas įsigalioja 2013-01-01.
+Šis įstatymas keistas:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-122,
+2012-12-20, Žin., 2012, Nr. 155-8000 (2012-12-31)
+VALSTYBĖS POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2 IR
+3 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PRIEDĖLIO PAPILDYMO V SKYRIUMI
+ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Jeigu žvalgybos
+pareigūno darbo užmokestis (pareiginė alga su priedais), nustatytas nuo 2013 m.
+sausio 1 d., yra mažesnis, negu gautas iki šio įstatymo įsigaliojimo, žvalgybos
+pareigūnui nuo 2013 m. sausio 1 d. iki 2013 m. gruodžio 31 d. mokamas buvusio
+dydžio darbo užmokestis.
+Šio įstatymo 1
+straipsnis galioja iki 2013 m. gruodžio 31 d. 
+Šio įstatymo 2
+straipsnis įsigalioja 2014 m. sausio 1 d.
  
  
 *** Pabaiga ***
