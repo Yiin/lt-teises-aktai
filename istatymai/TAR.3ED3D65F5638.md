@@ -13,16 +13,20 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3ED3D65F5638"
 
 # Lietuvos Respublikos valstybės rezervo įstatymas
 
-Suvestinė redakcija nuo 2011-07-01 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 78-2359, i. k. 1001010ISTAIII-1908
  
-LIETUVOS RESPUBLIKOS
+Nauja redakcija nuo 2013-01-01:
+Nr. XI-2065, 2012-06-12, Žin. 2012, Nr. 69-3530 (2012-06-21), i. k. 1121010ISTA0XI-2065
+ 
+LIETUVOS RESPUBLIKOS 
 VALSTYBĖS REZERVO
-Į S T A T Y M A S
+ĮSTATYMAS
  
 2000 m. rugpjūčio 31 d. Nr. VIII-1908
 Vilnius
+ 
  
 
 
@@ -34,18 +38,23 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis ir taikymas
 
 
-1. Šis įstatymas reglamentuoja Lietuvos valstybės rezervo (toliau – valstybės rezervo) sudarymą, kaupimą, tvarkymą ir administravimą. 
+1. Šis įstatymas nustato Lietuvos valstybės rezervo (toliau – valstybės rezervas) sudarymą, kaupimą, tvarkymą ir administravimą.
 
 
 
 
-2. Sudarant, kaupiant ir tvarkant naftos ir naftos produktų atsargas, šis įstatymas taikomas tiek, kiek jų sudarymo, kaupimo ir tvarkymo nereglamentuoja kiti Lietuvos Respublikos įstatymai. 
+2. Šis įstatymas netaikomas:
+
+
+1) naftos produktų ir naftos valstybės atsargoms, išskyrus šiame įstatyme nustatytus jų panaudojimo atvejus ir tvarką;
 
 
 
 
-3. Šis įstatymas netaikomas kariuomenės mobilizacinėms atsargoms.
+2) kariuomenės materialinių išteklių atsargoms.
  
+
+
 
 
 
@@ -55,71 +64,57 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Valstybės rezervas – piniginės lėšos (nacionaline ir užsienio valiuta) ir valstybės lėšomis įsigytos materialinių išteklių atsargos bei privalomosios materialinių išteklių atsargos mobilizaciniams poreikiams, ūkio ir civilinės saugos sistemos funkcionavimo poreikiams patenkinti paskelbus mobilizaciją, įvedus nepaprastąją ar karo padėtį, ekstremaliųjų situacijų, ekonominės grėsmės sąlygomis ar kitais šio įstatymo nustatytais atvejais.
-Straipsnio dalies pakeitimai:
-Nr. X-807, 2006-09-14, Žin., 2006, Nr. 107-4045 (2006-10-06), i. k. 1061010ISTA000X-807
-Nr. XI-1417, 2011-05-26, Žin., 2011, Nr. 72-3468 (2011-06-14), i. k. 1111010ISTA0XI-1417
- 
+1. Valstybės rezervas – lėšos (nacionaline ir užsienio valiuta) ir valstybės lėšomis įsigytos materialinių išteklių atsargos, skirtos mobilizaciniams, ūkio, sveikatos ir civilinės saugos sistemos funkcionavimo ir nukentėjusių gyventojų poreikiams tenkinti ekstremaliųjų situacijų metu ir jų padariniams likviduoti, paskelbus mobilizaciją, įvedus nepaprastąją ar karo padėtį ar kitais šio įstatymo nustatytais atvejais.
 
 
 
 
-2. Materialiniai ištekliai – žaliavos, medžiagos, pagrindiniai energijos ištekliai, žemės ūkio produktai, maisto produktai ir jų pusgaminiai, vaistai ir medicinos reikmenys, mašinos, įrenginiai, ryšių, sanitarijos ir civilinės saugos priemonės.
+2. Valstybės rezervo administravimas – valstybės rezervo koordinatoriaus, valstybės rezervo tvarkytojų ir valstybės rezervo atsakingųjų saugotojų funkcijų įgyvendinimas sudarant, kaupiant ir tvarkant valstybės rezervą.
 
 
 
 
-3. Privalomosios materialinių išteklių atsargos – materialiniai ištekliai, kuriuos šio įstatymo ir kitų teisės aktų nustatyta tvarka įpareigoti subjektai privalo kaupti ir tvarkyti. 
+3. Valstybės rezervo atsakingasis saugotojas – valstybės ar savivaldybės institucija, įstaiga ar įmonė, teisės aktų nustatyta tvarka sauganti ir įtraukianti į apskaitą valstybės rezervo materialinių išteklių atsargas.
 
 
 
 
-4. Ekstremali situacija – padėtis, kuri atsiranda dėl gamtinių, techninių, ekologinių ar socialinių priežasčių arba karo veiksmų ir lemia staigų bei didelį pavojų žmonių gyvybei ar sveikatai, turtui, gamtai arba žmonių žūtį, sužalojimą ar turtinius nuostolius.
+4. Valstybės rezervo kaupimas – valstybės rezervo lėšų pervedimas į atskirą valstybės iždo sąskaitą Lietuvos banke bei materialinių išteklių įsigijimas ir perdavimas valstybės rezervo atsakingajam saugotojui.
 
 
 
 
-5. Ekonominė grėsmė – materialinių išteklių tiekimo kliūtys, dėl kurių gali sutrikti Lietuvos Respublikos ar jos teritorijos administracinio vieneto ūkio normali veikla.
+5. Valstybės rezervo koordinatorius – Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) įgaliota institucija, koordinuojanti valstybės rezervo tvarkytojų veiklą.
 
 
 
 
-6. Valstybės rezervo sudarymas – valstybės rezervo nomenklatūros, piniginių lėšų dydžio, materialinių išteklių atsargų kiekio, jų sukaupimo terminų ir saugojimo sąlygų nustatymas.
+6. Valstybės rezervo materialinių išteklių atsargos – būtiniausios žemės ūkio ir maisto produktų, civilinės saugos priemonių, medicinos ir kitos ūkio atsargos.
 
 
 
 
-7. Valstybės rezervo kaupimas – piniginių lėšų pervedimas į valstybės rezervo sąskaitą bei materialinių išteklių laikymas saugojimo vietose.
+7. Valstybės rezervo naudojimas – valstybės rezervo lėšų ir materialinių išteklių atsargų panaudojimas šio įstatymo nustatytais atvejais ir tvarka.
 
 
 
 
-8. Valstybės rezervo tvarkymas – valstybės rezervo piniginių lėšų naudojimas, apskaita ir valstybės rezervo materialinių išteklių atsargų saugojimas, keitimas, atnaujinimas, nurašymas, naudojimas, atkūrimas bei apskaita.
+8. Valstybės rezervo sudarymas – valstybės rezervo lėšų dydžio, materialinių išteklių atsargų nomenklatūros ir kiekio bei sukaupimo terminų ir saugojimo sąlygų nustatymas.
 
 
 
 
-9. Valstybės rezervo naudojimas – valstybės rezervo piniginių lėšų ir materialinių išteklių atsargų negrąžintinas perdavimas, valstybės rezervo materialinių išteklių atsargų pardavimas arba valstybės rezervui priklausančių mašinų, įrenginių bei ryšių, medicinos ir civilinės saugos priemonių panaudojimas šio įstatymo nustatytais atvejais ir tvarka.
+9. Valstybės rezervo tvarkymas – valstybės rezervo lėšų naudojimas, apskaita ir valstybės rezervo materialinių išteklių atsargų laikymas saugojimo vietose, keitimas, atnaujinimas, nurašymas, naudojimas, atkūrimas ir apskaita.
 
 
 
 
-10. Valstybės rezervo administravimas – valstybės rezervo koordinatoriaus, valstybės rezervo tvarkytojų bei valstybės rezervo atsakingųjų saugotojų funkcijų įgyvendinimas sudarant, kaupiant ir tvarkant valstybės rezervą. 
+10. Valstybės rezervo tvarkytojas – Vyriausybės įgaliota valstybės institucija, organizuojanti valstybės rezervo atitinkamos rūšies materialinių išteklių atsargų sudarymą, kaupimą ir tvarkymą.
 
 
 
 
-11. Valstybės rezervo koordinatorius – Vyriausybės įgaliota institucija, koordinuojanti valstybės rezervo tvarkytojų veiklą.
-
-
-
-
-12. Valstybės rezervo tvarkytojas – valstybės ar savivaldybės institucija, valstybės ar savivaldybės įstaiga, organizuojanti valstybės rezervo sudarymą, kaupimą ir tvarkymą jai pavestoje veiklos srityje. 
-
-
-
-
-13. Valstybės rezervo atsakingasis saugotojas – valstybės ar savivaldybės institucija, valstybės ar savivaldybės įstaiga, įmonė bei organizacija, šio įstatymo nustatyta tvarka sauganti, naudojanti bei apskaitanti valstybei nuosavybės teise priklausančias valstybės rezervo materialinių išteklių atsargas ir (arba) kaupianti bei tvarkanti privalomąsias materialinių išteklių atsargas.
+11. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civilinės saugos įstatyme (toliau – Civilinės saugos įstatymas), Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatyme (toliau – Mobilizacijos ir priimančiosios šalies paramos įstatymas), Lietuvos Respublikos nepaprastosios padėties įstatyme ir Lietuvos Respublikos karo padėties įstatyme.
  
 
 
@@ -130,12 +125,10 @@ Nr. XI-1417, 2011-05-26, Žin., 2011, Nr. 72-3468 (2011-06-14), i. k. 1111010IST
 3 straipsnis. Valstybės rezervo sudarymo, kaupimo ir tvarkymo teisiniai pagrindai
 
 
-Sudarant, kaupiant ir tvarkant valstybės rezervą, privalo dalyvauti valstybės, savivaldybės institucijos ir įstaigos, taip pat visų rūšių ir nuosavybės formų įmonės, užsienio valstybių įmonių filialai ir atstovybės (toliau – ūkio subjektai), vadovaudamiesi šiuo, Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos ir Civilinės saugos įstatymais.
-
-
-Straipsnio pakeitimai:
-Nr. XI-1417, 2011-05-26, Žin., 2011, Nr. 72-3468 (2011-06-14), i. k. 1111010ISTA0XI-1417
+Sudarydamos, kaupdamos ir tvarkydamos valstybės rezervą, valstybės ir savivaldybių institucijos, įstaigos ar įmonės privalo vadovautis šiuo įstatymu, Civilinės saugos įstatymu ir Mobilizacijos ir priimančiosios šalies paramos įstatymu.
  
+
+
 
 
 
@@ -143,43 +136,32 @@ Nr. XI-1417, 2011-05-26, Žin., 2011, Nr. 72-3468 (2011-06-14), i. k. 1111010IST
 4 straipsnis. Valstybės rezervo sudėtis
 
 
-1. Valstybės rezervą sudaro piniginės lėšos ir valstybės rezervo materialinių išteklių atsargos. 
+1. Valstybės rezervą sudaro lėšos ir valstybės rezervo materialinių išteklių atsargos.
 
 
 
 
-2. Valstybės rezervo piniginės lėšos yra skirtos materialiniams ištekliams įsigyti, gelbėjimo bei atstatymo darbams ir kitoms reikmėms finansuoti ekstremalių situacijų ir ekonominės grėsmės metu. 
+2. Valstybės rezervo lėšos yra skirtos materialiniams ištekliams įsigyti, gelbėjimo ir atstatymo darbams ir kitoms reikmėms finansuoti ekstremaliųjų situacijų metu bei jų padariniams likviduoti, mobilizacijos, nepaprastosios padėties ar karo padėties metu ir kitais šio įstatymo nustatytais atvejais.
 
 
 
 
-3. Valstybės rezervo materialinių išteklių atsargas sudaro civilinės saugos priemonių atsargos ir ūkio atsargos. 
-Straipsnio dalies pakeitimai:
-Nr. XI-1417, 2011-05-26, Žin., 2011, Nr. 72-3468 (2011-06-14), i. k. 1111010ISTA0XI-1417
- 
+3. Civilinės saugos priemonių atsargos – valstybės rezervo materialinių išteklių atsargų dalis, skiriama civilinės saugos sistemos funkcionavimui užtikrinti ekstremaliųjų situacijų metu bei civilinės saugos pratyboms, teikiant priimančiosios šalies paramą, mobilizacinio ir priimančiosios šalies paramos mokymo pratyboms, paskelbus mobilizaciją arba mobilizacijos atveju ir nepaprastosios ar karo padėties metu bei kitais šio įstatymo nustatytais atvejais.
 
 
 
 
-4. Neteko galios nuo 2011-07-01
-Straipsnio dalies naikinimas:
-Nr. XI-1417, 2011-05-26, Žin. 2011, Nr. 72-3468 (2011-06-14), i. k. 1111010ISTA0XI-1417
- 
+4. Medicinos atsargos – valstybės rezervo materialinių išteklių atsargų dalis, skiriama sveikatos priežiūrai užtikrinti ekstremaliųjų situacijų metu, civilinės saugos pratyboms, teikiant priimančiosios šalies paramą, mobilizacinio ir priimančiosios šalies paramos mokymo pratyboms, mobilizacijos atveju ir nepaprastosios ar karo padėties metu bei kitais šio įstatymo nustatytais atvejais.
 
 
 
 
-5. Civilinės saugos priemonių atsargos – valstybės rezervo materialinių išteklių atsargų dalis, skiriama civilinės saugos sistemos funkcionavimui užtikrinti mobilizacijos ir ekstremalių situacijų metu bei civilinės saugos treniruotėms ir pratyboms. 
-Straipsnio dalies pakeitimai:
-Nr. X-807, 2006-09-14, Žin., 2006, Nr. 107-4045 (2006-10-06), i. k. 1061010ISTA000X-807
- 
+5. Žemės ūkio ir maisto produktų atsargos – valstybės rezervo materialinių išteklių atsargų dalis, skiriama nukentėjusiems gyventojams aprūpinti žemės ūkio ir maisto produktais ekstremaliųjų situacijų metu, teikiant priimančiosios šalies paramą, mobilizacinio ir priimančiosios šalies paramos mokymo pratyboms, paskelbus mobilizaciją arba mobilizacijos atveju ir nepaprastosios ar karo padėties metu bei kitais šio įstatymo nustatytais atvejais.
 
 
 
 
-6. Ūkio atsargos – valstybės rezervo materialinių išteklių atsargų dalis, įskaitant privalomąsias materialinių išteklių atsargas, skiriama būtiniausiems valstybės, savivaldybių institucijų ir įstaigų, taip pat ūkio subjektų ir gyventojų poreikiams tenkinti ekstremaliųjų situacijų, mobilizacijos, karo padėties, ekonominės grėsmės metu ir teikiant priimančiosios šalies paramą.
-Straipsnio dalies pakeitimai:
-Nr. XI-1417, 2011-05-26, Žin., 2011, Nr. 72-3468 (2011-06-14), i. k. 1111010ISTA0XI-1417
+6. Ūkio atsargos – valstybės rezervo materialinių išteklių atsargų dalis, skiriama būtiniausiems valstybės, savivaldybių institucijų, įstaigų, įmonių bei gyventojų poreikiams tenkinti ekstremaliųjų situacijų metu, mobilizacijos, nepaprastosios ar karo padėties metu, teikiant priimančiosios šalies paramą ir kitais šio įstatymo nustatytais atvejais.
  
 
 
@@ -190,12 +172,7 @@ Nr. XI-1417, 2011-05-26, Žin., 2011, Nr. 72-3468 (2011-06-14), i. k. 1111010IST
 5 straipsnis. Valstybės rezervo nuosavybė
 
 
-1. Valstybės rezervo piniginės lėšos ir materialinių išteklių atsargos, įsigytos valstybės lėšomis, nepaisant jų saugojimo vietos, yra valstybės nuosavybė.
-
-
-
-
-2. Privalomosios materialinių išteklių atsargos yra ūkio subjektų, kurie šias atsargas kaupia ir tvarko, nuosavybė. Šių materialinių išteklių atsargų valdymo, naudojimo ir disponavimo jomis apribojimus nustato šis įstatymas. Šio įstatymo 13 straipsnyje nustatytais atvejais panaudojus privalomąsias materialinių išteklių atsargas, ūkio subjektams atlyginama Vyriausybės nustatyta tvarka. 
+Valstybės rezervo lėšos ir materialinių išteklių atsargos, įsigytos valstybės lėšomis, nepaisant jų saugojimo vietos, yra valstybės nuosavybė.
  
 
 
@@ -206,7 +183,7 @@ Nr. XI-1417, 2011-05-26, Žin., 2011, Nr. 72-3468 (2011-06-14), i. k. 1111010IST
 6 straipsnis. Valstybės rezervo finansavimas
 
 
-1. Valstybės rezervo sudarymas, piniginių lėšų kaupimas ir tvarkymas bei valstybei nuosavybės teise priklausančių materialinių išteklių atsargų kaupimas ir tvarkymas finansuojamas:
+1. Valstybės rezervo sudarymas, kaupimas ir tvarkymas finansuojamas:
 
 
 1) valstybės biudžeto asignavimais;
@@ -214,7 +191,7 @@ Nr. XI-1417, 2011-05-26, Žin., 2011, Nr. 72-3468 (2011-06-14), i. k. 1111010IST
 
 
 
-2) lėšomis, gautomis realizavus valstybei nuosavybės teise priklausančias valstybės rezervo materialinių išteklių atsargas;
+2) lėšomis, gautomis pardavus valstybei nuosavybės teise priklausančias valstybės rezervo materialinių išteklių atsargas;
 
 
 
@@ -231,17 +208,12 @@ Nr. XI-1417, 2011-05-26, Žin., 2011, Nr. 72-3468 (2011-06-14), i. k. 1111010IST
 
 
 
-2. Šio straipsnio 1 dalyje išvardytų finansavimo šaltinių lėšų apskaita tvarkoma Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, remiantis Biudžeto sandaros įstatymu, Valstybės iždo įstatymu ir kitais teisės aktais pagal specialiąsias valstybės rezervo programas. Šių programų lėšas naudoja valstybės rezervo tvarkytojai. 
+2. Šio straipsnio 1 dalyje išvardytų finansavimo šaltinių lėšų apskaita tvarkoma vadovaujantis Lietuvos Respublikos buhalterinės apskaitos įstatymu (toliau – Buhalterinės apskaitos įstatymas), Lietuvos Respublikos biudžeto sandaros įstatymu, Lietuvos Respublikos valstybės iždo įstatymu ir kitais teisės aktais pagal valstybės rezervo programas. Šių programų lėšas naudoja valstybės rezervo tvarkytojai.
 
 
 
 
-3. Vyriausybė kasmet nustato valstybės rezervo piniginių lėšų sumą, kuri negali būti panaudota einamajam valstybės rezervo materialinių išteklių atsargų kaupimui ir tvarkymui. Šias valstybės rezervo pinigines lėšas naudoja valstybės rezervo koordinatorius.
-
-
-
-
-4. Privalomųjų materialinių išteklių atsargų kaupimą bei tvarkymą finansuoja ūkio subjektai, kaupiantys ir tvarkantys šias atsargas.
+3. Vyriausybė kiekvienais metais nustato valstybės rezervo lėšų sumą, kuri negali būti panaudota einamajam valstybės rezervo materialinių išteklių atsargų kaupimui ir tvarkymui. Šias valstybės rezervo lėšas naudoja valstybės rezervo koordinatorius.
  
 
 
@@ -252,12 +224,7 @@ Nr. XI-1417, 2011-05-26, Žin., 2011, Nr. 72-3468 (2011-06-14), i. k. 1111010IST
 7 straipsnis. Valstybės rezervo duomenų slaptumas
 
 
-1. Valstybės rezervo duomenys yra įslaptinta informacija, kuri įslaptinama, saugoma, naudojama ir išslaptinama įstatymų nustatyta tvarka, jei šis įstatymas nenustato ko kita. Duomenų apsaugą organizuoja bei vykdo valstybės rezervo koordinatorius, valstybės rezervo tvarkytojai ir valstybės rezervo atsakingieji saugotojai.
-
-
-
-
-2. Duomenys apie sukauptas valstybės rezervo naftos ir naftos produktų atsargas, jų naudojimą bei su tuo susijusius Vyriausybės sprendimus ir (ar) terminuotą šių atsargų sumažinimą teikiami Europos Komisijai Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+Valstybės rezervo duomenys yra įslaptinta informacija, kuri įslaptinama, saugoma, naudojama ir išslaptinama įstatymų nustatyta tvarka, jeigu šis įstatymas nenustato ko kita. Duomenų apsaugą organizuoja ir atlieka valstybės rezervo koordinatorius, valstybės rezervo tvarkytojai ir valstybės rezervo atsakingieji saugotojai.
  
 
 
@@ -272,40 +239,15 @@ valstybės rezervO SUDARYMAS, KAUPIMAS IR TVARKYMAS
  
 
 
-8 straipsnis. Valstybės rezervo sudarymo, kaupimo ir tvarkymo sąlygos 
+8 straipsnis. Valstybės rezervo sudarymo, kaupimo ir tvarkymo sąlygos
 
 
-1. Vyriausybė tvirtina valstybės rezervo piniginių lėšų dydį ir sukaupimo terminus, valstybės rezervo materialinių išteklių atsargų, priklausančių valstybei nuosavybės teise, nomenklatūrą, kiekį, sukaupimo terminus ir valstybės rezervo atsakinguosius saugotojus.
-
-
-
-
-2. Vyriausybė tvirtina privalomųjų materialinių išteklių atsargų nomenklatūrą ir nustato sukauptinų privalomųjų materialinių išteklių atsargų kiekį ir sukaupimo terminus. Ūkio subjektus, įpareigotus sukaupti ir tvarkyti privalomąsias materialinių išteklių atsargas, privalomųjų materialinių išteklių atsargų, sukauptinų kiekvieno iš šių ūkio subjektų, kiekį, nomenklatūrą bei sukaupimo terminus tvirtina Vyriausybės įgaliota institucija Vyriausybės nustatyta tvarka.
+1. Vyriausybė tvirtina valstybės rezervo lėšų dydį ir sukaupimo terminus, valstybės rezervo materialinių išteklių atsargų nomenklatūrą, kiekį, sukaupimo terminus ir valstybės rezervo atsakinguosius saugotojus.
 
 
 
 
-3. Ūkio subjektų sukauptinas privalomųjų atsargų kiekis nustatomas atsižvelgiant į tai, kokią Lietuvos Respublikoje parduotų materialinių išteklių ir juos naudojant pagamintų bei parduotų prekių ir suteiktų paslaugų dalį sudaro šių ūkio subjektų pagaminti ir importuoti materialiniai ištekliai bei juos naudojant pagamintos ir parduotos prekės bei suteiktos paslaugos. 
-
-
-
-
-4. Kaupti ir tvarkyti privalomąsias materialinių išteklių atsargas neprivalo: 
-
-
-1) ūkio subjektai, kurie verčiasi tik mažmenine šių materialinių išteklių bei juos naudojant pagamintų prekių ir suteiktų paslaugų prekyba;
-
-
-
-
-2) ūkio subjektai, kurių didmeninės prekybos šiais materialiniais ištekliais bei juos naudojant pagamintų prekių ir suteiktų paslaugų metinė apyvarta neviršija Vyriausybės nustatytos minimalios sumos. 
-
-
-
-
-
-
-5. Valstybės rezervo materialinių išteklių atsargos, priklausančios valstybei nuosavybės teise, ir privalomosios materialinių išteklių atsargos turi atitikti Lietuvos Respublikoje nustatytus jų saugos, nekenksmingumo sveikatai ir aplinkai bei kokybės reikalavimus ir tikti ilgalaikiam saugojimui. Materialinių išteklių atitiktis tvirtinama įstatymų ir kitų teisės aktų nustatyta tvarka. 
+2. Valstybės rezervo materialinių išteklių atsargos turi atitikti Lietuvos Respublikoje nustatytus jų saugos, nekenksmingumo sveikatai ir aplinkai bei kokybės reikalavimus ir tikti ilgalaikiam saugojimui. Materialinių išteklių atitiktis nustatytiems saugos, nekenksmingumo sveikatai ir aplinkai bei kokybės reikalavimams tvirtinama įstatymų ir kitų teisės aktų nustatyta tvarka.
  
 
 
@@ -313,15 +255,15 @@ valstybės rezervO SUDARYMAS, KAUPIMAS IR TVARKYMAS
 
 
 
-9 straipsnis. Materialinių išteklių pirkimas valstybės lėšomis ir jų keitimas
+9 straipsnis. Valstybės rezervo materialinių išteklių atsargų pirkimas valstybės lėšomis ir jų keitimas
 
 
-1. Valstybės rezervo tvarkytojai valstybės rezervui skirtus materialinius išteklius valstybės lėšomis perka Viešųjų pirkimų įstatymo nustatyta tvarka.
+1. Valstybės rezervo tvarkytojai valstybės rezervui skirtus materialinius išteklius valstybės lėšomis perka Lietuvos Respublikos viešųjų pirkimų įstatymo nustatyta tvarka.
 
 
 
 
-2. Valstybei nuosavybės teise priklausančios valstybės rezervo materialinių išteklių atsargos keičiamos, jei saugojimo metu nustatoma gamybos defektų arba jei šie ištekliai neatitinka nustatytų saugos, nekenksmingumo sveikatai ir aplinkai bei kokybės reikalavimų ar netinka ilgalaikiam saugojimui. Keičiamų materialinių išteklių grąžinimo pardavėjui, atlyginimo už juos ir keitimo išlaidų padengimo sąlygos ir tvarka nustatomos valstybės rezervo tvarkytojo ir pardavėjo pirkimo–pardavimo sutartyje. Jei keičiamų materialinių išteklių neįmanoma grąžinti pagal pirkimo–pardavimo sutarties sąlygas, jie parduodami arba šio įstatymo nustatyta tvarka nurašomi. 
+2. Valstybės rezervo materialinių išteklių atsargos keičiamos, jeigu saugojimo metu nustatoma gamybos trūkumų arba jeigu šie ištekliai neatitinka nustatytų saugos, nekenksmingumo sveikatai ir aplinkai bei kokybės reikalavimų ar netinka ilgalaikiam saugojimui. Keičiamų valstybės rezervo materialinių išteklių atsargų grąžinimo pardavėjui, atlyginimo už juos ir keitimo išlaidų padengimo sąlygos ir tvarka nustatomos vadovaujantis Lietuvos Respublikos civiliniu kodeksu valstybės rezervo tvarkytojo ir pardavėjo pirkimo–pardavimo sutartyje nustatytomis sąlygomis. Jeigu keičiamų valstybės rezervo materialinių išteklių atsargų neįmanoma grąžinti pagal pirkimo–pardavimo sutarties sąlygas, jie parduodami arba šio įstatymo nustatyta tvarka nurašomi.
  
 
 
@@ -329,35 +271,18 @@ valstybės rezervO SUDARYMAS, KAUPIMAS IR TVARKYMAS
 
 
 
-10 straipsnis. Valstybės rezervo materialinių išteklių atsargų saugojimas 
+10 straipsnis. Valstybės rezervo materialinių išteklių atsargų saugojimas
 
 
-1. Valstybei nuosavybės teise priklausančios valstybės rezervo materialinių išteklių atsargos saugomos Lietuvos Respublikos teritorijoje. Privalomosios materialinių išteklių atsargos, kurias sukaupti ir tvarkyti įpareigotos Lietuvos Respublikos įmonių rejestre įregistruotos įmonės, veikiančios kitoje valstybėje pagal galiojančias Lietuvos Respublikos tarptautines sutartis, gali būti saugomos tos valstybės teritorijoje. Materialinių išteklių atsargų priskyrimo ir nepriskyrimo valstybės rezervui kriterijus pagal jų saugojimo vietą nustato Vyriausybė ar jos įgaliota institucija.
+Valstybės rezervo materialinių išteklių atsargos saugomos Lietuvos Respublikos teritorijoje. Valstybės rezervo materialinių išteklių atsargos saugomos:
 
 
-
-
-2. Valstybės rezervo materialinių išteklių atsargos saugomos:
-
-
-1) joms saugoti skirtuose statiniuose;
+1) joms saugoti skirtuose statiniuose, kurių projektavimo techninės ir specialiosios sąlygos ir statinio techninės charakteristikos privalo atitikti Vyriausybės ar jos įgaliotos institucijos nustatytus saugomų valstybės rezervo materialinių išteklių atsargų kokybės, saugumo ir panaudojimo galimybių reikalavimus;
 
 
 
 
-2) valstybės rezervo atsakingųjų saugotojų sandėliuose ir talpyklose, vadovaujantis valstybės rezervo tvarkytojo ir valstybės rezervo atsakingojo saugotojo pasaugos sutartyje nustatyta materialinių išteklių saugojimo tvarka;
-
-
-
-
-3) ūkio subjektų, kuriems nustatyta užduotis sukaupti ir tvarkyti privalomąsias materialinių išteklių atsargas, pasirinktose saugojimo vietose.
-
-
-
-
-
-
-3. Valstybės rezervo materialinių išteklių atsargoms saugoti skirtų statinių projektavimo techninės bei specialiosios sąlygos ir statinio techninės charakteristikos privalo atitikti Vyriausybės ar jos įgaliotos institucijos nustatytus saugomų valstybės rezervo materialinių išteklių atsargų kokybės, saugumo bei panaudojimo galimybių reikalavimus.
+2) valstybės rezervo atsakingųjų saugotojų sandėliuose, vadovaujantis valstybės rezervo tvarkytojo ir valstybės rezervo atsakingojo saugotojo pasaugos sutartyje nustatyta materialinių išteklių atsargų saugojimo tvarka.
  
 
 
@@ -365,45 +290,72 @@ valstybės rezervO SUDARYMAS, KAUPIMAS IR TVARKYMAS
 
 
 
-11 straipsnis. Valstybės rezervo materialinių išteklių atsargų atnaujinimas 
+
+
+11 straipsnis. Valstybės rezervo materialinių išteklių atsargų atnaujinimas
 
 
 1. Valstybės rezervo materialinių išteklių atsargos atnaujinamos, kai:
 
 
-1) baigiasi jų tinkamumo naudoti terminas;
+1) iki jų tinkamumo naudoti termino pabaigos liko ne daugiau kaip pusė viso tinkamumo naudoti laiko;
 
 
 
 
-2) nepasibaigus tinkamumo terminui pablogėja jų kokybė; 
+2) nepasibaigus tinkamumo naudoti terminui pablogėja jų kokybė;
 
 
 
 
-3) jos neatitinka pasikeitusių Lietuvos Respublikoje nustatytų saugos ir nekenksmingumo sveikatai ir aplinkai reikalavimų arba analogiškų rinkoje esančių materialinių išteklių kokybės standartų ar techninio lygio.
+3) jos neatitinka pasikeitusių Lietuvos Respublikoje nustatytų saugos ir nekenksmingumo sveikatai bei aplinkai reikalavimų arba analogiškų rinkoje esančių materialinių išteklių kokybės standartų ar techninio lygio.
 
 
 
 
 
 
-2. Valstybei nuosavybės teise priklausančias valstybės rezervo materialinių išteklių atsargas atnaujina jų tvarkytojai. Privalomąsias materialinių išteklių atsargas atnaujina ūkio subjektai, kurie jas kaupia ir tvarko. 
+2. Valstybės rezervo materialinių išteklių atsargas atnaujina valstybės rezervo tvarkytojai.
 
 
 
 
-3. Atnaujinant valstybės rezervo materialinių išteklių atsargas Vyriausybės nustatyta tvarka, senieji ištekliai parduodami arba šio įstatymo nustatyta tvarka nurašomi ir įsigyjama tiek pat analogiškų materialinių išteklių. 
+3. Šio straipsnio 1 dalyje išvardytais valstybės rezervo materialinių išteklių atsargų atnaujinimo atvejais Vyriausybės nustatyta tvarka:
+
+
+1) atsargos parduodamos ir įsigyjama tiek pat analogiškų materialinių išteklių atsargų;
 
 
 
 
-4. Lėšos, gautos už parduotas valstybei nuosavybės teise priklausančias valstybės rezervo materialinių išteklių atsargas, skiriamos šių materialinių išteklių atsargų kiekiui atnaujinti ir tais finansiniais metais nustatytam šių ir kitų materialinių išteklių atsargų kiekiui sukaupti. 
+2) civilinės saugos priemonių atsargos, kurios nebuvo parduotos atliekant atnaujinimą, gali būti perduotos patikėjimo teise valdyti, naudoti ir disponuoti valstybės institucijoms jų steigimo dokumentuose nurodytai veiklai vykdyti ir savivaldybėms savarankiškosioms ir valstybinėms (valstybės perduotoms savivaldybėms) funkcijoms atlikti;
 
 
 
 
-5. Privalomųjų materialinių išteklių atsargas savo lėšomis atnaujina ūkio subjektai, kurie jas sukaupia ir tvarko.
+3) žemės ūkio ir maisto produktų atsargos, kurios nebuvo parduotos atliekant atnaujinimą, bet iki jų tinkamumo vartoti termino pabaigos liko ne daugiau kaip 60 kalendorinių dienų, labdaros teikėjų prašymu gali būti jiems neatlygintinai perduotos nuosavybės teise labdarai gyventojams teikti;
+
+
+
+
+4) medicinos atsargos, kurios nebuvo parduotos atliekant atnaujinimą, bet iki jų tinkamumo vartoti termino pabaigos liko ne daugiau kaip 6 mėnesiai, Lietuvos nacionalinei sveikatos sistemai priklausančių sveikatos priežiūros biudžetinių įstaigų prašymu gali būti patikėjimo teise perduotos jų steigimo dokumentuose nurodytai veiklai vykdyti;
+
+
+
+
+5) medicinos atsargos, kurios nebuvo parduotos atliekant atnaujinimą, bet iki jų tinkamumo vartoti termino pabaigos liko ne daugiau kaip 6 mėnesiai, Lietuvos nacionalinei sveikatos sistemai priklausančių sveikatos priežiūros viešųjų ar kitų įstaigų ir įmonių prašymu gali būti neatlygintinai perduotos jų nuosavybėn jų steigimo dokumentuose nurodytai veiklai vykdyti. Perduodamos medicinos atsargos gali būti naudojamos tik iš Privalomojo sveikatos draudimo fondo finansuojamoms sveikatos priežiūros paslaugoms teikti.
+
+
+
+
+
+
+4. Atnaujinant valstybės rezervo materialinių išteklių atsargas, sprendimą dėl šio straipsnio 3 dalies 1 punkte nurodytų atsargų pardavimo, 2–5 punktuose nurodytų atsargų perdavimo priima Vyriausybė arba jos pavedimu valstybės rezervo tvarkytojas. Vyriausybės arba valstybės rezervo tvarkytojo sprendime atitinkamai turi būti nurodyta valstybės ar savivaldybės institucija ar įstaiga, įgaliota sudaryti atsargų perdavimo–priėmimo aktą arba pirkimo–pardavimo sutartį. Šio straipsnio 3 dalies 2–5 punktuose nurodytais atvejais sprendime dėl atsargų perdavimo turi būti nurodytos perduodamos atsargos.
+
+
+
+
+5. Lėšos, gautos už parduotas valstybės rezervo materialinių išteklių atsargas, skiriamos šių materialinių išteklių atsargų kiekiui atnaujinti ir tais finansiniais metais nustatytam šių ir kitų materialinių išteklių atsargų kiekiui sukaupti.
  
 
 
@@ -414,12 +366,17 @@ valstybės rezervO SUDARYMAS, KAUPIMAS IR TVARKYMAS
 12 straipsnis. Valstybės rezervo materialinių išteklių atsargų nurašymas
 
 
-1. Valstybei nuosavybės teise priklausančios valstybės rezervo materialinių išteklių atsargos, kurių neįmanoma parduoti, kadangi saugojimo metu pasibaigė jų tinkamumo naudoti terminas arba jie nebeatitinka nustatytų Lietuvos Respublikoje saugos ir nekenksmingumo sveikatai ir aplinkai reikalavimų ar analogiškų materialinių išteklių, esančių rinkoje, kokybės standartų ar techninio lygio, nurašomi Vyriausybės nustatyta tvarka valstybės rezervo tvarkytojo sprendimu. 
+1. Valstybės rezervo materialinių išteklių atsargos, kurios nebuvo parduotos ar perduotos valstybės institucijoms, savivaldybėms, labdaros teikėjams, Lietuvos nacionalinei sveikatos sistemai priklausančioms biudžetinėms, viešosioms ar kitoms sveikatos priežiūros įstaigoms ar įmonėms ir kurių neįmanoma parduoti, kadangi saugojimo metu pasibaigė jų tinkamumo naudoti (vartoti) terminas arba jie nebeatitinka Lietuvos Respublikoje nustatytų saugos ir nekenksmingumo sveikatai ir aplinkai reikalavimų ar analogiškų materialinių išteklių, esančių rinkoje, kokybės standartų ar techninio lygio, nurašomi Vyriausybės nustatyta tvarka valstybės rezervo tvarkytojo sprendimu.
 
 
 
 
-2. Nurašytų valstybės rezervo materialinių išteklių atsargų sunaikinimą Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka organizuoja valstybės rezervo tvarkytojas.
+2. Jeigu valstybės rezervo materialinių išteklių atsargų trūkumų ir nuostolių atlyginimo neįmanoma išieškoti vadovaujantis Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas) nuostatomis dėl to, kad neįmanoma nustatyti asmenų, atsakingų už susidariusius nuostolius, ar dėl nenugalimos jėgos aplinkybių, nustatytų Civiliniame kodekse, šie nuostoliai nurašomi Vyriausybės sprendimu su valstybės rezervo koordinatoriumi suderintu valstybės rezervo tvarkytojo siūlymu.
+
+
+
+
+3. Nurašytų valstybės rezervo materialinių išteklių atsargų sunaikinimą Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka organizuoja valstybės rezervo tvarkytojas.
  
 
 
@@ -427,103 +384,55 @@ valstybės rezervO SUDARYMAS, KAUPIMAS IR TVARKYMAS
 
 
 
-13 straipsnis. Valstybės rezervo naudojimas
+13 straipsnis. Valstybės rezervo, naftos produktų ir naftos valstybės atsargų naudojimas
 
 
-1. Valstybės rezervas gali būti naudojamas:
+1. Valstybės rezervas, naftos produktų ir naftos valstybės atsargos gali būti naudojami:
 
 
-1) valstybės reikmėms užtikrinti įvedus nepaprastąją padėtį;
+1) šio įstatymo 2 straipsnio 1 dalyje išvardytiems poreikiams tenkinti;
 
 
 
 
-2) valstybės reikmėms užtikrinti ekstremaliųjų situacijų metu ir ekstremaliųjų situacijų padariniams likviduoti;
+2) teikiant priimančiosios šalies paramą;
 
 
 
 
-3) valstybės reikmėms užtikrinti paskelbus mobilizaciją ir (ar) įvedus karo padėtį ir jų padariniams likviduoti;
+3) pagalbai kitoms valstybėms suteikti pagal galiojančias Lietuvos Respublikos tarptautines sutartis arba kai kitos valstybės ar tarptautinės organizacijos pateikia prašymą suteikti pagalbą materialiniais ištekliais.
 
 
 
 
-4) ūkio funkcionavimui palaikyti ekonominės grėsmės atvejais;
 
 
+2. Šio straipsnio 1 dalyje nustatytais atvejais Vyriausybė priima sprendimą panaudoti valstybės rezervo lėšas, materialinių išteklių atsargas, naftos produktų ir naftos valstybės atsargas.
 
 
-5) pagalbai kitoms valstybėms suteikti pagal galiojančias Lietuvos Respublikos tarptautines sutartis;
 
 
+3. Vyriausybė ar jos pavedimu valstybės rezervo tvarkytojas nustato valstybės, savivaldybių institucijas, įstaigas ar įmones, kurioms paskirstomos valstybės rezervo lėšos ir materialinių išteklių atsargos. Naftos produktų ir naftos valstybės atsargas skirsto Vyriausybė ar jos įgaliota institucija.
 
 
-6) teikiant priimančiosios šalies paramą. 
 
 
-Straipsnio dalies pakeitimai:
-Nr. XI-1417, 2011-05-26, Žin., 2011, Nr. 72-3468 (2011-06-14), i. k. 1111010ISTA0XI-1417
- 
+4. Susidarius ekstremaliajai situacijai, paskelbus mobilizaciją ir (ar) įvedus nepaprastąją ar karo padėtį, valstybės rezervo tvarkytojas už šių situacijų administravimą atsakingų institucijų prašymu turi teisę pats priimti sprendimą panaudoti jo tvarkomas valstybės rezervo materialinių išteklių atsargas. Valstybės rezervo tvarkytojo sprendimai panaudoti valstybės rezervą turi būti nedelsiant pateikti Vyriausybei. Jeigu Vyriausybė šiems sprendimams nepritaria, žalą, atsiradusią dėl nepagrįsto valstybės rezervo panaudojimo, valstybės rezervo tvarkytojas atlygina įstatymų nustatyta tvarka.
 
 
 
 
-2. Ūkio atsargos Vyriausybės nustatytais atvejais ir tvarka taip pat gali būti naudojamos ekonomikai stabilizuoti, kai materialinių išteklių rinkoje nepalankiai pasikeičia pasiūla ir (ar) paklausa.
+5. Šio straipsnio 1 dalyje nustatytais atvejais naudojamų valstybės rezervo materialinių išteklių atsargų, naftos produktų ir naftos valstybės atsargų gabenimą į panaudojimo vietą organizuoja ekstremaliųjų situacijų operacijų centrai, o gabena į panaudojimo vietą civilinės saugos sistemos pajėgos, dalyvaujančios likviduojant ekstremaliąją situaciją, arba valstybės ir savivaldybių institucijos, prašančios suteikti pagalbą.
 
 
 
 
-3. Šio straipsnio 1 dalyje nustatytais atvejais Vyriausybė:
+6. Šio straipsnio 1 dalyje nustatytais atvejais valstybės rezervo materialinių išteklių atsargų perdavimo, priėmimo ir gabenimo į panaudojimo vietą tvarką nustato valstybės rezervo tvarkytojai, o naftos produktų ir naftos valstybės atsargų panaudojimo tvarka nustatoma naftos produktų tiekimo ir vartojimo apribojimų taikymo plane.
 
 
-1) priima sprendimą panaudoti valstybės rezervo pinigines lėšas ir materialinių išteklių atsargas;
 
 
-
-
-2) nustato valstybės, savivaldybės institucijas ir įstaigas, taip pat ūkio subjektus, kuriems paskirstomos valstybės rezervo piniginės lėšos ir materialinių išteklių atsargos; 
-Straipsnio punkto pakeitimai:
-Nr. XI-1417, 2011-05-26, Žin., 2011, Nr. 72-3468 (2011-06-14), i. k. 1111010ISTA0XI-1417
- 
-
-
-
-
-3) nurodo valstybės rezervo atsakingiesiems saugotojams, tvarkantiems privalomąsias materialinių išteklių atsargas, atlygintinai perduoti jas nustatytiems ūkio subjektams.
-
-
-
-
-
-
-4. Susidarius ekstremaliajai situacijai, paskelbus mobilizaciją ir (ar) įvedus karo padėtį, valstybės rezervo tvarkytojas institucijų, atsakingų už šių padėčių administravimą, prašymu turi teisę priimti sprendimą panaudoti jo tvarkomas valstybei nuosavybės teise priklausančias valstybės rezervo pinigines lėšas ir materialinių išteklių atsargas. Valstybės rezervo tvarkytojo sprendimai panaudoti valstybės rezervą turi būti nedelsiant pateikti Vyriausybei. Jeigu Vyriausybė šiems sprendimams nepritaria, žalą, atsiradusią dėl nepagrįsto valstybės rezervo panaudojimo, valstybės rezervo tvarkytojas atlygina įstatymų nustatyta tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. XI-1417, 2011-05-26, Žin., 2011, Nr. 72-3468 (2011-06-14), i. k. 1111010ISTA0XI-1417
- 
-
-
-
-
-5. Šio straipsnio 1 dalyje numatytais atvejais naudojamų valstybės rezervo materialinių išteklių atsargų gabenimą organizuoja ūkio subjektai, Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka paskirti atsakingais už gelbėjimo darbų bei kitų neatidėliotinų darbų atlikimą ir (ar) ūkio funkcionavimo užtikrinimą bei pagalbos suteikimą.
-
-
-
-
-6. Šio straipsnio 2 dalyje numatytais atvejais Vyriausybė priima sprendimą parduoti valstybei nuosavybės teise priklausančias valstybės rezervo materialinių išteklių atsargas Vyriausybės nustatytomis kainomis bei laikinai sumažinti privalomųjų materialinių išteklių atsargų kiekį Lietuvos Respublikoje, Lietuvos Respublikos teritorijos administraciniame vienete ar atskiruose ūkio subjektuose. 
-
-
-
-
-7. Valstybės rezervo energijos išteklių atsargos naudojamos vadovaujantis Vyriausybės patvirtintu planu.
-
-
-
-
-8. Valstybės rezervo materialinių išteklių atsargos, išskyrus privalomąsias materialinių išteklių atsargas, gali būti naudojamos civilinės saugos treniruočių ir pratybų metu ar vykdant mobilizacinio ar priimančiosios šalies paramos mokymo pratybas Vyriausybės nustatyta tvarka.
-Papildyta straipsnio dalimi:
-Nr. X-807, 2006-09-14, Žin., 2006, Nr. 107-4045 (2006-10-06), i. k. 1061010ISTA000X-807
-Straipsnio dalies pakeitimai:
-Nr. XI-1417, 2011-05-26, Žin., 2011, Nr. 72-3468 (2011-06-14), i. k. 1111010ISTA0XI-1417
+7. Valstybės rezervo materialinių išteklių atsargos gali būti naudojamos civilinės saugos pratybų, tarptautinės pagalbos teikimo komandos pratybų ir mobilizacinio ar priimančiosios šalies paramos mokymo pratybų metu Vyriausybės nustatyta tvarka.
  
 
 
@@ -534,12 +443,7 @@ Nr. XI-1417, 2011-05-26, Žin., 2011, Nr. 72-3468 (2011-06-14), i. k. 1111010IST
 14 straipsnis. Valstybės rezervo atkūrimas
 
 
-1. Šio įstatymo 13 straipsnio 1 dalyje numatytais atvejais panaudotų valstybės rezervo piniginių lėšų ir materialinių išteklių atsargų atkūrimo terminus ir tvarką nustato Vyriausybė, panaudojus valstybės rezervą.
-
-
-
-
-2. Šio įstatymo 13 straipsnio 2 dalyje numatytais atvejais panaudotų valstybės rezervo materialinių išteklių atsargų atkūrimo terminus ir tvarką nustato Vyriausybė, priimdama sprendimą panaudoti šias valstybės rezervo materialinių išteklių atsargas.
+Šio įstatymo 13 straipsnyje nustatytais atvejais panaudotų valstybės rezervo lėšų ir materialinių išteklių atsargų atkūrimo terminus ir tvarką nustato Vyriausybė, priimdama sprendimą panaudoti valstybės rezervo atsargas.
  
 
 
@@ -554,7 +458,7 @@ VALSTYBĖS REZERVO ADMINISTRAVIMAS
  
 
 
-15 straipsnis. Valstybės rezervo administravimo subjektai 
+15 straipsnis. Valstybės rezervo administravimo subjektai
 
 
 1. Valstybės rezervo administravimo subjektai yra valstybės rezervo koordinatorius, valstybės rezervo tvarkytojai ir valstybės rezervo atsakingieji saugotojai.
@@ -562,17 +466,12 @@ VALSTYBĖS REZERVO ADMINISTRAVIMAS
 
 
 
-2. Valstybės rezervo koordinatorius yra Vyriausybės įgaliota valstybės institucija. 
+2. Valstybės rezervo atsakingieji saugotojai ir valstybės rezervo materialinių išteklių atsargų saugojimo vietos parenkami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
 
 
 
-3. Vyriausybė skiria valstybės rezervo tvarkytojus ir tvirtina valstybei nuosavybės teise priklausančio valstybės rezervo atsakinguosius saugotojus. Valstybės rezervo atsakingieji saugotojai bei valstybės rezervo materialinių išteklių atsargų saugojimo vietos parenkami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
-
-
-
-
-4. Valstybės rezervo koordinatoriaus nurodymai dėl valstybės rezervo administravimo yra privalomi valstybės rezervo tvarkytojams, o valstybės rezervo tvarkytojų nurodymai – valstybės rezervo atsakingiesiems saugotojams. 
+3. Valstybės rezervo koordinatoriaus nurodymai dėl valstybės rezervo administravimo yra privalomi valstybės rezervo tvarkytojams, o valstybės rezervo tvarkytojų nurodymai – valstybės rezervo atsakingiesiems saugotojams.
  
 
 
@@ -583,30 +482,20 @@ VALSTYBĖS REZERVO ADMINISTRAVIMAS
 16 straipsnis. Valstybės rezervo koordinatorius
 
 
-Valstybės rezervo koordinatorius: 
+Valstybės rezervo koordinatorius:
 
 
-1) teikia Vyriausybei siūlymus dėl valstybės rezervo piniginių lėšų dydžio ir sukaupimo laiko bei materialinių išteklių atsargų nomenklatūros, kiekio, sukaupimo laiko ir valstybei nuosavybės teise priklausančio valstybės rezervo atsakingųjų saugotojų patvirtinimo; 
-
-
-
-
-2) teikia Vyriausybei siūlymus dėl valstybės biudžeto asignavimų bei kitų valstybės lėšų skyrimo valstybės rezervui sudaryti, kaupti ir tvarkyti;
+1) kiekvienais metais teikia Vyriausybei siūlymus dėl valstybės rezervo lėšų dydžio, materialinių išteklių atsargų nomenklatūros ir kiekio, sukaupimo termino ir valstybės rezervo atsakingųjų saugotojų patvirtinimo;
 
 
 
 
-3) Vyriausybės nustatyta tvarka nustato bei tvirtina ūkio subjektus, įpareigotus sukaupti ir tvarkyti privalomąsias materialinių išteklių atsargas, šių atsargų, sukauptinų kiekviename iš šių ūkio subjektų, kiekį, nomenklatūrą bei sukaupimo terminus;
+2) kiekvienais metais teikia Vyriausybei siūlymus dėl valstybės biudžeto asignavimų ir kitų valstybės lėšų skyrimo valstybės rezervui sudaryti, kaupti ir tvarkyti;
 
 
 
 
-4) koordinuoja ir kontroliuoja valstybės rezervo sudarymą, kaupimą ir tvarkymą; 
-
-
-
-
-5) derina valstybės rezervo tvarkytojų teikiamus dokumentus, reglamentuojančius jų veiklos sričiai priklausančio valstybės rezervo sudarymą, kaupimą ir tvarkymą.
+3) derina valstybės rezervo tvarkytojų teikiamus dokumentus, reglamentuojančius jų veiklos sričiai priklausančio valstybės rezervo atsargų sudarymą, kaupimą ir tvarkymą.
  
 
 
@@ -622,7 +511,7 @@ Valstybės rezervo koordinatorius:
 1. Valstybės rezervo tvarkytojas:
 
 
-1) teikia valstybės rezervo koordinatoriui siūlymus dėl valstybei nuosavybės teise priklausančio valstybės rezervo bei privalomųjų materialinių išteklių atsargų nomenklatūros, kiekio, sukaupimo laiko, valstybei nuosavybės teise priklausančio valstybės rezervo atsakingųjų saugotojų nustatymo; 
+1) teikia valstybės rezervo koordinatoriui siūlymus dėl valstybės rezervo materialinių išteklių atsargų nomenklatūros, kiekio, sukaupimo termino, valstybės rezervo atsakingųjų saugotojų nustatymo;
 
 
 
@@ -632,79 +521,59 @@ Valstybės rezervo koordinatorius:
 
 
 
-3) suderinęs su valstybės rezervo koordinatoriumi, tvirtina natūralias valstybės rezervo materialinių išteklių atsargų netekties normas; 
+3) suderinęs su valstybės rezervo koordinatoriumi, pagal priskirtą kuravimo sritį teikia Vyriausybei siūlymus dėl valstybės rezervo kaupimo užduočių pakeitimo ir teisės aktų, susijusių su valstybės rezervo tvarkymu, projektus;
 
 
 
 
-4) kontroliuoja, kaip kaupiamos ir tvarkomos privalomųjų materialinių išteklių atsargos;
+4) Buhalterinės apskaitos įstatymo nustatyta tvarka organizuoja valstybės rezervo materialinių išteklių atsargų apskaitą;
 
 
 
 
-5) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka organizuoja valstybės rezervo materialinių išteklių atsargų apskaitą;
+5) sudaro pasaugos sutartis su valstybės rezervo atsakingaisiais saugotojais;
 
 
 
 
-6) sudaro pasaugos sutartis su valstybės rezervo atsakingaisiais saugotojais ir sutartis su kitais ūkio subjektais, kai valstybės rezervo materialiniai ištekliai perkami valstybės lėšomis; 
+6) pagal pirkimo dokumentus moka už pirktas valstybės rezervo materialinių išteklių atsargas;
 
 
 
 
-7) pagal pirkimo dokumentus moka už pirktas valstybės rezervo materialinių išteklių atsargas, priklausančias valstybei nuosavybės teise; 
+7) Vyriausybės nustatyta tvarka priima sprendimus nurašyti valstybės rezervo materialinių išteklių atsargas;
 
 
 
 
-8) Vyriausybės nustatyta tvarka priima sprendimus nurašyti valstybei nuosavybės teise priklausančius valstybės rezervo materialinius išteklius;
+8) suderinęs su valstybės rezervo koordinatoriumi, teikia Vyriausybei siūlymus nurašyti valstybės rezervo materialinių išteklių atsargų trūkumus ir nuostolius, viršijančius natūralios netekties normas, jeigu šių trūkumų ir nuostolių atlyginimo neįmanoma išieškoti iš asmenų, atsakingų už minėtų trūkumų ir nuostolių susidarymą;
 
 
 
 
-9) suderinęs su valstybės rezervo koordinatoriumi, teikia Vyriausybei siūlymus nurašyti valstybei nuosavybės teise priklausančių valstybės rezervo materialinių išteklių atsargų trūkumus ir nuostolius, viršijančius natūralias netekties normas, jei šių trūkumų ir nuostolių atlyginimo neįmanoma išieškoti iš kaltų asmenų; 
+9) organizuoja ir kontroliuoja valstybės rezervo materialinių išteklių atsargų atnaujinimą, keitimą, atkūrimą bei sunaikinimą ir tikrina valstybės rezervo materialinių išteklių atsargų saugojimo sąlygas;
 
 
 
 
-10) organizuoja ir kontroliuoja valstybės rezervo materialinių išteklių atsargų atnaujinimą, keitimą, atkūrimą bei sunaikinimą ir tikrina valstybės rezervo materialinių išteklių atsargų saugojimo sąlygas; 
+10) organizuoja valstybės rezerve saugomų materialinių išteklių atsargų darbinės būklės periodinius tikrinimus;
 
 
 
 
-11) organizuoja valstybės rezervą sudarančių įrenginių darbinės būklės periodinius tikrinimus; 
-
-
-
-
-12) naudoja valstybės rezervą ir kontroliuoja jo naudojimą. 
+11) naudoja su valstybės rezervo tvarkymu ir administravimu susijusias valstybės rezervo materialinių išteklių atsargas ir kontroliuoja jų naudojimą.
 
 
 
 
 
 
-2. Valstybės rezervo tvarkytojo įgalioti asmenys turi teisę:
-
-
-1) gauti iš ūkio subjektų, kurie kaupia ir tvarko privalomąsias materialinių išteklių atsargas, informaciją bei dokumentų nuorašus, reikalingus sukauptų privalomųjų valstybės rezervo atsargų kiekiui bei kokybei patikrinti;
+2. Valstybės rezervo tvarkytojas turi teisę kreiptis į kitas kompetentingas institucijas, kad jos atliktų valstybės rezervo materialinių išteklių atsargų tikrinimus.
 
 
 
 
-2) pateikę tarnybinį pažymėjimą, be išankstinio įspėjimo įeiti į ūkio subjekto gamybines (įskaitant ir nuomojamas) patalpas bei teritoriją ir tikrinti saugomas privalomąsias materialinių išteklių atsargas;
-
-
-
-
-3) atlikti arba pareikalauti, kad kitos kompetentingos institucijos atliktų kontrolinius matavimus, materialinių vertybių inventorizacijas ir kitus atsargų tikrinimus.
-
-
-
-
-
-
-3. Valstybės rezervo tvarkytojas turi teisę perduoti šio straipsnio 1 dalies 5–12 punktuose nustatytas visas valstybės rezervo tvarkytojo funkcijas ar jų dalį pavaldiems ar kontroliuojamiems ūkio subjektams. 
+3. Valstybės rezervo tvarkytojas turi teisę perduoti šio straipsnio 1 dalies 4, 6, 9, 10, 11 punktuose nustatytas valstybės rezervo tvarkytojo funkcijas valstybės rezervo atsakingiesiems saugotojams.
  
 
 
@@ -718,59 +587,44 @@ Valstybės rezervo koordinatorius:
 1. Valstybės rezervo atsakingasis saugotojas:
 
 
-1) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka įtraukia į apskaitą saugomas valstybės rezervo materialinių išteklių atsargas;
+1) Buhalterinės apskaitos įstatymo nustatyta tvarka traukia į apskaitą saugomas valstybės rezervo materialinių išteklių atsargas;
 
 
 
 
-2) privalo sukaupti privalomąsias materialinių išteklių atsargas pagal jam nustatytą nomenklatūrą ir kiekį;
+2) vadovaudamasis Civilinio kodekso nuostatomis ir sudarytoje pasaugos sutartyje nustatytais įsipareigojimais, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka inventorizuoja saugomas valstybės rezervo materialinių išteklių atsargas ir informuoja rezervo tvarkytoją apie inventorizacijos rezultatus;
 
 
 
 
-3) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atnaujina, keičia bei atkuria privalomąsias materialinių išteklių atsargas; 
+3) užtikrina tinkamą valstybės rezervo materialinių išteklių atsargų saugojimą, jų tinkamos kokybės išlaikymą;
 
 
 
 
-4) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka inventorizuoja saugomas valstybės rezervo materialinių išteklių atsargas ir informuoja rezervo tvarkytoją apie inventorizacijos rezultatus;
+4) kontroliuoja, ar saugomos valstybės rezervo materialinių išteklių atsargos atitinka Lietuvos Respublikoje nustatytus saugos ir nekenksmingumo sveikatai bei aplinkai reikalavimus;
 
 
 
 
-5) užtikrina tinkamą valstybės rezervo materialinių išteklių atsargų saugojimą, jų tinkamos kokybės išlaikymą;
+5) palaiko valstybės rezervui priklausančių saugomų materialinių išteklių atsargų darbinę būklę;
 
 
 
 
-6) kontroliuoja, ar saugomi valstybės rezervo materialiniai ištekliai atitinka Lietuvos Respublikoje įteisintus saugos ir nekenksmingumo sveikatai bei aplinkai reikalavimus;
-
-
-
-
-7) palaiko saugomų įrenginių, priklausančių valstybės rezervui, darbinę būklę;
-
-
-
-
-8) užtikrina, kad valstybės rezervo naudojimo metu saugomos valstybės rezervo materialinių išteklių atsargos būtų laiku perduotos Vyriausybės nustatytiems subjektams.
+6) užtikrina, kad valstybės rezervo naudojimo metu saugomos valstybės rezervo materialinių išteklių atsargos būtų laiku perduotos Vyriausybės nustatytiems subjektams.
 
 
 
 
 
 
-2. Valstybės rezervo atsakingasis saugotojas, nepažeisdamas šio straipsnio 1 dalyje ir pasaugos sutartyje nustatytų sąlygų, valstybės rezervui priklausančius saugomus įrenginius gali naudoti ūkinėje veikloje.
+2. Valstybės rezervo atsakingojo saugotojo, saugančio valstybės rezervo materialinių išteklių atsargas, įsipareigojimai ir atsakomybė nustatomi valstybės rezervo tvarkytojo ir valstybės rezervo atsakingojo saugotojo sudarytoje pasaugos sutartyje.
 
 
 
 
-3. Valstybės rezervo atsakingojo saugotojo, saugančio valstybei nuosavybės teise priklausančias valstybės rezervo materialinių išteklių atsargas, įsipareigojimai bei atsakomybė nustatomi valstybės rezervo tvarkytojo ir valstybės rezervo atsakingojo saugotojo pasaugos sutartyje. Valstybės rezervo atsakingojo saugotojo, kaupiančio ir tvarkančio privalomąsias materialinių išteklių atsargas, atsakomybę nustato Lietuvos Respublikos įstatymai.
-
-
-
-
-4. Valstybės rezervo atsakingasis saugotojas, nepažeisdamas pasaugos sutartyje nustatytų sąlygų, valstybės rezervo tvarkytojo leidimu gali sudaryti pasaugos sutartis su kitais ūkio subjektais dėl valstybės rezervo materialinių išteklių atsargų saugojimo. 
+3. Valstybės rezervo atsakingasis saugotojas, nepažeisdamas pasaugos sutartyje nustatytų sąlygų, valstybės rezervo tvarkytojo leidimu gali sudaryti pasaugos sutartis su kitomis įmonėmis dėl valstybės rezervo materialinių išteklių atsargų saugojimo.
  
 
 
@@ -781,85 +635,19 @@ Valstybės rezervo koordinatorius:
 
 
 KETVIRTASIS SKIRSNIS
-ATSAKOMYBĖ UŽ VALSTYBĖS REZERVO ĮSTATYMO PAŽEIDIMUS
- 
-
-
-19 straipsnis. Teisinė atsakomybė
-
-
-1. Valstybės rezervo įstatymo reikalavimus pažeidę asmenys atsako šio ir kitų įstatymų nustatyta tvarka.
-
-
-
-
-2. Materialinių išteklių pardavėjų atsakomybė už tai, kad valstybės nuosavybėn parduodami materialiniai ištekliai, skirti valstybės rezervui, neatitinka šio įstatymo 8 straipsnio 5 dalyje nustatytų reikalavimų, šalių susitarimu nustatoma valstybės rezervo tvarkytojo ir pardavėjo sudaromose pirkimo–pardavimo sutartyse. Sudarant šias sutartis, būtina laikytis sąlygos, kad pardavėjas atlygina materialinių išteklių, neatitinkančių šio įstatymo 8 straipsnio 5 dalyje nustatytų reikalavimų, keitimo išlaidas ir sumoka ne mažiau kaip 5 procentų neatitinkančių reikalavimų materialinių išteklių pirkimo–pardavimo sutartyje nurodytos vertės dydžio baudą. 
- 
-
-
-
-
-
-
-20 straipsnis.       Ekonominių sankcijų už privalomųjų materialinių išteklių atsargų kaupimo ir tvarkymo pažeidimus taikymas
-
-
-1. Jeigu ūkio subjektai, kurie kaupia ir tvarko privalomąsias materialinių išteklių atsargas, per nustatytą terminą nesukaupė nustatyto materialinių išteklių atsargų kiekio arba jei sukauptos privalomosios materialinių išteklių atsargos neatitinka šio įstatymo 8 straipsnio 5 dalyje nustatytų reikalavimų, jie moka 50 procentų nesukauptų arba neatitinkančių nustatytų reikalavimų privalomųjų materialinių išteklių atsargų rinkos vertės dydžio baudą. 
-
-
-
-
-2. Šio straipsnio 1 dalyje nustatytas baudas ūkio subjektams turi teisę skirti valstybės rezervo tvarkytojai pagal savo kompetenciją. Bauda gali būti skiriama ne vėliau kaip per du mėnesius nuo pažeidimo padarymo dienos, o jei yra trunkamas pažeidimas, – nuo jo paaiškėjimo.
-
-
-
-
-3. Valstybės rezervo tvarkytojo nutarimas skirti baudą, kuriame nurodomas baudos dydis (suma), išsiunčiamas pažeidėjui. Baudos sumokamos į valstybės biudžetą ne vėliau kaip per 20 dienų nuo tos dienos, kurią pažeidėjui buvo įteiktas valstybės rezervo tvarkytojo nutarimas skirti baudą. 
-
-
-
-
-4. Laiku nesumokėtas baudas kartu su delspinigiais, kurie už kiekvieną dieną sudaro po 0,2 procento baudos dydžio, valstybės rezervo tvarkytojas išieško ne ginčo tvarka ir perveda į valstybės biudžetą. 
-
-
-
-
-5. Jei yra aplinkybių, dėl kurių nedelsiant įvykdyti nutarimą skirti baudą negalima, nutarimą priėmęs valstybės rezervo tvarkytojas, remdamasis ūkio subjektų, dėl kurių priimtas nutarimas, motyvuotu pareiškimu, gali atidėti nutarimo vykdymą iki dviejų mėnesių. Nutarimo skirti baudą atidėjimo pagrindus nustato Vyriausybė.
-
-
-
-
-6. Ūkio subjektai, nesutinkantys su valstybės rezervo tvarkytojų nutarimu skirti baudą, turi teisę nutarimą apskųsti įstatymų nustatyta tvarka. Apskundimas nesustabdo valstybės rezervo tvarkytojų nutarimo skirti baudą vykdymo. 
- 
-
-
-
-
-
-
-
-
-PENKTASIS SKIRSNIS
 BAIGIAMOSIOS NUOSTATOS
  
 
 
-21 straipsnis. Valstybės rezervo įstatymo įsigaliojimas
+19 straipsnis. Atsakomybė už šio įstatymo reikalavimų pažeidimus
 
 
-Valstybės rezervo įstatymas įsigalioja nuo jo paskelbimo, išskyrus 7 straipsnio 2 dalį ir 13 straipsnio 7 dalį. Šios dalys įsigalios Lietuvos Respublikai tapus Europos Sąjungos nare.
- 
-
-
+1. Šio įstatymo reikalavimus pažeidę asmenys atsako šio ir kitų įstatymų nustatyta tvarka.
 
 
 
 
-22 straipsnis. Valstybės rezervo įstatymo įgyvendinimas
-
-
-Valstybės rezervo įstatymas pradedamas įgyvendinti nuo 2001 m. liepos 1 d., Vyriausybei ar jos įgaliotoms institucijoms parengus ir priėmus šį įstatymą įgyvendinančius teisės aktus.
- 
+2. Materialinių išteklių pardavėjų atsakomybė už tai, kad valstybės nuosavybėn parduodami materialiniai ištekliai, skirti valstybės rezervo materialinių išteklių atsargoms sudaryti, neatitinka šio įstatymo 8 straipsnio 2 dalyje nustatytų reikalavimų, šalių susitarimu nustatoma vadovaujantis Civiliniu kodeksu valstybės rezervo tvarkytojo ir pardavėjo sudaromose pirkimo–pardavimo sutartyse. Sudarant šias sutartis, būtina laikytis sąlygos, kad pardavėjas atlygina materialinių išteklių, neatitinkančių šio įstatymo 8 straipsnio 2 dalyje nustatytų reikalavimų, keitimo išlaidas ir sumoka ne mažiau kaip 5 procentų neatitinkančių reikalavimų materialinių išteklių pirkimo–pardavimo sutartyje nurodytos vertės dydžio baudą.
  
 
 
@@ -878,6 +666,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
  
  
+ 
 Pakeitimai:
  
 1.
@@ -889,3 +678,8 @@ Lietuvos Respublikos valstybės rezervo įstatymo 2, 4 ir 13 straipsnių pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1417, 2011-05-26, Žin., 2011, Nr. 72-3468 (2011-06-14), i. k. 1111010ISTA0XI-1417
 Lietuvos Respublikos valstybės rezervo įstatymo 2, 3, 4 ir 13 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2065, 2012-06-12, Žin., 2012, Nr. 69-3530 (2012-06-21), i. k. 1121010ISTA0XI-2065
+Lietuvos Respublikos valstybės rezervo įstatymo pakeitimo įstatymas
