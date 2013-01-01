@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AD70BCE8F0A6"
 
 # Lietuvos Respublikos asmens ir turto apsaugos įstatymas
 
-Suvestinė redakcija nuo 2011-10-01 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 116-4317, i. k. 1041010ISTA0IX-2327
  
@@ -215,7 +215,10 @@ ASMENS IR TURTO SAUGA
 
 
 
-4) asmuo, įrašytas į operatyvinės veiklos subjektų operatyvinę įskaitą;
+4) Neteko galios nuo 2013-01-01
+Straipsnio punkto naikinimas:
+Nr. XI-2236, 2012-10-02, Žin. 2012, Nr. 122-6095 (2012-10-20), i. k. 1121010ISTA0XI-2236
+ 
 
 
 
@@ -758,3 +761,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1533, 2011-06-23, Žin., 2011, Nr. 86-4172 (2011-07-13), i. k. 1111010ISTA0XI-1533
 Lietuvos Respublikos asmens ir turto saugos įstatymo 12, 15 straipsnių pakeitimo ir papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2236, 2012-10-02, Žin., 2012, Nr. 122-6095 (2012-10-20), i. k. 1121010ISTA0XI-2236
+Lietuvos Respublikos asmens ir turto saugos įstatymo 6 straipsnio pakeitimo įstatymas
