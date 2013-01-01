@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4C6BD6562C91"
 
 # Lietuvos Respublikos valstybės gynimo tarybos įstatymas
 
-Suvestinė redakcija nuo 2000-07-19 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2020-07-15
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 41-992, i. k. 0971010ISTAVIII-209
  
@@ -133,7 +133,47 @@ VALSTYBĖS GYNIMO TARYBOS VEIKLA
 
 
 
-10) svarsto ir teikia pasiūlymus dėl krašto apsaugos sistemos finansavimo.
+10) svarsto ir teikia pasiūlymus dėl krašto apsaugos sistemos finansavimo;
+
+
+
+
+11) tvirtina žvalgybos informacijos poreikius ir prioritetus; 
+Papildyta straipsnio punktu:
+Nr. XI-2290, 2012-10-17, Žin., 2012, Nr. 129-6464 (2012-11-08), i. k. 1121010ISTA0XI-2290
+ 
+
+
+
+
+12) tvirtina žvalgybos institucijų veiklos strategijas; 
+Papildyta straipsnio punktu:
+Nr. XI-2290, 2012-10-17, Žin., 2012, Nr. 129-6464 (2012-11-08), i. k. 1121010ISTA0XI-2290
+ 
+
+
+
+
+13) vertina žvalgybos institucijų metines veiklos ataskaitas; 
+Papildyta straipsnio punktu:
+Nr. XI-2290, 2012-10-17, Žin., 2012, Nr. 129-6464 (2012-11-08), i. k. 1121010ISTA0XI-2290
+ 
+
+
+
+
+14) vertina žvalgybos informacijos atitiktį žvalgybos informacijos poreikiams ir prioritetams; 
+Papildyta straipsnio punktu:
+Nr. XI-2290, 2012-10-17, Žin., 2012, Nr. 129-6464 (2012-11-08), i. k. 1121010ISTA0XI-2290
+ 
+
+
+
+
+15) nustato žvalgybos institucijų tarptautinio bendradarbiavimo su užsienio valstybių žvalgybos ir saugumo tarnybomis bei tarptautinėmis organizacijomis ir institucijomis gaires.
+Papildyta straipsnio punktu:
+Nr. XI-2290, 2012-10-17, Žin., 2012, Nr. 129-6464 (2012-11-08), i. k. 1121010ISTA0XI-2290
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -403,4 +443,9 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1779, 2000-06-29, Žin., 2000, Nr. 58-1711 (2000-07-19), i. k. 1001010ISTAIII-1779
+Lietuvos Respublikos valstybės gynimo tarybos įstatymo 4 straipsnio papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2290, 2012-10-17, Žin., 2012, Nr. 129-6464 (2012-11-08), i. k. 1121010ISTA0XI-2290
 Lietuvos Respublikos valstybės gynimo tarybos įstatymo 4 straipsnio papildymo įstatymas
