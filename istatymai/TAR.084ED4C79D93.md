@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.084ED4C79D93"
 
 # Lietuvos Respublikos valstybės sienos apsaugos tarnybos įstatymas
 
-Suvestinė redakcija nuo 2007-01-30 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2848, i. k. 1001010ISTAIII-1996
  
@@ -57,14 +57,16 @@ Straipsnio dalies pakeitimai:
 Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
  
 
-5. Tarnyba yra operatyvinės veiklos subjektas.
+5. Neteko galios nuo 2013-01-01
+Straipsnio dalies naikinimas:
+Nr. XI-2265, 2012-10-02, Žin. 2012, Nr. 122-6124 (2012-10-20), i. k. 1121010ISTA0XI-2265
+ 
 
-6. Įgyvendindama pavestas ikiteisminio tyrimo funkcijas, Tarnyba veikia visoje valstybės teritorijoje.
-6 dalies redakcija nuo Tarybos sprendimo, patikrinus pagal taikomas Šengeno vertinimo procedūras, ar būtinos sąlygos dėl viso atitinkamo acquis taikymo yra įvykdytos Lietuvos Respublikoje, priėmimo:
-6. Vykdydama operatyvinę veiklą, ikiteisminį tyrimą ir valstybinę migracijos procesų kontrolę, Tarnyba veikia visoje valstybės teritorijoje.
+6. Vykdydama kriminalinę žvalgybą, ikiteisminį tyrimą ir valstybinę migracijos procesų kontrolę, Tarnyba veikia visoje valstybės teritorijoje.
 Straipsnio dalies pakeitimai:
 Nr. IX-1420, 2003-04-03, Žin., 2003, Nr. 38-1665 (2003-04-24), i. k. 1031010ISTA0IX-1420
 Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
+Nr. XI-2265, 2012-10-02, Žin., 2012, Nr. 122-6124 (2012-10-20), i. k. 1121010ISTA0XI-2265
  
 
 7. Tarnyba ir jos pareigūnai nedalyvauja politinėje veikloje. 
@@ -97,8 +99,6 @@ Tarnybos funkcijos ir įgaliojimai
 
 1) saugo valstybės sieną sausumoje, jūroje, Kuršių mariose ir pasienio vidaus vandenyse;
 
-2) atlieka asmenų ir transporto priemonių, kertančių valstybės sieną, kontrolę;
-2 punkto redakcija nuo Tarybos sprendimo, patikrinus pagal taikomas Šengeno vertinimo procedūras, ar būtinos sąlygos dėl viso atitinkamo acquis taikymo yra įvykdytos Lietuvos Respublikoje, priėmimo:
 2) laikydamasi Valstybės sienos ir jos apsaugos įstatymo 5 straipsnio 5 ir 6 dalių nuostatų, atlieka asmenų ir transporto priemonių, kertančių valstybės sieną, kontrolę;
 Straipsnio punkto pakeitimai:
 Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
@@ -118,14 +118,15 @@ Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA0
  
 
 8) palaiko nuolatinę parengtį atnaujinti pasienio tikrinimą prie vidaus sienos.
-1 dalis papildoma 8 punktu nuo Tarybos sprendimo, patikrinus pagal taikomas Šengeno vertinimo procedūras, ar būtinos sąlygos dėl viso atitinkamo acquis taikymo yra įvykdytos Lietuvos Respublikoje, priėmimo.
 Papildyta straipsnio punktu:
 Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
  
 
 2. Tarnyba atlieka ir kitas teisės aktų jai pavestas funkcijas.
 
-3. Šiame straipsnyje nurodytas funkcijas Tarnyba įgyvendina veikdama viešai ir prireikus naudodama įstatymų numatytus operatyvinės veiklos metodus ir priemones.
+3. Šiame straipsnyje nurodytas funkcijas Tarnyba įgyvendina veikdama viešai ir prireikus vykdydama kriminalinę žvalgybą.
+Straipsnio dalies pakeitimai:
+Nr. XI-2265, 2012-10-02, Žin., 2012, Nr. 122-6124 (2012-10-20), i. k. 1121010ISTA0XI-2265
  
 
 6 straipsnis. Tarnybos įgaliojimai saugant valstybės sieną
@@ -214,25 +215,17 @@ Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA0
 
 1. Užtikrindama pasienio teisinį režimą, Tarnyba:
 
-1) kontroliuoja, kaip laikomasi nustatytos Lietuvos Respublikos piliečių ir užsieniečių vykimo į pasienio ruožą ir buvimo jame tvarkos; 
+1) kontroliuoja, kaip laikomasi nustatytos asmenų vykimo į pasienio ruožą ir buvimo jame tvarkos; 
 
-2) užkardo krovinių (prekių, vertybių ir kitokių daiktų) gabenimą kontrabandos būdu ne per pasienio kontrolės punktus;
-
-3) užtikrindama valstybės sienos saugumą, kontroliuoja, kaip laikomasi nustatytos gamybinės, ūkinės ar kitokios fizinių ar juridinių asmenų bei įmonių, neturinčių juridinio asmens teisių, veiklos pasienio ruože tvarkos;
-
-4) kontroliuoja, kaip laikomasi nustatytos laivų išplaukimo į teritorinę jūrą, jūros vidaus vandenis, pasienio vandenis bei plaukimo ir buvimo juose tvarkos;
-
-5) užtikrindama valstybės sienos teisinį režimą, dalyvauja kontroliuojant, kaip pasienio ruože naudojami gamtos ištekliai;
-
-6) dalyvauja vykdant paieškos ir gelbėjimo darbus jūroje, Kuršių mariose bei pasienio vidaus vandenyse.
-1 dalies redakcija nuo Tarybos sprendimo, patikrinus pagal taikomas Šengeno vertinimo procedūras, ar būtinos sąlygos dėl viso atitinkamo acquis taikymo yra įvykdytos Lietuvos Respublikoje, priėmimo:
-1. Užtikrindama pasienio teisinį režimą, Tarnyba:
-1) kontroliuoja, kaip laikomasi nustatytos asmenų vykimo į pasienio ruožą ir buvimo jame tvarkos;
 2) užkardo krovinių (prekių, vertybių ir kitokių daiktų) gabenimą kontrabanda ne per pasienio kontrolės punktus;
+
 3) užtikrindama valstybės sienos saugumą, kontroliuoja, kaip laikomasi nustatytos gamybinės, ūkinės ar kitokios fizinių ar juridinių asmenų bei įmonių, neturinčių juridinio asmens teisių, veiklos pasienio ruože tvarkos;
+
 4) kontroliuoja, kaip laikomasi nustatytos laivų išplaukimo į teritorinę jurą, juros vidaus vandenis, pasienio vandenis bei plaukimo ir buvimo juose tvarkos;
+
 5) užtikrindama valstybės sienos teisinį režimą, dalyvauja kontroliuojant, kaip pasienio ruože naudojami gamtos ištekliai;
-6) dalyvauja vykdant paieškos ir gelbėjimo darbus jūroje, Kuršių mariose bei pasienio vidaus vandenyse; 
+
+6) dalyvauja vykdant paieškos ir gelbėjimo darbus jūroje, Kuršių mariose bei pasienio vidaus vandenyse;
 
 7) kontroliuoja kitų valstybių laivų taikų plaukimą teritorine jūra, persekioja, apžiūri ir sulaiko laivus, pažeidusius nustatytą teisinį režimą teritorinėje jūroje. 
 
@@ -244,20 +237,13 @@ Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA0
 
 1) Vyriausybės nustatyta tvarka užtikrina nepertraukiamą pasienio kontrolės punktų funkcionavimą;
 
-2) kontroliuoja asmenis ir transporto priemones, įeinančius ar įvažiuojančius į pasienio kontrolės punktą;
+2) kontroliuoja asmenis ir transporto priemones, atvykstančius į pasienio kontrolės punktą;
 
-3) kontroliuoja asmenų, transporto priemonių judėjimą pasienio kontrolės punkto teritorijoje;
+3) kontroliuoja asmenų buvimą, transporto priemonių eismo tvarką pasienio kontrolės punkto teritorijoje;
 
 4) tarnybos tikslais ar saugumo sumetimais apriboja įėjimą ar įvažiavimą į tam tikrą pasienio kontrolės punkto teritorijos dalį;
 
 5) pasienio kontrolės punkte palaiko viešąją tvarką, užtikrina visuomenės rimtį ir kertančių valstybės sieną asmenų bei punkte dirbančių pareigūnų saugumą. 
-2 dalies redakcija nuo Tarybos sprendimo, patikrinus pagal taikomas Šengeno vertinimo procedūras, ar būtinos sąlygos dėl viso atitinkamo acquis taikymo yra įvykdytos Lietuvos Respublikoje, priėmimo:
-2. Pasienio kontrolės punktuose Tarnyba:
-1) Vyriausybės nustatyta tvarka užtikrina nepertraukiamą pasienio kontrolės punktų funkcionavimą;
-2) kontroliuoja asmenis ir transporto priemones, atvykstančius į pasienio kontrolės punktą;
-3) kontroliuoja asmenų buvimą, transporto priemonių eismo tvarką pasienio kontrolės punkto teritorijoje;
-4) tarnybos tikslais ar saugumo sumetimais apriboja įėjimą ar įvažiavimą į tam tikrą pasienio kontrolės punkto teritorijos dalį;
-5) pasienio kontrolės punkte palaiko viešąją tvarką, užtikrina visuomenės rimtį ir kertančių valstybės sieną asmenų bei punkte dirbančių pareigūnų saugumą.
 
 Straipsnio dalies pakeitimai:
 Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
@@ -267,32 +253,29 @@ Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA0
 
 4. Nustačiusi muitų taisyklių pažeidimą ar kontrabandos gabenimo faktą, Tarnyba sulaiko asmenis, transporto priemones ir per sieną gabenamus krovinius, kol bus priimtas atitinkamas įgaliotų institucijų sprendimas.
 
-5. Šiame straipsnyje nustatytus įgaliojimus Tarnyba vykdo laikydamasi Valstybės sienos ir jos apsaugos įstatymo 5 straipsnio 5 ir 6 dalių nuostatų.
-Papildoma 5 dalimi nuo Tarybos sprendimo, patikrinus pagal taikomas Šengeno vertinimo procedūras, ar būtinos sąlygos dėl viso atitinkamo acquis taikymo yra įvykdytos Lietuvos Respublikoje, priėmimo.
+5. Šiame straipsnyje nustatytus įgaliojimus Tarnyba vykdo laikydamasi Valstybės sienos ir jos apsaugos įstatymo 5 straipsnio 5 ir 6 dalių nuostatų. 
 Papildyta straipsnio dalimi:
 Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
  
 
 9 straipsnis. Tarnybos įgaliojimai dėl neteisėtai kirtusių valstybės sieną asmenų 
 
-1. Įgyvendindama valstybinę migracijos procesų kontrolę, Tarnyba:
+1. Įgyvendindama valstybinę migracijos procesų kontrolę ir laikydamasi Valstybės sienos ir jos apsaugos įstatymo 5 straipsnio 5 ir 6 dalių nuostatų, Tarnyba:
 
 1) nustato ir įstatymų nustatytam terminui sulaiko visoje valstybės teritorijoje užsieniečius, neteisėtai kirtusius valstybės sieną; 
 
 2) nustato neteisėtai kirtusių valstybės sieną užsieniečių asmens tapatybę;
 
 3) užtikrina neteisėtai kirtusių valstybės sieną užsieniečių apsaugą Užsieniečių registravimo centre, kol dėl jų bus priimtas atitinkamas įgaliotų institucijų sprendimas.
-1 dalies redakcija nuo Tarybos sprendimo, patikrinus pagal taikomas Šengeno vertinimo procedūras, ar būtinos sąlygos dėl viso atitinkamo acquis taikymo yra įvykdytos Lietuvos Respublikoje, priėmimo:
-1. Įgyvendindama valstybinę migracijos procesų kontrolę ir laikydamasi Valstybės sienos ir jos apsaugos įstatymo 5 straipsnio 5 ir 6 dalių nuostatų, Tarnyba:
-1) nustato ir įstatymų nustatytam terminui sulaiko visoje valstybės teritorijoje užsieniečius, neteisėtai kirtusius valstybės sieną;
-2) nustato neteisėtai kirtusių valstybės sieną užsieniečių asmens tapatybę;
-3) užtikrina neteisėtai kirtusių valstybės sieną užsieniečių apsaugą Užsieniečių registravimo centre, kol dėl jų bus priimtas atitinkamas įgaliotų institucijų sprendimas.
 
 Straipsnio dalies pakeitimai:
 Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
  
 
-2. Nustatydama neteisėtai kirtusius valstybės sieną užsieniečius, Tarnyba gali veikti naudodama operatyvinės veiklos metodus ir priemones.
+2. Neteko galios nuo 2013-01-01
+Straipsnio dalies naikinimas:
+Nr. XI-2265, 2012-10-02, Žin. 2012, Nr. 122-6124 (2012-10-20), i. k. 1121010ISTA0XI-2265
+ 
 
 3. Nustatydama neteisėtai kirtusių valstybės sieną užsieniečių asmens tapatybę, Tarnyba gali naudoti visus reikiamus informacijos šaltinius, iš jų ir esančius užsienyje.
  
@@ -749,4 +732,9 @@ Lietuvos Respublikos valstybės sienos apsaugos tarnybos įstatymo 21 straipsnio
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1017, 2007-01-12, Žin., 2007, Nr. 12-491 (2007-01-30), i. k. 1071010ISTA00X-1017
 Lietuvos Respublikos valstybės sienos apsaugos tarnybos įstatymo 2, 3, 5, 6, 8, 9, 13, 15, 16, 19, 21, 23 straipsnių pakeitimo ir papildymo bei Įstatymo papildymo 1(1), 7(1), 7(2), 7(3), 16(1) straipsniais ir priedu įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2265, 2012-10-02, Žin., 2012, Nr. 122-6124 (2012-10-20), i. k. 1121010ISTA0XI-2265
+Lietuvos Respublikos valstybės sienos apsaugos tarnybos įstatymo 2, 5 ir 9 straipsnių pakeitimo įstatymas
 
