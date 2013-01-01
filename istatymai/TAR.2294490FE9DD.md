@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2294490FE9DD"
 
 # Lietuvos Respublikos muitinės įstatymas
 
-Suvestinė redakcija nuo 2010-11-23 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2014-04-03
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2517, i. k. 1041010ISTA0IX-2183
  
@@ -270,7 +270,10 @@ MUITINĖS VEIKLA
 
 
 
-5) taikyti Lietuvos Respublikos operatyvinės veiklos įstatymo nustatytus operatyvinius veiksmus bei naudoti operatyvinės veiklos priemones su muitinės veikla susijusioms nusikalstamoms veikoms nustatyti ir atlikti šių veikų ikiteisminį tyrimą;
+5) vykdyti kriminalinę žvalgybą su muitinės veikla susijusioms nusikalstamoms veikoms nustatyti ir atlikti šių veikų ikiteisminį tyrimą;
+Straipsnio punkto pakeitimai:
+Nr. XI-2252, 2012-10-02, Žin., 2012, Nr. 122-6111 (2012-10-20), i. k. 1121010ISTA0XI-2252
+ 
 
 
 
@@ -531,7 +534,10 @@ Muitinę sudaro:
 
 
 
-12) taiko Lietuvos Respublikos operatyvinės veiklos įstatymo numatytus operatyvinius veiksmus ir priemones su muitinės veikla susijusių nusikalstamų veikų faktams išaiškinti bei organizuoja muitinės įstaigų, turinčių teisę taikyti šiuos metodus ir priemones, veiklą šioje srityje;
+12) vykdo kriminalinę žvalgybą su muitinės veikla susijusių nusikalstamų veikų faktams išaiškinti ir organizuoja muitinės įstaigų, vykdančių kriminalinę žvalgybą, veiklą šioje srityje;
+Straipsnio punkto pakeitimai:
+Nr. XI-2252, 2012-10-02, Žin., 2012, Nr. 122-6111 (2012-10-20), i. k. 1121010ISTA0XI-2252
+ 
 
 
 
@@ -934,10 +940,13 @@ MUITINĖS PAREIGŪNŲ ĮGALIOJIMAI, TEISĖS IR PAREIGOS
 
 
 
-21 straipsnis.       Muitinės pareigūnų, turinčių įgaliojimus vykdyti operatyvinę veiklą ir (arba) atlikti ikiteisminį tyrimą, teisės ir pareigos
+21 straipsnis.        Muitinės pareigūnų, turinčių įgaliojimus vykdyti kriminalinę žvalgybą ir (arba) atlikti ikiteisminį tyrimą, teisės ir pareigos 
+Pakeistas straipsnio pavadinimas:
+Nr. XI-2252, 2012-10-02, Žin., 2012, Nr. 122-6111 (2012-10-20), i. k. 1121010ISTA0XI-2252
+ 
 
 
-1. Muitinės pareigūnas, turintis įgaliojimus vykdyti operatyvinę veiklą ir (arba) atlikti ikiteisminį tyrimą, be teisių, išvardytų 20 straipsnio 3 dalyje, turi teisę:
+1. Muitinės pareigūnas, turintis įgaliojimus vykdyti kriminalinę žvalgybą ir (arba) atlikti ikiteisminį tyrimą, be teisių, išvardytų 20 straipsnio 3 dalyje, turi teisę:
 
 
 1) įtardamas, kad asmenys daro arba yra padarę muitų teisės aktų pažeidimus, tokius asmenis persekioti, sulaikyti, pristatyti į muitinės ar teisėsaugos institucijų patalpas jų asmenybėms nustatyti, protokolams, aktams ar kitiems dokumentams surašyti ar jų turimiems daiktams apžiūrėti;
@@ -965,7 +974,7 @@ MUITINĖS PAREIGŪNŲ ĮGALIOJIMAI, TEISĖS IR PAREIGOS
 
 
 
-6) atlikdamas muitinės funkcijas ir laikydamasis Lietuvos Respublikos baudžiamojo proceso kodekso bei Lietuvos Respublikos operatyvinės veiklos įstatymo nustatytos tvarkos pagal savo kompetenciją vykdyti operatyvinę veiklą ir ikiteisminį tyrimą;
+6) atlikdamas muitinės funkcijas ir laikydamasis Lietuvos Respublikos baudžiamojo proceso kodekso bei Lietuvos Respublikos kriminalinės žvalgybos įstatymo nustatytos tvarkos pagal savo kompetenciją vykdyti kriminalinę žvalgybą ir ikiteisminį tyrimą;
 
 
 
@@ -975,7 +984,7 @@ MUITINĖS PAREIGŪNŲ ĮGALIOJIMAI, TEISĖS IR PAREIGOS
 
 
 
-8) nustatydamas asmenis, susijusius su neteisėtu prekių, kurioms taikomi draudimai arba apribojimai, gabenimu, muitų teisės aktų ir (arba) Lietuvos Respublikos operatyvinės veiklos įstatymo nustatyta tvarka taikyti kontroliuojamojo gabenimo metodą;
+8) nustatydamas asmenis, susijusius su neteisėtu prekių, kurioms taikomi draudimai arba apribojimai, gabenimu, muitų teisės aktų ir (arba) Lietuvos Respublikos kriminalinės žvalgybos įstatymo nustatyta tvarka taikyti kontroliuojamąjį gabenimą;
 
 
 
@@ -983,6 +992,9 @@ MUITINĖS PAREIGŪNŲ ĮGALIOJIMAI, TEISĖS IR PAREIGOS
 9) naudotis kitomis teisės aktų nustatytomis teisėmis.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XI-2252, 2012-10-02, Žin., 2012, Nr. 122-6111 (2012-10-20), i. k. 1121010ISTA0XI-2252
+ 
 
 
 
@@ -1038,7 +1050,10 @@ MUITINĖS PAREIGŪNŲ TEISINĖ APSAUGA
 
 
 
-23 straipsnis.       Muitinės pareigūnų, vykdančių operatyvinę veiklą ir (arba) atliekančių ikiteisminį tyrimą, garantijos
+23 straipsnis.        Muitinės pareigūnų, vykdančių kriminalinę žvalgybą ir (arba) atliekančių ikiteisminį tyrimą, garantijos 
+Pakeistas straipsnio pavadinimas:
+Nr. XI-2252, 2012-10-02, Žin., 2012, Nr. 122-6111 (2012-10-20), i. k. 1121010ISTA0XI-2252
+ 
 
 
 1. Informacija apie muitinės pareigūnus, atliekančius (atlikusius) specialias užduotis, yra valstybės paslaptis ir gali būti naudojama ir išslaptinama Lietuvos Respublikos teisės aktų nustatyta tvarka.
@@ -1046,7 +1061,9 @@ MUITINĖS PAREIGŪNŲ TEISINĖ APSAUGA
 
 
 
-2. Vykdančių operatyvinę veiklą ir (arba) atliekančių ikiteisminį tyrimą muitinės pareigūnų ir jų šeimos narių apsaugai gali būti taikomos Lietuvos Respublikos Baudžiamojo proceso kodekse bei Operatyvinės veiklos įstatyme numatytos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio operatyvinės veiklos priemonės.
+2. Kriminalinę žvalgybą vykdančių ir (arba) ikiteisminį tyrimą atliekančių muitinės pareigūnų ir jų šeimos narių apsaugai gali būti taikomos Lietuvos Respublikos baudžiamojo proceso kodekse ir Lietuvos Respublikos kriminalinės žvalgybos įstatyme numatytos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio priemonės.
+Straipsnio dalies pakeitimai:
+Nr. XI-2252, 2012-10-02, Žin., 2012, Nr. 122-6111 (2012-10-20), i. k. 1121010ISTA0XI-2252
  
 
 
@@ -3342,3 +3359,8 @@ Lietuvos Respublikos muitinės įstatymo 11, 13, 16, 30, 31, 39, 79, 107 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1099, 2010-11-09, Žin., 2010, Nr. 137-7000 (2010-11-23), i. k. 1101010ISTA0XI-1099
 Lietuvos Respublikos muitinės įstatymo 57 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2252, 2012-10-02, Žin., 2012, Nr. 122-6111 (2012-10-20), i. k. 1121010ISTA0XI-2252
+Lietuvos Respublikos muitinės įstatymo 9, 16, 21 ir 23 straipsnių pakeitimo įstatymas
