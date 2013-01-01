@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.791BF9249C9C"
 
 # Lietuvos Respublikos sporto įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2013-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 9-215, i. k. 0951010ISTA00I-1151
  
@@ -1561,12 +1561,23 @@ SPORTININKŲ IR KŪNO KULTŪROS IR SPORTO SPECIALISTŲ GARANTIJOS
 
 
 
-3. Vyriausybės nustatyta tvarka rentas išmoka Kūno kultūros ir sporto departamentas iš valstybės biudžeto lėšų.
+3. Vyriausybės nustatyta tvarka rentas skiria Kūno kultūros ir sporto departamentas, moka Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinio socialinio draudimo fondo valdyba) įgaliotos Valstybinio socialinio draudimo fondo administravimo įstaigos iš valstybės biudžeto lėšų. 
+Straipsnio dalies pakeitimai:
+Nr. XII-84, 2012-12-20, Žin., 2012, Nr. 155-7982 (2012-12-31), i. k. 1121010ISTA00XII-84
+ 
 
 
 
 
 4. Sportininkas privalo pranešti jam rentą mokančiai institucijai apie šio straipsnio 2 dalyje nurodytų aplinkybių atsiradimą per 5 darbo dienas nuo jų atsiradimo. Jeigu apie nurodytas aplinkybes laiku nepranešama ir dėl to renta permokama, permokėtos rentos suma išieškoma iš rentos gavėjo įstatymų nustatyta tvarka.
+
+
+
+
+5. Valstybinio socialinio draudimo fondo administravimo įstaigų sprendimai rentų mokėjimo klausimais gali būti skundžiami Valstybinio socialinio draudimo fondo valdybai Valstybinio socialinio draudimo įstatymo nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XII-84, 2012-12-20, Žin., 2012, Nr. 155-7982 (2012-12-31), i. k. 1121010ISTA00XII-84
+ 
 
 
 Straipsnio pakeitimai:
@@ -1877,3 +1888,8 @@ Lietuvos Respublikos kūno kultūros ir sporto įstatymo 7, 12, 15, 41 ir 44 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-850, 2010-05-25, Žin., 2010, Nr. 67-3348 (2010-06-10), i. k. 1101010ISTA00XI-850
 Lietuvos Respublikos kūno kultūros ir sporto įstatymo 5, 9 straipsnių pakeitimo ir papildymo ir 11 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-84, 2012-12-20, Žin., 2012, Nr. 155-7982 (2012-12-31), i. k. 1121010ISTA00XII-84
+Lietuvos Respublikos kūno kultūros ir sporto įstatymo 41 straipsnio pakeitimo ir papildymo įstatymas
