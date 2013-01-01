@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DFEFEA5312DD"
 
 # Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto patvirtinimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2012-12-31 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2013-07-19
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3348, i. k. 1031010ISTA0IX-1669
  
@@ -80,7 +80,9 @@ BENDROSIOS NUOSTATOS
 
 7. Statutinių tarnautojų pareigybių sąrašą tvirtina Vyriausybė. Statutinių tarnautojų ribinius skaičius nustato Seimas.
 
-8. Civilinės krašto apsaugos tarnybos atlikimo Antrajame operatyvinių tarnybų departamente prie Krašto apsaugos ministerijos ypatumus reglamentuoja tarnybos šiame departamente statutas.
+8. Netenka galios 2013-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XI-2294, 2012-10-17, Žin., 2012, Nr. 129-6468 (2012-11-08), i. k. 1121010ISTA0XI-2294
  
 
 II SKYRIUS
@@ -493,4 +495,9 @@ Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 20 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-120, 2012-12-20, Žin., 2012, Nr. 155-7998 (2012-12-31), i. k. 1121010ISTA0XII-120
 Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 20 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2294, 2012-10-17, Žin., 2012, Nr. 129-6468 (2012-11-08), i. k. 1121010ISTA0XI-2294
+Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 2 straipsnio pakeitimo įstatymas
 
