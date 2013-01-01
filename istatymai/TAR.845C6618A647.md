@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.845C6618A647"
 
 # Lietuvos Respublikos nepaprastosios padėties įstatymas
 
-Suvestinė redakcija nuo 2011-07-01 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2015-03-27
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2575, i. k. 1021010ISTA00IX-938
  
@@ -528,11 +528,12 @@ NEPAPRASTOSIOS PADĖTIES METU
 19 straipsnis. Žmogaus teisės naudotis privataus gyvenimo neliečiamumu apribojimas
 
 
-Nutarime dėl nepaprastosios padėties įvedimo ar atitinkamame Respublikos Prezidento dekrete gali būti numatyta, kad nepaprastosios padėties metu asmenų pašto siuntų, dokumentų siuntų, pašto perlaidų bei jų dokumentų slapta kontrolė gali būti atliekama ir techninės priemonės specialia tvarka panaudojamos be teismo sprendimo, jei nėra galimybės gauti teismo sprendimo įstatymų nustatyta tvarka. Šiuos veiksmus atlikti turi teisę tik operatyvinės veiklos subjektai, ikiteisminio tyrimo įstaigos ir prokurorai.
+Nutarime dėl nepaprastosios padėties įvedimo ar atitinkamame Respublikos Prezidento dekrete gali būti numatyta, kad nepaprastosios padėties metu asmenų pašto siuntų ir jų dokumentų apžiūra, pašto siuntų kontrolė ir paėmimas, susirašinėjimo ir kitokio susižinojimo slapta kontrolė gali būti atliekama ir techninės priemonės specialia tvarka panaudojamos be teismo sprendimo, jei nėra galimybės gauti teismo sprendimo įstatymų nustatyta tvarka. Šiuos veiksmus atlikti turi teisę tik kriminalinės žvalgybos subjektai, žvalgybos institucijos, ikiteisminio tyrimo įstaigos ir prokurorai.
 
 
 Straipsnio pakeitimai:
 Nr. IX-1468, 2003-04-03, Žin., 2003, Nr. 38-1713 (2003-04-24), i. k. 1031010ISTA0IX-1468
+Nr. XI-2253, 2012-10-02, Žin., 2012, Nr. 122-6112 (2012-10-20), i. k. 1121010ISTA0XI-2253
  
 
 
@@ -926,3 +927,8 @@ Lietuvos Respublikos nepaprastosios padėties įstatymo 2, 13, 14, 15, 16, 21, 2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1418, 2011-05-26, Žin., 2011, Nr. 72-3469 (2011-06-14), i. k. 1111010ISTA0XI-1418
 Lietuvos Respublikos nepaprastosios padėties įstatymo 28 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2253, 2012-10-02, Žin., 2012, Nr. 122-6112 (2012-10-20), i. k. 1121010ISTA0XI-2253
+Lietuvos Respublikos nepaprastosios padėties įstatymo 19 straipsnio pakeitimo įstatymas
