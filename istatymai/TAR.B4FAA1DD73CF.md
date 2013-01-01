@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FAA1DD73CF"
 
 # Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas
 
-Suvestinė redakcija nuo 2012-01-01 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2013-12-31
  
 Įstatymas paskelbtas: Žin. 2005, Nr. 76-2741, i. k. 1051010ISTA000X-233
  
@@ -217,9 +217,10 @@ Mokesčio mokestinis laikotarpis yra kalendoriniai metai.
 6 straipsnis. Mokesčio tarifai
 
 
-1. Mokesčio tarifas – nuo 0,3 procento iki 1 procento nekilnojamojo turto mokestinės vertės, jeigu šiame straipsnyje nenustatyta kitaip. 
+1. Mokesčio tarifas – nuo 0,3 procento iki 3 procentų nekilnojamojo turto mokestinės vertės, jeigu šiame straipsnyje nenustatyta kitaip. 
 Straipsnio dalies pakeitimai:
 Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
+Nr. XI-2178, 2012-06-29, Žin., 2012, Nr. 82-4265 (2012-07-13), i. k. 1121010ISTA0XI-2178
  
 
 
@@ -860,3 +861,8 @@ Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 2, 3, 4, 6, 7, 8, 9
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
 Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 2, 4, 6, 7, 11, 12, 14 straipsnių pakeitimo ir papildymo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2178, 2012-06-29, Žin., 2012, Nr. 82-4265 (2012-07-13), i. k. 1121010ISTA0XI-2178
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 6 straipsnio pakeitimo įstatymas
