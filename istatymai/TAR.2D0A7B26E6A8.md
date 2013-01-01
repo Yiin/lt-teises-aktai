@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8"
 
 # Lietuvos Respublikos pensijų sistemos reformos įstatymas
 
-Suvestinė redakcija nuo 2012-01-01 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 123-5511, i. k. 1021010ISTA0IX-1215
  
@@ -26,7 +26,10 @@ Vilnius
 
 1 straipsnis. Įstatymo paskirtis
 
-Šio Įstatymo paskirtis – nustatyti valstybinio socialinio draudimo įmokos dalies kaupimo, užtikrinančio Lietuvos Respublikos gyventojų papildomas pajamas senatvėje, teisinį pagrindą bei pagrindinius principus. 
+Šio Įstatymo paskirtis – nustatyti valstybinio socialinio draudimo įmokos dalies, papildomos dalyvio lėšomis mokamos pensijų įmokos ir papildomos iš valstybės biudžeto lėšų už dalyvį mokamos pensijų įmokos kaupimo, užtikrinančio Lietuvos Respublikos gyventojų papildomas pajamas senatvėje, teisinį pagrindą ir pagrindinius principus.
+
+Straipsnio pakeitimai:
+Nr. XI-2418, 2012-11-14, Žin., 2012, Nr. 136-6969 (2012-11-24), i. k. 1121010ISTA0XI-2418
  
 
 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
@@ -49,16 +52,20 @@ Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010IST
 
 4. Investicijų diversifikuotas portfelis – investicijų portfelis, kuris atitinka įstatymų nustatytus reikalavimus.
 
-5. Kaupiamoji pensijų įmoka (toliau – pensijų įmoka) – šio Įstatymo nustatyta valstybinio socialinio pensijų draudimo įmokos dalis, kaupiama dalyvio asmeninėje pensijų sąskaitoje, atidarytoje jo pasirinktoje pensijų kaupimo bendrovėje.
+5. Kaupiamoji pensijų įmoka (toliau – pensijų įmoka) – šio Įstatymo nustatyta valstybinio socialinio pensijų draudimo įmokos dalis, papildoma dalyvio lėšomis mokama pensijų įmoka ir papildoma iš valstybės biudžeto lėšų už dalyvį mokama pensijų įmoka, kaupiamos dalyvio asmeninėje pensijų sąskaitoje, atidarytoje jo pasirinktoje pensijų kaupimo bendrovėje.
+Straipsnio dalies pakeitimai:
+Nr. XI-2418, 2012-11-14, Žin., 2012, Nr. 136-6969 (2012-11-24), i. k. 1121010ISTA0XI-2418
+ 
 
 6. Pensijų fondas – kaip ši sąvoka apibrėžta Lietuvos Respublikos pensijų kaupimo įstatyme.
 Straipsnio dalies pakeitimai:
 Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010ISTA0IX-1708
  
 
-7. Pensijų kaupimo bendrovė – pensijų fondų valdymo įmonė ar gyvybės draudimo įmonė, turinti priežiūros institucijos išduotą leidimą ar licenciją Lietuvos Respublikos teritorijoje verstis šio Įstatymo nustatyta pensijų kaupimo veikla.
+7. Pensijų kaupimo bendrovė – pensijų fondų valdymo įmonė ar gyvybės draudimo įmonė, turinti priežiūros institucijos išduotą licenciją Lietuvos Respublikos teritorijoje verstis šio Įstatymo nustatyta pensijų kaupimo veikla. Pensijų kaupimo bendrovę gali įsteigti valstybė.
 Straipsnio dalies pakeitimai:
 Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010ISTA0IX-1708
+Nr. XI-2418, 2012-11-14, Žin., 2012, Nr. 136-6969 (2012-11-24), i. k. 1121010ISTA0XI-2418
  
 
 8. Pensijų kaupimo sutartis – įstatymų nustatyta tvarka pensijų įmokų kaupimo laikotarpiui sudaryta sutartis tarp asmens, draudžiamo valstybiniu socialiniu draudimu, ir pensijų kaupimo bendrovės dėl pensijų įmokos kaupimo asmens pensijų sąskaitoje, atidarytoje šioje bendrovėje.
@@ -77,9 +84,10 @@ Straipsnio dalies pakeitimai:
 Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010ISTA0IX-1708
  
 
-13. Valstybinio socialinio draudimo įmokos dalies kaupimas (toliau – pensijų kaupimas) – valstybės nustatytų priemonių sistema, suteikianti teisę Lietuvos Respublikos gyventojams, draudžiamiems valstybiniu socialiniu draudimu, kaupti pensijų kaupimo bendrovėje šio Įstatymo nustatytą valstybinio socialinio pensijų draudimo įmokos dalį, ją investuojant ar reinvestuojant į diversifikuotą investicijų portfelį, bei įstatymų nustatytomis sąlygomis gauti pensijų išmokas.
+13. Valstybinio socialinio draudimo įmokos dalies, papildomos dalyvio lėšomis mokamos pensijų įmokos ir papildomos iš valstybės biudžeto lėšų už dalyvį mokamos pensijų įmokos kaupimas (toliau – pensijų kaupimas) – valstybės nustatytų priemonių sistema, suteikianti teisę Lietuvos Respublikos gyventojams, draudžiamiems valstybiniu socialiniu draudimu, kaupti pensijų kaupimo bendrovėje šio Įstatymo nustatytą pensijų įmoką, ją investuojant ar reinvestuojant į diversifikuotą investicijų portfelį, bei įstatymų nustatytomis sąlygomis gauti pensijų išmokas.
 Straipsnio dalies pakeitimai:
 Nr. IX-2541, 2004-11-04, Žin., 2004, Nr. 171-6301 (2004-11-26), i. k. 1041010ISTA0IX-2541
+Nr. XI-2418, 2012-11-14, Žin., 2012, Nr. 136-6969 (2012-11-24), i. k. 1121010ISTA0XI-2418
  
 
 3 straipsnis. Dalyvavimas kaupiant pensijas 
@@ -91,29 +99,32 @@ Nr. IX-2255, 2004-06-01, Žin., 2004, Nr. 96-3522 (2004-06-19), i. k. 1041010IST
 Nr. XI-478, 2009-11-12, Žin., 2009, Nr. 141-6201 (2009-11-28), i. k. 1091010ISTA00XI-478
  
 
-2. Asmenys, nurodyti šio straipsnio 1 dalyje, jeigu jie nėra sudarę pensijų kaupimo sutarties su pensijų kaupimo bendrovėmis, turi teisę sudaryti šias sutartis iki 2003 m. gruodžio 1 d., o visais kitais kalendoriniais metais – nuo sausio 1 d. iki liepos 1 d., išskyrus naujus atėjusius į darbo rinką ir pirmą kartą gavusius socialinio draudimo pažymėjimą asmenis, kurie turi teisę sudaryti šias sutartis iki spalio 1 d. Tokia pensijų kaupimo sutartis įsigalioja ir pensijų įmokos pradedamos skaičiuoti nuo kitų metų sausio 1 d., jeigu pensijų kaupimo sutartis norminių teisės aktų nustatyta tvarka buvo įregistruota Pensijų kaupimo sutarčių registre. Asmenims, turintiems teisę perkelti pensines teises iš Europos Sąjungos institucijų pensijų sistemos pagal Lietuvos Respublikos Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymą, šioje dalyje nurodyti pensijų kaupimo sutarčių sudarymo terminai netaikomi. Šių asmenų sudaryta pensijų kaupimo sutartis įsigalioja įregistravus ją Pensijų kaupimo sutarčių registre.
+2. Pensijų kaupimo sutartis įsigalioja trečio mėnesio, skaičiuojant nuo šios sutarties įregistravimo Pensijų kaupimo sutarčių registre mėnesio, pirmą dieną. Asmenų, turinčių teisę perkelti pensines teises iš Europos Sąjungos institucijų pensijų sistemos pagal Lietuvos Respublikos Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymą, sudarytos pensijų kaupimo sutartys įsigalioja nuo įregistravimo Pensijų kaupimo sutarčių registre.
 Straipsnio dalies pakeitimai:
 Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010ISTA0IX-1708
 Nr. IX-2255, 2004-06-01, Žin., 2004, Nr. 96-3522 (2004-06-19), i. k. 1041010ISTA0IX-2255
 Nr. XI-478, 2009-11-12, Žin., 2009, Nr. 141-6201 (2009-11-28), i. k. 1091010ISTA00XI-478
+Nr. XI-2418, 2012-11-14, Žin., 2012, Nr. 136-6969 (2012-11-24), i. k. 1121010ISTA0XI-2418
  
 
 3. Dalyviai turi teisę laisvai pasirinkti pensijų kaupimo bendrovę. Vienu metu dalyvis gali turėti pensijų sąskaitą, kurioje kaupiama šio Įstatymo nustatyta pensijų įmoka, tik vienoje pensijų kaupimo bendrovėje. Jeigu dalyvis pereina į kitą pensijų kaupimo bendrovę, jo pensijų sąskaita buvusioje pensijų kaupimo bendrovėje uždaroma, o joje sukauptos lėšos pervedamos į kitoje bendrovėje atidarytą pensijų sąskaitą.
 
-4. Dalyviai turi teisę įstatymų nustatyta tvarka pereiti į kitą pensijų kaupimo bendrovę, išskyrus pirmuosius trejus metus nuo pirmosios pensijų kaupimo sutarties įsigaliojimo. Administravimo išlaidų, susijusių su perėjimu iš vienos bendrovės į kitą, atlyginimo tvarką reglamentuoja Pensijų kaupimo įstatymas. Pensijų kaupimo sutartis negali būti nutraukta tol, kol nesudaryta sutartis su kita pensijų kaupimo bendrove, išskyrus įstatymų nustatytus atvejus. Perėjimas neribojamas pensijų kaupimo bendrovės reorganizavimo, bankroto ir likvidavimo atvejais.
+4. Dalyviai turi teisę įstatymų nustatyta tvarka pereiti į kitą pensijų kaupimo bendrovę. Administravimo išlaidų, susijusių su dalyvio perėjimu iš vienos pensijų kaupimo bendrovės į kitą, atlyginimo tvarką reglamentuoja Pensijų kaupimo įstatymas. Pensijų kaupimo sutartis negali būti nutraukta tol, kol nesudaryta sutartis su kita pensijų kaupimo bendrove, išskyrus Pensijų kaupimo įstatymo nustatytus atvejus.
 Straipsnio dalies pakeitimai:
 Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010ISTA0IX-1708
 Nr. IX-2255, 2004-06-01, Žin., 2004, Nr. 96-3522 (2004-06-19), i. k. 1041010ISTA0IX-2255
+Nr. XI-2418, 2012-11-14, Žin., 2012, Nr. 136-6969 (2012-11-24), i. k. 1121010ISTA0XI-2418
  
 
 4 straipsnis. Pensijų įmoka
 
-1. Pensijų įmokos dydis 2004 metais yra 2,5 procento, 2005 metais – 3,5 procento, 2006 metais – 4,5 procento, 2007 ir 2008 metais – 5,5 procento, nuo 2009 m. sausio 1 d. iki 2009 m. birželio 30 d. – 3 procentai, nuo 2009 m. liepos 1 d. iki 2011 m. gruodžio 31 d. – 2 procentai, 2012 metais – 1,5 procento, 2013 metais – 2,5 procento dalyvių pajamų, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos.
+1. Pensijų įmokos dydis 2004 metais yra 2,5 procento, 2005 metais – 3,5 procento, 2006 metais – 4,5 procento, 2007 ir 2008 metais – 5,5 procento, nuo 2009 m. sausio 1 d. iki 2009 m. birželio 30 d. – 3 procentai, nuo 2009 m. liepos 1 d. iki 2011 m. gruodžio 31 d. – 2 procentai, 2012 metais – 1,5 procento, 2013 metais – 2,5 procento dalyvių pajamų, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos. Nuo 2014 m. sausio 1 d. pensijų įmokos dydis yra 2 procentai dalyvio pajamų, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos, taip pat į pensijų fondą pervedama papildoma 1 procento dalyvio pajamų, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos, dydžio pensijų įmoka, mokama dalyvio lėšomis, ir papildoma 1 procento Lietuvos statistikos departamento paskelbto užpraeitų metų keturių ketvirčių šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio vidurkio dydžio pensijų įmoka iš valstybės biudžeto lėšų. Nuo 2016 m. sausio 1 d. papildomos dalyvio lėšomis mokamos įmokos dydis yra 2 procentai dalyvio pajamų, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos, papildomos iš valstybės biudžeto už dalyvį mokamos įmokos dydis – 2 procentai Lietuvos statistikos departamento paskelbto užpraeitų metų keturių ketvirčių šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio vidurkio. Nuo 2020 m. sausio 1 d. pensijų įmokos dydis yra 3,5 procento dalyvio pajamų, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos, papildomos dalyvio lėšomis mokamos įmokos dydis yra 2 procentai dalyvio pajamų, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos, papildomos iš valstybės biudžeto už dalyvį mokamos įmokos dydis – 2 procentai Lietuvos statistikos departamento paskelbto užpraeitų metų keturių ketvirčių šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio vidurkio. Papildomų pensijų įmokų apskaičiavimo ir pervedimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 Straipsnio dalies pakeitimai:
 Nr. XI-149, 2009-01-15, Žin., 2009, Nr. 6-160 (2009-01-17), i. k. 1091010ISTA00XI-149
 Nr. XI-238, 2009-04-28, Žin., 2009, Nr. 54-2136 (2009-05-12), i. k. 1091010ISTA00XI-238
 Nr. XI-954, 2010-06-30, Žin., 2010, Nr. 82-4308 (2010-07-13), i. k. 1101010ISTA00XI-954
 Nr. XI-1822, 2011-12-20, Žin., 2011, Nr. 160-7574 (2011-12-28), i. k. 1111010ISTA0XI-1822
+Nr. XI-2418, 2012-11-14, Žin., 2012, Nr. 136-6969 (2012-11-24), i. k. 1121010ISTA0XI-2418
  
 
 2. Bendrasis valstybinio socialinio draudimo įmokos tarifas šio straipsnio nustatytos pensijų įmokos dydžiu nedidinamas. 
@@ -121,11 +132,12 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010ISTA0IX-1708
  
 
-3. Nuo asmenų, kurie gauna pajamas iš sporto veiklos, asmenų, kurie gauna pajamas iš atlikėjo veiklos, asmenų, kurie gauna pajamas pagal autorines sutartis, bei savarankiškai dirbančių asmenų, kaip jie apibrėžti Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, gautų pajamų, nuo kurių 2009 ir 2010 metais Lietuvos Respublikos valstybinio socialinio draudimo įstatymo nustatyta tvarka priskaičiuotos sumažintos privalomojo valstybinio socialinio draudimo įmokos, pensijų įmokos dydis 2009 metais yra 1 procentas, 2010 metais – 2 procentai.
+3. Nuo 2014 m. sausio 1 d. už vieną iš tėvų, auginantį vaiką iki 3 metų ir gaunantį motinystės (tėvystės) socialinio draudimo pašalpą arba draudžiamą valstybiniu socialiniu pensijų draudimu valstybės lėšomis, į pensijų fondą pervedama 2 procentų Lietuvos statistikos departamento paskelbto užpraeitų metų keturių ketvirčių šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio vidurkio dydžio pensijų įmoka iš valstybės biudžeto lėšų. Vienam iš tėvų, auginančiam daugiau negu vieną vaiką iki 3 metų, pensijų įmoka pervedama už kiekvieną vaiką.
 Papildyta straipsnio dalimi:
 Nr. XI-149, 2009-01-15, Žin., 2009, Nr. 6-160 (2009-01-17), i. k. 1091010ISTA00XI-149
 Straipsnio dalies pakeitimai:
 Nr. XI-169, 2009-02-17, Žin., 2009, Nr. 25-971 (2009-03-05), i. k. 1091010ISTA00XI-169
+Nr. XI-2418, 2012-11-14, Žin., 2012, Nr. 136-6969 (2012-11-24), i. k. 1121010ISTA0XI-2418
  
 
 4. Pensijų įmokos už asmenis, draudžiamus valstybės biudžeto lėšomis, neskaičiuojamos ir nemokamos.
@@ -156,14 +168,16 @@ Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010IST
 
 7 straipsnis. Pensijų kaupimo sistemos administravimas ir priežiūra
 
-1. Valstybinio socialinio draudimo įmokos, kurių sudedamoji dalis yra pensijų įmoka, draudėjų apskaičiuojamos ir pervedamos į Valstybinio socialinio draudimo fondo biudžetą įstatymų nustatyta tvarka.
+1. Valstybinio socialinio draudimo įmokos, kurių sudedamoji dalis yra pensijų įmoka, ir papildomos dalyvio lėšomis mokamos įmokos, nurodytos šio Įstatymo 4 straipsnio 1 dalyje, draudėjų apskaičiuojamos ir pervedamos į Valstybinio socialinio draudimo fondo biudžetą įstatymų nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010ISTA0IX-1708
+Nr. XI-2418, 2012-11-14, Žin., 2012, Nr. 136-6969 (2012-11-24), i. k. 1121010ISTA0XI-2418
  
 
-2. Dalyvių įskaitą tvarko ir pensijų įmokas į dalyvių pasirinktas pensijų kaupimo bendroves Vyriausybės nustatyta tvarka perveda Valstybinio socialinio draudimo fondo administravimo įstaigos. Pensijų kaupimo bendrovės privalo įstatymų nustatyta tvarka pranešti Valstybinio socialinio draudimo fondo administravimo įstaigoms apie sudarytas ir nutrauktas pensijų kaupimo sutartis.
+2. Dalyvių įskaitą tvarko ir pensijų įmokas bei papildomas dalyvio lėšomis mokamas pensijų įmokas ir papildomas iš valstybės biudžeto lėšų už dalyvį mokamas pensijų įmokas į dalyvių pasirinktas pensijų kaupimo bendroves Vyriausybės nustatyta tvarka perveda Valstybinio socialinio draudimo fondo administravimo įstaigos. Pensijų kaupimo bendrovės privalo įstatymų nustatyta tvarka pranešti Valstybinio socialinio draudimo fondo administravimo įstaigoms apie sudarytas ir nutrauktas pensijų kaupimo sutartis.
 Straipsnio dalies pakeitimai:
 Nr. IX-2541, 2004-11-04, Žin., 2004, Nr. 171-6301 (2004-11-26), i. k. 1041010ISTA0IX-2541
+Nr. XI-2418, 2012-11-14, Žin., 2012, Nr. 136-6969 (2012-11-24), i. k. 1121010ISTA0XI-2418
  
 
 3. Pensijų kaupimo bendrovių valstybinę priežiūrą įstatymų nustatyta tvarka atlieka Lietuvos bankas (toliau – priežiūros institucija).
@@ -194,7 +208,10 @@ Nr. IX-1708, 2003-07-04, Žin., 2003, Nr. 75-3474 (2003-07-30), i. k. 1031010IST
 Nr. XI-1679, 2011-11-17, Žin., 2011, Nr. 146-6825 (2011-12-01), i. k. 1111010ISTA0XI-1679
  
 
-3. Pensijų kaupimo bendrovė privalo ne rečiau kaip kartą per kalendorinius metus pranešti kiekvienam dalyviui apie jo asmeninėje pensijų sąskaitoje apskaičiuoto pensijų turto dydį. Bendrovė privalo sudaryti sąlygas dalyviui pagal pareikalavimą gauti informaciją apie savo pensijų kaupimo sąskaitos būklę, lėšų investavimo strategiją ir pagal ją gautą investicinę grąžą bei bendrovės finansinės veiklos audito išvadas. 
+3. Pensijų kaupimo bendrovė privalo ne rečiau kaip kartą per kalendorinius metus pranešti kiekvienam dalyviui apie jo pensijų sąskaitoje apskaičiuoto pensijų turto dydį. Šio pranešimo formą gali pasirinkti pats dalyvis. Bendrovė privalo sudaryti sąlygas dalyviui pagal pareikalavimą gauti informaciją apie jo pensijų sąskaitoje įrašytus apskaitos vienetus ir jų vertę, lėšų investavimo strategiją ir pagal ją gautą investicinę grąžą bei pensijų fondo auditoriaus išvadas.
+Straipsnio dalies pakeitimai:
+Nr. XI-2418, 2012-11-14, Žin., 2012, Nr. 136-6969 (2012-11-24), i. k. 1121010ISTA0XI-2418
+ 
 
 4. Pensijų kaupimo bendrovės likvidavimo dėl bankroto atveju kiti bendrovės kreditoriai (ne dalyviai) neturi teisės nukreipti išieškojimo į pensijų turtą.
 
@@ -285,4 +302,9 @@ Lietuvos Respublikos pensijų sistemos reformos įstatymo 4 straipsnio pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1679, 2011-11-17, Žin., 2011, Nr. 146-6825 (2011-12-01), i. k. 1111010ISTA0XI-1679
 Lietuvos Respublikos pensijų sistemos reformos įstatymo 7 ir 8 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2418, 2012-11-14, Žin., 2012, Nr. 136-6969 (2012-11-24), i. k. 1121010ISTA0XI-2418
+Lietuvos Respublikos pensijų sistemos reformos įstatymo 1, 2, 3, 4, 7 ir 8 straipsnių pakeitimo įstatymas
 
