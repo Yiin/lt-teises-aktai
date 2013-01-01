@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC01522BCE65"
 
 # Lietuvos Respublikos Seimo kontrolierių įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2014-02-18
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 110-3024, i. k. 0981010ISTAVIII-950
  
@@ -275,18 +275,25 @@ Seimo kontrolieriaus pareigos nesuderinamos su jokiomis kitomis renkamomis ar sk
 
 
 
-11 straipsnis. Metų veiklos ataskaitų pateikimas 
+11 straipsnis. Metų veiklos ataskaitų pateikimas
 
 
-1. Seimo kontrolieriai kasmet iki kovo 15 dienos raštu pateikia Seimui praėjusių kalendorinių metų veiklos ataskaitą. Ji nagrinėjama Seime. Visa ataskaita turi būti paskelbta Seimo kontrolierių įstaigos interneto tinklalapyje.
+1. Seimo kontrolieriai kasmet iki kovo 15 dienos raštu pateikia Seimui praėjusių kalendorinių metų veiklos ataskaitą. Ši ataskaita, išskyrus jos dalį, kuri yra susijusi su žvalgybos institucijų veikla, nagrinėjama Seime ir yra skelbiama Seimo kontrolierių įstaigos interneto tinklalapyje.
 
 
 
 
-2. Seimo kontrolieriai apie savo veiklą periodiškai skelbia visuomenės informavimo priemonėse.
+2. Seimo kontrolierių veiklos ataskaitos dalis, kuri yra susijusi su žvalgybos institucijų veikla, nagrinėjama Seimo statuto nustatyta tvarka Seimo statute nurodytame Seimo komitete ir ši Seimo kontrolierių veiklos ataskaitos dalis nėra skelbiama.
+
+
+
+
+3. Seimo kontrolieriai apie savo veiklą periodiškai skelbia visuomenės informavimo priemonėse.
+
+
+Straipsnio pakeitimai:
+Nr. XI-2291, 2012-10-17, Žin., 2012, Nr. 129-6465 (2012-11-08), i. k. 1121010ISTA0XI-2291
  
-
-
 
 
 
@@ -959,3 +966,8 @@ Lietuvos Respublikos Seimo kontrolierių įstatymo 21 straipsnio pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-741, 2010-04-13, Žin., 2010, Nr. 48-2291 (2010-04-27), i. k. 1101010ISTA00XI-741
 Lietuvos Respublikos Seimo kontrolierių įstatymo 7 ir 19 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2291, 2012-10-17, Žin., 2012, Nr. 129-6465 (2012-11-08), i. k. 1121010ISTA0XI-2291
+Lietuvos Respublikos Seimo kontrolierių įstatymo 11 straipsnio pakeitimo ir papildymo įstatymas
