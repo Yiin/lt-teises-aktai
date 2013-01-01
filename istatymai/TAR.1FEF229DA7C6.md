@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1FEF229DA7C6"
 
 # Lietuvos Respublikos dokumentų ir archyvų įstatymas
 
-Suvestinė redakcija nuo 2012-07-01 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2016-04-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2389, i. k. 0951010ISTA00I-1115
  
@@ -81,9 +81,11 @@ Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000
 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 
-1. Agentūrinė operatyvinė informacija – asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, duomenys, taip pat duomenys apie šių asmenų verbavimą ir naudojimą, jų surinkti duomenys ir kiti duomenys apie asmenis, gauti taikant operatyvinės veiklos priemones ir metodus. 
+1. Agentūrinė kriminalinės žvalgybos informacija – asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, duomenys, taip pat duomenys apie šių asmenų verbavimą ir naudojimą, jų surinkti duomenys ir kiti duomenys apie asmenis, gauti taikant žvalgybos ir kriminalinės žvalgybos informacijos rinkimo būdus ir priemones.
 Papildyta straipsnio dalimi:
 Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
+Straipsnio dalies pakeitimai:
+Nr. XI-2243, 2012-10-02, Žin., 2012, Nr. 122-6102 (2012-10-20), i. k. 1121010ISTA0XI-2243
  
 
 
@@ -1509,3 +1511,8 @@ Lietuvos Respublikos dokumentų ir archyvų įstatymo 1, 2, 4, 5, 6, 7, 8, 11, 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr. 46-0 (2012-04-19); Žin., 2012, Nr. 79-0 (2012-07-05), i. k. 1121010ISTA0XI-1956
 Lietuvos Respublikos dokumentų ir archyvų įstatymo 2, 5, 7, 8, 10, 13, 14, 15, 16, 18, 19 straipsnių pakeitimo ir papildymo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2243, 2012-10-02, Žin., 2012, Nr. 122-6102 (2012-10-20), i. k. 1121010ISTA0XI-2243
+Lietuvos Respublikos dokumentų ir archyvų įstatymo 2 straipsnio pakeitimo įstatymas
