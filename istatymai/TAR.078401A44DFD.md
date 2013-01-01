@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.078401A44DFD"
 
 # Lietuvos Respublikos kraujo donorystės įstatymas
 
-Suvestinė redakcija nuo 2011-01-01 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2014-06-11
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 115-2666, i. k. 0961010ISTA00I-1611
  
@@ -70,7 +70,10 @@ Nr. IX-1755, 2003-10-09, Žin., 2003, Nr. 101-4541 (2003-10-29), i. k. 1031010IS
 
 
 
-4. Kraujo donorystės įstaiga – sveikatos priežiūros įstaiga ar jos padalinys, licencijuoti visai kraujo donorystės veiklai arba daliai šios veiklos. 
+4. Kraujo donorystės įstaiga – Lietuvos Respublikos teisės aktų nustatyta tvarka licencijuota viešoji asmens sveikatos priežiūros įstaiga ar jos padalinys, atsakingi už kraujo ar jo komponentų surinkimą ir ištyrimą, neatsižvelgiant į tai, kokiam tikslui bus naudojamas kraujas ar jo komponentai, ir už kraujo ir jo komponentų surinkimą, ištyrimą, perdirbimą, laikymą ir paskirstymą, jeigu kraujas ir jo komponentai naudojami transfuzijai, arba Lietuvos Respublikos teisės aktų nustatyta tvarka licencijuota įmonė, atsakinga už plazmos surinkimą ir ištyrimą, jeigu plazma yra išimtinai pradinė medžiaga vaistinių preparatų gamybai. Ši sąvoka neapima ligoninių kraujo bankų. 
+Straipsnio dalies pakeitimai:
+Nr. XI-1147, 2010-11-18, Žin., 2010, Nr. 142-7262 (2010-12-04), i. k. 1101010ISTA0XI-1147
+ 
 
 
 
@@ -122,13 +125,15 @@ SĄLYGOS IR PRINCIPAI. DONORŲ TEISĖS IR PAREIGOS
  
 
 
-3 straipsnis. Kraujo davimo principai
+3 straipsnis. Kraujo donorystės veiklos principai
 
 
-Kraujas duodamas vadovaujantis savanoriškumo, anonimiškumo ir neatlygintinumo principais.
+Kraujo donorystė remiasi donorystės savanoriškumo, donoro anonimiškumo, neatlygintinumo ir kraujo donorystės įstaigų pelno nesiekimo principais. Pelno nesiekimo principas netaikomas įmonėms, atsakingoms už plazmos surinkimą ir ištyrimą, jeigu plazma yra išimtinai pradinė medžiaga vaistinių preparatų gamybai. Donoro neatlygintinumo principas netaikomas šiose įmonėse duodantiems plazmą donorams.
+
+
+Straipsnio pakeitimai:
+Nr. XI-1147, 2010-11-18, Žin., 2010, Nr. 142-7262 (2010-12-04), i. k. 1101010ISTA0XI-1147
  
-
-
 
 
 
