@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9390A9F9A815"
 
 # Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2003-10-29 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2014-10-03
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 33-1250, i. k. 1021010ISTA00IX-816
  
@@ -175,7 +175,10 @@ Tarnybos funkcijos:
 
 
 
-4) įstatymų nustatyta tvarka vykdyti operatyvinę veiklą, atlikti ikiteisminį tyrimą, ūkinės finansinės veiklos tyrimą;
+4) įstatymų nustatyta tvarka vykdyti kriminalinę žvalgybą, atlikti ikiteisminį tyrimą, ūkinės finansinės veiklos tyrimą;
+Straipsnio punkto pakeitimai:
+Nr. XI-2245, 2012-10-02, Žin., 2012, Nr. 122-6104 (2012-10-20), i. k. 1121010ISTA0XI-2245
+ 
 
 
 
@@ -345,7 +348,10 @@ TARNYBOS PAREIGŪNO TEISĖS IR PAREIGOS
 
 
 
-9) pagal savo kompetenciją vykdyti operatyvinę veiklą, gauti iš kitų operatyvinės veiklos subjektų reikiamą operatyvinę informaciją bei ja naudotis;
+9) pagal savo kompetenciją vykdyti kriminalinę žvalgybą, gauti iš kitų kriminalinės žvalgybos subjektų reikiamą kriminalinės žvalgybos informaciją ir ja naudotis;
+Straipsnio punkto pakeitimai:
+Nr. XI-2245, 2012-10-02, Žin., 2012, Nr. 122-6104 (2012-10-20), i. k. 1121010ISTA0XI-2245
+ 
 
 
 
@@ -841,3 +847,8 @@ Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo 7 ir 22 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1754, 2003-10-09, Žin., 2003, Nr. 101-4540 (2003-10-29), i. k. 1031010ISTA0IX-1754
 Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo 6, 7 straipsnių pakeitimo ir papildymo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2245, 2012-10-02, Žin., 2012, Nr. 122-6104 (2012-10-20), i. k. 1121010ISTA0XI-2245
+Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo 7 ir 11 straipsnių pakeitimo įstatymas
