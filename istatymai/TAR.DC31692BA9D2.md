@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DC31692BA9D2"
 
 # Lietuvos Respublikos poligrafo naudojimo įstatymas
 
+Suvestinė redakcija nuo 2013-01-01 iki 2015-06-30
+ 
+Įstatymas paskelbtas: Žin. 2000, Nr. 75-2273, i. k. 1001010ISTAIII-1906
+ 
 LIETUVOS RESPUBLIKOS
 POLIGRAFO NAUDOJIMO
 Į S T A T Y M A S
@@ -157,7 +161,10 @@ Vilnius
 
 
 
-2) įstatymų ir kitų teisės aktų nustatyta tvarka atliekant asmens tarnybinį patikrinimą, vidinį ar operatyvinį tyrimą;
+2) įstatymų ir kitų teisės aktų nustatyta tvarka atliekant asmens tarnybinį patikrinimą, vidinį ar kriminalinės žvalgybos tyrimą;
+Straipsnio punkto pakeitimai:
+Nr. XI-2257, 2012-10-02, Žin., 2012, Nr. 122-6116 (2012-10-20), i. k. 1121010ISTA0XI-2257
+ 
 
 
 
@@ -449,3 +456,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2257, 2012-10-02, Žin., 2012, Nr. 122-6116 (2012-10-20), i. k. 1121010ISTA0XI-2257
+Lietuvos Respublikos poligrafo naudojimo įstatymo 5 straipsnio pakeitimo įstatymas
