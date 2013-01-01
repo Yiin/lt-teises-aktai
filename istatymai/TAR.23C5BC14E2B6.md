@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.23C5BC14E2B6"
 
 # Lietuvos Respublikos karo policijos įstatymas
 
-Suvestinė redakcija nuo 2012-01-01 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 98-2713, i. k. 0981010ISTAVIII-911
  
@@ -295,7 +295,9 @@ Nr. XI-1635, 2011-11-08, Žin., 2011, Nr. 143-6703 (2011-11-26), i. k. 1111010IS
 
 
 
-2. Vykdydama šio straipsnio 1 dalyje numatytas funkcijas, karo policija bendradarbiauja su operatyvinės veiklos subjektais, policija ir kitomis Lietuvos Respublikos teisėsaugos institucijomis bei palaiko profesinius ryšius su kitų valstybių karo policija ar analogiškomis institucijomis.
+2. Vykdydama šio straipsnio 1 dalyje numatytas funkcijas, karo policija bendradarbiauja su kriminalinės žvalgybos subjektais, žvalgybos institucijomis ir kitomis Lietuvos Respublikos teisėsaugos institucijomis ir palaiko profesinius ryšius su kitų valstybių karo policija ar analogiškomis institucijomis.
+Straipsnio dalies pakeitimai:
+Nr. XI-2249, 2012-10-02, Žin., 2012, Nr. 122-6108 (2012-10-20), i. k. 1121010ISTA0XI-2249
  
 
 
@@ -665,3 +667,8 @@ Lietuvos Respublikos karo policijos įstatymo 6 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1635, 2011-11-08, Žin., 2011, Nr. 143-6703 (2011-11-26), i. k. 1111010ISTA0XI-1635
 Lietuvos Respublikos karo policijos įstatymo 2, 5, 9, 10, 11, 12, 13, 14, 15, 20, 21 straipsnių pakeitimo ir penktojo skirsnio pripažinimo netekusiu galios įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2249, 2012-10-02, Žin., 2012, Nr. 122-6108 (2012-10-20), i. k. 1121010ISTA0XI-2249
+Lietuvos Respublikos karo policijos įstatymo 10 straipsnio pakeitimo įstatymas
