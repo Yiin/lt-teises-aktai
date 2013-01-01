@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A719A97956F"
 
 # Lietuvos Respublikos informacinės visuomenės paslaugų įstatymas
 
-Suvestinė redakcija nuo 2010-05-25 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2016-12-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 65-2380, i. k. 1061010ISTA000X-614
  
@@ -90,32 +90,98 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Elgesio (etikos) kodeksas – vertimąsi tam tikra veikla reglamentuojančios elgesio taisyklės, kurių laikosi savanoriškai ar dėl priklausymo reglamentuojamai profesijai privalo laikytis tokia veikla besiverčiantys asmenys.
+2. Elektroninė siunta – naudojantis elektroninio pristatymo paslauga sudaryta elektroninių duomenų rinkmena, susidedanti iš elektroninio voko ir vieno ar kelių elektroninių dokumentų arba elektroninių dokumentų išrašų, nuorašų, konvertuotų kopijų, dokumentų skaitmeninių kopijų ar kitų elektroninių duomenų. 
+Papildyta straipsnio dalimi:
+Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
+ 
 
 
 
 
-3. Informacinė sistema – techninių ir programinių priemonių visuma, naudojama informacijai kurti, siųsti, priimti, išsaugoti ar kitaip tvarkyti elektroniniu būdu.
+3. Elektroninės siuntos gavėjas (toliau – gavėjas) – fizinis ar juridinis asmuo ar kita organizacija, ar jų padalinys, kuriems yra siunčiama elektroninė siunta. 
+Papildyta straipsnio dalimi:
+Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
+ 
 
 
 
 
-4. Informacinės visuomenės paslaugos – paprastai už atlyginimą elektroninėmis priemonėmis ir per atstumą individualiu informacinės visuomenės paslaugos gavėjo prašymu teikiamos paslaugos.
+4. Elektroninės siuntos siuntėjas (toliau – siuntėjas) – fizinis ar juridinis asmuo ar kita organizacija, ar jų padalinys, kurie siunčia elektroninę siuntą. 
+Papildyta straipsnio dalimi:
+Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
+ 
 
 
 
 
-5. Informacinės visuomenės paslaugos gavėjas (toliau – paslaugos gavėjas) – kiekvienas fizinis ar juridinis asmuo, įskaitant užsienio juridinio asmens atstovybę ar filialą, kuris naudojasi informacinės visuomenės paslauga.
+5. Elektroninio pristatymo paslauga – informacinės visuomenės paslauga, kuria suteikiama galimybė elektroninės siuntos siuntėjui sudaryti ir siųsti, o elektroninės siuntos gavėjui – gauti elektronines siuntas. 
+Papildyta straipsnio dalimi:
+Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
+ 
 
 
 
 
-6. Įsisteigęs paslaugos teikėjas – paslaugos teikėjas, kuris verčiasi veikla nuolatinėje buveinėje (jei tai juridinis asmuo) arba nuolatinėje gyvenamojoje vietoje (jei tai fizinis asmuo) tam tikroje teritorijoje.
+6. Elektroninio pristatymo paslaugos teikėjas – fizinis ar juridinis asmuo ar kita organizacija, ar jų padalinys, teikiantys elektroninio pristatymo paslaugą. 
+Papildyta straipsnio dalimi:
+Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
+ 
 
 
 
 
-7. Komercinė informacija – bet kokia forma ir bet kokiomis priemonėmis skleidžiama informacija, skirta prekėms, paslaugoms ar asmens, besiverčiančio ūkine komercine veikla arba reglamentuojama profesine veikla, įvaizdžiui tiesiogiai arba netiesiogiai reklamuoti. Komercine informacija savaime nėra laikoma:
+7. Elektroninis vokas – elektroninės siuntos dalis, kurią sudaro informacija apie siuntėją, gavėją, elektroninės siuntos išsiuntimo, pristatymo ir gavimo laiką ir (ar) kiti elektroninės siuntos metaduomenys. 
+Papildyta straipsnio dalimi:
+Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
+ 
+
+
+
+
+8. Elgesio (etikos) kodeksas – vertimąsi tam tikra veikla reglamentuojančios elgesio taisyklės, kurių laikosi savanoriškai ar dėl priklausymo reglamentuojamai profesijai privalo laikytis tokia veikla besiverčiantys asmenys.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
+ 
+
+
+
+
+9. Informacinė sistema – techninių ir programinių priemonių visuma, naudojama informacijai kurti, siųsti, priimti, išsaugoti ar kitaip tvarkyti elektroniniu būdu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
+ 
+
+
+
+
+10. Informacinės visuomenės paslaugos – paprastai už atlyginimą elektroninėmis priemonėmis ir per atstumą individualiu informacinės visuomenės paslaugos gavėjo prašymu teikiamos paslaugos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
+ 
+
+
+
+
+11. Informacinės visuomenės paslaugos gavėjas (toliau – paslaugos gavėjas) – fizinis ar juridinis asmuo ar kita organizacija, ar jų padalinys, kurie naudojasi informacinės visuomenės paslauga. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
+ 
+
+
+
+
+12. Įsisteigęs paslaugos teikėjas – paslaugos teikėjas, kuris verčiasi veikla nuolatinėje buveinėje (jei tai juridinis asmuo) arba nuolatinėje gyvenamojoje vietoje (jei tai fizinis asmuo) tam tikroje teritorijoje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
+ 
+
+
+
+
+13. Komercinė informacija – bet kokia forma ir bet kokiomis priemonėmis skleidžiama informacija, skirta prekėms, paslaugoms ar asmens, besiverčiančio ūkine komercine veikla arba reglamentuojama profesine veikla, įvaizdžiui tiesiogiai arba netiesiogiai reklamuoti. Komercine informacija savaime nėra laikoma:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
+ 
 
 
 1) informacija, leidžianti tiesiogiai susipažinti su asmens veikla, ypač interneto adresų srities simbolinis pavadinimas arba elektroninio pašto adresas;
@@ -130,42 +196,73 @@ BENDROSIOS NUOSTATOS
 
 
 
-8. Kompetentinga institucija – Lietuvos Respublikos valstybės institucija ar įstaiga, kuriai įstatymai ir kiti teisės aktai suteikia įgaliojimus prižiūrėti paslaugų teikėjų veiklą ir (ar) apriboti jų laisvę teikti informacinės visuomenės paslaugas.
+14. Kompetentinga institucija – Lietuvos Respublikos valstybės institucija ar įstaiga, kuriai įstatymai ir kiti teisės aktai suteikia įgaliojimus prižiūrėti paslaugų teikėjų veiklą ir (ar) apriboti jų laisvę teikti informacinės visuomenės paslaugas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
+ 
 
 
 
 
-9. Paslaugos teikėjas – informacinės visuomenės paslaugą teikiantis fizinis ar juridinis asmuo, įskaitant užsienio juridinio asmens filialą ar atstovybę.
+15. Paslaugos teikėjas – informacinės visuomenės paslaugą teikiantis fizinis ar juridinis asmuo ar kita organizacija, ar jų padalinys. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
+ 
 
 
 
 
-10. Paslaugų teikimas elektroninėmis priemonėmis – kai informacinės visuomenės paslauga iš pradžių yra teikiama ir gaunama jos paskirties vietoje, naudojant elektroninę įrangą duomenims tvarkyti ir saugoti, o galutinai perduodama ir priimama elektroninių ryšių tinklu.
+16. Paslaugų teikimas elektroninėmis priemonėmis – kai informacinės visuomenės paslauga iš pradžių yra teikiama ir gaunama jos paskirties vietoje, naudojant elektroninę įrangą duomenims tvarkyti ir saugoti, o galutinai perduodama ir priimama elektroninių ryšių tinklu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
+ 
 
 
 
 
-11. Paslaugų teikimas per atstumą – informacinės visuomenės paslaugos teikimas, kai paslaugos teikėjas ir paslaugos gavėjas nėra kartu vienoje vietoje.
+17. Paslaugų teikimas per atstumą – informacinės visuomenės paslaugos teikimas, kai paslaugos teikėjas ir paslaugos gavėjas nėra kartu vienoje vietoje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
+ 
 
 
 
 
-12. Pradinis perdavimo šaltinis – informacija, saugoma informacinėje sistemoje, kurioje ją saugoti pateikė paslaugos gavėjas ir iš kurios ji pirmiausia perduodama elektroninių ryšių tinklu.
+18. Pradinis perdavimo šaltinis – informacija, saugoma informacinėje sistemoje, kurioje ją saugoti pateikė paslaugos gavėjas ir iš kurios ji pirmiausia perduodama elektroninių ryšių tinklu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
+ 
 
 
 
 
-13. Reglamentuojama profesinė veikla – profesinė veikla, kai vertimasis tokia veikla arba vienas iš tokios veiklos vertimosi būdų Europos Sąjungos valstybėje narėje pagal įstatymus ir kitus teisės aktus tiesiogiai ar netiesiogiai priklauso nuo kvalifikaciją ar kompetenciją patvirtinančio dokumento turėjimo. Reglamentuojamų profesinės veiklos rūšių sąrašą nustato Vyriausybė.
+19. Reglamentuojama profesinė veikla – profesinė veikla, kai vertimasis tokia veikla arba vienas iš tokios veiklos vertimosi būdų Europos Sąjungos valstybėje narėje pagal įstatymus ir kitus teisės aktus tiesiogiai ar netiesiogiai priklauso nuo kvalifikaciją ar kompetenciją patvirtinančio dokumento turėjimo. Reglamentuojamų profesinės veiklos rūšių sąrašą nustato Vyriausybė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
+ 
 
 
 
 
-14. Suderinta sritis – teisės normos, kurios nustato reikalavimus paslaugų teikėjų veiklai (tarp jų reikalavimus, reglamentuojančius jų atsakomybę) ir informacinės visuomenės paslaugoms, nepaisant to, ar teisės normose nustatyti reikalavimai yra bendri ar taikomi tik paslaugų teikėjams ir informacinės visuomenės paslaugoms. Suderinta sritis neapima teisės normų, kurios nustato reikalavimus, taikomus su informacinės visuomenės paslaugomis susijusioms prekėms ir jų pristatymui, taip pat teisės normų, taikomų ne elektroninėmis priemonėmis teikiamoms paslaugoms.
+20. Suderinta sritis – teisės normos, kurios nustato reikalavimus paslaugų teikėjų veiklai (tarp jų reikalavimus, reglamentuojančius jų atsakomybę) ir informacinės visuomenės paslaugoms, nepaisant to, ar teisės normose nustatyti reikalavimai yra bendri ar taikomi tik paslaugų teikėjams ir informacinės visuomenės paslaugoms. Suderinta sritis neapima teisės normų, kurios nustato reikalavimus, taikomus su informacinės visuomenės paslaugomis susijusioms prekėms ir jų pristatymui, taip pat teisės normų, taikomų ne elektroninėmis priemonėmis teikiamoms paslaugoms.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
+ 
 
 
 
 
-15. Užsakymas – paslaugos gavėjo paslaugos teikėjui elektroninėmis priemonėmis pateiktas pasiūlymas sudaryti sutartį (oferta) arba pateikto pasiūlymo sudaryti sutartį priėmimas (akceptas).
+21. Užsakymas – paslaugos gavėjo paslaugos teikėjui elektroninėmis priemonėmis pateiktas pasiūlymas sudaryti sutartį (oferta) arba pateikto pasiūlymo sudaryti sutartį priėmimas (akceptas).
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
+ 
+
+
+
+
+22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos dokumentų ir archyvų įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos elektroninio parašo įstatyme, Lietuvos Respublikos pašto įstatyme ir kituose teisės aktuose.
+Papildyta straipsnio dalimi:
+Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
  
 
 
@@ -534,6 +631,89 @@ SUTARČIŲ SUDARYMAS ELEKTRONINĖMIS PRIEMONĖMIS KOMERCINĖS INFORMACIJOS TEIKI
 
 
 
+
+
+
+
+IV1 SKYRIUS
+ELEKTRONINIO PRISTATYMO PASLAUGA
+ 
+
+
+111 straipsnis. Elektroninės siuntos išsiuntimas, pristatymas ir gavimas
+
+
+1. Elektroninės siuntos išsiuntimo ir pristatymo gavėjui laikas turi būti patvirtinamas elektroniniais duomenimis, logiškai susietais su elektronine siunta, kurie įrašomi į elektroninį voką. Elektroninės siuntos išsiuntimo metu užfiksuoti elektroniniai duomenys patvirtina, kad elektroninė siunta buvo išsiųsta nurodytu laiku. Elektroninės siuntos pristatymo gavėjui metu užfiksuoti elektroniniai duomenys patvirtina, kad elektroninė siunta buvo pristatyta gavėjui nurodytu laiku.
+
+
+
+
+2. Elektroninė siunta yra laikoma gauta nuo to momento, kai gavėjas, kuriam elektroninė siunta adresuota, gali šią elektroninę siuntą pasiekti, tai yra nuo to momento, kai gavėjas, kuriam elektroninė siunta adresuota, pirmą kartą po elektroninės siuntos pristatymo jam prisijungia prie informacinės sistemos, kurioje elektroninė siunta yra pristatyta, jeigu kiti įstatymai nenustato kitaip. Elektroninės siuntos gavimo laikas turi būti patvirtinamas elektroniniais duomenimis, logiškai susietais su elektronine siunta, kurie įrašomi į elektroninį voką. Elektroninės siuntos gavimo metu užfiksuoti elektroniniai duomenys patvirtina, kad elektroninė siunta buvo gauta nurodytu laiku. Siuntėjo prašymu elektroninio pristatymo paslaugos teikėjas pateikia įrodymus, kad gavėjas, kuriam elektroninė siunta adresuota, elektroninę siuntą gavo.
+
+
+
+
+3. Elektroninės siuntos išsiuntimo, pristatymo ir gavimo laiko patvirtinimo tvarką nustato Vyriausybė.
+ 
+
+
+
+
+
+
+112 straipsnis. Elektroninės siuntos galia
+
+
+Elektroninė siunta turi tokią pat teisinę ir įrodomąją galią kaip ir registruotoji pašto siunta.
+ 
+
+
+
+
+
+
+113 straipsnis. Žalos atlyginimas
+
+
+Žala dėl prarastų, sugadintų elektroninių siuntų atlyginama vadovaujantis šiuo įstatymu, jeigu elektroninio pristatymo paslaugos teikėjo ir siuntėjo sudarytoje sutartyje nenumatyta kitaip. Jeigu elektroninė siunta dingsta, būna pavogta ar sugadinta dėl elektroninio pristatymo paslaugos teikėjo kaltės, elektroninio pristatymo paslaugos teikėjas atlygina siuntėjui tik elektroninės siuntos siuntimo išlaidas. Jeigu elektroninio pristatymo paslaugos teikėjo ir siuntėjo sudaryta sutartis pablogina siuntėjo padėtį, taikomos šio straipsnio nuostatos.
+ 
+
+
+
+
+
+
+114 straipsnis. Elektroninės siuntos duomenų slaptumas ir saugumas
+
+
+1. Elektroninio pristatymo paslaugos teikėjas privalo siuntėjui ir gavėjui garantuoti elektroninės siuntos turinio konfidencialumą ir susirašinėjimo slaptumą.
+
+
+
+
+2. Elektroninio pristatymo paslaugai taikomus saugos reikalavimus nustato Vyriausybė.
+
+
+
+
+3. Reikalavimus, taikomus elektroninio pristatymo paslaugai teikti naudojamai informacinei sistemai ir vartotojo, prisijungiančio prie tokios sistemos, identifikavimui, nustato Vyriausybė.
+
+
+
+
+4. Siuntėjas ar gavėjas neturi teisės perleisti kitam asmeniui prisijungimo prie elektroninio pristatymo paslaugai teikti naudojamos informacinės sistemos duomenų. Siuntėjas ar gavėjas yra atsakingas už prisijungimo prie elektroninio pristatymo paslaugai teikti naudojamos informacinės sistemos duomenų saugojimą.
+
+
+
+
+5. Elektroninio pristatymo paslaugos teikėjui draudžiama teikti informaciją apie siuntėjų ar gavėjų siunčiamas ar gaunamas elektronines siuntas arba sudaryti sąlygas gauti šią informaciją, išskyrus turimą ir reikalingą nusikalstamoms veikoms užkardyti, tirti, nustatyti informaciją, kurią elektroninio pristatymo paslaugos teikėjas privalo pateikti kriminalinės žvalgybos pagrindinėms institucijoms, Vyriausybės nurodytoms ikiteisminio tyrimo įstaigoms, prokurorui, teismui ar teisėjui teisės aktų nustatyta tvarka ir atvejais, kurie yra taikomi informacijos perdavimui elektroninių ryšių tinklais ir elektroninių ryšių tinklų ir (ar) paslaugų teikėjams.
+
+
+
+
+Papildyta skyriumi:
+Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
+ 
 
 
 
@@ -969,3 +1149,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-800, 2010-05-11, Žin., 2010, Nr. 60-2959 (2010-05-25), i. k. 1101010ISTA00XI-800
 Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo 4, 18, 19 straipsnių pakeitimo ir papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. 1121010ISTA0XI-2382
+Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo 2 straipsnio papildymo ir pakeitimo ir Įstatymo papildymo IV-1 skyriumi įstatymas
