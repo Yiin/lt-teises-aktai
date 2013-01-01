@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9C9FA25983BC"
 
 # Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymas
 
-Suvestinė redakcija nuo 2012-01-01 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2013-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 41-1162, i. k. 1001010ISTAIII-1649
  
@@ -163,9 +163,10 @@ Specialiųjų tyrimų tarnyba saugo ir gina asmenį, visuomenę, valstybę nuo k
 Specialiųjų tyrimų tarnyba:
 
 
-1) vykdo operatyvinę veiklą siekdama atskleisti korupcinio pobūdžio nusikalstamas veikas ir užkirsti joms kelią; 
+1) vykdo kriminalinę žvalgybą siekdama atskleisti korupcinio pobūdžio nusikalstamas veikas ir užkirsti joms kelią; 
 Straipsnio punkto pakeitimai:
 Nr. IX-1410, 2003-04-01, Žin., 2003, Nr. 38-1657 (2003-04-24), i. k. 1031010ISTA0IX-1410
+Nr. XI-2259, 2012-10-02, Žin., 2012, Nr. 122-6118 (2012-10-20), i. k. 1121010ISTA0XI-2259
  
 
 
@@ -561,7 +562,10 @@ SPECIALIŲJŲ TYRIMŲ TARNYBOS PAREIGŪNŲ TEISINĖ APSAUGA
 
 
 
-2. Valstybės institucijoms ir įstaigoms ar jų tarnautojams, politinėms partijoms, visuomeninėms organizacijoms ir judėjimams, visuomenės informavimo priemonėms, kitiems fiziniams ir juridiniams asmenims draudžiama kištis į Specialiųjų tyrimų tarnybos pareigūnų operatyvinę ar kitą tarnybinę veiklą.
+2. Valstybės institucijoms ir įstaigoms ar jų tarnautojams, politinėms partijoms, visuomeninėms organizacijoms ir judėjimams, visuomenės informavimo priemonėms, kitiems fiziniams ir juridiniams asmenims draudžiama kištis į Specialiųjų tyrimų tarnybos pareigūnų vykdomą kriminalinę žvalgybą ar kitą tarnybinę veiklą. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2259, 2012-10-02, Žin., 2012, Nr. 122-6118 (2012-10-20), i. k. 1121010ISTA0XI-2259
+ 
 
 
 
@@ -603,7 +607,10 @@ Nr. IX-1410, 2003-04-01, Žin., 2003, Nr. 38-1657 (2003-04-24), i. k. 1031010IST
 
 
 
-4. Tarnybos pareigūnų ir jų šeimos narių apsaugai gali būti taikomos priemonės, numatytos Baudžiamojo proceso bei operatyvinės veiklos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatyme.
+4. Tarnybos pareigūnų ir jų šeimos narių apsaugai gali būti taikomos priemonės, numatytos Baudžiamojo proceso bei kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2259, 2012-10-02, Žin., 2012, Nr. 122-6118 (2012-10-20), i. k. 1121010ISTA0XI-2259
+ 
 
 
 
@@ -693,7 +700,10 @@ SPECIALIŲJŲ TYRIMŲ TARNYBOS FINANSAVIMAS, MATERIALINIS APRŪPINIMAS IR VEIKLO
 
 
 
-2. Specialiųjų tyrimų tarnyba gali turėti specialiųjų lėšų operatyvinei veiklai užtikrinti.
+2. Specialiųjų tyrimų tarnyba gali turėti specialiųjų lėšų kriminalinei žvalgybai užtikrinti. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2259, 2012-10-02, Žin., 2012, Nr. 122-6118 (2012-10-20), i. k. 1121010ISTA0XI-2259
+ 
 
 
 
@@ -845,3 +855,8 @@ Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 2 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1390, 2011-05-19, Žin., 2011, Nr. 68-3221 (2011-06-04), i. k. 1111010ISTA0XI-1390
 Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 11 straipsnio pakeitimo ir įstatymo papildymo 11-1 straipsniu įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2259, 2012-10-02, Žin., 2012, Nr. 122-6118 (2012-10-20), i. k. 1121010ISTA0XI-2259
+Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 8, 16, 17 ir 20 straipsnių pakeitimo įstatymas
