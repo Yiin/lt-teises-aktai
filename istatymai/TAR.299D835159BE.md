@@ -21,6 +21,10 @@ TEISMINĮ BENDRADARBIAVIMĄ BAUDŽIAMOSIOSE BYLOSE, TEISINĖS APSAUGOS ĮSTATYMA
 
 
 
+Suvestinė redakcija nuo 2013-01-01 iki 2018-07-15
+ 
+Įstatymas paskelbtas: Žin. 2011, Nr. 52-2511, i. k. 1111010ISTA0XI-1336
+ 
 LIETUVOS RESPUBLIKOS 
 ASMENS DUOMENŲ, TVARKOMŲ VYKDANT POLICIJOS IR TEISMINĮ  BENDRADARBIAVIMĄ BAUDŽIAMOSIOSE BYLOSE, TEISINĖS APSAUGOS 
 ĮSTATYMAS
@@ -69,7 +73,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Lietuvos kompetentingos institucijos – operatyvinės veiklos subjektų pagrindinės institucijos, ikiteisminio tyrimo įstaigos, Lietuvos Respublikos prokuratūra ir teismai.
+3. Lietuvos kompetentingos institucijos – kriminalinės žvalgybos pagrindinės institucijos, ikiteisminio tyrimo įstaigos, Lietuvos Respublikos prokuratūra ir teismai.
+Straipsnio dalies pakeitimai:
+Nr. XI-2237, 2012-10-02, Žin., 2012, Nr. 122-6096 (2012-10-20), i. k. 1121010ISTA0XI-2237
+ 
 
 
 
@@ -583,3 +590,11 @@ priedas
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 2008 m. lapkričio 27 d. Tarybos pamatinis sprendimas 2008/977/TVR dėl asmens duomenų, tvarkomų vykdant policijos ir teisminį bendradarbiavimą baudžiamosiose bylose, apsaugos (OL 2008 L 350, p. 60).
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2237, 2012-10-02, Žin., 2012, Nr. 122-6096 (2012-10-20), i. k. 1121010ISTA0XI-2237
+Lietuvos Respublikos asmens duomenų, tvarkomų vykdant policijos ir teisminį bendradarbiavimą baudžiamosiose bylose, teisinės apsaugos įstatymo 2 straipsnio pakeitimo įstatymas
