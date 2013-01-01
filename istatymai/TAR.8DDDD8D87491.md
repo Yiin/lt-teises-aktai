@@ -13,36 +13,42 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8DDDD8D87491"
 
 # Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymas
 
-Suvestinė redakcija nuo 2004-02-14 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2728, i. k. 0971010ISTAVIII-500
  
+Nauja redakcija nuo 2013-01-01:
+Nr. XI-2271, 2012-10-03, Žin. 2012, Nr. 122-6126 (2012-10-20), i. k. 1121010ISTA0XI-2271
+ 
 LIETUVOS RESPUBLIKOS
-GYVŪNŲ GLOBOS, LAIKYMO IR NAUDOJIMO
-Į S T A T Y M A S
+GYVŪNŲ GEROVĖS IR APSAUGOS
+ĮSTATYMAS
  
 1997 m. lapkričio 6 d. Nr. VIII-500
 Vilnius
+ 
+ 
+
+
+PIRMASIS SKIRSNIS
+BENDROSIOS NUOSTATOS
  
 
 
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Lietuvos Respublikos gyvūnų globos, laikymo ir naudojimo įstatymas nustato fizinių ir juridinių asmenų elgesio su naminiais, ūkinės paskirties, dekoratyviniais, laboratoriniais, nelaisvėje laikomais ir laukiniais gyvūnais bendruosius principus, kad gyvūnai būtų apsaugoti nuo kančių, žiauraus elgesio ir kitų neigiamų poveikių ir būtų užtikrintas žmonių saugumas.
-Straipsnio dalies pakeitimai:
-Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
- 
+1. Šis įstatymas nustato valstybės ir savivaldybių institucijų kompetenciją užtikrinant gyvūnų, kaip juslių būtybių, gerovę ir apsaugą, fizinių ir juridinių asmenų, kitų organizacijų ir filialų (toliau – asmuo) pareigas gyvūnų apsaugos ir gerovės srityje, bepriežiūrių gyvūnų gerovę ir apsaugą, bešeimininkių gyvūnų populiacijos mažinimo priemones, humaniško elgesio su gyvūnais reikalavimus, kad gyvūnai būtų apsaugoti nuo žiauraus elgesio, kankinimo ir kito neigiamo poveikio ir būtų užtikrintas žmonių saugumas.
 
 
 
 
-2. Sausumoje, vandenyje, ore ir dirvoje laisvai gyvenančių laukinių gyvūnų apsaugą ir naudojimą reguliuoja Lietuvos Respublikos laukinės gyvūnijos įstatymas. 
+2. Tais atvejais, kai Lietuvos Respublikos Seimo (toliau – Seimas) ratifikuotos tarptautinės sutartys nustato kitas gyvūnų gerovės ir apsaugos sąlygas, yra taikomos tarptautinių sutarčių sąlygos.
 
 
 
 
-3. Tais atvejais, kai Seimo ratifikuotos tarptautinės sutartys nustato kitas gyvūnų globos, laikymo ir naudojimo sąlygas, yra taikomos tarptautinių sutarčių sąlygos, jeigu jos neprieštarauja Lietuvos Respublikos Konstitucijai.
+3. Laukinių gyvūnų gerovei ir apsaugai šio įstatymo nuostatos taikomos tiek, kiek to nereglamentuoja Lietuvos Respublikos laukinės gyvūnijos įstatymas.
  
 
 
@@ -53,166 +59,147 @@ Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Gyvūnai – visų rūšių laukiniai gyvūnai, taip pat gyvūnai, kurių auginimu ir laikymu rūpinasi žmogus.
+1. Bandomasis gyvūnas – eksperimentams ar kitiems mokslo tikslams veisiamas, auginamas, naudojamas ar numatomas naudoti gyvūnas.
 
 
 
 
-2. Laukiniai gyvūnai – nuolat laisvėje gyvenantys bestuburiai ir stuburiniai gyvūnai bei jų populiacijos. 
+2. Bepriežiūris gyvūnas – gyvūno laikytojo neprižiūrimas gyvūnas, kuris yra už gyvūno laikytojo valdomo gyvenamojo ar negyvenamojo pastato ar kitos teritorijos ribų.
 
 
 
 
-3. Naminiai gyvūnai – visi istoriškai prijaukinti (domestikuoti) gyvūnai.
+3. Bešeimininkis gyvūnas – gyvūnas, kuris neturi savininko ar jis nežinomas arba kurio savininkas atsisakė neperduodamas jo kitam savininkui.
 
 
 
 
-4. Ūkinės paskirties gyvūnai – visi gyvūnai, laikomi ir veisiami maistui, kailiams, vaistams ir kitai produkcijai gauti, namams saugoti, darbo ir kitiems tikslams.
+4. Gyvūnas – bet kokios rūšies ūkinis ar laukinis gyvūnas arba gyvūnas augintinis.
 
 
 
 
-5. Dekoratyviniai gyvūnai – visi prijaukinti (domestikuoti) ar jaukinami laukiniai gyvūnai, laikomi tenkinti žmonių estetinius, auklėjimo ir mokymo poreikius. Šiai kategorijai priskirtini ir laukiniai gyvūnai, laikomi zoologijos soduose, akvariumuose, terariumuose, okeanariumuose ir gamtininkų stotyse. 
+5. Gyvūnas augintinis – gyvūnas, laikomas estetiniams ir bendravimo poreikiams tenkinti.
 
 
 
 
-6. Laboratoriniai (eksperimentiniai) gyvūnai – visi gyvūnai, specialiai auginami arba atrinkti laboratoriniams tyrimams ar eksperimentams.
+6. Gyvūno augintinio ženklinimas – gyvūno augintinio žymėjimas išoriniu ženklu, tatuiruote ar mikroschema.
 
 
 
 
-7. Benamiai gyvūnai – naminiai ar buvę prijaukinti laukiniai gyvūnai, netekę ryšio su savininkais.
+7. Gyvūno laikymas – gyvūno gyvenimo, mitybos, zoohigienos sąlygų sudarymas.
 
 
 
 
-8. Nelaisvėje gyvenantys laukiniai gyvūnai – gyvūnai, kuriems sudaromos dirbtinės sąlygos, kad žmogus galėtų tiesiogiai juos veikti. Šiai kategorijai priskiriami zoologijos soduose, akvariumuose, terariumuose, okeanariumuose, namų sąlygomis laikomi arba dėl sužeidimų ar kitų priežasčių susiję su žmogumi gyvūnai.
+8. Gyvūno laikytojas – asmuo, kuris yra gyvūno savininkas ar jį laiko atlygintinai ar neatlygintinai.
 
 
 
 
-9. Pavojingi gyvūnai – gyvūnai, kurie dėl biologinių savybių nuolat kelia pavojų žmonių ar gyvūnų gyvybei ir sveikatai.
+9. Gyvūno nugaišinimas – gyvūno nužudymas veterinariniais vaistais.
 
 
 
 
-10. Agresyvūs šunys – kovoms išvestų veislių šunys bei jų mišrūnai, taip pat kitų pavojingų veislių šunys ir jų mišrūnai, kurie kelia grėsmę asmenų gyvybei, sveikatai ar turtui. Agresyvių šunų veislių sąrašą tvirtina Vyriausybė ar jos įgaliota institucija.
-Papildyta straipsnio dalimi:
-Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
-Straipsnio dalies pakeitimai:
-Nr. IX-1697, 2003-07-04, Žin., 2003, Nr. 74-3418 (2003-07-25), i. k. 1031010ISTA0IX-1697
- 
+10. Gyvūno nužudymas – gyvybės atėmimas gyvūnui.
 
 
 
 
-11. Žmogaus elgesys su gyvūnais – tiesioginiai ir netiesioginiai žmonių veiksmai, kurie gali būti naudingi, nekenksmingi arba kenksmingi gyvūnui.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
- 
+11. Gyvūno registravimas – gyvūno duomenų įrašymas į tam tikrų gyvūnų registro duomenų bazę.
 
 
 
 
-12. Kenksmingas elgesys su gyvūnais – gyvūno mušimas, tyčinis žalojimas, spardymas, užmušimas kankinant, erzinimas, gąsdinimas ar kitoks streso sukėlimas, vertimas pernelyg ilgai dirbti, pjudymas, peštynių organizavimas, veterinarinės pagalbos susirgusiam ar susižeidusiam gyvūnui nesuteikimas, transportavimas ar laikymas tai rūšiai nepalankiomis sąlygomis, operavimas nenuskausminus, zoofiliniai ir sadistiniai veiksmai, taip pat gyvūno savininko leidimas atlikti tiesiogiai kenksmingus gyvūnui veiksmus.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
- 
+12. Gyvūno savininkas – asmuo, kuriam nuosavybės teise priklauso gyvūnas.
 
 
 
 
-13. Naudingas ir nekenksmingas elgesys su gyvūnais (gyvūnų globa) – žmogaus veikla, kuri tiesiogiai teigiamai veikia gyvūnų fizinę ir emocinę būseną arba nesukelia jokių neigiamų pasekmių.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
- 
+13. Gyvūnų apsauga – priemonės gyvūnų gerovei užtikrinti.
 
 
 
 
-14. Gyvūno laikymas – žmogaus veikla, nuo kurios priklauso gyvūno egzistavimo zoohigienos sąlygos, komfortas ar diskomfortas. 
-Straipsnio dalies numeracijos pakeitimas:
-Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
- 
+14. Gyvūnų augintinių veisėjas – asmuo, turintis Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka išduotą leidimą veisti gyvūnus augintinius verslo tikslais.
 
 
 
 
-15. Gyvūno savininkas – kiekvienas sukakęs 16 metų fizinis ar juridinis asmuo , kuris nuolat ar laikinai augina gyvūną.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
- 
+15. Gyvūnų gerovė – optimalus gyvūnų fiziologinių ir etologinių poreikių tenkinimas.
 
 
 
 
-16. Agresyvaus šuns ženklinimas – agresyvaus šuns žymėjimas išorinio ženklinimo žymekliu ir tatuiruote ar implantu – mikroschema.
-Papildyta straipsnio dalimi:
-Nr. IX-1978, 2004-01-27, Žin., 2004, Nr. 25-753 (2004-02-14), i. k. 1041010ISTA0IX-1978
- 
+16. Gyvūnų globa – asmens veikla, skirta gyvūno gerovei ir apsaugai užtikrinti.
 
 
 
 
-17. Agresyvaus šuns tapatybės nustatymas – paženklinto agresyvaus šuns ir jo savininko nustatymas (atpažinimas) pagal agresyvaus šuns išorinio ženklinimo žymeklį ir tatuiruotę ar implantą – mikroschemą.
-Papildyta straipsnio dalimi:
-Nr. IX-1978, 2004-01-27, Žin., 2004, Nr. 25-753 (2004-02-14), i. k. 1041010ISTA0IX-1978
- 
+17. Gyvūnų globėjas – asmuo, atitinkantis teisės aktų nustatytus reikalavimus ir užsiimantis bepriežiūrių ir bešeimininkių gyvūnų globa ir (ar) laikinąja gyvūnų globa.
 
 
 
 
+18. Gyvūnų globos namai – asmuo, turintis teisės aktų nustatytus reikalavimus atitinkančias patalpas, kuriose gyvūnai laikomi, kol nugaiš (išskyrus atvejus, kai dėl gyvūnų sveikatos būklės ar agresyvumo juos būtina nugaišinti), bešeimininkiai ir bepriežiūriai gyvūnai – kol bus surasti nauji savininkai, sužeisti ar sergantys laukiniai gyvūnai – kol juos bus galima išleisti į laisvę.
 
 
-3 straipsnis. Šio įstatymo draudžiami veiksmai
 
 
-Šis įstatymas draudžia:
+19. Kovinio šuns mišrūnas – negrynaveislis šuo, kurio bent vienas iš tėvų yra kovinis šuo.
 
 
-1) be pateisinamos priežasties sužeisti, gąsdinti ar numarinti gyvūną;
 
 
+20. Kovinis šuo – kovoms išvestos veislės šuo, įrašytas į Kovinių šunų veislių sąrašą, kurį tvirtina Valstybinės maisto ir veterinarijos tarnybos direktorius.
 
 
-2) numarinti gyvūną skandinant, smaugiant arba užkasant, naudoti metodus ar vaistus, kurių pasekmės negali būti kontroliuojamos;
 
 
+21. Laikinoji gyvūnų globa (toliau – laikinoji globa) – asmens veikla, kuria užtikrinama bešeimininkių ar bepriežiūrių gyvūnų gerovė ir apsauga, kol bus nustatytas jų savininkas ar laikytojas, laikantis Lietuvos Respublikos civilinio kodekso (toliau – Civilinis kodeksas) 4.61 straipsnio 3 dalyje nustatytų terminų.
 
 
-3) treniruojantis naudoti gyvūnus kaip taikinius;
 
 
+22. Laukinis gyvūnas – laisvėje gyvenantis arba nelaisvėje laikomas laukinio gyvūno rūšies bet kurios biologinio vystymosi stadijos individas.
 
 
-4) organizuoti gyvūnų kovas ar kovas su gyvūnais;
 
 
+23. Pavojingas šuo – pavojingos veislės šuo, įrašytas į Pavojingų šunų veislių sąrašą, kurį tvirtina Valstybinės maisto ir veterinarijos tarnybos direktorius.
 
 
-5) gyvūną, kurio egzistavimas priklauso nuo žmogaus rūpinimosi, palikti be priežiūros norint juo atsikratyti;
 
 
+24. Pavojingo šuns mišrūnas – negrynaveislis šuo, kurio bent vienas iš tėvų yra pavojingas šuo.
 
 
-6) naudoti natūralias gyvūnų galimybes stimuliuojančias medžiagas turint tikslą didinti gyvūnų produktyvumą, darbingumą, sportinius rezultatus, išskyrus tas medžiagas, kurių naudojimą reglamentuoja Vyriausybė ar jos įgaliota institucija;
 
 
+25. Prekiautojas gyvūnais – asmuo, turintis Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka išduotą leidimą prekiauti gyvūnais.
 
 
-7) vežti gyvūnus transporto priemonėmis, kurios yra tam nepritaikytos arba netinka tai gyvūnų rūšiai, taip pat vežti gyvūnus be Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka išduoto leidimo (sertifikato) gyvūnams vežti;
 
 
+26. Skerdimas – apsvaiginto maistinio gyvūno nužudymas, nuleidžiant kraują.
 
 
-8) laikyti daugiau gyvūnų nei numatyta pastato, tvarto, voljero ar aptvaro teritorijos projekte;
 
 
+27. Ūkinis gyvūnas – gyvūnas, laikomas ar veisiamas maistui, kailiams, vaistams ir kitai produkcijai gauti, darbo ir kitais ūkininkavimo tikslais.
 
 
-9) mokyti ar dresuoti gyvūnus nuolat neigiamai skatinant (baudžiant).
+
+
+28. Verslinis gyvūnų augintinių veisimas – teisės aktų nustatyta tvarka vykdomas gyvūnų augintinių dauginimas verslo tikslais.
+
+
+
+
+29. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos kituose Lietuvos Respublikos įstatymuose ir kituose teisės aktuose.
  
 
 
@@ -220,17 +207,258 @@ Nr. IX-1978, 2004-01-27, Žin., 2004, Nr. 25-753 (2004-02-14), i. k. 1041010ISTA
 
 
 
+3 straipsnis. Valstybės ir savivaldybių institucijų kompetencija
 
 
-4 straipsnis. Gyvūnų auginimo ir laikymo sąlygos
-
-
-1. Gyvūnai turi būti auginami ir laikomi tokiomis sąlygomis, kurios nėra kenksmingos gyvūnui.
+1. Gyvūnų gerovės ir apsaugos užtikrinimą pagal kompetenciją vykdo Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė), Lietuvos Respublikos aplinkos ministerija (toliau – Aplinkos ministerija) ar jos įgaliotos institucijos, Lietuvos Respublikos sveikatos apsaugos ministerija (toliau – Sveikatos apsaugos ministerija) ar jos įgaliotos institucijos, Lietuvos Respublikos susisiekimo ministerija (toliau – Susisiekimo ministerija), Lietuvos Respublikos švietimo ir mokslo ministerija (toliau – Švietimo ir mokslo ministerija), Lietuvos Respublikos vidaus reikalų ministerija (toliau – Vidaus reikalų ministerija) ar jos įgaliotos institucijos, Lietuvos Respublikos žemės ūkio ministerija (toliau – Žemės ūkio ministerija) ar jos įgaliotos institucijos, Valstybinė maisto ir veterinarijos tarnyba, savivaldybių administracijos.
 
 
 
 
-2. Auginimo ir laikymo sąlygos turi būti parenkamos atsižvelgiant į gyvūno rūšies bei veislės ypatumus. 
+2. Vyriausybė ar jos įgaliota institucija:
+
+
+1) koordinuoja gyvūnų gerovės ir apsaugos valstybinių strategijų ir programų rengimą ir jas tvirtina;
+
+
+
+
+2) įstatymų nustatyta tvarka sudaro tarptautines sutartis dėl gyvūnų gerovės ir apsaugos ir užtikrina jų vykdymą;
+
+
+
+
+3) nustato ūkinių gyvūnų laikymo vietų registravimo ir jose laikomų ūkinių gyvūnų apskaitos ir ženklinimo tvarką;
+
+
+
+
+4) atlieka kitas įstatymuose nustatytas funkcijas.
+
+
+
+
+
+
+3. Aplinkos ministerija ar jos įgaliotos institucijos:
+
+
+1) pagal kompetenciją formuoja valstybės politiką laukinių gyvūnų gerovės ir apsaugos srityje, padeda ją įgyvendinti įgaliotoms institucijoms;
+
+
+
+
+2) tvirtina kartu su Valstybine maisto ir veterinarijos tarnyba Laukinių gyvūnų naudojimo taisykles;
+
+
+
+
+3) tvirtina medžioklės Lietuvos Respublikos teritorijoje taisykles, kuriose nustato: medžiojamųjų gyvūnų rūšių sąrašą ir šių gyvūnų medžioklės terminus; draudžiamus ir leidžiamus medžioklės būdus ir jų taikymo terminus, draudžiamus ir leidžiamus naudoti įrankius bei kitus medžioklės reikalavimus;
+
+
+
+
+4) kartu su Muitinės departamentu prie Lietuvos Respublikos finansų ministerijos ir Valstybine maisto ir veterinarijos tarnyba tvirtina prekybos laukiniais gyvūnais taisykles;
+
+
+
+
+5) informuoja ir konsultuoja suinteresuotus asmenis dėl laukinių gyvūnų gerovės ir apsaugos;
+
+
+
+
+6) atlieka kitas teisės aktuose nustatytas funkcijas.
+
+
+
+
+
+
+4. Žemės ūkio ministerija ar jos įgaliotos institucijos:
+
+
+1) pagal kompetenciją formuoja valstybės politiką ūkinių gyvūnų, gyvūnų augintinių gerovės ir apsaugos srityje, paveda ją įgyvendinti įgaliotoms institucijoms, organizuoja, koordinuoja ir kontroliuoja, kaip ji įgyvendinama;
+
+
+
+
+2) informuoja ir konsultuoja suinteresuotus asmenis dėl ūkinių gyvūnų, gyvūnų augintinių gerovės ir apsaugos;
+
+
+
+
+3) nustato kačių, šunų ir šeškų bei kitų gyvūnų augintinių ženklinimo ir registravimo tvarką;
+
+
+
+
+4) atlieka kitas teisės aktuose nustatytas funkcijas.
+
+
+
+
+
+
+5. Vidaus reikalų ministerija ar jos įgaliotos institucijos pagal kompetenciją užtikrina, kad būtų laikomasi gyvūnų laikymo reikalavimų.
+
+
+
+
+6. Susisiekimo ministerija nustato gyvūnų vežimo visuomeninio transporto priemonėmis taisykles.
+
+
+
+
+7. Švietimo ir mokslo ministerija:
+
+
+1) įtraukia į formaliojo švietimo bendrojo ugdymo programas gyvūnų gerovės ir apsaugos temas;
+
+
+
+
+2) atlieka kitas teisės aktuose nustatytas funkcijas.
+
+
+
+
+
+
+8. Sveikatos apsaugos ministerija ar jos įgaliotos institucijos:
+
+
+1) renka ir apibendrina duomenis apie asmenis, kuriems buvo suteikta medicinos pagalba dėl gyvūno apkandžiojimo ar dėl kitokio sąlyčio su gyvūnais;
+
+
+
+
+2) atlieka kitas teisės aktuose nustatytas funkcijas.
+
+
+
+
+
+
+9. Valstybinė maisto ir veterinarijos tarnyba:
+
+
+1) pagal kompetenciją įgyvendina valstybės politiką gyvūnų gerovės ir apsaugos srityje;
+
+
+
+
+2) tvirtina ūkinių gyvūnų laikymo reikalavimus ir kontroliuoja, kaip jie įgyvendinami;
+
+
+
+
+3) nustato skerdžiamų ir kitu būdu nužudomų gyvūnų apsaugos reikalavimus ir kontroliuoja, kaip jie įgyvendinami;
+
+
+
+
+4) tvirtina bandomųjų gyvūnų laikymo ir naudojimo reikalavimus ir kontroliuoja, kaip jie įgyvendinami, išduoda leidimus atlikti bandymus su gyvūnais;
+
+
+
+
+5) tvirtina kovinių ir pavojingų veislių šunų sąrašus;
+
+
+
+
+6) tvirtina pavojingų šunų įvežimo, įsigijimo, veisimo, dresavimo, prekybos ir laikymo reikalavimus, taip pat kovinių šunų, kovinių šunų mišrūnų ir pavojingų šunų mišrūnų laikymo reikalavimus;
+
+
+
+
+7) tvirtina reikalavimus gyvūnų globėjams, gyvūnų globos namams, gyvūnų augintinių veisėjams ir kontroliuoja, kaip jie įgyvendinami;
+
+
+
+
+8) tvirtina prekybos ūkiniais gyvūnais ir gyvūnais augintiniais reikalavimus ir kontroliuoja, kaip jie įgyvendinami;
+
+
+
+
+9) tvirtina gyvūnų vežėjų leidimų, vežamų gyvūnų prižiūrėtojų kompetencijos pažymėjimų išdavimo tvarką;
+
+
+
+
+10) tvirtina veterinarinių procedūrų, kurias leidžiama atlikti specialiai apmokytiems asmenims, sąrašą ir nustato jų atlikimo tvarką;
+
+
+
+
+11) rengia gyvūnų laikymo savivaldybių teritorijų gyvenamosiose vietovėse tvarkos aprašą;
+
+
+
+
+12) organizuoja kačių, šunų ir šeškų, taip pat pagal poreikį kitų gyvūnų augintinių registravimą ir ženklinimą;
+
+
+
+
+13) tvirtina gyvūnų galimybes stimuliuojančių medžiagų, didinančių gyvūnų produktyvumą, darbingumą, sportinius rezultatus, naudojimo reikalavimus;
+
+
+
+
+14) kontroliuoja, kaip įgyvendinami vežamų gyvūnų apsaugos reikalavimai;
+
+
+
+
+15) informuoja ir konsultuoja suinteresuotus asmenis apie gyvūnų gerovės ir apsaugos reikalavimus;
+
+
+
+
+16) atlieka kitas teisės aktuose nustatytas funkcijas.
+
+
+
+
+
+
+10. Savivaldybių administracijos:
+
+
+1) pagal kompetenciją dalyvauja įgyvendinant gyvūnų gerovės ir apsaugos programas, informuoja ir skatina visuomenę globoti gyvūnus, išskyrus laukinius;
+
+
+
+
+2) vadovaudamosi Valstybinės maisto ir veterinarijos tarnybos patvirtintu gyvūnų laikymo savivaldybių teritorijų gyvenamosiose vietovėse tvarkos aprašu, tvirtina gyvūnų laikymo savivaldybių teritorijų gyvenamosiose vietovėse taisykles ir kontroliuoja, kaip jos įgyvendinamos;
+
+
+
+
+3) organizuoja bešeimininkių gyvūnų augintinių skaičiaus mažinimo savivaldybės teritorijoje veiklą, bepriežiūrių ir bešeimininkių gyvūnų laikinąją globą, bepriežiūrių gyvūnų grąžinimą savininkams;
+
+
+
+
+4) gali steigti gyvūnų augintinių kapines ir organizuoti tokių kapinių priežiūrą;
+
+
+
+
+5) išduoda leidimus įvežti, įsigyti, laikyti, veisti pavojingus šunis ir jais prekiauti, vykdo kovinių šunų, kovinių šunų mišrūnų, pavojingų šunų ir pavojingų šunų mišrūnų laikymo kontrolę savivaldybės teritorijoje;
+
+
+
+
+6) organizuoja kovinių šunų, kovinių šunų mišrūnų, pavojingų šunų ir pavojingų šunų mišrūnų paėmimą ir laikinąją globą;
+
+
+
+
+7) atlieka kitas teisės aktuose nustatytas funkcijas.
  
 
 
@@ -238,55 +466,266 @@ Nr. IX-1978, 2004-01-27, Žin., 2004, Nr. 25-753 (2004-02-14), i. k. 1041010ISTA
 
 
 
-5 straipsnis. Gyvūnų auginimas ir laikymas
 
 
-1. Gyvūnų laikymo gyvenamosiose vietovėse bei atskirų rūšių gyvūnų registravimo tvarką nustato Vyriausybė ar jos įgaliota institucija. Kaip laikomasi šios tvarkos, kontroliuoja Vyriausybės įgaliotos institucijos. 
-Papildyta straipsnio dalimi:
-Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
+4 straipsnis. Žiaurus elgesys su gyvūnais ir jų kankinimas
+
+
+1. Draudžiama žiauriai elgtis su gyvūnais ir juos kankinti, bet kokiomis priemonėmis tiesiogiai ar netiesiogiai propaguoti ir skatinti žiaurų elgesį su gyvūnais, jų kankinimą, kurstyti smurtą prieš gyvūnus.
+
+
+
+
+2. Žiauriu elgesiu su gyvūnais, jų kankinimu laikomi šie veiksmai:
+
+
+1) sąmoningas gyvūnų padarymas bešeimininkiais ar bepriežiūriais;
+
+
+
+
+2) veterinarinės pagalbos nesuteikimas, kai gyvūnams tokia pagalba būtina;
+
+
+
+
+3) gyvūnų gąsdinimas, sužeidimas ar nužudymas, išskyrus teisės aktuose numatytus atvejus;
+
+
+
+
+4) gyvūnų naudojimas taikiniams;
+
+
+
+
+5) gyvūnų kovų ar kovų su gyvūnais organizavimas, gyvūnų treniravimas kovoms;
+
+
+
+
+6) zoofiliniai veiksmai su gyvūnais;
+
+
+
+
+7) gyvūnų skerdimas jų neapsvaiginus, išskyrus teisės aktuose numatytus atvejus;
+
+
+
+
+8) gyvūnų operavimas jų nenuskausminus, išskyrus teisės aktuose numatytus atvejus;
+
+
+
+
+9) veterinarinės procedūros, siekiant pakeisti gyvūnų išvaizdą ar gyvūnų fiziologines funkcijas (ausų, barzdelių, skiauterių, snapų, uodegų trumpinimas, balso stygų, ragų, nagų, sparnų, kanopų ir ilčių pažeidimas ar pašalinimas, plunksnų išpešimas ar pašalinimas kitu būdu ir kt.), pažeidžiant gyvūnų kūno dalių, minkštųjų audinių ar kaulų struktūrą, išskyrus gyvūnų kastravimą ir kitus teisės aktuose numatytus atvejus arba veterinarines procedūras, atliekamas veterinarijos gydytojo sprendimu dėl gyvūno sveikatos;
+
+
+
+
+10) gyvūnų galimybes stimuliuojančių medžiagų, didinančių gyvūnų produktyvumą, darbingumą, sportinius rezultatus, naudojimas, išskyrus teisės aktuose leidžiamų medžiagų naudojimą ar kitus teisės aktuose numatytus atvejus;
+
+
+
+
+11) gyvūnų sveikatai žalingų ar erzinančių cheminių medžiagų bei kitų priemonių ir įrenginių, sukeliančių gyvūnams baimę, stresą, kančias ar žalingas pasekmes jų sveikatai ir gerovei, naudojimas;
+
+
+
+
+12) gyvūnų mokymas ir dresavimas, sukeliant jiems skausmą ir baimę, naudojant dirbtinai žalojančias ar skausmą, kančią sukeliančias priemones;
+
+
+
+
+13) gyvūnų agresijos kitų gyvūnų ar žmonių atžvilgiu skatinimas dresuojant gyvūnus, išskyrus tarnybiniais tikslais naudojamų gyvūnų dresavimą;
+
+
+
+
+14) gyvūnų veisimas, sukeliantis žalingas pasekmes gyvūnų sveikatai ir gerovei;
+
+
+
+
+15) gyvūnų laikymas jų rūšies, amžiaus, fiziologijos ir elgsenos neatitinkančiomis teisės aktuose nustatytomis sąlygomis;
+
+
+
+
+16) netinkamų, žalingų gyvūnų laikymo, priežiūros ar darbo įrenginių taikymas gyvūnams;
+
+
+
+
+17) nepakankamas gyvūnų šėrimas ar girdymas;
+
+
+
+
+18) poilsio laiko gyvūnams nesuteikimas, atsižvelgiant į jų fiziologinius poreikius;
+
+
+
+
+19) gyvų gyvūnų naudojimas kitiems gyvūnams šerti, išskyrus atvejus, kai šiuos gyvūnus būtina šerti gyvūnais pagal gyvūnų biologiją ir jų neįmanoma šerti kitaip (visais atvejais gyvūnų augintinių naudojimas gyvūnams šerti draudžiamas);
+
+
+
+
+20) gyvūnų vežimas, pažeidžiant gyvūnų gerovę vežimo metu reglamentuojančių teisės aktų reikalavimus;
+
+
+
+
+21) gyvūnų naudojimas reklamai, filmavimui, fotografavimui, parodose ir kituose renginiuose, jeigu dėl to gyvūnams sukeliamas skausmas, baimė, kančia, gyvūnai verčiami pranokti jų įgimtus gebėjimus ar yra luošinami;
+
+
+
+
+22) laukinių gyvūnų, kurie buvo prižiūrimi žmogaus, paleidimas į laisvę, jeigu šie gyvūnai nebuvo tinkamai paruošti gyventi natūralioje aplinkoje;
+
+
+
+
+23) gyvūno savininko ar laikytojo sutikimas atlikti šios dalies 1–22 punktuose nurodytus veiksmus ar sąlygų atlikti tokius veiksmus sudarymas;
+
+
+
+
+24) kiti veiksmai, sukeliantys gyvūnų žūtį, skausmą, kančią, pavojų gyvūnų sveikatai ar gyvybei, išskyrus teisės aktuose nustatytus atvejus.
+
+
+
+
+
+
+3. Už žiaurų elgesį su gyvūnais ir gyvūnų kankinimą asmenys traukiami administracinėn ar baudžiamojon atsakomybėn.
+
+
+
+
+4. Iš gyvūnų savininkų ar laikytojų, kurie kankina gyvūnus ar žiauriai elgiasi su jais, teismo sprendimu gyvūnai gali būti Lietuvos Respublikos įstatymų nustatyta tvarka paimti skersti, parduoti, perduoti kitam gyvūno laikytojui (įskaitant perdavimą gyvūnų globėjui) ar nugaišinti.
+
+
+
+
+5. Kol teismas priims sprendimą dėl gyvūno, kuriam dėl žiauraus elgesio su juo ar jo kankinimo gresia suluošinimas ar žūtis, savivaldybės administracijos direktoriaus įgaliotas asmuo, dalyvaujant Valstybinės maisto ir veterinarijos tarnybos veterinarijos gydytojui ir policijos pareigūnui, jeigu būtina užtikrinti viešąją tvarką, turi paimti tokį gyvūną ir perduoti jį gyvūnų globėjui.
  
 
 
 
 
-2. Savivaldybės tvirtina gyvūnų laikymo gyvenamosiose vietovėse savivaldybės teritorijoje taisykles ir prižiūri, kaip jos įgyvendinamos.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
+
+
+5 straipsnis. Veiksmai, nelaikomi žiauriu elgesiu su gyvūnais ir jų kankinimu
+
+
+1. Žiauriu elgesiu su gyvūnais ar jų kankinimu nelaikomi šie veiksmai:
+
+
+1) akvakultūros gyvūnų gaudymas, vadovaujantis teisės aktų reikalavimais;
+
+
+
+
+2) gyvūnų medžiojimas, vadovaujantis teisės aktų reikalavimais;
+
+
+
+
+3) pagal su savivaldybės administracija suderintas kačių kastravimo programas laisvėje sugautų ir kastruotų bešeimininkių kačių paleidimas į laisvę;
+
+
+
+
+4) gyvūnų kastravimas;
+
+
+
+
+5) netyčinis gyvūno sužeidimas ar nužudymas;
+
+
+
+
+6) gyvūnų nužudymas likviduojant gyvūnų užkrečiamąsias ligas, visuomenės sveikatos, gyvūnų sveikatos ir gerovės, aplinkos apsaugos tikslais, vadovaujantis teisės aktų reikalavimais;
+
+
+
+
+7) gyvūnų nužudymas neatidėliotinais atvejais, kai būtina nutraukti sunkiai sužeisto gyvūno kančias;
+
+
+
+
+8) kitų poveikio priemonių, pašalinančių grėsmę, taikymas gyvūnams ar jų nužudymas, kai gresia realus pavojus žmogui ar kitam gyvūnui;
+
+
+
+
+9) gyvūnų nugaišinimas, naudojant tik veterinarinius vaistus, kiti nugaišinimo būdai yra draudžiami;
+
+
+
+
+10) graužikų, kenksmingų vabzdžių ir erkių naikinimas jiems naikinti skirtais metodais ir priemonėmis;
+
+
+
+
+11) bandymų su gyvūnais atlikimas, turint Valstybinės maisto ir veterinarijos tarnybos išduotą leidimą.
+
+
+
+
+
+
+2. Nugaišinti gyvūnus gali tik veterinarijos gydytojas, turintis veterinarijos praktikos licenciją, ar jo pavedimu – veterinarijos felčeris.
+
+
+
+
+3. Esant šio straipsnio 1 dalies 7, 8 punktuose nurodytoms aplinkybėms, kai veterinarijos gydytojo pagalba nėra galima, arba kitais įstatymuose numatytais ypatingais atvejais, gyvūnus gali nužudyti kitas asmuo.
+
+
+
+
+4. Šiame straipsnyje ir kituose teisės aktuose numatytais atvejais gyvūnas nužudomas taip, kad kuo mažiau fiziškai ir psichiškai kentėtų. Pasirenkamas toks gyvūno nužudymo būdas, kuris:
+
+
+1) sukeltų greitą gyvūno sąmonės netekimą ir mirtį;
+
+
+
+
+2) pradedamas stipriu bendros nejautros sukėlimu ir baigiamas procedūra, sukeliančia galutinę ir tikrą mirtį.
+
+
+
+
+
+
+5. Prieš pašalinant gaišeną privaloma įsitikinti, kad gyvūnas yra nugaišęs.
  
 
 
 
 
-3. Savininkai privalo garantuoti, kad gyvūnų ir pavojingų gyvūnų auginimas ir laikymas nekels grėsmės žmonių ramybei, sveikatai, gyvybei, nuosavybei, nepažeis kitų asmenų teisių ir interesų.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
+
+
+
+
+ANTRASIS SKIRSNIS
+GYVŪNŲ LAIKYMAS, REGISTRAVIMAS, ŽENKLINIMAS, GYDYMAS
  
 
 
+6 straipsnis. Gyvūnų laikymas
 
 
-4. Laikyti šunis, kates bute, privačiame name, kur gyvena kelios šeimos, leidžiama tik turint raštišką visų jame gyvenančių pilnamečių asmenų sutikimą.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
- 
-
-
-
-
-5. Gyvūnų, leidžiamų laikyti daugiabučiame name, skaičių nustato specialūs teisės aktai, kuriuos tvirtina Vyriausybės įgaliota institucija.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
- 
-
-
-
-
-6. Visi šunys bei kiti gyvūnai potencialūs pasiutligės platintojai kasmet turi būti skiepijami. Jei šuo, katė ar kitas gyvūnas apkandžiojo, apdraskė ar kitaip sužeidė žmones, gyvūnus, apie tai savininkas nedelsdamas turi pranešti sveikatos apsaugos ir veterinarijos tarnyboms.
-
-
-
-
-7. Gyvūnų savininkai atlygina visas išlaidas, susijusias su jiems priklausančių gyvūnų padaryta žala žmonių sveikatai ir turtui.
+Kiekvienas gyvūnas privalo būti laikomas ir prižiūrimas gyvūno rūšį, amžių, fiziologiją ir elgseną atitinkančiomis sąlygomis, pagal gyvūnų laikymą reglamentuojančių teisės aktų reikalavimus, užtikrinant, kad nebūtų varžoma gyvūno judėjimo laisvė ir gyvūnui nebūtų keliamas nepatogumo jausmas, skausmas ar kančia.
  
 
 
@@ -294,10 +733,32 @@ Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA
 
 
 
-6 straipsnis. Pavojingų gyvūnų auginimas ir laikymas
+7 straipsnis. Gyvūnų registravimas ir ženklinimas
 
 
-Pavojingi gyvūnai gali būti laikomi ir auginami tik pagal taisykles, kurias nustato Vyriausybės įpareigotos institucijos.
+1. Atskirų rūšių gyvūnai privalo būti registruojami ir ženklinami pagal gyvūnų registravimą ir ženklinimą reglamentuojančių teisės aktų reikalavimus.
+
+
+
+
+2. Katės, šunys ir šeškai privalo būti ženklinami mikroschemomis ir registruojami Gyvūnų augintinių registre.
+TAR pastaba. 7 straipsnio 2 dalis įsigalioja 2016-01-01.
+ 
+
+
+
+
+3. Kiti gyvūnai augintiniai gali būti ženklinami mikroschemomis ir registruojami Gyvūnų augintinių registre.
+
+
+
+
+4. Gyvūnų augintinių registro valdytoja – Žemės ūkio ministerija, tvarkytojos – valstybės įmonė Žemės ūkio informavimo ir kaimo verslo centras ir Valstybinė maisto ir veterinarijos tarnyba.
+
+
+
+
+5. Gyvūnų augintinių registro duomenys yra teikiami savivaldybių administracijoms neatlygintinai, o kitiems asmenims – įstatymų, kitų teisės aktų nustatyta tvarka.
  
 
 
@@ -305,25 +766,25 @@ Pavojingi gyvūnai gali būti laikomi ir auginami tik pagal taisykles, kurias nu
 
 
 
-61 straipsnis. Agresyvių šunų įvežimas, įsigijimas, laikymas, registravimas, ženklinimas, veisimas, dresavimas, prekyba jais bei jų paėmimas
+8 straipsnis. Kovinių ir pavojingų šunų įvežimas, įsigijimas, laikymas, veisimas, registravimas, ženklinimas, dresavimas ir prekyba jais
 
 
-1. Į Lietuvos Respubliką įvežti kovoms išvestų veislių šunis ir jų mišrūnus, juos veisti ir jais prekiauti yra draudžiama.
-
-
-
-
-2. Kitus agresyvius šunis įvežti į Lietuvos Respubliką, veisti, dresuoti, ženklinti ir jais prekiauti, taip pat agresyvius šunis įsigyti ir laikyti gali tik asmenys, turintys savivaldybės ar Vyriausybės įgaliotos institucijos išduotus leidimus. Agresyvių šunų įvežimo į Lietuvos Respubliką, įsigijimo, laikymo, registravimo, veisimo, dresavimo, ženklinimo, prekybos jais bei agresyvių šunų tapatybės nustatymo taisykles, kuriose nustatoma taip pat ir leidimų įvežti, įsigyti, laikyti, veisti, dresuoti, ženklinti ir prekiauti išdavimo, sustabdymo ir panaikinimo tvarka, tvirtina Vyriausybė ar jos įgaliota institucija. Šias taisykles įgyvendina ir jų priežiūrą vykdo savivaldybės ir Vyriausybės įgaliotos institucijos.
+1. Lietuvos Respublikoje draudžiami koviniai šunys, kovinių ir pavojingų šunų mišrūnai.
 
 
 
 
-3. Agresyvūs šunys turi būti ženklinami.
+2. Pavojingi šunys į Lietuvos Respubliką įvežami, įsigyjami, laikomi, veisiami, registruojami, ženklinami, dresuojami, jais prekiaujama laikantis šio įstatymo ir kitų teisės aktų nuostatų.
 
 
 
 
-4. Leidimai, nurodyti šio straipsnio 2 dalyje, neišduodami asmenims:
+3. Asmenys, norintys įvežti, įsigyti, laikyti, veisti, parduoti pavojingus šunis, privalo turėti savivaldybės, kurioje asmenys nuolat gyvena, administracijos direktoriaus nustatyta tvarka išduotus leidimus.
+
+
+
+
+4. Draudžiama išduoti nurodytus leidimus asmenims:
 
 
 1) jaunesniems negu 18 metų;
@@ -341,103 +802,40 @@ Pavojingi gyvūnai gali būti laikomi ir auginami tik pagal taisykles, kurias nu
 
 
 
-4) nepateikusiems pažymos, kad jie yra išklausę atitinkamą Vyriausybės įgaliotos institucijos patvirtintą mokymo programą;
+4) gyvenantiems kartu su asmenimis, nurodytais šios dalies 2 ir 3 punktuose.
 
 
 
 
-5) gyvenantiems kartu su asmenimis, nurodytais šios dalies 2 ir 3 punktuose. 
 
 
+5. Pavojingo šuns savininkas turi užtikrinti, kad tokio šuns laikymas nebus patikėtas šio straipsnio 4 dalies 2 ir 3 punktuose nurodytiems asmenims.
 
 
 
 
-5. Savivaldybės ar Vyriausybės įgaliotos institucijos agresyvius šunis gali paimti Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka:
+6. Kai nustatomi šiame įstatyme ir kituose teisės aktuose įtvirtinti pavojingų šunų įvežimo, įsigijimo, laikymo, veisimo, pardavimo reikalavimų pažeidimai, savivaldybės administracija, išdavusi šio straipsnio 3 dalyje nurodytą leidimą, privalo savivaldybės administracijos direktoriaus nustatyta tvarka paimti pavojingą šunį ir perduoti jį laikinai globoti gyvūnų globėjui, kol atsiradę pažeidimai bus pašalinti.
 
 
-1) kai atsiranda šio straipsnio 4 dalies 2, 3 ir 5 punktuose nurodyti pagrindai;
 
 
+7. Jeigu šio straipsnio 6 dalyje nustatytu atveju paimtas pavojingas šuo kelia realią grėsmę žmonėms ar kitiems gyvūnams, jis gali būti nugaišinamas.
 
 
-2) panaikinus leidimą laikyti agresyvų šunį;
 
 
+8. Jeigu šio straipsnio 6 dalyje nustatytu atveju pavojingas šuo buvo paimtas laikinajai globai ar buvo nugaišintas, tokio šuns savininkas privalo kompensuoti išlaidas, susijusias su šio šuns paėmimu, laikymu ir (ar) nugaišinimu.
 
 
-3) sustabdžius leidimo laikyti agresyvų šunį galiojimą, kol išnyks leidimo sustabdymo pagrindai;
 
 
+9. Dresuoti pavojingus šunis gali tik asmenys, turintys dresuotojo kvalifikacijos patvirtinimo dokumentą, išduotą atitinkamos gyvūnų laikytojus vienijančios asociacijos.
 
 
-4) mirus šuns savininkui, kol jo įpėdiniui bus išduotas leidimas laikyti agresyvų šunį;
 
 
-
-
-5) mirus šuns savininkui, jei įpėdinis nepriėmė palikimo ar įpėdiniui atsisakyta išduoti leidimą laikyti agresyvų šunį;
-
-
-
-
-6) jei agresyvus šuo nepaženklintas.
-
-
-
-
-
-
-6. Šio straipsnio 5 dalies 1, 2, 4 ir 6 punktuose nurodytais atvejais paimti agresyvūs šunys realizuojami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Realizavus šunį gauti pinigai, atskaičius realizavimo išlaidas, grąžinami šuns savininkui ar įpėdiniui (išskyrus atvejį, jeigu įpėdinis nepriėmė palikimo).
-
-
-Straipsnio pakeitimai:
-Nr. IX-1697, 2003-07-04, Žin., 2003, Nr. 74-3418 (2003-07-25), i. k. 1031010ISTA0IX-1697
-Nr. IX-1978, 2004-01-27, Žin., 2004, Nr. 25-753 (2004-02-14), i. k. 1041010ISTA0IX-1978
- 
-
-
-
-
-7 straipsnis. Gyvūnų vežimas
-
-
-1. Gyvūnai turi būti vežami laikantis vežimo taisyklių, kurias tvirtina Žemės ūkio ministerija kartu su Valstybine maisto ir veterinarijos tarnyba.
-Straipsnio dalies pakeitimai:
-Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
- 
-
-
-
-
-2. Gyvūnus galima vežti tik specialiai paruoštu transportu (laivais, lėktuvais, automobiliais), kad transportavimo metu gyvūnai nebūtų žalojami ir nepatirtų streso. Ilgesnio vežimo metu gyvūnai turi būti reguliariai maitinami ir girdomi.
-
-
-
-
-3. Skirtingų rūšių, taip pat sužeisti ar ligoti gyvūnai turi būti vežami atskirai. 
-
-
-
-
-4. Ilgalaikių vežimų sausumos transportu metu turi būti daromos pertraukos gyvūnams maitinti bei prižiūrėti.
-
-
-
-
-5. Ūkinės paskirties gyvūnus išvežti iš Lietuvos Respublikos arba įvežti į Lietuvos Respubliką leidžiama tik per Lietuvos Respublikos Vyriausybės patvirtintus pasienio postus, kuriuose yra sąlygos pervežti gyvus gyvūnus atskira eile bei patalpos valstybinei veterinarijos kontrolei.
-
-
-
-
-6. Juridiniai arba fiziniai asmenys, besiverčiantys tarptautiniu gyvūnų pervežimu arba jų vežimu Lietuvoje, privalo turėti Vyriausybės nustatyta tvarka išduotas licencijas (leidimus) ir leistas šiai paskirčiai naudoti transporto priemones.
-
-
-
-
-7. Visuomeninėse transporto priemonėse (priemiestiniuose ir tarpmiestiniuose autobusuose, traukiniuose, taip pat lėktuvuose ir laivuose) gyvūnus leidžiama vežti pagal galiojančias Keleivių ir bagažo vežimo taisykles. Vežimo tvarką miesto ir rajono transportu nustato savivaldybės.  Keliaudamas savininkas privalo turėti šuns dokumentus, kuriuose nurodoma šuns sveikatos būklė ir skiepai.
-Straipsnio dalies pakeitimai:
-Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA00IX-587
+10. Kovinius šunis, kovinių ir pavojingų šunų mišrūnus (tais atvejais, kai tokių šunų Lietuvos Respublikos įstatymai nedraudžia) bei pavojingus šunis laikyti daugiabučiuose namuose draudžiama.
+TAR pastaba. 8 straipsnio 10 dalis įsigalioja 2013-07-01.
  
 
 
@@ -445,330 +843,20 @@ Nr. IX-587, 2001-11-08, Žin., 2001, Nr. 99-3521 (2001-11-28), i. k. 1011010ISTA
 
 
 
-8 straipsnis. Prekyba naminiais gyvūnais
+9 straipsnis. Gyvūnų gydymas
 
 
-Prekiauti naminiais ir dekoratyviniais gyvūnais leidžiama savivaldos institucijų nustatytose vietose ir laikantis prekybos naminiais gyvūnais reikalavimų pagal Vyriausybės įgaliotos institucijos patvirtintas Prekybos naminiais gyvūnais taisykles. 
- 
+1. Operuoti, gydyti gyvūnus ar atlikti kitas veterinarines procedūras gyvūnams turi teisę tik veterinarijos gydytojai, jeigu teisės aktuose nenustatyta kitaip.
 
 
 
 
+2. Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka kai kurias veterinarines procedūras leidžiama atlikti specialiai apmokytiems asmenims.
 
 
-9 straipsnis. Gyvūnų skerdimas
 
 
-1. Skerdyklose gyvūnai turi būti apsvaiginami ir skerdžiami Valstybinės maisto ir veterinarijos tarnybos patvirtintais būdais ir konkrečiai gyvūnų rūšiai pritaikytais instrumentais.
-Straipsnio dalies pakeitimai:
-Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
- 
-
-
-
-
-2. Gyvūnus apsvaiginti ir skersti skerdyklose turi teisę tik veterinarijos specialistų apmokyti asmenys.
-
-
-
-
-3. Ūkinės paskirties gyvūnų laikymo, šėrimo ir girdymo iki skerdimo, skerdimo taisykles tvirtina Vyriausybės įgaliota institucija.
-
-
-
-
-4. Skersti gyvūnus pagal religinius ritualus be išankstinio apsvaiginimo leidžiama tik turint Valstybinės maisto ir veterinarijos tarnybos leidimą.
-Straipsnio dalies pakeitimai:
-Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
- 
-
-
-
-
-
-
-10 straipsnis. Gyvūnų gydymas
-
-
-1. Operuoti ir gydyti gyvūnus turi teisę veterinarijos gydytojai ir specialiai apmokyti asmenys. 
-
-
-
-
-2. Apmokyti ir išduoti leidimus operuoti gyvūnus turi teisę tik veterinarijos tarnyba. Operacijų, kurias leidžiama atlikti specialiai apmokytiems asmenims, sąrašus tvirtina Valstybinė maisto ir veterinarijos tarnyba.
-Straipsnio dalies pakeitimai:
-Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
- 
-
-
-
-
-3. Visos skausmą sukeliančios operacijos atliekamos tik nuskausminus.
- 
-
-
-
-
-
-
-11 straipsnis. Gyvūnų apsauga 
-
-
-1. Kiekvienas gyvūnas laikomas, šeriamas ir prižiūrimas gyvūno rūšį, amžių, fiziologiją ir elgseną atitinkančiomis sąlygomis.
-
-
-
-
-2. Gyvūno savininkas privalo nuolat rūpintis gyvūno sveikata, šėrimu, taip pat gyvūno laikymo ir eksploatavimo įrengimais.
- 
-
-
-
-
-
-
-12 straipsnis. Laukinių gyvūnų gaudymas, laikymas ir jaukinimas
-
-
-1. Juridiniai ir fiziniai asmenys gali gaudyti, laikyti ir jaukinti laukinius gyvūnus tik gavę Aplinkos ministerijos leidimą ir laikydamiesi jos nustatytos tvarkos.
-Straipsnio dalies pakeitimai:
-Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
- 
-
-
-
-
-2. Atsitiktinai patekę nelaisvėn laukiniai gyvūnai turi būti grąžinti į laisvę, o jeigu to padaryti negalima, – globojami pagal šio įstatymo reikalavimus.
- 
-
-
-
-
-
-
-13 straipsnis. Gyvūnų naudojimas zoologinėms kolekcijoms
-
-
-1. Juridiniai ir fiziniai asmenys rinkti zoologines kolekcijas (zoologijos sodams, okeanariumams, terariumams, taip pat gyvūnų iškamšų ir kitas) gali tik gavę Aplinkos ministerijos leidimą.
-Straipsnio dalies pakeitimai:
-Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
- 
-
-
-
-
-2. Be atskiro leidimo pagal nustatytus reikalavimus galima rinkti medžioklės ir žūklės trofėjų kolekcijas.
-
-
-
-
-3. Laukinių gyvūnų paėmimo iš aplinkos zoologinėms kolekcijoms tvarką, taip pat gyvūnų laikymo nelaisvėje taisykles tvirtina Aplinkos ministerija ir Valstybinė maisto ir veterinarijos tarnyba.
-Straipsnio dalies pakeitimai:
-Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
- 
-
-
-
-
-
-
-14 straipsnis. Gyvūnų naudojimas mokymui ir tyrimams
-
-
-1. Laboratoriniams bandymams gali būti naudojami tik specialiai šiems tikslams veisti ir auginti gyvūnai. Leidimą atlikti (jeigu reikia) sukeliančius skausmą bandymus su žemės ūkio arba kitais naminiais gyvūnais išduoda Vyriausybės įgaliota institucija.
-
-
-
-
-2. Bandymus su gyvūnais atlikti draudžiama, jei reikiamus tikslus galima pasiekti taikant alternatyvius mokslinius metodus.
-
-
-
-
-3. Bandymai, galintys sukelti gyvūnui skausmą, turi būti atliekami naudojant nuskausminimo priemones, išskyrus, kai:
-
-
-1) bandymų sukeltas skausmas yra mažiau kenksmingas gyvūnui nei nuskausminimas;
-
-
-
-
-2) nuskausminimo priemonių taikymas yra nesuderinamas su bandymo tikslais.
-
-
-
-
-
-
-4. Laboratorinių gyvūnų veisimą, auginimą, laikymą ir naudojimą bandymams reguliuoja Valstybinės maisto ir veterinarijos tarnybos patvirtintos taisyklės.
-Straipsnio dalies pakeitimai:
-Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
- 
-
-
-
-
-5. Gyvūnų naudojimą bandymams kontroliuoja Vyriausybės įgaliotų institucijų patvirtinta Lietuvos laboratorinių gyvūnų naudojimo etikos komisija prie Valstybinės maisto ir veterinarijos tarnybos, sudaryta iš suinteresuotų institucijų ir organizacijų atstovų. Leidimus atlikti bandymus su stuburiniais gyvūnais išduoda Valstybinė maisto ir veterinarijos tarnyba Lietuvos laboratorinių gyvūnų naudojimo etikos komisijos teikimu.
-Straipsnio dalies pakeitimai:
-Nr. VIII-1797, 2000-07-04, Žin., 2000, Nr. 61-1808 (2000-07-26), i. k. 1001010ISTAIII-1797
- 
-
-
-
-
-
-
-15 straipsnis. Gyvūnų numarinimas (eutanazija)
-
-
-Naminius ir ūkinės paskirties gyvūnus numarinti gali tik veterinarijos gydytojas ar jo pavedimu kitas asmuo, išskyrus skubius atvejus, kai siekiama nutraukti sunkiai sužeisto gyvūno kančias.
- 
-
-
-
-
-
-
-16 straipsnis. Benamiai gyvūnai
-
-
-1. Gyvūną padaryti benamiu draudžiama.
-
-
-
-
-2. Benamiams gyvūnams laikyti gali būti steigiamos gyvūnų prieglaudos, kurių kūrimą ir veiklą kontroliuoja pagal savo kompetenciją savivaldos institucijos.
-
-
-
-
-3. Draudžiama naudoti benamius gyvūnus tyrimo ir mokymo tikslams, naikinti juos nesugavus, išskyrus tuos atvejus, kai kyla epizootijos pavojus.
-
-
-
-
-4. Benamių gyvūnų gaudymą organizuoja savivaldybės.
- 
-
-
-
-
-
-
-17 straipsnis. Fizinių ir juridinių asmenų teisės, pareigos ir atsakomybė
-
-
-1. Fiziniai ir juridiniai asmenys turi teisę:
-
-
-1) globoti gyvūnus, jei ši globa neturi neigiamų pasekmių gyvūnams ir žmonėms ;
-
-
-
-
-2) propaguoti gyvūnų globą;
-
-
-
-
-3) reikalauti, kad būtų traukiami atsakomybėn asmenys, tyčia kenkiantys gyvūnams.
-
-
-
-
-
-
-2. Laikantys gyvūnus fiziniai ir juridiniai asmenys privalo laikytis šio įstatymo ir gyvūnų laikymo normų.
-
-
-
-
-3. Fiziniai asmenys privalo:
-
-
-1) pagal išgales pasirūpinti sužeistais gyvūnais, pranešti apie juos kompetentingoms institucijoms;
-
-
-
-
-2) gyvūnų savininkai negali pažeisti kitų asmenų teisių ir teisėtų interesų;
-
-
-
-
-
-
-4. Gyvūnų savininkai privalo užtikrinti, kad jiems priklausantys gyvūnai nesužeistų žmonių ar kitų gyvūnų, nedarytų žalos kitų savininkų turtui.
-
-
-
-
-5. Iš savininkų, nevykdančių gyvūnų globos ir apsaugos reikalavimų, teismo sprendimu gyvūnai gali būti Lietuvos Respublikos įstatymų nustatyta tvarka paimti skersti, parduoti, perduoti kitam savininkui ar numarinti.
- 
-
-
-
-
-
-
-18 straipsnis. Visuomenės švietimas
-
-
-1. Visuomenės švietimą gyvūnų globos, laikymo ir naudojimo klausimais organizuoja mokyklos ir kitos ugdymo įstaigos, Gyvūnų globos draugija ar kitos visuomeninės gyvūnų globos organizacijos, gamtininkų centrai, veterinarijos tarnybos, savivaldybės, visuomenės informavimo priemonės.
-
-
-
-
-2. Draudžiama visuomenės informavimo priemonėse skleisti antihumanišką elgesį su gyvūnais.
- 
-
-
-
-
-
-
-19 straipsnis. Įstatymo vykdymo priežiūra ir atsakomybė už jo pažeidimus
-
-
-1. Šio įstatymo reikalavimus pažeidę fiziniai ir juridiniai asmenys yra traukiami atsakomybėn Lietuvos Respublikos įstatymų nustatyta tvarka.
-
-
-
-
-2. Fiziniai ir juridiniai asmenys atlygina jiems priklausančių gyvūnų padarytą žalą įstatymų nustatyta tvarka.
-
-
-
-
-3. Šio įstatymo priežiūrą atlieka Vyriausybės įgaliotos institucijos .
-
-
-
-
-4. Šio įstatymo vykdymą valstybės vardu kontroliuojančių institucijų pareigūnai turi teisę:
-
-
-1) įeiti į tvartus, kitas patalpas, teritorijas, kur yra laikomi gyvūnai;
-
-
-
-
-2) įeiti į butą turint teismo sprendimą, jei ten nesilaikoma šio įstatymo reikalavimų ir gyvūnų laikymo taisyklių;
-
-
-
-
-3) reikalauti iš savininkų būtinų dokumentų, informacijos ar paaiškinimų gyvūnų apsaugos klausimais;
-
-
-
-
-4) teikti pranešimus, aktus teisėsaugos institucijoms, kad asmenys būtų patraukti baudžiamojon atsakomybėn už gyvūnų globos, laikymo ir naudojimo reikalavimų, nustatytų šiame įstatyme, pažeidimus; 
-
-
-
-
-5) įteikti apylinkės teismui ieškininį pareiškimą, kad jis būtų skubiai išnagrinėtas, jei dėl savininko kaltės gyvūnui (gyvūnams) gresia neišvengiama žūtis nuo bado, troškulio, žemos ar aukštos temperatūros ar kitų nuo gyvūno savininko priklausančių aplinkybių.
+3. Operacijos ir visos skausmą sukeliančios veterinarinės procedūros gyvūnui atliekamos tik jį nuskausminus, išskyrus teisės aktuose nustatytus atvejus.
  
 
 
@@ -778,10 +866,47 @@ Naminius ir ūkinės paskirties gyvūnus numarinti gali tik veterinarijos gydyto
 
 
 
-20 straipsnis. Skubaus teisminio nagrinėjimo ir sprendimų priėmimo tvarka
+TREČIASIS SKIRSNIS
+GYVŪNŲ VEISIMAS, PREKYBA, VEŽIMAS
+ 
 
 
-Teismas, gavęs šio įstatymo vykdymą kontroliuojančių institucijų ieškininį pareiškimą, kad dėl savininko kaltės gyvūnui (gyvūnams) gresia žūtis, per 3 darbo dienas priima sprendimą dėl gyvūno (gyvūnų) likimo. Teismas, nusprendęs paimti gyvūną iš savininko, nustato, kad sprendimas būtų skubiai įvykdytas.
+10 straipsnis. Gyvūnų veisimas
+
+
+1. Gyvūnų augintinių veisimas turi būti tikslinis, planuojamas ir neatsitiktinis.
+
+
+
+
+2. Asmenys, užsiimantys versliniu gyvūnų augintinių veisimu, privalo užtikrinti teisės aktuose nustatytų reikalavimų laikymąsi ir teisės aktuose nustatytais atvejais turėti veterinarinį patvirtinimą.
+
+
+
+
+3. Gyvūnų augintinių savininkai, išskyrus asmenis, užsiimančius versliniu gyvūnų augintinių veisimu, privalo užtikrinti, kad jų laikomi gyvūnai augintiniai nesidaugintų, išskyrus atvejus, kai jie užtikrina gyvūnų augintinių jauniklių perdavimą naujiems savininkams (neįskaitant jų perdavimo gyvūnų globėjui) arba rūpinasi jais patys.
+
+
+
+
+4. Perduodant kates, šunis ar šeškus, taip pat šių gyvūnų jauniklius kitam savininkui, šie gyvūnai turi būti paženklinti mikroschema ir užregistruoti Gyvūnų augintinių registro duomenų bazėje.
+TAR pastaba. 10 straipsnio 4 dalis įsigalioja 2016-01-01.
+ 
+
+
+
+
+5. Draudžiama veisti genetiškai nevisaverčius gyvūnus augintinius su akivaizdžiai matomomis genetinėmis ligomis, apsigimimais ar patologijomis.
+
+
+
+
+6. Draudžiama kryžminti skirtingų laukinių rūšių gyvūnus, taip pat laukinių ir gyvūnų augintinių rūšių gyvūnus, išskyrus pagal patvirtintas programas atliekamus mokslinius eksperimentus.
+
+
+
+
+7. Kiti gyvūnai veisiami pagal jų veisimą reglamentuojančių teisės aktų reikalavimus.
  
 
 
@@ -789,11 +914,384 @@ Teismas, gavęs šio įstatymo vykdymą kontroliuojančių institucijų ieškini
 
 
 
-21 straipsnis. Įstatymo įsigaliojimas
+11 straipsnis. Gyvūnų vežimas
 
 
-Šis įstatymas įsigalioja nuo 1998 m. sausio 1 d.
+Gyvūnai turi būti vežami taip, kad kelionės metu nesusižalotų, nepatirtų nereikalingo streso ir būtų užtikrintas jų saugumas. Transporto priemonių konteineriai, kuriuose vežami gyvūnai, turi būti pakankamo ploto ir aukščio, atsižvelgiant į gyvūnų rūšį, dydį ir planuojamos kelionės pobūdį.
  
+
+
+
+
+
+
+12 straipsnis. Prekyba gyvūnais ir kitoks jų perdavimas
+
+
+1. Prekyba atskirų rūšių gyvūnais turi būti vykdoma vadovaujantis jų prekybą reglamentuojančių teisės aktų reikalavimais savivaldybės administracijos direktoriaus sprendimu nustatytose vietose.
+
+
+
+
+2. Prekiautojai gyvūnais, gyvūnų prekybai naudojamos patalpos teisės aktuose nustatytais atvejais turi turėti veterinarinį patvirtinimą.
+
+
+
+
+3. Draudžiama parduoti ar kitaip perleisti nuosavybės teises į gyvūnus jaunesniems negu 16 metų amžiaus asmenims be jų tėvų (globėjų) sutikimo.
+
+
+
+
+4. Draudžiama parduoti neženklintus ir neregistruotus gyvūnus, kuriems teisės aktų nustatyta tvarka taikomas privalomas ženklinimas ir registravimas.
+ 
+
+
+
+
+
+
+
+
+KETVIRTASIS SKIRSNIS
+BEŠEIMININKIAI IR BEPRIEŽIŪRIAI GYVŪNAI
+ 
+
+
+13 straipsnis. Bešeimininkiai ir bepriežiūriai gyvūnai
+
+
+1. Savivaldybės teritorijoje sugautų bešeimininkių ir bepriežiūrių gyvūnų bei bešeimininkių ir bepriežiūrių gyvūnų, apie kuriuos praneša juos sulaikę asmenys, negalintys laikyti šių gyvūnų, laikinąją globą organizuoja savivaldybės administracija savivaldybės administracijos direktoriaus nustatyta tvarka.
+
+
+
+
+2. Savivaldybės administracija savivaldybės administracijos direktoriaus nustatyta tvarka pagal kompetenciją dalyvauja įgyvendinant gyvūnų globos organizacijų rengiamas bešeimininkių kačių kastravimo programas.
+
+
+
+
+3. Gaudant bešeimininkius ir bepriežiūrius gyvūnus turi būti užtikrinama, kad gaudomi gyvūnai kuo mažiau fiziškai ir psichiškai kentėtų.
+
+
+
+
+4. Sugautos kastruotos ir išoriniu žymeniu pažymėtos bešeimininkės katės turi būti nedelsiant paleidžiamos, išskyrus atvejus, kai įtariama, kad jos serga ar yra suluošintos.
+ 
+
+
+
+
+
+
+14 straipsnis. Savivaldybių administracijų organizuojama bešeimininkių ir bepriežiūrių gyvūnų laikinoji globa
+
+
+1. Visi bešeimininkiai ir bepriežiūriai gyvūnai augintiniai, kurių gaudymą organizuoja savivaldybės administracija arba apie kuriuos praneša juos sulaikę asmenys, negalintys laikyti bešeimininkių ar bepriežiūrių gyvūnų augintinių, perduodami globoti gyvūnų globėjui, o bešeimininkiai ar bepriežiūriai ūkiniai gyvūnai – galinčiam laikinai globoti ūkinį gyvūną ūkinių gyvūnų laikytojui.
+
+
+
+
+2. Pasibaigus Civilinio kodekso 4.61 straipsnio 3 dalyje nurodytam terminui ir nepaaiškėjus gyvūno savininkui, gyvūnas neatlygintinai atitenka jį išlaikiusiam asmeniui.
+ 
+
+
+
+
+
+
+15 straipsnis. Reikalavimai gyvūnų globėjams
+
+
+1. Gyvūnų globėjai privalo atitikti teisės aktuose nustatytus reikalavimus.
+
+
+
+
+2. Gyvūnų globėjai gyvūnams laikyti gali steigti gyvūnų globos namus.
+
+
+
+
+3. Gyvūnų globėjai privalo:
+
+
+1) patikrinti kiekvieno pas juos patekusio gyvūno sveikatos būklę, įvertinti jo tolesnio laikymo galimybę, užtikrinti reikiamos veterinarinės pagalbos suteikimą, gyvūnų skiepijimą;
+
+
+
+
+2) patikrinti gyvūno ženklinimą, kad būtų nustatytas gyvūno savininkas, o jį nustačius nedelsiant informuoti apie surastą gyvūną;
+
+
+
+
+3) užtikrinti informacijos apie laikomus bešeimininkius ir bepriežiūrius gyvūnus viešą skelbimą;
+
+
+
+
+4) ieškoti gyvūnams naujų savininkų, naujiems savininkams suteikti visą reikiamą informaciją apie gyvūną, gyvūno sveikatos būklę, jo priežiūrą ir gerovės užtikrinimą;
+
+
+
+
+5) sudaryti gyvūnų laikymo sąlygas, nekeliančias grėsmės gyvūnų sveikatai ir gerovei.
+
+
+
+
+
+
+4. Gyvūnų globėjams draudžiama veisti gyvūnus.
+ 
+
+
+
+
+
+
+
+
+PENKTASIS SKIRSNIS
+SPECIALIEJI GYVŪNŲ GEROVĖS IR APSAUGOS REIKALAVIMAI
+ 
+
+
+16 straipsnis. Gyvūnų naudojimas eksperimentams ir kitiems mokslo tikslams
+
+
+1. Eksperimentams ir kitiems mokslo tikslams gali būti naudojami tik specialiai šiems tikslams veisti ir auginti gyvūnai, išskyrus teisės aktuose numatytus atvejus.
+
+
+
+
+2. Bandymus su gyvūnais atlikti draudžiama, jeigu reikiamus tikslus galima pasiekti taikant alternatyvius mokslinius metodus.
+
+
+
+
+3. Bandymai, galintys sukelti bandomajam gyvūnui skausmą, turi būti atliekami naudojant nuskausminimo priemones, išskyrus atvejus, kai:
+
+
+1) nuskausminimas bandomąjį gyvūną traumuoja labiau negu pats bandymas;
+
+
+
+
+2) nuskausminimo priemonių taikymas prieštarauja bandymo tikslams.
+
+
+
+
+
+
+4. Leidimus atlikti bandymus su gyvūnais išduoda Valstybinė maisto ir veterinarijos tarnyba, Lietuvos bandomųjų gyvūnų naudojimo etikos komisijos prie Valstybinės maisto ir veterinarijos tarnybos, sudarytos iš Vyriausybės įgaliotų institucijų ir organizacijų atstovų, teikimu. Gyvūnų veisimą, laikymą ir jų naudojimą eksperimentams ir kitiems mokslo tikslams kontroliuoja Valstybinė maisto ir veterinarijos tarnyba.
+ 
+
+
+
+
+
+
+17 straipsnis. Ūkinių gyvūnų skerdimas, ūkiuose auginamų kailinių žvėrelių, paukščių jauniklių ir embrionų nužudymas
+
+
+1. Ūkiniai gyvūnai skerdyklose laikomi, svaiginami, skerdžiami laikantis skerdžiamų gyvūnų apsaugą reglamentuojančių teisės aktų reikalavimų.
+
+
+
+
+2. Skersti ūkinius gyvūnus religinių apeigų tikslu galima tik prieš tai juos apsvaiginus teisės aktų nustatytais metodais ir laikantis skerdžiamų gyvūnų apsaugą reglamentuojančių teisės aktų reikalavimų.
+
+
+
+
+3. Asmeniniam vartojimui ne skerdyklose skerdžiami ūkiniai gyvūnai turi būti skerdžiami teisės aktų nustatyta tvarka.
+
+
+
+
+4. Ūkiuose auginami kailiniai žvėreliai, paukščių peryklose paukščių jaunikliai iki 72 valandų amžiaus ir embrionai turi būti nužudomi teisės aktuose nustatytais metodais, laikantis žudomų gyvūnų apsaugą reglamentuojančių teisės aktų reikalavimų.
+
+
+
+
+5. Ūkiniai gyvūnai turi būti apsaugoti nuo išgąsčio, skausmo arba kančių juos perkeliant, varant į aptvarus, pančiojant, svaiginant, skerdžiant arba nužudant.
+ 
+
+
+
+
+
+
+18 straipsnis. Gyvūnų dresavimas
+
+
+1. Dresuojant gyvūnus turi būti užtikrinamas šio įstatymo ir kitų teisės aktų, reglamentuojančių gyvūnų apsaugą ir gerovę, nuostatų laikymasis.
+
+
+
+
+2. Dresuoti kitiems asmenims priklausančius gyvūnus gali fiziniai asmenys, turintys dresuotojo kvalifikacijos patvirtinimo dokumentą, išduotą atitinkamos gyvūnų laikytojus vienijančios asociacijos.
+
+
+
+
+3. Tarnybiniais tikslais laikančios ir naudojančios gyvūnus įstaigos, įmonės ir organizacijos privalo parengti tarnybiniais tikslais naudojamų gyvūnų dresavimo pagal laikomų gyvūnų rūšį ir tarnybiniais tikslais naudojamų gyvūnų paskirtį programas. Tarnybiniais tikslais naudojami gyvūnai turi būti dresuojami nepažeidžiant šio įstatymo nuostatų.
+ 
+
+
+
+
+
+
+19 straipsnis. Cirko gyvūnai ir gyvūnų naudojimas reklamai, pramoginiams ir kitiems renginiams
+
+
+1. Gyvūnų cirko veikla privalo atitikti teisės aktuose nustatytus reikalavimus ir toks cirkas turi turėti teisės aktų nustatyta tvarka suteiktą veterinarinį patvirtinimą.
+
+
+
+
+2. Cirko valdytojai, filmų, reklamų kūrėjai, parodų, varžybų ir kitų renginių organizatoriai apie numatomus renginius, kurių metu bus naudojami gyvūnai, privalo informuoti Valstybinę maisto ir veterinarijos tarnybą ir savivaldybės, kurios teritorijoje numatomi renginiai su gyvūnais, administraciją.
+
+
+
+
+3. Naudojant gyvūnus reklamai, parodoms, pramogoms, varžyboms, cirko pasirodymams, filmų kūrimui ir kitiems renginiams, turi būti laikomasi šio įstatymo ir kitų teisės aktų reikalavimų.
+
+
+
+
+4. Draudžiama dovanoti gyvūnus kaip prizus parodų, mugių, varžybų ir kitų renginių metu.
+
+
+
+
+5. Draudžiama eksponuoti genetiškai nevisaverčius, su akivaizdžiai matomomis genetinėmis ligomis, apsigimimais ar patologijomis gyvūnus augintinius.
+ 
+
+
+
+
+
+
+
+
+ŠEŠTASIS SKIRSNIS
+ASMENŲ TEISĖS, PAREIGOS, ATSAKOMYBĖ IR ŠIO ĮSTATYMO VYKDYMO KONTROLĖ
+ 
+
+
+20 straipsnis. Asmenų teisės ir pareigos
+
+
+1. Asmuo privalo pasirūpinti arba pranešti kompetentingoms institucijoms, gyvūnų globėjams apie sužeistus, sergančius, bešeimininkius, bepriežiūrius gyvūnus, taip pat pranešti kompetentingoms institucijoms apie jam žinomus žiauraus elgesio su gyvūnais ar jų kankinimo atvejus.
+
+
+
+
+2. Gyvūnų laikytojai privalo:
+
+
+1) nuolat rūpintis gyvūnų gerove ir apsauga;
+
+
+
+
+2) laikytis šio įstatymo ir kitų teisės aktų, reglamentuojančių gyvūnų gerovę ir apsaugą, reikalavimų;
+
+
+
+
+3) užtikrinti, kad jų laikomi gyvūnai nekeltų grėsmės žmonių, kitų gyvūnų gyvybei, sveikatai ar turtui;
+
+
+
+
+4) nepažeisti kitų asmenų teisių ir teisėtų interesų.
+
+
+
+
+
+
+3. Gyvūnų globėjai turi teisę:
+
+
+1) gauti su gyvūnų gerovės ir apsaugos užtikrinimu susijusią informaciją iš valstybės ir savivaldybių institucijų;
+
+
+
+
+2) įtarę gyvūnų gerovės ir apsaugos reikalavimų pažeidimus, reikalauti iš kompetentingų valstybės ar savivaldybių institucijų atlikti patikrinimus ir juose dalyvauti;
+
+
+
+
+3) bendradarbiauti su valstybės ir savivaldybių institucijomis sprendžiant gyvūnų gerovės ir apsaugos, žiauraus elgesio su gyvūnais prevencijos klausimus.
+
+
+
+
+
+
+4. Gyvūnų savininkai ar laikytojai pagal teisės aktų reikalavimus privalo užtikrinti kačių, šunų, šeškų ir kitų pasiutligei imlių gyvūnų vakcinaciją nuo pasiutligės.
+
+
+
+
+5. Gyvūno savininkas, laikytojas ar nukentėjęs asmuo nedelsdami turi pranešti Sveikatos apsaugos ministerijos įgaliotai institucijai ar Valstybinei maisto ir veterinarijos tarnybai, jeigu šuo, katė ar kitas pasiutligei imlus gyvūnas apkandžiojo, apdraskė ar kitaip sužeidė žmones.
+
+
+
+
+6. Kai gyvūno augintinio savininkas nebegali daugiau suteikti gyvūnui augintiniui reikiamos priežiūros, jis privalo perduoti gyvūną augintinį naujam savininkui (įskaitant perdavimą gyvūnų globėjui), kuris privalės prižiūrėti gyvūną augintinį pagal šio įstatymo ir kitų teisės aktų reikalavimus. Gyvūno augintinio savininkas, nebegalintis suteikti gyvūnui augintiniui reikiamos priežiūros ir išnaudojęs visas galimybes perduoti gyvūną augintinį kitam savininkui ir išsaugoti jo gyvybę, gali kreiptis į veterinarijos gydytoją dėl nugaišinimo.
+ 
+
+
+
+
+
+
+21 straipsnis. Įstatymo vykdymo priežiūra ir atsakomybė už jo pažeidimus
+
+
+1. Šio įstatymo reikalavimus pažeidę asmenys atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
+
+
+
+
+2. Šio įstatymo vykdymą kontroliuojančių institucijų pareigūnai turi teisę:
+
+
+1) įeiti į gyvenamuosius ar negyvenamuosius pastatus ar kitas teritorijas, kur yra laikomi gyvūnai, gavę to pastato ar teritorijos savininko sutikimą arba turėdami teismo sprendimą, jeigu ten nesilaikoma šio įstatymo ir kitų teisės aktų reikalavimų;
+
+
+
+
+2) reikalauti iš gyvūnų laikytojų dokumentų, informacijos ar paaiškinimų gyvūnų sveikatos, gerovės ir apsaugos klausimais;
+
+
+
+
+3) teikti pranešimus, pareiškimus teisėsaugos institucijoms, kad asmenys būtų patraukti baudžiamojon atsakomybėn už šiame įstatyme ir kituose teisės aktuose nustatytų reikalavimų pažeidimus;
+
+
+
+
+4) taikyti administracinio poveikio priemones;
+
+
+
+
+5) perduoti gyvūnus laikinai globai ir organizuoti gyvūnų paėmimo iš gyvūnų savininkų, laikytojų procedūrą.
+ 
+
+
+
+
 
 
 
@@ -809,6 +1307,7 @@ RESPUBLIKOS PREZIDENTAS                            �
  
 
 
+ 
  
  
 Pakeitimai:
@@ -832,3 +1331,8 @@ Lietuvos Respublikos gyvūnų globos, laikymo ir naudojimo įstatymo 2, 6-1 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1978, 2004-01-27, Žin., 2004, Nr. 25-753 (2004-02-14), i. k. 1041010ISTA0IX-1978
 Lietuvos Respublikos gyvūnų globos, laikymo ir naudojimo įstatymo 2, 6(1) straipsnių pakeitimo ir papildymo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2271, 2012-10-03, Žin., 2012, Nr. 122-6126 (2012-10-20), i. k. 1121010ISTA0XI-2271
+Lietuvos Respublikos gyvūnų globos, laikymo ir naudojimo įstatymo pakeitimo įstatymas
