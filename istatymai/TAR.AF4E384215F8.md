@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AF4E384215F8"
 
 # Lietuvos Respublikos vadovybės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2006-06-28 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2013-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4982; Žin. 2002, Nr.113-0, i. k. 1021010ISTA0IX-1183
  
@@ -61,7 +61,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Apsauga – veikla panaudojant fizinę apsaugą, operatyvinius veiksmus, transporto ir kitas technines bei prevencines priemones, skirtas saugomiems asmenims ir saugomiems objektams nuo neteisėtų veiksmų apsaugoti.
+4. Apsauga – veikla panaudojant fizinę apsaugą, kriminalinę žvalgybą, transporto ir kitas technines bei prevencines priemones, skirtas saugomiems asmenims ir saugomiems objektams nuo neteisėtų veiksmų apsaugoti.
+Straipsnio dalies pakeitimai:
+Nr. XI-2263, 2012-10-02, Žin., 2012, Nr. 122-6122 (2012-10-20), i. k. 1121010ISTA0XI-2263
+ 
 
 
 
@@ -180,7 +183,10 @@ SAUGOMŲ ASMENŲ STATUSAS, SAUGOMŲ ASMENŲ IR SAUGOMŲ OBJEKTŲ APSAUGOS UŽTIK
 
 
 
-5) įstatymų nustatyta tvarka panaudoti operatyvinius veiksmus, skirtus nusikalstamoms veikoms prieš saugomus asmenis užkardyti;
+5) vykdyti kriminalinę žvalgybą nusikalstamoms veikoms prieš saugomus asmenis užkardyti;
+Straipsnio punkto pakeitimai:
+Nr. XI-2263, 2012-10-02, Žin., 2012, Nr. 122-6122 (2012-10-20), i. k. 1121010ISTA0XI-2263
+ 
 
 
 
@@ -330,7 +336,9 @@ Saugomas asmuo turi teisę:
 
 
 
-5) įstatymų nustatyta tvarka panaudojant operatyvinius veiksmus nusikalstamoms veikoms prieš saugomus objektus užkardyti.
+5) vykdant kriminalinę žvalgybą nusikalstamoms veikoms prieš saugomus objektus užkardyti.
+Straipsnio punkto pakeitimai:
+Nr. XI-2263, 2012-10-02, Žin., 2012, Nr. 122-6122 (2012-10-20), i. k. 1121010ISTA0XI-2263
  
 
 
@@ -390,7 +398,10 @@ Vadovybės apsaugos departamentas:
 
 
 
-3) įstatymų nustatyta tvarka ir Vyriausybės nustatytu mastu vykdo operatyvinę veiklą, kad užtikrintų jam pavestų uždavinių įgyvendinimą;
+3) įstatymų nustatyta tvarka ir Vyriausybės nustatytu mastu vykdo kriminalinę žvalgybą, kad užtikrintų jam pavestų uždavinių įgyvendinimą;
+Straipsnio punkto pakeitimai:
+Nr. XI-2263, 2012-10-02, Žin., 2012, Nr. 122-6122 (2012-10-20), i. k. 1121010ISTA0XI-2263
+ 
 
 
 
@@ -423,10 +434,12 @@ Vadovybės apsaugos departamentas:
 13 straipsnis. Vadovybės apsaugos departamento bendradarbiavimas su Lietuvos Respublikos bei užsienio šalių institucijomis ir įstaigomis
 
 
-Vadovybės apsaugos departamentas savo uždaviniams įgyvendinti ir funkcijoms atlikti bendradarbiauja su Lietuvos Respublikos valstybės ir savivaldybių institucijomis, įstaigomis ir visuomeninėmis organizacijomis, operatyvinės veiklos subjektais, kitomis Lietuvos Respublikos teisėsaugos institucijomis ir įstaigomis bei užsienio šalių institucijomis ir įstaigomis.
+Vadovybės apsaugos departamentas savo uždaviniams įgyvendinti ir funkcijoms atlikti bendradarbiauja su Lietuvos Respublikos valstybės ir savivaldybių institucijomis, įstaigomis ir visuomeninėmis organizacijomis, kriminalinės žvalgybos subjektais, kitomis Lietuvos Respublikos teisėsaugos institucijomis ir įstaigomis bei užsienio šalių institucijomis ir įstaigomis.
+
+
+Straipsnio pakeitimai:
+Nr. XI-2263, 2012-10-02, Žin., 2012, Nr. 122-6122 (2012-10-20), i. k. 1121010ISTA0XI-2263
  
-
-
 
 
 
@@ -737,7 +750,10 @@ VADOVYBĖS APSAUGOS DEPARTAMENTO PAREIGŪNO TEISĖS, PAREIGOS IR ATSAKOMYBĖ
 
 
 
-7) pagal savo kompetenciją vykdyti operatyvinę veiklą;
+7) pagal savo kompetenciją vykdyti kriminalinę žvalgybą;
+Straipsnio punkto pakeitimai:
+Nr. XI-2263, 2012-10-02, Žin., 2012, Nr. 122-6122 (2012-10-20), i. k. 1121010ISTA0XI-2263
+ 
 
 
 
@@ -1116,3 +1132,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-678, 2006-06-08, Žin., 2006, Nr. 72-2693 (2006-06-28), i. k. 1061010ISTA000X-678
 Lietuvos Respublikos vadovybės apsaugos įstatymo 6 straipsnio papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2263, 2012-10-02, Žin., 2012, Nr. 122-6122 (2012-10-20), i. k. 1121010ISTA0XI-2263
+Lietuvos Respublikos vadovybės apsaugos įstatymo 2, 6, 9, 12, 13 ir 20 straipsnių pakeitimo įstatymas
