@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C70309CDEB7B"
 
 # Lietuvos Respublikos karo padėties įstatymas
 
-Suvestinė redakcija nuo 2011-07-01 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2014-10-28
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1482, i. k. 1001010ISTAIII-1721
  
@@ -238,11 +238,12 @@ TEISIŲ IR LAISVIŲ APRIBOJIMAS BEI PAREIGŲ NUSTATYMAS
 8 straipsnis. Žmogaus teisės naudotis privataus gyvenimo neliečiamumu apribojimas
 
 
-Karo padėties metu asmenų telefoninių pokalbių pasiklausymas, susirašinėjimo, pašto siuntų ar kitokio susižinojimo tikrinimas gali būti atliekamas be teismo sprendimo. Tikrinti asmenų susirašinėjimą, pašto siuntas, klausytis telefoninių pokalbių ar kontroliuoti bet kokį kitokį asmenų susižinojimą turi teisę tik operatyvinės veiklos subjektai, ikiteisminio tyrimo įstaigos, karinės žvalgybos ir kontržvalgybos skyriai.
+Karo padėties metu asmenų telefoninių pokalbių pasiklausymas, susirašinėjimo, pašto siuntų ar kitokio susižinojimo tikrinimas gali būti atliekamas be teismo sprendimo. Tikrinti asmenų susirašinėjimą, pašto siuntas, klausytis telefoninių pokalbių ar kontroliuoti bet kokį kitokį asmenų susižinojimą turi teisę tik kriminalinės žvalgybos subjektai, žvalgybos institucijos, ikiteisminio tyrimo įstaigos.
 
 
 Straipsnio pakeitimai:
 Nr. IX-1422, 2003-04-03, Žin., 2003, Nr. 38-1667 (2003-04-24), i. k. 1031010ISTA0IX-1422
+Nr. XI-2248, 2012-10-02, Žin., 2012, Nr. 122-6107 (2012-10-20), i. k. 1121010ISTA0XI-2248
  
 
 
@@ -960,3 +961,8 @@ Lietuvos Respublikos karo padėties įstatymo 26 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1414, 2011-05-26, Žin., 2011, Nr. 72-3465 (2011-06-14), i. k. 1111010ISTA0XI-1414
 Lietuvos Respublikos karo padėties įstatymo 2, 21, 32, 33 ir 37 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2248, 2012-10-02, Žin., 2012, Nr. 122-6107 (2012-10-20), i. k. 1121010ISTA0XI-2248
+Lietuvos Respublikos karo padėties įstatymo 8 straipsnio pakeitimo įstatymas
