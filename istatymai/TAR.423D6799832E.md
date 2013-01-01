@@ -13,17 +13,18 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.423D6799832E"
 
 # Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymas
 
-Suvestinė redakcija nuo 2012-04-05 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2015-06-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 17-701, i. k. 1031010ISTA0IX-1315
  
+Nauja redakcija nuo 2013-01-01:
+Nr. XI-2154, 2012-06-29, Žin. 2012, Nr. 81-4220 (2012-07-12), i. k. 1121010ISTA0XI-2154
  
-LIETUVOS RESPUBLIKOS
-SPROGMENŲ APYVARTOS KONTROLĖS
-Į S T A T Y M A S
+LIETUVOS RESPUBLIKOS SPROGMENŲ APYVARTOS KONTROLĖS ĮSTATYMAS
  
 2003 m. sausio 28 d. Nr. IX-1315
 Vilnius
+ 
  
 
 
@@ -32,167 +33,48 @@ BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Įstatymo paskirtis, tikslas ir taikymas
+1 straipsnis. Įstatymo paskirtis ir tikslas
 
 
-1. Šio įstatymo tikslas – reguliuoti sprogmenų, sprogstamųjų medžiagų ir sprogdinimo priemonių (toliau – sprogmenų) apyvartą siekiant užtikrinti žmogaus, visuomenės ir valstybės saugumą ir įgyvendinti civiliniam naudojimui skirtų sprogmenų atpažinties ir susekamumo sistemą.
-Straipsnio dalies pakeitimai:
-Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
- 
+1. Šis įstatymas nustato sprogmenų saugos kontrolę ir sprogmenų ženklinimą, sprogmenų gamybos, prekybos, naudojimo licencijavimo, kitos sprogmenų civilinės apyvartos reikalavimus ir sąlygas, sprogmenų civilinės apyvartos teisinius pagrindus ir sprogmenų civilinės apyvartos kontrolę.
 
 
 
 
-2. Įstatymo paskirtis yra įtvirtinti sprogmenų apyvartos bei jos kontrolės teisinius pagrindus, taip pat nustatyti subjektų, kurių veikla susijusi su sprogmenimis, teises ir pareigas.
+2. Šio įstatymo tikslas – reguliuoti sprogmenų civilinę apyvartą, kad būtų užtikrintas žmogaus, visuomenės ir valstybės saugumas ir nustatyta sprogmenų atpažinties ir susekamumo sistema. 
 
 
 
 
-3. Šis Įstatymas nereglamentuoja sprogmenų apyvartos, kurią vykdo Krašto apsaugos ministerija, Vidaus reikalų ministerija, Valstybės saugumo departamentas, jų valdymo sričiai priskirtos valstybės institucijos, taip pat kai šią apyvartą, įgyvendindami tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių uždavinius, vykdo įstatymų nustatytais pagrindais ir tvarka į Lietuvos Respublikos teritoriją atvykę užsienio valstybių kariniai vienetai. 
- 
+3. Šio įstatymo nuostatos suderintos su šio įstatymo priede nurodytais Europos Sąjungos teisės aktais.
 
 
 
 
+4. Šio įstatymo nuostatos nereglamentuoja:
 
 
-2 straipsnis. Pagrindinės šio Įstatymo sąvokos
+1) civilinių pirotechnikos priemonių apyvartos, kurią reglamentuoja Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymas;
 
 
-1. Atitikties sertifikatas – pagal sertifikavimo taisykles išduotas dokumentas, liudijantis, kad reikiamu būdu identifikuotas produktas, procesas ar paslauga atitinka tam tikrą normą.
 
 
+2) šaudmenų apyvartos, kurią reglamentuoja Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas;
 
 
-2. Detonacija – sprogimo plitimas sprogstamojoje medžiagoje.
 
 
+3) sprogmenų apyvartos, kurią atlieka Lietuvos Respublikos specialaus statuso subjektai – Lietuvos Respublikos specialiųjų tyrimų tarnyba, Lietuvos Respublikos krašto apsaugos ministerija, Lietuvos kariuomenė, Lietuvos Respublikos vidaus reikalų ministerija, vidaus reikalų statutinės įstaigos, Valstybės saugumo departamentas, Lietuvos Respublikos generalinė prokuratūra, Lietuvos Respublikos ginklų fondas prie Vidaus reikalų ministerijos (toliau – Ginklų fondas), Kalėjimų departamentas prie Teisingumo ministerijos, Lietuvos šaulių sąjunga, jų padaliniai ir jiems pavaldžios įstaigos, taip pat Lietuvos Respublikos muitinė;
 
 
-3. Detonacijos greitis – laikas, per kurį susprogsta nustatyto ilgio sprogstamosios medžiagos juosta, suteikus jai sprogdinimo impulsą viename iš jos galų. 
 
 
+4) sprogmenų apyvartos, kurią atlieka kariniai vienetai, kai jie įstatymų nustatytais pagrindais ir tvarka Lietuvos Respublikoje įgyvendina tarptautinių operacijų, pratybų ar kitų karinio bendradarbiavimo renginių uždavinius;
 
 
-4. Fizinis asmuo – Lietuvos Respublikos ar kitos valstybės narės pilietis. 
-Papildyta straipsnio dalimi:
-Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
- 
 
 
-
-
-5. Gamybos vieta – patalpos, teritorija, kuriose sprogmenų gamintojas pagal tai vietai suteiktą licenciją gamina sprogmenis. 
-Papildyta straipsnio dalimi:
-Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
- 
-
-
-
-
-6. Gamintojas – Lietuvos Respublikoje įregistruota įmonė, turinti Vyriausybės nustatyta tvarka išduotą licenciją gaminti sprogmenis.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
-Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
- 
-
-
-
-
-7. Juridinis asmuo – Lietuvos Respublikoje ar kitoje valstybėje narėje įsteigtas juridinis asmuo. 
-Papildyta straipsnio dalimi:
-Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
- 
-
-
-
-
-8. Prekybos sprogmenimis tarpininkas (toliau – prekybos tarpininkas) – asmuo, atstovaujantis gamintojo, prekiautojo ar naudotojo interesams, kai gamintojas, prekiautojas ar naudotojas sudaro sutartis dėl sprogmenų įsigijimo ar pardavimo.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
-Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
- 
-
-
-
-
-9. Profesionalus sprogmenų naudotojas (toliau – profesionalus naudotojas) – įmonė, turinti Vyriausybės nustatyta tvarka išduotą licenciją naudoti sprogmenis.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
-Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
- 
-
-
-
-
-10. Sprogdinimo priemonės – visuma papildomų įrengimų, įtaisų ar medžiagų, skirtų sprogdinimo darbams atlikti. 
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
-Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
- 
-
-
-
-
-11. Sprogimas – medžiagos fizinio būvio pokytis, vykstantis ypač greitai ir lemiantis staigų didelio energijos kiekio ribotame tūryje atpalaidavimą. 
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
-Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
- 
-
-
-
-
-12. Sprogmenų apyvarta – sprogmenų gamyba, pardavimas, perdavimas, įgijimas, laikymas, saugojimas, gabenimas, naudojimas, paėmimas, realizavimas, sunaikinimas, taip pat importas, eksportas, gabenimas tranzitu per Lietuvos Respublikos teritoriją. 
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
-Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
- 
-
-
-
-
-13. Sprogmenų gamyba – sprogmenų gaminimas, bandymai, jų atitikties įvertinimas bei ženklinimas.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
-Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
- 
-
-
-
-
-14. Sprogmenų naudojimas – sprogmenų sprogdinimas siekiant panaudoti jų sprogstamąsias savybes.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
-Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
- 
-
-
-
-
-15. Sprogmuo – įtaisas, specialiai pagamintas sprogimui tam tikromis sąlygomis sukelti.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
-Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
- 
-
-
-
-
-16. Sprogstamoji medžiaga – cheminis junginys ar mišinys, kuris veikiamas smūgio, kibirkšties, liepsnos, trinties ar kito išorinio impulso geba sprogti.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
-Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
- 
-
-
-
-
-17. Valstybė narė – bet kuri Europos Sąjungos valstybė narė arba Europos ekonominės erdvės valstybė.
-Papildyta straipsnio dalimi:
-Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
+5) sprogmenų pirmtakų apyvartos.
  
 
 
@@ -202,106 +84,148 @@ Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA
 
 
 
-antrasis skirsnis
-SPROGMENŲ KLASIFIKACIJA 
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
+
+
+1. Atitikties sertifikatas – dokumentas, kuriuo paskelbtoji (notifikuota) įstaiga patvirtina, kad pagaminti sprogmenys atitinka B, C, D, E, F ar G modulio, reglamentuojamo Ginklų fondo, sprogmenims keliamus reikalavimus, įskaitant ir saugos reikalavimus. 
+
+
+
+
+2. Fizinis asmuo – Lietuvos Respublikos ar kitos valstybės narės pilietis.
+
+
+
+
+3. Gamybos vieta – patalpos ir (ar) teritorija, kuriose sprogmenų gamintojas projektuoja ir (ar) gamina, ženklina, pakuoja sprogmenis, atlieka pagamintų sprogmenų bandymus ir atitikties įvertinimą.
+
+
+
+
+4. Juridinis asmuo – Lietuvos Respublikoje ar kitoje valstybėje narėje įsteigtas juridinis asmuo.
+
+
+
+
+5. Kontroliuojantysis asmuo – fizinis asmuo, kuris, būdamas juridinio asmens dalyvis (akcininkas, narys, dalininkas ir panašiai), pats turi daugiau kaip trečdalį visų balsų arba turi teisę išrinkti (paskirti) daugumą stebėtojų tarybos (valdybos) narių, administracijos vadovus arba faktiškai kontroliuoja juridinio asmens priimamus sprendimus.
+
+
+
+
+6. Modulis – sprogmenų kokybės atitikties standarto reikalavimai.
+
+
+
+
+7. Paskelbtoji (notifikuota) įstaiga – akredituota bandymų laboratorija, sertifikavimo ar atitikties kontrolės įstaiga, kurią valstybė narė paskiria atsakingą už sprogmenų atitikties įvertinimą ir apie ją praneša kitoms valstybėms narėms.
+
+
+
+
+8. Sprogdinimo priemonės – sprogdinimo darbams atlikti skirti įrenginiai, įtaisai ar medžiagos.
+
+
+
+
+9. Sprogimas – ypač greitai vykstantis medžiagos fizinio būvio pokytis, kurio metu tam tikrame tūryje staigiai išsiskiria didelis energijos kiekis.
+
+
+
+
+10. Sprogmenų civilinė apyvarta – sprogmenų, skirtų civiliniam naudojimui, gamyba, įgijimas, laikymas, naudojimas, saugojimas, realizavimas, paėmimas, sunaikinimas, taip pat sprogmenų importas, įvežimas į Lietuvos Respubliką, eksportas, išvežimas iš Lietuvos Respublikos, vežimas tranzitu per Lietuvos Respubliką. 
+
+
+
+
+11. Sprogmenų eksportas – sprogmenų išvežimas iš Lietuvos Respublikos teritorijos (Lietuvos Respublikoje įforminant jų negrąžinamojo eksporto muitinės procedūrą) į Europos Sąjungos muitų teritorijai nepriskiriamas valstybių teritorijas. 
+
+
+
+
+12. Sprogmenų eksportuotojas, importuotojas, įvežantysis ar išvežantysis asmuo – fizinis ar juridinis asmuo, savo vardu tiekiantis sprogmenis, turintis šio įstatymo 14 straipsnyje nustatyta tvarka išduotą atitinkamą leidimą importuoti, eksportuoti, įvežti ir išvežti sprogmenis. 
+
+
+
+
+13. Sprogmenų gamyba – sprogmenų projektavimas, gaminimas, ženklinimas ir pakavimas, įskaitant bandymus ir atitikties įvertinimą.
+
+
+
+
+14. Sprogmenų gamintojas – fizinis ar juridinis asmuo, turintis šio įstatymo nustatyta tvarka išduotą licenciją gaminti sprogmenis. 
+
+
+
+
+15. Sprogmenų importas – sprogmenų įvežimas į Lietuvos Respublikos teritoriją (Lietuvos Respublikoje įforminant jų išleidimo į laisvąją apyvartą muitinės procedūrą) iš Europos Sąjungos muitų teritorijai nepriskiriamų valstybių teritorijų. 
+
+
+
+
+16. Sprogmenų išvežimas – sprogmenų išvežimas iš Lietuvos Respublikos į Europos Sąjungos muitų teritorijai priskiriamas valstybių teritorijas.
+
+
+
+
+17. Sprogmenų įvežimas – sprogmenų įvežimas į Lietuvos Respubliką iš Europos Sąjungos muitų teritorijai priskiriamos valstybės teritorijos. 
+
+
+
+
+18. Sprogmenų naudojimas – fizinio ar juridinio asmens ūkinė komercinė veikla, kurios metu sprogmenys panaudojami ūkinėje komercinėje veikloje tam tikslui, kuriam jie buvo pagaminti ir siekiant panaudoti jų sprogstamąsias savybes.
+
+
+
+
+19. Sprogmenų naudotojas – fizinis ar juridinis asmuo, turintis šio įstatymo nustatyta tvarka išduotą licenciją ar rašytinį sutikimą vykdyti Lietuvos Respublikoje licencijuojamą veiklą – sprogmenų naudojimą.
+
+
+
+
+20. Sprogmenų partija – vieno pavadinimo ir pagal tą pačią technologiją pagamintų sprogmenų kiekis, siunčiamas vienam vartotojui ir įformintas vienu dokumentu. 
+
+
+
+
+21. Sprogmenų pirmtakas – pradinis cheminis junginys ar jų mišiniai, neskirti sprogimui atlikti, tačiau tam tikromis sąlygomis galintys būti panaudoti jam atlikti.
+
+
+
+
+22. Sprogmuo – sprogstamosios medžiagos ir sprogdinimo priemonės, kurios sprogmenimis laikomos Jungtinių Tautų rekomendacijose dėl pavojingų prekių, priskiriamų tų rekomendacijų ST/SG/AC.10/1 pirmajai klasei, pervežimo, taip pat įtaisas su sprogstamąja medžiaga (ar iš sprogstamosios medžiagos), specialiai pagamintas sprogdinti ar tam tikromis sąlygomis sprogti.
+
+
+
+
+23. Sprogstamoji medžiaga – sprogimui atlikti skirtas cheminis junginys ar jų mišiniai, kurie, paveikti išorinio poveikio (trinties, šilumos, smūgio, kibirkšties ir kt.), gali staigiai išskirti didelį energijos kiekį. 
+
+
+
+
+24. Unikalus atpažinties žymuo – sprogmenų gamintojo naudojamas ženklas, kuris skirtas sprogmenų atpažinties ir susekamumo sistemai įgyvendinti ir kuriuo žymimi sprogmenys. Unikalų atpažinties žymenį sudaro raidinis skaitmeninis kodas, brūkšninis ir (ar) matricos kodai, taip pat jame nurodytas sprogmenų gamintojo pavadinimas. 
+
+
+
+
+25. Valstybė narė – bet kuri Europos Sąjungos valstybė narė arba Europos ekonominės erdvės valstybė. 
  
 
 
-3 straipsnis. Sprogmenų klasifikacijos taikymas
 
 
-Šiame Įstatyme pateikta sprogmenų klasifikacija netaikoma įtaisams, specialiai pagamintiems sukelti sprogimui esant tam tikroms sąlygoms, bei sprogdinimo priemonėms klasifikuoti.
+
+
+
+
+ANTRASIS SKIRSNIS
+SPROGMENŲ SAUGOS KONTROLĖ IR ŽENKLINIMAS
  
 
 
+3 straipsnis. Sprogmenų, jų gamybos ir sprogdinimo darbų saugos reikalavimai, su sprogmenimis dirbančių asmenų kvalifikacija ir atestavimas
 
 
-
-
-4 straipsnis. Sprogstamųjų medžiagų skirstymas
-
-
-Pagal paskirtį sprogstamosios medžiagos yra:
-
-
-1) svaidomosios (parakai) – tai cheminių medžiagų mišiniai arba junginiai, pasižymintys savybe degti nesprogdami, skirti atlikti tam tikrą darbą uždarame tūryje nesuardant sąveikaujančių kūnų; 
-
-
-
-
-2) inicijuojančiosios – tai cheminių medžiagų junginiai, pasižymintys didesniu jautrumu smūgiui, trinčiai, liepsnai ar kitokiems poveikiams, naudojami kitų sprogstamųjų medžiagų sprogimui sukelti; 
-
-
-
-
-3) brizantinės – tai cheminių medžiagų mišiniai arba junginiai, skirti atlikti tam tikrą darbą suardant sąveikaujančius kūnus.
- 
-
-
-
-
-
-
-
-
-5 straipsnis. Svaidomųjų sprogstamųjų medžiagų (parakų) skirstymas
-
-
-Svaidomosios sprogstamosios medžiagos skirstomos į dvi grupes:
-
-
-1) cheminių medžiagų mišiniai (dūminiai parakai);
-
-
-
-
-2) cheminių medžiagų junginiai (bedūmiai parakai).
- 
-
-
-
-
-
-
-
-
-6 straipsnis. Brizantinių sprogstamųjų medžiagų skirstymas
-
-
-Brizantinės sprogstamosios medžiagos yra skirstomos į:
-
-
-1) didelio galingumo (detonacijos greitis didesnis negu 7500 m/s);
-
-
-
-
-2) vidutinio galingumo (detonacijos greitis nuo 5000 iki 7500 m/s);
-
-
-
-
-3) mažo galingumo (detonacijos greitis mažesnis negu 5000 m/s).
- 
-
-
-
-
-
-
-
-
-
-
-TREČIASIS SKIRSNIS
-Sprogmenų saugos kontrolė
- 
-
-
-7 straipsnis. Bendrieji saugos reikalavimai
-
-
-1. Sprogmenų konstrukcija, gamybos technologija, apyvartos būdai turi užtikrinti, kad sprogmenys keltų kuo mažesnį pavojų žmonių gyvybei ir sveikatai, aplinkai, turtui, jei bus laikomasi saugos taisyklių ir sprogmenys bus tinkamai naudojami.
+1. Sprogmenų civilinė apyvarta turi būti vykdoma taip, kad sprogmenys keltų kuo mažesnį pavojų žmonių gyvybei ir sveikatai, aplinkai ir turtui.
 
 
 
@@ -311,155 +235,17 @@ Sprogmenų saugos kontrolė
 
 
 
-3. Sprogmenys turi būti išbandyti realiomis sąlygomis, o jei laboratorijoje neįmanoma sukurti realių sąlygų – tokiomis sąlygomis, kokiomis numatoma juos naudoti.
+3. Sprogmenys turi būti išbandyti tokiomis sąlygomis, kokiomis numatoma juos naudoti.
 
 
 
 
-4. Tiriant sprogmenų saugą, turi būti įvertintos šios jų savybės bei informacija:
+4. Sprogmenų gamybos saugos reikalavimus nustato Ginklų fondas, sprogmenų sprogdinimo darbų saugos reikalavimus – Lietuvos Respublikos socialinės apsaugos ir darbo ministerija.
 
 
-1) konstrukcija ir būdingos savybės, įskaitant cheminę sudėtį, medžiagų sumaišymo ir granuliavimo tolydumą;
 
 
-
-
-2) fizinis ir cheminis stabilumas esant įvairioms aplinkos sąlygoms;
-
-
-
-
-3) jautrumas smūgiams ir trinčiai;
-
-
-
-
-4) sudedamųjų dalių fizinis ir cheminis suderinamumas;
-
-
-
-
-5) cheminis švarumas;
-
-
-
-
-6) atsparumas drėgmei;
-
-
-
-
-7) atsparumas žemoms ir aukštoms temperatūroms (jei sprogmenį ketinama naudoti tokių temperatūrų aplinkoje ir tai gali paveikti jo saugumą ir patikimumą);
-
-
-
-
-8) tinkamumas naudoti, kai į aplinką gali patekti išsiveržusios kasyklų dujos, karštos medžiagos, ar kitomis kenksmingomis sąlygomis, jei sprogmenį ketinama naudoti tokiomis sąlygomis;
-
-
-
-
-9) apsaugos priemonės nuo savaiminio sprogimo ar užsidegimo;
-
-
-
-
-10) instrukcijos ir (kur yra būtina) žymenys apie saugų sprogmenų naudojimą, laikymą sandėlyje bei sunaikinimą;
-
-
-
-
-11) sprogmens, jo pakuotės ir kitų komponentų tinkamumas laikyti sandėlyje iki gamintojo nurodytos datos;
-
-
-
-
-12) saugiam ir patikimam sprogmens naudojimui reikalingų priemonių sąrašas.
-
-
-
-
-
-
-5. Reikalavimai sprogmenims:
-
-
-1) numatytas sprogdinimo būdas turi užtikrinti patikimą viso sprogmens susprogdinimą;
-
-
-
-
-2) sprogmenų grandinė turi patikimai perduoti detonaciją per visą savo ilgį;
-
-
-
-
-3) sprogdinant požeminiams sprogdinimo darbams skirtus sprogmenis susidarančios dujos gali turėti tik tokį anglies monoksido, azoto junginių ir kitų dujų, garų ar ore pakibusių kietųjų dalelių kiekį, koks įprastomis darbo sąlygomis nėra kenksmingas žmogaus sveikatai;
-
-
-
-
-4) sprogmenys turi būti atsparūs drėgmei.
-
-
-
-
-
-
-6. Reikalavimai sprogdinimo priemonėms:
-
-
-1) degtuvų, sprogdiklių ir padegamųjų virvučių išorės danga turi būti pakankamai atspari, kad apsaugotų jų viduje esančias sprogstamąsias medžiagas nuo išorinio mechaninio poveikio;
-
-
-
-
-2) ant pakuočių arba naudojimo instrukcijoje turi būti nurodytas padegamųjų virvučių degimo laikas, tikrasis degimo laikas turi atitikti nurodytąjį;
-
-
-
-
-3) degtuvų patikimumas ir galia neturi sumažėti visą laikymo sandėlyje laiką esant nurodytoms nepalankiausioms aplinkos sąlygoms;
-
-
-
-
-4) detonatoriai turi užtikrinti patikimą sprogmens susprogdinimą esant bet kokioms aplinkos sąlygoms;
-
-
-
-
-5) sprogdinimo relių patikimumas turi būti pakankamai didelis;
-
-
-
-
-6) uždelsto veikimo detonatorių uždelsimo laiko sklaida turi būti kuo mažiausia;
-
-
-
-
-7) elektros detonatorių elektriniai parametrai turi būti nurodyti ant pakuotės;
-
-
-
-
-8) elektros detonatorių laidai turi būti gerai izoliuoti, mechaniškai atsparūs, patikimai pritvirtinti ir elektriškai prijungti prie detonatorių.
-
-
-
-
-
-
-7. Reikalavimai svaidomosioms sprogstamosioms medžiagoms:
-
-
-1) šios medžiagos neturi sprogti naudojant jas pagal paskirtį;
-
-
-
-
-2) šios medžiagos turi būti pakankamai atsparios išorės poveikiams.
+5. Fiziniai asmenys, dirbantys tiesiogiai su sprogmenimis, privalo būti išklausę mokymo kursus, kurių programas ir išklausytų kursų pripažinimo tvarką nustato Ginklų fondas, ir turėti jų žinias patvirtinantį pažymėjimą. 
  
 
 
@@ -467,12 +253,30 @@ Sprogmenų saugos kontrolė
 
 
 
+4 straipsnis. Sprogmenų atitikties įvertinimas
 
 
-8 straipsnis. Sprogmenų standartizavimas
+1. Sprogmenys turi turėti atitikties sertifikatą. 
 
 
-Lietuvos standartai, reglamentuojantys sprogmenų gamybą ir savybes, turi atitikti darniuosius standartus, skelbiamus Europos Sąjungos oficialiajame leidinyje.
+
+
+2. Sprogmenų atitikties vertinimas turi būti atliekamas Lietuvos Respublikoje gaminamiems, į Lietuvos Respubliką įvežamiems ir importuojamiems sprogmenims vadovaujantis šiuo įstatymu, Lietuvos Respublikos atitikties įvertinimo įstatymu (toliau – Atitikties įvertinimo įstatymas) ir Ginklų fondo nustatyta tvarka. 
+
+
+
+
+3. Sprogmenų atitikties vertinimą atlieka paskelbtosios (notifikuotos) įstaigos. 
+
+
+
+
+4. Pradėdamas gaminti naujos technologijos sprogmenis, sprogmenų gamintojas, prieš kreipdamasis į paskelbtąją (notifikuotą) įstaigą, privalo patikrinti sprogmenį pagal B modulį. Tolesnę (tolesnį) sprogmenų atitikties nustatymo tvarką (modulį) pasirenka sprogmenų gamintojas, įvertindamas, kokiu būdu jis ketina tiekti rinkai savo pagamintus sprogmenis. Sprogmenų gamintojas privalo užtikrinti, kad serijiniu būdu pagaminti sprogmenys atitiks atitikties sertifikate apibūdintą modulį; tai atliekama patikrinant sprogmenis pasirinktinai papildomai pagal C, D, E, F ar G modulį. 
+
+
+
+
+5. Paskelbtoji (notifikuota) įstaiga, vadovaudamasi šiuo įstatymu, Atitikties įvertinimo įstatymu, Ginklų fondo reglamentuotais moduliais, jų taikymo tvarka atlikusi sprogmenų atitiktį atitinkamam moduliui, išduoda atitikties sertifikatą arba motyvuotai atsisako jį išduoti. 
  
 
 
@@ -480,30 +284,20 @@ Lietuvos standartai, reglamentuojantys sprogmenų gamybą ir savybes, turi atiti
 
 
 
-9 straipsnis. Sprogmenų sertifikavimas ir žymėjimas
+5 straipsnis. Sprogmenų ženklinimas
 
 
-1. Visi importuojami ar tranzitu per Lietuvos Respublikos teritoriją gabenami sprogmenys, taip pat visi Lietuvos Respublikos teritorijoje parduodami sprogmenys turi būti sertifikuoti, o jų importuotojai, vežėjai ir pardavėjai turi turėti paskelbtosios (notifikuotos) įstaigos (įtrauktos į Europos Sąjungos oficialiajame leidinyje skelbiamą atitikties įvertinimo institucijų sąrašą) išduotą atitikties sertifikatą, patvirtinantį, kad importuojami ar tranzitu gabenami, taip pat parduodami sprogmenys atitinka jiems keliamus saugos reikalavimus.
-
-
-
-
-2. Gamintojas, prieš teikdamas sprogmenis rinkai, privalo gauti paskelbtosios (notifikuotos) įstaigos, nurodytos šio straipsnio 1 dalyje, išduotą atitikties sertifikatą, kad parduodami ar eksportuojami sprogmenys atitinka jiems keliamus saugos reikalavimus.
+1. Visi Lietuvos Respublikoje pagaminti, į Lietuvos Respubliką įvežami, importuojami, iš Lietuvos Respublikos išvežami, eksportuojami sprogmenys turi būti paženklinti atitikties ženklu „CE“.
 
 
 
 
-3. Europos Sąjungos valstybei narei parduodami ar į ją eksportuojami sprogmenys turi būti paženklinti CE ženklu. CE ženklui gauti ir jam naudoti reikalingos sertifikavimo procedūros atliekamos paskelbtojoje (notifikuotoje) įstaigoje, nurodytoje šio straipsnio 1 dalyje. Sprogmenų atitikties nustatymo tvarką (sertifikavimo procedūrų modulį) pasirenka gamintojas, įvertindamas, kokiu būdu jis ketina tiekti į rinką savo pagamintus sprogmenis. Gamintojas atsako už CE ženklo naudojimo teisėtumą ir taisyklingumą.
+2. Per Lietuvos Respublikos teritoriją tranzitu vežami sprogmenys turi būti paženklinti atitikties ženklu „CE“, jeigu jie vežami į kitą valstybę narę arba bus toliau vežami per kitos valstybės narės teritoriją. Sprogmenų gamintojas, eksportuotojas, importuotojas, įvežantysis ar išvežantysis asmuo atsako už atitikties ženklo „CE“ naudojimo teisėtumą. 
 
 
 
 
-4. CE ženklu turi būti paženklinti visi importuojami sprogmenys. Tranzitu gabenami sprogmenys turi būti paženklinti CE ženklu, jeigu jie gabenami į Europos Sąjungos valstybę narę arba bus toliau gabenami per Europos Sąjungos valstybės narės teritoriją.
-
-
-
-
-5. Sprogmenų gamintojai, importuotojai, eksportuotojai privalo sprogmenis paženklinti unikaliu atpažinties žymeniu, išskyrus:
+3. Sprogmenų gamintojas, importuotojas, įvežantysis ar išvežantysis asmuo privalo sprogmenis paženklinti unikaliu atpažinties žymeniu, išskyrus:
 
 
 1) sprogmenis, kurie vežami nesupakuoti arba hidrauliniuose krautuvuose ir iš karto iškraunami į sprogdinimo ertmes;
@@ -511,77 +305,54 @@ Lietuvos standartai, reglamentuojantys sprogmenų gamybą ir savybes, turi atiti
 
 
 
-2) sprogmenis, kurie gaminami sprogdinimo vietose ir ką tik pagaminti (in situ gamyba) užtaisomi. 
-
-
-Papildyta straipsnio dalimi:
-Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
- 
+2) sprogmenis, kurie gaminami sprogdinimo vietose ir ką tik pagaminti (in situ gamyba) užtaisomi;
 
 
 
 
-6. Lietuvos Respublikoje esančioms gamybos vietoms unikalaus atpažinties žymens tris skaitmenis, žyminčius gamybos vietą, suteikia Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos vidaus reikalų ministerijos. 
-Papildyta straipsnio dalimi:
-Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
-Straipsnio dalies pakeitimai:
-Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. 1101010ISTA00XI-647
- 
+3) sprogdiklius, kurie yra virveliniai nedetonuojamieji uždegimo įtaisai;
 
 
 
 
-7. Jeigu į Lietuvos Respubliką importuojamų sprogmenų gamybos vieta yra ne Europos ekonominės erdvės valstybėje narėje, tačiau gamintojas yra registruotas Europos ekonominės erdvės valstybėje narėje, Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos vidaus reikalų ministerijos sprogmenų gamintojo prašymu suteikia šio gamintojo unikalaus atpažinties žymens tris skaitmenis, žyminčius jo gamybos vietą. Jei gamintojas nėra registruotas Europos ekonominės erdvės valstybėje narėje, prašymą suteikti unikalaus atpažinties žymens tris skaitmenis, žyminčius gamybos vietą, Lietuvos Respublikos ginklų fondui prie Lietuvos Respublikos vidaus reikalų ministerijos pateikia sprogmenų importuotojas.
-Papildyta straipsnio dalimi:
-Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
-Straipsnio dalies pakeitimai:
-Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. 1101010ISTA00XI-647
- 
+4) padegamąsias virvutes, kurių šerdį sudaro smulkiagrūdžiai juodi milteliai, apsupti minkštu audiniu su vienu arba keliais apsauginiais išoriniais sluoksniais, ir kurios po uždegimo dega iš anksto nustatytu greičiu, nesukeldamos išorinio sprogstamojo poveikio;
 
 
 
 
-8. Iš Lietuvos Respublikos eksportuojami sprogmenys gali būti neženklinami unikaliu atpažinties žymeniu, jeigu pagal importuojančios šalies reikalavimus jie yra paženklinti kitokiu atpažinties žymeniu, leidžiančiu atpažinti sprogmenis ir atsekti jų judėjimą. 
-Papildyta straipsnio dalimi:
-Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
- 
-
-
-
-
-9. CE ženklu ir unikaliu atpažinties žymeniu sprogmenys turi būti ženklinami tokiu būdu, kad žymenys būtų aiškiai pastebimi, lengvai įskaitomi ir patvarūs. CE ženklu žymimas pats sprogmuo arba, jei tai neįmanoma, prie sprogmens pritvirtinta duomenų plokštelė; tuo atveju, kai taip žymėti techniškai neįmanoma, žymima sprogmens pakuotė. Duomenų plokštelė pagaminama taip, kad jos nebūtų galima panaudoti antrą kartą. Draudžiama ženklinti sprogmenis užrašais, kuriuos būtų galima klaidingai palaikyti CE ženklu ir unikaliu atpažinties žymeniu. 
-Straipsnio dalies pakeitimai:
-Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
- 
-
-
-
-
-6. Lietuvos Respublikoje esančioms gamybos vietoms unikalaus atpažinties žymens tris skaitmenis, žyminčius gamybos vietą, suteikia Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos vidaus reikalų ministerijos. 
-Straipsnio dalies pakeitimai:
-Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
-Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. 1101010ISTA00XI-647
- 
-
-
-
-
-7. Jeigu į Lietuvos Respubliką importuojamų sprogmenų gamybos vieta yra ne Europos ekonominės erdvės valstybėje narėje, tačiau gamintojas yra registruotas Europos ekonominės erdvės valstybėje narėje, Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos vidaus reikalų ministerijos sprogmenų gamintojo prašymu suteikia šio gamintojo unikalaus atpažinties žymens tris skaitmenis, žyminčius jo gamybos vietą. Jei gamintojas nėra registruotas Europos ekonominės erdvės valstybėje narėje, prašymą suteikti unikalaus atpažinties žymens tris skaitmenis, žyminčius gamybos vietą, Lietuvos Respublikos ginklų fondui prie Lietuvos Respublikos vidaus reikalų ministerijos pateikia sprogmenų importuotojas.
-Straipsnio dalies pakeitimai:
-Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. 1101010ISTA00XI-647
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
- 
+5) kapsulinius degtuvus, kuriuos sudaro metalinė arba plastikinė kapsulė, kurioje yra mažas kiekis nuo smūgio lengvai užsidegančio pirminės sprogstamosios medžiagos mišinio, ir kurie atlieka uždegimo elementų funkciją B, C, D kategorijų ginklų šoviniuose arba šaunamųjų užtaisų padegamosiose kapsulėse.
 
 
 
 
 
 
-10 straipsnis. Sprogmenų gamybos ir sprogdinimo darbų saugos reikalavimai
+4. Jeigu sprogmenys dar nėra galutinis produktas ir šie sprogmenys naudojami kitų sprogmenų gamybai, sprogmenų gamintojai neprivalo sprogmenų ženklinti nauju unikaliu atpažinties žymeniu, išskyrus atvejus, kai pagaminus galutinį produktą unikalaus atpažinties žymens nesimato.
 
 
-Reikalavimus, reglamentuojančius sprogmenų gamybos ir sprogdinimo darbų saugą, nustato Vyriausybės įgaliota institucija.
+
+
+5. Lietuvos Respublikoje esančioms gamybos vietoms unikalaus atpažinties žymens tris skaitmenis, žyminčius gamybos vietą, suteikia Ginklų fondas.
+
+
+
+
+6. Jeigu į Lietuvos Respubliką importuojamų sprogmenų gamybos vieta yra ne valstybėje narėje, tačiau sprogmenų gamintojas yra įsisteigęs valstybėje narėje, Ginklų fondas sprogmenų gamintojo prašymu suteikia šio unikalaus atpažinties žymens tris skaitmenis, žyminčius jo gamybos vietą. Jeigu sprogmenų gamintojas nėra įsisteigęs valstybėje narėje, prašymą suteikti unikalaus atpažinties žymens tris skaitmenis, žyminčius gamybos vietą, Ginklų fondui pateikia sprogmenų importuotojas.
+
+
+
+
+7. Eksportuojami iš Lietuvos Respublikos sprogmenys gali būti neženklinami unikaliu atpažinties žymeniu, jeigu pagal importuojančios valstybės reikalavimus jie yra paženklinti kitokiu atpažinties žymeniu, leidžiančiu atpažinti sprogmenis ir atsekti jų judėjimą.
+
+
+
+
+8. Atitikties ženklu „CE“ ir unikaliu atpažinties žymeniu sprogmenys turi būti ženklinami tokiu būdu, kad žymenys būtų aiškiai pastebimi, lengvai įskaitomi ir patvarūs. Atitikties ženklu „CE“ ženklinamas pats sprogmuo arba, jeigu tai neįmanoma, prie sprogmens pritvirtinta duomenų plokštelė; tuo atveju, kai taip ženklinti techniškai neįmanoma, ženklinama sprogmens pakuotė. Duomenų plokštelė pagaminama taip, kad jos nebūtų galima panaudoti antrą kartą. Draudžiama ženklinti sprogmenis užrašais, kuriuos galima būtų klaidingai palaikyti atitikties ženklu „CE“ ir unikaliu atpažinties žymeniu. Kitus žymenis ant sprogmenų galima tvirtinti tik tuo atveju, jeigu jie netrukdo pamatyti ir perskaityti atitikties ženklą „CE“ ir unikalų atpažinties žymenį.
+
+
+
+
+9. Valstybinė ne maisto produktų inspekcija prie Ūkio ministerijos (toliau – Valstybinė ne maisto produktų inspekcija) teisės aktų nustatyta tvarka prižiūri, ar sprogmenys, tiekiami Lietuvos Respublikos rinkai, atitinka šiame straipsnyje nustatytus ženklinimo reikalavimus. Jeigu Valstybinė ne maisto produktų inspekcija nustato, kad Lietuvos Respublikos rinkai tiekiami sprogmenys yra nesertifikuoti, nepaženklinti unikaliu atpažinties žymeniu arba atitikties ženklu „CE“, kad unikaliu atpažinties žymeniu arba atitikties ženklu „CE“ sprogmenys paženklinti neteisėtai, ši institucija privalo užtikrinti tokių sprogmenų pašalinimą iš rinkos ir įpareigoti sprogmenų gamintoją (prekiautoją) per nurodytą laiką pašalinti nustatytus trūkumus. Jeigu sprogmenų gamintojas (prekiautojas) neįvykdo šių reikalavimų, sprogmenys paimami šio įstatymo 20 straipsnyje nustatyta tvarka.
  
 
 
@@ -591,15 +362,15 @@ Reikalavimus, reglamentuojančius sprogmenų gamybos ir sprogdinimo darbų saug�
 
 
 
-KETVIRTASIS skirsnis
-SU sprogmenIMIS SUSIJUSI ŪKINĖ KOMERCINĖ VEIKLA 
+TREČIASIS SKIRSNIS
+SPROGMENŲ gamybos, prekybos, naudojimo LICENCIJAVIMO SĄLYGOS
  
 
 
-11 straipsnis. Bendrieji ūkinės komercinės veiklos, susijusios su sprogmenimis, reikalavimai
+6 straipsnis. Sprogmenų gamybos, prekybos, naudojimo licencijavimas 
 
 
-1. Licencijuojama ūkinė komercinė veikla yra:
+1. Licencijuojama ši veikla:
 
 
 1) sprogmenų gamyba;
@@ -619,184 +390,52 @@ SU sprogmenIMIS SUSIJUSI ŪKINĖ KOMERCINĖ VEIKLA
 
 
 
-2. Kiekvienai šio straipsnio 1 dalyje nurodytai veiklai yra išduodama atskira licencija. Licencijas Vyriausybės nustatyta tvarka išduoda Lietuvos Respublikos ginklų fondas prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Ginklų fondas).
+2. Licencijas verstis šio straipsnio 1 dalyje nurodyta licencijuojama veikla gali gauti fiziniai ir juridiniai asmenys.
 
 
 
 
-3. Lietuvos Respublikoje verstis šio straipsnio 1 dalies 2 ir 3 punktuose nurodyta veikla turi teisę kitų valstybių narių paslaugų teikėjai, pateikę Ginklų fondui savo registracijos valstybėje narėje gautas licencijas verstis šia veikla. Ginklų fondas, patikrinęs pateiktos licencijos galiojimą ir gavęs licenciją išdavusios valstybės narės patikrintų asmenų, kurie turi teisę tiesiogiai dirbti su sprogmenimis, sąrašus, išduoda rašytinį sutikimą vykdyti Lietuvos Respublikoje licencijuojamą veiklą. Toks sutikimas neišduodamas, jeigu gaunama duomenų, kad juridinio asmens registracija ar licencija negalioja, taip pat jeigu į patikrintų asmenų sąrašus yra įtraukti asmenys, neturintys teisės dirbti su sprogmenimis. Jeigu per 30 dienų nuo paklausimo negaunamas joks atsakymas, laikoma, kad priežasčių neišduoti sutikimo nėra.
+3. Kiekvienai šio straipsnio 1 dalyje nurodytai licencijuojamai veiklai yra išduodama atskira licencija. Licencijas verstis šio straipsnio 1 dalyje nurodyta licencijuojama veikla išduoda Ginklų fondas.
 
 
 
 
-4. Licencijas verstis šio straipsnio 1 dalies 1 punkte nurodyta veikla turi teisę gauti tik juridiniai asmenys. Licencijas verstis šio straipsnio 1 dalies 2 ir 3 punktuose nurodytomis veiklomis turi teisę gauti fiziniai ir juridiniai asmenys.
+4. Lietuvos Respublikoje verstis šio straipsnio 1 dalyje nurodyta licencijuojama veikla turi teisę ir kitų valstybių narių paslaugų teikėjai, pateikę Ginklų fondui įsisteigimo valstybėje narėje gautas licencijas ir (ar) leidimus verstis šia veikla. Ginklų fondas, patikrinęs pateiktos licencijos ir (ar) leidimo galiojimą, išduoda Lietuvos Respublikos Vyriausybės nustatyta tvarka rašytinį sutikimą verstis Lietuvos Respublikoje licencijuojama veikla (toliau – rašytinis sutikimas). 
 
 
 
 
-5. Sprendimas dėl licencijos išdavimo priimamas ne vėliau kaip per 30 kalendorinių dienų nuo visų dokumentų, reikalingų licencijai išduoti, pateikimo dienos.
+5. Sprendimas dėl licencijos ar rašytinio sutikimo išdavimo priimamas ne vėliau kaip per 30 kalendorinių dienų nuo prašymo ir visų dokumentų, reikalingų licencijai ar rašytiniam sutikimui išduoti, pateikimo dienos.
 
 
 
 
-6. Gavęs prašymą išduoti licenciją, Ginklų fondas ne vėliau kaip per 5 darbo dienas išsiunčia pareiškėjui patvirtinimą, kad prašymas gautas. Patvirtinime taip pat nurodoma šio straipsnio 5 dalies terminas licencijai išduoti, sprendimo apskundimo tvarka ir terminai bei tai, kad pareiškėjui ar jo įgaliotam asmeniui per 30 kalendorinių dienų nuo visų dokumentų, reikalingų licencijai išduoti, pateikimo dienos negavus jokio atsakymo, yra laikoma, kad priimamas teigiamas sprendimas.
+6. Jeigu pareiškėjas ar jo įgaliotas asmuo per 30 kalendorinių dienų nuo visų dokumentų, reikalingų licencijai ar rašytiniam sutikimui išduoti, pateikimo dienos negauna jokio atsakymo, laikoma, kad priimamas teigiamas sprendimas.
 
 
 
 
-7. Atsisakymas išduoti licenciją turi būti motyvuotas vadovaujantis Vyriausybės patvirtintose Sprogmenų civilinės apyvartos licencijavimo taisyklėse nustatytais reikalavimais. Pareiškėjas ar jo įgaliotas asmuo atsisakymą išduoti licenciją turi teisę ne vėliau kaip per 30 kalendorinių dienų nuo sprendimo gavimo dienos apskųsti teismui.
+7. Licencija ar rašytinis sutikimas neišduodamas, jeigu:
 
 
+1) licencijai ar rašytiniam sutikimui išduoti pateikti ne visi reikiami, neišsamiai arba netinkamai įforminti dokumentai, numatyti šiame įstatyme ar šio straipsnio 8 dalyje nurodytose licencijavimo taisyklėse, ir pareiškėjas neįvykdė Ginklų fondo reikalavimo pateikti trūkstamus dokumentus ar ištaisyti trūkumus;
 
 
-8. Jeigu pareiškėjas ar jo įgaliotas asmuo per 30 kalendorinių dienų nuo visų dokumentų, reikalingų licencijai išduoti, pateikimo dienos negauna jokio atsakymo, yra laikoma, kad priimamas teigiamas sprendimas.
 
 
+2) rašytiniam sutikimui išduoti gaunama duomenų, kad juridinio ar fizinio asmens registracija ar licencija negalioja, licencijos galiojimas sustabdytas;
 
 
-9. Prašymas išduoti licenciją, prie jo pridedami dokumentai gali būti pateikiami, o licencija išduodama ir Lietuvos Respublikos teisės aktuose nustatytomis elektroninėmis priemonėmis.
 
 
+3) licencijos ar rašytinio sutikimo galiojimas buvo panaikintas ir nuo licencijos ar rašytinio sutikimo galiojimo panaikinimo nepraėjo treji metai (ši nuostata netaikoma, jeigu licencijos ar rašytinio sutikimo galiojimas buvo panaikintas licencijos ar rašytinio sutikimo turėtojo prašymu).
 
 
-10. Kiekvienos ūkinės komercinės veiklos, nurodytos šio straipsnio 1 dalyje, licencijavimo taisykles tvirtina Vyriausybė.
 
 
 
 
-11. Sprendimas dėl sutikimo verstis licencijuojama veikla išdavimo ar neišdavimo paslaugų teikėjui, pateikusiam kitoje valstybėje narėje išduotą licenciją, priimamas ne vėliau kaip per 30 kalendorinių dienų nuo turimos licencijos pateikimo Ginklų fondui dienos. Jeigu paslaugų teikėjas per 30 kalendorinių dienų nuo licencijos pateikimo dienos negauna jokio atsakymo, yra laikoma, kad priimamas teigiamas sprendimas.
-
-
-
-
-12. Licencija turi būti patikslinta (papildyta), jeigu pasikeičia bent vienas juridinio (pavadinimas, teisinė forma, kodas, adresas) ar fizinio (vardas, pavardė, asmens kodas, licencijoje nurodytos vykdomos veiklos adresas) asmens, kuris verčiasi licencijuojama veikla, rekvizitas. Tokiu atveju juridinis ar fizinis asmuo, kuris verčiasi licencijuojama veikla, ne vėliau kaip per 15 kalendorinių dienų nuo duomenų pasikeitimo turi pateikti Ginklų fondui rašytinį prašymą patikslinti (papildyti) išduotą licenciją, turimą licencijos originalą (dublikatą) ir dokumentus, patvirtinančius pasikeitusius duomenis. Licencija patikslinama (papildoma) ir tada, kai buvo padaryta rašybos klaidų. Ginklų fondas per 10 darbo dienų nuo nurodytų dokumentų gavimo dienos patikslina (papildo) licenciją.
-
-
-
-
-13. Už licencijų išdavimą, patikslinimą (papildymą) ar dublikato išdavimą mokama valstybės rinkliava. Už licencijos patikslinimą, jeigu buvo padaryta rašybos klaidų, valstybės rinkliava neimama.
-
-
-Straipsnio pakeitimai:
-Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
- 
-
-
-
-
-12 straipsnis. Teisės dirbti darbą, susijusį su licencijuojama veikla, apribojimai
-
-
-1. Įmonės, kuri verčiasi licencijuojama veikla, darbuotoju, tiesiogiai susijusiu su sprogmenų apyvarta, taip pat tokios įmonės administracijos vadovu ir fiziniu asmeniu, kuris verčiasi licencijuojama veikla, negali būti:
-
-
-1) asmuo, įrašytas į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo, narkomanijos arba prižiūrimas sveikatos priežiūros įstaigos dėl psichikos ligos ar sutrikimo;
-
-
-
-
-2) asmuo, kuris įrašytas į operatyvinę įskaitą arba kuriam Organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka taikomi teismo įpareigojimai;
-
-
-
-
-3) asmuo, kuriam verstis šio Įstatymo nustatyta licencijuojama veikla uždrausta teismo nuosprendžiu;
-
-
-
-
-4) asmuo, kaltinamas, teisiamas ar nuteistas padaręs nusikalstamą veiką;
-
-
-
-
-5) kai yra pakankamas pagrindas manyti, kad asmuo savo elgesiu gali sukelti grėsmę sprogmenų apyvartos saugumui ar valstybės saugumo interesams.
-
-
-
-
-
-
-2. Šio straipsnio 1 dalyje nurodytų asmenų sveikatos būklės reikalavimai prilyginami asmenų, turinčių leidimą įsigyti ar turėti šaunamąjį ginklą, sveikatos būklės reikalavimams.
-
-
-Straipsnio pakeitimai:
-Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
- 
-
-
-
-
-13 straipsnis. Licencijos turėtojų bendrosios pareigos
-
-
-1. Licencijos turėtojas privalo:
-
-
-1) iki licencijuojamos veiklos pradžios Vyriausybės įgaliotos institucijos nustatyta tvarka gauti teritorinės policijos įstaigos leidimą, patvirtinantį, kad specialūs sandėliai sprogmenims laikyti ir patalpos sprogmenų gamybai ar prekybai atitinka Vyriausybės arba jos įgaliotos institucijos nustatytus reikalavimus;
-
-
-
-
-2) užtikrinti teisės aktų reikalavimus atitinkančią sprogmenų apskaitą ir apsaugą;
-
-
-
-
-3) kas ketvirtį, ne vėliau kaip iki kito ketvirčio pirmojo mėnesio 5 dienos, pateikti licenciją išdavusiai institucijai ar jos įgaliotai įstaigai ūkinės komercinės veiklos, susijusios su sprogmenimis, nustatytos formos ataskaitą;
-
-
-
-
-4) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka teikti Ginklų fondui duomenis apie pagamintus, importuotus, eksportuotus, parduotus, laikomus ir sunaudotus sprogmenis; 
-Straipsnio punkto pakeitimai:
-Nr. X-186, 2005-05-12, Žin., 2005, Nr. 67-2398 (2005-05-28), i. k. 1051010ISTA000X-186
-Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. 1101010ISTA00XI-647
-Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
- 
-
-
-
-
-5) pasikeitus įmonės veiklos pobūdžiui ar kitoms sąlygoms, kurios buvo nurodytos dokumentuose, pateiktuose licencijai gauti, apie tai ne vėliau kaip per 10 darbo dienų pranešti licenciją išdavusiai institucijai; 
-
-
-
-
-6) kontroliuojančiųjų institucijų reikalavimu pateikti informaciją apie darbuotojus, dirbančius su sprogmenimis susijusį darbą, bei jų asmens duomenis;
-
-
-
-
-7) sudaryti sąlygas kontroliuojančiųjų institucijų darbuotojams tikrinti fizinio ir juridinio asmens veiklą, susijusią su licencijuojama veikla; 
-Straipsnio punkto pakeitimai:
-Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
- 
-
-
-
-
-8) vykdyti teisės aktų, reglamentuojančių darbuotojų saugą ir sveikatą gaminant sprogmenis ir atliekant sprogdinimo darbus, reikalavimus;
-
-
-
-
-9) prieš priimdamas į darbą naują darbuotoją, kurio darbas tiesiogiai susijęs su šiame Įstatyme numatyta licencijuojama veikla, pateikti teritorinei policijos įstaigai bei Valstybės saugumo departamentui patikrinti, ar nėra aplinkybių, dėl kurių darbuotojas negalėtų dirbti su licencijuojama veikla susijusio darbo, šio asmens duomenis (vardas, pavardė, asmens kodas, gyvenamoji vieta) ir medicininio patikrinimo išvadas, patvirtinančias, kad jis neserga ligomis, dėl kurių negalėtų dirbti šio darbo, nėra įrašytas į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo, narkomanijos, neprižiūrimas sveikatos priežiūros įstaigos dėl psichikos ligos ar sutrikimo;
-
-
-
-
-10) sprogmenų apskaitos žurnalus, surinktus duomenis apie sprogmenis ir kitus dokumentus, taip pat duomenis saugoti 10 metų nuo paskutinio įrašo padarymo dienos (likvidavus juridinį asmenį ar fiziniam asmeniui nutraukus licencijuojamą veiklą arba jam mirus, apskaitos dokumentai perduodami Ginklų fondui).
-Straipsnio punkto pakeitimai:
-Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
- 
-
-
-
-
-11) pranešti licenciją išdavusiai institucijai asmens, galinčio ne darbo valandomis suteikti informaciją apie kiekvieno turimo sprogmens kilmę ir jo buvimo vietą per visą laiką nuo įsigijimo iki perdavimo (pardavimo) ar sunaudojimo, vardą, pavardę, ryšių duomenis.
-Papildyta straipsnio punktu:
-Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
+8. Ūkinės komercinės veiklos, nurodytos šio straipsnio 1 dalyje, licencijavimo taisykles tvirtina Lietuvos Respublikos Vyriausybė.
  
 
 
@@ -804,15 +443,65 @@ Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA
 
 
 
-2. Licencijos turėtojui draudžiama:
+7 straipsnis. Teisės dirbti darbą, susijusį su licencijuojama veikla, apribojimai
 
 
-1) pavesti, įgalioti ar kitaip perleisti teisę verstis licencijoje nurodyta veikla kitam asmeniui;
+1. Juridinio asmens darbuotoju, kuris gamina sprogmenis, jų įsigyja, juos laiko, naudoja ar realizuoja, juridinio asmens padalinio vadovu, kuris tiesiogiai kontroliuoja sprogmenų gamybą, įgijimą, laikymą, naudojimą ar realizavimą, ar fiziniu asmeniu, kuris verčiasi licencijuojama veikla, negali būti:
+
+
+1) asmuo, įrašytas į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo, narkomanijos arba sveikatos priežiūros įstaigos prižiūrimas dėl psichikos ligos ar sutrikimo;
 
 
 
 
-2) verstis licencijuojama veikla patalpose, kurioms tokiai veiklai neišduotas teritorinės policijos įstaigos leidimas.
+2) asmuo, sergantis ligomis ar turintis fizinių trūkumų, dėl kurių jis negali tinkamai elgtis su sprogmenimis;
+
+
+
+
+3) asmuo, kuriam Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka taikomi teismo įpareigojimai;
+
+
+
+
+4) asmuo, kuriam verstis šio įstatymo nustatyta licencijuojama veikla uždrausta teismo sprendimu;
+
+
+
+
+5) asmuo, įtariamas, kaltinamas ar nuteistas padaręs tyčinį nusikaltimą, o teistumas neišnykęs ar nepanaikintas;
+
+
+
+
+6) asmuo, kuris per pastaruosius 3 metus ne mažiau kaip 2 kartus padarė administracinius teisės pažeidimus būdamas neblaivus, apsvaigęs nuo narkotinių, psichotropinių ar kitų svaigiųjų medžiagų;
+
+
+
+
+7) asmuo, padaręs pakartotinai per vienus metus administracinį teisės pažeidimą, kuriuo kėsinosi į nuosavybę, viešąją ar nustatytą valdymo tvarką;
+
+
+
+
+8) asmuo, padaręs baudžiamąjį nusižengimą nuosavybei, turtinėms teisėms ir turtiniams interesams ar viešajai tvarkai.
+
+
+
+
+
+
+2. Kontroliuojančiuoju asmeniu, juridinio asmens ar jo padalinio vadovu, kurio veikla nėra tiesiogiai susijusi su sprogmenų gamybos, įgijimo, laikymo, naudojimo ar realizavimo kontrole, negali būti asmuo, kuris atitinka šio straipsnio 1 dalies 3–7 punktuose nustatytus kriterijus.
+
+
+
+
+3. Ligų ir fizinių trūkumų, dėl kurių asmuo negali tinkamai elgtis su sprogmenimis, sąrašą nustato Lietuvos Respublikos sveikatos apsaugos ministerija.
+
+
+
+
+4. Fiziniam asmeniui, kuris siekia gauti rašytinį sutikimą, ar juridiniam asmeniui, kuris siekia gauti rašytinį sutikimą, kontroliuojančiajam asmeniui, juridinio asmens ar jo padalinio vadovui, kurio veikla nėra tiesiogiai susijusi su sprogmenų gamybos, įgijimo, laikymo, naudojimo ar realizavimo kontrole, netaikomi šio straipsnio 2 dalies reikalavimai. 
  
 
 
@@ -822,100 +511,83 @@ Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA
 
 
 
-14 straipsnis. Sprogmenų gamyba
-
-
-1. Licencijas verstis sprogmenų gamyba Vyriausybės nustatyta tvarka išduoda Vyriausybės įgaliota institucija. Licencijos išduodamos tik suderinus su Valstybės saugumo departamentu ir Vidaus reikalų ministerija.
-
-
-
-
-2. Licencijoje, suteikiančioje teisę verstis sprogmenų gamyba, turi būti nurodyta sprogmenų rūšis – inicijuojančiosios sprogstamosios medžiagos, brizantinės sprogstamosios medžiagos, svaidomosios medžiagos (parakai), sprogmenys, sprogdinimo priemonės. 
-Straipsnio dalies pakeitimai:
-Nr. IX-1965, 2004-01-20, Žin., 2004, Nr. 21-618 (2004-02-07), i. k. 1041010ISTA0IX-1965
+KETVIRTASIS SKIRSNIS
+SPROGMENŲ CIVILINĖS APYVARTOS REIKALAVIMAI 
  
 
 
+8 straipsnis. Licencijos ir rašytinio sutikimo turėtojo bendrosios pareigos 
 
 
-3. Licencija verstis sprogmenų gamyba suteikia teisę prekiauti savo pagamintais sprogmenimis.
+1. Licencijos ir rašytinio sutikimo turėtojas privalo:
 
 
-
-
-4. Visos įmonės, gaminančios sprogmenis, privalo:
-
-
-1) gaminti tik tuos sprogmenis, kurių gamybai buvo išduota licencija;
+1) iki licencijuojamos veiklos pradžios įsirengti patalpas sprogmenims laikyti, gaminti ar jais prekiauti ir Ginklų fondo nustatyta tvarka gauti leidimą laikyti sprogmenis, kuriuo patvirtinama, kad patalpos sprogmenims laikyti, gaminti ar jais prekiauti atitinka Ginklų fondo nustatytus reikalavimus; 
 
 
 
 
-2) ženklinti sprogmenis pagal šio įstatymo 9 straipsnio reikalavimus;
-Straipsnio punkto pakeitimai:
-Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
- 
+2) užtikrinti šio įstatymo ir kitų teisės aktų reikalavimus atitinkančią sprogmenų apskaitą ir apsaugą;
 
 
 
 
-3) užtikrinti saugos sąlygas, šalinančias ar kiek įmanoma mažinančias sprogmenų, žaliavų, komponentų ir gavinių savaiminio užsidegimo ar sprogimo tikimybę;
+3) Ginklų fondo nustatyta tvarka teikti Ginklų fondui duomenis apie pagamintus, įgytus, laikomus, sunaudotus, realizuotus, importuotus, įvežtus į Lietuvos Respubliką, eksportuotus, išvežtus iš Lietuvos Respublikos sprogmenis;
 
 
 
 
-4) tinkamai laikyti produkcijos gamybai naudojamas žaliavas ir medžiagas, nebaigtą gaminti ir pagamintą produkciją, užtikrinti jų apsaugą;
+4) pasikeitus fizinio asmens, kuris verčiasi licencijuojama veikla, ar juridinio asmens ūkinės komercinės veiklos pobūdžiui ar kitiems duomenims, kurie buvo nurodyti dokumentuose, pateiktuose licencijai ar rašytiniam sutikimui gauti, apie tai ne vėliau kaip per 10 darbo dienų pranešti Ginklų fondui;
 
 
 
 
-5) parengti ir turėti objektų, kuriuose laikomi ar gaminami sprogmenys, galimų avarijų prevencijos ir padarinių likvidavimo planus;
+5) sprogmenų civilinės apyvartos kontrolę atliekančių institucijų reikalavimu pateikti informaciją apie darbuotojus, dirbančius su sprogmenimis susijusį darbą (sveikatos medicininio patikrinimo išvadas, patvirtinančias, kad darbuotojas neserga ligomis ar neturi fizinių trūkumų, trukdančių tinkamai elgtis su sprogmenimis, nėra įrašytas į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo, narkomanijos, nėra sveikatos priežiūros įstaigos prižiūrimas dėl psichikos ligos ar sutrikimo), taip pat darbuotojų asmens duomenis (vardą, pavardę, asmens kodą, gyvenamosios vietos adresą);
 
 
 
 
-6) užtikrinti reikiamą produkcijos kokybę;
+6) sudaryti sąlygas sprogmenų civilinės apyvartos kontrolę atliekančių institucijų darbuotojams tikrinti licencijuojamą veiklą. Jų prašymu teikti informaciją apie kiekvieno turimo sprogmens kilmę ir jo buvimo vietą per visą laiką nuo įsigijimo iki realizavimo ar sunaudojimo;
 
 
 
 
-7) neteko galios 2004-02-07.
-Straipsnio punkto pakeitimai:
-Nr. IX-1965, 2004-01-20, Žin., 2004, Nr. 21-618 (2004-02-07), i. k. 1041010ISTA0IX-1965
- 
+7) vykdyti teisės aktų, reglamentuojančių darbuotojų saugą ir sveikatą gaminant sprogmenis ir atliekant sprogdinimo darbus, reikalavimus;
+
+
+
+
+8) prieš priimdamas į darbą darbuotoją, kurio darbas bus tiesiogiai susijęs su sprogmenimis, pateikti Ginklų fondui šio asmens duomenis (vardą, pavardę, asmens kodą, gyvenamosios vietos adresą), siekiant patikrinti, ar nėra šio įstatymo 7 straipsnio 1 dalies 3–7 punktuose nurodytų aplinkybių, dėl kurių darbuotojas negalėtų dirbti su sprogmenimis susijusio darbo, ir sveikatos medicininio patikrinimo išvadas, patvirtinančias, kad jis neserga ligomis ar neturi fizinių trūkumų, trukdančių tinkamai elgtis su sprogmenimis, nėra įrašytas į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo, narkomanijos, nėra sveikatos priežiūros įstaigos prižiūrimas dėl psichikos ligos ar sutrikimo. Ginklų fondui taip pat privaloma pateikti dokumentus, patvirtinančius fizinio asmens, kuris verčiasi licencijuojama veikla, ar darbuotojo, dirbsiančio tiesiogiai su sprogmenimis, atestaciją. Asmens, dėl šiame punkte nurodytų aplinkybių jau tikrinto įsisteigimo valstybėje narėje, patikrinimo duomenys, dokumentai gaunami per Vidaus rinkos informacinę sistemą, nurodytą Lietuvos Respublikos paslaugų įstatyme, iš įsisteigimo valstybės narės kompetentingos institucijos;
+
+
+
+
+9) sprogmenų apskaitos žurnalus, unikalius atpažinties žymenis, surinktus duomenis apie sprogmenis ir kitus dokumentus saugoti 10 metų nuo paskutinio įrašo padarymo dienos (likvidavus juridinį asmenį, mirus fiziniam asmeniui ar juridiniam, fiziniam asmeniui nutraukus licencijuojamą veiklą, apskaitos dokumentai perduodami Ginklų fondui);
+
+
+
+
+10) pranešti Ginklų fondui asmens, galinčio ne darbo valandomis suteikti informaciją apie kiekvieno turimo sprogmens kilmę ir jo buvimo vietą per visą laiką nuo įsigijimo iki realizavimo ar sunaudojimo, vardą, pavardę, duomenis ryšiams palaikyti.
 
 
 
 
 
 
+2. Licencijos ar rašytinio sutikimo turėtojui draudžiama:
+
+
+1) pavesti, įgalioti ar kitaip perleisti teisę verstis licencijoje ar rašytiniame sutikime nurodyta licencijuojama veikla kitam asmeniui;
 
 
 
 
-15 straipsnis. Teisė įsigyti sprogmenų sudėtines dalis
-
-
-1. Licencija gaminti sprogmenis suteikia teisę įsigyti Lietuvos Respublikoje ir užsienyje šiai veiklai reikalingas sprogmenų sudėtines dalis, žaliavas bei medžiagas.
+2) verstis licencijuojama veikla patalpose, jeigu neturi leidimo laikyti jose sprogmenis;
 
 
 
 
-2. Gamintojas, importuodamas į Lietuvos Respubliką sprogmenų gamybai reikalingas sudėtines dalis, žaliavas bei medžiagas, privalo įstatymų ir kitų teisės aktų nustatyta tvarka gauti importo licenciją (leidimą), jeigu šios sudėtinės dalys, žaliavos bei medžiagos yra įtrauktos į strateginių prekių sąrašus arba į Vyriausybės ar jos įgaliotų institucijų patvirtintus pavojingų medžiagų sąrašus.
- 
-
-
-
-
-16 straipsnis. Sprogmenų eksportas, importas ir tranzitas
-
-
-1. Sprogmenys, įtraukti į strateginių prekių sąrašus, eksportuojami iš Lietuvos Respublikos, importuojami į ją ir gabenami tranzitu Strateginių prekių eksporto, importo ir tranzito įstatymo nustatyta tvarka. 
-
-
-
-
-2. Sprogmenys, nepatenkantys į strateginių prekių sąrašus, bet įtraukti į Vyriausybės ar jos įgaliotų institucijų patvirtintus pavojingų medžiagų sąrašus, importuojami į Lietuvos Respubliką, eksportuojami iš jos ir gabenami tranzitu Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+3) verstis licencijuojama veikla, jeigu licencijos ar rašytinio sutikimo galiojimas yra sustabdytas arba panaikintas.
  
 
 
@@ -923,88 +595,118 @@ Nr. IX-1965, 2004-01-20, Žin., 2004, Nr. 21-618 (2004-02-07), i. k. 1041010ISTA
 
 
 
-17 straipsnis. Su sprogmenų gabenimo Europos Sąjungoje priežiūra susijusių nuostatų taikymas
 
 
-1. Šio straipsnio nuostatos taikomos sprogmenų gabenimo priežiūrai, kai sprogmenys yra importuojami į Lietuvos Respubliką, eksportuojami iš jos ar gabenami per ją tranzitu į Europos Sąjungos valstybes nares.
+9 straipsnis. Leidimas laikyti sprogmenis
 
 
-
-
-2. Fizinis ar juridinis asmuo, eksportuojantis sprogmenis į Europos Sąjungos valstybę narę, turi pateikti Lietuvos Respublikos Vyriausybės įgaliotai valstybės institucijai valstybės, į kurią ji numato eksportuoti sprogmenis, kompetentingos institucijos sutikimą įvežti sprogmenis, ir valstybių, per kurias tranzitu bus gabenami sprogmenys, kompetentingų institucijų leidimus gabenti sprogmenis.
+1. Patalpos sprogmenims laikyti, gaminti ar jais prekiauti turi atitikti Ginklų fondo nustatytus reikalavimus. Leidimą laikyti sprogmenis šiose patalpose išduoda Ginklų fondas.
 
 
 
 
-3. Fizinis ar juridinis asmuo, eksportuojantis iš Lietuvos Respublikos sprogmenis į Europos Sąjungos valstybę narę, importuojantis juos iš Europos Sąjungos valstybės narės ar gabenantis per Lietuvos Respubliką tranzitu iš Europos Sąjungos valstybės narės į kitą valstybę narę, Ginklų fondui, be šio straipsnio 2 dalyje nurodytų dokumentų, turi nurodyti šiuos duomenis:
+2. Leidimas laikyti sprogmenis neišduodamas, jeigu:
 
 
-1) sandoryje dalyvaujančių fizinių ir juridinių asmenų rekvizitus. Ši informacija turi būti pakankamai išsami, kad būtų įmanoma susisiekti su šiais fiziniais ar juridiniais asmenimis ir gauti patvirtinimą, kad atitinkami asmenys teisėtai gauna konkrečią sprogmenų partiją;
-
-
-
-
-2) pervežamų sprogmenų kiekį;
+1) pateikti ne visi reikalaujami dokumentai, numatyti šio įstatymo 8 straipsnio 1 dalies 1 punkte pateikti Ginklų fondo nustatyta tvarka, ir pareiškėjas neįvykdė Ginklų fondo reikalavimo pateikti trūkstamus dokumentus;
 
 
 
 
-3) išsamų konkretaus sprogmens ir jo identifikavimo priemonių aprašymą, įskaitant Jungtinių Tautų Organizacijos identifikavimo kodą;
+2) pateikti neišsamiai arba neteisingai užpildyti prašymas ir dokumentai ir pareiškėjas neįvykdė Ginklų fondo reikalavimo ištaisyti šiuos trūkumus;
 
 
 
 
-4) informaciją apie tai, kad sprogmuo atitinka tiekimo rinkai reikalavimus (jeigu sprogmenis ketinama tiekti Lietuvos Respublikos rinkai);
+3) pateikti klaidingi duomenys, neišsami arba netiksli informacija, pareiškėjas neįvykdė Ginklų fondo reikalavimo ištaisyti šiuos trūkumus;
 
 
 
 
-5) gabenimo būdus, priemones ir maršrutus;
-
-
-
-
-6) numatomas sprogmenų įvežimo ir išvežimo datas;
-
-
-
-
-7) tikslius sienų kirtimo punktus.
-
-
-
-
-
-
-4. Ginklų fondas, išnagrinėjęs pateiktus duomenis ir sąlygas, kuriomis gali būti gabenami sprogmenys, išskirtinį dėmesį skirdamas ypatingiems saugumo reikalavimams ir nustatęs, kad yra pateikti visi reikiami duomenys, o saugumo reikalavimai yra patenkinti, ne vėliau kaip per 15 kalendorinių dienų nuo visų dokumentų, reikalingų leidimui išduoti, pateikimo dienos išduoda leidimą išvežti iš Lietuvos Respublikos, įvežti į Lietuvos Respubliką, sprogmenis gabenti per Lietuvos Respubliką, kuriame nurodomi šio straipsnio 3 dalyje išvardyti duomenys. Šis leidimas turi lydėti sprogmenis, iki jie pasiekia paskyrimo vietą, ir turi būti pateikiamas kompetentingoms institucijoms jų pareikalavimu.
-
-
-
-
-5. Nė vienas fizinis ar juridinis asmuo negali importuoti į Lietuvos Respublikos teritoriją, eksportuoti iš jos ar gabenti per ją tranzitu į Europos Sąjungos valstybes nares sprogmenų, iki nėra gautas šiame straipsnyje nustatyta tvarka išduotas atitinkamas leidimas.
-
-
-Straipsnio pakeitimai:
-Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
+4) patalpos sprogmenims laikyti, gaminti ar jais prekiauti neatitinka Ginklų fondo nustatytų reikalavimų.
  
 
 
 
 
-18 straipsnis. Prekyba sprogmenimis
-
-
-1. Fizinis ar juridinis asmuo, norintis prekiauti sprogmenimis, privalo turėti Ginklų fondo išduotą licenciją arba šio Įstatymo 11 straipsnio 3 dalyje nustatyta tvarka išduotą rašytinį sutikimą.
 
 
 
 
-2. Licencija verstis prekyba sprogmenimis nesuteikia teisės gaminti sprogmenis ir juos naudoti.
+10 straipsnis. Reikalavimai, taikomi licencijos, rašytinio sutikimo turėtojui, sprogmenų importuotojams ir įvežantiesiems asmenims 
+
+
+1. Versdamiesi licencijuojama veikla, sprogmenų gamintojai privalo:
+
+
+1) pagamintus sprogmenis ženklinti ir gauti jų atitikties įvertinimą pagal šio įstatymo 4 ir 5 straipsnių reikalavimus;
 
 
 
 
-3. Fiziniai ir juridiniai asmenys, prekiaujantys sprogmenimis, privalo:
+2) užtikrinti saugos sąlygas, šalinančias sprogmenų savaiminio užsidegimo ar sprogimo tikimybę;
+
+
+
+
+3) parengti, su Ginklų fondu suderinti ir turėti objektų, kuriuose laikomi ar gaminami sprogmenys, galimų avarijų prevencijos ir padarinių likvidavimo planus;
+
+
+
+
+4) pasikeitus teisės aktuose nustatytiems saugos, techniniams reikalavimams, užtikrinti, kad gaminamų sprogmenų kokybė, techniniai reikalavimai atitiktų šiuos pakeitimus;
+
+
+
+
+5) siekiant apsaugoti vartotojų sveikatą ir užtikrinti saugą, tirti gaminamų sprogmenų bandinius, nagrinėti ir teisės aktų nustatyta tvarka registruoti sprogmenų naudotojų, fizinių ir juridinių asmenų, kurie verčiasi jų pagamintų sprogmenų prekyba, skundus dėl jų pagamintų sprogmenų, registruoti ir tirti reikalavimų neatitinkančius pagamintus sprogmenis, informuoti sprogmenų prekiautojus, parduodančius tokius sprogmenis, apie tokią stebėseną;
+
+
+
+
+6) parengti sprogmenų brėžinius, receptūras, gamybos technologijas, aprašymus, reikalingus brėžiniams, receptūroms, gamybos technologijoms suprasti, sprogmenų naudojimo instrukcijas (toliau – techniniai dokumentai); 
+
+
+
+
+7) saugoti techninius dokumentus ir atitikties sertifikatus sprogmenų gamybos ir jų tiekimo rinkai laikotarpiu, bet ne trumpiau kaip 10 metų nuo to momento, kai sprogmenų tiekimas rinkai buvo nutrauktas;
+
+
+
+
+8) nurodyti savo pavadinimą, registruotą sprogmens pavadinimą arba ženklą, adresą, kuriuo su sprogmenų gamintoju galima susisiekti, ant sprogmens arba, jeigu to neįmanoma padaryti, ant pakuotės arba sprogmenį lydinčiame dokumente. Turi būti nurodytas vienas adresas, kuriuo galima susisiekti su sprogmenų gamintoju;
+
+
+
+
+9) užtikrinti, kad prie sprogmens būtų pridėti sprogmens naudojimo instrukcijos, jų gabenimo ir laikymo nurodymai (saugos informacija) lietuvių kalba;
+
+
+
+
+10) nedelsdamas imtis reikiamų priemonių užtikrinti sprogmens techniniuose dokumentuose nustatytus reikalavimus; sprogmenį pašalinti iš rinkos arba susigrąžinti, kai patiektas rinkai sprogmuo yra nesertifikuotas, nepaženklintas unikaliu atpažinties žymeniu arba atitikties ženklu „CE“, unikaliu atpažinties žymeniu arba atitikties ženklu „CE“ buvo paženklintas neteisėtai, taip pat kai sprogmenų gamintojas turi pagrindą manyti, kad rinkai patiektas sprogmuo neatitinka techniniuose dokumentuose nustatytų reikalavimų. Be to, jeigu sprogmuo kelia pavojų, sprogmenų gamintojas nedelsdamas praneša įsisteigimo valstybės narės kompetentingoms institucijoms, nurodydamas išsamią informaciją apie neatitiktį techniniuose dokumentuose nustatytiems reikalavimams, apie bet kokias savo taikomas priemones ir kurių valstybių narių rinkoms šie sprogmenys buvo patiekti.
+
+
+
+
+
+
+2. Jeigu sprogmenų gamintojas:
+
+
+1) savo sprogmenis parduoda, jis privalo laikytis šio straipsnio 3 dalyje nustatytų reikalavimų;
+
+
+
+
+2) savo sprogmenis naudoja, jis privalo laikytis šio straipsnio 4 dalyje nustatytų reikalavimų. 
+
+
+
+
+
+
+3. Sprogmenų prekiautojai privalo:
 
 
 1) turėti parduodamų sprogmenų dokumentus, kuriuose nurodyti jų techniniai duomenys;
@@ -1022,176 +724,414 @@ Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA
 
 
 
-4) pateikti Ginklų fondui vieną kartą per ketvirtį duomenis apie visus parduotus sprogmenis pagal šios institucijos nustatytą formą.
+4) Ginklų fondui pagal Ginklų fondo nustatytą formą vieną kartą per ketvirtį pateikti duomenis apie visus parduotus sprogmenis;
+
+
+
+
+5) sprogmenį pašalinti iš rinkos, kai patiektas rinkai sprogmuo yra nesertifikuotas, nepaženklintas unikaliu atpažinties žymeniu arba atitikties ženklu „CE“, unikaliu atpažinties žymeniu arba atitikties ženklu „CE“ buvo paženklintas neteisėtai.
 
 
 
 
 
 
-4. Draudžiama parduoti sprogmenis:
+4. Sprogmenų naudotojas privalo:
 
 
-1) fiziniams asmenims, kurie nesiverčia šio Įstatymo nustatyta licencijuojama veikla, išskyrus bedūmį paraką ir kapsules lygiavamzdžių ir graižtvinių šaunamųjų ginklų savininkams ir valdytojams, kurie gali įsigyti ir laikyti bedūmį paraką ir kapsules pagal Ginklų ir šaudmenų kontrolės įstatymo nuostatas;
-
-
-
-
-2) fiziniams ir juridiniams asmenims, nepateikusiems licencijos prekiauti sprogmenimis ar licencijos naudoti sprogmenis;
+1) naudoti tik pagal šio įstatymo 5 straipsnio reikalavimus paženklintus sprogmenis;
 
 
 
 
-3) kurių neįmanoma identifikuoti arba jei nėra lydinčių dokumentų;
-
-
-
-
-4) nepaprastosios arba karo padėties atveju.
+2) naudoti sprogmenis laikydamasis prie sprogmens pridėtų jo naudojimo instrukcijų. 
 
 
 
 
 
 
-5. Sprogmenis gali įsigyti fiziniai ir juridiniai asmenys, turintys licencijas verstis šio Įstatymo 11 straipsnio 1 dalyje nurodyta veikla.
+5. Sprogmenų importuotojas, įvežantysis asmuo privalo:
+
+
+1) Lietuvos Respublikos rinkai patiekti tik techniniuose dokumentuose nustatytus reikalavimus atitinkančius sprogmenis;
 
 
 
 
-6. Šio straipsnio 3 ir 4 dalių reikalavimai taip pat taikomi sprogmenų gamintojams, parduodantiems savo pagamintus sprogmenis.
+2) prieš patiekdamas rinkai sprogmenis, patikrinti, ar sprogmenų gamintojas atliko atitikties vertinimo procedūrą, parengė techninius dokumentus, ar gaminys paženklintas atitikties ženklu „CE“, unikaliu atpažinties žymeniu, ar prie jo pridėti reikiami dokumentai – sprogmenų naudojimo instrukcijos, jų vežimo ir laikymo reikalavimai lietuvių kalba. Jeigu sprogmuo neatitinka techniniuose dokumentuose nustatytų reikalavimų, sprogmenų importuotojas, įvežantysis asmuo neturi teisės sprogmens importuoti, įvežti į Lietuvos Respubliką, kol nėra užtikrinama jo atitiktis šiems reikalavimams. Be to, jeigu sprogmuo kelia pavojų, sprogmenų importuotojas, įvežantysis asmuo praneša apie tai sprogmenų gamintojui ir atitinkamoms sprogmenų civilinės apyvartos kontrolę atliekančioms institucijoms;
 
 
 
 
-7. Sprogmenų prekybos tarpininko veikla Lietuvoje draudžiama.
-
-
-Straipsnio pakeitimai:
-Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
+3) užtikrinti, kad transportavimo ir sandėliavimo sąlygos nepažeistų sprogmenų saugos ir techninių reikalavimų.
  
 
 
 
 
-19 straipsnis. Sprogmenų naudojimas
-
-
-1. Profesionaliems naudotojams verstis sprogmenų naudojimu leidžiama tik šio Įstatymo nustatyta tvarka gavus licenciją iš Ginklų fondo arba šio Įstatymo 11 straipsnio 3 dalyje nustatyta tvarka gavus rašytinį sutikimą.
 
 
 
 
-2. Licencija verstis sprogmenų naudojimu suteikia teisę įsigyti, laikyti, saugoti, gabenti ir naudoti sprogmenis.
+11 straipsnis. Sprogmenų gamybos sąlygos
 
 
-Straipsnio pakeitimai:
-Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
+1. Fizinis ar juridinis asmuo, norintis gaminti sprogmenis, privalo turėti Ginklų fondo išduotą licenciją arba rašytinį sutikimą. 
+
+
+
+
+2. Sprogmenų gamintojas, prieš pradėdamas gaminti sprogmenis, šių sprogmenų gamybos technologiją, brėžinius ir receptūras Ginklų fondo nustatyta tvarka privalo suderinti su Ginklų fondu.
+
+
+
+
+3. Licencija verstis sprogmenų gamyba suteikia teisę įsigyti Lietuvos Respublikoje ir bet kurioje kitoje valstybėje narėje šiai veiklai reikalingas sprogmenų sudedamąsias dalis, parduoti ir naudoti bandymų tikslais savo pagamintus sprogmenis.
  
+
+
+
+
+
+
+12 straipsnis. Prekybos sprogmenimis sąlygos
+
+
+1. Fizinis ar juridinis asmuo, norintis prekiauti sprogmenimis, privalo turėti Ginklų fondo išduotą licenciją arba rašytinį sutikimą.
+
+
+
+
+2. Licencija arba rašytinis sutikimas verstis prekyba sprogmenimis nesuteikia teisės gaminti sprogmenis ir juos naudoti.
+
+
+
+
+3. Draudžiama parduoti sprogmenis:
+
+
+1) fiziniams asmenims, kurie nesiverčia šio įstatymo nustatyta licencijuojama veikla, išskyrus paraką ir kapsules lygiavamzdžių ir graižtvinių šaunamųjų ginklų savininkams ir valdytojams, kurie paraką ir kapsules gali įsigyti ir laikyti pagal Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo nuostatas;
+
+
+
+
+2) fiziniams ir juridiniams asmenims, nepateikusiems licencijos, rašytinio sutikimo prekiauti sprogmenimis ar licencijos, rašytinio sutikimo naudoti sprogmenis;
+
+
+
+
+3) kurių neįmanoma identifikuoti arba jeigu nėra lydinčių dokumentų, leidžiančių nustatyti sprogmens pavadinimą, sprogmenų gamintoją, pagaminimo datą, įgijimo teisėtumą, taip pat saugos informacijos;
+
+
+
+
+4) nepaprastosios, karo padėties arba mobilizacijos atveju;
+
+
+
+
+5) nepaženklintus pagal šio įstatymo 5 straipsnio reikalavimus;
+
+
+
+
+6) neturinčius atitikties sertifikatų. 
+
+
+
+
+
+
+4. Sprogmenų prekybos tarpininko (asmens, atstovaujančio sprogmenų gamintojo, prekiautojo ar sprogmenų naudotojo interesams, kai sprogmenų gamintojas, prekiautojas ar sprogmenų naudotojas sudaro sutartis dėl sprogmenų įsigijimo ar pardavimo) veikla Lietuvos Respublikoje draudžiama.
+ 
+
+
+
+
+
+
+13 straipsnis. Sprogmenų naudojimo sąlygos
+
+
+1. Fizinis ar juridinis asmuo, norintis naudoti sprogmenis, privalo turėti Ginklų fondo išduotą licenciją ar rašytinį sutikimą.
+
+
+
+
+2. Licencija ar rašytinis sutikimas verstis sprogmenų naudojimu suteikia teisę įsigyti, laikyti, gabenti ir naudoti sprogmenis.
+
+
+
+
+3. Licencija ar rašytinis sutikimas verstis sprogmenų naudojimu nesuteikia teisės gaminti sprogmenis ir prekiauti sprogmenimis.
+ 
+
+
+
+
+
+
+14 straipsnis. Sprogmenų importo, įvežimo į Lietuvos Respubliką, eksporto, išvežimo iš Lietuvos Respublikos ir vežimo tranzitu priežiūra
+
+
+1. Sprogmenų eksportuotojas, išvežantysis asmuo turi pateikti Ginklų fondui valstybės, į kurią jis numato importuoti, įvežti sprogmenis, kompetentingos institucijos sutikimą importuoti, įvežti sprogmenis ir valstybių, per kurias bus sprogmenys vežami, kompetentingų institucijų leidimus vežti sprogmenis. Jeigu, tikrinant šiuos dokumentus, Ginklų fondui iškyla klausimų dėl šių dokumentų tikrumo, teisėtumo, Ginklų fondas turi teisę nusiųsti šiuo klausimu turimą informaciją Europos Komisijai, siekdamas išsiaiškinti, ar pateikti dokumentai nesuklastoti.
+
+
+
+
+2. Jeigu šio straipsnio 1 dalyje nurodytą ūkinę komercinę veiklą vykdo ne valstybėje narėje įsisteigęs juridinis asmuo, jo filialas ir (ar) padalinys arba ne valstybės narės fizinis asmuo, jis, be šio straipsnio 1 dalyje nurodytų duomenų, turi pateikti Ginklų fondui valstybės, kurioje jis yra įsisteigęs, kompetentingos institucijos patvirtinimą, kad šis fizinis ar juridinis asmuo turi reikalingas licencijas, rašytinius sutikimus ir leidimus verstis sprogmenų įvežimu (išvežimu) ar importu (eksportu) į Lietuvos Respubliką arba iš Lietuvos Respublikos.
+
+
+
+
+3. Sprogmenų eksportuotojas, importuotojas, įvežantysis ar išvežantysis asmuo, sprogmenis vežantis tranzitu asmuo Ginklų fondui, be šio straipsnio 1 ar 2 dalyje nurodytų dokumentų, turi pateikti šiuos dokumentus ir duomenis:
+
+
+1) realizuojamų sprogmenų sandorio šalių rekvizitus. Informacija apie fizinius ir juridinius asmenis turi būti išsami, kad būtų įmanoma susisiekti su šiais fiziniais ar juridiniais asmenimis ir gauti patvirtinimą, kad atitinkami asmenys teisėtai gauna konkrečią sprogmenų partiją. Ginklų fondui privaloma pateikti dokumentus, įrodančius šių asmenų teisę verstis su sprogmenų apyvarta susijusia licencijuojama veikla;
+
+
+
+
+2) vežamų sprogmenų kiekį;
+
+
+
+
+3) išsamų konkretaus sprogmens aprašymą (sprogmens pavadinimą, sprogmens identifikavimo kodą, nurodytą Europos sutartyje „Dėl pavojingų krovinių tarptautinių vežimų keliais (ADR)“, sprogmenų gamintoją, pagaminimo datą);
+
+
+
+
+4) paskelbtosios (notifikuotos) įstaigos išduotą atitikties sertifikatą;
+
+
+
+
+5) dokumentus, kuriais įrodoma sprogmenų vežėjo teisė vežti pavojingus krovinius;
+
+
+
+
+6) sprogmenų vežimo būdus, priemones ir maršrutus;
+
+
+
+
+7) numatomas sprogmenų eksporto, importo, įvežimo ir išvežimo datas;
+
+
+
+
+8) tikslius Lietuvos Respublikos sienos kirtimo punktus.
+
+
+
+
+
+
+4. Ginklų fondas, išnagrinėjęs pateiktus duomenis, dokumentus ir sąlygas, kuriomis gali būti vežami sprogmenys, ir nustatęs, kad yra pateikti visi reikiami duomenys ir dokumentai, nurodyti šio straipsnio 3 dalyje, ne vėliau kaip per 15 kalendorinių dienų nuo visų dokumentų, reikalingų leidimui išduoti, pateikimo dienos išduoda leidimą eksportuoti, išvežti iš Lietuvos Respublikos, importuoti, įvežti į Lietuvos Respubliką, sprogmenis vežti tranzitu. Šiame leidime nurodomi šio straipsnio 3 dalyje išvardyti duomenys. Šis leidimas yra vežamų sprogmenų lydimasis dokumentas ir turi būti pateikiamas kompetentingoms institucijoms jų pareikalavimu.
+
+
+
+
+5. Fizinis ar juridinis asmuo negali importuoti, įvežti į Lietuvos Respubliką, eksportuoti, išvežti iš Lietuvos Respublikos ar vežti tranzitu sprogmenų tol, kol nėra gautas šio įstatymo nustatyta tvarka išduodamas atitinkamas leidimas, licencija ar rašytinis sutikimas.
+
+
+
+
+6. Ginklų fondas, išdavęs leidimą išvežti sprogmenis į valstybę narę, privalo nedelsdamas pranešti šiai valstybei narei apie sprogmenų išvežimą iš Lietuvos Respublikos teritorijos į jos teritoriją. Tokia informacija turi būti perduota valstybės narės kompetentingoms institucijoms iki šių sprogmenų išvežimo. Taip pat turi būti pranešta valstybių narių, per kurių teritorijas sprogmenys bus vežami tranzitu, kompetentingoms institucijoms.
+
+
+
+
+7. Sprogmenys, įtraukti į teisės aktų nustatyta tvarka patvirtintą Bendrąjį karinės įrangos sąrašą, eksportuojami, išvežami iš Lietuvos Respublikos, importuojami, įvežami į Lietuvos Respubliką ir vežami tranzitu Lietuvos Respublikos strateginių prekių kontrolės įstatymo nustatyta tvarka.
+ 
+
+
+
+
+
+
+15 straipsnis. Sprogmenų apskaita
+
+
+1. Sprogmenų gamintojai, eksportuotojai, importuotojai, įvežantieji ar išvežantieji asmenys, prekiautojai ir sprogmenų naudotojai privalo užtikrinti gaminamų, įgytų, laikomų, sunaudotų ir realizuotų sprogmenų apskaitą ir teisės aktų nustatyta tvarka teikti šiuos duomenis Ginklų fondui. 
+
+
+
+
+2. Sprogmenų apskaitos tvarkymo ir jos duomenų teikimo tvarką nustato Ginklų fondas.
+ 
+
+
+
+
+
+
+16 straipsnis. Sprogmenų gamintojų, prekiautojų ir naudotojų licencijuojamos veiklos vidaus auditas
+
+
+1. Sprogmenų gamintojai, prekiautojai ir naudotojai privalo kiekvienais metais atlikti licencijuojamos veiklos vidaus auditą.
+
+
+
+
+2. Licencijuojamos veiklos vidaus audito duomenys teisės aktų nustatyta tvarka turi būti pateikiami sprogmenų apyvartos kontrolę atliekančioms institucijoms.
+
+
+
+
+3. Sprogmenų gamintojų, prekiautojų ir naudotojų licencijuojamos veiklos vidaus audito tvarką nustato Ginklų fondas. 
+ 
+
+
+
+
+
+
+17 straipsnis. Licencijos ar rašytinio sutikimo galiojimo sustabdymas ir panaikinimas
+
+
+1. Licencijos galiojimą sustabdo Ginklų fondas. Ginklų fondas licencijos turėtojui nustato ne trumpesnį kaip 10 darbo dienų terminą šio straipsnio 2, 3 ir 4 dalyse nurodytiems pažeidimams pašalinti ir kartu įspėja, kad nepašalinus nustatytų pažeidimų bus sustabdytas licencijos galiojimas.
+
+
+
+
+2. Sprogmenų gamybos licencijos galiojimas sustabdomas licencijos turėtojo prašymu arba kai licencijos turėtojas pažeidžia šio įstatymo 3 straipsnio 5 dalyje, 7 straipsnyje, 8 straipsnio 1 dalyje, 10 straipsnio 1 ir 2 dalyse bei 16 straipsnyje nurodytus reikalavimus.
+
+
+
+
+3. Prekybos sprogmenimis licencijos galiojimas sustabdomas licencijos turėtojo prašymu arba licencijos turėtojui pažeidus šio įstatymo 3 straipsnio 5 dalyje, 7 straipsnyje, 8 straipsnio 1 dalyje, 10 straipsnio 3 dalyje, 12 straipsnio 3 dalies 5 punkte bei 16 straipsnyje nurodytus reikalavimus.
+
+
+
+
+4. Sprogmenų naudojimo licencijos galiojimas sustabdomas licencijos turėtojo prašymu arba licencijos turėtojui pažeidus šio įstatymo 3 straipsnio 5 dalyje, 7 straipsnyje, 8 straipsnio 1 dalyje, 10 straipsnio 4 dalyje bei 16 straipsnyje nurodytus reikalavimus.
+
+
+
+
+5. Jeigu šio straipsnio 3 ir 4 dalyse nurodytus pažeidimus padarė valstybės narės paslaugų teikėjas, licenciją, leidimą gavęs įsisteigimo valstybėje, Ginklų fondas sustabdo savo išduoto rašytinio sutikimo verstis atitinkama licencijuojama veikla galiojimą, nustatydamas paslaugos teikėjui ne trumpesnį kaip 10 darbo dienų terminą jo padarytiems pažeidimams pašalinti (kartu įspėjęs, kad nepašalinus nustatytų pažeidimų bus sustabdytas rašytinio sutikimo verstis atitinkama licencijuojama veikla galiojimas). 
+
+
+
+
+6. Rašytinio sutikimo galiojimas sustabdomas ir tuo atveju, kai iš licencijos turėtojo įsisteigimo valstybės narės gaunama informacija apie šioje valstybėje narėje priimtą sprendimą sustabdyti licencijos galiojimą.
+
+
+
+
+7. Licencijos ar rašytinio sutikimo turėtojui per Ginklų fondo nustatytą terminą, nurodytą šio straipsnio 1 ar 5 dalyje, pateikus dokumentus, įrodančius, kad nebėra aplinkybių, dėl kurių buvo sustabdytas licencijos ar rašytinio sutikimo galiojimas (arba Ginklų fondui atlikus patikrinimą ir tai nustačius), Ginklų fondo sprendimu licencijos ar rašytinio sutikimo galiojimo sustabdymas panaikinamas.
+
+
+
+
+8. Licencijos ar rašytinio sutikimo galiojimą Ginklų fondas panaikina, jeigu:
+
+
+1) juridinis asmuo likviduojamas ar miršta fizinis asmuo;
+
+
+
+
+2) licencijos ar rašytinio sutikimo turėtojas prašo panaikinti licencijos ar rašytinio sutikimo galiojimą;
+
+
+
+
+3) licencijos ar rašytinio sutikimo turėtojas per Ginklų fondo nustatytą laiką nepašalina šio straipsnio 2–4 dalyse nurodytų pažeidimų;
+
+
+
+
+4) sprogmenų gamintojas pažeidžia šio įstatymo 8 straipsnio 2 dalyje ar 11 straipsnio 2 dalyje nurodytus reikalavimus arba prekiauja ar naudoja ne savo pagamintus sprogmenis;
+
+
+
+
+5) sprogmenų prekiautojas pažeidžia šio įstatymo 8 straipsnio 2 dalyje, 12 straipsnio 2 dalyje ar 3 dalies 1–4 punktuose nurodytus reikalavimus;
+
+
+
+
+6) sprogmenų naudotojas pažeidžia šio įstatymo 8 straipsnio 2 dalyje ar 13 straipsnio 3 dalyje nurodytus reikalavimus; 
+
+
+
+
+7) nustatoma, kad Ginklų fondui ar kitoms sprogmenų apyvartos kontrolę atliekančioms institucijoms buvo pateikta informacija, žinant, kad ji klaidinga arba suklastota;
+
+
+
+
+8) licencijos ar rašytinio sutikimo turėtojas, kuriam išduotos licencijos ar rašytinio sutikimo galiojimas sustabdytas, vykdo licencijuojamą veiklą.
+
+
+
+
+
+
+9. Rašytinio sutikimo galiojimas panaikinamas ir tuo atveju, kai iš licencijos turėtojo įsisteigimo valstybės narės gaunama informacija apie šioje valstybėje narėje priimtą sprendimą panaikinti licencijos galiojimą.
+ 
+
+
+
+
 
 
 
 
 PENKTASIS SKIRSNIS
-SPROGMENŲ PAĖMIMAS IR SUNAIKINIMAS
+SPROGMENŲ CIVILINĖS APYVARTOS KONTROLĖ
  
 
 
-20 straipsnis. Sprogmenys kaip radiniai ar bešeimininkis turtas
+18 straipsnis. Sprogmenų civilinės apyvartos kontrolę atliekančios institucijos, šių institucijų įgaliotų pareigūnų ir valstybės tarnautojų teisės 
 
 
-1. Asmuo, radęs sprogmenų, privalo nedelsdamas apie tai pranešti teritorinei policijos įstaigai. Ši privalo iškart imtis priemonių, kad rasti sprogmenys nekeltų pavojaus žmonių gyvybei ir sveikatai, aplinkai, turtui.
+1. Sprogmenų civilinės apyvartos kontrolę pagal kompetenciją atlieka šiame įstatyme nurodytos, taip pat Lietuvos Respublikos Vyriausybės įgaliotos institucijos.
 
 
 
 
-2. Sprogmenys, kurių savininkas nežinomas, sunaikinami šio Įstatymo 22 straipsnio ir kitų teisės aktų nustatyta tvarka arba paimami šio Įstatymo 21 straipsnyje nustatyta tvarka.
- 
+2. Sprogmenų civilinės apyvartos kontrolę atliekančių institucijų įgalioti pareigūnai ir valstybės tarnautojai turi teisę:
 
 
+1) tikrinti, kaip laikomasi sprogmenų civilinę apyvartą reglamentuojančių teisės aktų reikalavimų;
 
 
 
 
-21 straipsnis. Sprogmenų paėmimas
+2) apžiūrėti teritoriją ir patalpas, kuriose gaminami, laikomi, naudojami, realizuojami sprogmenys, ir ten atlikti patikrinimą;
 
 
-1. Įgaliotos valstybės institucijos sprogmenis paima:
 
 
-1) jei sprogmenys gaminami, importuojami, eksportuojami, gabenami, laikomi, jais prekiaujama neturint licencijos arba pasibaigus jos galiojimo laikui;
+3) gauti iš bet kurio fizinio ar juridinio asmens, vykdančio sprogmenų civilinę apyvartą, iš kitų valstybės ir savivaldybių institucijų visą turimą informaciją apie veiksmus, susijusius su sprogmenų civiline apyvarta;
 
 
 
 
-2) panaikinus licencijos galiojimą;
+4) esant šio įstatymo 17 straipsnio 2, 3, 4 ar 8 dalyje nurodytoms aplinkybėms, siūlyti licenciją ar rašytinį sutikimą išdavusiai institucijai priimti sprendimą dėl licencijos ar rašytinio sutikimo galiojimo sustabdymo ar licencijos ar rašytinio sutikimo galiojimo panaikinimo;
 
 
 
 
-3) šio Įstatymo 9 straipsnio 6 dalyje nustatytais atvejais;
+5) nustatę šiame įstatyme numatytų sprogmenų civilinės apyvartos tvarkos pažeidimų, duoti fiziniam ar juridiniam asmeniui privalomuosius nurodymus šiuos trūkumus pašalinti;
 
 
 
 
-4) pažeidus šio Įstatymo reikalavimus, kai pažeidimas kelia grėsmę žmonių gyvybei, sveikatai, aplinkai, turtui, visuomenės saugumui ar viešajai tvarkai;
+6) imtis kitų priemonių, nustatytų įstatymuose ir kituose teisės aktuose.
 
 
 
 
-5) rastus kaip radinius ir bešeimininkius;
 
 
-
-
-6) kitais įstatymų nustatytais atvejais.
-
-
-
-
-
-
-2. Šio straipsnio 1 dalies 1 ir 2 punktuose nustatytais atvejais sprogmenis paima institucija ar įstaiga, išdavusi licenciją atitinkamai su sprogmenų apyvarta susijusiai veiklai, kartu su teritorine policijos įstaiga. Tais atvejais, kai sprogmenys buvo paimti pasibaigus licencijos galiojimo laikui, tačiau jos galiojimo terminas teisės aktų nustatyta tvarka buvo pratęstas, sprogmenys grąžinami jų savininkui. Jei sprendimas dėl licencijos panaikinimo įstatymų nustatyta tvarka apskundžiamas, sprogmenys laikinai paimami saugoti iki galutinio sprendimo priėmimo.
-
-
-
-
-3. Šio straipsnio 1 dalies 3 punkte nustatytais atvejais sprogmenis paima valstybinė rinkos priežiūros institucija kartu su teritorine policijos įstaiga. 
-
-
-
-
-4. Šio straipsnio 1 dalies 4–6 punktuose nustatytais atvejais taip pat įgaliotos institucijos prašymu sprogmenis paima teritorinė policijos įstaiga. Šio straipsnio 1 dalies 5 ir 6 punktuose nustatytais atvejais paimti sprogmenys saugomi, kol bus priimtas sprendimas juos grąžinti ar sunaikinti.
-
-
-
-
-5. Institucija ar įstaiga, šio straipsnio 1 dalies 1–3 punktuose nustatytais atvejais paėmusi sprogmenis ir priėmusi sprendimą juos realizuoti, privalo nustatyti sprogmenų kokybę.
-
-
-
-
-6. Tinkami saugiai naudoti sprogmenys realizuojami per įmones, turinčias teisę juos pardavinėti, o per 10 dienų nuo sprogmenų realizavimo jų savininkui pranešama apie realizuotus sprogmenis ir jam atvykus išmokama atitinkama pinigų suma. 
-
-
-
-
-7. Kokybės reikalavimų neatitinkantys sprogmenys neatlygintinai perduodami sunaikinti.
-
-
-
-
-8. Paimti sprogmenys saugomi juos paėmusios institucijos ar įstaigos užplombuotuose įmonės, iš kurios sprogmenys buvo paimti, sandėliuose, o jei tokios galimybės nėra – jų laikymui pritaikytuose policijos ar Lietuvos kariuomenės sandėliuose.
-
-
-
-
-9. Sprogmenims, kurie yra ne Lietuvos prekės, paimti turi būti įforminti atitinkami muitinės sankcionuoti veiksmai.
-
-
-
-
-10. Tvarką, reglamentuojančią sprogmenų paėmimą, tinkamumo naudoti nustatymą, jų vertės apskaičiavimą ir tolesnį panaudojimą, nustato Vyriausybė ar jos įgaliota institucija.
+3. Sprogmenų civilinės apyvartos kontrolės tvarką nustato Lietuvos Respublikos Vyriausybė.
  
 
 
@@ -1199,30 +1139,15 @@ SPROGMENŲ PAĖMIMAS IR SUNAIKINIMAS
 
 
 
-22 straipsnis. Sprogmenų sunaikinimas
+19 straipsnis. Sprogmenys kaip radiniai ar bešeimininkis turtas
 
 
-1. Visi kokybės reikalavimų neatitinkantys sprogmenys turi būti sunaikinami.
-
-
-
-
-2. Kokybės reikalavimų neatitinkančius sprogmenis naikinti turi teisę profesionalūs naudotojai, Lietuvos kariuomenės, Valstybės saugumo departamento ir policijos specializuoti padaliniai. Rastus sprogmenis naikinti turi teisę Lietuvos kariuomenės, Valstybės saugumo departamento ir policijos specializuoti padaliniai. Sprogmenų gamintojai turi teisę naikinti savo pagamintus sprogmenis bei jų gamyboje naudojamas medžiagas ir žaliavas.
+1. Asmuo, radęs sprogmenų, privalo nedelsdamas apie tai pranešti teritorinei policijos įstaigai. Ši privalo iškart imtis priemonių, kad rasti sprogmenys nekeltų pavojaus žmonių gyvybei ir sveikatai, aplinkai ir turtui.
 
 
 
 
-3. Sprogmenys naikinami dalyvaujant institucijos, priėmusios sprendimą juos sunaikinti, vadovo sudarytai komisijai, į kurią įtraukiami minėtos institucijos, teritorinės policijos įstaigos ir sprogmenis naikinsiančios institucijos atstovai. 
-
-
-
-
-4. Sprogmenims, kurie yra ne Lietuvos prekės, naikinti turi būti įforminti atitinkami muitinės sankcionuoti veiksmai. 
-
-
-
-
-5. Sprogmenys turi būti sunaikinti tokiu būdu, kuris garantuotų, kad jie tapo visiškai netinkami naudoti. Sprogmenys turi būti naikinami taip, kad nekiltų pavojus žmonių gyvybei ir sveikatai, aplinkai, turtui.
+2. Sprogmenys, kurių savininkas nežinomas, paimami šio įstatymo 20 straipsnyje nustatyta tvarka.
  
 
 
@@ -1230,74 +1155,70 @@ SPROGMENŲ PAĖMIMAS IR SUNAIKINIMAS
 
 
 
+20 straipsnis. Sprogmenų paėmimas, tolesnis jų panaudojimas ar sunaikinimas
 
 
-šešTASIS skirsnis
-Sprogmenų apskaita 
- 
+1. Sprogmenys paimami:
 
 
-23 straipsnis. Sprogmenų apskaita
-
-
-1. Gamintojai, importuotojai, eksportuotojai, pardavėjai privalo tvarkyti sprogmenų apskaitą, sprogmenų apskaitos žurnaluose registruoti, saugoti, atnaujinti, tikrinti įrašus apie sprogmenų unikalius atpažinties žymenis, duomenis apie sprogmenų rūšis, sprogmenų buvimo vietą, kam jie buvo panaudoti ar perduoti, taip pat kitą su sprogmenų atpažintimi ir susekamumu susijusią informaciją Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
- 
+1) jeigu sprogmenys gaminami, įgyjami, laikomi, realizuojami, įvežami, importuojami į Lietuvos Respubliką, išvežami, eksportuojami iš Lietuvos Respublikos, vežami tranzitu per Lietuvos Respubliką, neturint licencijos, rašytinio sutikimo ar leidimo;
 
 
 
 
-2. Naudotojai, įgiję sprogmenų, privalo juos įtraukti į apskaitą. Apskaitoje nurodoma sprogmenų pavadinimai, kiekiai, įgijimo data ir šaltinis, pagaminimo data, sunaudojimo data ir vieta.
+2) panaikinus licencijos ar rašytinio sutikimo galiojimą;
 
 
 
 
-3. Apskaitos duomenys turi būti nustatyta tvarka pateikiami valstybinę sprogmenų apyvartos kontrolę atliekantiems pareigūnams, jų prašymu turi būti pateikta informacija apie kiekvieno turimo sprogmens kilmę ir jo buvimo vietą per visą laiką nuo įsigijimo iki perdavimo (pardavimo) ar sunaudojimo.
-Straipsnio dalies pakeitimai:
-Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
- 
+3) šio įstatymo 5 straipsnio 9 dalyje nustatytais atvejais;
 
 
 
 
-4. Sprogmenų apskaitos tvarką nustato Vyriausybė ar jos įgaliota institucija. 
- 
+4) radus juos kaip radinius;
+
+
+
+
+5) kitais įstatymų nustatytais atvejais.
 
 
 
 
 
 
-24 straipsnis. Įmonių, kurių veikla yra susijusi su sprogmenų apyvarta, veiklos vidaus auditas
-
-
-1. Naudotojai, importuotojai, eksportuotojai, pardavėjai, gamintojai privalo kasmet atlikti vidaus auditą, kad nustatytų, ar jų veikla atitinka nustatytus reikalavimus.
+2. Šio straipsnio 1 dalies 1 ir 2 punktuose nustatytais atvejais sprogmenis paima Ginklų fondas kartu su teritorine policijos įstaiga. Jeigu sprendimas dėl licencijos ar rašytinio sutikimo galiojimo panaikinimo įstatymų nustatyta tvarka apskundžiamas, sprogmenys laikinai paimami saugoti iki galutinio sprendimo priėmimo. Laikinai paimti sprogmenys saugomi licencijos ar rašytinio sutikimo turėtojo, iš kurio sprogmenys paimti, patalpose ar sprogmenims laikyti pritaikytose Lietuvos kariuomenės arba specializuotos policijos įstaigos patalpose.
 
 
 
 
-2. Audito duomenys nustatyta tvarka turi būti pateikiami valstybinę sprogmenų apyvartos kontrolę atliekantiems pareigūnams.
+3. Šio straipsnio 1 dalies 3 punkte nustatytais atvejais sprogmenis paima Valstybinė ne maisto produktų inspekcija kartu su teritorine policijos įstaiga. Paimti sprogmenys saugomi licencijos ar rašytinio sutikimo turėtojo, iš kurio sprogmenys paimti, patalpose ar sprogmenims laikyti pritaikytose Lietuvos kariuomenės arba specializuotos policijos įstaigos patalpose. 
 
 
 
 
-3. Įmonių, kurių veikla yra susijusi su sprogmenų apyvarta, veiklos vidaus audito tvarką nustato Vyriausybė ar jos įgaliota institucija. 
- 
+4. Šio straipsnio 1 dalies 4 ir 5 punktuose nustatytais atvejais, taip pat sprogmenų civilinės apyvartos kontrolę atliekančios institucijos prašymu sprogmenis paima Lietuvos kariuomenė ar specializuota policijos įstaiga. Paimti sprogmenys saugomi sprogmenims laikyti pritaikytose Lietuvos kariuomenės arba specializuotos policijos įstaigos patalpose. 
 
 
 
 
+5. Sprogmenų civilinės apyvartos kontrolę atliekanti institucija, šio straipsnio 1 dalies 1, 2 ir 3 punktuose nustatytais atvejais paėmusi sprogmenis, privalo nustatyti šių sprogmenų atitiktį šio įstatymo nustatytiems reikalavimams. Nustačius, kad sprogmenys turi atitikties sertifikatus ir kad jie nėra pažeisti išoriškai, priimamas sprendimas juos realizuoti.
 
 
-25 straipsnis. Duomenų apie sprogmenis rinkimas ir kaupimas
 
 
-Ginklų fondas renka ir kaupia duomenis apie pagamintus, importuotus, eksportuotus, parduotus, laikomus, sunaudotus sprogmenis ir teisės aktų nustatyta tvarka teikia šią informaciją suinteresuotoms institucijoms arba tarptautinėms organizacijoms. Šių duomenų sudėtį nustato Vyriausybė ar jos įgaliota institucija.
+6. Sprogmenų civilinės apyvartos kontrolę atliekanti institucija, šio straipsnio 1 dalies 1, 2 ir 3 punktuose nustatytais atvejais paėmusi sprogmenis ir nustačiusi sprogmenų gamintoją, apie tai privalo informuoti Europos Komisiją.
 
 
-Straipsnio pakeitimai:
-Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. 1101010ISTA00XI-647
+
+
+7. Šio straipsnio 1 dalyje nustatytais atvejais paimti sprogmenys, kurie neturi atitikties sertifikatų, taip pat išoriškai pažeisti sprogmenys nesaugomi. Jie visais atvejais neatlygintinai sunaikinami. Šiuos sprogmenis naikinti turi teisę Lietuvos kariuomenė ir specializuotos policijos įstaigos savo nustatyta tvarka. 
+
+
+
+
+8. Sprogmenų gamintojai turi teisę naikinti savo pagamintus sprogmenis ir jiems gaminti naudojamas medžiagas ir žaliavas. 
  
 
 
@@ -1305,23 +1226,15 @@ Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. 1101010ISTA0
 
 
 
-SEPTINTASIS SKIRSNIS
-SPROGMENŲ APYVARTOS VALSTYBINĖ KONTROLĖ 
- 
+21 straipsnis. Duomenų apie sprogmenis teikimas tretiesiems asmenims
 
 
-26 straipsnis. Sprogmenų apyvartos valstybinė kontrolė
-
-
-1. Sprogmenų apyvartos valstybinę kontrolę pagal savo kompetenciją vykdo Vidaus reikalų ministerija, Ginklų fondas, Valstybės saugumo departamentas, Krašto apsaugos ministerija, Ūkio ministerija ir kitos valstybės institucijos.
-Straipsnio dalies pakeitimai:
-Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. 1101010ISTA00XI-647
- 
+1. Ginklų fondas teisės aktų nustatyta tvarka suinteresuotoms institucijoms ir tarptautinėms organizacijoms teikia duomenis apie pagamintus, įgytus, laikomus, sunaudotus, realizuotus, importuotus, įvežtus į Lietuvos Respubliką, eksportuotus, išvežtus iš Lietuvos Respublikos, vežtus tranzitu per Lietuvos Respublikos teritoriją sprogmenis. Šių duomenų sudėtį nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
 
 
 
-2. Sprogmenų apyvartos valstybinės kontrolės tvarką ir ypatumus nustato Vyriausybė.
+2. Ginklų fondas valstybėms narėms teikia informaciją apie civilinę sprogmenų apyvartą Lietuvos Respublikoje, Lietuvos Respublikos fizinius ir juridinius asmenis, kurie verčiasi su sprogmenų apyvarta susijusia licencijuojama veikla.
  
 
 
@@ -1331,60 +1244,16 @@ Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. 1101010ISTA0
 
 
 
-AŠTUNTASIS SKIRSNIS
+ŠEŠTASIS SKIRSNIS
 BAIGIAMOSIOS NUOSTATOS
  
 
 
-27 straipsnis. Keitimasis informacija su užsienio valstybėmis dėl sprogmenų apyvartos
+22 straipsnis. Atsakomybė už šio įstatymo pažeidimus
 
 
-1. Vyriausybės įgaliota institucija, išdavusi licenciją (leidimą) eksportuoti (išvežti) sprogmenis į užsienio valstybę, privalo nedelsdama pranešti valstybei apie sprogmenų išvežimą iš Lietuvos Respublikos į jos teritoriją. Tokia informacija turi būti perduota užsienio valstybės kompetentingoms institucijoms dar neišvežus sprogmenų. Taip pat turi būti pranešta valstybėms, per kurių teritorijas sprogmenys bus gabenami tranzitu.
-
-
-
-
-2. Vyriausybės įgaliota institucija, išduodanti licencijas įmonėms verstis prekyba sprogmenimis, teikia informaciją apie šias įmones valstybėms Europos Sąjungos narėms, sudaro sąlygas jų kompetentingoms institucijoms patikrinti, ar tokios įmonės pajėgios bet kuriuo metu nustatyti joms priklausančių sprogmenų buvimo vietą.
-
-
-
-
-3. Informacija apie sprogmenų apyvartą Lietuvos Respublikos teisės aktų nustatyta tvarka teikiama vadovaujantis Lietuvos Respublikos tarptautinėmis sutartimis.
+Asmenys, pažeidę šio įstatymo reikalavimus, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
  
-
-
-
-
-
-
-28 straipsnis. Atsakomybė už sprogmenų apyvartos pažeidimus
-
-
-Asmenys, pažeidę sprogmenų apyvartos, jos kontrolės tvarką, atsako įstatymų nustatyta tvarka.
- 
-
-
-
-
-
-
-29 straipsnis. Įstatymo įsigaliojimas ir pasiūlymai Lietuvos Respublikos Vyriausybei
-
-
-1. Šis Įstatymas įsigalioja nuo 2004 m. sausio 1 d., išskyrus 17 straipsnį ir 27 straipsnio 2 dalį.
-
-
-
-
-2. Šio Įstatymo 17 straipsnis ir 27 straipsnio 2 dalis įsigalioja Lietuvos Respublikai įstojus į Europos Sąjungą.
-
-
-
-
-3. Lietuvos Respublikos Vyriausybė iki 2003 m. rugsėjo 30 d. parengia ir patvirtina Sprogmenų apyvartos kontrolės įstatymui įgyvendinti reikalingus teisės aktus.
- 
-
-
 
 
 
@@ -1401,11 +1270,14 @@ RESPUBLIKOS PREZIDENTAS                            �
  
 
 
+ 
 
 
 
 
-Lietuvos Respublikos sprogmenų apyvartos
+ 
+Lietuvos Respublikos 
+sprogmenų apyvartos 
 kontrolės įstatymo
 priedas
  
@@ -1418,13 +1290,9 @@ priedas
 
 
 
-2. 2008 m. balandžio 4 d. Komisijos direktyva 2008/43/EB, nustatanti civiliniam naudojimui skirtų sprogmenų atpažinties ir susekamumo sistemą pagal Tarybos direktyvą 93/15/EEB (OL 2008 L 94, p. 8).
- 
+2. 2008 m. balandžio 4 d. Komisijos direktyva 2008/43/EB, nustatanti civiliniam naudojimui skirtų sprogmenų atpažinties ir susekamumo sistemą pagal Tarybos direktyvą 93/15/EEB (OL 2008 L 94, p. 8), su pakeitimais, padarytais 2012 m. vasario 22 d. Komisijos direktyva 2012/4/ES (OL 2012 L 50, p. 18).
 
 
-Priedo pakeitimai:
-Nr. XI-294, 2009-06-16, Žin., 2009, Nr. 77-3162 (2009-06-30), i. k. 1091010ISTA00XI-294
- 
  
  
 Pakeitimai:
@@ -1453,3 +1321,8 @@ Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo 9, 13, 18, 25 ir 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-840, 2010-05-25, Žin., 2010, Nr. 67-3339 (2010-06-10), i. k. 1101010ISTA00XI-840
 Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo 2, 11, 12, 13, 17, 18, 19 straipsnių pakeitimo ir papildymo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2154, 2012-06-29, Žin., 2012, Nr. 81-4220 (2012-07-12), i. k. 1121010ISTA0XI-2154
+Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo pakeitimo įstatymas
