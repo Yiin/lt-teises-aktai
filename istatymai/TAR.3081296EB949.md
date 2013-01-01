@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3081296EB949"
 
 # Lietuvos Respublikos Tarnybos Lietuvos Respublikos muitinėje statuto patvirtinimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2012-01-01 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2013-07-19
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2917; Žin. 2003, Nr.64-2881, i. k. 1001010ISTAIII-1986
  
@@ -120,7 +120,10 @@ Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010IST
 
 1. Muitinės pareigūnų pareigybių sąrašus ir pareigybių aprašymus tvirtina Muitinės departamento generalinis direktorius.
 
-2. Muitinės pareigūnų, atliekančių operatyvinę veiklą ir (arba) ikiteisminį tyrimą, pareigybių sąrašą tvirtina Muitinės departamento generalinis direktorius.
+2. Muitinės pareigūnų, atliekančių kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą, pareigybių sąrašą tvirtina Muitinės departamento generalinis direktorius. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2261, 2012-10-02, Žin., 2012, Nr. 122-6120 (2012-10-20), i. k. 1121010ISTA0XI-2261
+ 
 
 3. Muitinės departamento generalinio direktoriaus pareigybės aprašymą tvirtina finansų ministras. 
 
@@ -164,9 +167,10 @@ PRIĖMIMAS Į TARNYBĄ MUITINĖJE
 
 2) mokėti valstybinę kalbą;
 
-3) būti ne jaunesnis kaip 21 metų ir ne vyresnis kaip 65 metų, o priimamas į muitinės mobilios grupės pareigūno, muitinės posto pareigūno ir muitinės pareigūno, atliekančio operatyvinę veiklą ir (arba) ikiteisminį tyrimą, pareigas – ne vyresnis kaip 62 metų ir 6 mėnesių; 
+3) būti ne jaunesnis kaip 21 metų ir ne vyresnis kaip 65 metų, o priimamas į muitinės mobiliosios grupės pareigūno, muitinės posto pareigūno ir muitinės pareigūno, atliekančio kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą, pareigas – ne vyresnis kaip 62 metų ir 6 mėnesių; 
 Straipsnio punkto pakeitimai:
 Nr. X-1770, 2008-11-06, Žin., 2008, Nr. 134-5176 (2008-11-22), i. k. 1081010ISTA00X-1770
+Nr. XI-2261, 2012-10-02, Žin., 2012, Nr. 122-6120 (2012-10-20), i. k. 1121010ISTA0XI-2261
  
 
 4) turėti to lygio valstybės tarnautojo pareigoms eiti būtiną išsilavinimą;
@@ -241,7 +245,10 @@ Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000
 
 11 straipsnis. Priėmimas į tarnybą muitinėje 
 
-1. Į tarnybą muitinėje priimama konkurso būdu. Į pakaitinių muitinės pareigūnų ir muitinės pareigūnų, atliekančių operatyvinę veiklą ir (arba) ikiteisminį tyrimą, pareigas priimama atrankos būdu.
+1. Į tarnybą muitinėje priimama konkurso būdu. Į pakaitinių muitinės pareigūnų ir muitinės pareigūnų, atliekančių kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą, pareigas priimama atrankos būdu. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2261, 2012-10-02, Žin., 2012, Nr. 122-6120 (2012-10-20), i. k. 1121010ISTA0XI-2261
+ 
 
 2. Konkursas į muitinės pareigūno pareigas skelbiamas oficialaus leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“.
 
@@ -1001,7 +1008,10 @@ Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010IS
 
 8. Muitinės pareigūnų valstybinį socialinį draudimą, sveikatos draudimą ir teisę į pensijas nustato įstatymai.
 
-9. Muitinės mobiliųjų grupių pareigūnai, muitinės postų pareigūnai ir muitinės pareigūnai, atliekantys operatyvinę veiklą ir (arba) ikiteisminį tyrimą, turi teisę gauti pareigūnų valstybinę pensiją pagal Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymą. 
+9. Muitinės mobiliųjų grupių pareigūnai, muitinės postų pareigūnai ir muitinės pareigūnai, atliekantys kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą, turi teisę gauti pareigūnų valstybinę pensiją pagal Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymą. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2261, 2012-10-02, Žin., 2012, Nr. 122-6120 (2012-10-20), i. k. 1121010ISTA0XI-2261
+ 
 
 Straipsnio pakeitimai:
 Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
@@ -1039,11 +1049,11 @@ Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010IS
 4. Šio straipsnio 2 dalyje nustatyta išeitinė išmoka pradedama mokėti praėjus mėnesiui nuo muitinės pareigūno atleidimo iš pareigų dienos ir mokama kas mėnesį lygiomis dalimis. Jos mokėjimas nutraukiamas, jeigu asmuo pradeda eiti valstybės tarnautojo pareigas. Jeigu asmuo pradeda eiti pareigas ne pirmą mėnesio dieną, išeitinė išmoka mokama tik už to mėnesio dienas iki priėmimo į valstybės tarnautojo pareigas dienos.
  
 
-531 straipsnis. Kompensacijos muitinės mobiliųjų grupių pareigūnams, muitinės postų pareigūnams ir muitinės pareigūnams, atliekantiems operatyvinę veiklą ir (arba) ikiteisminį tyrimą
+531 straipsnis. Kompensacijos muitinės mobiliųjų grupių pareigūnams, muitinės postų pareigūnams ir muitinės pareigūnams, atliekantiems kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą
 
-1. Muitinės mobiliųjų grupių pareigūno, muitinės postų pareigūno ir muitinės pareigūno, atliekančio operatyvinę veiklą ir (arba) ikiteisminį tyrimą, žuvusio vykdant tarnybines pareigas (arba ne tarnybos metu, bet dėl priežasčių, susijusių su tarnyba), sutuoktiniui, nepilnamečiams vaikams (įvaikiams), kol jiems sukaks 18 metų, taip pat vaikams (įvaikiams), kurie mokosi nustatyta tvarka įregistruotų mokymo įstaigų dieniniuose skyriuose, kol jiems sukaks 24 metai, žuvusiojo vaikams, gimusiems po jo mirties, tėvui, motinai bei nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą, per vienerius metus nuo pareigūno mirties lygiomis dalimis išmokama vienkartinė 120 jo vidutinių mėnesinių darbo užmokesčių dydžio kompensacija. Žuvusysis laidojamas valstybės lėšomis. Valstybės apmokamų laidojimo išlaidų aprašą nustato Vyriausybė arba jos įgaliota institucija.
+1. Muitinės mobiliųjų grupių pareigūno, muitinės postų pareigūno ir muitinės pareigūno, atliekančio kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą, žuvusio vykdant tarnybines pareigas (arba ne tarnybos metu, bet dėl priežasčių, susijusių su tarnyba), sutuoktiniui, nepilnamečiams vaikams (įvaikiams), kol jiems sukaks 18 metų, taip pat vaikams (įvaikiams), kurie mokosi nustatyta tvarka įregistruotų mokymo įstaigų dieniniuose skyriuose, kol jiems sukaks 24 metai, žuvusiojo vaikams, gimusiems po jo mirties, tėvui, motinai bei nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą, per vienerius metus nuo pareigūno mirties lygiomis dalimis išmokama vienkartinė 120 jo vidutinių mėnesinių darbo užmokesčių dydžio kompensacija. Žuvusysis laidojamas valstybės lėšomis. Valstybės apmokamų laidojimo išlaidų aprašą nustato Vyriausybė arba jos įgaliota institucija.
 
-2. Muitinės mobiliųjų grupių pareigūnui, muitinės postų pareigūnui ir muitinės pareigūnui, atliekančiam operatyvinę veiklą ir (arba) ikiteisminį tyrimą, sužeistam vykdant tarnybines pareigas (arba ne tarnybos metu, bet dėl priežasčių, susijusių su tarnyba), išmokama kompensacija, atsižvelgiant į sužeidimo (suluošinimo) laipsnį:
+2. Muitinės mobiliųjų grupių pareigūnui, muitinės postų pareigūnui ir muitinės pareigūnui, atliekančiam kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą, sužeistam vykdant tarnybines pareigas (arba ne tarnybos metu, bet dėl priežasčių, susijusių su tarnyba), išmokama kompensacija, atsižvelgiant į sužeidimo (suluošinimo) laipsnį:
 
 1) dėl sveikatos sutrikdymo tapusiam neįgaliuoju ir kuriam Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka nustatytas 0–25 procentų darbingumo lygis arba iki 2005 m. liepos 1 d. buvo nustatyta I invalidumo grupė – 60 jo vidutinių mėnesinių darbo užmokesčių dydžio;
 
@@ -1051,15 +1061,12 @@ Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010IS
 
 3) dėl sveikatos sutrikdymo Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka nustatytas 60–100 procentų darbingumo lygis arba iki 2005 m. liepos 1 d. buvo nustatyta III invalidumo grupė – 12 jo vidutinių mėnesinių darbo užmokesčių dydžio.
 
-3. Muitinės mobiliųjų grupių pareigūno, muitinės postų pareigūno ir muitinės pareigūno, atliekančio operatyvinę veiklą ir (arba) ikiteisminį tyrimą, sveikatos sužalojimo sunkumo laipsnį, taip pat dėl sužeidimo likusius sveikatos pakitimus ar sumažėjusį jo tinkamumą tarnybai teisės aktų nustatyta tvarka nustato įgaliota Lietuvos nacionalinės sveikatos sistemos asmens sveikatos priežiūros įstaigos medicinos komisija. Šio straipsnio 1 ir 2 dalyse nustatytos kompensacijos mokamos iš Muitinės departamentui skirtų valstybės biudžeto lėšų. 
-Straipsnio dalies pakeitimai:
-Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
- 
+3. Muitinės mobiliųjų grupių pareigūno, muitinės postų pareigūno ir muitinės pareigūno, atliekančio kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą, sveikatos sužalojimo sunkumo laipsnį, taip pat dėl sužeidimo likusius sveikatos pakitimus ar sumažėjusį jo tinkamumą tarnybai teisės aktų nustatyta tvarka nustato įgaliota Lietuvos nacionalinės sveikatos sistemos asmens sveikatos priežiūros įstaigos medicinos komisija. Šio straipsnio 1 ir 2 dalyse nustatytos kompensacijos mokamos iš Muitinės departamentui skirtų valstybės biudžeto lėšų.
 
 4. Šio straipsnio 2 dalyje nustatyta kompensacija nemokama, jeigu pareigūnas sužeidimo vykdant tarnybines pareigas (arba ne tarnybos metu, bet dėl priežasčių, susijusių su tarnyba) metu buvo apsvaigęs nuo narkotinių, toksinių, psichotropinių medžiagų arba alkoholio arba dėl sužeidimo metu atliktų veiksmų buvo pradėtas ikiteisminis tyrimas ar administracinio teisės pažeidimo bylos teisena ir įsiteisėjo apkaltinamasis nuosprendis ar paskirta administracinė nuobauda arba pareigūnas save sužalojo tyčia. 
 
-Papildyta straipsniu:
-Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000X-988
+Straipsnio pakeitimai:
+Nr. XI-2261, 2012-10-02, Žin., 2012, Nr. 122-6120 (2012-10-20), i. k. 1121010ISTA0XI-2261
  
 
 54 straipsnis. Kitos garantijos
@@ -1091,9 +1098,10 @@ Nr. XI-1524, 2011-06-23, Žin. 2011, Nr. 86-4166 (2011-07-13), i. k. 1111010ISTA
 
 8) kai muitinės pareigūnai, gavę tiesioginio vadovo sutikimą, yra išvykę į sveikatos priežiūros įstaigą ir valstybės ar savivaldybės instituciją ar įstaigą, – iki vienos darbo dienos.
 
-2. Muitinės pareigūno, kuriam sukako 65 metai, taip pat muitinės mobilios grupės pareigūno, muitinės posto pareigūno ir muitinės pareigūno, atliekančio operatyvinę veiklą ir (arba) ikiteisminį tyrimą, kuriems sukako 62 metai ir 6 mėnesiai, tarnyba jo prašymu gali būti pratęsta iki vienerių metų ir bendras pratęstas tarnybos laikas negali viršyti trejų metų. 
+2. Muitinės pareigūno, kuriam sukako 65 metai, taip pat muitinės mobiliosios grupės pareigūno, muitinės posto pareigūno ir muitinės pareigūno, atliekančio kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą, kuriems sukako 62 metai ir 6 mėnesiai, tarnyba jo prašymu gali būti pratęsta iki vienerių metų ir bendras pratęstas tarnybos laikas negali viršyti trejų metų. 
 Straipsnio dalies pakeitimai:
 Nr. X-1770, 2008-11-06, Žin., 2008, Nr. 134-5176 (2008-11-22), i. k. 1081010ISTA00X-1770
+Nr. XI-2261, 2012-10-02, Žin., 2012, Nr. 122-6120 (2012-10-20), i. k. 1121010ISTA0XI-2261
  
 
 3. Muitinės pareigūnas turi teisę Vyriausybės nustatyta tvarka gauti išmokas už komandiruotės išlaidas.
@@ -1148,9 +1156,10 @@ Nr. IX-2186, 2004-04-27, Žin., 2004, Nr. 73-2520 (2004-04-30), i. k. 1041010IST
 
 5) pasibaigia pakaitinio muitinės pareigūno priėmimo į laikinai negalinčio eiti pareigų muitinės pareigūno pareigas laikas;
 
-6) jam sueina 65 metai, o muitinės mobilios grupės pareigūnui, muitinės posto pareigūnui ir muitinės pareigūnui, atliekančiam operatyvinę veiklą ir (arba) ikiteisminį tyrimą, sueina 62 metai ir 6 mėnesiai ar baigiasi jo tarnybos pratęsimo terminas; 
+6) jam sukanka 65 metai, o muitinės mobiliosios grupės pareigūnui, muitinės posto pareigūnui ir muitinės pareigūnui, atliekančiam kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą, sukanka 62 metai ir 6 mėnesiai arba baigiasi jo tarnybos pratęsimo terminas; 
 Straipsnio punkto pakeitimai:
 Nr. X-1770, 2008-11-06, Žin., 2008, Nr. 134-5176 (2008-11-22), i. k. 1081010ISTA00X-1770
+Nr. XI-2261, 2012-10-02, Žin., 2012, Nr. 122-6120 (2012-10-20), i. k. 1121010ISTA0XI-2261
  
 
 7) paaiškėja, kad stodamas į tarnybą muitinėje jis pateikė suklastotus dokumentus arba nuslėpė ar pateikė tikrovės neatitinkančius duomenis, dėl kurių negalėjo būti priimtas į muitinės pareigūno pareigas;
@@ -1282,4 +1291,9 @@ Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto 54 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1903, 2011-12-23, Žin., 2011, Nr. 163-7779 (2011-12-31), i. k. 1111010ISTA0XI-1903
 Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto 4, 5, 12, 13, 25, 27, 28, 28-1, 29, 32, 34, 49, 51, 52, 53, 53-1, 54, 55-1 straipsnių pakeitimo ir Statuto papildymo 5-1 straipsniu įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2261, 2012-10-02, Žin., 2012, Nr. 122-6120 (2012-10-20), i. k. 1121010ISTA0XI-2261
+Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto 4, 6, 11, 51, 53-1, 54 ir 55 straipsnių pakeitimo įstatymas
 
