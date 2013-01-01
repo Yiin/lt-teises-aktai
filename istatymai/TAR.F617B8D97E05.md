@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F617B8D97E05"
 
 # Lietuvos Respublikos konsulinis statutas
 
-Suvestinė redakcija nuo 2012-12-29 iki 2012-12-31
+Suvestinė redakcija nuo 2013-01-01 iki 2015-03-01
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 43-1047, i. k. 0951010ISTA000I-886
  
@@ -540,7 +540,10 @@ Nr. XII-75, 2012-12-20, Žin. 2012, Nr. 154-7923 (2012-12-29), i. k. 1121010ISTA
 25 straipsnis. Pasų išdavimas, keitimas ir pilietybės klausimai
 
 
-1. Konsulinis pareigūnas Lietuvos Respublikos pilietybės įstatymo ir kitų teisės aktų nustatyta tvarka priima asmenų prašymus dėl Lietuvos Respublikos pilietybės ir dėl teisės į Lietuvos Respublikos pilietybę išsaugojimo ir perduoda juos bei susijusius dokumentus Lietuvos Respublikos vidaus reikalų ministrui ar jo įgaliotai institucijai, ar kitai Lietuvos Respublikos institucijai, kuri pagal įstatymą turi kompetenciją nagrinėti ir spręsti Lietuvos Respublikos pilietybės klausimus.
+1. Konsulinis pareigūnas Lietuvos Respublikos pilietybės įstatymo ir kitų teisės aktų nustatyta tvarka priima asmenų prašymus dėl Lietuvos Respublikos pilietybės ir dėl lietuvių kilmę ar teisę atkurti Lietuvos Respublikos pilietybę patvirtinančių dokumentų išdavimo ir perduoda juos bei susijusius dokumentus Lietuvos Respublikos vidaus reikalų ministrui ar jo įgaliotai institucijai, ar kitai Lietuvos Respublikos institucijai, kuri pagal įstatymą turi kompetenciją nagrinėti ir spręsti Lietuvos Respublikos pilietybės klausimus. 
+Straipsnio dalies pakeitimai:
+Nr. XII-75, 2012-12-20, Žin., 2012, Nr. 154-7923 (2012-12-29), i. k. 1121010ISTA00XII-75
+ 
 
 
 
@@ -550,7 +553,10 @@ Nr. XII-75, 2012-12-20, Žin. 2012, Nr. 154-7923 (2012-12-29), i. k. 1121010ISTA
 
 
 
-3. Konsulinis pareigūnas, gavęs asmens tapatybę ir pilietybę patvirtinančius dokumentus ar teisės į Lietuvos Respublikos pilietybę išsaugojimo pažymėjimus, Lietuvos Respublikos teisės aktų nustatyta tvarka įteikia juos jų prašiusiam asmeniui ar jo įgaliotam atstovui. 
+3. Konsulinis pareigūnas, gavęs asmens tapatybę ir pilietybę patvirtinančius dokumentus ar lietuvių kilmę ar teisę atkurti Lietuvos Respublikos pilietybę patvirtinančius dokumentus, Lietuvos Respublikos teisės aktų nustatyta tvarka įteikia juos jų prašiusiam asmeniui ar jo įgaliotam atstovui. 
+Straipsnio dalies pakeitimai:
+Nr. XII-75, 2012-12-20, Žin., 2012, Nr. 154-7923 (2012-12-29), i. k. 1121010ISTA00XII-75
+ 
 
 
 
