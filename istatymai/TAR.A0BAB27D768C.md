@@ -1264,6 +1264,34 @@ Integralius krizių ir ekstremalių situacijų valdymo planus ir priemones
 tvirtina Vyriausybė.
 Krizių valdymą reglamentuoja
 įstatymai ir kiti teisės aktai.
+ 
+Antrojo
+skirsnio redakcija nuo 2013-05-01:
+ANTRASIS SKIRSNIS
+KRIZIŲ VALDYMAS
+ 
+Krizių valdymo
+sistema kuriama ir plėtojama pavojų keliančioms bei ekstremalioms situacijoms
+ir kriziniams reiškiniams prognozuoti, stebėti, prevencinėms priemonėms
+parengti ir vykdyti, krizėms nustatyti bei valdyti, padariniams pašalinti.
+Krizių valdymo strategiją
+tvirtina Vyriausybė. Krizių valdymą koordinuoja Vyriausybės sudaromas Krizių
+valdymo komitetas, kuriam vadovauja Ministras Pirmininkas. Krizių valdymo
+komitetą sudaro svarbiausi su krizių valdymu susiję ministrai, Vyriausybės
+kancleris ar jo pirmasis pavaduotojas. Prireikus Krizių valdymo komitetas,
+atsižvelgdamas į krizės pobūdį, priima sprendimą siūlyti Vyriausybei iš
+atitinkamų ministerijų ir kitų valstybės institucijų atstovų sudaryti Jungtinį
+koordinavimo centrą krizei valdyti ir jos padarinių likvidavimui
+koordinuoti. Jungtinio koordinavimo centro nuostatus tvirtina Vyriausybė.
+Krizių prevenciją ir pasirengimą
+jas valdyti koordinuoja Vyriausybės kanceliarija. Vyriausybės kanceliarija
+koordinuoja integralių krizių ir ekstremalių situacijų prevencijos bei jų
+valdymo planų ir priemonių rengimą; ministerijos ir kitos valstybės
+institucijos pagal savo kompetenciją rengia šiuos planus ir priemones,
+numatydamos veiksmų koordinavimą su kitomis institucijomis. Integralius krizių
+ir ekstremalių situacijų valdymo planus ir priemones tvirtina Vyriausybė.
+Krizių valdymą reglamentuoja
+įstatymai ir kiti teisės aktai.
 Skyriaus
 pakeitimai:
 Nr. VIII-1778, 2000 06 29, Žin., 2000, Nr.
@@ -1271,13 +1299,15 @@ Nr. VIII-1778, 2000 06 29, Žin., 2000, Nr.
 Nr.
 IX-1524,
 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
-Nr. IX-2030, 2004-02-19,
-Žin., 2004, Nr. 39-1270 (2004-03-13)
+Nr. IX-2030,
+2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
 Nr. XI-125,
 2008-12-23, Žin., 2008, Nr. 149-6045 (2008-12-30)
 Nr.
 XI-480,
 2009-11-12, Žin., 2009, Nr. 141-6203 (2009-11-28)
+Nr. XII-161,
+2013-01-17, Žin., 2013, Nr. 11-505 (2013-01-30)
  
 15 skyrius
 SEIMO
@@ -1324,8 +1354,8 @@ DĖL VALSTYBĖS GYNYBOS
  
 Seimas skelbia nepaprastąją
 padėtį, įveda karo padėtį, skelbia mobilizaciją ar demobilizaciją, priima
-sprendimą panaudoti ginkluotąsias pajėgas, kai prireikia ginti Tėvynę arba vykdyti
-tarptautinius Lietuvos įsipareigojimus. 
+sprendimą panaudoti ginkluotąsias pajėgas, kai prireikia ginti Tėvynę arba
+vykdyti tarptautinius Lietuvos įsipareigojimus. 
 Ginkluoto užpuolimo atveju, kai
 Respublikos Prezidentas nedelsdamas priima sprendimą dėl gynybos nuo ginkluotos
 agresijos, įskaitant sprendimą dalyvauti kolektyvinės gynybos operacijoje,
@@ -1411,8 +1441,8 @@ Nr. VIII-770,
 Nr.
 IX-1524,
 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
-Nr. IX-2030,
-2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
+Nr. IX-2030, 2004-02-19,
+Žin., 2004, Nr. 39-1270 (2004-03-13)
  
 18 skyrius
 KRAŠTO
@@ -1523,14 +1553,14 @@ nacionalinio saugumo sistemos sudedamosios dalies, paskirtis – užtikrinti
 asmens ir visuomenės
 saugumą, žmogaus teises ir laisves, palaikyti viešąją tvarką, kovoti su
 nusikalstamomis veikomis. Policijos funkcijas nustato įstatymas. 
-Vidaus reikalų ministerijos
-vidaus tarnybos daliniai reorganizuojami į Vidaus reikalų ministerijai
-pavaldžią Viešojo saugumo tarnybą. Viešojo saugumo tarnybos veiklos pagrindus
-nustato įstatymas.
-Valstybės finansų
-sistemos apsaugą nuo nusikalstamo poveikio užtikrina Finansinių nusikaltimų
-tyrimo tarnyba. Šios tarnybos teisinį statusą ir veiklos pagrindus
-reglamentuoja įstatymas.
+Vidaus reikalų
+ministerijos vidaus tarnybos daliniai reorganizuojami į Vidaus reikalų
+ministerijai pavaldžią Viešojo saugumo tarnybą. Viešojo saugumo tarnybos
+veiklos pagrindus nustato įstatymas.
+Valstybės finansų sistemos
+apsaugą nuo nusikalstamo poveikio užtikrina Finansinių nusikaltimų tyrimo
+tarnyba. Šios tarnybos teisinį statusą ir veiklos pagrindus reglamentuoja
+įstatymas.
 Lietuvos Respublikos vadovybės ir
 oficialių svečių apsaugą nuo teroro aktų, smurto ir kitokio
 kėsinimosi bei su šio uždavinio įgyvendinimu susijusių saugomų objektų apsaugą
@@ -1624,9 +1654,9 @@ gyvybės ir turto apsaugą, reikalingą neatidėliotiną pagalbą ir evakuaciją
 pavojingų rajonų. 
 Civilinės saugos ir
 gelbėjimo sistemą, jos struktūrą, veiklos teisinius pagrindus, sistemai
-priklausančių institucijų pavaldumą, funkcijas, atsakomybę bei tarpusavio sąveiką,
-taip pat sąveiką su kitomis valstybės institucijomis nustato įstatymai ir kiti
-teisės aktai.
+priklausančių institucijų pavaldumą, funkcijas, atsakomybę bei tarpusavio
+sąveiką, taip pat sąveiką su kitomis valstybės institucijomis nustato įstatymai
+ir kiti teisės aktai.
 Jeigu reikia, katastrofoms ir
 kitoms didelio masto nelaimėms įveikti, gelbėjimo darbams dirbti bei
 padariniams šalinti pasitelkiama ir kariuomenė, specialistai iš mobilizacinio
@@ -1763,7 +1793,8 @@ NACIONALINIO SAUGUMO PAGRINDŲ
 ĮSTATYMO PRIEDĖLIO 11 SKYRIAUS PAKEITIMO ĮSTATYMAS
  
 6.
-Lietuvos Respublikos Seimas, Įstatymas
+Lietuvos Respublikos Seimas,
+Įstatymas
 Nr. IX-1457,
 2003-04-03, Žin., 2003, Nr. 38-1702 (2003-04-24)
 NACIONALINIO SAUGUMO PAGRINDŲ
@@ -1885,8 +1916,8 @@ SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 19 SKYRIAUS PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XI-1515,
-2011-06-23, Žin., 2011, Nr. 86-4157 (2011-07-13)
+XI-1515, 2011-06-23,
+Žin., 2011, Nr. 86-4157 (2011-07-13)
 NACIONALINIO
 SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 15 SKYRIAUS PAKEITIMO ĮSTATYMAS
 Šis
@@ -1903,12 +1934,21 @@ PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 Šis įstatymas, išskyrus
 3 straipsnį, įsigalioja 2013 m. liepos 1 d.
  
+21.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XII-161,
+2013-01-17, Žin., 2013, Nr. 11-505 (2013-01-30)
+NACIONALINIO
+SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO III DALIES 14 SKYRIAUS ANTROJO SKIRSNIO
+PAKEITIMO ĮSTATYMAS
+Šis įstatymas
+įsigalioja 2013 m. gegužės 1 d.
  
 *** Pabaiga ***
  
  
 Redagavo Aušrinė
-Trapinskienė (2012-11-27)
+Trapinskienė (2013-02-01)
                  
 ausrine.trapinskiene@lrs.lt
-1
