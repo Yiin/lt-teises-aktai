@@ -5842,53 +5842,36 @@ A 20
 
 
 2.
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
 
 
-Respublikos
-  Prezidento vyriausiasis patarėjas,
+Respublikos Prezidento vyriausiasis
+  patarėjas,
 viceministras,
-  savivaldybės administracijos direktorius, Ministro Pirmininko kancleris
+  savivaldybės administracijos direktorius, 
+Vyriausybės kancleris
 
 
-direktorius
-  (taikoma įstaigos vadovui),
+direktorius (taikoma įstaigos
+  vadovui),
   ministerijos kancleris
 
 
-ministerijos
-  kancleris
+ministerijos kancleris
 
 
 direktorius,
 viršininkas,
 vadas
-(taikoma
-  įstaigos vadovui)
- 
+(taikoma įstaigos vadovui)
 
 
-A
-  19–20
+A 19–20
 
 
-A
-  18–19
+A 18–19
 
 
-A
-  17–18
+A 17–18
 
 
 A 15–17
@@ -5931,22 +5914,24 @@ A 19
 
 
 
+
 4.
 
-Respublikos
-  Prezidento atstovas ypatingiems pavedimams,
+
+Respublikos Prezidento atstovas
+  ypatingiems pavedimams,
   Respublikos Prezidento patarėjas, 
   Seimo Pirmininko sekretoriato vadovas,
   Seimo Pirmininko vyresnysis patarėjas,
   Ministro Pirmininko sekretoriato vadovas, 
   Ministro Pirmininko patarėjas,
-  savivaldybės administracijos direktoriaus pavaduotojas, Ministro Pirmininko
-  kanclerio pirmasis pavaduotojas
+  savivaldybės administracijos direktoriaus pavaduotojas, Vyriausybės
+kanclerio pirmasis pavaduotojas
 
 
 direktoriaus
   pavaduotojas (taikoma įstaigos vadovo pavaduotojui),
-  Vyriausybės atstovas Europos žmogaus teisių teisme,
+  Vyriausybės atstovas Europos Žmogaus Teisių Teisme,
   teismo kancleris,
   prokuratūros kancleris
 
@@ -5956,79 +5941,80 @@ ambasadorius
 
 direktoriaus pavaduotojas,
 viršininko pavaduotojas,
-vado pavaduotojas (taikoma įstaigos vadovo
-  pavaduotojui),
+vado pavaduotojas (taikoma įstaigos
+  vadovo pavaduotojui),
   štabo viršininkas, direktorato direktorius
 
 
-A
-  18–19
+AA 18–19
 
 
-A
-  17–18
+AA 17–18
 
 
-A 16–17
+AA 16–17
 
 
-A 14–16
+AA 14–16
 
 
-A
-  13–15
+AA 13–15
+
 
 
 
 5.
+
 
 Seimo
   Pirmininko sekretoriato vadovo pavaduotojas,
   Seimo Pirmininko patarėjas,
   ministro patarėjas,
   mero patarėjas,
-  Vyriausybės įgaliotinis, Ministro Pirmininko tarnybos departamento
-  direktorius
+  Vyriausybės įgaliotinis
 
 
 departamento
   direktorius, valdybos direktorius,
   komisijos ar tarybos administracijos
-  direktorius, generalinis inspektorius,
-gynybos
+  direktorius, generalinis inspektorius, gynybos
   patarėjas, 
   vyriausiasis patarėjas,
   teismo pirmininko patarėjas
- 
 
 
 ambasadorius
   ypatingiems pavedimams,
   įgaliotasis ministras, 
-  laikinasis reikalų patikėtinis,
-departamento
-  direktorius,
-generalinis
+  laikinasis reikalų patikėtinis, departamento direktorius, generalinis
   konsulas
 
 
-valdybos viršininkas, 
-eskadrilės vadas,
-dalinio vadas,
+valdybos
+  viršininkas, 
+eskadrilės
+  vadas,
+dalinio
+  vadas,
 patarėjas,
-generalinio direktoriaus patarėjas,
-departamento viršininkas,
-štabo viršininko pavaduotojas
+generalinio
+  direktoriaus patarėjas,
+departamento
+  viršininkas,
+štabo
+  viršininko pavaduotojas
 
 
 A
   17–18
 
 
-A 16–17
+A
+  16–17
 
 
-A 15–16
+A
+  15–16
 
 
 A
@@ -6907,24 +6893,11 @@ A 20
 
 
 2.
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
 
 Respublikos
-  Prezidento vyriausiasis patarėjas,
-viceministras,
-  savivaldybės administracijos direktorius,
-Ministro
-  Pirmininko kancleris
+  Prezidento vyriausiasis patarėjas, viceministras,
+  savivaldybės administracijos direktorius, Vyriausybės kancleris
 
 
 direktorius
@@ -6937,13 +6910,11 @@ ministerijos
 
 
 direktorius,
-viršininkas,
-vadas
-(taikoma
-  įstaigos vadovui) 
+  viršininkas, vadas (taikoma įstaigos vadovui) 
 
 
-A 19–20
+A
+  19–20
 
 
 A
@@ -6954,10 +6925,12 @@ A
   17–18
 
 
-A 16–17
+A
+  16–17
 
 
-A 15–16
+A
+  15–16
 
 
 
@@ -6994,23 +6967,26 @@ A 19
 
 
 
+
 4.
 
-Respublikos
-  Prezidento atstovas ypatingiems pavedimams,
+
+Respublikos Prezidento atstovas
+  ypatingiems pavedimams,
   Respublikos Prezidento patarėjas, 
   Seimo Pirmininko sekretoriato vadovas,
   Seimo Pirmininko vyresnysis patarėjas,
   Ministro Pirmininko sekretoriato vadovas, 
   Ministro Pirmininko patarėjas,
-  savivaldybės administracijos direktoriaus pavaduotojas, Ministro Pirmininko
-  kanclerio pirmasis pavaduotojas
-
-
-direktoriaus
-  pavaduotojas (taikoma įstaigos vadovo pavaduotojui),
+  savivaldybės administracijos direktoriaus pavaduotojas, 
 Vyriausybės
-  atstovas Europos Žmogaus Teisių Teisme,
+kanclerio pirmasis pavaduotojas
+
+
+direktoriaus pavaduotojas (taikoma
+  įstaigos vadovo pavaduotojui),
+Vyriausybės atstovas Europos Žmogaus
+  Teisių Teisme,
   teismo kancleris,
   prokuratūros kancleris
 
@@ -7020,81 +6996,80 @@ ambasadorius
 
 direktoriaus pavaduotojas,
 viršininko pavaduotojas,
-vado pavaduotojas (taikoma įstaigos vadovo
-  pavaduotojui),
+vado pavaduotojas (taikoma įstaigos
+  vadovo pavaduotojui),
   štabo viršininkas, 
 direktorato direktorius
 
 
-A
-  18–19
+AA 18–19
 
 
-A
-  17–18
+AA 17–18
 
 
-A 16–17
+AA 16–17
 
 
-A 15–16
+AA 15–16
 
 
-A
-  14–15
+AA 14–15
+
 
 
 
 5.
+
 
 Seimo
   Pirmininko sekretoriato vadovo pavaduotojas,
   Seimo Pirmininko patarėjas,
   ministro patarėjas,
   mero patarėjas,
-  Vyriausybės įgaliotinis, Ministro Pirmininko tarnybos departamento
-  direktorius
+  Vyriausybės įgaliotinis 
 
 
 departamento
   direktorius, valdybos direktorius,
   komisijos ar tarybos administracijos
-  direktorius, generalinis inspektorius,
-gynybos
+  direktorius, generalinis inspektorius, gynybos
   patarėjas, 
   vyriausiasis patarėjas,
   teismo pirmininko patarėjas
- 
 
 
 ambasadorius
   ypatingiems pavedimams,
   įgaliotasis ministras, 
-  laikinasis reikalų patikėtinis,
-departamento
-  direktorius,
-generalinis
+  laikinasis reikalų patikėtinis, departamento direktorius, generalinis
   konsulas
 
 
-valdybos viršininkas, 
-eskadrilės vadas,
-dalinio vadas,
+valdybos
+  viršininkas, 
+eskadrilės
+  vadas,
+dalinio
+  vadas,
 patarėjas,
-generalinio direktoriaus
-  patarėjas,
-departamento viršininkas,
-štabo viršininko pavaduotojas
+generalinio direktoriaus patarėjas,
+departamento
+  viršininkas,
+štabo
+  viršininko pavaduotojas
 
 
 A
   17–18
 
 
-A 16–17
+A
+  16–17
 
 
-A 15–16
+A
+  15–16
 
 
 A
@@ -7663,7 +7638,8 @@ sargybos
   vyresnysis budėtojas,
 vyresnysis
   dispečeris,
-vyresnysis instruktorius
+vyresnysis
+  instruktorius
 
 
 B
@@ -7875,8 +7851,8 @@ C
 
 
 
-Įstatymas papildytas
-3 priedu:
+Įstatymas
+papildytas 3 priedu:
 Nr. X-1349,
 2007-12-04, Žin., 2007, Nr. 135-5453 (2007-12-21)
 3 priedo pakeitimai:
@@ -7907,6 +7883,8 @@ Nr. XI-1722,
 2011-11-22, Žin., 2011, Nr. 150-7037 (2011-12-08)
 Nr. XII-116,
 2012-12-20, Žin., 2012, Nr. 155-7994 (2012-12-31)
+Nr. XII-155,
+2013-01-17, Žin., 2013, Nr. 11-499 (2013-01-30)
 Nr. XI-849,
 2010-05-25, Žin., 2010, Nr. 67-3346 (2010-06-10)
 Nr. XI-1554,
@@ -8185,8 +8163,8 @@ PAPILDYMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-2502, 2004-10-26,
-Žin., 2004, Nr. 163-5940 (2004-11-09)
+IX-2502,
+2004-10-26, Žin., 2004, Nr. 163-5940 (2004-11-09)
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 43 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
  
@@ -8301,8 +8279,8 @@ vėlesnių metų pareiginės algos bazinį dydį
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-1689, 2008-07-03,
-Žin., 2008, Nr. 81-3189 (2008-07-17)
+X-1689,
+2008-07-03, Žin., 2008, Nr. 81-3189 (2008-07-17)
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 8, 10 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šio įstatymo 1
@@ -8310,8 +8288,7 @@ straipsnis ir 2 straipsnio 1 ir 2 dalys įsigalioja 2015 m. sausio 1 d.
 Šio įstatymo 2
 straipsnio 3 ir 4 dalys įsigalioja 2009 m.
 vasario 1 d.
-Šio įstatymo įsigaliojimas
-keistas:
+Šio įstatymo įsigaliojimas keistas:
 1.
 Lietuvos
 Respublikos Seimas, Įstatymas
@@ -8382,9 +8359,9 @@ TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMAS
 valstybės tarnautojų suvienodintų pareigybių sąrašą ir nuo 2011 metų valstybės
 tarnautojų suvienodintų pareigybių sąrašą, įsigalioja 2009 m. sausio 1 d.
 2010
-metų valstybės tarnautojų suvienodintų pareigybių sąrašas įsigalioja 2010 m.
-sausio 1 d., o nuo 2011 metų valstybės tarnautojų suvienodintų pareigybių
-sąrašas įsigalioja 2011 m. sausio 1 d.
+metų valstybės tarnautojų suvienodintų pareigybių sąrašas įsigalioja 2010 m. sausio
+1 d., o nuo 2011 metų valstybės tarnautojų suvienodintų pareigybių sąrašas
+įsigalioja 2011 m. sausio 1 d.
 Šis įstatymas neteko galios nuo
 2010 m. sausio 1 d.:
 Lietuvos Respublikos Seimas, Įstatymas
@@ -8405,11 +8382,10 @@ PAKEITIMO ĮSTATYMAS
 Šio įstatymo pakeitimas:
                 Lietuvos Respublikos
 Seimas, Įstatymas
-                Nr. XI-321, 2009-07-07,
-Žin., 2009, Nr.85-3578 (2009-07-18)
-VALSTYBĖS
-TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMO 2 IR 3 STRAIPSNIŲ PAKEITIMO
-ĮSTATYMAS
+                Nr. XI-321,
+2009-07-07, Žin., 2009, Nr.85-3578 (2009-07-18)
+VALSTYBĖS TARNYBOS
+ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMO 2 IR 3 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas
 įsigalioja 2009 liepos 18 d.
  
@@ -8425,8 +8401,8 @@ PRIEDO PAKEITIMO ĮSTATYMO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-227,
 2009-04-23, Žin., 2009, Nr. 49-1937 (2009-04-30)
-VALSTYBĖS TARNYBOS ĮSTATYMO 1 PRIEDO PAKEITIMO
-ĮSTATYMAS
+VALSTYBĖS TARNYBOS ĮSTATYMO 1 PRIEDO
+PAKEITIMO ĮSTATYMAS
 Šio įstatymo 1 straipsnis įsigalioja 2009 m. gegužės 1 d.
 Šio įstatymo 2 straipsnis įsigalioja
 2014 m. sausio 1 d.
@@ -8504,8 +8480,8 @@ VALSTYBĖS
 TARNYBOS ĮSTATYMO 25 STRAIPSNIO IR 1 PRIEDO PAKEITIMO ĮSTATYMO 4 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
 3)
-Lietuvos Respublikos
-Seimas, Įstatymas
+Lietuvos
+Respublikos Seimas, Įstatymas
 Nr. XII-114,
 2012-12-20, Žin., 2012, Nr. 155-7992 (2012-12-31)
 VALSTYBĖS
@@ -8569,13 +8545,20 @@ VALSTYBĖS
 TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMO 1, 2 IR 3 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
 5)
-Lietuvos Respublikos
-Seimas, Įstatymas
+Lietuvos
+Respublikos Seimas, Įstatymas
 Nr. XII-116,
 2012-12-20, Žin., 2012, Nr. 155-7994 (2012-12-31)
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMO 1, 2 IR 3 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
+6)
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XII-155,
+2013-01-17, Žin., 2013, Nr. 11-499 (2013-01-30)
+VALSTYBĖS
+TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 50.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -8616,8 +8599,8 @@ STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 54.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XI-1369,
-2011-04-28, Žin., 2011, Nr. 57-2705 (2011-05-12)
+Nr. XI-1369, 2011-04-28,
+Žin., 2011, Nr. 57-2705 (2011-05-12)
 VALSTYBĖS
 TARNYBOS ĮSTATYMO 4, 9, 18, 29, 44 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR
 ĮSTATYMO PAPILDYMO 3(1), 30(1) STRAIPSNIAIS ĮSTATYMAS
@@ -8699,11 +8682,12 @@ TARNYBOS ĮSTATYMO 3(1), 4, 9, 11, 13, 14, 15, 16, 16(1), 17, 22, 29, 30, 31(1),
 Šio įstatymo 4 straipsnio 1 dalis, 5
 straipsnio 1 dalis, 12 straipsnis, 16 straipsnis įsigalioja 2012 m. rugpjūčio 1
 d.
-Šio įstatymo 4 straipsnio 3 dalis, 5 straipsnio
-3 dalis, 6 straipsnio 1 dalis, 7 straipsnis, 8 straipsnio 1, 2 ir 3 dalys, 9
-straipsnis, 10 straipsnis, 11 straipsnis, 14 straipsnis, 15 straipsnis, 17
-straipsnis, 18 straipsnio 1 ir 3 dalys, 19 straipsnio 2, 3, 4, 5 ir 6 dalys, 20
-straipsnis, 25 straipsnio 2 dalis įsigalioja 2012 m. rugsėjo 1 d.
+Šio įstatymo 4 straipsnio 3 dalis, 5
+straipsnio 3 dalis, 6 straipsnio 1 dalis, 7 straipsnis, 8 straipsnio 1, 2 ir 3
+dalys, 9 straipsnis, 10 straipsnis, 11 straipsnis, 14 straipsnis, 15
+straipsnis, 17 straipsnis, 18 straipsnio 1 ir 3 dalys, 19 straipsnio 2, 3, 4, 5
+ir 6 dalys, 20 straipsnis, 25 straipsnio 2 dalis įsigalioja 2012 m. rugsėjo 1
+d.
 Šio įstatymo 1 straipsnis, 2 straipsnis,
 3 straipsnio 3 dalis, 13 straipsnis, 19 straipsnio 1 dalis, 24 straipsnio 1 ir
 2 dalys įsigalioja 2012 m. lapkričio 1 d.
