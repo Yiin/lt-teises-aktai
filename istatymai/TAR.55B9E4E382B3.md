@@ -25,8 +25,7 @@ Neoficialus
  
 LIETUVOS
 RESPUBLIKOS 
-VALSTYBĖS HERBO,
-KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ
+VALSTYBĖS HERBO, KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ
 ĮSTATYMAS
 Keistas
 įstatymo pavadinimas:
@@ -163,6 +162,13 @@ Prezidentas ir Respublikos Prezidento kanceliarija;
 Respublikos Vyriausybė, Ministro Pirmininko tarnyba, ministerijos,
 Vyriausybės įstaigos, įstaigos prie ministerijų, Vyriausybės atstovai ir
 Vyriausybės įgaliotiniai;
+3
+punkto redakcija nuo 2013-05-01:
+3) Lietuvos
+Respublikos Vyriausybė, Vyriausybės kanceliarija, ministerijos, Vyriausybės
+įstaigos, įstaigos prie ministerijų, Vyriausybės atstovai ir Vyriausybės
+įgaliotiniai;
+ 
 4) Lietuvos
 Respublikos Konstitucinis Teismas;
 5) Lietuvos
@@ -208,8 +214,8 @@ kituose oficialiuose pažymėjimuose bei dokumentuose;
 5) Lietuvos Respublikos
 vyriausiosios rinkimų komisijos nustatyta tvarka pastatuose, kuriuose vyksta
 balsavimas, vykdant rinkimus ir referendumus, taip pat Lietuvos Respublikos
-vyriausiosios rinkimų komisijos patvirtintuose rinkimų ir referendumų
-dokumentuose; 
+vyriausiosios rinkimų komisijos patvirtintuose rinkimų ir referendumų dokumentuose;
+
 6) valstybės
 sienos ženkluose.
 3. Lietuvos valstybės herbas gali
@@ -235,8 +241,8 @@ Respublikos Konstitucinio Teismo posėdžių salėje;
 Respublikos Aukščiausiojo Teismo, jo senato ir kitų teismų posėdžių salėse;
 5) Lietuvos
 Respublikos vyriausiosios rinkimų komisijos posėdžių salėje;
-6) Lietuvos Respublikos
-Seimo Pirmininko darbo kabinete; 
+6) Lietuvos
+Respublikos Seimo Pirmininko darbo kabinete; 
 7) Respublikos
 Prezidento rezidencijos darbo kabinete;
 8) Lietuvos
@@ -254,13 +260,14 @@ darbo kabinetuose;
 14) Lietuvos Respublikos diplomatinių atstovybių ir konsulinių įstaigų
 bei jų padalinių, specialiųjų misijų, esančių užsienio valstybėse, vadovų darbo
 kabinetuose.
-5. Lietuvos Respublikos įstatymuose gali būti numatyta ir kitų juridinių
-asmenų, turinčių teisę naudoti Lietuvos valstybės herbą, taip pat kitų Lietuvos
-valstybės herbo naudojimo atvejų. 
+5. Lietuvos Respublikos įstatymuose gali būti numatyta ir kitų
+juridinių asmenų, turinčių teisę naudoti Lietuvos valstybės herbą, taip pat
+kitų Lietuvos valstybės herbo naudojimo atvejų. 
 6. Antspaudų su Lietuvos
 valstybės herbu apyvartą reglamentuoja Lietuvos Respublikos antspaudų apyvartos
 įstatymas.
-Straipsnio pakeitimai:
+Straipsnio
+pakeitimai:
 Nr. XI-745,
 2010-04-13, Žin., 2010, Nr. 48-2295 (2010-04-27)
 Nr.
@@ -269,12 +276,15 @@ XI-1305,
 Nr.
 XI-1396,
 2011-05-19, Žin., 2011, Nr. 68-3225 (2011-06-04)
+Nr.
+XII-158,
+2013-01-17, Žin., 2013, Nr. 11-502 (2013-01-30)
  
 6
 straipsnis. Lietuvos nacionaliniai simboliai
 1. Lietuvos
-istoriniai nacionaliniai simboliai yra dvigubas kryžius ir Gediminaičių stulpai.
-Jų etalonus Lietuvos heraldikos komisijos teikimu tvirtina Respublikos
+istoriniai nacionaliniai simboliai yra dvigubas kryžius ir Gediminaičių
+stulpai. Jų etalonus Lietuvos heraldikos komisijos teikimu tvirtina Respublikos
 Prezidentas.
 2. Dvigubas kryžius vaizduojamas
 geltonas (auksinis) mėlyname skyde ir yra sudedamoji Lietuvos valstybės herbo
@@ -380,8 +390,8 @@ valstybės pareigūnai, kurie pagal įstatymus ir kitus teisės aktus turi teis�
 naudoti herbus, herbines vėliavas, herbinius ženklus, herbinius antspaudus,
 derina jų etalonus ir projektus su Lietuvos heraldikos komisija.
 6. Valstybės ir
-savivaldybių institucijos ir įstaigos, išduodančios oficialius dokumentus:
-asmens tapatybės korteles, pasus, valstybės tarnautojų pažymėjimus, vairuotojo
+savivaldybių institucijos ir įstaigos, išduodančios oficialius dokumentus: asmens
+tapatybės korteles, pasus, valstybės tarnautojų pažymėjimus, vairuotojo
 pažymėjimus ir kitus dokumentus, kuriuose yra naudojamas Lietuvos valstybės
 herbas ir (ar) savivaldybės herbas, derina šių dokumentų pavyzdžius su Lietuvos
 heraldikos komisija.
@@ -488,8 +498,8 @@ tiria Lietuvoje ir užsienio valstybėse esančią Lietuvos heraldikos medžiag�
 7) konsultuoja
 istorinių herbų atkūrimo ir naujų herbų, taip pat herbinių vėliavų, herbinių
 ženklų, herbinių antspaudų kūrimo, naudojimo ir propagavimo klausimais, teikia
-metodinę paramą herbų, herbinių vėliavų, herbinių ženklų ir herbinių
-antspaudų kūrėjams ir tyrėjams.
+metodinę paramą herbų, herbinių vėliavų, herbinių ženklų ir herbinių antspaudų
+kūrėjams ir tyrėjams.
 3. Komisija,
 vykdydama šio straipsnio 1 dalyje nustatytus uždavinius ir atlikdama šio
 straipsnio 2 dalyje nustatytas funkcijas, turi teisę:
@@ -505,8 +515,8 @@ nustatyta tvarka dalyvauti valstybės ir savivaldybių institucijų bei įstaig�
 teismų, mokslo ir studijų institucijų, valstybės pareigūnų posėdžiuose ir
 pasitarimuose, kuriuose svarstomi su Lietuvos heraldika susiję
 klausimai, teikti pasiūlymus, kaip spręsti šiuos klausimus;
-4) rengti
-heraldikos leidinius ir parodas.
+4) rengti heraldikos
+leidinius ir parodas.
 4. Komisijos veiklą užtikrina Respublikos Prezidento
 kanceliarija.
             
@@ -529,6 +539,11 @@ Respublikos Seime – Seimo kancleris;
 Prezidento institucijoje – Respublikos Prezidento kanceliarijos kancleris;
 3) Lietuvos
 Respublikos Vyriausybėje – Ministro Pirmininko kancleris;
+3
+punkto redakcija nuo 2013-05-01:
+3) Lietuvos
+Respublikos Vyriausybėje – Vyriausybės kancleris;
+ 
 4) Lietuvos
 Respublikos Konstituciniame Teisme, Lietuvos Aukščiausiajame Teisme, Lietuvos
 vyriausiajame administraciniame teisme – teismo kancleris, kituose teismuose –
@@ -547,6 +562,9 @@ Nr. XI-324,
 2009-07-07, Žin., 2009, Nr. 85-3581 (2009-07-18)
 Nr. XI-745,
 2010-04-13, Žin., 2010, Nr. 48-2295 (2010-04-27)
+Nr.
+XII-158,
+2013-01-17, Žin., 2013, Nr. 11-502 (2013-01-30)
  
 16
 straipsnis. Atsakomybė
@@ -641,7 +659,8 @@ be skydo
 VI. Lietuvos
 valstybės herbo adaptacija
 antspaudams
-___________________
+ 
+ 
  
 Pakeitimai:
  
@@ -746,11 +765,23 @@ HERBO, KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ ĮSTATYMO 5 IR 8 STRAIPSNIŲ PAKEITIMO
 Šis
 įstatymas įsigalioja 2011 m. rugpjūčio 1 d.
  
+11.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XII-158,
+2013-01-17, Žin., 2013, Nr. 11-502 (2013-01-30)
+VALSTYBĖS
+HERBO, KITŲ HERBŲ IR HERBINIŲ ŽENKLŲ ĮSTATYMO 5 IR 15 STRAIPSNIŲ PAKEITIMO
+ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2013 m. gegužės 1 d.
+ 
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušra Bodin (2011-06-06)
+Aušrinė Trapinskienė (2013-01-31)
                  
-aubodi@lrs.lt
+ausrine.trapinskiene@lrs.lt
