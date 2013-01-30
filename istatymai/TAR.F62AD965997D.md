@@ -1484,29 +1484,41 @@ XI-2339,
 straipsnis. Maksimalios šilumos suvartojimo normos daugiabučiuose namuose 
 1. Valstybinė
 kainų ir energetikos kontrolės komisija nustato ir prireikus pakeičia
-maksimalias šilumos suvartojimo normas daugiabučių namų butams
-ir kitoms patalpoms šildyti. Šios normos skelbiamos viešai. Jos taikomos
-daugiabučiuose namuose, kurių šildymo ir (ar) karšto vandens sistemos
-neatitinka privalomųjų reikalavimų. Šilumos tiekėjas neturi
-teisės reikalauti, kad tokių namų butų ir kitų patalpų savininkai mokėtų už
-suvartotos šilumos kiekį, viršijantį maksimalias šilumos
-suvartojimo normas. Daugiabučio namo butų ir kitų patalpų savininkų prašymu
-Valstybinė energetikos inspekcija prie Energetikos ministerijos nustato, ar
-namų šildymo ir karšto vandens sistemos atitinka privalomuosius reikalavimus.
-2. Savivaldybės institucija, remdamasi Vyriausybės parvirtinta daugiabučių namų
-modernizavimo finansavimo programa, turi teisę įpareigoti daugiabučio namo,
-kuriame buvo viršyta maksimali šilumos suvartojimo norma, butų ir kitų patalpų
-savininkus Vyriausybės nustatyta tvarka rekonstruoti namo šildymo ir (ar)
-karšto vandens sistemą pagal privalomuosius reikalavimus. Įpareigojimo butų ir
-kitų patalpų savininkams terminas negali būti trumpesnis kaip 18 mėnesių.
-3. Butų ir kitų
-patalpų savininkams per nustatytą laiką neįvykdžius šio straipsnio 2 dalyje
-nustatyto savivaldybės įpareigojimo, savivaldybė įgyja teisę nebetaikyti šiam
-daugiabučiam namui maksimalių šilumos suvartojimo normų.
+maksimalias šilumos suvartojimo daugiabučių namų butams ir kitoms patalpoms
+šildyti normas. Šios normos skelbiamos viešai. Jos taikomos daugiabučiuose
+namuose, kurie energiją vartoja neefektyviai ir neatitinka privalomųjų energijos
+vartojimo efektyvumo reikalavimų. Vyriausybės įgaliota institucija nustato, ar
+daugiabučiame name energija vartojama efektyviai ir (ar) yra tenkinami
+privalomieji energijos vartojimo efektyvumo reikalavimai. 
+2. Savivaldybės
+institucija gali nustatyti ir griežtesnes maksimalias šilumos suvartojimo daugiabučių namų
+butams ir kitoms patalpoms šildyti normas negu Valstybinės kainų ir
+energetikos kontrolės komisijos nustatytosios, jeigu, įgyvendinus energijos
+vartojimo efektyvumo didinimo priemones, sutaupomos išlaidos šilumos energijai
+padengs vartotojų investicijų šilumos energijos taupymo priemonėms sąnaudas. Išlaidos šilumos
+energijai, sutaupomos įgyvendinus
+energijos vartojimo efektyvumo didinimo priemones, nustatomos vadovaujantis
+Energetikos ministerijos ir Aplinkos ministerijos patvirtinta tvarka.
+3.
+Savivaldybės institucija turi teisę įpareigoti daugiabučio namo, kuriame buvo
+viršyta maksimali šilumos suvartojimo norma, butų ir kitų patalpų savininkus
+Vyriausybės nustatyta tvarka per 24 mėnesius rekonstruoti namo šildymo ir (ar)
+karšto vandens sistemas pagal privalomuosius reikalavimus ir (ar) atlikti kitus
+daugiabučio namo atnaujinimo (modernizavimo) darbus ir tokiu būdu užtikrinti
+daugiabučio namo atitiktį minimaliems pastatų energinio naudingumo
+reikalavimams.
+4.
+Daugiabučių namų butų ir (ar) kitų patalpų savininkai turi teisę Vyriausybės
+nustatyta tvarka gauti paramą iš Daugiabučių namų atnaujinimo (modernizavimo)
+programos ir kitų lėšų šio straipsnio 3 dalyje nustatytam įpareigojimui
+įgyvendinti.
 Straipsnio pakeitimai:
 Nr.
 XI-133, 2009-01-12, Žin., 2009, Nr.
 10-355 (2009-01-27)
+Nr.
+XII-152,
+2013-01-17, Žin., 2013, Nr. 11-496 (2013-01-30)
  
 34
 straipsnis. Šilumos
@@ -1525,13 +1537,11 @@ gamybos ir šilumos perdavimo sąnaudų apskaitą. Jeigu šilumos tiekėjas pri�
 įtraukiamos į apskaitą atskirai.
 3. Šilumos tiekėjų informacija,
 susijusi su jų licencijuojama veikla ar veikla, kurios kainos reguliuojamos,
-yra vieša. Valstybės ir savivaldybės institucijos, įstatymų nustatyta tvarka
-atlikdamos joms pavestas funkcijas, turi teisę gauti iš šilumos ar karšto
-vandens tiekėjų ir pastato šildymo bei karšto vandens sistemos prižiūrėtojų
-visus finansinės atskaitomybės ir kitus dokumentus, susijusius su jų
-reguliuojama veikla. Šilumos
-tiekėjų duomenys apie šilumos gamybos ir šilumos perdavimo sąnaudas skelbiami
-viešai.
+yra vieša. Valstybės ir savivaldybės institucijos, įstatymų nustatyta tvarka atlikdamos
+joms pavestas funkcijas, turi teisę gauti iš šilumos ar karšto vandens tiekėjų
+ir pastato šildymo bei karšto vandens sistemos prižiūrėtojų visus finansinės
+atskaitomybės ir kitus dokumentus, susijusius su jų reguliuojama veikla. Šilumos tiekėjų duomenys apie
+šilumos gamybos ir šilumos perdavimo sąnaudas skelbiami viešai.
  
 35
 straipsnis. Investicinių planų derinimas
@@ -1579,21 +1589,19 @@ kaip šio turto vertės padidėjimas per valdymo laikotarpį, pridedant sutartim
 perduotus su šiuo turtu susijusius finansinius įsipareigojimus, kuriuos pagal
 šią sutartį turėjo apmokėti valdymą perėmęs subjektas, ir neatsižvelgiant į
 turto vertės padidėjimą dėl jo indeksavimo valdymo perdavimo laikotarpiu. 
-6.
-Reorganizuojant ar privatizuojant savivaldybių kontroliuojamus šilumos
-tiekėjus, savivaldybės užtikrina, kad jų kontroliuojamoms įmonėms nuosavybės
-teise priklausytų šilumos perdavimo tinklai, kuriais realizuojama ne mažiau
-kaip 10 GWh per metus šilumos ir ne mažiau kaip 30 procentų šilumos vartotojų
-poreikiams patenkinti reikalingų šilumos gamybos pajėgumų kiekviename tinkle,
-įskaitant reikalingą šiluminės galios rezervą.
+6. Reorganizuojant
+ar privatizuojant savivaldybių kontroliuojamus šilumos tiekėjus, savivaldybės
+užtikrina, kad jų kontroliuojamoms įmonėms nuosavybės teise priklausytų šilumos
+perdavimo tinklai, kuriais realizuojama ne mažiau kaip 10 GWh per metus šilumos
+ir ne mažiau kaip 30 procentų šilumos vartotojų poreikiams patenkinti
+reikalingų šilumos gamybos pajėgumų kiekviename tinkle, įskaitant reikalingą
+šiluminės galios rezervą.
 Straipsnio pakeitimai:
 Nr. XI-592,
 2009-12-21, Žin., 2010, Nr. 1-6 (2010-01-05)
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
- 
- 
  
 
 
@@ -1618,10 +1626,10 @@ Nauja įstatymo
 redakcija nuo 2008 m. sausio 1 d.
 Šio įstatymo 2 straipsnio 2 dalis
 įsigalioja nuo 2007 m. gruodžio 11 d.
-Keičiamo Šilumos ūkio įstatymo 15 straipsnio
-1 dalies septintame sakinyje išdėstyta nuostata „tik jeigu tiekėjai įvykdė
-visas savo prievoles sutvarkyti karšto vandens apskaitą tame name“ įsigalioja
-2008 m. gegužės 1 d.
+Keičiamo Šilumos ūkio įstatymo 15
+straipsnio 1 dalies septintame sakinyje išdėstyta nuostata „tik jeigu tiekėjai
+įvykdė visas savo prievoles sutvarkyti karšto vandens apskaitą tame name“
+įsigalioja 2008 m. gegužės 1 d.
  
 2.
 Lietuvos
@@ -1636,8 +1644,8 @@ PAKEITIMO ĮSTATYMAS
 įstatymas įsigalioja 2009 m. vasario 1 d. 
  
 3.
-Lietuvos Respublikos
-Seimas, Įstatymas
+Lietuvos
+Respublikos Seimas, Įstatymas
 Nr. XI-250,
 2009-05-12, Žin., 2009, Nr. 61-2402 (2009-05-26)
 ŠILUMOS ŪKIO
@@ -1659,8 +1667,8 @@ Nr. XI-592,
  
 5.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-862,
-2010-06-01, Žin., 2010, Nr. 65-3196 (2010-06-05)
+Nr. XI-862, 2010-06-01,
+Žin., 2010, Nr. 65-3196 (2010-06-05)
 ŠILUMOS ŪKIO ĮSTATYMO 10 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
  
@@ -1715,11 +1723,20 @@ XI-2339,
 Šis įstatymas įsigalioja 2014 m.
 sausio 1 d.
  
+11.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XII-152,
+2013-01-17, Žin., 2013, Nr. 11-496 (2013-01-30)
+ŠILUMOS
+ŪKIO ĮSTATYMO 33 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2012-11-20)
+Aušrinė Trapinskienė (2013-01-30)
                  
 ausrine.trapinskiene@lrs.lt
