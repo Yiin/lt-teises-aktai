@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.769B541DD7F7"
 
 # Lietuvos Respublikos ūkininko ūkio įstatymas
 
-Suvestinė redakcija nuo 2011-09-01 iki 2013-02-28
+Suvestinė redakcija nuo 2013-03-01 iki 2017-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 43-1358, i. k. 0991010ISTAIII-1159
  
@@ -158,7 +158,9 @@ ANTRASIS SKIRSNIS
 
 
 
-3. Ūkininko ir jo partnerių turto valdymą ir naudojimą nustato Civilinis kodeksas.
+3. Ūkininko ir jo partnerių turto valdymą, naudojimą ir disponavimą juo nustato Lietuvos Respublikos civilinis kodeksas. Ūkininko bankroto proceso metu ūkininko turto valdymui, naudojimui ir disponavimui juo taikomas ir Lietuvos Respublikos fizinių asmenų bankroto įstatymas.
+Straipsnio dalies pakeitimai:
+Nr. XI-2004, 2012-05-10, Žin., 2012, Nr. 57-2827 (2012-05-19), i. k. 1121010ISTA0XI-2004
  
 
 
@@ -512,3 +514,8 @@ Lietuvos Respublikos ūkininko ūkio įstatymo 3 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1510, 2011-06-23, Žin., 2011, Nr. 86-4152 (2011-07-13), i. k. 1111010ISTA0XI-1510
 Lietuvos Respublikos ūkininko ūkio įstatymo 10 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2004, 2012-05-10, Žin., 2012, Nr. 57-2827 (2012-05-19), i. k. 1121010ISTA0XI-2004
+Lietuvos Respublikos ūkininko ūkio įstatymo 5 straipsnio pakeitimo įstatymas
