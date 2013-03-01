@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS FIZINIŲ ASMENŲ BANKROTO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2012-05-19 iki 2013-02-28
+Suvestinė redakcija nuo 2013-03-01 iki 2013-04-03
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 57-2823, i. k. 1121010ISTA0XI-2000
  
