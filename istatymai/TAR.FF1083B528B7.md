@@ -26,7 +26,7 @@ LIETUVOS RESPUBLIKOS
 SAUGOMŲ TERITORIJŲ 
 ĮSTATYMAS
  
-1993 m. lapkričio 9 d. Nr.I-301
+1993 m. lapkričio 9 d. Nr. I-301
 Vilnius
  
  
@@ -673,12 +673,12 @@ neveikiančios kapinės ar jų dalys, karių kapinės, sukilėlių, partizanų, 
 okupantams dalyvių (rezistentų), žymių visuomenės, kultūros, valstybės veikėjų
 kapai, laidojimo vietos;
 3) architektūriniai / inžineriniai – reikšmingais pripažinti
-gyvenamieji bei negyvenamieji pastatai, jų dalys ir priklausiniai, pastatų
-kompleksai bei ansambliai, dvarų parkai, kitos vientisos architektūrinės
-kompozicijos ryšiais susietos statinių ir kitų kūrinių grupės bei vietos, taip
-pat reikšmingais pripažinti inžineriniai techniniai statiniai: tiltai,
-tuneliai, užtvankos, malūnai, melioracijos įrenginiai, malūnų ar kitokia
-gamybinė ar technologinė įranga;
+gyvenamieji bei negyvenamieji pastatai, jų dalys ir priklausiniai, pastatų kompleksai
+bei ansambliai, dvarų parkai, kitos vientisos architektūrinės kompozicijos
+ryšiais susietos statinių ir kitų kūrinių grupės bei vietos, taip pat
+reikšmingais pripažinti inžineriniai techniniai statiniai: tiltai, tuneliai,
+užtvankos, malūnai, melioracijos įrenginiai, malūnų ar kitokia gamybinė ar
+technologinė įranga;
 4) dailės – reikšmingais pripažinti monumentaliosios dailės
 kūriniai, koplytėlės, koplytstulpiai, stogastulpiai, monumentalūs kryžiai,
 memorialiniai statiniai ir kiti dailės kūriniai, tiesiogiai susiję su jų
@@ -769,17 +769,6 @@ reglamentavimo dokumentai.
 2. Valstybiniuose parkuose draudžiama arba ribojama veikla,
 galinti pakenkti saugomiems kompleksams ir objektams (vertybėms), taip pat
 rekreaciniams ištekliams. Valstybiniuose parkuose draudžiama:
-1) rengti naujus naudingųjų iškasenų
-karjerus ir šachtas, taip pat naujus gręžinius naftos ir dujų žvalgybai bei
-gavybai, statyti pramonės įmones, kurioms reikalingi taršos integruotos
-prevencijos ir kontrolės leidimai, aerodromus, vėjo jėgaines, išskyrus
-atstatomus vėjo malūnus, tiesti tranzitinius inžinerinius tinklus, keisti
-reljefo formas, hidrografinio tinklo natūralius elementus, naikinti ir keisti
-istoriškai susiformavusio kultūrinio kraštovaizdžio pobūdžio, urbanistinių ir
-architektūrinių jo elementų bei kitų saugomų kompleksų ir objektų (vertybių)
-vertės požymius;
-1
-punkto redakcija nuo 2013-03-01:
 1) statyti pramonės įmones, kurioms reikalingi taršos
 integruotos prevencijos ir kontrolės leidimai, aerodromus, vėjo jėgaines,
 išskyrus atstatomus vėjo malūnus, tiesti antžeminius tranzitinius
@@ -793,7 +782,6 @@ suderinus su valstybinio parko direkcija Vyriausybės ar jos įgaliotų
 institucijų nustatyta tvarka, įrengiamą ne daugiau kaip vieną iki 0,2 ha
 ploto smėlio ar žvyro mažąjį karjerą, skirtą žemės savininko ar naudotojo žemės
 sklype esančių naudingųjų iškasenų naudojimui savo ūkio reikmėms;
- 
 2) mechaniškai ardyti natūralių pelkių
 augalinę dangą, kasti jose durpes, taip pat sausinti ir keisti į žemės ūkio
 naudmenas bei vandenis aukštapelkes, tarpinio tipo pelkes ir jų apypelkius bei
@@ -830,8 +818,7 @@ Leistinas ir rekomenduojamas statinių formas, dydžius, teritorijos užstatymo
 procentą, atstumus nuo vandens telkinių ir šlaitų nustato valstybinių parkų
 individualūs apsaugos reglamentai ir (ar) statybų saugomose teritorijose
 regioniniai architektūriniai reglamentai. Juose gali būti sugriežtinti šio
-straipsnio 2 dalyje išvardyti reikalavimai bei nustatyti papildomi
-reikalavimai.
+straipsnio 2 dalyje išvardyti reikalavimai bei nustatyti papildomi reikalavimai.
 4. Valstybiniuose parkuose esantys miestai ir miesteliai tvarkomi
 pagal parengtus ir patvirtintus jų bendruosius bei detaliuosius planus, kurių
 sprendiniai neprieštarauja valstybinių parkų tvarkymo planų (planavimo schemų)
@@ -911,9 +898,9 @@ išlaikyti.
 Veiklos atkuriamuosiuose ir genetiniuose sklypuose reglamentavimas
 1.
 Atkuriamuosiuose ir genetiniuose sklypuose ribojama veikla, mažinanti gamtos
-išteklius, taip pat naudingųjų iškasenų eksploatavimas, žemės, miškų, vandenų, kito
-nekilnojamojo turto naudojimas bei nustatytų naudojimo būdų keitimas. Veiklos
-ribojimo pobūdį ir mastą nustato šių teritorijų nuostatai.
+išteklius, taip pat naudingųjų iškasenų eksploatavimas, žemės, miškų, vandenų,
+kito nekilnojamojo turto naudojimas bei nustatytų naudojimo būdų keitimas.
+Veiklos ribojimo pobūdį ir mastą nustato šių teritorijų nuostatai.
 2.
 Atkuriamųjų ir genetinių sklypų nuostatus tvirtina Vyriausybės įgaliota
 institucija.
@@ -944,10 +931,10 @@ ir valstybinių draustinių, paveldo objektų buferinės apsaugos zonos;
 3) fizinės apsaugos – paveldo objektų, valstybinio geodezinio
 pagrindo punktų, elektros linijų, dujotiekių ir naftotiekių, ryšių linijų bei
 kitų infrastruktūros objektų fizinės apsaugos zonos;
-4) vizualinės (regimosios) apsaugos – paveldo objektų,
-astronomijos observatorijų, aerodromų bei kitų infrastruktūros objektų
-vizualinės (regimosios) apsaugos zonos; tai plotai, kuriuose aplinkos keitimas
-gali pakenkti šių objektų aplinkai ar trukdyti juos apžvelgti;
+4) vizualinės (regimosios) apsaugos – paveldo objektų, astronomijos
+observatorijų, aerodromų bei kitų infrastruktūros objektų vizualinės
+(regimosios) apsaugos zonos; tai plotai, kuriuose aplinkos keitimas gali
+pakenkti šių objektų aplinkai ar trukdyti juos apžvelgti;
 5) sanitarinės apsaugos – gamybinių ir komunalinių objektų, žemės
 ūkio įmonių bei kitų ūkio ir infrastruktūros objektų sanitarinės apsaugos
 zonos;
@@ -976,8 +963,7 @@ taip pat draustiniuose esantiems paveldo objektams buferinės apsaugos zonos
 nenustatomos.
 2. Buferinės apsaugos zonos nustatomos tvirtinant
 saugomų teritorijų specialiojo planavimo dokumentus (ribų planus).
-3. Gamtinių rezervatų buferinėse apsaugos zonose
-draudžiama:
+3. Gamtinių rezervatų buferinėse apsaugos zonose draudžiama:
 1) įrengti naujus naudingųjų iškasenų karjerus;
 2) keisti hidrologinį režimą;
 3) naudoti trąšas ir pesticidus ne žemės ūkio
@@ -1013,10 +999,10 @@ statinius, jeigu jie blogina paveldo objektų eksponavimo sąlygas, didina
 teritorijos vizualią (regimąją) taršą. Valstybinių parkų buferinės apsaugos
 zonų hidrologinės įtakos dalyse gali būti nustatyti bendrieji ekologinės
 apsaugos pazoniai.
-8. Atskiroms kultūros paveldo objektų (nekilnojamųjų
-kultūros vertybių) rūšims pagal Vyriausybės patvirtintas taisykles yra
-nustatomi fizinės bei regimosios (vizualinės) apsaugos pozoniai, kurių tvarkymo
-režimas nustatomas pagal Nekilnojamųjų kultūros vertybių apsaugos įstatymo
+8. Atskiroms kultūros paveldo objektų (nekilnojamųjų kultūros
+vertybių) rūšims pagal Vyriausybės patvirtintas taisykles yra nustatomi fizinės
+bei regimosios (vizualinės) apsaugos pozoniai, kurių tvarkymo režimas
+nustatomas pagal Nekilnojamųjų kultūros vertybių apsaugos įstatymo
 reikalavimus.
 Straipsnio
 pakeitimai:
@@ -1066,8 +1052,8 @@ kultūrinių pievų atsėjimą, arčiau kaip 2 metrai nuo kranto ganyti gyvulius
 4) statyti autotransporto priemones arčiau
 kaip 25 metrai nuo vandens telkinio kranto.
 5. Pakrantės apsaugos juostoje leidžiama
-statyti tik hidrotechninius statinius, vandens paėmimo ir išleidimo į vandens telkinius
-įrenginius, vandenvietes, tiltus, prieplaukas, rekreacinėse zonose – 
+statyti tik hidrotechninius statinius, vandens paėmimo ir išleidimo į vandens
+telkinius įrenginius, vandenvietes, tiltus, prieplaukas, rekreacinėse zonose – 
 paplūdimių įrangą, jachtų ir valčių elingus, kitus rekreacinius įrenginius,
 draustiniuose – su draustinio steigimo tikslais susijusius statinius.
 6. Esamose sodybose už pakrantės apsaugos juostos ribų, teritorijų
@@ -1102,8 +1088,8 @@ teritorijas;
 3) saugoti gamtinį kraštovaizdį ir
 gamtinius rekreacinius išteklius;
 4) didinti šalies miškingumą;
-5) optimizuoti kraštovaizdžio urbanizacijos
-bei technogenizacijos ir žemės ūkio plėtrą.
+5) optimizuoti kraštovaizdžio
+urbanizacijos bei technogenizacijos ir žemės ūkio plėtrą.
  
 22 straipsnis. Gamtinio karkaso sudėtis
 ir nustatymas
@@ -1784,31 +1770,92 @@ valstybinė žemė, miškai, vandenys, krūmai, pelkės, akmenynai ir kita
 nenaudojama žemė neparduodama, išskyrus namų valdų, asmeninio ūkio ir sodininkų
 bendrijų žemę bei iki 5 hektarų ploto sklypus, įsiterpusius į žemės ūkio
 naudmenas ir esančius tarp privačios žemės valdų. 
-8. Saugomose teritorijose draudžiama keisti pagrindinę tikslinę
-konservacinę ir miškų ūkio žemės naudojimo paskirtį, išskyrus atvejus, kai tai
-daroma visuomenės poreikiams arba siekiant išsaugoti gamtos ir kultūros paveldo
-kompleksus ir objektus (vertybes). Pagrindinė tikslinė žemės naudojimo
-paskirtis saugomose teritorijose keičiama tik tuo atveju, jeigu tai neprieštarauja
-patvirtintiems saugomų teritorijų tvarkymo planų (planavimo schemų)
-sprendiniams ir reglamentams.
-9. Valstybiniuose draustiniuose ir valstybiniuose parkuose
-privačios nuosavybės teise priklausančio žemės sklypo neleidžiama dalyti
-dalimis, parduodant, išnuomojant, atidalijant, įkeičiant, dovanojant, išskyrus
-atvejus, kai keičiamos gretimų sklypų ribos.
-10. Paveldo objektai ir jų teritorijų žemė yra valstybinė ir (ar)
+8.
+Valstybiniuose rezervatuose draudžiama keisti pagrindinę konservacinę žemės
+naudojimo paskirtį. Valstybiniuose draustiniuose, valstybiniuose parkuose,
+biosferos rezervatuose ir biosferos poligonuose draudžiama keisti pagrindinę
+konservacinę ir miškų ūkio žemės naudojimo paskirtį, taip pat paversti miško
+žemę kitomis naudmenomis, išskyrus atvejus, kai:
+1) tai daroma
+reikmėms, susijusioms su šių saugomų teritorijų apsauga, tvarkymu, pritaikymu
+visuomenės poreikiams ir naudojimu rekreacijai, jeigu tai numatyta šių saugomų
+teritorijų planavimo dokumentuose ir neprieštarauja šių saugomų teritorijų
+nuostatams;
+2) atidalijama
+miškų ūkio paskirties žemės sklypo dalis, kurioje leidžiama atstatyti buvusią
+sodybą arba kurioje yra teisėtai pastatytas gyvenamasis namas ar gyvenamasis
+namas kartu su jo priklausiniais, Nekilnojamojo turto registre įregistruotas
+kaip atskiras nekilnojamojo turto objektas (pagrindinis daiktas).
+9. Valstybiniuose
+draustiniuose privačios nuosavybės teise priklausančio žemės sklypo neleidžiama
+dalyti dalimis, jeigu po padalijimo (atidalijimo) bent viena sklypo dalis tampa
+mažesnė kaip 7 hektarai, o besiribojančių su vandens telkiniu žemės sklypų
+pakrančių ilgis – mažesnis kaip 50 metrų, išskyrus atvejus, kai:
+1) žemės sklypo
+dalis atidalijama visuomenės poreikiams reikalingiems inžineriniams statiniams
+statyti;
+2) pagal Miškų įstatymo nustatytas sąlygas atidalijama
+miškų ūkio paskirties žemės sklypo dalis buvusiai sodybai atstatyti;
+3) atidalijama miškų ūkio paskirties žemės sklypo
+dalis, kurioje yra teisėtai pastatytas gyvenamasis namas arba gyvenamasis namas
+kartu su jo priklausiniais, Nekilnojamojo turto registre įregistruotas kaip
+atskiras nekilnojamojo turto objektas (pagrindinis daiktas), formuojant
+atskirus žemės sklypus – miškų ūkio paskirties žemės sklypą ir kitos paskirties
+žemės sklypą, kuris formuojamas gyvenamajam namui kartu su jo priklausiniais,
+Nekilnojamojo turto registre įregistruotam kaip atskiras nekilnojamojo turto
+objektas (pagrindinis daiktas), eksploatuoti.
+10.
+Valstybiniuose parkuose privačios nuosavybės teise priklausančio žemės sklypo
+neleidžiama dalyti dalimis, jeigu po padalijimo (atidalijimo) bent viena sklypo
+dalis tampa mažesnė kaip 7 hektarai, o besiribojančių su vandens telkiniu žemės
+sklypų pakrančių ilgis – mažesnis kaip 50 metrų, išskyrus atvejus, kai:
+1)
+žemės sklypo dalis atidalijama visuomenės poreikiams reikalingiems statiniams,
+įskaitant inžinerinius statinius, statyti;
+2)
+žemės sklypai yra gyvenamosios paskirties funkcinio prioriteto zonoje, kurioje
+valstybinių parkų tvarkymo planuose (planavimo schemose) numatyta nauja
+statyba, arba kai nauja statyba numatyta savivaldybių teritorijų ar jų dalių
+(miestų ar miestelių) bendruosiuose planuose, kurių sprendiniai neprieštarauja
+valstybinių parkų tvarkymo planų (planavimo schemų) sprendiniams;
+3) žemės sklypas
+yra skirtingo funkcinio prioriteto zonose ir vienoje iš jų valstybinių parkų
+tvarkymo planuose (planavimo schemose) numatyta statybų galimybė;
+4) pagal Miškų
+įstatymo nustatytas sąlygas atidalijama miškų ūkio paskirties žemės sklypo
+dalis buvusiai sodybai atstatyti;
+5) atidalijama
+miškų ūkio paskirties žemės sklypo dalis, kurioje yra teisėtai pastatytas
+gyvenamasis namas arba gyvenamasis namas kartu su jo priklausiniais,
+Nekilnojamojo turto registre įregistruotas kaip atskiras nekilnojamojo turto
+objektas (pagrindinis daiktas), formuojant atskirus žemės sklypus – miškų ūkio
+paskirties žemės sklypą ir kitos paskirties žemės sklypą, kuris formuojamas
+gyvenamajam namui kartu su jo priklausiniais, Nekilnojamojo turto registre
+įregistruotam kaip atskiras nekilnojamojo turto objektas (pagrindinis daiktas),
+eksploatuoti.
+11.
+Šio straipsnio 9 ir 10 dalyse nustatyti apribojimai dalyti dalimis privačios
+nuosavybės teise priklausančius žemės sklypus valstybiniuose draustiniuose ir
+valstybiniuose parkuose netaikomi, kai keičiamos gretimų žemės sklypų ribos.
+Šios ribos keičiamos neatsižvelgiant į žemės sklypų pagrindinę žemės naudojimo
+paskirtį, prie šių žemės sklypų prijungiant jų paskirtį atitinkančias žemės
+naudmenas.
+12. Paveldo objektai ir jų teritorijų žemė yra valstybinė ir (ar)
 privati nuosavybė. Paveldo objektai gali būti perleidžiami privačion nuosavybėn
 tik nustačius apsaugos ir naudojimo režimą.
 Straipsnio
 pakeitimai:
 Nr. XI-1310,
 2011-04-12, Žin., 2011, Nr. 49-2365 (2011-04-28)
+Nr. XII-214,
+2013-03-28, Žin., 2013, Nr. 36-1726 (2013-04-06)
  
 32 straipsnis.
 Žemės savininkų, valdytojų bei naudotojų teisės ir pareigos saugomose
 teritorijose
-1. Žemės ir kito nekilnojamojo turto savininkai, valdytojai bei
-naudotojai turi Žemės įstatymo ir kitų įstatymų nustatytas teises. Šiomis
-teisėmis jie gali naudotis tiek, kiek jos neprieštarauja šiam Įstatymui.
+1. Žemės ir kito nekilnojamojo turto savininkai, valdytojai bei naudotojai
+turi Žemės įstatymo ir kitų įstatymų nustatytas teises. Šiomis teisėmis jie
+gali naudotis tiek, kiek jos neprieštarauja šiam Įstatymui.
 2. Žemės savininkai, valdytojai bei naudotojai, kurių žemės
 valdose numatoma steigti saugomą teritoriją, keisti esamų saugomų teritorijų
 statusą, nustatyti apribojimus arba pakeisti esamus, apie tai turi teisę gauti
@@ -2001,8 +2048,15 @@ SAUGOMŲ TERITORIJŲ ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas, išskyrus šio
 straipsnio 2 dalį, įsigalioja 2013 m. kovo 1 d.
  
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-214,
+2013-03-28, Žin., 2013, Nr. 36-1726 (2013-04-06)
+SAUGOMŲ TERITORIJŲ ĮSTATYMO 31 STRAIPSNIO PAKEITIMO IR PAPILDYMO
+ĮSTATYMAS
  
 *** Pabaiga ***
  
-Redagavo Aušrinė Trapinskienė (2013-01-16)
+ 
+Redagavo Aušrinė Trapinskienė (2013-04-08)
                   ausrine.trapinskiene@lrs.lt
