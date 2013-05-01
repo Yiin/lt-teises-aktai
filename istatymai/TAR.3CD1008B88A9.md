@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3CD1008B88A9"
 
 # Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas
 
-Suvestinė redakcija nuo 2011-07-01 iki 2013-04-30
+Suvestinė redakcija nuo 2013-05-01 iki 2015-03-27
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 116-2695, i. k. 0961010ISTA00I-1623
  
@@ -1440,7 +1440,10 @@ Sprendimą dėl priimančiosios šalies paramos teikimo užduočių ir sutarči�
 
 
 
-2. Komitetą sudaro krašto apsaugos ministras (Komiteto vadovas), Lietuvos kariuomenės atstovas (Komiteto vadovo pavaduotojas), Krašto apsaugos ministerijos, kitų ministerijų, Ministro Pirmininko tarnybos atstovai ir Mobilizacijos departamento direktorius.
+2. Komitetą sudaro krašto apsaugos ministras (Komiteto vadovas), Lietuvos kariuomenės atstovas (Komiteto vadovo pavaduotojas), Krašto apsaugos ministerijos, kitų ministerijų, Vyriausybės kanceliarijos atstovai ir Mobilizacijos departamento direktorius. 
+Straipsnio dalies pakeitimai:
+Nr. XII-163, 2013-01-17, Žin., 2013, Nr. 11-507 (2013-01-30), i. k. 1131010ISTA0XII-163
+ 
 
 
 
@@ -1450,7 +1453,10 @@ Sprendimą dėl priimančiosios šalies paramos teikimo užduočių ir sutarči�
 
 
 
-4. Priimančiosios šalies paramai organizuoti krašto apsaugos ministras savo iniciatyva gali sudaryti priimančiosios šalies paramos valdymo grupę (toliau – grupė) iš Lietuvos kariuomenės, Mobilizacijos departamento, kitų krašto apsaugos sistemos institucijų ar Krašto apsaugos ministerijos administracijos padalinių atstovų ir atvykstančių pajėgų ar jų vadų deleguotų ryšio karininkų. Į grupę taip pat gali būti skiriami kitų ministerijų ar Ministro Pirmininko tarnybos įgalioti atstovai.
+4. Priimančiosios šalies paramai organizuoti krašto apsaugos ministras savo iniciatyva gali sudaryti priimančiosios šalies paramos valdymo grupę (toliau – grupė) iš Lietuvos kariuomenės, Mobilizacijos departamento, kitų krašto apsaugos sistemos institucijų ar Krašto apsaugos ministerijos administracijos padalinių atstovų ir atvykstančių pajėgų ar jų vadų deleguotų ryšio karininkų. Į grupę taip pat gali būti skiriami kitų ministerijų ar Vyriausybės kanceliarijos įgalioti atstovai.
+Straipsnio dalies pakeitimai:
+Nr. XII-163, 2013-01-17, Žin., 2013, Nr. 11-507 (2013-01-30), i. k. 1131010ISTA0XII-163
+ 
 
 
 
@@ -1631,3 +1637,8 @@ Lietuvos Respublikos mobilizacijos ir mobilizacinio rezervo rengimo įstatymo 7 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1413, 2011-05-26, Žin., 2011, Nr. 72-3464 (2011-06-14), i. k. 1111010ISTA0XI-1413
 Lietuvos Respublikos mobilizacijos ir mobilizacinio rezervo rengimo įstatymo pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-163, 2013-01-17, Žin., 2013, Nr. 11-507 (2013-01-30), i. k. 1131010ISTA0XII-163
+Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo 28 straipsnio pakeitimo įstatymas
