@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.07CAE5E6C2B3"
 
 # Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymas
 
-Suvestinė redakcija nuo 2011-10-27 iki 2013-04-30
+Suvestinė redakcija nuo 2013-05-01 iki 2018-04-29
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 132-0; Žin. 1991, Nr.20-517, i. k. 0911010ISTA00I-1497
  
@@ -878,7 +878,10 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-3) Lietuvos Respublikos Vyriausybėje – Ministro Pirmininko kancleris;
+3) Lietuvos Respublikos Vyriausybėje – Vyriausybės kancleris;
+Straipsnio punkto pakeitimai:
+Nr. XII-159, 2013-01-17, Žin., 2013, Nr. 11-503 (2013-01-30), i. k. 1131010ISTA0XII-159
+ 
 
 
 
@@ -1017,3 +1020,8 @@ Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo 2, 5, 18 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1621, 2011-10-13, Žin., 2011, Nr. 129-6110 (2011-10-27), i. k. 1111010ISTA0XI-1621
 Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo 2, 3, 5, 16, 17, 18 straipsnių, šeštojo skirsnio pavadinimo pakeitimo ir papildymo ir 14, 15 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-159, 2013-01-17, Žin., 2013, Nr. 11-503 (2013-01-30), i. k. 1131010ISTA0XII-159
+Lietuvos Respublikos valstybės vėliavos ir kitų vėliavų įstatymo 18 straipsnio pakeitimo įstatymas
