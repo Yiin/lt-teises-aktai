@@ -20,6 +20,10 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS INFORMACINIŲ IŠTEKLIŲ VALDYMO ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2013-05-01 iki 2014-12-31
+ 
+Įstatymas paskelbtas: Žin. 2011, Nr. 163-7739, i. k. 1111010ISTA0XI-1807
+ 
 LIETUVOS RESPUBLIKOS 
 VALSTYBĖS INFORMACINIŲ IŠTEKLIŲ VALDYMO 
 ĮSTATYMAS
@@ -532,7 +536,10 @@ VALSTYBĖS INFORMACINIŲ IŠTEKLIŲ VALDYMO FUNKCIJOS
 7 straipsnis. Valstybės informacinių išteklių valdymo taryba
 
 
-1. Valstybės informacinių išteklių valdymo taryba yra kolegialus patariamasis organas, ją sudaro valstybės informacinių išteklių politiką formuojančių institucijų, Ministro Pirmininko tarnybos, Lietuvos Respublikos Seimo kanceliarijos (toliau – Seimas), Respublikos Prezidento kanceliarijos, Nacionalinės teismų administracijos, Lietuvos savivaldybių asociacijos ir kiti atstovai, kompetentingi informacinių ir ryšių technologijų srityje. Valstybės informacinių išteklių valdymo tarybos narių skaičių, personalinę sudėtį ir jos veiklos reglamentą tvirtina Vyriausybė.
+1. Valstybės informacinių išteklių valdymo taryba yra kolegialus patariamasis organas, ją sudaro valstybės informacinių išteklių politiką formuojančių institucijų, Vyriausybės kanceliarijos, Lietuvos Respublikos Seimo kanceliarijos (toliau – Seimas), Respublikos Prezidento kanceliarijos, Nacionalinės teismų administracijos, Lietuvos savivaldybių asociacijos ir kiti atstovai, kompetentingi informacinių ir ryšių technologijų srityje. Valstybės informacinių išteklių valdymo tarybos narių skaičių, personalinę sudėtį ir jos veiklos reglamentą tvirtina Vyriausybė.
+Straipsnio dalies pakeitimai:
+Nr. XII-165, 2013-01-17, Žin., 2013, Nr. 11-509 (2013-01-30), i. k. 1131010ISTA0XII-165
+ 
 
 
 
@@ -2424,3 +2431,15 @@ priedas
 
 
 1. 2003 m. lapkričio 17 d. Europos Parlamento ir Tarybos direktyva 2003/98/EB dėl viešojo sektoriaus informacijos pakartotinio naudojimo (OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 701).
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-165, 2013-01-17, Žin., 2013, Nr. 11-509 (2013-01-30), i. k. 1131010ISTA0XII-165
+Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 7 straipsnio pakeitimo įstatymas
