@@ -566,10 +566,6 @@ Nr. XI-111,
 2. Pajamų mokesčio 20 procentų tarifas
 taikomas pajamoms iš paskirstytojo pelno, išskyrus neribotos civilinės
 atsakomybės vieneto dalyvio iš šio vieneto gautas pajamas.
-Pastaba. 2 dalies nuostatos taikomos
-apskaičiuojant ir deklaruojant 2012 metų ir vėlesnių metų mokestinių
-laikotarpių pajamas.
- 
 3.
 Pajamų mokesčio 5 procentų tarifas taikomas individualios veiklos pajamoms,
 išskyrus pajamas iš laisvųjų profesijų veiklos ir pajamas iš vertybinių
@@ -601,20 +597,15 @@ moksleiviams ir studentams, taip pat bedarbiams, kurie nustatyta tvarka
 2) asmenims, įsigyjantiems verslo
 liudijimą verstis verslo liudijime nurodytos rūšies veikla visoje Lietuvos
 Respublikoje, išskyrus Alytaus, Kauno, Klaipėdos, Palangos, Panevėžio, Šiaulių,
-Vilniaus miestų savivaldybių ir Marijampolės bei Neringos savivaldybių teritorijas,
-arba konkrečios savivaldybės teritorijoje, išskyrus Alytaus, Kauno, Klaipėdos,
-Palangos, Panevėžio, Šiaulių, Vilniaus miestų savivaldybių ir Marijampolės bei
-Neringos savivaldybių teritorijas;
+Vilniaus miestų savivaldybių ir Marijampolės bei Neringos savivaldybių
+teritorijas, arba konkrečios savivaldybės teritorijoje, išskyrus Alytaus,
+Kauno, Klaipėdos, Palangos, Panevėžio, Šiaulių, Vilniaus miestų savivaldybių ir
+Marijampolės bei Neringos savivaldybių teritorijas;
 3) asmenims, įsigyjantiems verslo
 liudijimą verstis tradicinių amatų veikla;
 4) asmenims, kurie laikotarpiu, kuriam įsigyjamas verslo
 liudijimas, gauna su darbo santykiais ar jų esmę atitinkančiais santykiais
 susijusių pajamų.
-Pastaba.
-4 dalis taikoma
-nustatant 2012 metų ir vėlesnių mokestinių laikotarpių fiksuoto dydžio pajamų
-mokestį:
- 
 5. Gyventojas gali pasirinkti mokėti fiksuoto dydžio pajamų
 mokestį nuo individualios veiklos pajamų, jeigu jis neprivalo registruotis ir
 nėra įregistruotas pridėtinės vertės mokesčio mokėtoju. Šių sąlygų
@@ -627,10 +618,6 @@ jo dalį) sumokėto fiksuoto dydžio pajamų mokesčio dalis, proporcingai tenka
 tai mokestinio laikotarpio daliai, kai gyventojo individualios veiklos pajamos
 apmokestinamos taikant šio straipsnio 3 dalyje nustatytą pajamų mokesčio
 tarifą, įskaitoma į gyventojo nuo tų pajamų mokėtino pajamų mokesčio sumą.
-Pastaba. 5
-dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2012 metų ir vėlesnių
-mokestinių laikotarpių pajamas.
- 
 6.
 Gyventojas gali pasirinkti mokėti fiksuoto dydžio
 pajamų mokestį nuo nekilnojamojo pagal prigimtį daikto nuomos pajamų, jeigu
@@ -647,9 +634,6 @@ mokesčio dalis, proporcingai tenkanti tai mokestinio laikotarpio daliai, kai
 gyventojo nekilnojamojo pagal prigimtį daikto nuomos pajamos apmokestinamos
 taikant šio straipsnio 1 dalyje nustatytą pajamų mokesčio tarifą, įskaitoma į
 gyventojo nuo tų pajamų mokėtino pajamų mokesčio sumą.
-Pastaba. 6
-dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2012 metų ir vėlesnių
-mokestinių laikotarpių pajamas.
 Straipsnio
 pakeitimai:
 Nr. IX-1708,
@@ -668,8 +652,8 @@ Nr. X-746, 2006-07-04,
 Žin., 2006, Nr. 82-3249 (2006-07-27)
 Nr. X-1424,
 2008-01-18, Žin., 2008, Nr. 15-510 (2008-02-05)
-Nr. X-1485, 2008-04-10,
-Žin., 2008, Nr. 47-1750 (2008-04-24)
+Nr. X-1485,
+2008-04-10, Žin., 2008, Nr. 47-1750 (2008-04-24)
 Nr. XI-111,
 2008-12-23, Žin., 2008, Nr. 149-6033 (2008-12-30)
 Nr. XI-706,
@@ -714,9 +698,9 @@ valstybėje, faktiškai gautomis pajamomis laikoma visa pajamų suma,
 neatsižvelgiant į toje valstybėje nuo tų pajamų išskaičiuotą ir (arba) sumokėtą
 pajamų ar jam tapataus mokesčio sumą, arba 
 2)
-kai bet kokia forma išmokamos išmokos, jei pagal šį Įstatymą prievolė išskaičiuoti
-pajamų mokestį nuo gyventojo pajamų nustatyta mokestį išskaičiuojančiam
-asmeniui.
+kai bet kokia forma išmokamos išmokos, jei pagal šį Įstatymą prievolė
+išskaičiuoti pajamų mokestį nuo gyventojo pajamų nustatyta mokestį
+išskaičiuojančiam asmeniui.
 3.
 Mokestinio laikotarpio pozityviųjų pajamų gavimo momentu laikoma to mokestinio
 laikotarpio gruodžio 31 diena. 
@@ -848,10 +832,6 @@ paskirstytojo pelno laikomi dividendai, taip pat neribotos civilinės
 atsakomybės vieneto dalyvio pajamos iš šio vieneto, išskyrus neribotos
 civilinės atsakomybės vieneto dalyvio pajamų iš šio vieneto dalį, priskiriamą
 su darbo santykiais ar jų esmę atitinkančiais santykiais susijusioms pajamoms. 
-Pastaba. 1 dalies nuostatos taikomos
-apskaičiuojant ir deklaruojant 2012 metų ir vėlesnių metų mokestinių
-laikotarpių pajamas.
- 
 2. Dividendais laikomos ir skirstant vieneto
 pelną ar mažinant vieneto įstatinį kapitalą, sudarytą ne iš vieneto dalyvių
 įnašų, vieneto dalyvio gautos lėšos ir (arba) vieneto dalyviui perleisto turto
@@ -883,15 +863,15 @@ mokestinis laikotarpis nesutampa su kalendoriniais metais arba jis
 nenustatomas, laikoma, kad kontroliuojamojo užsienio vieneto mokestinis
 laikotarpis yra kalendoriniai metai. 
  
-13(1)
-straipsnis. Priskiriamų Europos ekonominių interesų grupės pajamų ir leidžiamų
-atskaitymų, priskiriant Europos ekonominių interesų grupės sąnaudas, nustatymas
-ir apmokestinimas
+13(1) straipsnis.
+Priskiriamų Europos ekonominių interesų grupės pajamų ir leidžiamų atskaitymų,
+priskiriant Europos ekonominių interesų grupės sąnaudas, nustatymas ir
+apmokestinimas
 1.
-Gyventojo individualios veiklos pajamoms ir leidžiamiems atskaitymams,
-susijusiems su individualios veiklos pajamų gavimu, priskiriamos Europos
-ekonominių interesų grupės pajamos ir sąnaudos apskaičiuojamos ta pačia tvarka
-kaip vienetui pagal Pelno mokesčio įstatymo 39(1)
+Gyventojo individualios veiklos pajamoms ir leidžiamiems atskaitymams, susijusiems
+su individualios veiklos pajamų gavimu, priskiriamos Europos ekonominių
+interesų grupės pajamos ir sąnaudos apskaičiuojamos ta pačia tvarka kaip
+vienetui pagal Pelno mokesčio įstatymo 39(1)
 straipsnio 1 ir 4 dalių nuostatas.
 2.
 Gyventojas (Europos ekonominių interesų grupės dalyvis) priskiria jam
@@ -905,13 +885,13 @@ Europos ekonominių interesų grupės sąnaudos, kurios pagal šio Įstatymo
 nuostatas priskiriamos leidžiamiems atskaitymams, susijusiems su individualios
 veiklos pajamų gavimu arba uždirbimu.
 4.
-Priskiriamos Europos ekonominių interesų grupės pajamos ir sąnaudos išreiškiamos
-litais pagal Lietuvos banko skelbiamą oficialų lito ir užsienio valiutos
-santykį, nustatytą pajamų ir sąnaudų priskyrimo dieną.
+Priskiriamos Europos ekonominių interesų grupės pajamos ir sąnaudos
+išreiškiamos litais pagal Lietuvos banko skelbiamą oficialų lito ir užsienio
+valiutos santykį, nustatytą pajamų ir sąnaudų priskyrimo dieną.
 Įstatymas
 papildytas straipsniu:
-Nr. IX-2103, 2004-04-08,
-Žin., 2004, Nr. 60-2118 (2004-04-24)
+Nr. IX-2103,
+2004-04-08, Žin., 2004, Nr. 60-2118 (2004-04-24)
 Straipsnio
 pakeitimai:
 Nr. XI-111,
@@ -984,10 +964,6 @@ Lietuvos gyventojo patirtos išlaidos (apskaičiuojant mokestinio laikotarpio
 apmokestinamąsias pajamas, kurioms taikomas šio Įstatymo 6 straipsnio
 1 dalyje nustatytas pajamų mokesčio tarifas) – šio Įstatymo 21 straipsnyje
 nustatyta tvarka.
-Pastaba. 1 dalies nuostatos taikomos
-apskaičiuojant ir deklaruojant 2012 metų ir vėlesnių metų mokestinių
-laikotarpių pajamas.
- 
 2.
 Apskaičiuojant nenuolatinio Lietuvos gyventojo individualios veiklos per
 nuolatinę bazę apmokestinamąsias pajamas, iš visų per nuolatinę bazę gautų arba
@@ -1005,8 +981,8 @@ Straipsnio
 pakeitimai:
 Nr. XI-111,
 2008-12-23, Žin., 2008, Nr. 149-6033 (2008-12-30)
-Nr. XI-1152, 2010-11-23,
-Žin., 2010, Nr. 145-7410 (2010-12-11)
+Nr. XI-1152,
+2010-11-23, Žin., 2010, Nr. 145-7410 (2010-12-11)
 Nr. XI-2166,
 2012-06-29, Žin., 2012, Nr. 83-4340 (2012-07-14)
  
@@ -1062,21 +1038,45 @@ draudimo sutarčių terminui gaunamų išmokų dalį, lygią įmokų daliai, ar
 nutraukus tokias gyvybės draudimo sutartis grąžinamų įmokų dalį, kurioms buvo
 taikomos fizinių asmenų pajamų mokesčio lengvatos ar kurios buvo atimamos iš
 pajamų šio Įstatymo nustatyta tvarka; 
-9)
+9) pasibaigus
+draudimo sutarties galiojimo terminui gauta gyvybės draudimo išmoka pagal
+gyvybės draudimo sutartį, sudarytą nuo 2003 m. sausio 1 d. iki 2012 m. gruodžio 31 d., ir kurioje numatyta, kad draudimo išmoka išmokama ne tik įvykus
+draudžiamajam įvykiui, bet ir pasibaigus draudimo sutarties galiojimo terminui,
+jeigu gyvybės draudimo sutarties terminas yra ne trumpesnis kaip 5 metai ir
+išmokos gavimo momentu išmokos gavėjas yra sulaukęs 55 metų arba išmokos
+gavimo momentu išmokos gavėjui yra nustatytas 0–25 procentų ar 30–40 procentų
+darbingumo lygis, arba išmokos gavėjas yra neįgalus vaikas, kuriam nustatytas
+specialusis nuolatinės slaugos poreikis, taip pat nutraukus tokią sutartį
+gyventojui mokamos sumos, jeigu sutartis nutraukta ne anksčiau kaip praėjus 5
+metams nuo jos sudarymo dienos ir gyventojas yra sulaukęs 55 metų arba
+išmokos gavimo momentu išmokos gavėjui yra nustatytas 0–25 procentų ar 30–40
+procentų darbingumo lygis, arba išmokos gavėjas yra neįgalus vaikas, kuriam
+nustatytas specialusis nuolatinės slaugos poreikis;
+*91)
 pasibaigus draudimo sutarties galiojimo terminui gauta gyvybės draudimo išmoka
-pagal gyvybės draudimo sutartį, sudarytą nuo 2003 m. sausio 1 d., kurioje numatyta, kad draudimo išmoka išmokama ne tik įvykus draudžiamajam
-įvykiui, bet ir pasibaigus draudimo sutarties galiojimo terminui, jeigu gyvybės
-draudimo sutarties terminas yra ne trumpesnis kaip 5 metai ir išmokos gavimo
-momentu išmokos gavėjas yra sulaukęs minimalaus pensinio amžiaus pagal
-Profesinių pensijų kaupimo įstatymą arba išmokos gavimo momentu išmokos gavėjui
-yra nustatytas 0–25 procentų ar 30–40 procentų darbingumo lygis, arba išmokos
-gavėjas yra neįgalus vaikas, kuriam nustatytas specialusis nuolatinės slaugos
-poreikis, taip pat nutraukus tokią sutartį gyventojui mokamos sumos, jeigu
-sutartis nutraukta ne anksčiau kaip praėjus 5 metams nuo jos sudarymo dienos ir
-gyventojas yra sulaukęs minimalaus pensinio amžiaus pagal Profesinių pensijų
-kaupimo įstatymą arba išmokos gavimo momentu išmokos gavėjui yra nustatytas
+pagal gyvybės draudimo sutartį, kuri sudaryta nuo 2013 m. sausio 1 d.  ir kurioje numatyta, kad draudimo išmoka išmokama ne tik įvykus
+draudžiamajam įvykiui, bet ir pasibaigus draudimo sutarties galiojimo terminui,
+jeigu gyvybės draudimo sutarties terminas yra ne trumpesnis kaip 5 metai ir
+išmokos gavimo momentu išmokos gavėjui iki senatvės pensijos amžiaus, nustatyto
+gyvybės draudimo sutarties sudarymo metu galiojusiame Lietuvos Respublikos valstybinių
+socialinio draudimo pensijų įstatyme (toliau – Valstybinių socialinio draudimo
+pensijų įstatymas), yra likę ne daugiau kaip 5 metai arba išmokos gavimo
+momentu išmokos gavėjui yra nustatytas 0–25 procentų ar 30–40 procentų
+darbingumo lygis, arba išmokos gavėjas yra neįgalus vaikas, kuriam nustatytas
+specialusis nuolatinės slaugos poreikis, taip pat nutraukus gyvybės draudimo
+sutartį gyventojui mokamos sumos, jeigu sutartis nutraukta ne anksčiau kaip
+praėjus 5 metams nuo jos sudarymo dienos ir gyventojui iki senatvės
+pensijos amžiaus, nustatyto gyvybės draudimo sutarties sudarymo metu
+galiojusiame Valstybinių socialinio draudimo pensijų įstatyme, yra likę ne
+daugiau kaip 5 metai arba išmokos gavimo momentu išmokos gavėjui yra nustatytas
 0–25 procentų ar 30–40 procentų darbingumo lygis, arba išmokos gavėjas yra
 neįgalus vaikas, kuriam nustatytas specialusis nuolatinės slaugos poreikis;
+*Pastaba.
+91
+punktas
+taikomas apskaičiuojant ir deklaruojant 2013 metų ir vėlesnių mokestinių
+laikotarpių pajamas.
+ 
 10)
 pasibaigus draudimo sutarties galiojimo terminui gauta gyvybės draudimo išmoka
 pagal gyvybės draudimo sutartį, sudarytą nuo 2003 m. sausio 1 d., kurioje numatyta, kad draudimo išmoka išmokama ne tik įvykus draudžiamajam
@@ -1111,32 +1111,66 @@ nebuvo atimamos iš pajamų šio Įstatymo nustatyta tvarka;
 13)
 išmokos pagal gyvybės draudimo sutartis, mokamos apdraustojo mirties, sveikatos
 sužalojimo ar ligos atveju;
-14)
+14) darbuotojo
+naudai darbdavio mokamų gyvybės draudimo įmokų pagal gyvybės draudimo sutartį,
+sudarytą iki 2012 m. gruodžio 31 d., kai draudimo sutarties terminas ne
+trumpesnis kaip 10 metų arba kai draudimo išmoka išmokama apdraustajam sulaukus
+55 metų,  ir draudimo įmokų už papildomą (savanorišką) sveikatos draudimą, kai
+draudimo objektas yra apdraustojo sveikatos priežiūros paslaugų apmokėjimas, ir
+pensijų įmokų į pensijų sąskaitą pensijų fonde suma, per mokestinį laikotarpį
+neviršijanti 25 procentų per mokestinį laikotarpį darbuotojui apskaičiuotų
+su darbo santykiais susijusių pajamų;
+*141)
 darbuotojo naudai darbdavio mokamų gyvybės draudimo įmokų pagal gyvybės
-draudimo sutartį, kai draudimo sutarties terminas ne trumpesnis kaip 10 metų
-arba kai draudimo išmoka išmokama apdraustajam sulaukus pensinio amžiaus pagal
-Profesinių pensijų kaupimo įstatymo nuostatas, ir draudimo įmokų už papildomą
-(savanorišką) sveikatos draudimą, kai draudimo objektas yra apdraustojo sveikatos
-priežiūros paslaugų apmokėjimas, ir pensijų įmokų į pensijų sąskaitą pensijų
-fonde suma, per mokestinį laikotarpį neviršijanti 25 procentų per mokestinį
-laikotarpį darbuotojui apskaičiuotų su darbo santykiais susijusių pajamų;
+draudimo sutartį, sudarytą nuo 2013 m. sausio 1 d., kai draudimo sutarties
+terminas ne trumpesnis kaip 10 metų arba kai draudimo išmoka išmokama
+apdraustajam, kuriam iki senatvės pensijos amžiaus, nustatyto gyvybės draudimo
+sutarties sudarymo metu galiojusiame Valstybinių socialinio draudimo pensijų
+įstatyme, yra likę ne daugiau kaip 5 metai,  ir draudimo įmokų už papildomą
+(savanorišką) sveikatos draudimą, kai draudimo objektas yra apdraustojo
+sveikatos priežiūros paslaugų apmokėjimas, ir pensijų įmokų į pensijų sąskaitą
+pensijų fonde suma, per mokestinį laikotarpį neviršijanti 25 procentų per
+mokestinį laikotarpį darbuotojui apskaičiuotų su darbo santykiais susijusių
+pajamų;
+*Pastaba.
+141
+punktas
+taikomas apskaičiuojant ir deklaruojant 2013 metų ir vėlesnių mokestinių
+laikotarpių pajamas.
+ 
 15)
 gyventojo naudai kitų gyventojų mokamos gyvybės draudimo įmokos pagal gyvybės
 draudimo sutartis ir pensijų įmokos į pensijų sąskaitą pensijų fonde;
-16)
-iš sudaryto pensijų fondo gauta pensijų išmoka, jei pensijų kaupimo sutarties
-terminas yra ne trumpesnis kaip 5 metai ir išmoką gaunantis pensijų fondo
-dalyvis yra įgijęs teisę į pensijų išmokas pagal Profesinių pensijų
-kaupimo įstatymą arba Papildomo savanoriško pensijų kaupimo įstatymą,
+16) pagal iki
+2012 m. gruodžio 31 d. sudarytą pensijų kaupimo  sutartį iš pensijų fondo gauta
+pensijų išmoka, jeigu pensijų kaupimo sutarties terminas yra ne trumpesnis kaip
+5 metai ir išmoką gaunantis pensijų fondo dalyvis yra sulaukęs 55 metų,
 taip pat gyventojui išstojus iš pensijų fondo ir neperėjus į kitą pensijų fondą
-išmokama suma, jei išstojama iš pensijų fondo ne anksčiau kaip praėjus 5 metams
-nuo pensijų kaupimo sutarties sudarymo dienos ir išmoką gaunantis pensijų fondo
-dalyvis yra sulaukęs minimalaus pensinio amžiaus pagal Profesinių pensijų
-kaupimo įstatymą;
+išmokama suma, jeigu išstojama iš pensijų fondo ne anksčiau kaip praėjus 5
+metams nuo pensijų kaupimo sutarties sudarymo dienos ir pensijų išmoką
+gaunantis pensijų fondo dalyvis yra sulaukęs 55 metų;
+*161)
+iš pensijų fondo gauta pensijų išmoka, jeigu pagal nuo 2013 m. sausio 1 d.
+sudarytą pensijų kaupimo sutartį šios sutarties terminas yra ne trumpesnis kaip
+5 metai ir išmoką gaunančiam pensijų fondo dalyviui iki senatvės pensijos
+amžiaus, nustatyto pensijų kaupimo sutarties sudarymo metu galiojusiame
+Valstybinių socialinio draudimo pensijų įstatyme, yra likę ne daugiau kaip 5
+metai, taip pat gyventojui išstojus iš pensijų fondo ir neperėjus į kitą
+pensijų fondą išmokama suma, jeigu išstojama iš pensijų fondo ne anksčiau kaip
+praėjus 5 metams nuo pensijų kaupimo sutarties sudarymo dienos ir išmoką
+gaunančiam pensijų fondo dalyviui iki senatvės pensijos amžiaus, nustatyto
+pensijų kaupimo sutarties sudarymo metu galiojusiame Valstybinių socialinio
+draudimo pensijų įstatyme, yra likę ne daugiau kaip 5 metai;
+*Pastaba.
+161
+punktas
+taikomas apskaičiuojant ir deklaruojant 2013 metų ir vėlesnių mokestinių
+laikotarpių pajamas.
+ 
 17)
 pensijos ir rentos, gautos iš Lietuvos Respublikos valstybės, savivaldybių ir
-Valstybinio socialinio draudimo fondo biudžetų, taip pat iš tarptautinių
-organizacijų ir užsienio valstybių valstybinių fondų;
+Valstybinio socialinio draudimo fondo biudžetų, taip pat iš tarptautinių organizacijų
+ir užsienio valstybių valstybinių fondų;
 18)
 iš gyvybės draudimą vykdančios draudimo įmonės gauti pensijų anuitetai;
 19)
@@ -1144,17 +1178,17 @@ palūkanos, gautos už suteiktas paskolas (išskyrus paskolas, kurias vieneto
 dalyvis suteikia vienetui arba gyventojas suteikia asmeniui, susijusiam su
 gyventoju darbo santykiais ar jų esmę atitinkančiais santykiais, jeigu už šias
 paskolas vienetas arba asmuo, susijęs su gyventoju darbo santykiais ar jų esmę
-atitinkančiais santykiais, vieneto dalyviui arba gyventojui moka palūkanas,
-viršijančias tikrąją rinkos kainą), jeigu paskolos bus pradėtos grąžinti ne
-anksčiau kaip po 366 dienų nuo paskolos suteikimo dienos;
+atitinkančiais santykiais, vieneto dalyviui arba gyventojui moka palūkanas, viršijančias
+tikrąją rinkos kainą), jeigu paskolos bus pradėtos grąžinti ne anksčiau kaip po
+366 dienų nuo paskolos suteikimo dienos;
 20)
 palūkanos už vertybinius popierius (išskyrus asmens, susijusio su gyventoju
 darbo santykiais ar jų esmę atitinkančiais santykiais, išleistus vertybinius
-popierius, jeigu už šiuos vertybinius popierius asmuo, susijęs su gyventoju darbo
-santykiais ar jų esmę atitinkančiais santykiais, jam moka didesnes palūkanas
-negu kitiems tų pačių vertybinių popierių turėtojams), jeigu šie vertybiniai
-popieriai pradėti išpirkti ne anksčiau kaip po 366 dienų nuo šių vertybinių
-popierių išleidimo dienos; 
+popierius, jeigu už šiuos vertybinius popierius asmuo, susijęs su gyventoju
+darbo santykiais ar jų esmę atitinkančiais santykiais, jam moka didesnes
+palūkanas negu kitiems tų pačių vertybinių popierių turėtojams), jeigu šie
+vertybiniai popieriai pradėti išpirkti ne anksčiau kaip po 366 dienų nuo šių
+vertybinių popierių išleidimo dienos; 
 21)
 palūkanos už Europos ekonominės erdvės valstybių vyriausybių, taip pat Europos
 ekonominės erdvės valstybių politinių ar teritorijos administracinių padalinių
@@ -1200,10 +1234,10 @@ privaloma teisinė registracija ir šis daiktas yra nustatyta tvarka
 įregistruotas Europos ekonominės erdvės valstybėje, jeigu toks daiktas įsigytas
 anksčiau negu prieš 3 metus iki jo pardavimo ar kitokio perleidimo nuosavybėn;
 turto pardavimo ar kitokio perleidimo nuosavybėn pajamos, gautos per mokestinį
-laikotarpį pardavus ar kitaip perleidus nuosavybėn šios dalies 53 ir 54
-punktuose nenurodytą nekilnojamąjį pagal prigimtį daiktą, esantį Europos
-ekonominės erdvės valstybėje, jeigu toks daiktas įsigytas anksčiau negu prieš 5
-metus iki jo pardavimo ar kitokio perleidimo nuosavybėn;
+laikotarpį pardavus ar kitaip perleidus nuosavybėn šios dalies 53 ir 54 punktuose
+nenurodytą nekilnojamąjį pagal prigimtį daiktą, esantį Europos ekonominės
+erdvės valstybėje, jeigu toks daiktas įsigytas anksčiau negu prieš 5 metus iki
+jo pardavimo ar kitokio perleidimo nuosavybėn;
 Pastaba.
 28 punkto nuostatos taikomos apmokestinant nekilnojamojo pagal prigimtį daikto,
 kuris buvo įsigytas 2011 m. sausio 1 d. ar vėliau, taip pat nekilnojamojo pagal
@@ -1218,8 +1252,8 @@ popieriai laikomi parduotais pagal šio Įstatymo 11 straipsnį;
 30)
 pajamos už parduotus arba kitaip perleistus nuosavybėn vertybinius popierius,
 įsigytus po 1999 m. sausio 1 d., jeigu vertybiniai popieriai yra parduodami
-arba kitaip perleidžiami nuosavybėn ne anksčiau negu po 366 dienų nuo jų
-įsigijimo dienos (parduodant dalį to paties vieneto tos pačios rūšies ir klasės
+arba kitaip perleidžiami nuosavybėn ne anksčiau negu po 366 dienų nuo jų įsigijimo
+dienos (parduodant dalį to paties vieneto tos pačios rūšies ir klasės
 vertybinių popierių, kiekvienu atveju laikoma, kad pirmiausia parduodami arba
 kitaip perleidžiami nuosavybėn anksčiausiai įsigyti vertybiniai popieriai) ir
 gyventojas 3 metus iki mokestinio laikotarpio, per kurį vertybiniai popieriai
@@ -1243,9 +1277,9 @@ teismo priteistas arba pagal sutartį gautas išlaikymas;
 mokymo įstaigų studentų ir moksleivių stipendijos ir pašalpos, kurioms mokėti
 naudojamos Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų
 lėšos; taip pat vienetų (išskyrus pelno nesiekiančius vienetus) mokymo įstaigų
-studentams ir moksleiviams pagal vieneto, mokymo įstaigos ir studento ar moksleivio
-pasirašytas trišales sutartis mokamos stipendijos, skirtos studento ar
-moksleivio mokymosi ir pragyvenimo reikmėms apmokėti, jeigu stipendijos
+studentams ir moksleiviams pagal vieneto, mokymo įstaigos ir studento ar
+moksleivio pasirašytas trišales sutartis mokamos stipendijos, skirtos studento
+ar moksleivio mokymosi ir pragyvenimo reikmėms apmokėti, jeigu stipendijos
 mokėjimo laikotarpiu stipendijos gavėjas nėra stipendiją mokančio vieneto
 daugiau kaip 10 procentų akcijų (dalių, pajų) savininkas, darbuotojas arba
 stipendiją mokančio vieneto daugiau kaip 10 procentų akcijų (dalių, pajų)
@@ -1266,20 +1300,21 @@ suteiktomis arba teikiamomis paslaugomis;
 valstybės stipendija ir savivaldybių stipendijos;
 36)
 premijos, skirtos konkurso tvarka iš Lietuvos Respublikos valstybės ar
-savivaldybių biudžetų, iš užsienio valstybės, jos politinio ar teritorijos
-administracinio padalinio, vietos valdžios biudžetų, taip pat premijos, skirtos
-Lietuvos Respublikos Vyriausybės ar savivaldybių tarybų sprendimais, ir
-premijos profesionaliojo meno konkursų nugalėtojams, skiriamos meno kūrėjų
-organizacijų sprendimais iš šių organizacijų lėšų, taip pat Lietuvos
-Respublikos Vyriausybės nustatyto dydžio premijos sportininkams ir jų treneriams,
-gydytojams, masažuotojams ir mokslininkams, išmokamos iš valstybės biudžeto lėšų, skirtų Kūno kultūros ir sporto
-departamentui prie Lietuvos Respublikos Vyriausybės;
+savivaldybių biudžetų, iš užsienio valstybės, jos politinio ar teritorijos administracinio
+padalinio, vietos valdžios biudžetų, taip pat premijos, skirtos Lietuvos
+Respublikos Vyriausybės ar savivaldybių tarybų sprendimais, ir premijos
+profesionaliojo meno konkursų nugalėtojams, skiriamos meno kūrėjų organizacijų
+sprendimais iš šių organizacijų lėšų, taip pat Lietuvos Respublikos Vyriausybės
+nustatyto dydžio premijos sportininkams ir jų treneriams, gydytojams,
+masažuotojams ir mokslininkams, išmokamos iš valstybės
+biudžeto lėšų, skirtų Kūno kultūros ir sporto departamentui prie Lietuvos
+Respublikos Vyriausybės;
 37)
-sporto varžybų prizas, jeigu šį prizą įsteigia ir skiria olimpiniai (parolimpiniai)
-komitetai, tarptautinės sporto šakų federacijos (sąjungos, asociacijos) ar šių
-federacijų (sąjungų, asociacijų) nariai, Lietuvos sporto šakų federacijos
-(sąjungos, asociacijos), taip pat vardinės dovanos, dovanojamos Lietuvos
-Respublikos įstatymų nustatyta tvarka; 
+sporto varžybų prizas, jeigu šį prizą įsteigia ir skiria olimpiniai
+(parolimpiniai) komitetai, tarptautinės sporto šakų federacijos (sąjungos,
+asociacijos) ar šių federacijų (sąjungų, asociacijų) nariai, Lietuvos sporto
+šakų federacijos (sąjungos, asociacijos), taip pat vardinės dovanos,
+dovanojamos Lietuvos Respublikos įstatymų nustatyta tvarka; 
 38)
 loterijų laimėjimai, jeigu juos išmoka Europos ekonominės erdvės valstybių
 vienetai, kurie šių valstybių teisės aktų nustatyta tvarka moka mokestį nuo
@@ -1329,10 +1364,10 @@ asmenų, Lietuvos Respublikoje išrinktų ar Lietuvos Respublikos valstybės
 institucijų sprendimu komandiruotų, perkeltų ar kitaip išsiųstų į tarptautines
 tarpvyriausybines organizacijas, Europos Sąjungos institucijas arba užsienio
 valstybines institucijas, taip pat į šių organizacijų ar institucijų rengiamas
-civilines tarptautines operacijas ir misijas (toliau šiame punkte – organizacijos),
-gaunamos išmokos, kurios skirtos šių asmenų išlaidoms, susijusioms su jų veikla
-šiose organizacijose, apmokėti ir kurių mokėjimą reglamentuoja šių organizacijų
-teisės aktai;
+civilines tarptautines operacijas ir misijas (toliau šiame punkte –
+organizacijos), gaunamos išmokos, kurios skirtos šių asmenų išlaidoms,
+susijusioms su jų veikla šiose organizacijose, apmokėti ir kurių mokėjimą reglamentuoja
+šių organizacijų teisės aktai;
 49)
 įstatymų nustatyto dydžio delspinigiai už išmokų, susijusių su darbo
 santykiais, pavėluotą mokėjimą;
@@ -1378,14 +1413,14 @@ paslaugų teikimo pagal paslaugų kvitą įstatymas.
 55 punktas taikomas apskaičiuojant ir deklaruojant 2013 metų ir vėlesnių
 mokestinių laikotarpių pajamas.
  
-2.
-Šio straipsnio 1 dalies 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20,
-23, 24, 27, 28, 29, 30, 32, 33, 34, 36, 39, 40, 42, 46 ir 53 punktuose
-nustatytos lengvatos, taip pat 26 punkte nustatyta lengvata dovanojimo būdu iš
-kitų negu sutuoktinis, vaikai (įvaikiai), tėvai (įtėviai), broliai, seserys,
-vaikaičiai ir seneliai gautoms pajamoms netaikomos, jeigu gyventojo atitinkamos
-pajamos gautos iš užsienio vienetų, įregistruotų ar kitaip organizuotų
-tikslinėse teritorijose, ar gyventojų, kurių nuolatinė
+2. Šio straipsnio 1
+dalies 7, 8, 9, 91,10, 11, 12, 13, 14, 141, 15, 16, 161,
+17, 18, 19, 20, 23, 24, 27, 28, 29, 30, 32, 33, 34, 36, 39, 40, 42, 46 ir 53
+punktuose nustatytos lengvatos, taip pat 26 punkte nustatyta lengvata
+dovanojimo būdu iš kitų negu sutuoktinis, vaikai (įvaikiai), tėvai (įtėviai),
+broliai, seserys, vaikaičiai ir seneliai gautoms pajamoms netaikomos, jeigu
+gyventojo atitinkamos pajamos gautos iš užsienio vienetų, įregistruotų ar
+kitaip organizuotų tikslinėse teritorijose, ar gyventojų, kurių nuolatinė
 gyvenamoji vieta yra tikslinėje teritorijoje.
 3.
 Šio straipsnio 1 dalies 14 punkto lengvata taikoma, kai įmokos mokamos pagal
@@ -1394,6 +1429,10 @@ tikslinėse teritorijose įregistruotas ar kitaip organizuotas užsienio vieneta
 ir pagal nuo 2004 m. gegužės 1 d. sudarytas sutartis, kai įmokų gavėjas yra
 vienetas, įregistruotas ar kitaip organizuotas Europos ekonominės erdvės
 valstybėje.
+4.
+Šio straipsnio 1 dalies 141 punkte nustatyta lengvata taikoma, kai
+įmokų gavėjas yra vienetas, įregistruotas ar kitaip organizuotas Europos
+ekonominės erdvės valstybėje.
 Straipsnio
 pakeitimai:
 Nr. IX-1252,
@@ -1438,12 +1477,12 @@ Nr. XI-104,
 2008-12-22, Žin., 2008, Nr. 149-6028 (2008-12-30)
 Nr. X-885, 2006-11-09,
 Žin., 2006, Nr. 127-4821 (2006-11-25)
-Nr. X-1485, 2008-04-10,
-Žin., 2008, Nr. 47-1750 (2008-04-24)
+Nr. X-1485,
+2008-04-10, Žin., 2008, Nr. 47-1750 (2008-04-24)
 Nr. X-1543,
 2008-05-15, Žin., 2008, Nr. 63-2381 (2008-06-03)
-Nr. XI-105, 2008-12-22,
-Žin., 2008, Nr. 149-6029 (2008-12-30)
+Nr. XI-105,
+2008-12-22, Žin., 2008, Nr. 149-6029 (2008-12-30)
 Nr. XI-111,
 2008-12-23, Žin., 2008, Nr. 149-6033 (2008-12-30)
 Nr. XI-176,
@@ -1496,9 +1535,9 @@ arba vairavimo mokymo paslaugas ir (arba) nuomojami, įsigijimo išlaidos;
 kompiuterių programų susikūrimo išlaidos;
 4)
 kompiuterių programų įsigijimo išlaidos, jeigu šios programos yra įsigytos iš
-asocijuotų asmenų arba yra įsigytos iš vienetų, įregistruotų ar kitaip organizuotų
-tikslinėse teritorijose, arba gyventojų, kurių nuolatinė gyvenamoji vieta yra
-tikslinėje teritorijoje;
+asocijuotų asmenų arba yra įsigytos iš vienetų, įregistruotų ar kitaip
+organizuotų tikslinėse teritorijose, arba gyventojų, kurių nuolatinė gyvenamoji
+vieta yra tikslinėje teritorijoje;
 5)
 į biudžetą mokamas pridėtinės vertės mokestis ir šio Įstatymo nustatytas pajamų
 mokestis;
@@ -1556,19 +1595,19 @@ honorarų gavėjas.
 Kitų nuolatinio Lietuvos gyventojo, kuris verčiasi individualia veikla, ir
 nenuolatinio Lietuvos gyventojo, kuris verčiasi individualia veikla per
 nuolatinę bazę, su individualios veiklos pajamų gavimu arba uždirbimu susijusių
-išlaidų priskyrimo leidžiamiems atskaitymams arba ribojamų dydžių leidžiamiems
-atskaitymams ir jų apskaičiavimo tvarką nustato Lietuvos Respublikos Vyriausybė
-arba jos įgaliota institucija.
+išlaidų priskyrimo leidžiamiems atskaitymams arba ribojamų dydžių leidžiamiems atskaitymams
+ir jų apskaičiavimo tvarką nustato Lietuvos Respublikos Vyriausybė arba jos
+įgaliota institucija.
 6. Jeigu gyventojas verčiasi kelių skirtingų
 rūšių individualia veikla, su tokios veiklos pajamų gavimu arba uždirbimu
 susiję leidžiami atskaitymai šio Įstatymo nustatyta tvarka atimami atskirai
 pagal kiekvienos individualios veiklos rūšies pajamas. 
 7. Gyventojų, kurie verčiasi individualia
 veikla, nurodytų šio Įstatymo 8 straipsnio 5 dalyje, susidarę mokestinio
-laikotarpio nuostoliai gali būti perkeliami į kitus mokestinius metus šio Įstatymo
-181 straipsnyje nustatyta tvarka. Kitų gyventojų, kurie verčiasi
-individualia veikla, leidžiamų atskaitymų suma negali viršyti per tą mokestinį
-laikotarpį gautų individualios veiklos pajamų.
+laikotarpio nuostoliai gali būti perkeliami į kitus mokestinius metus šio
+Įstatymo 181 straipsnyje nustatyta tvarka. Kitų gyventojų, kurie
+verčiasi individualia veikla, leidžiamų atskaitymų suma negali viršyti per tą
+mokestinį laikotarpį gautų individualios veiklos pajamų.
 8.
 Išlaidos turi būti pagrįstos dokumentais, turinčiais visus Lietuvos Respublikos
 buhalterinės apskaitos įstatyme ir kituose Lietuvos Respublikos teisės aktuose
@@ -1602,15 +1641,15 @@ atskaitomą sumą pagrindžiančių dokumentų.
 Iš pajamų, pripažįstamų pagal kaupimo apskaitos principą, atskaitoma mokestiniu
 laikotarpiu atsiradusi beviltiškų skolų suma, jeigu ta suma buvo įtraukta į
 gyventojo individualios veiklos pajamas. Iš pajamų, pripažįstamų pagal pinigų
-apskaitos principą, atskaitoma mokestiniu laikotarpiu atsiradusioms
-beviltiškoms skoloms tenkanti sąnaudų dalis, jeigu šių skolų atsiradimas buvo
-užfiksuotas individualios veiklos pajamų apskaitos dokumentuose. Jeigu
-atskaitytas beviltiškas skolas skolininkas ar kitas asmuo vėliau grąžina, visa
-grąžintų skolų suma priskiriama pajamoms. Skolos yra laikomos beviltiškomis,
-jeigu gyventojas negali jų susigrąžinti praėjus ne mažiau kaip vieniems metams
-nuo skolos sumos įtraukimo į individualios veiklos pajamas ar nuo skolų
-atsiradimo užfiksavimo individualios veiklos pajamų apskaitos dokumentuose arba
-jeigu skolininkas yra miręs ar paskelbtas mirusiu, arba likviduotas, arba
+apskaitos principą, atskaitoma mokestiniu laikotarpiu atsiradusioms beviltiškoms
+skoloms tenkanti sąnaudų dalis, jeigu šių skolų atsiradimas buvo užfiksuotas
+individualios veiklos pajamų apskaitos dokumentuose. Jeigu atskaitytas
+beviltiškas skolas skolininkas ar kitas asmuo vėliau grąžina, visa grąžintų
+skolų suma priskiriama pajamoms. Skolos yra laikomos beviltiškomis, jeigu
+gyventojas negali jų susigrąžinti praėjus ne mažiau kaip vieniems metams nuo
+skolos sumos įtraukimo į individualios veiklos pajamas ar nuo skolų atsiradimo
+užfiksavimo individualios veiklos pajamų apskaitos dokumentuose arba jeigu
+skolininkas yra miręs ar paskelbtas mirusiu, arba likviduotas, arba
 bankrutavęs. Visais šiais atvejais gyventojas turi įrodyti skolos beviltiškumą
 ir pastangas šioms skoloms susigrąžinti. Skolų beviltiškumo, pastangų šioms
 skoloms susigrąžinti įrodymo ir beviltiškų skolų sumų apskaičiavimo tvarką
@@ -1625,8 +1664,8 @@ Nr. XI-111,
 2008-12-23, Žin., 2008, Nr. 149-6033 (2008-12-30)
 Nr. XI-385,
 2009-07-22, Žin., 2009, Nr. 93-3977 (2009-08-04)
-Nr. XI-1152,
-2010-11-23, Žin., 2010, Nr. 145-7410 (2010-12-11)
+Nr. XI-1152, 2010-11-23,
+Žin., 2010, Nr. 145-7410 (2010-12-11)
  
 181 straipsnis. Mokestinio
 laikotarpio nuostolių perkėlimas
@@ -1637,10 +1676,11 @@ atėmę neapmokestinamąsias pajamas ir leidžiamus atskaitymus gauna mokestinio
 laikotarpio nuostolius (toliau – mokestiniai nuostoliai), šių mokestinių
 nuostolių suma perkeliama į kitą mokestinį laikotarpį.
 2.
-Jeigu gyventojai, kurie verčiasi individualia veikla, gauna mokestinius nuostolius
-ilgiau negu vieną mokestinį laikotarpį, pirmiausia perkeliami ankstesnių
-laikotarpių mokestiniai nuostoliai. Vėliau patirti mokestiniai nuostoliai
-perkeliami tik padengus ankstesnių laikotarpių mokestinius nuostolius. 
+Jeigu gyventojai, kurie verčiasi individualia veikla, gauna mokestinius
+nuostolius ilgiau negu vieną mokestinį laikotarpį, pirmiausia perkeliami
+ankstesnių laikotarpių mokestiniai nuostoliai. Vėliau patirti mokestiniai
+nuostoliai perkeliami tik padengus ankstesnių laikotarpių mokestinius nuostolius.
+
 3.
 Mokestinius nuostolius galima perkelti neribotą laiką, tačiau toks perkėlimas
 nutraukiamas, jeigu gyventojas nutraukia veiklą, dėl kurios šie mokestiniai
@@ -1651,8 +1691,8 @@ mokestiniai nuostoliai gali būti dengiami tik tos rūšies veiklos, dėl kurios
 tokie mokestiniai nuostoliai susidarė, pajamomis.
 Įstatymas
 papildytas straipsniu:
-Nr. XI-111, 2008-12-23,
-Žin., 2008, Nr. 149-6033 (2008-12-30)
+Nr. XI-111,
+2008-12-23, Žin., 2008, Nr. 149-6033 (2008-12-30)
  
 19 straipsnis. Parduoto ar kitaip
 perleisto nuosavybėn ne individualios veiklos 
@@ -1672,10 +1712,10 @@ turto įsigijimo kaina;
 su šio turto pardavimu arba kitokiu perleidimu nuosavybėn susiję teisės aktuose
 nustatyti privalomi mokėjimai.
 2.
-Turto įsigijimo kainai priskiriamos išlaidos, patirtos įsigyjant turtą, įskaitant
-su šio turto įsigijimu susijusius teisės aktuose nustatytus privalomus
-mokėjimus, taip pat savo ar sutuoktinio lėšomis (įskaitant tam tikslui
-pasiskolintų lėšų sugrąžintą dalį) atlikto turto rekonstravimo ir (arba)
+Turto įsigijimo kainai priskiriamos išlaidos, patirtos įsigyjant turtą,
+įskaitant su šio turto įsigijimu susijusius teisės aktuose nustatytus
+privalomus mokėjimus, taip pat savo ar sutuoktinio lėšomis (įskaitant
+tam tikslui pasiskolintų lėšų sugrąžintą dalį) atlikto turto rekonstravimo ir (arba)
 kapitalinio remonto, kaip jie apibrėžti Lietuvos Respublikos statybos įstatyme,
 išlaidos. Tuo atveju, kai turtas yra pasigamintas paties gyventojo, turto
 įsigijimo kaina laikomos visos to turto pagaminimo, rekonstravimo ir (arba)
@@ -1687,9 +1727,9 @@ turtui, jo įsigijimo kaina mažinama iš individualios veiklos pajamų atskaity
 3.
 Leidžiama atimti tik tas sumas, kurios pagrindžiamos dokumentais, turinčiais
 visus Lietuvos Respublikos buhalterinės apskaitos įstatyme ir kituose teisės
-aktuose numatytus privalomus apskaitos dokumentų rekvizitus, ir (arba) galiojančiais
-sandoriais, ir (arba) užsienio vienetų bei gyventojų surašytais dokumentais,
-jei iš šių dokumentų galima nustatyti ūkinės operacijos turinį. 
+aktuose numatytus privalomus apskaitos dokumentų rekvizitus, ir (arba)
+galiojančiais sandoriais, ir (arba) užsienio vienetų bei gyventojų surašytais
+dokumentais, jei iš šių dokumentų galima nustatyti ūkinės operacijos turinį. 
 4.
 Šio Įstatymo 11 straipsnyje nurodytu atveju parduotų akcijų (dalių, pajų)
 įsigijimo kaina yra lygi:
@@ -1761,9 +1801,9 @@ Jeigu pagal šio straipsnio 1 ar 2 dalyje nustatytą formulę apskaičiuotas NPD
 yra neigiamas, laikoma, kad jis lygus 0. 
 4.
 NPD mokestiniu laikotarpiu taikomas tik nuolatiniam Lietuvos gyventojui, kai
-jis pagal šio straipsnio 2 dalies nuostatas turėdamas teisę į NPD pateikia
-laisvos formos prašymą vienoje pajamų, susijusių
-su darbo santykiais arba jų esmę atitinkančiais santykiais, gavimo vietoje.
+jis pagal šio straipsnio 2 dalies nuostatas turėdamas teisę į NPD pateikia laisvos
+formos prašymą vienoje pajamų, susijusių su
+darbo santykiais arba jų esmę atitinkančiais santykiais, gavimo vietoje.
 Taikant šio straipsnio 2 dalies nuostatas mokestiniu laikotarpiu turi būti
 atsižvelgiama tik į visas kas mėnesį mokamas išmokas (pagrindinį darbo
 užmokestį, priedus ir priemokas), susijusias su darbo santykiais arba jų esmę
@@ -3561,11 +3601,25 @@ GYVENTOJŲ PAJAMŲ MOKESČIO
 įstatymas taikomas apskaičiuojant ir deklaruojant 2013 metų ir vėlesnių
 mokestinių laikotarpių pajamas.
  
+50.
+Lietuvos Respublikos
+Seimas, Įstatymas
+Nr. XII-251,
+2013-04-23, Žin., 2013, Nr. 46-2251 (2013-05-07)
+GYVENTOJŲ PAJAMŲ MOKESČIO
+ĮSTATYMO 17 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šio įstatymo 1 straipsnio  1, 3 ir 5 dalys  taikomos
+apskaičiuojant ir deklaruojant 2012 metų ir vėlesnių mokestinių laikotarpių
+pajamas.
+Šio
+įstatymo 2, 4, 6, 7 ir 8  dalys  taikomos apskaičiuojant ir deklaruojant
+2013 metų ir vėlesnių mokestinių laikotarpių pajamas.
+ 
  
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2012-11-26)
+(2013-05-07)
                  
 ausrine.trapinskiene@lrs.lt
