@@ -20,6 +20,10 @@ LIETUVOS RESPUBLIKOS PILIETYBĖS ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2013-05-25 iki 2013-12-31
+ 
+Įstatymas paskelbtas: Žin. 2010, Nr. 144-7361, i. k. 1101010ISTA0XI-1196
+ 
 LIETUVOS RESPUBLIKOS  PILIETYBĖS  ĮSTATYMAS
  
 2010 m. gruodžio 2 d. Nr. XI-1196
@@ -556,22 +560,41 @@ Lietuvos Respublikos teritorijoje rastas ar gyvenantis vaikas, kurio abu tėvai 
 
 
 
-2. Valstybinės kalbos egzamino ir Lietuvos Respublikos Konstitucijos pagrindų egzamino taisykles, šių egzaminų išlaikymą patvirtinančius dokumentus ir jų išdavimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+2. Asmeniui be pilietybės, gimusiam Lietuvos Respublikos teritorijoje, Lietuvos Respublikos pilietybė gali būti suteikiama, jeigu jis teisėtai nuolat gyvena Lietuvos Respublikoje pastaruosius 5 metus, nebuvo įgijęs kitos valstybės pilietybės, prašymo dėl Lietuvos Respublikos pilietybės suteikimo pateikimo ir sprendimo dėl Lietuvos Respublikos pilietybės suteikimo priėmimo metu turi teisę gyventi Lietuvos Respublikoje ir atitinka šio straipsnio 1 dalies 3, 4, 5 ir 7 punktuose nustatytas sąlygas. 
+Papildyta straipsnio dalimi:
+Nr. XII-269, 2013-05-09, Žin., 2013, Nr. 54-2674 (2013-05-25), i. k. 1131010ISTA0XII-269
+ 
 
 
 
 
-3. Asmenims, kuriems sukako 65 metai, asmenims, kuriems nustatytas 0–55 procentų darbingumo lygis, ir asmenims, kuriems sukako senatvės pensijos amžius ir kuriems teisės aktų nustatyta tvarka yra nustatytas didelių ir vidutinių specialiųjų poreikių lygis, taip pat asmenims, sergantiems sunkiomis chroninėmis psichikos ligomis, šio straipsnio 1 dalies 3 ir 4 punktų nuostatos netaikomos.
+3. Valstybinės kalbos egzamino ir Lietuvos Respublikos Konstitucijos pagrindų egzamino taisykles, šių egzaminų išlaikymą patvirtinančius dokumentus ir jų išdavimo tvarką nustato Lietuvos Respublikos Vyriausybė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-269, 2013-05-09, Žin., 2013, Nr. 54-2674 (2013-05-25), i. k. 1131010ISTA0XII-269
+ 
 
 
 
 
-4. Kitų valstybių piliečiams ar asmenims be pilietybės, turintiems pabėgėlio statusą Lietuvos Respublikoje, šio straipsnio 1 dalies 6 punkto nuostatos netaikomos.
+4. Asmenims, kuriems sukako 65 metai, asmenims, kuriems nustatytas 0–55 procentų darbingumo lygis, ir asmenims, kuriems sukako senatvės pensijos amžius ir kuriems teisės aktų nustatyta tvarka yra nustatytas didelių ir vidutinių specialiųjų poreikių lygis, taip pat asmenims, sergantiems sunkiomis chroninėmis psichikos ligomis, šio straipsnio 1 dalies 3 ir 4 punktų nuostatos netaikomos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-269, 2013-05-09, Žin., 2013, Nr. 54-2674 (2013-05-25), i. k. 1131010ISTA0XII-269
+ 
 
 
 
 
-5. Asmenims, atitinkantiems šiame straipsnyje nustatytas sąlygas, Lietuvos Respublikos pilietybė teikiama atsižvelgiant į Lietuvos Respublikos interesus.
+5. Kitų valstybių piliečiams ar asmenims be pilietybės, turintiems pabėgėlio statusą Lietuvos Respublikoje, šio straipsnio 1 dalies 6 punkto nuostatos netaikomos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-269, 2013-05-09, Žin., 2013, Nr. 54-2674 (2013-05-25), i. k. 1131010ISTA0XII-269
+ 
+
+
+
+
+6. Asmenims, atitinkantiems šiame straipsnyje nustatytas sąlygas, Lietuvos Respublikos pilietybė teikiama atsižvelgiant į Lietuvos Respublikos interesus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-269, 2013-05-09, Žin., 2013, Nr. 54-2674 (2013-05-25), i. k. 1131010ISTA0XII-269
  
 
 
@@ -1591,7 +1614,47 @@ PRAŠYMAI DĖL LIETUVOS RESPUBLIKOS PILIETYBĖS
 
 
 
-4. Jeigu dėl Lietuvos Respublikos pilietybės suteikimo natūralizacijos tvarka kreipiasi asmuo, turintis kitos valstybės pilietybę, išskyrus asmenį, kuris pagal šio įstatymo 7 straipsnio 9 punktą gali būti kartu Lietuvos Respublikos ir kitos valstybės pilietis, jis pateikia rašytinį pareiškimą, kad atsisakys turimos kitos valstybės pilietybės, kai jam bus suteikta Lietuvos Respublikos pilietybė.
+4. Prie prašymo dėl Lietuvos Respublikos pilietybės suteikimo natūralizacijos tvarka šio įstatymo 18 straipsnio 2 dalyje nurodytas asmuo prideda šiuos dokumentus:
+
+
+1) asmens tapatybę patvirtinantį dokumentą;
+
+
+
+
+2) dokumentą, patvirtinantį, kad asmuo šio prašymo pateikimo metu turi teisę gyventi Lietuvos Respublikoje;
+
+
+
+
+3) dokumentus, patvirtinančius, kad asmuo teisėtai gyvena Lietuvos Respublikoje pastaruosius 5 metus;
+
+
+
+
+4) dokumentus, patvirtinančius, kad asmuo turi teisėtą pragyvenimo šaltinį;
+
+
+
+
+5) dokumentus, patvirtinančius, kad asmuo nebuvo įgijęs kitos valstybės pilietybės;
+
+
+
+
+6) dokumentus, patvirtinančius, kad asmuo išlaikė valstybinės kalbos ir Lietuvos Respublikos Konstitucijos pagrindų egzaminus. Šių dokumentų nereikia pateikti asmenims, kuriems sukako 65 metai, asmenims, kuriems nustatytas 0–55 procentų darbingumo lygis, asmenims, kuriems sukako senatvės pensijos amžius ir kuriems teisės aktų nustatyta tvarka nustatytas didelių ir vidutinių specialiųjų poreikių lygis, taip pat asmenims, sergantiems sunkiomis lėtinėmis psichikos ligomis. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XII-269, 2013-05-09, Žin., 2013, Nr. 54-2674 (2013-05-25), i. k. 1131010ISTA0XII-269
+ 
+
+
+
+
+5. Jeigu dėl Lietuvos Respublikos pilietybės suteikimo natūralizacijos tvarka kreipiasi asmuo, turintis kitos valstybės pilietybę, išskyrus asmenį, kuris pagal šio įstatymo 7 straipsnio 9 punktą gali būti kartu Lietuvos Respublikos ir kitos valstybės pilietis, jis pateikia rašytinį pareiškimą, kad atsisakys turimos kitos valstybės pilietybės, kai jam bus suteikta Lietuvos Respublikos pilietybė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-269, 2013-05-09, Žin., 2013, Nr. 54-2674 (2013-05-25), i. k. 1131010ISTA0XII-269
  
 
 
@@ -1869,3 +1932,20 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2333, 2012-11-06, Žin., 2012, Nr. 132-6661 (2012-11-15), i. k. 1121010ISTA0XI-2333
+Lietuvos Respublikos pilietybės įstatymo 36 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-269, 2013-05-09, Žin., 2013, Nr. 54-2674 (2013-05-25), i. k. 1131010ISTA0XII-269
+Lietuvos Respublikos pilietybės įstatymo 18 ir 40 straipsnių papildymo ir pakeitimo įstatymas
