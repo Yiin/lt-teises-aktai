@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7DE59B8C46B2"
 
 # Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymas
 
-Suvestinė redakcija nuo 2012-02-03 iki 2013-05-31
+Suvestinė redakcija nuo 2013-06-01 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 52-1811, i. k. 1011010ISTA00IX-352
  
@@ -125,11 +125,12 @@ Nr. IX-1847, 2003-11-25, Žin., 2003, Nr. 116-5253 (2003-12-12), i. k. 1031010IS
 5 straipsnis. Mokesčių lengvatos
 
 
-Fiziniams asmenims, savo vardu patentuojantiems išradimus bei registruojantiems dizainą, už paraiškos padavimą mokesčių dydis mažinamas 50 procentų. 
+Fiziniams asmenims, savo vardu patentuojantiems išradimus bei registruojantiems dizainą, už paraiškos padavimą, patento išdavimą, dizaino registravimą, paskelbimą ir registracijos liudijimo išdavimą mokesčių dydis mažinamas 50 procentų.
 
 
 Straipsnio pakeitimai:
 Nr. X-1120, 2007-05-10, Žin., 2007, Nr. 59-2280 (2007-05-29), i. k. 1071010ISTA00X-1120
+Nr. XI-2399, 2012-11-08, Žin., 2012, Nr. 135-6873 (2012-11-22), i. k. 1121010ISTA0XI-2399
  
 
 
@@ -138,10 +139,11 @@ Nr. X-1120, 2007-05-10, Žin., 2007, Nr. 59-2280 (2007-05-29), i. k. 1071010ISTA
 6 straipsnis. Mokesčių mokėjimas
 
 
-1. Mokesčiai už išradimo patentavimą, dizaino, puslaidininkinio gaminio topografijos, prekių ženklo registravimą ir su tuo susijusių dokumentų išdavimą bei patentinio patikėtinio registravimą mokami mokėjimo dieną nustatytais dydžiais litais prieš registruojant pramoninės nuosavybės objektus ir išduodant su tuo susijusius dokumentus bei prieš registruojant patentinį patikėtinį Valstybiniame patentų biure. 
+1. Mokesčiai mokami mokėjimo dieną nustatytais dydžiais litais prieš atliekant veiksmus, už kuriuos nustatytas atitinkamas mokestis, išskyrus įstatymų numatytus atvejus, kai mokestį galima sumokėti vėliau. 
 Straipsnio dalies pakeitimai:
 Nr. IX-1847, 2003-11-25, Žin., 2003, Nr. 116-5253 (2003-12-12), i. k. 1031010ISTA0IX-1847
 Nr. X-1120, 2007-05-10, Žin., 2007, Nr. 59-2280 (2007-05-29), i. k. 1071010ISTA00X-1120
+Nr. XI-2399, 2012-11-08, Žin., 2012, Nr. 135-6873 (2012-11-22), i. k. 1121010ISTA0XI-2399
  
 
 
@@ -183,7 +185,9 @@ Nr. X-1120, 2007-05-10, Žin., 2007, Nr. 59-2280 (2007-05-29), i. k. 1071010ISTA
 
 
 
-5. Mokesčiai sumokami banko įstaigoje grynaisiais pinigais arba lėšas pervedant. Mokesčių sumokėjimas patvirtinamas pateikiant Valstybiniam patentų biurui mokamąjį pavedimą su banko žymomis arba kvitą. 
+5. Mokesčiai sumokami į biudžeto pajamų surenkamąją sąskaitą per kredito ar kitą mokėjimus priimančią įstaigą grynaisiais pinigais arba lėšas pervedant. Duomenys apie mokesčių sumokėjimą pateikiami Valstybiniam patentų biurui teisės aktų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XI-2399, 2012-11-08, Žin., 2012, Nr. 135-6873 (2012-11-22), i. k. 1121010ISTA0XI-2399
  
 
 
@@ -274,7 +278,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
- 
 
 
 
@@ -293,7 +296,7 @@ MOKESČIŲ UŽ IŠRADIMO PATENTAVIMĄ IR SU TUO SUSIJUSIŲ DOKUMENTŲ IŠDAVIMĄ
 
 
  1. Už patento paraiškos (toliau – paraiška) padavimą 
- 400 
+ 300 
 
 
  1.1. už kiekvieną po penkioliktojo einantį išradimo apibrėžties punktą 
@@ -333,7 +336,7 @@ MOKESČIŲ UŽ IŠRADIMO PATENTAVIMĄ IR SU TUO SUSIJUSIŲ DOKUMENTŲ IŠDAVIMĄ
 
 
  7. Už patento išdavimą 
- 240 
+ 180 
 
 
  8. Už apeliacijos pareiškimą 
@@ -357,7 +360,7 @@ MOKESČIŲ UŽ IŠRADIMO PATENTAVIMĄ IR SU TUO SUSIJUSIŲ DOKUMENTŲ IŠDAVIMĄ
 
 
  13. Už licencinės (sublicencinės) sutarties registravimą 
- 240 
+ 100 
 
 
  14. Už prašymo suteikti prioritetą taisymą arba pildymą 
@@ -496,6 +499,7 @@ Priedo pakeitimai:
 Nr. IX-688, 2001-12-21, Žin., 2001, Nr. 110-3996 (2001-12-29), i. k. 1011010ISTA00IX-688
 Nr. X-1120, 2007-05-10, Žin., 2007, Nr. 59-2280 (2007-05-29), i. k. 1071010ISTA00X-1120
 Nr. XI-1262, 2010-12-23, Žin., 2011, Nr. 4-128 (2011-01-10), i. k. 1101010ISTA0XI-1262
+Nr. XI-2399, 2012-11-08, Žin., 2012, Nr. 135-6873 (2012-11-22), i. k. 1121010ISTA0XI-2399
  
 
 
@@ -512,15 +516,15 @@ MOKESČIŲ UŽ DIZAINO REGISTRAVIMĄ IR SU TUO SUSIJUSIŲ DOKUMENTŲ IŠDAVIMĄ 
 
 
  1. Už paraiškos įregistruoti dizainą (toliau – paraiška) padavimą 
- 320 
+ 240 
 
 
  1.1. Už kiekvieną papildomą dizaino pavyzdį 
- 120 
+ 90 
 
 
  2. Už registravimą, paskelbimą ir registracijos liudijimo išdavimą 
- 320 
+ 240 
 
 
  3. Už galiojimo termino pratęsimą: 
@@ -528,19 +532,19 @@ MOKESČIŲ UŽ DIZAINO REGISTRAVIMĄ IR SU TUO SUSIJUSIŲ DOKUMENTŲ IŠDAVIMĄ 
 
 
  3.1. antrajam penkmečiui 
- 800 
+ 300 
 
 
  3.2. trečiajam penkmečiui 
- 1200 
+ 400 
 
 
  3.3. ketvirtajam penkmečiui 
- 1600 
+ 500 
 
 
  3.4. penktajam penkmečiui 
- 2000 
+ 600 
 
 
  4. Už pakeitimo įrašymą paraiškoje ar Lietuvos Respublikos dizaino registre 
@@ -560,7 +564,7 @@ MOKESČIŲ UŽ DIZAINO REGISTRAVIMĄ IR SU TUO SUSIJUSIŲ DOKUMENTŲ IŠDAVIMĄ 
 
 
  8. Už dizaino licencinės ar sublicencinės sutarties registravimą 
- 320 
+ 100 
 
 
  9. Už išrašo iš Lietuvos Respublikos dizaino registro išdavimą 
@@ -596,6 +600,7 @@ Pastaba. Mokestis už dizaino registracijos galiojimo termino pratęsimą, mokam
 
 Priedo pakeitimai:
 Nr. X-1120, 2007-05-10, Žin., 2007, Nr. 59-2280 (2007-05-29), i. k. 1071010ISTA00X-1120
+Nr. XI-2399, 2012-11-08, Žin., 2012, Nr. 135-6873 (2012-11-22), i. k. 1121010ISTA0XI-2399
  
 
 
@@ -606,20 +611,20 @@ ______________
 
 
 
- 
-Lietuvos Respublikos 2001 m. birželio 5 d.
-įstatymo Nr. IX-352
+Lietuvos Respublikos
+2001 m. birželio 5 d. įstatymo Nr. IX-352
 3 priedėlis
  
 MOKESČIŲ UŽ PUSLAIDININKINIŲ GAMINIŲ TOPOGRAFIJŲ REGISTRAVIMĄ IR SU TUO SUSIJUSIŲ DOKUMENTŲ IŠDAVIMĄ DYDŽIAI (LITAIS)
  
 
 
-Už paraiškos įregistruoti puslaidininkinių gaminių topografiją padavimą – 400.
+Už paraiškos įregistruoti puslaidininkinių gaminių topografiją padavimą – 240.
+ 
 
 
 Priedo pakeitimai:
-Nr. X-1120, 2007-05-10, Žin., 2007, Nr. 59-2280 (2007-05-29), i. k. 1071010ISTA00X-1120
+Nr. XI-2399, 2012-11-08, Žin., 2012, Nr. 135-6873 (2012-11-22), i. k. 1121010ISTA0XI-2399
  
 
 
@@ -692,7 +697,7 @@ MOKESČIŲ UŽ PREKIŲ ŽENKLO REGISTRAVIMĄ IR SU TUO SUSIJUSIŲ DOKUMENTŲ IŠ
 
 
  12. Už licencinės (sublicencinės) sutarties duomenų įrašymą į Lietuvos Respublikos prekių ženklų registrą 
- 300 
+ 100 
 
 
  13. Už išrašo iš Lietuvos Respublikos prekių ženklų registro išdavimą 
@@ -724,6 +729,7 @@ Pastaba. Mokestis už prekių ženklo registracijos galiojimo termino pratęsim�
 
 Priedo pakeitimai:
 Nr. X-1120, 2007-05-10, Žin., 2007, Nr. 59-2280 (2007-05-29), i. k. 1071010ISTA00X-1120
+Nr. XI-2399, 2012-11-08, Žin., 2012, Nr. 135-6873 (2012-11-22), i. k. 1121010ISTA0XI-2399
  
 
 
@@ -788,3 +794,8 @@ Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1262, 2010-12-23, Žin., 2011, Nr. 4-128 (2011-01-10), i. k. 1101010ISTA0XI-1262
 Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymo 1 priedėlio pakeitimo ir papildymo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2399, 2012-11-08, Žin., 2012, Nr. 135-6873 (2012-11-22), i. k. 1121010ISTA0XI-2399
+Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymo 5, 6 straipsnių ir 1, 2, 3, 4 priedėlių pakeitimo įstatymas
