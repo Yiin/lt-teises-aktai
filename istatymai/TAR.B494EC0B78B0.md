@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B494EC0B78B0"
 
 # Lietuvos Respublikos prekių ženklų įstatymas
 
-Suvestinė redakcija nuo 2006-06-28 iki 2013-05-31
+Suvestinė redakcija nuo 2013-06-01 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2844, i. k. 1001010ISTAIII-1981
  
@@ -169,9 +169,11 @@ Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010IST
 
 
 
-23. Reglamentas dėl Bendrijos prekių ženklo – 1993 m. gruodžio 20 d. Tarybos reglamentas (EB) Nr. 40/94 dėl Bendrijos prekių ženklo.
+23. Reglamentas dėl Bendrijos prekių ženklo – 2009 m. vasario 26 d. Tarybos reglamentas (EB) Nr. 207/2009 dėl Bendrijos prekių ženklo (kodifikuota redakcija).
 Papildyta straipsnio dalimi:
 Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
+Straipsnio dalies pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
  
 
 
@@ -226,13 +228,10 @@ ANTRASIS SKIRSNIS
 5 straipsnis. Žymenys, galintys sudaryti ženklą
 
 
-Ženklai, kuriems taikoma šio įstatymo nustatyta teisinė apsauga, gali būti sudaryti iš šių žymenų:
+Ženklai, kuriems taikoma šio įstatymo nustatyta teisinė apsauga, gali būti sudaryti iš bet kokių žymenų, kuriuos galima pavaizduoti grafiškai, pavyzdžiui:
 
 
 1) žodžių, asmenų pavardžių, vardų, meninių pseudonimų, juridinių asmenų pavadinimų, šūkių;
-Straipsnio punkto pakeitimai:
-Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
- 
 
 
 
@@ -257,12 +256,14 @@ Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010IST
 
 
 
-6) bet kokio šio straipsnio 1–5 punkte nurodytų žymenų derinio.
+6) bet kokio šio straipsnio 1–5 punktuose nurodytų žymenų derinio.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
  
-
-
-
-
 
 
 
@@ -382,9 +383,19 @@ Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010IST
 
 
 
-7) tapatus ankstesniam Bendrijos prekių ženklui arba klaidinamai į jį panašus, jeigu vėlesnis ženklas pareikštas registruoti ar įregistruotas prekėms ir (ar) paslaugoms, kurios nėra panašios į prekes ir (ar) paslaugas, kurioms registruotas ankstesnis Bendrijos prekių ženklas, jeigu ankstesnis Bendrijos prekių ženklas turi reputaciją Europos Bendrijoje ir jeigu dėl neteisėto vėlesnio ženklo naudojimo gali atsirasti galimybė nesąžiningai įgyti pranašumą arba pažeisti ankstesnio Bendrijos prekių ženklo skiriamąjį požymį, arba pakenkti jo reputacijai. 
+7) tapatus ankstesniam Bendrijos prekių ženklui arba į jį panašus, jeigu vėlesnis ženklas įregistruotas prekėms ir (ar) paslaugoms, nepanašioms į prekes ir (ar) paslaugas, kurioms registruotas ankstesnis Bendrijos prekių ženklas, jeigu ankstesnis Bendrijos prekių ženklas turi reputaciją Europos Sąjungoje ir jeigu dėl neteisėto vėlesnio ženklo naudojimo gali atsirasti galimybė nesąžiningai įgyti pranašumą arba pažeisti ankstesnio Bendrijos prekių ženklo skiriamąjį požymį, arba pakenkti jo reputacijai; 
 Papildyta straipsnio punktu:
 Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
+Straipsnio punkto pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
+ 
+
+
+
+
+8) tapatus ankstesniam ženklui arba į jį panašus, jeigu vėlesnis ženklas įregistruotas prekėms ir (ar) paslaugoms, nepanašioms į prekes ir (ar) paslaugas, kurioms registruotas ankstesnis ženklas, jeigu ankstesnis ženklas turi reputaciją Lietuvos Respublikoje ir jeigu dėl neteisėto vėlesnio ženklo naudojimo gali atsirasti galimybė nesąžiningai įgyti pranašumą arba pažeisti ankstesnio ženklo skiriamąjį požymį, arba pakenkti jo reputacijai.
+Papildyta straipsnio punktu:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
  
 
 
@@ -433,10 +444,16 @@ Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010IST
 
 
 
-8 straipsnis. Nesaugomi ženklo elementai
+8 straipsnis. Apsauga ženklui. Nesaugomi ženklo elementai 
+Pakeistas straipsnio pavadinimas:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
+ 
 
 
-1. Ženklas neturi būti sudarytas iš elementų, kurie negalėtų būti registruojami kaip atskiri (savarankiški) ženklai.
+1. Ženklas, sudarytas iš elementų, kurie negalėtų būti registruojami kaip atskiri (savarankiški) ženklai, gali būti saugomas tik kaip visuma, jeigu šis ženklas atitinka kitus šio įstatymo reikalavimus.
+Straipsnio dalies pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
+ 
 
 
 
@@ -480,7 +497,10 @@ Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010IST
 
 
 
-4. Be šio įstatymo 38 straipsnyje nustatytų teisių, Lietuvos Respublikoje pripažinto plačiai žinomu ženklo savininkas turi ir teisę uždrausti kitiems asmenims be jo sutikimo naudoti pramoninėje ar komercinėje veikloje bet kurį žymenį, kurį galima palaikyti plačiai žinomo ženklo atgaminiu, imitacija ar vertimu ir kuris gali suklaidinti dėl tapačių ir (ar) panašių prekių, kurioms plačiai žinomas ženklas naudojamas.
+4. Be šio įstatymo 38 straipsnyje nustatytų teisių, Lietuvos Respublikoje pripažinto plačiai žinomu ženklo savininkas turi ir teisę uždrausti kitiems asmenims be jo sutikimo naudoti pramoninėje ar komercinėje veikloje bet kurį žymenį, kurį galima palaikyti plačiai žinomo ženklo atgaminiu, imitacija ar vertimu ir kuris gali suklaidinti dėl tapačių ir (ar) panašių prekių ir (ar) paslaugų, kurioms plačiai žinomas ženklas naudojamas.
+Straipsnio dalies pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
+ 
 
 
 
@@ -529,15 +549,12 @@ TREČIASIS SKIRSNIS
 11 straipsnis. Paraiškos padavimas
 
 
-1. Pareiškėjas, norintis įregistruoti ženklą, turi paduoti Valstybiniam patentų biurui paraišką.
+1. Pareiškėjas, norintis įregistruoti ženklą, turi paduoti Valstybiniam patentų biurui paraišką. Už paraiškos padavimą pareiškėjas privalo sumokėti nustatyto dydžio mokestį.
 
 
 
 
-2. Paraišką pareiškėjo vardu gali paduoti ir jo atstovas. Užsienio valstybių fiziniai asmenys, nuolat negyvenantys Lietuvos Respublikoje arba kitoje Europos Sąjungos valstybėje narėje, ir užsienio valstybių juridiniai asmenys, neturintys Lietuvos Respublikoje įregistruoto filialo arba atstovybės arba kitoje Europos Sąjungos valstybėje narėje savo buveinės, filialo arba atstovybės, paraiškas Valstybiniam patentų biurui paduoda ir visus su ženklo registracija susijusius veiksmus Valstybiniame patentų biure, įskaitant atstovavimą Apeliaciniame skyriuje, atlieka per Lietuvos Respublikos patentinį patikėtinį.
-Straipsnio dalies pakeitimai:
-Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
- 
+2. Paraišką pareiškėjo vardu gali paduoti ir jo atstovas. Užsienio valstybių fiziniai asmenys, nuolat negyvenantys Lietuvos Respublikoje arba kitoje Europos Sąjungos valstybėje narėje ar kitoje Europos ekonominės erdvės valstybėje, ir užsienio valstybių juridiniai asmenys, neturintys Lietuvos Respublikoje įregistruoto filialo arba atstovybės arba kitoje Europos Sąjungos valstybėje narėje ar kitoje Europos ekonominės erdvės valstybėje savo buveinės, filialo arba atstovybės, paraiškas Valstybiniam patentų biurui paduoda ir visus su ženklo registracija susijusius veiksmus Valstybiniame patentų biure, įskaitant atstovavimą Apeliaciniame skyriuje, atlieka per Lietuvos Respublikos patentinį patikėtinį.
 
 
 
@@ -555,32 +572,27 @@ Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010IST
 
 
 
-2) dokumentas, patvirtinantis, kad sumokėtas nustatytas mokestis;
+2) pareiškėjo įgaliojimas asmeniui, jeigu paraišką paduoda įgaliotas asmuo;
 
 
 
 
-3) pareiškėjo įgaliojimas asmeniui, jeigu paraišką paduoda įgaliotas asmuo;
+3) prioritetą patvirtinantis dokumentas, nurodytas šio įstatymo 10 straipsnio 3 dalyje (jei reikia);
 
 
 
 
-4) prašymas suteikti prioritetą (jei reikia);
+4) kompetentingų institucijų pagal šio įstatymo 6 straipsnio 1 dalies 8 ir 9 punktus išduotas leidimas (jei reikia); 
 
 
 
 
-5) kompetentingų institucijų pagal šio įstatymo 6 straipsnio 1 dalies 8 ir 9 punktus išduotas leidimas (jei reikia); 
+5) kolektyvinio ženklo naudojimo nuostatai (jei reikia);
 
 
 
 
-6) kolektyvinio ženklo naudojimo nuostatai (jei reikia);
-
-
-
-
-7) teisių savininko sutikimas pagal šio įstatymo 7 straipsnio 1 dalies 6 punktą (jei reikia).
+6) teisių savininko sutikimas pagal šio įstatymo 7 straipsnio 1 dalies 6 punktą (jei reikia).
 
 
 
@@ -605,22 +617,22 @@ Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010IST
 
 
 
-4) nuoroda, kad ženklas, kurį norima įregistruoti, yra erdvinis ženklas, (jei reikia);
+4) nuoroda, kad ženklas, kurį norima įregistruoti, yra erdvinis ženklas (jei reikia);
 
 
 
 
-5) nuoroda, kad spalva ar spalvų derinys, kompozicija yra laikomi skiriamuoju ženklo požymiu, (jei reikia); 
+5) nuoroda, kad spalva ar spalvų derinys, kompozicija yra laikomi skiriamuoju ženklo požymiu (jei reikia); 
 
 
 
 
-6) nuoroda, kurie ženklo elementai yra nesaugomi, (jei reikia);
+6) nuoroda, kurie ženklo elementai yra nesaugomi (jei reikia);
 
 
 
 
-7) nuoroda, kad ženklas registruojamas ir skelbiamas standartiniais Valstybinio patentų biuro rašmenimis, (jei reikia);
+7) nuoroda, kad ženklas registruojamas ir skelbiamas standartiniais Valstybinio patentų biuro rašmenimis (jei reikia);
 
 
 
@@ -630,17 +642,34 @@ Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010IST
 
 
 
-9) nuoroda, kad ženklas, kuriam įregistruoti paduodama paraiška, yra kolektyvinis ženklas. 
+9) nuoroda, kad ženklas, kuriam įregistruoti paduodama paraiška, yra kolektyvinis ženklas; 
+
+
+
+
+10) pirmosios paraiškos padavimo valstybė, šios paraiškos numeris, data arba eksponavimo tarptautinėje parodoje data, valstybė (jei reikia). Šių duomenų nurodymas laikomas prašymu suteikti prioriteto datą;
+
+
+
+
+11) duomenys, rodantys, kad sumokėtas nustatytas mokestis.
 
 
 
 
 
 
-6. Paraiškoje gali būti prašoma įregistruoti ženklą vienai ar daugiau prekių ir (ar) paslaugų klasių. Už daugiau nei vieną paraiškoje nurodytą prekių ir (ar) paslaugų klasę mokamas nustatytas papildomas mokestis.
+6. Paraiškoje gali būti prašoma įregistruoti ženklą vienai ar daugiau prekių ir (ar) paslaugų klasių. Už kiekvieną papildomą paraiškoje nurodytą prekių ir (ar) paslaugų klasę mokamas nustatytas papildomas mokestis.
+
+
+
+
+7. Mokestį už paraiškos įregistruoti prekių ženklą padavimą pareiškėjas privalo sumokėti per 1 mėnesį nuo šios paraiškos padavimo datos.
+
+
+Straipsnio pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
  
-
-
 
 
 
@@ -648,12 +677,18 @@ Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010IST
 12 straipsnis. Paraiškos padavimo data
 
 
-1. Paraiškos padavimo data laikoma ta diena, kai Valstybinis patentų biuras gauna šio įstatymo 11 straipsnio 4 dalies 1 ir 2 punktuose išvardytus dokumentus.
+1. Paraiškos padavimo data laikoma ta diena, kai Valstybinis patentų biuras gauna šio įstatymo 11 straipsnio 4 dalies 1 punkte nurodytą prašymą, kuriame yra pateikti bent šio įstatymo 11 straipsnio 5 dalies 1, 2 ir 3 punktuose nurodyti duomenys, išskyrus pareikšto registruoti ženklo aprašą. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
+ 
 
 
 
 
-2. Nepateikus nors vieno iš šio įstatymo 11 straipsnio 4 dalies 1 ir 2 punktuose nurodytų dokumentų, padavimo data paraiškai nesuteikiama ir paraiškos dokumentai grąžinami pareiškėjui, nurodant paraiškos nepriėmimo motyvus. 
+2. Paraiškai padavimo data nesuteikiama, jeigu nepateikiamas nors vienas iš šio straipsnio 1 dalyje nurodytų duomenų arba pateikti duomenys neatitinka šio įstatymo arba Taisyklėse nustatytų reikalavimų. Tokiu atveju paraiškos dokumentai grąžinami pareiškėjui, nurodant paraiškos nepriėmimo motyvus. Paraiška pripažįstama nepaduota ir paraiškos dokumentai grąžinami pareiškėjui, jeigu per šio įstatymo 11 straipsnio 7 dalyje nurodytą terminą nesumokamas mokestis už paraiškos įregistruoti prekių ženklą padavimą.
+Straipsnio dalies pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
+ 
 
 
 
@@ -679,12 +714,12 @@ Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010IST
 13 straipsnis. Paraiškos ekspertizė
 
 
-1. Valstybinis patentų biuras per 1 mėnesį nuo paraiškos gavimo dienos atlieka formalią paraiškos dokumentų ekspertizę: patikrina, ar pateikti ir ar tinkamai įforminti šio įstatymo 11 straipsnio 4 dalies 1 ir 2 punktuose nurodyti dokumentai.
+1. Valstybinis patentų biuras per Taisyklėse nustatytą terminą atlieka formalią paraiškos dokumentų ekspertizę: patikrina, ar pateikti šio įstatymo 11 straipsnio 4 dalyje nurodyti dokumentai.
 
 
 
 
-2. Valstybinis patentų biuras paraišką pripažįsta paduota ir suteikia jai padavimo datą bei numerį, jeigu pateikti ir tinkamai įforminti šio įstatymo 11 straipsnio 4 dalies 1 ir 2 punktuose nurodyti dokumentai. 
+2. Valstybinis patentų biuras, nustatęs, kad paraiškoje pateikti šio įstatymo 12 straipsnio 1 dalyje nurodyti duomenys, paraišką pripažįsta paduota ir suteikia jai padavimo datą ir numerį.
 
 
 
@@ -694,20 +729,17 @@ Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010IST
 
 
 
-4. Suteikęs paraiškai padavimo datą, Valstybinis patentų biuras patikrina, ar pateikti visi šio įstatymo 11 straipsnio 4 dalyje nurodyti dokumentai, ar jie atitinka šio įstatymo ir Taisyklių reikalavimus, ar prekės ir (ar) paslaugos, kurioms pareikštas ženklas registruoti, atitinka Nicos klasifikacijos reikalavimus.
+4. Nustatęs, kad nepateikti šio įstatymo 11 straipsnio 4 dalies 1–5 punktuose nurodyti dokumentai arba kad jie neatitinka šio įstatymo ar Taisyklėse nustatytų reikalavimų, Valstybinis patentų biuras apie tai raštu praneša pareiškėjui arba jo atstovui, nurodydamas trūkumus. Jeigu per Taisyklėse nustatytą terminą trūkumai neištaisomi, Valstybinis patentų biuras dokumentą ar paraišką pripažįsta nepaduotais ir apie tai raštu praneša pareiškėjui ar jo atstovui.
 
 
 
 
-5. Nustatęs, kad pateikti ne visi šio įstatymo 11 straipsnio 4 dalyje nurodyti dokumentai arba kad jie neatitinka šio įstatymo ir Taisyklių reikalavimų, Valstybinis patentų biuras apie tai raštu praneša pareiškėjui arba jo atstovui, nurodydamas trūkumus ir reikalingas pataisas. Jeigu per 3 mėnesius nuo šio pranešimo išsiuntimo dienos paraiška nepataisoma, Valstybinis patentų biuras ją pripažįsta nepaduota ir apie tai raštu praneša pareiškėjui ar jo atstovui.
+5. Nustatęs, kad prekės ir (ar) paslaugos neatitinka Nicos klasifikacijos, Valstybinis patentų biuras išsiunčia pareiškėjui ar jo atstovui pranešimą, kuriame nurodo trūkumus ir pasiūlymus, kaip juos ištaisyti. Jeigu per Taisyklėse nustatytą terminą nurodyti trūkumai neištaisomi arba jeigu pareiškėjas ar jo atstovas nesutinka su Valstybinio patentų biuro pasiūlymais, Valstybinis patentų biuras atmeta visą paraišką arba tą jos dalį, kuri skirta toms prekėms ir (ar) paslaugoms, su kurių klasifikavimu nesutiko pareiškėjas ar jo atstovas, ir apie tai raštu praneša pareiškėjui ar jo atstovui.
 
 
-
-
-6. Nustatęs, kad prekės ir (ar) paslaugos neatitinka Nicos klasifikacijos, Valstybinis patentų biuras išsiunčia pareiškėjui ar jo atstovui pranešimą, kuriame nurodo trūkumus ir ką būtina pataisyti. Jeigu per 3 mėnesius nuo šio pranešimo išsiuntimo dienos nurodyti trūkumai neištaisomi arba jeigu pareiškėjas ar jo atstovas nesutinka su Valstybinio patentų biuro nurodymais, Valstybinis patentų biuras atmeta visą paraišką arba tą jos dalį, kuri skirta toms prekėms ir (ar) paslaugoms, su kurių klasifikavimu nesutiko pareiškėjas ar jo atstovas, ir apie tai raštu praneša pareiškėjui ar jo atstovui. 
+Straipsnio pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
  
-
-
 
 
 
@@ -756,7 +788,10 @@ Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010IST
 15 straipsnis. Apeliacijos pareiškimas
 
 
-1. Pareiškėjas ar jo atstovas, nesutinkantis su pakartotinės ekspertizės metu Valstybinio patentų biuro priimtu sprendimu, turi teisę per 3 mėnesius nuo šio sprendimo išsiuntimo dienos paduoti Valstybinio patentų biuro Apeliaciniam skyriui (toliau – Apeliacinis skyrius) rašytinę apeliaciją su motyvuotu prašymu peržiūrėti ekspertizės išvadas ir dokumentą, kad nustatytas mokestis sumokėtas.
+1. Pareiškėjas ar jo atstovas, nesutinkantis su pakartotinės ekspertizės metu Valstybinio patentų biuro priimtu sprendimu, turi teisę per 3 mėnesius nuo šio sprendimo išsiuntimo dienos paduoti Valstybinio patentų biuro Apeliaciniam skyriui (toliau – Apeliacinis skyrius) rašytinę apeliaciją su motyvuotu prašymu peržiūrėti ekspertizės išvadas. Už apeliacijos padavimą turi būti sumokėtas nustatytas mokestis.
+Straipsnio dalies pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
+ 
 
 
 
@@ -797,7 +832,9 @@ Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010IST
 
 
 
-3. Pareiškėjui ar jo atstovui pristačius dokumentą, patvirtinantį, kad mokestis sumokėtas, ženklas įrašomas į Lietuvos Respublikos prekių ženklų registrą. Duomenys apie įrašytą ženklą skelbiami Valstybinio patentų biuro oficialiame biuletenyje.
+3. Pareiškėjui ar jo atstovui sumokėjus nustatytą mokestį, ženklas įrašomas į Lietuvos Respublikos prekių ženklų registrą. Duomenys apie įrašytą ženklą skelbiami Valstybinio patentų biuro oficialiame biuletenyje.
+Straipsnio dalies pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
  
 
 
@@ -888,20 +925,27 @@ Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010IS
 19 straipsnis. Apeliacijų ir protestų nagrinėjimo Valstybiniame patentų biure tvarka
 
 
-1. Apeliacinio skyriaus posėdžiai, kurių metu nagrinėjamos apeliacijos ar protestai, yra vieši.
+1. Apeliacijos ir protestai nagrinėjami Apeliacinio skyriaus posėdyje rašytinio arba viešo žodinio proceso tvarka. 
 
 
 
 
-2. Pareiškėjas, suinteresuotas asmuo, užprotestuoto ženklo savininkas ar jų atstovai turi teisę dalyvauti Apeliacinio skyriaus posėdyje nagrinėjant apeliaciją ar protestą. 
+2. Apeliacijos ir protestai paprastai nagrinėjami rašytinio proceso tvarka. Apeliacijas ar protestus nagrinėjant rašytinio proceso tvarka, pareiškėjas, suinteresuotas asmuo, užprotestuoto ženklo savininkas ar jų atstovai į Apeliacinio skyriaus posėdį nekviečiami ir nagrinėjimas vyksta jiems nedalyvaujant.
 
 
 
 
-3. Apeliacijų ir protestų nagrinėjimo tvarką nustato Valstybinio patentų biuro direktoriaus tvirtinamos apeliacijų ir protestų nagrinėjimo taisyklės.
+3. Apeliacijos ir protestai žodinio proceso tvarka nagrinėjami išimtiniais atvejais, kai ginčas yra sudėtingas arba turi reikšmės formuojant Apeliacinio skyriaus naują praktiką. Apeliacijas ar protestus nagrinėjant žodinio proceso tvarka, pareiškėjas, suinteresuotas asmuo, užprotestuoto ženklo savininkas ar jų atstovai kviečiami į Apeliacinio skyriaus posėdį, tačiau jų neatvykimas nekliudo nagrinėti apeliaciją ar protestą.
+
+
+
+
+4. Apeliacijų ir protestų nagrinėjimo tvarka nustatoma Valstybinio patentų biuro direktoriaus tvirtinamose apeliacijų ir protestų nagrinėjimo taisyklėse.
+
+
+Straipsnio pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
  
-
-
 
 
 
@@ -1072,7 +1116,7 @@ Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010IS
 
 
 
-2. Pareiškėjas, ženklo savininkas ar jų atstovas, prašydami įrašyti pakeitimą paraiškoje ar Lietuvos Respublikos prekių ženklų registre, turi pateikti šiuos dokumentus:
+2. Pareiškėjas, ženklo savininkas ar jų atstovas, prašydami įrašyti pakeitimą paraiškoje ar Lietuvos Respublikos prekių ženklų registre, turi sumokėti nustatytą mokestį ir pateikti šiuos dokumentus:
 
 
 1) prašymą įrašyti pakeitimą paraiškoje ar Lietuvos Respublikos prekių ženklų registre;
@@ -1080,19 +1124,20 @@ Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010IS
 
 
 
-2) prašymą pagrindžiančius dokumentus, jeigu prašoma įrašyti šio straipsnio 1 dalies 5 ir 6 punktuose nurodytus pakeitimus;
+2) prašymą pagrindžiančius dokumentus, jeigu prašoma įrašyti šio straipsnio 1 dalies 5 ir 6 punktuose nurodytus pakeitimus. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
+ 
 
 
 
 
-3) dokumentą, patvirtinantį, kad sumokėtas nustatytas mokestis.
-
-
-
-
-
-
-3. Gavęs šio straipsnio 2 dalyje nurodytus dokumentus, Valstybinis patentų biuras per 1 mėnesį nuo gavimo dienos juos patikrina ir, jeigu jie atitinka šio įstatymo bei Taisyklių reikalavimus, įrašo pakeitimą į paraišką ar Lietuvos Respublikos prekių ženklų registrą.
+3. Gavęs šio straipsnio 2 dalyje nurodytus dokumentus, Valstybinis patentų biuras per Taisyklėse nustatytą terminą juos patikrina ir, jeigu dokumentai atitinka šio įstatymo ir Taisyklėse nustatytus reikalavimus, įrašo pakeitimą į paraišką ar Lietuvos Respublikos prekių ženklų registrą. Nustatęs, kad pateikti dokumentai neatitinka šio įstatymo ar Taisyklėse nustatytų reikalavimų, Valstybinis patentų biuras išsiunčia pareiškėjui ar jo atstovui pranešimą, kuriame nurodo trūkumus ir pasiūlymus, kaip juos ištaisyti. Jeigu per 1 mėnesį nuo šio pranešimo išsiuntimo dienos trūkumai neištaisomi, prašymas įrašyti pakeitimą paraiškoje ar Lietuvos Respublikos prekių ženklų registre laikomas nepaduotu. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
+ 
 
 
 
@@ -1106,6 +1151,49 @@ Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010IS
  
 
 
+
+
+
+
+231 straipsnis. Paraiškos arba ženklo registracijos padalijimas
+
+
+1. Pareiškėjui arba jo atstovui pateikus rašytinį prašymą ir sumokėjus nustatytą mokestį, paraiška, kurioje nurodyti keli prekių ir (ar) paslaugų, kurioms žymėti pareikštas registruoti ženklas, pavadinimai, gali būti padalyta į pirminę paraišką ir atskirtąją arba kelias atskirtąsias paraiškas, Taisyklėse nustatyta tvarka atskiriant nurodytus prekių ir (ar) paslaugų pavadinimus. Atskirtojoje paraiškoje nurodyti prekių ir (ar) paslaugų pavadinimai negali sutapti su pirminėje paraiškoje paliktaisiais arba kitose atskirtosiose paraiškose nurodytais prekių ir (ar) paslaugų pavadinimais.
+
+
+
+
+2. Atskirtajai paraiškai galioja pirminės paraiškos padavimo data ir prioriteto teisė, jeigu ši yra.
+
+
+
+
+3. Už kiekvieną atskirtąją paraišką mokamas mokestis kaip už naujai paduotą paraišką su viena prekių ir (ar) paslaugų klase. 
+
+
+
+
+4. Ženklo registracija gali būti padalijama, kol ženklo registracija galioja, išskyrus šio straipsnio 5 dalyje nurodytas išimtis. Ženklo registracijos padalijimui mutatis mutandis taikomos šio straipsnio 1 ir 2 dalių nuostatos. 
+
+
+
+
+5. Ženklo registracija negali būti dalijama, jeigu nėra suėjęs šio įstatymo 18 straipsnio 1 dalyje nustatytas terminas, taip pat toms prekėms ir (ar) paslaugoms, dėl kurių paduotas protestas arba kurioms ženklo registraciją prašoma pripažinti negaliojančia arba panaikinti teisme, kol įsigalioja atitinkamas Apeliacinio skyriaus sprendimas arba įsiteisėja teismo sprendimas.
+
+
+
+
+6. Už kiekvieną atskirtąją registraciją mokamas mokestis kaip už ženklo registravimą, paskelbimą ir registracijos liudijimo išdavimą. 
+
+
+
+
+7. Laikoma, kad iki prašymo padalyti paraišką ar ženklo registraciją gavimo Valstybiniame patentų biure dienos paduoti su pirmine paraiška ar pirmine registracija susiję prašymai yra paduoti, o iki šios dienos sumokėti mokesčiai yra sumokėti ir dėl atskirtosios paraiškos arba atskirtosios ženklo registracijos.
+
+
+Papildyta straipsniu:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
+ 
 
 
 
@@ -1174,7 +1262,10 @@ Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010IS
 
 
 
-2. Įgaliojimas atstovauti pareiškėjui ar ženklo savininkui sudaromas paprasta rašytine forma. Jeigu prašymą įregistruoti ženklą ir išduoti prekių ženklo liudijimą paduoda atstovas, bet kartu su šio įstatymo 11 straipsnio 4 dalies 1 ir 2 punktuose išvardytais dokumentais nepateikia įgaliojimo, jis turi būti pateiktas per 3 mėnesius nuo paraiškos padavimo datos.
+2. Įgaliojimas atstovauti pareiškėjui ar ženklo savininkui sudaromas paprasta rašytine forma.
+Straipsnio dalies pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
+ 
 
 
 
@@ -1200,23 +1291,17 @@ Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010IS
 26 straipsnis. Terminai
 
 
-1. Pareiškėjui, ženklo ar tarptautinės registracijos savininkui arba jo atstovui pateikus prašymą raštu ir sumokėjus nustatytą mokestį, šio įstatymo 13 straipsnio 5 ir 6 dalyse, 14 straipsnio 3 dalyje, 15 straipsnio 1 dalyje, 17 straipsnio 1 dalyje, 18 straipsnio 4 dalyje, 25 straipsnio 1 dalyje, 34 straipsnio 1, 2 ir 4 dalyse numatyti terminai gali būti pratęsti vieną kartą, bet ne ilgiau kaip 2 mėnesiams nuo pirmojo termino pasibaigimo dienos. 
-Straipsnio dalies pakeitimai:
-Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
- 
+1. Pareiškėjui, ženklo ar tarptautinės registracijos savininkui arba jo atstovui pateikus rašytinį prašymą ir sumokėjus nustatytą mokestį, šio įstatymo 13 straipsnio 4 ir 5 dalyse, 14 straipsnio 3 dalyje, 15 straipsnio 1 dalyje, 17 straipsnio 1 dalyje, 25 straipsnio 1 dalyje, 34 straipsnio 1 ir 2 dalyse numatyti terminai gali būti pratęsti vieną kartą, bet ne ilgiau kaip 2 mėnesiams nuo pirmojo termino pasibaigimo dienos.
 
 
 
 
 2. Pareiškėjas, ženklo ar tarptautinės registracijos savininkas arba jo atstovas ne vėliau kaip per 2 mėnesius nuo pirmojo termino pasibaigimo dienos gali pateikti prašymą pratęsti terminą. Terminas pratęsiamas Valstybinio patentų biuro sprendimu.
-Straipsnio dalies pakeitimai:
-Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
- 
 
 
 
 
-3. Pareiškėjo praleistas terminas, nustatytas 17 straipsnio 1 dalyje, gali būti atkurtas pateikus šiuos dokumentus:
+3. Pareiškėjo praleistas terminas, nustatytas šio įstatymo 17 straipsnio 1 dalyje, gali būti atkurtas pareiškėjui sumokėjus nustatytą mokestį ir Taisyklėse nustatyta tvarka pateikus Valstybiniam patentų biurui šiuos dokumentus:
 
 
 1) motyvuotą prašymą atkurti praleistą terminą;
@@ -1224,27 +1309,24 @@ Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010IS
 
 
 
-2) praleidimo priežastis pagrindžiantį dokumentą;
-
-
-
-
-3) dokumentą, patvirtinantį, kad sumokėtas nustatytas mokestis.
+2) praleidimo priežastis pagrindžiančius dokumentus.
 
 
 
 
 
 
-4. Šio straipsnio 3 dalyje nurodytas terminas atkuriamas Valstybinio patentų biuro direktoriaus sprendimu.
+4. Šio straipsnio 3 dalyje nurodytas terminas atkuriamas Valstybinio patentų biuro sprendimu.
 
 
 
 
 5. Atsisakymas pratęsti ar atkurti terminą gali būti skundžiamas teismui įstatymų nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
  
-
-
 
 
 
@@ -1257,7 +1339,9 @@ Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010IS
 
 
 
-2. Mokesčių dydį, konkrečius veiksmus, už kuriuos turi būti sumokėti mokesčiai, mokesčių mokėjimo tvarką nustato šis įstatymas ir kiti Lietuvos Respublikos mokesčių įstatymai.
+2. Mokesčių dydį ir jų mokėjimo tvarką nustato Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymas.
+Straipsnio dalies pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
  
 
 
@@ -1466,7 +1550,10 @@ Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010IS
 
 
 
-5. Už tarptautinės paraiškos nagrinėjimą Valstybiniame patentų biure pareiškėjas turi sumokėti nustatytą mokestį. Jeigu pareiškėjas nepateikia dokumento, patvirtinančio nustatyto mokesčio sumokėjimą, Valstybinis patentų biuras tarptautinę paraišką grąžina.
+5. Už tarptautinės paraiškos nagrinėjimą Valstybiniame patentų biure pareiškėjas turi sumokėti nustatytą mokestį.
+Straipsnio dalies pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
+ 
 
 
 
@@ -1539,7 +1626,10 @@ Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010IS
 
 
 
-5. Tarptautinės ženklo registracijos savininko suteikta licencija negalioja Lietuvos Respublikoje tretiesiems asmenims, jeigu duomenys apie licencinę sutartį neįrašyti šio įstatymo 44 straipsnio nustatyta tvarka.
+5. Duomenys apie tarptautinės ženklo registracijos savininko suteiktą licenciją gali būti įrašyti į Lietuvos Respublikos prekių ženklų registrą šio įstatymo 44 straipsnyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
+ 
 
 
 
@@ -1588,22 +1678,18 @@ Pradinis ženklo registracijos galiojimo terminas yra 10 metų nuo paraiškos pa
 
 
 
-2. Ženklo registracijos galiojimas pratęsiamas Valstybinio patentų biuro sprendimu, jeigu Valstybiniam patentų biurui pateikiami šie dokumentai:
-
-
-1) prašymas pratęsti ženklo registracijos galiojimą visoms arba daliai prekių ir (ar) paslaugų; 
-
-
-
-
-2) dokumentas, patvirtinantis, kad sumokėtas nustatytas mokestis.
+2. Ženklo registracijos galiojimas pratęsiamas Valstybinio patentų biuro sprendimu, jeigu sumokėtas nustatytas mokestis ir Valstybiniam patentų biurui Taisyklėse nustatyta tvarka pateikiamas prašymas pratęsti ženklo registracijos galiojimą visoms arba daliai prekių ir (ar) paslaugų. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
+ 
 
 
 
 
-
-
-3. Šio straipsnio 2 dalyje nurodytus dokumentus ženklo savininkas ar jo atstovas turi pateikti ne vėliau kaip paskutiniais ženklo registracijos galiojimo metais. 
+3. Šio straipsnio 2 dalyje nurodytą prašymą pratęsti ženklo registracijos galiojimą ženklo savininkas ar jo atstovas turi pateikti per paskutinius ženklo registracijos galiojimo metus.
+Straipsnio dalies pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
+ 
 
 
 
@@ -1668,7 +1754,10 @@ Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010IST
 
 
 
-3) tapatus įregistruotam ženklui nepanašioms prekėms ir (ar) paslaugoms ar klaidinamai panašus į jį, jeigu įregistruotasis ženklas Lietuvos Respublikoje turi reputaciją ir jeigu dėl neteisėto tokio žymens vartojimo įgyjamas nesąžiningas pranašumas arba pažeidžiamas to ženklo skiriamasis požymis, arba pakenkiama jo reputacijai.
+3) tapatus įregistruotam ženklui nepanašioms prekėms ir (ar) paslaugoms ar panašus į jį, jeigu įregistruotasis ženklas Lietuvos Respublikoje turi reputaciją ir jeigu dėl neteisėto tokio žymens naudojimo įgyjamas nesąžiningas pranašumas arba pažeidžiamas to ženklo skiriamasis požymis, arba pakenkiama jo reputacijai.
+Straipsnio punkto pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
+ 
 
 
 
@@ -1830,23 +1919,17 @@ TEISĖS Į ŽENKLĄ PERDAVIMAS, LICENCIJAVIMAS IR ĮKEITIMAS
 43 straipsnis. Teisės į pareikštą registruoti ar įregistruotą ženklą perdavimas
 
 
-1. Teisė į pareikštą registruoti ar įregistruotą ženklą gali būti perduota pagal sutartį visai ar iš dalies, kartu su kitomis teisėmis, susijusiomis su juridinio asmens veikla, arba atskirai. Teisė į ženklą pereina kartu su juridiniu asmeniu, jeigu sutartyje nenumatyta kitaip.
-Straipsnio dalies pakeitimai:
-Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
- 
+1. Teisė į pareikštą registruoti ar įregistruotą ženklą gali būti perduota pagal sutartį visai ar iš dalies, kartu su kitomis teisėmis, susijusiomis su juridinio asmens veikla, arba atskirai, išskyrus atvejus, kai perdavus teisę į pareikštą registruoti ar įregistruotą ženklą šis ženklas galėtų suklaidinti visuomenę, kaip nustatyta šio įstatymo 6 straipsnio 1 dalies 5 punkte, arba kai teisės perėmėjas nėra gavęs leidimo ar sutikimo, kaip nustatyta šio įstatymo 6 straipsnio 1 dalies 8 ar 9 punkte. Teisė į ženklą pereina kartu su juridiniu asmeniu, jeigu sutartyje nenumatyta kitaip.
 
 
 
 
 2. Teisė į pareikštą registruoti ar įregistruotą ženklą gali būti perduota visoms arba daliai prekių ir (ar) paslaugų žymėti.
-Straipsnio dalies pakeitimai:
-Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
- 
 
 
 
 
-3. Teisės į pareikštą registruoti ar įregistruotą ženklą perdavimas įrašomas į Lietuvos Respublikos prekių ženklų registrą vienos iš teisės perdavimo šalių prašymu, jeigu Valstybiniam patentų biurui pateikiami šie dokumentai:
+3. Teisės į pareikštą registruoti ar įregistruotą ženklą perdavimas įrašomas į Lietuvos Respublikos prekių ženklų registrą vienos iš teisės perdavimo šalių prašymu, jeigu yra sumokėtas nustatytas mokestis ir Valstybiniam patentų biurui pateikiami šie dokumentai:
 
 
 1) prašymas įrašyti teisės perdavimą;
@@ -1854,24 +1937,24 @@ Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010IS
 
 
 
-2) teisės perdavimą patvirtinantis dokumentas;
+2) šalių pasirašytas teisės perdavimą patvirtinantis dokumentas arba vienos iš šalių arba jos atstovo pasirašytas išrašas iš teisės perdavimo sutarties;
 
 
 
 
-3) dokumentas, patvirtinantis, kad sumokėtas nustatytas mokestis;
+3) įgaliojimas atstovui (jei reikia);
 
 
 
 
-4) įgaliojimas atstovui (jeigu reikia).
+4) šio įstatymo 6 straipsnio 1 dalies 8 ar 9 punkte nurodytas leidimas ar sutikimas, išduotas teisių perėmėjui (jei reikia).
 
 
 
 
 
 
-4. Valstybinis patentų biuras per 1 mėnesį nuo šio straipsnio 2 dalyje nurodytų dokumentų gavimo dienos patikrina gautus dokumentus ir, jeigu dokumentai atitinka šio straipsnio reikalavimus, teisės į pareikštą registruoti ar įregistruotą ženklą perdavimo duomenis įrašo į Lietuvos Respublikos prekių ženklų registrą.
+4. Valstybinis patentų biuras per Taisyklėse nustatytą terminą patikrina gautus dokumentus ir, jeigu dokumentai atitinka šio įstatymo ir Taisyklėse nustatytus reikalavimus, teisės į pareikštą registruoti ar įregistruotą ženklą perdavimo duomenis įrašo į Lietuvos Respublikos prekių ženklų registrą. Nustatęs, kad pateikti dokumentai neatitinka šio įstatymo ar Taisyklėse nustatytų reikalavimų, Valstybinis patentų biuras išsiunčia pareiškėjui, ženklo savininkui ar jo atstovui pranešimą, kuriame nurodo trūkumus ir pasiūlymus, kaip juos ištaisyti. Jeigu per 1 mėnesį nuo pranešimo išsiuntimo dienos trūkumai neištaisomi, prašymas įrašyti teisės perdavimą laikomas nepaduotu.
 
 
 
@@ -1882,9 +1965,21 @@ Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010IS
 
 
 6. Teisės į pareikštą registruoti ar įregistruotą ženklą perdavimas įsigalioja nuo perdavimo duomenų įrašymo į Lietuvos Respublikos prekių ženklų registrą dienos. Teisės į įregistruotą ženklą perdavimo duomenys skelbiami Valstybinio patentų biuro oficialiame biuletenyje.
+
+
+
+
+7. Jeigu perdavus teisę į pareikštą registruoti ar įregistruotą ženklą šis ženklas galėtų suklaidinti visuomenę, kaip nustatyta šio įstatymo 6 straipsnio 1 dalies 5 punkte, arba jeigu teisės perėmėjas nėra gavęs leidimo ar sutikimo, kaip nustatyta šio įstatymo 6 straipsnio 1 dalies 8 ar 9 punkte, Valstybinis patentų biuras priima sprendimą neįrašyti teisės į pareikštą įregistruoti ar įregistruotą ženklą perdavimo duomenų į Lietuvos Respublikos prekių ženklų registrą. Šis sprendimas ne vėliau kaip per 10 dienų nuo priėmimo išsiunčiamas teisės perdavimo sutarties šaliai, kuri pateikė prašymą įrašyti teisės perdavimą.
+
+
+
+
+8. Šio straipsnio 7 dalyje nurodytam sprendimui mutatis mutandis taikomos šio įstatymo 14 straipsnio 3, 4 ir 5 dalių ir 15 straipsnio nuostatos.
+
+
+Straipsnio pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
  
-
-
 
 
 
@@ -1897,22 +1992,20 @@ Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010IS
 
 
 
-2. Licencinės sutarties duomenys įrašomi į Lietuvos Respublikos prekių ženklų registrą vienos iš licencinės sutarties šalių prašymu. Kartu su prašymu Valstybiniam patentų biurui pateikiami šie dokumentai:
+2. Licencinės sutarties duomenys įrašomi į Lietuvos Respublikos prekių ženklų registrą vienos iš licencinės sutarties šalių prašymu, jeigu yra sumokėtas nustatytas mokestis ir Valstybiniam patentų biurui pateikiami šie dokumentai:
 
 
-1) abiejų šalių pasirašytas licencinės sutarties sudarymą patvirtinantis dokumentas ar notaro patvirtintas išrašas iš licencinės sutarties; 
-
-
-
-
-2) dokumentas, patvirtinantis, kad sumokėtas nustatytas mokestis;
+1) šalių pasirašytas licencinės sutarties sudarymą patvirtinantis dokumentas arba vienos iš šalių arba jos atstovo pasirašytas išrašas iš licencinės sutarties;
 
 
 
 
-3) įgaliojimas atstovui (jeigu reikia).
+2) įgaliojimas atstovui (jei reikia). 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
+ 
 
 
 
@@ -1957,12 +2050,18 @@ Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010IS
 
 
 
-4. Valstybinis patentų biuras per 1 mėnesį nuo šio straipsnio 2 dalyje nurodytų dokumentų gavimo dienos patikrina gautus dokumentus ir, jeigu dokumentai atitinka šio straipsnio reikalavimus, licencinės sutarties sudarymo duomenis įrašo į Lietuvos Respublikos prekių ženklų registrą.
+4. Valstybinis patentų biuras per Taisyklėse nustatytą terminą patikrina gautus dokumentus ir, jeigu dokumentai atitinka šio įstatymo ir Taisyklėse nustatytus reikalavimus, licencinės sutarties sudarymo duomenis įrašo į Lietuvos Respublikos prekių ženklų registrą. Nustatęs, kad pateikti dokumentai neatitinka šio įstatymo ar Taisyklėse nustatytų reikalavimų, Valstybinis patentų biuras išsiunčia ženklo savininkui ar jo atstovui pranešimą, kuriame nurodo trūkumus ir pasiūlymus, kaip juos ištaisyti. Jeigu per 1 mėnesį nuo pranešimo išsiuntimo dienos trūkumai neištaisomi, prašymas licencinės sutarties duomenis įrašyti į Lietuvos Respublikos prekių ženklų registrą laikomas nepaduotu. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
+ 
 
 
 
 
-5. Licencinė sutartis tretiesiems asmenims įsigalioja nuo jos įrašymo į Lietuvos Respublikos prekių ženklų registrą dienos. Licencinės sutarties įrašymo duomenys skelbiami Valstybinio patentų biuro oficialiame biuletenyje.
+5. Licencinės sutarties įrašymo duomenys skelbiami Valstybinio patentų biuro oficialiame biuletenyje.
+Straipsnio dalies pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
+ 
 
 
 
@@ -2029,7 +2128,10 @@ Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010IS
 
 
 
-4. Ženklo registracija negali būti pripažinta negaliojančia arba panaikinta, jeigu ankstesnio įregistruoto ženklo savininkas penkerius metus akivaizdžiai toleravo vėlesnio ženklo naudojimą, pagrįstą sąžiningais ketinimais paduota paraiška, išskyrus atvejus, kai lygiagretus jų naudojimas gali klaidinti visuomenę arba prieštarauti viešajai tvarkai.
+4. Ženklo registracija negali būti pripažinta negaliojančia arba panaikinta, jeigu ankstesnio ženklo savininkas penkerius metus žinojo ir neprieštaravo vėlesnio ženklo naudojimui po jo registracijos, išskyrus atvejus, kai paraiška dėl vėlesnio ženklo registracijos buvo paduota turint nesąžiningų ketinimų.
+Straipsnio dalies pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
+ 
 
 
 
@@ -2067,7 +2169,10 @@ Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010IST
 
 
 
-2. Ženklo registracija gali būti panaikinta, jeigu per penkerius metus po ženklo registracijos liudijimo išdavimo dienos ženklo savininkas Lietuvos Respublikoje nepradėjo naudoti ženklo ar rimtai nesirengė juo žymėti prekes ir (ar) paslaugas, kurioms tas ženklas buvo įregistruotas, arba jeigu ženklas nebuvo naudojamas penkerius metus iš eilės, išskyrus atvejus, kai naudoti ženklą sutrukdė rimtos priežastys, pavyzdžiui, importo suvaržymas ar kitos nuo ženklo savininko valios nepriklausančios aplinkybės.
+2. Ženklo registracija gali būti panaikinta, jeigu per penkerius metus po ženklo registracijos liudijimo išdavimo dienos arba per penkerius metus nuo apsaugos tarptautinės registracijos ženklui suteikimo Lietuvos Respublikoje dienos ženklo savininkas Lietuvos Respublikoje iš tikrųjų nepradėjo ženklu žymėti prekių ir (ar) paslaugų, kurioms tas ženklas buvo įregistruotas, arba jeigu ženklas nebuvo naudojamas penkerius metus iš eilės, išskyrus atvejus, kai naudoti ženklą sutrukdė rimtos ir nuo ženklo savininko valios nepriklausančios aplinkybės. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
+ 
 
 
 
@@ -2097,22 +2202,10 @@ Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010IST
 
 
 
-6. Priimant sprendimą dėl registracijos panaikinimo, neturi būti atsižvelgiama nė į vieną iš šių aplinkybių:
-
-
-1) ženklas buvo pradėtas naudoti ar jo naudojimas buvo atnaujintas per tris mėnesius iki prašymo panaikinti ženklo registraciją padavimo teismui dienos;
-
-
-
-
-2) ženklas pradėtas naudoti iš karto pasibaigus nepertraukiamam penkerių metų nenaudojimo laikotarpiui;
-
-
-
-
-3) savininkas pradėjo ženklą naudoti ar atnaujino jo naudojimą po to, kai sužinojo, kad gali būti paduotas ar yra paduotas prašymas teismui dėl registracijos panaikinimo.
-
-
+6. Priimant sprendimą dėl registracijos panaikinimo, neatsižvelgiama į ženklo naudojimą, pradėtą ar atnaujintą per 3 mėnesių laikotarpį iki prašymo panaikinti ženklo registraciją padavimo teismui dienos, jeigu šis 3 mėnesių laikotarpis prasidėjo ne anksčiau negu pasibaigus nepertraukiamam penkerių metų ženklo nenaudojimo laikotarpiui ir jeigu savininkas ėmėsi priemonių dėl ženklo naudojimo pradėjimo ar atnaujinimo tik sužinojęs, kad gali būti paduotas ar yra paduotas prašymas teismui dėl ženklo registracijos panaikinimo.
+Straipsnio dalies pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
+ 
 
 
 
@@ -2179,7 +2272,9 @@ GINČŲ NAGRINĖJIMAS. TEISIŲ GYNIMAS
 
 
 
-6) Bendrijos prekių ženklų pagal Reglamento dėl Bendrijos prekių ženklo 90-101 straipsnių nuostatas.
+6) Bendrijos prekių ženklų pagal Reglamentą dėl Bendrijos prekių ženklo.
+Straipsnio punkto pakeitimai:
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
  
 
 
@@ -2572,34 +2667,29 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
-Lietuvos Respublikos
-2000 m. spalio 10 d. įstatymo Nr. VIII-1981
+Lietuvos Respublikos 
+prekių ženklų įstatymo
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 1988 m. gruodžio 21 d. Pirmoji Tarybos direktyva 89/104/EEB dėl valstybių narių prekių ženklų įstatymų derinimo.
+1. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/48/EB dėl intelektinės nuosavybės teisių gynimo (OL 2004 m. specialusis leidimas, 17 skyrius, 2 tomas, p. 32).
 
 
 
 
-2. 1993 m. gruodžio 20 d. Tarybos reglamentas (EB) Nr. 40/94 dėl Bendrijos prekių ženklo.
+2. 2008 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2008/95/EB valstybių narių teisės aktams, susijusiems su prekių ženklais, suderinti (kodifikuota redakcija) (OL 2008 L 299, p. 25).
 
 
 
 
-3. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/48/EB dėl intelektinės nuosavybės teisių gynimo.
-Papildyta straipsnio dalimi:
-Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
- 
+3. 2009 m. vasario 26 d. Tarybos reglamentas (EB) Nr. 207/2009 dėl Bendrijos prekių ženklo (kodifikuota redakcija) (OL 2009 L 78, p. 1).
 
 
-Papildyta priedu:
-Nr. IX-1150, 2002-10-22, Žin., 2002, Nr. 106-4744 (2002-11-08), i. k. 1021010ISTA0IX-1150
 Priedo pakeitimai:
-Nr. IX-2033, 2004-02-19, Žin., 2004, Nr. 39-1272 (2004-03-13), i. k. 1041010ISTA0IX-2033
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
  
  
  
@@ -2619,3 +2709,8 @@ Lietuvos Respublikos prekių ženklų įstatymo 2, 5, 7, 8, 11, 12, 30, 38, 40, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-651, 2006-06-08, Žin., 2006, Nr. 72-2670 (2006-06-28), i. k. 1061010ISTA000X-651
 Lietuvos Respublikos prekių ženklų įstatymo dešimtojo skirsnio ir 56 straipsnio pakeitimo bei papildymo ir Įstatymo priedo papildymo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2396, 2012-11-08, Žin., 2012, Nr. 135-6870 (2012-11-22), i. k. 1121010ISTA0XI-2396
+Lietuvos Respublikos prekių ženklų įstatymo 2, 5, 7, 8, 9, 11, 12, 13, 15, 16, 19, 23, 25, 26, 27, 32, 34, 36, 38, 43, 44, 46, 47, 49 straipsnių, Įstatymo priedo pakeitimo ir papildymo ir Įstatymo papildymo 23-1 straipsniu įstatymas
