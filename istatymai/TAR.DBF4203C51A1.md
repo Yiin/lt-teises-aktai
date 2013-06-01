@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DBF4203C51A1"
 
 # Lietuvos Respublikos nacionalinės teismų administracijos įstatymas
 
-Suvestinė redakcija nuo 2009-02-01 iki 2013-05-31
+Suvestinė redakcija nuo 2013-06-01 iki 2013-12-11
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 31-1130, i. k. 1021010ISTA00IX-787
  
@@ -95,7 +95,10 @@ Nacionalinė teismų administracija, įgyvendindama Teismų įstatyme nustatytus
 
 
 
-6) organizuoja ir užtikrina, kad teismai reikiamu inventoriumi ir paslaugomis būtų centralizuotai aprūpinami;
+6) organizuoja ir užtikrina, kad teismai reikiamu ilgalaikiu turtu, inventoriumi ir paslaugomis būtų centralizuotai aprūpinami;
+Straipsnio punkto pakeitimai:
+Nr. XII-296, 2013-05-14, Žin., 2013, Nr. 57-2840 (2013-06-01), i. k. 1131010ISTA0XII-296
+ 
 
 
 
@@ -175,57 +178,97 @@ Nacionalinė teismų administracija, įgyvendindama Teismų įstatyme nustatytus
 
 
 
-22) sudaro ir tvarko su Nacionalinės teismų administracijos veikla susijusias duomenų bazes, valdo su teismų informacinėmis sistemomis susijusias investicijas, įgyvendina šių investicijų projektus, organizuoja informacinių sistemų kūrimą ir diegimą teismuose, administruoja teismų informacines sistemas ir jas tobulina;
+22) sudaro ir tvarko su Nacionalinės teismų administracijos veikla susijusias duomenų bazes, organizuoja informacinių sistemų kūrimą ir diegimą teismuose, administruoja teismų informacines sistemas ir jas tobulina;
+Straipsnio punkto pakeitimai:
+Nr. XII-296, 2013-05-14, Žin., 2013, Nr. 57-2840 (2013-06-01), i. k. 1131010ISTA0XII-296
+ 
 
 
 
 
-23) skelbia Teismų įstatyme nurodytų teismų ir tarptautinių teisminių institucijų sprendimus;
+23) valdo Valstybės investicijų programoje numatytų investicijų, skirtų teismams, asignavimus, rengia ir įgyvendina teismų investicijų projektus; 
+Papildyta straipsnio punktu:
+Nr. XII-296, 2013-05-14, Žin., 2013, Nr. 57-2840 (2013-06-01), i. k. 1131010ISTA0XII-296
+ 
 
 
 
 
-24) skelbia priimtus teismų savivaldos institucijų sprendimus;
+24) skelbia Teismų įstatyme nurodytų teismų ir tarptautinių teisminių institucijų sprendimus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-296, 2013-05-14, Žin., 2013, Nr. 57-2840 (2013-06-01), i. k. 1131010ISTA0XII-296
+ 
 
 
 
 
-25) informuoja visuomenę apie teismų savivaldos institucijų ir Nacionalinės teismų administracijos veiklą;
+25) skelbia priimtus teismų savivaldos institucijų sprendimus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-296, 2013-05-14, Žin., 2013, Nr. 57-2840 (2013-06-01), i. k. 1131010ISTA0XII-296
+ 
 
 
 
 
-26) kasmet teikia Teisėjų tarybai metines Nacionalinės teismų administracijos veiklos ataskaitas;
+26) informuoja visuomenę apie teismų savivaldos institucijų ir Nacionalinės teismų administracijos veiklą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-296, 2013-05-14, Žin., 2013, Nr. 57-2840 (2013-06-01), i. k. 1131010ISTA0XII-296
+ 
 
 
 
 
-27) Teisėjų tarybos pavedimu pagal savo kompetenciją atstovauja teismų interesais Teisėjų tarybai valstybės valdžios ir kitose institucijose;
+27) kasmet teikia Teisėjų tarybai metines Nacionalinės teismų administracijos veiklos ataskaitas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-296, 2013-05-14, Žin., 2013, Nr. 57-2840 (2013-06-01), i. k. 1131010ISTA0XII-296
+ 
 
 
 
 
-28) bendradarbiauja su kitomis Lietuvos Respublikos institucijomis, taip pat su kitų valstybių bei tarptautinėmis institucijomis teismų savivaldos, administravimo ir kitais teismų veiklos klausimais;
+28) Teisėjų tarybos pavedimu pagal savo kompetenciją atstovauja teismų interesais Teisėjų tarybai valstybės valdžios ir kitose institucijose;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-296, 2013-05-14, Žin., 2013, Nr. 57-2840 (2013-06-01), i. k. 1131010ISTA0XII-296
+ 
 
 
 
 
-29) nagrinėja Nacionalinės teismų administracijos kompetencijai priskirtinus asmenų pareiškimus, skundus ir pasiūlymus ir imasi priemonių išspręsti juose keliamus klausimus;
+29) bendradarbiauja su kitomis Lietuvos Respublikos institucijomis, taip pat su kitų valstybių bei tarptautinėmis institucijomis teismų savivaldos, administravimo ir kitais teismų veiklos klausimais;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-296, 2013-05-14, Žin., 2013, Nr. 57-2840 (2013-06-01), i. k. 1131010ISTA0XII-296
+ 
 
 
 
 
-30) įstatymų nustatyta tvarka valdo, naudoja ir disponuoja Nacionalinei teismų administracijai patikėjimo teise perduotą valstybės turtą; 
+30) nagrinėja Nacionalinės teismų administracijos kompetencijai priskirtinus asmenų pareiškimus, skundus ir pasiūlymus ir imasi priemonių išspręsti juose keliamus klausimus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-296, 2013-05-14, Žin., 2013, Nr. 57-2840 (2013-06-01), i. k. 1131010ISTA0XII-296
+ 
 
 
 
 
-31) vykdo kitus teismų savivaldos institucijų pavedimus;
+31) įstatymų nustatyta tvarka valdo, naudoja ir disponuoja Nacionalinei teismų administracijai patikėjimo teise perduotą valstybės turtą; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-296, 2013-05-14, Žin., 2013, Nr. 57-2840 (2013-06-01), i. k. 1131010ISTA0XII-296
+ 
 
 
 
 
-32) atlieka kitas įstatymuose ir kituose teisės aktuose nustatytas funkcijas.
+32) vykdo kitus teismų savivaldos institucijų pavedimus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-296, 2013-05-14, Žin., 2013, Nr. 57-2840 (2013-06-01), i. k. 1131010ISTA0XII-296
+ 
+
+
+
+
+33) atlieka kitas įstatymuose ir kituose teisės aktuose nustatytas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-296, 2013-05-14, Žin., 2013, Nr. 57-2840 (2013-06-01), i. k. 1131010ISTA0XII-296
  
 
 
@@ -332,3 +375,8 @@ Lietuvos Respublikos nacionalinės teismų administracijos įstatymo 2 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1715, 2008-07-15, Žin., 2008, Nr. 87-3472 (2008-07-31), i. k. 1081010ISTA00X-1715
 Lietuvos Respublikos nacionalinės teismų administracijos įstatymo pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-296, 2013-05-14, Žin., 2013, Nr. 57-2840 (2013-06-01), i. k. 1131010ISTA0XII-296
+Lietuvos Respublikos nacionalinės teismų administracijos įstatymo 2 straipsnio pakeitimo ir papildymo įstatymas
