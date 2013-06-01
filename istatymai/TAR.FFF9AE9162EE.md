@@ -177,9 +177,9 @@ straipsnis. Mokesčio mokėtojai
 1.
 Mokestį už aplinkos teršimą iš stacionarių taršos šaltinių moka aplinką
 teršiantys fiziniai ir juridiniai asmenys, kurie Vyriausybės ar jos įgaliotų
-institucijų nustatyta tvarka privalo turėti gamtos išteklių naudojimo arba
-taršos integruotos prevencijos ir kontrolės leidimą su  nustatytais teršalų
-išmetimo į aplinką normatyvais.
+institucijų nustatyta tvarka privalo turėti taršos integruotos prevencijos ir
+kontrolės leidimą arba taršos leidimą, kuriuose nustatyti teršalų išmetimo į
+aplinką normatyvai.
 2.
 Mokestį už aplinkos teršimą iš mobilių taršos šaltinių moka fiziniai ir
 juridiniai asmenys, teršiantys aplinką iš ūkinei komercinei veiklai naudojamų
@@ -191,6 +191,8 @@ Straipsnio
 pakeitimai:
 Nr. X-1438,
 2008-01-29, Žin., 2008, Nr. 18-631 (2008-02-12)
+Nr. XII-288,
+2013-05-09, Žin., 2013, Nr. 55-2728 (2013-05-28)
  
 5
 straipsnis. Mokesčio lengvatos
@@ -216,17 +218,18 @@ išmetamųjų dujų neutralizavimo sistemos;
 2) fiziniai ir juridiniai
 asmenys, teršiantys iš transporto priemonių, naudojamų žemės ūkio veiklai, jei
 jų pajamos iš šios veiklos sudaro daugiau kaip 50 procentų visų gaunamų pajamų;
-3) fiziniai asmenys, kurie
-verčiasi individualia veikla, kaip ji apibrėžta Gyventojų pajamų mokesčio
-įstatyme, ir savo veikloje naudoja asmenines transporto priemones;
+3) fiziniai asmenys, kurie verčiasi
+individualia veikla, kaip ji apibrėžta Gyventojų pajamų mokesčio įstatyme, ir
+savo veikloje naudoja asmenines transporto priemones;
 4) fiziniai ir juridiniai
 asmenys, teršiantys iš transporto priemonių, naudojančių nustatytus standartus
 atitinkančius biodegalus, ir pateikę biodegalų sunaudojimą patvirtinančius
 dokumentus.
-4. Fiziniai ir juridiniai asmenys, pateikę
-biokuro sunaudojimą patvirtinančius dokumentus, už išmetamus į atmosferą
-teršalus, susidarančius naudojant biokurą, nuo mokesčio už aplinkos teršimą iš
-stacionarių taršos šaltinių yra atleidžiami.
+4. Fiziniai ir juridiniai asmenys,
+pateikę biokuro sunaudojimą patvirtinančius dokumentus, už išmetamą į atmosferą
+taršos integruotos prevencijos ir kontrolės leidime ar taršos leidime nustatytą
+teršalo kiekį, susidarantį naudojant biokurą, nuo mokesčio už aplinkos teršimą
+iš stacionarių taršos šaltinių atleidžiami.
 5. Fiziniai ir juridiniai
 asmenys, kurie patys arba per trečiuosius asmenis išveža iš Lietuvos
 Respublikos teritorijos pagal šį Įstatymą apmokestinamus gaminius ir (ar) į
@@ -256,8 +259,8 @@ Nr. IX-1547,
 2003-04-29, Žin., 2003, Nr. 48-2108 (2003-05-15)
 Nr. IX-1970,
 2004-01-22, Žin., 2004, Nr. 25-746 (2004-02-14)
-Nr. IX-2139,
-2004-04-15, Žin., 2004, Nr. 61-2188 (2004-04-27)
+Nr. IX-2139, 2004-04-15,
+Žin., 2004, Nr. 61-2188 (2004-04-27)
 Nr.
 X-152,
 2005-03-31, Žin., 2005, Nr. 47-1560 (2005-04-12), atitaisymas skelbtas:
@@ -266,6 +269,8 @@ Nr. XI-254,
 2009-05-12, Žin., 2009, Nr. 61-2404 (2009-05-26)
 Nr. XI-1894,
 2011-12-22, Žin., 2011, Nr. 164-7798 (2011-12-31)
+Nr. XII-288,
+2013-05-09, Žin., 2013, Nr. 55-2728 (2013-05-28)
  
 6
 straipsnis. Teršalų ir gaminių bei pakuotės apmokestinimo ir tarifų nustatymo
@@ -350,8 +355,8 @@ pakuotės apskaitos tvarkymą ir mokesčio už aplinkos teršimą deklaracijoje
 pateiktus duomenis.
 Straipsnio
 pakeitimai:
-Nr. IX-1970,
-2004-01-22, Žin., 2004, Nr. 25-746 (2004-02-14)
+Nr. IX-1970, 2004-01-22,
+Žin., 2004, Nr. 25-746 (2004-02-14)
 Nr. XI-254,
 2009-05-12, Žin., 2009, Nr. 61-2404 (2009-05-26)
 Nr. XI-1894,
@@ -365,8 +370,9 @@ gaminių ir pripildytos gaminių apmokestinamosios pakuotės apskaitą, tikrina
 mokesčio už aplinkos teršimą apskaičiavimą.
 2.
 Fiziniams ir juridiniams asmenims, kurie netvarko privalomos teršalų išmetimo į
-aplinką apskaitos, teršalų kiekis nustatomas pagal Vyriausybės ar jos įgaliotų
-institucijų patvirtintas metodikas.
+aplinką apskaitos, teršalų
+kiekis nustatomas pagal aplinkos ministro patvirtintas metodikas ir (arba)
+metodikas, kurių sąrašas tvirtinamas aplinkos ministro įsakymu.
 3. Už išmestą iš
 stacionarių taršos šaltinių normatyvus viršijantį teršalų kiekį ar nuslėptą
 teršalų ir (ar) sunaudotų degalų, ir (ar) apmokestinamųjų gaminių bei
@@ -401,6 +407,8 @@ Nr. X-1438,
 2008-01-29, Žin., 2008, Nr. 18-631 (2008-02-12)
 Nr. XI-254,
 2009-05-12, Žin., 2009, Nr. 61-2404 (2009-05-26)
+Nr. XII-288,
+2013-05-09, Žin., 2013, Nr. 55-2728 (2013-05-28)
  
 10
 straipsnis. Mokesčio sumokėjimas, išieškojimas ir paskirstymas
@@ -480,8 +488,8 @@ už aplinkos
                                                                                     1
 priedėlis
  
-MOKESČIO UŽ APLINKOS
-TERŠIMĄ IŠ STACIONARIŲ TARŠOS ŠALTINIŲ TARIFAI 
+MOKESČIO UŽ APLINKOS TERŠIMĄ
+IŠ STACIONARIŲ TARŠOS ŠALTINIŲ TARIFAI 
  
 I. Teršalai, išmetami į
 atmosferą
@@ -800,8 +808,8 @@ IV
 
  
  
-II. Teršalai, išmetami į vandens
-telkinius, žemės paviršių ir gilesnius jos sluoksnius
+II. Teršalai, išmetami į vandens telkinius,
+žemės paviršių ir gilesnius jos sluoksnius
 
 
 
@@ -1081,7 +1089,7 @@ Nr. XI-1894,
                                                                                                 Lietuvos Respublikos
                                                                                                 1999
 m. gegužės 13 d.
-                                                                                                įstatymo
+                                                                                                įstatymo
 Nr. VIII-1183
                                                                                                 4
 priedėlis
@@ -1212,7 +1220,7 @@ Lietuvos
 Respublikos
                                                                                                 mokesčio
 už aplinkos teršimą
-                                                                                                įstatymo
+                                                                                                įstatymo
                                                                                                 5
 priedėlis
                                                                                                 (Lietuvos
@@ -1237,8 +1245,8 @@ Degalų rūšis
   arba ciklas
 
 
-Mokesčio
-  tarifai, Lt/t (už ciklą)
+Mokesčio tarifai,
+  Lt/t (už ciklą)
 
 
  
@@ -1591,7 +1599,6 @@ priedėlio pakeitimai:
 Nr. XI-254,
 2009-05-12, Žin., 2009, Nr. 61-2404 (2009-05-26)
  
-_______________
  
 Pakeitimai:
  
@@ -1620,8 +1627,8 @@ Lietuvos Respublikos Seimas,
 Nr. IX-1265,
 2002-12-10, Žin., 2002, Nr. 123-5550 (2002-12-24)
 MOKESČIO UŽ APLINKOS TERŠIMĄ
-PAKEITIMO ĮSTATYMO 1 STRAIPSNIU PAKEISTO MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO 5
-STRAIPSNIO PAKEITIMO ĮSTATYMAS
+PAKEITIMO ĮSTATYMO 1 STRAIPSNIU PAKEISTO MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO
+5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis Įstatymas įsigalioja nuo 2003
 m. sausio 1 d.
  
@@ -1706,8 +1713,8 @@ UŽ APLINKOS TERŠIMĄ ĮSTATYMO 11 STRAIPSNIO, 3 IR 4 PRIEDĖLIŲ PAKEITIMO
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-X-1438, 2008-01-29,
-Žin., 2008, Nr. 18-631 (2008-02-12)
+X-1438,
+2008-01-29, Žin., 2008, Nr. 18-631 (2008-02-12)
 MOKESČIO
 UŽ APLINKOS TERŠIMĄ ĮSTATYMO 1, 4, 7, 9, 11 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 IR 1 PRIEDĖLIO PAKEITIMO ĮSTATYMAS
@@ -1748,10 +1755,20 @@ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas
 įsigalioja 2012 m. sausio 1 d.
  
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-288,
+2013-05-09, Žin., 2013, Nr. 55-2728 (2013-05-28)
+MOKESČIO UŽ APLINKOS TERŠIMĄ ĮSTATYMO 4, 5 IR 9 STRAIPSNIŲ PAKEITIMO
+ĮSTATYMAS
+Šis įstatymas,
+išskyrus šio straipsnio 2 dalį, įsigalioja 2013 m. birželio 1 d.
+ 
+ 
 *** Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė (2012-01-10)
+Redagavo Aušrinė Trapinskienė (2013-05-29)
                   ausrine.trapinskiene@lrs.lt
  
 
