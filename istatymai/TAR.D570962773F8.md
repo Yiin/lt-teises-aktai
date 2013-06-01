@@ -24,6 +24,7 @@ DIENŲ
 1997 m. liepos 3 d. Nr. VIII-397
 Vilnius
  
+ 
 1 straipsnis.
 Atmintinos dienos
 1. Atmintina
@@ -73,8 +74,8 @@ pasipriešinimo diena;
 susirinkimo diena, Tarptautinė šeimos diena;
 23) gegužės 17-oji – Pasaulinė
 informacinės visuomenės diena;
-24) gegužės trečiasis sekmadienis
-– Partizanų pagerbimo, kariuomenės ir visuomenės vienybės diena;
+24) gegužės trečiasis sekmadienis –
+Partizanų pagerbimo, kariuomenės ir visuomenės vienybės diena;
 25) gegužės 25-oji – Tarptautinė
 dingusių vaikų diena;
 26) birželio 1-oji – Tarptautinė vaikų
@@ -88,50 +89,54 @@ genocido diena;
 diena;
 31) liepos 15-oji – Žalgirio mūšio
 diena;
-32) liepos paskutinis sekmadienis –
+32) liepos 17-oji – Pasaulio lietuvių
+vienybės diena;
+33) liepos paskutinis sekmadienis –
 Jūros diena ir Žvejų diena;
-33) rugpjūčio 12-oji – Tarptautinė
+34) rugpjūčio 12-oji – Tarptautinė
 jaunimo diena;
-34) rugpjūčio 23-ioji – Europos
-diena stalinizmo ir nacizmo aukoms atminti ir Baltijos kelio diena;
-35) rugpjūčio 31-oji – Laisvės diena;
-36) rugsėjo 1-oji – Mokslo ir žinių
+35) rugpjūčio 23-ioji – Europos diena
+stalinizmo ir nacizmo aukoms atminti ir Baltijos kelio diena;
+36) rugpjūčio 31-oji – Laisvės diena;
+37) rugsėjo 1-oji – Mokslo ir žinių
 diena;
-37) rugsėjo 8-oji – Šilinė (Švč.
+38) rugsėjo 8-oji – Šilinė (Švč.
 Mergelės Marijos gimimo diena), Vytauto Didžiojo karūnavimo ir Padėkos už
 Lietuvos nepriklausomybės ir laisvės apgynimą diena;
-38) rugsėjo antrasis šeštadienis –
+39) rugsėjo antrasis šeštadienis –
 Statybininkų diena;
-39) rugsėjo 22-oji – Baltų vienybės
+40) rugsėjo 22-oji – Baltų vienybės
 diena;
-40) rugsėjo 23-ioji – Lietuvos žydų
+41) rugsėjo 23-ioji – Lietuvos žydų
 genocido atminimo diena;
-41) rugsėjo 27-oji – Lietuvos socialinių
+42) rugsėjo 27-oji – Lietuvos socialinių
 darbuotojų diena;
-42) rugsėjo 28-oji – Tuskulėnų aukų
+43) rugsėjo 28-oji – Tuskulėnų aukų
 atminimo diena;
-43) spalio 1-oji – Tarptautinė
+44) spalio 1-oji – Tarptautinė
 pagyvenusių žmonių diena;
-44) spalio pirmasis šeštadienis – Kūno
+45) spalio pirmasis šeštadienis – Kūno
 kultūros ir sporto diena;
-45) spalio 5-oji – Tarptautinė mokytojų
+46) spalio 5-oji – Tarptautinė mokytojų
 diena;
-46) spalio 10-oji – Vietos savivaldos
+47) spalio 10-oji – Vietos savivaldos
 diena;
-47) spalio antrasis šeštadienis –
+48) spalio antrasis šeštadienis –
 Derliaus diena;
-48) spalio 16-oji – Mažosios Lietuvos
+49) spalio 16-oji – Mažosios Lietuvos
 gyventojų genocido diena;
-49) spalio 20-oji – 1791 m.
-Abiejų Tautų (Lietuvos ir Lenkijos) tarpusavio įžado paskelbimo diena;
-50) spalio 25-oji – Konstitucijos diena;
-51) lapkričio 2-oji – Mirusiųjų atminimo
+50) spalio 20-oji – 1791 m. Abiejų Tautų
+(Lietuvos ir Lenkijos) tarpusavio įžado paskelbimo diena;
+51) spalio 25-oji – Konstitucijos diena;
+52) lapkričio 2-oji – Mirusiųjų atminimo
 (Vėlinių) diena;
-52) lapkričio 23-ioji – Lietuvos
+53) lapkričio
+16-oji – Tarptautinė tolerancijos diena; 
+54) lapkričio 23-ioji – Lietuvos
 kariuomenės diena;
-53) lapkričio 30-oji – Mažosios Lietuvos
+55) lapkričio 30-oji – Mažosios Lietuvos
 prisijungimo prie Didžiosios Lietuvos akto diena;
-54) gruodžio
+56) gruodžio
 10-oji – Tarptautinė žmogaus teisių diena.
 Straipsnio
 pakeitimai:
@@ -143,8 +148,8 @@ Nr. VIII-1763, 00.06.27, Žin., 2000,
 Nr.57-1679 (00.07.14)
 Nr. IX-329, 2001 05 17, Žin., 2001, Nr.
 43-1499 (2001 05 23)
-Nr. IX-379, 2001-06-14, Žin., 2001, Nr. 57-2027
-(2001-07-04)
+Nr. IX-379, 2001-06-14, Žin., 2001, Nr.
+57-2027 (2001-07-04)
 Nr. IX-735,
 2002-01-24, Žin., 2002, Nr. 15-554 (2002-02-13)
 Nr.
@@ -178,13 +183,14 @@ XI-384,
 Nr.
 XI-435,
 2009-09-24, Žin., 2009, Nr. 121-5196 (2009-10-10)
+Nr. XII-309,
+2013-05-14, Žin., 2013, Nr. 57-2849 (2013-06-01)
  
 Skelbiu šį Lietuvos Respublikos Seimo
 priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS
 BRAZAUSKAS
-___________________
 Pakeitimai:
  
 1.
@@ -331,11 +337,14 @@ Nr. XI-435,
 ATMINTINŲ
 DIENŲ ĮSTATYMO 1 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
-***
-Pabaiga ***
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-309,
+2013-05-14, Žin., 2013, Nr. 57-2849 (2013-06-01)
+ATMINTINŲ DIENŲ ĮSTATYMO 1 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+ 
+*** Pabaiga ***
  
  
-Redagavo
-Aušrinė Trapinskienė (2009-10-12)
-                 
-autrap@lrs.lt
+Redagavo Aušrinė Trapinskienė (2013-06-03)
+                  ausrine.trapinskiene@lrs.lt
