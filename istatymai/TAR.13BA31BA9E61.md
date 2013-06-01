@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.13BA31BA9E61"
 
 # Lietuvos Respublikos dizaino įstatymas
 
-Suvestinė redakcija nuo 2008-09-26 iki 2013-05-31
+Suvestinė redakcija nuo 2013-06-01 iki 2017-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4980, i. k. 1021010ISTA0IX-1181
  
@@ -637,17 +637,17 @@ DIZAINO REGISTRAVIMAS
 16 straipsnis. Paraiškos padavimas
 
 
-1. Pareiškėjas, norintis įregistruoti dizainą, turi paduoti paraišką Valstybiniam patentų biurui. Paraiška dėl tarnybinio dizaino registravimo Valstybiniam patentų biurui paduodama darbdavio arba užsakovo vardu.
+1. Pareiškėjas, norintis įregistruoti dizainą, turi paduoti paraišką Valstybiniam patentų biurui. Paraiška dėl tarnybinio dizaino registravimo Valstybiniam patentų biurui paduodama darbdavio arba užsakovo vardu. Už paraiškos padavimą pareiškėjas privalo sumokėti nustatyto dydžio mokestį.
 
 
 
 
-2. Paraišką pareiškėjo vardu gali paduoti ir jo atstovas. Užsienio valstybių fiziniai asmenys, nuolat negyvenantys Lietuvos Respublikoje arba kitoje Europos Sąjungos valstybėje narėje, ir užsienio valstybių juridiniai asmenys, neturintys Lietuvos Respublikoje įregistruoto filialo arba atstovybės arba kitoje Europos Sąjungos valstybėje narėje savo buveinės, filialo arba atstovybės, paraiškas Valstybiniam patentų biurui paduoda ir visus su dizaino registracija susijusius veiksmus Valstybiniame patentų biure, įskaitant ir atstovavimą Apeliaciniame skyriuje, atlieka per patentinį patikėtinį, įrašytą į Lietuvos Respublikos patentinių patikėtinių registrą.
+2. Paraišką pareiškėjo vardu gali paduoti ir jo atstovas. Užsienio valstybių fiziniai asmenys, nuolat negyvenantys Lietuvos Respublikoje arba kitoje Europos Sąjungos valstybėje narėje ar kitoje Europos ekonominės erdvės valstybėje, ir užsienio valstybių juridiniai asmenys, neturintys Lietuvos Respublikoje įregistruoto filialo arba atstovybės arba kitoje Europos Sąjungos valstybėje narėje ar kitoje Europos ekonominės erdvės valstybėje savo buveinės, filialo arba atstovybės, paraiškas Valstybiniam patentų biurui paduoda ir visus su dizaino registracija susijusius veiksmus Valstybiniame patentų biure, įskaitant atstovavimą Apeliaciniame skyriuje, atlieka per patentinį patikėtinį, įrašytą į Lietuvos Respublikos patentinių patikėtinių registrą.
 
 
 
 
-3. Paraiškoje gali būti prašoma įregistruoti daugiau negu vieną, bet ne daugiau kaip 100 to paties gaminio dizaino pavyzdžių. Gaminys, išskyrus ornamentiką, kurio dizaino pavyzdžius prašoma įregistruoti paraiškoje, turi priklausyti vienai Lokarno klasifikacijos klasei.
+3. Paraiškoje gali būti prašoma įregistruoti daugiau negu vieną, bet ne daugiau kaip šimtą to paties gaminio dizaino pavyzdžių. Gaminys, išskyrus ornamentiką, kurio dizaino pavyzdžius prašoma įregistruoti paraiškoje, turi priklausyti vienai Lokarno klasifikacijos klasei, išskyrus daugiafunkcius gaminius, kurie pagal savo funkcijas gali priklausyti kelioms Lokarno klasifikacijos klasėms.
 
 
 
@@ -665,52 +665,47 @@ DIZAINO REGISTRAVIMAS
 
 
 
-3) dokumentas, patvirtinantis, kad sumokėtas už paraiškos padavimą nustatytas mokestis;
+3) dizaino aprašymas;
 
 
 
 
-4) dizaino aprašymas;
+4) pareiškėjo įgaliojimas asmeniui (jeigu paraišką paduoda įgaliotas asmuo);
 
 
 
 
-5) pareiškėjo įgaliojimas asmeniui (jeigu paraišką paduoda įgaliotas asmuo);
+5) pareiškimas dėl dizainerio autorystės;
 
 
 
 
-6) pareiškimas dėl dizainerio autorystės;
+6) dokumentas, patvirtinantis dizainerio teisių perdavimą (jeigu reikia);
 
 
 
 
-7) dokumentas, patvirtinantis dizainerio teisių perdavimą (jeigu reikia);
+7) prioritetą patvirtinantis dokumentas pagal šio Įstatymo 11 straipsnio 3 dalį (jeigu reikia);
 
 
 
 
-8) prašymas suteikti prioritetą (jeigu reikia);
+8) kompetentingų institucijų išduotas leidimas arba sutikimas pagal šio Įstatymo 9 straipsnio 3 ar 4 punktą (jeigu reikia); 
 
 
 
 
-9) kompetentingų institucijų išduotas leidimas pagal šio Įstatymo 9 straipsnio 3 ar 4 punktą (jeigu reikia);
+9) teisių savininko išduotas sutikimas pagal šio Įstatymo 10 straipsnio 1 dalies 5 ar 6 punktą (jeigu reikia);
 
 
 
 
-10) teisių savininko išduotas sutikimas pagal šio Įstatymo 10 straipsnio 1 dalies 5 ar 6 punktą (jeigu reikia);
+10) prašymas dėl dizaino ankstesnio paskelbimo (jeigu reikia);
 
 
 
 
-11) prašymas dėl dizaino ankstesnio paskelbimo (jeigu reikia);
-
-
-
-
-12) prašymas atidėti dizaino paskelbimą (jeigu reikia).
+11) prašymas atidėti dizaino paskelbimą (jeigu reikia).
 
 
 
@@ -740,18 +735,34 @@ DIZAINO REGISTRAVIMAS
 
 
 
-5) prioriteto nuoroda (jeigu reikia).
+5) pirmosios paraiškos padavimo valstybė, šios paraiškos numeris, data arba eksponavimo tarptautinėje parodoje data ir valstybė (jeigu reikia). Šių duomenų nurodymas laikomas prašymu suteikti prioritetą pagal šio Įstatymo 11 straipsnio 1, 2 dalis;
+
+
+
+
+6) ankstesnio ar vėlesnio dizaino paskelbimo nuoroda;
+
+
+
+
+7) duomenys, rodantys, kad sumokėtas nustatytas mokestis.
 
 
 
 
 
 
-6. Jeigu prašoma įregistruoti daugiau negu vieną dizaino pavyzdį, už kiekvieną kitą paraiškoje nurodytą dizaino pavyzdį mokamas nustatytas papildomas mokestis.
+6. Jeigu prašoma įregistruoti daugiau negu dešimt dizaino pavyzdžių, už kiekvieną po dešimtojo paraiškoje nurodytą dizaino pavyzdį mokamas nustatytas papildomas mokestis.
+
+
+
+
+7. Mokestį už paraiškos įregistruoti dizainą padavimą pareiškėjas privalo sumokėti per vieną mėnesį nuo paraiškos padavimo datos.
 
 
 Straipsnio pakeitimai:
 Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
+Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
  
 
 
@@ -760,12 +771,18 @@ Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA
 17 straipsnis. Paraiškos padavimo data
 
 
-1. Paraiškos padavimo data laikoma ta diena, kurią Valstybinis patentų biuras gavo visus šio Įstatymo 16 straipsnio 4 dalies 1–3 punktuose išvardytus dokumentus.
+1. Paraiškos padavimo data laikoma ta diena, kurią Valstybinis patentų biuras gavo šio Įstatymo 16 straipsnio 4 dalies 1 punkte nurodytą prašymą, kuriame yra pateikti bent šio Įstatymo 16 straipsnio 5 dalies 1, 2 ir 3 punktuose nurodyti duomenys, ir šio Įstatymo 16 straipsnio 4 dalies 2 punkte nurodytą dokumentą. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
+ 
 
 
 
 
-2. Jeigu nepateikiamas nors vienas iš šio Įstatymo 16 straipsnio 4 dalies 1–3 punktuose nurodytų dokumentų, padavimo data paraiškai nesuteikiama, paraiškos dokumentai grąžinami pareiškėjui ir nurodomi motyvai, dėl kurių paraiška nepriimta. 
+2. Jeigu nepateikiami šio straipsnio 1 dalyje nurodyti dokumentai arba jeigu jie neatitinka šio Įstatymo ar Taisyklėse nustatytų reikalavimų, padavimo data paraiškai nesuteikiama, paraiškos dokumentai grąžinami pareiškėjui ir nurodomi motyvai, dėl kurių paraiška nepriimta. Paraiškos padavimo data laikoma nesuteikta ir paraiškos dokumentai grąžinami pareiškėjui, jeigu per šio Įstatymo 16 straipsnio 7 dalyje nurodytą terminą nesumokamas mokestis už paraiškos įregistruoti dizainą padavimą.
+Straipsnio dalies pakeitimai:
+Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
+ 
 
 
 
@@ -791,35 +808,37 @@ Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010IST
 18 straipsnis. Paraiškos ekspertizė
 
 
-1. Valstybinis patentų biuras per vieną mėnesį nuo paraiškos gavimo dienos atlieka formalią paraiškos dokumentų ekspertizę: patikrina, ar pateikti visi reikalingi šio Įstatymo 16 straipsnio 4 dalies 1–3 punktuose nurodyti dokumentai ir ar tinkamai jie įforminti.
+1. Valstybinis patentų biuras per Taisyklėse nustatytą terminą atlieka formalią paraiškos dokumentų ekspertizę: patikrina, ar pateikti šio Įstatymo 16 straipsnio 4 dalyje nurodyti dokumentai.
 
 
 
 
-2. Valstybinis patentų biuras paraišką pripažįsta paduota ir suteikia jai padavimo datą bei numerį, jeigu pateikti ir tinkamai įforminti šio Įstatymo 16 straipsnio 4 dalies 1–3 punktuose nurodyti dokumentai. 
+2. Valstybinis patentų biuras, nustatęs, kad pateikti šio Įstatymo 17 straipsnio 1 dalyje nurodyti dokumentai, paraišką pripažįsta paduota ir suteikia jai padavimo datą ir numerį.
 
 
 
 
-3. Atlikęs šio straipsnio 2 dalyje numatytus veiksmus, Valstybinis patentų biuras išsiunčia pareiškėjui ar jo atstovui paraiškos priėmimo pažymą, kurioje nurodo paraiškos padavimo datą ir paraiškai suteiktą numerį.
+3. Atlikęs šio straipsnio 2 dalyje numatytus veiksmus, Valstybinis patentų biuras išsiunčia pareiškėjui ar jo atstovui paraiškos priėmimo pažymą, kurioje nurodo suteiktą paraiškos padavimo datą ir paraiškai suteiktą numerį.
 
 
 
 
-4. Suteikęs paraiškai padavimo datą, Valstybinis patentų biuras patikrina, ar pateikti visi šio Įstatymo 16 straipsnio 4 dalyje nurodyti dokumentai, ar jie atitinka šio Įstatymo ir Taisyklių reikalavimus.
+4. Nustatęs, kad nepateikti šio Įstatymo 16 straipsnio 4 dalies 1–8 punktuose nurodyti dokumentai arba kad jie neatitinka šio Įstatymo ar Taisyklėse nustatytų reikalavimų, Valstybinis patentų biuras apie tai raštu praneša pareiškėjui arba jo atstovui, nurodydamas trūkumus ir pasiūlymus, kaip juos ištaisyti. Jeigu per Taisyklėse nustatytą terminą trūkumai neištaisomi, Valstybinis patentų biuras dokumentą ar paraišką pripažįsta nepaduotais ir apie tai raštu praneša pareiškėjui ar jo atstovui.
 
 
 
 
-5. Nustatęs, kad pateikti ne visi šio Įstatymo 16 straipsnio 4 dalyje nurodyti dokumentai arba kad jie neatitinka šio Įstatymo ir Taisyklių reikalavimų, Valstybinis patentų biuras apie tai raštu praneša pareiškėjui arba jo atstovui, nurodydamas trūkumus ir ką reikia pataisyti. Jeigu per 3 mėnesius nuo šio pranešimo išsiuntimo dienos paraiška nepataisoma ar nepateikiami trūkstami dokumentai, Valstybinis patentų biuras ją pripažįsta nepaduota ir apie tai raštu praneša pareiškėjui ar jo atstovui.
+5. Paraiškai suteikus padavimo datą, gali būti išduodama patvirtinta paraiškos kopija, jeigu pareiškėjas pateikia prašymą ir sumoka nustatytą mokestį.
 
 
 
 
-6. Paraiškai suteikus padavimo datą, gali būti išduodama patvirtinta paraiškos kopija, jei pareiškėjas pateikia prašymą ir dokumentą, patvirtinantį, kad sumokėtas nustatytas mokestis.
+6. Šio Įstatymo 16 straipsnio 4 dalies 10 ir 11 punktuose nurodyti prašymai gali būti pateikiami paduodant paraišką kaip nuoroda prašyme įregistruoti dizainą ir išduoti dizaino registracijos liudijimą pagal šio Įstatymo 16 straipsnio 5 dalies 6 punktą arba per 5 mėnesius po paraiškos padavimo datos.
+
+
+Straipsnio pakeitimai:
+Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
  
-
-
 
 
 
@@ -873,7 +892,10 @@ Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010IST
 20 straipsnis. Apeliacijos pareiškimas
 
 
-1. Pareiškėjas ar jo atstovas, nesutikdamas su Valstybinio patentų biuro priimtu sprendimu neregistruoti dizaino, turi teisę per 3 mėnesius nuo šio sprendimo išsiuntimo dienos paduoti Valstybinio patentų biuro Apeliaciniam skyriui (toliau – Apeliacinis skyrius) rašytinę apeliaciją su motyvuotu prašymu persvarstyti ekspertizės išvadas ir dokumentą, patvirtinantį, kad sumokėtas nustatytas mokestis.
+1. Pareiškėjas ar jo atstovas, nesutikdamas su Valstybinio patentų biuro priimtu sprendimu neregistruoti dizaino, turi teisę per 3 mėnesius nuo šio sprendimo išsiuntimo dienos paduoti Valstybinio patentų biuro Apeliaciniam skyriui (toliau – Apeliacinis skyrius) rašytinę apeliaciją su motyvuotu prašymu persvarstyti ekspertizės išvadas. Už apeliacijos padavimą turi būti teisės aktų nustatyta tvarka sumokėtas nustatytas mokestis.
+Straipsnio dalies pakeitimai:
+Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
+ 
 
 
 
@@ -909,7 +931,10 @@ Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010IST
 
 
 
-2. Kai pareiškėjas ar jo atstovas pateikia dokumentą, patvirtinantį, kad nustatytas mokestis sumokėtas, dizainas įrašomas į Lietuvos Respublikos dizaino registrą. Duomenys apie dizaino įrašymą skelbiami Valstybinio patentų biuro oficialiame biuletenyje. 
+2. Pareiškėjui ar jo atstovui sumokėjus nustatytą mokestį, dizainas įrašomas į Lietuvos Respublikos dizaino registrą. Duomenys apie dizaino įrašymą skelbiami Valstybinio patentų biuro oficialiame biuletenyje.
+Straipsnio dalies pakeitimai:
+Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
+ 
 
 
 
@@ -1043,10 +1068,27 @@ Nr. IX-2205, 2004-04-29, Žin. 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010ISTA
 24 straipsnis. Apeliacijų ir protestų nagrinėjimo Valstybiniame patentų biure tvarka
 
 
-Apeliacinio skyriaus posėdžiai, kuriuose nagrinėjamos apeliacijos ar protestai, yra vieši. Pareiškėjas, šio Įstatymo 44 straipsnyje nurodyti asmenys, užprotestuoto dizaino savininkas ar jų atstovai turi teisę dalyvauti Apeliacinio skyriaus posėdyje nagrinėjant apeliaciją ar protestą. Apeliacijų ir protestų nagrinėjimo tvarką nustato Valstybinio patentų biuro direktoriaus patvirtintos Apeliacijų ir protestų nagrinėjimo taisyklės.
+1. Apeliacijos ir protestai nagrinėjami Apeliacinio skyriaus posėdyje rašytinio arba viešo žodinio proceso tvarka. 
+
+
+
+
+2. Apeliacijos ir protestai paprastai nagrinėjami rašytinio proceso tvarka. Apeliacijas ar protestus nagrinėjant rašytinio proceso tvarka, pareiškėjas, šio Įstatymo 44 straipsnyje nurodytas asmuo, užprotestuoto dizaino savininkas ar jų atstovai į Apeliacinio skyriaus posėdį nekviečiami ir nagrinėjimas vyksta jiems nedalyvaujant.
+
+
+
+
+3. Apeliacijos ir protestai žodinio proceso tvarka nagrinėjami viešame Apeliacinio skyriaus posėdyje išimtiniais atvejais, kai ginčas yra sudėtingas arba turi reikšmės formuojant Apeliacinio skyriaus naują praktiką. Apeliacijas ar protestus nagrinėjant žodinio proceso tvarka, pareiškėjas, šio Įstatymo 44 straipsnyje nurodytas asmuo, užprotestuoto dizaino savininkas ar jų atstovai kviečiami į Apeliacinio skyriaus posėdį, tačiau jų neatvykimas nekliudo nagrinėti apeliacijos ar protesto.
+
+
+
+
+4. Apeliacijų ir protestų nagrinėjimo tvarka nustatoma Valstybinio patentų biuro direktoriaus tvirtinamose apeliacijų ir protestų nagrinėjimo taisyklėse.
+
+
+Straipsnio pakeitimai:
+Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
  
-
-
 
 
 
@@ -1253,27 +1295,28 @@ Apeliacinio skyriaus posėdžiai, kuriuose nagrinėjamos apeliacijos ar protesta
 
 
 
-2. Pareiškėjas, dizaino savininkas ar jo atstovas, prašydamas įrašyti pakeitimą į paraišką ar Lietuvos Respublikos dizaino registrą, turi pateikti šiuos dokumentus:
+2. Pareiškėjas, dizaino savininkas ar jo atstovas, prašydamas įrašyti pakeitimą į paraišką ar Lietuvos Respublikos dizaino registrą, turi sumokėti nustatytą mokestį ir pateikti šiuos dokumentus:
 
 
-1) prašymą įrašyti pakeitimą į paraišką ar Lietuvos Respublikos dizaino registrą; 
-
-
-
-
-2) prašymo pagrindimo dokumentus, kai prašoma įrašyti šio straipsnio 1 dalies 5 ar 6 punktuose nurodytus pakeitimus;
+1) prašymą įrašyti pakeitimą į paraišką ar Lietuvos Respublikos dizaino registrą;
 
 
 
 
-3) dokumentą, patvirtinantį, kad sumokėtas nustatytas mokestis.
+2) prašymo pagrindimo dokumentus, kai prašoma įrašyti šio straipsnio 1 dalies 5 ar 6 punkte nurodytus pakeitimus. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
+ 
 
 
 
 
-
-
-3. Gavęs šio straipsnio 2 dalyje nurodytus dokumentus, Valstybinis patentų biuras per vieną mėnesį nuo gavimo dienos juos patikrina ir, jeigu dokumentai atitinka šio Įstatymo bei Taisyklių reikalavimus, pakeitimą įrašo į paraišką ar Lietuvos Respublikos dizaino registrą.
+3. Gavęs šio straipsnio 2 dalyje nurodytus dokumentus, Valstybinis patentų biuras per Taisyklėse nustatytą terminą juos patikrina ir, jeigu dokumentai atitinka šio Įstatymo ir Taisyklėse nustatytus reikalavimus, pakeitimą įrašo į paraišką ar Lietuvos Respublikos dizaino registrą. Jeigu pateikti dokumentai neatitinka šio Įstatymo ar Taisyklėse nustatytų reikalavimų, pareiškėjui, dizaino savininkui ar jo atstovui išsiunčiamas pranešimas apie trūkumus. Jeigu per vieną mėnesį nuo pranešimo išsiuntimo dienos trūkumai neištaisomi, prašymas pripažįstamas nepaduotu.
+Straipsnio dalies pakeitimai:
+Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
+ 
 
 
 
@@ -1375,9 +1418,10 @@ Apeliacinio skyriaus posėdžiai, kuriuose nagrinėjamos apeliacijos ar protesta
 
 
 
-2. Įgaliojimas atstovauti pareiškėjui ar dizaino savininkui turi būti paprastos rašytinės formos. Jeigu paraišką dizainui įregistruoti paduoda pareiškėjo atstovas, bet kartu su šio Įstatymo 16 straipsnio 4 dalies 1–3 punktuose išvardytais dokumentais nepateikia įgaliojimo, jis turi būti pateiktas per 3 mėnesius nuo paraiškos padavimo datos.
+2. Įgaliojimas atstovauti pareiškėjui ar dizaino savininkui turi būti paprastos rašytinės formos.
 Straipsnio dalies pakeitimai:
 Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
+Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
  
 
 
@@ -1404,7 +1448,7 @@ Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA
 32 straipsnis. Terminai
 
 
-1. Jeigu pareiškėjas ar jo atstovas pateikia rašytinį prašymą ir sumoka už termino pratęsimą nustatytą mokestį, šio Įstatymo 18 straipsnio 5 dalyje, 19 straipsnio 3 dalyje, 20 straipsnio 1 dalyje, 22 straipsnio 1 dalyje, 23 straipsnio 4 dalyje, 31 straipsnio 1 dalyje nustatyti terminai gali būti vieną kartą pratęsti, bet ne ilgiau kaip 2 mėnesiams nuo pirminio termino pabaigos dienos.
+1. Jeigu pareiškėjas ar jo atstovas pateikia rašytinį prašymą ir sumoka už termino pratęsimą nustatytą mokestį, šio Įstatymo 18 straipsnio 4 dalyje, 19 straipsnio 3 dalyje, 20 straipsnio 1 dalyje, 22 straipsnio 1 dalyje, 31 straipsnio 1 dalyje, 334 straipsnio 1 ir 2 dalyse nustatyti terminai gali būti vieną kartą pratęsti, bet ne ilgiau kaip 2 mėnesiams nuo pirminio termino pabaigos dienos.
 
 
 
@@ -1414,7 +1458,7 @@ Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA
 
 
 
-3. Pareiškėjo praleistas šio Įstatymo 22 straipsnio 1 dalyje nustatytas terminas gali būti atnaujintas pateikus šiuos dokumentus:
+3. Pareiškėjo praleistas šio Įstatymo 22 straipsnio 1 dalyje nustatytas terminas gali būti atnaujintas pareiškėjui sumokėjus nustatytą mokestį ir pateikus Valstybiniam patentų biurui šiuos dokumentus:
 
 
 1) motyvuotą prašymą atnaujinti praleistą terminą;
@@ -1422,27 +1466,24 @@ Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA
 
 
 
-2) praleidimo priežastis pagrindžiantį dokumentą;
-
-
-
-
-3) dokumentą, patvirtinantį, kad sumokėtas už termino atnaujinimą nustatytas mokestis.
+2) praleidimo priežastis pagrindžiantį dokumentą.
 
 
 
 
 
 
-4. Šio straipsnio 3 dalyje nurodytas terminas atnaujinamas, jeigu dokumentai pateikiami per 2 mėnesius nuo aplinkybių, dėl kurių pareiškėjas negalėjo laiku sumokėti nustatyto mokesčio ir (ar) pateikti mokesčio sumokėjimą patvirtinančio dokumento, išnykimo, bet ne vėliau kaip per vienerius metus nuo termino, kurio turėjo būti laikomasi, pabaigos dienos. Terminas atnaujinamas Valstybinio patentų biuro direktoriaus sprendimu.
+4. Šio straipsnio 3 dalyje nurodytas terminas atnaujinamas, jeigu dokumentai pateikiami per 2 mėnesius nuo aplinkybių, dėl kurių pareiškėjas negalėjo laiku sumokėti nustatyto mokesčio, išnykimo, bet ne vėliau kaip per vienus metus nuo termino, kurio turėjo būti laikomasi, pabaigos dienos. Terminas atnaujinamas Valstybinio patentų biuro sprendimu.
 
 
 
 
 5. Atsisakymas pratęsti ar atnaujinti terminą gali būti skundžiamas teismui įstatymų nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
  
-
-
 
 
 
@@ -1561,7 +1602,10 @@ TARPTAUTINĖ DIZAINO REGISTRACIJA
 
 
 
-5. Tarptautinės dizaino registracijos savininko suteikta licencija negalioja Lietuvos Respublikoje tretiesiems asmenims, jeigu duomenys apie licencinę sutartį neįrašyti į Lietuvos Respublikos dizaino registrą šio Įstatymo 41 straipsnio nustatyta tvarka.
+5. Duomenys apie tarptautinės dizaino registracijos savininko suteiktą licenciją gali būti įrašyti į Lietuvos Respublikos dizaino registrą šio Įstatymo 41 straipsnyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
+ 
 
 
 
@@ -1612,24 +1656,18 @@ DIZAINO REGISTRACIJOS GALIOJIMAS
 
 
 
-2. Dizaino registracijos galiojimas pratęsiamas Valstybinio patentų biuro sprendimu, jeigu Valstybiniam patentų biurui pateikiami šie dokumentai:
-
-
-1) prašymas pratęsti dizaino registracijos galiojimą visiems arba daliai pavyzdžių; 
-
-
-
-
-2) dokumentas, patvirtinantis, kad sumokėtas nustatytas mokestis.
+2. Dizaino registracijos galiojimas pratęsiamas Valstybinio patentų biuro sprendimu, jeigu sumokamas nustatytas mokestis ir Valstybiniam patentų biurui Taisyklėse nustatyta tvarka pateikiamas prašymas pratęsti dizaino registracijos galiojimą visiems arba daliai pavyzdžių. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
+ 
 
 
 
 
-
-
-3. Šio straipsnio 2 dalyje nurodytus dokumentus dizaino savininkas ar jo atstovas turi pateikti per 6 paskutinius dizaino registracijos galiojimo mėnesius, išskyrus šio straipsnio 4 dalyje numatytą atvejį. 
+3. Prašymą pratęsti dizaino registracijos galiojimą dizaino savininkas ar jo atstovas turi pateikti per 6 paskutinius dizaino registracijos galiojimo mėnesius, išskyrus šio straipsnio 4 dalyje numatytą atvejį. 
 Straipsnio dalies pakeitimai:
 Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
+Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
  
 
 
@@ -1651,9 +1689,10 @@ Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA
 
 
 
-6. Jeigu dizaino savininkas ar jo atstovas šio straipsnio 3 ir 4 dalyse nustatytais terminais nepateikia šio straipsnio 2 dalyje nurodytų dokumentų, dizaino registracijos galiojimas nepratęsiamas ir šio Įstatymo 30 straipsnyje nustatyta tvarka dizainas išregistruojamas iš Lietuvos Respublikos dizaino registro.
+6. Jeigu dizaino savininkas ar jo atstovas šio straipsnio 3 ir 4 dalyse nustatytais terminais nepateikia prašymo pratęsti dizaino registracijos galiojimą, dizaino registracijos galiojimas nepratęsiamas ir šio Įstatymo 30 straipsnyje nustatyta tvarka dizainas išregistruojamas iš Lietuvos Respublikos dizaino registro.
 Straipsnio dalies pakeitimai:
 Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
+Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
  
 
 
@@ -1793,7 +1832,7 @@ Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010IST
 40 straipsnis. Teisės į pareikštą registruoti ar įregistruotą dizainą perdavimas
 
 
-1. Teisė į pareikštą registruoti ar įregistruotą dizainą gali būti perduota pagal sutartį kartu su kitomis su dizaino savininko veikla susijusiomis teisėmis arba atskirai. Teisė į dizainą pereina kartu su įmone, jeigu sutartyje nenustatyta kitaip.
+1. Teisė į pareikštą registruoti ar įregistruotą dizainą gali būti perduota pagal sutartį kartu su kitomis su dizaino savininko veikla susijusiomis teisėmis arba atskirai, išskyrus atvejus, kai teisės perėmėjas nėra gavęs leidimo ar sutikimo pagal šio Įstatymo 9 straipsnio 3 ar 4 punktą. Teisė į dizainą pereina kartu su įmone, jeigu sutartyje nenustatyta kitaip.
 
 
 
@@ -1803,7 +1842,7 @@ Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010IST
 
 
 
-3. Teisės į pareikštą registruoti ar įregistruotą dizainą perdavimas įrašomas į Lietuvos Respublikos dizaino registrą vienos iš teisės perdavimo šalių prašymu, jeigu Valstybiniam patentų biurui pateikiami šie dokumentai:
+3. Teisės į pareikštą registruoti ar įregistruotą dizainą perdavimas įrašomas į Lietuvos Respublikos dizaino registrą vienos iš teisės perdavimo šalių prašymu, jeigu yra sumokėtas nustatytas mokestis ir Valstybiniam patentų biurui pateikiami šie dokumentai:
 
 
 1) prašymas įrašyti teisės perdavimą;
@@ -1811,32 +1850,39 @@ Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010IST
 
 
 
-2) teisės perdavimą patvirtinantis dokumentas;
+2) šalių pasirašytas teisės perdavimą patvirtinantis dokumentas arba vienos iš šalių ar jos atstovo pasirašytas išrašas iš teisės perdavimo sutarties;
 
 
 
 
-3) dokumentas, patvirtinantis, kad sumokėtas nustatytas mokestis;
+3) įgaliojimas atstovui (jeigu reikia);
 
 
 
 
-4) įgaliojimas atstovui (jeigu reikia).
+4) šio Įstatymo 9 straipsnio 3 ar 4 punkte nurodytas leidimas ar sutikimas, išduotas teisių perėmėjui (jeigu reikia).
 
 
 
 
 
 
-4. Valstybinis patentų biuras per vieną mėnesį nuo šio straipsnio 3 dalyje nurodytų dokumentų gavimo dienos gautus dokumentus patikrina ir, jeigu jie atitinka šio straipsnio reikalavimus, duomenis apie teisės į pareikštą registruoti ar įregistruotą dizainą perdavimą įrašo į Lietuvos Respublikos dizaino registrą.
+4. Valstybinis patentų biuras per Taisyklėse nustatytą terminą gautus dokumentus patikrina ir, jeigu dokumentai atitinka šio Įstatymo ir Taisyklėse nustatytus reikalavimus, duomenis apie teisės į pareikštą registruoti ar įregistruotą dizainą perdavimą įrašo į Lietuvos Respublikos dizaino registrą. Nustatęs, kad pateikti dokumentai neatitinka šio Įstatymo ar Taisyklėse nustatytų reikalavimų, Valstybinis patentų biuras išsiunčia pareiškėjui, dizaino savininkui ar jo atstovui pranešimą, kuriame nurodo trūkumus ir pasiūlymus, kaip juos ištaisyti. Jeigu per vieną mėnesį nuo pranešimo išsiuntimo dienos trūkumai neištaisomi, prašymas įrašyti teisės perdavimą į Lietuvos Respublikos dizaino registrą laikomas nepaduotu.
 
 
 
 
 5. Teisės į pareikštą registruoti ar įregistruotą dizainą perdavimas įsigalioja nuo jo įrašymo į Lietuvos Respublikos dizaino registrą dienos. Duomenys apie teisės į įregistruotą dizainą perdavimą skelbiami Valstybinio patentų biuro oficialiame biuletenyje.
+
+
+
+
+6. Jeigu perdavus teisę į pareikštą registruoti ar įregistruotą dizainą teisės perėmėjas nėra gavęs leidimo ar sutikimo pagal šio Įstatymo 9 straipsnio 3 ar 4 punktą, Valstybinis patentų biuras priima sprendimą neįrašyti teisės į pareikštą įregistruoti ar įregistruotą dizainą perdavimo duomenų į Lietuvos Respublikos dizaino registrą.
+
+
+Straipsnio pakeitimai:
+Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
  
-
-
 
 
 
@@ -1849,22 +1895,20 @@ Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010IST
 
 
 
-2. Duomenys apie licencinę sutartį įrašomi į Lietuvos Respublikos dizaino registrą vienos iš licencinės sutarties šalių prašymu. Kartu su prašymu Valstybiniam patentų biurui pateikiami šie dokumentai:
+2. Duomenys apie licencinę sutartį įrašomi į Lietuvos Respublikos dizaino registrą, jeigu yra sumokėtas nustatytas mokestis ir pateikiamas vienos iš licencinės sutarties šalių prašymas. Kartu su prašymu Valstybiniam patentų biurui pateikiami šie dokumentai:
 
 
-1) abiejų šalių pasirašytas licencinės sutarties sudarymą patvirtinantis dokumentas ar notaro patvirtintas išrašas iš licencinės sutarties; 
-
-
-
-
-2) dokumentas, patvirtinantis, kad sumokėtas nustatytas mokestis;
+1) šalių pasirašytas licencinės sutarties sudarymą patvirtinantis dokumentas ar vienos iš šalių arba jos atstovo pasirašytas išrašas iš licencinės sutarties;
 
 
 
 
-3) įgaliojimas atstovui (jeigu reikia).
+2) įgaliojimas atstovui (jeigu reikia). 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
+ 
 
 
 
@@ -1904,12 +1948,18 @@ Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. 1041010IST
 
 
 
-4. Valstybinis patentų biuras per vieną mėnesį nuo šio straipsnio 3 dalyje nurodytų dokumentų gavimo dienos gautus dokumentus patikrina ir, jeigu jie atitinka šio straipsnio reikalavimus, duomenis apie licencinės sutarties sudarymą įrašo į Lietuvos Respublikos dizaino registrą.
+4. Valstybinis patentų biuras per Taisyklėse nustatytą terminą gautus dokumentus patikrina ir, jeigu dokumentai atitinka šio Įstatymo ir Taisyklėse nustatytus reikalavimus, duomenis apie licencinės sutarties sudarymą įrašo į Lietuvos Respublikos dizaino registrą. Nustatęs, kad pateikti dokumentai neatitinka šio Įstatymo ar Taisyklėse nustatytų reikalavimų, Valstybinis patentų biuras išsiunčia pareiškėjui, dizaino savininkui ar jo atstovui pranešimą, kuriame nurodo trūkumus ir pasiūlymus, kaip juos ištaisyti. Jeigu per vieną mėnesį nuo pranešimo išsiuntimo dienos trūkumai neištaisomi, prašymas duomenis apie licencinę sutartį įrašyti į Lietuvos Respublikos dizaino registrą laikomas nepaduotu. 
+Straipsnio dalies pakeitimai:
+Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
+ 
 
 
 
 
-5. Licencinė sutartis tretiesiems asmenims įsigalioja nuo duomenų apie licencinės sutarties sudarymą įrašymo į Lietuvos Respublikos dizaino registrą dienos. Duomenys apie licencinės sutarties įrašymą skelbiami Valstybinio patentų biuro oficialiame biuletenyje.
+5. Duomenys apie licencinės sutarties įrašymą į Lietuvos Respublikos dizaino registrą skelbiami Valstybinio patentų biuro oficialiame biuletenyje.
+Straipsnio dalies pakeitimai:
+Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
+ 
 
 
 
@@ -2494,3 +2544,8 @@ Lietuvos Respublikos dizaino įstatymo aštuntojo skirsnio pakeitimo bei papildy
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. 1081010ISTA00X-1659
 Lietuvos Respublikos dizaino įstatymo 2, 3, 10, 16, 21, 31, 35, 44 straipsnių pakeitimo ir papildymo bei Įstatymo papildymo trečiuoju-1 skirsniu įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
+Lietuvos Respublikos dizaino įstatymo 16, 17, 18, 20, 21, 24, 29, 31, 32, 33-4, 35, 40, 41 straipsnių pakeitimo ir papildymo įstatymas
