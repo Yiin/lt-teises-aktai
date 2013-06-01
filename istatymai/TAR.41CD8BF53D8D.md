@@ -21,8 +21,11 @@ Neoficialus
 LIETUVOS RESPUBLIKOS
 RINKLIAVŲ
 ĮSTATYMAS
+ 
 2000 m. birželio 13 d. Nr. VIII-1725
 Vilnius
+ 
+ 
 I
 SKYRIUS
 BENDROSIOS NUOSTATOS
@@ -39,8 +42,8 @@ rinkliava - privaloma įmoka už valstybės ir vietos savivaldos institucijų,
 įstaigų, tarnybų ar organizacijų (toliau - institucijos), išskyrus teismus,
 teikiamas paslaugas.
 2. Institucijų
-teikiamos paslaugos - juridinę galią turinčių dokumentų bei jų dublikatų
-išdavimas, taip pat jų perregistravimas ir kitos paslaugos.
+teikiamos paslaugos - juridinę galią turinčių dokumentų bei jų dublikatų išdavimas,
+taip pat jų perregistravimas ir kitos paslaugos.
 3. Vietinė
 rinkliava - savivaldybės tarybos sprendimu nustatyta privaloma įmoka,
 galiojanti tos savivaldybės teritorijoje.
@@ -236,9 +239,9 @@ skrydžio (praktinių gebėjimų) egzamino perlaikymą, civilinės
 aviacijos specialisto licencijos (kvalifikacijos) galiojimo laiko pratęsimą,
 civilinės aviacijos specialisto licencijos (kvalifikacijos) atnaujinimą,
 pirmos, antros ir trečios klasės sveikatos pažymėjimo išdavimą darbuotojams,
-kurie atlieka valstybinę civilinės aviacijos priežiūrą, ir civilinės aviacijos specialisto
-licencijos išdavimą studentams, kurie, atlikdami praktiką, privalo turėti
-galiojančią atitinkamą civilinės aviacijos specialisto licenciją;
+kurie atlieka valstybinę civilinės aviacijos priežiūrą, ir civilinės aviacijos
+specialisto licencijos išdavimą studentams, kurie, atlikdami praktiką, privalo
+turėti galiojančią atitinkamą civilinės aviacijos specialisto licenciją;
 21) jūrininkų
 knygelės (išduodamos pirmą kartą), jūrinio laipsnio kvalifikacijos, kovos su
 gaisrais kursų baigimo liudijimo, pirmosios medicinos pagalbos kursų baigimo,
@@ -275,8 +278,8 @@ X-1277,
 Nr. X-1491,
 2008-04-15, Žin., 2008, Nr. 50-1840 (2008-04-30)
 Nr.
-X-1811, 2008-11-13,
-Žin., 2008, Nr. 135-5242 (2008-11-25)
+X-1811,
+2008-11-13, Žin., 2008, Nr. 135-5242 (2008-11-25)
  
 61 straipsnis.
 Atleidimas nuo valstybės rinkliavos, kai yra sumokėtas konsulinis mokestis
@@ -303,8 +306,8 @@ konsulinio mokesčio įstatymo 3 straipsnio 8 punkte, atlikimą.
 Įstatymas
 papildytas straipsniu:
 Nr.
-X-1301,
-2007-10-18, Žin., 2007, Nr. 114-4632 (2007-11-08)
+X-1301, 2007-10-18,
+Žin., 2007, Nr. 114-4632 (2007-11-08)
 Straipsnio pakeitimai:
 Nr. X-1491,
 2008-04-15, Žin., 2008, Nr. 50-1840 (2008-04-30)
@@ -407,8 +410,20 @@ miestui);
 savivaldybių tarybos nustatytomis vietomis automobiliams statyti (išskyrus
 vietas automobiliams statyti prie valstybinės reikšmės kelių, 5–15 m pažymėtoje
 atkarpoje prie valstybės įstaigų, institucijų ir tarnybų, taip pat vietas,
-kurias nustato Vyriausybė, atsižvelgdama į saugumą, tarptautinį protokolą ar kitus
-viešuosius interesus užtikrinančius reikalavimus);
+kurias nustato Vyriausybė, atsižvelgdama į saugumą, tarptautinį protokolą ar
+kitus viešuosius interesus užtikrinančius reikalavimus);
+Punkto redakcija
+nuo 2014-01-01:
+6) naudojimąsi savivaldybių tarybų nustatytomis vietomis
+automobiliams statyti (išskyrus vietas automobiliams statyti prie valstybinės
+reikšmės kelių, 5–15 m pažymėtoje atkarpoje prie valstybės įstaigų, institucijų
+ir tarnybų, taip pat vietas, kurias nustato Vyriausybė, atsižvelgdama į
+saugumą, tarptautinį protokolą ar kitus viešuosius interesus užtikrinančius
+reikalavimus; taip pat išskyrus
+automobilių, pažymėtų neįgalių asmenų automobilių statymo kortele, statymą
+savivaldybių tarybų nustatytose nerezervuotose mokamose vietose automobiliams
+statyti);
+ 
 7) gyvūnų (šunų,
 kačių) registravimą ir laikymą daugiabučiuose namuose;
 8) komunalinių
@@ -440,13 +455,16 @@ Nr. X-431, 2005-12-08,
 Nr.
 X-1277,
 2007-09-18, Žin., 2007, Nr. 101-4107 (2007-09-27)
+Nr.
+XII-304,
+2013-05-14, Žin., 2013, Nr. 57-2848 (2013-06-01)
  
 12
 straipsnis. Vietinių rinkliavų nustatymas
 Savivaldybės
 taryba savo sprendimu:
-1) nustato vietinę
-rinkliavą;
+1) nustato
+vietinę rinkliavą;
 2) tvirtina
 vietinės rinkliavos nuostatus;
 3) nustato
@@ -539,7 +557,6 @@ Skelbiu
 šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
-_________________
  
 Pakeitimai:
  
@@ -681,10 +698,22 @@ Nr. XI-1462,
 RINKLIAVŲ ĮSTATYMO 8 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
  
-*** Pabaiga ***
+16.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XII-304,
+2013-05-14, Žin., 2013, Nr. 57-2848 (2013-06-01)
+RINKLIAVŲ
+ĮSTATYMO 11 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja 2014 m.
+sausio 1 d.
+ 
+***
+Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė
-(2011-06-30)
- 
-                ausrine.trapinskiene@lrs.lt
+Redagavo
+Aušrinė Trapinskienė (2013-06-06)
+                 
+ausrine.trapinskiene@lrs.lt
