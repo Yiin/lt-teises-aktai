@@ -1036,8 +1036,29 @@ vykdymo, atveju pareigūnams mokama 100 procentų jų vidutinio darbo užmokesč
 taikant maksimalaus ir minimalaus kompensuojamojo uždarbio dydžius
 vadovaujantis Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių
 ligų socialinio draudimo įstatymo nuostatomis dėl ligos pašalpos skaičiavimo.
-Pastaba. 6 dalies nuostatos taikomos
-apskaičiuojant ligos išmokas nuo 2012 m. sausio 1 d.
+Dalies redakcija
+nuo 2013-07-01:
+6. Laikinojo
+nedarbingumo (išskyrus laikinąjį nedarbingumą dėl nelaimingo atsitikimo darbe
+(tarnyboje), nelaimingo atsitikimo ar įvykio, susijusio su tarnyba, taip pat
+dėl nelaimingo atsitikimo vykstant į tarnybą ar grįžtant iš jos, profesinės
+ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos
+vykdymo), nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros
+atostogų laikotarpiais, taip pat pirmaisiais vaiko auginimo metais, kai vaiko
+priežiūros atostogos nutraukiamos dėl grįžimo į tarnybą, ar antraisiais vaiko
+auginimo metais, kai vaiko priežiūros atostogos nesuteiktos arba nutrauktos,
+pareigūnams mokamos vidutinio jų darbo užmokesčio arba jo dalies dydžio išmokos,
+neviršijančios maksimalaus kompensuojamojo uždarbio. Šių išmokų dydžiai,
+maksimalus kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi
+vadovaujantis Lietuvos Respublikos ligos ir motinystės socialinio draudimo
+įstatymo nuostatomis. Laikinojo nedarbingumo dėl nelaimingo atsitikimo darbe
+(tarnyboje), nelaimingo atsitikimo ar įvykio, susijusio su tarnyba, taip pat
+dėl nelaimingo atsitikimo vykstant į tarnybą ar grįžtant iš jos, profesinės
+ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos
+vykdymo, atveju pareigūnams mokama 100 procentų jų vidutinio darbo užmokesčio,
+taikant maksimalaus ir minimalaus kompensuojamojo uždarbio dydžius
+vadovaujantis Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių
+ligų socialinio draudimo įstatymo nuostatomis dėl ligos pašalpos skaičiavimo.
  
 7. Neteko galios
 nuo 2011 m. liepos 1 d.
@@ -1062,15 +1083,18 @@ XI-364,
 Nr.
 XI-949,
 2010-06-30, Žin., 2010, Nr. 82-4303 (2010-07-13)
-Nr. XI-1719,
-2011-11-22, Žin., 2011, Nr. 150-7034 (2011-12-08)
+Nr. XI-1719, 2011-11-22,
+Žin., 2011, Nr. 150-7034 (2011-12-08)
 Nr. XII-119,
 2012-12-20, Žin., 2012, Nr. 155-7997 (2012-12-31)
-Nr. XI-986,
-2010-07-02, Žin., 2010, Nr. 86-4537 (2010-07-20)
+Nr. XI-986, 2010-07-02,
+Žin., 2010, Nr. 86-4537 (2010-07-20)
 Nr.
 XI-1856,
 2011-12-22, Žin., 2011, Nr. 163-7754 (2011-12-31)
+Nr.
+XII-298,
+2013-05-14, Žin., 2013, Nr. 57-2842 (2013-06-01)
  
 31
 straipsnis. Kompensacijos ir pašalpos
@@ -1080,10 +1104,10 @@ Specialiųjų tyrimų tarnyboje, jo šeimai – vaikams (įvaikiams), kol jiems 
 įregistruotų mokymo įstaigų dieniniuose skyriuose, kol jiems sueis 24 metai,
 sutuoktiniui, žuvusiojo vaikams, gimusiems po jo mirties, tėvui ar motinai –
 bei nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi arba jo mirties
-dieną turėjo teisę gauti jo išlaikymą, per vienus metus nuo pareigūno mirties lygiomis
-dalimis išmokama 120 mėnesių darbo užmokesčio dydžio vienkartinė kompensacija.
-Tarnybos pareigūnas, žuvęs dėl tarnybos Specialiųjų tyrimų tarnyboje,
-laidojamas valstybės lėšomis. 
+dieną turėjo teisę gauti jo išlaikymą, per vienus metus nuo pareigūno mirties
+lygiomis dalimis išmokama 120 mėnesių darbo užmokesčio dydžio vienkartinė
+kompensacija. Tarnybos pareigūnas, žuvęs dėl tarnybos Specialiųjų tyrimų
+tarnyboje, laidojamas valstybės lėšomis. 
 2. Tarnybos pareigūną pripažinus nežinia kur esančiu
 ar paskelbus žuvusiu, laikoma, kad jis yra pripažintas nežinia kur esančiu ar
 paskelbtas žuvusiu dėl tarnybos, jeigu neįrodyta kitaip, ir jo šeimai bei
@@ -1123,9 +1147,9 @@ atlyginama materialinė žala, kurią jie patiria dėl tarnybos.
  
 32 straipsnis. Išmokos pareigūnams,
 atleidžiamiems iš Specialiųjų tyrimų tarnybos
-1. Atleidžiant tarnybos pareigūnus
-iš Specialiųjų tyrimų tarnybos Specialiųjų tyrimų tarnybos įstatymo 12
-straipsnio 1 dalies 4 arba 7 punkto, 12 straipsnio 2 dalies, šio Statuto 11
+1. Atleidžiant tarnybos
+pareigūnus iš Specialiųjų tyrimų tarnybos Specialiųjų tyrimų tarnybos įstatymo
+12 straipsnio 1 dalies 4 arba 7 punkto, 12 straipsnio 2 dalies, šio Statuto 11
 straipsnio 1 dalies 6 punkto, 2 dalies 3, 4, 5 arba 7 punkto nustatytais
 pagrindais, išmokama dviejų mėnesių vidutinio darbo užmokesčio dydžio išeitinė
 pašalpa.
@@ -1153,10 +1177,10 @@ minimaliųjų gyvenimo lygių išmoka per mėnesį.
 34
 straipsnis. tarnybos laikas 
 1.
-Tarnybos pareigūnai, išskyrus Specialiųjų tyrimų tarnybos direktorių,
-Specialiųjų tyrimų tarnyboje tarnauja:
-1) iki vyresniojo specialiojo agento
-įskaitytinai – kol jiems sukanka 50 metų;
+Tarnybos pareigūnai, išskyrus Specialiųjų tyrimų tarnybos direktorių, Specialiųjų
+tyrimų tarnyboje tarnauja:
+1) iki vyresniojo specialiojo
+agento įskaitytinai – kol jiems sukanka 50 metų;
 2) vyriausieji
 specialieji agentai – kol jiems sukanka 55 metai.
 2. Specialiųjų tyrimų tarnybos direktorius tarnauja
@@ -1360,8 +1384,8 @@ straipsnio 2 dalį, įsigalioja 2012 m. sausio 1 d.
 10.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. XI-1518,
-2011-06-23, Žin., 2011, Nr. 86-4160 (2011-07-13)
+Nr. XI-1518, 2011-06-23,
+Žin., 2011, Nr. 86-4160 (2011-07-13)
 SPECIALIŲJŲ TYRIMŲ TARNYBOS
 STATUTO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2011 m. rugsėjo 1 d.
@@ -1378,13 +1402,23 @@ TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 įstatymo nuostatos taikomos apskaičiuojant ligos išmokas nuo 2012 m. sausio 1
 d.
  
+14.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XII-298,
+2013-05-14, Žin., 2013, Nr. 57-2842 (2013-06-01)
+SPECIALIŲJŲ
+TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+Šis įstatymas
+įsigalioja 2013 m. liepos 1 d.
  
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2013-01-09)
+Aušrinė Trapinskienė (2013-06-05)
                  
 ausrine.trapinskiene@lrs.lt
 
