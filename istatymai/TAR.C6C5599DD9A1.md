@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6C5599DD9A1"
 
 # Lietuvos Respublikos mokėjimų įstatymas
 
-Suvestinė redakcija nuo 2012-01-01 iki 2013-05-31
+Suvestinė redakcija nuo 2013-06-01 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 97-2775, i. k. 0991010ISTAIII-1370
  
@@ -359,9 +359,11 @@ Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010IS
 
 
 
-5. Šio įstatymo VI skyriaus nuostatos taikomos ir įgyvendinant 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 924/2009 dėl tarptautinių mokėjimų Bendrijoje, panaikinančio Reglamentą (EB) Nr. 2560/2001 (OL 2009 L 266, p. 11), 9, 10, 11, 12 ir 13 straipsnių nuostatas. 
+5. Šio įstatymo VI ir VII skyrių nuostatos taikomos ir įgyvendinant 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 924/2009 dėl tarptautinių mokėjimų Bendrijoje, panaikinančio Reglamentą (EB) Nr. 2560/2001, 9, 10, 11, 12 ir 13 straipsnių ir 2012 m. kovo 14 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 260/2012, kuriuo nustatomi kredito pervedimų ir tiesioginio debeto operacijų eurais techniniai ir komerciniai reikalavimai ir iš dalies keičiamas Reglamentas (EB) Nr. 924/2009 (toliau – Reglamentas Nr. 260/2012), 10, 11, 12 ir 16 straipsnių nuostatas. 
 Papildyta straipsnio dalimi:
 Nr. XI-1340, 2011-04-21, Žin., 2011, Nr. 52-2515 (2011-05-03), i. k. 1111010ISTA0XI-1340
+Straipsnio dalies pakeitimai:
+Nr. XII-303, 2013-05-14, Žin., 2013, Nr. 57-2847 (2013-06-01), i. k. 1131010ISTA0XII-303
  
 
 
@@ -1936,12 +1938,15 @@ GINČŲ NAGRINĖJIMO TVARKA
  
 
 
-49 straipsnis. Kreipimasis į ginčus nagrinėjančias institucijas
+49 straipsnis. Kreipimasis į ginčus nagrinėjančias institucijas
 
 
-Mokėjimo paslaugų vartotojas, manydamas, kad mokėjimo paslaugų teikėjas pažeidė jo teises ar įstatymų saugomus interesus, turi teisę kreiptis į teismą arba į išankstinio ginčų sprendimo ne teisme instituciją – Lietuvos banką – Lietuvos Respublikos Lietuvos banko įstatymo nustatyta tvarka. 
+Mokėjimo paslaugų vartotojas, manydamas, kad mokėjimo paslaugų teikėjas pažeidė jo teises ar įstatymų saugomus interesus, turi teisę kreiptis į teismą arba, jeigu mokėjimo paslaugų vartotojas yra vartotojas, į išankstinio ginčų sprendimo ne teisme instituciją – Lietuvos banką – Lietuvos Respublikos Lietuvos banko įstatymo nustatyta tvarka. 
 
 
+Straipsnio pakeitimai:
+Nr. XII-303, 2013-05-14, Žin., 2013, Nr. 57-2847 (2013-06-01), i. k. 1131010ISTA0XII-303
+ 
 
 
 Papildyta skyriumi:
@@ -1967,6 +1972,19 @@ BAIGIAMOSIOS NUOSTATOS
 2. Mokėjimo paslaugų teikėjai nustato komisinius ir kitus atlyginimus nepiktnaudžiaudami ir taip, kad jie atitiktų teikiamos mokėjimo paslaugos pobūdį, būtų ekonomiškai pagrįsti ir teisingi. 
 
 
+
+
+
+
+51 straipsnis. Lietuvos banko teisė spręsti dėl Reglamento Nr. 260/2012 netaikymo
+
+
+Lietuvos bankas turi teisę spręsti dėl Reglamento Nr. 260/2012 6 straipsnio 1 ir 2 dalyse išdėstytų reikalavimų, atsižvelgdamas į Reglamento Nr. 260/2012 16 straipsnio 3, 4 ir 5 dalių sąlygas, netaikymo iki 2016 m. vasario 1 d. 
+
+
+Papildyta straipsniu:
+Nr. XII-303, 2013-05-14, Žin., 2013, Nr. 57-2847 (2013-06-01), i. k. 1131010ISTA0XII-303
+ 
 
 
 Skyriaus pakeitimai:
@@ -2005,6 +2023,14 @@ priedas
 
 
 2. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 924/2009 dėl tarptautinių mokėjimų Bendrijoje, panaikinantis Reglamentą (EB) Nr. 2560/2001 (OL 2009 L 266, p. 11).
+
+
+
+
+3. 2012 m. kovo 14 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 260/2012, kuriuo nustatomi kredito pervedimų ir tiesioginio debeto operacijų eurais techniniai ir komerciniai reikalavimai ir iš dalies keičiamas Reglamentas (EB) Nr. 924/2009 (OL 2012 L 94, p. 22). 
+Papildyta straipsnio dalimi:
+Nr. XII-303, 2013-05-14, Žin., 2013, Nr. 57-2847 (2013-06-01), i. k. 1131010ISTA0XII-303
+ 
 
 
 Priedo pakeitimai:
@@ -2048,3 +2074,8 @@ Lietuvos Respublikos mokėjimų įstatymo 9 straipsnio, VI ir VII skyrių pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1876, 2011-12-22, Žin., 2011, Nr. 163-7767 (2011-12-31), i. k. 1111010ISTA0XI-1876
 Lietuvos Respublikos mokėjimų įstatymo 2, 3, 6, 7 straipsnių pakeitimo ir papildymo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-303, 2013-05-14, Žin., 2013, Nr. 57-2847 (2013-06-01), i. k. 1131010ISTA0XII-303
+Lietuvos Respublikos mokėjimų įstatymo 3 ir 49 straipsnių pakeitimo, Įstatymo papildymo 51 straipsniu ir priedo papildymo įstatymas
