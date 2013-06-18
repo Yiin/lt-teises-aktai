@@ -33,6 +33,7 @@ PLANUOJAMOS
 d. Nr. I-1495
 Vilnius
  
+ 
 Nauja įstatymo redakcija nuo 2005 m. liepos 12 d.:
 Nr.
 X-258,
@@ -244,17 +245,9 @@ institucija:
 poveikio aplinkai vertinimo procesą;
 2) atlieka
 atranką, nagrinėja ir tvirtina programas, nagrinėja suinteresuotos visuomenės
-pasiūlymų įvertinimą, motyvuotus suinteresuotos visuomenės pasiūlymus,
-ataskaitas, poveikio aplinkai vertinimo subjektų išvadas dėl programų,
-ataskaitų bei planuojamos ūkinės veiklos galimybių ir priima sprendimą;
-2
-punkto redakcija nuo 2011 m. rugsėjo 29 d.:
-2) atlieka
-atranką, nagrinėja ir tvirtina programas, nagrinėja suinteresuotos visuomenės
 pasiūlymų įvertinimą, suinteresuotos visuomenės pasiūlymus, ataskaitas,
 poveikio aplinkai vertinimo subjektų išvadas dėl programų, ataskaitų bei
 planuojamos ūkinės veiklos galimybių ir priima sprendimą;
- 
 3) prireikus
 pasitelkia konsultantus. Konsultantų dalyvavimą planuojamos ūkinės veiklos
 poveikio aplinkai vertinimo procese savo lėšomis organizuoja atsakinga
@@ -263,10 +256,9 @@ institucija.
 ūkinės veiklos organizatorius (užsakovas) savo lėšomis atlieka šio įstatymo jam
 nustatytas poveikio aplinkai vertinimo procedūras. 
 3. Poveikio
-aplinkai vertinimo dokumentų rengėjas nustato, apibūdina ir įvertina
-planuojamos ūkinės veiklos galimą poveikį aplinkai, rengia programą ir
-ataskaitą bei atlieka šio įstatymo jam nustatytas poveikio aplinkai vertinimo
-procedūras.
+aplinkai vertinimo dokumentų rengėjas nustato, apibūdina ir įvertina planuojamos
+ūkinės veiklos galimą poveikį aplinkai, rengia programą ir ataskaitą bei
+atlieka šio įstatymo jam nustatytas poveikio aplinkai vertinimo procedūras.
 4. Planuojamos
 ūkinės veiklos poveikio aplinkai vertinimo subjektai pagal savo kompetenciją
 nagrinėja programas bei ataskaitas ir teikia išvadas dėl programų, ataskaitų
@@ -278,8 +270,8 @@ Straipsnio
 pakeitimai:
 Nr. X-1654,
 2008-06-30, Žin., 2008, Nr. 81-3167 (2008-07-17)
-Nr. XI-1433,
-2011-06-09, Žin., 2011, Nr. 77-3720 (2011-06-28)
+Nr. XI-1433, 2011-06-09,
+Žin., 2011, Nr. 77-3720 (2011-06-28)
  
 II SKYRIUS
 POVEIKIO
@@ -324,29 +316,20 @@ bei atsižvelgusi į:
 1) vietovės,
 kurią planuojama ūkinė veikla gali paveikti, jautrumą aplinkosaugos požiūriu,
 ekosistemos savybes, kraštovaizdį, žemėnaudos pobūdį, vietovės infrastruktūrą,
-gamybos objektų sutelkimą, santykinį gamtinių išteklių kiekį, kokybę ir
-regeneracijos galimybes, natūralios aplinkos atsparumą, ypatingą dėmesį
-atkreipdama į saugomas teritorijas, taip pat į Europos ekologinio tinklo
-„Natura 2000“ teritorijos gamtosauginius tikslus, tankiai apgyvendintas
-teritorijas, pelkes, miškus, apsaugines zonas, vykdytos aplinkos stebėsenos
-duomenų analizę, teritorijas, kuriose jau viršytas leistinas užterštumo
-lygis ar kurios vertingos istoriniu, kultūriniu arba archeologiniu aspektu;
+gamybos objektų sutelkimą, santykinį gamtinių išteklių kiekį, kokybę ir regeneracijos
+galimybes, natūralios aplinkos atsparumą, ypatingą dėmesį atkreipdama į
+saugomas teritorijas, taip pat į Europos ekologinio tinklo „Natura 2000“
+teritorijos gamtosauginius tikslus, tankiai apgyvendintas teritorijas,
+pelkes, miškus, apsaugines zonas, vykdytos aplinkos stebėsenos duomenų analizę,
+teritorijas, kuriose jau viršytas leistinas užterštumo lygis ar kurios
+vertingos istoriniu, kultūriniu arba archeologiniu aspektu;
 2) galimą
-planuojamos ūkinės veiklos poveikį visuomenės sveikatai, gyvūnijai,
-augalijai, dirvožemiui, vandeniui, orui, klimatui, kraštovaizdžiui,
-materialinėms vertybėms, kultūros paveldui ir visų šių veiksnių sąveikai, ypatingą
+planuojamos ūkinės veiklos poveikį visuomenės sveikatai, gyvūnijai, augalijai,
+dirvožemiui, vandeniui, orui, klimatui, kraštovaizdžiui, materialinėms
+vertybėms, kultūros paveldui ir visų šių veiksnių sąveikai, ypatingą
 dėmesį atkreipdama į galimą poveikio mastą, tarpvalstybinį poveikį, poveikio
 kompleksiškumą, jo tikimybę, trukmę, dažnumą ir grįžtamumą bei teritorijos ir
 populiacijos dydį.
-7. Atsakinga
-institucija per 20 darbo dienų nuo informacijos atrankai atlikti gavimo dienos
-raštu pateikia planuojamos ūkinės veiklos organizatoriui (užsakovui) ir
-poveikio aplinkai vertinimo subjektams motyvuotą atrankos išvadą, ar privaloma
-atlikti poveikio aplinkai vertinimą. Atrankos išvada dėl poveikio
-aplinkai vertinimo galioja 3 metus nuo atrankos išvados viešo paskelbimo
-dienos.
-7
-dalies redakcija nuo 2011 m. rugsėjo 29 d.:
 7. Atsakinga
 institucija per 20 darbo dienų nuo informacijos atrankai atlikti gavimo dienos
 raštu pateikia planuojamos ūkinės veiklos organizatoriui (užsakovui), poveikio
@@ -359,22 +342,14 @@ patvirtintais kriterijais, gali priimti sprendimą pratęsti atrankos išvados
 galiojimą ne ilgesniam kaip 3 metų terminui per 20 darbo dienų nuo planuojamos
 ūkinės veiklos organizatoriaus (užsakovo) pateikto motyvuoto prašymo dėl
 atrankos išvados galiojimo pratęsimo.
- 
 8. Apie tai,
 kad pagal šio straipsnio 1 dalies nuostatas privaloma atlikti poveikio aplinkai
 vertinimą, arba apie atrankos išvadą planuojamos ūkinės veiklos organizatorius
 (užsakovas) praneša visuomenei Aplinkos ministerijos nustatyta tvarka.
 9. Suinteresuota
-visuomenė per 10 darbo dienų nuo atrankos išvados paskelbimo dienos turi teisę
-Aplinkos ministerijos nustatyta tvarka teikti atsakingai institucijai
-motyvuotus pasiūlymus persvarstyti atrankos išvadą. 
-9
-dalies redakcija nuo 2011 m. rugsėjo 29 d.:
-9. Suinteresuota
 visuomenė per 20 darbo dienų nuo atrankos išvados paskelbimo dienos turi teisę
 Aplinkos ministerijos nustatyta tvarka teikti atsakingai institucijai
 pasiūlymus persvarstyti atrankos išvadą.
- 
 10. Planuojamos
 ūkinės veiklos organizatorius (užsakovas), poveikio aplinkai vertinimo
 dokumentų rengėjas, poveikio aplinkai vertinimo subjektai per 10 darbo dienų
@@ -382,21 +357,11 @@ nuo atrankos išvados gavimo dienos turi teisę pateikti atsakingai institucijai
 motyvuotą prašymą persvarstyti atrankos išvadą.
 11. Atsakinga
 institucija, gavusi planuojamos ūkinės veiklos organizatoriaus (užsakovo),
-poveikio aplinkai vertinimo subjektų motyvuotą prašymą ar motyvuotus
-suinteresuotos visuomenės pasiūlymus persvarstyti atrankos išvadą, kviečia
-atvykti poveikio aplinkai vertinimo proceso dalyvius dalyvauti
-priimant galutinę atrankos išvadą, ar privaloma atlikti poveikio aplinkai
-vertinimą. 
-11
-dalies redakcija nuo 2011 m. rugsėjo 29 d.:
-11. Atsakinga
-institucija, gavusi planuojamos ūkinės veiklos organizatoriaus (užsakovo),
 poveikio aplinkai vertinimo dokumentų rengėjo, poveikio aplinkai vertinimo
 subjektų motyvuotą prašymą ar suinteresuotos visuomenės pasiūlymus persvarstyti
 atrankos išvadą, kviečia atvykti poveikio aplinkai vertinimo proceso dalyvius
 dalyvauti priimant galutinę atrankos išvadą, ar privaloma atlikti poveikio
 aplinkai vertinimą.
- 
 12. Kai,
 persvarstant atrankos išvadą, poveikio aplinkai vertinimo subjektai
 pareikalauja papildomos informacijos apie planuojamą ūkinę veiklą, planuojamos
@@ -409,8 +374,8 @@ atsakingą instituciją apie savo išvadas, ar privaloma atlikti planuojamos
 ūkinės veiklos poveikio aplinkai vertinimą.“
 13. Atsakinga
 institucija, išnagrinėjusi visų poveikio aplinkai vertinimo subjektų išvadas,
-per 5 darbo dienas priima galutinę motyvuotą atrankos išvadą, ar privaloma atlikti
-poveikio aplinkai vertinimą. 
+per 5 darbo dienas priima galutinę motyvuotą atrankos išvadą, ar privaloma
+atlikti poveikio aplinkai vertinimą. 
 14. Planuojamos
 ūkinės veiklos organizatorius (užsakovas) apie galutinę atrankos išvadą praneša
 visuomenei Aplinkos ministerijos nustatyta tvarka.
@@ -494,12 +459,12 @@ veiklos galimybių, poveikio aplinkai vertinimo procedūros negali būti tęsiam
 tol, kol galioja savivaldybės tarybos priimtas sprendimas, išskyrus atvejus,
 kai planuojama ūkinė veikla yra valstybinės reikšmės ir jos įgyvendinimas
 numatytas Lietuvos Respublikos Vyriausybės patvirtintuose valstybės
-strateginiuose planuose. Apie savivaldybės tarybos priimtą neigiamą sprendimą savivaldybės
-administracija nedelsdama (per 3 darbo dienas) informuoja atsakingą instituciją
-ir planuojamos ūkinės veiklos organizatorių (užsakovą) ir kartu pateikia
-savivaldybės tarybos sprendimą. Atsakinga institucija, gavusi savivaldybės
-tarybos sprendimą, apie tai informuoja visuomenę Aplinkos ministerijos
-nustatyta tvarka.
+strateginiuose planuose. Apie savivaldybės tarybos priimtą neigiamą sprendimą
+savivaldybės administracija nedelsdama (per 3 darbo dienas) informuoja
+atsakingą instituciją ir planuojamos ūkinės veiklos organizatorių (užsakovą) ir
+kartu pateikia savivaldybės tarybos sprendimą. Atsakinga institucija, gavusi
+savivaldybės tarybos sprendimą, apie tai informuoja visuomenę Aplinkos
+ministerijos nustatyta tvarka.
 10. Atsakinga
 institucija, išnagrinėjusi programą, turi teisę pateikti motyvuotus
 reikalavimus poveikio aplinkai vertinimo dokumentų rengėjui papildyti ar
@@ -509,30 +474,19 @@ institucija, išnagrinėjusi programą, poveikio aplinkai vertinimo
 subjektų išvadas, patvirtina programą per 10 darbo dienų nuo jos gavimo dienos.
 12. Kai poveikio
 aplinkai vertinimo subjektų išvados prieštarauja viena kitai ir (ar) atsakinga
-institucija yra gavusi suinteresuotos visuomenės motyvuotus pasiūlymus,
-atsakinga institucija, prieš tvirtindama programą, kviečia atvykti planuojamos
-ūkinės veiklos organizatorių (užsakovą), poveikio aplinkai vertinimo dokumentų
-rengėją, poveikio aplinkai vertinimo subjektus svarstyti jų išvadas ir (ar)
-motyvuotus pasiūlymus. Taip pat kviečiami ir motyvuotus pasiūlymus pateikę
-suinteresuotos visuomenės atstovai.
-12
-dalies redakcija nuo 2011 m. rugsėjo 29 d.:
-12. Kai poveikio
-aplinkai vertinimo subjektų išvados prieštarauja viena kitai ir (ar) atsakinga
 institucija yra gavusi suinteresuotos visuomenės pasiūlymus, atsakinga
 institucija, prieš tvirtindama programą, kviečia atvykti planuojamos ūkinės
-veiklos organizatorių (užsakovą), poveikio aplinkai vertinimo dokumentų rengėją,
-poveikio aplinkai vertinimo subjektus svarstyti jų išvadų ir (ar)
+veiklos organizatorių (užsakovą), poveikio aplinkai vertinimo dokumentų
+rengėją, poveikio aplinkai vertinimo subjektus svarstyti jų išvadų ir (ar)
 suinteresuotos visuomenės pasiūlymų. Taip pat kviečiami atvykti ir pasiūlymus
 pateikę suinteresuotos visuomenės atstovai.
- 
 13. Kai
 planuojamai ūkinei veiklai taikomos tarpvalstybinio poveikio aplinkai vertinimo
 procedūros pagal Jungtinių Tautų Organizacijos 1991 m. Konvenciją dėl poveikio aplinkai vertinimo tarpvalstybiniame kontekste (toliau – Konvencija),
-atsakinga institucija tvirtina programą, gavusi galinčios patirti neigiamą poveikį
-aplinkai Europos Sąjungos valstybės narės ir (ar) užsienio valstybės, kuri yra
-prisijungusi prie Konvencijos, (toliau – užsienio valstybė) atsakymą apie
-ketinimą dalyvauti tarpvalstybinio poveikio aplinkai vertinimo procese.
+atsakinga institucija tvirtina programą, gavusi galinčios patirti neigiamą
+poveikį aplinkai Europos Sąjungos valstybės narės ir (ar) užsienio valstybės,
+kuri yra prisijungusi prie Konvencijos, (toliau – užsienio valstybė) atsakymą
+apie ketinimą dalyvauti tarpvalstybinio poveikio aplinkai vertinimo procese.
 Programa tvirtinama ir tuo atveju, kai pagal šio įstatymo 11 straipsnio 2 dalį
 negaunamas atsakymas iš Europos Sąjungos valstybės narės ar pagal Konvencijos
 reikalavimus iš užsienio valstybės.
@@ -560,10 +514,10 @@ veiklos poveikio visuomenės sveikatai, gyvūnijai ir augalijai, dirvožemiui,
 biologinei įvairovei, socialinei ekonominei aplinkai ir materialinėms
 vertybėms, nekilnojamosioms kultūros vertybėms ir šių aplinkos komponentų
 tarpusavio sąveikai apibūdinimas ir įvertinimas; priemonių, numatytų neigiamam
-poveikiui aplinkai išvengti, sumažinti, kompensuoti ar jo padariniams likviduoti,
-aprašymas; poveikio aplinkai vertinimo dokumentų rengėjo išnagrinėtų
-alternatyvų analizė nurodant jų pasirinkimo priežastis, atsižvelgus į
-geriausius prieinamus gamybos būdus ir galimą poveikį aplinkai; informacija
+poveikiui aplinkai išvengti, sumažinti, kompensuoti ar jo padariniams
+likviduoti, aprašymas; poveikio aplinkai vertinimo dokumentų rengėjo
+išnagrinėtų alternatyvų analizė nurodant jų pasirinkimo priežastis, atsižvelgus
+į geriausius prieinamus gamybos būdus ir galimą poveikį aplinkai; informacija
 apie techninio ar praktinio pobūdžio problemas, kurios poveikio aplinkai
 vertinimo dokumentų rengėjui kilo atliekant poveikio aplinkai vertinimą;
 informacija apie galimas ekstremaliąsias situacijas, priemones joms išvengti ar
@@ -576,18 +530,10 @@ informacijos santrauka.
 aplinkai vertinimo dokumentų rengėjas Aplinkos ministerijos nustatyta tvarka
 organizuoja visuomenės supažindinimą su ataskaita.
 3. Poveikio
-aplinkai vertinimo dokumentų rengėjas pagal motyvuotus suinteresuotos
-visuomenės pasiūlymus pateikia patikslintą ataskaitą poveikio aplinkai
-vertinimo subjektams. Šie patikrina, ar ataskaitoje išsamiai išnagrinėti jų
-kompetencijai priklausantys ir programoje numatyti klausimai.
-3
-dalies redakcija nuo 2011 m. rugsėjo 29 d.:
-3. Poveikio
 aplinkai vertinimo dokumentų rengėjas pagal suinteresuotos visuomenės
 pasiūlymus pateikia patikslintą ataskaitą poveikio aplinkai vertinimo
 subjektams. Šie patikrina, ar ataskaitoje išsamiai išnagrinėti jų kompetencijai
 priklausantys ir programoje numatyti klausimai.
- 
 4. Poveikio
 aplinkai vertinimo subjektai išnagrinėja ataskaitą ir per 20 darbo dienų nuo
 jos gavimo dienos savo motyvuotas išvadas dėl ataskaitos ir planuojamos ūkinės
@@ -602,14 +548,14 @@ subjektams. Šie ataskaitą išnagrinėja ir per 10 darbo dienų nuo jos gavimo
 dienos motyvuotas išvadas dėl ataskaitos ir planuojamos ūkinės veiklos
 galimybių pateikia poveikio aplinkai vertinimo dokumentų rengėjui. 
 6. Poveikio
-aplinkai vertinimo dokumentų rengėjas atsakingai institucijai pateikia
-ataskaitą, poveikio aplinkai vertinimo subjektų išvadas dėl ataskaitos ir
-planuojamos ūkinės veiklos galimybių bei argumentuotą suinteresuotos visuomenės
-pasiūlymų įvertinimą. Kai planuojamai ūkinei veiklai taikomos tarpvalstybinio
-poveikio aplinkai vertinimo procedūros pagal Konvenciją, poveikio aplinkai
-vertinimo dokumentų rengėjas pateikia ir argumentuotą galinčios patirti
-neigiamą poveikį aplinkai Europos Sąjungos valstybės narės ir (ar) užsienio
-valstybės pasiūlymų įvertinimą.
+aplinkai vertinimo dokumentų rengėjas atsakingai institucijai pateikia ataskaitą,
+poveikio aplinkai vertinimo subjektų išvadas dėl ataskaitos ir planuojamos
+ūkinės veiklos galimybių bei argumentuotą suinteresuotos visuomenės pasiūlymų
+įvertinimą. Kai planuojamai ūkinei veiklai taikomos tarpvalstybinio poveikio
+aplinkai vertinimo procedūros pagal Konvenciją, poveikio aplinkai vertinimo
+dokumentų rengėjas pateikia ir argumentuotą galinčios patirti neigiamą poveikį
+aplinkai Europos Sąjungos valstybės narės ir (ar) užsienio valstybės pasiūlymų
+įvertinimą.
 7.
 Atsakinga institucija turi teisę pareikalauti pakartotinai organizuoti
 visuomenės viešą supažindinimą su ataskaita, jeigu po viešo supažindinimo su
@@ -639,18 +585,6 @@ Nr. XI-1433,
  
 10 straipsnis.
 Sprendimas dėl planuojamos ūkinės veiklos galimybių
-1. Atsakinga
-institucija, išnagrinėjusi ataskaitą, poveikio aplinkai vertinimo subjektų
-išvadas dėl ataskaitos ir planuojamos ūkinės veiklos galimybių, argumentuotą
-suinteresuotos visuomenės pasiūlymų įvertinimą, taip pat raštu gautus
-suinteresuotos visuomenės motyvuotus pasiūlymus, per 25 darbo dienas nuo
-ataskaitos gavimo dienos: 
-            1)
-teikia motyvuotus reikalavimus ataskaitą pataisyti ar papildyti arba
-2) priima
-sprendimą.
-1
-dalies redakcija nuo 2011 m. rugsėjo 29 d.:
 1. Atsakinga institucija, išnagrinėjusi ataskaitą, poveikio
 aplinkai vertinimo subjektų išvadas dėl ataskaitos ir planuojamos ūkinės
 veiklos galimybių, argumentuotą suinteresuotos visuomenės pasiūlymų įvertinimą,
@@ -659,7 +593,6 @@ nuo ataskaitos gavimo dienos:
 1) teikia motyvuotus reikalavimus ataskaitą pataisyti ar
 papildyti arba
 2) priima sprendimą.
- 
 2. Kai vadovaudamasi šio įstatymo 6 straipsnio 1 dalies 3
 punktu atsakinga institucija ataskaitai nagrinėti pasitelkia konsultantus, ši
 institucija motyvuotus reikalavimus ataskaitą pataisyti ar papildyti teikia
@@ -691,23 +624,11 @@ sprendimą pateikia raštu.
 6. Kai poveikio
 aplinkai vertinimo subjektų išvados dėl planuojamos ūkinės veiklos galimybių
 prieštarauja viena kitai ir (ar) atsakinga institucija yra gavusi
-suinteresuotos visuomenės motyvuotus pasiūlymus, atsakinga institucija, prieš
-priimdama sprendimą, kviečia atvykti planuojamos ūkinės veiklos organizatorių
-(užsakovą), poveikio aplinkai vertinimo dokumentų rengėją, poveikio aplinkai
-vertinimo subjektus svarstyti jų išvadas ir (ar) motyvuotus pasiūlymus. Taip
-pat kviečiami ir motyvuotus pasiūlymus pateikę suinteresuotos visuomenės
-atstovai.
-6
-dalies redakcija nuo 2011 m. rugsėjo 29 d.:
-6. Kai poveikio
-aplinkai vertinimo subjektų išvados dėl planuojamos ūkinės veiklos galimybių
-prieštarauja viena kitai ir (ar) atsakinga institucija yra gavusi
 suinteresuotos visuomenės pasiūlymus, atsakinga institucija, prieš priimdama
 sprendimą, kviečia atvykti planuojamos ūkinės veiklos organizatorių (užsakovą),
 poveikio aplinkai vertinimo dokumentų rengėją, poveikio aplinkai vertinimo
 subjektus svarstyti jų išvadas ir (ar) suinteresuotos visuomenės pasiūlymus.
 Taip pat kviečiami ir pasiūlymus pateikę suinteresuotos visuomenės atstovai.
- 
 7. Jeigu
 nustatoma, kad planuojamos ūkinės veiklos įgyvendinimas sukels reikšmingų
 neigiamų padarinių Europos ekologinio tinklo „Natura 2000“ teritorijoms ir nėra
@@ -722,32 +643,16 @@ teritorijų apsaugos ir tvarkymo organizavimą, informuoja Europos Komisiją
 Aplinkos ministerijos nustatyta tvarka.
 8. Atsakingos
 institucijos priimtas teigiamas sprendimas galioja 5 metus nuo jo priėmimo
-dienos.
-8
-dalies redakcija nuo 2011 m. rugsėjo 29 d.:
-8. Atsakingos
-institucijos priimtas teigiamas sprendimas galioja 5 metus nuo jo priėmimo
 dienos. Atsakinga institucija, vadovaudamasi Aplinkos ministerijos nustatyta
 tvarka ir patvirtintais kriterijais, gali priimti sprendimą pratęsti sprendimo
 galiojimą ne ilgesniam kaip 5 metų terminui per 20 darbo dienų nuo planuojamos
 ūkinės veiklos organizatoriaus (užsakovo) pateikto motyvuoto prašymo dėl
 sprendimo galiojimo pratęsimo.
- 
-9. Jeigu
-atsakinga institucija priima sprendimą, kad planuojama ūkinė veikla dėl
-atitinkamų įstatymų ir kitų teisės aktų nuostatų pažeidimų ir (ar) galimo
-neigiamo poveikio aplinkai pasirinktoje vietoje neleistina, planuojama ūkinė
-veikla negali būti vykdoma. 
-10.
-Atsakinga institucija ir planuojamos ūkinės veiklos organizatorius (užsakovas)
-Aplinkos ministerijos nustatyta tvarka praneša visuomenei apie sprendimą ir
-suteikia galimybę su juo susipažinti. Kai planuojamai ūkinei veiklai buvo atliktos
-tarpvalstybinio poveikio aplinkai vertinimo procedūros pagal Konvenciją,
-atsakinga institucija informaciją apie sprendimą pateikia ir galinčiai patirti
-neigiamą poveikį aplinkai Europos Sąjungos valstybei narei ir (ar) užsienio
-valstybei.
-10
-dalies redakcija nuo 2011 m. rugsėjo 29 d.:
+9. Jeigu atsakinga
+institucija priima sprendimą, kad planuojama ūkinė veikla dėl atitinkamų
+įstatymų ir kitų teisės aktų nuostatų pažeidimų ir (ar) galimo neigiamo
+poveikio aplinkai pasirinktoje vietoje neleistina, planuojama ūkinė veikla
+negali būti vykdoma. 
 10.
 Atsakinga institucija ir planuojamos ūkinės veiklos organizatorius (užsakovas)
 Aplinkos ministerijos nustatyta tvarka praneša visuomenei apie sprendimą ir
@@ -802,13 +707,13 @@ Sąjungos valstybė narė gali pateikti savo pasiūlymus. Laikotarpio trukmė tu
 būti pakankama, kad galinčios patirti neigiamą poveikį aplinkai Europos
 Sąjungos valstybės narės pateiktus pasiūlymus ar papildomą informaciją būtų
 galima įtraukti į ataskaitą, iki atsakinga institucija priims sprendimą.
-4. Gavusi
-galinčios patirti neigiamą poveikį aplinkai Europos Sąjungos valstybės narės
-pasiūlymus ar papildomą informaciją apie planuojamą ūkinę veiklą, Lietuvos
-Respublika pradeda tarpvalstybines konsultacijas su galinčia patirti neigiamą
-poveikį aplinkai Europos Sąjungos valstybe nare dėl galimo tarpvalstybinio
-planuojamos ūkinės veiklos poveikio, numatomų priemonių poveikiui aplinkai
-sumažinti ar pašalinti.
+4. Gavusi galinčios
+patirti neigiamą poveikį aplinkai Europos Sąjungos valstybės narės pasiūlymus
+ar papildomą informaciją apie planuojamą ūkinę veiklą, Lietuvos Respublika
+pradeda tarpvalstybines konsultacijas su galinčia patirti neigiamą poveikį
+aplinkai Europos Sąjungos valstybe nare dėl galimo tarpvalstybinio planuojamos
+ūkinės veiklos poveikio, numatomų priemonių poveikiui aplinkai sumažinti ar
+pašalinti.
 5. Kai Lietuvos
 Respublikos teritorijoje planuojama ūkinė veikla gali turėti reikšmingą
 neigiamą poveikį užsienio valstybei arba kai tokia užsienio valstybė
@@ -848,9 +753,9 @@ tvarka gauti iš kitų planuojamos ūkinės veiklos poveikio aplinkai vertinimo
 proceso dalyvių informaciją apie galimą planuojamos ūkinės veiklos poveikį
 aplinkai.
 2. Visuomenės
-informavimą ir dalyvavimą planuojamos ūkinės veiklos poveikio aplinkai
-vertinimo procese savo lėšomis nustatyta tvarka organizuoja planuojamos ūkinės
-veiklos organizatorius (užsakovas).
+informavimą ir dalyvavimą planuojamos ūkinės veiklos poveikio aplinkai vertinimo
+procese savo lėšomis nustatyta tvarka organizuoja planuojamos ūkinės veiklos
+organizatorius (užsakovas).
 3. Visuomenės
 informavimo ir dalyvavimo planuojamos ūkinės veiklos poveikio aplinkai
 vertinimo procese tvarką nustato Aplinkos ministerija.
@@ -897,13 +802,14 @@ Skelbiu šį Lietuvos Respublikos Seimo
 priimtą įstatymą.
  
  
+ 
 RESPUBLIKOS PREZIDENTAS                                                        ALGIRDAS
 BRAZAUSKAS
  
  
                                                                                                 Lietuvos
 Respublikos 
-                                                                                                planuojamos
+                                                                                                planuojamos
 ūkinės veiklos 
                                                                                                 poveikio
 aplinkai vertinimo 
@@ -919,8 +825,8 @@ BŪTI VERTINAMAS,
 RŪŠIŲ
 SĄRAŠAS
  
-1. Žemės ir vandens
-ūkis:
+1. Žemės ir
+vandens ūkis:
 1.1. Intensyvus
 kiaulių auginimas, jeigu yra daugiau kaip 3 000 vietų kiaulėms (sunkesnėms negu
 30 kg), arba intensyvus paršavedžių auginimas, jeigu yra daugiau kaip 900 vietų
@@ -944,7 +850,10 @@ parą);
 Durpių gavyba (kai gavybos plotas – 150 ha ir didesnis);
 2.4.
 Kitų naudingųjų iškasenų kasyba ar akmens skaldymas (kai kasybos plotas – 25
-ha ir didesnis).
+ha ir didesnis);
+2.5.
+Išsklaidytųjų angliavandenilių tiesioginis tyrimas ir (ar) gavyba, kai
+taikomas hidraulinis ardymas.
  
 3. Energetika:
 3.1.
@@ -1027,9 +936,6 @@ skersmuo –
 8.8.
 Antžeminių elektros perdavimo linijų tiesimas (kai įtampa – 110
 kV ar aukštesnė, o linijos ilgis – 15 ir daugiau kilometrų);
-Priedas
-papildomas 8.9 punktu nuo Lietuvos Respublikos anglies dioksido geologinio
-saugojimo įstatymo įsigaliojimo dienos:
 8.9. Geologiniam
 saugojimui skirto anglies dioksido (CO2) tiekimo vamzdynų, įskaitant
 susijusias slėgines, tiesimas (kai vamzdžio skersmuo – daugiau kaip 800 mm, o
@@ -1062,9 +968,6 @@ pavojingų atliekų sąvartyne;
 Nepavojingų atliekų naudojimas energijai gauti arba jų šalinimas jas deginant
 ar apdorojat cheminiu būdu (kai numatoma naudoti arba šalinti 100 ir daugiau
 tonų per parą atliekų);
-Priedas
-papildomas 9.8 ir 9.9 punktais nuo Lietuvos Respublikos anglies dioksido
-geologinio saugojimo įstatymo įsigaliojimo dienos:
 9.8. Anglies
 dioksido (CO2) geologinio saugojimo saugyklų įrengimas;
 9.9. Įrenginių,
@@ -1072,7 +975,6 @@ naudojamų geologiniam saugojimui skirto anglies dioksido (CO2)
 srautams surinkti iš įrenginių, naudojamų 1 priede nurodytai veiklai vykdyti
 arba kai iš viso per metus surenkama 1,5 milijono tonų arba daugiau anglies
 dioksido (CO2), įrengimas.
- 
 10.
 Į Planuojamos ūkinės veiklos, kurios poveikis aplinkai privalo būti vertinamas,
 rūšių sąrašą įrašytos planuojamos ūkinės veiklos pakeitimas ar išplėtimas tais
@@ -1082,10 +984,10 @@ Priedo
 pakeitimai:
 Nr. X-1654,
 2008-06-30, Žin., 2008, Nr. 81-3167 (2008-07-17)
-Nr. XI-1433,
-2011-06-09, Žin., 2011, Nr. 77-3720 (2011-06-28)
- 
-______________
+Nr. XI-1433, 2011-06-09,
+Žin., 2011, Nr. 77-3720 (2011-06-28)
+Nr. XII-353,
+2013-05-30, Žin., 2013, Nr. 64-3177 (2013-06-18)
  
  
                                                                                     Lietuvos
@@ -1118,13 +1020,13 @@ paukščių auginimas (daugiau kaip 10 000 kitų paukščių);
 1.5. Žuvų
 auginimas ar veisimas (jūroje ar tvenkiniuose, kurių plotas didesnis kaip 5
 ha);
-1.6. Vandentvarkos
-įrenginių žemės ūkio reikmėms, įskaitant sausinimo ir drėkinimo sistemas,
-įrengimas (kai užimamas plotas didesnis kaip 5 ha);
+1.6.
+Vandentvarkos įrenginių žemės ūkio reikmėms, įskaitant sausinimo ir drėkinimo
+sistemas, įrengimas (kai užimamas plotas didesnis kaip 5 ha);
 1.7. Užtvankų ir kitų įrenginių, skirtų vandens sulaikymui ar
 nuolatiniam saugojimui, įrengimas (mažiau kaip 5 milijonai m(3), bet
-daugiau kaip 200 000 m(3) vandens tūrio arba kai jų vandens
-paviršiaus plotas mažesnis kaip 250 ha, bet didesnis kaip 10 ha);
+daugiau kaip 200 000 m(3) vandens tūrio arba kai jų vandens paviršiaus
+plotas mažesnis kaip 250 ha, bet didesnis kaip 10 ha);
 1.8.
 Nesukultūrintų žemės plotų panaudojimas intensyvaus žemės ūkio reikmėms (kai
 naudojamas didesnis kaip 0,5 ha plotas);
@@ -1177,9 +1079,6 @@ elektrinių (hidroelektrinių, malūnų, lentpjūvių ar kitų jėgainių, naudo
 sukauptą vandens energiją) įrengimas (kai galingumas – daugiau kaip 0,1 MW);
 3.7. Vėjo
 elektrinių įrengimas (kai jų įrengtoji galia viršija 30 kW);
-Priedas
-papildomas 3.8 punktu nuo Lietuvos Respublikos anglies dioksido geologinio
-saugojimo įstatymo įsigaliojimo dienos:
 3.8.
 Įrenginių, naudojamų geologiniam saugojimui skirto anglies dioksido (CO2)
 srautams surinkti iš įrenginių, nenurodytų 1 priedo 9.9 punkte, įrengimas.
@@ -1342,9 +1241,9 @@ turinčių keturias ar daugiau eismo juostų, tiesimas ar kelių, turinčių ma�
 negu keturias eismo juostas, rekonstravimas, įrengiant juose keturias ar
 daugiau eismo juostų (kai tiesiamas ar rekonstruojamas trumpesnis kaip 10 km,
 bet ilgesnis kaip 2 km nenutrūkstamas kelio ruožas);
-10.8. Jūros uostų
-ar prieplaukų įrengimas (laivams, kurių keliamoji galia, – mažiau kaip 1 350
-tonų, o uosto ar prieplaukos plotas – daugiau kaip 1 ha);
+10.8. Jūros
+uostų ar prieplaukų įrengimas (laivams, kurių keliamoji galia, – mažiau kaip 1
+350 tonų, o uosto ar prieplaukos plotas – daugiau kaip 1 ha);
 10.9. Vidaus
 vandenų kelių, uostų ar prieplaukų įrengimas (kai tinka laivams, kurių
 keliamoji galia, – mažiau kaip 1 350 tonų, o uosto ar prieplaukos plotas –
@@ -1376,9 +1275,6 @@ Vandenviečių įrengimas (kai pajėgumas – mažiau kaip 10 milijonų m(3),
 bet daugiau kaip 350 000 m(3) per metus);
 10.19. Tiltų
 (ilgesnių kaip 250 m) statyba;
-Priedas
-papildomas 10.20 punktu nuo Lietuvos Respublikos anglies dioksido geologinio
-saugojimo įstatymo įsigaliojimo dienos:
 10.20.
 Geologiniam saugojimui skirto anglies dioksido (CO2) tiekimo
 vamzdynų, įskaitant susijusias slėgines, tiesimas (kai vamzdžio skersmuo – 800
@@ -1471,8 +1367,8 @@ namų ar viešbučių kompleksų už miestų ribų statyba (kai užimamas plotas
 didesnis kaip 0,5 ha);
 12.3. Nuolatinių
 stovyklaviečių ar kempingų (kurių plotas didesnis kaip 1 ha) įrengimas;
-12.4. Teminių parkų
-(kurių plotas didesnis kaip 0,5 ha) įrengimas.
+12.4. Teminių
+parkų (kurių plotas didesnis kaip 0,5 ha) įrengimas.
 13. Į
 Planuojamos ūkinės veiklos, kurios poveikis aplinkai privalo būti vertinamas,
 rūšių sąrašą įrašyta planuojama ūkinė veikla, skirta eksperimentiniam
@@ -1494,9 +1390,8 @@ Nr. XI-1433,
 2011-06-09, Žin., 2011, Nr. 77-3720 (2011-06-28),  atitaisymas
 skelbtas: Žin., 2011, Nr. 109
  
-_________________
  
-                                                                                    Lietuvos
+                                                                                    Lietuvos
 Respublikos 
                                                                         planuojamos
 ūkinės veiklos 
@@ -1514,17 +1409,16 @@ privačių projektų poveikio aplinkai vertinimo (OL 2004 m. specialusis
 leidimas, 15 skyrius, 1 tomas, p. 248) su paskutiniais pakeitimais,
 padarytais 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva
 2009/31/EB (OL 2009 L 140, p. 114).
-2. 1992 m. gegužės
-21 d. Tarybos direktyva 92/43/EEB dėl natūralių buveinių ir laukinės faunos bei
-floros apsaugos (OL 2004 m. specialusis leidimas, 15 skyrius, 2 tomas,
-p. 102) su paskutiniais pakeitimais, padarytais 2006 m. lapkričio 20 d. Tarybos
-direktyva 2006/105/EB (OL 2006 L 363, p. 368).
+2. 1992 m.
+gegužės 21 d. Tarybos direktyva 92/43/EEB dėl natūralių buveinių ir laukinės
+faunos bei floros apsaugos (OL 2004 m. specialusis leidimas, 15 skyrius,
+2 tomas, p. 102) su paskutiniais pakeitimais, padarytais 2006 m. lapkričio 20
+d. Tarybos direktyva 2006/105/EB (OL 2006 L 363, p. 368).
 Priedo
 pakeitimai:
 Nr. XI-1433,
 2011-06-09, Žin., 2011, Nr. 77-3720 (2011-06-28)
  
-_______________
  
 Pakeitimai:
  
@@ -1586,8 +1480,8 @@ PLANUOJAMOS
 ŪKINĖS VEIKLOS POVEIKIO APLINKAI VERTINIMO ĮSTATYMO 2, 3, 5, 6, 8, 9, 10, 11
 STRAIPSNIŲ IR ĮSTATYMO 1, 2 PRIEDŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Poveikio
-aplinkai vertinimo procedūros, pradėtos iki šio įstatymo įsigaliojimo, baigiamos
-pagal tuo metu galiojusias teisės normas.
+aplinkai vertinimo procedūros, pradėtos iki šio įstatymo įsigaliojimo,
+baigiamos pagal tuo metu galiojusias teisės normas.
  
 6.
 Lietuvos
@@ -1607,24 +1501,34 @@ Nr.
 XI-1433,
 2011-06-09, Žin., 2011, Nr. 77-3720 (2011-06-28)
 PLANUOJAMOS ŪKINĖS VEIKLOS
-POVEIKIO APLINKAI VERTINIMO ĮSTATYMO 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 15
-STRAIPSNIŲ IR 1, 2, 3 PRIEDŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+POVEIKIO APLINKAI VERTINIMO ĮSTATYMO 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 15 STRAIPSNIŲ
+IR 1, 2, 3 PRIEDŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šio
 įstatymo 5 straipsnis, 6 straipsnio 4, 6 ir 8 dalys, 7 straipsnio 4 dalis, 8
 straipsnio 3 dalis, 9 straipsnio 1, 6, 7 ir 8 dalys įsigalioja po 3 mėnesių nuo
 šio įstatymo paskelbimo leidinyje „Valstybės žinios“ dienos.
 Šio įstatymo 12 straipsnio 3, 6
 ir 7 dalys ir 13 straipsnio 4 ir 7 dalys įsigalioja Lietuvos Respublikos
-anglies dioksido geologinio saugojimo įstatymo įsigaliojimo dieną.
+anglies dioksido geologinio saugojimo įstatymo įsigaliojimo dieną (2011-07-19).
 Šio įstatymo atitaisymas
 skelbtas: Žin., 2011, Nr. 109 (2011-09-03)
+ 
+8.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XII-353,
+2013-05-30, Žin., 2013, Nr. 64-3177 (2013-06-18)
+PLANUOJAMOS
+ŪKINĖS VEIKLOS POVEIKIO APLINKAI VERTINIMO ĮSTATYMO 1 PRIEDO PAPILDYMO
+ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2011-06-29)
+Aušrinė Trapinskienė (2013-06-18)
                  
 ausrine.trapinskiene@lrs.lt
  
