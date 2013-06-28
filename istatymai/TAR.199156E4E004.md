@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2011-07-13 iki 2013-06-27
+Suvestinė redakcija nuo 2013-06-28 iki 2014-09-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
  
@@ -634,7 +634,37 @@ Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. 1051010ISTA0
 
 
 
-4. Neįgalumo lygio nustatymo kriterijus ir tvarką nustato Sveikatos apsaugos ministerija kartu su Socialinės apsaugos ir darbo ministerija bei Švietimo ir mokslo ministerija. 
+4. Neįgalumo lygis gali būti nustatomas tokiais terminais:
+
+
+1) 6 mėnesiams, kai neįgalumo lygis vertinamas pirmą kartą ir prognozuojamas asmens sveikatos būklės pasikeitimas, darantis įtaką asmens neįgalumo lygiui, per artimiausius 6 mėnesius;
+
+
+
+
+2) vieniems metams, kai neįgalumo lygis vertinamas pirmą kartą ir (ar) prognozuojamas asmens sveikatos būklės pasikeitimas, darantis įtaką asmens neįgalumo lygiui, per artimiausius 12 mėnesių;
+
+
+
+
+3) 2 metams, kai prognozuojamas asmens sveikatos būklės pasikeitimas, darantis įtaką asmens neįgalumo lygiui, per artimiausius 24 mėnesius;
+
+
+
+
+4) iki asmeniui sukaks 18 metų, kai neprognozuojamas asmens sveikatos būklės pasikeitimas, darantis įtaką asmens neįgalumo lygiui, ir (ar) asmens sveikatos sutrikimai yra nuolatinio, nekintamo pobūdžio. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XII-355, 2013-06-11, Žin., 2013, Nr. 68-3400 (2013-06-28), i. k. 1131010ISTA0XII-355
+ 
+
+
+
+
+5. Neįgalumo lygio nustatymo kriterijus ir tvarką nustato Sveikatos apsaugos ministerija kartu su Socialinės apsaugos ir darbo ministerija bei Švietimo ir mokslo ministerija. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-355, 2013-06-11, Žin., 2013, Nr. 68-3400 (2013-06-28), i. k. 1131010ISTA0XII-355
  
 
 
@@ -678,12 +708,18 @@ Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. 1051010ISTA0
 7. Darbingumas įvertinamas procentais ir jo lygis nustatomas 5 punktų intervalais, t. y.:
 
 
-1) jei asmeniui nustatoma 0–25 procentų darbingumo, asmuo laikomas nedarbingu;
+1) jei asmeniui nustatoma 0–25 procentų darbingumo, asmuo laikomas nedarbingu, t. y. asmuo negali dirbti arba gali dirbti tik pagal negalios pobūdį pritaikytoje darbo vietoje ar pritaikytomis darbo sąlygomis; 
+Straipsnio punkto pakeitimai:
+Nr. XII-355, 2013-06-11, Žin., 2013, Nr. 68-3400 (2013-06-28), i. k. 1131010ISTA0XII-355
+ 
 
 
 
 
-2) jei asmeniui nustatoma 30–55 procentų darbingumo, asmuo laikomas iš dalies darbingu;
+2) jei asmeniui nustatoma 30–55 procentų darbingumo, asmuo laikomas iš dalies darbingu, t. y. asmuo gali dirbti pagal negalios pobūdį pritaikytoje darbo vietoje arba jam nebūtina pritaikyti darbo vietos; 
+Straipsnio punkto pakeitimai:
+Nr. XII-355, 2013-06-11, Žin., 2013, Nr. 68-3400 (2013-06-28), i. k. 1131010ISTA0XII-355
+ 
 
 
 
@@ -695,7 +731,47 @@ Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. 1051010ISTA0
 
 
 
-8. Darbingumo lygio nustatymo kriterijus ir tvarką nustato Socialinės apsaugos ir darbo ministerija kartu su Sveikatos apsaugos ministerija. 
+8. Darbingumo lygis gali būti nustatomas tokiais terminais:
+
+
+1) 6 mėnesiams, kai darbingumo lygis vertinamas pirmą kartą ir prognozuojamas asmens sveikatos būklės ir profesinių, funkcinių veiksnių pasikeitimas, darantis įtaką asmens darbingumo lygiui, per artimiausius 6 mėnesius;
+
+
+
+
+2) vieniems metams, kai darbingumo lygis vertinamas pirmą kartą ir (ar) prognozuojamas asmens sveikatos būklės ir profesinių, funkcinių veiksnių pasikeitimas, darantis įtaką asmens darbingumo lygiui, per artimiausius 12 mėnesių;
+
+
+
+
+3) 2 metams, kai prognozuojamas asmens sveikatos būklės ir profesinių, funkcinių veiksnių pasikeitimas, darantis įtaką asmens darbingumo lygiui, per artimiausius 24 mėnesius, ir asmenims, kurie mokosi, iki 26 metų;
+
+
+
+
+4) iki profesinės reabilitacijos programos pabaigos, kai asmeniui nustatomas profesinės reabilitacijos poreikis; 
+
+
+
+
+5) iki senatvės pensijos amžiaus sukakties dienos, kai neprognozuojamas asmens sveikatos būklės ir profesinių funkcinių veiksnių pasikeitimas, darantis įtaką asmens darbingumo lygiui, ir (ar) asmens sveikatos sutrikimai yra nuolatinio, nekintamo pobūdžio;
+
+
+
+
+6) neterminuotai, kai darbingumo lygis nustatomas dėl nelaimingo atsitikimo darbe ar dėl profesinės ligos. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XII-355, 2013-06-11, Žin., 2013, Nr. 68-3400 (2013-06-28), i. k. 1131010ISTA0XII-355
+ 
+
+
+
+
+9. Darbingumo lygio nustatymo kriterijus ir tvarką nustato Socialinės apsaugos ir darbo ministerija kartu su Sveikatos apsaugos ministerija. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-355, 2013-06-11, Žin., 2013, Nr. 68-3400 (2013-06-28), i. k. 1131010ISTA0XII-355
  
 
 
@@ -1139,8 +1215,6 @@ Nr. I-2044
 
 
 
- 
- 
  
 Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo 
 priedas
@@ -1150,6 +1224,14 @@ priedas
 
 
 1. 2009 m. gegužės 25 d. Tarybos direktyva 2009/50/EB dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų siekiant dirbti aukštos kvalifikacijos darbą (OL 2009 L 155, p. 17).
+
+
+
+
+2. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/98/ES dėl vienos prašymų išduoti vieną leidimą trečiųjų šalių piliečiams gyventi ir dirbti valstybės narės teritorijoje pateikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų šalių darbuotojų bendrų teisių (OL 2011 L 343, p. 1).
+Papildyta punktu:
+Nr. XII-355, 2013-06-11, Žin., 2013, Nr. 68-3400 (2013-06-28), i. k. 1131010ISTA0XII-355
+ 
 
 
 Papildyta priedu:
@@ -1233,3 +1315,8 @@ Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo 2, 10, 15,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1488, 2011-06-21, Žin., 2011, Nr. 85-4134 (2011-07-13), i. k. 1111010ISTA0XI-1488
 Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo 1, 9 straipsnių pakeitimo ir papildymo ir įstatymo papildymo priedu įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-355, 2013-06-11, Žin., 2013, Nr. 68-3400 (2013-06-28), i. k. 1131010ISTA0XII-355
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo 19, 20 straipsnių ir priedo papildymo ir pakeitimo įstatymas
