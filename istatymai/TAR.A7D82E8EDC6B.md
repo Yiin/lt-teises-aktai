@@ -1010,8 +1010,8 @@ išmetamųjų dujinių ir kietųjų dalelių teršalų normas.
 2.
 Specialios kelių transporto priemonės, skirtos specialiems darbams atlikti,
 yra:
-1)
-automobiliniai kranai;
+1) automobiliniai
+kranai;
 2)
 automobiliniai keltuvai;
 3) automobiliai
@@ -1024,8 +1024,8 @@ automobiliai-techninės pagalbos dirbtuvės;
 automobiliai-parduotuvės;
 7)
 automobiliai-televizijos stotys;
-8) automobiliai-radijo
-stotys;
+8)
+automobiliai-radijo stotys;
 9)
 kinofikacijos, parodų, bibliotekų automobiliai;
 10)
@@ -1056,6 +1056,7 @@ Nr. X-1604,
 2008-06-17, Žin., 2008, Nr. 75-2919 (2008-07-03)
  
  
+ 
                                                                                                 Lietuvos
 Respublikos 
                                                                                                 kelių
@@ -1063,7 +1064,7 @@ priežiūros ir plėtros
                                                                                                 programos
 finansavimo 
                                                                                                 įstatymo
-                                                                                                4
+                                                                                                4
 priedėlis
  
 I. MOKESČIO UŽ
@@ -1260,15 +1261,15 @@ nurodyti transporto priemonės (jų junginio) maksimalūs matmenys viršijami
 500 cm), transporto priemonė tampa ypač pavojinga saugiam eismui. Tokioms
 transporto priemonėms (jų junginiams) taikomas vienkartinis mokestis, kuris
 apskaičiuojamas taip: prie maksimalaus ribinio tarifo pridedamas papildomas
-vieno lito mokestis už kiekvieno atitinkamo matmens viršijimą, t. y. už
-kiekvieną aukščio viršijimą 10 cm, pločio viršijimą 10 cm ar ilgio viršijimą 1
-m, ir dauginama iš koeficiento 1,5. Visais atvejais, jei viršijami du ar visi
-trys matmenys, mokestis nustatomas sumuojant mokesčius už atskirų matmenų
-viršijimą. Kai transporto priemonės (jų junginio) matmenys viršija lentelėje
-nurodytus maksimalius, būtina gauti atskirą leidimą, kurį išduodant pridedamas
-papildomas mokestis už maršruto paruošimą, t. y. apskaičiuojama darbų, kuriuos
-būtina atlikti, kad galima būtų leisti būtent tai transporto priemonei (jų
-junginiui) važiuoti leidime nurodytu maršrutu, vertė.
+vieno lito mokestis už kiekvieno atitinkamo matmens viršijimą, t. y. už kiekvieną
+aukščio viršijimą 10 cm, pločio viršijimą 10 cm ar ilgio viršijimą 1 m, ir
+dauginama iš koeficiento 1,5. Visais atvejais, jei viršijami du ar visi trys
+matmenys, mokestis nustatomas sumuojant mokesčius už atskirų matmenų viršijimą.
+Kai transporto priemonės (jų junginio) matmenys viršija lentelėje nurodytus
+maksimalius, būtina gauti atskirą leidimą, kurį išduodant pridedamas papildomas
+mokestis už maršruto paruošimą, t. y. apskaičiuojama darbų, kuriuos būtina
+atlikti, kad galima būtų leisti būtent tai transporto priemonei (jų junginiui)
+važiuoti leidime nurodytu maršrutu, vertė.
  
 II. Mokesčio už VAŽIAVIMĄ KELIAIS Lietuvos Respublikoje ir užsienio
 šalyse, tarp jų ir Europos Sąjungos valstybėse narėse, įregistruotomis
@@ -1302,7 +1303,8 @@ savivaldybės
   teritorijoje
 
 
-šalies teritorijoje
+šalies
+  teritorijoje
 
 
 
@@ -1435,40 +1437,19 @@ savivaldybės
 
  
 1. Transporto
-priemonėmis (jų junginiais), kurių varančiajai ašiai su suporintais ratais
-leidžiama 11,5 tonos ašies apkrova viršijama, sumokėjus atitinkamo dydžio
-mokestį leidžiama važiuoti tik tais keliais, kurie nurodyti leidimus
-išduodančios institucijos patvirtintame sąraše.
-1 punkto
-redakcija nuo 2013-01-01:
-1. Transporto
 priemonėmis (jų junginiais), kurių ašies (ašių) apkrova viršija leidžiamą
 apkrovą, nustatytą Lietuvos Respublikos susisiekimo ministro įsakymu, sumokėjus
 atitinkamo dydžio mokestį leidžiama važiuoti tik su kelio savininku suderintais
 maršrutais arba kelio savininko nustatytais keliais ir kelio savininko
 nustatytomis sąlygomis.
- 
-2. Jei
-transporto priemonės (jų junginio) bendroji masė viršija leidžiamą (40 t, o
-vežant triašiu vilkiku su dviaše ar triaše puspriekabe 20, 30, 40, 45 pėdų
-konteinerius, pagamintus pagal ISO standartus, − 44 t), nustatomi mokesčio
-ribiniai tarifai, kurie nurodyti šio priedo III skirsnyje.
-2 punkto redakcija
-nuo 2013-01-01:
 2. Jei
 transporto priemonės (jų junginio) bendroji masė viršija leidžiamą bendrąją
 masę, nustatytą Lietuvos Respublikos susisiekimo ministro įsakymu, nustatomi
 mokesčio ribiniai tarifai, nurodyti šio priedėlio III skirsnyje.
- 
 3. Triašiu
 vilkiku su dviaše ar triaše puspriekabe 20, 30, 40, 45 pėdų konteinerius,
-pagamintus pagal ISO standartus, leidžiama vežti tik magistraliniais keliais.
-Vežant šiuos konteinerius kitais keliais, būtina gauti kelio savininko leidimą.
-4. Kai
-ašies (ašių) faktiška apkrova ir faktiškas transporto priemonės (jų junginio)
-svoris viršija leidžiamus, nustatomas tas mokesčio dydis, kuris yra didesnis.
-4 punkto
-redakcija nuo 2013-01-01:
+pagamintus pagal ISO standartus, leidžiama vežti tik magistraliniais keliais. Vežant
+šiuos konteinerius kitais keliais, būtina gauti kelio savininko leidimą.
 4. Kai ašies
 (ašių) faktiška apkrova ir faktiška transporto priemonės (jų junginio) bendroji
 masė viršija leidžiamus dydžius, nustatytus Lietuvos Respublikos susisiekimo
@@ -1480,58 +1461,6 @@ ir Europos Sąjungos valstybėse narėse, ĮREGISTRUOTOMIS TRANSPORTO
 PRIEMONĖMIS (JŲ JUNGINIAIS), KAI VIRŠIJAMA LEIDŽIAMA JŲ BENDROJI MASĖ, RIBINIAI
 TARIFAI
             
-1. Jei
-transporto priemonės (jų junginio) bendroji masė viršija leidžiamą (40 t, o
-vežant 20, 30, 40, 45 pėdų konteinerius, pagamintus pagal ISO standartus, − 44
-t), mokamas mokestis, kurio ribiniai tarifai pateikiami lentelėje:
-
-
-
-Leidžiamoji
-  bendroji masė viršyta (t)
-
-
-Vienkartiniai
-  ribiniai tarifai už kiekvieną viršytą toną,
-  Lt/10 km
-
-
-
-
-iki 10,0
-
-
-3,00–3,50
-
-
-
-
-11,0–20,0
-
-
-3,50–4,00
-
-
-
-
-21,0–40,0
-
-
-4,00–4,50
-
-
-
-
->40
-
-
-5,00–6,00
-
-
-
- 
-1 punkto
-redakcija nuo 2013-01-01:
 1. Jei
 transporto priemonės (jų junginio) bendroji masė viršija leidžiamą bendrąją
 masę, nustatytą Lietuvos Respublikos susisiekimo ministro įsakymu, mokamas
@@ -1605,6 +1534,62 @@ iki 10,0
 transporto priemonės, kurios ašies (ašių) apkrova neviršija leidžiamos
 apkrovos, bendroji masė viršija leidžiamą bendrąją masę ir yra ne didesnė kaip
 48 t.
+1 punkto
+redakcija nuo 2014-01-01:
+1. Jei
+transporto priemonės (jų junginio) bendroji masė viršija leidžiamą bendrąją
+masę (40 t, o vežant 20, 30, 40, 45 pėdų konteinerius, pagamintus pagal ISO
+standartus, – 44 t), mokamas mokestis, kurio ribiniai tarifai pateikiami
+lentelėje:
+ 
+
+
+
+Leidžiama
+  bendroji masė viršyta (t)
+
+
+Vienkartiniai
+  ribiniai tarifai už kiekvieną viršytą toną, Lt/10 km
+
+
+
+
+iki 10,0*
+
+
+3,50–4,00
+
+
+
+
+11,0–20,0
+
+
+4,00–4,50
+
+
+
+
+21,0–40,0
+
+
+4,50–5,00
+
+
+
+
+> 40
+
+
+ 5,00–6,50
+
+
+
+*Taikoma, kai
+šešių ašių transporto priemonės, kurios ašies (ašių) apkrova neviršija
+leidžiamos apkrovos, bendroji masė viršija leidžiamą bendrąją masę ir yra ne
+didesnė kaip 48 t.
  
 2. Triašiu
 vilkiku su dviaše ar triaše puspriekabe 20, 30, 40, 45 pėdų konteinerius,
@@ -1614,9 +1599,6 @@ Vežant šiuos konteinerius kitais keliais, būtina gauti kelio savininko leidim
 Kai ašies (ašių) faktiška apkrova ir faktiška transporto priemonės (jų
 junginio) bendroji masė viršija leidžiamą, nustatomas tas mokesčio dydis, kuris
 yra didesnis.
- 
-III skirsnis papildomas 4
-punktu nuo 2013-01-01:
 4. Papildomus
 reikalavimus, taikomus valstybinės reikšmės keliais važiuojančioms transporto
 priemonėms (jų junginiams), kurių ašies (ašių) apkrova neviršija leidžiamos
@@ -1634,6 +1616,9 @@ Nr. X-1604,
 2008-06-17, Žin., 2008, Nr. 75-2919 (2008-07-03)
 Nr. XI-2197,
 2012-06-30, Žin., 2012, Nr. 80-4147 (2012-07-10)
+Nr.
+XII-363,
+2013-06-13, Žin., 2013, Nr. 68-3404 (2013-06-28)
  
  
                                                                                                 Lietuvos
@@ -1690,9 +1675,9 @@ Rajoniniai
 1.
 
 
-Įvairiems darbams kelio juostoje su važiuojamosios
-  dalies asfaltbetonio (cementbetonio) danga dirbti iki trijų parų imtinai,
-  nepažeidžiant kelio važiuojamosios dalies
+Įvairiems darbams kelio juostoje su
+  važiuojamosios dalies asfaltbetonio (cementbetonio) danga dirbti iki trijų
+  parų imtinai, nepažeidžiant kelio važiuojamosios dalies
 
 
  
@@ -1716,8 +1701,8 @@ Rajoniniai
 
 
 Įvairiems darbams kelio juostoje su
-  važiuojamosios dalies žvyro danga dirbti iki trijų parų imtinai, nepažeidžiant
-  kelio važiuojamosios dalies
+  važiuojamosios dalies žvyro danga dirbti iki trijų parų imtinai,
+  nepažeidžiant kelio važiuojamosios dalies
 
 
  
@@ -2021,8 +2006,8 @@ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 11 STRAIPSNIO PAKEITIMO
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-1703,
-2003-07-04, Žin., 2003, Nr. 69-3122 (2003-07-10)
+IX-1703, 2003-07-04,
+Žin., 2003, Nr. 69-3122 (2003-07-10)
 KELIŲ
 PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 11 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
@@ -2214,11 +2199,22 @@ PRIEDĖLIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis
 įstatymas, išskyrus šio įstatymo 5 straipsnį, įsigalioja 2013 m. sausio 1 d.
  
+20.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XII-363,
+2013-06-13, Žin., 2013, Nr. 68-3404 (2013-06-28)
+KELIŲ
+PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 4 PRIEDĖLIO PAKEITIMO
+ĮSTATYMAS
+Šis
+įstatymas įsigalioja nuo 2014-01-01.
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2012-07-17)
+Aušra Bodin (2013-07-02)
                  
-ausrine.trapinskiene@lrs.lt
+aubodi@lrs.lt
