@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AF4E384215F8"
 
 # Lietuvos Respublikos vadovybės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2013-06-30
+Suvestinė redakcija nuo 2013-07-01 iki 2014-10-03
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4982; Žin. 2002, Nr.113-0, i. k. 1021010ISTA0IX-1183
  
@@ -46,7 +46,10 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 
-1. Vadovybė – Respublikos Prezidentas, Seimo Pirmininkas, Ministras Pirmininkas bei asmenys, laikinai einantys Seimo Pirmininko, Ministro Pirmininko pareigas.
+1. Vadovybė – Respublikos Prezidentas, Seimo Pirmininkas, Ministras Pirmininkas bei asmenys, laikinai einantys Respublikos Prezidento, Seimo Pirmininko, Ministro Pirmininko pareigas.
+Straipsnio dalies pakeitimai:
+Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
+ 
 
 
 
@@ -447,7 +450,10 @@ Nr. XI-2263, 2012-10-02, Žin., 2012, Nr. 122-6122 (2012-10-20), i. k. 1121010IS
 14 straipsnis. Vadovybės apsaugos departamento teisė gauti informaciją
 
 
-1. Vadovybės apsaugos departamentas, įgyvendindamas uždavinius ir atlikdamas funkcijas, teisės aktų nustatyta tvarka turi teisę naudotis valstybės registru, kadastru, klasifikatorių duomenimis ir kitais valstybės ir savivaldybių institucijų bei įstaigų kaupiamais ir tvarkomais duomenimis. Kitų įmonių, įstaigų, organizacijų ir fizinių asmenų turimais duomenimis Vadovybės apsaugos departamentas naudojasi pagal sutartis.
+1. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės privalo sudaryti sąlygas Vadovybės apsaugos departamentui neatlygintinai naudotis Vadovybės apsaugos departamento uždaviniams įgyvendinti būtinais šių valstybės ir savivaldybių institucijų, įstaigų ir įmonių tvarkomais valstybės registrų (kadastrų) ir žinybinių registrų, klasifikatorių, informacinių sistemų ir duomenų rinkmenų duomenimis. Kitų juridinių asmenų, taip pat fizinių asmenų turimais duomenimis, būtinais Vadovybės apsaugos departamento uždaviniams įgyvendinti, Vadovybės apsaugos departamentas naudojasi pagal atskiras sutartis. 
+Straipsnio dalies pakeitimai:
+Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
+ 
 
 
 
@@ -486,7 +492,10 @@ VADOVYBĖS APSAUGOS DEPARTAMENTO VALDYMAS IR STRUKTŪRA
 16 straipsnis. Vadovybės apsaugos departamento vadovybė
 
 
-1. Vadovybės apsaugos departamentui vadovauja direktorius. Jį 5 metų laikotarpiui skiria ir atleidžia iš pareigų vidaus reikalų ministras.
+1. Vadovybės apsaugos departamentui vadovauja direktorius. Vadovybės apsaugos departamento direktorių 5 metų kadencijai skiria į pareigas ir atleidžia iš pareigų vidaus reikalų ministras. Tas pats asmuo Vadovybės apsaugos departamento direktoriumi gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės. Pasibaigus Vadovybės apsaugos departamento direktoriaus kadencijai jo rašytiniu sutikimu jis gali būti perkeltas į kitas laisvas pareigas Vadovybės apsaugos departamente.
+Straipsnio dalies pakeitimai:
+Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
+ 
 
 
 
@@ -550,7 +559,10 @@ VADOVYBĖS APSAUGOS DEPARTAMENTO VALDYMAS IR STRUKTŪRA
 
 
 
-9) įstatymų nustatyta tvarka rengia ir teikia Vidaus reikalų ministerijai bei Finansų ministerijai Vadovybės apsaugos departamento paraiškas dėl biudžeto asignavimų;
+9) rengia ir teikia Vidaus reikalų ministerijai bei Finansų ministerijai Vadovybės apsaugos departamento paraiškas dėl biudžeto asignavimų;
+Straipsnio punkto pakeitimai:
+Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
+ 
 
 
 
@@ -634,12 +646,18 @@ VADOVYBĖS APSAUGOS DEPARTAMENTO PAREIGŪNO TEISĖS, PAREIGOS IR ATSAKOMYBĖ
 
 
 
-4) kreiptis į kelių policiją, kad būtų apribotas arba uždraustas transporto ar pėsčiųjų judėjimas, įpareigoti fizinius ir juridinius asmenis laikinai nutraukti darbus gatvėse ir keliuose, jeigu kyla pavojus saugomų asmenų saugumui;
+4) užtikrindamas saugomų asmenų saugumą, kreiptis į policiją, kad būtų apribotas arba uždraustas transporto ar pėsčiųjų judėjimas; 
+Straipsnio punkto pakeitimai:
+Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
+ 
 
 
 
 
-5) įstatymų nustatyta tvarka gauti iš valstybės ir savivaldybių institucijų bei įstaigų ir kitų juridinių ir fizinių asmenų informaciją, būtiną Vadovybės apsaugos departamento uždaviniams įgyvendinti;
+5) įstatymų nustatyta tvarka gauti iš valstybės ir savivaldybių institucijų, įstaigų, įmonių ir kitų juridinių ir fizinių asmenų informaciją, būtiną Vadovybės apsaugos departamento uždaviniams įgyvendinti; 
+Straipsnio punkto pakeitimai:
+Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
+ 
 
 
 
@@ -704,12 +722,66 @@ VADOVYBĖS APSAUGOS DEPARTAMENTO PAREIGŪNO TEISĖS, PAREIGOS IR ATSAKOMYBĖ
 
 
 
-18) ir kitas įstatymų jam suteiktas teises.
+18) užtikrindamas saugomų asmenų ir (ar) saugomų objektų saugumą, laikinai apriboti patekimą į tam tikrą teritoriją ar patalpą, įpareigoti fizinius ir juridinius asmenis laikinai nutraukti vykdomus darbus, laikinai apriboti ar uždrausti transporto eismą; 
+Papildyta straipsnio punktu:
+Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
  
 
 
 
 
+19) vykdydamas teisės pažeidimų prevenciją ir turėdamas pagrįstų duomenų, kad asmuo gali daryti teisės pažeidimus, galinčius kelti grėsmę saugomų asmenų ir (ar) saugomų objektų saugumui, pareikšti jam oficialų įspėjimą; 
+Papildyta straipsnio punktu:
+Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
+ 
+
+
+
+
+20) užtikrindamas saugomo asmens saugumą, reikalauti iš asmens (asmenų) nesiartinti prie saugomo asmens iki Vadovybės apsaugos departamento pareigūno nurodyto atstumo; 
+Papildyta straipsnio punktu:
+Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
+ 
+
+
+
+
+21) ir kitas įstatymų jam suteiktas teises.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
+ 
+
+
+
+
+
+
+
+
+191 straipsnis. Oficialaus įspėjimo taikymas
+
+
+1. Oficialus įspėjimas asmeniui šiame Įstatyme suprantamas kaip Vadovybės apsaugos departamento pareigūno rašytinis reikalavimas asmeniui laikytis Lietuvos Respublikos Konstitucijos ir įstatymų, nevaržyti kitų žmonių teisių ir laisvių, nedaryti kitų teisės pažeidimų ir supažindinimas su galimomis teisinėmis pasekmėmis. 
+
+
+
+
+2. Oficialus įspėjimas taikomas vykdant teisės pažeidimų prevenciją, kai yra pagrįstų duomenų, kad asmuo gali daryti teisės pažeidimus, galinčius kelti grėsmę saugomų asmenų ir (ar) saugomų objektų saugumui.
+
+
+
+
+3. Pareikšti asmeniui oficialų įspėjimą turi teisę Vadovybės apsaugos departamento direktorius, jo pavaduotojai arba Vadovybės apsaugos departamento direktoriaus ar jo pavaduotojų įgalioti asmenys.
+
+
+
+
+4. Šio straipsnio 1 dalyje nurodytas oficialus įspėjimas asmeniui pareiškiamas asmeniškai, pateikiant asmeniui susipažinti pasirašytinai. Oficialiai įspėtas asmuo turi teisę gauti jo oficialaus įspėjimo nuorašą.
+
+
+Papildyta straipsniu:
+Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
+ 
 
 
 
@@ -819,12 +891,26 @@ Nr. XI-2263, 2012-10-02, Žin., 2012, Nr. 122-6122 (2012-10-20), i. k. 1121010IS
 22 straipsnis. Prievartos priemonės ir jų naudojimo sąlygos
 
 
-1. Vadovybės apsaugos departamento pareigūnas šio Įstatymo ir kitų teisės aktų nustatytais atvejais ir tvarka turi teisę panaudoti fizinę prievartą, šaunamąjį ginklą bei sprogstamąsias medžiagas.
+1. Vadovybės apsaugos departamento pareigūnas šio Įstatymo ir kitų teisės aktų nustatytais atvejais ir tvarka turi teisę panaudoti psichinę ar (ir) fizinę prievartą, šaunamąjį ginklą bei sprogstamąsias medžiagas. 
+Straipsnio dalies pakeitimai:
+Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
+ 
 
 
 
 
-2. Fizinė prievarta šiame Įstatyme suprantama kaip:
+2. Psichinė prievarta šiame Įstatyme suprantama kaip įspėjimas apie ketinimą panaudoti fizinę prievartą, šaunamąjį ginklą ar sprogstamąsias medžiagas. Psichinei prievartai prilyginamas šaunamojo ginklo demonstravimas ir įspėjamieji šūviai, tačiau šias psichinės prievartos priemones galima naudoti tik šio Įstatymo 24 straipsnio 2, 4, 5 dalyse išvardytomis sąlygomis. 
+Papildyta straipsnio dalimi:
+Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
+ 
+
+
+
+
+3. Fizinė prievarta šiame Įstatyme suprantama kaip:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
+ 
 
 
 1) bet kokio pobūdžio fizinės jėgos bei kovinių imtynių veiksmų panaudojimas;
@@ -839,17 +925,25 @@ Nr. XI-2263, 2012-10-02, Žin., 2012, Nr. 122-6122 (2012-10-20), i. k. 1121010IS
 
 
 
-3. Kai būtina, Vadovybės apsaugos departamento pareigūnas kaip prievartos priemonę gali panaudoti transporto priemonę, taip pat įvairius pagalbinius įrankius.
+4. Kai būtina, Vadovybės apsaugos departamento pareigūnas kaip prievartos priemonę gali panaudoti transporto priemonę, taip pat įvairius pagalbinius įrankius.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
+ 
 
 
 
 
-4. Vadovybės apsaugos departamento pareigūnas turi teisę panaudoti prievartos priemones tik esant tarnybiniam būtinumui ir tik tiek, kiek to reikia tarnybinei pareigai įvykdyti, ir tik po to, kai įtikinimo ir kitos neprievartinės priemonės buvo neveiksmingos arba negalimos. Prievartos priemonės rūšį ir jos panaudojimo ribas Vadovybės apsaugos departamento pareigūnas pasirenka atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį ir individualias pažeidėjo savybes. Naudodamas prievartą Vadovybės apsaugos departamento pareigūnas privalo stengtis išvengti sunkių padarinių žmonėms ir turtui. Prieš panaudodamas prievartą Vadovybės apsaugos departamento pareigūnas privalo įspėti teisės pažeidėją apie tokį ketinimą, išskyrus atvejus, kai bet koks delsimas kelia grėsmę saugomo asmens, pareigūno ar kito asmens gyvybei ir (ar) sveikatai arba įspėti neįmanoma dėl kitų priežasčių.
+5. Vadovybės apsaugos departamento pareigūnas turi teisę panaudoti prievartos priemones tik esant tarnybiniam būtinumui ir tik tiek, kiek to reikia tarnybinei pareigai įvykdyti, ir tik po to, kai įtikinimo ir kitos neprievartinės priemonės buvo neveiksmingos arba negalimos. Prievartos priemonės rūšį ir jos panaudojimo ribas Vadovybės apsaugos departamento pareigūnas pasirenka atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį ir individualias pažeidėjo savybes. Naudodamas prievartą Vadovybės apsaugos departamento pareigūnas privalo stengtis išvengti sunkių padarinių žmonėms ir turtui. Prieš panaudodamas prievartą Vadovybės apsaugos departamento pareigūnas privalo įspėti teisės pažeidėją apie tokį ketinimą, išskyrus atvejus, kai bet koks delsimas kelia grėsmę saugomo asmens, pareigūno ar kito asmens gyvybei ir (ar) sveikatai arba įspėti neįmanoma dėl kitų priežasčių.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
+ 
 
 
 
 
-5. Apie Vadovybės apsaugos departamento pareigūno panaudotą prievartą, sukėlusią asmens mirtį arba kūno sužalojimą, nedelsiant pranešama prokurorui.
+6. Apie Vadovybės apsaugos departamento pareigūno panaudotą prievartą, sukėlusią asmens mirtį arba kūno sužalojimą, nedelsiant pranešama prokurorui.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
  
 
 
@@ -977,10 +1071,22 @@ Nr. XI-2263, 2012-10-02, Žin., 2012, Nr. 122-6122 (2012-10-20), i. k. 1121010IS
 25 straipsnis. Sprogstamųjų medžiagų naudojimas
 
 
-Vadovybės apsaugos departamento pareigūnas, nesukeldamas grėsmės žmogaus gyvybei ir sveikatai, turi teisę panaudoti sprogstamąsias medžiagas sprogstamiesiems užtaisams sunaikinti, patekti į patalpą, kurioje daromos nusikalstamos veikos.
+Vadovybės apsaugos departamento pareigūnas, nesukeldamas grėsmės žmogaus gyvybei ir sveikatai, turi teisę panaudoti sprogstamąsias medžiagas šiais atvejais:
+
+
+1) sprogstamiesiems užtaisams sunaikinti;
+
+
+
+
+2) patekti į patalpą (vietą) ar transporto priemonę arba evakuoti iš patalpos (vietos) ar transporto priemonės, kai daromos žmogaus gyvybei ar sveikatai grėsmę keliančios nusikalstamos veikos arba jų gyvybei ar sveikatai kyla realus pavojus dėl kitų priežasčių.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
  
-
-
 
 
 
@@ -1137,3 +1243,8 @@ Lietuvos Respublikos vadovybės apsaugos įstatymo 6 straipsnio papildymo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2263, 2012-10-02, Žin., 2012, Nr. 122-6122 (2012-10-20), i. k. 1121010ISTA0XI-2263
 Lietuvos Respublikos vadovybės apsaugos įstatymo 2, 6, 9, 12, 13 ir 20 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. 1131010ISTA0XII-341
+Lietuvos Respublikos vadovybės apsaugos įstatymo 2, 14, 16, 17, 19, 22, 25 straipsnių pakeitimo ir papildymo, Įstatymo papildymo 19-1 straipsniu įstatymas
