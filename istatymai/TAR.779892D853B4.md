@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.779892D853B4"
 
 # Lietuvos Respublikos finansų įstaigų įstatymas
 
-Suvestinė redakcija nuo 2012-01-01 iki 2013-06-30
+Suvestinė redakcija nuo 2013-07-01 iki 2014-06-16
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3891, i. k. 1021010ISTA0IX-1068
  
@@ -777,9 +777,10 @@ Nr. XI-1872, 2011-12-22, Žin., 2011, Nr. 163-7763 (2011-12-31), i. k. 1111010IS
 
 
 
-2. Neteko galios nuo 2004-05-01.
+2. Finansų įstaigomis nelaikomi informuotiesiems investuotojams skirti kolektyvinio investavimo subjektai ir tik šiuos subjektus valdančios valdymo įmonės. 
 Straipsnio dalies pakeitimai:
 Nr. IX-2067, 2004-03-23, Žin., 2004, Nr. 54-1828 (2004-04-15), i. k. 1041010ISTA0IX-2067
+Nr. XII-377, 2013-06-18, Žin., 2013, Nr. 68-3411 (2013-06-28), i. k. 1131010ISTA0XII-377
  
 
 
@@ -3026,3 +3027,8 @@ Lietuvos Respublikos finansų įstaigų įstatymo 4, 33 straipsnių ir dvyliktoj
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1872, 2011-12-22, Žin., 2011, Nr. 163-7763 (2011-12-31), i. k. 1111010ISTA0XI-1872
 Lietuvos Respublikos finansų įstaigų įstatymo 2, 3 ir 4 straipsnių pakeitimo ir priedo papildymo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-377, 2013-06-18, Žin., 2013, Nr. 68-3411 (2013-06-28), i. k. 1131010ISTA0XII-377
+Lietuvos Respublikos finansų įstaigų įstatymo 4 straipsnio papildymo įstatymas
