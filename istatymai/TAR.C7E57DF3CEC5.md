@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2012-11-01 iki 2013-06-30
+Suvestinė redakcija nuo 2013-07-01 iki 2014-04-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
  
@@ -151,6 +151,24 @@ Nr. XI-299, 2009-06-16, Žin., 2009, Nr. 77-3164 (2009-06-30), i. k. 1091010ISTA
 17. Valdžios subjektas – savivaldybės tarybos sprendimu – savivaldybės vykdomoji institucija, kai privačiam subjektui perduodama savivaldybės funkcijoms priskirta veikla; Lietuvos Respublikos Vyriausybės sprendimu – įgaliota valstybės institucija ar įstaiga, kai privačiam subjektui perduodama centrinės valdžios funkcijoms priskirta veikla. 
 Papildyta straipsnio dalimi:
 Nr. XI-299, 2009-06-16, Žin., 2009, Nr. 77-3164 (2009-06-30), i. k. 1091010ISTA00XI-299
+ 
+
+
+
+
+18. Strateginis technologinės plėtros objektas – ypač patikimo elektros energijos tiekimo teritorija, Lietuvos Respublikos Vyriausybės nutarimu pripažinta strateginiu technologinės plėtros objektu pagal šiuos kriterijus:
+
+
+1) šioje teritorijoje elektros energijos tiekimo patikimumo lygis užtikrintas elektros tiekimo iš ne mažiau kaip trijų nepriklausomų maitinimo šaltinių 110 kV įtampos elektros energijos perdavimo tinkle;
+
+
+
+
+2) šioje teritorijoje galima duomenų apdorojimo, interneto serverių paslaugų (prieglobos) ir susijusi veikla. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XII-283, 2013-05-09, Žin., 2013, Nr. 54-2688 (2013-05-25), i. k. 1131010ISTA0XII-283
  
 
 
@@ -553,7 +571,7 @@ Nr. XI-2224, 2012-09-20, Žin., 2012, Nr. 111-5634 (2012-09-26), i. k. 1121010IS
 
 
 
-9) infrastruktūra (iki investuotojui suteikto sklypo ribų) sutvarkoma valstybės (savivaldybės) lėšomis Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. 
+9) infrastruktūra (iki investuotojui suteikto sklypo ribų) sutvarkoma valstybės (savivaldybės) lėšomis Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka; 
 Straipsnio punkto pakeitimai:
 Nr. IX-2364, 2004-07-15, Žin., 2004, Nr. 124-4487 (2004-08-07), i. k. 1041010ISTA0IX-2364
  
@@ -561,9 +579,10 @@ Nr. IX-2364, 2004-07-15, Žin., 2004, Nr. 124-4487 (2004-08-07), i. k. 1041010IS
 
 
 
-10) neteko galios 2004-08-07.
+10) iš investuotojų, kurie vykdo duomenų apdorojimo, interneto serverių paslaugų (prieglobos) ir susijusią veiklą strateginiuose technologinės plėtros objektuose ir su kuriais Lietuvos Respublikos Vyriausybė Lietuvos Respublikos civilinio kodekso nustatyta tvarka yra sudariusi investicijų sutartis, Lietuvos Respublikos Vyriausybės nustatyta tvarka nerenkamos viešuosius interesus atitinkančių paslaugų lėšos. 
 Straipsnio punkto pakeitimai:
 Nr. IX-2364, 2004-07-15, Žin., 2004, Nr. 124-4487 (2004-08-07), i. k. 1041010ISTA0IX-2364
+Nr. XII-283, 2013-05-09, Žin., 2013, Nr. 54-2688 (2013-05-25), i. k. 1131010ISTA0XII-283
  
 
 
@@ -961,3 +980,8 @@ Lietuvos Respublikos investicijų įstatymo 13 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2224, 2012-09-20, Žin., 2012, Nr. 111-5634 (2012-09-26), i. k. 1121010ISTA0XI-2224
 Lietuvos Respublikos investicijų įstatymo 12, 13 straipsnių pakeitimo ir papildymo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-283, 2013-05-09, Žin., 2013, Nr. 54-2688 (2013-05-25), i. k. 1131010ISTA0XII-283
+Lietuvos Respublikos investicijų įstatymo 2 ir 13 straipsnių papildymo įstatymas
