@@ -994,18 +994,6 @@ būdu pagal Vyriausybės ar jos įgaliotos institucijos nustatytą tvarką,
 atsižvelgiant į šiame įstatyme nustatytus elektros energijos gamybos iš
 atsinaujinančių energijos išteklių skatinimo bendruosius reikalavimus ir
 vadovaujantis objektyviais ir nediskriminaciniais principais.
-4. Gamintojams, ketinantiems
-plėtoti elektrines, išskyrus
-patvankinio tipo hidroelektrines, kurių
-įrengtoji galia yra ne didesnė kaip 350 kW ir ne didesnė kaip skirstomųjų
-tinklų artimiausiame prijungimo taške esanti įrengtoji leistinoji galia, ir biodujų elektrinėms, statomoms
-prie gyvulininkystės, paukštininkystės įmonių, sąvartynų ir nuotekų valymo
-įmonių, – iki 1,2 MW įrengtosios galios,
-leidimai plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus išduodami supaprastinta
-tvarka pagal Energetikos ministerijos patvirtintas Veiklos elektros energetikos
-sektoriuje leidimų išdavimo taisykles ir vadovaujantis objektyviais ir
-nediskriminaciniais principais. 
-4 dalies redakcija nuo 2013-03-01:
 4. Leidimas plėtoti elektros energijos gamybos pajėgumus nereikalingas,
 jeigu gamintojas numato plėtoti elektros energijos gamybos pajėgumus, kurių
 įrengtoji galia yra ne didesnė kaip 10 kW, ir juose gaminti elektros energiją
@@ -1014,7 +1002,6 @@ didesnės kaip 10 kW įrengtosios galios elektros energijos gamybos
 pajėgumus ir juose gaminti elektros energiją tik savo reikmėms ir ūkio
 poreikiams, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka apie tai
 privalo informuoti tinklų operatorių.
- 
 5. Leidimas plėtoti elektros energijos gamybos iš atsinaujinančių
 energijos išteklių pajėgumus išduodamas gamintojui, planuojančiam plėtoti
 elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus, tik
@@ -1026,17 +1013,18 @@ pasirašytą su elektros tinklų operatoriumi, kaip numatyta šio įstatymo 14 
 11 dalyje, tuo atveju, jeigu gamintojo elektrinė bus jungiama prie
 elektros tinklų ir pagal šį įstatymą ketinimų protokolas yra privalomas;
 3) žemės sklypo, kuriame bus statoma
-elektrinė arba didinami gamintojo jau esamos elektrinės pajėgumai, dokumentus, patvirtinančius
-gamintojo teisę valdyti ir naudoti žemės sklypą nuosavybės teise ar kitais
-įstatymų nustatytais pagrindais. Jeigu gamintojas žemės sklypą valdo bendrosios
-nuosavybės teise arba kitokia ne nuosavybės teise, gamintojas pateikia ir žemės
-sklypo bendraturčių ar savininko sutikimą dėl elektrinės statybos tokiame žemės
-sklype ir jos eksploatavimo ne mažiau kaip 20 metų. Tuo atveju, kai elektros
-energijos gamybos įrenginius planuojama įrengti ant pastato ar jo konstrukcijos
-dalies, gamintojas pateikia tik pastato bendraturčių ar savininko sutikimą dėl
-elektrinės statybos ir jos eksploatavimo ne mažiau kaip 20 metų, o reikalavimas
-valdyti ir naudoti žemės sklypą nuosavybės teise ar kitais įstatymų nustatytais
-pagrindais šiuo atveju netaikomas;
+elektrinė arba didinami gamintojo jau esamos elektrinės pajėgumai, dokumentus,
+patvirtinančius gamintojo teisę valdyti ir naudoti žemės sklypą nuosavybės
+teise ar kitais įstatymų nustatytais pagrindais. Jeigu gamintojas žemės sklypą
+valdo bendrosios nuosavybės teise arba kitokia ne nuosavybės teise, gamintojas
+pateikia ir žemės sklypo bendraturčių ar savininko sutikimą dėl elektrinės
+statybos tokiame žemės sklype ir jos eksploatavimo ne mažiau kaip 20 metų. Tuo
+atveju, kai elektros energijos gamybos įrenginius planuojama įrengti ant
+pastato ar jo konstrukcijos dalies, gamintojas pateikia tik pastato
+bendraturčių ar savininko sutikimą dėl elektrinės statybos ir jos eksploatavimo
+ne mažiau kaip 20 metų, o reikalavimas valdyti ir naudoti žemės sklypą
+nuosavybės teise ar kitais įstatymų nustatytais pagrindais šiuo atveju
+netaikomas;
 4) atrankos išvadą dėl planuojamos ūkinės veiklos poveikio
 aplinkai vertinimo ar sprendimą dėl planuojamos ūkinės veiklos leistinumo
 poveikio aplinkai požiūriu, jeigu pagal Lietuvos Respublikos planuojamos ūkinės
@@ -1087,8 +1075,8 @@ paskirstyti skaidriais ir nediskriminaciniais tarifais. Ši elektros energijos
 priėmimo, perdavimo ir (ar) paskirstymo pirmumo teisė gamintojui užtikrinama
 kitų elektros energijos gamintojų, naudojančių ne atsinaujinančius energijos
 išteklius, pagamintos elektros energijos atžvilgiu.
-2. Jeigu elektros
-energiją priimantis elektros tinklų operatorius pats nėra perdavimo sistemos
+2. Jeigu elektros energiją
+priimantis elektros tinklų operatorius pats nėra perdavimo sistemos
 operatorius, įpareigojimas pirmumo teise priimti ir persiųsti šio straipsnio 1
 dalyje nurodytą elektros energiją perdavimo tinklais taikomas ir perdavimo
 sistemos operatoriui.
@@ -1144,10 +1132,10 @@ techninių norminių dokumentų ir kitų teisės aktų reikalavimus.
 elektros tinklų operatoriui pareikalavus, privalo aprūpinti vėjo elektrines,
 kurių įrengtoji galia viršija 350 kW, ir hidroelektrines, kurių įrengtoji
 galia viršija 5 MW, techninėmis ir eksploatacinėmis priemonėmis, leidžiančiomis
-sumažinti generuojamą galią ar padidinti elektros energijos generavimą į
-elektros tinklus, bet kuriuo metu naudojant nuotolines priemones, kurios būtų
-prieinamos elektros tinklų operatoriui. Šios priemonės yra laikomos neatsiejama
-gamintojo elektrinės technologijos dalimi. Gamintojas jų įsigyja ir jas įrengia
+sumažinti generuojamą galią ar padidinti elektros energijos generavimą į elektros
+tinklus, bet kuriuo metu naudojant nuotolines priemones, kurios būtų prieinamos
+elektros tinklų operatoriui. Šios priemonės yra laikomos neatsiejama gamintojo
+elektrinės technologijos dalimi. Gamintojas jų įsigyja ir jas įrengia
 laikydamasis techniniuose norminiuose dokumentuose nustatytų ir (ar) elektros
 tinklų operatoriaus nurodytų reikalavimų.
 4. Nepažeisdamas šio
@@ -1205,11 +1193,11 @@ prijungimo prie elektros tinklų regionuose atskirai kiekvienai gamintojų grupe
 Valstybinės kainų ir energetikos kontrolės komisijos nustatytais terminais, bet
 ne vėliau kaip per 180 kalendorinių dienų nuo gamintojo prašymo organizuoti
 aukcioną konkrečiai gamintojų grupei jo nurodytame regione pateikimo dienos.
-Aukcionuose turi teisę dalyvauti visi gamintojai, pasirašę šio įstatymo 14
-straipsnio 11 dalyje nurodytą ketinimų protokolą ir pateikę 14 straipsnio 13
-dalyje nurodytą gamintojo prievolių įvykdymo užtikrinimą. Fiksuoto tarifo
-didžiausią galimą dydį kas ketvirtį nustato Valstybinė kainų ir energetikos
-kontrolės komisija. Aukciono laimėtoju pripažįstamas dalyvis, nurodęs mažiausią
+Aukcionuose turi teisę dalyvauti visi gamintojai, pasirašę šio įstatymo 14 straipsnio
+11 dalyje nurodytą ketinimų protokolą ir pateikę 14 straipsnio 13 dalyje
+nurodytą gamintojo prievolių įvykdymo užtikrinimą. Fiksuoto tarifo didžiausią
+galimą dydį kas ketvirtį nustato Valstybinė kainų ir energetikos kontrolės
+komisija. Aukciono laimėtoju pripažįstamas dalyvis, nurodęs mažiausią
 pageidaujamą fiksuotą tarifą įvertinus tai, kad vienoje aukciono zonoje
 didžiausia elektrinių parko įrengtoji galia negali sudaryti daugiau kaip 40
 procentų maksimalios leidžiamos prijungti generuojančių šaltinių galios
@@ -1273,21 +1261,30 @@ veiksmų plane nustatytiems tikslams ir uždaviniams, peržiūrimi fiksuoto tari
 didžiausi galimi dydžiai. Peržiūrėti fiksuotų tarifų didžiausi galimi dydžiai
 taikomi tik gamintojams, kurių elektrinėms leidimas gaminti elektros energiją
 išduotas po šių tarifų įsigaliojimo dienos.
-7. Šiame straipsnyje numatytos nekintančios
-skatinimo priemonės taikomos 12 metų laikotarpiu nuo leidimo gaminti
-elektros energiją išdavimo dienos. Jeigu gamintojui leidimas plėtoti elektros
-energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus teisės aktų
-nustatyta tvarka išduotas iki šio įstatymo įsigaliojimo dienos konkurso būdu ar
-teisės aktų nustatyta tvarka leidimo išdavimo metu tos rūšies elektrinėms
-leidimai buvo išduodami ne konkurso būdu, ar leidimas gaminti elektros energiją
-išduotas iki šio įstatymo įsigaliojimo dienos, tokiam gamintojui šio straipsnio
-3 dalies nuostatos netaikomos ir 12 metų laikotarpiu taikomas Valstybinės kainų
-ir energetikos kontrolės komisijos nustatytas fiksuoto tarifo didžiausias
-galimas dydis šio įstatymo įsigaliojimo metais.
-8. Fiksuotas tarifas taikomas iš
+7. Šiame straipsnyje numatytos
+nekintančios skatinimo priemonės taikomos 12 metų laikotarpiu nuo leidimo
+gaminti elektros energiją išdavimo dienos.
+8. Jeigu gamintojui leidimas
+plėtoti elektros energijos gamybos iš atsinaujinančių energijos išteklių pajėgumus
+teisės aktų nustatyta tvarka išduotas iki šio įstatymo įsigaliojimo konkurso
+būdu arba teisės aktų nustatyta tvarka leidimo išdavimo metu tos rūšies
+elektrinėms leidimai buvo išduodami ne konkurso būdu, arba leidimas gaminti
+elektros energiją išduotas iki šio įstatymo įsigaliojimo dienos, tokiam
+gamintojui šio straipsnio 3 dalies nuostatos netaikomos ir 12 metų laikotarpiu
+taikomas Valstybinės kainų ir energetikos kontrolės komisijos nustatytas
+fiksuoto tarifo didžiausias galimas dydis šio įstatymo įsigaliojimo metais.
+9. Gamintojui, turinčiam šio
+straipsnio 8 dalyje nurodytą leidimą plėtoti elektros energijos gamybos iš
+atsinaujinančių energijos išteklių pajėgumus statant saulės šviesos energijos
+elektrines ir leidimą gaminti elektros energiją gavusiam pagal prašymą išduoti
+leidimą gaminti elektros energiją, pateiktą po 2013 m. liepos 1 d., šio
+straipsnio 8 dalis netaikoma ir 12 metų laikotarpiu taikomas Valstybinės kainų
+ir energetikos kontrolės komisijos nustatytas fiksuoto tarifo didžiausias galimas
+dydis, galiojantis leidimo gaminti elektros energiją išdavimo dieną.
+10. Fiksuotas tarifas taikomas iš
 atsinaujinančių energijos išteklių pagamintai elektros energijai, kuriai teisės
 aktų nustatyta tvarka suteikta kilmės garantija.
-9. Elektrinės, naudojančios
+11. Elektrinės, naudojančios
 atsinaujinančius energijos išteklius, kurioms netaikomos šiame straipsnyje
 numatytos skatinimo priemonės, gali būti statomos vadovaujantis
 bendraisiais teisės aktų reikalavimais. Šio įstatymo 13 straipsnio 3 dalyje
@@ -1296,7 +1293,7 @@ elektros energijos gamybos skatinimo kvota neriboja tokių elektrinių statybos
 ir (ar) eksploatavimo. Elektros energija, pagaminta elektrinėse, kurioms
 netaikoma skatinimo priemonė, prekiaujama Prekybos elektros energija taisyklėse
 nustatyta tvarka ir būdais.
-10. Vyriausybės nustatyta tvarka
+12. Vyriausybės nustatyta tvarka
 ir sąlygomis ne didesnės kaip 10 kW įrengtosios galios elektrinėse pagaminta
 perteklinė elektros energija privalomai superkama už nustatytą fiksuotą tarifą.
 Pertekline elektros energija pripažįstama ne daugiau kaip 50 procentų
@@ -1308,15 +1305,15 @@ tarifais, kurie galiojo perteklinės elektros energijos patiekimo į elektros
 tinklus dieną. Perteklinė elektros energija superkama ne ilgiau kaip 12 metų
 nuo to momento, kai perteklinės elektros energijos gamintojas pasirašė
 prijungimo prie tinklų sutartį su tinklų operatoriumi.
-11. Pasinaudojimo atsinaujinančių
+13. Pasinaudojimo atsinaujinančių
 energijos išteklių naudojimo elektros energijai gaminti paramos priemonėmis ir
 šaltiniais tvarką ir sąlygas nustato Vyriausybė.
-12. Elektros tinklų operatorius,
+14. Elektros tinklų operatorius,
 siekdamas įvertinti visą šalyje pagamintą ir suvartotą atsinaujinančių išteklių
 energiją, tvarko visos gamintojų pagamintos elektros energijos apskaitą, taip
 pat elektros energijos, pagamintos ir gamintojo suvartotos savo reikmėms ir
 ūkio poreikiams, apskaitą.
-13. Šio straipsnio nuostatos
+15. Šio straipsnio nuostatos
 netaikomos gamintojams, kurie įrenginiams įsigyti po šio įstatymo įsigaliojimo
 dienos pasinaudojo šio įstatymo 41 straipsnio 4 dalyje nurodytais paramos
 šaltiniais.
@@ -1324,6 +1321,8 @@ Straipsnio pakeitimai:
 Nr.
 XII-169, 2013-01-17,
 Žin., 2013, Nr. 12-560 (2013-02-01)
+Nr. XII-351, 2013-05-30,
+Žin., 2013, Nr. 64-3175 (2013-06-18)
  
 21 straipsnis.
 Elektrinių prijungimo prie elektros tinklų išlaidų paskirstymas
@@ -1380,8 +1379,8 @@ kurią teisės aktų nustatyta tvarka patvirtina Valstybinė kainų ir energetik
 kontrolės komisija.
 Straipsnio pakeitimai:
 Nr.
-XII-169, 2013-01-17,
-Žin., 2013, Nr. 12-560 (2013-02-01)
+XII-169, 2013-01-17, Žin.,
+2013, Nr. 12-560 (2013-02-01)
  
 22 straipsnis. Elektros energijos gamyba
 iš atsinaujinančių energijos išteklių Lietuvos Respublikos teritorinėje jūroje,
@@ -1402,11 +1401,11 @@ inicijuoti bet kuris asmuo, atitinkantis Vyriausybės ar jos įgaliotos
 institucijos nustatytus kvalifikacinius reikalavimus, pateikdamas paraišką
 leidimą išduodančiai institucijai. Konkursą privalo organizuoti Vyriausybė ar
 jos įgaliota institucija per 3 mėnesius. 
-4. Šio straipsnio 3 dalyje
-nurodytas konkursas organizuojamas akvatorijai, kuriai parengta elektrinių
-statybos Lietuvos Respublikos teritorinėje jūroje, Lietuvos Respublikos
-išskirtinėje ekonominėje zonoje Baltijos jūroje ir (ar) pajūrio juostoje schema ir
-atliktas akvatorijos schemos strateginis pasekmių aplinkai vertinimas, ir (ar)
+4. Šio straipsnio 3 dalyje nurodytas
+konkursas organizuojamas akvatorijai, kuriai parengta elektrinių statybos Lietuvos
+Respublikos teritorinėje jūroje, Lietuvos Respublikos išskirtinėje ekonominėje
+zonoje Baltijos jūroje ir (ar) pajūrio juostoje schema ir atliktas
+akvatorijos schemos strateginis pasekmių aplinkai vertinimas, ir (ar)
 akvatorijai, kurios dalyse teritorijų planavimo dokumentuose numatyta
 infrastruktūros plėtra ir atliktas elektrinių poveikio aplinkai vertinimas. 
 5. Šio straipsnio 4 dalyje nurodytą schemą parengia ir iki 2013 m.
@@ -1424,12 +1423,12 @@ išskirtinę ekonominę zoną Baltijos jūroje ir (ar) pajūrio juostą elektrin
 statybai ir jų eksploatacijai, įgyja išimtinę teisę per ne ilgesnį kaip 4 metų
 terminą nustatytoje teritorijoje atlikti tyrimus, reikalingus priimti
 sprendimui dėl elektrinių statybos. Jeigu gamintojas per nustatytą terminą
-teisės aktų nustatyta tvarka negauna leidimo statyti ar Energetikos ministerijai
-pateikia pranešimą apie atsisakymą statyti elektrinę, leidimas naudoti Lietuvos
-Respublikos teritorinę jūrą, Lietuvos Respublikos išskirtinę ekonominę zoną
-Baltijos jūroje ir (ar) pajūrio juostą elektrinių statybai ir jų eksploatacijai
-gali būti panaikinamas. Gamintojas visus atliktų tyrimų duomenis skelbia
-viešai.
+teisės aktų nustatyta tvarka negauna leidimo statyti ar Energetikos
+ministerijai pateikia pranešimą apie atsisakymą statyti elektrinę, leidimas
+naudoti Lietuvos Respublikos teritorinę jūrą, Lietuvos Respublikos išskirtinę
+ekonominę zoną Baltijos jūroje ir (ar) pajūrio juostą elektrinių statybai ir jų
+eksploatacijai gali būti panaikinamas. Gamintojas visus atliktų tyrimų duomenis
+skelbia viešai.
  
 KETVIRTASIS SKIRSNIS
 ŠILUMOS IR VĖSUMOS ENERGIJOS
@@ -1511,9 +1510,9 @@ tvarka nagrinėja Valstybinė kainų ir energetikos kontrolės komisija.
 Investicijos į
 šilumos siurblius, atitinkančius šio įstatymo 47 straipsnio 3 dalyje
 nustatytus reikalavimus, ir investicijos, būtinos šiems siurbliams įrengti,
-skatinamos šio įstatymo aštuntajame skirsnyje nustatyta tvarka.
-Pasinaudojus šia paramos forma, netenkama galimybės naudotis skatinimo
-priemone, nurodyta šio įstatymo 11 straipsnio 3 punkte.
+skatinamos šio įstatymo aštuntajame skirsnyje nustatyta tvarka. Pasinaudojus
+šia paramos forma, netenkama galimybės naudotis skatinimo priemone, nurodyta
+šio įstatymo 11 straipsnio 3 punkte.
  
 27 straipsnis.
 Pramoninių ir komunalinių atliekų, tinkamų energijai gaminti, panaudojimas 
@@ -1521,14 +1520,14 @@ Pramoninių ir komunalinių atliekų, tinkamų energijai gaminti, panaudojimas
 pramoninių ir (ar) komunalinių atliekų biologiškai skaidžios dalies naudojimo
 technologinius, aplinkos apsaugos reikalavimus ir kokybės standartus nustato
 Vyriausybė ar jos įgaliota institucija.
-2. Energetikos objektų, naudojančių
-energijai gaminti tinkamų pramoninių ir (ar) komunalinių atliekų biologiškai
-skaidžią dalį, planavimo, leidimų verstis šia veikla išdavimo, statybos ir
-eksploatavimo tvarką pagal kompetenciją nustato Vyriausybė ar jos įgaliota
-institucija, vadovaudamasi bendraisiais įstatymuose ir kituose teisės aktuose
-nustatytais veiklos energetikos sektoriuje leidimų išdavimo, projektavimo ir
-statybos, teritorijų planavimo, ūkinės veiklos poveikio aplinkai vertinimo,
-aplinkos apsaugos ir kitais susijusiais reikalavimais.
+2. Energetikos objektų,
+naudojančių energijai gaminti tinkamų pramoninių ir (ar) komunalinių atliekų
+biologiškai skaidžią dalį, planavimo, leidimų verstis šia veikla išdavimo,
+statybos ir eksploatavimo tvarką pagal kompetenciją nustato Vyriausybė ar jos
+įgaliota institucija, vadovaudamasi bendraisiais įstatymuose ir kituose teisės
+aktuose nustatytais veiklos energetikos sektoriuje leidimų išdavimo,
+projektavimo ir statybos, teritorijų planavimo, ūkinės veiklos poveikio
+aplinkai vertinimo, aplinkos apsaugos ir kitais susijusiais reikalavimais.
  
 PENKTASIS SKIRSNIS
 ATSINAUJINANČIŲ IŠTEKLIŲ
@@ -3048,12 +3047,11 @@ RESPUBLIKOS PREZIDENTĖ                            �
 
 
 
-Lietuvos
-Respublikos 
+Lietuvos Respublikos
+
 atsinaujinančių
 išteklių 
-energetikos
-įstatymo
+energetikos įstatymo
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS
@@ -3107,12 +3105,21 @@ ATSINAUJINANČIŲ IŠTEKLIŲ ENERGETIKOS ĮSTATYMO
 Šio įstatymo 5 straipsnio 2 dalis
 įsigalioja 2013 m. kovo 1 d.
  
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-351,
+2013-05-30, Žin., 2013, Nr. 64-3175 (2013-06-18)
+ATSINAUJINANČIŲ IŠTEKLIŲ ENERGETIKOS
+ĮSTATYMO 20 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis
+įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2013 m. liepos 1 d.
+ 
  
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2013-02-04)
+Aušrinė Trapinskienė (2013-06-18)
                  
 ausrine.trapinskiene@lrs.lt
