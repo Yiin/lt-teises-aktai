@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C"
 
 # Lietuvos Respublikos kelių transporto kodeksas
 
-Suvestinė redakcija nuo 2012-11-22 iki 2013-07-12
+Suvestinė redakcija nuo 2013-07-13 iki 2013-12-31
  
 Kodeksas paskelbtas: Žin. 1996, Nr. 119-2772, i. k. 0961010KODE00I-1628
  
@@ -1550,7 +1550,10 @@ Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA
 
 
 
-8) vežėjo parašas ir antspaudas;
+8) vežėjo parašas ir antspaudas, kai pareiga turėti antspaudą nustatyta vežėjo steigimo dokumentuose arba įstatymuose;
+Straipsnio punkto pakeitimai:
+Nr. XII-504, 2013-07-02, Žin., 2013, Nr. 75-3775 (2013-07-13), i. k. 1131010ISTA0XII-504
+ 
 
 
 
@@ -2031,3 +2034,8 @@ Lietuvos Respublikos kelių transporto kodekso 3, 7, 8, 13, 14, 18 straipsnių, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2380, 2012-11-08, Žin., 2012, Nr. 135-6868 (2012-11-22), i. k. 1121010ISTA0XI-2380
 Lietuvos Respublikos kelių transporto kodekso 1, 7, 26, 46, 47, 49, 51 straipsnių, šeštojo skirsnio pavadinimo pakeitimo ir 40 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-504, 2013-07-02, Žin., 2013, Nr. 75-3775 (2013-07-13), i. k. 1131010ISTA0XII-504
+Lietuvos Respublikos kelių transporto kodekso 38 straipsnio pakeitimo įstatymas
