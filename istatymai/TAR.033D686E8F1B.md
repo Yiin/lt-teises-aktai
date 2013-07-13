@@ -225,28 +225,14 @@ vienkartinį važiavimo bilietą su 50 procentų nuolaida.
 6. Aukštųjų
 mokyklų dieninių skyrių studentai, Lietuvos Respublikos ir kitų Europos
 Sąjungos valstybių narių piliečiai, studijuojantys Europos Sąjungos valstybių
-narių aukštųjų mokyklų dieniniuose skyriuose, dieninių bendrojo lavinimo
-mokyklų mokiniai, profesinio mokymo įstaigų dieninių skyrių mokiniai ir
-Nacionalinės Mikalojaus Konstantino Čiurlionio menų mokyklos mokiniai turi
-teisę įsigyti važiavimo vietinio (miesto) reguliaraus susisiekimo autobusais ir
-troleibusais bilietą su šiomis nuolaidomis:
-1) terminuotą
-vardinį važiavimo bilietą – su 80 procentų nuolaida;
-2) vienkartinį
-važiavimo bilietą – su 50 procentų nuolaida.
-6 dalies redakcija nuo 2013-01-01:
-6. Aukštųjų
-mokyklų dieninių skyrių studentai, Lietuvos Respublikos ir kitų Europos
-Sąjungos valstybių narių piliečiai, studijuojantys Europos Sąjungos valstybių
 narių aukštųjų mokyklų dieniniuose skyriuose, vaikai nuo 7 iki 8 metų, dieninių
-bendrojo lavinimo mokyklų mokiniai, profesinio mokymo įstaigų dieninių skyrių mokiniai ir Nacionalinės Mikalojaus Konstantino Čiurlionio menų
-mokyklos mokiniai turi teisę įsigyti važiavimo vietinio (miesto) reguliaraus
-susisiekimo autobusais ir troleibusais bilietą su šiomis nuolaidomis:
+bendrojo lavinimo mokyklų mokiniai, profesinio mokymo įstaigų dieninių skyrių mokiniai ir Nacionalinės Mikalojaus Konstantino Čiurlionio menų mokyklos
+mokiniai turi teisę įsigyti važiavimo vietinio (miesto) reguliaraus susisiekimo
+autobusais ir troleibusais bilietą su šiomis nuolaidomis:
 1) terminuotą
 vardinį važiavimo bilietą – su 80 procentų nuolaida;
 2) vienkartinį
 važiavimo bilietą – su 50 procentų nuolaida.
- 
 7. Nacionalinės
 Mikalojaus Konstantino Čiurlionio menų mokyklos ir konservatorijų mokiniai turi
 teisę įsigyti vienkartinį važiavimo tolimojo reguliaraus susisiekimo
@@ -269,8 +255,8 @@ Nr.
 IX-2581,
 2004-11-11, Žin., 2004, Nr. 171-6324 (2004-11-26)
 Nr.
-X-189, 2005-05-12,
-Žin., 2005, Nr. 67-2401 (2005-05-28)
+X-189,
+2005-05-12, Žin., 2005, Nr. 67-2401 (2005-05-28)
 Nr. X-576, 2006-04-25,
 Žin., 2006, Nr. 53-1929 (2006-05-13)
 Nr. X-1612,
@@ -286,17 +272,21 @@ atvejais
 švietimo ir vaikų globos įstaigos, savo nustatyta tvarka kompensuoja visas
 važiavimo išlaidas:
 1) kaimuose ir miesteliuose gyvenantiems
-bendrojo lavinimo mokyklų, profesinio mokymo įstaigų ir neformaliojo vaikų
-švietimo įstaigų mokiniams, šių mokyklų ar įstaigų darbo dienomis
-važiuojantiems į mokyklą ar įstaigą iki 40 km ir atgal mokinio pažymėjime nurodytu maršrutu vietinio (priemiestinio) reguliaraus susisiekimo autobusais,
-tolimojo reguliaraus susisiekimo autobusais, keleiviniais traukiniais,
-reguliaraus susisiekimo laivais ir keltais; neformaliojo vaikų švietimo įstaigų
-mokiniams ši lengvata taikoma ir ne darbo dienomis;
+bendrojo ugdymo programas vykdančių mokyklų 9–12 klasių (gimnazijų 1–4 klasių),
+profesinio mokymo įstaigų ir neformaliojo vaikų švietimo įstaigų mokiniams, šių
+mokyklų ar įstaigų darbo dienomis važiuojantiems į mokyklą ar įstaigą iki 40 km
+ir atgal mokinio pažymėjime nurodytu maršrutu vietinio (priemiestinio)
+reguliaraus susisiekimo autobusais, tolimojo reguliaraus susisiekimo
+autobusais, keleiviniais traukiniais, reguliaraus susisiekimo laivais ir
+keltais; neformaliojo vaikų švietimo įstaigų mokiniams ši lengvata taikoma ir
+ne darbo dienomis; priešmokyklinio ugdymo ir 1–8 klasių mokinių pavėžėjimas
+kompensuojamas iki artimiausios atitinkamą bendrojo ugdymo programą vykdančios
+mokyklos;
 2) vaikų globos įstaigose, vaikų
-socializacijos centruose, bendrojo lavinimo mokyklų ir profesinio mokymo
-įstaigų bendrabučiuose gyvenantiems mokiniams, važiuojantiems mokinio
-pažymėjime nurodytu maršrutu vietinio (priemiestinio) reguliaraus susisiekimo
-autobusais, tolimojo reguliaraus susisiekimo autobusais, keleiviniais traukiniais,
+socializacijos centruose, bendrojo lavinimo mokyklų ir profesinio mokymo įstaigų
+bendrabučiuose gyvenantiems mokiniams, važiuojantiems mokinio pažymėjime
+nurodytu maršrutu vietinio (priemiestinio) reguliaraus susisiekimo autobusais,
+tolimojo reguliaraus susisiekimo autobusais, keleiviniais traukiniais,
 reguliaraus susisiekimo laivais ir keltais;
 3) vaikų globos namuose gyvenantiems
 mokiniams, važiuojantiems mokinio pažymėjime nurodytu maršrutu vietinio
@@ -308,13 +298,16 @@ Straipsnio pakeitimai:
 Nr.
 IX-2581,
 2004-11-11, Žin., 2004, Nr. 171-6324 (2004-11-26)
-Nr. X-1312,
-2007-11-06, Žin., 2007, Nr. 120-4879 (2007-11-22)
+Nr. X-1312, 2007-11-06,
+Žin., 2007, Nr. 120-4879 (2007-11-22)
 Nr. X-1612,
 2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
 Nr.
 XI-241,
 2009-04-28, Žin., 2009, Nr. 54-2139 (2009-05-12)
+Nr.
+XII-512,
+2013-07-02, Žin., 2013, Nr. 75-3782 (2013-07-13)
  
 7
 straipsnis. Teisė į transporto išlaidų kompensaciją
@@ -347,8 +340,8 @@ Straipsnio pakeitimai:
 Nr. IX-919,
 2002-05-30, Žin., 2002, Nr. 62-2494 (2002-06-21)
 Nr.
-X-189, 2005-05-12,
-Žin., 2005, Nr. 67-2401 (2005-05-28)
+X-189,
+2005-05-12, Žin., 2005, Nr. 67-2401 (2005-05-28)
 Nr. X-1612,
 2008-06-17, Žin., 2008, Nr. 74-2862 (2008-06-30)
  
@@ -445,8 +438,8 @@ Pakeitimai:
 1.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-791,
-2002-03-19, Žin., 2002, Nr. 37-1343 (2002-04-09)
+Nr. IX-791, 2002-03-19,
+Žin., 2002, Nr. 37-1343 (2002-04-09)
 TRANSPORTO
 LENGVATŲ ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
@@ -555,12 +548,19 @@ LENGVATŲ ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2013 m. sausio
 1 d.
  
+12.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XII-512,
+2013-07-02, Žin., 2013, Nr. 75-3782 (2013-07-13)
+TRANSPORTO
+LENGVATŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2012-07-20)
+Aušrinė Trapinskienė (2013-07-15)
                  
 ausrine.trapinskiene@lrs.lt
