@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.382345294FBF"
 
 # Lietuvos Respublikos elektroninio parašo įstatymas
 
-Suvestinė redakcija nuo 2002-06-26 iki 2013-07-12
+Suvestinė redakcija nuo 2013-07-13 iki 2013-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 61-1827, i. k. 1001010ISTAIII-1822
  
@@ -236,9 +236,11 @@ Papildyta straipsnio dalimi:
 Nr. IX-934, 2002-06-06, Žin., 2002, Nr. 64-2572 (2002-06-26); Žin., 2002, Nr. 65-0 (2002-06-28), i. k. 1021010ISTA00IX-934
  
 
-4. Juridinio asmens atstovo elektroninio parašo galia yra prilyginama juridinio asmens atstovo parašo, patvirtinto juridinio asmens antspaudu, galiai rašytiniuose dokumentuose, atsižvelgiant į elektroninio parašo galią pagal šio straipsnio 1, 2 ir 3 dalis. 
+4. Juridinio asmens atstovo elektroninio parašo galia yra prilyginama juridinio asmens atstovo parašo, patvirtinto juridinio asmens antspaudu, kai pareiga turėti antspaudą nustatyta juridinio asmens steigimo dokumentuose arba įstatymuose, galiai rašytiniuose dokumentuose, atsižvelgiant į elektroninio parašo galią pagal šio straipsnio 1, 2 ir 3 dalis. 
 Papildyta straipsnio dalimi:
 Nr. IX-934, 2002-06-06, Žin., 2002, Nr. 64-2572 (2002-06-26); Žin., 2002, Nr. 65-0 (2002-06-28), i. k. 1021010ISTA00IX-934
+Straipsnio dalies pakeitimai:
+Nr. XII-508, 2013-07-02, Žin., 2013, Nr. 75-3779 (2013-07-13), i. k. 1131010ISTA0XII-508
  
 
 TREČIASIS SKIRSNIS
@@ -401,4 +403,14 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-934, 2002-06-06, Žin., 2002, Nr. 64-2572 (2002-06-26); Žin., 2002, Nr. 65-0 (2002-06-28), i. k. 1021010ISTA00IX-934
 Lietuvos Respublikos elektroninio parašo įstatymo 4, 8, 14, 16 straipsnių pakeitimo ir papildymo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2321, 2012-11-06, Žin., 2012, Nr. 132-6649 (2012-11-15), i. k. 1121010ISTA0XI-2321
+Lietuvos Respublikos elektroninio parašo įstatymo 14 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-508, 2013-07-02, Žin., 2013, Nr. 75-3779 (2013-07-13), i. k. 1131010ISTA0XII-508
+Lietuvos Respublikos elektroninio parašo įstatymo 8 straipsnio pakeitimo įstatymas
 
