@@ -36,7 +36,7 @@ Vilnius
  
  
 Nauja įstatymo redakcija (keistas įstatymo
-pavadinimas) nuo 2005-04-20:
+pavadinimas) nuo 2005 m. balandžio 19 d.:
 Nr.
 IX-2452,
 2004-09-28, Žin., 2004, Nr. 153-5571 (2004-10-19)
@@ -106,8 +106,8 @@ mokslinio pažinimo šaltiniais.
 atkūrimas išimtiniais atvejais pagal nustatytas neišlikusias vertingąsias
 savybes, atliekant tyrimais pagrįstus tvarkomuosius paveldosaugos, statybos ir
 kraštotvarkos darbus. Atkuriant išsaugomos atkuriamos vertybės išlikusios dalys
-ir elementai, jie grąžinami į pirminę vietą, tiksliai pakartojamos ar naujai sukuriamos
-neišlikusios dalys ir elementai. 
+ir elementai, jie grąžinami į pirminę vietą, tiksliai pakartojamos ar naujai
+sukuriamos neišlikusios dalys ir elementai. 
 6. Avarijos grėsmės pašalinimas – priežasčių, galinčių sukelti staigią kultūros
 paveldo objekto griūtį ar kitokį praradimą, panaikinimas, minimaliai keičiant
 vertingąsias savybes, atliekant tvarkomuosius paveldosaugos, statybos ir
@@ -115,20 +115,19 @@ kraštotvarkos darbus.
 7. Autentiškumas
 – kultūros paveldo objekto
 ar vietovės išlikusios savybės, apimančios pirminę ar istoriškai susiklosčiusią
-objekto paskirtį, išraišką ir savitą fizinį pavidalą–formą, panaudotas
-medžiagas, konstrukcijas, suplanavimą, atlikimo technologiją, aplinką.
+objekto paskirtį, išraišką ir savitą fizinį pavidalą–formą, panaudotas medžiagas,
+konstrukcijas, suplanavimą, atlikimo technologiją, aplinką.
 8. Fundamentiniai
 moksliniai tyrimai
 – eksperimentiniai ir (ar) teoriniai darbai, atliekami pirmiausia reiškinių
-esmei ir stebimai tikrovei pažinti, be tikslo konkrečiai panaudoti gautus
-rezultatus.
-9. Konservacinė
-(saugojimo) paskirtis – teisės aktų nustatyta tvarka įteisinta saugomo
-objekto, objekto teritorijos ar vietovės sklypų naudojimo paskirtis, kai
-naudojimo tikslas yra išsaugoti tokio sklypo ar
-daikto vertingąsias savybes, naudojant
-arba pritaikant naudoti juos pirminiu ar istoriškai susiklosčiusiu, jam artimu
-ar tikslingai parinktu būdu (paskirtimi), kuris užtikrintų tinkamą priežiūrą ir
+esmei ir stebimai tikrovei pažinti, be tikslo konkrečiai panaudoti gautus rezultatus.
+9.
+Konservacinė (saugojimo) paskirtis – teisės aktų nustatyta tvarka įteisinta
+saugomo objekto, objekto teritorijos ar vietovės sklypų naudojimo paskirtis,
+kai naudojimo tikslas yra išsaugoti tokio sklypo ar
+daikto vertingąsias savybes, naudojant arba
+pritaikant naudoti juos pirminiu ar istoriškai susiklosčiusiu, jam artimu ar
+tikslingai parinktu būdu (paskirtimi), kuris užtikrintų tinkamą priežiūrą ir
 atskleistų vertingąsias savybes.
 10. Konservavimas – kultūros paveldo objekto vertingąsias savybes naikinančių ar
 žalojančių veiksnių poveikio sustabdymas ir autentiškumo požymių sutvirtinimas
@@ -176,8 +175,8 @@ statinio specialieji paveldosaugos reikalavimai.
 20.
 Nekilnojamasis kultūros paveldas – kultūros paveldo dalis, kurią sudaro
 praeities kartų pastatytos, įrengtos, sukurtos ar istorinių įvykių
-sureikšmintos išlikusios ar neišlikusios medžiaginės kultūros vertybės,
-tiesiogiai susijusios su užimama ir joms naudoti reikalinga teritorija.
+sureikšmintos išlikusios ar neišlikusios medžiaginės kultūros vertybės, tiesiogiai
+susijusios su užimama ir joms naudoti reikalinga teritorija.
 21.
 Nekilnojamoji kultūros vertybė – kultūros paveldo objekto ar vietovės
 reikšmingumą lemiančių vertingųjų savybių, visuomenei svarbių kaip jos
@@ -265,8 +264,7 @@ daiktų, esančių pavienio ar kompleksinio objekto teritorijoje arba vietovėje
 savininkas ar kitoks valdymo teisių turėtojas.
 40.
 Vertingoji savybė – kultūros paveldo objekto, vietovės, jų dalies ar
-elemento bruožas, vertingas etniniu, istoriniu, estetiniu ar moksliniu
-požiūriu.
+elemento bruožas, vertingas etniniu, istoriniu, estetiniu ar moksliniu požiūriu.
 41. Vertingųjų
 savybių keitimas – tvarkybos darbai, veikiantys vertingąsias savybes
 (avarijos grėsmės pašalinimas, konservavimas, pritaikymas, restauravimas,
@@ -308,9 +306,9 @@ duomenų šaltinių yra povandeniniai tyrimai ir radiniai;
 3) mitologinis –
 reikšmingais pripažinti tautosakoje minimi senovės kulto ar kitos žmonių
 veiklos objektai; 
-4) etnokultūrinis
-– reikšmingais pripažinti statiniai, jų kompleksai, vietos ar vietovės,
-atskleidžiančios etninės kultūros savitumą;
+4)
+etnokultūrinis – reikšmingais pripažinti statiniai, jų kompleksai, vietos ar
+vietovės, atskleidžiančios etninės kultūros savitumą;
 5)
 architektūrinis – reikšmingais pripažinti architektūrinės kūrybos statiniai, jų
 dalys, priklausiniai ir tokių statinių vientisos architektūrinės kompozicijos
@@ -404,10 +402,9 @@ KULTŪROS PAVELDO APSAUGOS ADMINISTRAVIMAS
 5
 straipsnis. Nekilnojamojo kultūros paveldo apsaugos valstybinis administravimas
 1. Nekilnojamojo
-kultūros paveldo apsaugos nacionalinę politiką formuoja Seimas, Vyriausybė,
-Kultūros ministerija, atsižvelgdami į Valstybinės kultūros paveldo komisijos
-teikiamus paveldosauginės patirties ir tendencijų vertinimus, analizes ir
-siūlymus.
+kultūros paveldo apsaugos nacionalinę politiką formuoja Seimas, Vyriausybė, Kultūros
+ministerija, atsižvelgdami į Valstybinės kultūros paveldo komisijos teikiamus
+paveldosauginės patirties ir tendencijų vertinimus, analizes ir siūlymus.
 2. Nekilnojamojo
 kultūros paveldo apsaugos valstybinį administravimą organizuoja ir už jį atsako
 kultūros ministras. Kultūros ministras įgalioja ministerijos padalinius ir prie
@@ -430,22 +427,22 @@ atlieka kitas įstatymų nustatytas funkcijas.
 ministras tvirtina pavyzdinius apsaugos reglamentus, valstybės
 biudžeto lėšomis finansuojamas nekilnojamojo kultūros paveldo paveldosaugos
 (apskaitos, paveldotvarkos, kontrolės, saugomų teritorijų apsaugos ir tvarkymo,
-kitas) programas, skelbia nekilnojamąsias kultūros vertybes valstybės saugomomis,
-teikia kultūros paveldo objektus ir vietoves įrašyti į tarptautinės svarbos
-kultūros paveldo objektų ar vietovių sąrašus, jeigu tarptautinėmis sutartimis
-nenustatyta kitaip, atlieka kitas įstatymų ir kitų teisės aktų nustatytas
-funkcijas.
+kitas) programas, skelbia nekilnojamąsias kultūros vertybes valstybės
+saugomomis, teikia kultūros paveldo objektus ir vietoves įrašyti į tarptautinės
+svarbos kultūros paveldo objektų ar vietovių sąrašus, jeigu tarptautinėmis
+sutartimis nenustatyta kitaip, atlieka kitas įstatymų ir kitų teisės aktų
+nustatytas funkcijas.
 7. Kultūros
 ministerija kartu su Švietimo ir mokslo ministerija organizuoja nekilnojamojo
 kultūros paveldo apsaugos specialistų rengimą, profesinį mokymą ir
 tobulinimąsi.
 8. Vyriausybės,
-ministerijų, kitų Vyriausybės įstaigų norminiai teisės aktai, susiję su nekilnojamojo
-kultūros paveldo apsauga, prieš juos priimant turi būti pateikiami Kultūros
-ministerijai derinti teisės aktų nustatyta tvarka. Šio įstatymo reikalavimams
-prieštaraujantys savivaldos institucijų priimti teisės aktai turi būti
-sustabdyti ar panaikinti Savivaldybių administracinės priežiūros įstatymo
-nustatyta tvarka.
+ministerijų, kitų Vyriausybės įstaigų norminiai teisės aktai, susiję su
+nekilnojamojo kultūros paveldo apsauga, prieš juos priimant turi būti
+pateikiami Kultūros ministerijai derinti teisės aktų nustatyta tvarka. Šio
+įstatymo reikalavimams prieštaraujantys savivaldos institucijų priimti teisės
+aktai turi būti sustabdyti ar panaikinti Savivaldybių administracinės
+priežiūros įstatymo nustatyta tvarka.
 9. Konkrečias
 nekilnojamojo kultūros paveldo apsaugos valstybinio administravimo funkcijas
 atlieka ir už jų vykdymą atsako Departamentas. Jis turi apskaitos,
@@ -625,11 +622,11 @@ XI-2389,
 2012-11-08, Žin., 2012, Nr. 136-6960 (2012-11-24)
  
 7 straipsnis. Valstybinė kultūros paveldo komisija
-Valstybinė
-kultūros paveldo komisija yra Seimo, Respublikos Prezidento ir Vyriausybės
-ekspertas ir patarėjas valstybinės nekilnojamojo kultūros paveldo apsaugos
-politikos klausimais. Komisijos valdymą, finansavimą, uždavinius ir teises
-nustato Valstybinės kultūros paveldo komisijos įstatymas.
+Valstybinė kultūros
+paveldo komisija yra Seimo, Respublikos Prezidento ir Vyriausybės ekspertas ir
+patarėjas valstybinės nekilnojamojo kultūros paveldo apsaugos politikos
+klausimais. Komisijos valdymą, finansavimą, uždavinius ir teises nustato
+Valstybinės kultūros paveldo komisijos įstatymas.
 TREČIASIS
 SKIRSNIS
 NEKILNOJAMOJO
@@ -676,9 +673,9 @@ Nekilnojamųjų kultūros vertybių vertinimo atrankos ir reikšmingumo lygmens
 nustatymo kriterijus, šių vertybių atskleidimui reikalingų tyrimų duomenų
 apimtį ir vertinimo tarybų pavyzdinius nuostatus tvirtina kultūros ministras.
 7. Kultūros
-vertybių registras steigiamas, tvarkomas, naudojamas ir reorganizuojamas
-Valstybės informacinių išteklių valdymo įstatymo, šio įstatymo, Kilnojamųjų
-kultūros vertybių apsaugos įstatymo ir kitų teisės aktų nustatyta tvarka.
+vertybių registras steigiamas, tvarkomas, naudojamas ir reorganizuojamas Valstybės
+informacinių išteklių valdymo įstatymo, šio įstatymo, Kilnojamųjų kultūros
+vertybių apsaugos įstatymo ir kitų teisės aktų nustatyta tvarka.
 8.
 Nekilnojamosios kultūros vertybės registruojamos vertinimo tarybai nusprendus,
 kad vertybei reikalinga apsauga. Tokios vertybės registruojamos kaip didelę
@@ -740,8 +737,8 @@ privalo pranešti savivaldybės paveldosaugos padaliniui, o šis informuoja
 Departamentą. Departamentas gali sustabdyti darbus 15 dienų. Per šį terminą jis
 kartu su savivaldybės paveldosaugos padaliniu turi patikrinti pranešimą ir
 priimti sprendimą inicijuoti ar neinicijuoti aptiktos nekilnojamosios kultūros
-vertybės įregistravimą, kultūros paveldo objekto skelbimą saugomu ar aptiktos vertingosios
-savybės atskleidimą ir apsaugos reikalavimų patikslinimą. 
+vertybės įregistravimą, kultūros paveldo objekto skelbimą saugomu ar aptiktos
+vertingosios savybės atskleidimą ir apsaugos reikalavimų patikslinimą. 
 4. Departamentas
 taip pat gali sustabdyti darbus 15 dienų, jei išaiškėja, kad buvo pažeisti šio
 straipsnio 1 ar 2 dalies reikalavimai. 
@@ -763,63 +760,75 @@ apsauga netenka galios priėmus sprendimą skelbti kultūros paveldo objektą
 saugomu ar neskelbti saugomu arba pasibaigus terminui, nustatytam pagal šio
 straipsnio 5 dalį.
  
-10 straipsnis. Kultūros
-paveldo objekto skelbimas saugomu
+10
+straipsnis. Kultūros paveldo objekto ir vietovės skelbimas saugomais
 1. Departamentas
-ar savivaldybės paveldosaugos padalinys sprendimą inicijuoti kultūros paveldo
-objekto paskelbimą saugomu privalo registruoti Kultūros
-vertybių registre ir per 15 dienų po įregistravimo pranešti raštu visiems
-asmenims, kurių daiktinės teisės į nekilnojamuosius daiktus tokio objekto
-teritorijos ribose yra registruotos Nekilnojamojo turto registre.
-2. Visuomenė ir
-kultūros paveldo objekto valdytojai su sprendimo kultūros paveldo objektą
-paskelbti saugomu ir šio objekto teritorijos bei apsaugos zonos ribų nustatymo
-projektais supažindinami Saugomų teritorijų ir Teritorijų planavimo įstatymų
-nustatyta tvarka.
-3. Savivaldybės
-taryba savivaldybės paveldosaugos padalinio teikimu kultūros paveldo objektus
-skelbia saugomais savivaldybės.
-4. Kultūros
-ministras kultūros paveldo objektus skelbia saugomais valstybės. 
-5. Vyriausybė
-kultūros ministro teikimu, pritarus Valstybinei paveldo komisijai, nacionalinės
-reikšmės kultūros paveldo objektus skelbia kultūros paminklais. Kultūros
-paminklus, kurie gali būti išsaugoti ir prieinami visuomenei tik priklausydami
-Lietuvos Respublikai išimtine nuosavybės teise, Vyriausybė kultūros ministro
-teikimu įrašo į valstybinės reikšmės istorijos, archeologijos ir kultūros
-objektų sąrašą.
-6. Teisės akte,
-kuris kultūros paveldo objektą skelbia saugomu, nurodomas apsaugos tikslas ar
-tikslai, reikšmingumą lemiančių vertingųjų savybių pobūdis ar jų derinys,
-patvirtinamos teritorijos ir apsaugos zonos ribos.
-7. Kai kultūros
+ar savivaldybės institucija sprendimą inicijuoti kultūros paveldo objekto ar
+vietovės paskelbimą saugomais privalo įregistruoti Kultūros vertybių registre
+ir paskelbti Departamento ar savivaldybės interneto svetainėje, ir per 15 dienų
+po įregistravimo pranešti raštu visiems asmenims, kurių daiktinės teisės į
+nekilnojamuosius daiktus tokio kultūros paveldo objekto teritorijos ribose yra
+registruotos Nekilnojamojo turto registre. 
+2. Nacionalinio
+reikšmingumo lygmens kultūros paveldo objektus ir vietoves kultūros ministro
+teikimu, pritarus Valstybinei kultūros paveldo komisijai, Vyriausybė skelbia
+kultūros paminklais. Kultūros paminklus, kurie dėl išskirtinės mokslinės,
+istorinės ar kultūrinės vertės turi būti prieinami visuomenei, Vyriausybė
+kultūros ministro teikimu įrašo į Valstybinės reikšmės istorijos, archeologijos
+ir kultūros objektų sąrašą. Privačios nuosavybės prieinamų visuomenei lankyti kultūros
+paminklų, įrašytų į Valstybinės reikšmės istorijos, archeologijos ir kultūros
+objektų sąrašą, tvarkybos finansavimo ir tvarkomųjų paveldosaugos darbų išlaidų
+kompensavimo tvarką nustato Vyriausybė.
+3. Nacionalinio
+reikšmingumo lygmens kultūros paveldo objektus ir vietoves, kurie neskelbiami
+kultūros paminklais, ir regioninio reikšmingumo lygmens kultūros paveldo
+objektus ir vietoves valstybės saugomais skelbia kultūros ministras. Objektai
+ir vietovės atrenkami atsižvelgiant į nustatytas nekilnojamojo kultūros paveldo
+objektų ir vietovių vertingąsias savybes ir reikšmingumo kriterijus, jų
+kultūrinę vertę ir visuomeninę reikšmę.
+4. Vietinio
+reikšmingumo lygmens kultūros paveldo objektus ir vietoves savivaldybės
+saugomais skelbia savivaldybės taryba.
+5. Teisės akte,
+kuris kultūros paveldo objektą ar vietovę skelbia valstybės saugomais ar
+kultūros paminklu, nurodomas apsaugos tikslas ar tikslai, reikšmingumą
+lemiančių vertingųjų savybių pobūdis ar jų derinys, patvirtinamos jų
+teritorijos ir apsaugos zonos ribos.
+6. Kai kultūros
 paveldo objektas yra sunykęs, sunaikintas ar kitaip prarastos jo vertingosios
-savybės, nustačius šių praradimų priežastis ir (ar) kaltininkus ir apie tai ne
-mažiau kaip prieš 3 mėnesius paskelbus spaudoje, priimamas kultūros paveldo
-objekto skelbimo saugomu aktą naikinantis ar keičiantis sprendimas. Priėmus
-objekto apsaugą naikinantį sprendimą, toks objektas iš Kultūros vertybių
-registro neišbraukiamas.
-8. Kai kultūros
-paveldo objektas paskelbiamas saugomu arba vietovei apsaugoti įsteigiamas
-draustinis ar rezervatas, Kultūros vertybių registre ir nekilnojamosios kultūros vertybės pase turi būti įrašomi šie
-duomenys:
+savybės ir yra nustatytos šių praradimų priežastys ir (ar) kaltininkai arba
+kultūros paveldo objektas ar vietovė neatitinka nustatytų nekilnojamojo kultūros
+paveldo objektų ar vietovių reikšmingumo kriterijų ir vertingųjų savybių ir
+apie tai ne mažiau kaip prieš 3 mėnesius paskelbiama spaudoje, priimamas
+kultūros paveldo objekto ar vietovės skelbimo saugomu aktą naikinantis ar
+keičiantis sprendimas. Priėmus kultūros paveldo objekto apsaugą naikinantį
+sprendimą, toks objektas ar vietovė iš Kultūros vertybių registro
+neišbraukiami. 
+7. Kultūros
+vertybių registre turi būti įrašomi šie saugomų kultūros paveldo objektų ir
+vietovių duomenys:
 1) apsaugą
 įteisinantys, teritoriją ir apsaugos zonas patvirtinantys teisės aktai ir jų
 pakeitimai, šiuos aktus registruojančių registrų įrašų kodai;
-2) už objekto ar
-objektų apsaugą atsakinga institucija;
+2) už kultūros
+paveldo objekto ar vietovės apsaugą atsakinga institucija;
 3) su valdytoju
-sudarytos apsaugos sutarties sąlygos, jei tokia sutartis sudaroma;
-4) objektą ar
-objektus prižiūrėti įgaliotas valdytojas ar valdytojai, jei toks (tokie) yra.
-9. Jeigu
-kultūros paveldo statinyje esančio kilnojamojo daikto, saugomo pagal
-Kilnojamųjų kultūros vertybių apsaugos įstatymą, paskirtis neatsiejama nuo
-statinio paskirties, o daiktas su statiniu yra istoriškai susijęs ir statiniui
-suteikia papildomos reikšmės, šis daiktas Kultūros vertybių registre ir
-nekilnojamosios kultūros vertybės pase įrašomas kaip daiktas, esantis viena iš
-jos vertingųjų savybių. Statinį skelbiant saugomu, kilnojamoji kultūros
-vertybė, nurodyta kaip vertingoji savybė, tampa saugoma ir šio įstatymo.
+sudarytos apsaugos sutarties sąlygos, jeigu tokia sutartis sudaroma;
+4) saugomos
+teritorijos, kurioje yra kultūros paveldo objektas ar vietovė, pavadinimas.
+8. Jeigu
+kultūros paveldo objekte esančio kilnojamojo daikto, saugomo pagal Kilnojamųjų
+kultūros vertybių apsaugos įstatymą, paskirtis neatsiejama nuo objekto
+paskirties, o daiktas su objektu yra istoriškai susijęs ir objektui suteikia
+papildomos reikšmės, šis daiktas Kultūros vertybių registre įrašomas kaip
+daiktas, esantis viena iš objekto vertingųjų savybių. Kultūros paveldo objektą
+skelbiant valstybės saugomu, kilnojamoji kultūros vertybė, nurodyta kaip
+vertingoji savybė, tampa saugoma ir šio įstatymo.
+Straipsnio
+pakeitimai:
+Nr.
+XII-416, 2013-06-27, Žin., 2013, Nr.
+76-3833 (2013-07-16)
  
 11 straipsnis. Kultūros
 paveldo objektų ir vietovių teritorijos, apsaugos zonos bei pozoniai
@@ -852,11 +861,11 @@ pat miško ir vandens plotai, kuriems taikomi šio įstatymo ir kitų teisės ak
 reikalavimai, draudžiantys šiame pozonyje veiklą, galinčią fiziškai pakenkti
 kultūros paveldo objekto vertingosioms savybėms;
 2) vizualinės
-apsaugos pozonį – už kultūros paveldo objekto teritorijos ar apsaugos nuo fizinio
-poveikio pozonio esantys žemės sklypai ar jų dalys su ten esančiais kitais
-nekilnojamaisiais daiktais, kuriems taikomi šio įstatymo ir kitų teisės aktų
-reikalavimai, draudžiantys šiame pozonyje veiklą, galinčią trukdyti apžvelgti
-kultūros paveldo objektą.
+apsaugos pozonį – už kultūros paveldo objekto teritorijos ar apsaugos nuo
+fizinio poveikio pozonio esantys žemės sklypai ar jų dalys su ten esančiais
+kitais nekilnojamaisiais daiktais, kuriems taikomi šio įstatymo ir kitų teisės
+aktų reikalavimai, draudžiantys šiame pozonyje veiklą, galinčią trukdyti
+apžvelgti kultūros paveldo objektą.
 7. Apsaugos
 zonos ribos nustatomos vadovaujantis Teritorijų planavimo ir šiuo įstatymu.
 Draustinyje ar rezervate esančio kultūros paveldo objekto apsaugos zonos ribos
@@ -999,15 +1008,15 @@ nekilnojamosios kultūros vertybės pase užfiksuotą būklę.
 paveldo objekto būklė tikrinama kultūros ministro nustatyta tvarka. Patikrinimo
 aktas, jei tokiame objekte nebuvo atliekami tvarkybos darbai, jei nenustatyta
 jo sužalojimų ir jei nebuvo pažeisti jo naudojimo reikalavimai, galioja 6
-mėnesius nuo akto surašymo dienos. Perdavėjo ar įgijėjo pageidavimu už Vyriausybės
-nustatyto dydžio valstybės rinkliavą toks būklės patikrinimas gali būti
-atliktas ne vėliau kaip per 15 darbo dienų nuo pranešimo apie ketinimą sudaryti
-sandorį. 
+mėnesius nuo akto surašymo dienos. Perdavėjo ar įgijėjo pageidavimu už
+Vyriausybės nustatyto dydžio valstybės rinkliavą toks būklės patikrinimas gali
+būti atliktas ne vėliau kaip per 15 darbo dienų nuo pranešimo apie ketinimą
+sudaryti sandorį. 
 3. Kultūros
 paveldo objekto perdavėjo teisės, pareigos ir atsakomybė, patikrinus objekto
-būklę, pereina naujam valdytojui (įgijėjui) nuo perdavimo ir priėmimo akto
-pasirašymo. Jeigu patikrinimo metu nustatyta būklė neatitinka nekilnojamosios
-kultūros vertybės pase užfiksuotos būklės, už tai atsako perdavėjas. 
+būklę, pereina naujam valdytojui (įgijėjui) nuo perdavimo ir priėmimo akto pasirašymo.
+Jeigu patikrinimo metu nustatyta būklė neatitinka nekilnojamosios kultūros
+vertybės pase užfiksuotos būklės, už tai atsako perdavėjas. 
  
 16
 straipsnis. Apsaugos sutartys
@@ -1085,8 +1094,8 @@ valdytojui yra nuostolinga, jis gali kreiptis į instituciją, atsakingą už
 objekto ar vietovės apsaugą, ir prašyti leidimo organizuoti mokslinį to
 objekto, vietovės ar jų dalies ištyrimą arba perimti iš jo saugomą objektą,
 vietovę ar jų dalį. Ištirto objekto, vietovės ar jų dalies apsaugos
-reikalavimai gali būti pakeičiami teisės akte, skelbiančiame objektą saugomu, iš
-apsaugos tikslų išbraukus mokslinį pažinimą.
+reikalavimai gali būti pakeičiami teisės akte, skelbiančiame objektą saugomu,
+iš apsaugos tikslų išbraukus mokslinį pažinimą.
  
 18
 straipsnis. Nekilnojamojo kultūros paveldo tyrimas
@@ -1115,10 +1124,10 @@ savybės, atskleidimui reikalingus papildomus tyrimus organizuoja už apsaugą
 atsakinga institucija. Juos gali finansuoti valdytojas ar kitas tvarkybos
 organizatorius, norintis paspartinti tyrimus.
 5. Tyrimų metu
-rasti archeologiniai radiniai, jei yra galimybių, saugomi ir eksponuojami jų
-radimo vietoje. Kitais atvejais kultūros ministro patvirtinta tvarka jie
-perduodami muziejams, turintiems sąlygas išsaugoti ir eksponuoti. Už visuomenės
-poreikiams paimtus lobius atlyginama kultūros ministro patvirtinta tvarka. 
+rasti archeologiniai radiniai, jei yra galimybių, saugomi ir eksponuojami jų radimo
+vietoje. Kitais atvejais kultūros ministro patvirtinta tvarka jie perduodami
+muziejams, turintiems sąlygas išsaugoti ir eksponuoti. Už visuomenės poreikiams
+paimtus lobius atlyginama kultūros ministro patvirtinta tvarka. 
 6. Ardomieji
 tyrimai atliekami paveldo tvarkybos reglamentų nustatyta tvarka. Tyrimų
 ataskaitos rengiamos kultūros ministro patvirtinta tvarka. Leidimus
@@ -1145,12 +1154,12 @@ ir apsaugos zonoje statyti statinius, kurie aukščiu, apimtimi ar išraiška
 nustelbtų kultūros paveldo objektą ar objektus arba trukdytų juos
 apžvelgti;
 3) naikinti ar
-žaloti paminklines lentas, nekilnojamosios kultūros vertybės informacinius stendus
-arba kultūros paveldo objekto ar vietovės teritorijos riboženklius.
-3.
-Nekilnojamosios kultūros vertybės pase nurodytoms viešajam pažinimui ir
-naudojimui saugomo objekto ar vietovės neištirtoms dalims galioja šio įstatymo
-17 straipsnio reikalavimai.
+žaloti paminklines lentas, nekilnojamosios kultūros vertybės informacinius
+stendus arba kultūros paveldo objekto ar vietovės teritorijos riboženklius.
+3. Nekilnojamosios
+kultūros vertybės pase nurodytoms viešajam pažinimui ir naudojimui saugomo
+objekto ar vietovės neištirtoms dalims galioja šio įstatymo 17 straipsnio
+reikalavimai.
 4. Viešajam
 pažinimui ir naudojimui saugomoje nekilnojamojoje kultūros vertybėje draudžiami
 vertingąsias savybes naikinantys statybos darbai: kultūros paveldo objektą
@@ -1212,16 +1221,17 @@ straipsnis. Viešosios pagarbos nekilnojamojo kultūros paveldo apsauga
 prižiūrimos pagal Vyriausybės arba jos įgaliotos institucijos patvirtintas
 kapinių tvarkymo taisykles. Neveikiančių kapinių teritorijoms nustatoma
 pagrindinė konservacinė (saugojimo) žemės naudojimo paskirtis, o ši gali būti
-pakeista tik pripažinus kitokio visuomenės poreikio viršenybę ir perkėlus mirusiųjų
-palaikus.
+pakeista tik pripažinus kitokio visuomenės poreikio viršenybę ir perkėlus
+mirusiųjų palaikus.
 2.
 Viešosios pagarbos nekilnojamojo kultūros paveldo vieta gali būti saugoma, nors
 ir nėra jokių žmogų, įvykį ar kitokias jos vertingąsias savybes liudijančių
-autentiškų dalių ar elementų. Ši vieta žymima paminklinėmis lentomis, skulptūros
-kūriniais, memorialiniais statiniais, buvusią įvykio ar gyvenamąją aplinką
-parodančiais daiktais. Draudžiama griauti ar žaloti statinius, skirtus tokios
-vietos vertingosioms savybėms pažymėti. Šie statiniai gali būti keičiami ar
-statomi nauji tik gavus už tos vietos apsaugą atsakingos institucijos sutikimą.
+autentiškų dalių ar elementų. Ši vieta žymima paminklinėmis lentomis,
+skulptūros kūriniais, memorialiniais statiniais, buvusią įvykio ar gyvenamąją
+aplinką parodančiais daiktais. Draudžiama griauti ar žaloti statinius, skirtus
+tokios vietos vertingosioms savybėms pažymėti. Šie statiniai gali būti keičiami
+ar statomi nauji tik gavus už tos vietos apsaugą atsakingos institucijos
+sutikimą.
  
 21 straipsnis.
 Nekilnojamojo kultūros paveldo, esančio draustinyje, rezervate, valstybiniame
@@ -1258,9 +1268,9 @@ tarptautinį bendradarbiavimą;
 5.
 Departamentas, vykdydamas nekilnojamojo kultūros paveldo apsaugą draustiniuose,
 rezervatuose ir valstybiniuose parkuose, kontroliuoja:
-1) kaip
-laikomasi nustatyto apsaugos ir naudojimo režimo, kaip užtikrinama kultūros
-paveldo objektų apsauga ir tvarkyba, kaip įgyvendinamos tikslinės programos; 
+1) kaip laikomasi
+nustatyto apsaugos ir naudojimo režimo, kaip užtikrinama kultūros paveldo
+objektų apsauga ir tvarkyba, kaip įgyvendinamos tikslinės programos; 
 2) veiklą
 valstybiniuose draustiniuose, susijusią su draustinių nuostatuose ir teritorijų
 planavimo dokumentuose nustatytais paveldosaugos reikalavimais.
@@ -1328,10 +1338,10 @@ tūrį, užstatymo tankį ir intensyvumą, išorės apdailos medžiagas, apželd
 6. Nekilnojamojo
 kultūros paveldo apsaugos specialiojo teritorijų planavimo dokumentai rengiami
 pagal Kultūros ministerijos parengtas ir kultūros ir aplinkos ministrų
-patvirtintas šių dokumentų rengimo taisykles. Taisyklėse nustatomi nekilnojamojo
-kultūros paveldo apsaugos planavimo dokumentai, šiuose dokumentuose nustatomos
-teritorinės apsaugos priemonės, šių dokumentų rengimo, viešo svarstymo,
-derinimo, tvirtinimo ir galiojimo tvarka. 
+patvirtintas šių dokumentų rengimo taisykles. Taisyklėse nustatomi
+nekilnojamojo kultūros paveldo apsaugos planavimo dokumentai, šiuose
+dokumentuose nustatomos teritorinės apsaugos priemonės, šių dokumentų rengimo,
+viešo svarstymo, derinimo, tvirtinimo ir galiojimo tvarka. 
 7. Teritorijų,
 kuriose yra registruotų nekilnojamųjų kultūros vertybių, bendrieji ir detalieji
 planai tvirtinami pagal teritorijų planavimo dokumentus tvirtinančių
@@ -1352,12 +1362,13 @@ planuojamoje teritorijoje yra registruotų nekilnojamųjų kultūros vertybių,
 rengiant bendruosius, specialiuosius ir detaliuosius planus turi būti
 konsultuojamasi su Departamento įgaliotu specialistu.
 10. Nekilnojamojo
-kultūros paveldo apsaugos specialiojo planavimo dokumentus rengia atestuoti specialistai
-ir gali rengti juridiniai asmenys, kai tiems darbams vadovauja atestuoti
-specialistai ir jeigu juridinių asmenų įstatuose numatyta teritorijų planavimo
-veikla. Specialistų atestavimo tvarką nustato aplinkos ir kultūros ministrai.
-11. Valstybės saugomų
-kultūros paveldo vietovių ir jų apsaugos zonų tvarkymo planus tvirtina kultūros
+kultūros paveldo apsaugos specialiojo planavimo dokumentus rengia atestuoti
+specialistai ir gali rengti juridiniai asmenys, kai tiems darbams vadovauja
+atestuoti specialistai ir jeigu juridinių asmenų įstatuose numatyta teritorijų
+planavimo veikla. Specialistų atestavimo tvarką nustato aplinkos ir kultūros
+ministrai.
+11. Valstybės
+saugomų kultūros paveldo vietovių ir jų apsaugos zonų tvarkymo planus tvirtina kultūros
 ministras, savivaldybės saugomų kultūros paveldo vietovių tvarkymo planus
 tvirtina savivaldybės taryba.
 12. Šiame
@@ -1368,8 +1379,8 @@ apsaugos zonoje, savininkai ar kiti valdymo teisių turėtojai.
 Straipsnio
 pakeitimai:
 Nr.
-X-1531,
-2008-05-08, Žin., 2008, Nr. 59-2203 (2008-05-24)
+X-1531, 2008-05-08,
+Žin., 2008, Nr. 59-2203 (2008-05-24)
 Nr.
 XI-2389,
 2012-11-08, Žin., 2012, Nr. 136-6960 (2012-11-24)
@@ -1417,9 +1428,10 @@ vietoje, turi būti imamasi visų būtinų atsargos priemonių.
 tvarkomųjų paveldosaugos darbų projektus, atlikti tvarkomuosius paveldosaugos
 darbus, paveldosaugos (specialiąją) ekspertizę, vadovauti tokiems darbams turi
 teisę kultūros ministro patvirtinta tvarka atestuotas specialistas. Kai kuriuos
-darbus gali atlikti neatestuoti pagalbininkai, prižiūrimi atestuoto specialisto,
-atsakančio už tokius darbus. Teisę fiziniams ir juridiniams asmenims būti
-tokios veiklos rangovais ar paslaugų teikėjais nustato šis ir kiti įstatymai. 
+darbus gali atlikti neatestuoti pagalbininkai, prižiūrimi atestuoto
+specialisto, atsakančio už tokius darbus. Teisę fiziniams ir juridiniams
+asmenims būti tokios veiklos rangovais ar paslaugų teikėjais nustato šis ir
+kiti įstatymai. 
 7. Vadovauti
 kultūros paveldo statinių tvarkomųjų statybos darbų projektams, tokiems
 darbams, projekto vykdymo priežiūrai, tokio statinio projekto ekspertizei,
@@ -1449,14 +1461,14 @@ darbus išduodami kultūros ministro patvirtinta tvarka. Leidimai išduodami ne
 vėliau kaip per vieną mėnesį nuo projekto ar pataisyto projekto pateikimo
 dienos. 
 10. Kultūros
-paveldo objekte atliekamų tvarkybos darbų projekto vykdymo eigą ir kokybę kontroliuojantys
-valdytojas, Departamentas ir savivaldybės institucijos bei kituose įstatymuose
-nurodyti subjektai, nustatę, kad atliekant darbus buvo pažeisti paveldosaugos
-reikalavimai ar kad dėl projekto klaidų iškilo vertingųjų savybių praradimo ar
-sužalojimo grėsmė, apie tai privalo pranešti Departamentui. Departamentas
-privalo sustabdyti kultūros paveldo objekto vertingąsias savybes žalojančius ar
-joms grėsmę keliančius darbus. Toks sustabdymas galioja, kol bus pašalinti paveldosaugos reikalavimų pažeidimai,
-iškilusi grėsmė ar iki teismo sprendimo.
+paveldo objekte atliekamų tvarkybos darbų projekto vykdymo eigą ir kokybę
+kontroliuojantys valdytojas, Departamentas ir savivaldybės institucijos bei kituose
+įstatymuose nurodyti subjektai, nustatę, kad atliekant darbus buvo pažeisti
+paveldosaugos reikalavimai ar kad dėl projekto klaidų iškilo vertingųjų savybių
+praradimo ar sužalojimo grėsmė, apie tai privalo pranešti Departamentui.
+Departamentas privalo sustabdyti kultūros paveldo objekto vertingąsias savybes
+žalojančius ar joms grėsmę keliančius darbus. Toks sustabdymas galioja, kol bus pašalinti paveldosaugos
+reikalavimų pažeidimai, iškilusi grėsmė ar iki teismo sprendimo.
 11. Neteko
 galios nuo 2013-07-01.
 12. Kultūros
@@ -1493,13 +1505,13 @@ pažintinis turizmas yra vienas iš kultūros paveldo viešojo naudojimo būdų.
 būtų galima jį nuolat plėtoti, būtina išsaugoti paveldo autentišką pavidalą. 
 3.
 Departamentas, taip pat savivaldybių paveldosaugos padaliniai, valstybinių
-parkų, kultūrinių rezervatų direkcijos kartu su muziejais, bibliotekomis,
-archyvais, aukštosiomis ir bendrojo lavinimo mokyklomis:
+parkų, kultūrinių rezervatų direkcijos kartu su muziejais, bibliotekomis, archyvais,
+aukštosiomis ir bendrojo lavinimo mokyklomis:
 1) kaupia,
 tvarko, sistemina, saugo ir skleidžia žinias apie nekilnojamąjį kultūros
 paveldą ir jo apsaugą;
-2) organizuoja su
-kultūros paveldu supažindinančius ir jį garsinančius renginius;
+2) organizuoja
+su kultūros paveldu supažindinančius ir jį garsinančius renginius;
 3) leidžia
 kultūros paveldą ir jo apsaugą populiarinančius informacinius leidinius ir
 organizuoja paveldosaugos literatūros leidybą;
@@ -1515,8 +1527,9 @@ mokslo ministerija kartu su Kultūros ministerija:
 valstybinę nekilnojamojo kultūros paveldo fundamentinio mokslinio tyrimo
 programą ir koordinuoja jos vykdymą;
 2) užtikrina,
-kad kultūros paveldo teorinis ir praktinis pažinimas būtų integruoti į ikimokyklinio
-ugdymo, bendrojo vaikų ir jaunimo lavinimo, suaugusiųjų švietimo programas;
+kad kultūros paveldo teorinis ir praktinis pažinimas būtų integruoti į
+ikimokyklinio ugdymo, bendrojo vaikų ir jaunimo lavinimo, suaugusiųjų švietimo
+programas;
 3) rūpinasi
 pedagogų kvalifikacijos kėlimu kultūros paveldo pažinimo ir jo saugojimo
 srityje;
@@ -1529,8 +1542,8 @@ galimybes įgyti ir nuolat tobulinti profesines paveldosaugos žinias ir
  
 25
 straipsnis. Nekilnojamųjų kultūros vertybių prieinamumas
-1. Kiekvienas visuomenės
-narys turi teisę pažinti nekilnojamąsias kultūros vertybes.
+1. Kiekvienas
+visuomenės narys turi teisę pažinti nekilnojamąsias kultūros vertybes.
 2. Vyriausybė,
 jeigu reikia, kad kultūros paminklas būtų išsaugotas ir prieinamas visuomenei,
 turi teisę kultūros paminklus paimti visuomenės poreikiams įstatymų nustatyta
@@ -1550,10 +1563,9 @@ kultūros paveldo objektas iš visų pusių apsuptas privačios nuosavybės teis
 valdomų sklypų, jų savininkai ar kiti valdytojai privalo leisti lankytojams
 prieiti iki šio objekto. 
 7. Rengiant
-viešojo pažinimo ir naudojimo kultūros paveldo objekto teritorijos ir apsaugos
-zonų ribų planą arba paveldotvarkos projektą, turi būti numatyti servitutai
-prieiti prie kultūros paveldo objektų ir jų apžiūros vietų. Šie servitutai
-įteisinami pagal Civilinio kodekso ir Žemės įstatymo reikalavimus.
+teritorijų planavimo dokumentus, turi būti numatyti servitutai prieiti prie
+viešojo pažinimo ir naudojimo kultūros paveldo objektų ir jų apžiūros
+vietų. Šie servitutai įteisinami pagal Civilinio kodekso ir Žemės įstatymo reikalavimus.
 8. Jeigu
 lankytojams buvo leidžiama prieiti prie kultūros paveldo objekto, tačiau ši
 teisė nebuvo įrašyta į tokį objektą supančių sklypų nuosavybės teisių
@@ -1563,6 +1575,11 @@ servitutų įteisinimą.
 kultūros paveldo objekto ar vietovės vertingąsias savybes žaloja pernelyg
 intensyvus lankymas ir žalojimo negalima išvengti techninėmis priemonėmis, gali
 būti įvestas užmokestis už lankymą arba kitaip mažinamas lankytojų srautas.
+Straipsnio
+pakeitimai:
+Nr.
+XII-416,
+2013-06-27, Žin., 2013, Nr. 76-3833 (2013-07-16)
  
 26
 straipsnis. Nekilnojamojo kultūros paveldo atgaivinimas
@@ -1590,11 +1607,10 @@ kultūros paveldo apsaugos finansavimas
 nekilnojamojo kultūros paveldo apskaitos, paveldotvarkos ir kontrolės programos
 finansuojamos iš valstybės biudžeto lėšų. 
 2.
-Nekilnojamosios kultūros vertybės atskleidžiamos ir objektai skelbiami
-saugomais valstybės ir savivaldybių biudžetų paveldosaugai skirtomis lėšomis.
-Tokios vertybės atskleidimą turi teisę savo lėšomis atlikti religinės
-bendruomenės, bendrijos ir centrai, taip pat paveldosaugos visuomeninės
-organizacijos. 
+Nekilnojamosios kultūros vertybės atskleidžiamos ir objektai skelbiami saugomais
+valstybės ir savivaldybių biudžetų paveldosaugai skirtomis lėšomis. Tokios
+vertybės atskleidimą turi teisę savo lėšomis atlikti religinės bendruomenės,
+bendrijos ir centrai, taip pat paveldosaugos visuomeninės organizacijos. 
 3. Saugomo objekto priežiūros darbai atliekami valdytojų lėšomis,
 tvarkybos darbai – valdytojų lėšomis, jei yra galimybių - iš dalies valstybės ar savivaldybių biudžetų lėšomis, skirtomis
 paveldotvarkai, tarptautinių fondų ir programų ar kitų finansavimo šaltinių
@@ -1648,9 +1664,9 @@ patiria visuomenė ir valdytojas.
 2. Už
 nekilnojamosios kultūros vertybės apsaugą atsakinga institucija privalo
 pasiūlyti žalą padariusiam asmeniui atkurti iki sužalojimo buvusią būklę ir
-atlyginti dėl padarytos žalos patirtus nuostolius. Jeigu nesutariama, Departamentas
-teikia ieškinius teismui dėl nekilnojamajai kultūros vertybei padarytos žalos
-atlyginimo ir nuostolių išieškojimo.
+atlyginti dėl padarytos žalos patirtus nuostolius. Jeigu nesutariama,
+Departamentas teikia ieškinius teismui dėl nekilnojamajai kultūros vertybei
+padarytos žalos atlyginimo ir nuostolių išieškojimo.
 3. Į valstybės
 patirtus nuostolius gali būti įskaičiuojamos valstybės ir savivaldybių biudžetų
 išlaidos sužalotos kultūros vertybės tvarkybai, negautos pajamos iš turizmo,
@@ -1672,9 +1688,9 @@ nustatyta tvarka, jeigu:
 1) kultūros
 vertybė yra įsteigtame arba steigiamame valstybiniame kultūriniame rezervate
 (rezervate-muziejuje);
-2) kultūros vertybėms
-eksponuoti steigiamas ar įsteigtas valstybinis muziejus ar valstybinio
-muziejaus filialas;
+2) kultūros
+vertybėms eksponuoti steigiamas ar įsteigtas valstybinis muziejus ar
+valstybinio muziejaus filialas;
 3)     kultūros
 paminklas įrašomas į valstybinės reikšmės istorijos, archeologijos ir kultūros
 objektų sąrašą, kad būtų užtikrintas jo prieinamumas, lankymas ar pažinimas.
@@ -1688,8 +1704,8 @@ valstybės nuosavybėn įstatymų nustatyta tvarka.
 Straipsnio
 pakeitimai:
 Nr.
-XI-2389, 2012-11-08, Žin., 2012, Nr. 136-6960
-(2012-11-24)
+XI-2389, 2012-11-08, Žin., 2012, Nr.
+136-6960 (2012-11-24)
  
 31 straipsnis. Atsakomybė už šio
 įstatymo pažeidimus
@@ -1808,8 +1824,8 @@ straipsnis. Nutarimai, priimami išnagrinėjus bylą
 teisę priimti nutarimą:
 1) skirti šio
 įstatymo 31 straipsnio 2 dalyje nustatytą baudą, kurios dydis nustatomas
-atsižvelgiant į padaryto teisės pažeidimo pobūdį, mastą, atsakomybę
-lengvinančias, sunkinančias aplinkybes ir kitas reikšmingas aplinkybes;
+atsižvelgiant į padaryto teisės pažeidimo pobūdį, mastą, atsakomybę lengvinančias,
+sunkinančias aplinkybes ir kitas reikšmingas aplinkybes;
 2) bylą
 nutraukti, kai nėra padarytas šio įstatymo pažeidimas;
 3) grąžinti bylą
@@ -1926,8 +1942,8 @@ STRAIPSNIO PAPILDYMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-IX-991,
-2002-06-25, Žin., 2002, Nr. 68-2775 (2002-07-03)
+IX-991, 2002-06-25,
+Žin., 2002, Nr. 68-2775 (2002-07-03)
 NEKILNOJAMŲJŲ
 KULTŪROS VERTYBIŲ APSAUGOS ĮSTATYMO 21, 22 IR 23 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
@@ -2016,11 +2032,20 @@ nuostatas, galiojusias iki 2013 m. liepos 1 d., ir kitus šių teritorijų
 planavimo dokumentų rengimą reglamentavusius teisės aktus, prilyginami tvarkymo
 planams.
  
+14.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XII-416,
+2013-06-27, Žin., 2013, Nr. 76-3833 (2013-07-16)
+NEKILNOJAMOJO
+KULTŪROS PAVELDO APSAUGOS ĮSTATYMO 10 IR 25 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
  
 ***
 Pabaiga ***
  
+ 
 Redagavo
-Aušrinė Trapinskienė (2012-11-29)
+Aušrinė Trapinskienė (2013-07-16)
                  
 ausrine.trapinskiene@lrs.lt
