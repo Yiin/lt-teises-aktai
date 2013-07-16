@@ -21,8 +21,11 @@ tekstas
 LIETUVOS RESPUBLIKOS
 PAJŪRIO JUOSTOS 
 ĮSTATYMAS
+ 
 2002 m. liepos 2 d. Nr. IX-1016
 Vilnius
+ 
+ 
 
 
 
@@ -108,6 +111,18 @@ pateikia Lietuvos Respublikos Vyriausybės
 įgaliota institucija, suderinusi juos su saugomų teritorijų direkcijomis, savivaldybėmis,
 kitomis suinteresuotomis institucijomis ir valstybinės žemės, patenkančios į
 pajūrio juostą, patikėtiniais.
+Dalies
+redakcija nuo 2014-01-01:
+2.
+Pajūrio juostos ribas Lietuvos Respublikos Vyriausybės ar jos įgaliotos
+institucijos nustatyta tvarka nustato ir keičia Lietuvos Respublikos Vyriausybė
+Aplinkos ministerijos teikimu. Pajūrio juostos ribų plano (schemos) projektą ir
+kitus pajūrio juostos riboms tvirtinti reikalingus dokumentus Aplinkos
+ministerijai pateikia Lietuvos Respublikos Vyriausybės įgaliota institucija,
+suderinusi juos su saugomų teritorijų direkcijomis, savivaldybėmis, kitomis
+suinteresuotomis institucijomis ir valstybinės žemės, patenkančios į pajūrio
+juostą, patikėtiniais.
+ 
 3. Pajūrio juostos ribos turi būti pažymėtos visuose
 rengiamuose šios teritorijos planavimo dokumentuose ir kartografinėje
 medžiagoje.
@@ -115,6 +130,9 @@ Straipsnio
 pakeitimai:
 Nr. XI-825,
 2010-05-20, Žin., 2010, Nr. 65-3194 (2010-06-05)
+Nr.
+XII-417,
+2013-06-27, Žin., 2013, Nr. 76-3834 (2013-07-16)
  
 TREČIASIS SKIRSNIS
 PAJŪRIO JUOSTOS naudojimo sąlygos ir ūkinės veiklos joje
@@ -128,11 +146,11 @@ priklauso Lietuvos Respublikai. Pajūrio juostos žemė valdoma ir naudojama Že
 įstatymo nustatyta tvarka. 
 2. Pajūrio
 juostoje privačios nuosavybės teise priklausantys žemės sklypai, suteikti iki
-šio Įstatymo įsigaliojimo, yra nedalomi dalimis parduodant, išnuomojant,
-atidalijant, įkeičiant, dovanojant. Valstybė turi pirmumo teisę tokiomis
-pačiomis sąlygomis Civilinio kodekso, Žemės įstatymo nustatyta tvarka įsigyti
-žemės savininkų parduodamus žemės sklypus, kurie buvo jiems suteikti pajūrio
-juostoje iki šio Įstatymo įsigaliojimo. 
+šio Įstatymo įsigaliojimo, yra nedalomi dalimis parduodant, išnuomojant, atidalijant,
+įkeičiant, dovanojant. Valstybė turi pirmumo teisę tokiomis pačiomis sąlygomis
+Civilinio kodekso, Žemės įstatymo nustatyta tvarka įsigyti žemės savininkų
+parduodamus žemės sklypus, kurie buvo jiems suteikti pajūrio juostoje iki šio
+Įstatymo įsigaliojimo. 
 3. Žemės
 naudojimo režimą pajūrio juostoje nustato šis Įstatymas ir kiti teisės aktai,
 taip pat Teritorijų planavimo įstatymo nustatyta tvarka parengti ir patvirtinti
@@ -155,6 +173,32 @@ specialieji infrastruktūros plėtros (komunikacinių koridorių, inžinerinių
 tinklų) planai, kai planuojamos valstybinės reikšmės ūkinės veiklos
 įgyvendinimas yra numatytas Lietuvos Respublikos Vyriausybės patvirtintuose
 valstybės strateginiuose planuose.
+Dalies
+redakcija nuo 2014-01-01:
+3. Žemės
+tvarkymą pajūrio juostoje nustato šis Įstatymas ir kiti teisės aktai, taip pat
+Teritorijų planavimo įstatymo nustatyta tvarka parengti ir patvirtinti šie
+teritorijų planavimo dokumentai:
+1) Kuršių
+nerijos nacionalinio parko tvarkymo planas – specialiojo teritorijų planavimo
+dokumentas;
+2) Pajūrio
+regioninio parko tvarkymo planas – specialiojo teritorijų planavimo dokumentas;
+3) Pajūrio
+juostos žemyninės dalies tvarkymo planas – specialiojo teritorijų planavimo
+dokumentas; šio plano rengimo organizatorė yra Aplinkos ministerija. Pajūrio
+juostos žemyninės dalies tvarkymo planą tvirtina Aplinkos ministerija;
+4) Neringos
+savivaldybės, Klaipėdos ir Palangos miestų, Klaipėdos rajono savivaldybių
+bendrieji planai;
+5) Neringos,
+Klaipėdos ir Palangos miestų ir Klaipėdos rajono vietovės lygmens teritorijų
+planavimo dokumentai;
+6)
+inžinerinės infrastruktūros vystymo planai, kai planuojamos valstybinės
+reikšmės ūkinės veiklos įgyvendinimas yra numatytas Lietuvos Respublikos
+Vyriausybės patvirtintuose valstybės strateginiuose planuose.
+ 
 4. Šio
 straipsnio 3 dalies 1, 3
 ir 6 punktuose nurodytus teritorijų planavimo dokumentus Teritorijų planavimo
@@ -162,10 +206,15 @@ ir 6 punktuose nurodytus teritorijų planavimo dokumentus Teritorijų planavimo
 įgaliota institucija, 2 punkte nurodytąjį – Lietuvos Respublikos Vyriausybės
 įgaliota institucija, šio straipsnio 4 ir 5 punktuose nurodytuosius –
 savivaldybių institucijos.
+4
+dalis netenka galios nuo 2014-01-01.
 Straipsnio
 pakeitimai:
 Nr. XI-825,
 2010-05-20, Žin., 2010, Nr. 65-3194 (2010-06-05)
+Nr.
+XII-417,
+2013-06-27, Žin., 2013, Nr. 76-3834 (2013-07-16)
  
 6
 straipsnis. Bendrieji ūkinės veiklos apribojimai
@@ -222,6 +271,9 @@ statiniai ir inžineriniai statiniai, jeigu yra sudaryta ilgalaikė jų užimam�
 teise;
 6) vykdoma
 statinių, nurodytų šio Įstatymo 5 straipsnyje, statyba;
+6
+punktas netenka galios nuo 2014-01-01.
+ 
 7) statomi nauji
 pastatai vietoj buvusių, skaidant ir mažinant stambių pastatų tūrius, keičiant
 jų paskirtį, nesukeliant naujų neigiamų pasekmių gyvenimo ir aplinkos kokybei.
@@ -232,6 +284,16 @@ dalies 3 ir 4 punktuose nurodytų teritorijų planavimo dokumentų sprendiniuose
 išduoda savivaldybės administracijos direktorius (jo įgaliotas savivaldybės
 administracijos valstybės tarnautojas). Statybos leidimą dėl visų naujų
 statinių išduoda Lietuvos Respublikos Vyriausybės įgaliota institucija.
+Dalies
+redakcija nuo 2014-01-01:
+2. Statybos
+leidimą dėl šio straipsnio 1 dalies 2, 3, 4, 5 punktuose išvardytų statinių ir
+dėl statinių, kurių statyba numatyta šio Įstatymo 5 straipsnio 3 dalies 3 ir 4
+punktuose nurodytų teritorijų planavimo dokumentų sprendiniuose, išduoda
+savivaldybės administracijos direktorius (jo įgaliotas savivaldybės
+administracijos valstybės tarnautojas). Statybos leidimą dėl visų naujų
+statinių išduoda Lietuvos Respublikos Vyriausybės įgaliota institucija.
+ 
 3.
 Pasiūlymas dėl statinių statybos pajūrio juostoje Lietuvos Respublikos
 Vyriausybei rengiamas ir teikiamas šia tvarka:
@@ -250,9 +312,9 @@ Lietuvos Respublikos Vyriausybės įgaliota institucija pagal gautus dokumentus
 (projektinius pasiūlymus, viešo svarstymo išvadas ir suinteresuotų institucijų
 ir organizacijų pasiūlymus) parengia išvadą, ar numatoma statyba ir veikla
 atitinka šio Įstatymo 5 straipsnyje nurodytų teritorijų planavimo dokumentų
-sprendinius ir pajūrio juostos nustatymo tikslus. Parengtą išvadą ir su ja susijusius
-dokumentus Lietuvos Respublikos Vyriausybės įgaliota institucija pateikia
-Aplinkos ministerijai;
+sprendinius ir pajūrio juostos nustatymo tikslus. Parengtą išvadą ir su ja
+susijusius dokumentus Lietuvos Respublikos Vyriausybės įgaliota institucija
+pateikia Aplinkos ministerijai;
 4)
 Aplinkos ministerija, gautus dokumentus apsvarsčiusi ir įvertinusi, priima
 sprendimą dėl jų teikimo Lietuvos Respublikos Vyriausybei sprendimui priimti.
@@ -264,6 +326,9 @@ Straipsnio
 pakeitimai:
 Nr. XI-825,
 2010-05-20, Žin., 2010, Nr. 65-3194 (2010-06-05)
+Nr.
+XII-417,
+2013-06-27, Žin., 2013, Nr. 76-3834 (2013-07-16)
  
 8
 straipsnis. Krantotvarka ir ypatingos ekologinės situacijos
@@ -323,21 +388,35 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS
 ADAMKUS
-_______________
  
 Pakeitimai:
  
 1.
-Lietuvos Respublikos
-Seimas, Įstatymas
+Lietuvos
+Respublikos Seimas, Įstatymas
 Nr. XI-825,
 2010-05-20, Žin., 2010, Nr. 65-3194 (2010-06-05)
 PAJŪRIO JUOSTOS
 ĮSTATYMO 4, 5, 6, 7, 8 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas, išskyrus 4
 straipsnį, įsigalioja 2010 m. liepos 1 d.
-*** Pabaiga ***
-Redagavo Aušrinė Trapinskienė
-(2010-06-07)
+ 
+2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XII-417,
+2013-06-27, Žin., 2013, Nr. 76-3834 (2013-07-16)
+PAJŪRIO
+JUOSTOS ĮSTATYMO 4, 5 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas, išskyrus 4 straipsnį, įsigalioja 2014 m. sausio 1 d.
+ 
+***
+Pabaiga ***
+ 
+ 
+Redagavo
+Aušrinė Trapinskienė (2013-07-25)
                  
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
