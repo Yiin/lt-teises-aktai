@@ -20,6 +20,10 @@ LIETUVOS RESPUBLIKOS ENERGIJOS IŠTEKLIŲ RINKOS ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2013-07-20 iki 2013-12-31
+ 
+Įstatymas paskelbtas: Žin. 2012, Nr. 63-3164, i. k. 1121010ISTA0XI-2023
+ 
 LIETUVOS RESPUBLIKOS 
 ENERGIJOS IŠTEKLIŲ RINKOS 
 ĮSTATYMAS
@@ -34,23 +38,25 @@ BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas nustato Lietuvos Respublikos energijos išteklių rinkos organizavimo, administravimo, reguliavimo, priežiūros ir kontrolės teisinius pagrindus, taip pat reglamentuoja centralizuotos prekybos biokuru ir naftos produktų atsargomis, prekybos gamtinėmis dujomis ir pagalbiniais apsaugos nuo energijos kainų svyravimo instrumentais visuomeninius santykius.
-
-
-
-
-2. Šis įstatymas taikomas prekybai energijos ištekliais tiek, kiek to nereglamentuoja Lietuvos Respublikos elektros energetikos įstatymas (toliau – Elektros energetikos įstatymas), Lietuvos Respublikos gamtinių dujų įstatymas (toliau – Gamtinių dujų įstatymas), Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas (toliau – Atsinaujinančių išteklių energetikos įstatymas), Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymas (toliau – Naftos produktų ir naftos valstybės atsargų įstatymas) ir (ar) kiti įstatymai, nustatantys specialiuosius reikalavimus prekybai energija ar energijos ištekliais.
+1. Šis įstatymas nustato Lietuvos Respublikos energijos išteklių rinkos organizavimo, administravimo, reguliavimo, priežiūros ir kontrolės teisinius pagrindus, taip pat reglamentuoja centralizuotos prekybos biokuru, prekybos gamtinėmis dujomis ir pagalbiniais apsaugos nuo energijos kainų svyravimo instrumentais visuomeninius santykius.
 
 
 
 
-3. Energetikos įmonėms įsigyjant energijos išteklius elektros ir (ar) šilumos energijai gaminti, šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose reglamentuojamam energijos išteklių, skirtų elektros ir (ar) šilumos energijai gaminti, įsigijimo energijos išteklių biržoje būdui turi būti teikiama pirmenybė prieš kitus teisės aktuose numatytus energijos išteklių įsigijimo būdus. Kiti teisės aktuose numatyti energijos išteklių įsigijimo būdai taikytini tada, kai tais būdais įsigyti energijos išteklių, skirtų elektros ir (ar) šilumos energijai gaminti, yra ekonomiškai naudingiau arba įstatymai nustato energetikos įmonėms privalomus vykdyti reikalavimus dėl energijos išteklių įsigijimo šaltinio ir (ar) būdo.
+2. Šis įstatymas taikomas prekybai energijos ištekliais tiek, kiek to nereglamentuoja Lietuvos Respublikos elektros energetikos įstatymas (toliau – Elektros energetikos įstatymas), Lietuvos Respublikos gamtinių dujų įstatymas (toliau – Gamtinių dujų įstatymas), Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas (toliau – Atsinaujinančių išteklių energetikos įstatymas) ir (ar) kiti įstatymai, nustatantys specialiuosius reikalavimus prekybai energija ar energijos ištekliais.
+
+
+
+
+3. Energetikos įmonėms įsigyjant energijos išteklius elektros ir (ar) šilumos energijai gaminti, šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose reglamentuojamam energijos išteklių, skirtų elektros ir (ar) šilumos energijai gaminti, įsigijimo energijos išteklių biržoje būdui turi būti teikiama pirmenybė prieš kitus teisės aktuose numatytus energijos išteklių įsigijimo būdus. Kiti teisės aktuose numatyti energijos išteklių įsigijimo būdai taikytini tada, kai tais būdais įsigyti energijos išteklių, skirtų elektros ir (ar) šilumos energijai gaminti, yra ekonomiškai naudingiau arba dėl objektyvių priežasčių nebuvo galima įsigyti reikalingo atitinkamos biokuro rūšies kiekio ar jo dalies, arba įstatymai nustato energetikos įmonėms privalomus vykdyti reikalavimus dėl energijos išteklių įsigijimo šaltinio ir (ar) būdo.
+
+
+Straipsnio pakeitimai:
+Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010ISTA0XII-493
  
-
-
 
 
 
@@ -58,7 +64,10 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Energijos išteklių birža – centralizuota prekybos energijos ištekliais sistema, kurioje šio įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka centralizuotai prekiaujama biokuru ir naftos produktų atsargomis, prekiaujama gamtinėmis dujomis ir pagalbiniais apsaugos nuo energijos kainų svyravimo instrumentais.
+1. Energijos išteklių birža – centralizuota prekybos energijos ištekliais sistema, kurioje centralizuotai prekiaujama biokuru, gamtinėmis dujomis ir pagalbiniais apsaugos nuo energijos kainų svyravimo instrumentais. 
+Straipsnio dalies pakeitimai:
+Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010ISTA0XII-493
+ 
 
 
 
@@ -98,7 +107,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-9. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos energetikos įstatyme (toliau – Energetikos įstatymas), Elektros energetikos įstatyme, Gamtinių dujų įstatyme, Atsinaujinančių išteklių energetikos įstatyme ir Naftos produktų ir naftos valstybės atsargų įstatyme.
+9. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos energetikos įstatyme (toliau – Energetikos įstatymas), Elektros energetikos įstatyme, Gamtinių dujų įstatyme, Atsinaujinančių išteklių energetikos įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010ISTA0XII-493
  
 
 
@@ -127,7 +138,10 @@ Pagrindiniai šio įstatymo tikslai:
 
 
 
-4) sudaryti sąlygas energijos išteklių rinkos dalyviams efektyviai prekiauti biokuru ir naftos produktų atsargomis – sukurti centralizuotą elektroninę prekybos sistemą;
+4) sudaryti sąlygas energijos išteklių rinkos dalyviams efektyviai prekiauti biokuru ir sukurti centralizuotą elektroninę prekybos sistemą;
+Straipsnio punkto pakeitimai:
+Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010ISTA0XII-493
+ 
 
 
 
@@ -167,7 +181,9 @@ ENERGIJOS IŠTEKLIŲ RINKOS VALSTYBINIS VALDYMAS IR REGULIAVIMAS
 
 
 
-2. Energijos išteklių rinka reguliuojama vadovaujantis atskirų energetikos sektorių reguliavimo tikslais, siekiant sudaryti efektyvios, skaidrios ir konkurencingos prekybos energija ir energijos ištekliais, tarp jų – centralizuotos prekybos biokuru ir naftos produktų atsargomis, prekybos gamtinėmis dujomis ir pagalbiniais instrumentais teisines sąlygas.
+2. Energijos išteklių rinka reguliuojama vadovaujantis atskirų energetikos sektorių reguliavimo tikslais, siekiant sudaryti efektyvios, skaidrios ir konkurencingos prekybos energija ir energijos ištekliais, tarp jų – centralizuotos prekybos biokuru, gamtinėmis dujomis ir pagalbiniais instrumentais, teisines sąlygas.
+Straipsnio dalies pakeitimai:
+Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010ISTA0XII-493
  
 
 
@@ -238,22 +254,25 @@ Lietuvos Respublikos energetikos ministerija (toliau – Energetikos ministerija
 
 
 
-2) tvirtina Centralizuotos prekybos naftos produktų atsargomis taisykles;
+2) tvirtina Prekybos pagalbiniais apsaugos nuo energijos kainų svyravimo instrumentais taisykles;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010ISTA0XII-493
+ 
 
 
 
 
-3) tvirtina Prekybos pagalbiniais apsaugos nuo energijos kainų svyravimo instrumentais taisykles;
+3) teikia Vyriausybei pasiūlymą dėl pradinio energijos išteklių rinkos plėtros etapo, kaip nurodyta šio įstatymo 10 straipsnio 5 dalyje, pabaigos ir prekybos pagalbiniais instrumentais priskyrimo finansinių priemonių rinkų reguliavimo sričiai;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010ISTA0XII-493
+ 
 
 
 
 
-4) teikia Vyriausybei pasiūlymą dėl pradinio energijos išteklių rinkos plėtros etapo, kaip nurodyta šio įstatymo 10 straipsnio 5 dalyje, pabaigos ir prekybos pagalbiniais instrumentais priskyrimo finansinių priemonių rinkų reguliavimo sričiai;
-
-
-
-
-5) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
+4) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010ISTA0XII-493
  
 
 
@@ -334,7 +353,10 @@ ENERGIJOS IŠTEKLIŲ RINKOS ORGANIZAVIMAS. ENERGIJOS IŠTEKLIŲ BIRŽA
 
 
 
-2. Šiame įstatyme nustatyti reikalavimai taikomi centralizuotai prekybai biokuru ir naftos produktų atsargomis, prekybai gamtinėmis dujomis ir prekybai pagalbiniais instrumentais.
+2. Šiame įstatyme nustatyti reikalavimai taikomi centralizuotai prekybai biokuru, gamtinėmis dujomis ir pagalbiniais instrumentais.
+Straipsnio dalies pakeitimai:
+Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010ISTA0XII-493
+ 
 
 
 
@@ -365,7 +387,10 @@ ENERGIJOS IŠTEKLIŲ RINKOS ORGANIZAVIMAS. ENERGIJOS IŠTEKLIŲ BIRŽA
 10 straipsnis. Energijos išteklių birža
 
 
-1. Energijos išteklių biržos operatorius šio įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka administruoja energijos išteklių biržą ir organizuoja centralizuotą prekybą biokuru ir naftos produktų atsargomis, prekybą gamtinėmis dujomis ir pagalbiniais instrumentais energijos išteklių biržoje.
+1. Energijos išteklių biržos operatorius šio įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka administruoja energijos išteklių biržą ir organizuoja centralizuotą prekybą biokuru, gamtinėmis dujomis ir pagalbiniais instrumentais energijos išteklių biržoje.
+Straipsnio dalies pakeitimai:
+Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010ISTA0XII-493
+ 
 
 
 
@@ -526,7 +551,10 @@ ENERGIJOS IŠTEKLIŲ RINKOS ORGANIZAVIMAS. ENERGIJOS IŠTEKLIŲ BIRŽA
 2. Energijos išteklių biržos operatorius:
 
 
-1) administruoja ir organizuoja energijos išteklių biržą, kurioje centralizuotai prekiaujama biokuru ir naftos produktų atsargomis, prekiaujama gamtinėmis dujomis ir pagalbiniais instrumentais;
+1) administruoja ir organizuoja energijos išteklių biržą, kurioje centralizuotai prekiaujama biokuru, gamtinėmis dujomis ir pagalbiniais instrumentais;
+Straipsnio punkto pakeitimai:
+Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010ISTA0XII-493
+ 
 
 
 
@@ -662,7 +690,10 @@ ENERGIJOS IŠTEKLIŲ RINKOS ORGANIZAVIMAS. ENERGIJOS IŠTEKLIŲ BIRŽA
 
 
 
-2. Energijos išteklių rinkos dalyviai, ketinantys prekiauti energijos išteklių biržoje, teikia energijos išteklių biržos operatoriui jo nustatytos formos prašymą ir pasirašo energijos išteklių biržos dalyvio, prekybos sistemos naudotojo ir energijos išteklių biržos duomenų valdymo sistemos naudotojo sutartis. Su energijos išteklių biržos dalyviais pasirašomų sutarčių standartines sąlygas rengia ir tvirtina energijos išteklių biržos operatorius.
+2. Energijos išteklių rinkos dalyviai, ketinantys prekiauti energijos išteklių biržoje, teikia energijos išteklių biržos operatoriui jo nustatytos formos prašymą ir pasirašo energijos išteklių biržos dalyvio sutartį. Su energijos išteklių biržos dalyviais pasirašomų sutarčių standartines sąlygas rengia ir tvirtina energijos išteklių biržos operatorius, suderinęs su Valstybine kainų ir energetikos kontrolės komisija.
+Straipsnio dalies pakeitimai:
+Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010ISTA0XII-493
+ 
 
 
 
@@ -678,6 +709,34 @@ ENERGIJOS IŠTEKLIŲ RINKOS ORGANIZAVIMAS. ENERGIJOS IŠTEKLIŲ BIRŽA
 
 
 
+
+
+
+
+171 straipsnis. Atsiskaitymas pagal energijos išteklių biržoje sudarytus sandorius
+
+
+1. Atsiskaitymus pagal energijos išteklių biržoje sudarytus sandorius organizuoja energijos išteklių biržos operatorius Energijos išteklių biržos reglamente nustatyta tvarka.
+
+
+
+
+2. Energijos išteklių biržos operatorius turi teisę atidaryti atskirą depozitinę sąskaitą (sąskaitas). Depozitinėje sąskaitoje esančiomis lėšomis disponuojama šio straipsnio 3 dalyje nustatyta tvarka.
+
+
+
+
+3. Depozitinėje sąskaitoje laikomos energijos išteklių biržos dalyvių lėšos. Energijos išteklių biržos operatorius biržos dalyvių vardu iš depozitinėje sąskaitoje laikomų lėšų gali vykdyti atsiskaitymus pagal energijos išteklių biržoje sudarytus sandorius, taip pat mokėti kitas įmokas, susijusias su energijos išteklių biržoje sudarytais sandoriais, įskaitant biržos dalyvių įmokas, baudas, delspinigius.
+
+
+
+
+4. Energijos išteklių biržos operatoriaus depozitinėje sąskaitoje laikomos energijos išteklių biržos dalyviams priklausančios lėšos negali būti įkeistos, areštuotos, jomis negali naudotis ir disponuoti tretieji asmenys, į šias lėšas negali būti nukreipiamas išieškojimas pagal energijos išteklių biržos operatoriaus prievoles.
+
+
+Papildyta straipsniu:
+Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010ISTA0XII-493
+ 
 
 
 
@@ -726,7 +785,10 @@ CENTRALIZUOTA PREKYBA BIOKURU
 
 
 
-3. Energijos išteklių biržos dalyviai, teikdami pasiūlymus parduoti biokurą energijos išteklių biržoje, nurodo biokuro kainą su jo pristatymu į atitinkamą regioną. Suskirstymas pagal regionus yra nustatomas Centralizuotos prekybos biokuru taisyklėse.
+3. Energijos išteklių biržos dalyviai, teikdami pasiūlymus parduoti biokurą energijos išteklių biržoje, nurodo biokuro kainą ir jo pristatymo įkainį. Energijos išteklių biržos operatorius, atlikęs tyrimą ir nustatęs neįprastas prekybos biržoje sąlygas arba piktnaudžiavimo rinka požymių turintį elgesį, turi teisę nustatyti biržoje teikiamuose pasiūlymuose pirkti ir parduoti biokuro produktų kainų kitimo ribas.
+Straipsnio dalies pakeitimai:
+Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010ISTA0XII-493
+ 
 
 
 
@@ -741,61 +803,10 @@ CENTRALIZUOTA PREKYBA BIOKURU
 
 
 
-PENKTASIS SKIRSNIS
-CENTRALIZUOTA PREKYBA NAFTOS PRODUKTŲ ATSARGOMIS
+5 skirsnis. Neteko galios nuo 2013-07-20
+Skirsnio naikinimas:
+Nr. XII-493, 2013-07-02, Žin. 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010ISTA0XII-493
  
-
-
-20 straipsnis. Centralizuotos prekybos naftos produktų atsargomis bendrieji principai
-
-
-1. Energijos išteklių biržoje įdiegiama centralizuota elektroninė prekybos naftos produktų atsargomis sistema. Energijos išteklių biržos dalyviai, naudodamiesi centralizuota elektronine prekybos naftos produktų atsargomis sistema, prekiauja naftos produktų atsargomis, naftos produktų atsargų reikalavimo teisėmis ir naftos produktų atsargų laikymo paslaugomis. Naftos produktus, kurių atsargomis prekiaujama šiame įstatyme nustatyta tvarka, nustato Naftos produktų ir naftos valstybės atsargų įstatymas.
-
-
-
-
-2. Centralizuotą elektroninę prekybos naftos produktų atsargomis sistemą administruoja ir prekybą naftos produktų atsargomis energijos išteklių biržoje organizuoja energijos išteklių biržos operatorius.
-
-
-
-
-3. Energijos išteklių biržoje naftos produktų atsargomis, naftos produktų atsargų reikalavimo teisėmis ir naftos produktų atsargų laikymo paslaugomis prekiaujama pagal dvišales pirkimo–pardavimo sutartis. Šios sutartys sudaromos centralizuotoje elektroninėje prekybos naftos produktų atsargomis sistemoje energijos išteklių biržos dalyvių pateiktų pasiūlymų pirkti ir parduoti naftos produktų atsargas, naftos produktų atsargų reikalavimo teises ir (ar) naftos produktų atsargų laikymo paslaugas, vadovaujantis šiame įstatyme nustatytais reikalavimais, Energetikos ministerijos patvirtintomis Centralizuotos prekybos naftos produktų atsargomis taisyklėmis ir Energijos išteklių biržos reglamentu.
-
-
-
-
-4. Energijos išteklių biržos dalyviai gali teikti tarpvalstybinius pasiūlymus pirkti ir (ar) parduoti naftos produktų atsargų reikalavimo teises ir (ar) naftos produktų atsargas, sudarant pirkimo–pardavimo sutartis su kitose valstybėse narėse veikiančiais asmenimis. Tokie pasiūlymai ir sudaromos sutartys turi atitikti įstatymų nustatytus reikalavimus dėl tarpvalstybinės prekybos naftos produktų atsargomis ir naftos produktais.
- 
-
-
-
-
-
-
-21 straipsnis. Prekyba naftos produktų atsargomis energijos išteklių biržoje
-
-
-1. Energijos išteklių biržoje naftos produktų atsargomis, naftos produktų atsargų reikalavimo teisėmis ir naftos produktų atsargų laikymo paslaugomis prekiaujama ir dvišalės pirkimo–pardavimo sutartys, pasinaudojus centralizuota elektronine prekybos naftos produktų atsargomis sistema, sudaromos Centralizuotos prekybos naftos produktų atsargomis taisyklėse nustatyta tvarka.
-
-
-
-
-2. Energijos išteklių biržos dalyvių dvišalės pirkimo–pardavimo sutartys, sudarytos pasinaudojus centralizuota elektronine prekybos naftos produktų atsargomis sistema, registruojamos energijos išteklių biržos duomenų valdymo sistemoje.
-
-
-
-
-3. Energijos išteklių biržos dalyviai, ketinantys prekiauti naftos produktų atsargomis ir (ar) naftos produktų atsargų reikalavimo teisėmis energijos išteklių biržoje, deklaruoja energijos išteklių biržos operatoriui pagal tiesiogiai sudarytas dvišales pirkimo–pardavimo sutartis perkamų naftos produktų atsargų kiekius ir (ar) naftos produktų atsargų reikalavimo teises ir naftos produktų atsargų laikymo paslaugas, kuriuos ketinama parduoti pasinaudojus centralizuota elektronine prekybos naftos produktų atsargų sistema, ir pateikia kitos sutarties šalies rašytinį patvirtinimą. Energijos išteklių biržos dalyvių pateikti duomenys registruojami energijos išteklių biržos duomenų valdymo sistemoje.
-
-
-
-
-4. Energijos išteklių biržos dalyvių pateikti duomenys yra konfidencialūs ir gali būti atskleisti tretiesiems asmenims tik teisės aktų nustatyta tvarka, išskyrus duomenis apie perkamus ir parduodamus atskirų naftos produktų atsargų kiekius ir kainas, taip pat duomenis apie naftos produktų atsargų reikalavimo teisių ir naftos produktų atsargų laikymo paslaugų kainas, kurie apibendrintai ir nenurodant sutarties šalių skelbiami energijos išteklių biržos operatoriaus informacinėje sistemoje.
- 
-
-
-
-
 
 
 
@@ -1011,3 +1022,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010ISTA0XII-493
+Lietuvos Respublikos energijos išteklių rinkos įstatymo 1, 2, 3, 4, 7, 9, 10, 13, 17, 19 straipsnių pakeitimo, Įstatymo papildymo 17-1, 19-1 straipsniais ir V skirsnio pripažinimo netekusiu galios įstatymas
