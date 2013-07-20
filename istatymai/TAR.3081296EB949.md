@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3081296EB949"
 
 # Lietuvos Respublikos Tarnybos Lietuvos Respublikos muitinėje statuto patvirtinimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2013-07-19
+Suvestinė redakcija nuo 2013-07-20 iki 2013-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2917; Žin. 2003, Nr.64-2881, i. k. 1001010ISTAIII-1986
  
@@ -853,28 +853,17 @@ Nr. X-988, 2006-12-19, Žin., 2007, Nr. 4-155 (2007-01-11), i. k. 1061010ISTA000
 Tarnybinės nuobaudos paskyrimą per vieną mėnesį galima apskųsti teismui Administracinių bylų teisenos įstatymo nustatyta tvarka. 
  
 
-40 straipsnis. Nušalinimo nuo pareigų pagrindai ir terminai
+40 straipsnis. Nušalinimas nuo pareigų
 
-1. Muitinės pareigūnas jį į pareigas priėmusio asmens įsakymu nušalinamas nuo pareigų, jeigu:
+Muitinės pareigūnas nušalinamas nuo pareigų Valstybės tarnybos įstatymo ir kitų įstatymų nustatytais atvejais ir tvarka. 
 
-1) jis yra tarnyboje neblaivus arba apsvaigęs nuo narkotinių, toksinių ar psichotropinių medžiagų, – tą dieną (pamainą);
-
-2) statutinė komisija jo tarnybinę veiklą įvertina nepatenkinamai ir jį į pareigas priėmusiam asmeniui siūlo perkelti muitinės pareigūną į žemesnės kategorijos pareigas arba atleisti muitinės pareigūną iš pareigų, – kol muitinės pareigūnas bus perkeltas į žemesnės kategorijos pareigas arba atleistas iš pareigų;
-
-3) jam paskirta tarnybinė nuobauda – perkėlimas į žemesnės kategorijos pareigas, – kol muitinės pareigūnas bus perkeltas į žemesnės kategorijos pareigas;
-
-4) jis įtariamas padaręs tarnybinį nusižengimą, dėl kurio gali būti paskirta tarnybinė nuobauda – atleidimas iš pareigų.
-
-2. Šio straipsnio 1 dalies 4 punkte nustatytu pagrindu muitinės pareigūnas nušalinamas nuo pareigų, kol bus atliktas tarnybinis patikrinimas.
-
-3. Šio straipsnio 1 dalies 1 punkte nustatytu pagrindu muitinės pareigūną gali nušalinti nuo pareigų ir jo tiesioginis vadovas.
+Straipsnio pakeitimai:
+Nr. XII-455, 2013-07-02, Žin., 2013, Nr. 78-3934 (2013-07-20), i. k. 1131010ISTA0XII-455
  
 
-41 straipsnis. Reikalavimai nušalintam muitinės pareigūnui
-
-1. Nušalintas nuo pareigų muitinės pareigūnas privalo grąžinti tarnybinį pažymėjimą, identifikavimo ženklą, tarnybos ženklą ir kitus dokumentus, antspaudą ir kitas darbo priemones, kurias jis turėjo eidamas tarnybines pareigas.
-
-2. Nušalintas nuo pareigų muitinės pareigūnas, turėjęs teisę naudoti šaunamąjį ginklą ir specialiąsias priemones, privalo išduotą šaunamąjį ginklą ir specialiąsias priemones grąžinti. 
+41 straipsnis. Neteko galios nuo 2013-07-20
+Straipsnio naikinimas:
+Nr. XII-455, 2013-07-02, Žin. 2013, Nr. 78-3934 (2013-07-20), i. k. 1131010ISTA0XII-455
  
 
 42 straipsnis. Tarnybinio patikrinimo ir tarnybinių nuobaudų skyrimo tvarka
@@ -884,13 +873,9 @@ Tarnybinės nuobaudos paskyrimą per vieną mėnesį galima apskųsti teismui Ad
 2. Tarnybinio patikrinimo ir tarnybinių nuobaudų skyrimo tvarką nustato finansų ministras.
  
 
-43 straipsnis. Darbo užmokesčio mokėjimas nušalintam nuo pareigų muitinės pareigūnui
-
-1. Muitinės pareigūnui nušalinimo nuo pareigų Statuto 40 straipsnio pagrindais laikotarpiu darbo užmokestis nemokamas. 
-
-2. Jeigu nušalintas muitinės pareigūnas grąžinamas į ankstesnes pareigas arba perkeliamas į žemesnės kategorijos pareigas, už nušalinimo laikotarpį jam išmokamas darbo užmokestis.
-
-3. Jeigu nušalintas muitinės pareigūnas atleidžiamas iš pareigų, už nušalinimo laikotarpį darbo užmokestis jam nemokamas.
+43 straipsnis. Neteko galios nuo 2013-07-20
+Straipsnio naikinimas:
+Nr. XII-455, 2013-07-02, Žin. 2013, Nr. 78-3934 (2013-07-20), i. k. 1131010ISTA0XII-455
  
 
 44 straipsnis. Nušalinto pareigūno atleidimas iš pareigų 
@@ -962,7 +947,10 @@ Nr. X-790, 2006-07-19, Žin., 2006, Nr. 87-3401 (2006-08-08), i. k. 1061010ISTA0
 
 1. Muitinės pareigūnui, kuris laikinai perkeltas į aukštesnės kategorijos pareigas Statuto 29 straipsnio 1 dalyje nurodytais atvejais, mokamas šių pareigų kategoriją atitinkantis darbo užmokestis.
 
-2. Muitinės pareigūnui, kuris laikinai perkeltas į žemesnės kategorijos pareigas Statuto 29 straipsnio 1 dalyje nurodytais atvejais, mokamas iki laikino perkėlimo gautas darbo užmokestis.
+2. Muitinės pareigūnui, kuris laikinai perkeltas į žemesnės kategorijos pareigas, mokamas iki laikino perkėlimo gautas darbo užmokestis. 
+Straipsnio dalies pakeitimai:
+Nr. XII-455, 2013-07-02, Žin., 2013, Nr. 78-3934 (2013-07-20), i. k. 1131010ISTA0XII-455
+ 
 
 3. Muitinės pareigūnui, kuriam laikinai pavesta atlikti kitas pareigas Statuto 29 straipsnio 4 dalyje nurodytu atveju, mokama atitinkama Valstybės tarnybos įstatymo numatyta priemoka. 
 
@@ -1296,4 +1284,9 @@ Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto 4, 5, 12, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2261, 2012-10-02, Žin., 2012, Nr. 122-6120 (2012-10-20), i. k. 1121010ISTA0XI-2261
 Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto 4, 6, 11, 51, 53-1, 54 ir 55 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-455, 2013-07-02, Žin., 2013, Nr. 78-3934 (2013-07-20), i. k. 1131010ISTA0XII-455
+Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto 40, 49 straipsnių pakeitimo ir 41, 43 straipsnių pripažinimo netekusiais galios įstatymas
 
