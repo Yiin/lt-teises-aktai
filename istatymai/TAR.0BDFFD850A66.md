@@ -490,15 +490,17 @@ administravimo kontrolė.
 Viešojo administravimo subjekto veikla planuojama atsižvelgiant į Valstybės
 pažangos strategiją ir kitus planavimo dokumentus.
 5.
-Viešojo administravimo įstaigos, kurios vadovas yra valstybės ar savivaldybės
+Viešojo administravimo įstaigos, kurios vadovas yra valstybės biudžeto
+asignavimų valdytojas, veikla organizuojama vadovaujantis teisės aktų nustatyta
+tvarka patvirtintu valdymo sričių strateginiu veiklos planu arba strateginiu
+veiklos planu. Viešojo administravimo įstaigos, kurios vadovas nėra valstybės
 biudžeto asignavimų valdytojas, veikla organizuojama vadovaujantis teisės aktų
-nustatyta tvarka patvirtintu valdymo sričių strateginiu veiklos planu arba
-strateginiu veiklos planu. Viešojo administravimo įstaigos, kurios vadovas nėra
-valstybės ar savivaldybės biudžeto asignavimų valdytojas, veikla organizuojama
-vadovaujantis teisės aktų nustatyta tvarka patvirtintu metiniu veiklos planu.
-Šioje dalyje nurodyti planavimo dokumentai, kuriais vadovaujantis organizuojama
+nustatyta tvarka patvirtintu metiniu veiklos planu. Savivaldybės administravimo
+subjektų veikla organizuojama vadovaujantis savivaldybės strateginio planavimo
+dokumentais, nustatytais Lietuvos Respublikos vietos savivaldos įstatyme. Šioje
+dalyje nurodyti planavimo dokumentai, kuriais vadovaujantis organizuojama
 viešojo administravimo įstaigos veikla, skelbiami šios įstaigos arba viešojo
-administravimo įstaigos, kuriai ji yra pavaldi, interneto tinklalapyje.
+administravimo įstaigos, kuriai ji yra pavaldi, interneto svetainėje.
 6. Šio straipsnio 5 dalyje nurodytų
 planavimo dokumentų, kuriais vadovaujantis organizuojama viešojo administravimo
 įstaigų veikla, įgyvendinimo rezultatų stebėsena atliekama teisės aktų
@@ -510,6 +512,9 @@ Nr. X-1725,
 Nr.
 XI-1259,
 2010-12-23, Žin., 2011, Nr. 4-125 (2011-01-10)
+Nr.
+XII-478,
+2013-07-02, Žin., 2013, Nr. 78-3936 (2013-07-20)
  
 11 straipsnis. Vidaus administravimas 
 1. Vidaus
@@ -530,10 +535,10 @@ poskyris (grupė).
 administruojant pavestą sritį būtina spręsti sudėtingus uždavinius, atlikti
 įvairias funkcijas ir dėl to atsiranda poreikis koordinuoti jų įgyvendinimą.
 Departamentą (valdybą) sudaro ne mažiau kaip du skyriai (biurai, tarnybos).
-Departamentui vadovauja direktorius (valdybai – viršininkas). Direktorius
-(viršininkas) gali turėti pavaduotojų. Departamento (valdybos) veiklą
-reglamentuojančius teisės aktus (nuostatus, pareigybių aprašus ir kt.) tvirtina
-viešojo administravimo įstaigos vadovas.
+Departamentui vadovauja direktorius (valdybai – viršininkas). Direktorius (viršininkas)
+gali turėti pavaduotojų. Departamento (valdybos) veiklą reglamentuojančius
+teisės aktus (nuostatus, pareigybių aprašus ir kt.) tvirtina viešojo
+administravimo įstaigos vadovas.
 5. Skyrius (biuras, tarnyba) paprastai yra departamento
 (valdybos) struktūrinė dalis. Kai administruoti pavestoje srityje yra
 nepakankama uždavinių ir funkcijų įvairovė arba kai to reikalauja įstatymas,
@@ -545,11 +550,11 @@ Skyriui (biurui, tarnybai) vadovauja vedėjas (viršininkas). Skyriaus (biuro,
 tarnybos) vedėjas (viršininkas) gali turėti pavaduotojų. Skyriaus (biuro,
 tarnybos) veiklą reglamentuojančius teisės aktus (nuostatus, pareigybių aprašus
 ir kt.) tvirtina viešojo administravimo įstaigos vadovas.
-6. Skyrių (biurą, tarnybą) gali sudaryti poskyriai (grupės).
-Poskyris (grupė) sudaromas iš ne mažiau kaip 3 pareigybių. Poskyriui (grupei)
-vadovauja vedėjas (viršininkas). Poskyrio (grupės) veiklą reglamentuojančius
-teisės aktus (nuostatus, pareigybių aprašus ir kt.) tvirtina viešojo
-administravimo įstaigos vadovas.
+6. Skyrių (biurą, tarnybą) gali sudaryti poskyriai
+(grupės). Poskyris (grupė) sudaromas iš ne mažiau kaip 3 pareigybių. Poskyriui
+(grupei) vadovauja vedėjas (viršininkas). Poskyrio (grupės) veiklą
+reglamentuojančius teisės aktus (nuostatus, pareigybių aprašus ir kt.) tvirtina
+viešojo administravimo įstaigos vadovas.
 7. Uždaviniams ir funkcijoms,
 kurie nepriskirti atskiriems viešojo administravimo įstaigos administracijos padaliniams, įgyvendinti gali būti
 steigiama pareigybė (pareigybės), nepriklausanti (nepriklausančios) skyriui
@@ -563,8 +568,8 @@ Straipsnio
 pakeitimai:
 Nr. X-1036,
 2007-01-18, Žin., 2007, Nr. 12-497 (2007-01-30)
-Nr. X-1035, 2007-01-18,
-Žin., 2007, Nr. 17-628 (2007-02-08)
+Nr. X-1035,
+2007-01-18, Žin., 2007, Nr. 17-628 (2007-02-08)
 Nr. X-1725,
 2008-09-22, Žin., 2008, Nr. 117-4441 (2008-10-11)
 Nr.
@@ -575,9 +580,8 @@ XI-1259,
 straipsnis. Vidaus administravimo pagrindai
 Viešojo
 administravimo subjektų vidaus administravimą reglamentuoja įstatymai arba jų
-pagrindu priimti teisės aktai (nuostatai, statutai, veiklos (darbo)
-reglamentai, pareigybių aprašymai (pareiginės instrukcijos), vidaus tvarkos
-taisyklės).
+pagrindu priimti teisės aktai (nuostatai, statutai, veiklos (darbo) reglamentai,
+pareigybių aprašymai (pareiginės instrukcijos), vidaus tvarkos taisyklės).
  
 13
 straipsnis. Vidaus administravimo kontrolė
@@ -610,14 +614,14 @@ kitų teisės aktų nustatytais terminais ir tvarka, kiek tai neprieštarauja š
 bendriesiems reikalavimams:
 1)
 nustatytiems šio įstatymo 23 straipsnio 1, 2, 3, 4, 7 ir 8 dalyse ir 24, 34
-straipsniuose dėl pranešimų ir skundų, kuriais skundžiami viešojo
-administravimo subjekto veiksmai ar neveikimas; 
+straipsniuose dėl pranešimų ir skundų, kuriais skundžiami viešojo administravimo
+subjekto veiksmai ar neveikimas; 
 2)
 jeigu viešojo administravimo subjektas neturi įgaliojimų priimti sprendimą dėl
 pranešime ar skunde išdėstyto klausimo ir nėra kito viešojo administravimo
-subjekto, kuriam galėtų perduoti šį pranešimą ar skundą nagrinėti pagal kompetenciją,
-jis ne vėliau kaip per 5 darbo dienas nuo skundo gavimo dienos apie tai praneša
-asmeniui;
+subjekto, kuriam galėtų perduoti šį pranešimą ar skundą nagrinėti pagal
+kompetenciją, jis ne vėliau kaip per 5 darbo dienas nuo skundo gavimo dienos
+apie tai praneša asmeniui;
 3) pranešimas ar skundas nenagrinėjamas,
 jeigu teismas ar tas pats viešojo administravimo subjektas jau yra priėmęs
 sprendimą tuo pačiu klausimu ir asmuo nepateikia naujų faktinių duomenų,
@@ -660,8 +664,8 @@ vidaus reikalų ministro patvirtintomis rekomendacijomis.
 administracines paslaugas nustato įstatymai ar jų pagrindu priimti teisės
 aktai. Rinkliava ar kitoks atlyginimas nėra nustatomi už šio straipsnio 1
 dalies 3, 4 ir 6 punktuose nurodytas administracines paslaugas, taip pat už
-viešojo administravimo subjekto atliekamą asmenų prašymų suteikti
-administracinę paslaugą nagrinėjimą.
+viešojo administravimo subjekto atliekamą asmenų prašymų suteikti administracinę
+paslaugą nagrinėjimą.
 Straipsnio
 pakeitimai:
 Nr.
@@ -675,9 +679,10 @@ administravimo subjektai atsako už jų administruojamų paslaugų teikimo
 teisėtumą.
 2. Viešojo administravimo subjektas,
 kuris pagal šio įstatymo nustatytą valdymo sritį administruoja tam tikros
-viešosios paslaugos teikimą, negali pats teikti šios paslaugos, išskyrus atvejus,
-kai Lietuvos Respublikos vietos savivaldos įstatymo nustatytomis sąlygomis ir
-tvarka savivaldybės administracijos padalinys teikia viešąsias paslaugas.
+viešosios paslaugos teikimą, negali pats teikti šios paslaugos, išskyrus
+atvejus, kai Lietuvos Respublikos vietos savivaldos įstatymo nustatytomis
+sąlygomis ir tvarka savivaldybės administracijos padalinys teikia viešąsias
+paslaugas.
 3. Rinkliavas ar
 kitokį atlyginimą už viešųjų paslaugų teikimo administravimą gali nustatyti tik
 įstatymai.
@@ -767,8 +772,8 @@ atstovą, veikiantį asmens vardu.
 sąžiningai naudotis jam suteiktomis teisėmis ir jomis nepiktnaudžiauti. Jeigu
 paaiškėja, kad asmuo piktnaudžiavo jam suteiktomis teisėmis ar veikė
 nesąžiningai, viešojo administravimo subjekto vadovo sprendimu administracinė
-procedūra gali būti nutraukta ir apie tai per 3 darbo dienas nuo administracinės
-procedūros nutraukimo dienos pranešama asmeniui.
+procedūra gali būti nutraukta ir apie tai per 3 darbo dienas nuo
+administracinės procedūros nutraukimo dienos pranešama asmeniui.
  
 21 straipsnis. Pagrindas pradėti
 administracinę procedūrą 
@@ -1648,11 +1653,19 @@ Nr. XII-511,
 VIEŠOJO
 ADMINISTRAVIMO ĮSTATYMO 8 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+15.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XII-478,
+2013-07-02, Žin., 2013, Nr. 78-3936 (2013-07-20)
+VIEŠOJO
+ADMINISTRAVIMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2013-07-15)
+Aušrinė Trapinskienė (2013-07-22)
                  
 ausrine.trapinskiene@lrs.lt
