@@ -700,34 +700,14 @@ Tarnybinė nuobauda Specialiųjų tyrimų tarnybos direktoriaus motyvuotu sprend
 už gerą tarnybą gali būti panaikinta anksčiau, negu sueis šio straipsnio 7
 dalyje nustatytas terminas. 
  
-24 straipsnis. Tarnybos pareigūno
-nušalinimas nuo pareigų
-1. Tarnybos
-pareigūnas nušalinamas nuo pareigų:
-1) jeigu jis yra
-tarnyboje neblaivus ar apsvaigęs nuo narkotinių, toksinių ar psichotropinių
-medžiagų – tą dieną;
-2) jeigu jis
-traukiamas baudžiamojon atsakomybėn – visą baudžiamosios bylos tyrimo ir
-nagrinėjimo laikotarpį.
-2. Tarnybos pareigūnas gali būti nušalinamas nuo
-pareigų, jeigu jis įtariamas padaręs tarnybinį nusižengimą – kol bus atliktas
-tarnybinis tyrimas ir priimtas sprendimas dėl tarnybinės nuobaudos skyrimo ar
-jo tolesnės tarnybos. 
-3. Tarnybinio tyrimo metu
-Specialiųjų tyrimų tarnybos direktorius ir jo pavaduotojai turi teisę nušalinti
-tarnybos pareigūną nuo pareigų. Direktorių ir jo pavaduotojus nušalinti nuo
-pareigų turi teisę Respublikos Prezidentas savo iniciatyva ar Seimo sudarytos
-komisijos siūlymu arba generalinio prokuroro teikimu. 
-4. Darbo
-užmokestis nušalinimo metu nemokamas. Jei
-pripažįstama, kad tarnybos pareigūnas nepadarė tarnybinio nusižengimo, jis
-grąžinamas į ankstesnes pareigas ir jam išmokamas darbo užmokestis už
-laikotarpį, per kurį jis nebuvo mokamas dėl nušalinimo nuo pareigų.
-5. Nušalintas
-nuo pareigų tarnybos pareigūnas nuo nušalinimo momento grąžina tarnybinį
-pažymėjimą, ženklą, tarnybinį ginklą, dokumentus ir kitas darbo priemones,
-kurias turėjo eidamas tarnybines pareigas. 
+24 straipsnis. Tarnybos pareigūno nušalinimas nuo pareigų 
+Tarnybos
+pareigūnas nuo pareigų nušalinamas Lietuvos Respublikos valstybės tarnybos
+įstatymo ir kitų įstatymų nustatytais atvejais ir tvarka.
+Straipsnio pakeitimai:
+Nr.
+XII-453,
+2013-07-02, Žin., 2013, Nr. 78-3932 (2013-07-20)
  
 25
 straipsnis. Materialinė atsakomybė
@@ -1024,30 +1004,10 @@ nedarbingumo (išskyrus laikinąjį nedarbingumą dėl nelaimingo atsitikimo dar
 dėl nelaimingo atsitikimo vykstant į tarnybą ar grįžtant iš jos, profesinės
 ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos vykdymo),
 nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros atostogų
-laikotarpiais pareigūnams mokamas vidutinis jų darbo užmokestis arba jo dalis.
-Mokamo vidutinio darbo užmokesčio arba jo dalies dydis, maksimalus
-kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi vadovaujantis
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo
-nuostatomis. Laikinojo nedarbingumo dėl nelaimingo atsitikimo darbe
-(tarnyboje), nelaimingo atsitikimo ar įvykio, susijusio su tarnyba, taip pat
-dėl nelaimingo atsitikimo vykstant į tarnybą ar grįžtant iš jos, profesinės
-ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos
-vykdymo, atveju pareigūnams mokama 100 procentų jų vidutinio darbo užmokesčio,
-taikant maksimalaus ir minimalaus kompensuojamojo uždarbio dydžius
-vadovaujantis Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių
-ligų socialinio draudimo įstatymo nuostatomis dėl ligos pašalpos skaičiavimo.
-Dalies redakcija
-nuo 2013-07-01:
-6. Laikinojo
-nedarbingumo (išskyrus laikinąjį nedarbingumą dėl nelaimingo atsitikimo darbe
-(tarnyboje), nelaimingo atsitikimo ar įvykio, susijusio su tarnyba, taip pat
-dėl nelaimingo atsitikimo vykstant į tarnybą ar grįžtant iš jos, profesinės
-ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos
-vykdymo), nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros
-atostogų laikotarpiais, taip pat pirmaisiais vaiko auginimo metais, kai vaiko
-priežiūros atostogos nutraukiamos dėl grįžimo į tarnybą, ar antraisiais vaiko
-auginimo metais, kai vaiko priežiūros atostogos nesuteiktos arba nutrauktos,
-pareigūnams mokamos vidutinio jų darbo užmokesčio arba jo dalies dydžio išmokos,
+laikotarpiais, taip pat pirmaisiais vaiko auginimo metais, kai vaiko priežiūros
+atostogos nutraukiamos dėl grįžimo į tarnybą, ar antraisiais vaiko auginimo
+metais, kai vaiko priežiūros atostogos nesuteiktos arba nutrauktos, pareigūnams
+mokamos vidutinio jų darbo užmokesčio arba jo dalies dydžio išmokos,
 neviršijančios maksimalaus kompensuojamojo uždarbio. Šių išmokų dydžiai,
 maksimalus kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi
 vadovaujantis Lietuvos Respublikos ligos ir motinystės socialinio draudimo
@@ -1059,7 +1019,6 @@ vykdymo, atveju pareigūnams mokama 100 procentų jų vidutinio darbo užmokesč
 taikant maksimalaus ir minimalaus kompensuojamojo uždarbio dydžius
 vadovaujantis Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių
 ligų socialinio draudimo įstatymo nuostatomis dėl ligos pašalpos skaičiavimo.
- 
 7. Neteko galios
 nuo 2011 m. liepos 1 d.
 8. Neteko
@@ -1083,12 +1042,12 @@ XI-364,
 Nr.
 XI-949,
 2010-06-30, Žin., 2010, Nr. 82-4303 (2010-07-13)
-Nr. XI-1719, 2011-11-22,
-Žin., 2011, Nr. 150-7034 (2011-12-08)
+Nr. XI-1719,
+2011-11-22, Žin., 2011, Nr. 150-7034 (2011-12-08)
 Nr. XII-119,
 2012-12-20, Žin., 2012, Nr. 155-7997 (2012-12-31)
-Nr. XI-986, 2010-07-02,
-Žin., 2010, Nr. 86-4537 (2010-07-20)
+Nr. XI-986,
+2010-07-02, Žin., 2010, Nr. 86-4537 (2010-07-20)
 Nr.
 XI-1856,
 2011-12-22, Žin., 2011, Nr. 163-7754 (2011-12-31)
@@ -1150,9 +1109,8 @@ atleidžiamiems iš Specialiųjų tyrimų tarnybos
 1. Atleidžiant tarnybos
 pareigūnus iš Specialiųjų tyrimų tarnybos Specialiųjų tyrimų tarnybos įstatymo
 12 straipsnio 1 dalies 4 arba 7 punkto, 12 straipsnio 2 dalies, šio Statuto 11
-straipsnio 1 dalies 6 punkto, 2 dalies 3, 4, 5 arba 7 punkto nustatytais
-pagrindais, išmokama dviejų mėnesių vidutinio darbo užmokesčio dydžio išeitinė
-pašalpa.
+straipsnio 1 dalies 6 punkto, 2 dalies 3, 4, 5 arba 7 punkto nustatytais pagrindais,
+išmokama dviejų mėnesių vidutinio darbo užmokesčio dydžio išeitinė pašalpa.
 2. Šio straipsnio 1 dalyje
 nustatyto dydžio išeitinė pašalpa tarnybos pareigūnams, turintiems daugiau kaip
 5 metus tarnybos stažo, didinama pusantro karto, daugiau kaip 10 metų – du
@@ -1177,8 +1135,8 @@ minimaliųjų gyvenimo lygių išmoka per mėnesį.
 34
 straipsnis. tarnybos laikas 
 1.
-Tarnybos pareigūnai, išskyrus Specialiųjų tyrimų tarnybos direktorių, Specialiųjų
-tyrimų tarnyboje tarnauja:
+Tarnybos pareigūnai, išskyrus Specialiųjų tyrimų tarnybos direktorių,
+Specialiųjų tyrimų tarnyboje tarnauja:
 1) iki vyresniojo specialiojo
 agento įskaitytinai – kol jiems sukanka 50 metų;
 2) vyriausieji
@@ -1348,8 +1306,8 @@ TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIM
 3)
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. XII-119,
-2012-12-20, Žin., 2012, Nr. 155-7997 (2012-12-31)
+Nr. XII-119, 2012-12-20,
+Žin., 2012, Nr. 155-7997 (2012-12-31)
 SPECIALIŲJŲ
 TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
@@ -1376,16 +1334,15 @@ Respublikos Seimas, Įstatymas
 Nr. XI-1391,
 2011-05-19, Žin., 2011, Nr. 68-3222 (2011-06-04)
 SPECIALIŲJŲ
-TYRIMŲ TARNYBOS STATUTO 2, 8, 10, 11, 13, 32 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
-ĮSTATYMAS
+TYRIMŲ TARNYBOS STATUTO 2, 8, 10, 11, 13, 32 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas, išskyrus šio
 straipsnio 2 dalį, įsigalioja 2012 m. sausio 1 d.
  
 10.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. XI-1518, 2011-06-23,
-Žin., 2011, Nr. 86-4160 (2011-07-13)
+Nr. XI-1518,
+2011-06-23, Žin., 2011, Nr. 86-4160 (2011-07-13)
 SPECIALIŲJŲ TYRIMŲ TARNYBOS
 STATUTO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2011 m. rugsėjo 1 d.
@@ -1413,12 +1370,20 @@ TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas
 įsigalioja 2013 m. liepos 1 d.
  
+15.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XII-453,
+2013-07-02, Žin., 2013, Nr. 78-3932 (2013-07-20)
+SPECIALIŲJŲ
+TYRIMŲ TARNYBOS STATUTO 24 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
- 
 Redagavo
-Aušrinė Trapinskienė (2013-06-05)
+Aušrinė Trapinskienė (2013-07-22)
                  
 ausrine.trapinskiene@lrs.lt
 
