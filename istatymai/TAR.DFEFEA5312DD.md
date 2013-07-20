@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DFEFEA5312DD"
 
 # Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto patvirtinimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2013-07-19
+Suvestinė redakcija nuo 2013-07-20 iki 2013-09-27
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3348, i. k. 1031010ISTA0IX-1669
  
@@ -287,15 +287,12 @@ Kai civilinės krašto apsaugos tarnybos sutartis nutraukiama šio Statuto 10 st
 3. Jeigu atsiranda šio Statuto 10 straipsnio 1 dalies 12 ir 13 punktuose nurodyti atleidimo iš civilinės krašto apsaugos tarnybos pagrindai, statutinis tarnautojas gali būti atleidžiamas iš civilinės krašto apsaugos tarnybos ir jo sutikimu perkeliamas į valstybės tarnautojo pareigas, jeigu tokios jam randamos ir statutinis tarnautojas tinka būti į jas paskirtas. Tokiais atvejais perkeliamam statutiniam tarnautojui išeitinė išmoka nemokama.
  
 
-14 straipsnis. Nušalinimas nuo pareigų
+14 straipsnis. Nušalinimas nuo pareigų
 
-1. Statutiniai tarnautojai, įtariami padarę tarnybinį nusižengimą, administracinį teisės pažeidimą ar nusikalstamą veiką, dėl kurių jiems negalima leisti atlikti tarnybinių pareigų, neatliekantys ar blogai atliekantys tarnybines pareigas, tarnybos metu apsvaigę nuo alkoholio, narkotinių, nuodingųjų ar psichotropinių medžiagų, krašto apsaugos ministro ar jo įgalioto asmens įsakymu gali būti nušalinami nuo pareigų. 
+Statutiniai tarnautojai nuo pareigų nušalinami Lietuvos Respublikos valstybės tarnybos įstatymo ir kitų įstatymų nustatytais atvejais ir tvarka.
 
-2. Nušalinimo įsakymą pasirašiusio asmens pavedimu atliekamas tarnybinis tyrimas dėl nušalinto nuo pareigų valstybės tarnautojo. Nušalintas statutinis tarnautojas grąžina savo viršininkui tarnybinį pažymėjimą, visas materialines vertybes ir dokumentus, kuriuos turėjo eidamas tarnybines pareigas. 
-
-3. Nušalinimo nuo pareigų laikotarpiu statutiniam tarnautojui darbo užmokestis nemokamas.
-
-4. Jeigu priežastys, dėl kurių statutinis tarnautojas buvo nušalintas nuo pareigų, tarnybinio patikrinimo metu pasitvirtina, sprendžiamas klausimas dėl statutinio tarnautojo atleidimo iš tarnybos ar kitos tarnybinės nuobaudos jam skyrimo. Jeigu tarnybinio patikrinimo metu paaiškėja, kad nėra pagrindo nušalintąjį atleisti iš tarnybos, statutiniam tarnautojui išmokama jo darbo užmokesčio už laikotarpį, kurį buvo nušalintas nuo pareigų, suma. 
+Straipsnio pakeitimai:
+Nr. XII-452, 2013-07-02, Žin., 2013, Nr. 78-3931 (2013-07-20), i. k. 1131010ISTA0XII-452
  
 
 15 straipsnis. Perkėlimas į kitas pareigas
@@ -500,4 +497,9 @@ Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 20 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2294, 2012-10-17, Žin., 2012, Nr. 129-6468 (2012-11-08), i. k. 1121010ISTA0XI-2294
 Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 2 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-452, 2013-07-02, Žin., 2013, Nr. 78-3931 (2013-07-20), i. k. 1131010ISTA0XII-452
+Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto 14 straipsnio pakeitimo įstatymas
 
