@@ -886,6 +886,13 @@ biržos kartu su savivaldybėmis ir darbdaviais.
 4. Savivaldybė rengia viešųjų darbų programas ir jas
 tvirtina, vykdydama valstybines (valstybės perduotas savivaldybėms) ir
 savarankiškas savivaldybių funkcijas.
+Dalies redakcija nuo 2014-10-01:
+4. Savivaldybė
+rengia viešųjų darbų programas ir jas tvirtina, vykdydama valstybines
+(valstybės perduotas savivaldybėms) ir savarankiškas savivaldybių funkcijas.
+Savivaldybės planuojamus atlikti viešuosius darbus numato savivaldybės
+strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose.
+ 
 5. Teritorinės darbo biržos rengia ir tvirtina viešųjų
 darbų projektus: 
 1) socialinės
@@ -976,8 +983,10 @@ Straipsnio pakeitimai:
 Nr. XI-879,
 2010-06-04, Žin., 2010, Nr. 71-3552 (2010-06-19)
 Nr.
-XI-1632,
-2011-11-03, Žin., 2011, Nr. 138-6530 (2011-11-17)
+XI-1632, 2011-11-03,
+Žin., 2011, Nr. 138-6530 (2011-11-17)
+Nr. XII-475, 2013-07-02,
+Žin., 2013, Nr. 79-3996 (2013-07-23)
  
 29
 straipsnis. Parama darbo vietoms steigti 
@@ -1029,8 +1038,8 @@ darbo vietas.
 31 straipsnis. Vietinių užimtumo
 iniciatyvų projektų įgyvendinimas
 1. Vietinių
-užimtumo iniciatyvų projektų įgyvendinimas organizuojamas bedarbių
-neterminuotam įdarbinimui remti steigiant naujas darbo vietas.
+užimtumo iniciatyvų projektų įgyvendinimas organizuojamas bedarbių neterminuotam
+įdarbinimui remti steigiant naujas darbo vietas.
 2. Parama darbo
 vietoms steigti, įgyvendinant vietinių užimtumo iniciatyvų projektus, teikiama
 smulkiojo ir vidutinio verslo subjektams, nurodytiems Lietuvos Respublikos
@@ -1042,8 +1051,8 @@ savivaldybių institucijos, taip pat įstaigos ir valstybės ar savivaldybių
 užimtumo iniciatyvų projektai įgyvendinami Vyriausybės ar jos įgaliotos
 institucijos nustatytose savivaldybių (seniūnijų) teritorijose, kuriose
 bedarbių dalis, skaičiuojant nuo darbingo amžiaus gyventojų, projektų
-įgyvendinimo laikotarpiu yra didesnė negu vidutiniškai šalyje, nedarbo
-pasekmėms švelninti. 
+įgyvendinimo laikotarpiu yra didesnė negu vidutiniškai šalyje, nedarbo pasekmėms
+švelninti. 
  
 32
 straipsnis. Savarankiško užimtumo rėmimas 
@@ -1071,12 +1080,12 @@ bedarbis, pradėjęs savo verslą ne vėliau kaip per 30 mėnesių nuo paskutin�
 registracijos nutraukimo teritorinėje darbo biržoje dienos, pirmą kartą darbo
 vietą steigia teritorinės darbo biržos siųstam bedarbiui įdarbinti.
 4. Šio straipsnio 3
-dalies 1 ir 2 punktuose nurodytiems asmenims subsidija darbo vietai steigti mokama
-šio įstatymo 29 straipsnio 2 dalyje nurodytomis sąlygomis ir tvarka, netaikant
-reikalavimo apmokėti ne mažiau kaip 35 procentus darbo vietoms steigti
-(pritaikyti prie neįgaliųjų negalios) reikalingų lėšų, o šio straipsnio 3
-dalies 3 punkte nurodytiems asmenims subsidija darbo vietai steigti mokama šio
-įstatymo 29 straipsnio 2 dalyje nurodytomis sąlygomis ir tvarka.
+dalies 1 ir 2 punktuose nurodytiems asmenims subsidija darbo vietai steigti
+mokama šio įstatymo 29 straipsnio 2 dalyje nurodytomis sąlygomis ir tvarka,
+netaikant reikalavimo apmokėti ne mažiau kaip 35 procentus darbo vietoms
+steigti (pritaikyti prie neįgaliųjų negalios) reikalingų lėšų, o šio straipsnio
+3 dalies 3 punkte nurodytiems asmenims subsidija darbo vietai steigti mokama
+šio įstatymo 29 straipsnio 2 dalyje nurodytomis sąlygomis ir tvarka.
 5. Subsidija
 individualiai veiklai pagal verslo liudijimą skiriama verslo liudijimo
 įsigijimo išlaidoms ir valstybinio socialinio draudimo įmokų, privalomų
@@ -1178,8 +1187,8 @@ galios nuo 2010-10-01).
 5. Teritorinės
 darbo biržos įgyvendina aktyvios darbo rinkos politikos priemones, sudarydamos
 su juridiniais ir fiziniais asmenimis šių priemonių įgyvendinimo sutartis. Šių
-sutarčių tipinės formos nustatytos Vyriausybės tvirtinamame Aktyvios darbo
-rinkos politikos priemonių įgyvendinimo sąlygų ir tvarkos apraše. Kaip darbdaviai
+sutarčių tipinės formos nustatytos Vyriausybės tvirtinamame Aktyvios darbo rinkos
+politikos priemonių įgyvendinimo sąlygų ir tvarkos apraše. Kaip darbdaviai
 laikosi darbo sutarčių, sudarytų su teritorinės darbo biržos siųstais
 asmenimis, ir šių sutarčių atitikties įsipareigojimams, nustatytiems
 teritorinės darbo biržos ir darbdavių sudarytose sutartyse dėl aktyvios darbo
@@ -1209,11 +1218,8 @@ lėšos.
 1) šio įstatymo
 nustatytoms užimtumo rėmimo priemonėms įgyvendinti, darbo rinkos paslaugoms
 teikti ir užimtumo rėmimo politiką įgyvendinančioms įstaigoms išlaikyti;
-2) Lietuvos
-Respublikos nedarbo socialinio draudimo įstatyme nustatytoms nedarbo socialinio
-draudimo išmokoms mokėti;
-2 punktas netenka galios nuo 2013-01-01.
- 
+2) (neteko galios nuo
+2013-01-01);
 3) bendriems
 Europos Sąjungos struktūrinių fondų ir tarptautiniams užimtumo rėmimo
 projektams finansuoti; 
@@ -1223,39 +1229,9 @@ finansuoti;
 5) šio fondo
 administravimui finansuoti.
 Straipsnio pakeitimai:
-Nr. XI-2307, 2012-10-17,
-Žin., 2012, Nr. 127-6396 (2012-11-03)
+Nr. XI-2307,
+2012-10-17, Žin., 2012, Nr. 127-6396 (2012-11-03)
  
-38 straipsnis. Užimtumo fondo
-lėšos 
-1. Užimtumo
-fondo lėšas sudaro:
-1) nedarbo
-socialinio draudimo lėšos pagal Lietuvos Respublikos valstybinio socialinio
-draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu
-patvirtintą lėšų dydį ir įmokų tarifą šiai draudimo rūšiai; 
-2) užimtumo
-rėmimo politiką įgyvendinančių įstaigų pajamos;
-3) kitos lėšos.
-2. Valstybinio
-socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo
-ministerijos (toliau – Valstybinio socialinio draudimo fondo valdyba) nedarbo
-draudimui gautas lėšas kas savaitę lygiomis dalimis perveda Socialinės apsaugos
-ir darbo ministerijai Užimtumo fondui sudaryti. Pasibaigus ketvirčiui, nedarbo
-socialinio draudimo įmokos perskaičiuojamos pagal Valstybinio socialinio
-draudimo fondo valdybos ataskaitoje nurodytas faktiškai gautas draudėjų įmokas,
-papildomai apskaičiuotos sumos pervedamos kartu su kito ketvirčio nedarbo
-socialinio draudimo lėšomis, o permokėtos sumos atimamos iš kito ketvirčio
-nedarbo socialinio draudimo lėšų.
-3. Pasibaigus finansiniams metams, nepanaudotos
-Užimtumo fondo lėšos įtraukiamos į kitų metų Užimtumo fondo lėšų sąmatą.
-4. Užimtumo fondo lėšos kaupiamos ir saugomos Socialinės
-apsaugos ir darbo ministerijos sąskaitoje. 
-5. Šio
-straipsnio 1 dalies 2 punkte nurodytas lėšas užimtumo politiką įgyvendinančios
-įstaigos perveda į Užimtumo fondo sąskaitą už praėjusį ketvirtį iki kito
-ketvirčio pirmo mėnesio 15 dienos. 
-38 straipsnio redakcija nuo 2013-01-01:
 38
 straipsnis. Užimtumo fondo lėšos 
 1. Užimtumo
@@ -1289,7 +1265,8 @@ straipsnio 1 dalies 2 punkte nurodytas lėšas užimtumo politiką įgyvendinan�
 įstaigos perveda į Užimtumo fondo sąskaitą už praėjusį ketvirtį iki kito
 ketvirčio pirmo mėnesio 15 dienos.
 38 straipsnio redakcija nuo 2014-01-01:
-38 straipsnis. Užimtumo fondo lėšos 
+38
+straipsnis. Užimtumo fondo lėšos 
 1. Užimtumo
 fondo lėšas sudaro:
 1) nedarbo
@@ -1481,24 +1458,32 @@ STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 dalį, 2 straipsnio 1 dalį, įsigalioja 2013 m. sausio 1 d.
 Šio įstatymo 2 straipsnio 1 dalis
 įsigalioja 2014 m. sausio 1 d.
-Šio įstatymo 2 straipsnio 2 dalis
-galioja iki 2013 m. gruodžio 31 d.
+Šio įstatymo 2 straipsnio 2 dalis galioja
+iki 2013 m. gruodžio 31 d.
 Šis įstatymas ir
 jo įsigaliojimas keistas:
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. XII-123,
 2012-12-20, Žin., 2012, Nr. 154-7929 (2012-12-29)
-UŽIMTUMO RĖMIMO
-ĮSTATYMO 37 IR 38 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 2 IR 3 STRAIPSNIŲ PAKEITIMO IR
-PAPILDYMO ĮSTATYMAS
+UŽIMTUMO RĖMIMO ĮSTATYMO
+37 IR 38 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 2 IR 3 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
+ĮSTATYMAS
  
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-475,
+2013-07-02, Žin., 2013, Nr. 79-3996 (2013-07-23)
+UŽIMTUMO RĖMIMO ĮSTATYMO 28 STRAIPSNIO
+PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2014 m. spalio 1 d.
  
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2013-01-04)
+(2013-07-31)
                  
 ausrine.trapinskiene@lrs.lt
 
