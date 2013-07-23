@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EE245B47423C"
 
 # Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas
 
-Suvestinė redakcija nuo 2012-07-01 iki 2013-07-22
+Suvestinė redakcija nuo 2013-07-23 iki 2015-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 104-2363, i. k. 0961010ISTA00I-1553
  
@@ -997,7 +997,10 @@ UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKOS IR KONTROLĖS FORMAVIMAS IR ĮGYVENDINIMAS
 
 
 
-2. Valstybės ir savivaldybių institucijos, vadovaudamosi Lietuvos nacionaline visuomenės sveikatos priežiūros strategija ir jos įgyvendinimo priemonių planu ir atsižvelgdamos į Lietuvos Respublikos administracinių teritorinių vienetų higieninę ir gyventojų sveikatos būklę, privalo pagal savo kompetenciją planuoti užkrečiamųjų ligų profilaktikos ir kontrolės organizacines, teisines ir ekonomines priemones, įgyvendinti valstybines ar rengti savivaldybių tikslines užkrečiamųjų ligų profilaktikos ir kontrolės programas ir užtikrinti jų įgyvendinimą.
+2. Valstybės ir savivaldybių institucijos, vadovaudamosi Lietuvos nacionaline visuomenės sveikatos priežiūros strategija ir jos įgyvendinimo priemonių planu ir atsižvelgdamos į Lietuvos Respublikos administracinių teritorinių vienetų higieninę ir gyventojų sveikatos būklę, privalo pagal savo kompetenciją planuoti užkrečiamųjų ligų profilaktikos ir kontrolės organizacines, teisines ir ekonomines priemones, įgyvendinti valstybines tikslines užkrečiamųjų ligų profilaktikos ir kontrolės programas ir užtikrinti jų įgyvendinimą.
+Straipsnio dalies pakeitimai:
+Nr. XII-466, 2013-07-02, Žin., 2013, Nr. 79-3987 (2013-07-23), i. k. 1131010ISTA0XII-466
+ 
 
 
 Straipsnio pakeitimai:
@@ -1160,7 +1163,10 @@ Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA
 
 
 
-2) tvirtina savivaldybių tikslines sveikatos programas dėl užkrečiamųjų ligų profilaktikos ir kontrolės; 
+2) nustato savivaldybės užkrečiamųjų ligų profilaktikos ir kontrolės organizacines priemones savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose; 
+Straipsnio punkto pakeitimai:
+Nr. XII-466, 2013-07-02, Žin., 2013, Nr. 79-3987 (2013-07-23), i. k. 1131010ISTA0XII-466
+ 
 
 
 
@@ -1180,7 +1186,10 @@ Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA
 2. Savivaldybės administracijos direktorius:
 
 
-1) savivaldybės tarybos kadencijos laikotarpiui tvirtina užkrečiamųjų ligų profilaktikos ir kontrolės organizacinių priemonių planą ir kartu su savivaldybės gydytoju kontroliuoja šio plano įgyvendinimą;
+1) organizuoja savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose nustatytų užkrečiamųjų ligų profilaktikos ir kontrolės priemonių įgyvendinimą;
+Straipsnio punkto pakeitimai:
+Nr. XII-466, 2013-07-02, Žin., 2013, Nr. 79-3987 (2013-07-23), i. k. 1131010ISTA0XII-466
+ 
 
 
 
@@ -1809,3 +1818,8 @@ Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1761, 2011-12-01, Žin., 2011, Nr. 153-7198 (2011-12-15), i. k. 1111010ISTA0XI-1761
 Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo 2, 21, 27 ir 37 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-466, 2013-07-02, Žin., 2013, Nr. 79-3987 (2013-07-23), i. k. 1131010ISTA0XII-466
+Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo 22 ir 26 straipsnių pakeitimo įstatymas
