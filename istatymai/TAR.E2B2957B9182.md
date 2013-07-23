@@ -1772,13 +1772,19 @@ taryba:
 1) tvirtina
 pirminės sveikatos priežiūros plėtojimo programą, kitas savivaldybės
 kompleksines ir tikslines sveikatos programas ir kontroliuoja jų įgyvendinimą;
+Punkto
+redakcijas nuo 2014-10-01:
+1) nustato
+savivaldybės sveikatos priežiūros plėtojimą savivaldybės strateginiame plėtros
+ir (ar) savivaldybės strateginiame veiklos planuose;
+ 
 2) tvirtina
 savivaldybės biudžeto lėšas sveikatinimo veiklai ir jų panaudojimo apyskaitą;
 3) tvirtina
 savivaldybės valdybos (mero) sudarytas sveikatinimo veiklos sutartis;
 4) pagal
-kompetenciją tvirtina sanitarijos ir higienos taisykles, už kurių pažeidimus taikoma
-administracinė atsakomybė;
+kompetenciją tvirtina sanitarijos ir higienos taisykles, už kurių pažeidimus
+taikoma administracinė atsakomybė;
 5) tvirtina
 savivaldybių visuomenės sveikatos rėmimo specialiąją programą, kontroliuoja jai
 skirtų lėšų naudojimą ir tvirtina jų panaudojimo ataskaitą;
@@ -1790,9 +1796,9 @@ reorganizuoja ar likviduoja pirminės sveikatos priežiūros įstaigas, farmacij
 įmones ir vykdo jų steigėjos funkcijas;
 8) valdo jos
 pavaldumui priskirtas antrinio lygio sveikatos priežiūros įstaigas;
-9) nustato savivaldybės
-reguliavimo sričiai priskirtų įstaigų įgaliojimus saugant ir stiprinant
-gyventojų sveikatą;
+9) nustato
+savivaldybės reguliavimo sričiai priskirtų įstaigų įgaliojimus saugant ir
+stiprinant gyventojų sveikatą;
 10) atšaukia
 prieštaraujančius įstatymams ar savivaldybės tarybos sprendimams savivaldybės
 valdybos, mero sprendimus ir potvarkius, komitetų, komisijų, bendruomenės
@@ -1803,6 +1809,8 @@ klausimais;
 Straipsnio pakeitimai:
 Nr. IX-2555,
 2004-11-09, Žin., 2004, Nr. 171-6309 (2004-11-26)
+Nr. XII-462,
+2013-07-02, Žin., 2013, Nr. 79-3983 (2013-07-23)
  
 64 straipsnis. Savivaldybės administracijos
 direktoriaus kompetencija sveikatinimo veiklos klausimais
@@ -1814,6 +1822,15 @@ sveikatos priežiūros plėtojimo programos, kitų savivaldybės kompleksinių i
 tikslinių sveikatos programų projektų rengimą ir savivaldybės tarybos
 patvirtintų programų, sveikatinimo veiklos įstatymų, kitų teisės aktų
 įgyvendinimą savivaldybės teritorijoje;
+Punkto
+redakcijas nuo 2014-10-01:
+1) organizuoja Lietuvos
+sveikatos programos, valstybinių sveikatos programų įgyvendinimą, savivaldybės
+sveikatos priežiūros plėtojimą, savivaldybės tarybos patvirtintų savivaldybės
+strateginio plėtros ir (ar) savivaldybės strateginio veiklos planų,
+sveikatinimo veiklos įstatymų, kitų teisės aktų įgyvendinimą savivaldybės
+teritorijoje;
+ 
 2) pagal kompetenciją
 užtikrina valstybės laiduojamą ir savivaldybės remiamą sveikatos priežiūrą
 savivaldybės teritorijoje;
@@ -1823,9 +1840,9 @@ organizuoja antrinę ir tretinę asmens sveikatos priežiūrą pagal šio įstat
 straipsnio 5 dalies reikalavimus;
 4) organizuoja savivaldybės tarybos patvirtintų
 sanitarijos ir higienos taisyklių laikymosi kontrolę savivaldybės teritorijoje;
-5) šio įstatymo ir kitų teisės aktų nustatyta
-tvarka sudaro sveikatinimo veiklos sutartis, teikia jas tvirtinti savivaldybės
-tarybai ir kontroliuoja, kaip jų laikomasi;
+5) šio įstatymo ir kitų teisės aktų nustatyta tvarka
+sudaro sveikatinimo veiklos sutartis, teikia jas tvirtinti savivaldybės tarybai
+ir kontroliuoja, kaip jų laikomasi;
 6) vykdo
 savivaldybės nuosavybei priklausančių sveikatos priežiūros įstaigų
 projektavimo, statybos, kapitalinio remonto užsakovo funkcijas;
@@ -1848,6 +1865,8 @@ Nr. X-1151,
 2007-05-24, Žin., 2007, Nr. 64-2456 (2007-06-09)
 Nr. XI-766,
 2010-04-20, Žin., 2010, Nr. 51-2476 (2010-05-04)
+Nr. XII-462,
+2013-07-02, Žin., 2013, Nr. 79-3983 (2013-07-23)
  
 65 straipsnis. Savivaldybės gydytojas ir jo
 kompetencijos sveikatinimo veiklos reikalų 
@@ -1905,11 +1924,11 @@ vertinant ir formuojant ligų profilaktikos ir kontrolės politiką.
 3. Nacionalinė
 sveikatos taryba teikia išvadas dėl valstybės siekiamo sveikatos lygio
 rodiklių, sveikatinimo veiklos tikslų, Lietuvos sveikatos programos bei kitų
-valstybinių sveikatos programų, pagal kompetenciją analizuoja ir vertina Lietuvos
-sveikatos programos įgyvendinimą, rengia ir kasmet teikia Seimui pranešimą apie
-gyventojų sveikatos ir sveikatos politikos formavimo ir įgyvendinimo būklę,
-atlieka šio ir kitų įstatymų bei Tarybos nuostatų jai priskirtas kitas
-funkcijas.
+valstybinių sveikatos programų, pagal kompetenciją analizuoja ir vertina
+Lietuvos sveikatos programos įgyvendinimą, rengia ir kasmet teikia Seimui
+pranešimą apie gyventojų sveikatos ir sveikatos politikos formavimo ir
+įgyvendinimo būklę, atlieka šio ir kitų įstatymų bei Tarybos nuostatų jai priskirtas
+kitas funkcijas.
 4. Nacionalinė
 sveikatos taryba turi teisę:
 1) gauti iš
@@ -1917,6 +1936,15 @@ Vyriausybės, ministerijų, kitų Vyriausybės įstaigų, savivaldybių valdymo
 organų, įmonių, įstaigų, organizacijų teisės aktų, programų projektus, kitą
 informaciją, reikalingą šiame įstatyme ir Tarybos nuostatuose numatytoms
 funkcijoms įgyvendinti;
+Punkto
+redakcijas nuo 2014-10-01:
+1) gauti iš
+Vyriausybės, ministerijų, kitų Vyriausybės įstaigų, savivaldybių valdymo
+organų, įmonių, įstaigų, organizacijų teisės aktų, savivaldybės strateginio
+plėtros ir (ar) savivaldybės strateginio veiklos planų, programų projektus,
+kitą informaciją, reikalingą šiame įstatyme ir Tarybos nuostatuose nustatytoms
+funkcijoms įgyvendinti;
+ 
 2) pagal
 kompetenciją atlikti įstatymų, kitų teisės aktų, socialinio ir ekonominio
 plėtojimo programų projektų ekspertizę ir teikti šių programų rengėjams savo
@@ -1931,6 +1959,8 @@ pakeitimai:
 Nr.
 X-1269,
 2007-07-04, Žin., 2007, Nr. 81-3327 (2007-07-21)
+Nr. XII-462,
+2013-07-02, Žin., 2013, Nr. 79-3983 (2013-07-23)
  
 67(1)
 straipsnis. Valstybinė psichikos sveikatos komisija prie Lietuvos
@@ -1995,6 +2025,15 @@ Vyriausybės, ministerijų, kitų Vyriausybės įstaigų, savivaldybių valdymo
 organų, įmonių, įstaigų, organizacijų įstatymų, kitų teisės aktų, programų
 projektus bei kitą informaciją, reikalingą šiame įstatyme ir komisijos
 nuostatuose numatytoms funkcijoms vykdyti;
+Punkto
+redakcijas nuo 2014-10-01:
+1) gauti iš
+Vyriausybės, ministerijų, kitų Vyriausybės įstaigų, savivaldybių valdymo
+organų, įmonių, įstaigų, organizacijų įstatymų, kitų teisės aktų, savivaldybės
+strateginio plėtros ir (ar) savivaldybės strateginio veiklos planų, programų
+projektus bei kitą informaciją, reikalingą šiame įstatyme ir komisijos
+nuostatuose nustatytoms funkcijoms vykdyti;
+ 
 2) pagal
 kompetenciją atlikti įstatymų, kitų teisės aktų, socialinio ir ekonominio
 plėtojimo programų projektų ekspertizę ir teikti šių programų rengėjams
@@ -2011,6 +2050,8 @@ kompetencijai priskirtiems uždaviniams spręsti.
 Straipsnio pakeitimai:
 Nr. XI-766,
 2010-04-20, Žin., 2010, Nr. 51-2476 (2010-05-04)
+Nr. XII-462, 2013-07-02,
+Žin., 2013, Nr. 79-3983 (2013-07-23)
  
 69
 straipsnis. Savivaldybės bendruomenės sveikatos taryba
@@ -2040,8 +2081,8 @@ numatytoms funkcijoms vykdyti;
 kompetenciją teikti siūlymus savivaldybės tarybai, savivaldos vykdomosioms
 institucijoms.
 Straipsnio pakeitimai:
-Nr. IX-2555, 2004-11-09,
-Žin., 2004, Nr. 171-6309 (2004-11-26)
+Nr. IX-2555,
+2004-11-09, Žin., 2004, Nr. 171-6309 (2004-11-26)
  
 III SKYRIUS
 SVEIKATINIMO
@@ -2108,13 +2149,12 @@ Nr. XI-1129,
  
 71 straipsnis. Visuomenės sveikatos
 centrai apskrityse
-1. Valstybės
-politiką visuomenės sveikatos priežiūros srityje įgyvendina visuomenės
-sveikatos centrai apskrityse (toliau – centrai). Centrai yra viešieji
-juridiniai asmenys, išlaikomi iš valstybės biudžeto asignavimų ir kitų
-valstybės pinigų fondų lėšų. Centrai veikia pagal Vyriausybės patvirtintus
-nuostatus. Vyriausybė centrų nuostatus gali pavesti tvirtinti sveikatos
-apsaugos ministrui.
+1. Valstybės politiką
+visuomenės sveikatos priežiūros srityje įgyvendina visuomenės sveikatos centrai
+apskrityse (toliau – centrai). Centrai yra viešieji juridiniai asmenys,
+išlaikomi iš valstybės biudžeto asignavimų ir kitų valstybės pinigų fondų lėšų.
+Centrai veikia pagal Vyriausybės patvirtintus nuostatus. Vyriausybė centrų
+nuostatus gali pavesti tvirtinti sveikatos apsaugos ministrui.
 2. Centrų
 kompetenciją nustato Visuomenės sveikatos priežiūros įstatymas ir kiti
 įstatymai bei teisės aktai.
@@ -2129,10 +2169,10 @@ XI-1759,
  
 72 straipsnis. Valstybinė vaistų kontrolės tarnyba
 prie Lietuvos Respublikos sveikatos apsaugos ministerijos
-1. Valstybinė
-vaistų kontrolės tarnyba prie Lietuvos Respublikos sveikatos apsaugos
-ministerijos steigiama Lietuvos Respublikos teisės aktų nustatyta tvarka. Ši
-tarnyba yra juridinis asmuo. Jos veikla finansuojama iš valstybės biudžeto.
+1. Valstybinė vaistų
+kontrolės tarnyba prie Lietuvos Respublikos sveikatos apsaugos ministerijos
+steigiama Lietuvos Respublikos teisės aktų nustatyta tvarka. Ši tarnyba yra
+juridinis asmuo. Jos veikla finansuojama iš valstybės biudžeto.
 2. Valstybinė
 vaistų kontrolės tarnyba prie Lietuvos Respublikos sveikatos apsaugos
 ministerijos:
@@ -2230,8 +2270,8 @@ ministerijos:
 formuojant valstybės politiką asmenų licencijavimo sveikatos priežiūros
 veiklai, sveikatos priežiūros technologijų atitikties teisės aktų reikalavimams
 vertinimo, medicinos prietaisų atitikties būtiniesiems reikalavimams vertinimo,
-sveikatos priežiūros paslaugų kokybės, pacientų saugos srityse ir ją įgyvendina;
-
+sveikatos priežiūros paslaugų kokybės, pacientų saugos srityse ir ją
+įgyvendina; 
 2) akredituoja
 juridinius asmenis sveikatos priežiūros veiklai;
 3) licencijuoja
@@ -2395,13 +2435,13 @@ pagal Sveikatos apsaugos ministerijos patvirtintus pavyzdinius nuostatus.
 82
 straipsnis. Savivaldybių sanitarijos inspekcija
 1. Savivaldybių
-sanitarijos inspekcija yra specializuotas savivaldybės administracijos padalinys,
-kontroliuojantis, kaip laikomasi sanitarijos reikalavimų savivaldybės
-teritorijoje.
+sanitarijos inspekcija yra specializuotas savivaldybės administracijos
+padalinys, kontroliuojantis, kaip laikomasi sanitarijos reikalavimų
+savivaldybės teritorijoje.
 2. Savivaldybių
 sanitarijos inspekcijos uždavinius, kompetenciją, struktūrą, jos pareigūnų
-teises ir pareigas, sanitarinės kontrolės turinį ir tvarką reglamentuoja nuostatai,
-kuriuos tvirtina Vyriausybė Sveikatos apsaugos ministerijos teikimu.
+teises ir pareigas, sanitarinės kontrolės turinį ir tvarką reglamentuoja
+nuostatai, kuriuos tvirtina Vyriausybė Sveikatos apsaugos ministerijos teikimu.
  
 83 straipsnis. Kitų sveikatinimo veiklos valdymo ir
 kontrolės institucijų kompetencija 
@@ -2424,8 +2464,8 @@ Respublikos gyventojai turi teisę:
 1) turėti
 sveiką, saugią fizinę ir socialinę aplinką bei gauti informaciją apie pavojų
 sveikatai šioje aplinkoje;
-2) gauti sveikatai
-saugias vartojimui skirtas žaliavas, gaminius, prekes ir paslaugas;
+2) gauti
+sveikatai saugias vartojimui skirtas žaliavas, gaminius, prekes ir paslaugas;
 3) gauti
 informaciją apie sveikatos priežiūros įstaigas bei jų teikiamas sveikatos
 priežiūros paslaugas;
@@ -2564,6 +2604,7 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                                        VALDAS
 ADAMKUS
  
+ 
                                                                                     Lietuvos
 Respublikos 
                                                                                     1994
@@ -2600,7 +2641,8 @@ Nr.
 VIII-280,
 97.06.19, Žin., 1997, Nr.64-1507 (97.07.04)
 LIETUVOS
-RESPUBLIKOS SVEIKATOS SISTEMOS ĮSTATYMO 90, 113 IR 119 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+RESPUBLIKOS SVEIKATOS SISTEMOS ĮSTATYMO 90, 113 IR 119 STRAIPSNIŲ PAKEITIMO
+ĮSTATYMAS
  
 3.
 Lietuvos
@@ -2767,8 +2809,8 @@ X-298,
 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14)
 MEDICINOS
 PRAKTIKOS ĮSTATYMO, ODONTOLOGIJOS PRAKTIKOS ĮSTATYMO, SVEIKATOS SISTEMOS
-ĮSTATYMO, PSICHIKOS SVEIKATOS PRIEŽIŪROS ĮSTATYMO, NARKOLOGINĖS PRIEŽIŪROS
-ĮSTATYMO PAKEITIMO ĮSTATYMAS
+ĮSTATYMO, PSICHIKOS SVEIKATOS PRIEŽIŪROS ĮSTATYMO, NARKOLOGINĖS PRIEŽIŪROS ĮSTATYMO
+PAKEITIMO ĮSTATYMAS
  
 23.
 Lietuvos
@@ -2858,8 +2900,8 @@ SISTEMOS ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 31.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. XI-1759,
-2011-12-01, Žin., 2011, Nr. 153-7196 (2011-12-15)
+Nr. XI-1759, 2011-12-01,
+Žin., 2011, Nr. 153-7196 (2011-12-15)
 SVEIKATOS
 SISTEMOS ĮSTATYMO 71 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
@@ -2892,8 +2934,8 @@ Nr.
 XI-2369,
 2012-11-06, Žin., 2012, Nr. 135-6860 (2012-11-22)
 SVEIKATOS
-SISTEMOS ĮSTATYMO 75 STRAIPSNIO PAKEITIMO IR 79 STRAIPSNIO PRIPAŽINIMO
-NETEKUSIU GALIOS ĮSTATYMAS
+SISTEMOS ĮSTATYMO 75 STRAIPSNIO PAKEITIMO IR 79 STRAIPSNIO PRIPAŽINIMO NETEKUSIU
+GALIOS ĮSTATYMAS
  
 35.
 Lietuvos
@@ -2925,6 +2967,18 @@ SISTEMOS ĮSTATYMO 87 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja 2014 m. sausio 1 d.
  
+38.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XII-462,
+2013-07-02, Žin., 2013, Nr. 79-3983 (2013-07-23)
+SVEIKATOS
+SISTEMOS ĮSTATYMO 63, 64, 67 IR 68 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis
+įstatymas įsigalioja 2014 m. spalio 1 d.
+ 
+ 
 ***
 Pabaiga ***
  
@@ -2942,10 +2996,12 @@ STRAIPSNIŲ, LIETUVOS RESPUBLIKOS BIUDŽETO SANDAROS ĮSTATYMO 18 STRAIPSNIO 2
 DALIES IR LIETUVOS RESPUBLIKOS SEIMO STATUTO 172 STRAIPSNIO 1 DALIES ATITIKTIES
 LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
+ 
 ***
 Pabaiga ***
  
+ 
 Redagavo
-Aušrinė Trapinskienė (2013-06-06)
+Aušrinė Trapinskienė (2013-07-29)
                  
 ausrine.trapinskiene@lrs.lt
