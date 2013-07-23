@@ -81,7 +81,7 @@ galimo ir (ar) esamo poveikio visuomenės sveikatai nustatymas, apibūdinimas ir
 vertinimas bei išvadų ir pasiūlymų, kaip užkirsti kelią neigiamam poveikiui ar
 jį riboti, rengimas.
 10.
-(Netenka galios nuo 2010 m. liepos 1 d.)
+Netenka galios nuo 2010 m. liepos 1 d.
 11. Visuomenės
 sveikatos sauga – organizacinių, techninių, socialinių, ekonominių ir
 teisinių priemonių, skirtų visuomenės ar atskirų jos grupių sveikatai apsaugoti
@@ -112,8 +112,8 @@ Straipsnis papildomas 17 dalimi nuo 2014-01-01:
 17. Sanitarinės
 apsaugos zona – aplink stacionarų taršos šaltinį arba kelis šaltinius
 esanti teritorija, kurioje dėl galimo neigiamo vykdomos ūkinės veiklos poveikio
-visuomenės sveikatai galioja įstatymais ar Vyriausybės nutarimais nustatytos specialiosios
-žemės naudojimo sąlygos.
+visuomenės sveikatai galioja įstatymais ar Vyriausybės nutarimais nustatytos
+specialiosios žemės naudojimo sąlygos.
 Straipsnio pakeitimai:
 Nr. X-1150,
 2007-05-24, Žin., 2007, Nr. 64-2455 (2007-06-09)
@@ -173,8 +173,8 @@ tvarkos.
 II skyrius
 Visuomenės sveikatos priežiūros sistemos struktūra
  
-5 straipsnis. Visuomenės sveikatos priežiūros
-įstaigų sistemos struktūra
+5 straipsnis. Visuomenės sveikatos
+priežiūros įstaigų sistemos struktūra
 1. Visuomenės
 sveikatos priežiūros įstaigų sistemą sudaro:
 1) Lietuvos
@@ -213,9 +213,9 @@ Savivaldybės vykdoma visuomenės sveikatos priežiūra
 valstybines (valstybės perduotas savivaldybėms) visuomenės sveikatos priežiūros
 funkcijas: visuomenės sveikatos priežiūrą savivaldybės teritorijoje esančiose
 ikimokyklinio ugdymo, bendrojo ugdymo mokyklose ir profesinio mokymo įstaigose
-ugdomų mokinių pagal ikimokyklinio, priešmokyklinio, pradinio, pagrindinio ir
-vidurinio ugdymo programas, visuomenės sveikatos stiprinimą, visuomenės
-sveikatos stebėseną;
+ugdomų mokinių pagal ikimokyklinio, priešmokyklinio, pradinio, pagrindinio ir vidurinio
+ugdymo programas, visuomenės sveikatos stiprinimą, visuomenės sveikatos
+stebėseną;
 2) vykdo
 savarankiškąsias visuomenės sveikatos priežiūros funkcijas: rengia, tvirtina ir
 įgyvendina tikslines savivaldybių sveikatos programas, atsižvelgdamos į vyraujančias
@@ -228,6 +228,29 @@ ikimokyklinio, priešmokyklinio, pradinio, pagrindinio ir vidurinio ugdymo
 programas; įtraukia į visuomenės sveikatos stiprinimo veiklą socialinius
 partnerius; vykdo kitas įstatymų nustatytas visuomenės sveikatos priežiūros
 funkcijas.
+Dalies redakcija nuo 2014-10-01:
+1. Savivaldybės:
+1) vykdo
+valstybines (valstybės perduotas savivaldybėms) visuomenės sveikatos priežiūros
+funkcijas: visuomenės sveikatos priežiūrą savivaldybės teritorijoje esančiose
+ikimokyklinio ugdymo, bendrojo ugdymo mokyklose ir profesinio mokymo įstaigose
+ugdomų mokinių pagal ikimokyklinio, priešmokyklinio, pradinio, pagrindinio ir
+vidurinio ugdymo programas, visuomenės sveikatos stiprinimą, visuomenės
+sveikatos stebėseną;
+2) vykdo
+savarankiškąsias visuomenės sveikatos priežiūros funkcijas: įgyvendina
+savivaldybės tarybos patvirtintuose savivaldybės strateginiame plėtros ir (ar)
+savivaldybės strateginiame veiklos planuose numatytas visuomenės sveikatos
+priemones, atsižvelgdamos į vyraujančias visuomenės sveikatos problemas;
+dalyvauja įgyvendinant valstybines visuomenės sveikatos strategijas ir
+programas, tarpinstitucinius veiklos planus; vykdo vaikų ir jaunimo visuomenės
+sveikatos priežiūrą, išskyrus visuomenės sveikatos priežiūrą savivaldybės
+teritorijoje esančiose ikimokyklinio ugdymo, bendrojo ugdymo mokyklose ir
+profesinio mokymo įstaigose ugdomų mokinių pagal ikimokyklinio,
+priešmokyklinio, pradinio, pagrindinio ir vidurinio ugdymo programas; įtraukia
+į visuomenės sveikatos stiprinimo veiklą socialinius partnerius; vykdo kitas
+įstatymų nustatytas visuomenės sveikatos priežiūros funkcijas.
+ 
 2. Savivaldybės visuomenės
 sveikatos priežiūros funkcijoms vykdyti steigia visuomenės sveikatos priežiūros
 biudžetines įstaigas – savivaldybių visuomenės sveikatos biurus. Savivaldybės
@@ -254,6 +277,8 @@ Nr. XI-1757, 2011-12-01,
 Žin., 2011, Nr. 153-7194 (2011-12-15)
 Nr. XII-132, 2012-12-20,
 Žin., 2012, Nr. 154-7938 (2012-12-29)
+Nr. XII-464, 2013-07-02,
+Žin., 2013, Nr. 79-3985 (2013-07-23)
  
 7 straipsnis. Valstybės vykdoma
 visuomenės sveikatos priežiūra
@@ -272,10 +297,11 @@ uždaviniams įgyvendinti, visuomenės sveikatos priežiūros paslaugoms teikti.
 nacionalinei sveikatos sistemai priklausančios biudžetinės visuomenės
 sveikatos priežiūros įstaigos, kurių steigėja yra Sveikatos apsaugos
 ministerija, veikiančios visoje valstybės teritorijoje, vykdo:
-1) lėtinių neinfekcinių
-ligų ir nelaimingų atsitikimų bei traumų profilaktiką, įgyvendindamos sveikos
-mitybos, fizinio aktyvumo, su mityba ir gyvensena susijusio gyventojų sergamumo
-mažinimo bei aplinkos sveikatos ir maisto saugos politiką; 
+1) lėtinių
+neinfekcinių ligų ir nelaimingų atsitikimų bei traumų profilaktiką,
+įgyvendindamos sveikos mitybos, fizinio aktyvumo, su mityba ir gyvensena
+susijusio gyventojų sergamumo mažinimo bei aplinkos sveikatos ir maisto saugos
+politiką; 
 2) visuomenės
 psichikos sveikatos priežiūrą ir psichikos ligų bei priklausomybės ligų
 profilaktiką ir stebėseną (monitoringą), organizuodamos koordinuotą,
@@ -289,9 +315,9 @@ alkoholiui, tabakui, psichoaktyvioms medžiagoms skaičių bei su tuo susijusią
 ekonominę naštą;
 3) žmonių
 užkrečiamųjų ligų epidemiologinės priežiūros profilaktikos ir kontrolės
-priemones, siekdamos mažinti šalies gyventojų sergamumą, mirtingumą ir
-invalidumą nuo jų, kai kurių užkrečiamųjų ligų likvidavimą, tinkamą pasirengimą
-ir reagavimą į iškilusias dėl užkrečiamųjų ligų grėsmes visuomenei;
+priemones, siekdamos mažinti šalies gyventojų sergamumą, mirtingumą ir invalidumą
+nuo jų, kai kurių užkrečiamųjų ligų likvidavimą, tinkamą pasirengimą ir
+reagavimą į iškilusias dėl užkrečiamųjų ligų grėsmes visuomenei;
 4) profesinių
 ligų stebėseną (monitoringą).
 4. Lietuvos
@@ -301,8 +327,8 @@ ministerija, veikiančių visoje valstybės teritorijoje, nomenklatūra nustatyt
 Sveikatos priežiūros įstaigų įstatyme.
 5. Netenka
 galios nuo 2010 m. liepos 1 d.
-6. Netenka
-galios nuo 2010 m. liepos 1 d.
+6. Netenka galios
+nuo 2010 m. liepos 1 d.
 Straipsnio pakeitimai:
 Nr. X-1150, 2007-05-24, Žin., 2007, Nr.
 64-2455 (2007-06-09)
@@ -329,8 +355,8 @@ Visuomenės
 sveikatos priežiūros įstaigų veiklą koordinuoja ir kontroliuoja Sveikatos
 apsaugos ministerija ir pagal kompetenciją kitos institucijos.
 Straipsnio pakeitimai:
-Nr. X-1150, 2007-05-24,
-Žin., 2007, Nr. 64-2455 (2007-06-09)
+Nr. X-1150,
+2007-05-24, Žin., 2007, Nr. 64-2455 (2007-06-09)
  
 10
 straipsnis. Valstybės ir savivaldybių visuomenės sveikatos priežiūros
@@ -343,22 +369,29 @@ Lietuvos sveikatos programą.
 Lietuvos sveikatos programai įgyvendinti Vyriausybė tvirtina Lietuvos
 nacionalinę visuomenės sveikatos priežiūros strategiją.
 3. Valstybės
-institucijos, įgyvendindamos Lietuvos sveikatos programą, įtraukia Lietuvos
-nacionalinės visuomenės sveikatos priežiūros strategijos nuostatas į
-rengiamas socialines ekonomines programas, planus ir regionų plėtros programas.
-
+institucijos, įgyvendindamos Lietuvos sveikatos programą, įtraukia Lietuvos nacionalinės
+visuomenės sveikatos priežiūros strategijos nuostatas į rengiamas
+socialines ekonomines programas, planus ir regionų plėtros programas. 
 4. Savivaldybių institucijos Lietuvos nacionalinę visuomenės
 sveikatos priežiūros strategiją įgyvendina per savivaldybių sveikatos
 programas.
+Dalies redakcija nuo 2014-10-01:
+4. Savivaldybių
+institucijos Lietuvos nacionalinę visuomenės sveikatos priežiūros strategiją
+įgyvendina per savivaldybės strateginį plėtros ir (ar) savivaldybės strateginį
+veiklos planus.
+ 
 5. Lietuvos
 nacionalinės visuomenės sveikatos priežiūros strategijos, jos įgyvendinimo
-planų ir programų rengimą bei įgyvendinimą koordinuoja Vyriausybės įgaliota institucija.
-Ji rengia ir skelbia visuomenei Lietuvos nacionalinės visuomenės sveikatos
-priežiūros strategijos įgyvendinimo ataskaitą bei kas dveji metai organizuoja
-viešą jos rezultatų svarstymą.
+planų ir programų rengimą bei įgyvendinimą koordinuoja Vyriausybės įgaliota
+institucija. Ji rengia ir skelbia visuomenei Lietuvos nacionalinės visuomenės
+sveikatos priežiūros strategijos įgyvendinimo ataskaitą bei kas dveji metai
+organizuoja viešą jos rezultatų svarstymą.
 Straipsnio pakeitimai:
 Nr. XI-792, 2010-04-29,
 Žin., 2010, Nr. 57-2809 (2010-05-18)
+Nr. XII-464, 2013-07-02,
+Žin., 2013, Nr. 79-3985 (2013-07-23)
  
 11
 straipsnis.
@@ -378,17 +411,19 @@ Visuomenės
 sveikatos priežiūros viešąjį administravimą pagal savo kompetenciją vykdo
 Vyriausybė, Sveikatos apsaugos ministerija, kitos ministerijos, Vyriausybės
 įstaigos, visuomenės sveikatos centrai apskrityse, Valstybinė akreditavimo
-sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos (toliau
-– Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba), Radiacinės
-saugos centras, kitos valstybės ir savivaldybių institucijos ir įstaigos.
+sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos
+(toliau – Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba),
+Radiacinės saugos centras, kitos valstybės ir savivaldybių institucijos ir
+įstaigos.
 Straipsnio pakeitimai:
-Nr. XI-792, 2010-04-29,
-Žin., 2010, Nr. 57-2809 (2010-05-18)
+Nr. XI-792,
+2010-04-29, Žin., 2010, Nr. 57-2809 (2010-05-18)
 Nr. XI-1757,
 2011-12-01, Žin., 2011, Nr. 153-7194 (2011-12-15)
  
 13 straipsnis.
-Visuomenės sveikatos priežiūros viešojo administravimo įvertinimas ir koordinavimas
+Visuomenės sveikatos priežiūros viešojo administravimo įvertinimas ir
+koordinavimas
 Visuomenės sveikatos politikos priemonių planavimą ir įgyvendinimą
 ministerijose, Vyriausybės įstaigose koordinuoja Valstybinė sveikatos reikalų
 komisija prie Lietuvos Respublikos Vyriausybės, o Vyriausybės įgaliota
@@ -411,18 +446,20 @@ sveikatos priežiūros, švietimo, stacionarių globos ir slaugos įstaigų,
 interneto kavinių ir klubų, keleivių vežimo traukiniais, laivais ir keltais
 vidaus maršrutais, policijos areštinių ir laisvės atėmimo vietų, juridinių
 asmenų, valstybės įmonių, savivaldybės įmonių, viešųjų įstaigų, taip pat
-užsienio valstybių juridinių asmenų ar kitų organizacijų filialų (toliau – įmonė),
-gaminančių su maistu susiliečiančius ir kosmetikos gaminius, kirpyklų,
+užsienio valstybių juridinių asmenų ar kitų organizacijų filialų (toliau –
+įmonė), gaminančių su maistu susiliečiančius ir kosmetikos gaminius, kirpyklų,
 kosmetikos, tatuiruočių kabinetų, grožio salonų, soliariumų, baseinų,
-skalbyklų, pirčių, saunų, sporto klubų teikiamų paslaugų, apgyvendinimo
-paslaugų, žmogaus palaikų laidojimo paslaugų (žmogaus palaikų laikymo, paruošimo šarvoti, šarvojimo) teikimo
-veiklos, balzamavimo ir kremavimo veiklos valstybinę visuomenės
-sveikatos saugos kontrolę;
+skalbyklų, pirčių, saunų, sporto klubų teikiamų paslaugų, apgyvendinimo paslaugų,
+žmogaus palaikų laidojimo paslaugų
+(žmogaus palaikų laikymo, paruošimo šarvoti, šarvojimo) teikimo veiklos,
+balzamavimo ir kremavimo veiklos valstybinę visuomenės sveikatos saugos
+kontrolę;
 2) pagal asmenų
-prašymus, pranešimus, skundus vykdo visuomenės sveikatos saugos reglamentų (higienos
-normų), kurių kontrolė nėra pavesta kitiems viešojo administravimo subjektams,
-laikymosi kontrolę (valstybinę visuomenės sveikatos saugos kontrolę) pagal
-sveikatos apsaugos ministro nustatytą kontroliuojamų sričių sąrašą;
+prašymus, pranešimus, skundus vykdo visuomenės sveikatos saugos reglamentų
+(higienos normų), kurių kontrolė nėra pavesta kitiems viešojo administravimo
+subjektams, laikymosi kontrolę (valstybinę visuomenės sveikatos saugos
+kontrolę) pagal sveikatos apsaugos ministro nustatytą kontroliuojamų sričių
+sąrašą;
 3) pagal Žmonių
 užkrečiamųjų ligų profilaktikos ir kontrolės įstatyme nustatytą kompetenciją
 vykdo užkrečiamųjų ligų profilaktiką ir kontrolę;
@@ -430,8 +467,8 @@ vykdo užkrečiamųjų ligų profilaktiką ir kontrolę;
 kompetenciją dalyvauja vykdant teritorijų planavimo ir statybų valstybinę
 priežiūrą;
 Punkto redakcija nuo 2014-01-01:
-4) pagal kompetenciją
-dalyvauja teritorijų
+4) pagal
+kompetenciją dalyvauja teritorijų
 planavimo ir statinių statybos procese;
  
 5) vykdo
@@ -490,12 +527,12 @@ gyvenamosios aplinkos tarša;
 kitas visuomenės sveikatos priežiūros viešojo administravimo funkcijas, kurias
 reglamentuoja šis ir kiti įstatymai bei teisės aktai.
 Straipsnio pakeitimai:
-Nr. X-1150, 2007-05-24,
-Žin., 2007, Nr. 64-2455 (2007-06-09)
+Nr. X-1150,
+2007-05-24, Žin., 2007, Nr. 64-2455 (2007-06-09)
 Nr. XI-792,
 2010-04-29, Žin., 2010, Nr. 57-2809 (2010-05-18)
-Nr. XI-1757, 2011-12-01,
-Žin., 2011, Nr. 153-7194 (2011-12-15)
+Nr. XI-1757,
+2011-12-01, Žin., 2011, Nr. 153-7194 (2011-12-15)
 Nr. XII-408,
 2013-06-27, Žin., 2013, Nr. 76-3825 (2013-07-16)
  
@@ -705,8 +742,9 @@ leidimą-higienos pasą priimamas Taisyklių nustatyta tvarka.
 jeigu:
 1) ūkinės komercinės veiklos vykdymo sąlygų
 vertinimo pažymos išvadose nurodyta, kad ūkinės
-komercinės veiklos sąlygos neatitinka visuomenės sveikatos saugos reglamentų (higienos normų) ir kitų visuomenės sveikatos saugą
-reglamentuojančių teisės aktų reikalavimų;
+komercinės veiklos sąlygos neatitinka visuomenės sveikatos saugos reglamentų (higienos normų) ir kitų visuomenės sveikatos
+saugą reglamentuojančių teisės aktų
+reikalavimų;
 2) per nustatytą terminą fizinis, juridinis
 asmuo ar filialas nesudarė leidimus-higienos pasus išduodančiai institucijai galimybių atlikti ūkinės
 komercinės veiklos vykdymo sąlygų vertinimo;
@@ -764,22 +802,20 @@ veiklos vykdymo vietą, fizinis asmuo miršta;
 3) Taisyklių nustatyta tvarka įspėtas dėl
 leidimo-higienos paso galiojimo panaikinimo fizinis,
 juridinis asmuo ar filialas per 6 mėnesius nuo leidimo-higienos paso galiojimo sustabdymo nepateikė įrodymų dėl trūkumų
-ir (ar) pažeidimų, dėl kurių buvo priimtas sprendimas sustabdyti
-leidimo-higienos paso galiojimą, tinkamo pašalinimo
-ir nesikreipė į leidimus-higienos pasus
-išduodančią instituciją dėl leidimo-higienos
-paso galiojimo sustabdymo panaikinimo arba kreipėsi, tačiau įvertinus pateiktus
+ir (ar) pažeidimų, dėl kurių buvo priimtas sprendimas sustabdyti leidimo-higienos
+paso galiojimą, tinkamo pašalinimo ir nesikreipė į leidimus-higienos pasus išduodančią
+instituciją dėl leidimo-higienos paso
+galiojimo sustabdymo panaikinimo arba kreipėsi, tačiau įvertinus pateiktus
 dokumentus ir atlikus ūkinės komercinės veiklos vykdymo sąlygų vertinimą buvo priimtas sprendimas atsisakyti panaikinti leidimo-higienos paso
 galiojimo sustabdymą;
 4) fizinis, juridinis asmuo ar
 filialas netenka teisės naudotis patalpomis ir (ar) įranga, kuriose ar su kuria
 vykdyti ūkinę komercinę veiklą buvo išduotas leidimas-higienos pasas.
-13. Leidimas-higienos
-pasas išduodamas neribotam laikui. Už leidimo-higienos paso ar jo dublikato išdavimą, leidimo-higienos paso
-patikslinimą imama valstybės rinkliava, išskyrus
-atvejus, kai
-leidimas-higienos pasas patikslinamas siekiant
-ištaisyti klaidas, padarytas išduodant leidimą-higienos
+13.
+Leidimas-higienos pasas išduodamas neribotam laikui. Už leidimo-higienos paso
+ar jo dublikato išdavimą, leidimo-higienos
+paso patikslinimą imama valstybės rinkliava, išskyrus atvejus, kai leidimas-higienos pasas patikslinamas
+siekiant ištaisyti klaidas, padarytas išduodant leidimą-higienos
 pasą. Leidimai-higienos pasai apskaitomi ir
 registruojami Taisyklėse nustatyta tvarka.
 Straipsnio pakeitimai:
@@ -808,9 +844,9 @@ kad teritorijų planavimo dokumentai, statinių projektai, pagal juos sutvarkyta
 aplinka ir pastatyti statiniai atitiktų visuomenės sveikatos priežiūros teisės
 aktų reikalavimus.
 Straipsnio redakcija nuo 2014-01-01:
-23 straipsnis. Teritorijų
-planavimo dokumentų, žemėtvarkos planavimo dokumentų, statinių projektų
-atitiktis visuomenės sveikatos saugos teisės aktams
+23 straipsnis. Teritorijų planavimo
+dokumentų, žemėtvarkos planavimo dokumentų, statinių projektų atitiktis
+visuomenės sveikatos saugos teisės aktams
 Užtikrinti, kad
 teritorijų planavimo dokumentai, žemėtvarkos planavimo dokumentai, statinių
 projektai, pagal juos sutvarkyta aplinka ir pastatyti statiniai atitiktų
@@ -824,15 +860,15 @@ planavimo ar
 žemėtvarkos planavimo
 dokumentus derinančios institucijos, teritorijų planavimo ar žemėtvarkos
 planavimo valstybinės priežiūros
-institucijos, žemės administravimą vykdančios valstybės ir savivaldybių
-institucijos ir įstaigos;
+institucijos, žemės administravimą vykdančios valstybės ir savivaldybių institucijos
+ir įstaigos;
 2) statybos
 dalyviai, prisijungimo sąlygas, specialiuosius architektūros reikalavimus,
 specialiuosius paveldosaugos reikalavimus, specialiuosius saugomos teritorijos
-tvarkymo ir apsaugos reikalavimus nustatančios, statybos ar
-rekonstravimo projektus tikrinančios ir statybą leidžiančius dokumentus
-išduodančios, statybos užbaigimą tvirtinančios ir statybos valstybinę priežiūrą
-vykdančios institucijos ir subjektai.
+tvarkymo ir apsaugos reikalavimus nustatančios, statybos ar rekonstravimo
+projektus tikrinančios ir statybą leidžiančius dokumentus išduodančios,
+statybos užbaigimą tvirtinančios ir statybos valstybinę priežiūrą vykdančios
+institucijos ir subjektai.
 Straipsnio pakeitimai:
 Nr. XII-408, 2013-06-27,
 Žin., 2013, Nr. 76-3825 (2013-07-16)
@@ -872,12 +908,12 @@ vadovaujantis Žemės įstatymu.
 2. Ūkinei
 veiklai, kuriai nustatomos sanitarinės apsaugos zonos, sanitarinės apsaugos
 zonos ribų dydžius nustato Vyriausybė. Pastatams, kuriuose laikomi ūkiniai
-gyvūnai (iki 300 sutartinių gyvulių), su esančiais prie jų mėšlo ir srutų
-kaupimo įrenginiais arba be jų, sanitarinės apsaugos zonos nenustatomos. Planuojamos
+gyvūnai (iki 300 sutartinių gyvulių), su esančiais prie jų mėšlo ir srutų kaupimo
+įrenginiais arba be jų, sanitarinės apsaugos zonos nenustatomos. Planuojamos
 ūkinės veiklos poveikio visuomenės sveikatai vertinimo ar planuojamos ūkinės
 veiklos poveikio aplinkai vertinimo procesų metu, įvertinus konkrečios ūkinės
-veiklos galimą poveikį visuomenės sveikatai, Vyriausybės patvirtinti sanitarinės
-apsaugos zonos ribų dydžiai gali būti sumažinti.
+veiklos galimą poveikį visuomenės sveikatai, Vyriausybės patvirtinti
+sanitarinės apsaugos zonos ribų dydžiai gali būti sumažinti.
 3. Planuojamos
 ūkinės veiklos poveikio visuomenės sveikatai vertinimo ar planuojamos ūkinės
 veiklos poveikio aplinkai vertinimo procesų metu, atliekant poveikio visuomenės
@@ -885,18 +921,18 @@ sveikatai vertinimą, įvertinus konkrečios ūkinės veiklos galimą poveikį
 visuomenės sveikatai, gali būti nustatyti kitokie negu Vyriausybės patvirtinti
 sanitarinės apsaugos zonos ribų dydžiai. 
 4. Ūkinei
-veiklai, kuri susijusi su žmogaus gyvenamosios aplinkos tarša, nustatytose ir įteisintose
-sanitarinės apsaugos zonose draudžiama statyti gyvenamosios paskirties pastatus
-(namus), sodo namus, viešbučių, administracinės, prekybos, maitinimo, kultūros,
-mokslo, poilsio, gydymo, sporto ir religinės paskirties pastatus, specialiosios
-paskirties pastatus, susijusius su apgyvendinimu, įrengti minėtų objektų
-patalpas kitos paskirties pastatuose, steigti rekreacines teritorijas, išskyrus
-atvejus, kai minėti objektai naudojami tik įmonės ar ūkininko ūkio reikmėms. 
+veiklai, kuri susijusi su žmogaus gyvenamosios aplinkos tarša, nustatytose ir
+įteisintose sanitarinės apsaugos zonose draudžiama statyti gyvenamosios
+paskirties pastatus (namus), sodo namus, viešbučių, administracinės, prekybos,
+maitinimo, kultūros, mokslo, poilsio, gydymo, sporto ir religinės paskirties
+pastatus, specialiosios paskirties pastatus, susijusius su apgyvendinimu,
+įrengti minėtų objektų patalpas kitos paskirties pastatuose, steigti
+rekreacines teritorijas, išskyrus atvejus, kai minėti objektai naudojami tik
+įmonės ar ūkininko ūkio reikmėms. 
 5. Kontrolę,
 kaip laikomasi sanitarinės apsaugos zonų nustatymo ir zonoms nustatytų
 reikalavimų, pagal kompetenciją vykdo savivaldybių institucijos, Sveikatos
-apsaugos ministerijos įgaliotos institucijos ir kitos valstybės valdymo
-institucijos.
+apsaugos ministerijos įgaliotos institucijos ir kitos valstybės valdymo institucijos.
 Straipsnio pakeitimai:
 Nr. X-1150, 2007-05-24, Žin., 2007, Nr.
 64-2455 (2007-06-09)
@@ -908,8 +944,8 @@ Visuomenės sveikatos saugos užtikrinimas planuojant teritorijas, pradedant ir
 plečiant ūkinę veiklą 
 1. Fiziniai ir
 juridiniai asmenys, rengdami planuojamos ūkinės veiklos poveikio aplinkai
-vertinimo, teritorijų planavimo dokumentus ir statinių projektus, įstatymų nustatyta
-tvarka atlieka poveikio visuomenės sveikatai vertinimą.
+vertinimo, teritorijų planavimo dokumentus ir statinių projektus, įstatymų
+nustatyta tvarka atlieka poveikio visuomenės sveikatai vertinimą.
 2. Kai
 atliekamas poveikio visuomenės sveikatai vertinimas, Planuojamos ūkinės veiklos
 poveikio aplinkai vertinimo įstatyme nenumatytus atvejus ir vertinimo atlikimo
@@ -954,18 +990,25 @@ stebėsenos (monitoringo) įstatymo nustatyta tvarka.
 2. Savivaldybės
 taryba kadencijos laikotarpiui tvirtina neinfekcinių ligų profilaktikos ir
 kontrolės bei sveikatos palaikymo ir stiprinimo programas, kuriose numatomi per
-savivaldybės kadenciją siekiami sveikatos rodikliai, kasmet išklauso mero pateikiamas
-šių programų vykdymo ataskaitas.
+savivaldybės kadenciją siekiami sveikatos rodikliai, kasmet išklauso mero
+pateikiamas šių programų vykdymo ataskaitas.
+Dalies redakcija nuo 2014-10-01:
+2. Savivaldybės
+institucijų neinfekcinių ligų profilaktikos ir kontrolės bei sveikatos
+palaikymo ir stiprinimo plėtojimą, siekiamus sveikatos rodiklius nustato savivaldybės
+strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose.
 Straipsnio pakeitimai:
 Nr. X-1150, 2007-05-24, Žin., 2007, Nr.
 64-2455 (2007-06-09)
+Nr. XII-464, 2013-07-02,
+Žin., 2013, Nr. 79-3985 (2013-07-23)
  
 28 straipsnis. Epidemiologiškai
 svarbi veikla
-Epidemiologiškai svarbias veiklos sritis, kuriose, nesilaikant
-nustatytų higienos reikalavimų, galėtų kilti pavojus užsikrėsti
-užkrečiamosiomis ligomis bei atsirastų neinfekcinių ligų protrūkiai, nustato
-Sveikatos apsaugos ministerija.
+Epidemiologiškai svarbias veiklos sritis, kuriose, nesilaikant nustatytų
+higienos reikalavimų, galėtų kilti pavojus užsikrėsti užkrečiamosiomis ligomis
+bei atsirastų neinfekcinių ligų protrūkiai, nustato Sveikatos apsaugos
+ministerija.
  
 trečiasis skirsnis
 VARTOTOJŲ SVEIKATOS SAUGA
@@ -1031,11 +1074,11 @@ ir visuomenės sveikatos priežiūros teisės aktų numatytas priemones.
 34 straipsnis.
 Visuomenės
 sveikatos mokymas
-1. Valstybės tarnautojai
-privalo turėti žinių apie visuomenės sveikatos politikos ir strategijų
-formavimą bei įgyvendinimą. Valstybės tarnautojų, kurie privalo įgyti šių
-žinių, grupes ir kategorijas, jų mokymo programas ir tvarką nustato Vyriausybė
-arba jos įgaliotos institucijos.
+1. Valstybės
+tarnautojai privalo turėti žinių apie visuomenės sveikatos politikos ir
+strategijų formavimą bei įgyvendinimą. Valstybės tarnautojų, kurie privalo
+įgyti šių žinių, grupes ir kategorijas, jų mokymo programas ir tvarką nustato
+Vyriausybė arba jos įgaliotos institucijos.
 2. Valstybės ir
 savivaldybių visuomenės sveikatos priežiūros įstaigos organizuoja savivaldybių
 bendruomenių narių, suinteresuotų visuomeninių organizacijų narių mokymą, kaip
@@ -1125,8 +1168,8 @@ visuomenės sveikatai vertinimą, nustatomas visuomenės sveikatai darančių į
 veiksnių galimas poveikis visuomenės sveikatai.
 2. Planuojamos
 ūkinės veiklos poveikio visuomenės sveikatai vertinimas atliekamas Planuojamos
-ūkinės veiklos poveikio aplinkai vertinimo įstatyme ir kituose teisės aktuose
-nustatyta tvarka.
+ūkinės veiklos poveikio aplinkai vertinimo įstatyme ir kituose teisės aktuose nustatyta
+tvarka.
 3. Planuojamos ūkinės veiklos poveikio visuomenės sveikatai vertinimo metodinius nurodymus tvirtina sveikatos apsaugos ministras.
 Straipsnio pakeitimai:
 Nr. X-1150, 2007-05-24, Žin., 2007, Nr.
@@ -1144,9 +1187,9 @@ sveikatos saugos ekspertizę gali atlikti asmenys, teisės aktų nustatyta tvark
 įgiję teisę verstis šia veikla. Valstybinę visuomenės sveikatos saugos
 ekspertizę Vyriausybės nustatytais atvejais ir tvarka atlieka Vyriausybės
 įgaliotos valstybės įstaigos.
-3. Visuomenės sveikatos saugos ekspertizės išvados teikiamos
-kompetentingoms valstybės ir savivaldybių institucijoms, o šios jas išnagrinėja
-ir prireikus imasi atitinkamų priemonių. 
+3. Visuomenės sveikatos saugos ekspertizės išvados teikiamos kompetentingoms
+valstybės ir savivaldybių institucijoms, o šios jas išnagrinėja ir prireikus
+imasi atitinkamų priemonių. 
 4. Vyriausybės nustatyta tvarka ir atvejais visuomenės sveikatos saugos
 ekspertizė atliekama ūkio subjektų lėšomis, o valstybinė visuomenės sveikatos
 saugos ekspertizė – valstybės viešojo administravimo institucijų užsakymu
@@ -1160,8 +1203,7 @@ Nr. X-1150, 2007-05-24, Žin., 2007, Nr.
 techninių dokumentų vertinimas visuomenės sveikatos požiūriu
 Visuomenės
 sveikatos požiūriu taip pat vertinami standartų, techninių dokumentų, galinčių
-turėti įtakos visuomenės sveikatos veiksnių atsiradimui, buvimui ir mastui,
-projektai.
+turėti įtakos visuomenės sveikatos veiksnių atsiradimui, buvimui ir mastui, projektai.
  
 TREČIASIS
 SKIRSNIS
@@ -1205,8 +1247,8 @@ sveikatai;
 5) Produktų saugos įstatymo ir kitų įstatymų nustatytais
 pagrindais ir Vyriausybės nustatyta tvarka taikyti rinkos ribojimo priemones.
 7. Visuomenės
-sveikatos centrų apskrityse tarnautojai gali turėti ir kitų teisių, nustatytų
-kituose įstatymuose.
+sveikatos centrų apskrityse tarnautojai gali turėti ir kitų teisių,
+nustatytų kituose įstatymuose.
 8. Visuomenės
 sveikatos centrų apskrityse tarnautojai, įgalioti atlikti valstybinę visuomenės
 sveikatos saugos kontrolę, pažeidę šio Įstatymo reikalavimus, atsako įstatymų
@@ -1237,8 +1279,8 @@ Nr. XI-1757, 2011-12-01,
 42 straipsnis. Valstybinis visuomenės
 sveikatos priežiūros veiklos auditas 
 Valstybinį
-visuomenės sveikatos priežiūros veiklos auditą vykdo Sveikatos apsaugos
-ministerija arba jos įgaliota įstaiga Vyriausybės nustatyta tvarka.
+visuomenės sveikatos priežiūros veiklos auditą vykdo Sveikatos apsaugos ministerija
+arba jos įgaliota įstaiga Vyriausybės nustatyta tvarka.
 Straipsnio pakeitimai
 Nr. X-1150,
 2007-05-24, Žin., 2007, Nr. 64-2455 (2007-06-09)
@@ -1281,11 +1323,11 @@ veikla, Visuomenės sveikatos priežiūros veiklos licencija išduodama Visuomen
 sveikatos priežiūros veiklos licencijavimo nuostatuose (toliau – Nuostatai)
 nustatyta tvarka, jeigu pateikiami visi Nuostatuose nurodyti dokumentai ir
 fizinis asmuo atitinka šios dalies 1 ir 2 punktuose nustatytus reikalavimus.
-Visuomenės sveikatos priežiūros veiklos licencija neišduodama, jeigu fizinis asmuo
-nepateikė visų reikiamų dokumentų, neatitinka šios dalies 1 ir 2 punktuose
-nustatytų reikalavimų ir (ar) neįvykdė kitų Nuostatuose nurodytų sąlygų.
-Nuostatus tvirtina sveikatos apsaugos ministras. Fizinis asmuo, norintis gauti
-Visuomenės sveikatos priežiūros veiklos licenciją, turi atitikti šiuos
+Visuomenės sveikatos priežiūros veiklos licencija neišduodama, jeigu fizinis
+asmuo nepateikė visų reikiamų dokumentų, neatitinka šios dalies 1 ir 2
+punktuose nustatytų reikalavimų ir (ar) neįvykdė kitų Nuostatuose nurodytų
+sąlygų. Nuostatus tvirtina sveikatos apsaugos ministras. Fizinis asmuo, norintis
+gauti Visuomenės sveikatos priežiūros veiklos licenciją, turi atitikti šiuos
 reikalavimus:
 1)
 išsilavinimas, kvalifikacija ir patirtis turi atitikti Nuostatuose nustatytus
@@ -1306,8 +1348,8 @@ dokumentų, neatitinka šios dalies 1 ir 2 punktuose nustatytų reikalavimų ir
 (ar) neįvykdė kitų Nuostatuose nurodytų sąlygų. Juridinis asmuo ar filialas,
 norintis gauti Visuomenės sveikatos priežiūros veiklos licenciją, turi atitikti
 šiuos reikalavimus:
-1) turėti sveikatos apsaugos ministro patvirtintame Priemonių ir įrangos
-licencijuojamai visuomenės sveikatos priežiūros veiklai vykdyti sąraše
+1) turėti sveikatos apsaugos ministro patvirtintame Priemonių ir
+įrangos licencijuojamai visuomenės sveikatos priežiūros veiklai vykdyti sąraše
 nurodytas atitinkamai licencijuojamai veiklos rūšiai privalomas priemones ir
 įrangą;
 2) užtikrinti, kad darbuotojų, vykdančių funkcijas, tiesiogiai
@@ -1318,15 +1360,15 @@ siekiantiems verstis atitinkamos rūšies visuomenės sveikatos priežiūros vei
 straipsnio 3 ir 4 dalyse nurodytų reikalavimų ar sąlygų, jeigu per Nuostatuose
 nustatytą terminą nustatoma, kad tokius pačius ar iš esmės panašius
 reikalavimus ar sąlygas jis yra įvykdęs kitoje Europos Sąjungos valstybėje
-narėje ir jų laikosi. Fiziniam, juridiniam asmeniui ar filialui kitoje
-valstybėje narėje išduota licencija ar kitas dokumentas, suteikiantis teisę
-verstis atitinkamos rūšies visuomenės sveikatos priežiūros veikla, yra
-pripažįstami Lietuvos Respublikoje, jeigu per Nuostatuose nurodytą terminą
-nustatoma, kad jo turimos licencijos ar kito dokumento, suteikiančio teisę
-verstis atitinkamos rūšies visuomenės sveikatos priežiūros veikla, išdavimo
-sąlygos ir reikalavimai yra tokie patys ar iš esmės panašūs į šio Įstatymo 43
-straipsnyje nustatytus Visuomenės sveikatos priežiūros veiklos licencijos
-išdavimo sąlygas ir reikalavimus, keliamus atitinkamai veiklos rūšiai. 
+narėje ir jų laikosi. Fiziniam, juridiniam asmeniui ar filialui kitoje valstybėje
+narėje išduota licencija ar kitas dokumentas, suteikiantis teisę verstis
+atitinkamos rūšies visuomenės sveikatos priežiūros veikla, yra pripažįstami
+Lietuvos Respublikoje, jeigu per Nuostatuose nurodytą terminą nustatoma, kad jo
+turimos licencijos ar kito dokumento, suteikiančio teisę verstis atitinkamos
+rūšies visuomenės sveikatos priežiūros veikla, išdavimo sąlygos ir reikalavimai
+yra tokie patys ar iš esmės panašūs į šio Įstatymo 43 straipsnyje nustatytus
+Visuomenės sveikatos priežiūros veiklos licencijos išdavimo sąlygas ir
+reikalavimus, keliamus atitinkamai veiklos rūšiai. 
 6. Licencija patikslinama išduodant naują licenciją, jeigu pasikeičia
 licencijoje nurodyti duomenys: fizinio asmens duomenys, adresas, kuriuo galima
 siųsti korespondenciją, juridinio asmens, kitos organizacijos ar filialo
@@ -1337,10 +1379,10 @@ patikslinama remiantis pateiktais atitinkamais dokumentais.
 7. Licencijos
 galiojimas sustabdomas, jeigu:
 1)
-licencijos turėtojas nesilaiko licencijuojamos veiklos sąlygų, neatitinka kvalifikacinių
-reikalavimų ar pažeidžia įstatymų ir kitų teisės aktų, susijusių su
-licencijuojama veikla, reikalavimus ir Nuostatų nustatyta tvarka įspėtas apie
-nustatytus trūkumus ir (ar) pažeidimus per nustatytą terminą nepašalina
+licencijos turėtojas nesilaiko licencijuojamos veiklos sąlygų, neatitinka
+kvalifikacinių reikalavimų ar pažeidžia įstatymų ir kitų teisės aktų, susijusių
+su licencijuojama veikla, reikalavimus ir Nuostatų nustatyta tvarka įspėtas
+apie nustatytus trūkumus ir (ar) pažeidimus per nustatytą terminą nepašalina
 licencijuojamos veiklos trūkumų ir (ar) pažeidimų ar nepateikia tai įrodančių
 dokumentų;
 2)
@@ -1399,8 +1441,8 @@ patvirtintus metodinius nurodymus.
 15. Licencijas
 išduoda, registruoja, patikslina, sustabdo, jų galiojimą panaikina ir apie tai
 skelbia Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba „Valstybės
-žinių“ priede „Informaciniai pranešimai“ arba institucijos interneto svetainėje.
-
+žinių“ priede „Informaciniai pranešimai“ arba institucijos interneto
+svetainėje. 
 16. Už
 licencijos, suteikiančios teisę fiziniams, juridiniams asmenims ir filialams
 verstis licencijuojamos visuomenės sveikatos priežiūros veiklos atitinkama
@@ -1437,9 +1479,9 @@ sveikatos priežiūros specialistų teorinio ir praktinio profesinio tobulinimos
 formos yra šios:
 1) mokslo įstaigų, įregistruotų teisės aktų nustatyta tvarka ir
 turinčių leidimus šiam darbui, organizuoti kursai ir seminarai;
-2) aukštųjų
-mokyklų ir visuomenės sveikatos priežiūros specialistų mokslo draugijų
-organizuojamos mokslinės ir mokslinės praktinės konferencijos;
+2) aukštųjų mokyklų
+ir visuomenės sveikatos priežiūros specialistų mokslo draugijų organizuojamos
+mokslinės ir mokslinės praktinės konferencijos;
 3) įstaigų ir
 įmonių pagal sutartis su Lietuvos ir užsienio studijų institucijomis
 organizuoti teorinio ir praktinio tobulinimosi kursai ir seminarai;
@@ -1533,10 +1575,19 @@ VISUOMENĖS SVEIKATOS PRIEŽIŪROS ĮSTATYMO
 Šis įstatymas įsigalioja 2014 m. sausio
 1 d.
  
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-464,
+2013-07-02, Žin., 2013, Nr. 79-3985 (2013-07-23)
+VISUOMENĖS SVEIKATOS PRIEŽIŪROS ĮSTATYMO
+6, 10 IR 27 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+Šis įstatymas įsigalioja
+2014 m. spalio 1 d.
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2013-07-19)
+(2013-07-29)
                  
 ausrine.trapinskiene@lrs.lt
