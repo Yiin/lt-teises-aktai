@@ -19,6 +19,7 @@ Neoficialus įstatymo tekstas
 LIETUVOS RESPUBLIKOS
 MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ 
 ĮSTATYMAS
+ 
 1998 m. gruodžio 1 d. Nr. VIII-947
 Vilnius
 I SKYRIUS
@@ -28,9 +29,9 @@ NUOSTATOS
 1 straipsnis.
 Įstatymo paskirtis
 1. Šio įstatymo paskirtis – užtikrinti, kad
-būtų įgyvendintos Lietuvos Respublikos Konstitucijoje įtvirtintos moterų ir vyrų
-lygios teisės, bei uždrausti bet kokią diskriminaciją dėl asmens lyties, ypač
-kai tai susiję su šeimine ar santuokine padėtimi.
+būtų įgyvendintos Lietuvos Respublikos Konstitucijoje įtvirtintos moterų ir
+vyrų lygios teisės, bei uždrausti bet kokią diskriminaciją dėl asmens lyties,
+ypač kai tai susiję su šeimine ar santuokine padėtimi.
 2. Įstatymo nuostatos nėra taikomos
 šeimos ir privataus gyvenimo srityse. 
 3. Šio įstatymo nuostatos suderintos su
@@ -118,6 +119,29 @@ nustatyta tvarka remti viešųjų įstaigų, asociacijų ir labdaros fondų prog
 kurios padeda įgyvendinti moterų ir vyrų lygias galimybes;
 4) teikiant
 administracines ar viešąsias paslaugas nepažeisti moterų ir vyrų lygių teisių.
+Straipsnio
+redakcija nuo 2014-10-01:
+3 straipsnis.
+Valstybės ir savivaldybių institucijų ir įstaigų pareiga įgyvendinti moterų ir
+vyrų lygias teises
+1.
+Valstybės ir savivaldybių institucijos ir įstaigos pagal kompetenciją privalo:
+1) užtikrinti, kad visuose jų rengiamuose ir priimamuose
+teisės aktuose būtų įtvirtintos lygios moterų ir vyrų teisės;
+2) rengti ir įgyvendinti priemones,
+skirtas moterų ir vyrų lygioms galimybėms užtikrinti;
+3)
+įstatymų nustatyta tvarka remti viešųjų įstaigų, asociacijų ir labdaros fondų
+programas, kurios padeda įgyvendinti moterų ir vyrų lygias galimybes;
+4)
+teikiant administracines ar viešąsias paslaugas nepažeisti moterų ir vyrų lygių
+teisių.
+2.
+Valstybės institucijos priemones, skirtas moterų ir vyrų lygioms galimybėms
+užtikrinti, numato strateginio planavimo dokumentuose. Savivaldybės
+institucijos priemones, skirtas moterų ir vyrų lygioms galimybėms užtikrinti, numato
+savivaldybės strateginiame plėtros ir (ar) savivaldybės
+strateginiame veiklos planuose.
 Straipsnio pakeitimai:
 Nr. IX-956,
 2002-06-18, Žin., 2002, Nr. 68-2761 (2002-07-03)
@@ -127,6 +151,8 @@ Nr. X-1631,
 2008-06-19, Žin., 2008, Nr. 75-2923 (2008-07-03)
 Nr. XI-1926,
 2012-03-13, Žin., 2012, Nr. 36-1769 (2012-03-27)
+Nr. XII-472,
+2013-07-02, Žin., 2013, Nr. 79-3993 (2013-07-23)
  
 4
 straipsnis. Švietimo įstaigų, mokslo ir studijų institucijų pareiga įgyvendinti
@@ -173,8 +199,8 @@ Nr. X-304, 2005-07-05,
 Nr. X-1380,
 2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
  
-5(1) straipsnis. Moterų ir vyrų lygių
-galimybių įgyvendinimas vartotojų teisių apsaugos srityje
+5(1) straipsnis. Moterų ir vyrų lygių galimybių
+įgyvendinimas vartotojų teisių apsaugos srityje
 Prekių pardavėjas, gamintojas ar paslaugų teikėjas,
 įgyvendindamas moterų ir vyrų lygias teises, privalo:
 1) visiems vartotojams, nesvarbu, kokia
@@ -220,9 +246,9 @@ socialines išmokas, įskaitant našlių ir našlaičių pensijas, išmokas ir
 materialines pašalpas.
 3. Draudimas diskriminuoti dėl lyties
 taikomas dirbantiems asmenims, įskaitant savarankiškai dirbančius asmenis,
-asmenims, kurie nutraukė darbą dėl ligos, motinystės, nelaimingo atsitikimo ar priverstinio
-nedarbo, taip pat darbo ieškantiems asmenims, pensininkams, neįgaliems
-darbuotojams ir asmenims, turintiems teisę jų vardu reikalauti išmokų.
+asmenims, kurie nutraukė darbą dėl ligos, motinystės, nelaimingo atsitikimo ar
+priverstinio nedarbo, taip pat darbo ieškantiems asmenims, pensininkams,
+neįgaliems darbuotojams ir asmenims, turintiems teisę jų vardu reikalauti išmokų.
 Įstatymas papildytas straipsniu:
 Nr. X-1631,
 2008-06-19, Žin., 2008, Nr. 75-2923 (2008-07-03)
@@ -230,7 +256,6 @@ Nr. X-1631,
 III SKYRIUS
 MOTERŲ
 IR VYRŲ LYGIŲ TEISIŲ PAŽEIDIMAS
- 
  
 6 straipsnis. Moterų ir vyrų lygias teises
 pažeidžiantys veiksmai
@@ -277,11 +302,11 @@ lyties:
 1) taiko asmeniui mažiau (daugiau)
 palankias įdarbinimo, perkėlimo į kitas pareigas arba apmokėjimo už tokį pat ar
 vienodos vertės darbą sąlygas; 
-2) organizuodamas darbą, sukuria darbuotojui
-blogesnes (geresnes) darbo sąlygas; 
+2) organizuodamas darbą, sukuria
+darbuotojui blogesnes (geresnes) darbo sąlygas; 
 3) skiria darbuotojui drausminę
-nuobaudą, keičia darbo sąlygas, perkelia į kitą darbą arba nutraukia darbo
-sutartį; 
+nuobaudą, keičia darbo sąlygas, perkelia į kitą darbą arba nutraukia darbo sutartį;
+
 4) persekioja darbuotoją, darbuotojo
 atstovą, darbuotoją, liudijantį ar teikiantį paaiškinimus dėl skundo arba dėl
 kitos teisinės procedūros dėl diskriminacijos lyties pagrindu.
@@ -329,14 +354,14 @@ Nr. X-304, 2005-07-05,
  
 72 straipsnis.
 Diskriminavimas dėl lyties narystės ar dalyvavimo organizacijose pagrindu
-Bet kurie veiksmai, kliudantys dėl lyties
-tapti darbuotojų ir darbdavių organizacijų ar kitų organizacijų (asociacijų),
-kurių nariai turi tam tikrą profesiją, nariu ar dalyvauti šiose organizacijose
-(asociacijose), įskaitant tokių organizacijų (asociacijų) teikiamą naudą, yra
-pripažįstami pažeidžiantys moterų ir vyrų lygias teises.
+Bet kurie veiksmai, kliudantys dėl
+lyties tapti darbuotojų ir darbdavių organizacijų ar kitų organizacijų
+(asociacijų), kurių nariai turi tam tikrą profesiją, nariu ar dalyvauti šiose
+organizacijose (asociacijose), įskaitant tokių organizacijų (asociacijų)
+teikiamą naudą, yra pripažįstami pažeidžiantys moterų ir vyrų lygias teises.
 Įstatymas papildytas straipsniu:
-Nr. X-1380,
-2007-12-18, Žin., 2007, Nr. 140-5755 (2007-12-29)
+Nr. X-1380, 2007-12-18,
+Žin., 2007, Nr. 140-5755 (2007-12-29)
  
 73 straipsnis. Diskriminavimas dėl lyties
 socialinės apsaugos sistemose
@@ -358,9 +383,9 @@ dalyvavimą sistemose, išskyrus 8 ir 10 punktuose nurodytus atvejus;
 jų gavimo apribojimo sąlygos;
 7) skirtingai nustatomos teisės (jų
 įgijimas) į dalyvių vardu sukauptą lėšų dalį už motinystės (tėvystės) atostogų
-arba kitų tikslinių atostogų, susijusių su šeiminėmis priežastimis, laikotarpius,
-kai atostogos suteikiamos pagal įstatymus arba sutartį ir įmokas tuo
-laikotarpiu moka darbdavys;
+arba kitų tikslinių atostogų, susijusių su šeiminėmis priežastimis,
+laikotarpius, kai atostogos suteikiamos pagal įstatymus arba sutartį ir įmokas
+tuo laikotarpiu moka darbdavys;
 8) nustatomi skirtingi išmokų dydžiai,
 nebent būtina atsižvelgti į aktuarinio apskaičiavimo veiksnius, kurie
 atsižvelgiant į lytį skiriasi apibrėžtų įmokų sistemoje; 
@@ -470,7 +495,6 @@ Nr. X-1631,
 Nr. XI-336,
 2009-07-14, Žin., 2009, Nr. 87-3665 (2009-07-23) 
  
- 
 13 straipsnis.
 Lygių galimybių kontrolieriui keliami reikalavimai
 Lygių galimybių kontrolieriumi gali būti
@@ -568,8 +592,7 @@ PRIĖMIMAS IR TYRIMAS
 18 straipsnis.
 Skundų priėmimas
 1. Kiekvienas fizinis ir juridinis asmuo
-turi teisę pateikti lygių galimybių kontrolieriui skundą dėl lygių teisių
-pažeidimo.
+turi teisę pateikti lygių galimybių kontrolieriui skundą dėl lygių teisių pažeidimo.
 2. Skundai teikiami raštu. Skundų
 registravimo bei paskirstymo spręsti tvarką nustato lygių galimybių
 kontrolieriaus tarnybos reglamentas, kurį tvirtina lygių galimybių
@@ -587,8 +610,7 @@ Nr. X-304, 2005-07-05,
 19 straipsnis.
 Skundo reikalavimai 
 1. Skunde turi būti:
-1) adresatas – lygių galimybių
-kontrolierius;
+1) adresatas – lygių galimybių kontrolierius;
 2) pareiškėjo vardas, pavardė ar
 institucijos pavadinimas ir adresas;
 3) apskundžiamų institucijų pavadinimai
@@ -686,8 +708,8 @@ padarytąjį teisės aktų pažeidimą.
 tyrimo metu nustatęs, kad gauti du ar daugiau skirtingų pareiškėjų skundų dėl
 to paties asmens ar institucijos tos pačios veikos ar to paties teisės akto,
 gali sujungti skundų tyrimą į vieną.
-3. Jeigu lygių galimybių kontrolierius
-dėl giminystės ryšių ar kitų svarbių priežasčių negali nešališkai nagrinėti
+3. Jeigu lygių galimybių kontrolierius dėl
+giminystės ryšių ar kitų svarbių priežasčių negali nešališkai nagrinėti
 konkretaus skundo, jis paveda skundą tirti vienam iš savo tarnybos darbuotojų.
 4. Baigus nagrinėti skundą,
 parašoma pažyma, kurioje nurodoma tyrimo metu nustatytos aplinkybės, surinkti
@@ -760,11 +782,13 @@ Nr. X-304, 2005-07-05,
 25
 straipsnis. Lygių galimybių kontrolieriaus reikalavimų privalomumas
 1. Valstybės ir savivaldybių
-institucijos ir įstaigos, įmonės, organizacijos, fiziniai asmenys lygių galimybių
-kontrolieriaus reikalavimu privalo pateikti jam informaciją, dokumentus ir
-medžiagą, būtinus lygių galimybių kontrolieriaus funkcijoms atlikti, ne vėliau kaip
-per 10 darbo dienų nuo reikalavimo pateikti informaciją gavimo dienos, jeigu
-reikalavime nenurodytas konkretus terminas.
+institucijos ir įstaigos, įmonės, organizacijos, fiziniai asmenys lygių
+galimybių kontrolieriaus reikalavimu privalo pateikti jam informaciją,
+dokumentus ir medžiagą, būtinus lygių galimybių kontrolieriaus funkcijoms
+atlikti,
+ne
+vėliau kaip per 10 darbo dienų nuo reikalavimo pateikti informaciją gavimo
+dienos, jeigu reikalavime nenurodytas konkretus terminas.
 2. Lygių galimybių kontrolierius,
 tirdamas skundą, turi teisę kreiptis į asmenį, kurio veiksmai nagrinėjami, ir
 reikalauti paaiškinimo. Tokį paaiškinimą asmuo privalo pateikti per 10 darbo
@@ -801,12 +825,12 @@ Nr. X-1779,
 27 straipsnis.
 Lygių galimybių kontrolieriaus tarnybos ataskaita
 Lygių galimybių kontrolierius kasmet iki
-kovo 15 dienos raštu pateikia Seimui praėjusių kalendorinių metų Lygių
-galimybių kontrolieriaus tarnybos ataskaitą, kuri nagrinėjama Seime. Ši
-nepriklausoma ataskaita apima Lygių galimybių kontrolieriaus veiklos ataskaitą,
-padėties apžvalgą, išvadas ir rekomendacijas. Visa ataskaita turi būti
-paskelbta Lygių galimybių kontrolieriaus tarnybos interneto tinklalapyje, o
-esant galimybei, – ir per kitas visuomenės informavimo priemones.
+kovo 15 dienos raštu pateikia Seimui praėjusių kalendorinių metų Lygių galimybių
+kontrolieriaus tarnybos ataskaitą, kuri nagrinėjama Seime. Ši nepriklausoma
+ataskaita apima Lygių galimybių kontrolieriaus veiklos ataskaitą, padėties
+apžvalgą, išvadas ir rekomendacijas. Visa ataskaita turi būti paskelbta Lygių
+galimybių kontrolieriaus tarnybos interneto tinklalapyje, o esant galimybei, –
+ir per kitas visuomenės informavimo priemones.
 Straipsnio
 pakeitimai:
 Nr.
@@ -845,8 +869,10 @@ Skelbiu šį Lietuvos Respublikos Seimo
 priimtą įstatymą.
  
  
-RESPUBLIKOS PREZIDENTAS                                         VALDAS
+ 
+RESPUBLIKOS PREZIDENTAS                                                     VALDAS
 ADAMKUS
+ 
  
 Lietuvos
 Respublikos 
@@ -865,9 +891,9 @@ moteris principo įgyvendinimo profesinėse socialinės apsaugos sistemose (OL 2
 2. 1997 m. gruodžio 15 d. Tarybos direktyva 97/80/EB
 dėl įrodinėjimo pareigos diskriminacijos dėl lyties bylose (OL 2004 m. specialusis leidimas, 5 skyrius, 3 tomas, p. 264).
 3. 1998 m. liepos 13 d. Tarybos direktyva 98/52/EB,
-išplečianti Direktyvos 97/80/EB dėl įrodinėjimo pareigos diskriminacijos dėl
-lyties bylose taikymą Jungtinei Didžiosios Britanijos ir Šiaurės Airijos
-Karalystei (OL 2004 m. specialusis leidimas, 5 skyrius, 3 tomas, p. 307).
+išplečianti Direktyvos 97/80/EB dėl įrodinėjimo pareigos diskriminacijos dėl lyties
+bylose taikymą Jungtinei Didžiosios Britanijos ir Šiaurės Airijos Karalystei
+(OL 2004 m. specialusis leidimas, 5 skyrius, 3 tomas, p. 307).
 4. 2002 m. rugsėjo 23 d. Europos Parlamento ir Tarybos
 direktyva 2002/73/EB, iš dalies keičianti Tarybos direktyvą 76/207/EEB dėl
 vienodo požiūrio į vyrus ir moteris principo taikymo įsidarbinimo, profesinio
@@ -911,9 +937,9 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-443, 2001-07-10, Žin., 2001, Nr.
 64-2328 (2001-07-25)
 VALSTYBĖS KONTROLĖS ĮSTATYMO, TEISMŲ ĮSTATYMO, KONSTITUCINIO TEISMO
-ĮSTATYMO, SEIMO KONTROLIERIŲ ĮSTATYMO, SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO,
-PROKURATŪROS ĮSTATYMO, TARNYBOS LIETUVOS RESPUBLIKOS PROKURATŪROJE STATUTO,
-MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO, VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS ĮSTATYMO
+ĮSTATYMO, SEIMO KONTROLIERIŲ ĮSTATYMO, SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO, PROKURATŪROS
+ĮSTATYMO, TARNYBOS LIETUVOS RESPUBLIKOS PROKURATŪROJE STATUTO, MOTERŲ IR VYRŲ
+LYGIŲ GALIMYBIŲ ĮSTATYMO, VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS ĮSTATYMO
 PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 3.
@@ -1002,7 +1028,8 @@ MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ
 STRAIPSNIAIS ĮSTATYMAS
  
 12.
-Lietuvos Respublikos Seimas, Įstatymas
+Lietuvos Respublikos Seimas,
+Įstatymas
 Nr. X-1779,
 2008-11-06, Žin., 2008, Nr. 131-5029 (2008-11-15)
 MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ
@@ -1029,8 +1056,17 @@ Nr. XI-2270,
 2012-10-03, Žin., 2012, Nr. 119-5979 (2012-10-13)
 MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 11 STRAIPSNIO PAPILDYMO ĮSTATYMAS
  
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-472,
+2013-07-02, Žin., 2013, Nr. 79-3993 (2013-07-23)
+MOTERŲ IR VYRŲ LYGIŲ GALIMYBIŲ ĮSTATYMO 3 STRAIPSNIO PAKEITIMO IR
+PAPILDYMO ĮSTATYMAS
+Šis įstatymas
+įsigalioja 2014 m. spalio 1 d.
+ 
 *** Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė (2012-10-15)
+Redagavo Aušrinė Trapinskienė (2013-07-30)
                   ausrine.trapinskiene@lrs.lt
