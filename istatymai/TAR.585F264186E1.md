@@ -767,10 +767,11 @@ Vaiko teisių apsaugos kontrolierius
 6.
 
 
-Žurnalistų etikos inspektorius
+Žurnalistų
+  etikos inspektorius, akademinės etikos ir procedūrų kontrolierius
 
 
-12
+12 
 
 
 
@@ -780,8 +781,9 @@ Vaiko teisių apsaugos kontrolierius
 
 Seimo, Seimo Pirmininko, Respublikos
   Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos
-  tarybos, Viešųjų pirkimų tarnybos, Ryšių reguliavimo tarnybos, Valstybinės
-  kainų ir energetikos kontrolės komisijos, Vyriausiosios rinkimų komisijos ir
+  tarybos, Lietuvos radijo ir televizijos komisijos, Lietuvos kultūros tarybos,
+  Viešųjų pirkimų tarnybos, Ryšių reguliavimo tarnybos, Valstybinės kainų ir
+  energetikos kontrolės komisijos, Vyriausiosios rinkimų komisijos ir
   Vyriausiosios tarnybinės etikos komisijos:
 
 
@@ -989,6 +991,8 @@ Nr. XI-1839,
 Nr.
 XI-2181,
 2012-06-29, Žin., 2012, Nr. 82-4267 (2012-07-13)
+Nr. XII-444, 2013-07-02, Žin., 2013, Nr.
+79-3979 (2013-07-23)
  
 3 straipsnis. Įstatymo galiojimas
 1. Neteko galios
@@ -1000,8 +1004,8 @@ Nr. XI-951,
 2010-06-30, Žin., 2010, Nr. 82-4305 (2010-07-13)
 Nr. XI-1727,
 2011-11-22, Žin., 2011, Nr. 150-7042 (2011-12-08)
-Nr. XI-1839, 2011-12-21,
-Žin., 2011, Nr. 163-7749 (2011-12-31)
+Nr. XI-1839,
+2011-12-21, Žin., 2011, Nr. 163-7749 (2011-12-31)
 Nr. XII-109,
 2012-12-20, Žin., 2012, Nr. 155-7987 (2012-12-31)
  
@@ -1018,8 +1022,8 @@ ADAMKUS
 Pakeitimai:
  
 1.
-Lietuvos
-Respublikos Seimas, Įstatymas
+Lietuvos Respublikos
+Seimas, Įstatymas
 Nr. XI-866,
 2010-06-03, Žin., 2010, Nr. 71-3544 (2010-06-19)
 VALSTYBĖS
@@ -1085,10 +1089,18 @@ VALSTYBĖS POLITIKŲ IR VALSTYBĖS
 PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO
 PAKEITIMO ĮSTATYMAS
  
-*** Pabaiga ***
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-444, 2013-07-02, Žin., 2013, Nr.
+79-3979 (2013-07-23)
+VALSTYBĖS POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ
+DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
  
+***
+Pabaiga ***
  
 Redagavo
-Aušrinė Trapinskienė (2013-01-08)
-    
-             ausrine.trapinskiene@lrs.lt
+Aušrinė Trapinskienė (2013-07-23)
+                 
+ausrine.trapinskiene@lrs.lt
