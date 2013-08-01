@@ -21,6 +21,10 @@ DRAUDIMO ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2013-08-01 iki 2013-12-13
+ 
+Įstatymas paskelbtas: Žin. 2008, Nr. 6-212, i. k. 1071010ISTA00X-1409
+ 
 LIETUVOS RESPUBLIKOS  NESĄŽININGOS KOMERCINĖS VEIKLOS VARTOTOJAMS DRAUDIMO  ĮSTATYMAS
  
 2007 m. gruodžio 21 d. Nr. X-1409
@@ -553,7 +557,9 @@ NESĄŽININGOS KOMERCINĖS VEIKLOS KONTROLĖ
 
 
 
-2. Lietuvos Respublikos konkurencijos taryba (toliau – Konkurencijos taryba) kontroliuoja, ar reklama nėra klaidinanti, ir lyginamąją reklamą Lietuvos Respublikos reklamos įstatymo ir Lietuvos Respublikos konkurencijos įstatymo nustatyta tvarka.
+2. Lietuvos Respublikos konkurencijos taryba (toliau – Konkurencijos taryba) kontroliuoja, ar reklama nėra klaidinanti, ir lyginamąją reklamą Lietuvos Respublikos reklamos įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XII-317, 2013-05-16, Žin., 2013, Nr. 57-2856 (2013-06-01), i. k. 1131010ISTA0XII-317
  
 
 
@@ -1035,3 +1041,12 @@ Lietuvos Respublikos  nesąžiningos komercinės veiklos  vartotojams draudimo �
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 2005 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva 2005/29/EB dėl nesąžiningos įmonių komercinės veiklos vartotojų atžvilgiu vidaus rinkoje ir iš dalies keičianti Tarybos direktyvą 84/450/EEB, Europos Parlamento ir Tarybos direktyvas 97/7/EB, 98/27/EB bei 2002/65/EB ir Europos Parlamento ir Tarybos reglamentą (EB) Nr. 2006/2004 („Nesąžiningos komercinės veiklos direktyva“) (OL 2005 L 149, p. 22).
+ 
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-317, 2013-05-16, Žin., 2013, Nr. 57-2856 (2013-06-01), i. k. 1131010ISTA0XII-317
+Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo 9 straipsnio pakeitimo įstatymas
