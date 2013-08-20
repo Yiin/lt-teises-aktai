@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8FBB384266D1"
 
 # Lietuvos Respublikos saugios laivybos įstatymas
 
-Suvestinė redakcija nuo 2009-01-01 iki 2013-08-19
+Suvestinė redakcija nuo 2013-08-20 iki 2013-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2264, i. k. 1001010ISTAIII-1897
  
@@ -246,22 +246,42 @@ Nr. X-1559, 2008-05-22, Žin., 2008, Nr. 65-2458 (2008-06-07), i. k. 1081010ISTA
 
 
 
-25. Uostas – teritorija (uosto  žemė ir akvatorija), skirta laivams įplaukti ir išplaukti, stovėti, aptarnauti, kroviniams perkrauti, taip pat keleiviams aptarnauti.
+25. Tradicinis laivas – susisiekimo ministro nustatyta tvarka pripažintas bet koks istorinis laivas ar tokio laivo tiksli kopija, įskaitant ir tuos laivus, kurie sukurti tradiciniams jūreivystės įgūdžiams skatinti ir supažindinti su kultūros paveldu. Toks laivas eksploatuojamas tradiciniais (įprastiniais) jūreivystės principais ir būdais. 
+Papildyta straipsnio dalimi:
+Nr. XII-437, 2013-06-27, Žin., 2013, Nr. 75-3763 (2013-07-13), i. k. 1131010ISTA0XII-437
+ 
 
 
 
 
-26. Uosto administracija – uostą valdanti įmonė.
+26. Uostas – teritorija (uosto  žemė ir akvatorija), skirta laivams įplaukti ir išplaukti, stovėti, aptarnauti, kroviniams perkrauti, taip pat keleiviams aptarnauti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-437, 2013-06-27, Žin., 2013, Nr. 75-3763 (2013-07-13), i. k. 1131010ISTA0XII-437
+ 
 
 
 
 
-27. Uosto kapitonas – asmuo, atsakingas už laivybos priežiūrą ir užtikrinantis tvarkos palaikymą Lietuvos Respublikos jūrų uosto akvatorijoje bei krantinėse. 
+27. Uosto administracija – uostą valdanti įmonė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-437, 2013-06-27, Žin., 2013, Nr. 75-3763 (2013-07-13), i. k. 1131010ISTA0XII-437
+ 
 
 
 
 
-28. Žvejybos laivas – laivas, išduotame laivo klasės liudijime turintis įrašą „žvejybos laivas“ ir pritaikytas verslinei žvejybai. 
+28. Uosto kapitonas – asmuo, atsakingas už laivybos priežiūrą ir užtikrinantis tvarkos palaikymą Lietuvos Respublikos jūrų uosto akvatorijoje bei krantinėse. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-437, 2013-06-27, Žin., 2013, Nr. 75-3763 (2013-07-13), i. k. 1131010ISTA0XII-437
+ 
+
+
+
+
+29. Žvejybos laivas – laivas, išduotame laivo klasės liudijime turintis įrašą „žvejybos laivas“ ir pritaikytas verslinei žvejybai. 
+ 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-437, 2013-06-27, Žin., 2013, Nr. 75-3763 (2013-07-13), i. k. 1131010ISTA0XII-437
  
 
 
@@ -987,7 +1007,10 @@ LAIVŲ KONTROLĖ
 
 
 AŠTUNTASIS SKIRSNIS
-LAIVYBOS ĮMONIŲ IR LAIVŲ SERTIFIKAVIMAS, LAIVŲ IR UOSTO ĮRENGINIŲ APSAUGOS VERTINIMAS
+LAIVYBOS ĮMONIŲ IR LAIVŲ SAUGIOS LAIVYBOS VALDYMO SISTEMŲ, LAIVŲ IR UOSTŲ ĮRENGINIŲ APSAUGOS, LAIVŲ IR JŲ ĮGULŲ ATITIKTIES TARPTAUTINIAMS REIKALAVIMAMS DĖL DARBO JŪRŲ LAIVYBOJE VERTINIMO TIKSLAS IR ĮGALIOJIMŲ SUTEIKIMAS 
+ 
+Pakeistas skirsnio pavadinimas:
+Nr. XII-437, 2013-06-27, Žin., 2013, Nr. 75-3763 (2013-07-13), i. k. 1131010ISTA0XII-437
  
 
 
@@ -1031,6 +1054,24 @@ LAIVYBOS ĮMONIŲ IR LAIVŲ SERTIFIKAVIMAS, LAIVŲ IR UOSTO ĮRENGINIŲ APSAUGOS
 
 
 3. Išlaidas, susijusias su laivų ir uosto įrenginių apsaugos užtikrinimu bei vertinimu, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atlygina atitinkamai laivų savininkai ir uosto naudotojai, iš kurių terminalų laivai vykdo tarptautinius reisus .
+ 
+
+
+
+
+281 straipsnis. Laivų ir jų įgulų atitikties tarptautiniams reikalavimams dėl darbo jūrų laivyboje vertinimo tikslas ir įgaliojimų suteikimas
+
+
+1. Laivų ir jų įgulų atitikties tarptautiniams reikalavimams dėl darbo jūrų laivyboje vertinimo tikslas – nustatyti, ar laivuose yra įgyvendinti Lietuvos Respublikos tarptautinių sutarčių ir Lietuvos Respublikos teisės aktų, reglamentuojančių jūrininkų darbą jūrų laivyboje, reikalavimai.
+
+
+
+
+2. Laivų ir jų įgulų atitikties tarptautiniams reikalavimams dėl darbo jūrų laivyboje vertinimą susisiekimo ministro, socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro nustatyta tvarka atlieka ir atitinkamus dokumentus išduoda Administracija arba jos įgaliotos klasifikacinės bendrovės.
+
+
+Papildyta straipsniu:
+Nr. XII-437, 2013-06-27, Žin., 2013, Nr. 75-3763 (2013-07-13), i. k. 1131010ISTA0XII-437
  
 
 
@@ -1758,6 +1799,14 @@ priedas
 15. 2003 m. balandžio 14 d. Europos Parlamento ir Tarybos direktyva Nr. 2003/25/EB dėl specialių ro-ro keleivinių laivų stabilumo reikalavimų.
 
 
+
+
+16. 2009 m. vasario 16 d. Tarybos direktyva 2009/13/EB, įgyvendinanti Europos bendrijos laivų savininkų asociacijų (ECSA) ir Europos transporto darbuotojų federacijos (ETF) sudarytą susitarimą dėl 2006 m. Konvencijos dėl darbo jūrų laivyboje ir iš dalies keičianti Direktyvą 1999/63/EB (OL 2009 L 124, p. 30).
+Papildyta punktu:
+Nr. XII-437, 2013-06-27, Žin., 2013, Nr. 75-3763 (2013-07-13), i. k. 1131010ISTA0XII-437
+ 
+
+
 Papildyta priedu:
 Nr. X-116, 2005-02-15, Žin., 2005, Nr. 31-974 (2005-03-05); Žin., 2005, Nr. 35-0 (2005-03-17), i. k. 1051010ISTA000X-116
  
@@ -1787,3 +1836,13 @@ Lietuvos Respublikos saugios laivybos įstatymo 5 straipsnio pakeitimo įstatyma
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1559, 2008-05-22, Žin., 2008, Nr. 65-2458 (2008-06-07), i. k. 1081010ISTA00X-1559
 Lietuvos Respublikos saugios laivybos įstatymo 1, 2,6, 8, 33, 42, 43, 44, 47 straipsnių ir septynioliktojo skirsnio pavadinimo pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2337, 2012-11-06, Žin., 2012, Nr. 132-6665 (2012-11-15), i. k. 1121010ISTA0XI-2337
+Lietuvos Respublikos saugios laivybos įstatymo 4 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-437, 2013-06-27, Žin., 2013, Nr. 75-3763 (2013-07-13), i. k. 1131010ISTA0XII-437
+Lietuvos Respublikos saugios laivybos įstatymo 2 straipsnio, aštuntojo skirsnio pavadinimo ir priedo pakeitimo ir papildymo ir Įstatymo papildymo 28-1 straipsniu įstatymas
