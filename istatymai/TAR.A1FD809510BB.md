@@ -20,6 +20,10 @@ LIETUVOS RESPUBLIKOS MAŽŲJŲ BENDRIJŲ ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2013-09-01 iki 2014-06-30
+ 
+Įstatymas paskelbtas: Žin. 2012, Nr. 83-4333, i. k. 1121010ISTA0XI-2159
+ 
 LIETUVOS RESPUBLIKOS 
 MAŽŲJŲ BENDRIJŲ 
 ĮSTATYMAS
@@ -368,6 +372,69 @@ MAŽOSIOS BENDRIJOS STEIGIMAS IR REGISTRAVIMAS
  
 
 
+
+
+
+
+61 straipsnis. Juridinių asmenų dalyvių informacinės sistemos duomenys
+
+
+1. Juridinių asmenų dalyvių informacinei sistemai teikiami šie duomenys apie mažosios bendrijos narius:
+
+
+1) mažosios bendrijos nario vardas, pavardė;
+
+
+
+
+2) mažosios bendrijos nario asmens kodas;
+
+
+
+
+3) mažosios bendrijos nario gyvenamoji vieta arba adresas korespondencijai. Jeigu mažosios bendrijos narys mažajai bendrijai yra nurodęs savo gyvenamąją vietą ir adresą korespondencijai, Juridinių asmenų dalyvių informacinei sistemai teikiamas tik adresas korespondencijai;
+
+
+
+
+4) asmens tapimo mažosios bendrijos nariu data ir narystės pabaigos data;
+
+
+
+
+5) mažosios bendrijos nario įnašo dydis (kai įnašas piniginis) ir (ar) vertė (kai įnašas nepiniginis).
+
+
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodyti duomenys Juridinių asmenų dalyvių informacinei sistemai pateikiami Juridinių asmenų dalyvių informacinės sistemos nuostatuose nustatyta tvarka ne vėliau kaip per 5 dienas nuo mažosios bendrijos įregistravimo Juridinių asmenų registre dienos, o pasikeitus mažosios bendrijos nariams ar jų duomenims – ne vėliau kaip per 5 dienas nuo šių pasikeitimų dienos.
+
+
+
+
+3. Už mažosios bendrijos narių duomenų pateikimą Juridinių asmenų dalyvių informacinei sistemai atsako:
+
+
+1) mažosios bendrijos vadovas, kai mažoji bendrija turi vienasmenį valdymo organą;
+
+
+
+
+2) mažosios bendrijos atstovas, kai mažosios bendrijos narių susirinkimas yra mažosios bendrijos valdymo organas;
+
+
+
+
+3) mažosios bendrijos narys, kai mažosios bendrijos narių susirinkimas yra mažosios bendrijos valdymo organas ir mažojoje bendrijoje yra vienas narys.
+
+
+
+
+Papildyta straipsniu:
+Nr. XII-313, 2013-05-16, Žin., 2013, Nr. 57-2852 (2013-06-01), i. k. 1131010ISTA0XII-313
+ 
 
 
 
@@ -871,7 +938,6 @@ Mažosios bendrijos narių susirinkimo sprendimas laikomas priimtu, kai už jį 
 
 
  
- 
 20 straipsnis. Mažosios bendrijos narių susirinkimo protokolas
 
 
@@ -969,17 +1035,33 @@ Mažosios bendrijos narių susirinkimo sprendimas laikomas priimtu, kai už jį 
 
 
 
-9) pateikia mažosios bendrijos informaciją viešai paskelbti mažosios bendrijos nuostatuose nurodytame šaltinyje;
+9) teikia Juridinių asmenų dalyvių informacinei sistemai duomenis apie mažosios bendrijos narius; 
+Papildyta straipsnio punktu:
+Nr. XII-313, 2013-05-16, Žin., 2013, Nr. 57-2852 (2013-06-01), i. k. 1131010ISTA0XII-313
+ 
 
 
 
 
-10) mažosios bendrijos nuostatuose nustatyta tvarka ir sąlygomis paima mažosios bendrijos lėšų ir išmoka jas mažosios bendrijos nariams kaip avansu išmokamą pelną; 
+10) pateikia mažosios bendrijos informaciją viešai paskelbti mažosios bendrijos nuostatuose nurodytame šaltinyje;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-313, 2013-05-16, Žin., 2013, Nr. 57-2852 (2013-06-01), i. k. 1131010ISTA0XII-313
+ 
 
 
 
 
-11) vykdo kitas mažosios bendrijos nuostatuose jam priskirtas pareigas. 
+11) mažosios bendrijos nuostatuose nustatyta tvarka ir sąlygomis paima mažosios bendrijos lėšų ir išmoka jas mažosios bendrijos nariams kaip avansu išmokamą pelną; 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-313, 2013-05-16, Žin., 2013, Nr. 57-2852 (2013-06-01), i. k. 1131010ISTA0XII-313
+ 
+
+
+
+
+12) vykdo kitas mažosios bendrijos nuostatuose jam priskirtas pareigas. 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XII-313, 2013-05-16, Žin., 2013, Nr. 57-2852 (2013-06-01), i. k. 1131010ISTA0XII-313
  
 
 
@@ -1670,6 +1752,19 @@ Vyriausybės įgaliota valstybės institucija ar įstaiga atlieka šio įstatymo
 
 
 
+311 straipsnis. Įstatymo taikymas
+
+
+Mažosios bendrijos, įsteigtos iki 2013 m. rugsėjo 1 d., šio įstatymo 61 straipsnyje nurodytus duomenis apie savo narius Juridinių asmenų dalyvių informacinei sistemai pateikia iki 2014 m. sausio 1 d.
+
+
+Papildyta straipsniu:
+Nr. XII-313, 2013-05-16, Žin., 2013, Nr. 57-2852 (2013-06-01), i. k. 1131010ISTA0XII-313
+ 
+
+
+
+
 32 straipsnis. Pasiūlymas Vyriausybei
 
 
@@ -1698,4 +1793,15 @@ Vyriausybė iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamu
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
-RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-313, 2013-05-16, Žin., 2013, Nr. 57-2852 (2013-06-01), i. k. 1131010ISTA0XII-313
+Lietuvos Respublikos mažųjų bendrijų įstatymo 21 straipsnio pakeitimo ir įstatymo papildymo 6-1, 31-1 straipsniais įstatymas
