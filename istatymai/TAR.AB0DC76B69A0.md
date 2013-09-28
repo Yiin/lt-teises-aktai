@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS TEISĖJŲ ATLYGINIMŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2012-12-31 iki 2013-09-27
+Suvestinė redakcija nuo 2013-09-28 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 131-5022, i. k. 1081010ISTA00X-1771
  
@@ -291,7 +291,7 @@ II. BENDROSIOS KOMPETENCIJOS IR SPECIALIZUOTŲ TEISMŲ TEISĖJŲ PAREIGINĖS ALG
 
  
  
-Priedėlio redakcija nuo 2014-01-01:
+Priedėlio redakcija nuo 2013-10-01:
 
 
 Lietuvos Respublikos 
@@ -419,6 +419,8 @@ Nr. XI-1728, 2011-11-22, Žin., 2011, Nr. 150-7043 (2011-12-08), i. k. 1111010IS
 Nr. XI-1729, 2011-11-22, Žin., 2011, Nr. 150-7044 (2011-12-08), i. k. 1111010ISTA0XI-1729
 Nr. XII-112, 2012-12-20, Žin., 2012, Nr. 155-7990 (2012-12-31), i. k. 1121010ISTA0XII-112
 Nr. XII-113, 2012-12-20, Žin., 2012, Nr. 155-7991 (2012-12-31), i. k. 1121010ISTA0XII-113
+Nr. XII-518, 2013-09-19, Žin., 2013, Nr. 102-5027 (2013-09-28), i. k. 1131010ISTA0XII-518
+Nr. XII-519, 2013-09-19, Žin., 2013, Nr. 102-5028 (2013-09-28), i. k. 1131010ISTA0XII-519
  
  
  
@@ -473,3 +475,13 @@ Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-113, 2012-12-20, Žin., 2012, Nr. 155-7991 (2012-12-31), i. k. 1121010ISTA0XII-113
 Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-518, 2013-09-19, Žin., 2013, Nr. 102-5027 (2013-09-28), i. k. 1131010ISTA0XII-518
+Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-519, 2013-09-19, Žin., 2013, Nr. 102-5028 (2013-09-28), i. k. 1131010ISTA0XII-519
+Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas
