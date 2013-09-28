@@ -61,7 +61,7 @@ už 1 kategoriją – 50 procentų pareiginės algos.“
  
 3 straipsnis. Įstatymo įsigaliojimas 
 Šio
-įstatymo 2 straipsnis įsigalioja 2014 m. sausio 1 d.
+įstatymo 2 straipsnis įsigalioja 2013 m. spalio 1 d.
 Straipsnio pakeitimai:
 Nr. XI-947,
 2010-06-30, Žin., 2010, Nr. 82-4301 (2010-07-13)
@@ -69,6 +69,8 @@ Nr. XI-1725,
 2011-11-22, Žin., 2011, Nr. 150-7040 (2011-12-08)
 Nr. XII-117,
 2012-12-20, Žin., 2012, Nr. 155-7995 (2012-12-31)
+Nr. XII-521,
+2013-09-19, Žin., 2013, Nr. 102-5030 (2013-09-28)
  
 Skelbiu
 šį Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -109,11 +111,19 @@ TARNYBOS KALĖJIMŲ DEPARTAMENTE PRIE
 LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO PAKEITIMO ĮSTATYMO 1
 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-521,
+2013-09-19, Žin., 2013, Nr. 102-5030 (2013-09-28)
+TARNYBOS KALĖJIMŲ DEPARTAMENTE PRIE
+LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO PAKEITIMO ĮSTATYMO
+1 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2013-01-09)
+(2013-09-29)
                  
 ausrine.trapinskiene@lrs.lt
 
