@@ -50,7 +50,7 @@ algos.“
  
 3 straipsnis. Įstatymo įsigaliojimas
 1. Šio įstatymo 1 straipsnis įsigalioja 2009 m. rugpjūčio 1 d.
-2. Šio įstatymo 2 straipsnis įsigalioja 2014 m. sausio 1 d.
+2. Šio įstatymo 2 straipsnis įsigalioja 2013 m. spalio 1 d.
 Straipsnio
 pakeitimai:
 Nr. XI-949, 2010-06-30, Žin., 2010, Nr.
@@ -59,6 +59,8 @@ Nr. XI-1719,
 2011-11-22, Žin., 2011, Nr. 150-7034 (2011-12-08)
 Nr. XII-119,
 2012-12-20, Žin., 2012, Nr. 155-7997 (2012-12-31)
+Nr. XII-520,
+2013-09-19, Žin., 2013, Nr. 102-5029 (2013-09-28)
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -83,8 +85,8 @@ TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIM
  
 2.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-1719, 2011-11-22,
-Žin., 2011, Nr. 150-7034 (2011-12-08)
+Nr. XI-1719,
+2011-11-22, Žin., 2011, Nr. 150-7034 (2011-12-08)
 SPECIALIŲJŲ TYRIMŲ TARNYBOS STATUTO 30
 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
@@ -95,10 +97,18 @@ Nr. XII-119,
 SPECIALIŲJŲ TYRIMŲ TARNYBOS STATUTO 30
 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-520,
+2013-09-19, Žin., 2013, Nr. 102-5029 (2013-09-28)
+SPECIALIŲJŲ TYRIMŲ TARNYBOS STATUTO 30
+STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2013-01-09)
-                  ausrine.trapinskiene@lrs.lt
+(2013-09-29)
+                 
+ausrine.trapinskiene@lrs.lt
 
