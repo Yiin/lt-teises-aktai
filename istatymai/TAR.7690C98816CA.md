@@ -745,13 +745,13 @@ NAUDOJIMAS
 26
 straipsnis. Prievartos rūšys ir naudojimo sąlygos
 1. Tarnybos pareigūnas turi teisę
-panaudoti prievartą, kai ji yra būtina užkertant kelią teisės
-pažeidimams, sulaikyti pažeidimus padariusius asmenis ir kitais atvejais,
-saugant bei ginant teisėtus asmens, visuomenės, valstybės interesus. Prievartos
-rūšį ir jos panaudojimo ribas pasirenka tarnybos pareigūnas, atsižvelgdamas į
-konkrečią situaciją, teisės pažeidimo pobūdį ir individualias teisės pažeidėjo
-savybes. Naudodami prievartą, tarnybos pareigūnai privalo stengtis išvengti
-sunkių pasekmių. 
+panaudoti prievartą, kai ji yra būtina užkertant kelią teisės pažeidimams,
+sulaikyti pažeidimus padariusius asmenis ir kitais atvejais, saugant bei ginant
+teisėtus asmens, visuomenės, valstybės interesus. Prievartos rūšį ir jos
+panaudojimo ribas pasirenka tarnybos pareigūnas, atsižvelgdamas į konkrečią
+situaciją, teisės pažeidimo pobūdį ir individualias teisės pažeidėjo savybes.
+Naudodami prievartą, tarnybos pareigūnai privalo stengtis išvengti sunkių
+pasekmių. 
 2. Tarnybos
 pareigūnas įstatymų nustatytais pagrindais ir sąlygomis gali panaudoti psichinę
 ar fizinę prievartą, šaunamąjį ginklą. 
@@ -772,9 +772,9 @@ tarnybos direktoriaus įsakymu patvirtintų aktyvios ir pasyvios gynybos
 priemonių, panaudojimas.
 5. Prieš naudodamas fizinę prievartą arba šaunamąjį
 ginklą, tarnybos pareigūnas privalo įspėti apie tokį ketinimą, suteikdamas
-asmeniui galimybę įvykdyti teisėtus reikalavimus, išskyrus atvejus, kai
-delsimas kelia grėsmę pareigūno ar kito asmens gyvybei ar sveikatai arba toks
-įspėjimas yra neįmanomas.
+asmeniui galimybę įvykdyti teisėtus reikalavimus, išskyrus atvejus, kai delsimas
+kelia grėsmę pareigūno ar kito asmens gyvybei ar sveikatai arba toks įspėjimas
+yra neįmanomas.
 6. Tarnybos
 pareigūnai turi būti specialiai parengti ir periodiškai tikrinami, ar gali
 veikti situacijose, kuriose naudojama fizinė prievarta, specialiosios priemonės
@@ -847,9 +847,9 @@ ar sveikatai būdu.
 pareigūnas turi teisę išimti šaunamąjį ginklą iš dėklo ir parengti jį
 naudojimui, jeigu jis mano, kad konkrečioje situacijoje gali tekti jį
 panaudoti.
-6. Tarnybos pareigūnas,
-nesukeldamas grėsmės įstatymų saugomoms vertybėms, turi teisę iššauti iš
-šaunamojo ginklo, kai būtina duoti pavojaus signalą arba išsikviesti pagalbą.
+6. Tarnybos pareigūnas, nesukeldamas
+grėsmės įstatymų saugomoms vertybėms, turi teisę iššauti iš šaunamojo ginklo,
+kai būtina duoti pavojaus signalą arba išsikviesti pagalbą.
 7. Tarnybos
 pareigūnas, panaudojęs šaunamąjį ginklą, privalo nedelsdamas apie tai pranešti
 Specialiųjų tyrimų tarnybos direktoriui ir surašyti paaiškinimą. 
@@ -936,8 +936,9 @@ pareigūno ar kario bausmės atlikimo laikas, jeigu vėliau šis asmuo
 reabilituotas;
 4) darbo
 policijoje (milicijoje), Valstybės sienos apsaugos tarnyboje, vidaus tarnybos,
-valstybės saugumo, krašto apsaugos ir prokuratūros sistemose laikas Darbo sutarties
-įstatymo pagrindais, jeigu vėliau tos pareigos priskirtos pareigūno pareigoms;
+valstybės saugumo, krašto apsaugos ir prokuratūros sistemose laikas Darbo
+sutarties įstatymo pagrindais, jeigu vėliau tos pareigos priskirtos pareigūno
+pareigoms;
 5) darbo laikas,
 Darbo sutarties įstatymo pagrindais išdirbtas profesionaliosios priešgaisrinės
 apsaugos padalinių vadovais, gaisrininkais, gaisrininkais vairuotojais, jeigu
@@ -953,20 +954,20 @@ rugpjūčio 23 d., vieną tarnybos ar darbo dieną įskaitant kaip tris tarnybos
 dienas;
 7) pareigūnams,
 pradėjusiems tarnauti ar dirbti Lietuvos Respublikos krašto apsaugos sistemoje,
-ir asmenims, pradėjusiems tarnauti ar dirbti Lietuvos Respublikos
-Aukščiausiosios Tarybos Apsaugos skyriuje iki 1991 m. gruodžio 31 d., taip pat
-Valstybės saugumo departamente prie Lietuvos Respublikos Vyriausybės nuo 1990
-m. kovo 26 d. iki 1991 m. gruodžio 2 d. ir Lietuvos Respublikos nacionalinio
-saugumo tarnyboje nuo 1991 m. gruodžio 2 d. iki 1991 m. gruodžio 31 d., – 80
-procentų iki šio laiko turėto darbo stažo;
+ir asmenims, pradėjusiems tarnauti ar dirbti Lietuvos Respublikos Aukščiausiosios
+Tarybos Apsaugos skyriuje iki 1991 m. gruodžio 31 d., taip pat Valstybės
+saugumo departamente prie Lietuvos Respublikos Vyriausybės nuo 1990 m. kovo 26
+d. iki 1991 m. gruodžio 2 d. ir Lietuvos Respublikos nacionalinio saugumo
+tarnyboje nuo 1991 m. gruodžio 2 d. iki 1991 m. gruodžio 31 d., – 80 procentų
+iki šio laiko turėto darbo stažo;
 8) mokymosi
 vidaus reikalų profesinio mokymo įstaigose, aukštosiose, specialiosiose
-vidurinėse, aukštesniosiose Lietuvos Respublikos policijos (vidaus reikalų),
-saugumo ir karo mokyklose laikas. Mokymosi tokiose pat kitų valstybių mokyklose
-laikas Vyriausybės nustatyta tvarka gali būti įskaitytas į tarnybos pareigūnų
-tarnybos stažą. Į tarnybos pareigūnų tarnybos stažą taip pat įskaitoma pusė
-mokymosi kitose aukštosiose švietimo įstaigose laiko, jeigu jas baigę asmenys
-yra priimti į tarnybą statutiniais pagrindais per tris mėnesius, pailginant šį
+vidurinėse, aukštesniosiose Lietuvos Respublikos policijos (vidaus reikalų), saugumo
+ir karo mokyklose laikas. Mokymosi tokiose pat kitų valstybių mokyklose laikas
+Vyriausybės nustatyta tvarka gali būti įskaitytas į tarnybos pareigūnų tarnybos
+stažą. Į tarnybos pareigūnų tarnybos stažą taip pat įskaitoma pusė mokymosi
+kitose aukštosiose švietimo įstaigose laiko, jeigu jas baigę asmenys yra
+priimti į tarnybą statutiniais pagrindais per tris mėnesius, pailginant šį
 laikotarpį ligos, nėštumo ir gimdymo atostogų, taip pat būtinosios tarnybos
 kariuomenėje ar dalyvavimo kariniuose mokymuose trukme;
 9) pareigūno
@@ -980,19 +981,11 @@ tarnybos dieną kaip tris dienas, taikos palaikymo misijose ir patarėjų bei
 stebėtojų misijose – vieną tarnybos dieną kaip dvi dienas;
 11)
 laikotarpiai, numatyti Valstybės tarnybos įstatymo 42 straipsnyje.
-4.
-Tarnybos pareigūnams priedas pagal Valstybės tarnybos įstatymą už 3-iąją
-kvalifikacinę kategoriją sudaro 10 procentų pareiginės algos, už 2-ąją
-kvalifikacinę kategoriją – 20 procentų pareiginės algos, už 1-ąją kvalifikacinę
-kategoriją – 30 procentų pareiginės algos.
-4
-dalies redakcija nuo 2014-01-01:
 4. Tarnybos
 pareigūnams priedas pagal Valstybės tarnybos įstatymą už 3-iąją kvalifikacinę
-kategoriją sudaro 15 procentų pareiginės algos, už 2-ąją kvalifikacinę kategoriją
-– 30 procentų pareiginės algos, už 1-ąją kvalifikacinę kategoriją – 45
-procentus pareiginės algos.
- 
+kategoriją sudaro 15 procentų pareiginės algos, už 2-ąją kvalifikacinę
+kategoriją – 30 procentų pareiginės algos, už 1-ąją kvalifikacinę kategoriją –
+45 procentus pareiginės algos.
 5. Priemokos už pareigybės aprašyme nenurodytą ar
 įprastą darbo krūvį viršijančią veiklą ar papildomų užduočių, atliekamų
 viršijant nustatytą darbo trukmę, atlikimą, taip pat darbą naktį, poilsio ir
@@ -1002,16 +995,16 @@ sąlygomis mokamos Valstybės tarnybos įstatymo nustatyta tvarka.
 nedarbingumo (išskyrus laikinąjį nedarbingumą dėl nelaimingo atsitikimo darbe
 (tarnyboje), nelaimingo atsitikimo ar įvykio, susijusio su tarnyba, taip pat
 dėl nelaimingo atsitikimo vykstant į tarnybą ar grįžtant iš jos, profesinės
-ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos vykdymo),
-nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros atostogų
-laikotarpiais, taip pat pirmaisiais vaiko auginimo metais, kai vaiko priežiūros
-atostogos nutraukiamos dėl grįžimo į tarnybą, ar antraisiais vaiko auginimo
-metais, kai vaiko priežiūros atostogos nesuteiktos arba nutrauktos, pareigūnams
-mokamos vidutinio jų darbo užmokesčio arba jo dalies dydžio išmokos,
+ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos
+vykdymo), nėštumo ir gimdymo atostogų, tėvystės atostogų ir vaiko priežiūros
+atostogų laikotarpiais, taip pat pirmaisiais vaiko auginimo metais, kai vaiko
+priežiūros atostogos nutraukiamos dėl grįžimo į tarnybą, ar antraisiais vaiko
+auginimo metais, kai vaiko priežiūros atostogos nesuteiktos arba nutrauktos,
+pareigūnams mokamos vidutinio jų darbo užmokesčio arba jo dalies dydžio išmokos,
 neviršijančios maksimalaus kompensuojamojo uždarbio. Šių išmokų dydžiai,
-maksimalus kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi
-vadovaujantis Lietuvos Respublikos ligos ir motinystės socialinio draudimo
-įstatymo nuostatomis. Laikinojo nedarbingumo dėl nelaimingo atsitikimo darbe
+maksimalus kompensuojamojo uždarbio dydis ir mokėjimo trukmė nustatomi vadovaujantis
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo
+nuostatomis. Laikinojo nedarbingumo dėl nelaimingo atsitikimo darbe
 (tarnyboje), nelaimingo atsitikimo ar įvykio, susijusio su tarnyba, taip pat
 dėl nelaimingo atsitikimo vykstant į tarnybą ar grįžtant iš jos, profesinės
 ligos ar sveikatos sutrikimų (tarp jų ir ligos), atsiradusių dėl tarnybos
@@ -1046,6 +1039,8 @@ Nr. XI-1719,
 2011-11-22, Žin., 2011, Nr. 150-7034 (2011-12-08)
 Nr. XII-119,
 2012-12-20, Žin., 2012, Nr. 155-7997 (2012-12-31)
+Nr. XII-520,
+2013-09-19, Žin., 2013, Nr. 102-5029 (2013-09-28)
 Nr. XI-986,
 2010-07-02, Žin., 2010, Nr. 86-4537 (2010-07-20)
 Nr.
@@ -1109,8 +1104,9 @@ atleidžiamiems iš Specialiųjų tyrimų tarnybos
 1. Atleidžiant tarnybos
 pareigūnus iš Specialiųjų tyrimų tarnybos Specialiųjų tyrimų tarnybos įstatymo
 12 straipsnio 1 dalies 4 arba 7 punkto, 12 straipsnio 2 dalies, šio Statuto 11
-straipsnio 1 dalies 6 punkto, 2 dalies 3, 4, 5 arba 7 punkto nustatytais pagrindais,
-išmokama dviejų mėnesių vidutinio darbo užmokesčio dydžio išeitinė pašalpa.
+straipsnio 1 dalies 6 punkto, 2 dalies 3, 4, 5 arba 7 punkto nustatytais
+pagrindais, išmokama dviejų mėnesių vidutinio darbo užmokesčio dydžio išeitinė
+pašalpa.
 2. Šio straipsnio 1 dalyje
 nustatyto dydžio išeitinė pašalpa tarnybos pareigūnams, turintiems daugiau kaip
 5 metus tarnybos stažo, didinama pusantro karto, daugiau kaip 10 metų – du
@@ -1183,8 +1179,8 @@ SKIRSNIS
 BAIGIAMOSIOS
 NUOSTATOS
  
-36
-straipsnis. Pereinamojo laikotarpio nuostatos
+36 straipsnis.
+Pereinamojo laikotarpio nuostatos
 Specialiųjų
 tyrimų tarnybos pareigūnų turimi pareiginiai laipsniai prilyginami šio Statuto
 19 straipsnyje numatytiems tarnybiniams rangams. 
@@ -1283,10 +1279,10 @@ TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šio įstatymo
 1 straipsnis įsigalioja 2009 m. rugpjūčio 1 d.
 Šio įstatymo
-2 straipsnis įsigalioja 2014 m. sausio 1 d.
+2 straipsnis įsigalioja 2013 m. spalio 1 d.
 Įstatymo
 įsigaliojimas keistas:
-1)
+7.1.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
@@ -1295,7 +1291,7 @@ XI-949,
 SPECIALIŲJŲ
 TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
-2)
+7.2.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. XI-1719,
@@ -1303,11 +1299,19 @@ Nr. XI-1719,
 SPECIALIŲJŲ
 TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
-3)
+7.3.
 Lietuvos Respublikos Seimas,
 Įstatymas
-Nr. XII-119, 2012-12-20,
-Žin., 2012, Nr. 155-7997 (2012-12-31)
+Nr. XII-119,
+2012-12-20, Žin., 2012, Nr. 155-7997 (2012-12-31)
+SPECIALIŲJŲ
+TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+7.4.
+Lietuvos Respublikos Seimas,
+Įstatymas
+Nr. XII-520,
+2013-09-19, Žin., 2013, Nr. 102-5029 (2013-09-28)
 SPECIALIŲJŲ
 TYRIMŲ TARNYBOS STATUTO 30 STRAIPSNIO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
@@ -1334,7 +1338,8 @@ Respublikos Seimas, Įstatymas
 Nr. XI-1391,
 2011-05-19, Žin., 2011, Nr. 68-3222 (2011-06-04)
 SPECIALIŲJŲ
-TYRIMŲ TARNYBOS STATUTO 2, 8, 10, 11, 13, 32 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+TYRIMŲ TARNYBOS STATUTO 2, 8, 10, 11, 13, 32 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
+ĮSTATYMAS
 Šis įstatymas, išskyrus šio
 straipsnio 2 dalį, įsigalioja 2012 m. sausio 1 d.
  
@@ -1379,11 +1384,13 @@ XII-453,
 SPECIALIŲJŲ
 TYRIMŲ TARNYBOS STATUTO 24 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+ 
 ***
 Pabaiga ***
  
+ 
 Redagavo
-Aušrinė Trapinskienė (2013-07-22)
+Aušrinė Trapinskienė (2013-09-29)
                  
 ausrine.trapinskiene@lrs.lt
 
