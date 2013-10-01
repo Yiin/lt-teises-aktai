@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A92E17FDCD13"
 
 # Lietuvos Respublikos medžioklės įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2013-09-30
+Suvestinė redakcija nuo 2013-10-01 iki 2013-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2634; Žin. 2002, Nr.112-0, i. k. 1021010ISTA00IX-966
  
@@ -865,8 +865,7 @@ Nr. IX-1612, 2003-06-10, Žin., 2003, Nr. 61-2765 (2003-06-27), i. k. 1031010IST
 
 
 
-7) užtikrinti privačios žemės sklypo savininko teisę, numatytą šio Įstatymo 13 straipsnio 1 dalyje.
- 
+7) užtikrinti privačios žemės sklypo savininko teisę, numatytą šio Įstatymo 13 straipsnio 1 dalyje;
 
 
 
@@ -1137,7 +1136,10 @@ Fiziniai ir juridiniai asmenys, pažeidę šio Įstatymo reikalavimus, atsako ci
 
 
 
-2. Laisvėje gyvenančių medžiojamųjų gyvūnų padarytą žalą pagal Aplinkos ir Žemės ūkio ministerijų patvirtintą Medžiojamųjų gyvūnų padarytos žalos žemės ūkio pasėliams ir miškui apskaičiavimo metodiką apskaičiuoja atitinkamos savivaldybės mero sudaryta nuostolių skaičiavimo komisija.
+2. Laisvėje gyvenančių medžiojamųjų gyvūnų padarytą žalą pagal Aplinkos ir Žemės ūkio ministerijų patvirtintą Medžiojamųjų gyvūnų padarytos žalos žemės ūkio pasėliams, ūkiniams gyvūnams ir miškui apskaičiavimo metodiką apskaičiuoja atitinkamos savivaldybės administracijos direktoriaus sudaryta nuostolių skaičiavimo komisija. 
+Straipsnio dalies pakeitimai:
+Nr. XII-372, 2013-06-18, Žin., 2013, Nr. 67-3335 (2013-06-26), i. k. 1131010ISTA0XII-372
+ 
 
 
 
@@ -1157,9 +1159,10 @@ Fiziniai ir juridiniai asmenys, pažeidę šio Įstatymo reikalavimus, atsako ci
 
 
 
-4. Aplinkos apsaugos rėmimo programos įstatymo ir Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo nustatyta tvarka valstybės vardu šiuose teisės aktuose nurodytos institucijos atlygina laisvėje gyvenančių medžiojamųjų gyvūnų padarytą žalą žemės, miško ir vandens telkinių sklypų, kuriuose nėra uždrausta medžioti, savininkams, valdytojams ir naudotojams, kai pakenkdami žemės ūkio pasėliams, miškui ir hidrotechnikos įrenginiams ją padarė medžiojamieji gyvūnai, kuriuos medžioti yra uždrausta ištisus metus.
+4. Aplinkos apsaugos rėmimo programos įstatymo ir Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo nustatyta tvarka valstybės vardu šiuose teisės aktuose nurodytos institucijos atlygina laisvėje gyvenančių medžiojamųjų gyvūnų padarytą žalą žemės, miško ir vandens telkinių sklypų, kuriuose nėra uždrausta medžioti, savininkams, valdytojams ir naudotojams, kai pakenkdami žemės ūkio pasėliams, miškui ir hidrotechnikos įrenginiams ją padarė medžiojamieji gyvūnai, kuriuos medžioti yra uždrausta ištisus metus, arba kai žalą ūkiniams gyvūnams padarė vilkai.
 Straipsnio dalies pakeitimai:
 Nr. IX-1612, 2003-06-10, Žin., 2003, Nr. 61-2765 (2003-06-27), i. k. 1031010ISTA0IX-1612
+Nr. XII-372, 2013-06-18, Žin., 2013, Nr. 67-3335 (2013-06-26), i. k. 1131010ISTA0XII-372
  
 
 
@@ -1378,3 +1381,8 @@ Lietuvos Respublikos medžioklės įstatymo 4 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. 1101010ISTA00XI-824
 Lietuvos Respublikos medžioklės įstatymo 5, 8, 14, 15, 16 straipsnių pakeitimo ir papildymo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-372, 2013-06-18, Žin., 2013, Nr. 67-3335 (2013-06-26), i. k. 1131010ISTA0XII-372
+Lietuvos Respublikos medžioklės įstatymo 7, 8, 9, 11, 12, 13, 14, 18, 22 straipsnių pakeitimo ir papildymo įstatymas
