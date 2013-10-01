@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9F274C93E483"
 
 # Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymas
 
-Suvestinė redakcija nuo 2011-01-01 iki 2013-09-30
+Suvestinė redakcija nuo 2013-10-01 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 61-2760, i. k. 1031010ISTA0IX-1607
  
@@ -139,7 +139,10 @@ Nr. IX-1981, 2004-01-27, Žin., 2004, Nr. 25-754 (2004-02-14), i. k. 1041010ISTA
 
 
 
-3) finansiškai remti miško sklypų, kuriuose medžioklė nėra uždrausta, savininkus, valdytojus ir naudotojus, įgyvendinančius žalos prevencijos priemones, kuriomis jie siekia išvengti medžiojamųjų gyvūnų daromos žalos miškui (želdinių apdorojimas repelentais, aptvėrimas tvoromis ar apsauginėmis juostomis, želdinių, gerinančių laukinių gyvūnų natūralias mitybos sąlygas, veisimas ir kitos priemonės), įsigyti kartografinę ir kitą medžiagą, reikalingą pagal Medžioklės įstatymo reikalavimus rengiamiems medžioklės plotų vienetų sudarymo ar jų ribų pakeitimo projektams parengti – įplaukos pagal 3 straipsnio 2 punktą;
+3) finansiškai remti žemės sklypų, kuriuose medžioklė nėra uždrausta, savininkus, valdytojus ir naudotojus, įgyvendinančius žalos prevencijos priemones, kuriomis jie siekia išvengti medžiojamųjų gyvūnų daromos žalos (želdinių apdorojimas repelentais, aptvėrimas tvoromis ar apsauginėmis juostomis, želdinių, gerinančių laukinių gyvūnų natūralias mitybos sąlygas, veisimas ir kitos priemonės), atlyginti vilkų ūkiniams gyvūnams padarytą žalą, įsigyti kartografinę ir kitą medžiagą, reikalingą pagal Medžioklės įstatymo reikalavimus rengiamiems medžioklės plotų vienetų sudarymo ar jų ribų pakeitimo projektams parengti – įplaukos pagal 3 straipsnio 2 punktą;
+Straipsnio punkto pakeitimai:
+Nr. XII-374, 2013-06-18, Žin., 2013, Nr. 67-3337 (2013-06-26), i. k. 1131010ISTA0XII-374
+ 
 
 
 
@@ -250,3 +253,8 @@ Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios progr
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1104, 2010-11-09, Žin., 2010, Nr. 137-7005 (2010-11-23), i. k. 1101010ISTA0XI-1104
 Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo 3, 4 straipsnių papildymo ir pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-374, 2013-06-18, Žin., 2013, Nr. 67-3337 (2013-06-26), i. k. 1131010ISTA0XII-374
+Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo 4 straipsnio pakeitimo įstatymas
