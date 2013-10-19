@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6E4170DB704"
 
 # Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas
 
-Suvestinė redakcija nuo 2010-03-01 iki 2013-10-18
+Suvestinė redakcija nuo 2013-10-19 iki 2014-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2317, i. k. 0961010ISTA00I-1562
  
@@ -217,7 +217,9 @@ PACIENTO TEISĖS IR PAREIGOS
 
 
 
-5. Jeigu paciento tolesnis buvimas sveikatos priežiūros įstaigoje nėra mediciniškai pagrįstas, prieš išrašant iš sveikatos priežiūros įstaigos į namus ar siunčiant į kitą sveikatos priežiūros įstaigą, pacientui turi būti išsamiai paaiškintas tokio sprendimo pagrįstumas ir tolesnės sveikatos priežiūros tęstinumas. Gavęs tokią informaciją, pacientas patvirtina tai parašu. 
+5. Jeigu paciento tolesnis buvimas sveikatos priežiūros įstaigoje nėra mediciniškai pagrįstas, prieš išrašant iš sveikatos priežiūros įstaigos į namus ar siunčiant į kitą sveikatos priežiūros įstaigą, pacientui arba šio ir kitų įstatymų nustatytais atvejais jo atstovui turi būti išsamiai paaiškintas tokio sprendimo pagrįstumas ir tolesnės sveikatos priežiūros tęstinumas. Gavęs tokią informaciją, pacientas arba šio ir kitų įstatymų nustatytais atvejais jo atstovas patvirtina tai parašu. Kai pacientas, kuris jo hospitalizavimo metu negali būti laikomas gebančiu protingai vertinti savo interesų, išrašomas iš sveikatos priežiūros įstaigos ar siunčiamas į kitą sveikatos priežiūros įstaigą, šioje dalyje nurodyta informacija turi būti pateikta paciento atstovui, jeigu jis pasirašytinai nurodytas paciento medicinos dokumentuose arba jeigu paciento atstovas sveikatos priežiūros įstaigai yra pateikęs atstovavimą patvirtinantį dokumentą, atitinkantį šiame ir kituose įstatymuose nustatytus reikalavimus.
+Straipsnio dalies pakeitimai:
+Nr. XII-546, 2013-10-08, Žin., 2013, Nr. 110-5430 (2013-10-19), i. k. 1131010ISTA0XII-546
  
 
 
@@ -845,3 +847,8 @@ Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-499, 2009-11-19, Žin., 2009, Nr. 145-6425 (2009-12-08), i. k. 1091010ISTA00XI-499
 Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-546, 2013-10-08, Žin., 2013, Nr. 110-5430 (2013-10-19), i. k. 1131010ISTA0XII-546
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 5 straipsnio pakeitimo įstatymas
