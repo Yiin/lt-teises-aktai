@@ -928,7 +928,7 @@ su visomis tuo metu vykstančiomis konsultacijomis, skelbiama Ryšių reguliavim
 tarnybos interneto tinklalapyje. Ryšių reguliavimo tarnyba skelbia konsultacijų
 rezultatus, išskyrus informaciją, kuri yra valstybės, tarnybos ar komercinė
 paslaptis ar susijusi su fizinio asmens privačiu gyvenimu.
-4 dalies redakcija nuo 2014-01-01:
+Redakcija nuo 2014-01-01:
 4. Ryšių reguliavimo tarnyba nustato konsultavimosi taisykles,
 apibrėžiančias konsultacijų atvejus, tvarką ir sąlygas. Informacija, susijusi
 su visomis tuo metu vykstančiomis konsultacijomis, skelbiama Ryšių reguliavimo
@@ -951,7 +951,8 @@ ir konfidencialią informaciją, užtikrindama gaunamos informacijos apsaugą;
 2) konsultuoja Ryšių reguliavimo tarnybą, kai ji atlieka funkcijas,
 susijusias su konkurencijos priežiūra elektroninių ryšių srityje;
 3) bendradarbiauja ir konsultuojasi su Ryšių reguliavimo tarnyba, pagal
-Konkurencijos įstatymą vykdydama konkurencijos elektroninių ryšių srityje priežiūrą.
+Konkurencijos įstatymą vykdydama konkurencijos elektroninių ryšių srityje
+priežiūrą.
 2. Nacionalinė vartotojų teisių apsaugos taryba:
 1) koordinuoja Ryšių reguliavimo tarnybos veiklą elektroninių ryšių
 paslaugų vartotojų teisių apsaugos srityje;
@@ -988,14 +989,19 @@ privatumo apsaugos srityje;
 reglamentuojančių šio Įstatymo devintojo skirsnio, išskyrus šio Įstatymo 61
 straipsnio 5 dalį, 64 straipsnio 7 dalį ir 68 straipsnio 2 dalį, reguliavimo
 dalyką, nuostatų vykdymo priežiūrą;
+4)
+įgyvendina Reglamento (EB) Nr. 2006/2004 nuostatas, kiek tai susiję su šio
+Įstatymo 69 straipsnio reguliavimo dalyku;
+5)
+įgyvendina Reglamentą (ES) Nr. 611/2013.
 4) vykdo Europos Parlamento ir Tarybos reglamento (EB) Nr. 2006/2004
 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų
 vykdymą, bendradarbiavimo nuostatas, kiek tai susiję su šio Įstatymo 69
 straipsnio reguliavimo dalyku.
-6. Muitinės departamentas pagal kompetenciją bendradarbiauja su Ryšių reguliavimo
-tarnyba, šiai atliekant funkcijas, susijusias su radijo ryšio ir galinių
-įrenginių bei aparatūros ir įrenginių teikimu į rinką, keičiasi susijusia
-informacija.
+6. Muitinės departamentas pagal kompetenciją bendradarbiauja su Ryšių
+reguliavimo tarnyba, šiai atliekant funkcijas, susijusias su radijo ryšio ir
+galinių įrenginių bei aparatūros ir įrenginių teikimu į rinką, keičiasi
+susijusia informacija.
 7. Lietuvos nacionalinė standartizacijos institucija bendradarbiauja su
 Vyriausybės įgaliota elektroninių ryšių veiklos politikos formavimo institucija
 ir Ryšių reguliavimo tarnyba, kai šios Standartizacijos įstatymo nustatyta
@@ -1009,14 +1015,14 @@ informacija.
 elektroninių ryšių poreikius, nacionalinio saugumo institucijos pagal savo
 kompetenciją bendradarbiauja su Ryšių reguliavimo tarnyba.
 9. Sveikatos
-apsaugos ministerija, nustatydama higienos normas, susijusias su elektromagnetinio
-spinduliavimo normomis, konsultuojasi su Ryšių reguliavimo tarnyba. Sveikatos
-apsaugos ministerija keičiasi su Ryšių reguliavimo tarnyba informacija,
-susijusia su higienos normomis, turinčiomis ryšių su elektromagnetinio
-spinduliavimo normomis. Visuomenės sveikatos centrai apskrityse, atlikdami savo
-funkcijas, susijusias su elektromagnetinio spinduliavimo normų priežiūra,
-konsultuojasi su Ryšių reguliavimo tarnyba, taip pat su šia institucija
-keičiasi susijusia informacija.
+apsaugos ministerija, nustatydama higienos normas, susijusias su
+elektromagnetinio spinduliavimo normomis, konsultuojasi su Ryšių reguliavimo
+tarnyba. Sveikatos apsaugos ministerija keičiasi su Ryšių reguliavimo tarnyba
+informacija, susijusia su higienos normomis, turinčiomis ryšių su
+elektromagnetinio spinduliavimo normomis. Visuomenės sveikatos centrai
+apskrityse, atlikdami savo funkcijas, susijusias su elektromagnetinio spinduliavimo
+normų priežiūra, konsultuojasi su Ryšių reguliavimo tarnyba, taip pat su šia
+institucija keičiasi susijusia informacija.
 10. Ryšių reguliavimo tarnyba ir Statistikos departamentas teikia
 kitoms valstybės ir (ar) savivaldybių institucijoms pagal šių institucijų
 prašymus jų funkcijoms atlikti reikalingą turimą informaciją, kiek ji
@@ -1032,7 +1038,7 @@ funkcijoms tinkamai atlikti, kompetencijų kolizijoms spręsti ir vienodos
 praktikos formavimui užtikrinti, gali būti reglamentuotos šių institucijų
 susitarimais. Tokie susitarimai skelbiami „Valstybės žinių“ priede
 „Informaciniai pranešimai“.
-12 dalies redakcija nuo 2014-01-01:
+Redakcija nuo 2014-01-01:
 12. Lietuvos Respublikos
 institucijų bendradarbiavimo tvarka ir sąlygos, įskaitant sąlygas, skirtas
 kiekvienos iš susitarusių institucijų funkcijoms tinkamai atlikti, kompetencijų
@@ -1050,6 +1056,9 @@ XI-1763,
 Nr.
 XI-2322,
 2012-11-06, Žin., 2012, Nr. 132-6650 (2012-11-15)
+Nr.
+XII-579,
+2013-11-07, Žin., 2013, Nr. 120-6051 (2013-11-23)
  
 13 straipsnis. Bendradarbiavimas su Europos Sąjungos
 institucijomis, Europos elektroninių ryšių reguliuotojų institucija ir Europos
@@ -1101,10 +1110,10 @@ jei jis vienas ar kartu su kitais ūkio subjektais užima padėtį, prilygintin�
 dominuojančiai, t. y. tokią ekonominės galios padėtį, kuri suteikia jam galią
 elgtis pakankamai nepriklausomai nuo konkurentų, klientų ir, galiausiai,
 vartotojų.
-2. Kai ūkio subjektas turi didelę įtaką vienoje rinkoje, jis gali būti
-laikomas turinčiu didelę įtaką artimai susijusioje rinkoje, jei sąsajos tarp
-šių dviejų rinkų leidžia vienoje rinkoje turimą įtaką panaudoti kitoje rinkoje
-ir taip sustiprinti ūkio subjekto įtaką rinkoje.
+2. Kai ūkio subjektas turi didelę įtaką vienoje rinkoje, jis gali būti laikomas
+turinčiu didelę įtaką artimai susijusioje rinkoje, jei sąsajos tarp šių dviejų
+rinkų leidžia vienoje rinkoje turimą įtaką panaudoti kitoje rinkoje ir taip
+sustiprinti ūkio subjekto įtaką rinkoje.
 3. Ūkio subjektas laikomas turinčiu didelę įtaką atitinkamoje rinkoje,
 kai, atlikus rinkos tyrimą, tai yra nustatyta Ryšių reguliavimo tarnybos
 sprendimu, ir laikomas tokiu tol, kol kito rinkos tyrimo metu Ryšių reguliavimo
@@ -1151,9 +1160,9 @@ jos dalis, jeigu motyvuotai ir pagrįstai mano, kad kitas dalis atlikti nėra
 tikslinga.
 6. Ryšių
 reguliavimo tarnyba, tirdama rinkas, vadovaujasi Lietuvos Respublikos teisės
-aktais, Europos Sąjungos teise ir atsižvelgia į Europos Komisijos gaires bei
-rekomendacijas, taip pat Europos elektroninių ryšių reguliuotojų institucijos
-priimtas nuomones ir bendrąsias pozicijas.
+aktais, Europos Sąjungos teise ir atsižvelgia į Europos Komisijos gaires bei rekomendacijas,
+taip pat Europos elektroninių ryšių reguliuotojų institucijos priimtas nuomones
+ir bendrąsias pozicijas.
 7. Ryšių
 reguliavimo tarnyba, atlikdama rinkos tyrimą, turi teisę konsultuotis su
 Konkurencijos taryba. Ryšių reguliavimo tarnyba privalo gauti Konkurencijos
@@ -1183,8 +1192,8 @@ reguliuotojų instituciją su prašymu suteikti pagalbą atliekant atitinkamos
 rinkos tyrimą ir nustatant didelę įtaką atitinkamoje rinkoje turintiems ūkio
 subjektams taikytinus įpareigojimus. Gavusi pagalbą, Ryšių reguliavimo tarnyba
 per 6 mėnesius, vadovaudamasi šio Įstatymo 11 straipsnio 1 dalyje ir šio
-straipsnio 12 dalyje nustatyta tvarka, pateikia sprendimą suinteresuotiems
-asmenims ir Europos Komisijai.
+straipsnio 12 dalyje nustatyta tvarka, pateikia sprendimą suinteresuotiems asmenims
+ir Europos Komisijai.
 11. Ryšių
 reguliavimo tarnyba rinkos tyrimo procedūrą atlieka per 4 mėnesius nuo
 sprendimo pradėti rinkos tyrimą pradžios, neįskaitant konsultacijų dėl rinkos
@@ -1209,24 +1218,25 @@ narių nacionalinėms reguliavimo institucijoms. Europos Komisija, Europos
 elektroninių ryšių reguliuotojų institucija ir kitų Europos Sąjungos valstybių
 nacionalinės reguliavimo institucijos gali pateikti savo nuomonę per vieną
 mėnesį. Europos Komisijai priėmus gaires ir (arba) rekomendacijas, nustatančias
-kitokią, nei šiame straipsnyje nustatyta, viešo konsultavimosi tvarką ir terminus,
-taikoma Europos Komisijos gairėse ir (arba) rekomendacijose nustatyta viešo
-konsultavimosi tvarka ir terminai.
+kitokią, nei šiame straipsnyje nustatyta, viešo konsultavimosi tvarką ir
+terminus, taikoma Europos Komisijos gairėse ir (arba) rekomendacijose nustatyta
+viešo konsultavimosi tvarka ir terminai.
 13. Jeigu šio
 straipsnio 12 dalyje nurodytu sprendimo projektu siekiama apibrėžti atitinkamą
 rinką kitaip, negu ji apibrėžta šio straipsnio 3 dalyje nurodytoje Europos
 Komisijos rekomendacijoje, arba nustatyti ar nenustatyti ūkio subjektus,
 turinčius didelę įtaką atitinkamoje rinkoje, ir Europos Komisija nurodė Ryšių
-reguliavimo tarnybai, kad mano, jog toks sprendimas sukurtų kliūtis bendrajai rinkai,
-arba rimtai abejoja, ar toks sprendimo projektas atitinka Europos Sąjungos
-teisę, Ryšių reguliavimo tarnyba negali tokio sprendimo projekto priimti 2
-mėnesius nuo tokio nurodymo. Jeigu Europos Komisija per šį terminą nurodo Ryšių
-reguliavimo tarnybai nepriimti tokio sprendimo projekto, Ryšių reguliavimo
-tarnyba per šešis mėnesius privalo pakeisti tokį sprendimo projektą arba jo
-nepriimti. Jeigu Ryšių reguliavimo tarnyba, atsižvelgusi į Europos Komisijos
-nurodymą, pakeičia savo sprendimo projektą, ji, vadovaudamasi šio Įstatymo 11
-straipsnio 1 dalyje ir šio straipsnio 12 dalyje nustatyta tvarka, pateikia
-pakeistą sprendimo projektą suinteresuotiems asmenims ir Europos Komisijai.
+reguliavimo tarnybai, kad mano, jog toks sprendimas sukurtų kliūtis bendrajai
+rinkai, arba rimtai abejoja, ar toks sprendimo projektas atitinka Europos
+Sąjungos teisę, Ryšių reguliavimo tarnyba negali tokio sprendimo projekto
+priimti 2 mėnesius nuo tokio nurodymo. Jeigu Europos Komisija per šį terminą
+nurodo Ryšių reguliavimo tarnybai nepriimti tokio sprendimo projekto, Ryšių
+reguliavimo tarnyba per šešis mėnesius privalo pakeisti tokį sprendimo projektą
+arba jo nepriimti. Jeigu Ryšių reguliavimo tarnyba, atsižvelgusi į Europos
+Komisijos nurodymą, pakeičia savo sprendimo projektą, ji, vadovaudamasi šio
+Įstatymo 11 straipsnio 1 dalyje ir šio straipsnio 12 dalyje nustatyta tvarka,
+pateikia pakeistą sprendimo projektą suinteresuotiems asmenims ir Europos
+Komisijai.
 14. Jeigu šio
 straipsnio 12 dalyje nurodytu sprendimo projektu siekiama nustatyti, pakeisti
 ir (arba) panaikinti vieną ar kelis šio Įstatymo 17 straipsnyje nurodytus
@@ -1270,16 +1280,16 @@ reguliavimo tarnyba išimtinėmis aplinkybėmis, kai, jos nuomone, būtina imtis
 skubių veiksmų, nesilaikant šio straipsnio 12 ir 13 dalyse nustatytos
 procedūros, siekdama apsaugoti konkurenciją ir paslaugų gavėjų interesus, gali
 nedelsdama imtis proporcingų laikinųjų priemonių – tai yra apibrėžti atitinkamą
-rinką, nustatyti ar nenustatyti ūkio subjektus, turinčius didelę įtaką
-atitinkamoje rinkoje, ir (arba) nustatyti, nenustatyti ar panaikinti šiems
-subjektams vieną ar kelis šio Įstatymo 17 straipsnyje nurodytus įpareigojimus.
-Šios laikinosios priemonės gali būti nustatomos ne ilgesniam kaip 9 mėnesių
-laikotarpiui. Tokiu atveju Ryšių reguliavimo tarnyba privalo nedelsdama
-pranešti Europos Komisijai, Europos elektroninių ryšių reguliuotojų
-institucijai ir kitų Europos Sąjungos valstybių narių nacionalinėms reguliavimo
-institucijoms apie šias priemones, kartu jas pagrįsdama. Ryšių reguliavimo
-tarnyba gali padaryti šias priemones nuolatinėmis arba pratęsti jų taikymo
-terminą, vadovaudamasi šio straipsnio 12 ir 13 dalyse nustatyta procedūra.
+rinką, nustatyti ar nenustatyti ūkio subjektus, turinčius didelę įtaką atitinkamoje
+rinkoje, ir (arba) nustatyti, nenustatyti ar panaikinti šiems subjektams vieną
+ar kelis šio Įstatymo 17 straipsnyje nurodytus įpareigojimus. Šios laikinosios
+priemonės gali būti nustatomos ne ilgesniam kaip 9 mėnesių laikotarpiui. Tokiu
+atveju Ryšių reguliavimo tarnyba privalo nedelsdama pranešti Europos Komisijai,
+Europos elektroninių ryšių reguliuotojų institucijai ir kitų Europos Sąjungos
+valstybių narių nacionalinėms reguliavimo institucijoms apie šias priemones,
+kartu jas pagrįsdama. Ryšių reguliavimo tarnyba gali padaryti šias priemones
+nuolatinėmis arba pratęsti jų taikymo terminą, vadovaudamasi šio straipsnio 12
+ir 13 dalyse nustatyta procedūra.
 19. Atitinkamų
 rinkų, kuriose nustatyti didelę įtaką turintys ūkio subjektai, sąrašą ir didelę
 įtaką šiose rinkose turinčių ūkio subjektų sąrašą bei jiems nustatytus
@@ -1302,8 +1312,8 @@ Straipsnio pakeitimai:
 Nr. XI-1552,
 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
  
-17 straipsnis. Įpareigojimų didelę įtaką atitinkamoje
-rinkoje turintiems ūkio subjektams nustatymas 
+17 straipsnis. Įpareigojimų didelę įtaką
+atitinkamoje rinkoje turintiems ūkio subjektams nustatymas 
 1. Ryšių
 reguliavimo tarnyba ūkio subjektams, turintiems didelę įtaką atitinkamoje
 rinkoje, nustato šiuos įpareigojimus, atsižvelgdama į tai, kurie iš jų
@@ -1326,13 +1336,13 @@ atskyrimo įpareigojimą pagal šio Įstatymo 231 straipsnio nuostatas;
 susijusius su paslaugų galutiniams paslaugų gavėjams teikimu, pagal šio
 Įstatymo 32 straipsnio nuostatas.
 2. Šio Įstatymo
-26 straipsnyje nustatytais atvejais ūkio subjektai, turintys didelę įtaką
-atitinkamoje rinkoje, privalo vykdyti atitinkamus įpareigojimus be atskiro
-Ryšių reguliavimo tarnybos sprendimo. Be atskiro Ryšių reguliavimo tarnybos
-sprendimo ūkio subjektai taip pat turi vykdyti papildomą įpareigojimą, nurodytą
-šio Įstatymo 18 straipsnio 5 dalyje. Šios dalies pirmajame sakinyje nurodytus
-įpareigojimus ūkio subjektas privalo vykdyti nuo jo pripažinimo turinčiu didelę
-įtaką atitinkamoje rinkoje, o įpareigojimą, nurodytą antrajame sakinyje, – nuo
+26 straipsnyje nustatytais atvejais ūkio subjektai, turintys didelę įtaką atitinkamoje
+rinkoje, privalo vykdyti atitinkamus įpareigojimus be atskiro Ryšių reguliavimo
+tarnybos sprendimo. Be atskiro Ryšių reguliavimo tarnybos sprendimo ūkio
+subjektai taip pat turi vykdyti papildomą įpareigojimą, nurodytą šio Įstatymo
+18 straipsnio 5 dalyje. Šios dalies pirmajame sakinyje nurodytus įpareigojimus
+ūkio subjektas privalo vykdyti nuo jo pripažinimo turinčiu didelę įtaką
+atitinkamoje rinkoje, o įpareigojimą, nurodytą antrajame sakinyje, – nuo
 momento, kai ūkio subjektas privalo pradėti vykdyti pagrindinį įpareigojimą.
 Ryšių reguliavimo tarnyba turi teisę nustatyti kitą šioje dalyje nurodytų
 įpareigojimų vykdymo pradžios momentą, tačiau ne ankstesnį negu nurodytieji
@@ -1350,17 +1360,17 @@ nustatytiems tikslams pasiekti) Ryšių reguliavimo tarnyba turi teisę didelę
 tinklų sujungimą, jeigu Europos Komisija tai leidžia.
 5. Ryšių
 reguliavimo tarnyba turi teisę nustatyti įpareigojimų įgyvendinimo sąlygas,
-susijusias su sąžiningumu, pagrįstumu ir įpareigojimų vykdymu tinkamais
-terminais. Ryšių reguliavimo tarnyba turi teisę detalizuoti įpareigojimus,
-numatytus šiame straipsnyje, ir nustatyti jų vykdymo sąlygas, šio Įstatymo
-nustatytais atvejais tvirtindama visiems ūkio subjektams, privalantiems vykdyti
-atitinkamus įpareigojimus, privalomas taisykles, tvarkas ir (ar) sąlygas, taip
-pat visais atvejais nustatydama konkrečius detalius įpareigojimus ir (ar) jų
-vykdymo sąlygas konkretiems ūkio subjektams.
+susijusias su sąžiningumu, pagrįstumu ir įpareigojimų vykdymu tinkamais terminais.
+Ryšių reguliavimo tarnyba turi teisę detalizuoti įpareigojimus, numatytus šiame
+straipsnyje, ir nustatyti jų vykdymo sąlygas, šio Įstatymo nustatytais atvejais
+tvirtindama visiems ūkio subjektams, privalantiems vykdyti atitinkamus
+įpareigojimus, privalomas taisykles, tvarkas ir (ar) sąlygas, taip pat visais
+atvejais nustatydama konkrečius detalius įpareigojimus ir (ar) jų vykdymo
+sąlygas konkretiems ūkio subjektams.
 6. Ryšių
-reguliavimo tarnybos nustatomi ūkio subjektams įpareigojimai turi būti
-pagrįsti, atitikti nustatytos problemos prigimtį, būti proporcingi ir
-pateisinami elektroninių ryšių veiklos reguliavimo principais ir tikslais.
+reguliavimo tarnybos nustatomi ūkio subjektams įpareigojimai turi būti pagrįsti,
+atitikti nustatytos problemos prigimtį, būti proporcingi ir pateisinami
+elektroninių ryšių veiklos reguliavimo principais ir tikslais.
 7. Jeigu atlikus
 atitinkamos rinkos tyrimą nustatoma, kad jos charakteristikos negali pateisinti
 įpareigojimų, nurodytų šiame straipsnyje, taikymo ir (arba) joje nėra didelę
@@ -1369,8 +1379,8 @@ tvarka ir sąlygomis nenustato šiame straipsnyje nurodytų įpareigojimų ūkio
 subjektams ir (ar) panaikina didelę įtaką atitinkamoje rinkoje turėjusiems ūkio
 subjektams nustatytus įpareigojimus, jei tokie buvo nustatyti. Panaikindama
 įpareigojimus, Ryšių reguliavimo tarnyba turi teisę motyvuotu sprendimu
-nustatyti jų vykdymo pabaigos terminą, ne ilgesnį kaip 28 dienos nuo
-atitinkamos šio Įstatymo 16 straipsnio 19 dalyje nurodytos informacijos
+nustatyti jų vykdymo pabaigos terminą, ne ilgesnį kaip 28 dienos nuo atitinkamos
+šio Įstatymo 16 straipsnio 19 dalyje nurodytos informacijos
 paskelbimo Ryšių reguliavimo tarnybos interneto svetainėje.
 8. Ryšių
 reguliavimo tarnyba, atlikusi pakartotinį rinkos tyrimą, gali pakeisti
@@ -1412,7 +1422,8 @@ būdą ir kitas paskelbimo sąlygas.
 straipsnio 1, 2 ir 5 dalyse nurodyta informacija, įskaitant geografinius tinklų
 sujungimo taškus, sujungimo testavimo, bendro elektroninių ryšių
 infrastruktūros naudojimo ir atsiskaitymo sąlygas, elektroninių ryšių paslaugų
-teikėjo pasirinkimo sąlygas bei tarifus, negali būti laikoma komercine paslaptimi.
+teikėjo pasirinkimo sąlygas bei tarifus, negali būti laikoma komercine
+paslaptimi.
 5. Operatorius,
 įpareigotas suteikti didmeninę prieigą prie fizinės infrastruktūros, įskaitant
 visiškai ar iš dalies atsietą prieigą, fiksuotoje vietoje, privalo Ryšių
@@ -1475,8 +1486,8 @@ nustatytas paslaugas turint tikslą jas perparduoti;
 atvirą prieigą prie techninių sąsajų, protokolų ar kitų technologijų, kurios
 yra būtinos paslaugų suderinamumui ar virtualiojo tinklo paslaugoms teikti;
 6) suteikti
-prieigą prie patalpų ar kitus elektroninių ryšių infrastruktūros bendro naudojimo
-būdus;
+prieigą prie patalpų ar kitus elektroninių ryšių infrastruktūros bendro
+naudojimo būdus;
 7) suteikti
 konkrečias paslaugas, būtinas užtikrinti paslaugų teikimą paslaugų gavėjams;
 8) suteikti
@@ -1522,10 +1533,9 @@ straipsnis. Prieiga
 1. Ūkio
 subjektai, kurie teisėtai verčiasi elektroninių ryšių veikla, turi teisę
 laisvai derėtis dėl prieigos. Operatoriai turi teisę ir, kai to prašo kitas
-operatorius ar viešųjų elektroninių ryšių paslaugų teikėjas, norintis teikti
-viešųjų elektroninių ryšių paslaugas ar užtikrinti jų teikimą, pareigą derėtis
-dėl tinklų sujungimo, kad būtų užtikrintas paslaugų teikimas ir tarpusavio
-sąveika.
+operatorius ar viešųjų elektroninių ryšių paslaugų teikėjas, norintis teikti viešųjų
+elektroninių ryšių paslaugas ar užtikrinti jų teikimą, pareigą derėtis dėl
+tinklų sujungimo, kad būtų užtikrintas paslaugų teikimas ir tarpusavio sąveika.
 2. Ryšių
 reguliavimo tarnyba skatina ir, kai to reikia, šio Įstatymo nustatyta tvarka
 užtikrina tinkamos prieigos suteikimą ir paslaugų suderinamumą, skatindama
@@ -1553,27 +1563,27 @@ turi būti objektyvios, skaidrios, proporcingos ir nediskriminacinės, o
 atitinkami sprendimai priimami vadovaujantis šio Įstatymo 11 straipsnio 1
 dalyje nustatytiems atvejams taikomomis taisyklėmis bei mutatis mutandis šio
 Įstatymo 16 straipsnio 12 ir 14–18 dalyse nustatytomis taisyklėmis.
-4. Šio
-straipsnio 2 dalyje nurodytu atveju ūkio subjektas gali atsisakyti suteikti
-prieigą, vienašališkai sustabdyti jos teikimą ar ją nutraukti tik tais
-atvejais, kai tai yra pagrįsta objektyviais kriterijais, įskaitant techninių
-galimybių nebuvimą arba būtinybę užtikrinti tinklo vientisumą.
+4. Šio straipsnio
+2 dalyje nurodytu atveju ūkio subjektas gali atsisakyti suteikti prieigą,
+vienašališkai sustabdyti jos teikimą ar ją nutraukti tik tais atvejais, kai tai
+yra pagrįsta objektyviais kriterijais, įskaitant techninių galimybių nebuvimą
+arba būtinybę užtikrinti tinklo vientisumą.
 5. Ūkio
 subjektai privalo užtikrinti, kad prieš derybas dėl prieigos, šių derybų metu
 ir vėliau iš kitų ūkio subjektų gauta informacija, išskyrus informaciją, kuri
 šio Įstatymo nustatyta tvarka, atvejais ir sąlygomis negali būti konfidenciali,
 būtų naudojama tik tam tikslui, kuriam ji buvo suteikta, ir būtų užtikrintas
 perduodamos ar saugomos informacijos konfidencialumas. Tokia informacija negali
-būti perduodama jokioms kitoms šalims, ypač kitiems ūkio subjekto padaliniams,
-dukterinėms įmonėms ar partneriams, kuriems tokia informacija galėtų suteikti
-konkurencinį pranašumą. Ryšių reguliavimo tarnyba gali nustatyti taisykles,
-detalizuojančias šiuos reikalavimus užtikrinančias priemones.
+būti perduodama jokioms kitoms šalims, ypač kitiems ūkio subjekto padaliniams, dukterinėms
+įmonėms ar partneriams, kuriems tokia informacija galėtų suteikti konkurencinį
+pranašumą. Ryšių reguliavimo tarnyba gali nustatyti taisykles, detalizuojančias
+šiuos reikalavimus užtikrinančias priemones.
 6. Vadovaudamasi šio Įstatymo principais ir kai tai pateisinama šio
 Įstatymo tikslais, Ryšių reguliavimo tarnyba turi teisę savo iniciatyva ar šio
 Įstatymo 28 straipsnio nustatyta tvarka, spręsdama ūkio subjektų ginčą, priimti
-ūkio subjektams privalomą sprendimą dėl prieigos, įskaitant tinklų
-sujungimą, suteikimo, įskaitant ir šio straipsnio 2 dalyje nurodytų
-įpareigojimų dėl konkrečios prieigos nustatymą.
+ūkio subjektams privalomą sprendimą dėl prieigos, įskaitant tinklų sujungimą,
+suteikimo, įskaitant ir šio straipsnio 2 dalyje nurodytų įpareigojimų
+dėl konkrečios prieigos nustatymą.
 7. Ryšių
 reguliavimo tarnyba turi teisę nustatyti prieigos, įskaitant tinklų sujungimą,
 suteikimo ir teikimo taisykles.
@@ -1587,17 +1597,17 @@ straipsnis. Kainų kontrolė ir sąnaudų apskaitos įpareigojimai
 reguliavimo tarnyba turi teisę nustatyti operatoriui, turinčiam didelę įtaką
 rinkoje, įpareigojimus, susijusius su sąnaudų padengimu ir kainų kontrole,
 įskaitant įpareigojimus teikti prieigą tokiomis kainomis, kurios būtų pagrįstos
-sąnaudomis (atsižvelgiant į protingumo kriterijų atitinkančią investicijų
-grąžą), bei įpareigojimus, susijusius su sąnaudų apskaitos sistemomis,
-skirtomis konkrečioms prieigos rūšims teikti, kai rinkos tyrimo metu nustatyta,
-kad veiksmingos konkurencijos trūkumas (ūkio subjektų, turinčių didelę įtaką
+sąnaudomis (atsižvelgiant į protingumo kriterijų atitinkančią investicijų grąžą),
+bei įpareigojimus, susijusius su sąnaudų apskaitos sistemomis, skirtomis
+konkrečioms prieigos rūšims teikti, kai rinkos tyrimo metu nustatyta, kad
+veiksmingos konkurencijos trūkumas (ūkio subjektų, turinčių didelę įtaką
 atitinkamoje rinkoje, buvimas) reiškia, kad atitinkamas operatorius galėtų
 palaikyti pernelyg dideles kainas arba naudoti kainų spaudimą, tuo darydamas
 žalą galutiniams paslaugų gavėjams. Siekiant skatinti operatorių investicijas,
-įskaitant investicijas į elektroninių ryšių tinklų plėtrą ir technologijų vystymąsi,
-nustatant įpareigojimus atsižvelgiama į operatoriaus teisę gauti protingumo
-kriterijų atitinkančią investicijų grąžą, apskaičiuotą įvertinus naujų
-investicijų į elektroninių ryšių tinklų plėtrą ir technologijų vystymąsi
+įskaitant investicijas į elektroninių ryšių tinklų plėtrą ir technologijų
+vystymąsi, nustatant įpareigojimus atsižvelgiama į operatoriaus teisę gauti
+protingumo kriterijų atitinkančią investicijų grąžą, apskaičiuotą įvertinus
+naujų investicijų į elektroninių ryšių tinklų plėtrą ir technologijų vystymąsi
 riziką.
 2. Nustatytas
 sąnaudų padengimo mechanizmas ir (arba) kainų nustatymo metodikos turi skatinti
@@ -1607,23 +1617,23 @@ siūlomas palyginamose konkurencingose rinkose.
 3. Įrodinėjimo
 našta, kad operatoriaus, įpareigoto kainas grįsti sąnaudomis, kainos yra
 pagrįstos sąnaudomis, atsižvelgiant į protingumo kriterijų atitinkančią
-investicijų grąžą, tenka operatoriui, įpareigotam kainas grįsti
-sąnaudomis. Ryšių reguliavimo tarnyba gali nustatyti sąnaudų apskaitos
-taisykles siekdama, kad būtų skaičiuojamos efektyvaus paslaugų ir (arba) tinklų
-teikimo sąnaudos. Ryšių reguliavimo tarnyba gali pareikalauti, kad operatorius,
-įpareigotas kainas grįsti sąnaudomis, įrodytų nustatytų kainų pagrįstumą
-sąnaudomis, ir nustatyti privalomą protingumo kriterijus atitinkantį terminą
-tam atlikti. Jeigu operatorius per šį terminą kainų pagrįstumo sąnaudomis
-neįrodo, laikoma, kad jo nustatytos kainos yra sąnaudomis nepagrįstos. Ryšių
-reguliavimo tarnyba turi teisę reikalauti, kad operatoriaus teikiami duomenys
-būtų operatoriaus lėšomis patikrinti audito. Kol operatorius, įpareigotas
-kainas grįsti sąnaudomis, įrodys kainų pagrįstumą sąnaudomis, Ryšių reguliavimo
-tarnyba turi teisę nustatyti laikiną aukščiausią kainų ribą, atsižvelgdama į
-netiesioginiais sąnaudų vertinimo metodais gautus duomenis apie atitinkamas
-sąnaudas, tarp jų lygindama atitinkamų paslaugų kainas, atsižvelgdama į
-geriausią Europos Sąjungos valstybių narių praktiką, panašaus išsivystymo
-valstybių praktiką, Lietuvos Respublikos praktiką, taip pat vertindama
-atitinkamų didmeninių ir mažmeninių kainų santykį.
+investicijų grąžą, tenka operatoriui, įpareigotam kainas grįsti sąnaudomis.
+Ryšių reguliavimo tarnyba gali nustatyti sąnaudų apskaitos taisykles siekdama,
+kad būtų skaičiuojamos efektyvaus paslaugų ir (arba) tinklų teikimo sąnaudos.
+Ryšių reguliavimo tarnyba gali pareikalauti, kad operatorius, įpareigotas
+kainas grįsti sąnaudomis, įrodytų nustatytų kainų pagrįstumą sąnaudomis, ir
+nustatyti privalomą protingumo kriterijus atitinkantį terminą tam atlikti.
+Jeigu operatorius per šį terminą kainų pagrįstumo sąnaudomis neįrodo, laikoma,
+kad jo nustatytos kainos yra sąnaudomis nepagrįstos. Ryšių reguliavimo tarnyba
+turi teisę reikalauti, kad operatoriaus teikiami duomenys būtų operatoriaus
+lėšomis patikrinti audito. Kol operatorius, įpareigotas kainas grįsti
+sąnaudomis, įrodys kainų pagrįstumą sąnaudomis, Ryšių reguliavimo tarnyba turi
+teisę nustatyti laikiną aukščiausią kainų ribą, atsižvelgdama į netiesioginiais
+sąnaudų vertinimo metodais gautus duomenis apie atitinkamas sąnaudas, tarp jų
+lygindama atitinkamų paslaugų kainas, atsižvelgdama į geriausią Europos
+Sąjungos valstybių narių praktiką, panašaus išsivystymo valstybių praktiką,
+Lietuvos Respublikos praktiką, taip pat vertindama atitinkamų didmeninių ir
+mažmeninių kainų santykį.
 4. Ryšių
 reguliavimo tarnyba gali pareikalauti, kad operatorius, kuriam nustatytas
 įpareigojimas, susijęs su kainų kontrole, pagrįstų kainas, ir nustatyti
@@ -1632,27 +1642,26 @@ per Ryšių reguliavimo tarnybos nustatytą terminą neįrodžius kainų pagrįs
 laikoma, kad kainos yra nepagrįstos. Ryšių reguliavimo tarnyba turi teisę
 reikalauti, kad operatoriaus teikiami duomenys būtų operatoriaus lėšomis
 patikrinti audito. Ryšių reguliavimo tarnyba turi teisę reikalauti pakeisti
-kainas arba nustatyti aukščiausią kainų ribą lygindama atitinkamų paslaugų
-kainas, atsižvelgdama į geriausią Europos Sąjungos valstybių narių praktiką,
-panašaus išsivystymo valstybių praktiką, Lietuvos Respublikos praktiką, taip
-pat vertindama atitinkamų didmeninių ir mažmeninių kainų santykį.
-5. Jeigu Ryšių reguliavimo tarnyba,
-siekdama užtikrinti kainų kontrolę, įpareigoja operatorių įgyvendinti sąnaudų
-apskaitos sistemą, operatorius privalo per Ryšių reguliavimo tarnybos
-nustatytus terminus ir šios institucijos nustatytomis sąlygomis bei tvarka
-parengti sąnaudų apskaitos sistemą, paskelbti jos aprašymą, jį pateikti Ryšių
-reguliavimo tarnybai ir laikytis šios sąnaudų apskaitos sistemos. Ši sąnaudų
-apskaitos sistema ir jos skelbimo būdas turi atitikti Ryšių reguliavimo
-tarnybos nustatytas sąnaudų apskaitos taisykles. Ryšių reguliavimo tarnyba turi
-teisę nustatyti sąnaudų apskaitos sistemą, metodą ir (arba) modelį, privalomą
-didelę įtaką atitinkamoje rinkoje turintiems operatoriams ar konkrečiam
-operatoriui. Tokią apskaitos sistemą, metodą ir (arba) modelį Ryšių reguliavimo
-tarnyba privalo paskelbti savo interneto svetainėje. Ar operatoriaus sąnaudų
-apskaita atitinka sąnaudų apskaitos taisykles bei kitus teisės aktus, jo
-parengtą ir (arba) Ryšių reguliavimo tarnybos nustatytą sąnaudų apskaitos
-sistemą, metodą ir (arba) modelį, turi būti patikrinta audito. Audito išvada
-turi būti skelbiama kartą per metus pagal Ryšių reguliavimo tarnybos nustatytas
-taisykles.
+kainas arba nustatyti aukščiausią kainų ribą lygindama atitinkamų paslaugų kainas,
+atsižvelgdama į geriausią Europos Sąjungos valstybių narių praktiką, panašaus
+išsivystymo valstybių praktiką, Lietuvos Respublikos praktiką, taip pat
+vertindama atitinkamų didmeninių ir mažmeninių kainų santykį.
+5. Jeigu Ryšių reguliavimo tarnyba, siekdama
+užtikrinti kainų kontrolę, įpareigoja operatorių įgyvendinti sąnaudų apskaitos
+sistemą, operatorius privalo per Ryšių reguliavimo tarnybos nustatytus terminus
+ir šios institucijos nustatytomis sąlygomis bei tvarka parengti sąnaudų
+apskaitos sistemą, paskelbti jos aprašymą, jį pateikti Ryšių reguliavimo
+tarnybai ir laikytis šios sąnaudų apskaitos sistemos. Ši sąnaudų apskaitos
+sistema ir jos skelbimo būdas turi atitikti Ryšių reguliavimo tarnybos
+nustatytas sąnaudų apskaitos taisykles. Ryšių reguliavimo tarnyba turi teisę
+nustatyti sąnaudų apskaitos sistemą, metodą ir (arba) modelį, privalomą didelę
+įtaką atitinkamoje rinkoje turintiems operatoriams ar konkrečiam operatoriui.
+Tokią apskaitos sistemą, metodą ir (arba) modelį Ryšių reguliavimo tarnyba privalo
+paskelbti savo interneto svetainėje. Ar operatoriaus sąnaudų apskaita atitinka
+sąnaudų apskaitos taisykles bei kitus teisės aktus, jo parengtą ir (arba) Ryšių
+reguliavimo tarnybos nustatytą sąnaudų apskaitos sistemą, metodą ir (arba)
+modelį, turi būti patikrinta audito. Audito išvada turi būti skelbiama kartą
+per metus pagal Ryšių reguliavimo tarnybos nustatytas taisykles.
 Straipsnio pakeitimai:
 Nr. XI-1552,
 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
@@ -1661,13 +1670,13 @@ Nr. XI-1552,
 atskyrimo įpareigojimas 
 1. Išimtinėmis aplinkybėmis (tai yra,
 kai Ryšių reguliavimo tarnyba nustato, kad įpareigojimų, nustatytų pagal šio
-Įstatymo 18, 19, 20, 21, 22 ir 23 straipsnius, nepakanka veiksmingai
-konkurencijai užtikrinti ir esant svarbių bei nuolat pasikartojančių
-konkurencijos atitinkamoje rinkoje problemų, susijusių su prieigos teikimu)
-Ryšių reguliavimo tarnyba, atsižvelgdama į šio Įstatymo 17 straipsnio 4 dalį,
-turi teisę įpareigoti vertikaliai integruotą ūkio subjektą visą didmeninių
-atitinkamų prieigų teikimo veiklą atskirti nuo likusios šio ūkio subjekto
-vykdomos veiklos, perkeliant ją į atskirą juridinį asmenį.
+Įstatymo 18, 19, 20, 21, 22 ir 23 straipsnius, nepakanka veiksmingai konkurencijai
+užtikrinti ir esant svarbių bei nuolat pasikartojančių konkurencijos
+atitinkamoje rinkoje problemų, susijusių su prieigos teikimu) Ryšių reguliavimo
+tarnyba, atsižvelgdama į šio Įstatymo 17 straipsnio 4 dalį, turi teisę
+įpareigoti vertikaliai integruotą ūkio subjektą visą didmeninių atitinkamų
+prieigų teikimo veiklą atskirti nuo likusios šio ūkio subjekto vykdomos
+veiklos, perkeliant ją į atskirą juridinį asmenį.
 2. Ūkio subjektas, kuriam nustatytas
 funkcinio atskyrimo įpareigojimas, turi teikti prieigą visiems ūkio subjektams,
 įskaitant vertikaliai integruoto ūkio subjekto, nurodyto šio straipsnio 1
@@ -1687,15 +1696,15 @@ poveikį Ryšių reguliavimo tarnybai, ūkio subjektui, kuriam nustatomas šio
 straipsnio 1 dalyje nurodytas įpareigojimas, visų pirma šio ūkio subjekto
 darbuotojams, ir visai elektroninių ryšių rinkai bei paskatoms investuoti
 elektroninių ryšių rinkoje siekiant užtikrinti socialinę ir teritorinę
-sanglaudą, taip pat kitiems suinteresuotiems asmenims, įskaitant laukiamą poveikį
-konkurencijai ir tikėtinas pasekmes vartotojams;
+sanglaudą, taip pat kitiems suinteresuotiems asmenims, įskaitant laukiamą
+poveikį konkurencijai ir tikėtinas pasekmes vartotojams;
 4) priežasčių,
 pagrindžiančių šio įpareigojimo veiksmingumo įgyvendinimo priemonių
 konkurencijos atitinkamoje rinkoje prieigos teikimo problemoms pašalinti,
 įvertinimą.
-4. Sprendime,
-kuriuo ketinama nustatyti funkcinio atskyrimo įpareigojimą, Ryšių reguliavimo
-tarnyba nurodo:
+4. Sprendime, kuriuo
+ketinama nustatyti funkcinio atskyrimo įpareigojimą, Ryšių reguliavimo tarnyba
+nurodo:
 1) tikslų
 funkcinio atskyrimo pobūdį ir lygmenį;
 2) atskiriamą
@@ -1709,12 +1718,12 @@ procesų skaidrumo užtikrinimo taisykles, visų pirma suinteresuotųjų asmenų
 atžvilgiu;
 6) įpareigojimo
 laikymosi stebėsenos programą, įskaitant metinės ataskaitos skelbimą. 
-5. Ryšių
-reguliavimo tarnybos sprendimas nustatyti, palikti galioti, pakeisti ar
-panaikinti įpareigojimus priimamas tik atlikus didmeninių atitinkamų prieigų
-teikimo rinkų tyrimą bei vadovaujantis šio Įstatymo 11 straipsnio 1 dalyje
-nustatytiems atvejams taikomomis taisyklėmis ir mutatis mutandis šio
-Įstatymo 16 straipsnyje nustatytomis taisyklėmis. 
+5. Ryšių reguliavimo
+tarnybos sprendimas nustatyti, palikti galioti, pakeisti ar panaikinti
+įpareigojimus priimamas tik atlikus didmeninių atitinkamų prieigų teikimo rinkų
+tyrimą bei vadovaujantis šio Įstatymo 11 straipsnio 1 dalyje nustatytiems
+atvejams taikomomis taisyklėmis ir mutatis mutandis šio Įstatymo 16
+straipsnyje nustatytomis taisyklėmis. 
 6. Ryšių reguliavimo tarnyba ūkio
 subjektui, kuriam nustatytas funkcinio atskyrimo įpareigojimas, turi teisę bet
 kurioje atitinkamoje rinkoje nustatyti šio Įstatymo 18, 19, 20, 21, 22 ir 23
@@ -1741,12 +1750,12 @@ savo paties mažmeninės prekybos padalinius, privalo apie tai Ryšių reguliavi
 tarnybos taisyklių nustatyta tvarka ir sąlygomis informuoti Ryšių reguliavimo
 tarnybą, kad ji galėtų įvertinti numatomo sandorio poveikį. Ūkio subjektas taip
 pat privalo pranešti Ryšių reguliavimo tarnybai apie visus savanoriško
-atsiskyrimo ketinimų pasikeitimus ir galutinius savanoriško atsiskyrimo
-rezultatus Ryšių reguliavimo tarnybos taisyklių nustatyta tvarka ir sąlygomis. 
+atsiskyrimo ketinimų pasikeitimus ir galutinius savanoriško atsiskyrimo rezultatus
+Ryšių reguliavimo tarnybos taisyklių nustatyta tvarka ir sąlygomis. 
 2. Ryšių reguliavimo tarnyba, gavusi šio
 straipsnio 1 dalyje nurodytą informaciją, nustato, palieka galioti, pakeičia ar
-panaikina įpareigojimus tik atlikusi atitinkamų prieigos prie tinklo teikimo rinkų
-tyrimą ir vadovaudamasi šio Įstatymo 11 straipsnio 1 dalyje nustatytiems
+panaikina įpareigojimus tik atlikusi atitinkamų prieigos prie tinklo teikimo
+rinkų tyrimą ir vadovaudamasi šio Įstatymo 11 straipsnio 1 dalyje nustatytiems
 atvejams taikomomis taisyklėmis ir mutatis mutandis šio Įstatymo 16
 straipsnyje nustatytomis taisyklėmis ir įvertinusi ūkio subjekto, turinčio
 didelę įtaką vienoje ar keliose atitinkamose rinkose, numatomo savanoriško
@@ -1782,9 +1791,9 @@ sąnaudomis užtikrinti perdavimo valdymą (t. y. technines procedūras, kurios
 leidžia perduoti sąlyginės prieigos valdymą iš vienų transliuotojų (siuntėjų)
 kitiems), suteikiantį galimybę šias sistemas naudojantiems operatoriams
 visiškai valdyti paslaugas vietiniu ar regioniniu mastu.
-2. Ūkio
-subjektai, teikiantys sąlyginės prieigos prie skaitmeninio radijo ir (ar)
-televizijos paslaugų, nepaisant jų perdavimo būdo, paslaugas ir kurių paslaugos
+2. Ūkio subjektai,
+teikiantys sąlyginės prieigos prie skaitmeninio radijo ir (ar) televizijos
+paslaugų, nepaisant jų perdavimo būdo, paslaugas ir kurių paslaugos
 reikalingos, kad transliuotojai pasiektų bet kurią potencialių žiūrovų ar
 klausytojų grupę, nepaisant radijo ir (ar) televizijos paslaugų perdavimo būdo,
 privalo:
@@ -1808,14 +1817,14 @@ prieigos prie skaitmeninio radijo ir (ar) televizijos paslaugų produktų ir
 sistemų intelektinės nuosavybės teisių turėtojai, suteikdami licencijas ar kitu
 būdu suteikdami vartotojų įrangos gamintojams teisę naudotis atitinkamomis
 intelektinės nuosavybės teisėmis, privalo užtikrinti, kad tokios teisės būtų
-suteikiamos sąžiningomis, pagrįstomis ir nediskriminacinėmis sąlygomis.
-Atsižvelgiant į technines ir komercines aplinkybes, teisių turėtojai suteikdami
-teises negali uždrausti, riboti ar nustatyti atgrasančias sąlygas tame pačiame
-produkte naudoti bendras sąsajas, leidžiančias prijungti kitas prieigos
-sistemas, taip pat naudoti priemones, specifiškas kitoms prieigos sistemoms,
-jei šiuo  atveju teisių gavėjas laikosi susijusių ir pagrįstų sąlygų,
-užtikrinančių, kiek tai susiję su šiuo teisių gavėju, sąlyginės prieigos
-sistemų operatorių transakcijų saugumą.
+suteikiamos sąžiningomis, pagrįstomis ir nediskriminacinėmis sąlygomis. Atsižvelgiant
+į technines ir komercines aplinkybes, teisių turėtojai suteikdami teises negali
+uždrausti, riboti ar nustatyti atgrasančias sąlygas tame pačiame produkte
+naudoti bendras sąsajas, leidžiančias prijungti kitas prieigos sistemas, taip
+pat naudoti priemones, specifiškas kitoms prieigos sistemoms, jei šiuo  atveju
+teisių gavėjas laikosi susijusių ir pagrįstų sąlygų, užtikrinančių, kiek tai
+susiję su šiuo teisių gavėju, sąlyginės prieigos sistemų operatorių transakcijų
+saugumą.
 5. Ryšių
 reguliavimo tarnyba turi teisę nustatyti reikalavimus, susijusius su
 elektroninių programų vadovų ir panašių sąrašų bei navigacijos priemonių
@@ -1831,14 +1840,14 @@ Valstybinė ne maisto produktų inspekcija Vyriausybės nustatyta tvarka.
  
 26
 straipsnis. Specialios veiksmingos konkurencijos užtikrinimo priemonės
-1. Ūkio
-subjektai, kuriuos kontroliuoja valstybė ar savivaldybė arba kurie naudojasi
-išimtinėmis ar specialiosiomis teisėmis ir turi didelę įtaką nemažoje viešųjų
-ryšių tinklų ir viešųjų telefono ryšio paslaugų teikimo bendrosios rinkos
-dalyje bei valdo kabelinės televizijos tinklą, nutiestą naudojantis toje
-pačioje geografinėje teritorijoje turėtomis ar turimomis išimtinėmis ar
-specialiosiomis teisėmis, kabelinės televizijos tinklą gali teikti tik per kitą
-juridinį asmenį, o ne tą, kurį naudoja viešajam ryšių tinklui teikti. 
+1. Ūkio subjektai,
+kuriuos kontroliuoja valstybė ar savivaldybė arba kurie naudojasi išimtinėmis
+ar specialiosiomis teisėmis ir turi didelę įtaką nemažoje viešųjų ryšių tinklų
+ir viešųjų telefono ryšio paslaugų teikimo bendrosios rinkos dalyje bei valdo
+kabelinės televizijos tinklą, nutiestą naudojantis toje pačioje geografinėje
+teritorijoje turėtomis ar turimomis išimtinėmis ar specialiosiomis teisėmis,
+kabelinės televizijos tinklą gali teikti tik per kitą juridinį asmenį, o ne tą,
+kurį naudoja viešajam ryšių tinklui teikti. 
 2. Viešųjų ryšių
 tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjai, kuriems taip pat
 suteiktos specialiosios ar išimtinės teisės teikti paslaugas kitose ūkio
@@ -1910,10 +1919,10 @@ visiškai funkcionalia forma, įskaitant skaitmeninės televizijos paslaugų
 teikimą neįgaliesiems galutiniams paslaugų gavėjams.
 7. Lietuvos
 Respublikoje yra pripažįstami Europos Sąjungos atitinkamų institucijų bei
-atitinkamų Europos Sąjungos valstybių narių įgaliotų institucijų išduoti matavimo
-priemonių ir atitinkamų Europos Sąjungos valstybėse narėse pripažįstamų
-standartų atitikties sertifikatai (pažymos). Pripažinimo tvarką nustato
-Vyriausybė, laikydamasi prisiimtų tarptautinių įsipareigojimų.
+atitinkamų Europos Sąjungos valstybių narių įgaliotų institucijų išduoti
+matavimo priemonių ir atitinkamų Europos Sąjungos valstybėse narėse
+pripažįstamų standartų atitikties sertifikatai (pažymos). Pripažinimo tvarką
+nustato Vyriausybė, laikydamasi prisiimtų tarptautinių įsipareigojimų.
 Straipsnio pakeitimai:
 Nr. XI-1552,
 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
@@ -1979,14 +1988,13 @@ reikalauja laikytis arbitražinio susitarimo, išskyrus ginčus, kurie pagal
 įstatymus negali būti nagrinėjami arbitraže;
 5) ūkio subjekto
 vardu prašymą nagrinėti ginčą padavė neįgaliotas asmuo.
-7. Ryšių
-reguliavimo tarnyba nutraukia ginčo nagrinėjimą, jei nagrinėjant ginčą
-paaiškėja šio straipsnio 6 dalies 1 ar 2 punktuose nurodytos aplinkybės, taip
-pat jei:
+7. Ryšių reguliavimo
+tarnyba nutraukia ginčo nagrinėjimą, jei nagrinėjant ginčą paaiškėja šio
+straipsnio 6 dalies 1 ar 2 punktuose nurodytos aplinkybės, taip pat jei:
 1) ieškovas
 atsisakė prašymo nagrinėti ginčą ir Ryšių reguliavimo tarnyba jį patvirtino;
-2) teismas
-nagrinėja ginčą tarp tų pačių šalių dėl to paties dalyko ir tuo pačiu pagrindu;
+2) teismas nagrinėja
+ginčą tarp tų pačių šalių dėl to paties dalyko ir tuo pačiu pagrindu;
 3) šalys sudarė
 taikos sutartį ir Ryšių reguliavimo tarnyba ją patvirtino. Šiuo atveju taikos
 sutartis laikoma vykdytinu Ryšių reguliavimo tarnybos sprendimu.
@@ -1997,11 +2005,11 @@ pat jei:
 1) Ryšių
 reguliavimo tarnyba nagrinėja ginčą tarp tų pačių šalių dėl to paties dalyko ir
 tuo pačiu pagrindu;
-2) prašymas nagrinėti
-ginčą yra su trūkumais, tarp jų nesumokėtas užmokestis Ryšių reguliavimo
-tarnybai už ginčo nagrinėjimą ar nepateikti duomenys, patvirtinantys užmokesčio
-sumokėjimą, ir ieškovas per Ryšių reguliavimo tarnybos nustatytą terminą šių
-trūkumų nepašalina.
+2) prašymas
+nagrinėti ginčą yra su trūkumais, tarp jų nesumokėtas užmokestis Ryšių
+reguliavimo tarnybai už ginčo nagrinėjimą ar nepateikti duomenys,
+patvirtinantys užmokesčio sumokėjimą, ir ieškovas per Ryšių reguliavimo
+tarnybos nustatytą terminą šių trūkumų nepašalina.
 9. Ryšių
 reguliavimo tarnyba sustabdo ginčo nagrinėjimą, jeigu:
 1) pasibaigė
@@ -2019,8 +2027,8 @@ reguliavimo tarnyba bet kurios ginčo šalies ar kitų suinteresuotų ūkio subj
 ar asmenų prašymu, taip pat savo iniciatyva gali imtis laikinųjų apsaugos
 priemonių, t. y. nustatyti įpareigojimą susilaikyti nuo tam tikrų veiksmų
 atlikimo ar atlikti tam tikrus veiksmus, jeigu jų nesiėmus Ryšių reguliavimo
-tarnybos sprendimą dėl Ryšių reguliavimo tarnybai pateikto prašymo išspręsti ginčą
-įvykdyti gali tapti sunkiau arba to padaryti bus nebeįmanoma. Taikant
+tarnybos sprendimą dėl Ryšių reguliavimo tarnybai pateikto prašymo išspręsti
+ginčą įvykdyti gali tapti sunkiau arba to padaryti bus nebeįmanoma. Taikant
 laikinąsias apsaugos priemones mutatis mutandis, taikomos
 Civilinio proceso kodekso penktojo skirsnio, reglamentuojančio laikinųjų
 apsaugos priemonių taikymą, nuostatos. Laikinosios priemonės galioja iki Ryšių
@@ -2029,9 +2037,9 @@ reguliavimo tarnyba bet kurios ginčo šalies ar kitų suinteresuotų ūkio subj
 ar asmenų prašymu, taip pat savo iniciatyva panaikina ar pakeičia anksčiau.
 Ryšių reguliavimo tarnybos sprendimas dėl laikinųjų apsaugos priemonių per 7
 dienas nuo tokio sprendimo įteikimo suinteresuotam ūkio subjektui ar asmeniui
-dienos gali būti skundžiamas Vilniaus apygardos teismui. Skundo padavimas
-teismui nesustabdo ginčo nagrinėjimo Ryšių reguliavimo tarnyboje. Skundas
-teismui pateikiamas ir nagrinėjamas šio straipsnio 17 dalyje nustatyta tvarka.
+dienos gali būti skundžiamas Vilniaus apygardos teismui. Skundo padavimas teismui
+nesustabdo ginčo nagrinėjimo Ryšių reguliavimo tarnyboje. Skundas teismui
+pateikiamas ir nagrinėjamas šio straipsnio 17 dalyje nustatyta tvarka.
 11. Ginčo šalys,
 kiti suinteresuoti ūkio subjektai ir asmenys, dalyvaujantys ginčo nagrinėjime,
 turi teisę susipažinti su ginčo nagrinėjimo medžiaga, išskyrus medžiagą, kuri
@@ -2040,36 +2048,36 @@ atskleidus būtų pažeista fizinio asmens teisė į privataus gyvenimo
 neliečiamumą. Atsakovas visada turi teisę susipažinti su prašymo nagrinėti
 ginčą tekstu, o ieškovas visada turi teisę susipažinti su atsiliepimo tekstu.
 Ginčo šalys, kiti suinteresuoti ūkio subjektai ir asmenys, dalyvaujantys ginčo
-nagrinėjime, turi teisę teikti įrodymus, paaiškinimus, argumentus ir
-samprotavimus Ryšių reguliavimo tarnybai, prieštarauti kitos šalies ar kitų
-suinteresuotų ūkio subjektų bei asmenų, dalyvaujančių ginčo nagrinėjime,
-prašymams, argumentams ir samprotavimams, gauti Ryšių reguliavimo tarnybos
-sprendimų, kuriais išsprendžiamas ginčas, nuorašus, apskųsti Ryšių reguliavimo
-tarnybos sprendimus ir naudotis kitomis teisėmis, kurias suteikia šis Įstatymas
-bei ginčų tarp ūkio subjektų sprendimo Ryšių reguliavimo tarnyboje taisyklės.
+nagrinėjime, turi teisę teikti įrodymus, paaiškinimus, argumentus ir samprotavimus
+Ryšių reguliavimo tarnybai, prieštarauti kitos šalies ar kitų suinteresuotų
+ūkio subjektų bei asmenų, dalyvaujančių ginčo nagrinėjime, prašymams,
+argumentams ir samprotavimams, gauti Ryšių reguliavimo tarnybos sprendimų,
+kuriais išsprendžiamas ginčas, nuorašus, apskųsti Ryšių reguliavimo tarnybos
+sprendimus ir naudotis kitomis teisėmis, kurias suteikia šis Įstatymas bei
+ginčų tarp ūkio subjektų sprendimo Ryšių reguliavimo tarnyboje taisyklės.
 Ieškovas turi teisę atsisakyti prašymo išnagrinėti ginčą. Atsakovas turi teisę
 pripažinti prašymą. Šalys gali užbaigti ginčo nagrinėjimą taikos sutartimi.
 Ginčo šalys ir kiti suinteresuoti ūkio subjektai ir asmenys, dalyvaujantys
 ginčo nagrinėjime, privalo naudotis savo teisėmis sąžiningai.
-12. Ryšių
-reguliavimo tarnyba ginčą nagrinėja rašytinės procedūros tvarka, išskyrus
-atvejus, kai bet kurios iš ginčo šalių ar kitų suinteresuotų ūkio subjektų ar
-asmenų prašymu arba savo iniciatyva nusprendžia, kad ginčas gali būti geriau
-išnagrinėtas žodinio ginčo nagrinėjimo posėdžio metu. Ryšių reguliavimo tarnyba
-informuoja šalis apie tokį posėdį, tačiau jų neatvykimas nekliudo nagrinėti
-ginčą, jeigu ginčų tarp ūkio subjektų sprendimo Ryšių reguliavimo tarnyboje
-taisyklės nenustato kitaip. Ginčo nagrinėjimas posėdyje yra viešas, išskyrus
-atvejus, kai Ryšių reguliavimo tarnyba, siekdama apsaugoti valstybės, tarnybos
-ar komercines paslaptis arba užtikrinti asmens teisę į privataus gyvenimo
-neliečiamumą, nusprendžia nagrinėti ginčą uždarame posėdyje.
+12. Ryšių reguliavimo
+tarnyba ginčą nagrinėja rašytinės procedūros tvarka, išskyrus atvejus, kai bet
+kurios iš ginčo šalių ar kitų suinteresuotų ūkio subjektų ar asmenų prašymu
+arba savo iniciatyva nusprendžia, kad ginčas gali būti geriau išnagrinėtas
+žodinio ginčo nagrinėjimo posėdžio metu. Ryšių reguliavimo tarnyba informuoja
+šalis apie tokį posėdį, tačiau jų neatvykimas nekliudo nagrinėti ginčą, jeigu
+ginčų tarp ūkio subjektų sprendimo Ryšių reguliavimo tarnyboje taisyklės
+nenustato kitaip. Ginčo nagrinėjimas posėdyje yra viešas, išskyrus atvejus, kai
+Ryšių reguliavimo tarnyba, siekdama apsaugoti valstybės, tarnybos ar komercines
+paslaptis arba užtikrinti asmens teisę į privataus gyvenimo neliečiamumą,
+nusprendžia nagrinėti ginčą uždarame posėdyje.
 13. Ryšių
 reguliavimo tarnyba turi teisę atsisakyti priimti įrodymus, prašymus ir
 motyvus, jeigu jie galėjo būti pateikti anksčiau.
 14. Ryšių
 reguliavimo tarnyba priima sprendimą dėl ginčo ne vėliau kaip per keturis
-mėnesius nuo prašymo priėmimo, išskyrus atvejus, kai dėl išimtinių aplinkybių (pavyzdžiui,
-daug įrodymų, sudėtingos ginčo aplinkybės) ginčui nagrinėti reikia ilgesnio
-laiko.
+mėnesius nuo prašymo priėmimo, išskyrus atvejus, kai dėl išimtinių aplinkybių
+(pavyzdžiui, daug įrodymų, sudėtingos ginčo aplinkybės) ginčui nagrinėti reikia
+ilgesnio laiko.
 15. Ryšių
 reguliavimo tarnybos sprendimas įsiteisėja ir yra privalomas vykdyti pasibaigus
 terminui, nustatytam šio straipsnio 18 dalyje, per kurį ginčo šalys turi teisę
@@ -2122,9 +2130,8 @@ sąlygos ir tvarka, taip pat nustatoma detali ginčų nagrinėjimo procedūra.
 kad ginčą nagrinėja ir visus susijusius sprendimus priima Ryšių reguliavimo
 tarnybos direktoriaus sudaryta komisija. Tokiu atveju ginčų tarp ūkio subjektų
 sprendimo Ryšių reguliavimo tarnyboje taisyklės gali numatyti, kad komisijos
-sprendimas, kuriuo ginčas išsprendžiamas iš esmės ar nutraukiamas ginčo
-nagrinėjimas, įsigalioja tik jį patvirtinus Ryšių reguliavimo tarnybos
-direktoriui.
+sprendimas, kuriuo ginčas išsprendžiamas iš esmės ar nutraukiamas ginčo nagrinėjimas,
+įsigalioja tik jį patvirtinus Ryšių reguliavimo tarnybos direktoriui.
 23. Ūkio
 subjektai, teikiantys elektroninių ryšių tinklus ir (ar) paslaugas, turi teisę
 kreiptis į Ryšių reguliavimo tarnybą, kad ji šiems ūkio subjektams
@@ -2150,8 +2157,8 @@ ryšių veikla.
 3. Ryšių
 reguliavimo tarnyba tvirtina elektroninių ryšių veiklų, kuriomis norėdamas
 verstis ūkio subjektas privalo pranešti Ryšių reguliavimo tarnybai, rūšių
-sąrašą. Ūkio subjektas turi teisę verstis atitinkama veikla po to, kai jis
-Ryšių reguliavimo tarnybos nustatyta tvarka ir sąlygomis praneša apie tai Ryšių
+sąrašą. Ūkio subjektas turi teisę verstis atitinkama veikla po to, kai jis Ryšių
+reguliavimo tarnybos nustatyta tvarka ir sąlygomis praneša apie tai Ryšių
 reguliavimo tarnybai.
 4. Ryšių
 reguliavimo tarnyba, atsižvelgdama į veiklos sritį ir mastą, nustato
@@ -2186,9 +2193,9 @@ tinkamo prašymo išduoti tokį patvirtinimą gavimo. Už patvirtinimo išdavim�
 imama valstybės rinkliava. Patvirtinimo išdavimo tvarką ir sąlygas
 nustato Ryšių reguliavimo tarnyba.
 7. Ūkio
-subjektai, prieš nutraukdami elektroninių ryšių veiklą, įrašytą į Ryšių
-reguliavimo tarnybos patvirtintą elektroninių ryšių veiklos rūšių sąrašą,
-privalo apie tai pranešti Ryšių reguliavimo tarnybai jos nustatyta tvarka.
+subjektai, prieš nutraukdami elektroninių ryšių veiklą, įrašytą į Ryšių reguliavimo
+tarnybos patvirtintą elektroninių ryšių veiklos rūšių sąrašą, privalo apie tai
+pranešti Ryšių reguliavimo tarnybai jos nustatyta tvarka.
 8. Ūkio
 subjektai, kurie pageidauja verstis ar verčiasi elektroninių ryšių veikla, moka
 Ryšių reguliavimo tarnybai šio Įstatymo 6 straipsnio 3 dalyje nustatytus
@@ -2226,20 +2233,20 @@ ryšio numerių, ir, kai tai įmanoma techniniu ir ekonominiu požiūriu, kitų
 Europos Sąjungos valstybių narių numeracijos planuose nurodytų numerių,
 prieinamumu galutiniams paslaugų gavėjams;
 5)
-aplinkos apsaugos ir teritorijų planavimo teisės aktų įgyvendinimu, taip pat sąlygomis,
-susijusiomis su teisės naudotis žemės valda (žemėvalda) suteikimu ir bendru
-patalpų bei elektroninių ryšių infrastruktūros naudojimu, įskaitant finansines
-ar technines garantijas, kurios būtinos tinkamam infrastruktūros darbų
-atlikimui užtikrinti;
+aplinkos apsaugos ir teritorijų planavimo teisės aktų įgyvendinimu, taip pat
+sąlygomis, susijusiomis su teisės naudotis žemės valda (žemėvalda) suteikimu ir
+bendru patalpų bei elektroninių ryšių infrastruktūros naudojimu, įskaitant
+finansines ar technines garantijas, kurios būtinos tinkamam infrastruktūros
+darbų atlikimui užtikrinti;
 6)
 privalomojo televizijos ir radijo programų siuntimo (perdavimo) taisyklėmis;
 7)
 asmens duomenų ir privatumo apsaugos taisyklėmis, specifinėmis elektroninių
 ryšių sektoriui;
 8)
-elektroninių ryšių sektoriui specifinėmis vartotojų teisių apsaugos taisyklėmis,
-inter alia apimančiomis ir neįgaliųjų galutinių paslaugų gavėjų galimybę
-naudotis viešosiomis elektroninių ryšių paslaugomis;
+elektroninių ryšių sektoriui specifinėmis vartotojų teisių apsaugos
+taisyklėmis, inter alia apimančiomis ir neįgaliųjų galutinių paslaugų
+gavėjų galimybę naudotis viešosiomis elektroninių ryšių paslaugomis;
 9)
 ribojimais, susijusiais su neteisėto ar žalingo turinio informacijos perdavimu,
 pagal Lietuvos Respublikos teisės aktus;
@@ -2343,8 +2350,8 @@ kartą per kalendorinius metus, išskyrus atvejus, kai pagrįstai įtariama, kad
 paslaugų teikimo nuostolių kompensaciją. Auditorius ar audito įmonė išrenkama
 konkurso tvarka. Konkurso sąlygas ir tvarką nustato Ryšių reguliavimo tarnyba.
 5.
-Šio straipsnio 1 dalyje nurodytų paslaugų teikimo nuostoliai universaliųjų
-paslaugų teikimo nuostolių kompensavimo taisyklių nustatyta tvarka, atvejais ir
+Šio straipsnio 1 dalyje nurodytų paslaugų teikimo nuostoliai universaliųjų paslaugų
+teikimo nuostolių kompensavimo taisyklių nustatyta tvarka, atvejais ir
 sąlygomis kompensuojami viešųjų telefono ryšio paslaugų teikėjų lėšomis.
 Vyriausybė turi teisę nustatyti ir kitus universaliųjų paslaugų teikimo
 nuostolių kompensavimo šaltinius. Vyriausybė gali įgalioti Ryšių reguliavimo
@@ -2363,10 +2370,10 @@ Neteko galios nuo 2011 m. rugpjūčio 1 d.
 Europos Komisiją apie ūkio subjektus, įpareigotus teikti universaliąsias
 paslaugas, ir apie universaliąsias paslaugas, kurias teikti yra įpareigoti ūkio
 subjektai, ir apie bet kokius tokios informacijos pasikeitimus.
-8. Kai ūkio subjektas, įpareigotas teikti
-universaliąsias paslaugas, ketina perleisti savo visą prieigos prie viešojo
-ryšių tinklo fiksuotoje vietoje turtą ar didelę jo dalį nuosavybės teise kitam
-ūkio subjektui, jis apie tai iš anksto Ryšių
+8. Kai ūkio subjektas, įpareigotas teikti universaliąsias
+paslaugas, ketina perleisti savo visą prieigos prie viešojo ryšių tinklo
+fiksuotoje vietoje turtą ar didelę jo dalį nuosavybės teise kitam ūkio
+subjektui, jis apie tai iš anksto Ryšių
 reguliavimo tarnybos taisyklių nustatyta tvarka ir sąlygomis praneša Ryšių reguliavimo tarnybai, kad ji galėtų
 įvertinti numatomo sandorio poveikį prieigos prie viešojo ryšių tinklo fiksuotoje vietoje ir viešųjų telefono ryšio paslaugų teikimui. Ryšių
 reguliavimo tarnyba, gavusi šioje dalyje nurodytą informaciją, gali nustatyti, keisti ar panaikinti šio Įstatymo
@@ -2379,20 +2386,20 @@ Nr. XI-1552,
 galutiniams paslaugų gavėjams teikimu
 1. Ryšių reguliavimo tarnyba, nusprendusi, kad
 įpareigojimų, galimų nustatyti pagal šio Įstatymo 18, 19, 20, 21, 22, 23 ir 231
-straipsnius, taip pat pagal šio Įstatymo 33 straipsnį, nepakanka, ūkio subjektui,
-turinčiam didelę įtaką atitinkamoje rinkoje, nustato tinkamus, atsižvelgiant į
-nustatytą problemą pagrįstus, proporcingus ir siekiamais tikslais pateisinamus
-įpareigojimus, įskaitant reikalavimus nenustatyti pernelyg didelių kainų,
-nekliudyti patekti į rinką ar neriboti konkurencijos, nustatant grobuoniškas
-kainas, nesuteikti geresnių sąlygų atskiriems galutiniams paslaugų gavėjams ar
-nepagrįstai nesieti paslaugų, taip pat įpareigojimus užtikrinti Ryšių
-reguliavimo tarnybos nustatytą paslaugų kokybę. Ryšių reguliavimo tarnyba,
-apsaugodama galutinių paslaugų gavėjų interesus ir skatindama veiksmingą
-konkurenciją, turi teisę nustatyti aukščiausias kainų ribas, taikyti
-individualių tarifų kontrolės priemones ir įpareigojimus tarifus grįsti
-sąnaudomis ar tarifais, nustatomais palyginamose rinkose. Jeigu ūkio subjektas
-įpareigojamas tarifus grįsti sąnaudomis, tarifams pagrįsti sąnaudomis mutatis
-mutandis taikomos šio Įstatymo 23 straipsnio 3 dalies nuostatos.
+straipsnius, taip pat pagal šio Įstatymo 33 straipsnį, nepakanka, ūkio
+subjektui, turinčiam didelę įtaką atitinkamoje rinkoje, nustato tinkamus,
+atsižvelgiant į nustatytą problemą pagrįstus, proporcingus ir siekiamais
+tikslais pateisinamus įpareigojimus, įskaitant reikalavimus nenustatyti
+pernelyg didelių kainų, nekliudyti patekti į rinką ar neriboti konkurencijos,
+nustatant grobuoniškas kainas, nesuteikti geresnių sąlygų atskiriems
+galutiniams paslaugų gavėjams ar nepagrįstai nesieti paslaugų, taip pat
+įpareigojimus užtikrinti Ryšių reguliavimo tarnybos nustatytą paslaugų kokybę.
+Ryšių reguliavimo tarnyba, apsaugodama galutinių paslaugų gavėjų interesus ir
+skatindama veiksmingą konkurenciją, turi teisę nustatyti aukščiausias kainų
+ribas, taikyti individualių tarifų kontrolės priemones ir įpareigojimus tarifus
+grįsti sąnaudomis ar tarifais, nustatomais palyginamose rinkose. Jeigu ūkio
+subjektas įpareigojamas tarifus grįsti sąnaudomis, tarifams pagrįsti sąnaudomis
+mutatis mutandis taikomos šio Įstatymo 23 straipsnio 3 dalies nuostatos.
 2. Ūkio subjektą, kuriam nustatyti su paslaugų tarifų reguliavimu susiję
 įpareigojimai ar kiti atitinkami įpareigojimai, Ryšių reguliavimo tarnyba
 įpareigoja tvarkyti sąnaudų apskaitą pagal Ryšių reguliavimo tarnybos
@@ -2400,16 +2407,16 @@ nustatytas taisykles. Įpareigotas
 ūkio subjektas privalo per Ryšių reguliavimo tarnybos nustatytus terminus
 parengti sąnaudų apskaitos sistemą, paskelbti jos aprašą, pateikti šį aprašą
 Ryšių reguliavimo tarnybai ir laikytis sąnaudų apskaitos sistemos. Ši sąnaudų
-apskaitos sistema turi atitikti Ryšių reguliavimo tarnybos nustatytas sąnaudų apskaitos
-taisykles. Ryšių reguliavimo tarnyba turi teisę nustatyti sąnaudų apskaitos
-sistemą, metodą ir (arba) modelį, privalomą didelę įtaką atitinkamoje rinkoje
-turintiems ūkio subjektams ar konkrečiam ūkio subjektui. Tokią apskaitos
-sistemą Ryšių reguliavimo tarnyba privalo paskelbti savo interneto svetainėje.
-Ar ūkio subjekto sąnaudų apskaita atitinka sąnaudų apskaitos taisykles bei
-kitus teisės aktus, jo parengtą ir (ar) Ryšių reguliavimo tarnybos nustatytą
-sąnaudų apskaitos sistemą ir (arba) metodą ir (ar) modelį, turi būti patikrinta
-audito. Audito išvada turi būti skelbiama kartą per metus pagal Ryšių
-reguliavimo tarnybos nustatytas taisykles.
+apskaitos sistema turi atitikti Ryšių reguliavimo tarnybos nustatytas sąnaudų
+apskaitos taisykles. Ryšių reguliavimo tarnyba turi teisę nustatyti sąnaudų
+apskaitos sistemą, metodą ir (arba) modelį, privalomą didelę įtaką atitinkamoje
+rinkoje turintiems ūkio subjektams ar konkrečiam ūkio subjektui. Tokią
+apskaitos sistemą Ryšių reguliavimo tarnyba privalo paskelbti savo interneto
+svetainėje. Ar ūkio subjekto sąnaudų apskaita atitinka sąnaudų apskaitos
+taisykles bei kitus teisės aktus, jo parengtą ir (ar) Ryšių reguliavimo
+tarnybos nustatytą sąnaudų apskaitos sistemą ir (arba) metodą ir (ar) modelį,
+turi būti patikrinta audito. Audito išvada turi būti skelbiama kartą per metus
+pagal Ryšių reguliavimo tarnybos nustatytas taisykles.
 Straipsnio pakeitimai:
 Nr. XI-1552,
 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
@@ -2436,8 +2443,8 @@ Straipsnio pakeitimai:
 Nr. XI-1552,
 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
  
-34 straipsnis. Viešųjų elektroninių ryšių paslaugų teikėjų ir galutinių paslaugų
-gavėjų pareigos ir teisės 
+34 straipsnis. Viešųjų elektroninių ryšių paslaugų teikėjų ir galutinių
+paslaugų gavėjų pareigos ir teisės 
 1.
 Elektroninių ryšių paslaugų teikimo sutartis yra viešoji sutartis. Paslaugos
 turi būti teikiamos ir elektroninių ryšių paslaugų teikimo sutartis sudaroma
@@ -2459,11 +2466,11 @@ formą ir būdą, kokybės vertinimo taisykles.
 užtikrinti viešųjų elektroninių ryšių paslaugų kokybę, Ryšių reguliavimo
 tarnyba gali nustatyti viešųjų ryšių tinklų teikėjams minimalius kokybės
 reikalavimus. Prieš nustatydama tokius reikalavimus Ryšių reguliavimo tarnyba
-pateikia Europos Komisijai ir Europos elektroninių ryšių reguliuotojų
-institucijai tokio sprendimo projektą, kuriame nurodo motyvus, reikalavimus,
-kuriuos ketinama nustatyti, taip pat kitą būtiną informaciją. Priimdama
-galutinį sprendimą dėl šioje dalyje nurodytų reikalavimų, Ryšių reguliavimo
-tarnyba atsižvelgia į Europos Komisijos pastabas ar rekomendacijas.
+pateikia Europos Komisijai ir Europos elektroninių ryšių reguliuotojų institucijai
+tokio sprendimo projektą, kuriame nurodo motyvus, reikalavimus, kuriuos
+ketinama nustatyti, taip pat kitą būtiną informaciją. Priimdama galutinį
+sprendimą dėl šioje dalyje nurodytų reikalavimų, Ryšių reguliavimo tarnyba
+atsižvelgia į Europos Komisijos pastabas ar rekomendacijas.
 4. Viešųjų elektroninių ryšių paslaugų teikėjas,
 suteikdamas paslaugų gavėjui galinį įrenginį nemokamai ar siūlydamas jį įsigyti
 mažesne kaina negu galinio įrenginio savikaina, privalo elektroninių ryšių
@@ -2512,22 +2519,22 @@ vykdyti ir kitais įstatymų nustatytais atvejais.
 10.
 Visi viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų
 teikėjai Ryšių reguliavimo tarnybos nustatyta tvarka ir sąlygomis privalo
-nemokamai užtikrinti savo abonentams ir (arba) viešųjų elektroninių ryšių
-paslaugų naudotojams, įskaitant taksofonų naudotojus bei neįgaliuosius
-abonentus ir (arba) naudotojus, galimybę naudotis skubios pagalbos iškvietimo
-paslaugas teikiančių institucijų paslaugomis. 
+nemokamai užtikrinti savo abonentams ir (arba) viešųjų elektroninių ryšių paslaugų
+naudotojams, įskaitant taksofonų naudotojus bei neįgaliuosius abonentus ir
+(arba) naudotojus, galimybę naudotis skubios pagalbos iškvietimo paslaugas
+teikiančių institucijų paslaugomis. 
 11. Viešųjų
 ryšių tinklų ir viešųjų telefono ryšio paslaugų teikėjai Ryšių reguliavimo
 tarnybos nustatytomis sąlygomis ir terminais savo lėšomis užtikrina abonento
 teisę išlaikyti abonentinį numerį, kai yra keičiamas telefono ryšio paslaugų
-teikėjas ar paslaugų teikimo vieta arba būdas. Su šių abonentų teisių
-įgyvendinimu susijusios prieigos kainos turi būti pagrįstos sąnaudomis. Šiam
-tikslui Ryšių reguliavimo tarnyba turi teisę taikyti šio Įstatymo 23
-straipsnyje nustatytas taisykles visiems pagal šią dalį įpareigotiems ūkio
-subjektams. Už naudojimąsi tokia teise Ryšių reguliavimo tarnybos nustatytais leistinais
-atvejais ir sąlygomis abonentams taikomi tarifai negali stabdyti naudojimosi
-tokiomis galimybėmis. Šiam tikslui Ryšių reguliavimo tarnyba turi teisę
-nustatyti aukščiausią kainų ribą.
+teikėjas ar paslaugų teikimo vieta arba būdas. Su šių abonentų teisių įgyvendinimu
+susijusios prieigos kainos turi būti pagrįstos sąnaudomis. Šiam tikslui Ryšių
+reguliavimo tarnyba turi teisę taikyti šio Įstatymo 23 straipsnyje nustatytas
+taisykles visiems pagal šią dalį įpareigotiems ūkio subjektams. Už naudojimąsi
+tokia teise Ryšių reguliavimo tarnybos nustatytais leistinais atvejais ir
+sąlygomis abonentams taikomi tarifai negali stabdyti naudojimosi tokiomis
+galimybėmis. Šiam tikslui Ryšių reguliavimo tarnyba turi teisę nustatyti
+aukščiausią kainų ribą.
 12. Abonento
 prašymu viešųjų telefono ryšio paslaugų teikėjai turi sudaryti galimybę
 abonentui pasirinkti mokėjimo planą, kuriame viešųjų telefono ryšio paslaugų
@@ -2541,17 +2548,6 @@ pateikti Ryšių reguliavimo tarnybai informaciją apie tai, kokius techninių
 saugojimo terminą.
 14. Ūkio
 subjektai, teikiantys elektroninių ryšių tinklus ir (arba) paslaugas, privalo
-paskirti fizinius asmenis, kurie dirbtų su
-operatyvinės veiklos subjektų pranešimais apie jų tinkluose vykdomą techninių
-priemonių naudojimą specialia tvarka ar būtų atsakingi už operatyvinės veiklos
-subjektų, ikiteisminio tyrimo įstaigų, prokurorų, teismų ar teisėjų paklausimų
-reikalavimų vykdymą. Šie fiziniai asmenys turi
-būti įstatymų nustatyta tvarka patikrinti ir gavę leidimus dirbti ar susipažinti
-su įslaptinta informacija.
-14
-dalies redakcija nuo 2013-01-01:
-14. Ūkio
-subjektai, teikiantys elektroninių ryšių tinklus ir (arba) paslaugas, privalo
 paskirti fizinius asmenis, kurie dirbtų su kriminalinės žvalgybos subjektų,
 žvalgybos institucijų pranešimais apie jų tinkluose vykdomą techninių
 priemonių naudojimą specialia tvarka ar būtų atsakingi už kriminalinės
@@ -2559,7 +2555,6 @@ priemonių naudojimą specialia tvarka ar būtų atsakingi už kriminalinės
 paklausimų reikalavimų vykdymą. Šie fiziniai asmenys turi būti įstatymų
 nustatyta tvarka patikrinti ir gavę leidimus dirbti ar susipažinti su
 įslaptinta informacija.
- 
 15. Viešųjų
 elektroninių ryšių paslaugų teikėjai privalo užtikrinti neįgaliųjų galutinių
 paslaugų gavėjų galimybę naudotis elektroninių ryšių paslaugomis, kuriomis
@@ -2588,23 +2583,23 @@ XI-2244,
  
 35 straipsnis. Neteko galios nuo 2011 m. rugpjūčio 1 d.
 Straipsnio pakeitimai:
-Nr. XI-1552, 2011-06-28,
-Žin., 2011, Nr. 91-4327 (2011-07-19)
+Nr. XI-1552,
+2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
  
 36 straipsnis. Ginčų pagal galutinių paslaugų gavėjų
 skundus sprendimas
 1. Iškilus ginčui tarp elektroninių ryšių paslaugų teikėjo ir galutinio
-paslaugų gavėjo, galutinis paslaugų gavėjas turi teisę kreiptis į Ryšių
-reguliavimo tarnybą, kad ši išankstine ne teismo tvarka išspręstų jo ginčą su
-elektroninių ryšių paslaugų teikėju. Galutinis paslaugų gavėjas taip pat turi
-teisę kreiptis tiesiogiai į teismą.
+paslaugų gavėjo, galutinis paslaugų gavėjas turi teisę kreiptis į Ryšių reguliavimo
+tarnybą, kad ši išankstine ne teismo tvarka išspręstų jo ginčą su elektroninių
+ryšių paslaugų teikėju. Galutinis paslaugų gavėjas taip pat turi teisę kreiptis
+tiesiogiai į teismą.
 2. Ginčams pagal galutinių paslaugų gavėjų skundus nagrinėti mutatis
 mutandis taikomos šio Įstatymo 28 straipsnio 6, 7, 8, 9, 11, 12, 13, 15,
 16, 17, 19 ir 20 dalių nuostatos.
 3. Jei galutinis paslaugų gavėjas, dėl prašymo dalyko prieš tai
-nesikreipęs į elektroninių ryšių paslaugų teikėją, kreipiasi į Ryšių reguliavimo
-tarnybą, ši imasi priemonių šalis sutaikyti. Ryšių reguliavimo tarnyba
-nenagrinėja ginčo, jei elektroninių ryšių paslaugų teikėjas per Ryšių
+nesikreipęs į elektroninių ryšių paslaugų teikėją, kreipiasi į Ryšių
+reguliavimo tarnybą, ši imasi priemonių šalis sutaikyti. Ryšių reguliavimo
+tarnyba nenagrinėja ginčo, jei elektroninių ryšių paslaugų teikėjas per Ryšių
 reguliavimo tarnybos nustatytą terminą pasiūlo taikų ginčo sprendimo būdą ir
 galutinis paslaugų gavėjas sutinka su tokiu ginčo sprendimo būdu arba per Ryšių
 reguliavimo tarnybos nustatytą terminą nenurodo, kad nesutinka su tokiu ginčo
@@ -2619,10 +2614,10 @@ gavėjų skundus sprendimo Ryšių reguliavimo tarnyboje taisykles. Jose nustato
 prašymų išspręsti ginčą formos, turinio ir pateikimo, taip pat įrodymų
 pateikimo ir rinkimo reikalavimai ir detali šalių taikinimo procedūra bei ginčų
 nagrinėjimo procedūra.
-6. Ginčų pagal galutinių paslaugų gavėjų prašymus sprendimo Ryšių
-reguliavimo tarnyboje taisyklės gali numatyti, kad ginčą nagrinėja ir sprendimą
-priima Ryšių reguliavimo tarnybos direktoriaus paskirtas Ryšių reguliavimo
-tarnybos pareigūnas ar sudaryta komisija. Tokiu atveju ginčų tarp ūkio subjektų
+6. Ginčų pagal galutinių paslaugų gavėjų prašymus sprendimo Ryšių reguliavimo
+tarnyboje taisyklės gali numatyti, kad ginčą nagrinėja ir sprendimą priima
+Ryšių reguliavimo tarnybos direktoriaus paskirtas Ryšių reguliavimo tarnybos
+pareigūnas ar sudaryta komisija. Tokiu atveju ginčų tarp ūkio subjektų
 sprendimo Ryšių reguliavimo tarnyboje taisyklės gali numatyti, kad valstybės
 tarnautojo ar komisijos sprendimas įsigalioja tik jį patvirtinus Ryšių
 reguliavimo tarnybos direktoriui.
@@ -2654,12 +2649,12 @@ su suinteresuotais asmenimis šio Įstatymo 11 straipsnio 4 dalyje nurodytų
 taisyklių nustatyta tvarka, terminais ir sąlygomis, gali įpareigoti asmenį,
 tiesiantį elektroninių ryšių tinklus, sudaryti tinkamas galimybes kitiems
 asmenims bendrai statyti elektroninių ryšių tinklus.
-4. Elektroninių ryšių infrastruktūros įrengimą, apsaugą, bendrą
-naudojimą ir priežiūrą reglamentuoja Teritorijų planavimo įstatymas, Statybos
-įstatymas, Saugomų teritorijų įstatymas, Planuojamos ūkinės veiklos poveikio
-aplinkai vertinimo įstatymas, Kelių įstatymas, Ryšių reguliavimo tarnybos
-tvirtinamos elektroninių ryšių infrastruktūros įrengimo ir naudojimo taisyklės
-ir kiti teisės aktai.
+4. Elektroninių ryšių infrastruktūros įrengimą, apsaugą, bendrą naudojimą
+ir priežiūrą reglamentuoja Teritorijų planavimo įstatymas, Statybos įstatymas,
+Saugomų teritorijų įstatymas, Planuojamos ūkinės veiklos poveikio aplinkai
+vertinimo įstatymas, Kelių įstatymas, Ryšių reguliavimo tarnybos tvirtinamos
+elektroninių ryšių infrastruktūros įrengimo ir naudojimo taisyklės ir kiti
+teisės aktai.
 5. Ryšių linijos, kabeliai, ryšių
 kabelių kanalų sistemos yra laikomi kilnojamaisiais daiktais.
 6. Valstybė plėtoja plačiajuosčio ryšio infrastruktūrą vietovėse,
@@ -2685,8 +2680,8 @@ darbai ir jų užbaigimas;
 Straipsnio pakeitimai:
 Nr. X-1711,
 2008-07-15, Žin., 2008, Nr. 87-3468 (2008-07-31)
-Nr. XI-1552, 2011-06-28,
-Žin., 2011, Nr. 91-4327 (2011-07-19)
+Nr. XI-1552,
+2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
  
 38 straipsnis. Elektroninių ryšių infrastruktūros
 įrengimas, apsauga, bendras naudojimas ir priežiūra kelio komplekse
@@ -2722,8 +2717,8 @@ elektroninių ryšių infrastruktūros statybos tvarka ir sąlygos nustatomos
 sutartimi. Asmuo, valdantis tinkamą infrastruktūrą, šio Įstatymo nustatytais
 atvejais negali atsisakyti sudaryti su viešųjų ryšių tinklų teikėju tokią
 sutartį, reikalauti ją pakeisti, nutraukti, jeigu yra vykdomi sutartyje
-nustatyti įpareigojimai, taip pat ir motyvuodamas tuo, kad nėra elektroninių ryšių
-infrastruktūros valdymo teisėtumą patvirtinančių dokumentų.
+nustatyti įpareigojimai, taip pat ir motyvuodamas tuo, kad nėra elektroninių
+ryšių infrastruktūros valdymo teisėtumą patvirtinančių dokumentų.
 3. Infrastruktūros naudotojas šalių susitarimu moka tinkamą užmokestį
 asmeniui, kurio infrastruktūra naudojasi.
 4. Ryšių reguliavimo tarnyba bendro elektroninių ryšių infrastruktūros
@@ -2744,19 +2739,19 @@ konkrečią elektroninių ryšių infrastruktūrą, esančią viešojo ryšių t
 dalimi, savininkais dėl tokios nuosavybės panaudojimo, tas viešųjų ryšių tinklų
 teikėjas turi teisę kreiptis į teismą, kad šis, jeigu yra galimybė ir tai
 nesudaro nepagrįstų sunkumų tos nuosavybės savininkui, suteiktų teisę naudoti
-valstybės, savivaldybės ar privačią nuosavybę elektroninių ryšių infrastruktūrai
-įrengti, nustatydamas servitutą atitinkamai nuosavybei. Teismo sprendimas dėl
-servituto nustatymo turi būti priimtas ne vėliau kaip per 6 mėnesius nuo
-ieškinio priėmimo dienos. Su servitutu susijusios teisės, sąlygos ir procedūros
-gali būti keičiamos objektyviai pagrįstais atvejais ir proporcingu būdu. Apie
-numatomą pakeitimą turi būti tinkamu būdu pranešta suinteresuotoms šalims ir
-suteikta galimybė per pakankamą terminą, kuris, išskyrus išimtines aplinkybes,
-turi būti ne trumpesnis kaip 28 dienos, pateikti savo pastabas dėl siūlomų
-pakeitimų, išskyrus atvejus, kai numatomi pakeitimai yra nežymūs ir nekeičia
-nustatyto teisinio reglamentavimo esmės ir dėl jų buvo susitarta su
-suinteresuotomis šalimis. Draudžiama apriboti ar panaikinti servitutą, kol
-nesibaigė jo terminas, išskyrus pateisinamus atvejus ir kai servituto turėtojui
-tinkamai kompensuojama už tokį apribojimą ar panaikinimą.
+valstybės, savivaldybės ar privačią nuosavybę elektroninių ryšių
+infrastruktūrai įrengti, nustatydamas servitutą atitinkamai nuosavybei. Teismo
+sprendimas dėl servituto nustatymo turi būti priimtas ne vėliau kaip per 6
+mėnesius nuo ieškinio priėmimo dienos. Su servitutu susijusios teisės, sąlygos
+ir procedūros gali būti keičiamos objektyviai pagrįstais atvejais ir
+proporcingu būdu. Apie numatomą pakeitimą turi būti tinkamu būdu pranešta
+suinteresuotoms šalims ir suteikta galimybė per pakankamą terminą, kuris,
+išskyrus išimtines aplinkybes, turi būti ne trumpesnis kaip 28 dienos, pateikti
+savo pastabas dėl siūlomų pakeitimų, išskyrus atvejus, kai numatomi pakeitimai
+yra nežymūs ir nekeičia nustatyto teisinio reglamentavimo esmės ir dėl jų buvo
+susitarta su suinteresuotomis šalimis. Draudžiama apriboti ar panaikinti
+servitutą, kol nesibaigė jo terminas, išskyrus pateisinamus atvejus ir kai
+servituto turėtojui tinkamai kompensuojama už tokį apribojimą ar panaikinimą.
 2. Valstybės,
 savivaldybės ar privati nuosavybė naudojama už teismo nustatytą pagrįstą kainą.
 Jei nuosavybė priklauso valstybei ar savivaldybei, atitinkamos įmokos už
@@ -2780,8 +2775,7 @@ linijų ir aplink elektroninių ryšių infrastruktūros objektus, su jame esan�
 augmenija ir statiniais. Šioje zonoje draudžiama statyti statinius, sandėliuoti
 įrenginius ir medžiagas, kasinėti, gręžti gręžinius, sprogdinti ir atlikti
 kitus darbus, kurių metu ar dėl jų gali būti pažeista elektroninių ryšių
-infrastruktūra, be išankstinio elektroninių ryšių infrastruktūros savininkų
-sutikimo.
+infrastruktūra, be išankstinio elektroninių ryšių infrastruktūros savininkų sutikimo.
 2.
 Viešųjų ryšių tinklų elektroninių ryšių infrastruktūros apsaugos zonų matmenis
 nustato Vyriausybė. Viešųjų ryšių tinklų elektroninių ryšių infrastruktūros
@@ -2868,9 +2862,9 @@ Elektromagnetinio
 suderinamumo reikalavimų taikymo sąlygas, aparatūros ir įrenginių teikimo į
 rinką ir naudojimo tvarką bei sąlygas, reikalavimus, taikomus aparatūrai ir
 įrenginiams, jos įrengimui, naudojimui ir susijusius reikalavimus,
-elektromagnetinio suderinamumo atitikties patvirtinimo, vertinimo bei priežiūros
-tvarką ir sąlygas nustato elektromagnetinio suderinamumo techninis reglamentas,
-tvirtinamas Ryšių reguliavimo tarnybos direktoriaus įsakymu.
+elektromagnetinio suderinamumo atitikties patvirtinimo, vertinimo bei
+priežiūros tvarką ir sąlygas nustato elektromagnetinio suderinamumo techninis
+reglamentas, tvirtinamas Ryšių reguliavimo tarnybos direktoriaus įsakymu.
  
 45
 straipsnis. Aparatūros ir įrenginių naudojimas
@@ -2907,18 +2901,17 @@ veikloje, kurią reglamentuoja šis Įstatymas.
 47
 straipsnis. Radijo trukdžių pašalinimas
 1. Radijo
-trukdžius pašalinti privalo juos sukėlusios aparatūros ir (ar) įrenginio
-savininkas arba naudotojas. Jeigu trukdžiai radijo imtuve ar priėmimo
-įrenginyje atsiranda dėl jo techninių parametrų pakitimo (pablogėjimo) ar dėl
-netinkamo naudojimo, šių radijo trukdžių šaltinį (radijo trikdžius) pašalinti
-privalo pats šio imtuvo ar priėmimo įrenginio savininkas arba naudotojas. Jeigu
-radijo trukdžiai sudaromi kitai teisėtai veikiančiai aparatūrai ir (ar)
-įrenginiams, tai juos sukėlusios aparatūros ir (ar) įrenginių savininkas ar
-naudotojas Ryšių reguliavimo tarnybos nurodymu privalo pašalinti jų šaltinį
-(radijo trikdžius) arba sumažinti jų lygį. Radijo trukdžių pašalinimo arba jų
-lygio sumažinimo tvarką, kai juos sukeliančių ir priimančių įrenginių
-spinduliuotės parametrai atitinka teisės aktų reikalavimus, nustato Ryšių
-reguliavimo tarnyba.
+trukdžius pašalinti privalo juos sukėlusios aparatūros ir (ar) įrenginio savininkas
+arba naudotojas. Jeigu trukdžiai radijo imtuve ar priėmimo įrenginyje atsiranda
+dėl jo techninių parametrų pakitimo (pablogėjimo) ar dėl netinkamo naudojimo,
+šių radijo trukdžių šaltinį (radijo trikdžius) pašalinti privalo pats šio
+imtuvo ar priėmimo įrenginio savininkas arba naudotojas. Jeigu radijo trukdžiai
+sudaromi kitai teisėtai veikiančiai aparatūrai ir (ar) įrenginiams, tai juos
+sukėlusios aparatūros ir (ar) įrenginių savininkas ar naudotojas Ryšių
+reguliavimo tarnybos nurodymu privalo pašalinti jų šaltinį (radijo trikdžius)
+arba sumažinti jų lygį. Radijo trukdžių pašalinimo arba jų lygio sumažinimo
+tvarką, kai juos sukeliančių ir priimančių įrenginių spinduliuotės parametrai
+atitinka teisės aktų reikalavimus, nustato Ryšių reguliavimo tarnyba.
 2. Vykdant
 radijo stebėsenos ir radijo trukdžių tyrimo (paieškos) darbus, elektroninių
 ryšių tinklų ir (ar) paslaugų teikėjai bei kiti asmenys privalo teikti Ryšių
@@ -2937,11 +2930,11 @@ straipsnis. Elektroninių ryšių išteklių valdymo pagrindai
 Pagal šio Įstatymo nuostatas valdomi radijo dažniai (kanalai), telefono ryšio
 numeriai ir kiti elektroninių ryšių ištekliai.
 2. Radijo dažniai (kanalai) valdomi
-pagal Nacionalinę radijo dažnių paskirstymo lentelę, Ryšių reguliavimo tarnybos,
-vadovaujantis Nacionaline radijo dažnių paskirstymo lentele, tvirtinamą radijo
-dažnių (kanalų) naudojimo planą ir radijo ryšio plėtros planus bei
-atsižvelgiant į atitinkamas tarptautines sutartis ir (arba) susitarimus,
-įskaitant Radijo ryšio reglamentą.
+pagal Nacionalinę radijo dažnių paskirstymo lentelę, Ryšių reguliavimo
+tarnybos, vadovaujantis Nacionaline radijo dažnių paskirstymo lentele,
+tvirtinamą radijo dažnių (kanalų) naudojimo planą ir radijo ryšio plėtros
+planus bei atsižvelgiant į atitinkamas tarptautines sutartis ir (arba)
+susitarimus, įskaitant Radijo ryšio reglamentą.
 3. Telefono ryšio numeriai, naudojami
 viešuosiuose ryšių tinkluose, valdomi pagal Ryšių reguliavimo tarnybos
 tvirtinamą Nacionalinį telefono ryšio numeracijos planą. Ryšių reguliavimo
@@ -2965,15 +2958,15 @@ reguliavimo tarnybos ir Lietuvos radijo ir televizijos komisijos patvirtintą
 radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti
 planą. Radijo dažniai (kanalai), radijo dažnių skyrimo radijo ir televizijos
 programoms transliuoti ir siųsti plane numatyti antžeminiam analoginiam radijui
-ir (arba) televizijai, skiriami transliuotojams ir (arba) retransliuotojams, turintiems
-Lietuvos radijo ir televizijos komisijos išduotas licencijas, suteikiančias
-teisę steigti ir eksploatuoti savo elektroninių ryšių tinklus, ir siuntėjams.
-Kiti radijo dažniai (kanalai), atitinkamame radijo ryšio plėtros plane numatyti
-radijui ir (arba) televizijai, skiriami siuntėjams. Šiame Įstatyme nustatytos
-bendrosios radijo dažnių (kanalų) naudojimo ir skyrimo sąlygos ir tvarka
-taikomos radijo dažnių (kanalų), skyrimui ir
-naudojimui radijo ir televizijos programoms transliuoti (retransliuoti) tiek,
-kiek šiame straipsnyje nenustatyta kitaip.
+ir (arba) televizijai, skiriami transliuotojams ir (arba) retransliuotojams,
+turintiems Lietuvos radijo ir televizijos komisijos išduotas licencijas,
+suteikiančias teisę steigti ir eksploatuoti savo elektroninių ryšių tinklus, ir
+siuntėjams. Kiti radijo dažniai (kanalai), atitinkamame radijo ryšio plėtros
+plane numatyti radijui ir (arba) televizijai, skiriami siuntėjams. Šiame
+Įstatyme nustatytos bendrosios radijo dažnių (kanalų) naudojimo ir skyrimo
+sąlygos ir tvarka taikomos radijo dažnių (kanalų), skyrimui
+ir naudojimui radijo ir televizijos programoms transliuoti (retransliuoti)
+tiek, kiek šiame straipsnyje nenustatyta kitaip.
 2. Informaciją
 apie sukoordinuotus radijo dažnius (kanalus), pagal radijo dažnių skyrimo
 radijo ir televizijos programoms transliuoti ir siųsti planą numatytus
@@ -2998,12 +2991,11 @@ pateiktas radijo dažnių (kanalų) bei elektroninių ryšių tinklų, skirtų r
 ir televizijos programoms transliuoti ir (arba) retransliuoti, pagrindines
 veiklos sąlygas. Į Lietuvos radijo ir televizijos komisijos išduodamą
 transliavimo ir (arba) retransliavimo licenciją, suteikiančią teisę naudotis
-siuntėjo paslaugomis, papildomai įrašomas konkretus siuntėjas. Jeigu radijo
-dažnis (kanalas) pakeičiamas kitu radijo dažniu (kanalu) ar pakeičiamos
-elektroninių ryšių tinklų pagrindinės veiklos sąlygos (tai yra pakeičiamos
-radijo dažnių (kanalų) naudojimo sąlygos), Lietuvos radijo ir televizijos
-komisija atitinkamai pakeičia transliavimo ir (arba) retransliavimo licencijos
-sąlygas.
+siuntėjo paslaugomis, papildomai įrašomas konkretus siuntėjas. Jeigu radijo dažnis
+(kanalas) pakeičiamas kitu radijo dažniu (kanalu) ar pakeičiamos elektroninių
+ryšių tinklų pagrindinės veiklos sąlygos (tai yra pakeičiamos radijo dažnių
+(kanalų) naudojimo sąlygos), Lietuvos radijo ir televizijos komisija
+atitinkamai pakeičia transliavimo ir (arba) retransliavimo licencijos sąlygas.
 4. Radijo
 dažnius (kanalus), pagal radijo dažnių skyrimo radijo ir televizijos programoms
 transliuoti ir siųsti planą numatytus transliuotojams ir (arba)
@@ -3019,11 +3011,11 @@ retransliuotojas netenka teisės naudoti šio straipsnio
 išduota licencija. Lietuvos radijo ir televizijos komisija apie licencijos
 panaikinimą praneša Ryšių reguliavimo tarnybai.
 6. Ryšių reguliavimo tarnyba,
-suderinusi su Lietuvos radijo ir televizijos komisija, turi teisę pakeisti skirtą
-radijo dažnį (kanalą), jeigu to pageidauja radijo dažnio (kanalo) naudotojas.
-Ryšių reguliavimo tarnyba, suderinusi su Lietuvos radijo ir televizijos
-komisija, turi teisę panaikinti leidimą naudoti radijo dažnį (kanalą), jeigu to
-pageidauja radijo dažnio (kanalo) naudotojas.
+suderinusi su Lietuvos radijo ir televizijos komisija, turi teisę pakeisti
+skirtą radijo dažnį (kanalą), jeigu to pageidauja radijo dažnio (kanalo)
+naudotojas. Ryšių reguliavimo tarnyba, suderinusi su Lietuvos radijo ir
+televizijos komisija, turi teisę panaikinti leidimą naudoti radijo dažnį
+(kanalą), jeigu to pageidauja radijo dažnio (kanalo) naudotojas.
 7. Ryšių reguliavimo tarnyba radijo
 dažniams (kanalams), skirtiems radijo ir (arba) televizijos programoms
 transliuoti (retransliuoti), netaiko šio Įstatymo 58 straipsnio 7 dalies
@@ -3080,26 +3072,26 @@ informavimo įstatymo nustatyta tvarka gavę atitinkamas transliavimo ir (arba)
 retransliavimo licencijas. Siuntėjai, nepažeisdami radijo dažnių (kanalų)
 skyrimo ir naudojimo taisyklių, taip pat atitinkamo leidimo naudoti radijo
 dažnius (kanalus) sąlygų, gali panaudoti radijo dažnius (kanalus) papildomoms
-elektroninių ryšių paslaugoms (įskaitant ir didesniam radijo ir (arba) televizijos
-programų skaičiui pagal atitinkamas Lietuvos radijo ir televizijos komisijos
-išduotas transliavimo ir (arba) retransliavimo licencijas teikti, bet tik tiek
-ir tokia apimtimi, kiek tai nekliudo perduoti Ryšių reguliavimo tarnybos
-nustatytą minimalų skaičių radijo ir (arba) televizijos programų ir minimalią
-skaitmeniniu radijo ryšio kanalu perduodamo srauto dalį, kurią sudaro radijo ir
-(arba) televizijos programos.
+elektroninių ryšių paslaugoms (įskaitant ir didesniam radijo ir (arba)
+televizijos programų skaičiui pagal atitinkamas Lietuvos radijo ir televizijos
+komisijos išduotas transliavimo ir (arba) retransliavimo licencijas teikti, bet
+tik tiek ir tokia apimtimi, kiek tai nekliudo perduoti Ryšių reguliavimo
+tarnybos nustatytą minimalų skaičių radijo ir (arba) televizijos programų ir
+minimalią skaitmeniniu radijo ryšio kanalu perduodamo srauto dalį, kurią sudaro
+radijo ir (arba) televizijos programos.
 11. Lietuvos
-radijo ir televizijos komisija, išduodama šio straipsnio 4 ir 10 dalyse nurodytas
-licencijas, užtikrina Lietuvos nacionalinio radijo ir televizijos teisę
-transliuoti Lietuvos nacionalinio radijo ir televizijos įstatyme nustatytą
-radijo ir televizijos programų skaičių. Lietuvos nacionaliniam radijui ir
-televizijai vietoj licencijos išduodamas leidimas, suteikiantis atitinkamai šio
-straipsnio 4 ir 10 dalyse nurodytas teises.
+radijo ir televizijos komisija, išduodama šio straipsnio 4 ir 10 dalyse
+nurodytas licencijas, užtikrina Lietuvos nacionalinio radijo ir televizijos
+teisę transliuoti Lietuvos nacionalinio radijo ir televizijos įstatyme
+nustatytą radijo ir televizijos programų skaičių. Lietuvos nacionaliniam
+radijui ir televizijai vietoj licencijos išduodamas leidimas, suteikiantis
+atitinkamai šio straipsnio 4 ir 10 dalyse nurodytas teises.
 Straipsnio pakeitimai:
 Nr. XI-1552,
 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
  
-50 straipsnis. Elektroninių
-ryšių išteklių naudojimo ir skyrimo pagrindai
+50 straipsnis.
+Elektroninių ryšių išteklių naudojimo ir skyrimo pagrindai
 1. Elektroninių ryšių ištekliai skiriami
 ir naudojami šio Įstatymo ir Ryšių reguliavimo tarnybos nustatytų elektroninių
 ryšių išteklių skyrimo ir naudojimo taisyklių nustatyta tvarka ir sąlygomis.
@@ -3113,8 +3105,8 @@ elektroninių ryšių išteklių naudojimą, elektroninių ryšių paslaugų kok
 išvengti žalingųjų trukdžių, gavus Ryšių reguliavimo tarnybos leidimą naudoti
 elektroninių ryšių išteklius.
 3. Ryšių reguliavimo tarnyba,
-vadovaudamasi Lietuvos Respublikos tarptautiniais įsipareigojimais, Radijo
-ryšio reglamentu, Nacionaline radijo dažnių paskirstymo lentele, radijo dažnių
+vadovaudamasi Lietuvos Respublikos tarptautiniais įsipareigojimais, Radijo ryšio
+reglamentu, Nacionaline radijo dažnių paskirstymo lentele, radijo dažnių
 (kanalų) naudojimo planu ir radijo ryšio plėtros planais, skiria radijo dažnius
 (kanalus) ir kitus elektroninių ryšių išteklius, reikalingus veiklai,
 susijusiai su valstybės gynyba, saugumu, viešosios tvarkos palaikymu, valstybės
@@ -3141,16 +3133,17 @@ pagal atitinkamas taisykles. Jeigu visos Lietuvos Respublikoje nustatytos
 radijo dažnių (kanalų) naudojimo sąlygos yra įvykdomos bendro parinkimo
 procedūros metu, radijo dažnių (kanalų) naudojimui nenustatomos jokios
 papildomos sąlygos, kriterijai ar procedūros, kurios ribotų, pakeistų ar
-uždelstų teisingą bendro radijo dažnių (kanalų) skyrimo procedūros įgyvendinimą.
+uždelstų teisingą bendro radijo dažnių (kanalų) skyrimo procedūros
+įgyvendinimą.
 7. Asmenys, kurie prašo skirti
 elektroninių ryšių išteklius, ir (arba) asmenys, kuriems jie yra skiriami, tai
 pat asmenys, kurie turi teisę naudoti elektroninių ryšių išteklius, moka Ryšių
-reguliavimo tarnybai užmokesčius už Ryšių reguliavimo tarnybos teikiamas
-paslaugas ir atliekamus darbus, nustatytus šio Įstatymo 6 straipsnio 3 dalyje,
-įskaitant užmokesčius už elektroninių ryšių išteklių naudojimo priežiūrą.
+reguliavimo tarnybai užmokesčius už Ryšių reguliavimo tarnybos teikiamas paslaugas
+ir atliekamus darbus, nustatytus šio Įstatymo 6 straipsnio 3 dalyje, įskaitant
+užmokesčius už elektroninių ryšių išteklių naudojimo priežiūrą.
 Straipsnio pakeitimai:
-Nr. XI-1552,
-2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
+Nr. XI-1552, 2011-06-28,
+Žin., 2011, Nr. 91-4327 (2011-07-19)
  
 51 straipsnis. Elektroninių
 ryšių išteklių skyrimas
@@ -3245,11 +3238,11 @@ suteikiamą teisę naudoti elektroninių ryšių išteklius įmokos, kurias
 įsipareigoja sumokėti konkurso ar aukciono laimėtojai, mokamos į valstybės
 biudžetą. Jeigu konkurso ar aukciono laimėtojas uždelsia sumokėti įmoką ar jos
 dalį, Ryšių reguliavimo tarnyba turi teisę priimti sprendimą įpareigoti
-konkurso ar aukciono laimėtoją šią įmoką sumokėti ir nustatyti sumokėjimo terminą.
-Toks Ryšių reguliavimo tarnybos sprendimas yra vykdomasis dokumentas, kurio
-neįvykdžius, sprendimas pateikiamas vykdyti Civilinio proceso kodekso nustatyta
-tvarka. Sprendimas gali būti pateikiamas vykdyti ne vėliau kaip per 3 metus nuo
-jo priėmimo dienos.
+konkurso ar aukciono laimėtoją šią įmoką sumokėti ir nustatyti sumokėjimo
+terminą. Toks Ryšių reguliavimo tarnybos sprendimas yra vykdomasis dokumentas,
+kurio neįvykdžius, sprendimas pateikiamas vykdyti Civilinio proceso kodekso
+nustatyta tvarka. Sprendimas gali būti pateikiamas vykdyti ne vėliau kaip per 3
+metus nuo jo priėmimo dienos.
 Straipsnio pakeitimai:
 Nr. XI-1552,
 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
@@ -3264,8 +3257,7 @@ tvarka;
 būdu.
 2. Elektroninių
 ryšių ištekliai skiriami laikantis atvirų, objektyvių, skaidrių,
-nediskriminacinių ir proporcingų procedūrų, nustatytų šio Įstatymo 53–56
-straipsniuose.
+nediskriminacinių ir proporcingų procedūrų, nustatytų šio Įstatymo 53–56 straipsniuose.
 Straipsnio pakeitimai:
 Nr. XI-1552,
 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
@@ -3278,11 +3270,11 @@ pagrindų:
 1) Ryšių reguliavimo
 tarnyba neriboja leidimų naudoti prašomus elektroninių ryšių išteklius
 skaičiaus;
-2) per Ryšių
-reguliavimo tarnybos nustatytą terminą po viešo paskelbimo apie paraiškos
-skirti elektroninių ryšių išteklius gavimą daugiau joks asmuo nepareiškia noro
-naudoti tuos pačius išteklius arba visiems asmenims, pareiškusiems norą juos
-naudoti, išteklių galima skirti pakankamai.
+2) per Ryšių reguliavimo
+tarnybos nustatytą terminą po viešo paskelbimo apie paraiškos skirti
+elektroninių ryšių išteklius gavimą daugiau joks asmuo nepareiškia noro naudoti
+tuos pačius išteklius arba visiems asmenims, pareiškusiems norą juos naudoti,
+išteklių galima skirti pakankamai.
 2. Jeigu Ryšių reguliavimo tarnyba vienu metu gauna kelių asmenų
 prašymus skirti elektroninių ryšių išteklius ir šie ištekliai negali būti
 skirti visiems prašantiems asmenims vienu metu, šie ištekliai skiriami viešo
@@ -3325,10 +3317,10 @@ ryšių išteklių, kuriuos aukciono dalyvis turi pirkti aukcione, kiekis.
 skirti elektroninių ryšių išteklius
 1. Ryšių reguliavimo
 tarnyba turi teisę atsisakyti skirti elektroninių ryšių išteklius, jeigu:
-1) nėra laisvų elektroninių
-ryšių išteklių. Šis pagrindas apima ir tuos atvejus, kai pageidaujamų
-elektroninių ryšių išteklių naudojimas trukdytų naudoti kitus jau naudojamus
-elektroninių ryšių išteklius;
+1) nėra laisvų
+elektroninių ryšių išteklių. Šis pagrindas apima ir tuos atvejus, kai
+pageidaujamų elektroninių ryšių išteklių naudojimas trukdytų naudoti kitus jau
+naudojamus elektroninių ryšių išteklius;
 2) pareiškėjo
 veikla neatitinka šio Įstatymo, konkurso arba aukciono reikalavimų,
 elektroninių ryšių išteklių paskirties arba pareiškėjas jau turimus
@@ -3383,8 +3375,8 @@ sąlygas, nustatytos sąlygos.
 naudojimo taisyklėse ir leidimuose naudoti radijo dažnius (kanalus) nustatytos
 sąlygos gali būti susijusios tik su:
 1) paskirties (paslaugos, tarnybos
-arba technologijos tipo), kuriai radijo dažniai (kanalai) skiriami, taip pat aprėpties
-ir kokybės reikalavimų nurodymu;
+arba technologijos tipo), kuriai radijo dažniai (kanalai) skiriami, taip pat
+aprėpties ir kokybės reikalavimų nurodymu;
 2) veiksmingu ir efektyviu radijo
 dažnių (kanalų) naudojimu;
 3) techninėmis ir veiklos
@@ -3421,8 +3413,8 @@ intervalui;
 2) veiksmingu ir efektyviu telefono
 ryšio numerių naudojimu;
 3) abonento teise išlaikyti telefono ryšio numerį;
-4) įpareigojimais teikti informaciją
-apie abonentus;
+4) įpareigojimais teikti
+informaciją apie abonentus;
 5) maksimaliu teisės naudoti
 telefono ryšio numerius terminu;
 6) teisės naudoti telefono ryšio
@@ -3465,8 +3457,8 @@ sąlygos yra pasikeitusios, atitinkamai pakeičia radijo dažnių (kanalų)
 naudojimo sąlygas, leidžia perleisti teisę naudoti radijo dažnius (kanalus)
 kitam asmeniui, įskaitant laikiną teisės naudoti radijo dažnius (kanalus)
 perleidimą, arba panaikina leidimą naudoti radijo dažnius (kanalus), jeigu
-nustato, kad atitinkamus radijo dažnius (kanalus) galima naudoti be atskiro
-leidimo. Įgyvendindama šios dalies nuostatas, Ryšių reguliavimo tarnyba mutatis
+nustato, kad atitinkamus radijo dažnius (kanalus) galima naudoti be atskiro leidimo.
+Įgyvendindama šios dalies nuostatas, Ryšių reguliavimo tarnyba mutatis
 mutandis vadovaujasi šio Įstatymo 59 straipsnio nuostatomis.
 7. Ryšių
 reguliavimo tarnyba turi teisę, prieš 6 mėnesius įspėjusi elektroninių ryšių
@@ -3476,16 +3468,16 @@ išteklių naudotojus, panaikinti leidimą naudoti elektroninių ryšių ištekl
 jeigu to reikalauja tarptautiniai įsipareigojimai ar Europos Sąjungos teisės
 aktai, keičiama elektroninių ryšių išteklių paskirtis arba elektroninių ryšių
 ištekliai naudojami neveiksmingai ar neefektyviai. Ryšių reguliavimo tarnyba
-turi teisę pakeisti skirtus elektroninių ryšių išteklius kitais tos pačios
-paskirties elektroninių ryšių ištekliais arba panaikinti leidimą naudoti
-elektroninių ryšių išteklius nesilaikydama šioje dalyje nurodytų sąlygų, jeigu
-to pageidauja elektroninių ryšių išteklių naudotojas arba jis su tuo sutinka.
-Įgyvendindama šios dalies nuostatas, Ryšių reguliavimo tarnyba mutatis
-mutandis vadovaujasi šio Įstatymo 59 straipsnio nuostatomis. Ryšių
-reguliavimo tarnybai panaikinus leidimą naudoti radijo dažnį (kanalą), jeigu to
-reikalauja tarptautiniai įsipareigojimai ar Europos Sąjungos teisės aktai,
-keičiama elektroninių ryšių išteklių paskirtis, radijo dažnio (kanalo)
-naudotojui proporcingai sutrumpinamam radijo dažnio (kanalo) naudojimo terminui
+turi teisę pakeisti skirtus elektroninių ryšių išteklius kitais tos pačios paskirties
+elektroninių ryšių ištekliais arba panaikinti leidimą naudoti elektroninių
+ryšių išteklius nesilaikydama šioje dalyje nurodytų sąlygų, jeigu to pageidauja
+elektroninių ryšių išteklių naudotojas arba jis su tuo sutinka. Įgyvendindama
+šios dalies nuostatas, Ryšių reguliavimo tarnyba mutatis mutandis
+vadovaujasi šio Įstatymo 59 straipsnio nuostatomis. Ryšių reguliavimo tarnybai
+panaikinus leidimą naudoti radijo dažnį (kanalą), jeigu to reikalauja
+tarptautiniai įsipareigojimai ar Europos Sąjungos teisės aktai, keičiama
+elektroninių ryšių išteklių paskirtis, radijo dažnio (kanalo) naudotojui
+proporcingai sutrumpinamam radijo dažnio (kanalo) naudojimo terminui
 kompensuojama už teisės naudoti radijo dažnį (kanalą) suteikimą sumokėta sumos
 dalis, išskyrus už leidimo naudoti elektroninių ryšių išteklius išdavimą
 sumokėtą valstybės rinkliavą.
@@ -3552,14 +3544,13 @@ susijusius srauto duomenis, išskyrus įstatymo nustatytus atvejus.
 konfidencialumo principo laikinai išsaugoti perduodamus pranešimus, jei tai
 būtina paslaugoms (pavyzdžiui, balso paštui, elektroniniam paštui ir
 kitoms) teikti. Taip pat šios nuostatos netaikomos informacijos ir susijusių
-srauto duomenų įrašymui, atliekamam teisėtos verslo praktikos metu, kai
-siekiama pateikti komercinio sandorio sudarymo, vykdymo ar kitokios verslo
-transakcijos, kuri, vadovaujantis teisės aktais, gali sukelti teisinių
-padarinių, įrodymus. Prieš pradedant įrašymą, faktiniai elektroninių ryšių
-paslaugų naudotojai turi būti informuoti apie tokį įrašymą ir jo tikslą.
-Įrašytų pranešimų turinys ir susiję srauto duomenys gali būti saugomi ne
-ilgesnį laikotarpį, negu tas, per kurį sandorio galiojimas gali būti teisiškai
-užginčytas.
+srauto duomenų įrašymui, atliekamam teisėtos verslo praktikos metu, kai siekiama
+pateikti komercinio sandorio sudarymo, vykdymo ar kitokios verslo transakcijos,
+kuri, vadovaujantis teisės aktais, gali sukelti teisinių padarinių, įrodymus.
+Prieš pradedant įrašymą, faktiniai elektroninių ryšių paslaugų naudotojai turi
+būti informuoti apie tokį įrašymą ir jo tikslą. Įrašytų pranešimų turinys ir
+susiję srauto duomenys gali būti saugomi ne ilgesnį laikotarpį, negu tas, per
+kurį sandorio galiojimas gali būti teisiškai užginčytas.
 3. Elektroninių ryšių tinklus ir (ar) paslaugas teikiantys ūkio
 subjektai, įgyvendindami šio straipsnio 1 dalį, privalo imtis atitinkamų
 organizacinių ir techninių priemonių. Valstybinė duomenų apsaugos inspekcija
@@ -3651,9 +3642,8 @@ papildomai turi būti nurodytos asmens duomenų saugumo pažeidimo pasekmės ir
 priemonės, kurias pasiūlė ar kurių ėmėsi viešųjų ryšių tinklų ir (arba) viešųjų
 elektroninių ryšių paslaugų teikėjas asmens duomenų saugumo pažeidimui
 išaiškinti. 
-7. Valstybinė duomenų apsaugos
-inspekcija nustato
-šio straipsnio 4 dalyje nurodyto pranešimo pateikimo tvarką ir sąlygas. 
+7. Šio straipsnio 4 dalyje nurodyti pranešimai teikiami vadovaujantis
+Reglamentu (ES) Nr. 611/2013.
 8. Viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų
 teikėjai registruoja asmens duomenų saugumo pažeidimų atvejus ir kaupia
 informaciją apie tokių pažeidimų priežastis, jų poveikį ir priemones, kurių
@@ -3670,9 +3660,12 @@ asmens duomenų saugumo pažeidimus.
 Straipsnio pakeitimai:
 Nr. XI-1552,
 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
+Nr.
+XII-579,
+2013-11-07, Žin., 2013, Nr. 120-6051 (2013-11-23)
  
-63 straipsnis. Automatinis skambučių
-persiuntimas
+63 straipsnis. Automatinis
+skambučių persiuntimas
 1. Viešųjų elektroninių ryšių paslaugų teikėjai privalo užtikrinti, kad
 abonentai ar registruoti elektroninių ryšių paslaugų naudotojai galėtų
 nemokamai ir paprastomis priemonėmis uždrausti kitų asmenų skambučių automatinį
@@ -3686,15 +3679,15 @@ Nr. XI-1552,
  
 64 straipsnis. Ryšio
 linijos, iš kurios skambinama ir į kurią skambinama, nustatymas 
-1. Jeigu yra galimybė nustatyti ryšio liniją, iš
-kurios skambinama, skambinantis faktinis elektroninių ryšių paslaugų naudotojas
-turi turėti galimybę bet kurio skambučio metu nemokamai ir paprastomis
+1. Jeigu yra galimybė nustatyti ryšio liniją, iš kurios
+skambinama, skambinantis faktinis elektroninių ryšių paslaugų naudotojas turi
+turėti galimybę bet kurio skambučio metu nemokamai ir paprastomis
 priemonėmis panaikinti galimybę nustatyti ryšio liniją, iš kurios skambinama.
 Skambinantis abonentas turi turėti tokią galimybę bet kuriai ryšio linijai.
-2. Jeigu yra galimybė nustatyti ryšio liniją, iš kurios
-skambinama, abonentas, kuriam skambinama, turi turėti galimybę nemokamai ir
-paprastomis priemonėmis panaikinti galimybę nustatyti ryšio liniją, iš kurios
-skambinama.
+2. Jeigu yra galimybė nustatyti ryšio liniją, iš
+kurios skambinama, abonentas, kuriam skambinama, turi turėti galimybę nemokamai
+ir paprastomis priemonėmis panaikinti galimybę nustatyti ryšio liniją, iš
+kurios skambinama.
 3. Jeigu yra galimybė nustatyti ryšio liniją, iš
 kurios skambinama, ir jeigu identifikavimo duomenys turėtų būti pateikiami
 prieš prisiskambinimą, abonentas, kuriam skambinama, turi turėti galimybę
@@ -3724,8 +3717,8 @@ sąlygomis.
 8. Neteko
 galios nuo 2011 m. rugpjūčio 1 d.
 Straipsnio pakeitimai:
-Nr. XI-1552,
-2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
+Nr. XI-1552, 2011-06-28,
+Žin., 2011, Nr. 91-4327 (2011-07-19)
  
 65 straipsnis. Duomenų kategorijos
 1.
@@ -3735,13 +3728,13 @@ ryšių paslaugų naudotojų asmens, srauto ir susijusius duomenis, kurie yra
 būtini abonentams ir paslaugų naudotojams identifikuoti, paslaugoms teikti,
 apskaitai ir atsiskaitymams. Ši nuostata netaikoma šio straipsnio 2 dalyje
 nurodytoms duomenų kategorijoms. 
-2. Siekiant
-užtikrinti, kad duomenys būtų prieinami sunkių ir labai sunkių nusikaltimų,
-kaip jie apibrėžti Lietuvos Respublikos baudžiamajame kodekse, tyrimo,
-atskleidimo ir baudžiamojo persekiojimo tikslais, viešųjų ryšių tinklų ir (ar)
-viešųjų elektroninių ryšių paslaugų teikėjai privalo išsaugoti ir įstatymų
-nustatyta tvarka neatlygintinai teikti kompetentingoms institucijoms jų
-generuojamus arba tvarkomus šio Įstatymo 1 priede išvardytus duomenis. 
+2. Siekiant užtikrinti,
+kad duomenys būtų prieinami sunkių ir labai sunkių nusikaltimų, kaip jie
+apibrėžti Lietuvos Respublikos baudžiamajame kodekse, tyrimo, atskleidimo ir
+baudžiamojo persekiojimo tikslais, viešųjų ryšių tinklų ir (ar) viešųjų
+elektroninių ryšių paslaugų teikėjai privalo išsaugoti ir įstatymų nustatyta
+tvarka neatlygintinai teikti kompetentingoms institucijoms jų generuojamus arba
+tvarkomus šio Įstatymo 1 priede išvardytus duomenis. 
  
 66 straipsnis. Duomenų tvarkymas 
 1. Apie savo tinkluose generuojamus ir tvarkomus duomenis viešųjų ryšių
@@ -3759,11 +3752,11 @@ duomenis tvarkytų tik viešųjų ryšių tinklų teikėjų ir viešųjų elektr
 ryšių paslaugų teikėjų įgalioti asmenys ir tik tiek, kiek to reikia jų
 tiesioginėms funkcijoms vykdyti.
 4. Nutraukus sutartį su abonentu ar registruotu elektroninių ryšių
-paslaugų naudotoju, sukaupti abonentų ar registruotų elektroninių ryšių
-paslaugų naudotojų srauto duomenys gali būti saugomi ne ilgiau kaip 6 mėnesius
-nuo ryšio datos, išskyrus šio Įstatymo 65 straipsnio 2 dalyje nurodytus
-duomenis, kurių saugojimo terminas nustatytas šio straipsnio 6 dalyje, taip pat
-išskyrus atvejus, kai sąskaita yra teisėtai užginčyta arba srauto duomenys yra
+paslaugų naudotoju, sukaupti abonentų ar registruotų elektroninių ryšių paslaugų
+naudotojų srauto duomenys gali būti saugomi ne ilgiau kaip 6 mėnesius nuo ryšio
+datos, išskyrus šio Įstatymo 65 straipsnio 2 dalyje nurodytus duomenis, kurių
+saugojimo terminas nustatytas šio straipsnio 6 dalyje, taip pat išskyrus
+atvejus, kai sąskaita yra teisėtai užginčyta arba srauto duomenys yra
 reikalingi įsiskolinimui išieškoti. 
 5. Abonento ar registruoto
 elektroninių ryšių paslaugų naudotojo srauto duomenys gali būti saugomi ne
@@ -3781,9 +3774,9 @@ teikėjai, teikdami atitinkamas paslaugas.
 8. Viešųjų ryšių
 tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjai šio Įstatymo 65
 straipsnio 2 dalyje nurodytus duomenis saugo, laikydamiesi šių principų:
-1)
-saugomi duomenys turi būti tokios pačios kokybės ir jiems taikomi tokie patys
-saugumo ir apsaugos reikalavimai kaip ir tinkle esantiems duomenims;
+1) saugomi
+duomenys turi būti tokios pačios kokybės ir jiems taikomi tokie patys saugumo
+ir apsaugos reikalavimai kaip ir tinkle esantiems duomenims;
 2)
 duomenims taikomos tinkamos techninės ir organizacinės priemonės, kad duomenys
 būtų apsaugoti nuo atsitiktinio ar neteisėto sunaikinimo, atsitiktinio
@@ -3828,9 +3821,9 @@ viešojo ryšių tinklo ir (ar) viešųjų elektroninių ryšių paslaugų teik�
 su abonentu susijusiais duomenimis. Atskiru rašytiniu prašymu abonentas gali
 pareikalauti su abonentu susijusios visos ar dalinės (pavyzdžiui, detalios
 sąskaitos už per tam tikrą laikotarpį suteiktas elektroninių ryšių paslaugas)
-patvirtintos duomenų kopijos. Bet kuriuo atveju iš pareiškėjo gali būti pareikalauta
-apmokėti tik su duomenų ar patvirtintos duomenų kopijos pateikimu susijusias
-išlaidas.
+patvirtintos duomenų kopijos. Bet kuriuo atveju iš pareiškėjo gali būti
+pareikalauta apmokėti tik su duomenų ar patvirtintos duomenų kopijos pateikimu
+susijusias išlaidas.
 5. Valstybinė duomenų apsaugos inspekcija pagal savo
 kompetenciją ir kiek tai susiję su šio skirsnio reguliavimo dalyku nustato
 detalių sąskaitų teikimo reikalavimus.
@@ -3966,11 +3959,10 @@ nustatyta tvarka ir sąlygomis.
 3. Iš ūkio subjektų, kurie verčiasi elektroninių ryšių veikla, Ryšių
 reguliavimo tarnyba, kiek tai susiję su vertimusi elektroninių ryšių veikla ar
 elektroninių ryšių išteklių naudojimu arba įpareigojimais, nustatytais ūkio
-subjektui, turinčiam didelę įtaką atitinkamoje rinkoje arba paskirtam teikti
-universaliąsias paslaugas, turi teisę reikalauti tik tokios informacijos, kuri
-proporcinga ir objektyviai pateisinama šiais tikslais (ši dalis netaikoma
-informacijos, susijusios su elektroninių ryšių infrastruktūros įrengimu,
-teikimui):
+subjektui, turinčiam didelę įtaką atitinkamoje rinkoje arba paskirtam teikti universaliąsias
+paslaugas, turi teisę reikalauti tik tokios informacijos, kuri proporcinga ir
+objektyviai pateisinama šiais tikslais (ši dalis netaikoma informacijos,
+susijusios su elektroninių ryšių infrastruktūros įrengimu, teikimui):
 1) sisteminiu ar vienkartiniu patikrinimu, kaip ūkio subjektas laikosi
 šio Įstatymo ir kitų teisės aktų nuostatų, susijusių su veiksmingu ir efektyviu
 elektroninių ryšių išteklių naudojimu, universaliųjų paslaugų teikimo
@@ -3990,9 +3982,10 @@ naudai;
 7) elektroninių ryšių tinklų ir (arba)
 paslaugų plėtros, galinčios turėti įtakos didmeninėms paslaugoms, kuriomis
 galėtų naudotis kiti ūkio subjektai, įvertinimu;
-8) galimybės bendrai naudoti elektroninių
-ryšių infrastruktūrą įvertinimu, elektroninių ryšių infrastruktūros pobūdžio,
-prieinamumo ir geografinės buvimo vietos išsamaus sąrašo sudarymu;
+8) galimybės bendrai naudoti
+elektroninių ryšių infrastruktūrą įvertinimu, elektroninių ryšių
+infrastruktūros pobūdžio, prieinamumo ir geografinės buvimo vietos išsamaus
+sąrašo sudarymu;
 9) viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų
 saugumo ir (arba) vientisumo įvertinimu;
 10) efektyvaus radijo dažnių (kanalų) naudojimu ir veiksmingo radijo
@@ -4000,20 +3993,20 @@ dažnių (kanalų) valdymo užtikrinimu.
 4. Ryšių reguliavimo tarnyba negali reikalauti šio straipsnio 3 dalyje
 nurodytos informacijos, išskyrus šio straipsnio 3 dalies 3 punkte nurodytą
 informaciją, iš ūkio subjekto, ketinančio verstis elektroninių ryšių veikla,
-prieš ūkio subjektui įgyjant teisę ar pradedant faktiškai verstis
-(atsižvelgiant į tai, kuri aplinkybė ankstesnė) elektroninių ryšių veikla, arba
-nustatyti šios informacijos pateikimą kaip būtiną sąlygą tokiai teisei įgyti.
+prieš ūkio subjektui įgyjant teisę ar pradedant faktiškai verstis (atsižvelgiant
+į tai, kuri aplinkybė ankstesnė) elektroninių ryšių veikla, arba nustatyti šios
+informacijos pateikimą kaip būtiną sąlygą tokiai teisei įgyti.
 5. Ryšių reguliavimo tarnyba, reikalaudama elektroninių ryšių tinklų
 bei paslaugų teikėjų pateikti šio straipsnio 3 dalyje nurodytą informaciją,
 praneša ūkio subjektams apie tikslą, kuriam informacija bus naudojama.
 6. Šio straipsnio nuostatos mutatis mutandis taikomos
 Valstybinei duomenų apsaugos inspekcijai, kiek tai susiję su šio Įstatymo
 devintojo skirsnio nuostatų vykdymo priežiūra.
-7. Šiame straipsnyje nurodytos informacijos gavimui ir teikimui taip pat
-taikomos Viešojo administravimo įstatymo nuostatos.
+7. Šiame straipsnyje nurodytos informacijos gavimui ir teikimui taip
+pat taikomos Viešojo administravimo įstatymo nuostatos.
 Straipsnio pakeitimai:
-Nr. XI-1552,
-2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
+Nr. XI-1552, 2011-06-28,
+Žin., 2011, Nr. 91-4327 (2011-07-19)
  
 72
 straipsnis. Įstatymo laikymosi priežiūros procedūra
@@ -4031,8 +4024,8 @@ atitinkantį terminą.
 1 dalyje nurodytas pažeidimas būtų nutrauktas nedelsiant ar per Ryšių
 reguliavimo tarnybos nustatytą protingumo kriterijų atitinkantį terminą arba
 imasi kitų tinkamų ir proporcingų priemonių, užtikrinančių teisės aktų vykdymą,
-įskaitant šio Įstatymo 74 straipsnyje nustatytų ekonominių sankcijų skyrimą. Ryšių
-reguliavimo tarnyba turi teisę paskirti efektyvias, proporcingas ir
+įskaitant šio Įstatymo 74 straipsnyje nustatytų ekonominių sankcijų skyrimą.
+Ryšių reguliavimo tarnyba turi teisę paskirti efektyvias, proporcingas ir
 atgrasančias ekonomines sankcijas, net ir tuo atveju, jeigu pažeidimas
 buvo nutrauktas.
 3. Ryšių reguliavimo tarnyba turi teisę taikyti ekonomines sankcijas už
@@ -4057,27 +4050,27 @@ atitinkamoje rinkoje, nesilaiko jam nustatyto prieigos įpareigojimo, kas
 sukelia didelę žalą konkurencijai, gali įpareigoti ūkio subjektą nutraukti arba
 sustabdyti konkrečios paslaugos ar susietai teikiamų paslaugų teikimą.
 6. Ryšių reguliavimo tarnyba nedelsdama, bet ne vėliau kaip per 3 darbo
-dienas nuo sprendimo taikyti priemones pagal šio straipsnio 2 ir 5 dalis
-priėmimo, informuoja ūkio subjektą apie priemones, kurių imamasi, ir jų
-priežastis, nustatydama protingumo kriterijų atitinkantį terminą, per kurį ūkio
-subjektas turi įvykdyti šias priemones.
-7. Ryšių reguliavimo tarnyba, gavusi įrodymų apie vertimosi
-elektroninių ryšių veikla sąlygas nustatančių teisės aktų ar elektroninių ryšių
-išteklių naudojimo arba įpareigojimų, nustatytų ūkio subjektui, kaip turinčiam
-didelę įtaką rinkoje arba paskirtam teikti universaliąsias paslaugas,
-pažeidimus, kai tokie pažeidimai kelia tiesioginę ir rimtą grėsmę viešajai
-tvarkai, visuomenės saugumui ar sveikatai arba gali sukelti rimtų ekonominių ar
-veiklos problemų kitiems elektroninių ryšių paslaugų teikėjams arba
-elektroninių ryšių tinklų naudotojams ir (arba) elektroninių ryšių paslaugų
-gavėjams, nesilaikydama šio straipsnio 1, 2 ir 6 dalių nuostatų, turi teisę
-imtis skubių laikinųjų priemonių, įskaitant laikiną daiktų, kurie buvo šio
-Įstatymo pažeidimo padarymo įrankis arba tiesioginis objektas, sulaikymą ir
-(arba) laikiną uždraudimą verstis elektroninių ryšių veikla ar naudoti
-elektroninių ryšių išteklius. Jeigu Ryšių reguliavimo tarnyba ėmėsi tokių
-priemonių, ji suteikia suinteresuotam ūkio subjektui galimybę išdėstyti savo
-nuomonę ir siūlyti priemones susidariusiai padėčiai išspręsti. Ryšių
-reguliavimo tarnyba laikinąsias priemones gali nustatyti ne ilgesniam kaip 3
-mėnesių laikotarpiui, kurį gali pratęsti, tačiau ne ilgiau kaip 3 mėnesiams.
+dienas nuo sprendimo taikyti priemones pagal šio straipsnio 2 ir 5 dalis priėmimo,
+informuoja ūkio subjektą apie priemones, kurių imamasi, ir jų priežastis,
+nustatydama protingumo kriterijų atitinkantį terminą, per kurį ūkio subjektas
+turi įvykdyti šias priemones.
+7. Ryšių reguliavimo tarnyba, gavusi įrodymų apie vertimosi elektroninių
+ryšių veikla sąlygas nustatančių teisės aktų ar elektroninių ryšių išteklių
+naudojimo arba įpareigojimų, nustatytų ūkio subjektui, kaip turinčiam didelę
+įtaką rinkoje arba paskirtam teikti universaliąsias paslaugas, pažeidimus, kai
+tokie pažeidimai kelia tiesioginę ir rimtą grėsmę viešajai tvarkai, visuomenės
+saugumui ar sveikatai arba gali sukelti rimtų ekonominių ar veiklos problemų
+kitiems elektroninių ryšių paslaugų teikėjams arba elektroninių ryšių tinklų
+naudotojams ir (arba) elektroninių ryšių paslaugų gavėjams, nesilaikydama šio
+straipsnio 1, 2 ir 6 dalių nuostatų, turi teisę imtis skubių laikinųjų
+priemonių, įskaitant laikiną daiktų, kurie buvo šio Įstatymo pažeidimo padarymo
+įrankis arba tiesioginis objektas, sulaikymą ir (arba) laikiną uždraudimą
+verstis elektroninių ryšių veikla ar naudoti elektroninių ryšių išteklius.
+Jeigu Ryšių reguliavimo tarnyba ėmėsi tokių priemonių, ji suteikia
+suinteresuotam ūkio subjektui galimybę išdėstyti savo nuomonę ir siūlyti
+priemones susidariusiai padėčiai išspręsti. Ryšių reguliavimo tarnyba
+laikinąsias priemones gali nustatyti ne ilgesniam kaip 3 mėnesių laikotarpiui,
+kurį gali pratęsti, tačiau ne ilgiau kaip 3 mėnesiams.
 8. Šio skyriaus, išskyrus šią dalį ir šio Įstatymo 71 straipsnį,
 nuostatos taikomos ūkio subjektams, kiek tai susiję su vertimusi elektroninių
 ryšių veikla. Kai teisės naudoti elektroninių ryšių išteklius sustabdymui ir
@@ -4128,8 +4121,8 @@ technines priemones;
 9) patikrinti aparatūrą ir (arba) įrenginius, taip pat ir paimti
 aparatūrą ir (arba) įrenginius;
 10) kitas šio ir kitų įstatymų nustatytas teises.
-2. Ryšių reguliavimo tarnybos įgalioti pareigūnai, atlikdami savo funkcijas,
-gali pasitelkti policijos pareigūnų.
+2. Ryšių reguliavimo tarnybos įgalioti pareigūnai, atlikdami savo
+funkcijas, gali pasitelkti policijos pareigūnų.
 3. Ryšių reguliavimo tarnybos įgalioti pareigūnai, įgyvendindami jiems
 suteiktas teises, surašo dokumentus (aktus, protokolus, reikalavimus ir pan.).
 Jų formas ir pildymo tvarką nustato Ryšių reguliavimo tarnyba.
@@ -4189,8 +4182,8 @@ tarnybos įpareigojimų, nustatytų pagal šio Įstatymo 22 straipsnio 6 dalį, 
 nesilaiko radijo ryšio įrenginių ir telekomunikacijų galinių įrenginių
 techninio reglamento arba elektromagnetinio suderinamumo techninio reglamento,
 Ryšių reguliavimo tarnyba turi teisę skirti baudą iki 3 procentų bendrųjų
-metinių pajamų iš veiklos, susijusios su elektroniniais ryšiais, o jei tokios veiklos
-mastą apskaičiuoti sunku arba neįmanoma, – iki 300 000 litų.
+metinių pajamų iš veiklos, susijusios su elektroniniais ryšiais, o jei tokios
+veiklos mastą apskaičiuoti sunku arba neįmanoma, – iki 300 000 litų.
 2. Ūkio subjektui, padariusiam pakartotinį arba sunkų šio straipsnio 1
 dalyje nurodytą pažeidimą, Ryšių reguliavimo tarnyba turi teisę skirti baudą
 iki 5 procentų bendrųjų metinių pajamų iš veiklos, susijusios su elektroniniais
@@ -4211,8 +4204,8 @@ pažeidimas yra trunkamas arba tęstinis – iki 5000 litų baudą už kiekvien�
 (tęsimo) dieną.
 5. Kartu su šio straipsnio 1–4 dalyse, taip pat 72 straipsnio 4 dalyje nustatytomis
 ekonominėmis sankcijomis Ryšių reguliavimo tarnyba turi teisę skirti daiktų,
-kurie buvo šio Įstatymo pažeidimo padarymo įrankis arba tiesioginis objektas,
-paėmimą ir (ar) įpareigoti atlyginti neteisėta veika padarytą žalą.
+kurie buvo šio Įstatymo pažeidimo padarymo įrankis arba tiesioginis objektas, paėmimą
+ir (ar) įpareigoti atlyginti neteisėta veika padarytą žalą.
 6. Jei ūkio subjektas yra susijusių asmenų grupė, pažeidėju laikomi tie
 grupės nariai, kurie darant pažeidimą veikė kaip vienas ekonominis vienetas.
 Straipsnio pakeitimai:
@@ -4273,7 +4266,8 @@ skundžiamas Administracinių bylų teisenos įstatymo ir šio Įstatymo 6 strai
 reguliavimo tarnybos direktorius ar jo įgaliotas asmuo turi teisę duoti
 nurodymus Ryšių reguliavimo tarnybos pareigūnams papildyti surinktą medžiagą.
 Kai Ryšių reguliavimo tarnybos pareigūnai įvykdo tokį nurodymą, surašomas
-papildytas teikimas ir ekonominės sankcijos skyrimo procedūra pradedama iš naujo.
+papildytas teikimas ir ekonominės sankcijos skyrimo procedūra pradedama iš
+naujo.
 9. Skiriant ūkio subjektams ekonomines sankcijas atsižvelgiama į:
 1) pažeidimu padarytos žalos dydį;
 2) pažeidimo trukmę;
@@ -4281,15 +4275,15 @@ papildytas teikimas ir ekonominės sankcijos skyrimo procedūra pradedama iš na
 4) ūkio subjektui dėl pažeidimo tekusių pajamų dydį;
 5) kiekvieno ūkio subjekto įtaką pažeidimo padarymui, kai pažeidimą
 padaro keli ūkio subjektai.
-10. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad ūkio
-subjektai, padarę pažeidimą, savo noru užkirto kelią žalingiems pažeidimo
-padariniams, padėjo Ryšių reguliavimo tarnybai pažeidimo tyrimo metu, atlygino
-nuostolius ar pašalino padarytą žalą.
-11. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad ūkio
-subjektai kliudė vykdyti tyrimą, slėpė padarytą pažeidimą, tęsė pažeidimą
-nepaisydami Ryšių reguliavimo tarnybos įpareigojimo nutraukti neteisėtus
-veiksmus arba pakartotinai įvykdė pažeidimą, už kurį ūkio subjektams jau buvo
-paskirtos šio Įstatymo nustatytos sankcijos.
+10. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad ūkio subjektai,
+padarę pažeidimą, savo noru užkirto kelią žalingiems pažeidimo padariniams,
+padėjo Ryšių reguliavimo tarnybai pažeidimo tyrimo metu, atlygino nuostolius ar
+pašalino padarytą žalą.
+11. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad ūkio subjektai
+kliudė vykdyti tyrimą, slėpė padarytą pažeidimą, tęsė pažeidimą nepaisydami
+Ryšių reguliavimo tarnybos įpareigojimo nutraukti neteisėtus veiksmus arba
+pakartotinai įvykdė pažeidimą, už kurį ūkio subjektams jau buvo paskirtos šio
+Įstatymo nustatytos sankcijos.
 12. Ryšių reguliavimo tarnyba, nustatydama skiriamos ekonominės
 sankcijos dydį, gali pripažinti atsakomybę lengvinančiomis aplinkybėmis ir
 kitas, čia nenurodytas, aplinkybes.
@@ -4320,75 +4314,8 @@ solidariai, atsižvelgiant į šio Įstatymo 74 straipsnio 6 dalies nuostatas.
 VIENUOLIKTASIS SKIRSNIS
 BAIGIAMOSIOS NUOSTATOS
  
-77 straipsnis. Elektroninių ryšių srautų priežiūra ir
-stebėjimas
-1.
-Ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (ar) paslaugas,
-privalo įstatymų nustatyta tvarka turimą ir nusikalstamoms veikoms užkardyti,
-tirti, nustatyti reikalingą informaciją pateikti operatyvinės veiklos subjektų
-pagrindinėms institucijoms, Vyriausybės nurodytoms ikiteisminio tyrimo
-įstaigoms, prokurorui, teismui ar teisėjui. Šią informaciją ūkio subjektai,
-teikiantys elektroninių ryšių tinklus ir (ar) paslaugas, neatlygintinai teikia
-operatyvinės veiklos subjektų pagrindinėms institucijoms, Vyriausybės
-nurodytoms ikiteisminio tyrimo įstaigoms pagal jų paklausimus elektroniniu būdu
-ir nedelsdami. Vyriausybės nurodytos
-ikiteisminio tyrimo įstaigos Vyriausybės nustatyta tvarka organizuoja ir sudaro
-galimybę gauti šią informaciją savo padaliniams ir (ar) kitoms ikiteisminio
-tyrimo įstaigoms. Visi asmenys, dalyvaujantys keičiantis duomenimis,
-Vyriausybės nustatyta tvarka ir sąlygomis imasi būtinų priemonių duomenų
-saugumui užtikrinti, o tam reikalinga papildoma įranga įsigyjama ir išlaikoma
-valstybės lėšomis. Jeigu atliekant ikiteisminį tyrimą reikia patvirtinti ūkio
-subjekto, teikiančio elektroninių ryšių tinklus ir (ar) paslaugas, informacijos
-tikslumą, ikiteisminio tyrimo pareigūnas tiesiogiai raštu kreipiasi į ūkio
-subjektą ir gauna atsakymą raštu.
-2. Ūkio subjektai, teikiantys
-elektroninių ryšių tinklus ir (arba) paslaugas, vykdydami šio straipsnio 1
-dalies nuostatas, turi patvirtinti prašymų ir (arba) paklausimų pateikti
-informaciją tvarkymo vidaus taisykles. Valstybinei duomenų apsaugos inspekcijai
-pareikalavus, ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba)
-paslaugas, pateikia jai informaciją apie šias procedūras, gautų prašymų ir
-(arba) paklausimų skaičių, jų teisinį pagrindą ir pateiktus atsakymus.
-3.
-Jeigu šio Įstatymo 65 straipsnyje nurodyti duomenys reikalingi operatyvinės
-veiklos subjektams, ikiteisminio tyrimo įstaigoms, prokurorui, teismui ar
-teisėjui nusikalstamoms veikoms užkardyti, tirti, nustatyti, Vyriausybės
-įgaliotos institucijos – operatyvinės veiklos subjekto – nurodymu ūkio
-subjektai, teikiantys elektroninių ryšių tinklus ir (ar) paslaugas, turi tokią
-informaciją saugoti ilgiau, negu nurodyta šio Įstatymo 66 straipsnio 4, 5 ir 6
-dalyse, bet ne ilgiau kaip 6 mėnesius papildomai. Už tokios informacijos
-saugojimą mokama valstybės biudžeto lėšomis Vyriausybės nustatyta tvarka.
-4.
-Kai yra motyvuota teismo nutartis, ūkio subjektai, teikiantys elektroninių
-ryšių tinklus ir (ar) paslaugas, privalo sudaryti techninę galimybę
-operatyvinės veiklos subjektams įstatymų nustatyta tvarka, o ikiteisminio
-tyrimo įstaigoms – Baudžiamojo proceso kodekso nustatyta tvarka, kontroliuoti
-elektroninių ryšių tinklais perduodamos informacijos turinį. Tam reikalinga
-įranga įsigyjama ir išlaikoma valstybės lėšomis.
-5.
-Vyriausybės įgaliota institucija – operatyvinės veiklos subjektas – organizuoja
-ir Vyriausybės nustatyta tvarka kiekvienam operatyvinės veiklos subjektui, o
-baudžiamajame procese – ir ikiteisminio tyrimo įstaigai, sudaro technines
-galimybes savarankiškai kontroliuoti elektroninių ryšių tinklais perduodamos
-informacijos turinį.
-6.
-Ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) paslaugas, apie
-savo tinkle ar savo ir kitų elektroninių ryšių operatorių sujungimo taškuose
-numatomus daryti pakeitimus, galinčius turėti įtakos įrangos, nurodytos šio
-straipsnio 1 ir (arba) 4 dalyse, veikimui ir pateikiamos informacijos kiekiui,
-privalo Vyriausybės įgaliotai institucijai – operatyvinės veiklos subjektui –
-ir Ryšių reguliavimo tarnybai pranešti, kai tik apie tai sužino.
-7.
-Elektroninių ryšių tinklu siunčiamos techninės komandos pradėti ar nutraukti
-pasiklausymą ar kitą elektroninių ryšių tinklais perduodamos informacijos
-kontrolę saugomos Vyriausybės įgaliotos institucijos – operatyvinės veiklos
-subjekto – patalpose taip, kad komandų duomenų negalėtų pakeisti jas siuntusi
-Vyriausybės įgaliota institucija ar komandą gavęs ūkio subjektas. Šios dalies
-nuostatų įgyvendinimą kontroliuoja Lietuvos Respublikos generalinis prokuroras
-ar jo įgaliotas prokuroras.
-77
-straipsnio redakcija nuo 2013-01-01:
-77 straipsnis. Elektroninių ryšių srautų
-priežiūra ir stebėjimas
+77 straipsnis.
+Elektroninių ryšių srautų priežiūra ir stebėjimas
 1. Ūkio
 subjektai, teikiantys elektroninių ryšių tinklus ir (arba) paslaugas, privalo
 įstatymų nustatyta tvarka turimą ir nusikalstamoms veikoms užkardyti, tirti,
@@ -4479,9 +4406,9 @@ gynybai, užtikrinant valstybės saugumą bei viešąją tvarką, Vyriausybė ar
 įgaliota institucija įstatymų bei kitų teisės aktų nustatyta tvarka gali duoti
 ūkio subjektams, teikiantiems elektroninių ryšių tinklus ir (ar) paslaugas,
 taip pat aparatūros ir įrenginių savininkams ar naudotojams privalomus
-nurodymus, užduotis ir užsakymus apsaugoti ir palaikyti reikalingus elektroninių
-ryšių tinklus, taip pat juos sujungti bei prireikus apriboti visuomenės
-galimybę naudotis elektroninių ryšių tinklais.
+nurodymus, užduotis ir užsakymus apsaugoti ir palaikyti reikalingus
+elektroninių ryšių tinklus, taip pat juos sujungti bei prireikus apriboti
+visuomenės galimybę naudotis elektroninių ryšių tinklais.
 3. Elektroninių
 ryšių tinklų ir paslaugų teikėjai turi imtis visų reikiamų veiksmų, kad
 užtikrintų viešųjų ryšių tinklų ir viešųjų elektroninių ryšių paslaugų
@@ -4495,12 +4422,12 @@ institucijos nustatytus prioritetus.
 ryšių tinklų ir (ar) paslaugų teikėjai privalo suteikti absoliučią pirmenybę
 ryšiui su pagalbos tarnybomis ir pagalbos skambučius aptarnaujančiomis
 institucijomis, įskaitant visas telekomunikacijas, susijusias su gyvybės
-saugumu jūroje, sausumoje, ore ar tolimesnėje erdvėje, taip pat Pasaulinės sveikatos
-organizacijos ypatingos skubos epidemiologinėms telekomunikacijoms. Radijo
-stočių naudotojai privalo užtikrinti, kad būtų priimti nelaimės signalai ir
-pranešimai, kokios kilmės jie bebūtų, jiems būtų teikiama absoliuti pirmenybė,
-atsakoma į juos tokiu pat būdu ir nedelsiant imamasi reikiamų veiksmų jų
-atžvilgiu.
+saugumu jūroje, sausumoje, ore ar tolimesnėje erdvėje, taip pat Pasaulinės
+sveikatos organizacijos ypatingos skubos epidemiologinėms telekomunikacijoms.
+Radijo stočių naudotojai privalo užtikrinti, kad būtų priimti nelaimės signalai
+ir pranešimai, kokios kilmės jie bebūtų, jiems būtų teikiama absoliuti
+pirmenybė, atsakoma į juos tokiu pat būdu ir nedelsiant imamasi reikiamų
+veiksmų jų atžvilgiu.
 5. Lietuvos
 Respublikos ir kitų Tarptautinės telekomunikacijų sąjungos narių valstybių
 vadovų, vyriausybių vadovų arba vyriausybių narių, sausumos, jūrų arba oro
@@ -4517,8 +4444,8 @@ reguliavimo tarnyba turi teisę nustatyti šio straipsnio 4 ir 5 dalyse nustatyt
 7. Draudžiama
 siųsti arba perduoti netikrus arba klaidinančius nelaimės, skubos, saugumo ar
 identifikacijos signalus.
-8. Informaciją, kuri yra valstybės paslaptis ir (ar) tarnybos paslaptis,
-draudžiama perduoti nekoduotais radijo ryšio kanalais.
+8. Informaciją, kuri yra valstybės paslaptis ir (ar) tarnybos
+paslaptis, draudžiama perduoti nekoduotais radijo ryšio kanalais.
  
 79
 straipsnis. Įstatymo įsigaliojimas ir taikymas
@@ -4537,11 +4464,11 @@ turintiems ūkio subjektams, Lietuvos Respublikos telekomunikacijų įstatymo ir
 jo lydimųjų teisės aktų nustatyta apimtimi ir sąlygomis, kol Ryšių reguliavimo
 tarnyba, atlikusi rinkos tyrimus šio Įstatymo nustatyta tvarka, nusprendžia
 panaikinti ir (ar) pakeisti šiuos įpareigojimus. Toks Ryšių reguliavimo
-tarnybos sprendimas skelbiamas „Valstybės žinių“ priede „Informaciniai pranešimai“
-ir įsigalioja ne vėliau kaip po 28 dienų nuo paskelbimo. Ryšių reguliavimo
-tarnyba, atsižvelgdama į rinkos tyrimų rezultatus, gali, priėmusi motyvuotą
-sprendimą, atskirai nuspręsti dėl atskirų įpareigojimų atskiriems ūkio
-subjektams ir nustatyti skirtingą atskirų įpareigojimų atskiriems ūkio
+tarnybos sprendimas skelbiamas „Valstybės žinių“ priede „Informaciniai
+pranešimai“ ir įsigalioja ne vėliau kaip po 28 dienų nuo paskelbimo. Ryšių
+reguliavimo tarnyba, atsižvelgdama į rinkos tyrimų rezultatus, gali, priėmusi
+motyvuotą sprendimą, atskirai nuspręsti dėl atskirų įpareigojimų atskiriems
+ūkio subjektams ir nustatyti skirtingą atskirų įpareigojimų atskiriems ūkio
 subjektams pabaigos terminą, kuris negali būti ilgesnis kaip 28 dienos nuo
 informacijos apie sprendimą paskelbimo „Valstybės žinių“ priede „Informaciniai
 pranešimai“.
@@ -4556,9 +4483,9 @@ nelaikomos nuostatos vien dėl to, kad jos taikomos didelę įtaką rinkoje
 turintiems ūkio subjektams, nustatytiems Lietuvos Respublikos telekomunikacijų
 įstatymo nustatyta tvarka.
 5. Lietuvos Respublikos institucijų sudarytos sutartys, atitinkančios
-šio Įstatymo 12 straipsnio 12 dalies reguliavimo dalyką ir sudarytos iki šio Įstatymo
-įsigaliojimo, pateikiamos skelbti „Valstybės žinių“ priede „Informaciniai
-pranešimai“ iki 2004 m. liepos 1 d.
+šio Įstatymo 12 straipsnio 12 dalies reguliavimo dalyką ir sudarytos iki šio
+Įstatymo įsigaliojimo, pateikiamos skelbti „Valstybės žinių“ priede
+„Informaciniai pranešimai“ iki 2004 m. liepos 1 d.
 6. Ryšių reguliavimo tarnybos direktorius ir Tarybos nariai, paskirti
 iki šio Įstatymo įsigaliojimo, eina savo pareigas iki kadencijos, kuriai jie
 buvo paskirti, pabaigos, jeigu šio Įstatymo 7 straipsnio 9 dalyje nurodytais
@@ -4605,7 +4532,7 @@ PAULAUSKAS
  
 Lietuvos
 Respublikos 
-                                                                                    elektroninių
+                                                                                    elektroninių
 ryšių įstatymo
                                                                                     1
 priedas
@@ -4638,11 +4565,11 @@ kodas ar telefono ryšio numeris, vardas ir pavardė (pavadinimas) ir adresas.
 Duomenys, būtini ryšio paskirties taškui nustatyti:
 2.1.
 susiję su fiksuoto telefono ryšio tinklu ir judriuoju telefono ryšiu:
-2.1.1. rinktas
-telefono ryšio numeris ar numeriai (telefono ryšio numeris, į kurį skambinta),
-o papildomų paslaugų, pvz., skambučių peradresavimo ar skambučių persiuntimo,
-atvejais – telefono ryšio numeris arba numeriai, į kuriuos nukreiptas
-skambutis;
+2.1.1.
+rinktas telefono ryšio numeris ar numeriai (telefono ryšio numeris, į kurį
+skambinta), o papildomų paslaugų, pvz., skambučių peradresavimo ar skambučių
+persiuntimo, atvejais – telefono ryšio numeris arba numeriai, į kuriuos
+nukreiptas skambutis;
 2.1.2.
 abonento ar registruoto elektroninių ryšių paslaugų naudotojo vardas ir pavardė
 (pavadinimas) bei adresas;
@@ -4709,16 +4636,16 @@ ir laikas bei vietovės, kurioje paslauga buvo aktyvuota, žyma (Cell ID);
 5.3.
 susiję su interneto prieiga, internetu perduodamu elektroniniu paštu ir
 internetine telefonija: 
-5.3.1. telefono,
-iš kurio skambinama, ryšio numeris, naudojamas tiesioginio rinkimo interneto
-ryšiui; 
+5.3.1.
+telefono, iš kurio skambinama, ryšio numeris, naudojamas tiesioginio rinkimo
+interneto ryšiui; 
 5.3.2.
 skaitmeninė abonento linija (DSL) ar kiti pranešimo siuntėjo galiniai tinklo
 taškai.
 6.
 Duomenys, būtini judriojo ryšio įrangos vietai nustatyti:
-6.1. vietovės
-žyma (Cell ID) ryšio pradžioje;
+6.1.
+vietovės žyma (Cell ID) ryšio pradžioje;
 6.2.
 duomenys, reikalingi nustatyti geografinę tinklo įrangos vietą, atitinkančią
 vietovės žymą (Cell ID), tuo momentu, kai ryšio duomenys buvo išsaugoti.
@@ -4774,19 +4701,31 @@ tomas, p. 514) su paskutiniais pakeitimais, padarytais 2009 m. lapkričio 25 d. 
 11. 2002 m. rugsėjo 16 d. Komisijos direktyva 2002/77/EB dėl konkurencijos elektroninių ryšių tinklų ir
 paslaugų rinkoje (OL 2004 m. specialusis leidimas, 8 skyrius, 2 tomas,
 p. 178). 
-12. 2003 m. liepos 25 d. Europos Komisijos rekomendacija dėl vietos nustatymo informacijos elektroninių
-ryšių tinkluose siekiant teikti vietos nustatymu pagrįstas pagalbos skambučių
+12. 2003 m. liepos 25 d. Europos Komisijos rekomendacija dėl vietos nustatymo informacijos elektroninių ryšių
+tinkluose siekiant teikti vietos nustatymu pagrįstas pagalbos skambučių
 paslaugas tvarkymo.
-13. 2004 m. gruodžio 15 d. Europos Parlamento ir Tarybos direktyva 2004/108/EB dėl valstybių narių
+13. 2004 m. spalio 27 d. Europos
+Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 dėl nacionalinių
+institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą,
+bendradarbiavimo (OL 2004 L 364, p. 1).
+14. 2004 m. gruodžio 15 d. Europos Parlamento ir Tarybos direktyva 2004/108/EB dėl valstybių narių
 įstatymų, susijusių su elektromagnetiniu suderinamumu, suderinimo, panaikinanti
 Direktyvą 89/336/EEB (OL 2004 L 390, p. 24).
-14. 2008 m. birželio 20 d. Europos Komisijos direktyva 2008/63/EB dėl konkurencijos telekomunikacijų
+15. 2008 m. birželio 20 d. Europos Komisijos direktyva 2008/63/EB dėl konkurencijos telekomunikacijų
 galinių įrenginių rinkose (OL 2008 L 162, p. 20).
+16. 2013 m. birželio 24 d.
+Komisijos reglamentas (ES) Nr. 611/2013 dėl priemonių, kurios pagal Europos
+Parlamento ir Tarybos direktyvą 2002/58/EB dėl privatumo ir elektroninių ryšių
+taikomos pranešimams apie asmens duomenų saugumo pažeidimus (OL 2013 L 173,
+p. 2).
 Priedo pakeitimai:
 Nr. X-1835,
 2008-11-14, Žin., 2008, Nr. 137-5383 (2008-11-29)
 Nr. XI-1552,
 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
+Nr.
+XII-579,
+2013-11-07, Žin., 2013, Nr. 120-6051 (2013-11-23)
  
  
 Pakeitimai:
@@ -4890,11 +4829,20 @@ RYŠIŲ ĮSTATYMO 10, 11 IR 12 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja 2014 m. sausio 1 d.
  
+9.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XII-579,
+2013-11-07, Žin., 2013, Nr. 120-6051 (2013-11-23)
+ELEKTRONINIŲ
+RYŠIŲ ĮSTATYMO 12, 62 STRAIPSNIŲ IR 2 PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2012-11-16)
+Aušrinė Trapinskienė (2013-11-25)
                  
 ausrine.trapinskiene@lrs.lt
