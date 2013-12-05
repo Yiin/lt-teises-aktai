@@ -55,13 +55,14 @@ piniginiai ištekliai būtų naudojami efektyviai.
 3. Įstatymo
 nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio Įstatymo
 priede.
-Pastaba.
-Šis straipsnis taikomas
+Pastaba. Šis
+straipsnis taikomas
 rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir
 vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
-2012 metų valstybės biudžeto ir
-savivaldybių biudžetų vykdymui, vertinimui ir atsiskaitymui taikomos iki šio
-įstatymo (Nr. XI-2274)
+2012
+metų valstybės biudžeto ir savivaldybių biudžetų vykdymui, vertinimui ir
+atsiskaitymui taikomos iki šio įstatymo (Nr.
+XI-2274)
 įsigaliojimo galiojusių teisės aktų nuostatos. 2013 metų valstybės biudžeto ir
 savivaldybių biudžetų rengimui, tvirtinimui, vykdymui, vertinimui ir
 atsiskaitymui taikomos iki šio įstatymo  (Nr. XI-2274)
@@ -193,13 +194,14 @@ Respublikos fiskalinės drausmės įstatyme (toliau – Fiskalinės drausmės
 įstatymas), Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme
 (toliau – Viešojo sektoriaus atskaitomybės įstatymas) ir Lietuvos Respublikos
 valstybės skolos įstatyme (toliau – Valstybės skolos įstatymas).
-Pastaba.
-Šis straipsnis taikomas
+Pastaba. Šis
+straipsnis taikomas
 rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir
 vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus. 
-2012 metų valstybės biudžeto ir
-savivaldybių biudžetų vykdymui, vertinimui ir atsiskaitymui taikomos iki šio
-įstatymo (Nr. XI-2274)
+2012
+metų valstybės biudžeto ir savivaldybių biudžetų vykdymui, vertinimui ir
+atsiskaitymui taikomos iki šio įstatymo (Nr.
+XI-2274)
 įsigaliojimo galiojusių teisės aktų nuostatos. 2013 metų valstybės biudžeto ir
 savivaldybių biudžetų rengimui, tvirtinimui, vykdymui, vertinimui ir
 atsiskaitymui taikomos iki šio įstatymo  (Nr. XI-2274)
@@ -235,13 +237,14 @@ Garantinį fondą, savivaldybių privatizavimo fondus.
 savivaldybių biudžetų konsoliduotos visumos (neįskaitant savivaldybių biudžetams
 skirtų valstybės biudžeto asignavimų) planuojamus rodiklius – pajamas ir
 asignavimus.
-Pastaba.
-Šis straipsnis taikomas
+Pastaba. Šis
+straipsnis taikomas
 rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir
 vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
-2012 metų valstybės biudžeto ir
-savivaldybių biudžetų vykdymui, vertinimui ir atsiskaitymui taikomos iki šio
-įstatymo (Nr. XI-2274)
+2012
+metų valstybės biudžeto ir savivaldybių biudžetų vykdymui, vertinimui ir
+atsiskaitymui taikomos iki šio įstatymo (Nr.
+XI-2274)
 įsigaliojimo galiojusių teisės aktų nuostatos. 2013 metų valstybės biudžeto ir
 savivaldybių biudžetų rengimui, tvirtinimui, vykdymui, vertinimui ir
 atsiskaitymui taikomos iki šio įstatymo (Nr.
@@ -284,12 +287,17 @@ Prezidentas, Seimas, Vyriausybė;
 4)
 valstybinis universitetas, valstybinis mokslinių tyrimų institutas arba kunigų
 seminarija;
-5) Lietuvos nacionalinis operos ir baleto teatras, Lietuvos
-nacionalinis dramos teatras, Lietuvos nacionalinė filharmonija, Lietuvos
+5) Lietuvos
+nacionalinis operos ir baleto teatras, Lietuvos nacionalinis dramos teatras,
+Nacionalinis Kauno dramos teatras, Lietuvos nacionalinė filharmonija, Lietuvos
 nacionalinis muziejus, Lietuvos dailės muziejus, Nacionalinis M. K. Čiurlionio
-dailės muziejus, Nacionalinis
-muziejus Lietuvos Didžiosios Kunigaikštystės valdovų rūmai, Lietuvos nacionalinė Martyno Mažvydo biblioteka, Lietuvos
+dailės muziejus, Nacionalinis muziejus Lietuvos Didžiosios Kunigaikštystės
+valdovų rūmai, Lietuvos nacionalinė Martyno Mažvydo biblioteka, Lietuvos
 nacionalinis radijas ir televizija.
+Pastaba. 5 punkto nuostatos taikomos
+rengiant Lietuvos Respublikos 2014 metų valstybės biudžeto ir savivaldybių
+biudžetų finansinių rodiklių patvirtinimo įstatymo projektą (įstatymas Nr. XII-609).
+ 
 4. Biudžetinės
 įstaigos, kurios neatitinka šio straipsnio 3 dalyje nustatytų sąlygų, biudžeto
 lėšas gali gauti iš asignavimų valdytojui, kuris įgyvendina tos įstaigos
@@ -308,6 +316,8 @@ Nr. XI-1557,
 2011-06-28, Žin., 2011, Nr. 86-4176 (2011-07-13)
 Nr. XII-164,
 2013-01-17, Žin., 2013, Nr. 11-508 (2013-01-30)
+Nr. XII-609,
+2013-11-21, Žin., 2013, Nr. 124-6285 (2013-12-05)
  
 5
 straipsnis. Asignavimų valdytojų ir ministrų valdymo sričių įstaigų, vykdančių 
@@ -340,8 +350,8 @@ atskaitomybės įstatymą teikiamų ataskaitų rinkinių analizę;
 6) užtikrinti
 pagal Viešojo sektoriaus atskaitomybės įstatymą teikiamų ataskaitų rinkinių ir
 statistinių ataskaitų teisingumą ir pateikimą laiku;
-7) užtikrinti programų vykdymo
-ir paskirtų asignavimų naudojimo teisėtumą, ekonomiškumą, efektyvumą ir
+7) užtikrinti programų
+vykdymo ir paskirtų asignavimų naudojimo teisėtumą, ekonomiškumą, efektyvumą ir
 rezultatyvumą.
 2. Ministrų
 valdymo sričių įstaigų, vykdančių atitinkamo asignavimų valdytojo programas ir
@@ -353,8 +363,8 @@ pavaldžioms biudžetinėms
 2) organizuoti iš biudžeto finansuojamų programų rengimą ir vykdymą;
 3) nustatyti ir tvirtinti pavaldžių biudžetinių įstaigų programų sąmatas
 pagal ekonominės klasifikacijos straipsnius, neviršydami šioms programoms
-asignavimų valdytojo skirtų bendrųjų asignavimų, tarp jų – išlaidoms, iš jų – darbo užmokesčiui, ir turtui įsigyti,
-sumų;
+asignavimų valdytojo skirtų bendrųjų asignavimų, tarp jų – išlaidoms, iš jų – darbo užmokesčiui, ir turtui
+įsigyti, sumų;
 4) Viešojo
 sektoriaus atskaitomybės įstatymo nustatyta tvarka ir terminais teikti
 ataskaitų rinkinius asignavimų valdytojui;
@@ -366,14 +376,14 @@ atskaitomybės įstatymą teikiamų ataskaitų rinkinių analizę;
 pagal Viešojo sektoriaus atskaitomybės įstatymą teikiamų ataskaitų rinkinių ir
 statistinių ataskaitų teisingumą ir pateikimą laiku asignavimų valdytojui;
 7) užtikrinti programų
-vykdymo ir programoms vykdyti skirtų lėšų naudojimo teisėtumą, ekonomiškumą,
-efektyvumą ir rezultatyvumą.
+vykdymo ir programoms vykdyti skirtų lėšų naudojimo teisėtumą, ekonomiškumą, efektyvumą
+ir rezultatyvumą.
 Straipsnio pakeitimai:
 Nr.
 X-1218,
 2007-06-26, Žin., 2007, Nr. 77-3050 (2007-07-12)
-Nr. X-1354,
-2007-12-06, Žin., 2007, Nr. 132-5357 (2007-12-15)
+Nr. X-1354, 2007-12-06,
+Žin., 2007, Nr. 132-5357 (2007-12-15)
 Nr. X-1826,
 2008-11-14, Žin., 2008, Nr. 137-5375 (2008-11-29)
 Nr. XI-1209,
@@ -389,16 +399,16 @@ klasifikaciją paskirtį (valstybės biudžeto asignavimų valdytojas Vyriausyb�
 nustatyta tvarka praneša apie tai Finansų ministerijai, o savivaldybės biudžeto
 asignavimų valdytojas – savivaldybės administracijai jos nustatyta tvarka),
 neviršydamas patvirtintų tam tikrai programai bendrųjų asignavimų išlaidoms, iš
-jų – darbo užmokesčiui, sumų. Asignavimų sumos išlaidoms, iš jų – darbo
-užmokesčiui, yra maksimalios ir jų ekonomija, jeigu nėra įsiskolinimų, gali
-būti naudojama turtui įsigyti ir investicijų projektams, kuriems numatyta
-skirti lėšų atitinkamų metų valstybės investicijų programoje arba savivaldybių
-biudžetuose, papildomai finansuoti;
+jų – darbo užmokesčiui, sumų. Asignavimų sumos išlaidoms, iš jų – darbo užmokesčiui,
+yra maksimalios ir jų ekonomija, jeigu nėra įsiskolinimų, gali būti naudojama
+turtui įsigyti ir investicijų projektams, kuriems numatyta skirti lėšų
+atitinkamų metų valstybės investicijų programoje arba savivaldybių biudžetuose,
+papildomai finansuoti;
 2) biudžetiniais metais vieną
 kartą per ketvirtį keisti bendros asignavimų sumos ketvirtinį paskirstymą
 programai vykdyti, suderinęs su Finansų ministerija (valstybės biudžeto
-asignavimų valdytojas) arba su savivaldybės administracija (savivaldybės
-biudžeto asignavimų valdytojas);
+asignavimų valdytojas) arba su savivaldybės administracija (savivaldybės biudžeto
+asignavimų valdytojas);
 3) sudarydamas programų ir programų
 sąmatų projektus, teikti programų bei jų sąmatų alternatyvas (valstybės
 biudžeto asignavimų valdytojas – Finansų ministerijai, o savivaldybės biudžeto
@@ -413,15 +423,14 @@ ministrų valdymo sričių įstaigų, vykdančių atitinkamo asignavimų valdyto
 programas ir turinčių pavaldžių biudžetinių įstaigų, vadovams šio straipsnio
 1–4 punktuose nustatytas teises ir apie tai pranešti Finansų ministerijai.
 Straipsnio pakeitimai:
-Nr. XI-1209, 2010-12-09,
-Žin., 2010, Nr. 153-7781 (2010-12-28)
+Nr. XI-1209,
+2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
  
 7 straipsnis. Asignavimų valdytojų atsakomybė
 Biudžeto
 asignavimų valdytojai ir jiems pavaldžių biudžetinių įstaigų, ministrų valdymo
 sričių įstaigoms, vykdančioms atitinkamo asignavimų valdytojo programas, pavaldžių
-biudžetinių įstaigų ir kitų subjektų vadovai įstatymų nustatyta tvarka atsako
-už:
+biudžetinių įstaigų ir kitų subjektų vadovai įstatymų nustatyta tvarka atsako už:
 1) programų vykdymą, programų sąmatų sudarymą ir vykdymą neviršijant
 patvirtintų asignavimų sumų (atsižvelgiant į šio Įstatymo 6 straipsnio 5
 punktą), už paskirtų asignavimų efektyvų, atitinkantį programoje nustatytus
@@ -460,21 +469,22 @@ sprendimai dėl atitinkamų biudžetinių metų savivaldybių biudžetų patvirt
 asignavimų valdytojams pavaldžių biudžetinių įstaigų ir kitų subjektų
 asignavimų panaudojimo teisinis pagrindas yra asignavimų valdytojų patvirtintos
 šių įstaigų programų sąmatos.
-4. Ministrų valdymo sričių įstaigų, vykdančių atitinkamo asignavimų
-valdytojo programas, vadovų patvirtintos
-jiems pavaldžių biudžetinių įstaigų programų sąmatos yra šioms įstaigoms skirtų
-lėšų panaudojimo teisinis pagrindas.
+4. Ministrų valdymo sričių įstaigų, vykdančių atitinkamo asignavimų valdytojo
+programas, vadovų patvirtintos jiems
+pavaldžių biudžetinių įstaigų programų sąmatos yra šioms įstaigoms skirtų lėšų
+panaudojimo teisinis pagrindas.
 5. Valstybės
 biudžeto ir savivaldybės biudžeto sudarymo ir vykdymo metodikos klausimus tiek,
 kiek jų nenustato įstatymai ir Vyriausybės nutarimai, nustato Finansų
 ministerija.
-Pastaba.
-Ši dalis taikoma
+Pastaba. Ši
+dalis taikoma
 rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir
 vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
-2012 metų valstybės biudžeto ir
-savivaldybių biudžetų vykdymui, vertinimui ir atsiskaitymui taikomos iki šio
-įstatymo (Nr. XI-2274)
+2012
+metų valstybės biudžeto ir savivaldybių biudžetų vykdymui, vertinimui ir
+atsiskaitymui taikomos iki šio įstatymo (Nr.
+XI-2274)
 įsigaliojimo galiojusių teisės aktų nuostatos. 2013 metų valstybės biudžeto ir
 savivaldybių biudžetų rengimui, tvirtinimui, vykdymui, vertinimui ir
 atsiskaitymui taikomos iki šio įstatymo (Nr.
@@ -523,13 +533,14 @@ atšaukimo savivaldybės negali disponuoti savo lėšomis ir dėl to trūksta ap
 4. Biudžetinės
 įstaigos savo vardu negali skolintis lėšų, prisiimti jokių skolinių
 įsipareigojimų.
-Pastaba.
-Šis straipsnis taikomas
-rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir vėlesnių
-metų valstybės biudžetą ir savivaldybių biudžetus.
-2012 metų valstybės biudžeto ir
-savivaldybių biudžetų vykdymui, vertinimui ir atsiskaitymui taikomos iki šio
-įstatymo (Nr. XI-2274)
+Pastaba. Šis
+straipsnis taikomas
+rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir
+vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
+2012
+metų valstybės biudžeto ir savivaldybių biudžetų vykdymui, vertinimui ir
+atsiskaitymui taikomos iki šio įstatymo (Nr.
+XI-2274)
 įsigaliojimo galiojusių teisės aktų nuostatos. 2013 metų valstybės biudžeto ir
 savivaldybių biudžetų rengimui, tvirtinimui, vykdymui, vertinimui ir
 atsiskaitymui taikomos iki šio įstatymo (Nr.
@@ -551,8 +562,8 @@ nustatyta tvarka yra valstybės paslaptis.
 apie patvirtintą valstybės biudžetą, jo pajamas ir asignavimus, jų vykdymą
 skelbiama oficialiame leidinyje „Valstybės žinios“ ir Finansų ministerijos
 interneto tinklalapyje.
-2
-dalies redakcija nuo2014-01-01:
+Dalies
+redakcija nuo2014-01-01:
 2. Informacija
 apie patvirtintą valstybės biudžetą, jo pajamas ir asignavimus, jų vykdymą
 skelbiama Finansų ministerijos interneto svetainėje.
@@ -592,8 +603,8 @@ kitus teisės aktus;
 valstybės turto (išskyrus pajamas, gaunamas pagal Valstybės ir savivaldybių
 turto privatizavimo įstatymą ir Valstybės ir savivaldybių turto valdymo,
 naudojimo ir disponavimo juo įstatymo 16(1) straipsnyje nustatytą
-valstybės nekilnojamojo turto atnaujinimo organizatoriaus parduotą nekilnojamąjį
-turtą, įskaitant žemę);
+valstybės nekilnojamojo turto atnaujinimo organizatoriaus parduotą
+nekilnojamąjį turtą, įskaitant žemę);
 3) valstybės biudžetinių įstaigų pajamos;
 4) negrąžintina finansinė parama (piniginės lėšos);
 5) dotacijos;
@@ -639,14 +650,13 @@ lėšų.
 valstybės biudžetą arba savivaldybės biudžetą einamaisiais biudžetiniais metais
 paliekamos asignavimų valdytojams ir gali būti naudojamos programoms finansuoti
 viršijant Seimo patvirtintas bendras asignavimų sumas.
-Pastaba.
-Šis straipsnis taikomas
+Pastaba. Šis
+straipsnis taikomas
 rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir
 vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
-2012
-metų valstybės biudžeto ir savivaldybių biudžetų vykdymui, vertinimui ir
-atsiskaitymui taikomos iki šio įstatymo (Nr.
-XI-2274) įsigaliojimo galiojusių teisės
+2012 metų valstybės biudžeto ir
+savivaldybių biudžetų vykdymui, vertinimui ir atsiskaitymui taikomos iki šio
+įstatymo (Nr. XI-2274) įsigaliojimo galiojusių teisės
 aktų nuostatos. 2013 metų valstybės biudžeto ir savivaldybių biudžetų rengimui,
 tvirtinimui, vykdymui, vertinimui ir atsiskaitymui taikomos iki šio įstatymo (Nr. XI-2274) įsigaliojimo galiojusių teisės
 aktų nuostatos, išskyrus šio įstatymo 12 straipsnį.
@@ -681,19 +691,18 @@ pagalbai teikti.
 3. Vyriausybės rezervo lėšų skyrimo ir naudojimo tvarką nustato
 Vyriausybė.
 Straipsnio pakeitimai:
-Nr. XI-1209, 2010-12-09,
-Žin., 2010, Nr. 153-7781 (2010-12-28)
+Nr. XI-1209,
+2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
  
 16 straipsnis. Neteko
 galios nuo 2012-10-31.
-Pastaba.
-Šis straipsnis taikomas
+Pastaba. Šis
+straipsnis taikomas
 rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir
 vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
-2012
-metų valstybės biudžeto ir savivaldybių biudžetų vykdymui, vertinimui ir
-atsiskaitymui taikomos iki šio įstatymo (Nr.
-XI-2274) įsigaliojimo galiojusių teisės
+2012 metų valstybės biudžeto ir
+savivaldybių biudžetų vykdymui, vertinimui ir atsiskaitymui taikomos iki šio
+įstatymo (Nr. XI-2274) įsigaliojimo galiojusių teisės
 aktų nuostatos. 2013 metų valstybės biudžeto ir savivaldybių biudžetų rengimui,
 tvirtinimui, vykdymui, vertinimui ir atsiskaitymui taikomos iki šio įstatymo (Nr. XI-2274) įsigaliojimo galiojusių teisės
 aktų nuostatos, išskyrus šio įstatymo 12 straipsnį.
@@ -739,13 +748,14 @@ laikotarpio poveikis kainų stabilumui, Lietuvos mokėjimų balanso einamosios
 sąskaitos tvarumui, palūkanų priedams už riziką, užimtumui, ateities mokesčių didinimo rizikai ir perspektyvai vidutiniu
 laikotarpiu siekti perteklinio
 valdžios sektoriaus.
-Pastaba.
-Šis straipsnis taikomas
+Pastaba. Šis
+straipsnis taikomas
 rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir
 vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
-2012 metų valstybės biudžeto ir
-savivaldybių biudžetų vykdymui, vertinimui ir atsiskaitymui taikomos iki šio
-įstatymo (Nr. XI-2274)
+2012
+metų valstybės biudžeto ir savivaldybių biudžetų vykdymui, vertinimui ir
+atsiskaitymui taikomos iki šio įstatymo (Nr.
+XI-2274)
 įsigaliojimo galiojusių teisės aktų nuostatos. 2013 metų valstybės biudžeto ir
 savivaldybių biudžetų rengimui, tvirtinimui, vykdymui, vertinimui ir
 atsiskaitymui taikomos iki šio įstatymo (Nr.
@@ -763,8 +773,8 @@ Nr. XI-2274,
  
 18
 straipsnis. Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir
-savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projekto pateikimas
-Seimui
+savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projekto
+pateikimas Seimui
 1. Vyriausybė
 Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų
 finansinių rodiklių patvirtinimo įstatymo projektą pateikia Seimui ne vėliau
@@ -803,18 +813,18 @@ laikotarpio užduotys;
 piniginių išteklių suma, planuojama skirti apyvartinėms lėšoms padidinti, kai
 toks didinimas planuojamas biudžetinių metų pabaigoje, ir aplinkybės bei
 išlygos, leidžiančios nukrypti nuo plano.
-3. Lietuvos
-Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų
-finansinių rodiklių patvirtinimo įstatymo projekte gali būti pateikiamos
-nuostatos, apribojančios teisę prisiimti įsipareigojimus naudoti biudžeto
-lėšas.
-Pastaba.
-Šis straipsnis taikomas
-rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir
-vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
-2012 metų valstybės biudžeto ir
-savivaldybių biudžetų vykdymui, vertinimui ir atsiskaitymui taikomos iki šio
-įstatymo (Nr. XI-2274)
+3. Lietuvos Respublikos
+tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
+patvirtinimo įstatymo projekte gali būti pateikiamos nuostatos, apribojančios
+teisę prisiimti įsipareigojimus naudoti biudžeto lėšas.
+Pastaba. Šis
+straipsnis taikomas rengiant,
+tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir vėlesnių metų
+valstybės biudžetą ir savivaldybių biudžetus.
+2012
+metų valstybės biudžeto ir savivaldybių biudžetų vykdymui, vertinimui ir
+atsiskaitymui taikomos iki šio įstatymo (Nr.
+XI-2274)
 įsigaliojimo galiojusių teisės aktų nuostatos. 2013 metų valstybės biudžeto ir
 savivaldybių biudžetų rengimui, tvirtinimui, vykdymui, vertinimui ir
 atsiskaitymui taikomos iki šio įstatymo (Nr.
@@ -827,32 +837,32 @@ X-1428,
 2008-01-18, Žin., 2008, Nr. 15-511 (2008-02-05)
 Nr. XI-1209,
 2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
-Nr. XI-2274,
-2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
+Nr. XI-2274, 2012-10-16,
+Žin., 2012, Nr. 126-6323 (2012-10-31)
  
 19 straipsnis. Dokumentai, teikiami Seimui su Lietuvos
 Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų
 finansinių rodiklių patvirtinimo įstatymo projektu
-1. Vyriausybė su Lietuvos
-Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų
-finansinių rodiklių patvirtinimo įstatymo projektu Seimui teikia:
+1. Vyriausybė su Lietuvos Respublikos
+tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
+patvirtinimo įstatymo projektu Seimui teikia:
 1) Lietuvos
 Respublikos tam tikrų metų valstybės
-biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo
-įstatymo projekto aiškinamąjį raštą, kuriame
-taip pat skelbiama išsami informacija apie mokesčių išlaidų poveikį
-pajamoms ir apie lėšas, kurios pagal šio Įstatymo 14 straipsnio 2 ir (arba) 3
-dalis planuojamos perkelti iš kitų biudžetinių metų, kai jos paliekamos
-asignavimų valdytojui naudoti viršijant Seimo patvirtintas bendras asignavimų
-sumas. Pateikiamos visų pagrindinių valdžios sektoriaus išlaidų ir pajamų
-straipsnių projekcijos, patikslinant centrinės valdžios ir socialinės apsaugos
-lygio dalis, apimančios biudžetinius metus bei trejų būsimųjų metų laikotarpį
-ir grindžiamos prielaida, kad ekonomikos politika nesikeis; numatytos vidutinės
-trukmės ekonomikos politikos, darančios poveikį valdžios sektoriaus finansams,
-išskaidytiems pagal pagrindinius pajamų ir išlaidų straipsnius, apibūdinimas
-parodant, kaip užtikrinamas valdžios sektoriaus balanso rodiklio koregavimas
-siekiant vidutinės trukmės biudžeto tikslų, palyginti su projekcijomis,
-grindžiamomis prielaida, kad ekonomikos politika nesikeis;
+biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo
+projekto aiškinamąjį raštą, kuriame taip pat
+skelbiama išsami informacija apie mokesčių išlaidų poveikį pajamoms ir
+apie lėšas, kurios pagal šio Įstatymo 14 straipsnio 2 ir (arba) 3 dalis
+planuojamos perkelti iš kitų biudžetinių metų, kai jos paliekamos asignavimų
+valdytojui naudoti viršijant Seimo patvirtintas bendras asignavimų sumas. Pateikiamos
+visų pagrindinių valdžios sektoriaus išlaidų ir pajamų straipsnių projekcijos,
+patikslinant centrinės valdžios ir socialinės apsaugos lygio dalis, apimančios
+biudžetinius metus bei trejų būsimųjų metų laikotarpį ir grindžiamos prielaida,
+kad ekonomikos politika nesikeis; numatytos vidutinės trukmės ekonomikos
+politikos, darančios poveikį valdžios sektoriaus finansams, išskaidytiems pagal
+pagrindinius pajamų ir išlaidų straipsnius, apibūdinimas parodant, kaip
+užtikrinamas valdžios sektoriaus balanso rodiklio koregavimas siekiant
+vidutinės trukmės biudžeto tikslų, palyginti su projekcijomis, grindžiamomis
+prielaida, kad ekonomikos politika nesikeis;
 2) Vyriausybės tvirtinamo valstybės biudžeto asignavimų paskirstymo
 pagal programas projektą;
 3) duomenis apie planuojamą bendrą Vyriausybės skolinimosi valstybės
@@ -860,15 +870,15 @@ vardu poreikį vidaus ir užsienio rinkose;
 4) informaciją
 apie asignavimų valdytojų strateginiuose veiklos planuose pateiktus vertinimo kriterijus;
 5) išaiškinimą,
-kaip nauji ekonomikos politikos prioritetai atsispindi pokyčiuose, kai nukrypstama nuo Seimo patvirtintų pagrindinių
-trejų biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų finansinių
-rodiklių;
+kaip nauji ekonomikos politikos prioritetai atsispindi pokyčiuose, kai nukrypstama nuo Seimo patvirtintų
+pagrindinių trejų biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų
+finansinių rodiklių;
 6)
 kituose įstatymuose ir kituose teisės aktuose nustatytus dokumentus.
 2. Vyriausybė,
-pateikusi Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių
-biudžetų finansinių rodiklių patvirtinimo įstatymo projektą, ne vėliau kaip per
-10 darbo dienų Seimui teikia:
+pateikusi Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir
+savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą, ne
+vėliau kaip per 10 darbo dienų Seimui teikia:
 1) Europos
 Sąjungos Tarybos naujausią paskelbtą nuomonę apie tam tikrų metų Lietuvos konvergencijos arba Stabilumo programą
 ir, jeigu taikoma perviršinio deficito procedūra, – aktualias Europos Sąjungos
@@ -921,14 +931,13 @@ teikia išvadas dėl valdžios sektoriaus balanso rodiklio kasmetinio pagerėjim
 užduočių įvykdymo poveikio pasitikėjimui finansų sistemos stabilumu ir kainų
 stabilumui, atkreipdamas išskirtinį dėmesį į išorinį
 ūkio subalansuotumą ir ilgalaikį valdžios sektoriaus finansų tvarumą.
-Pastaba.
-Šis straipsnis taikomas
+Pastaba. Šis
+straipsnis taikomas
 rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir
 vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
-2012
-metų valstybės biudžeto ir savivaldybių biudžetų vykdymui, vertinimui ir
-atsiskaitymui taikomos iki šio įstatymo (Nr.
-XI-2274) įsigaliojimo galiojusių teisės
+2012 metų valstybės biudžeto ir
+savivaldybių biudžetų vykdymui, vertinimui ir atsiskaitymui taikomos iki šio
+įstatymo (Nr. XI-2274) įsigaliojimo galiojusių teisės
 aktų nuostatos. 2013 metų valstybės biudžeto ir savivaldybių biudžetų rengimui,
 tvirtinimui, vykdymui, vertinimui ir atsiskaitymui taikomos iki šio įstatymo (Nr. XI-2274) įsigaliojimo galiojusių teisės
 aktų nuostatos, išskyrus šio įstatymo 12 straipsnį.
@@ -965,13 +974,14 @@ bendrojo finansavimo bei kitos gaunamos tarptautinės finansinės paramos lėšo
 biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymą
 arba jo pakeitimo įstatymą, įvertina paskutines galiojančias Europos Sąjungos
 Tarybos rekomendacijas ir nuomonę dėl Lietuvos konvergencijos programos.
-Pastaba.
-4, 5 ir 6 dalys taikomos
+Pastaba. 4,
+5 ir 6 dalys taikomos
 rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir
 vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
-2012 metų valstybės biudžeto ir
-savivaldybių biudžetų vykdymui, vertinimui ir atsiskaitymui taikomos iki šio
-įstatymo (Nr. XI-2274)
+2012
+metų valstybės biudžeto ir savivaldybių biudžetų vykdymui, vertinimui ir
+atsiskaitymui taikomos iki šio įstatymo (Nr.
+XI-2274)
 įsigaliojimo galiojusių teisės aktų nuostatos. 2013 metų valstybės biudžeto ir
 savivaldybių biudžetų rengimui, tvirtinimui, vykdymui, vertinimui ir
 atsiskaitymui taikomos iki šio įstatymo (Nr.
@@ -982,8 +992,8 @@ pakeitimai:
 Nr. X-1354,
 2007-12-06, Žin., 2007, Nr. 132-5357 (2007-12-15)
 Nr.
-XI-67,
-2008-12-16, Žin., 2008, Nr. 146-5867 (2008-12-20)
+XI-67, 2008-12-16,
+Žin., 2008, Nr. 146-5867 (2008-12-20)
  
 TREČIASIS SKIRSNIS
 SAVIVALDYBIŲ BIUDŽETAI
@@ -1013,8 +1023,8 @@ Nr. XI-2274,
  
 22 straipsnis. Savivaldybių biudžetų pajamos
 1. Savivaldybių biudžetų pajamas sudaro: 
-1) pajamos iš mokesčių, gaunamos į savivaldybių biudžetus pagal įstatymus
-ir kitus teisės aktus;
+1) pajamos iš mokesčių, gaunamos į savivaldybių biudžetus pagal
+įstatymus ir kitus teisės aktus;
 2) pajamos iš savivaldybių turto (išskyrus pajamas, gaunamas pagal
 Valstybės ir savivaldybių turto privatizavimo įstatymą);
 3) savivaldybių biudžetinių įstaigų pajamos;
@@ -1043,13 +1053,14 @@ lėšų likučio, o kai jo nepakanka, – iš biudžeto pajamų.
 2. Savivaldybės
 biudžeto apyvartinės lėšos naudojamos
 savivaldybės tarybos nustatyta tvarka.
-Pastaba.
-Ši dalis taikoma
+Pastaba. Ši
+dalis taikoma
 rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir
 vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
-2012 metų valstybės biudžeto ir
-savivaldybių biudžetų vykdymui, vertinimui ir atsiskaitymui taikomos iki šio
-įstatymo (Nr. XI-2274)
+2012
+metų valstybės biudžeto ir savivaldybių biudžetų vykdymui, vertinimui ir
+atsiskaitymui taikomos iki šio įstatymo (Nr.
+XI-2274)
 įsigaliojimo galiojusių teisės aktų nuostatos. 2013 metų valstybės biudžeto ir
 savivaldybių biudžetų rengimui, tvirtinimui, vykdymui, vertinimui ir
 atsiskaitymui taikomos iki šio įstatymo (Nr.
@@ -1066,9 +1077,9 @@ rezervas
 1. Savivaldybės gali sudaryti savivaldybės administracijos direktoriaus
 rezervą, kuris turi būti ne didesnis kaip 1 procentas patvirtintų savivaldybės
 biudžeto asignavimų sumos. Konkretų savivaldybės administracijos direktoriaus
-rezervo dydį kasmet nustato savivaldybės taryba, tvirtindama atitinkamų metų
-savivaldybės biudžetą. Savivaldybės administracijos direktoriaus rezervo lėšas
-skirsto savivaldybės administracijos direktorius.
+rezervo dydį kasmet nustato savivaldybės taryba, tvirtindama atitinkamų metų savivaldybės
+biudžetą. Savivaldybės administracijos direktoriaus rezervo lėšas skirsto
+savivaldybės administracijos direktorius.
 2. Savivaldybės administracijos direktoriaus rezervo lėšos naudojamos
 tik ekstremaliosioms
 situacijoms ir (arba) ekstremaliesiems įvykiams likviduoti, jų padariniams
@@ -1085,13 +1096,13 @@ institucijos, remdamosi šiuo Įstatymu, kitais įstatymais, Seimo patvirtintais
 savivaldybių biudžetų finansiniais rodikliais, Vyriausybės patvirtintomis
 biudžetų sudarymo ir vykdymo taisyklėmis, valstybinės statistikos duomenimis,
 socialinėmis ir ekonominėmis programomis, taip pat savivaldybių biudžetų
-asignavimų valdytojų programomis ir jų sąmatų projektais.
+asignavimų valdytojų programomis ir jų sąmatų projektais. 
 Dalies
-redakcija nuo 2014-01-01:
+redakcija nuo 2014-10-01:
 1. Savivaldybių biudžetų projektus rengia savivaldybių vykdomosios
 institucijos, remdamosi šiuo Įstatymu, kitais įstatymais, Seimo patvirtintais
-savivaldybių biudžetų finansiniais rodikliais, Vyriausybės patvirtintomis
-biudžetų sudarymo ir vykdymo taisyklėmis, valstybinės statistikos duomenimis,
+savivaldybių biudžetų finansiniais rodikliais, Vyriausybės patvirtintomis biudžetų
+sudarymo ir vykdymo taisyklėmis, valstybinės statistikos duomenimis,
 patvirtintais savivaldybių
 strateginio planavimo dokumentais, taip pat
 savivaldybių biudžetų asignavimų valdytojų programomis ir jų sąmatų projektais.
@@ -1171,14 +1182,14 @@ Nr. XI-1209,
 Nr. XII-604,
 2013-11-19, Žin., 2013, Nr. 124-6283 (2013-12-05)
  
-29 straipsnis. Nepatvirtinto
-biudžeto vykdymas
+29 straipsnis.
+Nepatvirtinto biudžeto vykdymas
 Jeigu biudžetas laiku nepatvirtinamas, asignavimai metų pradžioje iki
 biudžetų patvirtinimo kiekvieną mėnesį negali viršyti 1/12 praėjusių metų šių
-biudžetų asignavimų. Šiuo atveju kiekvieno asignavimų valdytojo asignavimai kiekvieną
-mėnesį negali viršyti 1/12 praėjusių metų atitinkamo biudžeto šiam asignavimų
-valdytojui skirtų lėšų ir skiriamos tik tęstinei veiklai bei įstatymuose
-nustatytiems įsipareigojimams finansuoti (išskyrus programų asignavimų dalį,
+biudžetų asignavimų. Šiuo atveju kiekvieno asignavimų valdytojo asignavimai
+kiekvieną mėnesį negali viršyti 1/12 praėjusių metų atitinkamo biudžeto šiam
+asignavimų valdytojui skirtų lėšų ir skiriamos tik tęstinei veiklai bei
+įstatymuose nustatytiems įsipareigojimams finansuoti (išskyrus programų asignavimų dalį,
 kurią sudaro Europos Sąjungos finansinės paramos ir bendrojo
 finansavimo bei
 kitos gaunamos finansinės paramos lėšos) bei
@@ -1196,13 +1207,14 @@ valstybės biudžetą, gautos viršplaninės pajamos (atsižvelgiant į šio Įs
 ištekliams papildyti, leidžiant
 viršyti planuotą apyvartinių lėšų padidėjimo arba atitinkamai nevykdyti
 planuoto apyvartinių lėšų sumažėjimo sumą.
-Pastaba.
-Ši dalis taikoma
+Pastaba. Ši
+dalis taikoma
 rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir
 vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
-2012 metų valstybės biudžeto ir
-savivaldybių biudžetų vykdymui, vertinimui ir atsiskaitymui taikomos iki šio
-įstatymo (Nr. XI-2274)
+2012
+metų valstybės biudžeto ir savivaldybių biudžetų vykdymui, vertinimui ir
+atsiskaitymui taikomos iki šio įstatymo (Nr.
+XI-2274)
 įsigaliojimo galiojusių teisės aktų nuostatos. 2013 metų valstybės biudžeto ir
 savivaldybių biudžetų rengimui, tvirtinimui, vykdymui, vertinimui ir
 atsiskaitymui taikomos iki šio įstatymo (Nr.
@@ -1223,8 +1235,8 @@ Nr. XI-2274,
 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
  
 31 straipsnis.
-Biudžeto asignavimų skyrimas pajamų plano nevykdymo atveju iki priimant biudžeto
-įstatymo pakeitimą 
+Biudžeto asignavimų skyrimas pajamų plano nevykdymo atveju iki priimant biudžeto įstatymo
+pakeitimą 
 1. Jeigu nevykdomas valstybės
 biudžetas, tai yra gaunama mažiau pajamų, negu buvo numatyta, ir nepakanka laikinai
 laisvų valstybės piniginių išteklių, iki bus nustatyta tvarka priimtas
@@ -1235,13 +1247,14 @@ dalį, kurią sudaro Europos Sąjungos finansinės paramos ir bendrojo finansavi
 bei kitos gaunamos tarptautinės finansinės paramos lėšos). Ši nuostata
 netaikoma programų lėšoms, nurodytoms šio Įstatymo 2 straipsnio 16 dalies 1 ir
 2 punktuose, jeigu jos yra įmokėtos.
-Pastaba.
-Ši dalis taikoma
-rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir vėlesnių
-metų valstybės biudžetą ir savivaldybių biudžetus.
-2012 metų valstybės biudžeto ir
-savivaldybių biudžetų vykdymui, vertinimui ir atsiskaitymui taikomos iki šio
-įstatymo (Nr. XI-2274)
+Pastaba. Ši
+dalis taikoma
+rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir
+vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
+2012
+metų valstybės biudžeto ir savivaldybių biudžetų vykdymui, vertinimui ir
+atsiskaitymui taikomos iki šio įstatymo (Nr.
+XI-2274)
 įsigaliojimo galiojusių teisės aktų nuostatos. 2013 metų valstybės biudžeto ir
 savivaldybių biudžetų rengimui, tvirtinimui, vykdymui, vertinimui ir
 atsiskaitymui taikomos iki šio įstatymo (Nr.
@@ -1259,13 +1272,14 @@ pervedamos valstybės biudžeto arba savivaldybės biudžeto asignavimų sumos
 programoms finansuoti mažinamos faktiškai negautomis (palyginti su planu)
 pajamomis į valstybės biudžetą arba savivaldybės biudžetą, kurios nurodytos šio
 Įstatymo 2 straipsnio 16 dalies 1 ir 2 punktuose.
-Pastaba.
-Ši dalis taikoma
+Pastaba. Ši
+dalis taikoma
 rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir
 vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
-2012 metų valstybės biudžeto ir
-savivaldybių biudžetų vykdymui, vertinimui ir atsiskaitymui taikomos iki šio
-įstatymo (Nr. XI-2274)
+2012
+metų valstybės biudžeto ir savivaldybių biudžetų vykdymui, vertinimui ir
+atsiskaitymui taikomos iki šio įstatymo (Nr.
+XI-2274)
 įsigaliojimo galiojusių teisės aktų nuostatos. 2013 metų valstybės biudžeto ir
 savivaldybių biudžetų rengimui, tvirtinimui, vykdymui, vertinimui ir
 atsiskaitymui taikomos iki šio įstatymo (Nr.
@@ -1299,13 +1313,14 @@ valstybės iždo sąskaitą;
 biudžetų lėšas pervesdami iš savivaldybių biudžetų asignavimų valdytojų ir
 jiems pavaldžių biudžetinių įstaigų bei kitų subjektų disponuojamų sąskaitų į
 savivaldybių biudžetų sąskaitas.
-Pastaba.
-Ši dalis taikoma
+Pastaba. Ši
+dalis taikoma
 rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir
 vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
-2012 metų valstybės biudžeto ir
-savivaldybių biudžetų vykdymui, vertinimui ir atsiskaitymui taikomos iki šio
-įstatymo (Nr. XI-2274)
+2012
+metų valstybės biudžeto ir savivaldybių biudžetų vykdymui, vertinimui ir
+atsiskaitymui taikomos iki šio įstatymo (Nr.
+XI-2274)
 įsigaliojimo galiojusių teisės aktų nuostatos. 2013 metų valstybės biudžeto ir
 savivaldybių biudžetų rengimui, tvirtinimui, vykdymui, vertinimui ir
 atsiskaitymui taikomos iki šio įstatymo (Nr.
@@ -1321,14 +1336,14 @@ kredito įstaigose. Krašto apsaugos ministerijai paliekami trijų mėnesių iš
 dydžio pereinamieji lėšų likučiai, esantys tarptautinių operacijų karinio
 vieneto, dislokuoto užsienio valstybėje, sąskaitose užsienio kredito įstaigose
 ar pas atskaitingus asmenis.
-3. Metų pabaigoje likusios
-nepanaudotos tikslinės paskirties lėšos, nustatytos savivaldybių biudžetams
-priimant atitinkamų metų Valstybės biudžeto ir savivaldybių biudžetų finansinių
-rodiklių patvirtinimo įstatymą, lėšos, kurios per metus buvo paskirtos
-savivaldybių biudžetams pagal atskirus įstatymus ar Vyriausybės nutarimus arba
-panaudotos ne pagal savo tikslinę paskirtį, iki sausio 10 dienos grąžinamos į
-valstybės biudžetą – pervedamos iš savivaldybių biudžetų sąskaitų į Valstybės
-iždo sąskaitą, jeigu atitinkamų metų Valstybės biudžeto ir savivaldybių
+3. Metų pabaigoje likusios nepanaudotos
+tikslinės paskirties lėšos, nustatytos savivaldybių biudžetams priimant
+atitinkamų metų Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
+patvirtinimo įstatymą, lėšos, kurios per metus buvo paskirtos savivaldybių
+biudžetams pagal atskirus įstatymus ar Vyriausybės nutarimus arba panaudotos ne
+pagal savo tikslinę paskirtį, iki sausio 10 dienos grąžinamos į valstybės
+biudžetą – pervedamos iš savivaldybių biudžetų sąskaitų į Valstybės iždo
+sąskaitą, jeigu atitinkamų metų Valstybės biudžeto ir savivaldybių
 biudžetų finansinių rodiklių patvirtinimo įstatymu nenustatyta kitaip.
 4. Europos Sąjungos finansinės paramos ir bendrojo finansavimo lėšos
 gali būti panaudotos tik Europos Sąjungos finansinės paramos programoms ir
@@ -1337,13 +1352,14 @@ projektams finansuoti.
 biudžetiniais metais finansuojant programas, pirmiausia turi būti naudojamos
 įmokėtos į valstybės biudžetą ir savivaldybių biudžetus šio Įstatymo 2
 straipsnio 16 dalies 2 punkte nurodytos lėšos.
-Pastaba.
-Ši dalis taikoma
+Pastaba. Ši
+dalis taikoma
 rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir
 vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
-2012 metų valstybės biudžeto ir
-savivaldybių biudžetų vykdymui, vertinimui ir atsiskaitymui taikomos iki šio
-įstatymo (Nr. XI-2274)
+2012
+metų valstybės biudžeto ir savivaldybių biudžetų vykdymui, vertinimui ir
+atsiskaitymui taikomos iki šio įstatymo (Nr.
+XI-2274)
 įsigaliojimo galiojusių teisės aktų nuostatos. 2013 metų valstybės biudžeto ir
 savivaldybių biudžetų rengimui, tvirtinimui, vykdymui, vertinimui ir
 atsiskaitymui taikomos iki šio įstatymo (Nr.
@@ -1351,8 +1367,8 @@ XI-2274) įsigaliojimo
 galiojusių teisės aktų nuostatos, išskyrus šio įstatymo 12 straipsnį.
 Straipsnio
 pakeitimai:
-Nr. X-1354, 2007-12-06,
-Žin., 2007, Nr. 132-5357 (2007-12-15)
+Nr. X-1354,
+2007-12-06, Žin., 2007, Nr. 132-5357 (2007-12-15)
 Nr. XI-118,
 2008-12-23, Žin., 2008, Nr. 149-6038 (2008-12-30)
 Nr. XI-1209,
@@ -1370,22 +1386,24 @@ Europos Sąjungos ir Lietuvos Respublikos teisės aktais, reglamentuojančiais
 Europos Sąjungos finansinės paramos lėšų administravimą, bei atsižvelgdama į
 programų ir projektų vykdymo duomenis, perskirstyti Europos Sąjungos finansinės
 paramos programoms ir projektams numatytas lėšas, įskaitant ir bendrojo
-finansavimo lėšas, tarp asignavimų valdytojų, investavimo sričių, valstybės funkcijų
-ir ekonominės klasifikacijos straipsnių;
+finansavimo lėšas, tarp asignavimų valdytojų, investavimo sričių, valstybės
+funkcijų ir ekonominės klasifikacijos straipsnių;
 3) programų
 asignavimų dalies, kurią sudaro Europos Sąjungos finansinės paramos ir bendrojo
 finansavimo lėšos, laikinam lėšų stygiui panaikinti panaudoti laikinai laisvus
 valstybės piniginius išteklius;
-Pastaba.
-Šis punktas taikomas
+Pastaba. Šis
+punktas taikomas
 rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir
 vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
-2012 metų valstybės biudžeto ir
-savivaldybių biudžetų vykdymui, vertinimui ir atsiskaitymui taikomos iki šio
-įstatymo (Nr. XI-2274)
+2012
+metų valstybės biudžeto ir savivaldybių biudžetų vykdymui, vertinimui ir
+atsiskaitymui taikomos iki šio įstatymo (Nr.
+XI-2274)
 įsigaliojimo galiojusių teisės aktų nuostatos. 2013 metų valstybės biudžeto ir
-savivaldybių biudžetų rengimui, tvirtinimui, vykdymui, vertinimui ir atsiskaitymui
-taikomos iki šio įstatymo (Nr. XI-2274) įsigaliojimo
+savivaldybių biudžetų rengimui, tvirtinimui, vykdymui, vertinimui ir
+atsiskaitymui taikomos iki šio įstatymo (Nr.
+XI-2274) įsigaliojimo
 galiojusių teisės aktų nuostatos, išskyrus šio įstatymo 12 straipsnį.
  
 4) (neteko galios nuo 2011 m. sausio 1 d.);
@@ -1428,9 +1446,9 @@ savivaldybių biudžetų vykdymo ataskaitų rinkiniai, kuriems reikalavimus nust
 Viešojo sektoriaus atskaitomybės įstatymas, sudaromi atsižvelgiant į Lietuvos Respublikos tam tikrų metų valstybės biudžeto
 ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu patvirtintus
 rodiklius, panaudotas Vyriausybės rezervo lėšas ir savivaldybės administracijos
-direktoriaus rezervo lėšas, perkeltas viršplanines ir nepanaudotas įmokų į
-valstybės biudžetą arba savivaldybės biudžetą, nurodytų šio Įstatymo 2
-straipsnio 16 dalies 1 ir 2 punktuose, skirtų programoms finansuoti, sumas.
+direktoriaus rezervo lėšas, perkeltas viršplanines ir nepanaudotas įmokų į valstybės
+biudžetą arba savivaldybės biudžetą, nurodytų šio Įstatymo 2 straipsnio 16 dalies
+1 ir 2 punktuose, skirtų programoms finansuoti, sumas.
 2. Neįvykdžius
 valdžios sektoriaus balanso rodiklio kasmetinio pagerėjimo užduočių arba
 paaiškėjus, kad valdžios sektoriaus finansai nebuvo tvarkomi taip, kad
@@ -1454,13 +1472,14 @@ Vyriausybei teikia Finansų ministerija.
 7. Biudžeto
 finansuojamų įstaigų gaunama negrąžintina finansinė parama biudžetinių įstaigų
 apskaitoje registruojama atskiroje sąskaitoje.
-Pastaba.
-Šis straipsnis taikomas
+Pastaba. Šis
+straipsnis taikomas
 rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir
 vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
-2012 metų valstybės biudžeto ir
-savivaldybių biudžetų vykdymui, vertinimui ir atsiskaitymui taikomos iki šio
-įstatymo (Nr. XI-2274)
+2012
+metų valstybės biudžeto ir savivaldybių biudžetų vykdymui, vertinimui ir
+atsiskaitymui taikomos iki šio įstatymo (Nr.
+XI-2274)
 įsigaliojimo galiojusių teisės aktų nuostatos. 2013 metų valstybės biudžeto ir
 savivaldybių biudžetų rengimui, tvirtinimui, vykdymui, vertinimui ir
 atsiskaitymui taikomos iki šio įstatymo (Nr.
@@ -1510,12 +1529,14 @@ PENKTASIS SKIRSNIS
 BIUDŽETŲ
 VYKDYMO KONTROLĖ, BIUDŽETŲ VYKDYMO IR EKONOMINĖS RAIDOS SCENARIJAUS MODELIAVIMO
 VERTINIMAS
-Pastaba.
-Šis skirsnio pavadinimas taikomas
+Pastaba. Šis
+skirsnio pavadinimas taikomas
 rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir
 vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
-2012 metų valstybės biudžeto ir savivaldybių
-biudžetų vykdymui, vertinimui ir atsiskaitymui taikomos iki šio įstatymo (Nr. XI-2274)
+2012
+metų valstybės biudžeto ir savivaldybių biudžetų vykdymui, vertinimui ir
+atsiskaitymui taikomos iki šio įstatymo (Nr.
+XI-2274)
 įsigaliojimo galiojusių teisės aktų nuostatos. 2013 metų valstybės biudžeto ir
 savivaldybių biudžetų rengimui, tvirtinimui, vykdymui, vertinimui ir
 atsiskaitymui taikomos iki šio įstatymo (Nr.
@@ -1542,8 +1563,8 @@ savivaldybių biudžetų lėšų apskaitos ir savivaldybių konsoliduotųjų ata
 rinkinių auditą atlieka savivaldybių kontrolės ir audito tarnybos.
 4. Biudžeto asignavimų valdytojų ir jiems pavaldžių biudžetinių įstaigų
 ir kitų subjektų programų vykdymą vertina vidaus audito tarnybos, vadovaudamosi
-Vidaus kontrolės ir vidaus audito įstatymu (Žin., 2002, Nr. 123-5540) ir kitais
-vidaus auditą reglamentuojančiais teisės aktais.
+Vidaus kontrolės ir vidaus audito įstatymu (Žin., 2002, Nr. 123-5540) ir
+kitais vidaus auditą reglamentuojančiais teisės aktais.
 5.
 Ekonominės raidos scenarijaus ir biudžeto pajamų planų modeliavimą, remdamasi
 objektyviais kriterijais, įskaitant baigiamąjį vertinimą, vertina Finansų
@@ -1554,8 +1575,8 @@ ketverius metus iš eilės pasikartojančios paklaidos, darančios įtaką ekono
 raidos scenarijui ir susidarančios ne dėl prielaidų pasikeitimų ar modeliavimo
 metodų, Finansų ministerija imasi veiksmų šališkumui panaikinti ir apie juos
 viešai paskelbia.
-Pastaba.
-Ši dalis taikoma
+Pastaba. Ši
+dalis taikoma
 rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir
 vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
 Straipsnio pakeitimai:
@@ -1607,13 +1628,13 @@ tokių pačių priežasčių ateityje.
 teikiant Lietuvos Respublikos tam tikrų metų
 valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių
 patvirtinimo įstatymo projektą pateikiama informacija, kad mokesčių didinimo
-rizikos rodiklis per metus padidėjo daugiau negu 0,5 procentinio punkto, Ministras Pirmininkas kviečiamas Seime
-žodžiu paaiškinti mokesčių didinimo rizikos padidėjimo priežastis ir šios
-rizikos valdymo perspektyvas vidutiniu laikotarpiu.
+rizikos rodiklis per metus padidėjo daugiau negu 0,5 procentinio punkto, Ministras Pirmininkas kviečiamas Seime žodžiu
+paaiškinti mokesčių didinimo rizikos padidėjimo priežastis ir šios rizikos
+valdymo perspektyvas vidutiniu laikotarpiu.
  
 39 straipsnis. Valdžios sektoriaus balanso rodiklio
-kasmetinio pagerėjimo užduočių arba nuostatų dėl perteklinio ir subalansuoto
-valdžios sektoriaus vidutiniu laikotarpiu neįvykdymo pateisinimo priežastys
+kasmetinio pagerėjimo užduočių arba nuostatų dėl perteklinio ir subalansuoto valdžios
+sektoriaus vidutiniu laikotarpiu neįvykdymo pateisinimo priežastys
 Pateisinamomis
 priežastimis, kai neįvykdoma valdžios sektoriaus balanso rodiklio kasmetinio
 pagerėjimo užduotys arba nuostatos dėl perteklinio ir subalansuoto valdžios
@@ -1646,9 +1667,10 @@ Nr. I-430
  
  
  
-Pastaba. Priedas taikomas rengiant, tvirtinant,
-vykdant, vertinant ir atsiskaitant už 2014 metų ir vėlesnių metų valstybės
-biudžetą ir savivaldybių biudžetus.
+Pastaba. Priedas
+taikomas rengiant,
+tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir vėlesnių metų
+valstybės biudžetą ir savivaldybių biudžetus.
                                                                                                 Lietuvos
 Respublikos
                                                                                                 biudžeto
@@ -1824,8 +1846,8 @@ SANDAROS ĮSTATYMO 22 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 17.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. IX-1858,
-2003-11-27, Žin., 2003, Nr. 117-5321 (2003-12-17)
+Nr. IX-1858, 2003-11-27,
+Žin., 2003, Nr. 117-5321 (2003-12-17)
 BIUDŽETO
 SANDAROS ĮSTATYMO 32 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
@@ -2008,7 +2030,8 @@ metų valstybės biudžeto ir savivaldybių biudžetų vykdymui, vertinimui ir
 atsiskaitymui taikomos iki šio įstatymo įsigaliojimo galiojusių teisės aktų
 nuostatos. 2013 metų valstybės biudžeto ir savivaldybių biudžetų rengimui,
 tvirtinimui, vykdymui, vertinimui ir atsiskaitymui taikomos iki šio įstatymo
-įsigaliojimo galiojusių teisės aktų nuostatos, išskyrus šio įstatymo 12 straipsnį.
+įsigaliojimo galiojusių teisės aktų nuostatos, išskyrus šio įstatymo 12
+straipsnį.
  
 34.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2047,6 +2070,17 @@ BIUDŽETO SANDAROS ĮSTATYMO 28 STRAIPSNIO PAKEITIMO
 šio straipsnio 2 dalį,
 įsigalioja 2015 m. sausio 1 d.
  
+38.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-609,
+2013-11-21, Žin., 2013, Nr. 124-6285 (2013-12-05)
+BIUDŽETO SANDAROS ĮSTATYMO 4 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+Šio įstatymo nuostatos taikomos
+rengiant Lietuvos Respublikos 2014 metų valstybės biudžeto ir savivaldybių
+biudžetų finansinių rodiklių patvirtinimo įstatymo projektą.
+ 
+ 
 *** Pabaiga ***
  
  
@@ -2069,4 +2103,4 @@ LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
  
 Redagavo Aušrinė Trapinskienė (2013-12-05)
-                  ausrine.trapinskiene@lrs.lt
+                  ausrine.trapinskiene@lrs.lt
