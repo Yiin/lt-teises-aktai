@@ -1085,9 +1085,9 @@ institucijos, remdamosi šiuo Įstatymu, kitais įstatymais, Seimo patvirtintais
 savivaldybių biudžetų finansiniais rodikliais, Vyriausybės patvirtintomis
 biudžetų sudarymo ir vykdymo taisyklėmis, valstybinės statistikos duomenimis,
 socialinėmis ir ekonominėmis programomis, taip pat savivaldybių biudžetų
-asignavimų valdytojų programomis ir jų sąmatų projektais. 
+asignavimų valdytojų programomis ir jų sąmatų projektais.
 Dalies
-redakcija nuo 2014-10-01:
+redakcija nuo 2014-01-01:
 1. Savivaldybių biudžetų projektus rengia savivaldybių vykdomosios
 institucijos, remdamosi šiuo Įstatymu, kitais įstatymais, Seimo patvirtintais
 savivaldybių biudžetų finansiniais rodikliais, Vyriausybės patvirtintomis
@@ -1152,18 +1152,33 @@ pareigūnas surašė administracinio teisės pažeidimo protokolą arba skyrė i
 (arba) paėmė baudą, Lietuvos Respublikos administracinių teisės pažeidimų
 kodekso 262 straipsnio nustatytais atvejais nesurašydamas administracinio
 teisės pažeidimo protokolo.
+Dalies redakcija nuo 2015-01-01:
+3. Baudos už
+administracinius teisės pažeidimus įskaitomos į tą biudžetą, iš kurio išlaikoma
+institucija ar įstaiga, kurios įgaliotas pareigūnas surašė administracinio
+teisės pažeidimo protokolą arba skyrė baudą, išskyrus kituose įstatymuose
+nustatytus atvejus. Tokių baudų ir kitų iš valstybės ar savivaldybių biudžetų
+neišlaikomų subjektų paskirtų baudų už administracinius teisės pažeidimus
+įskaitymo ir paskirstymo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+Tais atvejais, kai administracinis teisės pažeidimas yra užfiksuotas iš
+savivaldybės biudžeto išlaikomomis arba eksploatuojamomis stacionariomis ar
+mobiliosiomis teisės pažeidimo fiksavimo sistemomis, bauda už
+administracinį teisės pažeidimą įskaitoma taip: 50 procentų įskaitoma į
+savivaldybės biudžetą, 50 procentų – į valstybės biudžetą.
 Straipsnio pakeitimai:
 Nr. XI-1209,
-2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)(papildyta 3 dalimi)
+2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
+Nr. XII-604,
+2013-11-19, Žin., 2013, Nr. 124-6283 (2013-12-05)
  
-29 straipsnis.
-Nepatvirtinto biudžeto vykdymas
+29 straipsnis. Nepatvirtinto
+biudžeto vykdymas
 Jeigu biudžetas laiku nepatvirtinamas, asignavimai metų pradžioje iki
 biudžetų patvirtinimo kiekvieną mėnesį negali viršyti 1/12 praėjusių metų šių
-biudžetų asignavimų. Šiuo atveju kiekvieno asignavimų valdytojo asignavimai
-kiekvieną mėnesį negali viršyti 1/12 praėjusių metų atitinkamo biudžeto šiam
-asignavimų valdytojui skirtų lėšų ir skiriamos tik tęstinei veiklai bei
-įstatymuose nustatytiems įsipareigojimams finansuoti (išskyrus programų asignavimų dalį,
+biudžetų asignavimų. Šiuo atveju kiekvieno asignavimų valdytojo asignavimai kiekvieną
+mėnesį negali viršyti 1/12 praėjusių metų atitinkamo biudžeto šiam asignavimų
+valdytojui skirtų lėšų ir skiriamos tik tęstinei veiklai bei įstatymuose
+nustatytiems įsipareigojimams finansuoti (išskyrus programų asignavimų dalį,
 kurią sudaro Europos Sąjungos finansinės paramos ir bendrojo
 finansavimo bei
 kitos gaunamos finansinės paramos lėšos) bei
@@ -1222,8 +1237,8 @@ netaikoma programų lėšoms, nurodytoms šio Įstatymo 2 straipsnio 16 dalies 1
 2 punktuose, jeigu jos yra įmokėtos.
 Pastaba.
 Ši dalis taikoma
-rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir
-vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
+rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir vėlesnių
+metų valstybės biudžetą ir savivaldybių biudžetus.
 2012 metų valstybės biudžeto ir
 savivaldybių biudžetų vykdymui, vertinimui ir atsiskaitymui taikomos iki šio
 įstatymo (Nr. XI-2274)
@@ -1336,8 +1351,8 @@ XI-2274) įsigaliojimo
 galiojusių teisės aktų nuostatos, išskyrus šio įstatymo 12 straipsnį.
 Straipsnio
 pakeitimai:
-Nr. X-1354,
-2007-12-06, Žin., 2007, Nr. 132-5357 (2007-12-15)
+Nr. X-1354, 2007-12-06,
+Žin., 2007, Nr. 132-5357 (2007-12-15)
 Nr. XI-118,
 2008-12-23, Žin., 2008, Nr. 149-6038 (2008-12-30)
 Nr. XI-1209,
@@ -1354,9 +1369,9 @@ programas;
 Europos Sąjungos ir Lietuvos Respublikos teisės aktais, reglamentuojančiais
 Europos Sąjungos finansinės paramos lėšų administravimą, bei atsižvelgdama į
 programų ir projektų vykdymo duomenis, perskirstyti Europos Sąjungos finansinės
-paramos programoms ir projektams numatytas lėšas, įskaitant ir bendrojo finansavimo
-lėšas, tarp asignavimų valdytojų, investavimo sričių, valstybės funkcijų ir
-ekonominės klasifikacijos straipsnių;
+paramos programoms ir projektams numatytas lėšas, įskaitant ir bendrojo
+finansavimo lėšas, tarp asignavimų valdytojų, investavimo sričių, valstybės funkcijų
+ir ekonominės klasifikacijos straipsnių;
 3) programų
 asignavimų dalies, kurią sudaro Europos Sąjungos finansinės paramos ir bendrojo
 finansavimo lėšos, laikinam lėšų stygiui panaikinti panaudoti laikinai laisvus
@@ -1369,9 +1384,8 @@ vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
 savivaldybių biudžetų vykdymui, vertinimui ir atsiskaitymui taikomos iki šio
 įstatymo (Nr. XI-2274)
 įsigaliojimo galiojusių teisės aktų nuostatos. 2013 metų valstybės biudžeto ir
-savivaldybių biudžetų rengimui, tvirtinimui, vykdymui, vertinimui ir
-atsiskaitymui taikomos iki šio įstatymo (Nr.
-XI-2274) įsigaliojimo
+savivaldybių biudžetų rengimui, tvirtinimui, vykdymui, vertinimui ir atsiskaitymui
+taikomos iki šio įstatymo (Nr. XI-2274) įsigaliojimo
 galiojusių teisės aktų nuostatos, išskyrus šio įstatymo 12 straipsnį.
  
 4) (neteko galios nuo 2011 m. sausio 1 d.);
@@ -1404,8 +1418,8 @@ biudžeto ir savivaldybių biudžetų tarpusavio atsiskaitymai
 Seimui priėmus įstatymus arba Vyriausybei priėmus nutarimus vykdant
 įstatymus, dėl kurių keičiasi valstybės ir savivaldybių biudžetų einamųjų
 biudžetinių metų įsipareigojimai, Finansų ministerija bei savivaldybių
-vykdomosios institucijos įstatymų nustatyta tvarka patikslina valstybės biudžeto
-ir savivaldybių biudžetų tarpusavio atsiskaitymus. 
+vykdomosios institucijos įstatymų nustatyta tvarka patikslina valstybės
+biudžeto ir savivaldybių biudžetų tarpusavio atsiskaitymus. 
  
 35
 straipsnis. Valstybės ir savivaldybių biudžetų vykdymo ataskaitų rinkiniai
@@ -1500,9 +1514,8 @@ Pastaba.
 Šis skirsnio pavadinimas taikomas
 rengiant, tvirtinant, vykdant, vertinant ir atsiskaitant už 2014 metų ir
 vėlesnių metų valstybės biudžetą ir savivaldybių biudžetus.
-2012 metų valstybės biudžeto ir
-savivaldybių biudžetų vykdymui, vertinimui ir atsiskaitymui taikomos iki šio
-įstatymo (Nr. XI-2274)
+2012 metų valstybės biudžeto ir savivaldybių
+biudžetų vykdymui, vertinimui ir atsiskaitymui taikomos iki šio įstatymo (Nr. XI-2274)
 įsigaliojimo galiojusių teisės aktų nuostatos. 2013 metų valstybės biudžeto ir
 savivaldybių biudžetų rengimui, tvirtinimui, vykdymui, vertinimui ir
 atsiskaitymui taikomos iki šio įstatymo (Nr.
@@ -1529,8 +1542,8 @@ savivaldybių biudžetų lėšų apskaitos ir savivaldybių konsoliduotųjų ata
 rinkinių auditą atlieka savivaldybių kontrolės ir audito tarnybos.
 4. Biudžeto asignavimų valdytojų ir jiems pavaldžių biudžetinių įstaigų
 ir kitų subjektų programų vykdymą vertina vidaus audito tarnybos, vadovaudamosi
-Vidaus kontrolės ir vidaus audito įstatymu (Žin., 2002, Nr. 123-5540) ir
-kitais vidaus auditą reglamentuojančiais teisės aktais.
+Vidaus kontrolės ir vidaus audito įstatymu (Žin., 2002, Nr. 123-5540) ir kitais
+vidaus auditą reglamentuojančiais teisės aktais.
 5.
 Ekonominės raidos scenarijaus ir biudžeto pajamų planų modeliavimą, remdamasi
 objektyviais kriterijais, įskaitant baigiamąjį vertinimą, vertina Finansų
@@ -1551,8 +1564,8 @@ X-1218,
 2007-06-26, Žin., 2007, Nr. 77-3050 (2007-07-12)
 Nr. X-1826,
 2008-11-14, Žin., 2008, Nr. 137-5375 (2008-11-29)
-Nr. XI-1209, 2010-12-09,
-Žin., 2010, Nr. 153-7781 (2010-12-28)
+Nr. XI-1209,
+2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
 Nr. XI-2274,
 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
  
@@ -1598,9 +1611,9 @@ rizikos rodiklis per metus padidėjo daugiau negu 0,5 procentinio punkto, Minist
 žodžiu paaiškinti mokesčių didinimo rizikos padidėjimo priežastis ir šios
 rizikos valdymo perspektyvas vidutiniu laikotarpiu.
  
-39 straipsnis. Valdžios sektoriaus balanso rodiklio kasmetinio
-pagerėjimo užduočių arba nuostatų dėl perteklinio ir subalansuoto valdžios
-sektoriaus vidutiniu laikotarpiu neįvykdymo pateisinimo priežastys
+39 straipsnis. Valdžios sektoriaus balanso rodiklio
+kasmetinio pagerėjimo užduočių arba nuostatų dėl perteklinio ir subalansuoto
+valdžios sektoriaus vidutiniu laikotarpiu neįvykdymo pateisinimo priežastys
 Pateisinamomis
 priežastimis, kai neįvykdoma valdžios sektoriaus balanso rodiklio kasmetinio
 pagerėjimo užduotys arba nuostatos dėl perteklinio ir subalansuoto valdžios
@@ -1782,7 +1795,8 @@ Keistas įstatymo pavadinimas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-2058, 2000.10.17, Žin., 2000, Nr.
 90-2778 (2000.10.27)
-BIUDŽETO SANDAROS ĮSTATYMO 17 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+BIUDŽETO SANDAROS ĮSTATYMO 17 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
  
 14.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1994,8 +2008,7 @@ metų valstybės biudžeto ir savivaldybių biudžetų vykdymui, vertinimui ir
 atsiskaitymui taikomos iki šio įstatymo įsigaliojimo galiojusių teisės aktų
 nuostatos. 2013 metų valstybės biudžeto ir savivaldybių biudžetų rengimui,
 tvirtinimui, vykdymui, vertinimui ir atsiskaitymui taikomos iki šio įstatymo
-įsigaliojimo galiojusių teisės aktų nuostatos, išskyrus šio įstatymo 12
-straipsnį.
+įsigaliojimo galiojusių teisės aktų nuostatos, išskyrus šio įstatymo 12 straipsnį.
  
 34.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2023,6 +2036,17 @@ BIUDŽETO SANDAROS ĮSTATYMO 26 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
 Šis įstatymas įsigalioja 2014 m. spalio 1 d.
  
+37.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-604,
+2013-11-19, Žin., 2013, Nr. 124-6283 (2013-12-05)
+BIUDŽETO SANDAROS ĮSTATYMO 28 STRAIPSNIO PAKEITIMO
+ĮSTATYMAS
+Šis
+įstatymas, išskyrus
+šio straipsnio 2 dalį,
+įsigalioja 2015 m. sausio 1 d.
+ 
 *** Pabaiga ***
  
  
@@ -2044,5 +2068,5 @@ LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 *** Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė (2013-07-26)
-                  ausrine.trapinskiene@lrs.lt
+Redagavo Aušrinė Trapinskienė (2013-12-05)
+                  ausrine.trapinskiene@lrs.lt
