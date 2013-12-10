@@ -23,13 +23,17 @@ RESPUBLIKOS
 PINIGINĖS
 SOCIALINĖS PARAMOS NEPASITURINTIEMS GYVENTOJAMS 
 ĮSTATYMAS
+Įstatymas pavadinimas keistas:
+Nr.
+XI-1772,
+2011-12-01, Žin., 2011, Nr. 155-7353 (2011-12-20)
  
 2003 m. liepos 1 d. Nr. IX-1675
 Vilnius
  
  
 Nauja
-įstatymo redakcija nuo 2012-01-01 (keistas įstatymo pavadinimas):
+įstatymo redakcija nuo 2012-01-01:
 Nr.
 XI-1772,
 2011-12-01, Žin., 2011, Nr. 155-7353 (2011-12-20)
@@ -60,8 +64,8 @@ Europos Sąjungos valstybės narės piliečio šeimos nariais laikomi sutuoktini
 arba asmuo, su kuriuo sudaryta registruotos partnerystės sutartis, tiesioginiai palikuonys, kuriems nesukakę 21 metai arba kurie yra išlaikytiniai,
 įskaitant sutuoktinio arba asmens, su kuriuo sudaryta registruotos partnerystės
  sutartis, tiesioginius palikuonis, kuriems nesukakę 21 metai arba kurie yra
-išlaikytiniai, Europos Sąjungos valstybės narės piliečio, sutuoktinio ar asmens,
-su kuriuo sudaryta registruotos partnerystės sutartis, išlaikomi giminaičiai pagal tiesiąją aukštutinę liniją;
+išlaikytiniai, Europos Sąjungos valstybės narės piliečio, sutuoktinio ar
+asmens, su kuriuo sudaryta registruotos partnerystės sutartis, išlaikomi giminaičiai pagal tiesiąją aukštutinę liniją;
 4)
 užsieniečiams, kuriems suteikta papildoma apsauga arba laikinoji apsauga
 Lietuvos Respublikoje, išskyrus integracijos laikotarpiu gaunančius paramą iš
@@ -100,13 +104,12 @@ dalys, tinkamos vienam asmeniui ar bendrai gyvenantiems asmenims gyventi ir
 atitinkančios esminius statinio (higienos, gaisrinės saugos ir kitus)
 reikalavimus. 
 5. Būsto
-šildymo išlaidos – pagal Valstybinės kainų ir energetikos kontrolės
-komisijos rekomenduojamus ar su ja suderintus vartotojų siūlomus šilumos
-paskirstymo metodus būstui šildyti priskirtų centralizuotai tiekiamos šilumos
-sąnaudų arba pagal Valstybinės kainų ir energetikos kontrolės komisijos
-patvirtintą metodiką būstui šildyti nustatytų kitų energijos rūšių ar
-kuro sąnaudų, padaugintų iš jų kainos, suma, įskaitant pridėtinės vertės
-mokestį.
+šildymo išlaidos – pagal Valstybinės kainų ir energetikos kontrolės komisijos
+rekomenduojamus ar su ja suderintus vartotojų siūlomus šilumos paskirstymo
+metodus būstui šildyti priskirtų centralizuotai tiekiamos šilumos sąnaudų arba
+pagal Valstybinės kainų ir energetikos kontrolės komisijos patvirtintą metodiką
+būstui šildyti nustatytų kitų energijos rūšių ar kuro sąnaudų,
+padaugintų iš jų kainos, suma, įskaitant pridėtinės vertės mokestį.
 6. Geriamojo
 vandens išlaidos – geriamojo vandens ir nuotekų kiekių, padaugintų iš jų
 kainų bei pardavimo veiklos sąnaudų (išlaidų), suma, įskaitant pridėtinės
@@ -127,9 +130,9 @@ temperatūrai palaikyti (cirkuliacijai), padaugintų iš jų kainų, suma, įska
 pridėtinės vertės mokestį.
 8. Naudingasis
 būsto plotas – bendras gyvenamųjų kambarių ir kitų būsto patalpų (virtuvių,
-sanitarinių mazgų, koridorių, įstatytų spintų, šildomų lodžijų ir kitų šiltų pagalbinių
-patalpų) grindų plotas. Į naudingąjį būsto plotą neįskaitomas balkonų, terasų,
-rūsių, nešildomų lodžijų grindų plotas.
+sanitarinių mazgų, koridorių, įstatytų spintų, šildomų lodžijų ir kitų šiltų
+pagalbinių patalpų) grindų plotas. Į naudingąjį būsto plotą neįskaitomas
+balkonų, terasų, rūsių, nešildomų lodžijų grindų plotas.
 9. Nepasiturintys
 gyventojai – bendrai gyvenantys asmenys arba vienas gyvenantis asmuo,
 kurie, įvertinus jų turimą turtą ir pajamas, šio įstatymo nustatyta tvarka turi
@@ -176,12 +179,12 @@ XII-329,
 straipsnis. Piniginės socialinės paramos teikimo principai
 Piniginė
 socialinė parama teikiama vadovaujantis šiais principais:
-1)
-bendradarbiavimo ir dalyvavimo. Piniginės socialinės paramos teikimas
-remiasi asmenų, kurie kreipiasi dėl piniginės socialinės paramos, bendruomenės,
-bendrojo naudojimo objektų valdytojų, nevyriausybinių organizacijų,
-savivaldybės, valstybės institucijų ir įstaigų bendradarbiavimu ir tarpusavio
-pagalba;
+1) bendradarbiavimo
+ir dalyvavimo. Piniginės
+socialinės paramos teikimas remiasi asmenų, kurie kreipiasi dėl piniginės
+socialinės paramos, bendruomenės, bendrojo naudojimo objektų valdytojų,
+nevyriausybinių organizacijų, savivaldybės, valstybės institucijų ir įstaigų
+bendradarbiavimu ir tarpusavio pagalba;
 2) prieinamumo.
 Piniginė socialinė parama teikiama taip, kad būtų užtikrintas piniginės
 socialinės paramos prieinamumas nepasiturintiems gyventojams kuo arčiau jų
@@ -229,8 +232,8 @@ pašalpai ir kompensacijoms skirtų lėšų. Piniginei socialinei paramai
 administruoti panaudojama ne didesnė lėšų suma negu nustatytas piniginei
 socialinei paramai administruoti skiriamų lėšų procento dydis nuo panaudotų
 lėšų piniginei socialinei paramai mokėti;
-Pastaba. 4
-straipsnio 4 dalies 1 punktas galioja iki 2012 m. gruodžio 31 d.
+Pastaba. 1
+punktas galioja iki 2012-12-31.
  
 2) nuo 2 iki 4
 procentų socialinei pašalpai ir kompensacijoms skirtų lėšų. Konkretų piniginei
@@ -248,6 +251,86 @@ valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams l
 piniginei socialinei paramai skaičiuoti ir mokėti gali būti naudojamos kitai
 socialinei paramai finansuoti Lietuvos Respublikos Vyriausybės (toliau –
 Vyriausybė) ar jos įgaliotos institucijos nustatyta tvarka.
+Redakcija nuo
+2014-1-01:
+4
+straipsnis. Piniginės socialinės paramos teikimo vykdymas ir finansavimas
+1. Socialinės
+pašalpos teikimo vykdymas ir finansavimas:
+1) socialinę
+pašalpą savivaldybės teikia vykdydamos savarankiškąją savivaldybių
+funkciją, kuri yra finansuojama iš savivaldybių biudžetų lėšų; 
+2) savivaldybės
+taryba tvirtina socialinės pašalpos teikimo tvarkos aprašą; jame nustato:
+socialinės pašalpos skyrimo ir mokėjimo tvarką (dėl prašymų-paraiškų priėmimo;
+trūkstamų dokumentų pateikimo; duomenų apie turtą pateikimo; socialinės
+pašalpos skyrimo ir mokėjimo; prašymus-paraiškas pateikusių asmenų informavimo
+dėl socialinės pašalpos skyrimo ar neskyrimo; neteisėtai gautos ar išmokėtos
+socialinės pašalpos išskaičiavimo; paskirtos, bet laiku neatsiimtos socialinės
+pašalpos, taip pat mirus asmeniui, kurio vardu bendrai gyvenantiems asmenims
+mokama socialinė pašalpa, arba mirus vienam gyvenančiam asmeniui, paskirtos ir
+iki kito mėnesio po jo mirties neišmokėtos socialinės pašalpos išmokėjimo
+procedūros); pagrindus,
+kuriems esant socialinė pašalpa didinama, mažinama, sustabdomas, nutraukiamas
+ar atnaujinamas jos mokėjimas, socialinė pašalpa skiriama ne visiems bendrai
+gyvenantiems asmenims arba ji skiriama kitais atvejais; socialinės pašalpos
+teikimo nepinigine forma būdus; nepasiturinčių gyventojų grupes (patyrusių
+socialinę riziką, nevykdančių savivaldybės tarybos nustatytų pareigų ir pan.),
+kurioms socialinė pašalpa teikiama šio įstatymo 22 straipsnio 1 dalies 2 ar 3
+punkte nustatytais būdais; minimalų neišmokamos socialinės pašalpos dydį;
+socialinę pašalpą gaunančių asmenų teises ir pareigas; savivaldybės
+administracijos ir bendruomeninių organizacijų ir (ar) religinių bendruomenių,
+ir (ar) religinių bendrijų, ir (ar) kitų nevyriausybinių organizacijų atstovų
+ir (ar) gyvenamosios vietovės bendruomenės narių, ir (ar) seniūnaičių, ir (ar)
+kitų suinteresuotų asmenų teises ir pareigas teikiant socialinę pašalpą;
+3)
+savivaldybėms, išskyrus šio įstatymo 28 straipsnio 1 dalyje nurodytas
+savivaldybes, 2014 metams socialinei pašalpai finansuoti skiriama 2012 metais
+socialinei pašalpai skaičiuoti ir mokėti faktiškai panaudotų valstybės biudžeto
+lėšų dydžio lėšų suma.
+2. Vykdant
+savarankiškąją savivaldybių funkciją, socialinė pašalpa teikiama taikant šio
+įstatymo nuostatas tiek, kiek socialinės pašalpos teikimo nereglamentuoja šio
+straipsnio 1 dalies nuostatos.
+3. Būsto šildymo
+išlaidų, geriamojo vandens išlaidų ir karšto vandens išlaidų kompensacijų
+teikimo vykdymas ir finansavimas:
+1) būsto šildymo
+išlaidų, geriamojo vandens išlaidų ir karšto vandens išlaidų kompensacijas
+savivaldybės, išskyrus šio įstatymo 28 straipsnio 1 dalyje nurodytas
+savivaldybes, teikia vykdydamos valstybinę (valstybės perduotą savivaldybėms)
+funkciją. Būsto šildymo išlaidų, geriamojo vandens išlaidų ir karšto vandens
+išlaidų kompensacijos finansuojamos ir šio įstatymo 8 straipsnio 8 dalyje
+numatytas kreditas ir palūkanos apmokami iš valstybės biudžeto specialios
+tikslinės dotacijos savivaldybių biudžetams;
+2) būsto šildymo
+išlaidų, geriamojo vandens išlaidų ir karšto vandens išlaidų kompensacijoms
+teikti šio įstatymo 23 straipsnio 4 dalyje nustatytais atvejais gali būti
+panaudojama iki 4 procentų būsto šildymo išlaidų, geriamojo vandens išlaidų ir
+karšto vandens išlaidų kompensacijoms skirtų lėšų;
+3) šios dalies 1
+punkte nustatytoms būsto šildymo išlaidų, geriamojo vandens išlaidų ir karšto
+vandens išlaidų kompensacijoms administruoti iš valstybės biudžeto specialios
+tikslinės dotacijos savivaldybių biudžetams skiriama nuo 2 iki 4
+procentų kompensacijoms skirtų lėšų. Konkretų būsto šildymo
+išlaidų, geriamojo vandens išlaidų ir karšto vandens išlaidų kompensacijoms
+administruoti skiriamų lėšų procento dydį iki biudžetinių metų pradžios nustato
+socialinės apsaugos ir darbo ministras. Būsto šildymo išlaidų, geriamojo
+vandens išlaidų ir karšto vandens išlaidų kompensacijoms
+administruoti panaudojama ne didesnė lėšų suma, negu nustatytas šioms
+kompensacijoms administruoti skiriamų lėšų procento dydis nuo panaudotų lėšų būsto
+šildymo išlaidų, geriamojo vandens išlaidų ir karšto vandens išlaidų kompensacijoms
+mokėti;
+4) valstybės
+biudžeto lėšų, skirtų specialiai tikslinei dotacijai būsto šildymo išlaidų,
+geriamojo vandens išlaidų ir karšto vandens išlaidų kompensacijoms
+administruoti, naudojimo ir atsiskaitymo tvarką nustato socialinės apsaugos ir
+darbo ministras.
+Straipsnio
+pakeitimai:
+Nr.
+XII-621,
+2013-11-26, Žin., 2013, Nr. 126-6414 (2013-12-10)
  
 ANTRASIS SKIRSNISPINIGINĖS SOCIALINĖS PARAMOS RŪŠYS IR JOS TEIKIMO SĄLYGOS 5 straipsnis. Piniginės socialinės paramos rūšys 
 Piniginės
@@ -328,9 +411,9 @@ iš būstų, už kurį būtų teikiamos kompensacijos.
 namo butų savininkai, kurie kreipiasi dėl būsto šildymo išlaidų kompensacijų,
 turi dalyvauti svarstant ir priimant sprendimą susirinkime dėl daugiabučio namo
 atnaujinimo (modernizavimo) projekto įgyvendinimo pagal Vyriausybės patvirtintą
-daugiabučių namų atnaujinimo (modernizavimo) programą ar ją atitinkančią
-savivaldybės tarybos patvirtintą programą, jeigu toks sprendimas svarstomas ir
-priimamas, ir dalyvauti įgyvendinant šį projektą.
+daugiabučių namų atnaujinimo (modernizavimo) programą ar ją atitinkančią savivaldybės
+tarybos patvirtintą programą, jeigu toks sprendimas svarstomas ir priimamas, ir
+dalyvauti įgyvendinant šį projektą.
 Straipsnio
 pakeitimai:
 Nr.
@@ -354,8 +437,8 @@ darbo sutartyje nustatyto ne viso darbo laiko (Darbo
 kodekso 146 straipsnio 1 dalis), tačiau ne viso darbo laiko Darbo kodekso 146
 straipsnio 1 dalies 1 punkte nustatytu atveju trukmė negali būti trumpesnė kaip
 du trečdaliai maksimalios darbo laiko trukmės (įskaitant laikinojo
-nedarbingumo, prastovų ne dėl darbuotojo kaltės, kasmetinių atostogų ir kitą dėl
-pateisinamų priežasčių nedirbtą laiką, už kurį mokama įstatymų nustatyta
+nedarbingumo, prastovų ne dėl darbuotojo kaltės, kasmetinių atostogų ir kitą
+dėl pateisinamų priežasčių nedirbtą laiką, už kurį mokama įstatymų nustatyta
 tvarka), nustatytos Darbo kodekso 144 straipsnio 1 dalyje arba 145 straipsnyje,
 o jiems darbo užmokesčio apskaičiuojama ne mažiau už minimaliąją mėnesinę algą
 arba minimalųjį valandinį atlygį proporcingai dirbtam laikui arba atliktam
@@ -399,11 +482,11 @@ vienas gyvenantis asmuo slaugo ar prižiūri vaiką (vaikus), kuriam (kuriems)
 (artimuosius) giminaitį (giminaičius), jeigu jiems yra mokamos slaugos ar
 priežiūros (pagalbos) išlaidų tikslinės kompensacijos, arba įstatymų nustatyta
 tvarka paskirtas pripažinto (pripažintų) neveiksniu (neveiksniais) vaiko
-(vaikų), kuriam (kuriems) įstatymų nustatyta tvarka nustatyta globa ar rūpyba
-šeimoje, ar savo artimojo (artimųjų) giminaičio (giminaičių) globėju ar vaiko
-(vaikų), kuriam (kuriems) įstatymų nustatyta tvarka nustatyta globa ar rūpyba
-šeimoje, ar savo artimojo (artimųjų) giminaičio (giminaičių), kuriam (kuriems)
-nustatyta rūpyba, rūpintoju;
+(vaikų), kuriam (kuriems) įstatymų nustatyta tvarka nustatyta globa ar rūpyba šeimoje,
+ar savo artimojo (artimųjų) giminaičio (giminaičių) globėju ar vaiko (vaikų),
+kuriam (kuriems) įstatymų nustatyta tvarka nustatyta globa ar rūpyba šeimoje,
+ar savo artimojo (artimųjų) giminaičio (giminaičių), kuriam (kuriems) nustatyta
+rūpyba, rūpintoju;
 6) asmuo ne
 trumpiau kaip vieną mėnesį gydosi stacionarinėje asmens sveikatos priežiūros
 įstaigoje, teikiančioje sveikatos priežiūros paslaugas, išskyrus atvejus, kai
@@ -478,10 +561,10 @@ kuriems įstatymų nustatyta tvarka yra nustatyta globa ar rūpyba, į bendrai
 gyvenančių asmenų, kurie paskirti globėjais ar rūpintojais, sudėtį neįskaitomi.
 Globojamiems vaikams, išskyrus atvejus, kai vaiko laikinoji globa ar rūpyba
 nustatyta tėvų prašymu dėl jų laikino išvykimo iš Lietuvos Respublikos,
-piniginė socialinė parama vadovaujantis šio įstatymo nuostatomis skiriama atskirai
-kaip vienam gyvenančiam asmeniui. Kai vaiko laikinoji globa ar rūpyba nustatyta
-tėvų prašymu dėl jų laikino išvykimo iš Lietuvos Respublikos, globojamiems
-vaikams piniginė socialinė parama skiriama kartu su tėvais.
+piniginė socialinė parama vadovaujantis šio įstatymo nuostatomis skiriama
+atskirai kaip vienam gyvenančiam asmeniui. Kai vaiko laikinoji globa ar rūpyba
+nustatyta tėvų prašymu dėl jų laikino išvykimo iš Lietuvos Respublikos,
+globojamiems vaikams piniginė socialinė parama skiriama kartu su tėvais.
 5. Piniginė
 socialinė parama vienam iš bendrai gyvenančių asmenų arba vienam gyvenančiam
 asmeniui neteikiama, jeigu jis: 
@@ -556,9 +639,9 @@ SOCIALINĖS PARAMOS DYDŽIAI
  
 9 straipsnis. Socialinės pašalpos dydis
 1. Socialinės
-pašalpos dydis vienam gyvenančiam asmeniui, turinčiam teisę ją gauti, sudaro
-100 procentų skirtumo tarp valstybės remiamų pajamų vienam gyvenančiam asmeniui
-ir vidutinių vieno gyvenančio asmens pajamų per mėnesį.
+pašalpos dydis vienam gyvenančiam asmeniui, turinčiam teisę ją gauti, sudaro 100
+procentų skirtumo tarp valstybės remiamų pajamų vienam gyvenančiam asmeniui ir
+vidutinių vieno gyvenančio asmens pajamų per mėnesį.
 2. Socialinės
 pašalpos dydis bendrai gyvenantiems asmenims, turintiems teisę ją gauti, taip
 pat ir tais atvejais, kai socialinė pašalpa skiriama tik vaikui (įvaikiui) ar
@@ -580,8 +663,8 @@ gyvenančių asmenų pajamų vienam iš bendrai gyvenančių asmenų per mėnes�
 Straipsnio
 pakeitimai:
 Nr.
-XII-329, 2013-05-16,
-Žin., 2013, Nr. 57-2861 (2013-06-01)
+XII-329,
+2013-05-16, Žin., 2013, Nr. 57-2861 (2013-06-01)
  
 10 straipsnis. Pagrindai,
 kuriems esant socialinė pašalpa skiriama papildomai arba ji mažinama
@@ -659,8 +742,8 @@ pašalpos gavimo laikotarpiai pradedami skaičiuoti nuo šio įstatymo (Nr. XII-
 Straipsnio
 pakeitimai:
 Nr.
-XII-329, 2013-05-16,
-Žin., 2013, Nr. 57-2861 (2013-06-01)
+XII-329,
+2013-05-16, Žin., 2013, Nr. 57-2861 (2013-06-01)
  
 11
 straipsnis. Kompensacijų dydis
@@ -690,15 +773,16 @@ dydžio, skiriama būsto šildymo išlaidų kompensacija yra lygi faktinėms bū
 rūšių sąnaudos būstui šildyti yra ne didesni už šio įstatymo 12 straipsnyje
 nustatytus normatyvus. 
 3.
-Apskaičiuojant būsto šildymo išlaidas ir karšto vandens išlaidas, centralizuotai
-tiekiamos šilumos, karšto vandens, kitų būstui šildyti ir karštam vandeniui
-ruošti naudojamų energijos ir kuro rūšių, kurių kainos reguliuojamos, taip pat
-geriamojo vandens karštam vandeniui ruošti sąnaudos įvertinamos pagal įstatymų
-nustatyta tvarka patvirtintas kainas, taikant vienanares centralizuotai
-tiekiamos šilumos kainas, o kuro, kurio kainos nereguliuojamos ir už kurį
-atsiskaitoma kas mėnesį pagal apskaitos prietaisų rodmenis, – pagal nustatytas
-tiekėjų kainas; kietojo ar kitokio kuro, kurio faktinės sąnaudos kiekvieną
-mėnesį nenustatomos, – pagal savivaldybėse patvirtintas vidutines kainas. 
+Apskaičiuojant būsto šildymo išlaidas ir karšto vandens išlaidas,
+centralizuotai tiekiamos šilumos, karšto vandens, kitų būstui šildyti ir
+karštam vandeniui ruošti naudojamų energijos ir kuro rūšių, kurių kainos
+reguliuojamos, taip pat geriamojo vandens karštam vandeniui ruošti sąnaudos įvertinamos
+pagal įstatymų nustatyta tvarka patvirtintas kainas, taikant vienanares
+centralizuotai tiekiamos šilumos kainas, o kuro, kurio kainos nereguliuojamos
+ir už kurį atsiskaitoma kas mėnesį pagal apskaitos prietaisų rodmenis, – pagal
+nustatytas tiekėjų kainas; kietojo ar kitokio kuro, kurio faktinės sąnaudos
+kiekvieną mėnesį nenustatomos, – pagal savivaldybėse patvirtintas vidutines
+kainas. 
 4.
 Apskaičiuojant geriamojo vandens išlaidas, geriamojo vandens sąnaudos
 įvertinamos pagal nustatytas tiekėjų kainas. 
@@ -783,8 +867,8 @@ asmens turtą įskaitomas šis bendrai gyvenančių asmenų arba vieno gyvenanč
 asmens nuosavybės teise turimas turtas: 
 1) statiniai,
 tarp jų ir nebaigti statyti statiniai;
-2) privalomos
-registruoti transporto priemonės; 
+2) privalomos registruoti
+transporto priemonės; 
 3) privaloma
 registruoti žemės ūkio technika;
 4) žemė,
@@ -941,8 +1025,8 @@ Vaikų išlaikymo fondo;
 pobūdžio pajamos (išskyrus vienkartines išmokas ir (ar) pašalpas, mokamas iš
 valstybės, Valstybinio socialinio draudimo fondo ar savivaldybių biudžetų, subsidijas
 užimtumui remti, mokamas iš valstybės ar savivaldybių biudžetų, Europos
-Sąjungos struktūrinių fondų ir Europos prisitaikymo prie globalizacijos padarinių
-fondo,
+Sąjungos struktūrinių fondų ir Europos prisitaikymo prie globalizacijos
+padarinių fondo,
 ir
 darbdavio mokamas vienkartines išmokas ir (ar) pašalpas bei kas mėnesį gaunamas
 socialinio pobūdžio pajamas: transporto išlaidų kompensacijas neįgaliesiems;
@@ -989,10 +1073,10 @@ faktiškai gaunamos piniginės lėšos (išskyrus pinigines lėšas, kuriomis
 kompensuojamos patirtos ir dokumentais pagrįstos su visuomenei naudinga veikla
 (savanoriška veikla ir pan.) susijusios išlaidos, ir labdarą piniginėmis
 lėšomis).
-2. Jeigu iš šio straipsnio 1 dalyje nurodytų pajamų yra išskaičiuojamas
-gyventojų pajamų mokestis, valstybinio socialinio draudimo ir privalomojo
-sveikatos draudimo įmokos, šios pajamos įskaitomos išskaičiavus
-gyventojų pajamų mokestį, valstybinio socialinio draudimo ir privalomojo
+2. Jeigu iš šio straipsnio 1 dalyje nurodytų pajamų yra
+išskaičiuojamas gyventojų pajamų mokestis, valstybinio socialinio draudimo ir
+privalomojo sveikatos draudimo įmokos, šios pajamos įskaitomos
+išskaičiavus gyventojų pajamų mokestį, valstybinio socialinio draudimo ir privalomojo
 sveikatos draudimo įmokas.
 3. Skiriant
 socialinę pašalpą, kompensacijos ir socialinė pašalpa, taip pat papildomai
@@ -1008,13 +1092,13 @@ neįskaitomos.
 6. Darbo
 užmokestis, užmokestis už prastovas ne dėl darbuotojo kaltės, užmokestis už
 kasmetines atostogas, pensijos, pensijų išmokos, šalpos išmokos, kas mėnesį
-gaunamos išmokos ir (ar) pašalpos, ligos, profesinės reabilitacijos,
-motinystės, tėvystės, motinystės (tėvystės) pašalpos, statutiniams valstybės
-tarnautojams (pareigūnams) ir krašto apsaugos sistemos kariams laikinojo
-nedarbingumo, nėštumo ir gimdymo atostogų, tėvystės atostogų ar vaiko
-priežiūros atostogų laikotarpiais mokamos išmokos, taip pat kitos kas mėnesį
-gaunamos pajamos įskaitomos į pajamas tų mėnesių, už kuriuos jos paskirtos,
-išskyrus šio straipsnio 7 dalyje numatytą atvejį.
+gaunamos išmokos ir (ar) pašalpos, ligos, profesinės reabilitacijos, motinystės,
+tėvystės, motinystės (tėvystės) pašalpos, statutiniams valstybės tarnautojams
+(pareigūnams) ir krašto apsaugos sistemos kariams laikinojo nedarbingumo,
+nėštumo ir gimdymo atostogų, tėvystės atostogų ar vaiko priežiūros atostogų
+laikotarpiais mokamos išmokos, taip pat kitos kas mėnesį gaunamos pajamos
+įskaitomos į pajamas tų mėnesių, už kuriuos jos paskirtos, išskyrus šio
+straipsnio 7 dalyje numatytą atvejį.
 7. Darbo
 užmokestis, užmokestis už prastovas ne dėl darbuotojo kaltės, užmokestis už
 kasmetines atostogas, pensijos, pensijų išmokos, šalpos išmokos, kas mėnesį
@@ -1074,10 +1158,10 @@ palyginti su 3 praėjusiais mėnesiais, pasikeitė arba tą mėnesį, nuo kurio
 skiriama socialinė pašalpa, yra gauta vienkartinė išmoka (premija, vienkartinė
 netekto darbingumo kompensacija, išeitinė išmoka, išmokėta nutraukus darbo
 sutartį, išeitinė išmoka atleidžiamam iš pareigų valstybės tarnautojui ir kitos
-faktiškai gautos vienkartinės pajamos, išskyrus kompensaciją už nepanaudotas
-atostogas) (toliau – vienkartinė išmoka) ar iš karto už 2 ir daugiau mėnesių
-išmokėtos kas mėnesį gaunamos pajamos arba pasikeitė bendrai gyvenančių asmenų
-sudėtis ar vieno gyvenančio asmens šeiminė padėtis.
+faktiškai gautos vienkartinės pajamos, išskyrus kompensaciją už nepanaudotas atostogas)
+(toliau – vienkartinė išmoka) ar iš karto už 2 ir daugiau mėnesių išmokėtos kas
+mėnesį gaunamos pajamos arba pasikeitė bendrai gyvenančių asmenų sudėtis ar
+vieno gyvenančio asmens šeiminė padėtis.
 2. Šio
 straipsnio 1 dalies 2 punkte nustatyta tvarka netaikoma, jeigu per 3 praėjusius
 mėnesius iki mėnesio, nuo kurio skiriama socialinė pašalpa, buvo gauta
@@ -1102,8 +1186,8 @@ straipsnis. Pajamų kompensacijoms gauti apskaičiavimas
 išlaidų, geriamojo vandens išlaidų ir karšto vandens išlaidų kompensacijos
 apskaičiuojamos pagal visų bendrai gyvenančių asmenų vidutinių mėnesio pajamų
 dalį, tenkančią būste gyvenamąją vietą deklaravusiems ar būstą nuomojantiems
-bendrai gyvenantiems asmenims, arba pagal gyvenamąją vietą deklaravusio ar būstą
-nuomojančio vieno gyvenančio asmens vidutines mėnesio pajamas. 
+bendrai gyvenantiems asmenims, arba pagal gyvenamąją vietą deklaravusio ar
+būstą nuomojančio vieno gyvenančio asmens vidutines mėnesio pajamas. 
 2. Bendrai
 gyvenančių asmenų arba vieno gyvenančio asmens mėnesio pajamos būsto šildymo
 išlaidų, geriamojo vandens išlaidų ir karšto vandens išlaidų kompensacijoms
@@ -1111,10 +1195,10 @@ gauti apskaičiuojamos šio įstatymo 18 straipsnio 1 ir 2 dalyse nustatyta
 tvarka. 
 3. Socialinę
 pašalpą gaunantiems bendrai gyvenantiems asmenims arba vienam gyvenančiam
-asmeniui būsto šildymo išlaidų, geriamojo vandens išlaidų ir karšto vandens
-išlaidų kompensacijos apskaičiuojamos pagal pajamas, kurios paskutinį kartą
-buvo nurodytos skiriant socialinę pašalpą, įskaitant pagal šias pajamas
-paskirtos socialinės pašalpos dydį, ir skiriamos paskirtos socialinės pašalpos
+asmeniui būsto šildymo išlaidų, geriamojo vandens išlaidų ir karšto vandens išlaidų
+kompensacijos apskaičiuojamos pagal pajamas, kurios paskutinį kartą buvo
+nurodytos skiriant socialinę pašalpą, įskaitant pagal šias pajamas paskirtos
+socialinės pašalpos dydį, ir skiriamos paskirtos socialinės pašalpos
 laikotarpiui.
 4. Jeigu bendrai
 gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į kompensacijas
@@ -1163,17 +1247,17 @@ SOCIALINĖS PARAMOS TEIKIMAS
  
 20 straipsnis. Kreipimasis dėl piniginės socialinės paramos
 1. Dėl piniginės
-socialinės paramos bendrai gyvenantys asmenys arba vienas gyvenantis asmuo
-kreipiasi į deklaruotos gyvenamosios vietos savivaldybės administraciją arba
+socialinės paramos bendrai gyvenantys asmenys arba vienas gyvenantis asmuo kreipiasi
+į deklaruotos gyvenamosios vietos savivaldybės administraciją arba
 savivaldybės, kurios teritorijoje nuomojamas būstas, administraciją, o jei
 bendrai gyvenantys asmenys arba vienas gyvenantis asmuo gyvenamosios vietos
 neturi, – į savivaldybės, kurios teritorijoje jie gyvena, administraciją.
 2. Kreipdamasis
 dėl piniginės socialinės paramos, asmuo pateikia asmens tapatybę patvirtinantį
 dokumentą, Vyriausybės ar jos įgaliotos institucijos patvirtintos formos
-prašymą-paraišką ir jos priedus (toliau – prašymas-paraiška) ir prašyme-paraiškoje
-nurodo piniginės socialinės paramos skyrimui ir apskaičiavimui būtinus duomenis
-apie:
+prašymą-paraišką ir jos priedus (toliau – prašymas-paraiška) ir
+prašyme-paraiškoje nurodo piniginės socialinės paramos skyrimui ir
+apskaičiavimui būtinus duomenis apie:
 1) save ir
 bendrai gyvenančius asmenis; 
 2) veiklos
@@ -1240,10 +1324,10 @@ gyvenimo sąlygų patikrinimo aktas yra vienas iš dokumentų teisei į pinigin�
  
 21
 straipsnis. Piniginės socialinės paramos skyrimas
-1. Socialinė
-pašalpa skiriama 3 mėnesiams nuo prašymo-paraiškos pateikimo mėnesio pirmos
-dienos, jeigu kreipimosi ir sprendimo priėmimo metu bendrai gyvenantys asmenys
-arba vienas gyvenantis asmuo turi teisę į šią pašalpą.
+1. Socialinė pašalpa
+skiriama 3 mėnesiams nuo prašymo-paraiškos pateikimo mėnesio pirmos dienos,
+jeigu kreipimosi ir sprendimo priėmimo metu bendrai gyvenantys asmenys arba
+vienas gyvenantis asmuo turi teisę į šią pašalpą.
 2. Pasibaigus
 paskirtos socialinės pašalpos teikimo laikotarpiui, dėl tolesnio jos skyrimo bendrai
 gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę kreiptis per 2 mėnesius
@@ -1256,16 +1340,16 @@ pašalpos ir sprendimo priėmimo metu, taip pat laikotarpiu, už kurį skiriama
 socialinė pašalpa, turi teisę gauti socialinę pašalpą.
 3. Jeigu
 pasibaigus paskirtos socialinės pašalpos teikimo laikotarpiui kreipiamasi
-vėliau kaip po 2 mėnesių nuo anksčiau paskirtos socialinės pašalpos teikimo
-laikotarpio pabaigos, socialinė pašalpa skiriama nuo prašymo-paraiškos
+vėliau kaip po 2 mėnesių nuo anksčiau paskirtos socialinės pašalpos
+teikimo laikotarpio pabaigos, socialinė pašalpa skiriama nuo prašymo-paraiškos
 pateikimo mėnesio pirmos dienos.
 4. Kompensacijos
 skiriamos 3 mėnesiams nuo mėnesio, kurį bendrai gyvenantys asmenys arba
 vienas gyvenantis asmuo įgijo teisę į kompensacijas, pirmos dienos, tačiau ne
 daugiau kaip už 2 praėjusius mėnesius iki prašymo-paraiškos pateikimo mėnesio,
 jeigu bendrai gyvenantys asmenys arba vienas gyvenantis asmuo kreipimosi dėl
-kompensacijų ir sprendimo priėmimo metu, taip pat laikotarpiu, už kurį skiriamos
-kompensacijos, turi teisę gauti kompensacijas.
+kompensacijų ir sprendimo priėmimo metu, taip pat laikotarpiu, už kurį
+skiriamos kompensacijos, turi teisę gauti kompensacijas.
 5. Jeigu
 pasibaigus paskirtos kompensacijos teikimo laikotarpiui dėl tolesnio jos
 skyrimo bendrai
@@ -1326,10 +1410,10 @@ teritorinėje darbo biržoje ar kitos valstybės valstybinėje įdarbinimo
 tarnyboje. 
 12. Jeigu
 bendrojo naudojimo objekto valdytojas arba savivaldybės programos įgyvendinimo
-administratorius savivaldybės administracijai pateikia dokumentus, patvirtinančius,
-kad daugiabučio namo buto savininkas, kuris turi teisę į būsto šildymo išlaidų
-kompensaciją arba ją gauna, nedalyvavo susirinkime svarstant ir priimant
-sprendimą dėl daugiabučio namo atnaujinimo (modernizavimo) projekto
+administratorius savivaldybės administracijai pateikia dokumentus,
+patvirtinančius, kad daugiabučio namo buto savininkas, kuris turi teisę į būsto
+šildymo išlaidų kompensaciją arba ją gauna, nedalyvavo susirinkime svarstant ir
+priimant sprendimą dėl daugiabučio namo atnaujinimo (modernizavimo) projekto
 įgyvendinimo ir atsisakė dalyvauti įgyvendinant šį projektą, ateinantį šildymo
 sezoną jo bendrai gyvenantiems asmenims arba vienam gyvenančiam daugiabučio
 namo buto savininkui skiriama kompensuojama būsto šildymo išlaidų dalis
@@ -1364,8 +1448,8 @@ paslaugos teikimo eigos stebėsenos modulyje.
 Straipsnio
 pakeitimai:
 Nr.
-XII-329, 2013-05-16,
-Žin., 2013, Nr. 57-2861 (2013-06-01)
+XII-329,
+2013-05-16, Žin., 2013, Nr. 57-2861 (2013-06-01)
  
 22
 straipsnis. Piniginės socialinės paramos teikimas
@@ -1376,8 +1460,7 @@ pašalpa gali būti teikiama:
 forma (maisto produktais, drabužiais ir kitomis reikalingomis prekėmis,
 socialinėmis kortelėmis, maitinimo talonais, apmokant vaikų (įvaikių) maitinimo
 išlaidas mokyklose ar dienos centruose, apmokant suaugusių asmenų gydymosi nuo
-priklausomybių ligų išlaidas ir kitais savivaldybės tarybos nustatytais
-būdais);
+priklausomybių ligų išlaidas ir kitais savivaldybės tarybos nustatytais būdais);
 3) pinigais ir
 (ar) nepinigine forma teikiamą socialinę pašalpą derinant su socialinėmis
 paslaugomis (bendrosiomis, socialinės priežiūros).
@@ -1405,11 +1488,11 @@ vadovaujantis šio įstatymo 21 straipsnio 2 ir 5 dalimis.
 laiku neatsiimta socialinė pašalpa ir (ar) kompensacijos išmokamos, jeigu dėl
 jų buvo kreiptasi ne vėliau kaip per 3 mėnesius nuo paskutinio mėnesio, už kurį
 socialinė pašalpa ir (ar) kompensacijos buvo paskirtos. 
-5. Mirus
-asmeniui, kurio vardu bendrai gyvenantiems asmenims mokama socialinė pašalpa ir
-(ar) kompensacijos, šiems bendrai gyvenantiems asmenims paskirta ir iki kito
-mėnesio po jo mirties neišmokėta pašalpa ir (ar) kompensacijos, jeigu dėl jų
-buvo kreiptasi ne vėliau kaip per 3 mėnesius po socialinę pašalpą ir (ar)
+5. Mirus asmeniui,
+kurio vardu bendrai gyvenantiems asmenims mokama socialinė pašalpa ir (ar)
+kompensacijos, šiems bendrai gyvenantiems asmenims paskirta ir iki kito mėnesio
+po jo mirties neišmokėta pašalpa ir (ar) kompensacijos, jeigu dėl jų buvo
+kreiptasi ne vėliau kaip per 3 mėnesius po socialinę pašalpą ir (ar)
 kompensacijas gavusio asmens mirties dienos, išmokamos
 mirusįjį laidojusiam vienam iš bendrai gyvenančių asmenų,
 pateikus laisvos formos prašymą ir mirties liudijimo
@@ -1439,10 +1522,10 @@ administracijos pareigos ir teisės teikiant piniginę socialinę paramą
 1. Savivaldybės
 administracija, teikdama piniginę socialinę paramą, privalo:
 1) derinti
-socialinės pašalpos teikimo bendrai gyvenantiems asmenims arba vieniems gyvenantiems
-asmenims, patyrusiems socialinę riziką, formas – nepinigine forma ir pinigais –
-savivaldybės tarybos nustatyta tvarka. Socialinės pašalpos dydis pinigais
-negali viršyti 50 procentų paskirtos socialinės pašalpos dydžio;
+socialinės pašalpos teikimo bendrai gyvenantiems asmenims arba vieniems
+gyvenantiems asmenims, patyrusiems socialinę riziką, formas – nepinigine forma
+ir pinigais – savivaldybės tarybos nustatyta tvarka. Socialinės pašalpos dydis
+pinigais negali viršyti 50 procentų paskirtos socialinės pašalpos dydžio;
 2) kompensacijas
 bendrai gyvenantiems asmenims arba vieniems gyvenantiems asmenims, patyrusiems
 socialinę riziką, teikti šio įstatymo 22 straipsnio 2 dalies 2 punkte nustatytu
@@ -1477,14 +1560,14 @@ gyvenančiam asmeniui, kurie nevykdo šio įstatymo 7 straipsnio 1 dalies 3 punk
 nustatyto reikalavimo;
 7) kilus
 pagrįstų įtarimų dėl prašyme-paraiškoje pateiktų duomenų apie turimą turtą ir
-gaunamas pajamas arba patikrinimo metu kilus pagrįstam įtarimui, kad yra
-pateikti neteisingi duomenys arba jie nuslepiami, pareikalauti, kad bendrai
-gyvenantys asmenys arba vienas gyvenantis asmuo deklaruotų turtą (įskaitant
-gaunamas pajamas) Lietuvos Respublikos gyventojų turto deklaravimo įstatymo
-(toliau – Gyventojų turto deklaravimo įstatymas) nustatyta tvarka, ir
-informuoti nelegalaus darbo kontrolę ir prevenciją vykdančias institucijas dėl
-galimai nelegaliai gautų ar gaunamų pajamų ir (ar) nelegalaus darbo ar
-neteisėtos veiklos, susijusios su pajamų gavimu;
+gaunamas pajamas arba patikrinimo metu kilus pagrįstam įtarimui, kad yra pateikti
+neteisingi duomenys arba jie nuslepiami, pareikalauti, kad bendrai gyvenantys
+asmenys arba vienas gyvenantis asmuo deklaruotų turtą (įskaitant gaunamas
+pajamas) Lietuvos Respublikos gyventojų turto deklaravimo įstatymo (toliau –
+Gyventojų turto deklaravimo įstatymas) nustatyta tvarka, ir informuoti
+nelegalaus darbo kontrolę ir prevenciją vykdančias institucijas dėl galimai
+nelegaliai gautų ar gaunamų pajamų ir (ar) nelegalaus darbo ar neteisėtos
+veiklos, susijusios su pajamų gavimu;
 8) kilus
 pagrįstų įtarimų dėl prašyme-paraiškoje pateiktų duomenų apie turimą turtą ir
 gaunamas pajamas, tikrinti bendrai gyvenančių asmenų arba vieno gyvenančio
@@ -1537,11 +1620,19 @@ nutraukti jų teikimą, iki pareigos bus įvykdytos;
 neteikti piniginės socialinės paramos, jeigu bendrai gyvenančių asmenų arba
 vieno gyvenančio asmens turimų piniginių lėšų dydis viršija šio įstatymo 16
 straipsnio 5 dalyje nustatytą piniginių lėšų normatyvą; 
+Redakcija nuo
+2014-01-01:
+6) savivaldybės
+tarybos patvirtintame tvarkos apraše nustatytų aplinkybių pagrindu 6 mėnesius
+neteikti piniginės socialinės paramos, jeigu bendrai gyvenančių asmenų arba
+vieno gyvenančio asmens turimų piniginių lėšų dydis viršija šio įstatymo 16
+straipsnio 5 dalyje nustatytą piniginių lėšų normatyvą;
+ 
 7) 6 mėnesius
 neteikti piniginės socialinės paramos, jeigu bendrai gyvenantys asmenys arba
 vienas gyvenantis asmuo per 6 mėnesius iki kreipimosi dėl piniginės socialinės
-paramos perleido nuosavybėn kitam asmeniui šio įstatymo 14 straipsnio 1 dalies
-1–8 punktuose nurodytą turtą ir kreipdamiesi (kreipdamasis) dėl piniginės
+paramos perleido nuosavybėn kitam asmeniui šio įstatymo 14 straipsnio 1 dalies 1–8
+punktuose nurodytą turtą ir kreipdamiesi (kreipdamasis) dėl piniginės
 socialinės paramos prašyme-paraiškoje nenurodė gautų piniginių lėšų ar už jas
 įsigyto naujo turto; 
 8) 6 mėnesius
@@ -1555,6 +1646,20 @@ atveju socialinė pašalpa gali būti skiriama vaikams, įskaitant pilnamečius
 vaikus (įvaikius), kai jie mokosi pagal bendrojo ugdymo programą ir laikotarpiu
 nuo bendrojo ugdymo programos baigimo dienos iki tų pačių metų rugsėjo 1
 dienos;
+Redakcija nuo
+2014-01-01:
+8) 6 mėnesius
+neteikti piniginės socialinės paramos ar 6 mėnesiams nutraukti jos teikimą
+darbingo amžiaus darbingam (darbingiems) vienam gyvenančiam asmeniui arba
+bendrai gyvenantiems asmenims, vykdantiems individualią veiklą ir (ar)
+nekilnojamųjų daiktų pardavimo ir (ar) nuomos veiklą, kuriems ilgiau kaip 6
+mėnesius buvo teikiama piniginė socialinė parama, jeigu jie prašyme-paraiškoje
+nurodo, kad šiuo laikotarpiu iš vykdomos veiklos gavo mažesnes kaip minimalioji
+mėnesinė alga vidutines pajamas per mėnesį. Šiuo atveju socialinė pašalpa gali
+būti skiriama vaikams, įskaitant pilnamečius vaikus (įvaikius), kai jie mokosi
+pagal bendrojo ugdymo programą ir laikotarpiu nuo bendrojo ugdymo programos
+baigimo dienos iki tų pačių metų rugsėjo 1 dienos;
+ 
 9) 12 mėnesių
 neteikti piniginės socialinės paramos ar 12 mėnesių nutraukti jos mokėjimą,
 jeigu bendrai gyvenantys asmenys arba vienas gyvenantis asmuo piniginės
@@ -1576,9 +1681,9 @@ gauna šią paramą, tikrinti jų pateiktus dokumentus ir reikalauti papildomų
 duomenų, įrodančių bendrai gyvenančių asmenų arba vieno gyvenančio asmens teisę
 į piniginę socialinę paramą; 
 12) siekdama
-įvertinti piniginės socialinės paramos teikimo veiksmingumą, savivaldybės tarybos
-nustatyta tvarka periodiškai tikrinti bendrai gyvenančių asmenų arba vieno
-gyvenančio asmens gyvenimo sąlygas, turimą turtą ir užimtumą; 
+įvertinti piniginės socialinės paramos teikimo veiksmingumą, savivaldybės
+tarybos nustatyta tvarka periodiškai tikrinti bendrai gyvenančių asmenų arba
+vieno gyvenančio asmens gyvenimo sąlygas, turimą turtą ir užimtumą; 
 13) nereikalauti
 iš piniginę socialinę paramą gaunančių bendrai gyvenančių asmenų arba vieno
 gyvenančio asmens iš naujo pateikti tų duomenų, kurie iki pakartotinio
@@ -1590,11 +1695,21 @@ gyvenamosios vietovės bendruomenės narius, ir (ar) seniūnaičius, ir (ar) kit
 suinteresuotus asmenis dalyvauti svarstant klausimus dėl piniginės socialinės
 paramos skyrimo ir teikti socialines paslaugas šio straipsnio 1 dalies 1
 punkte, 2 dalies 3, 5 punktuose ir 3 dalyje numatytais atvejais.
+Redakcija nuo
+2014-01-01:
+14) pasitelkti
+bendruomeninių organizacijų ir (ar) religinių bendruomenių, ir (ar) religinių
+bendrijų, ir (ar) kitų nevyriausybinių organizacijų atstovus ir (ar)
+gyvenamosios vietovės bendruomenės narius, ir (ar) seniūnaičius, ir (ar) kitus
+suinteresuotus asmenis dalyvauti svarstant klausimus dėl piniginės socialinės
+paramos skyrimo ir teikti socialines paslaugas šio straipsnio 1 dalies 1
+punkte, 2 dalies 2, 3, 4, 5 punktuose ir 3 dalyje numatytais atvejais.
+ 
 3. Patikrinus
 bendrai gyvenančių asmenų arba vieno gyvenančio asmens gyvenimo sąlygas ir
 surašius buities ir gyvenimo sąlygų patikrinimo aktą, savivaldybės
-administracijai suteikiama teisė savivaldybės tarybos nustatyta tvarka iš šio įstatymo
-4 straipsnio 2 dalyje numatytų lėšų: 
+administracijai suteikiama teisė savivaldybės tarybos nustatyta tvarka iš šio
+įstatymo 4 straipsnio 2 dalyje numatytų lėšų: 
 1) skirti
 socialinę pašalpą, jeigu bendrai gyvenančių asmenų arba vieno gyvenančio asmens
 pajamos yra mažesnės už valstybės remiamas pajamas bendrai gyvenantiems
@@ -1626,8 +1741,8 @@ remiamų pajamų dydį ir bendrai gyvenantys asmenys arba vienas gyvenantis asmu
 atitinka šio įstatymo 6 straipsnio 1 ir 3 punktuose nustatytus reikalavimus:
 vienam gyvenančiam asmeniui ir dviem bendrai gyvenantiems asmenims – 25
 procentų valstybės remiamų pajamų dydžio; trims ir keturiems bendrai
-gyvenantiems asmenims – 50 procentų valstybės remiamų pajamų dydžio; penkiems
-ir daugiau – 70 procentų valstybės remiamų pajamų dydžio;
+gyvenantiems asmenims – 50 procentų valstybės remiamų pajamų dydžio; penkiems ir
+daugiau – 70 procentų valstybės remiamų pajamų dydžio;
 7) skirti
 būsto šildymo išlaidų kompensaciją vienam gyvenančiam asmeniui arba bendrai
 gyvenantiems asmenims, jeigu jie deklaruoja gyvenamąją vietą jų nuosavybės
@@ -1647,7 +1762,79 @@ nemažinti socialinės pašalpos dydžio, kaip nustatyta šio įstatymo 10 strai
 valstybės valstybinė įdarbinimo tarnyba socialinės pašalpos teikimo laikotarpiu
 nepasiūlė darbo arba nepasiūlė dalyvauti aktyvios darbo rinkos politikos
 priemonėse.
+Redakcija nuo
+2014-01-01:
+3. Patikrinus
+bendrai gyvenančių asmenų arba vieno gyvenančio asmens gyvenimo sąlygas ir
+surašius buities ir gyvenimo sąlygų patikrinimo aktą, savivaldybės
+administracijai suteikiama teisė savivaldybės tarybos nustatyta tvarka:
+1) skirti
+socialinę pašalpą, jeigu bendrai gyvenančių asmenų arba vieno gyvenančio asmens
+pajamos yra mažesnės už valstybės remiamas pajamas bendrai gyvenantiems asmenims
+arba vienam gyvenančiam asmeniui, tačiau bendrai gyvenantys asmenys arba vienas
+gyvenantis asmuo neatitinka šio įstatymo 6 straipsnio 1 ar 3 punkte nustatytų
+reikalavimų;
+2) skirti
+kompensacijas, jeigu išlaidos už būsto šildymą, už faktinį geriamojo vandens ir
+(ar) karšto vandens kiekį atitinka šio įstatymo 11 straipsnio nustatytus
+kompensuojamus dydžius, tačiau bendrai gyvenantys asmenys arba vienas
+gyvenantis asmuo neatitinka šio įstatymo 7 straipsnio 1 dalies 1 ar 2 punkte
+nustatytų reikalavimų;
+3) skirti būsto
+šildymo išlaidų kompensaciją už didesnį, negu nustatyta šio įstatymo 12
+straipsnio 1 dalies 1 punkte, naudingojo būsto ploto normatyvą;
+4) skirti
+socialinę pašalpą ir kompensacijas bendrai gyvenantiems asmenims, kurie nėra
+sudarę teismo patvirtintos sutarties dėl vaiko (įvaikio) materialinio išlaikymo
+arba dėl išlaikymo ir (ar) tėvystės nustatymo nesikreipė į teismą arba dėl
+išlaikymo ir (ar) tėvystės nustatymo kreipėsi į teismą, bet tėvystė nebuvo
+nustatyta ir (ar) išlaikymas nebuvo priteistas arba pareiškimas paliktas
+nenagrinėtas;
+5) skirti
+socialinę pašalpą bendrai gyvenantiems asmenims, santuokos nutraukimo bylos
+nagrinėjimo metu esant ginčui, atskirai;
+6) skirti
+socialinę pašalpą, jeigu bendrai gyvenančių asmenų arba vieno gyvenančio asmens
+vidutinės pajamos per mėnesį ne daugiau kaip 20 procentų viršija valstybės
+remiamų pajamų dydį ir bendrai gyvenantys asmenys arba vienas gyvenantis asmuo
+atitinka šio įstatymo 6 straipsnio 1 ir 3 punktuose nustatytus reikalavimus:
+vienam gyvenančiam asmeniui ir dviem bendrai gyvenantiems asmenims – 25
+procentų valstybės remiamų pajamų dydžio; trims ir keturiems bendrai
+gyvenantiems asmenims – 50 procentų valstybės remiamų pajamų dydžio; penkiems
+ir daugiau – 70 procentų valstybės remiamų pajamų dydžio;
+7) skirti būsto
+šildymo išlaidų kompensaciją vienam gyvenančiam asmeniui arba bendrai
+gyvenantiems asmenims, jeigu jie deklaruoja gyvenamąją vietą jų nuosavybės
+teise turimame būste arba nuomojasi būstą, kuris Nekilnojamojo turto registre
+nėra įregistruotas kaip gyvenamosios patalpos arba atskira gyvenamoji patalpa,
+kai bendraturčių nuosavybės teisės dalys nėra nustatytos;
+8) skirti būsto
+šildymo išlaidų kompensaciją, jeigu daugiabučio namo buto savininkas neatitinka
+šio įstatymo 7 straipsnio 5 dalyje nustatytų reikalavimų;
+9) skirti
+socialinę pašalpą ir kompensacijas bendrai gyvenantiems asmenims arba vienam
+gyvenančiam asmeniui, kai jiems piniginė socialinė parama neskiriama šio
+įstatymo 21 straipsnio 11 dalyje nustatytu atveju;
+10)
+nemažinti socialinės pašalpos dydžio, kaip nustatyta šio įstatymo 10 straipsnio
+2 dalies 1–5 punktuose, jeigu Lietuvos teritorinė darbo birža ar kitos
+valstybės valstybinė įdarbinimo tarnyba socialinės pašalpos teikimo laikotarpiu
+nepasiūlė darbo arba nepasiūlė dalyvauti aktyvios darbo rinkos politikos
+priemonėse.
+ 
 4. Savivaldybės
+tarybos nustatyta tvarka iš savivaldybės biudžeto lėšų socialinė parama gali
+būti skiriama ir kitais atvejais (skiriama vienkartinė pašalpa; apmokama skola
+už būstą; kompensuojamos išlaidos už didesnį karšto ir geriamojo vandens kiekį,
+negu šiame įstatyme nustatytas normatyvas; kompensuojamos šiame įstatyme
+nenurodytos būsto išlaikymo išlaidos ir kita). 
+Straipsnis papildomas nauja
+4 dalimi, buvusi 4 dalis laikoma 5 dalimi nuo 2014-01-01:
+4. Šio
+straipsnio 3 dalies 2, 3, 4, 7, 8, 9 punktuose nustatytais atvejais kompensacijos
+teikiamos iš šio įstatymo 4 straipsnio 3 dalies 2 punkte
+nurodytų lėšų.
+5. Savivaldybės
 tarybos nustatyta tvarka iš savivaldybės biudžeto lėšų socialinė parama gali
 būti skiriama ir kitais atvejais (skiriama vienkartinė pašalpa; apmokama skola
 už būstą; kompensuojamos išlaidos už didesnį karšto ir geriamojo vandens kiekį,
@@ -1658,6 +1845,9 @@ pakeitimai:
 Nr.
 XII-329,
 2013-05-16, Žin., 2013, Nr. 57-2861 (2013-06-01)
+Nr.
+XII-621,
+2013-11-26, Žin., 2013, Nr. 126-6414 (2013-12-10)
  
 24
 straipsnis. Informacijos teikimas
@@ -1672,11 +1862,11 @@ duomenis ir (ar) informaciją, reikalingus piniginei socialinei paramai skirti.
 3. Vyriausybės
 ar jos įgaliotos institucijos nustatyta tvarka savivaldybių administracijos
 teikia Socialinės apsaugos ir darbo ministerijai duomenis apie savivaldybės
-teritorijoje gyvenantiems nepasiturintiems gyventojams suteiktą piniginę
-socialinę paramą bei jos reikalavimu kitus duomenis apie šią paramą. Be to,
-duomenis apie nepasiturinčius gyventojus, jiems teikiamą ar nepaskirtą piniginę
-socialinę paramą, nurodant jos neskyrimo priežastis, teikia Socialinės paramos
-šeimai informacinėje sistemoje (SPIS).
+teritorijoje gyvenantiems nepasiturintiems gyventojams suteiktą piniginę socialinę
+paramą bei jos reikalavimu kitus duomenis apie šią paramą. Be to, duomenis apie
+nepasiturinčius gyventojus, jiems teikiamą ar nepaskirtą piniginę socialinę
+paramą, nurodant jos neskyrimo priežastis, teikia Socialinės paramos šeimai
+informacinėje sistemoje (SPIS).
 4. Savivaldybių
 administracijos užtikrina nepasiturinčių gyventojų pateiktų piniginei
 socialinei paramai gauti duomenų konfidencialumą.
@@ -1698,11 +1888,11 @@ visas teisėtas kitų pajamų gavimo galimybes (sudaryti teismo patvirtintą
 sutartį dėl vaiko (įvaikio) materialinio išlaikymo, kreiptis į Vaikų išlaikymo
 fondo administratorių, gauti teisės aktais nustatytas priklausančias išmokas ir
 (ar) pašalpas ir kita);
-2) pagal Vyriausybės
-ar jos įgaliotos institucijos patvirtintą prašymo-paraiškos formą ir jos
-priedus pateikti visą ir teisingą informaciją, įrodančią bendrai gyvenančių
-asmenų arba vieno gyvenančio asmens teisę gauti piniginę socialinę paramą, ir
-būtinus piniginei socialinei paramai gauti dokumentus; 
+2) pagal
+Vyriausybės ar jos įgaliotos institucijos patvirtintą prašymo-paraiškos formą
+ir jos priedus pateikti visą ir teisingą informaciją, įrodančią bendrai
+gyvenančių asmenų arba vieno gyvenančio asmens teisę gauti piniginę socialinę
+paramą, ir būtinus piniginei socialinei paramai gauti dokumentus; 
 3) per mėnesį
 pranešti apie materialinės padėties pasikeitimą ar atsiradusias aplinkybes,
 turinčius įtakos teisei į piniginę socialinę paramą arba piniginės socialinės
@@ -1722,11 +1912,11 @@ kad bendrai gyvenantys asmenys arba vienas gyvenantis asmuo piniginę socialinę
 paramą gavo neteisėtai, nes kreipimosi dėl piniginės socialinės paramos metu
 pateikė neteisingus duomenis apie turtą, gaunamas pajamas, bendrai gyvenančius
 asmenis arba kitus duomenis, reikalingus piniginei socialinei paramai skirti,
-arba paramos teikimo laikotarpiu per mėnesį nepranešė apie materialinės
-padėties pasikeitimą ar atsiradusias aplinkybes, turinčias įtakos teisei į
-piniginę socialinę paramą arba piniginės socialinės paramos dydžiui, bendrai
-gyvenantys asmenys arba vienas gyvenantis asmuo turi grąžinti neteisėtai gautą
-pinigų sumą arba ją sumokėti dalimis.
+arba paramos teikimo laikotarpiu per mėnesį nepranešė apie materialinės padėties
+pasikeitimą ar atsiradusias aplinkybes, turinčias įtakos teisei į piniginę
+socialinę paramą arba piniginės socialinės paramos dydžiui, bendrai gyvenantys
+asmenys arba vienas gyvenantis asmuo turi grąžinti neteisėtai gautą pinigų sumą
+arba ją sumokėti dalimis.
 2. Negrąžinta
 neteisėtai gauta piniginė socialinė parama yra išskaičiuojama vadovaujantis
 savivaldybės administracijos priimtu sprendimu iš piniginę socialinę paramą
@@ -1917,10 +2107,10 @@ Lietuvos Respublikos Seimas,
 Nr. IX-2539,
 2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26)
 MOKSLININKŲ VALSTYBINIŲ PENSIJŲ
-LAIKINOJO ĮSTATYMO, VALSTYBINIŲ PENSIJŲ ĮSTATYMO, TEISĖJŲ VALSTYBINIŲ PENSIJŲ
-ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO SENATVĖS PENSIJŲ IŠANKSTINIO MOKĖJIMO
-ĮSTATYMO, PINIGINĖS SOCIALINĖS PARAMOS MAŽAS PAJAMAS GAUNANČIOMS ŠEIMOMS
-(VIENIEMS GYVENANTIEMS ASMENIMS) ĮSTATYMO PAKEITIMO ĮSTATYMAS
+LAIKINOJO ĮSTATYMO, VALSTYBINIŲ PENSIJŲ ĮSTATYMO, TEISĖJŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO,
+VALSTYBINIŲ SOCIALINIO DRAUDIMO SENATVĖS PENSIJŲ IŠANKSTINIO MOKĖJIMO ĮSTATYMO,
+PINIGINĖS SOCIALINĖS PARAMOS MAŽAS PAJAMAS GAUNANČIOMS ŠEIMOMS (VIENIEMS
+GYVENANTIEMS ASMENIMS) ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2005
 m. sausio 1 d.
  
@@ -1938,11 +2128,13 @@ Lietuvos Respublikos Seimas,
 Įstatymas
 Nr. X-916, 2006-11-21,
 Žin., 2006, Nr. 130-4889 (2006-11-30)
-PINIGINĖS SOCIALINĖS PARAMOS
-MAŽAS PAJAMAS GAUNANČIOMS ŠEIMOMS (VIENIEMS GYVENANTIEMS ASMENIMS) ĮSTATYMO
-PAKEITIMO ĮSTATYMAS
+PINIGINĖS SOCIALINĖS PARAMOS MAŽAS
+PAJAMAS GAUNANČIOMS ŠEIMOMS (VIENIEMS GYVENANTIEMS ASMENIMS) ĮSTATYMO PAKEITIMO
+ĮSTATYMAS
 Nauja
-įstatymo redakcija (keistas įstatymo pavadinimas)
+įstatymo redakcija 
+Keistas
+įstatymo pavadinimas
 Šis
 įstatymas įsigalioja nuo 2006 m. gruodžio 1 d.
  
@@ -1972,9 +2164,9 @@ Respublikos Seimas, Įstatymas
 Nr.
 XI-359,
 2009-07-17, Žin., 2009, Nr. 93-3963 (2009-08-04)
-PINIGINĖS SOCIALINĖS PARAMOS NEPASITURINČIOMS
-ŠEIMOMS IR VIENIEMS GYVENANTIEMS ASMENIMS ĮSTATYMO 2, 4, 7, 9, 12 STRAIPSNIŲ
-PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+PINIGINĖS SOCIALINĖS PARAMOS
+NEPASITURINČIOMS ŠEIMOMS IR VIENIEMS GYVENANTIEMS ASMENIMS ĮSTATYMO 2, 4, 7, 9,
+12 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis
 įstatymas, išskyrus 7 straipsnį, įsigalioja 2009 m. rugsėjo 1 d.
  
@@ -2021,12 +2213,12 @@ Nr. XI-1772,
 PINIGINĖS SOCIALINĖS PARAMOS
 NEPASITURINČIOMS ŠEIMOMS IR VIENIEMS GYVENANTIEMS ASMENIMS ĮSTATYMO PAKEITIMO
 ĮSTATYMAS
-Nauja įstatymo redakcija (keistas
-įstatymo pavadinimas)
+Nauja įstatymo redakcija 
+Keistas įstatymo pavadinimas
 Šis įstatymas, išskyrus 1
-straipsnyje išdėstyto Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems
-gyventojams įstatymo 4 straipsnio 4 dalies 2 punktą ir šio įstatymo 2
-straipsnio 2, 3, 4 dalis, ir šio straipsnio 2 dalį, įsigalioja 2012 m. sausio 1 d.
+straipsnyje išdėstyto Lietuvos Respublikos piniginės socialinės paramos
+nepasiturintiems gyventojams įstatymo 4 straipsnio 4 dalies 2 punktą ir šio
+įstatymo 2 straipsnio 2, 3, 4 dalis, ir šio straipsnio 2 dalį, įsigalioja 2012 m. sausio 1 d.
 Šio įstatymo 1 straipsnyje
 išdėstyto Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems
 gyventojams įstatymo 4 straipsnio 4 dalies 1 punktas galioja iki 2012 m. gruodžio 31 d.
@@ -2044,8 +2236,7 @@ Respublikos Seimas, Įstatymas
 Nr. XI-2414,
 2012-11-13, Žin., 2012, Nr. 136-6968 (2012-11-24)
 PINIGINĖS SOCIALINĖS PARAMOS
-NEPASITURINTIEMS GYVENTOJAMS ĮSTATYMO 17 STRAIPSNIO PAKEITIMO IR PAPILDYMO
-ĮSTATYMAS
+NEPASITURINTIEMS GYVENTOJAMS ĮSTATYMO 17 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2013 m.
 balandžio 1 d.
  
@@ -2054,8 +2245,8 @@ Lietuvos Respublikos Seimas,
 Įstatymas
 Nr. XII-150,
 2013-01-17, Žin., 2013, Nr. 10-421 (2013-01-26)
-PINIGINĖS SOCIALINĖS PARAMOS
-NEPASITURINTIEMS GYVENTOJAMS ĮSTATYMO 8 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+PINIGINĖS SOCIALINĖS PARAMOS NEPASITURINTIEMS
+GYVENTOJAMS ĮSTATYMO 8 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis įstatymas, išskyrus šio
 straipsnio 2 dalį, įsigalioja 2013 m. kovo 1 d.
  
@@ -2087,12 +2278,32 @@ skaičiuoti nuo šio įstatymo įsigaliojimo dienos.
 įstatymas, išskyrus šio straipsnio 2 ir 3 dalis, įsigalioja 2013 m. birželio
 1 d.
  
+18.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XII-621,
+2013-11-26, Žin., 2013, Nr. 126-6414 (2013-12-10)
+PINIGINĖS SOCIALINĖS PARAMOS
+NEPASITURINTIEMS GYVENTOJAMS ĮSTATYMO 4, 23 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
+ĮSTATYMAS
+Socialinės pašalpos skyrimas
+įsigaliojus šio įstatymo nuostatoms:
+1) jeigu sprendimas dėl socialinės pašalpos skyrimo priimtas iki šio įstatymo įsigaliojimo, socialinės
+pašalpos dydis neperskaičiuojamas;
+2) jeigu dėl socialinės pašalpos
+buvo kreiptasi iki šio įstatymo įsigaliojimo, skiriant socialinę pašalpą,
+taikomos iki šio įstatymo įsigaliojimo galiojusios Lietuvos Respublikos
+piniginės socialinės paramos nepasiturintiems gyventojams įstatymo nuostatos.
+Jeigu dėl socialinės pašalpos kreipiamasi įsigaliojus šio įstatymo nuostatoms,
+skiriant socialinę pašalpą, taikomos šio įstatymo nuostatos. 
+Šis įstatymas, išskyrus šio
+straipsnio 2 ir 3 dalis, įsigalioja 2014 m. sausio 1 d.
  
-***
-Pabaiga ***
+*** Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2013-06-04)
+Aušrinė Trapinskienė (2013-12-10)
                  
 ausrine.trapinskiene@lrs.lt
