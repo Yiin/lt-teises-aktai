@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DBF4203C51A1"
 
 # Lietuvos Respublikos nacionalinės teismų administracijos įstatymas
 
-Suvestinė redakcija nuo 2013-06-01 iki 2013-12-11
+Suvestinė redakcija nuo 2013-12-12 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 31-1130, i. k. 1021010ISTA00IX-787
  
@@ -327,7 +327,10 @@ Nr. XII-296, 2013-05-14, Žin., 2013, Nr. 57-2840 (2013-06-01), i. k. 1131010IST
 
 
 
-4. Nacionalinės teismų administracijos direktoriumi gali būti skiriamas nepriekaištingos reputacijos asmuo, turintis aukštąjį universitetinį teisinį išsilavinimą, ne mažesnį kaip 10 metų teisinio darbo stažą ir 5 metų vadovaujamo darbo stažą.
+4. Nacionalinės teismų administracijos direktoriumi gali būti skiriamas nepriekaištingos reputacijos asmuo, turintis aukštąjį universitetinį socialinių mokslų studijų srities išsilavinimą ir ne mažesnį kaip 5 metų teisinio ar vadovaujamo darbo stažą.
+Straipsnio dalies pakeitimai:
+Nr. XII-631, 2013-12-03, Žin., 2013, Nr. 127-6447 (2013-12-12), i. k. 1131010ISTA0XII-631
+ 
 
 
 
@@ -380,3 +383,8 @@ Lietuvos Respublikos nacionalinės teismų administracijos įstatymo pakeitimo �
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-296, 2013-05-14, Žin., 2013, Nr. 57-2840 (2013-06-01), i. k. 1131010ISTA0XII-296
 Lietuvos Respublikos nacionalinės teismų administracijos įstatymo 2 straipsnio pakeitimo ir papildymo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-631, 2013-12-03, Žin., 2013, Nr. 127-6447 (2013-12-12), i. k. 1131010ISTA0XII-631
+Lietuvos Respublikos nacionalinės teismų administracijos įstatymo 4 straipsnio pakeitimo įstatymas
