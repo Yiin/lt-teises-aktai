@@ -6444,8 +6444,11 @@ Nr. XI-1480,
 teisę dalyvaujančių byloje asmenų prašymu ar savo
 iniciatyva, atsižvelgdamas į turtinę abiejų šalių padėtį ar kitas aplinkybes,
 sprendimo įvykdymą atidėti ar išdėstyti, taip pat pakeisti sprendimo vykdymo
-tvarką. Skubiai vykdytino sprendimo ar jo dalies įvykdymą atidėti ar išdėstyti
-negalima.
+tvarką. Jeigu teismo sprendimui, kuriuo iš Lietuvos valstybės priteistos
+mokėtinos sumos, įvykdyti reikalingos sumos nenumatytos patvirtintame valstybės
+biudžete, šio sprendimo įvykdymas atsakovo prašymu
+gali būti atidėtas kitiems biudžetiniams metams. Skubiai vykdytino sprendimo ar
+jo dalies įvykdymą atidėti ar išdėstyti negalima.
 2. Jeigu šio
 straipsnio 1 dalyje nurodyti klausimai nebuvo išspręsti teismo sprendimu, jie
 išnagrinėjami teismo posėdyje, pranešus dalyvaujantiems
@@ -6454,6 +6457,9 @@ iškeltą klausimą.
 3. Dėl teismo
 nutarties sprendimo vykdymo atidėjimo ar išdėstymo, taip pat sprendimo vykdymo
 tvarkos pakeitimo gali būti duodamas atskirasis skundas.
+Straipsnio pakeitimai:
+Nr.
+XII-633, 2013-12-03, Žin., 2013, Nr. 128-6521 (2013-12-14)
  
 285 straipsnis. Sprendimo už akių priėmimas
 1. Sprendimas už
@@ -6485,19 +6491,19 @@ neatvykusiai ar procesinio dokumento nepateikusiai šaliai nebuvo tinkamai
 pranešta apie parengiamojo ar teismo posėdžio laiką ir vietą arba nebuvo
 tinkamai įteikti procesiniai dokumentai, kuriuose nurodyta per nustatytus
 terminus pateikti atsiliepimą į ieškinį, paruošiamąjį dokumentą;
-2) kai iš
-neatvykusios šalies gautas prašymas atidėti parengiamąjį ar teismo posėdį ir jame
-nurodytos neatvykimo į posėdį priežastys, jeigu teismas šias priežastis
-pripažino svarbiomis;
+2) kai iš neatvykusios
+šalies gautas prašymas atidėti parengiamąjį ar teismo posėdį ir jame nurodytos
+neatvykimo į posėdį priežastys, jeigu teismas šias priežastis pripažino
+svarbiomis;
 3) kai atsakovui
 tinkamai pranešta tik dėl dalies ieškovo reikalavimų ir juos pagrindžiančių
 aplinkybių, tačiau kitų ieškinio reikalavimų negalima išnagrinėti skyrium;
 4) kitais šio
 Kodekso numatytais atvejais, kai priimti sprendimo už akių neleidžiama.
 4. Teismo atsisakymas priimti sprendimą už akių turi būti motyvuotas.
-5. Šalis, dėl
-kurios priimtas sprendimas už akių, negali šio sprendimo skųsti nei apeliacine,
-nei kasacine tvarka, tačiau gali šio Kodekso 287 straipsnyje nustatyta tvarka
+5. Šalis, dėl kurios
+priimtas sprendimas už akių, negali šio sprendimo skųsti nei apeliacine, nei
+kasacine tvarka, tačiau gali šio Kodekso 287 straipsnyje nustatyta tvarka
 paduoti pareiškimą dėl sprendimo už akių peržiūrėjimo.
 6. Sprendimo už
 akių priėmimas ir paskelbimas negali būti atidėtas. Sprendimo dėl atsiliepimo į
@@ -6529,10 +6535,10 @@ nurodyta pareiškimo dėl šio sprendimo peržiūrėjimo padavimo terminai ir tv
 nuo šio sprendimo priėmimo dienos paduoti sprendimą už akių priėmusiam teismui
 pareiškimą dėl sprendimo už akių peržiūrėjimo (toliau – pareiškimas). Šis
 terminas gali būti atnaujintas, jeigu teismas pripažįsta, kad jis praleistas
-dėl svarbių priežasčių. Dėl teismo nutarties, kuria atmestas prašymas
-atnaujinti praleistą terminą, gali būti duodamas atskirasis skundas. Prašymas
-atnaujinti praleistą pareiškimo padavimo terminą negali būti paduotas, jeigu
-praėjo daugiau kaip trys mėnesiai nuo sprendimo už akių priėmimo dienos.
+dėl svarbių priežasčių. Dėl teismo nutarties, kuria atmestas prašymas atnaujinti
+praleistą terminą, gali būti duodamas atskirasis skundas. Prašymas atnaujinti
+praleistą pareiškimo padavimo terminą negali būti paduotas, jeigu praėjo
+daugiau kaip trys mėnesiai nuo sprendimo už akių priėmimo dienos.
 2. Pareiškime
 turi būti nurodyta:
 1) teismo,
@@ -6568,12 +6574,12 @@ Nr. XI-1480,
  
 288
 straipsnis. Pareiškimo dėl sprendimo už akių peržiūrėjimo nagrinėjimas
-1. Priėmęs pareiškimą
-teismas persiunčia pareiškimo ir jo priedų kopijas šalims ir tretiesiems
-asmenims ir nurodo, kad per keturiolika dienų nuo jo išsiuntimo šalys privalo,
-o tretieji asmenys turi teisę raštu pateikti atsiliepimus į pareiškimą ir
-pateikti teismui visus reikalavimus, argumentus ir įrodymus, susijusius su
-byla.
+1. Priėmęs
+pareiškimą teismas persiunčia pareiškimo ir jo priedų kopijas šalims ir
+tretiesiems asmenims ir nurodo, kad per keturiolika dienų nuo jo išsiuntimo
+šalys privalo, o tretieji asmenys turi teisę raštu pateikti atsiliepimus į
+pareiškimą ir pateikti teismui visus reikalavimus, argumentus ir įrodymus,
+susijusius su byla.
 2. Paduotą
 pareiškimą teismas rašytinio proceso tvarka išnagrinėja ne vėliau kaip per
 keturiolika dienų nuo termino atsiliepimui pateikti pabaigos dienos.
@@ -6637,8 +6643,8 @@ išspręsti ir kitus klausimus.
 posėdžio (parengiamojo ar nagrinėjimo teisme) metu teismas turi teisę priimti
 rašytines arba žodines nutartis. Žodinė nutartis įrašoma į teismo posėdžio
 protokolą. Rašytinė nutartis priimama sprendimų priėmimo kambaryje ir surašoma
-kaip atskiras procesinis dokumentas. Teismo nutartis turi būti rašytinė, jeigu
-pagal šį Kodeksą ji gali būti skundžiama atskiruoju skundu. Pripažinęs, kad tai
+kaip atskiras procesinis dokumentas. Teismo nutartis turi būti rašytinė, jeigu pagal
+šį Kodeksą ji gali būti skundžiama atskiruoju skundu. Pripažinęs, kad tai
 būtina, teismas turi teisę priimti rašytines nutartis ir kitais atvejais.
 Teismas turi teisę sprendimų priėmimo kambaryje priimti ir žodinę nutartį.
 Išimtiniais atvejais teismas, atsižvelgdamas į sprendžiamo klausimo
@@ -6655,8 +6661,7 @@ rašytines nutartis.
 atvejais procesinius klausimus teisėjas gali išspręsti rezoliucija.
 Išspręsdamas klausimą rezoliucija, teisėjas ant sprendžiamo dokumento užrašo,
 kaip jis išsprendžia nagrinėjamą klausimą. Kartu teisėjas nurodo savo vardą ir
-pavardę, rezoliucijos priėmimo datą ir pasirašo. Teisėjo rezoliucija
-neskundžiama.
+pavardę, rezoliucijos priėmimo datą ir pasirašo. Teisėjo rezoliucija neskundžiama.
 6. Klausimai,
 kurie šiame Kodekse numatytais atvejais sprendžiami teisėjo rezoliucija, taip
 pat gali būti išspręsti nutartimi.
@@ -6771,9 +6776,9 @@ neįgaliotas vesti bylą asmuo;
 4) jeigu teisme
 nagrinėjamas ginčas tarp tų pačių šalių, dėl to paties dalyko ir tuo pačiu
 pagrindu;
-5) jeigu atsakovas
-neprašo priimti sprendimo už akių šio Kodekso 246 straipsnio 1 dalyje nurodytu
-atveju;
+5) jeigu
+atsakovas neprašo priimti sprendimo už akių šio Kodekso 246 straipsnio 1 dalyje
+nurodytu atveju;
 6) jeigu abi
 šalys, neprašiusios nagrinėti bylą jų nesant, neatvyko be svarbių priežasčių;
 7) jeigu
@@ -6794,23 +6799,23 @@ Kodekso ir Civilinio kodekso numatytais atvejais.
 straipsnio 1 dalies 7, 8 ir 11 punktų pagrindu ieškinys gali būti paliekamas
 nenagrinėtas tik tuo atveju, jeigu šalis per teismo nustatytą terminą trūkumų
 nepašalina, ir tik pirmosios instancijos teisme.
-3. Šio
-straipsnio 1 dalies 3 punkto pagrindu ieškinys gali būti paliekamas nenagrinėtas
-tik tuo atveju, jeigu šalis per teismo nustatytą terminą trūkumų nepašalina.
+3. Šio straipsnio
+1 dalies 3 punkto pagrindu ieškinys gali būti paliekamas nenagrinėtas tik tuo
+atveju, jeigu šalis per teismo nustatytą terminą trūkumų nepašalina.
 Straipsnio pakeitimai:
-Nr. XI-1480,
-2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+Nr. XI-1480, 2011-06-21,
+Žin., 2011, Nr. 85-4126 (2011-07-13)
 Nr.
 XI-2090,
 2012-06-21, Žin., 2012, Nr. 76-3933 (2012-06-30)
  
 297
 straipsnis. Pareiškimo palikimo nenagrinėto tvarka ir pasekmės
-1. Tais
-atvejais, kada pareiškimas paliekamas nenagrinėtas, byla užbaigiama teismo
-nutartimi. Šioje nutartyje teismas privalo nurodyti, kaip pašalinti aplinkybes,
-išvardytas šio Kodekso 296 straipsnio 1 dalies 1, 2, 3, 7, 8 ir 11 punktuose,
-kliudančias nagrinėti bylą.
+1. Tais atvejais,
+kada pareiškimas paliekamas nenagrinėtas, byla užbaigiama teismo nutartimi.
+Šioje nutartyje teismas privalo nurodyti, kaip pašalinti aplinkybes, išvardytas
+šio Kodekso 296 straipsnio 1 dalies 1, 2, 3, 7, 8 ir 11 punktuose, kliudančias
+nagrinėti bylą.
 2. Pašalinus
 aplinkybes, kurios buvo pagrindas pareiškimą palikti nenagrinėtą,
 suinteresuotas asmuo turi teisę vėl kreiptis į teismą su pareiškimu bendra
@@ -6818,8 +6823,8 @@ tvarka.
  
 298 straipsnis. Teismo nutarties palikti pareiškimą
 nenagrinėtą apskundimo tvarka
-Dėl teismo
-nutarties palikti pareiškimą nenagrinėtą gali būti duodamas atskirasis skundas.
+Dėl teismo nutarties
+palikti pareiškimą nenagrinėtą gali būti duodamas atskirasis skundas.
  
 PENKTASIS SKIRSNIS
 TEISMO NUTARTYS
@@ -6834,10 +6839,10 @@ institucijoms ar pareigūnams, informuodamas juos apie pažeidimus.
  
 300
 straipsnis. Teismo veiksmai paaiškėjus nusikalstamos veikos požymiams
-1. Jeigu bet
-kurioje civilinio proceso stadijoje paaiškėja, kad byloje dalyvaujančio asmens
-arba kito asmens veiksmai ar neveikimas turi nusikalstamos veikos požymių,
-teismas apie tai praneša prokurorui.
+1. Jeigu bet kurioje
+civilinio proceso stadijoje paaiškėja, kad byloje dalyvaujančio asmens arba
+kito asmens veiksmai ar neveikimas turi nusikalstamos veikos požymių, teismas
+apie tai praneša prokurorui.
 2. Šiais
 atvejais teismas, atsižvelgdamas į bylos aplinkybes, išnagrinėja civilinę bylą
 iš esmės arba ją sustabdo.
@@ -6884,15 +6889,15 @@ Nr. XI-1480,
  
 302
 straipsnis. Proceso taisyklės
-Apeliaciniam procesui
-taikomos šio Kodekso bendrosios nuostatos, taip pat pirmosios instancijos
-teismo procesą reglamentuojančios nuostatos, neprieštaraujančios šiame skyriuje
-nurodytoms taisyklėms. 
+Apeliaciniam
+procesui taikomos šio Kodekso bendrosios nuostatos, taip pat pirmosios
+instancijos teismo procesą reglamentuojančios nuostatos, neprieštaraujančios
+šiame skyriuje nurodytoms taisyklėms. 
  
 303 straipsnis. Apribojimai pateikti apeliacinį skundą
-Apeliacine tvarka
-negali būti skundžiamas teismo sprendimas už akių, jeigu skundą paduoda asmuo,
-dėl kurio toks sprendimas yra priimtas.
+Apeliacine
+tvarka negali būti skundžiamas teismo sprendimas už akių, jeigu skundą paduoda
+asmuo, dėl kurio toks sprendimas yra priimtas.
 Straipsnio pakeitimai:
 Nr. XI-1480,
 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
@@ -6914,9 +6919,9 @@ nagrinėti apeliacine tvarka gali sudaryti mišrią Civilinių bylų skyriaus ir
 Baudžiamųjų bylų skyriaus trijų teisėjų kolegiją. Teisėjų kolegija sudaroma ir
 bylas ji nagrinėja pagal šiame Kodekse nustatytas apeliacinės instancijos
 teismo kolegijų sudarymo ir bylų nagrinėjimo apeliacine tvarka taisykles.
-3. Šiame skyriuje
-numatytais atvejais procesinius veiksmus apeliaciniame procese gali atlikti
-vienas teisėjas.
+3. Šiame
+skyriuje numatytais atvejais procesinius veiksmus apeliaciniame procese gali
+atlikti vienas teisėjas.
 Straipsnio pakeitimai:
 Nr. XI-1480,
 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
@@ -6970,18 +6975,19 @@ Apeliacinis skundas gali būti paduotas per trisdešimt dienų nuo pirmosios
 instancijos teismo sprendimo priėmimo dienos. 
 2. Apeliacinio skundo padavimo terminas
 gali būti atnaujintas, jeigu teismas pripažįsta, kad šis terminas praleistas
-dėl svarbių priežasčių. Dėl teismo nutarties, kuria atmestas prašymas atnaujinti
-praleistą apeliacinio skundo padavimo terminą, gali būti duodamas atskirasis
-skundas. Jeigu apeliacinės instancijos teismas tokį atskirąjį skundą patenkina
-ir praleistą apeliacinio skundo padavimo terminą atnaujina, apeliacinės
-instancijos teismo Civilinių bylų skyriaus pirmininkas apeliacinį skundą su
-byla perduoda šio teismo teisėjų kolegijai arba grąžina pirmosios instancijos
-teismui spręsti apeliacinio skundo priėmimo klausimą. Kai šioje dalyje numatytu
-atveju byla perduodama apeliacinės instancijos teismo teisėjų kolegijai
-nagrinėti, apeliacinės instancijos teismas įvykdo šio Kodekso 317 straipsnio 1
-dalyje nustatytus reikalavimus. Kai vadovaujantis šio Kodekso 317 straipsnio 2
-dalimi byla išsiunčiama apeliacinės instancijos teismui ir šis teismas nustato,
-kad apeliacinio skundo padavimo terminas yra praleistas, jis gali:
+dėl svarbių priežasčių. Dėl teismo nutarties, kuria atmestas prašymas
+atnaujinti praleistą apeliacinio skundo padavimo terminą, gali būti duodamas
+atskirasis skundas. Jeigu apeliacinės instancijos teismas tokį atskirąjį skundą
+patenkina ir praleistą apeliacinio skundo padavimo terminą atnaujina,
+apeliacinės instancijos teismo Civilinių bylų skyriaus pirmininkas apeliacinį
+skundą su byla perduoda šio teismo teisėjų kolegijai arba grąžina pirmosios
+instancijos teismui spręsti apeliacinio skundo priėmimo klausimą. Kai šioje
+dalyje numatytu atveju byla perduodama apeliacinės instancijos teismo teisėjų
+kolegijai nagrinėti, apeliacinės instancijos teismas įvykdo šio Kodekso 317
+straipsnio 1 dalyje nustatytus reikalavimus. Kai vadovaujantis šio Kodekso 317
+straipsnio 2 dalimi byla išsiunčiama apeliacinės instancijos teismui ir šis
+teismas nustato, kad apeliacinio skundo padavimo terminas yra praleistas, jis
+gali:
 1) savo iniciatyva (ex officio)
 atnaujinti apeliacinio skundo padavimo terminą, jeigu iš turimos medžiagos
 aiškiai matyti, kad šis terminas praleistas dėl svarbių priežasčių;
@@ -7006,10 +7012,10 @@ nutartimi priėmęs apeliacinio skundo atsisakymą, jeigu sprendimas nebuvo
 apskųstas kitų asmenų, nutartimi apeliacinį procesą nutraukia.
 3. Apeliacinio
 skundo atsisakęs asmuo jį paduoti pakartotinai neturi teisės.
-4. Jeigu apeliacinio
-skundo atsisakymas pareiškiamas iki bylos išsiuntimo apeliacinės instancijos
-teismui, atsisakymo priėmimo ir apeliacinio proceso nutraukimo klausimą
-sprendžia pirmosios instancijos teismas.
+4. Jeigu
+apeliacinio skundo atsisakymas pareiškiamas iki bylos išsiuntimo apeliacinės
+instancijos teismui, atsisakymo priėmimo ir apeliacinio proceso nutraukimo
+klausimą sprendžia pirmosios instancijos teismas.
 Straipsnio pakeitimai:
 Nr. XI-1480,
 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
@@ -7046,12 +7052,12 @@ Nr. XI-1480,
 312
 straipsnis. Draudimas apeliaciniame skunde kelti naujus reikalavimus 
 Apeliaciniame
-skunde negalima kelti reikalavimų, kurie nebuvo pareikšti nagrinėjant bylą pirmosios
-instancijos teisme. Naujais reikalavimais nelaikomi reikalavimai, neatsiejamai
-susiję su jau pareikštu ieškiniu (pavyzdžiui, priteisti delspinigius,
-palūkanas, vaisius ir kiti atvejai). Už šiuos reikalavimus paduodant apeliacinį
-skundą sumokamas žyminis mokestis kaip už reikalavimą pirmosios instancijos
-teisme. 
+skunde negalima kelti reikalavimų, kurie nebuvo pareikšti nagrinėjant bylą
+pirmosios instancijos teisme. Naujais reikalavimais nelaikomi reikalavimai,
+neatsiejamai susiję su jau pareikštu ieškiniu (pavyzdžiui, priteisti
+delspinigius, palūkanas, vaisius ir kiti atvejai). Už šiuos reikalavimus
+paduodant apeliacinį skundą sumokamas žyminis mokestis kaip už reikalavimą
+pirmosios instancijos teisme. 
  
 313
 straipsnis. Draudimas priimti blogesnį sprendimą 
@@ -7093,9 +7099,9 @@ yra pašalinti.
 4. Teisėjas,
 atsisakydamas priimti apeliacinį skundą, priima motyvuotą nutartį. Dėl šios
 nutarties gali būti paduotas atskirasis skundas.
-5. Jeigu šio straipsnio
-2 dalies 1, 2 ir 3 punktuose nurodyti trūkumai paaiškėja nagrinėjant bylą
-apeliacine tvarka, apeliacinis procesas nutraukiamas ir priimama nutartis
+5. Jeigu šio
+straipsnio 2 dalies 1, 2 ir 3 punktuose nurodyti trūkumai paaiškėja nagrinėjant
+bylą apeliacine tvarka, apeliacinis procesas nutraukiamas ir priimama nutartis
 grąžinti žyminį mokestį.
 Straipsnio pakeitimai:
 Nr. XI-1480,
@@ -7297,8 +7303,8 @@ raštu ir jį visi teisėjai pasirašo.
 4. Žodinio
 proceso atvejais teismo sprendimas (nutartis) paskelbiamas teismo posėdžių
 salėje. Sprendimą (nutartį) paskelbia bylą nagrinėjęs vienas teisėjas arba bet
-kuris iš kolegijos teisėjų. Sprendimas (nutartis) paskelbiamas perskaitant
-įžanginę ir rezoliucinę dalis. Teismas kiekvienoje byloje savo nuožiūra nusprendžia,
+kuris iš kolegijos teisėjų. Sprendimas (nutartis) paskelbiamas perskaitant įžanginę
+ir rezoliucinę dalis. Teismas kiekvienoje byloje savo nuožiūra nusprendžia,
 kurios sprendimo (nutarties) dalys, be įžanginės ir rezoliucinės, turi būti
 paskelbiamos perskaitant. Skelbiant sprendimą (nutartį) teismo posėdžių salėje,
 kiti teisėjų kolegijos teisėjai gali nedalyvauti.
@@ -7331,7 +7337,8 @@ instancijos teismas, išnagrinėjęs bylą, turi teisę:
 1) pirmosios
 instancijos teismo sprendimą palikti nepakeistą;
 2) panaikinti
-pirmosios instancijos teismo sprendimą (visą ar iš dalies) ir priimti naują sprendimą;
+pirmosios instancijos teismo sprendimą (visą ar iš dalies) ir priimti naują
+sprendimą;
 3) pakeisti
 pirmosios instancijos teismo sprendimą;
 4)
@@ -7524,21 +7531,21 @@ per septynias dienas nuo nutarties patvirtintos kopijos įteikimo dienos.
 į atskiruosius skundus gali būti pateikiami pirmosios instancijos teismui per
 keturiolika dienų nuo atskirojo skundo kopijų išsiuntimo dienos.
 Straipsnio pakeitimai:
-Nr. XI-1480, 2011-06-21,
-Žin., 2011, Nr. 85-4126 (2011-07-13)
+Nr. XI-1480,
+2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
  
 336 straipsnis.
 Atskirojo skundo nagrinėjimas
 1. Apeliacinės
-instancijos teismas atskirąjį skundą nagrinėja rašytinio proceso tvarka,
-išskyrus atvejus, kai šį skundą nagrinėjantis teismas pripažįsta, kad būtinas žodinis
+instancijos teismas atskirąjį skundą nagrinėja rašytinio proceso tvarka, išskyrus
+atvejus, kai šį skundą nagrinėjantis teismas pripažįsta, kad būtinas žodinis
 nagrinėjimas.
 2. Atskirąjį
 skundą nagrinėja vienas apeliacinės instancijos teismo teisėjas, tačiau
-apeliacinės instancijos teismo pirmininkas arba Civilinių bylų skyriaus
-pirmininkas, atsižvelgdamas į bylos sudėtingumą, turi teisę atskirajam skundui
-nagrinėti sudaryti trijų teisėjų kolegiją. Nutartimi perduoti atskirąjį skundą
-nagrinėti trijų teisėjų kolegijai turi teisę ir bylą nagrinėjantis teisėjas.
+apeliacinės instancijos teismo pirmininkas arba Civilinių bylų skyriaus pirmininkas,
+atsižvelgdamas į bylos sudėtingumą, turi teisę atskirajam skundui nagrinėti
+sudaryti trijų teisėjų kolegiją. Nutartimi perduoti atskirąjį skundą nagrinėti
+trijų teisėjų kolegijai turi teisę ir bylą nagrinėjantis teisėjas.
 3. Nutartis dėl
 atskirojo skundo turi būti priimta ne vėliau kaip per septynias dienas nuo
 atskirojo skundo išnagrinėjimo teismo posėdyje dienos.
@@ -7652,15 +7659,14 @@ nustatytais pagrindais, paduodamas per vieną mėnesį nuo skundžiamos nutartie
 2. Asmenims,
 praleidusiems kasacinio skundo padavimo terminą dėl priežasčių, kurias teismas
 pripažįsta svarbiomis, praleistas terminas gali būti atnaujintas, išskyrus šio
-straipsnio 1 dalyje numatytą atvejį, kai kasacinis skundas paduodamas dėl apeliacinės
-instancijos teismo nutarties, priimtos šio Kodekso 327 straipsnio 1 dalies 2
-punkte nustatytais pagrindais. Pareiškimas dėl praleisto termino atnaujinimo
-negali būti tenkinamas, jeigu jis paduotas praėjus daugiau kaip šešiems
-mėnesiams nuo sprendimo įsiteisėjimo dienos.
+straipsnio 1 dalyje numatytą atvejį, kai kasacinis skundas paduodamas dėl
+apeliacinės instancijos teismo nutarties, priimtos šio Kodekso 327 straipsnio 1
+dalies 2 punkte nustatytais pagrindais. Pareiškimas dėl praleisto termino
+atnaujinimo negali būti tenkinamas, jeigu jis paduotas praėjus daugiau kaip
+šešiems mėnesiams nuo sprendimo įsiteisėjimo dienos.
 3. Pareiškimą
 dėl praleisto termino atnaujinimo išsprendžia šio Kodekso 350 straipsnyje
-numatyta teisėjų atrankos kolegija nutartimi, kuri yra galutinė ir
-neskundžiama.
+numatyta teisėjų atrankos kolegija nutartimi, kuri yra galutinė ir neskundžiama.
 Straipsnio pakeitimai:
 Nr. XI-1480,
 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
@@ -7769,8 +7775,8 @@ klausimą, netrukdo jam nagrinėti bylą pagal tą kasacinį skundą kasacine tv
 skundą atsisakoma priimti, jeigu jis:
 1) paduotas
 praleidus kasacinio skundo padavimo terminą ir šis terminas neatnaujinamas;
-2) prieštarauja šio
-Kodekso 341 straipsnyje nustatytiems reikalavimams;
+2) prieštarauja
+šio Kodekso 341 straipsnyje nustatytiems reikalavimams;
 3) neatitinka
 šio Kodekso 346 straipsnyje nustatytų reikalavimų;
 4) neatitinka
@@ -7828,8 +7834,7 @@ bylų sąrašą. Atsiliepime į kasacinį skundą turi būti nurodyti išsamūs
 nesutikimo su pateiktu kasaciniu skundu motyvuoti pagrindai. Atsiliepimas į
 kasacinį skundą surašomas ir pasirašomas tokia pat tvarka kaip ir kasacinis
 skundas. Atsiliepimai į kasacinį skundą, jo papildymai ar pakeitimai, pateikti
-praleidus nustatytą terminą, nepriimami ir grąžinami juos pateikusiems
-asmenims.
+praleidus nustatytą terminą, nepriimami ir grąžinami juos pateikusiems asmenims.
 2. Priimto
 atsiliepimo į kasacinį skundą kopijos išsiunčiamos šalims ir tretiesiems
 asmenims, išskyrus jį pateikusį asmenį.
@@ -7842,8 +7847,8 @@ straipsnis. Teisėjų kolegijos sudarymas ir teismo posėdžio paskyrimas
 1. Lietuvos
 Aukščiausiojo Teismo pirmininkas, Civilinių bylų skyriaus pirmininkas,
 laikydamiesi nustatytos bylų paskirstymo tvarkos, nutartimi sudaro teisėjų
-kolegiją, paskiria jos pirmininką ir pranešėją bei nustato posėdžio datą. Pranešėjui
-perduodamas kasacinis skundas ir gauta byla. 
+kolegiją, paskiria jos pirmininką ir pranešėją bei nustato posėdžio datą.
+Pranešėjui perduodamas kasacinis skundas ir gauta byla. 
 2. Pranešėjas ir
 kolegijos teisėjai atlieka veiksmus, reikalingus parengiant nagrinėti bylą. 
 3. Žodinio bylos
@@ -7862,10 +7867,10 @@ Nr. XI-1480,
  
 353
 straipsnis. Bylos nagrinėjimo ribos
-1. Kasacinis teismas,
-neperžengdamas kasacinio skundo ribų, patikrina apskųstus sprendimus ir (ar)
-nutartis teisės taikymo aspektu. Kasacinis teismas yra saistomas pirmosios ir
-apeliacinės instancijos teismų nustatytų aplinkybių.
+1. Kasacinis
+teismas, neperžengdamas kasacinio skundo ribų, patikrina apskųstus sprendimus
+ir (ar) nutartis teisės taikymo aspektu. Kasacinis teismas yra saistomas
+pirmosios ir apeliacinės instancijos teismų nustatytų aplinkybių.
 2. Teismas turi
 teisę peržengti kasacinio skundo ribas, kai to reikalauja viešasis interesas ir
 neperžengus skundo ribų būtų pažeistos asmens, visuomenės ar valstybės teisės
@@ -8059,8 +8064,8 @@ nutartį, nustatęs šio Kodekso 346 straipsnyje numatytus pagrindus.
 Kasacinis teismas pakeičia arba panaikina sprendimą, nutartį ir priima naują
 sprendimą, jeigu nustato, kad buvo pažeistos tik materialinės teisės normos jas
 netinkamai taikant arba išaiškinant. Šią teisę kasacinis teismas taip pat turi
-ir tuo atveju, kai yra nustatomas proceso teisės normų pažeidimas, kurį jis
-pats gali pašalinti. Šiais atvejais kasacinis teismas yra saistomas pirmosios ir
+ir tuo atveju, kai yra nustatomas proceso teisės normų pažeidimas, kurį jis pats
+gali pašalinti. Šiais atvejais kasacinis teismas yra saistomas pirmosios ir
 (ar) apeliacinės instancijos teismų nustatytų aplinkybių.
 5. Teismo
 sprendimas, nutartis kasacine tvarka panaikinami ir byla nutraukiama arba
@@ -8137,11 +8142,12 @@ suinteresuotų asmenų prašymu arba savo iniciatyva turi teisę sustabdyti
 kasacine tvarka skundžiamo sprendimo ar nutarties vykdymą tol, kol byla bus
 išnagrinėta kasacine tvarka. Prašymas dėl sprendimo ar nutarties vykdymo
 sustabdymo rašytinio proceso tvarka išnagrinėjamas nedelsiant, bet ne vėliau
-kaip per tris darbo dienas nuo prašymo gavimo dienos. Sprendimo ar nutarties
-vykdymo sustabdymo klausimą sprendžiantis subjektas gali pareikalauti, kad
-prašymą padavęs asmuo pateiktų išieškotojo nuostolių, galinčių atsirasti dėl
-sprendimo ar nutarties vykdymo sustabdymo, atlyginimo užtikrinimą. Šių
-nuostolių atlyginimas gali būti užtikrinamas ir banko garantija.
+kaip per tris darbo dienas nuo prašymo gavimo dienos. Sprendimo ar
+nutarties vykdymo sustabdymo klausimą sprendžiantis subjektas gali
+pareikalauti, kad prašymą padavęs asmuo pateiktų išieškotojo nuostolių,
+galinčių atsirasti dėl sprendimo ar nutarties vykdymo sustabdymo, atlyginimo
+užtikrinimą. Šių nuostolių atlyginimas gali būti užtikrinamas ir banko
+garantija.
 2. Šio
 straipsnio 1 dalyje nurodyti subjektai taip pat turi teisę taikyti laikinąsias
 apsaugos priemones.
@@ -8268,8 +8274,9 @@ Nr. XI-1480,
  
 369
 straipsnis. Prašymo atnaujinti procesą turinys
-1. Be bendrų ieškiniui
-keliamų turinio reikalavimų, prašyme atnaujinti procesą turi būti nurodoma:
+1. Be bendrų
+ieškiniui keliamų turinio reikalavimų, prašyme atnaujinti procesą turi būti
+nurodoma:
 1) sprendimą,
 nutartį priėmusio teismo pavadinimas;
 2) proceso
@@ -8302,9 +8309,9 @@ atnaujinti procesą nagrinėjamas rašytinio proceso tvarka, išskyrus atvejus, 
 teismas nusprendžia prašymą nagrinėti žodinio proceso tvarka. Iki teismo
 posėdžio dienos dalyvaujantys byloje asmenys turi teisę pateikti atsiliepimus į
 prašymą atnaujinti procesą. Teismo posėdis skiriamas ne anksčiau kaip per
-keturiolika dienų nuo prašymo priėmimo dienos. Iš prašymą padavusio asmens
-teismas turi teisę pareikalauti papildomų įrodymų, kad nepraleistas šio Kodekso
-368 straipsnyje nustatytas terminas arba kad yra šio Kodekso 366 straipsnio 1
+keturiolika dienų nuo prašymo priėmimo dienos. Iš prašymą padavusio asmens teismas
+turi teisę pareikalauti papildomų įrodymų, kad nepraleistas šio Kodekso 368
+straipsnyje nustatytas terminas arba kad yra šio Kodekso 366 straipsnio 1
 dalyje numatyti pagrindai.
 3. Išnagrinėjęs
 teismo posėdyje prašymo atnaujinti procesą klausimą ir nustatęs, kad prašymas
@@ -8430,9 +8437,9 @@ iniciatyva, kai yra pagrindas, taikyti įstatymuose numatytą alternatyvų asmen
 377
 straipsnis. Ieškinio dalyko ar pagrindo pakeitimas
 Iki
-bylos nagrinėjimo iš esmės pabaigos ieškovas turi teisę keisti ieškinio dalyką ar
-pagrindą, o atsakovas – pareikšti priešieškinį. Bylą nagrinėjantis teismas turi
-teisę atsisakyti priimti pateiktus įrodymus, kurie galėjo būti pateikti
+bylos nagrinėjimo iš esmės pabaigos ieškovas turi teisę keisti ieškinio dalyką
+ar pagrindą, o atsakovas – pareikšti priešieškinį. Bylą nagrinėjantis teismas
+turi teisę atsisakyti priimti pateiktus įrodymus, kurie galėjo būti pateikti
 anksčiau, jeigu nustato, jog jie yra pateikiami siekiant užvilkinti procesą. 
  
 378
@@ -8461,8 +8468,8 @@ gali būti išreikšta žodžiu, raštu arba kitais vaiko pasirinktais būdais. 
 kuriam yra suėję keturiolika metų, pareiškimas apie sutikimą ar nesutikimą su
 ieškiniu turi būti išreikštas raštu arba įrašytas į teismo posėdžio protokolą.
 Kai vaikas savo nuomonę išreiškia žodžiu, teismas gali duoti vaikui pasirašyti
-sutikimo ar nesutikimo su ieškiniu standartinę formą (šios formos pavyzdį
-tvirtina teisingumo ministras).
+sutikimo ar nesutikimo su ieškiniu standartinę formą (šios formos pavyzdį tvirtina
+teisingumo ministras).
 Straipsnio pakeitimai:
 Nr. XI-1480,
 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
@@ -8486,8 +8493,8 @@ santuokos pripažinimo negaliojančia turi teisę pareikšti asmenys, nurodyti
 Civilinio kodekso 3.38–3.40 straipsniuose. 
 4. Prašymas dėl
 santuokos nutraukimo abiejų sutuoktinių bendru sutikimu (Civilinio kodekso 3.51
-straipsnis) arba vieno sutuoktinio pareiškimas dėl santuokos nutraukimo
-(Civilinio kodekso 3.55 straipsnis) nagrinėjamas ypatingąja teisena. 
+straipsnis) arba vieno sutuoktinio pareiškimas dėl santuokos nutraukimo (Civilinio
+kodekso 3.55 straipsnis) nagrinėjamas ypatingąja teisena. 
  
 382
 straipsnis. Ieškinio turinys
@@ -17357,6 +17364,13 @@ CIVILINIO PROCESO KODEKSO 99, 466, 467,
 Šis įstatymas
 įsigalioja 2014 m. sausio 1 d.
  
+24.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XII-633, 2013-12-03, Žin., 2013, Nr. 128-6521 (2013-12-14)
+CIVILINIO
+PROCESO KODEKSO 284 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 ***
 Pabaiga ***
@@ -17371,31 +17385,32 @@ Respublikos Konstitucinis Teismas, Nutarimas
 Žin., 2006, Nr. 102-3957 (2006-09-26)
 DĖL
 LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ BYLŲ TEISENOS ĮSTATYMO 85 STRAIPSNIO 3
-DALIES (2000 M. RUGSĖJO 19 D. REDAKCIJA), 139 STRAIPSNIO 2, 3 DALIŲ (2000 M. RUGSĖJO
-19 D. RED.), LIETUVOS RESPUBLIKOS BAUDŽIAMOJO PROCESO KODEKSO 306 STRAIPSNIO
-(2004 M. LIEPOS 8 D. RED.), 308 STRAIPSNIO (2006 M. BIRŽELIO 1 D. RED.) 2
-DALIES (2002 M. KOVO 14 D. RED.), 324 STRAIPSNIO 12, 13 DALIŲ (2002 M. KOVO 14
-D. RED.), 377 STRAIPSNIO (2004 M. LIEPOS 8 D. RED.) 9 DALIES (2002 M. KOVO 14
-D. RED.), 448 STRAIPSNIO 7 DALIES (2002 M. KOVO 14 D. RED.), 454 STRAIPSNIO 5,
-6 DALIŲ (2002 M. KOVO 14 D. RED.), 460 STRAIPSNIO 4, 5 DALIŲ (2002 M. KOVO 14
-D. RED.), LIETUVOS RESPUBLIKOS CIVILINIO PROCESO KODEKSO 268 STRAIPSNIO 3
-DALIES (2002 M. VASARIO 28 D. RED.), 285 STRAIPSNIO 2, 5 DALIŲ (2002 M. VASARIO
-28 D. RED.), 286 STRAIPSNIO 1 DALIES (2002 M. VASARIO 28 D. RED.), 288
-STRAIPSNIO 4 DALIES (2002 M. VASARIO 28 D. RED.), 289 STRAIPSNIO 2 DALIES (2002
-M. VASARIO 28 D. RED.), 303 STRAIPSNIO 2 DALIES (2002 M. VASARIO 28 D. RED.),
-320 STRAIPSNIO 2 DALIES (2002 M. VASARIO 28 D. RED.), 325 STRAIPSNIO 2, 3 DALIŲ
-(2002 M. VASARIO 28 D. RED.), 358 STRAIPSNIO 2, 3 DALIŲ (2002 M. VASARIO 28 D.
-RED.) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI, TAIP PAT DĖL PAREIŠKĖJO -
-SEIMO NARIŲ GRUPĖS PRAŠYMO IŠTIRTI, AR LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO 119
-STRAIPSNIO 2 DALIES 1 PUNKTAS (2002 M. SAUSIO 24 D. REDAKCIJA), 119 STRAIPSNIO
-5 DALIS (2002 M. SAUSIO 24 D. REDAKCIJA), 120 STRAIPSNIO (2003 M. SAUSIO 21 D.
-REDAKCIJA) 1 PUNKTAS (2002 M. SAUSIO 24 D. REDAKCIJA), LIETUVOS RESPUBLIKOS
-PREZIDENTO 2003 M. VASARIO 19 D. DEKRETAS NR. 2067 "DĖL APYGARDOS TEISMO
-TEISĖJO ĮGALIOJIMŲ PRATĘSIMO", LIETUVOS RESPUBLIKOS PREZIDENTO 2003 M.
-BIRŽELIO 18 D. DEKRETAS NR. 128 "DĖL APYGARDŲ TEISMŲ SKYRIŲ PIRMININKŲ
-SKYRIMO" TA APIMTIMI, KURIA NUSTATYTA, KAD VILNIAUS APYGARDOS TEISMO
-TEISĖJAS KONSTANTAS RAMELIS SKIRIAMAS ŠIO TEISMO CIVILINIŲ BYLŲ SKYRIAUS
-PIRMININKU, NEPRIEŠTARAUJA LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+DALIES (2000 M. RUGSĖJO 19 D. REDAKCIJA), 139 STRAIPSNIO 2, 3 DALIŲ (2000 M.
+RUGSĖJO 19 D. RED.), LIETUVOS RESPUBLIKOS BAUDŽIAMOJO PROCESO KODEKSO 306
+STRAIPSNIO (2004 M. LIEPOS 8 D. RED.), 308 STRAIPSNIO (2006 M. BIRŽELIO 1 D.
+RED.) 2 DALIES (2002 M. KOVO 14 D. RED.), 324 STRAIPSNIO 12, 13 DALIŲ (2002 M.
+KOVO 14 D. RED.), 377 STRAIPSNIO (2004 M. LIEPOS 8 D. RED.) 9 DALIES (2002 M.
+KOVO 14 D. RED.), 448 STRAIPSNIO 7 DALIES (2002 M. KOVO 14 D. RED.), 454
+STRAIPSNIO 5, 6 DALIŲ (2002 M. KOVO 14 D. RED.), 460 STRAIPSNIO 4, 5 DALIŲ
+(2002 M. KOVO 14 D. RED.), LIETUVOS RESPUBLIKOS CIVILINIO PROCESO KODEKSO 268
+STRAIPSNIO 3 DALIES (2002 M. VASARIO 28 D. RED.), 285 STRAIPSNIO 2, 5 DALIŲ
+(2002 M. VASARIO 28 D. RED.), 286 STRAIPSNIO 1 DALIES (2002 M. VASARIO 28 D.
+RED.), 288 STRAIPSNIO 4 DALIES (2002 M. VASARIO 28 D. RED.), 289 STRAIPSNIO 2
+DALIES (2002 M. VASARIO 28 D. RED.), 303 STRAIPSNIO 2 DALIES (2002 M. VASARIO
+28 D. RED.), 320 STRAIPSNIO 2 DALIES (2002 M. VASARIO 28 D. RED.), 325
+STRAIPSNIO 2, 3 DALIŲ (2002 M. VASARIO 28 D. RED.), 358 STRAIPSNIO 2, 3 DALIŲ
+(2002 M. VASARIO 28 D. RED.) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI,
+TAIP PAT DĖL PAREIŠKĖJO - SEIMO NARIŲ GRUPĖS PRAŠYMO IŠTIRTI, AR LIETUVOS
+RESPUBLIKOS TEISMŲ ĮSTATYMO 119 STRAIPSNIO 2 DALIES 1 PUNKTAS (2002 M. SAUSIO
+24 D. REDAKCIJA), 119 STRAIPSNIO 5 DALIS (2002 M. SAUSIO 24 D. REDAKCIJA), 120
+STRAIPSNIO (2003 M. SAUSIO 21 D. REDAKCIJA) 1 PUNKTAS (2002 M. SAUSIO 24 D.
+REDAKCIJA), LIETUVOS RESPUBLIKOS PREZIDENTO 2003 M. VASARIO 19 D. DEKRETAS NR.
+2067 "DĖL APYGARDOS TEISMO TEISĖJO ĮGALIOJIMŲ PRATĘSIMO", LIETUVOS
+RESPUBLIKOS PREZIDENTO 2003 M. BIRŽELIO 18 D. DEKRETAS NR. 128 "DĖL
+APYGARDŲ TEISMŲ SKYRIŲ PIRMININKŲ SKYRIMO" TA APIMTIMI, KURIA NUSTATYTA,
+KAD VILNIAUS APYGARDOS TEISMO TEISĖJAS KONSTANTAS RAMELIS SKIRIAMAS ŠIO TEISMO
+CIVILINIŲ BYLŲ SKYRIAUS PIRMININKU, NEPRIEŠTARAUJA LIETUVOS RESPUBLIKOS
+KONSTITUCIJAI
  
  
 ***
@@ -17403,6 +17418,6 @@ Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2013-05-30)
+Aušrinė Trapinskienė (2013-12-16)
                  
 ausrine.trapinskiene@lrs.lt
