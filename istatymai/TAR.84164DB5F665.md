@@ -2188,11 +2188,11 @@ straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 2. Asmenys,
 kurie iki šio įstatymo įsigaliojimo turėjo šio įstatymo 1 straipsnyje išdėstyto
 Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 5 straipsnio 6, 7 ar
-8 punkte nurodytų šaunamųjų ginklų, privalo iki 2014 m. sausio 1 d. Lietuvos
+8 punkte nurodytų šaunamųjų ginklų, privalo iki 2014 m. liepos 1 d. Lietuvos
 Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka pateikti
 prašymą ir gauti leidimą laikyti ginklus arba leidimą nešiotis ginklus. Šiems
-asmenims, jeigu jie pateikia įsigijimą patvirtinančius dokumentus, netaikomas šio
-įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos ginklų ir šaudmenų
+asmenims, jeigu jie pateikia įsigijimą patvirtinančius dokumentus, netaikomas
+šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos ginklų ir šaudmenų
 kontrolės įstatymo 13 straipsnio 4 dalyje nustatytas 21 metų amžiaus
 reikalavimas. Jiems taikomas 18 metų amžiaus reikalavimas.
 3. Šio
@@ -2215,6 +2215,8 @@ aktus.
 Straipsnio pakeitimai:
 Nr. XI-2156,
 2012-06-29, Žin., 2012, Nr. 81-4222 (2012-07-12)
+Nr. XII-733,
+2013-12-23, Žin., 2013, Nr. 140-7088 (2013-12-30)
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
@@ -2239,10 +2241,17 @@ Nr. XI-2156,
 GINKLŲ IR ŠAUDMENŲ KONTROLĖS ĮSTATYMO
 PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-733,
+2013-12-23, Žin., 2013, Nr. 140-7088 (2013-12-30)
+LIETUVOS RESPUBLIKOS GINKLŲ IR ŠAUDMENŲ
+KONTROLĖS ĮSTATYMO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2012-07-13)
+(2014-01-07)
                  
 ausrine.trapinskiene@lrs.lt
