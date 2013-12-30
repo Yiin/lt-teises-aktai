@@ -1678,7 +1678,7 @@ kitų, negu pensijų fondo taisyklėse ir šio įstatymo 29 straipsnyje nurodyt�
 išmokų, draudimo išmokų mokėjimas. Tokioms draudimo išmokoms taikomos Draudimo
 įstatymo šeštojo skyriaus nuostatos.
 38 straipsnio
-redakcija nuo 2014-01-01:
+redakcija nuo 2016-01-01:
 38
 straipsnis. Draudimo išmokos 
 Gyvybės
@@ -1689,6 +1689,8 @@ penktojo skyriaus nuostatos.
 Straipsnio pakeitimai:
 Nr. XI-2278,
 2012-10-16, Žin., 2012, Nr. 127-6386 (2012-11-03)
+Nr.
+XII-723, 2013-12-19, Žin., 2013, Nr. 140-7084 (2013-12-30)
 Nr. XII-71,
 2012-12-20, Žin., 2012, Nr. 155-7981 (2012-12-31)
  
@@ -1703,7 +1705,7 @@ tvarką.
 Profesinių pensijų kaupimo techninis atidėjinys dengiamas turtu vadovaujantis
 Draudimo įstatymo 35 straipsnio nuostatomis.
 39 straipsnio
-redakcija nuo 2014-01-01:
+redakcija nuo 2016-01-01:
 39
 straipsnis. Techniniai atidėjiniai 
 1. Gyvybės
@@ -1713,8 +1715,10 @@ mutandis taikomos šio įstatymo 43, 44, 45 straipsnių nuostatos.
 Profesinių pensijų kaupimo techninis atidėjinys skaičiuojamas vadovaujantis
 Draudimo įstatymo 41 straipsnio 8 dalies nuostatomis.
 Straipsnio pakeitimai:
-Nr. XI-2278, 2012-10-16,
-Žin., 2012, Nr. 127-6386 (2012-11-03)
+Nr. XI-2278,
+2012-10-16, Žin., 2012, Nr. 127-6386 (2012-11-03)
+Nr.
+XII-723, 2013-12-19, Žin., 2013, Nr. 140-7084 (2013-12-30)
  
 40 straipsnis.
 Gyvybės draudimo įmonių, vykdančių profesinių pensijų kaupimo veiklą, priežiūra
@@ -1747,8 +1751,8 @@ tvarka gavusioms priežiūros institucijos leidimą valdyti kitose valstybėse
 narėse pagal galiojančias socialinės apsaugos ir darbo teisės normas apibrėžtų
 išmokų pensijų fondus, priimant į šiuos fondus įmokas iš kitų valstybių narių
 teritorijose esančių finansuojančių subjektų. 
-2. Šis skirsnis
-taikomas apibrėžtų išmokų pensijų fondų valdymui. 
+2. Šis skirsnis taikomas
+apibrėžtų išmokų pensijų fondų valdymui. 
 3. Kai pensijų išmokų
 mokėjimą pagal pensijų fondo taisykles garantuoja finansuojantis subjektas,
 leidimas valdyti tokį pensijų fondą gali būti išduodamas tik tuo atveju, kai
@@ -1886,13 +1890,15 @@ ir faktinių išlaidų bei pelno neatitikimams padengti.
 2. Būtinas papildomo
 turto dydis apskaičiuojamas Draudimo įstatymo 39 straipsnyje nustatyta tvarka. 
 2 dalies
-redakcija nuo 2014-01-01:
+redakcija nuo 2016-01-01:
 2. Būtinas papildomo
 turto dydis apskaičiuojamas Draudimo įstatymo 37 straipsnio 9 dalyje
 nustatyta tvarka.
 Straipsnio pakeitimai:
 Nr. XI-2278,
 2012-10-16, Žin., 2012, Nr. 127-6386 (2012-11-03)
+Nr.
+XII-723, 2013-12-19, Žin., 2013, Nr. 140-7084 (2013-12-30)
  
 DEVINTASIS
 SKIRSNIS
@@ -1954,9 +1960,9 @@ finansuojantį subjektą negali sudaryti daugiau kaip 5 procentų viso investici
 portfelio ir, jeigu finansuojantis subjektas priklauso grupei, investicijos į
 įmones, priklausančias tai pačiai grupei kaip ir finansuojantis subjektas,
 negali sudaryti daugiau kaip 10 procentų investicijų portfelio. Jeigu pensijų
-asociacijoje yra keli finansuojantys subjektai, į šiuos finansuojančius subjektus
-gali būti investuojama ribojant riziką ir atsižvelgiant į tinkamo
-diversifikavimo poreikį. 
+asociacijoje yra keli finansuojantys subjektai, į šiuos finansuojančius
+subjektus gali būti investuojama ribojant riziką ir atsižvelgiant į tinkamo diversifikavimo
+poreikį. 
 2. Priežiūros
 institucija turi teisę tvirtinti šio straipsnio 1 dalyje nurodytos „apdairaus
 asmens“ taisyklės taikymo rekomendacijas. 
@@ -1968,14 +1974,15 @@ asociacijos vardu draudžiama skolintis, išskyrus paskolas iki 10 procentų
 pensijų fondo grynųjų aktyvų vertės iki 3 mėnesių terminui, kurios būtinos
 likvidumui palaikyti. Tai nereiškia draudimo skolintis užsienio valiutą, už
 kurią perkami perleidžiamieji vertybiniai popieriai ar pinigų rinkos priemonės,
-jeigu paskolai užtikrinti paskolos davėjui duodama ne mažesnė suma kita valiuta.
+jeigu paskolai užtikrinti paskolos davėjui duodama ne mažesnė suma kita
+valiuta.
 5. Pensijų turtą taip
 pat draudžiama įkeisti, juo garantuoti arba laiduoti kitų asmenų įsipareigojimų
 vykdymą.
 6. Pensijų fondo
 lėšomis taip pat negali būti sudaromi sandoriai dėl perleidžiamųjų
-vertybinių popierių, pinigų rinkos priemonių, kurių jis neturi,
-perleidimo.
+vertybinių popierių, pinigų rinkos priemonių, kurių jis
+neturi, perleidimo.
 Straipsnio pakeitimai:
 Nr. XI-2125,
 2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
@@ -1987,16 +1994,16 @@ Investavimo apribojimai
 1. Iki 70 procentų
 turto, kuriuo dengiami techniniai atidėjiniai, arba viso pensijų fondų, kurių
 dalyviai prisiima investicijų riziką (šio įstatymo 2 straipsnio 2 dalis),
-portfelio gali būti investuojama į akcijas, perleidžiamuosius vertybinius
-popierius, lygiaverčius bendrovių akcijoms, ir įmonių obligacijas, kuriomis
-prekiaujama reguliuojamose rinkose. Pensijų asociacija turi teisę nuspręsti dėl
-šių vertybinių popierių santykinės dalies investicijų portfelyje.
+portfelio gali būti investuojama į akcijas, perleidžiamuosius vertybinius popierius,
+lygiaverčius bendrovių akcijoms, ir įmonių obligacijas, kuriomis prekiaujama
+reguliuojamose rinkose. Pensijų asociacija turi teisę nuspręsti dėl šių
+vertybinių popierių santykinės dalies investicijų portfelyje.
 2. šio straipsnio 1 dalyje nustatyta 70
 procentų riba gali būti padidinta priežiūros institucijos leidimu, jeigu tokiu
 atveju užtikrinamas šio įstatymo 47 straipsnyje nurodytos „apdairaus asmens“
 taisyklės laikymasis ir nėra pažeidžiami dalyvių ir išmokų gavėjų interesai.
-3. Iki 30 procentų
-turto, kuriuo dengiami techniniai atidėjiniai, gali būti investuojama į turtą,
+3. Iki 30 procentų turto,
+kuriuo dengiami techniniai atidėjiniai, gali būti investuojama į turtą,
 išreikštą kitomis valiutomis negu tos, kuriomis išreikšti įsipareigojimai. 
 4. Draudžiama
 investuoti daugiau kaip 30 procentų pensijų fondo grynųjų aktyvų į akcijas,
@@ -2021,8 +2028,8 @@ daugiau kaip 30 procentų pensijų fondo grynųjų aktyvų.
 7. Pensijų turtas
 gali būti investuojamas į rizikos kapitalo rinkas.
 8. Priežiūros
-institucija turi teisę nustatyti griežtesnes investavimo taisykles, jeigu jos
-pagrįstos rizikos ribojimu, ypač atsižvelgiant į pensijų asociacijos prisiimtus
+institucija turi teisę nustatyti griežtesnes investavimo taisykles, jeigu jos pagrįstos
+rizikos ribojimu, ypač atsižvelgiant į pensijų asociacijos prisiimtus
 įsipareigojimus.
 9. Tuo atveju, kai
 Lietuvos Respublikoje įsteigta pensijų asociacija vykdo tarpvalstybinę veiklą
@@ -2036,8 +2043,7 @@ Straipsnio pakeitimai:
 Nr. XII-71,
 2012-12-20, Žin., 2012, Nr. 155-7981 (2012-12-31)
  
-DEŠIMTASIS
-SKIRSNIS
+DEŠIMTASIS SKIRSNIS
 INFORMACIJOS
 ATSKLEIDIMAS 
  
@@ -2155,8 +2161,8 @@ kitas būtinas pateikti periodines ataskaitas ir dokumentus, nustatyti išsamią
  
 VIENUOLIKTASIS
 SKIRSNIS
-PENSIJŲ ASOCIACIJŲ
-VEIKLOS
+PENSIJŲ
+ASOCIACIJŲ VEIKLOS
 PRIEŽIŪRA
  
 52 straipsnis.
@@ -2176,8 +2182,8 @@ administracinių bylų teisenos įstatymo nustatyta tvarka.
 institucija atlieka šias funkcijas:
 1) rengia, tvirtina,
 keičia ir pripažįsta netekusiais galios šiame įstatyme numatytus teisės aktus;
-2) teikia oficialius išaiškinimus
-ir rekomendacijas pensijų asociacijų veiklos klausimais;
+2) teikia oficialius
+išaiškinimus ir rekomendacijas pensijų asociacijų veiklos klausimais;
 3) įtraukia pensijų
 asociacijas į Pensijų asociacijų sąrašą ir išbraukia jas iš šio sąrašo;
 4) stebi, analizuoja,
@@ -2193,8 +2199,8 @@ kreiptis į teismą dėl viešojo intereso gynimo.
 6. Priežiūros
 institucija, atlikdama pensijų asociacijų veiklos priežiūrą, turi šias teises:
 1) iš visų fizinių ar
-juridinių asmenų gauti informaciją ir paaiškinimus, reikalingus priežiūros funkcijoms
-atlikti;
+juridinių asmenų gauti informaciją ir paaiškinimus, reikalingus priežiūros
+funkcijoms atlikti;
 2) iš pensijų
 asociacijos, asmenų, įgaliotų veikti pensijų asociacijos vardu ar sąskaita,
 gauti bet kurią informaciją visais pensijų asociacijos veiklos klausimais;
@@ -2220,15 +2226,15 @@ asociacijos valdymą atsakingiems asmenims taikyti poveikio priemones, tarp jų
 administracines ar finansinio pobūdžio priemones, kurios yra tinkamos ir
 būtinos užkirsti kelią pažeidimams, kenkiantiems dalyvių ir išmokų gavėjų
 interesams, arba jau atsiradusiems ištaisyti.
-7. Priežiūros institucija,
-atlikdama šio įstatymo 57 straipsnyje nustatytas funkcijas ir teikdama
-informaciją apie Lietuvos Respublikoje galiojančius socialinės apsaugos ir
-darbo teisės aktus, taikomus profesinių pensijų srityje, bendradarbiauja su
-Lietuvos Respublikos socialinės apsaugos ir darbo ministerija (toliau –
-Socialinės apsaugos ir darbo ministerija). Socialinės apsaugos ir darbo
-ministerija teikia informaciją apie socialinės apsaugos ir darbo teisės
-reikalavimus, kurių laikymasis yra privalomas kitose valstybėse narėse
-veikiantiems analogiškiems subjektams, priimantiems įmokas iš Lietuvos
+7. Priežiūros
+institucija, atlikdama šio įstatymo 57 straipsnyje nustatytas funkcijas ir
+teikdama informaciją apie Lietuvos Respublikoje galiojančius socialinės
+apsaugos ir darbo teisės aktus, taikomus profesinių pensijų srityje,
+bendradarbiauja su Lietuvos Respublikos socialinės apsaugos ir darbo
+ministerija (toliau – Socialinės apsaugos ir darbo ministerija). Socialinės
+apsaugos ir darbo ministerija teikia informaciją apie socialinės apsaugos ir
+darbo teisės reikalavimus, kurių laikymasis yra privalomas kitose valstybėse
+narėse veikiantiems analogiškiems subjektams, priimantiems įmokas iš Lietuvos
 Respublikoje esančių finansuojančių subjektų, ir apie tai praneša priežiūros
 institucijai. Socialinės apsaugos ir darbo ministerija taip pat turi informuoti
 priežiūros instituciją apie visus reikšmingus socialinės apsaugos ir darbo
@@ -2241,8 +2247,8 @@ Straipsnio pakeitimai:
 Nr.
 XI-1887,
 2011-12-22, Žin., 2011, Nr. 163-7776 (2011-12-31)
-Nr. XI-2125,
-2012-06-26, Žin., 2012, Nr. 77-3980 (2012-07-01)
+Nr. XI-2125, 2012-06-26,
+Žin., 2012, Nr. 77-3980 (2012-07-01)
  
 53 straipsnis.
 Priežiūros institucijos teisė atlikti patikrinimus
@@ -2490,14 +2496,14 @@ finansuojančio subjekto, nutrauktų pažeidimus, apie kuriuos priežiūros
 instituciją informavo tos valstybės narės kompetentinga priežiūros institucija.
 13. Jeigu, nepaisant
 priemonių, kurių ėmėsi buveinės valstybės narės kompetentinga priežiūros
-institucija, arba jeigu buveinės valstybėje narėje trūksta atitinkamų priemonių,
-analogiškas subjektas ir toliau pažeidžia Lietuvos Respublikos socialinės
-apsaugos ir darbo teisės aktų reikalavimus, taikomus profesinių pensijų
-srityje, priežiūros institucija, apie tai pranešusi buveinės valstybės narės
-kompetentingai priežiūros institucijai, gali imtis reikiamų priemonių, kurios
-užkirstų kelią tolesniems pažeidimams arba kuriomis būtų už juos baudžiama,
-tarp jų, jeigu būtina, užkirsti kelią Lietuvos Respublikoje veikti analogiškam
-subjektui.
+institucija, arba jeigu buveinės valstybėje narėje trūksta atitinkamų
+priemonių, analogiškas subjektas ir toliau pažeidžia Lietuvos Respublikos
+socialinės apsaugos ir darbo teisės aktų reikalavimus, taikomus profesinių
+pensijų srityje, priežiūros institucija, apie tai pranešusi buveinės valstybės
+narės kompetentingai priežiūros institucijai, gali imtis reikiamų priemonių,
+kurios užkirstų kelią tolesniems pažeidimams arba kuriomis būtų už juos
+baudžiama, tarp jų, jeigu būtina, užkirsti kelią Lietuvos Respublikoje veikti
+analogiškam subjektui.
 14. Priežiūros
 institucija praneša Europos draudimo ir profesinių pensijų institucijai apie
 nacionalines rizikos ribojimą reglamentuojančias nuostatas, kurios taikomos
@@ -2552,8 +2558,8 @@ Direktyvą 86/378/EEB dėl vienodo požiūrio į vyrus ir moteris principo
 įgyvendinimo profesinėse socialinės apsaugos sistemose (OL 2004 m. specialusis
 leidimas, 5 skyrius, 3 tomas, p. 232).
 4. 1998 m. birželio 29 d. Tarybos direktyva 98/49/EB
-dėl pagal darbo sutartį dirbančių asmenų ir savarankiškai dirbančių asmenų, judančių
-Bendrijoje, teisių į papildomą pensiją išsaugojimo (OL 2004 m. specialusis
+dėl pagal darbo sutartį dirbančių asmenų ir savarankiškai dirbančių asmenų,
+judančių Bendrijoje, teisių į papildomą pensiją išsaugojimo (OL 2004 m. specialusis
 leidimas, 5 skyrius, 3 tomas, p. 323).
 5.
 2003 m. birželio 3 d. Europos Parlamento ir Tarybos direktyva 2003/41/EB dėl
@@ -2588,6 +2594,7 @@ Nauja įstatymo redakcija
 1 d.
 Šis įstatymas
 keistas:
+2.1.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
@@ -2615,6 +2622,15 @@ PROFESINIŲ PENSIJŲ KAUPIMO ĮSTATYMO 38,
 39 IR 45 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2014 m. sausio
 1 d.
+Pakeitimai:
+4.1.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XII-723, 2013-12-19, Žin., 2013, Nr. 140-7084 (2013-12-30)
+LIETUVOS
+RESPUBLIKOS PROFESINIŲ PENSIJŲ KAUPIMO ĮSTATYMO 38, 39 IR 45 STRAIPSNIŲ
+PAKEITIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
 5.
 Lietuvos
@@ -2625,10 +2641,11 @@ PROFESINIŲ
 PENSIJŲ KAUPIMO ĮSTATYMO 2, 15, 16, 17, 18, 25, 26, 30, 33, 38, 47, 48, 49, 50
 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2013-01-10)
+(2014-01-08)
                  
 ausrine.trapinskiene@lrs.lt
