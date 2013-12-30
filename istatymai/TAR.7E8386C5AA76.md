@@ -15,7 +15,6 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7E8386C5AA76"
 
 Įstatymas skelbtas: Žin., 2000, Nr. 66-1987
 Neoficialus įstatymo tekstas
-Įstatymo aktuali redakcija nuo 2010 m. liepos 1 d.
  
 LIETUVOS RESPUBLIKOS
 REGIONINĖS PLĖTROS 
@@ -202,24 +201,6 @@ Nr. X-1134,
 straipsnis. Regiono lygmens regioninės plėtros planavimo dokumentų rengimas 
 ir
 tvirtinimas
-1 dalies redakcija iki 2010 m. gruodžio 31
-d.:
-1. Regiono
-plėtros plano projektą rengia Vidaus reikalų ministerija arba jos įgaliota
-institucija:
-1) atsižvelgdama
-į Valstybės ilgalaikės raidos strategiją, atskirų ūkio šakų (sektorių) plėtros
-strategijas, Lietuvos Respublikos teritorijos bendrąjį planą, nacionalinius
-Europos Sąjungos struktūrinės paramos programavimo dokumentus, apskrities ir
-jos teritorijoje esančių savivaldybių teritorijų bendruosius planus ir
-savivaldybių strateginius plėtros planus; 
-2) atlikusi
-regiono socialinės ir ekonominės būklės analizę;
-3) įvertinusi
-valstybės institucijų ir savivaldybių bei socialinių ir ekonominių partnerių
-iniciatyvas bei pasiūlymus.
-1 dalies redakcija nuo 2011 m. sausio 1
-d.:
 1. Regiono
 plėtros plano projektą rengia įstaiga prie Vidaus reikalų ministerijos:
 1) atsižvelgdama
@@ -233,7 +214,6 @@ regiono socialinės ir ekonominės būklės analizę;
 3) įvertinusi
 valstybės institucijų ir savivaldybių bei socialinių ir ekonominių partnerių
 iniciatyvas bei pasiūlymus.
- 
 2. Regiono plėtros plane turi būti nurodyta:
 1) regiono
 socialinės ir ekonominės būklės analizės pagrindiniai duomenys;
@@ -250,8 +230,8 @@ plėtros planą tvirtina regiono plėtros taryba.
 Straipsnio pakeitimai:
 Nr. X-1134,
 2007-05-17, Žin., 2007, Nr. 61-2339 (2007-06-02)
-Nr. XI-735,
-2010-04-08, Žin., 2010, Nr. 48-2285 (2010-04-27)
+Nr. XI-735, 2010-04-08,
+Žin., 2010, Nr. 48-2285 (2010-04-27)
  
 9 straipsnis. Valstybės lygmens
 regioninės plėtros planavimo dokumentų rengimas ir tvirtinimas
@@ -315,8 +295,8 @@ Nr. IX-2372,
 2004-07-15, Žin., 2004, Nr. 116-4324 (2004-07-27)
 Nr. X-1134,
 2007-05-17, Žin., 2007, Nr. 61-2339 (2007-06-02)
-Nr. XI-735,
-2010-04-08, Žin., 2010, Nr. 48-2285 (2010-04-27)
+Nr. XI-735, 2010-04-08,
+Žin., 2010, Nr. 48-2285 (2010-04-27)
  
 V SKYRIUS
 NACIONALINĘ
@@ -365,8 +345,8 @@ ir programas ir atsako už nacionalinės regioninės politikos tikslo ir uždavi
 įgyvendinimą;
 3) teikia
 išvadas rengėjams (prireikus – Vyriausybei), ar svarbiausias viešosios
-politikos kryptis nustatantys teisės aktai ir kiti dokumentai atitinka
-nacionalinės regioninės politikos tikslą bei uždavinius;
+politikos kryptis nustatantys teisės aktai ir kiti dokumentai atitinka nacionalinės
+regioninės politikos tikslą bei uždavinius;
 4) rengia
 regionų socialinių ir ekonominių skirtumų mažinimo programą, šį dokumentą
 teikia svarstyti Nacionalinei regioninės plėtros tarybai ir po jos pritarimo –
@@ -387,9 +367,9 @@ tarybas dėl rengiamų regionų plėtros planų, teikia siūlymus dėl jų tobul
 informaciją Nacionalinei regioninės plėtros tarybai apie regionų plėtros
 programos, skirtos tobulinti regioninės plėtros planavimą, teikti pagalbą
 savivaldybėms rengiant vietines iniciatyvas atitinkančius projektinius
-pasiūlymus ir plėtoti tarptautinį bendradarbiavimą regioninės politikos srityje,
-įgyvendinimą, apie šios programos naudojimą, administruoja regionų plėtros
-programos lėšas;
+pasiūlymus ir plėtoti tarptautinį bendradarbiavimą regioninės politikos
+srityje, įgyvendinimą, apie šios programos naudojimą, administruoja regionų
+plėtros programos lėšas;
 10) organizuoja
 Nacionalinės regioninės plėtros tarybos posėdžius;
 11) teikia pasiūlymus valstybės institucijoms ir
@@ -448,10 +428,9 @@ tarptautinį bendradarbiavimą regioninės politikos srityje, įgyvendinimo, lė
 panaudojimo;
 5) atlieka kitas
 teisės aktuose nustatytas funkcijas.
-5. Nacionalinė
-regioninės plėtros taryba posėdžiauja ne rečiau kaip du kartus per metus.
-Sprendimai priimami visų tarybos narių balsų dauguma darbo reglamento nustatyta
-tvarka.
+5. Nacionalinė regioninės
+plėtros taryba posėdžiauja ne rečiau kaip du kartus per metus. Sprendimai
+priimami visų tarybos narių balsų dauguma darbo reglamento nustatyta tvarka.
 Straipsnio pakeitimai:
 Nr. X-1134,
 2007-05-17, Žin., 2007, Nr. 61-2339 (2007-06-02)
@@ -508,10 +487,11 @@ ir valstybės institucijų siūlymus dėl regiono socialinės ir ekonominės pl�
 projektų, teikiamų įgyvendinant regionų socialinių ir ekonominių skirtumų
 mažinimo programą, probleminių teritorijų plėtros programas, regiono plėtros
 planą, savivaldybių strateginius plėtros planus ir nacionalinius Europos
-Sąjungos struktūrinės paramos programavimo dokumentus; vadovaudamasi nacionalinių
-Europos Sąjungos struktūrinės paramos programavimo dokumentų, kitų strateginio
-planavimo dokumentų ir teritorijų planavimo dokumentų nuostatomis, Vyriausybės
-nustatyta tvarka sudaro ir tvirtina siūlomų finansuoti projektų sąrašus;
+Sąjungos struktūrinės paramos programavimo dokumentus; vadovaudamasi
+nacionalinių Europos Sąjungos struktūrinės paramos programavimo dokumentų, kitų
+strateginio planavimo dokumentų ir teritorijų planavimo dokumentų nuostatomis,
+Vyriausybės nustatyta tvarka sudaro ir tvirtina siūlomų finansuoti projektų
+sąrašus;
 8) renka regiono
 plėtros tarybos pirmininką bei jo pavaduotoją, atleidžia juos iš pareigų;
 9) gali sudaryti
@@ -536,52 +516,104 @@ ekonominiais partneriais bei teritorinių darbo biržų atstovais. Šiam tikslui
 regiono plėtros taryba gali sudaryti konsultacinę socialinių ir ekonominių
 partnerių darbo grupę, kuri pateikia išvadas dėl numatomo priimti sprendimo.
 Priimdama sprendimą, regiono plėtros taryba įvertina darbo grupės išvadas.
+Redakcija nuo 2014-03-01:
+13
+straipsnis. Regionų plėtros tarybos ir jų įgaliojimai 
+1. Regiono
+plėtros taryba sudaroma iš regiono savivaldybių merų, deleguotų savivaldybių
+tarybų narių ir Vyriausybės arba jos įgaliotos institucijos paskirto asmens.
+2. Regiono plėtros tarybos sudėtį per 3 mėnesius nuo galutinių savivaldybių tarybų rinkimų
+rezultatų paskelbimo tvirtina vidaus reikalų ministras. Vidaus reikalų
+ministro įgaliotas regiono plėtros tarybos narys kviečia pirmąjį regiono
+plėtros tarybos posėdį ir pirmininkauja regiono plėtros tarybos posėdžiams tol,
+kol taryba išsirenka pirmininką.
+3. Savivaldybių
+tarybų narius į regiono plėtros tarybą deleguoja savivaldybių tarybos pagal
+kiekvienos savivaldybės gyventojų skaičių:
+1) nuo 200 000
+ir daugiau gyventojų – 3 tarybos narius;
+2) nuo 50 000
+iki 200 000 gyventojų – 2 tarybos narius;
+3) iki 50 000
+gyventojų – 1 tarybos narį.
+4. Savivaldybės
+gyventojų skaičius nustatomas pagal kalendorinių metų, einančių prieš
+kalendorinius metus, kuriais vyko paskutiniai savivaldybių tarybų rinkimai,
+sausio 1 dienos gyvenamąją vietą deklaravusių asmenų ir neturinčių
+gyvenamosios vietos asmenų apskaitos duomenis, paskelbtus Lietuvos Respublikos
+gyventojų registro tvarkytojo interneto svetainėje šio tvarkytojo nuostatuose
+nustatyta tvarka ir terminais.
+5. Socialiniai
+ir ekonominiai partneriai regiono plėtros tarybos darbe dalyvauja patariamojo
+balso teise. Socialinius ir ekonominius partnerius į savo posėdžius kviečia
+regiono plėtros taryba.
+6. Regionų,
+kuriuos sudaro Vyriausybė, plėtros tarybų sudarymo tvarką, vadovaudamasi šiuo
+Įstatymu, nustato Vyriausybė.
+7. Regiono
+plėtros taryba:
+1) tvirtina savo
+nuostatus ir darbo reglamentą;
+2) svarsto ir
+tvirtina regiono plėtros planą; 
+3) teikia išvadas Vidaus reikalų
+ministerijai ir Nacionalinei regioninės plėtros tarybai dėl regiono plėtros
+plano įgyvendinimo;
+4) svarsto ir teikia siūlymus
+Vidaus reikalų ministerijai ir Nacionalinei regioninės plėtros tarybai dėl
+regionų socialinių ir ekonominių skirtumų mažinimo programos;
+5) teikia
+siūlymus Vidaus reikalų ministerijai dėl probleminių teritorijų išskyrimo bei
+tose teritorijose įgyvendinamiems projektams teiktinos valstybės pagalbos
+kriterijų;
+6) teikia siūlymus Vyriausybei ir
+Vidaus reikalų ministerijai dėl probleminės teritorijos plėtros programos ir
+jos vykdymo;
+7) svarsto savivaldybių
+ir valstybės institucijų siūlymus dėl regiono socialinės ir ekonominės plėtros
+projektų, teikiamų įgyvendinant regionų socialinių ir ekonominių skirtumų
+mažinimo programą, probleminių teritorijų plėtros programas, regiono plėtros
+planą, savivaldybių strateginius plėtros planus ir nacionalinius Europos
+Sąjungos struktūrinės paramos programavimo dokumentus; vadovaudamasi
+nacionalinių Europos Sąjungos struktūrinės paramos programavimo dokumentų, kitų
+strateginio planavimo dokumentų ir teritorijų planavimo dokumentų nuostatomis,
+Vyriausybės nustatyta tvarka sudaro ir tvirtina siūlomų finansuoti projektų
+sąrašus;
+8) renka regiono
+plėtros tarybos pirmininką bei jo pavaduotoją, atleidžia juos iš pareigų;
+9) gali sudaryti
+darbo grupes ir jas įgalioti nagrinėti konkrečius regiono plėtros tarybos
+kompetencijai priskirtus klausimus ir teikti dėl jų išvadas, svarsto ir priima
+sprendimus dėl pateiktų išvadų;
+10) atlieka
+kitas teisės aktuose nustatytas funkcijas;
+11) svarsto
+pasiūlymus dėl atstovavimo regionui tarptautinėse regionų bendradarbiavimo
+organizacijose ir dėl bendradarbiavimo su kitų valstybių regionais.
+8. Regiono
+plėtros taryba sprendimus priima visų tarybos narių balsų dauguma savo darbo
+reglamento nustatyta tvarka.
+9. Regiono
+plėtros taryba sprendimus dėl regiono plėtros plano, jo įgyvendinimo,
+probleminės teritorijos išskyrimo bei tos probleminės teritorijos plėtros
+programos, aktualiausių regiono socialinės ir ekonominės plėtros projektų, taip
+pat kitus sprendimus, galinčius turėti esminės įtakos to regiono (apskrities)
+socialinei ir ekonominei plėtrai, priima pasikonsultavusi su socialiniais ir
+ekonominiais partneriais bei teritorinių darbo biržų atstovais. Šiam tikslui
+regiono plėtros taryba gali sudaryti konsultacinę socialinių ir ekonominių
+partnerių darbo grupę, kuri pateikia išvadas dėl numatomo priimti sprendimo.
+Priimdama sprendimą, regiono plėtros taryba įvertina darbo grupės išvadas.
 Straipsnio pakeitimai:
 Nr. X-1134,
 2007-05-17, Žin., 2007, Nr. 61-2339 (2007-06-02)
 Nr. XI-735,
 2010-04-08, Žin., 2010, Nr. 48-2285 (2010-04-27)
+Nr. XII-690,
+2013-12-17, Žin., 2013, Nr. 140-7067 (2013-12-30)
  
-14 straipsnio redakcija iki 2010 m.
-gruodžio 31 d.:
-14 straipsnis. Vidaus reikalų
-ministerijos arba jos įgaliotos institucijos įgaliojimai įgyvendinant
-nacionalinę regioninę politiką apskrityse
-Vidaus reikalų ministerija arba jos įgaliota institucija,
-įgyvendindama nacionalinę regioninę politiką apskrityse:
-1) vidaus reikalų ministro nustatyta
-tvarka rengia regiono plėtros plano projektą ir pateikia jį regiono plėtros
-tarybai svarstyti bei tvirtinti;
-2) rengia
-pasiūlymus regiono plėtros tarybai dėl regiono plėtros plano įgyvendinimo,
-regionų socialinių ir ekonominių skirtumų mažinimo programos, probleminių
-teritorijų išskyrimo bei jose įgyvendinamiems projektams teiktinų valstybės
-pagalbos kriterijų;
-3) dalyvauja
-rengiant ir vykdant probleminės teritorijos plėtros programas;
-4) apibendrinusi savivaldybių siūlymus dėl regionines
-ir vietines iniciatyvas atitinkančių regiono socialinės ir ekonominės plėtros
-projektų, teikia šiuos projektus svarstyti regiono plėtros tarybai;
-5) koordinuoja
-savivaldybių institucijų, socialinių ir ekonominių partnerių veiklą jiems
-vykdant priimtus sprendimus, susijusius su nacionalinės regioninės politikos
-įgyvendinimu tame regione;
-6) atlieka
-regiono plėtros tarybos sekretoriato funkcijas, kaupia regiono plėtros tarybos
-priimtus dokumentus ir jos sudarytų darbo grupių išvadas;
-7) organizuoja
-rengiamų regioninės plėtros planavimo dokumentų aptarimą su valstybės
-institucijomis ir savivaldybėmis, socialiniais ir ekonominiais partneriais ir
-nustatyta tvarka teikia informaciją apie regiono plėtros planų rengimą ir
-įgyvendinimą valstybės institucijoms, savivaldybėms ir visuomenei; 
-8) atlieka kitas
-įstatymų, Vyriausybės nutarimų ir Vidaus reikalų ministerijos įgaliotos
-institucijos nuostatų numatytas funkcijas.
-14 straipsnio redakcija nuo 2011 m.
-sausio 1 d.:
-14 straipsnis. Įstaiga prie Vidaus
-reikalų ministerijos ir jos įgaliojimai įgyvendinant nacionalinę regioninę
-politiką 
+14 straipsnis.
+Įstaiga prie Vidaus reikalų ministerijos ir jos įgaliojimai įgyvendinant
+nacionalinę regioninę politiką 
 1. Šiuo įstatymu nustatytoms nacionalinės regioninės
 politikos įgyvendinimo funkcijoms vykdyti įstatymų nustatyta tvarka steigiama
 įstaiga prie ministerijos – Regioninės plėtros departamentas prie Vidaus
@@ -606,8 +638,8 @@ ir vietines iniciatyvas atitinkančių regiono socialinės ir ekonominės plėtr
 projektų, teikia šiuos projektus svarstyti regiono plėtros tarybai;
 5) koordinuoja
 savivaldybių institucijų, socialinių ir ekonominių partnerių veiklą jiems
-vykdant priimtus sprendimus, susijusius su nacionalinės regioninės politikos įgyvendinimu
-tame regione;
+vykdant priimtus sprendimus, susijusius su nacionalinės regioninės politikos
+įgyvendinimu tame regione;
 6) atlieka
 regiono plėtros tarybos sekretoriato funkcijas, kaupia regiono plėtros tarybos
 priimtus dokumentus ir jos sudarytų darbo grupių išvadas;
@@ -622,8 +654,8 @@ numatytas funkcijas.
 Straipsnio pakeitimai:
 Nr. X-1134,
 2007-05-17, Žin., 2007, Nr. 61-2339 (2007-06-02)
-Nr. XI-735,
-2010-04-08, Žin., 2010, Nr. 48-2285 (2010-04-27)
+Nr. XI-735, 2010-04-08,
+Žin., 2010, Nr. 48-2285 (2010-04-27)
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą. 
@@ -631,7 +663,7 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS
 ADAMKUS
  
-_____________
+ 
  
 Pakeitimai:
  
@@ -687,10 +719,21 @@ straipsnio 1 dalis galioja iki 2010 m. gruodžio 31 d.
 Šio įstatymo 2 straipsnio 2 dalis ir 8
 straipsnio 2 dalis įsigalioja 2011 m. sausio 1 d.
  
-*** Pabaiga ***
+6.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XII-690,
+2013-12-17, Žin., 2013, Nr. 140-7067 (2013-12-30)
+LIETUVOS RESPUBLIKOS REGIONINĖS PLĖTROS
+ĮSTATYMO 13 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+Šis įstatymas, išskyrus šio straipsnio 2
+dalį, įsigalioja 2014 m. kovo 1 d.
+ 
+***
+Pabaiga ***
  
  
-Redagavo Aušrinė Trapinskienė
-(2010-04-30)
+Redagavo
+Aušrinė Trapinskienė (2014-01-11)
                  
-autrap@lrs.lt
+ausrine.trapinskiene@lrs.lt
