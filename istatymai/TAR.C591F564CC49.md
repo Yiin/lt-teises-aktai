@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C591F564CC49"
 
 # Lietuvos Respublikos laikinasis vidaus tarnybos įstatymas
 
-Suvestinė redakcija nuo 2003-05-01 iki 2013-12-29
+Įstatymas netenka galios 2017-06-29:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-494, 2017-06-22, paskelbta TAR 2017-06-28, i. k. 2017-10915
+Lietuvos Respublikos laikinojo vidaus tarnybos įstatymo Nr. I-2120 pripažinimo netekusiu galios įstatymas
+ 
+Suvestinė redakcija nuo 2013-12-30 iki 2017-06-28
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 2-0; Žin. 1992, Nr.3-34, i. k. 0911010ISTA00I-2120
  
