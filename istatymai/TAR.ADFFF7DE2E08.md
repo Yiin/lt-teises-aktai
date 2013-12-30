@@ -378,7 +378,7 @@ Pakeisti
 27 straipsnį ir jį išdėstyti taip:
 „27 straipsnis. Fondo tarybos
 kompetencija
- Fondo
+Fondo
 taryba:
 1)
 nagrinėja ir teikia pasiūlymus ir išvadas Socialinės apsaugos ir darbo
@@ -462,9 +462,9 @@ nuorašus;“.
 Šis įstatymas, išskyrus 8 straipsnio 1 dalį ir šio straipsnio 4 dalį,
 įsigalioja 2013 m. sausio 1 d. 
 2.
-Šio įstatymo 8 straipsnio 1 dalis įsigalioja 2014 m. sausio 1 d.
+Šio įstatymo 8 straipsnio 1 dalis įsigalioja 2015 m. sausio 1 d.
 3.
-Šio įstatymo 8 straipsnio 2 dalis galioja iki 2013 m. gruodžio 31 d.
+Šio įstatymo 8 straipsnio 2 dalis galioja iki 2014 m. gruodžio 31 d.
 4.
 Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki 2012 m.
 gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
@@ -472,10 +472,11 @@ Straipsnio
 pakeitimai:
 Nr. XII-126,
 2012-12-20, Žin., 2012, Nr. 154-7932 (2012-12-29)
+Nr. XII-669,
+2013-12-12, Žin., 2013, Nr. 140-7051 (2013-12-30)
  
 Skelbiu šį
 Lietuvos Respublikos Seimo priimtą įstatymą.
- 
 
 
 
@@ -484,8 +485,6 @@ Lietuvos Respublikos Seimo priimtą įstatymą.
 RESPUBLIKOS
 PREZIDENTĖ                                                       DALIA
 GRYBAUSKAITĖ
- 
- 
 Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -495,9 +494,18 @@ VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO
 2, 3, 4, 5, 16, 17, 21, 22, 25, 26, 27, 29, 31, 36 STRAIPSNIŲ PAKEITIMO IR
 PAPILDYMO ĮSTATYMO 8 IR 15 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-669,
+2013-12-12, Žin., 2013, Nr. 140-7051 (2013-12-30)
+LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO
+DRAUDIMO ĮSTATYMO 2, 3, 4, 5, 16, 17, 21, 22, 25, 26, 27, 29, 31, 36 STRAIPSNIŲ
+PAKEITIMO IR PAPILDYMO ĮSTATYMO 15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2013-01-03)
-                  ausrine.trapinskiene@lrs.lt
+(2014-01-02)
+                 
+ausrine.trapinskiene@lrs.lt
