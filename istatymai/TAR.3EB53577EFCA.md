@@ -743,9 +743,10 @@ prokurorui ir jo pavaduotojams netaikomos šio Įstatymo 25 straipsnio
 1 dalies, 26 straipsnio, 30 straipsnio 3 dalies, 31–34, 36, 37 straipsnių,
 39 straipsnio 3 dalies, 40–44 straipsnių, 45 straipsnio 1–6 dalių, 46, 48
 straipsnių ir 53 straipsnio 2 dalies nuostatos.
-4.
-Generalinio prokuroro ir jo pavaduotojų asmens ir jų šeimos narių ar turto
-apsauga užtikrinama Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+4. Generalinio
+prokuroro ir jo pavaduotojų asmens ir jų šeimos narių ar turto apsauga
+užtikrinama Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir
+sąlygomis.
 5.
 Buvęs generalinis prokuroras ir jo pavaduotojas be egzaminų ir atrankos gali
 būti paskirti į bet kurias laisvas prokuroro ar teisėjo pareigas.
@@ -755,6 +756,8 @@ X-1661,
 2008-07-01, Žin., 2008, Nr. 81-3173 (2008-07-17)
 Nr. XI-1562,
 2011-06-30, Žin., 2011, Nr. 91-4333 (2011-07-19)
+Nr. XII-708,
+2013-12-19, Žin., 2013, Nr. 140-7075 (2013-12-30)
  
 Penktasis skirsnis
 Priėmimas į tarnybą prokuratūroje
@@ -781,9 +784,9 @@ tarnybą prokuratūroje ir skyrimo į prokuroro pareigas reikalavimai
 1. Asmuo priimamas į tarnybą prokuratūroje ir paskiriamas į prokuroro
 pareigas, jeigu jis yra nepriekaištingos reputacijos Lietuvos Respublikos
 pilietis, mokantis valstybinę lietuvių kalbą, turi aukštąjį universitetinį
-teisinį išsilavinimą ir yra įgijęs teisės bakalauro ir teisės magistro ar teisininko
-profesinį kvalifikacinį laipsnį, turi trejų metų teisinio darbo stažą ir
-išlaikė pretendentų į prokurorus egzaminą.
+teisinį išsilavinimą ir yra įgijęs teisės bakalauro ir teisės magistro ar
+teisininko profesinį kvalifikacinį laipsnį, turi trejų metų teisinio darbo
+stažą ir išlaikė pretendentų į prokurorus egzaminą.
 2. Užsienio mokymo įstaigose asmens įgytas išsilavinimas pripažįstamas
 Vyriausybės nustatyta tvarka.
 3. Laikoma, kad asmuo yra nepriekaištingos
@@ -821,8 +824,8 @@ pareigybių sąrašą tvirtina generalinis prokuroras.
 3. Asmuo, pateikęs prašymą tarnauti prokuroru,
 privalo:
 1) pateikti
-duomenis ir dokumentus, patvirtinančius, kad jis atitinka priėmimo į tarnybą prokuratūroje
-reikalavimus;
+duomenis ir dokumentus, patvirtinančius, kad jis atitinka priėmimo į tarnybą
+prokuratūroje reikalavimus;
 2) pasitikrinti
 sveikatą ir pateikti medicinos komisijos išvadą dėl tinkamumo eiti prokuroro
 pareigas. Sveikatos tikrinimo tvarką ir medicininius reikalavimus nustato
@@ -831,8 +834,8 @@ sveikatos apsaugos ministras, suderinęs su generaliniu prokuroru;
 mokesčio deklaracijas;
 4) išlaikyti pretendentų į prokurorus egzaminą.
 4. Nuo pretendentų į prokurorus egzamino atleidžiamas asmuo:
-1) išlaikęs pretendento į teisėjus egzaminą, jei nuo šio egzamino išlaikymo
-nepraėjo treji metai; 
+1) išlaikęs pretendento į teisėjus egzaminą, jei nuo šio egzamino
+išlaikymo nepraėjo treji metai; 
 2) turintis ne mažiau kaip trejų metų tarnybos prokuroru ar teisėjo
 darbo stažą, jei nuo jo tarnybos (darbo) pabaigos nepraėjo penkeri metai; 
 3) turintis teisės krypties socialinių mokslų daktaro ar habilituoto
@@ -858,13 +861,13 @@ pareigas panaikinamas.
 Straipsnio
 pakeitimai:
 Nr.
-IX-1912,
-2003-12-18, Žin., 2003, Nr. 123-5584 (2003-12-30)
+IX-1912, 2003-12-18,
+Žin., 2003, Nr. 123-5584 (2003-12-30)
 Nr.
 X-1661,
 2008-07-01, Žin., 2008, Nr. 81-3173 (2008-07-17)
-Nr. XI-1562,
-2011-06-30, Žin., 2011, Nr. 91-4333 (2011-07-19)
+Nr. XI-1562, 2011-06-30,
+Žin., 2011, Nr. 91-4333 (2011-07-19)
  
 27 straipsnis. Asmens duomenys
 1. Generalinė prokuratūra turi teisę Asmens duomenų
@@ -902,13 +905,13 @@ respublikos prokuroro (jo pavaduotojo), miesto, rajono, tarprajoninės,
 transporto prokuratūros prokuroro (jo pavaduotojo, jo padėjėjo), prokuratūros
 stažuotojo, prokuratūros tardytojo (jo padėjėjo) pareigas, tarnybos
 prokuratūroje laikas yra įskaitomas į tarnybos prokuroru stažą. 
-5. Asmens darbo (tarnybos) laikas, nurodytas šio straipsnio 2 ir 3
-dalyse, į tarnybos prokuroru stažą įskaitomas generalinio prokuroro įsakymu
-remiantis Atrankos komisijos, kuriai generalinis prokuroras paveda
-atlikti šį vertinimą, teikimu.
+5. Asmens darbo (tarnybos) laikas, nurodytas šio straipsnio 2 ir 3 dalyse,
+į tarnybos prokuroru stažą įskaitomas generalinio prokuroro įsakymu remiantis Atrankos
+komisijos, kuriai generalinis prokuroras paveda atlikti šį vertinimą, teikimu.
 6. Asmuo, nesutikdamas su Atrankos komisijos teikimu, gali jį apskųsti
 generaliniam prokurorui, o nesutikdamas su generalinio prokuroro įsakymu dėl
-stažo įskaitymo, – teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+stažo įskaitymo, – teismui Administracinių bylų teisenos įstatymo nustatyta
+tvarka.
 Straipsnio pakeitimai:
 Nr. XI-1562,
 2011-06-30, Žin., 2011, Nr. 91-4333 (2011-07-19)
@@ -978,8 +981,8 @@ stažuotės nuostatus įsakymu tvirtina generalinis prokuroras.
 stažuotės metu eina prokuroro pareigas ir proceso sprendimų bei nutarimų
 projektus privalo derinti su stažuotės vadovu.
 4. Pasibaigus
-prokuroro stažuotės terminui, jo tarnybą vertina Atestacijos komisija. Ji generaliniam
-prokurorui pateikia išvadą, kurioje pasiūlo:
+prokuroro stažuotės terminui, jo tarnybą vertina Atestacijos komisija. Ji
+generaliniam prokurorui pateikia išvadą, kurioje pasiūlo:
 1) prokuroro
 tarnybą vertinti teigiamai, pasiūlyti toliau eiti pareigas ir suteikti
 kvalifikacinį rangą;
@@ -1003,15 +1006,15 @@ prokurorų stažuotės metu – profesinių įgūdžių formavimas;
 2)
 kvalifikacijos kėlimas – profesinių žinių plėtimas ir įgūdžių tobulinimas.
 2. Prokurorų
-mokymą prokurorų stažuotės metu organizuoja Generalinė prokuratūra,
-kvalifikacijos kėlimą – Generalinė prokuratūra ir Teisingumo ministerija.
+mokymą prokurorų stažuotės metu organizuoja Generalinė prokuratūra, kvalifikacijos
+kėlimą – Generalinė prokuratūra ir Teisingumo ministerija.
 3. Prokuratūra
 turi sudaryti sąlygas prokurorams savarankiškai kelti kvalifikaciją.
 4. Prokuroras jo
 paties sutikimu gali būti siunčiamas kelti kvalifikacijos ne ilgiau kaip
 vienerius metus. Šis laikotarpis įskaitomas į tarnybos prokuroru stažą,
-prokurorui mokamas iki mokymosi laikotarpio nustatytas darbo užmokestis ir garantuojamos
-jo einamos pareigos.
+prokurorui mokamas iki mokymosi laikotarpio nustatytas darbo užmokestis ir
+garantuojamos jo einamos pareigos.
 5. Prokuroras,
 prokuratūros siuntimu mokęsis ilgiau kaip tris mėnesius ir per vienerius metus
 nuo mokymosi pabaigos atleistas iš tarnybos prokuratūroje pagal šio Įstatymo 44
@@ -2129,11 +2132,19 @@ PROKURATŪROS
 Šis įstatymas įsigalioja 2014 m. sausio 1
 d.
  
+20.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XII-708,
+2013-12-19, Žin., 2013, Nr. 140-7075 (2013-12-30)
+LIETUVOS
+RESPUBLIKOS PROKURATŪROS ĮSTATYMO 23 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2013-12-20)
+Aušrinė Trapinskienė (2014-01-07)
                  
 ausrine.trapinskiene@lrs.lt
