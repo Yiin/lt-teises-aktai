@@ -1264,7 +1264,7 @@ sąskaitoje.
 straipsnio 1 dalies 2 punkte nurodytas lėšas užimtumo politiką įgyvendinančios
 įstaigos perveda į Užimtumo fondo sąskaitą už praėjusį ketvirtį iki kito
 ketvirčio pirmo mėnesio 15 dienos.
-38 straipsnio redakcija nuo 2014-01-01:
+38 straipsnio redakcija nuo 2015-01-01:
 38
 straipsnis. Užimtumo fondo lėšos 
 1. Užimtumo
@@ -1302,6 +1302,8 @@ Nr. XI-2307,
 2012-10-17, Žin., 2012, Nr. 127-6396 (2012-11-03)
 Nr. XII-123,
 2012-12-20, Žin., 2012, Nr. 154-7929 (2012-12-29)
+Nr. XII-666,
+2013-12-12, Žin., 2013, Nr. 140-7048 (2013-12-30)
  
 39
 straipsnis. Užimtumo fondo administravimas
@@ -1347,9 +1349,9 @@ nustatyta tvarka įgaliotos valstybės institucijos.
 apsaugos ir darbo ministerija ne vėliau kaip per 4 mėnesius, pasibaigus
 finansiniams metams, viešai skelbia informaciją apie valstybės lėšų
 panaudojimą, nurodydama šių lėšų panaudojimą atskiroms aktyvios darbo rinkos
-politikos priemonėms ir užimtumo rėmimo programoms įgyvendinti, nedarbo
-socialinio draudimo išmokoms mokėti, užimtumo rėmimo politiką įgyvendinančioms
-įstaigoms išlaikyti ir darbo rinkos paslaugoms teikti. 
+politikos priemonėms ir užimtumo rėmimo programoms įgyvendinti, nedarbo socialinio
+draudimo išmokoms mokėti, užimtumo rėmimo politiką įgyvendinančioms įstaigoms
+išlaikyti ir darbo rinkos paslaugoms teikti. 
  SEPTINTASIS SKIRSNIS
 GINČŲ DĖL
 UŽIMTUMO RĖMIMO PRIEMONIŲ ĮGYVENDINIMO ir
@@ -1395,8 +1397,8 @@ išskyrus šio įstatymo 3 straipsnio 1 dalį ir šio įstatymo 1 straipsnyje
 išdėstyto Lietuvos Respublikos užimtumo rėmimo įstatymo 23 straipsnio 3 dalį,
 įsigalioja 2009 m. rugpjūčio 1 d.
 Šio įstatymo 1 straipsnyje išdėstyto
-Lietuvos Respublikos užimtumo rėmimo įstatymo 23 straipsnio 3 dalis
-įsigalioja 2010 m. balandžio 1 d.
+Lietuvos Respublikos užimtumo rėmimo įstatymo 23 straipsnio 3 dalis įsigalioja
+2010 m. balandžio 1 d.
 Nauja
 įstatymo redakcija
  
@@ -1457,18 +1459,28 @@ STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas, išskyrus šio straipsnio 4
 dalį, 2 straipsnio 1 dalį, įsigalioja 2013 m. sausio 1 d.
 Šio įstatymo 2 straipsnio 1 dalis
-įsigalioja 2014 m. sausio 1 d.
-Šio įstatymo 2 straipsnio 2 dalis galioja
-iki 2013 m. gruodžio 31 d.
+įsigalioja 2015 m. sausio 1 d.
+Šio įstatymo 2 straipsnio 2 dalis
+galioja iki 2014 m. gruodžio 31 d.
 Šis įstatymas ir
 jo įsigaliojimas keistas:
+8.1.
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr. XII-123,
 2012-12-20, Žin., 2012, Nr. 154-7929 (2012-12-29)
-UŽIMTUMO RĖMIMO ĮSTATYMO
-37 IR 38 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 2 IR 3 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
-ĮSTATYMAS
+UŽIMTUMO RĖMIMO
+ĮSTATYMO 37 IR 38 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 2 IR 3 STRAIPSNIŲ PAKEITIMO IR
+PAPILDYMO ĮSTATYMAS
+8.2.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr. XII-666,
+2013-12-12, Žin., 2013, Nr. 140-7048 (2013-12-30)
+LIETUVOS
+RESPUBLIKOS UŽIMTUMO RĖMIMO ĮSTATYMO 37 IR 38 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 3
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
  
 10.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1479,11 +1491,12 @@ PAKEITIMO ĮSTATYMAS
 Šis
 įstatymas įsigalioja 2014 m. spalio 1 d.
  
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2013-07-31)
+(2014-01-02)
                  
 ausrine.trapinskiene@lrs.lt
 
