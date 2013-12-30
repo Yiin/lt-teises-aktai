@@ -167,7 +167,6 @@ ne mažesnė kaip vidutinė Fondo biudžeto 3 darbo dienų išlaidų suma ir vid
 mėnesio įmokų, pervedamų į kaupiamųjų pensijų socialinio draudimo įmokų
 sąskaitą, suma.“
  
- 
 6
 straipsnis. 9 straipsnio pakeitimas
 Pakeisti 9
@@ -253,8 +252,8 @@ planuojamos šių įmokų surinkimo sumos;
 rodikliai, būtini Fondo biudžetui vykdyti.“
 2. Papildyti 7
 straipsnį nauja 2 dalimi:
-„2. Pakeisti 11
-straipsnio 1 dalį ir ją išdėstyti taip:
+„2. Pakeisti ir
+papildyti 11 straipsnio 1 dalį ir ją išdėstyti taip:
 „1. Fondo
 biudžeto rodiklių patvirtinimo įstatymu atitinkamiems biudžetiniams metams
 tvirtinami:
@@ -280,15 +279,23 @@ politiką įgyvendinančioms įstaigoms išlaikyti dydis;
 savanoriškojo pensijų socialinio draudimo pagrindinei ir papildomai pensijos
 dalims gauti tarifai;
 7) apdraustųjų,
-dalyvaujančių pensijų kaupime, pensijų socialinio draudimo įmokų dalies,
-pervedamos pensijų kaupimo bendrovėms, tarifas;
+dalyvaujančių pensijų kaupime, pensijų socialinio draudimo įmokų dalies, pervedamos
+pensijų kaupimo bendrovėms, tarifas;
 8) pensijų
 socialinio draudimo įmokų tarifo dalis, skirta valstybinės socialinio draudimo
 senatvės pensijos papildomai daliai;
 9) asignavimų iš
 valstybės biudžeto ir (ar) kitų valstybės piniginių išteklių dydis;
-10) kiti rodikliai,
-būtini Fondo biudžetui vykdyti.“
+10) dydis,
+skirtas Fondo veiklos sąnaudų kompensacijai už išmokų, finansuojamų iš
+valstybės biudžeto, skyrimą, mokėjimą ir pristatymą apskaičiuoti, išreikštas
+kaip procentinė dalis nuo šioms išmokoms skirtos valstybės biudžeto lėšų sumos;
+11)
+dydis, skirtas Fondo veiklos sąnaudų kompensacijai už įmokų surinkimą ir
+pervedimą į fondus apskaičiuoti, išreikštas kaip procentinė dalis nuo
+planuojamos surinkti šių įmokų sumos;
+12) kiti
+rodikliai, būtini Fondo biudžetui vykdyti.“
 3. Papildyti 11 straipsnį 3 dalimi:
 „3. Fondo
 biudžeto rodiklių patvirtinimo įstatymu numatomas paskolų, paimtų siekiant
@@ -297,6 +304,8 @@ Respublikos valstybės biudžeto lėšų.“
 Straipsnio pakeitimai:
 Nr. XII-124,
 2012-12-20, Žin., 2012, Nr. 154-7930 (2012-12-29)
+Nr. XII-667,
+2013-12-12, Žin., 2013, Nr. 140-7049 (2013-12-30)
  
 8
 straipsnis. 13 straipsnio papildymas 4 dalimi
@@ -343,12 +352,12 @@ atskaitomybės įstatymas.“
 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 1. Šis
 įstatymas, išskyrus 3 straipsnio 2 dalį, 7 straipsnio 1 ir 3 dalis
-ir šio straipsnio 5 dalį, įsigalioja 2013 m.
-sausio 1 d. 
+ir šio straipsnio 5 dalį, įsigalioja 2013 m. sausio 1 d.
+
 2. Šio įstatymo
-3 straipsnio 2 dalis, 7 straipsnio 1 dalis įsigalioja 2014 m. sausio 1 d.
+3 straipsnio 2 dalis, 7 straipsnio 1 dalis įsigalioja 2015 m. sausio 1 d.
 3. Šio įstatymo
-3 straipsnio 3 dalis, 7 straipsnio 2 dalis galioja iki 2013 m. gruodžio 31 d.
+3 straipsnio 3 dalis, 7 straipsnio 2 dalis galioja iki 2014 m. gruodžio 31 d.
 4. Šio
 įstatymo 7 straipsnio 3 dalies normos taikomos nustatant paskolų,
 suteiktų po 2014 m. sausio 1 d., palūkanų dengimą iš Lietuvos
@@ -360,6 +369,8 @@ gruodžio 31 d. ir iki 2013 m. gruodžio 31 d. priima šio įstatymo
 Straipsnio pakeitimai:
 Nr. XII-124,
 2012-12-20, Žin., 2012, Nr. 154-7930 (2012-12-29)
+Nr. XII-667,
+2013-12-12, Žin., 2013, Nr. 140-7049 (2013-12-30)
  
 Skelbiu šį Lietuvos Respublikos Seimo
 priimtą įstatymą.
@@ -370,7 +381,8 @@ priimtą įstatymą.
 
  
 RESPUBLIKOS
-PREZIDENTĖ                                                       DALIA GRYBAUSKAITĖ
+PREZIDENTĖ                                                       DALIA
+GRYBAUSKAITĖ
  
  
 Pakeitimai:
@@ -383,10 +395,18 @@ BIUDŽETO SANDAROS ĮSTATYMO 3, 4, 5, 6, 7, 9, 11, 13, 14, 15 STRAIPSNIŲ
 PAKEITIMO IR PAPILDYMO ĮSTATYMO 3, 7 IR 11 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 ĮSTATYMAS
  
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-667,
+2013-12-12, Žin., 2013, Nr. 140-7049 (2013-12-30)
+LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO
+DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO 3, 4, 5, 6, 7, 9, 11, 13, 14, 15
+STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 7 IR 11 STRAIPSNIŲ PAKEITIMO
+ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
 Redagavo Aušrinė Trapinskienė
-(2013-01-07)
-                 
-ausrine.trapinskiene@lrs.lt
+(2014-01-02)
+                  ausrine.trapinskiene@lrs.lt
