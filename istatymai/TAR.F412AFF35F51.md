@@ -478,15 +478,17 @@ nustatyta tvarka ir perskaičiuojamos taikant šio įstatymo nuostatas.
  
 15 straipsnis.
 Įstatymo įsigaliojimas ir taikymas 
-1.  Šis
-įstatymas, išskyrus 16 straipsnį, įsigalioja 2010 m. sausio 1 d. ir galioja:
+1. Šis įstatymas, išskyrus 16 straipsnį,
+įsigalioja 2010 m. sausio 1 d. ir galioja:
 1) šio įstatymo
 1 straipsnio 2 dalies 4 punkte nurodytoms šalpos kompensacijoms ir 5–9
 punktuose nurodytoms išmokoms – iki 2011 m. gruodžio 31 d.;
 2) šio įstatymo
 1 straipsnio 2 dalies 1 ir 3 punktuose nurodytoms išmokoms, 4 punkte
-nurodytoms slaugos ir priežiūros (pagalbos) išlaidų tikslinėms kompensacijoms
-ir 10 punkte nurodytai išmokai – iki 2013 m. gruodžio 31 d.
+nurodytoms slaugos ir priežiūros (pagalbos) išlaidų tikslinėms kompensacijoms –
+iki 2013 m. gruodžio 31 d.;
+3) šio įstatymo
+1 straipsnio 2 dalies 10 punkte nurodytai išmokai – iki 2014 m. gruodžio 31 d.
 2. Šio įstatymo
 9 ir 10 straipsnių nuostatos netaikomos nuo 2011 m. liepos 1 d. iš naujo skiriamoms socialinio draudimo pašalpoms ir iš valstybės biudžeto
 mokamoms motinystės (tėvystės) išmokoms.
@@ -501,6 +503,8 @@ Nr. XI-1821,
 2011-12-20, Žin., 2011, Nr. 160-7573 (2011-12-28)
 Nr. XII-92,
 2012-12-20, Žin., 2012, Nr. 155-7985 (2012-12-31)
+Nr.
+XII-674, 2013-12-12, Žin., 2013, Nr. 140-7056 (2013-12-30)
  
 16
 straipsnis. Pasiūlymai Lietuvos Respublikos Vyriausybei
@@ -679,6 +683,15 @@ Nr. XII-92,
 SOCIALINIŲ IŠMOKŲ PERSKAIČIAVIMO IR
 MOKĖJIMO LAIKINOJO ĮSTATYMO 15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
+10.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XII-674, 2013-12-12, Žin., 2013, Nr. 140-7056 (2013-12-30)
+LIETUVOS
+RESPUBLIKOS SOCIALINIŲ IŠMOKŲ PERSKAIČIAVIMO IR MOKĖJIMO LAIKINOJO ĮSTATYMO 15
+STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ 
 *** Pabaiga ***
  
  
@@ -696,22 +709,21 @@ GRUODŽIO 8 D. REDAKCIJA), LIETUVOS RESPUBLIKOS SOCIALINIŲ IŠMOKŲ PERSKAIČIA
 IR MOKĖJIMO LAIKINOJO ĮSTATYMO 1 STRAIPSNIO 2 DALIES 1 PUNKTO, 16 STRAIPSNIO 4
 DALIES ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
  
- 
 2. 
 Lietuvos Respublikos Konstitucinis
 Teismas, Nutarimas
-2012-02-06, Žin., 2012, Nr. 109-5528 (2012-09-21)
+2012-02-06, Žin., 2012, Nr. 109-5528
+(2012-09-21)
 DĖL LIETUVOS RESPUBLIKOS TEISĖS AKTŲ
 NUOSTATŲ, KURIOMIS REGULIUOJAMAS PENSIJŲ PERSKAIČIAVIMAS IR MOKĖJIMAS
 VALSTYBĖJE SUSIDARIUS ITIN SUNKIAI EKONOMINEI, FINANSINEI PADĖČIAI, ATITIKTIES
 LIETUVOS RESPUBLIKOS KONSTITUCIJAI
- 
  
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2013-01-03)
+Aušrinė Trapinskienė (2014-01-06)
                  
 ausrine.trapinskiene@lrs.lt
