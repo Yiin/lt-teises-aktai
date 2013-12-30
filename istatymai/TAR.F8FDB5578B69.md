@@ -78,14 +78,16 @@ Nr. XII-125,
 1. Šio įstatymo
 1 straipsnis įsigalioja 2009 m. rugpjūčio 1 d.
 2. Šio įstatymo
-2 straipsnio 2 dalis įsigalioja 2013 m. sausio 1 d. ir galioja iki 2013 m.
+2 straipsnio 2 dalis įsigalioja 2013 m. sausio 1 d. ir galioja iki 2014 m.
 gruodžio 31 d.
 3. Šio įstatymo
-2 straipsnio 1 dalis įsigalioja 2014 m. sausio 1 d.
+2 straipsnio 1 dalis įsigalioja 2015 m. sausio 1 d.
 Straipsnio
 pakeitimai:
 Nr. XII-125,
 2012-12-20, Žin., 2012, Nr. 154-7931 (2012-12-29)
+Nr. XII-668,
+2013-12-12, Žin., 2013, Nr. 140-7050 (2013-12-30)
  
 4
 straipsnis. Baigiamosios nuostatos
@@ -108,8 +110,8 @@ Pakeitimai:
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XI-2303,
-2012-10-17, Žin., 2012, Nr. 127-6392 (2012-11-03)
+XI-2303, 2012-10-17,
+Žin., 2012, Nr. 127-6392 (2012-11-03)
 VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO
 22 IR 33 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
  
@@ -121,11 +123,19 @@ VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO
 22 IR 33 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 2 IR 3 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO
 ĮSTATYMAS
  
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-668,
+2013-12-12, Žin., 2013, Nr. 140-7050 (2013-12-30)
+LIETUVOS RESPUBLIKOS VALSTYBINIO
+SOCIALINIO DRAUDIMO ĮSTATYMO 22 IR 33 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 3
+STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
 ***
 Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2013-01-03)
+Aušrinė Trapinskienė (2014-01-02)
                  
 ausrine.trapinskiene@lrs.lt
