@@ -2508,9 +2508,9 @@ Nr. X-1705,
 57 straipsnis. Išeitinė kompensacija atleidžiant
 pareigūną iš vidaus tarnybos
 1. Atleidžiant
-pareigūną iš vidaus tarnybos pagal šio Statuto 53 straipsnio 1 dalies 4, 11, 15
-ir 16 punktus, išmokama jo dviejų mėnesių vidutinio darbo užmokesčio dydžio
-išeitinė kompensacija.
+pareigūną iš vidaus tarnybos pagal šio Statuto 53 straipsnio 1 dalies 4, 11,
+15, 16 ir 18 punktus, išmokama jo dviejų mėnesių vidutinio darbo užmokesčio
+dydžio išeitinė kompensacija.
 2. Šio
 straipsnio 1 dalyje nustatyto dydžio kompensacija pareigūnams, nepertraukiamai
 ištarnavusiems daugiau kaip 5 metus, didinama pusantro karto, daugiau kaip 10
@@ -2520,6 +2520,8 @@ pakeitimai:
 Nr.
 X-804,
 2006-07-19, Žin., 2006, Nr. 87-3412 (2006-08-08)
+Nr. XII-685,
+2013-12-17, Žin., 2013, Nr. 140-7062 (2013-12-30)
  
 58
 straipsnis. Atsiskaitymas su atleidžiamu iš vidaus tarnybos pareigūnu
@@ -2627,8 +2629,8 @@ TARNYBOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
 6.
 Lietuvos
 Respublikos Seimas, Įstatymas
-Nr. X-68, 2004-12-22,
-Žin., 2004, Nr. 188-7000 (2004-12-31)
+Nr. X-68, 2004-12-22, Žin.,
+2004, Nr. 188-7000 (2004-12-31)
 VIDAUS
 TARNYBOS STATUTO 19, 52 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis
@@ -2729,10 +2731,10 @@ tarnybos pareigūnams iki tol mokamas vidutinis darbo užmokestis pagal Lietuvos
 Respublikos vidaus tarnybos statuto 41 straipsnio 3 dalį, vadovaujantis
 šio įstatymo nuostatomis, atitinkamai perskaičiuojamas, padidinamas ir (ar)
 pratęsiamas jo mokėjimo laikotarpis.
-Vidaus tarnybos pareigūnams, esantiems vaiko
-priežiūros atostogose (nepaisant to, ar vaiko priežiūros atostogos tęsiamos, ar
-suteikiamos iš naujo), kuriems vidutinio darbo užmokesčio mokėjimo laikas buvo
-pasibaigęs, nes vaikui (vaikams) suėjo vieni metai, nuo 2008 m. sausio 1 d. mokėjimas tęsiamas, jeigu vaikui (vaikams) dar nėra suėję dveji metai. 
+Vidaus tarnybos pareigūnams, esantiems
+vaiko priežiūros atostogose (nepaisant to, ar vaiko priežiūros atostogos
+tęsiamos, ar suteikiamos iš naujo), kuriems vidutinio darbo užmokesčio mokėjimo
+laikas buvo pasibaigęs, nes vaikui (vaikams) suėjo vieni metai, nuo 2008 m. sausio 1 d. mokėjimas tęsiamas, jeigu vaikui (vaikams) dar nėra suėję dveji metai. 
  
 16.
 Lietuvos
@@ -2802,8 +2804,8 @@ PAKEITIMO ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1424,
 2011-05-26, Žin., 2011, Nr. 72-3474 (2011-06-14)
-VIDAUS TARNYBOS STATUTO 23, 26
-STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+VIDAUS TARNYBOS STATUTO 23, 26 STRAIPSNIŲ
+PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas, išskyrus šio straipsnio 2
 dalį, įsigalioja 2011 m. rugsėjo 1 d.
  
@@ -2852,8 +2854,8 @@ TARNYBOS STATUTO 41 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos
 Respublikos Seimas, Įstatymas
 Nr.
-XII-434, 2013-06-27,
-Žin., 2013, Nr. 75-3761 (2013-07-13)
+XII-434,
+2013-06-27, Žin., 2013, Nr. 75-3761 (2013-07-13)
 VIDAUS
 TARNYBOS STATUTO 24, 26 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR STATUTO PAPILDYMO
 26(1) STRAIPSNIU ĮSTATYMAS
@@ -2867,6 +2869,16 @@ Nr. XII-456,
 2013-07-02, Žin., 2013, Nr. 78-3935 (2013-07-20)
 VIDAUS
 TARNYBOS STATUTO 28 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
+30.
+Lietuvos
+Respublikos Seimas, Įstatymas
+Nr.
+XII-685,
+2013-12-17, Žin., 2013, Nr. 140-7062 (2013-12-30)
+LIETUVOS
+RESPUBLIKOS VIDAUS TARNYBOS STATUTO 57 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+ 
  
 ***
 Pabaiga ***
@@ -2891,6 +2903,6 @@ Pabaiga ***
  
  
 Redagavo
-Aušrinė Trapinskienė (2013-07-22)
-                 
-ausrine.trapinskiene@lrs.lt
+Aušrinė Trapinskienė (2014-01-07)
+              
+   ausrine.trapinskiene@lrs.lt
