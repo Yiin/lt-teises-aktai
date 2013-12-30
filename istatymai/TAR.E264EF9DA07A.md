@@ -21,6 +21,10 @@ STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2013-12-30
+ 
+Įstatymas paskelbtas: Žin. 2012, Nr. 154-7933, i. k. 1121010ISTA0XII-127
+ 
 LIETUVOS RESPUBLIKOS NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO 17 IR 23 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
  
 2012 m. gruodžio 20 d. Nr. XII-127
@@ -112,12 +116,17 @@ Pereinamuoju laikotarpiu (2009 m. sausio 1 d. – 2013 m. gruodžio 31 d.) iš n
 
 
 
-2. Šio įstatymo 1 straipsnio 2 dalis įsigalioja 2014 m. sausio 1 d.
+2. Šio įstatymo 1 straipsnio 2 dalis įsigalioja 2015 m. sausio 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. XII-671, 2013-12-12, Žin., 2013, Nr. 140-7053 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00374
+ 
 
 
 
 
-3. Šio įstatymo 1 straipsnio 1 dalis galioja iki 2013 m. gruodžio 31 d.
+3. Šio įstatymo 1 straipsnio 1 dalis galioja iki 2014 m. gruodžio 31 d.
+Straipsnio dalies pakeitimai:
+Nr. XII-671, 2013-12-12, Žin., 2013, Nr. 140-7053 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00374
  
 
 
@@ -125,7 +134,20 @@ Pereinamuoju laikotarpiu (2009 m. sausio 1 d. – 2013 m. gruodžio 31 d.) iš n
 
 
 
+ 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XII-671, 2013-12-12, Žin., 2013, Nr. 140-7053 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00374
+Lietuvos Respublikos nedarbo socialinio draudimo įstatymo 17 ir 23 straipsnių pakeitimo ir papildymo įstatymo 3 straipsnio pakeitimo ĮSTATYMAS
