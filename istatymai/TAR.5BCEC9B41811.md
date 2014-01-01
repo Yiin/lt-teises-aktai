@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5BCEC9B41811"
 
 # Lietuvos Respublikos tarptautinių sutarčių įstatymas
 
-Suvestinė redakcija nuo 2012-07-01 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2015-03-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 60-1948, i. k. 0991010ISTAIII-1248
  
@@ -95,7 +95,10 @@ Lietuvos Respublikos tarptautinių sutarčių sudarymo iniciatyvos teisę turi L
 
 
 
-4. Sprendimai dėl prieštaravimo kitų tarptautinės teisės subjektų padarytoms išlygoms dėl Lietuvos Respublikos tarptautinių sutarčių priimami šio straipsnio 1, 2 ir 3 dalyse nustatyta tvarka, gavus Lietuvos Respublikos Seimo Užsienio reikalų komiteto išvadą, ir skelbiami leidinyje „Valstybės žinios“. Jeigu prieštaraujant išlygai dėl ratifikuotos Lietuvos Respublikos tarptautinės sutarties prieštaraujama ir šios sutarties įsigaliojimui tarp Lietuvos Respublikos ir išlygą padariusio tarptautinės teisės subjekto, sprendimą dėl prieštaravimo šio įstatymo 8 straipsnio 1 ir 2 dalyse nustatyta tvarka priima Lietuvos Respublikos Seimas. 
+4. Sprendimai dėl prieštaravimo kitų tarptautinės teisės subjektų padarytoms išlygoms dėl Lietuvos Respublikos tarptautinių sutarčių priimami šio straipsnio 1, 2 ir 3 dalyse nustatyta tvarka, gavus Lietuvos Respublikos Seimo Užsienio reikalų komiteto išvadą, ir skelbiami Teisės aktų registre. Jeigu prieštaraujant išlygai dėl ratifikuotos Lietuvos Respublikos tarptautinės sutarties prieštaraujama ir šios sutarties įsigaliojimui tarp Lietuvos Respublikos ir išlygą padariusio tarptautinės teisės subjekto, sprendimą dėl prieštaravimo šio įstatymo 8 straipsnio 1 ir 2 dalyse nustatyta tvarka priima Lietuvos Respublikos Seimas.
+Straipsnio dalies pakeitimai:
+Nr. XI-2346, 2012-11-06, Žin., 2012, Nr. 132-6674 (2012-11-15), i. k. 1121010ISTA0XI-2346
+ 
 
 
 Straipsnio pakeitimai:
@@ -420,16 +423,12 @@ Nr. X-332, 2005-07-07, Žin., 2005, Nr. 88-3295 (2005-07-21), i. k. 1051010ISTA0
 16 straipsnis. Lietuvos Respublikos tarptautinių sutarčių skelbimas
 
 
-1. Lietuvos Respublikos tarptautinės sutartys Užsienio reikalų ministerijos teikimu skelbiamos „Valstybės žiniose“.
-
-
-
-
-2. „Valstybės žiniose“ skelbiami tik tarptautinių mišriųjų sutarčių ratifikavimo įstatymai. Tarptautinės mišriosios sutartys, kurios skelbiamos lietuvių kalba Europos Sąjungos oficialiajame leidinyje, „Valstybės žiniose“ papildomai neskelbiamos.
+Lietuvos Respublikos tarptautinės sutartys Užsienio reikalų ministerijos teikimu skelbiamos Teisės aktų registre.
 
 
 Straipsnio pakeitimai:
 Nr. X-332, 2005-07-07, Žin., 2005, Nr. 88-3295 (2005-07-21), i. k. 1051010ISTA000X-332
+Nr. XI-2346, 2012-11-06, Žin., 2012, Nr. 132-6674 (2012-11-15), i. k. 1121010ISTA0XI-2346
  
 
 
@@ -480,3 +479,8 @@ Lietuvos Respublikos tarptautinių sutarčių įstatymo 1, 4, 6, 9, 15, 16 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1927, 2012-03-13, Žin., 2012, Nr. 36-1770 (2012-03-27), i. k. 1121010ISTA0XI-1927
 Lietuvos Respublikos tarptautinių sutarčių įstatymo 1, 2, 4, 5, 6, 7, 9, 10, 11, 13 straipsnių pakeitimo ir papildymo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2346, 2012-11-06, Žin., 2012, Nr. 132-6674 (2012-11-15), i. k. 1121010ISTA0XI-2346
+Lietuvos Respublikos tarptautinių sutarčių įstatymo 4 ir 16 straipsnių pakeitimo įstatymas
