@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS MOKĖJIMO ĮSTAIGŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2011-05-03 iki 2013-12-31
+Suvestinė redakcija nuo 2014-01-01 iki 2014-10-31
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 153-6887, i. k. 1091010ISTA00XI-549
  
@@ -30,6 +30,7 @@ MOKĖJIMO ĮSTAIGŲ
  
 2009 m. gruodžio 10 d. Nr. XI-549
 Vilnius
+ 
  
 
 
@@ -753,7 +754,10 @@ MOKĖJIMO ĮSTAIGOS IR KITOS VALSTYBĖS NARĖS MOKĖJIMO ĮSTAIGOS TEISĖS
 
 
 
-5. Viešojo mokėjimo įstaigų sąrašo tvarkytojas – priežiūros institucija – apie mokėjimo įstaigos, jos filialo ar tarpininko įtraukimą į sąrašą, jų duomenų ar informacijos pakeitimą skelbia ir šią informaciją reguliariai atnaujina priežiūros institucijos interneto tinklalapyje.
+5. Viešojo mokėjimo įstaigų sąrašo tvarkytojas – priežiūros institucija – apie mokėjimo įstaigos, jos filialo ar tarpininko įtraukimą į sąrašą, jų duomenų ar informacijos pakeitimą skelbia ir šią informaciją reguliariai atnaujina priežiūros institucijos interneto svetainėje.
+Straipsnio dalies pakeitimai:
+Nr. XI-2332, 2012-11-06, Žin., 2012, Nr. 132-6660 (2012-11-15), i. k. 1121010ISTA0XI-2332
+ 
 
 
 
@@ -1607,7 +1611,9 @@ Mokėjimo įstaigų priežiūros tikslais gautos informacijos apsaugai mutatis m
 
 
 
-3. Apie priimtą sprendimą nušalinti mokėjimo įstaigos vadovą (vadovus) nuo pareigų pranešama mokėjimo įstaigai ir Juridinių asmenų registro tvarkytojui, taip pat paskelbiama leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“.
+3. Apie priimtą sprendimą nušalinti mokėjimo įstaigos vadovą (vadovus) nuo pareigų pranešama mokėjimo įstaigai ir Juridinių asmenų registro tvarkytojui, taip pat paskelbiama priežiūros institucijos interneto svetainėje.
+Straipsnio dalies pakeitimai:
+Nr. XI-2332, 2012-11-06, Žin., 2012, Nr. 132-6660 (2012-11-15), i. k. 1121010ISTA0XI-2332
  
 
 
@@ -1638,7 +1644,10 @@ Mokėjimo įstaigų priežiūros tikslais gautos informacijos apsaugai mutatis m
 
 
 
-5. Apie priimtą sprendimą paskirti atstovą veiklos priežiūrai ar jį atšaukti ne vėliau kaip kitą darbo dieną po sprendimo priėmimo dienos pranešama mokėjimo įstaigai ir Juridinių asmenų registrui, taip pat paskelbiama leidinio „Valstybės žinios“ priede „Informaciniai pranešimai“.
+5. Apie priimtą sprendimą paskirti atstovą veiklos priežiūrai ar jį atšaukti ne vėliau kaip kitą darbo dieną po sprendimo priėmimo dienos pranešama mokėjimo įstaigai ir Juridinių asmenų registrui, taip pat paskelbiama priežiūros institucijos interneto svetainėje.
+Straipsnio dalies pakeitimai:
+Nr. XI-2332, 2012-11-06, Žin., 2012, Nr. 132-6660 (2012-11-15), i. k. 1121010ISTA0XI-2332
+ 
 
 
 
@@ -1802,3 +1811,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1341, 2011-04-21, Žin., 2011, Nr. 52-2516 (2011-05-03), i. k. 1111010ISTA0XI-1341
 Lietuvos Respublikos mokėjimo įstaigų įstatymo 13 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XI-2332, 2012-11-06, Žin., 2012, Nr. 132-6660 (2012-11-15), i. k. 1121010ISTA0XI-2332
+Lietuvos Respublikos mokėjimo įstaigų įstatymo 12, 32 ir 33 straipsnių pakeitimo įstatymas
